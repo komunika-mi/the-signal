@@ -5,6 +5,181 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "fapa-pastikan-karhutla-tak-ganggu-operasi-di-kalimantan",
+  "category": "Aksi Korporasi",
+  "title": "FAPA Pastikan Karhutla Tak Ganggu [Operasi] di Kalimantan",
+  "deck": "Menjawab permintaan penjelasan Bursa, FAP Agri menyatakan kebakaran hutan dan lahan di sejumlah wilayah Indonesia tidak berdampak material terhadap produksi, pendapatan, maupun arus kas perseroan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FAPA",
+   "karhutla",
+   "kelapa sawit",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4bfb9a555e_a2d8df3124.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bltz-jelaskan-penyebab-rugi-ekspansi-nonbioskop-ditunda",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ Jelaskan Penyebab Rugi, Ekspansi Nonbioskop [Ditunda]",
+  "deck": "Dalam paparan publik insidentil usai suspensi saham, manajemen BLTZ menyebut rugi akibat beban bunga utang, sementara rencana ekspansi ke bisnis pijat dan kosmetik Korea belum diprioritaskan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLTZ",
+   "Graha Layar Prima",
+   "CGV Cinemas",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/117c176552_7377508b07.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nice-pastikan-tambang-nikel-tak-terdampak-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "NICE Pastikan Tambang Nikel Tak Terdampak [Karhutla]",
+  "deck": "PT Adhi Kartiko Pratama Tbk (NICE) menjawab permintaan penjelasan BEI soal kebakaran hutan dan lahan, memastikan tambang nikelnya di Konawe Utara tidak terganggu.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICE",
+   "karhutla",
+   "pertambangan nikel",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb058456de_0c6ecbee38.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cita-pastikan-operasi-tambang-normal-meski-ada-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "CITA Pastikan Operasi Tambang Normal Meski Ada [Karhutla]",
+  "deck": "Cita Mineral Investindo (CITA) memastikan ke Bursa Efek Indonesia bahwa kebakaran hutan dan lahan di konsesi Ketapang tidak mengganggu target produksi dan keuangan 2026.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CITA",
+   "karhutla",
+   "tambang bauksit",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/79d756a348_6688fb687a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pidl-rampungkan-pembayaran-utang-dari-dana-obligasi-rp452-m",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Rampungkan Pembayaran [Utang] dari Dana Obligasi Rp452 M",
+  "deck": "PIDL mengoreksi laporan realisasi dana hasil obligasi dan sukuk mudharabah senilai total Rp936,79 miliar, dengan 99 persen dana obligasi dipakai melunasi utang bank.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIDL",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pembayaran utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e067c343ae_cd63975df5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dpns-jelaskan-ke-bursa-rups-perubahan-usaha-mundur-ke-desember",
+  "category": "Aksi Korporasi",
+  "title": "DPNS Jelaskan ke Bursa, RUPS Perubahan Usaha [Mundur] ke Desember",
+  "deck": "Menjawab permintaan penjelasan Bursa, DPNS mengakui audit laporan keuangan kuartal I 2026 molor karena gangguan sistem akuntansi, sehingga RUPS perubahan usaha mundur ke Desember 2026.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DPNS",
+   "suspensi saham",
+   "RUPSLB",
+   "audit laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c832cf8a7e_e5ddd638b9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vtny-jadwalkan-rupslb-pada-23-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Jadwalkan [RUPSLB] pada 23 November 2026",
+  "deck": "Venteny Fortuna International mengumumkan rencana RUPSLB 23 November 2026, dengan batas pencatatan pemegang saham 29 Oktober 2026.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "RUPSLB",
+   "Venteny Fortuna International"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5806c5c56_da6db17644.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jarr-tak-ada-dampak-karhutla-ke-produksi-dan-laba-2026",
+  "category": "Aksi Korporasi",
+  "title": "JARR: Tak Ada Dampak [Karhutla] ke Produksi dan Laba 2026",
+  "deck": "Menjawab permintaan penjelasan BEI, JARR menyatakan tidak ada kejadian kebakaran hutan dan lahan di area operasionalnya di Kalimantan Selatan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JARR",
+   "karhutla",
+   "kelapa sawit",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e21aa03be2_85540d8ab5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jawa-koreksi-penjelasan-ke-bei-sebut-belum-ada-sanksi-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "JAWA Koreksi Penjelasan ke BEI, Sebut Belum Ada Sanksi [Karhutla]",
+  "deck": "Jaya Agra Wattie (JAWA) mengoreksi surat penjelasannya ke BEI soal karhutla, kini menyatakan belum ada sanksi administratif, berbeda dari keterangan sehari sebelumnya.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JAWA",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da46b6c6d1_67ed2de0bd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mktr-pastikan-karhutla-tak-ganggu-operasi-sawit-lamandau",
+  "category": "Aksi Korporasi",
+  "title": "MKTR Pastikan [Karhutla] Tak Ganggu Operasi Sawit Lamandau",
+  "deck": "Menanggapi permintaan penjelasan Bursa, MKTR menyatakan kebakaran hutan di sekitar lahan sawitnya di Lamandau belum berdampak material terhadap produksi, pendapatan, laba, maupun aset.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKTR",
+   "karhutla",
+   "sawit",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e795fb4f8_3ff6d619ae.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "slis-gelar-rupslb-kedua-usai-kuorum-rapat-pertama-tak-tercapai",
+  "category": "Aksi Korporasi",
+  "title": "SLIS Gelar RUPSLB Kedua Usai [Kuorum] Rapat Pertama Tak Tercapai",
+  "deck": "RUPSLB pertama SLIS gagal kuorum meski dihadiri 53,01 persen pemegang saham. Rapat kedua digelar 23 Oktober 2026 untuk menyetujui penyesuaian anggaran dasar dengan KBLI 2025.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SLIS",
+   "RUPSLB",
+   "anggaran dasar",
+   "KBLI 2025"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/930a4d81c4_998858aba9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-dan-timor-leste-teken-bit-lindungi-investasi-dua-negara",
   "category": "Global",
   "title": "Indonesia dan Timor-Leste Teken [BIT], Lindungi Investasi Dua Negara",
@@ -39,6 +214,22 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822226.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "tapg-pastikan-karhutla-tak-ganggu-produksi-sawit",
+  "category": "Aksi Korporasi",
+  "title": "TAPG Pastikan [Karhutla] Tak Ganggu Produksi Sawit",
+  "deck": "Triputra Agro Persada menanggapi permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan, menyatakan belum ada area operasional yang terdampak.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "karhutla",
+   "kelapa sawit",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de442bb85b_b9566fa18f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "saham-cani-dapat-tambahan-kriteria-pemantauan-khusus",
@@ -6312,199 +6503,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-2774-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tldn-koreksi-realisasi-dana-ipo-rp40-m-dialihkan-ke-cdm",
-  "category": "Aksi Korporasi",
-  "title": "TLDN Koreksi Realisasi Dana IPO, Rp40 M [Dialihkan] ke CDM",
-  "deck": "Teladan Prima Agro mengoreksi laporan realisasi dana IPO: dana Rp40 miliar yang semula untuk pembangkit biogas PT Daya Lestari ternyata disetorkan ke PT Cipta Davia Mandiri.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLDN",
-   "Pasar Modal",
-   "Realisasi Dana IPO",
-   "Cipta Davia Mandiri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5d59cb1ea7_53828b4062.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-pefindo-tahan-peringkat-idb-outlook-negatif-setahun",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: PEFINDO Tahan Peringkat idB, Outlook [Negatif] Setahun",
-  "deck": "PEFINDO mempertahankan peringkat idB untuk Waskita Karya periode 1 Oktober 2026-2027 dengan outlook negatif, sementara obligasi dan sukuk bergaransi pemerintah tetap idAAA.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "PEFINDO",
-   "obligasi",
-   "peringkat kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3ef66a3ce5_ba3152d80a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bumi-koreksi-laporan-dana-obligasi-rp906-miliar-belum-terpakai",
-  "category": "Aksi Korporasi",
-  "title": "BUMI Koreksi Laporan Dana Obligasi, [Rp906 Miliar] Belum Terpakai",
-  "deck": "BUMI mengoreksi laporan realisasi dana empat tahap obligasi senilai Rp3,95 triliun; Rp905,88 miliar belum terpakai, menanti akuisisi Laman Mining dan pelunasan pinjaman ke Indies.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUMI",
-   "obligasi",
-   "penggunaan dana",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c12f106ac3_eb682784aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-elaine-low-lepas-16-6-juta-saham-bayan-resources",
-  "category": "Aksi Korporasi",
-  "title": "BYAN: Elaine Low [Lepas] 16,6 Juta Saham Bayan Resources",
-  "deck": "Elaine Low melepas 16.666.667 saham Bayan Resources pada 7 Oktober 2026 di harga Rp2.588 per saham untuk divestasi, menurunkan hak suaranya dari 22,10% jadi 22,05%.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "Bayan Resources",
-   "kepemilikan saham",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-6571-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-elaine-low-tambah-33-3-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "BYAN: Elaine Low [Tambah] 33,3 Juta Saham",
-  "deck": "Elaine Low menambah 33,33 juta saham BYAN lewat pembelian tidak langsung, menaikkan hak suaranya dari 22,00% menjadi 22,10%.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "kepemilikan saham",
-   "Bayan Resources",
-   "Elaine Low"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-7889-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bp-batam-susun-7-pilar-genjot-ekosistem-investasi",
-  "category": "Bisnis",
-  "title": "BP Batam Susun 7 Pilar, Genjot [Ekosistem] Investasi",
-  "deck": "BP Batam merumuskan tujuh pilar pembangunan kawasan, dengan penekanan khusus pada dukungan berkelanjutan bagi investasi yang sudah masuk ke Batam.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/bp-batam-susun-7-pilar-genjot-ekosistem-investasi.jpg",
-  "imageV": "mv0dusrw",
-  "tags": [
-   "batam",
-   "bp batam",
-   "investasi",
-   "barelang"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471920-7-pilar-pengembangan-batam-investasi-masuk-harus-didukung-ekosistem-yang-siap"
- },
- {
-  "slug": "kdtn-rencana-akuisisi-ruby-mining-tertunda-direksi-berganti",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Rencana Akuisisi Ruby Mining Tertunda, [Direksi] Berganti",
-  "deck": "Ruby Mining (Hong Kong) Limited menunda akuisisi PT Puri Sentul Permai Tbk tanpa batas waktu baru, pemegang saham pengendali ganti direksi lewat RUPSLB.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "akuisisi",
-   "RUPSLB",
-   "Ruby Mining"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aadbda3000_2247002136.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bolt-pengendali-tambah-kepemilikan-ke-66-5-persen",
-  "category": "Aksi Korporasi",
-  "title": "BOLT: Pengendali [Tambah] Kepemilikan ke 66,5 Persen",
-  "deck": "Garuda Multi Investama, pemegang saham pengendali Garuda Metalindo (BOLT), menambah 62,5 juta lembar saham seharga Rp800 per saham, mengerek hak suaranya dari 63,83 persen menjadi 66,50 persen.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLT",
-   "Garuda Metalindo",
-   "kepemilikan saham",
-   "pemegang saham pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-5726-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cani-paparkan-defisiensi-modal-as-34-2-juta-dalam-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "CANI Paparkan Defisiensi Modal [AS$34,2 Juta] dalam Public Expose",
-  "deck": "Materi public expose insidentil CANI merinci defisiensi modal AS$34,2 juta dan rencana konversi utang pihak berelasi AS$36,6 juta menjadi ekuitas, menyusul opini disclaimer auditor atas laporan keuangan 2025.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CANI",
-   "disclaimer opinion",
-   "public expose",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b00556aa47_c7b6f6b901.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pefindo-pertahankan-rating-ida-toba-outlook-stabil",
-  "category": "Aksi Korporasi",
-  "title": "PEFINDO Pertahankan Rating [idA] TOBA, Outlook Stabil",
-  "deck": "PEFINDO menegaskan peringkat idA dengan outlook stabil untuk TOBA dan tujuh seri obligasinya senilai total Rp875 miliar, berlaku 5 Oktober 2026 sampai 1 Oktober 2027.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "PEFINDO",
-   "peringkat kredit",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5ae4deb50e_54b9e9a6b4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-edwin-soeryadjaya-beli-325-000-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Edwin Soeryadjaya Beli [325.000] Saham Lagi",
-  "deck": "Komisaris SRTG Edwin Soeryadjaya membeli 325.000 saham tambahan pada 6-7 Oktober 2026, menaikkan hak suaranya menjadi 35,9804 persen.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Saratoga Investama Sedaya",
-   "Edwin Soeryadjaya",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-5406-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-panggil-rupslb-kedua-untuk-setujui-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "BIPP Panggil RUPSLB Kedua untuk Setujui [PMTHMETD]",
-  "deck": "Rapat pertama 25 September gagal kuorum, BIPP memanggil pemegang saham independen hadir lagi 16 Oktober untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "RUPSLB",
-   "PMTHMETD",
-   "Penambahan Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/baed3462f0_817507f49f.pdf",
   "sourceLabel": "IDX"
  }
 ];

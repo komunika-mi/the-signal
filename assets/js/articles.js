@@ -3,6 +3,293 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "fapa-pastikan-karhutla-tak-ganggu-operasi-di-kalimantan",
+  "category": "Aksi Korporasi",
+  "title": "FAPA Pastikan Karhutla Tak Ganggu [Operasi] di Kalimantan",
+  "deck": "Menjawab permintaan penjelasan Bursa, FAP Agri menyatakan kebakaran hutan dan lahan di sejumlah wilayah Indonesia tidak berdampak material terhadap produksi, pendapatan, maupun arus kas perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T17:34:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4bfb9a555e_a2d8df3124.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FAPA",
+  "tags": [
+   "FAPA",
+   "karhutla",
+   "kelapa sawit",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT FAP Agri Tbk (FAPA) merespons surat permintaan penjelasan Bursa Efek Indonesia Nomor S-13070/BEI.PP3/10-2026 tanggal 13 Oktober 2026 terkait peningkatan kejadian kebakaran hutan dan lahan (karhutla) di sejumlah wilayah Indonesia. Tanggapan disampaikan lewat surat tertanggal 15 Oktober 2026 yang ditandatangani Ricky Tjandra selaku Direktur Utama.",
+   "Dalam suratnya, FAPA menjelaskan bahwa seluruh kegiatan usaha perkebunan kelapa sawit, pengolahan, dan perdagangan dijalankan lewat 10 entitas anak, bukan dikelola langsung oleh perseroan. Di Kalimantan Utara beroperasi PT Bhumi Simanggaris Indah, PT Tirta Madu Sawit Jaya, PT Bulungan Hijau Perkasa, dan PT Karangjuang Hijaulestari, semuanya di Kabupaten Nunukan. Di Kalimantan Timur ada PT Borneo Bhakti Sejahtera, PT Marsam Citra Adiperkasa, dan PT Setia Agro Utama di Kabupaten Mahakam Ulu, serta PT Ketapang Hijau Lestari di Kabupaten Kutai Barat. Riau diwakili PT Riau Agung Karya Abadi di Kabupaten Kampar, sementara PT Fajar Niaga Berjaya di Jakarta hanya menjalankan perdagangan hasil perkebunan. Berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, Kalimantan Utara menyumbang 52,26 persen pendapatan neto dan 61,91 persen produksi tandan buah segar (TBS), Kalimantan Timur menyumbang 41,63 persen pendapatan dan 34,50 persen produksi, sedangkan Riau dan Jakarta bersama-sama hanya 6,11 persen pendapatan dan 3,59 persen produksi.",
+   "FAPA menegaskan karhutla sejauh ini tidak mengganggu kegiatan pemanenan, pengangkutan TBS, maupun pengolahan di pabrik kelapa sawit entitas anak, sehingga target produksi 2026 tidak terpengaruh. Perseroan juga menyatakan tidak ada dampak material terhadap pendapatan, laba, maupun nilai aset, tidak ada kerusakan pada tanaman atau aset tetap, tidak ada gangguan arus kas dari aktivitas operasi, investasi, maupun pendanaan, serta tidak ada penghentian operasional di luar rencana. Sampai tanggal surat, FAPA dan entitas anak juga tidak sedang menghadapi proses hukum atau sanksi administratif terkait karhutla.",
+   "Sebagai mitigasi, FAPA menerapkan Kebijakan Pembukaan Lahan Tanpa Bakar dan kebijakan No Deforestation, No Peat, and No Exploitation sejak 2019, sejalan dengan Instruksi Presiden Nomor 11 Tahun 2026 tentang penguatan larangan membuka lahan dengan cara membakar. Langkah jangka pendek mencakup pemantauan titik panas lewat aplikasi, citra satelit, drone, dan patroli lapangan, penyiapan menara pengawas serta peralatan pemadam seperti pompa air, selang, dan tangki air, pembuatan sekat bakar, dan pelatihan bersama Manggala Agni serta Badan Penanggulangan Bencana Daerah. Untuk jangka panjang, perseroan menargetkan pemenuhan 100 persen peralatan pengendalian kebakaran di seluruh entitas anak, pengembangan sistem deteksi dini otomatis berbasis sensor dan GIS, pembentukan kelompok Masyarakat Peduli Api, serta kerja sama berkelanjutan dengan pemerintah daerah, TNI, dan Polri."
+  ],
+  "fotoAdegan": "Plantation workers checking a water pump and coiled fire hoses beside an oil palm estate under a hazy tropical sky",
+  "takeaway": "Laporan ini condong netral bagi FAPA, karena isinya pada dasarnya mengonfirmasi tidak ada perubahan apa pun pada operasional maupun keuangan perseroan, dan klaim tidak berdampak ini masih berasal dari pengakuan sepihak perseroan sendiri, belum diverifikasi auditor independen. Yang disentuh di sini adalah arus kas, yaitu uang yang benar-benar keluar masuk perusahaan dari kegiatan operasi, investasi, dan pendanaan, berbeda dari laba di atas kertas yang bisa dipengaruhi pencatatan akuntansi. FAPA menegaskan karhutla tidak mengganggu arus kas sama sekali, klaim yang jika benar berarti kondisi keuangan harian perseroan belum terganggu oleh kejadian ini. Yang perlu dipantau selanjutnya adalah perkembangan musim kemarau di Kalimantan Utara dan Kalimantan Timur, dua wilayah yang bersama-sama menyumbang lebih dari 94 persen pendapatan konsolidasian perseroan, sehingga risiko kebakaran di sana jauh lebih berarti bagi FAPA dibanding wilayah lain. Investor juga perlu mengecek apakah perseroan akan menyampaikan keterbukaan informasi lanjutan sesuai ketentuan Peraturan Bursa Nomor I-E butir III.2.1 bila kondisi di lapangan memburuk.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bltz-jelaskan-penyebab-rugi-ekspansi-nonbioskop-ditunda",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ Jelaskan Penyebab Rugi, Ekspansi Nonbioskop [Ditunda]",
+  "deck": "Dalam paparan publik insidentil usai suspensi saham, manajemen BLTZ menyebut rugi akibat beban bunga utang, sementara rencana ekspansi ke bisnis pijat dan kosmetik Korea belum diprioritaskan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T17:31:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/117c176552_7377508b07.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLTZ",
+  "tags": [
+   "BLTZ",
+   "Graha Layar Prima",
+   "CGV Cinemas",
+   "public expose"
+  ],
+  "body": [
+   "PT Graha Layar Prima Tbk (BLTZ), operator bioskop CGV Cinemas, menggelar Paparan Publik Insidentil secara daring pada Rabu, 14 Oktober 2026 pukul 10.30 WIB melalui Zoom. Acara ini dihadiri lima peserta dari luar manajemen, serta diwakili perseroan oleh Direktur Haryani Suwirman, Finance Team Leader Arie Hartomo Putra, dan Marketing Team Leader Mandati Martalangga Putri. Dalam sesi tanya jawab, investor bernama Daniel menanyakan sebab pendapatan turun 16,7 persen dan laba operasi anjlok 55 persen sepanjang Januari-Juni 2026. Manajemen menjawab penurunan itu dipicu konten film yang ditayangkan selama periode tersebut belum berhasil menarik minat penonton secara optimal.",
+   "Investor yang sama juga mempertanyakan mengapa laba operasi masih positif tetapi laba bersih justru rugi. Manajemen menjelaskan hal ini terutama disebabkan beban bunga atas pinjaman perseroan yang masih berjalan, dan sebagai upaya mengimbangi beban tersebut, perseroan telah melakukan pembayaran sebagian utang selama 2026 sebagaimana tercermin dalam laporan keuangan. Jurnalis Kontan, Vatrischa Putri, menagih kejelasan rencana ekspansi ke bisnis layanan pijat (KBLI 86995) dan ritel kosmetik Korea (KBLI 47724) yang sebelumnya pernah dipaparkan perseroan. Manajemen menjawab bahwa saat ini perseroan memprioritaskan inisiatif bisnis lain yang dinilai lebih relevan, sehingga rencana diversifikasi ke dua bidang usaha baru tersebut belum menjadi fokus.",
+   "Soal operasional, perseroan mengungkap sampai Juni 2026 mengoperasikan 72 bioskop dengan 411 layar, dan telah menambah Auditorium ScreenX di dua lokasi baru, yaitu CGV 23 Paskal Bandung dan CGV Pakuwon Mall Yogyakarta. Manajemen juga menyebut segmen Acara, Iklan, dan Lainnya tumbuh sekitar 15,7 persen pada kuartal II 2026, salah satu sumber pendapatan di luar tiket bioskop yang terus mereka perkuat lewat live viewing, noraebang, dan community event. Namun untuk target pertumbuhan pendapatan dan laba sepanjang 2026, serta besaran belanja modal dan lokasi ekspansi ke depan, perseroan menyatakan belum dapat menyampaikan angka spesifik dan akan terus mengevaluasi sesuai kondisi pasar."
+  ],
+  "fotoAdegan": "Quiet multiplex cinema lobby in Jakarta before opening hours, rows of ticket counters and popcorn stands, soft morning light through glass doors",
+  "takeaway": "Laporan ini condong negatif bagi BLTZ karena forum yang seharusnya meyakinkan investor pasca suspensi saham justru menunjukkan manajemen belum punya jawaban konkret soal target kinerja, kapan utang bisa lunas, atau kapan rencana ekspansi direalisasikan, semuanya masih digantungkan pada 'evaluasi kondisi pasar'. Pos yang tersentuh di sini adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjamannya, yang membuat laba operasi perseroan tetap positif tapi berubah jadi rugi bersih di laporan akhir, sementara pelunasan utang sebagian justru menandakan perseroan masih berusaha mengurangi beban itu pelan-pelan. Pelaku pasar perlu mencermati laporan keuangan kuartal III 2026 untuk melihat apakah beban bunga ini mulai mengecil, serta menunggu kejelasan Rencana Kerja 2027 yang menurut manajemen baru akan disusun berdasarkan evaluasi berkala, tanpa target angka yang pasti sampai saat ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nice-pastikan-tambang-nikel-tak-terdampak-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "NICE Pastikan Tambang Nikel Tak Terdampak [Karhutla]",
+  "deck": "PT Adhi Kartiko Pratama Tbk (NICE) menjawab permintaan penjelasan BEI soal kebakaran hutan dan lahan, memastikan tambang nikelnya di Konawe Utara tidak terganggu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T17:21:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb058456de_0c6ecbee38.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICE",
+  "tags": [
+   "NICE",
+   "karhutla",
+   "pertambangan nikel",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Adhi Kartiko Pratama Tbk (NICE) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-13063/BEI.PP2/10-2026 tertanggal 13 Oktober 2026. BEI meminta penjelasan itu menyusul meningkatnya kejadian kebakaran hutan dan lahan di sejumlah wilayah Indonesia, berdasarkan pemberitaan media dan data titik panas dari instansi pemerintah. Surat tanggapan perusahaan, bernomor 159/AKP-Corsec/Rep/X/2026, ditandatangani oleh Direktur Yeon Ho Choi dan disampaikan pada 15 Oktober 2026.",
+   "Dalam tanggapannya, NICE menjelaskan bahwa kegiatan pertambangan nikelnya berlokasi di Desa Lameruru, Kecamatan Langgikima, Kabupaten Konawe Utara, Provinsi Sulawesi Tenggara. Perusahaan menegaskan hingga tanggal penyampaian tanggapan, wilayah tambang tersebut tidak berada dalam area yang terdampak kebakaran hutan dan lahan, sehingga tidak ada gangguan operasional maupun penghentian kegiatan yang tidak direncanakan di lokasi tersebut.",
+   "Terkait potensi dampak finansial, NICE menyatakan tidak memperkirakan ada dampak material terhadap pendapatan, laba, atau nilai asetnya akibat kebakaran hutan dan lahan. Perusahaan juga menegaskan tidak sedang menghadapi dan tidak berpotensi menghadapi proses hukum atau sanksi administratif terkait kebakaran hutan dan lahan, baik untuk perusahaan maupun entitas anaknya, serta tidak ada informasi material lain soal isu ini yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Excavators moving reddish laterite soil at an open pit nickel mine on a forested Sulawesi hillside under a clear sky",
+  "takeaway": "Laporan ini netral bagi NICE karena isinya konfirmasi bahwa tidak ada perubahan apa pun pada operasional maupun keuangan perusahaan, bukan kabar baik atau buruk yang baru. Yang sebenarnya dipantau di sini adalah kelangsungan operasional dan arus kas perusahaan, yaitu uang yang terus mengalir dari hasil tambang. Kalau tambang berhenti karena kebakaran hutan, pemasukan perusahaan bisa seret meski belum tentu merugi, dan di sinilah investor biasa was-was. Karena NICE menyatakan lokasi tambangnya di Konawe Utara belum tersentuh titik api, risiko itu untuk saat ini belum terjadi. Yang perlu dicermati selanjutnya adalah apakah titik panas di Sulawesi Tenggara meluas mendekati area tambang di Langgikima, sebab perusahaan wajib menyampaikan keterbukaan baru ke bursa kalau situasi itu berubah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cita-pastikan-operasi-tambang-normal-meski-ada-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "CITA Pastikan Operasi Tambang Normal Meski Ada [Karhutla]",
+  "deck": "Cita Mineral Investindo (CITA) memastikan ke Bursa Efek Indonesia bahwa kebakaran hutan dan lahan di konsesi Ketapang tidak mengganggu target produksi dan keuangan 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T17:15:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/79d756a348_6688fb687a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CITA",
+  "tags": [
+   "CITA",
+   "karhutla",
+   "tambang bauksit",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Cita Mineral Investindo Tbk (CITA) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia Nomor S-13043/BEI.PP1/10-2026 tanggal 13 Oktober 2026 terkait kebakaran hutan dan lahan (karhutla). Dalam surat balasan Nomor 048/CITA/X/2026 tanggal 15 Oktober 2026 yang ditandatangani Direktur Yusak Lumba Pardede, perusahaan menjelaskan bahwa seluruh kegiatan tambang bauksit beserta entitas anaknya berada di Site Sandai dan Air Upas, Kabupaten Ketapang, Kalimantan Barat. Satu wilayah konsesi ini menyumbang 100 persen dari seluruh volume produksi bauksit dan pendapatan konsolidasi perusahaan.",
+   "Perseroan menegaskan tidak ada penghentian operasional yang tidak terencana di seluruh lokasi tambang maupun fasilitas pendukungnya. Namun di Site Sandai sempat diberlakukan pembatasan pengangkutan (hauling) Metallurgical Grade Bauxite karena jarak pandang terbatas akibat kabut asap. Di luar soal kebakaran, musim kemarau panjang atau El Nino justru membuat air untuk proses pencucian bijih bauksit terbatas, sehingga volume produksi disesuaikan atau diturunkan, dan debit air sungai yang turun sempat mengganggu pengiriman produk lewat kapal dan tongkang. Perusahaan menyatakan penyesuaian ini tidak berdampak material terhadap target produksi 2026 maupun kinerja keuangan, yaitu pendapatan, laba bersih, dan total aset.",
+   "Untuk penanggulangan karhutla, perusahaan menjalankan Emergency Response Team (CITA ERT) di Site Sandai dan Air Upas yang juga membantu memadamkan titik api di lahan milik masyarakat sekitar. Perusahaan mengintegrasikan data titik api SiPongi dari Kementerian Kehutanan ke dashboard pemantauan internal yang mengirim notifikasi otomatis berdasarkan tingkat risiko tinggi, sedang, dan rendah. Langkah lain meliputi larangan pembakaran terbuka, patroli rutin, edukasi masyarakat, pembentukan tim tugas khusus di area Persetujuan Penggunaan Kawasan Hutan (PPKH) lengkap dengan truk air dan tenaga harian lepas, penyaluran bantuan berupa masker, vitamin, oksigen portabel, dan susu steril, serta koordinasi dengan BPBD, TNI, Polri, aparatur desa, Kementerian ESDM, dan Kementerian Kehutanan.",
+   "Perseroan menyatakan hingga tanggal surat ini, baik perusahaan maupun seluruh entitas anaknya tidak menghadapi proses hukum, penyidikan, gugatan, maupun sanksi administratif terkait karhutla, termasuk tidak ada penyegelan lahan atau pencabutan izin operasional. Perusahaan juga menegaskan tidak ada informasi atau fakta material lain soal karhutla yang belum diungkapkan ke publik dan berpotensi memengaruhi kelangsungan usaha maupun harga serta nilai efeknya."
+  ],
+  "fotoAdegan": "Mining trucks hauling reddish bauxite ore along a dirt road, hazy sky in the distance, tropical forest edge nearby.",
+  "takeaway": "Penjelasan ini condong netral karena isinya konfirmasi bahwa tidak ada kerusakan besar, bukan informasi baru yang mengubah prospek perusahaan, sementara klaim 'tidak material' datang dari penilaian perusahaan sendiri tanpa angka pembanding yang bisa diverifikasi pasar. Pos yang tersentuh adalah volume produksi, karena kekurangan air akibat musim kemarau panjang memaksa penyesuaian proses pencucian bijih bauksit, dan arus kas pengiriman, karena debit sungai yang turun sempat menghambat pengangkutan produk lewat tongkang sehingga uang dari penjualan bisa masuk lebih lambat kalau pengiriman tertunda. Hal ini penting diperhatikan karena seluruh produksi dan pendapatan perusahaan bergantung 100 persen pada satu wilayah konsesi di Ketapang, sehingga tidak ada lokasi lain yang bisa menahan dampak kalau situasi memburuk. Yang perlu dipantau selanjutnya adalah laporan produksi dan kinerja keuangan kuartal keempat 2026, karena di situlah klaim bahwa dampaknya tidak material akan benar-benar teruji.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pidl-rampungkan-pembayaran-utang-dari-dana-obligasi-rp452-m",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Rampungkan Pembayaran [Utang] dari Dana Obligasi Rp452 M",
+  "deck": "PIDL mengoreksi laporan realisasi dana hasil obligasi dan sukuk mudharabah senilai total Rp936,79 miliar, dengan 99 persen dana obligasi dipakai melunasi utang bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T17:10:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e067c343ae_cd63975df5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIDL",
+  "tags": [
+   "PIDL",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pembayaran utang"
+  ],
+  "body": [
+   "PT Pindo Deli Pulp And Paper Mills (PIDL) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil penawaran umum yang sebelumnya diterbitkan dengan nomor 019/CRP/PD/X/2026 tanggal 2 Oktober 2026. Surat koreksi bernomor 019-1/CRP/PD/X/2026 ini ditandatangani Direktur Kosim Sutiono dan disampaikan ke Otoritas Jasa Keuangan untuk memenuhi POJK Nomor 40 Tahun 2025, dengan tembusan ke Direksi Bursa Efek Indonesia dan PT Bank KB Indonesia Tbk selaku wali amanat. Laporan ini mencakup dua instrumen yang efektif sejak 30 Juni 2026: Obligasi Berkelanjutan II Tahap I Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Tahap I Tahun 2026, untuk periode sampai dengan 30 September 2026.",
+   "Dari penerbitan obligasi, perseroan mengumpulkan dana Rp455.965.000.000. Setelah dipotong biaya penawaran umum Rp3.550.944.936, antara lain biaya jasa penyelenggaraan Rp917.451.050 dan biaya jasa penjaminan Rp458.725.526, hasil bersih yang diterima menjadi Rp452.414.055.064. Seluruh dana itu sudah terpakai tanpa sisa: Rp446.936.116.000 atau 99 persen dipakai untuk membayar pokok pinjaman bank, angsuran pokok, dan/atau bunga pinjaman, sementara Rp5.477.939.064 atau 1 persen sisanya dialokasikan sebagai modal kerja.",
+   "Dari penerbitan sukuk mudharabah, dana yang terkumpul Rp487.455.000.000, dengan biaya penawaran umum Rp3.074.387.849, termasuk biaya jasa penyelenggaraan Rp939.075.099. Hasil bersihnya Rp484.380.612.151, dan seluruhnya, 100 persen, dialokasikan sebagai modal kerja. Sama seperti obligasi, tidak ada sisa dana yang masih mengendap di rekening penampungan maupun ditempatkan di instrumen lain."
+  ],
+  "fotoAdegan": "Rolls of white paper stacked on pallets inside a large pulp and paper factory, forklift moving nearby, industrial overhead lighting",
+  "takeaway": "Laporan ini netral bagi performa PIDL karena hanya mengoreksi detail administratif dari laporan sebelumnya, sementara substansinya tetap sama: seluruh dana hasil obligasi dan sukuk sudah terealisasi 100 persen sesuai rencana di prospektus, tanpa sisa dana dan tanpa deviasi penggunaan. Pos kinerja yang tersentuh adalah beban utang, karena 99 persen dana obligasi dipakai melunasi pokok pinjaman bank dan bunganya, yang secara teori mengurangi beban bunga tahunan perusahaan, serta modal kerja, yakni dana operasional untuk kebutuhan sehari-hari seperti membeli bahan baku dan membayar pemasok yang kini bertambah dari dana sukuk. Karena dana sudah habis terealisasi, tidak ada lagi angka dari laporan ini yang perlu ditunggu. Yang lebih relevan dipantau selanjutnya adalah laporan keuangan kuartalan PIDL untuk melihat apakah pembayaran utang ini benar menurunkan rasio utang dan beban bunga perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dpns-jelaskan-ke-bursa-rups-perubahan-usaha-mundur-ke-desember",
+  "category": "Aksi Korporasi",
+  "title": "DPNS Jelaskan ke Bursa, RUPS Perubahan Usaha [Mundur] ke Desember",
+  "deck": "Menjawab permintaan penjelasan Bursa, DPNS mengakui audit laporan keuangan kuartal I 2026 molor karena gangguan sistem akuntansi, sehingga RUPS perubahan usaha mundur ke Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T17:00:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c832cf8a7e_e5ddd638b9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DPNS",
+  "tags": [
+   "DPNS",
+   "suspensi saham",
+   "RUPSLB",
+   "audit laporan keuangan"
+  ],
+  "body": [
+   "Duta Pertiwi Nusantara Tbk (DPNS) menyampaikan tanggapan resmi bernomor 076/DPN/PTK/IX/2026 kepada Bursa Efek Indonesia, menjawab surat permintaan penjelasan Bursa nomor S-12759/BEI.PP3/10-2026 tanggal 7 Oktober 2026. Dalam suratnya, Direktur sekaligus Corporate Secretary DPNS, Hendrik Loprado, menjelaskan bahwa rencana audit laporan keuangan sempat diubah dari periode 31 Maret 2026 menjadi 30 Juni 2026, karena Kantor Jasa Penilai Publik (KJPP) yang mengkaji rencana bisnis baru Perseroan mensyaratkan laporan keuangan kuartalan terbaru sebagai dasar penelaahan.",
+   "Perseroan mengakui audit atas laporan keuangan per 31 Maret 2026 sampai saat ini belum rampung akibat kendala teknis dan error pada sistem database akuntansi perusahaan, sehingga penyampaiannya telat dari jadwal semula. DPNS menargetkan laporan keuangan auditan periode 31 Maret 2026 selesai akhir Oktober 2026, dan periode 30 Juni 2026 selesai pertengahan November 2026. Penyelesaian audit ini juga jadi prasyarat penting karena RUPS dengan agenda perubahan kegiatan usaha, yang menjadi salah satu syarat pemulihan dari suspensi saham, belum bisa digelar sebelum KJPP merampungkan kajian kelayakan bisnis baru Perseroan di bidang pergudangan dan penyimpanan.",
+   "Berdasarkan tabel perkembangan yang dilampirkan, sejumlah tahapan mengalami pergeseran target. Penunjukan KJPP untuk menyusun studi kelayakan yang semula ditargetkan 18 Februari 2026 kini menunggu rampungnya laporan keuangan auditan kuartal I dan II 2026. Penyusunan studi kelayakan yang semula ditargetkan pertengahan April 2026 bergeser ke akhir November 2026, sedangkan RUPSLB untuk menambah bidang usaha baru yang sebelumnya ditargetkan September 2026 kini mundur ke Desember 2026. Perseroan menyatakan belum ada rencana tindakan korporasi lain dalam 12 bulan ke depan maupun informasi material lain di luar yang telah diungkapkan dalam surat ini."
+  ],
+  "fotoAdegan": "Workers stacking pallets inside a large half built warehouse under construction, afternoon sunlight filtering through open steel doors.",
+  "takeaway": "Laporan ini condong negatif bagi DPNS karena jadwal pemulihan dari suspensi kembali molor: RUPS perubahan kegiatan usaha yang semula ditargetkan September 2026 mundur ke Desember 2026, dan laporan keuangan auditan kuartal I 2026 yang dijanjikan Juli ternyata baru ditargetkan akhir Oktober 2026 akibat gangguan sistem akuntansi internal. Penundaan ini penting karena laporan keuangan auditan adalah dasar bagi investor menilai posisi ekuitas dan arus kas perusahaan, sekaligus syarat bagi KJPP sebelum menilai kelayakan rencana bisnis baru di bidang pergudangan, sehingga selama laporan belum terbit pasar tidak punya gambaran utuh soal kesehatan keuangan DPNS maupun kepastian kapan sahamnya bisa kembali diperdagangkan normal. Yang perlu dipantau adalah penyelesaian laporan keuangan auditan kuartal I 2026 pada akhir Oktober 2026 dan kuartal II 2026 pada pertengahan November 2026, karena keduanya jadi syarat sebelum KJPP merampungkan studi kelayakan dan RUPSLB penambahan bidang usaha bisa digelar.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "vtny-jadwalkan-rupslb-pada-23-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Jadwalkan [RUPSLB] pada 23 November 2026",
+  "deck": "Venteny Fortuna International mengumumkan rencana RUPSLB 23 November 2026, dengan batas pencatatan pemegang saham 29 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T16:52:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5806c5c56_da6db17644.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "RUPSLB",
+   "Venteny Fortuna International"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) melalui surat bernomor 054/VFI/CRSC/X/2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, merujuk pada surat sebelumnya nomor 051/VFI/CRSC/X/2026. RUPSLB dijadwalkan berlangsung Senin, 23 November 2026, pukul 10.00 WIB, bertempat di Venteny Building, Jalan Sultan Agung No. 20, Guntur, Setiabudi, Jakarta Selatan.",
+   "Perseroan menetapkan 29 Oktober 2026 pukul 16.00 WIB sebagai batas waktu pencatatan Daftar Pemegang Saham (DPS). Hanya pemegang saham yang namanya tercatat dalam daftar tersebut pada waktu itu yang berhak hadir dan memberikan suara dalam RUPSLB. Surat panggilan resmi yang memuat agenda rapat baru akan diumumkan menyusul, yakni pada Jumat, 30 Oktober 2026, melalui situs web Bursa Efek Indonesia, situs KSEI, dan situs resmi Venteny.",
+   "Pemberitahuan ini ditandatangani oleh Direktur Kaleb Solaiman dan disampaikan oleh Corporate Secretary Grand Yustitia Wirawan. Dokumen yang beredar saat ini belum mencantumkan agenda atau mata acara RUPSLB, sehingga belum diketahui keputusan apa yang akan diajukan Perseroan kepada pemegang saham dalam rapat tersebut."
+  ],
+  "fotoAdegan": "Modern office building lobby with marble floors and rows of empty chairs facing a stage, soft morning light, Jakarta business district",
+  "takeaway": "Pemberitahuan ini netral bagi VTNY karena isinya baru soal jadwal dan mekanisme RUPSLB, belum ada agenda atau keputusan korporasi yang bisa dinilai dampaknya. RUPSLB sendiri adalah forum tertinggi pemegang saham yang bisa menyentuh pos-pos penting seperti jumlah saham beredar, ekuitas, atau hak suara, tergantung agenda yang baru akan diumumkan, sehingga pemegang saham perlu memastikan kepemilikannya tercatat sebelum 29 Oktober 2026 pukul 16.00 WIB agar haknya untuk hadir dan memberi suara tidak hilang. Yang perlu dipantau berikutnya adalah surat panggilan resmi berisi agenda RUPSLB yang dijadwalkan terbit 30 Oktober 2026, serta jalannya rapat pada 23 November 2026 yang akan menentukan keputusan apa yang sebenarnya diambil Perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jarr-tak-ada-dampak-karhutla-ke-produksi-dan-laba-2026",
+  "category": "Aksi Korporasi",
+  "title": "JARR: Tak Ada Dampak [Karhutla] ke Produksi dan Laba 2026",
+  "deck": "Menjawab permintaan penjelasan BEI, JARR menyatakan tidak ada kejadian kebakaran hutan dan lahan di area operasionalnya di Kalimantan Selatan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T16:52:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e21aa03be2_85540d8ab5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JARR",
+  "tags": [
+   "JARR",
+   "karhutla",
+   "kelapa sawit",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Jhonlin Agro Raya Tbk (JARR) menjawab permintaan penjelasan Bursa Efek Indonesia soal risiko kebakaran hutan dan lahan (karhutla) yang dikirim lewat surat nomor S-13051/BEI.PP2/10-2026 tertanggal 13 Oktober 2026. Jawaban perusahaan dikirim dua hari kemudian, 15 Oktober 2026, melalui surat nomor 099/EXT-CORSEC/JARR/X/2026 yang ditandatangani Direktur Utama Indra Irawan.",
+   "Dalam surat itu, JARR menjelaskan bahwa wilayah operasional, konsesi, dan aset perkebunan serta pengolahan kelapa sawitnya tersebar di Kabupaten Kotabaru dan Kabupaten Tanah Bumbu, Kalimantan Selatan, dan dikelola langsung oleh perusahaan, bukan lewat anak usaha. Area ini disebut sebagai kontributor utama, dengan porsi mayoritas dari total volume produksi dan pendapatan perusahaan. JARR menegaskan hingga saat ini tidak ada kejadian karhutla di wilayah operasionalnya, sehingga target produksi 2026, pendapatan, laba, dan nilai aset tidak terdampak. Perusahaan juga menyatakan tidak ada penghentian operasi mendadak (unplanned shutdown), tidak sedang menghadapi proses hukum atau sanksi administratif seperti penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin terkait karhutla, serta tidak ada fakta material lain yang belum diungkapkan ke publik.",
+   "Untuk mitigasi, JARR memaparkan strategi jangka pendek berupa regu pemadam kebakaran bersertifikasi yang siaga 24 jam terutama saat musim kemarau, pemantauan titik panas lewat satelit secara real time, patroli darat harian, serta kesiapan pompa air portabel dan menara pantau api dengan sumber air dari embung dan kanal. Untuk jangka panjang, perusahaan menjaga tinggi permukaan air tanah dan kanal agar lahan tetap lembap, menerapkan kebijakan tanpa bakar (zero burning) dalam pembukaan lahan, serta menjalankan program Masyarakat Bebas Api yang melibatkan edukasi warga desa sekitar konsesi."
+  ],
+  "fotoAdegan": "Workers patrolling rows of oil palm trees under clear skies, a water-filled canal running through the plantation, tropical Kalimantan landscape",
+  "takeaway": "Penjelasan ini netral bagi fundamental JARR, karena isinya adalah bantahan dan konfirmasi bahwa tidak ada insiden karhutla, bukan data keuangan baru yang mengubah kinerja perusahaan, meski isinya meredakan kekhawatiran pasar yang membuat BEI sampai meminta klarifikasi. Pos yang sebenarnya dipantau di sini adalah pendapatan dan nilai aset, karena karhutla bisa memaksa setop produksi mendadak, merusak lahan tanam, atau memicu sanksi yang mengancam izin usaha, dan risiko semacam itu yang ingin dipastikan tidak terjadi oleh Bursa. Perlu diingat juga bahwa kepastian ini berasal dari pernyataan sepihak perusahaan, bukan verifikasi independen dari otoritas lingkungan. Yang perlu dipantau selanjutnya adalah apakah BEI menerima penjelasan ini sebagai final atau meminta klarifikasi dan bukti lapangan lebih lanjut, serta perkembangan musim kemarau ke depan yang menjadi periode rawan titik panas di area konsesi JARR.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jawa-koreksi-penjelasan-ke-bei-sebut-belum-ada-sanksi-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "JAWA Koreksi Penjelasan ke BEI, Sebut Belum Ada Sanksi [Karhutla]",
+  "deck": "Jaya Agra Wattie (JAWA) mengoreksi surat penjelasannya ke BEI soal karhutla, kini menyatakan belum ada sanksi administratif, berbeda dari keterangan sehari sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T16:48:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da46b6c6d1_67ed2de0bd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JAWA",
+  "tags": [
+   "JAWA",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "sawit"
+  ],
+  "body": [
+   "Jaya Agra Wattie Tbk (JAWA) mengirimkan surat koreksi bernomor 040a/JAW/CORSEC/X/2026 tertanggal 15 Oktober 2026 kepada Bursa Efek Indonesia (BEI), mengoreksi surat sebelumnya nomor 040/JAW/CORSEC/X/2026 tanggal 14 Oktober 2026. Surat ini merupakan jawaban atas permintaan penjelasan BEI nomor S-13048/BEI.PP1/10-2026 terkait meningkatnya kejadian kebakaran hutan dan lahan (karhutla) di berbagai wilayah Indonesia. Dalam versi koreksi yang ditandatangani Corporate Secretary Harli Wijayadi, perseroan menyatakan belum dikenakan sanksi administratif terkait karhutla dan akan mengumumkan ke publik apabila kelak dikenai sanksi, berbeda dari keterangan pada surat sehari sebelumnya yang menyebut perseroan telah dikenai sanksi tersebut.",
+   "JAWA menjelaskan memiliki wilayah perkebunan di Desa Raden, Kecamatan Kurau, dan Desa Ranggang Dalam, Kecamatan Takisung, keduanya di Kabupaten Tanah Laut, Kalimantan Selatan, yang dikelola entitas anak PT Kintap Jaya Wattindo melalui Kebun Pelaihari I dan Kebun Pelaihari II. Produksi tandan buah segar (TBS) dari kedua kebun itu berkontribusi 3,9 persen dari total produksi TBS milik PT Kintap Jaya Wattindo, dan seluruhnya disalurkan ke pabrik Kintap Jaya Wattindo untuk diolah menjadi minyak sawit mentah (CPO), tanpa ada penjualan ke pihak luar.",
+   "Perseroan menegaskan karhutla tidak berdampak pada kegiatan operasional maupun target produksi tahun 2026, dan proyeksi pendapatan, laba, serta nilai aset tetap sesuai rencana yang tercantum dalam laporan tahunan. Hingga saat ini belum ada penghentian operasional tak terduga (unplanned shutdown) di lokasi perusahaan, meski manajemen masih membahas kemungkinan tersebut. Sebagai langkah mitigasi, perseroan melakukan pemantauan berkala, menempatkan staf lapangan, berkoordinasi dengan satuan tugas karhutla, serta telah menyiapkan sarana dan prasarana penanggulangan kebakaran. Perseroan juga menyatakan tidak memiliki informasi material lain terkait karhutla yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Palm oil plantation workers clearing dry undergrowth near a water tank, hazy sky, South Kalimantan landscape",
+  "takeaway": "Koreksi ini kami nilai NETRAL cenderung meringankan, karena menggantikan klaim sanksi administratif yang dilaporkan sehari sebelumnya dengan keterangan bahwa sanksi itu belum dijatuhkan, namun pembalikan keterangan dalam waktu kurang dari 24 jam juga memunculkan tanda tanya soal keandalan keterbukaan informasi JAWA ke publik. Tidak ada pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh langsung dari surat ini, karena perseroan menegaskan operasional dan proyeksi 2026 tidak berubah; yang justru perlu dicermati adalah konsistensi pelaporan perseroan ke bursa. Yang perlu dipantau selanjutnya adalah apakah BEI meminta klarifikasi tambahan atas perbedaan keterangan antara surat 14 dan 15 Oktober 2026, serta apakah pembahasan manajemen soal potensi unplanned shutdown di lahan perkebunan berujung pada penghentian operasional yang nyata.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mktr-pastikan-karhutla-tak-ganggu-operasi-sawit-lamandau",
+  "category": "Aksi Korporasi",
+  "title": "MKTR Pastikan [Karhutla] Tak Ganggu Operasi Sawit Lamandau",
+  "deck": "Menanggapi permintaan penjelasan Bursa, MKTR menyatakan kebakaran hutan di sekitar lahan sawitnya di Lamandau belum berdampak material terhadap produksi, pendapatan, laba, maupun aset.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T16:40:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e795fb4f8_3ff6d619ae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKTR",
+  "tags": [
+   "MKTR",
+   "karhutla",
+   "sawit",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Menthobi Karyatama Raya Tbk (MKTR) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait kebakaran hutan dan lahan (karhutla) yang meningkat di sejumlah wilayah Indonesia. Permintaan itu disampaikan BEI lewat surat No. S-13038/BEI.PP1/10-2026 tanggal 13 Oktober 2026, dan dijawab MKTR melalui surat No. 47/MKTR-IDX/X/2026 tanggal 15 Oktober 2026 yang ditandatangani Corporate Secretary Ilhamd Fithriansyah. Perseroan menjelaskan bahwa seluruh kegiatan operasional perkebunan kelapa sawit dan pengolahan tandan buah segar berada di Kabupaten Lamandau, Provinsi Kalimantan Tengah, dikelola melalui dua entitas anak, PT Menthobi Makmur Lestari dan PT Khatulistiwa Sinergi Omnidaya. Wilayah ini disebut sebagai satu-satunya basis usaha utama Perseroan, sehingga seluruh produksi tandan buah segar dan produk olahan sawit berasal dari lokasi tersebut.",
+   "Soal dampak karhutla, Perseroan menyatakan sampai dengan tanggal surat ini belum ada penghentian operasional secara material dan target produksi tahun 2026 tidak berubah. Perseroan juga mengklaim belum mengidentifikasi dampak material terhadap pendapatan, laba, maupun nilai aset, serta tidak ada unplanned shutdown atau penghentian mendadak di lokasi operasionalnya akibat kebakaran. MKTR menyebut tidak sedang menghadapi dan tidak berpotensi menghadapi proses hukum atau sanksi administratif terkait karhutla, baik berupa penyegelan lahan, penyelidikan, gugatan, maupun pencabutan izin, dan menyatakan tidak ada fakta material lain terkait karhutla yang belum diungkapkan ke publik.",
+   "Untuk mitigasi, Perseroan menyebut langkah jangka pendek berupa pembentukan badan internal penanganan karhutla yang bekerja sama dengan pemerintah daerah, penyediaan personel serta sarana pemadaman, pembuatan sekat bakar dengan alat berat, dan pemadaman bersama BPBD Kabupaten Lamandau, TNI, Polri, pemadam kebakaran, serta masyarakat sekitar. Untuk jangka panjang, Perseroan menjalankan edukasi ke masyarakat sekitar lewat call center dan grup WhatsApp untuk pelaporan dini indikasi kebakaran, patroli dan pemantauan intensif terhadap titik panas di wilayah operasional, serta langkah perlindungan kesehatan bagi karyawan dan warga sekitar."
+  ],
+  "fotoAdegan": "Workers clearing a wide fire break with heavy machinery at the edge of a palm oil plantation under a smoky haze",
+  "takeaway": "Laporan ini bersifat netral bagi investor, karena intinya adalah konfirmasi bahwa karhutla di sekitar lahan sawit MKTR di Lamandau belum mengubah operasional maupun angka keuangan Perseroan, bukan kabar yang menambah atau mengurangi nilai usaha. Pos kinerja yang disinggung ada tiga sekaligus, pendapatan, yakni uang yang masuk dari penjualan sawit, laba, yakni sisa uang setelah dikurangi biaya, dan nilai aset seperti lahan dan fasilitas pengolahan, karena ketiganya bisa tergerus kalau kebakaran benar-benar menghentikan produksi tandan buah segar. Pelaku pasar memperhatikan pos ini lebih dari biasanya karena seluruh perkebunan MKTR terkonsentrasi di satu kabupaten, Lamandau, sehingga risiko kebakaran di wilayah itu langsung menyentuh seluruh bisnis Perseroan, bukan sebagian kecil saja. Yang perlu dipantau berikutnya adalah apakah klaim 'tidak ada dampak material' ini tetap bertahan dalam beberapa minggu mendatang mengingat musim kering di Kalimantan Tengah biasanya masih berlangsung, serta apakah laporan keuangan Perseroan periode berikutnya mengonfirmasi pernyataan ini. Investor juga baru akan mengetahui kalau situasi memburuk lewat keterbukaan informasi susulan ke Bursa, misalnya bila muncul proses hukum atau sanksi administratif yang saat ini belum terjadi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "slis-gelar-rupslb-kedua-usai-kuorum-rapat-pertama-tak-tercapai",
+  "category": "Aksi Korporasi",
+  "title": "SLIS Gelar RUPSLB Kedua Usai [Kuorum] Rapat Pertama Tak Tercapai",
+  "deck": "RUPSLB pertama SLIS gagal kuorum meski dihadiri 53,01 persen pemegang saham. Rapat kedua digelar 23 Oktober 2026 untuk menyetujui penyesuaian anggaran dasar dengan KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T16:13:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/930a4d81c4_998858aba9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SLIS",
+  "tags": [
+   "SLIS",
+   "RUPSLB",
+   "anggaran dasar",
+   "KBLI 2025"
+  ],
+  "body": [
+   "PT Gaya Abadi Sempurna Tbk (SLIS) menjadwalkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua pada Jumat, 23 Oktober 2026 pukul 14.00 WIB di Hotel Santika, Kelapa Gading, Jakarta Utara, setelah RUPSLB pertama pada 9 Oktober 2026 gagal mencapai kuorum. Dalam rapat pertama, jumlah saham yang hadir atau diwakili tercatat 1.305.790.401 saham, setara 53,01 persen dari seluruh saham dengan hak suara sah yang telah diterbitkan perseroan. Jumlah itu dianggap tidak memenuhi syarat kuorum yang ditetapkan dalam anggaran dasar perseroan dan Peraturan OJK Nomor 15/POJK.04/2020, sehingga rapat pertama tidak bisa mengambil keputusan yang sah dan mengikat atas satu-satunya mata acara yang diajukan.",
+   "Agenda yang akan dibahas dalam RUPSLB kedua tetap sama, yaitu persetujuan perubahan Pasal 3 anggaran dasar perseroan terkait maksud, tujuan, dan kegiatan usaha. Perubahan ini dimaksudkan untuk menyesuaikan klasifikasi usaha perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025, sebagai bagian dari pemenuhan syarat perizinan dalam sistem Online Single Submission (OSS) sesuai Peraturan Pemerintah Nomor 28 Tahun 2025 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko.",
+   "Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Rabu, 14 Oktober 2026 pukul 16.00 WIB, atau pemegang sub rekening efek di KSEI pada penutupan perdagangan di hari yang sama. Perseroan mewajibkan salinan surat kuasa fisik diterima kembali paling lambat Kamis, 16 Oktober 2026 pukul 16.00 WIB, sementara pemberian kuasa elektronik melalui platform eASY.KSEI dibuka hingga Kamis, 22 Oktober 2026 pukul 12.00 WIB. Rapat akan digelar secara elektronik melalui eASY.KSEI, dengan opsi hadir fisik di lokasi yang sama dengan rapat pertama."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of empty chairs facing a podium, soft morning light through tall windows",
+  "takeaway": "Laporan ini netral bagi fundamental SLIS, karena agenda RUPSLB kedua hanya menegaskan ulang klasifikasi lapangan usaha sesuai KBLI 2025, bukan perubahan bisnis, modal, atau kepemilikan yang substantif. Tidak ada pos ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh oleh agenda ini, yang justru menarik adalah soal partisipasi pemegang saham, karena rapat pertama batal gara-gara jumlah suara yang hadir, 53,01 persen, ternyata di bawah ambang kuorum yang disyaratkan untuk mengubah anggaran dasar, menandakan sebagian pemegang saham pasif atau sulit dijangkau untuk hadir maupun memberi kuasa. Yang perlu dipantau adalah apakah RUPSLB kedua pada 23 Oktober 2026 benar-benar mencapai kuorum, serta dua tenggat yang menentukan partisipasi pemegang saham, yaitu penyerahan surat kuasa fisik pada 16 Oktober 2026 pukul 16.00 WIB dan pemberian kuasa elektronik lewat eASY.KSEI pada 22 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "indonesia-dan-timor-leste-teken-bit-lindungi-investasi-dua-negara",
   "category": "Global",
   "title": "Indonesia dan Timor-Leste Teken [BIT], Lindungi Investasi Dua Negara",
@@ -57,6 +344,33 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah bukan sekadar forum tahunan, tapi sinyal pelembagaan ekonomi syariah di tingkat daerah: 27 provinsi kini memasukkan pengembangan ekonomi syariah ke rencana pembangunan jangka panjang dan menengahnya, dan 23 provinsi sudah mencantumkan indikator terukurnya. Yang terdampak langsung adalah pelaku UMKM yang mengandalkan kombinasi dana zakat atau wakaf dengan pembiayaan bank syariah, disebut blended finance, untuk modal usaha, serta pemerintah daerah yang kini punya KDEKS resmi sebagai simpul koordinasi dengan KNEKS di pusat. Pola ini mengarah ke pergeseran dari wacana nasional menjadi kewajiban administratif daerah, karena provinsi yang belum memasukkan indikator syariah ke RPJMD kini tertinggal dari 23 provinsi yang sudah. Yang akan menentukan apakah ini benar-benar bergerak atau berhenti di dokumen perencanaan adalah pembaruan Panduan Kolaborasi Lintas Urusan Daerah yang sedang disusun KNEKS, Bappenas, dan Kemendagri, serta apakah provinsi lain menyusul menambahkan indikator ke RPJMD mereka.",
   "imageV": "mv9booiw"
+ },
+ {
+  "slug": "tapg-pastikan-karhutla-tak-ganggu-produksi-sawit",
+  "category": "Aksi Korporasi",
+  "title": "TAPG Pastikan [Karhutla] Tak Ganggu Produksi Sawit",
+  "deck": "Triputra Agro Persada menanggapi permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan, menyatakan belum ada area operasional yang terdampak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T16:02:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de442bb85b_b9566fa18f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "karhutla",
+   "kelapa sawit",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Triputra Agro Persada Tbk (TAPG) mengirim tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI Nomor S-13058/BEI.PP2/10-2026 tertanggal 13 Oktober 2026 soal potensi dampak kebakaran hutan dan lahan (karhutla) terhadap operasional perusahaan. Surat tanggapan bernomor 083A/TAP/S-CORSEC-HO/X/2026 ini ditandatangani oleh Corporate Secretary TAPG, Joni Tjeng, dan disampaikan ke BEI pada 15 Oktober 2026.",
+   "Dalam dokumen tersebut, TAPG menjelaskan entitas anaknya beroperasi di dua segmen. Segmen karet berada di Kabupaten Muaro Jambi, Jambi, dan hanya menyumbang 0,2 persen dari total pendapatan konsolidasian. Segmen kelapa sawit beroperasi di Muaro Jambi, lalu Lamandau, Seruyan, Sukamara, dan Kotawaringin Barat di Kalimantan Tengah, serta Kutai Barat, Kutai Timur, Berau, dan Penajam Paser Utara di Kalimantan Timur, dengan kontribusi 99,8 persen terhadap pendapatan konsolidasian perusahaan.",
+   "Soal dampak karhutla, TAPG menegaskan hingga tanggal surat tidak ada area operasionalnya yang terdampak kebakaran, tidak ada pengaruh terhadap pendapatan, laba, maupun nilai aset perusahaan, dan tidak terjadi penghentian operasi mendadak (unplanned shutdown) di lokasi atau lahan milik perusahaan. Perusahaan juga menyatakan tidak sedang menghadapi dan tidak berpotensi menghadapi proses hukum atau sanksi administratif terkait karhutla, seperti penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin.",
+   "Untuk mitigasi, TAPG menerapkan Zero Burning Policy pada pembukaan lahan dan peremajaan kebun, dipadukan dengan Fire Danger Rating System sebagai alat prediksi risiko kebakaran dan sistem deteksi dini berbasis satelit LAPAN. Perusahaan mencatat memiliki 21 regu satuan tugas karhutla dengan 3.425 personel, 354 unit embung air, 312 menara pantau api, dan 73 unit drone, selain program pemberdayaan Kelompok Tani Peduli Api di setiap desa sekitar operasional, kerja sama dengan Manggala Agni, patroli gabungan bersama pemerintah daerah dan aparat keamanan, serta program Desa Makmur Peduli Api dan penghargaan bagi desa yang bebas kebakaran."
+  ],
+  "fotoAdegan": "A fire lookout tower standing above a vast palm oil plantation, water reservoir pond nearby, hazy tropical sky in dry season",
+  "takeaway": "Laporan ini condong netral bagi TAPG karena isinya menegaskan tidak ada dampak nyata terhadap operasional, bukan membawa kabar baru yang mengubah prospek bisnis perusahaan. Yang tersentuh di sini sebenarnya adalah potensi pendapatan dan laba dari segmen kelapa sawit, yang menyumbang 99,8 persen pendapatan konsolidasian, sehingga kalau benar ada lahan yang terbakar, laba per saham bisa langsung tergerus karena bisnis perusahaan nyaris seluruhnya bertumpu pada komoditas itu. Konfirmasi tidak ada penghentian operasi mendadak dan tidak ada proses hukum terkait karhutla mengurangi kekhawatiran pasar di musim kemarau, tapi sejauh ini belum ada bukti ada perubahan fundamental yang menguntungkan maupun merugikan. Yang perlu dipantau selanjutnya adalah apakah BEI akan meminta pembaruan lagi bila titik api di Kalimantan Tengah atau Kalimantan Timur meningkat selama sisa musim kering, serta apakah klaim nihil dampak ini konsisten dengan laporan keuangan kuartal keempat 2026 yang akan terbit.",
+  "sentimen": "netral"
  },
  {
   "slug": "saham-cani-dapat-tambahan-kriteria-pemantauan-khusus",

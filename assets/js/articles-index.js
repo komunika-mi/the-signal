@@ -5,6 +5,55 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kunjungan-wisman-capai-10-58-juta-investasi-pariwisata-melesat",
+  "category": "Bisnis",
+  "title": "Kunjungan Wisman Capai 10,58 Juta, [Investasi] Pariwisata Melesat",
+  "deck": "Investasi sektor pariwisata tumbuh 16,64 persen sepanjang 2026, dua kali laju investasi nasional, saat kunjungan wisman naik 5,38 persen menjadi 10,58 juta hingga Agustus.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "Pariwisata",
+   "Investasi",
+   "Wisatawan Mancanegara",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7158/pariwisata-indonesia-tumbuh-tangguh-investasi-dan-peluang-usaha-menguat",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "wamendag-soroti-peran-swedia-dalam-i-eu-cepa-di-tei-2026",
+  "category": "Global",
+  "title": "Wamendag Soroti Peran Swedia dalam [I-EU CEPA] di TEI 2026",
+  "deck": "Wamendag Dyah Roro Esti menyoroti peran Swedia dalam I-EU CEPA di forum bisnis Trade Expo Indonesia 2026, dengan nilai dagang RI-Swedia mencapai US$872,2 juta pada 2025.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "I-EU CEPA",
+   "Swedia",
+   "Trade Expo Indonesia",
+   "Kementerian Perdagangan"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-kemitraan-ekonomi-eropa-wamendag-soroti-peran-swedia-dan-i-eu-cepa",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "koperasi-merah-putih-mulai-beroperasi-di-jatim",
+  "category": "UMKM",
+  "title": "Koperasi Merah Putih [Mulai] Beroperasi di Jatim",
+  "deck": "Koperasi desa di Jawa Timur mulai menyalurkan beras, LPG, dan bantuan sosial langsung ke warga, menandai uji coba tahap awal program nasional.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/koperasi-merah-putih-mulai-beroperasi-di-jatim.jpg",
+  "imageV": "mv9h1t0o",
+  "tags": [
+   "koperasi merah putih",
+   "kementerian koperasi",
+   "jawa timur",
+   "subsidi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473207-koperasi-merah-putih-mulai-beroperasi-di-jatim-ini-layanan-yang-disiapkan-untuk-masyarakat"
+ },
+ {
   "slug": "fapa-pastikan-karhutla-tak-ganggu-operasi-di-kalimantan",
   "category": "Aksi Korporasi",
   "title": "FAPA Pastikan Karhutla Tak Ganggu [Operasi] di Kalimantan",
@@ -1595,7 +1644,7 @@ var ARTICLES = [
   "title": "Pemerintah Pacu 3 [CEPA] Baru, Bidik Ekspor Sawit-Otomotif",
   "deck": "Pemerintah mendorong percepatan implementasi tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Eurasia agar manfaatnya benar-benar terasa pada ekspor sawit, otomotif, kopi, dan sejumlah komoditas lain.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -1694,7 +1743,7 @@ var ARTICLES = [
   "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
   "deck": "Pemerintah mendorong pemanfaatan nyata tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia yang menurut kajian Kemenko berpotensi menambah ekspor lebih dari US$14 miliar.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "ekspor",
    "perjanjian dagang",
@@ -1710,7 +1759,7 @@ var ARTICLES = [
   "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
   "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -1726,7 +1775,7 @@ var ARTICLES = [
   "title": "Jelang Penandatanganan [DEFA], Kemendag Latih Aparatur Dagang",
   "deck": "Kemendag melatih 40 aparatur soal tata kelola perdagangan digital ASEAN menjelang rencana penandatanganan DEFA di KTT ASEAN November 2026.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "DEFA",
    "ASEAN",
@@ -3312,7 +3361,7 @@ var ARTICLES = [
   "title": "TEI 2026 Buka Ruang Ekspor [Jasa] dari Logistik hingga AI",
   "deck": "Pameran dagang TEI ke-41 di ICE BSD City, 14-18 Oktober 2026, menyertakan puluhan perusahaan jasa dari logistik, keuangan, hingga kecerdasan buatan untuk menjaring pembeli mancanegara.",
   "date": "12 Oktober 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "TEI 2026",
    "ekspor jasa",
@@ -4390,7 +4439,7 @@ var ARTICLES = [
   "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",
   "deck": "Pembangunan kembali Desa Adat Sade di Lombok Tengah pascakebakaran Agustus 2026 terus berjalan, dengan 40 dari 75 rumah adat sudah berdiri dan ekonomi warga mulai bergerak lagi.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "tags": [
    "Desa Adat Sade",
    "Lombok Tengah",
@@ -4422,7 +4471,7 @@ var ARTICLES = [
   "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
   "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/gula-merah.jpg",
   "tags": [
    "KUR",
    "UMKM",
@@ -6106,7 +6155,7 @@ var ARTICLES = [
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
   "deck": "Kewajiban sertifikasi halal, termasuk untuk alat kesehatan risiko A, resmi berlaku 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung 11 Oktober.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "Wajib Halal",
    "BPJPH",
@@ -6455,54 +6504,6 @@ var ARTICLES = [
    "pertambangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/600af192f0_7795541c79.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ltls-siapkan-dana-rp135-miliar-lunasi-obligasi-seri-b",
-  "category": "Aksi Korporasi",
-  "title": "LTLS Siapkan Dana Rp135 Miliar Lunasi [Obligasi] Seri B",
-  "deck": "Lautan Luas (LTLS) menyatakan dana Rp135 miliar sudah siap untuk melunasi obligasi yang jatuh tempo 12 November 2026.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LTLS",
-   "obligasi",
-   "Lautan Luas",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1a7cf74a71_ec73391c27.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-low-tuck-kwong-lepas-saham-hak-suara-anjlok-ke-9-95",
-  "category": "Aksi Korporasi",
-  "title": "BYAN: Low Tuck Kwong Lepas Saham, Hak Suara Anjlok ke [9,95%]",
-  "deck": "Direktur Utama Bayan Resources melepas 10,07 miliar saham senilai sekitar Rp26 triliun, hak suaranya turun dari 40,15% menjadi 9,95%.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "Low Tuck Kwong",
-   "kepemilikan saham",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-8698-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-tambah-saham-lewat-repo-suara-ke-34-70",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Tambah Saham Lewat [Repo], Suara ke 34,70%",
-  "deck": "Samuel Sekuritas Indonesia selaku direksi NSSS menambah 22,4 juta saham lewat transaksi repo pada 6 Oktober, hak suaranya naik dari 34,60% menjadi 34,70%.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "repo",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-2774-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

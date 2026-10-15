@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "UEIro5vrB-s",
+  "title": "Menkop Izinkan Kopdes Merah Putih Kelola Usaha Tambang",
+  "category": "UMKM",
+  "program": "OneNews Update",
+  "summary": "Menteri Koperasi Ferry Juliantono menyatakan Koperasi Desa/Kelurahan Merah Putih kini diperbolehkan menjalankan usaha di sektor pertambangan.",
+  "takeaway": "Kebijakan ini membuka jalan bagi koperasi desa untuk ikut mengelola sumber daya tambang, sebuah sektor yang sebelumnya didominasi perusahaan besar."
+ },
+ {
+  "id": "uquL-ltqt30",
+  "title": "Asap Karhutla Bikin Malaysia Rugi Rp5,8 Triliun Per Bulan",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Kabut asap lintas batas yang berkepanjangan diperkirakan menggerus perekonomian Malaysia hingga RM1,5 miliar atau sekitar Rp5,8 triliun per bulan.",
+  "takeaway": "Angka kerugian ini menunjukkan bagaimana krisis kabut asap regional juga membawa beban ekonomi nyata, bukan sekadar masalah lingkungan dan kesehatan."
+ },
+ {
   "id": "-rvld-zq6dc",
   "title": "Said Iqbal dan Apindo Beda Pandangan soal Ketenagakerjaan",
   "category": "Ketenagakerjaan",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "DPR RI menggelar rapat kerja pengambilan keputusan tingkat pertama atas Rancangan Undang-Undang Pelindungan Ketenagakerjaan, dipimpin Wakil Ketua DPR Sufmi Dasco Ahmad.",
   "takeaway": "Perkembangan RUU ini penting diikuti karena akan mengubah aturan main hubungan kerja antara pengusaha dan pekerja di Indonesia."
- },
- {
-  "id": "8W3Ad0D7w_E",
-  "title": "Pemerintah dan DPR Sepakati RUU Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Utama",
-  "summary": "Pemerintah menyatakan menerima RUU Pelindungan Ketenagakerjaan dan menyetujui pembahasannya dilanjutkan ke tingkat II untuk diputuskan dalam rapat paripurna DPR.",
-  "takeaway": "Kesepakatan ini menandai RUU Ketenagakerjaan semakin dekat disahkan, sesuatu yang berdampak langsung pada iklim ketenagakerjaan dan dunia usaha."
- },
- {
-  "id": "3FdnxDatEsU",
-  "title": "Akselerasi EV di Indonesia: Kebijakan, Tantangan, dan Hilirisasi Industri",
-  "category": "Industri",
-  "program": "CAKEPP",
-  "summary": "Membahas insentif kendaraan listrik di Indonesia serta tantangan hilirisasi industri EV sebagai bagian dari strategi transisi energi di sektor transportasi.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti dampak kebijakan insentif EV terhadap hilirisasi industri dan arah transisi energi nasional."
  }
 ];

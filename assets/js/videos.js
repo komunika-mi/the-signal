@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "UEIro5vrB-s",
+  "title": "Menkop Izinkan Kopdes Merah Putih Kelola Usaha Tambang",
+  "category": "UMKM",
+  "program": "OneNews Update",
+  "summary": "Menteri Koperasi Ferry Juliantono menyatakan Koperasi Desa/Kelurahan Merah Putih kini diperbolehkan menjalankan usaha di sektor pertambangan.",
+  "takeaway": "Kebijakan ini membuka jalan bagi koperasi desa untuk ikut mengelola sumber daya tambang, sebuah sektor yang sebelumnya didominasi perusahaan besar.",
+  "terbit": "2026-10-15T11:00:13+00:00"
+ },
+ {
+  "id": "uquL-ltqt30",
+  "title": "Asap Karhutla Bikin Malaysia Rugi Rp5,8 Triliun Per Bulan",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Kabut asap lintas batas yang berkepanjangan diperkirakan menggerus perekonomian Malaysia hingga RM1,5 miliar atau sekitar Rp5,8 triliun per bulan.",
+  "takeaway": "Angka kerugian ini menunjukkan bagaimana krisis kabut asap regional juga membawa beban ekonomi nyata, bukan sekadar masalah lingkungan dan kesehatan.",
+  "terbit": "2026-10-15T10:30:02+00:00"
+ },
+ {
   "id": "-rvld-zq6dc",
   "title": "Said Iqbal dan Apindo Beda Pandangan soal Ketenagakerjaan",
   "category": "Ketenagakerjaan",

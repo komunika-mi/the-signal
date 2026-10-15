@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jecx-jadwalkan-rupslb-pada-23-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "JECX Jadwalkan [RUPSLB] pada 23 November 2026",
+  "deck": "PT Nitrasanata Dharma Tbk akan menggelar RUPSLB pada 23 November 2026, dengan pemegang saham per 29 Oktober berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T09:09:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3fc9ca4bc9_cf1bad67f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "RUPSLB",
+   "Nitrasanata Dharma",
+   "Rapat Umum Pemegang Saham"
+  ],
+  "body": [
+   "PT Nitrasanata Dharma Tbk (JECX) mengumumkan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 23 November 2026, pukul 09.00 WIB, bertempat di Auditorium Istiantoro Lantai 8, RS Mata JEC Kedoya, Jalan Terusan Arjuna Utara No. 1, Jakarta Barat. Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per Kamis, 29 Oktober 2026 pukul 16.00 WIB. Surat pemanggilan resmi yang memuat agenda lengkap rapat baru akan diterbitkan lewat situs web KSEI, Bursa Efek Indonesia, dan situs perusahaan pada Jumat, 30 Oktober 2026, sehingga isi agenda RUPSLB belum diketahui publik saat pengumuman ini terbit.",
+   "Perusahaan membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat. Usulan harus diajukan secara tertulis kepada direksi paling lambat tujuh hari sebelum tanggal pemanggilan resmi, yaitu Jumat, 23 Oktober 2026. Syaratnya, usulan harus didukung oleh satu atau lebih pemegang saham yang bersama-sama memegang minimal 1/20 atau setara 5 persen dari total saham dengan hak suara, diajukan dengan itikad baik, disertai alasan dan bahan usulan, serta tidak bertentangan dengan peraturan dan anggaran dasar perusahaan.",
+   "Perusahaan juga mendorong pemegang saham memberikan kuasa secara elektronik melalui fasilitas eASY.KSEI, yang tersedia mulai tanggal pemanggilan rapat hingga satu hari kerja sebelum RUPSLB berlangsung, yaitu Jumat, 20 November 2026. Pengumuman ini diterbitkan pada 15 Oktober 2026 atas nama direksi perusahaan, dengan Muharyanto selaku Corporate Secretary PT Nitrasanata Dharma Tbk sebagai pengirim laporan ke bursa."
+  ],
+  "fotoAdegan": "Waiting area of a modern ophthalmology clinic in Jakarta, patients seated under soft ambient lighting, wide angle shot",
+  "takeaway": "Laporan ini netral bagi JECX, karena baru memberitahukan rencana RUPSLB tanpa mengungkap agenda rapatnya, sehingga belum ada informasi yang bisa dinilai berdampak pada kinerja perusahaan. Pos kinerja yang tersentuh baru akan jelas setelah surat pemanggilan resmi terbit, kalau agendanya menyangkut penambahan modal seperti rights issue, jumlah saham beredar bisa bertambah dan itu berpotensi menggerus laba per saham karena keuntungan perusahaan terbagi ke lebih banyak lembar saham, sementara kalau agendanya hanya soal pergantian pengurus, dampaknya ke laporan keuangan nyaris tidak ada. Yang perlu dipantau pemegang saham adalah dua tanggal konkret, tenggat pengajuan usulan mata acara rapat pada Jumat, 23 Oktober 2026, dan terbitnya surat pemanggilan resmi berisi agenda lengkap pada Jumat, 30 Oktober 2026, sebelum RUPSLB sendiri digelar Senin, 23 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dsng-tak-ada-dampak-karhutla-ke-operasional-sawit",
+  "category": "Aksi Korporasi",
+  "title": "DSNG: Tak Ada Dampak [Karhutla] ke Operasional Sawit",
+  "deck": "DSNG menjawab permintaan penjelasan Bursa soal kebakaran hutan dan lahan, memastikan tidak ada insiden karhutla maupun dampak material di seluruh wilayah operasionalnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T08:54:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b0b2db0b2f_c8d11195c9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DSNG",
+  "tags": [
+   "DSNG",
+   "karhutla",
+   "kelapa sawit",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Dharma Satya Nusantara Tbk (DSNG) menyampaikan jawaban resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan bernomor S-13042/BEI.PP1/10-2026 tanggal 13 Oktober 2026. Bursa meminta penjelasan karena maraknya pemberitaan kebakaran hutan dan lahan (karhutla) di berbagai wilayah Indonesia serta data titik panas dari instansi pemerintah. Surat jawaban DSNG bernomor 009/DSN-CORSEC-JKT/X/2026 ditandatangani Paulina Suryanti selaku Corporate Secretary dan disampaikan pada 15 Oktober 2026, dalam tenggat dua hari bursa sejak surat Bursa diterima sesuai ketentuan II.9 Peraturan Bursa Nomor I-E.",
+   "Dalam jawabannya, DSNG merinci wilayah operasional anak usahanya. Segmen kelapa sawit berada di Kabupaten Sintang dan Sekadau (Kalimantan Barat), Kabupaten Lamandau (Kalimantan Tengah), Kabupaten Kutai Timur (Kalimantan Timur), dan Kabupaten Bulungan (Kalimantan Utara). Segmen produk kayu beroperasi di Kabupaten Temanggung (Jawa Tengah) dan Kabupaten Tanah Laut (Kalimantan Selatan) untuk pengolahan, dengan showroom di Kota Tangerang. Segmen energi terbarukan berupa produksi wood pellet di Kabupaten Boyolali dan Banyumas (Jawa Tengah) serta perdagangan cangkang sawit di Samarinda. Perseroan menyebut kontribusi terhadap pendapatan konsolidasian masing-masing sebesar 88 persen dari kelapa sawit, 10 persen dari produk kayu, dan 2 persen dari energi terbarukan.",
+   "Terkait dampak karhutla, DSNG menegaskan tidak ada kejadian kebakaran hutan dan lahan di areal tanam kelapa sawit maupun di area operasional segmen produk kayu dan energi terbarukan. Perseroan menyatakan kegiatan operasional berjalan normal sesuai target produksi 2026, tanpa dampak material terhadap pendapatan, laba, atau nilai aset, dan tanpa unplanned shutdown. DSNG juga menyatakan tidak sedang menghadapi proses hukum atau sanksi administratif terkait karhutla. Sebagai langkah mitigasi, perseroan bekerja sama dengan pemerintah daerah, TNI, Polri, dan Manggala Agni untuk sosialisasi, patroli terpadu, serta pemantauan titik panas, ditambah langkah internal berupa pembuatan sekat bakar dan pengelolaan sistem pengairan di area perkebunan."
+  ],
+  "fotoAdegan": "Workers inspecting a cleared firebreak trail along the edge of a tropical oil palm plantation under clear skies",
+  "takeaway": "Penilaian redaksi: netral, karena isi surat ini sepenuhnya berupa konfirmasi bahwa tidak ada insiden atau kerugian akibat karhutla, bukan kabar buruk maupun kabar baik baru bagi kinerja perseroan. Yang tersentuh di sini adalah potensi gangguan pendapatan dan arus kas, karena segmen kelapa sawit yang menyumbang 88 persen pendapatan DSNG berada di area hutan dan lahan Kalimantan yang rawan kebakaran pada musim kering, sehingga pelaku pasar wajar mengecek apakah eksposur sebesar itu berisiko. Yang perlu dipantau selanjutnya adalah perkembangan titik panas di wilayah operasional DSNG di Kalimantan sepanjang sisa musim kering, serta kewajiban perseroan menyampaikan laporan insidental baru ke Bursa apabila kondisi di lapangan berubah dari yang dilaporkan hari ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sqmi-wilton-resources-alihkan-kendali-ke-maxglory-capital",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: Wilton Resources Alihkan Kendali ke [Maxglory] Capital",
+  "deck": "WRC, pengendali tidak langsung SQMI, teken perjanjian penempatan saham dan obligasi konversi dengan Maxglory Capital senilai sekitar US$70 juta yang akan mengalihkan kendali ke MCL.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T08:32:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a307830c37_adce9d16e0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SQMI",
+  "tags": [
+   "SQMI",
+   "Wilton Makmur",
+   "Wilton Resources",
+   "perubahan pengendali"
+  ],
+  "body": [
+   "PT Wilton Makmur Indonesia Tbk (SQMI) mengoreksi laporan keterbukaan informasi yang terbit pada hari yang sama, 15 Oktober 2026, terkait rencana perubahan pengendalian tidak langsung atas perusahaan. Dalam laporan itu, manajemen menyampaikan bahwa Wilton Resources Corporation Limited (WRC), yang berperan sebagai pengendali tidak langsung Wilton Makmur, telah menandatangani dua perjanjian dengan Maxglory Capital Limited (MCL) pada 9 Oktober 2026, yaitu Perjanjian Penempatan dan Perjanjian Pemesanan Obligasi Konversi.",
+   "Berdasarkan Perjanjian Penempatan, MCL akan mengambil 1.071.767.735 saham biasa baru WRC dengan harga S$0,011 per saham, yang akan mendatangkan dana segar sekitar US$9,28 juta atau sekitar S$11,79 juta ke WRC. Lewat Perjanjian Obligasi Konversi, MCL juga akan mengambil 7.000.000.000 saham biasa baru WRC pada harga konversi yang sama, S$0,011 per saham, dengan dana yang terkumpul sekitar US$60,63 juta atau sekitar S$77 juta. Jika kedua transaksi ini rampung, MCL akan memegang lebih dari 8 miliar saham baru WRC dan mengambil alih status pemegang saham pengendali WRC, yang otomatis membuat MCL menjadi pengendali tidak langsung yang baru atas Wilton Makmur.",
+   "Wilton Resources berencana memakai dana hasil kedua transaksi itu untuk melunasi kewajiban keuangan perusahaan yang belum terbayar, membiayai pengembangan proyek tambang emas Ciemas, dan menambah modal kerja untuk grup usahanya. Wilton Makmur menegaskan akan terus menyampaikan perkembangan proses ini dari waktu ke waktu sampai perubahan pemegang saham pengendali benar-benar terjadi, sebagaimana diwajibkan dalam Peraturan OJK Nomor 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Heavy machinery and workers at a small open-pit gold mining site on a forested hillside, early morning mist in the valley",
+  "takeaway": "Laporan ini netral bagi pemegang saham Wilton Makmur karena transaksi penempatan saham dan obligasi konversi ini terjadi di level Wilton Resources Corporation, induk usaha di luar negeri, bukan langsung pada kas atau neraca Wilton Makmur sendiri, sehingga belum ada dampak keuangan langsung yang bisa dihitung sekarang. Yang jelas bergeser adalah jumlah saham WRC yang beredar, bertambah lebih dari 8 miliar lembar baru untuk Maxglory Capital, sehingga kepemilikan pemegang saham WRC yang lama terdilusi besar dan kendali atas WRC, yang berarti juga kendali tidak langsung atas Wilton Makmur, berpindah tangan. Sisi positifnya, dana sekitar US$69,9 juta yang masuk rencananya dipakai melunasi utang dan membiayai proyek tambang emas Ciemas, yang kalau terlaksana bisa memperbaiki arus kas dan posisi keuangan grup secara keseluruhan. Yang perlu dipantau berikutnya adalah tahapan lanjutan proses peralihan kendali ini, karena Wilton Makmur berjanji mengumumkan perkembangan dari waktu ke waktu sampai perubahan pemegang saham pengendali itu resmi terjadi, meski belum ada tanggal penyelesaian yang pasti.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara",
   "category": "UMKM",
   "title": "10 Merek Kuliner RI Teken MoU Ekspansi ke [5] Negara",
@@ -29,6 +107,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang konkret dari acara ini bukan seremoni pembukaannya, melainkan 10 nota kesepahaman yang membawa merek seperti Baso Gejrot, Cendol 18, dan Amanda Steamed Brownies membuka usaha di India, Arab Saudi, Belanda, Malaysia, dan Mesir. Yang terdampak adalah pelaku UMKM pangan yang ingin naik kelas ke pasar ekspor lewat kemitraan, pembukaan cabang, atau waralaba, bukan cuma menjual produk kemasan ke luar negeri, sementara bagi pengusaha ritel domestik acara ini jadi jalur mencari pasokan UMKM baru. Polanya menunjukkan pemerintah mengarahkan ekspansi kuliner Nusantara menjadi bagian dari strategi ekspor jasa yang lebih terstruktur, terlihat dari gerai Kopi Kenangan yang sudah berjalan di Taiwan dan program S'RASA bersama Kementerian Luar Negeri. Klaim Kemendag soal potensi transaksi tahun ini 30 kali lipat dari tahun lalu masih sepihak dan belum bisa diverifikasi, sehingga yang akan menentukan apakah arah ekspansi ini benar berjalan adalah apakah 10 MoU baru itu benar terealisasi menjadi gerai yang buka, bukan sekadar nota di atas kertas, dan itu baru akan terlihat dari laporan Kemendag pada penyelenggaraan TEI tahun depan.",
   "imageV": "mv8rurns"
+ },
+ {
+  "slug": "ppln-suroso-isnandar-jadi-direktur-utama-baru-gantikan-darmawan",
+  "category": "Aksi Korporasi",
+  "title": "PPLN: Suroso Isnandar jadi [Direktur Utama] baru, gantikan Darmawan",
+  "deck": "RUPS PT PLN (Persero) pada 14 Oktober 2026 memberhentikan Darmawan Prasodjo dan mengangkat Suroso Isnandar sebagai Direktur Utama, melengkapi susunan direksi baru perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T06:43:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e15dd5c40a_4a24eab0c1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPLN",
+  "tags": [
+   "PPLN",
+   "PLN",
+   "direksi",
+   "direktur utama"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham PT Perusahaan Listrik Negara (Persero) yang berlangsung pada 14 Oktober 2026 memutuskan memberhentikan dengan hormat Darmawan Prasodjo dari jabatan Direktur Utama, dan mengangkat Suroso Isnandar sebagai penggantinya. Sebelum menjabat Direktur Utama, Suroso Isnandar sudah berada di jajaran direksi sejak 20 September 2023 sebagai Direktur Manajemen Proyek dan Energi Baru Terbarukan. Perusahaan menyatakan keputusan ini tidak membawa dampak material terhadap operasional dan akan tetap tunduk pada aturan tata kelola yang berlaku.",
+   "Dengan perubahan ini, susunan lengkap direksi PLN saat ini adalah: Suroso Isnandar sebagai Direktur Utama, Yusuf Didi Setiarto sebagai Wakil Direktur Utama, Nurlely Aman sebagai Direktur Legal dan Manajemen Human Capital, Sulistyo Biantoro sebagai Direktur Keuangan, Rakhmad Dewanto Haris J. sebagai Direktur Perencanaan Korporat dan Pengembangan Bisnis, Edwin Nugraha Putra sebagai Direktur Teknologi, Engineering, dan Keberlanjutan, M. Fahrur Rozy sebagai Direktur Retail dan Niaga, Denny Triyanto sebagai Direktur Manajemen Risiko, Daniel Karmel Fernando Tampubolon sebagai Direktur Transmisi dan Perencanaan Sistem, Rizal Calvary Marimbo sebagai Direktur Manajemen Pembangkitan, dan Arsyadany G. Akmalaputri sebagai Direktur Distribusi. Jabatan Direktur Manajemen Proyek dan Energi Baru Terbarukan yang sebelumnya dipegang Suroso Isnandar sendiri tidak disebutkan terisi kembali dalam dokumen ini.",
+   "Jajaran Dewan Komisaris tidak berubah dalam laporan ini. Burhanuddin Abdullah tetap menjabat Komisaris Utama sejak 23 Juli 2024, didampingi Mutanto Juwono, Jisman P. Hutajulu, Ahmad Erani Yustika, Andi Arief, Yazid Fanani, Ali Masykur Musa, Bambang Eko Suhariyanto, dan Aminuddin Ma'ruf sebagai komisaris, dengan sebagian di antaranya berstatus komisaris independen."
+  ],
+  "fotoAdegan": "Engineers in hard hats inspecting high voltage transmission towers at dusk, rural Indonesian landscape, utility trucks parked nearby",
+  "takeaway": "Perubahan ini kami nilai netral karena merupakan suksesi kepemimpinan internal yang berjalan melalui jalur normal RUPS, bukan respons atas masalah kinerja atau keuangan, dan perusahaan sendiri menyatakan tidak ada dampak material dari keputusan ini. Karena PLN berstatus badan usaha milik negara yang sahamnya tidak diperdagangkan di bursa, kabar ini terutama penting bagi pemegang obligasi atau surat utang PLN yang ingin memastikan arah bisnis tetap konsisten, bukan sinyal untuk pemegang saham publik karena memang tidak ada. Suroso Isnandar bukan sosok baru, ia sudah tiga tahun menjabat Direktur Manajemen Proyek dan Energi Baru Terbarukan sejak September 2023, sehingga pergantian ini kemungkinan tidak langsung mengubah arah strategi besar perusahaan. Yang perlu dipantau berikutnya adalah apakah manajemen baru akan mengumumkan perubahan rencana investasi, terutama di proyek energi baru terbarukan yang sebelumnya ditangani langsung oleh Suroso, serta siapa yang akan mengisi posisi direktur yang ia tinggalkan.",
+  "sentimen": "netral"
  },
  {
   "slug": "hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun",

@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jecx-jadwalkan-rupslb-pada-23-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "JECX Jadwalkan [RUPSLB] pada 23 November 2026",
+  "deck": "PT Nitrasanata Dharma Tbk akan menggelar RUPSLB pada 23 November 2026, dengan pemegang saham per 29 Oktober berhak hadir.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "RUPSLB",
+   "Nitrasanata Dharma",
+   "Rapat Umum Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3fc9ca4bc9_cf1bad67f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dsng-tak-ada-dampak-karhutla-ke-operasional-sawit",
+  "category": "Aksi Korporasi",
+  "title": "DSNG: Tak Ada Dampak [Karhutla] ke Operasional Sawit",
+  "deck": "DSNG menjawab permintaan penjelasan Bursa soal kebakaran hutan dan lahan, memastikan tidak ada insiden karhutla maupun dampak material di seluruh wilayah operasionalnya.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DSNG",
+   "karhutla",
+   "kelapa sawit",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b0b2db0b2f_c8d11195c9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sqmi-wilton-resources-alihkan-kendali-ke-maxglory-capital",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: Wilton Resources Alihkan Kendali ke [Maxglory] Capital",
+  "deck": "WRC, pengendali tidak langsung SQMI, teken perjanjian penempatan saham dan obligasi konversi dengan Maxglory Capital senilai sekitar US$70 juta yang akan mengalihkan kendali ke MCL.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SQMI",
+   "Wilton Makmur",
+   "Wilton Resources",
+   "perubahan pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a307830c37_adce9d16e0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara",
   "category": "UMKM",
   "title": "10 Merek Kuliner RI Teken MoU Ekspansi ke [5] Negara",
@@ -21,6 +69,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-pangan-nusa-expo-2026-mendag-busan-dorong-umkm-pangan-perluas-pasar-domestik-dan-global",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ppln-suroso-isnandar-jadi-direktur-utama-baru-gantikan-darmawan",
+  "category": "Aksi Korporasi",
+  "title": "PPLN: Suroso Isnandar jadi [Direktur Utama] baru, gantikan Darmawan",
+  "deck": "RUPS PT PLN (Persero) pada 14 Oktober 2026 memberhentikan Darmawan Prasodjo dan mengangkat Suroso Isnandar sebagai Direktur Utama, melengkapi susunan direksi baru perusahaan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPLN",
+   "PLN",
+   "direksi",
+   "direktur utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e15dd5c40a_4a24eab0c1.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun",
@@ -6433,70 +6497,6 @@ var ARTICLES = [
    "penggunaan dana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b28f387bfb_09770e0f4e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "chek-koreksi-laporan-realisasi-dana-ipo-76-6-persen",
-  "category": "Aksi Korporasi",
-  "title": "CHEK Koreksi Laporan, [Realisasi] Dana IPO 76,6 Persen",
-  "deck": "PT Diastika Biotekindo Tbk mengoreksi laporan penggunaan dana IPO per Juni 2026 setelah ditegur OJK. Dari Rp106,80 miliar dana bersih, Rp81,76 miliar sudah terpakai, sisanya diparkir di deposito.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CHEK",
-   "IPO",
-   "penggunaan dana",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5923d0fadc_b087a10366.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adcp-jadwalkan-rupslb-13-november-simak-tanggal-pentingnya",
-  "category": "Aksi Korporasi",
-  "title": "ADCP Jadwalkan [RUPSLB] 13 November, Simak Tanggal Pentingnya",
-  "deck": "Adhi Commuter Properti akan menggelar RUPSLB pada 13 November 2026, dengan pemegang saham per 21 Oktober 2026 yang berhak hadir atau memberi kuasa.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADCP",
-   "RUPSLB",
-   "Adhi Commuter Properti",
-   "Pasar Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9d2068bb9a_d678f583ea.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mutu-koreksi-laporan-dana-ipo-realokasi-capex-ke-opex",
-  "category": "Aksi Korporasi",
-  "title": "MUTU Koreksi Laporan Dana IPO, [Realokasi] Capex ke Opex",
-  "deck": "Mutuagung Lestari mengoreksi laporan realisasi dana IPO per 30 Juni 2026: seluruh dana Rp97,26 miliar sudah terpakai, dengan Rp20,5 miliar bergeser dari rencana bangunan ke beban operasional.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MUTU",
-   "realisasi dana IPO",
-   "RUPSLB",
-   "capex opex"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe64251bc2_3983caaf44.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beks-jelaskan-lonjakan-transaksi-usai-saham-naik-31-8",
-  "category": "Aksi Korporasi",
-  "title": "BEKS Jelaskan [Lonjakan] Transaksi Usai Saham Naik 31,8%",
-  "deck": "Bank Banten (BEKS) menyatakan tak ada informasi material di balik lonjakan volume dan harga sahamnya pada 28 September 2026, menyusul permintaan penjelasan dari BEI.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEKS",
-   "Bank Banten",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a9aa68556f_04c3679d27.pdf",
   "sourceLabel": "IDX"
  }
 ];

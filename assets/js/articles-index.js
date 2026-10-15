@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lapd-akuisisi-bss-rp59-43-miliar-terbitkan-saham-baru-rp100-m",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Akuisisi [BSS] Rp59,43 Miliar, Terbitkan Saham Baru Rp100 M",
+  "deck": "LAPD berencana akuisisi BSS, kontraktor tambang di Kalimantan senilai Rp59,43 miliar, lewat rights issue PMHMETD II hingga Rp100 miliar, di tengah rugi besar semester I 2026.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "pertambangan",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e36533519_581c2b06f7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtfn-gelar-rupst-6-november-usul-tanpa-dividen-2025",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Gelar RUPST 6 November, Usul [Tanpa] Dividen 2025",
+  "deck": "Capitalinc Investment mengundang pemegang saham ke RUPST 6 November 2026, dengan agenda tidak membagikan dividen tahun buku 2025 serta pengangkatan kembali direksi dan komisaris.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTFN",
+   "RUPST",
+   "Capitalinc Investment",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9fabcfe790_6787b4a889.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ojk-resmi-catat-suntikan-modal-rp13-m-vico-ke-vins",
+  "category": "Aksi Korporasi",
+  "title": "OJK Resmi Catat [Suntikan] Modal Rp13 M VICO ke VINS",
+  "deck": "OJK IKNB resmi mencatat penambahan modal Rp13 miliar dari VICO ke anak usahanya VINS lewat penerbitan 92,86 juta saham baru untuk memperkuat modal asuransi ini.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VINS",
+   "VICO",
+   "transaksi afiliasi",
+   "permodalan asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f71ade8a75_ccb5c42cfc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptro-rencanakan-rights-issue-170-juta-saham-dilusi-1-66",
+  "category": "Aksi Korporasi",
+  "title": "PTRO Rencanakan Rights Issue 170 Juta Saham, Dilusi [1,66%]",
+  "deck": "Petrosea berencana menerbitkan maksimal 170 juta saham baru lewat skema hak memesan efek terlebih dahulu, dengan dilusi maksimal 1,66 persen bagi pemegang saham yang tidak ikut serta.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTRO",
+   "rights issue",
+   "PMHMETD",
+   "Petrosea"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa3a84b273_757ba6109e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptro-jadwalkan-rupslb-23-november-dps-29-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PTRO Jadwalkan RUPSLB 23 November, [DPS] 29 Oktober",
+  "deck": "Petrosea mengumumkan rencana RUPSLB pada 23 November 2026, lengkap dengan tanggal pencatatan pemegang saham dan mekanisme e-Proxy.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTRO",
+   "RUPSLB",
+   "Petrosea",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e71e7abb64_a1ba6d4086.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "presiden-prabowo-pangkas-biaya-logistik-lewat-perpres-baru",
   "category": "Makroekonomi",
   "title": "Presiden Prabowo [Pangkas] Biaya Logistik Lewat Perpres Baru",
@@ -55,6 +135,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/asa-ekspor-umkm-dari-ruang-tamu-pilihan-busan",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bton-bantah-ada-info-material-di-balik-volatilitas-transaksi",
+  "category": "Aksi Korporasi",
+  "title": "BTON Bantah Ada Info Material di Balik [Volatilitas] Transaksi",
+  "deck": "Menanggapi permintaan penjelasan BEI, Betonjaya Manunggal (BTON) menyatakan tidak ada informasi material dan belum ada rencana aksi korporasi dalam tiga bulan mendatang.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTON",
+   "Betonjaya Manunggal",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a0eaa831a_b9e05bd465.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cnaf-rampungkan-realisasi-dana-obligasi-rp196-5-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CNAF rampungkan realisasi dana [obligasi] Rp196,5 miliar",
+  "deck": "CIMB Niaga Auto Finance (CNAF) melaporkan seluruh dana hasil obligasi tahap I 2026 senilai Rp196,52 miliar sudah terpakai untuk pembiayaan modal kerja, tanpa sisa dana.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CNAF",
+   "obligasi",
+   "penggunaan dana",
+   "multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aa25569a04_e4852c9331.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-emas-antam-turun-jadi-rp2-561-000-per-gram",
@@ -153,6 +265,22 @@ var ARTICLES = [
    "direktur utama"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e15dd5c40a_4a24eab0c1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "digi-ekuitas-negatif-melebar-jadi-rp4-6-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "DIGI: ekuitas negatif [melebar] jadi Rp4,6 miliar di kuartal III",
+  "deck": "Laba rugi Arkadia Digital Media menyusut dibanding tahun lalu, tetapi kas merosot tajam dan defisit ekuitas makin dalam di laporan kuartal III 2026.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DIGI",
+   "Arkadia Digital Media",
+   "laporan keuangan",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261015115238-64545-0/FinancialStatement-2026-III-DIGI.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6371,137 +6499,6 @@ var ARTICLES = [
    "penggunaan dana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3a813bb8db_c84661a35b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "potensi-transaksi-ip-kreatif-di-jfc-2026-naik-ke-rp3-51-miliar",
-  "category": "Industri",
-  "title": "Potensi Transaksi IP Kreatif di JFC 2026 Naik ke [Rp3,51 Miliar]",
-  "deck": "Kemendag memfasilitasi 38 pelaku komik, animasi, dan gim di JFC 2026, dengan potensi transaksi US$195 ribu, naik 56,8 persen dari tahun sebelumnya.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/potensi-transaksi-ip-kreatif-di-jfc-2026-naik-ke-rp3-51-miliar.jpg",
-  "imageV": "muya3xdo",
-  "tags": [
-   "Kemendag",
-   "ekspor kreatif",
-   "JFC 2026",
-   "industri kreatif"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-bawa-ip-kreatif-ke-jfc-2026-potensi-transaksi-capai-rp351-miliar",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "cmry-koreksi-laporan-dana-ipo-suntikan-ke-macrosentra-nihil",
-  "category": "Aksi Korporasi",
-  "title": "CMRY Koreksi Laporan Dana IPO, Suntikan ke [Macrosentra] Nihil",
-  "deck": "Cisarua Mountain Dairy mengoreksi laporan realisasi dana IPO per 30 Juni 2026: suntikan modal Rp713,9 miliar ke anak usaha Macrosentra Niagaboga masih nol rupiah.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CMRY",
-   "Cisarua Mountain Dairy",
-   "IPO",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/200b5f8a0b_22e43f62aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sofa-dapat-pinjaman-rp16-3-miliar-dari-aic-untuk-proyek-wte-bogor",
-  "category": "Aksi Korporasi",
-  "title": "SOFA dapat [pinjaman] Rp16,3 miliar dari AIC untuk proyek WTE Bogor",
-  "deck": "AEA, anak usaha SOFA, meminjam Rp16,3 miliar dari pengendali SOFA, AIC, berbunga 1 persen setahun untuk menutup setoran modal proyek WTE di Bogor.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOFA",
-   "transaksi afiliasi",
-   "transaksi material",
-   "waste-to-energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a658ba4fb2_03fdd96abb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-gelar-rups-tiga-tahun-sekaligus-saham-masih-suspensi",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Gelar RUPS Tiga Tahun Sekaligus, Saham Masih [Suspensi]",
-  "deck": "BOSS memanggil RUPS Tahunan untuk tiga tahun buku tertunda sekaligus pada 29 Oktober 2026, di tengah dua tahun tanpa penjualan dan anak usaha yang masih pailit.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "RUPS",
-   "suspensi saham",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/72a45928e0_0d666d35ab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-terbitkan-orange-bond-rp2-59-t-oversubscribed",
-  "category": "Pasar Modal",
-  "title": "PNM Terbitkan Orange Bond Rp2,59 T, [Oversubscribed]",
-  "deck": "PNM menerbitkan Orange Bond dan Orange Sukuk senilai Rp2,59 triliun, oversubscribed 1,73 kali, untuk memperkuat pembiayaan usaha ultra mikro perempuan lewat program Mekaar.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/pnm-terbitkan-orange-bond-rp2-59-t-oversubscribed.jpg",
-  "imageV": "muya3xuz",
-  "tags": [
-   "PNM",
-   "Orange Bond",
-   "Mekaar",
-   "ultra mikro"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471796-pnm-kembali-terbitkan-orange-bond-dan-orange-sukuk-rp259-triliun-perkuat-pembiayaan-dan-pemberdayaan-perempuan-ultra-mikro"
- },
- {
-  "slug": "adhi-lepas-saham-jmj-ke-smi-nilai-divestasi-rp1-77-triliun",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Lepas Saham JMJ ke SMI, Nilai [Divestasi] Rp1,77 Triliun",
-  "deck": "ADHI menjual seluruh 47,18% sahamnya di PT Jasamarga Jogja Solo kepada SMI senilai Rp1,77 triliun, ditargetkan tuntas akhir November 2026.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "divestasi",
-   "JMJ",
-   "SMI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d8488cb080_7d2c890e4f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-alihkan-rp378-7-miliar-dana-right-issue-ke-modal-kerja",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Alihkan Rp378,7 Miliar Dana Right Issue ke [Modal Kerja]",
-  "deck": "Perseroan mengalihkan sisa dana rights issue 2022 senilai Rp378,69 miliar dari setoran modal ke anak usaha tol menjadi modal kerja, menyusul kebijakan perampingan BUMN.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "Adhi Karya",
-   "rights issue",
-   "modal kerja"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d3be825714_e6265fe1ef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdka-pefindo-pertahankan-rating-ida-utang-turun-tajam",
-  "category": "Aksi Korporasi",
-  "title": "MDKA: PEFINDO Pertahankan Rating [idA+], Utang Turun Tajam",
-  "deck": "PEFINDO menegaskan peringkat idA+ stabil untuk MDKA dan tujuh seri obligasinya, didukung rasio utang yang turun tajam dan laba bersih yang kembali positif.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDKA",
-   "PEFINDO",
-   "obligasi korporasi",
-   "rating kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/512f06aec8_a4291861aa.pdf",
   "sourceLabel": "IDX"
  }
 ];

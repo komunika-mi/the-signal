@@ -3,6 +3,137 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lapd-akuisisi-bss-rp59-43-miliar-terbitkan-saham-baru-rp100-m",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Akuisisi [BSS] Rp59,43 Miliar, Terbitkan Saham Baru Rp100 M",
+  "deck": "LAPD berencana akuisisi BSS, kontraktor tambang di Kalimantan senilai Rp59,43 miliar, lewat rights issue PMHMETD II hingga Rp100 miliar, di tengah rugi besar semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T12:08:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e36533519_581c2b06f7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "pertambangan",
+   "going concern"
+  ],
+  "body": [
+   "PT Leyand International Tbk (LAPD) menyampaikan materi public expose tahunan yang memuat rencana transformasi bisnis dari distribusi barang konsumen ke jasa kontraktor pertambangan. Perseroan berencana mengakuisisi 99,99% saham PT Bersaudara Sinergi Sejahtera (BSS), kontraktor tambang full service yang beroperasi di Kalimantan Timur dan Kalimantan Selatan, dengan nilai transaksi Rp59,43 miliar. Skemanya melalui inbreng saham BSS oleh pengendali, PT JSI Sinergi Mas, senilai Rp44,39 miliar, yang akan dimasukkan sebagai bagian dari Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD) II atau rights issue kedua. Rencana ini akan dimintakan persetujuan pemegang saham dalam RUPSLB yang dijadwalkan 20 Oktober 2026.",
+   "Dalam PMHMETD II, Perseroan berencana menerbitkan maksimal 2 miliar saham baru Seri B dengan nilai nominal Rp25 per saham dan harga pelaksanaan Rp50 per saham, sehingga dana maksimal yang bisa dihimpun mencapai Rp100 miliar. Dari jumlah itu, Rp44,39 miliar berasal dari inbreng saham BSS oleh JSI Sinergi Mas, sementara sisanya ditargetkan berasal dari setoran tunai publik. Dana hasil rights issue akan dipakai untuk modal kerja dan pengembangan usaha. Perseroan juga berencana melepas kepemilikan di anak usaha distribusi FMCG, PT Rusindo Eka Raya (RER), karena dinilai tidak lagi sejalan dengan fokus usaha baru.",
+   "Materi public expose juga memaparkan kinerja keuangan yang memburuk tajam. Penjualan konsolidasian per 30 Juni 2026 tercatat Rp1,91 miliar, turun 98,6% dari Rp138,51 miliar pada periode yang sama tahun sebelumnya, sementara rugi bersih melebar menjadi Rp23,95 miliar dari Rp3,59 miliar. Total aset turun 53,4% menjadi Rp99,47 miliar, kas dan bank anjlok 93% menjadi Rp474,8 juta, dan rasio liabilitas terhadap aset naik menjadi 102,66%, yang membuat ekuitas Perseroan negatif Rp2,65 miliar dengan akumulasi rugi mencapai Rp463,91 miliar.",
+   "Struktur pemegang saham LAPD saat ini terdiri dari PT JSI Sinergi Mas sebagai pengendali dengan 51% atau 2.022.838.500 saham, dan publik sebesar 49% atau 1.943.511.639 saham dari total 3.966.350.139 saham. Pemilik manfaat akhir JSI Sinergi Mas adalah Sayid Muhammad Riyadh dengan 49,7% dan Jamal Abdul Nasir Bamadhaj, yang juga menjabat Direktur Utama LAPD, dengan 47,8%. Manajemen Perseroan saat ini dipimpin Jamal Abdul Nasir Bamadhaj sebagai Direktur Utama, Sayid Muhammad Riyadh sebagai Komisaris Utama, dan Thauriq Anwar sebagai Komisaris Independen sekaligus Ketua Komite Audit."
+  ],
+  "fotoAdegan": "Heavy mining excavators and dump trucks working in an open-pit mine site in Kalimantan, dusty haze, early morning light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental LAPD, karena angka yang sudah terjadi jauh lebih buruk daripada potensi dari rencana transformasi yang belum tentu terwujud. Ekuitas Perseroan sudah negatif Rp2,65 miliar dan rasio lancar cuma 0,15 kali, artinya aset yang bisa dicairkan cepat jauh dari cukup untuk menutup utang jatuh tempo, sementara kas tunai yang tersisa cuma Rp474,8 juta. Penerbitan sampai 2 miliar saham baru lewat rights issue juga berarti jumlah saham beredar bisa membengkak, sehingga porsi kepemilikan pemegang saham lama dan laba per saham berpotensi tergerus kalau mereka tidak ikut menyerap haknya. Yang perlu dipantau adalah hasil RUPSLB pada 20 Oktober 2026 yang akan memutuskan rights issue dan akuisisi BSS, serta apakah PT JSI Sinergi Mas benar-benar menuntaskan inbreng saham BSS senilai Rp44,39 miliar sesuai rencana.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mtfn-gelar-rupst-6-november-usul-tanpa-dividen-2025",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Gelar RUPST 6 November, Usul [Tanpa] Dividen 2025",
+  "deck": "Capitalinc Investment mengundang pemegang saham ke RUPST 6 November 2026, dengan agenda tidak membagikan dividen tahun buku 2025 serta pengangkatan kembali direksi dan komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T11:21:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9fabcfe790_6787b4a889.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTFN",
+  "tags": [
+   "MTFN",
+   "RUPST",
+   "Capitalinc Investment",
+   "dividen"
+  ],
+  "body": [
+   "PT Capitalinc Investment Tbk (MTFN) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Tahunan pada Jumat, 6 November 2026, pukul 10.00 WIB di Kantor Taman E3.3, Unit D3A, Lantai 5, Jalan DR. Ide Anak Agung Gde Agung, Kuningan, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan sampai Rabu, 14 Oktober 2026 pukul 16.00 WIB.",
+   "Agenda yang paling konkret dalam rapat ini adalah usulan untuk tidak membagikan dividen atas tahun buku yang berakhir 31 Desember 2025. Agenda lain meliputi pengesahan laporan direksi dan laporan keuangan konsolidasian 2025 beserta laporan tahunannya, pembebasan tanggung jawab penuh (acquit et de charge) bagi seluruh anggota direksi dan dewan komisaris atas pengurusan selama tahun buku tersebut, pemberian kewenangan kepada Dewan Komisaris untuk menunjuk kantor akuntan publik pengaudit laporan keuangan 2026 sekaligus menetapkan honorariumnya, pemberian kewenangan kepada Dewan Komisaris untuk menetapkan remunerasi direksi dan komisaris tahun 2026, serta persetujuan pengangkatan kembali seluruh anggota direksi dan dewan komisaris.",
+   "Perseroan menetapkan bahwa surat kuasa asli bagi pemegang saham yang diwakilkan harus sudah diterima direksi paling lambat tiga hari kerja sebelum rapat, yaitu pada 3 November 2026, di kantor biro administrasi efek PT Ficomindo Buana Registrar. Pemegang saham yang menggunakan hak suara lewat aplikasi eASY.KSEI bisa mengonfirmasi kehadiran, menunjuk kuasa, atau memberikan suara lewat aplikasi itu, dan diminta tiba di lokasi rapat 30 menit sebelum acara dimulai."
+  ],
+  "fotoAdegan": "Empty rows of conference chairs facing a podium in a modern Jakarta office meeting hall, soft morning light through glass windows",
+  "takeaway": "Laporan ini netral bagi investor MTFN: pemanggilan RUPST ini sekadar menjalankan rutinitas tahunan wajib, dan satu-satunya agenda yang berupa keputusan nyata, yakni usulan tidak membagikan dividen tahun buku 2025, tidak dibarengi data laba atau rugi perusahaan sehingga belum bisa dinilai sebagai langkah baik atau buruk. Yang tersentuh dari keputusan dividen ini adalah ekuitas perusahaan, karena kalau laba tahun 2025 tidak dibagikan, uangnya tetap tertahan di dalam perusahaan sebagai modal sendiri alih-alih mengalir sebagai uang tunai ke rekening pemegang saham, sementara jumlah saham beredar tidak berubah oleh agenda lain seperti pengangkatan kembali direksi dan komisaris. Yang perlu dipantau adalah hasil pemungutan suara pada RUPST 6 November 2026 itu sendiri, termasuk apakah usulan tanpa dividen disetujui, serta tenggat pengumpulan surat kuasa asli pada 3 November 2026 bagi pemegang saham yang memilih diwakilkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ojk-resmi-catat-suntikan-modal-rp13-m-vico-ke-vins",
+  "category": "Aksi Korporasi",
+  "title": "OJK Resmi Catat [Suntikan] Modal Rp13 M VICO ke VINS",
+  "deck": "OJK IKNB resmi mencatat penambahan modal Rp13 miliar dari VICO ke anak usahanya VINS lewat penerbitan 92,86 juta saham baru untuk memperkuat modal asuransi ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T11:21:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f71ade8a75_ccb5c42cfc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VINS",
+  "tags": [
+   "VINS",
+   "VICO",
+   "transaksi afiliasi",
+   "permodalan asuransi"
+  ],
+  "body": [
+   "Otoritas Jasa Keuangan Industri Keuangan Non-Bank (OJK IKNB) resmi mencatat pelaksanaan Penambahan Modal tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) yang dilakukan PT Victoria Investama Tbk (VICO) kepada anak usahanya, PT Victoria Insurance Tbk (VINS), pada 9 Oktober 2026. Transaksi ini berupa penerbitan 92.857.143 saham baru VINS yang seluruhnya diambil oleh VICO selaku pemegang saham pengendali, dengan harga pelaksanaan Rp140 per saham, sehingga total dana yang masuk ke VINS mencapai Rp13.000.000.020 atau sekitar Rp13 miliar.",
+   "Berdasarkan keterbukaan informasi yang diteken Direktur Kepatuhan VINS, Rosalina Gunawan, dan Direktur Utama VICO, Aldo Jusuf Tjahaja, dana suntikan ini sebenarnya sudah masuk ke VINS sejak 12 Desember 2025 dan telah dilaporkan ke otoritas pada 15 Desember 2025. VICO kemudian menyampaikan laporan transaksi afiliasi terkait pada 25 Maret 2026, sebelum OJK IKNB akhirnya menuntaskan proses pencatatan resminya pada 9 Oktober 2026. Kedua perusahaan menyatakan transaksi ini dikecualikan dari kewajiban penilaian pihak independen sesuai Pasal 4 ayat (1) POJK No. 42/2020, karena digolongkan sebagai transaksi afiliasi yang dijalankan rutin dan berkelanjutan untuk menghasilkan pendapatan usaha.",
+   "VICO menjelaskan tujuan suntikan modal ini adalah memperkuat struktur permodalan VINS yang bergerak di bidang asuransi umum. Baik VINS maupun VICO menegaskan tidak ada dampak baru dari transaksi ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha mereka, karena dana memang sudah efektif masuk sejak akhir 2025 dan langkah OJK IKNB kali ini hanya menuntaskan status administratif atas transaksi yang telah berjalan."
+  ],
+  "fotoAdegan": "Modern high-rise office tower in Jakarta's business district reflecting the skyline at midday, light traffic below",
+  "takeaway": "Laporan ini condong positif bagi VINS, karena tambahan modal Rp13 miliar dari induk usahanya memperkuat kemampuan VINS memenuhi standar modal minimum yang disyaratkan untuk perusahaan asuransi, dan dana itu datang dari pemegang saham pengendali sendiri, bukan utang baru. Yang tersentuh di sini adalah ekuitas, yaitu modal sendiri perusahaan yang jadi penyangga kalau ada klaim asuransi besar, dan jumlah saham beredar yang naik 92,86 juta lembar, sebuah angka yang pelaku pasar perhatikan karena penambahan saham biasanya bisa menipiskan laba per saham jika laba perusahaan tidak tumbuh sebanding. Dalam kasus ini dampak penipisan itu tertahan karena seluruh saham baru diambil sendiri oleh VICO, bukan dijual ke publik, sehingga porsi pemegang saham minoritas VINS yang terdilusi relatif kecil. Dokumen ini tidak menyebut agenda RUPS atau tenggat baru karena prosesnya sudah tuntas, sehingga yang perlu dipantau selanjutnya adalah apakah rasio kecukupan modal VINS benar naik di laporan keuangan kuartal mendatang, dan apakah VICO akan mengulang pola suntikan modal serupa ke anak usahanya ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ptro-rencanakan-rights-issue-170-juta-saham-dilusi-1-66",
+  "category": "Aksi Korporasi",
+  "title": "PTRO Rencanakan Rights Issue 170 Juta Saham, Dilusi [1,66%]",
+  "deck": "Petrosea berencana menerbitkan maksimal 170 juta saham baru lewat skema hak memesan efek terlebih dahulu, dengan dilusi maksimal 1,66 persen bagi pemegang saham yang tidak ikut serta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T11:04:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa3a84b273_757ba6109e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTRO",
+  "tags": [
+   "PTRO",
+   "rights issue",
+   "PMHMETD",
+   "Petrosea"
+  ],
+  "body": [
+   "PT Petrosea Tbk (PTRO) menyampaikan keterbukaan informasi kepada pemegang saham terkait rencana penambahan modal dengan memberikan hak memesan efek terlebih dahulu (PMHMETD) atau yang biasa disebut rights issue. Perseroan berencana menerbitkan sebanyak-banyaknya 170.000.000 saham baru dengan nilai nominal Rp5 per saham, setara maksimal 1,69 persen dari jumlah modal yang sudah ditempatkan dan disetor saat ini. Saham baru tersebut memiliki hak yang sama dengan saham lama, termasuk hak suara dan hak menerima dividen, dan akan dicatatkan di Bursa Efek Indonesia.",
+   "Rencana ini masih menunggu persetujuan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada Senin, 23 November 2026, pukul 10.00 WIB di Wisma Barito Pacific, Jakarta Barat. Setelah mendapat restu RUPSLB, Petrosea akan mengajukan pernyataan pendaftaran kepada OJK, dan PMHMETD baru bisa dijalankan setelah pernyataan itu dinyatakan efektif, dengan batas waktu maksimal 12 bulan sejak persetujuan RUPSLB. Harga pelaksanaan hak dan jumlah final saham yang akan diterbitkan belum diumumkan, dan baru akan dirinci dalam prospektus yang terbit kemudian.",
+   "Dana hasil rights issue ini, setelah dikurangi biaya emisi, rencananya dipakai sebagai modal kerja untuk proyek rekayasa dan konstruksi yang menjadi bisnis inti Petrosea. Perseroan menyebut dilusi kepemilikan bagi pemegang saham yang tidak menggunakan haknya bisa mencapai maksimal 1,66 persen."
+  ],
+  "fotoAdegan": "Heavy equipment technicians inspecting a large yellow mining haul truck at an open construction yard, early morning light",
+  "takeaway": "Rencana ini tergolong netral bagi Petrosea, sebab ukurannya kecil, hanya maksimal 1,69 persen dari saham yang sudah beredar, sehingga sulit dibaca sebagai sinyal kuat ke arah mana pun. Pos yang tersentuh adalah ekuitas, yaitu modal sendiri perusahaan yang bertambah dari setoran pemegang saham baru, serta jumlah saham beredar yang bisa naik sampai 170 juta lembar sehingga laba per saham berpotensi terdilusi tipis bagi yang tidak ikut menebus haknya. Pelaku pasar biasa memperhatikan dilusi laba per saham karena itu memengaruhi porsi keuntungan yang jatuh ke setiap lembar saham yang dipegang investor. Yang perlu dipantau berikutnya adalah RUPSLB pada 23 November 2026 yang harus menyetujui rencana ini, lalu pernyataan efektif dari OJK yang menurut aturan paling lambat 12 bulan sejak persetujuan RUPSLB tersebut. Harga pelaksanaan hak dan jumlah final saham baru masih akan diumumkan lewat prospektus, jadi detail paling pentingnya belum tersedia saat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptro-jadwalkan-rupslb-23-november-dps-29-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PTRO Jadwalkan RUPSLB 23 November, [DPS] 29 Oktober",
+  "deck": "Petrosea mengumumkan rencana RUPSLB pada 23 November 2026, lengkap dengan tanggal pencatatan pemegang saham dan mekanisme e-Proxy.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T11:03:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e71e7abb64_a1ba6d4086.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTRO",
+  "tags": [
+   "PTRO",
+   "RUPSLB",
+   "Petrosea",
+   "Pasar Modal"
+  ],
+  "body": [
+   "Petrosea Tbk (PTRO) menyampaikan pemberitahuan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 23 November 2026 pukul 10.00 WIB. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada Kamis, 29 Oktober 2026 pukul 16.15 WIB. Pemanggilan resmi yang memuat mata acara rapat baru akan diumumkan belakangan, yaitu Jumat, 30 Oktober 2026, melalui situs Bursa Efek Indonesia, situs KSEI, dan situs www.petrosea.com. Rapat akan digelar secara fisik di Wisma Barito Pacific, Jakarta Barat, sekaligus secara elektronik lewat sistem eASY.KSEI.",
+   "Perseroan juga menjelaskan bahwa pemegang saham yang mewakili minimal 1/20 atau 5 persen dari total saham dengan hak suara dapat mengusulkan tambahan mata acara rapat. Usulan itu harus diterima direksi secara tertulis paling lambat 7 hari sebelum tanggal pemanggilan, dengan syarat diajukan beriktikad baik, mempertimbangkan kepentingan perseroan, membutuhkan persetujuan rapat, disertai alasan dan bahan usulan, serta tidak melanggar aturan atau anggaran dasar.",
+   "Untuk mekanisme kuasa, perseroan menyediakan fasilitas e-Proxy melalui eASY.KSEI yang bisa dipakai sejak tanggal pemanggilan rapat sampai satu hari sebelum pelaksanaan, yaitu Jumat, 20 November 2026 pukul 12.00 WIB. Sebagai alternatif, pemegang saham juga bisa mengunduh formulir surat kuasa dari situs perseroan dan menyerahkannya ke PT Datindo Entrycom, biro administrasi efek yang ditunjuk Petrosea. Surat pemberitahuan ini ditandatangani oleh Anto Broto, Sekretaris Perusahaan Petrosea Tbk."
+  ],
+  "fotoAdegan": "Wide shot of large mining haul trucks and excavators working in an open-pit site, dusty morning light, hills in background",
+  "takeaway": "Pengumuman ini sendiri netral bagi pemegang saham karena baru memuat tanggal dan tata cara rapat, belum ada mata acara resmi yang diumumkan sehingga dampaknya ke keuangan perseroan belum bisa dinilai. Yang perlu diperhatikan, RUPSLB ini terbit di hari yang sama dengan rencana penambahan 170 juta saham baru (rights issue) yang sudah diberitakan dengan dilusi sekitar 1,66 persen dari saham beredar. Kalau RUPSLB ini nantinya memang dipakai untuk meminta persetujuan rights issue tersebut, pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab tambahan saham baru membuat laba perseroan terbagi ke lebih banyak lembar saham. Yang dipantau berikutnya adalah pemanggilan resmi RUPSLB pada Jumat, 30 Oktober 2026, karena di situ baru akan terlihat agenda sebenarnya, selain batas waktu pemberian kuasa elektronik pada Jumat, 20 November 2026 pukul 12.00 WIB sebelum rapat digelar 23 November 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "presiden-prabowo-pangkas-biaya-logistik-lewat-perpres-baru",
   "category": "Makroekonomi",
   "title": "Presiden Prabowo [Pangkas] Biaya Logistik Lewat Perpres Baru",
@@ -85,6 +216,58 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah di sini adalah skalanya: kebiasaan pribadi Mendag Budi Santoso memajang produk UMKM di ruang tamunya kini dibawa jadi paviliun resmi di Trade Expo Indonesia, menampung 50 jenama terkurasi lengkap dengan layanan konsultasi ekspor dan ruang bertemu calon pembeli. Yang kena dampak adalah pelaku UMKM peserta, misalnya Basyira Cookies dari Jayapura dan Forest Beverage Solution Group dari Jakarta, yang sejauh ini baru mengirim sampel ke calon pembeli di Korea Selatan dan Malaysia, belum benar-benar mengekspor. Arahnya terlihat jelas, yaitu pemerintah mendorong UMKM naik dari sekadar memajang produk ke pertemuan langsung dengan pembeli asing, tetapi keberhasilan sesungguhnya baru teruji kalau sampel-sampel itu berubah jadi pesanan nyata. Yang perlu dipantau adalah apakah pengiriman sampel Basyira Cookies ke Korea Selatan bulan depan membuahkan order, dan apakah Kementerian Perdagangan merilis data berapa UMKM peserta TEI ke-41 yang benar-benar mendapat pembeli setelah pameran ini ditutup 18 Oktober.",
   "imageV": "mv8zvk39"
+ },
+ {
+  "slug": "bton-bantah-ada-info-material-di-balik-volatilitas-transaksi",
+  "category": "Aksi Korporasi",
+  "title": "BTON Bantah Ada Info Material di Balik [Volatilitas] Transaksi",
+  "deck": "Menanggapi permintaan penjelasan BEI, Betonjaya Manunggal (BTON) menyatakan tidak ada informasi material dan belum ada rencana aksi korporasi dalam tiga bulan mendatang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T10:06:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a0eaa831a_b9e05bd465.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTON",
+  "tags": [
+   "BTON",
+   "Betonjaya Manunggal",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Betonjaya Manunggal Tbk (BTON) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi efeknya. Permintaan itu disampaikan BEI melalui surat nomor S-13019/BEI.PP1/10-2026 tertanggal 13 Oktober 2026, dan dijawab perseroan dua hari kemudian melalui surat nomor 30/BTON/X/2026 tanggal 15 Oktober 2026 yang ditandatangani Direktur Andy Soesanto.",
+   "Dalam surat tersebut, BTON menegaskan tidak memiliki informasi atau fakta material yang belum diungkapkan kepada BEI maupun Otoritas Jasa Keuangan, baik yang diatur dalam POJK Nomor 31/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan Nomor I-E BEI. Perseroan juga menyatakan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dan menyebut pemegang saham utama belum punya rencana apa pun terkait kepemilikan sahamnya di BTON.",
+   "Soal rencana aksi korporasi, BTON memastikan belum ada rencana tindakan korporasi dalam waktu dekat, setidaknya dalam tiga bulan ke depan, yang bisa berdampak pada status pencatatan sahamnya di bursa. Perseroan menutup suratnya dengan menyatakan seluruh informasi penting yang wajib disampaikan ke BEI dan OJK sudah dilaksanakan, dan tidak ada fakta atau kejadian material lain yang masih disembunyikan dari publik."
+  ],
+  "fotoAdegan": "Workers monitoring a steel rod rolling line inside an industrial factory, sparks and metal coils under bright overhead lighting",
+  "takeaway": "Penjelasan ini tergolong netral, karena isinya murni penegasan rutin bahwa tidak ada yang berubah, bukan kabar baik atau buruk bagi bisnis BTON. Surat semacam ini biasanya dipicu oleh lonjakan harga atau volume transaksi yang dianggap tidak wajar oleh bursa, tapi karena BTON menyatakan tidak tahu sebabnya dan tidak ada aksi korporasi yang direncanakan, pos-pos penting seperti jumlah saham beredar, ekuitas, dan laba per saham dipastikan tetap sama untuk saat ini. Yang perlu dipantau pembaca adalah dua hal, apakah pergerakan harga atau volume saham BTON tetap tidak biasa setelah surat ini terbit sehingga BEI kembali meminta klarifikasi, dan apakah jendela tiga bulan yang disebut perseroan, yang berarti sampai sekitar pertengahan Januari 2027, benar-benar berlalu tanpa ada aksi korporasi baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cnaf-rampungkan-realisasi-dana-obligasi-rp196-5-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CNAF rampungkan realisasi dana [obligasi] Rp196,5 miliar",
+  "deck": "CIMB Niaga Auto Finance (CNAF) melaporkan seluruh dana hasil obligasi tahap I 2026 senilai Rp196,52 miliar sudah terpakai untuk pembiayaan modal kerja, tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T10:02:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aa25569a04_e4852c9331.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CNAF",
+  "tags": [
+   "CNAF",
+   "obligasi",
+   "penggunaan dana",
+   "multifinance"
+  ],
+  "body": [
+   "PT CIMB Niaga Auto Finance (CNAF) melaporkan realisasi penggunaan dana hasil Obligasi Berkelanjutan I CIMB Niaga Auto Finance Tahap I Tahun 2026 per 30 September 2026. Obligasi ini efektif sejak 9 Juli 2026 dengan total dana yang terkumpul dari penawaran umum sebesar Rp200 miliar. Setelah dipotong biaya penawaran umum sebesar Rp3,48 miliar, dana bersih yang diterima perusahaan mencapai Rp196,52 miliar. Laporan ditandatangani Direktur CNAF, M. Imron Rosyadi Nur, pada 12 Oktober 2026.",
+   "Seluruh dana bersih tersebut, atau 100 persen, telah direalisasikan untuk membiayai modal kerja perusahaan. Penggunaannya mencakup pembiayaan investasi, pembiayaan multiguna non syariah, pembiayaan kendaraan roda empat, pembiayaan kendaraan roda dua, serta pembiayaan lain sesuai izin usaha yang telah diperoleh CNAF dari Otoritas Jasa Keuangan. Dengan realisasi penuh ini, sisa dana yang belum terpakai tercatat nol, artinya tidak ada dana mengendap yang masih disimpan dalam instrumen lain menunggu penyaluran.",
+   "Dari sisi biaya, rincian Rp3,48 miliar biaya penawaran umum terdiri dari biaya jasa penjaminan emisi Rp377,4 juta atau 11 persen, biaya jasa profesi penunjang pasar modal Rp1,8 miliar atau 52 persen, biaya jasa lembaga penunjang pasar modal Rp856,4 juta atau 24 persen, dan biaya lain-lain Rp447,4 juta atau 13 persen. Tidak ada biaya jasa penyelenggaraan, biaya jasa penjualan, maupun biaya jasa konsultasi keuangan yang dibebankan dalam penerbitan ini. Berdasarkan dokumen pendukung, obligasi Tahap I ini merupakan bagian dari program Obligasi Berkelanjutan I CIMB Niaga Auto Finance dengan target dana total Rp5 triliun."
+  ],
+  "fotoAdegan": "A row of new motorcycles and sedans parked in an orderly dealership yard under soft morning sunlight, suburban Indonesian street",
+  "takeaway": "Laporan ini netral bagi CNAF karena sifatnya konfirmasi rutin bahwa seluruh dana obligasi sudah dipakai tepat seperti rencana di prospektus, tanpa ada perubahan rencana atau kejutan baru. Pos yang tersentuh adalah beban bunga, yaitu biaya bunga yang harus dibayar perusahaan atas utang obligasi ini, karena dana yang terkumpul berasal dari utang berbunga yang kini disalurkan menjadi pembiayaan kendaraan dan modal kerja, sumber pendapatan utama CNAF. Pelaku pasar biasa memperhatikan laporan semacam ini untuk memastikan dana utang benar-benar dipakai sesuai tujuan awal, bukan untuk keperluan lain. Yang perlu dipantau berikutnya adalah kelanjutan program Obligasi Berkelanjutan I CIMB Niaga Auto Finance yang bertarget total Rp5 triliun, termasuk apakah CNAF akan menerbitkan tahap selanjutnya serta bagaimana kualitas portofolio pembiayaan yang didanai dari obligasi ini tercermin pada laporan keuangan kuartal berikutnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "harga-emas-antam-turun-jadi-rp2-561-000-per-gram",
@@ -243,6 +426,32 @@ var ARTICLES = [
   "fotoAdegan": "Engineers in hard hats inspecting high voltage transmission towers at dusk, rural Indonesian landscape, utility trucks parked nearby",
   "takeaway": "Perubahan ini kami nilai netral karena merupakan suksesi kepemimpinan internal yang berjalan melalui jalur normal RUPS, bukan respons atas masalah kinerja atau keuangan, dan perusahaan sendiri menyatakan tidak ada dampak material dari keputusan ini. Karena PLN berstatus badan usaha milik negara yang sahamnya tidak diperdagangkan di bursa, kabar ini terutama penting bagi pemegang obligasi atau surat utang PLN yang ingin memastikan arah bisnis tetap konsisten, bukan sinyal untuk pemegang saham publik karena memang tidak ada. Suroso Isnandar bukan sosok baru, ia sudah tiga tahun menjabat Direktur Manajemen Proyek dan Energi Baru Terbarukan sejak September 2023, sehingga pergantian ini kemungkinan tidak langsung mengubah arah strategi besar perusahaan. Yang perlu dipantau berikutnya adalah apakah manajemen baru akan mengumumkan perubahan rencana investasi, terutama di proyek energi baru terbarukan yang sebelumnya ditangani langsung oleh Suroso, serta siapa yang akan mengisi posisi direktur yang ia tinggalkan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "digi-ekuitas-negatif-melebar-jadi-rp4-6-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "DIGI: ekuitas negatif [melebar] jadi Rp4,6 miliar di kuartal III",
+  "deck": "Laba rugi Arkadia Digital Media menyusut dibanding tahun lalu, tetapi kas merosot tajam dan defisit ekuitas makin dalam di laporan kuartal III 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T04:36:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261015115238-64545-0/FinancialStatement-2026-III-DIGI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DIGI",
+  "tags": [
+   "DIGI",
+   "Arkadia Digital Media",
+   "laporan keuangan",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Arkadia Digital Media Tbk (DIGI) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir pada 30 September 2026, melalui surat bernomor 030/ADM/BOD/X/2026 yang ditandatangani direksi pada 14 Oktober 2026. Pendapatan perusahaan turun dari Rp27,95 miliar pada periode yang sama tahun lalu menjadi Rp26,48 miliar, namun laba kotor justru naik dari Rp12,51 miliar menjadi Rp15,09 miliar karena beban pokok pendapatan ditekan lebih rendah. Rugi usaha menyempit tajam dari Rp2,63 miliar menjadi Rp690,33 juta, dan rugi bersih tahun berjalan ikut menyusut dari Rp2,79 miliar menjadi Rp729,93 juta, membuat rugi per saham dasar mengecil dari Rp1,72 menjadi Rp0,45.",
+   "Di sisi posisi keuangan, jumlah aset perusahaan turun dari Rp17,67 miliar pada akhir 2025 menjadi Rp16,81 miliar per 30 September 2026, terutama karena kas dan bank merosot dari Rp3,47 miliar menjadi Rp490,36 juta. Jumlah liabilitas tercatat Rp21,41 miliar, lebih besar daripada jumlah aset, sehingga ekuitas perusahaan tetap negatif dan bahkan melebar dari defisit Rp4,09 miliar menjadi defisit Rp4,60 miliar. Saldo rugi yang terakumulasi juga bertambah menjadi Rp50,71 miliar dari Rp49,98 miliar, sementara modal disetor tetap di Rp32,5 miliar tanpa ada aksi korporasi baru. Rasio lancar, yang mengukur kemampuan aset jangka pendek menutup utang jangka pendek, turun dari 101,07 persen menjadi 97,45 persen, yang berarti aset lancar perusahaan kini sedikit lebih kecil daripada utang yang harus dibayar dalam waktu dekat.",
+   "Dari laporan arus kas, kegiatan operasional masih membutuhkan kas tambahan sebesar Rp847,74 juta, meski jumlah ini jauh lebih kecil dibanding kebutuhan kas Rp3,76 miliar pada periode yang sama tahun lalu. Perusahaan juga mengeluarkan Rp1,37 miliar untuk belanja aset tetap serta membayar kewajiban leasing dan utang lain-lain, sehingga kas dan bank turun neto Rp2,98 miliar sepanjang sembilan bulan ini. Laporan ini belum diaudit, sementara laporan keuangan tahunan 2025 yang telah diaudit oleh KAP Doli, Bambang, Sulistiyanto, Dadang & Ali memperoleh opini wajar tanpa modifikasian namun disertai paragraf penekanan mengenai kelangsungan usaha perusahaan, dan saham DIGI saat ini masih tercatat di papan Pemantauan Khusus Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Rows of video editors working at computer workstations in a dim digital media production office, monitors blurred in the background, city skyline visible through windows at night",
+  "takeaway": "Laporan ini condong negatif bagi Arkadia Digital Media karena defisit ekuitas, yaitu kondisi ketika total utang perusahaan lebih besar daripada total hartanya, melebar dari Rp4,09 miliar menjadi Rp4,60 miliar, dan kas yang bisa langsung dipakai perusahaan susut tajam dari Rp3,47 miliar menjadi Rp490 juta saja. Yang ikut tersentuh adalah rasio lancar, perbandingan antara aset yang cepat dicairkan dengan utang yang harus dibayar dalam setahun, yang turun di bawah 100 persen menjadi 97,45 persen, tanda bahwa utang jangka pendek sedikit lebih besar daripada aset jangka pendek yang dimiliki. Memang ada sisi baik, rugi bersih menyempit dari Rp2,79 miliar menjadi Rp729,93 juta dan kebutuhan kas dari kegiatan operasi juga mengecil dari Rp3,76 miliar menjadi Rp847,74 juta, tapi perbaikan laba itu belum cukup mengangkat posisi modal perusahaan dari zona negatif. Investor perlu mencermati bahwa DIGI masih berstatus Pemantauan Khusus di papan perdagangan BEI dan laporan auditan tahun sebelumnya sudah memuat penekanan soal kelangsungan usaha, sehingga laporan tahunan auditan 2026 yang biasanya baru terbit awal tahun berikutnya akan menjadi penentu apakah status dan posisi modal negatif ini membaik atau makin dalam.",
+  "sentimen": "negatif"
  },
  {
   "slug": "hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun",

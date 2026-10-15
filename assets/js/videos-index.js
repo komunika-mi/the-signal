@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "grhUTvnKwFQ",
+  "title": "Danantara Luncurkan Program Kesehatan, Pendidikan, dan Sanitasi",
+  "category": "BUMN",
+  "program": "Kabar Hari Ini",
+  "summary": "Danantara Indonesia Trust memperluas program sosial di bidang kesehatan, pendidikan, serta air bersih dan sanitasi lewat sejumlah kemitraan strategis, termasuk penyaluran beasiswa.",
+  "takeaway": "Perlu disimak karena menunjukkan arah alokasi dana kelolaan Danantara sebagai lembaga investasi negara, yang berkaitan dengan tata kelola BUMN."
+ },
+ {
   "id": "FASmEUT8QP8",
   "title": "Menteri ESDM Resmikan Kilang LPG Cilamaya di Karawang",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Kadin Indonesia bersama Lemhannas RI menggelar Program Pemantapan Nilai-Nilai Kebangsaan Angkatan ke-121 untuk memperkuat pemahaman pengusaha mengenai nilai kebangsaan dan posisi dunia usaha.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya memperkuat kapasitas dan wawasan kebangsaan pelaku usaha sebagai bagian dari ekosistem bisnis nasional."
- },
- {
-  "id": "5dGQQBXYsa0",
-  "title": "DPR Sahkan RUU Perlindungan Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Utama",
-  "summary": "DPR RI mengesahkan RUU Perlindungan Ketenagakerjaan menjadi undang-undang dalam rapat paripurna pada 6 Oktober 2026, di tengah aksi unjuk rasa buruh yang ditemui langsung oleh pimpinan DPR.",
-  "takeaway": "Pengesahan undang-undang ini penting diikuti karena berdampak langsung pada hak pekerja dan kewajiban dunia usaha dalam hubungan ketenagakerjaan."
  }
 ];

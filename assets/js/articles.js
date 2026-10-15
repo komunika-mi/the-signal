@@ -374,7 +374,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan status resmi Indonesia, melainkan tahap tekniSnya: sejak Juni 2026 Indonesia baru masuk fase diskusi awal dengan Komisi CPTPP, belum pada pembentukan Accession Working Group yang menjadi syarat formal sebelum negosiasi keanggotaan benar-benar dimulai. Pihak yang akan terdampak kalau proses ini berlanjut adalah pelaku usaha ekspor-impor dan investor yang mengincar pasar CPTPP seperti Jepang, Kanada, dan Meksiko, serta sektor yang diatur ketat dalam standar CPTPP seperti BUMN, perdagangan digital, dan persaingan usaha, karena merekalah yang paling mungkin perlu menyesuaikan aturan domestik. Siaran pers ini belum bisa menjawab kapan Accession Working Group akan terbentuk, karena menurut Kemenko Perekonomian itu masih bergantung pada prosedur dan konsensus seluruh anggota CPTPP. Yang perlu dipantau adalah hasil respons Indonesia atas dokumen indicative checklist itu, karena itulah yang akan menentukan apakah proses aksesi bisa bergerak ke tahap pembentukan kelompok kerja resmi.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "ri-bahas-ancaman-komputasi-kuantum-ke-keamanan-data-digital",
@@ -402,7 +402,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini bukan aturan baru, melainkan tanda bahwa pemerintah mulai memetakan risiko komputer kuantum sebelum teknologi itu benar-benar mampu membongkar kode pengaman data, lewat gugus tugas BSSN yang sudah dibagi ke kelompok kebijakan, teknis, dan industri. Pihak yang kena dampak lebih dulu adalah bank dan penyedia layanan digital yang menyimpan data sensitif untuk jangka panjang, sebab data yang disadap orang lain hari ini berisiko dibongkar kalau standar pengamanannya belum diperbarui. Arahnya masih berupa persiapan dan edukasi, bukan kewajiban yang mengikat, sehingga ini bergerak ke penguatan bertahap lewat peta jalan ketimbang regulasi mendadak. Yang akan menentukan seberapa cepat agenda ini berjalan adalah penandatanganan ASEAN DEFA yang dijadwalkan November ini, karena dari situ akan terlihat apakah komitmen keamanan digital kawasan ini diikuti langkah konkret atau masih sebatas kesepakatan di atas kertas.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "esdm-kejar-listrik-ke-11-000-desa-target-2029-2030",
@@ -883,7 +883,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah ada dua angka utama: investasi di sektor pariwisata, mulai dari hotel sampai infrastruktur wisata, tumbuh 16,64 persen sepanjang 2026, dua kali lebih cepat dari rata-rata investasi nasional. Pemerintah juga menyiapkan insentif senilai Rp26,34 triliun berupa diskon tiket transportasi dan keringanan pajak penghasilan bagi 552.000 pekerja hotel, ditambah pelatihan untuk 400.000 tenaga kerja pariwisata setiap tahun. Pihak yang langsung terdampak adalah pelaku usaha perhotelan dan pekerjanya, penyelenggara acara wisata, serta daerah di luar Jawa yang menerima lebih dari separuh realisasi investasi nasional. Arahnya terlihat jelas, pemerintah memperlakukan pariwisata sebagai mesin pertumbuhan yang didorong lewat insentif fiskal langsung, bukan sekadar promosi, seiring target menaikkan sumbangan sektor ini ke total ekonomi nasional dari 3,97 persen pada 2025 menjadi 4,5-4,7 persen tahun ini. Yang akan membuktikan apakah target itu realistis adalah data kunjungan wisatawan mancanegara di akhir tahun, karena capaian Januari-Agustus baru 10,58 juta dari target 16-17,6 juta kunjungan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "wamendag-soroti-peran-swedia-dalam-i-eu-cepa-di-tei-2026",

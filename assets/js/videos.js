@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "grhUTvnKwFQ",
+  "title": "Danantara Luncurkan Program Kesehatan, Pendidikan, dan Sanitasi",
+  "category": "BUMN",
+  "program": "Kabar Hari Ini",
+  "summary": "Danantara Indonesia Trust memperluas program sosial di bidang kesehatan, pendidikan, serta air bersih dan sanitasi lewat sejumlah kemitraan strategis, termasuk penyaluran beasiswa.",
+  "takeaway": "Perlu disimak karena menunjukkan arah alokasi dana kelolaan Danantara sebagai lembaga investasi negara, yang berkaitan dengan tata kelola BUMN.",
+  "terbit": "2026-10-15T16:23:09+00:00"
+ },
+ {
   "id": "FASmEUT8QP8",
   "title": "Menteri ESDM Resmikan Kilang LPG Cilamaya di Karawang",
   "category": "Energi",

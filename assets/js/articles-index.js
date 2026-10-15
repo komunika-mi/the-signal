@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "saham-cani-dapat-tambahan-kriteria-pemantauan-khusus",
+  "category": "Aksi Korporasi",
+  "title": "Saham CANI Dapat Tambahan Kriteria [Pemantauan Khusus]",
+  "deck": "BEI mengoreksi pengumuman sebelumnya dan menambahkan kriteria opini disclaimer pada status pemantauan khusus saham CANI, yang sebelumnya sudah berstatus ekuitas negatif.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CANI",
+   "pemantauan khusus",
+   "BEI",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e572107494_4ddd5ce914.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oppm-pastikan-karhutla-sumsel-tak-ganggu-produksi",
+  "category": "Aksi Korporasi",
+  "title": "OPPM Pastikan Karhutla Sumsel Tak Ganggu [Produksi]",
+  "deck": "Menjawab permintaan BEI, OPPM menyatakan kebakaran hutan di Sumatera Selatan tidak mengganggu operasi, target produksi, pendapatan, laba, maupun aset perusahaan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OPPM",
+   "karhutla",
+   "pulp dan kertas",
+   "Sumatera Selatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/91a8b3cfc4_d2e4bf752f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "byan-jadwalkan-rupslb-23-november-dps-29-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BYAN Jadwalkan [RUPSLB] 23 November, DPS 29 Oktober",
+  "deck": "Bayan Resources menjadwalkan RUPSLB pada 23 November 2026, dengan recording date pemegang saham 29 Oktober 2026. Agenda resmi baru diumumkan 30 Oktober.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "RUPSLB",
+   "Bayan Resources",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/572bb95a2c_041ccb7a8b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oils-pastikan-tak-terdampak-karhutla-operasional-aman",
+  "category": "Aksi Korporasi",
+  "title": "OILS Pastikan Tak Terdampak [Karhutla], Operasional Aman",
+  "deck": "OILS menjawab permintaan penjelasan BEI soal isu karhutla nasional, menegaskan asetnya di Lampung Timur hanya gudang bahan baku dan tidak ada dampak operasional maupun hukum.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OILS",
+   "karhutla",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e7f0e01dfb_edd2e6e9e2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tpia-gaet-danantara-dan-ina-danai-proyek-ca-edc",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Gaet Danantara dan INA Danai Proyek [CA-EDC]",
+  "deck": "Danantara, INA, dan Chandra Asri Group merampungkan kemitraan investasi untuk proyek petrokimia CA-EDC di Cilegon yang konstruksinya sudah 80 persen jadi.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "Danantara",
+   "CA-EDC"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6cea027363_e04877f97d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rmke-pastikan-operasi-tambang-tak-terdampak-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "RMKE Pastikan Operasi Tambang [Tak Terdampak] Karhutla",
+  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, RMK Energy sebut seluruh lokasi operasinya aman dan tidak ada gangguan produksi maupun hukum.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RMKE",
+   "karhutla",
+   "keterbukaan informasi",
+   "pertambangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4bd44e0cbf_2cfe825030.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mgro-tegaskan-karhutla-tak-ganggu-produksi-dan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "MGRO Tegaskan [Karhutla] Tak Ganggu Produksi dan Keuangan",
+  "deck": "Menjawab permintaan penjelasan BEI, Mahkota Group menyatakan kebakaran hutan dan lahan di sekitar tujuh anak usahanya belum berdampak pada produksi, pendapatan, atau laba perusahaan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGRO",
+   "karhutla",
+   "sawit",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3cc09af349_f067599653.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "utang-luar-negeri-ri-naik-5-6-jadi-us-459-3-miliar",
   "category": "Makroekonomi",
   "title": "Utang Luar Negeri RI [Naik] 5,6% jadi US$459,3 Miliar",
@@ -189,6 +301,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "bbsi-pastikan-tak-ada-fakta-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BBSI Pastikan Tak Ada Fakta Material di Balik [Volatilitas] Saham",
+  "deck": "Krom Bank Indonesia menjawab permintaan BEI soal pergerakan tak biasa sahamnya, menyatakan tak ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBSI",
+   "Krom Bank Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a93846bd0e_fe1d2f92bb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bton-bantah-ada-info-material-di-balik-volatilitas-transaksi",
   "category": "Aksi Korporasi",
   "title": "BTON Bantah Ada Info Material di Balik [Volatilitas] Transaksi",
@@ -283,6 +411,22 @@ var ARTICLES = [
    "perubahan pengendali"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a307830c37_adce9d16e0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fore-catat-transaksi-afiliasi-rp5-miliar-antar-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "FORE Catat Transaksi Afiliasi [Rp5 Miliar] Antar Anak Usaha",
+  "deck": "PT Fore Kopi Indonesia Tbk melaporkan jual beli bahan baku senilai maksimal Rp5 miliar antara dua anak usahanya, CFI dan FBI, untuk mendukung bisnis restoran CFI.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORE",
+   "transaksi afiliasi",
+   "Fore Kopi Indonesia",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/97061df633_822a93cc12.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6355,154 +6499,6 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe8c2bba23_e12225ae04.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indonesia-teken-mou-dagang-digital-dan-ai-dengan-tiongkok",
-  "category": "Global",
-  "title": "Indonesia Teken [MoU] Dagang Digital dan AI dengan Tiongkok",
-  "deck": "Indonesia tampil sebagai negara kehormatan di Global Digital Trade Expo 2025 Hangzhou dan menjaring sejumlah MoU dagang digital serta kerja sama AI dengan Tiongkok.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
-  "tags": [
-   "Perdagangan Digital",
-   "Kecerdasan Buatan",
-   "Tiongkok",
-   "Kawasan Ekonomi Khusus"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7136/indonesia-perkuat-kerja-sama-perdagangan-digital-dan-kawasan-ekonomi-khusus-pada-global-digital-trade-expo-ke-5",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "keyakinan-konsumen-tetap-optimis-kondisi-kini-melambat",
-  "category": "Makroekonomi",
-  "title": "Keyakinan Konsumen Tetap [Optimis], Kondisi Kini Melambat",
-  "deck": "Survei Bank Indonesia September 2026 mencatat Indeks Keyakinan Konsumen tetap optimis di 118,1, meski penilaian atas kondisi ekonomi saat ini justru melemah dari bulan sebelumnya.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/keyakinan-konsumen-tetap-optimis-kondisi-kini-melambat.jpg",
-  "imageV": "muz59llc",
-  "tags": [
-   "Bank Indonesia",
-   "Survei Konsumen",
-   "Keyakinan Konsumen",
-   "Ekonomi Indonesia"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821626.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "crab-koreksi-laporan-dana-ipo-kapal-baru-terpakai-rp650-juta",
-  "category": "Aksi Korporasi",
-  "title": "CRAB koreksi laporan dana IPO, [kapal] baru terpakai Rp650 juta",
-  "deck": "Toba Surimi Industries (CRAB) mengoreksi laporan realisasi dana IPO per 30 Juni 2026; modal kerja terserap penuh, tapi dana kapal laut baru terpakai Rp650 juta dari rencana Rp3,12 miliar.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRAB",
-   "Toba Surimi Industries",
-   "penggunaan dana IPO",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/115b5f3161_3e4bef3d40.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bali-harga-saham-melonjak-24-8-tanpa-faktor-fundamental-baru",
-  "category": "Aksi Korporasi",
-  "title": "BALI: Harga Saham Melonjak 24,8%, Tanpa Faktor [Fundamental] Baru",
-  "deck": "Saham BALI ditutup naik 24,8% ke Rp1.660 pada 5 Oktober dengan volume tipis. BEI minta penjelasan, dan pemegang saham pengendali disebut sudah menambah kepemilikan sejak September.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BALI",
-   "volatilitas saham",
-   "Kharisma Cipta Towerindo",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/be0b6e242e_f28f5ab6a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "film-direksi-tambah-bersih-48-4-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "FILM: Direksi [Tambah] Bersih 48,4 Juta Saham Lewat Repo",
-  "deck": "Samuel Sekuritas Indonesia, pelapor berstatus direksi FILM, mencatat penambahan bersih 48,4 juta saham lewat dua transaksi repo pada 6 Oktober 2026, hak suara naik dari 9,19% jadi 9,64%.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-8503-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "truk-free-float-turun-ke-14-82-di-bawah-batas-15",
-  "category": "Aksi Korporasi",
-  "title": "TRUK: Free Float Turun ke [14,82%], di Bawah Batas 15%",
-  "deck": "Guna Timur Raya menjawab permintaan penjelasan bursa soal kinerja keuangan dan dampak tender saham oleh PT Pukul Rata Kanan terhadap porsi saham publik.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUK",
-   "tender offer",
-   "free float",
-   "Guna Timur Raya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3000342222_560c4f96aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trja-direksi-beli-18-100-saham-transkon-jaya-rp117",
-  "category": "Aksi Korporasi",
-  "title": "[TRJA] Direksi Beli 18.100 Saham Transkon Jaya Rp117",
-  "deck": "Direktur R Hesthi Sambodo menambah 18.100 saham TRJA pada 28 September 2026 seharga Rp117 per saham, kepemilikannya naik ke 471.900 lembar meski hak suaranya tetap 0,03 persen.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRJA",
-   "Transkon Jaya",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-9164-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menko-bahlil-kaji-moratorium-ekspor-produk-nikel",
-  "category": "Energi",
-  "title": "Menko Bahlil Kaji [Moratorium] Ekspor Produk Nikel",
-  "deck": "Menko Bahlil Lahadalia memaparkan rencana Kemenko Hilirisasi, termasuk kajian moratorium ekspor produk setengah jadi dan mandat etanol 20 persen pada 2027-2028.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/menko-bahlil-kaji-moratorium-ekspor-produk-nikel.jpg",
-  "imageV": "muyyo8gn",
-  "tags": [
-   "hilirisasi",
-   "nikel",
-   "transisi energi",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pidato-perdana-menko-bahlil-petakan-peran-kemenko-hilirisasi-sinkronkan-kebijakan-hingga-kaji-moratorium",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "fapa-jadwalkan-rupslb-16-november-simak-batas-usul-agenda",
-  "category": "Aksi Korporasi",
-  "title": "FAPA Jadwalkan [RUPSLB] 16 November, Simak Batas Usul Agenda",
-  "deck": "PT FAP Agri Tbk akan menggelar RUPSLB pada 16 November 2026. Pemegang saham yang tercatat per 22 Oktober 2026 berhak hadir.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FAPA",
-   "RUPSLB",
-   "Pemegang Saham",
-   "Rapat Umum Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe410f6e2b_cb13e6545d.pdf",
   "sourceLabel": "IDX"
  }
 ];

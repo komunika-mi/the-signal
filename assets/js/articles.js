@@ -3,6 +3,188 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "saham-cani-dapat-tambahan-kriteria-pemantauan-khusus",
+  "category": "Aksi Korporasi",
+  "title": "Saham CANI Dapat Tambahan Kriteria [Pemantauan Khusus]",
+  "deck": "BEI mengoreksi pengumuman sebelumnya dan menambahkan kriteria opini disclaimer pada status pemantauan khusus saham CANI, yang sebelumnya sudah berstatus ekuitas negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T15:02:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e572107494_4ddd5ce914.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "CANI",
+   "pemantauan khusus",
+   "BEI",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "Bursa Efek Indonesia menerbitkan koreksi atas pengumuman Peng-UK-00041/BEI.PLP/10-2026 tertanggal 6 Oktober 2026 melalui surat baru bernomor Peng-UK-00043/BEI.PLP/10-2026 yang terbit 15 Oktober 2026. Dalam koreksi ini, Bursa menetapkan saham PT Capitol Nusantara Indonesia Tbk (CANI), yang sebelumnya tercatat di papan pengembangan sebelum masuk papan pemantauan khusus, mendapat tambahan satu kriteria pemantauan khusus.",
+   "Kriteria yang ditambahkan adalah kriteria nomor 2, yaitu laporan keuangan auditan terakhir CANI mendapat opini tidak menyatakan pendapat atau disclaimer dari auditor independen. Kriteria ini melengkapi kriteria nomor 5 yang sudah lebih dulu melekat pada saham CANI, yaitu memiliki ekuitas negatif pada laporan keuangan terakhir. Dengan demikian, saham CANI kini tercatat dengan dua kriteria pemantauan khusus sekaligus, dan perubahan ini berlaku efektif sejak 7 Oktober 2026.",
+   "Bursa juga menyebutkan CANI tidak termasuk kategori saham dengan hak suara multipel (SDHSM). Pengumuman lengkap dapat diakses di laman resmi BEI dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus Koreksi, sesuai nomor surat yang tercantum di atas."
+  ],
+  "fotoAdegan": "Exterior of a mid-rise office building in Jakarta's business district, glass facade reflecting an overcast sky, pedestrians below",
+  "takeaway": "Penambahan kriteria ini negatif bagi CANI karena menunjukkan kondisi keuangan perusahaan makin memburuk, bukan membaik. Kriteria yang disentuh adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, yang sudah negatif berarti utangnya melebihi hartanya, ditambah sekarang auditor independen menyatakan tidak bisa memberi pendapat yang memastikan kewajaran laporan keuangan perseroan karena kurangnya bukti meyakinkan. Pelaku pasar memperhatikan dua hal ini karena ekuitas negatif menandakan risiko kesulitan keuangan sementara opini disclaimer membuat investor tidak punya pegangan angka yang bisa dipercaya. Perubahan status ini berlaku efektif 7 Oktober 2026, dan yang perlu dipantau selanjutnya adalah apakah CANI bisa memperbaiki kedua kriteria tersebut pada laporan keuangan berikutnya atau justru berlarut hingga berisiko terkena sanksi lebih lanjut dari Bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "oppm-pastikan-karhutla-sumsel-tak-ganggu-produksi",
+  "category": "Aksi Korporasi",
+  "title": "OPPM Pastikan Karhutla Sumsel Tak Ganggu [Produksi]",
+  "deck": "Menjawab permintaan BEI, OPPM menyatakan kebakaran hutan di Sumatera Selatan tidak mengganggu operasi, target produksi, pendapatan, laba, maupun aset perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T14:50:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/91a8b3cfc4_d2e4bf752f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OPPM",
+  "tags": [
+   "OPPM",
+   "karhutla",
+   "pulp dan kertas",
+   "Sumatera Selatan"
+  ],
+  "body": [
+   "PT OKI Pulp & Paper Mills (OPPM) menyampaikan tanggapan resmi atas surat Bursa Efek Indonesia (BEI) Nomor S-13079/BEI.PP3/10-2026 tertanggal 13 Oktober 2026 yang meminta penjelasan soal dampak kebakaran hutan dan lahan (karhutla). Tanggapan bernomor 021/CRP/OK/X/2026 ini ditandatangani Direktur OPPM, Arman Dwiartono, dan disampaikan ke bursa pada 15 Oktober 2026.",
+   "Dalam suratnya, OPPM menjelaskan bahwa seluruh wilayah operasional dan asetnya hanya berada di satu lokasi, yakni Desa Bukit Batu, Kecamatan Air Sugihan, Kabupaten Ogan Komering Ilir, Sumatera Selatan, yang menyumbang 100 persen produksi dan 100 persen pendapatan perusahaan. Entitas anak, PT Pupuk Swadaya Purimas, juga beroperasi di lokasi yang sama namun tidak memberikan kontribusi produksi maupun pendapatan. OPPM menegaskan bahwa kejadian karhutla di sekitar wilayah tersebut sampai saat ini tidak berdampak pada kegiatan operasional, target produksi tahun 2026, pendapatan, laba, maupun nilai aset perusahaan, dan tidak ada penghentian operasi produksi yang tidak terencana (unplanned shutdown).",
+   "Perusahaan juga menyatakan tidak memiliki lahan atau konsesi yang berisiko terhadap karhutla, meski tetap akan memantau kondisi lingkungan dan potensi gangguan operasional ke depan. OPPM memastikan bahwa dirinya maupun entitas anak tidak sedang dan tidak berpotensi menghadapi proses hukum atau sanksi administratif terkait karhutla, termasuk penyegelan lahan, penyelidikan, gugatan, maupun pencabutan izin, serta tidak ada informasi material lain soal karhutla yang belum diungkapkan ke publik. Bursa mewajibkan tanggapan disampaikan paling lambat dua hari bursa sejak permintaan penjelasan diterima."
+  ],
+  "fotoAdegan": "Industrial pulp mill stacks releasing steam beside rows of young eucalyptus plantation trees under a clear tropical sky",
+  "takeaway": "Laporan ini condong positif bagi OPPM, karena perusahaan menegaskan musim karhutla di Sumatera Selatan tidak mengganggu produksi, pendapatan, laba, maupun proses hukum yang membayangi anak usahanya. Pos yang paling relevan di sini adalah produksi dan pendapatan, karena satu-satunya pabrik OPPM menyumbang 100 persen dari keduanya, artinya perusahaan ini tidak punya cadangan lokasi lain kalau suatu saat gangguan benar terjadi, jadi kepastian bahwa operasinya aman sekarang berarti lebih banyak bagi investor dibanding perusahaan dengan banyak pabrik. Yang perlu dipantau berikutnya adalah perkembangan musim kering di Sumatera Selatan pada sisa Oktober dan November, serta apakah BEI akan mengajukan permintaan penjelasan lanjutan jika situasi berubah, karena jawaban OPPM kali ini baru mencerminkan kondisi sampai 15 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "byan-jadwalkan-rupslb-23-november-dps-29-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BYAN Jadwalkan [RUPSLB] 23 November, DPS 29 Oktober",
+  "deck": "Bayan Resources menjadwalkan RUPSLB pada 23 November 2026, dengan recording date pemegang saham 29 Oktober 2026. Agenda resmi baru diumumkan 30 Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T14:35:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/572bb95a2c_041ccb7a8b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "RUPSLB",
+   "Bayan Resources",
+   "tata kelola"
+  ],
+  "body": [
+   "Bayan Resources Tbk (BYAN) melalui Corporate Secretary Jenny Quantero mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 23 November 2026, pukul 14:00 WIB. Lokasi rapat belum diumumkan. Pemegang saham yang berhak hadir atau diwakili dalam rapat ini adalah yang namanya tercatat dalam Daftar Pemegang Saham di Biro Administrasi Efek PT Raya Saham Registra pada 29 Oktober 2026 sampai pukul 16.15 WIB, sehingga transaksi jual beli saham BYAN setelah tanggal tersebut tidak lagi memberi hak suara di rapat ini.",
+   "Pemanggilan resmi yang memuat agenda lengkap rapat baru akan diumumkan pada 30 Oktober 2026, melalui situs web Bursa Efek Indonesia, situs e-RUPS milik PT Kustodian Sentral Efek Indonesia (KSEI), dan situs resmi perusahaan. Rapat akan digelar secara fisik maupun elektronik lewat aplikasi eASY.KSEI, dan perusahaan merekomendasikan pemegang saham memberikan kuasa serta memberikan suara lewat aplikasi itu.",
+   "Sesuai Anggaran Dasar Perseroan dan Pasal 16 POJK No. 15/POJK.04/2020, pemegang saham yang memiliki sendiri atau bersama-sama minimal satu per dua puluh (5 persen) dari total saham berhak suara dapat mengusulkan tambahan agenda rapat secara tertulis. Usulan itu harus diterima perusahaan paling lambat 7 hari sebelum tanggal Pemanggilan Rapat, yakni sekitar 23 Oktober 2026, dan wajib memenuhi syarat yang diatur dalam ketentuan tersebut."
+  ],
+  "fotoAdegan": "Coal conveyor belt loading trucks at a sprawling open-pit mine in Kalimantan, dust haze, heavy machinery under overcast sky",
+  "takeaway": "Kami menilai pengumuman ini netral bagi Bayan Resources, karena isinya baru soal jadwal dan pendaftaran pemegang saham, belum ada agenda atau keputusan konkret yang diumumkan. Yang tersentuh di sini bukan laporan keuangan, melainkan tata kelola perusahaan, yakni siapa yang berhak hadir dan memberi suara dalam rapat ini, hal yang penting dipantau karena RUPSLB biasa dipakai untuk mengubah susunan direksi atau komisaris, apalagi rapat ini datang tak lama setelah pergeseran besar kepemilikan dari Low Tuck Kwong ke Jhonlin Baratama. Kalau agenda yang nanti diumumkan menyentuh penerbitan saham baru atau perubahan struktur modal, dampaknya baru akan terasa langsung pada jumlah saham beredar dan laba per saham pemegang lama. Yang perlu dipantau berikutnya adalah pengumuman Pemanggilan Rapat lengkap dengan agenda pada 30 Oktober 2026, serta tenggat pengajuan usulan agenda oleh pemegang saham pemilik minimal 5 persen saham berhak suara, yaitu sekitar 23 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "oils-pastikan-tak-terdampak-karhutla-operasional-aman",
+  "category": "Aksi Korporasi",
+  "title": "OILS Pastikan Tak Terdampak [Karhutla], Operasional Aman",
+  "deck": "OILS menjawab permintaan penjelasan BEI soal isu karhutla nasional, menegaskan asetnya di Lampung Timur hanya gudang bahan baku dan tidak ada dampak operasional maupun hukum.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T14:12:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e7f0e01dfb_edd2e6e9e2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OILS",
+  "tags": [
+   "OILS",
+   "karhutla",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Indo Oil Perkasa Tbk (OILS) menyampaikan jawaban resmi atas permintaan penjelasan dari Bursa Efek Indonesia nomor S-13054/BEI.PP2/10-2026 tertanggal 13 Oktober 2026 terkait isu kebakaran hutan dan lahan (karhutla) yang tengah ramai secara nasional. Jawaban dikirim melalui surat nomor 006/SK-IOP/X/2026 tertanggal 15 Oktober 2026, ditandatangani Direktur Utama OILS, Johan Widakdo Liem.",
+   "Dalam suratnya, OILS mengakui memiliki aset di sejumlah wilayah Indonesia, salah satunya di Desa Sukadana, Kecamatan Sukadana, Kabupaten Lampung Timur. Perseroan menjelaskan aset tersebut berfungsi sebagai gudang yang membantu suplai bahan baku, bukan lahan konsesi atau area produksi. Perusahaan menegaskan tidak memiliki kegiatan operasional maupun konsesi di wilayah yang terdampak karhutla, sehingga peristiwa tersebut diklaim tidak berdampak pada kegiatan operasional maupun target produksi tahun 2026, tidak menimbulkan kerugian pada laba bersih atau nilai aset, dan tidak ada penghentian kegiatan atau unplanned shutdown di fasilitas manapun.",
+   "Soal mitigasi, OILS menyebut meski tidak beroperasi di sektor kehutanan atau perkebunan lahan luas yang berisiko karhutla, perusahaan tetap menerapkan prosedur standar keselamatan kerja dan lingkungan (K3L) yang ketat di seluruh fasilitas pabrik dan aset penunjangnya untuk mencegah risiko kebakaran. Perseroan juga menyatakan, berdasarkan penelusuran rekam jejak hukum internal, tidak sedang maupun berpotensi menghadapi proses hukum atau sanksi administratif terkait karhutla, dan tidak ada informasi material lain yang belum diungkapkan ke publik terkait isu tersebut. Penjelasan ini disampaikan untuk memenuhi Peraturan Bursa Nomor I-E tentang Kewajiban Penyampaian Informasi."
+  ],
+  "fotoAdegan": "Workers stacking sacks of raw coconut material inside a rural warehouse, trucks waiting outside, under cloudy tropical sky in East Lampung, Indonesia",
+  "takeaway": "Penjelasan ini condong netral karena isinya adalah bantahan atas keterkaitan dengan isu karhutla, bukan kabar baru soal kinerja keuangan: OILS menegaskan asetnya di Lampung Timur cuma gudang penyimpanan bahan baku, bukan lahan perkebunan atau konsesi hutan yang berisiko terbakar, sehingga klaim tidak ada dampak ke laba, nilai aset, maupun target produksi 2026 masuk akal secara bisnis. Yang sebenarnya tersentuh di sini bukan pos kinerja seperti ekuitas atau arus kas, melainkan risiko gangguan rantai pasok, karena gudang itu menopang suplai bahan baku untuk produksi minyak kelapa Perseroan; kalau fasilitas semacam itu sampai berhenti beroperasi, barulah pendapatan dan laba ikut terganggu. Perlu diingat juga bahwa seluruh penjelasan ini adalah pernyataan sepihak manajemen tanpa verifikasi independen dari Bursa atau otoritas lingkungan. Yang perlu dipantau berikutnya adalah apakah BEI menerima jawaban tertanggal 15 Oktober 2026 ini tanpa pertanyaan lanjutan, serta apakah isu karhutla nasional nantinya meluas ke Kabupaten Lampung Timur sehingga mengubah eksposur Perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tpia-gaet-danantara-dan-ina-danai-proyek-ca-edc",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Gaet Danantara dan INA Danai Proyek [CA-EDC]",
+  "deck": "Danantara, INA, dan Chandra Asri Group merampungkan kemitraan investasi untuk proyek petrokimia CA-EDC di Cilegon yang konstruksinya sudah 80 persen jadi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T14:07:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6cea027363_e04877f97d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "Danantara",
+   "CA-EDC"
+  ],
+  "body": [
+   "PT Chandra Asri Pacific Tbk (TPIA) melaporkan ke Bursa Efek Indonesia bahwa Danantara Investment Management (DIM), Indonesia Investment Authority (INA), dan Chandra Asri Group telah merampungkan transaksi investasi strategis untuk proyek Chlor Alkali-Ethylene Dichloride (CA-EDC). Proyek yang dipimpin Chandra Asri Group ini dirancang untuk memproduksi sekitar 400 kilo ton per tahun soda kaustik dan 500 kilo ton per tahun ethylene dichloride (EDC), dua bahan kimia yang dipakai luas di industri manufaktur, termasuk rantai industri bauksit dan alumina dalam negeri yang permintaannya terhadap soda kaustik diperkirakan terus naik.",
+   "Per September 2026, progres konstruksi proyek ini sudah mencapai sekitar 80 persen, dengan pemasangan peralatan utama berjalan serta pengembangan infrastruktur pendukung berupa dermaga, trestle, dan fasilitas penyimpanan. Perusahaan menargetkan proyek ini mulai beroperasi secara komersial pada 2027, dengan proyeksi menyerap sekitar 3.000 tenaga kerja selama tahap konstruksi dan 250 posisi kerja permanen pada tahap operasional.",
+   "Direktur Utama dan CEO Chandra Asri Group, Erwin Ciputra, menyebut kemitraan ini memperkuat ketahanan pasokan bahan kimia strategis bagi industri dalam negeri dan mengurangi ketergantungan pada impor. CEO DIM, Pandu Sjahrir, dan CEO INA, Oki Ramadhana, menyebut kolaborasi ini sejalan dengan agenda hilirisasi pemerintah dan peran dua lembaga investasi negara itu sebagai pengarah modal ke proyek strategis nasional. Laporan keterbukaan informasi ini tidak merinci nilai transaksi maupun porsi kepemilikan yang dipegang DIM dan INA dalam proyek CA-EDC, dan kolom dampak kejadian terhadap operasional atau keuangan perusahaan dikosongkan oleh Chandra Asri."
+  ],
+  "fotoAdegan": "Industrial construction site with large chemical storage tanks and pipework near a jetty, workers in hard hats, overcast Indonesian coastline",
+  "takeaway": "Laporan ini condong positif bagi Chandra Asri karena proyek CA-EDC yang sudah 80 persen rampung dibangun kini mendapat sokongan modal dari dua lembaga investasi milik negara, Danantara dan INA, tanda bahwa proyek ini dianggap layak secara komersial oleh pihak luar. Pos kinerja yang tersentuh adalah arus kas, yaitu uang masuk dan keluar perusahaan, karena masuknya investor strategis biasanya berarti Chandra Asri tidak perlu menanggung sendiri seluruh sisa belanja modal untuk merampungkan proyek yang mahal ini, meski dokumen tidak menyebut berapa porsi yang diambil alih. Yang perlu dicermati, laporan ini sama sekali tidak mencantumkan nilai transaksi atau perubahan struktur kepemilikan proyek, padahal biasanya informasi semacam itu wajib dijelaskan dalam kolom dampak kejadian, sehingga pasar masih menunggu keterbukaan informasi lanjutan soal detail angkanya. Yang dipantau berikutnya adalah penyelesaian sisa konstruksi, termasuk dermaga dan fasilitas penyimpanan, serta target mulainya operasi komersial pada 2027 yang akan menjadi ukuran nyata apakah proyek ini berjalan sesuai rencana.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "rmke-pastikan-operasi-tambang-tak-terdampak-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "RMKE Pastikan Operasi Tambang [Tak Terdampak] Karhutla",
+  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, RMK Energy sebut seluruh lokasi operasinya aman dan tidak ada gangguan produksi maupun hukum.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T13:34:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4bd44e0cbf_2cfe825030.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RMKE",
+  "tags": [
+   "RMKE",
+   "karhutla",
+   "keterbukaan informasi",
+   "pertambangan"
+  ],
+  "body": [
+   "PT RMK Energy Tbk (RMKE) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-13035/BEI.PP1/10-2026 yang diterima perseroan pada 13 Oktober 2026 melalui IDXNET. Surat itu meminta RMKE menjelaskan dampak kebakaran hutan dan lahan yang meningkat di sejumlah wilayah Indonesia terhadap operasional perusahaan, yang bergerak di jasa penunjang pertambangan dan penggalian, pelayanan kepelabuhan sungai dan danau, serta sebagai perusahaan induk.",
+   "Dalam jawaban yang ditandatangani Muhtar selaku Sekretaris Perusahaan, RMKE menyatakan wilayah operasional dan aset perseroan maupun entitas anak tidak terdampak kebakaran hutan dan lahan. Perseroan juga memastikan kegiatan operasional dan target produksi tahun 2026 berjalan normal karena jarak pandang di seluruh lokasi masih dalam batas aman untuk keselamatan kerja. RMKE menegaskan tidak ada dampak material terhadap pendapatan, laba, maupun nilai aset, dan tidak ada penghentian operasional tak terencana di lokasi tambang maupun lahan milik perseroan. Perseroan juga menyatakan tidak sedang menghadapi atau berpotensi menghadapi proses hukum maupun sanksi administratif terkait kebakaran hutan dan lahan, seperti penyegelan lahan atau pencabutan izin.",
+   "Untuk mitigasi, RMKE menyebut langkah jangka pendek berupa pemantauan harian jarak pandang dan kualitas udara di seluruh titik operasional, prosedur standar darurat karhutla dengan ambang batas penghentian sementara kegiatan, penyediaan alat pelindung diri seperti masker respirator, tim pemadam kebakaran internal yang siaga di lokasi, serta patroli rutin di sekitar area konsesi. Untuk jangka panjang, perseroan menjalankan program pengelolaan lahan tanpa pembakaran (zero burning), reklamasi dan revegetasi progresif di lahan pascatambang, serta edukasi rutin karyawan soal pencegahan karhutla."
+  ],
+  "fotoAdegan": "Open-pit coal mine haul trucks working under a hazy, smoke-tinted sky with reduced visibility, workers in safety gear nearby",
+  "takeaway": "Penilaian redaksi atas laporan ini netral, karena isinya sekadar menjawab pertanyaan rutin Bursa soal musim karhutla tanpa ada angka keuangan baru yang berubah dari posisi perseroan sebelumnya. Pos yang sebenarnya dipantau pasar di sini adalah kelangsungan pendapatan dan produksi, karena RMKE beroperasi di tambang terbuka dan pelabuhan sungai yang kegiatannya bisa terhenti kalau asap membuat jarak pandang terlalu rendah untuk keselamatan kerja. Yang perlu diperhatikan berikutnya adalah apakah kondisi ini bertahan sepanjang musim kering, sebab pernyataan RMKE ini hanya potret kondisi per 15 Oktober 2026 dan bisa berubah kalau titik api di sekitar area konsesi meluas, yang berarti investor perlu menunggu apakah ada keterbukaan informasi lanjutan dari perseroan jika situasi memburuk.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mgro-tegaskan-karhutla-tak-ganggu-produksi-dan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "MGRO Tegaskan [Karhutla] Tak Ganggu Produksi dan Keuangan",
+  "deck": "Menjawab permintaan penjelasan BEI, Mahkota Group menyatakan kebakaran hutan dan lahan di sekitar tujuh anak usahanya belum berdampak pada produksi, pendapatan, atau laba perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T13:16:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3cc09af349_f067599653.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGRO",
+  "tags": [
+   "MGRO",
+   "karhutla",
+   "sawit",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Mahkota Group Tbk (MGRO) menyampaikan surat balasan tertanggal 14 Oktober 2026 kepada Bursa Efek Indonesia, menjawab surat BEI nomor S-13071/BEI.PP3/10-2026 tanggal 13 Oktober 2026 tentang permintaan penjelasan terkait kebakaran hutan dan lahan (karhutla). Surat itu ditandatangani Direktur Utama Usli, dan dilaporkan ke sistem keterbukaan BEI secara elektronik oleh Direktur Nagian Toni pada 15 Oktober 2026 pukul 13.16. Dalam suratnya, perseroan merinci tujuh entitas anak dan lokasi operasinya: PT Karya Pratama Niagajaya di Kabupaten Batu Bara, Sumatera Utara; PT Karya Mitra Andalan di Kabupaten Asahan, Sumatera Utara; PT Berlian Inti Mekar di Kabupaten Indragiri Hulu dan Kabupaten Siak, Riau; PT Dumai Paricipta Abadi di Kota Dumai, Riau; PT Mutiara Unggul Lestari di Kabupaten Siak, Riau; PT Intan Sejati Andalan di Kabupaten Bengkalis, Riau; dan PT Mega Sawit Sriwijaya di Kota Palembang, Sumatera Selatan. Perseroan menyebut ketujuh entitas anak itu menyumbang sekitar 90 persen dari total pendapatan perusahaan.",
+   "Menjawab pertanyaan BEI soal dampak karhutla, Mahkota Group menyatakan kegiatan operasional tetap berjalan dan target produksi tahun 2026 tidak diubah, serta tidak ada unplanned shutdown di lokasi operasional mana pun. Perseroan juga menegaskan bahwa hingga saat surat ini dibuat, karhutla belum berdampak pada pendapatan, laba, maupun nilai aset perusahaan, dan baik perseroan maupun entitas anaknya tidak sedang menghadapi proses hukum atau sanksi administratif terkait karhutla, seperti penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin.",
+   "Soal mitigasi, perseroan menjelaskan langkah jangka pendek berupa pemantauan wilayah operasional serta kesiapsiagaan personel dan peralatan pemadam kebakaran, dibarengi koordinasi dengan pihak terkait. Untuk jangka panjang, perseroan menyebut akan memperkuat sosialisasi pencegahan, memelihara sarana pemadam kebakaran, dan melakukan evaluasi berkala. Perseroan menutup surat dengan menyatakan tidak ada informasi atau fakta material lain terkait karhutla yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Haze drifting over a vast oil palm plantation near peatland canals, workers inspecting irrigation channels, overcast sky",
+  "takeaway": "Penjelasan ini netral bagi Mahkota Group, sebab isinya pada dasarnya klaim sepihak perusahaan bahwa karhutla di sekitar tujuh anak usahanya belum mengganggu apa pun, tanpa ada angka atau verifikasi independen yang bisa dicek pembaca. Yang tersentuh di sini adalah pendapatan dan laba perusahaan, karena ketujuh anak usaha yang berlokasi di kawasan rawan karhutla di Riau dan Sumatera itu menyumbang sekitar 90 persen dari total pendapatan, sehingga kalau produksi sawit di sana sampai benar terganggu, dampaknya akan langsung terasa ke laba perusahaan. Investor sebaiknya memantau laporan keuangan kuartal ketiga 2026 untuk mengecek apakah klaim tidak ada dampak ini konsisten dengan realisasi produksi dan penjualan, serta mencermati kemungkinan tindak lanjut dari otoritas lingkungan seperti KLHK yang berwenang menjatuhkan sanksi atas karhutla, terpisah dari permintaan penjelasan BEI ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "utang-luar-negeri-ri-naik-5-6-jadi-us-459-3-miliar",
   "category": "Makroekonomi",
   "title": "Utang Luar Negeri RI [Naik] 5,6% jadi US$459,3 Miliar",
@@ -300,6 +482,32 @@ var ARTICLES = [
   "imageV": "mv8zvk39"
  },
  {
+  "slug": "bbsi-pastikan-tak-ada-fakta-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BBSI Pastikan Tak Ada Fakta Material di Balik [Volatilitas] Saham",
+  "deck": "Krom Bank Indonesia menjawab permintaan BEI soal pergerakan tak biasa sahamnya, menyatakan tak ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T10:12:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a93846bd0e_fe1d2f92bb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBSI",
+  "tags": [
+   "BBSI",
+   "Krom Bank Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Krom Bank Indonesia Tbk (BBSI) menanggapi surat Bursa Efek Indonesia nomor S-13026/BEI.PP2/10-2026 tertanggal 13 Oktober 2026 yang meminta penjelasan atas volatilitas transaksi efeknya. Dalam surat balasan bernomor 002/DIR/KROM/UM/X/2026 yang diteken Corporate Secretary Senior Manager Antik Rosalia Indah pada 15 Oktober 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa mempengaruhi nilai maupun harga efeknya, baik menurut POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu yang diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka. BBSI menyatakan tidak memiliki rencana aksi korporasi yang akan berdampak pada status pencatatan sahamnya di bursa dalam tiga bulan mendatang, serta tidak ada fakta atau kejadian penting lain yang material dan belum diungkapkan ke publik.",
+   "Terkait permintaan khusus bursa agar Corporate Secretary mengonfirmasi rencana pemegang saham utama atas kepemilikannya, perseroan menjawab bahwa berdasarkan penjelasan pemegang saham utama, belum ada rencana apa pun terkait kepemilikan saham tersebut di BBSI."
+  ],
+  "fotoAdegan": "Wide low-angle view of office towers in Jakarta's financial district at dusk, streaks of traffic light below",
+  "takeaway": "Penilaian saya netral, karena surat ini sekadar konfirmasi rutin bahwa tidak ada informasi tersembunyi di balik pergerakan harga atau transaksi saham BBSI yang tidak biasa, bukan pengumuman yang mengubah kondisi keuangan perseroan. Dokumen ini tidak menyentuh pos-pos seperti ekuitas, arus kas, atau laba per saham, tapi poin soal rencana pemegang saham utama tetap relevan karena kalau pemegang saham mayoritas suatu saat menambah atau mengurangi porsinya, itu bisa mengubah hak suara dan harga saham secara nyata, bukan sekadar isu di pasar. Untuk saat ini pemegang saham utama menyatakan belum punya rencana apa-apa, jadi isu itu belum terbukti. Yang perlu dipantau pembaca adalah apakah pergerakan harga BBSI mereda atau justru membuat Bursa menetapkan status pemantauan khusus, mengingat perseroan sendiri menegaskan tidak ada aksi korporasi yang direncanakan hingga sekitar pertengahan Januari 2027.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bton-bantah-ada-info-material-di-balik-volatilitas-transaksi",
   "category": "Aksi Korporasi",
   "title": "BTON Bantah Ada Info Material di Balik [Volatilitas] Transaksi",
@@ -453,6 +661,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Heavy machinery and workers at a small open-pit gold mining site on a forested hillside, early morning mist in the valley",
   "takeaway": "Laporan ini netral bagi pemegang saham Wilton Makmur karena transaksi penempatan saham dan obligasi konversi ini terjadi di level Wilton Resources Corporation, induk usaha di luar negeri, bukan langsung pada kas atau neraca Wilton Makmur sendiri, sehingga belum ada dampak keuangan langsung yang bisa dihitung sekarang. Yang jelas bergeser adalah jumlah saham WRC yang beredar, bertambah lebih dari 8 miliar lembar baru untuk Maxglory Capital, sehingga kepemilikan pemegang saham WRC yang lama terdilusi besar dan kendali atas WRC, yang berarti juga kendali tidak langsung atas Wilton Makmur, berpindah tangan. Sisi positifnya, dana sekitar US$69,9 juta yang masuk rencananya dipakai melunasi utang dan membiayai proyek tambang emas Ciemas, yang kalau terlaksana bisa memperbaiki arus kas dan posisi keuangan grup secara keseluruhan. Yang perlu dipantau berikutnya adalah tahapan lanjutan proses peralihan kendali ini, karena Wilton Makmur berjanji mengumumkan perkembangan dari waktu ke waktu sampai perubahan pemegang saham pengendali itu resmi terjadi, meski belum ada tanggal penyelesaian yang pasti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fore-catat-transaksi-afiliasi-rp5-miliar-antar-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "FORE Catat Transaksi Afiliasi [Rp5 Miliar] Antar Anak Usaha",
+  "deck": "PT Fore Kopi Indonesia Tbk melaporkan jual beli bahan baku senilai maksimal Rp5 miliar antara dua anak usahanya, CFI dan FBI, untuk mendukung bisnis restoran CFI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T07:25:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/97061df633_822a93cc12.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORE",
+  "tags": [
+   "FORE",
+   "transaksi afiliasi",
+   "Fore Kopi Indonesia",
+   "anak usaha"
+  ],
+  "body": [
+   "PT Fore Kopi Indonesia Tbk (FORE) melaporkan transaksi afiliasi antara dua anak usahanya, PT Cipta Favorit Indonesia (CFI) dan PT Fore Bakery Indonesia (FBI), berupa jual beli bahan baku untuk mendukung kegiatan usaha restoran CFI. Transaksi ini didasarkan pada Perjanjian Jual Beli tertanggal 15 Oktober 2026 yang berlaku selama satu tahun dan akan diperpanjang otomatis untuk satu tahun berikutnya kecuali dihentikan lebih dulu sesuai kesepakatan. Jenis dan jumlah bahan baku akan ditentukan lewat surat pesanan yang diterbitkan CFI kepada FBI, dengan nilai transaksi dibatasi setinggi-tingginya Rp5 miliar selama masa berlaku perjanjian.",
+   "FORE memegang kepemilikan langsung 99,95 persen saham CFI dan 99,97 persen saham FBI, sehingga keduanya berstatus perusahaan anak yang terafiliasi melalui induk yang sama. Kedua entitas juga memiliki kesamaan jajaran pengurus: Rizky Ardian menjabat Direktur Perseroan sekaligus memegang posisi di CFI dan menjadi Komisaris di FBI, sedangkan Tjhong Pie Chen menjabat Direktur Perseroan sekaligus Komisaris di CFI dan Direktur di FBI. Dokumen sumber bagian ini berasal dari hasil pindaian yang kualitasnya kurang jelas, sehingga rincian posisi Rizky Ardian di CFI perlu dibaca dengan hati-hati.",
+   "Perseroan menyatakan transaksi dilakukan untuk mendukung kegiatan operasional dalam lingkup grup dan diharapkan meningkatkan efisiensi usaha. Direksi dan Dewan Komisaris FORE menegaskan transaksi afiliasi ini tidak mengandung benturan kepentingan sebagaimana diatur POJK 42/2020, sehingga tidak memerlukan persetujuan pemegang saham independen dalam Rapat Umum Pemegang Saham."
+  ],
+  "fotoAdegan": "Delivery workers unloading crates of bakery ingredients and coffee beans from a van outside a restaurant kitchen entrance in Jakarta",
+  "takeaway": "Transaksi ini netral bagi FORE karena nilainya dibatasi maksimal Rp5 miliar dan terjadi antara dua anak usaha yang sama-sama dikuasai hampir penuh oleh induk yang sama, sehingga sifatnya lebih ke pengaturan rantai pasok internal ketimbang sinyal soal arah bisnis Perseroan. Transaksi antar perusahaan dalam satu grup seperti ini biasanya dihapus atau dieliminasi saat laporan keuangan induk dan anak usaha digabungkan menjadi laporan konsolidasi, jadi dampaknya ke pendapatan atau beban grup secara keseluruhan relatif kecil. Yang membuat laporan ini tetap wajib diumumkan adalah rangkap jabatan pengurus di tiga entitas tersebut, yang menjadikannya transaksi afiliasi menurut aturan OJK meski Perseroan menyatakan tidak ada benturan kepentingan. Yang perlu dipantau berikutnya adalah realisasi nilai transaksi dibandingkan batas maksimal Rp5 miliar selama masa kontrak satu tahun sejak 15 Oktober 2026, serta keputusan perpanjangan atau penghentian kontrak saat jatuh tempo sekitar Oktober 2027.",
   "sentimen": "netral"
  },
  {

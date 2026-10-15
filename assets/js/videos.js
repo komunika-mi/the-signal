@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "QeQBze5K4Ao",
+  "title": "Indonesia Siap Gelar WCCE 2026 di Jakarta",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Indonesia akan menjadi tuan rumah World Conference on Creative Economy (WCCE) 2026, konferensi ekonomi kreatif internasional dan multilateral terbesar di dunia, yang digelar di Jakarta.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan posisi sektor ekonomi kreatif Indonesia di kancah global.",
+  "terbit": "2026-10-15T14:35:18+00:00"
+ },
+ {
+  "id": "nJTjjaL-ubY",
+  "title": "PT Multi Nice Paper Resmikan Pabrik Popok",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "PT Multi Medika Internasional Tbk meresmikan pabrik popok baru melalui anak usahanya, PT Multi Nice Paper Indonesia, di Legok, Kabupaten Tangerang, Banten.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena mencerminkan ekspansi investasi di sektor industri manufaktur consumer goods.",
+  "terbit": "2026-10-15T14:24:20+00:00"
+ },
+ {
   "id": "kXpk5F6mreY",
   "title": "Kelangkaan BBM di Sejumlah SPBU di Bali Masih Terjadi",
   "category": "Energi",

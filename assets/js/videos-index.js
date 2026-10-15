@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "QeQBze5K4Ao",
+  "title": "Indonesia Siap Gelar WCCE 2026 di Jakarta",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Indonesia akan menjadi tuan rumah World Conference on Creative Economy (WCCE) 2026, konferensi ekonomi kreatif internasional dan multilateral terbesar di dunia, yang digelar di Jakarta.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan posisi sektor ekonomi kreatif Indonesia di kancah global."
+ },
+ {
+  "id": "nJTjjaL-ubY",
+  "title": "PT Multi Nice Paper Resmikan Pabrik Popok",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "PT Multi Medika Internasional Tbk meresmikan pabrik popok baru melalui anak usahanya, PT Multi Nice Paper Indonesia, di Legok, Kabupaten Tangerang, Banten.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena mencerminkan ekspansi investasi di sektor industri manufaktur consumer goods."
+ },
+ {
   "id": "kXpk5F6mreY",
   "title": "Kelangkaan BBM di Sejumlah SPBU di Bali Masih Terjadi",
   "category": "Energi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "DPR RI mengesahkan Undang-Undang Perlindungan Ketenagakerjaan dalam rapat paripurna ke-9 masa persidangan I tahun sidang 2026-2027.",
   "takeaway": "Pengesahan UU ini relevan bagi pelaku usaha dan pekerja karena berpotensi mengubah aturan hubungan industrial di Indonesia."
- },
- {
-  "id": "eZ4AKYXv69I",
-  "title": "Tamsyi Tour Gelar Business Partner Gathering 2026",
-  "category": "Bisnis",
-  "program": "tvOneNews",
-  "summary": "PT Tamasya Hati Global, atau Tamsitour, menggelar Business Partner Gathering 2026 yang dihadiri puluhan mitra bisnis, komunitas, dan pejabat daerah untuk memperkuat kolaborasi usaha.",
-  "takeaway": "Acara ini mencerminkan dinamika kolaborasi bisnis di sektor pariwisata dan jaringan kemitraan usaha lokal."
- },
- {
-  "id": "SiAz0jv5UR0",
-  "title": "In This Economy: Kelas Menengah Turun Kasta Lagi?",
-  "category": "Makroekonomi",
-  "program": "Satgas Kelitik",
-  "summary": "Program ini mengulas isu penurunan kelas sosial ekonomi kelompok kelas menengah, sekaligus menyoroti dua tahun perjalanan Danantara dalam mengelola dan mengembangkan aset negara.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena membahas evaluasi kinerja Danantara sebagai pengelola aset negara dan kaitannya dengan kondisi daya beli kelas menengah."
  }
 ];

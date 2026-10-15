@@ -5,6 +5,126 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-perkuat-kesiapan-aksesi-ke-pakta-cptpp",
+  "category": "Global",
+  "title": "Indonesia Perkuat Kesiapan [Aksesi] ke Pakta CPTPP",
+  "deck": "Kemenko Perekonomian menggelar workshop teknis bersama negara anggota CPTPP untuk mematangkan kesiapan Indonesia bergabung ke pakta dagang itu.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "CPTPP",
+   "Kemenko Perekonomian",
+   "Perdagangan Internasional",
+   "Aksesi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7159/kemenko-perekonomian-perkuat-kesiapan-aksesi-indonesia-ke-cptpp-melalui-koordinasi-lintas-kl-dan-dialog-dengan-negara-anggota",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ri-bahas-ancaman-komputasi-kuantum-ke-keamanan-data-digital",
+  "category": "Teknologi",
+  "title": "RI Bahas Ancaman Komputasi [Kuantum] ke Keamanan Data Digital",
+  "deck": "Pemerintah dan BSSN membahas kesiapan Indonesia menghadapi risiko komputasi kuantum terhadap keamanan data digital, di tengah pertumbuhan ekonomi digital yang pesat.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/server-data.jpg",
+  "tags": [
+   "komputasi kuantum",
+   "keamanan siber",
+   "ekonomi digital",
+   "ASEAN DEFA"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7160/perkuat-keamanan-ekonomi-digital-pemerintah-dorong-kesiapan-indonesia-hadapi-era-komputasi-kuantum",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "esdm-kejar-listrik-ke-11-000-desa-target-2029-2030",
+  "category": "Energi",
+  "title": "ESDM Kejar Listrik ke [11.000] Desa, Target 2029-2030",
+  "deck": "Menteri ESDM Bahlil Lahadalia meminta pemda dan PLN mendata ulang desa yang belum berlistrik memadai, dengan target seluruh desa menyala pada 2029-2030.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/esdm-kejar-listrik-ke-11-000-desa-target-2029-2030.jpg",
+  "imageV": "mv9oqccc",
+  "tags": [
+   "listrik desa",
+   "BPBL",
+   "PLN",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/bahlil-minta-pemda-dan-pln-data-desa-belum-berlistrik-target-tuntas-2029-2030-",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "kilang-gas-karawang-mulai-pasok-lpg-ke-jabar-dan-jakarta",
+  "category": "Energi",
+  "title": "Kilang Gas Karawang Mulai [Pasok] LPG ke Jabar dan Jakarta",
+  "deck": "Kilang gas di Cilamaya, Karawang, mulai memproduksi sekitar 160 ton LPG per hari, memenuhi 10-15 persen kebutuhan Jawa Barat dan Jakarta.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/kilang-gas-karawang-mulai-pasok-lpg-ke-jabar-dan-jakarta.jpg",
+  "imageV": "mv9oqdvp",
+  "tags": [
+   "LPG",
+   "ESDM",
+   "Karawang",
+   "CNG"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasilkan-160-ton-lpg-per-hari-kilang-cilamaya-bantu-pasokan-warga-jabar-dan-jakarta",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "bi-pacu-riset-syariah-aset-tembus-rp3-264-triliun",
+  "category": "Makroekonomi",
+  "title": "BI Pacu Riset Syariah, Aset Tembus [Rp3.264] Triliun",
+  "deck": "Bank Indonesia menggelar forum riset syariah di ISEF 2026, menyebut aset keuangan syariah nasional capai Rp3.264 triliun per Juni 2026, tumbuh hampir 10 persen.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/bi-pacu-riset-syariah-aset-tembus-rp3-264-triliun.jpg",
+  "imageV": "mv9oqsz0",
+  "tags": [
+   "ISEF 2026",
+   "Bank Indonesia",
+   "Keuangan Syariah",
+   "Riset"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822326.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pnm-mekaar-cetak-return-dampak-sosial-181-persen",
+  "category": "UMKM",
+  "title": "PNM Mekaar Cetak Return Dampak Sosial [181] Persen",
+  "deck": "Setiap Rp1 modal usaha yang disalurkan PNM lewat program Mekaar periode 2022-2024 diklaim menghasilkan Rp1,81 manfaat ekonomi dan sosial bagi nasabah ultra mikro.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/pnm-mekaar-cetak-return-dampak-sosial-181-persen.jpg",
+  "imageV": "mv9oqtl8",
+  "tags": [
+   "pnm",
+   "mekaar",
+   "umkm",
+   "modal usaha"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473227-bukan-cuma-bisnis-yang-tumbuh-pnm-mekaar-berhasil-cetak-return-dampak-sosial-hingga-181-persen"
+ },
+ {
+  "slug": "taspen-raih-penghargaan-humas-indonesia-2026",
+  "category": "BUMN",
+  "title": "TASPEN Raih [Penghargaan] Humas Indonesia 2026",
+  "deck": "TASPEN meraih empat penghargaan di Anugerah Humas Indonesia 2026, mempertahankan prestasi tiga tahun berturut-turut lewat layanan digital dan keterbukaan informasi.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/taspen-raih-penghargaan-humas-indonesia-2026.jpg",
+  "imageV": "mv9oqu36",
+  "tags": [
+   "TASPEN",
+   "BUMN",
+   "Anugerah Humas Indonesia",
+   "Andal by Taspen"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473226-taspen-kembali-raih-penghargaan-di-anugerah-humas-indonesia-2026-pertahankan-prestasi-tiga-tahun-beruntun"
+ },
+ {
   "slug": "giaa-gelar-rupslb-6-november-bahas-penambahan-modal-gmf-aeroasia",
   "category": "Aksi Korporasi",
   "title": "GIAA Gelar RUPSLB 6 November, Bahas [Penambahan] Modal GMF AeroAsia",
@@ -74,7 +194,7 @@ var ARTICLES = [
   "title": "Ekspor RI ke Inggris Hadapi Skema Tarif [Baru] 2027",
   "deck": "Kemendag dan Inggris perkuat kerja sama dagang, sementara skema tarif ekspor Inggris untuk Indonesia akan berubah mulai Januari 2027.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "Indonesia-Inggris",
    "Ekspor",
@@ -138,7 +258,7 @@ var ARTICLES = [
   "title": "Wamendag Soroti Peran Swedia dalam [I-EU CEPA] di TEI 2026",
   "deck": "Wamendag Dyah Roro Esti menyoroti peran Swedia dalam I-EU CEPA di forum bisnis Trade Expo Indonesia 2026, dengan nilai dagang RI-Swedia mencapai US$872,2 juta pada 2025.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "I-EU CEPA",
    "Swedia",
@@ -2012,7 +2132,7 @@ var ARTICLES = [
   "title": "Pemerintah Pacu 3 [CEPA] Baru, Bidik Ekspor Sawit-Otomotif",
   "deck": "Pemerintah mendorong percepatan implementasi tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Eurasia agar manfaatnya benar-benar terasa pada ekspor sawit, otomotif, kopi, dan sejumlah komoditas lain.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -2111,7 +2231,7 @@ var ARTICLES = [
   "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
   "deck": "Pemerintah mendorong pemanfaatan nyata tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia yang menurut kajian Kemenko berpotensi menambah ekspor lebih dari US$14 miliar.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "ekspor",
    "perjanjian dagang",
@@ -2127,7 +2247,7 @@ var ARTICLES = [
   "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
   "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -2143,13 +2263,15 @@ var ARTICLES = [
   "title": "Jelang Penandatanganan [DEFA], Kemendag Latih Aparatur Dagang",
   "deck": "Kemendag melatih 40 aparatur soal tata kelola perdagangan digital ASEAN menjelang rencana penandatanganan DEFA di KTT ASEAN November 2026.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/jelang-penandatanganan-defa-kemendag-latih-aparatur-dagang.jpg",
+  "imageV": "mv9oseob",
   "tags": [
    "DEFA",
    "ASEAN",
    "Kemendag",
    "perdagangan digital"
   ],
+  "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-kompetensi-aparatur-dalam-tata-kelola-perdagangan-digital-asean",
   "sourceLabel": "Kementerian Perdagangan"
  },
@@ -6133,7 +6255,7 @@ var ARTICLES = [
   "title": "11 Proyek Hilirisasi Nikel Senilai [Rp180] Triliun Diluncurkan di IWIP",
   "deck": "Presiden Prabowo Subianto meluncurkan 11 proyek hilirisasi nikel senilai US$10,2 miliar di IWIP, Maluku Utara, sekaligus melepas ekspor perdana baterai kendaraan listrik.",
   "date": "9 Oktober 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "hilirisasi nikel",
    "IWIP",
@@ -6383,121 +6505,6 @@ var ARTICLES = [
    "Pefindo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d0a0061d38_09201c5df2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-anak-usaha-wwe-lepas-kendali-ke-investor-pt-edt",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: Anak Usaha WWE [Lepas Kendali] ke Investor PT EDT",
-  "deck": "Anak usaha Waskita, PT Waskita Wado Energi, berganti pengendali ke investor PT EDT lewat suntikan modal Rp14,1 miliar, menyisakan WKI sebagai pemegang saham minoritas tipis.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "Waskita Karya",
-   "Waskita Wado Energi",
-   "perubahan pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5b9f0d2e81_3a1e278fb2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menteri-transmigrasi-jadikan-rempang-contoh-ekonomi-kawasan",
-  "category": "Ketenagakerjaan",
-  "title": "Menteri Transmigrasi Jadikan [Rempang] Contoh Ekonomi Kawasan",
-  "deck": "Menteri Transmigrasi Iftitah Sulaiman menjadikan Rempang-Galang contoh kawasan yang diarahkan ke industri dan lapangan kerja, bukan sekadar perpindahan penduduk.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/menteri-transmigrasi-jadikan-rempang-contoh-ekonomi-kawasan.jpg",
-  "imageV": "mv0durnf",
-  "tags": [
-   "transmigrasi",
-   "rempang",
-   "batam",
-   "kepulauan riau"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472012-menteri-transmigrasi-dorong-ekonomi-kawasan-rempang-jadi-contoh"
- },
- {
-  "slug": "grand-prix-mandalika-dorong-ekonomi-lokal-lombok",
-  "category": "UMKM",
-  "title": "Grand Prix Mandalika Dorong [Ekonomi] Lokal Lombok",
-  "deck": "Balapan dunia di Sirkuit Mandalika, Lombok, pada 9-11 Oktober 2026 kembali mendongkrak penjualan UMKM kuliner dan jasa wisata lokal.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/grand-prix-mandalika-dorong-ekonomi-lokal-lombok.jpg",
-  "imageV": "mv0duscg",
-  "tags": [
-   "pertamina",
-   "mandalika",
-   "lombok",
-   "umkm"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472011-dampak-pertamina-grand-prix-of-indonesia-2026-aktivitas-ekonomi-lokal-kian-melesat"
- },
- {
-  "slug": "btps-investor-non-insider-lapor-perubahan-kepemilikan-saham",
-  "category": "Aksi Korporasi",
-  "title": "BTPS: Investor Non-Insider Lapor Perubahan [Kepemilikan] Saham",
-  "deck": "Mustaqim Akbar, bukan direksi atau komisaris, melaporkan pembelian 1 lembar saham BTPS; hak suaranya tercatat naik dari 0% ke 6,16% dalam dokumen resmi ke OJK.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "kepemilikan saham",
-   "hak suara",
-   "Bank BTPN Syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-0316-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "proyeksi-kapitalisasi-pasar-sema-bisa-tembus-rp2-triliun",
-  "category": "Pasar Modal",
-  "title": "Proyeksi Kapitalisasi Pasar [SEMA] Bisa Tembus Rp2 Triliun",
-  "deck": "Analis memproyeksikan kapitalisasi pasar SEMA bisa tembus Rp2 triliun pada 2027, bersandar pada perannya sebagai pemasok perangkat data center CGK5 dan CGK7.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/proyeksi-kapitalisasi-pasar-sema-bisa-tembus-rp2-triliun.jpg",
-  "imageV": "muzrdh2p",
-  "tags": [
-   "SEMA",
-   "data center",
-   "AI",
-   "pasar modal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/471980-market-cap-sema-miliki-potensi-tembus-rp2-triliun"
- },
- {
-  "slug": "untr-jelaskan-ke-bei-laba-anjlok-91-akibat-impairment-serd",
-  "category": "Aksi Korporasi",
-  "title": "UNTR jelaskan ke BEI laba [anjlok] 91% akibat impairment SERD",
-  "deck": "United Tractors menanggapi permintaan penjelasan BEI atas laba semester I 2026 yang ambruk, impairment Rp2,75 triliun di proyek panas bumi SERD, dan kelanjutan buyback saham.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "United Tractors",
-   "SERD",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/05443d3e55_d52a7798a9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-peroleh-opini-kewajaran-atas-divestasi-saham-jmj",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Peroleh Opini [Kewajaran] atas Divestasi Saham JMJ",
-  "deck": "Penilai independen menyimpulkan harga divestasi 47,18% saham JMJ ke SMI senilai Rp1,77 triliun wajar, hanya selisih 1,75% dari nilai pasar.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "JMJ",
-   "divestasi",
-   "SMI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/061d45f8c0_da7ca0e6f8.pdf",
   "sourceLabel": "IDX"
  }
 ];

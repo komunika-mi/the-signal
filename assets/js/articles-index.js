@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lsip-jawab-bursa-soal-dampak-karhutla-klaim-belum-material",
+  "category": "Aksi Korporasi",
+  "title": "LSIP Jawab Bursa soal Dampak [Karhutla], Klaim Belum Material",
+  "deck": "LSIP merespons permintaan penjelasan Bursa soal risiko kebakaran hutan dan lahan, menegaskan belum ada dampak material ke produksi maupun keuangan perusahaan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LSIP",
+   "karhutla",
+   "kebakaran hutan dan lahan",
+   "perkebunan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2ef53ef32_b3eddd2485.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untr-pastikan-dampak-karhutla-tak-material-ke-produksi",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Pastikan Dampak Karhutla Tak [Material] ke Produksi",
+  "deck": "United Tractors menjawab permintaan penjelasan BEI soal Karhutla: anak usaha TTA di Kalimantan Tengah terdampak gangguan jarak pandang, tapi tak material ke produksi dan laba.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "Karhutla",
+   "United Tractors",
+   "Kalimantan Tengah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec34d41328_d076316135.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aali-dampak-karhutla-di-anak-usaha-kalsel-tak-signifikan",
+  "category": "Aksi Korporasi",
+  "title": "AALI: Dampak [Karhutla] di Anak Usaha Kalsel Tak Signifikan",
+  "deck": "Astra Agro Lestari menjawab permintaan penjelasan BEI soal kebakaran hutan dan lahan di anak usahanya, PT Subur Agro Makmur, di Kalimantan Selatan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AALI",
+   "Karhutla",
+   "Astra Agro Lestari",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2f078d2a9_d9ea5ac3e9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "post-akui-risiko-going-concern-usai-gagal-bayar-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "POST Akui Risiko [Going Concern] Usai Gagal Bayar Sukuk",
+  "deck": "Pos Indonesia mengungkap kesenjangan likuiditas Rp83,52 miliar dan mengakui risiko kelangsungan usaha setelah gagal bayar bunga sukuk yang jatuh tempo 8 Oktober 2026.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "sukuk",
+   "likuiditas",
+   "Danantara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6ce010d8d7_83021cb29c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-perkuat-kesiapan-aksesi-ke-pakta-cptpp",
   "category": "Global",
   "title": "Indonesia Perkuat Kesiapan [Aksesi] ke Pakta CPTPP",
@@ -89,6 +153,86 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822326.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "bwpt-tegaskan-operasional-tak-terdampak-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Tegaskan Operasional Tak Terdampak [Karhutla]",
+  "deck": "Eagle High Plantations menjawab permintaan penjelasan Bursa Efek Indonesia soal kebakaran hutan dan lahan di wilayah operasionalnya di Sumatera, Kalimantan, dan Papua.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "karhutla",
+   "kebakaran lahan",
+   "kelapa sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea5e7d2ae4_0a6accf0b0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pngo-karhutla-tak-ganggu-produksi-target-cpo-101-296-ton-aman",
+  "category": "Aksi Korporasi",
+  "title": "PNGO: [Karhutla] Tak Ganggu Produksi, Target CPO 101.296 Ton Aman",
+  "deck": "Menjawab permintaan penjelasan BEI, PNGO menyatakan karhutla tidak berdampak pada produksi, pendapatan, dan laba, serta target CPO 2026 tetap 101.296 ton.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNGO",
+   "karhutla",
+   "CPO",
+   "Sumatera Selatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb6fe5b26d_4720e50fd3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-direksi-tambah-saham-hak-suara-ke-0-19",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Direksi [Tambah] Saham, Hak Suara ke 0,19%",
+  "deck": "Direksi Arkora Hydro, Aldo Henry Artoko, menambah 349.200 lembar saham ARKO lewat pembelian tidak langsung pada 13-14 Oktober 2026, menaikkan hak suaranya dari 0,17% menjadi 0,19%.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "transaksi saham direksi",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15102026-3929-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "admr-tegaskan-karhutla-belum-ganggu-produksi-tambang",
+  "category": "Aksi Korporasi",
+  "title": "ADMR Tegaskan Karhutla Belum Ganggu [Produksi] Tambang",
+  "deck": "Alamtri Minerals menjawab permintaan penjelasan Bursa soal dampak karhutla terhadap operasional tambangnya di Kalimantan, menyatakan belum ada gangguan produksi maupun sengketa hukum.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMR",
+   "karhutla",
+   "tambang batu bara",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/572315fd3d_59bd83a304.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "psgo-pastikan-karhutla-tak-ganggu-produksi-2026",
+  "category": "Aksi Korporasi",
+  "title": "PSGO Pastikan [Karhutla] Tak Ganggu Produksi 2026",
+  "deck": "PSGO menyatakan kebakaran hutan dan lahan di sekitar area operasi anak usahanya tidak berdampak material pada produksi, pendapatan, laba, maupun aset perusahaan tahun 2026.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSGO",
+   "karhutla",
+   "keterbukaan informasi",
+   "Palma Serasih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e25a2a2bd_c1755980fa.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnm-mekaar-cetak-return-dampak-sosial-181-persen",
@@ -493,6 +637,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tkim-pastikan-karhutla-tak-ganggu-produksi-dan-pendapatan",
+  "category": "Aksi Korporasi",
+  "title": "TKIM Pastikan Karhutla Tak Ganggu [Produksi] dan Pendapatan",
+  "deck": "TKIM menjawab permintaan penjelasan BEI terkait karhutla, menyatakan produksi, pendapatan, dan laba tidak terdampak, dengan wilayah berisiko hanya menyumbang 1 persen pendapatan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TKIM",
+   "karhutla",
+   "keterbukaan informasi",
+   "industri kertas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2e56c9746c_55b744d670.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jawa-koreksi-penjelasan-ke-bei-sebut-belum-ada-sanksi-karhutla",
   "category": "Aksi Korporasi",
   "title": "JAWA Koreksi Penjelasan ke BEI, Sebut Belum Ada Sanksi [Karhutla]",
@@ -522,6 +682,22 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e795fb4f8_3ff6d619ae.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "east-laba-naik-8-6-di-kuartal-iii-dividen-kuras-kas-rp47-miliar",
+  "category": "Aksi Korporasi",
+  "title": "EAST: Laba Naik 8,6% di Kuartal III, [Dividen] Kuras Kas Rp47 Miliar",
+  "deck": "Laba bersih Eastparc Hotel naik ke Rp22,80 miliar pada sembilan bulan 2026, tapi kas perusahaan turun tajam setelah membayar dividen Rp47,04 miliar ke pemegang saham.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EAST",
+   "laporan keuangan",
+   "dividen",
+   "hotel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261015233032-64556-0/FinancialStatement-2026-III-EAST.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6255,7 +6431,7 @@ var ARTICLES = [
   "title": "11 Proyek Hilirisasi Nikel Senilai [Rp180] Triliun Diluncurkan di IWIP",
   "deck": "Presiden Prabowo Subianto meluncurkan 11 proyek hilirisasi nikel senilai US$10,2 miliar di IWIP, Maluku Utara, sekaligus melepas ekspor perdana baterai kendaraan listrik.",
   "date": "9 Oktober 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "hilirisasi nikel",
    "IWIP",
@@ -6327,184 +6503,6 @@ var ARTICLES = [
    "corporate action"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/75d38cbb34_43fdbad93e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-prambanan-investasi-divestasi-234-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "DOOH: Prambanan Investasi [Divestasi] 234 Juta Saham",
-  "deck": "Pemegang saham Prambanan Investasi Sukses melepas 234,09 juta saham DOOH di Rp350 per saham, memangkas hak suaranya dari 15,09% menjadi 12,06%.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "Kepemilikan Saham",
-   "Divestasi",
-   "Hak Suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-8852-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lucy-hp-capital-jual-50-4-juta-saham-suara-ke-7-67",
-  "category": "Aksi Korporasi",
-  "title": "LUCY: HP Capital Jual 50,4 Juta Saham, Suara ke [7,67%]",
-  "deck": "HP Capital Resources melepas 50,4 juta saham LUCY dalam tiga hari transaksi, memangkas hak suaranya dari 11,99% menjadi 7,67%.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LUCY",
-   "kepemilikan saham",
-   "HP Capital Resources",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-3515-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csis-tak-ada-info-material-di-balik-volatilitas-harga-saham",
-  "category": "Aksi Korporasi",
-  "title": "CSIS: Tak Ada Info Material di Balik [Volatilitas] Harga Saham",
-  "deck": "Merespons permintaan Bursa Efek Indonesia, CSIS menyatakan tidak memiliki informasi material yang menjelaskan pergerakan harga sahamnya, termasuk rencana aksi korporasi dalam tiga bulan mendatang.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSIS",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f7872aec53_8fc6eedfe7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pool-gelar-public-expose-tahun-buku-2022-tertunda-4-tahun",
-  "category": "Aksi Korporasi",
-  "title": "POOL Gelar Public Expose Tahun Buku 2022, [Tertunda] 4 Tahun",
-  "deck": "Pool Advista Indonesia baru menggelar public expose untuk tahun buku 2022 pada 23 Oktober 2026, empat tahun setelah periode itu berakhir.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POOL",
-   "public expose",
-   "keterlambatan pelaporan",
-   "kepatuhan emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6df629c7ae_950646be5f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smma-umumkan-rupslb-17-november-dps-23-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "SMMA Umumkan [RUPSLB] 17 November, DPS 23 Oktober 2026",
-  "deck": "PT Sinar Mas Multiartha Tbk (SMMA) akan menggelar Rapat Umum Pemegang Saham Luar Biasa pada 17 November 2026 di Jakarta, dengan pemegang saham yang tercatat per 23 Oktober 2026 berhak hadir.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMA",
-   "RUPSLB",
-   "Sinar Mas Multiartha",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e5b3190664_27a2a546fe.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "piki-pefindo-tegaskan-peringkat-aaa-untuk-pelindo-dan-obligasinya",
-  "category": "Aksi Korporasi",
-  "title": "PIKI: Pefindo Tegaskan Peringkat [AAA] untuk Pelindo dan Obligasinya",
-  "deck": "Pefindo mempertahankan peringkat idAAA/Stable untuk Pelindo (PIKI) dan obligasi senilai Rp800 miliar untuk periode Oktober 2026-2027, peringkat tertinggi kelima tahun berturut-turut.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIKI",
-   "Pefindo",
-   "obligasi",
-   "rating kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4ece31af77_0b72da34cb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apex-jadwalkan-pelaksanaan-konversi-utang-jadi-saham-19-oktober",
-  "category": "Aksi Korporasi",
-  "title": "APEX Jadwalkan [Pelaksanaan] Konversi Utang Jadi Saham 19 Oktober",
-  "deck": "Apexindo menjadwalkan penerbitan 218,09 juta saham baru pada 19 Oktober 2026 untuk melunasi utang ke kreditor sindikasi luar negeri, menambah saham beredar 5,79 persen.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APEX",
-   "PMTHMETD",
-   "konversi utang",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2fefd31bd_8bab1e7c82.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-lagi-75-900-saham",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [jual] lagi 75.900 saham",
-  "deck": "Dewan Komisaris Henry Liem melepas 75.900 saham AKPI pada 7-8 Oktober 2026 di harga Rp520 per saham, kepemilikannya turun jadi 1,02% hak suara.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "kepemilikan saham",
-   "komisaris",
-   "Argha Karya Prima"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-8858-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penjualan-eceran-september-2026-diprakirakan-naik-1-4",
-  "category": "Makroekonomi",
-  "title": "Penjualan Eceran September 2026 Diprakirakan [Naik] 1,4%",
-  "deck": "Bank Indonesia memprakirakan penjualan eceran tumbuh 1,4 persen secara tahunan pada September 2026, sementara ekspektasi harga untuk dua periode mendatang ikut menguat.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penjualan-eceran-september-2026-diprakirakan-naik-1-4.jpg",
-  "imageV": "mv0dur8h",
-  "tags": [
-   "Penjualan Eceran",
-   "Bank Indonesia",
-   "Inflasi",
-   "Survei BI"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821726.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "poli-catat-laba-rp57-7-m-arus-kas-operasi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "POLI Catat Laba Rp57,7 M, Arus Kas Operasi [Negatif]",
-  "deck": "Dalam public expose tahunan 8 Oktober, manajemen POLI menjawab pertanyaan investor soal arus kas operasi negatif, penggunaan dana obligasi Rp500 miliar, dan kinerja segmen hotel yang stagnan.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POLI",
-   "public expose",
-   "arus kas",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/db78dccd03_a058f46987.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pefindo-pangkas-rating-ptpp-ke-idccc-outlook-negatif",
-  "category": "Aksi Korporasi",
-  "title": "Pefindo Pangkas Rating PTPP ke [idCCC], Outlook Negatif",
-  "deck": "Pefindo menurunkan rating PTPP dan surat utangnya dari idB menjadi idCCC dengan status CreditWatch negatif, menyusul penundaan pembayaran kupon obligasi yang jatuh tempo 2 Oktober 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "rating",
-   "obligasi",
-   "Pefindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d0a0061d38_09201c5df2.pdf",
   "sourceLabel": "IDX"
  }
 ];

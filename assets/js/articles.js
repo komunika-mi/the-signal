@@ -86,6 +86,112 @@ var ARTICLES = [
   "imageV": "mv9h1t0o"
  },
  {
+  "slug": "bris-panggil-rupslb-6-november-bahas-rights-issue-kedua",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Panggil RUPSLB 6 November, Bahas [Rights Issue] Kedua",
+  "deck": "Bank Syariah Indonesia memanggil pemegang saham untuk RUPSLB 6 November 2026, meminta persetujuan rencana penambahan modal lewat hak memesan efek terlebih dahulu kedua (PMHMETD II).",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T18:02:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/feb63f52e6_b51b4c1ba4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "RUPSLB",
+   "rights issue",
+   "PMHMETD"
+  ],
+  "body": [
+   "PT Bank Syariah Indonesia (Persero) Tbk atau BRIS resmi memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa, merujuk pada surat pemberitahuan sebelumnya tertanggal 30 September 2026. Rapat akan digelar Jumat, 6 November 2026 pukul 10.00 WIB secara elektronik melalui sistem eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia, dengan lokasi penyelenggaraan di Jakarta Pusat. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per Rabu, 14 Oktober 2026 pukul 16.15 WIB. Pemanggilan ini diterbitkan secara elektronik pada 15 Oktober 2026 pukul 18.02 WIB oleh Wisnu Sunandar, Senior Vice President perseroan.",
+   "Satu-satunya agenda rapat adalah persetujuan rencana Penambahan Modal dengan Memberikan Hak Memesan Efek Terlebih Dahulu II, atau PMHMETD II, yakni penerbitan saham baru lewat skema hak memesan efek terlebih dahulu untuk kali kedua. Perseroan menyebut tujuannya memperkuat permodalan dan meningkatkan kapasitas penyaluran pembiayaan guna mendukung pertumbuhan bisnis. Dokumen belum mencantumkan rasio, harga pelaksanaan, maupun target dana yang akan dihimpun. Sesuai Pasal 4 ayat 12 Anggaran Dasar perseroan, keputusan rapat ini wajib dihadiri dan disetujui oleh pemegang saham Seri A Dwiwarna, saham khusus milik pemerintah pada BUMN seperti BRIS.",
+   "Bagi pemegang saham yang ingin memberi kuasa secara elektronik lewat fasilitas e-Proxy di eASY.KSEI, deklarasi kehadiran atau kuasa paling lambat dilakukan Kamis, 5 November 2026 pukul 12.00 WIB, atau satu hari kerja sebelum rapat. Keterlambatan registrasi akan membuat kepemilikan saham tidak diperhitungkan dalam kuorum kehadiran. Bahan mata acara rapat tersedia pada jam kerja sejak tanggal pemanggilan ini hingga rapat digelar, dan dapat diunduh di situs web perseroan."
+  ],
+  "fotoAdegan": "Modern glass skyscraper housing bank offices in Jakarta's business district, reflecting dusk sky, street traffic below",
+  "takeaway": "Laporan ini netral bagi BRIS karena pemanggilan rapat belum mengungkap rasio, harga pelaksanaan, atau target dana dari rights issue, sehingga besar dampaknya terhadap pemegang saham belum bisa dinilai. Yang tersentuh adalah ekuitas dan jumlah saham beredar: modal bank akan bertambah dari dana baru yang masuk, tetapi jumlah lembar saham juga naik, dan kalau pemegang saham lama tidak menyerap haknya, porsi kepemilikan serta laba per saham mereka bisa terdilusi, alias nilainya tergerus karena dibagi ke lebih banyak lembar saham. Keputusan ini juga wajib direstui pemegang saham Seri A Dwiwarna, saham khusus milik pemerintah yang punya hak veto atas keputusan strategis BUMN seperti BRIS, jadi persetujuan pemegang saham mayoritas ini turut menentukan jalannya rapat. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 6 November 2026 serta prospektus rights issue yang biasanya terbit setelah persetujuan, karena dokumen itu baru akan membuka rasio, harga, dan total dana yang ditargetkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kdtn-panggil-rupslb-rombak-direksi-komisaris-6-november",
+  "category": "Aksi Korporasi",
+  "title": "KDTN Panggil RUPSLB, [Rombak] Direksi-Komisaris 6 November",
+  "deck": "Puri Sentul Permai (KDTN) menggelar RUPSLB 6 November 2026 untuk ganti direksi-komisaris, sekaligus menegaskan pengambilalihan oleh calon pengendali baru belum terlaksana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T17:56:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/91626d38f2_9353dc1b70.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "RUPSLB",
+   "Pergantian Direksi",
+   "Pengambilalihan Perusahaan"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada Jumat, 6 November 2026, pukul 14.00 WIB di kantor Perseroan di Kawasan Industri Sentul, Babakan Madang, Bogor. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 14 Oktober 2026, atau pemilik saham di Sub Rekening Efek KSEI pada penutupan perdagangan di hari yang sama.",
+   "Agenda pertama rapat adalah persetujuan pemberhentian dengan hormat seluruh anggota Dewan Komisaris dan Direksi Perseroan, sekaligus pengangkatan anggota baru untuk kedua organ tersebut. Perseroan menyebut perubahan susunan pengurus ini wajib mendapat persetujuan RUPS sesuai Peraturan OJK Nomor 33/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik. Agenda kedua adalah penyesuaian Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha Perseroan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025) yang diterbitkan Badan Pusat Statistik.",
+   "Agenda ketiga, yang paling menarik perhatian, adalah pembatalan mata acara kedua RUPSLB tanggal 22 Juni 2026 di Jakarta serta permohonan penyesuaian kembali komposisi kepemilikan saham dalam sistem Administrasi Hukum Umum (AHU) agar sesuai dengan data yang tercatat di Bursa Efek Indonesia. Dalam penjelasannya, Perseroan menyatakan bahwa komposisi kepemilikan saham di sistem AHU belum sepenuhnya berubah menjadi kepemilikan publik, karena rencana pengambilalihan Perseroan oleh calon pengendali baru sesuai Peraturan OJK Nomor 9/2018 tentang Pengambilalihan Perusahaan Terbuka, yang seharusnya direalisasikan melalui mekanisme crossing saham di Bursa Efek Indonesia, belum pernah dilaksanakan.",
+   "Pemegang saham yang ingin memberikan kuasa secara tertulis kepada pihak independen wajib mengirimkan surat kuasa ke Biro Administrasi Efek Perseroan, PT Datindo Entrycom di Jakarta, paling lambat 3 November 2026 pukul 10.00 WIB. Perseroan juga mendorong pemegang saham untuk hadir secara elektronik melalui sistem eASY.KSEI, dengan masa registrasi elektronik ditutup paling lambat 30 menit sebelum rapat dimulai."
+  ],
+  "fotoAdegan": "Wide shot of a low-rise corporate office building in a landscaped industrial park driveway, palm trees, soft morning light, West Java, Indonesia.",
+  "takeaway": "Laporan ini condong negatif bagi KDTN, karena mengonfirmasi bahwa rencana pengambilalihan oleh calon pengendali baru masih belum terlaksana setelah berbulan-bulan, sejalan dengan pemberitaan sebelumnya soal akuisisi yang tertunda. RUPSLB ini menyentuh pos tata kelola perusahaan, karena agenda pertama adalah mengganti seluruh anggota Direksi dan Dewan Komisaris, keputusan yang menentukan siapa memegang kendali strategis perusahaan ke depan. Pembatalan agenda soal komposisi kepemilikan saham juga menyoal siapa sebenarnya pengendali Perseroan, sebab data di sistem AHU, basis data resmi badan hukum pemerintah, belum sinkron dengan data di Bursa Efek Indonesia karena transaksi crossing saham ke calon pengendali baru belum pernah dilakukan. Yang perlu dipantau adalah hasil RUPSLB pada 6 November 2026, termasuk nama direksi dan komisaris baru yang disahkan, serta apakah transaksi pengambilalihan saham lewat crossing di Bursa akhirnya terealisasi setelah pertemuan ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smmt-gelar-paparan-publik-usai-suspensi-saham-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "SMMT Gelar Paparan Publik Usai [Suspensi] Saham Melonjak",
+  "deck": "Golden Eagle Energy (SMMT) menggelar paparan publik insidentil 20 Oktober 2026 setelah sahamnya disuspensi BEI akibat lonjakan harga signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T17:46:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4233368f03_059e9038e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMT",
+  "tags": [
+   "SMMT",
+   "suspensi saham",
+   "paparan publik",
+   "batu bara"
+  ],
+  "body": [
+   "Golden Eagle Energy Tbk (SMMT) menyampaikan materi Paparan Publik Insidentil yang akan digelar pada 20 Oktober 2026 melalui webinar Zoom, menyusul permintaan Bursa Efek Indonesia (BEI) kepada perseroan. Paparan ini wajib digelar setelah BEI menghentikan sementara (suspensi) perdagangan saham SMMT pada 1 Oktober 2026 untuk mendinginkan harga, yang dikenal dengan istilah cooling down, akibat kenaikan harga saham kumulatif yang signifikan.",
+   "Berdasarkan materi yang disampaikan, harga saham SMMT melonjak 76,4 persen dari awal September 2026 di level Rp1.995, dan naik 68,4 persen sejak BEI mengumumkan status Unusual Market Activity pada 3 September 2026 saat harga Rp2.090. Volume transaksi sempat melonjak hingga 4,15 juta saham pada 16 September 2026, sebelum harga saham mencapai puncak Rp3.520 menjelang suspensi pada 1 Oktober 2026. Perseroan menyebut kenaikan ini dipicu oleh kinerja operasional yang tumbuh, harga batu bara yang tetap tinggi, serta ekspektasi investor atas pertumbuhan laba tahun 2026.",
+   "Secara kinerja, Grup mencatat penjualan bersih US$61,59 juta hingga kuartal kedua 2026, naik 14 persen dibandingkan periode sama tahun lalu, namun laba bersih justru turun 3 persen menjadi US$3,81 juta. Dari sisi operasional, produksi batu bara sepanjang 2026 turun 538.000 ton atau 32 persen dibandingkan 2025, karena izin kerja tambang (RKAB) milik PT Triaryani baru terbit akhir Maret 2026 dan tidak ada produksi sama sekali dari tambang PT Internasional Prima Coal di Kalimantan Timur sepanjang tahun ini. Volume penjualan sepanjang 2026 tercatat 1,28 juta ton, dengan porsi penjualan domestik mencapai 25 persen dari total.",
+   "Perseroan merupakan produsen batu bara termal dengan dua aset tambang yang beroperasi, yakni PT Triaryani di Sumatera Selatan dan PT Internasional Prima Coal di Kalimantan Timur. Pemegang saham pengendali SMMT adalah Geo Energy Resources Limited, melalui PT Geo Energy Investama, sejak 20 Oktober 2023."
+  ],
+  "fotoAdegan": "Heavy haul trucks loading coal at an open-pit mine in East Kalimantan, dust rising under midday sun",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham SMMT, karena lonjakan harga saham hingga 76,4 persen dalam sebulan ternyata tidak dibarengi perbaikan kinerja, justru produksi turun 32 persen dan laba bersih ikut turun 3 persen. Yang tersentuh di sini adalah laba bersih, yakni selisih antara pendapatan dan seluruh biaya perusahaan, serta volume produksi yang menentukan seberapa banyak barang yang bisa dijual perseroan. Penurunan produksi terjadi karena izin kerja tambang PT Triaryani baru disetujui akhir Maret 2026 dan tambang PT Internasional Prima Coal sama sekali tidak berproduksi sepanjang tahun ini, sehingga kenaikan harga saham tampak lebih mencerminkan spekulasi pasar dibandingkan perbaikan bisnis yang sesungguhnya. Yang perlu dipantau berikutnya adalah hasil paparan publik pada 20 Oktober 2026 lewat webinar Zoom, termasuk apakah manajemen bisa menjelaskan kesenjangan antara harga saham dan kinerja operasional itu kepada Bursa, serta apakah suspensi saham akan dicabut setelah sesi tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "trja-tegaskan-karhutla-tak-ganggu-bisnis-penyewaan-kendaraan",
+  "category": "Aksi Korporasi",
+  "title": "TRJA Tegaskan [Karhutla] Tak Ganggu Bisnis Penyewaan Kendaraan",
+  "deck": "Merespons surat Bursa, Transkon Jaya (TRJA) memastikan tidak ada gangguan operasional akibat karhutla, tanpa lahan konsesi dan aset kendaraan yang diasuransikan penuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T17:42:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2fa7fb53b9_ed35f843db.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRJA",
+  "tags": [
+   "TRJA",
+   "karhutla",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Transkon Jaya Tbk mengirim surat tanggapan bernomor 4471/TJ/OUT/X/2026 kepada Bursa Efek Indonesia pada 15 Oktober 2026, menjawab permintaan penjelasan Bursa nomor S-13064/BEI.PP2/10-2026 tanggal 13 Oktober 2026 soal dampak kebakaran hutan dan lahan terhadap perseroan. Surat ditandatangani Rex Alexander Joseph Syauta selaku Director and Corporate Secretary perusahaan.",
+   "Dalam jawabannya, TRJA menyatakan tidak memiliki wilayah konsesi lahan. Fasilitas utama perusahaan berada di Balikpapan, Kalimantan Timur, dengan kegiatan operasional di berbagai wilayah lain mengikuti lokasi proyek dan kebutuhan pelanggan, dikelola langsung tanpa melalui entitas anak. Karena seluruh pendapatan berasal dari jasa penyewaan kendaraan, bukan dari pertambangan atau manufaktur, perusahaan menyebut indikator produksi fisik tidak relevan bagi model bisnisnya. Hingga saat ini kegiatan operasional berjalan normal tanpa gangguan langsung dari karhutla, namun potensi dampak tidak langsung bisa muncul bila pelanggan di wilayah terdampak menyesuaikan operasinya, yang berpotensi menurunkan tingkat utilisasi atau jumlah unit kendaraan yang disewakan.",
+   "Dari sisi aset, perusahaan menyebut belum ada kerusakan material pada unit kendaraan maupun fasilitas operasional, dan seluruh aset tetap kendaraan telah dilindungi skema asuransi komprehensif all risk. Tidak ada penghentian operasional tidak terencana di lokasi manapun. Sebagai mitigasi, perusahaan memantau kondisi lingkungan, memastikan kesiapan kendaraan dan personel, serta berkoordinasi dengan pelanggan dalam jangka pendek, serta melakukan evaluasi risiko operasional berkala dan pemeliharaan fasilitas dalam jangka panjang. Perusahaan juga menegaskan tidak sedang menghadapi proses hukum atau sanksi administratif terkait karhutla, termasuk penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin, dan tidak ada fakta material lain terkait karhutla yang belum diungkapkan."
+  ],
+  "fotoAdegan": "Rental trucks parked in neat rows under a hazy, smoke tinted sky at an industrial yard in East Kalimantan, workers inspecting tires.",
+  "takeaway": "Penjelasan ini netral bagi TRJA karena isinya sebatas meyakinkan bahwa risiko karhutla terhadap bisnis sangat terbatas, tanpa ada angka kerugian, kerusakan aset, atau perubahan target yang bisa diukur pasar. Yang tersentuh hanya potensi pendapatan dan tingkat utilisasi armada, yaitu seberapa banyak kendaraan sewa yang benar benar terpakai, karena permintaan dari pelanggan di wilayah terdampak asap bisa melambat meski belum terjadi; sementara nilai aset kendaraan relatif aman karena sudah ditanggung asuransi all risk, yaitu polis yang menanggung hampir semua jenis kerusakan. Yang perlu dipantau selanjutnya adalah apakah perusahaan akan menerbitkan keterbukaan informasi susulan jika kondisi karhutla memburuk atau benar benar menekan permintaan pelanggan, sebab dalam surat ini perusahaan hanya berjanji memantau tanpa menyebut tanggal atau batas waktu evaluasi berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "fapa-pastikan-karhutla-tak-ganggu-operasi-di-kalimantan",
   "category": "Aksi Korporasi",
   "title": "FAPA Pastikan Karhutla Tak Ganggu [Operasi] di Kalimantan",
@@ -242,6 +348,33 @@ var ARTICLES = [
   "fotoAdegan": "Workers stacking pallets inside a large half built warehouse under construction, afternoon sunlight filtering through open steel doors.",
   "takeaway": "Laporan ini condong negatif bagi DPNS karena jadwal pemulihan dari suspensi kembali molor: RUPS perubahan kegiatan usaha yang semula ditargetkan September 2026 mundur ke Desember 2026, dan laporan keuangan auditan kuartal I 2026 yang dijanjikan Juli ternyata baru ditargetkan akhir Oktober 2026 akibat gangguan sistem akuntansi internal. Penundaan ini penting karena laporan keuangan auditan adalah dasar bagi investor menilai posisi ekuitas dan arus kas perusahaan, sekaligus syarat bagi KJPP sebelum menilai kelayakan rencana bisnis baru di bidang pergudangan, sehingga selama laporan belum terbit pasar tidak punya gambaran utuh soal kesehatan keuangan DPNS maupun kepastian kapan sahamnya bisa kembali diperdagangkan normal. Yang perlu dipantau adalah penyelesaian laporan keuangan auditan kuartal I 2026 pada akhir Oktober 2026 dan kuartal II 2026 pada pertengahan November 2026, karena keduanya jadi syarat sebelum KJPP merampungkan studi kelayakan dan RUPSLB penambahan bidang usaha bisa digelar.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "gzco-dampak-karhutla-ke-produksi-tak-signifikan",
+  "category": "Aksi Korporasi",
+  "title": "GZCO: Dampak [Karhutla] ke Produksi Tak Signifikan",
+  "deck": "Gozco Plantations menjawab permintaan penjelasan Bursa soal dampak kebakaran hutan dan lahan terhadap operasional, produksi, dan status hukumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T16:59:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d7546e2022_0ccbd5bd12.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GZCO",
+  "tags": [
+   "GZCO",
+   "karhutla",
+   "kelapa sawit",
+   "produksi"
+  ],
+  "body": [
+   "PT Gozco Plantations Tbk (GZCO) mengirim surat jawaban bernomor 030/EXT/GZC-JKT/COR/X/2026 kepada Bursa Efek Indonesia, menanggapi permintaan penjelasan BEI nomor S-13027/BEI.PP1/10-2026 tanggal 13 Oktober 2026 soal dampak kebakaran hutan dan lahan (karhutla). Dalam surat yang diteken Direktur Marvin Herbert Wibisono itu, perseroan merinci bahwa wilayah operasionalnya tersebar di enam lokasi, yaitu Kabupaten Penukal Abab Lematang Ilir, Kabupaten Banyuasin, dan Kabupaten Muara Enim di Sumatra Selatan, serta Kota Ketapang di Kalimantan Barat, Kota Sampit dan Kabupaten Seruyan di Kalimantan Tengah.",
+   "Perseroan juga membuka kontribusi tiap anak usaha terhadap total pendapatan hingga Juni 2026 yang mencapai sekitar Rp327,58 miliar. PT Suryabumi Agrolanggeng menyumbang paling besar lewat penjualan CPO sebanyak 11.996 ton senilai Rp183,97 miliar atau 56 persen dari total pendapatan, ditambah penjualan inti sawit (PK) 2.176 ton senilai Rp31,47 miliar atau 10 persen. Dua anak usaha lain, PT Sinar Karya Mandiri dan PT Telaga Sari Persada, menyumbang lewat penjualan tandan buah segar (TBS) masing-masing 27.081 ton senilai Rp90,95 miliar (28 persen) dan 6.553 ton senilai Rp21,20 miliar (6 persen).",
+   "Soal dampak karhutla, Gozco menyebut target produksi TBS tahun 2026 sebesar 232 ribu ton, dan sampai 30 September 2026 realisasinya sudah 149 ribu ton atau 64 persen dari target. Perseroan menyatakan tidak ada unplanned shutdown di lokasi operasionalnya, dan estimasi dampak kebakaran terhadap pendapatan, laba, maupun nilai aset dinilai tidak signifikan. Sebagai mitigasi, perseroan menyebut langkah jangka pendek berupa patroli terpadu, menara pengawas api, dan prosedur pemadaman dengan target deteksi di bawah 15 menit, serta langkah jangka panjang seperti restorasi ekosistem gambut dan program desa bebas api.",
+   "Terkait risiko hukum, Gozco menyatakan belum menerima pemberitahuan resmi mengenai proses hukum perdata maupun sanksi administratif terkait peristiwa karhutla tersebut sampai surat ini disampaikan. Perseroan menegaskan seluruh informasi material terkait karhutla yang relevan bagi investor telah diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers inspecting a water canal through a palm oil plantation under a hazy, smoke-tinted sky in rural Sumatra",
+  "takeaway": "Catatan ini saya nilai netral karena Gozco mengklaim tidak ada dampak finansial signifikan dari kebakaran lahan, namun klaim itu datang dari perseroan sendiri dan belum ada konfirmasi independen dari otoritas lingkungan atau penegak hukum. Yang pantas dicermati adalah pos produksi tandan buah segar atau TBS, bahan baku utama minyak sawit yang langsung menentukan pendapatan dan laba Gozco, sebab realisasinya baru 149 ribu ton atau 64 persen dari target tahunan 232 ribu ton sampai akhir September, padahal tiga perempat tahun sudah berjalan sehingga capaiannya sedikit tertinggal dari jalur normal. Yang perlu dipantau berikutnya adalah apakah Gozco benar mengejar sisa target produksi sampai tutup tahun 2026, serta apakah ada tindak lanjut resmi dari otoritas terkait status hukum karhutla setelah jawaban ini disampaikan ke bursa pada 15 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "vtny-jadwalkan-rupslb-pada-23-november-2026",
@@ -401,6 +534,32 @@ var ARTICLES = [
   "imageV": "mv9boifn"
  },
  {
+  "slug": "inkp-jawab-bursa-karhutla-tak-ganggu-produksi",
+  "category": "Aksi Korporasi",
+  "title": "INKP Jawab Bursa: Karhutla Tak Ganggu [Produksi]",
+  "deck": "INKP menjawab permintaan penjelasan BEI soal dampak karhutla, memastikan tidak ada gangguan produksi, pendapatan, maupun proses hukum terkait kebakaran hutan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T16:08:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/522510bc5a_a338c79bed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "karhutla",
+   "Indah Kiat Pulp & Paper",
+   "BEI"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) mengirim surat tanggapan bernomor 068/CRP/IK/X/2026 tertanggal 15 Oktober 2026 kepada Bursa Efek Indonesia, menjawab permintaan penjelasan Bursa nomor S-13067/BEI.PP2/10-2026 tertanggal 13 Oktober 2026. Surat itu ditandatangani Heri Santoso selaku Direktur/Corporate Secretary dan ditujukan kepada Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryanto. Bursa sebelumnya meminta penjelasan soal lokasi operasional perusahaan di Indonesia dan dampak kebakaran hutan dan lahan (karhutla) terhadap bisnis INKP.",
+   "Dalam suratnya, INKP merinci sebaran lokasi produksinya. Pabrik di Perawang, Riau menyumbang 59,8 persen produksi dan 63,4 persen pendapatan perusahaan. Pabrik di Serang, Banten menyumbang 31,4 persen produksi dan 27,5 persen pendapatan, sementara pabrik di Tangerang, Banten menyumbang 1,4 persen produksi dan 2,7 persen pendapatan. Pabrik di Karawang, Jawa Barat menyumbang 7,4 persen produksi dan 5,3 persen pendapatan. Dua anak usaha, PT Paramitra Gunakarya Cemerlang di Bogor, Jawa Barat dan di Mojokerto, Jawa Timur, tidak berkontribusi pada produksi tapi masing-masing menyumbang 1 persen dan 0,1 persen pendapatan.",
+   "Soal karhutla, INKP menyatakan kegiatan operasional dan target produksi 2026 tetap berjalan sesuai rencana, dan kebakaran hutan tidak berdampak pada pendapatan, laba, maupun nilai aset perusahaan. Perusahaan juga menegaskan tidak melakukan penghentian produksi mendadak di fasilitas mana pun. INKP menyebut tidak memiliki lahan atau konsesi yang berisiko karhutla, tidak sedang menghadapi atau berpotensi menghadapi proses hukum maupun sanksi administratif terkait karhutla seperti penyegelan lahan atau pencabutan izin, dan tidak ada informasi material lain soal karhutla yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Stacks of pulp wood logs piled in an industrial mill yard with steam rising from processing towers, overcast daylight",
+  "takeaway": "Tanggapan ini condong netral bagi INKP: isinya menenangkan karena memastikan tidak ada dampak karhutla terhadap produksi, pendapatan, atau laba, tapi sekaligus membuka data bahwa hampir dua pertiga pendapatan perusahaan bertumpu pada satu pabrik saja, yakni Perawang di Riau. Yang disentuh di sini bukan laba atau arus kas secara langsung, melainkan soal kontinuitas produksi dan pendapatan, yaitu seberapa lancar pabrik bisa terus beroperasi dan menghasilkan uang. Pasar memperhatikan sebaran lokasi pabrik semacam ini karena kalau satu lokasi besar seperti Perawang sampai terganggu, dampaknya ke pendapatan perusahaan jauh lebih besar dibanding kalau produksi tersebar rata di banyak tempat. Yang perlu dipantau berikutnya adalah apakah kondisi karhutla di sekitar area operasional INKP, terutama di Riau dan Sumatera tempat mayoritas produksinya berasal, tetap terkendali dalam beberapa bulan mendatang, karena perusahaan sendiri berkomitmen memantau situasi lingkungan meski menyatakan belum ada lahan miliknya yang berisiko.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "27-provinsi-masukkan-ekonomi-syariah-ke-rencana-pembangunan",
   "category": "Makroekonomi",
   "title": "27 Provinsi Masukkan Ekonomi [Syariah] ke Rencana Pembangunan",
@@ -453,6 +612,215 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A fire lookout tower standing above a vast palm oil plantation, water reservoir pond nearby, hazy tropical sky in dry season",
   "takeaway": "Laporan ini condong netral bagi TAPG karena isinya menegaskan tidak ada dampak nyata terhadap operasional, bukan membawa kabar baru yang mengubah prospek bisnis perusahaan. Yang tersentuh di sini sebenarnya adalah potensi pendapatan dan laba dari segmen kelapa sawit, yang menyumbang 99,8 persen pendapatan konsolidasian, sehingga kalau benar ada lahan yang terbakar, laba per saham bisa langsung tergerus karena bisnis perusahaan nyaris seluruhnya bertumpu pada komoditas itu. Konfirmasi tidak ada penghentian operasi mendadak dan tidak ada proses hukum terkait karhutla mengurangi kekhawatiran pasar di musim kemarau, tapi sejauh ini belum ada bukti ada perubahan fundamental yang menguntungkan maupun merugikan. Yang perlu dipantau selanjutnya adalah apakah BEI akan meminta pembaruan lagi bila titik api di Kalimantan Tengah atau Kalimantan Timur meningkat selama sisa musim kering, serta apakah klaim nihil dampak ini konsisten dengan laporan keuangan kuartal keempat 2026 yang akan terbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tldn-tegaskan-karhutla-tak-ganggu-produksi-sawit-kaltim",
+  "category": "Aksi Korporasi",
+  "title": "TLDN Tegaskan [Karhutla] Tak Ganggu Produksi Sawit Kaltim",
+  "deck": "Merespons surat permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan, TLDN menyatakan produksi dan pendapatannya di Kalimantan Timur belum terganggu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T15:59:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9091e9f2fa_1a0a2b8a2f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLDN",
+  "tags": [
+   "TLDN",
+   "karhutla",
+   "kelapa sawit",
+   "Kalimantan Timur"
+  ],
+  "body": [
+   "PT Teladan Prima Agro Tbk (TLDN) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI No. S-13075/BEI.PP3/10-2026 tertanggal 13 Oktober 2026 mengenai dampak kebakaran hutan dan lahan atau karhutla. Jawaban Perseroan, bernomor 129/TPA-Dir/X/2026, diterbitkan 15 Oktober 2026 dan ditandatangani Wishnu Wardhana selaku Direktur Utama.",
+   "Dalam surat itu, TLDN merinci bahwa wilayah operasional Perseroan melalui entitas anak berada di empat kabupaten di Kalimantan Timur, yaitu Berau, Kutai Timur, Paser, dan Kutai Kartanegara. Entitas anak yang disebutkan antara lain PT Tanjung Buyu Perkasa Plantation, PT Inti Energi Kaltim, PT Telen, PT Sawit Prima Nusantara, PT Telen Prima Sawit, PT Gemilang Sejahtera Abadi, PT Cipta Davia Mandiri, PT Multi Jayantara Abadi, dan PT Cahaya Anugerah Plantation. Perseroan menegaskan seluruh wilayah tersebut menyumbang 100 persen dari total produksi dan pendapatan perusahaan.",
+   "TLDN menyatakan sampai saat ini karhutla belum berdampak pada kegiatan operasional maupun target produksi 2026, serta belum memengaruhi pendapatan, laba, dan nilai aset Perseroan. Perusahaan juga memastikan tidak ada unplanned shutdown atau penutupan lokasi di luar rencana pada lahan milik Perseroan maupun entitas anak. Sebagai mitigasi, Perseroan menjalankan Kebijakan Sawit Lestari yang melarang pembukaan lahan baru di hutan berkadar karbon tinggi dan gambut serta menerapkan praktik tanpa bakar, dilengkapi SOP pengendalian kebakaran dan sistem deteksi dini titik api berbasis satelit Terra-Aqua, Suomi NPP, NOAA-20, dan NOAA-21. TLDN menambahkan bahwa Perseroan maupun entitas anak tidak sedang dan tidak berpotensi menghadapi proses hukum atau sanksi administratif terkait karhutla, dan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Plantation workers clearing dry undergrowth near a forest edge under a hazy, smoke tinted sky on a palm oil estate",
+  "takeaway": "Kami menilai laporan ini netral, karena isinya hanya menegaskan ulang bahwa operasional dan keuangan TLDN belum terganggu karhutla, tanpa ada perubahan angka produksi, pendapatan, atau laba, dan klaim itu murni pernyataan sepihak Perseroan yang belum diverifikasi pihak independen. Pos yang tersentuh adalah risiko aset tetap, yakni lahan dan kebun sawit di empat kabupaten di Kalimantan Timur yang menyumbang seluruh produksi dan pendapatan TLDN, sehingga kalau api benar-benar merembet ke areal operasional, nilai aset dan pendapatan itu bisa langsung tergerus. Pelaku pasar memperhatikan hal ini karena kebun sawit rawan kebakaran di musim kering, dan dampaknya bisa muncul tiba-tiba lewat penutupan lokasi tanpa rencana yang langsung memotong volume panen. Yang perlu dipantau selanjutnya adalah apakah BEI akan meminta klarifikasi lanjutan bila titik api di sekitar area operasional meningkat, serta apakah Perseroan konsisten melapor setiap kali muncul unplanned shutdown atau sanksi administratif seperti yang dijanjikan dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pidl-pastikan-karhutla-tak-ganggu-produksi-di-4-lokasi",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Pastikan [Karhutla] Tak Ganggu Produksi di 4 Lokasi",
+  "deck": "PIDL menjawab permintaan penjelasan Bursa soal dampak karhutla, menyebut operasional di Karawang, Perawang, Jambi, dan Kalimantan Timur tetap berjalan normal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T15:53:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8b703c1e8d_e2661d6231.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIDL",
+  "tags": [
+   "PIDL",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "pulp dan kertas"
+  ],
+  "body": [
+   "PT Pindo Deli Pulp And Paper Mills (PIDL) melalui Direktur Kosim Sutiono mengirim surat penjelasan kepada Bursa Efek Indonesia pada 15 Oktober 2026, menanggapi surat permintaan penjelasan bursa nomor S-13066/BEI.PP2/10-2026 tertanggal 13 Oktober 2026. Surat bursa tersebut menanyakan soal wilayah operasional perusahaan di Indonesia serta dampak kebakaran hutan dan lahan atau karhutla terhadap bisnis perseroan.",
+   "Dalam jawabannya, PIDL merinci empat lokasi operasional. PT Pindo Deli Pulp And Paper Mills sendiri mengoperasikan pabrik di Karawang, Jawa Barat yang menyumbang 38 persen produksi dan 43 persen pendapatan perusahaan, serta di Perawang, Riau yang menyumbang 17 persen produksi dan 25 persen pendapatan. Anak usahanya, PT Lontar Papyrus Pulp & Paper Industry, beroperasi di Tebing Tinggi, Jambi dengan kontribusi 39 persen produksi dan 31 persen pendapatan. Satu lokasi lagi, PT Agra Bareksa Indonesia di Kabupaten Penajam Paser Utara, Kalimantan Timur, yang merupakan anak usaha dari Lontar Papyrus, tercatat tidak menyumbang produksi maupun pendapatan sama sekali.",
+   "Soal dampak karhutla, PIDL menyatakan hingga tanggal surat ini kegiatan operasional tetap berjalan sesuai rencana, tanpa pengaruh terhadap target produksi 2026, pendapatan, laba, maupun nilai aset. Perusahaan juga menegaskan tidak ada unplanned shutdown di fasilitas produksinya. PIDL menyebut tidak memiliki lahan atau konsesi yang berisiko terhadap karhutla, namun akan tetap memantau kondisi lingkungan. Perusahaan juga memastikan tidak sedang menghadapi proses hukum atau sanksi administratif terkait karhutla, dan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Stacks of raw pulp bales inside a paper mill warehouse, a forklift moving between rows under industrial lighting",
+  "takeaway": "Laporan ini netral bagi PIDL karena isinya konfirmasi bahwa karhutla belum mengganggu bisnis, bukan informasi baru yang mengubah kinerja keuangan perusahaan. Yang disentuh di sini adalah kepastian soal kelangsungan produksi dan pendapatan, sebab permintaan klarifikasi dari bursa biasanya muncul saat ada kekhawatiran risiko operasional yang bisa menekan laba kalau gangguan benar terjadi. Sebaran produksi di empat lokasi, dengan Karawang dan Jambi menyumbang porsi terbesar, juga menunjukkan perusahaan tidak bergantung pada satu wilayah saja sehingga risiko konsentrasi relatif lebih rendah. Yang perlu dipantau selanjutnya adalah apakah muncul perkembangan karhutla baru setelah 15 Oktober 2026, tanggal surat ini dibuat, karena pernyataan tidak ada dampak hanya berlaku sampai saat itu dan bursa bisa kembali meminta klarifikasi kalau situasi berubah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lppi-pastikan-karhutla-tak-ganggu-operasional-pabrik-di-jambi",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Pastikan Karhutla Tak Ganggu [Operasional] Pabrik di Jambi",
+  "deck": "LPPI menjawab permintaan penjelasan Bursa terkait dampak karhutla, menegaskan operasional dan target produksi 2026 di Jambi tidak terganggu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T15:35:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ed5824ab80_513cd58558.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "karhutla",
+   "pulp dan kertas",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Lontar Papyrus Pulp & Paper Industry (LPPI) menyampaikan surat penjelasan kepada Bursa Efek Indonesia menanggapi permintaan klarifikasi bernomor S-13065/BEI.PP2/10-2026 tertanggal 13 Oktober 2026. Surat balasan LPPI bernomor 024/CRP/LP/X/2026 ditandatangani oleh Direktur Kosim Sutiono dan disampaikan ke bursa pada 15 Oktober 2026, dua hari setelah permintaan penjelasan diterima.",
+   "Dalam surat itu, LPPI merinci bahwa pabrik utamanya di Tebing Tinggi, Jambi, menyumbang 100 persen dari total produksi dan pendapatan perusahaan. Entitas anak, PT Agra Bareksa Indonesia, yang berlokasi di Kabupaten Penajam Paser Utara, Kalimantan Timur, tercatat tidak memberikan kontribusi produksi maupun pendapatan sama sekali kepada perusahaan induk.",
+   "Terkait dampak kebakaran hutan dan lahan (karhutla), LPPI menyatakan kegiatan operasional tetap berjalan sesuai rencana dan tidak ada dampak terhadap target produksi 2026, pendapatan, laba, maupun nilai aset perusahaan. Perusahaan juga menegaskan tidak melakukan penghentian produksi mendadak di fasilitas manapun. LPPI mengklaim tidak memiliki lahan atau konsesi yang berisiko terhadap karhutla, namun akan tetap memantau kondisi lingkungan. Perusahaan dan entitas anak juga menyatakan tidak sedang menghadapi atau berpotensi menghadapi proses hukum maupun sanksi administratif terkait karhutla, seperti penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin, serta tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Rows of eucalyptus pulpwood logs stacked at a riverside mill yard in Sumatra, workers operating heavy machinery under a hazy tropical sky",
+  "takeaway": "Laporan ini netral bagi LPPI karena sekadar menjawab pertanyaan rutin otoritas bursa tanpa membawa angka keuangan baru atau perubahan rencana bisnis. Yang disinggung di sini sebenarnya risiko operasional, bukan pos kinerja standar seperti ekuitas atau arus kas, karena karhutla bisa memicu penghentian produksi mendadak yang langsung memukul pendapatan pabrik yang seluruhnya bergantung pada satu lokasi di Jambi, meski perusahaan menegaskan risiko itu belum terjadi. Pelaku pasar perlu mencatat bahwa konsentrasi produksi di satu lokasi berarti, kalau suatu saat karhutla benar mengganggu pabrik tersebut, dampaknya ke pendapatan perusahaan akan langsung terasa karena tidak ada pabrik lain yang menanggung. Yang perlu dipantau berikutnya adalah apakah klaim nihil dampak ini konsisten dengan data produksi dan laporan keuangan pada kuartal mendatang, serta apakah Bursa akan meminta klarifikasi lanjutan jika kondisi karhutla di Jambi memburuk, mengingat surat ini sendiri tidak mencantumkan tenggat pemantauan baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tpia-rampungkan-investasi-proyek-ca-edc-bersama-danantara-ina",
+  "category": "Aksi Korporasi",
+  "title": "TPIA [Rampungkan] Investasi Proyek CA-EDC Bersama Danantara-INA",
+  "deck": "Chandra Asri Pacific lewat anak usahanya merampungkan transaksi investasi strategis proyek kimia CA-EDC bersama Danantara Investment Management dan Indonesia Investment Authority.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T15:28:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6acdea1505_9d1b0347e1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "CA-EDC",
+   "Danantara"
+  ],
+  "body": [
+   "PT Chandra Asri Pacific Tbk (TPIA) mengumumkan bahwa pada 15 Oktober 2026 anak usahanya, PT Chandra Asri Alkali (PT CAA), bersama Danantara Investment Management (DIM) dan Indonesia Investment Authority (INA), telah menyelesaikan transaksi investasi strategis untuk proyek Chlor Alkali-Ethylene Dichloride atau CA-EDC. Proyek ini mencakup fasilitas produksi dengan kapasitas sekitar 400 kilotonnes per tahun soda kaustik dan 500 kilotonnes per tahun ethylene dichloride (EDC), dua bahan kimia yang dipakai sebagai bahan baku berbagai industri hilir di Indonesia.",
+   "Dengan rampungnya transaksi ini, DIM dan INA resmi menjadi pemegang saham di PT CAA. Perseroan menyebut proyek ini akan menyerap sekitar 3.000 tenaga kerja selama masa konstruksi dan sekitar 250 posisi kerja permanen setelah fasilitas beroperasi. Manajemen menyatakan transaksi ini diharapkan memperkuat posisi grup Chandra Asri di industri kimia nasional, membuka potensi kenaikan pendapatan jangka panjang, memperkuat kemitraan dengan DIM dan INA, serta menangkap kenaikan permintaan soda kaustik dari industri hilir seperti bauksit dan alumina seiring agenda hilirisasi nasional.",
+   "Dalam suratnya kepada Otoritas Jasa Keuangan, Chandra Asri menegaskan transaksi ini tidak berdampak material negatif terhadap kegiatan operasional, kondisi keuangan, maupun kelangsungan usaha Perseroan. Laporan ditandatangani oleh Erri Dewi Riani selaku General Manager of Legal & Corporate Secretary, sesuai kewajiban keterbukaan informasi berdasarkan POJK No. 31/POJK.04/2015."
+  ],
+  "fotoAdegan": "Industrial pipelines and storage tanks at a coastal petrochemical plant in Banten, workers in safety gear inspecting valves under overcast light",
+  "takeaway": "Laporan ini condong positif bagi Chandra Asri karena dua lembaga investasi milik negara, Danantara Investment Management dan Indonesia Investment Authority, resmi menyuntikkan modal ke anak usaha PT Chandra Asri Alkali untuk membangun fasilitas berkapasitas 400 ribu ton soda kaustik dan 500 ribu ton EDC per tahun, tanpa Chandra Asri sendiri perlu menambah utang. Pos yang tersentuh adalah ekuitas anak usaha, karena masuknya dua pemegang saham baru menambah modal yang tercatat di PT CAA, serta prospek pendapatan jangka panjang Perseroan jika proyek ini sudah beroperasi dan menyumbang penjualan produk kimia baru. Pelaku pasar biasanya memperhatikan hal semacam ini karena pendanaan dari investor strategis menandakan proyek benar-benar berjalan dan risiko pembiayaannya tidak seluruhnya dipikul Chandra Asri sendiri. Yang perlu dipantau selanjutnya adalah pengumuman dimulainya produksi komersial proyek CA-EDC, sebab baru saat itu 250 posisi kerja permanen dan potensi pendapatan baru yang disebut dalam dokumen ini mulai terlihat dampaknya di laporan keuangan Chandra Asri, selain rincian porsi saham baru DIM dan INA di PT CAA yang belum diungkapkan persentasenya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "staa-pastikan-tak-ada-dampak-karhutla-ke-operasional-dan-laba",
+  "category": "Aksi Korporasi",
+  "title": "STAA Pastikan Tak Ada Dampak [Karhutla] ke Operasional dan Laba",
+  "deck": "Menjawab permintaan penjelasan Bursa, STAA menyatakan tidak ada kebakaran hutan dan lahan di area operasionalnya sehingga produksi dan keuangan tahun 2026 berjalan normal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T15:27:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d90568dce_6d3b9fdfbd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "STAA",
+  "tags": [
+   "STAA",
+   "karhutla",
+   "kelapa sawit",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Sumber Tani Agung Resources Tbk (STAA) menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-13074/BEI.PP3/10-2026 tanggal 13 Oktober 2026 terkait risiko kebakaran hutan dan lahan (karhutla). Dalam surat tertanggal 15 Oktober 2026 yang diteken Direktur Utama Mosfly Ang, perusahaan menegaskan hingga saat ini tidak ada kejadian karhutla di area perkebunan maupun pabrik milik Perseroan dan entitas anak. Operasional perkebunan dan pengolahan kelapa sawit STAA tersebar di Sumatera Utara, Sumatera Selatan, Kalimantan Barat, dan Kalimantan Tengah, ditambah fasilitas refinery dan fraksinasi di Dumai, Riau, yang dikelola langsung maupun lewat belasan entitas anak seperti PT Sumatera Candi Kencana, PT Flora Nusa Perdana, dan PT Karya Sukses Utama Prima.",
+   "Perusahaan merinci bahwa sepanjang 2025 pabriknya mengolah lebih dari 2,01 juta ton tandan buah segar dan menghasilkan lebih dari 430 ribu ton minyak sawit mentah (CPO) serta sekitar 99,6 ribu ton inti sawit, dengan total pendapatan Rp9,6 triliun dari seluruh wilayah operasional tersebut. STAA menyebut tidak ada dampak material terhadap pendapatan, laba, maupun nilai aset akibat karhutla, tidak ada indikasi penurunan nilai aset, dan tidak ada penghentian operasional mendadak di kebun, pabrik, atau refinery. Target produksi 2026 disebut tetap sesuai rencana kerja, meski perusahaan mengaku masih mewaspadai dampak tidak langsung seperti kabut asap.",
+   "Soal mitigasi, STAA memaparkan langkah jangka pendek berupa patroli rutin, sistem peringatan dini titik panas, menara pantau, embung sebagai cadangan air, serta tim tanggap darurat kebakaran yang dilatih bersama Manggala Agni dan berkoordinasi dengan pemerintah daerah serta BPBD. Untuk jangka panjang, perusahaan mengklaim menjalankan kebijakan tanpa bakar, komitmen No Deforestation No Peat No Exploitation, kepatuhan terhadap regulasi deforestasi Uni Eropa (EUDR), serta sertifikasi ISPO dan RSPO. STAA juga menyatakan tidak sedang dan tidak berpotensi menghadapi proses hukum atau sanksi administratif terkait karhutla, serta tidak ada fakta material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "A worker patrolling a palm oil plantation near a fire watchtower and water reservoir under hazy daylight, rural Sumatra",
+  "takeaway": "Laporan ini netral bagi STAA, sebab isinya konfirmasi bahwa risiko karhutla belum terjadi dan belum mengubah apa pun secara fundamental, bukan kabar baik baru seperti kontrak atau dana masuk, dan bukan pula kabar buruk. Yang disentuh adalah potensi kerusakan aset perkebunan dan terganggunya pendapatan serta laba jika kebakaran benar terjadi, termasuk risiko penurunan nilai aset atau impairment, yaitu koreksi akuntansi ketika nilai sebuah aset di buku perusahaan dinilai sudah tidak sepadan lagi dengan kondisi sebenarnya di lapangan. Pelaku pasar memperhatikan ini karena sektor sawit rawan terganggu produksi saat musim kering, dan STAA sendiri mengakui masih memantau titik panas di sekitar areal konsesinya. Yang perlu dicermati selanjutnya adalah apakah musim kemarau yang masih berjalan memunculkan titik api baru di sekitar wilayah perkebunan STAA di Sumatera dan Kalimantan, serta apakah Bursa akan meminta klarifikasi lanjutan jika situasi berubah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "andi-jawab-bei-soal-karhutla-dampak-ke-produksi-belum-jelas",
+  "category": "Aksi Korporasi",
+  "title": "ANDI jawab BEI soal [karhutla], dampak ke produksi belum jelas",
+  "deck": "Andira Agro menjelaskan ke BEI bahwa seluruh produksi dan pendapatannya berasal dari satu lokasi perkebunan di Sumatera Selatan yang berisiko terdampak kebakaran hutan dan lahan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T15:21:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5b5ef493c6_3e70b871eb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANDI",
+  "tags": [
+   "ANDI",
+   "karhutla",
+   "keterbukaan informasi",
+   "perkebunan sawit"
+  ],
+  "body": [
+   "PT Andira Agro Tbk (ANDI) mengirim surat tanggapan bernomor 002/DIR/BEI/X/2026 kepada Bursa Efek Indonesia pada 15 Oktober 2026, menjawab permintaan penjelasan bursa bernomor S-13037/BEI.PP1/10-2026 tertanggal 13 Oktober 2026. Bursa meminta klarifikasi setelah meningkatnya kejadian kebakaran hutan dan lahan di sejumlah wilayah Indonesia diberitakan media massa dan tercermin dari data titik panas pemerintah. Surat tanggapan ditandatangani oleh Direktur Utama Francis Indarto.",
+   "Dalam jawabannya, Andira Agro menyebutkan seluruh wilayah operasional dan asetnya berada di Kabupaten Banyuasin, Provinsi Sumatera Selatan, dan dikelola langsung oleh perseroan tanpa melalui anak usaha. Perusahaan menegaskan lokasi tunggal ini menyumbang 100 persen dari total produksi dan pendapatannya. Soal dampak konkret karhutla terhadap operasional, target produksi 2026, pendapatan, laba, dan nilai aset, perseroan menjawab bahwa hal itu masih dalam penelusuran tim internal dan belum memberikan angka atau estimasi apa pun.",
+   "Andira Agro memaparkan sejumlah langkah mitigasi, mulai dari pemantauan cuaca dan titik rawan kebakaran, penyiapan alat pemadam dan sumber air, sosialisasi larangan membuka lahan dengan membakar, hingga penerapan praktik zero burning dan koordinasi dengan pemerintah daerah sebagai strategi jangka panjang. Perusahaan juga menyatakan tidak sedang menghadapi dan tidak melihat indikasi akan menghadapi proses hukum atau sanksi administratif terkait karhutla, seperti penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin. Perseroan menambahkan tidak ada informasi atau fakta material lain terkait karhutla yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers inspecting firebreak trenches at the edge of a palm oil plantation under a hazy, smoke tinted sky in South Sumatra",
+  "takeaway": "Catatan ini netral: tanggapan Andira Agro ke bursa bersifat memenuhi kewajiban keterbukaan, bukan sinyal baik atau buruk, karena perusahaan belum punya angka dampak konkret meski juga menegaskan tidak ada risiko hukum saat ini. Yang perlu dicermati investor adalah pengakuan bahwa seluruh produksi dan pendapatan perseroan berasal dari satu lokasi perkebunan di Banyuasin, Sumatera Selatan, sehingga kalau kebakaran di wilayah itu benar mengganggu operasional, dampaknya langsung mengenai seluruh pendapatan perusahaan, bukan sebagian kecil saja. Dengan kata lain, pos yang tersentuh adalah pendapatan dan laba perusahaan secara keseluruhan, bukan cuma satu lini usaha, dan itu sebabnya bursa sampai perlu meminta klarifikasi resmi. Yang perlu dipantau selanjutnya adalah apakah Andira Agro akan menerbitkan keterbukaan lanjutan begitu tim internalnya selesai menelusuri dampak terhadap target produksi 2026 dan pendapatan, mengingat perseroan belum menyebut tenggat waktu kapan hasil penelusuran itu akan diumumkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "prda-rencanakan-stock-split-1-5-rupslb-23-november",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Rencanakan [Stock Split] 1:5, RUPSLB 23 November",
+  "deck": "Prodia Widyahusada berencana memecah saham dengan rasio 1:5, menambah jumlah saham beredar dari 937,5 juta menjadi hampir 4,7 miliar lembar. Persetujuan dimintakan dalam RUPSLB 23 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T15:11:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f6f5f3792c_752572ef7c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "stock split",
+   "RUPSLB",
+   "Prodia Widyahusada"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk mengumumkan rencana pemecahan saham atau stock split dengan rasio 1 banding 5. Jika disetujui, jumlah saham perusahaan akan bertambah dari 937.500.000 lembar menjadi 4.687.500.000 lembar, sementara nilai nominal per saham turun dari Rp100 menjadi Rp20. Perseroan menyebut tujuannya adalah membuat harga saham lebih terjangkau per lot, memperluas basis investor terutama investor ritel, serta mendorong frekuensi perdagangan sahamnya di Bursa Efek Indonesia. Rencana ini sudah mendapat persetujuan prinsip dari BEI melalui surat No. S-12795/BEI.PP2/10-2026 tertanggal 7 Oktober 2026.",
+   "Untuk merealisasikan rencana itu, Prodia akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 23 November 2026 pukul 10.00 WIB, di Grha Prodia Utama Lantai 7, Jl. Raden Saleh Raya No. 55, Jakarta Pusat, dan juga secara elektronik melalui aplikasi eASY.KSEI. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 29 Oktober 2026, dan surat pemanggilan resmi rapat akan diumumkan pada 30 Oktober 2026. Rapat ini hanya sah digelar jika dihadiri pemegang saham yang mewakili minimal separuh dari seluruh saham berhak suara, dan keputusan stock split baru berlaku jika disetujui oleh lebih dari separuh suara yang hadir.",
+   "Dalam dokumen yang sama, Prodia memaparkan jadwal lanjutan seandainya RUPSLB menyetujui stock split: pengajuan pencatatan saham tambahan ke BEI pada 7 Desember 2026, keterbukaan informasi pelaksanaan pada 14 Desember 2026, hari terakhir perdagangan saham dengan nominal lama pada 17 Desember 2026, dan hari pertama perdagangan dengan nominal baru pada 18 Desember 2026. Perseroan juga mengungkapkan bahwa program pembelian kembali saham (buyback) yang sedang berjalan sejak 20 Agustus 2026, dengan batas maksimal 20 persen dari modal disetor, akan berakhir pada 19 November 2026, empat hari sebelum RUPSLB digelar."
+  ],
+  "fotoAdegan": "Laboratory technicians in white coats examining blood sample tubes on a workbench in a busy medical lab, Jakarta",
+  "takeaway": "Laporan ini netral bagi fundamental Prodia, sebab pemecahan saham hanya mengubah jumlah dan harga per lembar saham, tanpa mengubah modal perusahaan, proporsi kepemilikan, atau hak suara pemegang saham mana pun. Pos yang tersentuh adalah jumlah saham beredar, yang akan melonjak lima kali lipat dari 937,5 juta menjadi hampir 4,7 miliar lembar, sementara nilai nominal per saham turun dari Rp100 menjadi Rp20 sehingga nilai total kepemilikan tiap investor tetap sama dan laba per saham tidak ikut terdilusi, karena harga pasar sahamnya nanti juga akan ikut terpecah dengan rasio serupa. Yang perlu dipantau selanjutnya adalah RUPSLB pada 23 November 2026, yang baru sah bila dihadiri pemegang saham yang mewakili minimal separuh dari seluruh hak suara, dan keputusan stock split baru berlaku bila disetujui lebih dari separuh suara yang hadir saat itu. Tenggat lain yang relevan adalah pencatatan nama pemegang saham per 29 Oktober 2026 dan pemanggilan resmi rapat pada 30 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ratu-pastikan-operasi-blok-migasnya-tak-terdampak-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "RATU Pastikan Operasi Blok Migasnya [Tak Terdampak] Karhutla",
+  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, RATU memastikan seluruh blok migas tempat perusahaan memiliki hak partisipasi beroperasi normal tanpa revisi target produksi 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T15:06:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2551990ac_bd47d81e4a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "Raharja Energi Cepu",
+   "karhutla",
+   "SKK Migas"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) merespons surat permintaan penjelasan Bursa Efek Indonesia nomor S-13060/BEI.PP2/10-2026 tanggal 13 Oktober 2026 terkait kebakaran hutan dan lahan (karhutla), melalui surat bernomor REC/CO/10.292/X/2026 yang diteken Corporate Secretary & Legal RATU, Supriyanti Priandini, pada 15 Oktober 2026 pukul 15.06 WIB. Dalam surat itu, perusahaan menegaskan tidak memiliki konsesi kehutanan, perkebunan, Hak Guna Usaha, maupun lahan hutan sendiri. Sebagai perusahaan investasi di sektor hulu minyak dan gas, aset RATU berbentuk participating interest (PI), yaitu porsi kepemilikan atas hak pengelolaan blok migas yang dijalankan operator lain di bawah pengawasan SKK Migas.",
+   "RATU merinci empat wilayah kerja tempat memegang PI: Blok Cepu di Kabupaten Bojonegoro (Jawa Timur) dan Blora (Jawa Tengah) dengan PI tidak langsung 2,24%, dioperasikan ExxonMobil Cepu Limited; Blok Jabung di Tanjung Jabung Barat dan Timur (Jambi) dengan PI langsung 8%, dioperasikan PetroChina International Jabung Ltd; Madura Strait di lepas pantai Selat Madura (Jawa Timur) dengan PI langsung 20%, dioperasikan Husky-CNOOC Madura Limited; serta Blok Kasuri di Teluk Bintuni dan Fakfak (Papua Barat) dengan PI langsung 5%, dioperasikan Genting Oil Kasuri Pte Ltd, meski pengalihan PI Kasuri ke RATU masih menunggu persetujuan SKK Migas dan Kementerian ESDM.",
+   "Untuk periode Juni 2026, Blok Cepu menyumbang 14,8% produksi dan 17,35% pendapatan RATU, sementara Blok Jabung menjadi penyumbang terbesar dengan 39,9% produksi dan 82,65% pendapatan. Madura Strait menyumbang 45,3% produksi, tapi kontribusinya baru mulai diakui sebagai pendapatan pada Juli 2026. Blok Kasuri belum menyumbang produksi maupun pendapatan apa pun.",
+   "RATU menyatakan seluruh wilayah kerja tempatnya memiliki PI beroperasi normal sampai tanggal surat ini, tanpa unplanned shutdown akibat karhutla, dan tidak ada revisi target produksi 2026. Perusahaan juga menegaskan tidak ada dampak terhadap pendapatan, laba, atau nilai aset, tidak sedang menghadapi proses hukum atau sanksi administratif terkait karhutla, serta tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting pipeline valves at an onshore oil drilling site surrounded by dense tropical forest, overcast afternoon light",
+  "takeaway": "Tanggapan ini condong netral bagi RATU karena isinya konfirmasi bahwa tidak ada perubahan pada operasi, produksi, maupun pendapatan akibat karhutla, bukan kabar baru yang mengubah proyeksi kinerja perusahaan. Yang patut diperhatikan investor adalah besarnya ketergantungan pendapatan RATU pada satu wilayah kerja, karena Blok Jabung sendirian menyumbang 82,65% pendapatan perusahaan pada Juni 2026, sehingga gangguan apa pun di sana akan jauh lebih berat dampaknya dibanding blok lain. Produksi Madura Strait yang mencapai 45,3% dari total tapi baru mulai tercatat sebagai pendapatan sejak Juli 2026 juga berarti kontribusi penuhnya terhadap laba belum sepenuhnya terlihat di data yang sudah berjalan. Yang perlu dipantau berikutnya adalah kelanjutan proses pengalihan participating interest Blok Kasuri yang masih menunggu persetujuan SKK Migas dan Kementerian ESDM, serta apakah musim karhutla tahun ini meluas ke wilayah operasi mitra-mitra RATU yang sejauh ini masih dilaporkan berjalan normal.",
   "sentimen": "netral"
  },
  {

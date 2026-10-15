@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara",
+  "category": "UMKM",
+  "title": "10 Merek Kuliner RI Teken MoU Ekspansi ke [5] Negara",
+  "deck": "Pangan Nusa Expo 2026 dibuka berbarengan TEI ke-41 di ICE BSD City, menampilkan lebih dari 213 UMKM pangan dan penandatanganan 10 MoU ekspansi kuliner ke lima negara.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "imageV": "mv8rurns",
+  "tags": [
+   "UMKM",
+   "ekspor kuliner",
+   "Pangan Nusa Expo",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-pangan-nusa-expo-2026-mendag-busan-dorong-umkm-pangan-perluas-pasar-domestik-dan-global",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun",
   "category": "BUMN",
   "title": "[Hilirisasi] Bauksit Berpotensi Hemat Devisa Rp9 Triliun",
@@ -6479,22 +6497,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a9aa68556f_04c3679d27.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wins-jamin-utang-anak-usaha-ke-bank-mandiri-us-6-64-juta",
-  "category": "Aksi Korporasi",
-  "title": "WINS Jamin [Utang] Anak Usaha ke Bank Mandiri US$6,64 Juta",
-  "deck": "WINS memberi jaminan perusahaan maksimal US$6,64 juta untuk memuluskan refinancing kapal dan modal kerja anak usahanya, PT Wintermar, lewat fasilitas Bank Mandiri.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINS",
-   "jaminan perusahaan",
-   "Bank Mandiri",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de5c402f1b_4577b30194.pdf",
   "sourceLabel": "IDX"
  }
 ];

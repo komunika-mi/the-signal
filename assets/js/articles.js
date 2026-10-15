@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara",
+  "category": "UMKM",
+  "title": "10 Merek Kuliner RI Teken MoU Ekspansi ke [5] Negara",
+  "deck": "Pangan Nusa Expo 2026 dibuka berbarengan TEI ke-41 di ICE BSD City, menampilkan lebih dari 213 UMKM pangan dan penandatanganan 10 MoU ekspansi kuliner ke lima negara.",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-14T23:55:39.610Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-pangan-nusa-expo-2026-mendag-busan-dorong-umkm-pangan-perluas-pasar-domestik-dan-global",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "ekspor kuliner",
+   "Pangan Nusa Expo",
+   "Kemendag"
+  ],
+  "body": [
+   "Pameran Pangan Nusa Expo 2026 dibuka Menteri Perdagangan Budi Santoso di Indonesia Convention Exhibition (ICE) BSD City, Tangerang, Rabu (14/10), berlangsung bersamaan dengan Trade Expo Indonesia (TEI) ke-41 pada 14-18 Oktober 2026. Pameran ini mempertemukan lebih dari 213 pelaku usaha mikro, kecil, dan menengah (UMKM) pangan dan kuliner dengan calon pembeli langsung, sekaligus menjadi ajang penandatanganan 10 nota kesepahaman ekspansi kuliner Nusantara ke pasar luar negeri. Bagi pelaku UMKM pangan, ini membuka jalur nyata untuk masuk pasar ritel modern dan ekspansi usaha ke mancanegara, bukan sekadar ajang pamer produk.",
+   "Sepuluh nota kesepahaman yang diteken mencakup ekspansi merek kuliner Nusantara ke lima negara, yaitu India, Arab Saudi, Belanda, Malaysia, dan Mesir. Merek yang terlibat adalah Ai-CHA, Alnaim Fried Chicken, Baso Gejrot Indonesia, Cendol 18, Suwe Ora Jamu, Amanda Steamed Brownies, Sila Indonesia Artisan Tea, Sari Ratu Padang Restaurant, Coffee Bean Co, dan House of Indonesia Restaurant. Kerja sama ini berbentuk skema kemitraan, pembukaan cabang, atau waralaba yang didorong Kementerian Perdagangan agar pelaku usaha kuliner bisa tumbuh di pasar internasional.",
+   "Di sisi domestik, Direktur Jenderal Perdagangan Dalam Negeri Kemendag, Iqbal S. Shofwan, menyebut jumlah peserta Pangan Nusa Expo 2026 naik 15 persen dibanding tahun sebelumnya. Pameran ini juga memfasilitasi penjajakan bisnis antara UMKM dengan sekitar 50 pengusaha ritel modern dan pusat perbelanjaan, serta menghadirkan Kafe Sunyi yang mempekerjakan penyandang disabilitas sebagai barista. Salah satu peserta pameran, Angga, pelaku UMKM asal Tasikmalaya, Jawa Barat, memperkenalkan produk bakso instan dan wedang rempah buatannya kepada pengunjung. Kemendag juga mencontohkan merek kuliner yang telah berekspansi lebih dulu, seperti Kopi Kenangan yang membuka empat gerai di Taiwan, Pagi Sore yang sedang mengurus izin usaha di Roma dan Italia, serta Ampera yang memperluas usaha ke beberapa kota di Malaysia.",
+   "Ekspansi kuliner ke luar negeri ini berjalan lewat Program Rasa Rempah Indonesia (S'RASA) yang digarap Kemendag bersama Kementerian Luar Negeri dan sejumlah kementerian lain, dengan perwakilan dagang RI di luar negeri membantu mencarikan mitra usaha. Kemendag mengklaim potensi nilai transaksi dari fasilitasi ekspansi kuliner tahun ini lebih dari 30 kali lipat dibanding tahun lalu, meski angka tersebut merupakan proyeksi internal kementerian yang belum diverifikasi secara independen."
+  ],
+  "fotoAdegan": "Vendors arranging traditional Indonesian snacks and spice packets on display tables inside a busy convention hall",
+  "fotoSumber": "https://www.kemendag.go.id/albums/lp7SJLztXvpEhOoW57vPm0DIVPuGkDK3kviwme17.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret dari acara ini bukan seremoni pembukaannya, melainkan 10 nota kesepahaman yang membawa merek seperti Baso Gejrot, Cendol 18, dan Amanda Steamed Brownies membuka usaha di India, Arab Saudi, Belanda, Malaysia, dan Mesir. Yang terdampak adalah pelaku UMKM pangan yang ingin naik kelas ke pasar ekspor lewat kemitraan, pembukaan cabang, atau waralaba, bukan cuma menjual produk kemasan ke luar negeri, sementara bagi pengusaha ritel domestik acara ini jadi jalur mencari pasokan UMKM baru. Polanya menunjukkan pemerintah mengarahkan ekspansi kuliner Nusantara menjadi bagian dari strategi ekspor jasa yang lebih terstruktur, terlihat dari gerai Kopi Kenangan yang sudah berjalan di Taiwan dan program S'RASA bersama Kementerian Luar Negeri. Klaim Kemendag soal potensi transaksi tahun ini 30 kali lipat dari tahun lalu masih sepihak dan belum bisa diverifikasi, sehingga yang akan menentukan apakah arah ekspansi ini benar berjalan adalah apakah 10 MoU baru itu benar terealisasi menjadi gerai yang buka, bukan sekadar nota di atas kertas, dan itu baru akan terlihat dari laporan Kemendag pada penyelenggaraan TEI tahun depan.",
+  "imageV": "mv8rurns"
+ },
+ {
   "slug": "hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun",
   "category": "BUMN",
   "title": "[Hilirisasi] Bauksit Berpotensi Hemat Devisa Rp9 Triliun",

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "kXpk5F6mreY",
+  "title": "Kelangkaan BBM di Sejumlah SPBU di Bali Masih Terjadi",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Kelangkaan BBM di sejumlah SPBU di Bali masih berlangsung hingga Kamis (15/10/2026), membuat warga mengantre sejak malam karena pasokan belum merata.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti gangguan distribusi energi di salah satu daerah dengan aktivitas ekonomi dan wisata tertinggi di Indonesia.",
+  "terbit": "2026-10-15T12:00:35+00:00"
+ },
+ {
+  "id": "4DVLovM6bkU",
+  "title": "Bahlil Pastikan Stok BBM Nasional Aman 18 Hari ke Depan",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Menko Hilirisasi dan Transisi Energi sekaligus Menteri ESDM Bahlil Lahadalia memastikan stok BBM nasional aman hingga 18 hari ke depan, menyusul rapat dengan Pertamina terkait kelangkaan BBM di Bali.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut ketahanan pasokan energi nasional dan respons pemerintah atas gangguan distribusi BBM di daerah.",
+  "terbit": "2026-10-15T11:50:13+00:00"
+ },
+ {
   "id": "UEIro5vrB-s",
   "title": "Menkop Izinkan Kopdes Merah Putih Kelola Usaha Tambang",
   "category": "UMKM",

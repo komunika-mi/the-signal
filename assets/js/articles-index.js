@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-ri-ke-inggris-hadapi-skema-tarif-baru-2027",
+  "category": "Global",
+  "title": "Ekspor RI ke Inggris Hadapi Skema Tarif [Baru] 2027",
+  "deck": "Kemendag dan Inggris perkuat kerja sama dagang, sementara skema tarif ekspor Inggris untuk Indonesia akan berubah mulai Januari 2027.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "Indonesia-Inggris",
+   "Ekspor",
+   "Kemendag",
+   "Tarif Dagang"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-tegaskan-komitmen-perkuat-kerja-sama-strategis-dan-perdagangan-indonesia-inggris",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "kunjungan-wisman-capai-10-58-juta-investasi-pariwisata-melesat",
   "category": "Bisnis",
   "title": "Kunjungan Wisman Capai 10,58 Juta, [Investasi] Pariwisata Melesat",
@@ -26,7 +42,7 @@ var ARTICLES = [
   "title": "Wamendag Soroti Peran Swedia dalam [I-EU CEPA] di TEI 2026",
   "deck": "Wamendag Dyah Roro Esti menyoroti peran Swedia dalam I-EU CEPA di forum bisnis Trade Expo Indonesia 2026, dengan nilai dagang RI-Swedia mencapai US$872,2 juta pada 2025.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "I-EU CEPA",
    "Swedia",
@@ -1868,7 +1884,7 @@ var ARTICLES = [
   "title": "Pemerintah Pacu 3 [CEPA] Baru, Bidik Ekspor Sawit-Otomotif",
   "deck": "Pemerintah mendorong percepatan implementasi tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Eurasia agar manfaatnya benar-benar terasa pada ekspor sawit, otomotif, kopi, dan sejumlah komoditas lain.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -1967,7 +1983,7 @@ var ARTICLES = [
   "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
   "deck": "Pemerintah mendorong pemanfaatan nyata tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia yang menurut kajian Kemenko berpotensi menambah ekspor lebih dari US$14 miliar.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "ekspor",
    "perjanjian dagang",
@@ -1983,7 +1999,7 @@ var ARTICLES = [
   "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
   "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -1999,7 +2015,7 @@ var ARTICLES = [
   "title": "Jelang Penandatanganan [DEFA], Kemendag Latih Aparatur Dagang",
   "deck": "Kemendag melatih 40 aparatur soal tata kelola perdagangan digital ASEAN menjelang rencana penandatanganan DEFA di KTT ASEAN November 2026.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "DEFA",
    "ASEAN",
@@ -4679,7 +4695,7 @@ var ARTICLES = [
   "title": "KEK Kura-Kura Bali Diarahkan Jadi Hub Riset [AI] dan Semikonduktor",
   "deck": "Pemerintah mendorong KEK Kura-Kura Bali menjadi simpul riset AI, semikonduktor, dan teknologi kuantum lewat skema kerja sama industri Indonesia-Tiongkok Two Countries Twin Parks.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "KEK Kura-Kura Bali",
    "Investasi Tiongkok",
@@ -4826,7 +4842,7 @@ var ARTICLES = [
   "title": "Pabrik Konstruksi Tiongkok [Rp710 M] Beroperasi di KEK Kendal",
   "deck": "PT HSG Material Indonesia, bagian grup Fujian Hongsheng dari Tiongkok, mengoperasikan pabrik tiang pancang beton senilai Rp710 miliar di KEK Kendal dan menyerap hingga 400 tenaga kerja.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
+  "image": "assets/img/mesin-tekstil.jpg",
   "tags": [
    "KEK Kendal",
    "investasi Tiongkok",
@@ -5989,7 +6005,7 @@ var ARTICLES = [
   "title": "11 Proyek Hilirisasi Nikel Senilai [Rp180] Triliun Diluncurkan di IWIP",
   "deck": "Presiden Prabowo Subianto meluncurkan 11 proyek hilirisasi nikel senilai US$10,2 miliar di IWIP, Maluku Utara, sekaligus melepas ekspor perdana baterai kendaraan listrik.",
   "date": "9 Oktober 2026",
-  "image": "assets/img/mesin-tekstil.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "hilirisasi nikel",
    "IWIP",
@@ -6379,7 +6395,7 @@ var ARTICLES = [
   "title": "Wajib Halal Berlaku 18 Oktober, Aturan Turunan [Dikejar]",
   "deck": "Kewajiban sertifikasi halal, termasuk untuk alat kesehatan risiko A, resmi berlaku 18 Oktober 2026, sementara aturan teknis penahapannya ditargetkan rampung 11 Oktober.",
   "date": "8 Oktober 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "Wajib Halal",
    "BPJPH",
@@ -6488,22 +6504,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08102026-2960-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-revisi-laporan-dana-ipo-realisasi-capex-baru-67-6",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Revisi Laporan Dana IPO, Realisasi [Capex] Baru 67,6%",
-  "deck": "Pertamina Geothermal Energy mengoreksi laporan realisasi dana IPO per 30 Juni 2026: baru 67,6% dari Rp8,77 triliun terpakai, sisanya mengendap di deposito bank.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "penggunaan dana IPO",
-   "capex",
-   "Pertamina Geothermal Energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c9ef62b3bb_868ccc0dec.pdf",
   "sourceLabel": "IDX"
  }
 ];

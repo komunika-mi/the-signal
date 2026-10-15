@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "kXpk5F6mreY",
+  "title": "Kelangkaan BBM di Sejumlah SPBU di Bali Masih Terjadi",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Kelangkaan BBM di sejumlah SPBU di Bali masih berlangsung hingga Kamis (15/10/2026), membuat warga mengantre sejak malam karena pasokan belum merata.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti gangguan distribusi energi di salah satu daerah dengan aktivitas ekonomi dan wisata tertinggi di Indonesia."
+ },
+ {
+  "id": "4DVLovM6bkU",
+  "title": "Bahlil Pastikan Stok BBM Nasional Aman 18 Hari ke Depan",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Menko Hilirisasi dan Transisi Energi sekaligus Menteri ESDM Bahlil Lahadalia memastikan stok BBM nasional aman hingga 18 hari ke depan, menyusul rapat dengan Pertamina terkait kelangkaan BBM di Bali.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut ketahanan pasokan energi nasional dan respons pemerintah atas gangguan distribusi BBM di daerah."
+ },
+ {
   "id": "UEIro5vrB-s",
   "title": "Menkop Izinkan Kopdes Merah Putih Kelola Usaha Tambang",
   "category": "UMKM",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Satgas Kelitik",
   "summary": "Program ini mengulas isu penurunan kelas sosial ekonomi kelompok kelas menengah, sekaligus menyoroti dua tahun perjalanan Danantara dalam mengelola dan mengembangkan aset negara.",
   "takeaway": "Relevan bagi pembaca ekonomi karena membahas evaluasi kinerja Danantara sebagai pengelola aset negara dan kaitannya dengan kondisi daya beli kelas menengah."
- },
- {
-  "id": "rbKctMOqSa4",
-  "title": "Kadin Dorong Pengembangan Ekonomi Hijau",
-  "category": "Makroekonomi",
-  "program": "Kabar Hari Ini",
-  "summary": "Kamar Dagang dan Industri Indonesia mendorong pengembangan ekonomi hijau sebagai bagian dari upaya memperkuat pertumbuhan ekonomi yang berkelanjutan.",
-  "takeaway": "Relevan bagi pembaca karena menyangkut arah kebijakan dunia usaha dalam mendukung transisi ekonomi berkelanjutan di Indonesia."
- },
- {
-  "id": "9oyVVSNsJo8",
-  "title": "DPR Gelar Rapat Keputusan Tingkat I RUU Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "tvOneNews",
-  "summary": "DPR RI menggelar rapat kerja pengambilan keputusan tingkat pertama atas Rancangan Undang-Undang Pelindungan Ketenagakerjaan, dipimpin Wakil Ketua DPR Sufmi Dasco Ahmad.",
-  "takeaway": "Perkembangan RUU ini penting diikuti karena akan mengubah aturan main hubungan kerja antara pengusaha dan pekerja di Indonesia."
  }
 ];

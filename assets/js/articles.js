@@ -374,7 +374,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan status resmi Indonesia, melainkan tahap tekniSnya: sejak Juni 2026 Indonesia baru masuk fase diskusi awal dengan Komisi CPTPP, belum pada pembentukan Accession Working Group yang menjadi syarat formal sebelum negosiasi keanggotaan benar-benar dimulai. Pihak yang akan terdampak kalau proses ini berlanjut adalah pelaku usaha ekspor-impor dan investor yang mengincar pasar CPTPP seperti Jepang, Kanada, dan Meksiko, serta sektor yang diatur ketat dalam standar CPTPP seperti BUMN, perdagangan digital, dan persaingan usaha, karena merekalah yang paling mungkin perlu menyesuaikan aturan domestik. Siaran pers ini belum bisa menjawab kapan Accession Working Group akan terbentuk, karena menurut Kemenko Perekonomian itu masih bergantung pada prosedur dan konsensus seluruh anggota CPTPP. Yang perlu dipantau adalah hasil respons Indonesia atas dokumen indicative checklist itu, karena itulah yang akan menentukan apakah proses aksesi bisa bergerak ke tahap pembentukan kelompok kerja resmi.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "ri-bahas-ancaman-komputasi-kuantum-ke-keamanan-data-digital",
@@ -402,7 +402,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini bukan aturan baru, melainkan tanda bahwa pemerintah mulai memetakan risiko komputer kuantum sebelum teknologi itu benar-benar mampu membongkar kode pengaman data, lewat gugus tugas BSSN yang sudah dibagi ke kelompok kebijakan, teknis, dan industri. Pihak yang kena dampak lebih dulu adalah bank dan penyedia layanan digital yang menyimpan data sensitif untuk jangka panjang, sebab data yang disadap orang lain hari ini berisiko dibongkar kalau standar pengamanannya belum diperbarui. Arahnya masih berupa persiapan dan edukasi, bukan kewajiban yang mengikat, sehingga ini bergerak ke penguatan bertahap lewat peta jalan ketimbang regulasi mendadak. Yang akan menentukan seberapa cepat agenda ini berjalan adalah penandatanganan ASEAN DEFA yang dijadwalkan November ini, karena dari situ akan terlihat apakah komitmen keamanan digital kawasan ini diikuti langkah konkret atau masih sebatas kesepakatan di atas kertas.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "esdm-kejar-listrik-ke-11-000-desa-target-2029-2030",

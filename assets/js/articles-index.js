@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "utang-luar-negeri-ri-naik-5-6-jadi-us-459-3-miliar",
+  "category": "Makroekonomi",
+  "title": "Utang Luar Negeri RI [Naik] 5,6% jadi US$459,3 Miliar",
+  "deck": "Utang luar negeri Indonesia naik 5,6 persen jadi US$459,3 miliar pada Agustus 2026, ditopang arus modal asing ke surat utang pemerintah dan BI, sementara utang swasta menyusut.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/utang-luar-negeri-ri-naik-5-6-jadi-us-459-3-miliar.jpg",
+  "imageV": "mv94s6ot",
+  "tags": [
+   "utang luar negeri",
+   "Bank Indonesia",
+   "SRBI",
+   "surat utang negara"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822126.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "bank-bjb-perluas-akses-beli-obligasi-ritel-sbr015",
+  "category": "Pasar Modal",
+  "title": "Bank bjb Perluas Akses Beli Obligasi Ritel [SBR015]",
+  "deck": "SBR015 ditawarkan 28 September-22 Oktober 2026 dengan kupon awal 6,75% (tenor 2 tahun) dan 6,85% (tenor 4 tahun). Bank bjb menyediakan kanal digital untuk pembeliannya.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/bank-bjb-perluas-akses-beli-obligasi-ritel-sbr015.jpg",
+  "imageV": "mv94s75c",
+  "tags": [
+   "SBR015",
+   "SBN Ritel",
+   "bank bjb",
+   "BI Rate"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473134-sbr015-hadir-bank-bjb-buka-akses-investasi-sbn-ritel-bagi-masyarakat"
+ },
+ {
   "slug": "lapd-akuisisi-bss-rp59-43-miliar-terbitkan-saham-baru-rp100-m",
   "category": "Aksi Korporasi",
   "title": "LAPD Akuisisi [BSS] Rp59,43 Miliar, Terbitkan Saham Baru Rp100 M",
@@ -83,6 +118,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e71e7abb64_a1ba6d4086.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pertamina-patra-niaga-genjot-pemulihan-bbm-di-bali",
+  "category": "Energi",
+  "title": "Pertamina Patra Niaga [Genjot] Pemulihan BBM di Bali",
+  "deck": "Pertamina Patra Niaga menambah pasokan 57,9 juta liter BBM dan jam operasional SPBU di Bali untuk mempercepat pemulihan layanan.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/pertamina-patra-niaga-genjot-pemulihan-bbm-di-bali.jpg",
+  "imageV": "mv94s7kb",
+  "tags": [
+   "Pertamina",
+   "BBM Bali",
+   "SPBU",
+   "Pertamina Patra Niaga"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473120-percepat-pemulihan-layanan-bbm-di-bali-pertamina-patra-niaga-kerahkan-berbagai-upaya"
  },
  {
   "slug": "presiden-prabowo-pangkas-biaya-logistik-lewat-perpres-baru",
@@ -6451,54 +6503,6 @@ var ARTICLES = [
    "Rapat Umum Pemegang Saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe410f6e2b_cb13e6545d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpix-madura-prima-divestasi-27-5-juta-saham-hak-suara-58-24",
-  "category": "Aksi Korporasi",
-  "title": "MPIX: Madura Prima [Divestasi] 27,5 Juta Saham, Hak Suara 58,24%",
-  "deck": "Madura Prima Investama melepas 27,5 juta saham MPIX pada 5 Oktober 2026 seharga Rp75 per saham, hak suaranya turun dari 59,99% menjadi 58,24%.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPIX",
-   "kepemilikan saham",
-   "divestasi",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07102026-7424-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beks-dana-it-rp215-m-baru-18-terealisasi-sisa-di-fasbi",
-  "category": "Aksi Korporasi",
-  "title": "BEKS: Dana IT Rp215 M Baru [18%] Terealisasi, Sisa di FASBI",
-  "deck": "Bank Banten baru merealisasikan 18,5 persen dari Rp215,1 miliar dana rights issue 2021 untuk perbaikan IT, sisa Rp175,3 miliar mengendap di FASBI.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEKS",
-   "rights issue",
-   "penggunaan dana",
-   "Bank Banten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/faad5d6a30_645a602d98.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beks-rilis-koreksi-laporan-dana-rights-issue-rp1-87-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BEKS Rilis [Koreksi] Laporan Dana Rights Issue Rp1,87 Triliun",
-  "deck": "Bank Banten mengoreksi laporan realisasi dana rights issue 2020 senilai Rp1,87 triliun; porsi untuk pengembangan TI tercatat jauh di bawah rencana awal.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEKS",
-   "Bank Banten",
-   "rights issue",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3a813bb8db_c84661a35b.pdf",
   "sourceLabel": "IDX"
  }
 ];

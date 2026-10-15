@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "utang-luar-negeri-ri-naik-5-6-jadi-us-459-3-miliar",
+  "category": "Makroekonomi",
+  "title": "Utang Luar Negeri RI [Naik] 5,6% jadi US$459,3 Miliar",
+  "deck": "Utang luar negeri Indonesia naik 5,6 persen jadi US$459,3 miliar pada Agustus 2026, ditopang arus modal asing ke surat utang pemerintah dan BI, sementara utang swasta menyusut.",
+  "image": "assets/img/utang-luar-negeri-ri-naik-5-6-jadi-us-459-3-miliar.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T05:57:21.935Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822126.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "utang luar negeri",
+   "Bank Indonesia",
+   "SRBI",
+   "surat utang negara"
+  ],
+  "body": [
+   "Bank Indonesia mencatat posisi utang luar negeri Indonesia pada Agustus 2026 sebesar US$459,3 miliar, tumbuh 5,6 persen dibanding periode yang sama tahun lalu. Kenaikan ini ditopang oleh utang sektor publik, yaitu pemerintah dan bank sentral, sementara utang milik perusahaan swasta justru menyusut. Angka ini penting karena menggambarkan seberapa besar pembiayaan ekonomi Indonesia masih bergantung pada dana dari luar negeri, dan dari mana sumber dana itu berasal.",
+   "Utang pemerintah tercatat US$220,9 miliar, naik 3,3 persen secara tahunan, terutama karena investor asing membeli lebih banyak Surat Berharga Negara (SBN). Dana dari utang ini mengalir ke sejumlah sektor, dengan porsi terbesar untuk jasa kesehatan dan kegiatan sosial (22,0 persen), administrasi pemerintahan, pertahanan, dan jaminan sosial (20,7 persen), jasa pendidikan (16,2 persen), konstruksi (11,4 persen), serta transportasi dan pergudangan (8,5 persen). Di luar itu, utang bank sentral juga naik, didorong oleh kepemilikan asing yang bertambah pada Sekuritas Rupiah Bank Indonesia (SRBI), surat utang jangka pendek berdenominasi rupiah yang diterbitkan BI untuk menarik dana asing sekaligus menjaga stabilitas nilai tukar rupiah.",
+   "Berbeda arah, utang luar negeri swasta tercatat US$195,6 miliar, turun 0,8 persen secara tahunan. Penurunan terjadi baik pada perusahaan non-keuangan maupun perusahaan di sektor keuangan, yang masing-masing terkontraksi 0,8 persen dan 0,6 persen. Sebagian besar utang swasta ini berasal dari sektor industri pengolahan, jasa keuangan dan asuransi, pengadaan listrik dan gas, serta pertambangan dan penggalian, yang bersama-sama menyumbang 80,5 persen dari total utang swasta.",
+   "Secara keseluruhan, rasio utang luar negeri terhadap produk domestik bruto (PDB) tercatat 30,9 persen pada Agustus 2026, dengan mayoritas utang berjangka panjang baik di sisi pemerintah maupun swasta."
+  ],
+  "fotoAdegan": "Cargo ship being loaded with containers by port cranes at a busy Indonesian harbor, late afternoon light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2727325/Rilis-Utang-Luar-Negeri.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah di sini bukan cuma angka totalnya, tapi komposisinya. Utang pemerintah dan bank sentral naik karena investor asing membeli lebih banyak surat utang negara dan Sekuritas Rupiah Bank Indonesia, yakni surat utang jangka pendek berdenominasi rupiah yang diterbitkan BI untuk menarik dana asing dan menahan nilai tukar rupiah. Sementara itu, utang perusahaan swasta, baik di sektor keuangan maupun di luar sektor keuangan, justru menyusut. Pola ini berarti dana yang masuk ke Indonesia saat ini lebih banyak mengalir ke instrumen surat utang yang mudah keluar masuk pasar modal, ketimbang ke pinjaman langsung untuk ekspansi usaha riil seperti pabrik atau proyek swasta, dan yang paling merasakan dampaknya adalah pelaku usaha di industri manufaktur, listrik dan gas, serta pertambangan. Arah ini perlu dicek lagi lewat data kepemilikan asing di SRBI pada rilis Statistik Utang Luar Negeri Indonesia edisi November untuk periode September, terutama jika nilai tukar rupiah kembali mendapat tekanan.",
+  "imageV": "mv94s6ot"
+ },
+ {
+  "slug": "bank-bjb-perluas-akses-beli-obligasi-ritel-sbr015",
+  "category": "Pasar Modal",
+  "title": "Bank bjb Perluas Akses Beli Obligasi Ritel [SBR015]",
+  "deck": "SBR015 ditawarkan 28 September-22 Oktober 2026 dengan kupon awal 6,75% (tenor 2 tahun) dan 6,85% (tenor 4 tahun). Bank bjb menyediakan kanal digital untuk pembeliannya.",
+  "image": "assets/img/bank-bjb-perluas-akses-beli-obligasi-ritel-sbr015.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T12:08:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473134-sbr015-hadir-bank-bjb-buka-akses-investasi-sbn-ritel-bagi-masyarakat",
+  "tags": [
+   "SBR015",
+   "SBN Ritel",
+   "bank bjb",
+   "BI Rate"
+  ],
+  "body": [
+   "Pemerintah kembali menerbitkan surat utang ritel, kali ini seri SBR015, yang bisa dibeli masyarakat lewat berbagai kanal termasuk layanan digital bank bjb. Ini penting bagi masyarakat yang ingin mulai berinvestasi dengan modal kecil, karena SBN ritel dirancang agar bisa dibeli dengan nominal yang disesuaikan kemampuan finansial masing-masing, sekaligus menjadi salah satu sumber pembiayaan pembangunan negara.",
+   "Masa penawaran SBR015 berlangsung 28 September hingga 22 Oktober 2026, dengan dua pilihan jangka waktu, yaitu SBR015T2 selama dua tahun dan SBR015T4 selama empat tahun. Kupon awal yang ditawarkan masing-masing 6,75 persen per tahun untuk tenor dua tahun dan 6,85 persen per tahun untuk tenor empat tahun, yaitu imbal hasil yang akan diterima investor secara berkala selama masa investasi.",
+   "Kedua seri ini memakai skema kupon mengambang dengan batas bawah. Artinya, besaran kupon bisa berubah mengikuti suku bunga acuan Bank Indonesia, tetapi pemerintah sudah menetapkan batas minimum sehingga kupon tidak akan turun di bawah angka itu meski suku bunga acuan turun. Sebaliknya, jika suku bunga acuan naik, kupon SBR015 juga berpotensi naik. Kupon awal ditetapkan dari suku bunga acuan ditambah selisih tetap, yaitu suku bunga acuan plus 1 persen untuk tenor dua tahun dan plus 1,1 persen untuk tenor empat tahun.",
+   "Bank bjb menyediakan akses pembelian SBR015 melalui layanan digitalnya, menjadikan bank ini salah satu mitra distribusi yang memudahkan masyarakat memesan instrumen ini secara online tanpa perlu datang ke kantor cabang."
+  ],
+  "fotoAdegan": "A young professional sitting at a cafe table with a cup of coffee, checking a smartphone, laptop nearby, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6ad05e4bc6ddc-bank-bjb-obligasi-ritel_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturannya, melainkan tersedianya seri baru SBN ritel dengan kupon awal yang dipatok dari suku bunga acuan Bank Indonesia ditambah selisih tetap, yaitu 6,75 persen untuk tenor dua tahun dan 6,85 persen untuk tenor empat tahun, plus jaminan kupon tidak akan turun di bawah batas minimum yang sudah ditetapkan. Yang terdampak langsung adalah masyarakat calon investor ritel yang membeli lewat kanal digital seperti milik bank bjb, karena besar kecilnya penghasilan kupon mereka ke depan akan mengikuti arah suku bunga acuan, bukan angka tetap. Dengan skema ini, nasib imbal hasil investor bergerak searah dengan kebijakan suku bunga Bank Indonesia, naik kalau suku bunga naik, dan tertahan di batas bawah kalau suku bunga turun. Yang akan memastikan arah mana yang berlaku adalah keputusan Rapat Dewan Gubernur Bank Indonesia berikutnya serta hasil akhir penawaran SBR015 setelah periode penawarannya ditutup pada 22 Oktober 2026.",
+  "imageV": "mv94s75c"
+ },
+ {
   "slug": "lapd-akuisisi-bss-rp59-43-miliar-terbitkan-saham-baru-rp100-m",
   "category": "Aksi Korporasi",
   "title": "LAPD Akuisisi [BSS] Rp59,43 Miliar, Terbitkan Saham Baru Rp100 M",
@@ -134,6 +189,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pertamina-patra-niaga-genjot-pemulihan-bbm-di-bali",
+  "category": "Energi",
+  "title": "Pertamina Patra Niaga [Genjot] Pemulihan BBM di Bali",
+  "deck": "Pertamina Patra Niaga menambah pasokan 57,9 juta liter BBM dan jam operasional SPBU di Bali untuk mempercepat pemulihan layanan.",
+  "image": "assets/img/pertamina-patra-niaga-genjot-pemulihan-bbm-di-bali.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T10:53:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473120-percepat-pemulihan-layanan-bbm-di-bali-pertamina-patra-niaga-kerahkan-berbagai-upaya",
+  "tags": [
+   "Pertamina",
+   "BBM Bali",
+   "SPBU",
+   "Pertamina Patra Niaga"
+  ],
+  "body": [
+   "PT Pertamina Patra Niaga mengerahkan sejumlah langkah untuk mempercepat pulihnya layanan bahan bakar minyak di Bali, mulai dari penambahan pasokan, perpanjangan jam buka SPBU, penguatan personel, hingga penambahan armada truk tangki. Upaya ini penting karena menyangkut akses masyarakat Bali terhadap BBM, yang belakangan sempat tersendat di sejumlah titik pengisian.",
+   "Dari sisi pasokan, perusahaan mendatangkan kapal tanker secara bertahap pada 14 hingga 17 Oktober 2026 melalui Terminal Manggis dan Terminal Sanggaran. Total tambahan pasokan yang dijadwalkan mencapai 57,9 juta liter, terdiri dari 44,9 juta liter Pertalite dan 13 juta liter Pertamax. Tambahan ini diharapkan memperkuat stok BBM sekaligus memperlancar pengiriman ke SPBU-SPBU di Bali.",
+   "Di Kota Denpasar, jumlah SPBU yang beroperasi selama 24 jam ditambah dari sebelumnya 24 unit menjadi 60 unit, agar masyarakat punya lebih banyak pilihan waktu untuk mengisi BBM. Pertamina Patra Niaga juga menambah operator SPBU cadangan dan berkoordinasi dengan Kodam IX/Udayana untuk mendukung kebutuhan personel di lapangan, serta menambah jumlah mobil tangki yang mengangkut BBM ke stasiun pengisian.",
+   "Vice President Corporate Communication Pertamina Patra Niaga, Kitty Andhora, mengatakan seluruh langkah itu dijalankan secara terpadu dan merupakan hasil koordinasi lintas fungsi, dengan tetap mengutamakan aspek keselamatan dalam proses distribusi. Ia menyebut penguatan pasokan, perluasan jam operasional, serta kesiapan personel dan armada sebagai fokus utama perusahaan agar penyaluran BBM ke masyarakat Bali kembali optimal."
+  ],
+  "fotoAdegan": "Fuel tanker truck refilling an underground storage tank at a busy gas station forecourt in Bali, motorbikes queuing nearby at dusk.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6ad04d8b67b8b-percepat-pemulihan-layanan-bbm-di-bali-pertamina-patra-niaga-kerahkan-berbagai-upaya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah pasokan BBM ke Bali ditambah 57,9 juta liter lewat kapal tanker yang didatangkan hanya dalam rentang empat hari, 14 sampai 17 Oktober, dan jumlah SPBU yang buka 24 jam di Denpasar dilipatkan dari 24 menjadi 60. Yang langsung kena dampak adalah pengendara dan pelaku usaha di Bali yang selama ini kesulitan mengisi BBM, dengan Denpasar jadi titik yang dibenahi lebih dulu. Karena tambahan pasokan ini dijadwalkan hanya sampai 17 Oktober dan disebut sebagai bagian dari pemulihan, langkah ini lebih terlihat sebagai respons darurat untuk mengatasi gangguan yang sudah terjadi, bukan penambahan kapasitas distribusi yang permanen. Yang akan memastikan arah itu adalah apakah 60 SPBU dengan jam operasional 24 jam dan pasokan tambahan ini tetap dipertahankan setelah jadwal kapal selesai pada 17 Oktober, atau justru kembali ke pola sebelumnya begitu tekanan pasokan mereda.",
+  "imageV": "mv94s7kb"
+ },
+ {
   "slug": "presiden-prabowo-pangkas-biaya-logistik-lewat-perpres-baru",
   "category": "Makroekonomi",
   "title": "Presiden Prabowo [Pangkas] Biaya Logistik Lewat Perpres Baru",
@@ -159,7 +241,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah payung hukumnya: Perpres 41/2026 menugaskan Kemenko Perekonomian mengoordinasikan logistik nasional, dan lewat Permenko 10/2026 sektor angkutan truk kini bisa mengakses kredit industri padat karya untuk meremajakan armadanya. Yang terdampak langsung adalah pengusaha truk yang armadanya menua, penyedia jasa logistik yang perlu sertifikasi baru, dan industri berorientasi ekspor yang ongkos kirimnya ikut ditentukan oleh biaya logistik domestik. Arahnya terlihat dari pola yang sama, digitalisasi logistik yang tadinya cuma mengurus perizinan antarinstansi pemerintah kini diperluas jadi satu sistem yang mencakup seluruh transaksi, dibarengi dorongan memindahkan sebagian muatan dari truk ke kombinasi kereta api dan kapal laut. Yang akan membuktikan apakah strategi ini benar menekan ongkos logistik adalah data pembanding berikutnya, sebab angka 14,29 persen dari PDB yang dipakai siaran ini masih data tahun 2022, sehingga pembaca perlu menunggu rilis data terbaru untuk melihat apakah rasio itu sungguh turun.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pemerintah-targetkan-42-6-gw-listrik-dari-ebt-hingga-2034",

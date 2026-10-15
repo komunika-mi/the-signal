@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-15T01:51:04.123+07:00",
+ "diperbarui": "2026-10-16T01:32:07.943+07:00",
  "entri": [
+  {
+   "id": "2026-10-15-3",
+   "edisi": "2026-10-15",
+   "benang": "Substitusi Impor Energi Meluas, Nikel Melandai",
+   "klaim": "Arahnya terbaca sebagai perluasan substitusi impor ke komoditas baru seperti bauksit dan gas, sementara hilirisasi nikel yang basisnya sudah besar mulai memasuki fase pertumbuhan yang lebih moderat.",
+   "penanda": "Realisasi investasi RUPTL EBT serta data ekspor nikel pada kuartal mendatang",
+   "tenggat": "2027-03-31",
+   "tenggatLabel": "kuartal mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-15-2",
+   "edisi": "2026-10-15",
+   "benang": "Tekanan Utang dan Ekuitas Negatif Berlanjut",
+   "klaim": "Tekanan utang dan ekuitas negatif pada Pos Indonesia, ADHI, LAPD, CANI, dan DIGI melanjutkan pola yang sama dengan edisi kemarin dan arahnya belum berbalik.",
+   "penanda": "Keputusan pemegang sukuk Pos Indonesia soal restrukturisasi dan hasil RUPSLB ADHI serta LAPD mengenai rencana penyehatan keuangan masing-masing",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-15-1",
+   "edisi": "2026-10-15",
+   "benang": "Gelombang Klarifikasi Karhutla ke Puluhan Emiten",
+   "klaim": "Klaim seragam puluhan emiten yang diklarifikasi BEI soal karhutla, bahwa dampaknya tidak material, masih sepihak dari manajemen dan keandalannya baru akan teruji lewat ada tidaknya verifikasi independen atau koreksi susulan seperti yang terjadi pada Jaya Agra Wattie (JAWA).",
+   "penanda": "Ada tidaknya verifikasi independen atau koreksi susulan atas klaim tidak ada dampak material, seperti kasus koreksi keterangan Jaya Agra Wattie (JAWA)",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-14-3",
    "edisi": "2026-10-14",

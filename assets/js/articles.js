@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indonesia-dan-timor-leste-teken-bit-lindungi-investasi-dua-negara",
+  "category": "Global",
+  "title": "Indonesia dan Timor-Leste Teken [BIT], Lindungi Investasi Dua Negara",
+  "deck": "Indonesia dan Timor-Leste menandatangani perjanjian investasi bilateral yang mengatur promosi, kemudahan, dan perlindungan hukum investasi di tengah perdagangan dua negara senilai US$150 juta.",
+  "image": "assets/img/indonesia-dan-timor-leste-teken-bit-lindungi-investasi-dua-negara.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T09:09:04.849Z",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/indonesia-dan-timor-leste-teken-bit-buka-peluang-kerja-sama-ekonomi-lebih-luas",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "tags": [
+   "BIT",
+   "Investasi",
+   "Timor-Leste",
+   "BKPM"
+  ],
+  "body": [
+   "Indonesia dan Timor-Leste menandatangani perjanjian investasi bilateral atau BIT, sebuah kesepakatan yang mengatur bagaimana investasi dari satu negara diperlakukan dan dilindungi di negara lainnya. Penandatanganan dilakukan oleh Menteri Investasi dan Hilirisasi Rosan Roeslani serta Wakil Perdana Menteri Timor-Leste Francisco Kalbuadi Lay. Perjanjian ini penting karena kehadiran bisnis Indonesia di Timor-Leste sudah berjalan lama secara informal, dan kini mendapat payung hukum yang lebih jelas.",
+   "BIT ini terdiri dari tiga bagian utama. Pertama, promosi investasi untuk menciptakan iklim usaha yang ramah bagi investor dari kedua negara. Kedua, fasilitasi yang menyederhanakan proses investasi lewat transparansi dan efisiensi. Ketiga, pelindungan yang menjamin perlakuan adil serta jalur hukum bagi investor jika terjadi sengketa, sambil tetap mengakui hak masing-masing negara mengatur kebijakan nasionalnya sendiri.",
+   "Saat ini sudah ada sekitar 120 perusahaan swasta Indonesia yang beroperasi di Timor-Leste, didampingi sejumlah BUMN besar seperti Bank BRI, Bank Mandiri, Pegadaian, Telkomsel, Pertamina International Timor, Waskita Karya, PT PP, dan Adhi Karya. Dari sisi perdagangan, Indonesia memasok kendaraan dan suku cadangnya, produk olahan tepung, serta lemak dan minyak hewani ke Timor-Leste, dengan nilai perdagangan yang disebutkan mencapai US$150 juta. Sebaliknya, Timor-Leste mengekspor kopi, teh, rempah-rempah, serta mesin dan peralatan mekanik ke Indonesia.",
+   "Ke depan, kedua negara membidik kolaborasi di sektor industri hilir dan manufaktur, infrastruktur, energi terbarukan, logistik, real estat, hingga teknologi digital. Rosan menyebut arahan Presiden Prabowo Subianto adalah memprioritaskan hubungan baik dengan negara tetangga, karena kondisi Timor-Leste dinilai berdampak langsung pada Indonesia."
+  ],
+  "fotoAdegan": "Workers unloading sacks of coffee beans from a truck at a rural border trade post, hilly landscape, midday light.",
+  "fotoSumber": "https://bkpm.go.id/storage/image/origin/webp/I6rS7Zomhw3EmSzzwsbdi9uvcT1MJW.webp",
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "takeaway": "Yang berubah adalah status hubungan investasi Indonesia-Timor Leste, dari sekadar kehadiran bisnis informal menjadi diatur lewat perjanjian resmi yang menjamin promosi, kemudahan proses, dan perlindungan hukum bagi investor. Pihak yang langsung terdampak adalah sekitar 120 perusahaan swasta Indonesia dan BUMN besar seperti BRI, Bank Mandiri, Telkomsel, serta Pertamina yang sudah beroperasi di Timor-Leste, karena mereka kini punya dasar hukum tambahan jika terjadi perubahan kebijakan atau sengketa di sana. Perjanjian semacam ini baru benar-benar mengikat setelah diratifikasi oleh parlemen di kedua negara, dan siaran pers ini tidak menyebutkan kapan proses ratifikasi akan selesai atau kapan perjanjian mulai berlaku secara hukum. Yang perlu dipantau adalah jadwal pengesahan di DPR RI dan parlemen Timor-Leste, karena itu yang akan menentukan apakah perlindungan investasi ini sudah bisa dipakai perusahaan atau masih sebatas kesepakatan di atas kertas.",
+  "imageV": "mv9boifn"
+ },
+ {
+  "slug": "27-provinsi-masukkan-ekonomi-syariah-ke-rencana-pembangunan",
+  "category": "Makroekonomi",
+  "title": "27 Provinsi Masukkan Ekonomi [Syariah] ke Rencana Pembangunan",
+  "deck": "Bank Indonesia mendorong pemaduan dana zakat dan wakaf dengan pembiayaan bank syariah untuk UMKM, seiring 27 provinsi memasukkan ekonomi syariah ke rencana pembangunan daerah.",
+  "image": "assets/img/27-provinsi-masukkan-ekonomi-syariah-ke-rencana-pembangunan.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T09:08:01.209Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822226.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "ekonomi syariah",
+   "UMKM",
+   "ISEF 2026",
+   "Bank Indonesia"
+  ],
+  "body": [
+   "Bank Indonesia membuka Forum Sinergi Pusat dan Daerah dalam rangkaian Indonesia Sharia Economic Festival (ISEF) 2026 di Jakarta, mendorong pemaduan pembiayaan sosial syariah seperti zakat dan wakaf dengan pembiayaan komersial syariah untuk memperluas akses modal pelaku usaha. Fokusnya adalah usaha mikro, kecil, dan menengah yang belum sepenuhnya memenuhi syarat pembiayaan perbankan biasa, sehingga pemaduan dua jalur dana ini bisa jadi jalan tengah bagi mereka untuk berkembang bertahap.",
+   "Deputi Gubernur BI Solikin M. Juhro menyebut tiga strategi utama: penguatan Komite Daerah Ekonomi dan Keuangan Syariah (KDEKS) agar program antarlembaga di daerah tidak tumpang tindih, pengembangan rantai produk halal dari hulu ke hilir, serta perluasan akses pembiayaan syariah. Ketiganya dikemas BI sebagai pendekatan 'Sinergi Produktif, Sinergi Pembiayaan, Sinergi Partisipasi', yang intinya mempertemukan sektor usaha unggulan tiap daerah dengan sumber dana yang cocok.",
+   "Secara konkret, 27 provinsi tercatat sudah memasukkan pengembangan ekonomi syariah ke dalam rencana pembangunan jangka panjang dan menengah daerah (RPJPD/RPJMD), dan 23 provinsi di antaranya bahkan sudah mencantumkan indikator ekonomi syariah yang bisa diukur dalam RPJMD. Pada forum ini juga dikukuhkan KDEKS di berbagai daerah sebagai simpul koordinasi dengan Komite Nasional Ekonomi dan Keuangan Syariah (KNEKS) di tingkat pusat.",
+   "Wakil Presiden ke-13 Ma'ruf Amin, yang turut hadir, menyampaikan bahwa menurutnya ekonomi syariah harus menjadi 'arus baru' perekonomian nasional, bukan sekadar pelengkap. KNEKS bersama Kementerian PPN/Bappenas dan Kemendagri, dengan dukungan BI, juga sedang memutakhirkan Panduan Kolaborasi Lintas Urusan Daerah agar pengembangan ekonomi syariah selaras dengan nomenklatur perencanaan pembangunan daerah. ISEF 2026 berlangsung 14 sampai 18 Oktober di Jakarta International Convention Center."
+  ],
+  "fotoAdegan": "A small leather goods maker stitching products by hand in a modest workshop, sunlight through an open doorway, Indonesia",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2822226/Cover-sp_2822226.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah bukan sekadar forum tahunan, tapi sinyal pelembagaan ekonomi syariah di tingkat daerah: 27 provinsi kini memasukkan pengembangan ekonomi syariah ke rencana pembangunan jangka panjang dan menengahnya, dan 23 provinsi sudah mencantumkan indikator terukurnya. Yang terdampak langsung adalah pelaku UMKM yang mengandalkan kombinasi dana zakat atau wakaf dengan pembiayaan bank syariah, disebut blended finance, untuk modal usaha, serta pemerintah daerah yang kini punya KDEKS resmi sebagai simpul koordinasi dengan KNEKS di pusat. Pola ini mengarah ke pergeseran dari wacana nasional menjadi kewajiban administratif daerah, karena provinsi yang belum memasukkan indikator syariah ke RPJMD kini tertinggal dari 23 provinsi yang sudah. Yang akan menentukan apakah ini benar-benar bergerak atau berhenti di dokumen perencanaan adalah pembaruan Panduan Kolaborasi Lintas Urusan Daerah yang sedang disusun KNEKS, Bappenas, dan Kemendagri, serta apakah provinsi lain menyusul menambahkan indikator ke RPJMD mereka.",
+  "imageV": "mv9booiw"
+ },
+ {
   "slug": "saham-cani-dapat-tambahan-kriteria-pemantauan-khusus",
   "category": "Aksi Korporasi",
   "title": "Saham CANI Dapat Tambahan Kriteria [Pemantauan Khusus]",
@@ -211,6 +267,59 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah di sini bukan cuma angka totalnya, tapi komposisinya. Utang pemerintah dan bank sentral naik karena investor asing membeli lebih banyak surat utang negara dan Sekuritas Rupiah Bank Indonesia, yakni surat utang jangka pendek berdenominasi rupiah yang diterbitkan BI untuk menarik dana asing dan menahan nilai tukar rupiah. Sementara itu, utang perusahaan swasta, baik di sektor keuangan maupun di luar sektor keuangan, justru menyusut. Pola ini berarti dana yang masuk ke Indonesia saat ini lebih banyak mengalir ke instrumen surat utang yang mudah keluar masuk pasar modal, ketimbang ke pinjaman langsung untuk ekspansi usaha riil seperti pabrik atau proyek swasta, dan yang paling merasakan dampaknya adalah pelaku usaha di industri manufaktur, listrik dan gas, serta pertambangan. Arah ini perlu dicek lagi lewat data kepemilikan asing di SRBI pada rilis Statistik Utang Luar Negeri Indonesia edisi November untuk periode September, terutama jika nilai tukar rupiah kembali mendapat tekanan.",
   "imageV": "mv94s6ot"
+ },
+ {
+  "slug": "bank-bjb-luncurkan-kartu-atm-edisi-persib-untuk-bobotoh",
+  "category": "Perbankan",
+  "title": "bank bjb Luncurkan Kartu ATM [Edisi] PERSIB untuk Bobotoh",
+  "deck": "bank bjb menghadirkan kartu ATM bertema PERSIB untuk mendekatkan diri ke komunitas Bobotoh sekaligus mendorong pembukaan rekening lewat aplikasi digital DIGI.",
+  "image": "assets/img/bank-bjb-luncurkan-kartu-atm-edisi-persib-untuk-bobotoh.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T12:54:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473142-dekat-dengan-bobotoh-bank-bjb-permudah-kepemilikan-kartu-atm-bank-bjb-edisi-persib",
+  "tags": [
+   "bank bjb",
+   "PERSIB",
+   "Bobotoh",
+   "DIGI bank bjb"
+  ],
+  "body": [
+   "Bank bjb memperkenalkan kartu ATM dengan desain khusus bertema PERSIB, klub sepak bola kebanggaan Jawa Barat, sebagai produk baru yang bisa dipilih nasabah maupun calon nasabah. Langkah ini disebut sebagai bagian dari strategi bank milik pemerintah daerah tersebut untuk memperkuat transformasi digital sekaligus membangun kedekatan dengan komunitas suporter, Bobotoh, yang selama ini punya basis massa besar di Jawa Barat.",
+   "Menurut bank bjb, kartu edisi PERSIB ini bukan sekadar produk fungsional untuk transaksi harian, tapi juga dimaksudkan untuk menghadirkan kedekatan emosional dengan nasabah yang merasa menjadi bagian dari ekosistem klub. Kartu ini melengkapi layanan digital bank bjb lewat aplikasi DIGI, yang selama ini sudah memungkinkan masyarakat membuka rekening secara online tanpa harus datang ke kantor cabang untuk mengurus dokumen secara konvensional.",
+   "Bank bjb menyebut kehadiran produk ini juga sebagai bentuk dukungan kepada komunitas yang punya hubungan kuat dengan kehidupan masyarakat di Jawa Barat dan sekitarnya. Dengan menggabungkan afinitas klub dan kemudahan pembukaan rekening digital, bank bjb berharap bisa memperluas jumlah nasabah baru sekaligus memperkuat keterikatan dengan komunitas yang sudah punya loyalitas tinggi terhadap PERSIB."
+  ],
+  "fotoAdegan": "Bank customers queuing at an outdoor ATM booth on a busy Bandung street at dusk, soft ambient lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6ad0669c07e52-kartu-atm-bank-bjb-edisi-persib_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah bank bjb kini menawarkan kartu ATM bertema PERSIB sebagai pilihan tambahan, sekaligus mendorong calon nasabah membuka rekening sepenuhnya lewat aplikasi DIGI bank bjb tanpa harus datang ke kantor cabang. Yang terkena dampak langsung adalah komunitas Bobotoh dan masyarakat Jawa Barat yang menjadi sasaran utama produk berbasis afinitas semacam ini, serta nasabah baru yang kini punya opsi pembukaan rekening lebih cepat. Berita ini belum menyebut biaya penerbitan kartu, batas jumlah yang dicetak, tanggal resmi kartu ini tersedia di cabang maupun DIGI, atau target jumlah nasabah baru yang ingin dicapai lewat kolaborasi ini. Tanpa angka-angka tersebut, yang masih perlu ditunggu adalah data resmi bank bjb soal jumlah kartu yang diterbitkan atau pertumbuhan rekening baru setelah peluncuran, karena itu yang akan menunjukkan apakah langkah ini benar-benar mendongkrak akuisisi nasabah atau sekadar pelengkap pemasaran musiman.",
+  "imageV": "mv9boowg"
+ },
+ {
+  "slug": "maxstream-pakai-ai-dalam-produksi-film-pertamanya",
+  "category": "Teknologi",
+  "title": "MAXStream Pakai [AI] dalam Produksi Film Pertamanya",
+  "deck": "Telkomsel meluncurkan film pertama MAXStream TV yang menggabungkan kecerdasan buatan dengan arahan kreatif manusia dalam proses produksinya.",
+  "image": "assets/img/maxstream-pakai-ai-dalam-produksi-film-pertamanya.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T12:53:19+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473141-maxstream-tv-padukan-ai-dan-sentuhan-kreatif-manusia-dalam-film-rahasia-pernikahan",
+  "tags": [
+   "MAXStream",
+   "Telkomsel",
+   "AI",
+   "Rahasia Pernikahan"
+  ],
+  "body": [
+   "Telkomsel meluncurkan \"Rahasia Pernikahan\", film drama thriller psikologis yang tayang di MAXStream TV sejak 7 Oktober 2026. Film ini jadi yang pertama di platform video milik Telkomsel itu yang memakai kecerdasan buatan atau AI dalam proses produksinya, dipadukan dengan arahan kreatif tim manusia. Langkah ini menandai eksplorasi awal Telkomsel dalam memanfaatkan teknologi untuk mendukung produksi konten hiburan digital.",
+   "Film ini mengisahkan Lala, perempuan yang mulai meragukan kehidupan rumah tangganya yang selama ini terlihat sempurna. Alur ceritanya dibangun penuh misteri dan ketegangan psikologis, seiring rahasia demi rahasia terungkap dan mengubah cara pandang Lala terhadap orang yang paling ia percaya. Disutradarai Agung Wicaksono, film berdurasi 56 menit dengan 51 adegan ini rampung dikerjakan dalam waktu dua bulan.",
+   "Dalam proses produksinya, AI dipakai untuk membantu eksplorasi visual, pengembangan karakter dan latar cerita, penyusunan storyboard, hingga visualisasi adegan. Meski begitu, setiap tahap tetap melalui kurasi dan pengawasan kreatif tim produksi agar hasilnya selaras dengan visi cerita yang sudah dirancang. Penulisan naskah, penentuan arah kreatif, penyuntingan, kontrol kualitas, sampai persetujuan akhir tetap sepenuhnya berada di tangan tim produksi manusia, bukan AI.",
+   "VP Digital Lifestyle Telkomsel, Kemas M. Fadhli, mengatakan pemanfaatan teknologi bukan sekadar soal mengadopsi inovasi baru, melainkan soal bagaimana inovasi itu memberi nilai lebih besar bagi pelanggan. Menurutnya, proyek \"Rahasia Pernikahan\" menunjukkan bahwa teknologi bisa mendukung proses kreatif sekaligus membuka pendekatan baru dalam produksi konten, dengan kreativitas dan penilaian manusia tetap jadi fondasi utamanya."
+  ],
+  "fotoAdegan": "Film crew adjusting lighting and camera gear on an indoor drama set, monitor showing a blurred scene preview, studio evening light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6ad069c0b96e6-maxstream-tv-padukan-ai-dan-sentuhan-kreatif-manusia-dalam-film-rahasia-pernikahan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara MAXStream TV membuat kontennya, bukan soal harga atau uang. AI dipakai untuk tahap eksplorasi visual, storyboard, dan visualisasi adegan, sementara naskah, arah cerita, dan persetujuan akhir tetap dipegang tim produksi manusia, dan film sepanjang 56 menit ini rampung dalam dua bulan. Yang terdampak langsung adalah tim kreatif MAXStream dan pelanggan yang akan menonton hasilnya, bukan investor atau pasar yang lebih luas. Yang belum bisa dibaca dari sini adalah apakah pemakaian AI ini benar-benar mempercepat atau memangkas biaya produksi dibanding film MAXStream sebelumnya, sebab Telkomsel tidak membuka angka biaya maupun waktu produksi pembanding, dan itu baru akan terlihat kalau MAXStream merilis judul berikutnya dengan metode serupa.",
+  "imageV": "mv9boq23"
  },
  {
   "slug": "bank-bjb-perluas-akses-beli-obligasi-ritel-sbr015",
@@ -423,7 +532,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah payung hukumnya: Perpres 41/2026 menugaskan Kemenko Perekonomian mengoordinasikan logistik nasional, dan lewat Permenko 10/2026 sektor angkutan truk kini bisa mengakses kredit industri padat karya untuk meremajakan armadanya. Yang terdampak langsung adalah pengusaha truk yang armadanya menua, penyedia jasa logistik yang perlu sertifikasi baru, dan industri berorientasi ekspor yang ongkos kirimnya ikut ditentukan oleh biaya logistik domestik. Arahnya terlihat dari pola yang sama, digitalisasi logistik yang tadinya cuma mengurus perizinan antarinstansi pemerintah kini diperluas jadi satu sistem yang mencakup seluruh transaksi, dibarengi dorongan memindahkan sebagian muatan dari truk ke kombinasi kereta api dan kapal laut. Yang akan membuktikan apakah strategi ini benar menekan ongkos logistik adalah data pembanding berikutnya, sebab angka 14,29 persen dari PDB yang dipakai siaran ini masih data tahun 2022, sehingga pembaca perlu menunggu rilis data terbaru untuk melihat apakah rasio itu sungguh turun.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "pemerintah-targetkan-42-6-gw-listrik-dari-ebt-hingga-2034",

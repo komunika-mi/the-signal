@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-dan-timor-leste-teken-bit-lindungi-investasi-dua-negara",
+  "category": "Global",
+  "title": "Indonesia dan Timor-Leste Teken [BIT], Lindungi Investasi Dua Negara",
+  "deck": "Indonesia dan Timor-Leste menandatangani perjanjian investasi bilateral yang mengatur promosi, kemudahan, dan perlindungan hukum investasi di tengah perdagangan dua negara senilai US$150 juta.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/indonesia-dan-timor-leste-teken-bit-lindungi-investasi-dua-negara.jpg",
+  "imageV": "mv9boifn",
+  "tags": [
+   "BIT",
+   "Investasi",
+   "Timor-Leste",
+   "BKPM"
+  ],
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/indonesia-dan-timor-leste-teken-bit-buka-peluang-kerja-sama-ekonomi-lebih-luas",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "27-provinsi-masukkan-ekonomi-syariah-ke-rencana-pembangunan",
+  "category": "Makroekonomi",
+  "title": "27 Provinsi Masukkan Ekonomi [Syariah] ke Rencana Pembangunan",
+  "deck": "Bank Indonesia mendorong pemaduan dana zakat dan wakaf dengan pembiayaan bank syariah untuk UMKM, seiring 27 provinsi memasukkan ekonomi syariah ke rencana pembangunan daerah.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/27-provinsi-masukkan-ekonomi-syariah-ke-rencana-pembangunan.jpg",
+  "imageV": "mv9booiw",
+  "tags": [
+   "ekonomi syariah",
+   "UMKM",
+   "ISEF 2026",
+   "Bank Indonesia"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822226.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "saham-cani-dapat-tambahan-kriteria-pemantauan-khusus",
   "category": "Aksi Korporasi",
   "title": "Saham CANI Dapat Tambahan Kriteria [Pemantauan Khusus]",
@@ -133,6 +169,40 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822126.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "bank-bjb-luncurkan-kartu-atm-edisi-persib-untuk-bobotoh",
+  "category": "Perbankan",
+  "title": "bank bjb Luncurkan Kartu ATM [Edisi] PERSIB untuk Bobotoh",
+  "deck": "bank bjb menghadirkan kartu ATM bertema PERSIB untuk mendekatkan diri ke komunitas Bobotoh sekaligus mendorong pembukaan rekening lewat aplikasi digital DIGI.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/bank-bjb-luncurkan-kartu-atm-edisi-persib-untuk-bobotoh.jpg",
+  "imageV": "mv9boowg",
+  "tags": [
+   "bank bjb",
+   "PERSIB",
+   "Bobotoh",
+   "DIGI bank bjb"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473142-dekat-dengan-bobotoh-bank-bjb-permudah-kepemilikan-kartu-atm-bank-bjb-edisi-persib"
+ },
+ {
+  "slug": "maxstream-pakai-ai-dalam-produksi-film-pertamanya",
+  "category": "Teknologi",
+  "title": "MAXStream Pakai [AI] dalam Produksi Film Pertamanya",
+  "deck": "Telkomsel meluncurkan film pertama MAXStream TV yang menggabungkan kecerdasan buatan dengan arahan kreatif manusia dalam proses produksinya.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/maxstream-pakai-ai-dalam-produksi-film-pertamanya.jpg",
+  "imageV": "mv9boq23",
+  "tags": [
+   "MAXStream",
+   "Telkomsel",
+   "AI",
+   "Rahasia Pernikahan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473141-maxstream-tv-padukan-ai-dan-sentuhan-kreatif-manusia-dalam-film-rahasia-pernikahan"
  },
  {
   "slug": "bank-bjb-perluas-akses-beli-obligasi-ritel-sbr015",
@@ -6435,70 +6505,6 @@ var ARTICLES = [
    "Penambahan Modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/baed3462f0_817507f49f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buah-bagikan-dividen-interim-rp20-miliar-rp10-saham",
-  "category": "Aksi Korporasi",
-  "title": "BUAH Bagikan [Dividen] Interim Rp20 Miliar, Rp10/Saham",
-  "deck": "Direksi dan Dewan Komisaris Segar Kumala Indonesia menyetujui dividen interim tunai Rp20 miliar atau Rp10 per saham, dibayar 6 November 2026.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUAH",
-   "dividen interim",
-   "Segar Kumala Indonesia",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cd9589366f_5e0dde1c08.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekspor-furnitur-ri-capai-us-1-2-miliar-jelang-tei-ke-41",
-  "category": "Industri",
-  "title": "Ekspor Furnitur RI Capai [US$1,2 Miliar] Jelang TEI ke-41",
-  "deck": "Furnitur dan kriya kembali jadi sorotan di Trade Expo Indonesia ke-41, didukung ekspor furnitur nasional yang sudah tembus US$1,2 miliar sepanjang 2026.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/bisnis-resto.jpg",
-  "tags": [
-   "TEI ke-41",
-   "furnitur",
-   "ekspor",
-   "kriya"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bersertifikat-hijau-dan-terkurasi-furnitur-dan-kriya-berdaya-saing-tinggi-siap-tampil-di-tei-ke-41",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "army-gelar-rupslb-rombak-direksi-imbas-laporan-keuangan-mandek",
-  "category": "Aksi Korporasi",
-  "title": "ARMY Gelar RUPSLB, Rombak [Direksi] Imbas Laporan Keuangan Mandek",
-  "deck": "RUPSLB ARMY pada 30 Oktober 2026 akan membahas pergantian direksi dan komisaris serta perpanjangan waktu audit laporan keuangan 2021 dan 2022 yang sudah tertunda lebih dari empat tahun.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARMY",
-   "RUPSLB",
-   "Armidian Karyatama",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/865c96c985_2b0d8568ea.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apex-resmikan-konversi-utang-ke-hsbc-saham-terdilusi-5-79",
-  "category": "Aksi Korporasi",
-  "title": "APEX Resmikan Konversi Utang ke HSBC, Saham [Terdilusi] 5,79%",
-  "deck": "RUPSLB menyetujui konversi utang Apexindo ke HSBC, 218 juta saham seri B baru akan tercatat di bursa pada 20 Oktober 2026.",
-  "date": "8 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APEX",
-   "konversi utang",
-   "HSBC",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fe8c2bba23_e12225ae04.pdf",
   "sourceLabel": "IDX"
  }
 ];

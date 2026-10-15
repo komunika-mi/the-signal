@@ -5,6 +5,59 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-kopi-ri-ke-as-baru-2-7-persen-dari-pasar-us-12-8-miliar",
+  "category": "Bisnis",
+  "title": "Ekspor Kopi RI ke AS Baru [2,7 Persen] dari Pasar US$12,8 Miliar",
+  "deck": "Kemendag mendorong eksportir kopi memenuhi standar mutu negara tujuan, sementara nilai ekspor kopi RI naik ke US$2,51 miliar pada 2025 namun pangsanya di pasar AS senilai US$12,80 miliar masih kecil.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/ekspor-kopi-ri-ke-as-baru-2-7-persen-dari-pasar-us-12-8-miliar.jpg",
+  "imageV": "mv9uh2xy",
+  "tags": [
+   "ekspor kopi",
+   "Kemendag",
+   "Trade Expo Indonesia",
+   "standar mutu"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-kopi-indonesia-tembus-pasar-global-melalui-penguatan-mutu-dan-nilai-tambah",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "kemendag-meta-latih-200-umkm-manfaatkan-ai-untuk-ekspor",
+  "category": "UMKM",
+  "title": "Kemendag-Meta Latih [200] UMKM Manfaatkan AI untuk Ekspor",
+  "deck": "Kemendag dan Meta Indonesia menyerahkan katalog profil UMKM siap ekspor, hasil program yang telah melatih 200 pelaku usaha di Bandung, Batam, dan Jakarta menggunakan AI untuk pemasaran digital.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/kemendag-meta-latih-200-umkm-manfaatkan-ai-untuk-ekspor.jpg",
+  "imageV": "mv9uh7eu",
+  "tags": [
+   "UMKM",
+   "AI",
+   "Ekspor",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-pelaku-umkm-manfaatkan-ai-untuk-kembangkan-usaha",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "kadin-gandeng-bri-insurance-perluas-asuransi-usaha",
+  "category": "Bisnis",
+  "title": "[Kadin] Gandeng BRI Insurance Perluas Asuransi Usaha",
+  "deck": "Kadin Indonesia dan BRI Insurance menandatangani kerja sama untuk memperluas akses asuransi bagi pelaku usaha anggota Kadin.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/kadin-gandeng-bri-insurance-perluas-asuransi-usaha.jpg",
+  "imageV": "mv9uh7y6",
+  "tags": [
+   "Kadin Indonesia",
+   "BRI Insurance",
+   "Asuransi Usaha",
+   "Kerja Sama Bisnis"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473263-kadin-indonesia-jalin-kerja-sama-dengan-bri-insurance-perkuat-sinergi-asuransi-dan-dunia-usaha"
+ },
+ {
   "slug": "lsip-jawab-bursa-soal-dampak-karhutla-klaim-belum-material",
   "category": "Aksi Korporasi",
   "title": "LSIP Jawab Bursa soal Dampak [Karhutla], Klaim Belum Material",
@@ -67,6 +120,74 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6ce010d8d7_83021cb29c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bahlil-produk-hijau-kini-lebih-bernilai-dari-fosil",
+  "category": "Energi",
+  "title": "Bahlil: Produk [Hijau] Kini Lebih Bernilai dari Fosil",
+  "deck": "Menko Bahlil Lahadalia menyebut produk industri hijau kini bernilai lebih tinggi dari produk berbasis energi fosil, sejalan dengan target bauran energi terbarukan dalam RUPTL PLN 2025-2034.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/bahlil-produk-hijau-kini-lebih-bernilai-dari-fosil.jpg",
+  "imageV": "mv9uh8em",
+  "tags": [
+   "energi hijau",
+   "RUPTL",
+   "EBT",
+   "ESDM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473252-menko-bahlil-sebut-produk-hijau-kini-nilainya-lebih-tinggi-dari-produk-fosil"
+ },
+ {
+  "slug": "bank-bjb-sosialisasikan-kpr-subsidi-dan-kredit-perumahan",
+  "category": "Perbankan",
+  "title": "bank bjb Sosialisasikan [KPR Subsidi] dan Kredit Perumahan",
+  "deck": "bank bjb menggelar sosialisasi KPR subsidi FLPP dan kredit produktif di Subang, dengan portofolio FLPP tembus Rp4,935 triliun dari 41.383 debitur per awal Oktober 2026.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/bank-bjb-sosialisasikan-kpr-subsidi-dan-kredit-perumahan.jpg",
+  "imageV": "mv9uh8vh",
+  "tags": [
+   "KPR subsidi",
+   "FLPP",
+   "bank bjb",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473251-perluas-akses-hunian-dan-pembiayaan-produktif-bank-bjb-sosialisasikan-kpp-dan-rumah-subsidi"
+ },
+ {
+  "slug": "taspen-kemenkeu-integrasikan-data-pensiun-asn",
+  "category": "BUMN",
+  "title": "TASPEN-Kemenkeu [Integrasikan] Data Pensiun ASN",
+  "deck": "TASPEN dan Ditjen Perbendaharaan Kemenkeu sepakat bertukar data pensiun, tabungan hari tua, dan jaminan sosial ASN demi pembayaran yang lebih akurat dan tepat waktu.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/taspen-kemenkeu-integrasikan-data-pensiun-asn.jpg",
+  "imageV": "mv9uh9cu",
+  "tags": [
+   "TASPEN",
+   "pensiun ASN",
+   "integrasi data",
+   "Kemenkeu"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473247-taspen-dan-kemenkeu-integrasikan-data-pensiun-asn-begini-dampaknya-bagi-9-juta-penerima-manfaat"
+ },
+ {
+  "slug": "bank-bjb-raih-pengakuan-top-50-emiten-midcap-gcg-2026",
+  "category": "Perbankan",
+  "title": "Bank bjb Raih Pengakuan Top 50 Emiten [MidCap] GCG 2026",
+  "deck": "Bank bjb masuk daftar 50 emiten kapitalisasi menengah dengan tata kelola terbaik versi IICD dalam ajang CG Award 2026 di Jakarta.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/bank-bjb-raih-pengakuan-top-50-emiten-midcap-gcg-2026.jpg",
+  "imageV": "mv9uhab6",
+  "tags": [
+   "bank bjb",
+   "GCG",
+   "IICD",
+   "BUMD"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473246-bank-bjb-raih-pengakuan-top-50-emiten-midcap-dalam-iicd-cg-award-2026"
  },
  {
   "slug": "indonesia-perkuat-kesiapan-aksesi-ke-pakta-cptpp",
@@ -6391,118 +6512,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472044-ajang-balapan-jadi-magnet-pertamina-dorong-homestay-lokal-naik-kelas"
- },
- {
-  "slug": "lopi-panggil-rupslb-ketiga-bahas-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "LOPI Panggil RUPSLB Ketiga Bahas [PMTHMETD]",
-  "deck": "Setelah dua kali gagal kuorum, LOPI menggelar RUPSLB ketiga pada 19 Oktober 2026 untuk meminta persetujuan penambahan modal tanpa hak memesan efek terlebih dahulu.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LOPI",
-   "RUPSLB",
-   "PMTHMETD",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/555fa206f8_27c84096e5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mandiri-jadi-bank-pertama-kantongi-lisensi-bulion",
-  "category": "Perbankan",
-  "title": "Mandiri Jadi Bank Pertama Kantongi Lisensi [Bulion]",
-  "deck": "Bank Mandiri meluncurkan layanan emas terintegrasi di Livin' by Mandiri setelah menjadi bank konvensional pertama di Indonesia yang mengantongi lisensi bulion dari OJK.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/mandiri-jadi-bank-pertama-kantongi-lisensi-bulion.jpg",
-  "imageV": "mv0pw6bu",
-  "tags": [
-   "emas",
-   "bulion",
-   "bank mandiri",
-   "livin by mandiri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472039-bank-mandiri-resmi-hadirkan-ekosistem-bulion-terintegrasi-di-livin-by-mandiri"
- },
- {
-  "slug": "11-proyek-hilirisasi-nikel-senilai-rp180-triliun-diluncurkan-di-iwip",
-  "category": "Industri",
-  "title": "11 Proyek Hilirisasi Nikel Senilai [Rp180] Triliun Diluncurkan di IWIP",
-  "deck": "Presiden Prabowo Subianto meluncurkan 11 proyek hilirisasi nikel senilai US$10,2 miliar di IWIP, Maluku Utara, sekaligus melepas ekspor perdana baterai kendaraan listrik.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/bisnis-resto.jpg",
-  "tags": [
-   "hilirisasi nikel",
-   "IWIP",
-   "Maluku Utara",
-   "baterai kendaraan listrik"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7139/pemerintah-terus-memantau-kebijakan-hilirisasi-untuk-mendorong-pertumbuhan-ekonomi-dan-kebermanfaatannya-bagi-masyarakat-luas",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "airlangga-talenta-digital-kunci-ekonomi-ri-ke-depan",
-  "category": "Makroekonomi",
-  "title": "Airlangga: Talenta [Digital] Kunci Ekonomi RI ke Depan",
-  "deck": "Menko Airlangga menyebut penguasaan teknologi digital dan hilirisasi industri jadi mesin pertumbuhan baru, di tengah ekonomi RI yang tumbuh 5,45 persen pada semester I 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
-  "tags": [
-   "Airlangga Hartarto",
-   "hilirisasi",
-   "ekonomi digital",
-   "PLTS"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7140/menko-airlangga-penguasaan-teknologi-dan-talenta-generasi-muda-yang-digital-literate-jadi-kunci-next-economy",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pgli-gelar-public-expose-usai-bursa-suspensi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "PGLI Gelar Public Expose Usai Bursa [Suspensi] Sahamnya",
-  "deck": "BEI menghentikan sementara perdagangan saham PGLI, memaksa manajemen menggelar Public Expose Insidentil pada 13 Oktober 2026 untuk menjelaskan pergerakan harga sahamnya.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGLI",
-   "suspensi saham",
-   "Bursa Efek Indonesia",
-   "Public Expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e51b7b450_de6338119d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ikai-repo-raja-sapta-oktohari-beli-2-38-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "IKAI: [Repo] Raja Sapta Oktohari Beli 2,38 Juta Saham",
-  "deck": "Raja Sapta Oktohari melaporkan pembelian 2.379.500 saham IKAI seharga Rp21 per lembar, hak suaranya naik dari nol menjadi 0,02 persen.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IKAI",
-   "kepemilikan saham",
-   "pasar modal",
-   "Intikeramik Alamasri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-5044-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gema-jadwalkan-rupslb-17-november-cum-date-23-oktober",
-  "category": "Aksi Korporasi",
-  "title": "GEMA Jadwalkan [RUPSLB] 17 November, Cum Date 23 Oktober",
-  "deck": "Gema Grahasarana akan menggelar RUPSLB pada 17 November 2026, dengan pemegang saham per 23 Oktober 2026 yang berhak hadir dan memberi suara secara elektronik.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GEMA",
-   "RUPSLB",
-   "pasar modal",
-   "corporate action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/75d38cbb34_43fdbad93e.pdf",
-  "sourceLabel": "IDX"
  }
 ];

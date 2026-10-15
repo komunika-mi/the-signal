@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "FASmEUT8QP8",
+  "title": "Menteri ESDM Resmikan Kilang LPG Cilamaya di Karawang",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Menteri Koordinator Bidang Hilirisasi dan ESDM Bahlil Lahadalia meresmikan Kilang LPG Cilamaya di Kabupaten Karawang, Jawa Barat.",
+  "takeaway": "Peresmian kilang ini relevan karena menyangkut upaya pemerintah memperkuat pasokan dan ketahanan energi LPG dalam negeri."
+ },
+ {
+  "id": "A-K-uLqQZ1c",
+  "title": "Kadin Sumsel Expo 2026 Buka Peluang Usaha bagi Generasi Muda",
+  "category": "UMKM",
+  "program": "Kabar Hari Ini",
+  "summary": "Kadin Sumsel Expo 2026 digelar di Palembang Square Mall pada 15 sampai 18 Oktober 2026 untuk membuka peluang usaha bagi generasi muda.",
+  "takeaway": "Acara ini mencerminkan geliat kewirausahaan dan UMKM di Sumatera Selatan yang perlu dipantau pembaca ekonomi daerah."
+ },
+ {
   "id": "QeQBze5K4Ao",
   "title": "Indonesia Siap Gelar WCCE 2026 di Jakarta",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "DPR RI mengesahkan RUU Perlindungan Ketenagakerjaan menjadi undang-undang dalam rapat paripurna pada 6 Oktober 2026, di tengah aksi unjuk rasa buruh yang ditemui langsung oleh pimpinan DPR.",
   "takeaway": "Pengesahan undang-undang ini penting diikuti karena berdampak langsung pada hak pekerja dan kewajiban dunia usaha dalam hubungan ketenagakerjaan."
- },
- {
-  "id": "3GLyflssEDk",
-  "title": "DPR Umumkan Pengesahan RUU Pelindungan Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "AKIM",
-  "summary": "DPR RI menemui massa buruh dan mengumumkan pengesahan RUU Pelindungan Ketenagakerjaan, aturan yang berkaitan langsung dengan nasib para pekerja.",
-  "takeaway": "Pengesahan RUU ini layak disimak pembaca ekonomi karena berpotensi mengubah aturan hubungan industrial dan beban ketenagakerjaan bagi dunia usaha."
- },
- {
-  "id": "nHD8zfoUQZg",
-  "title": "DPR Resmi Sahkan UU Perlindungan Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Merah Putih",
-  "summary": "DPR RI mengesahkan Undang-Undang Perlindungan Ketenagakerjaan dalam rapat paripurna ke-9 masa persidangan I tahun sidang 2026-2027.",
-  "takeaway": "Pengesahan UU ini relevan bagi pelaku usaha dan pekerja karena berpotensi mengubah aturan hubungan industrial di Indonesia."
  }
 ];

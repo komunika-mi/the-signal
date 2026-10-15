@@ -3,6 +3,89 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekspor-kopi-ri-ke-as-baru-2-7-persen-dari-pasar-us-12-8-miliar",
+  "category": "Bisnis",
+  "title": "Ekspor Kopi RI ke AS Baru [2,7 Persen] dari Pasar US$12,8 Miliar",
+  "deck": "Kemendag mendorong eksportir kopi memenuhi standar mutu negara tujuan, sementara nilai ekspor kopi RI naik ke US$2,51 miliar pada 2025 namun pangsanya di pasar AS senilai US$12,80 miliar masih kecil.",
+  "image": "assets/img/ekspor-kopi-ri-ke-as-baru-2-7-persen-dari-pasar-us-12-8-miliar.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-15T17:53:16.016Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-kopi-indonesia-tembus-pasar-global-melalui-penguatan-mutu-dan-nilai-tambah",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ekspor kopi",
+   "Kemendag",
+   "Trade Expo Indonesia",
+   "standar mutu"
+  ],
+  "body": [
+   "Kementerian Perdagangan menggelar forum bisnis kopi dalam rangkaian Trade Expo Indonesia (TEI) ke-41 di ICE BSD City, Kabupaten Tangerang, Kamis (15/10), untuk mendorong pelaku usaha memenuhi standar mutu dan regulasi teknis negara tujuan agar kopi Indonesia bisa menembus pasar global lebih luas. Forum ini menyasar kendala yang kerap dihadapi eksportir kopi, yakni kepatuhan standar, jaminan ketertelusuran produk, dan aspek keberlanjutan, bukan sekadar mengandalkan keunggulan cita rasa kopi nusantara seperti Gayo, Mandailing, Java Preanger, Kintamani, Toraja, dan Flores Bajawa.",
+   "Nilai ekspor kopi Indonesia tercatat naik dari US$929,1 juta pada 2023 menjadi US$2,51 miliar pada 2025. Sebagai pembanding, nilai impor kopi Amerika Serikat pada 2025 mencapai US$12,80 miliar, sementara ekspor kopi Indonesia ke negara itu baru US$342,37 juta, atau sekitar 2,7 persen dari total impor kopi AS. Angka ini menunjukkan pasar AS masih jauh dari tergarap maksimal oleh produsen kopi Indonesia, sehingga ruang untuk menambah pangsa pasar masih terbuka lebar jika standar dan sertifikasi bisa dipenuhi.",
+   "Untuk membantu pelaku usaha, Kemendag menyediakan portal LAMANSITU yang memuat persyaratan mutu dan regulasi teknis produk kopi di berbagai negara tujuan ekspor, dilengkapi layanan pengujian, kalibrasi, dan sertifikasi. Dalam forum tersebut, Kepala ITPC Los Angeles Kumara Jati dan eksportir Nicholas Dennis membagikan strategi memasuki pasar Amerika Serikat, mulai dari menjaga kualitas kopi selama pengiriman jarak jauh, memilih mitra pembeli yang tepercaya, hingga menentukan satu negara tujuan awal yang sesuai dengan kapasitas usaha agar tidak langsung menghadapi standar paling rumit.",
+   "Salah satu peserta forum, PT Sian Huta asal Mandailing Natal, Sumatra Utara, mengungkapkan rencana memperluas penjualan arabika mandailing ke luar negeri. Perusahaan ini membidik Korea Selatan, Jepang, dan Amerika Serikat sebagai target pasar ekspor utama, setelah sebelumnya hanya berfokus menjual ke pasar domestik."
+  ],
+  "fotoAdegan": "Workers sorting and bagging dried coffee beans at a rural warehouse, export crates stacked nearby, soft morning light through open doors",
+  "fotoSumber": "https://www.kemendag.go.id/albums/v7wnX3Askkl1RkHrJYbNHQjRO2gsaLBsCxjkMVtf.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan arah dorongan pemerintah: pelaku usaha kopi diminta fokus memenuhi standar mutu dan sertifikasi, bukan sekadar menambah volume produksi, karena pangsa ekspor kopi Indonesia ke Amerika Serikat baru sekitar 2,7 persen dari total impor kopi negara itu yang senilai US$12,80 miliar pada 2025. Yang terdampak langsung adalah eksportir kopi skala kecil dan menengah seperti PT Sian Huta dari Mandailing Natal, yang baru akan merintis ekspor setelah selama ini hanya menjual di pasar domestik, serta eksportir pemula lain yang disarankan selektif memilih negara tujuan pertama. Forum ini sendiri masih sebatas edukasi dan fasilitasi informasi lewat portal LAMANSITU, tanpa aturan baru, insentif, atau tenggat yang mengikat pelaku usaha. Yang masih perlu dipantau adalah apakah dorongan ini akan diikuti langkah konkret, misalnya insentif sertifikasi atau dukungan logistik ekspor, serta apakah pangsa kopi Indonesia di pasar AS benar-benar naik pada data ekspor-impor Kemendag periode berikutnya.",
+  "imageV": "mv9uh2xy"
+ },
+ {
+  "slug": "kemendag-meta-latih-200-umkm-manfaatkan-ai-untuk-ekspor",
+  "category": "UMKM",
+  "title": "Kemendag-Meta Latih [200] UMKM Manfaatkan AI untuk Ekspor",
+  "deck": "Kemendag dan Meta Indonesia menyerahkan katalog profil UMKM siap ekspor, hasil program yang telah melatih 200 pelaku usaha di Bandung, Batam, dan Jakarta menggunakan AI untuk pemasaran digital.",
+  "image": "assets/img/kemendag-meta-latih-200-umkm-manfaatkan-ai-untuk-ekspor.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-15T17:53:06.142Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-pelaku-umkm-manfaatkan-ai-untuk-kembangkan-usaha",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "AI",
+   "Ekspor",
+   "Kemendag"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mendorong pelaku usaha mikro, kecil, dan menengah memanfaatkan kecerdasan buatan atau AI untuk mengembangkan usahanya. Hal itu disampaikan dalam forum bisnis \"Go Global with AI: Unlocking New Markets with Meta Indonesia\" pada hari kedua Trade Expo Indonesia ke-41, Kamis (15/10), di Indonesia Convention Exhibition BSD City, Tangerang. Menurutnya, AI bisa membantu UMKM mencari pasar potensial, memahami minat konsumen, menerjemahkan deskripsi produk, membuat konten promosi, hingga menjawab pertanyaan calon pembeli, sehingga produk UMKM berpeluang lebih cepat menemukan konsumen baru di pasar global.",
+   "Dalam forum tersebut, perwakilan Meta Indonesia menyerahkan Katalog Siap Ekspansi Global kepada Kemendag, berisi kompilasi profil UMKM peserta program Gapai Pasar Global dengan AI. Program ini merupakan kerja sama Kemendag, Meta Indonesia, dan UKMINDONESIA.ID yang menurut Kemendag telah melatih 200 UMKM di tiga kota, yakni Bandung, Batam, dan Jakarta, untuk melakukan riset produk dan membuat materi promosi berbasis AI.",
+   "Direktur Kebijakan Publik Meta untuk Asia Tenggara, Sarim Aziz, menyebut AI membantu UMKM mengalokasikan sumber daya lebih tepat dan bekerja lebih efisien dalam memahami pasar. Sebagai contoh, ia menyebut UMKM bernama Zayya yang mendapat pendampingan program ini memperoleh pengembalian 8,46 kali lipat dari biaya iklan sebesar Rp150 ribu yang dikeluarkan.",
+   "Kemendag juga menawarkan fasilitas lain seperti pertemuan dagang dengan pembeli dari luar negeri dan kemitraan dengan ritel modern yang bisa dimanfaatkan pelaku usaha. Pemilik Craftote Gallery & Coffee, Rika Christina, salah satu pelaku usaha yang mengikuti program pembinaan Kemendag seperti Designers Dispatch Service dan Export Coaching Program, mengatakan AI membantunya menyusun narasi promosi berbasis cerita. Rika, yang menargetkan pasar Eropa, berharap Kemendag terus mendampingi UMKM dari awal hingga mampu melakukan ekspor secara mandiri dan berkelanjutan."
+  ],
+  "fotoAdegan": "Small business owner arranging handcrafted woven bags on a wooden table while photographing products with a tablet for an online store.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/74QbKiJGfkFrXz47mihP6n9tbPEF2IYb1RwO3Ml5.png",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan perluasan program pelatihan pemasaran digital berbasis AI yang menurut Kemendag sudah menjangkau 200 pelaku UMKM di Bandung, Batam, dan Jakarta, ditandai penyerahan katalog profil UMKM yang dianggap siap menembus pasar global. Yang terdampak adalah pelaku usaha kecil peserta program ini, terutama yang menyasar ekspor seperti Craftote Gallery & Coffee yang membidik pasar Eropa, karena mereka mendapat sesi pertemuan langsung dengan calon pembeli luar negeri dan pendampingan membuat materi promosi memakai AI. Arahnya cukup jelas, pemerintah dan Meta makin menjadikan AI sebagai alat utama mendorong UMKM naik kelas ke pasar ekspor, bukan sekadar materi seminar. Yang belum terjawab dari siaran ini adalah berapa dari 200 UMKM yang dilatih itu benar-benar mendapat pembeli atau transaksi ekspor nyata, sehingga perlu ditunggu laporan hasil program ini atau data pertemuan dagang pada penyelenggaraan Trade Expo Indonesia berikutnya.",
+  "imageV": "mv9uh7eu"
+ },
+ {
+  "slug": "kadin-gandeng-bri-insurance-perluas-asuransi-usaha",
+  "category": "Bisnis",
+  "title": "[Kadin] Gandeng BRI Insurance Perluas Asuransi Usaha",
+  "deck": "Kadin Indonesia dan BRI Insurance menandatangani kerja sama untuk memperluas akses asuransi bagi pelaku usaha anggota Kadin.",
+  "image": "assets/img/kadin-gandeng-bri-insurance-perluas-asuransi-usaha.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T00:30:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473263-kadin-indonesia-jalin-kerja-sama-dengan-bri-insurance-perkuat-sinergi-asuransi-dan-dunia-usaha",
+  "tags": [
+   "Kadin Indonesia",
+   "BRI Insurance",
+   "Asuransi Usaha",
+   "Kerja Sama Bisnis"
+  ],
+  "body": [
+   "Kamar Dagang dan Industri Indonesia menjalin kerja sama dengan PT BRI Asuransi Indonesia atau BRI Insurance melalui penandatanganan nota kesepahaman. Kerja sama ini bertujuan memperluas akses perlindungan asuransi bagi pelaku usaha sekaligus memperkuat ketahanan bisnis di tengah berbagai risiko operasional yang bisa muncul sewaktu-waktu.",
+   "Penandatanganan berlangsung di Hotel Arya Duta Jakarta pada Selasa, 13 Oktober, dan dilakukan oleh Wakil Ketua Umum Kadin Indonesia Bidang Sosial dan Penanggulangan Bencana Suryani Motik bersama Pimpinan Divisi Partnership and Strategic Business Division BRI Insurance Edi Sugiyanto. Proses ini disaksikan langsung oleh Ketua Umum Kadin Indonesia Anindya Bakrie.",
+   "Anindya Bakrie menekankan pentingnya prinsip dunia usaha saling mendukung satu sama lain sebagai dasar membangun ekosistem bisnis yang lebih kuat dan berdaya saing. Sementara itu, Edi Sugiyanto menjelaskan bahwa perlindungan asuransi membantu pelaku usaha mengelola risiko terhadap aset dan kegiatan operasional, sehingga bisnis dapat berjalan dengan lebih terencana di tengah tantangan ekonomi yang berubah-ubah.",
+   "Lewat kerja sama ini, BRI Insurance berharap dapat memperluas akses perlindungan asuransi ke lebih banyak sektor usaha yang bernaung di bawah Kadin Indonesia. Namun keterangan resmi belum merinci jenis produk asuransi, skema harga, atau target jumlah pelaku usaha yang akan dijangkau dari kerja sama ini."
+  ],
+  "fotoAdegan": "Two professionals shaking hands across a conference table in a modern office, blurred city skyline through windows, soft daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/16/6ad10d0711726-ketua-umum-kadin-indonesia-anindya-bakrie-tengah-saat-menjalin-kerja-sama-dengan-bri-insurance_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari kerja sama ini adalah dibukanya jalur kemitraan antara Kadin dan BRI Insurance untuk menawarkan perlindungan asuransi kepada pelaku usaha yang menjadi anggota Kadin, tapi keterangan yang tersedia belum menyebut jenis asuransi, besaran premi, atau berapa banyak pelaku usaha yang akan dijangkau. Pihak yang berpotensi terdampak adalah pelaku usaha anggota Kadin dari berbagai skala, karena merekalah sasaran program perlindungan risiko ini. Untuk melihat ke arah mana kerja sama ini sebenarnya bergerak, masih dibutuhkan informasi lanjutan seperti produk asuransi apa yang ditawarkan, skema harga, dan kapan program ini mulai berjalan di lapangan. Sampai detail itu diumumkan, kerja sama ini baru berupa kesepakatan payung, belum program konkret yang bisa langsung dirasakan pelaku usaha.",
+  "imageV": "mv9uh7y6"
+ },
+ {
   "slug": "lsip-jawab-bursa-soal-dampak-karhutla-klaim-belum-material",
   "category": "Aksi Korporasi",
   "title": "LSIP Jawab Bursa soal Dampak [Karhutla], Klaim Belum Material",
@@ -107,6 +190,113 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "bahlil-produk-hijau-kini-lebih-bernilai-dari-fosil",
+  "category": "Energi",
+  "title": "Bahlil: Produk [Hijau] Kini Lebih Bernilai dari Fosil",
+  "deck": "Menko Bahlil Lahadalia menyebut produk industri hijau kini bernilai lebih tinggi dari produk berbasis energi fosil, sejalan dengan target bauran energi terbarukan dalam RUPTL PLN 2025-2034.",
+  "image": "assets/img/bahlil-produk-hijau-kini-lebih-bernilai-dari-fosil.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T22:50:02+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473252-menko-bahlil-sebut-produk-hijau-kini-nilainya-lebih-tinggi-dari-produk-fosil",
+  "tags": [
+   "energi hijau",
+   "RUPTL",
+   "EBT",
+   "ESDM"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga menjabat Menteri ESDM, Bahlil Lahadalia, menyatakan produk industri yang diproses menggunakan energi ramah lingkungan kini punya nilai jual lebih tinggi dibanding produk yang mengandalkan energi fosil. Pernyataan itu disampaikan saat ia mewakili Presiden Prabowo Subianto membuka Trade Expo Indonesia ke-41 di Tangerang, Rabu (14/10). Menurutnya, pasar global mulai mengutamakan produk dari industri hijau, sehingga hal ini langsung memengaruhi daya saing ekspor Indonesia ke depan.",
+   "Untuk mengejar tren itu, pemerintah menyelipkan target transisi energi ke dalam Rencana Usaha Penyediaan Tenaga Listrik (RUPTL) PLN periode 2025 sampai 2034, yakni rencana penambahan pembangkit listrik yang disusun PLN bersama pemerintah. Dari total tambahan kapasitas 69,5 gigawatt, sekitar 61 persen atau 42,6 gigawatt ditargetkan berasal dari energi baru dan terbarukan. Proyek ini sekaligus berpotensi menarik investasi hingga Rp2.967,4 triliun, termasuk pembangunan pembangkit listrik tenaga surya berkapasitas 100 gigawatt yang akan disambungkan ke jaringan transmisi dan fasilitas penyimpanan energi.",
+   "Selain pembangkit tenaga surya, pemerintah juga tengah menyiapkan ekosistem industri baterai serta memperluas penggunaan bahan bakar nabati lewat kebijakan B50, yaitu campuran biodiesel 50 persen dengan solar, dan E20, campuran bioetanol 20 persen dengan bensin. Langkah ini ditujukan untuk mengurangi ketergantungan pada impor energi sekaligus menaikkan nilai tambah sumber daya alam dalam negeri.",
+   "Bahlil menyebut pemanfaatan tenaga surya diproyeksikan menghemat biaya energi sekitar Rp73,9 triliun per tahun dan membuka lapangan kerja bagi 5,5 juta orang. Angka ini menunjukkan transisi energi yang digaungkan pemerintah tidak cuma menyasar isu lingkungan, tapi juga diarahkan sebagai salah satu mesin ekonomi baru."
+  ],
+  "fotoAdegan": "Workers installing rows of solar panels across an open field in Indonesia, transmission towers visible in the distance, bright daylight.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6ad0f5879829c-menteri-koordinator-bidang-hilirisasi-dan-transisi-energi-sekaligus-menteri-esdm-bahlil-lahadalia-saat-hadir-dalam-pembukaan-gelaran-trade-expo-indonesia-tei-ke-41-di-tangerang-rabu-1410_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan penegasan arah: pemerintah memasukkan target energi terbarukan ke RUPTL PLN 2025-2034, dengan porsi 42,6 gigawatt dari total tambahan 69,5 gigawatt, dan membuka ruang investasi sampai Rp2.967,4 triliun untuk mewujudkannya. Yang terdampak langsung adalah industri manufaktur berorientasi ekspor yang pasokan listriknya makin bergantung pada energi bersih, investor di sektor surya dan baterai, serta pekerja yang diproyeksikan terserap dari proyek pembangkit tenaga surya. Yang masih kurang dari pernyataan ini adalah jadwal resmi penerapan B50 dan E20 serta laporan realisasi tahunan investasi RUPTL, sehingga belum bisa dipastikan apakah target 42,6 gigawatt energi terbarukan itu akan tercapai sesuai rencana. Yang perlu dipantau adalah laporan realisasi tahun pertama RUPTL serta kepastian tanggal berlakunya mandat B50 dan E20 yang sampai sekarang masih berstatus disiapkan.",
+  "imageV": "mv9uh8em"
+ },
+ {
+  "slug": "bank-bjb-sosialisasikan-kpr-subsidi-dan-kredit-perumahan",
+  "category": "Perbankan",
+  "title": "bank bjb Sosialisasikan [KPR Subsidi] dan Kredit Perumahan",
+  "deck": "bank bjb menggelar sosialisasi KPR subsidi FLPP dan kredit produktif di Subang, dengan portofolio FLPP tembus Rp4,935 triliun dari 41.383 debitur per awal Oktober 2026.",
+  "image": "assets/img/bank-bjb-sosialisasikan-kpr-subsidi-dan-kredit-perumahan.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T22:41:12+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473251-perluas-akses-hunian-dan-pembiayaan-produktif-bank-bjb-sosialisasikan-kpp-dan-rumah-subsidi",
+  "tags": [
+   "KPR subsidi",
+   "FLPP",
+   "bank bjb",
+   "UMKM"
+  ],
+  "body": [
+   "bank bjb menggelar sosialisasi Kredit Program Perumahan dan rumah subsidi di Aula Oman Syahroni, kompleks Perkantoran Pemda Kabupaten Subang. Kegiatan ini ditujukan memperkenalkan skema pembiayaan rumah subsidi sekaligus kredit produktif kepada masyarakat berpenghasilan terbatas dan pelaku usaha kecil yang butuh tempat tinggal sekaligus modal usaha.",
+   "Salah satu skema yang disosialisasikan adalah Fasilitas Likuiditas Pembiayaan Perumahan atau FLPP, yaitu kredit rumah bersubsidi bunga dari pemerintah. Per 4 Oktober 2026, portofolio KPR Sejahtera FLPP bank bjb tercatat memiliki 41.383 debitur dengan total pinjaman yang masih berjalan senilai Rp4,935 triliun.",
+   "Sepanjang Januari hingga Oktober 2026, bank bjb mencairkan FLPP kepada 2.492 debitur baru dengan total batas pinjaman Rp404,98 miliar, dan sisa pinjaman berjalan dari pencairan tersebut sebesar Rp399,40 miliar. Selain KPR subsidi, bank bjb juga memperkenalkan skema kredit bagi pelaku UMKM yang terlibat dalam rantai pembangunan perumahan.",
+   "Acara ini dihadiri Menteri Perumahan dan Kawasan Permukiman Maruarar Sirait, Deputi Komisioner Bidang Pemanfaatan Dana BP Tapera Sid Herdi Kusuma, Kepala Balai Pelaksana Penyediaan Perumahan dan Kawasan Permukiman Jawa II Mulya Permana, serta Ketua Umum DPP Realestat Indonesia Joko Suranto."
+  ],
+  "fotoAdegan": "Modest single-story subsidized housing units in a new residential complex, workers finishing roof tiles, bright afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6ad0f3a9847aa-perluas-akses-hunian-dan-pembiayaan-produktif-bank-bjb-sosialisasikan-kpp-dan-rumah-subsidi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah skala penyaluran kredit rumah subsidi FLPP oleh bank bjb: per 4 Oktober 2026 portofolionya mencapai 41.383 debitur dengan total pinjaman berjalan Rp4,935 triliun, dan sepanjang tahun ini sudah ada 2.492 debitur baru senilai Rp404,98 miliar. Yang terdampak adalah warga berpenghasilan terbatas di Subang dan sekitarnya yang mengincar rumah subsidi, serta pelaku usaha kecil yang disasar lewat skema kredit produktif dalam acara yang sama. Kehadiran Menteri Perumahan, pejabat BP Tapera, dan Ketua Umum REI dalam sosialisasi ini menunjukkan upaya mendorong percepatan penyerapan rumah subsidi di sisa tahun 2026, sejalan dengan program perumahan pemerintah. Yang belum bisa dipastikan dari data ini adalah apakah pencairan 2.492 debitur sejauh tahun berjalan sudah sesuai dengan target kuota FLPP bank bjb atau kuota nasional untuk 2026, karena angka target itu tidak disebutkan di sini. Yang perlu dipantau adalah laporan realisasi akhir tahun dari Kementerian Perumahan atau BP Tapera, yang akan memperlihatkan apakah pencairan ini mengejar atau tertinggal dari target penyaluran rumah subsidi tahun ini.",
+  "imageV": "mv9uh8vh"
+ },
+ {
+  "slug": "taspen-kemenkeu-integrasikan-data-pensiun-asn",
+  "category": "BUMN",
+  "title": "TASPEN-Kemenkeu [Integrasikan] Data Pensiun ASN",
+  "deck": "TASPEN dan Ditjen Perbendaharaan Kemenkeu sepakat bertukar data pensiun, tabungan hari tua, dan jaminan sosial ASN demi pembayaran yang lebih akurat dan tepat waktu.",
+  "image": "assets/img/taspen-kemenkeu-integrasikan-data-pensiun-asn.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T22:24:20+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473247-taspen-dan-kemenkeu-integrasikan-data-pensiun-asn-begini-dampaknya-bagi-9-juta-penerima-manfaat",
+  "tags": [
+   "TASPEN",
+   "pensiun ASN",
+   "integrasi data",
+   "Kemenkeu"
+  ],
+  "body": [
+   "PT TASPEN dan Direktorat Jenderal Perbendaharaan Kementerian Keuangan menandatangani perjanjian kerja sama untuk saling bertukar data dalam pengelolaan program pensiun, tabungan hari tua, jaminan kecelakaan kerja, dan jaminan kematian bagi aparatur sipil negara. Langkah ini penting karena pencairan dana pensiun selama ini sangat bergantung pada kecocokan data peserta antara TASPEN dan pemerintah, dan selisih data kerap jadi penyebab keterlambatan pembayaran.",
+   "Penandatanganan berlangsung dalam Rapat Koordinasi Evaluasi Mitra Pembayaran Pensiun di Aula Gedung Yusuf Anwar, Kompleks Kantor Pusat Ditjen Perbendaharaan, Jakarta, pada Selasa, 13 Oktober 2026. Acara ini dihadiri Direktur Jenderal Perbendaharaan Kemenkeu Astera Primanto Bhakti, Direktur Sistem Perbendaharaan Sulaimansyah, Direktur Utama TASPEN Rony Hanityo Aprionto, Direktur Operasional TASPEN Tribuna Phitera Djaja, serta perwakilan bank mitra pembayaran dan PT Pos Indonesia yang selama ini menyalurkan dana pensiun ke rekening penerima.",
+   "Corporate Secretary TASPEN, Henra, menyebut kerja sama ini sebagai bagian dari upaya memperkuat tata kelola dan pengelolaan data sebagai fondasi layanan jaminan sosial ASN yang andal. Dengan data peserta dan keluarga yang lebih terintegrasi, kedua lembaga berharap kesalahan administrasi bisa ditekan dan proses verifikasi sebelum pencairan manfaat berjalan lebih cepat."
+  ],
+  "fotoAdegan": "An elderly Indonesian civil servant retiree at a bank counter receiving a pension payment, teller assisting, calm office interior, natural light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6ad0ef9c947ca-taspen-dan-kemenkeu-integrasikan-data-pensiun-asn-begini-dampaknya-bagi-9-juta-penerima-manfaat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari kerja sama ini adalah TASPEN dan Direktorat Jenderal Perbendaharaan Kemenkeu sepakat saling bertukar data soal pensiun, tabungan hari tua, jaminan kecelakaan kerja, dan jaminan kematian milik aparatur sipil negara, supaya status peserta tercatat sama di kedua lembaga dan dana bisa cair tanpa tertunda akibat data yang berbeda. Yang terdampak langsung adalah para pensiunan ASN, serta bank dan PT Pos Indonesia yang selama ini menjadi perantara pembayaran karena merekalah yang bergantung pada data itu untuk mencairkan dana ke penerima. Berita ini belum menyebutkan kapan sistem pertukaran data mulai berjalan penuh, bagaimana mekanisme teknisnya, atau seberapa besar masalah keterlambatan pembayaran yang selama ini terjadi, jadi belum bisa disimpulkan apakah ini akan benar-benar mempercepat pencairan pensiun atau baru sebatas kesepakatan administratif di atas kertas. Yang perlu ditunggu adalah aturan turunan atau pedoman teknis dari kerja sama ini, serta apakah TASPEN nantinya merilis data soal berkurangnya keterlambatan pembayaran sebagai bukti konkret manfaatnya.",
+  "imageV": "mv9uh9cu"
+ },
+ {
+  "slug": "bank-bjb-raih-pengakuan-top-50-emiten-midcap-gcg-2026",
+  "category": "Perbankan",
+  "title": "Bank bjb Raih Pengakuan Top 50 Emiten [MidCap] GCG 2026",
+  "deck": "Bank bjb masuk daftar 50 emiten kapitalisasi menengah dengan tata kelola terbaik versi IICD dalam ajang CG Award 2026 di Jakarta.",
+  "image": "assets/img/bank-bjb-raih-pengakuan-top-50-emiten-midcap-gcg-2026.jpg",
+  "date": "15 Oktober 2026",
+  "isoDate": "2026-10-15T22:21:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473246-bank-bjb-raih-pengakuan-top-50-emiten-midcap-dalam-iicd-cg-award-2026",
+  "tags": [
+   "bank bjb",
+   "GCG",
+   "IICD",
+   "BUMD"
+  ],
+  "body": [
+   "Bank bjb kembali mendapat pengakuan atas penerapan tata kelola perusahaan yang baik. Bank milik pemerintah daerah ini masuk dalam daftar Top 50 Emiten dengan Kapitalisasi Pasar Menengah atau MidCap PLCs pada ajang The 17th IICD Corporate Governance Conference and Award 2026. Penghargaan ini diberikan oleh Indonesian Institute for Corporate Directorship (IICD), lembaga independen yang menilai praktik tata kelola perusahaan publik di Indonesia.",
+   "Ajang penghargaan tersebut berlangsung pada Senin, 12 Oktober 2026, di Main Hall Bursa Efek Indonesia, Jakarta, dengan tema besar soal memperkuat kepercayaan pasar melalui tata kelola yang baik. Status MidCap sendiri merujuk pada kelompok perusahaan dengan nilai kapitalisasi pasar di kelas menengah, bukan yang terbesar maupun terkecil di bursa. Penilaian IICD dilakukan secara independen terhadap perusahaan-perusahaan publik yang tercatat di pasar modal Indonesia.",
+   "Direktur Utama bank bjb, Ayi Subarna, menyatakan penghargaan ini menjadi pengingat bahwa tata kelola yang baik bukan sekadar memenuhi aturan, melainkan fondasi untuk membangun kepercayaan para pemangku kepentingan. Ia menyebut lima prinsip yang terus dijaga perusahaan, yaitu transparansi, akuntabilitas, responsibilitas, independensi, dan kewajaran dalam setiap pengambilan keputusan bisnis.",
+   "Ayi juga menilai industri perbankan yang semakin dinamis menuntut perusahaan menjaga keseimbangan antara pertumbuhan bisnis, pengelolaan risiko, kepatuhan terhadap aturan, pelayanan kepada nasabah, dan penciptaan nilai jangka panjang. Bagi bank bjb, penerapan tata kelola yang konsisten disebut menjadi salah satu elemen penting untuk menjaga kualitas kinerja perusahaan ke depan."
+  ],
+  "fotoAdegan": "Exterior of a modern Indonesian regional bank branch office, glass facade, people walking in and out, overcast daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/15/6ad0eec1b2dd2-bank-bjb-raih-pengakuan-top-50-emiten-midcap-dalam-iicd-cg-award-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini murni soal predikat: bank bjb masuk daftar 50 emiten kelas menengah dengan tata kelola terbaik versi penilai independen IICD, bukan soal perubahan modal, laba, atau aturan baru dari regulator. Pihak yang paling berkepentingan adalah pemegang saham bank bjb, karena predikat tata kelola yang baik biasanya menjadi salah satu pertimbangan investor saat menilai bank milik pemerintah daerah ini, di samping nasabah yang berkepentingan atas pengelolaan bank yang sehat. Berita ini belum memberi bukti konkret soal dampaknya, sebab tidak ada angka laba, harga saham, atau target bisnis yang disebutkan selain pernyataan umum dari direksi. Yang perlu dicermati selanjutnya adalah laporan keuangan kuartal berikutnya dan pergerakan harga saham bank bjb di bursa, supaya jelas apakah pengakuan ini sekadar seremoni tahunan atau benar berimbas pada kepercayaan pasar terhadap bank.",
+  "imageV": "mv9uhab6"
+ },
+ {
   "slug": "indonesia-perkuat-kesiapan-aksesi-ke-pakta-cptpp",
   "category": "Global",
   "title": "Indonesia Perkuat Kesiapan [Aksesi] ke Pakta CPTPP",
@@ -132,7 +322,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan status resmi Indonesia, melainkan tahap tekniSnya: sejak Juni 2026 Indonesia baru masuk fase diskusi awal dengan Komisi CPTPP, belum pada pembentukan Accession Working Group yang menjadi syarat formal sebelum negosiasi keanggotaan benar-benar dimulai. Pihak yang akan terdampak kalau proses ini berlanjut adalah pelaku usaha ekspor-impor dan investor yang mengincar pasar CPTPP seperti Jepang, Kanada, dan Meksiko, serta sektor yang diatur ketat dalam standar CPTPP seperti BUMN, perdagangan digital, dan persaingan usaha, karena merekalah yang paling mungkin perlu menyesuaikan aturan domestik. Siaran pers ini belum bisa menjawab kapan Accession Working Group akan terbentuk, karena menurut Kemenko Perekonomian itu masih bergantung pada prosedur dan konsensus seluruh anggota CPTPP. Yang perlu dipantau adalah hasil respons Indonesia atas dokumen indicative checklist itu, karena itulah yang akan menentukan apakah proses aksesi bisa bergerak ke tahap pembentukan kelompok kerja resmi.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ri-bahas-ancaman-komputasi-kuantum-ke-keamanan-data-digital",
@@ -160,7 +350,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini bukan aturan baru, melainkan tanda bahwa pemerintah mulai memetakan risiko komputer kuantum sebelum teknologi itu benar-benar mampu membongkar kode pengaman data, lewat gugus tugas BSSN yang sudah dibagi ke kelompok kebijakan, teknis, dan industri. Pihak yang kena dampak lebih dulu adalah bank dan penyedia layanan digital yang menyimpan data sensitif untuk jangka panjang, sebab data yang disadap orang lain hari ini berisiko dibongkar kalau standar pengamanannya belum diperbarui. Arahnya masih berupa persiapan dan edukasi, bukan kewajiban yang mengikat, sehingga ini bergerak ke penguatan bertahap lewat peta jalan ketimbang regulasi mendadak. Yang akan menentukan seberapa cepat agenda ini berjalan adalah penandatanganan ASEAN DEFA yang dijadwalkan November ini, karena dari situ akan terlihat apakah komitmen keamanan digital kawasan ini diikuti langkah konkret atau masih sebatas kesepakatan di atas kertas.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "esdm-kejar-listrik-ke-11-000-desa-target-2029-2030",
@@ -641,7 +831,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah ada dua angka utama: investasi di sektor pariwisata, mulai dari hotel sampai infrastruktur wisata, tumbuh 16,64 persen sepanjang 2026, dua kali lebih cepat dari rata-rata investasi nasional. Pemerintah juga menyiapkan insentif senilai Rp26,34 triliun berupa diskon tiket transportasi dan keringanan pajak penghasilan bagi 552.000 pekerja hotel, ditambah pelatihan untuk 400.000 tenaga kerja pariwisata setiap tahun. Pihak yang langsung terdampak adalah pelaku usaha perhotelan dan pekerjanya, penyelenggara acara wisata, serta daerah di luar Jawa yang menerima lebih dari separuh realisasi investasi nasional. Arahnya terlihat jelas, pemerintah memperlakukan pariwisata sebagai mesin pertumbuhan yang didorong lewat insentif fiskal langsung, bukan sekadar promosi, seiring target menaikkan sumbangan sektor ini ke total ekonomi nasional dari 3,97 persen pada 2025 menjadi 4,5-4,7 persen tahun ini. Yang akan membuktikan apakah target itu realistis adalah data kunjungan wisatawan mancanegara di akhir tahun, karena capaian Januari-Agustus baru 10,58 juta dari target 16-17,6 juta kunjungan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "wamendag-soroti-peran-swedia-dalam-i-eu-cepa-di-tei-2026",

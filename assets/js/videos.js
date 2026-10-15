@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "FASmEUT8QP8",
+  "title": "Menteri ESDM Resmikan Kilang LPG Cilamaya di Karawang",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Menteri Koordinator Bidang Hilirisasi dan ESDM Bahlil Lahadalia meresmikan Kilang LPG Cilamaya di Kabupaten Karawang, Jawa Barat.",
+  "takeaway": "Peresmian kilang ini relevan karena menyangkut upaya pemerintah memperkuat pasokan dan ketahanan energi LPG dalam negeri.",
+  "terbit": "2026-10-15T16:30:00+00:00"
+ },
+ {
+  "id": "A-K-uLqQZ1c",
+  "title": "Kadin Sumsel Expo 2026 Buka Peluang Usaha bagi Generasi Muda",
+  "category": "UMKM",
+  "program": "Kabar Hari Ini",
+  "summary": "Kadin Sumsel Expo 2026 digelar di Palembang Square Mall pada 15 sampai 18 Oktober 2026 untuk membuka peluang usaha bagi generasi muda.",
+  "takeaway": "Acara ini mencerminkan geliat kewirausahaan dan UMKM di Sumatera Selatan yang perlu dipantau pembaca ekonomi daerah.",
+  "terbit": "2026-10-15T16:23:58+00:00"
+ },
+ {
   "id": "QeQBze5K4Ao",
   "title": "Indonesia Siap Gelar WCCE 2026 di Jakarta",
   "category": "Industri",

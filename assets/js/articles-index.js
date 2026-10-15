@@ -5,6 +5,75 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-pangkas-biaya-logistik-lewat-perpres-baru",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo [Pangkas] Biaya Logistik Lewat Perpres Baru",
+  "deck": "Presiden Prabowo Subianto menugaskan Menko Airlangga Hartarto menjalankan Perpres 41/2026 untuk menekan biaya logistik nasional yang tercatat 14,29 persen dari PDB pada 2022.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "tags": [
+   "logistik nasional",
+   "Perpres 41/2026",
+   "Airlangga Hartarto",
+   "KIPK"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7157/presiden-prabowo-tugaskan-menko-airlangga-perkuat-ekosistem-logistik-nasional-melalui-perpres-nomor-41-tahun-2026",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pemerintah-targetkan-42-6-gw-listrik-dari-ebt-hingga-2034",
+  "category": "Energi",
+  "title": "Pemerintah Targetkan 42,6 GW Listrik dari [EBT] hingga 2034",
+  "deck": "RUPTL PLN 2025-2034 menargetkan 42,6 GW atau 61 persen tambahan kapasitas listrik dari energi baru dan terbarukan, dengan potensi investasi Rp2.967,4 triliun.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/pemerintah-targetkan-42-6-gw-listrik-dari-ebt-hingga-2034.jpg",
+  "imageV": "mv8zviio",
+  "tags": [
+   "RUPTL",
+   "Energi Terbarukan",
+   "Ekspor",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/bahlil-di-tei-ke-41-dunia-kini-lirik-produk-hijau-nilainya-lebih-tinggi-dari-produk-fosil",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "umkm-papua-dan-jakarta-buru-pembeli-ekspor-di-tei-2026",
+  "category": "UMKM",
+  "title": "UMKM Papua dan Jakarta Buru [Pembeli] Ekspor di TEI 2026",
+  "deck": "Pelaku UMKM dari Jayapura dan Jakarta memamerkan produk di paviliun Kementerian Perdagangan dalam Trade Expo Indonesia ke-41, sembari menanti kepastian pembeli dari luar negeri.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/umkm-papua-dan-jakarta-buru-pembeli-ekspor-di-tei-2026.jpg",
+  "imageV": "mv8zvk39",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Trade Expo Indonesia",
+   "Kementerian Perdagangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/asa-ekspor-umkm-dari-ruang-tamu-pilihan-busan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "harga-emas-antam-turun-jadi-rp2-561-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.561.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp13.000 menjadi Rp2.561.000 per gram pada 15 Oktober 2026, diikuti penurunan harga buyback.",
+  "date": "15 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-561-000-per-gram.jpg",
+  "imageV": "mv8zvki0",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "buyback emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473111-saatnya-beli-harga-emas-antam-hari-ini-15-oktober-2026-turun-jadi-rp2561000-per-gram"
+ },
+ {
   "slug": "jecx-jadwalkan-rupslb-pada-23-november-2026",
   "category": "Aksi Korporasi",
   "title": "JECX Jadwalkan [RUPSLB] pada 23 November 2026",
@@ -6433,70 +6502,6 @@ var ARTICLES = [
    "rating kredit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/512f06aec8_a4291861aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bswd-catat-laba-rp70-9-miliar-ldr-naik-ke-144",
-  "category": "Aksi Korporasi",
-  "title": "BSWD Catat Laba Rp70,9 Miliar, [LDR] Naik ke 144%",
-  "deck": "Materi public expose insidental BSWD memuat laba bersih Agustus 2026 naik 75 persen YoY, rasio kredit terhadap dana pihak ketiga melonjak ke 144 persen, dan tenggat free float 31 Maret 2029.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSWD",
-   "perbankan",
-   "public expose",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fc859da7b3_d28c3cd16f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-jadwalkan-rupslb-13-november-rekam-saham-21-oktober",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Jadwalkan [RUPSLB] 13 November, Rekam Saham 21 Oktober",
-  "deck": "PT Adhi Karya menjadwalkan RUPSLB pada 13 November 2026, dengan tanggal pencatatan pemegang saham 21 Oktober dan agenda resmi baru diumumkan 22 Oktober.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "RUPSLB",
-   "Adhi Karya",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0bbe314efb_4b3433f751.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vici-panggil-rupslb-tiga-komisaris-mundur",
-  "category": "Aksi Korporasi",
-  "title": "VICI panggil RUPSLB, tiga [komisaris] mundur",
-  "deck": "RUPSLB VICI digelar 29 Oktober 2026 membahas pengunduran tiga komisaris sekaligus perubahan anggaran dasar soal bidang usaha dan kewenangan direksi.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICI",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/143e9a66ca_4190505bc3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-pakai-dana-obligasi-rp2-15-triliun-untuk-bayar-utang",
-  "category": "Aksi Korporasi",
-  "title": "ENRG Pakai Dana Obligasi Rp2,15 Triliun untuk [Bayar Utang]",
-  "deck": "Energi Mega Persada melaporkan realisasi dana tiga tahap obligasi senilai total Rp2,15 triliun, sebagian besar dipakai membayar utang lama lewat anak usaha.",
-  "date": "7 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "Energi Mega Persada",
-   "obligasi",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b28f387bfb_09770e0f4e.pdf",
   "sourceLabel": "IDX"
  }
 ];

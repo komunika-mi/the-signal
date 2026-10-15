@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tbig-obligasi-rp2-37-triliun-tercatat-di-bei-16-oktober",
+  "category": "Aksi Korporasi",
+  "title": "TBIG [Obligasi] Rp2,37 Triliun Tercatat di BEI 16 Oktober",
+  "deck": "TBIG mencatatkan obligasi Rp1,24 triliun dan sukuk ijarah Rp1,13 triliun di BEI, bagian dari program utang berkelanjutan senilai total Rp28 triliun.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TBIG",
+   "obligasi",
+   "sukuk ijarah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7428c91f1b_c34c9b59fe.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-kopi-ri-ke-as-baru-2-7-persen-dari-pasar-us-12-8-miliar",
   "category": "Bisnis",
   "title": "Ekspor Kopi RI ke AS Baru [2,7 Persen] dari Pasar US$12,8 Miliar",
@@ -39,6 +55,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-pelaku-umkm-manfaatkan-ai-untuk-kembangkan-usaha",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "simp-tanggapi-bursa-soal-dampak-karhutla-ke-operasional",
+  "category": "Aksi Korporasi",
+  "title": "SIMP Tanggapi Bursa soal Dampak [Karhutla] ke Operasional",
+  "deck": "Salim Ivomas Pratama (SIMP) menjawab permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan terhadap perkebunannya, menyatakan belum ada dampak material terhadap usaha.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SIMP",
+   "karhutla",
+   "kebakaran hutan dan lahan",
+   "perkebunan sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/570f6e57f6_5b0b5a9078.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kadin-gandeng-bri-insurance-perluas-asuransi-usaha",
@@ -6479,38 +6511,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/83aa5093a5_3d76890b17.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "trin-komisaris-utama-mundur-keputusan-final-di-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "TRIN: Komisaris Utama [Mundur], Keputusan Final di RUPSLB",
-  "deck": "Rahayu Saraswati D. Djojohadikusumo mengundurkan diri sebagai Komisaris Utama TRIN per 7 Oktober 2026, menunggu persetujuan RUPSLB.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIN",
-   "komisaris utama",
-   "pengunduran diri",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/460821ac28_275111e10f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-latih-pelaku-homestay-mandalika-jelang-motogp",
-  "category": "UMKM",
-  "title": "Pertamina Latih Pelaku [Homestay] Mandalika Jelang MotoGP",
-  "deck": "Pertamina dan Unram latih pengelola homestay Desa Kuta soal hospitality, bahasa Inggris, dan kelola sampah menjelang MotoGP Mandalika 9-11 Oktober 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/pertamina-latih-pelaku-homestay-mandalika-jelang-motogp.jpg",
-  "imageV": "mv0pw5z1",
-  "tags": [
-   "pertamina",
-   "homestay mandalika",
-   "motogp indonesia 2026",
-   "desa energi berdikari"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472044-ajang-balapan-jadi-magnet-pertamina-dorong-homestay-lokal-naik-kelas"
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tbig-obligasi-rp2-37-triliun-tercatat-di-bei-16-oktober",
+  "category": "Aksi Korporasi",
+  "title": "TBIG [Obligasi] Rp2,37 Triliun Tercatat di BEI 16 Oktober",
+  "deck": "TBIG mencatatkan obligasi Rp1,24 triliun dan sukuk ijarah Rp1,13 triliun di BEI, bagian dari program utang berkelanjutan senilai total Rp28 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T01:35:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7428c91f1b_c34c9b59fe.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TBIG",
+  "tags": [
+   "TBIG",
+   "obligasi",
+   "sukuk ijarah",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Tower Bersama Infrastructure Tbk (TBIG) mulai mencatatkan dua instrumen utang baru di Bursa Efek Indonesia pada 16 Oktober 2026, yaitu Obligasi Berkelanjutan VII Tahap V Tahun 2026 senilai Rp1,2443 triliun dan Sukuk Ijarah Berkelanjutan I Tahap V Tahun 2026, semacam obligasi syariah, senilai Rp1,1261 triliun. Wali amanat atau pihak yang mewakili kepentingan pemegang obligasi dan sukuk ini adalah PT Bank Tabungan Negara (Persero) Tbk, dengan peringkat AA+(idn) dari Fitch Ratings Indonesia, peringkat yang menunjukkan risiko gagal bayar tergolong rendah.",
+   "Obligasi ini terbagi tiga seri. Seri A senilai Rp500 miliar berbunga 7,15 persen per tahun dengan jangka waktu 370 hari kalender, jatuh tempo 25 Oktober 2027. Seri B senilai Rp150,65 miliar berbunga 7,65 persen per tahun, jatuh tempo 15 Oktober 2029. Seri C senilai Rp593,65 miliar berbunga 7,80 persen per tahun, jatuh tempo 15 Oktober 2031. Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 15 Januari 2027.",
+   "Sukuk ijarah juga terbagi tiga seri dengan struktur serupa: Seri A senilai Rp1.000,03 miliar dengan cicilan imbalan Rp71,5 miliar per tahun, Seri B senilai Rp83,06 miliar dengan cicilan Rp6,35 miliar per tahun, dan Seri C senilai Rp43,01 miliar dengan cicilan Rp3,35 miliar per tahun, masing-masing dengan tenor dan jatuh tempo yang sama dengan seri obligasi sejenis. Penawaran berlangsung 9 dan 12 Oktober 2026, penjatahan 13 Oktober, dan dana diterima TBIG pada 15 Oktober 2026 sebelum resmi tercatat di bursa sehari setelahnya. Obligasi dan sukuk ini tidak dijamin aset tertentu, melainkan dengan seluruh harta kekayaan perusahaan, dan TBIG berhak membeli kembali sebagian atau seluruhnya mulai satu tahun setelah tanggal penjatahan. Penerbitan ini merupakan tahap kelima dari program utang berkelanjutan TBIG yang bertarget total Rp20 triliun untuk obligasi dan Rp8 triliun untuk sukuk ijarah."
+  ],
+  "fotoAdegan": "Telecommunication tower riggers working on a tall steel tower structure against an open sky, rural Indonesian landscape in the background",
+  "takeaway": "Penerbitan utang baru ini netral bagi fundamental TBIG, sebab merupakan kelanjutan rutin dari program obligasi berkelanjutan yang sudah efektif sejak Juni 2025 dan mendapat peringkat tinggi AA+ dari Fitch, bukan sinyal mendadak soal kesulitan dana. Yang tersentuh adalah sisi utang dan beban bunga perusahaan: pinjaman baru sekitar Rp2,37 triliun akan menambah liabilitas di laporan keuangan, dan kewajiban membayar bunga obligasi plus cicilan imbalan sukuk yang totalnya sekitar Rp175 miliar per tahun akan menyedot kas perusahaan setiap tiga bulan, dimulai dari pembayaran pertama pada 15 Januari 2027. Sebagai perusahaan induk, TBIG sendiri menyebut risiko utamanya bergantung pada aliran pembayaran dari anak usaha yang mengoperasikan menara dan jaringan fiber optik. Yang perlu dipantau berikutnya adalah pembayaran bunga pertama itu, kemungkinan TBIG membeli kembali sebagian obligasi atau sukuk setelah 13 Oktober 2027 yaitu setahun sejak tanggal penjatahan, serta jatuh tempo seri A pada 25 Oktober 2027 sebagai tenggat pelunasan tercepat dari rangkaian penerbitan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ekspor-kopi-ri-ke-as-baru-2-7-persen-dari-pasar-us-12-8-miliar",
   "category": "Bisnis",
   "title": "Ekspor Kopi RI ke AS Baru [2,7 Persen] dari Pasar US$12,8 Miliar",
@@ -57,6 +83,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan perluasan program pelatihan pemasaran digital berbasis AI yang menurut Kemendag sudah menjangkau 200 pelaku UMKM di Bandung, Batam, dan Jakarta, ditandai penyerahan katalog profil UMKM yang dianggap siap menembus pasar global. Yang terdampak adalah pelaku usaha kecil peserta program ini, terutama yang menyasar ekspor seperti Craftote Gallery & Coffee yang membidik pasar Eropa, karena mereka mendapat sesi pertemuan langsung dengan calon pembeli luar negeri dan pendampingan membuat materi promosi memakai AI. Arahnya cukup jelas, pemerintah dan Meta makin menjadikan AI sebagai alat utama mendorong UMKM naik kelas ke pasar ekspor, bukan sekadar materi seminar. Yang belum terjawab dari siaran ini adalah berapa dari 200 UMKM yang dilatih itu benar-benar mendapat pembeli atau transaksi ekspor nyata, sehingga perlu ditunggu laporan hasil program ini atau data pertemuan dagang pada penyelenggaraan Trade Expo Indonesia berikutnya.",
   "imageV": "mv9uh7eu"
+ },
+ {
+  "slug": "simp-tanggapi-bursa-soal-dampak-karhutla-ke-operasional",
+  "category": "Aksi Korporasi",
+  "title": "SIMP Tanggapi Bursa soal Dampak [Karhutla] ke Operasional",
+  "deck": "Salim Ivomas Pratama (SIMP) menjawab permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan terhadap perkebunannya, menyatakan belum ada dampak material terhadap usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T00:30:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/570f6e57f6_5b0b5a9078.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SIMP",
+  "tags": [
+   "SIMP",
+   "karhutla",
+   "kebakaran hutan dan lahan",
+   "perkebunan sawit"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengirim surat permintaan penjelasan bernomor S-13053/BEI.PP2/10-2026 tertanggal 13 Oktober 2026 kepada PT Salim Ivomas Pratama Tbk (SIMP). Bursa meminta emiten menjelaskan lokasi wilayah operasional, konsesi, dan aset perkebunannya di berbagai daerah di Indonesia, kontribusi masing-masing lokasi terhadap produksi dan pendapatan, dampak kebakaran hutan dan lahan (karhutla) terhadap target produksi 2026, potensi penghentian operasional yang tidak terencana, strategi mitigasi jangka pendek dan panjang, serta kemungkinan proses hukum atau sanksi administratif terkait karhutla seperti penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin.",
+   "Dalam surat tanggapan bernomor SIMP/027/CS/EXT/X/26 tertanggal 15 Oktober 2026 yang ditandatangani Corporate Secretary Meyke Ayuningrum, SIMP menyatakan lahan perkebunan Grup SIMP tersebar di Pulau Jawa, Sumatra, Kalimantan, dan Sulawesi, dengan rincian lokasi mengacu pada Laporan Tahunan 2025 halaman 106-107. Perseroan mengklaim menerapkan kebijakan larangan membakar lahan (zero burning policy) secara konsisten dan membersihkan lahan tidak produktif secara mekanis. Untuk memantau titik api, SIMP menggunakan data satelit dari lembaga cuaca dan antariksa Amerika Serikat, NOAA dan NASA, yang dicocokkan dengan peta konsesi resminya, dan mengklaim titik api yang terdeteksi di lahannya selama ini muncul acak dalam skala kecil sehingga bisa segera ditangani sebelum membesar menjadi kebakaran. Setiap perkebunan juga dilengkapi kendaraan dan peralatan pemadam kebakaran, karyawan menjalani pelatihan rutin tanggap darurat, dan perseroan berkolaborasi dengan masyarakat sekitar untuk pencegahan.",
+   "SIMP menegaskan sampai saat ini belum ada dampak material dari karhutla terhadap kegiatan usaha maupun kelangsungan usahanya. Surat tanggapan ini merupakan koreksi atas pengumuman sebelumnya bernomor SIMP/026/CS/EXT/X/2026 yang disampaikan pada 16 Oktober 2026 pukul 00.30 dengan perihal yang sama, tanpa perubahan pada isi substansi tanggapan kepada bursa."
+  ],
+  "fotoAdegan": "Plantation workers inspecting a firefighting truck beside rows of oil palm trees under a hazy, smoke-tinted sky",
+  "takeaway": "Tanggapan ini bersifat netral bagi penilaian fundamental SIMP, karena isinya menegaskan ulang kebijakan dan klaim tidak ada dampak material tanpa menyertakan data kuantitatif baru seperti estimasi kerugian produksi atau nilai aset yang terdampak. Yang disinggung di sini adalah risiko terhadap aset perkebunan dan kelangsungan produksi, bukan ekuitas atau laba per saham secara langsung, dan investor memperhatikan karhutla karena kebakaran yang meluas bisa memaksa penghentian panen sementara, menambah beban pemadaman, serta dalam kasus terburuk memicu sanksi pemerintah yang mengganggu arus kas perkebunan. Yang perlu dipantau selanjutnya adalah apakah musim kemarau panjang dan El Nino tahun ini benar-benar memicu titik api baru di lahan SIMP pada sisa 2026, serta apakah muncul laporan lanjutan ke bursa kalau status tidak ada dampak material ini berubah akibat kondisi di lapangan.",
+  "sentimen": "netral"
  },
  {
   "slug": "kadin-gandeng-bri-insurance-perluas-asuransi-usaha",

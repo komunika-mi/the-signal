@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "prda-buyback-saham-tembus-2-49-harga-naik-ke-rp3-097",
+  "category": "Aksi Korporasi",
+  "title": "PRDA: Buyback Saham Tembus [2,49%], Harga Naik ke Rp3.097",
+  "deck": "Prodia Widyahusada melaporkan realisasi pembelian kembali saham hingga 16 Oktober 2026, total buyback mencapai 2,49 persen dari saham tercatat dengan sisa dana Rp83,03 miliar.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f9ac20fb88_b6af8f8a72.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lckm-masuk-daftar-pemantauan-khusus-bei-mulai-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "LCKM Masuk Daftar [Pemantauan Khusus] BEI Mulai 19 Oktober",
+  "deck": "Bursa Efek Indonesia memasukkan saham PT LCK Global Kedaton Tbk (LCKM) ke daftar pemantauan khusus mulai 19 Oktober 2026 karena masalah pendapatan usaha.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LCKM",
+   "pemantauan khusus",
+   "BEI",
+   "watchlist saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cef20c4446_dbf1ced131.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sgro-jelaskan-dampak-karhutla-ke-bursa-klaim-tak-material",
+  "category": "Aksi Korporasi",
+  "title": "SGRO Jelaskan Dampak [Karhutla] ke Bursa, Klaim Tak Material",
+  "deck": "SGRO merespons permintaan penjelasan Bursa terkait karhutla, menyatakan tidak ada dampak material terhadap operasi, produksi, dan keuangan perseroan hingga saat ini.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SGRO",
+   "karhutla",
+   "sawit",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ce2035d71c_2b97e01690.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-kini-punya-25-perjanjian-dagang-cakup-72-ekspor-2025",
   "category": "Global",
   "title": "RI Kini Punya [25] Perjanjian Dagang, Cakup 72% Ekspor 2025",
@@ -21,6 +69,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perjanjian-perdagangan-internasional-amankan-pasar-ekspor-indonesia",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bmri-jelaskan-kredit-ke-jhonlin-berjaminan-saham-jarr-pgun",
+  "category": "Aksi Korporasi",
+  "title": "BMRI Jelaskan Kredit ke Jhonlin Berjaminan [Saham] JARR-PGUN",
+  "deck": "BMRI menjelaskan ke Bursa bahwa kredit ke PT Jhonlin Baratama bukan untuk beli saham, meski dijamin saham JARR dan PGUN, menyusul sorotan soal akuisisi BYAN oleh grup Haji Isam.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMRI",
+   "Jhonlin Baratama",
+   "JARR",
+   "PGUN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d4b078d60_768e617f03.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ipac-ungkap-rincian-tender-sukarela-jelang-go-private",
+  "category": "Aksi Korporasi",
+  "title": "IPAC Ungkap Rincian [Tender Sukarela] Jelang Go Private",
+  "deck": "PT Era Graharealty Tbk (IPAC) merinci rencana go private dan delisting, termasuk penawaran tender sukarela oleh pengendali APAC Investment 2 Pte Ltd kepada pemegang saham publik.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPAC",
+   "go private",
+   "delisting",
+   "tender sukarela"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/786b64d05c_d655520653.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rccc-pemegang-saham-utama-pastikan-tak-ubah-kepemilikan",
@@ -253,6 +333,22 @@ var ARTICLES = [
    "Anggaran Dasar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24fb0d2383_0fc51997a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "eraa-rampungkan-opsi-mesop-tahap-2-total-51-54-juta-lembar",
+  "category": "Aksi Korporasi",
+  "title": "ERAA Rampungkan Opsi [MESOP] Tahap 2, Total 51,54 Juta Lembar",
+  "deck": "Erajaya menuntaskan pelaksanaan opsi saham karyawan Tahap 2, melengkapi realisasi 51,54 juta lembar opsi MESOP yang disetujui pemegang saham pada 2025.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "opsi saham",
+   "Erajaya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa34f5c5a1_c6ba8d6300.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6423,103 +6519,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98a9bbedb9_416616aa27.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmhs-wakil-presiden-komisaris-shubhasish-chattoraj-mundur",
-  "category": "Aksi Korporasi",
-  "title": "BMHS: Wakil Presiden Komisaris Shubhasish Chattoraj [Mundur]",
-  "deck": "Wakil Presiden Komisaris BMHS, Shubhasish Chattoraj, mengajukan pengunduran diri pada 7 Oktober 2026. Perseroan akan menggelar RUPSLB untuk meminta persetujuan pemegang saham.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMHS",
-   "Bundamedik",
-   "komisaris",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/676086acd1_98cb280276.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-catatkan-saham-baru-serapan-rights-issue-cuma-18",
-  "category": "Aksi Korporasi",
-  "title": "BAJA catatkan saham baru, [serapan] rights issue cuma 18%",
-  "deck": "IDX mencatat tambahan 111.451 saham BAJA dari pelaksanaan HMETD. Setelah periode rights issue tutup 7 Oktober 2026, baru sekitar 18 persen dari maksimal 900 juta saham yang terserap.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "rights issue",
-   "HMETD",
-   "pencatatan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/666bed80b4_b9e0eab1af.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "coke-catatkan-obligasi-rp2-triliun-di-bei-12-oktober",
-  "category": "Aksi Korporasi",
-  "title": "COKE catatkan [obligasi] Rp2 triliun di BEI 12 Oktober",
-  "deck": "PT Maruwai Coal (COKE) mencatatkan Obligasi I Maruwai Coal Tahun 2026 senilai Rp2 triliun di BEI mulai 12 Oktober 2026, dengan rating idAA dari Pefindo.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "COKE",
-   "obligasi korporasi",
-   "BEI",
-   "ADRO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/df651d8cbb_6dd49ba05c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beli-pendapatan-blibli-melonjak-55-ke-rp14-8-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BELI: Pendapatan Blibli Melonjak [55%] ke Rp14,8 Triliun",
-  "deck": "Materi Public Expose BELI mengungkap pendapatan 1H26 naik 55 persen jadi Rp14,8 triliun, margin membaik, dan pergantian Komisaris Utama hasil RUPST.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BELI",
-   "Blibli",
-   "Public Expose",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6ff9e0a48_12f61b11ce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "motogp-mandalika-2026-buka-kerja-musiman-untuk-warga-lombok",
-  "category": "Ketenagakerjaan",
-  "title": "MotoGP Mandalika 2026 Buka Kerja [Musiman] untuk Warga Lombok",
-  "deck": "Gelaran Pertamina Grand Prix of Indonesia 2026 di Sirkuit Mandalika membuka lowongan musiman bagi warga Lombok, dari petugas kebersihan hingga pengelola sampah.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/motogp-mandalika-2026-buka-kerja-musiman-untuk-warga-lombok.jpg",
-  "imageV": "mv0u3z12",
-  "tags": [
-   "pertamina",
-   "mandalika",
-   "lombok",
-   "ketenagakerjaan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472078-pertamina-grand-prix-of-indonesia-2026-ciptakan-peluang-kerja-musiman-bagi-warga-lombok"
- },
- {
-  "slug": "smar-jadwalkan-rupslb-17-november-agenda-belum-diumumkan",
-  "category": "Aksi Korporasi",
-  "title": "SMAR Jadwalkan [RUPSLB] 17 November, Agenda Belum Diumumkan",
-  "deck": "SMAR mengumumkan rencana RUPSLB pada 17 November 2026. Pemegang saham yang berhak hadir tercatat per 23 Oktober, usulan agenda ditutup 19 Oktober.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMAR",
-   "RUPSLB",
-   "Sinar Mas Agro Resources and Technology",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/75bc9df9fb_af796057b6.pdf",
   "sourceLabel": "IDX"
  }
 ];

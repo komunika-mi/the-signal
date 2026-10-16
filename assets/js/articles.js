@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "prda-buyback-saham-tembus-2-49-harga-naik-ke-rp3-097",
+  "category": "Aksi Korporasi",
+  "title": "PRDA: Buyback Saham Tembus [2,49%], Harga Naik ke Rp3.097",
+  "deck": "Prodia Widyahusada melaporkan realisasi pembelian kembali saham hingga 16 Oktober 2026, total buyback mencapai 2,49 persen dari saham tercatat dengan sisa dana Rp83,03 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T17:01:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f9ac20fb88_b6af8f8a72.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) melaporkan hasil pelaksanaan pembelian kembali sahamnya kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia per 16 Oktober 2026. Program ini dijalankan berdasarkan ketentuan Pasal 12 ayat (1) POJK No. 13 Tahun 2023 tentang kebijakan menjaga kinerja dan stabilitas pasar modal pada kondisi pasar yang berfluktuasi signifikan, merujuk pada keterbukaan informasi perseroan tanggal 19 Agustus 2026. Laporan ditandatangani oleh Corporate Secretary Marina Eka Amalia.",
+   "Pada 16 Oktober 2026, perseroan membeli kembali 1.633.200 lembar saham dengan harga rata-rata Rp3.097 per saham, setara 0,17 persen dari total saham yang tercatat di BEI pada hari itu. Transaksi ini membuat sisa dana yang dialokasikan untuk buyback tinggal Rp83.030.548.908, turun dari Rp148.479.715.003 yang tersisa setelah transaksi pertama pada 20 Agustus 2026.",
+   "Dari rincian transaksi harian sejak 20 Agustus hingga 16 Oktober 2026, akumulasi saham yang dibeli kembali kini mencapai sekitar 2,49 persen dari total saham tercatat, naik dari 1,99 persen yang dilaporkan pada 9 Oktober 2026. Harga rata-rata pembelian juga ikut naik signifikan, dari kisaran Rp2.482 hingga Rp2.602 pada akhir Agustus menjadi di atas Rp3.000 sejak awal Oktober, bahkan menyentuh Rp3.310 pada 15 Oktober sebelum turun sedikit ke Rp3.097 pada 16 Oktober."
+  ],
+  "fotoAdegan": "Laboratory technicians processing blood sample tubes on an automated analyzer in a bright clinical diagnostics lab",
+  "takeaway": "Laporan ini netral bagi fundamental Prodia, sebab akumulasi buyback sebesar 2,49 persen dari total saham tercatat masih terlalu kecil untuk mengubah struktur kepemilikan atau hak suara pemegang saham mayoritas, walau laju pembeliannya terlihat makin agresif seiring harga yang terus naik. Dua pos yang tersentuh adalah kas perusahaan, karena dana buyback keluar dari kas internal dan mengurangi dana yang bisa dipakai untuk keperluan lain, serta jumlah saham beredar, yang mengecil sehingga laba per saham secara matematis bisa sedikit terangkat meski laba bersihnya sendiri tidak berubah. Yang perlu dipantau berikutnya adalah sisa dana buyback yang kini tinggal Rp83,03 miliar, serta bagaimana program ini berjalan menjelang RUPSLB 23 November 2026 yang akan memutuskan rencana pemecahan saham 1:5, sebab dua aksi korporasi ini akan berinteraksi langsung pada jumlah dan harga saham Prodia di pasar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lckm-masuk-daftar-pemantauan-khusus-bei-mulai-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "LCKM Masuk Daftar [Pemantauan Khusus] BEI Mulai 19 Oktober",
+  "deck": "Bursa Efek Indonesia memasukkan saham PT LCK Global Kedaton Tbk (LCKM) ke daftar pemantauan khusus mulai 19 Oktober 2026 karena masalah pendapatan usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T16:51:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cef20c4446_dbf1ced131.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "LCKM",
+   "pemantauan khusus",
+   "BEI",
+   "watchlist saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan PT LCK Global Kedaton Tbk dengan kode saham LCKM masuk ke dalam daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus, melalui surat bernomor Peng-PK-00073/BEI.PLP/10-2026 yang diteken Pjs Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat, Bima Ruditya Surya. Status ini tercatat sebagai 'masuk' atau baru pertama kali berlaku bagi LCKM, yang sahamnya tercatat di papan pengembangan, dan mulai efektif pada 19 Oktober 2026.",
+   "Alasan yang dicantumkan bursa adalah kriteria nomor 3 dari daftar kriteria pemantauan khusus, yaitu perusahaan tidak membukukan pendapatan sama sekali, atau pendapatannya di laporan keuangan terbaru tidak mengalami perubahan dibandingkan laporan keuangan sebelumnya. Bursa tidak mencantumkan angka pendapatan maupun periode laporan keuangan yang dimaksud dalam pengumuman ini, dan tidak ada kriteria lain dari daftar sebelas kriteria pemantauan khusus yang dikenakan pada LCKM.",
+   "Dalam dokumen yang sama, bursa menyertakan daftar lengkap sebelas kriteria yang bisa membuat suatu saham masuk pemantauan khusus, mulai dari opini disclaimer atas laporan keuangan auditan, ekuitas negatif, hingga kondisi perusahaan atau anak usahanya yang dimohonkan pailit atau penundaan kewajiban pembayaran utang. Bursa menyebut rincian lengkap daftar efek dalam pemantauan khusus bisa dilihat di situs resmi idx.co.id."
+  ],
+  "fotoAdegan": "Exterior view of a modern Jakarta financial district office tower at dusk, lit windows, city traffic passing below",
+  "takeaway": "Masuknya LCKM ke daftar pemantauan khusus ini condong negatif bagi emiten, sebab pemicunya adalah persoalan inti bisnis, yakni minimnya pendapatan usaha, bukan sekadar urusan administratif. Pos yang tersorot di sini adalah pendapatan atau omzet perusahaan, bursa mencatat LCKM tidak membukukan pendapatan sama sekali atau pendapatannya tidak bergerak dari laporan sebelumnya, dan pelaku pasar memperhatikan ini karena menunjukkan bisnis utama perusahaan belum menghasilkan uang. Status pemantauan khusus juga lazim membuat mekanisme perdagangan saham berubah menjadi lebih terbatas, sehingga saham bisa lebih sulit dibeli atau dijual dengan cepat. Yang perlu dipantau selanjutnya adalah tanggal 19 Oktober 2026 saat status ini mulai berlaku efektif, serta laporan keuangan LCKM pada periode berikutnya untuk melihat apakah pendapatan mulai bergerak sehingga saham ini berpeluang keluar dari daftar pemantauan khusus.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sgro-jelaskan-dampak-karhutla-ke-bursa-klaim-tak-material",
+  "category": "Aksi Korporasi",
+  "title": "SGRO Jelaskan Dampak [Karhutla] ke Bursa, Klaim Tak Material",
+  "deck": "SGRO merespons permintaan penjelasan Bursa terkait karhutla, menyatakan tidak ada dampak material terhadap operasi, produksi, dan keuangan perseroan hingga saat ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T15:40:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ce2035d71c_2b97e01690.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SGRO",
+  "tags": [
+   "SGRO",
+   "karhutla",
+   "sawit",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Prime Agri Resources Tbk (SGRO) menjawab permintaan penjelasan Bursa Efek Indonesia Nomor S-13040/BEI.PP1/10-2026 tanggal 13 Oktober 2026 soal kebakaran hutan dan lahan (karhutla), yang diterima perseroan pada 14 Oktober 2026. Jawaban resmi bernomor 1161/PAR/X/26/RO/GC tertanggal 16 Oktober 2026 itu ditandatangani Direktur Kim Bang Hyun dan ditembuskan ke Otoritas Jasa Keuangan.",
+   "Dalam suratnya, perseroan merinci wilayah operasional kebun sawitnya yang berada di tiga provinsi rawan karhutla. Di Kabupaten Ogan Komering Ilir, Sumatera Selatan, perseroan mengoperasikan sembilan entitas anak, yaitu PT Aek Tarum, PT Binasawit Makmur, PT Gunung Tua Abadi, PT Mutiara Bunda Jaya, PT Telaga Hikmah, PT Sawit Selatan, PT Selatanjaya Permai, PT Palma Timur Sejahtera, dan PT Gading Jaya Agro. Di Kabupaten Ketapang, Kalimantan Barat, ada PT Usaha Agro Indonesia, dan di Kabupaten Pangkalan Bun, Kalimantan Tengah, ada PT Sungai Rangit. Perseroan menyebut wilayah-wilayah ini secara keseluruhan berkontribusi signifikan terhadap pendapatan konsolidasian per Juni 2026, tanpa merinci porsi persisnya.",
+   "Soal dampak, perseroan menegaskan karhutla belum berdampak material terhadap kegiatan operasional, target produksi 2026, pendapatan, laba, maupun nilai aset, dan tidak ada unplanned shutdown di lokasi kebun maupun entitas anak. Perseroan juga mengungkapkan bahwa satu entitas anak tidak langsung, yang kontribusinya tidak signifikan terhadap pendapatan konsolidasian, telah selesai memberikan keterangan kepada pihak terkait sehubungan dengan karhutla. Sampai tanggal surat, tidak ada penyegelan lahan, gugatan, maupun pencabutan izin usaha perkebunan (IUP) terhadap perseroan atau entitas anaknya.",
+   "Sebagai langkah mitigasi, perseroan menyebut telah menerapkan kebijakan zero burning sejak 2019, disertai pemantauan titik panas harian lewat data satelit, verifikasi lapangan, kesiagaan regu pemadam 24 jam, drone dan CCTV thermal, penyediaan helikopter untuk water bombing, serta koordinasi dengan Manggala Agni, BPBD, TNI/Polri, dan kelompok tani sekitar kebun. Perseroan juga mengklaim rutin menjalani audit kesiapan penanggulangan karhutla sesuai standar sertifikasi keberlanjutan ISPO."
+  ],
+  "fotoAdegan": "Fire brigade crew patrolling a misty oil palm plantation at dawn, carrying hoses near a water canal, haze over the trees.",
+  "takeaway": "Penjelasan ini netral bagi fundamental SGRO, sebab perseroan menegaskan belum ada dampak material pada produksi, pendapatan, laba, maupun aset, meski harus diminta klarifikasi resmi oleh Bursa karena isu karhutla yang menyangkut reputasi perusahaan sawit. Pasar mencermati ini karena kebun-kebun yang disebut, di Sumatera Selatan, Kalimantan Barat, dan Kalimantan Tengah, berkontribusi signifikan terhadap pendapatan konsolidasian, sehingga kebakaran yang meluas bisa langsung menekan produksi tandan buah segar dan laba, sementara sertifikasi keberlanjutan seperti ISPO yang disyaratkan pembeli ekspor juga bisa terganggu kalau ada temuan pelanggaran. Yang perlu dipantau selanjutnya adalah kelanjutan proses pemberian keterangan oleh entitas anak tidak langsung kepada pihak berwenang terkait karhutla, serta apakah Bursa akan meminta klarifikasi tambahan atas jawaban ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ri-kini-punya-25-perjanjian-dagang-cakup-72-ekspor-2025",
   "category": "Global",
   "title": "RI Kini Punya [25] Perjanjian Dagang, Cakup 72% Ekspor 2025",
@@ -30,6 +109,59 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang konkret di sini adalah data cakupannya: 25 perjanjian dagang yang sudah berjalan mencakup 72,34 persen nilai ekspor Indonesia tahun 2025, sementara dua perjanjian lain menunggu pengesahan dan 13 masih dirundingkan. Pihak yang langsung kena dampaknya adalah eksportir, terutama di sektor padat karya seperti tekstil, alas kaki, furnitur, elektronik, dan produk kayu, yang disebut secara spesifik masih punya ruang di pasar Amerika Serikat meski ada tarif baru dari pemerintah AS. Arah yang terlihat adalah pemerintah mengandalkan perjanjian dagang jangka panjang dan jalur diplomasi sebagai bantalan menghadapi kebijakan proteksionis AS, yakni kebijakan yang mempersulit barang asing masuk lewat tarif tinggi, bukan mengubah kebijakan tarif balasan atau subsidi ekspor sendiri. Tapi ini baru separuh gambar, sebab Apindo sendiri mengingatkan perluasan akses pasar tidak otomatis berguna kalau daya saing industri dalam negeri, dari biaya produksi sampai kepastian regulasi, tidak ikut diperbaiki. Yang perlu dipantau adalah progres pengesahan dua perjanjian yang disebut tadi dan hasil dari 13 perundingan yang masih berjalan, karena di situ akan ketahuan apakah porsi 72,34 persen itu naik atau justru mandek.",
   "imageV": "mvap463d"
+ },
+ {
+  "slug": "bmri-jelaskan-kredit-ke-jhonlin-berjaminan-saham-jarr-pgun",
+  "category": "Aksi Korporasi",
+  "title": "BMRI Jelaskan Kredit ke Jhonlin Berjaminan [Saham] JARR-PGUN",
+  "deck": "BMRI menjelaskan ke Bursa bahwa kredit ke PT Jhonlin Baratama bukan untuk beli saham, meski dijamin saham JARR dan PGUN, menyusul sorotan soal akuisisi BYAN oleh grup Haji Isam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T14:48:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d4b078d60_768e617f03.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "Jhonlin Baratama",
+   "JARR",
+   "PGUN"
+  ],
+  "body": [
+   "PT Bank Mandiri (Persero) Tbk memberikan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-13122/BEI.PP1/10-2026 tertanggal 14 Oktober 2026. Surat itu merujuk pada tiga pemberitaan media, yakni Kontan.co.id pada 12 Oktober yang membandingkan kasus ini dengan kasus Bakrie tahun 2008, CNN Indonesia pada 9 Oktober soal gadai saham sebelum pembelian saham PT Bayan Resources Tbk (BYAN), dan IDN Financials pada 8 Oktober soal gadai saham PT Pradiksi Gunatama Tbk (PGUN) oleh perusahaan afiliasi Haji Isam. Bursa secara khusus juga mengingatkan bahwa kepemilikan saham PGUN tercatat sangat terkonsentrasi. Mandiri wajib menjawab dalam dua hari bursa dan menyampaikan tanggapannya pada 16 Oktober 2026 melalui sistem IDXnet, ditandatangani oleh Adhika Vista selaku Corporate Secretary.",
+   "Dalam jawabannya, Mandiri menegaskan bahwa fasilitas kredit kepada PT Jhonlin Baratama (JB) bukan untuk aktivitas jual beli saham, melainkan untuk pengembangan usaha termasuk belanja modal dan kebutuhan pembiayaan JB beserta grup usahanya di industri batu bara dan sektor penunjangnya. Bank menyebut keputusan pemberian kredit sudah mempertimbangkan kemampuan bayar JB dan grupnya untuk rencana jangka pendek, menengah, dan panjang, serta mengikuti tiga pilar penilaian kualitas kredit yang diatur OJK, yaitu prospek usaha, kinerja, dan kemampuan membayar. Mandiri juga menyoroti bahwa JB adalah perusahaan operasional yang menghasilkan EBITDA dan merupakan induk dari beberapa anak usaha yang bisa membagikan dividen.",
+   "Soal jaminan, Mandiri menjelaskan bahwa fasilitas kredit itu dijamin dengan aset tetap dan aset non-tetap, termasuk saham JARR dan PGUN yang merupakan afiliasi JB, serta rekening perusahaan. Bank menyatakan penilaian saham sebagai jaminan tambahan sudah mengikuti Pasal 4 POJK 40/2017, yang membatasi nilai saham jaminan maksimal 50 persen dari harga pasar saat akad kredit ditandatangani, dan kebijakan internal bank sendiri. Mandiri menegaskan jaminan saham berfungsi sebagai sumber pelunasan kedua atau second way out, bukan sumber pelunasan utama, dan dinilai secara konservatif. Bank menutup tanggapannya dengan menyatakan tidak ada informasi material lain terkait hal ini yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Wide view of a coal stockpile and loading conveyor at an open mining site, heavy trucks moving in hazy daylight, no visible signage",
+  "takeaway": "Laporan ini condong negatif bagi profil risiko Bank Mandiri, karena mengonfirmasi bank memberi kredit ke satu kelompok usaha dengan sebagian jaminannya berupa saham dua emiten kecil, JARR dan PGUN, yang menurut Bursa sendiri kepemilikannya sangat terkonsentrasi sehingga sulit dijual cepat kalau bank harus mengeksekusi jaminan itu. Pos yang tersentuh adalah kualitas kredit dan cadangan kerugian bank: kalau nilai saham jaminan merosot atau sulit dicairkan saat debitur gagal bayar, bank bisa harus menambah cadangan, yang pada akhirnya menggerus laba dan ekuitas. Mandiri membela diri dengan menyebut saham itu cuma jaminan pelengkap, bukan sumber pelunasan utama, dan nilainya dihitung konservatif sesuai batas 50 persen dari harga pasar yang diatur OJK, tetapi bank tidak membuka berapa nilai kreditnya atau berapa porsi jaminan yang berbentuk saham. Yang perlu dipantau berikutnya adalah apakah Bursa menerima penjelasan ini sebagai final atau meminta data tambahan, serta pergerakan harga saham JARR dan PGUN ke depan, karena itu langsung memengaruhi nilai jaminan yang dipegang Mandiri.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ipac-ungkap-rincian-tender-sukarela-jelang-go-private",
+  "category": "Aksi Korporasi",
+  "title": "IPAC Ungkap Rincian [Tender Sukarela] Jelang Go Private",
+  "deck": "PT Era Graharealty Tbk (IPAC) merinci rencana go private dan delisting, termasuk penawaran tender sukarela oleh pengendali APAC Investment 2 Pte Ltd kepada pemegang saham publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T14:33:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/786b64d05c_d655520653.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPAC",
+  "tags": [
+   "IPAC",
+   "go private",
+   "delisting",
+   "tender sukarela"
+  ],
+  "body": [
+   "PT Era Graharealty Tbk (IPAC), pemegang waralaba agen properti ERA di Indonesia, menerbitkan tambahan keterbukaan informasi pada 16 Oktober 2026 yang melengkapi dokumen serupa yang sudah terbit pada 11 September 2026 soal rencana perubahan status dari perusahaan terbuka menjadi tertutup (go private) sekaligus penghapusan pencatatan saham dari Bursa Efek Indonesia (delisting). Latar belakangnya, perdagangan saham IPAC sudah dihentikan sementara oleh BEI sejak sesi pertama 11 September 2026, menyusul surat permohonan delisting yang diajukan perseroan pada 7 September 2026. Manajemen beralasan perseroan sudah tidak memerlukan pendanaan dari pasar modal, ingin menekan biaya operasional, dan membutuhkan keleluasaan lebih besar untuk restrukturisasi usaha ke depan.",
+   "Berdasarkan Daftar Pemegang Saham per 31 Agustus 2026, APAC Investment 2 Pte Ltd selaku pengendali menguasai 860.562.600 saham atau 90,60 persen dari total 948.868.500 saham IPAC, sementara publik memegang 89.305.900 saham atau 9,40 persen. Rencana go private dan delisting ini baru bisa berjalan setelah mendapat persetujuan dari pemegang saham independen, yaitu pemegang saham yang tidak punya kepentingan ekonomi pribadi dan bukan bagian dari direksi, komisaris, atau pengendali perseroan, melalui Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan 20 Oktober 2026.",
+   "Jika RUPSLB menyetujui, APAC Investment 2 Pte Ltd akan membuka penawaran tender sukarela untuk membeli saham milik pemegang saham publik. Dana pembeliannya berasal dari pinjaman APAC Realty Limited, pemegang saham tunggal APAC Investment 2 Pte Ltd, melalui perjanjian pinjaman yang diteken 13 Oktober 2026 dan bersumber dari kas internal APAC Realty, tanpa pembatasan penggunaan dana. Dokumen ini juga mengungkap bahwa pemilik manfaat akhir dari APAC Investment 2 Pte Ltd adalah Morgan Stanley, perusahaan jasa keuangan Amerika Serikat yang tercatat di New York Stock Exchange. Harga penawaran tender sukarela sendiri belum tercantum dalam bagian dokumen yang tersedia.",
+   "Dari sisi kinerja, laporan keuangan konsolidasian IPAC per 31 Desember 2025 mencatat pendapatan Rp58,5 miliar, naik dari Rp44,7 miliar pada 2024. Laba tahun berjalan tercatat Rp1,48 miliar, melonjak dari Rp461,9 juta pada 2024, meski masih di bawah Rp2,85 miliar pada 2023. Ekuitas perseroan naik menjadi Rp40,59 miliar dengan laba per saham Rp1,56, dibandingkan Rp0,49 pada 2024."
+  ],
+  "fotoAdegan": "Real estate agents showing a suburban house to a young couple, walking through a gated housing complex, late afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental IPAC, karena go private tampak didorong oleh perubahan strategi pengendali, bukan tanda kesulitan keuangan, mengingat laba tahun berjalan 2025 perseroan naik jadi Rp1,48 miliar dari Rp461,9 juta setahun sebelumnya dan ekuitasnya tumbuh ke Rp40,59 miliar. Yang tersentuh di sini bukan kinerja operasional, melainkan akses saham publik ke pasar modal, karena setelah delisting pemegang saham minoritas kehilangan tempat jual beli saham resmi dan hanya bisa melepas kepemilikannya lewat penawaran tender sukarela dari APAC Investment 2 Pte Ltd. Dana pembelian saham publik itu sendiri sudah disiapkan lewat pinjaman dari induk usahanya, APAC Realty Limited, yang bersumber dari kas internal, sehingga risiko dana tidak cair relatif kecil. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 20 Oktober 2026 yang memerlukan persetujuan pemegang saham independen, serta harga penawaran tender sukarela yang belum diumumkan dalam dokumen ini dan akan menentukan nilai yang akhirnya diterima pemegang saham publik.",
+  "sentimen": "netral"
  },
  {
   "slug": "rccc-pemegang-saham-utama-pastikan-tak-ubah-kepemilikan",
@@ -401,6 +533,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rows of empty chairs arranged in a modern conference hall before a corporate meeting, soft morning light through tall windows",
   "takeaway": "Pemanggilan ini condong netral bagi UNTD, sebab isinya seputar administrasi tata kelola, yakni penyesuaian klasifikasi usaha dan kemungkinan rotasi pengurus, tanpa indikasi perubahan permodalan atau transaksi besar yang mengubah fundamental perusahaan. Pos yang tersentuh ada di sisi tata kelola dan beban operasional, karena pergantian direksi-komisaris bisa mengubah arah strategi, sementara penetapan gaji tahun 2026 berpengaruh ke beban perseroan, bukan ke arus kas atau jumlah saham beredar karena RUPSLB ini hanya mengesahkan ulang laporan dana lama, tidak menghimpun dana segar. Yang perlu dipantau adalah hasil rapat pada 9 November 2026, terutama apakah ada nama baru yang masuk ke Direksi atau Dewan Komisaris dan isi laporan realisasi dana IPO yang baru akan terungkap detailnya setelah disetujui pemegang saham. Pemegang saham yang ingin ikut menentukan hasil itu harus mendaftar lewat eASY.KSEI paling lambat 8 November 2026 pukul 12.00 WIB atau mengirim surat kuasa tertulis ke BAE sebelum 3 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "eraa-rampungkan-opsi-mesop-tahap-2-total-51-54-juta-lembar",
+  "category": "Aksi Korporasi",
+  "title": "ERAA Rampungkan Opsi [MESOP] Tahap 2, Total 51,54 Juta Lembar",
+  "deck": "Erajaya menuntaskan pelaksanaan opsi saham karyawan Tahap 2, melengkapi realisasi 51,54 juta lembar opsi MESOP yang disetujui pemegang saham pada 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T07:47:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa34f5c5a1_c6ba8d6300.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "opsi saham",
+   "Erajaya"
+  ],
+  "body": [
+   "PT Erajaya Swasembada Tbk (ERAA) melaporkan ke Bursa Efek Indonesia bahwa pelaksanaan Tahap 2 program opsi saham karyawan (MESOP) telah selesai pada 14 Oktober 2026, setelah berjalan sejak 1 Oktober 2026. Pada tahap ini, sebanyak 25.788.522 opsi dieksekusi oleh pemegangnya menjadi saham baru. Jumlah ini menyusul realisasi Tahap 1 sebanyak 25.751.978 opsi yang dilaksanakan sejak 1 Oktober hingga 7 November 2025 dan telah dilaporkan ke bursa pada 10 November 2025.",
+   "Dengan rampungnya kedua tahap, total opsi yang dieksekusi mencapai 51.540.500 lembar, sama persis dengan jumlah total opsi yang diterbitkan dalam program ini. Perseroan menyatakan tidak ada sisa opsi yang belum dilaksanakan maupun opsi yang kedaluwarsa tanpa dieksekusi, yang berarti seluruh jatah opsi dalam program MESOP ini sudah terpakai habis oleh para penerimanya.",
+   "Program MESOP ini merupakan kelanjutan dari keputusan Rapat Umum Pemegang Saham Luar Biasa Erajaya pada 10 Juni 2025, setelah sebelumnya perseroan mengumumkan perpanjangan periode pelaksanaan program pada 19 Maret 2025 melalui surat nomor 059/ERAA/CS/V/2025. Laporan hasil pelaksanaan Tahap 2 ini ditandatangani oleh Amelia Allen selaku Kepala Bidang Hukum dan Sekretaris Perusahaan ERAA."
+  ],
+  "fotoAdegan": "Customers browsing shelves of smartphones and gadgets inside a busy electronics retail store, blurred glass displays, Jakarta",
+  "takeaway": "Laporan ini bersifat netral bagi fundamental ERAA karena hanya menuntaskan program opsi karyawan yang sudah disetujui pemegang saham sejak pertengahan 2025, tanpa kejutan baru dalam jumlah maupun syaratnya. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab setiap opsi MESOP yang dieksekusi otomatis menambah saham baru Erajaya, sementara laba bersih perseroan belum tentu naik sebanding, sehingga ada potensi laba per saham sedikit terdilusi walau dokumen ini belum memberi angka total saham beredar ERAA untuk mengukur besarannya. Yang perlu dipantau selanjutnya adalah apakah Erajaya segera mengumumkan perubahan modal disetor dan jumlah saham beredar resminya menyusul tuntasnya 51,54 juta lembar opsi ini, serta laporan kepemilikan saham terbaru dari manajemen yang menerima opsi tersebut.",
   "sentimen": "netral"
  },
  {

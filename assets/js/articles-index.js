@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "trim-siapkan-dana-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "TRIM Siapkan Dana [Lunasi] Obligasi Rp100 Miliar yang Jatuh Tempo",
+  "deck": "Trimegah Sekuritas menyiapkan dana Rp100 miliar untuk melunasi obligasi yang jatuh tempo 18 Oktober 2026; efek ini berhenti diperdagangkan di BEI mulai 19 Oktober 2026.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIM",
+   "obligasi",
+   "pelunasan obligasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d4065c90f4_eca313b776.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bjbr-siapkan-dana-lunasi-obligasi-rp74-miliar-18-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BJBR Siapkan Dana, [Lunasi] Obligasi Rp74 Miliar 18 Oktober",
+  "deck": "Bank bjb menyatakan siap melunasi pokok dan bunga Obligasi Seri C senilai Rp75,62 miliar yang jatuh tempo 18 Oktober 2026; efek ini berhenti diperdagangkan di bursa mulai 19 Oktober.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BJBR",
+   "obligasi",
+   "bank bjb",
+   "jatuh tempo obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f2bce3332a_fef25fc41a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smra-lunasi-obligasi-rp468-miliar-jatuh-tempo-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "SMRA lunasi obligasi [Rp468 miliar] jatuh tempo 19 Oktober",
+  "deck": "Summarecon Agung (SMRA) memastikan dana untuk melunasi pokok Rp468 miliar Obligasi Berkelanjutan IV Tahap II Seri A yang jatuh tempo dan didelisting dari BEI pada 19 Oktober 2026.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMRA",
+   "obligasi korporasi",
+   "pelunasan obligasi",
+   "Summarecon Agung"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7634620765_713aae34c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smar-siapkan-dana-rp958-miliar-lunasi-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Siapkan Dana Rp958 Miliar Lunasi Obligasi [Jatuh Tempo]",
+  "deck": "Obligasi SMAR03CCN2 senilai Rp958 miliar jatuh tempo 19 Oktober 2026; SMART pastikan dana pelunasan sudah tersedia.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMAR",
+   "obligasi",
+   "jatuh tempo",
+   "SMART"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7f1e0d968f_a8f1b1855a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbkp-resmi-catatkan-obligasi-subordinasi-rp500-miliar-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Resmi Catatkan Obligasi Subordinasi [Rp500 Miliar] di BEI",
+  "deck": "Bank KB Indonesia mencatatkan Obligasi Subordinasi Berkelanjutan IV Tahap II senilai Rp500 miliar di BEI mulai 19 Oktober 2026, dengan kupon 8,95-9,30% dan peringkat AAidn dari Fitch.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBKP",
+   "obligasi subordinasi",
+   "Bank KB Indonesia",
+   "pencatatan BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/65ab5ad300_502371ce15.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "anjt-jawab-bursa-soal-karhutla-sebut-tak-ada-dampak-signifikan",
+  "category": "Aksi Korporasi",
+  "title": "ANJT Jawab Bursa soal [Karhutla], Sebut Tak Ada Dampak Signifikan",
+  "deck": "ANJT merespons permintaan penjelasan BEI terkait kebakaran hutan dan lahan di sejumlah wilayah operasionalnya, termasuk Kalimantan Barat.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANJT",
+   "Austindo Nusantara Jaya",
+   "Karhutla",
+   "Keterbukaan Informasi BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c371794843_01af4f9dba.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dooh-koreksi-panggilan-rupslb-agenda-pinjaman-rp5-triliun",
   "category": "Aksi Korporasi",
   "title": "DOOH Koreksi Panggilan RUPSLB, Agenda [Pinjaman] Rp5 Triliun",
@@ -6428,104 +6524,6 @@ var ARTICLES = [
    "Direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d9088b67a_e976b71f23.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-ubah-hentakan-tenun-jadi-listrik-pompa-air",
-  "category": "BUMN",
-  "title": "Pertamina Ubah Hentakan Tenun Jadi Listrik Pompa [Air]",
-  "deck": "Program Pertamina Patra Niaga di Desa Sukarara, NTB, menaikkan pendapatan perajin tenun dari sekitar Rp25.000 menjadi minimal Rp750.000 per kain, sekaligus mengubah gerak alat tenun jadi listrik untuk pompa air.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/pertamina-ubah-hentakan-tenun-jadi-listrik-pompa-air.jpg",
-  "imageV": "mv0zlua3",
-  "tags": [
-   "pertamina",
-   "tenun ntb",
-   "pemberdayaan perempuan",
-   "air bersih"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472099-inovasi-mina-tenun-di-desa-sukarara-ntb-ubah-hentakan-alat-tenun-jadi-listrik-pompa-air"
- },
- {
-  "slug": "gwsa-tegaskan-kebakaran-menara-batavia-bukan-aset-perusahaan",
-  "category": "Aksi Korporasi",
-  "title": "GWSA Tegaskan [Kebakaran] Menara Batavia Bukan Aset Perusahaan",
-  "deck": "GWSA menjelaskan ke BEI bahwa kebakaran di Menara Batavia pada 8 Oktober 2026 bukan terjadi di asetnya, melainkan di gedung lain yang namanya mirip dengan proyek miliknya, TCC Batavia Tower One.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GWSA",
-   "kebakaran",
-   "keterbukaan informasi",
-   "Menara Batavia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71a1aa6ddd_171549a24b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bswd-papar-suspensi-saham-dan-tenggat-free-float-2029",
-  "category": "Aksi Korporasi",
-  "title": "BSWD Papar Suspensi Saham dan Tenggat Free Float [2029]",
-  "deck": "BOI Indonesia (BSWD) menjawab soal suspensi saham, kesenjangan dana pihak ketiga, dan tenggat free float 2029 dalam public expose insidental 8 Oktober 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSWD",
-   "Bank of India Indonesia",
-   "Suspensi Saham",
-   "Public Expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/05d227840f_1beefbb82a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "umkm-lombok-antusias-sambut-motogp-mandalika-2026",
-  "category": "UMKM",
-  "title": "UMKM Lombok [Antusias] Sambut MotoGP Mandalika 2026",
-  "deck": "Pelaku usaha kecil di sekitar Mandalika menyambut gelaran MotoGP sebagai peluang memperkenalkan produk lokal ke wisatawan dari berbagai negara.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/umkm-lombok-antusias-sambut-motogp-mandalika-2026.jpg",
-  "imageV": "mv0zluqi",
-  "tags": [
-   "UMKM",
-   "MotoGP Mandalika",
-   "Pertamina",
-   "NTB"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472085-umkm-lokal-antusias-sambut-hadirnya-grand-prix-of-indonesia-2026"
- },
- {
-  "slug": "zone-tancorp-tambah-saham-hak-suara-ke-28-47",
-  "category": "Aksi Korporasi",
-  "title": "ZONE: TANCORP [Tambah] Saham, Hak Suara ke 28,47%",
-  "deck": "TANCORP Investama Mulia membeli 41,9 juta saham ZONE lewat mekanisme repo, mengangkat hak suaranya dari 23,65 persen menjadi 28,47 persen.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZONE",
-   "Mega Perintis",
-   "kepemilikan saham",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-6904-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppri-pemegang-saham-jual-21-4-juta-saham-hak-suara-ke-10-76",
-  "category": "Aksi Korporasi",
-  "title": "PPRI: Pemegang Saham Jual 21,4 Juta Saham, Hak Suara ke [10,76%]",
-  "deck": "Budi Aditya Erna Mulyanto melepas 21,47 juta saham PPRI pada 8 Oktober 2026 seharga Rp186 per saham, memangkas hak suaranya dari 12,76 persen menjadi 10,76 persen.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRI",
-   "divestasi saham",
-   "kepemilikan saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-1008-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

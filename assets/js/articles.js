@@ -3,6 +3,161 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "trim-siapkan-dana-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "TRIM Siapkan Dana [Lunasi] Obligasi Rp100 Miliar yang Jatuh Tempo",
+  "deck": "Trimegah Sekuritas menyiapkan dana Rp100 miliar untuk melunasi obligasi yang jatuh tempo 18 Oktober 2026; efek ini berhenti diperdagangkan di BEI mulai 19 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T20:17:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d4065c90f4_eca313b776.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIM",
+  "tags": [
+   "TRIM",
+   "obligasi",
+   "pelunasan obligasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Trimegah Sekuritas Indonesia Tbk (TRIM) melaporkan ke Bursa Efek Indonesia bahwa Obligasi Berkelanjutan II Trimegah Sekuritas Indonesia Tahap II Tahun 2025 Seri A, dengan kode seri TRIM02ACN2 senilai Rp100 miliar, jatuh tempo pada 18 Oktober 2026. Obligasi yang diterbitkan pada 8 Oktober 2025 itu dinyatakan BEI tidak lagi tercatat dan tidak dapat diperdagangkan mulai 19 Oktober 2026, sesuai pengumuman bursa nomor Peng-JTO-00057/BEI.PP3/10-2026.",
+   "Dalam surat tertanggal 28 September 2026 yang ditujukan kepada Direktur Utama BEI Jeffrey Hendrik, manajemen Trimegah menyatakan Perseroan telah menyiapkan dana pelunasan senilai Rp100 miliar untuk membayar penuh pokok obligasi tersebut sebelum jatuh tempo. Surat itu disampaikan untuk memenuhi ketentuan Pasal IV.2.11 Peraturan Bursa Nomor I-E tentang Kewajiban Penyampaian Informasi, sebagaimana diatur dalam Surat Keputusan Direksi BEI Nomor Kep-00087/BEI/12-2025 tanggal 12 Desember 2025, dan ditandatangani oleh dua direktur Perseroan, David Agus dan Rony Hascaryo."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's Sudirman business district at dusk, city lights beginning to glow",
+  "takeaway": "Laporan ini condong positif bagi Trimegah karena menunjukkan Perseroan sudah menyiapkan dana penuh Rp100 miliar untuk melunasi obligasinya, bukan menunggu hingga mendekati tenggat. Pos yang tersentuh adalah utang obligasi dan arus kas: begitu dilunasi, kewajiban Rp100 miliar ini hilang dari pembukuan dan beban bunga tahunan yang selama ini dibayarkan ke pemegang obligasi ikut berhenti, meski di sisi lain kas Perseroan berkurang sebesar nilai pelunasan tersebut. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada tanggal jatuh tempo 18 Oktober 2026 dan kepastian delisting efek dari BEI yang mulai berlaku 19 Oktober 2026, karena keduanya akan menegaskan apakah proses pelunasan berjalan sesuai rencana yang disampaikan Perseroan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bjbr-siapkan-dana-lunasi-obligasi-rp74-miliar-18-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BJBR Siapkan Dana, [Lunasi] Obligasi Rp74 Miliar 18 Oktober",
+  "deck": "Bank bjb menyatakan siap melunasi pokok dan bunga Obligasi Seri C senilai Rp75,62 miliar yang jatuh tempo 18 Oktober 2026; efek ini berhenti diperdagangkan di bursa mulai 19 Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T20:04:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f2bce3332a_fef25fc41a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BJBR",
+  "tags": [
+   "BJBR",
+   "obligasi",
+   "bank bjb",
+   "jatuh tempo obligasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan I Bank BJB Tahap III Tahun 2019 Seri C dengan kode BJBR01CCN3 tidak lagi tercatat dan tidak bisa diperdagangkan di bursa mulai 19 Oktober 2026. Obligasi senilai Rp74 miliar ini diterbitkan pada 18 Oktober 2019 dengan bunga tetap 8,75 persen per tahun dan jatuh tempo pada 18 Oktober 2026, tujuh tahun setelah penerbitan. Seri C merupakan bagian dari penawaran umum berkelanjutan senilai total Rp248 miliar pada tahap III 2019, yang juga mencakup Seri A senilai Rp66 miliar dan Seri B senilai Rp108 miliar.",
+   "Dalam surat tertanggal 25 September 2026 kepada BEI, Direktur Keuangan bank bjb Hana Dartiwan menyatakan perseroan telah menyiapkan dana sebesar Rp75.618.750.000 untuk melunasi obligasi tersebut, terdiri dari pokok Rp74 miliar dan bunga atau kupon terakhir sebesar Rp1.618.750.000. Surat ini merupakan pemenuhan kewajiban bank bjb berdasarkan aturan BEI yang mengharuskan emiten melaporkan kesiapan dana pelunasan paling lambat 15 hari bursa sebelum obligasi jatuh tempo.",
+   "Berdasarkan laporan keuangan bulanan bank bjb per 31 Agustus 2026, dana pelunasan tersebut ditempatkan pada pos Penempatan Pada Bank Indonesia. Obligasi Tahap III 2019 ini sendiri merupakan bagian dari program Obligasi Berkelanjutan I Bank BJB dengan target total penghimpunan dana Rp3,5 triliun, setelah sebelumnya perseroan menerbitkan Tahap I pada 2017 senilai Rp1,5 triliun dan Tahap II pada 2018 senilai Rp1,752 triliun."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise bank headquarters building in an Indonesian business district, blue sky, wide angle, no visible signage",
+  "takeaway": "Laporan ini netral bagi bank bjb karena yang terjadi hanya pelunasan tepat waktu atas obligasi senilai Rp74 miliar, jumlah yang kecil dibanding skala aset bank, sehingga tidak mengubah gambaran fundamentalnya. Pos yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar dari kas perusahaan: bank bjb akan mengeluarkan dana Rp75,62 miliar yang selama ini diparkir di penempatan Bank Indonesia, jadi ini murni pembayaran utang jatuh tempo, bukan urusan ekuitas atau jumlah saham beredar. Yang perlu dipantau adalah realisasi pembayaran pada 18 Oktober 2026 dan efektifnya delisting obligasi dari bursa pada 19 Oktober 2026, sebagai konfirmasi bahwa kewajiban ini benar-benar selesai tanpa gagal bayar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smra-lunasi-obligasi-rp468-miliar-jatuh-tempo-19-oktober",
+  "category": "Aksi Korporasi",
+  "title": "SMRA lunasi obligasi [Rp468 miliar] jatuh tempo 19 Oktober",
+  "deck": "Summarecon Agung (SMRA) memastikan dana untuk melunasi pokok Rp468 miliar Obligasi Berkelanjutan IV Tahap II Seri A yang jatuh tempo dan didelisting dari BEI pada 19 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T20:04:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7634620765_713aae34c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMRA",
+  "tags": [
+   "SMRA",
+   "obligasi korporasi",
+   "pelunasan obligasi",
+   "Summarecon Agung"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan IV Summarecon Agung Tahap II Tahun 2023 Seri A, dengan kode seri SMRA04ACN2, akan berhenti diperdagangkan di bursa mulai 19 Oktober 2026 karena jatuh tempo. Obligasi ini diterbitkan pada 19 Oktober 2023 dengan nilai pokok Rp468 miliar dan bunga 7,35 persen per tahun, dan dibayar penuh sekaligus (bullet payment) pada tanggal jatuh temponya, tiga tahun setelah penerbitan.",
+   "Direksi Summarecon Agung, melalui surat bernomor 0711/IX/DIR/SMRA/26 yang ditandatangani Corporate Secretary Lydia Tjio pada 24 September 2026, memastikan kesiapan dana untuk pelunasan pokok obligasi tersebut. Perusahaan menyatakan akan membayar seluruh pokok senilai Rp468 miliar beserta bunga terakhir sebesar 7,35 persen per tahun pada 19 Oktober 2026, bertepatan dengan tanggal jatuh tempo.",
+   "Obligasi Seri A ini merupakan bagian dari Obligasi Berkelanjutan IV Summarecon Agung, program penawaran umum berkelanjutan dengan target total dana Rp3 triliun. Pada tahap kedua penerbitan tahun 2023 ini, perusahaan juga menerbitkan Seri B senilai Rp432 miliar dengan bunga 8 persen per tahun yang baru jatuh tempo pada 19 Oktober 2028. Obligasi dijamin dengan seluruh kekayaan perusahaan tanpa jaminan khusus, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat dan PT Indo Premier Sekuritas sebagai penjamin pelaksana emisi. Saat diterbitkan, obligasi ini memperoleh peringkat idA+ dari Pefindo."
+  ],
+  "fotoAdegan": "Aerial view of a mixed-use residential and commercial township with high-rise towers and green boulevards in a Jakarta suburb",
+  "takeaway": "Laporan ini condong positif bagi Summarecon Agung, sebab perusahaan sudah memastikan punya dana tunai untuk melunasi penuh Rp468 miliar utang obligasi tanpa perlu mencari pinjaman baru atau menjual aset secara mendadak. Yang tersentuh adalah arus kas dan beban bunga: kas perusahaan akan berkurang sebesar nilai pelunasan saat pembayaran dilakukan, tetapi setelah itu Summarecon tidak lagi menanggung bunga tahunan 7,35 persen dari pokok Rp468 miliar tersebut, sehingga beban bunga ke depan menyusut dan utang di buku perusahaan berkurang. Yang perlu dipantau berikutnya adalah apakah pembayaran benar terealisasi pada tanggal jatuh tempo, 19 Oktober 2026, serta apakah Summarecon akan menerbitkan Obligasi Berkelanjutan IV Tahap III sebagai pengganti pendanaan, mengingat sisa Obligasi Seri B senilai Rp432 miliar masih akan jatuh tempo lebih lambat, pada 19 Oktober 2028.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "smar-siapkan-dana-rp958-miliar-lunasi-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Siapkan Dana Rp958 Miliar Lunasi Obligasi [Jatuh Tempo]",
+  "deck": "Obligasi SMAR03CCN2 senilai Rp958 miliar jatuh tempo 19 Oktober 2026; SMART pastikan dana pelunasan sudah tersedia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T20:01:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7f1e0d968f_a8f1b1855a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMAR",
+  "tags": [
+   "SMAR",
+   "obligasi",
+   "jatuh tempo",
+   "SMART"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan bahwa Obligasi Berkelanjutan III SMART Tahap II Tahun 2021 Seri C dengan kode SMAR03CCN2 akan berhenti tercatat dan tidak lagi diperdagangkan di BEI mulai 19 Oktober 2026, bertepatan dengan jatuh tempo obligasi tersebut. Obligasi ini diterbitkan PT Sinar Mas Agro Resources and Technology Tbk (SMART) pada 19 Oktober 2021 dengan nilai pokok Rp958 miliar, bunga tetap 9,00 persen per tahun, dan jangka waktu lima tahun. Pembayaran pokok dilakukan sekaligus penuh pada tanggal jatuh tempo, bukan dicicil selama masa obligasi.",
+   "Seri C ini adalah satu dari tiga seri Obligasi Berkelanjutan III SMART Tahap II Tahun 2021 yang total nilainya Rp2,5 triliun, bagian dari program obligasi berkelanjutan senilai Rp5 triliun. Seri A senilai Rp477 miliar dengan bunga 6,00 persen sudah jatuh tempo dan dibayar pada 29 Oktober 2022, sedangkan Seri B senilai Rp1,065 triliun dengan bunga 8,50 persen jatuh tempo pada 19 Oktober 2024. Dengan lunasnya Seri C pada 19 Oktober 2026, seluruh Tahap II dari program obligasi ini otomatis selesai dibayar.",
+   "Dalam surat tertanggal 25 September 2026 kepada BEI, Direktur Utama SMART menyatakan perusahaan telah menyiapkan dana pembayaran pokok Seri C sebesar Rp958 miliar beserta bunganya, dan akan mentransfernya ke rekening PT Kustodian Sentral Efek Indonesia (KSEI) tepat waktu sesuai jadwal. Perusahaan menyebut kesiapan dana ini didukung oleh posisi likuiditas yang sehat berdasarkan laporan keuangan konsolidasian per 30 Juni 2026. Wali amanat obligasi ini adalah PT Bank Mega Tbk, dan obligasi mendapat peringkat idA+ (Single A Plus) dari PT Pemeringkat Efek Indonesia (Pefindo) saat diterbitkan."
+  ],
+  "fotoAdegan": "Rows of palm oil fresh fruit bunches stacked at a plantation collection point, workers loading a truck, tropical morning light",
+  "takeaway": "Laporan ini condong positif bagi SMART karena perusahaan memastikan telah menyiapkan dana penuh untuk melunasi utang Rp958 miliar tepat waktu, didukung oleh likuiditas yang sehat, sehingga tidak ada tanda risiko gagal bayar. Pelunasan ini akan mengurangi kewajiban (utang) SMART di laporan keuangan dan sekaligus mengeluarkan kas sebesar Rp958 miliar dari rekening perusahaan, pos yang biasa disebut arus kas keluar; investor memperhatikannya karena utang yang berkurang membuat struktur modal perusahaan lebih ringan, meski kas yang tersedia untuk kegiatan lain berkurang sementara. Yang perlu dipantau selanjutnya adalah apakah dana benar-benar masuk ke rekening KSEI sesuai jadwal pada 19 Oktober 2026, karena tanggal itulah obligasi resmi berhenti diperdagangkan di bursa dan utang dinyatakan lunas.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bbkp-resmi-catatkan-obligasi-subordinasi-rp500-miliar-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Resmi Catatkan Obligasi Subordinasi [Rp500 Miliar] di BEI",
+  "deck": "Bank KB Indonesia mencatatkan Obligasi Subordinasi Berkelanjutan IV Tahap II senilai Rp500 miliar di BEI mulai 19 Oktober 2026, dengan kupon 8,95-9,30% dan peringkat AAidn dari Fitch.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T19:54:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/65ab5ad300_502371ce15.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBKP",
+  "tags": [
+   "BBKP",
+   "obligasi subordinasi",
+   "Bank KB Indonesia",
+   "pencatatan BEI"
+  ],
+  "body": [
+   "PT Bank KB Indonesia Tbk (BBKP) akan mencatatkan Obligasi Subordinasi Berkelanjutan IV KB Bank Tahap II Tahun 2026 di Bursa Efek Indonesia mulai 19 Oktober 2026. Obligasi ini terbagi dua seri: Seri A senilai Rp425 miliar dengan bunga 8,95 persen per tahun berjangka waktu lima tahun hingga jatuh tempo pada 16 Oktober 2031, dan Seri B senilai Rp75 miliar dengan bunga 9,30 persen per tahun berjangka waktu tujuh tahun hingga jatuh tempo pada 16 Oktober 2033. Total nilai Tahap II ini Rp500 miliar, sama dengan target yang direncanakan, dan bunga dibayarkan setiap tiga bulan dengan pembayaran pertama pada 16 Januari 2027.",
+   "Prosesnya sudah melewati sejumlah tahap: penjatahan pada 14 Oktober 2026, pembayaran dari investor pada 15 Oktober, dan distribusi elektronik pada 16 Oktober 2026, sebelum resmi tercatat di bursa tiga hari kemudian. Obligasi ini memperoleh peringkat AAidn (Double A) dari Fitch Ratings Indonesia, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat. Penjaminan dilakukan secara kesanggupan penuh oleh lima penjamin emisi, yaitu BRI Danareksa Sekuritas, Indo Premier Sekuritas, KB Valbury Sekuritas, Korea Investment and Sekuritas Indonesia, serta Trimegah Sekuritas Indonesia. KB Valbury disebutkan terafiliasi dengan BBKP karena sama-sama berada di bawah KB Financial Group. Dokumen juga menegaskan obligasi ini tidak dijamin agunan atau pihak ketiga, tidak masuk program penjaminan Lembaga Penjamin Simpanan, dan tidak memiliki opsi pembelian kembali sebelum jatuh tempo.",
+   "Penerbitan ini merupakan bagian dari program Obligasi Subordinasi Berkelanjutan IV KB Bank dengan target total Rp1 triliun. Tahap I yang terbit tahun 2025 telah menghimpun Rp248 miliar, sehingga dengan Tahap II ini total dana yang terkumpul mencapai Rp748 miliar, menyisakan sekitar Rp252 miliar yang akan dipenuhi lewat tahap selanjutnya yang waktunya belum ditentukan."
+  ],
+  "fotoAdegan": "Teller counter inside a modern Indonesian bank branch, customers queuing calmly under soft morning light",
+  "takeaway": "Laporan ini netral bagi BBKP karena hanya menuntaskan rencana penerbitan obligasi yang sudah diumumkan sebelumnya, tanpa kejutan jumlah dana atau syarat baru. Yang tersentuh adalah beban bunga dan modal pelengkap bank: obligasi subordinasi dihitung sebagai bagian dari modal pelengkap (Tier 2) yang memperkuat rasio kecukupan modal, tetapi bank juga menanggung beban bunga tetap sekitar Rp45 miliar per tahun dari kombinasi dua seri ini selama lima sampai tujuh tahun ke depan. Peringkat AAidn dari Fitch menunjukkan lembaga pemeringkat menilai risiko gagal bayar obligasi ini rendah, meski tetap tanpa jaminan aset atau pihak ketiga. Yang perlu dipantau selanjutnya adalah realisasi pencatatan di BEI pada 19 Oktober 2026, pembayaran bunga pertama pada 16 Januari 2027, dan apakah BBKP akan melanjutkan Tahap III untuk melengkapi sisa target Rp252 miliar dari program Rp1 triliun ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "anjt-jawab-bursa-soal-karhutla-sebut-tak-ada-dampak-signifikan",
+  "category": "Aksi Korporasi",
+  "title": "ANJT Jawab Bursa soal [Karhutla], Sebut Tak Ada Dampak Signifikan",
+  "deck": "ANJT merespons permintaan penjelasan BEI terkait kebakaran hutan dan lahan di sejumlah wilayah operasionalnya, termasuk Kalimantan Barat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T19:51:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c371794843_01af4f9dba.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANJT",
+  "tags": [
+   "ANJT",
+   "Austindo Nusantara Jaya",
+   "Karhutla",
+   "Keterbukaan Informasi BEI"
+  ],
+  "body": [
+   "PT Austindo Nusantara Jaya Tbk (ANJT) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat BEI Nomor S-13039/BEI.PP1/10-2026 yang meminta penjelasan terkait kebakaran hutan dan lahan (Karhutla). Dalam surat bernomor 062-10/CS/ANJ/2026 tertanggal 16 Oktober 2026 itu, perusahaan merinci wilayah operasional yang berisiko Karhutla, yaitu Kabupaten Padang Lawas Utara dan Tapanuli Selatan di Sumatera Utara melalui anak usaha PT Austindo Nusantara Jaya Agri dan PT Austindo Nusantara Jaya Agri Siais, Kabupaten Belitung Timur melalui PT Sahabat Mewah dan Makmur, Kabupaten Ketapang di Kalimantan Barat melalui PT Kayung Agro Lestari, serta Kabupaten Sorong Selatan di Papua Barat Daya melalui PT ANJ Agri Papua. Berdasarkan data per 30 Juni 2026, wilayah-wilayah ini menyumbang porsi signifikan terhadap produksi dan pendapatan konsolidasian perusahaan.",
+   "Kejadian Karhutla yang menjadi sorotan bursa terjadi di Kalimantan Barat. ANJT menyatakan operasional anak usahanya di wilayah tersebut tetap berjalan dengan memperhatikan aspek keselamatan dan kesehatan kerja, sembari melakukan langkah pencegahan dan penanggulangan kebakaran. Perusahaan menegaskan kejadian itu tidak berdampak signifikan terhadap target produksi 2026, serta tidak memengaruhi pendapatan, laba, maupun nilai aset secara konsolidasian. Hingga tanggal surat disampaikan, tidak ada penghentian operasional yang tidak direncanakan, tidak ada titik panas yang terdeteksi di wilayah anak usaha yang terdampak, dan belum ada sanksi administratif yang dijatuhkan kepada perusahaan maupun entitas anaknya terkait kejadian ini.",
+   "Sebagai strategi mitigasi, ANJT menyebut tetap menjalankan kebijakan tanpa pembakaran atau Zero Burning Policy di seluruh operasionalnya. Langkah konkret yang disebutkan meliputi pemantauan titik panas, patroli rutin, pemeliharaan sekat bakar, penyediaan sarana pemadaman kebakaran, dan kesiapsiagaan tim tanggap darurat di wilayah operasional. Perusahaan juga menyatakan terus berkoordinasi dengan instansi pemerintah, pihak berwenang, dan masyarakat sekitar, serta akan mengevaluasi sistem pengelolaan risiko kebakaran secara berkala."
+  ],
+  "fotoAdegan": "Plantation workers in orange uniforms patrolling a firebreak trail through oil palm rows, distant smoke haze, overcast tropical afternoon",
+  "takeaway": "Laporan ini condong netral bagi ANJT karena perusahaan menegaskan tidak ada dampak terhadap pendapatan, laba, maupun nilai aset, dan belum ada sanksi administratif, tapi kejadian kebakaran itu sendiri tetap jadi pengingat risiko lingkungan yang melekat pada bisnis perkebunan sawit. Pos yang tersentuh di sini adalah produksi dan pendapatan, karena wilayah yang disebut dalam surat ini memang penyumbang signifikan hasil konsolidasi perusahaan, sehingga kalau kebakaran meluas, kebun dan hasil panen di sana bisa langsung tergerus; nilai aset juga relevan karena lahan dan tanaman yang terbakar berarti kerugian fisik langsung. Yang perlu dipantau selanjutnya adalah apakah proses pemantauan titik panas di Ketapang, Kalimantan Barat tetap nihil seperti yang diklaim perusahaan, serta apakah BEI atau instansi pemerintah akhirnya menjatuhkan sanksi administratif setelah proses hukum dan pemantauan lanjutan berjalan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "dooh-koreksi-panggilan-rupslb-agenda-pinjaman-rp5-triliun",
   "category": "Aksi Korporasi",
   "title": "DOOH Koreksi Panggilan RUPSLB, Agenda [Pinjaman] Rp5 Triliun",

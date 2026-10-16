@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rccc-pemegang-saham-utama-pastikan-tak-ubah-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "RCCC: Pemegang Saham Utama Pastikan Tak Ubah [Kepemilikan]",
+  "deck": "RCCC menjawab permintaan penjelasan volatilitas dari BEI, menegaskan tak ada info material baru, sementara pemegang saham utama Gelora Rimba Jaya pastikan tak ubah kepemilikan 77,92 persennya.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RCCC",
+   "volatilitas saham",
+   "pemegang saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9c7c8a4340_805e4ad072.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta",
   "category": "Bisnis",
   "title": "14 Produsen Pangan RI Teken MoU Ekspor, Potensi [US$25,2 Juta]",
@@ -39,6 +55,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-perkuat-kerja-sama-dagang-dengan-yunani-rusia-dan-myanmar-di-tei-2026",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "sico-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "SICO Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, SICO menegaskan tak ada informasi material maupun rencana aksi korporasi di balik gejolak harga sahamnya.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SICO",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71277ed763_f24a9e7f81.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-itic-bahas-rencana-jaminkan-aset-ke-bank",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ITIC Bahas Rencana [Jaminkan] Aset ke Bank",
+  "deck": "PT Indonesian Tobacco Tbk mengundang pemegang saham ke RUPSLB 9 November 2026 untuk menyetujui rencana menjaminkan sebagian besar atau seluruh asetnya guna memperoleh fasilitas pinjaman.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ITIC",
+   "RUPSLB",
+   "penjaminan aset",
+   "pembiayaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b832c97993_6aac95f0f6.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pegadaian-raih-dua-penghargaan-in-house-counsel-2026",
@@ -6471,54 +6519,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/37cd1f343c_59a4cd3df4.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "alii-abundantia-fund-jual-bersih-6-200-saham-hak-suara-tetap",
-  "category": "Aksi Korporasi",
-  "title": "ALII: Abundantia Fund [Jual] Bersih 6.200 Saham, Hak Suara Tetap",
-  "deck": "Abundantia Fund SPC melaporkan beli 73.800 dan jual 80.000 saham ALII, net berkurang 6.200 lembar. Hak suara tetap di 4,9998 persen.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ALII",
-   "kepemilikan saham",
-   "Abundantia Fund",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-7352-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pssi-komisaris-iriawan-ibarat-jual-235-300-saham",
-  "category": "Aksi Korporasi",
-  "title": "PSSI: Komisaris Iriawan Ibarat [Jual] 235.300 Saham",
-  "deck": "Komisaris PSSI, Iriawan Ibarat, melepas 235.300 saham dalam enam transaksi sejak 15 September hingga 5 Oktober, mengurangi hak suaranya dari 0,255% menjadi 0,251%.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "Kepemilikan Saham",
-   "Komisaris",
-   "Divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-8741-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menteri-pu-pastikan-irigasi-siap-untuk-panen-perdana-di-merauke",
-  "category": "Makroekonomi",
-  "title": "Menteri PU Pastikan Irigasi Siap untuk [Panen] Perdana di Merauke",
-  "deck": "Dody Hanggodo meninjau KSPEAN Wanam, Merauke, memastikan irigasi siap menopang panen perdana padi di lahan 40 hektare pada November 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/menteri-pu-pastikan-irigasi-siap-untuk-panen-perdana-di-merauke.jpg",
-  "imageV": "mv0u3zig",
-  "tags": [
-   "Kementerian PU",
-   "KSPEAN",
-   "Merauke",
-   "Swasembada Pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472074-tinjau-kspean-wanam-menteri-dody-pastikan-panen-perdana-dukung-visi-presiden-prabowo"
  }
 ];

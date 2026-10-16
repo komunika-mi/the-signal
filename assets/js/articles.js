@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rccc-pemegang-saham-utama-pastikan-tak-ubah-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "RCCC: Pemegang Saham Utama Pastikan Tak Ubah [Kepemilikan]",
+  "deck": "RCCC menjawab permintaan penjelasan volatilitas dari BEI, menegaskan tak ada info material baru, sementara pemegang saham utama Gelora Rimba Jaya pastikan tak ubah kepemilikan 77,92 persennya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T14:10:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9c7c8a4340_805e4ad072.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RCCC",
+  "tags": [
+   "RCCC",
+   "volatilitas saham",
+   "pemegang saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Utama Radar Cahaya Tbk (RCCC) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan atas volatilitas transaksi saham melalui surat BEI Nomor S-13152/BEI.PP3/10-2026 tertanggal 15 Oktober 2026. Dalam surat balasan bernomor 085/URC/DIR/BEI/X/2026 yang ditandatangani Direktur Utama Alvin Tjokrohadi pada 16 Oktober 2026, Perseroan menyatakan tidak memiliki informasi atau fakta material yang dapat mempengaruhi nilai efek maupun keputusan investasi pemodal, baik berdasarkan POJK Nomor 31/POJK.04/2015 maupun Peraturan BEI Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu yang relevan dengan POJK Nomor 4 Tahun 2024, dan tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang dapat berakibat pada pencatatan sahamnya di bursa.",
+   "Poin paling konkret dalam surat ini menyangkut konfirmasi kepada pemegang saham utama. Melalui surat Nomor 015/URC/CS/KNF/X/2026 tertanggal 15 Oktober 2026, Corporate Secretary RCCC menanyakan langsung kepada PT Gelora Rimba Jaya, yang memegang 613.620.000 lembar saham atau 77,92 persen dari modal disetor Perseroan, apakah ada rencana perubahan kepemilikan. PT Gelora Rimba Jaya membalas melalui surat Nomor 01/GRJ/Konf-RCCC/10-2026 tertanggal 16 Oktober 2026, menyatakan tidak memiliki rencana mengubah kepemilikan sahamnya di RCCC.",
+   "Dengan jawaban ini, Perseroan menutup seluruh enam poin pertanyaan BEI tanpa menyebut adanya informasi baru, kejadian penting yang belum diungkapkan, atau rencana korporasi yang sedang disiapkan dalam waktu dekat."
+  ],
+  "fotoAdegan": "Exterior view of a modern Jakarta office tower at dusk, taxis and pedestrians passing on a busy street below",
+  "takeaway": "Tanggapan ini netral bagi RCCC karena isinya menegaskan status quo, bukan membawa kabar baru yang mengubah prospek perusahaan. Bagian yang tersentuh adalah struktur pemegang saham: PT Gelora Rimba Jaya selaku pemegang 77,92 persen saham memastikan tidak akan menambah atau mengurangi kepemilikannya, sehingga kendali dan hak suara di RCCC tetap berada di tangan yang sama dan investor tidak perlu khawatir ada pelepasan saham besar-besaran dari pengendali yang bisa mengubah komposisi pemegang saham. Yang perlu dipantau berikutnya adalah apakah volatilitas harga saham RCCC mereda setelah penjelasan ini terbit, mengingat Perseroan sendiri menegaskan tidak memiliki rencana aksi korporasi apa pun setidaknya hingga tiga bulan ke depan, sehingga pergerakan harga selanjutnya lebih mencerminkan sentimen pasar ketimbang perubahan fundamental.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta",
   "category": "Bisnis",
   "title": "14 Produsen Pangan RI Teken MoU Ekspor, Potensi [US$25,2 Juta]",
@@ -56,6 +82,58 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah dari rangkaian pertemuan ini baru sebatas penjajakan awal, belum ada kontrak dagang atau nilai transaksi yang disepakati. Pihak yang berpotensi terdampak adalah eksportir makanan, pertanian, furnitur, dan kerajinan yang membidik pasar Yunani, serta produsen makanan olahan dan perikanan yang berharap bisa memasok jaringan ritel Rusia X5 Retail Group. Di sisi lain, perusahaan Indonesia yang sudah beroperasi di Myanmar justru sedang menghadapi masalah izin impor bahan baku dan suku cadang yang mengganggu produksi mereka. Untuk melihat apakah pembicaraan ini akan berlanjut jadi kerja sama nyata, perlu dicermati apakah penandatanganan Indonesia-EU CEPA benar terjadi dalam waktu dekat seperti disampaikan pejabat Yunani, dan bagaimana hasil Pameran Indonesia Expo 2026 di Yangon pada 30-31 Oktober nanti.",
   "imageV": "mvamvfoq"
+ },
+ {
+  "slug": "sico-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "SICO Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, SICO menegaskan tak ada informasi material maupun rencana aksi korporasi di balik gejolak harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T14:07:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71277ed763_f24a9e7f81.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SICO",
+  "tags": [
+   "SICO",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Sigma Energy Compressindo Tbk (SICO) mengirimkan surat penjelasan kepada Bursa Efek Indonesia pada 16 Oktober 2026, menanggapi permintaan klarifikasi BEI nomor S-13153/BEI.PP2/10-2026 tertanggal 15 Oktober 2026 terkait volatilitas transaksi efek perseroan. Surat bernomor 042/SICO-CS/X/2026 itu ditandatangani oleh Direktur Vita Diani Satiadhi, dengan surat pengantar dari Corporate Secretary Nurjamil kepada Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryato.",
+   "Dalam enam poin jawaban, SICO menyatakan tidak mengetahui atau memiliki informasi maupun fakta material yang bisa mempengaruhi nilai efek maupun keputusan investasi pemodal, sesuai aturan POJK Nomor 31/POJK.04/2015. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka, serta tidak memiliki rencana aksi korporasi apa pun dalam tiga bulan mendatang yang bisa berdampak pada status pencatatan sahamnya di bursa.",
+   "Pada poin terakhir, Corporate Secretary disebut telah menanyakan langsung kepada pemegang saham utama perseroan, dan dipastikan tidak ada rencana perubahan terkait kepemilikan sahamnya. SICO juga menegaskan tidak ada informasi atau kejadian penting lain yang material bagi harga saham maupun kelangsungan usaha perseroan yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Industrial gas compressor station with large metal pipelines and valves, a technician in safety gear inspecting equipment outdoors.",
+  "takeaway": "Laporan ini netral bagi SICO, karena isinya murni bantahan standar bahwa tidak ada informasi baru yang mendasari gejolak harga sahamnya, bukan pengumuman perubahan apa pun pada bisnis perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar yang tersentuh dalam surat ini, karena intinya hanya menyatakan bahwa tidak ada aksi korporasi, perubahan kepemilikan pemegang saham utama, atau fakta material yang perlu diungkapkan. Yang perlu dipantau selanjutnya adalah apakah pernyataan 'tidak ada rencana aksi korporasi dalam tiga bulan mendatang' ini masih berlaku hingga sekitar pertengahan Januari 2027, serta apakah Bursa akan mengirim permintaan penjelasan serupa lagi jika volatilitas harga saham SICO berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rupslb-itic-bahas-rencana-jaminkan-aset-ke-bank",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ITIC Bahas Rencana [Jaminkan] Aset ke Bank",
+  "deck": "PT Indonesian Tobacco Tbk mengundang pemegang saham ke RUPSLB 9 November 2026 untuk menyetujui rencana menjaminkan sebagian besar atau seluruh asetnya guna memperoleh fasilitas pinjaman.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T14:04:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b832c97993_6aac95f0f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ITIC",
+  "tags": [
+   "ITIC",
+   "RUPSLB",
+   "penjaminan aset",
+   "pembiayaan"
+  ],
+  "body": [
+   "PT Indonesian Tobacco Tbk (ITIC) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 9 November 2026 pukul 11.00 WIB di Teak Room, lantai 9 Hotel Mercure Jakarta Pantai Indah Kapuk. Rapat ini hanya membawa satu agenda, yaitu persetujuan rencana Perseroan untuk menjaminkan sebagian besar atau seluruh aset atau harta kekayaannya guna memperoleh fasilitas pinjaman dari lembaga keuangan, baik bank maupun bukan bank. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 15 Oktober 2026 pukul 16.00 WIB.",
+   "Dalam penjelasan resminya, Direksi ITIC menyebut rencana ini muncul karena Perseroan sedang mengupayakan fasilitas pembiayaan yang mensyaratkan jaminan. Berdasarkan Anggaran Dasar Perseroan, setiap tindakan hukum untuk mengalihkan, melepaskan hak, atau menjadikan jaminan utang atas aset yang nilainya lebih dari 50 persen kekayaan bersih Perseroan dalam satu tahun buku, baik melalui satu transaksi maupun beberapa transaksi yang saling terkait, wajib mendapat persetujuan RUPS lebih dulu. Dokumen pemanggilan ini tidak mencantumkan nilai pinjaman, nama lembaga pemberi pinjaman, suku bunga, maupun aset spesifik yang akan dijaminkan.",
+   "Rapat akan digelar secara hibrida, yaitu kehadiran fisik terbatas untuk Dewan Komisaris, Direksi, Pimpinan Rapat, Sekretaris Perusahaan, dan lembaga penunjang pasar modal, sementara pemegang saham lain mengikuti secara elektronik lewat platform eASY.KSEI sesuai aturan OJK. Sesuai Anggaran Dasar, keputusan atas agenda ini sah jika RUPS dihadiri pemegang saham yang mewakili paling sedikit tiga per empat dari seluruh saham berhak suara, dan disetujui oleh lebih dari tiga per empat suara yang hadir."
+  ],
+  "fotoAdegan": "Workers moving stacked cardboard boxes of packaged goods inside a large industrial warehouse, forklift nearby, overhead lighting",
+  "takeaway": "Laporan ini netral bagi ITIC untuk saat ini, karena yang diajukan baru izin prinsip dari pemegang saham, belum ada nilai pinjaman, suku bunga, atau aset spesifik yang disebut, sehingga belum bisa dinilai menguntungkan atau membebani. Yang tersentuh di sini adalah sisi aset dan beban bunga perusahaan: begitu Perseroan resmi menjaminkan sebagian besar hartanya untuk mendapat pinjaman, aset itu jadi tidak bebas digunakan untuk keperluan lain selama utang belum lunas, dan jika pinjamannya benar dicairkan, akan ada beban bunga baru yang mengurangi laba, sementara kreditur punya klaim lebih dulu atas aset itu dibanding pemegang saham kalau terjadi masalah keuangan. Besaran dampaknya baru akan jelas setelah Perseroan mengumumkan nilai dan ketentuan fasilitas pinjamannya. Yang perlu dipantau pemegang saham adalah hasil RUPSLB pada 9 November 2026, termasuk apakah kuorum tiga per empat suara tercapai dan agenda ini disetujui, serta pengumuman lanjutan soal jumlah pinjaman dan lembaga pemberinya begitu transaksi berjalan.",
+  "sentimen": "netral"
  },
  {
   "slug": "pegadaian-raih-dua-penghargaan-in-house-counsel-2026",

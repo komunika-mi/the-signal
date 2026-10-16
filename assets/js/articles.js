@@ -3,6 +3,35 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-kini-punya-25-perjanjian-dagang-cakup-72-ekspor-2025",
+  "category": "Global",
+  "title": "RI Kini Punya [25] Perjanjian Dagang, Cakup 72% Ekspor 2025",
+  "deck": "Kemendag menyebut 25 perjanjian dagang yang sudah berjalan kini menutup 72,34 persen nilai ekspor Indonesia pada 2025, di tengah tarif baru Amerika Serikat dan meningkatnya hambatan dagang dunia.",
+  "image": "assets/img/ri-kini-punya-25-perjanjian-dagang-cakup-72-ekspor-2025.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T08:12:58.629Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perjanjian-perdagangan-internasional-amankan-pasar-ekspor-indonesia",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "perjanjian dagang",
+   "ekspor",
+   "Kemendag",
+   "Trade Expo Indonesia"
+  ],
+  "body": [
+   "Kementerian Perdagangan menyebut Indonesia kini memiliki 25 perjanjian dagang internasional yang sudah berjalan, dua perjanjian lain yang sedang menunggu pengesahan resmi, dan 13 perundingan yang masih berlangsung. Perjanjian yang sudah berjalan itu disebut menutup 72,34 persen dari total nilai ekspor Indonesia pada 2025. Angka ini penting bagi pelaku usaha karena perjanjian dagang memberi aturan tertulis yang mengikat, sehingga akses produk Indonesia ke pasar tujuan tidak mudah diubah sepihak saat negara lain menaikkan tarif atau memperketat aturan impor.",
+   "Hal itu disampaikan Direktur Jenderal Perundingan Perdagangan Internasional Kemendag, Johni Martha, dalam sebuah diskusi di sela Trade Expo Indonesia ke-41 di BSD City, Tangerang, Kamis (15/10). Johni mengatakan pelaku usaha yang menghadapi masalah dagang di negara mitra, baik soal tarif maupun hambatan lain, bisa melapor ke Kemendag. Pemerintah akan menindaklanjutinya lewat jalur diplomasi antarnegara atau instrumen hukum dagang yang berlaku, seperti negosiasi ulang, bila memang diperlukan.",
+   "Wakil Duta Besar RI untuk Amerika Serikat, Nidya Kartikasari, menyoroti bagaimana perubahan tarif dan aturan pembatasan dagang yang diterapkan pemerintah AS memaksa Indonesia menyesuaikan strategi agar tetap bisa bersaing di pasar itu. Ia menyebut beberapa sektor padat karya seperti tekstil dan produk tekstil, alas kaki, furnitur, elektronik, serta produk berbasis kayu, masih punya peluang di pasar Amerika Serikat, asal didukung kolaborasi dengan pelaku usaha setempat yang berkepentingan menjaga kelancaran dagang dengan Indonesia.",
+   "Ketua Bidang Perdagangan Asosiasi Pengusaha Indonesia (Apindo), Anne Patricia Sutanto, mengingatkan bahwa perluasan akses pasar lewat perjanjian dagang perlu diiringi penguatan daya saing industri dalam negeri. Ia menyebut perbaikan regulasi, efisiensi biaya produksi, dan kepastian berusaha sebagai syarat agar peluang pasar itu benar-benar termanfaatkan, yang menurutnya membutuhkan koordinasi antar-kementerian, terutama terkait ketersediaan tenaga kerja terampil, pasokan energi, dan iklim usaha yang mendukung.",
+   "Managing Director FedEx Indonesia, Ida Ayu Eka Restini, menambahkan bahwa keterbukaan akses pasar perlu dibarengi layanan logistik yang andal agar produk Indonesia bisa menjangkau pasar global secara kompetitif. Sementara itu, Wakil Dekan Fakultas Ekonomi dan Bisnis Universitas Indonesia, Kiki Verico, menilai perubahan tatanan ekonomi global menuntut Indonesia memadukan strategi dagang dan investasi sekaligus, demi menjaga pertumbuhan ekonomi dan penciptaan lapangan kerja."
+  ],
+  "fotoAdegan": "Workers folding finished textile garments for export at a factory line, stacks of packed boxes, fluorescent lighting",
+  "fotoSumber": "https://www.kemendag.go.id/albums/AUTMO7M6w6XEYgbMjut6nk0hehN6nsmsorkbLX7J.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret di sini adalah data cakupannya: 25 perjanjian dagang yang sudah berjalan mencakup 72,34 persen nilai ekspor Indonesia tahun 2025, sementara dua perjanjian lain menunggu pengesahan dan 13 masih dirundingkan. Pihak yang langsung kena dampaknya adalah eksportir, terutama di sektor padat karya seperti tekstil, alas kaki, furnitur, elektronik, dan produk kayu, yang disebut secara spesifik masih punya ruang di pasar Amerika Serikat meski ada tarif baru dari pemerintah AS. Arah yang terlihat adalah pemerintah mengandalkan perjanjian dagang jangka panjang dan jalur diplomasi sebagai bantalan menghadapi kebijakan proteksionis AS, yakni kebijakan yang mempersulit barang asing masuk lewat tarif tinggi, bukan mengubah kebijakan tarif balasan atau subsidi ekspor sendiri. Tapi ini baru separuh gambar, sebab Apindo sendiri mengingatkan perluasan akses pasar tidak otomatis berguna kalau daya saing industri dalam negeri, dari biaya produksi sampai kepastian regulasi, tidak ikut diperbaiki. Yang perlu dipantau adalah progres pengesahan dua perjanjian yang disebut tadi dan hasil dari 13 perundingan yang masih berjalan, karena di situ akan ketahuan apakah porsi 72,34 persen itu naik atau justru mandek.",
+  "imageV": "mvap463d"
+ },
+ {
   "slug": "rccc-pemegang-saham-utama-pastikan-tak-ubah-kepemilikan",
   "category": "Aksi Korporasi",
   "title": "RCCC: Pemegang Saham Utama Pastikan Tak Ubah [Kepemilikan]",

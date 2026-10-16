@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-kini-punya-25-perjanjian-dagang-cakup-72-ekspor-2025",
+  "category": "Global",
+  "title": "RI Kini Punya [25] Perjanjian Dagang, Cakup 72% Ekspor 2025",
+  "deck": "Kemendag menyebut 25 perjanjian dagang yang sudah berjalan kini menutup 72,34 persen nilai ekspor Indonesia pada 2025, di tengah tarif baru Amerika Serikat dan meningkatnya hambatan dagang dunia.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/ri-kini-punya-25-perjanjian-dagang-cakup-72-ekspor-2025.jpg",
+  "imageV": "mvap463d",
+  "tags": [
+   "perjanjian dagang",
+   "ekspor",
+   "Kemendag",
+   "Trade Expo Indonesia"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perjanjian-perdagangan-internasional-amankan-pasar-ekspor-indonesia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "rccc-pemegang-saham-utama-pastikan-tak-ubah-kepemilikan",
   "category": "Aksi Korporasi",
   "title": "RCCC: Pemegang Saham Utama Pastikan Tak Ubah [Kepemilikan]",
@@ -6502,22 +6520,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/75bc9df9fb_af796057b6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-umumkan-jatuh-tempo-16-waran-terstruktur-pada-30-oktober",
-  "category": "Aksi Korporasi",
-  "title": "ZP Umumkan [Jatuh Tempo] 16 Waran Terstruktur pada 30 Oktober",
-  "deck": "16 waran terstruktur acuan ASII, TLKM, SMGR, dan sejumlah saham lain jatuh tempo 30 Oktober 2026; penyelesaian tunai dihitung dari rata-rata harga saham acuan lima hari sebelumnya.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "waran terstruktur",
-   "ASII",
-   "TLKM"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/37cd1f343c_59a4cd3df4.pdf",
   "sourceLabel": "IDX"
  }
 ];

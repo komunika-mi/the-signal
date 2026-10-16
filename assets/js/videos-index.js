@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "ZfcTfSqOY1s",
+  "title": "Menteri ESDM Ungkap Kondisi Stok BBM Nasional di Tengah Kelangkaan",
+  "category": "Energi",
+  "program": "Apa Kabar Indonesia Siang",
+  "summary": "Menteri ESDM Bahlil Lahadalia mengungkap kondisi stok bahan bakar minyak nasional di tengah kelangkaan BBM dan antrean panjang di sejumlah SPBU.",
+  "takeaway": "Pasokan BBM nasional berkaitan langsung dengan roda ekonomi dan aktivitas dunia usaha, sehingga penting dipantau pembaca."
+ },
+ {
   "id": "xuzmTz84OEs",
   "title": "IHSG Longsor 10 Persen, Puluhan Saham Terjun Bebas",
   "category": "Pasar Modal",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Breaking News",
   "summary": "Presiden Prabowo Subianto meresmikan proyek hilirisasi senilai US$10,2 miliar atau setara Rp180 triliun di Weda Bay Industrial Park, yang diproyeksikan menyerap 100 ribu tenaga kerja.",
   "takeaway": "Data penyerapan tenaga kerja ini penting untuk menakar dampak nyata investasi hilirisasi terhadap pasar kerja di kawasan timur Indonesia."
- },
- {
-  "id": "0SZ_FamdMPY",
-  "title": "Presiden Prabowo: Indonesia Tak Kolaps, Masa Depan Cerah",
-  "category": "Makroekonomi",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto menegaskan optimisme atas perekonomian Indonesia bersamaan dengan peluncuran ekspor perdana baterai kendaraan listrik dan 11 proyek hilirisasi di Weda Bay.",
-  "takeaway": "Pernyataan ini memberi konteks arah kebijakan ekonomi pemerintah di tengah sorotan terhadap kinerja hilirisasi nasional."
  }
 ];

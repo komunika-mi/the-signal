@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "ZfcTfSqOY1s",
+  "title": "Menteri ESDM Ungkap Kondisi Stok BBM Nasional di Tengah Kelangkaan",
+  "category": "Energi",
+  "program": "Apa Kabar Indonesia Siang",
+  "summary": "Menteri ESDM Bahlil Lahadalia mengungkap kondisi stok bahan bakar minyak nasional di tengah kelangkaan BBM dan antrean panjang di sejumlah SPBU.",
+  "takeaway": "Pasokan BBM nasional berkaitan langsung dengan roda ekonomi dan aktivitas dunia usaha, sehingga penting dipantau pembaca.",
+  "terbit": "2026-10-16T07:37:00+00:00"
+ },
+ {
   "id": "xuzmTz84OEs",
   "title": "IHSG Longsor 10 Persen, Puluhan Saham Terjun Bebas",
   "category": "Pasar Modal",

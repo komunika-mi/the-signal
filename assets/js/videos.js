@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "w0xjJy7nxyg",
+  "title": "Antrean BBM di SPBU Bali Berlanjut hingga Hari Kelima",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Antrean panjang kendaraan di berbagai SPBU Bali masih terjadi hingga hari kelima, Jumat (16/10/2026), akibat keterlambatan distribusi bahan bakar minyak.",
+  "takeaway": "Gangguan distribusi BBM ini berisiko mengganggu mobilitas warga dan aktivitas ekonomi, termasuk sektor pariwisata, di Bali.",
+  "terbit": "2026-10-16T10:06:14+00:00"
+ },
+ {
+  "id": "p5EscWKbGKg",
+  "title": "Bahlil Lahadalia Pastikan Stok BBM Nasional Aman",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Menteri Koordinator Bidang Hilirisasi dan Investasi Bahlil Lahadalia menyatakan stok BBM nasional aman, sembari pemerintah mempercepat distribusi ke berbagai daerah.",
+  "takeaway": "Pernyataan ini penting bagi publik di tengah kekhawatiran kelangkaan BBM yang berdampak pada aktivitas ekonomi harian.",
+  "terbit": "2026-10-16T09:58:31+00:00"
+ },
+ {
+  "id": "tsX_ZxcFlsE",
+  "title": "OJK Temukan Dugaan Manipulasi Saham di Pasar Modal",
+  "category": "Pasar Modal",
+  "program": "Kabar Khusus",
+  "summary": "Otoritas Jasa Keuangan menemukan dugaan praktik manipulasi saham di pasar modal Indonesia, sebagai bagian dari upaya memperkuat pengawasan perdagangan efek.",
+  "takeaway": "Temuan ini relevan bagi investor karena menyangkut integritas pasar modal dan kepercayaan terhadap mekanisme perdagangan saham.",
+  "terbit": "2026-10-16T09:28:11+00:00"
+ },
+ {
   "id": "ZfcTfSqOY1s",
   "title": "Menteri ESDM Ungkap Kondisi Stok BBM Nasional di Tengah Kelangkaan",
   "category": "Energi",

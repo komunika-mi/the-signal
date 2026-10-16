@@ -3,6 +3,117 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "stok-bbm-aman-tapi-distribusi-ke-bali-masih-tersendat",
+  "category": "Energi",
+  "title": "Stok BBM Aman, tapi [Distribusi] ke Bali Masih Tersendat",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut stok BBM nasional masih di kisaran 16-18 hari, tapi distribusi ke Bali dan daerah bergantung jalur laut butuh tambahan kapal Pertamina.",
+  "image": "assets/img/stok-bbm-aman-tapi-distribusi-ke-bali-masih-tersendat.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T11:09:08.484Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/stok-bbm-nasional-aman-bahlil-minta-pertamina-percepat-distribusi-ke-daerah",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "BBM",
+   "Pertamina",
+   "Bahlil Lahadalia",
+   "RON 90"
+  ],
+  "body": [
+   "Pemerintah meminta PT Pertamina mempercepat pengiriman bahan bakar minyak ke berbagai daerah, dengan fokus khusus pada penambahan kapal pengangkut untuk rute dari Jawa Timur ke Bali. Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga menjabat Menteri ESDM, Bahlil Lahadalia, mengatakan permintaan itu muncul karena sejumlah wilayah yang mengandalkan jalur laut mengalami kendala pasokan, bukan karena kekurangan stok. Ia menyampaikan hal ini dalam keterangan pers di Kantor Kementerian ESDM, Jakarta, Jumat (16/10/2026).",
+   "Menurut Bahlil, stok BBM secara nasional saat ini berada di level 16 sampai 18 hari konsumsi, yang menurutnya masih dalam batas aman. Ia menegaskan bahwa persoalan yang dihadapi bukan pada jumlah stok maupun kapasitas kilang, melainkan pada jalur pengiriman yang perlu ditambah kapasitasnya, sehingga penambahan kapal menjadi solusi yang diminta pemerintah.",
+   "Kondisi berbeda terjadi pada BBM jenis RON 90, yang stoknya tercatat di bawah 20 hari. Bahlil mengaitkan hal ini dengan pergeseran konsumsi masyarakat dari BBM beroktan lebih tinggi ke RON 90. Ia memperkirakan ketahanan stok RON 90 bisa kembali ke level 20 hari dalam waktu sekitar satu pekan, meski perkiraan tersebut masih perlu dipantau realisasinya.",
+   "Di sisi pengawasan, pemerintah juga meminta aparat menindak penyalahgunaan BBM bersubsidi, termasuk praktik modifikasi tangki kendaraan yang digunakan untuk membeli BBM subsidi dalam jumlah besar sebelum dijual kembali dengan harga industri. Bahlil menyebut pemantauan terhadap stok, kelancaran distribusi, dan pengawasan penyalahgunaan ini akan terus dilakukan ke depan."
+  ],
+  "fotoAdegan": "Fuel tanker ship docked at a busy Indonesian port, workers connecting pipeline hoses, early morning light",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-stok-bbm-nasional-aman-bahlil-minta-pertamina-percepat-distribusi-ke-daerah-8h2l0ns.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini bukan soal jumlah BBM yang tersedia, melainkan cara menyalurkannya: pemerintah menambah kapal untuk rute Jawa Timur-Bali karena jalur laut jadi titik tersumbat, sementara cadangan BBM jenis RON 90 sempat turun di bawah 20 hari akibat makin banyak orang beralih dari BBM oktan tinggi ke RON 90. Yang paling terdampak adalah masyarakat Bali dan wilayah kepulauan lain yang pasokannya bergantung pada kapal, serta pengguna BBM bersubsidi yang kini diawasi lebih ketat karena modusnya memodifikasi tangki kendaraan untuk membeli BBM subsidi dalam jumlah besar lalu menjualnya kembali dengan harga industri. Dua hal ini menunjukkan arah yang sama, pemerintah mulai menggeser fokus dari soal ketersediaan pasokan ke soal pengelolaan jalur distribusi dan pengawasan penyalahgunaannya, tanda bahwa tekanan sebenarnya ada di rantai pasok fisik, bukan di produksi. Pergeseran konsumsi ke RON 90 juga layak dipantau karena bisa mencerminkan masyarakat mencari BBM yang lebih murah, dan itu akan lebih jelas kalau pola serupa muncul lagi di data konsumsi bulan berikutnya. Yang akan menguji apakah tambahan kapal benar-benar menyelesaikan masalah adalah apakah stok RON 90 kembali ke level 20 hari dalam sepekan seperti target Bahlil, atau justru tertunda.",
+  "imageV": "mvavg3dl"
+ },
+ {
+  "slug": "dim-ruu-migas-capai-80-90-persen-aturan-buk-lewat-pp",
+  "category": "Energi",
+  "title": "DIM RUU Migas Capai 80-90 Persen, Aturan [BUK] Lewat PP",
+  "deck": "Pemerintah menyebut penyusunan DIM RUU Migas sudah 80-90 persen, dengan Badan Usaha Khusus (BUK) diatur lewat Peraturan Pemerintah dan Perpres, bukan rinci di UU.",
+  "image": "assets/img/dim-ruu-migas-capai-80-90-persen-aturan-buk-lewat-pp.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T11:09:07.549Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pemerintah-matangkan-dim-ruu-migas-bahlil-sebut-penyusunan-capai-80-90-persen",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "RUU Migas",
+   "ESDM",
+   "Bahlil Lahadalia",
+   "Badan Usaha Khusus"
+  ],
+  "body": [
+   "Pemerintah hampir merampungkan Daftar Inventarisasi Masalah (DIM) untuk revisi Undang-Undang Minyak dan Gas Bumi, salah satu tahapan sebelum pembahasan bersama DPR dimulai. Menko Hilirisasi dan Transisi Energi yang juga Menteri ESDM, Bahlil Lahadalia, menyebut progres penyusunan sudah mencapai 80 hingga 90 persen, seusai memimpin rapat koordinasi di Kantor ESDM, Jumat (16/10/2026). Aturan ini penting karena menyangkut bagaimana negara menata ulang pengelolaan industri migas, termasuk rencana pembentukan lembaga baru bernama Badan Usaha Khusus atau BUK.",
+   "Salah satu poin yang mengemuka dalam draf aturan adalah posisi BUK, badan yang nantinya akan menjalankan sebagian fungsi pengelolaan migas. Bahlil menjelaskan bahwa tidak seluruh ketentuan teknis mengenai BUK akan dimuat rinci di batang tubuh undang-undang, melainkan diatur lebih lanjut lewat Peraturan Pemerintah dan Peraturan Presiden setelah UU disahkan.",
+   "Rapat koordinasi yang membahas RUU ini melibatkan pimpinan DPR, Menteri Investasi dan Hilirisasi sekaligus Kepala BKPM Rosan Roeslani, Kepala Badan Pengelola BUMN Dony Oskaria, Kapolri, serta jajaran Pertamina. Menurut Bahlil, koordinasi lintas lembaga ini diarahkan untuk mendorong nilai tambah produk migas, meningkatkan penerimaan negara bukan pajak, memperkuat cadangan devisa, serta mendukung ketahanan dan transisi energi. Pemerintah juga menyoroti peningkatan lifting atau volume produksi migas dan kepastian berusaha sebagai perhatian dalam revisi aturan ini.",
+   "Rampungnya DIM baru menandai satu tahapan sebelum pembahasan RUU Migas berlanjut bersama DPR, bukan akhir dari proses legislasi. Dengan progres yang diklaim pemerintah sudah di kisaran 80 hingga 90 persen, tahap berikutnya adalah pembahasan substansi pasal demi pasal di parlemen, yang akan menentukan bentuk akhir aturan main sektor migas nasional."
+  ],
+  "fotoAdegan": "Technicians inspecting pipeline valves at an onshore oil and gas processing facility, industrial tanks in the background, late afternoon light",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-pemerintah-matangkan-dim-ruu-migas-bahlil-sebut-penyusunan-capai-80-90-persen-3k74tv9.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini bukan angka produksi atau harga, melainkan soal di mana aturan main migas akan ditulis. Pemerintah memilih tidak memuat detail Badan Usaha Khusus atau BUK, lembaga baru pengelola migas, langsung di batang tubuh undang-undang, tapi menyerahkannya ke Peraturan Pemerintah dan Peraturan Presiden yang terbit belakangan. Dampaknya, DPR yang mengesahkan UU ini tidak ikut merinci aturan main BUK, dan pelaku usaha migas, termasuk Pertamina serta investor yang menunggu kepastian berusaha, baru akan tahu bentuk pastinya setelah aturan turunan itu terbit. Pola ini mengarah ke pengaturan sektor migas yang makin bergantung pada kewenangan pemerintah ketimbang dikunci detail di level undang-undang. Yang akan memastikan arah ini adalah isi draf Peraturan Pemerintah dan Perpres begitu UU Migas disahkan, serta bagaimana DPR menyikapi delegasi kewenangan tersebut saat pembahasan DIM berlanjut.",
+  "imageV": "mvavg5jq"
+ },
+ {
+  "slug": "pariwisata-ramah-muslim-ri-naik-ke-peringkat-dua-dunia",
+  "category": "Makroekonomi",
+  "title": "Pariwisata Ramah Muslim RI Naik ke Peringkat [Dua] Dunia",
+  "deck": "Indonesia naik ke peringkat dua dunia dalam indeks wisata ramah muslim, dibarengi peluncuran peta jalan nasional dan penghargaan bagi 15 provinsi dengan kesiapan destinasi terbaik.",
+  "image": "assets/img/pariwisata-ramah-muslim-ri-naik-ke-peringkat-dua-dunia.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T11:08:26.150Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822426.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "pariwisata syariah",
+   "ISEF 2026",
+   "Bank Indonesia",
+   "ekonomi syariah"
+  ],
+  "body": [
+   "Indonesia naik ke peringkat kedua dunia dalam Global Muslim Travel Index (GMTI) 2026, dari posisi kelima pada tahun sebelumnya, dan berada di peringkat keenam dunia versi laporan State of the Global Islamic Economy 2025/2026. Capaian ini diumumkan dalam Indonesia Muslim Friendly Travel Summit yang menjadi bagian dari Indonesia Sharia Economic Festival (ISEF) ke-13, dibuka oleh Deputi Gubernur Bank Indonesia Ricky P. Gozali dan Menteri Pariwisata Widiyanti Putri Wardhana di Jakarta International Convention Center, Kamis (16/10).",
+   "Bank Indonesia menyampaikan tiga langkah untuk memperkuat sektor ini, yaitu penggunaan Indonesia Muslim Travel Index (IMTI) untuk memetakan kesiapan tiap daerah, penyusunan peta jalan pariwisata ramah muslim nasional, serta pelatihan bagi pengelola desa wisata. Langkah ini dilengkapi layanan digital Indonesia Travel Pack yang diluncurkan bersama Kementerian Pariwisata pada September 2026, yang menggabungkan informasi destinasi, akses internet, dan layanan pembayaran dalam satu platform, sekaligus terhubung dengan sistem pembayaran lintas negara QRIS Antarnegara.",
+   "Menteri Pariwisata Widiyanti Putri Wardhana menyebut pasar wisatawan muslim dunia diproyeksikan mencapai 260 juta perjalanan dengan pengeluaran tahunan sekitar US$310 miliar. Untuk menjangkau pasar itu, pemerintah memperluas Portal Visit Indonesia yang memuat informasi destinasi ramah muslim di 38 provinsi, serta memakai asisten kecerdasan buatan bernama MaiA untuk membantu wisatawan merencanakan perjalanan. Secara global, industri pariwisata ramah muslim diperkirakan tumbuh dari US$249 miliar pada 2024 menjadi US$424 miliar pada 2029, sementara Rencana Pembangunan Jangka Menengah Nasional menargetkan pertumbuhan sektor ini naik dari 10,28 persen pada 2025 menjadi 13,08 persen pada 2029.",
+   "Dalam acara tersebut, Bank Indonesia meluncurkan kajian rekomendasi peta jalan pariwisata ramah muslim nasional sekaligus memberi penghargaan kepada 15 provinsi dengan capaian terbaik di IMTI, yaitu Jawa Barat, Jawa Tengah, Nusa Tenggara Barat, Sumatera Barat, Jawa Timur, Aceh, Kepulauan Riau, Sulawesi Selatan, DKI Jakarta, DI Yogyakarta, Kalimantan Selatan, Gorontalo, Riau, Jambi, dan Batam. Rangkaian ISEF 2026 berlangsung pada 14 hingga 18 Oktober 2026 di Jakarta International Convention Center."
+  ],
+  "fotoAdegan": "Travelers walking through a lush tropical resort courtyard in Indonesia, rolled prayer mats near an open-air pavilion, soft morning light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2822426/Cover-sp_2822426-.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah bukan cuma peringkat, tapi mulai dibangunnya alat ukur resmi untuk sektor ini: Bank Indonesia baru meluncurkan kajian rekomendasi peta jalan pariwisata ramah muslim, dilengkapi indeks IMTI yang menilai kesiapan tiap daerah. Pihak yang langsung terdampak adalah 15 provinsi penerima penghargaan, dari Jawa Barat hingga Batam, karena merekalah yang lebih dulu dianggap siap menyerap wisatawan muslim dan manfaat ekonominya, sementara UMKM pariwisata ikut kebagian lewat layanan Indonesia Travel Pack yang menyatukan info destinasi dengan sistem pembayaran lintas negara QRIS. Arahnya terlihat bergeser dari sekadar mengejar peringkat global ke membangun kerangka kebijakan yang terukur, sejalan dengan target pertumbuhan sektor ini yang dipatok naik dari 10,28 persen tahun ini menjadi 13,08 persen pada 2029 dalam rencana pembangunan lima tahun pemerintah. Yang akan membuktikan apakah arah ini benar-benar berjalan adalah penerbitan peta jalan nasional versi final, sebab yang diluncurkan sekarang baru kajian rekomendasinya, bukan dokumen resmi yang mengikat.",
+  "imageV": "mvavga0e"
+ },
+ {
+  "slug": "taspen-raih-predikat-sangat-puas-dari-kemenkeu-lagi",
+  "category": "BUMN",
+  "title": "TASPEN Raih Predikat [Sangat Puas] dari Kemenkeu Lagi",
+  "deck": "DJPb Kemenkeu kembali memberi predikat tertinggi untuk layanan pensiun TASPEN, berdasarkan survei ke lebih dari seribu penerima pensiun ASN di seluruh Indonesia.",
+  "image": "assets/img/taspen-raih-predikat-sangat-puas-dari-kemenkeu-lagi.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T17:32:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473375-layanan-pensiun-taspen-kembali-mendapat-apresiasi-dari-kementerian-keuangan",
+  "tags": [
+   "TASPEN",
+   "pensiun ASN",
+   "Kementerian Keuangan",
+   "jaminan sosial"
+  ],
+  "body": [
+   "PT TASPEN (Persero) kembali mendapat predikat 'Sangat Puas' dari Direktorat Jenderal Perbendaharaan (DJPb) Kementerian Keuangan RI, berdasarkan laporan resmi bernomor S-231/PB.7/2026. Predikat ini menegaskan posisi TASPEN sebagai penyelenggara jaminan sosial pegawai negeri sipil (ASN), dan ini penting karena menyangkut kelancaran penyaluran dana pensiun bagi jutaan ASN purnatugas di seluruh Indonesia.",
+   "Capaian ini meneruskan hasil yang sama pada Semester II 2025, dan menurut TASPEN sudah melampaui ambang batas kinerja minimal yang ditetapkan secara nasional. Penilaian DJPb didasarkan pada survei terhadap 1.026 responden penerima pensiun di berbagai daerah, dengan tiga aspek yang dinilai: kualitas penyaluran dana mendapat skor 4,75, kualitas layanan 4,69, dan kualitas layanan autentikasi atau verifikasi identitas peserta 4,68.",
+   "TASPEN menyebut hasil ini didukung oleh transformasi digital, perbaikan integrasi data, serta kerja sama dengan 46 bank mitra pembayaran dan PT Pos Indonesia dalam menyalurkan dana sesuai prinsip 5T, yaitu tepat orang, tepat waktu, tepat jumlah, tepat tempat, dan tepat administrasi. Corporate Secretary TASPEN, Henra, mengatakan apresiasi ini jadi pendorong bagi jajaran TASPEN untuk terus menjaga kualitas layanan bagi lebih dari 9 juta penerima manfaat, mulai dari PNS, hakim, pejabat negara, anggota DPRD, hingga PPPK, yang tersebar di 16.932 titik layanan di seluruh Indonesia.",
+   "Sebagai tindak lanjut dari masukan peserta, TASPEN juga terus memperkuat jaringan dan keandalan aplikasi Andal by Taspen, yang dipakai dalam proses autentikasi atau verifikasi data peserta agar berjalan lebih lancar dan fleksibel. Langkah ini melengkapi catatan DJPb yang menyebut kemudahan verifikasi mandiri sebagai salah satu aspek yang turut dinilai dalam survei kepuasan peserta."
+  ],
+  "fotoAdegan": "Elderly Indonesian pensioners queuing calmly at a bank teller counter to collect their monthly payments, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/16/6ad1fb6a829f6-layanan-pensiun-taspen-kembali-dapat-apresiasi-dari-kementerian-keuangan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang sebenarnya berubah di sini cukup tipis, TASPEN mempertahankan predikat tertinggi 'Sangat Puas' yang sama dengan semester sebelumnya, bukan naik kelas atau berganti metode penilaian. Yang jelas terdampak adalah lebih dari 9 juta penerima manfaat pensiun ASN, termasuk PNS, hakim, pejabat negara, anggota DPRD, dan PPPK, yang dananya disalurkan lewat 46 bank mitra dan PT Pos Indonesia. Berita ini tidak menyebutkan skor edisi sebelumnya secara angka, hanya label yang sama, sehingga belum bisa dipastikan apakah kepuasan peserta benar-benar naik atau sekadar bertahan di ambang yang sama. Yang masih kurang untuk membaca arahnya adalah angka pembanding dari semester-semester sebelumnya serta rincian metode survei DJPb, dan itu baru akan lebih jelas kalau laporan serupa untuk Semester I 2026 terbit dan bisa dibandingkan.",
+  "imageV": "mvavgagj"
+ },
+ {
   "slug": "prda-buyback-saham-tembus-2-49-harga-naik-ke-rp3-097",
   "category": "Aksi Korporasi",
   "title": "PRDA: Buyback Saham Tembus [2,49%], Harga Naik ke Rp3.097",

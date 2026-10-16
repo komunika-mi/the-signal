@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "w0xjJy7nxyg",
+  "title": "Antrean BBM di SPBU Bali Berlanjut hingga Hari Kelima",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Antrean panjang kendaraan di berbagai SPBU Bali masih terjadi hingga hari kelima, Jumat (16/10/2026), akibat keterlambatan distribusi bahan bakar minyak.",
+  "takeaway": "Gangguan distribusi BBM ini berisiko mengganggu mobilitas warga dan aktivitas ekonomi, termasuk sektor pariwisata, di Bali."
+ },
+ {
+  "id": "p5EscWKbGKg",
+  "title": "Bahlil Lahadalia Pastikan Stok BBM Nasional Aman",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Menteri Koordinator Bidang Hilirisasi dan Investasi Bahlil Lahadalia menyatakan stok BBM nasional aman, sembari pemerintah mempercepat distribusi ke berbagai daerah.",
+  "takeaway": "Pernyataan ini penting bagi publik di tengah kekhawatiran kelangkaan BBM yang berdampak pada aktivitas ekonomi harian."
+ },
+ {
+  "id": "tsX_ZxcFlsE",
+  "title": "OJK Temukan Dugaan Manipulasi Saham di Pasar Modal",
+  "category": "Pasar Modal",
+  "program": "Kabar Khusus",
+  "summary": "Otoritas Jasa Keuangan menemukan dugaan praktik manipulasi saham di pasar modal Indonesia, sebagai bagian dari upaya memperkuat pengawasan perdagangan efek.",
+  "takeaway": "Temuan ini relevan bagi investor karena menyangkut integritas pasar modal dan kepercayaan terhadap mekanisme perdagangan saham."
+ },
+ {
   "id": "ZfcTfSqOY1s",
   "title": "Menteri ESDM Ungkap Kondisi Stok BBM Nasional di Tengah Kelangkaan",
   "category": "Energi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik serta 11 proyek hilirisasi di kawasan industri Weda Bay, Halmahera Tengah.",
   "takeaway": "Peluncuran ini menjadi tonggak konkret dari strategi hilirisasi nikel yang menjadi andalan kebijakan industrialisasi pemerintah."
- },
- {
-  "id": "b8ResNLpPZg",
-  "title": "Pemerintah dan DPR Sepakati Biaya Haji 2027 Rp98,4 Juta",
-  "category": "Makroekonomi",
-  "program": "OneNews Update",
-  "summary": "Pemerintah dan DPR RI menetapkan Biaya Penyelenggaraan Ibadah Haji 2027 sebesar Rp98,4 juta, termasuk komponen biaya perjalanan haji yang ditanggung jemaah.",
-  "takeaway": "Keputusan ini berdampak langsung pada anggaran calon jemaah haji serta pengelolaan dana haji oleh negara."
- },
- {
-  "id": "aS2vCIurwFs",
-  "title": "Presiden Prabowo Luncurkan 11 Proyek Hilirisasi",
-  "category": "Industri",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik sekaligus 11 proyek hilirisasi di Kawasan Industri Weda Bay, Halmahera Tengah.",
-  "takeaway": "Peluncuran ini menjadi tonggak lanjutan kebijakan hilirisasi nikel yang selama ini jadi andalan strategi industri nasional."
- },
- {
-  "id": "nasZOFbNljY",
-  "title": "Presiden Prabowo: Hilirisasi Serap 100 Ribu Tenaga Kerja",
-  "category": "Ketenagakerjaan",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto meresmikan proyek hilirisasi senilai US$10,2 miliar atau setara Rp180 triliun di Weda Bay Industrial Park, yang diproyeksikan menyerap 100 ribu tenaga kerja.",
-  "takeaway": "Data penyerapan tenaga kerja ini penting untuk menakar dampak nyata investasi hilirisasi terhadap pasar kerja di kawasan timur Indonesia."
  }
 ];

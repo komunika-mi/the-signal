@@ -5,6 +5,77 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "stok-bbm-aman-tapi-distribusi-ke-bali-masih-tersendat",
+  "category": "Energi",
+  "title": "Stok BBM Aman, tapi [Distribusi] ke Bali Masih Tersendat",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut stok BBM nasional masih di kisaran 16-18 hari, tapi distribusi ke Bali dan daerah bergantung jalur laut butuh tambahan kapal Pertamina.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/stok-bbm-aman-tapi-distribusi-ke-bali-masih-tersendat.jpg",
+  "imageV": "mvavg3dl",
+  "tags": [
+   "BBM",
+   "Pertamina",
+   "Bahlil Lahadalia",
+   "RON 90"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/stok-bbm-nasional-aman-bahlil-minta-pertamina-percepat-distribusi-ke-daerah",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "dim-ruu-migas-capai-80-90-persen-aturan-buk-lewat-pp",
+  "category": "Energi",
+  "title": "DIM RUU Migas Capai 80-90 Persen, Aturan [BUK] Lewat PP",
+  "deck": "Pemerintah menyebut penyusunan DIM RUU Migas sudah 80-90 persen, dengan Badan Usaha Khusus (BUK) diatur lewat Peraturan Pemerintah dan Perpres, bukan rinci di UU.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/dim-ruu-migas-capai-80-90-persen-aturan-buk-lewat-pp.jpg",
+  "imageV": "mvavg5jq",
+  "tags": [
+   "RUU Migas",
+   "ESDM",
+   "Bahlil Lahadalia",
+   "Badan Usaha Khusus"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pemerintah-matangkan-dim-ruu-migas-bahlil-sebut-penyusunan-capai-80-90-persen",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "pariwisata-ramah-muslim-ri-naik-ke-peringkat-dua-dunia",
+  "category": "Makroekonomi",
+  "title": "Pariwisata Ramah Muslim RI Naik ke Peringkat [Dua] Dunia",
+  "deck": "Indonesia naik ke peringkat dua dunia dalam indeks wisata ramah muslim, dibarengi peluncuran peta jalan nasional dan penghargaan bagi 15 provinsi dengan kesiapan destinasi terbaik.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/pariwisata-ramah-muslim-ri-naik-ke-peringkat-dua-dunia.jpg",
+  "imageV": "mvavga0e",
+  "tags": [
+   "pariwisata syariah",
+   "ISEF 2026",
+   "Bank Indonesia",
+   "ekonomi syariah"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822426.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "taspen-raih-predikat-sangat-puas-dari-kemenkeu-lagi",
+  "category": "BUMN",
+  "title": "TASPEN Raih Predikat [Sangat Puas] dari Kemenkeu Lagi",
+  "deck": "DJPb Kemenkeu kembali memberi predikat tertinggi untuk layanan pensiun TASPEN, berdasarkan survei ke lebih dari seribu penerima pensiun ASN di seluruh Indonesia.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/taspen-raih-predikat-sangat-puas-dari-kemenkeu-lagi.jpg",
+  "imageV": "mvavgagj",
+  "tags": [
+   "TASPEN",
+   "pensiun ASN",
+   "Kementerian Keuangan",
+   "jaminan sosial"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473375-layanan-pensiun-taspen-kembali-mendapat-apresiasi-dari-kementerian-keuangan"
+ },
+ {
   "slug": "prda-buyback-saham-tembus-2-49-harga-naik-ke-rp3-097",
   "category": "Aksi Korporasi",
   "title": "PRDA: Buyback Saham Tembus [2,49%], Harga Naik ke Rp3.097",
@@ -6455,70 +6526,6 @@ var ARTICLES = [
    "pelunasan utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5110c74978_dd3cd91895.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xrdn-unit-penyertaan-etf-kas-bertumbuh-berkurang-58-4-juta",
-  "category": "Aksi Korporasi",
-  "title": "XRDN: [Unit Penyertaan] ETF Kas Bertumbuh Berkurang 58,4 Juta",
-  "deck": "Jumlah unit penyertaan Reksa Dana Indo ETF RDN Kas Bertumbuh (XRDN) turun 58,4 juta unit menjadi 22,91 miliar unit per 8 Oktober 2026, tanpa ada unit baru yang diterbitkan.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XRDN",
-   "ETF",
-   "reksa dana",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/881947f299_fcd1034def.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xrdn-unit-penyertaan-etf-susut-256-2-juta",
-  "category": "Aksi Korporasi",
-  "title": "XRDN: Unit Penyertaan ETF [Susut] 256,2 Juta",
-  "deck": "Unit penyertaan ETF RDN Kas Bertumbuh (XRDN) turun dari 23.227.700.000 menjadi 22.971.500.000 unit per 7 Oktober 2026, berkurang 256.200.000 unit tanpa ada penambahan baru.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XRDN",
-   "ETF",
-   "reksa dana",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f013c8f338_1b9fdc498e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "agii-siapkan-dana-rp76-5-miliar-lunasi-obligasi-dan-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "AGII siapkan dana [Rp76,5 miliar] lunasi obligasi dan sukuk",
-  "deck": "PT Samator Indo Gas Tbk memastikan dana pelunasan obligasi Rp41 miliar dan sukuk ijarah Rp35,5 miliar yang jatuh tempo 10 Oktober 2026 sudah tersedia di rekening perusahaan.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGII",
-   "obligasi",
-   "sukuk",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ffeed49aaf_eccfed830f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vktr-catat-rights-issue-15-miliar-saham-harga-rp200",
-  "category": "Aksi Korporasi",
-  "title": "VKTR Catat Rights Issue [15 Miliar Saham] Harga Rp200",
-  "deck": "BEI resmi mencatatkan rights issue VKTR sebanyak 15 miliar saham baru dengan harga pelaksanaan Rp200 per saham, periode pelaksanaan 12-23 Oktober 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VKTR",
-   "rights issue",
-   "HMETD",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98a9bbedb9_416616aa27.pdf",
   "sourceLabel": "IDX"
  }
 ];

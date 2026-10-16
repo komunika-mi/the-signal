@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "stok-bbm-nasional-aman-distribusi-ke-bali-diperkuat",
+  "category": "Energi",
+  "title": "Stok BBM Nasional Aman, Distribusi ke [Bali] Diperkuat",
+  "deck": "Pemerintah memastikan stok BBM nasional aman di level 16-18 hari, namun menambah kapal untuk perbaiki distribusi ke Bali dan wilayah kepulauan.",
+  "image": "assets/img/stok-bbm-nasional-aman-distribusi-ke-bali-diperkuat.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T23:58:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473435-stok-bbm-nasional-dipastikan-aman-pemerintah-fokus-perbaiki-jalur-pengiriman",
+  "tags": [
+   "BBM",
+   "Bahlil Lahadalia",
+   "Distribusi Energi",
+   "Bali"
+  ],
+  "body": [
+   "Pemerintah menyatakan pasokan bahan bakar minyak di tingkat nasional masih dalam kondisi aman, sembari mengalihkan perhatian ke perbaikan jalur pengiriman ke berbagai daerah. Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga Menteri ESDM, Bahlil Lahadalia, meminta Pertamina menambah kapal pengangkut BBM, terutama untuk rute dari Jawa Timur ke Bali dan daerah lain yang bergantung pada jalur laut. Langkah ini penting karena menyangkut kelancaran pasokan energi bagi masyarakat di wilayah yang akses daratnya terbatas.",
+   "Bahlil menyebut cadangan BBM nasional saat ini berada di kisaran 16 sampai 18 hari konsumsi, angka yang menurutnya masih tergolong aman. Ia menegaskan tidak ada kendala di sisi produksi maupun kapasitas kilang pengolahan, sehingga masalah yang perlu segera diatasi murni soal jalur pengiriman dari titik produksi ke daerah konsumen.",
+   "Khusus untuk BBM jenis RON 90, ketersediaannya saat ini di bawah 20 hari akibat perubahan kebiasaan masyarakat yang makin banyak beralih memakai jenis bahan bakar ini. Bahlil memperkirakan stok akan kembali ke level normal 20 hari dalam waktu sekitar satu minggu.",
+   "Di sisi lain, pemerintah juga memperketat pengawasan terhadap penyalahgunaan BBM bersubsidi, termasuk praktik penggunaan tangki modifikasi untuk memborong BBM bersubsidi lalu menjualnya kembali dengan harga industri. Bahlil meminta aparat menindak tegas pelaku praktik tersebut agar subsidi benar-benar sampai ke pihak yang berhak."
+  ],
+  "fotoAdegan": "Fuel distribution ship docked at a busy Indonesian seaport, workers checking pipelines near storage tanks, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/16/6ad2570a5903a-menteri-koordinator-bidang-hilirisasi-dan-transisi-energi-sekaligus-menteri-esdm-bahlil-lahadalia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan soal jumlah stok BBM, melainkan ke mana perhatian pemerintah diarahkan, dari sekadar menjamin pasokan nasional menuju perbaikan jalur pengiriman, terutama rute kapal dari Jawa Timur ke Bali dan daerah kepulauan lain. Yang langsung terdampak adalah masyarakat di wilayah yang mengandalkan jalur laut untuk mendapat BBM, serta pengguna BBM jenis RON 90, semacam bensin yang makin banyak dipakai, yang sempat mengalami stok lebih tipis dari biasanya. Pola ini mengarah ke penanganan yang bersifat teknis dan sementara, menambah kapal untuk menutup kekurangan armada, bukan ke perubahan kebijakan subsidi atau alokasi BBM secara nasional. Yang akan menentukan apakah pembacaan ini tepat adalah apakah stok RON 90 benar-benar kembali ke level 20 hari dalam satu minggu seperti diperkirakan Bahlil, dan apakah penambahan kapal itu terbukti mengatasi kendala di rute Jawa Timur-Bali.",
+  "imageV": "mvbbwb0m"
+ },
+ {
   "slug": "kemendag-targetkan-4-juta-umkm-siap-ekspor-dalam-5-tahun",
   "category": "UMKM",
   "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
@@ -28,6 +55,33 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan ekspor, melainkan target pembinaan: Kemendag ingin mencetak 4 juta UMKM siap ekspor dalam lima tahun, atau sekitar 800 ribu UMKM per tahun, lewat program kampus yang baru melibatkan 27 perguruan tinggi. Yang terdampak langsung adalah mahasiswa wirausaha dan UMKM di kampus-kampus yang ikut program ini, termasuk UIN Jakarta dan Universitas Presiden yang baru menandatangani kesepakatan kerja sama. Ada jarak besar antara target 4 juta UMKM dengan jumlah kampus yang baru bergabung sejauh ini, sehingga program ini masih di tahap awal dan belum terlihat apakah kecepatannya bisa mengejar target tahunan 800 ribu UMKM. Yang perlu dipantau adalah seberapa cepat jumlah kampus dan UMKM yang ikut program ini bertambah, serta rilis data BPS berikutnya soal kontribusi UMKM terhadap ekspor, yang saat ini masih di kisaran 15 sampai 16 persen."
+ },
+ {
+  "slug": "pegadaian-luncurkan-atm-emas-bisa-cetak-instan",
+  "category": "BUMN",
+  "title": "Pegadaian Luncurkan ATM Emas, Bisa [Cetak] Instan",
+  "deck": "Pegadaian meluncurkan ATM Emas yang terhubung ke aplikasi Tring!, memungkinkan nasabah mengambil emas fisik 1-100 gram secara instan tanpa menunggu proses cetak di outlet.",
+  "image": "assets/img/pegadaian-luncurkan-atm-emas-bisa-cetak-instan.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T23:18:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473432-mudahnya-mengubah-saldo-emas-digital-menjadi-fisik-lewat-atm",
+  "tags": [
+   "Pegadaian",
+   "ATM Emas",
+   "Tring!",
+   "emas digital"
+  ],
+  "body": [
+   "PT Pegadaian resmi meluncurkan layanan ATM Emas, mesin yang memungkinkan nasabah mengubah saldo Tabungan Emas digital menjadi emas batangan fisik secara instan. Layanan ini terhubung langsung dengan aplikasi Tring! by Pegadaian, sehingga nasabah tidak perlu lagi mengajukan permohonan cetak emas dan menunggu proses produksinya seperti sebelumnya. Bagi masyarakat yang menabung emas secara digital, ini berarti akses ke emas fisik jadi jauh lebih cepat dan tidak tergantung jam operasional outlet.",
+   "Direktur Utama Pegadaian, Damar Latri Setiawan, menyebut peluncuran ATM Emas ini bertepatan dengan satu tahun perjalanan aplikasi Tring!. Menurutnya, langkah ini merupakan bagian dari upaya membangun ekosistem bulion, yakni ekosistem jual beli dan penyimpanan emas, yang lebih inklusif, modern, dan tepercaya di Indonesia. Pegadaian juga menyebut langkah ini mengukuhkan posisinya sebagai pionir Bullion Bank, istilah untuk lembaga yang mengelola emas dari simpanan digital hingga bentuk fisik dalam satu sistem.",
+   "Dari sisi teknis, nasabah bisa menarik emas batangan murni dengan bobot mulai 1 gram hingga 100 gram lewat ATM Emas, tergantung ketersediaan stok di mesin saat itu. Emas fisik yang keluar dari mesin ini dicetak oleh Galeri 24, anak usaha Pegadaian yang bergerak di bidang perhiasan dan logam mulia. Proses penarikannya dirancang mandiri: nasabah memilih menu transaksi di aplikasi Tring!, memindai kode QR di layar mesin, menyetujui pembayaran, lalu memasukkan kode verifikasi sebelum emas batangan keluar dari mesin.",
+   "Sebelum ada ATM Emas, nasabah yang ingin memegang emas fisik dari saldo tabungan digitalnya harus mengajukan permohonan cetak lebih dulu, lalu menunggu estimasi waktu produksi sebelum bisa mengambilnya di outlet Pegadaian. Dengan kehadiran mesin ini, proses tersebut dipotong jadi hitungan menit di depan mesin, tanpa perlu antre atau menunggu hari kerja berikutnya."
+  ],
+  "fotoAdegan": "Close-up of small gold bars being dispensed from a modern vending-style machine in a bright financial services lobby, Jakarta",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/16/6ad24d9a2fc61-pegadaian-secara-resmi-memperkenalkan-inovasi-teranyarnya-berupa-anjungan-tunai-mandiri-atm-emas-guna-mempermudah-masyarakat-mengakses-kepemilikan-emas-batangan-dengan-cepat-dan-praktis_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah proses pengambilan emas fisik dari tabungan emas digital Pegadaian: dulu nasabah harus mengajukan permohonan cetak dan menunggu produksi di outlet, sekarang tinggal memindai kode QR di aplikasi Tring! dan emas batangan 1 sampai 100 gram langsung keluar dari mesin ATM Emas. Yang merasakan dampaknya adalah nasabah Tabungan Emas Pegadaian yang ingin memegang emas fisik secara cepat, terutama di lokasi yang sudah kebagian mesin ini. Pegadaian menyebut langkah ini sebagai bagian dari ambisinya menjadi pionir Bullion Bank, yakni lembaga yang mengelola emas dari simpanan digital sampai bentuk fisik dalam satu ekosistem, tapi berita ini tidak menyebutkan berapa unit ATM Emas yang sudah terpasang, di kota mana saja, atau bagaimana status resmi klaim itu di mata otoritas keuangan. Karena itu belum jelas apakah ini baru uji coba di segelintir lokasi atau awal dari perluasan jaringan yang lebih luas. Yang perlu dipantau adalah pengumuman lanjutan soal jumlah dan lokasi ATM Emas berikutnya, karena itu yang akan menentukan apakah layanan ini jadi standar atau tetap terbatas.",
+  "imageV": "mvbbwbhd"
  },
  {
   "slug": "bni-raih-peringkat-4-layanan-terbaik-bumn-2026",
@@ -82,7 +136,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret: tenggat wajib sertifikat halal untuk jasa makanan, minuman, dan hasil sembelihan mundur dua tahun dari 18 Oktober 2026 ke 18 Oktober 2028, dan beberapa kategori lain seperti kosmetik, suplemen kesehatan, serta obat herbal yang tadinya bertenggat 2026 ikut diperpanjang sampai 17 Oktober 2028. Yang langsung terdampak adalah pelaku usaha mikro dan kecil serta importir produk makanan dan kosmetik, karena merekalah yang paling membutuhkan waktu tambahan untuk mengurus sertifikasi. Hal yang patut dicatat, pengumuman ini keluar hanya dua hari sebelum tenggat lama semestinya berlaku, menandakan ekosistem sertifikasi, mulai dari lembaga pemeriksa sampai kapasitas BPJPH, belum siap menampung kewajiban itu untuk jutaan pelaku usaha sekaligus. Pola ini mengarah pada penundaan bertahap yang menyesuaikan kesiapan di lapangan, bukan penerapan penuh sesuai tanggal yang sudah dipatok sebelumnya. Yang akan memastikan arah ini adalah apakah Peraturan Pemerintah perubahan tersebut benar-benar terbit dan resmi diundangkan sebelum 18 Oktober 2026, sebab sejauh ini baru disosialisasikan dan belum dipastikan sudah berlaku secara hukum.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "transaksi-dagang-pakai-mata-uang-lokal-tembus-us-49-42-miliar",
@@ -72428,7 +72482,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
   "deck": "Pemerintah menetapkan lima negara mitra dan kriteria eksportir tambang yang berhak memakai skema khusus devisa hasil ekspor SDA mulai 1 September 2026.",
-  "image": "assets/img/koridor-bank-sentral.jpg",
+  "image": "assets/img/konpers-bank.jpg",
   "date": "30 Agustus 2026",
   "isoDate": "2026-08-30T02:00:26+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463543-dhe-sda-berubah-mulai-1-september-ini-5-negara-dan-15-bank-yang-masuk-skema-baru",

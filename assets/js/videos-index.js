@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "JhG4eAZKRRk",
+  "title": "Kementrans Pelajari Teknologi Pertanian Modern di China",
+  "category": "Industri",
+  "program": "Kabar Hari Ini",
+  "summary": "Kementerian Transmigrasi menjajaki penerapan teknologi pertanian modern, hilirisasi, dan industrialisasi pedesaan lewat kunjungan kerja ke China.",
+  "takeaway": "Menyangkut arah kebijakan hilirisasi dan industrialisasi pedesaan yang berpotensi mengubah struktur ekonomi di sektor pertanian dalam negeri."
+ },
+ {
   "id": "oEAy4T11ows",
   "title": "Anindya Bakrie: Perempuan Berperan Penting dalam Ekonomi RI",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "DPR dan pemerintah menyatakan telah merampungkan sinkronisasi serta harmonisasi aturan mengenai ojek online menjelang penerbitan Peraturan Presiden terkait layanan transportasi daring.",
   "takeaway": "Regulasi ini relevan bagi pembaca ekonomi karena menyangkut kepastian hukum dan kesejahteraan mitra pengemudi di sektor transportasi daring."
- },
- {
-  "id": "TrVL5e1N3ow",
-  "title": "Perpres Ojol Atur Tarif Angkutan Orang hingga Barang",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "DPR RI dan pemerintah merampungkan peraturan presiden yang mengatur ekosistem ojek online, mencakup tarif angkutan orang, barang, hingga makanan.",
-  "takeaway": "Aturan ini penting bagi pelaku usaha transportasi daring dan jutaan pengemudi ojol yang selama ini menunggu kepastian tarif."
  }
 ];

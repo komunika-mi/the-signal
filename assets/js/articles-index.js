@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "stok-bbm-nasional-aman-distribusi-ke-bali-diperkuat",
+  "category": "Energi",
+  "title": "Stok BBM Nasional Aman, Distribusi ke [Bali] Diperkuat",
+  "deck": "Pemerintah memastikan stok BBM nasional aman di level 16-18 hari, namun menambah kapal untuk perbaiki distribusi ke Bali dan wilayah kepulauan.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/stok-bbm-nasional-aman-distribusi-ke-bali-diperkuat.jpg",
+  "imageV": "mvbbwb0m",
+  "tags": [
+   "BBM",
+   "Bahlil Lahadalia",
+   "Distribusi Energi",
+   "Bali"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473435-stok-bbm-nasional-dipastikan-aman-pemerintah-fokus-perbaiki-jalur-pengiriman"
+ },
+ {
   "slug": "kemendag-targetkan-4-juta-umkm-siap-ekspor-dalam-5-tahun",
   "category": "UMKM",
   "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
@@ -19,6 +36,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-4-juta-umkm-siap-ekspor-melalui-program-campuspreneur",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pegadaian-luncurkan-atm-emas-bisa-cetak-instan",
+  "category": "BUMN",
+  "title": "Pegadaian Luncurkan ATM Emas, Bisa [Cetak] Instan",
+  "deck": "Pegadaian meluncurkan ATM Emas yang terhubung ke aplikasi Tring!, memungkinkan nasabah mengambil emas fisik 1-100 gram secara instan tanpa menunggu proses cetak di outlet.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/pegadaian-luncurkan-atm-emas-bisa-cetak-instan.jpg",
+  "imageV": "mvbbwbhd",
+  "tags": [
+   "Pegadaian",
+   "ATM Emas",
+   "Tring!",
+   "emas digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473432-mudahnya-mengubah-saldo-emas-digital-menjadi-fisik-lewat-atm"
  },
  {
   "slug": "bni-raih-peringkat-4-layanan-terbaik-bumn-2026",
@@ -6501,38 +6535,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b5fdd05840_188ece442e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kota-jadwalkan-ulang-rupslb-pmhmetd-ke-15-oktober",
-  "category": "Aksi Korporasi",
-  "title": "KOTA Jadwalkan Ulang RUPSLB [PMHMETD] ke 15 Oktober",
-  "deck": "PT DMS Propertindo (KOTA) mengubah jadwal RUPSLB dari 6 menjadi 15 Oktober 2026 setelah OJK memberi tanggapan atas rencana penambahan modal dan transaksi material perseroan.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOTA",
-   "RUPSLB",
-   "PMHMETD",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/902bfc83d7_d2e39c8432.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asli-pengendali-tambah-saham-kuasai-52",
-  "category": "Aksi Korporasi",
-  "title": "ASLI: [Pengendali] Tambah Saham, Kuasai 52%",
-  "deck": "PT Wahana Konstruksi menambah 62,5 juta saham ASLI senilai Rp20,31 miliar pada 21 September 2026, menaikkan kendalinya dari 51 persen menjadi 52 persen.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASLI",
-   "pemegang saham",
-   "pengendali",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5a2f3add70_bfd737dc30.pdf",
   "sourceLabel": "IDX"
  }
 ];

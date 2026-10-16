@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "JhG4eAZKRRk",
+  "title": "Kementrans Pelajari Teknologi Pertanian Modern di China",
+  "category": "Industri",
+  "program": "Kabar Hari Ini",
+  "summary": "Kementerian Transmigrasi menjajaki penerapan teknologi pertanian modern, hilirisasi, dan industrialisasi pedesaan lewat kunjungan kerja ke China.",
+  "takeaway": "Menyangkut arah kebijakan hilirisasi dan industrialisasi pedesaan yang berpotensi mengubah struktur ekonomi di sektor pertanian dalam negeri.",
+  "terbit": "2026-10-16T16:15:33+00:00"
+ },
+ {
   "id": "oEAy4T11ows",
   "title": "Anindya Bakrie: Perempuan Berperan Penting dalam Ekonomi RI",
   "category": "Bisnis",

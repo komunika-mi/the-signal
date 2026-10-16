@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dagang-ri-mozambik-naik-57-5-persen-tembus-us-162-8-juta",
+  "category": "Global",
+  "title": "Dagang RI-Mozambik Naik [57,5] Persen, Tembus US$162,8 Juta",
+  "deck": "Kementerian Perdagangan menggelar forum bisnis RI-Mozambik di Trade Expo Indonesia, seiring nilai perdagangan dua negara yang terus naik dalam dua tahun terakhir.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/dagang-ri-mozambik-naik-57-5-persen-tembus-us-162-8-juta.jpg",
+  "imageV": "mvahh1p1",
+  "tags": [
+   "Indonesia-Mozambik",
+   "Trade Expo Indonesia",
+   "Ekspor",
+   "Kementerian Perdagangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-indonesia-dan-mozambik-perlu-tingkatkan-koneksi-dan-buka-peluang-baru",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "skincare-hutan-aceh-yagi-forest-bidik-pasar-ekspor",
+  "category": "UMKM",
+  "title": "Skincare Hutan Aceh Yagi Forest Bidik [Pasar] Ekspor",
+  "deck": "UMKM skincare asal Aceh, Yagi Forest, ikut Trade Expo Indonesia untuk mencari mitra distributor setelah tampil di pameran Malaysia, Jepang, dan Oman.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "UMKM",
+   "Aceh",
+   "Ekspor",
+   "Kosmetik"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/menjaga-hutan-aceh-memikat-pasar-global-perjalanan-yagi-forest-menuju-panggung-internasional",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "igar-disuspensi-bei-champion-pacific-ajukan-go-private",
   "category": "Aksi Korporasi",
   "title": "IGAR Disuspensi BEI, Champion Pacific Ajukan [Go Private]",
@@ -35,6 +69,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/16d6b67a75_056f73c60d.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-naik-ke-rp2-565-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] ke Rp2.565.000 per Gram",
+  "deck": "Harga emas batangan Antam naik Rp4.000 menjadi Rp2.565.000 per gram pada 16 Oktober 2026, sementara harga buyback ikut naik ke Rp2.375.000 per gram.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-naik-ke-rp2-565-000-per-gram.jpg",
+  "imageV": "mvahh23y",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473313-coba-dijual-harga-emas-antam-hari-ini-16-oktober-2026-naik-jadi-rp2565000-per-gram"
+ },
+ {
+  "slug": "beli-rumah-hingga-warisan-ini-pajak-properti-di-jakarta",
+  "category": "Makroekonomi",
+  "title": "Beli Rumah hingga Warisan, Ini [Pajak] Properti di Jakarta",
+  "deck": "Pemprov DKI Jakarta mengingatkan bahwa membeli rumah, menerima hibah, atau mewarisi tanah dan bangunan tetap terikat BPHTB dan PBB-P2 sesuai Perda Nomor 1 Tahun 2024.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/beli-rumah-hingga-warisan-ini-pajak-properti-di-jakarta.jpg",
+  "imageV": "mvahh2jt",
+  "tags": [
+   "pajak properti",
+   "BPHTB",
+   "PBB-P2",
+   "Jakarta"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473233-dari-beli-rumah-hingga-warisan-ini-pajak-properti-yang-perlu-diperhatikan"
  },
  {
   "slug": "untd-gelar-rupslb-9-november-agendakan-pergantian-direksi",
@@ -2493,7 +2561,7 @@ var ARTICLES = [
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
   "deck": "Pemerintah bersama ILO dan SECO menutup program PROMISE II dan memasuki fase baru penguatan akses keuangan UMKM, di tengah kesenjangan literasi keuangan yang masih lebar.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "UMKM",
    "Literasi Keuangan",
@@ -4228,7 +4296,7 @@ var ARTICLES = [
   "title": "TEI 2026 Buka Ruang Ekspor [Jasa] dari Logistik hingga AI",
   "deck": "Pameran dagang TEI ke-41 di ICE BSD City, 14-18 Oktober 2026, menyertakan puluhan perusahaan jasa dari logistik, keuangan, hingga kecerdasan buatan untuk menjaring pembeli mancanegara.",
   "date": "12 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "TEI 2026",
    "ekspor jasa",
@@ -6446,70 +6514,6 @@ var ARTICLES = [
    "carbide desulphuriser"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcd93b308d_0a2f63c2b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "avia-koreksi-realisasi-dana-ipo-rp136-76-m-tertahan-di-cirebon",
-  "category": "Aksi Korporasi",
-  "title": "AVIA Koreksi Realisasi Dana IPO, Rp136,76 M [Tertahan] di Cirebon",
-  "deck": "Avia Avian merevisi laporan realisasi dana IPO per Juni 2026: belanja modal meleset dari target, sisa Rp136,76 miliar menunggu penyelesaian pabrik baru di Cirebon, target medio 2027.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "Avia Avian",
-   "penggunaan dana IPO",
-   "capex"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3c268c1dc5_d4906ad176.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ammn-jadwalkan-rupslb-17-november-agenda-menyusul",
-  "category": "Aksi Korporasi",
-  "title": "AMMN Jadwalkan RUPSLB 17 November, [Agenda] Menyusul",
-  "deck": "Amman Mineral Internasional menjadwalkan RUPSLB pada 17 November 2026, dengan tanggal pencatatan pemegang saham 23 Oktober 2026 dan agenda baru diumumkan 26 Oktober 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMMN",
-   "RUPSLB",
-   "Amman Mineral Internasional",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c449df23cf_a96f64574e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-laporkan-realisasi-dana-obligasi-sukuk-rp3-67-triliun",
-  "category": "Aksi Korporasi",
-  "title": "LPPI Laporkan Realisasi Dana Obligasi-Sukuk [Rp3,67 Triliun]",
-  "deck": "LPPI mengoreksi laporan realisasi dana hasil penerbitan obligasi dan sukuk senilai total Rp3,67 triliun, dengan sisa dana Rp162,8 miliar dari satu tranche masih mengendap di bank.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "obligasi",
-   "sukuk",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea463ab5cc_3176736959.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppri-direksi-jual-24-4-juta-saham-hak-suara-ke-10-34",
-  "category": "Aksi Korporasi",
-  "title": "PPRI: Direksi Jual 24,4 Juta Saham, Hak Suara ke [10,34%]",
-  "deck": "Direksi PPRI Irsyad Hanif melepas 24,4 juta saham seharga Rp182-193 per lembar pada 6-7 Oktober, hak suaranya turun dari 12,61% menjadi 10,34%.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRI",
-   "Irsyad Hanif",
-   "divestasi saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-7699-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

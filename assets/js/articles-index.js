@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dooh-koreksi-panggilan-rupslb-agenda-pinjaman-rp5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Koreksi Panggilan RUPSLB, Agenda [Pinjaman] Rp5 Triliun",
+  "deck": "Era Media Sejahtera mengoreksi panggilan RUPSLB 9 November 2026 yang mengagendakan ganti nama, rights issue, pinjaman Rp5 triliun dari pengendali, dan akuisisi INET.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "RUPSLB",
+   "rights issue",
+   "akuisisi INET"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/797eb58041_6aea1f51cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gtbo-mulai-tambang-batu-bara-16-oktober-rupst-molor-ke-november",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Mulai Tambang Batu Bara 16 Oktober, RUPST [Molor] ke November",
+  "deck": "Dalam balasan ke Bursa, GTBO menyebut tambang mulai beroperasi 16 Oktober, piutang US$4,15 juta sebagian sudah cair, tapi RUPS Tahunan 2025 baru digelar 18 November 2026.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTBO",
+   "Produksi Batu Bara",
+   "RUPST",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5175f5788_9b1f2743f4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-panggil-rupslb-9-november-agenda-utang-rp5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Panggil RUPSLB 9 November, Agenda [Utang] Rp5 Triliun",
+  "deck": "RUPSLB DOOH digelar 9 November 2026 di Jakarta, membahas pinjaman Rp5 triliun dari pemegang saham pengendali, rights issue, dan akuisisi INET oleh CNI.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "RUPSLB",
+   "rights issue",
+   "transaksi afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5bd1b271e3_b4f21156c0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbss-wibowo-group-capital-kuasai-90-09-saham-usai-tender-wajib",
+  "category": "Aksi Korporasi",
+  "title": "MBSS: Wibowo Group Capital Kuasai [90,09%] Saham Usai Tender Wajib",
+  "deck": "Penawaran tender wajib MBSS yang berakhir 8 Oktober 2026 membuat kepemilikan Wibowo Group Capital naik menjadi 90,09 persen, menyisakan saham publik hanya 9,91 persen.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBSS",
+   "tender wajib",
+   "Wibowo Group Capital",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a0bd53c914_b799af056d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "stok-bbm-aman-tapi-distribusi-ke-bali-masih-tersendat",
   "category": "Energi",
   "title": "Stok BBM Aman, tapi [Distribusi] ke Bali Masih Tersendat",
@@ -74,6 +138,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473375-layanan-pensiun-taspen-kembali-mendapat-apresiasi-dari-kementerian-keuangan"
+ },
+ {
+  "slug": "rbms-jawab-bei-akui-banyak-kekeliruan-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "RBMS Jawab BEI, Akui Banyak Kekeliruan Laporan [Keuangan]",
+  "deck": "RBMS merespons permintaan penjelasan BEI dan mengakui sejumlah kesalahan hitung dalam laporan keuangan tengah tahunan per 30 Juni 2026, mulai dari kas, piutang, hingga reklasifikasi aset.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RBMS",
+   "laporan keuangan",
+   "Bursa Efek Indonesia",
+   "piutang usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa97bd728e_4adeb1955c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-jawab-18-pertanyaan-bursa-soal-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Jawab 18 Pertanyaan Bursa Soal [Kelangsungan Usaha]",
+  "deck": "Perseroan menjawab 18 pertanyaan BEI soal kelangsungan usaha, memaparkan suntikan modal Rp1,02 triliun yang membalik ekuitas dari minus jadi positif tipis Rp5,65 miliar.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "kelangsungan usaha",
+   "Bank Mandiri",
+   "Citra Baru Steel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ad144a5ced_3049781c37.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "prda-buyback-saham-tembus-2-49-harga-naik-ke-rp3-097",
@@ -6430,102 +6526,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-1008-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bino-lewati-tenggat-refloat-129-juta-saham-belum-ke-publik",
-  "category": "Aksi Korporasi",
-  "title": "BINO Lewati Tenggat [Refloat], 129 Juta Saham Belum ke Publik",
-  "deck": "Pengendali BINO belum menuntaskan wajib lepas saham usai tender offer 2024; tenggat dua tahun berakhir 5 September 2026 dengan realisasi nol persen.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BINO",
-   "refloat",
-   "tender offer",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dec6dac01a_4903270b52.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-buyback-saham-tembus-1-99-per-9-oktober",
-  "category": "Aksi Korporasi",
-  "title": "PRDA [Buyback] Saham Tembus 1,99% per 9 Oktober",
-  "deck": "Prodia Widyahusada telah membeli kembali 18,6 juta saham atau 1,99 persen dari total saham beredar sejak 20 Agustus, dengan sisa dana buyback Rp98,03 miliar dari pagu sekitar Rp150 miliar.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "buyback saham",
-   "pasar modal",
-   "Prodia Widyahusada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6db0e7439b_172afd1d18.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cnma-koreksi-format-laporan-realisasi-dana-ipo-nilai-tetap",
-  "category": "Aksi Korporasi",
-  "title": "CNMA Koreksi Format Laporan [Realisasi] Dana IPO, Nilai Tetap",
-  "deck": "Cinema XXI (CNMA) merevisi format laporan realisasi dana IPO Rp2,17 triliun sesuai aturan OJK baru, tanpa mengubah angka yang sudah dilaporkan sebelumnya.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CNMA",
-   "IPO",
-   "penggunaan dana",
-   "Cinema XXI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e98d35680_c6f332d4ab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beef-komisaris-billy-sabarto-lepas-576-saham-hak-suara-tetap-0",
-  "category": "Aksi Korporasi",
-  "title": "BEEF: Komisaris Billy Sabarto [lepas] 576 saham, hak suara tetap 0%",
-  "deck": "Komisaris Estika Tata Tiara, Billy Sabarto, melepas seluruh 576 lembar sahamnya lewat tiga transaksi kecil pada 6 Oktober 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEEF",
-   "Estika Tata Tiara",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-0233-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-ganti-direksi-dan-ubah-penggunaan-dana-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "CASH Ganti Direksi dan Ubah Penggunaan Dana [Rights Issue]",
-  "deck": "RUPSLB Cashlez pada 8 Oktober 2026 menyetujui pergantian direktur, pindah alamat kantor, penyesuaian klasifikasi usaha, dan perubahan rencana pakai dana rights issue I.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "RUPSLB",
-   "Pergantian Direksi",
-   "Rights Issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/baec839755_8595d28054.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oppm-lunasi-obligasi-rp2-98-triliun-jatuh-tempo-12-okt",
-  "category": "Aksi Korporasi",
-  "title": "OPPM [lunasi] obligasi Rp2,98 triliun jatuh tempo 12 Okt",
-  "deck": "Empat seri obligasi dan sukuk OPPM senilai Rp2,98 triliun plus obligasi dolar jatuh tempo dan delisting dari BEI pada 12 Oktober 2026, dengan dana pelunasan yang sudah disiapkan penuh dari kas.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OPPM",
-   "obligasi",
-   "sukuk",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5110c74978_dd3cd91895.pdf",
   "sourceLabel": "IDX"
  }
 ];

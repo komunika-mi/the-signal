@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dooh-koreksi-panggilan-rupslb-agenda-pinjaman-rp5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Koreksi Panggilan RUPSLB, Agenda [Pinjaman] Rp5 Triliun",
+  "deck": "Era Media Sejahtera mengoreksi panggilan RUPSLB 9 November 2026 yang mengagendakan ganti nama, rights issue, pinjaman Rp5 triliun dari pengendali, dan akuisisi INET.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T18:22:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/797eb58041_6aea1f51cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "RUPSLB",
+   "rights issue",
+   "akuisisi INET"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) mengoreksi surat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya terbit pada tanggal yang sama, 16 Oktober 2026. Lewat surat koreksi bernomor 046A/CORSEC/EMS/RUPSLB/X/2026 yang ditandatangani Direktur Utama Vicktor Aritonang, perseroan menegaskan RUPSLB akan digelar Senin, 9 November 2026 pukul 14.00 WIB di Ruang Meeting Slipi, Hotel Mercure Batavia Jakarta, dengan opsi hadir elektronik lewat aplikasi eASY.KSEI. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan bursa 15 Oktober 2026.",
+   "Rapat ini membawa sembilan agenda. Pertama, persetujuan perubahan nama perseroan. Kedua, perubahan tempat kedudukan dan/atau alamat perseroan. Ketiga, perubahan susunan anggota Direksi dan/atau Dewan Komisaris. Keempat, perubahan penggunaan dana hasil penawaran umum perdana saham (IPO). Kelima, perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha perseroan, termasuk pembahasan studi kelayakan atas rencana penambahan kegiatan usaha untuk memenuhi POJK 17/2020 tentang Transaksi Material dan penyesuaian dengan aturan klasifikasi usaha baru (KBLI 2025). Keenam, peningkatan modal dasar perseroan. Ketujuh, persetujuan rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I alias rights issue) bersamaan dengan penerbitan Waran Seri II, lengkap dengan kuasa bagi direksi untuk menentukan jumlah saham dan waran yang ditawarkan serta harga pelaksanaannya. Kedelapan, persetujuan pencairan pinjaman dari PT Sinergi Internasional Investama, pemegang saham pengendali perseroan, dengan nilai maksimal Rp5 triliun, sebagai transaksi material dan transaksi afiliasi sesuai POJK 17/2020 dan POJK 42/2020. Kesembilan, persetujuan rencana akuisisi saham PT Sinergi Inti Andalan Prima Tbk (INET) oleh PT Cakrawala Nexus Investama (CNI), yang merupakan perusahaan terkendali DOOH.",
+   "Perseroan mengingatkan bahwa batas waktu pemberian deklarasi kehadiran, kuasa elektronik (e-proxy), atau suara elektronik lewat eASY.KSEI adalah pukul 12.00 WIB, satu hari kerja sebelum tanggal rapat. Bahan-bahan rapat tersedia di situs resmi perseroan sejak 16 Oktober 2026 hingga hari pelaksanaan RUPSLB pada 9 November 2026."
+  ],
+  "fotoAdegan": "Wide city avenue at dusk lined with blank digital billboard screens mounted on building facades, traffic passing below",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik DOOH, karena agendanya mengunci rencana utang jumbo dari pemegang saham pengendali sekaligus penerbitan saham baru, dua hal yang sama-sama membebani pemegang saham minoritas. Pinjaman hingga Rp5 triliun dari PT Sinergi Internasional Investama akan menambah utang dan beban bunga di buku DOOH, sementara penerbitan saham baru lewat rights issue plus Waran Seri II menambah jumlah saham beredar sehingga laba per saham, yaitu keuntungan perusahaan yang dibagi rata ke setiap lembar saham, berisiko makin terdilusi setelah dilusi besar dari rights issue sebelumnya. Perubahan nama dan lini usaha lewat revisi anggaran dasar juga menandakan DOOH bergeser dari model bisnis periklanan luar ruang digital yang selama ini dikenal, menambah ketidakpastian arah bisnis ke depan. Yang perlu dipantau adalah hasil pemungutan suara di RUPSLB pada 9 November 2026 pukul 14.00 WIB, khususnya apakah pemegang saham menyetujui pinjaman raksasa dan akuisisi INET tersebut, serta batas waktu pemberian suara elektronik lewat eASY.KSEI yang ditutup pukul 12.00 WIB sehari sebelum rapat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "gtbo-mulai-tambang-batu-bara-16-oktober-rupst-molor-ke-november",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Mulai Tambang Batu Bara 16 Oktober, RUPST [Molor] ke November",
+  "deck": "Dalam balasan ke Bursa, GTBO menyebut tambang mulai beroperasi 16 Oktober, piutang US$4,15 juta sebagian sudah cair, tapi RUPS Tahunan 2025 baru digelar 18 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T18:18:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5175f5788_9b1f2743f4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTBO",
+  "tags": [
+   "GTBO",
+   "Produksi Batu Bara",
+   "RUPST",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Garda Tujuh Buana Tbk (GTBO) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia tertanggal 14 Oktober 2026 melalui surat yang ditandatangani Direktur Yanry Musa. Perseroan memastikan proses produksi kembali tambang batu bara di Pulau Bunyu, Kalimantan Utara, sudah berjalan sesuai rencana. Pengupasan tanah penutup dimulai sejak 2 Oktober 2026, dan perusahaan menargetkan mulai menambang serta mengangkut batu bara ke stockpile pada 16 Oktober 2026, tanpa ada perubahan jadwal dari yang disampaikan sebelumnya. Dari enam tahapan menuju produksi yang dilaporkan ke Bursa, empat tahap sudah selesai yaitu mobilisasi alat berat dan tenaga kerja ke lokasi tambang, pemeriksaan kesiapan keselamatan kerja, dan perbaikan jalan tambang, sementara kontrak jasa pertambangan sebagian besar sudah diteken kecuali kontrak tongkang yang masih difinalisasi, dan penambangan batu bara ke stockpile ditargetkan mulai 18 Oktober 2026.",
+   "Perseroan juga menjelaskan alasan kompensasi senilai US$1,25 juta dari kegagalan investasi di Sudan Project belum tercatat dalam laporan keuangan sejak akhir 2025 hingga Juni 2026. Berdasarkan addendum perjanjian bertanggal 2 Desember 2025, dana kompensasi itu disepakati dibayarkan sekaligus paling lambat 31 Desember 2035, terpisah dari pengembalian pokok pinjaman, sehingga belum diakui sebagai aset dalam laporan keuangan saat ini. Soal rencana pengembalian dana investasi senilai 104,57 persen dari total ekuitas per 31 Desember 2025, Perseroan menyatakan masih menjadwalkan pertemuan dengan Otoritas Jasa Keuangan (OJK) untuk membahas apakah keputusan tersebut memerlukan persetujuan Rapat Umum Pemegang Saham (RUPS) terlebih dahulu, dan belum ada hasil koordinasi sampai tanggal surat ini.",
+   "Untuk membiayai kegiatan produksi, Perseroan mengandalkan dua sumber dana. Dari sisa piutang tahun 2026 senilai US$4,15 juta per 31 Maret 2026, perusahaan telah menerima pembayaran lebih dari 50 persen dari Energy Coal Resources Pte. Ltd., pihak yang ditunjuk oleh Massicot Trade Limited, dengan sisanya wajib diterima paling lambat 31 Desember 2026. Sumber kedua adalah penjualan persediaan batu bara dengan nilai tercatat US$1,75 juta, namun realisasinya masih menunggu penyelesaian administrasi di sistem Minerba On-line Monitoring System, meski pembeli sudah membayar uang muka. Perseroan menilai modal kerja saat ini masih cukup untuk membiayai tahap awal produksi hingga batu bara pertama terjual, tetapi mengakui belum menerima arus kas dari pemegang saham pengendali. Perseroan juga mengonfirmasi bahwa Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2025, yang belum pernah digelar, baru akan dilaksanakan pada 18 November 2026."
+  ],
+  "fotoAdegan": "Excavators and dump trucks moving earth at an open-pit coal mine, workers in hard hats nearby, overcast tropical morning light",
+  "takeaway": "Laporan ini netral bagi GTBO: produksi sudah berjalan sesuai jadwal dan sebagian piutang besar sudah cair, tapi tata kelola perusahaan masih tertinggal karena RUPS Tahunan untuk tahun buku 2025 baru digelar pada 18 November 2026, jauh lebih lambat dari kebiasaan enam bulan setelah tutup tahun buku. Yang tersentuh adalah arus kas perusahaan, yaitu uang tunai yang benar-benar bisa dipakai membiayai operasional: sebagian dari piutang US$4,15 juta sudah masuk dari Energy Coal Resources, tetapi penjualan persediaan batu bara senilai US$1,75 juta masih tertahan izin administrasi sehingga belum jadi uang kas, dan kompensasi US$1,25 juta dari kegagalan proyek di Sudan baru cair tahun 2035 sehingga tidak membantu kas sekarang. Pelaku pasar perlu mencermati tiga tanggal dari dokumen ini: realisasi penambangan dan pengangkutan batu bara pertama yang ditargetkan 18 Oktober 2026, pelunasan sisa piutang US$4,15 juta paling lambat 31 Desember 2026, dan RUPS Tahunan pada 18 November 2026 yang juga akan menentukan kelanjutan rencana pengembalian dana investasi senilai 104,57 persen dari total ekuitas perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-panggil-rupslb-9-november-agenda-utang-rp5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Panggil RUPSLB 9 November, Agenda [Utang] Rp5 Triliun",
+  "deck": "RUPSLB DOOH digelar 9 November 2026 di Jakarta, membahas pinjaman Rp5 triliun dari pemegang saham pengendali, rights issue, dan akuisisi INET oleh CNI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T18:16:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5bd1b271e3_b4f21156c0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "RUPSLB",
+   "rights issue",
+   "transaksi afiliasi"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menerbitkan surat panggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), menyusul surat pemberitahuan sebelumnya pada 1 Oktober 2026. Rapat akan digelar pada 9 November 2026 pukul 14.00 WIB di Ruang Meeting Slipi, Hotel Mercure Batavia Jakarta, Jalan Kali Besar Barat No.44-46, Roa Malaka, Jakarta Barat. Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per 15 Oktober 2026, sehari sebelum surat panggilan ini terbit.",
+   "RUPSLB membawa sembilan agenda. Yang bersifat administratif adalah perubahan nama perseroan, perubahan tempat kedudukan dan alamat, perubahan rencana penggunaan dana hasil penawaran umum perdana saham (IPO), perubahan Pasal 3 Anggaran Dasar soal maksud dan tujuan serta kegiatan usaha untuk menyesuaikan klasifikasi usaha baru BPS tahun 2025, dan peningkatan modal dasar perseroan.",
+   "Tiga agenda lain menyangkut aksi korporasi besar. Pertama, persetujuan Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu I (PMHMETD I atau rights issue) yang diterbitkan bersamaan dengan Waran Seri II, dengan kuasa diberikan ke direksi untuk menetapkan jumlah saham, jumlah waran, dan harga pelaksanaannya. Kedua, persetujuan rencana pencairan pinjaman dari PT Sinergi Internasional Investama, pemegang saham pengendali DOOH, dengan nilai maksimal Rp5 triliun, yang diajukan sebagai transaksi material dan transaksi afiliasi sesuai aturan OJK. Ketiga, persetujuan rencana akuisisi saham PT Sinergi Inti Andalan Prima Tbk (INET) oleh PT Cakrawala Nexus Investama (CNI) selaku perusahaan terkendali DOOH. Surat ditandatangani secara elektronik oleh Direktur Utama DOOH, Vicktor Aritonang, pada 16 Oktober 2026 pukul 18.16."
+  ],
+  "fotoAdegan": "Technicians installing blank digital advertising screen panels on a tall roadside billboard frame above a busy Jakarta street, daytime traffic below",
+  "takeaway": "Catatan ini condong negatif bagi pemegang saham publik DOOH, karena RUPSLB pada 9 November nanti akan mengunci sekaligus tiga keputusan besar yang sudah lebih dulu dibahas secara terpisah: utang jumbo dari pemilik pengendali, penambahan saham baru lewat rights issue, dan akuisisi ke perusahaan terafiliasi. Pos yang tersentuh adalah jumlah saham beredar, yang bisa bertambah signifikan lewat rights issue dan waran baru sehingga laba per saham milik pemegang saham lama berpotensi makin terdilusi, serta beban bunga perusahaan yang akan naik begitu pinjaman Rp5 triliun dari pemegang saham pengendali benar-benar ditarik. Hak suara pemegang saham publik juga patut dicermati karena penambahan modal lewat skema hak memesan efek biasanya memperbesar porsi pihak yang ikut menyerap haknya, sementara yang tidak ikut akan makin mengecil porsinya. Yang perlu dipantau adalah hasil RUPSLB pada 9 November 2026, karena di sanalah seluruh agenda ini, termasuk besaran pasti pinjaman dan harga rights issue, baru akan resmi disahkan atau ditolak oleh pemegang saham. Patut dicatat pula bahwa daftar pemegang saham yang berhak voting sudah dikunci sejak 15 Oktober 2026, sehingga perubahan kepemilikan setelah tanggal itu tidak lagi berpengaruh pada hasil rapat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mbss-wibowo-group-capital-kuasai-90-09-saham-usai-tender-wajib",
+  "category": "Aksi Korporasi",
+  "title": "MBSS: Wibowo Group Capital Kuasai [90,09%] Saham Usai Tender Wajib",
+  "deck": "Penawaran tender wajib MBSS yang berakhir 8 Oktober 2026 membuat kepemilikan Wibowo Group Capital naik menjadi 90,09 persen, menyisakan saham publik hanya 9,91 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T18:10:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a0bd53c914_b799af056d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBSS",
+  "tags": [
+   "MBSS",
+   "tender wajib",
+   "Wibowo Group Capital",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Wibowo Group Capital, pengendali baru Mitrabahtera Segara Sejati Tbk (MBSS), menuntaskan penawaran tender wajib atas saham publik perseroan yang berakhir pada 8 Oktober 2026. Berdasarkan laporan biro administrasi efek PT Datindo Entrycom tertanggal 9 Oktober 2026, sebanyak 132.838.200 saham diajukan oleh pemegang saham publik lewat 22 formulir penawaran tender, dan seluruhnya dinyatakan lolos verifikasi sehingga dibeli penuh oleh Wibowo Group Capital. Tidak ada satu pun saham yang dikembalikan kepada pemegang saham.",
+   "Total saham yang sebenarnya wajib ditawarkan dalam proses ini mencapai 306.259.839 saham, namun yang benar-benar ditenderkan oleh pemegang saham publik hanya 132.838.200 saham, atau sekitar 43 persen dari jumlah yang berhak. Artinya, sebagian besar pemegang saham publik memilih tetap mempertahankan sahamnya di MBSS dan tidak ikut melepas kepemilikan dalam tender wajib ini.",
+   "Surat keterangan Datindo Entrycom per 15 Oktober 2026 mencatat komposisi pemegang saham MBSS setelah tender wajib ini rampung: Wibowo Group Capital menguasai 1.576.605.000 saham atau 90,09 persen dari total 1.750.026.639 saham yang telah ditempatkan dan disetor penuh, sementara sisanya, 173.421.639 saham atau 9,91 persen, tersebar di pemegang saham lain yang masing-masing memiliki kurang dari 5 persen. Berdasarkan perhitungan dari angka tersebut, sebelum tender wajib ini Wibowo Group Capital diperkirakan sudah menguasai sekitar 82,5 persen saham MBSS, sehingga pembelian tambahan ini menaikkan porsinya sekitar 7,6 poin persentase."
+  ],
+  "fotoAdegan": "A tugboat pushing a loaded coal barge along a calm strait near Indonesian coastline, overcast sky, distant hills",
+  "takeaway": "Laporan ini netral bagi fundamental MBSS karena tidak ada dana segar yang masuk ke kas perusahaan maupun perubahan pada kinerja operasionalnya, sebab transaksi ini murni jual beli saham lama antara pemegang saham publik dan pengendali baru, bukan penerbitan saham baru. Yang tersentuh adalah jumlah saham beredar di publik atau yang biasa disebut free float, yakni porsi saham yang dipegang investor umum dan diperdagangkan bebas di bursa, karena porsi ini kini menyusut menjadi 9,91 persen sehingga likuiditas perdagangan saham MBSS di pasar sekunder berpotensi makin tipis. Yang perlu dipantau pelaku pasar berikutnya adalah apakah MBSS tetap memenuhi ketentuan bursa soal batas minimum kepemilikan saham publik mengingat porsi free float yang kini sudah mepet, serta langkah lanjutan apa yang akan diambil Wibowo Group Capital selaku pengendali mayoritas terhadap arah dan susunan pengurus perseroan ke depan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "stok-bbm-aman-tapi-distribusi-ke-bali-masih-tersendat",
   "category": "Energi",
   "title": "Stok BBM Aman, tapi [Distribusi] ke Bali Masih Tersendat",
@@ -112,6 +216,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang sebenarnya berubah di sini cukup tipis, TASPEN mempertahankan predikat tertinggi 'Sangat Puas' yang sama dengan semester sebelumnya, bukan naik kelas atau berganti metode penilaian. Yang jelas terdampak adalah lebih dari 9 juta penerima manfaat pensiun ASN, termasuk PNS, hakim, pejabat negara, anggota DPRD, dan PPPK, yang dananya disalurkan lewat 46 bank mitra dan PT Pos Indonesia. Berita ini tidak menyebutkan skor edisi sebelumnya secara angka, hanya label yang sama, sehingga belum bisa dipastikan apakah kepuasan peserta benar-benar naik atau sekadar bertahan di ambang yang sama. Yang masih kurang untuk membaca arahnya adalah angka pembanding dari semester-semester sebelumnya serta rincian metode survei DJPb, dan itu baru akan lebih jelas kalau laporan serupa untuk Semester I 2026 terbit dan bisa dibandingkan.",
   "imageV": "mvavgagj"
+ },
+ {
+  "slug": "rbms-jawab-bei-akui-banyak-kekeliruan-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "RBMS Jawab BEI, Akui Banyak Kekeliruan Laporan [Keuangan]",
+  "deck": "RBMS merespons permintaan penjelasan BEI dan mengakui sejumlah kesalahan hitung dalam laporan keuangan tengah tahunan per 30 Juni 2026, mulai dari kas, piutang, hingga reklasifikasi aset.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T17:27:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa97bd728e_4adeb1955c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RBMS",
+  "tags": [
+   "RBMS",
+   "laporan keuangan",
+   "Bursa Efek Indonesia",
+   "piutang usaha"
+  ],
+  "body": [
+   "PT Ristia Bintang Mahkotasejati Tbk (RBMS) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan Nomor S-13094/BEI.PP2/10-2026 tertanggal 14 Oktober 2026. Tanggapan ditandatangani Direktur Nur Anisa Nusugi dan dikirim 16 Oktober 2026, namun perusahaan menyebut sebagian jawaban belum lengkap dan akan disampaikan menyusul paling lambat 21 Oktober 2026. Surat BEI mempertanyakan sejumlah kejanggalan dalam catatan atas laporan keuangan RBMS per 30 Juni 2026.",
+   "Pada pos kas dan setara kas, RBMS mengakui sub-total kas di bank per 30 Juni 2026 ikut memasukkan nilai kas tunai (cash on hand), berbeda dari metode penghitungan di 31 Desember 2025 yang tidak memasukkannya, sehingga muncul selisih sekitar Rp14,05 juta antara tabel rincian dan angka yang tertulis di laporan keuangan. Perusahaan berjanji merevisi sub-total itu tanpa cash on hand. Pada piutang usaha, RBMS membukukan saldo Rp34,82 miliar per 30 Juni 2026, turun 1,84 persen dari Rp35,47 miliar di akhir 2025, meski penjualan rumah justru naik 73,3 persen. Dari total piutang itu, 93,43 persen atau sekitar Rp32,5 miliar sudah lewat jatuh tempo, dengan Rp15,9 miliar di antaranya menunggak lebih dari 360 hari, dan perusahaan tidak membukukan cadangan kerugian penurunan nilai karena perhitungan cadangan hanya dilakukan di akhir tahun. RBMS juga mengakui ada kesalahan angka piutang jatuh tempo serta nilai persediaan yang terbalik antara versi Indonesia dan Inggris dalam laporan keuangan, dan akan merevisinya.",
+   "RBMS menjelaskan reklasifikasi uang muka pembelian tanah senilai Rp7,301 miliar di Karawang, seluas 7.744 meter persegi dengan sertifikat SHGB atas nama entitas anak, yang kini masuk sebagai persediaan tanah matang untuk proyek perumahan Alam Elok. Perusahaan juga mengungkap entitas anaknya, THBI, telah membayar uang jaminan Rp39,3 miliar kepada Richard R. Wiriahardja, pihak berelasi, dari total nilai penggunaan tanah Rp43,2 miliar seluas 12.950 meter persegi di Gianyar, Ubud, Bali, untuk proyek hotel yang konstruksinya dimulai Desember 2024. Sisa kewajiban Rp3,9 miliar akan dibayar saat hotel mulai beroperasi, didanai dari setoran modal Perseroan. Selain itu, RBMS melakukan revaluasi bangunan dan mesin hotel menjadi Rp217,29 miliar dari nilai buku sebelumnya Rp180,02 miliar berdasarkan laporan KJPP Guntur, Eki, Andri & Rekan tertanggal 19 Desember 2025, menghasilkan surplus revaluasi Rp37,26 miliar yang setelah pajak tercatat menambah ekuitas sebesar Rp29,07 miliar."
+  ],
+  "fotoAdegan": "Scaffolding and workers constructing a mid-rise hotel building on a lush green hillside in Bali, tropical foliage around, overcast daylight",
+  "takeaway": "Rangkaian pengakuan kesalahan hitung ini condong negatif bagi kredibilitas pelaporan RBMS, karena menunjukkan pengendalian internal yang masih longgar, mulai dari salah menjumlah kas sampai nilai piutang yang terbalik antara versi Indonesia dan Inggris. Pos yang tersentuh adalah piutang usaha, yakni uang yang belum dibayar pelanggan, di mana 93 persen dari total piutang sudah lewat jatuh tempo dan RBMS tidak mencadangkan kerugian sama sekali meski sebagian sudah menunggak lebih dari setahun, sehingga perlu dicermati seberapa cepat perusahaan bisa mengubah piutang itu jadi uang tunai. Pos lain yang bergerak adalah ekuitas, karena revaluasi gedung dan mesin hotel menambah modal sebesar Rp29,07 miliar setelah pajak, angka yang membesar di atas kertas tapi tidak mencerminkan uang tunai baru yang masuk ke kas perusahaan. Yang perlu dipantau berikutnya adalah sisa jawaban yang dijanjikan RBMS ke Bursa paling lambat 21 Oktober 2026, serta apakah laporan keuangan yang direvisi nanti benar-benar menghilangkan selisih-selisih yang diakui dalam surat ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mknt-jawab-18-pertanyaan-bursa-soal-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Jawab 18 Pertanyaan Bursa Soal [Kelangsungan Usaha]",
+  "deck": "Perseroan menjawab 18 pertanyaan BEI soal kelangsungan usaha, memaparkan suntikan modal Rp1,02 triliun yang membalik ekuitas dari minus jadi positif tipis Rp5,65 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T17:08:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ad144a5ced_3049781c37.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "kelangsungan usaha",
+   "Bank Mandiri",
+   "Citra Baru Steel"
+  ],
+  "body": [
+   "PT Remitra Global International Tbk, emiten dengan kode saham MKNT, menjawab 18 butir permintaan penjelasan Bursa Efek Indonesia tanggal 14 Oktober 2026 terkait opini auditor independen KAP Gideon Adi & Rekan atas laporan keuangan per 30 Juni 2026. Auditor mencantumkan paragraf ketidakpastian material atas kelangsungan usaha karena perseroan mencatat defisit saldo laba Rp158,14 miliar, defisiensi ekuitas Rp13,66 miliar, dan liabilitas jangka pendek yang melebihi aset lancar sebesar Rp576,83 miliar. Perseroan menyebut telah memperbaiki sebagian kondisi itu lewat tiga langkah: menaikkan penjualan dan efisiensi biaya untuk membukukan laba bersih, melakukan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) sebesar Rp1,02 triliun pada 9 Oktober 2026, serta mengonversi utang lain-lain jangka pendek senilai Rp822,93 miliar menjadi modal disetor. Perseroan juga mengklaim telah melunasi utang usaha Rp62,78 miliar lewat BNI, Mandiri, dan BCA, serta membayar utang bank hasil restrukturisasi senilai Rp1,17 miliar, berdasarkan surat konfirmasi tertanggal 15 Oktober 2026.",
+   "Setelah pelaksanaan PMTHMETD pada 30 September 2026, posisi keuangan aktual perseroan menunjukkan total aset Rp1,47 triliun, total liabilitas Rp1,46 triliun, dan ekuitas yang berbalik positif menjadi Rp5,65 miliar dari sebelumnya minus Rp13,66 miliar. Current ratio, yaitu rasio aset lancar terhadap utang jangka pendek, tercatat 71 persen dan rasio utang terhadap ekuitas (DER) 259 persen secara konsolidasi, keduanya masih melanggar ambang yang disyaratkan Bank Mandiri untuk fasilitas pinjaman anak usahanya, PT Citra Baru Steel (CBS), yakni current ratio di atas 100 persen dan DER di bawah 233 persen. Saldo pokok pinjaman CBS di Bank Mandiri tercatat Rp381,02 miliar, seluruhnya jatuh tempo dalam satu tahun, dan perseroan mengaku sudah mengajukan permohonan keringanan atau waiver ke bank namun belum mendapat balasan sampai surat ini terbit. Fasilitas itu juga dijamin personal guarantee dari Tony Kasim dan Handoyo Setiawan, yang disebutkan menjabat Komisaris Utama perseroan, dan jaminan itu dipastikan tetap berlaku meski terjadi perubahan pengendali di CBS dan PT Radja Udang Malingping (RUM).",
+   "Dari dana Rp200 miliar yang disetor investor independen dalam PMTHMETD, perseroan merinci alokasinya: sekitar Rp10 miliar untuk modal kerja perseroan, Rp160 miliar untuk modal usaha CBS, dan Rp30 miliar untuk RUM. Per 16 Oktober 2026, dana ke CBS dan RUM disebut sudah terserap penuh sesuai alokasi tersebut, dengan proses penyerapan diperkirakan berlangsung hingga 31 Desember 2026. Perseroan juga mengungkap arus kas operasi yang masih negatif Rp53 miliar karena pembayaran ke pemasok Rp87 miliar melebihi penerimaan dari pelanggan yang hanya Rp64 miliar, serta persediaan senilai Rp649,12 miliar atau 44,70 persen dari total aset yang sebagian besar berupa bahan baku scrap dengan tingkat perputaran hanya 0,73 kali, setara 246 hari penyimpanan, tanpa ada penyisihan penurunan nilai. Perseroan menjadwalkan penyampaian laporan keuangan interim per 30 September 2026 pada 30 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers sorting large piles of scrap steel in an industrial yard, overcast daylight, heavy machinery in the background",
+  "takeaway": "Laporan ini condong negatif bagi emiten, sebab di balik suntikan modal besar, pondasi keuangannya masih rapuh: ekuitas yang sebelumnya minus kini cuma positif tipis Rp5,65 miliar, sementara liabilitas Rp1,46 triliun nyaris menyamai aset Rp1,47 triliun. Yang tersentuh adalah ekuitas, selisih antara harta perusahaan dan utangnya yang jadi tolok ukur bank dan investor menilai bantalan keuangan sebelum merugi lebih jauh, dan rasio utang terhadap ekuitas yang mencapai 259 persen, jauh di atas batas 233 persen yang disyaratkan Bank Mandiri untuk fasilitas pinjaman anak usahanya, Citra Baru Steel. Arus kas dari operasional sehari-hari juga masih minus Rp53 miliar karena pembayaran ke pemasok lebih besar dari uang yang masuk dari pelanggan, tanda bisnis inti belum menghasilkan kas sendiri untuk menutup kewajiban. Yang perlu dipantau berikutnya adalah jawaban permohonan keringanan dari Bank Mandiri atas pelanggaran rasio keuangan tersebut, yang sampai surat ini belum turun, serta laporan keuangan interim per 30 September 2026 yang dijanjikan terbit 30 Oktober 2026.",
+  "sentimen": "negatif"
  },
  {
   "slug": "prda-buyback-saham-tembus-2-49-harga-naik-ke-rp3-097",

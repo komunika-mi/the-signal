@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "oEAy4T11ows",
+  "title": "Anindya Bakrie: Perempuan Berperan Penting dalam Ekonomi RI",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menegaskan peran penting perempuan dalam menggerakkan perekonomian nasional saat menghadiri IWBIF 2026.",
+  "takeaway": "Pandangan Ketua Kadin ini relevan bagi pembaca ekonomi karena menyoroti kontribusi perempuan terhadap dunia usaha dan investasi di Indonesia.",
+  "terbit": "2026-10-16T16:30:34+00:00"
+ },
+ {
   "id": "w0xjJy7nxyg",
   "title": "Antrean BBM di SPBU Bali Berlanjut hingga Hari Kelima",
   "category": "Energi",

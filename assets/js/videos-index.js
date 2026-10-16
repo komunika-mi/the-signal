@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "oEAy4T11ows",
+  "title": "Anindya Bakrie: Perempuan Berperan Penting dalam Ekonomi RI",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menegaskan peran penting perempuan dalam menggerakkan perekonomian nasional saat menghadiri IWBIF 2026.",
+  "takeaway": "Pandangan Ketua Kadin ini relevan bagi pembaca ekonomi karena menyoroti kontribusi perempuan terhadap dunia usaha dan investasi di Indonesia."
+ },
+ {
   "id": "w0xjJy7nxyg",
   "title": "Antrean BBM di SPBU Bali Berlanjut hingga Hari Kelima",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "DPR RI dan pemerintah merampungkan peraturan presiden yang mengatur ekosistem ojek online, mencakup tarif angkutan orang, barang, hingga makanan.",
   "takeaway": "Aturan ini penting bagi pelaku usaha transportasi daring dan jutaan pengemudi ojol yang selama ini menunggu kepastian tarif."
- },
- {
-  "id": "XTO3Czx8GqA",
-  "title": "Presiden Prabowo Luncurkan Program Hilirisasi di Halmahera Tengah",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik serta 11 proyek hilirisasi di kawasan industri Weda Bay, Halmahera Tengah.",
-  "takeaway": "Peluncuran ini menjadi tonggak konkret dari strategi hilirisasi nikel yang menjadi andalan kebijakan industrialisasi pemerintah."
  }
 ];

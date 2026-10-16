@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-targetkan-4-juta-umkm-siap-ekspor-dalam-5-tahun",
+  "category": "UMKM",
+  "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
+  "deck": "Kemendag menargetkan 4 juta UMKM siap ekspor dalam lima tahun lewat program Campuspreneur yang kini melibatkan 27 perguruan tinggi, termasuk MoU baru dengan UIN Jakarta dan Universitas Presiden.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "UMKM",
+   "ekspor",
+   "Kemendag",
+   "Campuspreneur"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-4-juta-umkm-siap-ekspor-melalui-program-campuspreneur",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bni-raih-peringkat-4-layanan-terbaik-bumn-2026",
+  "category": "Perbankan",
+  "title": "BNI Raih Peringkat [4] Layanan Terbaik BUMN 2026",
+  "deck": "BNI menempati posisi keempat kategori Top 10 BUMN Layanan Terbaik di Danantara Indonesia CX100 Award 2026, ditopang pertumbuhan transaksi digital wondr dan BNIdirect.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/bni-raih-peringkat-4-layanan-terbaik-bumn-2026.jpg",
+  "imageV": "mvb77awn",
+  "tags": [
+   "BNI",
+   "Danantara Indonesia",
+   "CX100 Award",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473420-bni-raih-peringkat-4-bumn-layanan-terbaik-di-danantara-indonesia-cx100-award-2026"
+ },
+ {
   "slug": "kewajiban-sertifikat-halal-makanan-diundur-ke-2028",
   "category": "Industri",
   "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
@@ -26,13 +59,15 @@ var ARTICLES = [
   "title": "Transaksi Dagang Pakai Mata Uang [Lokal] Tembus US$49,42 Miliar",
   "deck": "Pemerintah dan Bank Indonesia mendorong pelaku usaha memanfaatkan transaksi mata uang lokal dengan enam negara mitra dagang, yang nilainya naik tajam sepanjang 2026.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/transaksi-dagang-pakai-mata-uang-lokal-tembus-us-49-42-miliar.jpg",
+  "imageV": "mvb77y92",
   "tags": [
    "Transaksi Mata Uang Lokal",
    "Bank Indonesia",
    "Trade Expo Indonesia",
    "Ekspor Impor"
   ],
+  "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ciptakan-transaksi-global-yang-lebih-efisien-wamendag-roro-ajak-pelaku-usaha-optimalkan-local-currency-transaction-lct",
   "sourceLabel": "Kementerian Perdagangan"
  },
@@ -627,7 +662,7 @@ var ARTICLES = [
   "title": "Skincare Hutan Aceh Yagi Forest Bidik [Pasar] Ekspor",
   "deck": "UMKM skincare asal Aceh, Yagi Forest, ikut Trade Expo Indonesia untuk mencari mitra distributor setelah tampil di pameran Malaysia, Jepang, dan Oman.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/pasar-kerajinan.jpg",
   "tags": [
    "UMKM",
    "Aceh",
@@ -6498,38 +6533,6 @@ var ARTICLES = [
    "free float"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5a2f3add70_bfd737dc30.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "viva-konversi-utang-rp1-72-triliun-jadi-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "VIVA Konversi Utang Rp1,72 Triliun Jadi [Saham] Baru",
-  "deck": "VIVA akan menerbitkan sebanyak-banyaknya 43,09 miliar saham baru tanpa hak memesan efek terlebih dahulu untuk melunasi utang PKPU senilai Rp1,72 triliun kepada dua kreditur, MSP dan BAM.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VIVA",
-   "PMTHMETD",
-   "restrukturisasi utang",
-   "konversi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fc5e442562_847af78bf5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mgia01-bni-am-bri-mi-pnm-gabung-ke-danareksa-im",
-  "category": "Aksi Korporasi",
-  "title": "MGIA01: BNI AM, BRI MI, PNM Gabung ke [Danareksa IM]",
-  "deck": "Manajer investasi EBA Mandiri GIAA01 berganti nama jadi PT Danareksa Investment Management Indonesia setelah merger dengan tiga perusahaan manajemen aset BUMN, efektif 1 Oktober 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGIA01",
-   "Danareksa Investment Management",
-   "merger manajer investasi",
-   "Danantara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4465f393b7_6e8cc0a4f8.pdf",
   "sourceLabel": "IDX"
  }
 ];

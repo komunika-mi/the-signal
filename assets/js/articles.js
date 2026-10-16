@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemendag-targetkan-4-juta-umkm-siap-ekspor-dalam-5-tahun",
+  "category": "UMKM",
+  "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
+  "deck": "Kemendag menargetkan 4 juta UMKM siap ekspor dalam lima tahun lewat program Campuspreneur yang kini melibatkan 27 perguruan tinggi, termasuk MoU baru dengan UIN Jakarta dan Universitas Presiden.",
+  "image": "assets/img/batik-umkm.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T16:38:49.272Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-4-juta-umkm-siap-ekspor-melalui-program-campuspreneur",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "ekspor",
+   "Kemendag",
+   "Campuspreneur"
+  ],
+  "body": [
+   "Kementerian Perdagangan menggelar Seminar Campuspreneur bertajuk 'Startconnect' dalam rangkaian Trade Expo Indonesia ke-41 di ICE BSD City, Tangerang, pada Jumat (16/10). Dalam acara itu, Sekretaris Jenderal Kemendag Isy Karim menyampaikan target pengembangan sedikitnya 4 juta UMKM dalam lima tahun ke depan agar siap menjadi eksportir aktif atau pemasok bagi industri berorientasi ekspor. Target ini penting karena kontribusi UMKM terhadap ekspor nasional saat ini masih tergolong kecil, sementara pemerintah ingin memperluas basis eksportir di luar perusahaan besar yang biasa mendominasi perdagangan luar negeri.",
+   "Menurut Kemendag, kontribusi UMKM terhadap ekspor nasional saat ini berada di kisaran 15 sampai 16 persen, dan pemerintah menargetkan kontribusi itu naik ke 30 persen dalam jangka menengah lalu 40 persen dalam jangka panjang. Untuk mencapainya, dibutuhkan sekitar 800 ribu UMKM baru siap ekspor setiap tahun selama lima tahun. Sebagai konteks, data BPS menunjukkan nilai ekspor Indonesia pada Januari-Agustus 2026 mencapai US$193,64 miliar, tumbuh 4,74 persen dibandingkan periode yang sama tahun sebelumnya, dengan neraca perdagangan mencatat surplus US$7,25 miliar.",
+   "Salah satu instrumen yang digunakan Kemendag adalah Program Campuspreneur, yang mengintegrasikan pelatihan kewirausahaan mahasiswa, pendampingan produk agar memenuhi standar ekspor, perluasan jejaring dagang internasional, dan fasilitasi akses permodalan bagi usaha rintisan. Dalam seminar ini juga diteken Kesepakatan Bersama tentang Implementasi Tridarma Perguruan Tinggi Bidang Perdagangan antara Kemendag dengan UIN Syarif Hidayatullah Jakarta dan Universitas Presiden. Hingga saat ini, sebanyak 27 perguruan tinggi telah bergabung dalam Program Campuspreneur sejak program ini diluncurkan oleh Menteri Perdagangan.",
+   "Seminar ini menghadirkan tiga pembicara, yaitu Vice President Director JETRO Indonesia Miura Yukiko, Vice President CSR and SMEPP Management Pertamina Rudi Ariffianto, serta pendiri FUTRA Group Steven Magnus. Steven menekankan bahwa membangun bisnis ekspor membutuhkan riset pasar, pemilihan produk yang tepat, serta kesiapan operasional, dan bukan proses yang bisa dicapai secara instan. Salah satu mahasiswa UIN Jakarta yang mengikuti seminar, Randy Mustafa, mengatakan kegiatan ini membantunya terhubung dengan calon pembeli dan Indonesian Trade Promotion Center (ITPC) untuk menjajaki peluang bisnis."
+  ],
+  "fotoAdegan": "Young entrepreneurs arranging small packaged food and craft products on a trade exhibition booth table inside a busy convention hall",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini bukan aturan ekspor, melainkan target pembinaan: Kemendag ingin mencetak 4 juta UMKM siap ekspor dalam lima tahun, atau sekitar 800 ribu UMKM per tahun, lewat program kampus yang baru melibatkan 27 perguruan tinggi. Yang terdampak langsung adalah mahasiswa wirausaha dan UMKM di kampus-kampus yang ikut program ini, termasuk UIN Jakarta dan Universitas Presiden yang baru menandatangani kesepakatan kerja sama. Ada jarak besar antara target 4 juta UMKM dengan jumlah kampus yang baru bergabung sejauh ini, sehingga program ini masih di tahap awal dan belum terlihat apakah kecepatannya bisa mengejar target tahunan 800 ribu UMKM. Yang perlu dipantau adalah seberapa cepat jumlah kampus dan UMKM yang ikut program ini bertambah, serta rilis data BPS berikutnya soal kontribusi UMKM terhadap ekspor, yang saat ini masih di kisaran 15 sampai 16 persen."
+ },
+ {
+  "slug": "bni-raih-peringkat-4-layanan-terbaik-bumn-2026",
+  "category": "Perbankan",
+  "title": "BNI Raih Peringkat [4] Layanan Terbaik BUMN 2026",
+  "deck": "BNI menempati posisi keempat kategori Top 10 BUMN Layanan Terbaik di Danantara Indonesia CX100 Award 2026, ditopang pertumbuhan transaksi digital wondr dan BNIdirect.",
+  "image": "assets/img/bni-raih-peringkat-4-layanan-terbaik-bumn-2026.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T21:44:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473420-bni-raih-peringkat-4-bumn-layanan-terbaik-di-danantara-indonesia-cx100-award-2026",
+  "tags": [
+   "BNI",
+   "Danantara Indonesia",
+   "CX100 Award",
+   "BUMN"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk menempati peringkat keempat dalam kategori Top 10 BUMN Layanan Terbaik pada Danantara Indonesia CX100 Award 2026. Penghargaan ini penting bagi nasabah karena menjadi penanda bahwa kualitas layanan, baik digital maupun di kantor cabang, kini dinilai lewat satu standar yang sama untuk seluruh perusahaan pelat merah.",
+   "Penghargaan diserahkan di Auditorium Wisma Danantara Indonesia, Jakarta, pada Selasa, 13 Oktober 2026, dan dihadiri Chief Operating Officer Danantara Indonesia Dony Oskaria. Direktur Utama BNI Putrama Wahju Setyawan menyebut kualitas layanan sebagai bagian dari daya saing perusahaan, dan menyatakan pengembangan layanan BNI sejalan dengan arah transformasi BUMN yang dikoordinasikan Danantara Indonesia.",
+   "Di sisi digital, aplikasi wondr by BNI untuk nasabah individu sudah dipakai 15,1 juta pengguna dengan total 1,1 miliar transaksi senilai Rp958 triliun hingga semester I 2026. Untuk nasabah korporasi, layanan BNIdirect mencatat 279,7 ribu pengguna dengan 789 juta transaksi senilai Rp6.039 triliun pada periode yang sama, jauh lebih besar nilainya karena melayani transaksi bisnis dalam jumlah besar.",
+   "BNI menyebut peningkatan layanan tidak berhenti di kanal digital, tetapi juga mencakup evaluasi berkelanjutan atas pelayanan di kantor cabang, mulai dari interaksi dengan nasabah hingga keandalan sistem di baliknya. Penilaian Danantara Indonesia CX100 Award 2026 sendiri memakai tiga pilar, yaitu Effectiveness, Ease, dan Emotion, yang masing-masing mengukur kemampuan memenuhi kebutuhan nasabah, kemudahan mengakses layanan, dan pengalaman emosional selama berinteraksi."
+  ],
+  "fotoAdegan": "Bank customer service staff assisting a visitor at a teller counter inside a modern branch lobby, soft daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/16/6ad236b321caa-petugas-layanan-nasabah-bni-menyambut-pelanggan-di-kantor-cabang-dengan-mengedepankan-keramahan-dan-kenyamanan-layanan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya, Danantara Indonesia kini menjalankan penilaian layanan pelanggan secara terpusat untuk BUMN lewat tiga ukuran: efektivitas, kemudahan, dan rasa nyaman nasabah, dengan BNI berada di posisi keempat dari sepuluh BUMN yang dinilai. Yang langsung terdampak adalah manajemen BUMN yang masuk pemeringkatan, karena Dirut BNI sendiri mengaitkan hasil ini dengan arah transformasi BUMN yang dikoordinasikan Danantara, bukan cuma penghargaan seremonial biasa. Ini mengarah ke Danantara memperluas perannya dari sekadar pengelola saham BUMN menjadi penyusun standar layanan dan pembanding kinerja antar-BUMN, semacam alat pemicu kompetisi di dalam grup BUMN sendiri. Yang akan memastikan apakah ini mekanisme rutin atau sekadar acara tahunan adalah apakah Danantara kembali menggelar CX100 Award tahun depan dan mengaitkan hasilnya dengan evaluasi kinerja direksi BUMN.",
+  "imageV": "mvb77awn"
+ },
+ {
   "slug": "kewajiban-sertifikat-halal-makanan-diundur-ke-2028",
   "category": "Industri",
   "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
@@ -28,14 +82,14 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret: tenggat wajib sertifikat halal untuk jasa makanan, minuman, dan hasil sembelihan mundur dua tahun dari 18 Oktober 2026 ke 18 Oktober 2028, dan beberapa kategori lain seperti kosmetik, suplemen kesehatan, serta obat herbal yang tadinya bertenggat 2026 ikut diperpanjang sampai 17 Oktober 2028. Yang langsung terdampak adalah pelaku usaha mikro dan kecil serta importir produk makanan dan kosmetik, karena merekalah yang paling membutuhkan waktu tambahan untuk mengurus sertifikasi. Hal yang patut dicatat, pengumuman ini keluar hanya dua hari sebelum tenggat lama semestinya berlaku, menandakan ekosistem sertifikasi, mulai dari lembaga pemeriksa sampai kapasitas BPJPH, belum siap menampung kewajiban itu untuk jutaan pelaku usaha sekaligus. Pola ini mengarah pada penundaan bertahap yang menyesuaikan kesiapan di lapangan, bukan penerapan penuh sesuai tanggal yang sudah dipatok sebelumnya. Yang akan memastikan arah ini adalah apakah Peraturan Pemerintah perubahan tersebut benar-benar terbit dan resmi diundangkan sebelum 18 Oktober 2026, sebab sejauh ini baru disosialisasikan dan belum dipastikan sudah berlaku secara hukum.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "transaksi-dagang-pakai-mata-uang-lokal-tembus-us-49-42-miliar",
   "category": "Moneter",
   "title": "Transaksi Dagang Pakai Mata Uang [Lokal] Tembus US$49,42 Miliar",
   "deck": "Pemerintah dan Bank Indonesia mendorong pelaku usaha memanfaatkan transaksi mata uang lokal dengan enam negara mitra dagang, yang nilainya naik tajam sepanjang 2026.",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/transaksi-dagang-pakai-mata-uang-lokal-tembus-us-49-42-miliar.jpg",
   "date": "16 Oktober 2026",
   "isoDate": "2026-10-16T13:59:40.718Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ciptakan-transaksi-global-yang-lebih-efisien-wamendag-roro-ajak-pelaku-usaha-optimalkan-local-currency-transaction-lct",
@@ -53,9 +107,10 @@ var ARTICLES = [
    "Selain Wamendag Roro dan Thomas Djiwandono, forum ini juga menghadirkan Direktur Departemen Internasional Bank Indonesia Irfan Hendrayadi, Atase Perdagangan RI Beijing Junita Syartika, dan VP International Payment Specialist BCA Syiska D. Ventia, serta diikuti ratusan peserta dari kalangan pemerintah, pelaku usaha, dan perbankan."
   ],
   "fotoAdegan": "Workers inspecting rows of stainless steel coils inside an industrial processing plant, sparks and steam visible in the background",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "takeaway": "Yang berubah konkret adalah skala pemakaian skema ini: transaksi dagang yang dibayar langsung dengan mata uang negara mitra, tanpa ditukar dulu ke dolar AS, nilainya naik dari setara US$25,74 miliar sepanjang 2025 menjadi US$49,42 miliar hanya dalam delapan bulan pertama 2026. Jumlah nasabah yang memakainya juga naik lebih dari dua kali lipat, dari rata-rata 9.720 per bulan menjadi 20.850 per bulan. Yang paling merasakan manfaatnya adalah eksportir dan importir yang berdagang dengan enam negara mitra skema ini, yakni Malaysia, Thailand, Jepang, Tiongkok, Korea Selatan, dan Uni Emirat Arab, seperti dicontohkan produsen nikel dan baja nirkarat yang kini bisa membayar pembelinya di Tiongkok tanpa mampir ke dolar AS. Pertumbuhan yang konsisten sejak skema ini dirintis tahun 2018 mengarah ke pemakaian mata uang lokal yang makin jadi kebiasaan dagang sehari-hari, bukan sekadar uji coba, dan pemerintah sudah menyiapkan perluasan ke Singapura dan India. Yang akan memastikan arah ini benar-benar menguat adalah realisasi perluasan ke dua negara tersebut dan apakah daftar bank yang ditunjuk melayani transaksi ini bertambah dari yang sekarang."
+  "fotoSumber": "https://www.kemendag.go.id/albums/hzMQa7938Y3RTrYRgbNMAJBiUPBouJ0dAACwJWBL.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah konkret adalah skala pemakaian skema ini: transaksi dagang yang dibayar langsung dengan mata uang negara mitra, tanpa ditukar dulu ke dolar AS, nilainya naik dari setara US$25,74 miliar sepanjang 2025 menjadi US$49,42 miliar hanya dalam delapan bulan pertama 2026. Jumlah nasabah yang memakainya juga naik lebih dari dua kali lipat, dari rata-rata 9.720 per bulan menjadi 20.850 per bulan. Yang paling merasakan manfaatnya adalah eksportir dan importir yang berdagang dengan enam negara mitra skema ini, yakni Malaysia, Thailand, Jepang, Tiongkok, Korea Selatan, dan Uni Emirat Arab, seperti dicontohkan produsen nikel dan baja nirkarat yang kini bisa membayar pembelinya di Tiongkok tanpa mampir ke dolar AS. Pertumbuhan yang konsisten sejak skema ini dirintis tahun 2018 mengarah ke pemakaian mata uang lokal yang makin jadi kebiasaan dagang sehari-hari, bukan sekadar uji coba, dan pemerintah sudah menyiapkan perluasan ke Singapura dan India. Yang akan memastikan arah ini benar-benar menguat adalah realisasi perluasan ke dua negara tersebut dan apakah daftar bank yang ditunjuk melayani transaksi ini bertambah dari yang sekarang.",
+  "imageV": "mvb77y92"
  },
  {
   "slug": "ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang",
@@ -998,7 +1053,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Skincare Hutan Aceh Yagi Forest Bidik [Pasar] Ekspor",
   "deck": "UMKM skincare asal Aceh, Yagi Forest, ikut Trade Expo Indonesia untuk mencari mitra distributor setelah tampil di pameran Malaysia, Jepang, dan Oman.",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/pasar-kerajinan.jpg",
   "date": "16 Oktober 2026",
   "isoDate": "2026-10-16T04:38:21.887Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/menjaga-hutan-aceh-memikat-pasar-global-perjalanan-yagi-forest-menuju-panggung-internasional",

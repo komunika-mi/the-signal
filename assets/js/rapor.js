@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-16T01:32:07.943+07:00",
+ "diperbarui": "2026-10-17T01:19:34.019+07:00",
  "entri": [
+  {
+   "id": "2026-10-16-3",
+   "edisi": "2026-10-16",
+   "benang": "Gelombang Obligasi Jatuh Tempo Berjalan Terkendali",
+   "klaim": "Gelombang jatuh tempo obligasi pekan ini terkendali, bukan menambah risiko gagal bayar.",
+   "penanda": "Kabar resmi pelunasan obligasi dari BEI saat efek-efek tersebut berhenti diperdagangkan",
+   "tenggat": "2026-10-19",
+   "tenggatLabel": "18-19 Oktober nanti",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-16-2",
+   "edisi": "2026-10-16",
+   "benang": "Reformasi Transparansi Berbarengan Gelombang Go Private",
+   "klaim": "Bukti yang ada sekarang condong ke arah bahwa gelombang go private tetap berlanjut karena pendorongnya murni keputusan strategi masing-masing pengendali, bukan tertahan oleh reformasi transparansi pasar modal.",
+   "penanda": "Jumlah permohonan go private baru yang tercatat BEI serta hasil resmi konsultasi klasifikasi MSCI",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "kuartal IV 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-16-1",
+   "edisi": "2026-10-16",
+   "benang": "Ekspor Baru Masih Didominasi Surat Niat",
+   "klaim": "Momentum ekspor saat ini masih ditopang aktivitas yang sudah berjalan, bukan kesepakatan baru dari pameran seperti TEI ke-41.",
+   "penanda": "Laporan realisasi LoI menjadi kontrak jual beli yang biasanya dirilis Kemendag",
+   "tenggat": null,
+   "tenggatLabel": "beberapa bulan setelah pameran selesai",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-15-3",
    "edisi": "2026-10-15",

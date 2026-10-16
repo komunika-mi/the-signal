@@ -2,6 +2,81 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-10-16",
+  "tanggalLabel": "Jumat, 16 Oktober 2026",
+  "judul": "Ekspor Banyak Niat, Pasar Modal Tegang di Tengah Reformasi",
+  "ringkas": "Trade Expo Indonesia mencatat sejumlah kesepakatan dagang baru yang sebagian besar masih berupa surat niat, sementara DPR dan OJK mempercepat reformasi transparansi pasar modal tepat ketika IHSG anjlok tajam dan gelombang go private berlanjut.",
+  "benang": [
+   {
+    "judul": "Ekspor Baru Masih Didominasi Surat Niat",
+    "isi": "Di Trade Expo Indonesia ke-41, 25 UKM binaan kampus mencatat potensi transaksi US$22,56 juta, tapi US$21,46 juta dari jumlah itu masih berbentuk surat niat beli, belum kontrak pasti. Pola serupa terjadi pada 14 produsen pangan yang meneken MoU dan LoI senilai US$25,2 juta dengan importir dari lima negara. Secara keseluruhan, 25 perjanjian dagang yang sudah berjalan kini menutup 72,34 persen nilai ekspor Indonesia 2025, sementara dua perjanjian lain menunggu pengesahan dan 13 masih dirundingkan. Pola ini berbeda dengan data ekspor nasional yang justru sudah naik enam periode beruntun ke US$26,6 miliar pada Agustus 2026, dengan neraca dagang naik ke US$3,55 miliar, menunjukkan momentum ekspor saat ini masih ditopang aktivitas yang sudah berjalan, bukan kesepakatan baru dari pameran. Yang akan menentukan apakah capaian TEI kali ini menambah volume ekspor adalah laporan realisasi LoI menjadi kontrak jual beli yang biasanya dirilis Kemendag beberapa bulan setelah pameran selesai."
+   },
+   {
+    "judul": "Reformasi Transparansi Berbarengan Gelombang Go Private",
+    "isi": "DPR, OJK, dan Danantara menggelar rapat memastikan reformasi pasar modal konsisten menyusul konsultasi klasifikasi pasar oleh MSCI, dengan ambang wajib lapor kepemilikan saham dipangkas dari 5 persen jadi 1 persen. Rapat ini berlangsung di hari yang sama ketika IHSG anjlok 11,57 persen dan rupiah melemah 0,67 persen ke 17.943 per dolar AS, serta ketika bursa mencatat rangkaian penyusutan saham publik: Wibowo Group Capital menguasai 90,09 persen saham MBSS usai tender wajib, IGAR disuspensi menyusul permohonan go private, dan IPAC merinci tender sukarela menjelang delisting meski labanya naik jadi Rp1,48 miliar dari Rp461,9 juta. Dua arah terbuka dari sini, reformasi transparansi menahan laju delisting karena investor merasa lebih terlindungi, atau gelombang go private tetap berlanjut karena pendorongnya murni keputusan strategi masing-masing pengendali seperti yang diakui IPAC sendiri. Bukti yang ada sekarang condong ke arah kedua, sebab baik IGAR maupun IPAC menegaskan langkah mereka tidak terkait kinerja atau tekanan pasar. Ini akan mulai terlihat dari jumlah permohonan go private baru yang tercatat BEI pada kuartal IV 2026 serta hasil resmi konsultasi klasifikasi MSCI."
+   },
+   {
+    "judul": "Gelombang Obligasi Jatuh Tempo Berjalan Terkendali",
+    "isi": "Empat emiten mengumumkan pelunasan obligasi yang jatuh tempo serentak 18-19 Oktober, Trimegah Sekuritas Rp100 miliar, Bank bjb Rp75,62 miliar, Summarecon Agung Rp468 miliar, dan SMART Rp958 miliar, semuanya menyatakan dana pelunasan sudah tersedia penuh tanpa perlu pinjaman baru. Ini melanjutkan tema tekanan utang emiten yang disorot kemarin, tapi arahnya kali ini menunjukkan gelombang jatuh tempo pekan ini terkendali, bukan menambah risiko gagal bayar. Arah ini akan terkonfirmasi lewat kabar resmi pelunasan dari BEI pada 18-19 Oktober nanti, saat efek-efek tersebut berhenti diperdagangkan."
+   }
+  ],
+  "penutup": "Yang paling menentukan besok adalah apakah obligasi-obligasi ini benar dilunasi sesuai tanggal jatuh tempo, dan apakah rapat reformasi pasar modal hari ini diikuti data resmi BEI soal jumlah permohonan delisting serta go private pada kuartal ini.",
+  "jumlahBahan": 50,
+  "bahanSlug": [
+   "kemendag-targetkan-4-juta-umkm-siap-ekspor-dalam-5-tahun",
+   "bni-raih-peringkat-4-layanan-terbaik-bumn-2026",
+   "kewajiban-sertifikat-halal-makanan-diundur-ke-2028",
+   "transaksi-dagang-pakai-mata-uang-lokal-tembus-us-49-42-miliar",
+   "ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang",
+   "ukm-kampus-debut-di-tei-catat-potensi-us-22-56-juta",
+   "kesepakatan-pembiayaan-syariah-isef-tembus-rp27-43-triliun",
+   "pnm-gandeng-ppi-buka-ekspansi-pasar-produk-mekaar",
+   "trim-siapkan-dana-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
+   "bjbr-siapkan-dana-lunasi-obligasi-rp74-miliar-18-oktober",
+   "smra-lunasi-obligasi-rp468-miliar-jatuh-tempo-19-oktober",
+   "smar-siapkan-dana-rp958-miliar-lunasi-obligasi-jatuh-tempo",
+   "bbkp-resmi-catatkan-obligasi-subordinasi-rp500-miliar-di-bei",
+   "anjt-jawab-bursa-soal-karhutla-sebut-tak-ada-dampak-signifikan",
+   "dpr-ojk-pastikan-reformasi-pasar-modal-konsisten-usai-msci",
+   "dooh-koreksi-panggilan-rupslb-agenda-pinjaman-rp5-triliun",
+   "gtbo-mulai-tambang-batu-bara-16-oktober-rupst-molor-ke-november",
+   "dooh-panggil-rupslb-9-november-agenda-utang-rp5-triliun",
+   "mbss-wibowo-group-capital-kuasai-90-09-saham-usai-tender-wajib",
+   "stok-bbm-aman-tapi-distribusi-ke-bali-masih-tersendat",
+   "dim-ruu-migas-capai-80-90-persen-aturan-buk-lewat-pp",
+   "pariwisata-ramah-muslim-ri-naik-ke-peringkat-dua-dunia",
+   "dpr-kawal-reformasi-pasar-modal-ojk-perketat-transparansi",
+   "taspen-raih-predikat-sangat-puas-dari-kemenkeu-lagi",
+   "rbms-jawab-bei-akui-banyak-kekeliruan-laporan-keuangan",
+   "mknt-jawab-18-pertanyaan-bursa-soal-kelangsungan-usaha",
+   "prda-buyback-saham-tembus-2-49-harga-naik-ke-rp3-097",
+   "lckm-masuk-daftar-pemantauan-khusus-bei-mulai-19-oktober",
+   "sgro-jelaskan-dampak-karhutla-ke-bursa-klaim-tak-material",
+   "ri-kini-punya-25-perjanjian-dagang-cakup-72-ekspor-2025",
+   "bmri-jelaskan-kredit-ke-jhonlin-berjaminan-saham-jarr-pgun",
+   "ipac-ungkap-rincian-tender-sukarela-jelang-go-private",
+   "rccc-pemegang-saham-utama-pastikan-tak-ubah-kepemilikan",
+   "14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta",
+   "indonesia-jajaki-pasar-dagang-baru-ke-yunani-rusia-myanmar",
+   "sico-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+   "rupslb-itic-bahas-rencana-jaminkan-aset-ke-bank",
+   "pegadaian-raih-dua-penghargaan-in-house-counsel-2026",
+   "dagang-ri-mozambik-naik-57-5-persen-tembus-us-162-8-juta",
+   "skincare-hutan-aceh-yagi-forest-bidik-pasar-ekspor",
+   "mdka-rilis-obligasi-tahap-iv-rp4-12-triliun-lunasi-utang-dolar",
+   "igar-disuspensi-bei-champion-pacific-ajukan-go-private",
+   "untr-panggil-rupslb-tarik-saham-treasuri-dan-ganti-komisaris",
+   "harga-emas-antam-naik-ke-rp2-565-000-per-gram",
+   "beli-rumah-hingga-warisan-ini-pajak-properti-di-jakarta",
+   "untd-gelar-rupslb-9-november-agendakan-pergantian-direksi",
+   "eraa-rampungkan-opsi-mesop-tahap-2-total-51-54-juta-lembar",
+   "tbig-obligasi-rp2-37-triliun-tercatat-di-bei-16-oktober",
+   "simp-tanggapi-bursa-soal-dampak-karhutla-ke-operasional",
+   "kadin-gandeng-bri-insurance-perluas-asuransi-usaha"
+  ],
+  "dibuat": "2026-10-16T18:17:03.645Z"
+ },
+ {
   "tanggal": "2026-10-15",
   "tanggalLabel": "Kamis, 15 Oktober 2026",
   "judul": "Bursa Diguyur Klarifikasi Karhutla, Utang Emiten Masih Menekan",
@@ -2674,77 +2749,5 @@ var HARIAN_ARSIP = [
    "giias-bandung-2026-digelar-9-13-september-di-sudirman-ballroom"
   ],
   "dibuat": "2026-09-04T17:43:04.093Z"
- },
- {
-  "tanggal": "2026-09-03",
-  "tanggalLabel": "Kamis, 3 September 2026",
-  "judul": "BI-Kemenkeu Rapikan Likuiditas, APBN Ditekan Dua Front",
-  "ringkas": "Tiga arus bergerak hari ini: otoritas moneter dan fiskal merapikan jadwal likuiditas perbankan, Kementerian Keuangan menekan APBN dari sisi belanja dan penerimaan sekaligus, sementara sejumlah emiten masih membayar ekspansi bisnisnya dengan utang dan margin yang menipis.",
-  "benang": [
-   {
-    "judul": "Likuiditas Perbankan Makin Terkoordinasi",
-    "isi": "Bank Indonesia menaikkan batas insentif KLM dari 5,5 persen menjadi 6,0 persen dari dana pihak ketiga mulai September 2026, menyusul penyerapan insentif lama yang sudah mencapai Rp446,5 triliun atau 5,02 persen dari DPK per awal Agustus, nyaris menyentuh batas lama. Di saat sama, Bank Indonesia dan Kementerian Keuangan memastikan sudah punya jadwal tetap penempatan dan penarikan dana pemerintah di bank Himbara, sehingga penarikan mendadak yang biasa mengguncang likuiditas bisa diantisipasi lebih awal. LPS pun mulai menggandeng Kadin DKI Jakarta untuk mencari investor bagi BPR dan BPRS yang tengah disehatkan. Ketiganya menunjukkan arah yang sama, otoritas bergerak dari sekadar menambah ruang likuiditas ke penataan jadwal dan pencarian investor yang lebih terencana. Yang akan menguatkan arah ini adalah seberapa cepat insentif KLM baru terserap mendekati batas 6,0 persen, dan apakah kerja sama LPS-Kadin berhasil mempertemukan investor nyata untuk BPR bermasalah."
-   },
-   {
-    "judul": "APBN Ditekan dari Sisi Belanja dan Penerimaan",
-    "isi": "Menteri Keuangan Purbaya Yudhi Sadewa menyebut anggaran Makan Bergizi Gratis berpeluang ditekan lagi di bawah Rp200 triliun, setelah tiga kali direvisi turun dari Rp330 triliun menjadi Rp260 triliun lalu Rp240 triliun. Di sisi penerimaan, Purbaya merombak jajaran pejabat Ditjen Pajak dan Bea Cukai serta menonaktifkan tiga pegawai yang diduga bermasalah, bersamaan dengan penjelasan fasilitas pajak baru bagi 55 pimpinan BUMN yang tengah dirampingkan dari 1.074 menjadi sekitar 300 entitas, di tengah target penerimaan pajak Rp806 triliun tahun ini. Pola yang terlihat adalah belanja ditekan lewat efisiensi sementara pengumpulan pajak diperketat lewat pembersihan internal, dua front yang bergerak bersamaan menjelang tutup tahun anggaran. Yang akan menentukan berhasil tidaknya tekanan ini adalah realisasi anggaran MBG akhir tahun dibanding target di bawah Rp200 triliun, dan capaian penerimaan Ditjen Pajak terhadap target Rp806 triliun."
-   },
-   {
-    "judul": "Ekspansi Emiten, Ditopang Utang atau Mulai Berbuah",
-    "isi": "Sejumlah emiten menunjukkan pola yang sama dengan edisi sebelumnya, ekspansi yang justru menekan neraca dalam jangka pendek. BLOG membukukan laba Rp78 miliar dengan pendapatan naik 17 persen, tapi ekspansi ke 16 lokasi cold storage baru membuat liabilitas melonjak dari Rp411 miliar menjadi Rp511 miliar, naik 24 persen, sementara margin menipis. HEAL mencatat pendapatan naik 6,5 persen menjadi Rp3,61 triliun, tapi laba bersih turun 13,8 persen akibat beban pembukaan rumah sakit baru, dan MGLV mengajukan rights issue Rp2,4 triliun yang sebagian dipakai membayar piutang ke pihak terafiliasi. Dari bukti yang ada sekarang, tekanan ini lebih mungkin berlanjut dulu sebelum membaik, sebab ekspansi BLOG dan HEAL masih tahap awal beroperasi dan rights issue MGLV baru berupa rencana. Yang membedakan apakah tekanan mereda atau terus berlanjut adalah apakah lokasi dan rumah sakit baru itu sudah mulai berkontribusi penuh ke pendapatan, dan ini akan mulai terlihat pada rangkaian public expose semester satu 2026 yang dijadwalkan 8 September 2026."
-   }
-  ],
-  "penutup": "Yang paling menentukan arah besok adalah rangkaian public expose semester satu pada 8 September, termasuk SMGR, HEAL, dan VTNY, yang akan memperlihatkan mana emiten yang ekspansinya sudah mulai membuahkan hasil dan mana yang masih tertahan beban utang.",
-  "jumlahBahan": 47,
-  "bahanSlug": [
-   "ekspor-pala-naik-ke-us-133-juta-tapi-25-kali-ditolak",
-   "bi-naikkan-insentif-likuiditas-bank-ke-6-persen",
-   "smdr-koreksi-laporan-realisasi-dana-sukuk-rp700-m",
-   "bike-jawab-bursa-ungkap-rencana-akuisisi-senilai-rp23-triliun",
-   "blog-bukukan-laba-rp78-m-di-1h26-liabilitas-melonjak-24",
-   "lps-gandeng-kadin-cari-investor-aset-bpr-bprs",
-   "cbre-tanggapi-gugatan-wanprestasi-klaim-utang-vendor-lunas",
-   "umkm-bisa-naik-kelas-lewat-pemanfaatan-ai",
-   "bexi-bayar-obligasi-rp714-5-miliar-yang-jatuh-tempo",
-   "smgr-paparkan-kinerja-1h26-laba-melonjak-445-utang-turun",
-   "mglv-rencanakan-rights-issue-rp2-4-triliun-dilusi-13",
-   "vtny-rilis-materi-pubex-laba-bersih-turun-25-3-di-1h26",
-   "bipp-panggil-rupslb-25-september-bahas-pmthmetd",
-   "hdfa-cetak-laba-rp1-53-miliar-bangkit-dari-rugi-2025",
-   "dooh-paparkan-visi-jadi-holding-ekosistem-ai-usai-sii-masuk",
-   "krya-tanggapi-bei-soal-volatilitas-transaksi-kaji-aksi-korporasi",
-   "heal-laba-semester-i-2026-turun-13-8-meski-pendapatan-naik",
-   "adhi-bukukan-kontrak-baru-rp8-3-triliun-naik-118-yoy",
-   "ipcc-rombak-direksi-wing-megantoro-jadi-direktur-utama",
-   "emas-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-   "presiden-prabowo-tawarkan-formula-asean-ke-rusia",
-   "telkom-perkuat-kolaborasi-digital-di-universitas",
-   "presiden-prabowo-tantang-rusia-gandakan-nilai-dagang-ri",
-   "pegadaian-sabet-penghargaan-tata-kelola-terbaik-2026",
-   "purbaya-rumahkan-3-pegawai-pajak-diduga-bermasalah",
-   "telkom-gelar-ai-camp-untuk-350-pelajar-di-makassar",
-   "bi-dan-kemenkeu-siapkan-jadwal-jaga-likuiditas-bank",
-   "anggaran-mbg-berpeluang-ditekan-di-bawah-rp200-triliun",
-   "laba-pupuk-indonesia-melonjak-253-di-semester-i-2026",
-   "judi-online-bajak-piala-dunia-deposit-tembus-rp1-02-triliun",
-   "anggaran-ppatk-naik-100-dana-judi-online-turun-20-persen",
-   "winr-rencana-naikkan-kepemilikan-di-laxo-global-jadi-90",
-   "excl-umumkan-rencana-rupslb-pada-12-oktober-2026",
-   "yelo-tanggapi-permintaan-bei-pemegang-saham-utama-bertahan",
-   "unvr-bantah-ada-info-material-di-balik-volatilitas-saham",
-   "harga-cabai-rawit-merah-melonjak-ke-rp82-700-per-kg",
-   "eraa-rencanakan-buyback-rp500-miliar-berlaku-hingga-desember",
-   "mdla-bukukan-laba-rp226-miliar-naik-12-6-semester-i-2026",
-   "dkft-jadwalkan-dividen-interim-rp30-per-saham",
-   "gtbo-kembali-diperdagangkan-usai-suspensi-dicabut-bei",
-   "harga-emas-antam-naik-rp15-000-jadi-rp2-639-000-gram",
-   "abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang",
-   "dpr-apresiasi-klaim-swasembada-8-komoditas-pangan",
-   "dpr-setujui-anggaran-kementan-rp28-02-triliun-untuk-2027",
-   "kemnaker-siapkan-kompetensi-pekerja-untuk-green-jobs",
-   "jabar-selidiki-sebab-dbh-pajak-tertinggal-dari-jakarta",
-   "djp-perjelas-pajak-untuk-restrukturisasi-bumn-rp806-triliun"
-  ],
-  "dibuat": "2026-09-03T17:58:18.460Z"
  }
 ];

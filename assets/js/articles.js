@@ -163,7 +163,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret: tenggat wajib sertifikat halal untuk jasa makanan, minuman, dan hasil sembelihan mundur dua tahun dari 18 Oktober 2026 ke 18 Oktober 2028, dan beberapa kategori lain seperti kosmetik, suplemen kesehatan, serta obat herbal yang tadinya bertenggat 2026 ikut diperpanjang sampai 17 Oktober 2028. Yang langsung terdampak adalah pelaku usaha mikro dan kecil serta importir produk makanan dan kosmetik, karena merekalah yang paling membutuhkan waktu tambahan untuk mengurus sertifikasi. Hal yang patut dicatat, pengumuman ini keluar hanya dua hari sebelum tenggat lama semestinya berlaku, menandakan ekosistem sertifikasi, mulai dari lembaga pemeriksa sampai kapasitas BPJPH, belum siap menampung kewajiban itu untuk jutaan pelaku usaha sekaligus. Pola ini mengarah pada penundaan bertahap yang menyesuaikan kesiapan di lapangan, bukan penerapan penuh sesuai tanggal yang sudah dipatok sebelumnya. Yang akan memastikan arah ini adalah apakah Peraturan Pemerintah perubahan tersebut benar-benar terbit dan resmi diundangkan sebelum 18 Oktober 2026, sebab sejauh ini baru disosialisasikan dan belum dipastikan sudah berlaku secara hukum.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "transaksi-dagang-pakai-mata-uang-lokal-tembus-us-49-42-miliar",

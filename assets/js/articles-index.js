@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kewajiban-sertifikat-halal-makanan-diundur-ke-2028",
+  "category": "Industri",
+  "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
+  "deck": "Pemerintah memperpanjang tenggat wajib sertifikat halal untuk makanan, minuman, kosmetik, dan obat dari 18 Oktober 2026 menjadi 2028, menyusul masukan dunia usaha soal kesiapan ekosistem sertifikasi.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "Sertifikat Halal",
+   "BPJPH",
+   "UMKM",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7161/pemerintah-sesuaikan-masa-penahapan-kewajiban-bersertifikat-halal-dengan-memperhatikan-kesiapan-ekosistem-dan-pemangku-kepentingan",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "transaksi-dagang-pakai-mata-uang-lokal-tembus-us-49-42-miliar",
+  "category": "Moneter",
+  "title": "Transaksi Dagang Pakai Mata Uang [Lokal] Tembus US$49,42 Miliar",
+  "deck": "Pemerintah dan Bank Indonesia mendorong pelaku usaha memanfaatkan transaksi mata uang lokal dengan enam negara mitra dagang, yang nilainya naik tajam sepanjang 2026.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "Transaksi Mata Uang Lokal",
+   "Bank Indonesia",
+   "Trade Expo Indonesia",
+   "Ekspor Impor"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ciptakan-transaksi-global-yang-lebih-efisien-wamendag-roro-ajak-pelaku-usaha-optimalkan-local-currency-transaction-lct",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang",
   "category": "Global",
   "title": "RI dan Kepulauan Solomon [Dorong] Kerja Sama Dagang",
@@ -2554,7 +2586,7 @@ var ARTICLES = [
   "title": "Sertifikasi Halal Jadi [Wajib] Mulai 17 Oktober 2026",
   "deck": "Pemerintah memberlakukan kewajiban sertifikasi halal mulai 17 Oktober 2026, seiring target ekonomi syariah jadi penopang pertumbuhan menuju 8 persen.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "ekonomi syariah",
    "sertifikasi halal",
@@ -2604,7 +2636,7 @@ var ARTICLES = [
   "title": "RI Terbitkan Aturan [Antidumping] Baru, Tutup Celah Penghindaran",
   "deck": "PP Nomor 39 Tahun 2026 mengatur ulang tindakan pengamanan, antidumping, dan imbalan, serta untuk pertama kalinya melarang praktik penghindaran lewat rute kirim atau negara asal palsu.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "antidumping",
    "PP 39/2026",
@@ -3291,7 +3323,7 @@ var ARTICLES = [
   "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
   "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -4895,7 +4927,7 @@ var ARTICLES = [
   "title": "TEI 2026 Buka Ruang Ekspor [Jasa] dari Logistik hingga AI",
   "deck": "Pameran dagang TEI ke-41 di ICE BSD City, 14-18 Oktober 2026, menyertakan puluhan perusahaan jasa dari logistik, keuangan, hingga kecerdasan buatan untuk menjaring pembeli mancanegara.",
   "date": "12 Oktober 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "TEI 2026",
    "ekspor jasa",
@@ -6498,38 +6530,6 @@ var ARTICLES = [
    "Danantara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4465f393b7_6e8cc0a4f8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smkm-koreksi-laporan-realisasi-dana-ipo-r-d-baru-terserap-1-44",
-  "category": "Aksi Korporasi",
-  "title": "SMKM Koreksi Laporan Realisasi Dana IPO, [R&D] Baru Terserap 1,44%",
-  "deck": "SMKM mengoreksi laporan realisasi dana IPO per Juni 2026: 98,4% dana terpakai, sisa Rp1,01 miliar mengendap di giro berbunga 1,6% hingga akhir 2027.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMKM",
-   "penggunaan dana IPO",
-   "laporan realisasi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ff2cd7f378_fbb6a3eb8c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "agro-angkat-hari-basuki-sebagai-direktur-bisnis-baru",
-  "category": "Aksi Korporasi",
-  "title": "AGRO Angkat [Hari Basuki] sebagai Direktur Bisnis Baru",
-  "deck": "RUPSLB Bank Raya Indonesia (AGRO) mengukuhkan pengunduran diri Kicky Andrie Davetra dan mengangkat Hari Basuki sebagai Direktur Bisnis baru, menunggu persetujuan OJK.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGRO",
-   "Bank Raya Indonesia",
-   "RUPSLB",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7969f3f089_a657b36341.pdf",
   "sourceLabel": "IDX"
  }
 ];

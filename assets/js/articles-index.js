@@ -5,6 +5,77 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang",
+  "category": "Global",
+  "title": "RI dan Kepulauan Solomon [Dorong] Kerja Sama Dagang",
+  "deck": "Mendag RI dan Menteri Perdagangan Kepulauan Solomon bertemu di sela TEI ke-41, membahas penguatan dagang dan mengusulkan dialog dua tahunan antarpemerintah.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang.jpg",
+  "imageV": "mvb121vr",
+  "tags": [
+   "Kepulauan Solomon",
+   "Trade Expo Indonesia",
+   "ekspor impor",
+   "Kementerian Perdagangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-ri-dan-mendag-kepulauan-solomon-bertemu-di-tei-dorong-penguatan-perdagangan-dan-investasi",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ukm-kampus-debut-di-tei-catat-potensi-us-22-56-juta",
+  "category": "UMKM",
+  "title": "UKM Kampus [Debut] di TEI, Catat Potensi US$22,56 Juta",
+  "deck": "25 UKM binaan kampus tampil pertama kali di TEI 2026, mencatat potensi transaksi US$22,56 juta, mayoritas masih berupa surat niat beli dari pembeli Jepang, Belanda, Hong Kong, dan Taiwan.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/ukm-kampus-debut-di-tei-catat-potensi-us-22-56-juta.jpg",
+  "imageV": "mvb123st",
+  "tags": [
+   "UKM",
+   "TEI 2026",
+   "Campuspreneur",
+   "Ekspor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ukm-campuspreneur-tampil-perdana-di-tei-catat-potensi-transaksi-usd-2256-juta",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "kesepakatan-pembiayaan-syariah-isef-tembus-rp27-43-triliun",
+  "category": "Perbankan",
+  "title": "Kesepakatan Pembiayaan Syariah ISEF Tembus [Rp27,43] Triliun",
+  "deck": "Bank Indonesia dan OJK mencatat kesepakatan pembiayaan dan transaksi syariah senilai Rp27,43 triliun dalam rangkaian ISEF 2026, dari proyek perumahan hingga UMKM halal.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/kesepakatan-pembiayaan-syariah-isef-tembus-rp27-43-triliun.jpg",
+  "imageV": "mvb12adt",
+  "tags": [
+   "ISEF 2026",
+   "pembiayaan syariah",
+   "Bank Indonesia",
+   "industri halal"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822526.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pnm-gandeng-ppi-buka-ekspansi-pasar-produk-mekaar",
+  "category": "UMKM",
+  "title": "PNM Gandeng PPI, Buka [Ekspansi] Pasar Produk Mekaar",
+  "deck": "PNM dan PPI teken nota kesepahaman untuk membuka akses pasar yang lebih luas bagi produk UMKM nasabah program pembiayaan ultra mikro Mekaar.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/pnm-gandeng-ppi-buka-ekspansi-pasar-produk-mekaar.jpg",
+  "imageV": "mvb12b34",
+  "tags": [
+   "PNM",
+   "PPI",
+   "PNM Mekaar",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473407-pnm-bersama-ppi-buka-peluang-ekspansi-pasar-produk-nasabah-mekaar"
+ },
+ {
   "slug": "trim-siapkan-dana-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
   "category": "Aksi Korporasi",
   "title": "TRIM Siapkan Dana [Lunasi] Obligasi Rp100 Miliar yang Jatuh Tempo",
@@ -99,6 +170,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c371794843_01af4f9dba.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dpr-ojk-pastikan-reformasi-pasar-modal-konsisten-usai-msci",
+  "category": "Pasar Modal",
+  "title": "DPR-OJK Pastikan [Reformasi] Pasar Modal Konsisten Usai MSCI",
+  "deck": "DPR RI dan OJK menggelar rapat bersama Danantara di BEI untuk memastikan reformasi pasar modal konsisten, menyusul konsultasi klasifikasi pasar oleh MSCI.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/dpr-ojk-pastikan-reformasi-pasar-modal-konsisten-usai-msci.jpg",
+  "imageV": "mvb12bqj",
+  "tags": [
+   "OJK",
+   "DPR RI",
+   "MSCI",
+   "Pasar Modal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473396-jaga-kepercayaan-investor-dpr-ri-dan-ojk-pastikan-reformasi-pasar-modal-indonesia-berjalan-konsisten"
  },
  {
   "slug": "dooh-koreksi-panggilan-rupslb-agenda-pinjaman-rp5-triliun",
@@ -217,6 +305,23 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822426.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "dpr-kawal-reformasi-pasar-modal-ojk-perketat-transparansi",
+  "category": "Pasar Modal",
+  "title": "DPR Kawal Reformasi Pasar Modal, OJK Perketat [Transparansi]",
+  "deck": "DPR menggelar rapat dengan OJK dan Danantara membahas reformasi pasar modal, di tengah MSCI yang mempertimbangkan penurunan status pasar modal Indonesia dari Emerging Market ke Standalone Market.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/dpr-kawal-reformasi-pasar-modal-ojk-perketat-transparansi.jpg",
+  "imageV": "mvb12c71",
+  "tags": [
+   "OJK",
+   "Pasar Modal",
+   "DPR",
+   "Danantara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473381-dpr-kawal-reformasi-pasar-modal-demi-menjaga-kepercayaan-investor"
  },
  {
   "slug": "taspen-raih-predikat-sangat-puas-dari-kemenkeu-lagi",
@@ -6425,105 +6530,6 @@ var ARTICLES = [
    "Direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7969f3f089_a657b36341.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-koreksi-realisasi-dana-rights-issue-rp2-82-triliun",
-  "category": "Aksi Korporasi",
-  "title": "PACK koreksi realisasi dana rights issue [Rp2,82 triliun]",
-  "deck": "PACK merevisi laporan realisasi dana rights issue Rp3,25 triliun, memperbaiki alokasi dana ke dua anak usaha tambang nikel senilai Rp2,82 triliun dari sebelumnya tertulis Rp2,87 triliun.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "rights issue",
-   "penggunaan dana",
-   "nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/edeaa5b03d_a684bb02ef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgun-tanggapi-bursa-ungkap-gadai-saham-100-ke-bank-mandiri",
-  "category": "Aksi Korporasi",
-  "title": "PGUN Tanggapi Bursa, Ungkap [Gadai Saham] 100% ke Bank Mandiri",
-  "deck": "PGUN menjelaskan ke BEI bahwa 100% saham tiga pemegang saham utamanya, AAL, CAR, dan BCMP, telah digadaikan ke Bank Mandiri untuk fasilitas kredit afiliasinya, PT Jhonlin Baratama.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGUN",
-   "gadai saham",
-   "Bank Mandiri",
-   "Jhonlin Baratama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ca5c85f371_f8bcbcded0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "viva-jadwalkan-rupslb-gabung-rupst-17-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "VIVA Jadwalkan [RUPSLB] Gabung RUPST 17 November 2026",
-  "deck": "PT Visi Media Asia Tbk akan menggelar RUPST tahun buku 2025 sekaligus RUPSLB pada 17 November 2026, dengan daftar pemegang saham yang berhak hadir ditetapkan per 23 Oktober 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VIVA",
-   "RUPS",
-   "RUPSLB",
-   "Visi Media Asia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c842c37294_533a453743.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mendag-buka-flei-2026-ajak-anak-muda-coba-bisnis-waralaba",
-  "category": "Bisnis",
-  "title": "Mendag Buka FLEI 2026, Ajak Anak Muda Coba Bisnis [Waralaba]",
-  "deck": "Menteri Perdagangan Budi Santoso membuka Franchise & License Expo Indonesia ke-27 dan mengajak generasi muda merintis usaha waralaba, sekaligus mendorong ekspansi waralaba lokal ke pasar ekspor.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/mendag-buka-flei-2026-ajak-anak-muda-coba-bisnis-waralaba.jpg",
-  "imageV": "mv0zlttv",
-  "tags": [
-   "waralaba",
-   "UMKM",
-   "ekspor",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-generasi-muda-jajaki-usaha-waralaba",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "menko-zulhas-soroti-rantai-pasok-kelapa-di-wcd-2026",
-  "category": "Industri",
-  "title": "Menko Zulhas Soroti Rantai Pasok [Kelapa] di WCD 2026",
-  "deck": "Menko Pangan Zulkifli Hasan mendesak pembenahan rantai pasok kelapa saat pembukaan World Coconut Day 2026 di Manado, soroti pola tanam petani yang masih pasif.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/menko-zulhas-soroti-rantai-pasok-kelapa-di-wcd-2026.jpg",
-  "imageV": "mv156pe0",
-  "tags": [
-   "kelapa",
-   "world coconut day",
-   "manado",
-   "rantai pasok"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472107-soroti-pola-tanam-tradisional-menko-zulhas-dorong-pembenahan-rantai-pasok-kelapa-di-wcd-2026"
- },
- {
-  "slug": "agro-sahkan-ubah-anggaran-dasar-direktur-bisnis-baru",
-  "category": "Aksi Korporasi",
-  "title": "AGRO Sahkan Ubah [Anggaran Dasar], Direktur Bisnis Baru",
-  "deck": "RUPSLB Bank Raya Indonesia menyetujui penyelarasan anggaran dasar dengan aturan anak usaha BUMN, sekaligus mengukuhkan Hari Basuki sebagai Direktur Bisnis baru.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGRO",
-   "Bank Raya Indonesia",
-   "RUPSLB",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d9088b67a_e976b71f23.pdf",
   "sourceLabel": "IDX"
  }
 ];

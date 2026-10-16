@@ -3,6 +3,117 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang",
+  "category": "Global",
+  "title": "RI dan Kepulauan Solomon [Dorong] Kerja Sama Dagang",
+  "deck": "Mendag RI dan Menteri Perdagangan Kepulauan Solomon bertemu di sela TEI ke-41, membahas penguatan dagang dan mengusulkan dialog dua tahunan antarpemerintah.",
+  "image": "assets/img/ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T13:45:07.019Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-ri-dan-mendag-kepulauan-solomon-bertemu-di-tei-dorong-penguatan-perdagangan-dan-investasi",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Kepulauan Solomon",
+   "Trade Expo Indonesia",
+   "ekspor impor",
+   "Kementerian Perdagangan"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso bertemu dengan Menteri Perdagangan, Industri, Tenaga Kerja, dan Imigrasi Kepulauan Solomon, Harry Kuma, di sela Trade Expo Indonesia ke-41 di ICE BSD City, Tangerang, Jumat (16/10/2026). Dalam pertemuan itu, kedua negara membahas cara memperkuat hubungan dagang dan investasi, termasuk usulan membangun forum dialog perdagangan antarpemerintah setiap dua tahun. Pertemuan ini jadi penanda upaya Indonesia menjajaki pasar yang selama ini belum banyak digarap, di luar negara mitra dagang utama.",
+   "Secara statistik, Kepulauan Solomon masih menjadi mitra dagang kecil bagi Indonesia, berada di peringkat ke-126 sebagai tujuan ekspor nonmigas dan ke-100 sebagai sumber impor nonmigas Indonesia. Pada Januari-Agustus 2026, total perdagangan kedua negara tercatat US$43,8 juta, terdiri dari ekspor Indonesia sebesar US$15,6 juta dan impor dari Solomon sebesar US$28,2 juta. Sebagai perbandingan, sepanjang 2025 ekspor Indonesia ke Solomon mencapai US$26,8 juta, sementara impornya hanya US$14,0 juta.",
+   "Produk unggulan ekspor Indonesia ke Solomon antara lain lemak dan minyak nabati maupun hewani, olahan tepung, makanan olahan, tembakau, serta sabun dan bahan pembersih. Sebaliknya, impor Indonesia dari Solomon didominasi bijih, kerak, dan abu logam, kakao dan cokelat, mesin serta peralatan listrik, mesin dan pesawat mekanik, hingga buku dan barang cetakan. Budi menyebut produk turunan kelapa sawit, kopi, gula, dan pangan olahan punya peluang untuk memperluas penetrasi pasar di Solomon.",
+   "Untuk mendorong kerja sama itu, kedua negara sepakat memperkuat hubungan antarpelaku usaha lewat promosi dagang, pertemuan bisnis, pertukaran delegasi, misi dagang, serta kerja sama antarkamar dagang. Turut mendampingi Budi dalam pertemuan itu, Direktur Jenderal Perundingan Perdagangan Internasional Johni Martha dan Direktur Jenderal Pengembangan Ekspor Nasional Fajarini Puntodewi."
+  ],
+  "fotoAdegan": "Workers stacking sacks of coffee and drums of palm oil products onto pallets inside a busy export warehouse, daylight through open doors",
+  "fotoSumber": "https://www.kemendag.go.id/albums/DKdaBwGeNPbjrc8sCsZZgDXOOGS1GH1rP3EGX0uh.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Perubahan konkret dari pertemuan ini adalah usulan membangun forum dialog dagang antarpemerintah RI-Kepulauan Solomon setiap dua tahun, bukan kesepakatan dagang baru. Pihak yang berpotensi terdampak adalah eksportir sawit, kopi, gula, dan pangan olahan Indonesia, serta importir kakao dan hasil tambang dari Solomon, meski nilai dagang kedua negara masih sangat kecil, hanya US$43,8 juta dalam delapan bulan terakhir. Yang menarik dicermati, pada 2025 Indonesia masih menjual lebih banyak ke Solomon daripada membeli dari sana, tapi pada Januari-Agustus 2026 posisinya berbalik, Indonesia justru membeli lebih banyak dari Solomon ketimbang menjualnya ke sana. Ada dua kemungkinan arah dari sini, pertemuan ini jadi langkah awal membangun mekanisme dagang yang baru dirintis sehingga hasilnya belum terlihat, atau pergeseran itu menandakan pasar Solomon makin sulit ditembus produk Indonesia. Yang akan menjawabnya adalah apakah dialog dagang dua tahunan itu benar terealisasi dan bagaimana data ekspor-impor kedua negara pada akhir 2026 nanti.",
+  "imageV": "mvb121vr"
+ },
+ {
+  "slug": "ukm-kampus-debut-di-tei-catat-potensi-us-22-56-juta",
+  "category": "UMKM",
+  "title": "UKM Kampus [Debut] di TEI, Catat Potensi US$22,56 Juta",
+  "deck": "25 UKM binaan kampus tampil pertama kali di TEI 2026, mencatat potensi transaksi US$22,56 juta, mayoritas masih berupa surat niat beli dari pembeli Jepang, Belanda, Hong Kong, dan Taiwan.",
+  "image": "assets/img/ukm-kampus-debut-di-tei-catat-potensi-us-22-56-juta.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T13:44:58.081Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ukm-campuspreneur-tampil-perdana-di-tei-catat-potensi-transaksi-usd-2256-juta",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UKM",
+   "TEI 2026",
+   "Campuspreneur",
+   "Ekspor"
+  ],
+  "body": [
+   "Sebanyak 25 usaha kecil dan menengah (UKM) binaan program Campuspreneur Kementerian Perdagangan tampil untuk pertama kalinya di Trade Expo Indonesia (TEI) ke-41. Hingga hari kedua pameran, Kamis (15/10), UKM yang berasal dari 20 perguruan tinggi ini membukukan potensi transaksi senilai US$22,56 juta. Pencapaian ini jadi uji coba pertama apakah usaha rintisan berbasis kampus bisa menembus pasar ekspor lewat pameran dagang internasional.",
+   "Dari total potensi tersebut, US$21,46 juta sudah berbentuk penandatanganan letter of intent (LoI), yakni surat niat kerja sama dari pembeli asing yang belum berupa kontrak jual beli resmi. Sisanya, US$1,1 juta, masih berupa kontak dagang yang baru dijajaki. Pembeli yang menandatangani LoI berasal dari Jepang, Belanda, Hong Kong, dan Taiwan. Peserta Campuspreneur dipilih melalui kurasi dari 80 UKM yang dinilai punya potensi ekspor, mencakup usaha yang dijalankan mahasiswa, alumni, dosen, maupun UKM binaan kampus.",
+   "Empat UKM kampus yang telah mengantongi LoI adalah Futra Export dan Pustaka Dagang dari Binus University, Worldwise dari Telkom University, serta Inofarm dari Universitas Muhammadiyah Yogyakarta. Sementara itu, Sangreat dari Institut Pertanian Bogor dan Colorfood Indonesia dari Universitas Diponegoro masih dalam tahap penjajakan dengan calon pembeli. Produk yang diminati mencakup komoditas seperti kakao, kayu manis, gula aren, dan minyak kelapa murni, hingga produk olahan kelapa seperti arang dan karbon aktif. Ada pula produk bernilai tambah seperti pengendali hama alami dan platform edukasi bahasa berbasis permainan interaktif.",
+   "Sebelum tampil di TEI, peserta Campuspreneur mengikuti pelatihan teknik ekspor, desain ulang produk, serta sesi penjajakan kerja sama bisnis dengan calon pembeli. Worldwise, start up pembelajaran bahasa asal Telkom University, merasakan manfaatnya setelah mendapat LoI dari mitra Belanda. \"Dari Campuspreneur, banyak sekali yang kami dapatkan, terutama dari sisi jejaring. Salah satunya kami mendapat LOI dengan pihak Belanda,\" kata CEO Worldwise, Moses. Program ini merupakan bagian dari inisiatif Dari Lokal untuk Global yang digagas Kemendag untuk mendorong UKM berbasis perguruan tinggi menuju pasar ekspor."
+  ],
+  "fotoAdegan": "Close-up of coconut charcoal briquettes and raw cacao beans arranged in display trays at a trade exhibition booth, warm lighting",
+  "fotoSumber": "https://www.kemendag.go.id/albums/viWutNVcrCjpeNce1H0nQkHfRGJE3QKJBTMK0k71.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini adalah UKM kampus untuk pertama kalinya ikut pameran dagang sebesar TEI, dan dari catatan US$22,56 juta itu, bagian terbesarnya, US$21,46 juta, masih berbentuk LoI atau surat niat beli, bukan kontrak jual beli yang sudah pasti cair. Yang terdampak langsung adalah 25 UKM dari 20 kampus serta pembeli dari Jepang, Belanda, Hong Kong, dan Taiwan yang menandatangani LoI itu. Karena surat niat semacam itu bisa saja tidak berlanjut jadi transaksi nyata, arah sebenarnya dari program ini baru akan terlihat dari apakah LoI tersebut berubah jadi kontrak ekspor yang benar-benar dibayar, bukan dari angka potensi saat pameran. Dirjen Pengembangan Ekspor Kemendag sendiri menyebut harapannya LoI ini masih perlu ditindaklanjuti lewat negosiasi lanjutan, yang berarti pemerintah sendiri mengakui hasilnya belum final. Yang perlu dipantau adalah laporan realisasi ekspor Campuspreneur setelah TEI ke-41 berakhir pada 18 Oktober, karena di situ baru akan ketahuan berapa dari US$22,56 juta itu yang benar-benar berubah jadi uang masuk.",
+  "imageV": "mvb123st"
+ },
+ {
+  "slug": "kesepakatan-pembiayaan-syariah-isef-tembus-rp27-43-triliun",
+  "category": "Perbankan",
+  "title": "Kesepakatan Pembiayaan Syariah ISEF Tembus [Rp27,43] Triliun",
+  "deck": "Bank Indonesia dan OJK mencatat kesepakatan pembiayaan dan transaksi syariah senilai Rp27,43 triliun dalam rangkaian ISEF 2026, dari proyek perumahan hingga UMKM halal.",
+  "image": "assets/img/kesepakatan-pembiayaan-syariah-isef-tembus-rp27-43-triliun.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T13:44:42.259Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822526.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "ISEF 2026",
+   "pembiayaan syariah",
+   "Bank Indonesia",
+   "industri halal"
+  ],
+  "body": [
+   "Bank Indonesia bersama Otoritas Jasa Keuangan (OJK) menggelar seremoni penandatanganan sejumlah kesepakatan bisnis pembiayaan syariah pada Jumat (16/10), sebagai bagian dari rangkaian Indonesia Sharia Economic Festival (ISEF) 2026 di Jakarta International Convention Center. Acara ini menyasar penguatan hubungan antara pembiayaan syariah dengan kebutuhan sektor riil, khususnya industri halal. Menurut laporan State of the Global Islamic Economy 2025/2026, Indonesia berada di peringkat keempat dunia dalam ekosistem ekonomi syariah, dengan posisi teratas di sektor modest fashion dan peringkat ketiga di sektor makanan halal.",
+   "Total nilai kesepakatan yang ditandatangani dalam seremoni ini tercatat sekitar Rp27,43 triliun. Rinciannya meliputi pembiayaan proyek strategis Rp19,40 triliun yang mencakup kerja sama pemerintah dan badan usaha (KPBU) syariah, Fasilitas Likuiditas Pembiayaan Perumahan (FLPP), serta pembiayaan mikro perumahan syariah. Transaksi pasar uang dan valuta asing syariah mencapai Rp5,32 triliun, pembiayaan untuk korporasi halal lebih dari Rp2,2 triliun, dan pembiayaan untuk UMKM serta startup halal sebesar Rp499,75 miliar. Selain itu ada kesepakatan dagang antara UMKM dan pembeli senilai Rp9,78 miliar, serta surat utang sosial syariah Cash Waqf Linked Sukuk senilai Rp4,45 miliar.",
+   "Kepala Eksekutif Pengawas Perbankan OJK Dian Ediana Rae menyebutkan, hingga Agustus 2026 pembiayaan perbankan syariah tumbuh 11,61 persen dibanding tahun sebelumnya menjadi Rp748,7 triliun, dengan rasio pembiayaan bermasalah (NPF) kotor terjaga di 2,3 persen. Deputi Gubernur Bank Indonesia Solikin M. Juhro menekankan tiga arah pengembangan pembiayaan syariah ke depan, yaitu perluasan akses bagi sektor unggulan industri halal, peningkatan inklusi keuangan bagi usaha mikro dan kecil, serta sinergi antara otoritas, industri keuangan, dan pelaku usaha.",
+   "Seremoni ini merupakan bagian dari program SAPA SYARIAH, inisiatif Bank Indonesia yang menghubungkan akses pasar dan akses pembiayaan syariah melalui Bulan Pembiayaan Syariah yang disinergikan dengan program Percepatan Intermediasi tahun 2026. Programnya berjalan dalam tiga tahap, yakni edukasi pembiayaan syariah, penguatan jejaring usaha, dan temu usaha untuk merealisasikan kerja sama. ISEF 2026 berlangsung pada 14 hingga 18 Oktober 2026 di Jakarta International Convention Center."
+  ],
+  "fotoAdegan": "Workers sewing modest fashion garments in a small Indonesian textile workshop, fabric bolts stacked along the walls, natural light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/sp_2822526.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang konkret dari acara ini adalah nilainya: total kesepakatan pembiayaan dan transaksi syariah mencapai Rp27,43 triliun, mulai dari pembiayaan proyek rumah dan infrastruktur, pembiayaan ke pengusaha besar dan UMKM, sampai surat utang sosial untuk wakaf. Yang kena dampak langsung adalah pengusaha industri halal, terutama di sektor fesyen, makanan, dan pariwisata, serta UMKM dan calon pembeli rumah lewat program subsidi perumahan. Tapi perlu dicatat, sebagian besar dari angka itu masih berbentuk kesepakatan awal seperti Letter of Intent, bukan transaksi yang sudah benar-benar cair ke rekening pengusaha. Arahnya terlihat menuju pembiayaan syariah yang makin dipadukan dengan kebutuhan usaha riil, didukung pertumbuhan pembiayaan perbankan syariah 11,61 persen dibanding tahun lalu. Yang akan membuktikan apakah dorongan ini nyata atau sekadar seremoni tahunan adalah laporan realisasi kesepakatan tersebut pada ISEF tahun berikutnya, bukan nilai yang diumumkan hari ini.",
+  "imageV": "mvb12adt"
+ },
+ {
+  "slug": "pnm-gandeng-ppi-buka-ekspansi-pasar-produk-mekaar",
+  "category": "UMKM",
+  "title": "PNM Gandeng PPI, Buka [Ekspansi] Pasar Produk Mekaar",
+  "deck": "PNM dan PPI teken nota kesepahaman untuk membuka akses pasar yang lebih luas bagi produk UMKM nasabah program pembiayaan ultra mikro Mekaar.",
+  "image": "assets/img/pnm-gandeng-ppi-buka-ekspansi-pasar-produk-mekaar.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T20:20:20+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473407-pnm-bersama-ppi-buka-peluang-ekspansi-pasar-produk-nasabah-mekaar",
+  "tags": [
+   "PNM",
+   "PPI",
+   "PNM Mekaar",
+   "UMKM"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) dan PT Perusahaan Perdagangan Indonesia (PPI) menandatangani nota kesepahaman di Indonesia Convention Exhibition, BSD City, Tangerang, pada Jumat, 16 Oktober 2026. Kerja sama ini ditujukan untuk membuka jalur pemasaran yang lebih luas bagi produk buatan nasabah program Mekaar, pembiayaan ultra mikro milik PNM, yang selama ini mayoritas hanya terjual di sekitar wilayah mereka sendiri.",
+   "PNM menyandarkan langkah ini pada riset Bappenas tahun 2025 tentang usaha mikro dan kecil. Riset itu menemukan bahwa 98 persen usaha yang diteliti masih mengandalkan pasar lokal, sementara hanya sekitar 10 persen yang berhasil menembus pasar nasional dan 4 persen yang sampai ke pasar luar negeri. Angka ini menjadi alasan PNM mencari mitra yang punya jaringan dagang lebih luas.",
+   "Direktur Operasional dan Hubungan Kelembagaan PNM, Lalu Dodot Patria Ary, mengatakan modal dan kemampuan produksi saja tidak cukup bagi usaha ultra mikro karena tantangan sebenarnya ada pada menjangkau pembeli yang lebih banyak. Nasabah Mekaar, yang mayoritas perempuan pelaku usaha kuliner olahan dan kerajinan tangan khas daerah, selama ini terganjal akses ke jaringan distribusi, pembeli berskala besar, dan informasi tren pasar yang lebih luas.",
+   "Dalam kerja sama ini, PNM membawa kedekatan dan pemahamannya terhadap kebutuhan usaha para nasabah, sementara PPI menyumbang pengalaman dan jaringan perdagangan untuk membuka peluang pemasaran yang lebih luas. Kedua pihak menyebut kolaborasi ini sebagai bentuk saling melengkapi antara pendampingan di lapangan dan akses ke pasar yang lebih besar."
+  ],
+  "fotoAdegan": "Simple market stalls inside a convention hall displaying handmade woven crafts and packaged local food products, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/16/6ad223c7d8a54-pnm-menggandeng-pt-perusahaan-perdagangan-indonesia-persero-atau-ppi-dalam-meneken-nota-kesepahaman-di-indonesia-convention-exhibition-ice-bsd-city-tangerang-pada-jumat-1610_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini baru kesepakatan di atas kertas lewat nota kesepahaman, belum ada rincian berapa banyak produk nasabah Mekaar yang akan dipasarkan PPI, lewat jalur distribusi apa, atau kapan program ini mulai berjalan. Yang jelas akan terdampak adalah nasabah Mekaar, mayoritas perempuan pelaku usaha ultra mikro di bidang kuliner olahan dan kerajinan, yang selama ini kesulitan menembus pembeli besar atau pasar di luar daerahnya. Riset Bappenas yang dikutip PNM menunjukkan baru sekitar 10 dari 100 usaha mikro yang berhasil menjual ke pasar nasional, dan hanya 4 dari 100 yang sampai ke luar negeri, jadi kerja sama ini menyasar celah yang memang besar. Yang masih kurang untuk bisa menilai ke mana arah kerja sama ini adalah dokumen turunan dari nota kesepahaman tersebut, seperti produk atau daerah mana yang akan jadi proyek percontohan lebih dulu, dan target jumlah nasabah yang ingin dijangkau. Pembaca sebaiknya menunggu pengumuman lanjutan dari PNM atau PPI soal rencana kerja yang lebih konkret itu.",
+  "imageV": "mvb12b34"
+ },
+ {
   "slug": "trim-siapkan-dana-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
   "category": "Aksi Korporasi",
   "title": "TRIM Siapkan Dana [Lunasi] Obligasi Rp100 Miliar yang Jatuh Tempo",
@@ -156,6 +267,33 @@ var ARTICLES = [
   "fotoAdegan": "Plantation workers in orange uniforms patrolling a firebreak trail through oil palm rows, distant smoke haze, overcast tropical afternoon",
   "takeaway": "Laporan ini condong netral bagi ANJT karena perusahaan menegaskan tidak ada dampak terhadap pendapatan, laba, maupun nilai aset, dan belum ada sanksi administratif, tapi kejadian kebakaran itu sendiri tetap jadi pengingat risiko lingkungan yang melekat pada bisnis perkebunan sawit. Pos yang tersentuh di sini adalah produksi dan pendapatan, karena wilayah yang disebut dalam surat ini memang penyumbang signifikan hasil konsolidasi perusahaan, sehingga kalau kebakaran meluas, kebun dan hasil panen di sana bisa langsung tergerus; nilai aset juga relevan karena lahan dan tanaman yang terbakar berarti kerugian fisik langsung. Yang perlu dipantau selanjutnya adalah apakah proses pemantauan titik panas di Ketapang, Kalimantan Barat tetap nihil seperti yang diklaim perusahaan, serta apakah BEI atau instansi pemerintah akhirnya menjatuhkan sanksi administratif setelah proses hukum dan pemantauan lanjutan berjalan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "dpr-ojk-pastikan-reformasi-pasar-modal-konsisten-usai-msci",
+  "category": "Pasar Modal",
+  "title": "DPR-OJK Pastikan [Reformasi] Pasar Modal Konsisten Usai MSCI",
+  "deck": "DPR RI dan OJK menggelar rapat bersama Danantara di BEI untuk memastikan reformasi pasar modal konsisten, menyusul konsultasi klasifikasi pasar oleh MSCI.",
+  "image": "assets/img/dpr-ojk-pastikan-reformasi-pasar-modal-konsisten-usai-msci.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T19:41:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473396-jaga-kepercayaan-investor-dpr-ri-dan-ojk-pastikan-reformasi-pasar-modal-indonesia-berjalan-konsisten",
+  "tags": [
+   "OJK",
+   "DPR RI",
+   "MSCI",
+   "Pasar Modal"
+  ],
+  "body": [
+   "DPR RI, Otoritas Jasa Keuangan (OJK), dan Danantara Indonesia menggelar rapat koordinasi mendadak di Gedung Bursa Efek Indonesia, Jakarta, Jumat (16/10/2026), untuk membahas pembenahan pasar modal nasional. Pertemuan yang dipimpin Wakil Ketua DPR RI Sufmi Dasco Ahmad bersama Ketua Dewan Komisioner OJK Friderica Widyasari Dewi ini digelar setelah Morgan Stanley Capital International (MSCI) membuka konsultasi terkait klasifikasi pasar modal Indonesia. Klasifikasi MSCI penting karena menjadi salah satu acuan investor global dalam menempatkan dananya di bursa suatu negara, sehingga hasilnya bisa memengaruhi arus modal asing yang masuk ke pasar saham Indonesia.",
+   "Dasco menegaskan DPR akan terus memantau dan meminta bursa melakukan perbaikan berkelanjutan. Friderica memaparkan sejumlah reformasi yang dijalankan OJK bersama Self-Regulatory Organization (SRO) sejak Januari 2026, antara lain penurunan ambang wajib lapor kepemilikan saham dari lima persen menjadi satu persen, penambahan klasifikasi jenis investor dari sembilan menjadi 39 kategori, serta kenaikan bertahap porsi saham yang diperdagangkan bebas di publik.",
+   "Kepala Eksekutif Pengawas Pasar Modal OJK Hasan Fawzi menyebut penegakan hukum di pasar modal berjalan berkesinambungan. Sepanjang tahun ini, OJK telah menjatuhkan sanksi kepada 835 pihak dengan total nilai lebih dari Rp390 miliar. Di luar itu, OJK juga mengenakan sanksi administratif kepada tiga emiten atas dugaan pelanggaran Undang-Undang Pasar Modal, yakni DSSA sebesar Rp1,5 triliun, BREN sebesar Rp500 miliar, dan CUAN sebesar Rp100 miliar.",
+   "Friderica menambahkan bahwa penegakan hukum dan pengenaan sanksi menjadi salah satu aspek penting dalam mempercepat reformasi integritas pasar modal. Sinergi antara DPR, OJK, dan SRO ini ditujukan untuk menjaga kepastian hukum, transparansi, serta daya saing pasar modal Indonesia di mata investor domestik maupun global."
+  ],
+  "fotoAdegan": "Wide shot of an empty Indonesian stock exchange trading floor at dawn, rows of desks, blurred distant monitors",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/16/6ad218d13daea-wakil-ketua-dpr-ri-sufmi-dasco-ahmad-tengah-di-gedung-bei-jakarta-jumat-16102026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan paling konkret di sini adalah ambang wajib lapor kepemilikan saham yang dipangkas dari lima persen jadi satu persen, artinya pemegang saham besar kini harus terbuka ke publik begitu kepemilikannya baru mencapai satu dari seratus bagian perusahaan, jauh lebih cepat dari sebelumnya. OJK juga menjatuhkan sanksi besar ke tiga emiten sekaligus, DSSA Rp1,5 triliun, BREN Rp500 miliar, dan CUAN Rp100 miliar, karena diduga melanggar aturan pasar modal. Yang langsung kena dampak adalah pemegang saham mayoritas dan pihak terafiliasi di tiga emiten itu, yang kini diawasi lebih ketat soal keterbukaan dan soal berapa banyak saham mereka yang benar-benar beredar bebas di pasar, bukan ditahan segelintir pihak. Rapat mendadak ini digelar begitu MSCI, lembaga pemeringkat global yang menentukan apakah dana investor besar dunia mengalir ke bursa suatu negara, membuka konsultasi soal status pasar modal Indonesia, sehingga arah yang terlihat adalah otoritas sedang memperlihatkan bukti pembenahan sebelum MSCI mengambil keputusan. Yang akan memastikan apakah langkah ini cukup adalah hasil konsultasi MSCI itu sendiri, yang belum disebutkan kapan akan diumumkan.",
+  "imageV": "mvb12bqj"
  },
  {
   "slug": "dooh-koreksi-panggilan-rupslb-agenda-pinjaman-rp5-triliun",
@@ -344,6 +482,33 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah bukan cuma peringkat, tapi mulai dibangunnya alat ukur resmi untuk sektor ini: Bank Indonesia baru meluncurkan kajian rekomendasi peta jalan pariwisata ramah muslim, dilengkapi indeks IMTI yang menilai kesiapan tiap daerah. Pihak yang langsung terdampak adalah 15 provinsi penerima penghargaan, dari Jawa Barat hingga Batam, karena merekalah yang lebih dulu dianggap siap menyerap wisatawan muslim dan manfaat ekonominya, sementara UMKM pariwisata ikut kebagian lewat layanan Indonesia Travel Pack yang menyatukan info destinasi dengan sistem pembayaran lintas negara QRIS. Arahnya terlihat bergeser dari sekadar mengejar peringkat global ke membangun kerangka kebijakan yang terukur, sejalan dengan target pertumbuhan sektor ini yang dipatok naik dari 10,28 persen tahun ini menjadi 13,08 persen pada 2029 dalam rencana pembangunan lima tahun pemerintah. Yang akan membuktikan apakah arah ini benar-benar berjalan adalah penerbitan peta jalan nasional versi final, sebab yang diluncurkan sekarang baru kajian rekomendasinya, bukan dokumen resmi yang mengikat.",
   "imageV": "mvavga0e"
+ },
+ {
+  "slug": "dpr-kawal-reformasi-pasar-modal-ojk-perketat-transparansi",
+  "category": "Pasar Modal",
+  "title": "DPR Kawal Reformasi Pasar Modal, OJK Perketat [Transparansi]",
+  "deck": "DPR menggelar rapat dengan OJK dan Danantara membahas reformasi pasar modal, di tengah MSCI yang mempertimbangkan penurunan status pasar modal Indonesia dari Emerging Market ke Standalone Market.",
+  "image": "assets/img/dpr-kawal-reformasi-pasar-modal-ojk-perketat-transparansi.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T18:01:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473381-dpr-kawal-reformasi-pasar-modal-demi-menjaga-kepercayaan-investor",
+  "tags": [
+   "OJK",
+   "Pasar Modal",
+   "DPR",
+   "Danantara"
+  ],
+  "body": [
+   "Wakil Ketua DPR RI Sufmi Dasco Ahmad menegaskan proses pembenahan pasar modal Indonesia tetap berjalan, kendati bursa tengah bergejolak dan lembaga pemeringkat internasional menyoroti transparansi pasar keuangan dalam negeri. Penegasan itu disampaikan usai rapat koordinasi dengan Ketua Dewan Komisioner OJK Friderica Widyasari Dewi, Kepala Eksekutif Pengawas Pasar Modal OJK Hasan Fawzi, dan jajaran Danantara Indonesia di Gedung Bursa Efek Indonesia, Jakarta, Jumat (16/10/2026). Dasco menyebut DPR terus memantau perkembangan pasar modal dan mendorong otoritas terkait memperbaiki tata kelola secara berkelanjutan.",
+   "Koordinasi ini berlangsung tak lama setelah lembaga penyusun indeks global Morgan Stanley Capital International (MSCI) membuka proses konsultasi mengenai kemungkinan penurunan status pasar modal Indonesia, dari kategori Emerging Market menjadi Standalone Market. Konsultasi ini dibuka lebih cepat dari jadwal tinjauan rutin yang semula ditetapkan pada November 2026. Status Standalone Market berarti pasar Indonesia keluar dari indeks acuan utama yang dilacak otomatis oleh banyak dana investasi global, sehingga penurunan status ini berpotensi memicu penarikan dana oleh investor yang selama ini mengikuti indeks tersebut.",
+   "Dalam pertemuan itu, OJK memaparkan langkah reformasi yang telah dijalankan bersama lembaga pengatur mandiri bursa sejak Januari 2026. Friderica menjelaskan pembenahan itu mencakup peningkatan transparansi kepemilikan saham, perincian klasifikasi investor, hingga penyesuaian ketentuan jumlah saham yang tersedia untuk diperdagangkan publik atau free float. Salah satu perubahan konkret adalah menurunkan ambang batas wajib lapor kepemilikan saham dari 5 persen menjadi 1 persen, serta memperluas klasifikasi investor dari semula sembilan jenis menjadi 39 jenis.",
+   "Friderica juga menekankan penegakan hukum dan pemberian sanksi sebagai bagian penting dari reformasi integritas pasar modal. Hasan Fawzi mengungkapkan sepanjang 2026 OJK telah menjatuhkan sanksi kepada 835 pihak dengan nilai total lebih dari Rp390 miliar. OJK juga mengenakan sanksi administratif kepada sejumlah emiten, yakni DSSA sebesar Rp1,5 triliun, BREN sebesar Rp500 miliar, dan CUAN sebesar Rp100 miliar, atas dugaan pelanggaran Undang-Undang Pasar Modal."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower housing a stock exchange in Jakarta, professionals in suits walking through the lobby at midday",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/06/6ac4c83a569ef-wakil-ketua-dpr-ri-sufmi-dasco-ahmad_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah ambang batas wajib lapor kepemilikan saham turun dari 5 persen menjadi 1 persen, artinya investor besar yang memegang saham jauh lebih kecil dari sebelumnya kini harus membuka identitas ke publik. Yang kena aturan ini jelas pemegang saham besar dan emiten dengan kepemilikan terkonsentrasi, sementara sanksi Rp1,5 triliun ke DSSA, Rp500 miliar ke BREN, dan Rp100 miliar ke CUAN menyasar langsung perusahaan tercatat yang diduga melanggar aturan pasar modal. Rentetan reformasi ini muncul persis setelah MSCI, lembaga penyusun indeks acuan yang dilacak banyak dana investasi global, membuka pembahasan soal menurunkan status pasar modal Indonesia dari Emerging Market ke Standalone Market, yang kalau benar terjadi bisa membuat dana-dana besar penerus indeks itu otomatis menarik uangnya dari bursa domestik. Polanya mengarah ke upaya menambal celah transparansi sebelum penilaian itu diputuskan, ketimbang reformasi yang sudah direncanakan jauh hari. Yang akan membuktikan apakah langkah ini dianggap cukup adalah hasil tinjauan rutin MSCI yang dijadwalkan pada November 2026.",
+  "imageV": "mvb12c71"
  },
  {
   "slug": "taspen-raih-predikat-sangat-puas-dari-kemenkeu-lagi",

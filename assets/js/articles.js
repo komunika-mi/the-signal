@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "igar-disuspensi-bei-champion-pacific-ajukan-go-private",
+  "category": "Aksi Korporasi",
+  "title": "IGAR Disuspensi BEI, Champion Pacific Ajukan [Go Private]",
+  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham IGAR sejak sesi pertama Jumat, 16 Oktober 2026, menyusul permohonan delisting untuk berubah status menjadi perusahaan tertutup.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T10:53:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/550ec342db_90121731c0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IGAR",
+  "tags": [
+   "IGAR",
+   "delisting",
+   "go private",
+   "suspensi saham"
+  ],
+  "body": [
+   "PT Champion Pacific Indonesia Tbk (IGAR) mengumumkan bahwa perdagangan sahamnya di Bursa Efek Indonesia (BEI) dihentikan sementara terhitung sejak sesi pertama perdagangan hari Jumat, 16 Oktober 2026. Penghentian ini merujuk pada surat BEI Nomor Peng-SPT-00020/BEI.PP2/10-2026 perihal Penghentian Sementara Perdagangan Efek, yang terbit sehari setelah IGAR melalui surat Nomor 075/CPI/DIR/X/2026 tanggal 15 Oktober 2026 mengajukan permohonan delisting dan permohonan suspensi efek kepada BEI dan Otoritas Jasa Keuangan (OJK).",
+   "Alasan di balik langkah ini adalah rencana IGAR mengubah status dari perusahaan terbuka yang tercatat di bursa menjadi perusahaan tertutup, atau yang dikenal sebagai go private. Perseroan menjelaskan bahwa sebagai induk usaha (holding company) yang membawahi anak perusahaan di bidang kemasan untuk farmasi, makanan, dan kosmetik, perdagangan umum, jasa pengangkutan, serta percetakan, pihaknya ingin menata ulang dan mengoptimalkan strategi bisnis demi efisiensi operasional dan daya saing. Alasan lain yang disebutkan adalah sahamnya memang tidak diperdagangkan secara aktif di BEI sehingga likuiditasnya terbatas, dan perseroan menyatakan tidak memiliki rencana untuk mencari pendanaan lewat penerbitan saham baru di pasar modal dalam waktu dekat.",
+   "Dalam dokumen yang ditandatangani Direktur Utama Masanobu Ojima, perseroan menegaskan akan mematuhi ketentuan BEI dan OJK dalam melaksanakan rencana ini, dan keterbukaan informasi ini diterbitkan untuk memenuhi ketentuan III.3.2.1 Peraturan BEI Nomor I-N tentang Pembatalan Pencatatan (Delisting) dan Pencatatan Kembali (Relisting). Perseroan menyatakan tidak ada dampak dari suspensi dan rencana delisting ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Workers inspecting rows of plastic bottle caps and containers moving along an industrial packaging production line, factory floor lighting",
+  "takeaway": "Nilai laporan ini netral bagi fundamental IGAR, karena perseroan sendiri menegaskan tidak ada dampak terhadap operasional, kondisi keuangan, atau kelangsungan usahanya, dan alasan go private lebih soal fleksibilitas pengambilan keputusan ketimbang masalah kinerja. Yang tersentuh bukan laporan laba atau arus kas, melainkan status pencatatan di bursa dan jumlah saham yang beredar di publik, sebab begitu proses delisting tuntas, saham IGAR tidak lagi bisa diperjualbelikan di pasar reguler BEI sehingga pemegang saham publik kehilangan jalur jual beli yang likuid. Perlu diingat, perseroan memang mengakui sahamnya memang sudah jarang ditransaksikan, sehingga likuiditas yang hilang itu secara praktik sudah lebih dulu terbatas. Yang perlu dipantau selanjutnya adalah kelanjutan proses delisting sesuai Peraturan BEI Nomor I-N yang disebut dalam surat ini, termasuk apakah ada pengumuman lanjutan soal mekanisme bagi pemegang saham publik untuk keluar dari investasinya, karena dokumen ini belum mencantumkan tanggal atau tenggat pasti untuk tahap berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "untr-panggil-rupslb-tarik-saham-treasuri-dan-ganti-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Panggil RUPSLB, Tarik Saham [Treasuri] dan Ganti Komisaris",
+  "deck": "UNTR memanggil RUPSLB pada 9 November 2026 untuk menyetujui penghapusan saham hasil pembelian kembali dan perubahan susunan komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T10:48:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/16d6b67a75_056f73c60d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "RUPSLB",
+   "buyback saham",
+   "komisaris"
+  ],
+  "body": [
+   "PT United Tractors Tbk (UNTR) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan diselenggarakan Senin, 9 November 2026 pukul 09.00 WIB di United Tractors Grand Ballroom, Jl Raya Bekasi Km 22, Cakung Barat, Jakarta Timur. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 15 Oktober 2026 pada penutupan perdagangan berhak hadir atau mengirim kuasa dalam rapat ini. Rapat membawa tiga agenda, yaitu perubahan susunan anggota Dewan Komisaris, persetujuan pengurangan modal dengan menarik kembali saham hasil pembelian kembali perusahaan, dan perubahan Pasal 4 ayat (2) Anggaran Dasar terkait modal ditempatkan dan disetor.",
+   "Soal agenda penarikan saham, perusahaan menjelaskan bahwa buyback dilakukan dalam dua periode, yaitu Juli 2022 sampai Januari 2023, dan Oktober 2025 sampai Juni 2026. Setelah masa pengalihan saham treasuri tersebut berakhir, UNTR berniat menghapus saham-saham itu secara permanen lewat mekanisme pengurangan modal ditempatkan dan disetor perusahaan, sesuai Pasal 21 huruf b juncto Pasal 22 ayat (1) POJK 29/2023 tentang Pembelian Kembali Saham. Konsekuensinya, Pasal 4 ayat (2) Anggaran Dasar yang mencantumkan besaran modal ditempatkan dan disetor juga harus diubah, dan perubahan Anggaran Dasar menurut UU Perseroan Terbatas memang wajib disetujui RUPS. Dokumen tidak menyebut berapa lembar saham yang akan dihapus maupun siapa kandidat komisaris baru, karena rincian itu disebut tersedia dalam bahan rapat dan riwayat hidup calon komisaris di situs resmi perusahaan.",
+   "Bagi pemegang saham yang ingin memberi kuasa, dokumen pemanggilan mencantumkan tenggat penyerahan surat kuasa asli ke Biro Administrasi Efek, PT Raya Saham Registra, paling lambat 6 November 2026 pukul 16.00 WIB, satu hari kerja sebelum rapat. Pemegang saham yang ingin hadir secara elektronik lewat sistem eASY.KSEI juga harus mendaftar paling lambat 6 November 2026 pukul 12.00 WIB. Kapasitas kehadiran fisik di lokasi rapat dibatasi maksimal 300 orang berdasarkan prinsip siapa cepat dia dapat."
+  ],
+  "fotoAdegan": "Rows of large yellow heavy equipment machines parked in an industrial storage yard, overcast afternoon light, wide angle",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham, karena menghapus permanen saham hasil pembelian kembali berarti saham itu tidak akan pernah dilepas lagi ke pasar di kemudian hari, sehingga jumlah saham yang beredar justru menyusut tanpa ada uang kas baru yang keluar dari perusahaan. Yang tersentuh di sini adalah jumlah saham beredar dan laba per saham, karena begitu saham yang beredar lebih sedikit, laba bersih perusahaan yang sama akan terbagi untuk saham yang lebih sedikit sehingga porsi laba tiap saham cenderung naik, sementara ekuitas tidak banyak bergeser karena dana pembelian kembali sudah keluar dari kas sejak proses buyback berlangsung. Yang perlu dipantau berikutnya adalah hasil pemungutan suara pada RUPSLB 9 November 2026, termasuk angka pasti saham yang akhirnya ditarik dan nama-nama komisaris baru yang akan disahkan, serta tenggat penyerahan kuasa pada 6 November 2026 pukul 16.00 WIB bagi pemegang saham yang tidak bisa hadir langsung.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "untd-gelar-rupslb-9-november-agendakan-pergantian-direksi",
+  "category": "Aksi Korporasi",
+  "title": "UNTD Gelar RUPSLB 9 November, Agendakan [Pergantian] Direksi",
+  "deck": "RUPSLB PT Terang Dunia Internusa pada 9 November 2026 membahas perubahan anggaran dasar, kemungkinan pergantian direksi-komisaris, gaji 2026, dan laporan realisasi dana IPO.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T08:53:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24fb0d2383_0fc51997a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTD",
+  "tags": [
+   "UNTD",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Terang Dunia Internusa Tbk (UNTD) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 9 November 2026, pukul 10.00 WIB, di United Building Grand Hall Lantai 2, Jalan Boulevard Alam Sutera No. 12A, Serpong Utara, Tangerang Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Rabu, 15 Oktober 2026 pukul 16.00 WIB. Rapat bisa diikuti secara fisik atau elektronik lewat aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia.",
+   "Ada lima agenda yang diajukan direksi. Pertama, mengubah Pasal 3 Anggaran Dasar soal maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan klasifikasi usaha baru dari Badan Pusat Statistik (KBLI 2025). Kedua dan ketiga, persetujuan pengangkatan kembali atau perubahan susunan Direksi dan Dewan Komisaris, namun dokumen ini belum menyebut nama calon pengganti. Keempat, penetapan gaji, honorarium, dan tunjangan Direksi serta Dewan Komisaris untuk tahun buku 2026. Kelima, persetujuan laporan realisasi penggunaan dana hasil penawaran umum perseroan, sesuai aturan Otoritas Jasa Keuangan No. 30/POJK.04/2015, meski dokumen pemanggilan ini belum merinci angka realisasi dananya.",
+   "Bagi pemegang saham yang ingin memberi kuasa secara tertulis, formulir harus disampaikan ke Biro Administrasi Efek, PT Adimitra Jasa Korpora, paling lambat Jumat, 3 November 2026 pukul 16.00 WIB. Sementara deklarasi kehadiran atau pemberian kuasa elektronik melalui eASY.KSEI dibuka sejak tanggal pemanggilan ini sampai 8 November 2026 pukul 12.00 WIB. Pendaftaran bagi yang hadir fisik ditutup pukul 09.30 WIB pada hari rapat, dan yang datang setelah itu dianggap tidak hadir sehingga tidak bisa mengajukan usul atau memberi suara."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a modern conference hall before a corporate meeting, soft morning light through tall windows",
+  "takeaway": "Pemanggilan ini condong netral bagi UNTD, sebab isinya seputar administrasi tata kelola, yakni penyesuaian klasifikasi usaha dan kemungkinan rotasi pengurus, tanpa indikasi perubahan permodalan atau transaksi besar yang mengubah fundamental perusahaan. Pos yang tersentuh ada di sisi tata kelola dan beban operasional, karena pergantian direksi-komisaris bisa mengubah arah strategi, sementara penetapan gaji tahun 2026 berpengaruh ke beban perseroan, bukan ke arus kas atau jumlah saham beredar karena RUPSLB ini hanya mengesahkan ulang laporan dana lama, tidak menghimpun dana segar. Yang perlu dipantau adalah hasil rapat pada 9 November 2026, terutama apakah ada nama baru yang masuk ke Direksi atau Dewan Komisaris dan isi laporan realisasi dana IPO yang baru akan terungkap detailnya setelah disetujui pemegang saham. Pemegang saham yang ingin ikut menentukan hasil itu harus mendaftar lewat eASY.KSEI paling lambat 8 November 2026 pukul 12.00 WIB atau mengirim surat kuasa tertulis ke BAE sebelum 3 November 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tbig-obligasi-rp2-37-triliun-tercatat-di-bei-16-oktober",
   "category": "Aksi Korporasi",
   "title": "TBIG [Obligasi] Rp2,37 Triliun Tercatat di BEI 16 Oktober",

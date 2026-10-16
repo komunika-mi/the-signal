@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "igar-disuspensi-bei-champion-pacific-ajukan-go-private",
+  "category": "Aksi Korporasi",
+  "title": "IGAR Disuspensi BEI, Champion Pacific Ajukan [Go Private]",
+  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham IGAR sejak sesi pertama Jumat, 16 Oktober 2026, menyusul permohonan delisting untuk berubah status menjadi perusahaan tertutup.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IGAR",
+   "delisting",
+   "go private",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/550ec342db_90121731c0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untr-panggil-rupslb-tarik-saham-treasuri-dan-ganti-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Panggil RUPSLB, Tarik Saham [Treasuri] dan Ganti Komisaris",
+  "deck": "UNTR memanggil RUPSLB pada 9 November 2026 untuk menyetujui penghapusan saham hasil pembelian kembali dan perubahan susunan komisaris.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "RUPSLB",
+   "buyback saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/16d6b67a75_056f73c60d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untd-gelar-rupslb-9-november-agendakan-pergantian-direksi",
+  "category": "Aksi Korporasi",
+  "title": "UNTD Gelar RUPSLB 9 November, Agendakan [Pergantian] Direksi",
+  "deck": "RUPSLB PT Terang Dunia Internusa pada 9 November 2026 membahas perubahan anggaran dasar, kemungkinan pergantian direksi-komisaris, gaji 2026, dan laporan realisasi dana IPO.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTD",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24fb0d2383_0fc51997a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tbig-obligasi-rp2-37-triliun-tercatat-di-bei-16-oktober",
   "category": "Aksi Korporasi",
   "title": "TBIG [Obligasi] Rp2,37 Triliun Tercatat di BEI 16 Oktober",
@@ -6462,54 +6510,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-7699-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "drma-komisaris-lepas-143-300-saham-divestment",
-  "category": "Aksi Korporasi",
-  "title": "DRMA: Komisaris Lepas 143.300 Saham [Divestment]",
-  "deck": "Komisaris DRMA, Noel Aelyo Laras Kusuma Negara, melepas 143.300 saham secara tidak langsung dalam empat transaksi pada 2-5 Oktober 2026, hak suaranya turun dari 1,80% menjadi 1,79%.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DRMA",
-   "kepemilikan saham",
-   "komisaris",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-1970-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "koci-habiskan-dana-rp6-99-miliar-dari-konversi-waran-seri-i",
-  "category": "Aksi Korporasi",
-  "title": "KOCI Habiskan Dana Rp6,99 Miliar dari Konversi [Waran] Seri I",
-  "deck": "PT Kokoh Exa Nusantara melaporkan ke OJK bahwa seluruh Rp6,99 miliar dana dari konversi Waran Seri I sudah terpakai untuk modal kerja dan pembangunan proyek.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOCI",
-   "waran",
-   "penggunaan dana",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8b0f600d24_fed506f7d6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-sots-turun-2-38-saat-volume-transaksi-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "Saham SOTS Turun 2,38% Saat Volume Transaksi [Melonjak]",
-  "deck": "BEI minta penjelasan setelah saham Satria Mega Kencana ditutup turun ke Rp615 pada 6 Oktober 2026, dengan volume dan frekuensi transaksi naik tajam dari hari sebelumnya.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOTS",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/83aa5093a5_3d76890b17.pdf",
   "sourceLabel": "IDX"
  }
 ];

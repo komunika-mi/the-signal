@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-resmikan-kilang-lpg-cilamaya-kapasitas-160-ton-hari",
+  "category": "Energi",
+  "title": "ESDM Resmikan Kilang LPG Cilamaya, Kapasitas [160] Ton/Hari",
+  "deck": "Kilang LPG Cilamaya di Karawang resmi beroperasi dengan kapasitas 160 ton per hari, menambah pasokan domestik di tengah tingginya impor LPG nasional.",
+  "image": "assets/img/esdm-resmikan-kilang-lpg-cilamaya-kapasitas-160-ton-hari.jpg",
+  "date": "17 Oktober 2026",
+  "isoDate": "2026-10-17T02:23:25+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473448-hadapi-geopolitik-global-menteri-esdm-resmikan-kilang-lpg-cilamaya-berkapasitas-160-ton-per-hari",
+  "tags": [
+   "LPG",
+   "Kilang Gas",
+   "ESDM",
+   "Impor Energi"
+  ],
+  "body": [
+   "Menteri Energi dan Sumber Daya Mineral yang juga Menteri Koordinator Bidang Hilirisasi dan Transisi Energi, Bahlil Lahadalia, meresmikan Kilang LPG Cilamaya di Karawang, Jawa Barat, pada Kamis, 15 Oktober 2026. Peresmian ini menjadi penanda bertambahnya satu lagi fasilitas pengolahan LPG dalam negeri, di tengah kondisi Indonesia yang masih sangat bergantung pada impor untuk memenuhi kebutuhan gas rumah tangga dan industri.",
+   "Secara nasional, konsumsi LPG Indonesia mencapai sekitar 8,5 juta ton per tahun, dan angka itu bisa naik menjadi 11 hingga 12 juta ton jika kebutuhan industri turut dihitung. Produksi dari dalam negeri sendiri baru sekitar 1,8 juta ton per tahun, sehingga sebagian besar kebutuhan tetap harus didatangkan dari luar negeri. Kesenjangan ini yang membuat Indonesia rentan setiap kali pasokan atau harga LPG global bergejolak akibat konflik geopolitik.",
+   "Kilang Cilamaya, yang dikelola PT Energi Nusantara Perkasa bersama Pertamina, mampu mengolah gas hingga 40 juta kaki kubik standar per hari dan menghasilkan LPG sebanyak 160 ton per hari, atau sekitar 52.800 ton per tahun. Pasokan gasnya berasal dari lapangan Offshore North West Java. Menurut Bahlil, volume produksi ini setara dengan sekitar 18,7 juta tabung gas melon 3 kilogram per tahun, dan berpotensi menutup 10 hingga 15 persen kebutuhan LPG di Jawa Barat dan DKI Jakarta.",
+   "Selain LPG, kilang ini juga menghasilkan kondensat sebanyak 320 barel per hari atau sekitar 105.600 barel per tahun. Sementara gas sisa pengolahan, yang disebut lean gas, dikembalikan ke PT Pertamina Hulu Energi Offshore North West Java untuk dimanfaatkan kembali."
+  ],
+  "fotoAdegan": "Industrial gas processing plant with steel pipelines and silver storage tanks, technicians in safety vests inspecting valves, overcast coastal sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/17/6ad27924d4542-hadapi-geopolitik-global-menteri-esdm-resmikan-kilang-lpg-cilamaya-berkapasitas-160-ton-per-hari_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah tambahan produksi LPG dalam negeri sebesar 160 ton per hari, atau 52.800 ton setahun, yang menurut Bahlil bisa menutup 10 sampai 15 persen kebutuhan gas melon di Jawa Barat dan DKI Jakarta. Yang langsung terdampak adalah rumah tangga dan usaha kecil pemakai tabung 3 kilogram di dua wilayah itu, karena produksi tambahan ini setara sekitar 18,7 juta tabung per tahun, serta Pertamina dan PT Energi Nusantara Perkasa sebagai pengelola kilang. Tapi jika dibandingkan kebutuhan LPG nasional yang sekitar 8,5 juta ton per tahun, tambahan dari kilang ini masih kurang dari satu persen, jauh dari cukup untuk mengubah pola impor besar yang masih menutup sebagian besar kebutuhan domestik. Ini menunjukkan arah penambahan pasokan lewat proyek-proyek kecil berbasis lapangan gas yang sudah ada, bukan lompatan besar yang segera mengurangi impor, dan yang akan memperjelas apakah pola ini berlanjut adalah ada tidaknya kilang sejenis yang menyusul di lapangan gas lain serta data impor LPG pada periode berikutnya.",
+  "imageV": "mvbhu4ao"
+ },
+ {
   "slug": "stok-bbm-nasional-aman-distribusi-ke-bali-diperkuat",
   "category": "Energi",
   "title": "Stok BBM Nasional Aman, Distribusi ke [Bali] Diperkuat",
@@ -136,7 +163,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret: tenggat wajib sertifikat halal untuk jasa makanan, minuman, dan hasil sembelihan mundur dua tahun dari 18 Oktober 2026 ke 18 Oktober 2028, dan beberapa kategori lain seperti kosmetik, suplemen kesehatan, serta obat herbal yang tadinya bertenggat 2026 ikut diperpanjang sampai 17 Oktober 2028. Yang langsung terdampak adalah pelaku usaha mikro dan kecil serta importir produk makanan dan kosmetik, karena merekalah yang paling membutuhkan waktu tambahan untuk mengurus sertifikasi. Hal yang patut dicatat, pengumuman ini keluar hanya dua hari sebelum tenggat lama semestinya berlaku, menandakan ekosistem sertifikasi, mulai dari lembaga pemeriksa sampai kapasitas BPJPH, belum siap menampung kewajiban itu untuk jutaan pelaku usaha sekaligus. Pola ini mengarah pada penundaan bertahap yang menyesuaikan kesiapan di lapangan, bukan penerapan penuh sesuai tanggal yang sudah dipatok sebelumnya. Yang akan memastikan arah ini adalah apakah Peraturan Pemerintah perubahan tersebut benar-benar terbit dan resmi diundangkan sebelum 18 Oktober 2026, sebab sejauh ini baru disosialisasikan dan belum dipastikan sudah berlaku secara hukum.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "transaksi-dagang-pakai-mata-uang-lokal-tembus-us-49-42-miliar",

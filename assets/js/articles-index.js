@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-resmikan-kilang-lpg-cilamaya-kapasitas-160-ton-hari",
+  "category": "Energi",
+  "title": "ESDM Resmikan Kilang LPG Cilamaya, Kapasitas [160] Ton/Hari",
+  "deck": "Kilang LPG Cilamaya di Karawang resmi beroperasi dengan kapasitas 160 ton per hari, menambah pasokan domestik di tengah tingginya impor LPG nasional.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/esdm-resmikan-kilang-lpg-cilamaya-kapasitas-160-ton-hari.jpg",
+  "imageV": "mvbhu4ao",
+  "tags": [
+   "LPG",
+   "Kilang Gas",
+   "ESDM",
+   "Impor Energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473448-hadapi-geopolitik-global-menteri-esdm-resmikan-kilang-lpg-cilamaya-berkapasitas-160-ton-per-hari"
+ },
+ {
   "slug": "stok-bbm-nasional-aman-distribusi-ke-bali-diperkuat",
   "category": "Energi",
   "title": "Stok BBM Nasional Aman, Distribusi ke [Bali] Diperkuat",
@@ -6519,22 +6536,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/abbe9354ff_2b801db372.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-revisi-realisasi-dana-right-issue-rp6-08-t-koreksi",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Revisi Realisasi Dana Right Issue Rp6,08 T [Koreksi]",
-  "deck": "WIKA mengoreksi laporan realisasi dana hasil rights issue 2024 menyusul tinjauan OJK, menyisakan Rp1,67 miliar yang ditargetkan habis kuartal IV 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "rights issue",
-   "penggunaan dana",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b5fdd05840_188ece442e.pdf",
   "sourceLabel": "IDX"
  }
 ];

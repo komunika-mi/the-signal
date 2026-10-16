@@ -39,6 +39,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "mdka-rilis-obligasi-tahap-iv-rp4-12-triliun-lunasi-utang-dolar",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Rilis [Obligasi] Tahap IV Rp4,12 Triliun, Lunasi Utang Dolar",
+  "deck": "MDKA menerbitkan obligasi tahap IV senilai Rp4,12 triliun dari program Rp15 triliun untuk melunasi fasilitas kredit dolar AS senilai US$195 juta dan sebagian obligasi IV yang jatuh tempo Desember.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKA",
+   "obligasi",
+   "refinancing utang",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/564d0c24cb_f1df47582d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "igar-disuspensi-bei-champion-pacific-ajukan-go-private",
   "category": "Aksi Korporasi",
   "title": "IGAR Disuspensi BEI, Champion Pacific Ajukan [Go Private]",
@@ -6498,22 +6514,6 @@ var ARTICLES = [
    "Jaya Trishindo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-0522-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdki-proyek-pabrik-ferro-silica-dan-cilegon-tertunda",
-  "category": "Aksi Korporasi",
-  "title": "MDKI: Proyek Pabrik Ferro Silica dan Cilegon [Tertunda]",
-  "deck": "Emdeki Utama (MDKI) melaporkan proyek pabrik ferro silica dan carbide desulphuriser Cilegon masih tertunda, sementara sisa dana IPO Rp62,98 miliar tersimpan di deposito berbunga 4,5 persen.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDKI",
-   "penggunaan dana IPO",
-   "ferro silica",
-   "carbide desulphuriser"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcd93b308d_0a2f63c2b7.pdf",
   "sourceLabel": "IDX"
  }
 ];

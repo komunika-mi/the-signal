@@ -58,6 +58,32 @@ var ARTICLES = [
   "takeaway": "Yang berubah di sini adalah posisi satu UMKM kosmetik Aceh yang naik kelas: dari pemain lokal menjadi peserta tetap pameran dagang internasional, dengan modal sertifikasi BPOM dan kapasitas produksi 10.000 produk per bulan. Yang terdampak langsung adalah petani kopi gayo, kemiri, dan cengkeh di Aceh serta pemasok bahan dari Kerinci, Jawa, Halmahera, dan Bali, karena permintaan bahan baku mereka ikut bergantung pada laju ekspansi pasar Yagi Forest. Berita ini belum menyebut satu pun nilai kontrak, kesepakatan distribusi, atau target transaksi dari TEI maupun tiga pameran sebelumnya, jadi belum bisa dipastikan apakah rangkaian pameran ini sudah menghasilkan penjualan nyata atau masih tahap perkenalan pasar. Yang perlu ditunggu adalah pengumuman hasil transaksi atau kerja sama dagang resmi dari penyelenggara TEI setelah acara selesai, karena itu baru akan menunjukkan apakah strategi pameran berjenjang ini benar-benar membuka pasar ekspor atau sekadar menambah jam terbang promosi."
  },
  {
+  "slug": "mdka-rilis-obligasi-tahap-iv-rp4-12-triliun-lunasi-utang-dolar",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Rilis [Obligasi] Tahap IV Rp4,12 Triliun, Lunasi Utang Dolar",
+  "deck": "MDKA menerbitkan obligasi tahap IV senilai Rp4,12 triliun dari program Rp15 triliun untuk melunasi fasilitas kredit dolar AS senilai US$195 juta dan sebagian obligasi IV yang jatuh tempo Desember.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T11:09:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/564d0c24cb_f1df47582d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKA",
+  "tags": [
+   "MDKA",
+   "obligasi",
+   "refinancing utang",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Merdeka Copper Gold Tbk (MDKA) menyampaikan informasi tambahan dan perbaikan atas dokumen penawaran umum Obligasi Berkelanjutan V Tahap IV Tahun 2026, yang sebelumnya dipublikasikan pada 2 Oktober 2026. Dalam tahap ini, perseroan menerbitkan obligasi dengan jumlah pokok Rp4.119.180.000.000, bagian dari program obligasi berkelanjutan bertarget total Rp15 triliun yang sejauh ini sudah terserap Rp6.100.520.000.000 pada tahap-tahap sebelumnya. Obligasi tahap IV ini terbagi dua seri, yaitu Seri A senilai Rp1.806.015.000.000 dengan bunga tetap 8,25 persen per tahun dan jangka waktu 367 hari kalender sejak tanggal emisi, serta Seri B senilai Rp2.313.165.000.000 dengan bunga tetap 10,00 persen per tahun dan tenor tiga tahun. Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 20 Januari 2027, dan pelunasan penuh sekaligus bunga terakhir pada 27 Oktober 2027 untuk Seri A serta 20 Oktober 2029 untuk Seri B.",
+   "Lembaga pemeringkat Pefindo memberi peringkat idA+ untuk obligasi ini. Masa penawaran berlangsung 16 Oktober 2026, tanggal penjatahan 19 Oktober 2026, pengembalian uang pemesanan dan distribusi elektronik obligasi pada 20 Oktober 2026, serta pencatatan di Bursa Efek Indonesia pada 21 Oktober 2026. Penjamin pelaksana emisi terdiri dari PT Indo Premier Sekuritas, PT Sucor Sekuritas, PT Aldiracita Sekuritas Indonesia, PT Trimegah Sekuritas Indonesia Tbk, dan PT BCA Sekuritas, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat yang mewakili kepentingan pemegang obligasi.",
+   "Seluruh dana hasil penawaran, setelah dikurangi biaya emisi, dipakai untuk dua keperluan. Sebesar US$195 juta, setara Rp3.486 miliar menggunakan kurs tengah Bank Indonesia per 1 Oktober 2026 sebesar Rp17.877 per dolar AS, digunakan untuk melunasi seluruh pokok utang dalam Perjanjian Fasilitas Kredit Bergulir yang diteken 13 Juni 2025 dan jatuh tempo 27 Oktober 2026. Kreditur fasilitas ini antara lain Crédit Agricole Corporate and Investment Bank cabang Singapura, Oversea-Chinese Banking Corporation, PT Bank KEB Hana Indonesia, PT Bank Mizuho Indonesia, PT Bank OCBC NISP Tbk, PT Bank UOB Indonesia, dan The Korea Development Bank cabang Singapura, dengan PT Bank UOB Indonesia bertindak sebagai agen. Sisa dana sebesar Rp614,9 miliar digunakan untuk mendanai sebagian pelunasan pokok Obligasi Berkelanjutan IV Tahap IV Tahun 2023 Seri B yang jatuh tempo 15 Desember 2026. Perseroan juga terikat menjaga rasio utang neto konsolidasian terhadap EBITDA konsolidasian tidak lebih dari 5 banding 1 selama obligasi ini belum lunas."
+  ],
+  "fotoAdegan": "Excavators loading ore onto large haul trucks at a tropical open-pit mine, dust haze under bright morning sun",
+  "takeaway": "Laporan ini saya nilai netral bagi MDKA, karena isinya adalah pengalihan utang lama ke utang baru, bukan ekspansi usaha atau tambahan dana segar untuk proyek. Pos yang tersentuh adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjamannya. Pinjaman dolar AS yang bunganya biasanya mengambang kini diganti obligasi rupiah berbunga tetap 8,25 sampai 10 persen per tahun, yang menghilangkan risiko kurs tapi menetapkan biaya pinjaman di level yang cukup tinggi untuk jangka waktu sampai tiga tahun. Total obligasi yang sudah ditarik dari program Rp15 triliun ini kini mencapai Rp10,22 triliun, sehingga beban utang perseroan ke depan tetap besar meski jatuh temponya tersebar. Yang perlu dipantau adalah tanggal penjatahan 19 Oktober 2026 dan pencatatan di Bursa Efek Indonesia pada 21 Oktober 2026, serta apakah dana ini benar terpakai tepat waktu untuk melunasi fasilitas kredit yang jatuh tempo 27 Oktober 2026 dan obligasi lama yang jatuh tempo 15 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "igar-disuspensi-bei-champion-pacific-ajukan-go-private",
   "category": "Aksi Korporasi",
   "title": "IGAR Disuspensi BEI, Champion Pacific Ajukan [Go Private]",

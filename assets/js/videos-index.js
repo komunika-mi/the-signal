@@ -4,6 +4,46 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "xuzmTz84OEs",
+  "title": "IHSG Longsor 10 Persen, Puluhan Saham Terjun Bebas",
+  "category": "Pasar Modal",
+  "program": "OneNews Update",
+  "summary": "Indeks Harga Saham Gabungan ambles 630,77 poin atau 10,76 persen ke level 5.233 pada sesi pertama perdagangan Jumat, 16 Oktober 2026, memicu kepanikan di lantai bursa.",
+  "takeaway": "Penurunan tajam IHSG ini penting dipantau investor dan pelaku pasar sebagai sinyal risiko di pasar modal domestik."
+ },
+ {
+  "id": "qCENNhCdOkg",
+  "title": "Coca-Cola Foundation Kembangkan Embung Doho di Wonogiri",
+  "category": "UMKM",
+  "program": "AKIS",
+  "summary": "Coca-Cola Foundation mendukung pengembangan Embung Doho di Wonogiri, Jawa Tengah, melalui inovasi panel surya dan program pengembangan usaha mikro, kecil, dan menengah.",
+  "takeaway": "Program ini relevan bagi pembaca yang mengikuti pemberdayaan UMKM melalui dukungan sektor swasta."
+ },
+ {
+  "id": "q_wsL7VSoas",
+  "title": "Menko Bahlil Ungkap Stok BBM Nasional",
+  "category": "Energi",
+  "program": "AKIS",
+  "summary": "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia menyebut stok BBM nasional saat ini berada di kisaran 16 hingga 18 hari berdasarkan laporan Pertamina.",
+  "takeaway": "Data ketahanan stok BBM ini penting bagi pembaca untuk menilai keamanan pasokan energi nasional."
+ },
+ {
+  "id": "Ih9I7mQQBJM",
+  "title": "China Olah Sampah Jadi Energi Listrik",
+  "category": "Energi",
+  "program": "Kabar Siang",
+  "summary": "China mengembangkan teknologi pengolahan sampah menjadi energi listrik atau waste-to-energy untuk menekan volume sampah sekaligus menambah pasokan listrik.",
+  "takeaway": "Inovasi ini jadi referensi bagi pembaca yang mengikuti perkembangan industri energi alternatif global."
+ },
+ {
+  "id": "ZHUFtyJrWJY",
+  "title": "Garis Batas: Melindungi Pekerja, Menjaga Dunia Usaha",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Siang",
+  "summary": "DPR RI menyoroti penguatan perlindungan tenaga kerja di tengah perkembangan ekonomi digital, mencakup hak pekerja formal, informal, hingga ojol dan kurir.",
+  "takeaway": "Pembahasan regulasi ini relevan bagi pembaca yang memantau dampak ekonomi digital terhadap dunia kerja."
+ },
+ {
   "id": "grhUTvnKwFQ",
   "title": "Danantara Luncurkan Program Kesehatan, Pendidikan, dan Sanitasi",
   "category": "BUMN",
@@ -442,45 +482,5 @@ var VIDEOS = [
   "program": "Breaking News",
   "summary": "Presiden Prabowo Subianto menegaskan optimisme atas perekonomian Indonesia bersamaan dengan peluncuran ekspor perdana baterai kendaraan listrik dan 11 proyek hilirisasi di Weda Bay.",
   "takeaway": "Pernyataan ini memberi konteks arah kebijakan ekonomi pemerintah di tengah sorotan terhadap kinerja hilirisasi nasional."
- },
- {
-  "id": "42CTial3mWc",
-  "title": "Setahun Koperasi Desa Merah Putih Kembang, Kulon Progo",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Koperasi Desa Merah Putih di Kalurahan Kembang, Kulon Progo, genap berjalan satu tahun dan disebut mendorong perputaran ekonomi di tingkat desa.",
-  "takeaway": "Menunjukkan perkembangan program koperasi desa sebagai instrumen penguatan ekonomi lokal yang relevan bagi pembaca yang mengikuti isu UMKM dan ekonomi daerah."
- },
- {
-  "id": "FxKglARxGhA",
-  "title": "Indonesia Dorong Tata Kelola Royalti Hak Cipta Lintas Negara",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah Indonesia mendorong tata kelola royalti hak cipta lintas negara dalam forum dialog global di Bali untuk melindungi hak ekonomi pencipta di era digital.",
-  "takeaway": "Tata kelola royalti lintas negara menyangkut aliran pendapatan pelaku industri kreatif dan digital, sehingga relevan bagi pembaca ekonomi."
- },
- {
-  "id": "48iGCj5wQvs",
-  "title": "Aturan Pesangon Tak Boleh Dikali 0,5, PHK Diperketat",
-  "category": "Ketenagakerjaan",
-  "program": "OneNews Update",
-  "summary": "Menteri Ketenagakerjaan Yassierli menegaskan perusahaan tidak bisa lagi sembarangan melakukan PHK, seiring aturan baru yang melarang pengali pesangon sebesar 0,5.",
-  "takeaway": "Perubahan aturan pesangon dan PHK berdampak langsung pada biaya tenaga kerja perusahaan dan kepastian hak pekerja."
- },
- {
-  "id": "kY583wYYspo",
-  "title": "Satu Tahun Koperasi Desa Merah Putih",
-  "category": "UMKM",
-  "program": "AKIP",
-  "summary": "Koperasi Desa/Kalurahan Merah Putih di Kabupaten Kulon Progo memasuki usia satu tahun, setelah diluncurkan Bupati Agung Setyawan pada Juli 2025 bertepatan dengan Hari Koperasi Nasional ke-78.",
-  "takeaway": "Perkembangan koperasi desa ini mencerminkan arah kebijakan penguatan ekonomi kerakyatan dan UMKM di tingkat desa yang patut dipantau pembaca."
- },
- {
-  "id": "4Zf2YtdtBM4",
-  "title": "Kadin Perkuat Dunia Usaha dengan Nilai Kebangsaan",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Kadin Indonesia bersama Lemhannas RI menggelar Program Pemantapan Nilai-Nilai Kebangsaan Angkatan ke-121 untuk memperkuat pemahaman pengusaha mengenai nilai kebangsaan dan posisi dunia usaha.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya memperkuat kapasitas dan wawasan kebangsaan pelaku usaha sebagai bagian dari ekosistem bisnis nasional."
  }
 ];

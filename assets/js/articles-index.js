@@ -5,6 +5,59 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta",
+  "category": "Bisnis",
+  "title": "14 Produsen Pangan RI Teken MoU Ekspor, Potensi [US$25,2 Juta]",
+  "deck": "Kemendag saksikan 14 produsen pangan Indonesia teken MoU dan LoI dengan importir dari lima negara dalam ajang TEI ke-41, dengan potensi transaksi US$25,2 juta.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
+  "imageV": "mvamv3v2",
+  "tags": [
+   "S'RASA",
+   "ekspor pangan",
+   "Trade Expo Indonesia",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-saksikan-mou-srasa-potensi-transaksi-capai-usd-252-juta",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "indonesia-jajaki-pasar-dagang-baru-ke-yunani-rusia-myanmar",
+  "category": "Global",
+  "title": "Indonesia [Jajaki] Pasar Dagang Baru ke Yunani, Rusia, Myanmar",
+  "deck": "Wakil Menteri Perdagangan Dyah Roro Esti menggelar pertemuan bilateral dengan Yunani, Rusia, dan Myanmar di sela TEI 2026 untuk membuka peluang pasar baru bagi produk Indonesia.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/indonesia-jajaki-pasar-dagang-baru-ke-yunani-rusia-myanmar.jpg",
+  "imageV": "mvamvfoq",
+  "tags": [
+   "TEI 2026",
+   "Kemendag",
+   "Perdagangan Bilateral",
+   "Ekspor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-perkuat-kerja-sama-dagang-dengan-yunani-rusia-dan-myanmar-di-tei-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pegadaian-raih-dua-penghargaan-in-house-counsel-2026",
+  "category": "BUMN",
+  "title": "Pegadaian [Raih] Dua Penghargaan In-House Counsel 2026",
+  "deck": "Divisi Legal Pegadaian dan kepalanya meraih dua penghargaan di Indonesia In-House Counsel Awards 2026, hasil program pencegahan risiko hukum perusahaan.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/pegadaian-raih-dua-penghargaan-in-house-counsel-2026.jpg",
+  "imageV": "mvamvgba",
+  "tags": [
+   "Pegadaian",
+   "BUMN",
+   "Tata Kelola Perusahaan",
+   "Hukum Korporat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473328-pegadaian-raih-dua-penghargaan-di-indonesia-in-house-counsel-awards-2026"
+ },
+ {
   "slug": "dagang-ri-mozambik-naik-57-5-persen-tembus-us-162-8-juta",
   "category": "Global",
   "title": "Dagang RI-Mozambik Naik [57,5] Persen, Tembus US$162,8 Juta",
@@ -6467,53 +6520,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472074-tinjau-kspean-wanam-menteri-dody-pastikan-panen-perdana-dukung-visi-presiden-prabowo"
- },
- {
-  "slug": "tara-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "TARA Jelaskan ke BEI soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "BEI meminta TARA menjelaskan volatilitas transaksi sahamnya; manajemen menyatakan tidak mengetahui ada informasi material atau aktivitas pemegang saham tertentu yang memicunya.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TARA",
-   "UMA",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71bebf3ec4_0f32c49e09.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nick-direksi-jual-5-300-saham-hak-suara-tetap-0-04",
-  "category": "Aksi Korporasi",
-  "title": "NICK: Direksi [Jual] 5.300 Saham, Hak Suara Tetap 0,04%",
-  "deck": "Nicholas Santoso, direksi Charnic Capital, melepas 5.300 saham NICK pada 8 Oktober 2026. Porsi yang dijual kecil dan hak suaranya tidak berubah.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICK",
-   "Charnic Capital",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-2726-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "heli-alta-internasional-lepas-9-2-juta-saham-hak-suara-ke-14-9",
-  "category": "Aksi Korporasi",
-  "title": "HELI: Alta Internasional [Lepas] 9,2 Juta Saham, Hak Suara ke 14,9%",
-  "deck": "PT Alta Internasional Indonesia menjual 9,2 juta saham Jaya Trishindo Tbk (HELI) seharga Rp342 per saham untuk tujuan divestasi, hak suaranya turun dari 16% jadi 14,9%.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HELI",
-   "kepemilikan saham",
-   "divestasi",
-   "Jaya Trishindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09102026-0522-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

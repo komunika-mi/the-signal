@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta",
+  "category": "Bisnis",
+  "title": "14 Produsen Pangan RI Teken MoU Ekspor, Potensi [US$25,2 Juta]",
+  "deck": "Kemendag saksikan 14 produsen pangan Indonesia teken MoU dan LoI dengan importir dari lima negara dalam ajang TEI ke-41, dengan potensi transaksi US$25,2 juta.",
+  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T07:07:53.283Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-saksikan-mou-srasa-potensi-transaksi-capai-usd-252-juta",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "S'RASA",
+   "ekspor pangan",
+   "Trade Expo Indonesia",
+   "Kemendag"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso menyaksikan penandatanganan kesepakatan awal pembelian produk pangan Indonesia oleh 14 produsen bumbu, makanan, dan minuman lokal dengan importir dari lima negara, yaitu Belanda, Australia, Amerika Serikat, Inggris, dan Jepang. Kesepakatan ini berbentuk nota kesepahaman dan surat pernyataan minat yang ditandatangani di Paviliun S'RASA dalam ajang Trade Expo Indonesia ke-41 di ICE BSD City, Kabupaten Tangerang, Kamis (15/10). Menurut Kementerian Perdagangan, potensi nilai transaksi dari kesepakatan ini mencapai US$25,2 juta. Bagi produsen pangan lokal, ini membuka jalur baru untuk memasok restoran Indonesia di luar negeri sekaligus menjajaki pasar ekspor yang lebih luas di kelima negara tersebut.",
+   "Kesepakatan ini merupakan bagian dari Program S'RASA atau Rasa Rempah Indonesia, hasil kolaborasi Kementerian Perdagangan dengan Kementerian Luar Negeri, Kementerian Ekonomi Kreatif, Kementerian UMKM, dan Kementerian Pariwisata. Program ini dirancang untuk memperluas jaringan restoran Indonesia di luar negeri sebagai pintu masuk ekspor bumbu dan bahan pangan khas Indonesia. Mendag Budi Santoso mengatakan, ketika restoran Indonesia hadir di suatu negara, produk pendukung dan bahan bakunya diharapkan ikut terekspor ke sana.",
+   "Salah satu contoh konkret dari program ini adalah DBFOODS (PT Dua Banteng Internasional), yang mengikuti proses kurasi dan penjajakan bisnis secara daring sebelum TEI ke-41 digelar. Produk DBFOODS berhasil menarik minat importir dari Belanda dan berlanjut ke penandatanganan kontrak ekspor, dengan pendampingan Atase Perdagangan RI di Den Haag. Pendiri DBFOODS, Herry Kurniadi, menyebut dukungan program S'RASA membuka kesempatan bagi produknya untuk menjangkau pasar internasional."
+  ],
+  "fotoAdegan": "A wok of chicken curry simmering in dark soy sauce over an open flame, spice jars and chili arranged nearby, steam rising",
+  "fotoSumber": "https://www.kemendag.go.id/albums/jKp4Ljdot4re3ru3mhdYGYKQDbUEWICu7t0l1Qoa.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah konkret dari pengumuman ini adalah 14 produsen bumbu, makanan, dan minuman Indonesia mengikat kesepakatan awal, berupa nota kesepahaman dan surat minat, dengan importir dari Belanda, Australia, Amerika Serikat, Inggris, dan Jepang, dengan potensi transaksi US$25,2 juta. Yang terdampak adalah pelaku usaha pangan skala kecil dan menengah yang lolos kurasi program S'RASA, karena merekalah yang berpeluang memasok restoran Indonesia di lima negara itu. Namun dari 14 kesepakatan tersebut, baru satu yang disebut sudah berlanjut jadi kontrak ekspor riil, yaitu DBFOODS ke Belanda, sementara nota kesepahaman dan surat minat sendiri belum mengikat secara hukum. Ini menunjukkan program S'RASA masih di tahap menjaring minat ketimbang memastikan transaksi, sehingga arah sebenarnya baru akan terlihat dari berapa banyak di antara 14 kesepakatan ini yang benar-benar berubah jadi kontrak ekspor dalam beberapa bulan mendatang.",
+  "imageV": "mvamv3v2"
+ },
+ {
+  "slug": "indonesia-jajaki-pasar-dagang-baru-ke-yunani-rusia-myanmar",
+  "category": "Global",
+  "title": "Indonesia [Jajaki] Pasar Dagang Baru ke Yunani, Rusia, Myanmar",
+  "deck": "Wakil Menteri Perdagangan Dyah Roro Esti menggelar pertemuan bilateral dengan Yunani, Rusia, dan Myanmar di sela TEI 2026 untuk membuka peluang pasar baru bagi produk Indonesia.",
+  "image": "assets/img/indonesia-jajaki-pasar-dagang-baru-ke-yunani-rusia-myanmar.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T07:07:44.751Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-perkuat-kerja-sama-dagang-dengan-yunani-rusia-dan-myanmar-di-tei-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "TEI 2026",
+   "Kemendag",
+   "Perdagangan Bilateral",
+   "Ekspor"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri menggelar serangkaian pertemuan bilateral dengan pejabat dagang Yunani, Rusia, dan Myanmar di sela Trade Expo Indonesia (TEI) ke-41 yang berlangsung di ICE BSD City, Kabupaten Tangerang, Rabu (14/10). Pertemuan ini membahas perluasan akses pasar produk Indonesia serta penyelesaian sejumlah kendala perdagangan yang masih mengganjal pelaku usaha kedua belah pihak.",
+   "Dengan Wakil Menteri Luar Negeri Yunani Theoharis Theoharis, pembahasan mencakup peluang pasar bagi produk makanan dan minuman, pertanian, furnitur, kerajinan, serta manufaktur Indonesia, termasuk penguatan UMKM dan sektor ekonomi kreatif. Pihak Yunani sendiri menyambut rencana penandatanganan Indonesia-European Union Comprehensive Economic Partnership Agreement (CEPA) dalam waktu dekat, yang diharapkan ikut mengerek kinerja dagang kedua negara.",
+   "Dengan Rusia, pembicaraan menyentuh perkembangan perjanjian dagang bebas Indonesia dengan blok ekonomi Eurasia (EAEU) serta kerja sama di ritel, logistik, dan sistem pembayaran digital. Perwakilan jaringan ritel Rusia, X5 Retail Group, menyatakan minat menjajaki pasokan dari Indonesia untuk makanan olahan, mi, buah-buahan, dan produk perikanan, meski akses produk perikanan Indonesia ke Rusia masih terbentur urusan sertifikasi dan inspeksi yang perlu dikoordinasikan lebih lanjut.",
+   "Sementara dengan Myanmar, kedua pihak membahas potensi dagang beras khusus, kacang hijau, serta karet, sekaligus menyiapkan Pameran Indonesia Expo 2026 pada 30-31 Oktober di Yangon sebagai sarana promosi produk Indonesia. Di sisi lain, pemerintah Indonesia juga meminta bantuan Myanmar menyelesaikan kendala izin impor bahan baku, suku cadang, dan kemasan yang dihadapi perusahaan Indonesia yang beroperasi di sana, dengan Kedutaan Besar RI di Yangon disebut akan ikut mengoordinasikan penyelesaiannya."
+  ],
+  "fotoAdegan": "Trade exposition hall lined with booths displaying Indonesian seafood, processed food, and handicraft products for visiting buyers, bright daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/Hvk9uigVKk3dWX30l93mEQlkOP5PX7XgV4gdxE0o.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari rangkaian pertemuan ini baru sebatas penjajakan awal, belum ada kontrak dagang atau nilai transaksi yang disepakati. Pihak yang berpotensi terdampak adalah eksportir makanan, pertanian, furnitur, dan kerajinan yang membidik pasar Yunani, serta produsen makanan olahan dan perikanan yang berharap bisa memasok jaringan ritel Rusia X5 Retail Group. Di sisi lain, perusahaan Indonesia yang sudah beroperasi di Myanmar justru sedang menghadapi masalah izin impor bahan baku dan suku cadang yang mengganggu produksi mereka. Untuk melihat apakah pembicaraan ini akan berlanjut jadi kerja sama nyata, perlu dicermati apakah penandatanganan Indonesia-EU CEPA benar terjadi dalam waktu dekat seperti disampaikan pejabat Yunani, dan bagaimana hasil Pameran Indonesia Expo 2026 di Yangon pada 30-31 Oktober nanti.",
+  "imageV": "mvamvfoq"
+ },
+ {
+  "slug": "pegadaian-raih-dua-penghargaan-in-house-counsel-2026",
+  "category": "BUMN",
+  "title": "Pegadaian [Raih] Dua Penghargaan In-House Counsel 2026",
+  "deck": "Divisi Legal Pegadaian dan kepalanya meraih dua penghargaan di Indonesia In-House Counsel Awards 2026, hasil program pencegahan risiko hukum perusahaan.",
+  "image": "assets/img/pegadaian-raih-dua-penghargaan-in-house-counsel-2026.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T12:52:53+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473328-pegadaian-raih-dua-penghargaan-di-indonesia-in-house-counsel-awards-2026",
+  "tags": [
+   "Pegadaian",
+   "BUMN",
+   "Tata Kelola Perusahaan",
+   "Hukum Korporat"
+  ],
+  "body": [
+   "PT Pegadaian (Persero) membawa pulang dua penghargaan dari ajang Indonesia In-House Counsel Awards 2026 yang berlangsung pada 8-9 Oktober di Nusa Dua, Bali. Penghargaan pertama, Indonesia's Most Respected In-House Counsel 2026, diberikan kepada Kepala Divisi Legal Pegadaian, Teja Sukma Gumelar. Penghargaan kedua, Indonesia's Best Legal Prevention Program, diberikan kepada Pegadaian sebagai perusahaan atas program pencegahan risiko hukumnya.",
+   "Direktur Manajemen Risiko, Legal, dan Kepatuhan Pegadaian, Ismail Ilyas, mengatakan pencapaian ini menunjukkan fungsi legal perusahaan tidak lagi sekadar menangani masalah hukum yang sudah terjadi, tapi juga ikut mencegahnya sejak awal. Pendekatan ini menempatkan tim hukum sebagai bagian dari proses pengambilan keputusan bisnis, bukan hanya pemadam kebakaran saat muncul sengketa. Penghargaan Best Legal Prevention Program sendiri merupakan pencapaian baru bagi Pegadaian di ajang ini.",
+   "Secara konkret, pendekatan pencegahan itu diwujudkan lewat tiga program yang disebut dalam rilis perusahaan, yaitu Legal Risk Assessment yang mengacu pada standar internasional ISO 31022:2020, program pemantauan tren risiko hukum bernama ALERT, dan forum internal bernama LEXIS. Ajang penghargaan ini sendiri diselenggarakan oleh Hukumonline bersama Indonesian Corporate Counsel Association dan Asia Pacific Corporate Counsel Alliance, sebagai forum apresiasi bagi para praktisi hukum perusahaan di Indonesia.",
+   "Pegadaian menyebut langkah ini sejalan dengan semangat yang mereka namai 'Business Growth With Low Risk', seiring visi perusahaan menjadi pemain utama di ekosistem emas dan inklusi pertumbuhan digital."
+  ],
+  "fotoAdegan": "Clerk weighing gold jewelry at a busy pawnshop service counter, customers waiting on chairs, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/16/6ad1ba59d9a9b-pegadaian-raih-penghargaan-di-indonesia-in-house-counsel-awards-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan atau kebijakan, melainkan pengakuan eksternal atas cara Pegadaian mengelola fungsi hukumnya, lewat dua penghargaan dan tiga program kerja yang disebut, yaitu Legal Risk Assessment, ALERT, dan LEXIS. Dampaknya paling langsung terasa di internal perusahaan, terutama posisi divisi legal dan direksi manajemen risiko, bukan ke nasabah gadai atau pemegang saham secara langsung. Rilis ini tidak menyertakan angka konkret, misalnya berapa kasus hukum yang berhasil dicegah atau berapa potensi kerugian yang terselamatkan, sehingga belum bisa dibaca apakah penguatan fungsi legal ini terkait rencana bisnis besar seperti ekspansi ekosistem emas atau digital yang disebut di akhir rilis. Yang perlu dipantau adalah apakah Pegadaian merilis laporan tata kelola atau manajemen risiko tahunan yang memuat data konkret dari ketiga program tersebut, karena itu yang akan menunjukkan apakah pencegahan risiko hukum ini benar berdampak pada operasional, bukan sekadar pengakuan ajang penghargaan.",
+  "imageV": "mvamvgba"
+ },
+ {
   "slug": "dagang-ri-mozambik-naik-57-5-persen-tembus-us-162-8-juta",
   "category": "Global",
   "title": "Dagang RI-Mozambik Naik [57,5] Persen, Tembus US$162,8 Juta",

@@ -2,6 +2,51 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "xuzmTz84OEs",
+  "title": "IHSG Longsor 10 Persen, Puluhan Saham Terjun Bebas",
+  "category": "Pasar Modal",
+  "program": "OneNews Update",
+  "summary": "Indeks Harga Saham Gabungan ambles 630,77 poin atau 10,76 persen ke level 5.233 pada sesi pertama perdagangan Jumat, 16 Oktober 2026, memicu kepanikan di lantai bursa.",
+  "takeaway": "Penurunan tajam IHSG ini penting dipantau investor dan pelaku pasar sebagai sinyal risiko di pasar modal domestik.",
+  "terbit": "2026-10-16T07:00:30+00:00"
+ },
+ {
+  "id": "qCENNhCdOkg",
+  "title": "Coca-Cola Foundation Kembangkan Embung Doho di Wonogiri",
+  "category": "UMKM",
+  "program": "AKIS",
+  "summary": "Coca-Cola Foundation mendukung pengembangan Embung Doho di Wonogiri, Jawa Tengah, melalui inovasi panel surya dan program pengembangan usaha mikro, kecil, dan menengah.",
+  "takeaway": "Program ini relevan bagi pembaca yang mengikuti pemberdayaan UMKM melalui dukungan sektor swasta.",
+  "terbit": "2026-10-16T06:59:42+00:00"
+ },
+ {
+  "id": "q_wsL7VSoas",
+  "title": "Menko Bahlil Ungkap Stok BBM Nasional",
+  "category": "Energi",
+  "program": "AKIS",
+  "summary": "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia menyebut stok BBM nasional saat ini berada di kisaran 16 hingga 18 hari berdasarkan laporan Pertamina.",
+  "takeaway": "Data ketahanan stok BBM ini penting bagi pembaca untuk menilai keamanan pasokan energi nasional.",
+  "terbit": "2026-10-16T06:48:44+00:00"
+ },
+ {
+  "id": "Ih9I7mQQBJM",
+  "title": "China Olah Sampah Jadi Energi Listrik",
+  "category": "Energi",
+  "program": "Kabar Siang",
+  "summary": "China mengembangkan teknologi pengolahan sampah menjadi energi listrik atau waste-to-energy untuk menekan volume sampah sekaligus menambah pasokan listrik.",
+  "takeaway": "Inovasi ini jadi referensi bagi pembaca yang mengikuti perkembangan industri energi alternatif global.",
+  "terbit": "2026-10-16T05:50:24+00:00"
+ },
+ {
+  "id": "ZHUFtyJrWJY",
+  "title": "Garis Batas: Melindungi Pekerja, Menjaga Dunia Usaha",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Siang",
+  "summary": "DPR RI menyoroti penguatan perlindungan tenaga kerja di tengah perkembangan ekonomi digital, mencakup hak pekerja formal, informal, hingga ojol dan kurir.",
+  "takeaway": "Pembahasan regulasi ini relevan bagi pembaca yang memantau dampak ekonomi digital terhadap dunia kerja.",
+  "terbit": "2026-10-16T05:46:36+00:00"
+ },
+ {
   "id": "grhUTvnKwFQ",
   "title": "Danantara Luncurkan Program Kesehatan, Pendidikan, dan Sanitasi",
   "category": "BUMN",

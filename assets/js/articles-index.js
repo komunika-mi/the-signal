@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dagang-ri-rusia-naik-21-6-fta-eurasia-ditarget-rampung-2026",
+  "category": "Global",
+  "title": "Dagang RI-Rusia Naik 21,6%, FTA Eurasia Ditarget [Rampung] 2026",
+  "deck": "Menko Airlangga dan Deputi PM Rusia Denis Manturov membahas penguatan perdagangan bilateral yang naik 21,6 persen pada 2025, serta target ratifikasi FTA Indonesia-EAEU sebelum akhir 2026.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "Rusia",
+   "Perdagangan",
+   "FTA Eurasia",
+   "Airlangga Hartarto"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7162/terima-kunjungan-deputi-pertama-perdana-menteri-rusia-menko-airlangga-bahas-peluang-perdagangan-dan-kerja-sama-ekonomi-bilateral",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "esdm-resmikan-kilang-lpg-cilamaya-kapasitas-160-ton-hari",
   "category": "Energi",
   "title": "ESDM Resmikan Kilang LPG Cilamaya, Kapasitas [160] Ton/Hari",
@@ -1060,7 +1076,7 @@ var ARTICLES = [
   "title": "Indonesia Perkuat Kesiapan [Aksesi] ke Pakta CPTPP",
   "deck": "Kemenko Perekonomian menggelar workshop teknis bersama negara anggota CPTPP untuk mematangkan kesiapan Indonesia bergabung ke pakta dagang itu.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "CPTPP",
    "Kemenko Perekonomian",
@@ -1324,7 +1340,7 @@ var ARTICLES = [
   "title": "Ekspor RI ke Inggris Hadapi Skema Tarif [Baru] 2027",
   "deck": "Kemendag dan Inggris perkuat kerja sama dagang, sementara skema tarif ekspor Inggris untuk Indonesia akan berubah mulai Januari 2027.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "Indonesia-Inggris",
    "Ekspor",
@@ -1388,7 +1404,7 @@ var ARTICLES = [
   "title": "Wamendag Soroti Peran Swedia dalam [I-EU CEPA] di TEI 2026",
   "deck": "Wamendag Dyah Roro Esti menyoroti peran Swedia dalam I-EU CEPA di forum bisnis Trade Expo Indonesia 2026, dengan nilai dagang RI-Swedia mencapai US$872,2 juta pada 2025.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "I-EU CEPA",
    "Swedia",
@@ -3294,7 +3310,7 @@ var ARTICLES = [
   "title": "Pemerintah Pacu 3 [CEPA] Baru, Bidik Ekspor Sawit-Otomotif",
   "deck": "Pemerintah mendorong percepatan implementasi tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Eurasia agar manfaatnya benar-benar terasa pada ekspor sawit, otomotif, kopi, dan sejumlah komoditas lain.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -3393,7 +3409,7 @@ var ARTICLES = [
   "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
   "deck": "Pemerintah mendorong pemanfaatan nyata tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia yang menurut kajian Kemenko berpotensi menambah ekspor lebih dari US$14 miliar.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "ekspor",
    "perjanjian dagang",
@@ -3409,7 +3425,7 @@ var ARTICLES = [
   "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
   "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -6520,22 +6536,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/319244226d_75c014d2de.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sraj-pastikan-dana-obligasi-rp950-miliar-rampung-terserap",
-  "category": "Aksi Korporasi",
-  "title": "SRAJ Pastikan Dana Obligasi Rp950 Miliar [Rampung] Terserap",
-  "deck": "Revisi laporan ke OJK menunjukkan dana Rp950 miliar dari Obligasi I SRAJ 2022 sudah 100 persen terpakai untuk modal kerja, bangunan, dan peralatan di lima unit usaha.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRAJ",
-   "obligasi",
-   "penggunaan dana",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/abbe9354ff_2b801db372.pdf",
   "sourceLabel": "IDX"
  }
 ];

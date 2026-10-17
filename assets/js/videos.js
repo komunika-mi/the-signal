@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "1c_b-04FQ1c",
+  "title": "OJK Jatuhkan Sanksi ke 835 Pihak Atas Pelanggaran Pasar Modal",
+  "category": "Pasar Modal",
+  "program": "Kabar Pagi",
+  "summary": "Otoritas Jasa Keuangan mencatat 835 pihak terkena sanksi dan proses penegakan hukum sebagai bagian dari reformasi percepatan integritas pasar modal.",
+  "takeaway": "Data penegakan sanksi ini penting bagi investor untuk menilai arah pengawasan OJK terhadap integritas pasar modal Indonesia.",
+  "terbit": "2026-10-17T01:23:32+00:00"
+ },
+ {
+  "id": "6-rhkRnSqyc",
+  "title": "Melihat Pengolahan Sampah Jadi Energi Listrik",
+  "category": "Energi",
+  "program": "Kabar Pagi",
+  "summary": "Kunjungan ke sebuah perusahaan energi memperlihatkan bagaimana sampah yang selama ini dianggap masalah kini diolah menjadi listrik, termasuk pemanfaatan residunya.",
+  "takeaway": "Topik ini relevan bagi pembaca ekonomi karena menyangkut diversifikasi sumber energi dan efisiensi industri pengolahan sampah.",
+  "terbit": "2026-10-17T01:20:41+00:00"
+ },
+ {
   "id": "JhG4eAZKRRk",
   "title": "Kementrans Pelajari Teknologi Pertanian Modern di China",
   "category": "Industri",

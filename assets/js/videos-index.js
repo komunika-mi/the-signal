@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "1c_b-04FQ1c",
+  "title": "OJK Jatuhkan Sanksi ke 835 Pihak Atas Pelanggaran Pasar Modal",
+  "category": "Pasar Modal",
+  "program": "Kabar Pagi",
+  "summary": "Otoritas Jasa Keuangan mencatat 835 pihak terkena sanksi dan proses penegakan hukum sebagai bagian dari reformasi percepatan integritas pasar modal.",
+  "takeaway": "Data penegakan sanksi ini penting bagi investor untuk menilai arah pengawasan OJK terhadap integritas pasar modal Indonesia."
+ },
+ {
+  "id": "6-rhkRnSqyc",
+  "title": "Melihat Pengolahan Sampah Jadi Energi Listrik",
+  "category": "Energi",
+  "program": "Kabar Pagi",
+  "summary": "Kunjungan ke sebuah perusahaan energi memperlihatkan bagaimana sampah yang selama ini dianggap masalah kini diolah menjadi listrik, termasuk pemanfaatan residunya.",
+  "takeaway": "Topik ini relevan bagi pembaca ekonomi karena menyangkut diversifikasi sumber energi dan efisiensi industri pengolahan sampah."
+ },
+ {
   "id": "JhG4eAZKRRk",
   "title": "Kementrans Pelajari Teknologi Pertanian Modern di China",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik serta 11 proyek hilirisasi di kawasan Indonesia Weda Bay Industrial Park, Maluku Utara, dengan nilai investasi Rp180 triliun.",
   "takeaway": "Proyek ini menjadi penanda kemajuan hilirisasi nikel yang menjadi andalan strategi industrialisasi pemerintah."
- },
- {
-  "id": "JI6lVeFnkWU",
-  "title": "Presiden Prabowo Luncurkan Ekspor Perdana Baterai EV dan Hilirisasi",
-  "category": "Industri",
-  "program": "Kabar Petang",
-  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik sekaligus 11 proyek hilirisasi di kawasan Indonesia Weda Bay Industrial Park, Halmahera Tengah, Maluku Utara.",
-  "takeaway": "Peluncuran ini penting bagi pembaca ekonomi karena menandai kemajuan strategi hilirisasi nikel dan rantai pasok baterai kendaraan listrik nasional."
- },
- {
-  "id": "1zg8jXrSUgA",
-  "title": "DPR dan Pemerintah Rampungkan Perpres Ojek Online",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Petang",
-  "summary": "DPR dan pemerintah menyatakan telah merampungkan sinkronisasi serta harmonisasi aturan mengenai ojek online menjelang penerbitan Peraturan Presiden terkait layanan transportasi daring.",
-  "takeaway": "Regulasi ini relevan bagi pembaca ekonomi karena menyangkut kepastian hukum dan kesejahteraan mitra pengemudi di sektor transportasi daring."
  }
 ];

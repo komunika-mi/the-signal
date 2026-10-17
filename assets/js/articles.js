@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pertemuan ini adalah kejelasan target waktu: proses ratifikasi perjanjian dagang I-EAEU FTA ditargetkan tuntas sebelum akhir 2026, setelah hampir mendekati tahap final. Yang akan terdampak langsung adalah eksportir komoditas seperti sawit, kopi, kakao, tekstil, dan furnitur, karena perjanjian ini akan memangkas tarif masuk produk mereka ke Rusia dan negara-negara Eurasia lain. Bersama kenaikan nilai dagang 21,6 persen pada 2025, pola ini mengarah pada upaya memperluas pasar ekspor Indonesia keluar dari tujuan tradisional seperti AS dan Eropa, bukan sekadar basa-basi diplomatik. Yang akan membuktikan apakah arah ini nyata atau cuma wacana adalah apakah ratifikasi benar-benar selesai sebelum akhir 2026 seperti yang ditargetkan, serta apakah perjanjian itu kemudian benar mulai diberlakukan (entry into force).",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "esdm-resmikan-kilang-lpg-cilamaya-kapasitas-160-ton-hari",

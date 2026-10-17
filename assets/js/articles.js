@@ -111,7 +111,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, tapi data soal sejauh mana KUR, kredit bersubsidi pemerintah untuk usaha kecil, benar-benar menjangkau nelayan dan pembudidaya lobster di pesisir. Di Desa Awang, BSI sudah menyalurkan Rp13,6 miliar ke 160 nelayan, tapi ada sekitar 80 pembudidaya lobster dalam satu kelompok usaha yang belum semuanya jadi peminjam, dengan kebutuhan modal sekitar Rp50 juta per orang. Yang kena dampak langsung adalah nelayan tangkap dan pembudidaya lobster di Desa Awang, sementara arah besarnya mengarah ke perluasan KUR ke kelompok pembudidaya yang belum tersentuh itu, asalkan kendala di luar modal seperti sertifikasi izin ruang laut dan ketiadaan fasilitas pendingin ikan di Lombok Tengah juga ikut dibenahi. Konteksnya, penyaluran KUR ke sektor perikanan secara nasional masih kecil, cuma 1,55 persen dari total KUR sampai akhir September 2026, jadi ruang untuk tumbuh masih besar. Yang akan menunjukkan apakah perluasan ini benar terjadi adalah apakah BSI berhasil menggaet sebagian dari 80 pembudidaya lobster itu sebagai peminjam baru, serta apakah realisasi KUR BSI yang baru 69,29 persen dari target Rp15 triliun bisa mengejar sisa waktu di 2026.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "paviliun-kawasan-berikat-tei-catat-minat-rp5-triliun",
@@ -167,7 +167,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah penegasan bahwa ekonomi digital jadi salah satu tumpuan utama untuk mengejar target pertumbuhan 6 persen pada 2027, padahal realisasi semester pertama tahun ini baru 5,45 persen. Pemerintah memasang angka besar di belakangnya: investasi perlu tumbuh 8 sampai 9 persen senilai Rp2.258 triliun, dan pembangunan pusat data ditaksir butuh US$15 miliar sampai US$20 miliar. Yang terdampak langsung adalah pelaku usaha pusat data, pedagang pengguna QRIS, dan platform e-commerce yang dikejar target Harbolnas Rp40 triliun. Arahnya masih terbelah: rencana investasi NVIDIA senilai US$4,5 miliar di Batam disebut masih dalam tahap pembicaraan, bukan kesepakatan, sehingga target pertumbuhan 6 persen bisa makin realistis kalau investasi-investasi besar ini benar terealisasi, atau tetap jadi target di atas kertas kalau macet di tahap negosiasi. Yang akan menentukan ke arah mana ini bergerak adalah kelanjutan pembicaraan investasi Batam itu serta data pertumbuhan ekonomi kuartal berikutnya setelah semester pertama 2026.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "kantor-dagang-ri-bantu-umkm-cari-pembeli-di-as-dan-cili",

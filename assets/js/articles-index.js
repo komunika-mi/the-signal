@@ -105,6 +105,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473420-bni-raih-peringkat-4-bumn-layanan-terbaik-di-danantara-indonesia-cx100-award-2026"
  },
  {
+  "slug": "enzo-tegaskan-tak-ada-informasi-material-soal-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "ENZO Tegaskan Tak Ada [Informasi Material] Soal Volatilitas",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, ENZO menyatakan tidak ada informasi material, aksi korporasi, atau rencana pemegang saham pengendali yang mendasari pergerakan harga sahamnya.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENZO",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf06a3bfe1_dcc8a80fd1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kewajiban-sertifikat-halal-makanan-diundur-ke-2028",
   "category": "Industri",
   "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
@@ -137,6 +153,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ciptakan-transaksi-global-yang-lebih-efisien-wamendag-roro-ajak-pelaku-usaha-optimalkan-local-currency-transaction-lct",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "suli-pastikan-tak-ada-dampak-karhutla-ke-operasional-dan-aset",
+  "category": "Aksi Korporasi",
+  "title": "SULI Pastikan Tak Ada Dampak [Karhutla] ke Operasional dan Aset",
+  "deck": "SLJ Global menanggapi permintaan penjelasan BEI soal 624.725 hektare konsesi hutannya dan memastikan tidak ada dampak karhutla maupun masalah hukum.",
+  "date": "16 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SULI",
+   "karhutla",
+   "konsesi hutan",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b3e3b99d07_30f8104bae.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang",
@@ -6505,37 +6537,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472125-bikin-liburan-grand-prix-2026-anti-bosan-pertamina-rilis-panduan-khusus-yang-wajib-dicoba-wisatawan"
- },
- {
-  "slug": "test-shm-panggil-rups-25-november-bahas-dividen-dan-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "TEST-SHM Panggil RUPS 25 November, Bahas [Dividen] dan Rights Issue",
-  "deck": "TEST-SHM resmi memanggil RUPS Tahunan dan Luar Biasa pada 25 November 2026 untuk memutuskan dividen, rights issue, dan perubahan anggaran dasar.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEST-SHM",
-   "RUPS",
-   "rights issue",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261009_TEST-SHM_E002_99898e6f-ce64-487d-b4fe-b13c97c0b84b-20261010095603.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smle-realisasi-dana-ipo-62-gudang-dan-lab-molor",
-  "category": "Aksi Korporasi",
-  "title": "SMLE Realisasi Dana IPO 62%, Gudang dan Lab [Molor]",
-  "deck": "SMLE baru merealisasikan 62,36 persen dana IPO senilai Rp81,48 miliar hingga Juni 2026. Pembangunan gudang dan pembelian alat lab molor ke 2028.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMLE",
-   "IPO",
-   "realisasi dana",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/319244226d_75c014d2de.pdf",
-  "sourceLabel": "IDX"
  }
 ];

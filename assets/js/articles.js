@@ -166,6 +166,32 @@ var ARTICLES = [
   "imageV": "mvb77awn"
  },
  {
+  "slug": "enzo-tegaskan-tak-ada-informasi-material-soal-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "ENZO Tegaskan Tak Ada [Informasi Material] Soal Volatilitas",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, ENZO menyatakan tidak ada informasi material, aksi korporasi, atau rencana pemegang saham pengendali yang mendasari pergerakan harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T21:02:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf06a3bfe1_dcc8a80fd1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENZO",
+  "tags": [
+   "ENZO",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Morenzo Abadi Perkasa Tbk (ENZO) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima permintaan klarifikasi atas volatilitas transaksi sahamnya melalui surat bursa nomor S-12539/BEI.PP1/09-2026 tanggal 29 September 2026. Tanggapan perusahaan disampaikan lewat surat nomor B.001-1/CORPSEC/MAP/X/2026 tertanggal 16 Oktober 2026, ditandatangani oleh Corporate Secretary Fransiska Yovita.",
+   "Dalam suratnya, ENZO menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, sesuai aturan POJK Nomor 31/POJK.04/2015 maupun ketentuan Peraturan I-E Bursa Efek Indonesia. Perusahaan juga menyebut tidak mengetahui adanya aktivitas tertentu dari pemegang saham yang wajib dilaporkan berdasarkan POJK Nomor 4 Tahun 2024 tentang kepemilikan dan penjaminan saham, serta memastikan tidak ada rencana aksi korporasi dalam tiga bulan mendatang yang akan berdampak pada status pencatatan sahamnya di bursa.",
+   "Soal rencana pemegang saham utama dan pengendali, Corporate Secretary menyatakan telah melakukan konfirmasi langsung dan hasilnya tidak ada rencana perubahan kepemilikan maupun transaksi tertentu atas saham ENZO. Perseroan juga menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang material dan belum diungkapkan ke publik. Lampiran dokumen menunjukkan surat tanggapan awal ditandatangani Direktur Utama Markus Silitonga."
+  ],
+  "fotoAdegan": "Pedestrians and traffic passing glass office towers in Jakarta's Sudirman financial district at midday, overcast sky",
+  "takeaway": "Laporan ini netral bagi fundamental ENZO, sebab isinya murni konfirmasi bahwa tidak ada informasi, aksi korporasi, atau perubahan kepemilikan pemegang saham pengendali yang mendasari pergerakan harga sahamnya belakangan ini. Artinya, permintaan penjelasan dari bursa kemungkinan dipicu oleh gerak harga saham yang dianggap tidak wajar, bukan oleh perubahan bisnis atau keuangan perusahaan, sehingga ekuitas, utang, maupun jumlah saham beredar ENZO tidak tersentuh oleh surat ini. Yang perlu dipantau investor berikutnya adalah apakah bursa kemudian mengenakan status pengawasan khusus pada saham ENZO atau mencabutnya, serta apakah pergerakan harga sahamnya mereda setelah penjelasan ini terbit, mengingat perusahaan sendiri mengaku tidak ada pemicu fundamental di baliknya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kewajiban-sertifikat-halal-makanan-diundur-ke-2028",
   "category": "Industri",
   "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
@@ -221,6 +247,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah konkret adalah skala pemakaian skema ini: transaksi dagang yang dibayar langsung dengan mata uang negara mitra, tanpa ditukar dulu ke dolar AS, nilainya naik dari setara US$25,74 miliar sepanjang 2025 menjadi US$49,42 miliar hanya dalam delapan bulan pertama 2026. Jumlah nasabah yang memakainya juga naik lebih dari dua kali lipat, dari rata-rata 9.720 per bulan menjadi 20.850 per bulan. Yang paling merasakan manfaatnya adalah eksportir dan importir yang berdagang dengan enam negara mitra skema ini, yakni Malaysia, Thailand, Jepang, Tiongkok, Korea Selatan, dan Uni Emirat Arab, seperti dicontohkan produsen nikel dan baja nirkarat yang kini bisa membayar pembelinya di Tiongkok tanpa mampir ke dolar AS. Pertumbuhan yang konsisten sejak skema ini dirintis tahun 2018 mengarah ke pemakaian mata uang lokal yang makin jadi kebiasaan dagang sehari-hari, bukan sekadar uji coba, dan pemerintah sudah menyiapkan perluasan ke Singapura dan India. Yang akan memastikan arah ini benar-benar menguat adalah realisasi perluasan ke dua negara tersebut dan apakah daftar bank yang ditunjuk melayani transaksi ini bertambah dari yang sekarang.",
   "imageV": "mvb77y92"
+ },
+ {
+  "slug": "suli-pastikan-tak-ada-dampak-karhutla-ke-operasional-dan-aset",
+  "category": "Aksi Korporasi",
+  "title": "SULI Pastikan Tak Ada Dampak [Karhutla] ke Operasional dan Aset",
+  "deck": "SLJ Global menanggapi permintaan penjelasan BEI soal 624.725 hektare konsesi hutannya dan memastikan tidak ada dampak karhutla maupun masalah hukum.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 Oktober 2026",
+  "isoDate": "2026-10-16T20:48:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b3e3b99d07_30f8104bae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SULI",
+  "tags": [
+   "SULI",
+   "karhutla",
+   "konsesi hutan",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT SLJ Global Tbk (SULI) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan bernomor S-13117/BEI.PP3/10-2026 tanggal 13 Oktober 2026. Dalam surat bernomor 070/SLJ/DIR/AS/JKT/2026 yang ditandatangani Presiden Direktur Amir Sunarko pada 16 Oktober 2026, perseroan menjelaskan kondisi konsesi hutan yang dikelolanya serta dampak kebakaran hutan dan lahan terhadap operasional perusahaan.",
+   "Perseroan mengungkapkan memiliki tiga konsesi hutan dengan total luas 624.725 hektare. Konsesi pertama seluas 69.765 hektare di Kabupaten Malinau, Kalimantan Utara, dikelola langsung oleh PT Sumalindo Lestari Jaya Tbk. Konsesi kedua seluas 267.600 hektare, dikenal sebagai Long Bagun, tersebar di Kabupaten Mahakam Ulu dan Malinau yang meliputi wilayah Kalimantan Timur dan Kalimantan Utara, juga dikelola PT Sumalindo Lestari Jaya Tbk. Konsesi ketiga seluas 287.360 hektare di Kabupaten Malinau dikelola oleh entitas anak, PT Essam Timber. Seluruh areal ini sedang disiapkan untuk potensi perdagangan karbon, namun perseroan masih dalam tahap penjajakan dengan calon investor dan belum ada kontribusi signifikan ke pendapatan dari rencana tersebut.",
+   "Soal karhutla, perseroan menegaskan sampai tanggal surat ini tidak ada kejadian kebakaran maupun titik panas di area kerjanya, sehingga operasional dan target produksi 2026 berjalan sesuai rencana tanpa dampak terhadap pendapatan, laba, atau nilai aset. Tidak ada pula penghentian operasional tak terduga maupun proses hukum atau sanksi administratif terkait karhutla, seperti penyegelan lahan, penyelidikan, gugatan, atau pencabutan izin. Perseroan menyebut risiko karhutla di wilayahnya tergolong rendah karena berada di dataran tinggi di atas 500 meter, bukan lahan gambut, dan sebagian besar masih berupa hutan alam yang utuh. Sebagai langkah pencegahan, perseroan memantau titik panas setiap hari lewat sistem SiPongi dan satelit, menyiagakan regu pemadam kebakaran, serta meningkatkan frekuensi patroli selama musim kemarau."
+  ],
+  "fotoAdegan": "Dense tropical rainforest canopy in Kalimantan with a narrow dirt logging access road winding between tall trees, misty morning light",
+  "takeaway": "Tanggapan ini condong netral bagi SULI karena isinya konfirmasi bahwa risiko karhutla dan potensi masalah hukum tidak terjadi, bukan kabar baru yang mengubah proyeksi bisnis. Yang tersentuh di sini adalah nilai aset perseroan, yaitu total 624.725 hektare konsesi hutan yang sedang disiapkan untuk perdagangan karbon, skema di mana perusahaan bisa menjual sertifikat pengurangan emisi dari hutan yang dijaganya sebagai sumber pendapatan baru, tapi skema ini masih tahap penjajakan dan belum menyumbang pendapatan nyata. Pelaku pasar memperhatikan rencana ini karena kalau terealisasi bisa jadi pendapatan tambahan di luar bisnis kayu, sementara kalau gagal disepakati tidak ada perubahan apa pun pada laporan keuangan perseroan saat ini. Yang perlu dipantau berikutnya adalah apakah penjajakan dengan calon investor karbon ini berlanjut menjadi kerja sama definitif, serta apakah klaim nol insiden karhutla ini tetap bertahan sepanjang musim kemarau mendatang, karena jawaban dalam surat ini hanya berlaku sampai tanggal penerbitannya, 16 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang",

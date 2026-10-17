@@ -2,6 +2,42 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "17ZsxqKq35I",
+  "title": "Pupuk Indonesia Jaga Pasokan Pupuk ke Petani",
+  "category": "BUMN",
+  "program": "Kabar Siang",
+  "summary": "Pupuk Indonesia mendukung penyaluran pupuk bersubsidi melalui Koperasi Desa Merah Putih agar petani lebih mudah mendapatkan pupuk dengan harga terjangkau.",
+  "takeaway": "Kebijakan distribusi pupuk bersubsidi ini berkaitan langsung dengan biaya produksi petani dan ketahanan pangan nasional.",
+  "terbit": "2026-10-17T05:56:54+00:00"
+ },
+ {
+  "id": "xDHLmboW_Jw",
+  "title": "BBM Pertalite di Surabaya Langka, Warga Mengeluh",
+  "category": "Energi",
+  "program": "Kabar Siang",
+  "summary": "Kelangkaan Pertalite terjadi di sejumlah SPBU Surabaya, membuat pengendara sepeda motor berkeliling mencari stasiun lain atau beralih membeli Pertamax.",
+  "takeaway": "Kelangkaan BBM bersubsidi menggambarkan tekanan pada distribusi energi yang berdampak pada biaya hidup masyarakat sehari hari.",
+  "terbit": "2026-10-17T05:48:09+00:00"
+ },
+ {
+  "id": "SBXpQnhpdWw",
+  "title": "Bali Berlakukan Sistem Ganjil Genap Pengisian BBM",
+  "category": "Energi",
+  "program": "Kabar Siang",
+  "summary": "Pengisian BBM bersubsidi di seluruh Bali kini diatur dengan sistem ganjil genap untuk mempercepat proses dan mengurai antrean panjang di SPBU.",
+  "takeaway": "Pengaturan distribusi BBM bersubsidi ini mencerminkan upaya pemerintah daerah menjaga pasokan energi tetap tepat sasaran.",
+  "terbit": "2026-10-17T05:42:55+00:00"
+ },
+ {
+  "id": "ivVEW-IKIZk",
+  "title": "Sufmi Dasco Datangi BEI Usai IHSG Ambrol",
+  "category": "Pasar Modal",
+  "program": "Kabar Siang",
+  "summary": "Wakil Ketua DPR Sufmi Dasco Ahmad mendatangi Bursa Efek Indonesia setelah Indeks Harga Saham Gabungan mengalami penurunan tajam pada Jumat siang.",
+  "takeaway": "Kunjungan tokoh politik ke BEI menyoroti perhatian terhadap gejolak pasar saham yang dapat memengaruhi kepercayaan investor.",
+  "terbit": "2026-10-17T05:40:44+00:00"
+ },
+ {
   "id": "1c_b-04FQ1c",
   "title": "OJK Jatuhkan Sanksi ke 835 Pihak Atas Pelanggaran Pasar Modal",
   "category": "Pasar Modal",

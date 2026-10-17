@@ -4,6 +4,38 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "17ZsxqKq35I",
+  "title": "Pupuk Indonesia Jaga Pasokan Pupuk ke Petani",
+  "category": "BUMN",
+  "program": "Kabar Siang",
+  "summary": "Pupuk Indonesia mendukung penyaluran pupuk bersubsidi melalui Koperasi Desa Merah Putih agar petani lebih mudah mendapatkan pupuk dengan harga terjangkau.",
+  "takeaway": "Kebijakan distribusi pupuk bersubsidi ini berkaitan langsung dengan biaya produksi petani dan ketahanan pangan nasional."
+ },
+ {
+  "id": "xDHLmboW_Jw",
+  "title": "BBM Pertalite di Surabaya Langka, Warga Mengeluh",
+  "category": "Energi",
+  "program": "Kabar Siang",
+  "summary": "Kelangkaan Pertalite terjadi di sejumlah SPBU Surabaya, membuat pengendara sepeda motor berkeliling mencari stasiun lain atau beralih membeli Pertamax.",
+  "takeaway": "Kelangkaan BBM bersubsidi menggambarkan tekanan pada distribusi energi yang berdampak pada biaya hidup masyarakat sehari hari."
+ },
+ {
+  "id": "SBXpQnhpdWw",
+  "title": "Bali Berlakukan Sistem Ganjil Genap Pengisian BBM",
+  "category": "Energi",
+  "program": "Kabar Siang",
+  "summary": "Pengisian BBM bersubsidi di seluruh Bali kini diatur dengan sistem ganjil genap untuk mempercepat proses dan mengurai antrean panjang di SPBU.",
+  "takeaway": "Pengaturan distribusi BBM bersubsidi ini mencerminkan upaya pemerintah daerah menjaga pasokan energi tetap tepat sasaran."
+ },
+ {
+  "id": "ivVEW-IKIZk",
+  "title": "Sufmi Dasco Datangi BEI Usai IHSG Ambrol",
+  "category": "Pasar Modal",
+  "program": "Kabar Siang",
+  "summary": "Wakil Ketua DPR Sufmi Dasco Ahmad mendatangi Bursa Efek Indonesia setelah Indeks Harga Saham Gabungan mengalami penurunan tajam pada Jumat siang.",
+  "takeaway": "Kunjungan tokoh politik ke BEI menyoroti perhatian terhadap gejolak pasar saham yang dapat memengaruhi kepercayaan investor."
+ },
+ {
   "id": "1c_b-04FQ1c",
   "title": "OJK Jatuhkan Sanksi ke 835 Pihak Atas Pelanggaran Pasar Modal",
   "category": "Pasar Modal",
@@ -450,37 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Kementerian Ekonomi Kreatif merespons keluhan pelaku usaha soal birokrasi dan perizinan event yang dinilai masih menyulitkan di Indonesia.",
   "takeaway": "Isu perizinan ini relevan bagi pelaku usaha event dan ekonomi kreatif yang hendak berekspansi."
- },
- {
-  "id": "zlEK4p-ku9M",
-  "title": "Pengamat Nilai Bisnis EO Masih Menggairahkan",
-  "category": "Bisnis",
-  "program": "Indonesia Business Forum",
-  "summary": "Pengamat menilai bisnis event organizer di Indonesia masih menjanjikan, didorong pertumbuhan event lari dan kompetisi dalam beberapa tahun terakhir.",
-  "takeaway": "Menyajikan gambaran pertumbuhan sektor jasa event bagi pembaca yang mengikuti dinamika ekonomi kreatif."
- },
- {
-  "id": "hqZCuhdwmbU",
-  "title": "Direktur IdeaRun: Mencari Sponsor Event Lari Tidak Mudah",
-  "category": "Bisnis",
-  "program": "Indonesia Business Forum",
-  "summary": "Bisnis event lari di Indonesia tumbuh pesat dalam dua dekade terakhir, namun mencari sponsor untuk mendanai penyelenggaraan acara ini tidak semudah yang dibayangkan, menurut Direktur IdeaRun.",
-  "takeaway": "Menyoroti dinamika pembiayaan di balik industri event olahraga yang berkembang menjadi segmen bisnis baru di Indonesia."
- },
- {
-  "id": "qEOiNaakxs8",
-  "title": "UU Ketenagakerjaan Baru Perketat Aturan PHK dan Pesangon",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Utama",
-  "summary": "DPR mengesahkan UU Perlindungan Ketenagakerjaan yang memperketat aturan pemutusan hubungan kerja. Menteri Ketenagakerjaan menyebut pesangon minimal kini satu kali gaji, naik dari sebelumnya 0,5 kali.",
-  "takeaway": "Aturan baru ini berdampak langsung pada hak pekerja dan beban biaya perusahaan saat terjadi pemutusan hubungan kerja."
- },
- {
-  "id": "NPtNGbdlQyc",
-  "title": "Presiden Prabowo Luncurkan Proyek Hilirisasi Rp180 Triliun di Malut",
-  "category": "Industri",
-  "program": "Kabar Utama",
-  "summary": "Presiden Prabowo Subianto meluncurkan ekspor perdana baterai kendaraan listrik serta 11 proyek hilirisasi di kawasan Indonesia Weda Bay Industrial Park, Maluku Utara, dengan nilai investasi Rp180 triliun.",
-  "takeaway": "Proyek ini menjadi penanda kemajuan hilirisasi nikel yang menjadi andalan strategi industrialisasi pemerintah."
  }
 ];

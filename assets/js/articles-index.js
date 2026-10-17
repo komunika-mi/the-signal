@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "skema-bagi-hasil-ojol-92-8-berisiko-picu-efek-domino",
+  "category": "Ketenagakerjaan",
+  "title": "Skema Bagi Hasil Ojol 92:8 Berisiko Picu Efek [Domino]",
+  "deck": "Analis menilai skema bagi hasil 92 persen untuk pengemudi dan 8 persen aplikator berisiko memicu efek domino, dari pemangkasan tarif dasar hingga potensi pendapatan pengemudi yang justru tidak naik.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/skema-bagi-hasil-ojol-92-8-berisiko-picu-efek-domino.jpg",
+  "imageV": "mvc3qy3g",
+  "tags": [
+   "ojol",
+   "ojek online",
+   "bagi hasil",
+   "efek domino"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473507-kebijakan-skema-ojol-miliki-efek-domino-pengemudi-dinilai-belum-tentu-naik-pendapatan"
+ },
+ {
   "slug": "gula-lontar-bali-angkat-pendapatan-petani-ke-rp3-juta-bulan",
   "category": "UMKM",
   "title": "Gula Lontar Bali Angkat Pendapatan Petani ke [Rp3 Juta]/Bulan",
@@ -6522,22 +6539,6 @@ var ARTICLES = [
    "perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ca61233dd_ce65c88c6a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dnrk-peringkat-danareksa-diturunkan-pefindo-jadi-ida",
-  "category": "Aksi Korporasi",
-  "title": "DNRK: Peringkat Danareksa [Diturunkan] PEFINDO Jadi idA+",
-  "deck": "PEFINDO menurunkan peringkat Danareksa dan tiga obligasinya dari idAA ke idA+ karena transformasi perusahaan jadi holding kawasan industri mengurangi dukungan pemerintah.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DNRK",
-   "PEFINDO",
-   "obligasi",
-   "peringkat kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/407bc371ad_44c4030fdf.pdf",
   "sourceLabel": "IDX"
  }
 ];

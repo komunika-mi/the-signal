@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "skema-bagi-hasil-ojol-92-8-berisiko-picu-efek-domino",
+  "category": "Ketenagakerjaan",
+  "title": "Skema Bagi Hasil Ojol 92:8 Berisiko Picu Efek [Domino]",
+  "deck": "Analis menilai skema bagi hasil 92 persen untuk pengemudi dan 8 persen aplikator berisiko memicu efek domino, dari pemangkasan tarif dasar hingga potensi pendapatan pengemudi yang justru tidak naik.",
+  "image": "assets/img/skema-bagi-hasil-ojol-92-8-berisiko-picu-efek-domino.jpg",
+  "date": "17 Oktober 2026",
+  "isoDate": "2026-10-17T14:21:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473507-kebijakan-skema-ojol-miliki-efek-domino-pengemudi-dinilai-belum-tentu-naik-pendapatan",
+  "tags": [
+   "ojol",
+   "ojek online",
+   "bagi hasil",
+   "efek domino"
+  ],
+  "body": [
+   "Kebijakan baru yang mengatur komposisi bagi hasil antara aplikator ojek online dan mitra pengemudi, yakni 92 persen untuk pengemudi dan 8 persen untuk aplikator, mendapat sorotan dari kalangan pengamat industri. Kepala Strategi Ekonomi dan Asia Pasifik di Access Partnership, Marcus Ng, menilai aturan ini berisiko menimbulkan efek domino yang merugikan seluruh ekosistem, mulai dari pengemudi, konsumen, hingga kelangsungan bisnis platform itu sendiri.",
+   "Marcus menjelaskan bahwa harga yang dibayar penumpang sebenarnya tersusun dari beberapa komponen, yaitu tarif dasar, biaya layanan, dan tarif lonjakan saat permintaan tinggi. Menurutnya, pembatasan komisi yang hanya menyasar komponen tarif dasar secara sempit bisa memicu dampak lanjutan di pasar, karena perusahaan platform selama ini beroperasi dengan margin tipis sehingga kemampuannya menanggung kenaikan biaya secara mendadak sangat terbatas.",
+   "Ia memperingatkan bahwa beban biaya yang tidak terserap perusahaan pada akhirnya akan dialihkan ke konsumen lewat tarif yang lebih mahal. Padahal, keterjangkauan harga selama ini menjadi kunci utama luasnya penggunaan layanan ojek online di Asia Tenggara, sementara daya beli masyarakat sedang tertekan oleh biaya hidup yang terus naik. Tarif yang lebih tinggi disebut bisa mendorong konsumen kelas menengah di perkotaan kembali memakai kendaraan pribadi atau beralih ke transportasi informal.",
+   "Dampak lanjutannya justru bisa dirasakan pengemudi sendiri lewat berkurangnya jumlah pesanan dan menurunnya total pendapatan harian. \"Kebijakan ini hanya menyasar satu elemen pembentuk harga platform, bukannya hasil penghidupan yang betul-betul dipedulikan pengemudi, serta berisiko membawa lebih banyak dampak buruk daripada manfaat bagi pengemudi itu sendiri,\" ujar Marcus."
+  ],
+  "fotoAdegan": "Motorcycle taxi drivers waiting at a roadside stop for passengers, busy city street traffic blurred in the background, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a9824e41c572-ilustrasi-pengemudi-ojek-online_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah komposisi bagi hasil ojek online, pengemudi dijatah 92 persen dari ongkos perjalanan dan aplikator cuma 8 persen, jauh lebih kecil dari komisi yang biasa diambil platform. Yang kena dampaknya ada tiga pihak sekaligus, pengemudi yang berharap pendapatannya naik, perusahaan aplikasi yang marginnya memang sudah tipis, dan konsumen yang bisa kena imbas lewat tarif. Analis yang dikutip di sini memperingatkan bahwa aturan ini cuma membatasi komisi di tarif dasar, bukan di biaya layanan atau tarif lonjakan, sehingga perusahaan bisa menyiasatinya dengan menaikkan komponen lain atau memangkas tarif dasar lebih dulu, yang ujungnya justru bisa membuat pesanan berkurang dan pendapatan pengemudi malah turun. Berita ini baru memuat satu sisi pandangan analis, belum ada tanggapan resmi dari aplikator atau pemerintah tentang bagaimana aturan ini akan dijalankan di lapangan. Yang masih perlu ditunggu adalah data tarif dan pendapatan pengemudi setelah skema ini benar-benar berjalan, karena dari situ baru bisa dilihat apakah peringatan efek domino ini terbukti atau tidak.",
+  "imageV": "mvc3qy3g"
+ },
+ {
   "slug": "gula-lontar-bali-angkat-pendapatan-petani-ke-rp3-juta-bulan",
   "category": "UMKM",
   "title": "Gula Lontar Bali Angkat Pendapatan Petani ke [Rp3 Juta]/Bulan",
@@ -55,7 +82,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka paling konkret di sini adalah klaim BI bahwa rantai nilai produk halal, mulai dari makanan, busana, sampai kosmetik, tumbuh 6,21 persen pada 2025, lebih cepat dari pertumbuhan ekonomi Indonesia secara keseluruhan. Yang terdampak langsung adalah pelaku usaha kecil binaan BI yang disebut dalam forum ini, misalnya petani di Garut, perajin kain lewat program Citra Nusa, pelaku usaha kopi lewat Cangkir Barista, dan mahasiswa penerima beasiswa GenBI di 175 kampus. Pola yang terlihat adalah BI mengarah ke pembinaan langsung ke usaha kecil dan dorongan digitalisasi, dengan sistem pembayaran QRIS yang sudah menjangkau 47,11 juta pedagang sebagai salah satu alat utamanya, bukan semata lewat aturan baru dari atas. Yang akan menentukan apakah arah ini benar membuahkan hasil adalah apakah laporan peringkat ekonomi syariah global berikutnya menunjukkan posisi Indonesia naik dari peringkat keempat saat ini, dan apakah pertumbuhan rantai nilai halal pada 2026 tetap di atas pertumbuhan ekonomi nasional.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "baja-ri-bersaing-rebut-kuota-ekspor-ke-inggris-dan-eropa",
@@ -111,7 +138,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari acara ini sebatas data pendukung, bukan kebijakan baru: industri halal disebut menyumbang 27 persen dari total nilai ekonomi Indonesia atau sekitar Rp4.900 triliun, ekspor produk halal tercatat US$35,7 miliar pada semester pertama 2026, dan dari sekitar 37 juta pelaku UMKM, 64,5 persen adalah perempuan. Pihak yang paling relevan dengan angka ini adalah pelaku usaha kecil perempuan di sektor produk halal, termasuk yang berpotensi terhubung dengan pembiayaan bank syariah atau platform dagang digital seperti yang dibahas dalam diskusi panel. Bank Indonesia menyebut tiga langkah dukungan, yaitu pendampingan usaha, fasilitasi pembayaran digital, dan pembukaan akses pasar, tetapi tidak ada target angka, skema pembiayaan, atau tenggat waktu yang diumumkan untuk ketiganya. Karena itu belum bisa dibaca apakah dukungan ini akan berubah jadi program konkret dengan anggaran tertentu atau tetap berhenti di tingkat forum dan diskusi, sesuatu yang baru akan terlihat dari laporan realisasi ISEF atau program pembiayaan UMKM perempuan di edisi berikutnya.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "harga-emas-antam-naik-ke-rp2-572-000-per-gram",
@@ -165,7 +192,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pertemuan ini adalah kejelasan target waktu: proses ratifikasi perjanjian dagang I-EAEU FTA ditargetkan tuntas sebelum akhir 2026, setelah hampir mendekati tahap final. Yang akan terdampak langsung adalah eksportir komoditas seperti sawit, kopi, kakao, tekstil, dan furnitur, karena perjanjian ini akan memangkas tarif masuk produk mereka ke Rusia dan negara-negara Eurasia lain. Bersama kenaikan nilai dagang 21,6 persen pada 2025, pola ini mengarah pada upaya memperluas pasar ekspor Indonesia keluar dari tujuan tradisional seperti AS dan Eropa, bukan sekadar basa-basi diplomatik. Yang akan membuktikan apakah arah ini nyata atau cuma wacana adalah apakah ratifikasi benar-benar selesai sebelum akhir 2026 seperti yang ditargetkan, serta apakah perjanjian itu kemudian benar mulai diberlakukan (entry into force).",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "esdm-resmikan-kilang-lpg-cilamaya-kapasitas-160-ton-hari",

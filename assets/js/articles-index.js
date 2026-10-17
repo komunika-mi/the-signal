@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "baja-ri-bersaing-rebut-kuota-ekspor-ke-inggris-dan-eropa",
+  "category": "Industri",
+  "title": "Baja RI Bersaing Rebut Kuota Ekspor ke Inggris dan [Eropa]",
+  "deck": "Uni Eropa dan Inggris mengubah tarif dan kuota impor baja, memaksa eksportir Indonesia bersaing lebih ketat sembari pemerintah merundingkan kuota khusus dan tarif nol persen.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/baja-ri-bersaing-rebut-kuota-ekspor-ke-inggris-dan-eropa.jpg",
+  "imageV": "mvbvtrvo",
+  "tags": [
+   "ekspor baja",
+   "tarif Uni Eropa",
+   "Inggris",
+   "kuota impor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-strategi-amankan-pasar-ekspor-baja-ke-uni-eropa-dan-inggris",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bi-soroti-peran-perempuan-dalam-ekosistem-halal-di-isef-2026",
+  "category": "UMKM",
+  "title": "BI Soroti Peran [Perempuan] dalam Ekosistem Halal di ISEF 2026",
+  "deck": "Konferensi dalam rangkaian ISEF 2026 menyoroti peran pelaku usaha perempuan di ekosistem industri halal, sektor yang disebut menyumbang 27 persen produk domestik bruto Indonesia.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "ISEF 2026",
+   "Bank Indonesia",
+   "ekonomi syariah",
+   "UMKM perempuan"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822626.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "harga-emas-antam-naik-ke-rp2-572-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] ke Rp2.572.000 per Gram",
+  "deck": "Harga emas Antam hari ini naik Rp7.000 menjadi Rp2.572.000 per gram, sementara harga buyback ikut naik ke Rp2.387.000 per gram.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-naik-ke-rp2-572-000-per-gram.jpg",
+  "imageV": "mvbvtspm",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "antam",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473476-saatnya-jual-harga-emas-antam-hari-ini-17-oktober-2026-melonjak-ke-rp2572000-per-gram"
+ },
+ {
   "slug": "dagang-ri-rusia-naik-21-6-fta-eurasia-ditarget-rampung-2026",
   "category": "Global",
   "title": "Dagang RI-Rusia Naik 21,6%, FTA Eurasia Ditarget [Rampung] 2026",
@@ -60,7 +111,7 @@ var ARTICLES = [
   "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
   "deck": "Kemendag menargetkan 4 juta UMKM siap ekspor dalam lima tahun lewat program Campuspreneur yang kini melibatkan 27 perguruan tinggi, termasuk MoU baru dengan UIN Jakarta dan Universitas Presiden.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "UMKM",
    "ekspor",
@@ -3326,7 +3377,7 @@ var ARTICLES = [
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
   "deck": "Pemerintah bersama ILO dan SECO menutup program PROMISE II dan memasuki fase baru penguatan akses keuangan UMKM, di tengah kesenjangan literasi keuangan yang masih lebar.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "tags": [
    "UMKM",
    "Literasi Keuangan",
@@ -6139,7 +6190,7 @@ var ARTICLES = [
   "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",
   "deck": "Pembangunan kembali Desa Adat Sade di Lombok Tengah pascakebakaran Agustus 2026 terus berjalan, dengan 40 dari 75 rumah adat sudah berdiri dan ekonomi warga mulai bergerak lagi.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/gula-merah.jpg",
   "tags": [
    "Desa Adat Sade",
    "Lombok Tengah",
@@ -6171,7 +6222,7 @@ var ARTICLES = [
   "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
   "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/gula-merah.jpg",
+  "image": "assets/img/pengrajin-rotan.jpg",
   "tags": [
    "KUR",
    "UMKM",
@@ -6488,54 +6539,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/45f883c474_99ec72798b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "test-shm-bagi-dividen-rp100-m-siapkan-rights-issue-rp1-t",
-  "category": "Aksi Korporasi",
-  "title": "TEST-SHM Bagi Dividen Rp100 M, Siapkan [Rights Issue] Rp1 T",
-  "deck": "RUPS TEST-SHM menyetujui dividen tunai Rp100 miliar dan rencana penambahan modal lewat rights issue sampai 2 miliar saham baru plus waran, ditargetkan terlaksana awal 2027.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEST-SHM",
-   "RUPS",
-   "dividen",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261009_TEST-SHM_E013_d13678f3-3772-4c73-9c32-1afaa73a4f14-20261010095837.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "test-shm-rencanakan-hmetd-rp1-triliun-dilusi-maks-20",
-  "category": "Aksi Korporasi",
-  "title": "TEST-SHM Rencanakan [HMETD] Rp1 Triliun, Dilusi Maks 20%",
-  "deck": "TEST-SHM mengajukan rencana penambahan modal lewat HMETD senilai sekitar Rp1 triliun, dengan dilusi hingga 20 persen bagi pemegang saham yang tidak ikut.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEST-SHM",
-   "rights issue",
-   "HMETD",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261009_TEST-SHM_E0X2_8d389ccb-8082-43bf-a4b1-ed8bcbf76468-20261010095716.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-luncurkan-pemandu-wisata-digital-jelang-gp-mandalika",
-  "category": "BUMN",
-  "title": "Pertamina Luncurkan [Pemandu] Wisata Digital Jelang GP Mandalika",
-  "deck": "Pertamina luncurkan kampanye MyPertamina Your Journey Partner untuk memandu wisatawan menjelajahi Lombok selama Grand Prix Mandalika 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/pertamina-luncurkan-pemandu-wisata-digital-jelang-gp-mandalika.jpg",
-  "imageV": "mv156p01",
-  "tags": [
-   "pertamina",
-   "grand prix mandalika",
-   "umkm",
-   "ntb"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472125-bikin-liburan-grand-prix-2026-anti-bosan-pertamina-rilis-panduan-khusus-yang-wajib-dicoba-wisatawan"
  }
 ];

@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "baja-ri-bersaing-rebut-kuota-ekspor-ke-inggris-dan-eropa",
+  "category": "Industri",
+  "title": "Baja RI Bersaing Rebut Kuota Ekspor ke Inggris dan [Eropa]",
+  "deck": "Uni Eropa dan Inggris mengubah tarif dan kuota impor baja, memaksa eksportir Indonesia bersaing lebih ketat sembari pemerintah merundingkan kuota khusus dan tarif nol persen.",
+  "image": "assets/img/baja-ri-bersaing-rebut-kuota-ekspor-ke-inggris-dan-eropa.jpg",
+  "date": "17 Oktober 2026",
+  "isoDate": "2026-10-17T04:07:28.521Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-strategi-amankan-pasar-ekspor-baja-ke-uni-eropa-dan-inggris",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ekspor baja",
+   "tarif Uni Eropa",
+   "Inggris",
+   "kuota impor"
+  ],
+  "body": [
+   "Kementerian Perdagangan menggelar seminar di sela Trade Expo Indonesia 2026 di ICE BSD City, Tangerang, pada Jumat (16/10), membahas langkah mengamankan pasar ekspor baja nasional menyusul perubahan tarif dan kuota impor yang diterapkan Uni Eropa dan Inggris. Perubahan ini penting dipantau karena menyangkut daya saing dan kelangsungan ekspor baja Indonesia ke dua pasar utama di Eropa tersebut.",
+   "Direktur Perundingan Organisasi Perdagangan Dunia Kemendag, Dina Kurniasari, menyebut aturan baru seperti tarif, kuota, dan mekanisme pungutan karbon di perbatasan Uni Eropa (Carbon Border Adjustment Mechanism) muncul seiring makin banyak negara melindungi industri dalam negeri mereka akibat perubahan iklim dan kelebihan kapasitas produksi global. Pemerintah menempuh dua jalur untuk mengamankan akses pasar, yakni perundingan multilateral di Organisasi Perdagangan Dunia dan jalur bilateral lewat Perjanjian Kemitraan Ekonomi Komprehensif Indonesia-Uni Eropa, dengan sasaran memperoleh kuota khusus, kompensasi yang adil, dan mempertahankan komitmen tarif nol persen.",
+   "Untuk pasar Inggris, Atase Perdagangan RI di London, Ayu Siti Maryam, menyebut nilai impor besi dan baja negara itu mencapai US$7,02 miliar pada 2025, namun Indonesia belum mendapat tarif khusus sehingga harus berebut kuota sisa dengan prinsip siapa cepat dia dapat. Ia menyarankan eksportir mengatur jadwal pengiriman sejak awal kuartal, memanfaatkan subkuota produk baja canai panas atau hot-rolled coil, serta memenuhi syarat ketelusuran bahan baku dan proses produksi agar peluang itu tidak terlewat.",
+   "Direktur Eksekutif Asosiasi Industri Besi dan Baja Indonesia, Harry Warganegara, menambahkan bahwa peningkatan kualitas produk dan perluasan tujuan ekspor menjadi langkah penting agar industri baja nasional tidak hanya bertahan di pasar utama, tetapi juga mampu menangkap peluang di pasar alternatif seperti Timur Tengah, Asia Selatan, dan ASEAN."
+  ],
+  "fotoAdegan": "Stacks of steel coil in an industrial shipping yard near a port, forklift moving between rows, overcast daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/8L5BjQOz53dsA1AS9jwpuysshS3288fG1EpTvb2c.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah adalah posisi eksportir baja Indonesia di pasar Inggris, karena mereka tidak lagi mendapat tarif khusus dan harus bersaing dengan negara lain memperebutkan sisa kuota impor dengan prinsip siapa cepat dia dapat, padahal pasar besi dan baja Inggris bernilai US$7,02 miliar pada 2025. Yang terkena dampak langsung adalah pelaku usaha baja nasional, terutama produsen produk baja canai panas, karena mereka harus mengatur ulang jadwal pengiriman sejak awal kuartal agar tidak kehabisan jatah kuota. Pemerintah sendiri masih berunding lewat Organisasi Perdagangan Dunia dan perjanjian dagang dengan Uni Eropa untuk mendapat kuota khusus serta bebas tarif, tapi dari keterangan ini belum ada angka pasti soal besaran kuota yang diperjuangkan atau target waktu perundingan itu selesai. Yang perlu dipantau selanjutnya adalah hasil konkret perundingan kemitraan dagang Indonesia-Uni Eropa serta apakah Indonesia akhirnya memperoleh alokasi kuota khusus di Inggris, karena itu yang akan menentukan apakah ekspor baja ke dua pasar ini bertahan atau justru tergerus pesaing.",
+  "imageV": "mvbvtrvo"
+ },
+ {
+  "slug": "bi-soroti-peran-perempuan-dalam-ekosistem-halal-di-isef-2026",
+  "category": "UMKM",
+  "title": "BI Soroti Peran [Perempuan] dalam Ekosistem Halal di ISEF 2026",
+  "deck": "Konferensi dalam rangkaian ISEF 2026 menyoroti peran pelaku usaha perempuan di ekosistem industri halal, sektor yang disebut menyumbang 27 persen produk domestik bruto Indonesia.",
+  "image": "assets/img/batik-umkm.jpg",
+  "date": "17 Oktober 2026",
+  "isoDate": "2026-10-17T04:07:14.013Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822626.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "ISEF 2026",
+   "Bank Indonesia",
+   "ekonomi syariah",
+   "UMKM perempuan"
+  ],
+  "body": [
+   "Bank Indonesia bersama Kementerian Pemberdayaan Perempuan dan Perlindungan Anak menggelar konferensi bertema peran perempuan dalam ekosistem rantai nilai halal, sebagai bagian dari Indonesia Sharia Economic Festival (ISEF) 2026 di Jakarta, Kamis (16/10). Acara dibuka oleh Deputi Gubernur Senior Bank Indonesia Aida S. Budiman bersama Menteri PPPA Arifah Fauzi, dan membahas cara memperkuat kapasitas serta jejaring usaha perempuan di sektor halal.",
+   "Dalam sambutannya, Aida menyebut tiga langkah yang menurut Bank Indonesia akan mendukung pengembangan usaha perempuan, yaitu penguatan kelembagaan dan akses pembiayaan lewat pendampingan serta fasilitasi sertifikasi halal, perluasan sistem pembayaran digital untuk transaksi usaha, dan pembukaan akses pasar melalui promosi serta kemitraan bisnis di tingkat daerah hingga internasional. Namun, siaran pers ini tidak menyebut target angka atau alokasi dana konkret dari ketiga langkah tersebut.",
+   "Untuk menggambarkan besarnya potensi sektor ini, acara tersebut mengutip sejumlah data dari lembaga lain. Menurut Badan Penyelenggara Jaminan Produk Halal (BPJPH), industri halal menyumbang 27 persen dari produk domestik bruto Indonesia atau sekitar Rp4.900 triliun, dengan 14,06 juta produk sudah bersertifikat halal hingga Juli 2026. Kementerian Perdagangan mencatat ekspor produk halal mencapai US$35,7 miliar pada semester I 2026. Sementara itu, Kementerian UMKM menyebut UMKM menyumbang 60,51 persen PDB dan menyerap 96,9 persen tenaga kerja nasional, dengan data Badan Pusat Statistik 2024 mencatat sekitar 37 juta dari pelaku UMKM, atau 64,5 persen, adalah perempuan.",
+   "Rangkaian konferensi berlanjut dengan diskusi panel yang menghadirkan Kepala Grup Solusi Ekosistem Syariah Bank Syariah Indonesia Rima Dwi Permatasari, Presiden Direktur PT Miranda Moda Pandu Rosadi, dan Direktur Kebijakan Publik Shopee Indonesia Radityo Triatmojo. Diskusi tersebut menyoroti tiga hal yang dinilai perlu diperkuat agar usaha perempuan naik kelas, yakni penguatan merek lokal untuk pasar global, pemanfaatan kecerdasan artifisial dan perdagangan digital, serta akses pembiayaan. ISEF 2026 sendiri berlangsung pada 14-18 Oktober di Jakarta International Convention Center."
+  ],
+  "fotoAdegan": "Women entrepreneurs packaging small halal food products at a worktable inside a modest home workshop, soft daylight.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang konkret dari acara ini sebatas data pendukung, bukan kebijakan baru: industri halal disebut menyumbang 27 persen dari total nilai ekonomi Indonesia atau sekitar Rp4.900 triliun, ekspor produk halal tercatat US$35,7 miliar pada semester pertama 2026, dan dari sekitar 37 juta pelaku UMKM, 64,5 persen adalah perempuan. Pihak yang paling relevan dengan angka ini adalah pelaku usaha kecil perempuan di sektor produk halal, termasuk yang berpotensi terhubung dengan pembiayaan bank syariah atau platform dagang digital seperti yang dibahas dalam diskusi panel. Bank Indonesia menyebut tiga langkah dukungan, yaitu pendampingan usaha, fasilitasi pembayaran digital, dan pembukaan akses pasar, tetapi tidak ada target angka, skema pembiayaan, atau tenggat waktu yang diumumkan untuk ketiganya. Karena itu belum bisa dibaca apakah dukungan ini akan berubah jadi program konkret dengan anggaran tertentu atau tetap berhenti di tingkat forum dan diskusi, sesuatu yang baru akan terlihat dari laporan realisasi ISEF atau program pembiayaan UMKM perempuan di edisi berikutnya.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "harga-emas-antam-naik-ke-rp2-572-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] ke Rp2.572.000 per Gram",
+  "deck": "Harga emas Antam hari ini naik Rp7.000 menjadi Rp2.572.000 per gram, sementara harga buyback ikut naik ke Rp2.387.000 per gram.",
+  "image": "assets/img/harga-emas-antam-naik-ke-rp2-572-000-per-gram.jpg",
+  "date": "17 Oktober 2026",
+  "isoDate": "2026-10-17T10:18:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473476-saatnya-jual-harga-emas-antam-hari-ini-17-oktober-2026-melonjak-ke-rp2572000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "antam",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam hari ini, 17 Oktober 2026, naik Rp7.000 per gram menjadi Rp2.572.000, dari sebelumnya Rp2.565.000 per gram. Kenaikan ini relevan bagi masyarakat yang menyimpan emas atau berencana membeli emas batangan, karena harga Antam jadi salah satu acuan utama harga emas fisik di Indonesia.",
+   "Harga beli kembali atau buyback, yaitu harga yang dibayar Antam ketika seseorang menjual kembali emasnya, juga naik pada hari yang sama menjadi Rp2.387.000 per gram. Selisih antara harga jual dan harga buyback saat ini sekitar Rp185.000 per gram, sehingga siapa pun yang membeli emas lalu langsung menjualnya kembali di hari yang sama akan menanggung selisih rugi sebesar itu. Laman resmi Logam Mulia menyebutkan harga ini bisa berubah sewaktu-waktu mengikuti kondisi pasar.",
+   "Transaksi buyback dengan nilai di atas Rp10.000.000 dikenakan pajak PPh Pasal 22 sebesar 1,5 persen, yang dipotong langsung dari nilai transaksi saat pencairan. Sementara itu, pembelian emas Antam dikenakan PPh sebesar 0,25 persen dari harga dasar yang tercantum di laman resmi."
+  ],
+  "fotoAdegan": "A jeweler's gloved hands arranging small gold bullion bars on a velvet-lined tray inside a display case, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/06/05/665fc52aebfa1-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya, harga emas Antam naik Rp7.000 per gram, dan harga buyback (harga kalau emas itu dijual balik ke Antam) ikut naik ke Rp2.387.000 per gram. Yang langsung kena dampak adalah orang yang sedang mempertimbangkan membeli atau menjual emas batangan, terutama karena selisih antara harga jual dan harga buyback sekitar Rp185.000 per gram, jadi kalau beli lalu langsung dijual hari yang sama otomatis rugi sebesar itu. Dari data hari ini saja belum bisa dibaca apakah kenaikan Rp7.000 ini awal tren naik yang lebih panjang atau sekadar fluktuasi harian biasa, karena tidak ada informasi soal pergerakan harga emas dunia atau nilai tukar rupiah yang biasanya jadi penggerak utama harga emas domestik. Yang perlu dipantau adalah harga emas Antam dalam beberapa hari mendatang bersama harga emas dunia, untuk melihat apakah kenaikan ini berlanjut atau berbalik arah.",
+  "imageV": "mvbvtspm"
+ },
+ {
   "slug": "dagang-ri-rusia-naik-21-6-fta-eurasia-ditarget-rampung-2026",
   "category": "Global",
   "title": "Dagang RI-Rusia Naik 21,6%, FTA Eurasia Ditarget [Rampung] 2026",
@@ -28,7 +110,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pertemuan ini adalah kejelasan target waktu: proses ratifikasi perjanjian dagang I-EAEU FTA ditargetkan tuntas sebelum akhir 2026, setelah hampir mendekati tahap final. Yang akan terdampak langsung adalah eksportir komoditas seperti sawit, kopi, kakao, tekstil, dan furnitur, karena perjanjian ini akan memangkas tarif masuk produk mereka ke Rusia dan negara-negara Eurasia lain. Bersama kenaikan nilai dagang 21,6 persen pada 2025, pola ini mengarah pada upaya memperluas pasar ekspor Indonesia keluar dari tujuan tradisional seperti AS dan Eropa, bukan sekadar basa-basi diplomatik. Yang akan membuktikan apakah arah ini nyata atau cuma wacana adalah apakah ratifikasi benar-benar selesai sebelum akhir 2026 seperti yang ditargetkan, serta apakah perjanjian itu kemudian benar mulai diberlakukan (entry into force).",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "esdm-resmikan-kilang-lpg-cilamaya-kapasitas-160-ton-hari",
@@ -89,7 +171,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
   "deck": "Kemendag menargetkan 4 juta UMKM siap ekspor dalam lima tahun lewat program Campuspreneur yang kini melibatkan 27 perguruan tinggi, termasuk MoU baru dengan UIN Jakarta dan Universitas Presiden.",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "16 Oktober 2026",
   "isoDate": "2026-10-16T16:38:49.272Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-4-juta-umkm-siap-ekspor-melalui-program-campuspreneur",
@@ -5367,7 +5449,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
   "deck": "Pemerintah bersama ILO dan SECO menutup program PROMISE II dan memasuki fase baru penguatan akses keuangan UMKM, di tengah kesenjangan literasi keuangan yang masih lebar.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "date": "14 Oktober 2026",
   "isoDate": "2026-10-13T18:09:44.544Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7149/perkuat-ekosistem-umkm-dan-rantai-nilai-daerah-pemerintah-dorong-transformasi-akses-keuangan-menuju-pekerjaan-layak",
@@ -9928,7 +10010,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",
   "deck": "Pembangunan kembali Desa Adat Sade di Lombok Tengah pascakebakaran Agustus 2026 terus berjalan, dengan 40 dari 75 rumah adat sudah berdiri dan ekonomi warga mulai bergerak lagi.",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/gula-merah.jpg",
   "date": "10 Oktober 2026",
   "isoDate": "2026-10-10T16:15:39.688Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7144/pemerintah-dorong-percepatan-pemulihan-dan-aktivitas-masyarakat-desa-adat-sade-pasca-bencana-kebakaran",
@@ -9986,7 +10068,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
   "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
-  "image": "assets/img/gula-merah.jpg",
+  "image": "assets/img/pengrajin-rotan.jpg",
   "date": "10 Oktober 2026",
   "isoDate": "2026-10-10T12:38:00.613Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7142/akselerasi-sinergi-perluas-dampak-pemerintah-satukan-langkah-percepat-kredit-program-dari-yogyakarta",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "gula-lontar-bali-angkat-pendapatan-petani-ke-rp3-juta-bulan",
+  "category": "UMKM",
+  "title": "Gula Lontar Bali Angkat Pendapatan Petani ke [Rp3 Juta]/Bulan",
+  "deck": "Tarunira, usaha sosial pengolah gula lontar di Karangasem, Bali, memamerkan produknya di Trade Expo Indonesia 2026 sembari menjajaki peluang ekspor ke Jepang, Eropa, dan Australia.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "gula lontar",
+   "UMKM",
+   "Trade Expo Indonesia",
+   "ekspor"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bukan-sekadar-manis-gula-lontar-bali-jadi-mesin-penggerak-desa",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ekonomi-syariah-tumbuh-6-2-bi-gaet-wirausaha-muda",
+  "category": "UMKM",
+  "title": "Ekonomi [Syariah] Tumbuh 6,2%, BI Gaet Wirausaha Muda",
+  "deck": "Bank Indonesia membuka forum kewirausahaan syariah untuk anak muda di Jakarta, seiring klaim rantai nilai halal tumbuh 6,21 persen pada 2025, melampaui pertumbuhan ekonomi nasional.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/warung-makan.jpg",
+  "tags": [
+   "ekonomi syariah",
+   "ISEF 2026",
+   "UMKM",
+   "GenBI"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822726.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "baja-ri-bersaing-rebut-kuota-ekspor-ke-inggris-dan-eropa",
   "category": "Industri",
   "title": "Baja RI Bersaing Rebut Kuota Ekspor ke Inggris dan [Eropa]",
@@ -28,7 +60,7 @@ var ARTICLES = [
   "title": "BI Soroti Peran [Perempuan] dalam Ekosistem Halal di ISEF 2026",
   "deck": "Konferensi dalam rangkaian ISEF 2026 menyoroti peran pelaku usaha perempuan di ekosistem industri halal, sektor yang disebut menyumbang 27 persen produk domestik bruto Indonesia.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "tags": [
    "ISEF 2026",
    "Bank Indonesia",
@@ -111,7 +143,7 @@ var ARTICLES = [
   "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
   "deck": "Kemendag menargetkan 4 juta UMKM siap ekspor dalam lima tahun lewat program Campuspreneur yang kini melibatkan 27 perguruan tinggi, termasuk MoU baru dengan UIN Jakarta dan Universitas Presiden.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/gula-merah.jpg",
   "tags": [
    "UMKM",
    "ekspor",
@@ -3377,7 +3409,7 @@ var ARTICLES = [
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
   "deck": "Pemerintah bersama ILO dan SECO menutup program PROMISE II dan memasuki fase baru penguatan akses keuangan UMKM, di tengah kesenjangan literasi keuangan yang masih lebar.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "UMKM",
    "Literasi Keuangan",
@@ -3508,7 +3540,7 @@ var ARTICLES = [
   "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
   "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -6190,7 +6222,7 @@ var ARTICLES = [
   "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",
   "deck": "Pembangunan kembali Desa Adat Sade di Lombok Tengah pascakebakaran Agustus 2026 terus berjalan, dengan 40 dari 75 rumah adat sudah berdiri dan ekonomi warga mulai bergerak lagi.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/gula-merah.jpg",
+  "image": "assets/img/pengrajin-rotan.jpg",
   "tags": [
    "Desa Adat Sade",
    "Lombok Tengah",
@@ -6222,7 +6254,7 @@ var ARTICLES = [
   "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
   "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/pengrajin-rotan.jpg",
+  "image": "assets/img/kedai-kopi-kecil.jpg",
   "tags": [
    "KUR",
    "UMKM",
@@ -6506,38 +6538,6 @@ var ARTICLES = [
    "peringkat kredit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/407bc371ad_44c4030fdf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smle-jelaskan-rencana-akuisisi-saham-sinar-aroma-sentosa",
-  "category": "Aksi Korporasi",
-  "title": "SMLE Jelaskan Rencana [Akuisisi] Saham Sinar Aroma Sentosa",
-  "deck": "SMLE mengoreksi surat rencana public expose insidentil dengan menambah daftar direksi yang hadir, membahas rencana penjualan saham anak usaha ke perusahaan Denmark pada 13 Oktober 2026.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMLE",
-   "Public Expose",
-   "Akuisisi Anak Usaha",
-   "Sinar Aroma Sentosa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f3320584c6_ff463e4037.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msky-hadapi-gugatan-pkpu-dari-ascot-group-holdings",
-  "category": "Aksi Korporasi",
-  "title": "MSKY Hadapi Gugatan [PKPU] dari Ascot Group Holdings",
-  "deck": "Ascot Group Holdings Ltd mengajukan PKPU terhadap MNC Sky Vision ke Pengadilan Niaga Jakarta Pusat. Sidang kedua digelar 8 Oktober 2026, belum ada putusan.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSKY",
-   "PKPU",
-   "MNC Sky Vision",
-   "Pengadilan Niaga"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/45f883c474_99ec72798b.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,33 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "target-pertumbuhan-6-2027-bersandar-pada-ekonomi-digital",
+  "category": "Makroekonomi",
+  "title": "Target Pertumbuhan [6%] 2027 Bersandar pada Ekonomi Digital",
+  "deck": "Pemerintah menjadikan ekonomi digital tumpuan utama mengejar pertumbuhan 6 persen pada 2027, lewat QRIS, pusat data, dan perjanjian ekonomi digital ASEAN.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/pasar-ikan.jpg",
+  "tags": [
+   "ekonomi digital",
+   "pertumbuhan ekonomi",
+   "ASEAN DEFA",
+   "pusat data"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7163/menko-airlangga-perkuat-ekonomi-digital-sebagai-andalan-pertumbuhan-ekonomi-6-pada-2027",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "kantor-dagang-ri-bantu-umkm-cari-pembeli-di-as-dan-cili",
+  "category": "Bisnis",
+  "title": "Kantor Dagang RI Bantu [UMKM] Cari Pembeli di AS dan Cili",
+  "deck": "Kemendag menggelar konsultasi bisnis bersama perwakilan dagang RI dari 33 negara di sela Trade Expo Indonesia, membantu eksportir menjajaki pasar Amerika Serikat dan Cili.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/bisnis-resto.jpg",
+  "tags": [],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perluas-akses-informasi-dan-peluang-pasar-ekspor-melalui-konsultasi-bisnis",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "kemendag-klaim-amankan-rp8-triliun-ekspor-dari-hambatan-dagang",
   "category": "UMKM",
   "title": "Kemendag Klaim Amankan [Rp8 Triliun] Ekspor dari Hambatan Dagang",
@@ -3559,7 +3586,7 @@ var ARTICLES = [
   "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
   "deck": "Pemerintah mendorong pemanfaatan nyata tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia yang menurut kajian Kemenko berpotensi menambah ekspor lebih dari US$14 miliar.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "ekspor",
    "perjanjian dagang",
@@ -3575,7 +3602,7 @@ var ARTICLES = [
   "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
   "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -6509,38 +6536,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/waduk-plta-batang-toru-mulai-digenangi-pasokan-listrik-sumatera-utara-kian-andal-jelang-nataru",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "wgsh-direksi-hendy-rusli-jual-510-saham-hak-suara-tetap",
-  "category": "Aksi Korporasi",
-  "title": "WGSH: Direksi Hendy Rusli [Jual] 510 Saham, Hak Suara Tetap",
-  "deck": "Direksi WGSH Hendy Rusli melepas 510 saham senilai sekitar Rp57.630 per 9 Oktober 2026, sementara hak suaranya di perusahaan tetap 0,05 persen.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WGSH",
-   "kepemilikan saham",
-   "direksi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10102026-2602-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-jasaraharja-putera-naik-41-persen-raih-penghargaan",
-  "category": "BUMN",
-  "title": "Laba Jasaraharja Putera [Naik] 41 Persen, Raih Penghargaan",
-  "deck": "Jasaraharja Putera mencatat laba bersih Rp234,49 miliar pada 2025, naik 41 persen, didukung beban klaim yang turun dan modal yang tebal, sekaligus meraih penghargaan asuransi terbaik.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/laba-jasaraharja-putera-naik-41-persen-raih-penghargaan.jpg",
-  "imageV": "mv1lavpt",
-  "tags": [
-   "asuransi",
-   "Jasaraharja Putera",
-   "RUPS",
-   "laba bersih"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472163-laba-bersih-meningkat-jasaraharja-putera-diganjar-penghargaan"
  }
 ];

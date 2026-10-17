@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "wB1dsSgZfc4",
+  "title": "Sistem Ganjil Genap Mulai Urai Antrean SPBU di Bali",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Penerapan sistem ganjil genap untuk pembelian BBM bersubsidi di Bali mulai mengurangi antrean panjang di sejumlah SPBU di tengah keterbatasan pasokan.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti dampak kebijakan distribusi BBM bersubsidi terhadap mobilitas dan ekonomi daerah.",
+  "terbit": "2026-10-17T12:56:31+00:00"
+ },
+ {
+  "id": "iFYMDxd0uBo",
+  "title": "Bali Terapkan Ganjil Genap Pengisian BBM Bersubsidi",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Pemerintah Provinsi Bali memberlakukan sistem ganjil genap untuk pengisian BBM bersubsidi jenis Pertalite mulai 17 hingga 19 Oktober 2026 sebagai langkah darurat.",
+  "takeaway": "Menunjukkan respons pemerintah daerah terhadap tekanan pasokan energi bersubsidi yang berdampak langsung pada aktivitas ekonomi masyarakat.",
+  "terbit": "2026-10-17T11:08:33+00:00"
+ },
+ {
+  "id": "PeLBxE1JkCM",
+  "title": "Bahlil Pastikan Stok BBM Nasional Aman 16-18 Hari",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Menko Bidang Hilirisasi dan Ketahanan Energi Bahlil Lahadalia menyatakan stok BBM nasional masih aman meski stok Pertalite menurun, dan meminta Pertamina menambah pasokan.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut ketahanan energi nasional yang berdampak pada aktivitas industri dan konsumsi masyarakat.",
+  "terbit": "2026-10-17T11:08:23+00:00"
+ },
+ {
   "id": "rDmCljplxg0",
   "title": "Indonesia-Rusia Sepakat Bangun PLTN Terapung 200 MW",
   "category": "Energi",

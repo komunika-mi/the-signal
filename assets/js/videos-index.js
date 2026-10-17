@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "wB1dsSgZfc4",
+  "title": "Sistem Ganjil Genap Mulai Urai Antrean SPBU di Bali",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Penerapan sistem ganjil genap untuk pembelian BBM bersubsidi di Bali mulai mengurangi antrean panjang di sejumlah SPBU di tengah keterbatasan pasokan.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti dampak kebijakan distribusi BBM bersubsidi terhadap mobilitas dan ekonomi daerah."
+ },
+ {
+  "id": "iFYMDxd0uBo",
+  "title": "Bali Terapkan Ganjil Genap Pengisian BBM Bersubsidi",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Pemerintah Provinsi Bali memberlakukan sistem ganjil genap untuk pengisian BBM bersubsidi jenis Pertalite mulai 17 hingga 19 Oktober 2026 sebagai langkah darurat.",
+  "takeaway": "Menunjukkan respons pemerintah daerah terhadap tekanan pasokan energi bersubsidi yang berdampak langsung pada aktivitas ekonomi masyarakat."
+ },
+ {
+  "id": "PeLBxE1JkCM",
+  "title": "Bahlil Pastikan Stok BBM Nasional Aman 16-18 Hari",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Menko Bidang Hilirisasi dan Ketahanan Energi Bahlil Lahadalia menyatakan stok BBM nasional masih aman meski stok Pertalite menurun, dan meminta Pertamina menambah pasokan.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut ketahanan energi nasional yang berdampak pada aktivitas industri dan konsumsi masyarakat."
+ },
+ {
   "id": "rDmCljplxg0",
   "title": "Indonesia-Rusia Sepakat Bangun PLTN Terapung 200 MW",
   "category": "Energi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "PT Pegadaian menjalin perjanjian kerja sama dengan Polri untuk memperkuat pengamanan aset dan kelancaran operasional perusahaan.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut tata kelola risiko dan keamanan operasional BUMN jasa keuangan nonbank."
- },
- {
-  "id": "jL6tKdLiZ98",
-  "title": "Biaya Haji 2027 Disepakati Pemerintah dan DPR",
-  "category": "Makroekonomi",
-  "program": "Kabar Hari Ini",
-  "summary": "Pemerintah dan DPR menetapkan Biaya Penyelenggaraan Ibadah Haji (BPIH) 2027 sebesar Rp98,46 juta, termasuk rincian Biaya Perjalanan Ibadah Haji (Bipih) yang ditanggung jemaah.",
-  "takeaway": "Penetapan BPIH menyangkut alokasi anggaran negara dan subsidi haji, sehingga relevan bagi pembaca yang mengikuti kebijakan fiskal pemerintah."
- },
- {
-  "id": "QnHbUfBfosE",
-  "title": "Strategi Pelaku Bisnis Event Organizer Hadapi Tekanan Ekonomi",
-  "category": "Bisnis",
-  "program": "tvOneNews",
-  "summary": "Bisnis event organizer, termasuk kompetisi lari dan fun run, disebut terus tumbuh pesat dalam dua dekade terakhir meski menghadapi tekanan ekonomi. Pelaku usaha di sektor ini menerapkan sejumlah siasat untuk tetap bertahan.",
-  "takeaway": "Menggambarkan daya tahan sektor jasa dan event kreatif di tengah perlambatan ekonomi, relevan bagi pembaca yang mengamati dinamika bisnis non konvensional."
- },
- {
-  "id": "HRH4nb6fqGw",
-  "title": "Bisnis Event Organizer Masih Menguntungkan?",
-  "category": "Bisnis",
-  "program": "Indonesia Business Forum",
-  "summary": "Bisnis event organizer, khususnya event lari dan kompetisi, disebut tumbuh pesat di Indonesia dalam dua dekade terakhir dan masih menjanjikan secara bisnis.",
-  "takeaway": "Menggambarkan peluang ekonomi dari sektor jasa event yang terus berkembang di Indonesia."
  }
 ];

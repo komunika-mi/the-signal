@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kur-nelayan-desa-awang-tembus-rp13-6-miliar",
+  "category": "UMKM",
+  "title": "KUR Nelayan Desa Awang Tembus [Rp13,6 Miliar]",
+  "deck": "BSI menyalurkan KUR Rp13,6 miliar untuk 160 nelayan di Desa Awang, Lombok Tengah, sementara puluhan pembudidaya lobster di sana belum semuanya tersentuh kredit ini.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "KUR",
+   "Nelayan",
+   "BSI",
+   "Lombok Tengah"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7164/program-kur-dukung-usaha-nelayan-dan-budidaya-lobster-kemenko-perekonomian-perkuat-sinergi-pembiayaan-di-desa-awang",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "paviliun-kawasan-berikat-tei-catat-minat-rp5-triliun",
+  "category": "Industri",
+  "title": "Paviliun Kawasan Berikat TEI Catat Minat [Rp5 Triliun]",
+  "deck": "Enam belas perusahaan menyatakan minat memanfaatkan status Kawasan Berikat dan Pusat Logistik Berikat di Trade Expo Indonesia 2026, dengan potensi investasi sekitar Rp5 triliun menurut Kemendag.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "Kawasan Berikat",
+   "Trade Expo Indonesia",
+   "Ekspor Manufaktur",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/paviliun-kawasan-berikat-di-tei-2026-catat-potensi-transaksi-lebih-dari-rp5-triliun",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "target-pertumbuhan-6-2027-bersandar-pada-ekonomi-digital",
   "category": "Makroekonomi",
   "title": "Target Pertumbuhan [6%] 2027 Bersandar pada Ekonomi Digital",
@@ -72,7 +104,7 @@ var ARTICLES = [
   "title": "Gula Lontar Bali Angkat Pendapatan Petani ke [Rp3 Juta]/Bulan",
   "deck": "Tarunira, usaha sosial pengolah gula lontar di Karangasem, Bali, memamerkan produknya di Trade Expo Indonesia 2026 sembari menjajaki peluang ekspor ke Jepang, Eropa, dan Australia.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/gula-merah.jpg",
   "tags": [
    "gula lontar",
    "UMKM",
@@ -205,7 +237,7 @@ var ARTICLES = [
   "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
   "deck": "Kemendag menargetkan 4 juta UMKM siap ekspor dalam lima tahun lewat program Campuspreneur yang kini melibatkan 27 perguruan tinggi, termasuk MoU baru dengan UIN Jakarta dan Universitas Presiden.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/gula-merah.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "UMKM",
    "ekspor",
@@ -271,7 +303,7 @@ var ARTICLES = [
   "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
   "deck": "Pemerintah memperpanjang tenggat wajib sertifikat halal untuk makanan, minuman, kosmetik, dan obat dari 18 Oktober 2026 menjadi 2028, menyusul masukan dunia usaha soal kesiapan ekosistem sertifikasi.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "Sertifikat Halal",
    "BPJPH",
@@ -2865,7 +2897,7 @@ var ARTICLES = [
   "title": "Sertifikasi Halal Jadi [Wajib] Mulai 17 Oktober 2026",
   "deck": "Pemerintah memberlakukan kewajiban sertifikasi halal mulai 17 Oktober 2026, seiring target ekonomi syariah jadi penopang pertumbuhan menuju 8 persen.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "ekonomi syariah",
    "sertifikasi halal",
@@ -2915,7 +2947,7 @@ var ARTICLES = [
   "title": "RI Terbitkan Aturan [Antidumping] Baru, Tutup Celah Penghindaran",
   "deck": "PP Nomor 39 Tahun 2026 mengatur ulang tindakan pengamanan, antidumping, dan imbalan, serta untuk pertama kalinya melarang praktik penghindaran lewat rute kirim atau negara asal palsu.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "antidumping",
    "PP 39/2026",
@@ -3471,7 +3503,7 @@ var ARTICLES = [
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
   "deck": "Pemerintah bersama ILO dan SECO menutup program PROMISE II dan memasuki fase baru penguatan akses keuangan UMKM, di tengah kesenjangan literasi keuangan yang masih lebar.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/pengrajin-rotan.jpg",
   "tags": [
    "UMKM",
    "Literasi Keuangan",
@@ -6284,7 +6316,7 @@ var ARTICLES = [
   "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",
   "deck": "Pembangunan kembali Desa Adat Sade di Lombok Tengah pascakebakaran Agustus 2026 terus berjalan, dengan 40 dari 75 rumah adat sudah berdiri dan ekonomi warga mulai bergerak lagi.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/pengrajin-rotan.jpg",
+  "image": "assets/img/kedai-kopi-kecil.jpg",
   "tags": [
    "Desa Adat Sade",
    "Lombok Tengah",
@@ -6300,7 +6332,7 @@ var ARTICLES = [
   "title": "KEK Kura-Kura Bali Diarahkan Jadi Hub Riset [AI] dan Semikonduktor",
   "deck": "Pemerintah mendorong KEK Kura-Kura Bali menjadi simpul riset AI, semikonduktor, dan teknologi kuantum lewat skema kerja sama industri Indonesia-Tiongkok Two Countries Twin Parks.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
+  "image": "assets/img/mesin-tekstil.jpg",
   "tags": [
    "KEK Kura-Kura Bali",
    "Investasi Tiongkok",
@@ -6316,7 +6348,7 @@ var ARTICLES = [
   "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
   "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/kedai-kopi-kecil.jpg",
+  "image": "assets/img/pedagang-sayur-keliling.jpg",
   "tags": [
    "KUR",
    "UMKM",
@@ -6447,7 +6479,7 @@ var ARTICLES = [
   "title": "Pabrik Konstruksi Tiongkok [Rp710 M] Beroperasi di KEK Kendal",
   "deck": "PT HSG Material Indonesia, bagian grup Fujian Hongsheng dari Tiongkok, mengoperasikan pabrik tiang pancang beton senilai Rp710 miliar di KEK Kendal dan menyerap hingga 400 tenaga kerja.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/mesin-tekstil.jpg",
+  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
   "tags": [
    "KEK Kendal",
    "investasi Tiongkok",
@@ -6502,39 +6534,5 @@ var ARTICLES = [
   "tags": [],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472188-pertamina-buka-camping-ground-bisa-jadi-alternatif-tempat-menginap-saat-nonton-pertamina-grand-prix-of-indonesia"
- },
- {
-  "slug": "test-shm-rencanakan-buyback-saham-senilai-rp10-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TEST-SHM Rencanakan [Buyback] Saham Senilai Rp10 Miliar",
-  "deck": "Emiten berkode TEST-SHM berencana membeli kembali sahamnya hingga Rp10 miliar dengan batas harga Rp100 per saham, periode 12 Oktober 2026 sampai 12 Oktober 2027.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEST-SHM",
-   "buyback saham",
-   "pasar modal",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261010_TEST-SHM_E006_c739886e-24f0-4e04-93de-a614cd8d547e-20261010095925.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "waduk-plta-batang-toru-mulai-digenangi-demi-pasokan-nataru",
-  "category": "Energi",
-  "title": "Waduk PLTA Batang Toru Mulai [Digenangi] demi Pasokan Nataru",
-  "deck": "Penggenangan waduk PLTA Batang Toru berkapasitas 510 MW dimulai, menyusul cadangan listrik Sumatera Utara yang disebut ESDM baru 4 persen, jauh di bawah batas aman menjelang Nataru.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/waduk-plta-batang-toru-mulai-digenangi-demi-pasokan-nataru.jpg",
-  "imageV": "mv1rdbfl",
-  "tags": [
-   "PLTA Batang Toru",
-   "ESDM",
-   "Listrik Sumatera Utara",
-   "Nataru"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/waduk-plta-batang-toru-mulai-digenangi-pasokan-listrik-sumatera-utara-kian-andal-jelang-nataru",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

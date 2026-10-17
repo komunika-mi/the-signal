@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "apl3G2oxUPY",
+  "title": "Antrean BBM di SPBU Bali Mulai Berkurang",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Antrean kendaraan di sejumlah SPBU di Bali dilaporkan mulai berkurang, menjadi perkembangan positif setelah persoalan antrean dan ketersediaan bahan bakar minyak sempat menjadi keluhan masyarakat.",
+  "takeaway": "Ketersediaan BBM menyangkut kelancaran distribusi energi dan aktivitas ekonomi sehari hari di Bali, sehingga perbaikan pasokan ini relevan bagi pembaca yang mengikuti isu energi domestik.",
+  "terbit": "2026-10-17T15:04:16+00:00"
+ },
+ {
   "id": "wB1dsSgZfc4",
   "title": "Sistem Ganjil Genap Mulai Urai Antrean SPBU di Bali",
   "category": "Energi",

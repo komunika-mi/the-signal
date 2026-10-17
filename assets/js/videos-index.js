@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "apl3G2oxUPY",
+  "title": "Antrean BBM di SPBU Bali Mulai Berkurang",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Antrean kendaraan di sejumlah SPBU di Bali dilaporkan mulai berkurang, menjadi perkembangan positif setelah persoalan antrean dan ketersediaan bahan bakar minyak sempat menjadi keluhan masyarakat.",
+  "takeaway": "Ketersediaan BBM menyangkut kelancaran distribusi energi dan aktivitas ekonomi sehari hari di Bali, sehingga perbaikan pasokan ini relevan bagi pembaca yang mengikuti isu energi domestik."
+ },
+ {
   "id": "wB1dsSgZfc4",
   "title": "Sistem Ganjil Genap Mulai Urai Antrean SPBU di Bali",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "Indonesia Modification & Lifestyle Expo (IMX) 2026 resmi dibuka di ICE BSD City, Tangerang, dan berlangsung hingga 11 Oktober 2026. Pameran otomotif ini melibatkan pelaku usaha mikro di sektor modifikasi kendaraan.",
   "takeaway": "Pameran ini mencerminkan perputaran bisnis di industri modifikasi otomotif sekaligus ruang bagi pelaku usaha mikro untuk ikut tumbuh."
- },
- {
-  "id": "XGxANWaMWY0",
-  "title": "Pegadaian Gandeng Polri Perkuat Pengamanan Aset dan Operasional",
-  "category": "BUMN",
-  "program": "tvOneNews",
-  "summary": "PT Pegadaian menjalin perjanjian kerja sama dengan Polri untuk memperkuat pengamanan aset dan kelancaran operasional perusahaan.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut tata kelola risiko dan keamanan operasional BUMN jasa keuangan nonbank."
  }
 ];

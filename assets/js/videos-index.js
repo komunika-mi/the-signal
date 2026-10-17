@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "bnvRPO9uYnU",
+  "title": "Pemerintah Gandakan Kapal Atasi Krisis BBM di Bali",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Pemerintah menambah jumlah kapal pengangkut BBM untuk mengatasi krisis pasokan di Bali, sementara Menko Bahlil Lahadalia memastikan stok BBM nasional masih aman meski stok Pertalite menurun.",
+  "takeaway": "Langkah distribusi ini relevan bagi pembaca karena menyangkut ketahanan energi nasional dan potensi dampaknya pada pasokan serta harga BBM di daerah."
+ },
+ {
+  "id": "4qqy9iIYt74",
+  "title": "Gudang Penimbunan 10 Ton Solar Subsidi Dibongkar",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Polda Jawa Tengah menyita 10 ton solar bersubsidi dari sebuah gudang di Cilacap, lengkap dengan tandon, galon, dan kartu barcode solar yang diduga dipakai untuk penyelewengan distribusi.",
+  "takeaway": "Kasus ini penting bagi pembaca ekonomi karena menunjukkan kebocoran dalam distribusi BBM subsidi yang bisa mengurangi efektivitas kebijakan energi pemerintah."
+ },
+ {
   "id": "apl3G2oxUPY",
   "title": "Antrean BBM di SPBU Bali Mulai Berkurang",
   "category": "Energi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Dari Desa",
   "summary": "Petani kopi Pinogu di Bone Bolango, Gorontalo, terus bertahan mengembangkan potensi kopi lokal meski menghadapi keterbatasan akses dan medan yang berat untuk memperluas pasar.",
   "takeaway": "Kisah ini menggambarkan tantangan sektor perkebunan rakyat dalam menembus pasar yang lebih luas."
- },
- {
-  "id": "V9l3W0w1KWQ",
-  "title": "Harga Cabai Rawit Merah Tembus Rp70 Ribu per Kilogram",
-  "category": "Makroekonomi",
-  "program": "Kabar Siang",
-  "summary": "Harga cabai rawit merah di pasar tradisional Surabaya melonjak dari Rp30 ribu menjadi Rp70 ribu per kilogram, seiring naiknya harga sejumlah bumbu dan sayuran lain.",
-  "takeaway": "Lonjakan harga pangan seperti ini berdampak langsung pada daya beli masyarakat dan laju inflasi daerah."
- },
- {
-  "id": "kUkZ_EhR3PU",
-  "title": "Pameran Modifikasi Otomotif IMX 2026 Resmi Dibuka di BSD",
-  "category": "Industri",
-  "program": "Kabar Pagi",
-  "summary": "Indonesia Modification & Lifestyle Expo (IMX) 2026 resmi dibuka di ICE BSD City, Tangerang, dan berlangsung hingga 11 Oktober 2026. Pameran otomotif ini melibatkan pelaku usaha mikro di sektor modifikasi kendaraan.",
-  "takeaway": "Pameran ini mencerminkan perputaran bisnis di industri modifikasi otomotif sekaligus ruang bagi pelaku usaha mikro untuk ikut tumbuh."
  }
 ];

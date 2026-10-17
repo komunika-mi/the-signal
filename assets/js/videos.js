@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "bnvRPO9uYnU",
+  "title": "Pemerintah Gandakan Kapal Atasi Krisis BBM di Bali",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Pemerintah menambah jumlah kapal pengangkut BBM untuk mengatasi krisis pasokan di Bali, sementara Menko Bahlil Lahadalia memastikan stok BBM nasional masih aman meski stok Pertalite menurun.",
+  "takeaway": "Langkah distribusi ini relevan bagi pembaca karena menyangkut ketahanan energi nasional dan potensi dampaknya pada pasokan serta harga BBM di daerah.",
+  "terbit": "2026-10-17T16:31:29+00:00"
+ },
+ {
+  "id": "4qqy9iIYt74",
+  "title": "Gudang Penimbunan 10 Ton Solar Subsidi Dibongkar",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Polda Jawa Tengah menyita 10 ton solar bersubsidi dari sebuah gudang di Cilacap, lengkap dengan tandon, galon, dan kartu barcode solar yang diduga dipakai untuk penyelewengan distribusi.",
+  "takeaway": "Kasus ini penting bagi pembaca ekonomi karena menunjukkan kebocoran dalam distribusi BBM subsidi yang bisa mengurangi efektivitas kebijakan energi pemerintah.",
+  "terbit": "2026-10-17T16:29:55+00:00"
+ },
+ {
   "id": "apl3G2oxUPY",
   "title": "Antrean BBM di SPBU Bali Mulai Berkurang",
   "category": "Energi",

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "baznas-beri-penghargaan-ke-koperasi-angkasa-malaysia",
+  "category": "Global",
+  "title": "BAZNAS Beri [Penghargaan] ke Koperasi ANGKASA Malaysia",
+  "deck": "BAZNAS menobatkan ANGKASA, koperasi nasional Malaysia, sebagai mitra internasional terbaik pendukung zakat di Grand BAZNAS Awards 2026, Jakarta.",
+  "image": "assets/img/baznas-beri-penghargaan-ke-koperasi-angkasa-malaysia.jpg",
+  "date": "17 Oktober 2026",
+  "isoDate": "2026-10-17T23:55:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473592-sinergi-zakat-antarnegara-baznas-beri-penghargaan-khusus-untuk-koperasi-kebangsaan-malaysia-angkasa",
+  "tags": [
+   "BAZNAS",
+   "ANGKASA",
+   "Grand BAZNAS Awards 2026",
+   "Zakat"
+  ],
+  "body": [
+   "Badan Amil Zakat Nasional (BAZNAS) memberikan penghargaan kepada Angkatan Koperasi Kebangsaan Malaysia Berhad (ANGKASA) sebagai mitra internasional terbaik pendukung zakat, dalam ajang Grand BAZNAS Awards 2026 di Jakarta, Kamis, 15 Oktober 2026. Pengakuan ini diberikan atas peran ANGKASA dalam mendukung program pemberdayaan ekonomi dan bantuan berkelanjutan bagi mustahik, sebutan untuk warga yang berhak menerima zakat, di Indonesia.",
+   "Penghargaan diterima oleh Faizul Dato Hanapi, perwakilan ASEAN Co-operative Organization dari ANGKASA, mewakili Presiden ANGKASA Datuk Seri Dr. Abdul Fattah Abdullah yang berhalangan hadir. Faizul menyebut penghargaan ini sebagai dorongan untuk memperluas kolaborasi Indonesia dan Malaysia dalam upaya pengentasan kemiskinan.",
+   "Salah satu arah kerja sama yang disorot adalah pemanfaatan jaringan masjid di seluruh Indonesia sebagai pusat pemberdayaan ekonomi masyarakat. Faizul juga menyampaikan harapan agar ke depan lahir aturan atau mekanisme baru yang memudahkan kerja sama lintas negara dalam pengelolaan dana zakat, infak, dan sedekah, sehingga manfaatnya lebih nyata bagi masyarakat berpenghasilan rendah.",
+   "BAZNAS menyebut langkah ini sebagai bagian dari upaya membangun jejaring filantropi Islam internasional yang akuntabel dan transparan, sekaligus memperkuat kerja sama ekonomi di tingkat regional."
+  ],
+  "fotoAdegan": "Modest market stalls and worshippers gathering in a mosque courtyard in Indonesia, warm afternoon light, everyday street activity",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/17/6ad3a73339a2b-aco-angkasa-faizul-dato-hanapi-menerima-penghargaan-grand-baznas-awards-2026-di-jakarta-kamis-15102026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang terjadi di sini masih bersifat simbolis: BAZNAS memberi penghargaan kepada ANGKASA, lembaga koperasi nasional Malaysia, atas kontribusinya pada program pemberdayaan ekonomi bagi mustahim atau penerima zakat di Indonesia. Pihak yang langsung tersentuh adalah jaringan penerima manfaat zakat di Indonesia dan ANGKASA sebagai mitra, sementara dampak yang lebih luas masih bergantung pada program lanjutan yang belum dirinci dalam berita ini. Perwakilan ANGKASA secara terbuka menyebut harapan agar lahir aturan atau mekanisme baru yang memudahkan kerja sama zakat lintas negara, termasuk rencana menjadikan masjid-masjid di Indonesia sebagai pusat pemberdayaan ekonomi warga sekitar. Namun belum disebutkan bentuk aturan itu, siapa yang akan merumuskannya, atau kapan targetnya, sehingga arah kerja sama ini untuk saat ini baru sebatas harapan, belum menjadi kebijakan konkret. Yang perlu dipantau adalah apakah BAZNAS atau otoritas terkait benar-benar menerbitkan mekanisme lintas negara tersebut, dan kapan rencana pemberdayaan ekonomi berbasis masjid itu mulai berjalan.",
+  "imageV": "mvcrvwuj"
+ },
+ {
   "slug": "transaksi-emas-digital-melonjak-641-persen-dalam-setahun",
   "category": "Bisnis",
   "title": "Transaksi Emas Digital [Melonjak] 641 Persen dalam Setahun",
@@ -84,7 +111,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, tapi data soal sejauh mana KUR, kredit bersubsidi pemerintah untuk usaha kecil, benar-benar menjangkau nelayan dan pembudidaya lobster di pesisir. Di Desa Awang, BSI sudah menyalurkan Rp13,6 miliar ke 160 nelayan, tapi ada sekitar 80 pembudidaya lobster dalam satu kelompok usaha yang belum semuanya jadi peminjam, dengan kebutuhan modal sekitar Rp50 juta per orang. Yang kena dampak langsung adalah nelayan tangkap dan pembudidaya lobster di Desa Awang, sementara arah besarnya mengarah ke perluasan KUR ke kelompok pembudidaya yang belum tersentuh itu, asalkan kendala di luar modal seperti sertifikasi izin ruang laut dan ketiadaan fasilitas pendingin ikan di Lombok Tengah juga ikut dibenahi. Konteksnya, penyaluran KUR ke sektor perikanan secara nasional masih kecil, cuma 1,55 persen dari total KUR sampai akhir September 2026, jadi ruang untuk tumbuh masih besar. Yang akan menunjukkan apakah perluasan ini benar terjadi adalah apakah BSI berhasil menggaet sebagian dari 80 pembudidaya lobster itu sebagai peminjam baru, serta apakah realisasi KUR BSI yang baru 69,29 persen dari target Rp15 triliun bisa mengejar sisa waktu di 2026.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "paviliun-kawasan-berikat-tei-catat-minat-rp5-triliun",
@@ -140,7 +167,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah penegasan bahwa ekonomi digital jadi salah satu tumpuan utama untuk mengejar target pertumbuhan 6 persen pada 2027, padahal realisasi semester pertama tahun ini baru 5,45 persen. Pemerintah memasang angka besar di belakangnya: investasi perlu tumbuh 8 sampai 9 persen senilai Rp2.258 triliun, dan pembangunan pusat data ditaksir butuh US$15 miliar sampai US$20 miliar. Yang terdampak langsung adalah pelaku usaha pusat data, pedagang pengguna QRIS, dan platform e-commerce yang dikejar target Harbolnas Rp40 triliun. Arahnya masih terbelah: rencana investasi NVIDIA senilai US$4,5 miliar di Batam disebut masih dalam tahap pembicaraan, bukan kesepakatan, sehingga target pertumbuhan 6 persen bisa makin realistis kalau investasi-investasi besar ini benar terealisasi, atau tetap jadi target di atas kertas kalau macet di tahap negosiasi. Yang akan menentukan ke arah mana ini bergerak adalah kelanjutan pembicaraan investasi Batam itu serta data pertumbuhan ekonomi kuartal berikutnya setelah semester pertama 2026.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "kantor-dagang-ri-bantu-umkm-cari-pembeli-di-as-dan-cili",

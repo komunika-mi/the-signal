@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "baznas-beri-penghargaan-ke-koperasi-angkasa-malaysia",
+  "category": "Global",
+  "title": "BAZNAS Beri [Penghargaan] ke Koperasi ANGKASA Malaysia",
+  "deck": "BAZNAS menobatkan ANGKASA, koperasi nasional Malaysia, sebagai mitra internasional terbaik pendukung zakat di Grand BAZNAS Awards 2026, Jakarta.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/baznas-beri-penghargaan-ke-koperasi-angkasa-malaysia.jpg",
+  "imageV": "mvcrvwuj",
+  "tags": [
+   "BAZNAS",
+   "ANGKASA",
+   "Grand BAZNAS Awards 2026",
+   "Zakat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473592-sinergi-zakat-antarnegara-baznas-beri-penghargaan-khusus-untuk-koperasi-kebangsaan-malaysia-angkasa"
+ },
+ {
   "slug": "transaksi-emas-digital-melonjak-641-persen-dalam-setahun",
   "category": "Bisnis",
   "title": "Transaksi Emas Digital [Melonjak] 641 Persen dalam Setahun",
@@ -6522,22 +6539,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7141/resmikan-operasionalisasi-pabrik-hsg-material-menko-airlangga-tegaskan-komitmen-pemerintah-tarik-investasi-ke-sektor-manufaktur",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "sgn-perkuat-kemitraan-dengan-petani-tebu-lewat-cpcl",
-  "category": "BUMN",
-  "title": "SGN Perkuat Kemitraan dengan [Petani] Tebu Lewat CPCL",
-  "deck": "PT Sinergi Gula Nusantara menjalankan program Calon Petani dan Calon Lokasi agar bantuan dan pendampingan ke petani tebu lebih tepat sasaran.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/sgn-perkuat-kemitraan-dengan-petani-tebu-lewat-cpcl.jpg",
-  "imageV": "mv1xw7rp",
-  "tags": [
-   "gula",
-   "petani tebu",
-   "BUMN",
-   "swasembada"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472198-program-cpcl-jadi-fokus-kemitraan-pt-sgn-dengan-petani-tebu"
  }
 ];

@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "rDmCljplxg0",
+  "title": "Indonesia-Rusia Sepakat Bangun PLTN Terapung 200 MW",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Indonesia dan Rusia menyepakati proyek pembangkit listrik tenaga nuklir terapung berkapasitas 200 megawatt untuk memasok listrik ke wilayah utara Indonesia.",
+  "takeaway": "Proyek ini menjadi langkah awal masuknya energi nuklir ke bauran energi nasional, sehingga layak dipantau pelaku pasar energi dan investor infrastruktur."
+ },
+ {
+  "id": "buav72NREI0",
+  "title": "DPR Dorong Perbaikan Berkelanjutan di Pasar Modal",
+  "category": "Pasar Modal",
+  "program": "AKAP",
+  "summary": "Wakil Ketua DPR Sufmi Dasco Ahmad mendorong perbaikan berkelanjutan di pasar modal Indonesia untuk memperkuat kepercayaan investor dan transparansi.",
+  "takeaway": "Sinyal dukungan politik terhadap reformasi pasar modal ini berpotensi memengaruhi arah kebijakan otoritas bursa dan minat investor domestik maupun asing."
+ },
+ {
+  "id": "j92OBPCAcz4",
+  "title": "Pengisian BBM di Bali Dibatasi, Motor 3 Liter per Transaksi",
+  "category": "Energi",
+  "program": "AKAP",
+  "summary": "Pertamina membatasi pembelian BBM di Bali, dengan kuota maksimal 20 liter untuk mobil dan 3 liter untuk sepeda motor setiap transaksi.",
+  "takeaway": "Pembatasan ini berdampak langsung pada konsumsi energi rumah tangga serta biaya operasional sektor transportasi dan pariwisata di Bali."
+ },
+ {
   "id": "17ZsxqKq35I",
   "title": "Pupuk Indonesia Jaga Pasokan Pupuk ke Petani",
   "category": "BUMN",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Bisnis event organizer, khususnya event lari dan kompetisi, disebut tumbuh pesat di Indonesia dalam dua dekade terakhir dan masih menjanjikan secara bisnis.",
   "takeaway": "Menggambarkan peluang ekonomi dari sektor jasa event yang terus berkembang di Indonesia."
- },
- {
-  "id": "BWSh15fhqvA",
-  "title": "Ekonom Soroti Potensi Event Internasional di Indonesia",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Ekonom memberikan pandangan soal potensi ekonomi dari penyelenggaraan event internasional, termasuk event lari, yang pasarnya tumbuh di Indonesia.",
-  "takeaway": "Perspektif ekonom membantu menilai dampak penyelenggaraan event besar terhadap perputaran ekonomi lokal."
- },
- {
-  "id": "ohadkCvpOS8",
-  "title": "DPR dan Pemerintah Rampungkan Perpres Tarif Ojol",
-  "category": "Bisnis",
-  "program": "Kabar Utama",
-  "summary": "DPR dan pemerintah merampungkan harmonisasi aturan ojek online, termasuk pengaturan tarif dan layanan angkutan barang.",
-  "takeaway": "Regulasi tarif ojol berpengaruh langsung pada ekosistem bisnis transportasi daring dan pendapatan mitra pengemudi."
- },
- {
-  "id": "SKnXRkX0WOE",
-  "title": "Kemenekraf Tanggapi Keluhan Birokrasi Perizinan Event",
-  "category": "UMKM",
-  "program": "Indonesia Business Forum",
-  "summary": "Kementerian Ekonomi Kreatif merespons keluhan pelaku usaha soal birokrasi dan perizinan event yang dinilai masih menyulitkan di Indonesia.",
-  "takeaway": "Isu perizinan ini relevan bagi pelaku usaha event dan ekonomi kreatif yang hendak berekspansi."
  }
 ];

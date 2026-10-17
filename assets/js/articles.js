@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemendag-klaim-amankan-rp8-triliun-ekspor-dari-hambatan-dagang",
+  "category": "UMKM",
+  "title": "Kemendag Klaim Amankan [Rp8 Triliun] Ekspor dari Hambatan Dagang",
+  "deck": "Kemendag mengklaim mengamankan potensi penerimaan ekspor lebih dari Rp8 triliun dalam dua tahun lewat penanganan 60 kasus hambatan dagang, dibahas dalam seminar UMKM di Trade Expo Indonesia.",
+  "image": "assets/img/kemendag-klaim-amankan-rp8-triliun-ekspor-dari-hambatan-dagang.jpg",
+  "date": "17 Oktober 2026",
+  "isoDate": "2026-10-17T10:36:42.210Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kolaborasi-pemerintah-dan-dunia-usaha-atasi-hambatan-perdagangan",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Kemendag",
+   "Ekspor",
+   "UMKM",
+   "Hambatan Dagang"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri menegaskan pentingnya menjaga kepercayaan antara pemerintah dan pelaku usaha dalam menghadapi hambatan di pasar ekspor, saat membuka seminar bertajuk Menembus Hambatan, Menjaga Pasar Ekspor bagi UMKM di sela Trade Expo Indonesia (TEI) ke-41, Jumat (16/10). Ia mengatakan hambatan dari negara tujuan ekspor kerap muncul di luar rencana, sehingga pelaku usaha memerlukan dukungan perwakilan dagang Indonesia di luar negeri untuk menjaga akses pasar. TEI ke-41 berlangsung di ICE BSD City, Kabupaten Tangerang, pada 14 sampai 18 Oktober 2026.",
+   "Direktur Jenderal Perdagangan Luar Negeri Tommy Andana menyebut Indonesia memiliki 46 perwakilan perdagangan, mencakup atase dagang dan Indonesian Trade Promotion Center, yang tersebar di 33 negara untuk meriset pasar dan mempertemukan produk Indonesia dengan pembeli di negara penempatan. Menurut Tommy, dalam dua tahun terakhir Kemendag menangani 60 kasus hambatan dagang berupa tuduhan antidumping, antisubsidi, safeguards, dan hambatan teknis lain, yang menurutnya berhasil mengamankan potensi penerimaan ekspor lebih dari Rp8 triliun. Produk yang disebut lolos dari tuduhan tersebut meliputi kertas, kaca lembaran (clear float glass), biodiesel, bahan kimia hulu, dan baja nirkarat (stainless steel).",
+   "Direktur Pengamanan Perdagangan Reza Pahlevi Chairul menjelaskan, pihaknya mendorong penguatan Sistem Peringatan Dini atau Early Warning System untuk mendeteksi sejak awal potensi penerapan trade remedies atau instrumen pembatasan dagang oleh negara mitra. Dalam seminar yang menghadirkan atase perdagangan RI di Ankara dan New Delhi, Ketua Apkindo, manajer urusan trade remedies Asia Pulp and Paper, serta seorang pengacara trade remedies, dibahas pula pengalaman konkret menghadapi tuduhan dumping dan subsidi, termasuk pada komoditas plywood dan kertas.",
+   "Seminar ini diikuti lebih dari 100 peserta yang terdiri atas pelaku usaha, mahasiswa, dan masyarakat umum, sebagai bagian dari rangkaian edukasi TEI bagi UMKM yang ingin menembus pasar ekspor."
+  ],
+  "fotoAdegan": "Workers stacking large rolls of paper inside an industrial warehouse, a forklift moving pallets nearby, warm overhead lighting",
+  "fotoSumber": "https://www.kemendag.go.id/albums/NzXKh0zvlbz7HJNlk2exSS55oIrFeY4HF2inY7pQ.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari siaran ini adalah klaim pemerintah bahwa dalam dua tahun terakhir mereka menyelamatkan potensi pendapatan ekspor lebih dari Rp8 triliun, lewat penanganan 60 kasus di mana negara tujuan ekspor menuduh produk Indonesia dijual terlalu murah atau disubsidi sehingga berisiko dikenai denda dagang tambahan. Produk yang disebut selamat dari tuduhan semacam itu antara lain kertas, kaca, biodiesel, bahan kimia, dan baja antikarat. Yang terdampak langsung adalah eksportir di sektor-sektor itu, termasuk UMKM peserta seminar ini, karena merekalah yang harus menjalani proses pembelaan yang rumit di negara tujuan ekspor begitu dituduh dumping. Perlu dicatat, angka Rp8 triliun itu adalah klaim sepihak Kemendag soal potensi yang diselamatkan, bukan angka pendapatan ekspor yang sudah pasti terealisasi, dan sistem deteksi dini yang disebut Kemendag masih berstatus diharapkan berjalan. Yang perlu dipantau berikutnya adalah apakah sistem itu benar-benar dipakai dan berapa kasus baru yang bisa dicegah sebelum merugikan eksportir.",
+  "imageV": "mvc9o2r5"
+ },
+ {
   "slug": "skema-bagi-hasil-ojol-92-8-berisiko-picu-efek-domino",
   "category": "Ketenagakerjaan",
   "title": "Skema Bagi Hasil Ojol 92:8 Berisiko Picu Efek [Domino]",
@@ -82,7 +110,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka paling konkret di sini adalah klaim BI bahwa rantai nilai produk halal, mulai dari makanan, busana, sampai kosmetik, tumbuh 6,21 persen pada 2025, lebih cepat dari pertumbuhan ekonomi Indonesia secara keseluruhan. Yang terdampak langsung adalah pelaku usaha kecil binaan BI yang disebut dalam forum ini, misalnya petani di Garut, perajin kain lewat program Citra Nusa, pelaku usaha kopi lewat Cangkir Barista, dan mahasiswa penerima beasiswa GenBI di 175 kampus. Pola yang terlihat adalah BI mengarah ke pembinaan langsung ke usaha kecil dan dorongan digitalisasi, dengan sistem pembayaran QRIS yang sudah menjangkau 47,11 juta pedagang sebagai salah satu alat utamanya, bukan semata lewat aturan baru dari atas. Yang akan menentukan apakah arah ini benar membuahkan hasil adalah apakah laporan peringkat ekonomi syariah global berikutnya menunjukkan posisi Indonesia naik dari peringkat keempat saat ini, dan apakah pertumbuhan rantai nilai halal pada 2026 tetap di atas pertumbuhan ekonomi nasional.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "baja-ri-bersaing-rebut-kuota-ekspor-ke-inggris-dan-eropa",
@@ -138,7 +166,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari acara ini sebatas data pendukung, bukan kebijakan baru: industri halal disebut menyumbang 27 persen dari total nilai ekonomi Indonesia atau sekitar Rp4.900 triliun, ekspor produk halal tercatat US$35,7 miliar pada semester pertama 2026, dan dari sekitar 37 juta pelaku UMKM, 64,5 persen adalah perempuan. Pihak yang paling relevan dengan angka ini adalah pelaku usaha kecil perempuan di sektor produk halal, termasuk yang berpotensi terhubung dengan pembiayaan bank syariah atau platform dagang digital seperti yang dibahas dalam diskusi panel. Bank Indonesia menyebut tiga langkah dukungan, yaitu pendampingan usaha, fasilitasi pembayaran digital, dan pembukaan akses pasar, tetapi tidak ada target angka, skema pembiayaan, atau tenggat waktu yang diumumkan untuk ketiganya. Karena itu belum bisa dibaca apakah dukungan ini akan berubah jadi program konkret dengan anggaran tertentu atau tetap berhenti di tingkat forum dan diskusi, sesuatu yang baru akan terlihat dari laporan realisasi ISEF atau program pembiayaan UMKM perempuan di edisi berikutnya.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "harga-emas-antam-naik-ke-rp2-572-000-per-gram",

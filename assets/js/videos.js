@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "rDmCljplxg0",
+  "title": "Indonesia-Rusia Sepakat Bangun PLTN Terapung 200 MW",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Indonesia dan Rusia menyepakati proyek pembangkit listrik tenaga nuklir terapung berkapasitas 200 megawatt untuk memasok listrik ke wilayah utara Indonesia.",
+  "takeaway": "Proyek ini menjadi langkah awal masuknya energi nuklir ke bauran energi nasional, sehingga layak dipantau pelaku pasar energi dan investor infrastruktur.",
+  "terbit": "2026-10-17T10:30:20+00:00"
+ },
+ {
+  "id": "buav72NREI0",
+  "title": "DPR Dorong Perbaikan Berkelanjutan di Pasar Modal",
+  "category": "Pasar Modal",
+  "program": "AKAP",
+  "summary": "Wakil Ketua DPR Sufmi Dasco Ahmad mendorong perbaikan berkelanjutan di pasar modal Indonesia untuk memperkuat kepercayaan investor dan transparansi.",
+  "takeaway": "Sinyal dukungan politik terhadap reformasi pasar modal ini berpotensi memengaruhi arah kebijakan otoritas bursa dan minat investor domestik maupun asing.",
+  "terbit": "2026-10-17T09:11:20+00:00"
+ },
+ {
+  "id": "j92OBPCAcz4",
+  "title": "Pengisian BBM di Bali Dibatasi, Motor 3 Liter per Transaksi",
+  "category": "Energi",
+  "program": "AKAP",
+  "summary": "Pertamina membatasi pembelian BBM di Bali, dengan kuota maksimal 20 liter untuk mobil dan 3 liter untuk sepeda motor setiap transaksi.",
+  "takeaway": "Pembatasan ini berdampak langsung pada konsumsi energi rumah tangga serta biaya operasional sektor transportasi dan pariwisata di Bali.",
+  "terbit": "2026-10-17T09:02:43+00:00"
+ },
+ {
   "id": "17ZsxqKq35I",
   "title": "Pupuk Indonesia Jaga Pasokan Pupuk ke Petani",
   "category": "BUMN",

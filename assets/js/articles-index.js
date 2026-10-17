@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-klaim-amankan-rp8-triliun-ekspor-dari-hambatan-dagang",
+  "category": "UMKM",
+  "title": "Kemendag Klaim Amankan [Rp8 Triliun] Ekspor dari Hambatan Dagang",
+  "deck": "Kemendag mengklaim mengamankan potensi penerimaan ekspor lebih dari Rp8 triliun dalam dua tahun lewat penanganan 60 kasus hambatan dagang, dibahas dalam seminar UMKM di Trade Expo Indonesia.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/kemendag-klaim-amankan-rp8-triliun-ekspor-dari-hambatan-dagang.jpg",
+  "imageV": "mvc9o2r5",
+  "tags": [
+   "Kemendag",
+   "Ekspor",
+   "UMKM",
+   "Hambatan Dagang"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kolaborasi-pemerintah-dan-dunia-usaha-atasi-hambatan-perdagangan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "skema-bagi-hasil-ojol-92-8-berisiko-picu-efek-domino",
   "category": "Ketenagakerjaan",
   "title": "Skema Bagi Hasil Ojol 92:8 Berisiko Picu Efek [Domino]",
@@ -6524,21 +6542,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472163-laba-bersih-meningkat-jasaraharja-putera-diganjar-penghargaan"
- },
- {
-  "slug": "bmtp-fitch-afirmasi-peringkat-aa-idn-outlook-stabil",
-  "category": "Aksi Korporasi",
-  "title": "BMTP: Fitch Afirmasi Peringkat [AA(idn)], Outlook Stabil",
-  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat Bank Mandiri Taspen (BMTP) di AA(idn) outlook stabil, termasuk untuk obligasi berkelanjutannya.",
-  "date": "9 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMTP",
-   "peringkat kredit",
-   "Fitch Ratings",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ca61233dd_ce65c88c6a.pdf",
-  "sourceLabel": "IDX"
  }
 ];

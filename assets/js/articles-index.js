@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "transaksi-emas-digital-melonjak-641-persen-dalam-setahun",
+  "category": "Bisnis",
+  "title": "Transaksi Emas Digital [Melonjak] 641 Persen dalam Setahun",
+  "deck": "Nilai transaksi emas fisik digital RI tumbuh 641,1 persen jadi Rp299,49 triliun dalam delapan bulan, sejalan dengan aturan baru soal keamanan sistem dan anti pencucian uang.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/transaksi-emas-digital-melonjak-641-persen-dalam-setahun.jpg",
+  "imageV": "mvcm81i8",
+  "tags": [
+   "emas digital",
+   "Bappebti",
+   "investasi",
+   "Kementerian Perdagangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/transaksi-emas-digital-kian-berkilau-bappebti-perkuat-literasi-masyarakat",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "eksportir-ke-eropa-harus-penuhi-eudr-sebelum-cepa-diteken",
+  "category": "Industri",
+  "title": "Eksportir ke Eropa Harus Penuhi [EUDR] sebelum CEPA Diteken",
+  "deck": "Kemendag minta eksportir kopi, karet, sawit, kakao, dan produk kayu segera penuhi aturan antideforestasi Uni Eropa sebelum I-EU CEPA ditandatangani akhir 2026.",
+  "date": "17 Oktober 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "I-EU CEPA",
+   "EUDR",
+   "ekspor",
+   "Uni Eropa"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/peluang-ekspor-produk-pertanian-terbuka-lebar-kemendag-dorong-eksportir-bersiap-manfaatkan-i-eu-cepa",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "kur-nelayan-desa-awang-tembus-rp13-6-miliar",
   "category": "UMKM",
   "title": "KUR Nelayan Desa Awang Tembus [Rp13,6 Miliar]",
@@ -26,7 +60,7 @@ var ARTICLES = [
   "title": "Paviliun Kawasan Berikat TEI Catat Minat [Rp5 Triliun]",
   "deck": "Enam belas perusahaan menyatakan minat memanfaatkan status Kawasan Berikat dan Pusat Logistik Berikat di Trade Expo Indonesia 2026, dengan potensi investasi sekitar Rp5 triliun menurut Kemendag.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "Kawasan Berikat",
    "Trade Expo Indonesia",
@@ -303,7 +337,7 @@ var ARTICLES = [
   "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
   "deck": "Pemerintah memperpanjang tenggat wajib sertifikat halal untuk makanan, minuman, kosmetik, dan obat dari 18 Oktober 2026 menjadi 2028, menyusul masukan dunia usaha soal kesiapan ekosistem sertifikasi.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "Sertifikat Halal",
    "BPJPH",
@@ -1549,7 +1583,7 @@ var ARTICLES = [
   "title": "Ekspor RI ke Inggris Hadapi Skema Tarif [Baru] 2027",
   "deck": "Kemendag dan Inggris perkuat kerja sama dagang, sementara skema tarif ekspor Inggris untuk Indonesia akan berubah mulai Januari 2027.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "Indonesia-Inggris",
    "Ekspor",
@@ -1613,7 +1647,7 @@ var ARTICLES = [
   "title": "Wamendag Soroti Peran Swedia dalam [I-EU CEPA] di TEI 2026",
   "deck": "Wamendag Dyah Roro Esti menyoroti peran Swedia dalam I-EU CEPA di forum bisnis Trade Expo Indonesia 2026, dengan nilai dagang RI-Swedia mencapai US$872,2 juta pada 2025.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "I-EU CEPA",
    "Swedia",
@@ -3519,7 +3553,7 @@ var ARTICLES = [
   "title": "Pemerintah Pacu 3 [CEPA] Baru, Bidik Ekspor Sawit-Otomotif",
   "deck": "Pemerintah mendorong percepatan implementasi tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Eurasia agar manfaatnya benar-benar terasa pada ekspor sawit, otomotif, kopi, dan sejumlah komoditas lain.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -3618,7 +3652,7 @@ var ARTICLES = [
   "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
   "deck": "Pemerintah mendorong pemanfaatan nyata tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia yang menurut kajian Kemenko berpotensi menambah ekspor lebih dari US$14 miliar.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "ekspor",
    "perjanjian dagang",
@@ -3634,7 +3668,7 @@ var ARTICLES = [
   "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
   "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -6479,7 +6513,7 @@ var ARTICLES = [
   "title": "Pabrik Konstruksi Tiongkok [Rp710 M] Beroperasi di KEK Kendal",
   "deck": "PT HSG Material Indonesia, bagian grup Fujian Hongsheng dari Tiongkok, mengoperasikan pabrik tiang pancang beton senilai Rp710 miliar di KEK Kendal dan menyerap hingga 400 tenaga kerja.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
+  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
   "tags": [
    "KEK Kendal",
    "investasi Tiongkok",
@@ -6505,34 +6539,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472198-program-cpcl-jadi-fokus-kemitraan-pt-sgn-dengan-petani-tebu"
- },
- {
-  "slug": "warga-terdampak-rempang-eco-city-mulai-huni-350-rumah-baru",
-  "category": "Bisnis",
-  "title": "Warga Terdampak Rempang Eco-City Mulai Huni [350] Rumah Baru",
-  "deck": "Kementerian Transmigrasi dan BP Batam mulai menyerahkan 350 rumah permanen tipe 45 di Tanjung Banon bagi warga Pulau Rempang yang direlokasi akibat proyek Rempang Eco-City.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/warga-terdampak-rempang-eco-city-mulai-huni-350-rumah-baru.jpg",
-  "imageV": "mv1xw8f3",
-  "tags": [
-   "Rempang Eco-City",
-   "Kementerian Transmigrasi",
-   "BP Batam",
-   "Relokasi Warga"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472195-menengok-hunian-baru-warga-terdampak-rempang-eco-city-di-tanjung-banon"
- },
- {
-  "slug": "pertamina-buka-camping-ground-di-mandalika-untuk-motogp",
-  "category": "BUMN",
-  "title": "Pertamina Buka [Camping Ground] di Mandalika untuk MotoGP",
-  "deck": "Pertamina pertama kali membuka camping ground di Sirkuit Mandalika, menampung 150 orang sebagai alternatif menginap bagi komunitas riders selama Pertamina Grand Prix of Indonesia 2026.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/pertamina-buka-camping-ground-di-mandalika-untuk-motogp.jpg",
-  "imageV": "mv1xw8vs",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472188-pertamina-buka-camping-ground-bisa-jadi-alternatif-tempat-menginap-saat-nonton-pertamina-grand-prix-of-indonesia"
  }
 ];

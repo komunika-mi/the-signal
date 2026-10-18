@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bpdp-dorong-umkm-perkebunan-masuk-pasar-digital",
+  "category": "UMKM",
+  "title": "BPDP Dorong UMKM Perkebunan Masuk Pasar [Digital]",
+  "deck": "BPDP menggelar podcast UMKM Perkebunan di Roemah UMKM SMESCO untuk mendorong pelaku usaha sawit, kelapa, dan kakao membangun merek dan menembus pasar digital.",
+  "date": "18 Oktober 2026",
+  "image": "assets/img/bpdp-dorong-umkm-perkebunan-masuk-pasar-digital.jpg",
+  "imageV": "mve7be80",
+  "tags": [
+   "UMKM",
+   "perkebunan",
+   "BPDP",
+   "digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473742-dari-kebun-ke-pasar-digital-rahasia-umkm-perkebunan-tembus-omzet-maksimal"
+ },
+ {
   "slug": "transaksi-tei-2026-tembus-us-22-94-miliar-lampaui-target",
   "category": "Bisnis",
   "title": "Transaksi TEI 2026 Tembus US$[22,94] Miliar, Lampaui Target",
@@ -6528,21 +6545,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7142/akselerasi-sinergi-perluas-dampak-pemerintah-satukan-langkah-percepat-kredit-program-dari-yogyakarta",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "smle-rinci-rencana-jual-50-saham-sinarom-ke-denico",
-  "category": "Aksi Korporasi",
-  "title": "SMLE Rinci Rencana [Jual] 50% Saham Sinarom ke Denico",
-  "deck": "Dalam materi public expose 13 Oktober 2026, SMLE menyebut Denico akan membeli 50% saham anak usahanya, Sinar Aroma Sentosa, dari porsi SMLE yang kini 99,96 persen, namun kendali tetap di SMLE.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMLE",
-   "Sinar Aroma Sentosa",
-   "Denico",
-   "akuisisi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e97a8ac016_f620f5f31a.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bpdp-dorong-umkm-perkebunan-masuk-pasar-digital",
+  "category": "UMKM",
+  "title": "BPDP Dorong UMKM Perkebunan Masuk Pasar [Digital]",
+  "deck": "BPDP menggelar podcast UMKM Perkebunan di Roemah UMKM SMESCO untuk mendorong pelaku usaha sawit, kelapa, dan kakao membangun merek dan menembus pasar digital.",
+  "image": "assets/img/bpdp-dorong-umkm-perkebunan-masuk-pasar-digital.jpg",
+  "date": "18 Oktober 2026",
+  "isoDate": "2026-10-18T23:51:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473742-dari-kebun-ke-pasar-digital-rahasia-umkm-perkebunan-tembus-omzet-maksimal",
+  "tags": [
+   "UMKM",
+   "perkebunan",
+   "BPDP",
+   "digital"
+  ],
+  "body": [
+   "Badan Pengelola Dana Perkebunan (BPDP) kembali mendorong pelaku usaha mikro, kecil, dan menengah berbasis komoditas perkebunan untuk memperkuat daya saing produk dan memperluas akses pasar. Dorongan ini disampaikan lewat Podcast Bincang UMKM Perkebunan di Roemah episode ketiga bertema membangun merek dan menembus pasar digital, sebuah tema yang relevan bagi pelaku usaha kecil yang selama ini masih mengandalkan penjualan konvensional.",
+   "Kepala Divisi Kerja Sama Kemasyarakatan dan UMKM BPDP, Helmi Muhansah, mengatakan lembaganya menyediakan Roemah UMKM BPDP di SMESCO Indonesia sebagai tempat promosi sekaligus ruang belajar bagi pelaku usaha berbasis sawit, kelapa, dan kakao. Fasilitas ini dipakai untuk membantu pelaku UMKM meningkatkan kualitas produk agar bisa bersaing di pasar yang lebih luas.",
+   "Selain menyasar pelaku usaha, BPDP juga melibatkan mahasiswa dari sejumlah kampus untuk mengenal potensi komoditas perkebunan, termasuk kelapa sawit, dan mengolahnya menjadi produk bernilai tambah. Helmi menyebut harapannya agar lahir lebih banyak wirausaha muda seperti dua nama yang ia sebut, Shadli dan Alma, yang mampu berinovasi dan memperluas pasar produk perkebunan Indonesia.",
+   "Pembahasan dalam podcast tersebut turut dikaitkan dengan rencana The Plantationpreneurs Festival 2026. BPDP menyebut program pendampingan ini berbeda dari Inkubasi Bisnis UMKM Sawit yang pernah dijalankan bersama Universitas Andalas pada 2021."
+  ],
+  "fotoAdegan": "A small-business owner packing coconut and palm sugar products into shipping boxes, laptop screen turned away, warm lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/18/6ad4f885c4d75-usaha-mikro-kecil-dan-menengah-umkm-berbasis-komoditas-perkebunan-didorong-untuk-meningkatkan-daya-saing-dan-perluasan-akses-pasar_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini sebatas bentuk kegiatan, yaitu BPDP melanjutkan seri podcast Bincang UMKM Perkebunan ke episode ketiga dan mengaitkannya dengan rencana The Plantationpreneurs Festival 2026, bukan kebijakan atau insentif baru. Yang terdampak langsung adalah pelaku UMKM berbasis sawit, kelapa, dan kakao yang memakai Roemah UMKM BPDP di SMESCO sebagai tempat promosi, serta mahasiswa yang dilibatkan sebagai calon wirausaha baru. Berita ini tidak menyebut berapa banyak UMKM yang sudah dibina atau berapa omzet yang berhasil terkerek, jadi belum bisa dibaca apakah program BPDP ini akan diperbesar skalanya atau sekadar rutin seperti episode-episode sebelumnya. Yang perlu ditunggu adalah detail dan jadwal resmi The Plantationpreneurs Festival 2026, karena dari situ baru terlihat apakah dukungan untuk UMKM perkebunan ini punya target yang terukur atau tetap sebatas kegiatan promosi.",
+  "imageV": "mve7be80"
+ },
+ {
   "slug": "transaksi-tei-2026-tembus-us-22-94-miliar-lampaui-target",
   "category": "Bisnis",
   "title": "Transaksi TEI 2026 Tembus US$[22,94] Miliar, Lampaui Target",
@@ -56,7 +83,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka paling besar yang diumumkan, komitmen pembiayaan dan perdagangan syariah Rp3,16 triliun serta komitmen pasar uang dan valuta asing syariah Rp6,05 triliun, adalah nilai kesepakatan yang disetujui selama forum pertemuan bisnis di acara ini, bukan uang yang sudah benar-benar berpindah tangan ke pelaku usaha. Yang langsung terdampak adalah UMKM halal, lembaga keuangan syariah, dan investor yang ikut dalam forum tersebut, karena merekalah pihak yang menyepakati kerja sama itu. Yang belum bisa dipastikan dari siaran ini adalah berapa bagian dari komitmen tersebut yang nantinya benar-benar cair menjadi pembiayaan atau transaksi di lapangan. Untuk menilai itu, pembaca perlu menunggu laporan realisasi pembiayaan syariah dari Bank Indonesia atau Otoritas Jasa Keuangan pada periode mendatang, bukan sekadar angka komitmen yang diumumkan saat acara ditutup.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada",

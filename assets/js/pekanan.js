@@ -1,56 +1,56 @@
 // Signal Mingguan. Dibuat otomatis oleh scripts/signal-pekanan.mjs.
 var PEKANAN = {
- "tanggal": "2026-10-12",
+ "tanggal": "2026-10-18",
  "rentang": {
-  "mulai": "2026-10-06",
-  "selesai": "2026-10-12"
+  "mulai": "2026-10-12",
+  "selesai": "2026-10-18"
  },
- "rentangLabel": "6 Oktober - 12 Oktober 2026",
- "judul": "Kas BUMN Karya Memburuk Bertahap, OJK Sisir Laporan Dana",
- "ringkas": "Tiga arah yang sama tidak kelihatan dalam satu hari saja, tapi jelas kalau ditarik sepekan: tekanan kas BUMN Karya naik level tiap hari, OJK menyisir laporan dana publik makin lebar tanpa tanda melambat, dan di banyak sektor angka pertumbuhan di permukaan belum tercermin di kas maupun keyakinan hari ini. Ketiganya akan diuji lewat agenda konkret pekan depan, terutama rapat pemegang utang WIKA dan rilis data ekonomi pertengahan Oktober.",
+ "rentangLabel": "12 Oktober - 18 Oktober 2026",
+ "judul": "Utang BUMN Karya Memuncak, Ekspor Membesar Tapi Masih Niat",
+ "ringkas": "Tekanan kas dan tata kelola yang pekan lalu masih berkutat di emiten kecil melebar ke tiga BUMN karya sekaligus dan memuncak jadi anjloknya IHSG serta gelombang go private di akhir pekan. Di jalur lain, angka ekspor dan Trade Expo Indonesia tampak membesar sepanjang pekan, tapi semakin mendekati penutupan, semakin jelas bagian terbesarnya masih berupa surat niat, bukan kontrak yang sudah terjadi.",
  "pola": [
   {
-   "judul": "Krisis Kas BUMN Karya Naik Level Tiap Hari",
-   "isi": "Pola ini mulai terlihat Selasa, saat gagal bayar yang sebelumnya terpusat di PTPP menjalar ke WIKA dan Pos Indonesia, WIKA memanggil lima rapat pemegang sukuk dan obligasi pada 19 sampai 21 Oktober menyusul gagal bayar bagi hasil sukuk dua periode berturut-turut dan kupon obligasi ke-18, dengan utang berbunga sekitar Rp27 triliun jauh di atas target EBITDA Rp850 miliar. Rabu dan Kamis, ADHI dan Waskita Karya Realty mencoba merapikan kas lewat divestasi 47,18 persen saham JMJ senilai Rp1,77 triliun dan restrukturisasi utang modal kerja Rp31,14 miliar, sementara PEFINDO menahan outlook negatif Waskita Karya. Jumat, tekanan naik satu tingkat lagi, Pefindo memangkas rating PTPP dari idB ke idCCC dengan status CreditWatch negatif, dan WSKT kehilangan status pengendali di anak usahanya Waskita Wado Energi setelah kepemilikan turun dari 99,97 persen ke 49,99 persen. Sepanjang pekan arah pola ini konsisten memburuk, dari sekadar koreksi administratif menjadi penurunan rating dan pelepasan kendali aset. Yang akan menentukan apakah penyebaran ini berhenti adalah hasil RUPSU dan RUPO WIKA pekan depan, 19 sampai 21 Oktober, saat pemegang sukuk dan obligasi memutuskan menyetujui usulan restrukturisasi atau menolaknya."
+   "judul": "Tekanan Utang BUMN Karya Memuncak Jadi Guncangan Pasar",
+   "isi": "Pola tekanan kas yang Senin masih berkutat di emiten kecil seperti Pos Indonesia, yang mengajukan penundaan bunga sukuk Rp24,12 miliar, melebar Selasa ke tiga BUMN karya sekaligus: PTPP disuspensi BEI, WIKA memanggil rapat pemegang sukuk, dan ekuitas Waskita Karya ambruk 71,7 persen jadi Rp1,04 triliun. Rabu dan Kamis tekanan berlanjut lewat rugi WSBP yang melebar jadi Rp410,8 miliar dengan defisiensi ekuitas Rp2,37 triliun, serta ekuitas negatif baru di LAPD, CANI, dan DIGI. Pola ini memuncak Jumat, bersamaan dengan IHSG yang anjlok 11,57 persen, rupiah melemah ke Rp17.943 per dolar AS, dan gelombang penyusutan saham publik di MBSS, IGAR, serta IPAC yang mengarah ke go private. Arahnya konsisten memberat sepanjang pekan tanpa tanda pembalikan, bergerak dari kasus individual menjadi tekanan yang melibatkan pasar modal secara luas. Yang akan mengujinya adalah hasil tiga rapat pemegang sukuk dan obligasi WIKA pada 19, 20, dan 21 Oktober, hasil RUPSLB kedua WSBP pada 23 Oktober setelah kuorum pertama gagal, serta apakah PTPP akhirnya mendapat restu pemegang obligasinya pada 22 Oktober."
   },
   {
-   "judul": "OJK Sisir Laporan Dana Publik, Makin Lebar",
-   "isi": "Rabu, empat emiten, Bank Banten, Cisarua Mountain Dairy, Diastika Biotekindo, dan Mutuagung Lestari, mengoreksi laporan realisasi dana publik, dengan Diastika menyebut eksplisit koreksinya dipicu teguran OJK. Kamis jumlahnya melonjak jadi delapan emiten sekaligus, termasuk PGEO yang baru merealisasikan 67,6 persen dari Rp8,77 triliun dana IPO dan BUMI yang masih menyisakan Rp905,88 miliar dana obligasi. Jumat bertambah lagi enam emiten dari AVIA hingga LPPI, dan WIKA pun ikut mengoreksi laporan rights issue Rp6,08 triliun pada hari yang sama. Pola ini bergerak tanpa tanda melambat sepanjang pekan, dari empat emiten Rabu, ke delapan Kamis, ke enam lagi Jumat, total delapan belas emiten dalam tiga hari berturut-turut. Arahnya sudah cukup jelas sebagai penyisiran menyeluruh OJK terhadap laporan dana publik, bukan kasus per kasus, dan penanda pekan depan adalah apakah koreksi serupa dari LPPI dan emiten lain terus bermunculan atau mulai mereda."
+   "judul": "Ekspor Membesar di Atas Kertas, Celah Realisasi Melebar",
+   "isi": "Surplus dagang Agustus yang melonjak ke US$3,55 miliar diumumkan Rabu, bersamaan dengan pembukaan Trade Expo Indonesia yang mencatat 168 kesepakatan senilai US$13,2 miliar di hari pertama. Jumat terungkap bahwa sebagian besar nilai itu masih berupa surat niat, misalnya UKM kampus yang dari potensi US$22,56 juta, US$21,46 juta di antaranya baru LoI, bukan kontrak pasti. Saat TEI resmi ditutup 18 Oktober, total transaksi tercatat US$22,94 miliar dari 426 nota kesepahaman, melampaui target tapi tetap berstatus kesepakatan awal. Pada hari yang sama Kemendag sendiri mengakui akses pasar dari 25 perjanjian dagang yang sudah diteken belum otomatis menambah ekspor kalau pelaku usaha tidak memanfaatkannya. Arah sepekan ini bergerak dari optimisme angka besar di awal pekan menjadi kehati-hatian soal realisasi di penutupan, dan yang akan mengujinya adalah laporan Kemendag soal berapa banyak LoI dan MoU TEI yang benar-benar berubah menjadi kontrak jual beli dalam beberapa bulan mendatang."
   },
   {
-   "judul": "Angka Atas Naik, Kas dan Keyakinan Saat Ini Melemah",
-   "isi": "Pola ketiga berulang di beberapa sektor sekaligus, angka di permukaan menguat sementara indikator yang lebih dekat dengan uang tunai justru melemah. Selasa, DEWA mencatat laba bersih naik 89 persen jadi Rp354,23 miliar tapi kasnya menipis 59,5 persen dengan utang bank jangka pendek melonjak 158,7 persen, dan GULA mencatat penjualan naik 121,69 persen tapi kasnya anjlok 73,1 persen dengan arus kas operasi negatif Rp29,4 miliar. Hari yang sama, surplus dagang melonjak ke US$3,55 miliar, tapi dari impor barang modal yang turun 16 persen, bukan dari ekspor yang menguat. Kamis, ekonomi tumbuh 5,29 persen pada kuartal II, namun survei konsumen Bank Indonesia menunjukkan penilaian kondisi ekonomi saat ini justru melemah dari 109,4 ke 107,5, sejalan dengan kas BUMN Karya yang juga tertekan di pola pertama. Pola ini belum tentu berasal dari akar yang sama di tiap sektor, tapi arahnya searah, angka pertumbuhan di atas kertas belum sepenuhnya tercermin di kas dan keyakinan hari ini. Pembedanya adalah rilis data ekspor-impor September dan penjualan eceran yang diperkirakan terbit pertengahan Oktober pekan depan, serta laporan keuangan kuartal III yang akan menunjukkan apakah arus kas DEWA dan GULA membalik positif."
+   "judul": "Tenggat dan Kuorum Berulang Mundur di Banyak Sektor",
+   "isi": "Pola serupa muncul di sektor berbeda sepanjang pekan, keputusan resmi yang semula dijadwalkan sekali justru harus diulang atau diundur. PTPP pada Rabu menjadwalkan rapat umum pemegang sukuk ketiga untuk dua seri berbeda pada 11 November, tanda negosiasi dengan pemegang utang belum tuntas meski sudah berkali-kali dirapatkan sejak awal September. Pemerintah pada 16 Oktober mengumumkan kewajiban sertifikasi halal untuk makanan dan minuman yang semula berlaku 17 Oktober justru diundur dua tahun ke 18 Oktober 2028, hanya sehari sebelum tenggat lama seharusnya berlaku. Pola ini juga terlihat di emiten kecil seperti WSBP dan SLIS yang harus menggelar RUPSLB kedua pekan depan setelah kuorum rapat pertama tidak tercapai. Arahnya menunjukkan proses formal, baik negosiasi utang maupun kewajiban regulasi, cenderung butuh lebih dari satu percobaan untuk mencapai keputusan final. Yang akan mengujinya adalah apakah RUPSLB kedua WSBP pada 23 Oktober akhirnya mencapai kuorum, serta apakah tenggat sertifikasi halal yang baru ini bertahan tanpa revisi lagi."
   }
  ],
  "menanti": [
   {
    "tanggal": "2026-10-19",
-   "apa": "WIKA Panggil RUPSU Sukuk Seri B-C, Gagal Bayar Bagi Hasil ke-20",
-   "kenapa": "Hasil rapat ini menentukan apakah pemegang sukuk menyetujui restrukturisasi, titik ukur apakah krisis kas BUMN Karya berhenti menyebar atau terus melebar."
+   "apa": "RUPSU/RUPO WIKA soal sukuk dan obligasi, berlanjut 20-21 Oktober",
+   "kenapa": "Hasil tiga rapat pemegang utang WIKA ini menentukan apakah pola restrukturisasi BUMN karya mulai menemukan titik temu atau terus menyebar seperti yang terjadi pada PTPP dan Waskita."
   },
   {
-   "tanggal": "2026-10-15 (perkiraan)",
-   "apa": "PTPP Belum Kantongi Restu Tunda Bayar Bunga Obligasi Rp44,7 M",
-   "kenapa": "Instrumen utang PTPP yang masih menunggu restu ini jadi penentu apakah tekanan kas BUMN Karya mereda atau menambah gagal bayar baru."
+   "tanggal": "2026-10-22",
+   "apa": "PTPP belum kantongi restu tunda bayar bunga obligasi Rp44,7 miliar",
+   "kenapa": "Kegagalan berulang mendapat restu pemegang obligasi menjadi penanda apakah tekanan likuiditas PTPP mereda atau justru mendekati titik gagal bayar baru."
   },
   {
-   "tanggal": "2026-10-15 (perkiraan)",
-   "apa": "Rilis ekspor-impor September dari BPS",
-   "kenapa": "Akan memperlihatkan apakah pelaku usaha mulai kembali belanja modal atau masih menahan diri menunggu kepastian insentif pajak pengganti tax holiday."
+   "tanggal": "2026-10-23",
+   "apa": "WSBP gelar RUPSLB kedua soal konversi utang jadi saham",
+   "kenapa": "Rapat pertama gagal kuorum, sehingga hasil rapat kedua ini akan menunjukkan apakah pemegang saham mau menerima skema konversi utang sebagai jalan keluar WSBP."
   },
   {
-   "tanggal": "2026-10-15 (perkiraan)",
-   "apa": "LPPI Koreksi Laporan Realisasi Dana Obligasi-Sukuk Rp3,65 T",
-   "kenapa": "Jadi penanda apakah penyisiran OJK terhadap laporan dana publik emiten terus meluas pekan depan atau mulai mereda."
+   "tanggal": "2026-10-21",
+   "apa": "Tenggat akhir tender wajib saham SUPR oleh Protelindo, sisa 25% saham publik",
+   "kenapa": "Ini batas perpanjangan terakhir sesuai aturan OJK, sehingga hasilnya akan menegaskan apakah gelombang konsolidasi kepemilikan dan go private yang terlihat pekan ini terus berlanjut."
   },
   {
-   "tanggal": "2026-10-18",
-   "apa": "TEI 2026 Catat 1.533 Ekshibitor, Buyer dari 113 Negara",
-   "kenapa": "Nilai transaksi yang diumumkan setelah pameran usai akan menunjukkan apakah strategi diversifikasi pasar ekspor pemerintah membawa hasil nyata."
+   "tanggal": "2026-10-20",
+   "apa": "LAPD gelar RUPSLB: ganti nama, pengendali baru, dan rights issue",
+   "kenapa": "Keputusan ini menjadi uji apakah skema penyehatan lewat pengendali baru bisa menambal ekuitas negatif LAPD, pola yang juga mulai terlihat di emiten kecil lain pekan ini."
   }
  ],
- "penutup": "Hasil RUPSU dan RUPO WIKA pekan depan, 19 sampai 21 Oktober, menjadi penentu paling dekat apakah tekanan kas BUMN Karya berhenti di tiga nama ini atau terus menyebar ke emiten lain.",
- "jumlahEdisi": 4,
- "jumlahBerita": 292,
- "dibuat": "2026-10-11T17:45:34.661Z"
+ "penutup": "Hasil rapat-rapat pemegang utang WIKA, PTPP, dan WSBP pekan depan akan menentukan apakah tekanan utang BUMN karya mulai mereda atau terus menyeret kepercayaan pasar modal seperti yang sudah terlihat lewat anjloknya IHSG pekan ini.",
+ "jumlahEdisi": 5,
+ "jumlahBerita": 392,
+ "dibuat": "2026-10-18T16:01:05.069Z"
 };

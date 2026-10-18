@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-pacu-pemanfaatan-25-perjanjian-dagang-ri",
+  "category": "Bisnis",
+  "title": "Kemendag Pacu Pemanfaatan [25] Perjanjian Dagang RI",
+  "deck": "Kemendag mendorong UMKM dan pelaku usaha daerah memanfaatkan 25 perjanjian dagang yang sudah berjalan, di tengah surplus dagang US$7,25 miliar hingga Agustus 2026.",
+  "date": "18 Oktober 2026",
+  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "tags": [
+   "perjanjian dagang",
+   "ekspor",
+   "UMKM",
+   "Trade Expo Indonesia"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/diseminasikan-hasil-analisis-kemendag-dorong-pemanfataan-perjanjian-perdagangan-internasional",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "ekspor-farmasi-seafood-ri-dibidik-ke-pasar-asean-plus",
   "category": "Global",
   "title": "Ekspor Farmasi-Seafood RI Dibidik ke Pasar [ASEAN] Plus",
@@ -3753,7 +3769,7 @@ var ARTICLES = [
   "title": "Sehari Jelang TEI 2026, Buyer dari [134] Negara Terdaftar",
   "deck": "Kemendag meninjau kesiapan Trade Expo Indonesia ke-41 di ICE BSD, Tangerang, yang dibuka Rabu (14/10) dengan calon buyer dari 134 negara dan 1.873 perusahaan peserta.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "TEI 2026",
    "Kemendag",
@@ -5323,7 +5339,7 @@ var ARTICLES = [
   "title": "TEI 2026 Buka Ruang Ekspor [Jasa] dari Logistik hingga AI",
   "deck": "Pameran dagang TEI ke-41 di ICE BSD City, 14-18 Oktober 2026, menyertakan puluhan perusahaan jasa dari logistik, keuangan, hingga kecerdasan buatan untuk menjaring pembeli mancanegara.",
   "date": "12 Oktober 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
   "tags": [
    "TEI 2026",
    "ekspor jasa",
@@ -6524,22 +6540,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472221-pertamina-dukung-bank-sampah-desa-kuta-pengelolaan-sampah-kawasan-wisata-mandalika-lebih-optimal"
- },
- {
-  "slug": "telkom-paparkan-strategi-adopsi-ai-di-forum-dtiif-2026",
-  "category": "Teknologi",
-  "title": "Telkom Paparkan Strategi Adopsi [AI] di Forum DTIIF 2026",
-  "deck": "Telkom lewat Telkom Solution memaparkan kerangka pengembangan AI nasional dalam forum Danantara Technology Innovation Investment Forum (DTIIF) 2026 di Jakarta.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/telkom-paparkan-strategi-adopsi-ai-di-forum-dtiif-2026.jpg",
-  "imageV": "mv236g8v",
-  "tags": [
-   "Telkom",
-   "AI",
-   "DTIIF 2026",
-   "Telkom Solution"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472216-perkuat-transformasi-digital-telkom-bagikan-strategi-percepat-adopsi-ai-nasional-di-road-to-dtiif-2026"
  }
 ];

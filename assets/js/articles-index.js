@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-farmasi-seafood-ri-dibidik-ke-pasar-asean-plus",
+  "category": "Global",
+  "title": "Ekspor Farmasi-Seafood RI Dibidik ke Pasar [ASEAN] Plus",
+  "deck": "Kemendag mengajak pelaku usaha, termasuk UMKM, memanfaatkan delapan skema perjanjian dagang ASEAN dan ASEAN Plus untuk ekspor farmasi, makanan olahan, dan seafood ke Asia Pasifik.",
+  "date": "18 Oktober 2026",
+  "image": "assets/img/ekspor-farmasi-seafood-ri-dibidik-ke-pasar-asean-plus.jpg",
+  "imageV": "mvda57y0",
+  "tags": [
+   "ekspor",
+   "ASEAN Plus",
+   "RCEP",
+   "UMKM"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-ajak-pelaku-usaha-optimalkan-perjanjian-dagang-asean-dan-asean-plus-untuk-tembus-ekspor",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "transaksi-umkm-di-pangan-nusa-expo-tembus-rp44-miliar",
+  "category": "UMKM",
+  "title": "Transaksi UMKM di Pangan Nusa Expo Tembus [Rp44 Miliar]",
+  "deck": "Business matching Pangan Nusa Expo 2026 mencatat potensi transaksi Rp44 miliar hingga hari ketiga, naik 17 persen dari tahun lalu, menurut Kemendag.",
+  "date": "18 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "UMKM",
+   "Kemendag",
+   "Pangan Nusa Expo",
+   "Ritel"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/business-matching-pangan-nusa-expo-2026-bukukan-potensi-transaksi-rp44-miliar-pada-hari-ketiga",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "baznas-beri-penghargaan-ke-koperasi-angkasa-malaysia",
   "category": "Global",
   "title": "BAZNAS Beri [Penghargaan] ke Koperasi ANGKASA Malaysia",
@@ -61,7 +95,7 @@ var ARTICLES = [
   "title": "KUR Nelayan Desa Awang Tembus [Rp13,6 Miliar]",
   "deck": "BSI menyalurkan KUR Rp13,6 miliar untuk 160 nelayan di Desa Awang, Lombok Tengah, sementara puluhan pembudidaya lobster di sana belum semuanya tersentuh kredit ini.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "KUR",
    "Nelayan",
@@ -171,7 +205,7 @@ var ARTICLES = [
   "title": "Ekonomi [Syariah] Tumbuh 6,2%, BI Gaet Wirausaha Muda",
   "deck": "Bank Indonesia membuka forum kewirausahaan syariah untuk anak muda di Jakarta, seiring klaim rantai nilai halal tumbuh 6,21 persen pada 2025, melampaui pertumbuhan ekonomi nasional.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "tags": [
    "ekonomi syariah",
    "ISEF 2026",
@@ -205,7 +239,7 @@ var ARTICLES = [
   "title": "BI Soroti Peran [Perempuan] dalam Ekosistem Halal di ISEF 2026",
   "deck": "Konferensi dalam rangkaian ISEF 2026 menyoroti peran pelaku usaha perempuan di ekosistem industri halal, sektor yang disebut menyumbang 27 persen produk domestik bruto Indonesia.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "ISEF 2026",
    "Bank Indonesia",
@@ -288,7 +322,7 @@ var ARTICLES = [
   "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
   "deck": "Kemendag menargetkan 4 juta UMKM siap ekspor dalam lima tahun lewat program Campuspreneur yang kini melibatkan 27 perguruan tinggi, termasuk MoU baru dengan UIN Jakarta dan Universitas Presiden.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/pengrajin-rotan.jpg",
   "tags": [
    "UMKM",
    "ekspor",
@@ -3554,7 +3588,7 @@ var ARTICLES = [
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
   "deck": "Pemerintah bersama ILO dan SECO menutup program PROMISE II dan memasuki fase baru penguatan akses keuangan UMKM, di tengah kesenjangan literasi keuangan yang masih lebar.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/pengrajin-rotan.jpg",
+  "image": "assets/img/kedai-kopi-kecil.jpg",
   "tags": [
    "UMKM",
    "Literasi Keuangan",
@@ -6367,7 +6401,7 @@ var ARTICLES = [
   "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",
   "deck": "Pembangunan kembali Desa Adat Sade di Lombok Tengah pascakebakaran Agustus 2026 terus berjalan, dengan 40 dari 75 rumah adat sudah berdiri dan ekonomi warga mulai bergerak lagi.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/kedai-kopi-kecil.jpg",
+  "image": "assets/img/pedagang-sayur-keliling.jpg",
   "tags": [
    "Desa Adat Sade",
    "Lombok Tengah",
@@ -6399,7 +6433,7 @@ var ARTICLES = [
   "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
   "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
   "date": "10 Oktober 2026",
-  "image": "assets/img/pedagang-sayur-keliling.jpg",
+  "image": "assets/img/konveksi-penjahit.jpg",
   "tags": [
    "KUR",
    "UMKM",
@@ -6507,37 +6541,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472216-perkuat-transformasi-digital-telkom-bagikan-strategi-percepat-adopsi-ai-nasional-di-road-to-dtiif-2026"
- },
- {
-  "slug": "folago-global-irsx-balik-untung-pendapatan-melonjak-laba",
-  "category": "Aksi Korporasi",
-  "title": "Folago Global (IRSX) Balik Untung, Pendapatan Melonjak [Laba]",
-  "deck": "Laporan keuangan koreksi kuartal I 2026 IRSX menunjukkan pendapatan naik lebih dari tiga kali lipat dan laba bersih balik positif Rp3,29 miliar.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IRSX",
-   "laporan keuangan",
-   "laba bersih",
-   "Folago Global Nusantara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261010130349-64513-0/FinancialStatement-2026-I-IRSX.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pabrik-konstruksi-tiongkok-rp710-m-beroperasi-di-kek-kendal",
-  "category": "Industri",
-  "title": "Pabrik Konstruksi Tiongkok [Rp710 M] Beroperasi di KEK Kendal",
-  "deck": "PT HSG Material Indonesia, bagian grup Fujian Hongsheng dari Tiongkok, mengoperasikan pabrik tiang pancang beton senilai Rp710 miliar di KEK Kendal dan menyerap hingga 400 tenaga kerja.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
-  "tags": [
-   "KEK Kendal",
-   "investasi Tiongkok",
-   "material konstruksi",
-   "Jawa Tengah"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7141/resmikan-operasionalisasi-pabrik-hsg-material-menko-airlangga-tegaskan-komitmen-pemerintah-tarik-investasi-ke-sektor-manufaktur",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

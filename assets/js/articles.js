@@ -56,7 +56,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka paling besar yang diumumkan, komitmen pembiayaan dan perdagangan syariah Rp3,16 triliun serta komitmen pasar uang dan valuta asing syariah Rp6,05 triliun, adalah nilai kesepakatan yang disetujui selama forum pertemuan bisnis di acara ini, bukan uang yang sudah benar-benar berpindah tangan ke pelaku usaha. Yang langsung terdampak adalah UMKM halal, lembaga keuangan syariah, dan investor yang ikut dalam forum tersebut, karena merekalah pihak yang menyepakati kerja sama itu. Yang belum bisa dipastikan dari siaran ini adalah berapa bagian dari komitmen tersebut yang nantinya benar-benar cair menjadi pembiayaan atau transaksi di lapangan. Untuk menilai itu, pembaca perlu menunggu laporan realisasi pembiayaan syariah dari Bank Indonesia atau Otoritas Jasa Keuangan pada periode mendatang, bukan sekadar angka komitmen yang diumumkan saat acara ditutup.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada",

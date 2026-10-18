@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada",
+  "category": "Industri",
+  "title": "RI Andalkan Organisasi Dunia untuk [Ekspor] Kelapa dan Lada",
+  "deck": "Kemendag menyebut keanggotaan Indonesia di organisasi kelapa dan lada dunia membuka akses data pasar dan peluang hilirisasi bagi petani serta eksportir.",
+  "date": "18 Oktober 2026",
+  "image": "assets/img/ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada.jpg",
+  "imageV": "mvdsc30x",
+  "tags": [
+   "ekspor kelapa",
+   "ekspor lada",
+   "ICC",
+   "IPC"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sinergi-dengan-organisasi-komoditas-global-kemendag-terus-perkuat-daya-saing-kelapa-dan-lada",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "umkm-kombucha-papua-raih-penghargaan-di-pangan-nusa-expo-2026",
+  "category": "UMKM",
+  "title": "UMKM Kombucha Papua Raih [Penghargaan] di Pangan Nusa Expo 2026",
+  "deck": "UMKM kombucha asal Jayapura, Ruma Papua, menang kategori minuman kemasan di UKM Pangan Award 2026 dengan 12 varian rasa berbahan lokal Papua, setelah mengantongi izin BPOM dan sertifikasi halal.",
+  "date": "18 Oktober 2026",
+  "image": "assets/img/umkm-kombucha-papua-raih-penghargaan-di-pangan-nusa-expo-2026.jpg",
+  "imageV": "mvdsc7h6",
+  "tags": [
+   "UMKM",
+   "Papua",
+   "Kombucha",
+   "Pangan Nusa Expo"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/seruput-perlahan-kenali-rasa-kisah-kombucha-ruma-papua",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "kemendag-pacu-pemanfaatan-25-perjanjian-dagang-ri",
   "category": "Bisnis",
   "title": "Kemendag Pacu Pemanfaatan [25] Perjanjian Dagang RI",
@@ -6507,38 +6543,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f3e7f089e_3b5cc8e34f.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "test-shm3-rampungkan-tender-wajib-beli-5-98-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "TEST-SHM3 Rampungkan [Tender Wajib] Beli 5,98 Juta Saham",
-  "deck": "Pengendali baru TEST-SHM3 membeli 5.979.605 dari 6.733.943 saham wajib dalam tender wajib 10-12 Oktober 2026, mengubah kepemilikannya dari 10,66% menjadi 9,78%.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEST-SHM3",
-   "tender wajib",
-   "pengendali saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261010_TEST-SHM3_E010_3a1d97bc-bd78-4ba6-af55-042f37f638e4-20261010135421.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-dukung-bank-sampah-desa-kuta-di-mandalika",
-  "category": "BUMN",
-  "title": "Pertamina [Dukung] Bank Sampah Desa Kuta di Mandalika",
-  "deck": "Pertamina memberi motor listrik roda tiga dan tempat sampah besar untuk Bank Sampah Putri Nyale, membantu pengelolaan sampah di 20 dusun Desa Kuta menjelang Pertamina Grand Prix of Indonesia 2026.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/pertamina-dukung-bank-sampah-desa-kuta-di-mandalika.jpg",
-  "imageV": "mv236ftv",
-  "tags": [
-   "pertamina",
-   "bank sampah",
-   "mandalika",
-   "lombok"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472221-pertamina-dukung-bank-sampah-desa-kuta-pengelolaan-sampah-kawasan-wisata-mandalika-lebih-optimal"
  }
 ];

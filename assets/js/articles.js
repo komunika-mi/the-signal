@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada",
+  "category": "Industri",
+  "title": "RI Andalkan Organisasi Dunia untuk [Ekspor] Kelapa dan Lada",
+  "deck": "Kemendag menyebut keanggotaan Indonesia di organisasi kelapa dan lada dunia membuka akses data pasar dan peluang hilirisasi bagi petani serta eksportir.",
+  "image": "assets/img/ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada.jpg",
+  "date": "18 Oktober 2026",
+  "isoDate": "2026-10-18T12:04:39.625Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sinergi-dengan-organisasi-komoditas-global-kemendag-terus-perkuat-daya-saing-kelapa-dan-lada",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ekspor kelapa",
+   "ekspor lada",
+   "ICC",
+   "IPC"
+  ],
+  "body": [
+   "Kementerian Perdagangan menegaskan pentingnya memanfaatkan keanggotaan Indonesia di organisasi komoditas internasional untuk memperkuat posisi kelapa dan lada di pasar global. Hal ini disampaikan dalam seminar yang digelar Sabtu, 17 Oktober 2026, sebagai bagian dari rangkaian Trade Expo Indonesia ke-41 di ICE BSD City, Tangerang. Pemerintah mendorong pelaku usaha segera melaporkan hambatan yang ditemui di negara tujuan ekspor agar bisa ditindaklanjuti lewat jalur perundingan, karena Indonesia tercatat sebagai pemasok utama dunia untuk kedua komoditas tersebut.",
+   "Indonesia telah menjadi anggota International Coconut Community (ICC) dan International Pepper Community (IPC), dua organisasi yang menghimpun negara-negara produsen utama kelapa dan lada dunia. Menurut Kemendag, keanggotaan ini memberi akses ke data perkembangan pasar, peluang pertukaran teknologi, serta kanal untuk menyuarakan kepentingan nasional saat harga komoditas bergerak. Sebagai gambaran skala, pada 2025 luas perkebunan kelapa Indonesia mencapai 3,20 juta hektar dengan produksi 2,72 juta ton, sementara perkebunan lada seluas 141.890 hektar menghasilkan sekitar 52.943 ton.",
+   "Selain soal pasar, Kemendag menyoroti potensi hilirisasi kelapa yang selama ini baru banyak diolah menjadi minyak kelapa murni, santan, dan kelapa parut kering. Bahan baku yang sama disebut berpotensi dikembangkan menjadi produk bernilai tambah lebih tinggi seperti oleokimia, olahan tempurung, hingga bahan bakar pesawat ramah lingkungan dan biometanol dari sabut kelapa. Direktur Jenderal ICC, Jelfina C. Alouw, menyebut penguatan industri kelapa global membutuhkan kolaborasi lintas negara dan transfer teknologi, sementara Direktur Eksekutif IPC, Marina Novira Anggraini, mendorong pelaku usaha lada memanfaatkan data intelijen pasar dan pameran internasional untuk menciptakan produk olahan bernilai tambah.",
+   "Sejumlah pelaku usaha turut membagikan pengalaman lapangan dalam seminar tersebut. Dwianto Arif Wibowo dari Sambu Group menekankan pentingnya kemitraan dengan ICC untuk mendorong riset dan keterbukaan informasi pasar, sementara Farida Joel, pelaku usaha rempah dari Jakarta, menceritakan pertemuannya dengan calon pembeli asal Brasil yang tertarik pada rempah Indonesia sebagai salah satu peluang yang muncul dari ajang ini."
+  ],
+  "fotoAdegan": "Workers sorting dried coconut husks into fiber bundles at a rural processing yard, hazy tropical daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/S5x0qHh9kG2boaxyVnzt4YHGNn5S8Xa1dRmc8oOL.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang sebenarnya berubah dari acara ini cukup terbatas, keanggotaan Indonesia di ICC dan IPC bukan hal baru, dan siaran pers ini pada dasarnya menegaskan kembali pemanfaatannya lewat sebuah seminar di ajang pameran dagang. Bagian paling konkret adalah data luas lahan dan produksi tahun 2025, yakni kebun kelapa 3,2 juta hektar dengan hasil 2,72 juta ton, serta kebun lada 141.890 hektar dengan hasil sekitar 52.943 ton, yang berarti menyangkut langsung petani kelapa dan lada serta pelaku usaha yang mengekspor keduanya. Pejabat Kemendag sendiri meminta pelaku usaha melapor kalau ada hambatan di negara tujuan, yang mengisyaratkan masih ada ganjalan ekspor yang belum dijelaskan rinci dalam acara ini. Yang masih kurang untuk membaca ke mana arah kebijakan ini adalah target volume ekspor atau tenggat pengembangan produk hilirisasi seperti bahan bakar pesawat ramah lingkungan dan biometanol dari sabut kelapa, yang dalam siaran ini baru disebut sebagai potensi, bukan proyek dengan jadwal kerja.",
+  "imageV": "mvdsc30x"
+ },
+ {
+  "slug": "umkm-kombucha-papua-raih-penghargaan-di-pangan-nusa-expo-2026",
+  "category": "UMKM",
+  "title": "UMKM Kombucha Papua Raih [Penghargaan] di Pangan Nusa Expo 2026",
+  "deck": "UMKM kombucha asal Jayapura, Ruma Papua, menang kategori minuman kemasan di UKM Pangan Award 2026 dengan 12 varian rasa berbahan lokal Papua, setelah mengantongi izin BPOM dan sertifikasi halal.",
+  "image": "assets/img/umkm-kombucha-papua-raih-penghargaan-di-pangan-nusa-expo-2026.jpg",
+  "date": "18 Oktober 2026",
+  "isoDate": "2026-10-18T12:04:31.152Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/seruput-perlahan-kenali-rasa-kisah-kombucha-ruma-papua",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Papua",
+   "Kombucha",
+   "Pangan Nusa Expo"
+  ],
+  "body": [
+   "UMKM kombucha Ruma Papua asal Jayapura meraih penghargaan kategori Produk Minuman Kemasan di ajang UKM Pangan Award 2026 melalui varian Kombucha Lemon. Penghargaan ini diberikan saat pembukaan Pangan Nusa Expo 2026 di Indonesia Convention Exhibition (ICE) BSD City, Kabupaten Tangerang, pada Rabu, 14 Oktober 2026. Prestasi ini menonjol karena diraih oleh pelaku usaha kecil dari Papua yang mengandalkan bahan baku lokal, bukan sekadar hasil kampanye pemasaran besar.",
+   "Ruma Papua mengusung identitas 'Taste of Papua' dengan meramu kombucha, minuman teh fermentasi, dari bahan khas daerah. Produk ini hadir dalam 12 varian rasa, di antaranya lemon, kelapa mint, bunga telang, sarang semut, kembang sepatu, lavender, racikan kunyit, asam jawa, beras kencur, serta varian kopi dan pinang. Salah satu yang jadi andalan adalah varian sarang semut, tanaman herbal yang menurut pemilik usaha, Dian Lestari, dikenal luas dalam tradisi masyarakat Papua untuk menjaga daya tahan tubuh.",
+   "Usaha ini bermula dari kebutuhan pribadi Dian mencari minuman probiotik nonsusu pascapandemi yang saat itu masih sulit ditemukan di Papua. Dari penjualan perdana sebanyak delapan botol pada Januari 2023, menurut Dian, pesanan melonjak jadi 1.000 botol pada Maret, lalu menembus 5.000 botol pada pertengahan tahun yang sama, dan kini produknya sudah didistribusikan ke lebih dari seratus gerai. Pada September 2026, Ruma Papua juga baru mengantongi izin edar dari Badan Pengawas Obat dan Makanan (BPOM) serta sertifikasi halal, dua syarat legal yang umumnya diperlukan sebelum produk makanan-minuman bisa masuk ke rak toko modern.",
+   "Di luar aspek bisnis, Ruma Papua melibatkan perempuan asli Papua dalam proses produksinya, sekaligus menjadi ruang pemberdayaan dan dukungan antarsesama perempuan di sana. Untuk menjangkau pasar lebih luas, Dian mencatat preferensi rasa tiap pelanggan, misalnya konsumen bergaya klasik lebih condong ke varian bunga telang, sementara konsumen aktif berolahraga lebih memilih varian lemon, lalu menjadikan catatan itu acuan bagi tim penjualan. Promosi produk juga dilakukan lewat akun Instagram @rumapapua.id untuk menjangkau konsumen di luar Papua."
+  ],
+  "fotoAdegan": "Close-up of hands pouring amber fermented kombucha tea into small glass bottles on a wooden table in a home kitchen",
+  "fotoSumber": "https://www.kemendag.go.id/albums/MetmTpvEDFpqjQcDIziVJAR0kBsz0EePYE4daysD.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret dari berita ini adalah Ruma Papua baru mengurus izin edar BPOM dan sertifikasi halal pada September 2026, padahal usahanya sudah berjalan sejak 2023 dengan penjualan yang melonjak dari delapan botol jadi ribuan botol dalam hitungan bulan. Izin dan sertifikasi semacam ini biasanya menjadi syarat sebelum produk makanan-minuman bisa masuk ke rak toko modern atau minimarket, sehingga langkah ini berpotensi membuka jalan bagi Ruma Papua untuk memperluas distribusi dari penjualan langsung ke jaringan gerai yang lebih besar dari seratus titik yang disebut dalam berita. Pihak yang terdampak adalah perempuan pelaku UMKM pangan di Papua yang dilibatkan dalam usaha ini, serta konsumen minuman fermentasi berbahan lokal yang kini punya lebih banyak pilihan rasa. Yang belum terlihat dari siaran pers ini adalah apakah capaian satu UMKM ini mencerminkan tren yang lebih luas, misalnya berapa banyak UMKM pangan Papua lain yang juga sedang mengurus izin serupa, karena Kementerian Perdagangan hanya menonjolkan satu kisah sukses tanpa data agregat semacam itu.",
+  "imageV": "mvdsc7h6"
+ },
+ {
   "slug": "kemendag-pacu-pemanfaatan-25-perjanjian-dagang-ri",
   "category": "Bisnis",
   "title": "Kemendag Pacu Pemanfaatan [25] Perjanjian Dagang RI",

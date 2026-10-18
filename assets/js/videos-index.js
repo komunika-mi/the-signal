@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "eS2F4xxx1qY",
+  "title": "Antrean BBM Pertalite Capai 3,5 Jam di Ternate",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Sopir angkot di Ternate harus mengantre hingga 3,5 jam untuk mendapatkan BBM jenis Pertalite di SPBU Batu Anteru, menandakan gangguan pasokan bahan bakar bersubsidi di daerah.",
+  "takeaway": "Antrean panjang BBM bersubsidi penting dipantau karena menyangkut kelancaran distribusi energi hingga ke daerah."
+ },
+ {
+  "id": "AvpufMPhVD0",
+  "title": "Kongres Syarikat Islam Angkat Tema Dakwah Ekonomi",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Kongres Nasional ke-42 Syarikat Islam di Surabaya mengusung tema Dakwah Ekonomi Menuju Kemerdekaan Sejati, membahas penguatan ekonomi umat lewat koperasi dan ekonomi syariah.",
+  "takeaway": "Pembahasan penguatan ekonomi umat melalui koperasi dan ekonomi syariah relevan bagi pembaca yang mengikuti perkembangan sektor UMKM di Indonesia."
+ },
+ {
   "id": "bnvRPO9uYnU",
   "title": "Pemerintah Gandakan Kapal Atasi Krisis BBM di Bali",
   "category": "Energi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "AKAP",
   "summary": "Mandalika Street Food Festival yang digelar berbarengan dengan MotoGP Mandalika 2026 menghadirkan kuliner khas Lombok, Bima, dan Sumbawa. Lebih dari 70 persen UMKM kuliner NTB memanfaatkan ajang ini untuk memperluas pasar.",
   "takeaway": "Menunjukkan bagaimana perhelatan olahraga berskala besar bisa dimanfaatkan sebagai panggung pemasaran bagi pelaku UMKM kuliner di daerah."
- },
- {
-  "id": "y1sLK2y64Qs",
-  "title": "MotoGP Mandalika Buka Peluang UMKM Lokal",
-  "category": "UMKM",
-  "program": "Kabar Siang",
-  "summary": "Gelaran MotoGP Mandalika 2026 membuka kesempatan bagi pelaku UMKM setempat untuk memasarkan produk dan mengembangkan usahanya di tengah ajang balap internasional.",
-  "takeaway": "Event olahraga berskala global ini memberi dampak ekonomi langsung bagi pelaku usaha kecil di sekitar sirkuit."
- },
- {
-  "id": "zwbR8adf6lU",
-  "title": "Potensi Petani Kopi Pinogu Perluas Pangsa Pasar",
-  "category": "UMKM",
-  "program": "Kabar Dari Desa",
-  "summary": "Petani kopi Pinogu di Bone Bolango, Gorontalo, terus bertahan mengembangkan potensi kopi lokal meski menghadapi keterbatasan akses dan medan yang berat untuk memperluas pasar.",
-  "takeaway": "Kisah ini menggambarkan tantangan sektor perkebunan rakyat dalam menembus pasar yang lebih luas."
  }
 ];

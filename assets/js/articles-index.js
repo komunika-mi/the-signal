@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "transaksi-tei-2026-tembus-us-22-94-miliar-lampaui-target",
+  "category": "Bisnis",
+  "title": "Transaksi TEI 2026 Tembus US$[22,94] Miliar, Lampaui Target",
+  "deck": "Pameran dagang tahunan ini mencatat potensi transaksi US$22,94 miliar dari 426 nota kesepahaman, melampaui target pemerintah sebesar US$17,5 miliar selama lima hari penyelenggaraan.",
+  "date": "18 Oktober 2026",
+  "image": "assets/img/transaksi-tei-2026-tembus-us-22-94-miliar-lampaui-target.jpg",
+  "imageV": "mvdyualn",
+  "tags": [
+   "TEI 2026",
+   "Kemendag",
+   "Ekspor",
+   "UMKM"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-resmi-tutup-tei-ke-41-potensi-transaksi-capai-usd-2294-miliar",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "isef-2026-ditutup-komitmen-syariah-capai-rp3-16-triliun",
+  "category": "Perbankan",
+  "title": "ISEF 2026 Ditutup, Komitmen Syariah Capai [Rp3,16] Triliun",
+  "deck": "Bank Indonesia menutup ISEF 2026 dengan mencatat komitmen pembiayaan dan perdagangan syariah senilai Rp3,16 triliun serta transaksi produk halal Rp13,85 miliar selama lima hari acara.",
+  "date": "18 Oktober 2026",
+  "image": "assets/img/teller-bank.jpg",
+  "tags": [
+   "ISEF 2026",
+   "ekonomi syariah",
+   "Bank Indonesia",
+   "industri halal"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822926.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada",
   "category": "Industri",
   "title": "RI Andalkan Organisasi Dunia untuk [Ekspor] Kelapa dan Lada",
@@ -6509,39 +6543,6 @@ var ARTICLES = [
    "akuisisi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e97a8ac016_f620f5f31a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-bantu-perajin-tenun-desa-adat-sade-bangkit",
-  "category": "UMKM",
-  "title": "Pertamina [Bantu] Perajin Tenun Desa Adat Sade Bangkit",
-  "deck": "Pertamina menyerahkan 45 alat tenun dan pendampingan pelatihan bagi perajin Desa Adat Sade, Lombok, yang usahanya lumpuh akibat kebakaran Agustus lalu.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/pertamina-bantu-perajin-tenun-desa-adat-sade-bangkit.jpg",
-  "imageV": "mv2dxstx",
-  "tags": [
-   "pertamina",
-   "desaadatsade",
-   "tenunsasak",
-   "pemulihanekonomi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472253-dukung-pemulihan-ekonomi-pertamina-bantu-perajin-tenun-desa-adat-sade-kembali-berkarya"
- },
- {
-  "slug": "giaa-rombak-direksi-thomas-oentoro-jadi-dirut-baru",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Rombak [Direksi], Thomas Oentoro Jadi Dirut Baru",
-  "deck": "RUPSLB Garuda Indonesia menyetujui pergantian direksi dan komisaris, termasuk tiga eksekutif asing baru dan penetapan Thomas Sugiarto Oentoro sebagai Direktur Utama.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "Garuda Indonesia",
-   "RUPSLB",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f3e7f089e_3b5cc8e34f.pdf",
   "sourceLabel": "IDX"
  }
 ];

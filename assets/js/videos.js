@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "eS2F4xxx1qY",
+  "title": "Antrean BBM Pertalite Capai 3,5 Jam di Ternate",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Sopir angkot di Ternate harus mengantre hingga 3,5 jam untuk mendapatkan BBM jenis Pertalite di SPBU Batu Anteru, menandakan gangguan pasokan bahan bakar bersubsidi di daerah.",
+  "takeaway": "Antrean panjang BBM bersubsidi penting dipantau karena menyangkut kelancaran distribusi energi hingga ke daerah.",
+  "terbit": "2026-10-18T14:58:24+00:00"
+ },
+ {
+  "id": "AvpufMPhVD0",
+  "title": "Kongres Syarikat Islam Angkat Tema Dakwah Ekonomi",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Kongres Nasional ke-42 Syarikat Islam di Surabaya mengusung tema Dakwah Ekonomi Menuju Kemerdekaan Sejati, membahas penguatan ekonomi umat lewat koperasi dan ekonomi syariah.",
+  "takeaway": "Pembahasan penguatan ekonomi umat melalui koperasi dan ekonomi syariah relevan bagi pembaca yang mengikuti perkembangan sektor UMKM di Indonesia.",
+  "terbit": "2026-10-18T14:54:24+00:00"
+ },
+ {
   "id": "bnvRPO9uYnU",
   "title": "Pemerintah Gandakan Kapal Atasi Krisis BBM di Bali",
   "category": "Energi",

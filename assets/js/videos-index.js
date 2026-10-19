@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "Yst8wLp798o",
+  "title": "Kopdes Ciptakan Kemandirian atau Ketergantungan? Jawaban Menteri Desa",
+  "category": "UMKM",
+  "program": "Jejak Perubahan",
+  "summary": "Menteri Desa menanggapi pertanyaan apakah program Koperasi Desa (Kopdes) benar-benar membuat masyarakat mandiri secara ekonomi atau justru menciptakan ketergantungan baru.",
+  "takeaway": "Kopdes menyangkut langsung pemberdayaan ekonomi desa dan koperasi, relevan bagi pembaca yang mengikuti kebijakan UMKM dan ekonomi lokal."
+ },
+ {
   "id": "rTDHttd2_7Q",
   "title": "Bandara Batam Buka Rute Penerbangan ke Malaysia",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono menghadiri Digital Infrastructure Summit dan menyoroti kebutuhan infrastruktur untuk mendukung ekonomi digital Indonesia.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan infrastruktur yang menopang pertumbuhan ekonomi digital nasional."
- },
- {
-  "id": "IqsYnyl-2Rg",
-  "title": "Kadin Bahas Kerja Sama Investasi dengan Finlandia",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "Kadin Indonesia bersama Kementerian Investasi dan Hilirisasi atau BKPM menerima delegasi bisnis Finlandia untuk menjajaki peluang kerja sama investasi.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut potensi masuknya investasi asing ke Indonesia."
  }
 ];

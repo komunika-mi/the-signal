@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-bumbu-ri-capai-kesepakatan-us-5-juta-di-tei",
+  "category": "Bisnis",
+  "title": "Ekspor Bumbu RI Capai Kesepakatan [US$5 Juta] di TEI",
+  "deck": "Dua kesepakatan dagang bumbu dan kuliner Indonesia dengan mitra asing diteken di penutupan Trade Expo Indonesia ke-41, salah satunya bernilai hingga US$5 juta.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "tags": [
+   "ekspor bumbu",
+   "Trade Expo Indonesia",
+   "S'RASA",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bango-dukung-srasa-perkuat-peluang-ekspor-bumbu-indonesia-di-tei-ke-41",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pnm-raih-penghargaan-esg-lewat-program-olah-sampah-nasabah",
+  "category": "BUMN",
+  "title": "PNM Raih [Penghargaan] ESG Lewat Program Olah Sampah Nasabah",
+  "deck": "PNM meraih ESG NOW Awards 2026 kategori Circular Economy Empowerment atas program Kembangs yang mengajak nasabah Mekaar memilah dan menyetor sampah menjadi nilai ekonomi.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/pnm-raih-penghargaan-esg-lewat-program-olah-sampah-nasabah.jpg",
+  "imageV": "mvfcj52n",
+  "tags": [
+   "PNM",
+   "Mekaar",
+   "ESG",
+   "bank sampah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473860-pnm-raih-esg-now-awards-2026-dorong-ibu-nasabah-mekaar-ubah-sampah-jadi-nilai-ekonomi"
+ },
+ {
   "slug": "wifi-rencana-konstruksi-sentral-telekomunikasi-npv-rp929-m",
   "category": "Aksi Korporasi",
   "title": "WIFI Rencana [Konstruksi] Sentral Telekomunikasi, NPV Rp929 M",
@@ -195,6 +228,18 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-9650-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ciri-sistem-bisnis-yang-perlu-diganti-saat-tumbuh",
+  "category": "Bisnis",
+  "title": "Ciri Sistem Bisnis yang Perlu Diganti Saat [Tumbuh]",
+  "deck": "Saat pelanggan, cabang, dan transaksi bertambah, sistem lama yang tak lagi terintegrasi bisa membuat laporan telat dan keputusan tertunda.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/ciri-sistem-bisnis-yang-perlu-diganti-saat-tumbuh.jpg",
+  "imageV": "mvfcj5iu",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473846-bisnis-terus-berkembang-mengapa-sistem-yang-digunakan-harus-ikut-berubah"
  },
  {
   "slug": "ri-kejar-penandatanganan-ieu-cepa-berlaku-awal-2027",
@@ -1253,7 +1298,7 @@ var ARTICLES = [
   "title": "Kemendag Pacu Pemanfaatan [25] Perjanjian Dagang RI",
   "deck": "Kemendag mendorong UMKM dan pelaku usaha daerah memanfaatkan 25 perjanjian dagang yang sudah berjalan, di tengah surplus dagang US$7,25 miliar hingga Agustus 2026.",
   "date": "18 Oktober 2026",
-  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "tags": [
    "perjanjian dagang",
    "ekspor",
@@ -2941,7 +2986,7 @@ var ARTICLES = [
   "title": "Kunjungan Wisman Capai 10,58 Juta, [Investasi] Pariwisata Melesat",
   "deck": "Investasi sektor pariwisata tumbuh 16,64 persen sepanjang 2026, dua kali laju investasi nasional, saat kunjungan wisman naik 5,38 persen menjadi 10,58 juta hingga Agustus.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "Pariwisata",
    "Investasi",
@@ -5012,7 +5057,7 @@ var ARTICLES = [
   "title": "Sehari Jelang TEI 2026, Buyer dari [134] Negara Terdaftar",
   "deck": "Kemendag meninjau kesiapan Trade Expo Indonesia ke-41 di ICE BSD, Tangerang, yang dibuka Rabu (14/10) dengan calon buyer dari 134 negara dan 1.873 perusahaan peserta.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
   "tags": [
    "TEI 2026",
    "Kemendag",
@@ -6492,54 +6537,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fec6ed3b81_a29994af0e.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-dampingi-umkm-ubah-eceng-gondok-jadi-kerajinan",
-  "category": "UMKM",
-  "title": "PNM Dampingi UMKM Ubah Eceng Gondok Jadi [Kerajinan]",
-  "deck": "Nasabah PNM Mekaar di Bekasi mengubah eceng gondok yang tumbuh liar di sungai menjadi kerajinan anyaman yang kini dipasarkan hingga Yogyakarta dan Bali.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/pnm-dampingi-umkm-ubah-eceng-gondok-jadi-kerajinan.jpg",
-  "imageV": "mv5ji9ye",
-  "tags": [
-   "pnm",
-   "pnm mekaar",
-   "umkm",
-   "eceng gondok"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472604-dari-sungai-ke-pasar-pnm-dampingi-maryati-ubah-eceng-gondok-jadi-kerajinan-bernilai"
- },
- {
-  "slug": "flmc-tambah-kbli-perusahaan-induk-untuk-anak-usaha-distribusi",
-  "category": "Aksi Korporasi",
-  "title": "FLMC Tambah KBLI [Perusahaan Induk] untuk Anak Usaha Distribusi",
-  "deck": "Falmaco Nonwoven berencana menambah KBLI Aktivitas Perusahaan Induk untuk membentuk anak usaha distribusi bermodal awal Rp5 miliar, menunggu persetujuan RUPSLB 18 November 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FLMC",
-   "KBLI",
-   "Falmaco Nonwoven",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a48bf4a66_ab0e722d0b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pekerja-mandiri-perempuan-didorong-naik-kelas-ke-usaha-formal",
-  "category": "Ketenagakerjaan",
-  "title": "Pekerja Mandiri Perempuan Didorong [Naik Kelas] ke Usaha Formal",
-  "deck": "Kemenko Perekonomian, Kemenaker, pemda, dan Lazada Indonesia meluncurkan program pendampingan usaha bagi pekerja mandiri perempuan di Yogyakarta, Bandung, dan Medan agar naik kelas jadi usaha formal.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/bursa-kerja.jpg",
-  "tags": [
-   "tenaga kerja mandiri",
-   "UMKM perempuan",
-   "ketenagakerjaan informal",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7147/dorong-formalisasi-usaha-dan-naik-kelas-pemerintah-perkuat-kapasitas-tenaga-kerja-mandiri",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

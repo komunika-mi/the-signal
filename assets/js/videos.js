@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Yst8wLp798o",
+  "title": "Kopdes Ciptakan Kemandirian atau Ketergantungan? Jawaban Menteri Desa",
+  "category": "UMKM",
+  "program": "Jejak Perubahan",
+  "summary": "Menteri Desa menanggapi pertanyaan apakah program Koperasi Desa (Kopdes) benar-benar membuat masyarakat mandiri secara ekonomi atau justru menciptakan ketergantungan baru.",
+  "takeaway": "Kopdes menyangkut langsung pemberdayaan ekonomi desa dan koperasi, relevan bagi pembaca yang mengikuti kebijakan UMKM dan ekonomi lokal.",
+  "terbit": "2026-10-19T13:36:27+00:00"
+ },
+ {
   "id": "rTDHttd2_7Q",
   "title": "Bandara Batam Buka Rute Penerbangan ke Malaysia",
   "category": "Industri",

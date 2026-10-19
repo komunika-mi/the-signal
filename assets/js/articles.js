@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wifi-investasi-sukses-bersama-lepas-1-42-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "WIFI: Investasi Sukses Bersama [Lepas] 1,42 Miliar Saham",
+  "deck": "Investasi Sukses Bersama melepas 1,42 miliar saham WIFI senilai sekitar Rp4,06 triliun, hak suaranya turun dari 54,42 persen jadi 27,76 persen dan kehilangan status pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T22:52:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-5566-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "kepemilikan saham",
+   "divestasi",
+   "pengendali saham"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) melaporkan kepada Otoritas Jasa Keuangan bahwa pemegang sahamnya, Investasi Sukses Bersama, menjual sebagian besar kepemilikannya di perusahaan. Berdasarkan laporan kepemilikan saham yang disampaikan pada 19 Oktober 2026, jumlah saham Investasi Sukses Bersama berkurang dari 2.889.087.404 lembar menjadi 1.473.435.404 lembar, atau berkurang 1.415.652.000 lembar saham biasa.",
+   "Transaksi tercatat sebagai penjualan tidak langsung dengan tujuan divestasi, dilakukan pada 19 Oktober 2026 dengan harga Rp2.870 per saham. Dengan harga tersebut, nilai saham yang dilepas mencapai sekitar Rp4,06 triliun. Jumlah yang dijual ini setara sekitar 49 persen dari total kepemilikan Investasi Sukses Bersama sebelum transaksi.",
+   "Akibat penjualan ini, hak suara Investasi Sukses Bersama di WIFI turun dari 54,42 persen menjadi 27,756 persen. Artinya, pihak ini kehilangan posisi sebagai pemegang saham mayoritas yang sebelumnya menguasai lebih dari separuh hak suara perusahaan, dan kini hanya mengendalikan sekitar seperempat dari total hak suara WIFI."
+  ],
+  "fotoAdegan": "Technician inspecting fiber optic cables and server racks inside a dim telecommunications data center, blue ambient lighting",
+  "takeaway": "Laporan ini condong negatif bagi WIFI, karena pelapor melepas hampir separuh kepemilikannya sekaligus kehilangan status sebagai pemegang saham pengendali, dari mayoritas suara di atas 50 persen menjadi hanya sekitar 27,76 persen. Yang tersentuh di sini adalah hak suara, yaitu porsi kendali atas keputusan penting perusahaan seperti pengangkatan direksi atau persetujuan aksi korporasi, bukan ekuitas atau kas perusahaan itu sendiri karena transaksi ini terjadi antar pemegang saham, bukan setoran modal baru ke WIFI. Pelaku pasar mencermati pergantian pengendali semacam ini karena bisa membawa perubahan arah strategi atau kebijakan perusahaan di masa depan. Yang perlu dipantau berikutnya adalah apakah muncul laporan dari pihak pembeli yang kini menyerap porsi saham tersebut, sebab pergantian status pengendali biasanya memicu kewajiban keterbukaan tersendiri dari pemegang saham baru ke bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wifi-sinergi-graha-kapital-kuasai-26-67-suara",
+  "category": "Aksi Korporasi",
+  "title": "WIFI: [Sinergi Graha Kapital] Kuasai 26,67% Suara",
+  "deck": "PT Sinergi Graha Kapital melaporkan kepemilikan baru 1,42 miliar saham WIFI atau 26,667% hak suara, dibeli senilai sekitar Rp4,06 triliun pada 19 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T22:37:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-3829-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "kepemilikan saham",
+   "Sinergi Graha Kapital",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Sinergi Graha Kapital melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya kini memegang 1.415.652.000 saham PT Solusi Sinergi Digital Tbk (WIFI), setara 26,667 persen hak suara perusahaan. Sebelum transaksi ini, Sinergi Graha Kapital sama sekali tidak memegang saham WIFI alias kepemilikannya nol. Pelapor bukan anggota direksi atau komisaris WIFI, melainkan badan hukum yang tercatat berstatus WNI dalam sistem pelaporan KSEI.",
+   "Transaksi tercatat sebagai pembelian tidak langsung dengan skema repurchase agreement, dieksekusi pada 19 Oktober 2026 dengan harga Rp2.870 per saham. Dengan jumlah saham tersebut, nilai transaksinya berkisar Rp4,06 triliun. Dokumen menyebut tujuan transaksi adalah investasi jangka panjang, bukan transaksi jangka pendek atau lindung nilai.",
+   "Jumlah saham yang berpindah tangan, 1.415.652.000 unit, sama persis dengan jumlah saham yang dilepas PT Investasi Sukses Bersama dalam laporan terpisah yang juga terbit hari ini, saat pihak tersebut melepas hampir separuh kepemilikannya dan kehilangan status pemegang saham pengendali WIFI. Dengan kesamaan angka ini, laporan Sinergi Graha Kapital kemungkinan besar merupakan sisi pembeli dari transaksi yang sama, menjadikannya pemegang saham baru dengan porsi suara lebih dari seperempat total hak suara WIFI."
+  ],
+  "fotoAdegan": "Technician splicing fiber optic cables on a utility pole in an Indonesian residential street, tropical trees, daylight",
+  "takeaway": "Laporan ini netral bagi fundamental WIFI, karena saham yang berpindah tangan ini transaksi antar pemegang saham di pasar sekunder, bukan dana segar yang masuk ke kas perusahaan. Yang bergeser adalah peta hak suara, bukan pos-pos di laporan keuangan seperti ekuitas, kas, atau laba per saham, sebab tidak ada saham baru yang diterbitkan, hanya pindah dari pemilik lama ke pemilik baru. Pelaku pasar tetap mencermatinya karena porsi 26,667 persen itu cukup besar untuk mempengaruhi suara di rapat pemegang saham dan arah strategis perusahaan ke depan. Yang perlu dipantau berikutnya adalah apakah transaksi besar semacam ini diikuti keterbukaan informasi lanjutan soal status pemegang saham pengendali baru WIFI, mengingat porsi yang didapat Sinergi Graha Kapital tampak terkait langsung dengan pelepasan saham oleh Investasi Sukses Bersama pada hari yang sama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "laba-resmikan-jv-baterai-goin-bareng-oscarmas-pegang-51",
+  "category": "Aksi Korporasi",
+  "title": "LABA Resmikan JV Baterai [GOIN] Bareng Oscarmas, Pegang 51%",
+  "deck": "Green Power Group (LABA) dan Oscarmas menandatangani akta pendirian PT Gobattery Solusi Indonesia (GOIN), perusahaan patungan penyedia sewa baterai untuk truk listrik, modal dasar Rp10 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T22:28:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f88018f5a8_bd77823d0c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LABA",
+  "tags": [
+   "LABA",
+   "Green Power Group",
+   "GOIN",
+   "Oscarmas"
+  ],
+  "body": [
+   "PT Green Power Group Tbk (LABA) dan PT Oscar Investama Indonesia, perusahaan investasi yang terafiliasi dengan grup Oscarmas, menandatangani Akta Pendirian PT Gobattery Solusi Indonesia (GOIN) pada Selasa, 13 Oktober 2026, di Mandiri Inhealth Tower, Jakarta Selatan, yang juga menjadi alamat kantor GOIN. Green Power Group memegang 51 persen saham perusahaan patungan ini, sementara Oscar Investama Indonesia memegang 49 persen, dengan modal dasar Rp10 miliar. Chen Xiaoxiao, Direktur Utama Green Power Group, menjabat Direktur GOIN, sedangkan Williem Tanjung Oscar dari Oscar Investama Indonesia menjabat Komisaris. Pembentukan GOIN menindaklanjuti keterbukaan informasi Green Power Group kepada Bursa Efek Indonesia pada 24 September 2026 tentang rencana kerja sama patungan di bidang energi dan solusi baterai untuk kendaraan niaga listrik.",
+   "GOIN akan menjalankan model Battery-as-a-Service untuk truk listrik: perusahaan ini memiliki dan mengelola baterai, sementara operator armada membayar biaya sewa berkala, sehingga biaya awal elektrifikasi armada menjadi lebih ringan bagi operator logistik. Lingkup usahanya mencakup perdagangan dan penyewaan baterai, penyimpanan tenaga listrik dan pemasangan jaringan listrik, pengoperasian stasiun pengisian daya kendaraan listrik, serta reparasi dan pemeliharaan baterai.",
+   "Dua hari setelah penandatanganan akta, pada Kamis, 15 Oktober 2026, manajemen GOIN yaitu Chen Xiaoxiao dan Chen Huadong dari Green Power Group serta Williem Tanjung Oscar dari Oscar Investama Indonesia, mengunjungi fasilitas workshop Oscarmas bersama tim dari Gotion, mitra teknologi baterai GOIN. Oscarmas merupakan distributor ekskavator Sumitomo sejak 2015 dan agen tunggal dump truck Chenglong dari Dongfeng Liuzhou Motor sejak 2025, dengan jaringan di 11 kota besar. Dalam rapat teknis, para pihak merekomendasikan satu spesifikasi baterai standar untuk truk ringan batch berikutnya, mencakup kelas 4 ton, 8 ton, dan 12 ton, dengan kapasitas lebih besar namun dimensi lebih ringkas. Sebagai langkah berikutnya, Gotion akan mengonfirmasi ketersediaan baterai sesuai spesifikasi tersebut beserta jadwal penyediaan dan pengirimannya, dan bila spesifikasi itu belum tersedia, Gotion akan mengajukan alternatif yang setara atau lebih tinggi. GOIN akan memulai operasi secara bertahap setelah perizinan berusaha terpenuhi, diawali dari rute logistik yang terukur."
+  ],
+  "fotoAdegan": "Technicians inspecting battery packs mounted on a small electric truck chassis inside an industrial workshop, overcast daylight through open bay doors",
+  "takeaway": "Laporan ini condong positif karena Green Power Group kini punya kendaraan usaha baru yang konkret, bukan sekadar rencana. Akta sudah diteken, modal disetujui, dan kedua pemegang saham langsung turun ke lapangan untuk memastikan pasokan baterai sebelum operasi dimulai. Yang tersentuh adalah ekuitas dan arus kas investasi perseroan, karena Green Power Group harus menyuntikkan dana untuk porsi 51 persen sahamnya di GOIN yang bermodal dasar Rp10 miliar, dan pelaku pasar memperhatikan ini karena dana tersebut tercatat sebagai aset penyertaan di anak usaha, bukan laba, sampai GOIN benar-benar menghasilkan pendapatan. Yang perlu dipantau berikutnya adalah dua hal yang disebut dalam dokumen ini: konfirmasi Gotion soal ketersediaan dan jadwal pengiriman baterai sesuai spesifikasi yang disepakati, serta pemenuhan perizinan berusaha GOIN yang menjadi syarat sebelum rute logistik komersial pertamanya bisa berjalan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "wskt-temuan-bpk-rp8-5-miliar-di-proyek-tol-palembang-betung",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Temuan BPK Rp8,5 Miliar di Proyek Tol [Palembang-Betung]",
+  "deck": "Waskita Karya menjelaskan ke BEI soal temuan BPK atas proyek Tol Palembang-Betung yang dikerjakan anak usahanya, WST, senilai Rp8,5 miliar, yang sudah dipotong dari tagihan ke Hutama Karya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T21:59:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c52f752d09_a72bee01bf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "BPK",
+   "Hutama Karya",
+   "Tol Trans Sumatera"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk menjawab permintaan penjelasan Bursa Efek Indonesia atas pemberitaan Bloomberg Technoz pada 14 Oktober 2026 soal temuan Badan Pemeriksa Keuangan (BPK) di proyek tol garapan anak usahanya. Dalam surat bernomor 1090/WK/SEKPER/2026 yang diteken Sekretaris Perusahaan Steven Subiantoro, Waskita mengonfirmasi bahwa pemberitaan itu benar dan berasal dari hasil pemeriksaan BPK atas pengusahaan Jalan Tol Trans Sumatera tahun anggaran 2023 hingga semester I 2025 di PT Hutama Karya (Persero). Temuan spesifik menyasar pekerjaan pembangunan Jalan Tol Palembang-Betung yang dikerjakan oleh PT Waskita Sriwijaya Tol (WST), anak usaha Waskita.",
+   "Berdasarkan risalah diskusi dengan BPK tertanggal 12 Desember 2025, nilai temuan tercatat Rp8.545.948.263,88, mencakup empat komponen pekerjaan: perhitungan Common Borrow Material, ketebalan perkerasan beton, ketebalan lapis pondasi agregat Tipe A, dan pekerjaan pagar ROW kawat berduri. Waskita menyatakan nilai tersebut tidak berdampak material terhadap kondisi keuangan maupun kelangsungan operasional perseroan.",
+   "Soal tindak lanjut, nilai temuan itu sudah diperhitungkan lewat pemotongan pada Berita Acara Pembayaran yang diajukan WST kepada Hutama Karya, dengan komunikasi dan koordinasi antara kedua pihak berlangsung pada 3 September 2026. WST meminta Hutama Karya memverifikasi perhitungan dan realisasi pemotongan tersebut beserta dokumen pendukungnya, agar tidak terjadi pengembalian atau pemotongan ganda atas nilai yang sama. Waskita juga menegaskan tidak ada informasi material lain yang belum diungkapkan ke publik terkait kelangsungan usaha maupun harga sahamnya."
+  ],
+  "fotoAdegan": "Workers compacting layers of aggregate base material on an elevated toll road construction site, heavy machinery, overcast sky",
+  "takeaway": "Laporan ini netral bagi Waskita: nilai temuan BPK sebesar Rp8,5 miliar tergolong kecil dibanding skala proyek dan keuangan perseroan, dan sudah diselesaikan lewat pemotongan tagihan, bukan berupa kewajiban baru yang menggantung. Yang tersentuh di sini bukan ekuitas atau laba perseroan secara langsung, melainkan arus kas proyek anak usaha WST, karena uang yang semestinya diterima dari Hutama Karya berkurang sejumlah nilai temuan tersebut sebagai bentuk koreksi atas pekerjaan yang volumenya tak sesuai spesifikasi. Yang perlu dipantau selanjutnya adalah hasil verifikasi antara WST dan Hutama Karya atas realisasi pemotongan itu, sebab Waskita sendiri menyebut masih mungkin ada selisih temuan yang harus ditindaklanjuti sesuai rekomendasi BPK jika verifikasi menunjukkan belum semuanya terselesaikan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bni-pertahankan-predikat-tertinggi-tata-kelola-2-tahun",
   "category": "Perbankan",
   "title": "BNI [Pertahankan] Predikat Tertinggi Tata Kelola 2 Tahun",
@@ -55,6 +159,31 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret dari aktivasi S'RASA di TEI kali ini bukan sekadar promosi kuliner, melainkan dua perjanjian awal: Bango meneken Letter of Intent dengan importir Belanda Interaromat BV dengan perkiraan nilai US$120 ribu per tahun, dan produsen bawang goreng Mbrebes Mili meneken MoU dengan I Am F&B Group senilai total US$5 juta. Yang terdampak adalah produsen bumbu skala kecil-menengah seperti Mbrebes Mili yang mendapat akses ke pembeli luar negeri lewat program pemerintah ini, selain Unilever sebagai mitra besar yang juga ikut memanfaatkan jalur promosi yang sama. Arahnya terlihat ke pergeseran strategi promosi ekspor kuliner dari sekadar pameran menuju fasilitasi transaksi dengan nilai yang bisa diukur, tetapi perlu diingat LoI dan MoU baru kesepakatan awal, bukan kontrak final yang mengikat. Yang perlu dipantau adalah apakah keduanya benar terealisasi jadi pengiriman ekspor nyata, yang biasanya baru terkonfirmasi lewat data realisasi ekspor Kementerian Perdagangan pada periode berikutnya."
+ },
+ {
+  "slug": "admf-bayar-pelunasan-obligasi-sukuk-rp433-96-miliar-9-nov-2026",
+  "category": "Aksi Korporasi",
+  "title": "ADMF Bayar [Pelunasan] Obligasi-Sukuk Rp433,96 Miliar 9 Nov 2026",
+  "deck": "ADMF akan melunasi pokok Sukuk Mudharabah Berkelanjutan V dan Obligasi Berkelanjutan VI seri B senilai total Rp433,96 miliar pada 9 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T21:03:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e8e02e7c5a_efebb5bf0d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADMF",
+  "tags": [
+   "ADMF",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "body": [
+   "Adira Dinamika Multi Finance Tbk (ADMF) mengumumkan pelunasan pokok dua instrumen utang yang diterbitkannya. Pertama, Sukuk Mudharabah Berkelanjutan V Adira Finance Tahap II Tahun 2023 Seri B dengan nilai pokok Rp48,73 miliar. Kedua, Obligasi Berkelanjutan VI Adira Finance Tahap II Tahun 2023 Seri B dengan nilai pokok Rp385,235 miliar. Jika digabung, total pokok yang akan dibayarkan ADMF ke pemegang sukuk dan obligasi ini mencapai sekitar Rp433,96 miliar, dengan tanggal pembayaran dijadwalkan pada 9 November 2026. Pengumuman ini ditandatangani oleh Corporate Secretary ADMF, Veronika Dyah Puspitaningrum, pada 19 Oktober 2026.",
+   "Selain nilai pokok, dokumen juga mencantumkan nilai bagi hasil dan bunga terakhir yang dibayarkan bersamaan dengan pelunasan ini, yaitu sekitar Rp791,86 juta untuk sukuk mudharabah dan Rp6,26 miliar untuk obligasi. Kedua instrumen ini merupakan bagian dari program penerbitan berkelanjutan, yaitu skema di mana perusahaan menerbitkan surat utang secara bertahap dalam satu payung besar, dan Tahap II Seri B ini hanyalah salah satu tahap dari rangkaian penerbitan tersebut. Pelunasan pokok berarti ADMF mengembalikan dana yang dipinjam dari investor sukuk dan obligasi sesuai jadwal jatuh tempo yang sudah ditetapkan sejak awal penerbitan, bukan pembayaran yang dipercepat atau di luar rencana."
+  ],
+  "fotoAdegan": "Customers waiting at an Indonesian vehicle financing branch counter, motorcycles parked outside under midday light",
+  "takeaway": "Laporan ini netral bagi ADMF karena pelunasan pokok obligasi dan sukuk ini sudah terjadwal sejak instrumen tersebut diterbitkan, bukan keputusan mendadak yang mengubah arah bisnis perusahaan. Yang tersentuh adalah sisi arus kas dan utang: ADMF harus menyiapkan dana tunai senilai total pokok sekitar Rp433,96 miliar untuk dikembalikan ke investor, dan setelah dibayar, jumlah surat utang beredar perusahaan akan berkurang sebesar itu. Bagi pelaku pasar, berkurangnya utang biasanya dibaca sebagai hal baik untuk kesehatan keuangan, tapi itu juga berarti kas keluar dalam jumlah besar yang harus dipastikan tersedia tepat waktu. Yang perlu dipantau selanjutnya adalah apakah pembayaran benar terealisasi pada 9 November 2026 sesuai jadwal, dan apakah ADMF akan menerbitkan sukuk atau obligasi baru dalam program berkelanjutan berikutnya sebagai pengganti dana yang jatuh tempo ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "pnm-raih-penghargaan-esg-lewat-program-olah-sampah-nasabah",
@@ -732,6 +861,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pssi-alihkan-40-juta-saham-buyback-ke-pt-nusa-damai-rp14-7-m",
+  "category": "Aksi Korporasi",
+  "title": "PSSI [Alihkan] 40 Juta Saham Buyback ke PT Nusa Damai, Rp14,7 M",
+  "deck": "PSSI mengalihkan 40 juta saham hasil buyback ke PT Nusa Damai pada 15 Oktober 2026 seharga Rp368 per saham, meraih dana Rp14,72 miliar tanpa rugi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:37:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/846b7769a3_fe0e60038f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "buyback saham",
+   "saham treasuri",
+   "pengalihan saham"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) melaporkan kepada Bursa Efek Indonesia bahwa pada 15 Oktober 2026 perseroan mengalihkan 40.000.000 lembar saham hasil pembelian kembali (buyback) melalui pasar negosiasi, dengan anggota bursa pelaksana Danatama Makmur. Saham tersebut dibeli oleh PT Nusa Damai dengan harga rata-rata Rp368 per saham, sehingga total dana yang diperoleh perseroan mencapai Rp14,72 miliar. Perseroan menyatakan tidak ada kerugian dari transaksi pengalihan ini.",
+   "Saham yang dialihkan berasal dari program pembelian kembali tahap ketiga, yang dilakukan dengan dasar kondisi pasar berfluktuasi signifikan dan rampung dibeli pada 30 September 2025. Total saham yang dibeli kembali dalam program itu sebanyak 116.600.700 lembar. Dengan pengalihan 40 juta lembar kali ini, sisa saham hasil buyback yang belum dialihkan kembali tercatat 76.600.700 lembar.",
+   "Laporan ditandatangani secara elektronik oleh Desi Femilinda Safitri selaku Approver perseroan pada 19 Oktober 2026. Pada lampiran formulir resmi tercantum pula nama Basuki Setiogroho sebagai direktur yang mewakili perseroan, meski bagian ini berasal dari dokumen hasil pindaian sehingga perlu dibaca dengan hati-hati."
+  ],
+  "fotoAdegan": "Cargo ship being loaded with shipping containers at a busy Indonesian port, cranes working under an overcast sky",
+  "takeaway": "Laporan ini kami nilai netral: perseroan memang mengantongi dana segar Rp14,72 miliar dari penjualan saham buyback tanpa rugi, tetapi hampir sepertiga dari total saham hasil buyback, yakni 40 juta dari 116,6 juta lembar, kembali beredar di pasar lewat transaksi negosiasi ke PT Nusa Damai. Yang tersentuh adalah jumlah saham beredar dan laba per saham, karena saham yang tadinya disimpan perseroan sebagai treasuri kini ikut membagi laba bersih perseroan, sehingga porsi laba untuk setiap saham bisa mengecil jika labanya tidak ikut naik. Yang perlu dipantau berikutnya adalah nasib 76.600.700 lembar sisa saham buyback yang belum dialihkan, termasuk kapan dan ke pihak mana perseroan akan menjualnya, karena itu akan menentukan berapa banyak lagi saham beredar yang bertambah.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "laba-jpfa-semester-i-2026-melonjak-97-ke-rp2-68-triliun",
   "category": "Aksi Korporasi",
   "title": "Laba JPFA Semester I/2026 [Melonjak] 97% ke Rp2,68 Triliun",
@@ -940,6 +1095,31 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "untr-rombak-komite-audit-ignasius-jonan-jadi-ketua",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Rombak [Komite Audit], Ignasius Jonan Jadi Ketua",
+  "deck": "United Tractors mengangkat Ignasius Jonan sebagai Ketua Komite Audit dan menambah Budi Frensidy sebagai anggota baru, efektif 15 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:06:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0b0cf5d5c9_88322af3c7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "komite audit",
+   "tata kelola korporasi",
+   "Ignasius Jonan"
+  ],
+  "body": [
+   "United Tractors Tbk (UNTR) mengumumkan perubahan susunan Komite Audit yang berlaku efektif 15 Oktober 2026. Posisi Ketua Komite Audit, yang sebelumnya kosong, kini diisi oleh Ignasius Jonan. Dua anggota lama, Wanny Wijaya dan Mario C. Surung Gultom, tetap menjabat untuk periode pertama mereka, sementara Budi Frensidy ditambahkan sebagai anggota baru juga untuk periode pertama.",
+   "Dalam surat terpisah kepada Otoritas Jasa Keuangan yang ditandatangani Corporate Secretary Ari Setiyawan, perseroan menjelaskan bahwa penambahan Budi Frensidy sebagai anggota Komite Audit didasarkan pada Keputusan Sirkuler Dewan Komisaris tertanggal 15 Oktober 2026, mengacu pada Peraturan OJK Nomor 55/POJK.04/2015 tentang Pembentukan dan Pedoman Pelaksanaan Kerja Komite Audit. Surat tersebut juga ditembuskan ke Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Executives in formal business attire seated around a long table in a glass-walled corporate boardroom, soft morning light, papers stacked neutrally",
+  "takeaway": "Perubahan ini netral bagi UNTR, karena yang berubah adalah susunan pengawas internal perusahaan, bukan angka keuangan atau kepemilikan saham. Komite audit bertugas mengawasi proses pelaporan keuangan dan kinerja auditor eksternal perusahaan, jadi perubahan ini menyentuh pos tata kelola, bukan pos kinerja seperti ekuitas, arus kas, atau laba per saham, sehingga dampaknya tidak langsung terasa di laporan keuangan. Yang perlu dipantau selanjutnya adalah bagaimana kinerja pengawasan komite audit dengan susunan baru ini tercermin pertama kali di laporan tahunan 2026 mendatang, termasuk kaitannya dengan agenda RUPSLB UNTR yang sudah diumumkan lebih dulu pekan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "lpin-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
   "category": "Aksi Korporasi",
   "title": "LPIN Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
@@ -1016,6 +1196,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers moving cattle through a feedlot chute at dawn, dust rising in the air, rural Indonesian livestock farm setting",
   "takeaway": "Laporan ini condong positif bagi BEEF karena Dimas Wibowo menambah kepemilikannya lewat pembelian, bukan melepas sahamnya, meski kenaikan hak suaranya dari 5,91 persen ke 6,08 persen tergolong tipis. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, bagian yang dipantau pasar karena perubahan pada pemegang saham dengan posisi lumayan besar bisa jadi sinyal keyakinan terhadap prospek perusahaan, meski di kasus ini belum sampai mengubah Dimas menjadi pihak pengendali. Yang perlu dipantau berikutnya adalah apakah keterlambatan pelaporan sekitar empat bulan dari tanggal transaksi pada 25 Juni 2026 ini akan mendapat tanggapan dari OJK, serta apakah kepemilikan Dimas terus bertambah pada laporan-laporan mendatang.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "cnko-rupslb-ketiga-lagi-lagi-gagal-capai-kuorum",
+  "category": "Aksi Korporasi",
+  "title": "CNKO: RUPSLB Ketiga Lagi-Lagi Gagal Capai [Kuorum]",
+  "deck": "RUPSLB ketiga Exploitasi Energi Indonesia (CNKO) untuk mengubah anggaran dasar gagal terlaksana karena kehadiran pemegang saham hanya 46,9 persen, di bawah syarat minimum 48 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T15:51:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1446c4a754_22145c504d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CNKO",
+  "tags": [
+   "CNKO",
+   "RUPSLB",
+   "anggaran dasar",
+   "kuorum pemegang saham"
+  ],
+  "body": [
+   "Exploitasi Energi Indonesia Tbk (CNKO) melaporkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) ketiga yang digelar pada 15 Oktober 2026 di Financial Hall, Graha CIMB Niaga, Jakarta, tidak memenuhi kuorum kehadiran. Rapat ini mengagendakan persetujuan perubahan anggaran dasar perusahaan, khususnya Pasal 3, untuk menyesuaikan klasifikasi bidang usaha dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia. Berdasarkan daftar pemegang saham per 6 Oktober 2026, total saham dengan hak suara sah yang diterbitkan perseroan berjumlah 8.956.361.206 saham. Yang hadir secara fisik maupun lewat sistem elektronik eASY.KSEI hanya 4.200.760.534 saham atau 46,9025 persen, di bawah syarat minimum kehadiran sebesar 48 persen yang ditetapkan lewat Surat Penetapan Otoritas Jasa Keuangan Nomor S-40/PM.2/2026 tanggal 11 September 2026 khusus untuk RUPSLB ketiga ini.",
+   "Karena kuorum tidak tercapai, RUPSLB ketiga ini dinyatakan tidak berhak mengambil keputusan apa pun terkait perubahan anggaran dasar. Notaris Dahlia, S.H. yang mencatat jalannya rapat menyatakan hasil rapat akan dituangkan dalam Akta Berita Acara Rapat Umum Pemegang Saham Luar Biasa Ketiga Nomor 12 tertanggal 15 Oktober 2026, yang salinannya masih dalam proses penyelesaian. Rapat dihadiri oleh jajaran komisaris dan direksi perseroan, yaitu Komisaris Djoko Sumaryono, Komisaris Independen Edwin Pamimpin Situmorang, Komisaris Independen Cahyo Suryo Putro, Presiden Direktur Robin Wirawan, dan Direktur Erry Indriyana. Laporan hasil rapat disampaikan ke Bursa Efek Indonesia oleh Corporate Secretary Wim Andrian pada 19 Oktober 2026.",
+   "Kegagalan ini merupakan yang ketiga kalinya, karena RUPSLB sebelumnya dengan agenda yang sama juga tidak mencapai kuorum, sehingga OJK sampai menerbitkan penetapan khusus yang menurunkan syarat kehadiran minimum menjadi 48 persen untuk percobaan ketiga ini. Meski syarat sudah diturunkan, kehadiran pemegang saham tetap tidak mencukupi, sehingga perubahan anggaran dasar terkait klasifikasi usaha ini masih menggantung dan perseroan belum menyebutkan jadwal RUPSLB berikutnya dalam laporan ini."
+  ],
+  "fotoAdegan": "Empty corporate meeting hall with rows of unoccupied chairs facing a podium, soft morning light through tall windows",
+  "takeaway": "Laporan ini condong netral bagi fundamental Exploitasi Energi Indonesia, karena RUPSLB yang gagal ini hanya soal administratif, menyesuaikan pasal anggaran dasar dengan kode klasifikasi usaha baru dari Badan Pusat Statistik, bukan transaksi yang mengubah ekuitas, utang, atau laba perusahaan. Kuorum adalah syarat jumlah pemegang saham yang harus hadir supaya sebuah rapat sah mengambil keputusan, dan di sini syaratnya sudah diturunkan OJK menjadi 48 persen dari seluruh saham berhak suara, tapi yang hadir cuma 46,9 persen, sehingga rapat otomatis tidak bisa memutuskan apa pun. Yang patut dicatat, ini sudah percobaan ketiga, artinya dua rapat sebelumnya dengan agenda sama juga gagal mencapai kuorum, pola yang menunjukkan rendahnya partisipasi pemegang saham dalam keputusan perseroan. Yang perlu dipantau berikutnya adalah apakah dan kapan Exploitasi Energi Indonesia menjadwalkan ulang rapat serupa, karena sampai anggaran dasarnya disesuaikan dengan aturan klasifikasi usaha terbaru, perusahaan masih belum memenuhi kewajiban administratif tersebut.",
+  "sentimen": "netral"
  },
  {
   "slug": "jecx-komisaris-tambah-200-000-saham-total-sepekan-380-000",
@@ -1120,6 +1326,31 @@ var ARTICLES = [
   "fotoAdegan": "Wide view of Jakarta's financial district at dusk, illuminated office towers reflecting on glass facades, busy street below",
   "takeaway": "Laporan ini condong negatif bagi sentimen RLCO karena ukurannya memang signifikan, direksi melepas 21,89 persen dari kepemilikannya sendiri dan hak suaranya turun dari 5,86 persen menjadi 4,58 persen, bukan sekadar remah transaksi kecil. Namun transaksi ini terjadi lewat pencairan perjanjian repo, yakni saham yang sebelumnya dijadikan jaminan pinjaman lalu dijual untuk melunasi perjanjian itu, sehingga tidak serta merta mencerminkan keyakinan direksi atas prospek perusahaan. Transaksi semacam ini tidak mengubah ekuitas atau laba perusahaan karena hanya memindahkan saham yang sudah ada dari satu pemilik ke pemilik lain, tetapi pelaku pasar tetap mencermati hak suara direksi sebagai sinyal seberapa besar orang dalam mau memegang sahamnya sendiri. Yang perlu dipantau selanjutnya adalah apakah pelapor ini masih akan muncul dalam laporan kepemilikan RLCO ke depan, sebab hak suaranya yang kini 4,58 persen sudah di bawah ambang 5 persen yang biasanya menjadi batas wajib lapor sebagai pemegang saham utama.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "bold-lunasi-obligasi-rp503-15-m-dan-kupon-rp9-43-m",
+  "category": "Aksi Korporasi",
+  "title": "BOLD Lunasi [Obligasi] Rp503,15 M dan Kupon Rp9,43 M",
+  "deck": "PT Bukit Makmur Mandiri Utama (BOLD) melunasi pokok dan kupon Obligasi III BUMA Tahun 2025 Seri A senilai total sekitar Rp512,58 miliar pada 19 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T15:12:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2504fa7221_0d52eb4137.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "obligasi korporasi",
+   "pelunasan utang",
+   "Bukit Makmur Mandiri Utama"
+  ],
+  "body": [
+   "PT Bukit Makmur Mandiri Utama (BOLD) mengumumkan pelunasan Obligasi III BUMA Tahun 2025 Seri A. Pembayaran mencakup pokok utang senilai Rp503,15 miliar dan kupon senilai Rp9,43 miliar dengan tingkat bunga 6,75 persen per tahun. Kedua pembayaran itu jatuh pada tanggal yang sama, 19 Oktober 2026.",
+   "Informasi ini disampaikan melalui surat resmi bernomor BUMA/DIR/2026/X/0823 yang diterbitkan pada 19 Oktober 2026 pukul 15.12 WIB, ditandatangani secara elektronik oleh Corporate Secretary BUMA, Riska Aurisna Febriane. Dengan pelunasan ini, total dana yang dibayarkan perusahaan kepada pemegang obligasi untuk Seri A mencapai sekitar Rp512,58 miliar, dan kewajiban utang BUMA atas seri tersebut dinyatakan selesai."
+  ],
+  "fotoAdegan": "Fleet of large mining haul trucks parked at a dusty open-pit coal mining site in Kalimantan, early morning light",
+  "takeaway": "Laporan ini netral bagi BOLD, karena pelunasan obligasi ini sudah dijadwalkan sejak penerbitannya setahun lalu dan bukan peristiwa mendadak. Pos yang tersentuh adalah arus kas perusahaan, yang keluar sekitar Rp512,58 miliar sekaligus untuk membayar pokok dan bunga, sekaligus menghapus beban bunga ke depan yang selama ini melekat pada Seri A tersebut. Pelaku pasar biasanya memperhatikan arus kas keluar sebesar ini karena bisa menandakan tekanan likuiditas kalau tidak diimbangi kas masuk yang cukup, meski untuk pelunasan terjadwal seperti ini risikonya jauh lebih kecil. Yang perlu dipantau berikutnya adalah apakah BUMA menerbitkan instrumen utang baru untuk menggantikan pendanaan ini, serta laporan keuangan kuartal mendatang untuk melihat dampak nyata pelunasan ini terhadap beban bunga dan posisi kas perusahaan.",
+  "sentimen": "netral"
  },
  {
   "slug": "tpia-revisi-periode-buyback-berakhir-lebih-cepat-ke-31-desember",
@@ -1409,6 +1640,33 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Empty modern boardroom with rows of upholstered chairs around a long table, soft morning light through windows, East Java office",
   "takeaway": "Laporan ini netral bagi pemegang saham karena isinya baru pemberitahuan rencana rapat, belum ada nama komisaris yang masuk atau keluar sehingga dampaknya belum bisa dinilai. Perubahan susunan Dewan Komisaris tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau arus kas, tapi menyentuh sisi pengawasan perusahaan, sebab komisaris bertugas mengawasi kinerja direksi sehingga wajah baru di kursi ini bisa mengubah arah pengawasan perusahaan ke depan. Pemegang saham dengan kepemilikan minimal satu per dua puluh bagian saham berhak suara masih punya kesempatan mengusulkan agenda tambahan sebelum pemanggilan resmi terbit. Yang perlu dipantau adalah pemanggilan resmi rapat pada 3 November 2026, yang biasanya memuat nama calon komisaris yang diusulkan, serta pelaksanaan RUPSLB itu sendiri pada 25 November 2026 saat susunan baru Dewan Komisaris resmi diputuskan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bren-tanggapi-sanksi-ojk-klaim-keuangan-tetap-kuat",
+  "category": "Aksi Korporasi",
+  "title": "BREN Tanggapi [Sanksi] OJK, Klaim Keuangan Tetap Kuat",
+  "deck": "BREN merespons surat permintaan penjelasan BEI terkait sanksi OJK atas transaksi saham BREN, CUAN, dan DSSA, sembari memaparkan kinerja keuangan dan progres proyek semester pertama 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T11:58:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb2afa71ba_9d9b08ae76.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BREN",
+  "tags": [
+   "BREN",
+   "OJK",
+   "Barito Renewables",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Barito Renewables Energy Tbk (BREN) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) menyusul surat permintaan penjelasan BEI nomor S-13181/BEI.PP2/10-2026 tertanggal 16 Oktober 2026. Surat itu merujuk pemberitaan CNBC Indonesia berjudul \"Ada Pelanggaran, OJK Telusuri Saham BREN, CUAN, dan DSSA\" yang terbit pada hari yang sama. Tanggapan bernomor 020/BREN/BOD/X/2026 ini disampaikan pada 19 Oktober 2026 dan ditandatangani Direktur Utama BREN, Hendra Soetjipto Tan.",
+   "Dalam suratnya, BREN menegaskan kondisi keuangan perseroan tetap kuat terlepas dari pemberitaan tersebut. Untuk periode enam bulan hingga 30 Juni 2026, pendapatan konsolidasian tercatat US$334 juta, naik 11,5 persen dibanding periode sama tahun sebelumnya, didorong kenaikan penjualan listrik dari portofolio panas bumi dan angin. EBITDA naik 13,1 persen menjadi US$293 juta, dengan marjin EBITDA naik dari 86,3 persen menjadi 87,6 persen. Laba bersih setelah pajak melonjak 29 persen menjadi US$106 juta, ditopang laba operasional yang lebih tinggi dan beban bunga yang turun. Rasio utang bersih terhadap ekuitas membaik ke 1,73 kali dari 1,87 kali pada akhir 2025, sementara aset lancar US$679 juta dibanding liabilitas lancar US$417 juta menyisakan modal kerja bersih US$262 juta.",
+   "Dari sisi operasional, BREN melaporkan proyek retrofit Darajat Unit 3 telah rampung pada Oktober 2026 sesuai rencana. Dua proyek pengembangan lain, Salak Unit 7 berkapasitas 40 megawatt dan Wayang Windu Unit 3 berkapasitas 30 megawatt, masing-masing sudah mencapai tingkat penyelesaian 90,27 persen dan 96,9 persen, dengan target rampung akhir 2026 sesuai anggaran.",
+   "Soal sanksi yang dikenakan OJK, BREN hanya menyatakan menghormati kewenangan OJK dan BEI serta akan mengikuti ketentuan yang berlaku, termasuk melakukan evaluasi internal atas kepatuhan, pengawasan, dan tata kelola perusahaan. Jika timbul kewajiban pembayaran, perseroan menyebut akan memenuhinya sesuai kondisi keuangan dan mekanisme yang ditetapkan otoritas. BREN tidak merinci jenis atau nilai sanksi yang dikenakan OJK, dan menyatakan tidak ada informasi material lain yang belum diungkapkan kepada publik selain yang telah disampaikan dalam surat ini."
+  ],
+  "fotoAdegan": "Steam drifting from geothermal power plant cooling towers in forested hills, technicians inspecting pipelines at dawn",
+  "takeaway": "Laporan ini condong netral bagi BREN, sebab isinya adalah pembelaan administratif atas sanksi OJK yang jenis dan nilainya sendiri tidak diungkapkan, sementara data kinerja yang disodorkan justru menunjukkan performa operasional yang solid. Yang tersentuh di sini adalah marjin EBITDA, yaitu porsi pendapatan yang berubah jadi laba sebelum bunga dan pajak, yang naik ke 87,6 persen, laba bersih yang naik 29 persen, serta rasio utang bersih terhadap ekuitas yang membaik ke 1,73 kali, artinya beban utang BREN terhadap modal sendiri makin ringan dan pelaku pasar biasa memakai angka ini untuk menilai seberapa rawan perusahaan jika kondisi memburuk. Yang perlu dipantau berikutnya adalah apakah OJK atau BEI akan mengungkap detail sanksi tersebut, termasuk kemungkinan nilai denda, serta apakah proyek Salak Unit 7 dan Wayang Windu Unit 3 benar rampung sesuai target akhir 2026 seperti dijanjikan perseroan.",
   "sentimen": "netral"
  },
  {

@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wifi-investasi-sukses-bersama-lepas-1-42-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "WIFI: Investasi Sukses Bersama [Lepas] 1,42 Miliar Saham",
+  "deck": "Investasi Sukses Bersama melepas 1,42 miliar saham WIFI senilai sekitar Rp4,06 triliun, hak suaranya turun dari 54,42 persen jadi 27,76 persen dan kehilangan status pengendali.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "kepemilikan saham",
+   "divestasi",
+   "pengendali saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-5566-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-sinergi-graha-kapital-kuasai-26-67-suara",
+  "category": "Aksi Korporasi",
+  "title": "WIFI: [Sinergi Graha Kapital] Kuasai 26,67% Suara",
+  "deck": "PT Sinergi Graha Kapital melaporkan kepemilikan baru 1,42 miliar saham WIFI atau 26,667% hak suara, dibeli senilai sekitar Rp4,06 triliun pada 19 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "kepemilikan saham",
+   "Sinergi Graha Kapital",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-3829-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-resmikan-jv-baterai-goin-bareng-oscarmas-pegang-51",
+  "category": "Aksi Korporasi",
+  "title": "LABA Resmikan JV Baterai [GOIN] Bareng Oscarmas, Pegang 51%",
+  "deck": "Green Power Group (LABA) dan Oscarmas menandatangani akta pendirian PT Gobattery Solusi Indonesia (GOIN), perusahaan patungan penyedia sewa baterai untuk truk listrik, modal dasar Rp10 miliar.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LABA",
+   "Green Power Group",
+   "GOIN",
+   "Oscarmas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f88018f5a8_bd77823d0c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-temuan-bpk-rp8-5-miliar-di-proyek-tol-palembang-betung",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: Temuan BPK Rp8,5 Miliar di Proyek Tol [Palembang-Betung]",
+  "deck": "Waskita Karya menjelaskan ke BEI soal temuan BPK atas proyek Tol Palembang-Betung yang dikerjakan anak usahanya, WST, senilai Rp8,5 miliar, yang sudah dipotong dari tagihan ke Hutama Karya.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "BPK",
+   "Hutama Karya",
+   "Tol Trans Sumatera"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c52f752d09_a72bee01bf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bni-pertahankan-predikat-tertinggi-tata-kelola-2-tahun",
   "category": "Perbankan",
   "title": "BNI [Pertahankan] Predikat Tertinggi Tata Kelola 2 Tahun",
@@ -36,6 +100,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bango-dukung-srasa-perkuat-peluang-ekspor-bumbu-indonesia-di-tei-ke-41",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "admf-bayar-pelunasan-obligasi-sukuk-rp433-96-miliar-9-nov-2026",
+  "category": "Aksi Korporasi",
+  "title": "ADMF Bayar [Pelunasan] Obligasi-Sukuk Rp433,96 Miliar 9 Nov 2026",
+  "deck": "ADMF akan melunasi pokok Sukuk Mudharabah Berkelanjutan V dan Obligasi Berkelanjutan VI seri B senilai total Rp433,96 miliar pada 9 November 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMF",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e8e02e7c5a_efebb5bf0d.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnm-raih-penghargaan-esg-lewat-program-olah-sampah-nasabah",
@@ -455,6 +535,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pssi-alihkan-40-juta-saham-buyback-ke-pt-nusa-damai-rp14-7-m",
+  "category": "Aksi Korporasi",
+  "title": "PSSI [Alihkan] 40 Juta Saham Buyback ke PT Nusa Damai, Rp14,7 M",
+  "deck": "PSSI mengalihkan 40 juta saham hasil buyback ke PT Nusa Damai pada 15 Oktober 2026 seharga Rp368 per saham, meraih dana Rp14,72 miliar tanpa rugi.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "buyback saham",
+   "saham treasuri",
+   "pengalihan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/846b7769a3_fe0e60038f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "laba-jpfa-semester-i-2026-melonjak-97-ke-rp2-68-triliun",
   "category": "Aksi Korporasi",
   "title": "Laba JPFA Semester I/2026 [Melonjak] 97% ke Rp2,68 Triliun",
@@ -583,6 +679,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "untr-rombak-komite-audit-ignasius-jonan-jadi-ketua",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Rombak [Komite Audit], Ignasius Jonan Jadi Ketua",
+  "deck": "United Tractors mengangkat Ignasius Jonan sebagai Ketua Komite Audit dan menambah Budi Frensidy sebagai anggota baru, efektif 15 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "komite audit",
+   "tata kelola korporasi",
+   "Ignasius Jonan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0b0cf5d5c9_88322af3c7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "lpin-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
   "category": "Aksi Korporasi",
   "title": "LPIN Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
@@ -628,6 +740,22 @@ var ARTICLES = [
    "Estika Tata Tiara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-5017-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cnko-rupslb-ketiga-lagi-lagi-gagal-capai-kuorum",
+  "category": "Aksi Korporasi",
+  "title": "CNKO: RUPSLB Ketiga Lagi-Lagi Gagal Capai [Kuorum]",
+  "deck": "RUPSLB ketiga Exploitasi Energi Indonesia (CNKO) untuk mengubah anggaran dasar gagal terlaksana karena kehadiran pemegang saham hanya 46,9 persen, di bawah syarat minimum 48 persen.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CNKO",
+   "RUPSLB",
+   "anggaran dasar",
+   "kuorum pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1446c4a754_22145c504d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -692,6 +820,22 @@ var ARTICLES = [
    "repo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-1221-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bold-lunasi-obligasi-rp503-15-m-dan-kupon-rp9-43-m",
+  "category": "Aksi Korporasi",
+  "title": "BOLD Lunasi [Obligasi] Rp503,15 M dan Kupon Rp9,43 M",
+  "deck": "PT Bukit Makmur Mandiri Utama (BOLD) melunasi pokok dan kupon Obligasi III BUMA Tahun 2025 Seri A senilai total sekitar Rp512,58 miliar pada 19 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "obligasi korporasi",
+   "pelunasan utang",
+   "Bukit Makmur Mandiri Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2504fa7221_0d52eb4137.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -868,6 +1012,22 @@ var ARTICLES = [
    "Bersama Mencapai Puncak"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba8a398427_37aaa57e1d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bren-tanggapi-sanksi-ojk-klaim-keuangan-tetap-kuat",
+  "category": "Aksi Korporasi",
+  "title": "BREN Tanggapi [Sanksi] OJK, Klaim Keuangan Tetap Kuat",
+  "deck": "BREN merespons surat permintaan penjelasan BEI terkait sanksi OJK atas transaksi saham BREN, CUAN, dan DSSA, sembari memaparkan kinerja keuangan dan progres proyek semester pertama 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BREN",
+   "OJK",
+   "Barito Renewables",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb2afa71ba_9d9b08ae76.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6377,166 +6537,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7e31305b7f_912ab42361.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bali-saham-terkonsentrasi-92-6-beredar-bebas-menipis",
-  "category": "Aksi Korporasi",
-  "title": "BALI: Saham Terkonsentrasi 92,6%, Beredar Bebas [Menipis]",
-  "deck": "BEI dan KSEI mencatat 92,60% saham BALI dikuasai segelintir pemegang saham per 1 Oktober 2026, menyusul lonjakan harga saham awal bulan ini.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BALI",
-   "kepemilikan saham",
-   "konsentrasi saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de09c9954b_d04fff6ca0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "film-keluar-dari-status-kepemilikan-saham-terkonsentrasi",
-  "category": "Aksi Korporasi",
-  "title": "FILM Keluar dari Status Kepemilikan Saham [Terkonsentrasi]",
-  "deck": "BEI dan KSEI menyatakan saham PT MD Entertainment Tbk (FILM) tidak lagi berstatus kepemilikan terkonsentrasi tinggi, berdasarkan struktur kepemilikan per 5 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "kepemilikan saham",
-   "BEI",
-   "KSEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c8733793c0_b7eb7ace22.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meja-rilis-koreksi-laporan-realisasi-dana-ipo-capai-rp57-97-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MEJA Rilis [Koreksi] Laporan Realisasi Dana IPO, Capai Rp57,97 Miliar",
-  "deck": "Harta Djaya Karya (MEJA) mengoreksi laporan realisasi dana IPO dan konversi Waran I per 30 Juni 2026 agar sesuai format baru OJK, total dana terpakai Rp57,97 miliar untuk modal kerja.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEJA",
-   "Penawaran Umum",
-   "Realisasi Dana",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e08a71694_3937d2fbfd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xrdn-unit-penyertaan-etf-susut-399-2-juta",
-  "category": "Aksi Korporasi",
-  "title": "XRDN: Unit Penyertaan ETF [Susut] 399,2 Juta",
-  "deck": "Unit penyertaan ETF RDN Kas Bertumbuh turun dari 22,3 miliar menjadi 21,9 miliar unit per 12 Oktober 2026, penyusutan terbesar dalam tiga laporan beruntun.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XRDN",
-   "ETF",
-   "reksa dana",
-   "unit penyertaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8c9b9631cc_b4d3cd701a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xgld-catatkan-tambahan-2-juta-unit-penyertaan-etf-emas",
-  "category": "Aksi Korporasi",
-  "title": "XGLD catatkan [tambahan] 2 juta unit penyertaan ETF emas",
-  "deck": "Unit penyertaan ETF emas syariah XGLD naik dari 82 juta jadi 84 juta unit, pencatatan tambahan efektif 13 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XGLD",
-   "ETF emas",
-   "reksa dana syariah",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d7c7f0f93_7d6b0e4e7f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-mglv-tak-lagi-berstatus-saham-terkonsentrasi-tinggi",
-  "category": "Aksi Korporasi",
-  "title": "BEI: MGLV Tak Lagi Berstatus Saham [Terkonsentrasi] Tinggi",
-  "deck": "BEI dan KSEI menyatakan MGLV tidak lagi berstatus kepemilikan saham terkonsentrasi tinggi, berdasarkan struktur kepemilikan saham per 30 September 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "NexAI Digital Infrastruktur",
-   "kepemilikan saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f13d02776_f8d9d72121.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ship-saham-terkonsentrasi-98-3-di-tangan-segelintir-pemegang",
-  "category": "Aksi Korporasi",
-  "title": "SHIP: Saham Terkonsentrasi 98,3% di Tangan Segelintir [Pemegang]",
-  "deck": "BEI dan KSEI mengumumkan 98,30% saham SHIP per 1 Oktober 2026 dikuasai segelintir pemegang saham, menyisakan sangat sedikit saham yang beredar bebas di pasar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SHIP",
-   "free float",
-   "kepemilikan saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/081892695a_bce1dddaae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "same-bei-catat-94-99-saham-terkonsentrasi-free-float-tipis",
-  "category": "Aksi Korporasi",
-  "title": "SAME: BEI Catat 94,99% Saham Terkonsentrasi, [Free Float] Tipis",
-  "deck": "BEI dan KSEI mengumumkan 94,99 persen saham Sarana Meditama Metropolitan (SAME) dikuasai segelintir pemegang per 1 Oktober 2026, menyisakan sekitar 5 persen saham yang beredar bebas di publik.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAME",
-   "kepemilikan saham",
-   "free float",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a6dd78b624_526c3ee434.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "idx-saham-ades-terkonsentrasi-95-1-di-tangan-sedikit-pemegang",
-  "category": "Aksi Korporasi",
-  "title": "IDX: Saham ADES [Terkonsentrasi] 95,1% di Tangan Sedikit Pemegang",
-  "deck": "BEI dan KSEI mencatat 95,10% saham tanpa warkat ADES per 1 Oktober 2026 dikuasai sejumlah terbatas pemegang saham, menyisakan porsi kecil yang benar-benar beredar bebas di pasar.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADES",
-   "BEI",
-   "Kepemilikan Saham",
-   "Likuiditas Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ce8795384_de451c7b91.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-akselerasi-perampingan-50-anak-usaha",
-  "category": "BUMN",
-  "title": "Telkom Akselerasi [Perampingan] 50 Anak Usaha",
-  "deck": "Telkom mempercepat penataan 50 anak usaha, 24 entitas sudah selesai dan 26 lainnya ditargetkan tuntas tahun ini demi portofolio yang lebih fokus pada bisnis inti.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/telkom-akselerasi-perampingan-50-anak-usaha.jpg",
-  "imageV": "mv5ji9ia",
-  "tags": [
-   "Telkom",
-   "TelkomGroup",
-   "BUMN",
-   "Streamlining"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472616-telkom-akselerasi-program-streamlining-pastikan-portofolio-telkomgroup-fokus-pada-bisnis-inti"
  }
 ];

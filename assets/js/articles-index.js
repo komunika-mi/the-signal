@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "trim-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "TRIM [Lunasi] Obligasi Rp100 Miliar yang Jatuh Tempo",
+  "deck": "Trimegah Sekuritas melunasi pokok Obligasi II Tahap II Seri A senilai Rp100 miliar yang jatuh tempo 18 Oktober 2026 melalui KSEI.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIM",
+   "obligasi",
+   "pelunasan utang",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd48777ed1_f08d7c8995.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bpdp-dorong-umkm-perkebunan-masuk-pasar-digital",
   "category": "UMKM",
   "title": "BPDP Dorong UMKM Perkebunan Masuk Pasar [Digital]",
@@ -6528,22 +6544,6 @@ var ARTICLES = [
    "Two Countries Twin Parks"
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7143/dorong-skema-two-countries-twin-parks-pemerintah-jadikan-kek-kura-kura-bali-hub-riset-ai-dan-semikonduktor",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pemerintah-siapkan-skema-kredit-baru-untuk-petani-dan-perempuan",
-  "category": "UMKM",
-  "title": "Pemerintah Siapkan [Skema] Kredit Baru untuk Petani dan Perempuan",
-  "deck": "Realisasi kredit program pemerintah tembus Rp258,75 triliun hingga akhir September 2026, sementara skema baru disiapkan untuk petani, perumahan, dan perempuan prasejahtera.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/konveksi-penjahit.jpg",
-  "tags": [
-   "KUR",
-   "UMKM",
-   "Kredit Program",
-   "Yogyakarta"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7142/akselerasi-sinergi-perluas-dampak-pemerintah-satukan-langkah-percepat-kredit-program-dari-yogyakarta",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "trim-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "TRIM [Lunasi] Obligasi Rp100 Miliar yang Jatuh Tempo",
+  "deck": "Trimegah Sekuritas melunasi pokok Obligasi II Tahap II Seri A senilai Rp100 miliar yang jatuh tempo 18 Oktober 2026 melalui KSEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T07:14:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd48777ed1_f08d7c8995.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIM",
+  "tags": [
+   "TRIM",
+   "obligasi",
+   "pelunasan utang",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Trimegah Sekuritas Indonesia Tbk (TRIM) telah melunasi pokok Obligasi Berkelanjutan II Tahap II Seri A senilai Rp100 miliar yang jatuh tempo pada 18 Oktober 2026. Pelunasan dilakukan melalui PT Kustodian Sentral Efek Indonesia (KSEI), lembaga yang menyimpan dan mengurus administrasi efek bagi investor di pasar modal Indonesia.",
+   "Obligasi ini diterbitkan pada 8 Oktober 2025 dengan nilai pokok Rp100 miliar dan bunga tetap 6,75 persen per tahun, berjangka waktu 370 hari kalender sejak tanggal emisi. Dalam keterbukaan informasi yang ditandatangani Corporate Secretary Nindya Kumala Dewi, perseroan menyatakan sejak tanggal pelunasan tersebut seluruh kewajiban yang timbul dari penerbitan seri obligasi ini telah berakhir.",
+   "Perseroan menyebut pelunasan ini tidak membawa dampak terhadap kegiatan operasional, aspek hukum, maupun kelangsungan usaha perusahaan. Laporan ini merupakan kelanjutan dari rencana pelunasan yang sebelumnya sudah disiapkan dananya oleh Trimegah menjelang tanggal jatuh tempo."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's Sudirman financial district reflecting morning light, light traffic passing below",
+  "takeaway": "Laporan ini condong positif bagi Trimegah karena perusahaan melunasi kewajibannya tepat pada tanggal jatuh tempo, sesuai rencana yang sudah disiapkan sebelumnya, tanpa gangguan operasional atau hukum. Pos yang tersentuh adalah liabilitas, yakni utang perusahaan yang kini berkurang Rp100 miliar, sekaligus menghapus beban bunga tahunan 6,75 persen yang sebelumnya harus dibayar atas obligasi ini, sehingga arus kas ke depan sedikit lebih ringan. Karena obligasi ini terbit dalam skema berkelanjutan alias diterbitkan bertahap dari satu payung penawaran, yang perlu dipantau adalah jadwal pelunasan tahap lain dalam program Obligasi Berkelanjutan II serta kemungkinan Trimegah menerbitkan utang baru untuk membiayai kegiatan sekuritasnya ke depan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bpdp-dorong-umkm-perkebunan-masuk-pasar-digital",
   "category": "UMKM",
   "title": "BPDP Dorong UMKM Perkebunan Masuk Pasar [Digital]",

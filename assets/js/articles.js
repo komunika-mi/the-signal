@@ -105,7 +105,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang baru di sini bukan aturan baru, melainkan alat ukur: untuk pertama kalinya pemerintah punya data akses keuangan sampai level kabupaten/kota, dan datanya sudah dipakai 341 kabupaten/kota serta masuk rencana pembangunan di 38 provinsi. Pihak yang terdampak adalah pemerintah daerah yang menyusun program dan anggaran, serta warga di daerah yang selama ini kondisinya tidak terlihat karena data yang ada hanya angka rata-rata nasional. Siaran pers ini belum menjelaskan apakah skor IKAD akan dijadikan syarat alokasi anggaran atau insentif bagi daerah tertinggal, atau sekadar alat pemantau tanpa konsekuensi anggaran apa pun. Yang perlu dicermati adalah apakah Survei Nasional Literasi dan Inklusi Keuangan OJK berikutnya menunjukkan kesenjangan antardaerah mulai menyempit, karena itu baru bukti nyata bahwa dashboard ini mengubah arah kebijakan, bukan sekadar menambah data baru.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "bukk-bentuk-3-anak-usaha-baru-di-sektor-energi-terbarukan",
@@ -159,7 +159,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari acara ini adalah angka, bukan aturan baru: aset keuangan syariah Indonesia tercatat Rp3.264 triliun per Juni 2026, tumbuh hampir 10 persen dibanding tahun sebelumnya. Tapi porsi perbankan syariah dibanding seluruh perbankan nasional masih sekitar 7 persen, artinya dari setiap Rp100 dana yang berputar di perbankan nasional baru sekitar Rp7 yang mengalir lewat bank syariah. Angka ini relevan bagi pelaku usaha syariah dan UMKM yang mengandalkan pembiayaan syariah, karena menunjukkan sektor ini masih jauh lebih kecil dibanding perbankan konvensional meski asetnya terus tumbuh. Bank Indonesia menyebut sedang menyiapkan aturan jual-beli kembali surat utang syariah antarbank (disebut repo syariah) dan dana talangan darurat berbasis syariah, tapi belum ada tanggal atau aturan resmi yang diumumkan dalam forum ini, sehingga yang perlu dipantau adalah apakah rencana itu akan dituangkan menjadi ketentuan resmi BI dalam waktu dekat.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "rupslb-abmm-setujui-pengunduran-diri-direktur-haris-mustarto",
@@ -290,7 +290,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang perlu dicermati adalah proyeksi untuk triwulan IV, SBT turun tipis dari 11,46 persen menjadi 10,77 persen. SBT atau Saldo Bersih Tertimbang ini adalah hasil survei Bank Indonesia ke pelaku usaha, angka positif berarti lebih banyak perusahaan melaporkan kegiatan usahanya naik dibanding yang melaporkan turun, dan makin tinggi angkanya makin luas penguatan itu terasa. Sektor yang disebut akan menopang akhir tahun adalah transportasi dan pergudangan, perdagangan besar dan eceran, serta informasi dan komunikasi, yang memang biasa naik saat musim Natal dan libur akhir tahun. Pola ini mengarah ke perlambatan tipis begitu musim belanja usai, bukan pelemahan menyeluruh, dan itu baru bisa dipastikan lewat hasil SKDU triwulan IV yang baru dirilis Bank Indonesia awal tahun depan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "indeks-manufaktur-bi-naik-lagi-di-triwulan-iii-2026",
@@ -317,7 +317,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang perlu dipegang adalah kenaikan PMI-BI dari 51,43 persen ke 52,28 persen pada triwulan III 2026, dan prakiraan Bank Indonesia sendiri yang menaikkannya lagi secara tipis ke 52,37 persen pada triwulan IV. Yang terdampak langsung adalah pelaku usaha di sub sektor dengan indeks tertinggi, yaitu industri barang galian bukan logam, makanan dan minuman, logam dasar, karet dan plastik, serta tekstil dan pakaian jadi, karena merekalah yang menggerakkan rata rata indeks ke atas. Pola kenaikan yang tipis dan bertahap selama dua triwulan berturut turut ini mengarah ke pemulihan industri olahan yang berjalan pelan, bukan lonjakan besar, sehingga belum bisa dibaca sebagai sinyal percepatan tajam. Yang akan memastikan apakah tren ini benar bertahan adalah rilis PMI-BI triwulan IV 2026 yang sesungguhnya, karena angka 52,37 persen yang disebut dalam siaran ini masih berupa prakiraan Bank Indonesia sendiri, bukan hasil realisasi.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "dssa-tanggapi-isu-pelanggaran-saham-klaim-tak-ada-dampak",

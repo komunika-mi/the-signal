@@ -7,10 +7,27 @@
 // arsip sendiri. Yang tidak pernah boleh terjadi: mengubah bunyi klaim setelah
 // dicatat. Klaim dikutip apa adanya dari edisinya, salah ya salah.
 //
+// Entri ber-"isu" datang dari scripts/klaim-arah.mjs: taruhan arah yang
+// dicatat SEBELUM tanggal putusannya, bukan dari edisi harian.
+//
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-17T01:19:34.019+07:00",
+ "diperbarui": "2026-10-19T15:44:51.621+07:00",
  "entri": [
+  {
+   "id": "arah-rebalancing-msci-2026-11-11",
+   "edisi": null,
+   "isu": "rebalancing-msci",
+   "isuNama": "Rebalancing MSCI",
+   "benang": "Apakah Indonesia tetap berstatus emerging market di klasifikasi pasar MSCI?",
+   "cabang": "Bertahan, tapi masuk daftar pantau",
+   "klaim": "Pada peninjauan 11 November 2026, MSCI tetap mempertahankan status Indonesia sebagai pasar berkembang, namun menempatkannya dalam status pengawasan sembari pengelola dana bersiap menghadapi kemungkinan penurunan peringkat.",
+   "penanda": "Untuk memastikan apakah ini tren berkelanjutan atau sekadar penyesuaian satu periode, peninjauan berikutnya pada 11 November 2026 akan jadi penanda paling jelas.",
+   "tenggat": "2026-11-11",
+   "tenggatLabel": "11 November 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-16-3",
    "edisi": "2026-10-16",

@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "akku-gelar-paparan-publik-usai-suspensi-saham-oleh-bei",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Gelar Paparan Publik usai [Suspensi] Saham oleh BEI",
+  "deck": "BEI meminta AKKU menggelar paparan publik insidentil pada 21 Oktober 2026 di Bandung untuk menjelaskan suspensi Cooling Down sahamnya sejak 16 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "BEI",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9323147706_ff446adbdb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bipp-kantongi-restu-rupslb-untuk-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Kantongi Restu RUPSLB untuk [PMTHMETD]",
+  "deck": "Pemegang saham independen BIPP menyetujui rencana penambahan modal tanpa hak memesan efek terlebih dahulu dan perubahan anggaran dasar terkait, dalam RUPSLB 16 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "RUPSLB",
+   "PMTHMETD",
+   "Penambahan Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bed486049d_cbc185e05e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arta-ke-bei-kas-turun-karena-investasi-rp37-m-di-dild",
+  "category": "Aksi Korporasi",
+  "title": "ARTA ke BEI: Kas Turun karena [Investasi] Rp37 M di DILD",
+  "deck": "Menjawab permintaan penjelasan BEI, Arthavest mengungkap kas menyusut akibat investasi Rp37 miliar di saham Intiland Development, sementara arus kas operasi hotelnya masih negatif.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARTA",
+   "Arthavest",
+   "DILD",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eec84fff4a_57657ed5bb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-luncurkan-dashboard-akses-keuangan-daerah",
   "category": "Perbankan",
   "title": "Pemerintah [Luncurkan] Dashboard Akses Keuangan Daerah",
@@ -21,6 +69,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "bukk-bentuk-3-anak-usaha-baru-di-sektor-energi-terbarukan",
+  "category": "Aksi Korporasi",
+  "title": "BUKK Bentuk 3 Anak Usaha Baru di Sektor [Energi Terbarukan]",
+  "deck": "Melalui anak usaha terkendali PT Bukaka Mega Investama, BUKK mendirikan tiga perusahaan baru untuk bisnis pembangkit listrik energi baru terbarukan di Kabupaten Bogor.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUKK",
+   "energi terbarukan",
+   "anak usaha",
+   "ekspansi bisnis"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dbfc766b96_cc731a77f1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bi-gandeng-ifsb-iilm-bahas-ketahanan-keuangan-syariah",
   "category": "Moneter",
   "title": "BI Gandeng IFSB-IILM Bahas [Ketahanan] Keuangan Syariah",
@@ -35,6 +99,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823226.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "rupslb-abmm-setujui-pengunduran-diri-direktur-haris-mustarto",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ABMM Setujui [Pengunduran Diri] Direktur Haris Mustarto",
+  "deck": "RUPSLB ABM Investama pada 15 Oktober 2026 menerima pengunduran diri Direktur Haris Mustarto, menyisakan susunan direksi tiga orang dipimpin Achmad Ananda Djajanegara.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ABMM",
+   "RUPSLB",
+   "direksi",
+   "ABM Investama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ab6f00d056_6a55155209.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beli-klaim-rugi-menyusut-direksi-tahan-revisi-target-2026",
+  "category": "Aksi Korporasi",
+  "title": "BELI Klaim Rugi Menyusut, Direksi Tahan [Revisi] Target 2026",
+  "deck": "Direksi Blibli (BELI) klaim kinerja semester I 2026 lampaui target dan rugi menyusut dua tahun berturut, tapi belum revisi target karena pertimbangan makro.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BELI",
+   "Blibli",
+   "Public Expose",
+   "profitabilitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0f8b6821fb_ed1fab9a03.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "msie-pemegang-saham-permata-health-tambah-saham-jadi-1-77",
+  "category": "Aksi Korporasi",
+  "title": "MSIE: Pemegang Saham Permata Health Tambah Saham jadi [1,77%]",
+  "deck": "Permata Health Nusantara menambah kepemilikan di PT Multisarana Intan Eduka Tbk (MSIE) sebanyak 3,5 juta saham pada 16 Oktober 2026, menaikkan hak suaranya dari 1,53 persen menjadi 1,77 persen.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSIE",
+   "kepemilikan saham",
+   "Permata Health Nusantara",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-1892-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pangan-nusa-expo-catat-potensi-transaksi-rp5-9-triliun",
@@ -274,6 +386,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd48777ed1_f08d7c8995.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "scma-bagi-dividen-interim-rp8-4-saham-total-rp533-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SCMA bagi [dividen] interim Rp8,4/saham, total Rp533,4 miliar",
+  "deck": "Direksi SCMA menetapkan dividen interim Rp8,4 per saham, total Rp533,4 miliar, dengan recording date 29 Oktober dan pembayaran 18 November 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SCMA",
+   "dividen interim",
+   "Surya Citra Media",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a947027224_b8860e2742.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6411,136 +6539,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b137055131_9297c56410.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "epac-panggil-rupslb-bahas-rights-issue-buyback-setop-segmen",
-  "category": "Aksi Korporasi",
-  "title": "EPAC Panggil RUPSLB, Bahas [Rights Issue], Buyback, Setop Segmen",
-  "deck": "RUPSLB EPAC pada 3 November 2026 akan memutuskan rights issue, penghentian segmen kemasan fleksibel konvensional, dan buyback saham.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EPAC",
-   "RUPSLB",
-   "rights issue",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/422363cbdf_b2270754c9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-gelar-rupslb-usai-catat-ekuitas-negatif-rp42-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "INPS Gelar RUPSLB usai Catat [Ekuitas Negatif] Rp42,8 Miliar",
-  "deck": "INPS memanggil RUPSLB 3 November 2026 untuk menyetujui penerbitan hingga 1,25 miliar saham baru senilai Rp125 miliar ke pengendali guna menambal ekuitas negatif Rp42,8 miliar.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "RUPSLB",
-   "private placement",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9d7838fe3b_99384f98f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-resmikan-izin-sumur-rakyat-di-aceh-genjot-mandatori-etanol",
-  "category": "Energi",
-  "title": "ESDM Resmikan Izin Sumur Rakyat di Aceh, Genjot Mandatori [Etanol]",
-  "deck": "Bahlil Lahadalia menandatangani izin baru sumur minyak rakyat di Aceh, sekaligus memaparkan rencana mandatori etanol bertahap hingga E50 untuk menekan impor bensin.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/esdm-resmikan-izin-sumur-rakyat-di-aceh-genjot-mandatori-etanol.jpg",
-  "imageV": "mv4xjddn",
-  "tags": [
-   "ESDM",
-   "Sumur Rakyat",
-   "Etanol",
-   "Bahlil Lahadalia"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-sumur-rakyat-hingga-etanol-bahlil-dorong-rakyat-jadi-pemain-energi",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "inkp-rampungkan-realisasi-dana-obligasi-sukuk-rp4-6-triliun",
-  "category": "Aksi Korporasi",
-  "title": "INKP Rampungkan Realisasi Dana Obligasi-Sukuk [Rp4,6 Triliun]",
-  "deck": "Seluruh dana dari dua instrumen utang INKP, Obligasi Berkelanjutan VI dan Sukuk Mudharabah Berkelanjutan V tahap II 2026, telah terpakai penuh untuk bayar utang bank dan modal kerja.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi",
-   "sukuk",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9bb9af4d14_9b5275e51f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-edwin-soeryadjaya-beli-415-000-saham-tambahan",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Edwin Soeryadjaya Beli [415.000] Saham Tambahan",
-  "deck": "Komisaris SRTG Edwin Soeryadjaya membeli 415.000 saham pada 8-9 Oktober 2026, melanjutkan pembelian serupa yang dilaporkan pekan sebelumnya.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Saratoga Investama Sedaya",
-   "Edwin Soeryadjaya",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-7198-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbkp-tawarkan-obligasi-subordinasi-rp500-miliar-kupon-8-95-9-30",
-  "category": "Aksi Korporasi",
-  "title": "BBKP Tawarkan Obligasi [Subordinasi] Rp500 Miliar, Kupon 8,95-9,30%",
-  "deck": "KB Bank merilis obligasi subordinasi tahap II senilai Rp500 miliar dengan bunga 8,95-9,30 persen, melanjutkan program Rp1 triliun yang dimulai tahun lalu.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBKP",
-   "obligasi subordinasi",
-   "KB Bank",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1cfcca98fc_aa866f07af.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-akuisisi-45-saham-tambang-batu-bara-sba",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Akuisisi 45% Saham Tambang Batu Bara [SBA]",
-  "deck": "Anak usaha BIKE, PT Prambanan Nusantara Energi, mengambil 45% saham PT Sumber Bara Abadi, pemegang izin tambang batu bara 4.909 hektare berkadar cadangan 86 juta metrik ton di Kalimantan Timur.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi",
-   "tambang batu bara",
-   "PNE"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f22c0525d_a02a58cfab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-koreksi-laporan-dana-sukuk-realisasi-capai-100",
-  "category": "Aksi Korporasi",
-  "title": "BWPT Koreksi Laporan Dana Sukuk, Realisasi Capai [100%]",
-  "deck": "Eagle High Plantations mengoreksi laporan realisasi dana sukuk mudharabah Rp121,19 miliar, seluruhnya sudah terpakai untuk beli CPO, FFB, pupuk, dan bahan bakar sejak Maret 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BWPT",
-   "sukuk mudharabah",
-   "CPO",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a12653ffb7_bafd4283b4.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "akku-gelar-paparan-publik-usai-suspensi-saham-oleh-bei",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Gelar Paparan Publik usai [Suspensi] Saham oleh BEI",
+  "deck": "BEI meminta AKKU menggelar paparan publik insidentil pada 21 Oktober 2026 di Bandung untuk menjelaskan suspensi Cooling Down sahamnya sejak 16 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T14:56:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9323147706_ff446adbdb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKKU",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "BEI",
+   "public expose"
+  ],
+  "body": [
+   "PT Anugerah Kagum Karya Utama Tbk (AKKU) mengumumkan rencana penyelenggaraan Public Expose Insidentil, menyusul suspensi Cooling Down terhadap sahamnya di Pasar Reguler dan Pasar Tunai yang berlaku sejak 16 Oktober 2026. Perseroan menegaskan bahwa paparan publik ini digelar atas permintaan Bursa Efek Indonesia, bukan atas inisiatif sukarela, sesuai referensi surat elektronik tertanggal 16 Oktober 2026.",
+   "Acara akan berlangsung Rabu, 21 Oktober 2026, pukul 10.30 WIB sampai selesai, di Apartemen Grand Asia Afrika, Commercial Area A-10, Jalan Karapitan No. 1, Paledang, Kecamatan Lengkong, Kota Bandung, Jawa Barat 40261. Agenda tunggal pertemuan ini adalah keterbukaan informasi atas suspensi saham perseroan, sehingga manajemen akan menjelaskan langsung duduk perkara penghentian sementara perdagangan saham AKKU kepada pemegang saham dan publik.",
+   "Pengumuman ini ditandatangani oleh Irwan Suryadi, yang pada surat pelaporan elektronik tercatat sebagai Corporate Secretary dan pada lampiran pengumuman resmi tercatat sebagai Direktur Utama AKKU. Hingga dokumen ini terbit, perseroan belum merinci penyebab lonjakan atau pergerakan harga yang memicu suspensi tersebut."
+  ],
+  "fotoAdegan": "Exterior of a modern mixed-use apartment and commercial complex in Bandung on a sunny day, pedestrians walking along the sidewalk",
+  "takeaway": "Laporan ini condong negatif bagi AKKU, sebab sahamnya dihentikan sementara dari perdagangan dan paparan publik ini wajib digelar atas permintaan BEI, bukan atas kemauan perseroan sendiri, yang menandakan ada perhatian khusus bursa terhadap pergerakan harga sahamnya. Suspensi Cooling Down biasanya dijatuhkan bursa ketika harga saham melonjak sangat cepat dalam waktu singkat, untuk meredam potensi spekulasi sebelum investor baru ikut membeli di harga yang sudah tinggi, dan akibatnya pemegang saham untuk sementara tidak bisa menjual atau membeli saham AKKU sampai suspensi dicabut. Dokumen ini tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba perseroan, karena yang terdampak murni akses jual beli sahamnya di pasar, bukan kondisi usahanya. Yang perlu dipantau adalah paparan publik pada Rabu, 21 Oktober 2026 pukul 10.30 WIB di Bandung, karena di sanalah manajemen AKKU akan menjelaskan alasan suspensi dan kemungkinan kapan perdagangan sahamnya kembali normal.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bipp-kantongi-restu-rupslb-untuk-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Kantongi Restu RUPSLB untuk [PMTHMETD]",
+  "deck": "Pemegang saham independen BIPP menyetujui rencana penambahan modal tanpa hak memesan efek terlebih dahulu dan perubahan anggaran dasar terkait, dalam RUPSLB 16 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T14:51:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bed486049d_cbc185e05e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "RUPSLB",
+   "PMTHMETD",
+   "Penambahan Modal"
+  ],
+  "body": [
+   "Bhuwanatala Indah Permai Tbk (BIPP) menggelar Rapat Umum Pemegang Saham Luar Biasa Independen pada Jumat, 16 Oktober 2026, pukul 15.23 hingga 15.54 WIB di Graha BIP Lantai 11, Jakarta Selatan. Rapat ini khusus melibatkan pemegang saham independen, yakni pemegang saham yang tidak berafiliasi dengan direksi, komisaris, pemegang saham utama, atau pihak pengendali perusahaan. Dari total 1.132.247.151 saham independen yang beredar, sebanyak 600.284.702 saham atau 53,02% hadir dalam rapat, sehingga kuorum terpenuhi.",
+   "Agenda pertama, yaitu persetujuan rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), disetujui dengan 596.384.402 suara setuju (99,35%) berbanding 3.900.300 suara tidak setuju (0,65%), tanpa ada suara abstain. PMTHMETD berarti perusahaan akan menerbitkan saham baru tanpa menawarkannya lebih dulu kepada pemegang saham lama secara proporsional, berbeda dengan skema rights issue biasa. Dokumen ini belum menyebutkan jumlah saham baru, harga pelaksanaan, maupun pihak yang akan menyerap saham tersebut.",
+   "Agenda kedua, yaitu persetujuan perubahan Anggaran Dasar Perseroan sehubungan dengan peningkatan modal ditempatkan dan disetor melalui PMTHMETD, disetujui dengan hasil pemungutan suara yang sama persis dengan agenda pertama. Rapat juga mencatat susunan direksi dan dewan komisaris yang menjabat hingga 26 Juni 2027, dengan Arianto Sjarief sebagai Presiden Direktur dan Piter Korompis sebagai Presiden Komisaris Independen, tanpa ada perubahan susunan pengurus yang diumumkan dalam rapat ini."
+  ],
+  "fotoAdegan": "Exterior of modern glass office towers along a busy South Jakarta business district avenue, late afternoon light, no visible signage",
+  "takeaway": "Saya menilai persetujuan ini netral namun perlu diawasi, sebab RUPSLB baru mengesahkan rencana dan payung hukum PMTHMETD, bukan rinciannya, sehingga besarnya dampak ke pemegang saham lama belum bisa dihitung. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, karena PMTHMETD menambah saham baru tanpa memberi kesempatan pemegang saham lama membeli lebih dulu, sehingga persentase kepemilikan dan hak suara mereka berpotensi mengecil begitu saham baru diterbitkan, sementara laba perusahaan yang sama harus dibagi ke jumlah saham yang lebih banyak. Perlunya persetujuan khusus dari pemegang saham independen juga biasanya menandakan transaksi ini berpotensi melibatkan pihak terafiliasi, sehingga layak dicermati lebih lanjut. Yang perlu dipantau berikutnya adalah pengumuman resmi BIPP soal jumlah saham baru, harga pelaksanaan, dan pihak penerima saham dalam PMTHMETD ini, serta proses pengesahan perubahan Anggaran Dasar ke Kementerian Hukum dan HAM yang menjadi syarat efektifnya penambahan modal tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arta-ke-bei-kas-turun-karena-investasi-rp37-m-di-dild",
+  "category": "Aksi Korporasi",
+  "title": "ARTA ke BEI: Kas Turun karena [Investasi] Rp37 M di DILD",
+  "deck": "Menjawab permintaan penjelasan BEI, Arthavest mengungkap kas menyusut akibat investasi Rp37 miliar di saham Intiland Development, sementara arus kas operasi hotelnya masih negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T14:44:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eec84fff4a_57657ed5bb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARTA",
+  "tags": [
+   "ARTA",
+   "Arthavest",
+   "DILD",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Arthavest Tbk (ARTA) menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-13178/BEI.PP3/10-2026 tanggal 16 Oktober 2026 terkait laporan keuangan per 30 Juni 2026. Dalam surat balasan yang ditandatangani Direktur Utama Dahnu Teguh Adrianto dan Direktur Tsun Tien Wen Lie, perseroan menjelaskan bahwa penurunan signifikan kas dan setara kas terutama disebabkan oleh investasi senilai Rp37 miliar pada saham PT Intiland Development Tbk (DILD), setara 3,194 persen kepemilikan. Alasan investasi itu, menurut ARTA, adalah fundamental DILD yang dinilai baik dengan rasio harga wajar terhadap nilai buku yang sangat rendah. Perseroan menegaskan tidak ada hubungan afiliasi dengan DILD maupun dengan PT Asuransi Dayin Mitra Tbk, dan akan mengawasi pergerakan harga saham DILD secara berkala untuk mencegah kerugian pada investasi ini. Arus kas dari kegiatan usaha inti perseroan disebut masih negatif, namun ARTA mengklaim tetap menjaga saldo kas untuk kebutuhan operasional minimal satu tahun ke depan.",
+   "Soal piutang usaha yang naik signifikan, ARTA menyebut penyebabnya adalah tagihan dari sejumlah acara yang diselenggarakan lembaga kementerian, Pemprov DKI Jakarta, dan DPRD di entitas anaknya, yang baru dibayar lunas pada kuartal III 2026. Tiga pihak dengan piutang terbesar adalah Komisi Pemilihan Umum sebesar Rp568.344.740, LP3KP Rp181.359.303, dan HotelBeds Rp197.201.969. Perseroan menyebut tidak membentuk cadangan kerugian piutang karena yakin seluruh piutang tertagih, dengan target rata-rata periode kredit di bawah 30 hari. Di sisi pendapatan, penurunan pada segmen kamar serta makanan dan minuman dikaitkan dengan persaingan usaha dari hotel bintang empat lain di sekitar lokasi. Sebagai respons, entitas anak ARTA menjual lewat media sosial, menawarkan paket bundling, dan promosi makan sepuasnya (all you can eat).",
+   "Utang usaha perseroan tercatat turun tajam dari Rp1,85 miliar pada akhir 2025 menjadi Rp430,13 juta per 30 Juni 2026, yang menurut ARTA terutama karena beban acara akhir tahun (year end party) di Hotel Redtop baru akan dibayarkan pada awal tahun berikutnya. Pemasok dengan saldo utang terbesar antara lain UD Agil Jaya, UD Sumber Barokah, dan PT Laut Biru, yang masing-masing nilainya menyusut dibanding akhir 2025. Perseroan juga menambah aset tetap sebesar Rp1,8 miliar untuk renovasi bangunan serta penggantian mesin dan perabotan hotel, dengan target proyek aset dalam konstruksi selesai sebelum akhir tahun 2026. Sementara itu, peningkatan persediaan dikaitkan dengan pembelian solar untuk genset sebagai antisipasi pemadaman listrik di entitas anak."
+  ],
+  "fotoAdegan": "Housekeeping staff pushing a linen cart down a quiet corridor in a mid-range hotel, soft morning light through windows",
+  "takeaway": "Laporan ini condong negatif karena memperlihatkan bahwa kas Arthavest menyusut signifikan untuk dibelikan saham Intiland Development senilai Rp37 miliar, padahal arus kas dari kegiatan usaha inti perseroan, yaitu bisnis hotel, masih negatif alias belum menghasilkan kas sendiri dari operasionalnya. Yang tersentuh di sini adalah pos arus kas operasi dan aset keuangan FVOCI, yaitu aset yang nilainya dicatat mengikuti harga pasar saat ini, sehingga nilainya ikut naik turun bersama harga saham DILD dan membuat kas cadangan perseroan makin bergantung pada pergerakan pasar modal ketimbang pendapatan hotel sendiri. Pendapatan kamar serta makanan dan minuman pun turun karena kalah bersaing dengan hotel bintang empat lain di sekitarnya, menambah tekanan pada kas internal perseroan. Yang perlu dipantau selanjutnya adalah apakah arus kas operasi membalik positif pada laporan kuartal berikutnya, serta penyelesaian proyek renovasi aset tetap yang ditargetkan rampung sebelum akhir 2026.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pemerintah-luncurkan-dashboard-akses-keuangan-daerah",
   "category": "Perbankan",
   "title": "Pemerintah [Luncurkan] Dashboard Akses Keuangan Daerah",
@@ -28,6 +106,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang baru di sini bukan aturan baru, melainkan alat ukur: untuk pertama kalinya pemerintah punya data akses keuangan sampai level kabupaten/kota, dan datanya sudah dipakai 341 kabupaten/kota serta masuk rencana pembangunan di 38 provinsi. Pihak yang terdampak adalah pemerintah daerah yang menyusun program dan anggaran, serta warga di daerah yang selama ini kondisinya tidak terlihat karena data yang ada hanya angka rata-rata nasional. Siaran pers ini belum menjelaskan apakah skor IKAD akan dijadikan syarat alokasi anggaran atau insentif bagi daerah tertinggal, atau sekadar alat pemantau tanpa konsekuensi anggaran apa pun. Yang perlu dicermati adalah apakah Survei Nasional Literasi dan Inklusi Keuangan OJK berikutnya menunjukkan kesenjangan antardaerah mulai menyempit, karena itu baru bukti nyata bahwa dashboard ini mengubah arah kebijakan, bukan sekadar menambah data baru.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "bukk-bentuk-3-anak-usaha-baru-di-sektor-energi-terbarukan",
+  "category": "Aksi Korporasi",
+  "title": "BUKK Bentuk 3 Anak Usaha Baru di Sektor [Energi Terbarukan]",
+  "deck": "Melalui anak usaha terkendali PT Bukaka Mega Investama, BUKK mendirikan tiga perusahaan baru untuk bisnis pembangkit listrik energi baru terbarukan di Kabupaten Bogor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T14:36:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dbfc766b96_cc731a77f1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUKK",
+  "tags": [
+   "BUKK",
+   "energi terbarukan",
+   "anak usaha",
+   "ekspansi bisnis"
+  ],
+  "body": [
+   "Bukaka Teknik Utama Tbk (BUKK) melaporkan bahwa anak usaha terkendalinya, PT Bukaka Mega Investama (BMI), yang sahamnya 99 persen dimiliki BUKK, bersama PT Barkah Raya Utama (BRU) dan PT Dua Putra Barkah Nusantara (DPBN) mendirikan tiga perseroan terbatas baru pada 15 Oktober 2026, yaitu PT Solverra Energi Nusantara (SEN), PT Nusantara Solar Power (NSP), dan PT Surya Daya Nusantara (SDN). Ketiga perusahaan ini berkedudukan di Kabupaten Bogor dan didirikan untuk berusaha di bidang pembangkitan tenaga listrik energi baru terbarukan.",
+   "Struktur permodalan ketiga perusahaan itu sama persis. Modal dasar masing-masing Rp40 miliar yang terbagi atas 40.000 lembar saham senilai Rp1 juta per lembar, dengan modal ditempatkan dan disetor sebesar Rp10 miliar atau 10.000 lembar saham. Dari jumlah itu, BMI memegang 90 persen atau 9.000 lembar saham senilai Rp9 miliar di setiap perusahaan, sementara BRU dan DPBN masing-masing memegang 5 persen atau 500 lembar saham senilai Rp500 juta di setiap perusahaan. Dengan pola kepemilikan yang sama di tiga entitas, total setoran modal BMI ke SEN, NSP, dan SDN mencapai sekitar Rp27 miliar.",
+   "Dalam keterbukaan ini, BUKK menyebut pendirian ketiga perusahaan tersebut sebagai bagian dari pengembangan bisnis ke bidang pembangkit listrik energi terbarukan, dan menyatakan ketiganya diharapkan memberi dampak positif berupa potensi tambahan pendapatan dan laba bagi anak usaha terkendali Perseroan. Dokumen tidak menyebut nilai proyek, kapasitas pembangkit yang direncanakan, atau kontrak kerja sama dengan pihak lain."
+  ],
+  "fotoAdegan": "Workers installing solar panel arrays on an open rural field under bright daylight, assembling metal mounting frames",
+  "takeaway": "Laporan ini netral bagi kinerja BUKK karena isinya masih sebatas pendirian badan hukum baru, belum ada kontrak proyek atau pendapatan yang terealisasi dari ketiga perusahaan ini. Dampaknya ada di pos investasi dan potensi pendapatan masa depan, karena anak usaha terkendali BUKK, PT Bukaka Mega Investama, menyetor modal sekitar Rp9 miliar ke masing-masing dari tiga perusahaan baru itu atau total sekitar Rp27 miliar, dana yang untuk sementara mengendap sebagai investasi sebelum menghasilkan pendapatan. Pelaku pasar memperhatikan pos semacam ini karena menunjukkan ke mana kas perusahaan dialokasikan dan seberapa besar risiko modal yang ditanggung sebelum ada kepastian hasil usaha. Yang perlu dipantau berikutnya adalah apakah SEN, NSP, dan SDN berhasil mengurus izin usaha pembangkit listrik serta kontrak jual beli tenaga listrik, karena tanpa itu ketiga perusahaan ini akan tetap sebatas badan hukum tanpa pendapatan.",
+  "sentimen": "netral"
  },
  {
   "slug": "bi-gandeng-ifsb-iilm-bahas-ketahanan-keuangan-syariah",
@@ -56,6 +160,83 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang konkret dari acara ini adalah angka, bukan aturan baru: aset keuangan syariah Indonesia tercatat Rp3.264 triliun per Juni 2026, tumbuh hampir 10 persen dibanding tahun sebelumnya. Tapi porsi perbankan syariah dibanding seluruh perbankan nasional masih sekitar 7 persen, artinya dari setiap Rp100 dana yang berputar di perbankan nasional baru sekitar Rp7 yang mengalir lewat bank syariah. Angka ini relevan bagi pelaku usaha syariah dan UMKM yang mengandalkan pembiayaan syariah, karena menunjukkan sektor ini masih jauh lebih kecil dibanding perbankan konvensional meski asetnya terus tumbuh. Bank Indonesia menyebut sedang menyiapkan aturan jual-beli kembali surat utang syariah antarbank (disebut repo syariah) dan dana talangan darurat berbasis syariah, tapi belum ada tanggal atau aturan resmi yang diumumkan dalam forum ini, sehingga yang perlu dipantau adalah apakah rencana itu akan dituangkan menjadi ketentuan resmi BI dalam waktu dekat.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "rupslb-abmm-setujui-pengunduran-diri-direktur-haris-mustarto",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ABMM Setujui [Pengunduran Diri] Direktur Haris Mustarto",
+  "deck": "RUPSLB ABM Investama pada 15 Oktober 2026 menerima pengunduran diri Direktur Haris Mustarto, menyisakan susunan direksi tiga orang dipimpin Achmad Ananda Djajanegara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T14:28:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ab6f00d056_6a55155209.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ABMM",
+  "tags": [
+   "ABMM",
+   "RUPSLB",
+   "direksi",
+   "ABM Investama"
+  ],
+  "body": [
+   "ABM Investama Tbk (ABMM) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Kamis, 15 Oktober 2026, pukul 14.16 sampai 14.20 WIB di Synergy Meeting Room, kantor perseroan di Jalan Cilandak KKO No. 1, Jakarta Selatan. Rapat dihadiri pemegang saham yang mewakili 2.200.064.804 saham atau 79,9104 persen dari seluruh saham dengan hak suara sah, sehingga kuorum terpenuhi. Satu-satunya agenda, perubahan susunan direksi, diputuskan lewat pemungutan suara dengan hasil 2.200.062.804 suara atau 99,9999 persen setuju, 2.000 suara atau 0,0000909 persen abstain, dan tidak ada suara menolak.",
+   "Keputusan utamanya adalah menerima pengunduran diri Haris Mustarto dari jabatan Direktur. Dengan begitu, susunan Direksi ABMM kini hanya tiga orang: Achmad Ananda Djajanegara sebagai Direktur Utama, Feriwan Sinatra dan Hans Christian Manoe sebagai Direktur. Susunan Dewan Komisaris tidak berubah, yaitu Rachmat Mulyana Hamami sebagai Komisaris Utama, Mivida Hamami sebagai Komisaris, serta Arief Tarunakarya Surowidjojo dan Manggi Taruna Habir sebagai Komisaris Independen. Rapat juga menyetujui pemberian kuasa kepada Direksi untuk menuangkan keputusan ini ke dalam akta notaris dan menyampaikan pemberitahuan perubahan pengurus kepada Kementerian Hukum Republik Indonesia.",
+   "Keterangan notaris Jose Dima Satria mencatat keputusan rapat tersebut dalam akta Nomor 119 tertanggal 15 Oktober 2026, dan menyebutkan bahwa salinan akta berita acara rapat masih dalam proses penyelesaian di kantor notaris saat surat keterangan ini diterbitkan."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with a long polished table and leather chairs, soft morning light through large windows, city skyline blurred outside",
+  "takeaway": "Perubahan ini bersifat netral bagi ABMM karena dokumen tidak menyebut alasan pengunduran diri maupun indikasi masalah, dan proses persetujuannya berjalan mulus dengan dukungan hampir seluruh pemegang saham yang hadir. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan struktur pengambilan keputusan perusahaan, karena direksi yang menyusut dari empat jadi tiga orang berarti beban kerja manajemen terbagi ke lebih sedikit tangan, hal yang biasa diperhatikan investor sebagai indikator kesinambungan kepengurusan. Yang perlu dipantau selanjutnya adalah penyelesaian akta notaris yang pada saat surat keterangan ini dibuat masih diproses, serta penyampaian pemberitahuan resmi susunan direksi baru ke Kementerian Hukum, karena perubahan direksi baru berlaku penuh secara administratif setelah dua tahap itu selesai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beli-klaim-rugi-menyusut-direksi-tahan-revisi-target-2026",
+  "category": "Aksi Korporasi",
+  "title": "BELI Klaim Rugi Menyusut, Direksi Tahan [Revisi] Target 2026",
+  "deck": "Direksi Blibli (BELI) klaim kinerja semester I 2026 lampaui target dan rugi menyusut dua tahun berturut, tapi belum revisi target karena pertimbangan makro.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T14:22:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0f8b6821fb_ed1fab9a03.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BELI",
+  "tags": [
+   "BELI",
+   "Blibli",
+   "Public Expose",
+   "profitabilitas"
+  ],
+  "body": [
+   "PT Global Digital Niaga Tbk (BELI), pemilik Blibli, menggelar public expose tahunan secara virtual pada Rabu, 14 Oktober 2026 pukul 14.00-15.00 WIB. Acara ini dihadiri 213 peserta eksternal di luar manajemen dan karyawan perusahaan, terdiri dari 19 wartawan media ekonomi, 8 perwakilan institusi atau sekuritas, dan 186 investor ritel. Laporan hasilnya baru disampaikan ke Bursa Efek Indonesia pada 19 Oktober 2026 oleh Chief Corporate Secretary dan Investor Relations, Eric Alamsjah Winarta.",
+   "Direktur Utama Kusumo Martanto menyatakan kinerja semester pertama 2026 melampaui target yang ditetapkan di awal tahun, namun manajemen belum berencana merevisi target karena masih mempertimbangkan kondisi makro dan dinamika pasar. Ia menyebut sejumlah pendorong untuk semester kedua, yaitu momen pre-order iPhone 18, Harbolnas, dan libur akhir tahun, ditambah ramp-up jaringan toko fisik yang disebut mulai meningkatkan produktivitas dan same store sales growth. Disiplin biaya di semester kedua diklaim dijaga setara semester pertama dan tahun lalu. Direktur Ronald Winardi menambahkan bahwa penurunan rugi konsolidasi dalam dua tahun terakhir didorong oleh rasionalisasi kategori bisnis, pertumbuhan pendapatan bersih yang dibarengi perbaikan marjin dan laba kotor, serta skala usaha dan operating leverage yang menaikkan laba operasi dan EBITDA. Perusahaan menyasar perbaikan ini berlanjut dalam rencana jangka menengah tiga sampai lima tahun ke depan, dengan alokasi sumber daya ke kategori yang memberi imbal hasil lebih baik.",
+   "Soal segmen bisnis, Direktur Eric Winarta menyebut segmen institusi mencatat pertumbuhan tertinggi pada semester pertama, dengan fokus bukan hanya pada volume tapi juga kualitas, yakni menjaga marjin, efisiensi operasional, dan modal kerja. Direktur Hendry menegaskan strategi omnichannel tetap menyeimbangkan bisnis online dan ekspansi toko fisik di kategori smartphone, elektronik konsumen, groceries, dan home & living, bukan memindahkan fokus dari satu kanal ke kanal lain. Direktur Lisa Widodo memaparkan tujuh pilar bisnis Fulfillment at Speed (FAS): fulfillment dan logistik, layanan pelanggan, distribusi online lintas platform, distribusi offline, solusi untuk brand dan mitra termasuk IoT dan AI, studio, serta afiliasi konten, yang diharapkan jadi sumber pendapatan tambahan sekaligus meningkatkan utilisasi infrastruktur yang sudah dibangun. Perusahaan juga menyatukan program loyalitas lewat Blibli Tiket Rewards yang kini berlaku lintas Blibli online dan offline, tiket.com, Ranch Market, dan Dekoruma."
+  ],
+  "fotoAdegan": "Warehouse staff sorting parcels along a conveyor belt inside a bright e-commerce fulfillment center, forklifts moving boxes nearby",
+  "takeaway": "Paparan ini condong positif bagi persepsi performa Blibli karena manajemen mengklaim kinerja semester I melampaui target dan rugi konsolidasi menyusut dua tahun berturut-turut, meski seluruh klaim ini bersifat kualitatif tanpa angka rupiah yang bisa diverifikasi independen dalam dokumen ini. Pos kinerja yang tersentuh adalah laba operasi dan EBITDA, yaitu ukuran laba sebelum dipotong bunga, pajak, dan penyusutan yang biasa dipakai untuk melihat apakah bisnis inti sudah sehat meski laba bersihnya masih minus, serta marjin kotor dan modal kerja yang disebut dijaga disiplin terutama di segmen institusi. Pelaku pasar memperhatikan pos-pos ini karena arah pergerakannya menentukan seberapa dekat BELI dari titik impas. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III dan kuartal IV 2026, sebab manajemen sendiri menyatakan belum mau merevisi target tahunan sampai melihat dampak musim belanja Harbolnas, pre-order iPhone 18, dan libur akhir tahun terhadap kinerja semester kedua.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "msie-pemegang-saham-permata-health-tambah-saham-jadi-1-77",
+  "category": "Aksi Korporasi",
+  "title": "MSIE: Pemegang Saham Permata Health Tambah Saham jadi [1,77%]",
+  "deck": "Permata Health Nusantara menambah kepemilikan di PT Multisarana Intan Eduka Tbk (MSIE) sebanyak 3,5 juta saham pada 16 Oktober 2026, menaikkan hak suaranya dari 1,53 persen menjadi 1,77 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T12:45:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-1892-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSIE",
+  "tags": [
+   "MSIE",
+   "kepemilikan saham",
+   "Permata Health Nusantara",
+   "pasar modal"
+  ],
+  "body": [
+   "PERMATA HEALTH NUSANTARA, pemegang saham PT Multisarana Intan Eduka Tbk (MSIE) yang bukan merupakan anggota direksi maupun dewan komisaris perusahaan, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di MSIE bertambah dari 22.370.300 lembar menjadi 25.870.300 lembar, atau naik 3.500.000 lembar. Hak suaranya di perusahaan pun naik dari 1,53 persen menjadi 1,77 persen.",
+   "Penambahan ini berasal dari dua transaksi pembelian tidak langsung yang sama-sama terjadi pada 16 Oktober 2026. Transaksi pertama sebanyak 500.000 lembar saham biasa dibeli pada harga Rp86 per saham, sedangkan transaksi kedua sebanyak 3.000.000 lembar saham biasa dibeli pada harga Rp85 per saham. Kedua transaksi tercatat dengan tujuan investasi, dengan total nilai pembelian sekitar Rp298 juta."
+  ],
+  "fotoAdegan": "Jakarta stock exchange trading floor with professionals walking past blurred screens in the background, daytime light",
+  "takeaway": "Laporan ini netral bagi fundamental MSIE, karena nilai pembelian hanya sekitar Rp298 juta dan hak suara pelapor pun masih di bawah dua persen setelah transaksi, jauh dari ukuran yang bisa mengubah peta kendali perusahaan. Yang tersentuh di sini cuma komposisi pemegang saham, bukan laporan keuangan MSIE sendiri, sebab uang dari pembelian ini mengalir ke penjual saham di pasar sekunder, bukan masuk sebagai modal baru ke kas perusahaan, sehingga ekuitas dan kas MSIE tidak berubah. Kenaikan 15,6 persen dari kepemilikan sebelumnya memang menunjukkan Permata Health Nusantara terus menambah posisi, tapi porsinya terhadap total saham MSIE masih kecil sehingga belum bisa dibaca sebagai sinyal arah tertentu. Yang perlu dipantau adalah apakah pembelian bertahap ini berlanjut di laporan-laporan berikutnya, serta RUPSLB MSIE pada 20 November 2026 yang akan membahas penyesuaian kode klasifikasi usaha perusahaan.",
+  "sentimen": "netral"
  },
  {
   "slug": "pangan-nusa-expo-catat-potensi-transaksi-rp5-9-triliun",
@@ -447,6 +628,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Glass office towers in Jakarta's Sudirman financial district reflecting morning light, light traffic passing below",
   "takeaway": "Laporan ini condong positif bagi Trimegah karena perusahaan melunasi kewajibannya tepat pada tanggal jatuh tempo, sesuai rencana yang sudah disiapkan sebelumnya, tanpa gangguan operasional atau hukum. Pos yang tersentuh adalah liabilitas, yakni utang perusahaan yang kini berkurang Rp100 miliar, sekaligus menghapus beban bunga tahunan 6,75 persen yang sebelumnya harus dibayar atas obligasi ini, sehingga arus kas ke depan sedikit lebih ringan. Karena obligasi ini terbit dalam skema berkelanjutan alias diterbitkan bertahap dari satu payung penawaran, yang perlu dipantau adalah jadwal pelunasan tahap lain dalam program Obligasi Berkelanjutan II serta kemungkinan Trimegah menerbitkan utang baru untuk membiayai kegiatan sekuritasnya ke depan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "scma-bagi-dividen-interim-rp8-4-saham-total-rp533-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SCMA bagi [dividen] interim Rp8,4/saham, total Rp533,4 miliar",
+  "deck": "Direksi SCMA menetapkan dividen interim Rp8,4 per saham, total Rp533,4 miliar, dengan recording date 29 Oktober dan pembayaran 18 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T06:26:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a947027224_b8860e2742.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SCMA",
+  "tags": [
+   "SCMA",
+   "dividen interim",
+   "Surya Citra Media",
+   "pasar modal"
+  ],
+  "body": [
+   "Direksi Surya Citra Media Tbk (SCMA), dengan persetujuan Dewan Komisaris pada 19 Oktober 2026, memutuskan membagikan dividen interim tahun buku 2026 sebesar Rp8,4 per saham. Total dividen yang dibagikan mencapai Rp533.439.507.552, baik sebagai nilai minimum maupun maksimum karena jumlah per saham sudah ditetapkan pasti. Pembagian ini merujuk pada Pasal 72 UU No. 40/2007 tentang Perseroan Terbatas, Surat Keputusan Direksi BEI No. Kep-00077/BEI/09-2021 soal dividen interim, dan Pasal 21 ayat 5 Anggaran Dasar Perseroan.",
+   "Jadwal pembagian sudah ditetapkan: cum dividen di pasar reguler dan negosiasi pada 27 Oktober 2026, lalu ex dividen sehari setelahnya pada 28 Oktober 2026. Daftar pemegang saham yang berhak menerima dividen (recording date) ditetapkan pada 29 Oktober 2026 pukul 16:00 WIB, bersamaan dengan cum dividen di pasar tunai, sementara ex dividen di pasar tunai berlaku 30 Oktober 2026. Dividen akan dibayarkan paling lambat pada 18 November 2026. Pemegang saham yang sahamnya masih berupa warkat fisik wajib mendaftarkan nomor rekening banknya ke biro administrasi efek PT Raya Saham Registra paling lambat 29 Oktober 2026 pukul 16:00 WIB disertai fotokopi KTP atau paspor, sementara pemegang saham yang sahamnya tercatat di KSEI akan menerima pembayaran lewat perusahaan efek atau bank kustodian masing-masing. Pemegang saham dalam negeri juga diminta menyerahkan NPWP ke KSEI atau Registra pada tenggat yang sama agar tidak dikenakan tarif pajak dividen yang lebih tinggi untuk wajib pajak tanpa NPWP.",
+   "Dasar pembagian dividen ini adalah data keuangan Perseroan per 30 Juni 2026, dengan laba bersih yang diatribusikan ke entitas induk sebesar Rp536.444.781.557, saldo laba ditahan yang tidak dibatasi penggunaannya Rp5.678.701.683.427, dan total ekuitas Rp7.396.923.043.481. Corporate secretary SCMA, Gilang Iskandar, menandatangani pengumuman ini mewakili Direksi Perseroan."
+  ],
+  "fotoAdegan": "Camera crew filming inside a television broadcast studio with overhead lighting rigs, Jakarta production facility, wide angle",
+  "takeaway": "Dividen interim ini bernada positif karena Perseroan mengembalikan hampir seluruh laba bersih semester satu kepada pemegang saham, bukan sekadar sisa keuntungan kecil. Dana Rp533,4 miliar yang dibagikan diambil dari pos laba ditahan yang masih tersisa Rp5,68 triliun, sehingga arus kas keluar untuk pembayaran ini tidak sampai mengganggu ekuitas Perseroan yang tercatat Rp7,4 triliun per akhir Juni 2026, meski pelaku pasar biasa mencermati rasio pembagian laba yang mendekati 100 persen karena berarti sedikit laba yang ditanam kembali untuk membesarkan bisnis ke depan. Yang perlu dipantau selanjutnya adalah recording date pada 29 Oktober 2026 pukul 16:00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran pada 18 November 2026 sebagai bukti realisasi komitmen ini.",
   "sentimen": "positif"
  },
  {

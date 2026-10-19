@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "rTDHttd2_7Q",
+  "title": "Bandara Batam Buka Rute Penerbangan ke Malaysia",
+  "category": "Industri",
+  "program": "OneNews Update",
+  "summary": "PT Bandara Internasional Batam resmi membuka rute penerbangan perdana Batam-Penang bersama Batik Air Malaysia, yang akan beroperasi tiga kali dalam sepekan.",
+  "takeaway": "Pembukaan rute baru ini relevan sebagai indikator ekspansi bisnis penerbangan dan konektivitas perdagangan di kawasan Batam."
+ },
+ {
+  "id": "XWmePnqTUNg",
+  "title": "BEI dan OJK Temui MSCI, Ungkap Dua Inisiatif Baru",
+  "category": "Pasar Modal",
+  "program": "tvOneNews",
+  "summary": "Bursa Efek Indonesia dan Otoritas Jasa Keuangan menggelar pertemuan daring dengan MSCI Inc pada Senin, 19 Oktober 2026, untuk membahas dua inisiatif baru terkait pasar modal Indonesia.",
+  "takeaway": "Pertemuan dengan MSCI penting bagi investor karena indeks lembaga ini menjadi acuan utama penilaian pasar modal Indonesia di mata global."
+ },
+ {
   "id": "TlZwaU5MDFg",
   "title": "Antrean BBM di Ternate Mengular, Pertamina Siapkan Delivery",
   "category": "Energi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Kadin Indonesia bersama Kementerian Investasi dan Hilirisasi atau BKPM menerima delegasi bisnis Finlandia untuk menjajaki peluang kerja sama investasi.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut potensi masuknya investasi asing ke Indonesia."
- },
- {
-  "id": "y7pIJslhJjI",
-  "title": "Kerja Sama Perdagangan Indonesia dan Mesir",
-  "category": "Global",
-  "program": "Kabar Hari Ini",
-  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menilai kerja sama perdagangan Indonesia dan Mesir masih berpeluang berkembang, dengan nilai perdagangan kedua negara diproyeksikan menembus US$3 miliar.",
-  "takeaway": "Proyeksi kenaikan nilai dagang hingga US$3 miliar relevan bagi pembaca yang mengikuti perluasan pasar ekspor Indonesia di kawasan Timur Tengah dan Afrika."
- },
- {
-  "id": "8bz_ccR8eqo",
-  "title": "Potensi Wisata, Kuliner, dan UMKM di Sirkuit Mandalika",
-  "category": "UMKM",
-  "program": "Kabar Siang",
-  "summary": "Gelaran MotoGP Mandalika 2026 membuka peluang ekonomi bagi pelaku usaha mikro, kecil, dan menengah lokal lewat sektor wisata dan kuliner di sekitar sirkuit.",
-  "takeaway": "Menggambarkan dampak ekonomi nyata dari event olahraga internasional terhadap pelaku UMKM di daerah."
  }
 ];

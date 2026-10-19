@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "rTDHttd2_7Q",
+  "title": "Bandara Batam Buka Rute Penerbangan ke Malaysia",
+  "category": "Industri",
+  "program": "OneNews Update",
+  "summary": "PT Bandara Internasional Batam resmi membuka rute penerbangan perdana Batam-Penang bersama Batik Air Malaysia, yang akan beroperasi tiga kali dalam sepekan.",
+  "takeaway": "Pembukaan rute baru ini relevan sebagai indikator ekspansi bisnis penerbangan dan konektivitas perdagangan di kawasan Batam.",
+  "terbit": "2026-10-19T11:00:09+00:00"
+ },
+ {
+  "id": "XWmePnqTUNg",
+  "title": "BEI dan OJK Temui MSCI, Ungkap Dua Inisiatif Baru",
+  "category": "Pasar Modal",
+  "program": "tvOneNews",
+  "summary": "Bursa Efek Indonesia dan Otoritas Jasa Keuangan menggelar pertemuan daring dengan MSCI Inc pada Senin, 19 Oktober 2026, untuk membahas dua inisiatif baru terkait pasar modal Indonesia.",
+  "takeaway": "Pertemuan dengan MSCI penting bagi investor karena indeks lembaga ini menjadi acuan utama penilaian pasar modal Indonesia di mata global.",
+  "terbit": "2026-10-19T10:28:41+00:00"
+ },
+ {
   "id": "TlZwaU5MDFg",
   "title": "Antrean BBM di Ternate Mengular, Pertamina Siapkan Delivery",
   "category": "Energi",

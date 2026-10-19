@@ -5,6 +5,74 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-kejar-penandatanganan-ieu-cepa-berlaku-awal-2027",
+  "category": "Global",
+  "title": "RI Kejar Penandatanganan IEU-CEPA, Berlaku Awal [2027]",
+  "deck": "Pemerintah mempercepat proses penandatanganan dan ratifikasi IEU-CEPA agar perjanjian dagang dengan Uni Eropa itu mulai berlaku awal 2027.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "Ekspor",
+   "Perjanjian Dagang"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7166/targetkan-implementasi-awal-2027-pemerintah-dorong-percepatan-penandatanganan-ieu-cepa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "esdm-akui-distribusi-bbm-ke-luar-jawa-masih-tersendat",
+  "category": "Energi",
+  "title": "ESDM Akui Distribusi BBM ke [Luar Jawa] Masih Tersendat",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut cadangan BBM nasional masih aman, namun pengiriman ke Kalimantan, Sulawesi, Sumatera, dan Bali masih menghadapi kendala logistik.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/esdm-akui-distribusi-bbm-ke-luar-jawa-masih-tersendat.jpg",
+  "imageV": "mvf6syek",
+  "tags": [
+   "BBM",
+   "ESDM",
+   "Pertamina",
+   "distribusi energi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/bahlil-pastikan-stok-bbm-nasional-aman-distribusi-ke-daerah-diperkuat",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "cadangan-bbm-bali-dinaikkan-ke-15-hari-usai-antrean-spbu",
+  "category": "Energi",
+  "title": "Cadangan BBM Bali Dinaikkan ke [15] Hari usai Antrean SPBU",
+  "deck": "Pemerintah menaikkan cadangan BBM Bali dari 11 menjadi 15 hari setelah antrean di sejumlah SPBU akibat kapal tanker terlambat. Skema beli ganjil-genap diperpanjang hingga 23 Oktober.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/cadangan-bbm-bali-dinaikkan-ke-15-hari-usai-antrean-spbu.jpg",
+  "imageV": "mvf6t0hw",
+  "tags": [
+   "BBM Bali",
+   "Pertamina",
+   "ESDM",
+   "Distribusi Energi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tujuh-kapal-dikerahkan-bahlil-perkuat-cadangan-bbm-bali-hingga-15-hari",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "lidah-buaya-gunungkidul-bidik-ekspor-ke-empat-negara",
+  "category": "UMKM",
+  "title": "Lidah Buaya Gunungkidul Bidik [Ekspor] ke Empat Negara",
+  "deck": "UMKM lidah buaya Rasane Vera dari Gunungkidul menggandeng lebih dari 125 petani mitra dan membidik pasar ekspor ke UEA, Jepang, Korea Selatan, dan Inggris.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Lidah Buaya",
+   "Gunungkidul"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/lidah-buaya-dari-gunungkidul-ubah-keterbatasan-karst-jadi-potensi-ekspor-bernilai-tinggi",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "beef-pemegang-saham-tambah-saham-hak-suara-ke-8-21",
   "category": "Aksi Korporasi",
   "title": "BEEF: Pemegang Saham Tambah Saham, Hak Suara ke [8,21%]",
@@ -362,7 +430,7 @@ var ARTICLES = [
   "title": "Pangan Nusa Expo Catat Potensi Transaksi [Rp5,9 Triliun]",
   "deck": "Pameran Pangan Nusa Expo 2026 di Kabupaten Tangerang mencatat potensi transaksi Rp5,9 triliun, didominasi kesepakatan ekspansi kuliner ke lima negara tujuan ekspor.",
   "date": "19 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "UMKM",
    "Ekspor Kuliner",
@@ -819,7 +887,7 @@ var ARTICLES = [
   "title": "Transaksi UMKM di Pangan Nusa Expo Tembus [Rp44 Miliar]",
   "deck": "Business matching Pangan Nusa Expo 2026 mencatat potensi transaksi Rp44 miliar hingga hari ketiga, naik 17 persen dari tahun lalu, menurut Kemendag.",
   "date": "18 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "tags": [
    "UMKM",
    "Kemendag",
@@ -886,7 +954,7 @@ var ARTICLES = [
   "title": "KUR Nelayan Desa Awang Tembus [Rp13,6 Miliar]",
   "deck": "BSI menyalurkan KUR Rp13,6 miliar untuk 160 nelayan di Desa Awang, Lombok Tengah, sementara puluhan pembudidaya lobster di sana belum semuanya tersentuh kredit ini.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/gula-merah.jpg",
   "tags": [
    "KUR",
    "Nelayan",
@@ -980,7 +1048,7 @@ var ARTICLES = [
   "title": "Gula Lontar Bali Angkat Pendapatan Petani ke [Rp3 Juta]/Bulan",
   "deck": "Tarunira, usaha sosial pengolah gula lontar di Karangasem, Bali, memamerkan produknya di Trade Expo Indonesia 2026 sembari menjajaki peluang ekspor ke Jepang, Eropa, dan Australia.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/gula-merah.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "gula lontar",
    "UMKM",
@@ -996,7 +1064,7 @@ var ARTICLES = [
   "title": "Ekonomi [Syariah] Tumbuh 6,2%, BI Gaet Wirausaha Muda",
   "deck": "Bank Indonesia membuka forum kewirausahaan syariah untuk anak muda di Jakarta, seiring klaim rantai nilai halal tumbuh 6,21 persen pada 2025, melampaui pertumbuhan ekonomi nasional.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/pengrajin-rotan.jpg",
   "tags": [
    "ekonomi syariah",
    "ISEF 2026",
@@ -1030,7 +1098,7 @@ var ARTICLES = [
   "title": "BI Soroti Peran [Perempuan] dalam Ekosistem Halal di ISEF 2026",
   "deck": "Konferensi dalam rangkaian ISEF 2026 menyoroti peran pelaku usaha perempuan di ekosistem industri halal, sektor yang disebut menyumbang 27 persen produk domestik bruto Indonesia.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/pengrajin-rotan.jpg",
+  "image": "assets/img/kedai-kopi-kecil.jpg",
   "tags": [
    "ISEF 2026",
    "Bank Indonesia",
@@ -1063,7 +1131,7 @@ var ARTICLES = [
   "title": "Dagang RI-Rusia Naik 21,6%, FTA Eurasia Ditarget [Rampung] 2026",
   "deck": "Menko Airlangga dan Deputi PM Rusia Denis Manturov membahas penguatan perdagangan bilateral yang naik 21,6 persen pada 2025, serta target ratifikasi FTA Indonesia-EAEU sebelum akhir 2026.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "Rusia",
    "Perdagangan",
@@ -1113,7 +1181,7 @@ var ARTICLES = [
   "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
   "deck": "Kemendag menargetkan 4 juta UMKM siap ekspor dalam lima tahun lewat program Campuspreneur yang kini melibatkan 27 perguruan tinggi, termasuk MoU baru dengan UIN Jakarta dan Universitas Presiden.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/kedai-kopi-kecil.jpg",
+  "image": "assets/img/pedagang-sayur-keliling.jpg",
   "tags": [
    "UMKM",
    "ekspor",
@@ -2161,7 +2229,7 @@ var ARTICLES = [
   "title": "Indonesia Perkuat Kesiapan [Aksesi] ke Pakta CPTPP",
   "deck": "Kemenko Perekonomian menggelar workshop teknis bersama negara anggota CPTPP untuk mematangkan kesiapan Indonesia bergabung ke pakta dagang itu.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "CPTPP",
    "Kemenko Perekonomian",
@@ -2425,7 +2493,7 @@ var ARTICLES = [
   "title": "Ekspor RI ke Inggris Hadapi Skema Tarif [Baru] 2027",
   "deck": "Kemendag dan Inggris perkuat kerja sama dagang, sementara skema tarif ekspor Inggris untuk Indonesia akan berubah mulai Januari 2027.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "Indonesia-Inggris",
    "Ekspor",
@@ -2489,7 +2557,7 @@ var ARTICLES = [
   "title": "Wamendag Soroti Peran Swedia dalam [I-EU CEPA] di TEI 2026",
   "deck": "Wamendag Dyah Roro Esti menyoroti peran Swedia dalam I-EU CEPA di forum bisnis Trade Expo Indonesia 2026, dengan nilai dagang RI-Swedia mencapai US$872,2 juta pada 2025.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "I-EU CEPA",
    "Swedia",
@@ -4379,7 +4447,7 @@ var ARTICLES = [
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
   "deck": "Pemerintah bersama ILO dan SECO menutup program PROMISE II dan memasuki fase baru penguatan akses keuangan UMKM, di tengah kesenjangan literasi keuangan yang masih lebar.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/pedagang-sayur-keliling.jpg",
+  "image": "assets/img/konveksi-penjahit.jpg",
   "tags": [
    "UMKM",
    "Literasi Keuangan",
@@ -6475,70 +6543,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e18e942df_b905988bff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nine-jadwalkan-rupslb-18-november-cum-date-26-oktober",
-  "category": "Aksi Korporasi",
-  "title": "NINE Jadwalkan [RUPSLB] 18 November, Cum Date 26 Oktober",
-  "deck": "Techno9 Indonesia menjadwalkan RUPSLB pada 18 November 2026, dengan pemegang saham per 26 Oktober 2026 berhak hadir, dan usul agenda rapat ditutup 20 Oktober 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NINE",
-   "RUPSLB",
-   "rights issue",
-   "Techno9 Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1c2f5651c0_cae8be8466.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oasa-direksi-jual-11-4-juta-saham-lewat-pasar",
-  "category": "Aksi Korporasi",
-  "title": "OASA: Direksi [Jual] 11,4 Juta Saham Lewat Pasar",
-  "deck": "Direktur OASA, Ir. Gafur Sulistyo Umar, melepas 11,4 juta saham secara tidak langsung senilai sekitar Rp2,57 miliar untuk realokasi investasi.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OASA",
-   "Maharaksa Biru Energi",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-9763-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "humi-rombak-seluruh-direksi-komisaris-lewat-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "HUMI [Rombak] Seluruh Direksi-Komisaris Lewat RUPSLB",
-  "deck": "RUPSLB HUMI memberhentikan seluruh direksi dan komisaris lama lalu mengangkat jajaran baru, namun pembebasan tanggung jawab mereka ditangguhkan sampai laporan keuangan audit 2026 selesai.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HUMI",
-   "RUPSLB",
-   "direksi",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/90ff8bf99a_4e6b635259.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oasa-direksi-jual-22-8-juta-saham-senilai-rp5-miliar",
-  "category": "Aksi Korporasi",
-  "title": "OASA: Direksi [Jual] 22,8 Juta Saham Senilai Rp5 Miliar",
-  "deck": "Direktur Gafur Sulistyo Umar melepas 22,8 juta saham OASA pada 8 Oktober 2026 seharga Rp220 per saham, hak suaranya turun dari 31,65% jadi 31,29%.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OASA",
-   "Maharaksa Biru Energi",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-2795-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

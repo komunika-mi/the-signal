@@ -569,7 +569,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah tahapannya, bukan isi perjanjiannya. Substansi IEU-CEPA sudah disepakati sejak September 2025 dan pengecekan hukumnya rampung Agustus 2026, sekarang pemerintah mengejar agar perjanjian diteken sebelum akhir 2026 supaya bisa mulai berlaku awal 2027. Yang paling terdampak adalah eksportir di sektor sawit, otomotif, kopi, kakao, karet, baja, kayu olahan, dan perikanan, karena sektor itulah yang disebut berpotensi mendorong tambahan ekspor hingga US$10,9 miliar kalau tarif ke Uni Eropa turun. Arah yang terlihat sekarang adalah bola sedang di sisi Uni Eropa, karena proposalnya sudah ada di tangan Dewan Uni Eropa sejak Juni 2026 dan tinggal menunggu persetujuan internal mereka, bukan lagi negosiasi dengan Indonesia. Yang akan memastikan apakah target awal 2027 itu realistis adalah apakah penandatanganan benar-benar terjadi sebelum tutup tahun 2026 seperti yang dikejar kedua pihak.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "esdm-akui-distribusi-bbm-ke-luar-jawa-masih-tersendat",

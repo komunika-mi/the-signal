@@ -5,6 +5,214 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "beef-pemegang-saham-tambah-saham-hak-suara-ke-8-21",
+  "category": "Aksi Korporasi",
+  "title": "BEEF: Pemegang Saham Tambah Saham, Hak Suara ke [8,21%]",
+  "deck": "Dimas Wibowo membeli 19,16 juta saham BEEF pada 18 Agustus 2026, mendorong hak suaranya di Estika Tata Tiara naik dari 7,98% menjadi 8,21%.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEEF",
+   "kepemilikan saham",
+   "Estika Tata Tiara",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-2855-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-jpfa-semester-i-2026-melonjak-97-ke-rp2-68-triliun",
+  "category": "Aksi Korporasi",
+  "title": "Laba JPFA Semester I/2026 [Melonjak] 97% ke Rp2,68 Triliun",
+  "deck": "Laba JAPFA Comfeed naik hampir dua kali lipat jadi Rp2,68 triliun pada semester I 2026, meski utang berbunga dan rasio utang terhadap ekuitas juga meningkat.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JPFA",
+   "JAPFA Comfeed",
+   "kinerja keuangan",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/973cd85c49_5e6b9e8aaa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tpia-revisi-batas-harga-buyback-saham-hapus-batas-bawah",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Revisi Batas Harga [Buyback] Saham, Hapus Batas Bawah",
+  "deck": "Chandra Asri mengoreksi lagi aturan harga buyback saham, kini hanya mematok batas atas Rp3.000 per lembar tanpa batas bawah, sementara dana maksimal Rp1 triliun dan target 800 juta saham tetap sama.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "buyback saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/395415ea36_1bc1f1c3cb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pssi-rencanakan-pengalihan-85-juta-saham-treasuri",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Rencanakan Pengalihan 85 Juta Saham [Treasuri]",
+  "deck": "PSSI akan mengalihkan hingga 85 juta saham treasuri dari hasil buyback Tahap III yang dibeli seharga rata-rata Rp347 per saham.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "buyback saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fb8281f46d_94d18efee3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jsmr-gelar-rupslb-25-november-atas-permintaan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "JSMR Gelar RUPSLB 25 November Atas Permintaan [Komisaris]",
+  "deck": "Jasa Marga mengoreksi pengumuman RUPSLB yang digelar 25 November 2026 setelah permintaan Dewan Komisaris, agenda rapat belum diungkap.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JSMR",
+   "RUPSLB",
+   "Jasa Marga",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/85478bf3a3_1296d53730.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-scma-usai-dividen-rp8-4-saham",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Waran [SCMA] usai Dividen Rp8,4/Saham",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur SCMAZPCJ7A menyusul dividen interim SCMA Rp8,4 per saham.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "SCMA",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/060622a3c4_10573013b1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "elsa-komisaris-independen-ajukan-mundur-tunggu-restu-rups",
+  "category": "Aksi Korporasi",
+  "title": "ELSA: Komisaris Independen Ajukan [Mundur], Tunggu Restu RUPS",
+  "deck": "Komisaris Independen Elnusa, Abdul Hakim, mengajukan pengunduran diri pada 15 Oktober 2026 dan baru efektif setelah disetujui RUPS mendatang.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELSA",
+   "Elnusa Tbk",
+   "komisaris independen",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/faee3c2171_e0bc335ee5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beef-pemegang-saham-tambah-44-7-juta-saham-suara-ke-7-07",
+  "category": "Aksi Korporasi",
+  "title": "BEEF: [Pemegang Saham] Tambah 44,7 Juta Saham, Suara ke 7,07%",
+  "deck": "Pemegang saham Dimas Wibowo menambah 44,7 juta lembar saham BEEF lewat pembelian tidak langsung pada Juli 2026, mengangkat hak suaranya dari 6,52 persen menjadi 7,07 persen.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEEF",
+   "Estika Tata Tiara",
+   "pemegang saham",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-8147-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bq-tetapkan-tanggal-pelaksanaan-waran-bqcv6a-30-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BQ Tetapkan Tanggal Pelaksanaan Waran [BQCV6A] 30 Oktober",
+  "deck": "PT Korea Investment and Sekuritas Indonesia (BQ) menjadwalkan pelaksanaan otomatis 22 waran terstruktur BQCV6A pada 30 Oktober 2026, mencakup waran berbasis ASII, TLKM, SMGR, dan saham lain.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BQ",
+   "waran terstruktur",
+   "BQCV6A",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c1f4310ade_2d46e873b1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lpin-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "LPIN Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Multi Prima Sejahtera menjawab surat BEI 15 Oktober 2026, menyatakan tidak ada info material maupun rencana korporasi yang menjelaskan pergerakan harga sahamnya.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPIN",
+   "Multi Prima Sejahtera",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9c1d963eae_2ea9131f4f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "intp-dirut-christian-kartawijaya-mundur-jose-vadillo-gantikan",
+  "category": "Aksi Korporasi",
+  "title": "INTP: Dirut Christian Kartawijaya [Mundur], Jose Vadillo Gantikan",
+  "deck": "Direktur Utama Christian Kartawijaya mundur karena pensiun dan Komisaris Juan Francisco Defalque mundur karena alasan pribadi; RUPSLB 3 Desember 2026 menetapkan pengganti.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INTP",
+   "pergantian direksi",
+   "komisaris",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/54e1575e77_72879d0250.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-tunda-rupslb-ke-29-oktober-ojk-minta-klarifikasi",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Tunda RUPSLB ke 29 Oktober, OJK Minta [Klarifikasi]",
+  "deck": "RUPSLB LAPD yang semula 20 Oktober ditunda ke 29 Oktober 2026 setelah OJK minta tambahan klarifikasi soal rencana PMHMETD II, transaksi material, dan transaksi afiliasi.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "RUPSLB",
+   "OJK",
+   "PMHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fabac395eb_821bcb6d47.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tpia-revisi-periode-buyback-berakhir-lebih-cepat-ke-31-desember",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Revisi [Periode] Buyback, Berakhir Lebih Cepat ke 31 Desember",
+  "deck": "Chandra Asri Pacific mengoreksi ulang jadwal buyback saham senilai maksimal Rp1 triliun, mempersingkat periode pembelian dari semula berakhir 19 Januari 2027 menjadi 31 Desember 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "buyback saham",
+   "Chandra Asri Pacific",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9bfe110ef9_e75b96abcf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "akku-gelar-paparan-publik-usai-suspensi-saham-oleh-bei",
   "category": "Aksi Korporasi",
   "title": "AKKU Gelar Paparan Publik usai [Suspensi] Saham oleh BEI",
@@ -277,6 +485,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pbsa-siapkan-buyback-rp100-miliar-di-tengah-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "PBSA Siapkan [Buyback] Rp100 Miliar di Tengah Pasar Bergejolak",
+  "deck": "PBSA berencana membeli kembali saham maksimal Rp100 miliar dari kas internal pada 20 Oktober 2026 hingga 19 Januari 2027, memakai aturan OJK untuk pasar yang berfluktuasi signifikan.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PBSA",
+   "buyback",
+   "saham treasury",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4b6bc883c1_92696b9e6e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pgas-jelaskan-ke-bei-dampak-putusan-arbitrase-gunvor",
   "category": "Aksi Korporasi",
   "title": "PGAS Jelaskan ke BEI Dampak Putusan Arbitrase [Gunvor]",
@@ -290,6 +514,22 @@ var ARTICLES = [
    "Gunvor"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd383773ef_33480fc75b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "doid-dampak-karhutla-ke-operasional-buma-tak-material",
+  "category": "Aksi Korporasi",
+  "title": "DOID: Dampak Karhutla ke Operasional BUMA [Tak Material]",
+  "deck": "Anak usaha DOID, BUMA, menjawab permintaan penjelasan BEI dan menyatakan kabut asap Karhutla di Kalimantan hanya mengganggu jarak pandang, tidak berdampak ke produksi maupun pendapatan.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOID",
+   "Karhutla",
+   "BUMA",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2dca6fcad5_edd31cc219.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6299,246 +6539,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-2795-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "myoh-lewati-tenggat-refloat-saham-trja-baru-300-lembar",
-  "category": "Aksi Korporasi",
-  "title": "MYOH Lewati Tenggat [Refloat] Saham TRJA, Baru 300 Lembar",
-  "deck": "Dua tahun setelah tender wajib, MYOH baru melepas 300 dari 57,48 juta lembar saham TRJA yang wajib dijual kembali ke publik; tenggat Februari 2026 sudah lewat.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MYOH",
-   "TRJA",
-   "refloat",
-   "tender offer"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/25c4a64906_9a52089343.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-sesuaikan-tiga-waran-asii-usai-dividen-rp98",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan Tiga Waran [ASII] Usai Dividen Rp98",
-  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi tiga waran terstruktur berbasis saham ASII menyusul dividen tunai Rp98 per saham, efektif 13 Oktober 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "ASII",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c724ae7797_f6568a6464.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-komisaris-jual-saham-via-repo-suara-tetap-0-11",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Komisaris Jual Saham via [Repo], Suara Tetap 0,11%",
-  "deck": "Komisaris NSSS Djasa Pinara Gusti melepas 412.300 saham lewat repurchase agreement pada 5 Oktober 2026, senilai sekitar Rp301,4 juta.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "komisaris",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-3911-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-rinci-alokasi-rp92-miliar-sisa-dana-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "CASH Rinci Alokasi [Rp92 Miliar] Sisa Dana Rights Issue",
-  "deck": "Dalam Public Expose Tahunan, manajemen Cashlez merinci alokasi sisa dana rights issue Rp92 miliar dan memastikan tidak ada aksi korporasi dengan PT BAU meski kantor kini sealamat.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "Rights Issue",
-   "Public Expose",
-   "Cashlez"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d46cb0bbc_ddd3df0afa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jecx-direksi-johan-hutauruk-beli-10-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "[JECX] Direksi Johan Hutauruk Beli 10.000 Saham",
-  "deck": "Direksi JECX Johan A M M Hutauruk membeli 10.000 saham pada 5 Oktober 2026 senilai Rp1.315 per saham, menambah kepemilikan menjadi 18.814.000 lembar, hak suara tetap 0,58 persen.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "kepemilikan saham",
-   "direksi",
-   "Nitrasanata Dharma"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-0116-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csra-bagikan-dividen-interim-rp15-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "CSRA Bagikan [Dividen] Interim Rp15 per Saham",
-  "deck": "Cisadane Sawit Raya akan membayar dividen interim Rp15 per saham atau total Rp30,75 miliar pada 13 November 2026, didanai dari surplus kas internal perusahaan.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSRA",
-   "dividen interim",
-   "kelapa sawit",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a6eff690f2_da62ea2c79.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-rilis-revisi-laporan-realisasi-dana-waran-seri-i",
-  "category": "Aksi Korporasi",
-  "title": "CYBR Rilis Revisi Laporan [Realisasi] Dana Waran Seri I",
-  "deck": "ITSEC Asia merevisi laporan realisasi dana hasil pelaksanaan Waran Seri I per 30 Juni 2026 menyusul permintaan penyesuaian dari OJK berdasarkan POJK 40/2025.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "waran",
-   "penggunaan dana",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f4dd990654_a3ea97f884.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-jual-saham-via-repo-suara-turun-ke-33-29",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Jual Saham via [Repo], Suara Turun ke 33,29%",
-  "deck": "Samuel Sekuritas Indonesia melepas 335,77 juta saham NSSS lewat skema repurchase agreement seharga Rp750 per saham, hak suaranya turun jadi 33,29 persen.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "repo saham",
-   "kepemilikan saham",
-   "Samuel Sekuritas Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-8423-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "moya-bentuk-usaha-patungan-senilai-rp6-6-miliar-di-karawang",
-  "category": "Aksi Korporasi",
-  "title": "MOYA Bentuk [Usaha Patungan] Senilai Rp6,6 Miliar di Karawang",
-  "deck": "MOYA menggandeng PT Pertiwi Lestari membentuk PT Air Pertiwi Lestari, perusahaan patungan senilai Rp6,6 miliar untuk membangun infrastruktur pengolahan air di Karawang.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MOYA",
-   "usaha patungan",
-   "infrastruktur air",
-   "Karawang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/32b9db00f6_05ba7f2977.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csra-tetapkan-jadwal-dividen-interim-cair-13-november",
-  "category": "Aksi Korporasi",
-  "title": "CSRA Tetapkan Jadwal Dividen Interim, Cair [13 November]",
-  "deck": "Pemegang saham yang tercatat 26 Oktober 2026 berhak atas dividen interim Rp15 per saham, dibayarkan paling lambat 13 November 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSRA",
-   "dividen interim",
-   "pasar modal",
-   "emiten sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/705f4f1fb5_2330f1e13d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tcpi-cgs-international-tambah-saham-lewat-repo-ke-6-89",
-  "category": "Aksi Korporasi",
-  "title": "TCPI: CGS International Tambah Saham Lewat [REPO] ke 6,89%",
-  "deck": "CGS International Sekuritas Indonesia menambah 45 juta lembar saham TCPI sebagai jaminan REPO senilai Rp445,5 miliar, hak suara naik ke 6,89%.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TCPI",
-   "kepemilikan saham",
-   "REPO",
-   "CGS International"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-6628-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-tambah-saham-1-4-juta-lembar-lewat-pembelian",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi [Tambah] Saham 1,4 Juta Lembar Lewat Pembelian",
-  "deck": "Direksi CYBR, Patrick Rudolf Dannacher, menambah kepemilikan 1,4 juta lembar saham lewat serangkaian pembelian tidak langsung pada 6-9 Oktober 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "kepemilikan saham",
-   "direksi",
-   "ITSEC Asia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12102026-0898-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-intensifkan-pengeboran-lima-sumur-di-tiga-wilayah",
-  "category": "Aksi Korporasi",
-  "title": "PGEO [Intensifkan] Pengeboran Lima Sumur di Tiga Wilayah",
-  "deck": "PGE menyelesaikan dan memulai pengeboran lima sumur di Gunung Tiga, Lumut Balai, Ulubelu, dan Lahendong sepanjang 2026 untuk mendukung target kapasitas baru 55 MW dan 8 MW.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "panas bumi",
-   "pengeboran",
-   "geothermal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a178320153_fbc40038d7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mcol-tegaskan-tak-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "MCOL Tegaskan Tak Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham MCOL. Manajemen menyatakan tidak ada informasi material atau rencana korporasi di baliknya.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MCOL",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6063681b34_7591736493.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inco-jadwalkan-rupslb-18-november-dps-26-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "INCO Jadwalkan [RUPSLB] 18 November, DPS 26 Oktober 2026",
-  "deck": "Vale Indonesia menggelar RUPSLB pada 18 November 2026. Pemegang saham yang ingin mengusulkan agenda punya tenggat hingga 20 Oktober.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INCO",
-   "RUPSLB",
-   "Vale Indonesia",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b137055131_9297c56410.pdf",
   "sourceLabel": "IDX"
  }
 ];

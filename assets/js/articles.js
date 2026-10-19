@@ -3,6 +3,344 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "beef-pemegang-saham-tambah-saham-hak-suara-ke-8-21",
+  "category": "Aksi Korporasi",
+  "title": "BEEF: Pemegang Saham Tambah Saham, Hak Suara ke [8,21%]",
+  "deck": "Dimas Wibowo membeli 19,16 juta saham BEEF pada 18 Agustus 2026, mendorong hak suaranya di Estika Tata Tiara naik dari 7,98% menjadi 8,21%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:47:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-2855-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEEF",
+  "tags": [
+   "BEEF",
+   "kepemilikan saham",
+   "Estika Tata Tiara",
+   "pemegang saham"
+  ],
+  "body": [
+   "Dimas Wibowo, pemegang saham PT Estika Tata Tiara Tbk (BEEF) yang bukan bagian dari direksi maupun dewan komisaris perusahaan, melaporkan ke Otoritas Jasa Keuangan bahwa ia membeli saham BEEF dalam jumlah besar pada 18 Agustus 2026. Berdasarkan laporan kepemilikan yang baru diserahkan pada 19 Oktober 2026, jumlah sahamnya bertambah dari 648.207.742 lembar menjadi 667.365.842 lembar, atau naik 19.158.100 lembar. Kenaikan ini membuat hak suaranya di BEEF naik dari 7,98 persen menjadi 8,21 persen.",
+   "Pembelian dilakukan secara tidak langsung dan tercatat dalam 22 transaksi terpisah pada tanggal yang sama, dengan harga per saham bervariasi mulai dari Rp426 hingga Rp482. Dalam dokumen yang diserahkan, tujuan seluruh transaksi disebutkan sama, yaitu menambah portofolio investasi. Laporan tidak merinci dari pihak mana saham tersebut dibeli.",
+   "Laporan semacam ini wajib disampaikan karena Dimas Wibowo adalah pemegang saham dengan hak suara di atas 5 persen di BEEF, ambang yang menurut Peraturan OJK Nomor 4/2024 mengharuskan setiap perubahan kepemilikannya dilaporkan ke OJK."
+  ],
+  "fotoAdegan": "Workers moving cattle through a dusty livestock holding pen at a rural Indonesian feedlot, early morning light",
+  "takeaway": "Laporan ini condong positif bagi BEEF, sebab pemegang saham besarnya menambah kepemilikan, bukan melepasnya, dan kenaikan hak suara dari 7,98 persen ke 8,21 persen ini bukan jumlah remeh, melainkan hasil 22 transaksi beli dalam satu hari. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan laba atau arus kas perusahaan, karena transaksi ini hanya memindahkan saham yang sudah beredar dari pemilik lama ke tangan Dimas Wibowo tanpa menambah jumlah saham baru. Pelaku pasar memperhatikan pergerakan pemegang saham besar seperti ini karena bisa jadi sinyal keyakinan terhadap prospek perusahaan, sekaligus mempengaruhi siapa yang punya suara lebih besar saat pengambilan keputusan di rapat pemegang saham. Yang perlu dipantau selanjutnya adalah apakah Dimas Wibowo melanjutkan akumulasi ini di laporan-laporan berikutnya, mengingat transaksi 18 Agustus 2026 ini baru dilaporkan dua bulan kemudian pada 19 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "laba-jpfa-semester-i-2026-melonjak-97-ke-rp2-68-triliun",
+  "category": "Aksi Korporasi",
+  "title": "Laba JPFA Semester I/2026 [Melonjak] 97% ke Rp2,68 Triliun",
+  "deck": "Laba JAPFA Comfeed naik hampir dua kali lipat jadi Rp2,68 triliun pada semester I 2026, meski utang berbunga dan rasio utang terhadap ekuitas juga meningkat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:36:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/973cd85c49_5e6b9e8aaa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JPFA",
+  "tags": [
+   "JPFA",
+   "JAPFA Comfeed",
+   "kinerja keuangan",
+   "public expose"
+  ],
+  "body": [
+   "JAPFA Comfeed Indonesia (JPFA) menyampaikan materi public expose tahunan ke Bursa Efek Indonesia untuk acara yang akan digelar 22 Oktober 2026. Materi tersebut memuat kinerja keuangan semester pertama 2026: pendapatan neto naik dari Rp27,48 triliun pada semester I 2025 menjadi Rp35,36 triliun pada semester I 2026, setara kenaikan 28,6 persen. Laba usaha melonjak dari Rp2,10 triliun menjadi Rp3,73 triliun, EBITDA naik dari Rp2,73 triliun menjadi Rp4,41 triliun, dan laba periode berjalan naik paling tajam, dari Rp1,36 triliun menjadi Rp2,68 triliun atau tumbuh 97 persen.",
+   "Di sisi lain, total aset Perseroan per 30 Juni 2026 tercatat Rp45,15 triliun, naik dari Rp36,37 triliun setahun sebelumnya, seiring utang berbunga yang juga membesar dari Rp12,04 triliun menjadi Rp16,27 triliun. Rasio utang bersih terhadap ekuitas naik dari 60,4 persen menjadi 64,1 persen. Belanja modal pada semester I 2026 mencapai Rp2,16 triliun, jauh lebih tinggi dari Rp932 miliar pada semester I 2025, sejalan dengan rencana perluasan kapasitas pakan dan peternakan. Pada tahun 2026 ini JAPFA juga menerbitkan Obligasi Berkelanjutan III Tahap I senilai Rp500 miliar.",
+   "Materi public expose ini juga mencatat bahwa Komisaris Utama Syamsir Siregar meninggal dunia pada 25 Agustus 2026. Dalam daftar isi materi, Perseroan mencantumkan agenda pembahasan rencana divestasi anak usahanya di bidang vaksin ternak, PT Vaksindo Satwa Nusantara, meski rincian nilai dan skema transaksinya tidak dimuat pada bagian dokumen yang tersedia. Perseroan menyebut tantangan ke depan meliputi volatilitas harga bahan baku pakan, risiko oversupply akibat rencana importasi Grand Parent Stock, serta biaya pinjaman yang masih tinggi."
+  ],
+  "fotoAdegan": "Workers inspecting rows of young broiler chickens inside a large poultry farm shed, feed lines along the aisle, warm interior lighting",
+  "takeaway": "Laporan ini condong positif karena laba periode berjalan JAPFA melonjak 97 persen menjadi Rp2,68 triliun pada semester I 2026, jauh melampaui kenaikan pendapatan yang hanya 28,6 persen, pertanda margin usaha menebal bukan sekadar omzet yang membesar. Yang perlu dicermati adalah rasio utang bersih terhadap ekuitas yang naik dari 60,4 persen menjadi 64,1 persen, menandakan utang Perseroan tumbuh lebih cepat dari modal sendiri seiring belanja modal yang digenjot dari Rp932 miliar menjadi Rp2,16 triliun. EBITDA, yakni laba usaha sebelum dipotong bunga, pajak, dan penyusutan aset yang dipakai pelaku pasar untuk mengukur kemampuan bisnis inti menghasilkan kas, juga naik 61 persen menjadi Rp4,41 triliun, sejalan dengan perbaikan kinerja operasional. Yang perlu dipantau berikutnya adalah pengisian kursi Komisaris Utama menyusul wafatnya Syamsir Siregar pada 25 Agustus 2026, yang biasanya menunggu RUPSLB untuk pengangkatan resmi, serta kelanjutan rencana divestasi PT Vaksindo Satwa Nusantara yang masuk agenda public expose 22 Oktober 2026 ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tpia-revisi-batas-harga-buyback-saham-hapus-batas-bawah",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Revisi Batas Harga [Buyback] Saham, Hapus Batas Bawah",
+  "deck": "Chandra Asri mengoreksi lagi aturan harga buyback saham, kini hanya mematok batas atas Rp3.000 per lembar tanpa batas bawah, sementara dana maksimal Rp1 triliun dan target 800 juta saham tetap sama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:34:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/395415ea36_1bc1f1c3cb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "buyback saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Chandra Asri Pacific Tbk (TPIA) menerbitkan koreksi kedua dalam sehari atas keterbukaan informasi rencana pembelian kembali saham (buyback). Surat bernomor 229/LCM-DOC/CAP/X/2026 ini mengoreksi surat sebelumnya, nomor 228/LCM-DOC/CAP/X/2026, yang terbit di tanggal yang sama, 19 Oktober 2026. Rencana inti buyback tidak berubah: dana maksimal Rp1 triliun dari kas internal perseroan, untuk membeli maksimal 800 juta saham atau setara 0,92 persen dari total saham beredar, selama periode 19 Oktober hingga 31 Desember 2026.",
+   "Yang direvisi dalam dokumen ini adalah batas harga pelaksanaan buyback. Sebelumnya, perseroan menetapkan rentang harga pembelian serendah-rendahnya Rp1.250 dan setinggi-tingginya Rp3.000 per saham. Dalam revisi ini, batas bawah Rp1.250 dihapus, sehingga aturan yang berlaku hanya batas harga tertinggi Rp3.000 per saham, tetap tunduk pada POJK Nomor 13 Tahun 2023 tentang kebijakan menjaga stabilitas pasar modal saat kondisi fluktuatif.",
+   "Perseroan telah menunjuk PT Henan Putihrai Sekuritas sebagai pelaksana buyback melalui perdagangan di Bursa Efek Indonesia. Selama periode buyback, anggota dewan komisaris, direksi, pegawai, dan pemegang saham utama dilarang bertransaksi atas saham perseroan. Berdasarkan laporan keuangan per 30 Juni 2026, jika seluruh dana buyback terpakai, total aset dan total ekuitas perseroan diperkirakan turun masing-masing US$56,004 juta, dari US$13.766,127 juta menjadi US$13.710,123 juta untuk ekuitas, sementara laba bersih per saham diperkirakan tetap di US$0,0033. Dokumen ditandatangani elektronik oleh Erri Dewi Riani, General Manager of Legal & Corporate Secretary TPIA."
+  ],
+  "fotoAdegan": "Wide shot of a petrochemical plant with steel pipelines and storage tanks under an overcast sky, Indonesia industrial zone",
+  "takeaway": "Revisi ini tergolong netral bagi TPIA, karena yang diubah hanya batas bawah harga eksekusi buyback, sementara besaran dana buyback (maksimal Rp1 triliun) dan jumlah saham yang disasar (maksimal 800 juta lembar) tidak berubah sama sekali. Pos yang tersentuh adalah ekuitas, yaitu modal bersih milik pemegang saham, yang diproyeksikan turun sekitar US$56 juta kalau dana buyback terpakai penuh, karena kas yang dipakai membeli saham sendiri otomatis mengurangi ekuitas sementara laba bersih per saham tetap karena jumlah saham beredar belum berubah. Yang perlu dipantau berikutnya adalah realisasi pembelian saham selama periode 19 Oktober sampai 31 Desember 2026, termasuk kemungkinan perseroan menghentikan program lebih cepat jika dana sudah habis atau target saham sudah tercapai, sesuai syarat yang disebutkan dalam dokumen ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pssi-rencanakan-pengalihan-85-juta-saham-treasuri",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Rencanakan Pengalihan 85 Juta Saham [Treasuri]",
+  "deck": "PSSI akan mengalihkan hingga 85 juta saham treasuri dari hasil buyback Tahap III yang dibeli seharga rata-rata Rp347 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:33:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fb8281f46d_94d18efee3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "buyback saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) menyampaikan tambahan informasi yang melengkapi keterbukaan informasi tertanggal 14 September 2026 mengenai rencana pengalihan saham hasil pembelian kembali, dengan jumlah sebanyak-banyaknya 85.000.000 saham. Perseroan menjelaskan bahwa saham yang akan dialihkan ini bersumber dari Program Pembelian Kembali Saham Tahap III, yang dilaksanakan saat kondisi pasar berfluktuasi signifikan dan telah diselesaikan pada 30 September 2025.",
+   "Dokumen menyebutkan total saham hasil buyback Tahap III tersebut sebenarnya berjumlah 116.600.700 saham, yang diperoleh perseroan dengan harga rata-rata pembelian Rp347 per saham. Artinya, rencana pengalihan sebanyak-banyaknya 85 juta saham ini mencakup sebagian besar, sekitar 73 persen, dari total saham yang sudah dibeli kembali tersebut. Perseroan menyatakan pengalihan akan mengacu pada ketentuan Peraturan OJK Nomor 29 Tahun 2023 tentang pembelian kembali saham oleh perusahaan terbuka.",
+   "Perseroan menegaskan bahwa rencana ini tidak membawa dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha. Pemegang saham yang ingin bertanya lebih lanjut dapat menghubungi Sekretaris Perusahaan pada hari dan jam kerja di kantor pusat PSSI, Menara Astra Lantai 23, Jalan Jenderal Sudirman Kavling 5-6, Jakarta."
+  ],
+  "fotoAdegan": "Container ship docked at a busy Indonesian port, gantry cranes loading cargo boxes, early morning haze over calm water",
+  "takeaway": "Laporan ini kami nilai netral karena yang dialihkan adalah saham yang sudah dibeli kembali sejak akhir September 2025, bukan penerbitan saham baru, dan perseroan sendiri menyatakan tidak ada dampak langsung ke operasional atau keuangan. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu laba bersih perseroan dibagi jumlah lembar sahamnya, karena jika 85 juta dari 116,6 juta saham treasuri ini benar dilepas kembali ke pasar, jumlah saham yang beredar bertambah dan laba per saham berpotensi mengecil dibanding sebelumnya. Dokumen ini belum menyebutkan kepada siapa saham akan dialihkan atau kapan tepatnya pelaksanaannya, sehingga yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan dari PSSI yang menjelaskan mekanisme dan tanggal pasti pengalihan sesuai POJK No 29/2023.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jsmr-gelar-rupslb-25-november-atas-permintaan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "JSMR Gelar RUPSLB 25 November Atas Permintaan [Komisaris]",
+  "deck": "Jasa Marga mengoreksi pengumuman RUPSLB yang digelar 25 November 2026 setelah permintaan Dewan Komisaris, agenda rapat belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:29:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/85478bf3a3_1296d53730.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JSMR",
+  "tags": [
+   "JSMR",
+   "RUPSLB",
+   "Jasa Marga",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "PT Jasa Marga Tbk mengoreksi suratnya yang terbit pada hari yang sama, 19 Oktober 2026, terkait rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Dalam surat koreksi ini, perseroan menegaskan rapat akan digelar di Jakarta pada Rabu, 25 November 2026 pukul 13:30 WIB, secara elektronik melalui fasilitas eASY.KSEI milik Kustodian Sentral Efek Indonesia (KSEI). Yang menarik, rapat ini bukan inisiatif Direksi, melainkan menindaklanjuti permintaan dari Dewan Komisaris Jasa Marga melalui Surat No. DK 129/X/2026 tertanggal 7 Oktober 2026. Perseroan belum mengungkap agenda atau materi apa yang akan dibahas dalam rapat tersebut.",
+   "Pemegang saham yang berhak hadir atau memberi kuasa dalam RUPSLB ini adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada 2 November 2026 pukul 16:15 WIB, atau pemilik saldo rekening efek di penitipan kolektif KSEI pada penutupan perdagangan di tanggal yang sama. Surat panggilan resmi yang memuat agenda rapat baru akan dipublikasikan pada 3 November 2026, melalui situs pelaporan elektronik Bursa Efek Indonesia dan Otoritas Jasa Keuangan, situs e-RUPS easy.ksei.co.id, serta situs resmi Jasa Marga.",
+   "Perseroan juga mengingatkan hak pemegang saham untuk mengusulkan mata acara rapat, dengan syarat diajukan oleh satu pemegang saham atau lebih yang mewakili minimal 1/20 atau 5 persen dari seluruh saham berhak suara. Usulan tersebut harus disampaikan secara tertulis kepada Direksi paling lambat 27 Oktober 2026, yakni tujuh hari sebelum surat panggilan resmi diterbitkan, dan harus disertai alasan serta bahan pendukung yang tidak bertentangan dengan peraturan dan anggaran dasar perseroan."
+  ],
+  "fotoAdegan": "Wide aerial view of a multi-lane elevated toll highway with flowing traffic, Jakarta skyline hazy in the background, midday light",
+  "takeaway": "Laporan ini netral bagi fundamental Jasa Marga, sebab baru berupa pemberitahuan jadwal rapat tanpa agenda yang diungkap, jadi belum ada dampak keuangan yang bisa dinilai pasar. Yang patut dicatat adalah rapat ini diminta oleh Dewan Komisaris, bukan diajukan oleh Direksi seperti biasanya, sebuah pola yang di luar kebiasaan meski belum tentu berarti ada masalah. Karena isi agenda belum terbuka, pos-pos seperti ekuitas, arus kas, atau jumlah saham beredar perseroan belum bisa dibilang tersentuh oleh rapat ini. Yang perlu dipantau adalah surat panggilan resmi yang memuat agenda lengkap, terbit 3 November 2026, serta tenggat pengajuan usulan mata acara oleh pemegang saham pada 27 Oktober 2026, sebelum rapat sendiri digelar 25 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-scma-usai-dividen-rp8-4-saham",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Waran [SCMA] usai Dividen Rp8,4/Saham",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur SCMAZPCJ7A menyusul dividen interim SCMA Rp8,4 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:24:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/060622a3c4_10573013b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "SCMA",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia (kode emiten ZP) mengumumkan penyesuaian syarat dan ketentuan waran terstruktur SCMAZPCJ7A pada 19 Oktober 2026. Penyesuaian ini merujuk pada pengumuman PT Surya Citra Media Tbk (SCMA) di hari yang sama soal pembagian dividen interim tahun buku 2026 sebesar Rp8,4 per saham.",
+   "Sesuai syarat dan ketentuan dalam Prospektus Bagian 3.8 tertanggal 11 April 2025 dan Term Sheet SCMAZPCJ7A, harga pelaksanaan dan rasio konversi waran akan dihitung ulang dengan rumus yang sama: nilai lama dikalikan selisih antara harga perdagangan terakhir SCMA pada cum-date (P) dengan dividen tunai Rp8,4 (D), lalu dibagi P. Dengan kata lain, begitu SCMA membagikan dividen dan harganya otomatis terkoreksi di pasar, harga pelaksanaan dan rasio konversi waran ikut diturunkan secara proporsional agar nilai waran tidak tergerus oleh dividen yang keluar dari kas perusahaan.",
+   "Penyesuaian ini berlaku efektif pada 28 Oktober 2026 untuk transaksi di Pasar Reguler dan Pasar Negosiasi, serta 30 Oktober 2026 untuk Pasar Tunai. Maybank selaku penerbit waran mencantumkan catatan bahwa penyesuaian berdasarkan kebijaksanaan penerbit dan bisa saja tidak dilakukan tanpa kewajiban apa pun kepada pemegang waran, apabila penerbit menilai penyesuaian tidak diperlukan."
+  ],
+  "fotoAdegan": "Television broadcast tower with satellite dishes against a cloudy Jakarta skyline in late afternoon light",
+  "takeaway": "Laporan ini netral bagi SCMA maupun Maybank Sekuritas, sebab penyesuaian harga pelaksanaan dan rasio konversi waran semata konsekuensi rumus baku yang sudah disepakati sejak prospektus diterbitkan 11 April 2025, bukan keputusan yang mencerminkan kondisi keuangan emiten. Yang tersentuh cuma syarat teknis waran terstruktur, yaitu surat berharga turunan yang memberi hak membeli saham SCMA pada harga dan rasio tertentu, sehingga penyesuaiannya memastikan nilai waran tidak otomatis tergerus begitu dividen tunai keluar dari kas SCMA. Harga pelaksanaan adalah patokan harga beli saham lewat waran, sementara rasio konversi menentukan berapa lembar waran dibutuhkan untuk menukar satu saham, dan keduanya diturunkan sebanding dengan dividen Rp8,4 per saham yang dibagikan. Yang perlu dipantau adalah tanggal efektif penyesuaian pada 28 Oktober 2026 untuk pasar reguler dan negosiasi serta 30 Oktober 2026 untuk pasar tunai, mengingat Maybank sebagai penerbit tetap punya opsi untuk membatalkan penyesuaian kalau dianggap tidak perlu, seperti yang sempat terjadi pada kasus waran AMRT pekan lalu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "elsa-komisaris-independen-ajukan-mundur-tunggu-restu-rups",
+  "category": "Aksi Korporasi",
+  "title": "ELSA: Komisaris Independen Ajukan [Mundur], Tunggu Restu RUPS",
+  "deck": "Komisaris Independen Elnusa, Abdul Hakim, mengajukan pengunduran diri pada 15 Oktober 2026 dan baru efektif setelah disetujui RUPS mendatang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:19:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/faee3c2171_e0bc335ee5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELSA",
+  "tags": [
+   "ELSA",
+   "Elnusa Tbk",
+   "komisaris independen",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "Elnusa Tbk (ELSA) melaporkan kepada OJK dan Bursa Efek Indonesia bahwa pada 15 Oktober 2026 perseroan menerima surat pengunduran diri dari Abdul Hakim selaku Komisaris Independen. Pengunduran diri ini belum langsung berlaku, karena baru efektif setelah disetujui dalam Rapat Umum Pemegang Saham (RUPS) Perseroan berikutnya, sesuai mekanisme yang diatur dalam Peraturan OJK No. 33/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik.",
+   "Dalam laporan keterbukaan informasi tersebut, manajemen Elnusa menyatakan bahwa peristiwa ini tidak berdampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan. Dokumen tidak mencantumkan alasan pengunduran diri Abdul Hakim, dan juga belum menyebut nama calon pengganti untuk mengisi kursi komisaris independen yang akan ditinggalkannya.",
+   "Surat resmi kepada OJK ditandatangani oleh Corporate Secretary Elnusa, sementara laporan keterbukaan informasi ke bursa dikirimkan oleh Sevy Liana selaku Manager Corporate Governance and BOD Support. Hingga laporan ini diterbitkan, Elnusa belum mengumumkan jadwal RUPS yang akan membahas persetujuan pengunduran diri tersebut."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in a Jakarta business district, afternoon light, pedestrians walking on the sidewalk below",
+  "takeaway": "Laporan ini netral bagi Elnusa, karena pengunduran diri satu komisaris independen adalah hal yang lazim terjadi dan perseroan sendiri menegaskan tidak ada dampak terhadap operasional atau keuangan. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan struktur pengawasan internal, sebab komisaris independen bertugas mengawasi manajemen secara independen dari pemegang saham pengendali dan biasanya ikut mengawal komite audit, sehingga kekosongan sementara pada posisi ini tetap relevan bagi investor meski tidak mengubah angka di laporan keuangan. Yang perlu dipantau selanjutnya adalah jadwal RUPS yang akan menyetujui pengunduran diri ini sekaligus kemungkinan menunjuk penggantinya, karena sampai rapat itu digelar Abdul Hakim secara teknis masih menjabat dan dokumen ini belum menyebutkan tanggal pastinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beef-pemegang-saham-tambah-44-7-juta-saham-suara-ke-7-07",
+  "category": "Aksi Korporasi",
+  "title": "BEEF: [Pemegang Saham] Tambah 44,7 Juta Saham, Suara ke 7,07%",
+  "deck": "Pemegang saham Dimas Wibowo menambah 44,7 juta lembar saham BEEF lewat pembelian tidak langsung pada Juli 2026, mengangkat hak suaranya dari 6,52 persen menjadi 7,07 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:18:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-8147-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEEF",
+  "tags": [
+   "BEEF",
+   "Estika Tata Tiara",
+   "pemegang saham",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Dimas Wibowo, pemegang saham PT Estika Tata Tiara Tbk (BEEF) yang bukan berasal dari jajaran direksi atau komisaris, melaporkan ke Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di BEEF bertambah dari 529.607.642 lembar menjadi 574.314.142 lembar, atau naik 44.706.500 lembar. Penambahan ini membuat hak suaranya di perusahaan naik dari 6,52 persen menjadi 7,07 persen.",
+   "Seluruh penambahan saham berasal dari pembelian tidak langsung yang dilakukan pada 7 Juli 2026, dengan harga per saham bervariasi antara Rp214 dan Rp260, tersebar dalam puluhan transaksi kecil sepanjang hari itu. Dalam dokumen yang disampaikan ke OJK, Dimas Wibowo mencantumkan tujuan transaksi sebagai menambah portofolio investasi untuk setiap baris pembelian tersebut. Laporan ini baru disampaikan pada 19 Oktober 2026, lebih dari tiga bulan setelah tanggal transaksi berlangsung.",
+   "Dengan tambahan ini, porsi saham Dimas Wibowo di BEEF tumbuh 8,44 persen dari posisi sebelumnya. Ia bukan bagian dari direksi maupun dewan komisaris BEEF, sehingga pelaporan ini masuk kategori keterbukaan pemegang saham biasa yang wajib disampaikan setiap kali kepemilikan atau hak suaranya berubah, sesuai Peraturan OJK Nomor 4/2024."
+  ],
+  "fotoAdegan": "Workers tending cattle in an open-air feedlot pen, rural Indonesia, soft morning light, no signage visible",
+  "takeaway": "Laporan ini condong positif bagi BEEF, karena pelapor menambah kepemilikannya, bukan melepasnya, dan kenaikan hak suara dari 6,52 persen ke 7,07 persen ini cukup besar dibandingkan posisi awalnya untuk dibaca sebagai tambahan keyakinan, bukan transaksi remah. Transaksi ini berupa pembelian tidak langsung di pasar sekunder, jadi tidak menambah jumlah saham beredar BEEF maupun mengubah laba per saham perusahaan, sebab saham yang dibeli Dimas Wibowo berasal dari pemegang lama, bukan penerbitan baru oleh perusahaan. Yang perlu dipantau berikutnya adalah apakah Dimas Wibowo melanjutkan penambahan saham, karena aturan OJK mewajibkan pelaporan baru setiap kali hak suaranya bergeser lagi sebesar 0,5 poin persentase, dan apakah posisinya bisa bergeser dari pemegang saham biasa menjadi pemegang saham pengendali jika tren pembelian ini berlanjut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bq-tetapkan-tanggal-pelaksanaan-waran-bqcv6a-30-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BQ Tetapkan Tanggal Pelaksanaan Waran [BQCV6A] 30 Oktober",
+  "deck": "PT Korea Investment and Sekuritas Indonesia (BQ) menjadwalkan pelaksanaan otomatis 22 waran terstruktur BQCV6A pada 30 Oktober 2026, mencakup waran berbasis ASII, TLKM, SMGR, dan saham lain.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:18:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c1f4310ade_2d46e873b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "waran terstruktur",
+   "BQCV6A",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia (BQ) menyampaikan keterbukaan informasi mengenai jadwal pelaksanaan otomatis 22 waran terstruktur berkode BQCV6A. Perdagangan waran ini berhenti efektif pukul 09.00 WIB pada Rabu, 28 Oktober 2026, setelah hari perdagangan terakhir pada Selasa, 27 Oktober 2026 pukul 16.00 WIB. Tanggal pelaksanaan jatuh pada Jumat, 30 Oktober 2026 pukul 09.00 WIB, dan seluruh waran ini akan dihapus dari daftar efek bursa mulai Senin, 2 November 2026 pukul 09.00 WIB.",
+   "Dua puluh dua kode waran tercakup dalam pemberitahuan ini, masing-masing dengan harga pelaksanaan dan rasio konversi sendiri: AADIBQCV6A Rp10.000 rasio 40:1, ACESBQCV6A Rp402 rasio 2,2814:1, AMMNBQCV6A Rp4.880 rasio 15:1, ASIIBQCV6A Rp7.225 rasio 29,388:1, BRPTBQCV6A Rp2.307 rasio 9,989:1, BUKABQCV6A Rp198 rasio 2:1, CUANBQCV6A Rp970 rasio 8:1, DSNGBQCV6A Rp1.460 rasio 8:1, ELSABQCV6A Rp770 rasio 5:1, EMTKBQCV6A Rp785 rasio 6:1, ERAABQCV6A Rp438 rasio 2,3292:1, HRTABQCV6A Rp2.750 rasio 15:1, INDFBQCV6A Rp7.472 rasio 33,529:1, INKPBQCV6A Rp9.596 rasio 39,5714:1, MAPABQCV6A Rp840 rasio 7,948:1, MBMABQCV6A Rp660 rasio 4:1, MDKABQCV6A Rp3.483 rasio 14,9277:1, MIKABQCV6A Rp3.190 rasio 19,454:1, PANIBQCV6A Rp8.800 rasio 40:1, PTROBQCV6A Rp5.700 rasio 50:1, SMGRBQCV6A Rp2.100 rasio 12,5:1, dan TLKMBQCV6A Rp3.376 rasio 11,0997:1.",
+   "Penyelesaian waran ini dilakukan secara tunai, bukan dengan penyerahan saham. BQ sebagai penerbit wajib membayar Jumlah Penyelesaian Tunai kepada pemegang waran dalam tiga hari bursa sejak tanggal pelaksanaan, yang dihitung dari jumlah waran dikalikan selisih antara harga penyelesaian dan harga pelaksanaan, lalu dibagi rasio pelaksanaan. Jika selisih itu nol atau negatif, waran otomatis berakhir tanpa nilai dan pemegang tidak perlu membayar apa pun, sementara jika positif, waran dieksekusi otomatis tanpa perlu pemberitahuan dari pemegang maupun penerbit. Dana hasil penyelesaian akan didistribusikan KSEI ke rekening partisipan pada hari bursa ketiga setelah tanggal pelaksanaan."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's financial district at dusk, street traffic passing below",
+  "takeaway": "Laporan ini netral karena jadwal pelaksanaan otomatis sudah diatur sejak awal penerbitan waran dan bukan keputusan baru dari BQ atau cerminan kondisi khusus apa pun. Yang tersentuh adalah arus kas BQ selaku penerbit, sebab jika Jumlah Penyelesaian Tunai pada tanggal pelaksanaan positif, artinya harga saham acuan berada di atas harga pelaksanaan yang sudah ditetapkan, BQ wajib membayar selisihnya secara tunai ke seluruh pemegang waran dalam tiga hari bursa. Sebaliknya, jika hasilnya nol atau negatif, waran kedaluwarsa tanpa nilai dan tidak ada kewajiban tambahan bagi BQ maupun pemegang. Yang perlu dipantau adalah Jumat, 30 Oktober 2026 pukul 09.00 WIB, saat status ke-22 waran ini ditentukan, serta tanggal delisting pada Senin, 2 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lpin-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "LPIN Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Multi Prima Sejahtera menjawab surat BEI 15 Oktober 2026, menyatakan tidak ada info material maupun rencana korporasi yang menjelaskan pergerakan harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:04:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9c1d963eae_2ea9131f4f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPIN",
+  "tags": [
+   "LPIN",
+   "Multi Prima Sejahtera",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Multi Prima Sejahtera Tbk (LPIN) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan nomor S-13154/BEI.PP2/10-2026 tertanggal 15 Oktober 2026 perihal volatilitas transaksi efek perseroan. Surat tanggapan bernomor 063/X/MPS/2026 itu ditandatangani Corporate Secretary LPIN, Rivaldi Yason Santoso, pada 19 Oktober 2026 dan dialamatkan kepada Adi Pratomo Aryanto, Kepala Divisi Penilaian Perusahaan 2 BEI.",
+   "Dalam suratnya, LPIN menjawab enam pertanyaan standar yang biasa diajukan bursa saat harga atau volume transaksi saham bergerak tidak lazim. Perseroan menyatakan sejauh pengetahuannya tidak ada informasi atau fakta material yang bisa memengaruhi nilai efek atau keputusan investasi pemodal, baik menurut POJK Nomor 31/POJK.04/2015 maupun Peraturan BEI Nomor I-E. LPIN juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham.",
+   "Terkait rencana ke depan, LPIN menyatakan tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang akan berdampak pada status pencatatan sahamnya di bursa, serta tidak ada informasi penting lain yang belum diungkapkan ke publik. Perseroan menambahkan bahwa berdasarkan konfirmasi kepada pemegang saham utama, belum ada rencana transaksi tertentu terkait kepemilikan sahamnya di LPIN."
+  ],
+  "fotoAdegan": "Wide shot of a quiet manufacturing workshop floor with metal auto parts on shelves, soft morning light through windows",
+  "takeaway": "Secara fundamental laporan ini netral, sebab LPIN tidak mengungkap angka atau keputusan baru, hanya menegaskan tidak ada perubahan apa pun di balik layar. Surat semacam ini muncul ketika BEI mencurigai ada lonjakan harga atau volume transaksi yang tidak wajar pada suatu saham, lalu meminta emiten mengonfirmasi apakah ada alasan bisnis yang sah di baliknya. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh dalam dokumen ini karena isinya murni konfirmasi, bukan transaksi keuangan. Yang perlu dipantau investor adalah apakah BEI lanjut mengumumkan status Unusual Market Activity pada saham LPIN, serta apakah dalam tiga bulan ke depan, kira-kira sampai pertengahan Januari 2027, benar tidak muncul tindakan korporasi seperti yang sudah dibantah perseroan dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "intp-dirut-christian-kartawijaya-mundur-jose-vadillo-gantikan",
+  "category": "Aksi Korporasi",
+  "title": "INTP: Dirut Christian Kartawijaya [Mundur], Jose Vadillo Gantikan",
+  "deck": "Direktur Utama Christian Kartawijaya mundur karena pensiun dan Komisaris Juan Francisco Defalque mundur karena alasan pribadi; RUPSLB 3 Desember 2026 menetapkan pengganti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:03:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/54e1575e77_72879d0250.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INTP",
+  "tags": [
+   "INTP",
+   "pergantian direksi",
+   "komisaris",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Indocement Tunggal Prakarsa Tbk (INTP) menyampaikan keterbukaan informasi bahwa Christian Kartawijaya, Direktur Utama perseroan, telah mengajukan surat pengunduran diri karena memasuki masa pensiun. Selain itu, Juan Francisco Defalque, anggota Dewan Komisaris, juga mengajukan pengunduran diri karena alasan pribadi. Kedua surat itu dilaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 19 Oktober 2026.",
+   "Pemegang saham mayoritas, Heidelberg Materials Group, mengusulkan susunan pengganti. Jose Maria Magrina Vadillo, yang saat ini menjabat Wakil Direktur Utama, diusulkan naik menjadi Direktur Utama menggantikan Christian Kartawijaya. Christian Kartawijaya sendiri diusulkan pindah posisi menjadi Presiden Komisaris, menggantikan Roberto Callieri, sementara Roberto Callieri diusulkan menjadi Komisaris menggantikan Juan Francisco Defalque.",
+   "Perseroan menyatakan pengunduran diri dan pengangkatan jajaran baru itu akan diputuskan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada 3 Desember 2026. INTP menyebut peristiwa ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan, dan keterbukaan ini disampaikan untuk memenuhi POJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik."
+  ],
+  "fotoAdegan": "Cement plant silos and conveyor belts under a hazy industrial sky, workers in hard hats near loading equipment, daytime",
+  "takeaway": "Pergantian ini condong netral bagi INTP, karena yang terjadi bukan pengunduran diri mendadak akibat masalah kinerja, melainkan suksesi terencana oleh pemegang saham mayoritas Heidelberg Materials Group, dengan Christian Kartawijaya tetap berada di jajaran pimpinan sebagai Presiden Komisaris setelah pensiun dari kursi Direktur Utama. Dokumen ini tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham, karena perubahan ini murni soal susunan direksi dan komisaris, bukan transaksi atau aksi korporasi yang mengubah struktur modal perseroan. Yang tetap perlu dicermati pelaku pasar adalah arah strategi Indocement ke depan, sebab calon Direktur Utama baru, Jose Maria Magrina Vadillo, sebelumnya sudah menjabat Wakil Direktur Utama, sehingga transisi kepemimpinan kemungkinan tidak mengubah kebijakan secara drastis. Yang dipantau berikutnya adalah RUPSLB pada 3 Desember 2026, saat pemegang saham akan mengesahkan pengunduran diri Christian Kartawijaya dan Juan Francisco Defalque serta resmi menetapkan susunan direksi dan komisaris yang baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lapd-tunda-rupslb-ke-29-oktober-ojk-minta-klarifikasi",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Tunda RUPSLB ke 29 Oktober, OJK Minta [Klarifikasi]",
+  "deck": "RUPSLB LAPD yang semula 20 Oktober ditunda ke 29 Oktober 2026 setelah OJK minta tambahan klarifikasi soal rencana PMHMETD II, transaksi material, dan transaksi afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T15:41:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fabac395eb_821bcb6d47.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "RUPSLB",
+   "OJK",
+   "PMHMETD"
+  ],
+  "body": [
+   "Leyand International Tbk (LAPD) menunda Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula dijadwalkan Selasa, 20 Oktober 2026 pukul 10.00 WIB di Meeting Room Maia Hotel, Jalan HBR Motik, Tanah Abang, Jakarta Pusat. Rapat dijadwalkan ulang ke Kamis, 29 Oktober 2026 pukul 13.00 WIB, di tempat yang sama. Perseroan menegaskan tidak akan melakukan pemanggilan ulang, mengacu pada Pasal 19 ayat 3 Peraturan OJK No. 15/POJK.04/2020 tentang penyelenggaraan RUPS perusahaan terbuka, sehingga pemegang saham tetap memakai panggilan rapat yang sudah terbit 28 September 2026.",
+   "Alasan penundaan menurut perseroan adalah masih adanya permintaan tambahan informasi dan klarifikasi dari OJK atas keterbukaan informasi yang sebelumnya disampaikan Leyand terkait rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD) II, transaksi material, dan transaksi afiliasi. Permintaan itu tertuang dalam surat OJK No. S-284/PM.211/2026 tertanggal 16 Oktober 2026. Leyand menyatakan akan menyampaikan tambahan atau perubahan keterbukaan informasi itu kepada seluruh pemegang saham dan publik melalui situs web perseroan, situs IDX, situs KSEI, serta sistem eASY.KSEI.",
+   "Enam agenda RUPSLB tidak berubah dari panggilan 28 September 2026, yaitu: persetujuan rencana PMHMETD II; persetujuan perubahan anggaran dasar; persetujuan penetapan pemegang saham pengendali perseroan sesuai Pasal 45 Peraturan OJK No. 45 Tahun 2024 tentang Pengembangan dan Penguatan Emiten dan Perusahaan Publik; persetujuan pengangkatan kembali atau perubahan susunan direksi; persetujuan perubahan anggaran dasar (agenda kedua); dan persetujuan perubahan alamat perseroan. Surat ditandatangani Direktur Utama Jamal Abdul Nasir Bamadhaj."
+  ],
+  "fotoAdegan": "Rows of empty chairs set up in a hotel conference room before a corporate meeting, soft morning light through curtains",
+  "takeaway": "Penundaan ini condong negatif bagi LAPD, karena yang menahan bukan perseroan sendiri melainkan OJK, yang masih meminta klarifikasi atas keterbukaan informasi soal penambahan modal dan transaksi afiliasi, tanda penjelasan awal perseroan belum dianggap lengkap oleh regulator. Agenda rapat ini langsung menyentuh jumlah saham beredar, sebab PMHMETD II berarti penerbitan saham baru lewat hak memesan efek terlebih dahulu, yang bisa menggerus laba per saham pemegang lama kalau mereka tidak ikut menebus haknya, sementara agenda penetapan pemegang saham pengendali akan menentukan siapa yang memegang kendali perseroan setelah rangkaian akuisisi BSS yang sudah kami laporkan sebelumnya. Yang perlu dipantau adalah RUPSLB pengganti pada Kamis, 29 Oktober 2026 pukul 13.00 WIB, dan tambahan keterbukaan informasi yang dijanjikan Leyand sebagai jawaban atas surat OJK bertanggal 16 Oktober 2026, karena isi tambahan itu akan menentukan apakah rencana penambahan modal dan transaksi afiliasi ini bisa lolos tanpa catatan lebih lanjut dari regulator.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tpia-revisi-periode-buyback-berakhir-lebih-cepat-ke-31-desember",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Revisi [Periode] Buyback, Berakhir Lebih Cepat ke 31 Desember",
+  "deck": "Chandra Asri Pacific mengoreksi ulang jadwal buyback saham senilai maksimal Rp1 triliun, mempersingkat periode pembelian dari semula berakhir 19 Januari 2027 menjadi 31 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T15:08:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9bfe110ef9_e75b96abcf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "buyback saham",
+   "Chandra Asri Pacific",
+   "OJK"
+  ],
+  "body": [
+   "PT Chandra Asri Pacific Tbk (TPIA) menerbitkan koreksi kedua atas keterbukaan informasi rencana pembelian kembali (buyback) sahamnya pada 19 Oktober 2026, hanya beberapa jam setelah revisi pertama pada hari yang sama. Koreksi ditandatangani Erri Dewi Riani, General Manager of Legal and Corporate Secretary perseroan. Yang diubah kali ini adalah jangka waktu pelaksanaan buyback: sebelumnya direncanakan berlangsung 20 Oktober 2026 sampai 19 Januari 2027, kini dipersingkat menjadi 19 Oktober 2026 sampai 31 Desember 2026. Dengan kata lain, meski mulai satu hari lebih cepat, batas akhir pelaksanaan buyback dimajukan sekitar 19 hari dari rencana semula.",
+   "Di luar perubahan jadwal itu, seluruh ketentuan inti buyback tetap sama seperti yang sudah diumumkan sebelumnya. Dana yang dialokasikan maksimal Rp1 triliun dari kas internal perseroan, untuk membeli kembali sebanyak-banyaknya 800 juta lembar saham atau 0,92 persen dari total saham beredar. Harga eksekusi dipatok pada kisaran Rp1.250 hingga Rp3.000 per saham, dan perseroan telah menunjuk PT Henan Putihrai Sekuritas sebagai pelaksana transaksi di BEI. Selama periode ini, jajaran komisaris, direksi, karyawan, dan pemegang saham utama dilarang bertransaksi atas saham TPIA.",
+   "Dokumen ini juga memuat simulasi dampak keuangan jika seluruh buyback direalisasikan, dihitung dari laporan keuangan per 30 Juni 2026. Total ekuitas perseroan diperkirakan turun dari US$4,964 miliar menjadi US$4,908 miliar, atau berkurang sekitar US$56 juta, karena kas yang dipakai membeli saham dicatat mengurangi ekuitas. Sementara itu, laba bersih per saham diperkirakan tetap di angka US$0,0033 karena laba periode berjalan tidak berubah. Saham yang dibeli kembali akan disimpan sebagai saham treasuri, dengan kewajiban mulai mengalihkannya dalam waktu dua tahun setelah tiga tahun masa penyimpanan, dan paling lambat diselesaikan satu tahun setelahnya."
+  ],
+  "fotoAdegan": "Workers in hard hats walking along an elevated pipe rack at a sprawling petrochemical plant, storage tanks in the background, Indonesia.",
+  "takeaway": "Koreksi ini condong netral bagi TPIA, karena yang berubah hanya jadwal pelaksanaan, sementara besaran dana (maksimal Rp1 triliun) dan jatah saham (maksimal 0,92 persen) tidak bergeser sedikit pun. Pos yang tersentuh adalah ekuitas, yaitu total kekayaan bersih perusahaan di atas utang, yang diperkirakan turun sekitar US$56 juta karena kas perusahaan dipakai membeli saham sendiri dan dicatat mengurangi ekuitas, sementara laba per saham diperkirakan tidak berubah karena laba bersihnya tetap sama. Memendeknya jatah waktu sekitar 19 hari berarti perseroan dan broker pelaksananya, PT Henan Putihrai Sekuritas, punya ruang lebih sempit untuk merealisasikan pembelian hingga 800 juta lembar saham itu. Yang perlu dipantau pembaca adalah realisasi buyback hingga tenggat baru 31 Desember 2026, serta kemungkinan keterbukaan informasi lanjutan jika perseroan memutuskan menghentikan program ini lebih awal sesuai aturan OJK.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "akku-gelar-paparan-publik-usai-suspensi-saham-oleh-bei",
   "category": "Aksi Korporasi",
   "title": "AKKU Gelar Paparan Publik usai [Suspensi] Saham oleh BEI",
@@ -448,6 +786,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pbsa-siapkan-buyback-rp100-miliar-di-tengah-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "PBSA Siapkan [Buyback] Rp100 Miliar di Tengah Pasar Bergejolak",
+  "deck": "PBSA berencana membeli kembali saham maksimal Rp100 miliar dari kas internal pada 20 Oktober 2026 hingga 19 Januari 2027, memakai aturan OJK untuk pasar yang berfluktuasi signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T09:47:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4b6bc883c1_92696b9e6e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PBSA",
+  "tags": [
+   "PBSA",
+   "buyback",
+   "saham treasury",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Paramita Bangun Sarana Tbk (PBSA) mengumumkan rencana pembelian kembali saham (buyback) di tengah kondisi pasar modal yang berfluktuasi signifikan. Rencana ini mengacu pada Peraturan OJK Nomor 13 Tahun 2023 dan surat Otoritas Jasa Keuangan Nomor S-112/D.04/2026 tanggal 9 September 2026, yang memungkinkan perusahaan terbuka melakukan buyback tanpa perlu persetujuan Rapat Umum Pemegang Saham lebih dulu. Periode pembelian berlangsung 20 Oktober 2026 sampai 19 Januari 2027, dengan dana maksimal Rp100 miliar yang bersumber dari kas internal perseroan, dan PT BCA Sekuritas ditunjuk sebagai pelaksana transaksi di bursa.",
+   "Jumlah saham yang akan dibeli kembali tidak akan melebihi 20 persen dari modal yang ditempatkan, dengan tetap menjaga batas minimum saham yang beredar di masyarakat. Dalam proforma laporan keuangan per 30 Juni 2026, jika seluruh anggaran Rp100 miliar terpakai, jumlah saham beredar rata-rata turun dari 5.969.772.600 lembar menjadi 5.620.122.250 lembar, atau berkurang 349.650.350 lembar. Laba bersih yang diatribusikan kepada pemilik entitas induk tetap di angka Rp27,086 miliar, sehingga laba bersih per saham dasar naik dari Rp4,54 menjadi Rp4,82. Perseroan mencatat bahwa angka saham ini sudah memperhitungkan stock split dengan rasio 1:2 yang efektif 14 Oktober 2026, sehingga tidak bisa dibandingkan langsung dengan laba per saham Rp9,05 yang tercatat di laporan keuangan resmi sebelum split.",
+   "Saham hasil buyback akan dibukukan sebagai saham treasury, yang berarti tidak punya hak suara di RUPS, tidak dihitung dalam kuorum rapat, dan tidak berhak menerima dividen selama belum dijual kembali. Komisaris, direktur, karyawan, pemegang saham utama, serta pihak yang memiliki informasi orang dalam dilarang bertransaksi atas saham PBSA selama periode buyback atau pada hari yang sama dengan penjualan saham treasury oleh perseroan. Buyback bisa berhenti lebih cepat jika target saham sudah terbeli, dana Rp100 miliar tercapai, atau manajemen memutuskan menghentikannya, dan jika itu terjadi perseroan wajib melapor ke OJK serta mengumumkannya ke publik paling lambat dua hari kerja setelah keputusan diambil."
+  ],
+  "fotoAdegan": "Modern office towers in Jakarta's financial district glowing under late afternoon light, moderate street traffic below",
+  "takeaway": "Laporan ini condong positif bagi PBSA, karena buyback dibiayai dari kas internal yang disebut perseroan masih cukup untuk operasional dan belanja modal, bukan dari utang, dan secara hitungan proforma justru menaikkan laba per saham. Yang tersentuh di sini adalah jumlah saham beredar dan laba per saham: kalau jumlah saham yang dibagi laba makin sedikit, porsi laba untuk setiap lembar saham yang tersisa ikut membesar, itu sebabnya proforma menunjukkan laba per saham naik dari Rp4,54 jadi Rp4,82 meski laba bersihnya sendiri tidak berubah. Yang perlu dipantau selanjutnya adalah realisasi aktual selama periode 20 Oktober 2026 sampai 19 Januari 2027, apakah dana yang benar-benar dipakai mendekati batas Rp100 miliar, serta laporan ke OJK dan publik yang wajib disampaikan dalam dua hari kerja apabila buyback dihentikan lebih awal.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pgas-jelaskan-ke-bei-dampak-putusan-arbitrase-gunvor",
   "category": "Aksi Korporasi",
   "title": "PGAS Jelaskan ke BEI Dampak Putusan Arbitrase [Gunvor]",
@@ -472,6 +836,32 @@ var ARTICLES = [
   "fotoAdegan": "Steel gas pipelines and storage tanks at an industrial terminal under an overcast sky, workers in hard hats inspecting valves",
   "takeaway": "Tanggapan ini condong negatif bagi PGN karena dua hal penting, nilai eksposur finansial dari putusan arbitrase Gunvor dan tanggal pasti penyampaian laporan keuangan paruh tahun, sama-sama belum diungkapkan sehingga ketidakpastian atas potensi beban keuangan Perseroan tetap menggantung. Pos yang berpotensi tersentuh adalah ekuitas dan arus kas, sebab jika PGN akhirnya harus membayar kompensasi sesuai putusan arbitrase, dana itu mengurangi kas perusahaan dan modal pemegang saham, sementara laba per saham, yakni bagian laba yang jadi hak tiap lembar saham, juga bisa ikut terkoreksi kalau provisi kerugian dicatat dalam laporan keuangan. Yang perlu dipantau berikutnya adalah penyampaian Laporan Keuangan Konsolidasian per 30 Juni 2026 begitu proses reviu Kantor Akuntan Publik selesai, karena di situlah dampak finansial putusan LCIA kemungkinan besar mulai terlihat dalam angka, selain perkembangan apakah PGN menempuh upaya hukum lanjutan atas putusan arbitrase tersebut.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "doid-dampak-karhutla-ke-operasional-buma-tak-material",
+  "category": "Aksi Korporasi",
+  "title": "DOID: Dampak Karhutla ke Operasional BUMA [Tak Material]",
+  "deck": "Anak usaha DOID, BUMA, menjawab permintaan penjelasan BEI dan menyatakan kabut asap Karhutla di Kalimantan hanya mengganggu jarak pandang, tidak berdampak ke produksi maupun pendapatan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T09:26:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2dca6fcad5_edd31cc219.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOID",
+  "tags": [
+   "DOID",
+   "Karhutla",
+   "BUMA",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT BUMA Internasional Grup Tbk (DOID) mengirimkan surat tanggapan bernomor 291/BIG/CORSEC/X/2026 kepada Bursa Efek Indonesia pada 19 Oktober 2026, menjawab surat permintaan penjelasan BEI nomor S-13033/BEI.PP1/10-2026 yang diterima perseroan pada 13 Oktober 2026 terkait potensi dampak kebakaran hutan dan lahan (Karhutla). Surat tanggapan ditandatangani oleh Direktur DOID, Dian Paramita, dan disampaikan ke publik oleh Corporate Secretary Olga Oktavia Patuwo.",
+   "Dalam jawabannya, DOID menjelaskan bahwa seluruh kegiatan anak usahanya, PT Bukit Makmur Mandiri Utama (BUMA), berupa jasa kontraktor tambang batu bara yang dikerjakan di area konsesi milik pelanggan BUMA, dan seluruhnya berlokasi di Kalimantan. Hingga surat diterbitkan, dampak Karhutla yang teridentifikasi hanya berupa gangguan jarak pandang akibat kabut asap di sejumlah area operasional, dan perseroan menegaskan dampak itu tidak material terhadap total produksi maupun pendapatan Grup. DOID juga memastikan tidak ada penghentian operasional yang tidak terencana (unplanned shutdown) di lokasi kerja BUMA akibat Karhutla, serta tidak ada proses hukum atau sanksi administratif yang sedang maupun berpotensi dihadapi perseroan terkait Karhutla.",
+   "Sebagai langkah mitigasi jangka pendek, BUMA memantau titik api dan kualitas udara secara aktif, menyiapkan personel dan peralatan pemadam kebakaran, menjalankan prosedur tanggap darurat, serta menurunkan Tim Emergency Response Team (ERT) miliknya untuk membantu penanganan Karhutla di lapangan. Untuk jangka panjang, perseroan dan BUMA melakukan evaluasi berkala atas kesiapan tanggap darurat di setiap wilayah operasional, pemetaan risiko, dan koordinasi rutin dengan pelanggan serta instansi berwenang. DOID menyatakan tidak ada informasi material lain terkait Karhutla yang belum diungkapkan ke publik, dan berkomitmen mengungkapkan keterbukaan informasi lanjutan apabila muncul fakta material baru."
+  ],
+  "fotoAdegan": "Hazy orange sky over an open-pit coal mine in Kalimantan, heavy equipment silhouetted through smoke haze at dawn",
+  "takeaway": "Tanggapan ini condong netral bagi DOID: perseroan hanya mengonfirmasi bahwa risiko yang dikhawatirkan pasar, yaitu gangguan Karhutla, belum terjadi secara material, tapi tidak ada angka atau katalis baru yang mengubah proyeksi bisnisnya. Pos yang disentuh adalah produksi dan pendapatan Grup, karena BUMA adalah kontraktor jasa tambang yang pendapatannya bergantung langsung pada volume batu bara yang bisa dipindahkan untuk pelanggan di Kalimantan, sehingga gangguan operasional seperti asap tebal berpotensi menunda pekerjaan dan menekan pendapatan kalau berlanjut lama. Yang perlu dipantau berikutnya adalah perkembangan musim kemarau di Kalimantan dalam beberapa pekan ke depan, karena DOID sendiri menyatakan akan terus memantau situasi dan wajib menerbitkan keterbukaan informasi baru kalau dampaknya berubah menjadi material terhadap produksi, pendapatan, atau operasional BUMA.",
+  "sentimen": "netral"
  },
  {
   "slug": "brif-tetapkan-ulang-komite-audit-efektif-15-oktober-2026",

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "aUGK-cjjHoA",
+  "title": "OJK, Menkeu, dan Gubernur BI Hadiri Rapat Terbatas Ekonomi",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto mengumpulkan OJK, Menteri Keuangan, dan Gubernur Bank Indonesia dalam rapat terbatas membahas kondisi ekonomi nasional di Jakarta.",
+  "takeaway": "Pertemuan ini layak diikuti karena melibatkan otoritas fiskal dan moneter utama yang menentukan arah kebijakan ekonomi.",
+  "terbit": "2026-10-19T16:00:53+00:00"
+ },
+ {
+  "id": "60BYgOB0Adw",
+  "title": "Menteri ESDM Pastikan Stok BBM di Bali Kembali Normal",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Menteri ESDM Bahlil Lahadalia menyatakan pasokan bahan bakar minyak di Bali sudah kembali normal setelah sempat terganggu akibat keterlambatan kapal.",
+  "takeaway": "Kabar ini penting bagi pelaku usaha dan masyarakat Bali yang bergantung pada kelancaran distribusi energi.",
+  "terbit": "2026-10-19T15:57:05+00:00"
+ },
+ {
   "id": "Yst8wLp798o",
   "title": "Kopdes Ciptakan Kemandirian atau Ketergantungan? Jawaban Menteri Desa",
   "category": "UMKM",

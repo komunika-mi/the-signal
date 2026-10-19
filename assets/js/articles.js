@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bni-pertahankan-predikat-tertinggi-tata-kelola-2-tahun",
+  "category": "Perbankan",
+  "title": "BNI [Pertahankan] Predikat Tertinggi Tata Kelola 2 Tahun",
+  "deck": "BNI mempertahankan predikat Leadership in Corporate Governance di ajang IICD 2026, dua tahun berturut-turut setelah naik kelas dari kategori Best Overall pada 2025.",
+  "image": "assets/img/bni-pertahankan-predikat-tertinggi-tata-kelola-2-tahun.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T21:58:53+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473881-bni-pertahankan-predikat-tertinggi-penerapan-gcg-dua-tahun-berturut-turut",
+  "tags": [
+   "BNI",
+   "Tata Kelola Perusahaan",
+   "IICD",
+   "KBMI 4"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk kembali menyabet predikat tertinggi dalam penilaian tata kelola perusahaan, Leadership in Corporate Governance, pada The 17th IICD Corporate Governance Award 2026. Ini tahun kedua berturut-turut BNI mempertahankan predikat tersebut, menandai konsistensi penerapan prinsip pengelolaan perusahaan yang baik di tengah pengawasan industri keuangan yang makin ketat.",
+   "Pencapaian ini melanjutkan tren kenaikan sejak 2025, ketika BNI naik kelas dari kategori Best Overall ke Leadership in Corporate Governance. Penghargaan diserahkan Indonesian Institute for Corporate Directorship pada 12 Oktober 2026 di Bursa Efek Indonesia, Jakarta, dan dalam kesempatan yang sama BNI juga masuk daftar Top 50 Emiten BigCap Public Listed Company serta tercatat sebagai bank dengan tata kelola terbaik di kelompok KBMI 4, yaitu kelompok bank dengan modal inti terbesar di Indonesia.",
+   "Penilaian IICD memakai metodologi ASEAN Corporate Governance Scorecard yang mengevaluasi sejumlah aspek, antara lain keterbukaan informasi, tanggung jawab pengurus perusahaan, keberlanjutan usaha, dan perlindungan hak pemegang saham. Corporate Secretary BNI Okki Rushartomo mengatakan penghargaan ini menjadi pendorong bagi perseroan untuk terus menjaga kualitas tata kelola dalam setiap proses bisnis dan pengambilan keputusan, karena tata kelola dinilai sebagai fondasi menjaga kepercayaan pemegang saham, nasabah, dan pemangku kepentingan lain.",
+   "Menurut Okki, dinamika industri keuangan saat ini menuntut pengelolaan risiko, pengawasan, dan keterbukaan informasi yang semakin kuat. Karena itu, BNI menyatakan akan terus mendorong penerapan prinsip kehati-hatian dan integritas di seluruh lini organisasi, sembari menjadikan penguatan tata kelola sebagai bagian dari upaya menjaga fundamental bisnis dan pertumbuhan jangka panjang."
+  ],
+  "fotoAdegan": "Bank employees walking through a glass-walled headquarters lobby in Jakarta, modern interior, soft morning daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/19/6ad62f8185e38-bni-kembali-meraih-penghargaan-leadership-in-corporate-governance-dalam-ajang-the-17th-iicd-corporate-governance-award-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah lompatan kategori BNI dari Best Overall pada 2025 ke Leadership in Corporate Governance, predikat tertinggi IICD, yang kini dipertahankan dua tahun beruntun, sekaligus status sebagai bank dengan tata kelola terbaik di kelompok KBMI 4, kelompok bank bermodal inti paling besar di Indonesia. Pihak yang paling berkepentingan adalah pemegang saham dan nasabah BNI, sebab skor tata kelola seperti ini lazim dipakai investor sebagai salah satu alat ukur risiko sebuah bank, di luar angka laba atau rasio kredit bermasalah. Tren naik lalu bertahan di puncak selama dua tahun ini mengarah ke penguatan tata kelola yang sifatnya struktural, bukan sekadar pencapaian satu tahun, karena penilaian IICD mencakup banyak aspek sekaligus seperti keterbukaan informasi dan perlindungan hak pemegang saham. Yang belum bisa dipastikan dari keterangan ini adalah apakah posisi tersebut berkaitan dengan penilaian kesehatan bank versi regulator atau berdiri sendiri sebagai penghargaan industri. Penanda yang layak ditunggu adalah hasil IICD Corporate Governance Award edisi berikutnya tahun depan, untuk melihat apakah BNI bertahan di puncak atau bank besar lain di kelompok KBMI 4 mulai menyusul.",
+  "imageV": "mvfh5f09"
+ },
+ {
   "slug": "ekspor-bumbu-ri-capai-kesepakatan-us-5-juta-di-tei",
   "category": "Bisnis",
   "title": "Ekspor Bumbu RI Capai Kesepakatan [US$5 Juta] di TEI",
@@ -413,7 +440,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah tahapannya, bukan isi perjanjiannya. Substansi IEU-CEPA sudah disepakati sejak September 2025 dan pengecekan hukumnya rampung Agustus 2026, sekarang pemerintah mengejar agar perjanjian diteken sebelum akhir 2026 supaya bisa mulai berlaku awal 2027. Yang paling terdampak adalah eksportir di sektor sawit, otomotif, kopi, kakao, karet, baja, kayu olahan, dan perikanan, karena sektor itulah yang disebut berpotensi mendorong tambahan ekspor hingga US$10,9 miliar kalau tarif ke Uni Eropa turun. Arah yang terlihat sekarang adalah bola sedang di sisi Uni Eropa, karena proposalnya sudah ada di tangan Dewan Uni Eropa sejak Juni 2026 dan tinggal menunggu persetujuan internal mereka, bukan lagi negosiasi dengan Indonesia. Yang akan memastikan apakah target awal 2027 itu realistis adalah apakah penandatanganan benar-benar terjadi sebelum tutup tahun 2026 seperti yang dikejar kedua pihak.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "esdm-akui-distribusi-bbm-ke-luar-jawa-masih-tersendat",
@@ -1223,7 +1250,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang baru di sini bukan aturan baru, melainkan alat ukur: untuk pertama kalinya pemerintah punya data akses keuangan sampai level kabupaten/kota, dan datanya sudah dipakai 341 kabupaten/kota serta masuk rencana pembangunan di 38 provinsi. Pihak yang terdampak adalah pemerintah daerah yang menyusun program dan anggaran, serta warga di daerah yang selama ini kondisinya tidak terlihat karena data yang ada hanya angka rata-rata nasional. Siaran pers ini belum menjelaskan apakah skor IKAD akan dijadikan syarat alokasi anggaran atau insentif bagi daerah tertinggal, atau sekadar alat pemantau tanpa konsekuensi anggaran apa pun. Yang perlu dicermati adalah apakah Survei Nasional Literasi dan Inklusi Keuangan OJK berikutnya menunjukkan kesenjangan antardaerah mulai menyempit, karena itu baru bukti nyata bahwa dashboard ini mengubah arah kebijakan, bukan sekadar menambah data baru.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "bukk-bentuk-3-anak-usaha-baru-di-sektor-energi-terbarukan",
@@ -1277,7 +1305,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari acara ini adalah angka, bukan aturan baru: aset keuangan syariah Indonesia tercatat Rp3.264 triliun per Juni 2026, tumbuh hampir 10 persen dibanding tahun sebelumnya. Tapi porsi perbankan syariah dibanding seluruh perbankan nasional masih sekitar 7 persen, artinya dari setiap Rp100 dana yang berputar di perbankan nasional baru sekitar Rp7 yang mengalir lewat bank syariah. Angka ini relevan bagi pelaku usaha syariah dan UMKM yang mengandalkan pembiayaan syariah, karena menunjukkan sektor ini masih jauh lebih kecil dibanding perbankan konvensional meski asetnya terus tumbuh. Bank Indonesia menyebut sedang menyiapkan aturan jual-beli kembali surat utang syariah antarbank (disebut repo syariah) dan dana talangan darurat berbasis syariah, tapi belum ada tanggal atau aturan resmi yang diumumkan dalam forum ini, sehingga yang perlu dipantau adalah apakah rencana itu akan dituangkan menjadi ketentuan resmi BI dalam waktu dekat.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "rupslb-abmm-setujui-pengunduran-diri-direktur-haris-mustarto",

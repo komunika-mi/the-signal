@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bni-pertahankan-predikat-tertinggi-tata-kelola-2-tahun",
+  "category": "Perbankan",
+  "title": "BNI [Pertahankan] Predikat Tertinggi Tata Kelola 2 Tahun",
+  "deck": "BNI mempertahankan predikat Leadership in Corporate Governance di ajang IICD 2026, dua tahun berturut-turut setelah naik kelas dari kategori Best Overall pada 2025.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/bni-pertahankan-predikat-tertinggi-tata-kelola-2-tahun.jpg",
+  "imageV": "mvfh5f09",
+  "tags": [
+   "BNI",
+   "Tata Kelola Perusahaan",
+   "IICD",
+   "KBMI 4"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473881-bni-pertahankan-predikat-tertinggi-penerapan-gcg-dua-tahun-berturut-turut"
+ },
+ {
   "slug": "ekspor-bumbu-ri-capai-kesepakatan-us-5-juta-di-tei",
   "category": "Bisnis",
   "title": "Ekspor Bumbu RI Capai Kesepakatan [US$5 Juta] di TEI",
@@ -6521,21 +6538,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472616-telkom-akselerasi-program-streamlining-pastikan-portofolio-telkomgroup-fokus-pada-bisnis-inti"
- },
- {
-  "slug": "ijee-bayar-kupon-obligasi-dan-sukuk-rp52-99-miliar-tepat-waktu",
-  "category": "Aksi Korporasi",
-  "title": "IJEE Bayar Kupon [Obligasi] dan Sukuk Rp52,99 Miliar Tepat Waktu",
-  "deck": "IJEE melunasi bunga dan imbalan Obligasi III serta Sukuk Ijarah II senilai total Rp52,99 miliar ke pemegang efek lewat KSEI pada 9 Oktober 2026, sesuai tanggal jatuh tempo.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IJEE",
-   "obligasi",
-   "sukuk ijarah",
-   "pembayaran kupon"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fec6ed3b81_a29994af0e.pdf",
-  "sourceLabel": "IDX"
  }
 ];

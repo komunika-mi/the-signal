@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "aUGK-cjjHoA",
+  "title": "OJK, Menkeu, dan Gubernur BI Hadiri Rapat Terbatas Ekonomi",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto mengumpulkan OJK, Menteri Keuangan, dan Gubernur Bank Indonesia dalam rapat terbatas membahas kondisi ekonomi nasional di Jakarta.",
+  "takeaway": "Pertemuan ini layak diikuti karena melibatkan otoritas fiskal dan moneter utama yang menentukan arah kebijakan ekonomi."
+ },
+ {
+  "id": "60BYgOB0Adw",
+  "title": "Menteri ESDM Pastikan Stok BBM di Bali Kembali Normal",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Menteri ESDM Bahlil Lahadalia menyatakan pasokan bahan bakar minyak di Bali sudah kembali normal setelah sempat terganggu akibat keterlambatan kapal.",
+  "takeaway": "Kabar ini penting bagi pelaku usaha dan masyarakat Bali yang bergantung pada kelancaran distribusi energi."
+ },
+ {
   "id": "Yst8wLp798o",
   "title": "Kopdes Ciptakan Kemandirian atau Ketergantungan? Jawaban Menteri Desa",
   "category": "UMKM",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Kadin menggelar audiensi dengan Duta Besar RI untuk Belgia, Luksemburg, dan Uni Eropa guna membahas perjanjian dagang serta mendorong investasi dan perdagangan.",
   "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan hubungan dagang Indonesia dengan Uni Eropa."
- },
- {
-  "id": "oTFWS1yAf6I",
-  "title": "Kadin dan Kementerian LH Dorong Investasi Hilirisasi",
-  "category": "Industri",
-  "program": "Kabar Utama",
-  "summary": "Kadin Indonesia bersama Kementerian Lingkungan Hidup menggelar rapat koordinasi nasional di bidang investasi, energi, dan lingkungan hidup untuk mendorong hilirisasi.",
-  "takeaway": "Penting bagi pembaca yang mencermati arah kebijakan investasi dan hilirisasi industri nasional."
- },
- {
-  "id": "pQ-8TkROZNQ",
-  "title": "Menko AHY Hadiri Digital Infrastructure Summit",
-  "category": "Teknologi",
-  "program": "Kabar Hari Ini",
-  "summary": "Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono menghadiri Digital Infrastructure Summit dan menyoroti kebutuhan infrastruktur untuk mendukung ekonomi digital Indonesia.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan infrastruktur yang menopang pertumbuhan ekonomi digital nasional."
  }
 ];

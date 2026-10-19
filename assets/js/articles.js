@@ -1009,10 +1009,10 @@ var ARTICLES = [
    "Seminar yang dihadiri sekitar 90 peserta itu merupakan bagian dari Bulan Literasi Perdagangan Berjangka Komoditi 2026 yang dibuka Menteri Perdagangan pada 8 Oktober 2026. Ketua PPEDI Anang Samsudin menambahkan bahwa pencatatan transaksi emas digital dilakukan secara digital namun tetap berbasis emas fisik yang disimpan kustodian, dan kesesuaian jumlah emas nasabah dengan emas fisik yang tersimpan harus diperiksa secara berkala. Bappebti mengimbau masyarakat memegang prinsip legal dan logis sebelum bertransaksi, yakni memastikan platform berizin dan mekanisme investasinya masuk akal."
   ],
   "fotoAdegan": "Close-up of small gold bars and coins displayed on a velvet tray inside a secure vault, soft focused lighting",
-  "fotoSumber": "https://www.kemendag.go.id/albums/98S6jOzzSTKcQYAQ6MmGme9TNrbKcL1NDOzqdIW8.jpg",
+  "fotoSumber": "https://www.kemendag.go.id/albums/1qiSCIBaG44I9N4GC8ayZwUc5z42uK85QBlnRGWe.jpg",
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah konkret bukan cuma angka transaksi yang melonjak dari Rp40,41 triliun jadi Rp299,49 triliun dalam delapan bulan, tapi juga syarat baru yang kini wajib dipenuhi platform emas digital, mulai dari sertifikasi keamanan sistem ISO 27001 sampai program anti pencucian uang. Yang terdampak langsung ada dua pihak: masyarakat yang membeli emas digital sebagai investor ritel, dan perusahaan penyedia platform, mulai dari bursa, pedagang, sampai pengelola penyimpanan, yang kini harus mengurus kepatuhan tambahan. Polanya mengarah ke pengetatan tata kelola yang berjalan berdampingan dengan pertumbuhan pasar, bukan pelonggaran, karena syarat sertifikasi dan anti pencucian uang justru diperkenalkan saat transaksi sedang melonjak tajam. Yang akan menunjukkan apakah arah ini konsisten adalah data transaksi emas digital periode berikutnya yang biasa dirilis Bappebti secara berkala, serta sejauh mana platform yang ada benar-benar sudah mengantongi sertifikasi ISO yang diwajibkan itu.",
-  "imageV": "mvcm81i8"
+  "imageV": "mvf0u33m"
  },
  {
   "slug": "eksportir-ke-eropa-harus-penuhi-eudr-sebelum-cepa-diteken",

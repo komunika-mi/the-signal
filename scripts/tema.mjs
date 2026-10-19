@@ -117,12 +117,106 @@ export const TEMA = [
       'terkonsentrasi ke usaha kecil, dan apakah penyalurannya mengikuti janjinya.',
     kata: /\bKUR\b|mekaar|ultra ?mikro|pembiayaan umkm|kredit umkm/i,
   },
+  // Dua tema di bawah lahir dari agenda, bukan dari daftar isu yang kelihatan
+  // besar. Pelajaran 19 Oktober 2026: taruhan hanya hidup kalau arsip tema itu
+  // memuat TANGGAL MAJU. Pembiayaan UMKM punya 32 artikel dan BBM subsidi 17,
+  // tapi keduanya nol tanggal maju, jadi taruhannya tidak akan pernah tercatat.
+  // Aksi korporasi sebaliknya: tanggalnya disebut terang di tiap laporan.
+  {
+    slug: 'gagal-bayar-emiten',
+    nama: 'Gagal Bayar dan Restrukturisasi Utang',
+    deskripsi: 'Emiten yang meleset membayar kupon obligasi dan sukuk, rapat pemegang ' +
+      'surat utang yang menyusul, dan sejauh mana persoalannya menular ke emiten lain.',
+    kata: /gagal bayar|wanprestasi|\bRUPO\b|\bRUPSU\b|restrukturisasi (utang|obligasi|sukuk)|going concern/i,
+    taruhan: {
+      pertanyaan: 'Apakah gagal bayar surat utang emiten meluas, atau tetap kasus per kasus?',
+      pemutus: 'Pemegang obligasi lewat RUPO dan RUPSU, bersama manajemen emiten yang menawarkan jalan keluar',
+      polaPutusan: /rupo|rupsu|gagal bayar|jatuh tempo|pelunasan|restrukturisasi/i,
+      ambang: [
+        'Nilai obligasi dan sukuk emiten yang jatuh tempo dalam tiga bulan ke depan',
+        'Kas dan arus kas penerbit yang sedang bermasalah',
+        'Hasil RUPO atau RUPSU: perpanjangan tempo, potongan bunga, atau konversi jadi saham',
+        'Sikap BEI dan OJK, termasuk suspensi dan permintaan penjelasan',
+      ],
+      cabang: [
+        {
+          nama: 'Tetap kasus per kasus',
+          arti: 'Masalahnya terbatas pada emiten yang memang sudah lama berat, tanpa penerbit baru menyusul.',
+        },
+        {
+          nama: 'Meluas ke lebih banyak emiten',
+          arti: 'Penerbit lain ikut meleset bayar, dan pasar surat utang korporasi mengetat untuk semua.',
+        },
+        {
+          nama: 'Tertahan lewat restrukturisasi',
+          arti: 'Tidak ada gagal bayar baru karena temponya diperpanjang atau utangnya diubah jadi saham.',
+        },
+      ],
+    },
+  },
+  {
+    slug: 'go-private-emiten',
+    nama: 'Gelombang Go Private',
+    deskripsi: 'Pengendali yang membeli balik sahamnya lalu membawa perusahaannya keluar ' +
+      'dari bursa: tender sukarela, suspensi, dan apa artinya bagi kedalaman pasar.',
+    kata: /go private|tender (offer|sukarela)|penawaran tender|refloat|delisting saham/i,
+    taruhan: {
+      pertanyaan: 'Apakah gelombang emiten keluar dari bursa berlanjut?',
+      pemutus: 'Pengendali emiten lewat RUPSLB dan tender sukarela, dengan OJK dan BEI sebagai pemberi izin',
+      polaPutusan: /go private|tender|rupslb|refloat|delisting/i,
+      ambang: [
+        'Jumlah permohonan go private baru yang tercatat BEI',
+        'Selisih harga tender terhadap harga pasar, yang menentukan pemegang saham publik ikut atau menolak',
+        'Penegakan aturan saham beredar minimum dan sanksinya',
+        'Ongkos tetap menjadi perusahaan terbuka dibanding manfaatnya saat likuiditas menipis',
+      ],
+      cabang: [
+        {
+          nama: 'Berlanjut dan bertambah',
+          arti: 'Permohonan baru terus masuk, papan bursa kehilangan emiten lebih cepat daripada menambah.',
+        },
+        {
+          nama: 'Mereda',
+          arti: 'Yang sudah berjalan diselesaikan, tapi tidak ada gelombang pengikut.',
+        },
+        {
+          nama: 'Tertahan aturan atau penolakan pemegang saham',
+          arti: 'Rencana keluar bursa gagal di RUPSLB, atau tersendat izin dan syarat dari otoritas.',
+        },
+      ],
+    },
+  },
   {
     slug: 'danantara',
     nama: 'Langkah Danantara',
     deskripsi: 'Ke mana dana kelolaan Danantara bergerak: porsi saham BEI, penempatan ' +
       'di BUMN, dan pergeseran kendali di lembaga-lembaga keuangan.',
     kata: /danantara/i,
+    taruhan: {
+      pertanyaan: 'Apakah penambahan modal yang diumumkan untuk BUMN benar-benar disetujui dan cair, bukan berhenti di rencana?',
+      pemutus: 'Pemegang saham BUMN terkait lewat RUPS, bersama Danantara sebagai pengelola',
+      polaPutusan: /rups|penambahan modal|setoran modal|suntikan modal|rights issue|pmn/i,
+      ambang: [
+        'Hasil RUPS atau RUPSLB yang agendanya penambahan modal',
+        'Urutan prioritas penempatan dana kelolaan Danantara dan kesiapan dananya',
+        'Kondisi keuangan BUMN yang akan disuntik, termasuk riwayat gagal bayar',
+        'Sikap Kementerian BUMN dan DPR atas penempatan tersebut',
+      ],
+      cabang: [
+        {
+          nama: 'Disetujui dan cair',
+          arti: 'RUPS meloloskan penambahan modalnya dan dananya benar-benar masuk sesuai jadwal yang diumumkan.',
+        },
+        {
+          nama: 'Disetujui tapi bertahap atau tertunda',
+          arti: 'Persetujuannya ada, tapi pencairannya dipecah atau mundur dari jadwal semula.',
+        },
+        {
+          nama: 'Batal atau berganti skema',
+          arti: 'Penambahan modal tidak jadi, diganti pinjaman, penjaminan, atau restrukturisasi.',
+        },
+      ],
+    },
   },
   {
     slug: 'ruu-ketenagakerjaan',

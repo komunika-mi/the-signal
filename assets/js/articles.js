@@ -3,6 +3,188 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dnrk-ganti-satu-anggota-komite-audit-mulai-15-oktober",
+  "category": "Aksi Korporasi",
+  "title": "DNRK ganti satu anggota [Komite Audit] mulai 15 Oktober",
+  "deck": "PT Danareksa (DNRK) mengganti satu anggota komite audit, dari Gideon Siallagan ke Zulfahmy Wahab, efektif 15 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T10:09:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d13204ccc5_2d5a83d677.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DNRK",
+  "tags": [
+   "DNRK",
+   "komite audit",
+   "Danareksa",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Danareksa (Persero) atau DNRK mengumumkan perubahan susunan komite audit berdasarkan Keputusan Dewan Komisaris Nomor KEP-18/DK-DR/X/2026 tanggal 15 Oktober 2026. Posisi ketua tetap dijabat Abdullah Aufa Fuad, dan dua anggota, Didid Noordiatmoko serta Dodi Hardiansyah, juga tidak berubah. Satu kursi anggota beralih tangan, dari sebelumnya Gideon Siallagan ke Zulfahmy Wahab, dan perubahan ini berlaku efektif sejak 15 Oktober 2026.",
+   "Surat pemberitahuan ini disampaikan kepada Otoritas Jasa Keuangan dan PT Bursa Efek Indonesia pada 19 Oktober 2026, ditandatangani oleh Corporate Secretary PT Danareksa (Persero) melalui Office of the Board Department Head, Nur Hira Windria. Surat yang sama juga ditembuskan kepada PT Bank Rakyat Indonesia (Persero) Tbk selaku wali amanat dan PT Pemeringkat Efek Indonesia, menunjukkan bahwa laporan ini terkait dengan kewajiban keterbukaan informasi emiten penerbit instrumen utang yang diawasi lembaga pemeringkat dan wali amanat."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with polished wooden table and leather chairs, city skyline visible through large windows, soft morning light",
+  "takeaway": "Penilaian redaksi netral, karena ini murni pergantian satu personel di badan pengawas internal, bukan perubahan yang menyentuh arus kas, ekuitas, atau beban bunga perseroan. Komite audit sendiri adalah tim independen yang tugasnya mengecek apakah laporan keuangan perusahaan sudah wajar dan sesuai aturan, sehingga pergantian anggotanya penting untuk tata kelola tapi tidak langsung mengubah angka-angka kinerja. Yang perlu dipantau selanjutnya adalah bagaimana susunan komite audit yang baru ini menjalankan fungsi pengawasannya saat laporan keuangan tahun buku 2026 nanti diterbitkan, mengingat dokumen ini sendiri tidak mencantumkan agenda atau tenggat formal lain setelah tanggal efektif 15 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgas-jelaskan-ke-bei-dampak-putusan-arbitrase-gunvor",
+  "category": "Aksi Korporasi",
+  "title": "PGAS Jelaskan ke BEI Dampak Putusan Arbitrase [Gunvor]",
+  "deck": "PGN merespons permintaan penjelasan Bursa soal putusan sebagian LCIA atas kontrak dengan Gunvor dan rencana penyampaian laporan keuangan paruh tahun 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T09:43:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd383773ef_33480fc75b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGAS",
+  "tags": [
+   "PGAS",
+   "arbitrase",
+   "LCIA",
+   "Gunvor"
+  ],
+  "body": [
+   "PT Perusahaan Gas Negara (Persero) Tbk (PGAS) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-13148/BEI.PP2/10-2026 tertanggal 15 Oktober 2026. Surat itu meminta penjelasan soal dampak putusan sebagian London Court of International Arbitration (LCIA) atas kontrak penjualan gas Perseroan kepada Gunvor Pte Ltd. Dalam surat balasan bernomor 063500.S/KU.06.01/COS/2026 yang ditandatangani Corporate Secretary PGN, Fajriyah Usman, Perseroan menyatakan masih berkoordinasi dengan para pemangku kepentingan terkait untuk mencari solusi terbaik atas putusan tersebut, sembari memastikan kinerja dan kegiatan usahanya tetap berjalan normal.",
+   "Mengenai dampak keuangan dan nilai eksposur dari putusan LCIA, PGN menyebut masih melakukan penelaahan menyeluruh terhadap putusan arbitrase tersebut, termasuk segala upaya hukum yang dimungkinkan berdasarkan peraturan yang berlaku. Perseroan menyatakan dampaknya terhadap Laporan Keuangan Konsolidasian per 30 Juni 2026 masih dihitung bersamaan dengan proses reviu oleh Kantor Akuntan Publik, sehingga nilai eksposur finansial dari putusan tersebut belum diungkapkan dalam surat ini.",
+   "Terkait rencana penyampaian Laporan Keuangan Tengah Tahunan 2026 yang ditelaah terbatas, PGN memastikan akan segera menyerahkan laporan itu kepada Otoritas Jasa Keuangan setelah proses reviu akuntan publik selesai, tanpa menyebutkan tanggal pasti. Bursa memberi tenggat dua hari bursa sejak surat permintaan diterima untuk merespons, dan PGN menyampaikan jawaban ini pada 19 Oktober 2026."
+  ],
+  "fotoAdegan": "Steel gas pipelines and storage tanks at an industrial terminal under an overcast sky, workers in hard hats inspecting valves",
+  "takeaway": "Tanggapan ini condong negatif bagi PGN karena dua hal penting, nilai eksposur finansial dari putusan arbitrase Gunvor dan tanggal pasti penyampaian laporan keuangan paruh tahun, sama-sama belum diungkapkan sehingga ketidakpastian atas potensi beban keuangan Perseroan tetap menggantung. Pos yang berpotensi tersentuh adalah ekuitas dan arus kas, sebab jika PGN akhirnya harus membayar kompensasi sesuai putusan arbitrase, dana itu mengurangi kas perusahaan dan modal pemegang saham, sementara laba per saham, yakni bagian laba yang jadi hak tiap lembar saham, juga bisa ikut terkoreksi kalau provisi kerugian dicatat dalam laporan keuangan. Yang perlu dipantau berikutnya adalah penyampaian Laporan Keuangan Konsolidasian per 30 Juni 2026 begitu proses reviu Kantor Akuntan Publik selesai, karena di situlah dampak finansial putusan LCIA kemungkinan besar mulai terlihat dalam angka, selain perkembangan apakah PGN menempuh upaya hukum lanjutan atas putusan arbitrase tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "brif-tetapkan-ulang-komite-audit-efektif-15-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BRIF tetapkan ulang [komite audit], efektif 15 Oktober 2026",
+  "deck": "PT BRI Multifinance Indonesia (BRIF) memperbarui susunan komite audit efektif 15 Oktober 2026 lewat SK Direksi baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T09:12:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/87b8170868_43e5b2fe1e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIF",
+  "tags": [
+   "BRIF",
+   "komite audit",
+   "tata kelola perusahaan",
+   "BRI Multifinance"
+  ],
+  "body": [
+   "PT BRI Multifinance Indonesia (BRIF) menyampaikan keterbukaan informasi mengenai perubahan susunan komite audit yang berlaku efektif 15 Oktober 2026. Perubahan ini dituangkan dalam Surat Keputusan Direksi No. S.016-DIR/SKP/10-2026 yang ditetapkan di Jakarta pada tanggal yang sama, berdasarkan rapat Dewan Komisaris pada 14 Oktober 2026. Susunan yang ditetapkan adalah dr. Diah Defawati sebagai Ketua, menjabat sebagai Komisaris Independen, kini memasuki periode kedua, dan Antonius Suryanta sebagai Anggota yang berasal dari Pihak Independen, menjalani periode pertama. Laporan ini disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, ditandatangani oleh Erwin Sujiwa selaku Wakil Kepala Divisi Keuangan perseroan.",
+   "Dasar aturan yang dirujuk antara lain Peraturan OJK Nomor 48 Tahun 2024 tentang tata kelola bagi lembaga pembiayaan, yang mensyaratkan komite audit beranggotakan minimal dua orang yakni dari Komisaris Independen dan pihak luar perusahaan. Anggota komite audit berhak menerima honor atau remunerasi sesuai ketentuan internal perusahaan. Perseroan menyatakan perubahan ini tidak berdampak pada kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha BRIF.",
+   "Dokumen lampiran berupa salinan Surat Keputusan Direksi, yang terbaca melalui pindaian dan karena itu perlu dikutip dengan hati-hati, memuat tabel susunan sebelum dan sesudah perubahan yang mencantumkan nama Idewan Diaz sebagai anggota komite audit sebelumnya, namun nama tersebut tidak lagi tercantum pada susunan baru. Jika bacaan ini akurat, berarti jumlah anggota komite audit berkurang dari tiga menjadi dua orang, meski susunan baru itu sendiri masih memenuhi batas minimal yang diwajibkan OJK."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a polished table, stacked paper folders, soft morning light through blinds in a Jakarta office tower",
+  "takeaway": "Laporan ini netral bagi BRIF karena isinya sebatas memperbarui periode jabatan ketua dan anggota komite audit, tanpa ada transaksi, dana, atau angka keuangan yang berubah. Yang tersentuh di sini adalah sisi tata kelola, bukan laporan keuangan: komite audit bertugas mengawasi kualitas pelaporan keuangan dan kerja auditor eksternal perusahaan pembiayaan ini, jadi pelaku pasar memperhatikan siapa yang mengisi kursi tersebut meski efeknya tidak langsung terasa di laba atau ekuitas. Satu hal yang masih perlu dikonfirmasi adalah jumlah pasti anggota komite audit BRIF saat ini, sebab dokumen pindaian lampiran mengisyaratkan ada anggota lama yang tidak lagi tercantum, sehingga bisa dicek lagi lewat laporan tahunan atau keterbukaan informasi berikutnya dari perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dssa-siapkan-buyback-saham-hingga-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "DSSA Siapkan [Buyback] Saham hingga Rp1 Triliun",
+  "deck": "Dian Swastatika Sentosa berencana membeli kembali sahamnya senilai hingga Rp1 triliun selama tiga bulan, mulai 19 Oktober 2026 sampai 18 Januari 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T08:43:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/46d1c50b74_199564f0a1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DSSA",
+  "tags": [
+   "DSSA",
+   "buyback saham",
+   "Dian Swastatika Sentosa",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Dian Swastatika Sentosa Tbk (DSSA) mengumumkan rencana pembelian kembali saham (buyback) senilai hingga Rp1 triliun. Rencana ini disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 19 Oktober 2026, dengan merujuk pada POJK Nomor 29 Tahun 2023 dan Surat Edaran OJK Nomor S-112/D.04/2026 tentang kondisi pasar yang berfluktuasi signifikan. Periode pembelian berlangsung tiga bulan, dari 19 Oktober 2026 sampai 18 Januari 2027.",
+   "Biaya transaksi seperti jasa perantara efek diperkirakan sebesar 0,20 persen dari nilai saham yang dibeli kembali, dan seluruh dana buyback berasal dari kas internal perseroan. Pembelian dapat dilakukan sekaligus atau bertahap, lewat perdagangan di BEI maupun di luar bursa, dengan harga yang dianggap wajar oleh perseroan sesuai aturan yang berlaku. Program ini bisa berakhir lebih cepat dari jadwal jika dana Rp1 triliun sudah terpakai habis atau jumlah saham yang diinginkan sudah tercapai, dan perseroan akan mengumumkan secara terbuka bila itu terjadi.",
+   "Manajemen menyatakan buyback ini tidak akan menurunkan pendapatan maupun mengganggu pembiayaan usaha, karena arus kas dan modal kerja perseroan dinilai memadai untuk operasional dan belanja modal sekaligus. Saham yang dibeli kembali akan menjadi saham treasuri yang disebut dapat meningkatkan laba per saham, dan di masa depan bisa dialihkan lagi untuk kebutuhan modal jangka panjang sesuai aturan yang berlaku. Keterbukaan informasi ini ditandatangani oleh Corporate Secretary DSSA, Susan Chandra, pada 19 Oktober 2026 pukul 08.43."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's business district at dusk, city traffic blurred below",
+  "takeaway": "Laporan ini condong positif karena perseroan memakai kas sendiri untuk membeli sahamnya di pasar, langkah yang biasanya dibaca sebagai bentuk keyakinan manajemen pada fundamental usahanya, dan nilainya cukup besar yaitu hingga Rp1 triliun. Yang tersentuh adalah jumlah saham yang beredar di publik, sebab saham yang dibeli kembali disimpan sebagai saham treasuri dan tidak lagi ikut dihitung sebagai pembagi laba per saham, sehingga laba per saham bisa naik meski laba perseroan sendiri tidak bertambah. Arus kas perseroan juga akan terpakai karena dananya dari kas internal, tapi manajemen menyebut kas dan modal kerjanya masih mencukupi untuk operasional dan belanja modal. Yang perlu dipantau adalah seberapa besar realisasi pembelian selama periode 19 Oktober 2026 sampai 18 Januari 2027, termasuk kemungkinan program dihentikan lebih cepat jika dana sudah terpakai habis atau target jumlah saham sudah tercapai, yang akan diumumkan lagi oleh perseroan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mknt-resmi-dibuka-dari-suspensi-tetap-di-pemantauan-khusus",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Resmi Dibuka dari Suspensi, Tetap di [Pemantauan Khusus]",
+  "deck": "Bursa mencabut suspensi saham MKNT mulai Senin, 19 Oktober 2026, setelah terhenti sejak Juli 2024, namun perdagangan tetap terbatas di Papan Pemantauan Khusus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T08:39:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/03d2b61a5e_927e62e215.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "suspensi saham",
+   "BEI",
+   "Papan Pemantauan Khusus"
+  ],
+  "body": [
+   "Bursa Efek Indonesia resmi membuka kembali perdagangan saham PT Mitra Komunikasi Nusantara Tbk (MKNT) mulai Sesi 1 Periodic Call Auction pada Senin, 19 Oktober 2026, mengakhiri penghentian sementara yang berlangsung sejak 2 Juli 2024. Pengumuman bernomor Peng-UPT-00005/BEI.PP1/10-2026 ditandatangani Kepala Divisi Penilaian Perusahaan 1 Teuku Fahmi Ariandar dan Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A.",
+   "Suspensi itu bermula dari sanksi keterlambatan penyampaian laporan keuangan auditan per 31 Desember 2023 yang diumumkan 1 Juli 2024, lalu ditindaklanjuti dengan penghentian sementara perdagangan efek sehari setelahnya, dan dipertegas lagi lewat pengumuman tanggal 11 Juli 2024. Bursa menyatakan suspensi dicabut karena MKNT telah memenuhi seluruh kewajiban yang menjadi penyebab suspensi dan tidak ditemukan kondisi lain yang menjadi alasan penghentian perdagangan.",
+   "Meski dibuka di seluruh pasar, saham MKNT tetap tercatat di Papan Pemantauan Khusus dan transaksinya hanya berjalan lewat mekanisme lelang berkala atau periodic call auction, bukan perdagangan reguler yang menerus sepanjang sesi. Bursa meminta seluruh pihak yang berkepentingan untuk terus mencermati keterbukaan informasi yang disampaikan MKNT ke depan."
+  ],
+  "fotoAdegan": "Traders gesturing near an exchange floor with blurred out-of-focus screens in the background, dim overhead lighting",
+  "takeaway": "Laporan ini netral bagi fundamental MKNT: dibukanya kembali perdagangan tidak mengubah satu pun angka di neraca perusahaan, melainkan hanya mengembalikan hak pemegang saham untuk bertransaksi setelah lebih dari dua tahun saham mereka terkunci. Yang tersentuh di sini adalah likuiditas saham, bukan laba, arus kas, atau ekuitas, dan patut diingat ekuitas MKNT baru saja positif tipis Rp5,65 miliar menurut laporan sebelumnya, sehingga pencabutan suspensi belum berarti pondasi keuangannya sudah kuat. Perdagangan pun dibuka lewat mekanisme lelang berkala, bukan jual beli yang berlangsung terus menerus seperti saham pada umumnya, sehingga pemegang saham mungkin masih sulit keluar masuk secepat yang mereka inginkan. Yang perlu dipantau berikutnya adalah apakah Bursa akan mengeluarkan MKNT dari Papan Pemantauan Khusus dan mengembalikan mekanisme perdagangan reguler, serta apakah laporan keuangan mendatang menunjukkan ekuitas tipis itu bertahan atau kembali minus.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bren-siapkan-buyback-saham-senilai-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BREN Siapkan Buyback Saham Senilai [Rp1 Triliun]",
+  "deck": "Barito Renewables Energy mengalokasikan dana hingga Rp1 triliun untuk membeli kembali sahamnya sendiri mulai 19 Oktober hingga 31 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T08:12:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ad979f49cd_c76382c743.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BREN",
+  "tags": [
+   "BREN",
+   "buyback saham",
+   "Barito Renewables Energy",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Barito Renewables Energy Tbk (BREN) mengumumkan rencana pembelian kembali saham atau buyback dengan dana maksimal Rp1 triliun. Rencana ini disampaikan ke Bursa Efek Indonesia dan Otoritas Jasa Keuangan pada 19 Oktober 2026, bersamaan dengan pengumuman resminya. Buyback dilandasi POJK 13/2023 tentang kebijakan menjaga kinerja dan stabilitas pasar modal pada kondisi pasar yang berfluktuasi signifikan, serta surat OJK No. S-112/D.04/2026 tertanggal 9 September 2026, dan akan berjalan selama periode 19 Oktober hingga 31 Desember 2026.",
+   "Dana buyback berasal dari kas internal perseroan, yakni dana lebih yang menurut manajemen tidak akan mengganggu kebutuhan operasional. BREN menunjuk PT BNI Sekuritas sebagai pelaksana pembelian saham di bursa, dan tidak ada batasan volume pembelian dalam satu hari perdagangan selama periode tersebut. Selama periode buyback berlangsung, komisaris, direktur, karyawan, dan pemegang saham utama perseroan, termasuk pihak yang baru berhenti menjabat posisi tersebut dalam enam bulan terakhir, dilarang bertransaksi atas saham BREN atau bertransaksi pada hari yang sama dengan penjualan saham hasil buyback oleh perseroan.",
+   "Berdasarkan proforma keuangan per 30 Juni 2026 yang disertakan dalam dokumen, total ekuitas perseroan diproyeksikan turun dari US$944,99 juta menjadi US$889,27 juta, atau berkurang sekitar US$55,72 juta yang setara dengan dana buyback Rp1 triliun menggunakan kurs Rp17.948 per dolar AS per 16 Oktober 2026. Total aset ikut turun dari US$4,04 miliar menjadi US$3,99 miliar dengan selisih yang sama. Sementara itu, laba bersih yang diatribusikan ke pemilik entitas induk tetap di angka US$87,15 juta dan laba per saham dasar tidak berubah dari 0,00065 dolar AS, baik sebelum maupun sesudah buyback.",
+   "Saham hasil buyback akan disimpan sebagai saham treasuri dan wajib dialihkan kembali oleh perseroan dalam waktu tiga tahun sejak berakhirnya periode buyback, sesuai Pasal 16 POJK 29/2023. Dalam waktu 30 hari setelah buyback selesai dilaksanakan atau periode berakhir, perseroan harus menentukan metode pengalihannya, antara lain dijual kembali di bursa atau di luar bursa, ditarik lewat pengurangan modal, digunakan untuk program kepemilikan saham karyawan dan direksi atau komisaris, untuk penyelesaian transaksi tertentu, konversi efek bersifat ekuitas, dibagikan proporsional ke pemegang saham, atau cara lain dengan persetujuan OJK. Selama masih berstatus saham treasuri, saham tersebut tidak memiliki hak suara, tidak dihitung dalam kuorum rapat umum pemegang saham, dan tidak berhak menerima dividen."
+  ],
+  "fotoAdegan": "Steam rising from geothermal power plant cooling towers surrounded by misty green highlands, overcast morning light",
+  "takeaway": "Laporan ini condong positif bagi BREN karena dana buyback diambil dari kas lebih yang menurut manajemen tidak mengganggu operasional, dan hitungan proforma perusahaan sendiri menunjukkan laba per saham tidak berubah sama sekali meski ekuitas berkurang, artinya pembelian ini tidak membebani kinerja per lembar saham bagi pemegang yang tetap bertahan. Pos yang tersentuh adalah ekuitas, yaitu total kekayaan bersih perusahaan setelah dikurangi utang, yang diproyeksikan turun sekitar Rp1 triliun karena kas keluar untuk membeli saham sendiri, serta laba per saham yang jadi acuan pasar untuk menilai seberapa produktif tiap lembar saham menghasilkan laba, yang dalam kasus ini tetap stabil karena jumlah saham BREN yang sangat besar membuat dampak buyback secara proporsional kecil. Saham hasil buyback akan disimpan sebagai saham treasuri, tidak punya hak suara dan tidak mendapat dividen selama belum dialihkan, sehingga yang perlu dipantau pemegang saham berikutnya adalah batas akhir periode buyback pada 31 Desember 2026 serta kewajiban perseroan mengalihkan kembali saham tersebut dalam tiga tahun sesuai Pasal 16 POJK 29/2023, termasuk metode yang akhirnya dipilih, apakah dijual lagi, dijadikan program kepemilikan saham karyawan, atau ditarik lewat pengurangan modal.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cuan-alokasikan-rp500-miliar-untuk-buyback-saham",
+  "category": "Aksi Korporasi",
+  "title": "CUAN Alokasikan [Rp500 Miliar] untuk Buyback Saham",
+  "deck": "PT Petrindo Jaya Kreasi Tbk (CUAN) akan membeli kembali sahamnya senilai maksimal Rp500 miliar pada 19 Oktober hingga 31 Desember 2026, memanfaatkan aturan OJK soal kondisi pasar yang bergejolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T08:08:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2aeeaa508_8d5bd4bf44.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CUAN",
+  "tags": [
+   "CUAN",
+   "buyback saham",
+   "Petrindo Jaya Kreasi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Petrindo Jaya Kreasi Tbk (CUAN), perusahaan holding yang bergerak di jasa konsultasi manajemen dan pertambangan batu bara melalui anak usaha, mengumumkan rencana pembelian kembali (buyback) sahamnya sendiri. Dana yang disiapkan secara bertahap maksimal Rp500 miliar, diambil dari kas internal perseroan yang disebut sebagai dana lebih dan tidak akan mengganggu operasional. Buyback ini merujuk pada aturan OJK Nomor 13 Tahun 2023 serta surat OJK No. S-112/D.04/2026 tanggal 9 September 2026 tentang kebijakan buyback di tengah kondisi pasar yang berfluktuasi signifikan, status mana berlaku sampai 31 Desember 2026. Perseroan telah menunjuk PT BNI Sekuritas dan PT Trimegah Sekuritas Indonesia Tbk sebagai pelaksana pembelian di Bursa Efek Indonesia, dengan volume pembelian per hari tidak dibatasi, selama periode 19 Oktober sampai 31 Desember 2026.",
+   "Dalam proyeksi yang disertakan perseroan, berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, ekuitas total akan berkurang dari setara US$638,4 juta menjadi US$610,4 juta, atau turun sekitar US$28 juta, akibat dana kas yang terpakai untuk buyback. Sementara itu laba bersih yang bisa diatribusikan ke pemilik entitas induk tetap di angka US$19,78 juta dan laba per saham dasar tidak berubah di posisi 0,00018. Manajemen menyatakan buyback ini diperkirakan tidak akan menurunkan pendapatan perseroan karena saldo laba dan arus kas yang tersedia dinilai cukup untuk membiayai transaksi tersebut.",
+   "Selama masih berstatus treasury stock, saham hasil buyback tidak memiliki hak suara di rapat umum pemegang saham, tidak dihitung dalam kuorum rapat, dan tidak berhak menerima dividen. Sesuai Pasal 16 POJK 29/2023, perseroan wajib mengalihkan kembali saham tersebut dalam waktu tiga tahun sejak periode buyback berakhir, melalui opsi seperti dijual di bursa atau di luar bursa, penarikan lewat pengurangan modal, program kepemilikan saham karyawan atau direksi dan komisaris, pembayaran transaksi tertentu, konversi efek ekuitas, atau distribusi proporsional ke pemegang saham. Selama periode buyback berlangsung, komisaris, direktur, pegawai, dan pemegang saham utama perseroan dilarang bertransaksi atas saham CUAN pada hari yang sama dengan transaksi buyback oleh perseroan."
+  ],
+  "fotoAdegan": "A loaded coal barge being pushed by a tugboat along a wide brown river in Kalimantan under overcast afternoon light.",
+  "takeaway": "Rencana buyback ini cenderung positif bagi CUAN karena dibiayai dari surplus kas internal tanpa menambah utang, dan manajemen menegaskan laba tahun berjalan maupun pendapatan tidak akan terganggu. Yang tersentuh langsung adalah ekuitas, yaitu total modal yang menjadi hak pemegang saham, yang diperkirakan susut sekitar 4,4 persen dari US$638,4 juta menjadi US$610,4 juta karena kas keluar untuk membeli saham di pasar. Laba per saham tidak ikut berubah dalam proyeksi ini sebab saham yang dibeli kembali untuk sementara hanya disimpan sebagai treasury stock, belum ditarik permanen sehingga jumlah saham beredar secara hitungan belum berkurang. Yang perlu dipantau pembaca adalah realisasi pembelian selama periode 19 Oktober hingga 31 Desember 2026, serta kewajiban perseroan mengalihkan saham hasil buyback itu dalam tiga tahun setelah periode berakhir, dengan langkah pengalihan pertama harus dilakukan dalam 30 hari setelah buyback selesai atau periode itu tutup.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "trim-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
   "category": "Aksi Korporasi",
   "title": "TRIM [Lunasi] Obligasi Rp100 Miliar yang Jatuh Tempo",
@@ -26,6 +208,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Glass office towers in Jakarta's Sudirman financial district reflecting morning light, light traffic passing below",
   "takeaway": "Laporan ini condong positif bagi Trimegah karena perusahaan melunasi kewajibannya tepat pada tanggal jatuh tempo, sesuai rencana yang sudah disiapkan sebelumnya, tanpa gangguan operasional atau hukum. Pos yang tersentuh adalah liabilitas, yakni utang perusahaan yang kini berkurang Rp100 miliar, sekaligus menghapus beban bunga tahunan 6,75 persen yang sebelumnya harus dibayar atas obligasi ini, sehingga arus kas ke depan sedikit lebih ringan. Karena obligasi ini terbit dalam skema berkelanjutan alias diterbitkan bertahap dari satu payung penawaran, yang perlu dipantau adalah jadwal pelunasan tahap lain dalam program Obligasi Berkelanjutan II serta kemungkinan Trimegah menerbitkan utang baru untuk membiayai kegiatan sekuritasnya ke depan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "brpt-siapkan-rp1-triliun-untuk-buyback-saham",
+  "category": "Aksi Korporasi",
+  "title": "BRPT Siapkan Rp1 Triliun untuk [Buyback] Saham",
+  "deck": "Barito Pacific akan membeli kembali sahamnya senilai maksimal Rp1 triliun hingga akhir tahun, memakai aturan OJK untuk pasar yang sedang berfluktuasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T01:07:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/346ff0c9e3_b58dca7152.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRPT",
+  "tags": [
+   "BRPT",
+   "buyback saham",
+   "Barito Pacific",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Barito Pacific Tbk (BRPT) mengumumkan rencana pembelian kembali atau buyback saham dengan dana maksimal Rp1 triliun. Rencana ini merujuk pada POJK 13/2023 tentang kebijakan menjaga kinerja dan stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan, serta surat OJK No. S-112/D.04/2026 tanggal 9 September 2026. Periode buyback berlangsung sejak 19 Oktober 2026 hingga 31 Desember 2026, dengan PT Sucor Sekuritas ditunjuk sebagai pelaksana pembelian di Bursa Efek Indonesia. Perseroan tidak membatasi volume pembelian dalam satu hari bursa, dan harga beli akan ditentukan manajemen sesuai aturan yang berlaku.",
+   "Dana buyback berasal dari kas internal yang disebut Perseroan sebagai dana lebih yang tidak mengganggu operasional, sudah termasuk biaya transaksi dan komisi perantara. Berdasarkan laporan keuangan per 30 Juni 2026, simulasi Perseroan menunjukkan total aset akan turun dari US$18,95 miliar menjadi US$18,90 miliar dan total ekuitas turun dari US$6,49 miliar menjadi US$6,44 miliar, masing-masing berkurang sekitar US$55,9 juta akibat kas yang dipakai untuk buyback. Laba bersih tahun berjalan tidak berubah di US$190,5 juta, sementara laba per saham diperkirakan naik tipis dari US$0,00203 menjadi US$0,00205 karena jumlah saham yang dihitung berkurang.",
+   "Selama periode buyback, komisaris, direktur, pegawai, dan pemegang saham utama Perseroan, termasuk pihak yang punya akses informasi orang dalam, dilarang bertransaksi atas saham BRPT. Saham hasil buyback akan disimpan sebagai saham treasury yang tidak memiliki hak suara, tidak dihitung dalam kuorum rapat pemegang saham, dan tidak berhak atas dividen. Sesuai Pasal 16 POJK 29/2023, Perseroan wajib mengalihkan kembali saham tersebut dalam tiga tahun sejak periode buyback berakhir, misalnya dengan menjualnya di bursa, menariknya lewat pengurangan modal, atau membagikannya lewat program kepemilikan saham karyawan dan direksi."
+  ],
+  "fotoAdegan": "Steam and smoke rising from petrochemical plant towers and pipelines at dusk, industrial skyline reflected in a river",
+  "takeaway": "Rencana buyback ini condong positif bagi pemegang saham, karena Perseroan memakai kas yang menurut mereka sendiri berlebih, bukan utang, untuk membeli saham sendiri tanpa mengorbankan laba usaha. Pos yang tersentuh adalah ekuitas dan kas perusahaan, yang terpakai sekitar US$55,9 juta, serta laba per saham yang naik tipis karena jumlah saham yang diperhitungkan berkurang, dua hal yang biasa dicermati investor karena menunjukkan seberapa efisien modal perusahaan dipakai. Besaran Rp1 triliun ini tergolong kecil dibanding ekuitas Perseroan yang mencapai US$6,49 miliar, jadi dampaknya ke struktur keuangan tidak signifikan. Yang perlu dipantau selanjutnya adalah berakhirnya periode buyback pada 31 Desember 2026, serta kewajiban Perseroan mengalihkan kembali saham hasil buyback itu dalam tiga tahun ke depan, termasuk cara yang akan dipilih seperti dijual kembali di bursa atau dibagikan lewat program kepemilikan karyawan.",
   "sentimen": "positif"
  },
  {
@@ -111,6 +319,32 @@ var ARTICLES = [
   "takeaway": "Angka paling besar yang diumumkan, komitmen pembiayaan dan perdagangan syariah Rp3,16 triliun serta komitmen pasar uang dan valuta asing syariah Rp6,05 triliun, adalah nilai kesepakatan yang disetujui selama forum pertemuan bisnis di acara ini, bukan uang yang sudah benar-benar berpindah tangan ke pelaku usaha. Yang langsung terdampak adalah UMKM halal, lembaga keuangan syariah, dan investor yang ikut dalam forum tersebut, karena merekalah pihak yang menyepakati kerja sama itu. Yang belum bisa dipastikan dari siaran ini adalah berapa bagian dari komitmen tersebut yang nantinya benar-benar cair menjadi pembiayaan atau transaksi di lapangan. Untuk menilai itu, pembaca perlu menunggu laporan realisasi pembiayaan syariah dari Bank Indonesia atau Otoritas Jasa Keuangan pada periode mendatang, bukan sekadar angka komitmen yang diumumkan saat acara ditutup.",
   "fotoGagal": 5,
   "fotoDitolak": true
+ },
+ {
+  "slug": "pege-direksi-asing-tambah-saham-hak-suara-ke-5-44",
+  "category": "Aksi Korporasi",
+  "title": "PEGE: Direksi Asing [Tambah] Saham, Hak Suara ke 5,44%",
+  "deck": "Direksi PT Panca Global Kapital Tbk (PEGE), Optimus Vision Global Pte Ltd, membeli 8,06 juta saham pada 16 Oktober 2026, menaikkan hak suaranya dari 5,23 persen menjadi 5,44 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 Oktober 2026",
+  "isoDate": "2026-10-18T20:26:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18102026-5591-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PEGE",
+  "tags": [
+   "PEGE",
+   "kepemilikan saham",
+   "direksi",
+   "pembelian saham"
+  ],
+  "body": [
+   "PT Panca Global Kapital Tbk (PEGE) melaporkan ke Otoritas Jasa Keuangan bahwa salah satu anggota direksinya, Optimus Vision Global Pte Ltd, warga negara asing, menambah kepemilikan saham di perusahaan. Dalam laporan bertanggal 18 Oktober 2026 itu, jumlah saham yang dipegang Optimus Vision naik dari 197.571.074 lembar menjadi 205.639.874 lembar, atau bertambah 8.068.800 lembar. Akibatnya, hak suaranya di PEGE naik dari 5,23 persen menjadi 5,44 persen.",
+   "Penambahan saham ini terjadi lewat 14 kali transaksi pembelian pada 16 Oktober 2026, dengan harga berkisar Rp101 hingga Rp114 per saham. Rinciannya: 400.000 lembar di Rp101, 600.300 lembar di Rp102, 620.400 lembar di Rp103, 300.000 lembar di Rp104, 500.000 lembar di Rp105, 639.700 lembar di Rp106, 368.700 lembar di Rp107, 1.082.500 lembar di Rp108, 503.200 lembar di Rp109, 643.800 lembar di Rp110, 142.500 lembar di Rp111, 157.700 lembar di Rp112, 190.000 lembar di Rp113, dan 1.920.000 lembar di Rp114. Seluruh transaksi berstatus kepemilikan tidak langsung, kecuali transaksi di harga Rp110 sebesar 643.800 lembar yang tercatat sebagai kepemilikan langsung dan disertai perjanjian pembelian kembali (repurchase agreement). Semua transaksi dikategorikan bertujuan pembelian.",
+   "Laporan ini disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi dan komisaris melaporkan setiap perubahan kepemilikan sahamnya di perusahaan terbuka tempat ia menjabat."
+  ],
+  "fotoAdegan": "A trader's hands resting near a keyboard in a dim brokerage office in Jakarta, blurred monitors glowing softly in early morning light",
+  "takeaway": "Laporan ini condong positif bagi PEGE, karena direksi asingnya menambah kepemilikan lewat pembelian langsung di pasar, bukan melepasnya, dan itu biasanya dibaca sebagai sinyal kepercayaan dari dalam manajemen sendiri terhadap perusahaan. Yang tersentuh di sini adalah struktur hak suara dan konsentrasi kepemilikan, bukan ekuitas atau laba perusahaan, sebab pembelian ini terjadi di pasar sekunder sehingga tidak menambah jumlah saham beredar PEGE; hak suara Optimus Vision sendiri naik dari 5,23 persen menjadi 5,44 persen, cukup besar untuk tercatat meski belum mengubah siapa pengendali utama perusahaan. Yang perlu dipantau berikutnya adalah apakah akumulasi ini berlanjut, karena aturan OJK mewajibkan pelaporan setiap kali ada perubahan kepemilikan oleh direksi atau komisaris, sehingga publik bisa menilai dari laporan-laporan susulan apakah tren pembelian ini terus berjalan atau berhenti di titik ini.",
+  "sentimen": "positif"
  },
  {
   "slug": "ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada",

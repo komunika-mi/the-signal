@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dnrk-ganti-satu-anggota-komite-audit-mulai-15-oktober",
+  "category": "Aksi Korporasi",
+  "title": "DNRK ganti satu anggota [Komite Audit] mulai 15 Oktober",
+  "deck": "PT Danareksa (DNRK) mengganti satu anggota komite audit, dari Gideon Siallagan ke Zulfahmy Wahab, efektif 15 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DNRK",
+   "komite audit",
+   "Danareksa",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d13204ccc5_2d5a83d677.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgas-jelaskan-ke-bei-dampak-putusan-arbitrase-gunvor",
+  "category": "Aksi Korporasi",
+  "title": "PGAS Jelaskan ke BEI Dampak Putusan Arbitrase [Gunvor]",
+  "deck": "PGN merespons permintaan penjelasan Bursa soal putusan sebagian LCIA atas kontrak dengan Gunvor dan rencana penyampaian laporan keuangan paruh tahun 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGAS",
+   "arbitrase",
+   "LCIA",
+   "Gunvor"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd383773ef_33480fc75b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "brif-tetapkan-ulang-komite-audit-efektif-15-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BRIF tetapkan ulang [komite audit], efektif 15 Oktober 2026",
+  "deck": "PT BRI Multifinance Indonesia (BRIF) memperbarui susunan komite audit efektif 15 Oktober 2026 lewat SK Direksi baru.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIF",
+   "komite audit",
+   "tata kelola perusahaan",
+   "BRI Multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/87b8170868_43e5b2fe1e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dssa-siapkan-buyback-saham-hingga-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "DSSA Siapkan [Buyback] Saham hingga Rp1 Triliun",
+  "deck": "Dian Swastatika Sentosa berencana membeli kembali sahamnya senilai hingga Rp1 triliun selama tiga bulan, mulai 19 Oktober 2026 sampai 18 Januari 2027.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DSSA",
+   "buyback saham",
+   "Dian Swastatika Sentosa",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/46d1c50b74_199564f0a1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-resmi-dibuka-dari-suspensi-tetap-di-pemantauan-khusus",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Resmi Dibuka dari Suspensi, Tetap di [Pemantauan Khusus]",
+  "deck": "Bursa mencabut suspensi saham MKNT mulai Senin, 19 Oktober 2026, setelah terhenti sejak Juli 2024, namun perdagangan tetap terbatas di Papan Pemantauan Khusus.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "suspensi saham",
+   "BEI",
+   "Papan Pemantauan Khusus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/03d2b61a5e_927e62e215.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bren-siapkan-buyback-saham-senilai-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BREN Siapkan Buyback Saham Senilai [Rp1 Triliun]",
+  "deck": "Barito Renewables Energy mengalokasikan dana hingga Rp1 triliun untuk membeli kembali sahamnya sendiri mulai 19 Oktober hingga 31 Desember 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BREN",
+   "buyback saham",
+   "Barito Renewables Energy",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ad979f49cd_c76382c743.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cuan-alokasikan-rp500-miliar-untuk-buyback-saham",
+  "category": "Aksi Korporasi",
+  "title": "CUAN Alokasikan [Rp500 Miliar] untuk Buyback Saham",
+  "deck": "PT Petrindo Jaya Kreasi Tbk (CUAN) akan membeli kembali sahamnya senilai maksimal Rp500 miliar pada 19 Oktober hingga 31 Desember 2026, memanfaatkan aturan OJK soal kondisi pasar yang bergejolak.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CUAN",
+   "buyback saham",
+   "Petrindo Jaya Kreasi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2aeeaa508_8d5bd4bf44.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "trim-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
   "category": "Aksi Korporasi",
   "title": "TRIM [Lunasi] Obligasi Rp100 Miliar yang Jatuh Tempo",
@@ -18,6 +130,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd48777ed1_f08d7c8995.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "brpt-siapkan-rp1-triliun-untuk-buyback-saham",
+  "category": "Aksi Korporasi",
+  "title": "BRPT Siapkan Rp1 Triliun untuk [Buyback] Saham",
+  "deck": "Barito Pacific akan membeli kembali sahamnya senilai maksimal Rp1 triliun hingga akhir tahun, memakai aturan OJK untuk pasar yang sedang berfluktuasi.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRPT",
+   "buyback saham",
+   "Barito Pacific",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/346ff0c9e3_b58dca7152.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -70,6 +198,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822926.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pege-direksi-asing-tambah-saham-hak-suara-ke-5-44",
+  "category": "Aksi Korporasi",
+  "title": "PEGE: Direksi Asing [Tambah] Saham, Hak Suara ke 5,44%",
+  "deck": "Direksi PT Panca Global Kapital Tbk (PEGE), Optimus Vision Global Pte Ltd, membeli 8,06 juta saham pada 16 Oktober 2026, menaikkan hak suaranya dari 5,23 persen menjadi 5,44 persen.",
+  "date": "18 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PEGE",
+   "kepemilikan saham",
+   "direksi",
+   "pembelian saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18102026-5591-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada",
@@ -6399,151 +6543,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4992c53281_fca1d4118e.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bjlb01-pengelola-eba-gabung-jadi-danareksa-investment-management",
-  "category": "Aksi Korporasi",
-  "title": "BJLB01: Pengelola EBA Gabung, Jadi [Danareksa] Investment Management",
-  "deck": "Penggabungan BNI AM, BRI MI, dan PNM IM ke Mandiri Manajemen Investasi efektif 1 Oktober 2026, lalu berganti nama jadi Danareksa Investment Management Indonesia, pengelola EBA Syariah BJLB01.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BJLB01",
-   "Danareksa Investment Management",
-   "merger manajer investasi",
-   "EBA Syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2077b704b5_8d506f9b09.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkomsel-perkuat-jaringan-untuk-motogp-mandalika-2026",
-  "category": "Teknologi",
-  "title": "Telkomsel [Perkuat] Jaringan untuk MotoGP Mandalika 2026",
-  "deck": "Telkomsel menambah kapasitas BTS dan menyiagakan personel untuk mendukung konektivitas selama MotoGP Mandalika 2026 di Lombok, NTB, pada 9-11 Oktober.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/telkomsel-perkuat-jaringan-untuk-motogp-mandalika-2026.jpg",
-  "imageV": "mv4ph64f",
-  "tags": [
-   "Telkomsel",
-   "MotoGP Mandalika",
-   "Lombok",
-   "5G"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472510-telkomsel-hadirkan-jaringan-terdepan-dan-terluas-untuk-dukung-motogp-mandalika-2026"
- },
- {
-  "slug": "flmc-jadwalkan-rupslb-pada-18-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "FLMC Jadwalkan [RUPSLB] pada 18 November 2026",
-  "deck": "Falmaco Nonwoven Industri menjadwalkan RUPSLB di Bandung pada 18 November 2026, menyusul laporan ekuitas negatif perseroan. Agenda rapat belum diungkap.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FLMC",
-   "RUPSLB",
-   "Falmaco Nonwoven",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26d7c76fd4_edb42e0af2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-libatkan-30-umkm-lombok-di-gp-mandalika-2026",
-  "category": "UMKM",
-  "title": "Pertamina Libatkan 30 [UMKM] Lombok di GP Mandalika 2026",
-  "deck": "30 UMKM binaan Pertamina, mayoritas usaha makanan dan minuman, ikut ajang balap internasional di Sirkuit Mandalika, Lombok, pada 9-11 Oktober 2026.",
-  "date": "11 Oktober 2026",
-  "image": "assets/img/pertamina-libatkan-30-umkm-lombok-di-gp-mandalika-2026.jpg",
-  "imageV": "mv41vq5a",
-  "tags": [
-   "Pertamina",
-   "UMKM",
-   "Mandalika",
-   "Lombok"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472457-pertamina-grand-prix-of-indonesia-2026-jadi-peluang-bagi-umkm-lokal-untuk-perluas-pasar-dan-tingkatkan-pendapatan"
- },
- {
-  "slug": "dooh-beruntung-berkat-tambah-saham-hak-suara-ke-10-07",
-  "category": "Aksi Korporasi",
-  "title": "DOOH: Beruntung Berkat Tambah Saham, Hak Suara ke [10,07%]",
-  "deck": "PT Beruntung Berkat Sejahtera membeli 545 juta saham DOOH seharga Rp330 per lembar lewat repo, menaikkan hak suaranya dari 3,02% menjadi 10,07%.",
-  "date": "11 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "kepemilikan saham",
-   "repo saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11102026-0047-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-prambanan-divestasi-545-juta-saham-suara-ke-5-02",
-  "category": "Aksi Korporasi",
-  "title": "DOOH: Prambanan [Divestasi] 545 Juta Saham, Suara ke 5,02%",
-  "deck": "Prambanan Investasi Sukses melepas 545 juta saham DOOH senilai Rp179,85 miliar pada 9 Oktober 2026, memangkas hak suaranya dari 12,06% menjadi 5,02%.",
-  "date": "11 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "Prambanan Investasi Sukses",
-   "divestasi saham",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11102026-5600-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-pt-beruntung-berkat-beli-545-juta-saham-hak-suara-ke-7-04",
-  "category": "Aksi Korporasi",
-  "title": "DOOH: PT Beruntung Berkat Beli [545 Juta] Saham, Hak Suara ke 7,04%",
-  "deck": "PT Beruntung Berkat Sejahtera membeli 545 juta saham DOOH senilai sekitar Rp179,85 miliar, mengangkat hak suaranya dari 3,02% menjadi 7,04%.",
-  "date": "11 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "kepemilikan saham",
-   "repurchase agreement",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11102026-5698-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemulihan-desa-adat-sade-40-dari-75-rumah-adat-berdiri",
-  "category": "UMKM",
-  "title": "Pemulihan Desa Adat Sade: [40] dari 75 Rumah Adat Berdiri",
-  "deck": "Pembangunan kembali Desa Adat Sade di Lombok Tengah pascakebakaran Agustus 2026 terus berjalan, dengan 40 dari 75 rumah adat sudah berdiri dan ekonomi warga mulai bergerak lagi.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/pedagang-sayur-keliling.jpg",
-  "tags": [
-   "Desa Adat Sade",
-   "Lombok Tengah",
-   "Kemenko Perekonomian",
-   "pemulihan bencana"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7144/pemerintah-dorong-percepatan-pemulihan-dan-aktivitas-masyarakat-desa-adat-sade-pasca-bencana-kebakaran",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kek-kura-kura-bali-diarahkan-jadi-hub-riset-ai-dan-semikonduktor",
-  "category": "Industri",
-  "title": "KEK Kura-Kura Bali Diarahkan Jadi Hub Riset [AI] dan Semikonduktor",
-  "deck": "Pemerintah mendorong KEK Kura-Kura Bali menjadi simpul riset AI, semikonduktor, dan teknologi kuantum lewat skema kerja sama industri Indonesia-Tiongkok Two Countries Twin Parks.",
-  "date": "10 Oktober 2026",
-  "image": "assets/img/mesin-tekstil.jpg",
-  "tags": [
-   "KEK Kura-Kura Bali",
-   "Investasi Tiongkok",
-   "Semikonduktor",
-   "Two Countries Twin Parks"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7143/dorong-skema-two-countries-twin-parks-pemerintah-jadikan-kek-kura-kura-bali-hub-riset-ai-dan-semikonduktor",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

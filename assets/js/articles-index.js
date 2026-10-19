@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pangan-nusa-expo-catat-potensi-transaksi-rp5-9-triliun",
+  "category": "UMKM",
+  "title": "Pangan Nusa Expo Catat Potensi Transaksi [Rp5,9 Triliun]",
+  "deck": "Pameran Pangan Nusa Expo 2026 di Kabupaten Tangerang mencatat potensi transaksi Rp5,9 triliun, didominasi kesepakatan ekspansi kuliner ke lima negara tujuan ekspor.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "UMKM",
+   "Ekspor Kuliner",
+   "Pangan Nusa Expo",
+   "Kementerian Perdagangan"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pangan-kemasan-dan-kuliner-di-pangan-nusa-expo-2026-catatkan-potensi-transaksi-rp59-triliun",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "survei-bi-kegiatan-usaha-kuat-di-triwulan-iii-proyeksi-q4-melambat",
+  "category": "Makroekonomi",
+  "title": "Survei BI: Kegiatan Usaha Kuat di Triwulan III, Proyeksi Q4 [Melambat]",
+  "deck": "Bank Indonesia melaporkan kegiatan dunia usaha triwulan III 2026 masih tumbuh positif di semua sektor, namun proyeksi triwulan IV sedikit melambat meski musim belanja akhir tahun mendekat.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/keranjang-belanja-ibu.jpg",
+  "tags": [
+   "Bank Indonesia",
+   "SKDU",
+   "Dunia Usaha",
+   "Triwulan III 2026"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823026.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "indeks-manufaktur-bi-naik-lagi-di-triwulan-iii-2026",
+  "category": "Industri",
+  "title": "Indeks Manufaktur BI [Naik] Lagi di Triwulan III 2026",
+  "deck": "Bank Indonesia mencatat indeks kinerja industri pengolahan naik ke 52,28 persen pada triwulan III 2026, dan memprakirakan kenaikan lanjutan pada triwulan IV.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "PMI-BI",
+   "Industri Pengolahan",
+   "Bank Indonesia",
+   "Manufaktur"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823126.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "dnrk-ganti-satu-anggota-komite-audit-mulai-15-oktober",
   "category": "Aksi Korporasi",
   "title": "DNRK ganti satu anggota [Komite Audit] mulai 15 Oktober",
@@ -291,7 +339,7 @@ var ARTICLES = [
   "title": "Transaksi UMKM di Pangan Nusa Expo Tembus [Rp44 Miliar]",
   "deck": "Business matching Pangan Nusa Expo 2026 mencatat potensi transaksi Rp44 miliar hingga hari ketiga, naik 17 persen dari tahun lalu, menurut Kemendag.",
   "date": "18 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "UMKM",
    "Kemendag",
@@ -358,7 +406,7 @@ var ARTICLES = [
   "title": "KUR Nelayan Desa Awang Tembus [Rp13,6 Miliar]",
   "deck": "BSI menyalurkan KUR Rp13,6 miliar untuk 160 nelayan di Desa Awang, Lombok Tengah, sementara puluhan pembudidaya lobster di sana belum semuanya tersentuh kredit ini.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "tags": [
    "KUR",
    "Nelayan",
@@ -468,7 +516,7 @@ var ARTICLES = [
   "title": "Ekonomi [Syariah] Tumbuh 6,2%, BI Gaet Wirausaha Muda",
   "deck": "Bank Indonesia membuka forum kewirausahaan syariah untuk anak muda di Jakarta, seiring klaim rantai nilai halal tumbuh 6,21 persen pada 2025, melampaui pertumbuhan ekonomi nasional.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "ekonomi syariah",
    "ISEF 2026",
@@ -502,7 +550,7 @@ var ARTICLES = [
   "title": "BI Soroti Peran [Perempuan] dalam Ekosistem Halal di ISEF 2026",
   "deck": "Konferensi dalam rangkaian ISEF 2026 menyoroti peran pelaku usaha perempuan di ekosistem industri halal, sektor yang disebut menyumbang 27 persen produk domestik bruto Indonesia.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/pengrajin-rotan.jpg",
   "tags": [
    "ISEF 2026",
    "Bank Indonesia",
@@ -585,7 +633,7 @@ var ARTICLES = [
   "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
   "deck": "Kemendag menargetkan 4 juta UMKM siap ekspor dalam lima tahun lewat program Campuspreneur yang kini melibatkan 27 perguruan tinggi, termasuk MoU baru dengan UIN Jakarta dan Universitas Presiden.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/pengrajin-rotan.jpg",
+  "image": "assets/img/kedai-kopi-kecil.jpg",
   "tags": [
    "UMKM",
    "ekspor",
@@ -3245,7 +3293,7 @@ var ARTICLES = [
   "title": "Sertifikasi Halal Jadi [Wajib] Mulai 17 Oktober 2026",
   "deck": "Pemerintah memberlakukan kewajiban sertifikasi halal mulai 17 Oktober 2026, seiring target ekonomi syariah jadi penopang pertumbuhan menuju 8 persen.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "tags": [
    "ekonomi syariah",
    "sertifikasi halal",
@@ -3261,7 +3309,7 @@ var ARTICLES = [
   "title": "Pemerintah Pangkas Bea Masuk Plastik Jadi [0%] Selama 6 Bulan",
   "deck": "Lewat PMK 68/2026, bea masuk bahan baku plastik PE dan PP tertentu dipangkas jadi nol persen selama enam bulan, merespons lonjakan harga di pasar global.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "bea masuk",
    "industri plastik",
@@ -3295,7 +3343,7 @@ var ARTICLES = [
   "title": "RI Terbitkan Aturan [Antidumping] Baru, Tutup Celah Penghindaran",
   "deck": "PP Nomor 39 Tahun 2026 mengatur ulang tindakan pengamanan, antidumping, dan imbalan, serta untuk pertama kalinya melarang praktik penghindaran lewat rute kirim atau negara asal palsu.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
+  "image": "assets/img/mesin-tekstil.jpg",
   "tags": [
    "antidumping",
    "PP 39/2026",
@@ -3851,7 +3899,7 @@ var ARTICLES = [
   "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
   "deck": "Pemerintah bersama ILO dan SECO menutup program PROMISE II dan memasuki fase baru penguatan akses keuangan UMKM, di tengah kesenjangan literasi keuangan yang masih lebar.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/kedai-kopi-kecil.jpg",
+  "image": "assets/img/pedagang-sayur-keliling.jpg",
   "tags": [
    "UMKM",
    "Literasi Keuangan",
@@ -6494,54 +6542,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/51620ba6bb_0b4588a33e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "peve-pastikan-tak-ada-informasi-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "PEVE Pastikan Tak Ada [Informasi Material] di Balik Volatilitas Saham",
-  "deck": "Menjawab surat BEI soal volatilitas transaksi sahamnya, manajemen PT Penta Valent Tbk menyatakan tidak ada informasi material maupun rencana aksi korporasi dalam tiga bulan mendatang.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PEVE",
-   "Penta Valent",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bb8805902c_4a23bf3e23.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "auto-tender-offer-asii-rp3-600-saham-dinyatakan-efektif",
-  "category": "Aksi Korporasi",
-  "title": "AUTO: Tender Offer ASII Rp3.600/Saham Dinyatakan [Efektif]",
-  "deck": "ASII memastikan rencana membeli hingga 238,4 juta saham AUTO senilai Rp3.600 per saham, bisa menaikkan kepemilikannya ke maksimal 84,95 persen.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AUTO",
-   "ASII",
-   "tender offer",
-   "Astra Otoparts"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/30d2103012_e059231e54.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medc-akuisisi-10-hak-partisipasi-psc-kutai-dari-eni",
-  "category": "Aksi Korporasi",
-  "title": "MEDC Akuisisi [10%] Hak Partisipasi PSC Kutai dari Eni",
-  "deck": "MedcoEnergi sepakat membeli 10% hak partisipasi non-operator di empat PSC Cekungan Kutai dari Eni S.p.A., termasuk penemuan gas raksasa Geliga.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "akuisisi",
-   "migas",
-   "Eni"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4992c53281_fca1d4118e.pdf",
   "sourceLabel": "IDX"
  }
 ];

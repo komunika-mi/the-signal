@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wifi-rencana-konstruksi-sentral-telekomunikasi-npv-rp929-m",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Rencana [Konstruksi] Sentral Telekomunikasi, NPV Rp929 M",
+  "deck": "WIFI merevisi studi kelayakan usaha baru konstruksi sentral telekomunikasi (KBLI 42206) dengan modal awal Rp6 miliar dan proyeksi NPV Rp929,8 miliar, menunggu persetujuan RUPS.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "KBLI 42206",
+   "studi kelayakan usaha",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0b8b0c785c_52799d5342.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kota-jadwalkan-ulang-rupslb-rights-issue-ke-23-oktober",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Jadwalkan Ulang [RUPSLB] Rights Issue ke 23 Oktober",
+  "deck": "DMS Propertindo (KOTA) mengusulkan jadwal baru RUPSLB rights issue dan transaksi material ke 23 Oktober 2026, menyusul permintaan perubahan informasi dari OJK.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "rights issue",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b52d4e5016_ca64092f31.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bold-obligasi-rp503-15-m-jatuh-tempo-20-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BOLD: Obligasi Rp503,15 M [Jatuh Tempo] 20 Oktober 2026",
+  "deck": "Obligasi III BUMA Tahun 2025 Seri A senilai Rp503,15 miliar jatuh tempo dan didelisting dari BEI mulai 20 Oktober 2026, bersamaan dengan pelunasan pokok penuh dan bunga terakhir.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "obligasi",
+   "BUMA",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1b046144e6_c0ba94d169.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asri-manunggal-tambah-kolateral-repo-150-juta-saham-maybank",
+  "category": "Aksi Korporasi",
+  "title": "ASRI: Manunggal Tambah Kolateral Repo [150 Juta] Saham Maybank",
+  "deck": "Maybank Sekuritas melaporkan tambahan 150 juta saham ASRI sebagai kolateral repo PT Manunggal Prime Development, hak suara tidak langsungnya naik dari 7,29% jadi 8,05%.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASRI",
+   "Alam Sutera Realty",
+   "Maybank Sekuritas",
+   "Repo Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-9650-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-kejar-penandatanganan-ieu-cepa-berlaku-awal-2027",
   "category": "Global",
   "title": "RI Kejar Penandatanganan IEU-CEPA, Berlaku Awal [2027]",
@@ -71,6 +135,70 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/lidah-buaya-dari-gunungkidul-ubah-keterbatasan-karst-jadi-potensi-ekspor-bernilai-tinggi",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bdmn-sewakan-tanah-bangunan-ke-adira-afiliasi-rp617-76-juta",
+  "category": "Aksi Korporasi",
+  "title": "BDMN sewakan tanah-bangunan ke Adira [afiliasi] Rp617,76 juta",
+  "deck": "Danamon menyewakan aset tanah dan bangunan ke anak usahanya, Adira Finance, senilai Rp617,76 juta per tahun dalam transaksi afiliasi.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BDMN",
+   "Adira Finance",
+   "transaksi afiliasi",
+   "Bank Danamon"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a0cc4f4a17_6fe08bef2d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pada-jawab-bursa-rugi-rp9-95-m-kas-operasi-negatif-rp64-45-m",
+  "category": "Aksi Korporasi",
+  "title": "PADA Jawab Bursa: Rugi Rp9,95 M, Kas Operasi [Negatif] Rp64,45 M",
+  "deck": "Menjawab permintaan penjelasan BEI, PADA mengungkap arus kas operasi yang memburuk serta ketergantungan besar pendapatan jasa kurir pada satu pelanggan dengan margin tipis 2,5 persen.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PADA",
+   "arus kas operasi",
+   "jasa kurir",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/555fa103ef_423df4cf8d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-waran-scma-disesuaikan-usai-dividen-rp8-4-saham",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran SCMA Disesuaikan Usai [Dividen] Rp8,4/Saham",
+  "deck": "RHB Sekuritas Indonesia menyesuaikan rasio dan harga pelaksanaan waran terstruktur SCMA menyusul rencana dividen tunai SCMA Rp8,4 per saham senilai total Rp533,4 miliar.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "SCMA",
+   "dividen",
+   "waran terstruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb38ccc21e_2c80f95544.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-batalkan-public-expose-imbas-penundaan-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Batalkan Public Expose Imbas Penundaan [RUPSLB]",
+  "deck": "LAPD membatalkan paparan publik tahunan yang dijadwalkan 20 Oktober 2026, menyusul penundaan RUPSLB ke 29 Oktober dan klarifikasi OJK soal rencana rights issue serta transaksi akuisisi.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "public expose",
+   "RUPSLB",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0e07794fe6_69f5c3c31f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "beef-pemegang-saham-tambah-saham-hak-suara-ke-8-21",
@@ -249,6 +377,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "beef-pemegang-saham-tambah-14-2-juta-saham-ke-6-08",
+  "category": "Aksi Korporasi",
+  "title": "BEEF: Pemegang Saham [Tambah] 14,2 Juta Saham ke 6,08%",
+  "deck": "Dimas Wibowo membeli 14,2 juta saham BEEF secara tidak langsung sepanjang 25 Juni 2026, mengangkat hak suaranya dari 5,91 persen menjadi 6,08 persen.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEEF",
+   "pemegang saham",
+   "kepemilikan saham",
+   "Estika Tata Tiara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-5017-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jecx-komisaris-tambah-200-000-saham-total-sepekan-380-000",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Komisaris [Tambah] 200.000 Saham, Total Sepekan 380.000",
+  "deck": "Komisaris JECX Dr. Admar Anwar membeli 200.000 saham senilai sekitar Rp302 juta pada 16 Oktober, melanjutkan rangkaian pembelian yang totalnya 380.000 lembar sepekan ini.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "Admar Anwar",
+   "kepemilikan saham",
+   "dewan komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-6051-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "lapd-tunda-rupslb-ke-29-oktober-ojk-minta-klarifikasi",
   "category": "Aksi Korporasi",
   "title": "LAPD Tunda RUPSLB ke 29 Oktober, OJK Minta [Klarifikasi]",
@@ -262,6 +422,38 @@ var ARTICLES = [
    "PMHMETD"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fabac395eb_821bcb6d47.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-topup-saham-via-repo-suara-ke-32-01",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Topup Saham via [Repo], Suara ke 32,01%",
+  "deck": "Direksi NSSS lewat Samuel Sekuritas Indonesia menjual 138,15 juta saham lalu membeli kembali 242,32 juta saham lewat mekanisme repo, hak suaranya naik ke 32,01 persen.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "repo saham",
+   "direksi",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-0453-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-direksi-lepas-saham-lewat-repo-hak-suara-ke-4-58",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Lepas Saham Lewat Repo, Hak Suara ke [4,58%]",
+  "deck": "Direksi RLCO melaporkan penjualan 40,07 juta saham lewat pencairan perjanjian repo pada 19 Oktober 2026, memangkas kepemilikannya dari 5,86% menjadi 4,58% hak suara.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-1221-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -422,6 +614,38 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-1892-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baik-jadwalkan-rupslb-bahas-rombak-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Jadwalkan RUPSLB, Bahas Rombak [Komisaris]",
+  "deck": "PT Bersama Mencapai Puncak Tbk. (BAIK) akan menggelar RUPSLB pada 25 November 2026 dengan agenda tunggal perubahan susunan Dewan Komisaris.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAIK",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Bersama Mencapai Puncak"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba8a398427_37aaa57e1d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bren-bantah-ada-info-tersembunyi-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BREN Bantah Ada Info Tersembunyi di Balik Volatilitas [Saham]",
+  "deck": "Menjawab permintaan BEI, BREN menyatakan tak ada fakta material baru, tak ada rencana korporasi dalam 3 bulan, dan pemegang saham utama belum berencana ubah kepemilikan.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BREN",
+   "Barito Renewables",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/27210eaec3_4fe6d71e5d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6320,229 +6544,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7146/wamenko-dradjad-dorong-penguatan-pengusaha-nasional-dan-perluasan-akses-pasar",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "csmi-utang-ke-pihak-terkait-dan-merek-nws-terganjal-2-tahun",
-  "category": "Aksi Korporasi",
-  "title": "CSMI: utang ke pihak terkait dan merek NWS [terganjal] 2 tahun",
-  "deck": "CSMI menjawab permintaan penjelasan BEI dengan rincian pendapatan outlet, utang ke pihak terafiliasi yang syaratnya belum disepakati, dan pendaftaran merek NWS Chicken yang mandek dua tahun",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSMI",
-   "Cipta Selera Murni",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c39b221c68_fc83d6aea3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpjs-gandeng-bsi-perluas-akses-bayar-iuran-jkn",
-  "category": "Perbankan",
-  "title": "BPJS Gandeng BSI, [Perluas] Akses Bayar Iuran JKN",
-  "deck": "BPJS Kesehatan dan BSI memperluas kanal pembayaran iuran JKN lewat autodebit, PPOB, dan aplikasi BYOND, sekaligus memperkuat pengelolaan kas dan layanan syariah bagi pegawai BPJS.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/bpjs-gandeng-bsi-perluas-akses-bayar-iuran-jkn.jpg",
-  "imageV": "mv58s77y",
-  "tags": [
-   "BPJS Kesehatan",
-   "BSI",
-   "JKN",
-   "Perbankan Syariah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472574-gandeng-bsi-akses-pembayaran-iuran-jkn-jadi-lebih-luas"
- },
- {
-  "slug": "ppre-realisasi-capex-obligasi-baru-39-sisa-dana-rp61-3-m",
-  "category": "Aksi Korporasi",
-  "title": "PPRE: Realisasi [CAPEX] Obligasi Baru 39%, Sisa Dana Rp61,3 M",
-  "deck": "PT PP Presisi Tbk mengoreksi laporan dana hasil obligasi 2022. Sisa Rp61,34 miliar masih disimpan di bank afiliasi, target terpakai habis Juni 2027.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRE",
-   "obligasi korporasi",
-   "penggunaan dana",
-   "PP Presisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c9ba1d7045_9ef8c1c04a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-jhonlin-baratama-kini-pegang-30-25-saham-bayan",
-  "category": "Aksi Korporasi",
-  "title": "BYAN: Jhonlin Baratama Kini Pegang [30,25%] Saham Bayan",
-  "deck": "Bayan Resources menjelaskan ke Bursa bahwa PT Jhonlin Baratama kini menguasai 30,25% saham perusahaan seharga Rp2.588 per saham, tanpa mengubah status pengendali Perseroan.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "Bayan Resources",
-   "Jhonlin Baratama",
-   "Low Tuck Kwong"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/708ec0f567_37cd1ac6e9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-konfirmasi-harga-transaksi-jhonlin-rp2-588-saham",
-  "category": "Aksi Korporasi",
-  "title": "BYAN Konfirmasi Harga Transaksi Jhonlin [Rp2.588]/Saham",
-  "deck": "BYAN jelaskan ke Bursa bahwa harga pengalihan saham ke Jhonlin Baratama Rp2.588/saham, Jhonlin kini kuasai 30,25% saham BYAN tanpa pergantian pengendali.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "Jhonlin Baratama",
-   "Bayan Resources",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/708ec0f567_37cd1ac6e9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aims-jawab-permintaan-bei-ungkap-kontrak-trading-batu-bara-baru",
-  "category": "Aksi Korporasi",
-  "title": "AIMS Jawab Permintaan BEI, Ungkap [Kontrak] Trading Batu Bara Baru",
-  "deck": "AIMS menjawab permintaan penjelasan BEI dengan mengungkap satu kontrak trading batu bara baru yang masih berjalan dan akan dicatat pada laporan keuangan kuartal III 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AIMS",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6b18ed3956_dd43ac2698.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgli-ungkap-pemicu-saham-melonjak-100-usai-disuspensi-bursa",
-  "category": "Aksi Korporasi",
-  "title": "PGLI Ungkap Pemicu Saham [Melonjak] 100% Usai Disuspensi Bursa",
-  "deck": "Dalam public expose insidentil usai disuspensi, manajemen PGLI sebut lonjakan harga saham 100,89% dalam 10 hari murni dinamika pasar, bukan info material yang belum diungkap.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGLI",
-   "suspensi saham",
-   "public expose",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e930eed2e9_1cd181505a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bq-finalkan-penyesuaian-harga-waran-asii-pasca-dividen",
-  "category": "Aksi Korporasi",
-  "title": "BQ Finalkan Penyesuaian Harga [Waran] ASII Pasca Dividen",
-  "deck": "Korea Investment Sekuritas Indonesia (BQ) menetapkan harga pelaksanaan dan rasio final dua waran terstruktur ASII, efektif 13 Oktober 2026, menyusul dividen tunai Rp98 per saham ASII.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BQ",
-   "ASII",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/58f46493fb_f9a5bc81b0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbia-beli-1-uob-asset-management-jadi-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "BBIA Beli 1% UOB Asset Management, Jadi [Pengendali]",
-  "deck": "Bank UOB Indonesia membeli 1% saham PT UOB Asset Management Indonesia senilai Rp734,9 juta dan resmi jadi pemegang saham pengendali setelah disetujui OJK.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBIA",
-   "UOB Indonesia",
-   "akuisisi saham",
-   "konglomerasi keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8d2ae8ae62_b3e25d1a3e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gtbo-jawab-bursa-soal-volatilitas-tidak-ada-info-material",
-  "category": "Aksi Korporasi",
-  "title": "GTBO Jawab Bursa soal Volatilitas: [Tidak Ada] Info Material",
-  "deck": "BEI minta penjelasan ke GTBO soal volatilitas transaksi saham lewat surat 8 Oktober 2026. Perseroan menjawab tak ada info material, aktivitas pemegang saham khusus, atau rencana korporasi baru.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTBO",
-   "Garda Tujuh Buana",
-   "Bursa Efek Indonesia",
-   "Volatilitas Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/29b32d0c87_8c8df853f5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-ajukan-penundaan-bayar-bunga-sukuk-rp24-12-miliar",
-  "category": "Aksi Korporasi",
-  "title": "POST Ajukan Penundaan Bayar [Bunga] Sukuk Rp24,12 Miliar",
-  "deck": "Pos Indonesia (POST) meminta penundaan bunga sukuk ijarah seri A-C tahap ke-7 senilai Rp24,12 miliar yang jatuh tempo 7 Oktober 2026, melanjutkan masalah likuiditas yang telah dilaporkan.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "sukuk",
-   "gagal bayar",
-   "likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4b7539a636_2fc6a5d895.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbtn-pertahankan-peringkat-aaa-idn-dari-fitch-ratings",
-  "category": "Aksi Korporasi",
-  "title": "BBTN Pertahankan Peringkat [AAA(idn)] dari Fitch Ratings",
-  "deck": "Fitch Ratings mengafirmasi peringkat nasional PT Bank Tabungan Negara dan dua obligasinya tetap di level tertinggi AAA(idn) dengan outlook stabil untuk periode setahun ke depan.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBTN",
-   "Fitch Ratings",
-   "peringkat obligasi",
-   "Bank Tabungan Negara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cff90b6b23_b343301f4c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-catatkan-tambahan-2-15-miliar-saham-dari-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "ENRG Catatkan Tambahan 2,15 Miliar Saham dari [Rights Issue]",
-  "deck": "Bursa mencatatkan 2,15 miliar saham baru ENRG hasil pelaksanaan HMETD PUT IV, menambah total saham beredar menjadi 29,2 miliar lembar efektif 13 Oktober 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "rights issue",
-   "HMETD",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9df53d0f0_113e8127ae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nine-rencanakan-rights-issue-hingga-2-44-miliar-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "NINE Rencanakan [Rights Issue] hingga 2,44 Miliar Saham Baru",
-  "deck": "Techno9 Indonesia (NINE) akan menerbitkan sebanyak-banyaknya 2,44 miliar saham baru lewat rights issue untuk modal kerja dan bayar utang, menunggu persetujuan RUPSLB 18 November 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NINE",
-   "rights issue",
-   "PMHMETD",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e18e942df_b905988bff.pdf",
-  "sourceLabel": "IDX"
  }
 ];

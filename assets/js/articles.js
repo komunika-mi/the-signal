@@ -3,6 +3,109 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wifi-rencana-konstruksi-sentral-telekomunikasi-npv-rp929-m",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Rencana [Konstruksi] Sentral Telekomunikasi, NPV Rp929 M",
+  "deck": "WIFI merevisi studi kelayakan usaha baru konstruksi sentral telekomunikasi (KBLI 42206) dengan modal awal Rp6 miliar dan proyeksi NPV Rp929,8 miliar, menunggu persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T19:53:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0b8b0c785c_52799d5342.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "KBLI 42206",
+   "studi kelayakan usaha",
+   "RUPS"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) menyampaikan informasi tambahan terkait rencana penambahan kegiatan usaha Konstruksi Sentral Telekomunikasi berdasarkan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 42206, menyusul keterbukaan informasi awal yang sudah diumumkan pada 7 Agustus 2026. Rencana ini mengubah Pasal 3 Anggaran Dasar Perseroan tentang maksud dan tujuan usaha, sehingga memerlukan persetujuan Rapat Umum Pemegang Saham (RUPS). Sebagai bagian dari pemenuhan Peraturan OJK No. 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha, Perseroan melampirkan laporan studi kelayakan terbaru yang disusun KJPP Syarif, Endang dan Rekan bernomor 00027/2.0113-03/BS-FS/05/0340/1/IX/2026 tertanggal 1 September 2026. Laporan ini merevisi dan membatalkan laporan sebelumnya tertanggal 7 Agustus 2026, setelah ditelaah Otoritas Jasa Keuangan. Perubahan yang dilakukan antara lain memperbaiki alamat situs dan surel perusahaan, menambahkan pengungkapan rasio kemampuan membayar bunga (interest coverage ratio) dan rasio kemampuan membayar utang (debt service coverage ratio), menambahkan analisis persaingan industri serta kesesuaian struktur organisasi, dan merevisi penjelasan perhitungan tingkat imbal balik investasi.",
+   "Berdasarkan studi kelayakan yang dihitung per tanggal 30 Juni 2026, Perseroan akan menyediakan modal awal sebesar Rp6,00 miliar dari kas internal untuk menjalankan usaha konstruksi sentral telekomunikasi ini, dengan kebutuhan modal kerja pada 2026 diproyeksikan Rp11,39 miliar. Penilai independen menghitung tiga ukuran kelayakan proyek: nilai sekarang bersih (NPV) sebesar Rp929,8 miliar yang berarti proyeksi pendapatan proyek ini lebih besar daripada biayanya setelah dihitung dengan nilai waktu uang, indeks profitabilitas (PI) sebesar 8,3 kali yang menunjukkan setiap rupiah investasi diproyeksikan menghasilkan keuntungan berkali lipat, dan periode pengembalian modal (payback period) selama 1 tahun 5 bulan. Dengan hasil ini, KJPP Syarif, Endang dan Rekan menyimpulkan rencana usaha baru tersebut layak dijalankan, baik dari sisi pasar, teknis, pola bisnis, model manajemen, maupun keuangan.",
+   "Perseroan menyatakan sampai dengan tanggal keterbukaan informasi ini belum ada izin atau persetujuan dari kreditur, pihak ketiga, maupun instansi berwenang yang dibutuhkan untuk rencana ini, selain persetujuan RUPS atas perubahan Pasal 3 Anggaran Dasar dan penyesuaian izin usaha yang menyertainya. Seluruh izin usaha untuk KBLI 42206 baru akan dipenuhi setelah perubahan Anggaran Dasar disetujui RUPS dan mendapat pemberitahuan atau persetujuan dari Menteri Hukum. Perseroan juga menegaskan tidak ada pihak yang mengajukan keberatan atas rencana ini dan tidak sedang terlibat perkara atau sengketa, baik material maupun nonmaterial."
+  ],
+  "fotoAdegan": "Technicians installing telecommunications equipment racks inside a central office room, cables organized overhead, cool industrial lighting",
+  "takeaway": "Laporan ini netral bagi WIFI. Proyeksi studi kelayakannya memang menjanjikan di atas kertas, tapi ini baru syarat administratif untuk meminta izin RUPS, bukan kepastian bahwa bisnis baru ini akan berjalan dan menghasilkan sesuai proyeksi, apalagi rekam jejak WIFI merealisasikan dana dari aksi korporasi sebelumnya, seperti rights issue dan obligasi-sukuk, masih tertinggal dari target. Yang tersentuh langsung adalah arus kas Perseroan, sebab modal awal Rp6 miliar diambil dari kas internal dan kebutuhan modal kerja tahun ini diproyeksikan Rp11,39 miliar, sementara angka NPV dan PI yang besar itu sekadar hasil hitungan proyeksi penilai independen atas asumsi yang disusun manajemen, bukan hasil yang sudah terjadi. Yang perlu dipantau selanjutnya adalah keputusan RUPS atas perubahan Pasal 3 Anggaran Dasar, yang tanggalnya belum diumumkan dalam dokumen ini, serta proses persetujuan Menteri Hukum dan penyesuaian izin usaha yang harus tuntas sebelum kegiatan konstruksi sentral telekomunikasi ini benar-benar bisa berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kota-jadwalkan-ulang-rupslb-rights-issue-ke-23-oktober",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Jadwalkan Ulang [RUPSLB] Rights Issue ke 23 Oktober",
+  "deck": "DMS Propertindo (KOTA) mengusulkan jadwal baru RUPSLB rights issue dan transaksi material ke 23 Oktober 2026, menyusul permintaan perubahan informasi dari OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T18:58:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b52d4e5016_ca64092f31.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "rights issue",
+   "transaksi material"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) mengajukan jadwal baru Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kepada OJK dan Bursa Efek Indonesia, yakni Jumat, 23 Oktober 2026 pukul 14.00 WIB di Azana Suite Hotel Antasari. Jadwal ini menggantikan rencana sebelumnya yang semula ditetapkan Selasa, 6 Oktober 2026 lalu sempat ditunda tanpa kepastian jadwal pengganti pada 14 Oktober 2026. Daftar pemegang saham yang berhak hadir (recording date) tetap mengacu pada posisi 11 September 2026, dan perseroan menegaskan jadwal baru ini masih tunduk pada konfirmasi lebih lanjut dari OJK.",
+   "Penundaan ini dipicu oleh surat tanggapan OJK bernomor S-282/PM.211/206 tertanggal 13 Oktober 2026, yang meminta perubahan dan/atau tambahan informasi atas rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD) serta transaksi material KOTA. Perseroan menyatakan telah menanggapi permintaan tersebut dan menyesuaikan dokumen keterbukaan informasinya melalui sistem pelaporan elektronik IDX pada 19 Oktober 2026, sebelum mengajukan permohonan jadwal RUPSLB yang baru.",
+   "Agenda RUPSLB tetap terdiri atas lima item: persetujuan rencana PMHMETD melalui mekanisme penawaran umum terbatas sesuai POJK 32/2015 juncto POJK 14/2019; perubahan Pasal 4 ayat (1) dan (2) Anggaran Dasar terkait kenaikan modal dasar, modal ditempatkan, dan modal disetor, termasuk penerbitan saham seri baru yaitu Saham Seri B; persetujuan transaksi material sesuai POJK 17/2020; perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025; serta persetujuan perubahan rencana penggunaan dana hasil penawaran umum perdana saham (IPO) perseroan. Surat permohonan ini ditandatangani oleh Gema Pratama selaku Direktur Perseroan."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs facing a podium in a hotel ballroom, prepared for a corporate meeting, soft morning light",
+  "takeaway": "Laporan ini condong negatif, sebab RUPSLB untuk rencana penambahan modal dan transaksi material KOTA tertunda untuk kedua kalinya dan jadwal barunya pun masih berupa permohonan yang menunggu konfirmasi OJK, bukan kepastian final. Yang tersentuh adalah jumlah saham beredar perseroan, karena agenda rapat mencakup penerbitan saham baru lewat skema rights issue, yaitu penjatahan hak membeli saham baru lebih dulu bagi pemegang saham lama, sekaligus pembentukan kelas saham baru bernama Seri B. Keduanya menambah jumlah saham beredar dan berpotensi menggerus laba per saham pemegang lama kalau mereka tidak ikut menyerap haknya. Transaksi material yang turut dimintakan persetujuan dalam rapat yang sama juga akan mengubah struktur modal perseroan ke depan, meski nilai transaksinya belum diungkap dalam dokumen ini. Yang perlu dipantau adalah apakah OJK benar-benar mengonfirmasi pelaksanaan RUPSLB pada 23 Oktober 2026 ini, mengingat surat perseroan sendiri menyebut jadwal tersebut masih bergantung pada konfirmasi lebih lanjut dari regulator.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bold-obligasi-rp503-15-m-jatuh-tempo-20-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BOLD: Obligasi Rp503,15 M [Jatuh Tempo] 20 Oktober 2026",
+  "deck": "Obligasi III BUMA Tahun 2025 Seri A senilai Rp503,15 miliar jatuh tempo dan didelisting dari BEI mulai 20 Oktober 2026, bersamaan dengan pelunasan pokok penuh dan bunga terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T18:58:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1b046144e6_c0ba94d169.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "obligasi",
+   "BUMA",
+   "jatuh tempo"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan bahwa Obligasi III BUMA Tahun 2025 Seri A dengan kode BOLD03A, diterbitkan oleh PT Bukit Makmur Mandiri Utama (BOLD), tidak lagi tercatat dan tidak dapat diperdagangkan di bursa mulai 20 Oktober 2026 karena jatuh tempo. Nilai pokok seri ini sebesar Rp503,15 miliar, dari total penerbitan Obligasi III BUMA Tahun 2025 yang mencapai Rp884,04 miliar dalam tiga seri. Obligasi diterbitkan pada 10 Oktober 2025 dan tercatat di BEI pada 13 Oktober 2025.",
+   "Seri A membawa bunga tetap 6,75 persen per tahun dengan jangka waktu 370 hari kalender sejak tanggal emisi. Bunga dibayarkan setiap triwulan, dimulai 10 Januari 2026, dan pada 20 Oktober 2026 perusahaan harus membayar bunga terakhir sekaligus melunasi seluruh pokok secara penuh dalam satu kali pembayaran (bullet payment). Dua seri lain dari obligasi yang sama belum jatuh tempo: Seri B senilai Rp325,75 miliar berbunga 8,00 persen per tahun baru jatuh tempo 10 Oktober 2028, dan Seri C senilai Rp55,14 miliar berbunga 8,75 persen per tahun jatuh tempo 10 Oktober 2030.",
+   "Obligasi ini tidak dijamin dengan aset khusus, tetapi dijamin dengan seluruh harta kekayaan perseroan sesuai hukum perdata yang berlaku, dan kedudukan pemegang obligasi setara (pari passu) dengan kreditur lain perseroan tanpa hak istimewa. Saat diterbitkan, obligasi ini memperoleh peringkat idA+ dari Pefindo dan A+(idn) dari Fitch Ratings Indonesia. Wali amanat obligasi adalah PT Bank CIMB Niaga Tbk, sementara penjaminan emisi ditanggung bersama oleh PT BCA Sekuritas, PT BNI Sekuritas, PT Indo Premier Sekuritas, dan PT Mandiri Sekuritas."
+  ],
+  "fotoAdegan": "Large mining haul trucks and heavy equipment operating at a dusty open-pit coal mine site in Indonesia, overcast daylight",
+  "takeaway": "Laporan ini netral bagi BOLD, karena jatuh tempo dan delisting Seri A ini sudah terjadwal sejak prospektus diterbitkan setahun lalu, bukan kejadian mendadak, dan dokumen ini tidak menyebut tanda gagal bayar atau kesulitan keuangan. Pos yang tersentuh adalah arus kas perusahaan: BOLD harus mengeluarkan kas sekitar Rp503,15 miliar sekaligus untuk melunasi pokok plus bunga terakhir, yang di satu sisi mengurangi kas tapi di sisi lain juga mengurangi beban utang berbunga ke depan. Yang perlu dipantau adalah apakah pelunasan pada 20 Oktober 2026 berjalan lancar tanpa keterlambatan, serta bagaimana BOLD mengelola dua seri sisanya, Seri B senilai Rp325,75 miliar yang jatuh tempo 10 Oktober 2028 dan Seri C senilai Rp55,14 miliar yang jatuh tempo 10 Oktober 2030.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asri-manunggal-tambah-kolateral-repo-150-juta-saham-maybank",
+  "category": "Aksi Korporasi",
+  "title": "ASRI: Manunggal Tambah Kolateral Repo [150 Juta] Saham Maybank",
+  "deck": "Maybank Sekuritas melaporkan tambahan 150 juta saham ASRI sebagai kolateral repo PT Manunggal Prime Development, hak suara tidak langsungnya naik dari 7,29% jadi 8,05%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T18:52:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-9650-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASRI",
+  "tags": [
+   "ASRI",
+   "Alam Sutera Realty",
+   "Maybank Sekuritas",
+   "Repo Saham"
+  ],
+  "body": [
+   "Maybank Sekuritas Indonesia melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikannya atas saham PT Alam Sutera Realty Tbk (ASRI) bertambah 150.000.000 lembar pada 16 Oktober 2026, dari 1.432.693.200 lembar menjadi 1.582.693.200 lembar. Penambahan ini menaikkan hak suara kepemilikan Maybank dari 7,29% menjadi 8,05%. Laporan disampaikan pada 19 Oktober 2026 dengan nomor LK/19102026/0009/1, dan pelapor bukan merupakan anggota direksi atau dewan komisaris ASRI.",
+   "Kepemilikan ini bersifat tidak langsung, karena saham sebenarnya tercatat atas nama PT Manunggal Prime Development sebagai pemilik langsung. Jenis transaksi yang dilaporkan adalah Repurchase Agreement atau repo, dengan tujuan transaksi tertulis sebagai 'top up collateral', yaitu penambahan jumlah saham yang dijadikan jaminan dalam perjanjian pinjaman berbasis saham antara PT Manunggal Prime Development dan Maybank Sekuritas Indonesia. Dokumen tidak menyebutkan harga per saham maupun nilai total transaksi repo tersebut, hanya jumlah unit saham dan tanggal pelaksanaannya."
+  ],
+  "fotoAdegan": "Aerial view of a landscaped suburban town development with houses, office towers, and tree lined boulevards in Tangerang, afternoon light.",
+  "takeaway": "Laporan ini NETRAL bagi ASRI, karena bukan jual beli di pasar terbuka melainkan penambahan saham yang dijadikan jaminan utang dalam perjanjian repo milik pemegang saham pengendali, PT Manunggal Prime Development, sehingga tidak langsung mengubah kas atau laba perusahaan. Yang tersentuh adalah struktur kepemilikan dan hak suara: porsi saham ASRI yang dipakai sebagai jaminan bertambah 150 juta lembar, membuat hak suara pihak terkait Manunggal naik dari 7,29% menjadi 8,05%, dan pelaku pasar memperhatikan ini karena saham yang digadaikan berisiko dijual paksa oleh kreditur bila harga saham turun dan nilai jaminan tidak lagi cukup menutup pinjaman. Repo sendiri adalah perjanjian jual saham dengan janji membelinya kembali, cara umum meminjam dana tunai dengan saham sebagai jaminan, bukan pelepasan saham secara permanen. Yang perlu dipantau berikutnya adalah apakah muncul laporan top up kolateral serupa dari Manunggal Prime Development atau pihak terafiliasi lain, karena pola penambahan jaminan yang berulang biasanya menandakan nilai jaminan terus tergerus dan tekanan pembiayaan pemegang saham pengendali meningkat.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ri-kejar-penandatanganan-ieu-cepa-berlaku-awal-2027",
   "category": "Global",
   "title": "RI Kejar Penandatanganan IEU-CEPA, Berlaku Awal [2027]",
@@ -112,6 +215,109 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah model bisnisnya, bukan status ekspornya: sebuah UMKM di lahan karst Gunungkidul membangun rantai pasok dari lebih dari 125 petani kecil di lahan hanya sekitar dua hektare, lalu mengolahnya jadi bahan baku industri makanan, minuman, kosmetik, dan farmasi. Yang terdampak langsung adalah petani mitra dan kelompok perempuan tani di Gunungkidul yang mendapat sumber pemasukan tambahan saat musim kemarau, sementara di sisi hilir ada industri pengguna bahan baku lidah buaya di dalam dan luar negeri. Namun klaim ekspornya masih berupa target dan ketertarikan awal dari satu calon pembeli Swedia, belum ada angka volume, nilai transaksi, atau kepastian kontrak ke empat negara tujuan yang disebut, yaitu Persatuan Emirat Arab, Jepang, Korea Selatan, dan Inggris. Yang perlu ditunggu adalah apakah ketertarikan di Trade Expo Indonesia 2026 ini berlanjut jadi kontrak nyata, karena tanpa itu cerita ini masih berhenti di tahap potensi, bukan hasil ekspor yang sudah terjadi."
+ },
+ {
+  "slug": "bdmn-sewakan-tanah-bangunan-ke-adira-afiliasi-rp617-76-juta",
+  "category": "Aksi Korporasi",
+  "title": "BDMN sewakan tanah-bangunan ke Adira [afiliasi] Rp617,76 juta",
+  "deck": "Danamon menyewakan aset tanah dan bangunan ke anak usahanya, Adira Finance, senilai Rp617,76 juta per tahun dalam transaksi afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T17:56:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a0cc4f4a17_6fe08bef2d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BDMN",
+  "tags": [
+   "BDMN",
+   "Adira Finance",
+   "transaksi afiliasi",
+   "Bank Danamon"
+  ],
+  "body": [
+   "PT Bank Danamon Indonesia Tbk (BDMN) dan anak usahanya, PT Adira Dinamika Multi Finance Tbk (Adira), menandatangani perjanjian sewa menyewa pada 15 Oktober 2026. Objek yang disewakan adalah tanah seluas 2.409 meter persegi dan bangunan seluas 2.376 meter persegi milik Danamon di Jalan Otto Iskandardinata No. 22, Kelurahan Pasir Kaliki, Kecamatan Cicendo, Kota Bandung. Masa sewa berlaku satu tahun, terhitung sejak 16 Oktober 2026 sampai 15 Oktober 2027, dengan nilai transaksi Rp617.760.000 belum termasuk pajak.",
+   "Transaksi ini digolongkan sebagai transaksi afiliasi karena Danamon adalah pemegang saham utama Adira dengan kepemilikan 74,50 persen, dan keduanya sama-sama dikendalikan langsung oleh MUFG Bank Ltd. Dalam dokumen yang disampaikan ke Bursa Efek Indonesia, Danamon menjelaskan transaksi ini dilakukan untuk sinergi, optimalisasi dan efisiensi pemanfaatan aset Danamon, serta mendukung kebutuhan operasional Adira. Dewan Komisaris dan Direksi Danamon menyatakan transaksi ini tidak mengandung benturan kepentingan dan seluruh informasi material telah diungkapkan secara tidak menyesatkan."
+  ],
+  "fotoAdegan": "Wide exterior shot of a mid-size commercial building and paved lot on a city street in Bandung, tropical trees lining the sidewalk, midday light",
+  "takeaway": "Transaksi ini netral bagi Danamon karena nilainya kecil, hanya Rp617,76 juta per tahun untuk bank sebesar Danamon, dan tidak mengubah struktur modal, jumlah saham beredar, atau laba per saham perusahaan. Yang tersentuh cuma arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena Danamon menerima uang sewa dari Adira, anak usahanya sendiri yang 74,50 persen sahamnya dipegang Danamon. Pasar memantau transaksi afiliasi semacam ini bukan karena besarannya, melainkan karena potensi harga sewa yang tidak wajar kalau dua pihak berelasi bertransaksi sendiri tanpa pembanding pasar, meski di sini Dewan Komisaris dan Direksi sudah menyatakan tidak ada benturan kepentingan. Yang perlu dipantau berikutnya adalah berjalannya masa sewa dari 16 Oktober 2026 sampai 15 Oktober 2027, serta apakah ke depan Danamon dan Adira melaporkan transaksi afiliasi lain dengan nilai yang lebih besar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pada-jawab-bursa-rugi-rp9-95-m-kas-operasi-negatif-rp64-45-m",
+  "category": "Aksi Korporasi",
+  "title": "PADA Jawab Bursa: Rugi Rp9,95 M, Kas Operasi [Negatif] Rp64,45 M",
+  "deck": "Menjawab permintaan penjelasan BEI, PADA mengungkap arus kas operasi yang memburuk serta ketergantungan besar pendapatan jasa kurir pada satu pelanggan dengan margin tipis 2,5 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T17:55:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/555fa103ef_423df4cf8d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PADA",
+  "tags": [
+   "PADA",
+   "arus kas operasi",
+   "jasa kurir",
+   "going concern"
+  ],
+  "body": [
+   "PT Personel Alih Daya Tbk (PADA) menjawab surat permintaan penjelasan Bursa Efek Indonesia Nomor S-13141/BEI.PP1/10-2026 tertanggal 14 Oktober 2026 terkait laporan keuangan interim per 30 Juni 2026. Perseroan mengonfirmasi akumulasi rugi sebesar Rp9,95 miliar dan arus kas neto negatif dari aktivitas operasi sebesar Rp64,45 miliar, memburuk dari minus Rp17,13 miliar pada periode yang sama tahun sebelumnya, dengan posisi kas pada akhir periode sebesar Rp17 miliar. Manajemen menyebut arus kas negatif itu bersifat sementara akibat siklus modal kerja, bukan penurunan struktural, dan menyusun rencana berupa pemantauan proyeksi arus kas, percepatan penagihan piutang, evaluasi kontrak dan pelanggan, efisiensi biaya, serta analisis sensitivitas likuiditas. Auditor independen pada laporan tertanggal 28 September 2026 tidak mencantumkan paragraf ketidakpastian material karena setelah menilai rencana manajemen dan sumber pendanaan yang tersedia, disimpulkan tidak ada ketidakpastian material atas kelangsungan usaha, dan hal ini telah dibahas bersama auditor dalam pertemuan serta surat representasi manajemen pada tanggal yang sama.",
+   "Pendapatan neto Perseroan naik 81,61 persen dari Rp504,36 miliar menjadi Rp915,99 miliar, seluruhnya didorong bisnis jasa kurir yang baru dirintis sejak 2025 dan menyumbang Rp550,63 miliar, padahal sebelumnya nihil. Dari jumlah itu, Rp531,07 miliar atau 57,98 persen dari total pendapatan Perseroan berasal dari satu pelanggan, PT Nusantara Ekspres Kilat (NEX), yang menurut Perseroan tidak memiliki hubungan afiliasi dan bertransaksi wajar, meski margin laba bruto bisnis kurir ini hanya 2,50 persen. Di sisi lain, pendapatan jasa personel support dan office service, lini usaha inti lama Perseroan, anjlok 58,85 persen dari Rp276,08 miliar menjadi Rp113,61 miliar. Perseroan menjelaskan penurunan ini terutama akibat perpindahan pencatatan pendapatan dari NEX senilai Rp99,54 miliar yang semula masuk lini personel support kini dicatat sebagai jasa kurir, bukan karena kehilangan pelanggan. Pendapatan dari PT Bank Syariah Indonesia sebenarnya naik dari Rp58,14 miliar menjadi Rp62,54 miliar, namun porsinya turun dari 11,53 persen menjadi 6,8 persen dari total pendapatan sehingga tidak lagi tercatat sebagai pelanggan utama.",
+   "Perseroan juga mengakui kesalahan penyajian pada catatan segmen operasi (CALK 31/32) periode 30 Juni 2025 yang berbeda dengan catatan pendapatan (CALK 23) meski totalnya sama-sama Rp504,36 miliar, mencakup selisih pada lini personel support, jasa keamanan, serta fiber-to-the-home dan project management office. Perseroan berjanji memperbaiki penyajian segmen pada laporan keuangan periode September 2026. Untuk ke depan, Perseroan menyebut strategi diversifikasi lewat lini technical and maintenance yang naik 14,94 persen menjadi Rp73,95 miliar, call center naik 5,26 persen menjadi Rp36,40 miliar, lini baru fiber-to-the-home dan project management office senilai Rp15,68 miliar, perluasan jasa kurir ke pelanggan e-commerce dan logistik lain, serta pelanggan baru PT Inspur Technology Indonesia dan PT Telemedia Komunikasi Pratama."
+  ],
+  "fotoAdegan": "Motorcycle couriers loading parcel boxes onto delivery bikes at a busy urban logistics yard, early morning light",
+  "takeaway": "Laporan ini condong negatif bagi PADA, sebab arus kas dari kegiatan usahanya memburuk hampir empat kali lipat dalam setahun, dan mesin pertumbuhan pendapatan barunya bertumpu pada satu pelanggan jasa kurir dengan margin kotor cuma 2,5 persen. Pos yang tersentuh adalah arus kas operasi, yaitu uang tunai yang benar-benar keluar masuk dari aktivitas sehari-hari perusahaan, bukan sekadar laba di atas kertas, dan ini yang dipakai pelaku pasar untuk menilai apakah perusahaan sanggup membayar gaji serta tagihan tanpa mencari utang baru. Konsentrasi pelanggan turut jadi sorotan karena hampir 58 persen pendapatan kini bergantung pada satu mitra kurir, sementara lini usaha inti lamanya justru menyusut tajam meski sebagian karena pergeseran pencatatan antar lini. Yang perlu dipantau berikutnya adalah apakah arus kas operasi benar membaik sesuai rencana manajemen, serta penyajian ulang catatan segmen usaha yang dijanjikan terbit bersamaan laporan keuangan kuartal III 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dr-waran-scma-disesuaikan-usai-dividen-rp8-4-saham",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran SCMA Disesuaikan Usai [Dividen] Rp8,4/Saham",
+  "deck": "RHB Sekuritas Indonesia menyesuaikan rasio dan harga pelaksanaan waran terstruktur SCMA menyusul rencana dividen tunai SCMA Rp8,4 per saham senilai total Rp533,4 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T17:46:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb38ccc21e_2c80f95544.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "SCMA",
+   "dividen",
+   "waran terstruktur"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia (kode emiten DR) mengumumkan penyesuaian syarat dan ketentuan waran terstruktur dengan underlying saham PT Surya Citra Media Tbk (SCMA). Penyesuaian ini mengacu pada keterbukaan informasi SCMA tertanggal 19 Oktober 2026 mengenai rencana pembagian dividen tunai tahun buku 2026. Keputusan dividen itu sendiri telah disetujui Direksi dan Dewan Komisaris SCMA pada tanggal yang sama, dengan total nilai dividen Rp533.439.507.552 atau setara Rp8,4 per saham.",
+   "Jadwal pembagian dividen SCMA yang jadi acuan penyesuaian waran adalah sebagai berikut: tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 23 Oktober 2026, dan ex dividen pada 26 Oktober 2026. Untuk pasar tunai, cum dividen berlaku 27 Oktober 2026 dan ex dividen 28 Oktober 2026. Tanggal daftar pemegang saham (DPS) yang berhak atas dividen ditetapkan 27 Oktober 2026 pukul 16.00, dengan pembayaran dividen paling lambat pada 18 November 2026.",
+   "Sesuai Term Sheet dan Prospektus Waran Terstruktur SCMA, rasio pelaksanaan dan harga pelaksanaan waran akan disesuaikan memakai formula yang memperhitungkan harga penutupan saham SCMA pada hari bursa terakhir sebelum ex-dividen, dikurangi nilai dividen per saham. RHB Sekuritas, sebagai penerbit waran, mencantumkan bahwa penyesuaian itu bisa saja tidak dilakukan jika berdasarkan kebijakannya sendiri dianggap tidak perlu, tanpa kewajiban apa pun kepada pemegang waran terstruktur."
+  ],
+  "fotoAdegan": "Television broadcast control room with technicians monitoring blurred distant screens under dim blue lighting, Jakarta studio",
+  "takeaway": "Laporan ini netral bagi fundamental SCMA, karena isinya hanya menjalankan mekanisme teknis derivatif yang otomatis mengikuti keputusan dividen yang sudah diambil direksi dan komisaris pada hari yang sama, bukan kabar bisnis baru. Yang tersentuh adalah ekuitas SCMA, yang berkurang sekitar Rp533,4 miliar begitu dividen dibayarkan, dan nilai waran terstruktur, yakni surat berharga yang memberi pemegangnya hak membeli saham SCMA pada harga dan rasio tertentu di kemudian hari. Rasio dan harga pelaksanaan waran itu disesuaikan agar pemegang waran tidak dirugikan oleh koreksi harga saham SCMA yang biasa terjadi begitu dividen dibagikan ke pemegang saham. Yang perlu dipantau adalah tanggal daftar pemegang saham pada 27 Oktober 2026 pukul 16.00 dan pembayaran dividen paling lambat 18 November 2026, sekaligus apakah RHB akhirnya benar menerapkan penyesuaian, karena dokumen ini menyebut penerbit waran bisa saja memilih tidak melakukannya tanpa kewajiban apa pun ke pemegang waran.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lapd-batalkan-public-expose-imbas-penundaan-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Batalkan Public Expose Imbas Penundaan [RUPSLB]",
+  "deck": "LAPD membatalkan paparan publik tahunan yang dijadwalkan 20 Oktober 2026, menyusul penundaan RUPSLB ke 29 Oktober dan klarifikasi OJK soal rencana rights issue serta transaksi akuisisi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T17:35:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0e07794fe6_69f5c3c31f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "public expose",
+   "RUPSLB",
+   "OJK"
+  ],
+  "body": [
+   "PT Leyand International Tbk (LAPD) membatalkan pelaksanaan Paparan Publik (Public Expose) Tahunan 2026 yang sedianya digelar pada 20 Oktober 2026. Pembatalan disampaikan melalui surat Direktur Utama Jamal Abdul Nasir Bamadhaj tertanggal 19 Oktober 2026, hanya sehari sebelum jadwal acara semula.",
+   "Perseroan menyebut dua alasan pembatalan. Pertama, Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula juga dijadwalkan 20 Oktober 2026 ditunda menjadi 29 Oktober 2026. Kedua, Otoritas Jasa Keuangan (OJK) masih meminta informasi tambahan dan klarifikasi atas keterbukaan informasi Perseroan terkait rencana Penambahan Modal dengan Memberikan Hak Memesan Efek Terlebih Dahulu (PMHMETD) II, Transaksi Material, dan Transaksi Afiliasi.",
+   "Jadwal baru Paparan Publik akan disampaikan kemudian melalui sarana keterbukaan informasi yang berlaku. Perseroan menyatakan pembatalan ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a corporate meeting hall, soft morning light, prepared but unused for a presentation",
+  "takeaway": "Laporan ini condong negatif bagi LAPD karena menunjukkan rencana aksi korporasi besarnya, penambahan modal lewat PMHMETD II serta transaksi akuisisi, masih tertahan pemeriksaan OJK dan belum punya kepastian jadwal. PMHMETD II berarti penerbitan saham baru dengan hak memesan efek terlebih dahulu bagi pemegang saham lama, sehingga menambah jumlah saham beredar dan berpotensi mengecilkan bagian laba per saham pemegang lama kalau mereka tidak ikut menyerap jatah barunya; transaksi material dan afiliasi yang disebut diperkirakan terkait akuisisi BSS senilai Rp59,43 miliar yang sebelumnya sudah dilaporkan. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB yang kini dijadwalkan 29 Oktober 2026, serta jadwal pengganti Paparan Publik yang menurut Perseroan baru akan diumumkan setelah itu.",
+  "sentimen": "negatif"
  },
  {
   "slug": "beef-pemegang-saham-tambah-saham-hak-suara-ke-8-21",
@@ -400,6 +606,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "beef-pemegang-saham-tambah-14-2-juta-saham-ke-6-08",
+  "category": "Aksi Korporasi",
+  "title": "BEEF: Pemegang Saham [Tambah] 14,2 Juta Saham ke 6,08%",
+  "deck": "Dimas Wibowo membeli 14,2 juta saham BEEF secara tidak langsung sepanjang 25 Juni 2026, mengangkat hak suaranya dari 5,91 persen menjadi 6,08 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T15:51:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-5017-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEEF",
+  "tags": [
+   "BEEF",
+   "pemegang saham",
+   "kepemilikan saham",
+   "Estika Tata Tiara"
+  ],
+  "body": [
+   "Dimas Wibowo, pemegang saham PT Estika Tata Tiara Tbk (BEEF), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan penyedia daging sapi ini bertambah dari 479.573.142 lembar menjadi 493.773.142 lembar, atau naik 14,2 juta lembar. Kenaikan ini mengangkat hak suaranya di BEEF dari 5,91 persen menjadi 6,08 persen. Dalam laporan yang disampaikan pada 19 Oktober 2026 itu, Dimas tercatat bukan anggota direksi maupun dewan komisaris BEEF, dan juga bukan pihak pengendali perusahaan.",
+   "Penambahan saham ini berasal dari enam transaksi pembelian yang seluruhnya dilakukan secara tidak langsung pada 25 Juni 2026, dengan tujuan menambah portofolio investasi. Rinciannya: dua juta lembar di harga Rp139, dua juta lembar di harga Rp138, empat juta lembar di harga Rp146, dua juta lembar di harga Rp141, dua ratus ribu lembar di harga Rp145, dan empat juta lembar di harga Rp140 per saham, seluruhnya saham biasa BEEF.",
+   "Laporan ini baru disampaikan ke OJK sekitar empat bulan setelah tanggal transaksi yang jatuh pada akhir Juni 2026. Besarnya penambahan setara dengan sekitar 2,96 persen dari jumlah saham yang sudah dimiliki Dimas sebelum transaksi, sehingga menambah posisinya namun belum mengubah statusnya dari pemegang saham biasa menjadi pengendali perusahaan."
+  ],
+  "fotoAdegan": "Workers moving cattle through a feedlot chute at dawn, dust rising in the air, rural Indonesian livestock farm setting",
+  "takeaway": "Laporan ini condong positif bagi BEEF karena Dimas Wibowo menambah kepemilikannya lewat pembelian, bukan melepas sahamnya, meski kenaikan hak suaranya dari 5,91 persen ke 6,08 persen tergolong tipis. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, bagian yang dipantau pasar karena perubahan pada pemegang saham dengan posisi lumayan besar bisa jadi sinyal keyakinan terhadap prospek perusahaan, meski di kasus ini belum sampai mengubah Dimas menjadi pihak pengendali. Yang perlu dipantau berikutnya adalah apakah keterlambatan pelaporan sekitar empat bulan dari tanggal transaksi pada 25 Juni 2026 ini akan mendapat tanggapan dari OJK, serta apakah kepemilikan Dimas terus bertambah pada laporan-laporan mendatang.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "jecx-komisaris-tambah-200-000-saham-total-sepekan-380-000",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Komisaris [Tambah] 200.000 Saham, Total Sepekan 380.000",
+  "deck": "Komisaris JECX Dr. Admar Anwar membeli 200.000 saham senilai sekitar Rp302 juta pada 16 Oktober, melanjutkan rangkaian pembelian yang totalnya 380.000 lembar sepekan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T15:46:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-6051-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "Admar Anwar",
+   "kepemilikan saham",
+   "dewan komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris PT Nitrasanata Dharma Tbk (JECX), Dr. Admar Anwar, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 200.000 saham JECX dalam dua transaksi tidak langsung pada 16 Oktober 2026. Transaksi pertama sebanyak 100.000 saham dengan harga Rp1.495 per saham, dan transaksi kedua sebanyak 100.000 saham dengan harga Rp1.525 per saham, keduanya untuk tujuan investasi. Total nilai kedua transaksi tersebut sekitar Rp302 juta.",
+   "Dengan pembelian ini, kepemilikan Admar Anwar di JECX bertambah dari 12.500.000 lembar menjadi 12.700.000 lembar saham, sementara hak suaranya naik tipis dari 0,38 persen menjadi 0,39 persen. Laporan ini adalah laporan kelima soal perubahan kepemilikan saham JECX oleh komisaris tersebut dalam sepekan terakhir. Sebelumnya ia tercatat membeli 30.000, lalu 40.000, dan kemudian 110.000 saham JECX pada pekan yang sama, sehingga total saham yang ia tambah dalam sepekan ini mencapai sekitar 380.000 lembar.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 1 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, dengan nomor dokumen LK/19102026/0005/1 tertanggal 19 Oktober 2026."
+  ],
+  "fotoAdegan": "Exterior view of glass office towers in Jakarta's financial district reflecting afternoon sunlight, pedestrians crossing a busy street below.",
+  "takeaway": "Pembelian ini kami nilai netral bagi JECX, karena tambahan 200.000 saham hanya setara 1,6 persen dari kepemilikan Admar Anwar sendiri dan hanya menggeser hak suaranya dari 0,38 persen menjadi 0,39 persen, terlalu kecil untuk dibaca sebagai sinyal tegas soal arah perusahaan. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham utama, pos yang dipantau pasar karena mencerminkan seberapa besar kendali dan keyakinan orang dalam terhadap perusahaannya sendiri, meski porsinya di kasus ini masih kecil terhadap total saham beredar. Yang membuat pola ini layak dicatat adalah akumulasinya: dalam sepekan terakhir Admar Anwar tercatat membeli saham JECX setidaknya empat kali, dengan total sekitar 380.000 lembar jika digabungkan dengan pembelian 30.000, 40.000, dan 110.000 saham sebelumnya. Yang perlu dipantau berikutnya adalah RUPSLB JECX yang dijadwalkan 23 November 2026, karena agenda rapat itu belum diumumkan dan bisa memberi konteks baru atas pola pembelian saham oleh komisaris ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "lapd-tunda-rupslb-ke-29-oktober-ojk-minta-klarifikasi",
   "category": "Aksi Korporasi",
   "title": "LAPD Tunda RUPSLB ke 29 Oktober, OJK Minta [Klarifikasi]",
@@ -423,6 +681,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rows of empty chairs set up in a hotel conference room before a corporate meeting, soft morning light through curtains",
   "takeaway": "Penundaan ini condong negatif bagi LAPD, karena yang menahan bukan perseroan sendiri melainkan OJK, yang masih meminta klarifikasi atas keterbukaan informasi soal penambahan modal dan transaksi afiliasi, tanda penjelasan awal perseroan belum dianggap lengkap oleh regulator. Agenda rapat ini langsung menyentuh jumlah saham beredar, sebab PMHMETD II berarti penerbitan saham baru lewat hak memesan efek terlebih dahulu, yang bisa menggerus laba per saham pemegang lama kalau mereka tidak ikut menebus haknya, sementara agenda penetapan pemegang saham pengendali akan menentukan siapa yang memegang kendali perseroan setelah rangkaian akuisisi BSS yang sudah kami laporkan sebelumnya. Yang perlu dipantau adalah RUPSLB pengganti pada Kamis, 29 Oktober 2026 pukul 13.00 WIB, dan tambahan keterbukaan informasi yang dijanjikan Leyand sebagai jawaban atas surat OJK bertanggal 16 Oktober 2026, karena isi tambahan itu akan menentukan apakah rencana penambahan modal dan transaksi afiliasi ini bisa lolos tanpa catatan lebih lanjut dari regulator.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nsss-direksi-topup-saham-via-repo-suara-ke-32-01",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Topup Saham via [Repo], Suara ke 32,01%",
+  "deck": "Direksi NSSS lewat Samuel Sekuritas Indonesia menjual 138,15 juta saham lalu membeli kembali 242,32 juta saham lewat mekanisme repo, hak suaranya naik ke 32,01 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T15:31:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-0453-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "repo saham",
+   "direksi",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) melaporkan transaksi saham oleh salah satu anggota direksinya, Samuel Sekuritas Indonesia, pada 19 Oktober 2026. Dalam laporan ke Otoritas Jasa Keuangan, tercatat dua transaksi dengan status repurchase agreement atau repo, yakni perjanjian jual beli saham dengan kewajiban membeli kembali. Transaksi pertama adalah penjualan 138.151.500 lembar saham biasa dengan harga Rp700 per lembar untuk tujuan pencairan repo. Transaksi kedua adalah pembelian 242.319.700 lembar saham biasa dengan harga Rp595 per lembar dengan tujuan top up atau menambah jaminan.",
+   "Setelah kedua transaksi tersebut, jumlah saham yang dipegang direksi ini naik dari 7.515.007.900 lembar menjadi 7.619.176.100 lembar, bertambah 104.168.200 lembar atau sekitar 1,39 persen dari kepemilikan sebelumnya. Hak suaranya di NSSS ikut naik dari 31,57 persen menjadi 32,01 persen. Dokumen tidak mencantumkan jumlah efek bersifat ekuitas yang belum dilaksanakan maupun batas akhir periode pelaksanaan untuk kedua transaksi ini.",
+   "Laporan ini muncul tak lama setelah dua laporan repo lain dari pihak terkait NSSS pekan sebelumnya, yaitu dari seorang komisaris dan seorang direksi lain yang juga melepas saham lewat mekanisme serupa. Berbeda dengan dua laporan itu yang mencatat pengurangan kepemilikan, laporan direksi kali ini justru berakhir dengan penambahan saham dan hak suara setelah siklus jual lalu beli kembali selesai."
+  ],
+  "fotoAdegan": "Workers harvesting fresh palm fruit bunches onto a truck bed at a plantation under bright tropical daylight",
+  "takeaway": "Transaksi ini saya nilai netral bagi NSSS, sebab meski hak suara direksi tersebut naik, porsi penambahannya hanya sekitar 1,4 persen dari kepemilikannya sendiri dan tidak mengubah struktur kendali perusahaan. Yang tersentuh di sini bukan laba atau arus kas perusahaan, melainkan hak suara pemegang saham, repo adalah transaksi jaminan saham untuk memperoleh dana tunai sementara, jadi jumlah saham beredar NSSS secara keseluruhan tidak berubah, hanya porsi kepemilikan si pelapor yang naik turun sesuai siklus jaminannya. Pelaku pasar biasanya memantau pola macam ini karena perubahan hak suara direksi atau komisaris bisa mengindikasikan pergeseran kendali kalau terjadi berulang dan membesar. Dokumen ini tidak mencantumkan tenggat pelaksanaan lanjutan, sehingga yang perlu dicermati adalah apakah pola jual lalu beli kembali lewat repo ini terus berulang dari pihak-pihak terkait NSSS dalam waktu dekat, dan apakah akumulasinya mendekati ambang kepemilikan signifikan di atas 32 persen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rlco-direksi-lepas-saham-lewat-repo-hak-suara-ke-4-58",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Lepas Saham Lewat Repo, Hak Suara ke [4,58%]",
+  "deck": "Direksi RLCO melaporkan penjualan 40,07 juta saham lewat pencairan perjanjian repo pada 19 Oktober 2026, memangkas kepemilikannya dari 5,86% menjadi 4,58% hak suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T15:16:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-1221-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "body": [
+   "PT Abadi Lestari Indonesia Tbk (RLCO) menyampaikan laporan perubahan kepemilikan saham ke Otoritas Jasa Keuangan pada 19 Oktober 2026. Pelapor berstatus direksi, Samuel Sekuritas Indonesia, mencatatkan jumlah saham sebelum transaksi sebanyak 183.066.300 lembar dengan hak suara 5,86 persen. Setelah transaksi, kepemilikannya tersisa 142.995.200 lembar dengan hak suara 4,58 persen, atau berkurang 40.071.100 lembar yang setara 21,89 persen dari kepemilikannya sebelum transaksi.",
+   "Dalam dokumen, jenis transaksi tercatat sebagai perjanjian pembelian kembali atau repo, dengan status kepemilikan langsung dan tujuan transaksi tertulis 'pencairan repo'. Artinya, saham yang sebelumnya dijadikan jaminan dalam perjanjian repo tersebut dicairkan lewat penjualan. Saham dilepas dalam bentuk saham biasa pada harga Rp3.870 per lembar pada tanggal yang sama, 19 Oktober 2026, dengan total nilai transaksi sekitar Rp155,08 miliar berdasarkan jumlah dan harga yang tercantum.",
+   "Dokumen tidak menyebut adanya hak opsi atau efek bersifat ekuitas (EBE) yang belum dilaksanakan terkait transaksi ini, dan tidak ada keterangan tambahan mengenai pihak lawan dalam perjanjian repo tersebut."
+  ],
+  "fotoAdegan": "Wide view of Jakarta's financial district at dusk, illuminated office towers reflecting on glass facades, busy street below",
+  "takeaway": "Laporan ini condong negatif bagi sentimen RLCO karena ukurannya memang signifikan, direksi melepas 21,89 persen dari kepemilikannya sendiri dan hak suaranya turun dari 5,86 persen menjadi 4,58 persen, bukan sekadar remah transaksi kecil. Namun transaksi ini terjadi lewat pencairan perjanjian repo, yakni saham yang sebelumnya dijadikan jaminan pinjaman lalu dijual untuk melunasi perjanjian itu, sehingga tidak serta merta mencerminkan keyakinan direksi atas prospek perusahaan. Transaksi semacam ini tidak mengubah ekuitas atau laba perusahaan karena hanya memindahkan saham yang sudah ada dari satu pemilik ke pemilik lain, tetapi pelaku pasar tetap mencermati hak suara direksi sebagai sinyal seberapa besar orang dalam mau memegang sahamnya sendiri. Yang perlu dipantau selanjutnya adalah apakah pelapor ini masih akan muncul dalam laporan kepemilikan RLCO ke depan, sebab hak suaranya yang kini 4,58 persen sudah di bawah ambang 5 persen yang biasanya menjadi batas wajib lapor sebagai pemegang saham utama.",
   "sentimen": "negatif"
  },
  {
@@ -685,6 +995,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Jakarta stock exchange trading floor with professionals walking past blurred screens in the background, daytime light",
   "takeaway": "Laporan ini netral bagi fundamental MSIE, karena nilai pembelian hanya sekitar Rp298 juta dan hak suara pelapor pun masih di bawah dua persen setelah transaksi, jauh dari ukuran yang bisa mengubah peta kendali perusahaan. Yang tersentuh di sini cuma komposisi pemegang saham, bukan laporan keuangan MSIE sendiri, sebab uang dari pembelian ini mengalir ke penjual saham di pasar sekunder, bukan masuk sebagai modal baru ke kas perusahaan, sehingga ekuitas dan kas MSIE tidak berubah. Kenaikan 15,6 persen dari kepemilikan sebelumnya memang menunjukkan Permata Health Nusantara terus menambah posisi, tapi porsinya terhadap total saham MSIE masih kecil sehingga belum bisa dibaca sebagai sinyal arah tertentu. Yang perlu dipantau adalah apakah pembelian bertahap ini berlanjut di laporan-laporan berikutnya, serta RUPSLB MSIE pada 20 November 2026 yang akan membahas penyesuaian kode klasifikasi usaha perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baik-jadwalkan-rupslb-bahas-rombak-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Jadwalkan RUPSLB, Bahas Rombak [Komisaris]",
+  "deck": "PT Bersama Mencapai Puncak Tbk. (BAIK) akan menggelar RUPSLB pada 25 November 2026 dengan agenda tunggal perubahan susunan Dewan Komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T12:17:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba8a398427_37aaa57e1d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAIK",
+  "tags": [
+   "BAIK",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Bersama Mencapai Puncak"
+  ],
+  "body": [
+   "PT Bersama Mencapai Puncak Tbk. (BAIK) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) melalui surat bernomor 0126/SPn/BMP/10/2026 tertanggal 19 Oktober 2026 yang ditandatangani Direktur Utama Nanang Suherman. Agenda tunggal rapat adalah persetujuan perubahan susunan anggota Dewan Komisaris Perseroan. Perusahaan menjelaskan bahwa perubahan ini mengacu pada Pasal 23 POJK Nomor 33/POJK.04.2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik, serta Pasal 19 ayat 2 huruf d Anggaran Dasar Perseroan, yang mengharuskan setiap pergantian komisaris ditetapkan lewat RUPS.",
+   "RUPSLB dijadwalkan berlangsung Rabu, 25 November 2026 pukul 10.00 WIB di Meeting Room Bersama, Jalan Ruko Soekarno Hatta Indah A18, Mojolangu, Kecamatan Lowokwaru, Kota Malang, Jawa Timur. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham di PT Kustodian Sentral Efek Indonesia pada 2 November 2026 pukul 16.00 WIB. Bagi pemegang saham yang ingin mengusulkan tambahan mata acara, usulan tertulis harus disampaikan kepada Direksi paling lambat tujuh hari sebelum pemanggilan rapat dipublikasikan, oleh satu pemegang saham atau lebih yang mewakili minimal satu per dua puluh bagian dari total saham berhak suara, disertai alasan dan bahan usulan, serta tidak bertentangan dengan peraturan yang berlaku.",
+   "Pemanggilan resmi RUPSLB akan diumumkan melalui situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs resmi Perseroan pada 3 November 2026. Perusahaan juga menyatakan akan menerapkan mekanisme pemberian kuasa secara elektronik melalui sistem eASY KSEI milik PT Kustodian Sentral Efek Indonesia, sesuai POJK Nomor 14 Tahun 2025 tentang Pelaksanaan RUPS, RUPO, dan Rapat Umum Pemegang Sukuk Secara Elektronik. Prosedur teknis pemberian kuasa elektronik itu akan dijelaskan lebih rinci dalam iklan pemanggilan rapat mendatang."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of upholstered chairs around a long table, soft morning light through windows, East Java office",
+  "takeaway": "Laporan ini netral bagi pemegang saham karena isinya baru pemberitahuan rencana rapat, belum ada nama komisaris yang masuk atau keluar sehingga dampaknya belum bisa dinilai. Perubahan susunan Dewan Komisaris tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau arus kas, tapi menyentuh sisi pengawasan perusahaan, sebab komisaris bertugas mengawasi kinerja direksi sehingga wajah baru di kursi ini bisa mengubah arah pengawasan perusahaan ke depan. Pemegang saham dengan kepemilikan minimal satu per dua puluh bagian saham berhak suara masih punya kesempatan mengusulkan agenda tambahan sebelum pemanggilan resmi terbit. Yang perlu dipantau adalah pemanggilan resmi rapat pada 3 November 2026, yang biasanya memuat nama calon komisaris yang diusulkan, serta pelaksanaan RUPSLB itu sendiri pada 25 November 2026 saat susunan baru Dewan Komisaris resmi diputuskan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bren-bantah-ada-info-tersembunyi-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BREN Bantah Ada Info Tersembunyi di Balik Volatilitas [Saham]",
+  "deck": "Menjawab permintaan BEI, BREN menyatakan tak ada fakta material baru, tak ada rencana korporasi dalam 3 bulan, dan pemegang saham utama belum berencana ubah kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T11:56:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/27210eaec3_4fe6d71e5d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BREN",
+  "tags": [
+   "BREN",
+   "Barito Renewables",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Barito Renewables Energy Tbk (BREN) mengirim surat penjelasan bernomor 019/BREN/BOD/X/2026 tertanggal 19 Oktober 2026, menanggapi permintaan Bursa Efek Indonesia melalui surat nomor S-13155/BEI.PP2/10-2026 tertanggal 15 Oktober 2026 perihal volatilitas transaksi saham perseroan. Surat balasan ditandatangani oleh Direktur Utama BREN, Hendra Soetjipto Tan.",
+   "Dalam surat itu, manajemen BREN menegaskan enam hal. Pertama, perseroan menyatakan sudah menyampaikan seluruh informasi atau fakta material sesuai POJK 31/2015 melalui situs BEI dan situs resmi perseroan, dan tidak mengetahui ada fakta material lain yang belum diungkap. Kedua, tidak ada informasi yang relevan dengan ketentuan III.2.1 Peraturan I-E BEI yang belum disampaikan. Ketiga, perseroan tidak menerima laporan perubahan kepemilikan saham dari direksi, komisaris, atau pihak dengan kepemilikan 5 persen atau lebih sesuai POJK 4/2024. Keempat, tidak ada rencana tindakan korporasi dalam tiga bulan mendatang yang bisa berdampak pada status pencatatan saham BREN di bursa.",
+   "Poin kelima menyebut tidak ada informasi atau kejadian material lain yang belum diungkap ke publik. Poin keenam, berdasarkan konfirmasi verbal dari pemegang saham utama (PSU), pihak tersebut sampai saat surat ini dibuat belum memiliki rencana menambah, mengurangi, atau mengubah kepemilikan sahamnya di BREN. Surat penjelasan ini terbit pada hari yang sama dengan pengumuman rencana pembelian kembali (buyback) saham BREN senilai hingga Rp1 triliun, yang kemungkinan terkait dengan pergerakan harga yang memicu pertanyaan BEI tersebut."
+  ],
+  "fotoAdegan": "Steam rising from geothermal power plant cooling towers on a forested hillside in Indonesia, misty morning light",
+  "takeaway": "Laporan ini netral bagi BREN, karena isinya murni konfirmasi rutin menjawab pertanyaan bursa, bukan kabar baru soal kondisi keuangan atau operasional perusahaan. Tidak ada pos kinerja yang tersentuh di sini, bukan ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham, karena intinya hanya menegaskan tidak ada rencana korporasi atau perubahan kepemilikan yang disembunyikan dari publik. Yang justru berarti bagi investor adalah kepastian bahwa pemegang saham utama belum berniat menambah atau mengurangi kepemilikannya, karena itu menjaga struktur kendali perusahaan tetap seperti sekarang. Yang perlu dipantau selanjutnya adalah apakah rencana buyback saham senilai Rp1 triliun yang diumumkan pada hari yang sama benar direalisasikan, karena aksi itu kemungkinan menjadi pemicu di balik volatilitas transaksi yang ditanyakan BEI. Batas waktu tiga bulan yang disebut perseroan untuk kemungkinan tindakan korporasi juga jadi acuan, yakni sekitar pertengahan Januari 2027, sebagai titik ketika investor bisa menilai apakah pernyataan ini masih berlaku.",
   "sentimen": "netral"
  },
  {

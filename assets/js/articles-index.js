@@ -21,6 +21,102 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cuan-tanggapi-sanksi-ojk-terkait-proses-ipo-perseroan",
+  "category": "Aksi Korporasi",
+  "title": "CUAN Tanggapi Sanksi [OJK] Terkait Proses IPO Perseroan",
+  "deck": "CUAN menegaskan ke BEI bahwa sanksi OJK atas dugaan pelanggaran proses IPO tidak dikenakan langsung ke perusahaan, melainkan ke pihak yang terlibat dalam pelaksanaan penawaran umum perdana sahamnya.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CUAN",
+   "OJK",
+   "IPO",
+   "sanksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7bf2f56724_c702f9926e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vktr-catat-480-6-juta-saham-baru-dari-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Catat 480,6 Juta Saham Baru dari [HMETD]",
+  "deck": "BEI mencatatkan 480.575.884 saham baru VKTR hasil pelaksanaan HMETD per 20 Oktober 2026, menambah total saham beredar jadi 45,59 miliar lembar.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VKTR",
+   "HMETD",
+   "saham baru",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fba418b027_2266f81a76.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-catat-tambahan-600-000-unit-etf-xihd",
+  "category": "Aksi Korporasi",
+  "title": "BEI Catat Tambahan [600.000] Unit ETF XIHD",
+  "deck": "Bursa mencatatkan tambahan 600.000 unit penyertaan ETF XIHD, dari 54,4 juta menjadi 55 juta unit, mulai diperdagangkan 20 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XIHD",
+   "ETF",
+   "Reksadana",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/65487a848b_26006228e3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ahap-catatkan-607-6-juta-saham-baru-hasil-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "AHAP Catatkan 607,6 Juta Saham Baru Hasil [HMETD]",
+  "deck": "BEI mencatatkan 607.614.227 saham baru AHAP hasil pelaksanaan rights issue tahap V, menambah total saham beredar menjadi 7.594.622.377 lembar efektif 20 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AHAP",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcadc07f17_a895d13cbf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unit-penyertaan-etf-xrdn-bertambah-391-9-juta-unit",
+  "category": "Aksi Korporasi",
+  "title": "Unit Penyertaan ETF XRDN Bertambah [391,9] Juta Unit",
+  "deck": "BEI mencatat penambahan 391,9 juta unit penyertaan ETF XRDN menjadi 22,48 miliar unit, efektif diperdagangkan mulai 20 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XRDN",
+   "ETF",
+   "BEI",
+   "reksa dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7dd1063dca_216146c9c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "brna-catatkan-342-9-juta-saham-baru-dari-rights-issue-put-iii",
+  "category": "Aksi Korporasi",
+  "title": "BRNA Catatkan [342,9 Juta] Saham Baru dari Rights Issue PUT III",
+  "deck": "Berlina Tbk (BRNA) mencatatkan tambahan 342.885.232 saham hasil pelaksanaan HMETD rights issue PUT III, sehingga total saham beredar jadi 1,32 miliar lembar.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRNA",
+   "rights issue",
+   "HMETD",
+   "pencatatan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea7f1684dd_593b85b76a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kota-jadwalkan-ulang-rupslb-rights-issue-ke-23-oktober",
   "category": "Aksi Korporasi",
   "title": "KOTA Jadwalkan Ulang [RUPSLB] Rights Issue ke 23 Oktober",
@@ -50,6 +146,38 @@ var ARTICLES = [
    "jatuh tempo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1b046144e6_c0ba94d169.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-tambah-275-400-saham-dari-konversi-obligasi-wajib",
+  "category": "Aksi Korporasi",
+  "title": "PACK Tambah 275.400 Saham dari [Konversi] Obligasi Wajib",
+  "deck": "Bursa mencatatkan 275.400 saham baru PT Abadi Nusantara Hijau Investama Tbk (PACK) hasil konversi sebagian Obligasi Wajib Konversi, efektif 20 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "obligasi wajib konversi",
+   "pencatatan saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d971a4531c_35c210cdd5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-catatkan-tambahan-195-3-juta-saham-dari-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Catatkan Tambahan 195,3 Juta Saham dari [Rights Issue]",
+  "deck": "BEI mencatat tambahan 195.320.682 saham baru ENRG hasil pelaksanaan HMETD PUT IV, membuat total saham tercatat naik menjadi 34.079.857.191 lembar per 20 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "rights issue",
+   "HMETD",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a5e38c73a_db03a68238.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -137,6 +265,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "rups-hrta-setujui-private-placement-hingga-10-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "RUPS HRTA Setujui [Private Placement] hingga 10% Saham Baru",
+  "deck": "Pemegang saham independen HRTA menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu hingga 460,5 juta saham, disetujui 98,18 persen suara yang hadir.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRTA",
+   "RUPS",
+   "private placement",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/796d973bf8_5f5b940fe4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bdmn-sewakan-tanah-bangunan-ke-adira-afiliasi-rp617-76-juta",
   "category": "Aksi Korporasi",
   "title": "BDMN sewakan tanah-bangunan ke Adira [afiliasi] Rp617,76 juta",
@@ -201,6 +345,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ppre-bubarkan-anak-usaha-pt-presisi-sumber-anugerah",
+  "category": "Aksi Korporasi",
+  "title": "PPRE [Bubarkan] Anak Usaha PT Presisi Sumber Anugerah",
+  "deck": "PP Presisi melikuidasi anak usaha tak langsung PSA yang 51% sahamnya ia pegang, karena perusahaan itu belum pernah aktif beroperasi.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRE",
+   "likuidasi",
+   "anak usaha",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/282a33aed2_6b00dc699a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "beef-pemegang-saham-tambah-saham-hak-suara-ke-8-21",
   "category": "Aksi Korporasi",
   "title": "BEEF: Pemegang Saham Tambah Saham, Hak Suara ke [8,21%]",
@@ -214,6 +374,22 @@ var ARTICLES = [
    "pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-2855-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sdra-ganti-satu-anggota-komite-audit",
+  "category": "Aksi Korporasi",
+  "title": "SDRA Ganti Satu Anggota [Komite Audit]",
+  "deck": "Bank Woori Saudara Indonesia (SDRA) mengganti satu anggota komite audit efektif 16 Oktober 2026, sementara ketua dan anggota lainnya tetap.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SDRA",
+   "komite audit",
+   "Bank Woori Saudara",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/04f9f47d70_aeb47b9fc4.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6364,185 +6540,6 @@ var ARTICLES = [
    "Kemenko Perekonomian"
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7147/dorong-formalisasi-usaha-dan-naik-kelas-pemerintah-perkuat-kapasitas-tenaga-kerja-mandiri",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kemenko-dan-bps-sepakat-rumuskan-kebijakan-berbasis-data",
-  "category": "Makroekonomi",
-  "title": "Kemenko dan BPS Sepakat Rumuskan Kebijakan Berbasis [Data]",
-  "deck": "Kemenko Perekonomian dan BPS membahas data pertumbuhan ekonomi, inflasi, dan surplus dagang semester I 2026 sebagai dasar perumusan kebijakan ke depan.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
-  "tags": [
-   "BPS",
-   "Kemenko Perekonomian",
-   "pertumbuhan ekonomi",
-   "inflasi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7145/pemerintah-kuatkan-sinergi-dengan-bps-untuk-formulasikan-kebijakan-berlandaskan-data",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "harga-minyak-indonesia-melonjak-ke-us-112-81-per-barel",
-  "category": "Energi",
-  "title": "Harga Minyak Indonesia [Melonjak] ke US$112,81 per Barel",
-  "deck": "Pemerintah menetapkan ICP September 2026 naik US$23,38 menjadi US$112,81 per barel akibat ketegangan geopolitik di Timur Tengah.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/harga-minyak-indonesia-melonjak-ke-us-112-81-per-barel.jpg",
-  "imageV": "mv5eajbw",
-  "tags": [
-   "ICP",
-   "Harga Minyak",
-   "ESDM",
-   "Timur Tengah"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/ketegangan-geopolitik-dorong-icp-september-naik-ke-us11281-per-barel",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "tei-2026-buka-ruang-ekspor-jasa-dari-logistik-hingga-ai",
-  "category": "Bisnis",
-  "title": "TEI 2026 Buka Ruang Ekspor [Jasa] dari Logistik hingga AI",
-  "deck": "Pameran dagang TEI ke-41 di ICE BSD City, 14-18 Oktober 2026, menyertakan puluhan perusahaan jasa dari logistik, keuangan, hingga kecerdasan buatan untuk menjaring pembeli mancanegara.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/kemasan-produk-gudang.jpg",
-  "tags": [
-   "TEI 2026",
-   "ekspor jasa",
-   "Kemendag",
-   "INASA"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mulai-dari-jasa-facility-management-hingga-jasa-digital-peluang-ekspor-jasa-kian-terbuka-melalui-tei-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "smmt-bei-umumkan-konsentrasi-saham-tinggi-97-12",
-  "category": "Aksi Korporasi",
-  "title": "SMMT: BEI Umumkan [Konsentrasi] Saham Tinggi 97,12%",
-  "deck": "BEI dan KSEI mengumumkan 97,12% saham Golden Eagle Energy (SMMT) dikuasai segelintir pemegang saham per 1 Oktober 2026, menyisakan free float yang sangat tipis.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMT",
-   "BEI",
-   "kepemilikan saham",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9080b09603_846c06b338.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-umumkan-konsentrasi-saham-tinggi-psab-95-78",
-  "category": "Aksi Korporasi",
-  "title": "BEI Umumkan Konsentrasi Saham [Tinggi] PSAB 95,78%",
-  "deck": "BEI dan KSEI mencatat 95,78 persen saham PSAB per 1 Oktober 2026 dikuasai segelintir pihak, menandakan saham yang beredar bebas di pasar sangat tipis.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSAB",
-   "BEI",
-   "KSEI",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fd38293fa_74ccd1c853.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "PRTL bagikan [dividen] interim Rp200 miliar, Rp3,43 per saham",
-  "deck": "PRTL melaporkan rencana dividen interim tunai Rp200 miliar atau Rp3,43 per saham untuk tahun buku 2026, yang hampir seluruhnya mengalir ke pemegang saham pengendali, Sarana Menara Nusantara.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRTL",
-   "dividen interim",
-   "Sarana Menara Nusantara",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/40b4991b0d_b411e23d4e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "admr-anak-usaha-catatkan-obligasi-rp2-triliun-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "ADMR: Anak Usaha Catatkan [Obligasi] Rp2 Triliun di BEI",
-  "deck": "PT Maruwai Coal, anak usaha ADMR, mencatatkan obligasi senilai Rp2 triliun di Bursa Efek Indonesia untuk mendanai infrastruktur dan operasional.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMR",
-   "obligasi",
-   "Maruwai Coal",
-   "surat utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f9c47fa832_8875e0f9eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-jatuhkan-sanksi-ke-70-emiten-soal-laporan-keuangan-interim",
-  "category": "Aksi Korporasi",
-  "title": "BEI Jatuhkan [Sanksi] ke 70 Emiten soal Laporan Keuangan Interim",
-  "deck": "BEI menjatuhkan peringatan tertulis dan denda sampai Rp150 juta kepada 70 emiten yang terlambat menyampaikan laporan keuangan interim per Juni 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEI",
-   "SRIL",
-   "PGAS",
-   "Sanksi Laporan Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/882ea299e2_c3f3bcd7ed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-obligasi-jpy200-juta-diperpanjang-lagi-ke-akhir-2026",
-  "category": "Aksi Korporasi",
-  "title": "VTNY: Obligasi [JPY200 Juta] Diperpanjang Lagi ke Akhir 2026",
-  "deck": "Venteny Fortuna menjawab permintaan penjelasan BEI soal piutang jumbo, obligasi anak usaha yang dua kali diperpanjang, dan pergantian corporate secretary dua kali dalam sepekan.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "obligasi",
-   "piutang",
-   "corporate secretary"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/867fe02032_a3a914dca7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-grand-prix-mandalika-2026-sukses-digelar",
-  "category": "BUMN",
-  "title": "Pertamina Grand Prix Mandalika 2026 [Sukses] Digelar",
-  "deck": "Ajang balap internasional di Sirkuit Mandalika usai digelar 9-11 Oktober, Dirut Pertamina berterima kasih ke pihak yang terlibat, dari pemerintah hingga pelaku UMKM.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/pertamina-grand-prix-mandalika-2026-sukses-digelar.jpg",
-  "imageV": "mv5eajy4",
-  "tags": [
-   "Pertamina",
-   "Mandalika",
-   "Sport Tourism",
-   "Balap"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472579-pertamina-grand-prix-of-indonesia-2026-sukses-digelar-direktur-utama-pertamina-apresiasi-kontribusi-seluruh-pihak"
- },
- {
-  "slug": "investasi-hilirisasi-ri-capai-rp300-1-triliun-di-semester-i",
-  "category": "Makroekonomi",
-  "title": "Investasi Hilirisasi RI Capai [Rp300,1] Triliun di Semester I",
-  "deck": "Pemerintah memaparkan capaian investasi hilirisasi dan penyelesaian aduan pelaku usaha dalam pembukaan Rakernas HIPPI, sembari mendorong perluasan akses ekspor lewat kerja sama dagang dengan Uni Eropa, Kanada, dan AS.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
-  "tags": [
-   "hilirisasi",
-   "investasi",
-   "HIPPI",
-   "ekspor"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7146/wamenko-dradjad-dorong-penguatan-pengusaha-nasional-dan-perluasan-akses-pasar",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

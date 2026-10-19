@@ -29,6 +29,159 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "cuan-tanggapi-sanksi-ojk-terkait-proses-ipo-perseroan",
+  "category": "Aksi Korporasi",
+  "title": "CUAN Tanggapi Sanksi [OJK] Terkait Proses IPO Perseroan",
+  "deck": "CUAN menegaskan ke BEI bahwa sanksi OJK atas dugaan pelanggaran proses IPO tidak dikenakan langsung ke perusahaan, melainkan ke pihak yang terlibat dalam pelaksanaan penawaran umum perdana sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T19:29:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7bf2f56724_c702f9926e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CUAN",
+  "tags": [
+   "CUAN",
+   "OJK",
+   "IPO",
+   "sanksi"
+  ],
+  "body": [
+   "PT Petrindo Jaya Kreasi Tbk (CUAN) menyampaikan penjelasan kepada Bursa Efek Indonesia (BEI) menyusul surat BEI bernomor S-13184/BEI.PP1/10-2026 tanggal 16 Oktober 2026 yang meminta klarifikasi atas pemberitaan media massa. Pemberitaan yang dimaksud adalah artikel CNBC Indonesia berjudul \"Ada Pelanggaran, OJK Telusuri Saham BREN, CUAN, dan DSSA\" yang terbit pada tanggal yang sama, terkait dugaan pelanggaran dalam proses penawaran umum perdana saham (IPO) tiga emiten tersebut. Tanggapan resmi CUAN disampaikan pada 19 Oktober 2026 dan ditandatangani oleh Direktur Utama Michael.",
+   "Dalam suratnya, CUAN membenarkan adanya pengenaan sanksi berupa denda oleh Otoritas Jasa Keuangan (OJK), namun menegaskan bahwa denda tersebut tidak dikenakan langsung kepada perusahaan. Menurut perseroan, denda itu dikenakan kepada pihak-pihak tertentu yang terkait dengan pelaksanaan penawaran umum perdana saham CUAN, sesuai peran dan tanggung jawab masing-masing pihak. Perseroan menyatakan kondisi keuangannya saat ini baik, dengan likuiditas yang memadai untuk mendukung kelangsungan usaha, sehingga menilai sanksi ini tidak akan berdampak negatif material terhadap kondisi keuangan, kinerja operasional, maupun kelangsungan usaha perusahaan.",
+   "Soal kemungkinan proses hukum lanjutan, CUAN menyatakan belum dapat memastikan adanya kewajiban tambahan di luar yang telah ditetapkan resmi oleh OJK. Perseroan berjanji akan menindaklanjuti sanksi tersebut sesuai ketentuan yang berlaku, termasuk melakukan evaluasi internal atas aspek kepatuhan, pengawasan, dan tata kelola perusahaan, serta memperkuat penerapan tata kelola perusahaan yang baik dan efektivitas pengendalian internal. CUAN juga menegaskan tidak ada informasi atau fakta material lain yang perlu disampaikan saat ini, dan akan melaporkan ke bursa apabila terdapat perkembangan yang memengaruhi harga saham atau keputusan investasi pemodal."
+  ],
+  "fotoAdegan": "A modern glass office tower in Jakarta's financial district photographed from below at dusk, lights switching on, light traffic streaking past",
+  "takeaway": "Laporan ini condong negatif bagi emiten, sebab isinya mengonfirmasi bahwa OJK memang menemukan pelanggaran terkait proses IPO CUAN, meski perusahaan menegaskan dendanya tidak dibebankan langsung ke kas perseroan. Dampaknya lebih terasa di sisi reputasi dan tata kelola ketimbang ke laporan keuangan, karena perusahaan sendiri menyebut kondisi kas dan likuiditasnya tetap memadai, tapi sorotan atas kepatuhan saat proses penawaran umum perdana saham bisa memengaruhi kepercayaan investor terhadap pengelolaan perusahaan ke depan. Yang perlu dipantau selanjutnya adalah apakah OJK atau otoritas lain menetapkan proses hukum tambahan di luar sanksi yang sudah ada, serta hasil evaluasi internal perseroan atas aspek kepatuhan dan pengawasan yang dijanjikan dalam suratnya, karena CUAN belum memberi tenggat waktu pasti untuk itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "vktr-catat-480-6-juta-saham-baru-dari-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Catat 480,6 Juta Saham Baru dari [HMETD]",
+  "deck": "BEI mencatatkan 480.575.884 saham baru VKTR hasil pelaksanaan HMETD per 20 Oktober 2026, menambah total saham beredar jadi 45,59 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T19:14:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fba418b027_2266f81a76.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VKTR",
+  "tags": [
+   "VKTR",
+   "HMETD",
+   "saham baru",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi mencatatkan 480.575.884 saham baru PT VKTR Teknologi Mobilitas Tbk (VKTR) pada 20 Oktober 2026. Saham tambahan ini berasal dari pelaksanaan Hak Memesan Efek Terlebih Dahulu (HMETD), yakni hak yang diberikan kepada pemegang saham lama untuk membeli saham baru lebih dulu sebelum ditawarkan ke pihak lain. Dengan tambahan ini, jumlah saham VKTR yang tercatat di bursa naik dari 45.116.552.393 lembar menjadi 45.597.128.277 lembar. Pengumuman bernomor Peng-RI-00051/BEI.PP3/10-2026 ini diteken Kepala Divisi Penilaian Perusahaan 3 BEI Lidia M. Panjaitan dan Kadiv Pengaturan & Operasional Perdagangan BEI Pande Made Kusuma Ari A.",
+   "Informasi ini dilengkapi surat dari PT Electronic Data Interchange Indonesia (EDII), biro administrasi efek yang mengurus pencatatan saham VKTR, tertanggal 16 Oktober 2026. Dalam surat itu disebutkan bahwa pelaksanaan HMETD terjadi pada 16 Oktober 2026, dan setelah penambahan ini, hak yang tercatat di BEI namun belum dilaksanakan oleh pemegangnya masih berjumlah 13.152.871.723 lembar, setara sekitar 28,8 persen dari total saham VKTR setelah penambahan."
+  ],
+  "fotoAdegan": "Workers inspecting electric bus chassis parts on an industrial assembly line, bright overhead lighting, factory floor in Jakarta.",
+  "takeaway": "Penilaian kami netral, karena penambahan 480,6 juta saham ini hanya sekitar 1 persen dari jumlah saham VKTR sebelumnya, porsi yang kecil untuk disebut sebagai sinyal besar bagi arah fundamental perusahaan. Yang tersentuh adalah jumlah saham beredar, yang begitu bertambah membuat laba perusahaan, kalau ada, terbagi ke basis saham yang lebih besar sehingga laba per lembar saham berpotensi sedikit terdilusi. Yang perlu dicermati justru sisa HMETD yang belum dilaksanakan, yakni 13,15 miliar lembar atau sekitar 28,8 persen dari total saham VKTR saat ini, karena kalau seluruh sisanya dieksekusi pemegang saham, jumlah saham beredar VKTR bisa bertambah jauh lebih besar dari penambahan kali ini. Pembaca sebaiknya memantau pengumuman BEI berikutnya soal pencatatan saham hasil pelaksanaan HMETD lanjutan, karena itu akan menunjukkan apakah hak yang tersisa benar-benar diserap pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-catat-tambahan-600-000-unit-etf-xihd",
+  "category": "Aksi Korporasi",
+  "title": "BEI Catat Tambahan [600.000] Unit ETF XIHD",
+  "deck": "Bursa mencatatkan tambahan 600.000 unit penyertaan ETF XIHD, dari 54,4 juta menjadi 55 juta unit, mulai diperdagangkan 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T19:10:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/65487a848b_26006228e3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XIHD",
+  "tags": [
+   "XIHD",
+   "ETF",
+   "Reksadana",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan tambahan unit penyertaan Reksadana Indeks Premier ETF IDX HIGH DIVIDEN 20 dengan kode XIHD. Berdasarkan pengumuman bernomor Peng-P-01043/BEI.PP3/10-2026 yang ditandatangani Kadiv Penilaian Perusahaan 3 Lidia M. Panjaitan dan Kadiv Pengaturan & Operasional Perdagangan Pande Made Kusuma Ari A, sebanyak 600.000 unit penyertaan baru dicatatkan tanpa ada unit yang dihapuskan. Tambahan ini mulai tercatat dan diperdagangkan pada 20 Oktober 2026.",
+   "Dalam laporan terpisah bernomor 874/IPIM-RD/X/2026 yang disampaikan manajer investasi pengelola ETF ini, yang beralamat di Pacific Century Place, SCBD, dan ditandatangani Mita Darmawan selaku pejabat Fund Settlement, disebutkan bahwa jumlah unit penyertaan beredar per 19 Oktober 2026 sebelumnya adalah 54.400.000 unit. Dengan penambahan 600.000 unit dan tanpa pengurangan, total unit penyertaan yang beredar menjadi 55.000.000 unit."
+  ],
+  "fotoAdegan": "Wide exterior shot of a modern stock exchange office tower at dusk, lit windows, busy city street traffic below",
+  "takeaway": "Perubahan ini saya nilai netral bagi ETF XIHD, karena tambahan 600.000 unit hanya sekitar 1,1 persen dari total unit sebelumnya, terlalu kecil untuk disebut sinyal arah tertentu bagi fund ini. Yang tersentuh di sini adalah jumlah unit penyertaan beredar, semacam jumlah saham beredar pada reksadana berbasis bursa, yang penting dipantau karena memengaruhi total dana yang dikelola ETF ini, namun pada ETF penambahan unit biasanya dilakukan sesuai nilai aktiva bersih saat itu sehingga tidak serta merta menggerus nilai per unit bagi pemegang unit lama. Yang perlu dipantau pemegang unit adalah mulai berlakunya pencatatan dan perdagangan tambahan unit ini pada 20 Oktober 2026, saat 55 juta unit itu resmi diperdagangkan di pasar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ahap-catatkan-607-6-juta-saham-baru-hasil-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "AHAP Catatkan 607,6 Juta Saham Baru Hasil [HMETD]",
+  "deck": "BEI mencatatkan 607.614.227 saham baru AHAP hasil pelaksanaan rights issue tahap V, menambah total saham beredar menjadi 7.594.622.377 lembar efektif 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T19:06:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcadc07f17_a895d13cbf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AHAP",
+  "tags": [
+   "AHAP",
+   "rights issue",
+   "HMETD",
+   "pasar modal"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan 607.614.227 saham baru PT Asuransi Harta Aman Pratama Tbk (AHAP) hasil pelaksanaan Hak Memesan Efek Terlebih Dahulu (HMETD) tahap V, efektif berlaku 20 Oktober 2026. Dengan tambahan ini, total saham AHAP yang tercatat di bursa naik dari 6.987.008.150 lembar menjadi 7.594.622.377 lembar, atau bertambah sekitar 8,7 persen.",
+   "Berdasarkan surat biro administrasi efek Datindo Entrycom kepada BEI tertanggal 19 Oktober 2026, total HMETD yang beredar sebelum masa pelaksanaan berjumlah 1.412.991.850, terdiri dari 809.883.678 dalam bentuk scriptless atau tanpa sertifikat fisik dan 603.108.172 dalam bentuk warkat atau sertifikat fisik. Dari jumlah tersebut, pemegang saham melaksanakan atau menukarkan 607.614.227 HMETD menjadi saham baru, yakni 7.614.227 HMETD scriptless dan 600.000.000 HMETD warkat. Sisanya, 805.377.623 HMETD atau sekitar 57 persen dari total yang beredar, terdiri dari 802.269.451 scriptless dan 3.108.172 warkat, tidak dilaksanakan oleh pemegangnya.",
+   "Laporan pelaksanaan ini merujuk pada surat PT Kustodian Sentral Efek Indonesia (KSEI) No. KSEI-26051/JKU/1026 tanggal 16 Oktober 2026 yang merekap kegiatan exercise Right V AHAP per tanggal tersebut. Surat pemberitahuan ke bursa diteken E. Agung Setiawati selaku Direktur Utama AHAP, dengan tembusan kepada Sutjianta selaku Direktur sekaligus Corporate Secretary perseroan."
+  ],
+  "fotoAdegan": "Wide view of Jakarta's Sudirman business district skyscrapers at early morning, glass towers reflecting soft light, light traffic below",
+  "takeaway": "Laporan ini condong positif bagi AHAP karena pelaksanaan rights issue berarti sebagian pemegang saham menyetor dana tunai untuk membeli 607,6 juta saham baru, sehingga ada uang segar masuk ke kas perusahaan yang memperkuat modal, hal yang penting bagi perusahaan asuransi untuk menjaga kecukupan modal sesuai aturan regulator. Yang perlu diperhatikan, jumlah saham beredar AHAP ikut naik 8,7 persen menjadi 7,59 miliar lembar, sehingga laba bersih perusahaan kini harus dibagi ke lebih banyak lembar saham dan laba per sahamnya berpotensi terdilusi kalau labanya tidak tumbuh secepat penambahan jumlah saham. Perlu dicatat juga bahwa sekitar 57 persen hak membeli saham baru, atau 805,4 juta HMETD, justru tidak dilaksanakan oleh pemegangnya, sehingga nasib sisa hak tersebut, apakah diserap pembeli siaga atau hangus, belum terungkap dalam dokumen ini. Yang perlu dipantau berikutnya adalah mulai diperdagangkannya saham baru ini sejak 20 Oktober 2026 serta kemungkinan pengumuman lanjutan AHAP soal realisasi dana hasil pelaksanaan rights issue tahap V ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "unit-penyertaan-etf-xrdn-bertambah-391-9-juta-unit",
+  "category": "Aksi Korporasi",
+  "title": "Unit Penyertaan ETF XRDN Bertambah [391,9] Juta Unit",
+  "deck": "BEI mencatat penambahan 391,9 juta unit penyertaan ETF XRDN menjadi 22,48 miliar unit, efektif diperdagangkan mulai 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T19:04:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7dd1063dca_216146c9c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XRDN",
+  "tags": [
+   "XRDN",
+   "ETF",
+   "BEI",
+   "reksa dana"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan tambahan unit penyertaan reksa dana berbentuk ETF dengan kode XRDN pada 19 Oktober 2026. Jumlah unit penyertaan bertambah 391.900.000 unit, dari sebelumnya 22.092.600.000 unit menjadi 22.484.500.000 unit setelah perubahan. Tidak ada unit yang dihapuskan pada periode ini. Pencatatan dan perdagangan atas unit tambahan tersebut mulai berlaku 20 Oktober 2026.",
+   "Laporan ini disampaikan oleh manajer investasi reksa dana tersebut melalui surat bernomor 885/IPIM-RD/X/2026, ditandatangani oleh Mita Darmawan selaku Fund Settlement, yang menyampaikan rincian jumlah unit beredar sebelum dan sesudah perubahan kepada bursa. Penambahan ini terjadi tidak lama setelah laporan sebelumnya pada 13 Oktober 2026 yang mencatat unit penyertaan XRDN justru menyusut 399,2 juta unit."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's SCBD financial district at dusk, lights turning on in high-rise windows, light traffic below",
+  "takeaway": "Penilaian kami netral, karena penambahan 391,9 juta unit ini hanya setara sekitar 1,8 persen dari total unit yang beredar sebelumnya, dan lebih mencerminkan mekanisme rutin pembuatan unit baru ETF ketimbang sinyal perubahan arah fundamental reksa dana. Yang tersentuh adalah jumlah unit penyertaan beredar, yang pada ETF berfungsi seperti jumlah saham beredar pada emiten biasa, sehingga penambahannya memperbesar total dana kelolaan tanpa mengubah nilai aset bersih per unit karena unit baru diterbitkan sesuai nilai pasar saat itu. Pelaku pasar memantau pos ini karena naik turunnya unit beredar secara rutin menggambarkan arus investor masuk atau keluar dari ETF ini. Dalam sepekan terakhir arahnya bahkan berbalik dari penyusutan 399,2 juta unit pada 13 Oktober menjadi penambahan 391,9 juta unit sekarang, menandakan arus masuk dan keluar yang bergantian cepat. Yang perlu dipantau berikutnya adalah mulai berlakunya pencatatan dan perdagangan unit tambahan ini pada 20 Oktober 2026, serta apakah tren penambahan berlanjut pada laporan-laporan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "brna-catatkan-342-9-juta-saham-baru-dari-rights-issue-put-iii",
+  "category": "Aksi Korporasi",
+  "title": "BRNA Catatkan [342,9 Juta] Saham Baru dari Rights Issue PUT III",
+  "deck": "Berlina Tbk (BRNA) mencatatkan tambahan 342.885.232 saham hasil pelaksanaan HMETD rights issue PUT III, sehingga total saham beredar jadi 1,32 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T18:59:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea7f1684dd_593b85b76a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRNA",
+  "tags": [
+   "BRNA",
+   "rights issue",
+   "HMETD",
+   "pencatatan saham"
+  ],
+  "body": [
+   "PT Berlina Tbk (BRNA) mencatatkan tambahan 342.885.232 saham baru di Bursa Efek Indonesia pada Papan Pencatatan Pengembangan, menyusul pelaksanaan Hak Memesan Efek Terlebih Dahulu (HMETD) dalam Penawaran Umum Terbatas (PUT) III. Pencatatan ini efektif pada 20 Oktober 2026, sehingga total saham BRNA yang tercatat di bursa menjadi 1.322.127.222 lembar, naik dari 979.110.000 lembar sebelum PUT III digelar.",
+   "Berdasarkan surat biro administrasi efek PT Adimitra Jasa Korpora kepada BEI, pelaksanaan HMETD oleh pemegang saham tercatat hingga 16 Oktober 2026, baik melalui Surat Bukti HMETD (SBHMETD) fisik maupun sistem elektronik C-BEST, dengan total saham yang terbit dari pelaksanaan hak sebanyak 343.017.222 lembar. Dari total 543.950.000 unit HMETD yang diterbitkan dalam PUT III ini, sebanyak 200.932.778 unit, atau sekitar 37 persen, belum dilaksanakan oleh pemegangnya hingga periode pelaksanaan berakhir pada 21 Oktober 2026.",
+   "Selain mendapatkan saham baru, pemegang yang melaksanakan haknya juga memperoleh Waran Seri I yang menyertai PUT III, dengan total 114.339.056 unit waran yang telah diterbitkan dari pelaksanaan HMETD tersebut. Waran ini memberi pemegangnya opsi untuk membeli saham baru BRNA pada periode dan harga tertentu di kemudian hari, sehingga berpotensi menambah jumlah saham beredar lebih lanjut jika dikonversi."
+  ],
+  "fotoAdegan": "Workers monitoring a plastic bottle and tube production line in an industrial packaging factory, overhead conveyors, bright fluorescent lighting",
+  "takeaway": "Laporan ini saya nilai netral bagi BRNA, karena ini sekadar pencatatan administratif atas rights issue yang memang sudah direncanakan dan diumumkan sebelumnya, bukan informasi baru soal fundamental perusahaan. Yang tersentuh adalah jumlah saham beredar, yang naik sekitar 35 persen dari 979 juta jadi 1,32 miliar lembar, sehingga laba perusahaan ke depan akan dibagi ke lebih banyak lembar saham dan laba per saham pemegang saham lama berpotensi terdilusi, sementara di sisi lain perusahaan mendapat modal segar dari dana yang disetor pemegang saham yang mengeksekusi haknya. Patut dicatat pula, dari total hak yang diterbitkan, sekitar 37 persen atau 200,9 juta unit tidak dilaksanakan pemegangnya, yang bisa berarti minat pemegang saham lama untuk menambah modal tidak penuh, meski ini tidak otomatis buruk karena rights issue lazimnya punya pembeli siaga yang menyerap sisa saham. Yang perlu dipantau selanjutnya adalah laporan realisasi penggunaan dana hasil PUT III yang wajib disampaikan BRNA ke bursa setelah seluruh proses rights issue ini tuntas, karena dari situ baru akan terlihat untuk apa dana segar ini dipakai.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kota-jadwalkan-ulang-rupslb-rights-issue-ke-23-oktober",
   "category": "Aksi Korporasi",
   "title": "KOTA Jadwalkan Ulang [RUPSLB] Rights Issue ke 23 Oktober",
@@ -78,6 +231,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Large mining haul trucks and heavy equipment operating at a dusty open-pit coal mine site in Indonesia, overcast daylight",
   "takeaway": "Laporan ini netral bagi BOLD, karena jatuh tempo dan delisting Seri A ini sudah terjadwal sejak prospektus diterbitkan setahun lalu, bukan kejadian mendadak, dan dokumen ini tidak menyebut tanda gagal bayar atau kesulitan keuangan. Pos yang tersentuh adalah arus kas perusahaan: BOLD harus mengeluarkan kas sekitar Rp503,15 miliar sekaligus untuk melunasi pokok plus bunga terakhir, yang di satu sisi mengurangi kas tapi di sisi lain juga mengurangi beban utang berbunga ke depan. Yang perlu dipantau adalah apakah pelunasan pada 20 Oktober 2026 berjalan lancar tanpa keterlambatan, serta bagaimana BOLD mengelola dua seri sisanya, Seri B senilai Rp325,75 miliar yang jatuh tempo 10 Oktober 2028 dan Seri C senilai Rp55,14 miliar yang jatuh tempo 10 Oktober 2030.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pack-tambah-275-400-saham-dari-konversi-obligasi-wajib",
+  "category": "Aksi Korporasi",
+  "title": "PACK Tambah 275.400 Saham dari [Konversi] Obligasi Wajib",
+  "deck": "Bursa mencatatkan 275.400 saham baru PT Abadi Nusantara Hijau Investama Tbk (PACK) hasil konversi sebagian Obligasi Wajib Konversi, efektif 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T18:56:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d971a4531c_35c210cdd5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "obligasi wajib konversi",
+   "pencatatan saham",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan tambahan saham PT Abadi Nusantara Hijau Investama Tbk (PACK) di Papan Pencatatan Akselerasi sebanyak 275.400 lembar, menyusul konversi sebagian Obligasi Wajib Konversi (OWK) berkode PACK-01-CB. Dengan tanggal pencatatan 20 Oktober 2026, total saham PACK yang tercatat di bursa naik dari 34.122.534.871 lembar menjadi 34.122.810.271 lembar.",
+   "Berdasarkan surat PT Adimitra Jasa Korpora selaku biro administrasi efek PACK tertanggal 19 Oktober 2026, permohonan konversi diajukan pemegang OWK pada 15 Oktober 2026 dan saham barunya diterbitkan pada 19 Oktober 2026. Konversi ini melibatkan OWK dengan nilai nominal Rp27.540.000 yang ditukar menjadi 275.400 saham baru, setara rasio satu unit OWK senilai Rp100 menjadi satu saham. Surat tersebut ditandatangani Helda Dominggus, Head of Operational PT Adimitra Jasa Korpora, dengan tembusan kepada direksi PACK, PT Kustodian Sentral Efek Indonesia, Otoritas Jasa Keuangan, dan Kepala Penilaian Perusahaan 1 BEI.",
+   "Dengan konversi ini, sisa OWK PACK berkurang dari sekitar 61,8 juta unit menjadi 61.528.073 unit, atau setara nilai nominal Rp6.152.807.300. Artinya instrumen ini masih menyisakan potensi penambahan saham baru PACK ke depan jika pemegang OWK yang tersisa kembali memilih mengonversinya menjadi saham."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise office tower in Jakarta's financial district, glass facade reflecting morning sky, pedestrians crossing below",
+  "takeaway": "Laporan ini netral bagi PACK karena penambahan 275.400 saham hanya setara sekitar 0,0008 persen dari total 34,12 miliar saham yang sudah beredar, sehingga dampaknya ke pemegang saham lain nyaris tidak terasa. Yang tersentuh adalah jumlah saham beredar, angka pembagi saat menghitung laba per saham, sehingga makin banyak saham beredar, makin kecil porsi laba yang jatuh ke tiap lembar, meski di sini porsinya terlalu kecil untuk dibilang pengenceran berarti. Mekanismenya memang konversi dari Obligasi Wajib Konversi, surat utang yang sejak awal perjanjiannya sudah wajib berubah jadi saham, sehingga kejadian ini bukan keputusan dadakan melainkan jadwal yang sudah ditetapkan sebelumnya. Yang perlu dipantau berikutnya adalah sisa OWK senilai Rp6,15 miliar atau setara 61,5 juta unit yang masih berpotensi dikonversi jadi saham tambahan di kemudian hari, serta kepastian pencatatan saham baru ini di bursa pada 20 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "enrg-catatkan-tambahan-195-3-juta-saham-dari-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Catatkan Tambahan 195,3 Juta Saham dari [Rights Issue]",
+  "deck": "BEI mencatat tambahan 195.320.682 saham baru ENRG hasil pelaksanaan HMETD PUT IV, membuat total saham tercatat naik menjadi 34.079.857.191 lembar per 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T18:54:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a5e38c73a_db03a68238.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "rights issue",
+   "HMETD",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan pencatatan tambahan 195.320.682 saham baru PT Energi Mega Persada Tbk (ENRG) di Papan Pencatatan Utama, hasil pelaksanaan Hak Memesan Efek Terlebih Dahulu (HMETD) dalam Penawaran Umum Terbatas (PUT) IV. Dengan tambahan ini, total saham ENRG yang tercatat di bursa naik menjadi 34.079.857.191 lembar, efektif per tanggal pencatatan 20 Oktober 2026.",
+   "Berdasarkan surat Biro Administrasi Efek PT Ficomindo Buana Registrar kepada Otoritas Jasa Keuangan, pelaksanaan HMETD oleh pemegang saham terjadi pada 16 Oktober 2026. Sebelum pelaksanaan itu, saldo saham ENRG yang tercatat sebanyak 33.884.536.509 lembar, sehingga penambahan 195.320.682 lembar membawa totalnya menjadi 34.079.857.191 lembar, sesuai angka yang juga dikonfirmasi BEI. Surat tersebut turut menyebut masih ada 5.766.958.434 lembar saham hak dengan kode ENRG-R yang belum dieksekusi pemegangnya, meski angka ini berasal dari dokumen hasil pindaian sehingga perlu dibaca dengan hati-hati.",
+   "Penambahan ini merupakan bagian dari proses bertahap pelaksanaan PUT IV ENRG, yang sebelumnya juga menambah 2,15 miliar saham pada pertengahan Oktober 2026. Skema rights issue semacam ini mengharuskan pemegang HMETD menyetor dana tunai untuk menebus haknya, sehingga setiap pelaksanaan turut menambah kas perusahaan selain menambah jumlah saham yang beredar di pasar."
+  ],
+  "fotoAdegan": "Workers inspecting pipeline valves at an onshore oil and gas processing facility under a hazy tropical afternoon sky",
+  "takeaway": "Laporan ini netral bagi ENRG karena hanya mencerminkan realisasi lanjutan dari skema rights issue PUT IV yang sudah disetujui dan sebagian sudah diberitakan sebelumnya, dengan tambahan kali ini, 195,3 juta lembar, jauh lebih kecil dibanding tambahan 2,15 miliar lembar pada laporan sebelumnya sehingga dampaknya ke jumlah saham beredar tergolong tipis, sekitar 0,6 persen dari saldo sebelumnya. Pos yang tersentuh adalah jumlah saham beredar dan berpotensi laba per saham, sebab laba bersih yang sama kini terbagi ke lebih banyak lembar saham sehingga nilainya bisa sedikit terdilusi, sementara di sisi lain dana tunai yang disetor pemegang saham saat menebus haknya ikut menambah modal perusahaan. Yang perlu dipantau berikutnya adalah sisa hak sebesar 5,76 miliar lembar saham ENRG-R yang belum dieksekusi, karena jika sebagian besar ditebus sebelum periode pelaksanaan PUT IV berakhir, jumlah saham ENRG beredar berpotensi bertambah signifikan lagi pada laporan pencatatan selanjutnya.",
   "sentimen": "netral"
  },
  {
@@ -217,6 +422,32 @@ var ARTICLES = [
   "takeaway": "Yang berubah di sini adalah model bisnisnya, bukan status ekspornya: sebuah UMKM di lahan karst Gunungkidul membangun rantai pasok dari lebih dari 125 petani kecil di lahan hanya sekitar dua hektare, lalu mengolahnya jadi bahan baku industri makanan, minuman, kosmetik, dan farmasi. Yang terdampak langsung adalah petani mitra dan kelompok perempuan tani di Gunungkidul yang mendapat sumber pemasukan tambahan saat musim kemarau, sementara di sisi hilir ada industri pengguna bahan baku lidah buaya di dalam dan luar negeri. Namun klaim ekspornya masih berupa target dan ketertarikan awal dari satu calon pembeli Swedia, belum ada angka volume, nilai transaksi, atau kepastian kontrak ke empat negara tujuan yang disebut, yaitu Persatuan Emirat Arab, Jepang, Korea Selatan, dan Inggris. Yang perlu ditunggu adalah apakah ketertarikan di Trade Expo Indonesia 2026 ini berlanjut jadi kontrak nyata, karena tanpa itu cerita ini masih berhenti di tahap potensi, bukan hasil ekspor yang sudah terjadi."
  },
  {
+  "slug": "rups-hrta-setujui-private-placement-hingga-10-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "RUPS HRTA Setujui [Private Placement] hingga 10% Saham Baru",
+  "deck": "Pemegang saham independen HRTA menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu hingga 460,5 juta saham, disetujui 98,18 persen suara yang hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T18:26:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/796d973bf8_5f5b940fe4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRTA",
+  "tags": [
+   "HRTA",
+   "RUPS",
+   "private placement",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Hartadinata Abadi Tbk (HRTA) melaporkan hasil Rapat Umum Pemegang Saham Luar Biasa yang digelar 16 Oktober 2026 di kantor perseroan, Jalan Kopo Sayati, Kabupaten Bandung. Rapat dihadiri 4.065.683.864 saham atau 88,28 persen dari total 4.605.262.400 saham perseroan, dan menyetujui rencana penambahan modal melalui mekanisme Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu (PMTHMETD) dengan menerbitkan sebanyak-banyaknya 460.526.240 saham baru, setara 10 persen dari modal ditempatkan dan modal disetor saat ini.",
+   "Karena transaksi ini memerlukan persetujuan khusus dari pemegang saham independen (di luar pihak afiliasi), penghitungan suara dilakukan terpisah. Dari 1.308.112.200 saham independen yang berhak suara, sebanyak 793.635.864 saham atau 60,67 persen hadir dalam rapat. Dari jumlah itu, 779.198.064 saham (98,181 persen) menyatakan setuju, hanya 1.500 saham menolak, dan 14.436.300 saham (1,819 persen) memilih abstain, sehingga agenda penambahan modal dinyatakan disetujui.",
+   "Keputusan RUPS juga mencakup persetujuan perubahan anggaran dasar terkait peningkatan modal ditempatkan dan modal disetor, serta pelimpahan wewenang kepada direksi, dengan persetujuan dewan komisaris, untuk menentukan harga pelaksanaan, jadwal, dan tata cara penerbitan saham baru tersebut. Hasil rapat dituangkan dalam akta notaris Dr. Erny Kencanawati Nomor 07 tanggal 16 Oktober 2026, dan dilaporkan ke OJK serta BEI melalui surat bernomor S-720/DIR-CORSEC/HRTA-OJK-IDX/X/2026 tertanggal 19 Oktober 2026, menindaklanjuti pengumuman rencana rapat yang sebelumnya disampaikan pada 24 September 2026."
+  ],
+  "fotoAdegan": "Workers polishing gold jewelry pieces along a production line inside a workshop, soft overhead lighting",
+  "takeaway": "Persetujuan ini netral bagi pemegang saham lama, karena besaran penambahan modal tetap dibatasi maksimal 10 persen seperti rencana awal, hanya saja sekarang direksi mengantongi wewenang penuh menentukan harga dan jadwal pelaksanaan tanpa perlu kembali ke RUPS. Yang perlu diperhatikan adalah jumlah saham beredar yang bisa bertambah hingga 460,5 juta lembar, sehingga laba per saham, yaitu bagian keuntungan perusahaan yang jatuh ke tiap lembar saham, berpotensi mengecil karena kue laba yang sama harus dibagi ke lebih banyak lembar. Di sisi lain, dana yang masuk dari penjualan saham baru ini bisa menambah modal kerja perseroan, misalnya untuk pembelian bahan baku emas seperti disebutkan dalam rencana awal. Yang perlu dipantau selanjutnya adalah pengumuman harga pelaksanaan dan jadwal penerbitan saham oleh direksi, serta keterbukaan informasi soal pihak yang akan membeli saham baru tersebut, karena dokumen ini belum menyebutkan investornya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bdmn-sewakan-tanah-bangunan-ke-adira-afiliasi-rp617-76-juta",
   "category": "Aksi Korporasi",
   "title": "BDMN sewakan tanah-bangunan ke Adira [afiliasi] Rp617,76 juta",
@@ -320,6 +551,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "ppre-bubarkan-anak-usaha-pt-presisi-sumber-anugerah",
+  "category": "Aksi Korporasi",
+  "title": "PPRE [Bubarkan] Anak Usaha PT Presisi Sumber Anugerah",
+  "deck": "PP Presisi melikuidasi anak usaha tak langsung PSA yang 51% sahamnya ia pegang, karena perusahaan itu belum pernah aktif beroperasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:47:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/282a33aed2_6b00dc699a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRE",
+  "tags": [
+   "PPRE",
+   "likuidasi",
+   "anak usaha",
+   "korporasi"
+  ],
+  "body": [
+   "PT PP Presisi Tbk (PPRE) membubarkan sekaligus melikuidasi anak perusahaan yang dimilikinya secara tidak langsung, PT Presisi Sumber Anugerah (PSA). PPRE memegang 51 persen saham PSA, sementara sisanya dipegang Koperasi Mitra Prima Selaras (KMPS). Kedua pemegang saham menandatangani Keputusan Sirkuler Pemegang Saham tertanggal 19 Oktober 2026 yang menyetujui pembubaran PSA, berlaku efektif sejak tanggal keputusan itu diteken.",
+   "Dalam keputusan yang sama, PPRE dan KMPS menunjuk Vendy Ardianto Utomo sebagai likuidator yang bertugas mengurus seluruh proses pembubaran PSA sesuai anggaran dasar perusahaan dan peraturan yang berlaku. Perusahaan menjelaskan bahwa PSA dibubarkan karena dinilai tidak lagi sejalan dengan arah pengembangan dan fokus bisnis PPRE saat ini. Alasan lain yang disebutkan, PSA sampai saat ini belum pernah menjalankan kegiatan usaha secara aktif sehingga tidak memberi kontribusi apa pun terhadap kinerja maupun pencapaian strategi bisnis perseroan.",
+   "PPRE menegaskan bahwa aksi korporasi ini tidak membawa dampak pada kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan secara keseluruhan."
+  ],
+  "fotoAdegan": "Quiet construction equipment yard with idle excavators and covered machinery, overcast afternoon light, Indonesia",
+  "takeaway": "Laporan ini netral bagi fundamental PPRE, karena yang dibubarkan adalah anak usaha yang sejak awal tidak pernah beroperasi dan tidak menyumbang apa pun ke kinerja perseroan, jadi likuidasinya lebih tepat disebut rapi-rapi struktur grup ketimbang keputusan bisnis besar. Pos yang tersentuh adalah penyertaan saham PPRE di anak usaha, yaitu dana atau aset yang tercatat di laporan keuangan karena kepemilikan 51 persen di PSA. Karena PSA tidak punya kegiatan usaha, nilai penyertaan itu kemungkinan kecil, sehingga penghapusannya dari struktur grup tidak akan terasa signifikan di arus kas atau ekuitas konsolidasi PPRE. Yang perlu dipantau selanjutnya adalah proses kerja likuidator Vendy Ardianto Utomo, termasuk apakah ada sisa aset atau kewajiban PSA yang harus diselesaikan dan kapan likuidasi itu dinyatakan tuntas, karena dokumen ini belum mencantumkan tenggat penyelesaiannya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "beef-pemegang-saham-tambah-saham-hak-suara-ke-8-21",
   "category": "Aksi Korporasi",
   "title": "BEEF: Pemegang Saham Tambah Saham, Hak Suara ke [8,21%]",
@@ -344,6 +601,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers moving cattle through a dusty livestock holding pen at a rural Indonesian feedlot, early morning light",
   "takeaway": "Laporan ini condong positif bagi BEEF, sebab pemegang saham besarnya menambah kepemilikan, bukan melepasnya, dan kenaikan hak suara dari 7,98 persen ke 8,21 persen ini bukan jumlah remeh, melainkan hasil 22 transaksi beli dalam satu hari. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan laba atau arus kas perusahaan, karena transaksi ini hanya memindahkan saham yang sudah beredar dari pemilik lama ke tangan Dimas Wibowo tanpa menambah jumlah saham baru. Pelaku pasar memperhatikan pergerakan pemegang saham besar seperti ini karena bisa jadi sinyal keyakinan terhadap prospek perusahaan, sekaligus mempengaruhi siapa yang punya suara lebih besar saat pengambilan keputusan di rapat pemegang saham. Yang perlu dipantau selanjutnya adalah apakah Dimas Wibowo melanjutkan akumulasi ini di laporan-laporan berikutnya, mengingat transaksi 18 Agustus 2026 ini baru dilaporkan dua bulan kemudian pada 19 Oktober 2026.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "sdra-ganti-satu-anggota-komite-audit",
+  "category": "Aksi Korporasi",
+  "title": "SDRA Ganti Satu Anggota [Komite Audit]",
+  "deck": "Bank Woori Saudara Indonesia (SDRA) mengganti satu anggota komite audit efektif 16 Oktober 2026, sementara ketua dan anggota lainnya tetap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T16:39:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/04f9f47d70_aeb47b9fc4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SDRA",
+  "tags": [
+   "SDRA",
+   "komite audit",
+   "Bank Woori Saudara",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Bank Woori Saudara Indonesia 1906 Tbk (SDRA) melaporkan perubahan susunan komite audit yang berlaku efektif 16 Oktober 2026. Perubahan ini merujuk pada Surat Keputusan Direksi Nomor 109/KEP.DIR/HC.I/X/2026 tentang Keanggotaan Komite di Bawah Dewan Komisaris, dengan dasar hukum POJK Nomor 55/POJK.04/2015 tentang pembentukan dan pedoman kerja komite audit serta POJK Nomor 45/2024 tentang pengembangan dan penguatan emiten dan perusahaan publik.",
+   "Dari tiga posisi di komite audit, dua di antaranya tidak berubah: Tippy Joesoef tetap menjabat sebagai ketua dan Jacobus Sindu Adisuwono tetap menjadi anggota merangkap sekretaris, keduanya melanjutkan periode pertama. Satu posisi anggota berpindah tangan, dari Indra Nugraha ke Reynold M. Batubara, yang juga memulai periode pertamanya di komite tersebut.",
+   "Surat pemberitahuan ke Otoritas Jasa Keuangan ini ditandatangani oleh Ricko Irwanto selaku Direktur, dengan tembusan ke Bursa Efek Indonesia, Kustodian Sentral Efek Indonesia, biro administrasi efek Sinartama Gunita, dan Departemen Pengawasan Bank Swasta 1 OJK. Dokumen keterbukaan di sistem pelaporan elektronik sendiri ditandatangani oleh Wiwit Sundari, Kepala Divisi Kepatuhan perseroan."
+  ],
+  "fotoAdegan": "Exterior of a glass-walled bank office tower in Jakarta's business district, muted afternoon light, no legible signage",
+  "takeaway": "Perubahan ini netral bagi SDRA karena hanya satu dari tiga kursi komite audit yang berpindah tangan, sementara ketua dan anggota merangkap sekretaris tetap sama, jadi tidak ada indikasi gejolak tata kelola. Komite audit memang tidak langsung menggerakkan pos keuangan seperti ekuitas, arus kas, atau laba per saham, tapi tugasnya mengawasi kualitas laporan keuangan dan pengendalian internal bank, sehingga pelaku pasar tetap mencatat siapa yang duduk di sana, apalagi untuk bank yang diawasi ketat oleh OJK. Dokumen ini tidak menyebut agenda rapat pemegang saham atau tenggat lanjutan, jadi yang perlu dicermati adalah apakah susunan baru ini bertahan dan bagaimana kinerja pengawasannya tercermin pada laporan tahunan SDRA berikutnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "laba-jpfa-semester-i-2026-melonjak-97-ke-rp2-68-triliun",

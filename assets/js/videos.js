@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "TlZwaU5MDFg",
+  "title": "Antrean BBM di Ternate Mengular, Pertamina Siapkan Delivery",
+  "category": "Energi",
+  "program": "AKIS tvOne",
+  "summary": "Warga dan sopir angkutan kota di Kota Ternate harus mengantre berjam-jam untuk mendapatkan BBM jenis Pertalite, sehingga Pertamina menyiapkan layanan pengantaran langsung ke titik antrean.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kelancaran distribusi BBM bersubsidi yang berdampak langsung pada mobilitas dan aktivitas usaha warga di Ternate.",
+  "terbit": "2026-10-19T07:06:41+00:00"
+ },
+ {
+  "id": "ziusipeESGU",
+  "title": "Bahlil: Cadangan BBM Nasional Pertalite di Atas 16 Hari",
+  "category": "Energi",
+  "program": "AKIS tvOne",
+  "summary": "Kementerian Koordinator Bidang Hilirisasi dan Transisi Energi mencatat stok BBM jenis Pertalite berada di kisaran 16 hingga 18 hari, meski sempat mengalami penurunan.",
+  "takeaway": "Penting bagi pembaca ekonomi karena ketahanan stok BBM memengaruhi stabilitas harga energi dan kelancaran distribusi di berbagai daerah.",
+  "terbit": "2026-10-19T07:04:06+00:00"
+ },
+ {
+  "id": "TRDcRLFLI34",
+  "title": "BBM Pertalite di Ternate Hanya Tersedia di Satu SPBU",
+  "category": "Energi",
+  "program": "Kabar Siang",
+  "summary": "Antrean sepeda motor dan mobil memanjang di SPBU Batu Anteru, Ternate, karena Pertalite hanya tersedia di satu stasiun pengisian di kota tersebut.",
+  "takeaway": "Menyoroti persoalan distribusi BBM bersubsidi di daerah yang berdampak pada aktivitas transportasi dan ekonomi warga setempat.",
+  "terbit": "2026-10-19T05:40:02+00:00"
+ },
+ {
   "id": "eS2F4xxx1qY",
   "title": "Antrean BBM Pertalite Capai 3,5 Jam di Ternate",
   "category": "Energi",

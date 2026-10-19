@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-luncurkan-dashboard-akses-keuangan-daerah",
+  "category": "Perbankan",
+  "title": "Pemerintah [Luncurkan] Dashboard Akses Keuangan Daerah",
+  "deck": "Kemenko Perekonomian, OJK, dan Bappenas meluncurkan dashboard IKAD untuk memantau akses keuangan masyarakat hingga level kabupaten/kota.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/atm-kota.jpg",
+  "tags": [
+   "inklusi keuangan",
+   "akses keuangan daerah",
+   "OJK",
+   "Bappenas"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7165/perkuat-pemerataan-pembangunan-daerah-menko-airlangga-dorong-pemanfaatan-dashboard-ikad",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "bi-gandeng-ifsb-iilm-bahas-ketahanan-keuangan-syariah",
+  "category": "Moneter",
+  "title": "BI Gandeng IFSB-IILM Bahas [Ketahanan] Keuangan Syariah",
+  "deck": "Bank Indonesia bersama IFSB dan IILM menggelar seminar internasional soal risiko dan ketahanan keuangan syariah, saat aset syariah RI tumbuh 10 persen jadi Rp3.264 triliun.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "keuangan syariah",
+   "Bank Indonesia",
+   "ISEF 2026",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823226.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "pangan-nusa-expo-catat-potensi-transaksi-rp5-9-triliun",
   "category": "UMKM",
   "title": "Pangan Nusa Expo Catat Potensi Transaksi [Rp5,9 Triliun]",
@@ -6509,39 +6541,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a12653ffb7_bafd4283b4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkomgroup-siapkan-600-gbps-untuk-motogp-mandalika-2026",
-  "category": "Teknologi",
-  "title": "TelkomGroup Siapkan [600 Gbps] untuk MotoGP Mandalika 2026",
-  "deck": "Telkom lewat InfraNexia menambah kapasitas jaringan backbone hingga 600 Gbps untuk menopang konektivitas selama MotoGP Mandalika 2026.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/telkomgroup-siapkan-600-gbps-untuk-motogp-mandalika-2026.jpg",
-  "imageV": "mv4vw9t7",
-  "tags": [
-   "telkom",
-   "infranexia",
-   "motogp mandalika",
-   "infrastruktur digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472530-dukung-kelancaran-motogp-mandalika-2026-telkomgroup-kuatkan-infrastruktur-digital-di-sejumlah-titik"
- },
- {
-  "slug": "cani-ungkap-rencana-konversi-utang-us-36-6-juta-ke-ekuitas",
-  "category": "Aksi Korporasi",
-  "title": "CANI Ungkap Rencana Konversi Utang [US$36,6 Juta] ke Ekuitas",
-  "deck": "Dalam Public Expose Insidentil 9 Oktober, manajemen CANI merinci rencana mengonversi utang pihak berelasi US$36,6 juta menjadi ekuitas tanpa menambah saham baru.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CANI",
-   "public expose",
-   "konversi utang",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8460f2c0a5_87c5a6a5f0.pdf",
   "sourceLabel": "IDX"
  }
 ];

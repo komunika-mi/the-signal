@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "TlZwaU5MDFg",
+  "title": "Antrean BBM di Ternate Mengular, Pertamina Siapkan Delivery",
+  "category": "Energi",
+  "program": "AKIS tvOne",
+  "summary": "Warga dan sopir angkutan kota di Kota Ternate harus mengantre berjam-jam untuk mendapatkan BBM jenis Pertalite, sehingga Pertamina menyiapkan layanan pengantaran langsung ke titik antrean.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kelancaran distribusi BBM bersubsidi yang berdampak langsung pada mobilitas dan aktivitas usaha warga di Ternate."
+ },
+ {
+  "id": "ziusipeESGU",
+  "title": "Bahlil: Cadangan BBM Nasional Pertalite di Atas 16 Hari",
+  "category": "Energi",
+  "program": "AKIS tvOne",
+  "summary": "Kementerian Koordinator Bidang Hilirisasi dan Transisi Energi mencatat stok BBM jenis Pertalite berada di kisaran 16 hingga 18 hari, meski sempat mengalami penurunan.",
+  "takeaway": "Penting bagi pembaca ekonomi karena ketahanan stok BBM memengaruhi stabilitas harga energi dan kelancaran distribusi di berbagai daerah."
+ },
+ {
+  "id": "TRDcRLFLI34",
+  "title": "BBM Pertalite di Ternate Hanya Tersedia di Satu SPBU",
+  "category": "Energi",
+  "program": "Kabar Siang",
+  "summary": "Antrean sepeda motor dan mobil memanjang di SPBU Batu Anteru, Ternate, karena Pertalite hanya tersedia di satu stasiun pengisian di kota tersebut.",
+  "takeaway": "Menyoroti persoalan distribusi BBM bersubsidi di daerah yang berdampak pada aktivitas transportasi dan ekonomi warga setempat."
+ },
+ {
   "id": "eS2F4xxx1qY",
   "title": "Antrean BBM Pertalite Capai 3,5 Jam di Ternate",
   "category": "Energi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Gelaran MotoGP Mandalika 2026 membuka peluang ekonomi bagi pelaku usaha mikro, kecil, dan menengah lokal lewat sektor wisata dan kuliner di sekitar sirkuit.",
   "takeaway": "Menggambarkan dampak ekonomi nyata dari event olahraga internasional terhadap pelaku UMKM di daerah."
- },
- {
-  "id": "b9Yusr7bhYQ",
-  "title": "Presiden Trump Longgarkan Sanksi BBM Rusia ke AS",
-  "category": "Energi",
-  "program": "OneNews Update",
-  "summary": "Presiden Trump melonggarkan sanksi terhadap bahan bakar Rusia, membuka jalan bagi pasokan ratusan ribu ton solar Rusia ke pasar Amerika Serikat.",
-  "takeaway": "Pelonggaran sanksi ini berpotensi mengubah pasokan dan harga BBM di pasar energi global, termasuk solar."
- },
- {
-  "id": "N2d925sOVR0",
-  "title": "Optimalisasi Potensi Wisata Dorong Ekonomi Masyarakat",
-  "category": "UMKM",
-  "program": "Proaktif",
-  "summary": "Program Proaktif mengulas optimalisasi potensi wisata Nepal van Java di Dusun Butuh, Kabupaten Magelang, Jawa Tengah, yang dinilai mampu mendorong peningkatan ekonomi masyarakat setempat.",
-  "takeaway": "Menggambarkan bagaimana sektor wisata dapat menjadi penggerak ekonomi masyarakat di tingkat desa, relevan bagi pembaca yang mengikuti isu ekonomi daerah dan UMKM."
- },
- {
-  "id": "hobY8xz0X8A",
-  "title": "Mandalika Street Food Festival Gandeng UMKM Lokal",
-  "category": "UMKM",
-  "program": "AKAP",
-  "summary": "Mandalika Street Food Festival yang digelar berbarengan dengan MotoGP Mandalika 2026 menghadirkan kuliner khas Lombok, Bima, dan Sumbawa. Lebih dari 70 persen UMKM kuliner NTB memanfaatkan ajang ini untuk memperluas pasar.",
-  "takeaway": "Menunjukkan bagaimana perhelatan olahraga berskala besar bisa dimanfaatkan sebagai panggung pemasaran bagi pelaku UMKM kuliner di daerah."
  }
 ];

@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-luncurkan-dashboard-akses-keuangan-daerah",
+  "category": "Perbankan",
+  "title": "Pemerintah [Luncurkan] Dashboard Akses Keuangan Daerah",
+  "deck": "Kemenko Perekonomian, OJK, dan Bappenas meluncurkan dashboard IKAD untuk memantau akses keuangan masyarakat hingga level kabupaten/kota.",
+  "image": "assets/img/atm-kota.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T07:37:10.439Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7165/perkuat-pemerataan-pembangunan-daerah-menko-airlangga-dorong-pemanfaatan-dashboard-ikad",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "inklusi keuangan",
+   "akses keuangan daerah",
+   "OJK",
+   "Bappenas"
+  ],
+  "body": [
+   "Pemerintah meluncurkan Indeks Akses Keuangan Daerah (IKAD), sebuah dashboard yang memetakan seberapa mudah warga di tiap kabupaten/kota menjangkau layanan perbankan dan keuangan lainnya. Alat ini penting karena selama ini pemerintah hanya punya data akses keuangan di level nasional atau provinsi, sehingga sulit mengetahui daerah mana yang sebenarnya masih tertinggal dan butuh intervensi khusus.",
+   "IKAD dibangun dari 14 indikator turunan yang mengukur dua sisi: ketersediaan layanan keuangan di suatu wilayah dan seberapa aktif warganya memakai layanan tersebut. Data ini sudah dipakai sebagai acuan dalam dokumen perencanaan pembangunan di 341 kabupaten/kota, dan indikator inklusi keuangan juga sudah masuk ke rencana pembangunan jangka menengah di 38 provinsi. Dashboard ini dikembangkan bersama Otoritas Jasa Keuangan, Kementerian PPN/Bappenas, dan lembaga riset RISE Indonesia, merujuk pada target nasional agar 98 persen penduduk Indonesia sudah terjangkau layanan keuangan pada 2045.",
+   "Dengan data yang lebih rinci sampai level kabupaten/kota, pemerintah pusat dan daerah diharapkan bisa menyusun kebijakan yang disesuaikan dengan kondisi masing-masing wilayah, bukan kebijakan seragam yang mengabaikan perbedaan antardaerah."
+  ],
+  "fotoAdegan": "A small banking agent kiosk in an Indonesian village, a customer completing a transaction, modest wooden structure, soft morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang baru di sini bukan aturan baru, melainkan alat ukur: untuk pertama kalinya pemerintah punya data akses keuangan sampai level kabupaten/kota, dan datanya sudah dipakai 341 kabupaten/kota serta masuk rencana pembangunan di 38 provinsi. Pihak yang terdampak adalah pemerintah daerah yang menyusun program dan anggaran, serta warga di daerah yang selama ini kondisinya tidak terlihat karena data yang ada hanya angka rata-rata nasional. Siaran pers ini belum menjelaskan apakah skor IKAD akan dijadikan syarat alokasi anggaran atau insentif bagi daerah tertinggal, atau sekadar alat pemantau tanpa konsekuensi anggaran apa pun. Yang perlu dicermati adalah apakah Survei Nasional Literasi dan Inklusi Keuangan OJK berikutnya menunjukkan kesenjangan antardaerah mulai menyempit, karena itu baru bukti nyata bahwa dashboard ini mengubah arah kebijakan, bukan sekadar menambah data baru.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "bi-gandeng-ifsb-iilm-bahas-ketahanan-keuangan-syariah",
+  "category": "Moneter",
+  "title": "BI Gandeng IFSB-IILM Bahas [Ketahanan] Keuangan Syariah",
+  "deck": "Bank Indonesia bersama IFSB dan IILM menggelar seminar internasional soal risiko dan ketahanan keuangan syariah, saat aset syariah RI tumbuh 10 persen jadi Rp3.264 triliun.",
+  "image": "assets/img/konpers-bank.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T07:36:25.825Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823226.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "keuangan syariah",
+   "Bank Indonesia",
+   "ISEF 2026",
+   "sukuk"
+  ],
+  "body": [
+   "Bank Indonesia bersama Islamic Financial Services Board (IFSB) dan International Islamic Liquidity Management Corporation (IILM) menggelar seminar internasional di Jakarta, Senin (19/10), membahas risiko terkini dan masa depan keuangan syariah. Pertemuan ini menjadi bagian dari agenda Indonesia Sharia Economic Festival (ISEF) 2026, dengan Deputi Gubernur BI Solikin M. Juhro menegaskan pentingnya kolaborasi lintas negara karena risiko keuangan syariah kini saling terhubung antarnegara. Forum ini relevan karena menyangkut arah kebijakan BI dalam memperdalam pasar uang dan modal syariah, yang berimbas pada akses pembiayaan UMKM dan rantai nilai produk halal di dalam negeri.",
+   "Data yang dipaparkan menunjukkan aset keuangan syariah Indonesia mencapai Rp3.264 triliun per Juni 2026, tumbuh hampir 10 persen dibanding setahun sebelumnya. Meski begitu, pangsa pasar perbankan syariah terhadap total perbankan nasional baru sekitar 7 persen, yang menurut Solikin menunjukkan masih ada ruang besar untuk memperbesar peran sektor ini dalam ekonomi produktif. Ia menyoroti perlunya pendalaman pasar sekunder sukuk, mekanisme pembentukan harga yang kredibel, pengaturan repo syariah, serta fasilitas likuiditas darurat berbasis syariah agar sistem keuangan syariah tetap stabil saat pasar tertekan.",
+   "Untuk memperkuat likuiditas syariah di pasar domestik, BI mengandalkan instrumen SukBI dan SUVBI serta pasar uang antarbank syariah, sembari terus mendorong perluasan basis investor melalui keanggotaannya di IILM. Solikin juga menyinggung potensi inovasi digital seperti sukuk yang ditokenisasi (tokenised sukuk) untuk memperluas akses keuangan syariah, dengan catatan harus dibarengi tata kelola yang kuat dan kepastian hukum.",
+   "Sekretaris Jenderal IFSB Ghiath Shabsigh menambahkan bahwa industri keuangan syariah global tengah dituntut mengelola risiko sekaligus memanfaatkan peluang dari kecerdasan buatan (AI), big data, dan instrumen keuangan hibrida. Ia menilai Indonesia sudah membangun fondasi kuat untuk berkembang menjadi salah satu kekuatan ekonomi syariah dunia, didukung fasilitas likuiditas dan infrastruktur pasar yang terus dibangun Bank Indonesia."
+  ],
+  "fotoAdegan": "A small business owner and bank officer in conversation at a counter inside an Islamic bank branch in Jakarta, warm afternoon light.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang konkret dari acara ini adalah angka, bukan aturan baru: aset keuangan syariah Indonesia tercatat Rp3.264 triliun per Juni 2026, tumbuh hampir 10 persen dibanding tahun sebelumnya. Tapi porsi perbankan syariah dibanding seluruh perbankan nasional masih sekitar 7 persen, artinya dari setiap Rp100 dana yang berputar di perbankan nasional baru sekitar Rp7 yang mengalir lewat bank syariah. Angka ini relevan bagi pelaku usaha syariah dan UMKM yang mengandalkan pembiayaan syariah, karena menunjukkan sektor ini masih jauh lebih kecil dibanding perbankan konvensional meski asetnya terus tumbuh. Bank Indonesia menyebut sedang menyiapkan aturan jual-beli kembali surat utang syariah antarbank (disebut repo syariah) dan dana talangan darurat berbasis syariah, tapi belum ada tanggal atau aturan resmi yang diumumkan dalam forum ini, sehingga yang perlu dipantau adalah apakah rencana itu akan dituangkan menjadi ketentuan resmi BI dalam waktu dekat.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "pangan-nusa-expo-catat-potensi-transaksi-rp5-9-triliun",
   "category": "UMKM",
   "title": "Pangan Nusa Expo Catat Potensi Transaksi [Rp5,9 Triliun]",
@@ -54,7 +109,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang perlu dicermati adalah proyeksi untuk triwulan IV, SBT turun tipis dari 11,46 persen menjadi 10,77 persen. SBT atau Saldo Bersih Tertimbang ini adalah hasil survei Bank Indonesia ke pelaku usaha, angka positif berarti lebih banyak perusahaan melaporkan kegiatan usahanya naik dibanding yang melaporkan turun, dan makin tinggi angkanya makin luas penguatan itu terasa. Sektor yang disebut akan menopang akhir tahun adalah transportasi dan pergudangan, perdagangan besar dan eceran, serta informasi dan komunikasi, yang memang biasa naik saat musim Natal dan libur akhir tahun. Pola ini mengarah ke perlambatan tipis begitu musim belanja usai, bukan pelemahan menyeluruh, dan itu baru bisa dipastikan lewat hasil SKDU triwulan IV yang baru dirilis Bank Indonesia awal tahun depan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "indeks-manufaktur-bi-naik-lagi-di-triwulan-iii-2026",
@@ -81,7 +136,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang perlu dipegang adalah kenaikan PMI-BI dari 51,43 persen ke 52,28 persen pada triwulan III 2026, dan prakiraan Bank Indonesia sendiri yang menaikkannya lagi secara tipis ke 52,37 persen pada triwulan IV. Yang terdampak langsung adalah pelaku usaha di sub sektor dengan indeks tertinggi, yaitu industri barang galian bukan logam, makanan dan minuman, logam dasar, karet dan plastik, serta tekstil dan pakaian jadi, karena merekalah yang menggerakkan rata rata indeks ke atas. Pola kenaikan yang tipis dan bertahap selama dua triwulan berturut turut ini mengarah ke pemulihan industri olahan yang berjalan pelan, bukan lonjakan besar, sehingga belum bisa dibaca sebagai sinyal percepatan tajam. Yang akan memastikan apakah tren ini benar bertahan adalah rilis PMI-BI triwulan IV 2026 yang sesungguhnya, karena angka 52,37 persen yang disebut dalam siaran ini masih berupa prakiraan Bank Indonesia sendiri, bukan hasil realisasi.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "dssa-tanggapi-isu-pelanggaran-saham-klaim-tak-ada-dampak",
@@ -59294,7 +59349,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Inklusi Keuangan Syariah Baru [13] Persen, Jauh Tertinggal",
   "deck": "Pemerintah menyoroti kesenjangan akses keuangan syariah yang baru menjangkau 13 persen masyarakat, jauh di bawah layanan konvensional yang sudah 93,53 persen.",
-  "image": "assets/img/atm-kota.jpg",
+  "image": "assets/img/brankas-bank.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-08T14:47:24.646Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7085/perkuat-ekosistem-ekonomi-syariah-menko-airlangga-dorong-inklusi-keuangan-dan-pemberdayaan-ekonomi",
@@ -60492,7 +60547,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Pemerintah Siapkan [Rekening] Warga Lewat BRI dan BSI",
   "deck": "Pemerintah menyiapkan rekening bank bagi warga lewat BRI dan BSI, dipadukan data Dukcapil dan QRIS, untuk memperluas akses layanan keuangan formal.",
-  "image": "assets/img/brankas-bank.jpg",
+  "image": "assets/img/konter-bank-pagi.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-08T04:27:14.201Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7083/tingkatkan-literasi-dan-inklusi-keuangan-pemerintah-siapkan-layanan-rekening-dan-integrasi-qris-bagi-masyarakat",
@@ -73671,7 +73726,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
   "deck": "Pemerintah menetapkan lima negara mitra dan kriteria eksportir tambang yang berhak memakai skema khusus devisa hasil ekspor SDA mulai 1 September 2026.",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/koridor-bank-sentral.jpg",
   "date": "30 Agustus 2026",
   "isoDate": "2026-08-30T02:00:26+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463543-dhe-sda-berubah-mulai-1-september-ini-5-negara-dan-15-bank-yang-masuk-skema-baru",

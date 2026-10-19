@@ -12,8 +12,36 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-19T15:44:51.621+07:00",
+ "diperbarui": "2026-10-19T16:08:48.991+07:00",
  "entri": [
+  {
+   "id": "arah-go-private-emiten-2026-10-20",
+   "edisi": null,
+   "isu": "go-private-emiten",
+   "isuNama": "Gelombang Go Private",
+   "benang": "Apakah gelombang emiten keluar dari bursa berlanjut?",
+   "cabang": "Berlanjut dan bertambah",
+   "klaim": "Gelombang emiten keluar dari bursa di Indonesia masih berlanjut dan bertambah hingga 20 Oktober 2026, karena permohonan go private baru terus masuk ke BEI, seperti IGAR dan IPAC, bahkan ketika proses-proses sebelumnya seperti MBSS, KETR, AUTO, AADI, dan TEST satu demi satu tuntas menjadi delisting.",
+   "penanda": "Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 20 Oktober 2026 yang memerlukan persetujuan pemegang saham independen, serta harga penawaran tender sukarela yang belum diumumkan dalam dokumen ini dan akan menentukan nilai yang…",
+   "tenggat": "2026-10-20",
+   "tenggatLabel": "20 Oktober 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "arah-gagal-bayar-emiten-2026-10-20",
+   "edisi": null,
+   "isu": "gagal-bayar-emiten",
+   "isuNama": "Gagal Bayar dan Restrukturisasi Utang",
+   "benang": "Apakah gagal bayar surat utang emiten meluas, atau tetap kasus per kasus?",
+   "cabang": "Meluas ke lebih banyak emiten",
+   "klaim": "Gagal bayar dan tekanan pembayaran surat utang korporasi meluas ke lebih banyak emiten di luar klaster BUMN karya, seperti Pos Indonesia, VIVA, CPRI, WSBP, MDLN, dan LAPD, sehingga pada putusan RUPO dan RUPSU 20 Oktober 2026 masalah ini tidak lagi sekadar kasus per kasus di emiten yang sudah lama berat.",
+   "penanda": "Yang perlu dipantau adalah hasil RUPO pada 20 Oktober 2026, terutama apakah pemegang obligasi yang hadir, minimal tiga per empat dari total obligasi beredar, menyetujui usulan penyelesaian WIKA atau justru menyatakan perusahaan gagal bayar…",
+   "tenggat": "2026-10-20",
+   "tenggatLabel": "20 Oktober 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "arah-rebalancing-msci-2026-11-11",
    "edisi": null,

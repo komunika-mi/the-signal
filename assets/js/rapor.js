@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-19T16:08:48.991+07:00",
+ "diperbarui": "2026-10-20T03:07:36.432+07:00",
  "entri": [
+  {
+   "id": "2026-10-19-3",
+   "edisi": "2026-10-19",
+   "benang": "Cadangan BBM Luar Jawa Pas di Ambang Minimum",
+   "klaim": "Jaringan distribusi BBM ke luar Jawa memiliki kerentanan struktural dengan margin yang tipis, bukan sekadar kejadian satu kali, yang akan terbukti jika skema ganjil genap SPBU di Bali tidak benar-benar berakhir sesuai jadwal 23 Oktober tanpa perpanjangan lagi.",
+   "penanda": "Apakah skema ganjil genap SPBU di Bali berakhir sesuai jadwal tanpa perpanjangan lagi",
+   "tenggat": "2026-10-23",
+   "tenggatLabel": "23 Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-19-2",
+   "edisi": "2026-10-19",
+   "benang": "Grup Barito Disorot OJK, Tetap Jalan Buyback",
+   "klaim": "Sorotan OJK dan BEI terhadap BREN, CUAN, dan DSSA akan berhenti di ranah administratif dan reputasi saja, tanpa rincian resmi jenis pelanggaran atau nilai sanksi yang dipublikasikan.",
+   "penanda": "Rilis resmi OJK yang merinci jenis pelanggaran dan nilai sanksi, atau permintaan keterbukaan informasi lanjutan dari BEI kepada ketiga emiten",
+   "tenggat": null,
+   "tenggatLabel": "pekan-pekan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-19-1",
+   "edisi": "2026-10-19",
+   "benang": "Lima Emiten Besar Serentak Buyback Rp4,6 Triliun",
+   "klaim": "Buyback serentak lima emiten (TPIA, BREN, BRPT, DSSA, CUAN, PBSA) senilai sekitar Rp4,6 triliun dipakai untuk menahan harga saham di tengah tekanan pasar, bukan untuk ekspansi usaha, dan IHSG akan mulai stabil setelah buyback-buyback ini efektif berjalan mulai 20 Oktober.",
+   "penanda": "Pergerakan IHSG apakah melanjutkan penurunan atau mulai stabil setelah buyback-buyback efektif berjalan",
+   "tenggat": null,
+   "tenggatLabel": "beberapa hari ke depan setelah buyback-buyback ini efektif berjalan mulai 20 Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "arah-go-private-emiten-2026-10-20",
    "edisi": null,
@@ -64,8 +97,13 @@ var RAPOR = {
    "penanda": "Kabar resmi pelunasan obligasi dari BEI saat efek-efek tersebut berhenti diperdagangkan",
    "tenggat": "2026-10-19",
    "tenggatLabel": "18-19 Oktober nanti",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "bold-lunasi-obligasi-rp503-15-m-dan-kupon-rp9-43-m",
+    "judul": "BOLD Lunasi Obligasi Rp503,15 M dan Kupon Rp9,43 M",
+    "tanggal": "19 Oktober 2026",
+    "alasan": "Artikel ini mengonfirmasi BOLD melunasi obligasi Rp503,15 M beserta kupon Rp9,43 M tepat waktu sesuai jadwal, sesuai penanda uji kabar resmi pelunasan obligasi tanpa indikasi gagal bayar."
+   }
   },
   {
    "id": "2026-10-16-2",
@@ -1263,7 +1301,7 @@ var RAPOR = {
    "penanda": "Pencairan tagihan Kemensos ke Pos Indonesia sebelum tenggat gaji karyawan",
    "tenggat": "2026-09-01",
    "tenggatLabel": "tenggat gaji karyawan Pos Indonesia pada 1 September 2026",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {
@@ -1475,7 +1513,7 @@ var RAPOR = {
    "penanda": "Hasil RUPO dan RUPSu mengenai persetujuan permohonan restrukturisasi tiga instrumen utang PTPP",
    "tenggat": "2026-09-01",
    "tenggatLabel": "RUPO dan RUPSu pada 1 September 2026",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {

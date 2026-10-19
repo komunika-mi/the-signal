@@ -613,7 +613,7 @@ var ARTICLES = [
   "deck": "Nilai transaksi emas fisik digital RI tumbuh 641,1 persen jadi Rp299,49 triliun dalam delapan bulan, sejalan dengan aturan baru soal keamanan sistem dan anti pencucian uang.",
   "date": "17 Oktober 2026",
   "image": "assets/img/transaksi-emas-digital-melonjak-641-persen-dalam-setahun.jpg",
-  "imageV": "mvcm81i8",
+  "imageV": "mvf0u33m",
   "tags": [
    "emas digital",
    "Bappebti",

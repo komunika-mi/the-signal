@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "7b4iHP8PCO4",
+  "title": "Kadin Siapkan 8 Kelompok Kerja untuk Rekomendasi ke Pemerintah",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kamar Dagang dan Industri Indonesia (Kadin) membentuk delapan kelompok kerja untuk merumuskan sejumlah rekomendasi kebijakan bagi pemerintah.",
+  "takeaway": "Langkah ini menunjukkan bagaimana dunia usaha menyusun masukan kebijakan yang berpotensi memengaruhi arah ekonomi nasional.",
+  "terbit": "2026-10-19T16:44:16+00:00"
+ },
+ {
+  "id": "InMZ8yi8veg",
+  "title": "Kadin Gelar Forum Komunikasi Anggota Luar Biasa",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Bakrie menyatakan optimisme menghadapi tantangan ekonomi sambil mendorong peningkatan daya saing dunia usaha nasional.",
+  "takeaway": "Memberi gambaran sikap pelaku usaha terhadap kondisi ekonomi terkini dan upaya memperkuat daya saing nasional.",
+  "terbit": "2026-10-19T16:38:55+00:00"
+ },
+ {
   "id": "aUGK-cjjHoA",
   "title": "OJK, Menkeu, dan Gubernur BI Hadiri Rapat Terbatas Ekonomi",
   "category": "Makroekonomi",

@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "7b4iHP8PCO4",
+  "title": "Kadin Siapkan 8 Kelompok Kerja untuk Rekomendasi ke Pemerintah",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kamar Dagang dan Industri Indonesia (Kadin) membentuk delapan kelompok kerja untuk merumuskan sejumlah rekomendasi kebijakan bagi pemerintah.",
+  "takeaway": "Langkah ini menunjukkan bagaimana dunia usaha menyusun masukan kebijakan yang berpotensi memengaruhi arah ekonomi nasional."
+ },
+ {
+  "id": "InMZ8yi8veg",
+  "title": "Kadin Gelar Forum Komunikasi Anggota Luar Biasa",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Bakrie menyatakan optimisme menghadapi tantangan ekonomi sambil mendorong peningkatan daya saing dunia usaha nasional.",
+  "takeaway": "Memberi gambaran sikap pelaku usaha terhadap kondisi ekonomi terkini dan upaya memperkuat daya saing nasional."
+ },
+ {
   "id": "aUGK-cjjHoA",
   "title": "OJK, Menkeu, dan Gubernur BI Hadiri Rapat Terbatas Ekonomi",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "AKIS tvOne",
   "summary": "Kelangkaan bahan bakar minyak melanda sejumlah wilayah di Bali, memicu antrean hingga 2 kilometer di SPBU yang masih beroperasi akibat gangguan pasokan.",
   "takeaway": "Gangguan pasokan BBM di Bali relevan bagi pembaca ekonomi karena berdampak langsung pada mobilitas warga dan biaya operasional pelaku usaha di sektor pariwisata."
- },
- {
-  "id": "0gkOOooNfDg",
-  "title": "Kadin Targetkan Transaksi US$1 Miliar di Forum Bisnis RI-Yunani",
-  "category": "Bisnis",
-  "program": "Kabar Siang",
-  "summary": "Kadin Indonesia menggelar Indonesia-Greece Business Forum untuk memperkuat diplomasi ekonomi bilateral dengan target transaksi hingga US$1 miliar.",
-  "takeaway": "Forum ini menandai upaya pelaku usaha memperluas pasar ekspor dan investasi ke kawasan Eropa di tengah dinamika perdagangan global."
- },
- {
-  "id": "ffV2eUnzO2E",
-  "title": "Kadin Genjot Pertumbuhan Investasi dan Perdagangan",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Kadin menggelar audiensi dengan Duta Besar RI untuk Belgia, Luksemburg, dan Uni Eropa guna membahas perjanjian dagang serta mendorong investasi dan perdagangan.",
-  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan hubungan dagang Indonesia dengan Uni Eropa."
  }
 ];

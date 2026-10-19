@@ -16,6 +16,18 @@
 // "UMKM" muncul di badan artikel apa saja sebagai konteks; kalau badan ikut
 // dipindai, tema berubah jadi keranjang sampah. Judul, deck, dan tag adalah
 // tempat pokok bahasan dinyatakan.
+//
+// FIELD `taruhan` (opsional): isu yang arahnya dibicarakan SEBELUM putusannya
+// jatuh. Isinya pertanyaan yang sedang digantung, siapa yang memutuskan, apa
+// yang menggeser putusan, dan cabang hasil yang mungkin. Dari situ
+// scripts/klaim-arah.mjs mencatat satu klaim ke Rapor Sinyal begitu tanggal
+// putusannya mendekat, dan halaman temanya menampilkan cabangnya.
+//
+// Cabang ditulis tangan, bukan dibangkitkan, supaya rapor dan halaman tema
+// selalu bicara soal kemungkinan yang sama persis. `polaPutusan` menyaring
+// tanggal dari agenda: tanggal hanya dianggap tanggal putusan isu ini kalau
+// kalimat agendanya sendiri menyebut pokok isunya, bukan sekadar muncul di
+// artikel yang kebetulan masuk tema.
 export const TEMA = [
   {
     slug: 'pembatasan-pertalite',
@@ -23,6 +35,31 @@ export const TEMA = [
     deskripsi: 'Pemerintah menggeser subsidi BBM menjauh dari kelompok mampu: ' +
       'pembatasan Pertalite untuk desil atas, penyesuaian penyaluran, dan reaksi pasar.',
     kata: /pertalite|subsidi bbm|bbm subsidi|bbm bersubsidi|desil 9/i,
+    taruhan: {
+      pertanyaan: 'Apakah pembatasan pembelian BBM subsidi benar-benar berlaku pada jadwal yang diumumkan?',
+      pemutus: 'Pemerintah, lewat Kementerian ESDM dan Pertamina',
+      polaPutusan: /pertalite|bbm subsidi|subsidi bbm|bbm bersubsidi/i,
+      ambang: [
+        'Terbit atau tidaknya aturan turunan yang mengikat, bukan sekadar rencana',
+        'Kesiapan data penerima dan sistem pendaftaran di SPBU',
+        'Harga minyak dunia dan beban subsidi dalam APBN berjalan',
+        'Reaksi publik dan sikap DPR menjelang tanggal berlaku',
+      ],
+      cabang: [
+        {
+          nama: 'Berlaku penuh sesuai jadwal',
+          arti: 'Pembelian dibatasi untuk kelompok yang ditetapkan, tepat pada tanggal yang diumumkan.',
+        },
+        {
+          nama: 'Berlaku bertahap atau terbatas',
+          arti: 'Aturan mulai jalan tapi hanya di sebagian wilayah atau sebagian kendaraan, dengan masa peralihan.',
+        },
+        {
+          nama: 'Ditunda',
+          arti: 'Tanggal berlaku mundur tanpa pengganti yang pasti, dan subsidi berjalan seperti sekarang.',
+        },
+      ],
+    },
   },
   {
     slug: 'transisi-gubernur-bi',
@@ -37,6 +74,34 @@ export const TEMA = [
     deskripsi: 'MSCI mengeluarkan saham Indonesia dari indeks utamanya tanpa pengganti. ' +
       'Efeknya menjalar ke rupiah dan IHSG menjelang tanggal efektif 1 September 2026.',
     kata: /msci/i,
+    taruhan: {
+      pertanyaan: 'Apakah Indonesia tetap berstatus emerging market di klasifikasi pasar MSCI?',
+      pemutus: 'MSCI, lewat peninjauan klasifikasi pasarnya',
+      polaPutusan: /msci|klasifikasi pasar|indeks global/i,
+      ambang: [
+        'Kemudahan investor asing memasukkan dan menarik dana, termasuk urusan valuta',
+        'Jumlah saham yang masih memenuhi syarat ukuran dan likuiditas setelah saham besar keluar indeks',
+        'Frekuensi suspensi perdagangan dan seberapa jelas aturan mainnya',
+        'Hasil konsultasi MSCI dengan pengelola dana, dan langkah balasan BEI serta OJK',
+      ],
+      cabang: [
+        {
+          nama: 'Status emerging market bertahan',
+          arti: 'Dana pasif yang melacak indeks emerging market tetap wajib memegang saham Indonesia, ' +
+            'sehingga aliran dana asing yang masuk lewat indeks tidak berubah dasarnya.',
+        },
+        {
+          nama: 'Bertahan, tapi masuk daftar pantau',
+          arti: 'Statusnya belum turun, namun MSCI menyatakan Indonesia sedang dinilai ulang. ' +
+            'Pengelola dana mulai menyiapkan diri untuk kemungkinan penurunan.',
+        },
+        {
+          nama: 'Turun dari emerging market',
+          arti: 'Indonesia pindah ke kelompok di bawahnya. Dana pasif global yang mengikuti indeks ' +
+            'emerging market harus melepas posisinya, dan papan bursa kehilangan pembeli otomatis.',
+        },
+      ],
+    },
   },
   {
     slug: 'kendaraan-listrik',
@@ -65,6 +130,30 @@ export const TEMA = [
     deskripsi: 'Penyusunan RUU Ketenagakerjaan antara DPR dan serikat buruh, dan apa ' +
       'artinya bagi biaya tenaga kerja dunia usaha.',
     kata: /ruu ketenagakerjaan|serikat buruh|kspsi/i,
+    taruhan: {
+      pertanyaan: 'Apakah RUU Ketenagakerjaan disahkan dalam bentuk yang menambah biaya tenaga kerja pengusaha?',
+      pemutus: 'DPR bersama pemerintah',
+      polaPutusan: /ruu ketenagakerjaan|rapat paripurna|pembahasan ruu/i,
+      ambang: [
+        'Isi daftar inventarisasi masalah yang disepakati panitia kerja',
+        'Sikap serikat buruh dan kamar dagang pada masa pembahasan',
+        'Apakah RUU masuk daftar prioritas yang dikejar pada masa sidang berjalan',
+      ],
+      cabang: [
+        {
+          nama: 'Disahkan dengan beban tambahan bagi pengusaha',
+          arti: 'Ketentuan pesangon, upah, atau status hubungan kerja berubah ke arah yang menaikkan ongkos.',
+        },
+        {
+          nama: 'Disahkan tanpa perubahan beban yang berarti',
+          arti: 'Undang-undangnya jadi, tapi isinya sebagian besar menata ulang aturan yang sudah berjalan.',
+        },
+        {
+          nama: 'Tidak disahkan pada masa sidang ini',
+          arti: 'Pembahasan berlanjut ke periode berikutnya dan aturan lama tetap berlaku.',
+        },
+      ],
+    },
   },
 ];
 

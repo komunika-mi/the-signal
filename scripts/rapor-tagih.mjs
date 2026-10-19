@@ -22,6 +22,10 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { ROOT, log } from './lib.mjs';
 import { PENGAMAN, tanya, ambilJSON } from './rewrite.mjs';
+// Pembacaan dan penulisan rapor.js pindah ke modul sendiri sejak klaim-arah.mjs
+// ikut menulis berkas yang sama. Dua penulis dengan kepala berkas masing-masing
+// akan saling menimpa komentarnya tiap putaran dan menghasilkan diff palsu.
+import { muatRapor, simpanRapor } from './rapor-berkas.mjs';
 
 const HARI_KEDALUWARSA = 45;
 
@@ -35,25 +39,6 @@ function muat(nama, bukaKurung, tutupKurung) {
 
 function hariIniWIB() {
   return new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0, 10);
-}
-
-function simpan(rapor) {
-  rapor.diperbarui = new Date(Date.now() + 7 * 3600 * 1000)
-    .toISOString().replace('Z', '+07:00');
-  const kepala = [
-    '// Rapor Sinyal: buku besar pembacaan arah yang BISA DITAGIH.',
-    '//',
-    '// Tiap benang Signal Harian menyebut penanda ujinya sendiri (rilis apa, kapan,',
-    '// yang membedakan skenario). File ini mencatat tiap klaim itu beserta',
-    '// tenggatnya, lalu scripts/rapor-tagih.mjs menagihnya begitu jatuh tempo:',
-    '// terkonfirmasi, patah, atau kedaluwarsa, selalu dengan bukti berupa artikel',
-    '// arsip sendiri. Yang tidak pernah boleh terjadi: mengubah bunyi klaim setelah',
-    '// dicatat. Klaim dikutip apa adanya dari edisinya, salah ya salah.',
-    '//',
-    '// JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.',
-  ].join('\n');
-  fs.writeFileSync(path.join(ROOT, 'assets/js/rapor.js'),
-    kepala + '\nvar RAPOR = ' + JSON.stringify(rapor, null, 1) + ';\n', 'utf8');
 }
 
 // ---------- 1. pencatatan edisi baru ----------
@@ -204,7 +189,7 @@ function kedaluwarsa(rapor) {
 }
 
 async function main() {
-  const rapor = muat('rapor.js', '{', '}');
+  const rapor = muatRapor();
   if (!rapor || !Array.isArray(rapor.entri)) {
     log('rapor.js tidak ada atau rusak, tidak ada yang bisa ditagih.');
     process.exit(1);
@@ -222,7 +207,7 @@ async function main() {
   // Ditulis HANYA kalau ada yang berubah. Stempel diperbarui yang diganti
   // tiap malam tanpa isi baru cuma menghasilkan commit bising, dan membuat
   // "diperbarui" berhenti bermakna sebagai tanggal perubahan terakhir.
-  if (ubah) simpan(rapor);
+  if (ubah) simpanRapor(rapor);
   const hitung = {};
   for (const e of rapor.entri) hitung[e.status] = (hitung[e.status] || 0) + 1;
   log('rapor: ' + rapor.entri.length + ' klaim (' +

@@ -78,7 +78,10 @@ jobs:
     # Tanpa ini jaraknya tinggal 1 menit, dan jarak setipis itu membuat
     # jaminan di atas rapuh: satu langkah tambahan di kemudian hari langsung
     # membalik urutan jatuhnya tanpa ada yang sadar.
-    timeout-minutes: 48
+    #
+    # 48 -> 51 pada 19 Oktober 2026, mengikuti langkah rapor 5 -> 8 karena
+    # klaim-arah.mjs ikut di dalamnya. Jumlah pagar per langkah jadi 47.
+    timeout-minutes: 51
 
     steps:
       - uses: actions/checkout@v4
@@ -123,23 +126,30 @@ jobs:
           SIGNAL_MODEL: claude-sonnet-5
         run: node scripts/signal-harian.mjs
 
-      - name: Tagih Rapor Sinyal
+      - name: Taruhan arah dan Rapor Sinyal
         # Rapor itu pelengkap edisi: mencatat klaim edisi baru ke buku rapor
         # dan menilai klaim lama yang penanda ujinya jatuh tempo. Kalau
         # langkah ini gagal, edisi malam ini TETAP harus terbit, karena itu
         # continue-on-error: kegagalannya terlihat sebagai langkah merah di
         # ringkasan run, tapi tidak membatalkan penerbitan.
         #
+        # klaim-arah.mjs jalan LEBIH DULU. Ia mencatat taruhan untuk isu yang
+        # tanggal putusannya sudah mendekat, jadi klaimnya ikut terbawa saat
+        # rapor-tagih menulis berkas yang sama, dan halaman tema yang dirender
+        # di bawah sudah memuatnya. Urutan terbalik berarti taruhan baru
+        # menunggu satu edisi penuh sebelum kelihatan.
+        #
         # build-pages diulang setelahnya karena rapor.html dirender dari
         # rapor.js, dan build di dalam signal-harian.mjs berjalan SEBELUM
         # buku rapornya diperbarui.
         continue-on-error: true
-        timeout-minutes: 5
+        timeout-minutes: 8
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SIGNAL_MODEL: claude-sonnet-5
         run: |
+          node scripts/klaim-arah.mjs
           node scripts/rapor-tagih.mjs
           node scripts/build-pages.mjs
 

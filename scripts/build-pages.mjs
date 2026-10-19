@@ -1429,6 +1429,67 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
 // di sini hanya perenderan. Tema baru tampil sendiri begitu bahannya mencapai
 // ambang, tanpa perubahan kode di file ini.
 fs.mkdirSync(ROOT + '/tema', { recursive: true });
+
+// Klaim Rapor Sinyal per isu, terbaru dulu. Dipakai dua kali: di blok taruhan
+// halaman tema, dan di papan pemicu halaman /tema.html.
+const KLAIM_ISU = new Map();
+for (const e of (RAPOR && RAPOR.entri) || []) {
+  if (!e.isu) continue;
+  if (!KLAIM_ISU.has(e.isu)) KLAIM_ISU.set(e.isu, []);
+  KLAIM_ISU.get(e.isu).push(e);
+}
+const LABEL_TARUHAN = {
+  menunggu: 'Menunggu putusan', terkonfirmasi: 'Terbukti',
+  patah: 'Meleset', kedaluwarsa: 'Kedaluwarsa',
+};
+
+// Blok taruhan arah: pertanyaan yang sedang digantung, cabang yang mungkin,
+// dan cabang mana yang sudah kami pilih SEBELUM putusannya jatuh. Inilah
+// bedanya dengan linimasa di bawahnya, yang cuma menata apa yang sudah
+// terjadi. Halaman tema tanpa taruhan tetap tampil apa adanya.
+function blokTaruhan(t) {
+  if (!t.taruhan) return '';
+  const klaim = KLAIM_ISU.get(t.slug) || [];
+  const terbuka = klaim.find(e => e.status === 'menunggu') || null;
+  const lampau = klaim.filter(e => e.status !== 'menunggu').slice(0, 3);
+
+  const cabang = t.taruhan.cabang.map(c => {
+    const dipilih = terbuka && terbuka.cabang === c.nama;
+    return `<li class="taruhan-cabang${dipilih ? ' taruhan-dipilih' : ''}">` +
+      `<b>${esc(c.nama)}</b>${dipilih ? ' <span class="taruhan-tanda">bacaan kami</span>' : ''}` +
+      `<span>${esc(c.arti)}</span></li>`;
+  }).join('');
+
+  const ambang = (t.taruhan.ambang || [])
+    .map(x => `<li>${esc(x)}</li>`).join('');
+
+  return `<div class="taruhan-blok">` +
+    `<div class="taruhan-kepala">` +
+    `<span class="taruhan-kicker">Taruhan arah</span>` +
+    (terbuka
+      ? `<span class="taruhan-tenggat num">Diputuskan ${esc(terbuka.tenggatLabel || terbuka.tenggat)}</span>`
+      : `<span class="taruhan-tenggat num">Tanggal putusan belum ada di arsip</span>`) +
+    `</div>` +
+    `<h2 class="taruhan-tanya">${esc(t.taruhan.pertanyaan)}</h2>` +
+    `<p class="taruhan-pemutus">Yang memutuskan: ${esc(t.taruhan.pemutus)}</p>` +
+    (terbuka
+      ? `<p class="taruhan-klaim">&ldquo;${esc(terbuka.klaim)}&rdquo;</p>`
+      : `<p class="taruhan-klaim taruhan-kosong">Belum ada bacaan yang dicatat untuk putusan ` +
+        `berikutnya. Bacaan baru dicatat begitu tanggal putusannya masuk jangkauan arsip.</p>`) +
+    `<ul class="taruhan-daftar">${cabang}</ul>` +
+    (ambang ? `<details class="taruhan-ambang"><summary>Yang bisa menggeser putusannya</summary>` +
+      `<ul>${ambang}</ul></details>` : '') +
+    (lampau.length
+      ? `<div class="taruhan-riwayat"><b>Taruhan sebelumnya</b>` +
+        lampau.map(e => `<p><span class="taruhan-status taruhan-${esc(e.status)}">` +
+          `${esc(LABEL_TARUHAN[e.status] || e.status)}</span> ${esc(e.klaim)}` +
+          (e.bukti ? ` <a href="/berita/${esc(e.bukti.slug)}.html">buktinya &rarr;</a>` : '') +
+          `</p>`).join('') + `</div>`
+      : '') +
+    `<p class="taruhan-kaki"><a href="/rapor.html">Semua bacaan kami ditagih di Rapor Sinyal &rarr;</a></p>` +
+    `</div>`;
+}
+
 for (const t of KELOMPOK_TEMA) {
   const terbaru = t.artikel[0];
   const isi =
@@ -1439,6 +1500,7 @@ for (const t of KELOMPOK_TEMA) {
     `<p class="harian-tanggal num">${t.artikel.length} artikel &middot; terakhir ${esc(terbaru.date)}</p>` +
     `<p class="harian-ringkas">${esc(t.deskripsi)}</p>` +
     `</div>` +
+    blokTaruhan(t) +
     (terbaru.takeaway
       ? `<div class="arah-blok" style="max-width:70ch;"><b class="arah-label">Arah terakhir` +
         (terbaru.sentimen ? ' ' + chipSentimen(terbaru.sentimen) : '') + `</b>` +
@@ -1462,6 +1524,40 @@ for (const t of KELOMPOK_TEMA) {
 }
 
 {
+  // Papan pemicu: isu yang putusannya belum jatuh, berikut bacaan kami dan
+  // tanggal yang akan membuktikannya. Diletakkan DI ATAS grid tema karena
+  // inilah bagian yang tidak bisa didapat pembaca dari agregator mana pun;
+  // garis waktu di bawahnya baru berguna setelah orang tahu apa yang sedang
+  // dipertaruhkan.
+  const barisPapan = KELOMPOK_TEMA.filter(t => t.taruhan).map(t => {
+    const klaim = (KLAIM_ISU.get(t.slug) || []);
+    const terbuka = klaim.find(e => e.status === 'menunggu') || null;
+    const lalu = klaim.find(e => e.status === 'terkonfirmasi' || e.status === 'patah');
+    return `<a class="papan-baris" href="/tema/${t.slug}.html">` +
+      `<span class="papan-isu">${esc(t.taruhan.pertanyaan)}</span>` +
+      `<span class="papan-kapan num">` +
+      (terbuka ? esc(terbuka.tenggatLabel || terbuka.tenggat) : 'tanggal putusan belum ada') +
+      `</span>` +
+      `<span class="papan-bacaan">` +
+      (terbuka
+        ? esc(terbuka.cabang || terbuka.klaim)
+        : '<i>belum ada bacaan tercatat</i>') +
+      `</span>` +
+      (lalu
+        ? `<span class="papan-skor taruhan-${esc(lalu.status)}">${esc(LABEL_TARUHAN[lalu.status])} terakhir</span>`
+        : `<span class="papan-skor"></span>`) +
+      `</a>`;
+  }).join('');
+
+  const papan = barisPapan
+    ? `<div class="papan-pemicu">` +
+      `<h2 class="papan-judul">Yang belum diputuskan</h2>` +
+      `<p class="papan-ringkas">Isu yang putusannya masih menggantung, bacaan kami atasnya, ` +
+      `dan tanggal yang akan membuktikan atau mematahkannya. Dicatat sebelum hasilnya keluar, ` +
+      `lalu ditagih di <a href="/rapor.html">Rapor Sinyal</a>.</p>` +
+      `<div class="papan-daftar">${barisPapan}</div></div>`
+    : '';
+
   const kartu = KELOMPOK_TEMA.map(t =>
     `<a class="tema-kartu" href="/tema/${t.slug}.html">` +
     `<h2>${esc(t.nama)}</h2>` +
@@ -1489,6 +1585,7 @@ for (const t of KELOMPOK_TEMA) {
     `<p class="harian-ringkas">Berita harian itu potongan. Halaman-halaman ini menyusunnya ` +
     `kembali per isu, terbaru di atas, supaya kelihatan ke mana arahnya bergerak.</p>` +
     `</div>` +
+    papan +
     `<div class="tema-grid">${kartu}</div>` +
     `</section>` + FOOT, 'utf8');
   console.log('tema berjalan:', KELOMPOK_TEMA.length, 'tema tayang');
@@ -1517,13 +1614,23 @@ if (RAPOR && Array.isArray(RAPOR.entri) && RAPOR.entri.length) {
     const d = new Date(iso + 'T00:00:00Z');
     return d.getUTCDate() + ' ' + BULAN[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
   }
+  // Dua asal klaim, dua label. Entri ber-"isu" datang dari klaim-arah.mjs:
+  // taruhan yang dicatat sebelum tanggal putusannya, jadi tidak punya edisi
+  // harian untuk dirujuk. Memaksakan "Edisi null" di situ bukan cuma jelek,
+  // tapi menyembunyikan justru bagian yang paling layak dipamerkan: klaim itu
+  // dibuat MENDAHULUI peristiwanya.
   const item = RAPOR.entri.map(e =>
     `<article class="rapor-item rapor-${esc(e.status)}">` +
     `<div class="rapor-kepala">` +
     `<span class="rapor-status">${esc(LABEL_STATUS[e.status] || e.status)}</span>` +
-    `<span class="rapor-edisi num">Edisi ${esc(tglEdisi(e.edisi))}` +
+    (e.isu
+      ? `<span class="rapor-edisi num">Taruhan arah${e.cabang ? ' &middot; ' + esc(e.cabang) : ''}`
+      : `<span class="rapor-edisi num">Edisi ${esc(tglEdisi(e.edisi))}`) +
     (e.tenggatLabel ? ` &middot; uji: ${esc(e.tenggatLabel)}` : '') + `</span></div>` +
-    `<h2 class="rapor-benang">${esc(e.benang)}</h2>` +
+    `<h2 class="rapor-benang">` +
+    (e.isu && TEMA_TAYANG.has(e.isu)
+      ? `<a href="/tema/${esc(e.isu)}.html">${esc(e.benang)}</a>`
+      : esc(e.benang)) + `</h2>` +
     `<p class="rapor-klaim">&ldquo;${esc(e.klaim)}&rdquo;</p>` +
     `<p class="rapor-penanda"><b>Penanda uji:</b> ${esc(e.penanda)}</p>` +
     (e.bukti
@@ -1555,7 +1662,9 @@ if (RAPOR && Array.isArray(RAPOR.entri) && RAPOR.entri.length) {
     `<p class="harian-ringkas">Tiap Signal Harian membaca arah dan menyebut sendiri penanda ` +
     `ujinya. Halaman ini menagihnya: klaim dikutip apa adanya saat terbit, tidak pernah ` +
     `disunting, lalu diberi status begitu penandanya terbukti atau meleset. Patah ya ditulis ` +
-    `patah; rapor yang hanya mencatat yang benar bukan rapor.</p>` +
+    `patah; rapor yang hanya mencatat yang benar bukan rapor. Klaim bertanda ` +
+    `<b>Taruhan arah</b> dicatat sebelum tanggal putusannya tiba, bukan setelah hasilnya ` +
+    `kelihatan; cabang yang dipilih dan yang tidak dipilih ada di halaman temanya.</p>` +
     `</div>` +
     `<div class="rapor-daftar">${item}</div>` +
     DISCLAIMER_SINYAL +

@@ -1,0 +1,81 @@
+name: Taruhan arah
+
+# Mencatat taruhan arah di luar jadwal edisi, DAN TIDAK MENERBITKAN APA PUN.
+#
+# Kenapa terpisah dari harian.yml padahal skripnya sama persis: harian.yml
+# tidak punya gerbang di langkah kirim, jadi satu dispatch di siang hari
+# berarti edisi dirangkai dari bahan setengah hari lalu dikirim ke pelanggan
+# email dan kanal Telegram. Untuk sekadar menguji atau menagih taruhan,
+# ongkos itu tidak masuk akal. Workflow ini hanya menyentuh rapor.js dan
+# halaman yang dirender ulang dari situ.
+#
+# TANPA JADWAL, dan itu disengaja. Jalur rutinnya tetap di harian.yml tiap
+# malam; berkas ini untuk saat registry tema baru diubah, atau saat ingin
+# melihat hasil taruhan tanpa menunggu edisi malam.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: the-signal-tulis       # sama dengan harian.yml, daily.yml dan idx.yml
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  taruhan:
+    runs-on: ubuntu-latest
+    # Jumlah pagar per langkah 20 menit, jatah job 23. Pola yang sama dengan
+    # workflow lain di repo ini: yang jatuh duluan harus pagar langkah, sebab
+    # job yang ditebas berakhir "cancelled" dan cancelled tidak dikirimi email.
+    timeout-minutes: 23
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Pasang dependensi
+        timeout-minutes: 6
+        run: npm ci --prefer-offline --no-audit --no-fund
+
+      - name: Selaraskan dengan origin sebelum membangun
+        # Alasan lengkapnya di harian.yml: checkout membekukan SHA saat
+        # putaran dibuat, bukan saat job mulai, dan putaran ini bisa menunggu
+        # di antrean concurrency selama belasan menit.
+        timeout-minutes: 2
+        run: |
+          git fetch --quiet origin master
+          git reset --hard origin/master
+          echo "basis build: $(git rev-parse --short HEAD)"
+
+      - name: Catat taruhan arah
+        timeout-minutes: 8
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SIGNAL_MODEL: claude-sonnet-5
+        run: |
+          node scripts/klaim-arah.mjs
+          node scripts/build-pages.mjs
+
+      - name: Commit dan push
+        timeout-minutes: 4
+        run: |
+          git config user.name "the-signal-bot"
+          git config user.email "actions@github.com"
+          # Hanya berkas yang memang boleh berubah di jalur ini. git add -A
+          # akan ikut menyapu suntingan setengah jadi yang kebetulan ada di
+          # pohon kerja runner, dan itu sudah pernah menggigit repo ini.
+          git add assets/js/rapor.js rapor.html tema.html tema sitemap.xml
+          if git diff --staged --quiet; then
+            echo "Tidak ada taruhan baru. Tidak ada isu yang tanggal putusannya"
+            echo "masuk jendela, atau arsipnya belum cukup untuk condong ke satu"
+            echo "cabang. Keduanya keadaan sehat."
+            exit 0
+          fi
+          git commit -m "Taruhan arah $(date -u -d '+7 hours' '+%Y-%m-%d %H:%M WIB')"
+          git push

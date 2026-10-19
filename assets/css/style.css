@@ -944,6 +944,97 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
 .rapor-bukti { margin-top: .3rem; }
 .rapor-bukti a { font-weight: 600; color: var(--red-deep); }
 
+/* ---------- Taruhan arah (19 Oktober 2026) ----------
+   Blok di atas linimasa tema: pertanyaan yang belum terjawab, cabang yang
+   mungkin, dan cabang mana yang sudah kami pilih sebelum putusannya jatuh.
+   Sengaja kotak bergaris penuh, bukan border-left seperti catatan arah,
+   supaya terbaca sebagai pernyataan yang berdiri sendiri dan bukan komentar
+   atas artikel di bawahnya. */
+.taruhan-blok {
+  max-width: var(--kolom-baca); margin: 0 0 1.8rem;
+  padding: 1.1rem 1.2rem; background: var(--card);
+  border: 1px solid var(--line); border-top: 3px solid var(--red-deep);
+  border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+}
+.taruhan-kepala {
+  display: flex; justify-content: space-between; gap: .6rem; flex-wrap: wrap;
+  align-items: baseline; margin-bottom: .5rem;
+}
+.taruhan-kicker {
+  font-family: var(--sans); font-size: .68rem; font-weight: 800;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--red-deep);
+}
+.taruhan-tenggat { font-family: var(--sans); font-size: .74rem; color: var(--ink-soft); }
+.taruhan-tanya { margin: 0 0 .25rem; font-size: 1.12rem; line-height: 1.4; }
+.taruhan-pemutus {
+  margin: 0 0 .7rem; font-family: var(--sans); font-size: .78rem; color: var(--ink-soft);
+}
+.taruhan-klaim {
+  margin: 0 0 .9rem; font-size: .98rem; line-height: 1.6; font-style: italic;
+}
+.taruhan-kosong { font-style: normal; color: var(--ink-soft); font-size: .88rem; }
+.taruhan-daftar { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
+.taruhan-cabang {
+  padding: .6rem .75rem; background: var(--page);
+  border: 1px solid var(--line); border-radius: var(--radius-sm);
+  font-family: var(--sans); font-size: .82rem; line-height: 1.55;
+}
+.taruhan-cabang b { display: block; font-size: .86rem; margin-bottom: .15rem; }
+.taruhan-cabang span { color: var(--ink-soft); }
+.taruhan-dipilih { border-color: var(--red); background: var(--red-tint); }
+.taruhan-dipilih span { color: var(--ink); }
+.taruhan-tanda {
+  display: inline-block; margin-left: .35rem; padding: .1rem .45rem;
+  background: var(--red); color: var(--page); border-radius: 99px;
+  font-size: .62rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase;
+}
+.taruhan-ambang { margin-top: .85rem; font-family: var(--sans); font-size: .8rem; }
+.taruhan-ambang summary { cursor: pointer; color: var(--red-deep); font-weight: 600; }
+.taruhan-ambang ul { margin: .5rem 0 0; padding-left: 1.1rem; color: var(--ink-soft); line-height: 1.6; }
+.taruhan-riwayat {
+  margin-top: .9rem; padding-top: .7rem; border-top: 1px solid var(--line);
+  font-family: var(--sans); font-size: .8rem; color: var(--ink-soft);
+}
+.taruhan-riwayat b { display: block; margin-bottom: .35rem; color: var(--ink); }
+.taruhan-riwayat p { margin: 0 0 .35rem; line-height: 1.55; }
+.taruhan-riwayat a { font-weight: 600; color: var(--red-deep); }
+.taruhan-status {
+  display: inline-block; margin-right: .35rem; padding: .1rem .45rem;
+  border-radius: 99px; font-size: .64rem; font-weight: 800;
+  letter-spacing: .06em; text-transform: uppercase;
+}
+.taruhan-terkonfirmasi { background: var(--green-tint); color: var(--green); }
+.taruhan-patah { background: var(--red-tint); color: var(--red-deep); }
+.taruhan-kedaluwarsa, .taruhan-menunggu {
+  background: var(--card); border: 1px solid var(--line); color: var(--ink-soft);
+}
+.taruhan-kaki { margin: .9rem 0 0; font-family: var(--sans); font-size: .8rem; }
+.taruhan-kaki a { font-weight: 600; color: var(--red-deep); }
+
+/* Papan pemicu di /tema.html: satu baris per isu yang putusannya menggantung. */
+.papan-pemicu { max-width: var(--kolom-baca); margin-top: 1.7rem; }
+.papan-judul { margin: 0 0 .3rem; font-size: 1.15rem; }
+.papan-ringkas {
+  margin: 0 0 .9rem; font-family: var(--sans); font-size: .84rem;
+  line-height: 1.6; color: var(--ink-soft);
+}
+.papan-ringkas a { color: var(--red-deep); font-weight: 600; }
+.papan-daftar { display: grid; gap: .55rem; }
+.papan-baris {
+  display: grid; gap: .25rem; padding: .75rem .9rem;
+  background: var(--card); border: 1px solid var(--line);
+  border-left: 3px solid var(--red-deep); border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+.papan-baris:hover { border-color: var(--red); border-left-color: var(--red); }
+.papan-isu { font-family: var(--serif); font-size: .96rem; line-height: 1.45; color: var(--ink); }
+.papan-kapan { font-family: var(--sans); font-size: .72rem; color: var(--ink-soft); }
+.papan-bacaan { font-family: var(--sans); font-size: .82rem; color: var(--ink); }
+.papan-skor:not(:empty) {
+  justify-self: start; margin-top: .15rem; padding: .1rem .45rem;
+  border-radius: 99px; font-family: var(--sans); font-size: .64rem;
+  font-weight: 800; letter-spacing: .06em; text-transform: uppercase;
+}
+
 /* ---------- tombol kanal Telegram di footer (14 Agustus 2026) ----------
    Corong distribusi kedua di samping email, jadi pantas punya tombol
    sendiri, bukan menumpang daftar tautan. SENGAJA TIDAK ditaruh di kolom

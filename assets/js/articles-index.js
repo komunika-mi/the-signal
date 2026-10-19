@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "direksi-totl-saleh-beli-114-800-saham-senilai-rp150-juta",
+  "category": "Aksi Korporasi",
+  "title": "Direksi TOTL Saleh [Beli] 114.800 Saham Senilai Rp150 Juta",
+  "deck": "Direksi Total Bangun Persada, Saleh, menambah kepemilikan saham lewat pembelian tidak langsung pada 16 Oktober 2026, menaikkan hak suaranya dari 0,178 persen menjadi 0,181 persen.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOTL",
+   "Total Bangun Persada",
+   "insider trading",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-4053-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wifi-investasi-sukses-bersama-lepas-1-42-miliar-saham",
   "category": "Aksi Korporasi",
   "title": "WIFI: Investasi Sukses Bersama [Lepas] 1,42 Miliar Saham",
@@ -6520,22 +6536,6 @@ var ARTICLES = [
    "free float"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73a908870a_7bfe32f0cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-98-72-saham-inpp-terkonsentrasi-di-tangan-segelintir",
-  "category": "Aksi Korporasi",
-  "title": "BEI: [98,72%] Saham INPP Terkonsentrasi di Tangan Segelintir",
-  "deck": "BEI dan KSEI mengumumkan 98,72% saham INPP dikuasai sejumlah pemegang saham terbatas per 1 Oktober 2026, menyisakan sangat sedikit saham yang beredar bebas di pasar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPP",
-   "BEI",
-   "KSEI",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7e31305b7f_912ab42361.pdf",
   "sourceLabel": "IDX"
  }
 ];

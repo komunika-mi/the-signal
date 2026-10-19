@@ -3,6 +3,31 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "direksi-totl-saleh-beli-114-800-saham-senilai-rp150-juta",
+  "category": "Aksi Korporasi",
+  "title": "Direksi TOTL Saleh [Beli] 114.800 Saham Senilai Rp150 Juta",
+  "deck": "Direksi Total Bangun Persada, Saleh, menambah kepemilikan saham lewat pembelian tidak langsung pada 16 Oktober 2026, menaikkan hak suaranya dari 0,178 persen menjadi 0,181 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T06:15:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-4053-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOTL",
+  "tags": [
+   "TOTL",
+   "Total Bangun Persada",
+   "insider trading",
+   "direksi"
+  ],
+  "body": [
+   "Saleh, anggota Direksi PT Total Bangun Persada Tbk (TOTL), melaporkan penambahan kepemilikan sahamnya ke Otoritas Jasa Keuangan pada 20 Oktober 2026. Berdasarkan laporan itu, Saleh membeli 114.800 saham biasa TOTL pada 16 Oktober 2026 dengan harga Rp1.310 per saham, atau senilai sekitar Rp150,39 juta. Dengan pembelian ini, kepemilikannya naik dari 6.054.000 lembar menjadi 6.168.800 lembar saham, atau bertambah sekitar 1,9 persen dari jumlah yang sudah dipegangnya.",
+   "Akibat penambahan tersebut, hak suara Saleh di TOTL naik dari 0,178 persen menjadi 0,181 persen dari total saham beredar perusahaan. Dalam dokumen, status kepemilikan atas saham tambahan ini tercatat tidak langsung, sementara tujuan transaksi ditulis sebagai kepentingan pribadi tanpa rincian lebih lanjut mengenai pihak yang menjadi perantara kepemilikan tersebut."
+  ],
+  "fotoAdegan": "Construction workers in hard hats checking rebar and scaffolding at a high-rise building site in Jakarta, daytime",
+  "takeaway": "Pembelian ini condong netral bagi TOTL, karena nilainya cuma menambah kepemilikan Saleh sekitar 1,9 persen dari saham yang sudah dipegangnya dan hak suaranya di perusahaan nyaris tidak berubah, dari 0,178 persen menjadi 0,181 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan kuat direksi atas prospek perusahaan. Yang tersentuh di sini cuma susunan saham dalam genggaman direksi, bukan pos keuangan TOTL seperti kas, utang, atau laba per saham, sebab transaksi semacam ini terjadi di pasar sekunder antar investor dan tidak menambah dana segar ke kas perusahaan maupun mengubah jumlah total saham beredar TOTL. Yang perlu dipantau selanjutnya adalah apakah Saleh atau direksi dan komisaris TOTL lainnya melanjutkan pola pembelian serupa dalam beberapa bulan ke depan, karena rangkaian pembelian kecil yang berulang biasanya lebih bermakna dibanding satu transaksi tunggal seperti ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wifi-investasi-sukses-bersama-lepas-1-42-miliar-saham",
   "category": "Aksi Korporasi",
   "title": "WIFI: Investasi Sukses Bersama [Lepas] 1,42 Miliar Saham",

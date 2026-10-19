@@ -548,6 +548,30 @@ function blokAgenda(AGENDA) {
   }).join('');
 }
 
+// Blok "Yang Belum Diputuskan" di rail beranda: taruhan arah yang masih
+// menunggu putusan, tenggat terdekat dulu. Datanya dirakit build-pages.mjs
+// dari registry tema dan rapor.js; di sini hanya perenderan.
+//
+// SELALU mengganti isi penanda, termasuk saat kosong. Blok agenda di atas
+// melewati penggantian kalau datanya kosong, dan itu aman untuk agenda. Untuk
+// taruhan tidak: isi lama dari build sebelumnya akan terus memajang taruhan
+// yang sudah divonis, seolah masih menunggu.
+function blokTaruhan(TARUHAN) {
+  if (!TARUHAN || !TARUHAN.length) {
+    return '<p class="compact-meta" style="margin:.2rem 0 .5rem;">Belum ada taruhan yang ' +
+      'menunggu putusan. Bacaan baru dicatat begitu tanggal putusan sebuah isu mendekat.</p>';
+  }
+  const BULAN3 = ['Jan', 'Feb', 'Mar', 'Apr', 'Mei', 'Jun', 'Jul', 'Agu', 'Sep', 'Okt', 'Nov', 'Des'];
+  return TARUHAN.slice(0, 3).map(t => {
+    const d = new Date(t.tenggat + 'T00:00:00Z');
+    const tgl = d.getUTCDate() + ' ' + BULAN3[d.getUTCMonth()];
+    return '<a class="compact-row" href="/tema/' + esc(t.slug) + '.html">' +
+      '<span class="compact-num num agenda-num">' + esc(tgl) + '</span>' +
+      '<span class="compact-body"><span class="compact-title">' + esc(t.pertanyaan) + '</span>' +
+      '<span class="compact-meta">Bacaan kami: ' + esc(t.cabang) + '</span></span></a>';
+  }).join('');
+}
+
 
 // Identitas penerbit. Definisinya pindah ke scripts/identitas.mjs supaya
 // node yang sama ikut tercetak di seluruh halaman, bukan cuma beranda;
@@ -558,7 +582,7 @@ function jsonLdSitus(...tambahan) {
     .join(String.fromCharCode(10));
 }
 
-export function bakeRoot({ ARTICLES, VIDEOS, BPS, HARIAN, PEKANAN, AGENDA }) {
+export function bakeRoot({ ARTICLES, VIDEOS, BPS, HARIAN, PEKANAN, AGENDA, TARUHAN }) {
   // ---- index.html ----
   const pIndex = path.join(ROOT, 'index.html');
   let idx = fs.readFileSync(pIndex, 'utf8');
@@ -614,6 +638,8 @@ export function bakeRoot({ ARTICLES, VIDEOS, BPS, HARIAN, PEKANAN, AGENDA }) {
 
   const agenda = blokAgenda(AGENDA);
   if (agenda) idx = ganti(idx, 'agenda', agenda, 'index.html');
+
+  idx = ganti(idx, 'taruhan', blokTaruhan(TARUHAN), 'index.html');
 
   const sumber = sumberRingkas(ARTICLES);
   if (sumber) idx = ganti(idx, 'sumber', esc(sumber), 'index.html');

@@ -1029,6 +1029,11 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
 .papan-isu { font-family: var(--serif); font-size: .96rem; line-height: 1.45; color: var(--ink); }
 .papan-kapan { font-family: var(--sans); font-size: .72rem; color: var(--ink-soft); }
 .papan-bacaan { font-family: var(--sans); font-size: .82rem; color: var(--ink); }
+/* Blok "Yang Belum Diputuskan" di rail beranda membawa DUA tautan kaki, satu
+   ke papan tema dan satu ke rapor. Kotak rail lain cuma punya satu, jadi
+   tautannya cukup inline; di sini dua tautan inline menempel jadi satu baris
+   yang terpotong di tengah kalimat. */
+.taruhan-beranda .card-link { display: block; margin-top: .3rem; }
 .papan-skor:not(:empty) {
   justify-self: start; margin-top: .15rem; padding: .1rem .45rem;
   border-radius: 99px; font-family: var(--sans); font-size: .64rem;

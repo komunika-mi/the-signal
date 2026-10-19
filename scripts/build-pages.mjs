@@ -1682,7 +1682,20 @@ if (RAPOR && Array.isArray(RAPOR.entri) && RAPOR.entri.length) {
 }
 
 // ---------- panggang beranda + arsip ----------
-bakeRoot({ ARTICLES, VIDEOS, BPS, HARIAN, PEKANAN, AGENDA });
+//
+// Taruhan untuk rail beranda: hanya yang masih menunggu putusan dan halaman
+// temanya tayang, tenggat terdekat dulu. Isu tanpa taruhan terbuka tidak ikut;
+// "belum ada bacaan" layak di papan /tema.html, tapi di beranda cuma memakan
+// tempat tanpa memberi apa-apa.
+const TARUHAN_BERANDA = KELOMPOK_TEMA
+  .filter(t => t.taruhan)
+  .map(t => {
+    const e = (KLAIM_ISU.get(t.slug) || []).find(x => x.status === 'menunggu' && x.tenggat);
+    return e ? { slug: t.slug, pertanyaan: t.taruhan.pertanyaan, cabang: e.cabang || '', tenggat: e.tenggat } : null;
+  })
+  .filter(Boolean)
+  .sort((a, b) => a.tenggat.localeCompare(b.tenggat));
+bakeRoot({ ARTICLES, VIDEOS, BPS, HARIAN, PEKANAN, AGENDA, TARUHAN: TARUHAN_BERANDA });
 console.log('bake beranda + arsip: ok');
 
 // ---------- Signal Harian ----------

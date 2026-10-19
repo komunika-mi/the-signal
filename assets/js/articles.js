@@ -84,6 +84,109 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "dssa-tanggapi-isu-pelanggaran-saham-klaim-tak-ada-dampak",
+  "category": "Aksi Korporasi",
+  "title": "DSSA Tanggapi Isu [Pelanggaran] Saham, Klaim Tak Ada Dampak",
+  "deck": "DSSA menjawab permintaan penjelasan BEI terkait pemberitaan CNBC Indonesia soal OJK menelusuri dugaan pelanggaran saham BREN, CUAN, dan DSSA, dan menyatakan belum ada dampak material.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T11:34:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/558e348077_b5165e9cad.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DSSA",
+  "tags": [
+   "DSSA",
+   "OJK",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Dian Swastatika Sentosa Tbk (DSSA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-13182/BEI.PP2/10-2026 tertanggal 16 Oktober 2026. Surat BEI itu meminta klarifikasi atas pemberitaan CNBC Indonesia pada tanggal yang sama berjudul 'Ada Pelanggaran, OJK Telusuri Saham BREN, CUAN, dan DSSA'. Tanggapan perseroan dikirim melalui surat nomor 178/CSDSS-10/2026 tertanggal 19 Oktober 2026, ditandatangani oleh dua Direktur, Hermawan Tarjono dan Alex Sutanto.",
+   "Dalam tanggapannya, DSSA menyatakan saat ini tidak ada dampak material terhadap kondisi keuangan, termasuk laba rugi, ekuitas, dan likuiditas perseroan, maupun terhadap kegiatan operasionalnya. Perseroan tidak merinci apa isi dugaan pelanggaran yang disebut media, maupun bentuk sanksi yang ditanyakan BEI dalam poin kedua suratnya. DSSA hanya menyatakan menghormati kewenangan dan keputusan regulator dalam memperkuat integritas dan transparansi pasar modal, serta berkomitmen bersikap kooperatif dan menindaklanjuti keputusan regulator sesuai aturan yang berlaku.",
+   "Menjawab pertanyaan BEI soal ada tidaknya informasi material di media yang belum pernah atau belum lengkap dilaporkan ke bursa, DSSA menjawab sepengetahuannya saat ini tidak ada informasi semacam itu yang dapat mempengaruhi harga sahamnya. Perseroan juga menyatakan seluruh informasi material yang dapat mempengaruhi kelangsungan usaha dan harga sahamnya sudah diungkapkan sampai tanggal surat ini, dan akan terus berkoordinasi dengan otoritas serta melaporkan perkembangan material berikutnya sesuai ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "Exterior of a coal fired power plant with tall cooling towers and transmission lines, overcast morning sky, distant wide angle",
+  "takeaway": "Laporan ini condong negatif, bukan karena ada angka kerugian, tapi karena DSSA diminta menjelaskan dugaan pelanggaran saham yang disebut media dan OJK, lalu jawabannya hanya penegasan umum tanpa merinci apa pelanggarannya atau apa isi sanksi yang disinggung BEI. Perseroan memang menyebut tidak ada dampak ke laba rugi, ekuitas, dan likuiditas, tiga pos yang jadi perhatian pasar karena menunjukkan apakah perusahaan masih sehat membayar kewajiban dan menghasilkan laba, tapi klaim itu belum bisa diperiksa publik selama rincian soal dugaan pelanggarannya sendiri tidak dibuka. Investor perlu mencermati apakah OJK dan BEI akan menindaklanjuti dengan sanksi resmi atau permintaan keterbukaan lebih lanjut terhadap DSSA, BREN, dan CUAN, karena DSSA sendiri berjanji akan melaporkan perkembangan material berikutnya begitu ada keputusan regulator.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cybr-komisaris-jual-373-400-saham-senilai-rp182-juta",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Komisaris [Jual] 373.400 Saham Senilai Rp182 Juta",
+  "deck": "Komisaris ITSEC Asia, Andri Hutama Putra, melepas 373.400 saham secara tidak langsung pada 14 Oktober 2026, hak suaranya turun tipis dari 0,209% jadi 0,207%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T11:21:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-5452-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "PT ITSEC Asia Tbk (CYBR) melaporkan ke Otoritas Jasa Keuangan bahwa anggota Dewan Komisarisnya, Andri Hutama Putra, menjual sahamnya secara tidak langsung dalam tiga transaksi pada 14 Oktober 2026. Rinciannya, 100.000 lembar saham biasa terjual pada harga Rp484 per lembar, 73.400 lembar pada harga Rp490 per lembar, dan 200.000 lembar pada harga Rp488 per lembar. Total 373.400 lembar saham berpindah tangan dengan nilai keseluruhan sekitar Rp182 juta, dan tujuan transaksi tercatat sebagai investasi lainnya.",
+   "Sebelum transaksi, Andri memegang 28.255.800 lembar saham CYBR dengan hak suara 0,209 persen. Setelah penjualan, kepemilikannya menjadi 27.882.400 lembar dengan hak suara 0,207 persen. Dengan demikian, jumlah saham yang dilepas setara sekitar 1,32 persen dari total kepemilikannya sebelum transaksi."
+  ],
+  "fotoAdegan": "Technicians monitoring rows of server racks with blue indicator lights in a dim data center at night.",
+  "takeaway": "Laporan ini netral bagi CYBR, sebab yang dilepas hanya sekitar 1,32 persen dari kepemilikan Andri sendiri dan hak suaranya cuma turun dari 0,209 persen jadi 0,207 persen, selisih yang hampir tidak berarti secara korporasi. Pos yang tersentuh adalah struktur hak suara pemegang saham non pengendali, yang dipantau pasar karena transaksi jual insider kadang dibaca sebagai sinyal pandangan orang dalam terhadap prospek perusahaannya sendiri, meski di sini ukurannya terlalu kecil untuk ditafsirkan sebagai sikap tertentu. Yang perlu dicermati selanjutnya adalah apakah Andri atau komisaris lain CYBR kembali melaporkan penjualan susulan dalam waktu dekat, karena pola pelepasan bertahap seperti ini biasanya baru terlihat jelas setelah beberapa laporan kepemilikan berturut-turut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pool-rombak-susunan-komite-audit-tiga-posisi-berganti",
+  "category": "Aksi Korporasi",
+  "title": "POOL Rombak Susunan [Komite Audit], Tiga Posisi Berganti",
+  "deck": "Pool Advista Indonesia mengganti seluruh pimpinan dan anggota komite audit efektif 29 September 2026, menyusul perubahan dewan komisaris dari RUPSLB bulan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T11:10:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2586c48f00_0c03be5796.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POOL",
+  "tags": [
+   "POOL",
+   "komite audit",
+   "tata kelola perusahaan",
+   "BEI"
+  ],
+  "body": [
+   "Pool Advista Indonesia Tbk (POOL) resmi mengganti seluruh susunan Komite Audit, efektif 29 September 2026, berdasarkan Keputusan Dewan Komisaris Nomor 001/SK/POOL/KOM/IX/2026. Hamdriyanto, S.Kom, yang menjabat sebagai Komisaris Independen, ditetapkan sebagai Ketua Komite Audit menggantikan Gondo Radityo Gambiro. Dua posisi anggota lainnya juga berganti, yaitu Fransiska Rowinda menggantikan Alfizar Hendra Muda, dan Reva Dwi Hary Sumito menggantikan Doddy Oktavianus Iskandar. Ketiganya menjabat untuk periode pertama.",
+   "Keputusan ini mengacu pada Piagam Komite Audit baru Nomor 01/KA/POOL/2026 yang mencabut piagam lama tertanggal 13 Maret 2013, dan terkait dengan perubahan susunan Dewan Komisaris Perseroan yang disahkan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) 22 September 2026 lewat Akta Notaris Nomor 146. Keputusan ditandatangani oleh Komisaris Utama Marang, S.H., M.H. dan Komisaris Independen Hamdriyanto sendiri selaku anggota Dewan Komisaris. Dari ketiga anggota baru, Fransiska Rowinda tercatat sebagai anggota yang berlatar belakang pendidikan dan keahlian di bidang akuntansi dan/atau keuangan, posisi yang diwajibkan aturan Otoritas Jasa Keuangan agar komite punya kemampuan membaca laporan keuangan secara teknis.",
+   "Surat pemberitahuan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia baru dikirim pada 16 Oktober 2026 dan dipublikasikan 19 Oktober 2026, padahal keputusan sudah berlaku efektif sejak 29 September 2026. Keputusan Dewan Komisaris itu sendiri mewajibkan Sekretaris Perusahaan menyampaikan informasi ini paling lambat dua hari kerja setelah tanggal berlaku, sehingga pengumuman ini tercatat terlambat sekitar dua pekan dari jadwal semestinya."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long polished table, glass windows overlooking a city skyline, soft morning light",
+  "takeaway": "Perubahan ini kami nilai netral bagi fundamental Pool Advista, karena sifatnya perombakan struktur pengawasan menyusul pergantian Dewan Komisaris lewat RUPSLB, bukan transaksi yang mengubah modal, kas, atau utang perusahaan. Yang tersentuh adalah fungsi pengawasan independen atas laporan keuangan, bukan pos seperti ekuitas atau laba per saham; komite audit inilah yang memastikan auditor eksternal bekerja benar dan laporan keuangan perusahaan bisa dipercaya investor, sehingga pergantian pimpinannya penting untuk kualitas pengawasan meski tidak langsung mengubah angka di laporan keuangan. Satu hal yang perlu dicermati adalah keterlambatan pengumuman ini, yang baru disampaikan sekitar dua pekan setelah keputusan efektif padahal aturan internal Perseroan sendiri mewajibkan paling lambat dua hari kerja, sebuah indikasi kepatuhan pelaporan yang kurang rapi. Yang perlu dipantau berikutnya adalah bagaimana Komite Audit yang baru ini bekerja menjelang penyusunan laporan keuangan tahunan 2026, serta apakah Bursa Efek Indonesia meminta klarifikasi atas keterlambatan pelaporan tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ctbn-rombak-susunan-direksi-satu-direktur-mundur",
+  "category": "Aksi Korporasi",
+  "title": "CTBN Rombak Susunan [Direksi], Satu Direktur Mundur",
+  "deck": "RUPSLB Citra Tubindo menyetujui pengunduran diri Direktur Susi Yulianti dan mengangkat Romulus Suprayono Kuncoro sebagai direktur baru, efektif sejak penutupan rapat 15 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T10:51:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4c673562bd_c705823241.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CTBN",
+  "tags": [
+   "CTBN",
+   "RUPSLB",
+   "Direksi",
+   "Citra Tubindo"
+  ],
+  "body": [
+   "PT Citra Tubindo Tbk (CTBN) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 15 Oktober 2026, di WTC Conference Hall, Jakarta Pusat, pukul 10.11 hingga 10.23 WIB. Rapat dihadiri pemegang saham yang mewakili 654.031.320 saham atau 81,716 persen dari total 800.371.500 saham perseroan dengan hak suara yang sah, sehingga kuorum terpenuhi. Satu-satunya agenda rapat adalah persetujuan perubahan susunan Direksi perseroan.",
+   "Rapat menyetujui pengunduran diri Susi Yulianti dari jabatan Direktur, berlaku efektif sejak rapat ditutup. Pengunduran dirinya disertai pelepasan dan pembebasan tanggung jawab (acquit et de charge) atas tindakan pengurusan yang dilakukannya hingga 15 Oktober 2026, sepanjang tercermin dalam catatan perseroan dan sesuai aturan yang berlaku. Sebagai gantinya, rapat mengangkat Romulus Suprayono Kuncoro sebagai Direktur baru, dengan masa jabatan sejak penutupan rapat hingga RUPS Tahunan 2028. Dengan perubahan ini, susunan Direksi CTBN menjadi Karim Kouche sebagai Direktur Utama, serta Saiful Mizra Bin Kassim dan Romulus Suprayono Kuncoro sebagai Direktur.",
+   "Keputusan diambil lewat pemungutan suara melalui kode QR yang dibagikan Biro Administrasi Efek serta sistem elektronik eASY.KSEI. Hasilnya, 654.031.320 saham atau 100 persen dari saham yang hadir menyatakan setuju, tidak ada yang menolak, dan 100 saham atau 0,000015 persen abstain. Tidak ada pertanyaan maupun pendapat yang diajukan pemegang saham dalam sesi tanya jawab. Keputusan ini dituangkan dalam akta notaris nomor 21 tanggal 15 Oktober 2026 oleh notaris Aulia Taufani, yang salinannya masih dalam proses penyelesaian, sementara Direksi atau Sekretaris Perusahaan diberi kuasa untuk menyatakan kembali keputusan tersebut di hadapan notaris dan melaporkannya ke Kementerian Hukum."
+  ],
+  "fotoAdegan": "Workers inspecting rows of large steel pipes stacked in an industrial yard near a shipyard, overcast sky",
+  "takeaway": "Perubahan ini condong netral bagi CTBN karena hanya penggantian satu direktur yang disetujui bulat dengan 100 persen suara setuju dan tanpa perdebatan dari pemegang saham, sehingga tidak mencerminkan gejolak internal atau pergantian pengendali perusahaan. Yang tersentuh di sini bukan angka keuangan seperti ekuitas, arus kas, atau laba per saham, melainkan susunan manajemen, dan pelaku pasar tetap memperhatikannya karena kontinuitas tim direksi memengaruhi bagaimana strategi dan operasional perusahaan dijalankan ke depan. Yang perlu dipantau adalah penyelesaian salinan akta notaris nomor 21 tertanggal 15 Oktober 2026 serta pelaporan resmi perubahan susunan Direksi ini ke Kementerian Hukum, karena baru setelah proses itu selesai pergantian direktur tercatat sah secara hukum.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "dnrk-ganti-satu-anggota-komite-audit-mulai-15-oktober",
   "category": "Aksi Korporasi",
   "title": "DNRK ganti satu anggota [Komite Audit] mulai 15 Oktober",
@@ -289,6 +392,33 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Glass office towers in Jakarta's Sudirman financial district reflecting morning light, light traffic passing below",
   "takeaway": "Laporan ini condong positif bagi Trimegah karena perusahaan melunasi kewajibannya tepat pada tanggal jatuh tempo, sesuai rencana yang sudah disiapkan sebelumnya, tanpa gangguan operasional atau hukum. Pos yang tersentuh adalah liabilitas, yakni utang perusahaan yang kini berkurang Rp100 miliar, sekaligus menghapus beban bunga tahunan 6,75 persen yang sebelumnya harus dibayar atas obligasi ini, sehingga arus kas ke depan sedikit lebih ringan. Karena obligasi ini terbit dalam skema berkelanjutan alias diterbitkan bertahap dari satu payung penawaran, yang perlu dipantau adalah jadwal pelunasan tahap lain dalam program Obligasi Berkelanjutan II serta kemungkinan Trimegah menerbitkan utang baru untuk membiayai kegiatan sekuritasnya ke depan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tpia-siapkan-buyback-saham-hingga-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Siapkan [Buyback] Saham hingga Rp1 Triliun",
+  "deck": "Chandra Asri Pacific berencana membeli kembali sahamnya sendiri senilai maksimal Rp1 triliun, setara 0,92 persen saham beredar, mulai 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 Oktober 2026",
+  "isoDate": "2026-10-19T04:04:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/29a8ab134d_50127c015e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "buyback saham",
+   "Chandra Asri Pacific",
+   "BEI"
+  ],
+  "body": [
+   "PT Chandra Asri Pacific Tbk (TPIA) menyampaikan keterbukaan informasi rencana pembelian kembali saham atau buyback. Dana yang disiapkan sebanyak-banyaknya Rp1 triliun, bersumber dari kas internal perusahaan yang dicairkan secara bertahap, termasuk untuk biaya transaksi dan komisi broker. Jumlah saham yang akan dibeli kembali maksimal 800 juta lembar atau 0,92 persen dari total saham beredar, dengan tetap memperhatikan jumlah saham free float perusahaan. Perseroan menunjuk PT Henan Putihrai Sekuritas sebagai pelaksana transaksi, yang akan dilakukan melalui perdagangan di Bursa Efek Indonesia.",
+   "Periode buyback berlangsung tiga bulan, dari 20 Oktober 2026 hingga 19 Januari 2027, dengan batas harga pembelian serendah-rendahnya Rp1.250 dan setinggi-tingginya Rp3.000 per saham. Perseroan dapat menghentikan program ini lebih cepat jika dana sudah habis terpakai, jumlah saham yang diinginkan sudah tercapai, atau atas pertimbangan sendiri. Selama periode ini, anggota Dewan Komisaris, Direksi, karyawan, dan pemegang saham utama perusahaan dilarang bertransaksi atas saham TPIA, begitu juga pihak yang berpotensi memiliki informasi orang dalam.",
+   "Berdasarkan proforma dari laporan keuangan konsolidasian per 30 Juni 2026 yang belum diaudit, buyback ini akan memangkas total aset sebesar US$56,004 juta, dari US$13.766,127 juta menjadi US$13.710,123 juta, dan ekuitas turun dengan jumlah yang sama dari US$4.964,315 juta menjadi US$4.908,311 juta. Laba periode berjalan dan laba bersih per saham tidak berubah, masing-masing tetap di US$283,239 juta dan US$0,0033 per saham. Perseroan menyatakan buyback ini tidak akan menurunkan pendapatan maupun mengganggu pembiayaan karena arus kasnya dinilai cukup untuk membiayai kegiatan usaha, belanja modal, dan pembelian kembali saham secara bersamaan.",
+   "Saham yang dibeli kembali akan disimpan sebagai saham treasuri. Jika dalam tiga tahun sejak buyback selesai masih ada saham yang dikuasai perusahaan, TPIA wajib mulai mengalihkannya dalam waktu dua tahun, dengan tambahan waktu maksimal satu tahun lagi jika kewajiban itu belum terselesaikan. Pengalihan saham treasuri baru bisa dilakukan setelah 30 hari sejak buyback selesai sepenuhnya atau setelah periode buyback berakhir, baik melalui perdagangan di BEI maupun di luar BEI."
+  ],
+  "fotoAdegan": "Wide exterior view of a large petrochemical plant complex with pipework and storage tanks, overcast sky, Indonesia",
+  "takeaway": "Laporan ini condong positif bagi TPIA karena perusahaan menggunakan kas sendiri untuk menopang harga sahamnya di tengah kondisi pasar yang berfluktuasi, dan ukurannya yang hanya 0,92 persen dari saham beredar tidak membebani keuangan secara material. Yang tersentuh adalah ekuitas, yaitu modal bersih perusahaan setelah dikurangi utang, yang akan menyusut sekitar US$56 juta karena kas dipindahkan jadi saham treasuri, sementara laba per saham tidak berubah karena saham yang dibeli belum dihapus dari peredaran, hanya disimpan. Pelaku pasar biasanya membaca aksi semacam ini sebagai sinyal bahwa manajemen melihat harga sahamnya terlalu rendah dibanding kondisi fundamental perusahaan. Yang perlu dipantau adalah realisasi pembelian selama periode 20 Oktober 2026 sampai 19 Januari 2027, termasuk apakah dana Rp1 triliun benar-benar terpakai penuh atau program dihentikan lebih awal.",
   "sentimen": "positif"
  },
  {

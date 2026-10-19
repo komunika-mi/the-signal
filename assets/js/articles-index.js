@@ -53,6 +53,70 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "dssa-tanggapi-isu-pelanggaran-saham-klaim-tak-ada-dampak",
+  "category": "Aksi Korporasi",
+  "title": "DSSA Tanggapi Isu [Pelanggaran] Saham, Klaim Tak Ada Dampak",
+  "deck": "DSSA menjawab permintaan penjelasan BEI terkait pemberitaan CNBC Indonesia soal OJK menelusuri dugaan pelanggaran saham BREN, CUAN, dan DSSA, dan menyatakan belum ada dampak material.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DSSA",
+   "OJK",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/558e348077_b5165e9cad.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-komisaris-jual-373-400-saham-senilai-rp182-juta",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Komisaris [Jual] 373.400 Saham Senilai Rp182 Juta",
+  "deck": "Komisaris ITSEC Asia, Andri Hutama Putra, melepas 373.400 saham secara tidak langsung pada 14 Oktober 2026, hak suaranya turun tipis dari 0,209% jadi 0,207%.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-5452-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pool-rombak-susunan-komite-audit-tiga-posisi-berganti",
+  "category": "Aksi Korporasi",
+  "title": "POOL Rombak Susunan [Komite Audit], Tiga Posisi Berganti",
+  "deck": "Pool Advista Indonesia mengganti seluruh pimpinan dan anggota komite audit efektif 29 September 2026, menyusul perubahan dewan komisaris dari RUPSLB bulan sebelumnya.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POOL",
+   "komite audit",
+   "tata kelola perusahaan",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2586c48f00_0c03be5796.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ctbn-rombak-susunan-direksi-satu-direktur-mundur",
+  "category": "Aksi Korporasi",
+  "title": "CTBN Rombak Susunan [Direksi], Satu Direktur Mundur",
+  "deck": "RUPSLB Citra Tubindo menyetujui pengunduran diri Direktur Susi Yulianti dan mengangkat Romulus Suprayono Kuncoro sebagai direktur baru, efektif sejak penutupan rapat 15 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CTBN",
+   "RUPSLB",
+   "Direksi",
+   "Citra Tubindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4c673562bd_c705823241.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dnrk-ganti-satu-anggota-komite-audit-mulai-15-oktober",
   "category": "Aksi Korporasi",
   "title": "DNRK ganti satu anggota [Komite Audit] mulai 15 Oktober",
@@ -178,6 +242,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd48777ed1_f08d7c8995.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tpia-siapkan-buyback-saham-hingga-rp1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Siapkan [Buyback] Saham hingga Rp1 Triliun",
+  "deck": "Chandra Asri Pacific berencana membeli kembali sahamnya sendiri senilai maksimal Rp1 triliun, setara 0,92 persen saham beredar, mulai 20 Oktober 2026.",
+  "date": "19 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "buyback saham",
+   "Chandra Asri Pacific",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/29a8ab134d_50127c015e.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6462,86 +6542,6 @@ var ARTICLES = [
    "suspensi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8460f2c0a5_87c5a6a5f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pdpp-komisaris-lim-kim-guan-mundur-dari-primadaya-plastisindo",
-  "category": "Aksi Korporasi",
-  "title": "PDPP: [Komisaris] Lim Kim Guan Mundur dari Primadaya Plastisindo",
-  "deck": "Komisaris Lim Kim Guan mengundurkan diri dari PT Primadaya Plastisindo Tbk lewat surat tertanggal 8 Oktober 2026, perseroan sebut tidak ada dampak material.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PDPP",
-   "komisaris",
-   "pengunduran diri",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b50698ac88_be1a37b1ff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-akuisisi-45-saham-tambang-batu-bara-lewat-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "BIKE [Akuisisi] 45% Saham Tambang Batu Bara Lewat Anak Usaha",
-  "deck": "Anak usaha BIKE, PT Prambanan Nusantara Energi, mengambil 45 persen saham PT Sumber Bara Abadi yang mengelola tambang batu bara 4.909 hektare di Kalimantan Timur.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi tambang",
-   "batu bara",
-   "Prambanan Nusantara Energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d1f44ba077_e3490b490b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-pura-melonjak-10-53-emiten-akui-tak-ada-info-baru",
-  "category": "Aksi Korporasi",
-  "title": "Saham PURA [Melonjak] 10,53%, Emiten Akui Tak Ada Info Baru",
-  "deck": "BEI meminta penjelasan atas lonjakan volume dan harga saham PURA pada 8 Oktober 2026. Perseroan menjawab tidak ada informasi material yang belum diungkapkan ke publik.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PURA",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "lonjakan harga saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/883e182968_7f85929385.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bltz-gelar-public-expose-insidentil-usai-saham-disuspensi",
-  "category": "Aksi Korporasi",
-  "title": "BLTZ Gelar Public Expose [Insidentil] usai Saham Disuspensi",
-  "deck": "BEI meminta BLTZ menggelar paparan publik insidentil Rabu, 14 Oktober 2026, usai saham perseroan disuspensi, menyusul laporan sebelumnya yang menyebut tak ada informasi material baru.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLTZ",
-   "suspensi saham",
-   "public expose",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d55b16cb4d_252f58118b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inci-jawab-permintaan-bei-soal-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "INCI Jawab Permintaan BEI soal [Volatilitas] Sahamnya",
-  "deck": "Intanwijaya Internasional (INCI) menjawab permintaan BEI soal volatilitas sahamnya, menegaskan transaksi murni pasar tanpa rencana aksi korporasi dalam tiga bulan mendatang.",
-  "date": "12 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INCI",
-   "volatilitas saham",
-   "BEI",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/51620ba6bb_0b4588a33e.pdf",
   "sourceLabel": "IDX"
  }
 ];

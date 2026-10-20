@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bpdp-dukung-hilirisasi-kelapa-di-wcd-2026-manado",
+  "category": "Industri",
+  "title": "BPDP Dukung Hilirisasi [Kelapa] di WCD 2026 Manado",
+  "deck": "Sulawesi Utara menjadi tuan rumah World Coconut Day 2026, didukung BPDP, seiring kelapa masuk daftar komoditas prioritas hilirisasi pemerintah.",
+  "image": "assets/img/bpdp-dukung-hilirisasi-kelapa-di-wcd-2026-manado.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T23:34:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474110-bpdp-perkuat-sinergi-dalam-wcd-2026-untuk-peningkatan-produktivitas-kelapa-indonesia",
+  "tags": [
+   "kelapa",
+   "hilirisasi",
+   "BPDP",
+   "Sulawesi Utara"
+  ],
+  "body": [
+   "Sulawesi Utara sukses menjadi tuan rumah World Coconut Day (WCD) 2026 yang berlangsung 8 hingga 10 Oktober, ajang internasional yang mempertemukan pemerintah, akademisi, dan pelaku industri kelapa dari berbagai negara. Acara ini penting karena menegaskan arah kebijakan Indonesia, lewat dukungan Badan Pengelola Dana Perkebunan (BPDP), untuk mendorong kelapa naik kelas dari sekadar bahan mentah menjadi produk olahan bernilai lebih tinggi.",
+   "Perhelatan yang dipusatkan di Manado ini digagas bersama oleh International Coconut Community (ICC), organisasi yang menaungi 21 negara produsen kelapa dengan total penguasaan sekitar 90 persen pasar dunia, bersama Pemerintah Provinsi Sulawesi Utara. Dibuka oleh Menteri Koordinator Bidang Pangan Zulkifli Hasan, acara bertema \"Coconuts in Times of Uncertainty: Securing Food, Energy, and Livelihoods\" ini juga mencatat sejarah karena untuk kali pertama ICC dipimpin figur asal Indonesia, Jelfina C. Alouw, yang sekaligus menjadi perempuan pertama yang menjabat Direktur Jenderal organisasi tersebut.",
+   "Dalam forum ini, kelapa disebut sebagai \"Tree of Life\" karena hampir seluruh bagiannya, dari akar, batang, daun, hingga buah dan sabutnya, bisa diolah menjadi produk bernilai ekonomi. Pemerintah melalui BAPPENAS telah memasukkan kelapa sebagai satu dari tiga komoditas prioritas hilirisasi, bersama sawit dan kakao, dengan proyeksi nilai jual produk olahan kelapa bisa melonjak hingga lima kali lipat dibanding dijual dalam bentuk bahan mentah.",
+   "Rangkaian WCD 2026 ditutup dengan kunjungan delegasi internasional ke Danau Linauw di Tomohon, sekaligus mempromosikan pariwisata Sulawesi Utara. Momentum ini memperkuat posisi provinsi yang dijuluki \"Bumi Nyiur Melambai\" itu sebagai pusat riset, diplomasi, dan industri kelapa dunia."
+  ],
+  "fotoAdegan": "Workers sorting large piles of fresh coconuts in an open rural collection yard, tropical palm trees in the background, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/20/6ad7976cdfb48-sulawesi-utara-baru-saja-sukses-menjadi-tuan-rumah-perhelatan-akbar-hari-kelapa-dunia-atau-world-coconut-day-wcd-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret di balik acara seremonial ini adalah perluasan peran BPDP, badan yang sebelumnya dikenal lewat urusan dana pungutan ekspor sawit, kini ikut menopang pengembangan kelapa bersama sawit dan kakao sebagai tiga komoditas yang didorong pemerintah untuk diolah lebih dulu di dalam negeri sebelum dijual, bukan sekadar dijual mentah. BAPPENAS menyebut langkah ini bisa menaikkan nilai jual produk kelapa olahan hingga lima kali lipat dibanding kelapa mentah, yang kalau benar terjadi berarti pendapatan petani kelapa dan pelaku usaha pengolahan di daerah seperti Sulawesi Utara berpotensi ikut terangkat. Pola dukungan ini mengikuti jalan yang sudah dipakai untuk sawit, sehingga acara ini menandakan pemerintah mulai menjadikan sawit sebagai contoh untuk membangun skema dukungan serupa bagi kelapa secara bertahap, bukan sekaligus. Yang akan menentukan apakah arah ini benar-benar berjalan adalah apakah BPDP nantinya mengalokasikan dana konkret untuk program kelapa, dan apakah muncul aturan turunan dari BAPPENAS atau BPDP yang merinci skema insentifnya, bukan hanya pernyataan di acara seremonial seperti WCD ini.",
+  "imageV": "mvgxwtqq"
+ },
+ {
   "slug": "adro-trinugraha-thohir-tambah-saham-470-000-lembar",
   "category": "Aksi Korporasi",
   "title": "ADRO: Trinugraha Thohir [Tambah] Saham 470.000 Lembar",

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "0UG96BXBbgg",
+  "title": "Insinyur dari 11 Negara ASEAN Dorong Industrialisasi",
+  "category": "Industri",
+  "program": "Kabar Hari Ini",
+  "summary": "Insinyur dari 11 negara ASEAN berkumpul di Bandung dalam konferensi Cafeo 44 yang digagas Persatuan Insinyur Indonesia untuk mendorong percepatan industrialisasi di kawasan.",
+  "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena menyoroti arah kebijakan industrialisasi dan kerja sama teknis lintas negara ASEAN.",
+  "terbit": "2026-10-20T16:53:43+00:00"
+ },
+ {
+  "id": "eK7Sc8eJ7RA",
+  "title": "Tantangan Besar Koperasi Desa Merah Putih Menurut Gubes FH UI",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Guru besar Fakultas Hukum UI menyoroti sejumlah tantangan besar yang dihadapi program Koperasi Desa Merah Putih, inisiatif pemberdayaan ekonomi desa yang digagas pemerintah.",
+  "takeaway": "Evaluasi ini penting bagi pembaca ekonomi karena menyangkut keberlanjutan program koperasi desa sebagai instrumen pemberdayaan UMKM dan ekonomi rakyat.",
+  "terbit": "2026-10-20T16:32:59+00:00"
+ },
+ {
   "id": "t54oZMOVDUI",
   "title": "Presiden Prabowo Subianto Gelar Ratas Ekonomi di Istana",
   "category": "Makroekonomi",

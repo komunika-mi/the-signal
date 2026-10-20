@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "0UG96BXBbgg",
+  "title": "Insinyur dari 11 Negara ASEAN Dorong Industrialisasi",
+  "category": "Industri",
+  "program": "Kabar Hari Ini",
+  "summary": "Insinyur dari 11 negara ASEAN berkumpul di Bandung dalam konferensi Cafeo 44 yang digagas Persatuan Insinyur Indonesia untuk mendorong percepatan industrialisasi di kawasan.",
+  "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena menyoroti arah kebijakan industrialisasi dan kerja sama teknis lintas negara ASEAN."
+ },
+ {
+  "id": "eK7Sc8eJ7RA",
+  "title": "Tantangan Besar Koperasi Desa Merah Putih Menurut Gubes FH UI",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Guru besar Fakultas Hukum UI menyoroti sejumlah tantangan besar yang dihadapi program Koperasi Desa Merah Putih, inisiatif pemberdayaan ekonomi desa yang digagas pemerintah.",
+  "takeaway": "Evaluasi ini penting bagi pembaca ekonomi karena menyangkut keberlanjutan program koperasi desa sebagai instrumen pemberdayaan UMKM dan ekonomi rakyat."
+ },
+ {
   "id": "t54oZMOVDUI",
   "title": "Presiden Prabowo Subianto Gelar Ratas Ekonomi di Istana",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Diskusi membahas dampak UU Pelindungan Ketenagakerjaan, yang disahkan pada 6 Oktober 2026, terhadap posisi pekerja dan pengusaha.",
   "takeaway": "Relevan bagi pelaku usaha dan pekerja yang ingin memahami pihak yang paling terdampak dari regulasi baru ini."
- },
- {
-  "id": "0HHP33w-nVI",
-  "title": "Agus Pambagio Ingatkan Pengawasan Dana Cadangan Pesangon",
-  "category": "Ketenagakerjaan",
-  "program": "Indonesia Business Forum",
-  "summary": "Pengamat kebijakan publik Agus Pambagio menyoroti pentingnya pengawasan ketat atas dana cadangan pesangon dalam UU Pelindungan Ketenagakerjaan.",
-  "takeaway": "Menyangkut kepastian hak pesangon pekerja sekaligus tata kelola dana perusahaan ke depan."
- },
- {
-  "id": "4WxmMM8CPEM",
-  "title": "Usul Jam Kerja 45 Jam, Apindo Soroti Produktivitas SDM",
-  "category": "Ketenagakerjaan",
-  "program": "Indonesia Business Forum",
-  "summary": "Apindo menilai produktivitas tenaga kerja Indonesia masih rendah, di tengah usulan perpanjangan jam kerja menjadi 45 jam per minggu.",
-  "takeaway": "Menyentuh isu daya saing tenaga kerja nasional yang berkaitan langsung dengan kebijakan jam kerja."
  }
 ];

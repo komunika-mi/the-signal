@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bpdp-dukung-hilirisasi-kelapa-di-wcd-2026-manado",
+  "category": "Industri",
+  "title": "BPDP Dukung Hilirisasi [Kelapa] di WCD 2026 Manado",
+  "deck": "Sulawesi Utara menjadi tuan rumah World Coconut Day 2026, didukung BPDP, seiring kelapa masuk daftar komoditas prioritas hilirisasi pemerintah.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/bpdp-dukung-hilirisasi-kelapa-di-wcd-2026-manado.jpg",
+  "imageV": "mvgxwtqq",
+  "tags": [
+   "kelapa",
+   "hilirisasi",
+   "BPDP",
+   "Sulawesi Utara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474110-bpdp-perkuat-sinergi-dalam-wcd-2026-untuk-peningkatan-produktivitas-kelapa-indonesia"
+ },
+ {
   "slug": "adro-trinugraha-thohir-tambah-saham-470-000-lembar",
   "category": "Aksi Korporasi",
   "title": "ADRO: Trinugraha Thohir [Tambah] Saham 470.000 Lembar",
@@ -6508,22 +6525,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b739e93078_d113de7b8d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cpri-minta-perpanjangan-waktu-ke-bei-kas-anjlok-92",
-  "category": "Aksi Korporasi",
-  "title": "CPRI minta perpanjangan waktu ke BEI, [kas anjlok 92%]",
-  "deck": "CPRI meminta perpanjangan waktu ke BEI hingga 16 Oktober 2026, sembari mengungkap kas yang anjlok 92 persen dan beban administrasi yang melampaui pendapatan pada laporan keuangan 2022.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CPRI",
-   "properti",
-   "going concern",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/183ce5a897_0fcbe40844.pdf",
   "sourceLabel": "IDX"
  }
 ];

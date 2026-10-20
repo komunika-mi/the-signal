@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-produk-hijau-ri-tumbuh-59-7-persen-syarat-ue-ketat",
+  "category": "Industri",
+  "title": "Ekspor Produk Hijau RI [Tumbuh] 59,7 Persen, Syarat UE Ketat",
+  "deck": "Kemendag gelar forum ekspor hijau di sela TEI ke-41, saat ekspor produk ramah lingkungan RI tumbuh 59,7 persen pada Januari-Agustus 2025, meski syarat pasar Eropa makin ketat.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "ekspor hijau",
+   "TEI ke-41",
+   "Kemendag",
+   "Uni Eropa"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/forum-bisnis-produk-hijau-di-tei-ke-41-kemendag-dorong-ekspor-penuhi-aspek-ramah-lingkungan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "boba-direksi-lepas-99-67-sahamnya-ke-227-200-lembar",
   "category": "Aksi Korporasi",
   "title": "BOBA: Direksi [Lepas] 99,67% Sahamnya ke 227.200 Lembar",
@@ -2105,7 +2121,7 @@ var ARTICLES = [
   "title": "Eksportir ke Eropa Harus Penuhi [EUDR] sebelum CEPA Diteken",
   "deck": "Kemendag minta eksportir kopi, karet, sawit, kakao, dan produk kayu segera penuhi aturan antideforestasi Uni Eropa sebelum I-EU CEPA ditandatangani akhir 2026.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "I-EU CEPA",
    "EUDR",
@@ -2137,7 +2153,7 @@ var ARTICLES = [
   "title": "Paviliun Kawasan Berikat TEI Catat Minat [Rp5 Triliun]",
   "deck": "Enam belas perusahaan menyatakan minat memanfaatkan status Kawasan Berikat dan Pusat Logistik Berikat di Trade Expo Indonesia 2026, dengan potensi investasi sekitar Rp5 triliun menurut Kemendag.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "Kawasan Berikat",
    "Trade Expo Indonesia",
@@ -2414,7 +2430,7 @@ var ARTICLES = [
   "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
   "deck": "Pemerintah memperpanjang tenggat wajib sertifikat halal untuk makanan, minuman, kosmetik, dan obat dari 18 Oktober 2026 menjadi 2028, menyusul masukan dunia usaha soal kesiapan ekosistem sertifikasi.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "tags": [
    "Sertifikat Halal",
    "BPJPH",
@@ -5008,7 +5024,7 @@ var ARTICLES = [
   "title": "Sertifikasi Halal Jadi [Wajib] Mulai 17 Oktober 2026",
   "deck": "Pemerintah memberlakukan kewajiban sertifikasi halal mulai 17 Oktober 2026, seiring target ekonomi syariah jadi penopang pertumbuhan menuju 8 persen.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "ekonomi syariah",
    "sertifikasi halal",
@@ -5024,7 +5040,7 @@ var ARTICLES = [
   "title": "Pemerintah Pangkas Bea Masuk Plastik Jadi [0%] Selama 6 Bulan",
   "deck": "Lewat PMK 68/2026, bea masuk bahan baku plastik PE dan PP tertentu dipangkas jadi nol persen selama enam bulan, merespons lonjakan harga di pasar global.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
+  "image": "assets/img/mesin-tekstil.jpg",
   "tags": [
    "bea masuk",
    "industri plastik",
@@ -5058,7 +5074,7 @@ var ARTICLES = [
   "title": "RI Terbitkan Aturan [Antidumping] Baru, Tutup Celah Penghindaran",
   "deck": "PP Nomor 39 Tahun 2026 mengatur ulang tindakan pengamanan, antidumping, dan imbalan, serta untuk pertama kalinya melarang praktik penghindaran lewat rute kirim atau negara asal palsu.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/mesin-tekstil.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "antidumping",
    "PP 39/2026",
@@ -5630,7 +5646,7 @@ var ARTICLES = [
   "title": "Pemerintah Pacu 3 [CEPA] Baru, Bidik Ekspor Sawit-Otomotif",
   "deck": "Pemerintah mendorong percepatan implementasi tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Eurasia agar manfaatnya benar-benar terasa pada ekspor sawit, otomotif, kopi, dan sejumlah komoditas lain.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -5729,7 +5745,7 @@ var ARTICLES = [
   "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
   "deck": "Pemerintah mendorong pemanfaatan nyata tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia yang menurut kajian Kemenko berpotensi menambah ekspor lebih dari US$14 miliar.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
   "tags": [
    "ekspor",
    "perjanjian dagang",
@@ -5745,7 +5761,7 @@ var ARTICLES = [
   "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
   "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
   "date": "13 Oktober 2026",
-  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
+  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
   "tags": [
    "CEPA",
    "ekspor",
@@ -6517,22 +6533,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-0736-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smmt-pemegang-saham-pengendali-geo-energy-tambah-100-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "SMMT: Pemegang Saham [Pengendali] GEO Energy Tambah 100 Juta Saham",
-  "deck": "Geo Energy Investama membeli 100 juta saham baru SMMT di harga Rp3.800, mengangkat hak suaranya dari 67,24% menjadi 70,16%.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMT",
-   "Kepemilikan Saham",
-   "Konsentrasi Saham",
-   "Golden Eagle Energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-2438-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

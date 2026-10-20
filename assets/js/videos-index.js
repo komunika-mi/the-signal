@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "6UNZDM2btuo",
+  "title": "BEI Pangkas Batas ARB Saham Jadi 7 Persen",
+  "category": "Pasar Modal",
+  "program": "OneNews Update",
+  "summary": "Bursa Efek Indonesia memperketat batas auto rejection bawah saham menjadi 7 persen untuk meredam gejolak pasar, menyusul sinyal downgrade status pasar modal RI dari lembaga pemeringkat MSCI.",
+  "takeaway": "Kebijakan ini penting diikuti investor karena berpotensi mengubah pola perdagangan saham dan persepsi pasar global terhadap bursa Indonesia."
+ },
+ {
+  "id": "dxsg_N0R_JE",
+  "title": "Bahlil Pastikan Ketersediaan dan Distribusi BBM",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri ESDM Bahlil Lahadalia menemui Presiden Prabowo Subianto untuk memastikan ketersediaan serta kelancaran distribusi bahan bakar minyak di berbagai daerah.",
+  "takeaway": "Stabilitas pasokan BBM berpengaruh langsung pada biaya logistik dan aktivitas industri sehingga relevan dipantau pelaku usaha."
+ },
+ {
+  "id": "sZCOa-b1Zug",
+  "title": "Antrean BBM di SPBU Ternate Mulai Terurai",
+  "category": "Energi",
+  "program": "AKIS",
+  "summary": "Antrean panjang di SPBU Batu Anteru, Kota Ternate, yang terjadi akibat keterbatasan pasokan Pertalite mulai mencair dan kondisi kini terpantau membaik.",
+  "takeaway": "Kasus ini menggambarkan tantangan distribusi energi di daerah yang berdampak pada roda ekonomi masyarakat setempat."
+ },
+ {
   "id": "3jSJgV8sG-U",
   "title": "ISEF 2026 Dibuka, Bank Indonesia Dorong Penguatan Ekonomi Syariah",
   "category": "Makroekonomi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Diskusi mengangkat sejumlah persoalan yang membebani kinerja anak perusahaan BUMN, di tengah pembahasan regulasi ketenagakerjaan terbaru.",
   "takeaway": "Penting bagi pembaca yang mengikuti tata kelola dan kesehatan bisnis perusahaan pelat merah."
- },
- {
-  "id": "HbFCHOpwbNM",
-  "title": "DJP Kembangkan Sistem AI untuk Pantau Harta Wajib Pajak Kaya",
-  "category": "Makroekonomi",
-  "program": "OneNews Update",
-  "summary": "Direktorat Jenderal Pajak tengah menyelesaikan sistem berbasis kecerdasan buatan untuk memantau perubahan kekayaan wajib pajak beraset tinggi di Indonesia.",
-  "takeaway": "Relevan bagi pembaca karena menunjukkan arah penguatan pengawasan pajak orang kaya yang bisa berdampak pada kepatuhan pajak dan penerimaan negara."
- },
- {
-  "id": "VB6fHNLu2lI",
-  "title": "Aturan Ketenagakerjaan Baru, Siapa Diuntungkan?",
-  "category": "Ketenagakerjaan",
-  "program": "Indonesia Business Forum",
-  "summary": "DPR dan pemerintah mengesahkan UU Pelindungan Ketenagakerjaan pada 6 Oktober 2026 sebagai tindak lanjut putusan Mahkamah Konstitusi yang memisahkan klaster ketenagakerjaan dari omnibus law sebelumnya.",
-  "takeaway": "Aturan ini berpotensi mengubah hak dan kewajiban pekerja maupun pengusaha, sehingga relevan dipantau pelaku usaha dan tenaga kerja."
- },
- {
-  "id": "H8rjRrlGoik",
-  "title": "Pemadaman Listrik Bergilir Landa Batam, Aktivitas Warga Terganggu",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Batam dan sebagian Pulau Bintan sempat mengalami blackout total sebelum beralih menjadi pemadaman listrik bergilir di sejumlah wilayah.",
-  "takeaway": "Gangguan pasokan listrik di Batam perlu disorot karena kawasan ini merupakan basis industri dan perdagangan penting di Kepulauan Riau."
  }
 ];

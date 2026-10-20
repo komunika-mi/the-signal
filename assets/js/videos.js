@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "6UNZDM2btuo",
+  "title": "BEI Pangkas Batas ARB Saham Jadi 7 Persen",
+  "category": "Pasar Modal",
+  "program": "OneNews Update",
+  "summary": "Bursa Efek Indonesia memperketat batas auto rejection bawah saham menjadi 7 persen untuk meredam gejolak pasar, menyusul sinyal downgrade status pasar modal RI dari lembaga pemeringkat MSCI.",
+  "takeaway": "Kebijakan ini penting diikuti investor karena berpotensi mengubah pola perdagangan saham dan persepsi pasar global terhadap bursa Indonesia.",
+  "terbit": "2026-10-20T08:30:26+00:00"
+ },
+ {
+  "id": "dxsg_N0R_JE",
+  "title": "Bahlil Pastikan Ketersediaan dan Distribusi BBM",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri ESDM Bahlil Lahadalia menemui Presiden Prabowo Subianto untuk memastikan ketersediaan serta kelancaran distribusi bahan bakar minyak di berbagai daerah.",
+  "takeaway": "Stabilitas pasokan BBM berpengaruh langsung pada biaya logistik dan aktivitas industri sehingga relevan dipantau pelaku usaha.",
+  "terbit": "2026-10-20T08:30:12+00:00"
+ },
+ {
+  "id": "sZCOa-b1Zug",
+  "title": "Antrean BBM di SPBU Ternate Mulai Terurai",
+  "category": "Energi",
+  "program": "AKIS",
+  "summary": "Antrean panjang di SPBU Batu Anteru, Kota Ternate, yang terjadi akibat keterbatasan pasokan Pertalite mulai mencair dan kondisi kini terpantau membaik.",
+  "takeaway": "Kasus ini menggambarkan tantangan distribusi energi di daerah yang berdampak pada roda ekonomi masyarakat setempat.",
+  "terbit": "2026-10-20T07:11:18+00:00"
+ },
+ {
   "id": "3jSJgV8sG-U",
   "title": "ISEF 2026 Dibuka, Bank Indonesia Dorong Penguatan Ekonomi Syariah",
   "category": "Makroekonomi",

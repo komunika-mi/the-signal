@@ -3,6 +3,238 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ikai-raja-sapta-oktohari-borong-47-6-juta-saham-rp22",
+  "category": "Aksi Korporasi",
+  "title": "IKAI: Raja Sapta Oktohari [Borong] 47,6 Juta Saham Rp22",
+  "deck": "Raja Sapta Oktohari menambah kepemilikan sahamnya di IKAI dari 2,37 juta menjadi 50 juta lembar lewat pembelian tidak langsung pada 15 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T11:52:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-9993-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IKAI",
+  "tags": [
+   "IKAI",
+   "Intikeramik Alamasri",
+   "kepemilikan saham",
+   "Raja Sapta Oktohari"
+  ],
+  "body": [
+   "Raja Sapta Oktohari melaporkan perubahan kepemilikan saham PT Intikeramik Alamasri Industri Tbk (IKAI) kepada Otoritas Jasa Keuangan pada 20 Oktober 2026. Dalam laporan tersebut, kepemilikannya bertambah dari 2.379.500 unit saham menjadi 50.000.000 unit saham, atau naik 47.620.500 lembar. Raja Sapta Oktohari bukan anggota direksi maupun dewan komisaris IKAI, melainkan pemegang saham publik yang melapor sesuai POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka.",
+   "Penambahan saham ini tercatat sebagai pembelian tidak langsung atas saham biasa, dieksekusi pada 15 Oktober 2026 dengan harga Rp22 per lembar. Dengan harga tersebut, nilai transaksinya sekitar Rp1,05 miliar. Tujuan transaksi yang dicantumkan dalam laporan adalah investasi, tanpa keterangan tambahan mengenai rencana lanjutan.",
+   "Akibat penambahan ini, hak suara Raja Sapta Oktohari di IKAI naik dari 0,02 persen menjadi 0,38 persen dari total saham beredar perusahaan. Laporan tidak menyebutkan adanya perjanjian gadai saham atau skema opsi karyawan dalam transaksi ini."
+  ],
+  "fotoAdegan": "Workers inspecting rows of glazed ceramic tiles moving along a factory conveyor belt under industrial lighting",
+  "takeaway": "Laporan ini netral bagi fundamental IKAI, karena murni transaksi jual beli saham di pasar sekunder antara investor, bukan penyertaan modal baru ke kas perusahaan. Yang tersentuh di sini cuma struktur kepemilikan dan hak suara, bukan ekuitas, kas, atau laba per saham perusahaan, sebab jumlah saham beredar IKAI sendiri tidak bertambah lewat transaksi ini. Kenaikan hak suara dari 0,02 persen menjadi 0,38 persen memang terlihat besar secara relatif bagi Raja Sapta Oktohari pribadi, tapi secara absolut porsinya di seluruh perusahaan masih sangat kecil dan tidak mengubah siapa pemegang kendali IKAI. Yang perlu dipantau selanjutnya adalah apakah muncul laporan kepemilikan lanjutan dari pihak yang sama atau pihak terkait, yang bisa menandakan akumulasi saham berlanjut, dan apakah ada keterbukaan informasi susulan dari IKAI yang menjelaskan konteks di balik pembelian ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tapg-komisaris-tambah-kepemilikan-jadi-3-49-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Komisaris [Tambah] Kepemilikan Jadi 3,49 Juta Saham",
+  "deck": "Arif Rachmat, Komisaris TAPG, membeli 623.000 saham tidak langsung pada 19 Oktober 2026 seharga Rp1.685 per saham untuk investasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T11:50:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-5601-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "Komisaris",
+   "Kepemilikan Saham",
+   "Insider Buying"
+  ],
+  "body": [
+   "Arif Rachmat, anggota Dewan Komisaris PT Triputra Agro Persada Tbk (TAPG), melaporkan pembelian 623.000 saham biasa perusahaan secara tidak langsung pada 19 Oktober 2026 dengan harga Rp1.685 per saham. Transaksi ini tercatat dengan tujuan investasi dan dilaporkan ke Otoritas Jasa Keuangan pada 20 Oktober 2026.",
+   "Dengan tambahan ini, kepemilikan Arif Rachmat di TAPG naik dari 2.865.000 saham menjadi 3.488.000 saham, atau bertambah 623.000 saham, setara kenaikan sekitar 21,7 persen dari saham yang sudah ia pegang sebelumnya. Hak suaranya di perusahaan ikut bergerak, dari 0,0144 persen menjadi 0,0175 persen dari total saham beredar TAPG.",
+   "Laporan ini muncul di hari yang sama dengan laporan pembelian saham oleh jajaran direksi TAPG sebanyak 1,8 juta saham, sehingga dalam satu hari ini setidaknya ada dua laporan pembelian saham oleh jajaran pengurus perusahaan."
+  ],
+  "fotoAdegan": "Rows of oil palm trees on a plantation with workers collecting fresh fruit bunches near a dirt path, bright midday sun",
+  "takeaway": "Laporan ini condong positif bagi TAPG, karena Arif Rachmat membeli, bukan melepas, sahamnya sendiri, dan jumlahnya menambah kepemilikan pribadinya sekitar 21,7 persen dibanding sebelumnya, apalagi muncul bersamaan dengan laporan pembelian 1,8 juta saham oleh direksi pada hari yang sama. Yang tersentuh di sini bukan laporan keuangan TAPG, melainkan struktur kepemilikan dan hak suara, karena ini jual beli saham yang sudah ada di pasar, bukan penerbitan saham baru, sehingga jumlah saham beredar dan laba per saham perusahaan tidak berubah. Secara total perusahaan, porsi yang dipegang Arif Rachmat tetap sangat kecil, hanya 0,0175 persen dari seluruh saham TAPG, jadi dampaknya pada kendali perusahaan praktis tidak ada. Yang perlu dipantau berikutnya adalah apakah pola pembelian oleh direksi dan komisaris TAPG ini berlanjut dalam laporan-laporan kepemilikan saham berikutnya, yang akan menunjukkan apakah ini sinyal keyakinan jajaran pengurus atau sekadar transaksi rutin yang berdiri sendiri.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hrta-terang-anugrah-abadi-tambah-5-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "HRTA: Terang Anugrah Abadi [Tambah] 5 Juta Saham",
+  "deck": "Pemegang saham utama HRTA, PT Terang Anugrah Abadi, membeli 5 juta saham lewat dua transaksi pada 16 dan 19 Oktober 2026, menaikkan hak suaranya dari 71,05% menjadi 71,16%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T11:30:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-3612-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRTA",
+  "tags": [
+   "HRTA",
+   "kepemilikan saham",
+   "pemegang saham",
+   "Hartadinata Abadi"
+  ],
+  "body": [
+   "PT Terang Anugrah Abadi, pemegang saham utama PT Hartadinata Abadi Tbk (HRTA), melaporkan ke Otoritas Jasa Keuangan bahwa jumlah saham HRTA yang dimilikinya bertambah. Berdasarkan laporan bertanggal 20 Oktober 2026, kepemilikannya naik dari 3.272.048.000 lembar menjadi 3.277.048.000 lembar, atau bertambah 5 juta lembar. Kenaikan ini turut mengangkat hak suaranya di HRTA dari 71,05 persen menjadi 71,16 persen.",
+   "Penambahan saham itu terjadi lewat dua transaksi pembelian tidak langsung dengan tujuan investasi. Pertama, 4.350.000 saham dibeli pada 16 Oktober 2026 dengan harga Rp1.615 per saham. Kedua, 650.000 saham dibeli pada 19 Oktober 2026 dengan harga Rp1.505 per saham. Total nilai kedua transaksi tersebut sekitar Rp8 miliar.",
+   "Laporan ini disampaikan sesuai kewajiban POJK Nomor 4/2024 tentang pelaporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka, yang mewajibkan pemegang saham melaporkan setiap perubahan kepemilikannya ke OJK melalui KSEI."
+  ],
+  "fotoAdegan": "Workers polishing small gold jewelry pieces at a workshop bench, bright overhead lighting, close focus on hands and tools",
+  "takeaway": "Pembelian ini netral bagi fundamental HRTA, sebab tambahan 5 juta saham hanya setara 0,15 persen dari kepemilikan Terang Anugrah Abadi sebelumnya, terlalu kecil untuk dibaca sebagai sinyal keyakinan besar, meski arahnya tetap menambah bukan melepas. Yang bergeser di sini cuma struktur pemegang saham dan hak suara, bukan kas atau laba perseroan, karena transaksi terjadi di pasar sekunder antar investor dan uangnya tidak masuk ke rekening HRTA; hak suara sendiri adalah bobot kekuatan pemegang saham saat voting di RUPS, dan kenaikan dari 71,05 persen menjadi 71,16 persen ini terlalu tipis untuk mengubah peta kendali perseroan. Yang perlu dipantau selanjutnya adalah realisasi private placement hingga 10 persen saham baru yang baru disetujui RUPSLB pada 16 Oktober 2026, karena penerbitan saham baru itu akan menentukan apakah porsi kepemilikan Terang Anugrah Abadi, termasuk tambahan yang baru dibeli ini, tetap terjaga atau justru tergerus oleh saham baru tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cpri-akhirnya-gelar-rups-tahun-buku-2022-tertunda-4-tahun",
+  "category": "Aksi Korporasi",
+  "title": "CPRI Akhirnya Gelar RUPS Tahun Buku 2022, [Tertunda] 4 Tahun",
+  "deck": "CPRI mengumumkan RUPS Tahunan untuk tahun buku 2022 akan digelar 26 November 2026, hampir empat tahun setelah periode laporan itu berakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T10:57:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ac2081381_adaea1c8be.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CPRI",
+  "tags": [
+   "CPRI",
+   "RUPS Tahunan",
+   "Capri Nusa Satu Properti",
+   "Properti"
+  ],
+  "body": [
+   "PT Capri Nusa Satu Properti Tbk (CPRI) mengumumkan rencana menggelar Rapat Umum Pemegang Saham (RUPS) Tahunan untuk tahun buku yang berakhir 31 Desember 2022. Rapat dijadwalkan pada Kamis, 26 November 2026, pukul 09.00 WIB di Vasaka Hotel Jakarta, Jalan MT Haryono Kav 10A, Cawang, Jakarta. Pada hari yang sama, Perseroan juga akan menggelar Public Expose.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam RUPS adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) Perseroan per Selasa, 3 November 2026. Surat pemanggilan resmi untuk Rapat baru akan diumumkan belakangan, yakni pada 4 November 2026, melalui situs web Perseroan, situs web Bursa Efek Indonesia, dan situs web KSEI.",
+   "Perseroan membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara tambahan dalam Rapat, dengan syarat memenuhi Pasal 16 Peraturan OJK Nomor 15/POJK.04/2020 dan disampaikan secara tertulis kepada Direksi paling lambat tujuh hari sebelum tanggal pemanggilan Rapat, atau sekitar 28 Oktober 2026."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of chairs facing a stage before a corporate meeting, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi CPRI, karena RUPS Tahunan untuk tahun buku 2022 baru akan digelar pada akhir November 2026, hampir empat tahun setelah periode laporan itu berakhir, menegaskan pola keterlambatan pelaporan yang sebelumnya sudah tercermin dari permintaan perpanjangan waktu ke bursa dan anjloknya kas Perseroan. RUPS Tahunan adalah forum tempat pemegang saham mengesahkan laporan keuangan tahunan, sehingga keterlambatan sebesar ini berarti gambaran resmi soal ekuitas dan arus kas Perseroan yang baru disahkan investor sudah sangat usang dibandingkan kondisi keuangan terkininya. Yang perlu dipantau selanjutnya adalah pemanggilan resmi Rapat yang dijadwalkan terbit 4 November 2026, batas pengajuan usulan agenda oleh pemegang saham sekitar 28 Oktober 2026, serta pelaksanaan RUPS sekaligus Public Expose pada 26 November 2026 di Jakarta.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "enrg-trimegah-sekuritas-tambah-265-juta-saham-via-reverse-repo",
+  "category": "Aksi Korporasi",
+  "title": "[ENRG] Trimegah Sekuritas Tambah 265 Juta Saham via Reverse Repo",
+  "deck": "Trimegah Sekuritas Indonesia melaporkan penambahan kepemilikan saham ENRG lewat transaksi reverse repo, hak suara naik dari 10,72% menjadi 11,55%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T10:52:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6039-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "Trimegah Sekuritas",
+   "kepemilikan saham",
+   "reverse repo"
+  ],
+  "body": [
+   "Trimegah Sekuritas Indonesia Tbk melaporkan ke Otoritas Jasa Keuangan bahwa kepemilikannya di PT Energi Mega Persada Tbk (ENRG) bertambah dari 3.435.194.922 lembar saham menjadi 3.700.194.922 lembar saham, atau naik 265 juta lembar. Akibatnya, hak suara Trimegah di ENRG naik dari 10,72 persen menjadi 11,55 persen. Pelapor bukan anggota direksi maupun dewan komisaris ENRG, melainkan perusahaan sekuritas yang memegang saham tersebut.",
+   "Transaksi tercatat pada 16 Oktober 2026 dengan harga Rp925 per saham untuk seluruh 265 juta saham biasa tersebut. Jenis transaksinya adalah perjanjian pembelian kembali atau repurchase agreement, dengan tujuan transaksi disebutkan sebagai reverse repo. Laporan ini disampaikan ke OJK pada 20 Oktober 2026 dengan nomor surat LK/20102026/0011/1."
+  ],
+  "fotoAdegan": "Offshore oil platform silhouette on calm open sea at dusk, support vessel moored nearby, distant horizon",
+  "takeaway": "Laporan ini netral bagi ENRG karena sifatnya adalah transaksi pendanaan jangka pendek, bukan keputusan strategis Trimegah untuk menambah keyakinan jangka panjang atas saham ENRG. Reverse repo artinya Trimegah membeli saham ini dengan perjanjian bahwa pihak lawan akan membelinya kembali di kemudian hari, jadi fungsinya lebih ke instrumen pembiayaan antar pelaku pasar ketimbang sinyal soal kinerja ENRG. Yang tersentuh di sini hanya peta kepemilikan dan hak suara pemegang saham, bukan jumlah saham beredar, ekuitas, atau laba per saham ENRG, karena tidak ada saham baru yang diterbitkan perusahaan. Dokumen ini tidak menyebutkan batas waktu kapan posisi reverse repo tersebut harus dibalik atau diselesaikan, jadi yang perlu dipantau adalah apakah akan muncul laporan susulan yang menunjukkan Trimegah melepas kembali saham ini sesuai skema perjanjiannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kmds-jadwalkan-rupslb-pada-26-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "KMDS Jadwalkan [RUPSLB] pada 26 November 2026",
+  "deck": "Kurniamitra Duta Sentosa Tbk akan menggelar RUPSLB pada 26 November 2026, dengan cum date pemegang saham 3 November 2026 dan tenggat usul agenda 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T10:43:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2a3a66e49e_18cbe93db2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KMDS",
+  "tags": [
+   "KMDS",
+   "RUPSLB",
+   "Pasar Modal",
+   "Emiten"
+  ],
+  "body": [
+   "PT Kurniamitra Duta Sentosa Tbk (KMDS) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 26 November 2026 pukul 10.00 WIB di Menara Top Food, Jalan Jalur Sutera Barat Nomor 3, Alam Sutera, Tangerang. Rapat akan digelar secara hibrida, yaitu tatap muka dan elektronik, memakai sistem e-RUPS bernama eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia, sesuai aturan Otoritas Jasa Keuangan Nomor 14/POJK.04/2025. Agenda resmi rapat belum diumumkan dalam surat ini karena baru berupa pemberitahuan awal, dan akan dimuat dalam surat pemanggilan yang dijadwalkan terbit Rabu, 4 November 2026.",
+   "Perseroan menetapkan bahwa pemegang saham yang berhak hadir dan memberi suara dalam RUPSLB adalah yang namanya tercatat dalam Daftar Pemegang Saham pada Selasa, 3 November 2026 pukul 16.00 WIB. Tanggal ini menjadi acuan kepemilikan saham, sehingga transaksi jual beli saham KMDS sesudah tanggal dan jam tersebut tidak mengubah hak suara pemegangnya di rapat ini.",
+   "Pemegang saham juga diberi kesempatan mengusulkan tambahan mata acara rapat, dengan syarat diajukan secara tertulis oleh satu atau lebih pemegang saham yang bersama-sama mewakili sedikitnya satu per dua puluh dari seluruh saham berhak suara yang telah diterbitkan Perseroan. Usulan itu harus diterima Direksi paling lambat lima hari sebelum tanggal pemanggilan, yaitu Jumat, 19 November 2026 pukul 16.00 WIB, dan akan dinilai Direksi apakah berkaitan langsung dengan usaha Perseroan sesuai Pasal 16 POJK 15/2020 serta Anggaran Dasar Perseroan. Surat ditandatangani Direktur Keuangan KMDS, Dewi Irianty Wijaya, di Tangerang Selatan pada 20 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a stage in a modern conference hall, soft afternoon light, office tower in Tangerang",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental KMDS, sebab isinya baru memberitahukan rencana RUPSLB tanpa menyebut agenda yang akan dibahas, sehingga belum ada indikasi aksi korporasi yang menambah atau mengurangi nilai bagi pemegang saham. Begitu agenda terbuka lewat surat pemanggilan resmi, pelaku pasar biasanya mencermati apakah RUPSLB membahas hal yang mengubah jumlah saham beredar, struktur permodalan, atau susunan direksi dan komisaris, karena perubahan semacam itu bisa menggeser hak suara pemegang saham maupun porsi laba yang didapat per lembar saham. Yang perlu dipantau berikutnya adalah surat pemanggilan berisi agenda lengkap pada Rabu, 4 November 2026, status kepemilikan saham per Selasa, 3 November 2026 pukul 16.00 WIB yang menentukan siapa berhak hadir dan memberi suara, serta tenggat pengajuan usul agenda tambahan pada Jumat, 19 November 2026 pukul 16.00 WIB sebelum RUPSLB berlangsung Kamis, 26 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdla-direksi-borong-1-38-juta-saham-dalam-dua-hari",
+  "category": "Aksi Korporasi",
+  "title": "MDLA: Direksi [Borong] 1,38 Juta Saham dalam Dua Hari",
+  "deck": "Direksi Medela Potentia, Juliwaty, membeli 1.384.400 lembar saham MDLA pada 15-16 Oktober 2026, menaikkan kepemilikannya 28,4 persen menjadi 6.252.300 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T10:34:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-7827-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLA",
+  "tags": [
+   "MDLA",
+   "Medela Potentia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Juliwaty, anggota Direksi PT Medela Potentia Tbk (MDLA), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan secara tidak langsung dalam enam transaksi berturut-turut pada 15 dan 16 Oktober 2026. Pembelian dilakukan dengan tujuan investasi, dengan rincian 400.000 lembar di harga Rp208 dan 402.500 lembar di harga Rp206 pada 15 Oktober, lalu 298.800 lembar di harga Rp190, 201.200 lembar di harga Rp189, 55.000 lembar di harga Rp187, dan 26.900 lembar di harga Rp188, semuanya pada 16 Oktober.",
+   "Dengan seluruh transaksi itu, kepemilikan saham Juliwaty di MDLA bertambah 1.384.400 lembar, dari 4.867.900 lembar menjadi 6.252.300 lembar, atau naik 28,44 persen dari jumlah yang ia pegang sebelumnya. Hak suaranya di perusahaan ikut naik, meski masih tipis, dari 0,03 persen menjadi 0,045 persen. Dalam laporan itu, Juliwaty menyatakan dirinya bukan pengendali perusahaan, dan laporan disampaikan sendiri tanpa kuasa pihak lain.",
+   "Laporan ini disampaikan berdasarkan Pasal 2 Ayat 2 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi, komisaris, atau pemegang saham tertentu melaporkan setiap perubahan kepemilikan sahamnya kepada OJK."
+  ],
+  "fotoAdegan": "Modern glass high-rise office towers in Jakarta's financial district reflecting warm sunrise light over busy morning traffic below",
+  "takeaway": "Pembelian ini condong positif karena dilakukan direksi menggunakan keputusannya sendiri, bukan transaksi pasif, dan nilainya setara hampir 30 persen dari seluruh saham MDLA yang sebelumnya ia pegang. Yang tersentuh di sini adalah hak suara dan distribusi kepemilikan saham, bukan arus kas atau utang perusahaan, sebab transaksi terjadi di pasar sekunder antar investor sehingga tidak menambah jumlah saham beredar MDLA maupun mengubah laba per saham. Meski begitu, porsi hak suara Juliwaty di perusahaan tetap sangat kecil, hanya naik dari 0,03 persen ke 0,045 persen, sehingga pembelian ini lebih mencerminkan keyakinan pribadi seorang direksi ketimbang sinyal perubahan kendali perusahaan. Yang perlu dipantau selanjutnya adalah apakah pembelian berturut-turut pada 15 dan 16 Oktober 2026 ini berlanjut lewat laporan kepemilikan saham dari direksi atau komisaris MDLA lainnya, yang wajib disampaikan setiap kali terjadi perubahan kepemilikan sesuai POJK Nomor 4/2024.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "baja-hak-suara-direksi-turun-ke-10-96-via-transaksi-repo",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Hak Suara Direksi Turun ke [10,96]% via Transaksi Repo",
+  "deck": "Direksi BAJA, Entario Widjaja Susanto, melaporkan hak suaranya turun dari 16,45% jadi 10,96% lewat transaksi repurchase agreement, meski jumlah sahamnya tetap 296,02 juta lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T10:30:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1662-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "Saranacentral Bajatama",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "body": [
+   "Entario Widjaja Susanto, anggota Direksi Saranacentral Bajatama Tbk (BAJA), melaporkan kepada Otoritas Jasa Keuangan perubahan kepemilikan sahamnya per 20 Oktober 2026. Sesuai POJK 4/2024 tentang laporan kepemilikan dan aktivitas menjaminkan saham, jumlah saham yang dipegangnya tidak berubah, tetap 296.016.000 lembar saham biasa. Namun, persentase hak suaranya tercatat turun dari 16,45% menjadi 10,96%.",
+   "Laporan tersebut mencantumkan jenis transaksi sebagai 'Repurchase Agreement' atau perjanjian jual beli kembali saham (repo), dengan status kepemilikan langsung dan tujuan transaksi berupa investasi. Tanggal transaksi dicatat 13 Oktober 2026, tanpa keterangan harga saham yang terlibat. Dalam transaksi repo, pemilik biasanya menyerahkan sahamnya sebagai jaminan untuk mendapatkan dana tunai dengan komitmen membeli kembali saham tersebut di kemudian hari, yang menjelaskan mengapa hak suara Entario tercatat berkurang meski jumlah lembar sahamnya tidak berpindah tangan secara permanen."
+  ],
+  "fotoAdegan": "Workers inspecting large rolled steel coils inside a busy manufacturing plant, overhead cranes, industrial lighting",
+  "takeaway": "Laporan ini netral bagi fundamental Saranacentral Bajatama, karena jumlah saham yang dipegang Entario tidak berubah sama sekali dan repo semacam ini adalah transaksi pendanaan pribadi direksi, bukan aksi korporasi yang mengubah modal atau kas perusahaan. Yang berubah hanyalah hak suara, yaitu porsi kekuatan suara pemegang saham dalam rapat pemegang saham, yang turun karena sebagian saham Entario kini terikat sebagai jaminan dalam perjanjian repo sehingga haknya untuk sementara berpindah secara teknis ke pihak pemberi dana. Pos keuangan BAJA sendiri seperti ekuitas, arus kas, dan jumlah saham beredar tidak tersentuh oleh laporan ini. Yang perlu dipantau selanjutnya adalah apakah Entario melaporkan pelunasan atau perpanjangan repo ini, sebab jika gagal membayar kembali dana yang dijaminkan dengan sahamnya, pihak pemberi dana berpotensi menjual saham jaminan tersebut ke pasar dan menambah pasokan saham beredar bebas di luar kendali direksi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sdra-resmi-angkat-kim-jun-beom-jadi-direktur-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "SDRA Resmi Angkat [Kim Jun Beom] Jadi Direktur Keuangan",
+  "deck": "Direktur Keuangan dan Perencanaan baru Bank Woori Saudara efektif menjabat 19 Oktober 2026 setelah lolos uji kelayakan OJK, menggantikan direktur sebelumnya yang mundur sejak 1 Juli 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T10:28:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/af45514c71_1d6e3dd40b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SDRA",
+  "tags": [
+   "SDRA",
+   "Bank Woori Saudara",
+   "Direksi",
+   "OJK"
+  ],
+  "body": [
+   "PT Bank Woori Saudara Indonesia 1906 Tbk (SDRA) melaporkan ke OJK dan Bursa Efek Indonesia bahwa Kim Jun Beom resmi efektif menjabat sebagai Direktur Keuangan dan Perencanaan terhitung 19 Oktober 2026. Ia menggantikan Kim Wook Bae, yang mengundurkan diri dari posisi direktur efektif sejak 1 Juli 2026. Pengangkatan ini merupakan realisasi dari keputusan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 11 Agustus 2026, yang saat itu baru bersifat bersyarat karena masih menunggu persetujuan regulator.",
+   "Syarat itu baru terpenuhi setelah OJK menyetujui hasil uji kemampuan dan kepatutan (fit and proper test) Kim Jun Beom lewat Keputusan Anggota Dewan Komisioner OJK Nomor KEPR-164/D.03/2026 tanggal 16 September 2026. Berdasarkan persetujuan tersebut, Direksi SDRA menerbitkan Surat Keputusan internal Nomor 110/KEP-DIR/HC.II/X/2026 tanggal 19 Oktober 2026 yang menetapkan tanggal efektif jabatannya. Masa jabatan Kim Jun Beom mengikuti sisa periode Kim Wook Bae, yaitu sampai penutupan RUPS Tahunan untuk tahun buku 2028 yang akan digelar pada 2029.",
+   "Risalah RUPSLB mencatat susunan direksi SDRA setelah perubahan ini terdiri dari Han Chang Sik sebagai Presiden Direktur, bersama Moon Sungwon, Dandy Indrawardhana Pandi, Ricko Irwanto, Adityo Kristianto, Felix Aristo Ardian, dan kini Kim Jun Beom. Perseroan menyebut susunan direksi final akan dituangkan dalam akta notaris tersendiri, mengingat status Felix Aristo Ardian sebagai direktur dan Ahmad Fajarprana sebagai Presiden Komisaris Independen juga masih menunggu proses persetujuan fit and proper test dari OJK."
+  ],
+  "fotoAdegan": "Modern glass bank office tower in Jakarta's business district at dusk, lights glowing in upper floors, street traffic below",
+  "takeaway": "Laporan ini netral bagi SDRA, karena hanya menuntaskan proses administratif pergantian direktur yang sudah disetujui pemegang saham sejak Agustus dan sudah lolos uji kelayakan OJK sejak September, bukan keputusan bisnis baru. Pos yang tersentuh adalah susunan manajemen, bukan angka keuangan, karena perusahaan sendiri menyatakan tidak ada dampak terhadap operasional, hukum, atau kondisi keuangan. Direktur Keuangan dan Perencanaan tetap posisi penting untuk dipantau karena dialah yang mengatur arus kas dan strategi pendanaan bank sehari hari, jadi pergantian orangnya bisa memengaruhi arah kebijakan likuiditas ke depan meski tidak mengubah laporan keuangan saat ini. Yang perlu dipantau berikutnya adalah penerbitan akta notaris yang akan mengunci susunan direksi final, serta kelanjutan proses OJK untuk Felix Aristo Ardian sebagai direktur dan Ahmad Fajarprana sebagai calon Presiden Komisaris Independen, yang keduanya masih menggantung.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "harga-emas-antam-turun-jadi-rp2-564-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Jadi Rp2.564.000/Gram",
@@ -28,6 +260,110 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah hari ini hanya angka harga, turun Rp10.000 pada harga jual dan ikut turun pada harga buyback ke Rp2.379.000 per gram, sehingga dampaknya langsung terasa bagi masyarakat yang berencana menjual emas batangannya karena akan menerima uang tunai sedikit lebih kecil dibanding sehari sebelumnya, serta bagi calon pembeli yang bisa menebus dengan harga sedikit lebih murah. Data yang tersedia hanya potret satu hari, jadi belum terlihat apakah penurunan ini sekadar koreksi sesaat atau bagian dari tren pelemahan harga emas yang lebih panjang. Yang masih kurang adalah perbandingan dengan harga emas dunia dalam dolar AS, yang biasanya jadi acuan utama pergerakan harga Antam, serta data harga beberapa hari sebelumnya untuk melihat arah trennya. Pembaca yang ingin tahu apakah ini awal pelemahan atau sekadar fluktuasi harian perlu memantau harga Antam dalam beberapa hari ke depan.",
   "imageV": "mvg74jm4"
+ },
+ {
+  "slug": "baja-hak-suara-investor-turun-ke-0-95-meski-saham-tetap",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: [Hak Suara] Investor Turun ke 0,95% Meski Saham Tetap",
+  "deck": "Anton Sebastian melaporkan hak suaranya di Saranacentral Bajatama turun dari 1,43% jadi 0,95% lewat transaksi repo, padahal jumlah sahamnya tidak berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T10:24:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6687-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "kepemilikan saham",
+   "transaksi repo",
+   "Saranacentral Bajatama"
+  ],
+  "body": [
+   "Saranacentral Bajatama Tbk (BAJA) menerima laporan kepemilikan saham dari Anton Sebastian, warga negara Indonesia yang menurut dokumen bukan anggota direksi maupun dewan komisaris perseroan. Dalam laporan kepada Otoritas Jasa Keuangan yang dipublikasikan Bursa Efek Indonesia pada 20 Oktober 2026, ia melaporkan transaksi repurchase agreement atau repo atas 25.760.000 lembar saham biasa BAJA yang dilakukan pada 13 Oktober 2026, dengan tujuan investasi dan status kepemilikan langsung.",
+   "Jumlah saham yang dipegang Anton sama sekali tidak berubah, tetap 25.760.000 lembar baik sebelum maupun sesudah transaksi. Yang bergeser hanya persentase hak suaranya, dari 1,43 persen menjadi 0,95 persen. Laporan tidak mencantumkan harga transaksi, dan kolom jumlah saham dari program kompensasi yang belum dilaksanakan dicatat nihil.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 2 dan Pasal 3 Ayat 3 POJK Nomor 4/2024 tentang pelaporan kepemilikan dan penjaminan saham perusahaan terbuka. Pelapor dan penerima kuasa menyatakan bertanggung jawab penuh atas keakuratan data yang disampaikan melalui sistem KSEI."
+  ],
+  "fotoAdegan": "Stacks of galvanized steel coils in an industrial warehouse, forklift moving between rows, overhead lighting",
+  "takeaway": "Laporan ini netral bagi fundamental Saranacentral Bajatama, karena jumlah saham Anton Sebastian tidak bergerak sedikit pun, tetap 25,76 juta lembar sebelum dan sesudah transaksi repo ini. Yang berubah hanyalah persentase hak suaranya, dan itu turun bukan karena ia menjual saham, melainkan karena basis penghitungannya, yakni total saham BAJA yang beredar, membesar sehingga porsi setiap pemegang saham lama otomatis mengecil. Pos yang tersentuh di sini adalah jumlah saham beredar perseroan, bukan kepemilikan pribadi Anton, dan ini penting bagi pelaku pasar karena semakin banyak saham beredar, laba perusahaan ke depan terbagi ke lebih banyak lembar sehingga laba per saham bisa terdilusi. Yang perlu dipantau adalah apakah BAJA mengumumkan tindakan korporasi seperti penambahan modal atau private placement yang menjelaskan kenaikan jumlah saham beredar ini, terutama karena pada hari yang sama BEI juga menerima laporan serupa dari pemegang saham lain, Entario, yang hak suaranya ikut turun ke 10,96 persen lewat skema repo yang sama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baja-hak-suara-turun-ke-1-62-meski-saham-tetap",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Hak Suara Turun ke 1,62% Meski Saham [Tetap]",
+  "deck": "Laksmono Tirta Kusumo, bukan direksi atau komisaris, melaporkan 43,79 juta saham BAJA tak berubah, tapi hak suaranya turun dari 2,43% jadi 1,62%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T10:18:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-5764-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "kepemilikan saham",
+   "hak suara",
+   "repo saham"
+  ],
+  "body": [
+   "Laksmono Tirta Kusumo, yang bukan anggota direksi maupun dewan komisaris Saranacentral Bajatama Tbk (BAJA), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan baja itu tidak berubah. Sebelum dan sesudah transaksi, jumlahnya tetap 43.792.000 lembar saham biasa. Namun hak suaranya tercatat turun dari 2,43 persen menjadi 1,62 persen.",
+   "Laporan bernomor LK/20102026/0007/1 yang disampaikan pada 20 Oktober 2026 itu menyebut jenis transaksi sebagai repurchase agreement, yaitu perjanjian jual dan beli kembali saham, dengan status kepemilikan langsung dan tujuan investasi. Transaksinya tercatat terjadi pada 13 Oktober 2026, tanpa harga yang dicantumkan dalam dokumen.",
+   "Karena jumlah saham yang dipegang Laksmono tidak berkurang sama sekali, penurunan persentase hak suara ini kemungkinan besar berasal dari bertambahnya jumlah total saham beredar BAJA, bukan dari pelepasan saham olehnya. Pola serupa juga tercatat pada dua laporan kepemilikan saham BAJA lain yang terbit hari ini, yakni milik Entario yang hak suaranya turun ke 10,96 persen, dan Anton Sebastian yang turun ke 0,95 persen, meski jumlah saham keduanya juga tidak berubah."
+  ],
+  "fotoAdegan": "Workers inspecting stacked rolled steel coils in a factory warehouse, forklift moving nearby, industrial lighting",
+  "takeaway": "Laporan ini netral bagi fundamental Saranacentral Bajatama, sebab inti kejadiannya bukan pelapor melepas saham, melainkan persentase hak suaranya yang terkoreksi sementara jumlah lembar sahamnya tetap 43,79 juta. Pos yang tersentuh di sini adalah jumlah saham beredar, yaitu basis hitung yang menentukan seberapa besar porsi suara setiap pemegang saham dalam rapat umum pemegang saham, bukan ekuitas atau kas perusahaan. Ini sudah laporan ketiga dalam sehari dengan pola serupa, setelah milik Entario dan Anton Sebastian, sehingga yang perlu dipantau adalah penjelasan resmi BAJA ke bursa soal aksi korporasi apa, misalnya penerbitan saham baru, yang menjadi penyebab dilusi hak suara massal ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mlia-muliaglass-bangun-ulang-satu-tungku-kaca-lembaran",
+  "category": "Aksi Korporasi",
+  "title": "MLIA: Muliaglass Bangun Ulang Satu [Tungku] Kaca Lembaran",
+  "deck": "PT Muliaglass, anak usaha Mulia Industrindo, mulai membangun ulang bertahap satu dari tiga tungku kaca lembaran yang sudah di tahun terakhir operasinya, menyusul naiknya harga gas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T10:13:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/349138e84f_2dcf8ae91d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MLIA",
+  "tags": [
+   "MLIA",
+   "Mulia Industrindo",
+   "Muliaglass",
+   "kaca lembaran"
+  ],
+  "body": [
+   "PT Mulia Industrindo Tbk (MLIA) melaporkan bahwa anak usahanya, PT Muliaglass, pada 20 Oktober 2026 memulai pembangunan ulang secara bertahap atau slow rebuild terhadap satu dari tiga tungku kaca lembaran yang dimilikinya. Tungku yang dibangun ulang ini disebut sudah memasuki tahun terakhir masa operasionalnya.",
+   "Menurut perseroan, langkah ini diambil karena bisnis kaca lembaran semakin menantang: alokasi gas untuk pabrik berkurang sehingga harga rata-rata gas yang dibayar perusahaan naik dan biaya produksi ikut terkerek. Di sisi lain, pasar kaca lembaran sedang kelebihan pasokan sehingga menekan harga jual. Pembangunan ulang satu tungku ini diklaim perseroan sebagai langkah kehati-hatian untuk menjaga posisi keuangan Muliaglass, sekaligus mengurangi tekanan jual akibat oversupply tersebut.",
+   "Selama proses berlangsung, dua tungku lain tetap dioperasikan secara optimal, dan perseroan menyatakan yakin volume produksi dari kedua tungku itu cukup untuk memenuhi kebutuhan distributor, processor, dan pelanggan lainnya. Perseroan juga menyebut bahwa dampak arus kas positif secara penuh baru akan dirasakan Muliaglass mulai tahun 2027, terutama karena konsumsi gas pada porsi harga pasar yang lebih mahal diperkirakan berkurang sehingga harga rata-rata gas yang dibayar turun. Laporan ini sendiri merupakan koreksi atas surat sebelumnya bernomor 0078 yang perihalnya belum terisi, namun isi substansinya sama."
+  ],
+  "fotoAdegan": "Industrial glass factory floor with large furnace equipment and metal piping, workers in hard hats, dim orange glow from a distant furnace",
+  "takeaway": "Laporan ini netral bagi fundamental MLIA, karena ini langkah defensif menghadapi kenaikan biaya, bukan sinyal ekspansi atau perbaikan kinerja yang langsung terasa. Yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kas perusahaan, serta beban biaya produksi akibat harga gas, dua hal yang menentukan seberapa sehat operasional Muliaglass membiayai dirinya sendiri. Pelaku pasar memperhatikan ini karena satu dari tiga tungku berkurang kapasitasnya sementara proses rebuild berjalan, meski perseroan mengklaim dua tungku sisanya cukup menutup permintaan. Yang perlu dipantau berikutnya adalah apakah klaim arus kas positif penuh mulai 2027 itu benar terwujud, dan apakah dua tungku yang tersisa benar-benar mampu menjaga volume penjualan selama masa pembangunan ulang berlangsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "direksi-tpia-tambah-kepemilikan-saham-1-juta-lembar",
+  "category": "Aksi Korporasi",
+  "title": "Direksi TPIA Tambah [Kepemilikan] Saham 1 Juta Lembar",
+  "deck": "Direktur TPIA, Raymond, membeli tambahan 1 juta saham Chandra Asri Pacific pada 16 Oktober 2026 senilai Rp1,2 miliar, meski hak suaranya di perusahaan tetap 0,01%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T09:46:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-8988-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "Chandra Asri Pacific",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Raymond, anggota Direksi PT Chandra Asri Pacific Tbk (TPIA), melaporkan penambahan kepemilikan saham perusahaan kepada Otoritas Jasa Keuangan pada 20 Oktober 2026. Sebelum transaksi ia memegang 9.621.800 lembar saham TPIA, setara 0,01% hak suara. Setelah transaksi, kepemilikannya naik menjadi 10.621.800 lembar, namun porsi hak suaranya di perusahaan tetap tercatat 0,01% karena basis jumlah saham TPIA yang sangat besar.",
+   "Penambahan sebanyak 1.000.000 lembar saham itu dilakukan melalui empat kali pembelian tidak langsung pada 16 Oktober 2026, masing-masing sebanyak 150.000, 400.000, 150.000, dan 300.000 lembar saham biasa. Seluruh transaksi dilakukan pada harga yang sama, Rp1.205 per saham, dengan tujuan investasi, sehingga total nilai pembelian mencapai sekitar Rp1,2 miliar.",
+   "Dibandingkan dengan kepemilikan Raymond sebelumnya, penambahan ini setara 10,39%, cukup berarti bagi portofolio pribadinya. Namun karena basis saham TPIA yang sangat besar, transaksi ini tidak mengubah persentase hak suaranya di perusahaan, yang tetap berada di angka 0,01% baik sebelum maupun setelah pembelian."
+  ],
+  "fotoAdegan": "Workers inspecting pipelines at a large petrochemical plant under daylight, steam rising from distant cooling towers",
+  "takeaway": "Laporan ini condong netral bagi TPIA, sebab meski Raymond menambah kepemilikan pribadinya, porsinya tetap setara 0,01% hak suara di perusahaan, terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi atas prospek emiten. Transaksi ini terjadi di pasar sekunder sehingga tidak menambah jumlah saham beredar TPIA maupun mengubah laba per saham, yang berubah hanya porsi kepemilikan pribadi Raymond yang naik 10,39 persen dari sebelumnya. Yang perlu dipantau berikutnya adalah apakah pola pembelian semacam ini berlanjut di kalangan direksi lain selama periode buyback saham TPIA sendiri berjalan hingga 31 Desember 2026, karena pembelian insider baru berarti signifikan kalau terjadi berulang dan dalam jumlah yang membesar.",
+  "sentimen": "netral"
  },
  {
   "slug": "atic-entitas-direksi-tambah-26-400-saham-di-pasar",
@@ -204,6 +540,32 @@ var ARTICLES = [
   "fotoAdegan": "Construction workers in hard hats checking rebar and scaffolding at a high-rise building site in Jakarta, daytime",
   "takeaway": "Pembelian ini condong netral bagi TOTL, karena nilainya cuma menambah kepemilikan Saleh sekitar 1,9 persen dari saham yang sudah dipegangnya dan hak suaranya di perusahaan nyaris tidak berubah, dari 0,178 persen menjadi 0,181 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan kuat direksi atas prospek perusahaan. Yang tersentuh di sini cuma susunan saham dalam genggaman direksi, bukan pos keuangan TOTL seperti kas, utang, atau laba per saham, sebab transaksi semacam ini terjadi di pasar sekunder antar investor dan tidak menambah dana segar ke kas perusahaan maupun mengubah jumlah total saham beredar TOTL. Yang perlu dipantau selanjutnya adalah apakah Saleh atau direksi dan komisaris TOTL lainnya melanjutkan pola pembelian serupa dalam beberapa bulan ke depan, karena rangkaian pembelian kecil yang berulang biasanya lebih bermakna dibanding satu transaksi tunggal seperti ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "xspi-bagi-dividen-interim-rp123-49-miliar-ke-pemegang-unit",
+  "category": "Aksi Korporasi",
+  "title": "XSPI Bagi [Dividen] Interim Rp123,49 Miliar ke Pemegang Unit",
+  "deck": "DIRE Simas Plaza Indonesia (XSPI) membagikan dividen interim Rp123,49 miliar, setara Rp5,937 per unit penyertaan, dibayar 5 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T04:01:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/17b5e3d1db_34fa4a7627.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XSPI",
+  "tags": [
+   "XSPI",
+   "dividen",
+   "DIRE",
+   "Sinarmas Asset Management"
+  ],
+  "body": [
+   "DIRE Simas Plaza Indonesia (XSPI) menyampaikan kepada Bursa Efek Indonesia rencana pembagian dividen interim tunai untuk tahun buku 2026 senilai Rp123.489.600.000. Setiap unit penyertaan akan menerima Rp5,937, angka yang kecil karena nilai per unit DIRE memang ditetapkan rendah sejak awal. Surat pemberitahuan tertanggal 20 Oktober 2026 ditandatangani oleh Sinta Kurniawan selaku Supervisor DIRE Simas Plaza Indonesia, dengan manajer investasi PT Sinarmas Asset Management sebagai pengelola dana.",
+   "Jadwal pembagian dividen diatur sebagai berikut: tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 28 Oktober 2026, dengan ex dividen sehari setelahnya pada 29 Oktober 2026. Untuk pasar tunai, cum dividen berlaku 30 Oktober 2026 dan ex dividen 2 November 2026. Pemegang unit penyertaan yang namanya tercatat sampai 30 Oktober 2026 pukul 23.59 WIB berhak menerima dividen ini, dan dananya akan dibayarkan pada 5 November 2026.",
+   "DIRE atau Dana Investasi Real Estat adalah produk investasi yang mengumpulkan dana dari pemegang unit penyertaan untuk dibelikan properti, lalu membagikan hasil sewa atau pendapatan asetnya secara berkala. Mekanismenya mirip saham, tetapi yang dimiliki investor disebut unit penyertaan, bukan lembar saham."
+  ],
+  "fotoAdegan": "Exterior view of a modern high-rise office and retail tower in central Jakarta, busy street traffic below, late afternoon light",
+  "takeaway": "Laporan ini condong positif bagi pemegang unit XSPI, karena isinya adalah pembagian tunai langsung senilai Rp123,49 miliar dari pendapatan properti yang dikelola dana ini, bukan sekadar laporan administratif. Yang tersentuh di sini adalah kas dan ekuitas dana, uang yang keluar dari kas DIRE sebagai pembagian otomatis mengurangi aset bersih yang dicatat, tetapi itu wajar karena memang tujuan utama produk DIRE adalah menyalurkan pendapatan ke investor secara rutin. Dokumen ini tidak menyebut berapa dividen interim sebelumnya, sehingga belum bisa dinilai apakah jumlah kali ini naik atau turun dari periode lalu. Yang perlu dipantau berikutnya adalah batas pencatatan pemegang unit pada 30 Oktober 2026 pukul 23.59 WIB untuk menentukan siapa yang berhak, serta realisasi pembayaran pada 5 November 2026 sebagai konfirmasi dana benar cair sesuai jadwal.",
+  "sentimen": "positif"
  },
  {
   "slug": "post-panggil-rupo-rupsi-bahas-gagal-bayar-obligasi-dan-sukuk",

@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ikai-raja-sapta-oktohari-borong-47-6-juta-saham-rp22",
+  "category": "Aksi Korporasi",
+  "title": "IKAI: Raja Sapta Oktohari [Borong] 47,6 Juta Saham Rp22",
+  "deck": "Raja Sapta Oktohari menambah kepemilikan sahamnya di IKAI dari 2,37 juta menjadi 50 juta lembar lewat pembelian tidak langsung pada 15 Oktober 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IKAI",
+   "Intikeramik Alamasri",
+   "kepemilikan saham",
+   "Raja Sapta Oktohari"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-9993-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tapg-komisaris-tambah-kepemilikan-jadi-3-49-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Komisaris [Tambah] Kepemilikan Jadi 3,49 Juta Saham",
+  "deck": "Arif Rachmat, Komisaris TAPG, membeli 623.000 saham tidak langsung pada 19 Oktober 2026 seharga Rp1.685 per saham untuk investasi.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "Komisaris",
+   "Kepemilikan Saham",
+   "Insider Buying"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-5601-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hrta-terang-anugrah-abadi-tambah-5-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "HRTA: Terang Anugrah Abadi [Tambah] 5 Juta Saham",
+  "deck": "Pemegang saham utama HRTA, PT Terang Anugrah Abadi, membeli 5 juta saham lewat dua transaksi pada 16 dan 19 Oktober 2026, menaikkan hak suaranya dari 71,05% menjadi 71,16%.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRTA",
+   "kepemilikan saham",
+   "pemegang saham",
+   "Hartadinata Abadi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-3612-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cpri-akhirnya-gelar-rups-tahun-buku-2022-tertunda-4-tahun",
+  "category": "Aksi Korporasi",
+  "title": "CPRI Akhirnya Gelar RUPS Tahun Buku 2022, [Tertunda] 4 Tahun",
+  "deck": "CPRI mengumumkan RUPS Tahunan untuk tahun buku 2022 akan digelar 26 November 2026, hampir empat tahun setelah periode laporan itu berakhir.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CPRI",
+   "RUPS Tahunan",
+   "Capri Nusa Satu Properti",
+   "Properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ac2081381_adaea1c8be.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-trimegah-sekuritas-tambah-265-juta-saham-via-reverse-repo",
+  "category": "Aksi Korporasi",
+  "title": "[ENRG] Trimegah Sekuritas Tambah 265 Juta Saham via Reverse Repo",
+  "deck": "Trimegah Sekuritas Indonesia melaporkan penambahan kepemilikan saham ENRG lewat transaksi reverse repo, hak suara naik dari 10,72% menjadi 11,55%.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "Trimegah Sekuritas",
+   "kepemilikan saham",
+   "reverse repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6039-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kmds-jadwalkan-rupslb-pada-26-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "KMDS Jadwalkan [RUPSLB] pada 26 November 2026",
+  "deck": "Kurniamitra Duta Sentosa Tbk akan menggelar RUPSLB pada 26 November 2026, dengan cum date pemegang saham 3 November 2026 dan tenggat usul agenda 19 November 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KMDS",
+   "RUPSLB",
+   "Pasar Modal",
+   "Emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2a3a66e49e_18cbe93db2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdla-direksi-borong-1-38-juta-saham-dalam-dua-hari",
+  "category": "Aksi Korporasi",
+  "title": "MDLA: Direksi [Borong] 1,38 Juta Saham dalam Dua Hari",
+  "deck": "Direksi Medela Potentia, Juliwaty, membeli 1.384.400 lembar saham MDLA pada 15-16 Oktober 2026, menaikkan kepemilikannya 28,4 persen menjadi 6.252.300 lembar.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLA",
+   "Medela Potentia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-7827-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baja-hak-suara-direksi-turun-ke-10-96-via-transaksi-repo",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Hak Suara Direksi Turun ke [10,96]% via Transaksi Repo",
+  "deck": "Direksi BAJA, Entario Widjaja Susanto, melaporkan hak suaranya turun dari 16,45% jadi 10,96% lewat transaksi repurchase agreement, meski jumlah sahamnya tetap 296,02 juta lembar.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "Saranacentral Bajatama",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1662-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sdra-resmi-angkat-kim-jun-beom-jadi-direktur-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "SDRA Resmi Angkat [Kim Jun Beom] Jadi Direktur Keuangan",
+  "deck": "Direktur Keuangan dan Perencanaan baru Bank Woori Saudara efektif menjabat 19 Oktober 2026 setelah lolos uji kelayakan OJK, menggantikan direktur sebelumnya yang mundur sejak 1 Juli 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SDRA",
+   "Bank Woori Saudara",
+   "Direksi",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/af45514c71_1d6e3dd40b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-turun-jadi-rp2-564-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Jadi Rp2.564.000/Gram",
@@ -20,6 +164,70 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473949-saatnya-borong-harga-emas-antam-hari-ini-20-oktober-2026-terpantau-turun-jadi-rp2564000-per-gram"
+ },
+ {
+  "slug": "baja-hak-suara-investor-turun-ke-0-95-meski-saham-tetap",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: [Hak Suara] Investor Turun ke 0,95% Meski Saham Tetap",
+  "deck": "Anton Sebastian melaporkan hak suaranya di Saranacentral Bajatama turun dari 1,43% jadi 0,95% lewat transaksi repo, padahal jumlah sahamnya tidak berubah.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "kepemilikan saham",
+   "transaksi repo",
+   "Saranacentral Bajatama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6687-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baja-hak-suara-turun-ke-1-62-meski-saham-tetap",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Hak Suara Turun ke 1,62% Meski Saham [Tetap]",
+  "deck": "Laksmono Tirta Kusumo, bukan direksi atau komisaris, melaporkan 43,79 juta saham BAJA tak berubah, tapi hak suaranya turun dari 2,43% jadi 1,62%.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "kepemilikan saham",
+   "hak suara",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-5764-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mlia-muliaglass-bangun-ulang-satu-tungku-kaca-lembaran",
+  "category": "Aksi Korporasi",
+  "title": "MLIA: Muliaglass Bangun Ulang Satu [Tungku] Kaca Lembaran",
+  "deck": "PT Muliaglass, anak usaha Mulia Industrindo, mulai membangun ulang bertahap satu dari tiga tungku kaca lembaran yang sudah di tahun terakhir operasinya, menyusul naiknya harga gas.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MLIA",
+   "Mulia Industrindo",
+   "Muliaglass",
+   "kaca lembaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/349138e84f_2dcf8ae91d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "direksi-tpia-tambah-kepemilikan-saham-1-juta-lembar",
+  "category": "Aksi Korporasi",
+  "title": "Direksi TPIA Tambah [Kepemilikan] Saham 1 Juta Lembar",
+  "deck": "Direktur TPIA, Raymond, membeli tambahan 1 juta saham Chandra Asri Pacific pada 16 Oktober 2026 senilai Rp1,2 miliar, meski hak suaranya di perusahaan tetap 0,01%.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "Chandra Asri Pacific",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-8988-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "atic-entitas-direksi-tambah-26-400-saham-di-pasar",
@@ -129,6 +337,22 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-4053-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xspi-bagi-dividen-interim-rp123-49-miliar-ke-pemegang-unit",
+  "category": "Aksi Korporasi",
+  "title": "XSPI Bagi [Dividen] Interim Rp123,49 Miliar ke Pemegang Unit",
+  "deck": "DIRE Simas Plaza Indonesia (XSPI) membagikan dividen interim Rp123,49 miliar, setara Rp5,937 per unit penyertaan, dibayar 5 November 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XSPI",
+   "dividen",
+   "DIRE",
+   "Sinarmas Asset Management"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/17b5e3d1db_34fa4a7627.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6310,231 +6534,6 @@ var ARTICLES = [
    "divestasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-9689-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sger-koreksi-laporan-keuangan-laba-bersih-naik-9-5-jadi-rp140-3-m",
-  "category": "Aksi Korporasi",
-  "title": "SGER Koreksi Laporan Keuangan, [Laba Bersih] Naik 9,5% jadi Rp140,3 M",
-  "deck": "PT Sumber Global Energy Tbk mengoreksi laporan keuangan interim semester I 2026, dengan laba bersih naik 9,5 persen menjadi Rp140,3 miliar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SGER",
-   "laporan keuangan interim",
-   "batu bara",
-   "emiten energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261013113943-64526-0/FinancialStatement-2026-II-SGER.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-beruntung-berkat-tambah-saham-suara-ke-15-09",
-  "category": "Aksi Korporasi",
-  "title": "DOOH: Beruntung Berkat [Tambah] Saham, Suara ke 15,09%",
-  "deck": "PT Beruntung Berkat Sejahtera membeli 388,4 juta saham DOOH senilai sekitar Rp130,5 miliar, mengangkat hak suaranya dari 10,07% menjadi 15,09%.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "kepemilikan saham",
-   "hak suara",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-1378-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jecx-komisaris-admar-anwar-tambah-110-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "JECX: Komisaris Admar Anwar Tambah [110.000] Saham",
-  "deck": "Komisaris JECX Dr. Admar Anwar membeli 110.000 saham pada 30 September 2026, menaikkan kepemilikannya menjadi 12,63 juta lembar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "Nitrasanata Dharma",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-3952-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "daaz-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "DAAZ Jelaskan ke BEI Soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "BEI minta penjelasan soal volatilitas transaksi saham DAAZ. Perseroan sebut tak ada info material baru, hanya mengonfirmasi sukuk wakalah yang efektif 12 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DAAZ",
-   "volatilitas transaksi",
-   "sukuk wakalah",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9938250981_50f8bed0dc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-ekuitas-ambruk-71-pendapatan-melonjak-54-di-q3",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: [Ekuitas] Ambruk 71%, Pendapatan Melonjak 54% di Q3",
-  "deck": "Ekuitas Waskita Karya turun jadi Rp1,04 triliun dari Rp3,67 triliun dalam sembilan bulan, sementara pendapatan naik 53,7 persen jadi Rp8,13 triliun.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "Waskita Karya",
-   "laporan keuangan",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261013041240-64510-0/FinancialStatement-2026-III-WSKT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "real-lewat-rgst-teken-kso-bangun-perumahan-di-bogor",
-  "category": "Aksi Korporasi",
-  "title": "REAL lewat RGST teken [KSO] bangun perumahan di Bogor",
-  "deck": "Anak usaha REAL, RGST, resmi menandatangani perjanjian kerja sama operasi dengan Riscon Group untuk membangun perumahan Grand Riscon Darmaga di Leuwiliang, Bogor, dengan skema bagi hasil 57:43.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "REAL",
-   "KSO",
-   "properti",
-   "Bogor"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ac3f35af22_467c2c5dae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amor-direksi-tambah-456-200-saham-lewat-program-karyawan",
-  "category": "Aksi Korporasi",
-  "title": "AMOR: Direksi [Tambah] 456.200 Saham Lewat Program Karyawan",
-  "deck": "Direksi Ashmore Asset Management Indonesia menambah kepemilikan saham lewat program kepemilikan saham karyawan pada 8 Oktober 2026, menaikkan hak suaranya jadi 5,65 persen.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "kepemilikan saham",
-   "direksi",
-   "program kepemilikan saham karyawan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-5826-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amor-direksi-tambah-158-000-saham-lewat-program-karyawan",
-  "category": "Aksi Korporasi",
-  "title": "AMOR: Direksi Tambah 158.000 Saham Lewat Program [Karyawan]",
-  "deck": "Direksi AMOR, Steven Satya Yudha, menambah 158.000 saham lewat program kepemilikan saham karyawan dengan harga Rp367 per saham pada 8 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "Ashmore Asset Management",
-   "Kepemilikan Saham",
-   "Program Karyawan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-1601-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amor-direksi-tambah-5-46-juta-saham-lewat-program-karyawan",
-  "category": "Aksi Korporasi",
-  "title": "AMOR: Direksi Tambah [5,46 Juta] Saham Lewat Program Karyawan",
-  "deck": "Direktur Arief Cahyadi Wana menambah 5.463.600 saham AMOR seharga Rp367 per lembar lewat program kepemilikan saham karyawan, hak suaranya naik ke 5,42 persen.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "kepemilikan saham",
-   "direksi",
-   "program karyawan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-3178-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amor-direksi-tambah-463-600-saham-lewat-program-karyawan",
-  "category": "Aksi Korporasi",
-  "title": "AMOR: Direksi Tambah [463.600] Saham Lewat Program Karyawan",
-  "deck": "Direksi AMOR Ronaldus Gandahusada menambah 463.600 lembar saham lewat program kepemilikan saham karyawan, menaikkan hak suaranya dari 6,30% menjadi 6,32%.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "kepemilikan saham",
-   "direksi",
-   "program insentif karyawan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-8493-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kspean-wanam-irigasi-133-km-panen-padi-november",
-  "category": "Makroekonomi",
-  "title": "KSPEAN Wanam: Irigasi 133 Km, [Panen] Padi November",
-  "deck": "Menteri PU Dody Hanggodo memastikan irigasi KSPEAN Wanam di Merauke, Papua Selatan, sudah 133 dari target 180 kilometer, menjelang panen padi awal November 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/kspean-wanam-irigasi-133-km-panen-padi-november.jpg",
-  "imageV": "mv6720rn",
-  "tags": [
-   "KSPEAN",
-   "Papua Selatan",
-   "Kementerian PU",
-   "Swasembada Pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472675-menteri-dody-tinjau-kspean-wanam-pastikan-panen-perdana-dukung-visi-presiden-prabowo"
- },
- {
-  "slug": "direktur-atic-harry-hambali-beli-115-000-saham-investasi",
-  "category": "Aksi Korporasi",
-  "title": "Direktur ATIC Harry Hambali Beli 115.000 Saham [Investasi]",
-  "deck": "Direktur Anabatic Technologies, Harry Surjanto Hambali, membeli 115.000 saham ATIC pada 7-9 Oktober 2026 melalui delapan transaksi senilai Rp436-Rp452 per lembar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATIC",
-   "Anabatic Technologies",
-   "kepemilikan saham",
-   "insider buying"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-3853-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bdkr-bantah-ada-informasi-material-di-balik-lonjakan-saham-23-5",
-  "category": "Aksi Korporasi",
-  "title": "BDKR Bantah Ada Informasi Material di Balik [Lonjakan] Saham 23,5%",
-  "deck": "BEI meminta penjelasan setelah saham BDKR melonjak 23,53% dan volume transaksi naik lebih dari lima kali lipat dalam dua hari, 5-6 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BDKR",
-   "UMA",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2331786fdc_a03663d502.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-221-400-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [jual] 221.400 saham lagi",
-  "deck": "Komisaris AKPI, Henry Liem, melepas 221.400 saham pada 12 Oktober 2026, transaksi ketiga dalam sepekan yang membawa hak suaranya turun jadi 0,98 persen.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Henry Liem",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-5821-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

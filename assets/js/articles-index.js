@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ihsg-rebound-4-16-persen-dipicu-buyback-dan-aturan-msci",
+  "category": "Pasar Modal",
+  "title": "IHSG [Rebound] 4,16 Persen, Dipicu Buyback dan Aturan MSCI",
+  "deck": "IHSG melonjak 4,16 persen ke 5.204,63 pada sesi I Selasa, didorong buyback emiten serta kebijakan BEI dan OJK merespons evaluasi MSCI.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/ihsg-rebound-4-16-persen-dipicu-buyback-dan-aturan-msci.jpg",
+  "imageV": "mvgck5n2",
+  "tags": [
+   "ihsg",
+   "bursa saham",
+   "msci",
+   "buyback"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473988-ihsg-rebound-416-persen-analis-dipicu-buyback-saham-hingga-kebijakan-otoritas"
+ },
+ {
+  "slug": "ihsg-melonjak-4-16-persen-bei-rombak-komposisi-indeks",
+  "category": "Pasar Modal",
+  "title": "IHSG [Melonjak] 4,16 Persen, BEI Rombak Komposisi Indeks",
+  "deck": "IHSG naik 4,16 persen ke 5.204,63 pada sesi I Selasa, didorong perubahan batas ARB dan pengeluaran puluhan saham HSC dari komposisi indeks oleh BEI.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/ihsg-melonjak-4-16-persen-bei-rombak-komposisi-indeks.jpg",
+  "imageV": "mvgck64a",
+  "tags": [
+   "IHSG",
+   "BEI",
+   "MSCI",
+   "pasar modal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473980-ihsg-menguat-416-persen-ke-level-5204-sempat-terkoreksi-hingga-kembali-menghijau"
+ },
+ {
   "slug": "ikai-raja-sapta-oktohari-borong-47-6-juta-saham-rp22",
   "category": "Aksi Korporasi",
   "title": "IKAI: Raja Sapta Oktohari [Borong] 47,6 Juta Saham Rp22",
@@ -6502,38 +6536,6 @@ var ARTICLES = [
    "Nitrasanata Dharma"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-8261-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jecx-komisaris-beli-lagi-40-000-saham-total-dua-pekan-70-000",
-  "category": "Aksi Korporasi",
-  "title": "JECX: Komisaris Beli Lagi [40.000] Saham, Total Dua Pekan 70.000",
-  "deck": "Komisaris JECX, Dr. Admar Anwar, membeli 40.000 saham tambahan pada 1 Oktober 2026, melengkapi pembelian sebelumnya hingga total 70.000 saham dalam dua pekan.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "Komisaris",
-   "Kepemilikan Saham",
-   "Admar Anwar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-8079-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-prambanan-tuntas-lepas-semua-saham-suara-ke-0",
-  "category": "Aksi Korporasi",
-  "title": "DOOH: Prambanan [Tuntas] Lepas Semua Saham, Suara ke 0%",
-  "deck": "Prambanan Investasi Sukses menjual seluruh 388,4 juta saham DOOH yang tersisa senilai sekitar Rp130,5 miliar, hak suaranya habis dari 5,02% menjadi nol persen.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "Prambanan Investasi Sukses",
-   "pemegang saham",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-9689-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

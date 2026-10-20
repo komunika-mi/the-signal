@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ihsg-rebound-4-16-persen-dipicu-buyback-dan-aturan-msci",
+  "category": "Pasar Modal",
+  "title": "IHSG [Rebound] 4,16 Persen, Dipicu Buyback dan Aturan MSCI",
+  "deck": "IHSG melonjak 4,16 persen ke 5.204,63 pada sesi I Selasa, didorong buyback emiten serta kebijakan BEI dan OJK merespons evaluasi MSCI.",
+  "image": "assets/img/ihsg-rebound-4-16-persen-dipicu-buyback-dan-aturan-msci.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T14:01:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473988-ihsg-rebound-416-persen-analis-dipicu-buyback-saham-hingga-kebijakan-otoritas",
+  "tags": [
+   "ihsg",
+   "bursa saham",
+   "msci",
+   "buyback"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan melonjak tajam pada penutupan sesi pertama perdagangan Selasa, 20 Oktober 2026. IHSG naik 208,02 poin atau 4,16 persen ke level 5.204,63, sementara indeks saham-saham unggulan LQ45 melesat 6,40 persen ke 519,73. Kenaikan setajam ini terjadi bukan karena satu sentimen tunggal, melainkan gabungan aksi korporasi dan langkah otoritas pasar modal yang muncul hampir bersamaan.",
+   "Analis BRI Danareksa Sekuritas, Helmy Kristanto, menyebut salah satu pendorong utama adalah rencana sejumlah emiten melakukan pembelian kembali atau buyback saham mereka, yang menahan tekanan jual di tengah pasar yang masih bergejolak. Di sisi lain, Bursa Efek Indonesia menyiapkan dua kebijakan baru, yaitu memperluas keterbukaan informasi pemegang saham berafiliasi dengan porsi di atas 1 persen, dan mengeluarkan saham-saham dengan kepemilikan yang terlalu terpusat (High Shareholding Concentration atau HSC) dari perhitungan indeks. Kedua kebijakan ini disiapkan sebagai respons atas evaluasi yang dilakukan Morgan Stanley Capital International (MSCI) terhadap saham-saham Indonesia.",
+   "Sentimen lain yang turut mengangkat optimisme pasar adalah rencana Danantara menambah kepemilikan di saham-saham badan usaha milik negara, terutama bank-bank BUMN. Otoritas Jasa Keuangan dan pemerintah juga menyatakan komitmen menindak dugaan praktik penggerakan harga saham secara terkoordinasi oleh sejumlah pihak, sekaligus memperkuat transparansi pasar modal. Helmy memperkirakan level 5.318 hingga 5.400 akan menjadi area resistance berikutnya, yang sekaligus menjadi ukuran seberapa kuat pemulihan IHSG kali ini.",
+   "Aktivitas perdagangan pada sesi pertama tercatat ramai, dengan frekuensi transaksi mencapai 1,63 juta kali dan volume 39,30 miliar lembar saham senilai Rp17,13 triliun. Sebanyak 654 saham menguat, 137 saham melemah, dan 172 saham stagnan, menandakan penguatan terjadi secara luas di berbagai sektor."
+  ],
+  "fotoAdegan": "Brokers at a busy stock exchange trading floor in Jakarta, distant blurred monitor screens, afternoon light through tall windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8ccb23902-ilustrasi-saham_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang bergerak di balik lonjakan ini adalah aturan main pasar saham, bukan cuma minat beli investor. BEI berencana mewajibkan pemegang saham berafiliasi yang punya lebih dari 1 persen saham untuk lebih terbuka, sekaligus bersiap mengeluarkan saham-saham dengan kepemilikan yang terlalu terpusat di segelintir pihak dari hitungan IHSG, merespons evaluasi ulang lembaga indeks global MSCI. Pihak yang paling terdampak adalah emiten dengan kepemilikan terkonsentrasi itu, investor yang dananya mengikuti indeks MSCI, serta saham-saham bank milik negara yang kabarnya akan ditambah kepemilikannya oleh Danantara, lembaga pengelola investasi negara. Pola ini mengarah ke pengetatan tata kelola bursa secara bertahap, bukan sekadar reaksi sesaat atas penurunan pasar sebelumnya, dan yang akan memastikannya adalah bagaimana BEI merealisasikan aturan pengeluaran saham HSC tersebut serta hasil evaluasi lanjutan MSCI terhadap bobot saham Indonesia.",
+  "imageV": "mvgck5n2"
+ },
+ {
+  "slug": "ihsg-melonjak-4-16-persen-bei-rombak-komposisi-indeks",
+  "category": "Pasar Modal",
+  "title": "IHSG [Melonjak] 4,16 Persen, BEI Rombak Komposisi Indeks",
+  "deck": "IHSG naik 4,16 persen ke 5.204,63 pada sesi I Selasa, didorong perubahan batas ARB dan pengeluaran puluhan saham HSC dari komposisi indeks oleh BEI.",
+  "image": "assets/img/ihsg-melonjak-4-16-persen-bei-rombak-komposisi-indeks.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T13:21:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473980-ihsg-menguat-416-persen-ke-level-5204-sempat-terkoreksi-hingga-kembali-menghijau",
+  "tags": [
+   "IHSG",
+   "BEI",
+   "MSCI",
+   "pasar modal"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) melonjak 4,16 persen atau 208,02 poin ke level 5.204,63 pada perdagangan sesi pertama, Selasa (20/10/2026). Lonjakan ini tergolong besar untuk ukuran satu sesi karena IHSG merupakan gabungan dari ratusan saham, sehingga kenaikan setajam ini menandakan optimisme yang menyebar luas di kalangan pelaku pasar, bukan cuma didorong oleh beberapa saham besar saja.",
+   "Pada pembukaan perdagangan, IHSG berada di 4.980,16, sedikit lebih rendah dibanding penutupan sehari sebelumnya. Indeks lalu bergerak naik cukup tajam, namun sempat terkoreksi sebelum pukul 10.00 WIB. Menjelang pukul 11.00 WIB, IHSG kembali menanjak dan bertahan di zona positif hingga penutupan sesi, bahkan sempat menyentuh level tertinggi intraday di 5.210,80.",
+   "Kepala Riset Phintraco Sekuritas Ratna Lim sebelumnya memperkirakan IHSG berpotensi menguat seiring respons pasar terhadap langkah otoritas pasar modal menindaklanjuti hasil evaluasi dari MSCI, lembaga penyedia indeks saham global yang menjadi acuan sebagian dana asing dalam menentukan bursa mana yang layak dimasuki. Menurut Ratna, penguatan berpotensi berlanjut di atas level 5.000 jika saham-saham berkapitalisasi besar ikut rebound. Dari sisi domestik, sejumlah emiten telah mengumumkan rencana buyback atau pembelian kembali sahamnya sendiri di pasar, langkah yang biasa dilakukan perusahaan untuk menahan harga sahamnya agar tidak jatuh lebih dalam.",
+   "Otoritas pasar modal juga mengubah batas Auto Reject Bawah (ARB), yakni batas penurunan harga saham maksimum dalam sehari sebelum transaksi ditolak otomatis oleh sistem bursa, menjadi 7 persen. Bursa Efek Indonesia (BEI) menambahkan dua kebijakan baru, yaitu pencantuman status terafiliasi atau tidak pada publikasi nama pemegang saham dengan kepemilikan minimal 1 persen, serta pengeluaran seluruh saham kategori High Shareholding Concentration (HSC) dari hitungan IHSG. Saham HSC adalah saham yang kepemilikannya terlalu terpusat di segelintir pihak sehingga jumlah saham yang benar-benar beredar bebas di pasar kecil, dan saat ini tercatat 80 saham masuk kategori ini dengan bobot 18 persen dari IHSG.",
+   "Ratna menyebut kedua kebijakan itu diharapkan dapat mendukung pemenuhan standar MSCI, meski bukan jaminan MSCI akan merespons positif. Dia juga memperkirakan IHSG bisa mengalami penyesuaian dalam jangka pendek selama proses ini berjalan, mengingat sejumlah saham HSC memiliki bobot yang cukup besar di indeks. \"Proses penyesuaian ini dapat meningkatkan volatilitas pasar, namun diharapkan mendukung pembentukan indeks yang lebih mencerminkan kondisi pasar dan likuiditas saham secara representatif,\" ujarnya."
+  ],
+  "fotoAdegan": "Exterior of modern high-rise financial district towers in Jakarta with busy morning street traffic below, soft light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8ce896aa6-ilustrasi-saham_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya ada tiga: batas penurunan harga saham dalam sehari (ARB) dilonggarkan jadi 7 persen, label status terafiliasi atau tidak ditambahkan pada pemegang saham dengan kepemilikan minimal 1 persen, dan 80 saham yang sahamnya terlalu terpusat di sedikit pemilik, disebut saham HSC dan menyumbang 18 persen bobot IHSG, dikeluarkan dari hitungan indeks. Yang langsung terdampak adalah perusahaan tercatat berstatus HSC tadi karena sahamnya tidak lagi ikut menggerakkan IHSG, serta investor besar yang memakai IHSG sebagai acuan dana kelolaannya. Arahnya cukup jelas, otoritas pasar modal tampak membersihkan susunan IHSG agar lebih sesuai kriteria likuiditas yang dipakai MSCI, lembaga penyedia indeks global yang jadi rujukan dana asing untuk menentukan bursa mana yang layak dimasukkan portofolio pasif mereka. Namun hasilnya belum pasti, sebab Ratna Lim sendiri menyebut langkah ini bukan jaminan MSCI merespons positif, dan pengeluaran saham HSC berbobot besar itu bisa memicu gejolak harga jangka pendek sebelum indeks stabil di susunan barunya. Yang akan memastikan apakah pembersihan ini berbuah hasil adalah keputusan MSCI pada evaluasi indeksnya berikutnya.",
+  "imageV": "mvgck64a"
+ },
+ {
   "slug": "ikai-raja-sapta-oktohari-borong-47-6-juta-saham-rp22",
   "category": "Aksi Korporasi",
   "title": "IKAI: Raja Sapta Oktohari [Borong] 47,6 Juta Saham Rp22",

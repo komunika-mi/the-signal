@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "3jSJgV8sG-U",
+  "title": "ISEF 2026 Dibuka, Bank Indonesia Dorong Penguatan Ekonomi Syariah",
+  "category": "Makroekonomi",
+  "program": "Kabar Siang",
+  "summary": "Indonesia Sharia Economic Festival (ISEF) 2026 yang ke-13 resmi dibuka oleh Gubernur Bank Indonesia Destry Damayanti bersama Wakil Menteri Koordinator Bidang Perekonomian Dradjad Hari Wibowo.",
+  "takeaway": "Perhelatan ini relevan bagi pembaca ekonomi karena menunjukkan arah kebijakan otoritas moneter dalam mengembangkan ekonomi syariah sebagai salah satu penopang pertumbuhan nasional."
+ },
+ {
   "id": "9GoNWxwKzgc",
   "title": "Kadin Dukung UMKM dalam Pameran Agrinex 2026",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Batam dan sebagian Pulau Bintan sempat mengalami blackout total sebelum beralih menjadi pemadaman listrik bergilir di sejumlah wilayah.",
   "takeaway": "Gangguan pasokan listrik di Batam perlu disorot karena kawasan ini merupakan basis industri dan perdagangan penting di Kepulauan Riau."
- },
- {
-  "id": "yXs6EEDo8rA",
-  "title": "Evaluasi Sistem Kerja Kemitraan, Said Iqbal Kunjungi PT Pos Indonesia",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Merah Putih",
-  "summary": "Penasihat Khusus Presiden Bidang Ketenagakerjaan dan Kesejahteraan Buruh, Said Iqbal, mengunjungi kantor pusat PT Pos Indonesia untuk mengevaluasi sistem kerja kemitraan di perusahaan tersebut.",
-  "takeaway": "Evaluasi ini penting diikuti karena menyangkut status dan kesejahteraan pekerja kemitraan di salah satu BUMN logistik terbesar di Indonesia."
  }
 ];

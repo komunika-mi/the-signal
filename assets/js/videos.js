@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "3jSJgV8sG-U",
+  "title": "ISEF 2026 Dibuka, Bank Indonesia Dorong Penguatan Ekonomi Syariah",
+  "category": "Makroekonomi",
+  "program": "Kabar Siang",
+  "summary": "Indonesia Sharia Economic Festival (ISEF) 2026 yang ke-13 resmi dibuka oleh Gubernur Bank Indonesia Destry Damayanti bersama Wakil Menteri Koordinator Bidang Perekonomian Dradjad Hari Wibowo.",
+  "takeaway": "Perhelatan ini relevan bagi pembaca ekonomi karena menunjukkan arah kebijakan otoritas moneter dalam mengembangkan ekonomi syariah sebagai salah satu penopang pertumbuhan nasional.",
+  "terbit": "2026-10-20T06:00:06+00:00"
+ },
+ {
   "id": "9GoNWxwKzgc",
   "title": "Kadin Dukung UMKM dalam Pameran Agrinex 2026",
   "category": "UMKM",

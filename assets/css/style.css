@@ -980,13 +980,21 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
   font-family: var(--sans); font-size: .82rem; line-height: 1.55;
 }
 .taruhan-cabang b { display: block; font-size: .86rem; margin-bottom: .15rem; }
-.taruhan-cabang span { color: var(--ink-soft); }
-.taruhan-dipilih { border-color: var(--red); background: var(--red-tint); }
-.taruhan-dipilih span { color: var(--ink); }
+.taruhan-arti { display: block; color: var(--ink-soft); }
+/* Cabang terpilih ditandai TIPIS. Versi pertama memakai latar --red-tint,
+   garis --red penuh, dan label merah pekat; pemilik melaporkan kotaknya
+   terlalu merah sampai tidak terbaca. Lebih buruk lagi, aturan lama
+   ".taruhan-cabang span" ikut mengenai label (selektornya lebih spesifik
+   daripada .taruhan-tanda), sehingga tulisan "bacaan kami" jadi abu-abu gelap
+   di atas merah. Sekarang teks arti punya kelasnya sendiri dan label berupa
+   garis tepi, bukan blok warna. */
+.taruhan-dipilih { border-color: #eecbc5; border-left: 3px solid var(--red); background: #fdf7f6; }
+.taruhan-dipilih .taruhan-arti { color: var(--ink); }
 .taruhan-tanda {
-  display: inline-block; margin-left: .35rem; padding: .1rem .45rem;
-  background: var(--red); color: var(--page); border-radius: 99px;
-  font-size: .62rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase;
+  display: inline-block; margin-left: .4rem; padding: .02rem .42rem;
+  background: transparent; color: var(--red-deep); border: 1px solid #e3a59c;
+  border-radius: 99px; vertical-align: 1px;
+  font-size: .6rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
 }
 .taruhan-ambang { margin-top: .85rem; font-family: var(--sans); font-size: .8rem; }
 .taruhan-ambang summary { cursor: pointer; color: var(--red-deep); font-weight: 600; }

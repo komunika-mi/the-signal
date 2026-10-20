@@ -1455,9 +1455,12 @@ function blokTaruhan(t) {
 
   const cabang = t.taruhan.cabang.map(c => {
     const dipilih = terbuka && terbuka.cabang === c.nama;
+    // Label "bacaan kami" ikut di baris nama cabang, bukan menempel di awal
+    // kalimat artinya: versi pertama menaruhnya sejajar dengan teks arti, jadi
+    // kalimatnya terdorong dan labelnya terbaca seperti bagian kalimat.
     return `<li class="taruhan-cabang${dipilih ? ' taruhan-dipilih' : ''}">` +
-      `<b>${esc(c.nama)}</b>${dipilih ? ' <span class="taruhan-tanda">bacaan kami</span>' : ''}` +
-      `<span>${esc(c.arti)}</span></li>`;
+      `<b>${esc(c.nama)}${dipilih ? ' <span class="taruhan-tanda">bacaan kami</span>' : ''}</b>` +
+      `<span class="taruhan-arti">${esc(c.arti)}</span></li>`;
   }).join('');
 
   const ambang = (t.taruhan.ambang || [])

@@ -3,6 +3,130 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "atic-entitas-direksi-tambah-26-400-saham-di-pasar",
+  "category": "Aksi Korporasi",
+  "title": "ATIC: Entitas Direksi Tambah [26.400] Saham di Pasar",
+  "deck": "PT Inti Global Resources Indonesia, entitas direksi Anabatic Technologies, membeli 26.400 saham ATIC lewat delapan transaksi pada 19 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T09:34:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1068-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATIC",
+  "tags": [
+   "ATIC",
+   "Anabatic Technologies",
+   "kepemilikan saham",
+   "transaksi insider"
+  ],
+  "body": [
+   "PT Anabatic Technologies Tbk (ATIC) melaporkan perubahan kepemilikan saham oleh PT Inti Global Resources Indonesia, pihak yang tercatat berstatus direksi perseroan, kepada Otoritas Jasa Keuangan pada 20 Oktober 2026. Sebelum transaksi, entitas ini memegang 162.383.761 lembar saham ATIC atau setara 5,6107 persen hak suara. Setelah transaksi, kepemilikannya naik menjadi 162.410.161 lembar, atau 5,6115 persen hak suara, hanya bergeser 0,0008 poin persentase.",
+   "Penambahan sebanyak 26.400 lembar itu berasal dari delapan transaksi pembelian tidak langsung di pasar pada 19 Oktober 2026, dengan harga berkisar Rp392 hingga Rp420 per saham: 8.800 lembar di Rp392, 7.200 lembar di Rp396, 7.200 lembar di Rp416, 1.800 lembar di Rp420, 1.100 lembar di Rp414, serta tiga transaksi kecil masing-masing 100 lembar di Rp408, Rp410, dan Rp412. Seluruh transaksi dicatat dengan tujuan investasi. Dalam laporan ini, PT Inti Global Resources Indonesia menyatakan bukan merupakan pihak pengendali ATIC dan tidak berniat mempertahankan status pengendalian.",
+   "Laporan ini menyusul laporan serupa pekan lalu dari Direktur ATIC Harry Hambali yang membeli 115.000 saham untuk tujuan investasi, yang juga dinilai tidak mengubah hak suaranya secara berarti."
+  ],
+  "fotoAdegan": "Technicians in a server room checking rows of blinking data racks under cool blue ambient light",
+  "takeaway": "Laporan ini netral bagi ATIC karena penambahan 26.400 lembar hanya setara 0,0163 persen dari kepemilikan pelapor sendiri, dan hak suaranya nyaris tidak bergerak dari 5,6107 persen menjadi 5,6115 persen, jadi terlalu kecil untuk dibaca sebagai pernyataan sikap terhadap arah perusahaan. Transaksi ini tidak menambah jumlah saham beredar ATIC karena pembeliannya terjadi di pasar sekunder, bukan penerbitan saham baru, sehingga tidak berdampak pada laba per saham maupun struktur modal perseroan, yang biasanya baru jadi perhatian pelaku pasar kalau pergeseran pemilikannya besar atau mengubah siapa yang mengendalikan perusahaan. Yang perlu dipantau adalah apakah pola pembelian kecil berulang ini, setelah pembelian serupa oleh Direktur Harry Hambali pekan sebelumnya, berlanjut di laporan-laporan kepemilikan mendatang, karena rangkaian pembelian kecil yang konsisten bisa jadi sinyal keyakinan insider meski masing-masing laporan secara individu belum signifikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-tambah-saham-hak-suara-ke-8-03",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman Tambah Saham, Hak Suara ke [8,03%]",
+  "deck": "Pemegang saham Sujito Ngatiman menambah 14,77 juta lembar saham DEWI pada 19 Oktober 2026, mendorong hak suaranya naik dari 7,20 persen menjadi 8,03 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T09:06:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6056-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "laporan OJK",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) menerima laporan keterbukaan dari Sujito Ngatiman, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perusahaan, terkait penambahan kepemilikan sahamnya. Sebelum transaksi, Sujito tercatat memegang 145.934.400 lembar saham DEWI atau setara 7,20 persen hak suara. Setelah transaksi, kepemilikannya naik menjadi 160.710.200 lembar, atau 8,03 persen hak suara, dengan selisih penambahan 14.775.800 lembar saham, naik 10,125 persen dari jumlah yang dipegang sebelumnya.",
+   "Dokumen menyebutkan transaksi dilakukan dengan jenis repurchase agreement, yakni pembelian kembali saham, dengan status kepemilikan langsung dan tujuan transaksi berupa pembelian. Saham yang dibeli berjenis saham biasa dengan harga Rp200 per lembar, dieksekusi pada 19 Oktober 2026, dan batas akhir periode pelaksanaannya tercatat 20 Oktober 2026. Laporan ini disampaikan ke Otoritas Jasa Keuangan pada 20 Oktober 2026, sesuai kewajiban pelaporan kepemilikan saham perusahaan terbuka berdasarkan POJK Nomor 4/2024."
+  ],
+  "fotoAdegan": "Workers stacking sacks of animal feed in a rural Indonesian warehouse, forklift nearby, overcast light filtering through open doors",
+  "takeaway": "Laporan ini condong positif bagi DEWI, karena penambahan kepemilikan sebesar 10,125 persen dari posisi sebelumnya bukan angka remah, dan menunjukkan pemegang saham signifikan justru menambah porsinya, bukan melepasnya. Yang tersentuh di sini adalah hak suara, bukan jumlah saham beredar atau laba per saham, sebab transaksi berupa repurchase agreement, yaitu pembelian kembali saham yang sebelumnya dijadikan jaminan, sehingga tidak menambah jumlah saham yang diterbitkan perusahaan. Pelaku pasar tetap memperhatikan perubahan hak suara semacam ini karena menggambarkan pergeseran konsentrasi kendali di antara pemegang saham. Yang perlu dipantau berikutnya adalah apakah Sujito Ngatiman terus menambah porsinya mendekati ambang batas pemegang saham pengendali, mengingat batas akhir periode pelaksanaan transaksi ini jatuh pada 20 Oktober 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ptro-jawab-permintaan-bursa-soal-volatilitas-transaksi",
+  "category": "Aksi Korporasi",
+  "title": "PTRO Jawab Permintaan Bursa soal [Volatilitas] Transaksi",
+  "deck": "Petrosea menjawab permintaan penjelasan BEI, menegaskan tidak ada informasi material yang belum diungkap selain rencana rights issue yang sudah diumumkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T09:00:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3afd552301_5283cae682.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTRO",
+  "tags": [
+   "PTRO"
+  ],
+  "body": [
+   "PT Petrosea Tbk (PTRO) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan terkait volatilitas transaksi efeknya, melalui surat IDX nomor S-13175/BEI.PP1/10-2026 tertanggal 16 Oktober 2026. Tanggapan dikirim lewat surat nomor CORSEC/L/2026/X-0147 tertanggal 20 Oktober 2026, ditandatangani oleh Sekretaris Perusahaan Anto Broto.",
+   "Dalam surat itu, Petrosea menyatakan tidak mengetahui ada informasi atau fakta material yang belum diungkapkan ke publik dan dapat mempengaruhi harga sahamnya, selain pemberitaan umum soal evaluasi MSCI terhadap pasar modal Indonesia. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu yang berkaitan dengan pergerakan harga saham, di luar laporan kepemilikan yang sudah disampaikan sesuai aturan OJK.",
+   "Soal rencana aksi korporasi, Petrosea menegaskan kembali akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 23 November 2026, dengan salah satu agenda berupa persetujuan Penambahan Modal dengan Memberikan Hak Memesan Efek Terlebih Dahulu (PMHMETD) atau rights issue, yang sudah diumumkan ke publik pada 15 Oktober 2026. Perseroan menambahkan bahwa pemegang saham utama dan pengendali, setelah dikonfirmasi, menyatakan tidak memiliki rencana mengubah kepemilikan sahamnya di Petrosea dan tetap berkomitmen mendukung pengembangan usaha perseroan."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Isi surat ini netral bagi Petrosea karena pada dasarnya hanya menegaskan ulang dua hal yang sudah diumumkan lebih dulu, yaitu rencana rights issue dan jadwal RUPSLB, tanpa ada angka atau fakta baru yang mengubah gambaran keuangan perseroan. Yang disinggung di sini adalah jumlah saham beredar, karena rights issue nantinya menambah jumlah saham baru di pasar, dan kalau saham baru itu tidak dibarengi kenaikan laba yang setara, laba per saham yang didapat setiap pemegang saham bisa mengecil. Konfirmasi dari pemegang saham pengendali bahwa mereka tidak berencana mengubah porsi kepemilikannya juga patut dicatat, sebab itu berarti tidak ada sinyal bahwa pengendali perseroan mau keluar atau mengurangi kendalinya. Permintaan penjelasan dari BEI sendiri menunjukkan bursa melihat ada pergerakan transaksi saham PTRO yang di luar kebiasaan, meski suratnya tidak merinci seperti apa pergerakan itu. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 23 November 2026, karena di situlah pemegang saham akan memutuskan apakah rencana rights issue ini benar-benar disetujui dan dijalankan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "komisaris-drma-lepas-150-000-saham-hak-suara-tetap-1-79",
+  "category": "Aksi Korporasi",
+  "title": "Komisaris DRMA Lepas [150.000] Saham, Hak Suara Tetap 1,79%",
+  "deck": "Komisaris Dharma Polimetal, Noel Aelyo Laras Kusuma Negara, menjual 150.000 saham DRMA pada 14 Oktober 2026 senilai sekitar Rp141,75 juta, namun hak suaranya tetap 1,79 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T08:47:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-2153-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DRMA",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "PT Dharma Polimetal Tbk (DRMA) melaporkan kepada Otoritas Jasa Keuangan bahwa salah satu anggota Dewan Komisarisnya, Noel Aelyo Laras Kusuma Negara, menjual 150.000 saham perseroan secara tidak langsung pada 14 Oktober 2026. Transaksi dilakukan dengan harga Rp945 per saham, sehingga nilai totalnya sekitar Rp141,75 juta. Dalam laporan ke KSEI itu, tujuan transaksi dicatat sebagai divestasi.",
+   "Dengan penjualan ini, jumlah saham yang dipegang Noel di DRMA berkurang dari 84.150.000 unit menjadi 84.000.000 unit. Meski jumlahnya turun, porsi hak suaranya di perseroan tidak berubah, tetap di angka 1,79 persen, karena yang dilepas hanya sekitar 0,18 persen dari total kepemilikannya sebelum transaksi."
+  ],
+  "fotoAdegan": "Workers assembling automotive metal components on a factory production line, machinery and parts, industrial lighting",
+  "takeaway": "Transaksi ini tergolong netral bagi DRMA, karena yang dilepas komisaris cuma secuil, yakni sekitar 0,18 persen dari sahamnya, dan hak suaranya di perseroan tidak berubah dari 1,79 persen, sehingga tidak ada pergeseran kendali yang berarti. Transaksi jual beli oleh orang dalam perusahaan seperti direksi dan komisaris biasanya dipantau pasar sebagai sinyal keyakinan mereka terhadap prospek perusahaan sendiri, tapi untuk kasus ini porsinya terlalu kecil untuk dibaca sebagai sinyal kuat, dan karena saham ini cuma berpindah tangan antar pemilik lama, jumlah saham beredar DRMA di pasar juga tidak berubah. Yang perlu dicermati selanjutnya adalah apakah Noel atau komisaris dan direksi lain DRMA melanjutkan pola pelepasan saham dalam laporan-laporan berikutnya ke OJK dan KSEI, karena rangkaian transaksi kecil yang berulang bisa membentuk pola yang lebih berarti meski masing-masing laporan terlihat remah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tapg-direksi-tambah-kepemilikan-1-8-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi [Tambah] Kepemilikan 1,8 Juta Saham",
+  "deck": "Direksi TAPG George Oetomo membeli 1,8 juta saham pada 16 Oktober 2026, menambah kepemilikannya menjadi 52,86 juta lembar atau 0,2662% hak suara perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T08:23:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6139-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "Insider Trading",
+   "Direksi"
+  ],
+  "body": [
+   "PT Triputra Agro Persada Tbk (TAPG) melaporkan perubahan kepemilikan saham oleh George Oetomo, yang menjabat sebagai Direksi perusahaan. Dalam laporan ke Otoritas Jasa Keuangan tertanggal 20 Oktober 2026, George membeli 1.800.000 lembar saham TAPG pada 16 Oktober 2026 dengan harga Rp1.720 per lembar, setara total nilai sekitar Rp3,1 miliar. Tujuan transaksi disebutkan sebagai investasi.",
+   "Dengan pembelian ini, jumlah saham yang dimiliki George naik dari 51.056.100 lembar menjadi 52.856.100 lembar, bertambah 1.800.000 lembar atau setara 3,53 persen dari kepemilikannya sebelumnya. Hak suaranya di TAPG ikut naik, dari 0,2572 persen menjadi 0,2662 persen. Dokumen menyebut jenis transaksinya sebagai repurchase agreement dengan status pembelian tidak langsung, sementara kolom jumlah saham dari program opsi karyawan yang belum dilaksanakan dikosongkan, menandakan transaksi ini bukan bagian dari program insentif saham."
+  ],
+  "fotoAdegan": "Workers loading palm oil fresh fruit bunches onto a truck at a plantation collection point, early morning light",
+  "takeaway": "Laporan ini condong positif bagi TAPG, karena ini adalah pembelian, bukan pelepasan saham, oleh direksi sendiri, dan nilainya yang sekitar Rp3,1 miliar menambah kepemilikan pribadinya lebih dari 3 persen, bukan sekadar transaksi remeh. Yang tersentuh di sini bukan kinerja keuangan perusahaan, melainkan struktur kepemilikan dan hak suara individu direksi, karena transaksi ini tidak menerbitkan saham baru sehingga tidak mengubah jumlah saham beredar TAPG maupun laba per saham. Pelaku pasar biasanya membaca pembelian oleh orang dalam seperti ini sebagai bentuk kepercayaan terhadap prospek perusahaan, meski porsinya terhadap total saham beredar TAPG masih sangat kecil sehingga sinyalnya tidak bisa dibaca sebagai pernyataan sikap yang besar. Yang perlu dipantau selanjutnya adalah apakah pembelian oleh George ini berlanjut dengan transaksi serupa, atau diikuti oleh direksi dan komisaris lain TAPG, karena satu laporan saja belum cukup menunjukkan tren akumulasi dari jajaran manajemen.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bahlil-pusat-data-butuh-tambahan-20-gw-listrik",
   "category": "Energi",
   "title": "Bahlil: Pusat Data Butuh Tambahan [20 GW] Listrik",
@@ -53,6 +177,58 @@ var ARTICLES = [
   "fotoAdegan": "Construction workers in hard hats checking rebar and scaffolding at a high-rise building site in Jakarta, daytime",
   "takeaway": "Pembelian ini condong netral bagi TOTL, karena nilainya cuma menambah kepemilikan Saleh sekitar 1,9 persen dari saham yang sudah dipegangnya dan hak suaranya di perusahaan nyaris tidak berubah, dari 0,178 persen menjadi 0,181 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan kuat direksi atas prospek perusahaan. Yang tersentuh di sini cuma susunan saham dalam genggaman direksi, bukan pos keuangan TOTL seperti kas, utang, atau laba per saham, sebab transaksi semacam ini terjadi di pasar sekunder antar investor dan tidak menambah dana segar ke kas perusahaan maupun mengubah jumlah total saham beredar TOTL. Yang perlu dipantau selanjutnya adalah apakah Saleh atau direksi dan komisaris TOTL lainnya melanjutkan pola pembelian serupa dalam beberapa bulan ke depan, karena rangkaian pembelian kecil yang berulang biasanya lebih bermakna dibanding satu transaksi tunggal seperti ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "post-panggil-rupo-rupsi-bahas-gagal-bayar-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "POST Panggil RUPO-RUPSI Bahas [Gagal Bayar] Obligasi dan Sukuk",
+  "deck": "Pos Indonesia akan menggelar rapat pemegang obligasi dan sukuk pada 17 November 2026 untuk membahas gagal bayar bunga dan imbalan ijarah serta usulan penyelesaiannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T02:32:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73e6ce0333_ede4451649.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "gagal bayar",
+   "obligasi",
+   "sukuk"
+  ],
+  "body": [
+   "PT Pos Indonesia (Persero) (POST) melalui surat Corporate Secretary Iwan Gunawan tertanggal 20 Oktober 2026 mengumumkan akan menggelar tiga rapat pemegang surat utang sekaligus pada Selasa, 17 November 2026 pukul 11.30 WIB di Culture Hall, PosBloc Lantai 2, Jalan Pos Nomor 2, Jakarta Pusat. Ketiganya adalah Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi I Pos Indonesia Tahun 2022, serta dua Rapat Umum Pemegang Sukuk Ijarah (RUPSI) untuk Sukuk Ijarah Berkelanjutan I Tahap I Tahun 2024 dan Tahap II Tahun 2025. PT Bank Tabungan Negara (Persero) Tbk bertindak sebagai wali amanat untuk ketiga instrumen tersebut, dan pemanggilan resmi rapat akan diumumkan lewat satu surat kabar nasional berbahasa Indonesia pada Selasa, 3 November 2026.",
+   "Agenda utama rapat adalah penjelasan Pos Indonesia mengenai kondisi keuangan perusahaan dan konfirmasi belum terpenuhinya tiga kewajiban pembayaran: bunga ke-15 Obligasi I Seri B Tahun 2022, cicilan imbalan ijarah ke-7 Sukuk Ijarah Tahap I Tahun 2024 Seri A, B, dan C, serta cicilan imbalan ijarah ke-5 Sukuk Ijarah Tahap II Tahun 2025 Seri A, B, dan C. Perseroan juga akan menyampaikan usulan terkait kelalaian pembayaran tersebut dan rencana penyelesaiannya kepada para pemegang surat utang.",
+   "Pada agenda kedua, para pemegang obligasi dan sukuk akan menentukan sikap atau keputusan atas penjelasan dan usulan yang disampaikan Pos Indonesia terkait tunggakan pembayaran itu. Keputusan ini menyangkut nasib tiga instrumen utang sekaligus, yakni Obligasi I Seri B Tahun 2022, Sukuk Ijarah Tahap I Tahun 2024, dan Sukuk Ijarah Tahap II Tahun 2025, dan akan menentukan langkah Pos Indonesia selanjutnya terhadap para krediturnya."
+  ],
+  "fotoAdegan": "Workers sorting parcels on a conveyor belt inside a large logistics warehouse, forklifts moving boxes, fluorescent lighting",
+  "takeaway": "Laporan ini negatif bagi Pos Indonesia, karena menegaskan perusahaan menunggak pembayaran bukan pada satu melainkan tiga instrumen utang sekaligus, satu obligasi dan dua seri sukuk ijarah, dan kini harus meminta persetujuan para krediturnya lewat rapat formal. Yang tersentuh adalah arus kas dan kemampuan bayar utang perusahaan, bukan laba usaha, sebab gagal bayar bunga dan imbalan ijarah berarti kas yang tersedia tidak cukup menutupi kewajiban yang sudah jatuh tempo. Risiko lanjutannya, kalau pemegang obligasi dan sukuk memutuskan menyatakan kelalaian resmi dalam rapat ini, utang tersebut bisa langsung ditagih penuh alih-alih dicicil sesuai jadwal semula. Yang perlu dipantau adalah pemanggilan resmi di surat kabar nasional pada 3 November 2026 dan hasil rapat pemegang obligasi serta sukuk pada 17 November 2026, karena di sanalah arah penyelesaian utang Pos Indonesia akan ditentukan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "post-jadwalkan-rupo-rupsi-17-november-bahas-gagal-bayar-utang",
+  "category": "Aksi Korporasi",
+  "title": "POST Jadwalkan RUPO-RUPSI 17 November Bahas [Gagal Bayar] Utang",
+  "deck": "Pos Indonesia menjadwalkan rapat pemegang obligasi dan sukuk pada 17 November 2026 untuk membahas gagal bayar bunga dan imbalan ijarah yang sudah berulang kali terjadi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T02:13:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/adc682bb8a_c6501cecfa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "gagal bayar",
+   "RUPO-RUPSI"
+  ],
+  "body": [
+   "PT Pos Indonesia (Persero) atau POST akan menggelar Rapat Umum Pemegang Obligasi (RUPO) dan Rapat Umum Pemegang Sukuk Ijarah (RUPSI) secara bersamaan pada Selasa, 17 November 2026, pukul 15.30 WIB di Culture Hall, PosBloc Lantai 2, Jalan Pos No 2, Jakarta Pusat. Tiga instrumen utang dibahas sekaligus, yaitu Obligasi I Pos Indonesia Tahun 2022 Seri B, Sukuk Ijarah Berkelanjutan I Tahap I Tahun 2024 Seri A, B, dan C, serta Sukuk Ijarah Berkelanjutan I Tahap II Tahun 2025 Seri A, B, dan C. PT Bank Tabungan Negara (Persero) Tbk bertindak sebagai wali amanat untuk ketiga instrumen tersebut.",
+   "Dalam agenda rapat, perseroan akan memberikan penjelasan mengenai kondisi keuangannya dan mengakui belum memenuhi kewajiban pembayaran bunga obligasi untuk yang ke-15 kalinya, pembayaran imbalan ijarah ke-7 untuk sukuk tahap I 2024, serta cicilan imbalan ijarah ke-5 untuk sukuk tahap II 2025. Perseroan juga akan menyampaikan usulan terkait kelalaian tersebut dan rencana penyelesaian kewajibannya. Setelah mendengar penjelasan itu, para pemegang obligasi dan pemegang sukuk akan diminta menentukan sikap atau keputusan atas usulan Pos Indonesia tersebut.",
+   "Pemanggilan resmi RUPO dan RUPSI akan diumumkan melalui satu surat kabar harian berbahasa Indonesia berperedaran nasional pada Selasa, 3 November 2026, sesuai ketentuan dalam perjanjian perwaliamanatan. Surat pemberitahuan rencana rapat ini ditandatangani oleh Corporate Secretary Pos Indonesia, Iwan Gunawan."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a formal conference hall before a creditors meeting, large windows, afternoon light, Jakarta office building",
+  "takeaway": "Laporan ini negatif bagi Pos Indonesia, karena menunjukkan gagal bayarnya bukan kejadian sekali melainkan berturut-turut, yakni kegagalan membayar bunga obligasi untuk ke-15 kalinya serta imbalan ijarah dua sukuk untuk ke-7 dan ke-5 kalinya, yang berarti masalah arus kasnya sudah berlangsung lama, bukan kendala sesaat. Kegagalan berulang membayar bunga dan imbalan berarti uang kas yang masuk ke perusahaan tidak cukup menutup kewajiban utangnya tepat waktu, dan itulah yang membuat kreditur, dalam hal ini pemegang obligasi dan sukuk, kini berhak menentukan sikap sendiri lewat rapat ini, termasuk opsi meminta pelunasan dipercepat. Yang perlu dipantau berikutnya adalah pengumuman resmi panggilan rapat di koran nasional pada 3 November 2026, lalu jalannya RUPO dan RUPSI pada 17 November 2026 di Jakarta, karena keputusan pemegang obligasi dan sukuk pada hari itu akan menentukan apakah Pos Indonesia mendapat kelonggaran waktu atau justru dinyatakan lalai penuh atas kewajibannya.",
+  "sentimen": "negatif"
  },
  {
   "slug": "wifi-investasi-sukses-bersama-lepas-1-42-miliar-saham",

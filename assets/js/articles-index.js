@@ -5,6 +5,83 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "atic-entitas-direksi-tambah-26-400-saham-di-pasar",
+  "category": "Aksi Korporasi",
+  "title": "ATIC: Entitas Direksi Tambah [26.400] Saham di Pasar",
+  "deck": "PT Inti Global Resources Indonesia, entitas direksi Anabatic Technologies, membeli 26.400 saham ATIC lewat delapan transaksi pada 19 Oktober 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATIC",
+   "Anabatic Technologies",
+   "kepemilikan saham",
+   "transaksi insider"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1068-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-tambah-saham-hak-suara-ke-8-03",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman Tambah Saham, Hak Suara ke [8,03%]",
+  "deck": "Pemegang saham Sujito Ngatiman menambah 14,77 juta lembar saham DEWI pada 19 Oktober 2026, mendorong hak suaranya naik dari 7,20 persen menjadi 8,03 persen.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "laporan OJK",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6056-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptro-jawab-permintaan-bursa-soal-volatilitas-transaksi",
+  "category": "Aksi Korporasi",
+  "title": "PTRO Jawab Permintaan Bursa soal [Volatilitas] Transaksi",
+  "deck": "Petrosea menjawab permintaan penjelasan BEI, menegaskan tidak ada informasi material yang belum diungkap selain rencana rights issue yang sudah diumumkan.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTRO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3afd552301_5283cae682.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "komisaris-drma-lepas-150-000-saham-hak-suara-tetap-1-79",
+  "category": "Aksi Korporasi",
+  "title": "Komisaris DRMA Lepas [150.000] Saham, Hak Suara Tetap 1,79%",
+  "deck": "Komisaris Dharma Polimetal, Noel Aelyo Laras Kusuma Negara, menjual 150.000 saham DRMA pada 14 Oktober 2026 senilai sekitar Rp141,75 juta, namun hak suaranya tetap 1,79 persen.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-2153-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tapg-direksi-tambah-kepemilikan-1-8-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi [Tambah] Kepemilikan 1,8 Juta Saham",
+  "deck": "Direksi TAPG George Oetomo membeli 1,8 juta saham pada 16 Oktober 2026, menambah kepemilikannya menjadi 52,86 juta lembar atau 0,2662% hak suara perusahaan.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "Insider Trading",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6139-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bahlil-pusat-data-butuh-tambahan-20-gw-listrik",
   "category": "Energi",
   "title": "Bahlil: Pusat Data Butuh Tambahan [20 GW] Listrik",
@@ -35,6 +112,38 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-4053-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "post-panggil-rupo-rupsi-bahas-gagal-bayar-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "POST Panggil RUPO-RUPSI Bahas [Gagal Bayar] Obligasi dan Sukuk",
+  "deck": "Pos Indonesia akan menggelar rapat pemegang obligasi dan sukuk pada 17 November 2026 untuk membahas gagal bayar bunga dan imbalan ijarah serta usulan penyelesaiannya.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "gagal bayar",
+   "obligasi",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73e6ce0333_ede4451649.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "post-jadwalkan-rupo-rupsi-17-november-bahas-gagal-bayar-utang",
+  "category": "Aksi Korporasi",
+  "title": "POST Jadwalkan RUPO-RUPSI 17 November Bahas [Gagal Bayar] Utang",
+  "deck": "Pos Indonesia menjadwalkan rapat pemegang obligasi dan sukuk pada 17 November 2026 untuk membahas gagal bayar bunga dan imbalan ijarah yang sudah berulang kali terjadi.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "gagal bayar",
+   "RUPO-RUPSI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/adc682bb8a_c6501cecfa.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6425,118 +6534,6 @@ var ARTICLES = [
    "Roda Vivatex"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5f7a5398a1_40d03b713e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bssb-kena-sanksi-bei-telat-setor-laporan-keuangan-teraudit",
-  "category": "Aksi Korporasi",
-  "title": "BSSB Kena [Sanksi] BEI, Telat Setor Laporan Keuangan Teraudit",
-  "deck": "BEI menjatuhkan Peringatan Tertulis Pertama ke BSSB karena laporan keuangan tengah tahunan teraudit per 30 Juni 2026 belum disetor hingga lewat tenggat 30 September 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSSB",
-   "sanksi BEI",
-   "laporan keuangan",
-   "obligasi daerah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0c87181b8c_957c1bb24a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-gagal-bayar-kupon-obligasi-suspensi-berlanjut",
-  "category": "Aksi Korporasi",
-  "title": "PTPP [Gagal Bayar] Kupon Obligasi, Suspensi Berlanjut",
-  "deck": "BEI melanjutkan suspensi saham PTPP di seluruh pasar sejak 13 Oktober 2026, setelah perseroan menunda pembayaran kupon obligasi dan bagi hasil sukuk yang jatuh tempo 12 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "suspensi saham",
-   "gagal bayar obligasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/70773859fb_5c902b1736.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "daaz-catatkan-sukuk-wakalah-rp378-miliar-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "DAAZ Catatkan [Sukuk Wakalah] Rp378 Miliar di BEI",
-  "deck": "Daaz Bara Lestari resmi mencatatkan sukuk wakalah senilai Rp378,04 miliar di BEI, terbagi dua seri dengan kupon 9 dan 10,25 persen, di bawah target maksimal Rp500 miliar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DAAZ",
-   "sukuk wakalah",
-   "obligasi korporasi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/622bec09d7_9329ba9448.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "foru-tuntaskan-rights-issue-saham-beredar-ke-170-miliar",
-  "category": "Aksi Korporasi",
-  "title": "FORU Tuntaskan [Rights Issue], Saham Beredar ke 170 Miliar",
-  "deck": "BEI mencatat tambahan 230,3 juta saham FORU dari pesanan lebih rights issue, menggenapkan total saham beredar jadi 170,08 miliar lembar dari basis lama 465,22 juta.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "rights issue",
-   "pencatatan saham",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d54699ea95_8bdab79b50.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-umumkan-saham-ssms-terkonsentrasi-tinggi-capai-95-79",
-  "category": "Aksi Korporasi",
-  "title": "BEI Umumkan Saham SSMS [Terkonsentrasi] Tinggi, Capai 95,79%",
-  "deck": "BEI dan KSEI mencatat 95,79% saham SSMS dikuasai segelintir pemegang per 1 Oktober 2026, menyisakan free float sekitar 4,21%.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SSMS",
-   "free float",
-   "kepemilikan saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/deec938a1a_02a41bc7a3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tmas-95-3-saham-dikuasai-kelompok-pemegang-saham-terbatas",
-  "category": "Aksi Korporasi",
-  "title": "TMAS: [95,3%] Saham Dikuasai Kelompok Pemegang Saham Terbatas",
-  "deck": "BEI dan KSEI mengumumkan 95,30% saham Temas (TMAS) dikuasai sejumlah pemegang saham terbatas per 1 Oktober 2026, menyisakan sekitar 4,7% saham yang beredar bebas di pasar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TMAS",
-   "BEI",
-   "KSEI",
-   "konsentrasi kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/67ea6a7133_9f0f823c6c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-umumkan-kepemilikan-saham-clay-terkonsentrasi-99-89",
-  "category": "Aksi Korporasi",
-  "title": "BEI Umumkan Kepemilikan Saham CLAY [Terkonsentrasi] 99,89%",
-  "deck": "BEI dan KSEI mengumumkan 99,89% saham PT Citra Putra Realty Tbk (CLAY) dikuasai segelintir pemegang saham per 1 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CLAY",
-   "BEI",
-   "KSEI",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98101391ea_b96a6b1919.pdf",
   "sourceLabel": "IDX"
  }
 ];

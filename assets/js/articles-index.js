@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "djp-jabar-i-gandeng-kampus-bandung-tax-center-jadi-33",
+  "category": "Makroekonomi",
+  "title": "DJP Jabar I Gandeng Kampus Bandung, Tax Center Jadi [33]",
+  "deck": "Kanwil DJP Jawa Barat I menambah tax center ke-33 lewat kerja sama dengan International Women University di Bandung, namun distribusinya masih timpang antar daerah.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/djp-jabar-i-gandeng-kampus-bandung-tax-center-jadi-33.jpg",
+  "imageV": "mvgl4e0m",
+  "tags": [
+   "pajak",
+   "tax center",
+   "DJP Jawa Barat",
+   "edukasi pajak"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pajak-jabar-i-dan-international-women-university-sepakati-pembentukan-tax-center",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "pajak-kalsel-tumbuh-27-persen-tembus-rp9-93-triliun",
+  "category": "Makroekonomi",
+  "title": "Pajak Kalsel [Tumbuh] 27 Persen, Tembus Rp9,93 Triliun",
+  "deck": "Penerimaan pajak Kalimantan Selatan capai Rp9,93 triliun hingga September 2026, tumbuh 27,33 persen, bersamaan dengan mulai berlakunya pungutan PPh marketplace.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/pajak-kalsel-tumbuh-27-persen-tembus-rp9-93-triliun.jpg",
+  "imageV": "mvgl4yzd",
+  "tags": [
+   "Pajak",
+   "APBN",
+   "Kalimantan Selatan",
+   "Marketplace"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/penerimaan-pajak-kalsel-tumbuh-positif-capai-rp993-triliun-hingga-september-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
   "slug": "bbsi-laniwati-tjandra-mundur-dari-direktur-sales",
   "category": "Aksi Korporasi",
   "title": "BBSI: Laniwati Tjandra [Mundur] dari Direktur Sales",
@@ -6497,39 +6533,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/peresmian-ekspor-perdana-baterai-kendaraan-listrik-dan-groundbreaking-proyek-strategis-iwip-halmahera-tengah",
   "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "mendag-dan-menko-pangan-cek-koperasi-merah-putih-di-sukoharjo",
-  "category": "UMKM",
-  "title": "Mendag dan Menko Pangan [Cek] Koperasi Merah Putih di Sukoharjo",
-  "deck": "Mendag Budi Santoso dan Menko Pangan Zulkifli Hasan mengecek langsung operasional tiga koperasi desa di Sukoharjo, bagian dari pemantauan ke 107 KDKMP yang sudah berjalan di seluruh Indonesia.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/mendag-dan-menko-pangan-cek-koperasi-merah-putih-di-sukoharjo.jpg",
-  "imageV": "mv6j27cm",
-  "tags": [
-   "Koperasi Merah Putih",
-   "Kementerian Perdagangan",
-   "Sukoharjo",
-   "Bapok"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pantau-berjalannya-koperasi-merah-putih-di-sukoharjo-mendag-busan-dan-menko-zulhas-turun-lapangan-bersama",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bltz-bukukan-rugi-rp14-7-miliar-di-kuartal-ii-2026",
-  "category": "Aksi Korporasi",
-  "title": "BLTZ Bukukan [Rugi] Rp14,7 Miliar di Kuartal II 2026",
-  "deck": "Materi paparan publik insidentil BLTZ menunjukkan pendapatan turun 16,6 persen dan laba bersih berbalik jadi rugi Rp14,7 miliar pada kuartal II 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLTZ",
-   "CGV",
-   "paparan publik",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcdbf98de5_c96136098b.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "t54oZMOVDUI",
+  "title": "Presiden Prabowo Subianto Gelar Ratas Ekonomi di Istana",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto memimpin rapat terbatas membahas kondisi ekonomi nasional di Istana Negara, dihadiri sejumlah pejabat terkait.",
+  "takeaway": "Rapat ini penting diikuti karena memberi gambaran arah kebijakan ekonomi pemerintah ke depan.",
+  "terbit": "2026-10-20T10:27:32+00:00"
+ },
+ {
+  "id": "btc-ll1jjAM",
+  "title": "Suku Bunga The Fed Diprediksi Naik, Bagaimana Nasib Rupiah",
+  "category": "Moneter",
+  "program": "OneNews Update",
+  "summary": "Rencana kenaikan suku bunga The Fed diperkirakan menekan nilai tukar rupiah pada perdagangan Selasa, di tengah ketidakpastian kebijakan moneter global.",
+  "takeaway": "Pergerakan suku bunga AS berpengaruh langsung pada nilai tukar rupiah dan arus modal di pasar keuangan domestik.",
+  "terbit": "2026-10-20T10:00:26+00:00"
+ },
+ {
   "id": "6UNZDM2btuo",
   "title": "BEI Pangkas Batas ARB Saham Jadi 7 Persen",
   "category": "Pasar Modal",

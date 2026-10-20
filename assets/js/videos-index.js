@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "t54oZMOVDUI",
+  "title": "Presiden Prabowo Subianto Gelar Ratas Ekonomi di Istana",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto memimpin rapat terbatas membahas kondisi ekonomi nasional di Istana Negara, dihadiri sejumlah pejabat terkait.",
+  "takeaway": "Rapat ini penting diikuti karena memberi gambaran arah kebijakan ekonomi pemerintah ke depan."
+ },
+ {
+  "id": "btc-ll1jjAM",
+  "title": "Suku Bunga The Fed Diprediksi Naik, Bagaimana Nasib Rupiah",
+  "category": "Moneter",
+  "program": "OneNews Update",
+  "summary": "Rencana kenaikan suku bunga The Fed diperkirakan menekan nilai tukar rupiah pada perdagangan Selasa, di tengah ketidakpastian kebijakan moneter global.",
+  "takeaway": "Pergerakan suku bunga AS berpengaruh langsung pada nilai tukar rupiah dan arus modal di pasar keuangan domestik."
+ },
+ {
   "id": "6UNZDM2btuo",
   "title": "BEI Pangkas Batas ARB Saham Jadi 7 Persen",
   "category": "Pasar Modal",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Apindo menilai produktivitas tenaga kerja Indonesia masih rendah, di tengah usulan perpanjangan jam kerja menjadi 45 jam per minggu.",
   "takeaway": "Menyentuh isu daya saing tenaga kerja nasional yang berkaitan langsung dengan kebijakan jam kerja."
- },
- {
-  "id": "E1axrH4bYzw",
-  "title": "Said Iqbal: Jangan Pecat Karyawan Seenaknya",
-  "category": "Ketenagakerjaan",
-  "program": "Indonesia Business Forum",
-  "summary": "Presiden Partai Buruh Said Iqbal menegaskan perusahaan tidak boleh sembarangan memberhentikan karyawan, di tengah pembahasan UU Pelindungan Ketenagakerjaan.",
-  "takeaway": "Relevan karena menyangkut perlindungan hak pekerja dalam aturan ketenagakerjaan yang baru disahkan."
- },
- {
-  "id": "BTryjI2wvuk",
-  "title": "Mengungkap Masalah di Anak Perusahaan BUMN",
-  "category": "BUMN",
-  "program": "Indonesia Business Forum",
-  "summary": "Diskusi mengangkat sejumlah persoalan yang membebani kinerja anak perusahaan BUMN, di tengah pembahasan regulasi ketenagakerjaan terbaru.",
-  "takeaway": "Penting bagi pembaca yang mengikuti tata kelola dan kesehatan bisnis perusahaan pelat merah."
  }
 ];

@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "djp-jabar-i-gandeng-kampus-bandung-tax-center-jadi-33",
+  "category": "Makroekonomi",
+  "title": "DJP Jabar I Gandeng Kampus Bandung, Tax Center Jadi [33]",
+  "deck": "Kanwil DJP Jawa Barat I menambah tax center ke-33 lewat kerja sama dengan International Women University di Bandung, namun distribusinya masih timpang antar daerah.",
+  "image": "assets/img/djp-jabar-i-gandeng-kampus-bandung-tax-center-jadi-33.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T11:06:57.446Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pajak-jabar-i-dan-international-women-university-sepakati-pembentukan-tax-center",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "pajak",
+   "tax center",
+   "DJP Jawa Barat",
+   "edukasi pajak"
+  ],
+  "body": [
+   "Kantor Wilayah Direktorat Jenderal Pajak (Kanwil DJP) Jawa Barat I menandatangani kerja sama pembentukan tax center dengan International Women University (IWU) di Bandung pada 16 Oktober 2026. Dengan kerja sama ini, jumlah kampus yang menjadi mitra tax center Kanwil DJP Jawa Barat I bertambah menjadi 33. Tax center berfungsi sebagai perpanjangan tangan DJP di lingkungan kampus, tempat mahasiswa dan masyarakat sekitar bisa belajar soal hak dan kewajiban pajak secara langsung.",
+   "Dari 33 tax center yang sudah terbentuk, sebagian besar yakni 23 kampus berada di kawasan Bandung Raya. Sisanya tersebar tipis di luar kota besar: tiga di Purwakarta, dua di Sukabumi, serta masing-masing satu di Ciamis, Banjar, Cianjur, Tasikmalaya, dan Garut. Artinya lebih dari dua pertiga mitra kampus DJP masih terpusat di satu kawasan, sementara delapan kabupaten/kota lain di wilayah kerja Kanwil Jawa Barat I baru punya satu tax center atau belum sama sekali.",
+   "Menurut Kanwil DJP Jawa Barat I, tax center berperan sebagai pusat edukasi dan informasi perpajakan di kampus, sekaligus mitra dalam pemberdayaan masyarakat dan pendukung layanan pajak. Lewat kerja sama ini, mahasiswa IWU diharapkan bisa membantu menyebarkan pemahaman soal kewajiban pajak ke lingkungan sekitar kampus.",
+   "Kanwil DJP Jawa Barat I menyatakan masih ingin merangkul lebih banyak perguruan tinggi di wilayah kerjanya untuk membentuk tax center baru. Namun sejauh ini sebaran yang ada menunjukkan ekspansi program ini masih condong ke kota besar ketimbang menjangkau rata ke seluruh kabupaten di Jawa Barat I."
+  ],
+  "fotoAdegan": "University students and a tax officer talking at an outdoor campus table in Bandung, pamphlets blurred, morning light",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah di sini sebatas penambahan satu mitra kampus, bukan aturan atau tenggat pajak baru. Yang lebih bisa dibaca dari data ini justru sebarannya: dari 33 tax center binaan Kanwil DJP Jawa Barat I, 23 di antaranya menumpuk di Bandung Raya, sementara enam daerah lain seperti Ciamis, Banjar, Cianjur, Tasikmalaya, dan Garut masing-masing baru punya satu. Pihak yang kena dampak langsung adalah mahasiswa dan warga sekitar kampus yang jadi sasaran edukasi pajak, bukan pembayar pajak secara umum. Arahnya terlihat condong ke penambahan mitra di kota besar yang sudah padat kampus, ketimbang pemerataan ke daerah yang pesertanya masih minim. Yang akan menguji benar atau tidaknya pembacaan ini adalah apakah penambahan tax center berikutnya justru muncul di luar Bandung Raya, bukan menumpuk lagi di kota yang sama.",
+  "imageV": "mvgl4e0m"
+ },
+ {
+  "slug": "pajak-kalsel-tumbuh-27-persen-tembus-rp9-93-triliun",
+  "category": "Makroekonomi",
+  "title": "Pajak Kalsel [Tumbuh] 27 Persen, Tembus Rp9,93 Triliun",
+  "deck": "Penerimaan pajak Kalimantan Selatan capai Rp9,93 triliun hingga September 2026, tumbuh 27,33 persen, bersamaan dengan mulai berlakunya pungutan PPh marketplace.",
+  "image": "assets/img/pajak-kalsel-tumbuh-27-persen-tembus-rp9-93-triliun.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T11:06:56.945Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/penerimaan-pajak-kalsel-tumbuh-positif-capai-rp993-triliun-hingga-september-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "Pajak",
+   "APBN",
+   "Kalimantan Selatan",
+   "Marketplace"
+  ],
+  "body": [
+   "Kantor Wilayah Direktorat Jenderal Pajak Kalimantan Selatan dan Tengah (Kanwil DJP Kalselteng) mencatat penerimaan pajak di Provinsi Kalimantan Selatan mencapai Rp9,93 triliun hingga akhir September 2026. Realisasi ini setara 65,49 persen dari target APBN 2026 sebesar Rp15,16 triliun, dan tumbuh 27,33 persen dibanding periode yang sama tahun lalu. Bagi pembaca, angka ini jadi penanda apakah penerimaan negara dari daerah tetap tumbuh di tengah tahun anggaran berjalan, yang berpengaruh pada kapasitas belanja pemerintah di wilayah tersebut.",
+   "Secara gabungan, penerimaan pajak di wilayah kerja Kanwil DJP Kalselteng yang mencakup Kalimantan Selatan dan Kalimantan Tengah mencapai Rp16,63 triliun, atau 65,54 persen dari target Rp25,37 triliun, tumbuh 26,24 persen. Di tingkat Kalimantan secara keseluruhan, total penerimaan pajak tercatat Rp40,29 triliun atau 61,69 persen dari target Rp65,31 triliun, menyumbang 2,86 persen terhadap penerimaan pajak nasional yang mencapai Rp1.406,43 triliun. Di antara unit pelayanan pajak di Kalimantan Selatan, KPP Madya Banjarmasin mencatat realisasi tertinggi sebesar Rp6,91 triliun atau 70,34 persen dari target, dengan pertumbuhan 38,87 persen, menjadikannya penyumbang terbesar penerimaan pajak di provinsi ini.",
+   "Dalam kesempatan yang sama, Kanwil DJP Kalselteng menyampaikan mulai berlakunya Peraturan Menteri Keuangan Nomor 37 Tahun 2025 tentang pemungutan Pajak Penghasilan (PPh) Pasal 22 oleh penyelenggara marketplace, efektif 1 Oktober 2026. Aturan ini mewajibkan marketplace yang ditunjuk pemerintah memungut PPh Pasal 22 sebesar 0,5 persen dari omzet pedagang dalam negeri yang berjualan di platform tersebut. Pedagang orang pribadi dengan omzet tidak lebih dari Rp500 juta setahun dikecualikan dari pemungutan ini, dan bagi pedagang yang memakai tarif umum, PPh yang telah dipungut bisa diperhitungkan sebagai kredit pajak.",
+   "Kanwil DJP Kalselteng juga menyoroti Peraturan Menteri Keuangan Nomor 71 Tahun 2026, perubahan atas PMK Nomor 118 Tahun 2024 tentang tata cara pembetulan, keberatan, pengurangan, penghapusan, dan pembatalan di bidang perpajakan. Salah satu perubahannya mengatur bahwa pembayaran utang pajak akan diperhitungkan lebih dulu untuk melunasi pokok utang, sebelum dialokasikan ke sanksi administratif."
+  ],
+  "fotoAdegan": "Riverside market stalls along a Banjarmasin canal with traders arranging goods and small boats docked nearby, midday light",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2026-10/DSC05962.JPG?itok=hIdt77xe",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang benar-benar baru di sini bukan angka pertumbuhan pajak, melainkan mulai jalannya pemungutan PPh Pasal 22 lewat marketplace per 1 Oktober 2026, sebesar 0,5 persen dari omzet pedagang online. Yang terdampak langsung adalah pedagang di platform daring dengan omzet di atas Rp500 juta setahun, karena di bawah angka itu mereka dikecualikan, sementara pedagang kecil yang omzetnya pas-pasan di sekitar ambang itu perlu mencermati batas tersebut. Aturan ini melanjutkan pola yang sudah berjalan beberapa tahun, pemerintah makin mengandalkan platform digital sebagai pemungut pajak ketimbang menagih langsung ke tiap pedagang, karena lebih mudah diawasi lewat satu titik. Yang akan menunjukkan apakah cara ini berjalan efektif adalah data kepatuhan dan penerimaan dari sektor e-commerce pada laporan realisasi pajak kuartal berikutnya, setelah aturan ini berjalan penuh satu bulan.",
+  "imageV": "mvgl4yzd"
+ },
+ {
   "slug": "bbsi-laniwati-tjandra-mundur-dari-direktur-sales",
   "category": "Aksi Korporasi",
   "title": "BBSI: Laniwati Tjandra [Mundur] dari Direktur Sales",

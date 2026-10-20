@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jeli-klaim-tak-ada-info-material-di-balik-penurunan-harga-saham",
+  "category": "Aksi Korporasi",
+  "title": "JELI Klaim Tak Ada Info Material di Balik [Penurunan] Harga Saham",
+  "deck": "JELI menyatakan tidak ada informasi material di balik penurunan harga dan lonjakan transaksi sahamnya pada 8-15 Oktober 2026, usai diminta penjelasan oleh BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T18:54:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2243bd072_bf6badcdfc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JELI",
+  "tags": [
+   "JELI",
+   "Niramas Utama",
+   "keterbukaan informasi",
+   "volatilitas saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia melalui surat nomor S-13714/BEI.PP1/10-2026 tertanggal 16 Oktober 2026 meminta PT Niramas Utama Tbk (JELI) menjelaskan penurunan harga dan aktivitas perdagangan sahamnya selama periode 8 hingga 15 Oktober 2026. Perusahaan menjawab lewat surat bernomor 052/NU-CORSEC/SPn/X/2026 tertanggal 20 Oktober 2026, ditandatangani Direktur Adhi Siswaya Lukman.",
+   "Dalam surat itu, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik berdasarkan aturan OJK soal keterbukaan informasi maupun ketentuan Bursa soal pergerakan harga saham, selain yang sudah pernah diumumkan ke publik. Perusahaan juga mengaku telah mengonfirmasi langsung kepada pemegang saham utama dan pengendali, dan dari konfirmasi tersebut tidak ada aktivitas atau rencana transaksi kepemilikan saham yang perlu diungkapkan lebih lanjut.",
+   "Manajemen menambahkan, hingga tanggal surat ini terbit, Perseroan tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang dapat memengaruhi status pencatatan sahamnya di bursa, serta tidak ada fakta material lain yang belum diungkapkan dan dapat memengaruhi harga saham atau kelangsungan usaha perseroan. Korespondensi ini ditangani Corporate Secretary Felicia Novianti Lukman."
+  ],
+  "fotoAdegan": "Workers packing small cups of jelly and nata de coco snacks on a factory conveyor belt, bright industrial lighting, blurred product labels",
+  "takeaway": "Laporan ini cenderung netral karena isinya hanya bantahan standar tanpa fakta baru yang mengubah prospek bisnis JELI, meski tetap mengonfirmasi bahwa harga sahamnya memang anjlok tajam dalam sepekan hingga ditegur bursa. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh di sini, sebab dokumen ini murni soal pergerakan harga dan transaksi saham di pasar, bukan soal kondisi keuangan perusahaan, jadi penurunan harga ini sebaiknya tidak dibaca sebagai sinyal soal kinerja usaha jelly dan nata de coco milik perseroan. Yang perlu dicermati selanjutnya adalah apakah muncul laporan kepemilikan saham baru dari pemegang saham utama atau pengendali dalam waktu dekat, mengingat perusahaan mengaku sudah mengonfirmasi ke mereka ihwal aktivitas pemegang saham tertentu. Jika harga saham JELI terus bergejolak dalam beberapa pekan ke depan, bursa biasanya akan kembali meminta penjelasan serupa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hsbc-kuasai-5-79-saham-apex-lewat-refinancing-utang",
+  "category": "Aksi Korporasi",
+  "title": "HSBC Kuasai 5,79% Saham APEX Lewat [Refinancing] Utang",
+  "deck": "HSBC Holdings Plc kini memegang 218,09 juta saham APEX (5,79% hak suara) lewat skema repurchase agreement untuk refinancing utang, naik dari nol.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T18:40:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1102-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "HSBC",
+   "kepemilikan saham",
+   "refinancing utang"
+  ],
+  "body": [
+   "HSBC Holdings Plc melaporkan kepada Otoritas Jasa Keuangan (OJK) bahwa mereka kini memegang 218.090.317 saham Apexindo Pratama Duta Tbk (APEX), setara 5,79 persen hak suara di perusahaan pengeboran minyak dan gas tersebut. Sebelum transaksi ini, HSBC Holdings Plc tidak memiliki saham APEX sama sekali, sehingga seluruh kepemilikan itu adalah tambahan baru. Laporan bernomor LK/20102026/0027/1 ini disampaikan ke OJK pada 20 Oktober 2026.",
+   "Berdasarkan dokumen, jenis transaksinya adalah perjanjian jual-beli kembali (repurchase agreement) yang terjadi pada 19 Oktober 2026 dengan harga Rp325 per saham. Kepemilikan tersebut tercatat tidak langsung, dipegang melalui dua entitas Grup HSBC yaitu HSBC Bank plc (HCIB) dan The Hongkong and Shanghai Banking Corporation Limited (HBAP). Dokumen menyebut tujuan transaksi ini adalah refinancing utang atau pembiayaan ulang utang perusahaan.",
+   "Transaksi ini berkaitan dengan penerbitan 218 juta saham baru APEX yang sebelumnya sudah tercatat di Bursa Efek Indonesia dan menyebabkan dilusi sekitar 6,15 persen bagi pemegang saham lama. Laporan HSBC ini melengkapi informasi tersebut dengan mengonfirmasi siapa pihak yang menerima saham baru itu, yakni Grup HSBC, serta harga dan tujuan penerbitannya."
+  ],
+  "fotoAdegan": "An offshore oil drilling rig anchored at sea with support vessels alongside, overcast tropical sky, distant coastline",
+  "takeaway": "Laporan ini netral bagi fundamental APEX, karena kemunculan HSBC sebagai pemegang 5,79 persen saham baru adalah konsekuensi dari penerbitan 218 juta saham yang sudah dilaporkan sebelumnya, bukan sinyal keyakinan atau keraguan investor baru terhadap bisnis APEX. Yang tersentuh adalah jumlah saham beredar, yang bertambah sehingga laba per saham bisa terdilusi, sementara di sisi lain skema ini dipakai untuk membiayai ulang utang perusahaan sehingga beban bunga berpotensi berkurang. Perlu dicatat, jenis transaksinya adalah perjanjian jual-beli kembali atau repo, yang berarti saham ini kemungkinan menjadi jaminan sementara dan bisa ditarik kembali APEX di kemudian hari, bukan kepemilikan permanen HSBC. Yang perlu dipantau berikutnya adalah apakah APEX mengumumkan detail lebih lanjut soal jangka waktu dan syarat perjanjian repo ini, termasuk kapan saham tersebut jatuh tempo atau ditebus kembali.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dmas-bagikan-dividen-interim-rp29-saham-total-rp1-4-triliun",
+  "category": "Aksi Korporasi",
+  "title": "DMAS Bagikan [Dividen] Interim Rp29/Saham, Total Rp1,4 Triliun",
+  "deck": "Puradelta Lestari (DMAS) membagikan dividen tunai interim Rp29 per saham senilai Rp1,4 triliun, dibayar 13 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T18:25:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/09e9313a44_8860d5305a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMAS",
+  "tags": [
+   "DMAS",
+   "dividen interim",
+   "Puradelta Lestari",
+   "pasar modal"
+  ],
+  "body": [
+   "Direksi PT Puradelta Lestari Tbk (DMAS) pada 19 Oktober 2026 memutuskan membagikan dividen tunai interim untuk tahun buku yang berakhir 31 Desember 2026. Total dividen yang dibagikan senilai Rp1.397.745.221.900, atau setara Rp1,4 triliun, dengan nilai Rp29 per saham. Keputusan ini telah mendapat persetujuan Dewan Komisaris Perseroan. Laporan ditandatangani oleh Corporate Secretary Tondy Suwanto.",
+   "Perseroan menetapkan jadwal rinci pembagian dividen ini. Cum dividen, yaitu batas terakhir pembelian saham agar masih berhak atas dividen, jatuh pada 28 Oktober 2026 di pasar reguler dan negosiasi, serta 30 Oktober 2026 di pasar tunai. Setelah itu berlaku ex dividen pada 29 Oktober 2026 untuk pasar reguler dan negosiasi, dan 2 November 2026 untuk pasar tunai. Pemegang saham yang namanya tercatat dalam daftar pemegang saham (recording date) pada 30 Oktober 2026 pukul 16.00 WIB adalah yang berhak menerima dividen ini, yang akan dibayarkan pada 13 November 2026.",
+   "Pembagian dividen ini didasarkan pada data keuangan per 30 September 2026, saat laba bersih yang diatribusikan kepada entitas induk mencapai Rp1.490.970.456.065 atau sekitar Rp1,49 triliun. Saldo laba ditahan yang tidak dibatasi penggunaannya tercatat Rp2.085.023.200.494, sementara total ekuitas perusahaan mencapai Rp5.850.309.407.796. Dengan dividen senilai Rp1.397.745.221.900, Perseroan membagikan sekitar 94 persen dari laba bersih sembilan bulan tersebut kepada pemegang saham.",
+   "Bagi pemegang saham yang sahamnya tercatat dalam penitipan kolektif KSEI, dividen akan disalurkan otomatis melalui perusahaan efek atau bank kustodian pada tanggal pembayaran. Sementara pemegang saham warkat yang sahamnya tidak berada dalam penitipan kolektif harus melaporkan nama bank dan nomor rekening secara tertulis kepada Corporate Secretary selambat-lambatnya tiga hari kerja sebelum tanggal pembayaran dividen."
+  ],
+  "fotoAdegan": "Rows of modern warehouses and factory buildings along a wide road inside an industrial estate under an overcast sky",
+  "takeaway": "Laporan ini condong positif bagi emiten, karena dividen Rp1,4 triliun ini ditopang laba bersih sembilan bulan sebesar Rp1,49 triliun, tanda perusahaan masih menghasilkan kas yang cukup meski porsi yang dibagikan mendekati seluruh laba yang diperoleh tahun ini. Pos yang tersentuh adalah ekuitas, yakni dana milik pemegang saham yang selama ini mengendap di perusahaan untuk membiayai operasional dan ekspansi, yang setelah dividen ini dibayarkan akan berkurang sekitar seperempatnya dari Rp5,85 triliun menjadi sekitar Rp4,45 triliun, sehingga ruang perusahaan membiayai proyek baru tanpa tambahan utang ikut menyempit. Yang perlu dipantau pemegang saham adalah batas recording date pada 30 Oktober 2026 pukul 16.00 WIB sebagai penentu siapa yang berhak menerima dividen, serta tanggal pembayaran pada 13 November 2026 sebagai kepastian cairnya dana tersebut.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "djp-jabar-i-gandeng-kampus-bandung-tax-center-jadi-33",
   "category": "Makroekonomi",
   "title": "DJP Jabar I Gandeng Kampus Bandung, Tax Center Jadi [33]",
@@ -57,6 +136,136 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "takeaway": "Yang benar-benar baru di sini bukan angka pertumbuhan pajak, melainkan mulai jalannya pemungutan PPh Pasal 22 lewat marketplace per 1 Oktober 2026, sebesar 0,5 persen dari omzet pedagang online. Yang terdampak langsung adalah pedagang di platform daring dengan omzet di atas Rp500 juta setahun, karena di bawah angka itu mereka dikecualikan, sementara pedagang kecil yang omzetnya pas-pasan di sekitar ambang itu perlu mencermati batas tersebut. Aturan ini melanjutkan pola yang sudah berjalan beberapa tahun, pemerintah makin mengandalkan platform digital sebagai pemungut pajak ketimbang menagih langsung ke tiap pedagang, karena lebih mudah diawasi lewat satu titik. Yang akan menunjukkan apakah cara ini berjalan efektif adalah data kepatuhan dan penerimaan dari sektor e-commerce pada laporan realisasi pajak kuartal berikutnya, setelah aturan ini berjalan penuh satu bulan.",
   "imageV": "mvgl4yzd"
+ },
+ {
+  "slug": "axio-bagikan-dividen-interim-rp8-per-saham-total-rp46-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AXIO bagikan [dividen] interim Rp8 per saham, total Rp46,7 miliar",
+  "deck": "Tera Data Indonusa (AXIO) menetapkan dividen interim tahun buku 2026 sebesar Rp46,72 miliar atau Rp8 per saham, dibayar 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T18:02:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b5e5843035_3fcef34132.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AXIO",
+  "tags": [
+   "AXIO",
+   "dividen interim",
+   "Tera Data Indonusa",
+   "BEI"
+  ],
+  "body": [
+   "PT Tera Data Indonusa Tbk (AXIO) menetapkan pembagian dividen tunai interim untuk tahun buku yang berakhir 30 September 2026. Keputusan ini diambil Direksi dan disetujui Dewan Komisaris pada 16 Oktober 2026, ditandatangani oleh Direktur Utama Michael Sugiarto. Total dividen yang dibagikan sebesar Rp46.721.012.000, atau setara Rp8 per saham.",
+   "Jadwalnya, saham AXIO masih bisa dibeli dengan hak dividen (cum dividen) di pasar reguler dan negosiasi sampai 28 Oktober 2026, lalu berubah status tanpa hak dividen (ex dividen) mulai 29 Oktober 2026. Di pasar tunai, batas cum dividen adalah 30 Oktober 2026 dan ex dividen mulai 2 November 2026. Tanggal pencatatan pemegang saham yang berhak atas dividen (recording date) jatuh pada 30 Oktober 2026 pukul 16.00 WIB, dan pembayaran dijadwalkan pada 19 November 2026. Pemegang saham yang sahamnya tidak dititipkan secara kolektif di KSEI wajib melaporkan nomor rekening bank ke biro administrasi efek, PT Adimitra Jasa Korpora, sebelum tenggat pencatatan tersebut agar dividen bisa langsung ditransfer.",
+   "Dasar keuangan pembagian dividen ini mengacu pada laporan per 30 September 2026, di mana laba bersih yang menjadi bagian pemegang saham induk tercatat Rp61,03 miliar. Saldo laba ditahan yang tidak dibatasi penggunaannya, yakni bagian keuntungan tahun-tahun sebelumnya yang masih bebas dipakai perusahaan, tercatat Rp206,12 miliar, sementara total ekuitas perusahaan Rp574,13 miliar. Dokumen juga menyebutkan dividen interim ini dikecualikan dari pajak bagi pemegang saham badan dalam negeri, serta bagi pemegang saham perorangan dalam negeri sepanjang dividennya diinvestasikan kembali di Indonesia, sedangkan pemegang saham asing dikenakan pajak sesuai tarif perjanjian penghindaran pajak berganda atau 20 persen jika dokumen pendukungnya tidak dilengkapi."
+  ],
+  "fotoAdegan": "Workers assembling laptop computers on an electronics factory line, close-up on circuit boards, bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi AXIO, karena dividen interim Rp8 per saham setara sekitar 77 persen dari laba bersih periode Januari-September 2026, yang menunjukkan perusahaan cukup percaya diri membagi hasil usahanya ke pemegang saham di tengah tahun buku. Yang tersentuh dari langkah ini adalah ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, yang akan berkurang sekitar Rp46,7 miliar begitu dividen dibayarkan, serta arus kas, uang tunai yang benar-benar keluar dari kas perusahaan pada tanggal pembayaran. Saldo laba ditahan yang bebas dipakai, yakni cadangan keuntungan tahun-tahun lalu yang belum dibelanjakan, juga akan tersunat sekitar seperlima dari Rp206,12 miliar yang tercatat saat ini. Yang perlu dipantau pemegang saham adalah tanggal pencatatan 30 Oktober 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen ini, serta tanggal pembayaran pada 19 November 2026 sebagai batas realisasinya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "axio-rinci-jadwal-dividen-interim-rp8-saham-cair-19-nov",
+  "category": "Aksi Korporasi",
+  "title": "AXIO rinci [jadwal] dividen interim Rp8/saham, cair 19 Nov",
+  "deck": "Tera Data Indonusa (AXIO) menetapkan dividen interim Rp46,7 miliar atau Rp8 per saham, dengan tanggal pencatatan 30 Oktober dan pembayaran 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T18:01:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/89f436e721_2976278448.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AXIO",
+  "tags": [
+   "AXIO",
+   "dividen interim",
+   "Tera Data Indonusa",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Tera Data Indonusa Tbk (AXIO) memutuskan membagikan dividen interim untuk tahun buku per 30 September 2026 sebesar Rp46.721.012.000, atau Rp8 per saham. Keputusan ini tertuang dalam surat keputusan Direksi nomor 0003/CRSC/AXIO/X/2026 tanggal 16 Oktober 2026 yang telah disetujui Dewan Komisaris, setelah penelaahan terbatas atas laporan keuangan interim kuartal ketiga 2026 menunjukkan perusahaan membukukan laba positif.",
+   "Perseroan merinci jadwal perdagangan terkait dividen ini. Di pasar reguler dan negosiasi, status cum dividen berlaku sampai 28 Oktober 2026 dan menjadi ex dividen pada 29 Oktober 2026. Di pasar tunai, cum dividen berlaku sampai 30 Oktober 2026 dan ex dividen mulai 2 November 2026. Tanggal pencatatan pemegang saham yang berhak menerima dividen (recording date) ditetapkan 30 Oktober 2026, sementara pembayarannya dijadwalkan pada 19 November 2026.",
+   "Surat keputusan ditandatangani Direktur Utama Michael Sugiarto bersama Direktur Luhur Budiman, yang juga menjabat corporate secretary perseroan, serta Direktur Alex. Dewan Komisaris yang menyetujui keputusan ini antara lain Komisaris Jessica Hartono dan Komisaris Independen Alpino Kianjaya. Perseroan menyatakan pembagian dividen interim ini tidak berdampak material terhadap kegiatan operasional, hukum, atau kelangsungan usahanya, dan akan diperhitungkan kembali dalam penetapan penggunaan laba tahun buku per 30 September 2026."
+  ],
+  "fotoAdegan": "Warehouse workers stacking unlabeled cardboard boxes of computer hardware onto pallets, forklift nearby, fluorescent lighting",
+  "takeaway": "Laporan ini condong positif bagi AXIO, karena direksi memilih membagikan sebagian laba secara tunai kepada pemegang saham tanpa menunggu rapat tahunan, tanda manajemen cukup percaya diri dengan laba yang terkumpul sampai September 2026. Yang tersentuh adalah kas dan ekuitas perusahaan: begitu dibayarkan, kas AXIO berkurang Rp46,7 miliar dan bagian laba ditahan di ekuitas ikut terpangkas sebesar itu, karena uang tersebut keluar dari kas perusahaan ke kantong pemegang saham, bukan dipakai untuk belanja usaha atau membayar utang. Dua tanggal dari dokumen ini perlu dicatat pemegang saham: 30 Oktober 2026 sebagai batas pencatatan siapa yang berhak menerima dividen, dan 19 November 2026 sebagai tanggal pembayaran aktualnya. Dokumen ini juga menyebut bahwa dividen interim tersebut baru akan diperhitungkan ulang saat penetapan penggunaan laba tahun buku penuh, sehingga keputusan final soal laba tahun ini masih menyusul.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "rlco-direksi-lanjut-lepas-saham-via-repo-hak-suara-4-37",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Lanjut Lepas Saham via [Repo], Hak Suara 4,37%",
+  "deck": "Direksi RLCO kembali mencairkan saham lewat mekanisme repo pada 20 Oktober, melanjutkan tren penurunan hak suara dua hari beruntun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T17:45:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1344-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "direksi",
+   "repo",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Samuel Sekuritas Indonesia, yang menjabat sebagai direksi PT Abadi Lestari Indonesia Tbk (RLCO), melaporkan perubahan kepemilikan saham ke Otoritas Jasa Keuangan pada 20 Oktober 2026. Jumlah saham yang dipegangnya turun dari 142.995.200 lembar menjadi 136.523.800 lembar, atau berkurang 6.471.400 lembar. Hak suaranya di perusahaan ikut turun dari 4,58 persen menjadi 4,37 persen.",
+   "Perubahan ini berasal dari dua transaksi dengan skema repurchase agreement atau repo, yaitu transaksi jual saham dengan janji dibeli kembali yang biasa dipakai sebagai jaminan untuk mendapat dana tunai sementara. Pada 20 Oktober, direksi menjual 28.576.600 lembar saham biasa seharga Rp4.430 per lembar dengan tujuan tercatat sebagai pencairan repo, yakni melepas saham yang sebelumnya dijadikan jaminan. Di hari yang sama, dia juga membeli kembali 22.105.200 lembar seharga Rp3.060 per lembar dengan tujuan top up repo, yaitu menambah jumlah saham jaminan. Selisih antara penjualan dan pembelian itulah yang membuat kepemilikannya bersih berkurang 6.471.400 lembar.",
+   "Laporan ini menyambung laporan sehari sebelumnya, 19 Oktober 2026, ketika direksi yang sama melepas 21,89 persen dari kepemilikannya dan hak suaranya turun dari 5,86 persen ke 4,58 persen. Dengan laporan hari ini, hak suara direksi tersebut sudah turun dua hari berturut turut, dari 5,86 persen menjadi 4,37 persen."
+  ],
+  "fotoAdegan": "Close-up of a hand signing paperwork at a securities brokerage desk, stacks of folders and a calculator nearby, soft office lighting",
+  "takeaway": "Laporan ini condong negatif bagi RLCO karena melanjutkan tren penurunan hak suara direksi dua hari beruntun, dari 5,86 persen pada 19 Oktober menjadi 4,37 persen hari ini, meski penurunan kali ini mengecil dibanding sehari sebelumnya. Pos yang tersentuh adalah hak suara, yaitu porsi kendali seseorang atas keputusan di rapat pemegang saham, bukan jumlah saham beredar perusahaan secara keseluruhan karena transaksi ini hanya memindahkan kepemilikan antarpihak lewat mekanisme gadai saham. Pelaku pasar memperhatikan hak suara karena penurunannya bisa berarti direksi berkurang kepentingannya untuk mempertahankan arah strategi perusahaan. Yang perlu dipantau berikutnya adalah apakah pencairan repo oleh direksi ini masih berlanjut pada hari hari mendatang, karena pola dua laporan berturut turut mengindikasikan proses pelepasan jaminan yang belum tuntas.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "toba-alihkan-saham-anak-usaha-s-138-2-juta-transaksi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Alihkan Saham Anak Usaha S$138,2 Juta, Transaksi [Afiliasi]",
+  "deck": "PT TBS Energi Utama Tbk merestrukturisasi kepemilikan anak usahanya di Singapura lewat transaksi afiliasi senilai S$138,2 juta, dibayar tanpa uang tunai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T17:42:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/778607c510_956da9ccc7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "transaksi afiliasi",
+   "restrukturisasi anak usaha",
+   "transaksi material"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) mengumumkan restrukturisasi atas anak-anak usahanya di Singapura. Berdasarkan Perjanjian Pemesanan Saham Omnibus tanggal 16 Oktober 2026, PT Solusi Bersih TBS (PT SBT), anak usaha yang 100 persen dimiliki TOBA, mengalihkan 107.605.088 saham biasa miliknya di SBT Invest Pte Ltd secara berjenjang kepada tiga entitas lain di Singapura, yaitu SBTI Holdings, SBTH Asia Holdings, dan SBTG Group. Nilai transaksi ini sebesar S$138.196.800 dan seluruhnya dibayar tanpa uang tunai, melainkan dengan saham SBT Invest itu sendiri sebagai alat bayar.",
+   "Mekanismenya dilakukan dalam tiga tahap yang diselesaikan bersamaan pada 16 Oktober 2026. Tahap pertama, SBTI menerbitkan 138.196.800 saham baru untuk PT SBT, dibayar dengan pengalihan saham SBT Invest. Tahap kedua, SBTH menerbitkan jumlah saham baru yang sama untuk SBTI dengan cara pembayaran serupa. Tahap ketiga, SBTG menerbitkan saham baru untuk SBTH, juga dibayar dengan saham SBT Invest yang sama. Hasil akhirnya, SBTG kini menjadi pemegang saham langsung 100 persen di SBT Invest, sementara PT SBT tetap menguasai SBT Invest tapi secara tidak langsung lewat rantai SBTI dan SBTH.",
+   "Perseroan menyatakan transaksi ini tergolong transaksi material dan transaksi afiliasi menurut aturan OJK, tetapi dikecualikan dari kewajiban memperoleh pendapat kewajaran penilai maupun persetujuan RUPS karena dilakukan antar perusahaan yang sahamnya dikuasai minimal 99 persen oleh TOBA. Transaksi ini juga dinyatakan bukan transaksi benturan kepentingan karena tidak ada perbedaan kepentingan ekonomis antara perseroan dan pihak-pihak terkait. Tujuannya disebut sebagai reorganisasi struktur perusahaan untuk kelancaran proses bisnis grup, dan perseroan menegaskan tidak ada dampak material terhadap kondisi keuangannya. Dokumen juga menyebut bahwa per tanggal laporan ini, struktur permodalan SBTI, SBTH, SBTG, dan SBT Invest sudah berubah lagi akibat penambahan modal susulan yang belum dirinci."
+  ],
+  "fotoAdegan": "Coal barge loaded to the waterline moving slowly down a wide river, tugboat alongside, overcast sky, distant industrial docks.",
+  "takeaway": "Laporan ini netral bagi TOBA karena transaksi hanya memindahkan kepemilikan saham antar anak usaha yang tetap seluruhnya dikuasai perseroan, tanpa ada uang tunai yang masuk atau keluar dan tanpa mengubah kendali akhir atas asetnya. Pos-pos yang biasa diawasi pelaku pasar seperti ekuitas konsolidasi, arus kas, dan jumlah saham beredar TOBA di tingkat induk tidak tersentuh oleh transaksi ini karena yang berubah hanya rantai kepemilikan berjenjang di anak usaha Singapura, bukan posisi keuangan perseroan secara keseluruhan. Yang perlu dipantau selanjutnya adalah rincian penambahan modal susulan di SBTI, SBTH, SBTG, dan SBT Invest yang menurut dokumen ini sudah terjadi per 20 Oktober 2026 namun belum dijelaskan nilainya, karena itu bisa menunjukkan apakah restrukturisasi ini berlanjut ke tahap lain.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "direksi-film-lepas-103-juta-saham-lewat-pencairan-repo",
+  "category": "Aksi Korporasi",
+  "title": "Direksi FILM Lepas 103 Juta Saham Lewat Pencairan [Repo]",
+  "deck": "Samuel Sekuritas Indonesia selaku Direksi MD Entertainment (FILM) menjual 103,28 juta saham senilai sekitar Rp203,46 miliar untuk mencairkan perjanjian repo, hak suaranya turun dari 9,64% menjadi 8,69%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T17:37:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-5360-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FILM",
+  "tags": [
+   "FILM",
+   "MD Entertainment",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "body": [
+   "Samuel Sekuritas Indonesia, yang menjabat sebagai Direksi PT MD Entertainment Tbk (FILM), melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya menjual 103.281.000 lembar saham biasa FILM pada 20 Oktober 2026 dengan harga Rp1.970 per saham. Dengan harga dan jumlah tersebut, nilai transaksi penjualan ini mencapai sekitar Rp203,46 miliar. Dalam laporan, tujuan transaksi tertulis sebagai pencairan repo, yaitu penyelesaian perjanjian jual beli kembali saham yang sebelumnya dipakai sebagai jaminan pendanaan.",
+   "Akibat penjualan ini, kepemilikan langsung Samuel Sekuritas Indonesia di FILM turun dari 1.049.325.300 lembar saham menjadi 946.044.300 lembar saham, atau berkurang 103.281.000 lembar. Proporsi hak suaranya di perusahaan ikut turun dari 9,64 persen menjadi 8,69 persen. Jumlah saham yang dilepas setara dengan hampir 9,84 persen dari total kepemilikan pelapor sebelum transaksi.",
+   "Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi, komisaris, atau pemegang saham tertentu melaporkan setiap perubahan kepemilikan saham emiten ke OJK."
+  ],
+  "fotoAdegan": "Office workers walking past modern glass skyscrapers in Jakarta's financial district under an overcast morning sky.",
+  "takeaway": "Laporan ini bersifat netral bagi fundamental MD Entertainment, karena yang berubah adalah kepemilikan pribadi seorang direksi lewat pencairan repo, bukan transaksi yang menambah atau mengurangi dana di kas perusahaan. Yang tersentuh hanyalah komposisi hak suara pemegang saham, hak suara pelapor turun sekitar satu poin persentase dari 9,64 persen menjadi 8,69 persen, sementara jumlah saham beredar, ekuitas, arus kas, dan laba per saham perusahaan tidak berubah karena ini transaksi antarpihak di pasar, bukan penerbitan saham baru. Meski begitu, porsi yang dilepas hampir 10 persen dari kepemilikan pelapor sendiri dan bernilai sekitar Rp203 miliar, jadi tidak bisa dianggap remeh meski tidak mengubah status pengendali. Yang perlu dipantau berikutnya adalah apakah muncul laporan kepemilikan susulan dari Samuel Sekuritas Indonesia atau pihak terkait lain di FILM, mengingat pencairan posisi repo biasanya berjalan bertahap, serta apakah manajemen MD Entertainment memberikan penjelasan tambahan ke bursa soal latar belakang perjanjian repo tersebut.",
+  "sentimen": "netral"
  },
  {
   "slug": "bbsi-laniwati-tjandra-mundur-dari-direktur-sales",
@@ -134,6 +343,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Exterior of a mid-rise office building with a paved outdoor courtyard and parked service vehicles, overcast afternoon in Jakarta.",
   "takeaway": "Transaksi ini netral bagi Allo Bank karena nilainya sangat kecil, hanya sekitar 0,2 persen dari modal disetor perseroan yang mencapai Rp2,17 triliun, sehingga tidak mengubah gambaran keuangan perusahaan secara material. Pos yang tersentuh hanyalah beban operasional berupa biaya sewa gedung, bukan ekuitas atau laba per saham, dan pelaku pasar biasanya memperhatikan transaksi afiliasi semacam ini bukan karena besarannya tapi karena potensi konflik kepentingan ketika dua perusahaan dengan pengendali yang sama bertransaksi satu sama lain. Yang perlu dicermati bukan dampak langsung ke kinerja, melainkan apakah ada rangkaian transaksi afiliasi lain antara Allo Bank dan kelompok usaha Bank Mega yang nilainya terus terakumulasi mendekati ambang batas pelaporan yang lebih ketat. Kontrak sewa ini sendiri baru akan jatuh tempo pada 15 Oktober 2029, saat itulah publik bisa melihat apakah kerja sama serupa diperpanjang atau diperluas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "winr-pemegang-saham-jual-41-5-juta-saham-demi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham [Jual] 41,5 Juta Saham demi Free Float",
+  "deck": "Pemegang saham WINR melepas 41,5 juta saham senilai sekitar Rp935,9 juta untuk menambah porsi saham beredar bebas, hak suaranya turun tipis jadi 45,32%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T16:49:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-3536-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "pasar modal"
+  ],
+  "body": [
+   "Pemenang Nusantara Internasional, pemegang saham PT Winner Nusantara Jaya Tbk (WINR) yang bukan berstatus direksi atau komisaris, melaporkan ke Otoritas Jasa Keuangan pada 20 Oktober 2026 bahwa kepemilikannya di WINR berkurang dari 2.414.104.100 saham menjadi 2.372.564.100 saham. Hak suaranya ikut turun dari 46,11 persen menjadi 45,32 persen setelah pelepasan 41.540.000 saham secara tidak langsung.",
+   "Penjualan dilakukan dalam dua transaksi pada 15 Oktober 2026, yakni 19.500.000 saham biasa di harga Rp22 per saham dan 22.040.000 saham biasa di harga Rp23 per saham. Total nilai kedua transaksi tersebut sekitar Rp935,9 juta. Dalam laporan, tujuan transaksi dicatat sebagai upaya menambah porsi saham free float, yakni saham yang beredar bebas dan bisa diperjualbelikan publik di pasar.",
+   "Meski melepas sebagian sahamnya, Pemenang Nusantara Internasional masih menguasai 45,32 persen hak suara WINR, sehingga tetap berada pada posisi pemegang saham mayoritas di perusahaan tersebut."
+  ],
+  "fotoAdegan": "Busy pedestrian crossing in Jakarta's financial district at morning, glass office towers in soft light, blurred commuters in motion",
+  "takeaway": "Laporan ini cenderung netral bagi WINR karena saham yang dilepas hanya sekitar 1,72 persen dari total kepemilikan pelapor, dan hak suaranya hanya turun tipis dari 46,11 persen ke 45,32 persen, masih jauh di atas ambang mayoritas. Yang tersentuh di sini adalah struktur pemegang saham dan porsi saham free float, yakni bagian saham yang beredar bebas dan bisa diperdagangkan publik. Investor biasanya menyukai free float yang lebih besar karena membuat saham lebih mudah ditransaksikan dan harganya tidak terlalu dikendalikan segelintir pihak. Yang perlu dipantau berikutnya adalah apakah Pemenang Nusantara Internasional akan melanjutkan pelepasan saham lanjutan mengingat porsi kepemilikannya yang masih besar, serta apakah penambahan free float ini berpengaruh pada kepatuhan WINR terhadap aturan minimum free float bursa.",
   "sentimen": "netral"
  },
  {
@@ -241,6 +476,108 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "brms-direksi-beli-550-000-saham-senilai-rp233-juta",
+  "category": "Aksi Korporasi",
+  "title": "BRMS: Direksi [Beli] 550.000 Saham Senilai Rp233 Juta",
+  "deck": "Direksi Bumi Resources Minerals, Charles Daniel Gobel, membeli 550.000 saham BRMS pada 20 Oktober 2026 seharga Rp424 per lembar, menambah kepemilikannya menjadi 1,9 juta saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T16:17:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6495-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRMS",
+  "tags": [
+   "BRMS",
+   "kepemilikan saham",
+   "direksi",
+   "Bumi Resources Minerals"
+  ],
+  "body": [
+   "Charles Daniel Gobel, anggota Direksi PT Bumi Resources Minerals Tbk (BRMS), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 550.000 saham BRMS pada 20 Oktober 2026 dengan harga Rp424 per lembar. Saham tersebut berjenis saham biasa dan dimiliki secara tidak langsung, dengan tujuan transaksi yang tertulis dalam laporan sebagai investasi. Total nilai transaksi ini sekitar Rp233,2 juta.",
+   "Dengan pembelian ini, kepemilikan Charles Daniel Gobel di BRMS naik dari 1.350.000 lembar saham menjadi 1.900.000 lembar saham, atau bertambah 550.000 lembar. Kenaikan itu setara 40,74 persen dari jumlah saham yang ia pegang sebelumnya. Meski begitu, porsi hak suaranya di perusahaan tercatat tetap di angka 0,00 persen baik sebelum maupun sesudah transaksi, menunjukkan bahwa jumlah saham yang dimilikinya masih sangat kecil dibandingkan total saham BRMS yang beredar.",
+   "Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Rocky open-pit mineral mine terrain in Indonesia with heavy equipment in the distance, overcast midday light",
+  "takeaway": "Laporan ini netral bagi BRMS, karena pembelian saham oleh direksi memang bisa dibaca sebagai bentuk kepercayaan terhadap perusahaan, tetapi ukurannya terlalu kecil untuk dianggap sinyal berarti. Yang tersentuh di sini adalah hak suara, yaitu persentase kendali seseorang atas keputusan perusahaan berdasarkan jumlah saham yang dipegang. Hak suara Charles Daniel Gobel tercatat tetap di 0,00 persen sebelum dan sesudah transaksi, artinya tambahan 550.000 saham itu nyaris tidak mengubah peta kepemilikan BRMS secara keseluruhan meskipun nilainya naik hampir 41 persen dari kepemilikan pribadinya. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris BRMS lain melakukan transaksi serupa dalam waktu dekat, karena pola pembelian berulang oleh jajaran direksi biasanya lebih bermakna sebagai sinyal dibanding satu transaksi tunggal seperti ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nano-softbank-ventura-indonesia-kurangi-kepemilikan-saham",
+  "category": "Aksi Korporasi",
+  "title": "NANO: SoftBank Ventura Indonesia [kurangi] kepemilikan saham",
+  "deck": "SoftBank Ventura Indonesia melaporkan penjualan saham NANO sebanyak 52,366 juta lembar, menurunkan hak suaranya dari 8,46 persen menjadi 7,24 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T16:05:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-0789-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NANO",
+  "tags": [
+   "NANO",
+   "SoftBank Ventura Indonesia",
+   "kepemilikan saham",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Nanotech Indonesia Global Tbk (NANO) menerima laporan perubahan kepemilikan saham dari SoftBank Ventura Indonesia, yang bukan merupakan anggota direksi atau dewan komisaris perusahaan, melainkan pemegang saham institusi. Dalam laporan ke Otoritas Jasa Keuangan tertanggal 20 Oktober 2026, jumlah saham SoftBank Ventura di NANO tercatat turun dari 362.654.846 lembar menjadi 310.288.846 lembar, atau berkurang 52.366.000 lembar. Pengurangan ini setara 14,44 persen dari kepemilikan sebelumnya, dan membuat hak suaranya di NANO turun dari 8,46 persen menjadi 7,24 persen.",
+   "Dokumen merinci sembilan transaksi tidak langsung yang terjadi pada 6 dan 7 Oktober 2026, seluruhnya dengan tujuan yang ditulis sebagai kebutuhan internal perusahaan. Pada 6 Oktober, SoftBank Ventura membeli 24.502.400 saham di harga Rp27, 62.600 saham di harga Rp28, dan 4.790.400 saham di harga Rp26, namun di hari yang sama juga menjual 26.631.000 saham dan 21.240.900 saham, keduanya di harga Rp26. Pada 7 Oktober, perusahaan membeli 10.331.800 saham di harga Rp28 dan 3.657.500 saham di harga Rp29, lalu menjual 10.053.900 saham di harga Rp28 dan 4.006.600 saham di harga Rp29.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan pemegang saham signifikan melaporkan setiap perubahan posisi sahamnya ke OJK. Dengan posisi akhir 7,24 persen, SoftBank Ventura Indonesia masih berstatus pemegang saham yang wajib melaporkan transaksi berikutnya ke regulator."
+  ],
+  "fotoAdegan": "Close-up of hands exchanging stock transfer paperwork at a brokerage office desk, documents softly blurred, muted indoor lighting",
+  "takeaway": "Laporan ini condong negatif bagi emiten karena porsi yang dilepas cukup besar, 14,44 persen dari kepemilikan sebelumnya dalam waktu dua hari saja, bukan sekadar pecahan kecil yang bisa diabaikan. Yang tersentuh di sini adalah hak suara, yaitu bobot suara pemegang saham dalam rapat umum pemegang saham, yang turun dari 8,46 persen menjadi 7,24 persen akibat transaksi ini, sementara jumlah saham beredar NANO secara keseluruhan tidak berubah karena ini cuma perpindahan saham yang sudah ada antar pemilik, bukan penerbitan saham baru. Berkurangnya porsi kepemilikan investor institusi seperti SoftBank Ventura biasa dibaca pasar sebagai berkurangnya keterikatan pemodal besar terhadap perusahaan, meski laporan tidak menyebut alasan di balik keputusan itu selain tujuan umum kebutuhan internal perusahaan. Yang perlu dipantau berikutnya adalah apakah SoftBank Ventura akan terus mengurangi posisinya di laporan-laporan KSEI selanjutnya, karena satu laporan belum cukup untuk memastikan ini tren pelepasan berkelanjutan atau sekadar penyesuaian portofolio sesaat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-beli-saham-rp8-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [Beli] Saham Rp8,7 Miliar",
+  "deck": "Edwin Soeryadjaya menambah 5,8 juta saham Saratoga lewat dua transaksi pertengahan Oktober 2026, hak suaranya naik tipis jadi 36,04 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T15:50:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6639-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "Edwin Soeryadjaya",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Edwin Soeryadjaya, anggota Dewan Komisaris PT Saratoga Investama Sedaya Tbk (SRTG), melaporkan pembelian saham perusahaan dalam dua transaksi kepada Otoritas Jasa Keuangan pada 20 Oktober 2026. Transaksi pertama terjadi pada 16 Oktober 2026 sebanyak 4.305.200 saham dengan harga Rp1.522 per saham, dan transaksi kedua pada 19 Oktober 2026 sebanyak 1.501.900 saham dengan harga Rp1.446 per saham. Keduanya merupakan pembelian tidak langsung dengan tujuan investasi, dengan total nilai sekitar Rp8,72 miliar untuk 5.807.100 saham.",
+   "Dengan tambahan ini, jumlah saham SRTG yang dimiliki Edwin Soeryadjaya naik dari 4.882.867.890 lembar menjadi 4.888.674.990 lembar. Porsi hak suaranya di perusahaan ikut naik dari 35,9965 persen menjadi 36,0393 persen."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's financial district at dusk, pedestrians and taxis passing below, city lights beginning to glow",
+  "takeaway": "Pembelian ini tergolong netral bagi penilaian fundamental Saratoga, karena jumlahnya cuma sekitar 0,12 persen dari saham yang sudah dipegang Edwin Soeryadjaya, terlalu kecil untuk dibaca sebagai sinyal keyakinan besar, meski arah membeli tentu beda nuansanya dibanding bila seorang komisaris menjual sahamnya. Yang tersentuh di sini adalah hak suara pemegang saham utama, yaitu porsi kendali Edwin di perusahaan, yang dipantau pasar karena menentukan seberapa kuat posisinya dalam keputusan strategis seperti RUPS. Jumlah saham beredar SRTG sendiri tidak berubah karena ini transaksi jual beli di pasar sekunder, bukan penerbitan saham baru, sehingga tidak berdampak pada laba per saham. Yang perlu dipantau berikutnya adalah apakah pola pembelian serupa oleh direksi atau komisaris Saratoga berlanjut di laporan-laporan mendatang, karena rangkaian pembelian yang konsisten baru pantas dibaca sebagai sinyal keyakinan insider, bukan transaksi tunggal seperti ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "essa-direksi-beli-2-25-juta-saham-senilai-rp1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ESSA: Direksi [Beli] 2,25 Juta Saham Senilai Rp1 Miliar",
+  "deck": "Direksi ESSA Industries Indonesia, Trinugraha Thohir, membeli 2.252.300 saham pada 19 Oktober 2026 seharga Rp444 per saham, menambah kepemilikannya jadi 84.955.645 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T15:45:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-3384-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ESSA",
+  "tags": [
+   "ESSA",
+   "ESSA Industries Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Trinugraha Thohir, anggota Direksi ESSA Industries Indonesia Tbk, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan secara tidak langsung sebanyak 2.252.300 lembar pada 19 Oktober 2026. Transaksi dilakukan pada harga Rp444 per saham dengan tujuan investasi, sehingga nilai totalnya sekitar Rp1 miliar.",
+   "Dengan pembelian ini, jumlah saham yang dimiliki Trinugraha naik dari 82.703.345 lembar menjadi 84.955.645 lembar, atau bertambah sekitar 2,72 persen dari kepemilikannya sebelumnya. Porsi hak suaranya di ESSA pun bergerak tipis, dari 0,48 persen menjadi 0,49 persen dari total saham beredar perusahaan."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting pipelines at a petrochemical plant under soft morning light, Indonesia",
+  "takeaway": "Laporan ini netral bagi ESSA, karena pembelian memang menunjukkan direksi menambah kepemilikan, tapi jumlahnya terlalu kecil untuk dibaca sebagai sinyal kuat soal arah bisnis perusahaan. Yang tersentuh di sini hanya hak suara pribadi pelapor, yaitu porsi kendali atas keputusan perusahaan lewat rapat pemegang saham, dan porsi itu cuma naik 0,01 poin persentase dari 0,48 ke 0,49 persen sehingga tidak mengubah peta kendali ESSA sama sekali. Transaksi ini juga tidak menambah jumlah saham beredar perusahaan karena sahamnya dibeli dari pihak lain, bukan saham baru, sehingga tidak berpengaruh ke laba per saham maupun ekuitas ESSA. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris lain ESSA melaporkan pembelian serupa dalam waktu dekat, karena pola pembelian berulang oleh beberapa orang direksi biasanya lebih berarti dibanding satu transaksi kecil seperti ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ekspor-produk-hijau-ri-tumbuh-59-7-persen-syarat-ue-ketat",
   "category": "Industri",
   "title": "Ekspor Produk Hijau RI [Tumbuh] 59,7 Persen, Syarat UE Ketat",
@@ -318,6 +655,32 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of a mid-rise office building facade along a busy Jakarta street, pedestrians and motorbikes passing by, midday sun.",
   "takeaway": "Laporan ini condong negatif, karena RUPSLB yang digelar justru untuk meloloskan penjualan gedung kantor yang sebelumnya sudah disorot penilai independen sebagai transaksi dengan harga tidak wajar, dan status independen pada rapat ini menandakan ada potensi kepentingan pihak terafiliasi yang harus ditimbang ketat oleh pemegang saham non-afiliasi. Kalau penjualan ini disetujui dan rampung, yang tersentuh adalah arus kas, yakni uang tunai yang masuk dari hasil penjualan, dan ekuitas perseroan karena salah satu aset tetap terbesarnya, gedung kantor sendiri, berpindah tangan, sesuatu yang diawasi investor karena mengubah struktur operasional perseroan. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPSLB pada 24 November 2026, karena pemegang saham independen berhak menolak transaksi ini kalau memang menilai harganya tidak wajar seperti temuan penilai sebelumnya, dengan batas pencatatan pemegang saham yang berhak hadir pada 2 November 2026 dan panggilan resmi rapat terbit 3 November 2026.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "avia-direksi-beli-6-9-juta-saham-senilai-rp2-22-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AVIA: Direksi [Beli] 6,9 Juta Saham Senilai Rp2,22 Miliar",
+  "deck": "Robert Christian Tanoko, direksi AVIA, menambah kepemilikan 6,9 juta lembar saham secara tidak langsung pada 16 Oktober 2026, menaikkan hak suaranya ke 2,32 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T15:18:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1362-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "kepemilikan saham",
+   "direksi",
+   "insider buying"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) menyampaikan laporan perubahan kepemilikan saham ke Otoritas Jasa Keuangan atas nama Robert Christian Tanoko, anggota direksi perusahaan. Dalam laporan bertanggal 20 Oktober 2026 itu, Robert melaporkan pembelian saham AVIA secara tidak langsung sehingga kepemilikannya naik dari 1.430.703.600 lembar menjadi 1.437.610.200 lembar, bertambah 6.906.600 lembar. Akibatnya, hak suaranya di perusahaan naik tipis dari 2,3093 persen menjadi 2,3205 persen.",
+   "Penambahan saham ini terjadi lewat empat transaksi pembelian pada 16 Oktober 2026, semuanya untuk tujuan investasi dan berstatus kepemilikan tidak langsung. Rinciannya adalah 3.525.300 lembar saham biasa di harga Rp320 per saham, 381.300 lembar di harga Rp318, 1.000.000 lembar di harga Rp328, dan 2.000.000 lembar di harga Rp322. Jika dijumlahkan, total nilai keempat transaksi ini sekitar Rp2,22 miliar.",
+   "Dibandingkan dengan jumlah saham yang sudah dimiliki Robert sebelum transaksi, penambahan ini hanya setara 0,48 persen dari kepemilikannya sendiri, sehingga tidak mengubah posisinya secara material di struktur pemegang saham AVIA."
+  ],
+  "fotoAdegan": "Factory workers filling metal cans with colored paint on an automated production line, industrial lighting, Indonesia",
+  "takeaway": "Laporan ini netral bagi AVIA karena meski bentuknya pembelian saham oleh direksi, jumlahnya hanya 0,48 persen dari kepemilikan Robert sendiri dan terlalu kecil untuk dibaca sebagai sinyal keyakinan besar terhadap kinerja perusahaan. Yang tersentuh di sini cuma hak suara pribadi Robert, yakni persentase kekuatan suaranya dalam rapat pemegang saham, yang naik tipis dari 2,3093 menjadi 2,3205 persen, tanpa mengubah jumlah total saham beredar AVIA karena ini transaksi antar pemegang saham yang sudah ada, bukan penerbitan saham baru. Pelaku pasar biasanya tetap mencatat pembelian oleh direksi sebagai indikasi minat terhadap saham perusahaannya, tapi skala sekecil ini belum cukup untuk disebut sinyal kuat. Laporan ini sendiri tidak menyebut agenda korporasi lanjutan seperti RUPS atau tenggat tertentu, sehingga yang perlu dipantau selanjutnya adalah apakah Robert atau direksi lain AVIA melakukan pembelian serupa secara berulang dalam laporan-laporan berikutnya, karena pola berulang baru lebih berarti dibanding transaksi tunggal seperti ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "visi-private-placement-rp120-miliar-saham-publik-makin-terdilusi",
@@ -632,6 +995,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of cargo trucks parked at a logistics warehouse loading dock in Jakarta, workers moving pallets with forklifts in daylight",
   "takeaway": "RUPSLB ini condong negatif bagi pemegang saham lama, karena yang disetujui adalah penambahan modal tanpa memberi mereka hak untuk ikut membeli saham baru lebih dulu, dan syarat kuorum khusus dari OJK untuk pemegang saham independen mengindikasikan transaksi ini punya unsur benturan kepentingan yang perlu diwaspadai. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru ini resmi terbit nanti, porsi kepemilikan dan bagian laba yang jatuh ke setiap pemegang saham lama otomatis mengecil, meski laporan ini belum menyebut berapa banyak saham baru yang akan diterbitkan atau pada harga berapa. Yang perlu dipantau selanjutnya adalah pengumuman lanjutan dari LOPI yang merinci jumlah saham baru, harga pelaksanaan, dan pihak yang akan menyerap saham tersebut, karena RUPSLB kali ini baru menyetujui rencana secara umum tanpa detail pelaksanaan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "bmas-tarik-pinjaman-afiliasi-usd30-juta-dari-kbank",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Tarik [Pinjaman] Afiliasi USD30 Juta dari KBank",
+  "deck": "BMAS menarik tambahan pinjaman bilateral senilai setara US$30 juta dari induk usahanya, KBank, bagian dari fasilitas dua tahun senilai total US$341 juta untuk mendukung likuiditas dan penyaluran kredit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T11:59:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7359bf6be3_c98242380d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "pinjaman afiliasi",
+   "KBank",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) menerima fasilitas pinjaman bilateral dari KASIKORNBANK PUBLIC COMPANY LIMITED (KBank), pemegang saham pengendali utama (ultimate shareholder) BMAS melalui anak usahanya KASIKORN VISION FINANCIAL COMPANY PTE. LTD. (KVF) yang menguasai 86,03 persen saham BMAS, atau 89,48 persen jika dihitung bersama seluruh entitas KASIKORNBANK Group. Limit total fasilitas ini US$341 juta, dengan tenor maksimal dua tahun sejak masing-masing tanggal penarikan, dan bunga mengacu pada SOFR, yaitu suku bunga acuan dolar Amerika Serikat, ditambah margin sesuai kondisi pasar. Dari total limit tersebut, US$235 juta sudah memiliki perjanjian pendasar yang disepakati dengan KBank.",
+   "Pencairan dilakukan bertahap. Pada 21 Agustus 2026, BMAS menarik dana tahap pertama senilai US$55 juta. Dalam laporan kali ini, perseroan menarik tambahan senilai CNH 201 juta (yuan lepas pantai), setara US$30 juta, dengan dana dalam CNH efektif pada 20 Oktober 2026 dan ekuivalen dolar AS-nya efektif sehari berikutnya, 21 Oktober 2026. Dengan penarikan ini, total dana yang sudah dicairkan dari fasilitas tersebut mencapai US$85 juta, atau sekitar seperempat dari limit total US$341 juta.",
+   "BMAS menyatakan pinjaman ini ditujukan untuk mendukung likuiditas jangka panjang dan memperbesar kapasitas penyaluran kredit kepada nasabah. Perseroan juga menegaskan transaksi ini tidak mengandung benturan kepentingan sebagaimana diatur dalam POJK 42/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan, meski pihak pemberi pinjaman adalah pemegang saham pengendali perseroan sendiri. Laporan ditandatangani oleh Presiden Direktur BMAS, Kasemsri Charoensiddhi."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's central business district at dusk, city lights beginning to glow",
+  "takeaway": "Laporan ini condong positif bagi BMAS, karena pinjaman datang dari pemegang saham pengendali sendiri untuk memperbesar amunisi kredit, bukan tanda bank kekurangan dana darurat. Pos yang tersentuh adalah utang dan beban bunga: tambahan pencairan US$85 juta dari limit US$341 juta akan menambah kewajiban BMAS dan beban bunga yang mengikuti SOFR plus margin, tetapi di sisi lain memperbesar kapasitas BMAS menyalurkan kredit ke nasabah, yang berpotensi menambah pendapatan bunga ke depan. Yang perlu dipantau adalah sisa pencairan fasilitas, karena baru seperempat dari limit US$341 juta yang terpakai, serta bagaimana penarikan susulan ini tercermin pada rasio kredit terhadap simpanan dalam laporan keuangan kuartal berikutnya.",
+  "sentimen": "positif"
  },
  {
   "slug": "ikai-raja-sapta-oktohari-borong-47-6-juta-saham-rp22",

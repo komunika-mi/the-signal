@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jeli-klaim-tak-ada-info-material-di-balik-penurunan-harga-saham",
+  "category": "Aksi Korporasi",
+  "title": "JELI Klaim Tak Ada Info Material di Balik [Penurunan] Harga Saham",
+  "deck": "JELI menyatakan tidak ada informasi material di balik penurunan harga dan lonjakan transaksi sahamnya pada 8-15 Oktober 2026, usai diminta penjelasan oleh BEI.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JELI",
+   "Niramas Utama",
+   "keterbukaan informasi",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2243bd072_bf6badcdfc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hsbc-kuasai-5-79-saham-apex-lewat-refinancing-utang",
+  "category": "Aksi Korporasi",
+  "title": "HSBC Kuasai 5,79% Saham APEX Lewat [Refinancing] Utang",
+  "deck": "HSBC Holdings Plc kini memegang 218,09 juta saham APEX (5,79% hak suara) lewat skema repurchase agreement untuk refinancing utang, naik dari nol.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APEX",
+   "HSBC",
+   "kepemilikan saham",
+   "refinancing utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1102-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dmas-bagikan-dividen-interim-rp29-saham-total-rp1-4-triliun",
+  "category": "Aksi Korporasi",
+  "title": "DMAS Bagikan [Dividen] Interim Rp29/Saham, Total Rp1,4 Triliun",
+  "deck": "Puradelta Lestari (DMAS) membagikan dividen tunai interim Rp29 per saham senilai Rp1,4 triliun, dibayar 13 November 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMAS",
+   "dividen interim",
+   "Puradelta Lestari",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/09e9313a44_8860d5305a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "djp-jabar-i-gandeng-kampus-bandung-tax-center-jadi-33",
   "category": "Makroekonomi",
   "title": "DJP Jabar I Gandeng Kampus Bandung, Tax Center Jadi [33]",
@@ -39,6 +87,86 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/penerimaan-pajak-kalsel-tumbuh-positif-capai-rp993-triliun-hingga-september-2026",
   "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "axio-bagikan-dividen-interim-rp8-per-saham-total-rp46-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AXIO bagikan [dividen] interim Rp8 per saham, total Rp46,7 miliar",
+  "deck": "Tera Data Indonusa (AXIO) menetapkan dividen interim tahun buku 2026 sebesar Rp46,72 miliar atau Rp8 per saham, dibayar 19 November 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AXIO",
+   "dividen interim",
+   "Tera Data Indonusa",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b5e5843035_3fcef34132.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "axio-rinci-jadwal-dividen-interim-rp8-saham-cair-19-nov",
+  "category": "Aksi Korporasi",
+  "title": "AXIO rinci [jadwal] dividen interim Rp8/saham, cair 19 Nov",
+  "deck": "Tera Data Indonusa (AXIO) menetapkan dividen interim Rp46,7 miliar atau Rp8 per saham, dengan tanggal pencatatan 30 Oktober dan pembayaran 19 November 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AXIO",
+   "dividen interim",
+   "Tera Data Indonusa",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/89f436e721_2976278448.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-direksi-lanjut-lepas-saham-via-repo-hak-suara-4-37",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Lanjut Lepas Saham via [Repo], Hak Suara 4,37%",
+  "deck": "Direksi RLCO kembali mencairkan saham lewat mekanisme repo pada 20 Oktober, melanjutkan tren penurunan hak suara dua hari beruntun.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "direksi",
+   "repo",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1344-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toba-alihkan-saham-anak-usaha-s-138-2-juta-transaksi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Alihkan Saham Anak Usaha S$138,2 Juta, Transaksi [Afiliasi]",
+  "deck": "PT TBS Energi Utama Tbk merestrukturisasi kepemilikan anak usahanya di Singapura lewat transaksi afiliasi senilai S$138,2 juta, dibayar tanpa uang tunai.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "transaksi afiliasi",
+   "restrukturisasi anak usaha",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/778607c510_956da9ccc7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "direksi-film-lepas-103-juta-saham-lewat-pencairan-repo",
+  "category": "Aksi Korporasi",
+  "title": "Direksi FILM Lepas 103 Juta Saham Lewat Pencairan [Repo]",
+  "deck": "Samuel Sekuritas Indonesia selaku Direksi MD Entertainment (FILM) menjual 103,28 juta saham senilai sekitar Rp203,46 miliar untuk mencairkan perjanjian repo, hak suaranya turun dari 9,64% menjadi 8,69%.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "MD Entertainment",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-5360-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bbsi-laniwati-tjandra-mundur-dari-direktur-sales",
@@ -86,6 +214,22 @@ var ARTICLES = [
    "transaksi afiliasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/61690dc509_8dc6e07424.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "winr-pemegang-saham-jual-41-5-juta-saham-demi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham [Jual] 41,5 Juta Saham demi Free Float",
+  "deck": "Pemegang saham WINR melepas 41,5 juta saham senilai sekitar Rp935,9 juta untuk menambah porsi saham beredar bebas, hak suaranya turun tipis jadi 45,32%.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-3536-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -153,6 +297,70 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "brms-direksi-beli-550-000-saham-senilai-rp233-juta",
+  "category": "Aksi Korporasi",
+  "title": "BRMS: Direksi [Beli] 550.000 Saham Senilai Rp233 Juta",
+  "deck": "Direksi Bumi Resources Minerals, Charles Daniel Gobel, membeli 550.000 saham BRMS pada 20 Oktober 2026 seharga Rp424 per lembar, menambah kepemilikannya menjadi 1,9 juta saham.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRMS",
+   "kepemilikan saham",
+   "direksi",
+   "Bumi Resources Minerals"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6495-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nano-softbank-ventura-indonesia-kurangi-kepemilikan-saham",
+  "category": "Aksi Korporasi",
+  "title": "NANO: SoftBank Ventura Indonesia [kurangi] kepemilikan saham",
+  "deck": "SoftBank Ventura Indonesia melaporkan penjualan saham NANO sebanyak 52,366 juta lembar, menurunkan hak suaranya dari 8,46 persen menjadi 7,24 persen.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NANO",
+   "SoftBank Ventura Indonesia",
+   "kepemilikan saham",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-0789-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-beli-saham-rp8-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [Beli] Saham Rp8,7 Miliar",
+  "deck": "Edwin Soeryadjaya menambah 5,8 juta saham Saratoga lewat dua transaksi pertengahan Oktober 2026, hak suaranya naik tipis jadi 36,04 persen.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "Edwin Soeryadjaya",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6639-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "essa-direksi-beli-2-25-juta-saham-senilai-rp1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ESSA: Direksi [Beli] 2,25 Juta Saham Senilai Rp1 Miliar",
+  "deck": "Direksi ESSA Industries Indonesia, Trinugraha Thohir, membeli 2.252.300 saham pada 19 Oktober 2026 seharga Rp444 per saham, menambah kepemilikannya jadi 84.955.645 lembar.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ESSA",
+   "ESSA Industries Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-3384-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-produk-hijau-ri-tumbuh-59-7-persen-syarat-ue-ketat",
   "category": "Industri",
   "title": "Ekspor Produk Hijau RI [Tumbuh] 59,7 Persen, Syarat UE Ketat",
@@ -198,6 +406,22 @@ var ARTICLES = [
    "penjualan aset"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ccdb1161d9_5796051de1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "avia-direksi-beli-6-9-juta-saham-senilai-rp2-22-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AVIA: Direksi [Beli] 6,9 Juta Saham Senilai Rp2,22 Miliar",
+  "deck": "Robert Christian Tanoko, direksi AVIA, menambah kepemilikan 6,9 juta lembar saham secara tidak langsung pada 16 Oktober 2026, menaikkan hak suaranya ke 2,32 persen.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "kepemilikan saham",
+   "direksi",
+   "insider buying"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1362-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -392,6 +616,22 @@ var ARTICLES = [
    "Pasar Modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/54acdac1f2_5eedf03c73.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmas-tarik-pinjaman-afiliasi-usd30-juta-dari-kbank",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Tarik [Pinjaman] Afiliasi USD30 Juta dari KBank",
+  "deck": "BMAS menarik tambahan pinjaman bilateral senilai setara US$30 juta dari induk usahanya, KBank, bagian dari fasilitas dua tahun senilai total US$341 juta untuk mendukung likuiditas dan penyaluran kredit.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "pinjaman afiliasi",
+   "KBank",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7359bf6be3_c98242380d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6289,249 +6529,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/51c234ecce_3b64305047.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "impc-bagi-dividen-interim-rp5-saham-total-rp273-4-miliar",
-  "category": "Aksi Korporasi",
-  "title": "IMPC Bagi [Dividen] Interim Rp5/Saham, Total Rp273,4 Miliar",
-  "deck": "PT Impack Pratama Industri Tbk (IMPC) membagikan dividen interim tunai Rp5 per saham senilai total Rp273,4 miliar, dibayarkan 30 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMPC",
-   "dividen interim",
-   "corporate action",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c00a26a766_6cf9a62d40.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xdif-penggabungan-4-manajer-investasi-bumn-jadi-danareksa-im",
-  "category": "Aksi Korporasi",
-  "title": "XDIF: [Penggabungan] 4 Manajer Investasi BUMN Jadi Danareksa IM",
-  "deck": "Empat manajer investasi pelat merah, termasuk pengelola XDIF, resmi bergabung jadi PT Danareksa Investment Management Indonesia per 1 Oktober 2026, modal disetornya naik jadi Rp182,92 miliar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XDIF",
-   "Danareksa Investment Management",
-   "Penggabungan Manajer Investasi",
-   "BUMN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a20f1fdf8d_0ac3121b8a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tugu-realisasi-dana-ipo-89-modal-ke-anak-usaha-tertunda",
-  "category": "Aksi Korporasi",
-  "title": "TUGU: Realisasi Dana IPO 89%, Modal ke Anak Usaha [Tertunda]",
-  "deck": "PT Asuransi Tugu Pratama Indonesia Tbk melaporkan realisasi dana IPO 2018 sudah 88,98 persen per Juni 2026, sementara sisa Rp72,6 miliar untuk penyertaan modal ke anak usaha belum rampung.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TUGU",
-   "IPO",
-   "penggunaan dana",
-   "asuransi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7cef549d1a_db1346dca5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "alto-kena-sanksi-bei-denda-rp150-juta-telat-laporan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "ALTO Kena [Sanksi] BEI, Denda Rp150 Juta Telat Laporan Keuangan",
-  "deck": "BEI menjatuhkan Peringatan Tertulis III dan denda Rp150 juta kepada ALTO karena belum menyerahkan laporan keuangan interim per 30 Juni 2026 hingga tenggat 29 September 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ALTO",
-   "Tri Banyan Tirta",
-   "sanksi BEI",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c479f54cee_1b4646417e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-sanksi-70-emiten-termasuk-sril-dan-pgas-soal-laporan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "BEI [Sanksi] 70 Emiten Termasuk SRIL dan PGAS Soal Laporan Keuangan",
-  "deck": "BEI menjatuhkan peringatan tertulis dan denda hingga Rp150 juta kepada 70 perusahaan tercatat yang telat menyerahkan laporan keuangan interim per 30 Juni 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEI",
-   "sanksi emiten",
-   "PGAS",
-   "SRIL"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/48a49375da_59a83cfedb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xdes-bri-mi-gabung-ke-danareksa-investment-management-indonesia",
-  "category": "Aksi Korporasi",
-  "title": "XDES: BRI MI [Gabung] ke Danareksa Investment Management Indonesia",
-  "deck": "Manajer investasi di belakang ETF syariah berkode XDES berganti badan hukum setelah BNI AM, BRI MI, dan PNM Investment Management bergabung ke Danareksa Investment Management Indonesia, efektif 1 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XDES",
-   "Danareksa Investment Management",
-   "merger manajer investasi",
-   "BRI MI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/af3f93b186_dfbbc6d145.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-koreksi-laporan-realisasi-dana-obligasi-sukuk-rp2-5-t",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Koreksi Laporan [Realisasi] Dana Obligasi-Sukuk Rp2,5 T",
-  "deck": "WIFI baru merealisasikan Rp47,3 miliar atau 1,92 persen dari Rp2,5 triliun dana obligasi dan sukuk untuk proyek internet nirkabel TKP; sisanya masih mengendap di giro bank.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "obligasi",
-   "sukuk",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/562b84fea9_904c4abbe7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-koreksi-realisasi-dana-rights-issue-capex-baru-22",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Koreksi Realisasi Dana Rights Issue, [Capex] Baru 22%",
-  "deck": "Realisasi penggunaan dana rights issue WIFI senilai Rp5,89 triliun per 30 Juni 2026 baru 22,48 persen, jauh di bawah rencana 85,9 persen untuk belanja modal proyek FWA.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "rights issue",
-   "penggunaan dana",
-   "FWA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e86cf55e3e_cfb3e5cc53.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dmmx-koreksi-laporan-realisasi-dana-ipo-sisa-nihil",
-  "category": "Aksi Korporasi",
-  "title": "DMMX Koreksi Laporan [Realisasi] Dana IPO, Sisa Nihil",
-  "deck": "PT Digital Mediatama Maxima Tbk mengoreksi laporan realisasi dana IPO 2019, seluruh Rp603,06 miliar hasil bersih telah terpakai habis untuk modal kerja, teknologi, dan SDM.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMMX",
-   "penggunaan dana IPO",
-   "laporan keterbukaan",
-   "digital"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f85166cc0e_508a6beeda.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gmfi-siapkan-pmhmetd-terbitkan-22-03-miliar-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "GMFI Siapkan PMHMETD, Terbitkan [22,03 Miliar] Saham Baru",
-  "deck": "GMFI berencana menerbitkan hingga 22,03 miliar saham baru Seri B lewat PMHMETD III senilai nominal Rp19 per saham, untuk dimintakan persetujuan RUPSLB pada 19 November 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GMFI",
-   "PMHMETD",
-   "RUPSLB",
-   "Garuda Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9f3545c35_7d4a111fad.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gmfi-jadwalkan-rupslb-19-november-bahas-pmhmetd-iii",
-  "category": "Aksi Korporasi",
-  "title": "GMFI Jadwalkan RUPSLB 19 November, Bahas [PMHMETD] III",
-  "deck": "GMF Aero Asia akan menggelar RUPSLB pada 19 November 2026 untuk membahas rencana PMHMETD III, dengan tenggat pendaftaran pemegang saham 27 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GMFI",
-   "RUPSLB",
-   "PMHMETD",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2034f99fa_e598deebe3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "merk-akui-impairment-rp87-miliar-kontrak-p-g-berakhir-2027",
-  "category": "Aksi Korporasi",
-  "title": "MERK Akui [Impairment] Rp87 Miliar, Kontrak P&G Berakhir 2027",
-  "deck": "Public expose Merck Tbk mengungkap impairment Rp87 miliar akibat berakhirnya kontrak manufaktur dengan P&G pada 2027, di tengah laba semester I 2026 yang melonjak 396 persen.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MERK",
-   "impairment",
-   "public expose",
-   "Merck Tbk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/607d69fcab_c0fe9f1281.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ketr-panggil-rupslb-konfirmasi-pengendali-baru-dari-tender-offer",
-  "category": "Aksi Korporasi",
-  "title": "KETR Panggil RUPSLB, Konfirmasi Pengendali Baru dari [Tender Offer]",
-  "deck": "PT Ketrosden Triasmitra Tbk memanggil RUPSLB pada 12 November 2026 untuk mengonfirmasi pengendali baru pasca penawaran tender sukarela, sekaligus mengubah susunan direksi dan komisaris.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "RUPSLB",
-   "tender offer",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/440b31c7cf_a4531c72a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik",
-  "category": "Industri",
-  "title": "Hilirisasi RI Geser Fokus ke Industri [Baterai] Listrik",
-  "deck": "Realisasi investasi hilirisasi RI capai Rp300,1 triliun pada semester I 2026, sementara fokus kebijakan bergeser ke industri baterai listrik dan BESS.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik.jpg",
-  "imageV": "mv6j1xxu",
-  "tags": [
-   "hilirisasi",
-   "mineral kritis",
-   "investasi",
-   "baterai listrik"
-  ],
-  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/hilirisasi-masuki-babak-baru-daya-saing-rantai-nilai-global-jadi-perhatian",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "ekspor-perdana-baterai-litium-iwip-dimulai-7-proyek-baru",
-  "category": "Industri",
-  "title": "Ekspor Perdana Baterai Litium IWIP [Dimulai], 7 Proyek Baru",
-  "deck": "Presiden Prabowo Subianto meresmikan ekspor perdana sel baterai litium dan groundbreaking tujuh proyek baru di kawasan industri IWIP, Halmahera Tengah, Maluku Utara.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/ekspor-perdana-baterai-litium-iwip-dimulai-7-proyek-baru.jpg",
-  "imageV": "mv6j20ux",
-  "tags": [
-   "IWIP",
-   "Hilirisasi Nikel",
-   "Baterai Kendaraan Listrik",
-   "Maluku Utara"
-  ],
-  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/peresmian-ekspor-perdana-baterai-kendaraan-listrik-dan-groundbreaking-proyek-strategis-iwip-halmahera-tengah",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
  }
 ];

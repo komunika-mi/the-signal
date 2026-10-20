@@ -3,6 +3,83 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "adro-trinugraha-thohir-tambah-saham-470-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "ADRO: Trinugraha Thohir [Tambah] Saham 470.000 Lembar",
+  "deck": "Trinugraha Thohir menambah kepemilikan sahamnya di Alamtri Resources Indonesia (ADRO) sebanyak 470.000 lembar pada 19 Oktober 2026, menaikkan hak suaranya dari 0,727% menjadi 0,729%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T21:30:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-9170-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADRO",
+  "tags": [
+   "ADRO",
+   "Alamtri Resources Indonesia",
+   "kepemilikan saham",
+   "Trinugraha Thohir"
+  ],
+  "body": [
+   "Trinugraha Thohir, yang menurut laporan ini bukan anggota direksi maupun dewan komisaris Alamtri Resources Indonesia Tbk (ADRO), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 470.000 lembar saham ADRO secara tidak langsung pada 19 Oktober 2026. Pembelian saham biasa ini dilakukan pada harga Rp2.130 per saham dengan tujuan investasi, sehingga nilai transaksinya sekitar Rp1 miliar.",
+   "Dengan transaksi ini, jumlah saham ADRO yang dikuasai Trinugraha Thohir naik dari 209.419.470 lembar menjadi 209.889.470 lembar, bertambah 470.000 lembar. Kenaikan ini mengangkat hak suaranya di ADRO dari 0,727 persen menjadi 0,729 persen, sehingga porsi kepemilikannya terhadap seluruh saham ADRO yang beredar nyaris tidak berubah.",
+   "Laporan ini disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka dan Aktivitas Menjaminkan Saham Perusahaan Terbuka, yang mewajibkan setiap pihak yang memiliki saham emiten melaporkan perubahan kepemilikannya ke OJK."
+  ],
+  "fotoAdegan": "Aerial view of a large coal mining pit with terraced haul roads and heavy trucks, overcast tropical sky",
+  "takeaway": "Transaksi ini tergolong netral bagi Alamtri Resources Indonesia karena ukurannya terlalu kecil untuk dibaca sebagai sinyal keyakinan, hanya menambah sekitar 0,22 persen dari saham yang sudah dipegang Trinugraha Thohir dan membuat hak suaranya nyaris tak bergerak dari 0,727 persen menjadi 0,729 persen. Yang tersentuh di sini hanya komposisi pemegang saham dan hak suara, bukan kondisi keuangan ADRO, sebab pembelian ini terjadi di pasar saham yang sudah ada, bukan penerbitan saham baru, sehingga jumlah saham beredar ADRO dan laba per saham pemegang lain tidak berubah. Yang perlu dipantau selanjutnya adalah apakah pembelian kecil semacam ini berlanjut dan membesar dalam laporan-laporan berikutnya ke OJK, karena baru pola akumulasi yang konsisten yang punya arti, sementara satu transaksi pada 19 Oktober 2026 ini belum cukup untuk disebut langkah strategis dari pihak yang berafiliasi dengan pengendali Adaro.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "akku-rugi-melebar-di-tengah-penjelasan-lonjakan-saham",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Rugi [Melebar] di Tengah Penjelasan Lonjakan Saham",
+  "deck": "AKKU gelar public expose insidentil usai suspensi BEI, ungkap rugi bersih melebar jadi Rp2,55 miliar di semester I 2026 meski pendapatan naik tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T21:25:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a8492def8e_d5956c0d2c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKKU",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Anugerah Kagum Karya Utama Tbk (AKKU) menggelar public expose insidentil pada 21 Oktober 2026, menyusul penghentian sementara perdagangan sahamnya oleh Bursa Efek Indonesia. BEI menyuspensi saham AKKU mulai 15 Oktober 2026 melalui surat Peng-SPT-00214/BEI.WAS/10-2026 karena kenaikan harga saham kumulatif yang signifikan, sebagai langkah pendinginan untuk melindungi investor. Suspensi itu dibuka kembali pada 19 Oktober 2026 lewat surat Peng-UPT-00224/BEI.WAS/10-2026. Dalam paparannya, manajemen AKKU menyebut kenaikan harga saham kemungkinan dipicu oleh naiknya pendapatan jasa manajemen hotel perseroan pada semester I 2026.",
+   "Materi yang disampaikan menunjukkan pendapatan AKKU naik dari Rp3,56 miliar pada semester I 2025 menjadi Rp3,75 miliar pada semester I 2026. Namun di baris paling bawah, rugi periode berjalan perseroan justru melebar tajam dari Rp707 juta menjadi Rp2,55 miliar, terutama akibat beban lain-lain yang membengkak. Ekuitas perseroan turun dari Rp393,84 miliar per akhir Desember 2025 menjadi Rp390,47 miliar per akhir Juni 2026, sementara liabilitas jangka pendek naik dari Rp229,47 miliar menjadi Rp232,28 miliar. Total aset relatif stabil di kisaran Rp694,6 miliar hingga Rp695,1 miliar.",
+   "Materi itu juga memuat komposisi pemegang saham AKKU per paparan ini: PT Renaldijaya Ekainti menggenggam 1.036.756.100 saham, PT Bintang Bersinar Cemerlang 721.187.100 saham, PT Gema Busana Raya 394.611.900 saham, dan PT Korek Api Guna Mandiri 358.795.300 saham, sementara publik memegang 3.938.113.236 saham dari total 6.449.463.636 saham beredar. Susunan pengurus yang hadir dalam paparan terdiri dari Presiden Komisaris Dharmithea Kiemas Hamidy, Komisaris Independen Wilhelmina, Presiden Direktur Irwan Suryadi, dan Direktur Heni Supartini."
+  ],
+  "fotoAdegan": "Facade of a modest commercial hotel building with palm trees and parked cars in an Indonesian city street, daytime",
+  "takeaway": "Laporan ini condong negatif bagi AKKU, sebab rugi bersihnya melebar hampir empat kali lipat dalam setahun, sementara penjelasan resmi perseroan atas lonjakan harga saham, yaitu kenaikan pendapatan sekitar 5 persen, terasa tipis untuk menjustifikasi kenaikan harga yang sampai memicu suspensi bursa. Pos yang tersentuh adalah laba rugi dan ekuitas: rugi bersih yang melebar berarti perusahaan makin jauh dari untung meski pendapatan naik, sedangkan ekuitas, yaitu selisih aset dikurangi utang alias kekayaan bersih pemegang saham, ikut menipis dalam enam bulan terakhir. Liabilitas jangka pendek yang naik turut menambah beban kewajiban yang harus dipenuhi perseroan dalam waktu dekat. Yang perlu dipantau berikutnya adalah sesi tanya jawab dalam public expose 21 Oktober 2026, di mana investor berpeluang meminta penjelasan lebih rinci soal selisih antara kenaikan harga saham dan kinerja keuangan yang justru memburuk, serta bagaimana perdagangan saham AKKU berjalan setelah suspensi dibuka kembali sejak 19 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "aadi-trinugraha-thohir-tambah-saham-102-600-lembar",
+  "category": "Aksi Korporasi",
+  "title": "AADI: Trinugraha Thohir [tambah] saham 102.600 lembar",
+  "deck": "Pemegang saham AADI, Trinugraha Thohir, membeli 102.600 saham baru pada 19 Oktober 2026, menaikkan hak suaranya tipis ke 1,1562 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T21:05:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-4182-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AADI",
+  "tags": [
+   "AADI",
+   "kepemilikan saham",
+   "Trinugraha Thohir",
+   "OJK"
+  ],
+  "body": [
+   "Trinugraha Thohir, pemegang saham PT Adaro Andalan Indonesia Tbk (AADI) yang bukan bagian dari jajaran direksi maupun dewan komisaris perseroan, melaporkan ke Otoritas Jasa Keuangan bahwa ia menambah kepemilikan sahamnya melalui dua transaksi pembelian tidak langsung pada 19 Oktober 2026. Transaksi pertama sebanyak 11.800 saham dengan harga Rp9.800 per lembar, dan transaksi kedua sebanyak 90.800 saham dengan harga Rp9.750 per lembar. Kedua transaksi disebutkan bertujuan investasi.",
+   "Dengan tambahan total 102.600 saham tersebut, kepemilikan Trinugraha di AADI naik dari 89.926.520 lembar menjadi 90.029.120 lembar. Hak suaranya di perseroan ikut bergeser tipis dari 1,1548 persen menjadi 1,1562 persen. Laporan ini disampaikan sesuai kewajiban Peraturan OJK Nomor 4/2024 tentang pelaporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Coal stockpiles and conveyor belts at a quiet export terminal under overcast sky, workers in hard hats in the distance",
+  "takeaway": "Laporan ini netral bagi AADI, karena pembelian 102.600 saham hanya setara 0,11 persen dari kepemilikan Trinugraha sebelumnya, terlalu kecil untuk dibaca sebagai sinyal keyakinan khusus terhadap prospek perseroan. Yang tersentuh di sini cuma struktur kepemilikan saham dan hak suara, yaitu persentase kendali seorang pemegang saham atas keputusan di rapat umum pemegang saham, bukan pos kinerja keuangan seperti laba atau arus kas perusahaan. Hak suara Trinugraha pun hanya bergeser dari 1,1548 persen menjadi 1,1562 persen, pergerakan yang nyaris tidak mengubah peta kendali di AADI. Yang perlu dicermati selanjutnya adalah apakah pembelian semacam ini berlanjut dalam laporan kepemilikan berikutnya, karena akumulasi kecil yang konsisten dari waktu ke waktu bisa jadi indikasi berbeda dibanding transaksi satu kali.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "program-kuliner-s-rasa-kantongi-us-31-juta-di-tei-2026",
   "category": "Bisnis",
   "title": "Program Kuliner S'RASA Kantongi [US$31 Juta] di TEI 2026",
@@ -24,6 +101,110 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Dari klaim total transaksi Rp560,61 miliar atau setara US$31,14 juta, yang benar-benar sudah terjadi hanya penjualan dan kontak dagang di paviliun sebesar US$944,85 ribu, kurang dari 3 persen dari total yang diumumkan. Sisanya, US$30,2 juta, berasal dari 14 nota kesepahaman antara produsen bumbu Indonesia dan pembeli dari lima negara, dan nota kesepahaman semacam ini baru tanda niat bekerja sama, belum kontrak jual beli yang pasti berjalan. Yang kena dampak langsung adalah produsen kecil seperti Mahorahora, produsen gula aren yang baru merintis kerja sama dengan pembeli di Belanda, serta jaringan restoran Indonesia di luar negeri yang didorong memakai bahan baku dari Tanah Air. Arah sebenarnya dari program ini baru akan terlihat jelas setelah Kemendag membawa S'RASA ke pameran di Tokyo pada 11-14 November 2026, dan yang perlu dipantau adalah apakah pemerintah nanti merilis data berapa dari 14 nota kesepahaman tahun ini yang benar-benar berubah menjadi pengiriman ekspor.",
   "imageV": "mvgqfo3f"
+ },
+ {
+  "slug": "bbtn-kaji-opsi-buyback-saham-di-tengah-gejolak-pasar",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Kaji Opsi [Buyback] Saham di Tengah Gejolak Pasar",
+  "deck": "Direktur Utama BTN Nixon L.P. Napitupulu menyatakan perseroan mengevaluasi opsi buyback saham, merujuk pengalaman 2020 saat menyiapkan Rp275 miliar untuk rencana serupa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T19:52:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f4e8d34933_33e284b2b2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBTN",
+  "tags": [
+   "BBTN",
+   "buyback saham",
+   "Bank Tabungan Negara",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bank Tabungan Negara (Persero) Tbk (BTN) menyampaikan keterbukaan informasi berupa siaran pers yang menyebut perseroan sedang mengkaji opsi pembelian kembali saham atau buyback sebagai salah satu alternatif aksi korporasi, di tengah dinamika pasar modal domestik. Direktur Utama BTN Nixon L.P. Napitupulu mengatakan kajian ini mempertimbangkan kondisi pasar, kebutuhan strategis perseroan, serta upaya menciptakan nilai tambah yang berkelanjutan bagi pemegang saham. Ia menegaskan pergerakan harga saham perlu dilihat secara menyeluruh dengan mempertimbangkan fundamental bisnis, prospek pertumbuhan, dan transformasi yang sedang dijalankan perusahaan.",
+   "Menurut Nixon, kajian buyback mempertimbangkan sejumlah aspek, yaitu kondisi keuangan, kecukupan permodalan, kebutuhan pendanaan untuk ekspansi bisnis, serta ketentuan regulator yang berlaku. Ia juga menyebut adanya potensi pemanfaatan saham hasil pembelian kembali untuk peruntukan tertentu sesuai kebutuhan perseroan, namun menegaskan bahwa setiap keputusan akan diambil secara terukur dengan mempertimbangkan kondisi keuangan, kecukupan modal, dan kepentingan seluruh pemegang saham.",
+   "Opsi buyback bukan hal baru bagi BTN. Pada 2020, di tengah tekanan pasar akibat pandemi Covid-19, perseroan pernah menyiapkan dana sebesar Rp275 miliar untuk rencana pembelian kembali saham melalui pasar sekunder, dan pengalaman itu menjadi salah satu rujukan dalam evaluasi kali ini. Nixon menambahkan bahwa di tengah dinamika pasar, BTN tetap berfokus memperkuat fundamental bisnis dan menggarap peluang di sektor pembiayaan perumahan, sejalan dengan dukungan terhadap Program 3 Juta Rumah dan transformasi perseroan menuju beyond mortgage. Perseroan menyatakan akan menyampaikan informasi lebih lanjut kepada publik apabila sudah ada keputusan terkait pelaksanaan aksi korporasi ini."
+  ],
+  "fotoAdegan": "Multi-story residential housing complex under construction with scaffolding, workers on site, Jakarta skyline hazy in the distance",
+  "takeaway": "Penilaian redaksi: laporan ini netral bagi fundamental BTN, karena isinya masih sebatas kajian dan wacana, belum ada keputusan, jumlah dana, atau jumlah saham yang dipastikan akan dibeli kembali. Yang tersentuh di sini adalah jumlah saham beredar dan laba per saham, karena kalau buyback benar dijalankan, saham yang ditarik dari pasar akan mengurangi jumlah saham beredar sehingga laba per saham secara matematis bisa naik, tapi di sisi lain memakai kas atau modal perusahaan yang sebenarnya bisa dipakai untuk ekspansi bisnis seperti pembiayaan perumahan. Sebagai pembanding, rencana serupa pada 2020 bernilai Rp275 miliar, jauh dari skala yang bisa mengubah struktur permodalan bank sebesar BTN secara signifikan. Yang perlu dipantau selanjutnya adalah apakah kajian ini akan berlanjut menjadi keputusan resmi, termasuk nilai dana dan jumlah saham yang dialokasikan, karena perseroan sendiri menyatakan baru akan mengumumkan rincian lebih lanjut jika keputusan itu sudah diambil, tanpa menyebut tenggat waktu tertentu dalam dokumen ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "prtl-catat-obligasi-rp741-miliar-di-bei-mulai-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PRTL catat [obligasi] Rp741 miliar di BEI mulai 21 Oktober",
+  "deck": "BEI mencatatkan dua seri obligasi Protelindo senilai Rp741,055 miliar mulai 21 Oktober 2026, dengan bunga 7,55-7,65 persen per tahun dan rating AAA dari Fitch.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T19:18:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea9fa9688f_f6ef77f08e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRTL",
+  "tags": [
+   "PRTL",
+   "obligasi korporasi",
+   "pasar modal",
+   "menara telekomunikasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan awal Obligasi Berkelanjutan V Protelindo Tahap II Tahun 2026 milik PT Profesional Telekomunikasi Indonesia (PRTL), mulai 21 Oktober 2026. Obligasi ini terdiri dari dua seri dengan total nilai Rp741,055 miliar, menggunakan wali amanat PT Bank Permata Tbk dan mengantongi peringkat AAA(idn) dari Fitch Ratings Indonesia, peringkat tertinggi dalam skala pemeringkatan obligasi.",
+   "Seri A bernilai Rp602,855 miliar dengan bunga tetap 7,55 persen per tahun, berjangka waktu tiga tahun sejak tanggal emisi 20 Oktober 2026 dan jatuh tempo 20 Oktober 2029. Seri B bernilai Rp138,2 miliar dengan bunga 7,65 persen per tahun, berjangka lima tahun dan jatuh tempo 20 Oktober 2031. Kedua seri dilunasi sekaligus di akhir periode, dan bunga dibayarkan setiap tiga bulan, dengan pembayaran kupon pertama pada 20 Januari 2027.",
+   "Penerbitan ini merupakan tahap kedua dari program Obligasi Berkelanjutan V Protelindo yang menargetkan total dana Rp20 triliun. Tahap pertama senilai Rp1,0158 triliun telah diterbitkan sebelumnya setelah pernyataan pendaftarannya efektif di OJK pada 30 Juni 2026. Penjamin pelaksana emisi pada tahap kedua ini adalah Mandiri Sekuritas, BCA Sekuritas yang berafiliasi dengan perseroan, BNI Sekuritas, CIMB Niaga Sekuritas, dan BRI Danareksa Sekuritas. Obligasi ini tidak dijamin dengan aset khusus, melainkan dengan seluruh kekayaan perseroan secara pari passu bersama kreditur lain yang tidak memiliki jaminan khusus."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians inspecting steel lattice tower cables and equipment in a rural Indonesian field at dusk",
+  "takeaway": "Laporan ini netral bagi Protelindo karena hanya menegaskan tahap pencatatan dari program obligasi yang sudah diketahui pasar sejak pekan lalu, tanpa mengubah gambaran fundamental perusahaan. Yang tersentuh adalah sisi utang dan beban bunga: perseroan menambah pinjaman Rp741,055 miliar yang harus dibayar bunganya setiap tiga bulan dan dilunasi penuh saat jatuh tempo, sehingga menambah beban kas tetap dalam tiga hingga lima tahun ke depan, meski peringkat AAA menunjukkan kemampuan bayar yang dinilai sangat kuat oleh lembaga pemeringkat. Yang perlu dipantau berikutnya adalah pembayaran kupon pertama pada 20 Januari 2027 sebagai uji awal kelancaran pembayaran, serta kelanjutan program senilai Rp20 triliun ini mengingat tahap selanjutnya belum ditentukan jadwalnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cbre-tukar-utang-pemegang-saham-jadi-pinjaman-rp70-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CBRE Tukar Utang Pemegang Saham Jadi [Pinjaman] Rp70 Miliar",
+  "deck": "CBRE menandatangani ulang perjanjian pinjaman Rp70 miliar dengan pemegang saham utama dan afiliasinya untuk melunasi utang lama, dengan bunga naik jadi 6,5 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T19:16:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a17854af4_efbe6e5e23.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBRE",
+  "tags": [
+   "CBRE",
+   "transaksi afiliasi",
+   "pinjaman",
+   "pelayaran"
+  ],
+  "body": [
+   "PT Cakra Buana Resources Energi Tbk (CBRE) menandatangani dua perjanjian pinjaman baru pada 16 Oktober 2026, masing-masing dengan pemegang saham utamanya PT Omudas Investment Holdco (OIH) senilai maksimal Rp50 miliar dan dengan PT Catur Dharma Anugerah Surya (CDAS) senilai maksimal Rp20 miliar, sehingga total nilai transaksi mencapai Rp70 miliar. Kedua pinjaman berjangka waktu lima tahun sejak tanggal penandatanganan dan dikenakan bunga 6,5 persen per tahun. OIH menguasai 61,13 persen saham CBRE, sementara CDAS tercatat sebagai pihak terafiliasi karena memiliki pengurus dan pengendali yang sama dengan OIH, sehingga transaksi ini digolongkan sebagai transaksi afiliasi sesuai POJK 42/2020.",
+   "Dana dari kedua pinjaman itu digunakan untuk melunasi utang lama CBRE kepada pihak berelasi, yaitu Rp40,78 miliar kepada OIH yang sebelumnya berbunga 5 persen per tahun, dan Rp11,97 miliar kepada CDAS yang sebelumnya berbunga 6 persen per tahun, berdasarkan laporan keuangan CBRE per 30 April 2026 yang diaudit Kantor Akuntan Publik Kanaka Puradiredja Suhartono. Sisa dana akan dipakai untuk modal kerja dan kebutuhan operasional perusahaan yang bergerak di jasa angkutan laut lewat kapal tongkang dan kapal tunda ini.",
+   "Per 30 April 2026, ekuitas CBRE tercatat negatif Rp35,13 miliar sementara total asetnya Rp1.999,2 miliar. Karena nilai buku ekuitas negatif, aturan OJK soal transaksi material (POJK 17/2020) mengukur batas materialitas dari total aset, bukan ekuitas, dengan ambang 10 persen dari aset. Nilai transaksi Rp70 miliar berada di bawah ambang itu sehingga tidak memerlukan persetujuan rapat umum pemegang saham, meski tetap memerlukan pendapat kewajaran dari penilai independen karena statusnya sebagai transaksi afiliasi. Penilai independen KJPP Kusnanto & rekan memberikan pendapat kewajaran atas transaksi ini, dan Dewan Komisaris CBRE menyetujuinya melalui surat No. 0012/SK-DKom/CBRE/X/2026 tanggal 20 Oktober 2026 sembari menyatakan tidak ada benturan kepentingan dalam transaksi tersebut."
+  ],
+  "fotoAdegan": "A tugboat towing a loaded cargo barge across calm coastal waters near a busy Indonesian port, early morning haze",
+  "takeaway": "Laporan ini condong netral bagi CBRE: pinjaman Rp70 miliar dari pemegang saham dan afiliasinya ini pada dasarnya hanya memperbarui utang lama yang nilainya sudah tercatat di buku perusahaan, bukan dana segar baru, dan jumlahnya cuma sekitar 3,5 persen dari total aset sehingga tidak mengubah struktur kendali atau kondisi keuangan secara signifikan. Yang perlu dicermati adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjaman ini, karena bunga baru 6,5 persen per tahun lebih tinggi dari bunga pinjaman lama yang 5 persen dari OIH dan 6 persen dari CDAS, sehingga ongkos utang CBRE ke pemegang saham dan afiliasinya justru naik meski tenornya lebih panjang. Ekuitas Perseroan juga masih negatif Rp35,13 miliar, artinya total utang CBRE sedikit lebih besar dari total hartanya, kondisi yang biasanya membuat pelaku pasar menyoroti kemampuan perusahaan melunasi kewajiban jangka panjang. Yang perlu dipantau selanjutnya adalah jatuh tempo pinjaman ini pada sekitar Oktober 2031 serta laporan keuangan CBRE pada periode-periode mendatang, untuk melihat apakah restrukturisasi utang ini benar-benar memperbaiki posisi ekuitas negatif perusahaan atau justru menambah beban bunga yang harus ditanggung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdka-resmi-catatkan-obligasi-rp4-12-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Resmi Catatkan Obligasi Rp4,12 Triliun di [BEI]",
+  "deck": "Obligasi Berkelanjutan V Tahap IV senilai Rp4,12 triliun milik MDKA mulai dicatatkan di BEI pada 21 Oktober 2026, terbagi dua seri dengan bunga tetap 8,25 persen dan 10 persen per tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T19:10:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/19ca095a94_3ee1d6b21a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKA",
+  "tags": [
+   "MDKA",
+   "obligasi",
+   "BEI",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Merdeka Copper Gold Tbk (MDKA) resmi mencatatkan Obligasi Berkelanjutan V Tahap IV Tahun 2026 di Bursa Efek Indonesia mulai 21 Oktober 2026, menyusul surat persetujuan BEI Nomor S-13199/BEI.PP1/10-2026 tanggal 19 Oktober 2026. Nilai pokok obligasi yang dicatatkan mencapai Rp4.119.180.000.000, atau sekitar Rp4,12 triliun, diterbitkan tanpa warkat dengan harga penawaran 100 persen dari nilai pokok.",
+   "Obligasi ini terbagi dua seri. Seri A bernilai Rp1.806.015.000.000 dengan bunga tetap 8,25 persen per tahun, berjangka waktu 367 hari kalender sejak tanggal emisi 20 Oktober 2026 dan jatuh tempo 27 Oktober 2027. Seri B bernilai Rp2.313.165.000.000 dengan bunga tetap 10,00 persen per tahun, berjangka waktu tiga tahun sejak tanggal emisi yang sama dan jatuh tempo 20 Oktober 2029. Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 20 Januari 2027, sedangkan pelunasan pokok masing-masing seri dilakukan penuh sekaligus (bullet payment) saat jatuh tempo, bukan dicicil.",
+   "Penerbitan ini merupakan bagian dari program Penawaran Umum Berkelanjutan Obligasi Berkelanjutan V dengan target total dana Rp15 triliun, setelah sebelumnya perseroan telah menerbitkan Rp6,1 triliun pada tahap-tahap terdahulu. Obligasi ini tidak dijamin dengan agunan khusus, melainkan dengan seluruh harta kekayaan perseroan sesuai Pasal 1131 dan 1132 KUH Perdata, dan berkedudukan pari passu dengan kreditur lain tanpa hak preferen. PT Bank Rakyat Indonesia (Persero) Tbk bertindak sebagai wali amanat, dengan peringkat idA+ dari Pefindo. Penjamin pelaksana emisi terdiri dari PT Indo Premier Sekuritas, PT Sucor Sekuritas, PT Aldiracita Sekuritas Indonesia, PT Trimegah Sekuritas Indonesia Tbk, dan PT BCA Sekuritas. Perseroan berhak melakukan pembelian kembali (buyback) sebagian atau seluruh obligasi mulai satu tahun setelah tanggal penjatahan, yakni 19 Oktober 2026."
+  ],
+  "fotoAdegan": "Industrial mining trucks hauling ore along a dusty access road at an open-pit copper and gold mine, midday sun, eastern Indonesia landscape.",
+  "takeaway": "Laporan ini saya nilai netral bagi MDKA, karena pencatatan di bursa ini cuma formalitas lanjutan dari penerbitan utang yang sudah diberitakan pekan lalu, bukan kabar baru soal arah bisnis atau tambahan modal segar untuk ekspansi. Yang tersentuh adalah beban bunga, yaitu biaya rutin yang wajib dibayar perusahaan ke pemegang obligasi setiap tiga bulan sebagai imbalan pinjaman, dengan bunga tetap 8,25 persen untuk seri yang jatuh tempo tahun depan dan 10 persen untuk seri yang baru lunas pada 2029, sehingga menambah beban tetap di laporan keuangan. Arus kas perusahaan juga perlu dicermati karena pelunasan pokok dilakukan sekaligus (bullet payment), bukan dicicil, sehingga perseroan harus menyiapkan dana besar persis di tanggal jatuh tempo, bukan menyebarnya bertahap. Yang perlu dipantau berikutnya adalah pembayaran bunga pertama pada 20 Januari 2027, jatuh tempo Seri A pada 27 Oktober 2027 senilai Rp1,81 triliun, serta kemungkinan pembelian kembali obligasi yang baru bisa dilakukan perseroan mulai 19 Oktober 2027.",
+  "sentimen": "netral"
  },
  {
   "slug": "jeli-klaim-tak-ada-info-material-di-balik-penurunan-harga-saham",
@@ -783,6 +964,31 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "tfco-saham-terkonsentrasi-99-70-free-float-tipis",
+  "category": "Aksi Korporasi",
+  "title": "TFCO: Saham Terkonsentrasi 99,70%, Free Float [Tipis]",
+  "deck": "BEI dan KSEI mengumumkan saham TFCO dikuasai segelintir pihak yang menguasai 99,70% total saham per 15 Oktober 2026, menyisakan saham beredar bebas yang sangat tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T14:39:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0bbe3f1e29_d3e3b321ad.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TFCO",
+  "tags": [
+   "TFCO",
+   "Tifico Fiber Indonesia",
+   "free float",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) mengumumkan status Kepemilikan Saham Terkonsentrasi Tinggi untuk saham PT Tifico Fiber Indonesia Tbk (TFCO), emiten yang tercatat di Papan Pengembangan. Berdasarkan struktur kepemilikan saham dalam bentuk warkat dan tanpa warkat per 15 Oktober 2026, sejumlah tertentu pemegang saham secara agregat menguasai 99,70 persen dari total saham TFCO. Dengan kata lain, hanya sekitar 0,30 persen saham TFCO yang berada di luar kelompok pemegang saham terkonsentrasi tersebut.",
+   "Pengumuman bernomor Peng-HSC-00085/BEI.WAS/10-2026 dari BEI dan Peng-00028/PWS/KSEI/1026 dari KSEI ini diterbitkan pada 20 Oktober 2026, ditandatangani oleh Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy. Dokumen menegaskan bahwa status kepemilikan saham terkonsentrasi tinggi ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan maupun ketentuan yang berlaku di bidang pasar modal. Identitas pemegang saham yang termasuk dalam kelompok terkonsentrasi tersebut tidak dirinci dalam pengumuman ini."
+  ],
+  "fotoAdegan": "Workers inspecting spools of synthetic fiber yarn on an industrial production line inside a textile factory in Indonesia",
+  "takeaway": "Pengumuman ini condong negatif bagi pemegang saham publik karena menegaskan betapa sempitnya saham TFCO yang benar-benar beredar bebas di pasar, hanya sekitar 0,30 persen dari total saham per 15 Oktober 2026. Konsentrasi setinggi ini tidak menyentuh pos kinerja seperti ekuitas atau laba perusahaan, tapi langsung memengaruhi likuiditas, yaitu kemudahan saham ini diperjualbelikan tanpa menggerakkan harga secara drastis, karena lembar saham yang bisa ditransaksikan publik sangat terbatas. Bursa sendiri menegaskan status ini tidak serta merta berarti ada pelanggaran aturan pasar modal, jadi ini murni status keterbukaan, bukan tuduhan masalah hukum. Yang perlu dipantau selanjutnya adalah apakah TFCO atau pemegang saham mayoritasnya mengambil langkah menambah saham beredar bebas, mengingat Bursa biasanya mencermati kepatuhan emiten di Papan Pengembangan terhadap ketentuan free float minimum setelah status konsentrasi tinggi seperti ini diumumkan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "boba-direksi-lepas-99-67-sahamnya-ke-227-200-lembar",
   "category": "Aksi Korporasi",
   "title": "BOBA: Direksi [Lepas] 99,67% Sahamnya ke 227.200 Lembar",
@@ -834,6 +1040,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang bergerak di balik lonjakan ini adalah aturan main pasar saham, bukan cuma minat beli investor. BEI berencana mewajibkan pemegang saham berafiliasi yang punya lebih dari 1 persen saham untuk lebih terbuka, sekaligus bersiap mengeluarkan saham-saham dengan kepemilikan yang terlalu terpusat di segelintir pihak dari hitungan IHSG, merespons evaluasi ulang lembaga indeks global MSCI. Pihak yang paling terdampak adalah emiten dengan kepemilikan terkonsentrasi itu, investor yang dananya mengikuti indeks MSCI, serta saham-saham bank milik negara yang kabarnya akan ditambah kepemilikannya oleh Danantara, lembaga pengelola investasi negara. Pola ini mengarah ke pengetatan tata kelola bursa secara bertahap, bukan sekadar reaksi sesaat atas penurunan pasar sebelumnya, dan yang akan memastikannya adalah bagaimana BEI merealisasikan aturan pengeluaran saham HSC tersebut serta hasil evaluasi lanjutan MSCI terhadap bobot saham Indonesia.",
   "imageV": "mvgck5n2"
+ },
+ {
+  "slug": "emas-rencanakan-penambahan-modal-potensi-dilusi-10",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Rencanakan Penambahan Modal, Potensi [Dilusi] 10%",
+  "deck": "EMAS berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu hingga 1,47 miliar lembar atau maksimal 10% modal disetor, menanti persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T13:59:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c4b6bca03d_1385efc5ec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "PMTHMETD",
+   "dilusi saham",
+   "RUPS"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) mengumumkan rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu I, atau PMTHMETD I, dengan jumlah sebanyak-banyaknya 1.473.136.606 saham. Jumlah itu setara maksimal 10 persen dari total saham yang sudah ditempatkan dan disetor penuh saat ini, yaitu 14.731.366.060 saham dengan nilai nominal Rp150 per saham. Rencana ini tercantum dalam Akta Pernyataan Keputusan Rapat Perubahan Anggaran Dasar No. 78 tertanggal 12 Mei 2026 yang dibuat di hadapan Notaris Jose Dima Satria, S.H., M.Kn., dan sudah diberitahukan ke Menteri Hukum pada tanggal yang sama lewat tanda terima No. AHU-AH.01.03-0137498.",
+   "Karena skema ini tidak memberi pemegang saham lama kesempatan membeli lebih dulu, perseroan wajib mendapat persetujuan Rapat Umum Pemegang Saham sesuai Pasal 8A ayat (1) dan Pasal 15 ayat (1a) POJK 14/2019 sebelum rencana ini bisa dijalankan. Pengumuman keterbukaan informasi ini disampaikan bersamaan dengan pengumuman RUPS, sesuai aturan yang sama. Perseroan juga menyebut turut memperhatikan Surat Keputusan Direksi BEI No. Kep-00152/BEI/10-2026 tentang perubahan Peraturan Nomor I-A soal pencatatan saham dan efek bersifat ekuitas.",
+   "Dokumen ditandatangani oleh Adi Adriansyah Sjoekri selaku Corporate Secretary dan diterbitkan di Jakarta pada 20 Oktober 2026. Perseroan sendiri awalnya berdiri dengan nama PT Pani Bersama Jaya berdasarkan akta pendirian tahun 2015, dan saat ini sahamnya tercatat di Bursa Efek Indonesia sekaligus memiliki Hong Kong Depositary Receipts melalui secondary listing di Main Board Bursa Efek Hong Kong. Dokumen yang diterima belum memuat harga pelaksanaan, calon pembeli saham baru, maupun rencana penggunaan dananya."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting gold ore on a conveyor belt at an open-pit mining processing plant, dusty daylight",
+  "takeaway": "Rencana ini condong negatif bagi pemegang saham lama karena menambah jumlah saham beredar hingga 10 persen tanpa memberi mereka hak membeli lebih dulu, sehingga porsi kepemilikan mereka otomatis mengecil begitu saham baru terbit. Yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu ukuran keuntungan perusahaan yang dibagi rata ke setiap lembar saham, karena kalau laba perusahaan tidak naik sebanding dengan tambahan jumlah saham, bagian keuntungan untuk setiap pemegang saham lama akan mengecil. Dokumen ini belum menyebut untuk apa dana dari penerbitan saham baru ini dipakai, maupun kepada siapa saham itu akan dijual, sehingga belum bisa dinilai apakah ada sisi menguntungkan yang mengimbangi dilusi tersebut. Yang perlu dipantau berikutnya adalah RUPS yang harus menyetujui rencana ini terlebih dahulu, beserta harga pelaksanaan dan pihak penerima saham baru begitu diumumkan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "direksi-gmfi-beli-500-000-saham-senilai-rp20-juta",
@@ -966,6 +1198,32 @@ var ARTICLES = [
   "fotoAdegan": "Muddy open-pit coal mine terraces in Kalimantan with heavy rain clouds overhead and idle excavators parked on wet ground",
   "takeaway": "Materi public expose ini condong negatif bagi BOSS, karena memperlihatkan bahwa lebih dari dua tahun setelah suspensi, perseroan belum menemukan mitra strategis untuk modal kerja dan satu anak usahanya, Bangun Olah Sarana Sukses, masih berstatus pailit dengan izin tambang yang belum pasti. Yang tersentuh adalah arus kas perseroan, karena kegiatan penambangan anak usaha sempat terhenti total akibat longsor dan belum ada kepastian kapan produksi kembali normal, sementara kebutuhan modal kerja masih menunggu suntikan dari pihak luar. Cadangan batubara 15,3 juta ton yang dimiliki juga baru bisa digarap penuh kalau proses perpanjangan izin dan kerja sama dengan kurator anak usaha yang pailit itu selesai. Yang perlu dipantau berikutnya adalah hasil Public Expose pada 29 Oktober 2026, apakah perseroan akhirnya mengumumkan progres konkret negosiasi mitra strategis dan laporan keuangan auditan yang selama ini tertunda, karena dua hal itu menjadi syarat utama sebelum suspensi saham bisa dicabut.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "emas-jadwalkan-rups-pemegang-saham-independen-26-november",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Jadwalkan RUPS Pemegang Saham [Independen] 26 November",
+  "deck": "Merdeka Gold Resources menjadwalkan RUPS khusus pemegang saham independen pada 26 November 2026, dengan tanggal pencatatan pemegang saham pada 3 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T13:17:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f0a676271d_aa0c033d68.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "RUPS Independen",
+   "Merdeka Gold Resources",
+   "Corporate Action"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) mengumumkan rencana menggelar Rapat Umum Pemegang Saham Luar Biasa yang khusus dihadiri Pemegang Saham Independen. Rapat ini dijadwalkan pada Kamis, 26 November 2026, pukul 14.00 WIB. Pelaksanaannya akan dilakukan secara elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia (KSEI), sehingga pemegang saham dapat hadir atau memberi kuasa suara dari jarak jauh lewat platform AKSes.KSEI.",
+   "Perseroan menetapkan 3 November 2026 sebagai tanggal pencatatan pemegang saham yang berhak hadir dalam rapat ini. Siapa pun yang namanya tercatat dalam Daftar Pemegang Saham, atau tercatat di sub-rekening efek KSEI pada penutupan perdagangan BEI tanggal tersebut, berhak ikut. Pemanggilan resmi yang memuat mata acara rapat baru akan diumumkan pada 4 November 2026, lewat situs BEI, situs perseroan, dan situs eASY.KSEI. Pemegang saham yang mewakili sedikitnya 5 persen dari total saham berhak suara juga bisa mengusulkan tambahan mata acara, dengan syarat usulan itu sampai ke direksi paling lambat 7 hari kalender sebelum tanggal pemanggilan.",
+   "Rapat ini khusus untuk Pemegang Saham Independen, yakni pemegang saham yang tidak punya kepentingan ekonomi pribadi atas transaksi tertentu dan bukan anggota direksi, komisaris, pemegang saham utama, pengendali, atau pihak terafiliasi dengan mereka. Karena itu, kuorum kehadiran dan kuorum keputusan dihitung hanya dari saham milik kelompok pemegang saham independen, bukan dari seluruh saham beredar. Rapat pertama sah jika dihadiri lebih dari separuh saham berhak suara milik pemegang saham independen, dan keputusannya sah jika disetujui lebih dari separuh suara yang hadir. Jika kuorum itu tidak tercapai, rapat kedua akan digelar 10 sampai 21 hari kalender sesudahnya dengan syarat kuorum yang sama, sementara rapat ketiga, jika tetap diperlukan, memakai kuorum khusus yang ditetapkan OJK atas permohonan perseroan."
+  ],
+  "fotoAdegan": "Miners and heavy equipment operating at an open-pit gold mine, dust rising under early morning sunlight, no signage visible.",
+  "takeaway": "Pengumuman ini sendiri netral karena hanya memuat jadwal dan tata cara rapat, belum ada angka transaksi baru yang diungkap. Namun rapat ini dikhususkan untuk pemegang saham independen, mekanisme yang lazim dipakai saat ada rencana transaksi yang bersinggungan dengan kepentingan direksi, komisaris, pemegang saham utama, atau pengendali, sehingga keputusan akhir diserahkan ke pemegang saham yang bebas dari konflik itu. Pos yang berpotensi tersentuh adalah hak suara dan jumlah saham beredar, mengingat EMAS sebelumnya mengumumkan rencana penambahan modal dengan potensi dilusi 10 persen tanpa hak memesan efek lebih dulu bagi pemegang saham lama, sehingga RUPS independen ini kemungkinan besar berkaitan dengan permintaan restu untuk rencana tersebut. Yang perlu dipantau berikutnya adalah pemanggilan resmi berisi mata acara rapat yang baru akan diumumkan pada 4 November 2026, karena di situ akan terlihat transaksi apa sebenarnya yang dimintakan persetujuan, serta hasil pemungutan suara pada RUPS 26 November 2026 itu sendiri.",
+  "sentimen": "netral"
  },
  {
   "slug": "bei-catatkan-218-juta-saham-baru-apex-dilusi-6-15",

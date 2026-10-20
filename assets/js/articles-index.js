@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "adro-trinugraha-thohir-tambah-saham-470-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "ADRO: Trinugraha Thohir [Tambah] Saham 470.000 Lembar",
+  "deck": "Trinugraha Thohir menambah kepemilikan sahamnya di Alamtri Resources Indonesia (ADRO) sebanyak 470.000 lembar pada 19 Oktober 2026, menaikkan hak suaranya dari 0,727% menjadi 0,729%.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADRO",
+   "Alamtri Resources Indonesia",
+   "kepemilikan saham",
+   "Trinugraha Thohir"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-9170-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akku-rugi-melebar-di-tengah-penjelasan-lonjakan-saham",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Rugi [Melebar] di Tengah Penjelasan Lonjakan Saham",
+  "deck": "AKKU gelar public expose insidentil usai suspensi BEI, ungkap rugi bersih melebar jadi Rp2,55 miliar di semester I 2026 meski pendapatan naik tipis.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a8492def8e_d5956c0d2c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aadi-trinugraha-thohir-tambah-saham-102-600-lembar",
+  "category": "Aksi Korporasi",
+  "title": "AADI: Trinugraha Thohir [tambah] saham 102.600 lembar",
+  "deck": "Pemegang saham AADI, Trinugraha Thohir, membeli 102.600 saham baru pada 19 Oktober 2026, menaikkan hak suaranya tipis ke 1,1562 persen.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AADI",
+   "kepemilikan saham",
+   "Trinugraha Thohir",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-4182-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "program-kuliner-s-rasa-kantongi-us-31-juta-di-tei-2026",
   "category": "Bisnis",
   "title": "Program Kuliner S'RASA Kantongi [US$31 Juta] di TEI 2026",
@@ -16,6 +64,70 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/capaian-srasa-di-tei-ke-41-kantongi-total-transaksi-sebesar-usd-3114-juta",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bbtn-kaji-opsi-buyback-saham-di-tengah-gejolak-pasar",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Kaji Opsi [Buyback] Saham di Tengah Gejolak Pasar",
+  "deck": "Direktur Utama BTN Nixon L.P. Napitupulu menyatakan perseroan mengevaluasi opsi buyback saham, merujuk pengalaman 2020 saat menyiapkan Rp275 miliar untuk rencana serupa.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBTN",
+   "buyback saham",
+   "Bank Tabungan Negara",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f4e8d34933_33e284b2b2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prtl-catat-obligasi-rp741-miliar-di-bei-mulai-21-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PRTL catat [obligasi] Rp741 miliar di BEI mulai 21 Oktober",
+  "deck": "BEI mencatatkan dua seri obligasi Protelindo senilai Rp741,055 miliar mulai 21 Oktober 2026, dengan bunga 7,55-7,65 persen per tahun dan rating AAA dari Fitch.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRTL",
+   "obligasi korporasi",
+   "pasar modal",
+   "menara telekomunikasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea9fa9688f_f6ef77f08e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbre-tukar-utang-pemegang-saham-jadi-pinjaman-rp70-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CBRE Tukar Utang Pemegang Saham Jadi [Pinjaman] Rp70 Miliar",
+  "deck": "CBRE menandatangani ulang perjanjian pinjaman Rp70 miliar dengan pemegang saham utama dan afiliasinya untuk melunasi utang lama, dengan bunga naik jadi 6,5 persen.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBRE",
+   "transaksi afiliasi",
+   "pinjaman",
+   "pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a17854af4_efbe6e5e23.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdka-resmi-catatkan-obligasi-rp4-12-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Resmi Catatkan Obligasi Rp4,12 Triliun di [BEI]",
+  "deck": "Obligasi Berkelanjutan V Tahap IV senilai Rp4,12 triliun milik MDKA mulai dicatatkan di BEI pada 21 Oktober 2026, terbagi dua seri dengan bunga tetap 8,25 persen dan 10 persen per tahun.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKA",
+   "obligasi",
+   "BEI",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/19ca095a94_3ee1d6b21a.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "jeli-klaim-tak-ada-info-material-di-balik-penurunan-harga-saham",
@@ -486,6 +598,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tfco-saham-terkonsentrasi-99-70-free-float-tipis",
+  "category": "Aksi Korporasi",
+  "title": "TFCO: Saham Terkonsentrasi 99,70%, Free Float [Tipis]",
+  "deck": "BEI dan KSEI mengumumkan saham TFCO dikuasai segelintir pihak yang menguasai 99,70% total saham per 15 Oktober 2026, menyisakan saham beredar bebas yang sangat tipis.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TFCO",
+   "Tifico Fiber Indonesia",
+   "free float",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0bbe3f1e29_d3e3b321ad.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "boba-direksi-lepas-99-67-sahamnya-ke-227-200-lembar",
   "category": "Aksi Korporasi",
   "title": "BOBA: Direksi [Lepas] 99,67% Sahamnya ke 227.200 Lembar",
@@ -517,6 +645,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473988-ihsg-rebound-416-persen-analis-dipicu-buyback-saham-hingga-kebijakan-otoritas"
+ },
+ {
+  "slug": "emas-rencanakan-penambahan-modal-potensi-dilusi-10",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Rencanakan Penambahan Modal, Potensi [Dilusi] 10%",
+  "deck": "EMAS berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu hingga 1,47 miliar lembar atau maksimal 10% modal disetor, menanti persetujuan RUPS.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "PMTHMETD",
+   "dilusi saham",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c4b6bca03d_1385efc5ec.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "direksi-gmfi-beli-500-000-saham-senilai-rp20-juta",
@@ -597,6 +741,22 @@ var ARTICLES = [
    "Pertambangan Batubara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bb54998009_41fecfdb33.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "emas-jadwalkan-rups-pemegang-saham-independen-26-november",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Jadwalkan RUPS Pemegang Saham [Independen] 26 November",
+  "deck": "Merdeka Gold Resources menjadwalkan RUPS khusus pemegang saham independen pada 26 November 2026, dengan tanggal pencatatan pemegang saham pada 3 November 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "RUPS Independen",
+   "Merdeka Gold Resources",
+   "Corporate Action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f0a676271d_aa0c033d68.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6364,167 +6524,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/183ce5a897_0fcbe40844.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btps-ajukan-buyback-saham-hingga-rp1-triliun-di-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "BTPS Ajukan [Buyback] Saham Hingga Rp1 Triliun di RUPSLB",
-  "deck": "BTPN Syariah mengajukan rencana pembelian kembali saham senilai maksimal Rp1 triliun lewat RUPSLB hari ini, didukung laba bersih Rp655 miliar pada semester I 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "buyback saham",
-   "RUPSLB",
-   "perbankan syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0700a65913_d15045ad7f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-setop-sementara-waran-brna-w-pada-14-15-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BEI Setop Sementara [Waran] BRNA-W pada 14-15 Oktober",
-  "deck": "Bursa Efek Indonesia meniadakan perdagangan Waran Seri I Berlina Tbk (BRNA-W) di seluruh pasar mulai sesi pertama 14 Oktober hingga 15 Oktober 2026, terkait proses pencatatan saham baru perseroan.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRNA",
-   "BRNA-W",
-   "waran",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Peniadaan Waran BRNA-W 261013-No. Peng-00194BEI.POP10-2026.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wsbp-panggil-rupslb-kedua-soal-konversi-utang-jadi-saham",
-  "category": "Aksi Korporasi",
-  "title": "WSBP Panggil RUPSLB Kedua Soal [Konversi] Utang Jadi Saham",
-  "deck": "Setelah RUPS pertama gagal kuorum, WSBP menjadwalkan ulang rapat pada 23 Oktober 2026 untuk mengesahkan konversi utang Rp1,72 triliun menjadi saham baru.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "RUPSLB",
-   "konversi utang",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/589ca26fbf_68fb837190.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-panggil-rupsu-minta-penundaan-bayar-bagi-hasil-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Panggil RUPSU, Minta [Penundaan] Bayar Bagi Hasil Sukuk",
-  "deck": "WIKA mengundang pemegang Sukuk Mudharabah Berkelanjutan I Tahap II 2021 ke RUPSU 28 Oktober 2026 untuk membahas penundaan pembayaran bagi hasil dan perubahan jatuh tempo.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c2e93bf65c_ffc9214e97.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xmes-4-manajer-investasi-gabung-lahir-danareksa-im",
-  "category": "Aksi Korporasi",
-  "title": "XMES: 4 Manajer Investasi [Gabung], Lahir Danareksa IM",
-  "deck": "Pengelola reksa dana XMES, PT Mandiri Manajemen Investasi, resmi gabung dengan BNI AM, BRI MI, dan PNM IM menjadi PT Danareksa Investment Management Indonesia efektif 1 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XMES",
-   "manajer investasi",
-   "merger BUMN",
-   "Danareksa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/63cf2bbc9e_a6febb2533.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tufi-tunjuk-komisaris-independen-baru-tunggu-uji-ojk",
-  "category": "Aksi Korporasi",
-  "title": "TUFI tunjuk [komisaris independen] baru, tunggu uji OJK",
-  "deck": "Komisaris independen baru TUFI, Ahmad Bahtiar Sebayang, menunggu uji kelayakan OJK sebelum menggantikan Fendy Eventius Mugni.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TUFI",
-   "Mandiri Tunas Finance",
-   "komisaris independen",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c91c66ec69_b3e523e6f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xmsk-empat-manajer-investasi-gabung-jadi-danareksa-im",
-  "category": "Aksi Korporasi",
-  "title": "XMSK: Empat Manajer Investasi Gabung Jadi [Danareksa IM]",
-  "deck": "Manajer investasi pengelola ETF XMSK berganti nama jadi PT Danareksa Investment Management Indonesia setelah bergabung dengan BNI AM, BRI MI, dan PNM IM, efektif 1 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XMSK",
-   "Danareksa Investment Management Indonesia",
-   "merger manajer investasi",
-   "reksa dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0d9d06a024_8085f15fbd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-raih-peringkat-ke-8-layanan-terbaik-bumn",
-  "category": "BUMN",
-  "title": "Pegadaian Raih Peringkat [Ke-8] Layanan Terbaik BUMN",
-  "deck": "Pegadaian masuk 10 besar BUMN dengan layanan terbaik dalam penilaian pengalaman pelanggan pertama yang digelar Danantara untuk seluruh BUMN.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/pegadaian-raih-peringkat-ke-8-layanan-terbaik-bumn.jpg",
-  "imageV": "mv6p9tak",
-  "tags": [
-   "pegadaian",
-   "bumn",
-   "danantara",
-   "cx100 award"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472774-wujud-nyata-transformasi-layanan-pegadaian-tembus-top-10-bumn-layanan-terbaik-dalam-danantara-indonesia-cx100-award-2026"
- },
- {
-  "slug": "xmlf-penggabungan-mmi-bni-am-bri-mi-pnm-im-jadi-danareksa-im",
-  "category": "Aksi Korporasi",
-  "title": "XMLF: [Penggabungan] MMI-BNI AM-BRI MI-PNM IM jadi Danareksa IM",
-  "deck": "Manajer investasi XMLF berganti nama jadi Danareksa Investment Management Indonesia usai merger dengan BNI AM, BRI MI, dan PNM IM; modal disetor naik jadi Rp182,92 miliar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XMLF",
-   "Danareksa Investment Management Indonesia",
-   "Penggabungan Manajer Investasi",
-   "Reksa Dana ETF"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/09e46aa10f_ea9e757552.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtps-jual-gedung-kantor-rp94-5-m-penilai-sebut-tidak-wajar",
-  "category": "Aksi Korporasi",
-  "title": "MTPS Jual Gedung Kantor Rp94,5 M, Penilai Sebut [Tidak Wajar]",
-  "deck": "MTPS akan menjual gedung kantornya ke KETR senilai Rp94,5 miliar, tapi penilai independen menyebut harga itu tidak wajar. RUPS digelar 24 November 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTPS",
-   "Ketrosden Triasmitra",
-   "transaksi material",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6dadc5848d_82962ab0bb.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "petani-sawit-swadaya-kaltim-ikuti-pelatihan-standar-industri",
+  "category": "Industri",
+  "title": "Petani Sawit Swadaya Kaltim Ikuti Pelatihan [Standar] Industri",
+  "deck": "TAP melatih 42 petani swadaya sawit di Kaltim lewat program PERKASA, mencakup pembibitan hingga manajemen panen, dengan partisipasi perempuan 40 persen pada batch terbaru.",
+  "image": "assets/img/petani-sawit-swadaya-kaltim-ikuti-pelatihan-standar-industri.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T02:15:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474125-tingkatkan-produktivitas-petani-swadaya-kaltim-dilatih-praktik-budidaya-sawit-berstandar-industri",
+  "tags": [
+   "sawit",
+   "petani swadaya",
+   "Kaltim",
+   "TAP"
+  ],
+  "body": [
+   "PT Triputra Agro Persada Tbk (TAP), melalui inisiatif TAP Untuk Negeri, menggelar pelatihan Petani Berkualitas dan Sejahtera (PERKASA) bagi petani swadaya di sekitar wilayah operasional PT Dwiwira Lestari Jaya di Kalimantan Timur. Tujuannya menaikkan produktivitas kebun sawit rakyat agar mendekati standar yang dipakai perkebunan korporasi. Ini penting karena sebagian besar lahan sawit Indonesia dikelola petani mandiri yang selama ini kerap kalah hasil dibanding perkebunan besar.",
+   "Batch ke-109 ini melibatkan 42 petani swadaya yang dibimbing praktisi dengan pengalaman lebih dari 20 tahun di industri sawit. Materinya mencakup seluruh rangkaian pengelolaan kebun, dari pembibitan, pemupukan, pengendalian hama, sampai manajemen panen, termasuk teknik teknis seperti penyemprotan hama secara tertarget (spot spraying) dan pengaturan pemangkasan pelepah. Menteri Pertanian Andi Amran Sulaiman menyebut produktivitas dan kualitas sawit rakyat hanya bisa naik lewat pendampingan, transfer pengetahuan, dan kolaborasi yang kuat.",
+   "Partisipasi perempuan pada batch terakhir mencapai 40 persen, menandakan pelatihan pengelolaan kebun kini menjangkau lebih banyak kalangan di masyarakat, tidak hanya petani laki-laki yang biasanya dominan di sektor ini. Jarmansyah, perwakilan Pemerintah Desa Biatan Ulu, Kabupaten Berau, menyambut program ini karena menurutnya banyak petani di wilayahnya yang sudah lama bertani namun hasilnya belum memuaskan, dan ia berharap pelatihan ini menambah wawasan sekaligus hasil kebun warga.",
+   "TAP menyebut program ini berkelanjutan, dengan harapan petani swadaya mengadopsi praktik budidaya yang lebih efisien dan bertanggung jawab secara mandiri ke depannya."
+  ],
+  "fotoAdegan": "Farmers in work clothes practicing pruning and spraying techniques among rows of oil palm trees, tropical Kalimantan plantation, daylight.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/21/6ad7bc2738658-petani-swadaya-kaltim-dilatih-praktik-budidaya-sawit-berstandar-industri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah di sini adalah 42 petani swadaya di Kabupaten Berau mengikuti batch ke-109 pelatihan PERKASA, dengan partisipasi perempuan mencapai 40 persen, jauh lebih tinggi dari gambaran umum sektor perkebunan yang biasanya didominasi laki-laki. Yang terdampak jelas dari sisi ceritanya: petani swadaya sawit di sekitar wilayah operasional anak usaha TAP di Kaltim, khususnya warga Desa Biatan Ulu. Tapi untuk membaca ke mana arah program ini, misalnya apakah benar menaikkan hasil kebun petani atau sekadar program tanggung jawab sosial perusahaan yang rutin jalan, datanya belum cukup. Angka batch ke-109 menunjukkan program ini sudah berjalan lama dan berulang, tapi tidak ada angka hasil panen atau pendapatan petani dari batch-batch sebelumnya yang bisa dipakai membandingkan sebelum dan sesudah pelatihan. Yang perlu ditunggu adalah data produktivitas atau pendapatan petani peserta batch-batch terdahulu, bukan sekadar jumlah peserta baru di setiap batch.",
+  "imageV": "mvh2n439"
+ },
+ {
+  "slug": "kepala-bnppdt-dorong-program-ekonomi-konkret-perbatasan",
+  "category": "Makroekonomi",
+  "title": "Kepala BNPPDT Dorong Program Ekonomi [Konkret] Perbatasan",
+  "deck": "Kepala BNPPDT Jenderal TNI Maruli Simanjuntak meminta jajarannya menguji coba program ekonomi yang murah dan cepat dijalankan di wilayah perbatasan.",
+  "image": "assets/img/kepala-bnppdt-dorong-program-ekonomi-konkret-perbatasan.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T00:59:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474122-kepala-bnppdt-jenderal-tni-maruli-dorong-prioritas-program-ekonomi-konkret-di-wilayah-perbatasan",
+  "tags": [
+   "BNPPDT",
+   "perbatasan",
+   "ekonomi daerah",
+   "TNI"
+  ],
+  "body": [
+   "Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT), Jenderal TNI Maruli Simanjuntak, meminta jajarannya berhenti berkutat di tahap wacana dan langsung menjalankan program ekonomi yang benar-benar dirasakan warga di wilayah perbatasan. Arahan ini disampaikan dalam rapat koordinasi perdana bersama pimpinan BNPPDT di Jakarta, Selasa (20/10). Fokusnya pada program yang praktis dan murah, bukan rencana besar yang lama dieksekusi.",
+   "Maruli menginstruksikan agar setiap konsep peningkatan ekonomi masyarakat yang terlihat tidak mahal dan mudah dijalankan langsung diuji coba di lapangan. Untuk mendukung itu, ia memerintahkan pembentukan tim khusus yang melibatkan akademisi, mahasiswa, dan para ahli. Tim ini bertugas memetakan potensi dan kebutuhan spesifik di tiap daerah, misalnya kebutuhan transportasi air dan sarana infrastruktur penunjang lainnya, yang hasilnya akan jadi acuan BNPPDT menyusun rencana pengembangan wilayah.",
+   "Meski ada perubahan pendekatan ini, Maruli menegaskan pekerjaan yang sudah berjalan tidak boleh terganggu. Ia meminta seluruh jajarannya tetap produktif dan segera melaporkan hambatan yang butuh solusi cepat. Lewat pemetaan potensi yang lebih akurat, BNPPDT berharap bisa mempercepat pemenuhan kebutuhan dasar masyarakat di kawasan perbatasan dan daerah terpencil secara lebih tepat sasaran."
+  ],
+  "fotoAdegan": "Wooden passenger boats docked at a simple riverside jetty in a remote Indonesian border village, misty morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/21/6ad7ab3d111d9-kepala-badan-nasional-pengelola-perbatasan-dan-daerah-terpencil-bnppdt-jenderal-tni-maruli-simanjuntak_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan cara kerja: BNPPDT diminta berhenti pada level konsep dan langsung menguji coba program ekonomi yang murah serta mudah dijalankan, dibantu tim khusus berisi akademisi dan mahasiswa yang memetakan kebutuhan tiap daerah, misalnya transportasi air. Yang terdampak langsung adalah masyarakat di wilayah perbatasan dan daerah terpencil yang selama ini menunggu program itu benar-benar jalan, serta jajaran BNPPDT yang kini harus melapor cepat kalau ada hambatan. Berita ini belum menyebut anggaran, daerah mana yang jadi prioritas pertama, atau tenggat kerja tim pemetaan tersebut, sehingga belum bisa dipastikan apakah arahan ini akan berubah jadi program nyata dalam waktu dekat atau berhenti sebagai hasil rapat. Yang perlu ditunggu adalah hasil kerja tim khusus itu dan program uji coba pertama yang benar-benar dijalankan di lapangan.",
+  "imageV": "mvh2n4hq"
+ },
+ {
   "slug": "bpdp-dukung-hilirisasi-kelapa-di-wcd-2026-manado",
   "category": "Industri",
   "title": "BPDP Dukung Hilirisasi [Kelapa] di WCD 2026 Manado",

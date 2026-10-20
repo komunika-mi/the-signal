@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "petani-sawit-swadaya-kaltim-ikuti-pelatihan-standar-industri",
+  "category": "Industri",
+  "title": "Petani Sawit Swadaya Kaltim Ikuti Pelatihan [Standar] Industri",
+  "deck": "TAP melatih 42 petani swadaya sawit di Kaltim lewat program PERKASA, mencakup pembibitan hingga manajemen panen, dengan partisipasi perempuan 40 persen pada batch terbaru.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/petani-sawit-swadaya-kaltim-ikuti-pelatihan-standar-industri.jpg",
+  "imageV": "mvh2n439",
+  "tags": [
+   "sawit",
+   "petani swadaya",
+   "Kaltim",
+   "TAP"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474125-tingkatkan-produktivitas-petani-swadaya-kaltim-dilatih-praktik-budidaya-sawit-berstandar-industri"
+ },
+ {
+  "slug": "kepala-bnppdt-dorong-program-ekonomi-konkret-perbatasan",
+  "category": "Makroekonomi",
+  "title": "Kepala BNPPDT Dorong Program Ekonomi [Konkret] Perbatasan",
+  "deck": "Kepala BNPPDT Jenderal TNI Maruli Simanjuntak meminta jajarannya menguji coba program ekonomi yang murah dan cepat dijalankan di wilayah perbatasan.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/kepala-bnppdt-dorong-program-ekonomi-konkret-perbatasan.jpg",
+  "imageV": "mvh2n4hq",
+  "tags": [
+   "BNPPDT",
+   "perbatasan",
+   "ekonomi daerah",
+   "TNI"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474122-kepala-bnppdt-jenderal-tni-maruli-dorong-prioritas-program-ekonomi-konkret-di-wilayah-perbatasan"
+ },
+ {
   "slug": "bpdp-dukung-hilirisasi-kelapa-di-wcd-2026-manado",
   "category": "Industri",
   "title": "BPDP Dukung Hilirisasi [Kelapa] di WCD 2026 Manado",
@@ -6494,37 +6528,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sehari-menuju-tei-2026-mendag-busan-indonesia-siap-sambut-buyer-dari-seluruh-dunia",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "wsbp-jadwalkan-rupslb-kedua-konversi-utang-jadi-saham",
-  "category": "Aksi Korporasi",
-  "title": "WSBP Jadwalkan RUPSLB Kedua [Konversi Utang] jadi Saham",
-  "deck": "PT Waskita Beton Precast Tbk (WSBP) menjadwalkan RUPSLB Kedua pada 23 Oktober 2026 untuk meminta restu pemegang saham atas rencana konversi utang kreditur menjadi saham baru lewat penambahan modal tanpa HMETD.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "PMTHMETD",
-   "RUPSLB",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9f7f2d1374_de88f8dee9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smii-catatkan-obligasi-rp3-3-triliun-di-bursa",
-  "category": "Aksi Korporasi",
-  "title": "SMII Catatkan [Obligasi] Rp3,3 Triliun di Bursa",
-  "deck": "BEI mencatatkan tiga seri obligasi SMII senilai total Rp3,3 triliun mulai 14 Oktober 2026, dengan bunga 7,15 sampai 7,65 persen dan jatuh tempo bertahap hingga 2031.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMII",
-   "obligasi korporasi",
-   "pasar modal",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b739e93078_d113de7b8d.pdf",
-  "sourceLabel": "IDX"
  }
 ];

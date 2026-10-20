@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-jadi-rp2-564-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.564.000/Gram",
+  "deck": "Harga emas Antam turun Rp10.000 menjadi Rp2.564.000 per gram pada 20 Oktober 2026, sementara harga buyback juga turun ke Rp2.379.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-564-000-gram.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T10:27:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473949-saatnya-borong-harga-emas-antam-hari-ini-20-oktober-2026-terpantau-turun-jadi-rp2564000-per-gram",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "buyback emas"
+  ],
+  "body": [
+   "Harga emas batangan Antam turun Rp10.000 menjadi Rp2.564.000 per gram pada hari ini, 20 Oktober 2026, berdasarkan pemantauan laman Logam Mulia. Sehari sebelumnya, harga emas Antam masih berada di Rp2.574.000 per gram. Pergerakan harga ini menjadi acuan harian bagi masyarakat yang membeli atau menyimpan emas batangan.",
+   "Harga pembelian kembali atau buyback, yaitu harga saat Antam membeli balik emas dari masyarakat, ikut turun menjadi Rp2.379.000 per gram. Selisih antara harga jual Rp2.564.000 dan harga buyback Rp2.379.000 per gram ini merupakan margin yang didapat Antam dalam setiap transaksi jual beli emas batangannya.",
+   "Transaksi buyback dengan nilai di atas Rp10 juta dikenakan pajak penghasilan (PPh) Pasal 22 sebesar 1,5 persen, yang dipotong langsung dari total nilai transaksi saat pencairan. Sementara itu, pembelian emas Antam dikenakan pajak lebih kecil, yaitu PPh 0,25 persen dari harga dasar yang tercantum di laman resmi Logam Mulia.",
+   "Antam mengingatkan bahwa harga emas batangan ini bisa berubah sewaktu-waktu mengikuti pergerakan pasar, sehingga angka yang berlaku saat transaksi berlangsung bisa berbeda dari yang dipantau pada pagi hari."
+  ],
+  "fotoAdegan": "Small gold bars and ingots arranged on a velvet tray inside a jewelry store display case, soft warm lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/06/05/665fc52aebfa1-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini hanya angka harga, turun Rp10.000 pada harga jual dan ikut turun pada harga buyback ke Rp2.379.000 per gram, sehingga dampaknya langsung terasa bagi masyarakat yang berencana menjual emas batangannya karena akan menerima uang tunai sedikit lebih kecil dibanding sehari sebelumnya, serta bagi calon pembeli yang bisa menebus dengan harga sedikit lebih murah. Data yang tersedia hanya potret satu hari, jadi belum terlihat apakah penurunan ini sekadar koreksi sesaat atau bagian dari tren pelemahan harga emas yang lebih panjang. Yang masih kurang adalah perbandingan dengan harga emas dunia dalam dolar AS, yang biasanya jadi acuan utama pergerakan harga Antam, serta data harga beberapa hari sebelumnya untuk melihat arah trennya. Pembaca yang ingin tahu apakah ini awal pelemahan atau sekadar fluktuasi harian perlu memantau harga Antam dalam beberapa hari ke depan.",
+  "imageV": "mvg74jm4"
+ },
+ {
   "slug": "atic-entitas-direksi-tambah-26-400-saham-di-pasar",
   "category": "Aksi Korporasi",
   "title": "ATIC: Entitas Direksi Tambah [26.400] Saham di Pasar",

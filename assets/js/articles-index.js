@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-jadi-rp2-564-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.564.000/Gram",
+  "deck": "Harga emas Antam turun Rp10.000 menjadi Rp2.564.000 per gram pada 20 Oktober 2026, sementara harga buyback juga turun ke Rp2.379.000 per gram.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-564-000-gram.jpg",
+  "imageV": "mvg74jm4",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "buyback emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473949-saatnya-borong-harga-emas-antam-hari-ini-20-oktober-2026-terpantau-turun-jadi-rp2564000-per-gram"
+ },
+ {
   "slug": "atic-entitas-direksi-tambah-26-400-saham-di-pasar",
   "category": "Aksi Korporasi",
   "title": "ATIC: Entitas Direksi Tambah [26.400] Saham di Pasar",
@@ -6518,22 +6535,6 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-5821-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rdtx-panggil-rupslb-bahas-persetujuan-stock-split-saham",
-  "category": "Aksi Korporasi",
-  "title": "RDTX Panggil RUPSLB Bahas Persetujuan [Stock Split] Saham",
-  "deck": "RDTX mengundang pemegang saham menghadiri RUPSLB pada 4 November 2026 untuk menyetujui pemecahan nilai nominal saham, dengan pemegang saham per 12 Oktober 2026 yang berhak hadir dan memberi suara.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RDTX",
-   "stock split",
-   "RUPSLB",
-   "Roda Vivatex"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5f7a5398a1_40d03b713e.pdf",
   "sourceLabel": "IDX"
  }
 ];

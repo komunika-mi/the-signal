@@ -3,6 +3,188 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bbsi-laniwati-tjandra-mundur-dari-direktur-sales",
+  "category": "Aksi Korporasi",
+  "title": "BBSI: Laniwati Tjandra [Mundur] dari Direktur Sales",
+  "deck": "Krom Bank Indonesia melaporkan pengunduran diri Laniwati Tjandra dari jabatan Conventional & Sales Director, efektif setelah disetujui RUPSLB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T17:31:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/883faa3be2_ae562d6ea5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBSI",
+  "tags": [
+   "BBSI",
+   "Krom Bank Indonesia",
+   "direksi",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Krom Bank Indonesia Tbk (BBSI) menyampaikan keterbukaan informasi bahwa pada Jumat, 16 Oktober 2026, perseroan menerima surat pengunduran diri Laniwati Tjandra dari jabatannya sebagai Conventional & Sales Director. Posisi ini mengurusi lini bisnis perbankan konvensional dan penjualan di bank yang selama ini dikenal dengan model digital.",
+   "Pengunduran diri tersebut belum berlaku langsung. Perusahaan menyatakan status itu baru efektif setelah mendapat persetujuan pemegang saham melalui Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) terdekat. Dokumen ini tidak mencantumkan alasan pengunduran diri maupun nama calon pengganti.",
+   "Dalam laporan yang sama, manajemen menegaskan bahwa peristiwa ini tidak membawa dampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, atau kelangsungan usaha perseroan. Laporan ditandatangani oleh Corporate Secretary Senior Manager Antik Rosalia Indah dan disampaikan ke OJK serta Bursa Efek Indonesia pada 20 Oktober 2026, sesuai ketentuan POJK No. 31/POJK.04/2015 dan Pasal 9 POJK No. 33/POJK.04/2014."
+  ],
+  "fotoAdegan": "Interior of a modern bank branch with tellers assisting customers at counters, soft morning daylight through glass windows",
+  "takeaway": "Penilaian saya netral, karena pengunduran direktur ini tidak disertai alasan maupun rencana pengganti, dan perusahaan sendiri menegaskan tidak ada dampak material terhadap operasional atau keuangan. Yang tersentuh di sini adalah susunan direksi, bukan pos keuangan seperti ekuitas atau laba, tapi pelaku pasar tetap memperhatikan pergantian direksi karena menyangkut kelangsungan strategi bisnis konvensional dan penjualan yang sebelumnya dipegang Laniwati Tjandra. Pengunduran diri ini juga belum final, sebab baru berlaku efektif setelah disetujui pemegang saham lewat RUPSLB terdekat, sehingga yang perlu dipantau selanjutnya adalah kapan RUPSLB itu digelar dan siapa yang diajukan sebagai pengganti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "meta-jadwalkan-rupslb-pada-26-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "META jadwalkan [RUPSLB] pada 26 November 2026",
+  "deck": "Nusantara Infrastructure (META) mengumumkan rencana RUPSLB 26 November 2026, dengan tanggal pencatatan pemegang saham 3 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T17:18:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dd506d4810_23946cc49d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "META",
+  "tags": [
+   "META",
+   "RUPSLB",
+   "Nusantara Infrastructure",
+   "corporate action"
+  ],
+  "body": [
+   "PT Nusantara Infrastructure Tbk (META) melalui Corporate Secretary Dahlia Evawani mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 26 November 2026 pukul 10.00 WIB. Lokasi fisik rapat belum diumumkan, namun pelaksanaannya bersifat hybrid, bisa dihadiri langsung maupun secara elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang ingin hadir secara elektronik dapat memberi kuasa melalui tautan KSEI tersebut, dibantu biro administrasi efek perseroan, PT Adimitra Jasa Korpora.",
+   "Hak hadir dan memberi suara dalam rapat ditentukan berdasarkan daftar pemegang saham pada Selasa, 3 November 2026 pukul 16.00 WIB. Siapa pun yang namanya tercatat sebagai pemegang saham pada tanggal itu yang berhak hadir atau mewakilkan suaranya di RUPSLB. Perseroan juga membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat usulan tertulis sudah diterima direksi paling lambat Rabu, 28 Oktober 2026, yaitu tujuh hari kalender sebelum pemanggilan resmi rapat. Rapat dianggap sah jika dihadiri pemegang saham yang mewakili lebih dari separuh total saham berhak suara, dan keputusan disetujui bila didukung lebih dari separuh suara yang hadir.",
+   "Pengumuman ini belum memuat agenda atau alasan di balik RUPSLB. Perseroan menyebut pemanggilan resmi rapat, yang biasanya memuat agenda lengkap, baru akan disampaikan melalui situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs resmi perseroan pada Rabu, 4 November 2026."
+  ],
+  "fotoAdegan": "Elevated toll road stretching into the distance with light traffic, construction cranes visible near an overpass, late afternoon haze",
+  "takeaway": "Pengumuman ini netral bagi META karena baru memberi tahu jadwal rapat tanpa membuka agenda atau alasan di baliknya, sehingga pelaku pasar belum punya dasar untuk menilai dampaknya terhadap kinerja perseroan. Yang disebut di sini cuma mekanisme RUPSLB: tanggal pencatatan pemegang saham menentukan siapa yang berhak memberi suara, dan syarat kuorum lebih dari separuh saham berhak suara menentukan apakah keputusan rapat nanti sah secara hukum. Investor perlu menunggu pemanggilan resmi pada 4 November 2026, yang lazimnya memuat agenda rapat yang sesungguhnya, sambil memperhatikan tenggat usulan mata acara dari pemegang saham pada 28 Oktober 2026 dan pelaksanaan RUPSLB itu sendiri pada 26 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbhi-teken-sewa-afiliasi-rp4-27-miliar-dengan-bank-mega",
+  "category": "Aksi Korporasi",
+  "title": "BBHI Teken Sewa [Afiliasi] Rp4,27 Miliar dengan Bank Mega",
+  "deck": "Allo Bank menyewa ruang dan lahan di gedung arsip Bank Mega senilai Rp4,27 miliar untuk tiga tahun, bagian dari transaksi dalam satu kelompok usaha Mega Corpora.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T17:04:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/61690dc509_8dc6e07424.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBHI",
+  "tags": [
+   "BBHI",
+   "Allo Bank",
+   "Bank Mega",
+   "transaksi afiliasi"
+  ],
+  "body": [
+   "PT Allo Bank Indonesia Tbk (BBHI) menandatangani perjanjian sewa menyewa ruang dan lahan dengan PT Bank Mega Tbk pada 16 Oktober 2026. Objek yang disewa adalah ruang di lantai dasar seluas 685,89 meter persegi dan lahan di halaman luar gedung seluas 517,90 meter persegi, keduanya berada di Gedung Arsip Bank Mega di Jalan Raya Pagar Arang, Kecamatan Cipayung, Jakarta Timur. Masa sewa berlaku 36 bulan, terhitung sejak 16 Oktober 2026 hingga 15 Oktober 2029.",
+   "Total nilai transaksi tercatat Rp4.267.681.200, belum termasuk PPN, dengan rincian biaya sewa ruang lantai dasar Rp3.950.726.400 dan sewa lahan halaman Rp316.954.800 untuk seluruh periode 36 bulan. Perseroan menyebut nilai ini tidak melampaui ambang batas 0,5 persen dari modal disetor maupun batas maksimal Rp5 miliar yang diatur POJK Nomor 42/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan, sehingga Allo Bank hanya wajib melaporkannya kepada Otoritas Jasa Keuangan paling lambat akhir hari kerja kedua setelah transaksi terjadi, tanpa perlu persetujuan pemegang saham independen.",
+   "Transaksi ini dikategorikan afiliasi karena Allo Bank dan Bank Mega dikendalikan langsung oleh pihak yang sama, yakni PT Mega Corpora, yang menguasai 60,88 persen saham Allo Bank dan 58,02 persen saham Bank Mega. Dalam suratnya, Allo Bank menyebut kerja sama ini sebagai bagian dari sinergi sesama anggota kelompok usaha Bank Mega untuk mendukung pelayanan terpadu, dan menyatakan transaksi dengan pihak tidak terafiliasi tidak akan memberikan manfaat sinergi dan finansial yang sama. Surat ditandatangani oleh Yanuanto Asah selaku Pelaksana Tugas Direktur Utama Allo Bank."
+  ],
+  "fotoAdegan": "Exterior of a mid-rise office building with a paved outdoor courtyard and parked service vehicles, overcast afternoon in Jakarta.",
+  "takeaway": "Transaksi ini netral bagi Allo Bank karena nilainya sangat kecil, hanya sekitar 0,2 persen dari modal disetor perseroan yang mencapai Rp2,17 triliun, sehingga tidak mengubah gambaran keuangan perusahaan secara material. Pos yang tersentuh hanyalah beban operasional berupa biaya sewa gedung, bukan ekuitas atau laba per saham, dan pelaku pasar biasanya memperhatikan transaksi afiliasi semacam ini bukan karena besarannya tapi karena potensi konflik kepentingan ketika dua perusahaan dengan pengendali yang sama bertransaksi satu sama lain. Yang perlu dicermati bukan dampak langsung ke kinerja, melainkan apakah ada rangkaian transaksi afiliasi lain antara Allo Bank dan kelompok usaha Bank Mega yang nilainya terus terakumulasi mendekati ambang batas pelaporan yang lebih ketat. Kontrak sewa ini sendiri baru akan jatuh tempo pada 15 Oktober 2029, saat itulah publik bisa melihat apakah kerja sama serupa diperpanjang atau diperluas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sdra-jadwalkan-rupslb-pada-26-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "SDRA Jadwalkan [RUPSLB] pada 26 November 2026",
+  "deck": "Bank Woori Saudara mengumumkan rencana RUPSLB pada 26 November 2026, dengan tanggal pencatatan pemegang saham 3 November dan tenggat usul agenda 28 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T16:36:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c41568f42e_2ad5de65e6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SDRA",
+  "tags": [
+   "SDRA",
+   "RUPSLB",
+   "Bank Woori Saudara",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Woori Saudara Indonesia 1906 Tbk (SDRA) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 26 November 2026 pukul 10.00 WIB di Treasury Tower Lantai 38, District 8 SCBD, Jakarta Selatan. Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan atau tercatat di sub rekening efek KSEI pada penutupan perdagangan saham SDRA di Bursa Efek Indonesia tanggal 3 November 2026.",
+   "Perseroan membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat. Syaratnya, pengusul harus mewakili minimal 1/20 atau 5 persen dari total saham dengan hak suara yang sah, mengajukan usulan secara tertulis dengan alasan dan dokumen pendukung, serta usulan itu harus diterima Direksi paling lambat Rabu, 28 Oktober 2026. Panggilan resmi RUPSLB yang memuat agenda lengkap rapat baru akan diumumkan lewat situs web KSEI, Bursa Efek Indonesia, dan situs resmi SDRA pada Rabu, 4 November 2026.",
+   "Dalam pengumuman ini, perseroan juga menghimbau pemegang saham untuk menggunakan hak suaranya secara elektronik atau melalui mekanisme kuasa elektronik (e-Proxy) lewat sistem eASY.KSEI, sesuai aturan Pasal 28 ayat 2 POJK 15/2020 dan Peraturan KSEI Nomor XI-B tentang pelaksanaan RUPS secara elektronik."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's Sudirman business district seen from a busy street at midday, cars passing",
+  "takeaway": "Laporan ini netral bagi SDRA, sebab baru mengumumkan rencana dan jadwal rapat tanpa menyebutkan agenda atau keputusan apa pun yang akan diambil, jadi belum ada dampak yang bisa dinilai ke kinerja perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh dari sekadar pengumuman jadwal ini, karena isi keputusan RUPSLB, misalnya soal permodalan atau susunan pengurus, belum diungkapkan ke publik. Yang perlu dipantau adalah pemanggilan resmi yang memuat agenda lengkap rapat, dijadwalkan terbit 4 November 2026 lewat situs KSEI, BEI, dan situs SDRA, karena di situlah substansi RUPSLB baru akan terlihat. Pemegang saham yang ingin mengajukan usul mata acara juga punya tenggat sampai 28 Oktober 2026, sementara rapatnya sendiri digelar 26 November 2026 di Jakarta.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pool-paparkan-peta-jalan-keluar-dari-suspensi-bursa",
+  "category": "Aksi Korporasi",
+  "title": "POOL Paparkan Peta Jalan Keluar dari [Suspensi] Bursa",
+  "deck": "Dalam Public Expose Tahunan 2026, manajemen baru Pool Advista Indonesia memaparkan rencana audit tiga tahun buku, divestasi 30% saham POLA, dan peta jalan keluar dari suspensi saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T16:24:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/17c0420986_bac0e8ce8a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POOL",
+  "tags": [
+   "POOL",
+   "Pool Advista Indonesia",
+   "Public Expose",
+   "Divestasi POLA"
+  ],
+  "body": [
+   "PT Pool Advista Indonesia Tbk (POOL) memaparkan susunan pengurus barunya yang efektif sejak RUPSLB 22 September 2026. Dewan Komisaris diisi Marang sebagai Komisaris Utama dan Hamdriyanto sebagai Komisaris Independen, sementara Direksi dipimpin Teuku Johas Raffli sebagai Direktur Utama, didampingi Teuku Rahmatsyah sebagai Direktur Keuangan serta Ferdiansyah Siregar sebagai Direktur Hukum, Kepatuhan, dan Sekretaris Perusahaan. Dengan pengurus yang kembali lengkap, perusahaan menyebut fungsi tata kelola dan keterbukaan informasi yang sebelumnya tidak berjalan, menyusul kekosongan pengurus, kini berfungsi kembali. Saham POOL sendiri telah disuspensi sejak 10 Juni 2020 dan masuk Papan Pemantauan Khusus, dipicu opini disclaimer auditor atas kelangsungan usaha tiga entitas anak pada waktu itu.",
+   "Agenda utama Direksi baru adalah menuntaskan audit Laporan Keuangan tahun buku 2023, 2024, dan 2025 yang sampai saat ini belum disampaikan ke OJK dan Bursa Efek Indonesia. Penunjukan Kantor Akuntan Publik dilakukan Oktober 2026, audit ketiga tahun buku berjalan paralel hingga Desember 2026, dengan target penerbitan Laporan Keuangan Auditan pada akhir tahun ini, yang akan dilanjutkan dengan RUPS Tahunan dan tahap normalisasi status perusahaan. Angka internal yang belum diaudit menunjukkan ekuitas konsolidasi Rp344,4 miliar dan liabilitas hanya Rp9,8 miliar per 30 Juni 2026. Rugi periode Januari-Juni tercatat menyusut tiga periode berturut-turut, dari Rp6,6 miliar pada 2024 dan Rp4,8 miliar pada 2025 menjadi Rp0,45 miliar pada 2026, namun perusahaan sendiri menjelaskan penurunan itu terutama berasal dari penekanan beban usaha, bukan dari kenaikan pendapatan. Pendapatan Januari-Juni 2026 justru tercatat Rp10,0 miliar, turun dari Rp34,2 miliar pada periode sama 2025 yang saat itu masih memuat pendapatan operasional lain yang tidak berulang.",
+   "Di sisi aksi korporasi, POOL telah menandatangani Conditional Share Purchase Agreement untuk melepas 30% saham anak usahanya, PT Pool Advista Finance Tbk (POLA), yang diumumkan ke publik pada 8 Oktober 2026. Harga transaksi mengacu pada nilai buku dengan dukungan penilaian dari Kantor Jasa Penilai Publik independen, dan setelah transaksi ini POOL menyatakan tetap menjadi pemegang saham pengendali POLA, dari posisi kepemilikan saat ini sebesar 76,34%. Tujuan transaksi adalah membentuk likuiditas dari aset penyertaan, yang rencananya ditempatkan kembali antara lain pada Surat Berharga Negara dan penataan portofolio efek yang sudah dimiliki perusahaan, tanpa mengelola dana pihak ketiga."
+  ],
+  "fotoAdegan": "Modern office tower facade in Jakarta's Permata Hijau business district at late afternoon, light street traffic in foreground",
+  "takeaway": "Laporan ini kami nilai netral bagi fundamental POOL. Pembentukan manajemen baru dan neraca yang hampir tanpa utang memang sinyal perbaikan tata kelola, tetapi hasil nyatanya, lolos audit dan lepas dari suspensi, belum terjadi, sementara pendapatan operasional dari bisnis inti justru menyusut tajam dibanding tahun lalu. Pos yang tersentuh di sini adalah ekuitas, yaitu selisih aset dengan utang yang mencerminkan kekayaan bersih perusahaan, yang tercatat Rp344,4 miliar jauh di atas utangnya yang cuma Rp9,8 miliar, sehingga perusahaan punya modal untuk menata ulang investasinya tanpa terbebani cicilan utang; pelaku pasar juga memperhatikan tren rugi yang menyusut, meski di sini penyebabnya penghematan biaya, bukan bisnis yang membesar. Yang perlu dipantau berikutnya adalah penerbitan Laporan Keuangan Auditan untuk tahun buku 2023, 2024, dan 2025 yang ditargetkan rampung akhir Desember 2026, karena hasil audit itulah yang menjadi prasyarat sebelum Bursa Efek Indonesia bisa mempertimbangkan pencabutan suspensi saham POOL.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nayz-akuisisi-rp23-5-saham-rights-issue-picu-dilusi",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ akuisisi Rp23,5/saham, rights issue picu [dilusi]",
+  "deck": "NAYZ menjelaskan ke Bursa bahwa harga akuisisi Rp23,5 per saham jauh di bawah harga pasar, dan akan gelar rights issue untuk membeli saham Bangkok Tellink.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T16:22:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/37cab57f84_e2fbd53a62.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "akuisisi",
+   "rights issue",
+   "Bangkok Tellink"
+  ],
+  "body": [
+   "PT Hassana Boga Sejahtera Tbk (NAYZ) menjawab surat permintaan penjelasan Bursa Efek Indonesia tertanggal 16 Oktober 2026 terkait pengambilalihan sahamnya oleh Saiko Consultancy Pte Ltd dari pengendali lama, Asia Intrainvesta. Perseroan menjelaskan bahwa harga pengambilalihan sebesar Rp23,5 per saham, jauh di bawah harga penutupan saham di bursa pada 19 Agustus 2026 yang sebesar Rp63 per saham, merupakan hasil negosiasi penjual dan pembeli dalam skema jual beli saham dalam jumlah besar, bukan cerminan penurunan kinerja keuangan perusahaan. Menyusul pengambilalihan itu, RUPS Luar Biasa pada 2 Oktober 2026 menyetujui pengangkatan Nusttanakit Sasiarnon sebagai Direktur dan Sawin Laosethakul sebagai Komisaris, keduanya perwakilan Saiko. Perseroan memastikan tidak ada perubahan kebijakan dividen maupun perjanjian utang penting akibat pengambilalihan ini, dan Saiko bersama PT Saiko Consultancy Grand menyatakan tidak berencana melepas status pengendali dalam 10 tahun ke depan.",
+   "Perseroan juga menjelaskan rencana membeli 1.138.500 saham Bangkok Tellink Co Ltd (BTL), setara 20 persen dari 5.692.500 saham BTL, senilai Rp448,3 miliar. Dana itu tidak akan diambil dari kas internal yang per 30 Juni 2026 hanya tersisa Rp6,1 miliar, melainkan dari dana hasil Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (rights issue) yang akan dilakukan bersamaan dengan proses inbreng, yaitu penyetoran modal dalam bentuk saham Bangkok Tellink, bukan uang tunai, ke dalam NAYZ. Total nilai pengalihan saham BT diperkirakan US$125 juta atau setara Rp2,24 triliun berdasarkan metode arus kas masa depan (discounted cash flow) oleh penilai Avison Young, jauh di atas nilai ekuitas BTL pada laporan keuangan 2025 yang cuma Rp27,9 miliar. Perseroan menyebut nilai final nanti akan mengacu pada penilaian independen dari kantor jasa penilai publik yang terdaftar di OJK. Dari rincian aset BT per akhir 2025, total asetnya tercatat Rp74 miliar, terdiri dari kas Rp1,7 miliar, piutang usaha Rp20,1 miliar, persediaan Rp19,7 miliar yang sebagian besar berupa 9.000 unit mesin penjual otomatis kartu SIM isi ulang di gerai 7-Eleven di Thailand, serta aset tidak lancar lain seperti goodwill aplikasi payment gateway dan jaminan saldo pulsa.",
+   "Soal lini bisnis, Perseroan menegaskan tidak ada perubahan rencana: bisnis makanan bayi yang selama ini dijalankan akan tetap berjalan sampai proses inbreng selesai, setelah itu kegiatan usaha akan beralih sepenuhnya ke bidang telekomunikasi dan teknologi, sejalan dengan bisnis Bangkok Tellink yang bergerak di layanan operator jaringan virtual, isi ulang pulsa, dan sistem pembayaran elektronik. Perseroan memperkirakan RUPS independen dan pernyataan pendaftaran rights issue berlangsung pada kuartal pertama 2027, disusul pembelian 20 persen saham BTL dan pernyataan efektif dari OJK pada kuartal kedua 2027. Kepemilikan efektif 75 persen atas BTL serta konsolidasi pendapatannya ke laporan keuangan NAYZ ditargetkan baru tercermin pada laporan keuangan periode 31 Desember 2027. Dalam 12 bulan ke depan, perusahaan berencana menggelar RUPS Luar Biasa untuk meminta persetujuan pemegang saham atas pelaksanaan rights issue tersebut."
+  ],
+  "fotoAdegan": "Compact SIM card vending machines lined against a convenience store wall in Bangkok, screens angled away, warm evening lighting, no customers nearby",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama karena pembelian 20 persen saham Bangkok Tellink senilai Rp448,3 miliar akan dibiayai dari rights issue baru, padahal kas perusahaan per Juni 2026 cuma Rp6,1 miliar, sehingga jumlah saham beredar dipastikan membengkak dan laba per saham bagi pemegang saham yang tidak ikut menyetor modal baru berpotensi terdilusi. Nilai transaksi inbreng sebesar Rp2,24 triliun yang dihitung dengan proyeksi arus kas masa depan jauh di atas nilai aset tercatat BT yang cuma sekitar Rp74 miliar per akhir 2025, sehingga pemegang saham perlu menunggu penilaian independen dari kantor jasa penilai publik resmi sebelum bisa menilai kewajaran harga itu. Harga pengambilalihan pengendalian Rp23,5 per saham, jauh di bawah harga pasar Rp63 per saham saat itu, juga berarti pemegang saham publik tidak otomatis ikut menikmati premi yang lazim didapat dalam pengambilalihan terbuka. Yang perlu dipantau berikutnya adalah RUPS Luar Biasa dan pernyataan pendaftaran rights issue yang ditargetkan kuartal pertama 2027, serta hasil penilaian independen atas aset Bangkok Tellink yang akan menentukan harga pelaksanaannya, sebelum perusahaan resmi berpindah bisnis dari makanan bayi ke telekomunikasi pada kuartal kedua 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "unvr-jadwalkan-rupslb-26-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "UNVR Jadwalkan [RUPSLB] 26 November 2026",
+  "deck": "Unilever Indonesia mengumumkan rencana RUPSLB pada 26 November 2026, dengan pemegang saham yang berhak hadir dicatat per 3 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T16:22:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0ff4765f0c_7cf8589059.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNVR",
+  "tags": [
+   "UNVR",
+   "RUPSLB",
+   "Unilever Indonesia",
+   "Rapat Pemegang Saham"
+  ],
+  "body": [
+   "PT Unilever Indonesia Tbk (UNVR) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 26 November 2026, pukul 10.30 WIB. Rapat akan digelar secara elektronik melalui fasilitas eASY.KSEI di situs https://easy.ksei.co.id/, dengan lokasi fisik penyelenggaraan di Grha Unilever, Green Office Park Kav. 3, Jalan BSD Boulevard Barat, BSD City, Tangerang. Pengumuman yang diteken Corporate Secretary Mario Abdi Amrillah ini belum memuat agenda atau mata acara Rapat, karena agenda resmi baru akan disampaikan dalam panggilan Rapat yang dijadwalkan terbit pada 4 November 2026 melalui situs Bursa Efek Indonesia, situs Perseroan, dan situs KSEI.",
+   "Perseroan menetapkan 3 November 2026 pukul 16.00 WIB sebagai batas waktu pencatatan pemegang saham yang berhak hadir dan memberikan suara dalam RUPSLB. Pemegang saham yang mewakili 1/20 atau lebih dari total saham berhak suara berhak mengusulkan mata acara tambahan, dengan syarat usulan diajukan dengan itikad baik, memperhatikan kepentingan Perseroan, membutuhkan keputusan Rapat, disertai alasan dan bahan pendukung, tidak melanggar aturan yang berlaku, dan disampaikan paling lambat tujuh hari sebelum panggilan Rapat, atau sekitar 28 Oktober 2026.",
+   "Perseroan mengimbau pemegang saham untuk hadir secara elektronik atau memberikan kuasa elektronik (e-proxy) melalui eASY.KSEI. Fasilitas tersebut tersedia mulai tanggal panggilan Rapat pada 4 November 2026 sampai satu hari kerja sebelum Rapat, yakni 25 November 2026 pukul 12.00 WIB. Mekanisme pemberian kuasa dan prosedur lainnya akan dijelaskan lebih lanjut dalam panggilan Rapat."
+  ],
+  "fotoAdegan": "Exterior of a quiet modern glass office building in a suburban business park, empty plaza, soft afternoon light in Indonesia",
+  "takeaway": "Pengumuman ini netral bagi kinerja emiten karena baru sebatas jadwal RUPSLB, belum mengungkap agenda atau keputusan yang akan diambil, sehingga belum ada dampak finansial yang bisa dinilai. Begitu agenda resmi muncul dalam panggilan Rapat, pasar baru bisa menilai apakah ada perubahan pada pos seperti ekuitas, jumlah saham beredar, atau kebijakan dividen, karena RUPSLB biasanya dipakai untuk aksi korporasi di luar agenda rutin tahunan. Yang perlu dipantau: panggilan resmi Rapat pada 4 November 2026 yang akan memuat mata acara, tenggat pengajuan usul mata acara oleh pemegang saham pemilik minimal 1/20 saham berhak suara yang jatuh sekitar 28 Oktober 2026, dan pelaksanaan RUPSLB itu sendiri pada 26 November 2026 pukul 10.30 WIB.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ekspor-produk-hijau-ri-tumbuh-59-7-persen-syarat-ue-ketat",
   "category": "Industri",
   "title": "Ekspor Produk Hijau RI [Tumbuh] 59,7 Persen, Syarat UE Ketat",
@@ -28,6 +210,135 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari forum ini bukan aturan baru, melainkan sinyal bahwa pembeli di luar negeri, terutama Uni Eropa, makin menuntut bukti nyata bahwa barang yang dibeli benar-benar ramah lingkungan, bukan sekadar klaim di atas kertas. Data yang disodorkan Kemendag menunjukkan tren ini memang didukung angka, ekspor produk hijau Indonesia naik 59,7 persen pada Januari-Agustus 2025 dibanding periode yang sama tahun sebelumnya. Yang terdampak adalah eksportir komponen kendaraan dan alat listrik yang jadi andalan kategori ini, serta pelaku usaha komoditas seperti kakao, kopi, dan kelapa sawit yang disebut berpotensi besar tapi harus bisa membuktikan asal bahan bakunya tidak merusak lingkungan. Yang belum terlihat dari forum ini adalah langkah konkret Kemendag untuk membantu pelaku usaha memenuhi syarat tersebut, misalnya insentif atau perjanjian dagang baru, sehingga perlu dicermati apakah ada kebijakan lanjutan atau data ekspor lengkap 2025 setelah rangkaian TEI ke-41 ini selesai."
+ },
+ {
+  "slug": "hero-jadwalkan-rupslb-26-november-2026-di-bintaro",
+  "category": "Aksi Korporasi",
+  "title": "HERO Jadwalkan RUPSLB [26 November] 2026 di Bintaro",
+  "deck": "DFI Retail Nusantara mengumumkan rencana RUPSLB pada 26 November 2026, dengan pencatatan pemegang saham berhak hadir per 3 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T15:32:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c600368aa3_6b04df309a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HERO",
+  "tags": [
+   "HERO",
+   "RUPSLB",
+   "DFI Retail Nusantara",
+   "korporasi"
+  ],
+  "body": [
+   "PT DFI Retail Nusantara Tbk (HERO) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 26 November 2026 pukul 14.00 WIB di Indy Bintaro Office Park, Jalan Boulevard Bintaro Jaya Blok B7/A6, Sektor VII, CBD, Tangerang Selatan. Pemanggilan resmi yang memuat agenda rapat baru akan dipublikasikan di situs web perseroan, situs Bursa Efek Indonesia, dan situs Kustodian Sentral Efek Indonesia (KSEI) pada Rabu, 4 November 2026.",
+   "Perseroan menetapkan Selasa, 3 November 2026 pukul 16.00 WIB sebagai batas waktu pencatatan Daftar Pemegang Saham (DPS). Hanya pemegang saham yang namanya tercatat pada tanggal tersebut yang berhak menghadiri dan memberikan suara dalam rapat. Mengacu pada Anggaran Dasar Pasal 14 ayat 17 dan POJK No. 15/POJK.04/2020, satu atau lebih pemegang saham yang mewakili minimal 1/20 bagian dari seluruh saham berhak suara dapat mengusulkan mata acara rapat, dengan syarat usulan diterima Direksi melalui surat tercatat paling lambat tujuh hari sebelum tanggal pemanggilan resmi.",
+   "Rapat akan digelar secara fisik dan elektronik. Pemegang saham dapat hadir dan memberi suara lewat fasilitas Electronic General Meeting System KSEI (eASY.KSEI), atau memberikan kuasa elektronik melalui sistem yang sama kepada PT Elektronic Data Interchange Indonesia selaku Biro Administrasi Efek perseroan. Rincian mekanisme pemberian kuasa, tata cara pemungutan suara, dan prosedur kehadiran akan dijelaskan lebih lanjut dalam pemanggilan resmi pada 4 November 2026. Surat ini sendiri ditandatangani oleh Head of Corporate Secretary, Iwan Nurdiansyah, pada 20 Oktober 2026."
+  ],
+  "fotoAdegan": "Exterior courtyard of a modern glass-fronted office park in Indonesia, people in business attire walking, overcast afternoon light",
+  "takeaway": "Penilaian saya netral, karena ini baru pemberitahuan jadwal dan mekanisme RUPSLB, bukan pengumuman keputusan, sehingga belum ada dampak keuangan yang bisa dinilai arahnya. RUPSLB lazim dipakai untuk keputusan strategis seperti perubahan struktur modal, perubahan jumlah saham beredar, atau pergantian direksi dan komisaris, yang bisa menyentuh laba per saham atau hak suara pemegang saham lama, tapi agenda resminya belum diumumkan di dokumen ini. Yang perlu dipantau adalah pemanggilan resmi pada Rabu, 4 November 2026, yang akan memuat mata acara sesungguhnya, serta jalannya RUPSLB itu sendiri pada Kamis, 26 November 2026. Pemegang saham yang punya kepentingan mengusulkan agenda juga harus bergerak cepat karena ada tenggat tujuh hari sebelum tanggal pemanggilan untuk mengajukan usulan secara resmi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtps-gelar-rupslb-independen-24-november-bahas-penjualan-gedung",
+  "category": "Aksi Korporasi",
+  "title": "MTPS Gelar RUPSLB Independen 24 November, Bahas [Penjualan] Gedung",
+  "deck": "Meta Epsi menjadwalkan RUPSLB Independen 24 November 2026 untuk meminta restu pemegang saham atas rencana penjualan gedung kantornya seluas 4.802 meter persegi di Jatinegara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T15:21:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ccdb1161d9_5796051de1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTPS",
+  "tags": [
+   "MTPS",
+   "RUPSLB",
+   "transaksi material",
+   "penjualan aset"
+  ],
+  "body": [
+   "PT Meta Epsi Tbk (MTPS) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Independen pada Selasa, 24 November 2026, pukul 09.00 sampai 10.30 WIB, di Meta Epsi Building, Jalan Mayjen D.I Panjaitan Kavling 2, Rawa Bunga, Jatinegara, Jakarta Timur. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per 2 November 2026, dan panggilan resmi rapat akan diterbitkan pada 3 November 2026 melalui situs eASY KSEI, situs Bursa Efek Indonesia, serta situs resmi perseroan.",
+   "Satu-satunya agenda rapat adalah persetujuan rencana penjualan aset milik perseroan berupa tanah beserta bangunan kantor dan sarana pelengkap di Jalan D.I Panjaitan Kavling II, Kelurahan Rawa Bunga, Kecamatan Jatinegara, Jakarta Timur, dengan luas 4.802 meter persegi. Perseroan menyebut nilai transaksi penjualan aset ini telah memenuhi kategori transaksi material sesuai Peraturan OJK No. 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha, sehingga memerlukan persetujuan pemegang saham lewat RUPSLB yang berstatus independen.",
+   "Aset yang akan dijual ini adalah gedung kantor yang sama dengan yang sebelumnya diberitakan Meta Epsi lepas dengan nilai sekitar Rp94,5 miliar, di mana penilai independen sempat menyebut harga tersebut tidak wajar. RUPSLB Independen kali ini menjadi forum resmi bagi pemegang saham non-afiliasi untuk menentukan nasib transaksi tersebut."
+  ],
+  "fotoAdegan": "Wide shot of a mid-rise office building facade along a busy Jakarta street, pedestrians and motorbikes passing by, midday sun.",
+  "takeaway": "Laporan ini condong negatif, karena RUPSLB yang digelar justru untuk meloloskan penjualan gedung kantor yang sebelumnya sudah disorot penilai independen sebagai transaksi dengan harga tidak wajar, dan status independen pada rapat ini menandakan ada potensi kepentingan pihak terafiliasi yang harus ditimbang ketat oleh pemegang saham non-afiliasi. Kalau penjualan ini disetujui dan rampung, yang tersentuh adalah arus kas, yakni uang tunai yang masuk dari hasil penjualan, dan ekuitas perseroan karena salah satu aset tetap terbesarnya, gedung kantor sendiri, berpindah tangan, sesuatu yang diawasi investor karena mengubah struktur operasional perseroan. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPSLB pada 24 November 2026, karena pemegang saham independen berhak menolak transaksi ini kalau memang menilai harganya tidak wajar seperti temuan penilai sebelumnya, dengan batas pencatatan pemegang saham yang berhak hadir pada 2 November 2026 dan panggilan resmi rapat terbit 3 November 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "visi-private-placement-rp120-miliar-saham-publik-makin-terdilusi",
+  "category": "Aksi Korporasi",
+  "title": "VISI [Private Placement] Rp120 Miliar, Saham Publik Makin Terdilusi",
+  "deck": "VISI menerbitkan 120,7 juta saham baru tanpa hak memesan efek terlebih dahulu senilai sekitar Rp120 miliar kepada tiga investor, mendilusi porsi pemegang saham publik dari 19,99% menjadi 19,24%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T15:16:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fafd84aaca_f5000578f5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "PMTHMETD",
+   "Private Placement",
+   "Dilusi Saham"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk (VISI) akan melaksanakan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dengan menerbitkan 120.724.400 saham baru bernilai nominal Rp25 per saham. Harga pelaksanaannya ditetapkan Rp994 per saham, sehingga total dana yang masuk ke perusahaan sekitar Rp120 miliar. Jadwalnya sudah terkunci: penerbitan dan distribusi saham baru pada 28 Oktober 2026, pencatatan di Bursa Efek Indonesia pada 29 Oktober 2026, dan pengumuman hasil pelaksanaan pada 30 Oktober 2026.",
+   "Seluruh saham baru akan diambil oleh tiga pihak. PT Harmoni Semesta Investama, yang merupakan pihak terafiliasi perusahaan, mengambil 72.434.600 lembar. PT Atlas Raya Abadi dan PT Trinugraha Thohir Harmoni, yang keduanya bukan pihak terafiliasi, masing-masing mengambil 24.144.900 lembar. Rencana ini sudah disetujui pemegang saham independen melalui Rapat Umum Pemegang Saham Independen pada 30 September 2026, sebagaimana tercatat dalam Akta Berita Acara Nomor 395 yang dibuat notaris Dr. Christina Dwi Utami, menyusul keterbukaan informasi awal yang sudah diumumkan perusahaan pada 24 Agustus dan 28 September 2026.",
+   "Dari sisi struktur pemegang saham, porsi Harmoni Semesta Investama justru sedikit menyusut secara persentase, dari 61,84% menjadi 61,77%, meski jumlah lembar sahamnya naik jadi 1.974.014.600. Sebaliknya, Atlas Raya Abadi naik dari 10,16% menjadi 10,53% dan Trinugraha Thohir Harmoni naik dari 8,00% menjadi 8,45%. Direktur Utama David Dwiputra tetap memegang 107.000 lembar atau 0,01%, tidak berubah. Pemegang saham publik juga tetap memegang 614.893.000 lembar, tetapi karena jumlah total saham bertambah, porsi mereka turun dari 19,99% menjadi 19,24%. Total modal ditempatkan dan disetor penuh perusahaan naik dari 3.075.000.000 saham senilai Rp76,875 miliar menjadi 3.195.724.400 saham senilai Rp79.893.110.000."
+  ],
+  "fotoAdegan": "Warehouse workers stacking rolls of blank vinyl banner material and ink canisters near a forklift, bright industrial lighting",
+  "takeaway": "Laporan ini bersifat netral dengan sedikit catatan waspada bagi pemegang saham publik: dana segar sekitar Rp120 miliar memang masuk ke kas perusahaan, tetapi porsi publik otomatis tergerus dari 19,99% menjadi 19,24% karena mereka tidak kebagian saham baru, sementara dua investor non-afiliasi, Atlas Raya Abadi dan Trinugraha Thohir Harmoni, justru memperbesar genggamannya. Yang tersentuh adalah jumlah saham beredar, yang bertambah sekitar 3,9% dari 3,07 miliar menjadi 3,19 miliar lembar, sehingga laba perusahaan ke depan harus dibagi ke lebih banyak lembar saham dan laba per saham bisa tergerus kalau laba bersih tidak tumbuh sepadan. Modal disetor perusahaan di atas kertas juga naik dari Rp76,875 miliar menjadi Rp79,893 miliar, menambah bantalan permodalan perusahaan. Yang perlu dipantau adalah pengumuman resmi hasil pelaksanaan PMTHMETD pada 30 Oktober 2026, menyusul penerbitan saham baru pada 28 Oktober dan pencatatannya di Bursa Efek Indonesia sehari setelahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "avia-terima-dividen-interim-rp50-miliar-dari-tirtakencana",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Terima [Dividen] Interim Rp50 Miliar dari Tirtakencana",
+  "deck": "PT Avia Avian Tbk menerima dividen interim Rp49,99 miliar dari anak usahanya, PT Tirtakencana Tatawarna, yang sahamnya dikuasai hampir 100 persen oleh perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T15:12:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1a451ae74a_4ba8158437.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "dividen interim",
+   "Tirtakencana Tatawarna",
+   "anak usaha"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) menyampaikan keterbukaan informasi bernomor 104/AA/CORSEC/X/2026 yang menyatakan perseroan menerima dividen interim senilai Rp49.999.964.693,00 dari PT Tirtakencana Tatawarna (Tirta). Tirta merupakan anak usaha yang sahamnya dikuasai 99,9999 persen oleh AVIA. Peristiwa ini tercatat pada 20 Oktober 2026 dan laporan ditandatangani oleh Direktur AVIA, Kurnia Hadi Sinanto.",
+   "Dalam dokumen yang sama, perseroan menegaskan bahwa penerimaan dividen interim ini tidak membawa dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun keberlangsungan usaha AVIA. Laporan ditujukan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia sesuai kewajiban keterbukaan informasi material, dengan lampiran kedua turut ditandatangani oleh Sekretaris Perusahaan AVIA, Hera Septi Astuti."
+  ],
+  "fotoAdegan": "Stacked paint drums in an industrial warehouse loading bay, a forklift moving pallets, early morning light through open doors.",
+  "takeaway": "Laporan ini netral bagi AVIA karena dividen interim sekitar Rp50 miliar dari Tirta ke induknya hanyalah perpindahan kas di dalam grup usaha yang sama, bukan keuntungan atau kerugian baru bagi bisnis gabungan. Pos yang tersentuh adalah arus kas di level induk, yakni uang tunai yang benar-benar bisa dipakai perusahaan, sebab laba Tirta sebenarnya sudah tercatat lebih dulu dalam laporan keuangan konsolidasi AVIA sehingga dividen ini tidak menambah kekayaan kelompok usaha secara keseluruhan, hanya memindahkan kas dari rekening anak usaha ke rekening induk yang bisa dipakai untuk membayar utang, belanja modal, atau dividen ke pemegang saham publik. Yang perlu dipantau selanjutnya adalah ke mana dana ini akhirnya dialokasikan oleh AVIA, karena dokumen ini tidak menyebut tenggat atau agenda lanjutan, dan jawabannya baru akan terlihat dari laporan keuangan kuartal berikutnya atau keputusan RUPS AVIA mendatang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptps-jawab-bursa-karhutla-tak-ganggu-produksi",
+  "category": "Aksi Korporasi",
+  "title": "PTPS Jawab Bursa, Karhutla Tak Ganggu [Produksi]",
+  "deck": "PT Pulau Subur menjawab permintaan penjelasan BEI dan memastikan kebakaran hutan dan lahan tidak mengganggu operasional, produksi, maupun pendapatan tahun ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T14:49:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/314c017484_cb8a2ac3c4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPS",
+  "tags": [
+   "PTPS",
+   "karhutla",
+   "kelapa sawit",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Pulau Subur Tbk (PTPS) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI tertanggal 13 Oktober 2026 bernomor S-13073/BEI.PP3/10-2026 terkait kebakaran hutan dan lahan (karhutla). Tanggapan tersebut dikirim melalui surat bernomor 008/PTPS-CS/X/2026 tertanggal 15 Oktober 2026 yang ditandatangani Direktur Liawan Kristianto, dan diunggah ke sistem keterbukaan informasi bursa pada 20 Oktober 2026.",
+   "Dalam suratnya, PTPS menjelaskan bahwa seluruh wilayah operasionalnya berada di Provinsi Sumatera Selatan, tepatnya di Kabupaten Banyuasin dan Ogan Komering Ilir, dan dikelola langsung oleh perseroan tanpa melalui entitas anak. Wilayah ini menyumbang 100 persen dari total produksi dan pendapatan perusahaan. Perseroan menegaskan bahwa sampai tanggal surat, karhutla tidak berdampak terhadap kegiatan operasional maupun target produksi 2026, tidak memengaruhi pendapatan, laba, atau nilai aset, dan tidak menyebabkan unplanned shutdown di lokasi perkebunan maupun lahan miliknya. Perseroan dan entitas anak juga menyatakan tidak sedang menghadapi atau berpotensi menghadapi proses hukum maupun sanksi administratif terkait karhutla, serta tidak ada informasi material lain terkait karhutla yang belum diungkapkan ke publik.",
+   "PTPS memaparkan strategi mitigasi yang sudah berjalan, mulai dari penyediaan pompa air, mobil tangki air, dan menara pemantau api, pembersihan semak belukar menjelang musim kemarau, hingga larangan merokok di area lapangan. Untuk jangka panjang, perseroan rutin memelihara dan memperbarui peralatan pemadam, menggelar pelatihan dan simulasi penanggulangan kebakaran bagi karyawan, memantau titik api lewat patroli dan koordinasi dengan instansi terkait, menjalin kemitraan dengan masyarakat sekitar untuk mencegah pembukaan lahan dengan cara membakar, serta mengasuransikan aset tanaman dan fasilitas pendukungnya terhadap risiko kebakaran."
+  ],
+  "fotoAdegan": "Workers clearing dry undergrowth with rakes along the edge of an oil palm plantation under a hazy sky",
+  "takeaway": "Laporan ini netral bagi fundamental PTPS karena isinya justru menegaskan tidak ada dampak kebakaran hutan dan lahan terhadap produksi, pendapatan, laba, maupun nilai aset perusahaan hingga surat ini terbit. Pos yang disinggung di sini adalah nilai aset tanaman kelapa sawit dan beban biaya operasional pemadaman kebakaran, dua hal yang biasa diawasi investor karena kebakaran besar bisa merusak lahan tanam dan menambah pengeluaran tak terduga, sehingga perusahaan menyebut sudah mengasuransikan aset tanaman dan fasilitas pendukungnya untuk menahan risiko tersebut. Yang perlu dipantau selanjutnya adalah perkembangan musim kemarau di Sumatera Selatan, tempat seluruh lahan PTPS berada, karena situasi karhutla bisa berubah cepat dan berpotensi memicu permintaan penjelasan baru dari bursa jika kondisinya memburuk.",
+  "sentimen": "netral"
  },
  {
   "slug": "boba-direksi-lepas-99-67-sahamnya-ke-227-200-lembar",
@@ -630,6 +941,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "epac-jelaskan-pinjaman-afiliasi-ke-bei-siap-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Jelaskan Pinjaman Afiliasi ke BEI, Siap [Rights Issue]",
+  "deck": "EPAC menjelaskan ke BEI alasan pinjaman afiliasi dari PT Triple Berkah Bersama pasca-homologasi, sembari menyiapkan rights issue dan menutup segmen kemasan fleksibel konvensional.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T09:36:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b4e1584c50_c5d153aa1c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EPAC",
+  "tags": [
+   "EPAC",
+   "transaksi afiliasi",
+   "rights issue",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Megalestari Epack Sentosaraya Tbk (EPAC) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan tertanggal 16 Oktober 2026 terkait transaksi afiliasi, yaitu penandatanganan perjanjian pinjaman dengan PT Triple Berkah Bersama (Triple B). Triple B adalah pihak yang memiliki hubungan afiliasi dengan EPAC, sehingga transaksi ini masuk kategori transaksi afiliasi berdasarkan POJK No. 42/POJK.04/2020. Namun, Perseroan menyatakan transaksi ini dikecualikan dari kewajiban memakai jasa penilai independen untuk menilai kewajaran harga, karena pinjaman ini dilakukan untuk memenuhi kewajiban Perseroan dalam perjanjian perdamaian (homologasi) yang sudah disahkan pengadilan.",
+   "Menurut Direktur Keuangan EPAC, Nicky Gunhadi, kebutuhan pendanaan ini muncul karena ada selisih waktu antara uang kas yang masuk dan kewajiban pembayaran jangka pendek yang harus segera dilunasi. Pinjaman dari Triple B dipilih karena bisa cair cepat dan skema pengembaliannya fleksibel, tanpa tanggal jatuh tempo yang pasti, sehingga Perseroan bisa menyesuaikan pembayaran pokok utang dengan kemampuan arus kas yang dimiliki. Sebagai langkah tambahan, Perseroan akan mempercepat penagihan piutang, menyelaraskan jadwal pengeluaran dengan proyeksi penerimaan kas, dan secara bertahap menghentikan segmen usaha kemasan fleksibel konvensional agar beban arus kas operasional berkurang. Pemegang saham pengendali EPAC juga telah menyatakan kesiapan memberi pinjaman atau fasilitas talangan tambahan bila dibutuhkan, dengan syarat serupa yaitu tanpa tanggal jatuh tempo tetap.",
+   "Untuk memperkuat permodalan dalam jangka lebih panjang, EPAC berencana melaksanakan penambahan modal dengan memberikan hak memesan efek terlebih dahulu (PMHMETD), yaitu penawaran saham baru yang ditawarkan lebih dulu kepada pemegang saham lama, setelah mendapat persetujuan dalam Rapat Umum Pemegang Saham Luar Biasa yang dijadwalkan pada 3 November 2026. Perseroan juga menargetkan penghentian penuh segmen usaha kemasan fleksibel konvensional paling lambat 31 Desember 2026. EPAC menegaskan sampai tanggal surat ini tidak ada informasi atau fakta material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers monitoring large rolls of flexible plastic packaging film moving through machinery inside an industrial factory hall.",
+  "takeaway": "Laporan ini condong negatif bagi EPAC, karena rangkaian faktanya menunjukkan tekanan likuiditas yang masih berlanjut: pinjaman dari pihak terafiliasi tanpa tanggal jatuh tempo pasti, pemegang saham pengendali yang harus bersiap menyuntik dana talangan, dan rencana menutup satu segmen usaha, semuanya muncul tak lama setelah Perseroan melalui proses homologasi atau perdamaian utang di pengadilan. Yang langsung tersentuh adalah arus kas, yaitu uang tunai yang keluar masuk perusahaan untuk membayar kewajiban sehari-hari, serta rencana PMHMETD yang bila terlaksana akan menambah jumlah saham beredar sehingga laba per saham, yaitu bagian untung yang didapat tiap pemegang satu lembar saham, bisa terdilusi atau mengecil nilainya. Yang perlu dipantau adalah hasil Rapat Umum Pemegang Saham Luar Biasa pada 3 November 2026 yang menentukan nasib rencana rights issue tersebut, serta target penghentian segmen usaha kemasan fleksibel konvensional yang dipatok Perseroan paling lambat 31 Desember 2026.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "atic-entitas-direksi-tambah-26-400-saham-di-pasar",
   "category": "Aksi Korporasi",
   "title": "ATIC: Entitas Direksi Tambah [26.400] Saham di Pasar",
@@ -779,6 +1116,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah munculnya angka proyeksi resmi: pusat data di Indonesia diperkirakan perlu tambahan listrik 20.000 megawatt, setara seperlima dari total daya yang sudah terpasang saat ini, dan pemerintah menjawabnya dengan menyiapkan Batam, Karimun, dan Bintan sebagai kawasan khusus pusat data plus rencana panel surya 100 gigawatt-peak, yakni daya maksimal panel saat matahari terik, bukan pasokan yang mengalir nonstop. Yang langsung kena dampak adalah PLN yang harus menyiapkan tambahan pasokan itu, calon investor pusat data dan perusahaan teknologi yang menimbang lokasi investasi, serta tiga daerah tersebut yang diposisikan bersaing dengan pusat data di Malaysia dan Singapura. Arah kebijakan ini jelas ke satu tujuan, yaitu memikat investor dengan janji energi hijau dan lahan yang masih luas, tapi arah itu belum bisa dipastikan sampai ke eksekusi karena belum ada jadwal pembangunan PLTS 100 gigawatt-peak itu maupun angka investasi pusat data yang benar-benar terkonfirmasi masuk ke Batam, Karimun, atau Bintan. Yang perlu ditunggu adalah rincian proyek PLTS tersebut, termasuk lokasi dan target mulai beroperasi, serta pengumuman investasi pusat data riil di tiga kawasan itu, karena dari situ baru bisa terlihat apakah proyeksi 20 gigawatt ini bergerak dari wacana menuju pembangunan yang sesungguhnya.",
   "imageV": "mvg17r7g"
+ },
+ {
+  "slug": "gmfi-jelaskan-ke-bursa-skema-free-float-pmhmetd-iii-buntu",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Jelaskan ke Bursa, Skema Free Float PMHMETD III [Buntu]",
+  "deck": "GMF AeroAsia menjawab permintaan penjelasan BEI atas rencana rights issue PMHMETD III, tapi skema pemenuhan free float dan keputusan pemegang saham pengendali masih belum final.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T08:10:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf51b0cc0a_998a59946c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GMFI",
+  "tags": [
+   "GMFI",
+   "rights issue",
+   "free float",
+   "PMHMETD III"
+  ],
+  "body": [
+   "PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) menjawab surat Bursa Efek Indonesia tanggal 16 Oktober 2026 yang meminta penjelasan dan mengingatkan soal rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD III). Perseroan beralasan rights issue ini perlu untuk memenuhi ketentuan jumlah saham publik minimum (free float) sesuai surat bursa sebelumnya, memperkuat struktur permodalan setelah kuasi reorganisasi yang efektif 30 September 2026, serta mendanai pengembangan usaha. Aksi ini berlangsung kurang dari setahun setelah PMHMETD II selesai pada Januari 2026. Strukturnya, setiap 17 saham lama berhak atas 3 hak membeli saham baru (HMETD), dengan maksimal 22.029.751.488 saham baru seri B bernilai nominal Rp19 per saham, setara 15 persen dari modal disetor perseroan setelah rights issue ini selesai. Harga pelaksanaan dan perkiraan dana baru akan diumumkan dalam prospektus, namun proforma keuangan perseroan memakai asumsi harga Rp50 per saham dan kurs Rp17.800 per dolar AS, dengan biaya emisi diperkirakan 4 persen dari dana yang terkumpul.",
+   "Soal jadwal, GMFI menargetkan RUPSLB pada 19 November 2026, dilanjutkan pengajuan pernyataan pendaftaran ke OJK sehari setelahnya, dan menargetkan pernyataan efektif OJK paling lambat 28 Desember 2026, sebelum laporan keuangan per 30 Juni 2026 yang jadi basis rights issue ini kedaluwarsa. Seluruh proses, termasuk perdagangan HMETD, penjatahan pemesanan tambahan, dan penyerahan saham baru, ditargetkan tuntas Januari-Februari 2027, sebelum tenggat pemenuhan free float 12,5 persen pada 31 Maret 2027 dan 15 persen pada 31 Maret 2028.",
+   "Bagian paling krusial dari surat bursa menyoroti bahwa karena HMETD dibagikan proporsional ke semua pemegang saham, simulasi bursa menunjukkan persentase saham publik GMFI tetap di 6,51 persen kalau seluruh pemegang saham menyerap haknya, dan malah turun ke sekitar 5,59 persen kalau hanya kelompok pengendali, yaitu PT Garuda Indonesia (GIAA), PT Angkasa Pura Indonesia (API), dan PT Aero Wisata, yang menyerap haknya. GMFI menjawab bahwa keputusan final pemegang saham pengendali atas haknya, apakah dilaksanakan, dilepas, atau dialihkan, masih dalam pembahasan dan baru akan diumumkan lewat prospektus. Perseroan menyebut GIAA sebagai pengendali tidak akan melaksanakan HMETD miliknya dan akan mengalihkannya ke pihak yang memenuhi kriteria pemegang saham publik. Terkait transaksi lain, GIAA sedang menerima penyetoran saham GMFI milik API sebanyak 82,1 miliar lembar (65,77 persen) secara inbreng lewat PT Aviasi Pariwisata Indonesia dan Danantara Asset Management, yang menurut aturan OJK harus selesai paling lambat 31 Desember 2026. GMFI menegaskan transaksi inbreng ini tidak mengubah struktur pengendalian maupun jumlah saham publiknya.",
+   "Soal penggunaan dana, GMFI menyebut hasil rights issue akan dipakai untuk membayar biaya emisi, lalu sebanyak-banyaknya 70 persen dari sisa dana untuk investasi perseroan, dan bila masih ada sisa akan dipakai untuk modal kerja dan operasional. Rencana pendirian perusahaan baru atau akuisisi aset yang disebut-sebut sebagai salah satu tujuan investasi itu masih dalam tahap penjajakan awal dan belum punya rincian nilai maupun pihak lawan transaksi. Perseroan juga menyatakan belum punya rencana aksi korporasi lain dalam 12 bulan setelah PMHMETD III ini selesai."
+  ],
+  "fotoAdegan": "Aircraft maintenance technicians working beneath a wide-body jet engine inside a large hangar, tools laid out nearby, bright overhead lighting",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham GMFI, karena perseroan menambah modal untuk kedua kalinya dalam waktu kurang dari setahun sambil menambah jumlah saham beredar sampai 15 persen, tapi skema untuk benar-benar menaikkan porsi saham publik masih belum dipastikan meski sudah dua kali ditanyakan bursa. Penambahan 22 miliar saham baru ini menyentuh jumlah saham beredar dan modal disetor perseroan, yang dalam praktiknya bisa membuat laba per saham terdilusi karena keuntungan perseroan nanti harus dibagi ke lebih banyak lembar saham. Simulasi bursa sendiri menunjukkan persentase saham publik GMFI bisa tetap mandek di 6,51 persen kalau semua pemegang saham ikut menyerap haknya secara proporsional, bahkan bisa turun ke 5,59 persen kalau hanya kelompok pengendali yang menyerap, sementara GMFI belum memastikan skenario mana yang akan dipakai untuk benar-benar mengerek porsi saham publiknya. Yang perlu dipantau berikutnya adalah keputusan final pemegang saham pengendali atas hak mereka dan skenario pemenuhan free float yang dijanjikan terbit dalam prospektus, RUPSLB pada 19 November 2026, target efektif dari OJK paling lambat 28 Desember 2026, serta tenggat keras pemenuhan free float 12,5 persen pada 31 Maret 2027.",
+  "sentimen": "negatif"
  },
  {
   "slug": "mtwi-ungkap-struktur-pengendali-ke-bursa-bpii-85-9-saham",

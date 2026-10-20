@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bbsi-laniwati-tjandra-mundur-dari-direktur-sales",
+  "category": "Aksi Korporasi",
+  "title": "BBSI: Laniwati Tjandra [Mundur] dari Direktur Sales",
+  "deck": "Krom Bank Indonesia melaporkan pengunduran diri Laniwati Tjandra dari jabatan Conventional & Sales Director, efektif setelah disetujui RUPSLB.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBSI",
+   "Krom Bank Indonesia",
+   "direksi",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/883faa3be2_ae562d6ea5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meta-jadwalkan-rupslb-pada-26-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "META jadwalkan [RUPSLB] pada 26 November 2026",
+  "deck": "Nusantara Infrastructure (META) mengumumkan rencana RUPSLB 26 November 2026, dengan tanggal pencatatan pemegang saham 3 November 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "META",
+   "RUPSLB",
+   "Nusantara Infrastructure",
+   "corporate action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dd506d4810_23946cc49d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbhi-teken-sewa-afiliasi-rp4-27-miliar-dengan-bank-mega",
+  "category": "Aksi Korporasi",
+  "title": "BBHI Teken Sewa [Afiliasi] Rp4,27 Miliar dengan Bank Mega",
+  "deck": "Allo Bank menyewa ruang dan lahan di gedung arsip Bank Mega senilai Rp4,27 miliar untuk tiga tahun, bagian dari transaksi dalam satu kelompok usaha Mega Corpora.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBHI",
+   "Allo Bank",
+   "Bank Mega",
+   "transaksi afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/61690dc509_8dc6e07424.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sdra-jadwalkan-rupslb-pada-26-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "SDRA Jadwalkan [RUPSLB] pada 26 November 2026",
+  "deck": "Bank Woori Saudara mengumumkan rencana RUPSLB pada 26 November 2026, dengan tanggal pencatatan pemegang saham 3 November dan tenggat usul agenda 28 Oktober 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SDRA",
+   "RUPSLB",
+   "Bank Woori Saudara",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c41568f42e_2ad5de65e6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pool-paparkan-peta-jalan-keluar-dari-suspensi-bursa",
+  "category": "Aksi Korporasi",
+  "title": "POOL Paparkan Peta Jalan Keluar dari [Suspensi] Bursa",
+  "deck": "Dalam Public Expose Tahunan 2026, manajemen baru Pool Advista Indonesia memaparkan rencana audit tiga tahun buku, divestasi 30% saham POLA, dan peta jalan keluar dari suspensi saham.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POOL",
+   "Pool Advista Indonesia",
+   "Public Expose",
+   "Divestasi POLA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/17c0420986_bac0e8ce8a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nayz-akuisisi-rp23-5-saham-rights-issue-picu-dilusi",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ akuisisi Rp23,5/saham, rights issue picu [dilusi]",
+  "deck": "NAYZ menjelaskan ke Bursa bahwa harga akuisisi Rp23,5 per saham jauh di bawah harga pasar, dan akan gelar rights issue untuk membeli saham Bangkok Tellink.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NAYZ",
+   "akuisisi",
+   "rights issue",
+   "Bangkok Tellink"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/37cab57f84_e2fbd53a62.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unvr-jadwalkan-rupslb-26-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "UNVR Jadwalkan [RUPSLB] 26 November 2026",
+  "deck": "Unilever Indonesia mengumumkan rencana RUPSLB pada 26 November 2026, dengan pemegang saham yang berhak hadir dicatat per 3 November 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNVR",
+   "RUPSLB",
+   "Unilever Indonesia",
+   "Rapat Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0ff4765f0c_7cf8589059.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-produk-hijau-ri-tumbuh-59-7-persen-syarat-ue-ketat",
   "category": "Industri",
   "title": "Ekspor Produk Hijau RI [Tumbuh] 59,7 Persen, Syarat UE Ketat",
@@ -19,6 +131,86 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/forum-bisnis-produk-hijau-di-tei-ke-41-kemendag-dorong-ekspor-penuhi-aspek-ramah-lingkungan",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "hero-jadwalkan-rupslb-26-november-2026-di-bintaro",
+  "category": "Aksi Korporasi",
+  "title": "HERO Jadwalkan RUPSLB [26 November] 2026 di Bintaro",
+  "deck": "DFI Retail Nusantara mengumumkan rencana RUPSLB pada 26 November 2026, dengan pencatatan pemegang saham berhak hadir per 3 November.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HERO",
+   "RUPSLB",
+   "DFI Retail Nusantara",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c600368aa3_6b04df309a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtps-gelar-rupslb-independen-24-november-bahas-penjualan-gedung",
+  "category": "Aksi Korporasi",
+  "title": "MTPS Gelar RUPSLB Independen 24 November, Bahas [Penjualan] Gedung",
+  "deck": "Meta Epsi menjadwalkan RUPSLB Independen 24 November 2026 untuk meminta restu pemegang saham atas rencana penjualan gedung kantornya seluas 4.802 meter persegi di Jatinegara.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTPS",
+   "RUPSLB",
+   "transaksi material",
+   "penjualan aset"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ccdb1161d9_5796051de1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-private-placement-rp120-miliar-saham-publik-makin-terdilusi",
+  "category": "Aksi Korporasi",
+  "title": "VISI [Private Placement] Rp120 Miliar, Saham Publik Makin Terdilusi",
+  "deck": "VISI menerbitkan 120,7 juta saham baru tanpa hak memesan efek terlebih dahulu senilai sekitar Rp120 miliar kepada tiga investor, mendilusi porsi pemegang saham publik dari 19,99% menjadi 19,24%.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "PMTHMETD",
+   "Private Placement",
+   "Dilusi Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fafd84aaca_f5000578f5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "avia-terima-dividen-interim-rp50-miliar-dari-tirtakencana",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Terima [Dividen] Interim Rp50 Miliar dari Tirtakencana",
+  "deck": "PT Avia Avian Tbk menerima dividen interim Rp49,99 miliar dari anak usahanya, PT Tirtakencana Tatawarna, yang sahamnya dikuasai hampir 100 persen oleh perseroan.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "dividen interim",
+   "Tirtakencana Tatawarna",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1a451ae74a_4ba8158437.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptps-jawab-bursa-karhutla-tak-ganggu-produksi",
+  "category": "Aksi Korporasi",
+  "title": "PTPS Jawab Bursa, Karhutla Tak Ganggu [Produksi]",
+  "deck": "PT Pulau Subur menjawab permintaan penjelasan BEI dan memastikan kebakaran hutan dan lahan tidak mengganggu operasional, produksi, maupun pendapatan tahun ini.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPS",
+   "karhutla",
+   "kelapa sawit",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/314c017484_cb8a2ac3c4.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "boba-direksi-lepas-99-67-sahamnya-ke-227-200-lembar",
@@ -392,6 +584,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "epac-jelaskan-pinjaman-afiliasi-ke-bei-siap-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Jelaskan Pinjaman Afiliasi ke BEI, Siap [Rights Issue]",
+  "deck": "EPAC menjelaskan ke BEI alasan pinjaman afiliasi dari PT Triple Berkah Bersama pasca-homologasi, sembari menyiapkan rights issue dan menutup segmen kemasan fleksibel konvensional.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EPAC",
+   "transaksi afiliasi",
+   "rights issue",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b4e1584c50_c5d153aa1c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "atic-entitas-direksi-tambah-26-400-saham-di-pasar",
   "category": "Aksi Korporasi",
   "title": "ATIC: Entitas Direksi Tambah [26.400] Saham di Pasar",
@@ -484,6 +692,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473936-bahlil-siapkan-energi-bersih-untuk-pusat-data-kebutuhan-listrik-diproyeksikan-bertambah-20-gw"
+ },
+ {
+  "slug": "gmfi-jelaskan-ke-bursa-skema-free-float-pmhmetd-iii-buntu",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Jelaskan ke Bursa, Skema Free Float PMHMETD III [Buntu]",
+  "deck": "GMF AeroAsia menjawab permintaan penjelasan BEI atas rencana rights issue PMHMETD III, tapi skema pemenuhan free float dan keputusan pemegang saham pengendali masih belum final.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "rights issue",
+   "free float",
+   "PMHMETD III"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf51b0cc0a_998a59946c.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "mtwi-ungkap-struktur-pengendali-ke-bursa-bpii-85-9-saham",
@@ -6306,233 +6530,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcdbf98de5_c96136098b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "yupi-revisi-laporan-dana-ipo-rp541-miliar-belum-terpakai",
-  "category": "Aksi Korporasi",
-  "title": "YUPI Revisi Laporan Dana IPO, [Rp541 Miliar] Belum Terpakai",
-  "deck": "Yupi mengoreksi laporan dana IPO: baru Rp55,3 miliar modal kerja terealisasi, sisa Rp541,37 miliar masih di deposito menunggu pembangunan pabrik Nganjuk pada 2027.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YUPI",
-   "penggunaan dana IPO",
-   "pasar modal",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d025933ba_b391fceb57.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewa-pastikan-penyajian-ulang-keuangan-tak-langgar-kovenan",
-  "category": "Aksi Korporasi",
-  "title": "DEWA Pastikan Penyajian Ulang Keuangan Tak Langgar [Kovenan]",
-  "deck": "Darma Henwa menjawab permintaan penjelasan Bursa soal penyajian kembali laporan keuangan 2025, menegaskan tak ada dampak ke kewajiban utang di tengah rencana pencatatan efek bersifat utang.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWA",
-   "Darma Henwa",
-   "obligasi",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ed4c1724cb_00e5bea252.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-pastikan-tak-ada-penyesuaian-waran-amrt-usai-dividen-tunai",
-  "category": "Aksi Korporasi",
-  "title": "ZP Pastikan Tak Ada Penyesuaian Waran [AMRT] usai Dividen Tunai",
-  "deck": "Maybank Sekuritas memastikan tidak ada penyesuaian syarat waran terstruktur AMRTZPCZ6A dan AMRTZPCK7A menyusul dividen tunai AMRT yang diumumkan 5 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "AMRT",
-   "waran terstruktur",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b05a71c0c2_cd3499c227.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bni-dukung-24-umkm-kuliner-tampil-di-motogp-mandalika",
-  "category": "UMKM",
-  "title": "BNI Dukung 24 UMKM [Kuliner] Tampil di MotoGP Mandalika",
-  "deck": "BNI memfasilitasi 24 pelaku UMKM kuliner berjualan dengan mesin EDC dan QRIS di sirkuit Mandalika selama MotoGP Indonesia 2026, 9-11 Oktober.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/bni-dukung-24-umkm-kuliner-tampil-di-motogp-mandalika.jpg",
-  "imageV": "mv6j27s5",
-  "tags": [
-   "BNI",
-   "UMKM",
-   "MotoGP Mandalika",
-   "QRIS"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472732-bni-dukung-24-umkm-lokal-tampil-di-motogp-mandalika-2026"
- },
- {
-  "slug": "ptpp-panggil-rupsu-ke-4-untuk-sukuk-mudharabah-seri-b",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Panggil RUPSU Ke-4 untuk [Sukuk] Mudharabah Seri B",
-  "deck": "PP (Persero) Tbk akan menggelar rapat pemegang sukuk mudharabah pada 10 November 2026, rapat keempat untuk emisi yang sama.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "Sukuk",
-   "RUPSU",
-   "Wali Amanat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d0d3906689_7dbcb96404.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hits-laba-semester-i-2026-anjlok-63-pendapatan-naik-5-6",
-  "category": "Aksi Korporasi",
-  "title": "HITS: Laba Semester I 2026 [Anjlok] 63%, Pendapatan Naik 5,6%",
-  "deck": "Laporan keuangan interim HITS semester I 2026 menunjukkan laba bersih turun 63 persen dan bagian pemegang saham induk anjlok 74,5 persen, meski pendapatan naik 5,6 persen.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HITS",
-   "laporan keuangan",
-   "laba bersih",
-   "emiten pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261013154021-64491-0/FinancialStatement-2026-II-HITS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amor-panggil-rupst-bahas-dividen-dan-pengalihan-saham-buyback",
-  "category": "Aksi Korporasi",
-  "title": "AMOR Panggil RUPST, Bahas Dividen dan [Pengalihan] Saham Buyback",
-  "deck": "AMOR mengundang pemegang saham ke RUPST Tahunan pada 4 November 2026, dengan agenda pembagian laba bersih, pengalihan saham hasil buyback, dan penyesuaian KBLI 2025.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "RUPST",
-   "dividen",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fb82a84bfd_2071409465.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vici-direksi-jual-402-48-juta-saham-senilai-rp301-86-m-divestasi",
-  "category": "Aksi Korporasi",
-  "title": "VICI: Direksi Jual 402,48 Juta Saham Senilai Rp301,86 M [Divestasi]",
-  "deck": "Direksi VICI, SUKSES SEJATI SEJAHTERA, melepas 402,48 juta saham senilai Rp301,86 miliar pada 9 Oktober 2026, hak suaranya turun dari 84,95% jadi 78,95%.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICI",
-   "kepemilikan saham",
-   "direksi",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-6521-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbmf-jadwalkan-rupst-tahunan-pada-4-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "CBMF Jadwalkan RUPST Tahunan pada [4 Desember] 2026",
-  "deck": "PT Cahaya Bintang Medan Tbk (CBMF) menjadwalkan RUPST tahun buku 2025 pada 4 Desember 2026 di Jakarta Selatan, dengan pencatatan pemegang saham pada 27 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBMF",
-   "RUPST",
-   "Cahaya Bintang Medan",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4447198666_26b7b6acb8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mark-jadwalkan-rupslb-pada-19-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "MARK Jadwalkan [RUPSLB] pada 19 November 2026",
-  "deck": "Mark Dynamics Indonesia (MARK) mengumumkan rencana RUPSLB pada 19 November 2026 di Deli Serdang, dengan daftar pemegang saham berhak hadir ditutup 27 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MARK",
-   "RUPSLB",
-   "Mark Dynamics Indonesia",
-   "korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d94e26e37a_8c9eb3a645.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jecx-direksi-johan-hutauruk-jual-10-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "JECX: Direksi Johan Hutauruk [Jual] 10.000 Saham",
-  "deck": "Direksi JECX Johan A M M Hutauruk melepas 10.000 saham lewat mekanisme repurchase agreement, namun hak suaranya di perusahaan tetap 0,58 persen.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "Nitrasanata Dharma",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-1309-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oppm-lunasi-obligasi-rp2-98-triliun-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "OPPM lunasi [obligasi] Rp2,98 triliun jatuh tempo",
-  "deck": "PT OKI Pulp & Paper Mills (OPPM) melunasi pokok empat instrumen utang, obligasi, sukuk mudharabah, obligasi dolar, dan obligasi hijau, senilai total Rp2,98 triliun plus US$1,06 juta pada 12 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OPPM",
-   "obligasi",
-   "pelunasan utang",
-   "pulp dan kertas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/89662fe27e_e48be90ccb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aturan-baru-djp-pembayaran-pajak-dahulukan-pokok-utang",
-  "category": "Makroekonomi",
-  "title": "Aturan Baru DJP: Pembayaran Pajak [Dahulukan] Pokok Utang",
-  "deck": "PMK-71/2026 mengubah urutan pembayaran utang pajak, pokok utang dilunasi lebih dulu sebelum sanksi, agar wajib pajak lebih cepat menuntaskan kewajibannya.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/aturan-baru-djp-pembayaran-pajak-dahulukan-pokok-utang.jpg",
-  "imageV": "mv6dl1h3",
-  "tags": [
-   "pajak",
-   "DJP",
-   "PMK-71/2026",
-   "utang pajak"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pemerintah-permudah-penyelesaian-kewajiban-perpajakan",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "mrat-direksi-beli-7-200-saham-nilainya-mini",
-  "category": "Aksi Korporasi",
-  "title": "MRAT: Direksi [Beli] 7.200 Saham, Nilainya Mini",
-  "deck": "Direksi Mustika Ratu, Jodi Andrea Suryo Kusumo, membeli 7.200 saham MRAT secara tidak langsung senilai sekitar Rp2,9 juta, menaikkan kepemilikannya jadi 116.900 lembar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MRAT",
-   "Mustika Ratu",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-0736-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,19 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "program-kuliner-s-rasa-kantongi-us-31-juta-di-tei-2026",
+  "category": "Bisnis",
+  "title": "Program Kuliner S'RASA Kantongi [US$31 Juta] di TEI 2026",
+  "deck": "S'RASA mencatatkan transaksi US$31,14 juta di TEI ke-41, tapi sebagian besar masih berupa nota kesepahaman, bukan transaksi yang sudah terjadi.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/program-kuliner-s-rasa-kantongi-us-31-juta-di-tei-2026.jpg",
+  "imageV": "mvgqfo3f",
+  "tags": [],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/capaian-srasa-di-tei-ke-41-kantongi-total-transaksi-sebesar-usd-3114-juta",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "jeli-klaim-tak-ada-info-material-di-balik-penurunan-harga-saham",
   "category": "Aksi Korporasi",
   "title": "JELI Klaim Tak Ada Info Material di Balik [Penurunan] Harga Saham",
@@ -6512,22 +6525,6 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6dadc5848d_82962ab0bb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "suspensi-mknt-ungkap-syarat-buka-lagi-saham-di-paparan-publik",
-  "category": "Aksi Korporasi",
-  "title": "[Suspensi] MKNT Ungkap Syarat Buka Lagi Saham di Paparan Publik",
-  "deck": "Direksi Remitra Global International (MKNT) memaparkan syarat pencabutan suspensi saham dan kondisi utilisasi pabrik baja Citra Baru Steel dalam public expose insidentil 9 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "suspensi saham",
-   "public expose",
-   "Citra Baru Steel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/51c234ecce_3b64305047.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,29 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "program-kuliner-s-rasa-kantongi-us-31-juta-di-tei-2026",
+  "category": "Bisnis",
+  "title": "Program Kuliner S'RASA Kantongi [US$31 Juta] di TEI 2026",
+  "deck": "S'RASA mencatatkan transaksi US$31,14 juta di TEI ke-41, tapi sebagian besar masih berupa nota kesepahaman, bukan transaksi yang sudah terjadi.",
+  "image": "assets/img/program-kuliner-s-rasa-kantongi-us-31-juta-di-tei-2026.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T13:36:23.581Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/capaian-srasa-di-tei-ke-41-kantongi-total-transaksi-sebesar-usd-3114-juta",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [],
+  "body": [
+   "Kementerian Perdagangan mencatat program promosi kuliner Rasa Rempah Indonesia, atau S'RASA, membukukan nilai transaksi sekitar US$31,14 juta, setara Rp560,61 miliar, selama ajang Trade Expo Indonesia (TEI) ke-41. Pameran ini berlangsung pada 14 hingga 18 Oktober 2026 di Indonesia Convention Exhibition, BSD City, Kabupaten Tangerang. Program ini jadi salah satu andalan pemerintah untuk memasarkan bumbu, rempah, dan produk pangan Indonesia ke pembeli internasional lewat jalur promosi kuliner.",
+   "Dari total tersebut, US$30,2 juta merupakan potensi transaksi yang tercatat lewat 14 nota kesepahaman antara produsen bumbu Indonesia dengan importir asal Belanda, Australia, Amerika Serikat, Inggris, dan Jepang. Sisanya, US$944,85 ribu, berasal dari kontak dagang dan penjualan ritel yang benar-benar terjadi di Paviliun S'RASA selama pameran berlangsung. Selain itu, paviliun ini mempertemukan pelaku usaha Indonesia dengan calon mitra dari 20 negara, yakni Amerika Serikat, Australia, Bangladesh, Belanda, Hungaria, Inggris, Italia, Jepang, Jerman, Kanada, Korea Selatan, Kuwait, Malaysia, Nigeria, Pakistan, Papua Nugini, Qatar, Tiongkok, Singapura, dan Turki.",
+   "Salah satu pelaku usaha yang memperoleh kerja sama baru adalah Mahorahora, produsen gula aren, yang menandatangani nota kesepahaman dengan importir Belanda, Inter Aromat BV. Perusahaan ini menyebut kerja sama tersebut sebagai langkah untuk memperluas pasar gula aren mereka ke mancanegara. Paviliun S'RASA juga diisi forum bisnis dan demonstrasi memasak oleh sejumlah chef, yang menampilkan produk seperti kecap, gula aren, dan bumbu olahan dari sejumlah produsen dalam negeri.",
+   "Sebagai kelanjutan, Kementerian Perdagangan akan membawa program S'RASA ke Japan International Food & Beverage Expo (JFEX) 2026 di Tokyo pada 11 hingga 14 November 2026, menyasar pelaku industri hotel, restoran, dan kafe di Jepang. Direktur Jenderal Pengembangan Ekspor Nasional Kemendag, Fajarini Puntodewi, mengatakan langkah ini ditujukan agar ketertarikan pembeli asing selama pameran ditindaklanjuti lewat pengiriman sampel dan negosiasi harga, sehingga bisa berlanjut menjadi transaksi ekspor yang berkelanjutan."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://www.kemendag.go.id/albums/KN4O5StNNuLahLu1oK8JcoWJxGQiChGFPP1FiS7L.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Dari klaim total transaksi Rp560,61 miliar atau setara US$31,14 juta, yang benar-benar sudah terjadi hanya penjualan dan kontak dagang di paviliun sebesar US$944,85 ribu, kurang dari 3 persen dari total yang diumumkan. Sisanya, US$30,2 juta, berasal dari 14 nota kesepahaman antara produsen bumbu Indonesia dan pembeli dari lima negara, dan nota kesepahaman semacam ini baru tanda niat bekerja sama, belum kontrak jual beli yang pasti berjalan. Yang kena dampak langsung adalah produsen kecil seperti Mahorahora, produsen gula aren yang baru merintis kerja sama dengan pembeli di Belanda, serta jaringan restoran Indonesia di luar negeri yang didorong memakai bahan baku dari Tanah Air. Arah sebenarnya dari program ini baru akan terlihat jelas setelah Kemendag membawa S'RASA ke pameran di Tokyo pada 11-14 November 2026, dan yang perlu dipantau adalah apakah pemerintah nanti merilis data berapa dari 14 nota kesepahaman tahun ini yang benar-benar berubah menjadi pengiriman ekspor.",
+  "imageV": "mvgqfo3f"
+ },
+ {
   "slug": "jeli-klaim-tak-ada-info-material-di-balik-penurunan-harga-saham",
   "category": "Aksi Korporasi",
   "title": "JELI Klaim Tak Ada Info Material di Balik [Penurunan] Harga Saham",

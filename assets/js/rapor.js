@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-20T03:07:36.432+07:00",
+ "diperbarui": "2026-10-21T01:41:33.035+07:00",
  "entri": [
+  {
+   "id": "2026-10-20-3",
+   "edisi": "2026-10-20",
+   "benang": "Tunggakan dan Suspensi Emiten Kecil Menumpuk",
+   "klaim": "Ketiganya menunjukkan pola yang sama, yaitu masalah keuangan yang dibiarkan berlarut tanpa penyelesaian cepat, bukan kendala sesaat.",
+   "penanda": "Hasil rapat pemegang obligasi dan sukuk Pos Indonesia (rapat kreditur) pada 17 November",
+   "tenggat": "2026-11-17",
+   "tenggatLabel": "rapat pemegang obligasi dan sukuk pada 17 November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-20-2",
+   "edisi": "2026-10-20",
+   "benang": "Gelombang Dilusi Lewat Rights Issue Tanpa HMETD",
+   "klaim": "Arahnya mengarah pada porsi kepemilikan publik yang kian tergerus di emiten-emiten ini.",
+   "penanda": "Harga pelaksanaan serta tingkat partisipasi pemegang saham publik begitu masing-masing rights issue ini resmi digelar",
+   "tenggat": null,
+   "tenggatLabel": "begitu masing-masing rights issue ini resmi digelar",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-20-1",
+   "edisi": "2026-10-20",
+   "benang": "Bursa Menata Ulang Saham Terkonsentrasi, IHSG Melesat",
+   "klaim": "Arahnya sudah mengarah pada penataan struktur kepemilikan saham yang lebih transparan.",
+   "penanda": "Daftar resmi lengkap saham HSC (haircut saham terkonsentrasi) yang dikeluarkan serta apakah pola transaksi repo semacam ini mereda setelah aturan baru berjalan penuh",
+   "tenggat": null,
+   "tenggatLabel": "setelah aturan baru berjalan penuh",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-19-3",
    "edisi": "2026-10-19",
@@ -475,8 +508,13 @@ var RAPOR = {
    "penanda": "Pergerakan IHSG dan realisasi buyback pada pekan pertama Oktober.",
    "tenggat": "2026-10-07",
    "tenggatLabel": "pekan pertama Oktober",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "ihsg-rebound-4-16-persen-dipicu-buyback-dan-aturan-msci",
+    "judul": "IHSG Rebound 4,16 Persen, Dipicu Buyback dan Aturan MSCI",
+    "tanggal": "20 Oktober 2026",
+    "alasan": "Artikel arsip menunjukkan IHSG justru rebound 4,16 persen dipicu buyback dan aturan MSCI/BEI, bukan tekanan jual yang meluas, sehingga arah klaim berbalik dari yang diprediksi."
+   }
   },
   {
    "id": "2026-10-01-2",

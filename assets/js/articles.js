@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "boba-direksi-lepas-99-67-sahamnya-ke-227-200-lembar",
+  "category": "Aksi Korporasi",
+  "title": "BOBA: Direksi [Lepas] 99,67% Sahamnya ke 227.200 Lembar",
+  "deck": "Direksi BOBA, Dewi Irianty Wijaya, melepas 99,67 persen sahamnya sendiri, dari 68,4 juta menjadi 227.200 lembar, dalam transaksi berjenis Repurchase Agreement.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T14:29:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-0616-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOBA",
+  "tags": [
+   "BOBA",
+   "Formosa Ingredient Factory",
+   "kepemilikan saham direksi",
+   "OJK"
+  ],
+  "body": [
+   "Direksi PT Formosa Ingredient Factory Tbk (BOBA), Dewi Irianty Wijaya, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan turun drastis. Berdasarkan laporan bertanggal 20 Oktober 2026, jumlah saham yang dia pegang berkurang dari 68.427.000 lembar menjadi 227.200 lembar, atau susut 68.199.800 lembar. Penurunan itu setara 99,67 persen dari saham yang sebelumnya dimilikinya, praktis menghabiskan hampir seluruh posisinya di BOBA. Jenis transaksi yang tercatat dalam laporan adalah Repurchase Agreement, bukan penjualan biasa di pasar terbuka.",
+   "Dalam rincian transaksi yang dilampirkan, tercatat tujuh baris pembelian saham secara tidak langsung pada 19 Oktober 2026, masing masing sebesar 400, 63.000, 700, 1.000, 118.000, 19.700, dan 24.400 lembar saham biasa, dengan harga berkisar Rp147 hingga Rp157 per lembar. Totalnya tepat 227.200 lembar, sama persis dengan jumlah saham yang tersisa di tangan Dewi setelah transaksi, dan semuanya disebut untuk tujuan investasi. Rincian itu menggambarkan susunan saham yang masih dipegangnya secara tidak langsung setelah pelepasan besar besaran tersebut, bukan daftar pembelian baru yang menambah kepemilikannya.",
+   "Laporan yang sama mencatat hak suara Dewi berubah dari 5,92 persen menjadi 5,94 persen, meski jumlah sahamnya susut tajam. Angka hak suara itu tertulis apa adanya dalam dokumen resmi ke OJK tanpa penjelasan tambahan soal basis penghitungannya."
+  ],
+  "fotoAdegan": "Workers monitoring a tapioca pearl production line in a food ingredient factory, steam rising, stainless steel equipment, early morning shift",
+  "takeaway": "Laporan ini condong negatif bagi sentimen pasar karena seorang direksi BOBA melepas 99,67 persen sahamnya sendiri dalam satu laporan, bukan sekadar pecahan kecil dari kepemilikannya, sehingga pantas dibaca sebagai sinyal soal sikapnya terhadap saham perusahaannya sendiri, meskipun status transaksinya tercatat sebagai Repurchase Agreement yang sifatnya bisa berupa perjanjian pembiayaan dengan kewajiban beli kembali, bukan penjualan tuntas di pasar. Transaksi semacam ini tidak menambah atau mengurangi jumlah saham beredar perusahaan maupun ekuitasnya, karena yang berpindah adalah saham lama milik pribadi direksi, bukan saham baru dari perusahaan, tapi pasar tetap memperhatikan pola jual beli oleh direksi atau komisaris karena mereka adalah pihak yang paling tahu kondisi internal perusahaan, sehingga pelepasan besar oleh orang dalam sering dipakai sebagai salah satu sinyal keyakinan manajemen terhadap prospek perusahaannya sendiri. Yang perlu dipantau berikutnya adalah apakah Bursa Efek Indonesia atau OJK meminta klarifikasi resmi soal sifat Repurchase Agreement ini, mengingat besarannya mencapai hampir seluruh kepemilikan Dewi, serta apakah laporan kepemilikan susulan dari direksi dan komisaris BOBA lainnya menunjukkan pola pelepasan serupa dalam periode mendatang.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ihsg-rebound-4-16-persen-dipicu-buyback-dan-aturan-msci",
   "category": "Pasar Modal",
   "title": "IHSG [Rebound] 4,16 Persen, Dipicu Buyback dan Aturan MSCI",
@@ -28,6 +54,57 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang bergerak di balik lonjakan ini adalah aturan main pasar saham, bukan cuma minat beli investor. BEI berencana mewajibkan pemegang saham berafiliasi yang punya lebih dari 1 persen saham untuk lebih terbuka, sekaligus bersiap mengeluarkan saham-saham dengan kepemilikan yang terlalu terpusat di segelintir pihak dari hitungan IHSG, merespons evaluasi ulang lembaga indeks global MSCI. Pihak yang paling terdampak adalah emiten dengan kepemilikan terkonsentrasi itu, investor yang dananya mengikuti indeks MSCI, serta saham-saham bank milik negara yang kabarnya akan ditambah kepemilikannya oleh Danantara, lembaga pengelola investasi negara. Pola ini mengarah ke pengetatan tata kelola bursa secara bertahap, bukan sekadar reaksi sesaat atas penurunan pasar sebelumnya, dan yang akan memastikannya adalah bagaimana BEI merealisasikan aturan pengeluaran saham HSC tersebut serta hasil evaluasi lanjutan MSCI terhadap bobot saham Indonesia.",
   "imageV": "mvgck5n2"
+ },
+ {
+  "slug": "direksi-gmfi-beli-500-000-saham-senilai-rp20-juta",
+  "category": "Aksi Korporasi",
+  "title": "Direksi GMFI [Beli] 500.000 Saham Senilai Rp20 Juta",
+  "deck": "Direktur GMF Aero Asia, Tri Hartono, membeli 500.000 saham perusahaan seharga Rp40 per lembar pada 20 Oktober 2026, menambah kepemilikannya menjadi 1,5 juta lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T13:58:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-8756-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GMFI",
+  "tags": [
+   "GMFI",
+   "kepemilikan saham",
+   "direksi",
+   "insider buying"
+  ],
+  "body": [
+   "Tri Hartono, anggota Direksi PT Garuda Maintenance Facility Aero Asia Tbk (GMFI), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 500.000 lembar saham perusahaan pada 20 Oktober 2026. Pembelian itu dilakukan secara tidak langsung dengan harga Rp40 per saham, sehingga nilai transaksinya sekitar Rp20 juta. Jumlah saham Tri Hartono bertambah dari 1.000.000 lembar menjadi 1.500.000 lembar, naik 50 persen dari kepemilikan sebelumnya.",
+   "Dalam laporan tersebut, Tri Hartono menyebut tujuan transaksi sebagai menambah portofolio investasi pribadi, dengan klasifikasi saham biasa. Meski jumlah sahamnya bertambah separuh dari kepemilikan lama, porsi itu masih sangat kecil dibanding total saham GMFI yang beredar, sehingga hak suaranya tercatat tetap di angka 0,00 persen baik sebelum maupun sesudah transaksi."
+  ],
+  "fotoAdegan": "Aircraft maintenance technicians working beneath a wide-body jet engine inside a large hangar, cables and tools nearby",
+  "takeaway": "Transaksi ini netral bagi fundamental GMFI, sebab nilainya hanya sekitar Rp20 juta dan tidak mengubah hak suara Tri Hartono yang tetap 0,00 persen, sehingga terlalu kecil untuk dibaca sebagai pernyataan sikap direksi terhadap saham perusahaan. Yang tersentuh di sini cuma kepemilikan pribadi direksi, bukan jumlah saham beredar GMFI, karena pembelian dilakukan tidak langsung di pasar dan bukan dari penerbitan saham baru. Hak suara yang tetap 0,00 persen menunjukkan betapa besarnya total saham GMFI dibanding kepemilikan seorang direksi, sehingga pergerakan sekecil ini jarang berpengaruh ke pengendalian perusahaan. Yang perlu dipantau berikutnya adalah RUPSLB GMFI pada 19 November 2026, yang akan membahas rencana penerbitan 22,03 miliar saham baru lewat PMHMETD III, karena itulah yang benar-benar bisa mengubah jumlah saham beredar dan hak suara pemegang saham lama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bmbl-panggil-rupslb-november-agenda-perubahan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "BMBL Panggil RUPSLB November, Agenda [Perubahan] Susunan Direksi",
+  "deck": "BMBL memanggil RUPSLB pada 11 November 2026 di Depok untuk membahas perubahan susunan direksi, dengan recording date 19 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T13:35:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dced6d6055_3c0d9274d9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMBL",
+  "tags": [
+   "BMBL",
+   "RUPSLB",
+   "Direksi",
+   "Lavender Bina Cendikia"
+  ],
+  "body": [
+   "PT Lavender Bina Cendikia Tbk (BMBL) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 11 November 2026, pukul 09.00 WIB di Depok, Jawa Barat. Rapat ini diselenggarakan secara fisik maupun elektronik melalui platform eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, dengan agenda tunggal berupa persetujuan perubahan susunan direksi perseroan. Perseroan menyebut perubahan itu dilakukan dengan memperhatikan kebutuhan dan kepentingan perusahaan, mengacu pada anggaran dasar serta Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, tanpa merinci nama direktur yang akan diganti atau diangkat.",
+   "Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam daftar pemegang saham per 19 Oktober 2026 sebagai recording date. Bagi yang ingin hadir secara elektronik atau memberi kuasa lewat sistem eASY.KSEI, konfirmasi kehadiran, kuasa elektronik (e-proxy), maupun suara elektronik (e-voting) harus disampaikan paling lambat 10 November 2026 pukul 12.00 WIB. Pemegang saham yang tidak memiliki akses ke sistem itu dapat mengirim surat kuasa fisik ke PT Adimitra Jasa Korpora di Jakarta paling lambat Jumat, 6 November 2026. Perseroan juga menunjuk PT Sharestar Indonesia sebagai penerima kuasa independen bagi pemegang saham yang berhalangan hadir.",
+   "Materi rapat dapat diunduh di situs web resmi perseroan sejak tanggal pemanggilan ini hingga hari pelaksanaan rapat. Surat pemanggilan ditandatangani oleh Direktur Utama Galih Pandekar di Depok pada 20 Oktober 2026."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set with rows of chairs facing a stage, soft morning light, prepared for a formal shareholders meeting in Depok, Indonesia.",
+  "takeaway": "Laporan ini netral bagi BMBL karena baru berupa pemanggilan rapat, belum ada nama direktur yang masuk atau keluar sehingga dampaknya terhadap arah perusahaan belum bisa dinilai. Perubahan susunan direksi tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau laba per saham, tapi pasar tetap memantaunya karena pergantian pucuk pimpinan bisa mengubah kebijakan operasional dan strategi bisnis ke depan. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 11 November 2026, termasuk siapa yang akhirnya diangkat atau diberhentikan dari jajaran direksi, serta tenggat konfirmasi kehadiran elektronik pada 10 November 2026 pukul 12.00 WIB bagi pemegang saham yang ingin memberi suara.",
+  "sentimen": "netral"
  },
  {
   "slug": "ihsg-melonjak-4-16-persen-bei-rombak-komposisi-indeks",
@@ -56,6 +133,111 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Perubahan konkretnya ada tiga: batas penurunan harga saham dalam sehari (ARB) dilonggarkan jadi 7 persen, label status terafiliasi atau tidak ditambahkan pada pemegang saham dengan kepemilikan minimal 1 persen, dan 80 saham yang sahamnya terlalu terpusat di sedikit pemilik, disebut saham HSC dan menyumbang 18 persen bobot IHSG, dikeluarkan dari hitungan indeks. Yang langsung terdampak adalah perusahaan tercatat berstatus HSC tadi karena sahamnya tidak lagi ikut menggerakkan IHSG, serta investor besar yang memakai IHSG sebagai acuan dana kelolaannya. Arahnya cukup jelas, otoritas pasar modal tampak membersihkan susunan IHSG agar lebih sesuai kriteria likuiditas yang dipakai MSCI, lembaga penyedia indeks global yang jadi rujukan dana asing untuk menentukan bursa mana yang layak dimasukkan portofolio pasif mereka. Namun hasilnya belum pasti, sebab Ratna Lim sendiri menyebut langkah ini bukan jaminan MSCI merespons positif, dan pengeluaran saham HSC berbobot besar itu bisa memicu gejolak harga jangka pendek sebelum indeks stabil di susunan barunya. Yang akan memastikan apakah pembersihan ini berbuah hasil adalah keputusan MSCI pada evaluasi indeksnya berikutnya.",
   "imageV": "mvgck64a"
+ },
+ {
+  "slug": "boss-gelar-public-expose-suspensi-saham-masih-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Gelar Public Expose, [Suspensi] Saham Masih Berlanjut",
+  "deck": "BOSS akan gelar public expose tahunan 29 Oktober 2026. Materinya ungkap suspensi saham masih berlanjut dan perseroan tanpa pendapatan dua tahun berturut-turut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T13:20:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2e3ecbd47_36c474526c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "Suspensi Saham",
+   "Public Expose",
+   "Batubara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) mengumumkan rencana public expose tahunan untuk tahun buku 2025 pada 29 Oktober 2026 pukul 11.30 WIB, bertempat di Wisma 77 Tower 1 Lantai 8, Jalan Letjend S. Parman, Slipi, Jakarta Barat. Surat pemberitahuan ditandatangani Direktur Widodo Nurly Sumady, dengan materi paparan yang dilampirkan sebagai acuan agenda.",
+   "Materi paparan mengungkap saham BOSS masih disuspensi sejak April 2024 karena perseroan belum menyampaikan laporan keuangan auditan untuk tahun buku 2023, 2024, dan 2025, ditambah dampak kepailitan salah satu entitas anaknya, PT Bangun Olah Sarana Sukses (BOS), yang kini berstatus dalam pailit. Sepanjang 2025, perseroan tidak mencatat penjualan maupun produksi batubara sama sekali, sama seperti 2024, sehingga margin laba kotor tidak dapat dihitung karena tidak ada pendapatan. Entitas anak lainnya, PT Pratama Bersama (PB), disebutkan pernah menerima pendanaan eksplorasi dari pemerintah Jepang melalui Japan Organization for Metals and Energy Security (JOGMEC) hingga US$3 juta sesuai perjanjian yang berlaku.",
+   "Untuk 2026, manajemen menyebut rencana menjajaki dan bernegosiasi secara selektif dengan calon investor strategis guna menghidupkan kembali operasional tambang di konsesi PB, memperpanjang izin serta menjaga keberlangsungan usaha BOS yang masih dalam pailit, dan menyelesaikan laporan keuangan auditan 2023-2025 beserta penjadwalan RUPS dan RUPSLB terkait, yang disebut sebagai syarat pencabutan suspensi saham. Materi juga mencatat produksi batubara nasional 2025 mencapai 817,48 juta ton, dengan harga batubara acuan kalori 6.322 kcal/kg GAR yang turun ke sekitar US$98 per ton pada Desember 2025 sebelum naik kembali ke kisaran US$122-132 per ton pada Juni-Oktober 2026. Susunan direksi dan komisaris yang disebut dalam materi terdiri dari Presiden Direktur Freddy Tedjasasmita, Direktur Widodo Nurly Sumady, dan Direktur Bobby Rachman, sementara jajaran komisaris diisi Presiden Komisaris Johannes Halim dan Komisaris Independen David Alusinsing."
+  ],
+  "fotoAdegan": "Idle excavators and conveyor belts standing unused at a quiet open-pit coal site, overcast sky, no people nearby",
+  "takeaway": "Paparan publik ini condong negatif bagi BOSS, karena materinya menegaskan perseroan belum keluar dari suspensi saham yang sudah berjalan lebih dari dua tahun, tanpa pendapatan sama sekali dari produksi maupun penjualan batubara sepanjang 2025. Yang tersentuh adalah arus kas dan kelangsungan usaha perseroan atau going concern, yakni tanpa penjualan, perseroan tidak punya uang masuk dari kegiatan operasional selama dua tahun berturut-turut, sehingga ketahanan keuangan holding hanya bergantung pada efisiensi biaya, bukan pendapatan riil. Satu titik yang relatif positif adalah pendanaan eksplorasi dari JOGMEC Jepang hingga US$3 juta untuk entitas anak PB, tetapi ini pendanaan lama yang belum menunjukkan dampak pada operasional terbaru. Yang perlu dipantau berikutnya adalah penyelenggaraan public expose pada 29 Oktober 2026 serta rencana penyelesaian laporan keuangan auditan tahun buku 2023 hingga 2025 beserta penjadwalan RUPS dan RUPSLB, karena itulah syarat yang disebut perseroan sendiri untuk mengakhiri suspensi sahamnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "public-expose-boss-2023-bongkar-tambang-yang-masih-terhenti",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BOSS 2023 Bongkar Tambang yang Masih [Terhenti]",
+  "deck": "BOSS akan menggelar Public Expose tahunan untuk tahun buku 2023 pada 29 Oktober 2026, memaparkan kondisi tambang yang masih terhenti sejak longsor 2023 dan anak usaha yang berstatus pailit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T13:18:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bb54998009_41fecfdb33.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "Public Expose",
+   "Suspensi Saham",
+   "Pertambangan Batubara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) mengumumkan rencana penyelenggaraan Public Expose Tahunan untuk tahun buku yang berakhir pada 2023, dijadwalkan pada 29 Oktober 2026 pukul 11.30 WIB di Wisma 77 Tower 1 Lantai 8, Slipi, Jakarta Barat. Surat pemberitahuan ditandatangani Direktur Widodo Nurly Sumady pada 20 Oktober 2026, melampirkan materi paparan publik yang sama untuk tahun buku 2023 kepada investor dan Bursa Efek Indonesia.",
+   "Materi presentasi menjelaskan BOSS, yang sebelumnya bernama PT Megah Pratama Resources, adalah perusahaan tambang batubara dengan dua konsesi seluas total 5.335 hektare di Kabupaten Kutai Barat, Kalimantan Timur, melalui dua anak usaha, PT Pratama Bersama dan PT Bangun Olah Sarana Sukses (dalam pailit). Berdasarkan laporan cadangan JORC 2012 per Agustus 2018, total cadangan batubara terbukti dan terkira kedua anak usaha tercatat 15,3 juta ton, terdiri dari 10,8 juta ton milik Pratama Bersama dan 4,4 juta ton milik Bangun Olah Sarana Sukses. Batubara yang diproduksi punya kalori rata-rata 6.300 kkal/kg dengan kadar sulfur 0,3 persen dan kadar abu 5 persen, dan perseroan menyebut pernah menerima pendanaan dari pemerintah Jepang lewat lembaga JOGMEC (Japan Organization for Metals and Energy Security).",
+   "Dokumen itu juga memuat penjelasan soal kondisi yang menyebabkan suspensi perdagangan saham BOSS, merujuk surat Bursa Efek Indonesia Nomor S-06552/BEI.PP3/06-2024 tanggal 26 Juni 2024 yang dijawab perseroan lewat surat tanggal 1 Juli 2024. Perseroan menyebut banjir dan tanah longsor kedua pada sekitar Juli 2023 menghentikan seluruh kegiatan penambangan anak usaha, ditambah keterlambatan penyampaian laporan keuangan auditan. Sebagai rencana pemulihan, manajemen menyatakan masih mencari mitra strategis untuk menyuntikkan modal kerja dan negosiasi itu disebut masih berjalan. Anak usaha PT Pratama Bersama sudah mengantongi persetujuan RKAB 2024-2026 dari Kementerian ESDM lewat surat tanggal 6 Januari 2024, dengan kuota produksi maksimal 1,8 juta ton selama tiga tahun atau setara 600.000 ton per tahun. Sementara itu, perpanjangan izin usaha dan RKAB PT Bangun Olah Sarana Sukses, yang berstatus dalam pailit, masih diproses tim kurator sesuai penetapan Pengadilan Niaga Jakarta Pusat tanggal 21 Maret 2024.",
+   "Dalam materi yang sama, perseroan mencantumkan asumsi harga batubara acuan Newcastle sekitar US$139 per ton pada September 2024, dengan kurs rupiah saat itu di Rp15.418 per dolar AS, yang disebut bersifat ilustratif dan bukan jaminan kinerja. Jajaran manajemen yang tercantum dalam materi terdiri dari Johannes Halim sebagai Komisaris Utama, David Alusinsing sebagai Komisaris Independen, Freddy Tedjasasmita sebagai Direktur Utama, serta Widodo Nurly Sumady dan Bobby Rachman sebagai Direktur."
+  ],
+  "fotoAdegan": "Muddy open-pit coal mine terraces in Kalimantan with heavy rain clouds overhead and idle excavators parked on wet ground",
+  "takeaway": "Materi public expose ini condong negatif bagi BOSS, karena memperlihatkan bahwa lebih dari dua tahun setelah suspensi, perseroan belum menemukan mitra strategis untuk modal kerja dan satu anak usahanya, Bangun Olah Sarana Sukses, masih berstatus pailit dengan izin tambang yang belum pasti. Yang tersentuh adalah arus kas perseroan, karena kegiatan penambangan anak usaha sempat terhenti total akibat longsor dan belum ada kepastian kapan produksi kembali normal, sementara kebutuhan modal kerja masih menunggu suntikan dari pihak luar. Cadangan batubara 15,3 juta ton yang dimiliki juga baru bisa digarap penuh kalau proses perpanjangan izin dan kerja sama dengan kurator anak usaha yang pailit itu selesai. Yang perlu dipantau berikutnya adalah hasil Public Expose pada 29 Oktober 2026, apakah perseroan akhirnya mengumumkan progres konkret negosiasi mitra strategis dan laporan keuangan auditan yang selama ini tertunda, karena dua hal itu menjadi syarat utama sebelum suspensi saham bisa dicabut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-catatkan-218-juta-saham-baru-apex-dilusi-6-15",
+  "category": "Aksi Korporasi",
+  "title": "BEI Catatkan 218 Juta Saham Baru APEX, [Dilusi] 6,15%",
+  "deck": "APEX mencatatkan 218,09 juta saham baru dari penambahan modal tanpa HMETD, saham beredar naik menjadi 3,76 miliar lembar per 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T13:08:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c32f7b1a0e_b5148cd3ee.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "PMTHMETD",
+   "dilusi saham",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi mencatatkan tambahan 218.090.317 saham seri B PT Apexindo Pratama Duta Tbk (APEX) pada Papan Pencatatan Pengembangan per 20 Oktober 2026. Pencatatan ini merupakan hasil pelaksanaan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), sehingga pemegang saham lama tidak diberi kesempatan untuk ikut membeli saham baru tersebut. Dengan tambahan itu, jumlah saham APEX yang tercatat di bursa naik dari 3.546.466.661 lembar menjadi 3.764.556.978 lembar, atau bertambah sekitar 6,15 persen.",
+   "Berdasarkan surat biro administrasi efek PT Adimitra Jasa Korpora tertanggal 19 Oktober 2026 kepada BEI, yang merujuk instruksi Direksi APEX bernomor 285/DIR-X/2026 tanggal 14 Oktober 2026, saham baru tersebut diberi nomor seri 3.546.466.662 sampai 3.764.556.978. Pengumuman bursa mencatat harga pelaksanaan maupun nilai nominal saham baru itu sama sama Rp325 per saham, sehingga total dana yang berpotensi terhimpun dari penerbitan ini sekitar Rp70,88 miliar.",
+   "Dokumen pencatatan bursa maupun surat administrasi efek yang menjadi dasarnya tidak menyebutkan pihak yang menerima saham baru ini atau tujuan penggunaan dananya. Dengan tambahan 218 juta saham itu, porsi kepemilikan setiap pemegang saham lama otomatis mengecil karena kue perusahaan kini dibagi ke lebih banyak lembar saham."
+  ],
+  "fotoAdegan": "An offshore oil drilling rig platform at sea with crew in hard hats working on deck under an overcast sky.",
+  "takeaway": "Laporan ini bersifat netral bagi fundamental APEX: penambahan 218 juta saham baru memang mengecilkan porsi kepemilikan pemegang saham lama sekitar 6,15 persen, tetapi di sisi lain berpotensi membawa dana segar sekitar Rp70,88 miliar ke kas perusahaan, hanya saja dokumen ini tidak menjelaskan untuk apa dana itu dipakai sehingga manfaatnya belum bisa dipastikan. Yang tersentuh dari aksi ini adalah jumlah saham beredar dan laba per saham, yakni keuntungan perusahaan yang dibagi rata ke setiap lembar saham: semakin banyak saham yang beredar, semakin kecil jatah laba untuk tiap lembar kalau labanya tidak ikut naik, dan ini yang membuat pelaku pasar biasanya waspada dengan penerbitan saham tanpa hak memesan efek terlebih dahulu. Yang perlu dipantau selanjutnya adalah apakah APEX akan mengumumkan secara terbuka siapa pembeli saham baru ini dan rencana penggunaan dananya, karena baik pengumuman BEI maupun surat administrasi efek yang menjadi dasar pencatatan ini sama sekali tidak menyinggung hal tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lopi-setujui-penambahan-modal-tanpa-hak-memesan-efek-lama",
+  "category": "Aksi Korporasi",
+  "title": "LOPI Setujui [Penambahan Modal] Tanpa Hak Memesan Efek Lama",
+  "deck": "Pemegang saham LOPI menyetujui rencana penambahan modal tanpa hak memesan efek terlebih dahulu dalam RUPSLB 19 Oktober 2026, dengan kuorum kehadiran 24,47 persen saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T12:44:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/54acdac1f2_5eedf03c73.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LOPI",
+  "tags": [
+   "LOPI",
+   "RUPSLB",
+   "Penambahan Modal",
+   "Pasar Modal"
+  ],
+  "body": [
+   "PT Logisticsplus International Tbk (LOPI) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Ketiga pada Senin, 19 Oktober 2026, di SAV Building, Jagakarsa, Jakarta Selatan. Rapat berlangsung hanya delapan menit, dari pukul 10.16 hingga 10.24 WIB, dan dihadiri pemegang saham yang mewakili 122.054.841 saham atau 24,47 persen dari seluruh saham dengan hak suara sah. Agenda tunggal rapat adalah persetujuan rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), yaitu penerbitan saham baru tanpa memberi pemegang saham lama hak pertama untuk membeli saham tersebut.",
+   "Yang menarik, kuorum kehadiran untuk rapat ini bukan dihitung dari seluruh pemegang saham, melainkan khusus dari kelompok pemegang saham independen, sesuai surat Otoritas Jasa Keuangan Nomor S-41/PM.2/2026 tanggal 11 September 2026. Kuorum yang disyaratkan adalah 23,7 persen dari saham milik pemegang saham independen, dan syarat ini terpenuhi. Pengaturan kuorum khusus semacam ini biasanya dipakai ketika transaksi melibatkan pihak yang berpotensi memiliki benturan kepentingan, sehingga suara pemegang saham independen yang menentukan.",
+   "Hasil pemungutan suara menunjukkan 116.494.841 saham atau 23,35 persen memilih setuju, 5.559.900 saham atau 1,11 persen abstain, dan hanya 100 saham atau 0,00002 persen menyatakan tidak setuju. Total suara yang dihitung mendukung keputusan, yakni suara setuju ditambah abstain, mencapai 122.054.741 saham atau 24,47 persen, sehingga rencana PMTHMETD resmi disetujui. Hasil rapat ini dituangkan dalam Akta Notaris Nomor 63 tanggal 19 Oktober 2026 yang dibuat oleh Dr. Sugih Haryati, SH, M.Kn, notaris di Jakarta Selatan. Rapat dihadiri langsung oleh Direktur Utama Wahyu Dwi Jatmiko, Direktur Budi Mulyana, Komisaris Utama Arfindi Batubara, dan Komisaris Independen Ferianto, namun dokumen ini belum merinci jumlah saham baru yang akan diterbitkan maupun harganya."
+  ],
+  "fotoAdegan": "Rows of cargo trucks parked at a logistics warehouse loading dock in Jakarta, workers moving pallets with forklifts in daylight",
+  "takeaway": "RUPSLB ini condong negatif bagi pemegang saham lama, karena yang disetujui adalah penambahan modal tanpa memberi mereka hak untuk ikut membeli saham baru lebih dulu, dan syarat kuorum khusus dari OJK untuk pemegang saham independen mengindikasikan transaksi ini punya unsur benturan kepentingan yang perlu diwaspadai. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru ini resmi terbit nanti, porsi kepemilikan dan bagian laba yang jatuh ke setiap pemegang saham lama otomatis mengecil, meski laporan ini belum menyebut berapa banyak saham baru yang akan diterbitkan atau pada harga berapa. Yang perlu dipantau selanjutnya adalah pengumuman lanjutan dari LOPI yang merinci jumlah saham baru, harga pelaksanaan, dan pihak yang akan menyerap saham tersebut, karena RUPSLB kali ini baru menyetujui rencana secara umum tanpa detail pelaksanaan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "ikai-raja-sapta-oktohari-borong-47-6-juta-saham-rp22",
@@ -570,6 +752,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah munculnya angka proyeksi resmi: pusat data di Indonesia diperkirakan perlu tambahan listrik 20.000 megawatt, setara seperlima dari total daya yang sudah terpasang saat ini, dan pemerintah menjawabnya dengan menyiapkan Batam, Karimun, dan Bintan sebagai kawasan khusus pusat data plus rencana panel surya 100 gigawatt-peak, yakni daya maksimal panel saat matahari terik, bukan pasokan yang mengalir nonstop. Yang langsung kena dampak adalah PLN yang harus menyiapkan tambahan pasokan itu, calon investor pusat data dan perusahaan teknologi yang menimbang lokasi investasi, serta tiga daerah tersebut yang diposisikan bersaing dengan pusat data di Malaysia dan Singapura. Arah kebijakan ini jelas ke satu tujuan, yaitu memikat investor dengan janji energi hijau dan lahan yang masih luas, tapi arah itu belum bisa dipastikan sampai ke eksekusi karena belum ada jadwal pembangunan PLTS 100 gigawatt-peak itu maupun angka investasi pusat data yang benar-benar terkonfirmasi masuk ke Batam, Karimun, atau Bintan. Yang perlu ditunggu adalah rincian proyek PLTS tersebut, termasuk lokasi dan target mulai beroperasi, serta pengumuman investasi pusat data riil di tiga kawasan itu, karena dari situ baru bisa terlihat apakah proyeksi 20 gigawatt ini bergerak dari wacana menuju pembangunan yang sesungguhnya.",
   "imageV": "mvg17r7g"
+ },
+ {
+  "slug": "mtwi-ungkap-struktur-pengendali-ke-bursa-bpii-85-9-saham",
+  "category": "Aksi Korporasi",
+  "title": "MTWI Ungkap Struktur [Pengendali] ke Bursa, BPII 85,9% Saham",
+  "deck": "Menanggapi permintaan Bursa, MTWI merinci pemegang saham, direksi dan komisaris perusahaan serta induk dan anak usahanya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T07:00:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f12842a075_69fda76d66.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTWI",
+  "tags": [
+   "MTWI",
+   "BPII",
+   "pemegang saham",
+   "struktur kepemilikan"
+  ],
+  "body": [
+   "PT Malacca Trust Wuwungan Insurance Tbk (MTWI) menjawab surat Bursa Efek Indonesia Nomor S-13213/BEI.PP2/10-2026 tanggal 19 Oktober 2026 yang meminta penjelasan mengenai struktur pemegang saham dan susunan pengurus perusahaan, menggunakan form E074, dengan posisi data per 17 Desember 2025. Surat balasan bernomor 031/MTI-CR/10/2026 ditandatangani oleh Corporate Secretary MTWI, Iis Syarifuddin, dan dikirim pada 20 Oktober 2026.",
+   "Dalam dokumen itu, MTWI mengungkap pemegang saham utamanya adalah PT Batavia Prosperindo Internasional Tbk (BPII) dengan 2.512.097.613 lembar saham atau 85,90 persen dari total 2.924.486.639 lembar saham MTWI. Pemegang saham lain adalah Vientje Harijanto sebesar 4,99 persen, Harjanto 1,27 persen, Iis Syarifuddin 0,11 persen, dan publik 7,73 persen. Susunan komisaris MTWI terdiri dari Ilham Akbar Habibie sebagai Komisaris Utama, Markus Dinarto Pranoto sebagai Komisaris, serta Suwarna dan Aries Setiawan Rusli sebagai Komisaris Independen. Direksinya dipimpin Vientje Harijanto sebagai Direktur Utama, didampingi Iis Syarifuddin, Harjanto, dan Rinto Cokrolukito sebagai Direktur.",
+   "Untuk BPII selaku pengendali MTWI, pemegang saham terbesarnya adalah Malacca Trust Pte Ltd yang berkedudukan di Singapura dengan 8.881.734.000 lembar saham atau 86,15 persen dari saham BPII yang beredar di luar treasuri. Rudy Johansen memegang 0,02 persen, publik dengan kepemilikan masing-masing di bawah 5 persen menguasai 9,70 persen, sementara saham treasuri BPII tercatat 425.820.000 lembar atau 4,13 persen dari total 10.309.973.240 lembar saham. Komisaris Utama BPII adalah Irena Istary Iskandar, dengan Rudy Johansen sebagai Komisaris dan Paulin Angeline sebagai Komisaris Independen, sedangkan direksinya dipimpin Rudi Setiadi Tjahjono sebagai Direktur Utama bersama Luo Xude sebagai Direktur.",
+   "MTWI juga melaporkan struktur anak usahanya, PT Batavia Prosperindo Properti, yang sahamnya 99,99 persen atau 129.999 lembar dimiliki langsung oleh MTWI senilai Rp6.499.950.000, sedangkan Harjanto memegang satu lembar saham sisanya. Perusahaan ini dikelola dengan Harjanto sebagai Komisaris dan Paulus Handigdo sebagai Direktur."
+  ],
+  "fotoAdegan": "Modern glass office tower facade in Jakarta's central business district, reflections of the morning sky, light traffic below",
+  "takeaway": "Laporan ini netral bagi fundamental MTWI, karena isinya hanya pemutakhiran data pemegang saham dan susunan pengurus yang diminta bursa, bukan transaksi yang mengubah modal atau laba perusahaan. Tidak ada pos kinerja yang bergerak, baik ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham, karena dokumen ini sekadar memetakan siapa pemilik dan pengendali di setiap lapisan, dari BPII sebagai pemegang saham mayoritas MTWI hingga Malacca Trust Pte Ltd di Singapura yang mengendalikan BPII. Pelaku pasar biasanya mencermati rincian semacam ini untuk memastikan siapa sebenarnya pengendali akhir sebuah emiten, terutama ketika strukturnya berlapis lewat perusahaan lain di luar negeri. Yang perlu dipantau selanjutnya adalah apakah Bursa akan menindaklanjuti dengan pertanyaan atau tindakan lain terkait struktur kepemilikan berlapis ini, mengingat surat permintaan penjelasan itu baru terbit sehari sebelum MTWI mengirim jawabannya pada 20 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "direksi-totl-saleh-beli-114-800-saham-senilai-rp150-juta",

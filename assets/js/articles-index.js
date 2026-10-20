@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "boba-direksi-lepas-99-67-sahamnya-ke-227-200-lembar",
+  "category": "Aksi Korporasi",
+  "title": "BOBA: Direksi [Lepas] 99,67% Sahamnya ke 227.200 Lembar",
+  "deck": "Direksi BOBA, Dewi Irianty Wijaya, melepas 99,67 persen sahamnya sendiri, dari 68,4 juta menjadi 227.200 lembar, dalam transaksi berjenis Repurchase Agreement.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOBA",
+   "Formosa Ingredient Factory",
+   "kepemilikan saham direksi",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-0616-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ihsg-rebound-4-16-persen-dipicu-buyback-dan-aturan-msci",
   "category": "Pasar Modal",
   "title": "IHSG [Rebound] 4,16 Persen, Dipicu Buyback dan Aturan MSCI",
@@ -22,6 +38,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473988-ihsg-rebound-416-persen-analis-dipicu-buyback-saham-hingga-kebijakan-otoritas"
  },
  {
+  "slug": "direksi-gmfi-beli-500-000-saham-senilai-rp20-juta",
+  "category": "Aksi Korporasi",
+  "title": "Direksi GMFI [Beli] 500.000 Saham Senilai Rp20 Juta",
+  "deck": "Direktur GMF Aero Asia, Tri Hartono, membeli 500.000 saham perusahaan seharga Rp40 per lembar pada 20 Oktober 2026, menambah kepemilikannya menjadi 1,5 juta lembar.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "kepemilikan saham",
+   "direksi",
+   "insider buying"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-8756-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmbl-panggil-rupslb-november-agenda-perubahan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "BMBL Panggil RUPSLB November, Agenda [Perubahan] Susunan Direksi",
+  "deck": "BMBL memanggil RUPSLB pada 11 November 2026 di Depok untuk membahas perubahan susunan direksi, dengan recording date 19 Oktober 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMBL",
+   "RUPSLB",
+   "Direksi",
+   "Lavender Bina Cendikia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dced6d6055_3c0d9274d9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ihsg-melonjak-4-16-persen-bei-rombak-komposisi-indeks",
   "category": "Pasar Modal",
   "title": "IHSG [Melonjak] 4,16 Persen, BEI Rombak Komposisi Indeks",
@@ -37,6 +85,70 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473980-ihsg-menguat-416-persen-ke-level-5204-sempat-terkoreksi-hingga-kembali-menghijau"
+ },
+ {
+  "slug": "boss-gelar-public-expose-suspensi-saham-masih-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Gelar Public Expose, [Suspensi] Saham Masih Berlanjut",
+  "deck": "BOSS akan gelar public expose tahunan 29 Oktober 2026. Materinya ungkap suspensi saham masih berlanjut dan perseroan tanpa pendapatan dua tahun berturut-turut.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "Suspensi Saham",
+   "Public Expose",
+   "Batubara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2e3ecbd47_36c474526c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-boss-2023-bongkar-tambang-yang-masih-terhenti",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BOSS 2023 Bongkar Tambang yang Masih [Terhenti]",
+  "deck": "BOSS akan menggelar Public Expose tahunan untuk tahun buku 2023 pada 29 Oktober 2026, memaparkan kondisi tambang yang masih terhenti sejak longsor 2023 dan anak usaha yang berstatus pailit.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "Public Expose",
+   "Suspensi Saham",
+   "Pertambangan Batubara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bb54998009_41fecfdb33.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-catatkan-218-juta-saham-baru-apex-dilusi-6-15",
+  "category": "Aksi Korporasi",
+  "title": "BEI Catatkan 218 Juta Saham Baru APEX, [Dilusi] 6,15%",
+  "deck": "APEX mencatatkan 218,09 juta saham baru dari penambahan modal tanpa HMETD, saham beredar naik menjadi 3,76 miliar lembar per 20 Oktober 2026.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APEX",
+   "PMTHMETD",
+   "dilusi saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c32f7b1a0e_b5148cd3ee.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lopi-setujui-penambahan-modal-tanpa-hak-memesan-efek-lama",
+  "category": "Aksi Korporasi",
+  "title": "LOPI Setujui [Penambahan Modal] Tanpa Hak Memesan Efek Lama",
+  "deck": "Pemegang saham LOPI menyetujui rencana penambahan modal tanpa hak memesan efek terlebih dahulu dalam RUPSLB 19 Oktober 2026, dengan kuorum kehadiran 24,47 persen saham.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LOPI",
+   "RUPSLB",
+   "Penambahan Modal",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/54acdac1f2_5eedf03c73.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ikai-raja-sapta-oktohari-borong-47-6-juta-saham-rp22",
@@ -356,6 +468,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473936-bahlil-siapkan-energi-bersih-untuk-pusat-data-kebutuhan-listrik-diproyeksikan-bertambah-20-gw"
+ },
+ {
+  "slug": "mtwi-ungkap-struktur-pengendali-ke-bursa-bpii-85-9-saham",
+  "category": "Aksi Korporasi",
+  "title": "MTWI Ungkap Struktur [Pengendali] ke Bursa, BPII 85,9% Saham",
+  "deck": "Menanggapi permintaan Bursa, MTWI merinci pemegang saham, direksi dan komisaris perusahaan serta induk dan anak usahanya.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTWI",
+   "BPII",
+   "pemegang saham",
+   "struktur kepemilikan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f12842a075_69fda76d66.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "direksi-totl-saleh-beli-114-800-saham-senilai-rp150-juta",
@@ -6405,137 +6533,6 @@ var ARTICLES = [
    "Golden Eagle Energy"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-2438-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-lunasi-dua-obligasi-us-7-3-juta",
-  "category": "Aksi Korporasi",
-  "title": "INKP [Lunasi] Dua Obligasi US$7,3 Juta",
-  "deck": "Indah Kiat Pulp & Paper melunasi pokok dua seri obligasi dolar AS senilai total US$7,3 juta kepada pemegang obligasi pada 12 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi",
-   "Indah Kiat Pulp & Paper",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/055a1cb89a_b87ccce8d9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atap-jelaskan-lonjakan-transaksi-saham-utama-masih-negosiasi",
-  "category": "Aksi Korporasi",
-  "title": "ATAP Jelaskan Lonjakan Transaksi, Saham Utama Masih [Negosiasi]",
-  "deck": "Bursa Efek Indonesia meminta ATAP menjelaskan lonjakan transaksi pada 6 Oktober 2026, saat volume saham melompat lebih dari lima kali lipat dan harga naik 6,78 persen.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATAP",
-   "volatilitas saham",
-   "pemegang saham utama",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/21e3fe00a1_50739c55b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "banjir-padang-kementerian-pu-turunkan-pompa-dan-ekskavator",
-  "category": "Bisnis",
-  "title": "Banjir Padang, Kementerian PU Turunkan [Pompa] dan Ekskavator",
-  "deck": "Luapan Sungai Batang Air Dingin rendam sekitar 200 rumah di Padang. Kementerian PU kirim pompa dan excavator untuk tangani darurat sekaligus rencanakan perbaikan tanggul permanen.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/banjir-padang-kementerian-pu-turunkan-pompa-dan-ekskavator.jpg",
-  "imageV": "mv6dl20a",
-  "tags": [
-   "banjir Padang",
-   "Kementerian PU",
-   "Sungai Batang Air Dingin",
-   "mitigasi bencana"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472706-atasi-banjir-luapan-sungai-di-kota-padang-kementerian-pu-kerahkan-pompa-dan-excavator"
- },
- {
-  "slug": "gdyr-jadwalkan-rupslb-19-november-dps-27-oktober",
-  "category": "Aksi Korporasi",
-  "title": "GDYR Jadwalkan RUPSLB 19 November, [DPS] 27 Oktober",
-  "deck": "Goodyear Indonesia mengumumkan rencana RUPSLB pada 19 November 2026 di Bogor, dengan tanggal pencatatan pemegang saham 27 Oktober 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GDYR",
-   "RUPSLB",
-   "Goodyear Indonesia",
-   "corporate action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1156e5ef2f_9d1cc9a888.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "biif-pertahankan-peringkat-idaaa-dari-pefindo",
-  "category": "Aksi Korporasi",
-  "title": "BIIF Pertahankan Peringkat [idAAA] dari Pefindo",
-  "deck": "Pefindo kembali menetapkan peringkat idAAA/Stable untuk PT Maybank Indonesia Finance (BIIF) periode 7 Oktober 2026 hingga 1 Oktober 2027, sama seperti periode sebelumnya.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIIF",
-   "Pefindo",
-   "peringkat kredit",
-   "multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1bb6f08964_6bbb65254c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mentrans-gandeng-peking-university-riset-kawasan-transmigrasi",
-  "category": "Industri",
-  "title": "Mentrans Gandeng Peking University [Riset] Kawasan Transmigrasi",
-  "deck": "Menteri Transmigrasi Iftitah mengajak Peking University menjajaki riset bersama di kawasan transmigrasi, dengan Salor-Wanam di Merauke sebagai kandidat utama.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/mentrans-gandeng-peking-university-riset-kawasan-transmigrasi.jpg",
-  "imageV": "mv6dl2fr",
-  "tags": [
-   "transmigrasi",
-   "Peking University",
-   "Merauke",
-   "kerja sama Indonesia-Tiongkok"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472696-mentrans-jajaki-riset-dengan-peking-university-untuk-kembangkan-kawasan-transmigrasi"
- },
- {
-  "slug": "bni-salurkan-bantuan-ke-korban-banjir-padang",
-  "category": "BUMN",
-  "title": "BNI [Salurkan] Bantuan ke Korban Banjir Padang",
-  "deck": "BNI menyalurkan bantuan darurat berupa air bersih, beras, dan selimut bagi ratusan warga yang mengungsi akibat banjir di Padang, Sumatera Barat.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/bni-salurkan-bantuan-ke-korban-banjir-padang.jpg",
-  "imageV": "mv6dl38k",
-  "tags": [
-   "BNI",
-   "Banjir Padang",
-   "Sumatera Barat",
-   "BPBD"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472694-bni-bergerak-cepat-beri-bantuan-untuk-warga-terdampak-banjir-di-sumatera-barat"
- },
- {
-  "slug": "jecx-komisaris-admar-anwar-beli-30-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "JECX: Komisaris Admar Anwar Beli [30.000] Saham",
-  "deck": "Komisaris JECX, DR. Admar Anwar, membeli 30.000 saham senilai Rp39 juta pada 2 Oktober 2026, menambah kepemilikannya jadi 12,7 juta lembar tanpa mengubah hak suara 0,39 persen.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "Komisaris",
-   "Kepemilikan Saham",
-   "Nitrasanata Dharma"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13102026-8261-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "9GoNWxwKzgc",
+  "title": "Kadin Dukung UMKM dalam Pameran Agrinex 2026",
+  "category": "UMKM",
+  "program": "Kabar Pagi",
+  "summary": "Kamar Dagang dan Industri Indonesia mendukung pemberdayaan UMKM serta ekosistem agribisnis dalam ajang Agrinex Expo 2026.",
+  "takeaway": "Relevan bagi pembaca karena menyoroti upaya penguatan UMKM dan sektor agribisnis nasional.",
+  "terbit": "2026-10-20T01:20:31+00:00"
+ },
+ {
+  "id": "R6K-ZpuT-cc",
+  "title": "Presiden Prabowo Gelar Ratas Bahas Ekonomi dan IHSG",
+  "category": "Makroekonomi",
+  "program": "Kabar Pagi",
+  "summary": "Presiden Prabowo Subianto menggelar rapat terbatas bersama menteri ekonomi, Gubernur Bank Indonesia, dan OJK di Istana Merdeka untuk membahas kondisi ekonomi dan pergerakan IHSG.",
+  "takeaway": "Penting bagi pembaca karena menunjukkan respons pemerintah terhadap dinamika pasar modal dan stabilitas ekonomi.",
+  "terbit": "2026-10-20T01:13:39+00:00"
+ },
+ {
+  "id": "sD7vxH-dxng",
+  "title": "Presiden Prabowo Gelar Ratas Bahas Pelemahan IHSG",
+  "category": "Pasar Modal",
+  "program": "AKIP tvOne",
+  "summary": "Presiden Prabowo Subianto menggelar rapat terbatas bersama tim ekonomi dan Komite Stabilitas Sistem Keuangan membahas dinamika ekonomi dan pelemahan IHSG, Senin, 19 Oktober 2026.",
+  "takeaway": "Relevan karena mengungkap langkah koordinasi otoritas keuangan merespons tekanan di pasar saham.",
+  "terbit": "2026-10-20T01:10:25+00:00"
+ },
+ {
   "id": "7b4iHP8PCO4",
   "title": "Kadin Siapkan 8 Kelompok Kerja untuk Rekomendasi ke Pemerintah",
   "category": "Bisnis",

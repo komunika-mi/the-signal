@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bahlil-pusat-data-butuh-tambahan-20-gw-listrik",
+  "category": "Energi",
+  "title": "Bahlil: Pusat Data Butuh Tambahan [20 GW] Listrik",
+  "deck": "Menteri ESDM Bahlil Lahadalia memproyeksikan pusat data nasional butuh tambahan listrik 20.000 megawatt, sembari menyiapkan Batam, Karimun, dan Bintan jadi hub pusat data berbasis energi bersih.",
+  "date": "20 Oktober 2026",
+  "image": "assets/img/bahlil-pusat-data-butuh-tambahan-20-gw-listrik.jpg",
+  "imageV": "mvg17r7g",
+  "tags": [
+   "Bahlil Lahadalia",
+   "ESDM",
+   "pusat data",
+   "Batam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473936-bahlil-siapkan-energi-bersih-untuk-pusat-data-kebutuhan-listrik-diproyeksikan-bertambah-20-gw"
+ },
+ {
   "slug": "direksi-totl-saleh-beli-114-800-saham-senilai-rp150-juta",
   "category": "Aksi Korporasi",
   "title": "Direksi TOTL Saleh [Beli] 114.800 Saham Senilai Rp150 Juta",
@@ -6520,22 +6537,6 @@ var ARTICLES = [
    "free float"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98101391ea_b96a6b1919.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "duti-catat-kepemilikan-saham-terkonsentrasi-99-88-persen",
-  "category": "Aksi Korporasi",
-  "title": "DUTI Catat Kepemilikan Saham [Terkonsentrasi] 99,88 Persen",
-  "deck": "BEI dan KSEI mengumumkan 99,88 persen saham Duta Pertiwi dikuasai segelintir pemegang saham per 1 Oktober 2026, menyisakan saham beredar bebas yang sangat tipis.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DUTI",
-   "Duta Pertiwi",
-   "kepemilikan saham",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73a908870a_7bfe32f0cf.pdf",
   "sourceLabel": "IDX"
  }
 ];

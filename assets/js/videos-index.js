@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "9GoNWxwKzgc",
+  "title": "Kadin Dukung UMKM dalam Pameran Agrinex 2026",
+  "category": "UMKM",
+  "program": "Kabar Pagi",
+  "summary": "Kamar Dagang dan Industri Indonesia mendukung pemberdayaan UMKM serta ekosistem agribisnis dalam ajang Agrinex Expo 2026.",
+  "takeaway": "Relevan bagi pembaca karena menyoroti upaya penguatan UMKM dan sektor agribisnis nasional."
+ },
+ {
+  "id": "R6K-ZpuT-cc",
+  "title": "Presiden Prabowo Gelar Ratas Bahas Ekonomi dan IHSG",
+  "category": "Makroekonomi",
+  "program": "Kabar Pagi",
+  "summary": "Presiden Prabowo Subianto menggelar rapat terbatas bersama menteri ekonomi, Gubernur Bank Indonesia, dan OJK di Istana Merdeka untuk membahas kondisi ekonomi dan pergerakan IHSG.",
+  "takeaway": "Penting bagi pembaca karena menunjukkan respons pemerintah terhadap dinamika pasar modal dan stabilitas ekonomi."
+ },
+ {
+  "id": "sD7vxH-dxng",
+  "title": "Presiden Prabowo Gelar Ratas Bahas Pelemahan IHSG",
+  "category": "Pasar Modal",
+  "program": "AKIP tvOne",
+  "summary": "Presiden Prabowo Subianto menggelar rapat terbatas bersama tim ekonomi dan Komite Stabilitas Sistem Keuangan membahas dinamika ekonomi dan pelemahan IHSG, Senin, 19 Oktober 2026.",
+  "takeaway": "Relevan karena mengungkap langkah koordinasi otoritas keuangan merespons tekanan di pasar saham."
+ },
+ {
   "id": "7b4iHP8PCO4",
   "title": "Kadin Siapkan 8 Kelompok Kerja untuk Rekomendasi ke Pemerintah",
   "category": "Bisnis",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Penasihat Khusus Presiden Bidang Ketenagakerjaan dan Kesejahteraan Buruh, Said Iqbal, mengunjungi kantor pusat PT Pos Indonesia untuk mengevaluasi sistem kerja kemitraan di perusahaan tersebut.",
   "takeaway": "Evaluasi ini penting diikuti karena menyangkut status dan kesejahteraan pekerja kemitraan di salah satu BUMN logistik terbesar di Indonesia."
- },
- {
-  "id": "60rNj3HYBdc",
-  "title": "Industri Event Didorong Mampu Mendongkrak Ekonomi Indonesia",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Industri event di Indonesia didorong mengembangkan standar pengukuran dampak yang lebih objektif dan terukur agar kontribusinya terhadap ekonomi lebih maksimal.",
-  "takeaway": "Standar pengukuran yang lebih baik membantu pelaku usaha dan pemerintah menilai kontribusi nyata industri event terhadap perekonomian nasional."
- },
- {
-  "id": "DUFEWhoosgE",
-  "title": "RI Kejar Target Jadi Negara Maju Sebelum Penduduk Menua",
-  "category": "Makroekonomi",
-  "program": "OneNews Update",
-  "summary": "Indonesia disebut memiliki waktu 10 hingga 15 tahun untuk memanfaatkan bonus demografi sebelum jumlah penduduk menua, demi mengejar target menjadi negara maju.",
-  "takeaway": "Jendela bonus demografi yang makin sempit membuat arah strategi pertumbuhan ekonomi jangka panjang Indonesia layak terus dipantau."
- },
- {
-  "id": "-pma6JSOHk8",
-  "title": "Antrean SPBU di Bali Mengular hingga 2 Kilometer",
-  "category": "Energi",
-  "program": "AKIS tvOne",
-  "summary": "Kelangkaan bahan bakar minyak melanda sejumlah wilayah di Bali, memicu antrean hingga 2 kilometer di SPBU yang masih beroperasi akibat gangguan pasokan.",
-  "takeaway": "Gangguan pasokan BBM di Bali relevan bagi pembaca ekonomi karena berdampak langsung pada mobilitas warga dan biaya operasional pelaku usaha di sektor pariwisata."
  }
 ];

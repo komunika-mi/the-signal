@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bahlil-pusat-data-butuh-tambahan-20-gw-listrik",
+  "category": "Energi",
+  "title": "Bahlil: Pusat Data Butuh Tambahan [20 GW] Listrik",
+  "deck": "Menteri ESDM Bahlil Lahadalia memproyeksikan pusat data nasional butuh tambahan listrik 20.000 megawatt, sembari menyiapkan Batam, Karimun, dan Bintan jadi hub pusat data berbasis energi bersih.",
+  "image": "assets/img/bahlil-pusat-data-butuh-tambahan-20-gw-listrik.jpg",
+  "date": "20 Oktober 2026",
+  "isoDate": "2026-10-20T08:17:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/473936-bahlil-siapkan-energi-bersih-untuk-pusat-data-kebutuhan-listrik-diproyeksikan-bertambah-20-gw",
+  "tags": [
+   "Bahlil Lahadalia",
+   "ESDM",
+   "pusat data",
+   "Batam"
+  ],
+  "body": [
+   "Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia mengungkapkan bahwa rencana pengembangan pusat data di Indonesia memerlukan tambahan pasokan listrik sekitar 20 gigawatt. Ia menyampaikan hal ini untuk menggambarkan betapa besar peran sektor ketenagalistrikan dalam menopang pertumbuhan industri digital, termasuk kecerdasan buatan, yang belakangan tumbuh pesat.",
+   "Dalam Bali Tech Week 2026 di Denpasar, Senin, Bahlil menjelaskan angka tersebut muncul setelah ia berbincang dengan Direktur Utama PLN. Tambahan 20 gigawatt setara dengan 20.000 megawatt, atau sekitar 20 persen dari total kapasitas listrik yang sudah terpasang saat ini. Ia menegaskan angka ini masih berupa proyeksi kebutuhan ke depan, bukan kapasitas pusat data yang sudah berjalan. Selain listrik, Bahlil menyebut pembangunan pusat data juga membutuhkan ketersediaan air, jaringan serat optik, dan lahan yang siap dikembangkan.",
+   "Pemerintah mengarahkan Batam, Karimun, dan Bintan sebagai kawasan hub pusat data yang diharapkan melengkapi ekosistem digital regional di Malaysia dan Singapura. Menurut Bahlil, tiga daerah ini punya ketersediaan air yang memadai, kepadatan penduduk yang lebih rendah dibanding sejumlah pusat kegiatan di Jawa dan Bali, serta potensi pengembangan energi baru terbarukan.",
+   "Sebagai bagian dari tawaran ke investor, Bahlil mengaitkan rencana ini dengan pembangunan pembangkit listrik tenaga surya berkapasitas sekitar 100 gigawatt-peak. Ia menilai investor akan lebih tertarik menjalankan pusat data mereka dengan energi baru terbarukan, dan menyebutnya sebagai peluang bisnis. Rencana PLTS tersebut masih berupa agenda pengembangan, dan gigawatt-peak sendiri mengukur daya maksimal panel surya saat kondisi matahari optimal, bukan pasokan listrik yang tersedia terus-menerus sepanjang waktu."
+  ],
+  "fotoAdegan": "Rows of newly installed solar panels on cleared land near a coastal industrial zone, workers assembling steel frames under cloudy sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/20/6ad6c011a8dca-menteri-energi-dan-sumber-daya-mineral-esdm-bahlil-lahadalia-dalam-bali-tech-week-2026-di-denpasar-senin-19102026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah munculnya angka proyeksi resmi: pusat data di Indonesia diperkirakan perlu tambahan listrik 20.000 megawatt, setara seperlima dari total daya yang sudah terpasang saat ini, dan pemerintah menjawabnya dengan menyiapkan Batam, Karimun, dan Bintan sebagai kawasan khusus pusat data plus rencana panel surya 100 gigawatt-peak, yakni daya maksimal panel saat matahari terik, bukan pasokan yang mengalir nonstop. Yang langsung kena dampak adalah PLN yang harus menyiapkan tambahan pasokan itu, calon investor pusat data dan perusahaan teknologi yang menimbang lokasi investasi, serta tiga daerah tersebut yang diposisikan bersaing dengan pusat data di Malaysia dan Singapura. Arah kebijakan ini jelas ke satu tujuan, yaitu memikat investor dengan janji energi hijau dan lahan yang masih luas, tapi arah itu belum bisa dipastikan sampai ke eksekusi karena belum ada jadwal pembangunan PLTS 100 gigawatt-peak itu maupun angka investasi pusat data yang benar-benar terkonfirmasi masuk ke Batam, Karimun, atau Bintan. Yang perlu ditunggu adalah rincian proyek PLTS tersebut, termasuk lokasi dan target mulai beroperasi, serta pengumuman investasi pusat data riil di tiga kawasan itu, karena dari situ baru bisa terlihat apakah proyeksi 20 gigawatt ini bergerak dari wacana menuju pembangunan yang sesungguhnya.",
+  "imageV": "mvg17r7g"
+ },
+ {
   "slug": "direksi-totl-saleh-beli-114-800-saham-senilai-rp150-juta",
   "category": "Aksi Korporasi",
   "title": "Direksi TOTL Saleh [Beli] 114.800 Saham Senilai Rp150 Juta",

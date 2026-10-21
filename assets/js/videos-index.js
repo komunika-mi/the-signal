@@ -4,6 +4,38 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "4ACwZYoDxu0",
+  "title": "Koperasi Desa Merah Putih Gerakkan Ekonomi Pesisir",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Setahun berjalan, Koperasi Desa Merah Putih di kawasan pesisir memanfaatkan potensi laut untuk membuka unit usaha baru dan menggerakkan ekonomi desa nelayan.",
+  "takeaway": "Menunjukkan bagaimana koperasi desa berperan nyata dalam menggerakkan ekonomi UMKM di tingkat lokal."
+ },
+ {
+  "id": "jQ8ebtyR5IU",
+  "title": "Jusuf Kalla: Transisi Energi Hijau Tidak Mudah",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Dalam kuliah umum di Amerika Serikat, Jusuf Kalla menegaskan peralihan ke energi hijau tak sekadar mengganti batu bara dengan panel surya, karena pasokan listrik harus tetap terjaga.",
+  "takeaway": "Pandangan tokoh senior ini relevan bagi pembaca yang mengikuti arah kebijakan energi dan transisi industri di Indonesia."
+ },
+ {
+  "id": "TL0RLrQN-QA",
+  "title": "Harga Pakan Naik, Peternak Ayam Tercekik",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Kenaikan harga pakan ternak menggerus margin keuntungan peternak ayam, sementara harga ayam di pasaran justru terus merosot.",
+  "takeaway": "Menyoroti tekanan biaya produksi yang dihadapi pelaku usaha peternakan skala kecil dan menengah."
+ },
+ {
+  "id": "b6f9ZYqI49U",
+  "title": "Pakan Ayam Melonjak, Nasib Peternak Dipertaruhkan",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Lonjakan harga pakan ayam menekan margin peternak, sementara harga jual ayam di pasar terus melemah dan membebani keberlangsungan usaha mereka.",
+  "takeaway": "Versi lengkap diskusi yang mengupas dampak kenaikan harga pakan terhadap keberlangsungan usaha peternakan ayam mandiri."
+ },
+ {
   "id": "jyS4W0ymdKw",
   "title": "Ketua Permindo: Monopoli Pakan Ternak Benar Terjadi",
   "category": "Industri",
@@ -450,37 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "DPR RI menyoroti penguatan perlindungan tenaga kerja di tengah perkembangan ekonomi digital, mencakup hak pekerja formal, informal, hingga ojol dan kurir.",
   "takeaway": "Pembahasan regulasi ini relevan bagi pembaca yang memantau dampak ekonomi digital terhadap dunia kerja."
- },
- {
-  "id": "grhUTvnKwFQ",
-  "title": "Danantara Luncurkan Program Kesehatan, Pendidikan, dan Sanitasi",
-  "category": "BUMN",
-  "program": "Kabar Hari Ini",
-  "summary": "Danantara Indonesia Trust memperluas program sosial di bidang kesehatan, pendidikan, serta air bersih dan sanitasi lewat sejumlah kemitraan strategis, termasuk penyaluran beasiswa.",
-  "takeaway": "Perlu disimak karena menunjukkan arah alokasi dana kelolaan Danantara sebagai lembaga investasi negara, yang berkaitan dengan tata kelola BUMN."
- },
- {
-  "id": "FASmEUT8QP8",
-  "title": "Menteri ESDM Resmikan Kilang LPG Cilamaya di Karawang",
-  "category": "Energi",
-  "program": "Kabar Hari Ini",
-  "summary": "Menteri Koordinator Bidang Hilirisasi dan ESDM Bahlil Lahadalia meresmikan Kilang LPG Cilamaya di Kabupaten Karawang, Jawa Barat.",
-  "takeaway": "Peresmian kilang ini relevan karena menyangkut upaya pemerintah memperkuat pasokan dan ketahanan energi LPG dalam negeri."
- },
- {
-  "id": "A-K-uLqQZ1c",
-  "title": "Kadin Sumsel Expo 2026 Buka Peluang Usaha bagi Generasi Muda",
-  "category": "UMKM",
-  "program": "Kabar Hari Ini",
-  "summary": "Kadin Sumsel Expo 2026 digelar di Palembang Square Mall pada 15 sampai 18 Oktober 2026 untuk membuka peluang usaha bagi generasi muda.",
-  "takeaway": "Acara ini mencerminkan geliat kewirausahaan dan UMKM di Sumatera Selatan yang perlu dipantau pembaca ekonomi daerah."
- },
- {
-  "id": "QeQBze5K4Ao",
-  "title": "Indonesia Siap Gelar WCCE 2026 di Jakarta",
-  "category": "Industri",
-  "program": "Kabar Utama",
-  "summary": "Indonesia akan menjadi tuan rumah World Conference on Creative Economy (WCCE) 2026, konferensi ekonomi kreatif internasional dan multilateral terbesar di dunia, yang digelar di Jakarta.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan posisi sektor ekonomi kreatif Indonesia di kancah global."
  }
 ];

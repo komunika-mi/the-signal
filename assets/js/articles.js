@@ -268,7 +268,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah pelaksanaan tiga program sekaligus: realisasi pelatihan vokasi baru 89.337 orang dari target tahunan 340.000 sampai Agustus 2026, magang tahap dua menyasar 150.000 lulusan dengan anggaran Rp4,14 triliun, dan KUR yang sudah tersalur Rp232,66 triliun ke 3,61 juta pelaku usaha per akhir September. Yang terdampak ada tiga kelompok: lulusan baru dan siswa SMK yang butuh pengalaman kerja pertama, pekerja korban PHK yang jadi sasaran pelatihan ulang, dan pelaku UMKM yang mengandalkan KUR sebagai modal. Yang belum bisa dipastikan dari angka-angka ini adalah apakah target vokasi setahun penuh akan tercapai, sebab realisasi baru sekitar seperempat dari target padahal tahun sudah berjalan dua pertiga, dan pemerintah sendiri menyebut 270.000 dari 340.000 peserta baru akan masuk lewat stimulus ekonomi semester kedua. Yang perlu ditunggu adalah laporan realisasi vokasi dan magang di akhir 2026, karena dari situ baru terlihat apakah dorongan di semester kedua berhasil mengejar target atau justru meleset.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "ri-kejar-ratifikasi-ieu-cepa-sebelum-berlaku-2027",
@@ -296,7 +296,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari siaran ini adalah status IEU-CEPA, yang kini masuk tahap finalisasi teknis di Dewan Uni Eropa dengan target ratifikasi semester II 2026 dan mulai berlaku awal 2027, naik satu tahap dari sebelumnya yang masih di tahap perundingan substansi. Pihak yang akan merasakan dampaknya adalah eksportir manufaktur Indonesia yang bergantung pada pasar Uni Eropa, dan pekerja di sektor-sektor itu jika ekspor memang naik seperti diklaim kementerian sebesar US$10,9 miliar. Pola yang terlihat adalah pemerintah mengejar beberapa jalur integrasi ekonomi sekaligus dalam periode yang berdekatan, dari tiga perjanjian dagang, keanggotaan OECD pada 2028, hingga kerja sama digital ASEAN pada 2030, yang mengarah ke strategi membuka banyak pintu pasar secara bersamaan ketimbang fokus menuntaskan satu per satu. Yang akan membuktikan apakah strategi ini berjalan sesuai rencana adalah apakah ratifikasi IEU-CEPA benar tuntas pada semester II 2026 seperti ditargetkan, karena target waktu pada perjanjian dagang semacam ini kerap meleset dari jadwal awal.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "delegasi-bisnis-vanuatu-jajaki-kerja-sama-dagang-di-tei-2026",
@@ -404,7 +404,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari paparan ini adalah program yang sudah berjalan, yaitu penambahan listrik 70 gigawatt, satuan kapasitas pembangkit berskala besar, dalam RUPTL PLN hingga 2034, pelatihan 15.000 insinyur cip oleh Danantara bersama Arm, dan status anggota pendiri WAICO yang pemerintah klaim bisa membuka investasi US$8-12 miliar. Yang terdampak langsung adalah sektor kelistrikan dan pusat data, pekerja yang perlu keterampilan digital baru, perusahaan yang bisa memanfaatkan insentif pajak vokasi, serta UMKM yang didorong terdigitalisasi. Namun target lain seperti 9 juta talenta digital dan kontribusi AI US$360-400 miliar baru berupa proyeksi hingga 2030, sementara aturan main yang mengikat soal keamanan dan akuntabilitas AI yang disebut Airlangga belum dijelaskan bentuknya. Ini bisa mengarah ke dua kemungkinan, pembangunan infrastruktur dan SDM benar-benar jadi fondasi sebelum regulasi AI terbit, atau target-target ini berhenti jadi daftar keinginan tanpa payung hukum yang mengikat. Yang akan menjawabnya adalah apakah aturan AI yang disinggung itu benar diterbitkan dalam waktu dekat, dan apakah realisasi tambahan 70 gigawatt listrik dalam RUPTL berjalan sesuai jadwal.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "investasi-kek-baru-rp46-triliun-kejar-target-rp69-triliun",
@@ -432,7 +432,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret: realisasi investasi di kawasan ekonomi khusus baru Rp46 triliun dari target setahun Rp69 triliun sampai September, artinya pemerintah masih harus mengejar sekitar sepertiga sisa target itu dalam tiga bulan terakhir tahun ini. Yang kena dampak adalah perusahaan yang sudah beroperasi di 25 KEK tersebut, terutama kawasan industri besar seperti Kendal dan Gresik yang justru disebut masih menunggu proses perizinan perluasan dan pengalihan hak atas tanah selesai. Pemerintah baru membentuk Aliansi BUPP KEK, semacam perkumpulan perusahaan pengelola kawasan, untuk mempercepat penyelesaian hambatan semacam itu, yang menunjukkan arah kebijakannya ke penguatan koordinasi antar-pengelola kawasan ketimbang sekadar menambah kawasan baru. Yang akan menentukan apakah langkah ini berhasil mengejar target adalah angka realisasi investasi KEK pada laporan triwulan IV 2026, dan apakah revisi Peraturan Menteri Kesehatan soal fasilitas KEK Sanur yang dijanjikan benar-benar terbit.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "iiff-terbitkan-obligasi-rp1-7-triliun-kupon-tertinggi-7-6-persen",
@@ -719,7 +719,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan suku bunga utama, tapi dua alat lain: bunga simpanan bank di BI naik ke 5 persen, dan insentif bagi investor asing yang memakai kontrak lindung nilai dolar diperbesar, dengan klaim sudah menarik US$9,9 miliar dana asing sejak Juni 2026. Yang kena dampak langsung adalah bank dan investor asing pemegang SRBI dan SBN, sementara masyarakat umum baru terasa dampaknya lewat harga barang impor kalau rupiah terus melemah. Pola ini menunjukkan BI condong memakai alat yang menyasar langsung pasar valuta asing ketimbang menaikkan BI-Rate, kemungkinan karena ingin tetap menjaga penyaluran kredit ke sektor riil tidak terhambat. Arah ini akan lebih jelas dari dua hal: apakah rupiah berhenti melemah menjelang rapat dewan gubernur berikutnya, dan apakah aliran modal masuk ke SRBI dan SBN di sisa kuartal keempat 2026 cukup kuat menutup keluarnya dana dari pasar saham.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "gtra-teken-fasilitas-kredit-rp195-miliar-dari-bank-mandiri",

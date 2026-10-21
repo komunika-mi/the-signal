@@ -2,6 +2,42 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "4ACwZYoDxu0",
+  "title": "Koperasi Desa Merah Putih Gerakkan Ekonomi Pesisir",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Setahun berjalan, Koperasi Desa Merah Putih di kawasan pesisir memanfaatkan potensi laut untuk membuka unit usaha baru dan menggerakkan ekonomi desa nelayan.",
+  "takeaway": "Menunjukkan bagaimana koperasi desa berperan nyata dalam menggerakkan ekonomi UMKM di tingkat lokal.",
+  "terbit": "2026-10-21T17:02:50+00:00"
+ },
+ {
+  "id": "jQ8ebtyR5IU",
+  "title": "Jusuf Kalla: Transisi Energi Hijau Tidak Mudah",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Dalam kuliah umum di Amerika Serikat, Jusuf Kalla menegaskan peralihan ke energi hijau tak sekadar mengganti batu bara dengan panel surya, karena pasokan listrik harus tetap terjaga.",
+  "takeaway": "Pandangan tokoh senior ini relevan bagi pembaca yang mengikuti arah kebijakan energi dan transisi industri di Indonesia.",
+  "terbit": "2026-10-21T16:15:03+00:00"
+ },
+ {
+  "id": "TL0RLrQN-QA",
+  "title": "Harga Pakan Naik, Peternak Ayam Tercekik",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Kenaikan harga pakan ternak menggerus margin keuntungan peternak ayam, sementara harga ayam di pasaran justru terus merosot.",
+  "takeaway": "Menyoroti tekanan biaya produksi yang dihadapi pelaku usaha peternakan skala kecil dan menengah.",
+  "terbit": "2026-10-21T15:58:33+00:00"
+ },
+ {
+  "id": "b6f9ZYqI49U",
+  "title": "Pakan Ayam Melonjak, Nasib Peternak Dipertaruhkan",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Lonjakan harga pakan ayam menekan margin peternak, sementara harga jual ayam di pasar terus melemah dan membebani keberlangsungan usaha mereka.",
+  "takeaway": "Versi lengkap diskusi yang mengupas dampak kenaikan harga pakan terhadap keberlangsungan usaha peternakan ayam mandiri.",
+  "terbit": "2026-10-21T15:50:23+00:00"
+ },
+ {
   "id": "jyS4W0ymdKw",
   "title": "Ketua Permindo: Monopoli Pakan Ternak Benar Terjadi",
   "category": "Industri",

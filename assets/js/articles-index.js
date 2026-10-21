@@ -5,6 +5,109 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-transaksi-ikan-di-65-kampung-nelayan-tembus-rp18-77-miliar",
+  "category": "UMKM",
+  "title": "KKP: Transaksi Ikan di 65 Kampung Nelayan Tembus [Rp18,77 Miliar]",
+  "deck": "Uji coba 65 Kampung Nelayan Merah Putih sejak Juni 2026 mencatat transaksi ikan Rp18,77 miliar, sementara KKP mulai membangun 1.269 lokasi baru tahun ini.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/kkp-transaksi-ikan-di-65-kampung-nelayan-tembus-rp18-77-miliar.jpg",
+  "imageV": "mvi4pqze",
+  "tags": [
+   "KKP",
+   "Kampung Nelayan Merah Putih",
+   "Perikanan",
+   "Ekonomi Pesisir"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/dua-tahun-pemerintahan-prabowo-knmp-terbukti-jadi-penggerak-ekonomi-pesisir-3yZM.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "pnbp-sektor-perikanan-naik-jadi-rp2-4-triliun-di-2025",
+  "category": "Industri",
+  "title": "PNBP Sektor Perikanan [Naik] Jadi Rp2,4 Triliun di 2025",
+  "deck": "Kementerian Kelautan dan Perikanan melaporkan kenaikan penerimaan negara, produksi, kontribusi PDB, dan ekspor perikanan dalam dua tahun terakhir, meski sebagian data 2026 baru bersifat sementara.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/pnbp-sektor-perikanan-naik-jadi-rp2-4-triliun-di-2025.jpg",
+  "imageV": "mvi4psgl",
+  "tags": [
+   "KKP",
+   "Ekspor Perikanan",
+   "PNBP",
+   "PDB Perikanan"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/pnbp-hingga-ekspor-meningkat-sektor-kelautan-dan-perikanan-tunjukkan-kinerja-positif-di-dua-tahun-prabowo-gibran-5R2B.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "kur-umkm-tembus-rp232-66-triliun-turis-asing-naik-5-38",
+  "category": "Makroekonomi",
+  "title": "KUR UMKM Tembus Rp232,66 Triliun, Turis Asing [Naik] 5,38%",
+  "deck": "Pemerintah melaporkan penyaluran KUR tembus Rp232,66 triliun, kenaikan kunjungan turis asing 5,38 persen, dan perluasan program magang serta pelatihan vokasi sepanjang 2026.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/terminal-bus.jpg",
+  "tags": [
+   "KUR",
+   "UMKM",
+   "Pariwisata",
+   "Pelatihan Vokasi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7173/pemerintah-terus-dorong-penguatan-sdm-pengembangan-pariwisata-serta-perluasan-pembiayaan-umkm-untuk-pertumbuhan-ekonomi-yang-optimal",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ri-kejar-ratifikasi-ieu-cepa-sebelum-berlaku-2027",
+  "category": "Global",
+  "title": "RI Kejar Ratifikasi [IEU-CEPA] Sebelum Berlaku 2027",
+  "deck": "Pemerintah menargetkan IEU-CEPA dengan Uni Eropa diratifikasi semester II 2026 dan berlaku awal 2027, salah satu dari beberapa agenda integrasi ekonomi internasional yang dikejar bersamaan.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "OECD",
+   "ASEAN DEFA",
+   "ekonomi digital"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7174/perluasan-akses-pasar-internasional-dan-digitalisasi-domestik-menjadi-kunci-utama-pertumbuhan-ekonomi-nasional",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "delegasi-bisnis-vanuatu-jajaki-kerja-sama-dagang-di-tei-2026",
+  "category": "Global",
+  "title": "Delegasi Bisnis [Vanuatu] Jajaki Kerja Sama Dagang di TEI 2026",
+  "deck": "Delegasi pengusaha Vanuatu bertemu pelaku usaha Indonesia di TEI 2026, menjajaki kerja sama di sektor material bangunan, furnitur, makanan-minuman, ritel, dan properti.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/delegasi-bisnis-vanuatu-jajaki-kerja-sama-dagang-di-tei-2026.jpg",
+  "imageV": "mvi4q146",
+  "tags": [
+   "TEI 2026",
+   "Vanuatu",
+   "Ekspor",
+   "Perdagangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tei-2026-dorong-penguatan-kerja-sama-ekonomi-dan-bisnis-indonesia-vanuatu",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "kur-bni-rp500-juta-dorong-usaha-mesin-kopi-siantar",
+  "category": "UMKM",
+  "title": "KUR BNI [Rp500 Juta] Dorong Usaha Mesin Kopi Siantar",
+  "deck": "BNI Pematangsiantar menyalurkan kredit usaha rakyat Rp500 juta kepada pengusaha mesin kopi untuk menambah kapasitas produksi dan memperluas pasar.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/kur-bni-rp500-juta-dorong-usaha-mesin-kopi-siantar.jpg",
+  "imageV": "mvi4q1jz",
+  "tags": [
+   "KUR BNI",
+   "UMKM",
+   "Pematangsiantar",
+   "industri kopi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474267-kur-bni-pematangsiantar-salurkan-rp500-juta-untuk-bantu-pengusaha-mesin-kopi-naik-kelas"
+ },
+ {
   "slug": "pemerintah-patok-target-ai-lewat-listrik-dan-sdm-digital",
   "category": "Teknologi",
   "title": "Pemerintah Patok Target [AI] lewat Listrik dan SDM Digital",
@@ -2124,7 +2227,7 @@ var ARTICLES = [
   "title": "RI Kejar Penandatanganan IEU-CEPA, Berlaku Awal [2027]",
   "deck": "Pemerintah mempercepat proses penandatanganan dan ratifikasi IEU-CEPA agar perjanjian dagang dengan Uni Eropa itu mulai berlaku awal 2027.",
   "date": "19 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -3533,7 +3636,7 @@ var ARTICLES = [
   "title": "Dagang RI-Rusia Naik 21,6%, FTA Eurasia Ditarget [Rampung] 2026",
   "deck": "Menko Airlangga dan Deputi PM Rusia Denis Manturov membahas penguatan perdagangan bilateral yang naik 21,6 persen pada 2025, serta target ratifikasi FTA Indonesia-EAEU sebelum akhir 2026.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "Rusia",
    "Perdagangan",
@@ -4631,7 +4734,7 @@ var ARTICLES = [
   "title": "Indonesia Perkuat Kesiapan [Aksesi] ke Pakta CPTPP",
   "deck": "Kemenko Perekonomian menggelar workshop teknis bersama negara anggota CPTPP untuk mematangkan kesiapan Indonesia bergabung ke pakta dagang itu.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "CPTPP",
    "Kemenko Perekonomian",
@@ -4895,7 +4998,7 @@ var ARTICLES = [
   "title": "Ekspor RI ke Inggris Hadapi Skema Tarif [Baru] 2027",
   "deck": "Kemendag dan Inggris perkuat kerja sama dagang, sementara skema tarif ekspor Inggris untuk Indonesia akan berubah mulai Januari 2027.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "Indonesia-Inggris",
    "Ekspor",
@@ -4959,7 +5062,7 @@ var ARTICLES = [
   "title": "Wamendag Soroti Peran Swedia dalam [I-EU CEPA] di TEI 2026",
   "deck": "Wamendag Dyah Roro Esti menyoroti peran Swedia dalam I-EU CEPA di forum bisnis Trade Expo Indonesia 2026, dengan nilai dagang RI-Swedia mencapai US$872,2 juta pada 2025.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "I-EU CEPA",
    "Swedia",
@@ -6293,7 +6396,7 @@ var ARTICLES = [
   "title": "RI Terbitkan Aturan [Antidumping] Baru, Tutup Celah Penghindaran",
   "deck": "PP Nomor 39 Tahun 2026 mengatur ulang tindakan pengamanan, antidumping, dan imbalan, serta untuk pertama kalinya melarang praktik penghindaran lewat rute kirim atau negara asal palsu.",
   "date": "14 Oktober 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "antidumping",
    "PP 39/2026",
@@ -6413,105 +6516,6 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c96877bc88_25d50133a6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppatk-catat-transaksi-janggal-rp684-71-triliun-di-tambang",
-  "category": "Industri",
-  "title": "PPATK Catat Transaksi Janggal [Rp684,71 Triliun] di Tambang",
-  "deck": "PPATK dan MIND ID menjalin kerja sama pencegahan pencucian uang di sektor tambang, setelah mendeteksi transaksi janggal senilai Rp684,71 triliun sepanjang 2025 hingga semester I 2026.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/ppatk-catat-transaksi-janggal-rp684-71-triliun-di-tambang.jpg",
-  "imageV": "mv7vdkbu",
-  "tags": [
-   "PPATK",
-   "MIND ID",
-   "pencucian uang",
-   "tambang ilegal"
-  ],
-  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
-  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1681/ppatk-dan-mind-id-perkuat-kolaborasi-jaga-integritas-industri-pertambangan-nasional.html",
-  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
- },
- {
-  "slug": "pgli-jelaskan-lonjakan-laba-kuartal-ii-dan-ekspansi-bakehouse",
-  "category": "Aksi Korporasi",
-  "title": "PGLI Jelaskan Lonjakan Laba Kuartal II dan Ekspansi [Bakehouse]",
-  "deck": "Dalam risalah public expose insidentil usai disuspensi bursa, manajemen PGLI membeberkan penyebab lonjakan laba sebelum pajak, rencana penambahan gerai Bakehouse, dan progres pembangkit mini-hidro yang sudah menjual listrik ke PLN.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGLI",
-   "public expose",
-   "Le Chic Bakehouse",
-   "pembangkit mini-hidro"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/33c66182e9_c9766ba685.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "martha-tilaar-dari-salon-garasi-rp1-juta-ke-kosmetik-raksasa",
-  "category": "Bisnis",
-  "title": "Martha Tilaar: dari Salon Garasi Rp1 Juta ke [Kosmetik] Raksasa",
-  "deck": "Martha Tilaar, pendiri Martha Tilaar Group dan Sariayu, meninggal dunia di usia 89 tahun, mewariskan bisnis kosmetik berbasis kekayaan alam Indonesia.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/martha-tilaar-dari-salon-garasi-rp1-juta-ke-kosmetik-raksasa.jpg",
-  "imageV": "mv7vdkuj",
-  "tags": [
-   "Martha Tilaar",
-   "Martha Tilaar Group",
-   "Sariayu",
-   "kosmetik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472948-kisah-perjuangan-martha-tilaar-dari-salon-kecil-di-garasi-hingga-membangun-bisnis-kosmetik-besar"
- },
- {
-  "slug": "bmas-resmi-angkat-moses-ronald-supardi-jadi-direktur-bisnis",
-  "category": "Aksi Korporasi",
-  "title": "BMAS Resmi Angkat Moses Ronald Supardi Jadi [Direktur] Bisnis",
-  "deck": "Jabatan Direktur Bisnis BMAS yang baru efektif sejak 2 Oktober 2026 setelah lolos fit and proper test OJK, mengisi kursi yang ditinggal Junita Wangsadinata sejak Mei 2026.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "direksi",
-   "pergantian pengurus",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/59086641f2_b51c49f623.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgun-klaim-dampak-karhutla-ke-produksi-sawit-minim",
-  "category": "Aksi Korporasi",
-  "title": "PGUN Klaim Dampak [Karhutla] ke Produksi Sawit Minim",
-  "deck": "Pradiksi Gunatama menjawab permintaan penjelasan Bursa Efek Indonesia soal dampak kebakaran hutan dan lahan terhadap kebun dan pabrik sawitnya di Kabupaten Paser, Kalimantan Timur.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGUN",
-   "karhutla",
-   "kelapa sawit",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7c81950307_8fb6c7c124.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ceka-jelaskan-dampak-karhutla-ke-operasional-pabrik-pontianak",
-  "category": "Aksi Korporasi",
-  "title": "CEKA Jelaskan Dampak [Karhutla] ke Operasional Pabrik Pontianak",
-  "deck": "CEKA menjawab permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan terhadap pabrik Pontianak, menyebut dampak 5-10 persen tapi belum mengubah target produksi 2026.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CEKA",
-   "karhutla",
-   "BEI",
-   "Wilmar Cahaya Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2513fadcf0_2214270e73.pdf",
   "sourceLabel": "IDX"
  }
 ];

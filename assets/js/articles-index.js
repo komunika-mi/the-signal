@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lapd-jadwalkan-ulang-rupslb-agendakan-rights-issue-2-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Jadwalkan Ulang RUPSLB, Agendakan [Rights Issue] 2 Miliar Saham",
+  "deck": "RUPSLB LAPD diundur ke 29 Oktober 2026, mengagendakan rights issue hingga 50,42% saham baru, penetapan PT JSI Sinergi Mas sebagai pengendali, serta pergantian nama dan alamat perusahaan.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "RUPSLB",
+   "rights issue",
+   "pemegang saham pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a1375f1db5_84a94516ab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-revisi-rencana-rp125-m-saham-baru-dilusi-192",
+  "category": "Aksi Korporasi",
+  "title": "INPS Revisi Rencana Rp125 M, Saham Baru [Dilusi] 192%",
+  "deck": "INPS memperbarui keterbukaan informasi penambahan modal tanpa HMETD senilai hingga Rp125 miliar untuk pemegang saham pengendali, menyusul tanggapan OJK atas dokumen awal.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "penambahan modal",
+   "dilusi saham",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f581ba0048_82b4021f30.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "posa-catat-ekuitas-negatif-rp577-m-4-mal-disita-jaksa",
+  "category": "Aksi Korporasi",
+  "title": "POSA Catat Ekuitas Negatif Rp577 M, 4 Mal [Disita] Jaksa",
+  "deck": "POSA menjawab permintaan penjelasan BEI: ekuitas negatif Rp577,10 miliar, utang jangka pendek jauh lampaui aset lancar, dan empat mal disita Kejaksaan Agung.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POSA",
+   "ekuitas negatif",
+   "penyitaan aset",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6bcd09b09f_33960346e6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bq-sesuaikan-waran-scmabqcx6a-usai-scma-bagi-dividen-rp8-4",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan Waran [SCMABQCX6A] Usai SCMA Bagi Dividen Rp8,4",
+  "deck": "Korea Investment Sekuritas Indonesia (BQ) menyesuaikan rasio dan harga pelaksanaan waran terstruktur SCMABQCX6A setelah SCMA mengumumkan dividen interim Rp8,4 per saham senilai total Rp533,4 miliar.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BQ",
+   "SCMA",
+   "dividen",
+   "waran terstruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b4887715ff_09e0aba55f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bold-pefindo-taruh-8-obligasi-rp2-8-t-dalam-creditwatch",
+  "category": "Aksi Korporasi",
+  "title": "BOLD: PEFINDO Taruh 8 Obligasi Rp2,8 T dalam [CreditWatch]",
+  "deck": "PEFINDO menempatkan status pengawasan (creditwatch) pada rating idBBB delapan seri obligasi dan sukuk BUMA senilai total sekitar Rp2,8 triliun dalam pemeringkatan tahunan 2026.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "BUMA",
+   "obligasi",
+   "PEFINDO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bd6b1f0c62_e93c1620e5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smcb-gelar-rupslb-ajukan-aktivasi-bisnis-dagang-bahan-bangunan",
+  "category": "Aksi Korporasi",
+  "title": "SMCB Gelar RUPSLB, Ajukan [Aktivasi] Bisnis Dagang Bahan Bangunan",
+  "deck": "SMCB menggelar RUPSLB 27 November 2026 untuk meminta restu pemegang saham mengaktifkan kembali bisnis dagang bahan bangunan, menyusul merger anak usahanya ke VUB.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMCB",
+   "RUPSLB",
+   "Semen Indonesia",
+   "perubahan kegiatan usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c989dbaa26_20ef570dd4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "halo-ganti-komisaris-jane-joe-laurence-gantikan-wilfred-schultz",
+  "category": "Aksi Korporasi",
+  "title": "HALO ganti [komisaris], Jane Joe Laurence gantikan Wilfred Schultz",
+  "deck": "PT Haloni Jane Tbk mengganti satu kursi komisaris, Jane Joe Laurence menggantikan Wilfred Schultz, efektif 20 Oktober 2026 untuk periode 2025-2027.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HALO",
+   "komisaris",
+   "pergantian pengurus",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/df8e516f86_e76e7b40b2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "asdm-jawab-bei-soal-volatilitas-saham-klaim-tak-ada-info-baru",
   "category": "Aksi Korporasi",
   "title": "ASDM Jawab BEI soal [Volatilitas] Saham, Klaim Tak Ada Info Baru",
@@ -83,6 +195,22 @@ var ARTICLES = [
    "Anggaran Dasar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d5a7adfde7_00b55c0a4d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hatm-laba-bersih-semester-i-2026-turun-53-pendapatan-stagnan",
+  "category": "Aksi Korporasi",
+  "title": "HATM: Laba Bersih Semester I 2026 Turun [53%], Pendapatan Stagnan",
+  "deck": "Laba bersih Habco Trans Maritima (HATM) turun 53,6 persen menjadi Rp50,92 miliar pada semester I 2026 akibat beban pokok pendapatan yang melonjak, meski pendapatan nyaris stagnan di Rp519,96 miliar.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HATM",
+   "laporan keuangan",
+   "laba bersih",
+   "emiten pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/60d91c027a_75ba2eb948.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6396,135 +6524,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b53d40a6b2_fad8822bff.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bata-panggil-rupslb-5-november-agenda-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "BATA Panggil RUPSLB 5 November, Agenda [Perubahan] Direksi",
-  "deck": "Sepatu Bata Tbk mengundang pemegang saham ke RUPSLB 5 November 2026 dengan agenda tunggal persetujuan perubahan susunan direksi perseroan.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BATA",
-   "RUPSLB",
-   "Direksi",
-   "Sepatu Bata"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/018e89eced_44ebb370e7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-jadwalkan-rupsu-sukuk-seri-b-pada-11-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Jadwalkan RUPSU Sukuk [Seri B] pada 11 November 2026",
-  "deck": "PTPP akan menggelar RUPSU ketiga untuk Sukuk Mudharabah Berkelanjutan I Tahap I Tahun 2021 Seri B pada 11 November 2026, pemanggilan resmi diumumkan 28 Oktober 2026.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "sukuk",
-   "RUPSU",
-   "wali amanat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/69923bbe46_20bba73981.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-gelar-rupsu-ketiga-untuk-sukuk-tahap-iii-2023",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Gelar RUPSU [Ketiga] untuk Sukuk Tahap III 2023",
-  "deck": "PTPP menjadwalkan RUPSU ketiga untuk Sukuk Mudharabah Berkelanjutan I Tahap III 2023 pada 11 November 2026, bersamaan dengan RUPSU keempat untuk seri sukuk lain.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "RUPSU",
-   "Sukuk",
-   "Restrukturisasi Utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bebb337a5c_54b971d120.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ilo-seco-luncurkan-fase-baru-program-keuangan-umkm",
-  "category": "UMKM",
-  "title": "ILO-SECO Luncurkan [Fase Baru] Program Keuangan UMKM",
-  "deck": "Pemerintah bersama ILO dan SECO menutup program PROMISE II dan memasuki fase baru penguatan akses keuangan UMKM, di tengah kesenjangan literasi keuangan yang masih lebar.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/konveksi-penjahit.jpg",
-  "tags": [
-   "UMKM",
-   "Literasi Keuangan",
-   "KUR",
-   "PNM Mekaar"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7149/perkuat-ekosistem-umkm-dan-rantai-nilai-daerah-pemerintah-dorong-transformasi-akses-keuangan-menuju-pekerjaan-layak",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pemerintah-pacu-3-cepa-baru-bidik-ekspor-sawit-otomotif",
-  "category": "Global",
-  "title": "Pemerintah Pacu 3 [CEPA] Baru, Bidik Ekspor Sawit-Otomotif",
-  "deck": "Pemerintah mendorong percepatan implementasi tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Eurasia agar manfaatnya benar-benar terasa pada ekspor sawit, otomotif, kopi, dan sejumlah komoditas lain.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
-  "tags": [
-   "CEPA",
-   "ekspor",
-   "perdagangan internasional",
-   "Uni Eropa"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7150/bidik-perluasan-pasar-ekspor-menko-airlangga-dorong-percepatan-implementasi-cepa",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pasokan-bbm-bali-dikebut-pertamina-buka-suplai-24-jam",
-  "category": "Energi",
-  "title": "Pasokan BBM Bali Dikebut, Pertamina Buka Suplai [24 Jam]",
-  "deck": "Pertamina Patra Niaga mempercepat pemulihan pasokan BBM di Bali lewat skala prioritas SPBU dan suplai nonstop 24 jam, dibantu kapal tanker yang baru merapat membawa Pertalite dan Biosolar.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/pasokan-bbm-bali-dikebut-pertamina-buka-suplai-24-jam.jpg",
-  "imageV": "mv704tpn",
-  "tags": [
-   "pertamina",
-   "bbm",
-   "bali",
-   "spbu"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472845-kebut-pemulihan-pasokan-bbm-di-bali-pertamina-terapkan-suplai-24-jam-dan-skala-prioritas-spbu"
- },
- {
-  "slug": "arii-siapkan-pmthmetd-375-juta-saham-rupslb-20-november",
-  "category": "Aksi Korporasi",
-  "title": "ARII Siapkan [PMTHMETD] 375 Juta Saham, RUPSLB 20 November",
-  "deck": "ARII menjadwalkan RUPSLB 20 November 2026 untuk meminta restu penerbitan hingga 375 juta saham baru tanpa HMETD, dananya untuk infrastruktur jalan anak usaha MMJ.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARII",
-   "Atlas Resources",
-   "PMTHMETD",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e12384c94f_721e529711.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-trans-kontinental-borong-empat-trofi-maritim-digital",
-  "category": "BUMN",
-  "title": "Pertamina Trans Kontinental [Borong] Empat Trofi Maritim Digital",
-  "deck": "PT Pertamina Trans Kontinental meraih empat penghargaan di Marketeers Editor's Choice Award 2026 untuk layanan maritim, inovasi digital, dan program pesisir.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/pertamina-trans-kontinental-borong-empat-trofi-maritim-digital.jpg",
-  "imageV": "mv704uso",
-  "tags": [
-   "Pertamina",
-   "maritim",
-   "digitalisasi",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472832-perkuat-solusi-digital-dan-pemberdayaan-pesisir-pertamina-trans-kontinental-borong-trofi-marketeers-editors-choice-award-2026"
  }
 ];

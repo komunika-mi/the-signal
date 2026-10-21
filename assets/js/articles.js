@@ -3,6 +3,192 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lapd-jadwalkan-ulang-rupslb-agendakan-rights-issue-2-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Jadwalkan Ulang RUPSLB, Agendakan [Rights Issue] 2 Miliar Saham",
+  "deck": "RUPSLB LAPD diundur ke 29 Oktober 2026, mengagendakan rights issue hingga 50,42% saham baru, penetapan PT JSI Sinergi Mas sebagai pengendali, serta pergantian nama dan alamat perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T14:50:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a1375f1db5_84a94516ab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "RUPSLB",
+   "rights issue",
+   "pemegang saham pengendali"
+  ],
+  "body": [
+   "Leyand International Tbk (LAPD) menerbitkan ralat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), mengubah jadwal rapat dari sebelumnya Selasa, 20 Oktober 2026 pukul 10.00 WIB menjadi Kamis, 29 Oktober 2026 pukul 13.00 WIB. Lokasi rapat tetap di Meeting Room Hotel Maia, Jalan HBR Motik, Tanah Abang, Jakarta Pusat, dan digelar secara hibrida lewat aplikasi eASY.KSEI. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 25 September 2026 pukul 16.00 WIB.",
+   "Agenda utama rapat adalah persetujuan Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu kedua (PMHMETD II). Perseroan berencana menerbitkan sebanyak-banyaknya 2 miliar saham Seri B dengan nilai nominal Rp25 per saham, setara sekitar 50,42 persen dari jumlah saham yang sudah diterbitkan sebelum rencana ini dijalankan. Pemegang saham juga diminta menyetujui perubahan Pasal 4 Anggaran Dasar terkait penerbitan saham Seri B itu, sekaligus memberi kuasa kepada Direksi untuk menentukan rasio hak memesan efek, harga pelaksanaan, jadwal, dan penggunaan dana hasil rights issue tersebut.",
+   "Rapat juga akan menetapkan PT JSI Sinergi Mas sebagai pemegang saham pengendali baru Perseroan, sesuai Pasal 45 POJK No. 45/2024. Agenda lain mencakup perubahan susunan direksi sehubungan dengan rencana pengunduran diri Bambang Rahardja Burhan dari jabatan Direktur, serta perubahan nama Perseroan dari PT Leyand International Tbk menjadi PT JSI Sinergi Internasional Tbk dan perubahan domisili dari Jakarta Pusat ke Jakarta Selatan.",
+   "Selain itu, pemegang saham diminta menyetujui perubahan alamat kantor Perseroan, dari Panin Tower Senayan City Lantai 11, Jalan Asia Afrika, Jakarta Pusat, menjadi Gedung Recapital Lantai 3, Jalan Adityawarman No. 55, Kebayoran Baru, Jakarta Selatan."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a hotel conference room set up for a corporate meeting, soft morning light",
+  "takeaway": "Rangkaian ini condong negatif bagi pemegang saham lama LAPD, karena rencana penerbitan sampai 2 miliar saham baru yang setara 50,42 persen dari saham yang sudah ada akan diikuti dengan pengalihan kendali perusahaan ke PT JSI Sinergi Mas, yang bahkan namanya akan dipakai sebagai nama baru perseroan. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru sebanyak itu terbit, keuntungan perusahaan harus dibagi ke basis saham yang jauh lebih besar sehingga laba per saham milik pemegang lama bisa terdilusi signifikan, dan hak suara mereka dalam rapat ikut mengecil secara proporsional. Perubahan pemegang saham pengendali juga berarti arah bisnis dan manajemen berpotensi berubah besar karena pemilik baru bisa menata ulang kebijakan strategis perusahaan. Yang perlu dipantau adalah hasil RUPSLB pada 29 Oktober 2026, karena rincian penting seperti harga pelaksanaan rights issue dan penggunaan dananya baru akan diputuskan di rapat itu, ditambah kelanjutan proses klarifikasi OJK yang sebelumnya membuat rapat ini tertunda.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inps-revisi-rencana-rp125-m-saham-baru-dilusi-192",
+  "category": "Aksi Korporasi",
+  "title": "INPS Revisi Rencana Rp125 M, Saham Baru [Dilusi] 192%",
+  "deck": "INPS memperbarui keterbukaan informasi penambahan modal tanpa HMETD senilai hingga Rp125 miliar untuk pemegang saham pengendali, menyusul tanggapan OJK atas dokumen awal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T14:39:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f581ba0048_82b4021f30.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "penambahan modal",
+   "dilusi saham",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) menyampaikan perubahan dan tambahan atas keterbukaan informasi penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) yang sebelumnya diumumkan 25 September 2026. Perubahan ini disusun menanggapi surat penelaahan Otoritas Jasa Keuangan tanggal 13 Oktober 2026 dan menggantikan dokumen awal secara keseluruhan. Perseroan berencana menerbitkan sebanyak-banyaknya 1.250.000.000 saham baru, setara 192,31 persen dari saham yang beredar saat ini, dengan harga pelaksanaan Rp100 per saham sehingga dana yang masuk bisa mencapai Rp125 miliar. Seluruh saham baru akan diambil oleh PT Graha Inti Guna Persada (GIGP), pemegang saham pengendali, secara tunai. Jika disetujui dalam RUPSLB 3 November 2026, kepemilikan GIGP di INPS naik dari 65,86 persen menjadi 88,32 persen, sementara saham baru akan setara 65,79 persen dari modal setelah transaksi.",
+   "Alasan utamanya adalah posisi keuangan INPS yang rapuh. Per 30 Juni 2026, ekuitas perseroan tercatat negatif Rp42,83 miliar, modal kerja bersih negatif Rp26,94 miliar, dan rasio total liabilitas terhadap total aset mencapai 124,35 persen, jauh di atas batas 80 persen yang disyaratkan aturan OJK untuk skema penambahan modal jenis ini. Defisit akumulasi mencapai Rp218,97 miliar, disumbang antara lain oleh rugi bersih Rp30,2 miliar pada 2024, Rp19,1 miliar pada 2025, dan rugi revaluasi aset tetap Rp23,8 miliar pada 2024. Liabilitas jangka pendek Rp87,44 miliar terdiri dari utang lain-lain, utang pajak, beban akrual, dan utang bank jatuh tempo.",
+   "Dibanding dokumen awal, alokasi dana diperbarui: pelunasan utang pihak ketiga naik menjadi sekitar Rp27 miliar dari sebelumnya sekitar Rp21 miliar, karena memasukkan pokok pinjaman Rp5,8 miliar dari Charli Handaka berbunga 10 persen per tahun yang sebelumnya digunakan untuk mengambil 90 persen saham PT Tri Satria Indah Motor (TSIM), anak usaha di bidang otomotif berkedudukan di Sidoarjo. Kreditur yang disebut adalah PT Era Prima Utama senilai Rp12,59 miliar dan pihak ketiga lain senilai Rp8,50 miliar. Sementara itu, alokasi penyertaan modal ke TSIM diturunkan menjadi sekitar Rp93 miliar dari sebelumnya sekitar Rp99 miliar, dan sisanya sekitar Rp5 miliar dipakai untuk modal kerja. Perseroan menegaskan biaya transaksi dibayar dari kas sendiri, bukan dipotong dari dana hasil PMTHMETD.",
+   "Dokumen juga menambahkan diagram kepemilikan sampai tingkat individu. GIGP dimiliki Sunarko Kwee 60 persen dan Kwee Seng Hong 40 persen, dengan Kwee Seng Hong disebut sebagai pengendali akhir INPS. Di luar GIGP, pemegang saham INPS saat ini adalah Andry Hakim dengan 10,02 persen dan publik 24,12 persen. Harga pelaksanaan Rp100 per saham ditetapkan setara nilai nominal karena saham tidak boleh dijual di bawah nilai nominal, dan menurut penilai independen KJPP Ferdinand, Danar, Ichsan dan Rekan, harga itu masih di atas indikasi nilai wajar Rp91,22 per saham per 30 Juni 2026."
+  ],
+  "fotoAdegan": "Fuel tanker trucks lined up at a logistics depot loading bay, workers in safety vests checking hoses, late afternoon light",
+  "takeaway": "Laporan ini bisa dibaca netral: suntikan dana segar hingga Rp125 miliar dari pemegang saham pengendali memang dibutuhkan untuk menambal ekuitas yang negatif dan rasio utang yang sudah melampaui aset, tapi ongkosnya adalah jumlah saham beredar yang melonjak hampir tiga kali lipat sehingga porsi kepemilikan pemegang saham lama otomatis mengecil jauh. Dua pos yang langsung tersentuh adalah ekuitas dan laba per saham, yaitu keuntungan yang dibagi rata ke setiap lembar saham: dana masuk akan tercatat sebagai modal disetor sehingga ekuitas yang negatif berpotensi berbalik positif, tapi karena jumlah lembar saham membengkak, laba per saham ke depan akan terbagi ke kue yang jauh lebih banyak lembarnya sehingga nilainya per lembar mengecil. Harga pelaksanaan Rp100 yang berada di atas penilaian wajar Rp91,22 per saham setidaknya membuat penerbitan ini tidak dilakukan dengan harga murah yang merugikan pemegang saham publik. Yang perlu dipantau berikutnya adalah keputusan RUPSLB pada 3 November 2026, karena dari situ baru dipastikan apakah rencana ini berjalan, disusul realisasi penyetoran dan penerbitan saham baru yang dijadwalkan 1 Desember 2026 dan paling lambat 31 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "posa-catat-ekuitas-negatif-rp577-m-4-mal-disita-jaksa",
+  "category": "Aksi Korporasi",
+  "title": "POSA Catat Ekuitas Negatif Rp577 M, 4 Mal [Disita] Jaksa",
+  "deck": "POSA menjawab permintaan penjelasan BEI: ekuitas negatif Rp577,10 miliar, utang jangka pendek jauh lampaui aset lancar, dan empat mal disita Kejaksaan Agung.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T14:37:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6bcd09b09f_33960346e6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POSA",
+  "tags": [
+   "POSA",
+   "ekuitas negatif",
+   "penyitaan aset",
+   "going concern"
+  ],
+  "body": [
+   "PT Bliss Properti Indonesia Tbk (POSA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-12999/BEI.PP3/10-2026 tanggal 12 Oktober 2026. Tanggapan dikirim 21 Oktober 2026 dan ditandatangani oleh Chief Financial Officer Eko Heru Prasetyo, menjawab pertanyaan Bursa seputar kondisi operasional, laporan keuangan per 30 Juni 2026, serta penyitaan sejumlah aset properti milik perusahaan.",
+   "Secara operasional, Mal Ambon City Center yang dikelola langsung oleh Perseroan mencatat okupansi sekitar 73 persen per 30 Juni 2026. Mal Tanjungpinang City Center yang dikelola anak usaha PT Tanjungpinang Sakti baru terisi 42 persen, sementara Mal Ponorogo City Center mencapai 86 persen dan Hotel Amaris Ponorogo dengan 80 kamar mencatat okupansi 76 persen. Proyek Jambi City Center senilai Rp356,57 miliar dalam pos aset dalam penyelesaian, yang semula ditargetkan rampung 30 September 2026, molor karena Perseroan masih berkoordinasi dengan berbagai pihak termasuk Bank Sinarmas soal rencana pengelolaan bersama, dan manajemen belum bisa memastikan target operasionalnya.",
+   "Dari sisi keuangan, Perseroan membukukan ekuitas negatif Rp577,10 miliar per 30 Juni 2026 dan belum menetapkan skema untuk memulihkannya. Total liabilitas jangka pendek konsolidasian mencapai Rp1,23 triliun, jauh melampaui aset lancar yang hanya Rp17,70 miliar. Perseroan menjelaskan sekitar 47 persen dari liabilitas jangka pendek itu berasal dari utang bank yang sudah jatuh tempo dan 50 persen dari akumulasi bunga serta denda bank, dengan restrukturisasi utang perbankan disebut sudah dilakukan. Anak usaha PT Tanjungpinang Sakti juga gagal memenuhi kovenan rasio keuangan pada fasilitas pinjaman dari Bank CIMB Niaga, sehingga kini seluruh pendapatan sewa dari penyewa masuk langsung ke rekening CIMB Niaga sebelum dicairkan untuk kebutuhan operasional.",
+   "Perseroan juga mengonfirmasi bahwa Kejaksaan Agung telah menyita empat aset operasional utamanya, yakni Ambon City Center, Tanjungpinang City Center, Ponorogo City Center, dan Jambi City Center, dengan nilai buku neto gabungan Rp486,12 miliar, dalam rangka pelelangan untuk menutup kewajiban terpidana Benny Tjokrosaputro. Perseroan mengklaim tetap mengoperasikan dan menerima pendapatan sewa dari keempat mal tersebut, tidak membukukan kerugian penurunan nilai, dan belum mengajukan perlawanan hukum pihak ketiga, serta belum mendapat kejelasan soal kemungkinan sisa dana lelang. Secara terpisah, tanah dan sertifikat hak guna bangunan di Lombok City Center senilai Rp181,94 miliar juga disita terkait dugaan korupsi dalam kerja sama operasi, dan Pengadilan Tinggi telah memerintahkan aset itu dikembalikan ke PT Bank Sinarmas Tbk untuk dilelang, meski jadwal dan mekanismenya belum disepakati."
+  ],
+  "fotoAdegan": "Quiet shopping mall corridor with several shuttered storefronts, a few visitors walking past, soft overhead lighting",
+  "takeaway": "Laporan ini jelas condong negatif bagi pemegang saham POSA karena mengonfirmasi ekuitas negatif, defisit modal kerja yang sangat lebar, dan empat aset mal utama yang sudah disita aparat hukum. Ekuitas negatif Rp577,10 miliar berarti total utang perusahaan sudah melebihi seluruh asetnya, sehingga secara teknis modal pemegang saham sudah terkuras habis, sementara arus kas jadi sorotan karena manajemen sendiri mengakui ada ketidakpastian kelangsungan usaha dan utang jangka pendek Rp1,23 triliun jauh melampaui aset lancar yang cuma Rp17,70 miliar. Yang perlu dipantau berikutnya adalah jadwal lelang aset Lombok City Center oleh Bank Sinarmas yang sampai saat ini belum disepakati, kelanjutan koordinasi dengan Kejaksaan Agung soal empat mal yang disita terkait kasus Benny Tjokrosaputro, serta skema restrukturisasi permodalan yang menurut pengakuan manajemen sendiri belum ditetapkan sama sekali.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bq-sesuaikan-waran-scmabqcx6a-usai-scma-bagi-dividen-rp8-4",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan Waran [SCMABQCX6A] Usai SCMA Bagi Dividen Rp8,4",
+  "deck": "Korea Investment Sekuritas Indonesia (BQ) menyesuaikan rasio dan harga pelaksanaan waran terstruktur SCMABQCX6A setelah SCMA mengumumkan dividen interim Rp8,4 per saham senilai total Rp533,4 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T14:36:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b4887715ff_09e0aba55f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "SCMA",
+   "dividen",
+   "waran terstruktur"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia (BQ), penerbit waran terstruktur SCMABQCX6A yang mengacu pada saham PT Surya Citra Media Tbk (SCMA), menyampaikan keterbukaan informasi tentang penyesuaian syarat dan ketentuan waran tersebut. Penyesuaian ini dilakukan menyusul keputusan direksi SCMA yang telah disetujui dewan komisaris pada 19 Oktober 2026 untuk membagikan dividen interim tahun buku 2026 senilai total Rp533.439.507.552, atau setara Rp8,4 per saham.",
+   "Jadwal pembagian dividen itu disebutkan rinci dalam dokumen. Tanggal cum dividen di pasar reguler dan pasar negosiasi jatuh pada 27 Oktober 2026, dengan tanggal ex dividen sehari setelahnya, 28 Oktober 2026. Untuk pasar tunai, cum dividen pada 29 Oktober 2026 dan ex dividen 30 Oktober 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada 29 Oktober 2026 pukul 16.00 berhak menerima dividen, dan pembayarannya dijadwalkan paling lambat 18 November 2026.",
+   "Karena SCMA adalah saham acuan (underlying) waran SCMABQCX6A, pembagian dividen itu memicu penyesuaian rasio pelaksanaan dan harga pelaksanaan waran, sesuai rumus yang diatur dalam Term Sheet dan Bagian 3.9 Prospektus Waran Terstruktur. Rumus itu memperhitungkan harga penutupan saham SCMA pada hari bursa terakhir diperdagangkan secara cum dividen, dikurangi nilai dividen per saham, dibagi harga tersebut. BQ juga mencantumkan ketentuan bahwa penyesuaian ini bisa saja tidak dilakukan apabila berdasarkan kebijaksanaan penerbit, tanpa kewajiban apa pun kepada pemegang waran, penyesuaian dianggap tidak diperlukan."
+  ],
+  "fotoAdegan": "Exterior of modern glass office towers in Jakarta's SCBD business district, pedestrians crossing below, late afternoon light",
+  "takeaway": "Laporan ini netral bagi BQ karena penyesuaian rasio dan harga pelaksanaan waran murni mekanisme otomatis yang mengikuti aturan baku dalam term sheet, bukan keputusan bisnis baru dari BQ, melainkan dampak lanjutan dari dividen yang sudah diputuskan SCMA. Yang tersentuh adalah rasio pelaksanaan, yakni jumlah saham SCMA yang bisa ditukar per satu waran, dan harga pelaksanaan, yakni harga yang harus dibayar pemegang waran untuk menukarkannya menjadi saham. Keduanya disesuaikan turun sebanding dengan dividen Rp8,4 per saham, sehingga nilai ekonomis waran bagi pemegangnya dijaga agar tidak otomatis tergerus oleh pembagian dividen itu. Yang perlu dipantau adalah harga penutupan saham SCMA pada 27 Oktober 2026, hari bursa terakhir sebelum cum dividen, karena harga itu dipakai sebagai acuan rumus penyesuaian, dan masih ada kemungkinan BQ memutuskan tidak melakukan penyesuaian sama sekali sesuai kebijaksanaannya sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bold-pefindo-taruh-8-obligasi-rp2-8-t-dalam-creditwatch",
+  "category": "Aksi Korporasi",
+  "title": "BOLD: PEFINDO Taruh 8 Obligasi Rp2,8 T dalam [CreditWatch]",
+  "deck": "PEFINDO menempatkan status pengawasan (creditwatch) pada rating idBBB delapan seri obligasi dan sukuk BUMA senilai total sekitar Rp2,8 triliun dalam pemeringkatan tahunan 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T14:24:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bd6b1f0c62_e93c1620e5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "BUMA",
+   "obligasi",
+   "PEFINDO"
+  ],
+  "body": [
+   "PT Bukit Makmur Mandiri Utama (BUMA, kode emiten BOLD) menerima hasil pemeringkatan tahunan dari PEFINDO lewat surat bernomor RC-1403/PEF-DIR/X/2026. Hasil pemeringkatan ditetapkan 19 Oktober 2026, diumumkan ke publik pada tanggal yang sama, dan baru diterima resmi oleh perusahaan sehari setelahnya, 20 Oktober 2026. Seluruh delapan seri surat utang BUMA yang masih berjalan mendapat rating idBBB, namun dengan status outlook CreditWatch, yang berarti rating ini sedang dalam pengawasan khusus dan berpotensi berubah pada evaluasi berikutnya.",
+   "Kedelapan surat utang yang masuk pemeringkatan ini adalah Obligasi I BUMA Tahun 2023 Seri B senilai Rp200,57 miliar yang jatuh tempo 28 Desember 2026, dan Seri C senilai Rp13,14 miliar jatuh tempo 28 Desember 2028. Ada pula Obligasi II BUMA Tahun 2024 Seri B senilai Rp332,71 miliar jatuh tempo 8 Oktober 2027, dan Seri C senilai Rp416,255 miliar jatuh tempo 8 Oktober 2029. Sukuk Ijarah I BUMA Tahun 2025 Seri B senilai Rp364,95 miliar jatuh tempo 26 Maret 2028, dan Seri C senilai Rp1.092,2 miliar jatuh tempo 26 Maret 2030 juga masuk daftar. Terakhir, Obligasi III BUMA Tahun 2025 Seri B senilai Rp325,75 miliar jatuh tempo 10 Oktober 2028, dan Seri C senilai Rp55,14 miliar jatuh tempo 10 Oktober 2030. Total nilai pokok kedelapan surat utang itu sekitar Rp2,8 triliun.",
+   "Periode rating ini berlaku sejak 16 Oktober 2026. Jadwal evaluasi berikutnya berbeda untuk tiap seri: Obligasi I Seri B 2023 akan dievaluasi ulang pada 28 Desember 2026, sementara tujuh seri lainnya dijadwalkan pada 16 Januari 2027. Laporan ditandatangani secara elektronik oleh Corporate Secretary BUMA, Riska Aurisna Febriane."
+  ],
+  "fotoAdegan": "Heavy mining haul trucks navigating a dusty open-pit coal mine road, excavator loading material in the background, overcast light",
+  "takeaway": "Catatan ini condong negatif bagi BUMA, karena yang terjadi bukan sekadar konfirmasi rating tahunan rutin, melainkan status pengawasan (creditwatch) yang disematkan ke seluruh delapan seri surat utangnya sekaligus, menandakan PEFINDO melihat ada faktor yang berpotensi mengubah rating idBBB dalam waktu dekat. Pos yang tersentuh adalah biaya utang dan arus kas perusahaan, karena rating kredit menunjukkan seberapa yakin lembaga pemeringkat terhadap kemampuan BUMA membayar utangnya, dan kalau rating ini nanti diturunkan, bunga pinjaman baru bisa lebih mahal serta harga obligasi yang sudah beredar di pasar sekunder bisa ikut terkoreksi. Yang perlu dipantau adalah dua tanggal keputusan PEFINDO berikutnya, yaitu 28 Desember 2026 untuk Obligasi I Seri B 2023 dan 16 Januari 2027 untuk tujuh seri lainnya, karena pada tanggal itulah status pengawasan ini akan berakhir dengan rating dipertahankan, dinaikkan, atau diturunkan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smcb-gelar-rupslb-ajukan-aktivasi-bisnis-dagang-bahan-bangunan",
+  "category": "Aksi Korporasi",
+  "title": "SMCB Gelar RUPSLB, Ajukan [Aktivasi] Bisnis Dagang Bahan Bangunan",
+  "deck": "SMCB menggelar RUPSLB 27 November 2026 untuk meminta restu pemegang saham mengaktifkan kembali bisnis dagang bahan bangunan, menyusul merger anak usahanya ke VUB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T13:50:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c989dbaa26_20ef570dd4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMCB",
+  "tags": [
+   "SMCB",
+   "RUPSLB",
+   "Semen Indonesia",
+   "perubahan kegiatan usaha"
+  ],
+  "body": [
+   "PT Solusi Bangun Indonesia Tbk (SMCB) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 27 November 2026 pukul 14.00 WIB di Space Ballroom, Aloft Hotel TB Simatupang, Jakarta. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 4 November 2026. Agenda utamanya adalah meminta persetujuan pemegang saham untuk mengaktifkan kembali salah satu lini usaha perusahaan, sesuai ketentuan Peraturan OJK No. 17/2020 tentang transaksi material dan perubahan kegiatan usaha.",
+   "Rencana ini berawal dari Perjanjian Penggabungan Bersyarat yang diteken pada 21 Agustus 2026 oleh PT Semen Indonesia (SIG), SMCB, PT Semen Indonesia Beton, PT Varia Usaha Beton (VUB), PT Solusi Bangun Beton (SBB), dan PT Readymix Concrete Indonesia. Dalam perjanjian itu, tiga perusahaan yakni Semen Indonesia Beton, SBB, dan Readymix Concrete Indonesia akan dimerger ke dalam VUB, dengan VUB sebagai perusahaan yang menerima penggabungan. SBB sendiri adalah anak usaha SMCB yang selama ini berdagang produk agregat dan beton. Begitu merger itu efektif, seluruh aset, kegiatan usaha, fasilitas produksi, dan perjanjian pelanggan milik SBB otomatis berpindah ke VUB menurut hukum, sehingga SMCB kehilangan jalur dagangnya sendiri di segmen tersebut.",
+   "Untuk tetap bisa berjualan produk beton dan turunan semen setelah kehilangan SBB, SMCB berencana mengaktifkan sendiri kegiatan usaha KBLI 46733, yaitu perdagangan besar bahan konstruksi dari tanah liat, kapur, semen, atau kaca, yang sebenarnya sudah tercantum di anggaran dasar perusahaan sejak lama namun belum pernah dijalankan. Produk yang akan diperdagangkan direncanakan diperoleh lewat skema maklon, di mana penyedia jasa produksinya akan ditentukan kemudian. Langkah ini tidak memerlukan perubahan anggaran dasar, dan tidak memerlukan persetujuan dari kreditur sindikasi pinjaman berbasis keberlanjutan yang dipimpin PT Bank Negara Indonesia, karena klausul perjanjian kredit itu tidak mensyaratkannya.",
+   "Kajian independen oleh KJPP Ferdinand, Danar, Ichsan dan Rekan, dengan tanggal cut off 30 Juni 2026, menyimpulkan rencana ini layak secara keuangan. Proyek ini diperkirakan menghasilkan nilai sekarang bersih (NPV) Rp606,4 miliar, tingkat imbal balik internal (IRR) 44,05 persen yang berada jauh di atas biaya modal 13,03 persen, indeks profitabilitas 2,58 kali, dan modal yang ditanam diperkirakan kembali dalam 3 tahun 1 bulan."
+  ],
+  "fotoAdegan": "Workers loading stacked cement bags onto a flatbed truck at an industrial warehouse yard, forklift nearby, overcast daylight",
+  "takeaway": "Laporan ini condong netral bagi SMCB, karena pada dasarnya perusahaan hanya menjaga agar sumber pendapatan dari dagang beton dan bahan bangunan tidak hilang sama sekali setelah anak usahanya, SBB, dimerger ke sesama anak usaha Semen Indonesia Group, bukan sebuah ekspansi baru di luar bisnis inti. Yang tersentuh di sini adalah arus kas dari lini pendapatan, bukan ekuitas atau jumlah saham beredar, karena SMCB akan berjualan sendiri produk beton memakai jasa pihak lain lewat skema maklon, tanpa membangun pabrik baru. Kajian independen memang menghitung proyek ini punya imbal balik 44,05 persen jauh di atas biaya modal 13,03 persen dengan modal kembali dalam tiga tahun satu bulan, tapi dokumen ini sendiri menyinggung risiko persaingan pasar dan fluktuasi harga yang belum tentu terwujud sesuai proyeksi. Yang perlu dipantau adalah hasil RUPSLB pada 27 November 2026, karena rencana pengaktifan kegiatan usaha ini baru bisa berjalan setelah disetujui pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "halo-ganti-komisaris-jane-joe-laurence-gantikan-wilfred-schultz",
+  "category": "Aksi Korporasi",
+  "title": "HALO ganti [komisaris], Jane Joe Laurence gantikan Wilfred Schultz",
+  "deck": "PT Haloni Jane Tbk mengganti satu kursi komisaris, Jane Joe Laurence menggantikan Wilfred Schultz, efektif 20 Oktober 2026 untuk periode 2025-2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T13:48:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/df8e516f86_e76e7b40b2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HALO",
+  "tags": [
+   "HALO",
+   "komisaris",
+   "pergantian pengurus",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Haloni Jane Tbk (HALO) menyampaikan keterbukaan informasi perubahan pengurus kepada Otoritas Jasa Keuangan dan PT Bursa Efek Indonesia lewat surat bernomor 631/HJ-Tbk/X/2026 tertanggal 20 Oktober 2026. Surat itu mengonfirmasi pergantian pada kursi Komisaris, Jane Joe Laurence resmi menggantikan Wilfred Schultz, berlaku efektif sejak 20 Oktober 2026 untuk periode jabatan 2025-2027. Tanggal pengangkatan Jane Joe Laurence tercatat sejak 2 Mei 2025.",
+   "Selain pergantian itu, susunan direksi dan komisaris lain tidak berubah. Louis Hans Laurence tetap menjabat Direktur Utama dan Imelda Lin tetap Komisaris Utama, keduanya menduduki posisi itu sejak 8 Agustus 2022. Juliana tetap sebagai Direktur sejak tanggal yang sama, sementara Doktorandus I Dewa Gde Suthapa tetap menjabat Komisaris Independen sejak 26 Juni 2023. Surat pemberitahuan ini ditandatangani oleh Juliana selaku Direktur perseroan.",
+   "Menariknya, ringkasan data pengurus yang tercantum di laman keterbukaan informasi masih mencatat nama pengurus sebelumnya untuk posisi ini sebagai Jane Joe Laurence, seolah tidak ada perubahan. Surat resmi perseroan ke OJK dan BEI justru menyebut nama pendahulunya adalah Wilfred Schultz, sehingga pergantian komisaris ini baru terlihat jelas dari isi surat, bukan dari tabel ringkasannya."
+  ],
+  "fotoAdegan": "Modern Jakarta office tower lobby with marble floors and glass elevators, business people walking through, daytime light",
+  "takeaway": "Perubahan ini netral bagi fundamental Haloni Jane, sebab yang berganti cuma satu kursi komisaris, bukan direksi yang menjalankan operasional harian, jadi tidak langsung mengubah strategi atau nilai bisnis perusahaan. Pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, dan laba per saham sama sekali tidak tersentuh oleh pergantian pengurus semacam ini, karena yang berubah murni soal siapa yang mengawasi direksi, bukan soal uang yang masuk atau keluar perusahaan. Yang bisa dipantau selanjutnya adalah apakah susunan komisaris baru ini bertahan hingga akhir periode jabatan 2025-2027, dan apakah posisi Komisaris Independen tetap dipegang Doktorandus I Dewa Gde Suthapa sepanjang periode tersebut, karena keberadaan komisaris independen jadi salah satu syarat tata kelola yang dipantau otoritas bursa.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "asdm-jawab-bei-soal-volatilitas-saham-klaim-tak-ada-info-baru",
   "category": "Aksi Korporasi",
   "title": "ASDM Jawab BEI soal [Volatilitas] Saham, Klaim Tak Ada Info Baru",
@@ -131,6 +317,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty chairs and a podium arranged in a conference hall ahead of a corporate shareholders meeting, soft morning light",
   "takeaway": "Laporan ini netral bagi fundamental IDEA karena isinya sebatas koreksi tanggal rapat, tanpa angka keuangan baru atau nama calon pengganti direksi dan komisaris yang diumumkan. Pos yang tersentuh bukan laporan keuangan melainkan tata kelola perseroan, karena agenda pergantian direksi-komisaris bisa mengubah arah strategi perusahaan ke depan, sementara perubahan anggaran dasar soal klasifikasi usaha hanya menyesuaikan administrasi dengan aturan KBLI 2025 dan tidak mengubah kegiatan usaha senyatanya. Yang perlu dipantau adalah pelaksanaan RUPSLB pada 12 November 2026, terutama siapa yang akhirnya ditetapkan sebagai direksi dan komisaris baru serta hasil persetujuan perubahan anggaran dasar, dengan tenggat pemberian kuasa dan suara elektronik jatuh pada 11 November 2026 pukul 12.00 WIB.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "hatm-laba-bersih-semester-i-2026-turun-53-pendapatan-stagnan",
+  "category": "Aksi Korporasi",
+  "title": "HATM: Laba Bersih Semester I 2026 Turun [53%], Pendapatan Stagnan",
+  "deck": "Laba bersih Habco Trans Maritima (HATM) turun 53,6 persen menjadi Rp50,92 miliar pada semester I 2026 akibat beban pokok pendapatan yang melonjak, meski pendapatan nyaris stagnan di Rp519,96 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T06:34:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/60d91c027a_75ba2eb948.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HATM",
+  "tags": [
+   "HATM",
+   "laporan keuangan",
+   "laba bersih",
+   "emiten pelayaran"
+  ],
+  "body": [
+   "PT Habco Trans Maritima Tbk (HATM), perusahaan angkutan laut dalam negeri untuk barang khusus, menyampaikan laporan keuangan interim kuartal II tahun 2026 untuk periode enam bulan yang berakhir 30 Juni 2026. Laporan yang telah ditelaah secara terbatas oleh auditor independen dengan opini wajar tanpa pengecualian ini disampaikan ke Bursa Efek Indonesia pada 21 Oktober 2026 oleh Corporate Secretary Antonius Limbong, dengan surat pernyataan direksi yang diteken Direktur Utama Andrew Kam dan Direktur Rita.",
+   "Pendapatan perusahaan pada semester I 2026 tercatat Rp519,96 miliar, hampir sama dengan Rp520,11 miliar pada periode yang sama tahun lalu, selisihnya hanya sekitar Rp151,5 juta. Namun beban pokok pendapatan melonjak dari Rp377,02 miliar menjadi Rp440,93 miliar, membuat laba kotor tergerus dari Rp143,09 miliar menjadi Rp79,03 miliar dan laba usaha turun dari Rp124,35 miliar menjadi Rp60,51 miliar. Akibatnya, laba bersih tahun berjalan anjlok 53,6 persen, dari Rp109,88 miliar menjadi Rp50,92 miliar, dan laba per saham dasar turun dari Rp12,66 menjadi Rp5,87.",
+   "Di sisi lain, arus kas dari aktivitas operasi justru membaik menjadi Rp94,62 miliar dari Rp40,46 miliar pada semester I 2025. Perusahaan juga melunasi sebagian pinjaman bank Rp28 miliar dan liabilitas sewa Rp20,78 miliar sepanjang periode ini, tanpa belanja modal besar seperti tahun lalu saat perusahaan mencatat akuisisi aset tetap senilai Rp342,78 miliar. Total ekuitas naik menjadi Rp1,64 triliun per 30 Juni 2026 dari Rp1,6 triliun di akhir 2025, setelah perusahaan mencadangkan dana Rp16,8 miliar dan mencatat utang dividen sebesar Rp17,36 miliar."
+  ],
+  "fotoAdegan": "A bulk cargo ship being loaded at an Indonesian port dock, dock workers and cranes working under a cloudy sky.",
+  "takeaway": "Laporan ini condong negatif bagi fundamental Habco, karena laba bersih ambruk lebih dari separuh sementara pendapatan nyaris tidak bergerak, tanda biaya operasional ikut menggerus keuntungan perusahaan. Pos yang tersentuh adalah laba per saham, yaitu bagian keuntungan yang jatah untuk setiap lembar saham, yang turun dari Rp12,66 menjadi Rp5,87 meski jumlah saham beredar tidak berubah, sehingga pelaku pasar membaca ini sebagai tanda profitabilitas melemah. Satu sisi baiknya, arus kas dari kegiatan operasional, yaitu uang tunai yang benar-benar masuk dari bisnis harian, justru naik lebih dari dua kali lipat, dan perusahaan juga aktif melunasi pinjaman bank sehingga beban bunga ke depan bisa lebih ringan. Yang perlu dipantau berikutnya adalah apakah kenaikan beban pokok pendapatan ini berlanjut di laporan kuartal III dan laporan tahunan 2026, serta realisasi pembayaran utang dividen Rp17,36 miliar yang baru tercatat per 30 Juni 2026.",
+  "sentimen": "negatif"
  },
  {
   "slug": "petani-sawit-swadaya-kaltim-ikuti-pelatihan-standar-industri",

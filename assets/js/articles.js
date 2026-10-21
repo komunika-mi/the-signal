@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sanf-bagikan-dividen-interim-rp15-52-miliar-rp27-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "SANF bagikan [dividen] interim Rp15,52 miliar, Rp27 per saham",
+  "deck": "Surya Artha Nusantara Finance (SANF) resmi membagikan dividen interim senilai Rp15,52 miliar atau Rp27 per saham, dibayarkan 23 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T21:02:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93171911c7_0f01ef762e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SANF",
+  "tags": [
+   "SANF",
+   "dividen interim",
+   "ASTRA Financial",
+   "perusahaan pembiayaan"
+  ],
+  "body": [
+   "PT Surya Artha Nusantara Finance (SANF), perusahaan pembiayaan konvensional yang menjadi bagian dari grup ASTRA Financial, mengumumkan pembagian dividen interim tahun 2026 senilai Rp15.521.896.809, atau setara Rp27 per saham. Keputusan pembagian ini diambil oleh Direksi Perseroan pada 9 Oktober 2026, dan persetujuan Dewan Komisaris atas keputusan tersebut berlaku efektif sejak 20 Oktober 2026.",
+   "Pembayaran dividen kepada pemegang saham dijadwalkan dilaksanakan pada 23 Oktober 2026, atau tiga hari setelah persetujuan Dewan Komisaris efektif. Laporan keterbukaan informasi ini disampaikan kepada Otoritas Jasa Keuangan dan ditandatangani oleh Presiden Direktur SANF, Wempy Kunto Wiambodo (penulisan nama mengikuti dokumen hasil pemindaian yang berpotensi kurang presisi), sementara pelaporan ke bursa dilakukan oleh Corporate Secretary SANF, Davin Susanto.",
+   "Dalam laporan tersebut, manajemen menyatakan bahwa pembagian dividen interim ini tidak membawa dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha Perseroan."
+  ],
+  "fotoAdegan": "Rows of new motorcycles and cars parked inside a vehicle dealership showroom, staff walking between aisles, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi SANF, sebab kemampuan membagikan dividen di tengah tahun biasanya menandakan perusahaan punya laba dan kas yang cukup tanpa perlu menunggu tutup tahun buku. Pos yang tersentuh adalah ekuitas dan arus kas, yaitu dividen Rp15,52 miliar itu akan mengurangi kas dan laba ditahan perusahaan begitu dibayarkan, karena uang yang tadinya tersimpan di perusahaan berpindah ke kantong pemegang saham. Pelaku pasar biasanya mencermati pos ini karena penurunan kas bisa mempersempit ruang gerak perusahaan untuk ekspansi atau membayar utang dalam jangka pendek, meski untuk nilai sebesar ini dampaknya kemungkinan terbatas. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada 23 Oktober 2026 serta laporan keuangan kuartal mendatang yang akan memperlihatkan apakah posisi kas dan ekuitas SANF tetap sehat setelah pembayaran ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "kkp-transaksi-ikan-di-65-kampung-nelayan-tembus-rp18-77-miliar",
   "category": "UMKM",
   "title": "KKP: Transaksi Ikan di 65 Kampung Nelayan Tembus [Rp18,77 Miliar]",
@@ -144,6 +170,32 @@ var ARTICLES = [
   "imageV": "mvi4q146"
  },
  {
+  "slug": "bris-jawab-bursa-soal-lonjakan-saham-buka-opsi-buyback",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Jawab Bursa soal Lonjakan Saham, Buka Opsi [Buyback]",
+  "deck": "BRIS menjawab permintaan penjelasan Bursa Efek Indonesia atas lonjakan harga dan transaksi sahamnya pada 8-16 Oktober 2026, sambil mengungkap opsi buyback saham sedang dikaji.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T19:06:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/adf108a070_d81c266f32.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "Bank Syariah Indonesia",
+   "RUPSLB",
+   "buyback"
+  ],
+  "body": [
+   "Bank Syariah Indonesia (BRIS) merespons surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-13244/BEI.PP1/10-2026 tertanggal 19 Oktober 2026. Surat itu menyoroti kenaikan harga saham dan aktivitas transaksi BRIS selama periode 8 sampai 16 Oktober 2026. Dalam balasan yang ditandatangani Wisnu Sunandar, Senior Vice President Corporate Secretary and Communication Group, pada 21 Oktober 2026, manajemen menyatakan telah mengungkapkan seluruh informasi dan fakta material yang mereka ketahui sesuai aturan keterbukaan informasi OJK dan Bursa. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai Peraturan OJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan perubahan saham, selain yang sudah diumumkan ke publik.",
+   "Terkait rencana aksi korporasi dalam tiga bulan mendatang, BRIS menyebut dua agenda. Pertama, penawaran umum berkelanjutan Sukuk Mudharabah Berlandaskan Keberlanjutan I Bank BSI Tahap III Tahun 2026, yang merupakan tahap akhir dari program yang sudah mendapat pernyataan efektif OJK pada 2024, dengan rincian terakhir dipublikasikan lewat Informasi Tambahan Ringkas pada 20 Oktober 2026. Kedua, rencana penambahan modal dengan hak memesan efek terlebih dahulu atau rights issue, yang sudah diumumkan bersamaan dengan pemberitahuan Rapat Umum Pemegang Saham Luar Biasa pada 30 September 2026 dan dilanjutkan dengan panggilan resmi RUPSLB pada 15 Oktober 2026. Pelaksanaan rights issue ini masih menunggu persetujuan pemegang saham dalam RUPSLB yang dijadwalkan pada 6 November 2026. Perseroan menambahkan, di tengah fluktuasi pasar modal saat ini, manajemen secara berkala mengevaluasi sejumlah alternatif strategis untuk menjaga nilai jangka panjang bagi pemegang saham, salah satunya opsi pembelian kembali saham atau buyback, yang keputusannya akan diumumkan terpisah jika benar-benar dilaksanakan.",
+   "Selain dua agenda itu, BRIS menyatakan tidak ada informasi, fakta, atau kejadian penting lain yang material dan berpotensi memengaruhi harga saham maupun kelangsungan usaha perseroan yang belum diungkapkan ke publik. Manajemen juga mengaku tidak mengetahui rencana pemegang saham utama terkait kepemilikan sahamnya di BRIS, namun menegaskan akan terus berkoordinasi dengan pemegang saham utama dan akan memenuhi kewajiban keterbukaan informasi jika ada perkembangan baru."
+  ],
+  "fotoAdegan": "Wide view of Jakarta's financial district skyscrapers along a busy avenue, afternoon light reflecting off glass towers, light traffic below",
+  "takeaway": "Laporan ini netral bagi BRIS, karena tidak ada fakta material baru yang mengubah gambaran fundamental, sementara dua rencana aksi korporasi yang disebut, rights issue dan buyback, justru saling berlawanan arah dan keduanya belum pasti terjadi. Yang tersentuh di sini adalah jumlah saham beredar: rights issue menambah saham baru sehingga laba per saham milik pemegang saham lama bisa tergerus, sementara buyback, kalau benar dilaksanakan, mengurangi saham beredar dan bisa menahan dilusi itu, dengan konsekuensi kas perusahaan terpakai untuk membeli kembali sahamnya sendiri. Yang perlu dipantau adalah RUPSLB BRIS pada 6 November 2026 yang akan menentukan apakah rights issue ini disetujui pemegang saham, sebab rencana buyback sendiri masih sebatas kajian tanpa jadwal atau nilai yang disebutkan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kur-bni-rp500-juta-dorong-usaha-mesin-kopi-siantar",
   "category": "UMKM",
   "title": "KUR BNI [Rp500 Juta] Dorong Usaha Mesin Kopi Siantar",
@@ -224,6 +276,112 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret: realisasi investasi di kawasan ekonomi khusus baru Rp46 triliun dari target setahun Rp69 triliun sampai September, artinya pemerintah masih harus mengejar sekitar sepertiga sisa target itu dalam tiga bulan terakhir tahun ini. Yang kena dampak adalah perusahaan yang sudah beroperasi di 25 KEK tersebut, terutama kawasan industri besar seperti Kendal dan Gresik yang justru disebut masih menunggu proses perizinan perluasan dan pengalihan hak atas tanah selesai. Pemerintah baru membentuk Aliansi BUPP KEK, semacam perkumpulan perusahaan pengelola kawasan, untuk mempercepat penyelesaian hambatan semacam itu, yang menunjukkan arah kebijakannya ke penguatan koordinasi antar-pengelola kawasan ketimbang sekadar menambah kawasan baru. Yang akan menentukan apakah langkah ini berhasil mengejar target adalah angka realisasi investasi KEK pada laporan triwulan IV 2026, dan apakah revisi Peraturan Menteri Kesehatan soal fasilitas KEK Sanur yang dijanjikan benar-benar terbit.",
   "fotoGagal": 2
+ },
+ {
+  "slug": "iiff-terbitkan-obligasi-rp1-7-triliun-kupon-tertinggi-7-6-persen",
+  "category": "Aksi Korporasi",
+  "title": "IIFF [terbitkan] obligasi Rp1,7 triliun, kupon tertinggi 7,6 persen",
+  "deck": "IIFF menawarkan obligasi tahap II senilai Rp1,7 triliun berperingkat AAA, bagian dari program penawaran umum berkelanjutan senilai Rp6 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T18:25:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4abdfc5614_d92f556fbd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IIFF",
+  "tags": [
+   "IIFF",
+   "obligasi",
+   "pasar modal",
+   "infrastruktur"
+  ],
+  "body": [
+   "PT Indonesia Infrastructure Finance (IIFF) resmi menawarkan Obligasi Berkelanjutan III Tahap II Tahun 2026 senilai Rp1,7 triliun, bagian dari program penawaran umum berkelanjutan bertarget total Rp6 triliun. Pada tahap pertama, IIFF sudah menerbitkan obligasi senilai Rp432,585 miliar. Obligasi tahap II ini terbagi tiga seri: Seri A senilai Rp1,18 triliun dengan bunga tetap 7,20 persen per tahun dan jangka waktu 370 hari kalender, Seri B senilai Rp157,105 miliar dengan bunga 7,40 persen dan tenor 3 tahun, serta Seri C senilai Rp361,93 miliar dengan bunga 7,60 persen dan tenor 5 tahun.",
+   "Fitch Ratings Indonesia memberi peringkat AAA(idn), peringkat tertinggi, untuk obligasi ini. Obligasi tidak memiliki jaminan khusus, melainkan dijamin oleh seluruh harta kekayaan perusahaan secara umum, dengan posisi pari passu alias setara tanpa hak keutamaan dibanding kreditur lain. Obligasi direncanakan tercatat di Bursa Efek Indonesia pada 11 November 2026, setelah masa penawaran awal berlangsung 6-15 Oktober 2026, penawaran umum pada 4-5 November 2026, dan penjatahan pada 6 November 2026. Dana dari pemesan yang tidak terserap akan dikembalikan pada 10 November 2026, tanggal yang sama dengan distribusi obligasi secara elektronik.",
+   "Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 10 Februari 2027. Seri A jatuh tempo dan dilunasi sekaligus pada 20 November 2027, Seri B pada 10 November 2029, dan Seri C pada 10 November 2031. Dalam perjanjian dengan wali amanat PT Bank CIMB Niaga Tbk, IIFF wajib menjaga current ratio alias rasio aset lancar terhadap utang lancar tidak kurang dari 100 persen, serta gearing ratio alias rasio total utang terhadap modal maksimum 10 kali. Penjaminan emisi obligasi ini dilakukan oleh delapan perusahaan sekuritas: PT BNI Sekuritas, PT Aldiracita Sekuritas Indonesia, PT BCA Sekuritas, PT DBS Vickers Sekuritas Indonesia, PT Indo Premier Sekuritas, PT Mandiri Sekuritas, PT Maybank Sekuritas Indonesia, dan PT Mega Capital Sekuritas."
+  ],
+  "fotoAdegan": "Workers and cranes building a concrete highway overpass at a construction site, heavy machinery, daylight",
+  "takeaway": "Laporan ini netral bagi fundamental IIFF, karena menerbitkan obligasi memang cara rutin perusahaan pembiayaan infrastruktur mendanai bisnisnya, bukan sinyal kondisi khusus baik atau buruk, apalagi lembaga pemeringkat memberi status tertinggi AAA untuk surat utang ini. Yang tersentuh adalah sisi utang dan beban bunga IIFF: tambahan utang Rp1,7 triliun ini masuk hitungan gearing ratio, yakni perbandingan total utang perusahaan dengan modalnya, yang menurut perjanjian wajib dijaga di bawah 10 kali. Beban bunga tahunan dari tiga seri obligasi ini, mulai 7,2 persen hingga 7,6 persen per tahun, juga akan membebani laporan laba rugi IIFF setiap tiga bulan ke depan. Yang perlu dipantau selanjutnya adalah hasil penjatahan pada 6 November 2026 dan pencatatan di Bursa Efek Indonesia pada 11 November 2026, karena di situ baru terlihat berapa dari target Rp1,7 triliun yang benar-benar terserap pasar, disusul pembayaran bunga pertama pada 10 Februari 2027 sebagai uji awal kelancaran pembayaran IIFF.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "oasa-koreksi-dana-right-issue-rp400-m-dialihkan",
+  "category": "Aksi Korporasi",
+  "title": "OASA Koreksi Dana Right Issue, Rp400 M [Dialihkan]",
+  "deck": "OASA koreksi laporan realisasi dana rights issue 2022: Rp400,5 miliar yang semula untuk proyek IKN, Semarang, dan Telesys Indonesia dialihkan ke modal kerja grup.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T18:06:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/802d50fff7_fd1e388814.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OASA",
+  "tags": [
+   "OASA",
+   "rights issue",
+   "penggunaan dana",
+   "energi terbarukan"
+  ],
+  "body": [
+   "PT Maharaksa Biru Energi Tbk (OASA) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil penawaran umum terbatas (rights issue) tahun 2022, menggantikan laporan sebelumnya tertanggal 21 Juli 2026. Dari total dana right issue Rp598,86 miliar dikurangi biaya penawaran umum Rp23,79 miliar, dana bersih yang tersedia Rp575,08 miliar, dan menurut laporan per 30 Juni 2026 seluruh dana itu sudah terpakai tanpa sisa.",
+   "Sebagian penggunaan dana berjalan sesuai rencana di prospektus: akuisisi 99,995 persen saham PT Indoplas Makmur Lestari senilai Rp89 miliar (15,48 persen dari dana), pembelian satu unit kantor strata di Rasuna Epicentrum, Jakarta senilai Rp9 miliar (1,57 persen), dan modal kerja perseroan induk untuk gaji karyawan serta sewa kantor senilai Rp7,58 miliar (1,32 persen).",
+   "Namun porsi terbesar berubah dari rencana awal. Dana Rp69 miliar (12 persen) yang semula untuk menambah setoran modal ke PT Indoplas Makmur Lestari malah dipakai sebagai modal kerja grup. Dana Rp340,5 miliar (59,21 persen), yang di prospektus ditujukan untuk menambah setoran modal ke PT Telesys Indonesia, direalisasikan untuk modal kerja grup dan pengembangan proyek pembangkit listrik energi terbarukan, termasuk pembangkit listrik tenaga biomassa, di Indonesia Barat, Tengah, dan Timur melalui PT Bhakti Cahaya Intiperkasa. Dana Rp40 miliar (6,96 persen) yang semula untuk proyek pengadaan peralatan dan manajemen sistem di Ibu Kota Nusantara dialihkan untuk pre-ops FPSA DKI Jakarta, belanja modal, dan modal kerja grup. Dana Rp20 miliar (3,48 persen) yang semula untuk proyek pengelolaan sampah menjadi energi listrik di Semarang dialihkan untuk belanja modal dan modal kerja grup. Total dana yang berpindah peruntukan dari rencana awal mencapai Rp400,5 miliar.",
+   "Dari sisi biaya penawaran umum, total biaya tercatat Rp23,79 miliar atau 3,97 persen dari dana yang dihimpun, terdiri dari biaya jasa penjaminan emisi Rp19,94 miliar (3,33 persen), biaya jasa profesi penunjang pasar modal Rp3,21 miliar (0,54 persen), biaya jasa lembaga penunjang pasar modal Rp597,84 juta (0,1 persen), dan biaya lain-lain Rp36,53 juta (0,01 persen)."
+  ],
+  "fotoAdegan": "Workers inspecting small-scale biomass power plant equipment at a rural Indonesian industrial site, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham karena dua proyek yang dijanjikan secara spesifik dalam prospektus, yaitu proyek pengadaan peralatan di IKN senilai Rp40 miliar dan proyek pengolahan sampah jadi listrik di Semarang senilai Rp20 miliar, tidak terealisasi seperti rencana dan dananya berpindah jadi belanja modal serta modal kerja yang sifatnya umum, begitu juga dengan dana Rp340,5 miliar yang semula untuk menambah modal ke anak usaha Telesys Indonesia. Totalnya sekitar Rp400,5 miliar, atau hampir 70 persen dari dana bersih hasil rights issue ini, berpindah peruntukan dari rencana awal. Pos yang tersentuh adalah arus kas perusahaan, yaitu catatan uang masuk dan keluar dari kegiatan usaha, karena dana yang tadinya untuk proyek dan penyertaan modal dengan sasaran jelas kini tercatat sebagai belanja operasional umum yang hasilnya lebih sulit diukur investor. Yang perlu dipantau berikutnya adalah laporan realisasi dana periode selanjutnya per akhir Desember 2026, serta penjelasan lanjutan soal kelanjutan proyek pembangkit listrik energi terbarukan lewat PT Bhakti Cahaya Intiperkasa dan nasib proyek IKN serta Semarang yang batal memakai dana rights issue ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nine-jawab-bursa-rugi-membesar-rights-issue-dilusi-53",
+  "category": "Aksi Korporasi",
+  "title": "NINE Jawab Bursa: [Rugi] Membesar, Rights Issue Dilusi 53%",
+  "deck": "Techno9 Indonesia menjawab permintaan penjelasan BEI soal rencana rights issue hingga 2,44 miliar saham baru, di tengah rugi yang membesar dan dilusi maksimal 53,11 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T18:04:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3b97d1c85b_adf54dac94.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NINE",
+  "tags": [
+   "NINE",
+   "rights issue",
+   "dilusi saham",
+   "going concern"
+  ],
+  "body": [
+   "PT Techno9 Indonesia Tbk (NINE) menjawab surat Bursa Efek Indonesia nomor S-13203/BEI.PP2/10-2026 tanggal 19 Oktober 2026 yang meminta penjelasan atas rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I atau rights issue). Dalam jawaban tertanggal 21 Oktober 2026, perusahaan mengungkap bahwa pendapatan 2025 turun menjadi Rp2,35 miliar dari Rp9,02 miliar pada 2024, sementara rugi bersih justru naik menjadi Rp9,95 miliar sehingga akumulasi rugi mencapai Rp20,36 miliar. Auditor memberikan penekanan khusus atas kelangsungan usaha perseroan. Sejak September 2025, Poh Holding Pte Ltd menjadi pemegang saham pengendali dengan kepemilikan 35,85 persen.",
+   "Rights issue ini berpotensi menerbitkan maksimal 2.443.000.000 saham baru, setara seluruh saham dalam portepel, dengan rasio maksimal sekitar 2.157 saham lama berbanding 2.443 HMETD atau kira-kira 1 banding 1,13. Harga pelaksanaan dan rasio final belum ditetapkan dan akan diumumkan dalam Prospektus, dengan batas bawah harga sebesar nilai nominal Rp10 per saham. Perseroan belum menunjuk pembeli siaga, dan Poh Holding Pte Ltd hanya menyatakan akan \"mempertimbangkan\" melaksanakan haknya, bukan komitmen pasti. Jika seluruh pemegang saham melaksanakan hak mereka, kepemilikan Poh Holding dan Djoni (komisaris/pemegang saham utama) tetap di 35,85 persen dan 5,10 persen. Namun dalam skenario hanya keduanya yang melaksanakan hak sementara publik tidak, porsi Poh Holding naik menjadi 52,23 persen dan Djoni menjadi 7,43 persen, sedangkan porsi publik turun dari 58,98 persen menjadi 40,29 persen, atau bahkan ke 27,66 persen dalam skenario terburuk di mana sisa saham diambil oleh pengendali atau pembeli siaga. Dilusi maksimal dari seluruh rencana ini mencapai sekitar 53,11 persen.",
+   "Dana hasil rights issue, setelah dikurangi biaya emisi, akan dialokasikan sekitar 25 persen untuk pelunasan utang segera setelah dana diterima, dan sekitar 75 persen untuk modal kerja yang akan digunakan bertahap paling lambat 12 bulan setelah dana diterima. Rincian kreditur yang akan dilunasi, suku bunga, dan jatuh tempo baru akan diungkap dalam Prospektus. Perseroan juga masih menyelesaikan audit laporan keuangan periode 30 Juni 2026 oleh KAP Irfan Waluyo & Rekan, dengan target penyampaian ke OJK dan BEI paling lambat minggu pertama November 2026.",
+   "Perseroan juga mengungkap bahwa pada 29 Desember 2025 telah menandatangani perjanjian opsi untuk mengakuisisi aset tambang di Mongolia milik Poh Golden Ger Resources Pte Ltd, pihak terafiliasi dari pemegang saham pengendali, dengan nilai indikatif US$150 juta. Nilai final akuisisi akan ditentukan dari rata-rata penilaian dua penilai independen, dan jika dilanjutkan akan mengikuti ketentuan transaksi material serta transaksi afiliasi, termasuk persetujuan RUPS. Di luar itu dan rencana penerbitan surat utang di masa depan, perseroan menyatakan tidak ada aksi korporasi lain dalam 12 bulan setelah rights issue."
+  ],
+  "fotoAdegan": "Modern office towers in Jakarta's financial district at dusk, traffic flowing on a wide avenue below, long exposure",
+  "takeaway": "Laporan ini condong negatif bagi Techno9, karena jawabannya menegaskan kondisi keuangan yang rapuh, rugi yang justru membesar saat pendapatan susut, auditor memberi peringatan soal kelangsungan usaha, dan dana segar yang terkumpul mayoritas untuk menambal modal kerja bukan ekspansi, sementara pengendali baru sekadar \"mempertimbangkan\" ikut rights issue tanpa ada pembeli siaga yang mengamankan sisa saham. Yang tersentuh adalah ekuitas dan jumlah saham beredar: suntikan modal bisa menambah ekuitas dari basis yang masih kecil, Rp25,64 miliar, tapi jumlah saham beredar bisa melonjak hingga dua kali lipat sehingga laba per saham, yaitu porsi laba atau rugi perusahaan yang jatuh ke setiap lembar saham, makin terdilusi karena perusahaan masih merugi. Rencana akuisisi aset tambang di Mongolia senilai indikatif US$150 juta dari pihak terafiliasi pengendali menambah lapisan risiko karena berpotensi menjadi transaksi afiliasi yang butuh pengawasan ekstra dari pemegang saham. Yang perlu dipantau berikutnya adalah penyampaian laporan keuangan auditan periode 30 Juni 2026 yang ditargetkan paling lambat minggu pertama November 2026, serta terbitnya Prospektus PMHMETD I yang akan mengungkap harga pelaksanaan final, rasio pasti, dan apakah pembeli siaga sudah ditunjuk.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bcap-pefindo-afirmasi-rating-idbbb-untuk-obligasi-mnc-kapital",
+  "category": "Aksi Korporasi",
+  "title": "BCAP: Pefindo Afirmasi Rating [idBBB+] untuk Obligasi MNC Kapital",
+  "deck": "Pefindo menegaskan peringkat idBBB+ berprospek stabil untuk MNC Kapital Indonesia dan delapan seri obligasinya, berlaku sampai 1 Maret 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T17:48:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/53e6e8e4d3_b22d2439f2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BCAP",
+  "tags": [
+   "BCAP",
+   "Pefindo",
+   "Obligasi Korporasi",
+   "Rating Kredit"
+  ],
+  "body": [
+   "MNC Kapital Indonesia Tbk (BCAP) menyampaikan laporan pemeringkatan tahunan kepada Otoritas Jasa Keuangan pada 21 Oktober 2026, berisi empat sertifikat dari lembaga pemeringkat PEFINDO yang seluruhnya terbit pada 25 Maret 2026. Surat itu ditandatangani Direktur Utama Mashudi Hamka dan Direktur Aan Setiawandi, ditujukan kepada Kepala Eksekutif Pengawas Pasar Modal OJK Hasan Fawzi. Keempat sertifikat menegaskan peringkat idBBB+ dengan prospek stabil, baik untuk perseroan maupun untuk obligasi-obligasinya, berdasarkan laporan keuangan audit per 31 Desember 2025 dan berlaku untuk periode 25 Maret 2026 sampai 1 Maret 2027.",
+   "Untuk Obligasi Berkelanjutan VI, PEFINDO memberi peringkat idBBB+ atas program dengan pagu maksimum Rp1,5 triliun yang bisa diterbitkan bertahap selama dua tahun sejak pernyataan pendaftaran efektif. Dari pagu itu, baru dua seri yang tercatat terbit, yaitu Tahap I 2026 Seri A senilai Rp70 miliar jatuh tempo 9 Juli 2029 dan Seri B senilai Rp30 miliar jatuh tempo 9 Juli 2031. Obligasi Berkelanjutan V mendapat peringkat yang sama untuk pagu Rp555 miliar yang masa penerbitannya berjalan sejak 30 Desember 2024 sampai 30 Desember 2026, dengan empat seri yang sudah terbit: Tahap I 2024 Seri B Rp144,085 miliar (jatuh tempo 10 Januari 2028), Seri C Rp102,94 miliar (10 Januari 2030), Tahap II 2025 Seri B Rp39,4 miliar (12 Juni 2028), dan Seri C Rp12,1 miliar (12 Juni 2030).",
+   "Satu sertifikat lagi mencakup delapan seri obligasi lama sekaligus, dengan total nilai Rp481,805 miliar, juga diberi peringkat idBBB+ untuk periode yang sama. Rinciannya adalah Obligasi Berkelanjutan III Tahap I 2022 Seri C senilai Rp58,15 miliar jatuh tempo 10 Januari 2028, Obligasi Berkelanjutan IV Tahap I 2023 Seri B senilai Rp24,375 miliar jatuh tempo 19 Januari 2027, Tahap II 2024 Seri B Rp98,14 miliar (2 Juli 2027) dan Seri C Rp2,615 miliar (2 Juli 2029), ditambah empat seri Obligasi Berkelanjutan V yang sudah disebut di atas. Perseroan mencatat dalam laporannya bahwa satu jenis efek, yakni Obligasi Berkelanjutan IV Tahap I 2023 Seri B, tercatat dengan nama ganda di tabel resmi karena sistem pelaporan IDXNet gagal menyimpan input yang benar meski sudah beberapa kali diperbaiki. Sertifikat keempat memberikan peringkat perusahaan (issuer rating) idBBB+ dengan outlook stabil untuk PT MNC Kapital Indonesia Tbk secara umum, terlepas dari obligasi spesifik mana pun."
+  ],
+  "fotoAdegan": "Wide street view of glass office towers in Jakarta's financial district, pedestrians and cars passing, soft morning light",
+  "takeaway": "Laporan ini netral bagi BCAP karena isinya afirmasi, bukan perubahan: peringkat idBBB+ dan outlook stabil yang sama dipertahankan untuk seluruh obligasi maupun untuk perusahaan secara umum. Rating utang seperti ini menyentuh pos kemampuan bayar bunga dan arus kas perseroan, sebab lembaga pemeringkat menilai apakah perusahaan sanggup membayar bunga dan pokok utangnya tepat waktu, bukan menilai saham atau labanya langsung. Peringkat yang stabil biasanya membuat biaya bunga saat menerbitkan obligasi baru tidak berubah signifikan, karena investor menganggap risiko gagal bayar belum bergeser. Yang perlu dipantau selanjutnya adalah realisasi penerbitan sisa pagu Obligasi Berkelanjutan VI, yang baru terpakai Rp100 miliar dari total Rp1,5 triliun, serta evaluasi ulang peringkat saat periode ini berakhir pada 1 Maret 2027.",
+  "sentimen": "netral"
  },
  {
   "slug": "lpgi-sebut-opsi-pelepasan-saham-oleh-pemegang-saham-utama",
@@ -748,6 +906,58 @@ var ARTICLES = [
   "fotoAdegan": "Modern Jakarta office tower lobby with marble floors and glass elevators, business people walking through, daytime light",
   "takeaway": "Perubahan ini netral bagi fundamental Haloni Jane, sebab yang berganti cuma satu kursi komisaris, bukan direksi yang menjalankan operasional harian, jadi tidak langsung mengubah strategi atau nilai bisnis perusahaan. Pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, dan laba per saham sama sekali tidak tersentuh oleh pergantian pengurus semacam ini, karena yang berubah murni soal siapa yang mengawasi direksi, bukan soal uang yang masuk atau keluar perusahaan. Yang bisa dipantau selanjutnya adalah apakah susunan komisaris baru ini bertahan hingga akhir periode jabatan 2025-2027, dan apakah posisi Komisaris Independen tetap dipegang Doktorandus I Dewa Gde Suthapa sepanjang periode tersebut, karena keberadaan komisaris independen jadi salah satu syarat tata kelola yang dipantau otoritas bursa.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "wika-gagal-bayar-sukuk-rupsu-tak-capai-keputusan",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Gagal Bayar] Sukuk, RUPSU Tak Capai Keputusan",
+  "deck": "Rapat pemegang sukuk WIKA soal gagal bayar bagi hasil dan pokok sukuk gagal capai kuorum keputusan, mayoritas suara menolak usulan penyelesaian dari emiten.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T13:10:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c41112efd1_00cbab5abc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk menggelar Rapat Umum Pemegang Sukuk (RUPSU) atas Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap I Tahun 2021 pada Senin, 19 Oktober 2026, pukul 14.30 hingga 15.16 WIB di WIKA Tower 2, Jakarta Timur. Agenda rapat adalah penjelasan WIKA selaku emiten terkait kelalaian membayar pendapatan bagi hasil ke-20 untuk Sukuk Seri B dan Seri C, serta kelalaian membayar kembali dana sukuk Seri B, lengkap dengan usulan penyelesaian dari perseroan atas dua kewajiban yang tidak dipenuhi itu.",
+   "Sukuk yang masih beredar dan belum dibayar kembali bernilai total Rp424,5 miliar. Dari jumlah itu, pemegang sukuk yang hadir atau diwakili kuasanya mewakili Rp396,5 miliar atau 93,40 persen, sehingga syarat kuorum kehadiran terpenuhi dan rapat sah digelar. Namun dalam pemungutan suara tertulis, hanya Rp114,5 miliar atau 28,878 persen suara yang setuju atas usulan penyelesaian yang diajukan WIKA, sementara Rp282 miliar atau 71,122 persen suara menolak, tanpa ada suara abstain. Karena perjanjian perwaliamanatan mensyaratkan persetujuan minimal 75 persen dari suara yang hadir, hasil ini tidak memenuhi kuorum keputusan sehingga RUPSU tidak menghasilkan keputusan apa pun atas usulan WIKA.",
+   "Rapat dihadiri oleh PT Bank Mega Tbk selaku wali amanat, serta WIKA yang diwakili oleh Mulyadi selaku Direktur Keuangan dan Aji Bramantyojati yang mewakili PT Perusahaan Pengelola Aset (Persero) sebagai konsultan yang diberi kuasa oleh direksi emiten. Notaris Humberg Lie, S.H., S.E., M.Kn. turut hadir untuk membuat berita acara rapat. Dokumen menyebutkan tidak ada pemegang sukuk yang mengajukan pertanyaan atau pendapat selama sesi tanya jawab berlangsung."
+  ],
+  "fotoAdegan": "Idle construction cranes beside an unfinished high-rise building at dusk, scaffolding visible, site quiet and empty",
+  "takeaway": "Ini jelas sinyal negatif: WIKA tercatat gagal membayar bagi hasil ke-20 sukuknya dan gagal melunasi pokok Seri B, lalu usulan penyelesaiannya pun ditolak mayoritas pemegang sukuk sehingga masalah ini belum tuntas. Yang tersentuh adalah arus kas perseroan, yaitu kemampuan WIKA menyediakan uang tunai untuk membayar kewajiban jatuh tempo, karena gagal bayar berarti kas yang tersedia tidak cukup saat kewajiban itu harus dibayar. Ini juga menyangkut beban utang di buku perusahaan, sebab selama pokok sukuk Seri B belum dibayar, utang itu tetap tercatat sebagai kewajiban yang menggantung dan berpotensi memicu klausul gagal bayar di instrumen utang lain. Yang perlu dipantau selanjutnya adalah langkah WIKA berikutnya, apakah akan mengajukan usulan penyelesaian baru atau menggelar RUPSU susulan, karena dokumen ini tidak menyebutkan tenggat atau jadwal rapat lanjutan setelah kuorum keputusan 75 persen gagal tercapai pada 19 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "coin-jawab-bursa-10-dari-31-pakd-tak-lagi-terdaftar-sama",
+  "category": "Aksi Korporasi",
+  "title": "COIN Jawab Bursa, 10 dari 31 [PAKD] Tak Lagi Terdaftar Sama",
+  "deck": "COIN menjawab permintaan Bursa soal pedagang aset kripto yang pindah ke pesaing, dan membuka tabel 31 anggota: 21 tetap, 2 ditolak OJK, 1 dicabut, 7 tak lagi tercantum.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T11:53:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b671f502f2_fbd4771fd7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "COIN",
+  "tags": [
+   "COIN",
+   "PAKD",
+   "CFX",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Indokripto Koin Semesta Tbk (COIN), operator bursa aset kripto CFX, menyampaikan tanggapan lanjutan kepada Bursa Efek Indonesia (BEI) atas Surat No. S-13227/BEI.PP3/10-2026 tertanggal 19 Oktober 2026. Surat itu meminta COIN melengkapi tabel perbandingan Pedagang Aset Keuangan Digital (PAKD), sebutan untuk perusahaan pialang kripto yang menjadi anggota bursa CFX, antara masa evaluasi penawaran umum dan kondisi pada tanggal permintaan penjelasan ini dibuat.",
+   "Dari 31 PAKD yang tercatat saat proses evaluasi IPO, seperti PINTU, Pluang, Ajaib, Triv, Bitwewe, Reku, Bybit Indonesia, Indodax, OneCrypto, BTSE ID, MAKS, Naga Exchange, Bittime, Astal, Cyra, COINX, Stockbit Crypto, Coinvest, GudangKripto, Digitalexchange.id, dan Luno, 21 di antaranya masih berstatus sama hingga saat ini. Dua PAKD lain, Fasset dan Bursa Kripto Indonesia (BKI), disebut mengalami penolakan perizinan usaha oleh OJK, sementara satu PAKD, Bitbromo, dicabut status keanggotaannya karena belum mengurus izin operasional dari OJK. Tujuh PAKD lainnya, yaitu Tokocrypto, Nanovest, Samuel Kripto, OSL Indonesia, Upbit, Floq, dan Mobee, muncul dengan kolom status kosong pada tanggal permintaan penjelasan ini, tanpa keterangan lebih lanjut dari Perseroan mengenai status mereka saat ini.",
+   "Menjawab pertanyaan Bursa tentang upaya menahan PAKD agar tidak berpindah ke bursa kompetitor seperti International Crypto Exchange (ICEx), COIN memaparkan empat langkah: penguatan dukungan operasional dan forum Komite Bursa bagi anggota, peningkatan tata kelola serta sistem rekonsiliasi real-time dan pemantauan pasar, diversifikasi produk termasuk pasar derivatif kripto yang mencatat volume transaksi Rp64 triliun dengan lebih dari 100.000 nasabah sepanjang 2025, dan program keterlibatan anggota seperti Members Hub, Members Cup, serta edukasi lewat CFX Connect. Surat tanggapan ini ditandatangani Sekretaris Perusahaan Indira Indah Prameshwari pada 21 Oktober 2026, menyusul tanggapan sebelumnya yang disampaikan Perseroan pada 30 September 2026."
+  ],
+  "fotoAdegan": "Technicians monitoring blinking server racks inside a dim data center that powers a digital asset trading platform.",
+  "takeaway": "Laporan ini condong negatif bagi COIN, karena tabel yang disusun Perseroan sendiri memperlihatkan sepertiga dari anggota pialang kripto yang dipakai sebagai basis saat evaluasi penawaran umum kini sudah tidak berstatus sama, dan tujuh di antaranya bahkan tidak dijelaskan nasibnya sama sekali. Yang tersentuh di sini adalah basis pendapatan transaksi CFX, sebab bursa aset kripto ini mengandalkan iuran dan komisi dari PAKD yang bertransaksi di platformnya, jadi makin sedikit anggota aktif berarti makin kecil potensi arus kas yang masuk dari biaya transaksi, meski Perseroan juga melaporkan volume derivatif kripto Rp64 triliun sepanjang 2025 yang menunjukkan sisi bisnis lain masih berjalan. Yang perlu dipantau berikutnya adalah apakah Bursa menerima penjelasan ini atau kembali meminta klarifikasi lanjutan, mengingat surat ini sendiri sudah merupakan jawaban atas permintaan susulan setelah tanggapan pertama pada 30 September 2026, serta apakah keterbukaan COIN berikutnya memberi rincian lebih jelas soal status tujuh PAKD yang kolom datanya kosong.",
+  "sentimen": "negatif"
  },
  {
   "slug": "asdm-jawab-bei-soal-volatilitas-saham-klaim-tak-ada-info-baru",

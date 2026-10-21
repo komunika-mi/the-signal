@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sanf-bagikan-dividen-interim-rp15-52-miliar-rp27-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "SANF bagikan [dividen] interim Rp15,52 miliar, Rp27 per saham",
+  "deck": "Surya Artha Nusantara Finance (SANF) resmi membagikan dividen interim senilai Rp15,52 miliar atau Rp27 per saham, dibayarkan 23 Oktober 2026.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SANF",
+   "dividen interim",
+   "ASTRA Financial",
+   "perusahaan pembiayaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93171911c7_0f01ef762e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kkp-transaksi-ikan-di-65-kampung-nelayan-tembus-rp18-77-miliar",
   "category": "UMKM",
   "title": "KKP: Transaksi Ikan di 65 Kampung Nelayan Tembus [Rp18,77 Miliar]",
@@ -91,6 +107,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "bris-jawab-bursa-soal-lonjakan-saham-buka-opsi-buyback",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Jawab Bursa soal Lonjakan Saham, Buka Opsi [Buyback]",
+  "deck": "BRIS menjawab permintaan penjelasan Bursa Efek Indonesia atas lonjakan harga dan transaksi sahamnya pada 8-16 Oktober 2026, sambil mengungkap opsi buyback saham sedang dikaji.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIS",
+   "Bank Syariah Indonesia",
+   "RUPSLB",
+   "buyback"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/adf108a070_d81c266f32.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kur-bni-rp500-juta-dorong-usaha-mesin-kopi-siantar",
   "category": "UMKM",
   "title": "KUR BNI [Rp500 Juta] Dorong Usaha Mesin Kopi Siantar",
@@ -138,6 +170,70 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7171/kek-jadi-motor-investasi-nasional-pemerintah-dorong-penguatan-daya-saing-dan-kolaborasi-antar-kek",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "iiff-terbitkan-obligasi-rp1-7-triliun-kupon-tertinggi-7-6-persen",
+  "category": "Aksi Korporasi",
+  "title": "IIFF [terbitkan] obligasi Rp1,7 triliun, kupon tertinggi 7,6 persen",
+  "deck": "IIFF menawarkan obligasi tahap II senilai Rp1,7 triliun berperingkat AAA, bagian dari program penawaran umum berkelanjutan senilai Rp6 triliun.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IIFF",
+   "obligasi",
+   "pasar modal",
+   "infrastruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4abdfc5614_d92f556fbd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oasa-koreksi-dana-right-issue-rp400-m-dialihkan",
+  "category": "Aksi Korporasi",
+  "title": "OASA Koreksi Dana Right Issue, Rp400 M [Dialihkan]",
+  "deck": "OASA koreksi laporan realisasi dana rights issue 2022: Rp400,5 miliar yang semula untuk proyek IKN, Semarang, dan Telesys Indonesia dialihkan ke modal kerja grup.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OASA",
+   "rights issue",
+   "penggunaan dana",
+   "energi terbarukan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/802d50fff7_fd1e388814.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nine-jawab-bursa-rugi-membesar-rights-issue-dilusi-53",
+  "category": "Aksi Korporasi",
+  "title": "NINE Jawab Bursa: [Rugi] Membesar, Rights Issue Dilusi 53%",
+  "deck": "Techno9 Indonesia menjawab permintaan penjelasan BEI soal rencana rights issue hingga 2,44 miliar saham baru, di tengah rugi yang membesar dan dilusi maksimal 53,11 persen.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NINE",
+   "rights issue",
+   "dilusi saham",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3b97d1c85b_adf54dac94.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bcap-pefindo-afirmasi-rating-idbbb-untuk-obligasi-mnc-kapital",
+  "category": "Aksi Korporasi",
+  "title": "BCAP: Pefindo Afirmasi Rating [idBBB+] untuk Obligasi MNC Kapital",
+  "deck": "Pefindo menegaskan peringkat idBBB+ berprospek stabil untuk MNC Kapital Indonesia dan delapan seri obligasinya, berlaku sampai 1 Maret 2027.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BCAP",
+   "Pefindo",
+   "Obligasi Korporasi",
+   "Rating Kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/53e6e8e4d3_b22d2439f2.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "lpgi-sebut-opsi-pelepasan-saham-oleh-pemegang-saham-utama",
@@ -455,6 +551,38 @@ var ARTICLES = [
    "tata kelola"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/df8e516f86_e76e7b40b2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-gagal-bayar-sukuk-rupsu-tak-capai-keputusan",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Gagal Bayar] Sukuk, RUPSU Tak Capai Keputusan",
+  "deck": "Rapat pemegang sukuk WIKA soal gagal bayar bagi hasil dan pokok sukuk gagal capai kuorum keputusan, mayoritas suara menolak usulan penyelesaian dari emiten.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c41112efd1_00cbab5abc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "coin-jawab-bursa-10-dari-31-pakd-tak-lagi-terdaftar-sama",
+  "category": "Aksi Korporasi",
+  "title": "COIN Jawab Bursa, 10 dari 31 [PAKD] Tak Lagi Terdaftar Sama",
+  "deck": "COIN menjawab permintaan Bursa soal pedagang aset kripto yang pindah ke pesaing, dan membuka tabel 31 anggota: 21 tetap, 2 ditolak OJK, 1 dicabut, 7 tak lagi tercantum.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "COIN",
+   "PAKD",
+   "CFX",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b671f502f2_fbd4771fd7.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6389,133 +6517,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/lelang-aset-hulu-migas-phr-di-siak-laku-rp1101-miliar-tambah-penerimaan-negara",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "ri-terbitkan-aturan-antidumping-baru-tutup-celah-penghindaran",
-  "category": "Industri",
-  "title": "RI Terbitkan Aturan [Antidumping] Baru, Tutup Celah Penghindaran",
-  "deck": "PP Nomor 39 Tahun 2026 mengatur ulang tindakan pengamanan, antidumping, dan imbalan, serta untuk pertama kalinya melarang praktik penghindaran lewat rute kirim atau negara asal palsu.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
-  "tags": [
-   "antidumping",
-   "PP 39/2026",
-   "perdagangan",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pp-nomor-39-tahun-2026-tonggak-baru-perlindungan-industri-dalam-negeri",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "edge-suntik-modal-rp485-miliar-ke-tiga-anak-usaha-digital",
-  "category": "Aksi Korporasi",
-  "title": "EDGE Suntik [Modal] Rp485 Miliar ke Tiga Anak Usaha Digital",
-  "deck": "PT Indointernet (EDGE) menyuntik modal Rp485 miliar ke tiga anak usaha digitalnya untuk belanja modal, transaksi afiliasi yang dikecualikan dari persetujuan RUPS.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "Transaksi Afiliasi",
-   "Indointernet",
-   "Transaksi Material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/83bf387811_1a7348f841.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mhki-dana-ipo-rp39-5-miliar-masih-mengendap-di-bank-mandiri",
-  "category": "Aksi Korporasi",
-  "title": "MHKI: Dana IPO Rp39,5 Miliar Masih [Mengendap] di Bank Mandiri",
-  "deck": "Realisasi dana IPO MHKI per 30 Juni 2026 baru mencapai 65,86 persen dari dana bersih Rp115,54 miliar, sisanya Rp39,46 miliar masih berupa deposito di Bank Mandiri.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MHKI",
-   "Multi Hanna Kreasindo",
-   "penggunaan dana IPO",
-   "laporan keterbukaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c5402a4133_542c8ab320.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smle-jawab-permintaan-bursa-akui-rugi-semester-i-karena-transisi",
-  "category": "Aksi Korporasi",
-  "title": "SMLE Jawab Permintaan Bursa, Akui [Rugi] Semester I Karena Transisi",
-  "deck": "SMLE menjelaskan ke BEI bahwa penurunan pendapatan dan rugi bersih semester I merupakan strategi transisi, sementara divestasi 50% saham Sinarom ke Denico masih berlanjut.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMLE",
-   "Sinar Aroma Sentosa",
-   "Denico Food Ingredients",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b375c363c2_92d001f1ba.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdln-jawab-bursa-soal-restrukturisasi-notes-rp5-2-t",
-  "category": "Aksi Korporasi",
-  "title": "MDLN Jawab Bursa soal [Restrukturisasi] Notes Rp5,2 T",
-  "deck": "MDLN menjelaskan ke BEI dasar hukum pengecualian RUPS dan penilai independen atas restrukturisasi Notes senilai Rp5,2 triliun yang melibatkan pengalihan tanah ke anak usaha baru.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLN",
-   "restrukturisasi utang",
-   "keterbukaan informasi",
-   "POJK 17/2020"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7c85c323bb_10c4526d92.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "maha-pastikan-karhutla-kalimantan-tak-ganggu-operasional",
-  "category": "Aksi Korporasi",
-  "title": "MAHA Pastikan Karhutla Kalimantan Tak Ganggu [Operasional]",
-  "deck": "MAHA menjawab permintaan penjelasan BEI soal kebakaran hutan dan lahan di wilayah tambang kliennya, menyatakan tidak ada dampak material terhadap produksi maupun keuangan 2026.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAHA",
-   "karhutla",
-   "coal hauling",
-   "Kalimantan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf396456f9_be2352af6f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kras-gabungkan-anak-usaha-ksi-dan-kit",
-  "category": "Aksi Korporasi",
-  "title": "KRAS [Gabungkan] Anak Usaha KSI dan KIT",
-  "deck": "Krakatau Steel menggabungkan anak usahanya, KSI dan KIT, lewat akta notaris 12 Oktober 2026, transaksi afiliasi yang dikecualikan dari prosedur khusus OJK.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KRAS",
-   "Krakatau Steel",
-   "transaksi afiliasi",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8e4d15bc6b_5e834dde7a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-jelaskan-rights-issue-ke-bei-dilusi-capai-95-24",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Jelaskan Rights Issue ke BEI, Dilusi Capai [95,24%]",
-  "deck": "DOOH menjawab permintaan penjelasan BEI atas rencana rights issue hingga 154,78 miliar saham baru dengan dilusi maksimum 95,24 persen.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "rights issue",
-   "PMHMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c96877bc88_25d50133a6.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-21T01:41:33.035+07:00",
+ "diperbarui": "2026-10-22T01:53:34.061+07:00",
  "entri": [
+  {
+   "id": "2026-10-21-3",
+   "edisi": "2026-10-21",
+   "benang": "Data capaian ekonomi serentak jelang evaluasi dua tahun",
+   "klaim": "Realisasi investasi di 25 kawasan ekonomi khusus baru diragukan bisa mengejar sisa sekitar Rp23 triliun dari target setahun Rp69 triliun dalam tiga bulan terakhir tahun ini.",
+   "penanda": "Realisasi investasi di kawasan ekonomi khusus (KEK) hingga akhir tahun",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "tiga bulan terakhir tahun ini",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-21-2",
+   "edisi": "2026-10-21",
+   "benang": "Pasar menguat, buyback marak, MSCI jadi sorotan",
+   "klaim": "Penguatan IHSG dan rupiah sudah cukup konsisten dan akan diuji oleh hasil peninjauan status pasar RI oleh MSCI yang memicu volatilitas saham-saham besar.",
+   "penanda": "Hasil peninjauan status pasar Indonesia oleh MSCI",
+   "tenggat": null,
+   "tenggatLabel": "peninjauan status pasar RI oleh MSCI",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-21-1",
+   "edisi": "2026-10-21",
+   "benang": "Dilusi emiten kecil melebar, bukan lagi sekadar tren",
+   "klaim": "Restrukturisasi modal di emiten kecil berlangsung dengan ongkos dilusi yang makin besar bagi pemegang saham lama.",
+   "penanda": "Hasil RUPSLB PPGL dan RUPSLB LAPD",
+   "tenggat": "2026-10-29",
+   "tenggatLabel": "RUPSLB PPGL pada 23 Oktober dan LAPD pada 29 Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-20-3",
    "edisi": "2026-10-20",
@@ -91,8 +124,13 @@ var RAPOR = {
    "penanda": "Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 20 Oktober 2026 yang memerlukan persetujuan pemegang saham independen, serta harga penawaran tender sukarela yang belum diumumkan dalam dokumen ini dan akan menentukan nilai yang…",
    "tenggat": "2026-10-20",
    "tenggatLabel": "20 Oktober 2026",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "aadi-trinugraha-thohir-tambah-saham-102-600-lembar",
+    "judul": "AADI: Trinugraha Thohir tambah saham 102.600 lembar",
+    "tanggal": "20 Oktober 2026",
+    "alasan": "Artikel tanggal 20 Oktober 2026 melaporkan transaksi penambahan saham AADI oleh Trinugraha Thohir melalui mekanisme pelaporan saham emiten tercatat, yang berarti AADI masih aktif diperdagangkan di bursa dan belum tuntas delisting seperti diklaim."
+   }
   },
   {
    "id": "arah-gagal-bayar-emiten-2026-10-20",
@@ -426,8 +464,13 @@ var RAPOR = {
    "penanda": "Hasil RUPSU dan RUPO WIKA, yaitu apakah pemegang sukuk dan obligasi menyetujui restrukturisasi atau menolak",
    "tenggat": "2026-10-21",
    "tenggatLabel": "RUPSU dan RUPO WIKA pada 19 sampai 21 Oktober",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "wika-gagal-bayar-sukuk-rupsu-tak-capai-keputusan",
+    "judul": "WIKA Gagal Bayar Sukuk, RUPSU Tak Capai Keputusan",
+    "tanggal": "21 Oktober 2026",
+    "alasan": "Artikel ini menunjukkan RUPSU WIKA tidak mencapai keputusan karena usulan penyelesaian ditolak mayoritas pemegang sukuk, bukan disetujui, sehingga menandakan penolakan bukan restrukturisasi yang berhasil disepakati."
+   }
   },
   {
    "id": "2026-10-05-3",
@@ -765,8 +808,13 @@ var RAPOR = {
    "penanda": "Hasil rapat-rapat pemegang utang WIKA (RUPSU Sukuk Mudharabah Tahap I 2021 dan RUPO Obligasi Berkelanjutan II Tahap I 2021 pada 19 Oktober, RUPO Obligasi Berkelanjutan II Tahap II 2022 pada 20 Oktober, serta RUPSU Sukuk Mudharabah Tahap I 2022 pada 21 Oktober)",
    "tenggat": "2026-10-21",
    "tenggatLabel": "19 sampai 21 Oktober",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "wika-gagal-bayar-sukuk-rupsu-tak-capai-keputusan",
+    "judul": "WIKA Gagal Bayar Sukuk, RUPSU Tak Capai Keputusan",
+    "tanggal": "21 Oktober 2026",
+    "alasan": "Artikel 21 Oktober menunjukkan RUPSU Sukuk Mudharabah WIKA justru gagal bayar dan usulan penyelesaiannya ditolak mayoritas pemegang sukuk sehingga tak capai keputusan, bukan mengikuti pola mulus restrukturisasi perpanjangan tenor dan pemotongan kupon seperti Waskita."
+   }
   },
   {
    "id": "2026-09-21-1",
@@ -776,8 +824,13 @@ var RAPOR = {
    "penanda": "Hasil resmi Rapat Dewan Gubernur BI pekan ini",
    "tenggat": "2026-09-27",
    "tenggatLabel": "pekan ini",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "bi-tahan-suku-bunga-5-75-perkuat-insentif-jaga-rupiah",
+    "judul": "BI Tahan Suku Bunga 5,75%, Perkuat Insentif Jaga Rupiah",
+    "tanggal": "21 Oktober 2026",
+    "alasan": "Artikel ini melaporkan BI resmi menahan suku bunga acuan di 5,75% sambil memperkuat insentif untuk menjaga rupiah, sesuai arah yang diklaim."
+   }
   },
   {
    "id": "2026-09-18-3",

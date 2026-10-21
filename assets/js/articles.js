@@ -55,6 +55,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "harga-emas-antam-turun-lagi-ke-rp2-554-000-per-gram",
+  "category": "Moneter",
+  "title": "Harga Emas Antam [Turun] Lagi ke Rp2.554.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp10.000 menjadi Rp2.554.000 per gram pada 21 Oktober 2026, sementara harga jual kembalinya Rp2.369.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-lagi-ke-rp2-554-000-per-gram.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T09:40:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474164-harga-emas-antam-hari-ini-21-oktober-2026-turun-lagi-jadi-rp2554000-per-gram-perhatikan-tren-jangka-panjang-bagi-yang-mau-beli",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "Antam",
+   "investasi emas"
+  ],
+  "body": [
+   "Harga emas batangan produksi PT Aneka Tambang (Antam) kembali melemah pada Selasa, 21 Oktober 2026. Berdasarkan data laman Logam Mulia, harga emas batangan turun Rp10.000 per gram menjadi Rp2.554.000 per gram, dari harga sebelumnya Rp2.564.000 per gram. Pergerakan ini perlu diperhatikan oleh masyarakat yang berencana membeli atau menjual emas, sebab harga emas batangan Antam bisa berubah setiap hari.",
+   "Sementara itu, harga jual kembali emas Antam, yaitu harga yang dibayar Antam jika pemilik emas ingin menjualnya kembali, tercatat Rp2.369.000 per gram. Artinya, ada selisih sekitar Rp185.000 per gram antara harga beli dan harga jual kembali hari ini. Selisih ini praktis menjadi biaya tersembunyi bagi siapa pun yang membeli lalu langsung menjualnya kembali dalam waktu singkat.",
+   "Dalam situasi harga turun seperti ini, pembeli disarankan tidak hanya melihat pergerakan harian, tetapi juga mencermati arah harga emas dalam jangka yang lebih panjang. Dengan melihat pola pergerakan harga selama beberapa waktu, pembeli dapat menilai apakah harga saat ini tergolong rendah atau masih berpotensi turun lebih jauh sebelum memutuskan membeli."
+  ],
+  "fotoAdegan": "A gold shop employee weighing small gold bullion bars on a scale inside a traditional jewelry market, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkret hari ini adalah harga emas Antam turun Rp10.000 menjadi Rp2.554.000 per gram, dengan harga jual kembali di Rp2.369.000 per gram, sehingga selisih kedua harga itu mencapai Rp185.000 per gram. Yang langsung terdampak adalah masyarakat yang membeli emas batangan untuk investasi harian maupun yang berencana menjualnya kembali ke Antam, karena selisih harga itu berarti mereka baru untung jika harga emas naik lebih dari Rp185.000 per gram dari harga belinya. Data hari ini hanya mencerminkan pergerakan satu hari dan belum cukup untuk menyimpulkan apakah ini awal tren turun atau sekadar koreksi sesaat, karena tidak ada informasi soal harga emas dunia atau kurs dolar yang biasanya ikut memengaruhi harga emas Antam. Yang perlu dipantau adalah pergerakan harga emas Antam dalam beberapa hari ke depan, untuk melihat apakah penurunan ini berlanjut atau justru berbalik naik.",
+  "imageV": "mvhnm2ba"
+ },
+ {
   "slug": "idea-jadwalkan-ulang-rupslb-ke-12-november-2026",
   "category": "Aksi Korporasi",
   "title": "IDEA Jadwalkan Ulang [RUPSLB] ke 12 November 2026",

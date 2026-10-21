@@ -37,6 +37,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "harga-emas-antam-turun-lagi-ke-rp2-554-000-per-gram",
+  "category": "Moneter",
+  "title": "Harga Emas Antam [Turun] Lagi ke Rp2.554.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp10.000 menjadi Rp2.554.000 per gram pada 21 Oktober 2026, sementara harga jual kembalinya Rp2.369.000 per gram.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-turun-lagi-ke-rp2-554-000-per-gram.jpg",
+  "imageV": "mvhnm2ba",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "Antam",
+   "investasi emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474164-harga-emas-antam-hari-ini-21-oktober-2026-turun-lagi-jadi-rp2554000-per-gram-perhatikan-tren-jangka-panjang-bagi-yang-mau-beli"
+ },
+ {
   "slug": "idea-jadwalkan-ulang-rupslb-ke-12-november-2026",
   "category": "Aksi Korporasi",
   "title": "IDEA Jadwalkan Ulang [RUPSLB] ke 12 November 2026",
@@ -6510,21 +6527,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472826-dari-sandal-lidi-sawit-hingga-batik-produk-turunan-perkebunan-mitra-bpdp-unjuk-gigi-di-inacraft-2026"
- },
- {
-  "slug": "mine-panggil-rupslb-jaminkan-aset-untuk-pinjaman-sindikasi",
-  "category": "Aksi Korporasi",
-  "title": "MINE Panggil RUPSLB, [Jaminkan] Aset untuk Pinjaman Sindikasi",
-  "deck": "Sinar Terang Mandiri (MINE) mengundang pemegang saham ke RUPSLB 4 November 2026 untuk menyetujui pergantian direksi, penyesuaian KBLI, dan penjaminan aset untuk pembiayaan sindikasi.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MINE",
-   "RUPSLB",
-   "Sinar Terang Mandiri",
-   "penjaminan aset"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d31716357_f5ad176a90.pdf",
-  "sourceLabel": "IDX"
  }
 ];

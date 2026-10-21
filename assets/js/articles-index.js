@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "asdm-jawab-bei-soal-volatilitas-saham-klaim-tak-ada-info-baru",
+  "category": "Aksi Korporasi",
+  "title": "ASDM Jawab BEI soal [Volatilitas] Saham, Klaim Tak Ada Info Baru",
+  "deck": "Menjawab permintaan BEI, Asuransi Dayin Mitra (ASDM) menyatakan tak ada fakta material baru di balik pergerakan harga sahamnya, dan pemegang saham utama belum berencana mengubah kepemilikannya.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASDM",
+   "Asuransi Dayin Mitra",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/17f8afc3f8_5a47e8fb40.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ppgl-panggil-rupslb-bahas-saham-bonus-dan-rombak-direksi",
   "category": "Aksi Korporasi",
   "title": "PPGL Panggil RUPSLB, Bahas [Saham Bonus] dan Rombak Direksi",
@@ -6510,22 +6526,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/472832-perkuat-solusi-digital-dan-pemberdayaan-pesisir-pertamina-trans-kontinental-borong-trofi-marketeers-editors-choice-award-2026"
- },
- {
-  "slug": "bpdp-pamerkan-produk-turunan-sawit-di-inacraft-2026",
-  "category": "UMKM",
-  "title": "BPDP Pamerkan Produk Turunan Sawit di [INACRAFT] 2026",
-  "deck": "BPDP dan mitra UMKM binaannya memamerkan produk turunan sawit, kelapa, dan kakao seperti sandal lidi sawit hingga batik di INACRAFT October 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/bpdp-pamerkan-produk-turunan-sawit-di-inacraft-2026.jpg",
-  "imageV": "mv704vkx",
-  "tags": [
-   "bpdp",
-   "inacraft",
-   "umkm",
-   "perkebunan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472826-dari-sandal-lidi-sawit-hingga-batik-produk-turunan-perkebunan-mitra-bpdp-unjuk-gigi-di-inacraft-2026"
  }
 ];

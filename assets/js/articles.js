@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "asdm-jawab-bei-soal-volatilitas-saham-klaim-tak-ada-info-baru",
+  "category": "Aksi Korporasi",
+  "title": "ASDM Jawab BEI soal [Volatilitas] Saham, Klaim Tak Ada Info Baru",
+  "deck": "Menjawab permintaan BEI, Asuransi Dayin Mitra (ASDM) menyatakan tak ada fakta material baru di balik pergerakan harga sahamnya, dan pemegang saham utama belum berencana mengubah kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T11:48:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/17f8afc3f8_5a47e8fb40.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASDM",
+  "tags": [
+   "ASDM",
+   "Asuransi Dayin Mitra",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Asuransi Dayin Mitra Tbk (ASDM) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-13241/BEI.PP2/10-2026 tertanggal 19 Oktober 2026 terkait volatilitas transaksi efek perseroan. Dalam surat balasan bernomor B.090/CS/X/2026 tertanggal 20 Oktober 2026 yang disampaikan lewat sistem pelaporan elektronik oleh Efran Sinaga selaku Manager, perusahaan menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat mempengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi material maupun Peraturan Nomor I-E Bursa Efek Indonesia.",
+   "Perusahaan juga menjawab sejumlah poin konfirmasi standar dari BEI. ASDM menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta belum memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang dapat berdampak pada pencatatan sahamnya di bursa. Perseroan juga menyebut tidak ada informasi, fakta, atau kejadian penting lain yang material dan belum diungkapkan ke publik.",
+   "Poin terakhir menyangkut pemegang saham utama. Perusahaan menyatakan telah menanyakan langsung kepada pemegang saham utama, dan sampai surat tanggapan ini disampaikan, pemegang saham utama belum memiliki rencana melakukan tindakan apa pun yang dapat mengubah kepemilikan sahamnya di ASDM. Dokumen tersebut ditandatangani oleh Corporate Secretary Purnama Hadiwidjaja."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's financial district reflecting late afternoon light, blurred street traffic below, wide angle view",
+  "takeaway": "Laporan ini netral bagi fundamental ASDM, sebab isinya hanya konfirmasi rutin bahwa tidak ada fakta material baru, bukan kabar soal kinerja keuangan atau aksi korporasi yang mengubah nilai perusahaan. Surat semacam ini lahir dari prosedur yang disebut permintaan penjelasan atas volatilitas transaksi, yakni ketika BEI melihat harga atau volume perdagangan saham suatu emiten bergerak di luar kebiasaan dan ingin memastikan tidak ada informasi tersembunyi yang mendorongnya; jawaban ASDM tidak menyentuh pos kinerja seperti laba, ekuitas, atau jumlah saham beredar, tapi tetap berguna karena menyingkirkan kemungkinan ada peristiwa besar yang belum terbuka ke publik. Konfirmasi bahwa pemegang saham utama belum berencana mengubah kepemilikannya juga berarti struktur kendali dan hak suara di ASDM untuk saat ini tidak bergeser. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham ASDM masih berlanjut tidak wajar dalam waktu dekat, yang bisa membuat BEI kembali meminta klarifikasi atau mengambil langkah pengawasan tambahan, serta apakah ada tindakan korporasi yang muncul dalam tiga bulan ke depan meskipun perusahaan menyatakan belum ada rencana semacam itu hingga saat ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ppgl-panggil-rupslb-bahas-saham-bonus-dan-rombak-direksi",
   "category": "Aksi Korporasi",
   "title": "PPGL Panggil RUPSLB, Bahas [Saham Bonus] dan Rombak Direksi",

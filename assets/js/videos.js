@@ -2,6 +2,51 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "jyS4W0ymdKw",
+  "title": "Ketua Permindo: Monopoli Pakan Ternak Benar Terjadi",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Ketua Permindo mengungkapkan adanya praktik monopoli di industri pakan ternak yang menekan margin peternak ayam, di tengah harga jual ayam yang terus merosot.",
+  "takeaway": "Menyoroti struktur pasar pakan ternak yang dinilai timpang dan dampaknya terhadap keberlangsungan peternak kecil.",
+  "terbit": "2026-10-21T15:24:11+00:00"
+ },
+ {
+  "id": "cLUvu8frHf0",
+  "title": "HKTI: Dukung Swasembada Jagung, tapi Data Harus Benar",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "HKTI menyatakan dukungan terhadap target swasembada jagung, namun meminta pemerintah memastikan akurasi data produksi agar tidak terjadi manipulasi angka.",
+  "takeaway": "Mengingatkan pentingnya validitas data pertanian sebagai dasar kebijakan pangan yang berdampak pada peternak.",
+  "terbit": "2026-10-21T15:11:22+00:00"
+ },
+ {
+  "id": "mDvxVcHEQrM",
+  "title": "Produksi Jagung Diklaim Naik, tapi Pakan Ayam Tetap Mahal",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Guru besar IPB mempertanyakan klaim kenaikan produksi jagung yang tidak sejalan dengan harga pakan ayam yang masih tinggi di tingkat peternak.",
+  "takeaway": "Memberi perspektif akademis atas ketimpangan antara data produksi jagung dan harga pakan yang membebani peternak.",
+  "terbit": "2026-10-21T14:54:43+00:00"
+ },
+ {
+  "id": "s_0NTizyo2o",
+  "title": "Peternak Ayam Rugi, Pakan Naik 20%, Harga Jual Turun",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Peternak ayam mandiri mengaku merugi karena harga pakan naik hingga 20 persen, sementara harga jual ayam di pasaran justru terus menurun.",
+  "takeaway": "Menggambarkan tekanan ganda yang dihadapi peternak kecil akibat kenaikan biaya produksi dan pelemahan harga jual.",
+  "terbit": "2026-10-21T14:38:55+00:00"
+ },
+ {
+  "id": "7qSuI4yWa7I",
+  "title": "KDMP Sukabumi Kembangkan Usaha Kampung Nelayan",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Program Kampung Nelayan Merah Putih di Sukabumi mengembangkan unit usaha untuk menggerakkan ekonomi masyarakat pesisir melalui koperasi desa.",
+  "takeaway": "Menunjukkan upaya penguatan ekonomi berbasis koperasi desa di sektor perikanan sebagai model pemberdayaan UMKM.",
+  "terbit": "2026-10-21T14:11:44+00:00"
+ },
+ {
   "id": "57FvtZTGDjs",
   "title": "Harga Pakan Ayam Melonjak, Peternak Kian Tertekan",
   "category": "UMKM",

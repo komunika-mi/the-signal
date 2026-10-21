@@ -4,6 +4,46 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "jyS4W0ymdKw",
+  "title": "Ketua Permindo: Monopoli Pakan Ternak Benar Terjadi",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Ketua Permindo mengungkapkan adanya praktik monopoli di industri pakan ternak yang menekan margin peternak ayam, di tengah harga jual ayam yang terus merosot.",
+  "takeaway": "Menyoroti struktur pasar pakan ternak yang dinilai timpang dan dampaknya terhadap keberlangsungan peternak kecil."
+ },
+ {
+  "id": "cLUvu8frHf0",
+  "title": "HKTI: Dukung Swasembada Jagung, tapi Data Harus Benar",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "HKTI menyatakan dukungan terhadap target swasembada jagung, namun meminta pemerintah memastikan akurasi data produksi agar tidak terjadi manipulasi angka.",
+  "takeaway": "Mengingatkan pentingnya validitas data pertanian sebagai dasar kebijakan pangan yang berdampak pada peternak."
+ },
+ {
+  "id": "mDvxVcHEQrM",
+  "title": "Produksi Jagung Diklaim Naik, tapi Pakan Ayam Tetap Mahal",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Guru besar IPB mempertanyakan klaim kenaikan produksi jagung yang tidak sejalan dengan harga pakan ayam yang masih tinggi di tingkat peternak.",
+  "takeaway": "Memberi perspektif akademis atas ketimpangan antara data produksi jagung dan harga pakan yang membebani peternak."
+ },
+ {
+  "id": "s_0NTizyo2o",
+  "title": "Peternak Ayam Rugi, Pakan Naik 20%, Harga Jual Turun",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Peternak ayam mandiri mengaku merugi karena harga pakan naik hingga 20 persen, sementara harga jual ayam di pasaran justru terus menurun.",
+  "takeaway": "Menggambarkan tekanan ganda yang dihadapi peternak kecil akibat kenaikan biaya produksi dan pelemahan harga jual."
+ },
+ {
+  "id": "7qSuI4yWa7I",
+  "title": "KDMP Sukabumi Kembangkan Usaha Kampung Nelayan",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Program Kampung Nelayan Merah Putih di Sukabumi mengembangkan unit usaha untuk menggerakkan ekonomi masyarakat pesisir melalui koperasi desa.",
+  "takeaway": "Menunjukkan upaya penguatan ekonomi berbasis koperasi desa di sektor perikanan sebagai model pemberdayaan UMKM."
+ },
+ {
   "id": "57FvtZTGDjs",
   "title": "Harga Pakan Ayam Melonjak, Peternak Kian Tertekan",
   "category": "UMKM",
@@ -442,45 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Indonesia akan menjadi tuan rumah World Conference on Creative Economy (WCCE) 2026, konferensi ekonomi kreatif internasional dan multilateral terbesar di dunia, yang digelar di Jakarta.",
   "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan posisi sektor ekonomi kreatif Indonesia di kancah global."
- },
- {
-  "id": "nJTjjaL-ubY",
-  "title": "PT Multi Nice Paper Resmikan Pabrik Popok",
-  "category": "Industri",
-  "program": "Kabar Utama",
-  "summary": "PT Multi Medika Internasional Tbk meresmikan pabrik popok baru melalui anak usahanya, PT Multi Nice Paper Indonesia, di Legok, Kabupaten Tangerang, Banten.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena mencerminkan ekspansi investasi di sektor industri manufaktur consumer goods."
- },
- {
-  "id": "kXpk5F6mreY",
-  "title": "Kelangkaan BBM di Sejumlah SPBU di Bali Masih Terjadi",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Kelangkaan BBM di sejumlah SPBU di Bali masih berlangsung hingga Kamis (15/10/2026), membuat warga mengantre sejak malam karena pasokan belum merata.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti gangguan distribusi energi di salah satu daerah dengan aktivitas ekonomi dan wisata tertinggi di Indonesia."
- },
- {
-  "id": "4DVLovM6bkU",
-  "title": "Bahlil Pastikan Stok BBM Nasional Aman 18 Hari ke Depan",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Menko Hilirisasi dan Transisi Energi sekaligus Menteri ESDM Bahlil Lahadalia memastikan stok BBM nasional aman hingga 18 hari ke depan, menyusul rapat dengan Pertamina terkait kelangkaan BBM di Bali.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut ketahanan pasokan energi nasional dan respons pemerintah atas gangguan distribusi BBM di daerah."
- },
- {
-  "id": "UEIro5vrB-s",
-  "title": "Menkop Izinkan Kopdes Merah Putih Kelola Usaha Tambang",
-  "category": "UMKM",
-  "program": "OneNews Update",
-  "summary": "Menteri Koperasi Ferry Juliantono menyatakan Koperasi Desa/Kelurahan Merah Putih kini diperbolehkan menjalankan usaha di sektor pertambangan.",
-  "takeaway": "Kebijakan ini membuka jalan bagi koperasi desa untuk ikut mengelola sumber daya tambang, sebuah sektor yang sebelumnya didominasi perusahaan besar."
- },
- {
-  "id": "uquL-ltqt30",
-  "title": "Asap Karhutla Bikin Malaysia Rugi Rp5,8 Triliun Per Bulan",
-  "category": "Global",
-  "program": "OneNews Update",
-  "summary": "Kabut asap lintas batas yang berkepanjangan diperkirakan menggerus perekonomian Malaysia hingga RM1,5 miliar atau sekitar Rp5,8 triliun per bulan.",
-  "takeaway": "Angka kerugian ini menunjukkan bagaimana krisis kabut asap regional juga membawa beban ekonomi nyata, bukan sekadar masalah lingkungan dan kesehatan."
  }
 ];

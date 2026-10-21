@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pegadaian-ungkap-modus-lowongan-kerja-palsu",
+  "category": "Ketenagakerjaan",
+  "title": "Pegadaian Ungkap Modus Lowongan Kerja [Palsu]",
+  "deck": "Pegadaian mengingatkan pencari kerja mewaspadai surat panggilan wawancara palsu yang meminta pembayaran tiket atau transfer uang.",
+  "image": "assets/img/pegadaian-ungkap-modus-lowongan-kerja-palsu.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T21:59:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474297-jangan-tertipu-lowongan-kerja-palsu-pegadaian-ungkap-6-ciri-rekrutmen-loker-bodong",
+  "tags": [
+   "lowongan kerja palsu",
+   "penipuan rekrutmen",
+   "pegadaian",
+   "tips mencari kerja"
+  ],
+  "body": [
+   "PT Pegadaian mengingatkan masyarakat untuk lebih waspada terhadap lowongan kerja palsu yang mengatasnamakan perusahaan, termasuk yang mencatut nama Pegadaian sendiri. Peringatan ini penting karena pelaku kerap memanfaatkan harapan pencari kerja dengan mengirim surat panggilan wawancara palsu, logo, dan dokumen yang dibuat menyerupai surat resmi perusahaan.",
+   "Direktur Human Capital Pegadaian, Tribuana Tunggadewi, menjelaskan salah satu modus yang paling sering ditemukan adalah surat panggilan wawancara di kantor Pegadaian yang mewajibkan pelamar membeli tiket transportasi atau akomodasi lewat agen perjalanan tertentu, dengan janji biaya itu akan diganti setelah pelamar membayar lebih dulu. Modus lain berupa undangan wawancara daring lewat aplikasi rapat virtual yang kemudian meminta pelamar mentransfer sejumlah uang, dengan dalih itu bagian dari prosedur penerimaan karyawan.",
+   "Tribuana menegaskan bahwa Pegadaian tidak pernah memungut biaya apa pun selama proses seleksi karyawan, tidak pernah bekerja sama dengan agen travel mana pun, dan tidak pernah membebankan biaya akomodasi kepada calon pelamar. Pegadaian menyebut ada enam ciri yang bisa dipakai mengenali rekrutmen palsu, dengan permintaan pembayaran selama proses seleksi sebagai tanda yang paling penting untuk diwaspadai."
+  ],
+  "fotoAdegan": "Young jobseekers waiting in line outside a corporate office building holding folders, early morning in a Jakarta business district",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/21/6ad8d2d01a0b2-jangan-tertipu-lowongan-kerja-palsu-pegadaian-ungkap-6-ciri-rekrutmen-loker-bodong_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan main, melainkan peringatan tertulis dari manajemen Pegadaian setelah modus penipuan rekrutmen memakai nama perusahaan ini makin sering muncul, lewat surat panggilan wawancara palsu yang meminta pelamar membayar tiket atau transfer uang. Yang terdampak jelas pencari kerja yang melamar atau mengaku dihubungi atas nama Pegadaian, karena merekalah yang berisiko kehilangan uang dengan iming-iming penggantian biaya yang tidak pernah cair. Data ini belum menyebut berapa banyak laporan korban yang masuk, berapa kerugian yang sudah terjadi, atau apakah kasus ini sudah dilaporkan ke polisi, sehingga belum bisa dibaca apakah penipuan semacam ini meluas atau baru segelintir kasus. Yang perlu dipantau adalah apakah Pegadaian atau BUMN lain merilis angka laporan pengaduan serupa, serta apakah ada tindak lanjut hukum terhadap pelaku, karena itu yang akan menunjukkan seberapa serius masalah ini sebenarnya.",
+  "imageV": "mvia5v5n"
+ },
+ {
   "slug": "sanf-bagikan-dividen-interim-rp15-52-miliar-rp27-per-saham",
   "category": "Aksi Korporasi",
   "title": "SANF bagikan [dividen] interim Rp15,52 miliar, Rp27 per saham",
@@ -27,6 +53,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of new motorcycles and cars parked inside a vehicle dealership showroom, staff walking between aisles, soft morning light",
   "takeaway": "Laporan ini condong positif bagi SANF, sebab kemampuan membagikan dividen di tengah tahun biasanya menandakan perusahaan punya laba dan kas yang cukup tanpa perlu menunggu tutup tahun buku. Pos yang tersentuh adalah ekuitas dan arus kas, yaitu dividen Rp15,52 miliar itu akan mengurangi kas dan laba ditahan perusahaan begitu dibayarkan, karena uang yang tadinya tersimpan di perusahaan berpindah ke kantong pemegang saham. Pelaku pasar biasanya mencermati pos ini karena penurunan kas bisa mempersempit ruang gerak perusahaan untuk ekspansi atau membayar utang dalam jangka pendek, meski untuk nilai sebesar ini dampaknya kemungkinan terbatas. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada 23 Oktober 2026 serta laporan keuangan kuartal mendatang yang akan memperlihatkan apakah posisi kas dan ekuitas SANF tetap sehat setelah pembayaran ini.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "jasa-marga-pertimbangkan-beli-kembali-saham-jsmr",
+  "category": "Pasar Modal",
+  "title": "Jasa Marga [Pertimbangkan] Beli Kembali Saham JSMR",
+  "deck": "Di tengah gejolak pasar modal, Jasa Marga membuka opsi buyback saham JSMR, namun manajemen menyebut keputusan masih menunggu kajian menyeluruh.",
+  "image": "assets/img/jasa-marga-pertimbangkan-beli-kembali-saham-jsmr.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T20:35:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474282-respons-dinamika-bursa-jasa-marga-pertimbangkan-pembelian-kembali-saham-jsmr",
+  "tags": [
+   "JSMR",
+   "Jasa Marga",
+   "buyback saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Jasa Marga (Persero) Tbk menyatakan tengah mempertimbangkan opsi pembelian kembali saham atau buyback atas saham berkode JSMR, sebagai respons atas gejolak yang belakangan melanda pasar modal nasional. Perusahaan pelat merah pengelola jalan tol ini menegaskan keterbukaannya terhadap berbagai opsi aksi korporasi, dengan buyback menjadi salah satu yang masuk ruang kajian manajemen.",
+   "Corporate Secretary sekaligus Chief Administration Officer Jasa Marga, Trias Andriyanto, mengatakan setiap opsi akan melewati kalkulasi menyeluruh agar sejalan dengan prioritas pertumbuhan bisnis dan prinsip tata kelola perusahaan yang baik. Ia menyebut rencana buyback nantinya juga akan disesuaikan dengan kebutuhan likuiditas, yakni ketersediaan dana tunai perusahaan, serta agenda ekspansi operasional yang sedang berjalan.",
+   "Manajemen menekankan bahwa langkah apa pun harus menjaga struktur keuangan perusahaan tetap kokoh tanpa mengganggu pelayanan jalan tol di lapangan. Jasa Marga juga menyatakan akan mematuhi aturan keterbukaan informasi Bursa Efek Indonesia dan mengumumkan secara resmi begitu ada keputusan konkret terkait rencana buyback tersebut."
+  ],
+  "fotoAdegan": "Wide elevated toll highway with multiple traffic lanes and moving vehicles, toll booths blurred in the distance, late afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/21/6ad8be7f1fb65-ilustrasi-jalan-tol_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru sebatas sinyal keterbukaan, Jasa Marga mengaku membuka opsi buyback saham JSMR, tapi belum ada angka berapa dana yang akan dipakai, berapa banyak saham yang akan dibeli kembali, atau kapan rencana itu diputuskan. Buyback sendiri artinya perusahaan membeli kembali sahamnya sendiri dari pasar, yang biasanya dipakai untuk menahan tekanan harga saat kondisi pasar sedang goyah. Pihak yang paling terdampak kalau rencana ini benar dilaksanakan adalah pemegang saham publik JSMR, karena harga saham bisa mendapat sokongan tambahan, sementara pemerintah selaku pemegang saham mayoritas BUMN ini akan menentukan arah akhir lewat restu korporasi. Yang masih kurang untuk membaca ke mana arah kebijakan ini adalah keputusan resmi manajemen atau RUPS, besaran dana yang dialokasikan, dan jadwal pelaksanaannya, ketiganya yang perlu dipantau pada pengumuman resmi Jasa Marga berikutnya ke BEI.",
+  "imageV": "mvia5vqr"
  },
  {
   "slug": "kkp-transaksi-ikan-di-65-kampung-nelayan-tembus-rp18-77-miliar",
@@ -111,7 +163,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah pelaksanaan tiga program sekaligus: realisasi pelatihan vokasi baru 89.337 orang dari target tahunan 340.000 sampai Agustus 2026, magang tahap dua menyasar 150.000 lulusan dengan anggaran Rp4,14 triliun, dan KUR yang sudah tersalur Rp232,66 triliun ke 3,61 juta pelaku usaha per akhir September. Yang terdampak ada tiga kelompok: lulusan baru dan siswa SMK yang butuh pengalaman kerja pertama, pekerja korban PHK yang jadi sasaran pelatihan ulang, dan pelaku UMKM yang mengandalkan KUR sebagai modal. Yang belum bisa dipastikan dari angka-angka ini adalah apakah target vokasi setahun penuh akan tercapai, sebab realisasi baru sekitar seperempat dari target padahal tahun sudah berjalan dua pertiga, dan pemerintah sendiri menyebut 270.000 dari 340.000 peserta baru akan masuk lewat stimulus ekonomi semester kedua. Yang perlu ditunggu adalah laporan realisasi vokasi dan magang di akhir 2026, karena dari situ baru terlihat apakah dorongan di semester kedua berhasil mengejar target atau justru meleset.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ri-kejar-ratifikasi-ieu-cepa-sebelum-berlaku-2027",
@@ -139,7 +191,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari siaran ini adalah status IEU-CEPA, yang kini masuk tahap finalisasi teknis di Dewan Uni Eropa dengan target ratifikasi semester II 2026 dan mulai berlaku awal 2027, naik satu tahap dari sebelumnya yang masih di tahap perundingan substansi. Pihak yang akan merasakan dampaknya adalah eksportir manufaktur Indonesia yang bergantung pada pasar Uni Eropa, dan pekerja di sektor-sektor itu jika ekspor memang naik seperti diklaim kementerian sebesar US$10,9 miliar. Pola yang terlihat adalah pemerintah mengejar beberapa jalur integrasi ekonomi sekaligus dalam periode yang berdekatan, dari tiga perjanjian dagang, keanggotaan OECD pada 2028, hingga kerja sama digital ASEAN pada 2030, yang mengarah ke strategi membuka banyak pintu pasar secara bersamaan ketimbang fokus menuntaskan satu per satu. Yang akan membuktikan apakah strategi ini berjalan sesuai rencana adalah apakah ratifikasi IEU-CEPA benar tuntas pada semester II 2026 seperti ditargetkan, karena target waktu pada perjanjian dagang semacam ini kerap meleset dari jadwal awal.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "delegasi-bisnis-vanuatu-jajaki-kerja-sama-dagang-di-tei-2026",
@@ -247,7 +299,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari paparan ini adalah program yang sudah berjalan, yaitu penambahan listrik 70 gigawatt, satuan kapasitas pembangkit berskala besar, dalam RUPTL PLN hingga 2034, pelatihan 15.000 insinyur cip oleh Danantara bersama Arm, dan status anggota pendiri WAICO yang pemerintah klaim bisa membuka investasi US$8-12 miliar. Yang terdampak langsung adalah sektor kelistrikan dan pusat data, pekerja yang perlu keterampilan digital baru, perusahaan yang bisa memanfaatkan insentif pajak vokasi, serta UMKM yang didorong terdigitalisasi. Namun target lain seperti 9 juta talenta digital dan kontribusi AI US$360-400 miliar baru berupa proyeksi hingga 2030, sementara aturan main yang mengikat soal keamanan dan akuntabilitas AI yang disebut Airlangga belum dijelaskan bentuknya. Ini bisa mengarah ke dua kemungkinan, pembangunan infrastruktur dan SDM benar-benar jadi fondasi sebelum regulasi AI terbit, atau target-target ini berhenti jadi daftar keinginan tanpa payung hukum yang mengikat. Yang akan menjawabnya adalah apakah aturan AI yang disinggung itu benar diterbitkan dalam waktu dekat, dan apakah realisasi tambahan 70 gigawatt listrik dalam RUPTL berjalan sesuai jadwal.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "investasi-kek-baru-rp46-triliun-kejar-target-rp69-triliun",
@@ -275,7 +327,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret: realisasi investasi di kawasan ekonomi khusus baru Rp46 triliun dari target setahun Rp69 triliun sampai September, artinya pemerintah masih harus mengejar sekitar sepertiga sisa target itu dalam tiga bulan terakhir tahun ini. Yang kena dampak adalah perusahaan yang sudah beroperasi di 25 KEK tersebut, terutama kawasan industri besar seperti Kendal dan Gresik yang justru disebut masih menunggu proses perizinan perluasan dan pengalihan hak atas tanah selesai. Pemerintah baru membentuk Aliansi BUPP KEK, semacam perkumpulan perusahaan pengelola kawasan, untuk mempercepat penyelesaian hambatan semacam itu, yang menunjukkan arah kebijakannya ke penguatan koordinasi antar-pengelola kawasan ketimbang sekadar menambah kawasan baru. Yang akan menentukan apakah langkah ini berhasil mengejar target adalah angka realisasi investasi KEK pada laporan triwulan IV 2026, dan apakah revisi Peraturan Menteri Kesehatan soal fasilitas KEK Sanur yang dijanjikan benar-benar terbit.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "iiff-terbitkan-obligasi-rp1-7-triliun-kupon-tertinggi-7-6-persen",
@@ -562,7 +614,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan suku bunga utama, tapi dua alat lain: bunga simpanan bank di BI naik ke 5 persen, dan insentif bagi investor asing yang memakai kontrak lindung nilai dolar diperbesar, dengan klaim sudah menarik US$9,9 miliar dana asing sejak Juni 2026. Yang kena dampak langsung adalah bank dan investor asing pemegang SRBI dan SBN, sementara masyarakat umum baru terasa dampaknya lewat harga barang impor kalau rupiah terus melemah. Pola ini menunjukkan BI condong memakai alat yang menyasar langsung pasar valuta asing ketimbang menaikkan BI-Rate, kemungkinan karena ingin tetap menjaga penyaluran kredit ke sektor riil tidak terhambat. Arah ini akan lebih jelas dari dua hal: apakah rupiah berhenti melemah menjelang rapat dewan gubernur berikutnya, dan apakah aliran modal masuk ke SRBI dan SBN di sisa kuartal keempat 2026 cukup kuat menutup keluarnya dana dari pasar saham.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "gtra-teken-fasilitas-kredit-rp195-miliar-dari-bank-mandiri",

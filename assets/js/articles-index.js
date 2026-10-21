@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pegadaian-ungkap-modus-lowongan-kerja-palsu",
+  "category": "Ketenagakerjaan",
+  "title": "Pegadaian Ungkap Modus Lowongan Kerja [Palsu]",
+  "deck": "Pegadaian mengingatkan pencari kerja mewaspadai surat panggilan wawancara palsu yang meminta pembayaran tiket atau transfer uang.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/pegadaian-ungkap-modus-lowongan-kerja-palsu.jpg",
+  "imageV": "mvia5v5n",
+  "tags": [
+   "lowongan kerja palsu",
+   "penipuan rekrutmen",
+   "pegadaian",
+   "tips mencari kerja"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474297-jangan-tertipu-lowongan-kerja-palsu-pegadaian-ungkap-6-ciri-rekrutmen-loker-bodong"
+ },
+ {
   "slug": "sanf-bagikan-dividen-interim-rp15-52-miliar-rp27-per-saham",
   "category": "Aksi Korporasi",
   "title": "SANF bagikan [dividen] interim Rp15,52 miliar, Rp27 per saham",
@@ -19,6 +36,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93171911c7_0f01ef762e.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jasa-marga-pertimbangkan-beli-kembali-saham-jsmr",
+  "category": "Pasar Modal",
+  "title": "Jasa Marga [Pertimbangkan] Beli Kembali Saham JSMR",
+  "deck": "Di tengah gejolak pasar modal, Jasa Marga membuka opsi buyback saham JSMR, namun manajemen menyebut keputusan masih menunggu kajian menyeluruh.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/jasa-marga-pertimbangkan-beli-kembali-saham-jsmr.jpg",
+  "imageV": "mvia5vqr",
+  "tags": [
+   "JSMR",
+   "Jasa Marga",
+   "buyback saham",
+   "pasar modal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474282-respons-dinamika-bursa-jasa-marga-pertimbangkan-pembelian-kembali-saham-jsmr"
  },
  {
   "slug": "kkp-transaksi-ikan-di-65-kampung-nelayan-tembus-rp18-77-miliar",
@@ -6483,39 +6517,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7153/pemerintah-perkuat-ekosistem-ekonomi-syariah-untuk-mendorong-pertumbuhan-dan-daya-saing-nasional",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pemerintah-pangkas-bea-masuk-plastik-jadi-0-selama-6-bulan",
-  "category": "Industri",
-  "title": "Pemerintah Pangkas Bea Masuk Plastik Jadi [0%] Selama 6 Bulan",
-  "deck": "Lewat PMK 68/2026, bea masuk bahan baku plastik PE dan PP tertentu dipangkas jadi nol persen selama enam bulan, merespons lonjakan harga di pasar global.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/mesin-tekstil.jpg",
-  "tags": [
-   "bea masuk",
-   "industri plastik",
-   "PMK 68/2026",
-   "polyethylene"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7155/dukung-industri-nasional-kemenko-perekonomian-kawal-implementasi-dan-evaluasi-insentif-bea-masuk-bahan-baku-plastik-0",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "aset-migas-phr-di-siak-terjual-rp11-01-miliar-lampaui-target",
-  "category": "Energi",
-  "title": "Aset Migas PHR di Siak Terjual Rp11,01 Miliar, [Lampaui] Target",
-  "deck": "Lelang aset hulu migas tidak terpakai milik PHR di Minas, Siak, laku Rp11,01 miliar, naik sekitar Rp1,75 miliar dari harga limit. ESDM menjadwalkan lelang serupa di Samarinda pekan depan.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/aset-migas-phr-di-siak-terjual-rp11-01-miliar-lampaui-target.jpg",
-  "imageV": "mv81nn47",
-  "tags": [
-   "Migas",
-   "PHR",
-   "ESDM",
-   "PNBP"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/lelang-aset-hulu-migas-phr-di-siak-laku-rp1101-miliar-tambah-penerimaan-negara",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

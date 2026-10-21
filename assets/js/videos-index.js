@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "57FvtZTGDjs",
+  "title": "Harga Pakan Ayam Melonjak, Peternak Kian Tertekan",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Kenaikan harga pakan terus menggerus margin keuntungan peternak ayam, sementara harga jual ayam di pasaran justru merosot sehingga peternak mandiri semakin sulit bertahan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti tekanan biaya produksi di sektor peternakan yang berdampak pada rantai pasok pangan dan kelangsungan usaha peternak kecil."
+ },
+ {
   "id": "DhbKkZNIbfw",
   "title": "Bansos Beralih ke Transfer Tunai, Tak Lagi Sembako",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Kabut asap lintas batas yang berkepanjangan diperkirakan menggerus perekonomian Malaysia hingga RM1,5 miliar atau sekitar Rp5,8 triliun per bulan.",
   "takeaway": "Angka kerugian ini menunjukkan bagaimana krisis kabut asap regional juga membawa beban ekonomi nyata, bukan sekadar masalah lingkungan dan kesehatan."
- },
- {
-  "id": "-rvld-zq6dc",
-  "title": "Said Iqbal dan Apindo Beda Pandangan soal Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "Indonesia Business Forum",
-  "summary": "Perwakilan buruh dan pengusaha berbeda pandangan membahas UU Pelindungan Ketenagakerjaan yang disahkan DPR pada 6 Oktober 2026 sebagai tindak lanjut putusan Mahkamah Konstitusi.",
-  "takeaway": "Penting diikuti karena aturan ini akan memengaruhi hubungan industrial dan iklim investasi ke depan."
  }
 ];

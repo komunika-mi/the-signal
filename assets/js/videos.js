@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "57FvtZTGDjs",
+  "title": "Harga Pakan Ayam Melonjak, Peternak Kian Tertekan",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Kenaikan harga pakan terus menggerus margin keuntungan peternak ayam, sementara harga jual ayam di pasaran justru merosot sehingga peternak mandiri semakin sulit bertahan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti tekanan biaya produksi di sektor peternakan yang berdampak pada rantai pasok pangan dan kelangsungan usaha peternak kecil.",
+  "terbit": "2026-10-21T11:31:40+00:00"
+ },
+ {
   "id": "DhbKkZNIbfw",
   "title": "Bansos Beralih ke Transfer Tunai, Tak Lagi Sembako",
   "category": "Makroekonomi",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-patok-target-ai-lewat-listrik-dan-sdm-digital",
+  "category": "Teknologi",
+  "title": "Pemerintah Patok Target [AI] lewat Listrik dan SDM Digital",
+  "deck": "Pemerintah merinci empat prioritas kedaulatan AI, dari penambahan listrik 70 gigawatt hingga target 9 juta talenta digital pada 2030.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/server-data.jpg",
+  "tags": [
+   "kecerdasan buatan",
+   "transformasi digital",
+   "energi",
+   "talenta digital"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7169/tegaskan-empat-prioritas-strategis-pemerintah-bersiap-wujudkan-kedaulatan-ai-dan-transformasi-digital",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "investasi-kek-baru-rp46-triliun-kejar-target-rp69-triliun",
+  "category": "Makroekonomi",
+  "title": "Investasi KEK Baru [Rp46] Triliun, Kejar Target Rp69 Triliun",
+  "deck": "Realisasi investasi di 25 kawasan ekonomi khusus capai Rp46 triliun hingga September 2026, baru dua pertiga dari target Rp69 triliun tahun ini.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "KEK",
+   "Investasi",
+   "Pariwisata",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7171/kek-jadi-motor-investasi-nasional-pemerintah-dorong-penguatan-daya-saing-dan-kolaborasi-antar-kek",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "lpgi-sebut-opsi-pelepasan-saham-oleh-pemegang-saham-utama",
   "category": "Aksi Korporasi",
   "title": "LPGI Sebut Opsi [Pelepasan] Saham oleh Pemegang Saham Utama",
@@ -4615,7 +4647,7 @@ var ARTICLES = [
   "title": "RI Bahas Ancaman Komputasi [Kuantum] ke Keamanan Data Digital",
   "deck": "Pemerintah dan BSSN membahas kesiapan Indonesia menghadapi risiko komputasi kuantum terhadap keamanan data digital, di tengah pertumbuhan ekonomi digital yang pesat.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/server-data.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "tags": [
    "komputasi kuantum",
    "keamanan siber",
@@ -6480,40 +6512,6 @@ var ARTICLES = [
    "Wilmar Cahaya Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2513fadcf0_2214270e73.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bi-luncurkan-tiga-program-keuangan-syariah-di-isef-2026",
-  "category": "Moneter",
-  "title": "BI Luncurkan Tiga Program Keuangan [Syariah] di ISEF 2026",
-  "deck": "Bank Indonesia membuka ISEF 2026 dan meluncurkan tiga program baru: pedoman pasar uang syariah, indeks tata kelola zakat, dan beasiswa internasional untuk ekosistem keuangan syariah.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/bi-luncurkan-tiga-program-keuangan-syariah-di-isef-2026.jpg",
-  "imageV": "mv7swo7d",
-  "tags": [
-   "ISEF 2026",
-   "Bank Indonesia",
-   "ekonomi syariah",
-   "keuangan syariah"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2821826.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "ibst-suspensi-dibuka-sementara-untuk-crossing-saham-go-private",
-  "category": "Aksi Korporasi",
-  "title": "IBST: Suspensi Dibuka Sementara untuk [Crossing] Saham Go Private",
-  "deck": "Bursa membuka sementara suspensi saham IBST di pasar negosiasi untuk transaksi crossing pengalihan saham hasil buyback, bagian dari proses go private dan delisting sukarela perseroan.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IBST",
-   "go private",
-   "voluntary delisting",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7cff5e0805_90020cebb8.pdf",
   "sourceLabel": "IDX"
  }
 ];

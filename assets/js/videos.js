@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "d5-NqfD10nA",
+  "title": "Gubes FHUI: Koperasi Jangan Sampai Mematikan Badan Usaha Lain",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Guru besar Fakultas Hukum Universitas Indonesia mengingatkan bahwa keberadaan koperasi tidak boleh sampai mematikan badan usaha lain, dalam konteks evaluasi dua tahun pemerintahan Presiden Prabowo Subianto.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut arah kebijakan koperasi dan dampaknya terhadap iklim usaha serta pelaku UMKM.",
+  "terbit": "2026-10-21T19:00:02+00:00"
+ },
+ {
   "id": "4ACwZYoDxu0",
   "title": "Koperasi Desa Merah Putih Gerakkan Ekonomi Pesisir",
   "category": "UMKM",

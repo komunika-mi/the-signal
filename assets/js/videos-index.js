@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "d5-NqfD10nA",
+  "title": "Gubes FHUI: Koperasi Jangan Sampai Mematikan Badan Usaha Lain",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Guru besar Fakultas Hukum Universitas Indonesia mengingatkan bahwa keberadaan koperasi tidak boleh sampai mematikan badan usaha lain, dalam konteks evaluasi dua tahun pemerintahan Presiden Prabowo Subianto.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut arah kebijakan koperasi dan dampaknya terhadap iklim usaha serta pelaku UMKM."
+ },
+ {
   "id": "4ACwZYoDxu0",
   "title": "Koperasi Desa Merah Putih Gerakkan Ekonomi Pesisir",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "China mengembangkan teknologi pengolahan sampah menjadi energi listrik atau waste-to-energy untuk menekan volume sampah sekaligus menambah pasokan listrik.",
   "takeaway": "Inovasi ini jadi referensi bagi pembaca yang mengikuti perkembangan industri energi alternatif global."
- },
- {
-  "id": "ZHUFtyJrWJY",
-  "title": "Garis Batas: Melindungi Pekerja, Menjaga Dunia Usaha",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Siang",
-  "summary": "DPR RI menyoroti penguatan perlindungan tenaga kerja di tengah perkembangan ekonomi digital, mencakup hak pekerja formal, informal, hingga ojol dan kurir.",
-  "takeaway": "Pembahasan regulasi ini relevan bagi pembaca yang memantau dampak ekonomi digital terhadap dunia kerja."
  }
 ];

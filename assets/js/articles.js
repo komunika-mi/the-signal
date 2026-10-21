@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ppgl-batalkan-pmthmetd-piutang-pemegang-saham-rp21-6-m",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Batalkan [PMTHMETD], Piutang Pemegang Saham Rp21,6 M",
+  "deck": "Menjawab permintaan penjelasan Bursa, PPGL membatalkan agenda penambahan modal PMTHMETD dalam RUPSLB dan mengungkap piutang Rp21,62 miliar dari pemegang saham mayoritas atas divestasi JAYA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T23:21:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a37abebeff_0e18207c25.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "RUPSLB",
+   "PMTHMETD",
+   "divestasi JAYA"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) menyampaikan tanggapan resmi atas permintaan penjelasan Bursa Efek Indonesia No. S-13204/BEI.PP2/10-2026 tanggal 19 Oktober 2026. Perseroan mengakui divestasi anak usaha JAYA membuat total aset turun 87,9 persen, pendapatan turun 54,5 persen, dan laba tahun berjalan turun 53,8 persen per 30 Juni 2026. Sebagai gantinya, perseroan mengandalkan pertumbuhan organik lewat penguatan usaha inti serta rencana akuisisi PT Natadana Solusi Pratama (jasa fidusia online) dan PT Wani Piro Rek (food and beverage online) yang ditargetkan tuntas tahun ini, namun keduanya masih dalam tahap negosiasi dan belum ada kesepakatan mengikat.",
+   "Dari sisi keuangan, perseroan memiliki piutang Rp21,62 miliar kepada pemegang saham mayoritas, setara 43,47 persen dari total aset, yang berasal dari transaksi penjualan saham JAYA dan belum dilunasi per 30 Juni 2026. Berdasarkan perjanjian, pemegang saham wajib melunasi dalam tahun buku 2026 ini, dengan bunga 0,6 persen per bulan atas saldo yang belum dibayar sejak 1 Juli 2026, dan sumber pelunasan berasal dari dana pribadi yang dijamin tanah dan bangunan milik pribadi pemegang saham tersebut. Secara terpisah, perseroan juga memiliki utang factoring Rp8,92 miliar kepada PT Bank Hibank Indonesia (dahulu Bank Mayora) yang jatuh tempo Oktober dan Desember 2026, dilunasi langsung oleh Grup Mayora selaku pelanggan atas piutang yang dianjakpiutangkan, dan selama ini selalu dibayar tepat waktu.",
+   "Perseroan juga mengonfirmasi telah membatalkan agenda penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) melalui koreksi pemanggilan RUPSLB tanggal 21 Oktober 2026. Terkait penjualan saham Komisaris Utama Jap Astrid Patricia hingga kepemilikannya menjadi nihil, perseroan menyatakan itu murni keputusan investasi pribadi yang tidak berkaitan dengan divestasi JAYA, saham bonus, maupun PMTHMETD, dengan pembeli yang diatur melalui arranger PT NH Korindo Sekuritas Indonesia dan tidak berafiliasi dengan pengendali, direksi, atau komisaris. Pengendali dan pemilik manfaat akhir perseroan dipastikan tetap Darmawan Suryadi SM selaku Direktur Utama.",
+   "Perseroan juga mengakui adanya salah saji dalam laporan arus kas, di mana penerimaan pelepasan JAYA sebesar Rp44,60 miliar ternyata bukan seluruhnya uang tunai, melainkan terdiri dari set-off nonkas Rp23,13 miliar dan piutang pemegang saham Rp21,48 miliar, dan berjanji akan membetulkan penyajiannya. Untuk rencana saham bonus, perseroan mengonfirmasi mengkapitalisasi agio saham Rp11,31 miliar menjadi 514.118.680 lembar saham baru dengan nilai nominal Rp22 per saham sesuai rasio 6 berbanding 4, sementara sisa agio Rp1,90 miliar belum ada rencana penggunaannya."
+  ],
+  "fotoAdegan": "Fleet of logistics trucks parked in a warehouse yard at a Jakarta industrial park, workers checking cargo near loading docks, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental PPGL, karena anjloknya aset, pendapatan, dan laba setelah divestasi JAYA belum punya pengganti yang pasti, sedangkan dua rencana akuisisi penambal kinerja masih sebatas negosiasi tanpa kesepakatan mengikat. Yang paling tersentuh adalah posisi kas perseroan: piutang Rp21,62 miliar ke pemegang saham mayoritas setara 43 persen dari total aset, artinya sebagian besar kekayaan perusahaan bukan uang tunai yang siap dipakai, melainkan tagihan yang masih menunggu dibayar. Laporan arus kas, yakni catatan yang menunjukkan ke mana uang tunai sungguhan mengalir, juga diakui salah saji karena sebagian dari dana hasil pelepasan JAYA ternyata cuma saling hapus utang-piutang di atas kertas, bukan uang masuk. Rencana saham bonus 514 juta lembar dari kapitalisasi agio juga akan menambah jumlah saham beredar sehingga laba per saham otomatis mengecil, meski nilai kekayaan tiap pemegang saham tidak berkurang karena dibagikan proporsional. Yang perlu dipantau berikutnya adalah pelunasan piutang pemegang saham yang dijanjikan tuntas sebelum akhir tahun buku 2026, serta RUPSLB yang agendanya sudah dikoreksi pada 21 Oktober 2026 untuk membatalkan PMTHMETD dan mengesahkan saham bonus.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ppgl-pastikan-rasio-saham-bonus-6-4-rupslb-23-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Pastikan Rasio [Saham Bonus] 6:4, RUPSLB 23 Oktober",
+  "deck": "Koreksi keterbukaan informasi PPGL memastikan pembagian saham bonus rasio 6:4 dari kapitalisasi agio saham, menunggu persetujuan RUPSLB 23 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T22:04:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1acefc2dfd_a07c90872b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "saham bonus",
+   "RUPSLB",
+   "freight forwarding"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) menerbitkan koreksi atas keterbukaan informasi tanggal 16 September 2026 terkait rencana pembagian saham bonus. Perseroan akan mengusulkan kapitalisasi sebagian tambahan modal disetor atau agio saham senilai maksimal Rp11,31 miliar dari total agio Rp13,21 miliar yang tercatat per 31 Desember 2025. Dari jumlah itu, akan diterbitkan saham bonus baru sebanyak-banyaknya 514.118.680 lembar dengan nilai nominal Rp22 per saham, sehingga total saham beredar PPGL bisa naik dari 771.178.020 lembar menjadi maksimal 1.285.296.700 lembar. Rasio pembagiannya 6:4, artinya setiap pemegang 6 saham lama akan menerima 4 saham bonus, dengan saham pecahan dibulatkan ke bawah.",
+   "Pemegang saham yang berhak atas saham bonus adalah mereka yang tercatat dalam daftar pemegang saham pada 4 November 2026. Saham PPGL diperdagangkan dengan hak atas bonus (cum bonus) hingga 2 November 2026 di pasar reguler dan negosiasi, serta hingga 4 November 2026 di pasar tunai. Setelah itu saham diperdagangkan tanpa hak bonus (ex bonus) mulai 3 November 2026 di pasar reguler dan negosiasi, serta 5 November 2026 di pasar tunai. Pendistribusian saham bonus ke rekening efek pemegang saham dijadwalkan pada 25 November 2026, dan perseroan wajib melaporkan realisasinya ke OJK paling lambat 9 Desember 2026. Seluruh rencana ini baru berlaku jika disetujui dalam RUPSLB yang digelar 23 Oktober 2026, dan batal otomatis jika RUPSLB menolaknya.",
+   "Berdasarkan daftar pemegang saham per 30 September 2026, Direktur Utama Darmawan Suryadi SM menguasai 409.637.667 saham atau 53,12 persen, sementara publik dengan kepemilikan di bawah 5 persen memegang 361.540.353 saham atau 46,88 persen. Karena saham bonus dibagikan proporsional, komposisi persentase kepemilikan ini tidak berubah. Dokumen juga menyertakan laporan keuangan audit tahun 2025: pendapatan turun menjadi Rp175,23 miliar dari Rp211,73 miliar pada 2024, dan laba periode berjalan turun menjadi Rp9,55 miliar dari Rp12,88 miliar, sementara ekuitas tercatat Rp144,33 miliar."
+  ],
+  "fotoAdegan": "Forklift moving stacked cargo pallets inside a logistics warehouse, delivery trucks parked at loading bay, late afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental PPGL, karena saham bonus berasal dari agio saham yang sudah tercatat di kas perseroan, bukan dana segar baru, dan dibagikan proporsional sehingga porsi kepemilikan Direktur Utama Darmawan Suryadi SM yang mencapai 53,12 persen tetap sama. Yang berubah adalah jumlah saham beredar, yang bisa melonjak dari 771 juta menjadi sekitar 1,28 miliar lembar, sehingga laba perusahaan nantinya terbagi ke lebih banyak lembar saham dan laba per saham bisa turun secara matematis meski total kekayaan pemegang saham tidak berkurang, sementara ekuitas perseroan sendiri tidak bertambah karena ini hanya pemindahan pos dari agio ke modal disetor. Yang perlu dipantau adalah RUPSLB pada 23 Oktober 2026, dua hari dari sekarang, karena seluruh rencana ini otomatis batal jika pemegang saham tidak menyetujuinya di rapat tersebut. Kalau disetujui, tanggal pencatatan pemegang saham berhak pada 4 November 2026 dan distribusi saham pada 25 November 2026 jadi penanda selanjutnya yang menentukan kapan saham bonus benar-benar masuk ke rekening pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pegadaian-ungkap-modus-lowongan-kerja-palsu",
   "category": "Ketenagakerjaan",
   "title": "Pegadaian Ungkap Modus Lowongan Kerja [Palsu]",
@@ -27,6 +80,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan aturan main, melainkan peringatan tertulis dari manajemen Pegadaian setelah modus penipuan rekrutmen memakai nama perusahaan ini makin sering muncul, lewat surat panggilan wawancara palsu yang meminta pelamar membayar tiket atau transfer uang. Yang terdampak jelas pencari kerja yang melamar atau mengaku dihubungi atas nama Pegadaian, karena merekalah yang berisiko kehilangan uang dengan iming-iming penggantian biaya yang tidak pernah cair. Data ini belum menyebut berapa banyak laporan korban yang masuk, berapa kerugian yang sudah terjadi, atau apakah kasus ini sudah dilaporkan ke polisi, sehingga belum bisa dibaca apakah penipuan semacam ini meluas atau baru segelintir kasus. Yang perlu dipantau adalah apakah Pegadaian atau BUMN lain merilis angka laporan pengaduan serupa, serta apakah ada tindak lanjut hukum terhadap pelaku, karena itu yang akan menunjukkan seberapa serius masalah ini sebenarnya.",
   "imageV": "mvia5v5n"
+ },
+ {
+  "slug": "mglv-panggil-rupslb-untuk-jaminan-aset-lebih-dari-50",
+  "category": "Aksi Korporasi",
+  "title": "MGLV panggil RUPSLB untuk [jaminan] aset lebih dari 50%",
+  "deck": "PT NexAI Digital Infrastruktur Tbk memanggil RUPSLB 12 November 2026 untuk meminta persetujuan menjaminkan lebih dari separuh kekayaan bersihnya demi memperoleh pinjaman.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T21:41:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/33e51e5646_96eafdf159.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "RUPSLB",
+   "jaminan aset",
+   "pinjaman"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 12 November 2026 pukul 14.00 WIB di Function Hall Pacific Century Place Lantai B1 Room B, Jl. Jend. Sudirman Kav. 52-53, Senayan, Kebayoran Baru, Jakarta Selatan. Rapat juga digelar secara elektronik melalui fasilitas eASY.KSEI. Satu-satunya agenda RUPSLB ini adalah persetujuan rencana perseroan untuk menjaminkan harta kekayaan perseroan lebih dari 50 persen dari total kekayaan bersihnya, sesuai Pasal 102 Undang-Undang Perseroan Terbatas yang mewajibkan persetujuan RUPS untuk penjaminan aset sebesar itu.",
+   "Dalam penjelasan agenda, perseroan menyebutkan rencana ini diajukan sehubungan dengan upaya memperoleh pinjaman serta menjaminkan sebagian besar aset perseroan dan/atau entitas anaknya, termasuk kemungkinan memberikan jaminan perusahaan (corporate guarantee). Dokumen pemanggilan ini tidak mencantumkan nilai pinjaman yang akan diperoleh, pihak pemberi pinjaman, maupun aset spesifik mana yang akan dijaminkan.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 20 Oktober 2026 pukul 16.00 WIB. Bagi yang memberi kuasa melalui PT Adimitra Jasa Korpora selaku Biro Administrasi Efek, dokumen kuasa harus diserahkan paling lambat 11 November 2026 pukul 16.00 WIB, sementara pemberian kuasa dan suara melalui aplikasi eASY.KSEI dibuka hingga pukul 12.00 WIB pada tanggal yang sama, satu hari kerja sebelum RUPSLB."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's SCBD business district at dusk, taxis passing along a busy street below",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham karena perseroan meminta restu untuk menjaminkan lebih dari separuh seluruh kekayaan bersihnya demi mendapat pinjaman baru, tanpa menyebutkan besaran pinjaman, pemberi pinjaman, atau penggunaan dananya. Penjaminan sebesar itu berpotensi menambah beban utang dan beban bunga yang harus ditanggung perseroan ke depan, sekaligus membuat sebagian besar aset perseroan berisiko disita kreditur apabila terjadi gagal bayar, yang pada akhirnya bisa menggerus nilai ekuitas pemegang saham dalam skenario terburuk. Yang perlu dipantau berikutnya adalah hasil keputusan RUPSLB pada 12 November 2026, serta keterbukaan informasi lanjutan yang mestinya mengungkap nilai pinjaman, pihak pemberi pinjaman, dan aset spesifik yang akhirnya dijaminkan begitu transaksi ini direalisasikan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mbss-koreksi-jadwal-buyback-saham-rampung-31-desember",
+  "category": "Aksi Korporasi",
+  "title": "MBSS Koreksi Jadwal [Buyback] Saham, Rampung 31 Desember",
+  "deck": "MBSS merilis koreksi keterbukaan informasi buyback, menegaskan periode pembelian kembali saham berlangsung 22 Oktober hingga 31 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T21:21:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/34234077f9_ee7130d939.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBSS",
+  "tags": [
+   "MBSS",
+   "buyback saham",
+   "pelayaran",
+   "OJK"
+  ],
+  "body": [
+   "Mitrabahtera Segara Sejati Tbk (MBSS) menerbitkan koreksi atas keterbukaan informasi rencana pembelian kembali (buyback) saham yang sebelumnya disampaikan pada tanggal yang sama, 21 Oktober 2026. Koreksi ini menegaskan bahwa periode pelaksanaan buyback berlangsung sejak 22 Oktober 2026 hingga 31 Desember 2026, merujuk pada Peraturan OJK No. 13/2023 tentang kebijakan menjaga stabilitas pasar modal dalam kondisi pasar yang berfluktuasi signifikan. Karena merujuk pada surat OJK No. S-112/D.04/2026 tanggal 9 September 2026, perseroan bisa menjalankan buyback ini tanpa persetujuan RUPS, cukup lewat pengumuman keterbukaan informasi ke OJK, BEI, dan publik.",
+   "Perseroan menganggarkan dana maksimal Rp200 miliar dari kas internal untuk buyback ini, termasuk biaya transaksi dan komisi pialang. Perusahaan menegaskan dana itu bukan berasal dari hasil penawaran umum maupun pinjaman atau utang dalam bentuk apa pun. Jumlah saham yang akan dibeli kembali maksimal 2,41 persen atau 42.169.641 lembar dari total saham yang telah diterbitkan perseroan, dieksekusi lewat satu perantara pedagang efek di BEI tanpa batasan volume harian, dengan harga mengikuti aturan POJK 29/2023.",
+   "Berdasarkan simulasi atas laporan keuangan per 30 Juni 2026, jika dana Rp200 miliar itu terpakai penuh, total ekuitas perseroan turun dari Rp4,13 triliun menjadi Rp3,93 triliun dan total aset turun dari Rp4,79 triliun menjadi Rp4,59 triliun, sementara laba neto tetap Rp203,79 miliar dan laba per saham dasar tidak berubah di angka Rp116,45. Saham hasil buyback nantinya akan dialihkan kembali dalam 30 hari setelah buyback selesai atau periode berakhir, lewat salah satu dari beberapa opsi: dijual lagi di bursa atau luar bursa, ditarik lewat pengurangan modal, dipakai untuk program kepemilikan saham karyawan atau direksi dan komisaris, atau cara lain dengan persetujuan OJK. Dokumen ini juga menegaskan bahwa komisaris, direksi, karyawan, pemegang saham utama, dan pihak yang punya akses informasi orang dalam dilarang bertransaksi saham MBSS pada hari yang sama dengan eksekusi buyback oleh perseroan."
+  ],
+  "fotoAdegan": "Tugboats and barges moored along a quiet industrial harbor dock at dusk, calm water, distant cranes in soft light",
+  "takeaway": "Koreksi ini tetap netral bagi fundamental MBSS, sama seperti penilaian kami atas rencana buyback awal, karena yang diubah cuma kepastian jadwal pelaksanaan, bukan jumlah dana atau sumber dananya. Pos yang tersentuh adalah ekuitas, yaitu modal yang secara akuntansi menjadi hak pemegang saham, yang berkurang Rp200 miliar kalau seluruh dana buyback terpakai, sementara laba per saham tidak berubah karena saham yang dibeli kembali belum dihapus dari jumlah saham yang dihitung. Pelaku pasar biasanya mencermati pos ini karena dana kas yang dipakai membeli saham sendiri berarti dana itu tidak dipakai untuk ekspansi usaha. Yang perlu dipantau berikutnya adalah tenggat pelaksanaan buyback pada 31 Desember 2026, dan keputusan perseroan dalam 30 hari setelahnya soal nasib saham yang dibeli balik, apakah dijual lagi, dihapus lewat pengurangan modal, atau dipakai untuk program kepemilikan karyawan dan direksi.",
+  "sentimen": "netral"
  },
  {
   "slug": "sanf-bagikan-dividen-interim-rp15-52-miliar-rp27-per-saham",

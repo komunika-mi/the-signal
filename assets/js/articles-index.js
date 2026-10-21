@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppgl-batalkan-pmthmetd-piutang-pemegang-saham-rp21-6-m",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Batalkan [PMTHMETD], Piutang Pemegang Saham Rp21,6 M",
+  "deck": "Menjawab permintaan penjelasan Bursa, PPGL membatalkan agenda penambahan modal PMTHMETD dalam RUPSLB dan mengungkap piutang Rp21,62 miliar dari pemegang saham mayoritas atas divestasi JAYA.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "RUPSLB",
+   "PMTHMETD",
+   "divestasi JAYA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a37abebeff_0e18207c25.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgl-pastikan-rasio-saham-bonus-6-4-rupslb-23-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Pastikan Rasio [Saham Bonus] 6:4, RUPSLB 23 Oktober",
+  "deck": "Koreksi keterbukaan informasi PPGL memastikan pembagian saham bonus rasio 6:4 dari kapitalisasi agio saham, menunggu persetujuan RUPSLB 23 Oktober 2026.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "saham bonus",
+   "RUPSLB",
+   "freight forwarding"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1acefc2dfd_a07c90872b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pegadaian-ungkap-modus-lowongan-kerja-palsu",
   "category": "Ketenagakerjaan",
   "title": "Pegadaian Ungkap Modus Lowongan Kerja [Palsu]",
@@ -20,6 +52,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474297-jangan-tertipu-lowongan-kerja-palsu-pegadaian-ungkap-6-ciri-rekrutmen-loker-bodong"
+ },
+ {
+  "slug": "mglv-panggil-rupslb-untuk-jaminan-aset-lebih-dari-50",
+  "category": "Aksi Korporasi",
+  "title": "MGLV panggil RUPSLB untuk [jaminan] aset lebih dari 50%",
+  "deck": "PT NexAI Digital Infrastruktur Tbk memanggil RUPSLB 12 November 2026 untuk meminta persetujuan menjaminkan lebih dari separuh kekayaan bersihnya demi memperoleh pinjaman.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "RUPSLB",
+   "jaminan aset",
+   "pinjaman"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/33e51e5646_96eafdf159.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbss-koreksi-jadwal-buyback-saham-rampung-31-desember",
+  "category": "Aksi Korporasi",
+  "title": "MBSS Koreksi Jadwal [Buyback] Saham, Rampung 31 Desember",
+  "deck": "MBSS merilis koreksi keterbukaan informasi buyback, menegaskan periode pembelian kembali saham berlangsung 22 Oktober hingga 31 Desember 2026.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBSS",
+   "buyback saham",
+   "pelayaran",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/34234077f9_ee7130d939.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "sanf-bagikan-dividen-interim-rp15-52-miliar-rp27-per-saham",
@@ -6447,75 +6511,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hari-pertama-tei-ke-41-sebanyak-168-mou-senilai-usd-132-miliar-ditandatangani",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "kuliner-halal-ri-naik-ke-peringkat-tiga-dunia",
-  "category": "Industri",
-  "title": "Kuliner Halal RI Naik ke Peringkat [Tiga] Dunia",
-  "deck": "Indonesia naik ke peringkat ketiga dunia sektor makanan halal, didukung 123 perjanjian pengakuan sertifikasi halal dengan 43 negara.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/kuliner-halal-ri-naik-ke-peringkat-tiga-dunia.jpg",
-  "imageV": "mv86ykze",
-  "tags": [
-   "Halal",
-   "ISEF 2026",
-   "Bank Indonesia",
-   "UMKM"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822026.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "kkp-segel-tambak-udang-tak-berizin-di-karimunjawa",
-  "category": "Industri",
-  "title": "KKP [Segel] Tambak Udang Tak Berizin di Karimunjawa",
-  "deck": "KKP menyegel dua tambak udang seluas 7,71 hektare di Karimunjawa, menyusul 33 lokasi lain yang berhenti beroperasi sejak 2023-2024 karena melanggar aturan tata ruang daerah.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/kkp-segel-tambak-udang-tak-berizin-di-karimunjawa.jpg",
-  "imageV": "mv81nipj",
-  "tags": [
-   "KKP",
-   "Karimunjawa",
-   "Tambak Udang",
-   "Perizinan"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/segel-tambak-udang-tak-berizin-di-karimunjawa-kkp-tingkatkan-pengawasan-ojx3.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "ri-kejar-pengakuan-sertifikat-pelaut-perikanan-di-eropa",
-  "category": "Ketenagakerjaan",
-  "title": "RI Kejar [Pengakuan] Sertifikat Pelaut Perikanan di Eropa",
-  "deck": "KKP menandatangani perjanjian pengakuan sertifikat awak kapal perikanan dengan Portugal dan mendorong pembaruan serupa dengan Spanyol agar mencakup jenjang perwira.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/ri-kejar-pengakuan-sertifikat-pelaut-perikanan-di-eropa.jpg",
-  "imageV": "mv81nk6u",
-  "tags": [
-   "KKP",
-   "pelaut perikanan",
-   "Portugal",
-   "Spanyol"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-bidik-pengakuan-sertifikat-pelaut-perikanan-indonesia-di-eropa-pkyN.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "sertifikasi-halal-jadi-wajib-mulai-17-oktober-2026",
-  "category": "Industri",
-  "title": "Sertifikasi Halal Jadi [Wajib] Mulai 17 Oktober 2026",
-  "deck": "Pemerintah memberlakukan kewajiban sertifikasi halal mulai 17 Oktober 2026, seiring target ekonomi syariah jadi penopang pertumbuhan menuju 8 persen.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
-  "tags": [
-   "ekonomi syariah",
-   "sertifikasi halal",
-   "UMKM",
-   "ISEF 2026"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7153/pemerintah-perkuat-ekosistem-ekonomi-syariah-untuk-mendorong-pertumbuhan-dan-daya-saing-nasional",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

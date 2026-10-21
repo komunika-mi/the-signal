@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lpgi-sebut-opsi-pelepasan-saham-oleh-pemegang-saham-utama",
+  "category": "Aksi Korporasi",
+  "title": "LPGI Sebut Opsi [Pelepasan] Saham oleh Pemegang Saham Utama",
+  "deck": "Volume transaksi saham LPGI melonjak 245.100 lembar dalam sehari, dan perseroan membuka opsi penjualan sebagian saham oleh pemegang saham utama untuk memenuhi syarat free float.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPGI",
+   "free float",
+   "volatilitas saham",
+   "pemegang saham utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/13a94e0002_4eacd921f3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toba-buka-pendanaan-s-555-juta-untuk-ekspansi-bisnis-limbah",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Buka Pendanaan [S$555 Juta] untuk Ekspansi Bisnis Limbah",
+  "deck": "SBTH, anak usaha TOBA, menerbitkan saham preferen dan waran senilai hingga S$555 juta kepada investor global untuk mendanai ekspansi bisnis limbah.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "transaksi material",
+   "pengelolaan limbah",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3a06b77a0e_1909d70f37.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cent-refinancing-rp12-48-triliun-pinjaman-afiliasi-diperpanjang",
+  "category": "Aksi Korporasi",
+  "title": "CENT Refinancing Rp12,48 Triliun, Pinjaman Afiliasi [Diperpanjang]",
+  "deck": "CENT menandatangani fasilitas pinjaman baru Rp12,48 triliun untuk melunasi utang lama, dan memperpanjang dua pinjaman pemegang saham hingga akhir 2031.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CENT",
+   "refinancing",
+   "transaksi afiliasi",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6d077d7245_bfeaf9b9b2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbss-siapkan-buyback-saham-rp200-miliar-hingga-januari-2027",
+  "category": "Aksi Korporasi",
+  "title": "MBSS Siapkan [Buyback] Saham Rp200 Miliar hingga Januari 2027",
+  "deck": "MBSS akan membeli kembali maksimal 42,2 juta saham atau 2,41 persen dari total saham beredar, senilai hingga Rp200 miliar dari kas internal, tanpa persetujuan RUPS.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBSS",
+   "buyback saham",
+   "Mitrabahtera Segara Sejati",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e95d390fe_87bd211234.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wisl-siapkan-rp500-miliar-lunasi-obligasi-jatuh-tempo-17-november",
+  "category": "Aksi Korporasi",
+  "title": "WISL Siapkan Rp500 Miliar Lunasi [Obligasi] Jatuh Tempo 17 November",
+  "deck": "PT Wahana Inti Selaras (WISL) menyatakan siap membayar pokok Obligasi Berkelanjutan I Tahap II 2025 sebesar Rp500 miliar yang jatuh tempo 17 November 2026, menggunakan kas dan penagihan piutang.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WISL",
+   "obligasi",
+   "Indomobil",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d96a830727_cf90706a47.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sanksi-pajak-bisa-dihapus-penuh-sampai-desember-2026",
   "category": "Makroekonomi",
   "title": "Sanksi Pajak Bisa [Dihapus] Penuh Sampai Desember 2026",
@@ -32,6 +112,86 @@ var ARTICLES = [
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823326.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "gtra-teken-fasilitas-kredit-rp195-miliar-dari-bank-mandiri",
+  "category": "Aksi Korporasi",
+  "title": "GTRA Teken Fasilitas Kredit [Rp195 Miliar] dari Bank Mandiri",
+  "deck": "Grahaprima Suksesmandiri (GTRA) menandatangani perjanjian kredit investasi senilai Rp195 miliar dengan Bank Mandiri untuk membeli truk baru, setara 44,2 persen dari ekuitas perusahaan.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTRA",
+   "pinjaman korporasi",
+   "Bank Mandiri",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcd2ea60ab_aa2d13c631.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pudp-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PUDP Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Diminta BEI menjelaskan pergerakan transaksi sahamnya, Pudjiadi Prestige menyatakan tidak mengetahui ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PUDP",
+   "Pudjiadi Prestige",
+   "Unusual Market Activity",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5174cfe91_fea2a90b40.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ssms-karhutla-tak-ganggu-operasional-dan-produksi-2026",
+  "category": "Aksi Korporasi",
+  "title": "SSMS: [Karhutla] Tak Ganggu Operasional dan Produksi 2026",
+  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, SSMS menyatakan seluruh operasinya di Kalimantan Tengah belum terdampak, baik secara produksi maupun hukum.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SSMS",
+   "karhutla",
+   "sawit",
+   "Kalimantan Tengah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c659cb2679_4ec4878f61.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jsmr-jawab-permintaan-bei-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "JSMR Jawab Permintaan BEI soal [Volatilitas] Saham",
+  "deck": "Jasa Marga menegaskan tidak ada informasi material yang disembunyikan, dan menyebut pelemahan sahamnya bisa terkait sentimen peninjauan status pasar RI oleh MSCI.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JSMR",
+   "volatilitas saham",
+   "RUPSLB",
+   "MSCI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a9714d448_a713470015.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toba-jadwalkan-rupslb-27-november-dps-ditutup-4-november",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Jadwalkan [RUPSLB] 27 November, DPS Ditutup 4 November",
+  "deck": "PT TBS Energi Utama Tbk akan menggelar RUPSLB pada 27 November 2026 secara hybrid, dengan pemanggilan resmi berisi agenda rapat baru terbit 5 November 2026.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "RUPSLB",
+   "TBS Energi Utama",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/846a4c60c9_b9760adb14.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ihsg-dibuka-menguat-ke-level-5-310-85",
@@ -228,6 +388,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474164-harga-emas-antam-hari-ini-21-oktober-2026-turun-lagi-jadi-rp2554000-per-gram-perhatikan-tren-jangka-panjang-bagi-yang-mau-beli"
  },
  {
+  "slug": "mtdl-psi-hapus-6-saham-treasuri-kepemilikan-berubah",
+  "category": "Aksi Korporasi",
+  "title": "MTDL: PSI Hapus 6% Saham [Treasuri], Kepemilikan Berubah",
+  "deck": "Entitas asosiasi Metrodata, PT Packet Systems Indonesia, membatalkan 79.560 saham treasuri dari buyback Juni 2026, mengubah porsi kepemilikan MTDL dan Logicalis Singapore.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTDL",
+   "Packet Systems Indonesia",
+   "entitas asosiasi",
+   "saham treasuri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f012ef1bb9_44debb0b84.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "idea-jadwalkan-ulang-rupslb-ke-12-november-2026",
   "category": "Aksi Korporasi",
   "title": "IDEA Jadwalkan Ulang [RUPSLB] ke 12 November 2026",
@@ -241,6 +417,22 @@ var ARTICLES = [
    "Anggaran Dasar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d5a7adfde7_00b55c0a4d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pool-pinjam-rp5-miliar-dari-pemegang-saham-gadai-saham-pola",
+  "category": "Aksi Korporasi",
+  "title": "POOL Pinjam Rp5 Miliar dari Pemegang Saham, [Gadai] Saham POLA",
+  "deck": "Pool Advista menerima pinjaman Rp5 miliar dari pemegang sahamnya, PT Prodana Indo Investa, dengan jaminan gadai saham anak usaha POLA, untuk membayar biaya kepatuhan dan tunggakan gaji karyawan.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POOL",
+   "POLA",
+   "Transaksi Afiliasi",
+   "Pinjaman"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6daaf61d54_eb537e42f2.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6323,204 +6515,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7cff5e0805_90020cebb8.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "inpp-suntik-modal-rp484-miliar-ke-tiga-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "INPP Suntik [Modal] Rp484 Miliar ke Tiga Anak Usaha",
-  "deck": "Perseroan menambah modal disetor di tiga anak usahanya, PKS, IGM, dan PSM, senilai total Rp483,97 miliar guna memperkuat struktur permodalan tanpa mengubah kepemilikan publik INPP.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPP",
-   "Transaksi Afiliasi",
-   "Modal Disetor",
-   "Anak Usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b7ce29c6f8_f6cacd5f5b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cpin-pastikan-tak-ada-aset-di-wilayah-karhutla",
-  "category": "Aksi Korporasi",
-  "title": "CPIN Pastikan Tak Ada Aset di Wilayah [Karhutla]",
-  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia, Charoen Pokphand Indonesia menegaskan tidak memiliki operasional, konsesi, atau aset di wilayah yang terdampak kebakaran hutan dan lahan.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CPIN",
-   "karhutla",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71edaebe6e_ac408d6d68.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wamenko-daya-beli-bergeser-bukan-melemah",
-  "category": "Makroekonomi",
-  "title": "Wamenko: Daya Beli [Bergeser], Bukan Melemah",
-  "deck": "Wamenko Perekonomian menyebut data BPS menunjukkan pergeseran konsumsi ke pariwisata dan layanan daring, bukan pelemahan daya beli secara menyeluruh.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
-  "tags": [
-   "Kemenko Perekonomian",
-   "Daya Beli",
-   "Danantara",
-   "Debottlenecking"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7152/wamenko-perekonomian-dorong-percepatan-penanganan-hambatan-usaha-perkuat-pertumbuhan-ekonomi-domestik",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "wamendag-temui-menteri-finlandia-dorong-ratifikasi-cepa",
-  "category": "Global",
-  "title": "Wamendag Temui Menteri Finlandia, Dorong Ratifikasi [CEPA]",
-  "deck": "Wamendag Dyah Roro Esti dan Menteri Dagang Luar Negeri Finlandia Ville Tavio bahas penguatan ekosistem startup serta dorongan ratifikasi I-EU CEPA dan aksesi OECD Indonesia.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/wamendag-temui-menteri-finlandia-dorong-ratifikasi-cepa.jpg",
-  "imageV": "mv7nm256",
-  "tags": [
-   "Indonesia-Finlandia",
-   "I-EU CEPA",
-   "OECD",
-   "Trade Expo Indonesia"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dan-finlandia-perkuat-ekosistem-inovasi-dan-perusahaan-rintisan",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "smle-targetkan-akuisisi-sinarom-denico-rampung-awal-2027",
-  "category": "Aksi Korporasi",
-  "title": "SMLE Targetkan Akuisisi Sinarom-Denico [Rampung] Awal 2027",
-  "deck": "SMLE menargetkan akuisisi 50% saham Sinarom oleh Denico tuntas Januari-Februari 2027, tapi nilai transaksi dan skema pendanaan masih menunggu kajian.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMLE",
-   "akuisisi",
-   "Sinarom",
-   "Denico"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/efad84163d_4f8627a7d4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hrta-ajukan-private-placement-10-saham-baru-rups-16-oktober",
-  "category": "Aksi Korporasi",
-  "title": "HRTA ajukan private placement [10%] saham baru, RUPS 16 Oktober",
-  "deck": "Hartadinata Abadi berencana menerbitkan hingga 460,5 juta saham baru tanpa hak memesan efek terlebih dahulu untuk beli bahan baku emas, menunggu persetujuan RUPS Independen 16 Oktober 2026.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRTA",
-   "Hartadinata Abadi",
-   "private placement",
-   "RUPS Independen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/411e1e219e_889e1029fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jawa-akui-kena-sanksi-administratif-terkait-karhutla",
-  "category": "Aksi Korporasi",
-  "title": "JAWA akui kena [sanksi] administratif terkait karhutla",
-  "deck": "JAWA menjelaskan ke bursa bahwa kebun anak usahanya di Tanah Laut, Kalimantan Selatan, terdampak isu karhutla nasional, dan mengakui tengah dikenai sanksi administratif terkait kebakaran hutan dan lahan.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JAWA",
-   "karhutla",
-   "sanksi administratif",
-   "perkebunan sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aa1a70595d_f5874f1e4a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kota-tunda-rupslb-pmhmetd-tanpa-jadwal-baru",
-  "category": "Aksi Korporasi",
-  "title": "KOTA Tunda RUPSLB [PMHMETD] Tanpa Jadwal Baru",
-  "deck": "DMS Propertindo menunda lagi RUPSLB yang sedianya digelar 15 Oktober 2026, menunggu kelengkapan tanggapan atas permintaan tambahan informasi dari OJK soal rencana rights issue dan transaksi material.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOTA",
-   "RUPSLB",
-   "PMHMETD",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcecae9082_b5889e1f35.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asgr-jadwalkan-rupslb-pada-20-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "ASGR Jadwalkan [RUPSLB] pada 20 November 2026",
-  "deck": "Astra Graphia (ASGR) akan menggelar RUPSLB pada 20 November 2026 di Jakarta, dengan tenggat pengajuan usul agenda oleh pemegang saham pada 22 Oktober 2026.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASGR",
-   "RUPSLB",
-   "Astra Graphia",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6d6a6d11bd_9f221d8242.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bni-bukukan-penjualan-agunan-rp510-77-miliar",
-  "category": "Perbankan",
-  "title": "BNI Bukukan Penjualan Agunan [Rp510,77] Miliar",
-  "deck": "Program Gelegar Lelang BNI 2026 mencatat penjualan agunan Rp510,77 miliar dari 1.603 lelang di 49 KPKNL selama tiga bulan program berjalan.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/bni-bukukan-penjualan-agunan-rp510-77-miliar.jpg",
-  "imageV": "mv7nm2jg",
-  "tags": [
-   "BNI",
-   "lelang agunan",
-   "Danantara",
-   "kredit macet"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/472883-gelegar-lelang-bni-2026-bukukan-penjualan-agunan-rp51077-miliar"
- },
- {
-  "slug": "bulog-pecahkan-rekor-pengadaan-beras-tembus-4-1-juta-ton",
-  "category": "BUMN",
-  "title": "BULOG [Pecahkan] Rekor Pengadaan Beras, Tembus 4,1 Juta Ton",
-  "deck": "Realisasi pengadaan beras BULOG per 8 Oktober 2026 mencapai 4.115.014 ton setara beras, atau 102,88 persen dari target pemerintah, tertinggi sepanjang sejarah perusahaan.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/bulog-pecahkan-rekor-pengadaan-beras-tembus-4-1-juta-ton.jpg",
-  "imageV": "mv7gv687",
-  "tags": [
-   "BULOG",
-   "Beras",
-   "Cadangan Pangan",
-   "Petani"
-  ],
-  "kreditFoto": "Perum BULOG",
-  "sourceUrl": "https://www.bulog.co.id/2026/10/09/bulog-cetak-rekor-sepanjang-sejarah-pengadaan-beras-melampaui-4-juta-ton/",
-  "sourceLabel": "Perum BULOG"
- },
- {
-  "slug": "bulog-catat-rekor-pengadaan-beras-tembus-4-1-juta-ton",
-  "category": "BUMN",
-  "title": "BULOG Catat [Rekor] Pengadaan Beras Tembus 4,1 Juta Ton",
-  "deck": "Realisasi pengadaan gabah dan beras BULOG mencapai 4,11 juta ton setara beras per 8 Oktober 2026, melampaui target pemerintah dan mencetak rekor baru sepanjang sejarah lembaga itu.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/bulog-catat-rekor-pengadaan-beras-tembus-4-1-juta-ton.jpg",
-  "imageV": "mv7gv9dj",
-  "tags": [
-   "BULOG",
-   "Pengadaan Beras",
-   "Ketahanan Pangan",
-   "Cadangan Beras Pemerintah"
-  ],
-  "kreditFoto": "Perum BULOG",
-  "sourceUrl": "https://www.bulog.co.id/2026/10/09/bulog-cetak-sejarah-pengadaan-4-juta-ton-gelar-tasyakuran-bersama-komisi-iv-dpr-ri-di-ambon/",
-  "sourceLabel": "Perum BULOG"
  }
 ];

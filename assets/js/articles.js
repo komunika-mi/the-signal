@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lpgi-sebut-opsi-pelepasan-saham-oleh-pemegang-saham-utama",
+  "category": "Aksi Korporasi",
+  "title": "LPGI Sebut Opsi [Pelepasan] Saham oleh Pemegang Saham Utama",
+  "deck": "Volume transaksi saham LPGI melonjak 245.100 lembar dalam sehari, dan perseroan membuka opsi penjualan sebagian saham oleh pemegang saham utama untuk memenuhi syarat free float.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T17:20:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/13a94e0002_4eacd921f3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPGI",
+  "tags": [
+   "LPGI",
+   "free float",
+   "volatilitas saham",
+   "pemegang saham utama"
+  ],
+  "body": [
+   "Lippo General Insurance Tbk (LPGI) menjawab permintaan penjelasan Bursa Efek Indonesia terkait lonjakan transaksi sahamnya pada 16 Oktober 2026. Volume perdagangan melonjak dari 10.300 saham dengan 36 kali transaksi pada hari bursa sebelumnya menjadi 245.100 saham dengan 460 kali transaksi. Harga penutupan naik Rp15 atau 2,44 persen, dari Rp615 menjadi Rp630, dan sempat menyentuh Rp750 dalam perdagangan intraday. Dalam surat bernomor 181/LGI-Dir/X/2026 yang diteken Wakil Presiden Direktur Choi Hyunhee dan Presiden Direktur Agus Benjamin, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkap ke publik yang bisa menjelaskan pergerakan tersebut.",
+   "Poin yang lebih substansial muncul pada bagian rencana pemegang saham utama. Perseroan menegaskan kembali isi suratnya kepada Bursa tertanggal 17 September 2026 (No. 170/LGI-Dir/IX/2026), yang menyebut penjualan sebagian saham oleh satu atau lebih pemegang saham utama sebagai salah satu opsi yang sedang dikaji untuk memenuhi ketentuan minimum free float. Sampai surat terbaru ini diteken, perseroan mengaku belum menerima informasi mengenai keputusan definitif soal siapa pihak yang akan menjual, bagaimana struktur transaksinya, berapa jumlah sahamnya, maupun kapan pelaksanaannya.",
+   "Perseroan juga menyatakan tidak memiliki rencana tindakan korporasi yang sudah ditetapkan untuk tiga bulan mendatang, tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur aturan kepemilikan saham, dan tidak ada informasi material lain yang belum diungkap. Perseroan berjanji akan memenuhi kewajiban keterbukaan informasi begitu ada keputusan definitif terkait rencana pelepasan saham tersebut."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's financial district, overcast afternoon light, pedestrians crossing below",
+  "takeaway": "Laporan ini netral bagi fundamental LPGI karena rencana pelepasan saham oleh pemegang saham utama masih sebatas opsi yang dikaji, belum ada keputusan, jumlah, maupun nilai transaksi yang bisa dinilai dampaknya terhadap harga atau kendali perusahaan. Yang tersentuh di sini adalah syarat free float, yaitu porsi saham yang wajib dipegang publik di luar pemegang saham utama agar sahamnya tetap likuid diperdagangkan di bursa; kalau rencana ini terlaksana, jumlah saham yang dipegang publik akan bertambah tanpa menambah total saham perusahaan, tapi bisa sedikit mengurangi porsi kendali pemegang saham utama. Lonjakan transaksi pada 16 Oktober, dari 10.300 saham menjadi 245.100 saham dengan harga sempat menyentuh Rp750, menurut perseroan tidak dipicu informasi material yang belum diungkap, sehingga penjelasan itu sendiri tidak membawa kabar baru soal kinerja. Yang perlu dipantau berikutnya adalah kapan perseroan mengumumkan keputusan definitif soal siapa pemegang saham yang akan menjual, berapa jumlah sahamnya, dan kapan transaksi itu dilakukan, karena sampai tanggal surat ini belum ada kepastian apa pun soal itu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "toba-buka-pendanaan-s-555-juta-untuk-ekspansi-bisnis-limbah",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Buka Pendanaan [S$555 Juta] untuk Ekspansi Bisnis Limbah",
+  "deck": "SBTH, anak usaha TOBA, menerbitkan saham preferen dan waran senilai hingga S$555 juta kepada investor global untuk mendanai ekspansi bisnis limbah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T17:06:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3a06b77a0e_1909d70f37.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "transaksi material",
+   "pengelolaan limbah",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) menyampaikan keterbukaan informasi soal rencana transaksi material senilai hingga S$555 juta. Anak usahanya di Singapura, SBTH Asia Holdings Pte Ltd, akan menerbitkan saham preferen yang dapat ditebus (redeemable preference shares atau RPS) dan waran sintetis kepada empat investor institusi, yaitu SIP VI Onshore, SIP VI Offshore, SIP VI AP, dan HCAP Lux Sarl. Pendanaan ini cair dalam tiga tahap: aggregate subscription sebesar S$125 juta yang dibayar saat transaksi selesai, primary tranche hingga S$130 juta, dan incremental primary tranche hingga S$300 juta, yang bisa ditarik SBTH secara bertahap sesuai kebutuhan.",
+   "SBTH adalah perusahaan induk untuk bisnis pengelolaan limbah TOBA di Singapura dan Indonesia, mencakup pengelolaan limbah medis, pembangkitan energi dari sampah, dan jasa pengumpulan limbah. Dana dari investor akan dipakai untuk membiayai pertumbuhan bisnis ini, termasuk akuisisi, belanja modal, dan modal kerja, sejalan dengan rencana TOBA menjadikan unit limbahnya sebagai platform pengelolaan lingkungan regional. Perseroan menegaskan kendalinya tidak berkurang karena RPS yang diterbitkan tidak memiliki hak suara dalam rapat pemegang saham SBTH, sehingga TOBA tetap memegang seluruh saham biasa SBTH secara tidak langsung melalui SBTI.",
+   "Transaksi ini masuk kategori transaksi material menurut aturan OJK karena nilainya melebihi 50 persen dari ekuitas perusahaan, yaitu mencapai 227,06 persen dari ekuitas konsolidasian TOBA per 30 Juni 2026 yang tercatat US$188,92 juta. Karena itu, TOBA wajib meminta persetujuan pemegang saham lewat RUPSLB yang dijadwalkan pada 27 November 2026, dan telah menunjuk Kantor Jasa Penilai Publik Kusnanto & Rekan sebagai penilai independen untuk memberikan opini kewajaran atas transaksi. Rencana ini menyusul reorganisasi internal TOBA yang membentuk SBTI dan SBTH, yang sudah diumumkan sehari sebelumnya pada 20 Oktober 2026."
+  ],
+  "fotoAdegan": "Waste collection trucks and sorting conveyors at an industrial recycling facility yard, workers in safety vests, overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi TOBA karena membuka akses pendanaan besar hingga S$555 juta dari empat investor institusi global untuk ekspansi bisnis pengelolaan limbah, tanpa mengurangi kendali TOBA sebab saham preferen yang diterbitkan tidak membawa hak suara. Yang perlu dicermati, instrumen yang diterbitkan berupa saham preferen yang bisa ditebus kembali dan waran sintetis bukan saham biasa, sehingga secara akuntansi bisa tercatat sebagai kewajiban membayar kembali dengan imbal hasil tetap di masa depan, mirip utang meski berlabel saham, dan nilainya setara 227 persen dari ekuitas TOBA per akhir Juni 2026 yang sebesar US$188,9 juta, jumlah yang besar dibanding ukuran ekuitas perusahaan saat ini. Kelanjutannya akan ditentukan oleh RUPSLB pada 27 November 2026 yang harus menyetujui transaksi ini, ditambah opini kewajaran dari penilai independen KJPP Kusnanto & Rekan dan realisasi pembayaran tahap pertama senilai S$125 juta saat transaksi selesai.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cent-refinancing-rp12-48-triliun-pinjaman-afiliasi-diperpanjang",
+  "category": "Aksi Korporasi",
+  "title": "CENT Refinancing Rp12,48 Triliun, Pinjaman Afiliasi [Diperpanjang]",
+  "deck": "CENT menandatangani fasilitas pinjaman baru Rp12,48 triliun untuk melunasi utang lama, dan memperpanjang dua pinjaman pemegang saham hingga akhir 2031.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T16:53:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6d077d7245_bfeaf9b9b2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CENT",
+  "tags": [
+   "CENT",
+   "refinancing",
+   "transaksi afiliasi",
+   "perbankan"
+  ],
+  "body": [
+   "PT Centratama Telekomunikasi Indonesia Tbk (CENT) menandatangani perjanjian fasilitas pinjaman baru pada 19 Oktober 2026 untuk membiayai kembali (refinancing) fasilitas pinjaman lama yang diteken pada 8 Maret 2022. Debitur dalam perjanjian baru ini adalah Perseroan bersama empat entitas anaknya, yaitu PT Network Quality Indonesia, PT Centratama Menara Indonesia, PT MAC Sarana Djaya, dan PT EPID Menara AssetCo. Fasilitas yang diterima terdiri dari Fasilitas A senilai Rp2,99 triliun dan Fasilitas B senilai US$527,25 juta yang setara Rp9,49 triliun berdasarkan kurs JISDOR 20 Oktober 2026, sehingga total fasilitas baru mencapai sekitar Rp12,48 triliun. Dana ini disediakan oleh 14 kreditur, yaitu Credit Agricole Corporate and Investment Bank cabang Singapura, DBS Bank Ltd, Natixis cabang Singapura, Banco Santander cabang Hong Kong, Deutsche Bank AG cabang Singapura, MUFG Bank cabang Jakarta, PT Bank Danamon Indonesia Tbk, PT Bank DBS Indonesia, PT Bank Permata Tbk, Societe Generale cabang Singapura, ING Bank N.V. cabang Singapura, PT Bank KB Indonesia Tbk, PT Bank CIMB Niaga Tbk, dan CIMB Bank Berhad.",
+   "Dana dari fasilitas baru ini akan dipakai untuk melunasi penuh seluruh saldo terutang dari fasilitas lama, membayar biaya dan pengeluaran terkait perjanjian baru, serta membayar kewajiban, termasuk biaya pemutusan, kepada mitra lindung nilai akibat pengakhiran kontrak lindung nilai pengguliran yang selama ini melibatkan PT Centratama Menara Indonesia. Karena nilai fasilitas ini melebihi 20 persen dari ekuitas Perseroan, transaksi ini tergolong Transaksi Material. Namun karena dananya diterima langsung dari bank, Perseroan dikecualikan dari kewajiban memakai jasa penilai independen dan meminta persetujuan Rapat Umum Pemegang Saham. Direksi dan Dewan Komisaris Perseroan menyatakan transaksi ini tidak mengandung benturan kepentingan dan seluruh informasi materialnya sudah diungkapkan secara lengkap.",
+   "Dalam laporan yang sama, Perseroan juga mengungkapkan perpanjangan jatuh tempo dua instrumen utang kepada pemegang saham utamanya, EP ID Holdings Pte. Ltd. Instrumen utang antara PT EPID Menara AssetCo dan EP ID Holdings yang diteken 30 Desember 2021 diperpanjang jatuh temponya dari semula 30 Juni 2027 menjadi 31 Desember 2031. Instrumen utang antara PT Centratama Menara Indonesia dan EP ID Holdings yang diteken 30 September 2025 juga diperpanjang dari semula 30 September 2030 menjadi 31 Desember 2031, sehingga kedua utang afiliasi ini kini jatuh tempo bersamaan. Perseroan menyatakan perpanjangan ini tidak merugikan Perseroan maupun pemegang saham publik sehingga tidak memerlukan prosedur dan persetujuan khusus berdasarkan Peraturan OJK 42/2020 tentang transaksi afiliasi."
+  ],
+  "fotoAdegan": "Technicians climbing a tall telecommunications tower for maintenance work against a bright blue sky in rural Indonesia",
+  "takeaway": "Laporan ini netral bagi fundamental CENT: perusahaan sejatinya hanya menukar utang lama dengan utang baru dari sindikasi 14 bank dalam jumlah yang sebanding, bukan menyuntikkan modal segar atau mengurangi beban utang secara riil. Perpanjangan dua pinjaman dari EP ID Holdings, pemegang saham utama Perseroan, memang meringankan arus kas dalam beberapa tahun ke depan karena kewajiban pembayarannya mundur sampai akhir 2031, tapi dampaknya pada beban bunga belum jelas karena kondisi bunga pasar saat perjanjian baru diteken bisa berbeda dari saat perjanjian lama dibuat pada 2022. Pos yang tersentuh di sini adalah arus kas, karena jadwal pembayaran utang bergeser, dan beban bunga, karena pinjaman lama digantikan skema bunga baru yang besarannya belum diungkap ke publik. Nilai total fasilitas baru, Rp12,48 triliun, melebihi 20 persen ekuitas Perseroan sehingga masuk kategori transaksi material, namun karena dananya langsung dari bank, Perseroan tidak wajib memakai penilai independen atau meminta restu RUPS. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal setelah refinancing ini efektif, untuk melihat apakah beban bunga baru lebih besar atau lebih kecil dari fasilitas lama, serta kepatuhan pembayaran dua instrumen utang ke EP ID Holdings yang kini jatuh tempo bersamaan pada 31 Desember 2031.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mbss-siapkan-buyback-saham-rp200-miliar-hingga-januari-2027",
+  "category": "Aksi Korporasi",
+  "title": "MBSS Siapkan [Buyback] Saham Rp200 Miliar hingga Januari 2027",
+  "deck": "MBSS akan membeli kembali maksimal 42,2 juta saham atau 2,41 persen dari total saham beredar, senilai hingga Rp200 miliar dari kas internal, tanpa persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T16:44:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e95d390fe_87bd211234.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBSS",
+  "tags": [
+   "MBSS",
+   "buyback saham",
+   "Mitrabahtera Segara Sejati",
+   "pasar modal"
+  ],
+  "body": [
+   "Mitrabahtera Segara Sejati Tbk (MBSS) mengumumkan rencana pembelian kembali (buyback) sahamnya pada 21 Oktober 2026, memanfaatkan kebijakan Otoritas Jasa Keuangan (OJK) untuk kondisi pasar yang berfluktuasi signifikan sesuai POJK No. 13/2023. Lewat Surat OJK No. S-112/D.04/2026 tanggal 9 September 2026, perusahaan tercatat diperbolehkan melakukan buyback tanpa perlu lebih dulu meminta persetujuan Rapat Umum Pemegang Saham (RUPS), asal sudah menyampaikan keterbukaan informasi ke OJK dan Bursa Efek Indonesia (BEI). Pengumuman ini disampaikan oleh Corporate Secretary MBSS, Rama Urip Nugraha.",
+   "Perusahaan berencana membeli kembali maksimal 42.169.641 saham, atau setara 2,41 persen dari total saham yang telah diterbitkan, dengan jumlah pasti tetap memperhitungkan porsi saham yang beredar bebas di publik (free float). Dana yang dianggarkan maksimal Rp200 miliar, seluruhnya berasal dari kas internal, bukan dari dana hasil penawaran umum maupun pinjaman atau utang dalam bentuk apa pun. Proses pembelian dilakukan lewat BEI melalui satu perantara pedagang efek yang akan ditunjuk perusahaan, tanpa batas volume harian, dengan harga mengacu pada aturan POJK No. 29/2023. Periode pembelian berlangsung 22 Oktober 2026 hingga 21 Januari 2027, maksimal tiga bulan sejak keterbukaan informasi ini terbit. Selama periode itu, anggota direksi, komisaris, pemegang saham utama, dan pihak yang punya akses informasi orang dalam dilarang bertransaksi saham MBSS pada hari yang sama dengan aksi buyback perusahaan.",
+   "Dalam simulasi dampak keuangan berdasarkan laporan keuangan per 30 Juni 2026, laba bersih perusahaan tidak berubah di angka Rp203,79 miliar, sementara total aset turun dari Rp4,79 triliun menjadi Rp4,59 triliun dan total ekuitas turun dari Rp4,13 triliun menjadi Rp3,93 triliun, masing-masing berkurang Rp200 miliar sesuai dana yang dipakai untuk buyback. Laba per saham dasar diperkirakan tetap di Rp116,45. Saham hasil buyback akan diputuskan nasibnya dalam 30 hari setelah periode pembelian selesai atau seluruh rencana terlaksana, dengan opsi dijual kembali, ditarik lewat pengurangan modal, dipakai untuk program kepemilikan saham karyawan atau direksi dan komisaris, konversi efek ekuitas, dibagikan proporsional ke pemegang saham, atau cara lain dengan persetujuan OJK. Selama masih berstatus saham treasuri, saham tersebut tidak memiliki hak suara, tidak dihitung dalam kuorum rapat, dan tidak mendapat dividen."
+  ],
+  "fotoAdegan": "Tugboat towing a loaded barge along a calm Indonesian coastal waterway, overcast sky, distant port cranes",
+  "takeaway": "Rencana ini condong netral bagi fundamental MBSS: dibiayai penuh dari kas internal tanpa menambah utang dan laba per saham dalam simulasi tidak berubah, tapi di sisi lain ekuitas perusahaan otomatis menyusut sekitar Rp200 miliar begitu dana itu dipakai, jadi bukan sinyal positif murni juga. Ekuitas adalah kekayaan bersih milik pemegang saham setelah dikurangi utang, jadi penyusutannya berarti modal sendiri perusahaan mengecil, meski perusahaan menegaskan modal kerja dan arus kasnya tetap cukup untuk operasional. Konteksnya penting: pekan lalu Wibowo Group Capital baru menguasai 90,09 persen saham MBSS lewat tender wajib, sehingga porsi saham yang beredar bebas di publik sudah menyusut, dan buyback ini bisa makin mempersempit saham yang bisa diperdagangkan investor ritel. Yang perlu dipantau adalah realisasi pembelian sepanjang 22 Oktober 2026 hingga 21 Januari 2027, serta keputusan perusahaan soal nasib saham hasil buyback dalam 30 hari setelah periode itu berakhir, apakah dijual lagi, ditarik lewat pengurangan modal, atau dibagikan ke karyawan dan jajaran direksi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wisl-siapkan-rp500-miliar-lunasi-obligasi-jatuh-tempo-17-november",
+  "category": "Aksi Korporasi",
+  "title": "WISL Siapkan Rp500 Miliar Lunasi [Obligasi] Jatuh Tempo 17 November",
+  "deck": "PT Wahana Inti Selaras (WISL) menyatakan siap membayar pokok Obligasi Berkelanjutan I Tahap II 2025 sebesar Rp500 miliar yang jatuh tempo 17 November 2026, menggunakan kas dan penagihan piutang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T16:24:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d96a830727_cf90706a47.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WISL",
+  "tags": [
+   "WISL",
+   "obligasi",
+   "Indomobil",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Wahana Inti Selaras (WISL) melaporkan kepada Bursa Efek Indonesia bahwa Obligasi Berkelanjutan I Wahana Inti Selaras Tahap II Tahun 2025 akan jatuh tempo pada 17 November 2026. Perusahaan menyatakan akan menyediakan dana pembayaran pokok obligasi tersebut sebesar Rp500 miliar.",
+   "Dana pelunasan itu akan diambil dari kas perusahaan serta hasil penagihan piutang usaha. Dalam laporannya, WISL menyebut posisi kas perusahaan per Juni 2026 tercatat lebih dari Rp2,12 triliun, sementara posisi piutang usaha mencapai lebih dari Rp2,89 triliun.",
+   "Laporan bertanggal 21 Oktober 2026 ini disampaikan ke bursa oleh Corporate Secretary WISL, Heryanto Ali, dan ditandatangani oleh Direktur Utama Bambang Prijorio SP serta Direktur Bunyamin Pranoto. Perusahaan menegaskan tidak ada dampak material dari rencana pembayaran ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Rows of heavy-duty trucks and construction equipment parked in an open distribution yard, workers inspecting vehicles under afternoon light",
+  "takeaway": "Laporan ini condong positif bagi WISL karena kas perusahaan yang tercatat lebih dari Rp2,12 triliun per Juni 2026 jauh melebihi kebutuhan pembayaran pokok obligasi sebesar Rp500 miliar, sehingga risiko gagal bayar utang ini terlihat kecil. Yang tersentuh di sini adalah posisi arus kas dan piutang usaha, dua pos yang jadi perhatian investor obligasi karena menunjukkan seberapa cepat perusahaan bisa mengubah aset menjadi uang tunai untuk melunasi utang yang jatuh tempo. Piutang usaha yang disebut mencapai lebih dari Rp2,89 triliun juga ikut dijadikan sumber dana, artinya sebagian pelunasan bergantung pada seberapa lancar pelanggan WISL membayar tagihan mereka. Yang perlu dipantau selanjutnya adalah realisasi pembayaran pokok obligasi pada tanggal jatuh tempo, 17 November 2026, untuk memastikan rencana ini benar-benar terlaksana sesuai jadwal.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "sanksi-pajak-bisa-dihapus-penuh-sampai-desember-2026",
   "category": "Makroekonomi",
   "title": "Sanksi Pajak Bisa [Dihapus] Penuh Sampai Desember 2026",
@@ -52,6 +182,137 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan suku bunga utama, tapi dua alat lain: bunga simpanan bank di BI naik ke 5 persen, dan insentif bagi investor asing yang memakai kontrak lindung nilai dolar diperbesar, dengan klaim sudah menarik US$9,9 miliar dana asing sejak Juni 2026. Yang kena dampak langsung adalah bank dan investor asing pemegang SRBI dan SBN, sementara masyarakat umum baru terasa dampaknya lewat harga barang impor kalau rupiah terus melemah. Pola ini menunjukkan BI condong memakai alat yang menyasar langsung pasar valuta asing ketimbang menaikkan BI-Rate, kemungkinan karena ingin tetap menjaga penyaluran kredit ke sektor riil tidak terhambat. Arah ini akan lebih jelas dari dua hal: apakah rupiah berhenti melemah menjelang rapat dewan gubernur berikutnya, dan apakah aliran modal masuk ke SRBI dan SBN di sisa kuartal keempat 2026 cukup kuat menutup keluarnya dana dari pasar saham.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "gtra-teken-fasilitas-kredit-rp195-miliar-dari-bank-mandiri",
+  "category": "Aksi Korporasi",
+  "title": "GTRA Teken Fasilitas Kredit [Rp195 Miliar] dari Bank Mandiri",
+  "deck": "Grahaprima Suksesmandiri (GTRA) menandatangani perjanjian kredit investasi senilai Rp195 miliar dengan Bank Mandiri untuk membeli truk baru, setara 44,2 persen dari ekuitas perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T16:01:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcd2ea60ab_aa2d13c631.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTRA",
+  "tags": [
+   "GTRA",
+   "pinjaman korporasi",
+   "Bank Mandiri",
+   "transaksi material"
+  ],
+  "body": [
+   "PT Grahaprima Suksesmandiri Tbk (GTRA) menandatangani Perjanjian Pinjaman Kredit Investasi dengan PT Bank Mandiri (Persero) Tbk pada 16 Oktober 2026, dengan nilai pokok fasilitas kredit sebesar Rp195 miliar. Dana ini rencananya dipakai untuk membeli truk komersial baru guna mendukung bisnis perusahaan yang bergerak di bidang angkutan bermotor untuk barang umum.",
+   "Berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, ekuitas GTRA tercatat Rp441,25 miliar, sehingga nilai pinjaman ini mencapai sekitar 44,2 persen dari total ekuitas perusahaan. Dengan porsi sebesar itu, transaksi digolongkan sebagai transaksi material menurut POJK Nomor 17/2020. Namun karena dananya berupa pinjaman yang diterima langsung dari bank, perusahaan dikecualikan dari kewajiban memakai penilai independen dan meminta persetujuan RUPS terlebih dahulu, sesuai Pasal 11 huruf b aturan tersebut.",
+   "Jangka waktu pinjaman adalah 98 bulan, terdiri dari periode penarikan dana 12 bulan, masa tenggang dua bulan untuk setiap penarikan, dan masa pelunasan 84 bulan setelah masa tenggang berakhir, dengan jatuh tempo maksimum tujuh tahun sejak masing-masing penarikan. Bunga ditetapkan 8,5 persen per tahun dan bisa berubah mengikuti kebijakan Bank Mandiri. Sebagai jaminan, GTRA memberikan fidusia atas setiap truk yang dibiayai sebesar 111 persen dari plafon kredit, ditambah jaminan pribadi dari Komisaris Utama Ardi Supriyadi dan Direktur Utama Ronny Senjaya.",
+   "Perseroan menyatakan tidak ada hubungan afiliasi dengan Bank Mandiri, dan transaksi ini diklaim tidak berdampak material terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha. Manajemen menyebut tujuan pembelian truk baru ini untuk memenuhi permintaan pelanggan yang meningkat, menambah omzet lewat penambahan unit, dan meremajakan kendaraan lama yang biaya perawatannya sudah tinggi."
+  ],
+  "fotoAdegan": "Rows of commercial cargo trucks parked in a logistics yard at dawn, workers checking tires and cargo straps, Jakarta industrial area",
+  "takeaway": "Pinjaman ini condong netral bagi GTRA: dananya dipakai untuk ekspansi armada yang berpotensi menambah pendapatan, tapi nilainya setara 44,2 persen dari ekuitas sehingga menambah beban utang yang cukup besar bagi perusahaan berskala menengah ini. Yang tersentuh adalah beban bunga, pinjaman Rp195 miliar dengan bunga 8,5 persen per tahun berarti potensi beban bunga tahunan di atas Rp16 miliar yang akan membebani laba dan arus kas perusahaan ke depan, sementara jaminan berupa fidusia kendaraan plus jaminan pribadi dari dua pengurus menunjukkan bank meminta mitigasi risiko tambahan atas pinjaman sebesar itu. Yang perlu dipantau berikutnya adalah seberapa cepat truk baru ini mulai menghasilkan pendapatan tambahan untuk mengimbangi cicilan dan bunga, serta realisasi penarikan dana dalam periode 12 bulan sejak pengikatan kredit yang akan menentukan kapan masa pelunasan pokok 84 bulan mulai berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pudp-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PUDP Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Diminta BEI menjelaskan pergerakan transaksi sahamnya, Pudjiadi Prestige menyatakan tidak mengetahui ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T15:51:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5174cfe91_fea2a90b40.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PUDP",
+  "tags": [
+   "PUDP",
+   "Pudjiadi Prestige",
+   "Unusual Market Activity",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Pudjiadi Prestige Tbk (PUDP) merespons surat Bursa Efek Indonesia nomor S-13243/BEI.PP2/10-2026 tertanggal 19 Oktober 2026 yang meminta penjelasan atas volatilitas transaksi efek perseroan. Jawaban resmi disampaikan Corporate Secretary Erna Heisriyanti pada 21 Oktober 2026.",
+   "Dalam surat balasannya, PUDP menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga sahamnya, baik menurut aturan Otoritas Jasa Keuangan Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga mengatakan tidak mengetahui ada aktivitas pemegang saham tertentu yang bisa memengaruhi harga efeknya, dan pemegang saham utama belum memiliki rencana apa pun terkait kepemilikan sahamnya di perseroan.",
+   "Soal rencana aksi korporasi, PUDP menegaskan belum ada yang akan dijalankan dalam tiga bulan mendatang, termasuk yang berdampak pada status pencatatan sahamnya di bursa. Perseroan menyebut masih menjalankan usahanya sesuai keputusan Rapat Umum Pemegang Saham untuk tahun buku 2025, dan tidak ada informasi penting lain yang material bagi harga saham atau kelangsungan usahanya yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "A classic hotel lobby with marble floors and chandeliers, staff moving luggage carts, soft morning light through tall windows",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental PUDP karena isinya murni bantahan rutin, tidak ada data baru soal kinerja, transaksi, atau perubahan kepemilikan yang bisa diukur. Dokumen ini sendiri tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham, karena fungsinya hanya menjaga transparansi informasi sesuai aturan OJK, bukan melaporkan angka keuangan. Pelaku pasar tetap perlu tahu bahwa BEI sampai meminta klarifikasi berarti sempat ada pergerakan transaksi saham PUDP yang di luar kebiasaan, meski perseroan mengaku tidak tahu sebabnya. Yang perlu dipantau berikutnya adalah apakah BEI kembali mengeluarkan permintaan serupa atau status Unusual Market Activity pada saham PUDP dalam waktu dekat, karena dokumen ini sendiri tidak menyebut tanggal atau agenda korporasi konkret ke depan selain mengacu pada keputusan RUPS tahun buku 2025.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ssms-karhutla-tak-ganggu-operasional-dan-produksi-2026",
+  "category": "Aksi Korporasi",
+  "title": "SSMS: [Karhutla] Tak Ganggu Operasional dan Produksi 2026",
+  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, SSMS menyatakan seluruh operasinya di Kalimantan Tengah belum terdampak, baik secara produksi maupun hukum.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T15:33:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c659cb2679_4ec4878f61.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SSMS",
+  "tags": [
+   "SSMS",
+   "karhutla",
+   "sawit",
+   "Kalimantan Tengah"
+  ],
+  "body": [
+   "PT Sawit Sumbermas Sarana Tbk. (SSMS) menjawab surat Bursa Efek Indonesia bernomor S-13029/BEI.PP1/10-2026 tanggal 13 Oktober 2026, yang meminta penjelasan terkait meningkatnya kejadian kebakaran hutan dan lahan (karhutla) di berbagai wilayah Indonesia berdasarkan pemberitaan media dan data titik panas pemerintah. Dalam surat balasan bertanggal 15 Oktober 2026 yang diunggah ke bursa pada 21 Oktober 2026, Corporate Secretary SSMS, Deni Agustinus Damayanto, menyatakan bahwa seluruh wilayah operasional, konsesi, dan aset perseroan berada di Kalimantan Tengah. Perusahaan merinci sepuluh entitas yang mengelola lahan tersebut: PT Sawit Sumbermas Sarana Tbk., PT Kalimantan Sawit Abadi, PT Mitra Mendawai Sejati, dan PT Citra Borneo Utama Tbk. di Kabupaten Kotawaringin Barat; PT Sawit Mandiri Lestari, PT Tanjung Sawit Abadi, PT Sawit Multi Utama, dan PT Mirza Pratama Putra di Kabupaten Lamandau; PT Menteng Kencana Mas di Kabupaten Pulang Pisau; serta PT Surya Borneo Industri di Kotawaringin Barat.",
+   "Menjawab pertanyaan inti bursa, SSMS menegaskan kontribusi kesepuluh entitas tersebut terhadap total produksi dan pendapatan perseroan tidak mengalami perubahan, dan hingga saat surat ditulis karhutla tidak berdampak pada kegiatan operasional maupun target produksi tahun 2026. Perseroan juga menyatakan tidak ada dampak terhadap pendapatan, laba, maupun nilai aset, serta tidak ada penghentian operasional yang tidak terencana (unplanned shutdown) di lokasi atau lahan manapun. Soal risiko hukum, SSMS memastikan tidak sedang menghadapi proses hukum atau sanksi administratif terkait karhutla, termasuk penyegelan lahan, penyelidikan, gugatan, maupun pencabutan izin, dan tidak ada informasi material lain soal karhutla yang belum diungkapkan ke publik.",
+   "Sebagai langkah mitigasi, perseroan menyebut telah mendirikan dan mengoptimalkan posko karhutla untuk mendukung tim tanggap darurat yang sudah dibentuk, memastikan sarana dan prasarana pemadaman kebakaran tersedia dalam jumlah memadai, serta memperketat pengawasan di sepanjang batas perkebunan melalui pemantauan rutin menggunakan drone, pengecekan ketersediaan air, dan memastikan akses jalan tetap mudah dilalui."
+  ],
+  "fotoAdegan": "A worker in work uniform checking a water tank near a palm oil plantation boundary under a hazy sky, Central Kalimantan",
+  "takeaway": "Laporan ini netral bagi fundamental SSMS, karena isinya hanya menegaskan bahwa karhutla belum mengubah angka produksi, pendapatan, laba, atau nilai aset perseroan, tanpa ada data baru yang mengubah penilaian. Yang disentuh di sini sebetulnya bukan laporan keuangan, melainkan risiko operasional dan hukum, sebab kalau karhutla sampai memicu sanksi seperti penyegelan lahan atau pencabutan izin, barulah itu bisa langsung memukul kapasitas produksi dan pendapatan perusahaan sawit yang seluruh lahannya terkonsentrasi di satu provinsi. Karena konsentrasi lokasi itu, pasar modal wajar mencermati jawaban SSMS yang menyatakan belum ada proses hukum maupun gugatan terkait karhutla sampai saat surat ini terbit. Yang perlu dipantau selanjutnya adalah perkembangan data titik panas di Kotawaringin Barat, Lamandau, dan Pulang Pisau pada bulan-bulan mendatang, serta apakah Bursa Efek Indonesia akan meminta klarifikasi lanjutan jika situasi karhutla di wilayah tersebut memburuk.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jsmr-jawab-permintaan-bei-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "JSMR Jawab Permintaan BEI soal [Volatilitas] Saham",
+  "deck": "Jasa Marga menegaskan tidak ada informasi material yang disembunyikan, dan menyebut pelemahan sahamnya bisa terkait sentimen peninjauan status pasar RI oleh MSCI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T15:04:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a9714d448_a713470015.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JSMR",
+  "tags": [
+   "JSMR",
+   "volatilitas saham",
+   "RUPSLB",
+   "MSCI"
+  ],
+  "body": [
+   "PT Jasa Marga Tbk menjawab surat Bursa Efek Indonesia nomor S-13234/BEI.PP2/10-2026 tertanggal 19 Oktober 2026 perihal permintaan penjelasan atas volatilitas transaksi efek perseroan. Dalam surat tanggapan tertanggal 20 Oktober 2026 yang diteken Trias Andriyanto, Corporate Secretary & Chief Administration Officer Jasa Marga, perusahaan menyatakan tidak memiliki informasi atau fakta material yang belum diungkapkan ke publik dan dapat mempengaruhi nilai efek maupun keputusan investasi pemodal.",
+   "Jasa Marga juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang mempengaruhi harga saham, dan belum menerima laporan perubahan kepemilikan saham yang bersifat material pada periode yang dipertanyakan Bursa. Soal pergerakan harga sahamnya, perseroan menyebut pasar saham Indonesia secara umum sedang tertekan akibat potensi peninjauan ulang oleh MSCI atas status pasar Indonesia, dan pergerakan saham JSMR dimungkinkan ikut terpengaruh sentimen pasar tersebut.",
+   "Terkait rencana aksi korporasi, Jasa Marga menegaskan kembali agenda yang sudah diumumkan sebelumnya, yakni Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada 25 November 2026, dengan pemanggilan resmi pada 3 November 2026. Mata acara lengkap RUPSLB baru akan diumumkan bersamaan dengan pemanggilan tersebut. Di luar RUPSLB itu, perseroan menyatakan tidak ada rencana aksi korporasi lain dalam waktu dekat yang berdampak pada pencatatan sahamnya di bursa, dan belum memperoleh informasi soal rencana pemegang saham utama atas kepemilikan sahamnya."
+  ],
+  "fotoAdegan": "Aerial view of an elevated toll highway busy with vehicles at dusk, city skyline silhouette fading into the haze",
+  "takeaway": "Laporan ini netral bagi Jasa Marga, karena isinya hanya penegasan rutin bahwa tidak ada informasi penting yang belum diumumkan, bukan kabar baru soal kinerja perusahaan. Tidak ada pos kinerja seperti modal usaha, arus kas, beban bunga, atau jumlah saham beredar yang tersentuh di sini, sebab surat ini memang hanya menjawab pertanyaan bursa soal pergerakan harga saham yang tidak biasa, bukan laporan keuangan. Yang justru disinggung adalah kondisi pasar secara luas, yaitu rencana MSCI, penyedia indeks saham global yang jadi acuan banyak dana asing, meninjau ulang status pasar Indonesia, dan Jasa Marga menyebut tekanan pada sahamnya bisa ikut terbawa sentimen itu, bukan karena masalah internal perusahaan. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPSLB pada 3 November 2026, saat agenda lengkap rapat yang dijadwalkan 25 November 2026 itu baru akan diumumkan ke publik.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "toba-jadwalkan-rupslb-27-november-dps-ditutup-4-november",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Jadwalkan [RUPSLB] 27 November, DPS Ditutup 4 November",
+  "deck": "PT TBS Energi Utama Tbk akan menggelar RUPSLB pada 27 November 2026 secara hybrid, dengan pemanggilan resmi berisi agenda rapat baru terbit 5 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T15:04:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/846a4c60c9_b9760adb14.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "RUPSLB",
+   "TBS Energi Utama",
+   "pasar modal"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 27 November 2026 pukul 09.00 WIB di Jakarta. Rapat akan digelar secara hybrid, yaitu fisik dan elektronik, mengikuti aturan OJK soal pelaksanaan RUPS secara elektronik. Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan belakangan, yaitu pada Kamis, 5 November 2026, melalui situs web perseroan, situs Bursa Efek Indonesia, dan sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia.",
+   "Perseroan menetapkan 4 November 2026 pukul 16.00 WIB sebagai tanggal Daftar Pemegang Saham (DPS). Hanya pemegang saham yang namanya tercatat pada tanggal dan jam tersebut, baik yang sahamnya disimpan secara elektronik di KSEI maupun dalam bentuk warkat fisik, yang berhak hadir, diwakili, atau memberikan suara dalam RUPSLB ini. Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, asalkan diajukan bersama-sama oleh pemegang minimal 1/20 atau 5 persen dari total saham perseroan dengan hak suara sah, disampaikan tertulis kepada Direksi paling lambat tujuh hari sebelum pemanggilan rapat, dan memenuhi syarat seperti disertai alasan serta tidak bertentangan dengan Anggaran Dasar.",
+   "Untuk pemberian suara, perseroan menyediakan fasilitas e-Proxy melalui eASY.KSEI yang bisa diakses sejak tanggal pemanggilan rapat hingga satu hari kerja sebelum rapat, yaitu Kamis, 26 November 2026. Sebagai alternatif, pemegang saham dapat memberi kuasa tertulis kepada perwakilan independen yang ditunjuk perseroan menggunakan formulir yang bisa diunduh di situs web perseroan, atau mengirimkannya ke biro administrasi efek perseroan, PT Datindo Entrycom, di Jalan Hayam Wuruk Nomor 28, Jakarta. Pengumuman ini ditandatangani secara elektronik oleh Corporate Secretary TOBA, Pingkan Ratna Melati, pada 21 Oktober 2026."
+  ],
+  "fotoAdegan": "Empty rows of chairs facing a podium inside a large corporate meeting hall, soft morning light through tall windows",
+  "takeaway": "Pengumuman ini netral karena sifatnya masih prosedural, yaitu sekadar memberi tahu rencana dan tanggal RUPSLB tanpa membocorkan agenda atau keputusan apa yang akan diambil, sehingga belum ada dampak fundamental yang bisa dinilai dari dokumen ini sendiri. Pos kinerja yang relevan untuk dipantau baru akan jelas setelah agenda terbit, misalnya apakah rapat ini menyentuh struktur permodalan atau jumlah saham beredar, mengingat TOBA pekan ini juga baru mengumumkan pendanaan S$555 juta dan pengalihan saham anak usaha senilai S$138,2 juta yang keduanya berpotensi memerlukan persetujuan pemegang saham. Yang perlu dipantau pemegang saham adalah pemanggilan resmi pada 5 November 2026 yang akan memuat agenda rapat, tanggal DPS 4 November 2026 pukul 16.00 WIB yang menentukan siapa berhak memberi suara, batas akhir e-Proxy pada 26 November 2026, dan pelaksanaan RUPSLB itu sendiri pada 27 November 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "ihsg-dibuka-menguat-ke-level-5-310-85",
@@ -370,6 +631,32 @@ var ARTICLES = [
   "imageV": "mvhnm2ba"
  },
  {
+  "slug": "mtdl-psi-hapus-6-saham-treasuri-kepemilikan-berubah",
+  "category": "Aksi Korporasi",
+  "title": "MTDL: PSI Hapus 6% Saham [Treasuri], Kepemilikan Berubah",
+  "deck": "Entitas asosiasi Metrodata, PT Packet Systems Indonesia, membatalkan 79.560 saham treasuri dari buyback Juni 2026, mengubah porsi kepemilikan MTDL dan Logicalis Singapore.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T09:34:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f012ef1bb9_44debb0b84.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTDL",
+  "tags": [
+   "MTDL",
+   "Packet Systems Indonesia",
+   "entitas asosiasi",
+   "saham treasuri"
+  ],
+  "body": [
+   "PT Metrodata Electronics Tbk (MTDL) menyampaikan keterbukaan informasi mengenai pengurangan modal di PT Packet Systems Indonesia (PSI), entitas asosiasi perseroan. Berdasarkan Akta Pernyataan Keputusan Pemegang Saham PSI Nomor 224 tanggal 26 Agustus 2026, PSI menyetujui penghapusan 79.560 lembar saham treasuri yang setara 6 persen dari modal PSI. Keputusan ini resmi berlaku setelah mendapat persetujuan perubahan anggaran dasar dari Kementerian Hukum Republik Indonesia melalui keputusan Nomor AHU-0113061.AH.01.02 Tahun 2026 serta surat penerimaan pemberitahuan Nomor AHU-AH.01.03-026729, keduanya tertanggal 20 Oktober 2026.",
+   "Saham treasuri yang dihapus itu sebelumnya diperoleh PSI lewat pembelian kembali saham (buyback) pada 17 Juni 2026. Dengan penghapusan ini, susunan pemegang saham PSI berubah menjadi: Metrodata Electronics memegang 367.316 lembar saham dengan porsi kepemilikan 29,5 persen, sementara Logicalis Singapore Pte Ltd memegang 879.115 lembar saham atau 70,5 persen. Jumlah saham yang dipegang Metrodata sendiri tidak bertambah, namun porsinya naik karena total saham beredar PSI mengecil setelah saham treasuri dihapus.",
+   "Dalam dokumen itu, Metrodata menyatakan aksi korporasi di level entitas asosiasi ini tidak berdampak pada aktivitas operasional, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ditandatangani oleh Corporate Secretary Metrodata, Randy Kartadinata, dan disampaikan ke Otoritas Jasa Keuangan serta Bursa Efek Indonesia dan Kustodian Sentral Efek Indonesia pada 21 Oktober 2026."
+  ],
+  "fotoAdegan": "Technicians inspecting server racks and networking cables in a dim, blue-lit data center aisle, Jakarta technology park.",
+  "takeaway": "Laporan ini netral bagi Metrodata karena perubahannya murni administratif di tingkat entitas asosiasi, tanpa ada uang yang masuk atau keluar dari kas Metrodata sendiri. Pos yang tersentuh adalah porsi kepemilikan atau ekuitas Metrodata di PSI, yang naik dari sekitar 27,7 persen menjadi 29,5 persen, bukan karena Metrodata menambah pembelian saham, melainkan karena PSI menghapus saham treasurinya sendiri sehingga total saham beredar PSI mengecil. Perubahan porsi kepemilikan semacam ini diperhatikan pelaku pasar karena ikut menentukan berapa besar bagian laba PSI yang nantinya tercatat dalam pembukuan Metrodata lewat metode ekuitas, meski jumlah lembar saham yang dipegang Metrodata sendiri tidak berubah sama sekali. Yang perlu dipantau selanjutnya adalah bagaimana kenaikan porsi kepemilikan ini tercermin pada nilai investasi Metrodata di PSI pada laporan keuangan berikutnya, mengingat perubahan anggaran dasar PSI baru disahkan Kementerian Hukum pada 20 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "idea-jadwalkan-ulang-rupslb-ke-12-november-2026",
   "category": "Aksi Korporasi",
   "title": "IDEA Jadwalkan Ulang [RUPSLB] ke 12 November 2026",
@@ -394,6 +681,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty chairs and a podium arranged in a conference hall ahead of a corporate shareholders meeting, soft morning light",
   "takeaway": "Laporan ini netral bagi fundamental IDEA karena isinya sebatas koreksi tanggal rapat, tanpa angka keuangan baru atau nama calon pengganti direksi dan komisaris yang diumumkan. Pos yang tersentuh bukan laporan keuangan melainkan tata kelola perseroan, karena agenda pergantian direksi-komisaris bisa mengubah arah strategi perusahaan ke depan, sementara perubahan anggaran dasar soal klasifikasi usaha hanya menyesuaikan administrasi dengan aturan KBLI 2025 dan tidak mengubah kegiatan usaha senyatanya. Yang perlu dipantau adalah pelaksanaan RUPSLB pada 12 November 2026, terutama siapa yang akhirnya ditetapkan sebagai direksi dan komisaris baru serta hasil persetujuan perubahan anggaran dasar, dengan tenggat pemberian kuasa dan suara elektronik jatuh pada 11 November 2026 pukul 12.00 WIB.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pool-pinjam-rp5-miliar-dari-pemegang-saham-gadai-saham-pola",
+  "category": "Aksi Korporasi",
+  "title": "POOL Pinjam Rp5 Miliar dari Pemegang Saham, [Gadai] Saham POLA",
+  "deck": "Pool Advista menerima pinjaman Rp5 miliar dari pemegang sahamnya, PT Prodana Indo Investa, dengan jaminan gadai saham anak usaha POLA, untuk membayar biaya kepatuhan dan tunggakan gaji karyawan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T08:13:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6daaf61d54_eb537e42f2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POOL",
+  "tags": [
+   "POOL",
+   "POLA",
+   "Transaksi Afiliasi",
+   "Pinjaman"
+  ],
+  "body": [
+   "PT Pool Advista Indonesia Tbk (POOL) mengumumkan telah menerima fasilitas pinjaman sebesar Rp5 miliar dari PT Prodana Indo Investa, pemegang saham Perseroan yang memiliki 4,3 persen saham POOL. Pinjaman ini tertuang dalam Perjanjian Fasilitas Pinjaman Likuiditas Nomor 005/Perj.PAI-PII/X/2026 tanggal 8 Oktober 2026, yang sudah disetujui direksi dalam rapat 29 September 2026 dan mendapat izin Dewan Komisaris. Transaksi tercatat berlaku pada 20 Oktober 2026.",
+   "Sebagai jaminan, Perseroan menggadaikan 125.000.000 lembar saham anak usahanya, PT Pool Advista Finance Tbk (POLA), yang setara 3,73 persen dari modal ditempatkan dan disetor POLA. Rasio pinjaman terhadap nilai jaminan ditetapkan 50 persen. Bunga pinjaman sebesar 3 persen per tahun net, dengan jangka waktu 12 bulan sejak dana dicairkan dan opsi perpanjangan satu kali maksimal 6 bulan. Perseroan juga mengizinkan Prodana menjaminkan kembali saham jaminan tersebut ke pihak ketiga pemberi dana jika diperlukan, tanpa menambah jumlah saham jaminan yang wajib disediakan POOL.",
+   "Transaksi ini digolongkan sebagai transaksi afiliasi karena Teuku Johas Raffli menjabat Direktur Utama di POOL sekaligus di Prodana. Dalam dokumennya, Perseroan menyatakan dana pinjaman dipakai untuk menyelesaikan kewajiban kepatuhan dan tata kelola, antara lain honorarium auditor, biaya konsultan penilai atau appraisal, iuran kepada OJK dan BEI, serta tunggakan gaji dan kompensasi karyawan."
+  ],
+  "fotoAdegan": "Exterior view of modern office towers in Jakarta's financial district, glass facades reflecting late afternoon sun, light traffic below",
+  "takeaway": "Kami menilai laporan ini negatif bagi fundamental POOL, sebab alasan pinjamannya menunjukkan tekanan arus kas, bukan pendanaan untuk ekspansi: sebagian dari Rp5 miliar ini dipakai membayar tunggakan gaji karyawan dan iuran rutin ke OJK dan BEI. Pinjaman ini menambah utang Perseroan yang pekan lalu digambarkan hampir tanpa utang, dan jaminannya berupa gadai 125 juta lembar saham anak usaha POLA, yang berarti saham itu bisa berpindah tangan ke Prodana jika POOL gagal bayar. Bunganya memang relatif murah, 3 persen per tahun, dan datangnya dari pemegang saham sendiri, tetapi kebutuhan akan dana talangan afiliasi untuk membayar gaji karyawan dan biaya kepatuhan menunjukkan kas operasional belum pulih. Yang perlu dipantau adalah jatuh tempo pinjaman, 12 bulan sejak pencairan atau sekitar Oktober 2027 dengan opsi perpanjangan 6 bulan, serta apakah tunggakan gaji karyawan benar-benar lunas setelah dana ini cair.",
+  "sentimen": "negatif"
  },
  {
   "slug": "hatm-laba-bersih-semester-i-2026-turun-53-pendapatan-stagnan",

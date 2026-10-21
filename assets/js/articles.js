@@ -268,7 +268,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah pelaksanaan tiga program sekaligus: realisasi pelatihan vokasi baru 89.337 orang dari target tahunan 340.000 sampai Agustus 2026, magang tahap dua menyasar 150.000 lulusan dengan anggaran Rp4,14 triliun, dan KUR yang sudah tersalur Rp232,66 triliun ke 3,61 juta pelaku usaha per akhir September. Yang terdampak ada tiga kelompok: lulusan baru dan siswa SMK yang butuh pengalaman kerja pertama, pekerja korban PHK yang jadi sasaran pelatihan ulang, dan pelaku UMKM yang mengandalkan KUR sebagai modal. Yang belum bisa dipastikan dari angka-angka ini adalah apakah target vokasi setahun penuh akan tercapai, sebab realisasi baru sekitar seperempat dari target padahal tahun sudah berjalan dua pertiga, dan pemerintah sendiri menyebut 270.000 dari 340.000 peserta baru akan masuk lewat stimulus ekonomi semester kedua. Yang perlu ditunggu adalah laporan realisasi vokasi dan magang di akhir 2026, karena dari situ baru terlihat apakah dorongan di semester kedua berhasil mengejar target atau justru meleset.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "ri-kejar-ratifikasi-ieu-cepa-sebelum-berlaku-2027",
@@ -296,7 +297,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari siaran ini adalah status IEU-CEPA, yang kini masuk tahap finalisasi teknis di Dewan Uni Eropa dengan target ratifikasi semester II 2026 dan mulai berlaku awal 2027, naik satu tahap dari sebelumnya yang masih di tahap perundingan substansi. Pihak yang akan merasakan dampaknya adalah eksportir manufaktur Indonesia yang bergantung pada pasar Uni Eropa, dan pekerja di sektor-sektor itu jika ekspor memang naik seperti diklaim kementerian sebesar US$10,9 miliar. Pola yang terlihat adalah pemerintah mengejar beberapa jalur integrasi ekonomi sekaligus dalam periode yang berdekatan, dari tiga perjanjian dagang, keanggotaan OECD pada 2028, hingga kerja sama digital ASEAN pada 2030, yang mengarah ke strategi membuka banyak pintu pasar secara bersamaan ketimbang fokus menuntaskan satu per satu. Yang akan membuktikan apakah strategi ini berjalan sesuai rencana adalah apakah ratifikasi IEU-CEPA benar tuntas pada semester II 2026 seperti ditargetkan, karena target waktu pada perjanjian dagang semacam ini kerap meleset dari jadwal awal.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "delegasi-bisnis-vanuatu-jajaki-kerja-sama-dagang-di-tei-2026",

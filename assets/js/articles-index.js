@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppgl-panggil-rupslb-bahas-saham-bonus-dan-rombak-direksi",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Panggil RUPSLB, Bahas [Saham Bonus] dan Rombak Direksi",
+  "deck": "PPGL mengoreksi pemanggilan RUPSLB 23 Oktober 2026 yang akan membahas perubahan susunan direksi-komisaris dan pembagian saham bonus dari kapitalisasi modal disetor.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "RUPSLB",
+   "saham bonus",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/08debfa5af_e973230d5c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apex-tuntaskan-konversi-utang-hsbc-jadi-218-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "APEX Tuntaskan [Konversi Utang] HSBC Jadi 218 Juta Saham",
+  "deck": "Apexindo merampungkan penambahan modal tanpa HMETD dengan menukar utang ke dua entitas HSBC menjadi 218 juta saham baru seharga Rp325 per saham, tanpa dana tunai masuk.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APEX",
+   "PMTHMETD",
+   "konversi utang",
+   "HSBC"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8d908de928_a493b6496a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "idea-jadwalkan-ulang-rupslb-ke-12-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Jadwalkan Ulang [RUPSLB] ke 12 November 2026",
+  "deck": "PT Idea Indonesia Akademi Tbk mengoreksi jadwal RUPSLB yang semula 23 Oktober menjadi 12 November 2026, membahas pergantian direksi-komisaris dan revisi anggaran dasar.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDEA",
+   "RUPSLB",
+   "Pergantian Direksi",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d5a7adfde7_00b55c0a4d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "petani-sawit-swadaya-kaltim-ikuti-pelatihan-standar-industri",
   "category": "Industri",
   "title": "Petani Sawit Swadaya Kaltim Ikuti Pelatihan [Standar] Industri",
@@ -20,6 +68,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474125-tingkatkan-produktivitas-petani-swadaya-kaltim-dilatih-praktik-budidaya-sawit-berstandar-industri"
+ },
+ {
+  "slug": "cmnp-jawab-bei-tak-ada-info-tersembunyi-rights-issue-dikaji",
+  "category": "Aksi Korporasi",
+  "title": "CMNP Jawab BEI: Tak Ada Info Tersembunyi, [Rights Issue] Dikaji",
+  "deck": "Menanggapi permintaan BEI soal volatilitas transaksi sahamnya, CMNP menegaskan tidak ada informasi material yang disembunyikan dan rencana rights issue PUT III HMETD masih dalam tahap kajian.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMNP",
+   "volatilitas saham",
+   "rights issue",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/88a2d6c758_441c2dbf01.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kepala-bnppdt-dorong-program-ekonomi-konkret-perbatasan",
@@ -6462,71 +6526,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d31716357_f5ad176a90.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "tiga-pakta-dagang-buka-potensi-ekspor-us-14-7-miliar",
-  "category": "Global",
-  "title": "Tiga Pakta Dagang Buka Potensi Ekspor [US$14,7 Miliar]",
-  "deck": "Pemerintah mendorong pemanfaatan nyata tiga perjanjian dagang baru dengan Uni Eropa, Kanada, dan Uni Ekonomi Eurasia yang menurut kajian Kemenko berpotensi menambah ekspor lebih dari US$14 miliar.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/2-35-juta-umkm-binaan-pnm-naik-kelas-ke-bank-formal.jpg",
-  "tags": [
-   "ekspor",
-   "perjanjian dagang",
-   "CEPA",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7150/dongkrak-pertumbuhan-ekonomi-menko-airlangga-perkuat-kinerja-ekspor",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pemerintah-kejar-implementasi-tiga-cepa-dagang-baru",
-  "category": "Global",
-  "title": "Pemerintah Kejar Implementasi Tiga [CEPA] Dagang Baru",
-  "deck": "Menko Airlangga mendorong percepatan implementasi CEPA dengan Uni Eropa, Kanada, dan Eurasia, yang diproyeksikan mendongkrak ekspor sejumlah komoditas RI.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
-  "tags": [
-   "CEPA",
-   "ekspor",
-   "perdagangan bebas",
-   "Uni Eropa"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7151/bidik-perluasan-pasar-ekspor-menko-airlangga-dorong-percepatan-implementasi-cepa",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "jelang-penandatanganan-defa-kemendag-latih-aparatur-dagang",
-  "category": "Global",
-  "title": "Jelang Penandatanganan [DEFA], Kemendag Latih Aparatur Dagang",
-  "deck": "Kemendag melatih 40 aparatur soal tata kelola perdagangan digital ASEAN menjelang rencana penandatanganan DEFA di KTT ASEAN November 2026.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/jelang-penandatanganan-defa-kemendag-latih-aparatur-dagang.jpg",
-  "imageV": "mv9oseob",
-  "tags": [
-   "DEFA",
-   "ASEAN",
-   "Kemendag",
-   "perdagangan digital"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-kompetensi-aparatur-dalam-tata-kelola-perdagangan-digital-asean",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "sehari-jelang-tei-2026-buyer-dari-134-negara-terdaftar",
-  "category": "Bisnis",
-  "title": "Sehari Jelang TEI 2026, Buyer dari [134] Negara Terdaftar",
-  "deck": "Kemendag meninjau kesiapan Trade Expo Indonesia ke-41 di ICE BSD, Tangerang, yang dibuka Rabu (14/10) dengan calon buyer dari 134 negara dan 1.873 perusahaan peserta.",
-  "date": "13 Oktober 2026",
-  "image": "assets/img/kemasan-produk-gudang.jpg",
-  "tags": [
-   "TEI 2026",
-   "Kemendag",
-   "ekspor",
-   "pameran dagang"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sehari-menuju-tei-2026-mendag-busan-indonesia-siap-sambut-buyer-dari-seluruh-dunia",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

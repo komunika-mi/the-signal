@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ppgl-panggil-rupslb-bahas-saham-bonus-dan-rombak-direksi",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Panggil RUPSLB, Bahas [Saham Bonus] dan Rombak Direksi",
+  "deck": "PPGL mengoreksi pemanggilan RUPSLB 23 Oktober 2026 yang akan membahas perubahan susunan direksi-komisaris dan pembagian saham bonus dari kapitalisasi modal disetor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T09:44:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/08debfa5af_e973230d5c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "RUPSLB",
+   "saham bonus",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) menerbitkan koreksi atas surat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sebelumnya, yakni surat Nomor 001/PGL/X/2026 tertanggal 1 Oktober 2026. Perseroan menegaskan rapat tetap berlangsung Jumat, 23 Oktober 2026 pukul 13.00 WIB, di kantor perseroan di Green Sedayu Bizpark Cakung Blok GS7 Nomor 19, Jakarta Timur. Pemegang saham yang berhak hadir atau memberi kuasa adalah mereka yang tercatat dalam Daftar Pemegang Saham per 30 September 2026 pada penutupan perdagangan.",
+   "RUPSLB ini membawa dua agenda. Pertama, persetujuan perubahan susunan direksi dan dewan komisaris, termasuk kemungkinan pemberhentian, pengangkatan kembali, dan/atau pengangkatan anggota baru beserta masa jabatannya. Perseroan melampirkan riwayat hidup satu nama, Suryanto Widjaja, lahir di Malang pada 1 Desember 1969, yang sejak 2019 menjabat Direktur Sales di PT Graha Inti Kreasindo. Sebelumnya ia tercatat berpindah-pindah posisi di bidang penjualan dan pengembangan bisnis di sejumlah perusahaan sejak 1992, termasuk di PT Anekabangun Eka Pratama, PT Airsindo Multiselaras, dan PT Qnet Indonesia.",
+   "Agenda kedua adalah persetujuan pembagian saham bonus yang berasal dari kapitalisasi tambahan modal disetor perseroan untuk tahun buku yang berakhir 31 Desember 2025, sesuai kewajiban dalam Peraturan OJK Nomor 27/POJK.04/2020 tentang Saham Bonus. Dokumen belum menyebutkan rasio atau jumlah saham bonus yang akan dibagikan. Bagi pemegang saham yang ingin memberi kuasa di luar mekanisme elektronik KSEI, surat kuasa asli wajib dikirim ke Biro Administrasi Efek PT Adimitra Jasa Korpora paling lambat 21 Oktober 2026, sementara pertanyaan melalui jalur e-Proxy dapat diajukan hingga 23 Oktober 2026 pukul 16.00 WIB dan akan dijawab dalam tiga hari kerja setelah rapat."
+  ],
+  "fotoAdegan": "Forklift operators moving stacked cargo pallets inside a large logistics warehouse, morning light filtering through high windows",
+  "takeaway": "Laporan ini netral bagi fundamental PPGL, sebab pembagian saham bonus berasal dari kapitalisasi modal yang sudah ada di kas perseroan, dibagikan proporsional ke semua pemegang saham tanpa ada uang baru yang masuk atau keluar, dan arah rombakan direksi-komisaris belum bisa dinilai karena perannya belum dijelaskan. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, karena menambah jumlah saham membuat laba perseroan terbagi ke lebih banyak lembar sehingga laba per saham turun secara nominal, meski nilai kekayaan dan hak suara tiap pemegang saham tidak berubah karena pembagiannya rata. Yang perlu dipantau adalah hasil RUPSLB pada 23 Oktober 2026, termasuk siapa yang akhirnya disahkan mengisi kursi direksi atau komisaris dan berapa rasio saham bonus yang akan diumumkan setelah rapat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "apex-tuntaskan-konversi-utang-hsbc-jadi-218-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "APEX Tuntaskan [Konversi Utang] HSBC Jadi 218 Juta Saham",
+  "deck": "Apexindo merampungkan penambahan modal tanpa HMETD dengan menukar utang ke dua entitas HSBC menjadi 218 juta saham baru seharga Rp325 per saham, tanpa dana tunai masuk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T09:43:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8d908de928_a493b6496a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "PMTHMETD",
+   "konversi utang",
+   "HSBC"
+  ],
+  "body": [
+   "PT Apexindo Pratama Duta Tbk (APEX) resmi merampungkan pelaksanaan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) pada 19 Oktober 2026. Perseroan menerbitkan 218.090.317 saham baru seri B dengan harga pelaksanaan Rp325 per saham, sama dengan nilai nominalnya. Saham baru itu resmi tercatat di Bursa Efek Indonesia pada 20 Oktober 2026.",
+   "Seluruh saham baru diserap oleh dua pihak, yaitu HSBC Bank PLC yang menerima 62.311.515 saham dan The Hongkong and Shanghai Banking Corporation Limited yang menerima 155.778.802 saham. Jika dihitung dari harga pelaksanaan, nilai penerbitan ini sekitar Rp70,88 miliar, namun Perseroan menegaskan tidak ada dana tunai yang masuk ke kas perusahaan. Penyetoran saham dilakukan dengan mengompensasikan hak tagih utang milik Kreditor Sindikasi Luar Negeri, sebagaimana telah diuraikan dalam rangkaian keterbukaan informasi sejak 31 Agustus, 23 September, 2 Oktober, dan 5 Oktober 2026. Transaksi ini pada dasarnya adalah konversi utang menjadi saham.",
+   "Sebelum transaksi, total modal ditempatkan dan disetor Apexindo berjumlah 3.546.466.661 saham seri A. Setelah penambahan modal ini, total modal ditempatkan dan disetor Perseroan menjadi 3.764.556.978 saham, terdiri dari 3.546.466.661 saham seri A dan 218.090.317 saham seri B baru. Rapat umum pemegang saham terkait transaksi ini sendiri telah digelar pada 7 Oktober 2026, menyusul keterbukaan informasi pada 5 Oktober 2026."
+  ],
+  "fotoAdegan": "Offshore oil drilling rig platform in Indonesian waters, workers in hard hats on deck, cranes and pipes, overcast sky",
+  "takeaway": "Laporan ini netral bagi fundamental Apexindo karena dua dampaknya saling menyeimbangkan: utang ke kreditur sindikasi luar negeri berkurang lewat konversi menjadi saham, tetapi pemegang saham lama terdilusi sekitar 6,15 persen tanpa ada uang tunai yang masuk ke kas perusahaan. Pos yang tersentuh adalah ekuitas dan beban bunga: jumlah saham beredar naik dari 3,55 miliar menjadi 3,76 miliar lembar, sehingga laba perusahaan ke depan akan terbagi ke lebih banyak lembar saham, sementara kewajiban bunga ke kreditur asing itu otomatis berkurang karena utangnya sudah dilunasi dengan saham, bukan uang tunai. Dua entitas HSBC kini bersama memegang 218 juta saham baru tersebut, menjadikan mereka pemegang saham baru dengan porsi suara yang cukup besar di Apexindo. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang untuk melihat seberapa besar penurunan beban bunga dan utang riil perusahaan, serta apakah masih ada tahap lanjutan dari rangkaian keterbukaan informasi yang dimulai sejak 31 Agustus 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "idea-jadwalkan-ulang-rupslb-ke-12-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Jadwalkan Ulang [RUPSLB] ke 12 November 2026",
+  "deck": "PT Idea Indonesia Akademi Tbk mengoreksi jadwal RUPSLB yang semula 23 Oktober menjadi 12 November 2026, membahas pergantian direksi-komisaris dan revisi anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T09:29:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d5a7adfde7_00b55c0a4d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDEA",
+  "tags": [
+   "IDEA",
+   "RUPSLB",
+   "Pergantian Direksi",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Idea Indonesia Akademi Tbk (IDEA) mengoreksi pemberitahuan sebelumnya mengenai Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Rapat yang awalnya diumumkan pada 1 Oktober 2026 untuk digelar Jumat, 23 Oktober 2026, diundur menjadi Kamis, 12 November 2026 pukul 10.00 WIB, bertempat di Aleesha Venue, Jalan Warung Sila Nomor 1, Cipedak, Jagakarsa, Jakarta Selatan. Tanggal pencatatan pemegang saham yang berhak hadir, atau recording date, tetap pada penutupan perdagangan bursa 20 Oktober 2026.",
+   "Ada tiga agenda yang akan dibahas. Pertama, persetujuan perubahan susunan direksi dan dewan komisaris perseroan, yang disebut merujuk pada aturan OJK Nomor 33/POJK.04/2014 serta anggaran dasar perseroan, namun dokumen ini belum menyebutkan nama calon pengganti. Kedua, penegasan susunan pemegang saham sesuai Daftar Pemegang Saham terkini. Ketiga, perubahan Pasal 3 Anggaran Dasar tentang maksud, tujuan, dan kegiatan usaha, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 menyusul terbitnya Peraturan BPS Nomor 7/2025 pada 18 Desember 2025.",
+   "Perseroan tidak mengirim undangan khusus karena pemanggilan ini sudah berlaku sebagai undangan resmi, dengan bahan rapat dapat diakses di situs perseroan sejak 21 Oktober 2026. Pemegang saham bisa hadir fisik atau elektronik lewat aplikasi eASY.KSEI, dengan batas waktu memberi deklarasi kehadiran, kuasa, atau suara pukul 12.00 WIB pada satu hari kerja sebelum rapat, yaitu 11 November 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs and a podium arranged in a conference hall ahead of a corporate shareholders meeting, soft morning light",
+  "takeaway": "Laporan ini netral bagi fundamental IDEA karena isinya sebatas koreksi tanggal rapat, tanpa angka keuangan baru atau nama calon pengganti direksi dan komisaris yang diumumkan. Pos yang tersentuh bukan laporan keuangan melainkan tata kelola perseroan, karena agenda pergantian direksi-komisaris bisa mengubah arah strategi perusahaan ke depan, sementara perubahan anggaran dasar soal klasifikasi usaha hanya menyesuaikan administrasi dengan aturan KBLI 2025 dan tidak mengubah kegiatan usaha senyatanya. Yang perlu dipantau adalah pelaksanaan RUPSLB pada 12 November 2026, terutama siapa yang akhirnya ditetapkan sebagai direksi dan komisaris baru serta hasil persetujuan perubahan anggaran dasar, dengan tenggat pemberian kuasa dan suara elektronik jatuh pada 11 November 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "petani-sawit-swadaya-kaltim-ikuti-pelatihan-standar-industri",
   "category": "Industri",
   "title": "Petani Sawit Swadaya Kaltim Ikuti Pelatihan [Standar] Industri",
@@ -28,6 +106,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang konkret berubah di sini adalah 42 petani swadaya di Kabupaten Berau mengikuti batch ke-109 pelatihan PERKASA, dengan partisipasi perempuan mencapai 40 persen, jauh lebih tinggi dari gambaran umum sektor perkebunan yang biasanya didominasi laki-laki. Yang terdampak jelas dari sisi ceritanya: petani swadaya sawit di sekitar wilayah operasional anak usaha TAP di Kaltim, khususnya warga Desa Biatan Ulu. Tapi untuk membaca ke mana arah program ini, misalnya apakah benar menaikkan hasil kebun petani atau sekadar program tanggung jawab sosial perusahaan yang rutin jalan, datanya belum cukup. Angka batch ke-109 menunjukkan program ini sudah berjalan lama dan berulang, tapi tidak ada angka hasil panen atau pendapatan petani dari batch-batch sebelumnya yang bisa dipakai membandingkan sebelum dan sesudah pelatihan. Yang perlu ditunggu adalah data produktivitas atau pendapatan petani peserta batch-batch terdahulu, bukan sekadar jumlah peserta baru di setiap batch.",
   "imageV": "mvh2n439"
+ },
+ {
+  "slug": "cmnp-jawab-bei-tak-ada-info-tersembunyi-rights-issue-dikaji",
+  "category": "Aksi Korporasi",
+  "title": "CMNP Jawab BEI: Tak Ada Info Tersembunyi, [Rights Issue] Dikaji",
+  "deck": "Menanggapi permintaan BEI soal volatilitas transaksi sahamnya, CMNP menegaskan tidak ada informasi material yang disembunyikan dan rencana rights issue PUT III HMETD masih dalam tahap kajian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T01:47:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/88a2d6c758_441c2dbf01.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMNP",
+  "tags": [
+   "CMNP",
+   "volatilitas saham",
+   "rights issue",
+   "BEI"
+  ],
+  "body": [
+   "PT Citra Marga Nusaphala Persada Tbk (CMNP) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan atas volatilitas transaksi saham perseroan melalui surat BEI nomor S-13266/BEI.PP2/10-2026. Dalam surat balasan bernomor 642/DIR-TU.00/X/2026 tertanggal 20 Oktober 2026 yang diteken Corporate Secretary CMNP, Hasyim, perseroan menegaskan sampai saat ini tidak ada informasi atau fakta material yang dapat mempengaruhi harga saham maupun kelangsungan usaha perseroan yang belum diungkapkan ke publik.",
+   "Perseroan juga menyatakan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu, baik berupa perubahan kepemilikan maupun penjaminan saham, sebagaimana diatur dalam POJK Nomor 4 Tahun 2024. Soal rencana korporasi, CMNP mengonfirmasi bahwa rencana Penawaran Umum Terbatas (PUT) III dengan Hak Memesan Efek Terlebih Dahulu, yang sudah disetujui pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa pada 26 Mei 2026, saat ini masih dalam tahap analisis dan kajian internal dan belum ada jadwal pelaksanaan baru.",
+   "Mengenai sikap pemegang saham utama, perseroan menyampaikan bahwa pihak tersebut tidak memiliki rencana apa pun terhadap kepemilikannya dan berniat mempertahankan posisinya di CMNP. Seluruh jawaban ini disampaikan perseroan melalui sistem pelaporan elektronik IDXNET pada 21 Oktober 2026 dini hari."
+  ],
+  "fotoAdegan": "Wide shot of vehicles flowing through an elevated toll road interchange in Jakarta, overcast afternoon light, signage blurred in the distance",
+  "takeaway": "Surat ini condong netral bagi CMNP, karena isinya hanya menegaskan tidak ada kejutan tersembunyi di balik gerak saham dan belum ada keputusan baru soal rencana penambahan modal sejak disetujui pemegang saham Mei lalu. Yang perlu dicermati investor adalah rencana PUT III HMETD itu sendiri, yakni penjualan saham baru kepada pemegang saham lama dengan hak membeli lebih dulu. Kalau nanti benar dijalankan, jumlah saham beredar CMNP akan bertambah, yang bisa membuat laba per saham tergerus karena laba yang sama kini dibagi ke lebih banyak lembar saham. Sikap pemegang saham utama yang menyatakan tetap mempertahankan kepemilikannya juga patut dicatat, karena berarti dilusi dari rights issue ini kemungkinan ditanggung merata, bukan karena ada pihak besar yang mau keluar. Yang perlu dipantau selanjutnya adalah kapan kajian PUT III HMETD ini rampung dan diumumkan detailnya, termasuk harga pelaksanaan dan jadwal rights issue, karena restu RUPSLB sudah ada sejak 26 Mei 2026 namun realisasinya belum dijadwalkan sampai surat ini terbit pada 20 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "kepala-bnppdt-dorong-program-ekonomi-konkret-perbatasan",

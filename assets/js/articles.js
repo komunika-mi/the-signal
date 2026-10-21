@@ -3,6 +3,83 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sanksi-pajak-bisa-dihapus-penuh-sampai-desember-2026",
+  "category": "Makroekonomi",
+  "title": "Sanksi Pajak Bisa [Dihapus] Penuh Sampai Desember 2026",
+  "deck": "Pemerintah memberi keringanan sanksi administratif pajak secara bertahap sampai pertengahan 2027, mulai dari penghapusan penuh hingga akhir 2026.",
+  "image": "assets/img/sanksi-pajak-bisa-dihapus-penuh-sampai-desember-2026.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T09:07:54.151Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kanwil-djp-jakarta-utara-gelar-fgd-pelaksanaan-pmk-71-pengurangan-sanksi-administratif",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "PMK 71/2026",
+   "DJP",
+   "Sanksi Pajak",
+   "Wajib Pajak"
+  ],
+  "body": [
+   "Kantor Wilayah Direktorat Jenderal Pajak (DJP) Jakarta Utara menggelar forum diskusi dengan asosiasi konsultan pajak untuk mensosialisasikan PMK Nomor 71 Tahun 2026, aturan yang memberi keringanan sanksi administratif perpajakan. Kebijakan ini penting bagi wajib pajak yang memiliki tunggakan sanksi karena besaran potongannya menyusut seiring waktu, sehingga semakin cepat mengajukan, semakin besar keringanan yang bisa didapat.",
+   "PMK Nomor 71 Tahun 2026 merupakan revisi atas PMK Nomor 118 Tahun 2024 tentang tata cara pembetulan, keberatan, pengurangan, penghapusan, dan pembatalan di bidang perpajakan, dan berlaku sejak diundangkan pada 2 Oktober 2026. Sebagai aturan turunannya, Direktur Jenderal Pajak menerbitkan Keputusan Nomor KEP-239/PJ/2026 yang mulai berlaku 8 Oktober 2026 dan mengatur mekanisme pengurangan atau penghapusan sanksi administratif. Besarannya dibagi tiga periode, sanksi dihapus 100 persen untuk pengajuan pada 8 Oktober sampai 31 Desember 2026, dikurangi 50 persen untuk periode 1 Januari sampai 31 Maret 2027, lalu terus mengecil pada periode berikutnya hingga 30 Juni 2027.",
+   "Fasilitas ini tidak otomatis berlaku untuk semua wajib pajak. Menurut Kepala Bidang Penyuluhan, Pelayanan, dan Hubungan Masyarakat Kanwil DJP Jakarta Utara, Sonny Agustinus, wajib pajak harus menyampaikan surat pernyataan dan tidak mengajukan upaya hukum lain untuk bisa memanfaatkan program ini. Wajib pajak yang masih berada dalam proses keberatan tetap bisa ikut, dengan syarat mencabut keberatannya sesuai ketentuan yang berlaku. Ia juga mengingatkan agar jangka waktu pelunasan pokok pajak dan jangka waktu permohonan pengurangan sanksi dipahami sebagai dua hal berbeda, agar tidak menimbulkan kekeliruan penafsiran di lapangan.",
+   "Forum ini diikuti perwakilan empat organisasi konsultan pajak, yaitu Ikatan Konsultan Pajak Indonesia (IKPI), Asosiasi Konsultan Pajak Publik Indonesia (AKP2I), Perkumpulan Konsultan Praktisi Perpajakan Indonesia (PERKOPPI), dan Perkumpulan Praktisi dan Profesi Konsultan Pajak Indonesia (P3KPI) Jakarta, bersama Kamar Dagang dan Industri (KADIN) Jakarta Utara serta Tax Center DDTC Consulting. Kepala Kanwil DJP Jakarta Utara, Untung Supardi, menyebut sosialisasi ini bertujuan memastikan wajib pajak mengetahui haknya atas kebijakan pengurangan sanksi sebelum masa berlaku tiap periode berakhir."
+  ],
+  "fotoAdegan": "Tax officials assisting visitors at a service counter inside a government tax office, blurred paperwork in foreground, morning light",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah secara konkret adalah besaran keringanan sanksi pajak diberikan bertahap, hapus penuh dari 8 Oktober sampai 31 Desember 2026, lalu turun jadi separuh pada Januari hingga Maret 2027, dan terus mengecil sampai pertengahan 2027. Artinya wajib pajak yang punya tunggakan sanksi administratif, termasuk yang sedang mengajukan keberatan, punya alasan kuat untuk menyelesaikan lebih cepat karena potongannya makin tipis semakin lama ditunda. Yang terdampak langsung adalah wajib pajak dengan kasus sanksi tertunggak di wilayah kerja Kanwil DJP Jakarta Utara, serta konsultan pajak yang mendampingi mereka mengurus syarat administrasinya. Pola penurunan bertahap ini mengarah ke upaya mendorong kepatuhan lewat tenggat yang makin ketat ketimbang pengampunan permanen, dan yang akan menunjukkan seberapa besar wajib pajak memanfaatkannya adalah jumlah pengajuan yang masuk sebelum jatah penghapusan penuh berakhir di 31 Desember 2026.",
+  "imageV": "mvhwa1y5"
+ },
+ {
+  "slug": "bi-tahan-suku-bunga-5-75-perkuat-insentif-jaga-rupiah",
+  "category": "Moneter",
+  "title": "BI [Tahan] Suku Bunga 5,75%, Perkuat Insentif Jaga Rupiah",
+  "deck": "Bank Indonesia menahan BI-Rate di 5,75% dan menaikkan bunga simpanan bank di BI, sembari memperbesar insentif bagi investor asing untuk menahan pelemahan rupiah.",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T09:07:15.810Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823326.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [],
+  "body": [
+   "Bank Indonesia memutuskan menahan suku bunga acuan atau BI-Rate di level 5,75% dalam rapat dewan gubernur yang berlangsung 20-21 Oktober 2026. Suku bunga pinjaman bank ke BI juga tetap di 6,50%, tapi suku bunga simpanan bank di BI dinaikkan menjadi 5,00%. Langkah ini penting karena menunjukkan BI memilih cara tidak langsung untuk menjaga nilai tukar rupiah, yakni membuat bank lebih tertarik menaruh dananya di BI, ketimbang menaikkan suku bunga acuan utama yang bisa membuat bunga kredit ke masyarakat ikut naik.",
+   "Pemicu utamanya adalah rupiah yang terus tertekan. Pada 20 Oktober 2026, kurs rupiah tercatat Rp17.985 per dolar AS, melemah 0,61 persen dibandingkan akhir September. BI merespons dengan memperbesar insentif untuk instrumen lindung nilai valas yang disebut DNDF, semacam kontrak yang memungkinkan bank dan investor mengamankan nilai transaksi dolar mereka tanpa harus benar-benar menukar fisik dolarnya. Sejak kebijakan insentif ini berjalan sejak Juni 2026, BI mengklaim sudah menarik modal asing sebesar US$9,9 miliar per 20 Oktober 2026.",
+   "Dari sisi perdagangan, neraca dagang Agustus 2026 mencatat surplus US$3,55 miliar, jauh lebih besar dari surplus bulan sebelumnya yang hanya US$0,12 miliar. Namun aliran investasi asing ke saham masih keluar, sementara dana yang masuk ke surat utang BI (SRBI) dan surat utang negara (SBN) membuat total aliran modal asing di kuartal keempat 2026 hingga 19 Oktober tercatat net masuk US$0,66 miliar. Cadangan devisa akhir September 2026 tercatat US$146,3 miliar, setara kemampuan membayar impor dan utang luar negeri pemerintah selama 5,2 bulan, jauh di atas standar aman internasional sekitar 3 bulan.",
+   "BI memperkirakan ekonomi Indonesia tahun 2026 tumbuh 4,9-5,7 persen, ditopang belanja pemerintah dan mulai menguatnya investasi swasta. Di sisi global, BI mencatat ekonomi dunia masih lemah dengan proyeksi tumbuh hanya 3,0 persen dan inflasi dunia masih tinggi di 4,6 persen, dipicu antara lain oleh ketegangan di Timur Tengah yang mengerek harga minyak. Bank sentral AS diperkirakan masih akan menahan atau bahkan menaikkan suku bunganya, yang membuat dolar tetap kuat dan dana asing cenderung betah di pasar negara maju ketimbang mengalir ke negara berkembang seperti Indonesia."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan suku bunga utama, tapi dua alat lain: bunga simpanan bank di BI naik ke 5 persen, dan insentif bagi investor asing yang memakai kontrak lindung nilai dolar diperbesar, dengan klaim sudah menarik US$9,9 miliar dana asing sejak Juni 2026. Yang kena dampak langsung adalah bank dan investor asing pemegang SRBI dan SBN, sementara masyarakat umum baru terasa dampaknya lewat harga barang impor kalau rupiah terus melemah. Pola ini menunjukkan BI condong memakai alat yang menyasar langsung pasar valuta asing ketimbang menaikkan BI-Rate, kemungkinan karena ingin tetap menjaga penyaluran kredit ke sektor riil tidak terhambat. Arah ini akan lebih jelas dari dua hal: apakah rupiah berhenti melemah menjelang rapat dewan gubernur berikutnya, dan apakah aliran modal masuk ke SRBI dan SBN di sisa kuartal keempat 2026 cukup kuat menutup keluarnya dana dari pasar saham.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "ihsg-dibuka-menguat-ke-level-5-310-85",
+  "category": "Pasar Modal",
+  "title": "[IHSG] Dibuka Menguat ke Level 5.310,85",
+  "deck": "IHSG dibuka naik 0,61 persen ke 5.310,85 pada Rabu pagi, diikuti penguatan indeks saham-saham besar LQ45 sebesar 0,81 persen.",
+  "image": "assets/img/ihsg-dibuka-menguat-ke-level-5-310-85.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T15:02:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474232-pasar-saham-bergairah-ihsg-dibuka-melesat-ke-level-5310",
+  "tags": [
+   "ihsg",
+   "bei",
+   "bursa efek",
+   "lq45"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) di Bursa Efek Indonesia dibuka menguat pada perdagangan Rabu pagi. Penguatan di awal sesi ini menjadi sinyal bahwa pelaku pasar memulai pertengahan pekan dengan sikap optimistis terhadap kondisi pasar keuangan dalam negeri.",
+   "Pada pembukaan, IHSG naik 31,96 poin atau 0,61 persen ke posisi 5.310,85. Indeks LQ45, yang berisi kumpulan 45 saham perusahaan besar dengan likuiditas tinggi, ikut naik 4,29 poin atau 0,81 persen ke level 534,64.",
+   "Kenaikan yang terjadi serentak di kedua indeks ini menunjukkan bahwa penguatan tidak hanya terjadi pada sebagian kecil saham, tetapi juga merembet ke saham-saham besar yang biasa dipegang investor institusi maupun ritel. Siapa pun yang portofolionya berisi saham-saham blue chip tersebut ikut merasakan kenaikan nilai asetnya pada pagi itu."
+  ],
+  "fotoAdegan": "Wide shot of a stock exchange lobby in Jakarta with people walking past tall glass windows in morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef97b6908c-ilustrasi-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah pagi ini adalah IHSG naik 0,61 persen ke 5.310,85 dan LQ45, yaitu indeks yang mengumpulkan 45 saham perusahaan besar, naik 0,81 persen ke 534,64. Dampaknya paling terasa bagi investor yang memegang saham-saham besar itu, karena nilai portofolio mereka ikut naik begitu pasar dibuka. Data yang ada baru mencakup sesi pembukaan, jadi belum bisa dipastikan apakah penguatan ini bertahan sampai penutupan sore atau malah berbalik arah, seperti yang kerap terjadi dalam satu hari perdagangan. Yang masih kurang untuk membaca arah sebenarnya adalah pemicu di balik kenaikan ini, entah dari sentimen pasar global, rilis data ekonomi domestik, atau sekadar koreksi teknis setelah pergerakan sebelumnya, karena hal itu tidak disebutkan. Patokan paling dekat untuk menguji arah ini adalah posisi penutupan IHSG pada sore hari yang sama.",
+  "imageV": "mvhwa322"
+ },
+ {
   "slug": "lapd-jadwalkan-ulang-rupslb-agendakan-rights-issue-2-miliar-saham",
   "category": "Aksi Korporasi",
   "title": "LAPD Jadwalkan Ulang RUPSLB, Agendakan [Rights Issue] 2 Miliar Saham",
@@ -77391,7 +77468,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Tembus] Rp17.750 usai The Fed Sinyalkan Kenaikan Bunga",
   "deck": "Rupiah dibuka melemah 0,32 persen ke Rp17.750 per dolar AS pada Senin pagi, menyusul penguatan dolar AS setelah Ketua The Fed Kevin Warsh membuka peluang kenaikan suku bunga.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/brankas-uang-sentral.jpg",
   "date": "31 Agustus 2026",
   "isoDate": "2026-08-31T09:40:18+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463786-rupiah-awali-pekan-di-zona-merah-tembus-rp17750-per-dolar-as",
@@ -81286,7 +81363,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] Tipis ke Rp17.695, Ikuti Asia",
   "deck": "Rupiah naik 28 poin ke Rp17.695 per dolar AS, sejalan dengan penguatan mayoritas mata uang Asia, sementara euro dan poundsterling melemah.",
-  "image": "assets/img/brankas-uang-sentral.jpg",
+  "image": "assets/img/mesin-hitung-uang.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:10:42+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462595-rupiah-kembali-menguat-tembus-rp17695-per-dolar-as-di-tengah-penguatan-mata-uang-asia",

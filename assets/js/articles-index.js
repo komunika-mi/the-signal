@@ -5,6 +5,52 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sanksi-pajak-bisa-dihapus-penuh-sampai-desember-2026",
+  "category": "Makroekonomi",
+  "title": "Sanksi Pajak Bisa [Dihapus] Penuh Sampai Desember 2026",
+  "deck": "Pemerintah memberi keringanan sanksi administratif pajak secara bertahap sampai pertengahan 2027, mulai dari penghapusan penuh hingga akhir 2026.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/sanksi-pajak-bisa-dihapus-penuh-sampai-desember-2026.jpg",
+  "imageV": "mvhwa1y5",
+  "tags": [
+   "PMK 71/2026",
+   "DJP",
+   "Sanksi Pajak",
+   "Wajib Pajak"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kanwil-djp-jakarta-utara-gelar-fgd-pelaksanaan-pmk-71-pengurangan-sanksi-administratif",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "bi-tahan-suku-bunga-5-75-perkuat-insentif-jaga-rupiah",
+  "category": "Moneter",
+  "title": "BI [Tahan] Suku Bunga 5,75%, Perkuat Insentif Jaga Rupiah",
+  "deck": "Bank Indonesia menahan BI-Rate di 5,75% dan menaikkan bunga simpanan bank di BI, sembari memperbesar insentif bagi investor asing untuk menahan pelemahan rupiah.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "tags": [],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823326.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "ihsg-dibuka-menguat-ke-level-5-310-85",
+  "category": "Pasar Modal",
+  "title": "[IHSG] Dibuka Menguat ke Level 5.310,85",
+  "deck": "IHSG dibuka naik 0,61 persen ke 5.310,85 pada Rabu pagi, diikuti penguatan indeks saham-saham besar LQ45 sebesar 0,81 persen.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/ihsg-dibuka-menguat-ke-level-5-310-85.jpg",
+  "imageV": "mvhwa322",
+  "tags": [
+   "ihsg",
+   "bei",
+   "bursa efek",
+   "lq45"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474232-pasar-saham-bergairah-ihsg-dibuka-melesat-ke-level-5310"
+ },
+ {
   "slug": "lapd-jadwalkan-ulang-rupslb-agendakan-rights-issue-2-miliar-saham",
   "category": "Aksi Korporasi",
   "title": "LAPD Jadwalkan Ulang RUPSLB, Agendakan [Rights Issue] 2 Miliar Saham",
@@ -6476,53 +6522,5 @@ var ARTICLES = [
   "kreditFoto": "Perum BULOG",
   "sourceUrl": "https://www.bulog.co.id/2026/10/09/bulog-cetak-sejarah-pengadaan-4-juta-ton-gelar-tasyakuran-bersama-komisi-iv-dpr-ri-di-ambon/",
   "sourceLabel": "Perum BULOG"
- },
- {
-  "slug": "meri-dana-ipo-rp27-4-m-tuntas-disalurkan-ke-dua-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "MERI: Dana IPO Rp27,4 M Tuntas Disalurkan ke [Dua] Anak Usaha",
-  "deck": "MERI melaporkan realisasi dana IPO Rp27,4 miliar sudah 100 persen disalurkan sebagai modal ke dua anak usaha, Edukasi Delapan dan Akademi Tujuh, sesuai rencana prospektus.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MERI",
-   "penggunaan dana IPO",
-   "entitas anak",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9f22224014_34246903c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msie-gelar-rupslb-20-november-bahas-penyesuaian-kbli",
-  "category": "Aksi Korporasi",
-  "title": "MSIE Gelar RUPSLB 20 November, Bahas [Penyesuaian] KBLI",
-  "deck": "MSIE akan menggelar RUPSLB pada 20 November 2026 untuk menyetujui penyesuaian kode klasifikasi usaha dari KBLI 2020 ke KBLI 2025, tanpa mengubah kegiatan usaha.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSIE",
-   "RUPSLB",
-   "Anggaran Dasar",
-   "KBLI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/32ca78511a_9600b12bf4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prtl-tawarkan-obligasi-rp741-miliar-bunga-7-55-7-65",
-  "category": "Aksi Korporasi",
-  "title": "PRTL tawarkan obligasi [Rp741 miliar], bunga 7,55-7,65%",
-  "deck": "Protelindo (PRTL) merilis perbaikan informasi obligasi berkelanjutan V tahap II senilai Rp741,1 miliar, terbagi dua seri bertenor 3 dan 5 tahun, ditawarkan 14-15 Oktober 2026.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRTL",
-   "obligasi korporasi",
-   "Protelindo",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b53d40a6b2_fad8822bff.pdf",
-  "sourceLabel": "IDX"
  }
 ];

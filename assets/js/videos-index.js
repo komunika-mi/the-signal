@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "DhbKkZNIbfw",
+  "title": "Bansos Beralih ke Transfer Tunai, Tak Lagi Sembako",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Pemerintah berencana mengubah mekanisme penyaluran bantuan sosial dari bentuk sembako menjadi transfer tunai langsung kepada masyarakat yang berhak menerima.",
+  "takeaway": "Perubahan skema bansos ini menyangkut pola belanja negara dan berpotensi mengubah daya beli kelompok penerima manfaat."
+ },
+ {
   "id": "0UG96BXBbgg",
   "title": "Insinyur dari 11 Negara ASEAN Dorong Industrialisasi",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Perwakilan buruh dan pengusaha berbeda pandangan membahas UU Pelindungan Ketenagakerjaan yang disahkan DPR pada 6 Oktober 2026 sebagai tindak lanjut putusan Mahkamah Konstitusi.",
   "takeaway": "Penting diikuti karena aturan ini akan memengaruhi hubungan industrial dan iklim investasi ke depan."
- },
- {
-  "id": "mZ9-qSkrIBM",
-  "title": "Aturan Ketenagakerjaan Baru, Siapa yang Diuntungkan?",
-  "category": "Ketenagakerjaan",
-  "program": "Indonesia Business Forum",
-  "summary": "Diskusi membahas dampak UU Pelindungan Ketenagakerjaan, yang disahkan pada 6 Oktober 2026, terhadap posisi pekerja dan pengusaha.",
-  "takeaway": "Relevan bagi pelaku usaha dan pekerja yang ingin memahami pihak yang paling terdampak dari regulasi baru ini."
  }
 ];

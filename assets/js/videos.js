@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "DhbKkZNIbfw",
+  "title": "Bansos Beralih ke Transfer Tunai, Tak Lagi Sembako",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Pemerintah berencana mengubah mekanisme penyaluran bantuan sosial dari bentuk sembako menjadi transfer tunai langsung kepada masyarakat yang berhak menerima.",
+  "takeaway": "Perubahan skema bansos ini menyangkut pola belanja negara dan berpotensi mengubah daya beli kelompok penerima manfaat.",
+  "terbit": "2026-10-21T08:16:53+00:00"
+ },
+ {
   "id": "0UG96BXBbgg",
   "title": "Insinyur dari 11 Negara ASEAN Dorong Industrialisasi",
   "category": "Industri",

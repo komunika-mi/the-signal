@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-australia-lanjutkan-prospera-kejar-aksesi-oecd-2028",
+  "category": "Global",
+  "title": "RI-Australia Lanjutkan PROSPERA, Kejar Aksesi OECD [2028]",
+  "deck": "Indonesia dan Australia memperpanjang program kerja sama ekonomi Prospera ke fase kedua untuk mendukung proses aksesi ke OECD dan CPTPP, plus kerja sama digital dan penerbangan.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "PROSPERA",
+   "OECD",
+   "CPTPP",
+   "Indonesia-Australia"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7176/luncurkan-prospera-fase-ii-pemerintah-indonesia-dan-australia-perkuat-reformasi-kelembagaan-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "kemendag-kirim-17-asn-ke-korea-bangun-trade-corpu",
+  "category": "Global",
+  "title": "Kemendag Kirim 17 ASN ke Korea Bangun [Trade CorpU]",
+  "deck": "17 ASN Kementerian Perdagangan mengikuti pelatihan pembelajaran daring di Korea Selatan selama dua pekan, bagian dari program tiga tahun bersama KOICA untuk membangun sistem pelatihan internal Trade CorpU.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/kemendag-kirim-17-asn-ke-korea-bangun-trade-corpu.jpg",
+  "imageV": "mvj7m3ds",
+  "tags": [
+   "Kemendag",
+   "KOICA",
+   "Trade CorpU",
+   "ASN Perdagangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kolaborasi-kemendag-dan-koica-untuk-pembelajaran-daring-trade-corporate-university",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "ratu-jawab-permintaan-bursa-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "RATU Jawab Permintaan Bursa soal [Volatilitas] Saham",
@@ -337,7 +371,7 @@ var ARTICLES = [
   "title": "RI Kejar Ratifikasi [IEU-CEPA] Sebelum Berlaku 2027",
   "deck": "Pemerintah menargetkan IEU-CEPA dengan Uni Eropa diratifikasi semester II 2026 dan berlaku awal 2027, salah satu dari beberapa agenda integrasi ekonomi internasional yang dikejar bersamaan.",
   "date": "21 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IEU-CEPA",
    "OECD",
@@ -2614,7 +2648,7 @@ var ARTICLES = [
   "title": "RI Kejar Penandatanganan IEU-CEPA, Berlaku Awal [2027]",
   "deck": "Pemerintah mempercepat proses penandatanganan dan ratifikasi IEU-CEPA agar perjanjian dagang dengan Uni Eropa itu mulai berlaku awal 2027.",
   "date": "19 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -3862,7 +3896,7 @@ var ARTICLES = [
   "title": "Paviliun Kawasan Berikat TEI Catat Minat [Rp5 Triliun]",
   "deck": "Enam belas perusahaan menyatakan minat memanfaatkan status Kawasan Berikat dan Pusat Logistik Berikat di Trade Expo Indonesia 2026, dengan potensi investasi sekitar Rp5 triliun menurut Kemendag.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "tags": [
    "Kawasan Berikat",
    "Trade Expo Indonesia",
@@ -4139,7 +4173,7 @@ var ARTICLES = [
   "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
   "deck": "Pemerintah memperpanjang tenggat wajib sertifikat halal untuk makanan, minuman, kosmetik, dan obat dari 18 Oktober 2026 menjadi 2028, menyusul masukan dunia usaha soal kesiapan ekosistem sertifikasi.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "Sertifikat Halal",
    "BPJPH",
@@ -6467,37 +6501,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-pangan-nusa-expo-2026-mendag-busan-dorong-umkm-pangan-perluas-pasar-domestik-dan-global",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ppln-suroso-isnandar-jadi-direktur-utama-baru-gantikan-darmawan",
-  "category": "Aksi Korporasi",
-  "title": "PPLN: Suroso Isnandar jadi [Direktur Utama] baru, gantikan Darmawan",
-  "deck": "RUPS PT PLN (Persero) pada 14 Oktober 2026 memberhentikan Darmawan Prasodjo dan mengangkat Suroso Isnandar sebagai Direktur Utama, melengkapi susunan direksi baru perusahaan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPLN",
-   "PLN",
-   "direksi",
-   "direktur utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e15dd5c40a_4a24eab0c1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "digi-ekuitas-negatif-melebar-jadi-rp4-6-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "DIGI: ekuitas negatif [melebar] jadi Rp4,6 miliar di kuartal III",
-  "deck": "Laba rugi Arkadia Digital Media menyusut dibanding tahun lalu, tetapi kas merosot tajam dan defisit ekuitas makin dalam di laporan kuartal III 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DIGI",
-   "Arkadia Digital Media",
-   "laporan keuangan",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261015115238-64545-0/FinancialStatement-2026-III-DIGI.pdf",
-  "sourceLabel": "IDX"
  }
 ];

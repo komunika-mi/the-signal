@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bei-tetapkan-ulang-film-sebagai-saham-terkonsentrasi-tinggi",
+  "category": "Aksi Korporasi",
+  "title": "BEI Tetapkan Ulang FILM sebagai Saham [Terkonsentrasi] Tinggi",
+  "deck": "BEI kembali menetapkan FILM sebagai saham berkonsentrasi tinggi, setelah penurunan kepemilikan pada 12 Oktober ternyata berasal dari transaksi repo saham, bukan perubahan kepemilikan riil.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "BEI",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ceb6135e0c_aa17193fce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "produksi-gas-kaltim-naik-ke-750-juta-kaki-kubik-hari",
   "category": "Energi",
   "title": "Produksi Gas Kaltim Naik ke [750] Juta Kaki Kubik/Hari",
@@ -33,6 +49,38 @@ var ARTICLES = [
   "tags": [],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474483-djki-gelar-forum-bisnis-paten-indonesia-fbpi-2026-buka-peluang-investasi-teknologi"
+ },
+ {
+  "slug": "wika-gagal-penuhi-kuorum-rupsu-usulan-penyelesaian-sukuk-ditolak",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Gagal] Penuhi Kuorum RUPSU, Usulan Penyelesaian Sukuk Ditolak",
+  "deck": "RUPSU WIKA untuk sukuk mudharabah Tahap II gagal capai keputusan setelah 71,7 persen pemegang suara menolak usulan penyelesaian gagal bayar bagi hasil.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf7cbc2426_0f07cfd372.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tlkm-tuntaskan-buyback-saham-rp36-5-miliar-imbas-spin-off-fiber",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Tuntaskan [Buyback] Saham Rp36,5 Miliar Imbas Spin-off Fiber",
+  "deck": "Telkom membeli kembali 15,96 juta saham senilai Rp36,54 miliar dari pemegang saham yang menolak rencana pemisahan bisnis fiber ke anak usaha, sesuai hak appraisal dalam UUPT.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "buyback saham",
+   "spin-off fiber",
+   "UUPT"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcabc9d883_e0515faa94.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bank-mandiri-pertama-kantongi-izin-bulion-di-ri",
@@ -1150,6 +1198,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "halo-bukukan-laba-rp20-5-miliar-modal-tambah-dari-waran",
+  "category": "Aksi Korporasi",
+  "title": "HALO Bukukan Laba Rp20,5 Miliar, Modal Tambah dari [Waran]",
+  "deck": "Laba bersih sembilan bulan HALO naik jadi Rp20,52 miliar dari Rp7,88 miliar, didorong efisiensi biaya dan suntikan dana pelaksanaan waran Rp23,05 miliar.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HALO",
+   "laporan keuangan",
+   "laba bersih",
+   "waran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261021114307-64571-0/FinancialStatement-2026-III-HALO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "iiff-terbitkan-obligasi-rp1-7-triliun-kupon-tertinggi-7-6-persen",
   "category": "Aksi Korporasi",
   "title": "IIFF [terbitkan] obligasi Rp1,7 triliun, kupon tertinggi 7,6 persen",
@@ -1195,6 +1259,22 @@ var ARTICLES = [
    "going concern"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3b97d1c85b_adf54dac94.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smga-koreksi-laporan-keuangan-incar-obligasi-berkelanjutan",
+  "category": "Aksi Korporasi",
+  "title": "SMGA koreksi laporan keuangan, incar [obligasi] berkelanjutan",
+  "deck": "Koreksi laporan keuangan interim SMGA disiapkan untuk prospektus rencana penerbitan obligasi berkelanjutan, sekaligus merevisi angka piutang, utang, dan kas pada Juni 2026.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMGA",
+   "obligasi berkelanjutan",
+   "laporan keuangan",
+   "koreksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261021180757-64716-0/FinancialStatement-2026-II-SMGA.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1545,6 +1625,22 @@ var ARTICLES = [
    "RUPSU"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c41112efd1_00cbab5abc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pamg-catat-rugi-rp2-56-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "PAMG Catat [Rugi] Rp2,56 Miliar di Kuartal III 2026",
+  "deck": "Pendapatan turun 10,8 persen dan beban bunga naik membuat PAMG berbalik rugi bersih Rp2,56 miliar pada sembilan bulan pertama 2026, dari laba Rp965 juta setahun sebelumnya.",
+  "date": "21 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PAMG",
+   "laporan keuangan",
+   "rugi bersih",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261021120504-64525-0/FinancialStatement-2026-III-PAMG.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6384,102 +6480,6 @@ var ARTICLES = [
    "Venteny Fortuna International"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5806c5c56_da6db17644.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jarr-tak-ada-dampak-karhutla-ke-produksi-dan-laba-2026",
-  "category": "Aksi Korporasi",
-  "title": "JARR: Tak Ada Dampak [Karhutla] ke Produksi dan Laba 2026",
-  "deck": "Menjawab permintaan penjelasan BEI, JARR menyatakan tidak ada kejadian kebakaran hutan dan lahan di area operasionalnya di Kalimantan Selatan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JARR",
-   "karhutla",
-   "kelapa sawit",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e21aa03be2_85540d8ab5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tkim-pastikan-karhutla-tak-ganggu-produksi-dan-pendapatan",
-  "category": "Aksi Korporasi",
-  "title": "TKIM Pastikan Karhutla Tak Ganggu [Produksi] dan Pendapatan",
-  "deck": "TKIM menjawab permintaan penjelasan BEI terkait karhutla, menyatakan produksi, pendapatan, dan laba tidak terdampak, dengan wilayah berisiko hanya menyumbang 1 persen pendapatan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TKIM",
-   "karhutla",
-   "keterbukaan informasi",
-   "industri kertas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2e56c9746c_55b744d670.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jawa-koreksi-penjelasan-ke-bei-sebut-belum-ada-sanksi-karhutla",
-  "category": "Aksi Korporasi",
-  "title": "JAWA Koreksi Penjelasan ke BEI, Sebut Belum Ada Sanksi [Karhutla]",
-  "deck": "Jaya Agra Wattie (JAWA) mengoreksi surat penjelasannya ke BEI soal karhutla, kini menyatakan belum ada sanksi administratif, berbeda dari keterangan sehari sebelumnya.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JAWA",
-   "karhutla",
-   "Bursa Efek Indonesia",
-   "sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da46b6c6d1_67ed2de0bd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mktr-pastikan-karhutla-tak-ganggu-operasi-sawit-lamandau",
-  "category": "Aksi Korporasi",
-  "title": "MKTR Pastikan [Karhutla] Tak Ganggu Operasi Sawit Lamandau",
-  "deck": "Menanggapi permintaan penjelasan Bursa, MKTR menyatakan kebakaran hutan di sekitar lahan sawitnya di Lamandau belum berdampak material terhadap produksi, pendapatan, laba, maupun aset.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKTR",
-   "karhutla",
-   "sawit",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e795fb4f8_3ff6d619ae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "east-laba-naik-8-6-di-kuartal-iii-dividen-kuras-kas-rp47-miliar",
-  "category": "Aksi Korporasi",
-  "title": "EAST: Laba Naik 8,6% di Kuartal III, [Dividen] Kuras Kas Rp47 Miliar",
-  "deck": "Laba bersih Eastparc Hotel naik ke Rp22,80 miliar pada sembilan bulan 2026, tapi kas perusahaan turun tajam setelah membayar dividen Rp47,04 miliar ke pemegang saham.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EAST",
-   "laporan keuangan",
-   "dividen",
-   "hotel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261015233032-64556-0/FinancialStatement-2026-III-EAST.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "slis-gelar-rupslb-kedua-usai-kuorum-rapat-pertama-tak-tercapai",
-  "category": "Aksi Korporasi",
-  "title": "SLIS Gelar RUPSLB Kedua Usai [Kuorum] Rapat Pertama Tak Tercapai",
-  "deck": "RUPSLB pertama SLIS gagal kuorum meski dihadiri 53,01 persen pemegang saham. Rapat kedua digelar 23 Oktober 2026 untuk menyetujui penyesuaian anggaran dasar dengan KBLI 2025.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SLIS",
-   "RUPSLB",
-   "anggaran dasar",
-   "KBLI 2025"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/930a4d81c4_998858aba9.pdf",
   "sourceLabel": "IDX"
  }
 ];

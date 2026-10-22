@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bei-tetapkan-ulang-film-sebagai-saham-terkonsentrasi-tinggi",
+  "category": "Aksi Korporasi",
+  "title": "BEI Tetapkan Ulang FILM sebagai Saham [Terkonsentrasi] Tinggi",
+  "deck": "BEI kembali menetapkan FILM sebagai saham berkonsentrasi tinggi, setelah penurunan kepemilikan pada 12 Oktober ternyata berasal dari transaksi repo saham, bukan perubahan kepemilikan riil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T20:59:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ceb6135e0c_aa17193fce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FILM",
+  "tags": [
+   "FILM",
+   "BEI",
+   "kepemilikan saham",
+   "repo saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) pada 22 Oktober 2026 mengumumkan bahwa saham PT MD Entertainment Tbk (FILM) kembali dikategorikan sebagai saham dengan kepemilikan terkonsentrasi tinggi, melalui surat No. Peng-HSC-00086/BEI.WAS/10-2026 dan Peng-00029/PWS/KSEI/1026 yang diteken Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy.",
+   "Status ini sebelumnya pernah dicabut. Kronologinya, pada 14 Juli 2026 BEI pertama kali menetapkan FILM sebagai saham terkonsentrasi tinggi karena sejumlah pemegang saham tertentu bersama-sama menguasai 92,98 persen dari total saham FILM, baik dalam bentuk warkat maupun tanpa warkat (scripless). Pada 12 Oktober 2026, BEI menyatakan FILM sudah tidak lagi berstatus demikian karena dinilai memenuhi kriteria kuantitatif yang disyaratkan.",
+   "Namun setelah ditelaah lebih lanjut, BEI menemukan bahwa penurunan kepemilikan yang menjadi dasar pencabutan status pada 12 Oktober itu terjadi lewat transaksi repo saham, bukan perpindahan kepemilikan yang sesungguhnya. Karena itu BEI menetapkan kembali FILM sebagai saham terkonsentrasi tinggi. Transaksi repo yang dimaksud diduga terkait dengan pelepasan 103 juta saham oleh direksi FILM lewat pencairan repo yang sebelumnya telah diberitakan. BEI menegaskan pengumuman ini tidak serta merta menunjukkan adanya pelanggaran peraturan pasar modal."
+  ],
+  "fotoAdegan": "Distant, slightly blurred view of a stock exchange trading floor with people at desks, monitors out of focus, evening light",
+  "takeaway": "Penilaian kami condong negatif bagi FILM, karena pembatalan status normal ternyata semu, menandakan saham yang benar-benar beredar bebas di pasar (free float) masih setipis sebelumnya. Pos yang tersentuh adalah struktur jumlah saham beredar yang dipegang publik luas: makin terkonsentrasi kepemilikannya di tangan segelintir pihak, makin sedikit saham yang bisa diperjualbelikan secara wajar, sehingga harganya lebih mudah bergerak tajam hanya dengan transaksi kecil dan investor besar lebih sulit keluar masuk tanpa mengganggu harga. Transaksi repo saham sendiri pada dasarnya adalah pinjaman dengan saham sebagai jaminan yang nantinya dibeli kembali, bukan penjualan permanen, sehingga wajar bila BEI menilainya tidak mengubah kepemilikan secara substansi. Yang perlu dipantau berikutnya adalah apakah 103 juta saham direksi yang sempat dilepas lewat repo itu akhirnya benar-benar berpindah ke pihak lain atau ditarik kembali oleh direksi, karena itulah yang akan menentukan apakah konsentrasi kepemilikan FILM betul-betul berkurang atau tetap seperti sekarang pada evaluasi kuantitatif BEI selanjutnya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "produksi-gas-kaltim-naik-ke-750-juta-kaki-kubik-hari",
   "category": "Energi",
   "title": "Produksi Gas Kaltim Naik ke [750] Juta Kaki Kubik/Hari",
@@ -50,6 +76,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang baru di sini bukan sekadar pameran, melainkan DJKI secara khusus mengarahkan pertemuan ke dua sektor konkret, otomotif-kendaraan listrik dan elektronika-IoT, lewat sesi Patent Townhall Pitching. Yang langsung terdampak adalah inventor dan kampus pemegang paten di dua sektor itu, serta investor dan industri yang selama ini kesulitan menemukan teknologi dalam negeri yang siap dipakai. Arah forum ini jelas, yakni mendorong paten keluar dari rak hukum dan masuk ke jalur bisnis, tetapi berita ini belum menyebut target jumlah kerja sama, nilai investasi yang diharapkan, atau skema insentif bagi investor yang mau menggarap paten lokal. Yang perlu dipantau adalah hasil forum pada 3-5 November nanti, khususnya apakah DJKI merilis data berapa kesepakatan atau nota kerja sama yang benar-benar terjalin setelah acara selesai.",
   "imageV": "mvjldhq9"
+ },
+ {
+  "slug": "wika-gagal-penuhi-kuorum-rupsu-usulan-penyelesaian-sukuk-ditolak",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Gagal] Penuhi Kuorum RUPSU, Usulan Penyelesaian Sukuk Ditolak",
+  "deck": "RUPSU WIKA untuk sukuk mudharabah Tahap II gagal capai keputusan setelah 71,7 persen pemegang suara menolak usulan penyelesaian gagal bayar bagi hasil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T20:03:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf7cbc2426_0f07cfd372.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk menggelar Rapat Umum Pemegang Sukuk (RUPSU) untuk Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap II Tahun 2022 pada Selasa, 20 Oktober 2026, pukul 14.45 hingga 15.49 WIB, di WIKA Tower 2, Jakarta Timur. Rapat ini membahas kelalaian WIKA yang tidak memenuhi kewajiban pembayaran pendapatan bagi hasil ke-14 untuk Sukuk Seri A dan pendapatan bagi hasil ke-18 untuk Sukuk Seri B dan Seri C, sekaligus usulan penyelesaian yang diajukan perseroan atas kelalaian tersebut. Perseroan diwakili oleh Direktur Keuangan Mulyadi dan Aji Bramantyojati yang mewakili PT Perusahaan Pengelola Aset (Persero) selaku konsultan yang diberi kuasa oleh direksi, sementara PT Bank Mega Tbk hadir selaku wali amanat dan notaris Humberg Lie mencatat berita acara rapat.",
+   "Rapat dihadiri pemegang sukuk dan/atau kuasanya yang mewakili Rp713,2 miliar dari total sukuk Tahap II yang belum dibayar kembali sebesar Rp750 miliar, atau 95,093 persen, sehingga syarat kuorum kehadiran terpenuhi. Namun dalam pemungutan suara tertulis, usulan penyelesaian yang diajukan WIKA hanya disetujui oleh pemegang suara senilai Rp202 miliar atau 28,323 persen, sementara Rp511,2 miliar suara atau 71,677 persen menyatakan tidak setuju. Tidak ada suara abstain dalam pemungutan ini.",
+   "Karena perjanjian perwaliamanatan mensyaratkan persetujuan minimal 75 persen dari sukuk yang hadir untuk mengambil keputusan yang sah dan mengikat, hasil pemungutan suara tersebut tidak memenuhi ambang batas itu. Akibatnya, RUPSU dinyatakan tidak berhasil mengambil keputusan, baik atas penjelasan maupun usulan penyelesaian yang diajukan WIKA terkait kelalaian pembayaran bagi hasil sukuk tersebut."
+  ],
+  "fotoAdegan": "Elevated toll road construction site with concrete pylons and tower cranes against a hazy Jakarta skyline, workers in hard hats below",
+  "takeaway": "Laporan ini negatif bagi WIKA karena usulan penyelesaian gagal bayar bagi hasilnya ditolak oleh mayoritas pemegang sukuk, 71,7 persen suara menyatakan tidak setuju, sehingga status kelalaian pembayaran belum terselesaikan. Yang tersentuh adalah arus kas dan beban utang perseroan, karena gagal membayar bagi hasil sukuk berarti WIKA belum punya cukup dana tunai untuk memenuhi kewajiban kepada pemegang surat utangnya, dan ini bisa memperberat biaya yang harus ditanggung ke depan jika masalah berlanjut. RUPSU yang gagal mengambil keputusan juga berarti belum ada kejelasan skema penyelesaian, baik soal perpanjangan waktu bayar maupun kompensasi tambahan untuk pemegang sukuk. Yang perlu dipantau selanjutnya adalah apakah Wali Amanat PT Bank Mega Tbk akan mengajukan RUPSU lanjutan atau menempuh langkah hukum, serta apakah WIKA kembali gagal pada jadwal pembayaran bagi hasil berikutnya untuk sukuk Tahap II ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tlkm-tuntaskan-buyback-saham-rp36-5-miliar-imbas-spin-off-fiber",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Tuntaskan [Buyback] Saham Rp36,5 Miliar Imbas Spin-off Fiber",
+  "deck": "Telkom membeli kembali 15,96 juta saham senilai Rp36,54 miliar dari pemegang saham yang menolak rencana pemisahan bisnis fiber ke anak usaha, sesuai hak appraisal dalam UUPT.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T19:59:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcabc9d883_e0515faa94.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "buyback saham",
+   "spin-off fiber",
+   "UUPT"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk melaporkan penyelesaian pembelian kembali saham dalam rangka pemenuhan Pasal 62 Undang-Undang Perseroan Terbatas (UUPT), yang memberi hak kepada pemegang saham untuk minta sahamnya dibeli jika tidak menyetujui tindakan korporasi tertentu. Hak ini muncul karena RUPS Luar Biasa 2026 menyetujui rencana pemisahan sebagian segmen usaha Wholesale Fiber Connectivity Tahap 2 kepada PT Telkom Infrastruktur Indonesia, anak usaha yang 99,99 persen sahamnya dimiliki langsung oleh Telkom.",
+   "Batas waktu bagi pemegang saham untuk menyatakan kehendak menjual sahamnya berakhir pada 5 Oktober 2026 pukul 17.00 WIB, sesuai keterbukaan informasi yang diumumkan Telkom pada 2 Oktober 2026. Hasilnya, perseroan membeli kembali 15.956.199 lembar saham dengan harga Rp2.290 per saham, sehingga total nilai bruto pembelian mencapai Rp36.539.695.710, atau sekitar Rp36,54 miliar. Pembayaran kepada pemegang saham yang berhak telah diselesaikan pada 20 Oktober 2026.",
+   "Dengan pembayaran itu, Telkom menyatakan proses pemenuhan hak pemegang saham yang menolak rencana pemisahan usaha sesuai Pasal 62 UUPT telah selesai, mengikuti mekanisme pembelian kembali saham bagi perusahaan terbuka yang diatur POJK Nomor 29 Tahun 2023. Perseroan menilai pelaksanaan pembelian kembali ini tidak akan memberi dampak negatif material terhadap kelangsungan usahanya. Laporan ini ditandatangani oleh Arthur Angelo Syailendra, Direktur Keuangan dan Manajemen Risiko Telkom."
+  ],
+  "fotoAdegan": "Technicians splicing fiber optic cables inside an open telecom distribution cabinet on a city street, daylight, tools laid out nearby",
+  "takeaway": "Laporan ini netral bagi fundamental Telkom, karena nilai pembelian saham Rp36,54 miliar sangat kecil dibanding ukuran aset dan kapitalisasi pasar perusahaan, jadi tidak mengubah kondisi keuangannya secara berarti. Yang tersentuh adalah jumlah saham beredar dan kas perusahaan: Telkom mengeluarkan uang tunai untuk membeli balik saham dari pemegang saham yang menolak rencana pemisahan usaha, sehingga saham yang beredar di pasar berkurang sedikit, tapi karena cuma 15,96 juta lembar dari total miliaran saham Telkom, efeknya ke laba per saham praktis tidak terasa. Yang perlu dipantau selanjutnya adalah realisasi pemisahan usaha Wholesale Fiber Connectivity Tahap 2 itu sendiri ke PT Telkom Infrastruktur Indonesia, termasuk kapan tanggal efektif pemisahannya berlaku, karena proses pembelian saham ini hanya syarat administratif sebelum spin-off benar-benar dijalankan.",
+  "sentimen": "netral"
  },
  {
   "slug": "bank-mandiri-pertama-kantongi-izin-bulion-di-ri",
@@ -1879,6 +1957,32 @@ var ARTICLES = [
   "fotoDitolak": true
  },
  {
+  "slug": "halo-bukukan-laba-rp20-5-miliar-modal-tambah-dari-waran",
+  "category": "Aksi Korporasi",
+  "title": "HALO Bukukan Laba Rp20,5 Miliar, Modal Tambah dari [Waran]",
+  "deck": "Laba bersih sembilan bulan HALO naik jadi Rp20,52 miliar dari Rp7,88 miliar, didorong efisiensi biaya dan suntikan dana pelaksanaan waran Rp23,05 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T18:32:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261021114307-64571-0/FinancialStatement-2026-III-HALO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HALO",
+  "tags": [
+   "HALO",
+   "laporan keuangan",
+   "laba bersih",
+   "waran"
+  ],
+  "body": [
+   "PT Haloni Jane Tbk (HALO), produsen sarung tangan karet yang berbasis di Cikupa, Tangerang, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan perusahaan nyaris stagnan di Rp158,71 miliar, naik tipis dari Rp157,99 miliar pada periode yang sama tahun lalu. Namun beban pokok penjualan turun dari Rp133,60 miliar menjadi Rp119,23 miliar, sehingga laba bruto melonjak dari Rp24,39 miliar menjadi Rp39,48 miliar. Setelah dikurangi beban usaha dan pajak, laba bersih periode berjalan tercatat Rp20,52 miliar, naik signifikan dari Rp7,88 miliar pada periode yang sama tahun 2025.",
+   "Di sisi aset dan modal, kas dan setara kas Haloni Jane naik hampir dua kali lipat, dari Rp29,96 miliar pada akhir 2025 menjadi Rp58,05 miliar pada akhir September 2026. Kenaikan ini berasal dari dua sumber, arus kas operasi yang menyumbang Rp9,22 miliar, dan pelaksanaan waran oleh pemegangnya yang menambah modal saham sebesar Rp1,54 miliar serta tambahan modal disetor Rp21,51 miliar, atau total Rp23,05 miliar dana segar. Akibatnya jumlah saham beredar bertambah dari 5.925.054.615 saham menjadi 6.078.729.117 saham. Total ekuitas perusahaan naik dari Rp213,90 miliar menjadi Rp257,47 miliar, sementara akumulasi defisit dari kerugian tahun-tahun sebelumnya menyusut dari Rp35,67 miliar menjadi Rp15,15 miliar karena tertutup laba periode ini.",
+   "Dalam surat terpisah kepada OJK dan Bursa Efek Indonesia tertanggal 19 Oktober 2026, Direktur Haloni Jane, Juliana, menjelaskan bahwa perubahan ini memicu kewajiban keterbukaan informasi karena total aset dan liabilitas berubah lebih dari 20 persen dibandingkan laporan tahunan auditan terakhir, sesuai Peraturan Bursa No. I-E angka III.1.4. Total aset perusahaan per 30 September 2026 tercatat Rp335,87 miliar, naik Rp37,44 miliar atau 12,55 persen dari posisi akhir 2025, terutama karena aset lancar naik Rp41,48 miliar atau 24,51 persen. Sebaliknya, total liabilitas turun Rp6,12 miliar atau 7,25 persen menjadi Rp78,40 miliar, dengan liabilitas jangka pendek turun Rp5,97 miliar atau 13,69 persen. Laporan keuangan ini ditandatangani oleh Direktur Utama Louis Hans Laurence dan Direktur Juliana."
+  ],
+  "fotoAdegan": "Workers inspecting rows of latex gloves drying on production line racks inside a bright Indonesian rubber glove factory",
+  "takeaway": "Laporan ini condong positif bagi Haloni Jane karena laba bersih sembilan bulan melonjak ke Rp20,52 miliar dari Rp7,88 miliar tahun lalu, sementara penjualan hampir stagnan, artinya kenaikan laba murni dari efisiensi biaya produksi, bukan dari lonjakan permintaan. Pos yang tersentuh adalah ekuitas dan arus kas, defisit atau akumulasi kerugian masa lalu menyusut tajam karena ditutup laba tahun ini, dan kas perusahaan naik hampir dua kali lipat karena sebagian pemegang waran melaksanakan haknya membeli saham, sehingga menyuntikkan dana segar Rp23,05 miliar langsung ke modal perusahaan tanpa menambah utang. Pelaku pasar mencermati pos ini karena kas yang lebih tebal dan utang yang justru menyusut 7,25 persen memberi perusahaan ruang gerak lebih besar tanpa bergantung pinjaman bank, sementara saham baru dari pelaksanaan waran hanya sekitar 2,6 persen dari jumlah saham sebelumnya sehingga potensi pengenceran laba per saham minim. Yang perlu dipantau berikutnya adalah apakah tren efisiensi biaya ini bertahan sampai laporan tahunan auditan terbit, serta sisa waran Seri I yang masih bisa dilaksanakan pemegangnya dengan harga Rp150 per saham.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "iiff-terbitkan-obligasi-rp1-7-triliun-kupon-tertinggi-7-6-persen",
   "category": "Aksi Korporasi",
   "title": "IIFF [terbitkan] obligasi Rp1,7 triliun, kupon tertinggi 7,6 persen",
@@ -1957,6 +2061,32 @@ var ARTICLES = [
   "fotoAdegan": "Modern office towers in Jakarta's financial district at dusk, traffic flowing on a wide avenue below, long exposure",
   "takeaway": "Laporan ini condong negatif bagi Techno9, karena jawabannya menegaskan kondisi keuangan yang rapuh, rugi yang justru membesar saat pendapatan susut, auditor memberi peringatan soal kelangsungan usaha, dan dana segar yang terkumpul mayoritas untuk menambal modal kerja bukan ekspansi, sementara pengendali baru sekadar \"mempertimbangkan\" ikut rights issue tanpa ada pembeli siaga yang mengamankan sisa saham. Yang tersentuh adalah ekuitas dan jumlah saham beredar: suntikan modal bisa menambah ekuitas dari basis yang masih kecil, Rp25,64 miliar, tapi jumlah saham beredar bisa melonjak hingga dua kali lipat sehingga laba per saham, yaitu porsi laba atau rugi perusahaan yang jatuh ke setiap lembar saham, makin terdilusi karena perusahaan masih merugi. Rencana akuisisi aset tambang di Mongolia senilai indikatif US$150 juta dari pihak terafiliasi pengendali menambah lapisan risiko karena berpotensi menjadi transaksi afiliasi yang butuh pengawasan ekstra dari pemegang saham. Yang perlu dipantau berikutnya adalah penyampaian laporan keuangan auditan periode 30 Juni 2026 yang ditargetkan paling lambat minggu pertama November 2026, serta terbitnya Prospektus PMHMETD I yang akan mengungkap harga pelaksanaan final, rasio pasti, dan apakah pembeli siaga sudah ditunjuk.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "smga-koreksi-laporan-keuangan-incar-obligasi-berkelanjutan",
+  "category": "Aksi Korporasi",
+  "title": "SMGA koreksi laporan keuangan, incar [obligasi] berkelanjutan",
+  "deck": "Koreksi laporan keuangan interim SMGA disiapkan untuk prospektus rencana penerbitan obligasi berkelanjutan, sekaligus merevisi angka piutang, utang, dan kas pada Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T17:56:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261021180757-64716-0/FinancialStatement-2026-II-SMGA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMGA",
+  "tags": [
+   "SMGA",
+   "obligasi berkelanjutan",
+   "laporan keuangan",
+   "koreksi"
+  ],
+  "body": [
+   "PT Sumber Mineral Global Abadi Tbk (SMGA) menyampaikan koreksi atas laporan keuangan interim periode enam bulan yang berakhir 30 Juni 2026 melalui surat bernomor 180/SMGA/X/2026 tertanggal 20 Oktober 2026 yang diteken Corporate Secretary Mona Dita Saraswati. Koreksi ini merujuk pada ketentuan III.1.1.5 Peraturan Bursa Efek Indonesia Nomor I-E tentang Kewajiban Penyampaian Informasi. Perusahaan menerbitkan ulang laporan keuangan yang sebelumnya sudah diaudit dengan opini wajar tanpa modifikasian oleh KAP Morhan & Rekan, dengan partner penandatangan Morhan Tirtonadi, pada 28 September 2026. Dalam laporan auditor independen disebutkan, penerbitan ulang ini dilakukan untuk menambahkan data pembanding per 31 Desember 2024, dan laporan ini disusun khusus untuk dicantumkan dalam prospektus terkait rencana Penawaran Umum Obligasi Berkelanjutan I SMGA Tahap I Tahun 2026, serta tidak boleh dipakai untuk tujuan lain.",
+   "Secara operasional, penjualan bersih SMGA dari perdagangan batu bara, nikel, batu kapur, dan pasir tercatat Rp1,58 triliun untuk periode enam bulan hingga 30 Juni 2026. Angka ini jadi salah satu hal yang disorot khusus oleh auditor karena pengakuannya melibatkan pertimbangan signifikan dalam menentukan harga transaksi dan waktu pencatatan pendapatan. Auditor juga menyoroti uang muka kepada pemasok batu bara, nikel, batu kapur, dan pasir senilai Rp436,35 miliar per akhir Juni 2026, karena pos ini butuh penilaian apakah ada potensi penurunan nilai yang harus diakui.",
+   "Pada posisi keuangan, kas dan setara kas SMGA naik lebih dari dua kali lipat menjadi Rp42,53 miliar per 30 Juni 2026 dari Rp17,47 miliar pada akhir 2025, sementara total aset naik tipis dari Rp934,95 miliar menjadi Rp952,15 miliar. Piutang usaha melonjak 117,16 persen menjadi Rp288,09 miliar, yang menurut penjelasan perusahaan terjadi karena penjualan yang belum dibayar pelanggan sampai akhir Juni 2026. Sebaliknya, uang muka kepada pemasok turun 24,47 persen menjadi Rp461,67 miliar karena realisasi pengiriman batu bara dari uang muka yang sudah dibayarkan sebelumnya. Di sisi liabilitas, utang usaha naik 36,22 persen menjadi Rp156,92 miliar akibat pembelian batu bara dan nikel yang lebih besar, sementara utang bank jangka panjang turun 51,45 persen menjadi Rp6,59 miliar karena perusahaan melunasi sebagian pinjamannya."
+  ],
+  "fotoAdegan": "Loaders tipping coal into a waiting truck at an open mining yard, dust haze, overcast daylight, heavy machinery in the background",
+  "takeaway": "Koreksi ini sendiri netral bagi pemegang saham, sebab isinya cuma menambahkan data pembanding 2024 supaya memenuhi syarat penyusunan prospektus obligasi, bukan perubahan atas kinerja yang sudah dilaporkan sebelumnya. Yang lebih layak dicermati adalah dua sinyal yang saling berlawanan di baliknya, piutang usaha melonjak 117 persen yang berarti makin banyak uang penjualan yang belum masuk ke kas perusahaan, sementara posisi kas bertambah dua kali lipat dan utang bank jangka panjang berkurang separuh, yang berarti bebannya ke kreditor justru mengecil. Dua pos ini sama pentingnya karena piutang yang menumpuk bisa jadi tekanan arus kas kalau pelanggan lambat membayar, sedangkan kas dan utang bank yang membaik menunjukkan fondasi likuiditas perusahaan belum terganggu. Yang perlu dipantau selanjutnya adalah proses Penawaran Umum Obligasi Berkelanjutan I Tahap I 2026 yang menjadi alasan laporan ini diterbitkan ulang, termasuk kapan prospektus final dan nilai dana yang hendak diserap dari obligasi tersebut diumumkan ke publik.",
+  "sentimen": "netral"
  },
  {
   "slug": "bcap-pefindo-afirmasi-rating-idbbb-untuk-obligasi-mnc-kapital",
@@ -2533,6 +2663,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Idle construction cranes beside an unfinished high-rise building at dusk, scaffolding visible, site quiet and empty",
   "takeaway": "Ini jelas sinyal negatif: WIKA tercatat gagal membayar bagi hasil ke-20 sukuknya dan gagal melunasi pokok Seri B, lalu usulan penyelesaiannya pun ditolak mayoritas pemegang sukuk sehingga masalah ini belum tuntas. Yang tersentuh adalah arus kas perseroan, yaitu kemampuan WIKA menyediakan uang tunai untuk membayar kewajiban jatuh tempo, karena gagal bayar berarti kas yang tersedia tidak cukup saat kewajiban itu harus dibayar. Ini juga menyangkut beban utang di buku perusahaan, sebab selama pokok sukuk Seri B belum dibayar, utang itu tetap tercatat sebagai kewajiban yang menggantung dan berpotensi memicu klausul gagal bayar di instrumen utang lain. Yang perlu dipantau selanjutnya adalah langkah WIKA berikutnya, apakah akan mengajukan usulan penyelesaian baru atau menggelar RUPSU susulan, karena dokumen ini tidak menyebutkan tenggat atau jadwal rapat lanjutan setelah kuorum keputusan 75 persen gagal tercapai pada 19 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pamg-catat-rugi-rp2-56-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "PAMG Catat [Rugi] Rp2,56 Miliar di Kuartal III 2026",
+  "deck": "Pendapatan turun 10,8 persen dan beban bunga naik membuat PAMG berbalik rugi bersih Rp2,56 miliar pada sembilan bulan pertama 2026, dari laba Rp965 juta setahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Oktober 2026",
+  "isoDate": "2026-10-21T11:56:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261021120504-64525-0/FinancialStatement-2026-III-PAMG.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PAMG",
+  "tags": [
+   "PAMG",
+   "laporan keuangan",
+   "rugi bersih",
+   "properti"
+  ],
+  "body": [
+   "PT Bima Sakti Pertiwi Tbk (PAMG) membukukan pendapatan Rp33,7 miliar untuk sembilan bulan pertama 2026, turun 10,8 persen dari Rp37,8 miliar pada periode yang sama tahun lalu. Setelah dikurangi beban pokok dan biaya operasional, laba usaha perusahaan turun lebih tajam, 28,3 persen, dari Rp9,35 miliar menjadi Rp6,71 miliar. Beban bunga yang naik 19,4 persen menjadi Rp6,81 miliar, ditambah beban pajak final atas pendapatan sewa, membuat laba sebelum pajak nyaris lenyap, hanya Rp276 juta, jauh dari Rp4,12 miliar pada tahun sebelumnya. Dengan tambahan beban pajak penghasilan, perusahaan akhirnya mencatat rugi bersih Rp2,56 miliar, berbalik dari laba Rp965 juta pada sembilan bulan pertama 2025. Rugi ini membuat laba per saham dasar dan dilusian menjadi negatif Rp0,82, dari positif Rp0,31 setahun sebelumnya.",
+   "Di sisi kas, arus kas dari aktivitas operasi PAMG berbalik negatif Rp5,14 miliar pada sembilan bulan pertama 2026, dari positif Rp723 juta pada periode yang sama tahun lalu, karena penerimaan dari pelanggan menyusut sementara pembayaran kepada pemasok dan karyawan relatif tetap. Perusahaan menutup kekurangan ini lewat pinjaman dari pihak berelasi senilai Rp17,12 miliar, yang membuat utang jangka panjang kepada pihak berelasi melonjak 64,8 persen, dari Rp26,41 miliar menjadi Rp43,53 miliar. Berkat pinjaman tersebut, kas dan setara kas Perseroan justru naik signifikan menjadi Rp2,1 miliar per akhir September 2026, dari Rp443 juta pada akhir 2025, meski perusahaan juga mencicil pinjaman bank sebesar Rp6,53 miliar pada periode ini.",
+   "Akibat rugi tahun berjalan, ekuitas PAMG menyusut tipis menjadi Rp427,17 miliar per 30 September 2026, dari Rp429,73 miliar pada akhir 2025, sementara total aset naik menjadi Rp597,38 miliar, ditopang kenaikan nilai properti investasi menjadi Rp576,58 miliar. Total liabilitas ikut naik 5,3 persen menjadi Rp170,22 miliar, terutama karena bertambahnya utang kepada pihak berelasi tersebut. PAMG, anggota PAM Group yang bergerak di bisnis penyewaan mal dan hotel di Pekanbaru, menyampaikan laporan keuangan interim yang tidak diaudit ini, ditandatangani oleh Direktur Utama Tjia Daniel Wirawan dan Direktur Keuangan Leonardus Sutarman pada 21 Oktober 2026."
+  ],
+  "fotoAdegan": "Wide exterior view of a multi-story shopping mall and hotel building with a parking lot in foreground, late afternoon light, Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi PAMG, karena pendapatan dan laba usahanya menyusut, sementara beban bunga yang lebih berat membuat perusahaan berbalik dari laba menjadi rugi bersih Rp2,56 miliar pada sembilan bulan pertama 2026. Yang perlu dicermati investor adalah laba per saham, yakni rugi dibagi jumlah saham beredar, yang kini negatif Rp0,82, serta arus kas dari operasi yang berbalik minus Rp5,14 miliar, artinya bisnis inti perusahaan belum menghasilkan kas tunai dan operasionalnya kini ditambal dengan pinjaman dari pihak berelasi yang melonjak jadi Rp43,53 miliar. Kenaikan utang pihak berelasi ini juga menambah beban bunga ke depan, yang pada gilirannya bisa makin menekan laba. Yang perlu dipantau selanjutnya adalah apakah tren rugi ini berlanjut di laporan keuangan tahun penuh 2026 serta bagaimana perusahaan mengelola jatuh tempo pinjaman bank jangka panjangnya, karena laporan ini tidak mencantumkan agenda RUPS atau tenggat pembayaran spesifik.",
   "sentimen": "negatif"
  },
  {

@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "byan-tak-konfirmasi-transaksi-rp2-588-jb-pegang-30-25",
+  "category": "Aksi Korporasi",
+  "title": "BYAN Tak Konfirmasi Transaksi Rp2.588, JB Pegang [30,25%]",
+  "deck": "Bursa mempertanyakan penjualan saham keluarga pendiri BYAN seharga Rp2.588, jauh di bawah harga beli Rp11.200 empat hari sebelumnya, sementara Jhonlin Baratama kini pegang 30,25% saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T15:02:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3092af4eed_dbe0665bfd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "kepemilikan saham",
+   "Jhonlin Baratama"
+  ],
+  "body": [
+   "Bursa Efek Indonesia meminta penjelasan lanjutan kepada Bayan Resources Tbk (BYAN) melalui surat S-13248/BEI.PP1/10-2026 tertanggal 20 Oktober 2026, menyoroti penjualan saham oleh Dato' Low Tuck Kwong dan Elaine Low pada 15-16 Oktober 2026 seharga Rp2.588 per saham, harga yang sama dengan transaksi yang terkait Perjanjian Jual Beli Saham Bersyarat (PJBS) dengan PT Jhonlin Baratama (JB). Bursa juga mempertanyakan dasar harga itu, mengingat empat hari sebelumnya, pada 14 Oktober 2026, Dato' Low Tuck Kwong justru membeli saham Perseroan di pasar reguler seharga Rp11.200 per saham, hampir empat kali lebih mahal. Dalam surat balasan bernomor 556/BR-IDX/X/2026 tertanggal 22 Oktober 2026 yang ditandatangani Direktur Jenny Quantero dan Direktur Alexander Ery Wibowo, BYAN menyatakan tidak bisa mengonfirmasi kaitan transaksi tersebut dengan JB, alasan kesamaan harga, maupun identitas dan profil pembeli, karena Perseroan bukan pihak dalam transaksi itu.",
+   "Soal susunan pemegang saham, BYAN mengutip Laporan Kepemilikan Saham dari sistem Akses PT Kustodian Sentral Efek Indonesia per 19 Oktober 2026. Dato' Low Tuck Kwong tercatat memiliki 2.766.667.800 saham atau 8,30 persen, dan Elaine Low memiliki 7.333.833.700 saham atau 22,00 persen, sehingga gabungan keduanya 30,30 persen dan masih menjadi pemegang saham terbesar. Sementara itu PT Jhonlin Baratama memegang 10.084.088.370 saham atau 30,25 persen, hanya terpaut 0,05 poin persentase dari gabungan saham keluarga pendiri. BYAN menyatakan belum menerima pemberitahuan soal pengendali baru yang mengumumkan pengambilalihan di media cetak nasional sebagaimana disyaratkan Pasal 7 ayat (1) POJK No. 9/2018, sehingga berpandangan belum ada perubahan pengendalian atas Perseroan.",
+   "Perseroan juga mengakui belum ada Laporan Kepemilikan Saham dari pihak pembeli atas transaksi 15-16 Oktober tersebut, dan menyatakan tidak mengetahui bidang usaha, susunan manajemen, pemegang saham, maupun pemilik manfaat akhir dari pembeli karena bukan pihak dalam transaksi. BYAN menegaskan tidak ada informasi atau fakta material lain yang belum diungkapkan ke publik dan berpotensi berdampak pada perdagangan sahamnya."
+  ],
+  "fotoAdegan": "Coal conveyor belts and heavy loaders moving ore at a large open-pit mine, dust haze in early morning light",
+  "takeaway": "Kami menilai laporan ini negatif dari sisi tata kelola, karena BYAN memilih tidak menjawab inti pertanyaan bursa soal selisih harga mencolok, saham keluarga pendiri dijual Rp2.588 sementara pembelian di pasar reguler empat hari sebelumnya oleh orang yang sama tercatat Rp11.200 per saham. Yang tersentuh bukan laba atau kas perusahaan, karena ini pemindahan saham yang sudah ada, bukan penerbitan saham baru, sehingga jumlah saham beredar dan laba per saham investor publik tidak berubah, yang bergeser adalah peta hak suara, karena gabungan saham Dato' Low Tuck Kwong dan Elaine Low kini 30,30 persen, nyaris berimpit dengan 30,25 persen milik Jhonlin Baratama, sehingga pemegang saham publik pantas mencermati siapa yang sebenarnya mengendalikan arah Bayan ke depan. Yang perlu dipantau berikutnya adalah apakah pembeli saham akhirnya menyampaikan Laporan Kepemilikan Saham ke KSEI untuk memastikan identitasnya, apakah muncul pengumuman pengambilalihan di media sesuai POJK 9/2018, serta bagaimana komposisi pengendalian ini terlihat pada RUPSLB Bayan yang dijadwalkan 23 November 2026 dengan daftar pemegang saham berhak hadir dihitung sejak 29 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bukk-jawab-bursa-piutang-jatuh-tempo-naik-ke-rp146-m",
+  "category": "Aksi Korporasi",
+  "title": "BUKK Jawab Bursa, [Piutang] Jatuh Tempo Naik ke Rp146 M",
+  "deck": "Bukaka menjelaskan ke BEI soal piutang usaha jatuh tempo yang melonjak dari Rp80,5 miliar jadi Rp146 miliar, plus koreksi klasifikasi beban Rp28,9 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T14:36:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/161024451a_8fd9d5635b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUKK",
+  "tags": [
+   "BUKK",
+   "piutang usaha",
+   "Bursa Efek Indonesia",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Bukaka Teknik Utama Tbk (BUKK) menyampaikan tanggapan resmi atas surat permintaan penjelasan dari Bursa Efek Indonesia Nomor S-13254/BEI.PP3/10-2026 tanggal 20 Oktober 2026, yang mempertanyakan sejumlah pos dalam laporan keuangan interim per 30 Juni 2026. Surat tanggapan bernomor 053/BTU/DIR-CORSEC/X-26 ini disampaikan pada 22 Oktober 2026 dan ditandatangani oleh Manager Accounting BUKK, Iwan Satiyawan.",
+   "Salah satu sorotan utama adalah piutang usaha yang telah jatuh tempo lebih dari 60 hari sampai satu tahun, yang naik dari Rp80,5 miliar pada 31 Desember 2025 menjadi sekitar Rp146 miliar pada 30 Juni 2026, terdiri dari piutang entitas induk Rp60 miliar dan entitas anak Rp86 miliar. Perseroan menjelaskan kenaikan ini terjadi karena piutang yang sebelumnya berumur di bawah 60 hari belum dibayar sehingga bergeser ke kategori lebih lama. Dari awal Juli hingga 21 Oktober 2026, sebesar Rp39,05 miliar dari piutang itu sudah diterima pembayarannya, sementara sisa Rp106,95 miliar masih dalam proses penagihan. Meski piutang membesar, perseroan semula tidak menambah cadangan kerugian piutang sebesar Rp77,2 miliar, namun belakangan menambah cadangan Rp7,15 miliar pada September 2026 yang baru akan tercermin di laporan keuangan periode 30 September 2026.",
+   "BUKK juga menjelaskan beberapa pos lain yang disoal bursa. Persediaan komponen \"lainnya\" turun dari Rp19,3 miliar menjadi Rp3 miliar karena pemakaian suku cadang dan bahan habis pakai untuk operasional entitas anak. Aset dalam pelaksanaan naik akibat pembangunan gedung fasilitas umum dan workshop di Balikpapan, Kalimantan Timur, yang sudah 96 persen rampung dan ditargetkan selesai 31 Desember 2026. Aset keuangan konsesi dari proyek PLTA Kerinci Merangin senilai Rp15,25 triliun, pembangkit 350 MW yang beroperasi komersial sejak 15 November 2025 berdasarkan perjanjian jual beli listrik 30 tahun dengan PT PLN (Persero), disebut tidak menunjukkan tanda gagal bayar karena PLN selalu membayar sesuai jatuh tempo. Selain itu, kenaikan aset lain-lain dipicu penerbitan bank garansi oleh entitas anak Bukaka Oil and Gas untuk proyek perawatan di India dan Oman.",
+   "Perseroan juga mengakui adanya kesalahan pengelompokan akun beban masih harus dibayar lain-lain senilai Rp28,9 miliar, yang seharusnya masuk kategori beban konstruksi untuk proyek-proyek di Balikpapan seperti Jasa Rejuvinasi 10 Platform OSES dan Major Construction OPLL Fase 2 Paket 2. BUKK menegaskan kesalahan ini tidak mengubah angka pengukuran maupun pengakuan dalam laporan keuangan konsolidasian, dan koreksi penyajian akan dilakukan pada laporan keuangan interim per 30 September 2026."
+  ],
+  "fotoAdegan": "Workers welding large steel pipe sections inside an industrial fabrication workshop, sparks flying, overhead crane in the background",
+  "takeaway": "Laporan ini condong negatif bagi BUKK karena memperlihatkan piutang usaha yang menumpuk jatuh tempo naik 82 persen dalam enam bulan tanpa penambahan cadangan kerugian saat itu, yang baru dikoreksi belakangan, ditambah pengakuan kesalahan klasifikasi beban yang menandakan ada kelonggaran dalam pencatatan keuangan. Pos yang tersentuh adalah piutang usaha, yakni uang yang belum diterima dari pelanggan, dan cadangan kerugian piutang, yaitu dana yang disisihkan perusahaan untuk menutup kemungkinan piutang tidak tertagih, karena begitu cadangan ini ditambah maka laba periode berikutnya otomatis tergerus. Di sisi lain ada penyeimbang positif, PT PLN (Persero) tercatat selalu membayar tepat waktu untuk aset konsesi PLTA Kerinci Merangin senilai Rp15,25 triliun, yang menjaga kualitas aset terbesar perseroan. Yang perlu dipantau berikutnya adalah laporan keuangan interim per 30 September 2026, yang akan memuat tambahan cadangan kerugian Rp7,15 miliar dan koreksi klasifikasi beban, serta kelanjutan penagihan sisa piutang Rp106,95 miliar yang disebut masih dalam proses.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cent-panggil-rupslb-direktur-eka-kania-mundur",
+  "category": "Aksi Korporasi",
+  "title": "CENT Panggil RUPSLB, Direktur Eka Kania [Mundur]",
+  "deck": "CENT memanggil RUPSLB pada 13 November 2026 untuk menyetujui pengunduran diri Direktur Eka Kania Mustikasari G dan pengangkatan Aditya sebagai direktur baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T14:19:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/784f022e13_38f60cf097.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CENT",
+  "tags": [
+   "CENT",
+   "RUPSLB",
+   "direksi",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Centratama Telekomunikasi Indonesia Tbk (CENT) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 13 November 2026, pukul 15.00 WIB, di Ruang Meeting Perseroan, TCC Batavia Tower One lantai 16, Jalan KH Mas Mansyur Kavling 126, Jakarta Pusat. Rapat ini hanya membawa satu agenda, yaitu persetujuan atas perubahan susunan pengurus perseroan. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per 21 Oktober 2026 pukul 16.00 WIB.",
+   "Dalam agenda tunggal itu, perseroan meminta persetujuan pemegang saham atas pengunduran diri Eka Kania Mustikasari G dari jabatan Direktur, sesuai permohonan yang diajukan kepada perseroan pada 30 September 2026. Perseroan juga meminta pembebasan dan pelunasan tanggung jawab penuh atas tindakan pengurusan Eka selama menjabat, sepanjang tercermin dalam laporan keuangan perseroan. Sebagai penggantinya, pemegang saham diminta menyetujui pengangkatan Aditya sebagai Direktur baru perseroan.",
+   "Rapat akan digelar secara elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia dan secara fisik dalam format terbatas, mengacu pada POJK 15/2020 dan POJK 14/2025. Pemegang saham yang memberi kuasa di luar mekanisme eASY.KSEI wajib mengirimkan surat kuasa kepada biro administrasi efek perseroan, PT Datindo Entrycom, paling lambat Selasa, 10 November 2026 pukul 15.00 WIB, atau tiga hari sebelum rapat dilaksanakan."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with leather chairs around a long table, floor-to-ceiling windows overlooking a Jakarta office tower skyline, soft morning light",
+  "takeaway": "Laporan ini netral bagi fundamental CENT karena pergantian satu direktur, tanpa indikasi konflik atau perubahan pada pemegang saham pengendali, termasuk rotasi manajemen yang biasa terjadi di perusahaan terbuka. Yang tersentuh di sini bukan angka laporan keuangan seperti ekuitas atau laba per saham, melainkan siapa yang akan mengambil keputusan strategis perusahaan, termasuk soal pengelolaan utang setelah CENT baru saja memperpanjang pinjaman sindikasi Rp12,48 triliun pekan lalu. Permintaan pembebasan tanggung jawab bagi direktur yang mengundurkan diri, dikenal dengan istilah acquit et de charge, sekadar formalitas hukum yang menyatakan kinerjanya selama menjabat sudah tercermin wajar di laporan keuangan dan tidak menyisakan tuntutan di kemudian hari. Yang perlu dipantau adalah hasil RUPSLB pada 13 November 2026 pukul 15.00 WIB, yang akan menentukan apakah pengunduran diri Eka Kania Mustikasari G dan pengangkatan Aditya sebagai direktur baru resmi disetujui, serta tenggat pengiriman surat kuasa ke PT Datindo Entrycom pada 10 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "raam-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Merespons permintaan BEI, Tripar Multivision Plus (RAAM) menyatakan tidak ada fakta material di balik pergerakan sahamnya dan belum berencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T14:14:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5cce1510f6_5d9eb126d8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAAM",
+  "tags": [
+   "RAAM",
+   "Tripar Multivision Plus",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "body": [
+   "PT Tripar Multivision Plus Tbk (RAAM) menjawab permintaan penjelasan dari Bursa Efek Indonesia melalui surat BEI nomor S-13305/BEI.PP1/10-2026 tertanggal 22 Oktober 2026 terkait volatilitas transaksi efek perseroan. Jawaban disampaikan pada hari yang sama oleh Corporate Secretary RAAM, Audrya Luvika Siregar, melalui sistem pelaporan elektronik IDXnet.",
+   "Dalam suratnya, RAAM menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek atau keputusan investasi pemodal, baik berdasarkan aturan OJK soal keterbukaan informasi (POJK 31/2015) maupun aturan BEI nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu, misalnya perubahan kepemilikan atau penjaminan saham, yang diatur dalam POJK Nomor 4 Tahun 2024. Untuk tiga bulan ke depan, manajemen menyebut belum memiliki rencana aksi korporasi yang berdampak signifikan terhadap status pencatatan saham RAAM di bursa.",
+   "Soal rencana pemegang saham utama, RAAM menyatakan sudah mengonfirmasi langsung ke pihak pengendali dan pemegang saham utama, dan sampai saat surat ini dikirim tidak ada rencana perubahan kepemilikan saham. Perseroan menegaskan tidak ada informasi, fakta, atau kejadian material lain yang belum diungkapkan ke publik dan dapat memengaruhi harga saham atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Film crew adjusting lighting rigs and camera equipment on an indoor soundstage, cables taped along the floor, dim ambient light.",
+  "takeaway": "Secara fundamental surat ini netral bagi RAAM, sebab isinya hanya penegasan bahwa tidak ada fakta baru, bukan pengumuman yang mengubah kondisi keuangan atau operasional perusahaan. Permintaan penjelasan seperti ini biasanya dipicu oleh pergerakan harga atau volume transaksi saham yang di luar kebiasaan, sehingga bursa ingin memastikan investor tidak mengambil keputusan berdasarkan rumor; dalam kasus ini tidak ada pos ekuitas, arus kas, jumlah saham beredar, maupun laba per saham yang tersentuh, karena RAAM sendiri menyatakan tidak ada aksi korporasi atau perubahan kepemilikan yang sedang berjalan. Yang perlu dipantau berikutnya adalah apakah volatilitas transaksi saham RAAM berlanjut dalam waktu dekat, sebab jika pola itu berulang, bursa bisa kembali meminta klarifikasi atau menaikkan status pengawasan, sementara jendela tiga bulan yang disebut perseroan untuk kemungkinan aksi korporasi akan berakhir sekitar akhir Januari 2027.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ri-australia-lanjutkan-prospera-kejar-aksesi-oecd-2028",
   "category": "Global",
   "title": "RI-Australia Lanjutkan PROSPERA, Kejar Aksesi OECD [2028]",
@@ -57,6 +162,84 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah di sini adalah Kementerian Perdagangan sedang menyiapkan sistem pelatihan daring sendiri untuk pegawainya, bernama Trade CorpU, yang sudah punya aturan resmi lewat Peraturan Menteri Perdagangan Nomor 4 Tahun 2026. Yang terdampak langsung adalah pegawai di delapan unit kerja Kemendag yang dikirim belajar, bukan pelaku usaha atau masyarakat umum, karena program ini masih tahap membangun kemampuan internal. Pihak Korea menyebut harapan agar metode ini kelak bisa menjangkau pelaku usaha kecil, tapi itu baru harapan lembaga donor, belum ada rencana atau jadwal yang menghubungkan pelatihan ASN ini dengan pelatihan untuk UMKM. Yang perlu dipantau adalah laporan hasil belajar yang wajib disusun tiap peserta dan apakah sistem ini benar-benar dipakai meluas ketika program masuk tahun ketiga pada 2027, karena baru di titik itu akan jelas apakah Trade CorpU mengubah cara Kemendag melayani pelaku usaha di daerah atau berhenti sebagai proyek pelatihan internal.",
   "imageV": "mvj7m3ds"
+ },
+ {
+  "slug": "nayz-akuisisi-btl-dinilai-80-4x-book-value-capai-rp2-24-triliun",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ: akuisisi BTL dinilai [80,4x] book value, capai Rp2,24 triliun",
+  "deck": "NAYZ mengoreksi jawabannya ke bursa soal akuisisi oleh Saiko, mengungkap nilai pengalihan saham Bangkok Tellink mencapai Rp2,24 triliun, 80,4 kali ekuitasnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T14:11:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5c84b9c52e_8c1145c31e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "Bangkok Tellink",
+   "rights issue",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Hassana Boga Sejahtera Tbk (NAYZ) mengoreksi surat penjelasannya kepada Bursa Efek Indonesia (BEI) tertanggal 20 Oktober 2026, menyusul permintaan penjelasan BEI melalui surat nomor S-13167/BEI.PP3/10-2026 tanggal 16 Oktober 2026. Dalam suratnya, Direktur Utama NAYZ, Dody Arifianto, menjelaskan latar belakang harga pengambilalihan saham perseroan oleh Saiko Consultancy Pte Ltd dari pengendali lama, Asia Intrainvesta, sebesar Rp23,5 per saham, jauh di bawah harga penutupan saham NAYZ di pasar sekunder pada 19 Agustus 2026 yang sebesar Rp63 per saham. Perseroan menegaskan harga itu merupakan hasil negosiasi jual beli saham dalam jumlah besar antara penjual dan pembeli sesuai Conditional Share Purchase Agreement, bukan cermin penurunan kinerja keuangan perseroan.",
+   "Untuk mendanai pembelian 20 persen saham Bangkok Tellink Co Ltd (BTL), sebanyak 1.138.500 dari total 5.692.500 saham senilai Rp448,3 miliar, NAYZ akan menggunakan dana hasil Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (rights issue), bukan kas internal yang per 30 Juni 2026 hanya tersisa Rp6,1 miliar. Total nilai pengalihan seluruh saham BTL diestimasi sebesar US$125 juta atau Rp2,24 triliun, setara 80,4 kali lipat dari nilai ekuitas BTL tahun 2025 yang hanya Rp27,9 miliar. Perseroan menyebut nilai itu berasal dari laporan penilaian Avison Young, penasihat BTL, menggunakan metode pendapatan dengan pendekatan diskonto arus kas, dan menegaskan nilai final nanti akan mengacu pada penilai independen yang terdaftar di OJK. Total aset BTL per akhir 2025, menurut laporan audit PKF, tercatat Rp74,05 miliar, dengan komponen terbesar berupa piutang usaha Rp20,09 miliar dan persediaan Rp19,75 miliar yang sebagian besar berupa 9.000 unit mesin penjual otomatis kartu SIM isi ulang yang terpasang di gerai 7-Eleven di seluruh Thailand.",
+   "Perseroan juga mengonfirmasi perubahan susunan pengurus menyusul pengambilalihan oleh Saiko. RUPSLB pada 2 Oktober 2026 telah menyetujui pengangkatan Nusttanakit Sasiarnon sebagai direktur dan Sawin Laosethakul sebagai komisaris, keduanya perwakilan Saiko. Saiko dan PT Saiko Consultancy Grand menyatakan tidak berencana melepas kepemilikan atau status pengendali dalam 10 tahun ke depan, dan tidak ada perubahan kebijakan dividen maupun covenant utang perseroan. NAYZ menambahkan, dalam 12 bulan ke depan perseroan berencana menggelar RUPSLB untuk meminta persetujuan pemegang saham atas rights issue tersebut, dengan tahapan RUPS Independen dan pendaftaran rights issue pada kuartal pertama 2027, pembelian 20 persen saham BTL dan pernyataan efektif OJK pada kuartal kedua 2027, hingga NAYZ efektif menguasai 75 persen BTL dan mengonsolidasikan pendapatannya mulai laporan keuangan tahun buku 2027."
+  ],
+  "fotoAdegan": "Exterior view of a glass office tower in Jakarta's financial district, pedestrians crossing below, late afternoon sunlight reflecting off windows",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama karena nilai estimasi pengalihan saham Bangkok Tellink yang akan dimasukkan ke NAYZ, Rp2,24 triliun, mencapai 80,4 kali lipat nilai ekuitas BTL yang hanya Rp27,9 miliar, sementara pembeliannya didanai lewat rights issue yang menambah jumlah saham beredar. Yang perlu diperhatikan pemegang saham ada dua: ekuitas perseroan akan membesar oleh suntikan modal baru, tapi jumlah saham beredar juga bertambah sehingga porsi kepemilikan dan laba per saham pemegang saham lama yang tidak ikut rights issue bisa tergerus, sementara arus kas perseroan tetap tipis karena kas sendiri Rp6,1 miliar tidak dipakai untuk transaksi ini. Perseroan sendiri menegaskan nilai akhir transaksi masih bisa berubah karena akan mengacu pada penilai independen yang terdaftar di OJK, bukan sekadar angka estimasi dari penasihat BTL. Yang perlu dipantau berikutnya adalah RUPS Independen dan pendaftaran rights issue yang ditargetkan kuartal pertama 2027, pembelian 20 persen saham BTL serta pernyataan efektif OJK pada kuartal kedua 2027, dan hasil penilaian independen yang akan menentukan apakah valuasi Rp2,24 triliun itu bertahan atau direvisi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "akku-gelar-paparan-publik-usai-suspensi-transparansi-diuji",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Gelar Paparan Publik Usai Suspensi, [Transparansi] Diuji",
+  "deck": "Paparan publik insidental AKKU dihadiri delapan pihak eksternal, termasuk sesi tanya jawab soal keterbukaan informasi terkait suspensi saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T13:39:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a97be8383d_29dfd85106.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKKU",
+  "tags": [
+   "AKKU",
+   "paparan publik",
+   "suspensi saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Anugerah Kagum Karya Utama Tbk (AKKU) menggelar paparan publik insidental pada Rabu, 21 Oktober 2026, pukul 10.30 WIB di Grand Asia Afrika Residence, Jalan Karapitan No. 1, Bandung. Perseroan diwakili oleh Presiden Direktur Irwan Suryadi, Direktur Heni Supartini, dan Komisaris Independen Wilhelmina. Di luar jajaran manajemen dan karyawan, acara ini dihadiri delapan orang, terdiri dari tujuh orang dari kalangan masyarakat dan satu jurnalis.",
+   "Acara dibuka oleh pembawa acara, dilanjutkan pemaparan visi dan misi, profil perusahaan, nilai-nilai perusahaan, susunan pengurus, serta komposisi pemegang saham oleh Irwan Suryadi. Ia juga memaparkan kinerja perseroan sampai kuartal II 2026, lalu menjelaskan alasan sahamnya sempat dihentikan sementara dari perdagangan (suspensi). Dokumen ini sendiri tidak merinci isi penjelasan suspensi tersebut, hanya mencatat bahwa topik itu disampaikan sebelum sesi tanya jawab dibuka.",
+   "Dalam sesi tanya jawab, satu pertanyaan tercatat diajukan oleh Anton Subekti dari kalangan masyarakat, yang menanyakan apakah ada informasi aktivitas perusahaan yang disampaikan secara terbatas hanya kepada sebagian pihak dan tidak dipublikasikan ke publik. Manajemen menjawab tidak ada aktivitas yang disampaikan secara selektif, dan menegaskan setiap agenda atau rencana aksi korporasi ke depan akan dipublikasikan kepada masyarakat secara terbuka."
+  ],
+  "fotoAdegan": "A dozen people seated in a modest conference room in Bandung, listening to a company representative speaking from the front, daylight through windows",
+  "takeaway": "Laporan ini netral bagi AKKU, sebab isinya sekadar memenuhi kewajiban melaporkan hasil paparan publik yang sebelumnya digelar menyusul suspensi saham, tanpa ada angka keuangan baru atau perubahan struktur kepemilikan yang diungkap. Dokumen ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham, melainkan soal keterbukaan informasi, yaitu kewajiban perusahaan terbuka memberi tahu semua hal penting ke seluruh investor secara bersamaan, bukan ke segelintir pihak saja. Yang perlu dicatat, forum ini hanya dihadiri delapan pihak eksternal dan cuma memunculkan satu pertanyaan, sementara penjelasan rinci soal pemicu penghentian perdagangan saham AKKU tidak ikut tertuang dalam laporan ini. Yang perlu dipantau berikutnya adalah apakah perseroan membuka lebih detail alasan lonjakan harga dan suspensi sahamnya lewat keterbukaan informasi lanjutan, serta bagaimana status perdagangan sahamnya berkembang setelah sesi ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kota-tunda-rupslb-rights-issue-ojk-masih-minta-data-tambahan",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Tunda RUPSLB [Rights Issue], OJK Masih Minta Data Tambahan",
+  "deck": "RUPSLB KOTA yang sedianya digelar 23 Oktober ditunda tanpa jadwal baru, menyusul permintaan tambahan informasi dari OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T13:19:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e1bb79a37_67e5062d15.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "rights issue",
+   "OJK"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) mengirim surat koreksi bernomor 346/DMSP/X/2026 pada 22 Oktober 2026, mengoreksi surat sebelumnya nomor 343/DMSP/X/2026 tertanggal 14 Oktober 2026 tentang penundaan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Dalam surat ini, Direktur KOTA Gema Pratama menegaskan bahwa RUPSLB yang sebelumnya dijadwalkan ulang ke Jumat, 23 Oktober 2026 pukul 14.00 WIB di Azana Suite Hotel Antasari, kembali ditunda sampai waktu yang belum ditentukan.",
+   "Alasan penundaan, menurut surat tersebut, adalah karena Perseroan masih dalam proses memenuhi dan menelaah tambahan permintaan informasi dari Otoritas Jasa Keuangan (OJK). Perseroan menyatakan perlu waktu yang memadai untuk menindaklanjuti permintaan itu secara cermat dan menyeluruh sebelum RUPSLB bisa digelar, dan berjanji mengumumkan jadwal baru setelah ada kepastian.",
+   "RUPSLB ini nantinya akan membahas lima agenda sekaligus: persetujuan rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD) atau rights issue melalui penawaran umum terbatas sesuai POJK No. 32/POJK.04/2015 yang diubah POJK No. 14/POJK.04/2019; perubahan Pasal 4 ayat (1) dan (2) Anggaran Dasar terkait kenaikan modal dasar, modal ditempatkan dan disetor serta penerbitan saham seri baru yaitu Seri B; persetujuan transaksi material sesuai POJK No. 17/POJK.04/2020; perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025; dan persetujuan perubahan rencana penggunaan dana hasil Penawaran Umum Perdana Saham (PUPS) Perseroan."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a mid-rise building site in Jakarta, overcast afternoon light, cranes visible in the background",
+  "takeaway": "Laporan ini negatif bagi KOTA, karena RUPSLB yang akan menentukan rencana penambahan modal lewat rights issue dan transaksi material kembali tertunda tanpa jadwal pasti, dan penyebabnya adalah OJK yang masih meminta tambahan informasi, tanda bahwa proses perizinan belum tuntas. Yang tersentuh adalah jumlah saham beredar dan permodalan perusahaan, sebab rencana ini akan menerbitkan saham baru seri B yang berpotensi mendilusi laba per saham pemegang lama, sementara rencana perubahan penggunaan dana hasil IPO juga berkaitan langsung dengan struktur keuangan Perseroan. Yang perlu dipantau selanjutnya adalah kapan Perseroan mengumumkan jadwal RUPSLB pengganti dan bagaimana kelanjutan pemenuhan permintaan tambahan informasi dari OJK, karena keduanya menjadi syarat sebelum rencana penambahan modal dan transaksi material ini bisa dimintakan persetujuan pemegang saham.",
+  "sentimen": "negatif"
  },
  {
   "slug": "ratu-jawab-permintaan-bursa-soal-volatilitas-saham",
@@ -267,6 +450,58 @@ var ARTICLES = [
   "fotoAdegan": "A barista steaming milk behind the counter of a small modern coffee shop storefront on a busy Jakarta street, morning commuters passing by",
   "takeaway": "Laporan ini condong positif bagi FORE, sebab pertumbuhan pendapatan 53,3 persen dan laba bersih 49,7 persen itu dibarengi membaiknya efisiensi operasional, bukan cuma karena gerai bertambah. Yang paling layak diperhatikan adalah margin EBITDA, yakni seberapa besar laba operasional yang dihasilkan dari setiap rupiah pendapatan sebelum dipotong bunga, pajak, dan penyusutan aset, yang naik dari 19,3 persen jadi 21,4 persen, artinya setiap gerai kini menghasilkan laba lebih besar, bukan sekadar menambah omzet lewat jumlah gerai. Yang perlu dipantau berikutnya adalah apakah efisiensi ini bisa dipertahankan saat ekspansi makin masuk ke kota Tier 2 dan Tier 3 yang daya belinya umumnya lebih rendah dari Jakarta, serta bagaimana sisa dana hasil penawaran saham perdana 2025 benar-benar terserap untuk pengembangan Fore Donut dan modal kerja seperti yang disebutkan manajemen.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "bbri-siapkan-buyback-saham-rp1-triliun-rampung-3-bulan",
+  "category": "Aksi Korporasi",
+  "title": "BBRI Siapkan [Buyback] Saham Rp1 Triliun, Rampung 3 Bulan",
+  "deck": "BRI akan membeli kembali sahamnya senilai maksimal Rp1 triliun dari kas internal selama 22 Oktober 2026 hingga 21 Januari 2027, memanfaatkan aturan OJK untuk kondisi pasar yang bergejolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T07:41:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9a298ba47b_ea6130fd80.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBRI",
+  "tags": [
+   "BBRI",
+   "buyback saham",
+   "OJK",
+   "Bank BRI"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk mengumumkan rencana membeli kembali sahamnya sendiri (buyback) senilai maksimal Rp1 triliun, setelah mendapat persetujuan Otoritas Jasa Keuangan melalui surat No. S-210/PB.21/2026 tertanggal 22 Oktober 2026. Buyback ini memakai payung aturan OJK No. 13/2023 tentang kebijakan menjaga stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan, yang pelaksanaannya diaktifkan lewat surat OJK No. S-112/D.04/2026 tertanggal 9 September 2026. Ini adalah Buyback 2026 Tahap II, berlangsung dari 22 Oktober 2026 sampai paling lambat 21 Januari 2027.",
+   "Pembelian dilakukan melalui Bursa Efek Indonesia lewat satu anggota bursa yang ditunjuk, bisa bertahap atau sekaligus, dengan dana diambil dari kas internal perusahaan. Total saham hasil buyback yang disimpan sebagai saham treasury dibatasi maksimal 10 persen dari modal disetor BRI, dan perseroan memperkirakan biaya tambahan seperti komisi pialang sebesar-besarnya 0,2 persen dari nilai buyback. Saham yang dibeli kembali rencananya dialihkan untuk program kepemilikan saham bagi pekerja, direksi, dan dewan komisaris BRI, tetapi pengalihan itu baru bisa dijalankan setelah mendapat persetujuan Rapat Umum Pemegang Saham (RUPS).",
+   "Berdasarkan simulasi dampak keuangan per 30 Juni 2026, BRI memperkirakan total aset turun dari Rp2.342.796 miliar menjadi Rp2.341.796 miliar, dan total ekuitas turun dari Rp333.620 miliar menjadi Rp332.620 miliar, masing-masing berkurang Rp1 triliun sesuai nilai buyback. Laba bersih diproyeksikan tetap di Rp31.183 miliar, sementara laba per saham naik dari Rp206,94 menjadi Rp207,50 karena jumlah saham beredar mengecil. Rasio kecukupan modal (CAR) turun tipis dari 21,49 persen menjadi 21,42 persen, sedangkan rasio imbal hasil ekuitas (ROE) naik dari 18,79 persen menjadi 18,80 persen."
+  ],
+  "fotoAdegan": "Wide exterior shot of a modern glass office tower in Jakarta's financial district, viewed from a busy street at midday, no readable signage",
+  "takeaway": "Buyback ini tergolong netral bagi fundamental BRI karena nilainya, Rp1 triliun, hanya sekitar 0,3 persen dari total ekuitas Rp333 triliun, sehingga dampaknya ke kesehatan keuangan bank nyaris tidak terasa meski arahnya sedikit menguntungkan. Yang tersentuh adalah ekuitas dan laba per saham: ekuitas adalah kekayaan bersih perusahaan setelah dikurangi utang, dan laba per saham adalah keuntungan yang dibagi rata ke setiap lembar saham beredar, jadi kalau jumlah saham berkurang lewat buyback, laba per saham bisa naik meski labanya sama. Rasio kecukupan modal bank, yang menunjukkan seberapa kuat bantalan modal BRI menyerap kerugian, juga nyaris tidak bergeser dan masih jauh di atas batas minimum yang diwajibkan OJK. Yang perlu dipantau berikutnya adalah realisasi buyback sepanjang 22 Oktober 2026 hingga 21 Januari 2027, serta keterbukaan informasi terpisah soal rencana pengalihan saham hasil buyback ke program kepemilikan saham karyawan dan direksi yang masih menunggu persetujuan RUPS.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inet-ganti-wali-amanat-sukuk-ijarah-ke-cimb-niaga",
+  "category": "Aksi Korporasi",
+  "title": "INET Ganti [Wali Amanat] Sukuk Ijarah ke CIMB Niaga",
+  "deck": "PT Sinergi Inti Andalan Prima Tbk mengundang pemegang Sukuk Ijarah untuk RUPSI pada 5 November 2026 guna menyetujui penggantian wali amanat dari Bank KB Indonesia menjadi CIMB Niaga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T06:52:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a3153cb8f8_c7e58a1997.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "Sukuk Ijarah",
+   "Wali Amanat",
+   "CIMB Niaga"
+  ],
+  "body": [
+   "PT Sinergi Inti Andalan Prima Tbk (INET) memanggil para pemegang Sukuk Ijarah I Sinergi Inti Andalan Prima Tahun 2026 untuk menghadiri Rapat Umum Pemegang Sukuk Ijarah (RUPSI) pada Kamis, 5 November 2026 pukul 15.30 WIB di Belgravia, lantai 2 The Langham, kawasan SCBD Senayan, Jakarta Selatan. RUPSI ini diselenggarakan atas usulan perseroan selaku emiten, bukan atas permintaan wali amanat.",
+   "Agenda utama rapat adalah persetujuan penggantian wali amanat Sukuk Ijarah, dari sebelumnya PT Bank KB Indonesia Tbk menjadi PT Bank CIMB Niaga Tbk. Wali amanat saat ini ditunjuk berdasarkan Akta Perjanjian Perwaliamanatan tanggal 28 Oktober 2025 yang telah diubah lima kali, terakhir melalui Addendum V tanggal 28 Januari 2026. Jika disetujui, pemegang sukuk juga akan mendelegasikan kewenangan kepada wali amanat pengganti untuk mengubah Perjanjian Perwaliamanatan dan menandatangani seluruh akta, addendum, serta dokumen lain yang diperlukan dalam proses peralihan tersebut.",
+   "Rapat ini sah jika dihadiri pemegang sukuk yang mewakili minimal tiga perempat dari total Sukuk Ijarah yang belum dilunasi, tidak termasuk sukuk yang dimiliki emiten atau afiliasinya, dan keputusan baru mengikat jika disetujui minimal tiga perempat dari sukuk yang hadir. Pemegang sukuk yang berhak hadir adalah yang namanya tercatat di Kustodian Sentral Efek Indonesia empat hari kerja sebelum rapat, dan wajib membawa Konfirmasi Tertulis Untuk RUPSI (KTUR) serta identitas diri. Jika kuorum tidak tercapai pada rapat pertama, RUPSI kedua wajib digelar 14 hingga 21 hari kalender setelahnya."
+  ],
+  "fotoAdegan": "Modern high-rise office towers in Jakarta's SCBD business district reflecting afternoon sunlight, wide low-angle street view",
+  "takeaway": "Perubahan ini condong netral bagi INET karena yang berganti hanya pihak yang mengawasi kepatuhan perseroan atas perjanjian utang sukuknya, bukan nilai pokok, kupon, atau hak pemegang sukuk itu sendiri. Wali amanat adalah pihak yang mewakili kepentingan pemegang sukuk di hadapan emiten, sehingga pelaku pasar memperhatikan pergantian ini karena menyangkut siapa yang akan mengawasi arus kas dan kepatuhan Sinergi Inti Andalan Prima terhadap perjanjian perwaliamanatan, bukan pos ekuitas atau laba per saham perseroan. Yang perlu dipantau adalah hasil RUPSI pada 5 November 2026 itu sendiri, termasuk kemungkinan digelarnya rapat kedua sekitar 19 hingga 26 November 2026 jika kuorum tiga perempat dari sukuk yang belum dilunasi tidak tercapai pada kesempatan pertama.",
+  "sentimen": "netral"
  },
  {
   "slug": "moya-bentuk-usaha-patungan-olah-air-rp6-6-miliar",

@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "byan-tak-konfirmasi-transaksi-rp2-588-jb-pegang-30-25",
+  "category": "Aksi Korporasi",
+  "title": "BYAN Tak Konfirmasi Transaksi Rp2.588, JB Pegang [30,25%]",
+  "deck": "Bursa mempertanyakan penjualan saham keluarga pendiri BYAN seharga Rp2.588, jauh di bawah harga beli Rp11.200 empat hari sebelumnya, sementara Jhonlin Baratama kini pegang 30,25% saham.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "kepemilikan saham",
+   "Jhonlin Baratama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3092af4eed_dbe0665bfd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bukk-jawab-bursa-piutang-jatuh-tempo-naik-ke-rp146-m",
+  "category": "Aksi Korporasi",
+  "title": "BUKK Jawab Bursa, [Piutang] Jatuh Tempo Naik ke Rp146 M",
+  "deck": "Bukaka menjelaskan ke BEI soal piutang usaha jatuh tempo yang melonjak dari Rp80,5 miliar jadi Rp146 miliar, plus koreksi klasifikasi beban Rp28,9 miliar.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUKK",
+   "piutang usaha",
+   "Bursa Efek Indonesia",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/161024451a_8fd9d5635b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cent-panggil-rupslb-direktur-eka-kania-mundur",
+  "category": "Aksi Korporasi",
+  "title": "CENT Panggil RUPSLB, Direktur Eka Kania [Mundur]",
+  "deck": "CENT memanggil RUPSLB pada 13 November 2026 untuk menyetujui pengunduran diri Direktur Eka Kania Mustikasari G dan pengangkatan Aditya sebagai direktur baru.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CENT",
+   "RUPSLB",
+   "direksi",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/784f022e13_38f60cf097.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "raam-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Merespons permintaan BEI, Tripar Multivision Plus (RAAM) menyatakan tidak ada fakta material di balik pergerakan sahamnya dan belum berencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAAM",
+   "Tripar Multivision Plus",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5cce1510f6_5d9eb126d8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-australia-lanjutkan-prospera-kejar-aksesi-oecd-2028",
   "category": "Global",
   "title": "RI-Australia Lanjutkan PROSPERA, Kejar Aksesi OECD [2028]",
@@ -37,6 +101,54 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kolaborasi-kemendag-dan-koica-untuk-pembelajaran-daring-trade-corporate-university",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "nayz-akuisisi-btl-dinilai-80-4x-book-value-capai-rp2-24-triliun",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ: akuisisi BTL dinilai [80,4x] book value, capai Rp2,24 triliun",
+  "deck": "NAYZ mengoreksi jawabannya ke bursa soal akuisisi oleh Saiko, mengungkap nilai pengalihan saham Bangkok Tellink mencapai Rp2,24 triliun, 80,4 kali ekuitasnya.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NAYZ",
+   "Bangkok Tellink",
+   "rights issue",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5c84b9c52e_8c1145c31e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akku-gelar-paparan-publik-usai-suspensi-transparansi-diuji",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Gelar Paparan Publik Usai Suspensi, [Transparansi] Diuji",
+  "deck": "Paparan publik insidental AKKU dihadiri delapan pihak eksternal, termasuk sesi tanya jawab soal keterbukaan informasi terkait suspensi saham.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKKU",
+   "paparan publik",
+   "suspensi saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a97be8383d_29dfd85106.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kota-tunda-rupslb-rights-issue-ojk-masih-minta-data-tambahan",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Tunda RUPSLB [Rights Issue], OJK Masih Minta Data Tambahan",
+  "deck": "RUPSLB KOTA yang sedianya digelar 23 Oktober ditunda tanpa jadwal baru, menyusul permintaan tambahan informasi dari OJK.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "rights issue",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e1bb79a37_67e5062d15.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ratu-jawab-permintaan-bursa-soal-volatilitas-saham",
@@ -166,6 +278,38 @@ var ARTICLES = [
    "ekspansi gerai"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/511feacc71_e8bd7c268e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbri-siapkan-buyback-saham-rp1-triliun-rampung-3-bulan",
+  "category": "Aksi Korporasi",
+  "title": "BBRI Siapkan [Buyback] Saham Rp1 Triliun, Rampung 3 Bulan",
+  "deck": "BRI akan membeli kembali sahamnya senilai maksimal Rp1 triliun dari kas internal selama 22 Oktober 2026 hingga 21 Januari 2027, memanfaatkan aturan OJK untuk kondisi pasar yang bergejolak.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBRI",
+   "buyback saham",
+   "OJK",
+   "Bank BRI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9a298ba47b_ea6130fd80.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inet-ganti-wali-amanat-sukuk-ijarah-ke-cimb-niaga",
+  "category": "Aksi Korporasi",
+  "title": "INET Ganti [Wali Amanat] Sukuk Ijarah ke CIMB Niaga",
+  "deck": "PT Sinergi Inti Andalan Prima Tbk mengundang pemegang Sukuk Ijarah untuk RUPSI pada 5 November 2026 guna menyetujui penggantian wali amanat dari Bank KB Indonesia menjadi CIMB Niaga.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "Sukuk Ijarah",
+   "Wali Amanat",
+   "CIMB Niaga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a3153cb8f8_c7e58a1997.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6353,153 +6497,6 @@ var ARTICLES = [
   ],
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/asa-ekspor-umkm-dari-ruang-tamu-pilihan-busan",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bbsi-pastikan-tak-ada-fakta-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "BBSI Pastikan Tak Ada Fakta Material di Balik [Volatilitas] Saham",
-  "deck": "Krom Bank Indonesia menjawab permintaan BEI soal pergerakan tak biasa sahamnya, menyatakan tak ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBSI",
-   "Krom Bank Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a93846bd0e_fe1d2f92bb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bton-bantah-ada-info-material-di-balik-volatilitas-transaksi",
-  "category": "Aksi Korporasi",
-  "title": "BTON Bantah Ada Info Material di Balik [Volatilitas] Transaksi",
-  "deck": "Menanggapi permintaan penjelasan BEI, Betonjaya Manunggal (BTON) menyatakan tidak ada informasi material dan belum ada rencana aksi korporasi dalam tiga bulan mendatang.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTON",
-   "Betonjaya Manunggal",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a0eaa831a_b9e05bd465.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cnaf-rampungkan-realisasi-dana-obligasi-rp196-5-miliar",
-  "category": "Aksi Korporasi",
-  "title": "CNAF rampungkan realisasi dana [obligasi] Rp196,5 miliar",
-  "deck": "CIMB Niaga Auto Finance (CNAF) melaporkan seluruh dana hasil obligasi tahap I 2026 senilai Rp196,52 miliar sudah terpakai untuk pembiayaan modal kerja, tanpa sisa dana.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CNAF",
-   "obligasi",
-   "penggunaan dana",
-   "multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/aa25569a04_e4852c9331.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-jadi-rp2-561-000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Jadi Rp2.561.000 per Gram",
-  "deck": "Harga emas batangan Antam turun Rp13.000 menjadi Rp2.561.000 per gram pada 15 Oktober 2026, diikuti penurunan harga buyback.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-561-000-per-gram.jpg",
-  "imageV": "mv8zvki0",
-  "tags": [
-   "emas antam",
-   "harga emas",
-   "logam mulia",
-   "buyback emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473111-saatnya-beli-harga-emas-antam-hari-ini-15-oktober-2026-turun-jadi-rp2561000-per-gram"
- },
- {
-  "slug": "jecx-jadwalkan-rupslb-pada-23-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "JECX Jadwalkan [RUPSLB] pada 23 November 2026",
-  "deck": "PT Nitrasanata Dharma Tbk akan menggelar RUPSLB pada 23 November 2026, dengan pemegang saham per 29 Oktober berhak hadir.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "RUPSLB",
-   "Nitrasanata Dharma",
-   "Rapat Umum Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3fc9ca4bc9_cf1bad67f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dsng-tak-ada-dampak-karhutla-ke-operasional-sawit",
-  "category": "Aksi Korporasi",
-  "title": "DSNG: Tak Ada Dampak [Karhutla] ke Operasional Sawit",
-  "deck": "DSNG menjawab permintaan penjelasan Bursa soal kebakaran hutan dan lahan, memastikan tidak ada insiden karhutla maupun dampak material di seluruh wilayah operasionalnya.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DSNG",
-   "karhutla",
-   "kelapa sawit",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b0b2db0b2f_c8d11195c9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sqmi-wilton-resources-alihkan-kendali-ke-maxglory-capital",
-  "category": "Aksi Korporasi",
-  "title": "SQMI: Wilton Resources Alihkan Kendali ke [Maxglory] Capital",
-  "deck": "WRC, pengendali tidak langsung SQMI, teken perjanjian penempatan saham dan obligasi konversi dengan Maxglory Capital senilai sekitar US$70 juta yang akan mengalihkan kendali ke MCL.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SQMI",
-   "Wilton Makmur",
-   "Wilton Resources",
-   "perubahan pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a307830c37_adce9d16e0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fore-catat-transaksi-afiliasi-rp5-miliar-antar-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "FORE Catat Transaksi Afiliasi [Rp5 Miliar] Antar Anak Usaha",
-  "deck": "PT Fore Kopi Indonesia Tbk melaporkan jual beli bahan baku senilai maksimal Rp5 miliar antara dua anak usahanya, CFI dan FBI, untuk mendukung bisnis restoran CFI.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORE",
-   "transaksi afiliasi",
-   "Fore Kopi Indonesia",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/97061df633_822a93cc12.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara",
-  "category": "UMKM",
-  "title": "10 Merek Kuliner RI Teken MoU Ekspansi ke [5] Negara",
-  "deck": "Pangan Nusa Expo 2026 dibuka berbarengan TEI ke-41 di ICE BSD City, menampilkan lebih dari 213 UMKM pangan dan penandatanganan 10 MoU ekspansi kuliner ke lima negara.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
-  "imageV": "mv8rurns",
-  "tags": [
-   "UMKM",
-   "ekspor kuliner",
-   "Pangan Nusa Expo",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-pangan-nusa-expo-2026-mendag-busan-dorong-umkm-pangan-perluas-pasar-domestik-dan-global",
   "sourceLabel": "Kementerian Perdagangan"
  }
 ];

@@ -5,6 +5,64 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "konservasi-laut-ri-capai-31-6-juta-hektare-per-oktober-2026",
+  "category": "Industri",
+  "title": "Konservasi Laut RI [Capai] 31,6 Juta Hektare per Oktober 2026",
+  "deck": "KKP melaporkan luas kawasan konservasi laut nasional mencapai 31,6 juta hektare, seiring penangkapan kapal pelaku illegal fishing yang terus berlangsung sepanjang 2024-2026.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/konservasi-laut-ri-capai-31-6-juta-hektare-per-oktober-2026.jpg",
+  "imageV": "mvjg6ep1",
+  "tags": [
+   "KKP",
+   "illegal fishing",
+   "konservasi laut",
+   "perikanan"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/dua-tahun-prabowo-gibran-kkp-perkuat-konservasi-laut-dan-pengawasan-iuu-fishing-gnRY.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "investasi-era-presiden-prabowo-tembus-rp3-923-triliun",
+  "category": "Makroekonomi",
+  "title": "Investasi Era Presiden Prabowo [Tembus] Rp3.923 Triliun",
+  "deck": "Realisasi investasi dua tahun pemerintahan Presiden Prabowo Subianto mencapai Rp3.923,2 triliun dan menyerap 5,49 juta tenaga kerja, dengan hilirisasi berkontribusi 31,2 persen pada 2026.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/investasi-era-presiden-prabowo-tembus-rp3-923-triliun.jpg",
+  "imageV": "mvjg6g9v",
+  "tags": [
+   "Investasi",
+   "BKPM",
+   "Hilirisasi",
+   "Presiden Prabowo"
+  ],
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/dua-tahun-pemerintahan-presiden-prabowo-investasi-tembus-rp3-923-2-triliun-dan-serap-5-49-juta-tenaga-kerja",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "pemerintah-pasang-target-pertumbuhan-6-untuk-2027",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Pasang Target Pertumbuhan [6%] untuk 2027",
+  "deck": "Pemerintah mengklaim stabilitas ekonomi domestik masih solid, dengan investasi tumbuh 7,3 persen, sebagai dasar menaikkan target pertumbuhan ke 6 persen pada 2027.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7177/pemerintah-jaga-stabilitas-ekonomi-dalam-negeri-untuk-pertahankan-kepercayaan-investor",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "cepa-ri-kanada-resmi-berlaku-1-desember-2026",
+  "category": "Global",
+  "title": "CEPA RI-Kanada Resmi Berlaku [1 Desember] 2026",
+  "deck": "Setelah tukar notifikasi ratifikasi, I-CA CEPA mulai berlaku 1 Desember 2026 dan membebaskan tarif 90,55 persen pos tarif produk Indonesia ke Kanada.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/implementasi-indonesia-canada-cepa-pada-1-desember-2026-mendag-busan-optimistis-ekspor-ke-kanada-menguat",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "wifi-rombak-direksi-dan-komisaris-tambah-kbli-konstruksi",
   "category": "Aksi Korporasi",
   "title": "WIFI Rombak Direksi dan Komisaris, Tambah [KBLI] Konstruksi",
@@ -131,6 +189,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6eb3cf720c_ad8b8d6130.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bi-jatim-dorong-riset-jadi-basis-kebijakan-ekonomi",
+  "category": "Makroekonomi",
+  "title": "BI Jatim Dorong [Riset] Jadi Basis Kebijakan Ekonomi",
+  "deck": "BI Jatim mengajak pemerintah daerah memakai riset ilmiah sebagai dasar kebijakan pembangunan, ditandai penyerahan laporan ekonomi dan hasil forum EJAVEC 2026 ke Wakil Gubernur Jatim.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/bi-jatim-dorong-riset-jadi-basis-kebijakan-ekonomi.jpg",
+  "imageV": "mvjg6hk4",
+  "tags": [
+   "BI Jatim",
+   "EJAVEC 2026",
+   "riset ekonomi",
+   "Jawa Timur"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474433-bi-jatim-dorong-riset-jadi-dasar-kebijakan-pembangunan-ekonomi"
  },
  {
   "slug": "sgro-jawab-bursa-klaim-tak-ada-info-material-baru",
@@ -269,7 +344,7 @@ var ARTICLES = [
   "title": "RI-Australia Lanjutkan PROSPERA, Kejar Aksesi OECD [2028]",
   "deck": "Indonesia dan Australia memperpanjang program kerja sama ekonomi Prospera ke fase kedua untuk mendukung proses aksesi ke OECD dan CPTPP, plus kerja sama digital dan penerbangan.",
   "date": "22 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "PROSPERA",
    "OECD",
@@ -758,7 +833,7 @@ var ARTICLES = [
   "title": "RI Kejar Ratifikasi [IEU-CEPA] Sebelum Berlaku 2027",
   "deck": "Pemerintah menargetkan IEU-CEPA dengan Uni Eropa diratifikasi semester II 2026 dan berlaku awal 2027, salah satu dari beberapa agenda integrasi ekonomi internasional yang dikejar bersamaan.",
   "date": "21 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "IEU-CEPA",
    "OECD",
@@ -841,7 +916,7 @@ var ARTICLES = [
   "title": "Investasi KEK Baru [Rp46] Triliun, Kejar Target Rp69 Triliun",
   "deck": "Realisasi investasi di 25 kawasan ekonomi khusus capai Rp46 triliun hingga September 2026, baru dua pertiga dari target Rp69 triliun tahun ini.",
   "date": "21 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "KEK",
    "Investasi",
@@ -3035,7 +3110,7 @@ var ARTICLES = [
   "title": "RI Kejar Penandatanganan IEU-CEPA, Berlaku Awal [2027]",
   "deck": "Pemerintah mempercepat proses penandatanganan dan ratifikasi IEU-CEPA agar perjanjian dagang dengan Uni Eropa itu mulai berlaku awal 2027.",
   "date": "19 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -4444,7 +4519,7 @@ var ARTICLES = [
   "title": "Dagang RI-Rusia Naik 21,6%, FTA Eurasia Ditarget [Rampung] 2026",
   "deck": "Menko Airlangga dan Deputi PM Rusia Denis Manturov membahas penguatan perdagangan bilateral yang naik 21,6 persen pada 2025, serta target ratifikasi FTA Indonesia-EAEU sebelum akhir 2026.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "Rusia",
    "Perdagangan",
@@ -5542,7 +5617,7 @@ var ARTICLES = [
   "title": "Indonesia Perkuat Kesiapan [Aksesi] ke Pakta CPTPP",
   "deck": "Kemenko Perekonomian menggelar workshop teknis bersama negara anggota CPTPP untuk mematangkan kesiapan Indonesia bergabung ke pakta dagang itu.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "CPTPP",
    "Kemenko Perekonomian",
@@ -5806,7 +5881,7 @@ var ARTICLES = [
   "title": "Ekspor RI ke Inggris Hadapi Skema Tarif [Baru] 2027",
   "deck": "Kemendag dan Inggris perkuat kerja sama dagang, sementara skema tarif ekspor Inggris untuk Indonesia akan berubah mulai Januari 2027.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "Indonesia-Inggris",
    "Ekspor",
@@ -5870,7 +5945,7 @@ var ARTICLES = [
   "title": "Wamendag Soroti Peran Swedia dalam [I-EU CEPA] di TEI 2026",
   "deck": "Wamendag Dyah Roro Esti menyoroti peran Swedia dalam I-EU CEPA di forum bisnis Trade Expo Indonesia 2026, dengan nilai dagang RI-Swedia mencapai US$872,2 juta pada 2025.",
   "date": "15 Oktober 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "I-EU CEPA",
    "Swedia",
@@ -6410,86 +6485,6 @@ var ARTICLES = [
    "Sumatera Selatan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/91a8b3cfc4_d2e4bf752f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-jadwalkan-rupslb-23-november-dps-29-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BYAN Jadwalkan [RUPSLB] 23 November, DPS 29 Oktober",
-  "deck": "Bayan Resources menjadwalkan RUPSLB pada 23 November 2026, dengan recording date pemegang saham 29 Oktober 2026. Agenda resmi baru diumumkan 30 Oktober.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "RUPSLB",
-   "Bayan Resources",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/572bb95a2c_041ccb7a8b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oils-pastikan-tak-terdampak-karhutla-operasional-aman",
-  "category": "Aksi Korporasi",
-  "title": "OILS Pastikan Tak Terdampak [Karhutla], Operasional Aman",
-  "deck": "OILS menjawab permintaan penjelasan BEI soal isu karhutla nasional, menegaskan asetnya di Lampung Timur hanya gudang bahan baku dan tidak ada dampak operasional maupun hukum.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OILS",
-   "karhutla",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e7f0e01dfb_edd2e6e9e2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-gaet-danantara-dan-ina-danai-proyek-ca-edc",
-  "category": "Aksi Korporasi",
-  "title": "TPIA Gaet Danantara dan INA Danai Proyek [CA-EDC]",
-  "deck": "Danantara, INA, dan Chandra Asri Group merampungkan kemitraan investasi untuk proyek petrokimia CA-EDC di Cilegon yang konstruksinya sudah 80 persen jadi.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "Chandra Asri",
-   "Danantara",
-   "CA-EDC"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6cea027363_e04877f97d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rmke-pastikan-operasi-tambang-tak-terdampak-karhutla",
-  "category": "Aksi Korporasi",
-  "title": "RMKE Pastikan Operasi Tambang [Tak Terdampak] Karhutla",
-  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, RMK Energy sebut seluruh lokasi operasinya aman dan tidak ada gangguan produksi maupun hukum.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RMKE",
-   "karhutla",
-   "keterbukaan informasi",
-   "pertambangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4bd44e0cbf_2cfe825030.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mgro-tegaskan-karhutla-tak-ganggu-produksi-dan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "MGRO Tegaskan [Karhutla] Tak Ganggu Produksi dan Keuangan",
-  "deck": "Menjawab permintaan penjelasan BEI, Mahkota Group menyatakan kebakaran hutan dan lahan di sekitar tujuh anak usahanya belum berdampak pada produksi, pendapatan, atau laba perusahaan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGRO",
-   "karhutla",
-   "sawit",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3cc09af349_f067599653.pdf",
   "sourceLabel": "IDX"
  }
 ];

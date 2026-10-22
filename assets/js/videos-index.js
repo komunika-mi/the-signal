@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "6LsQuXGwsMU",
+  "title": "Bahlil Lahadalia: Harga BBM Subsidi Diupayakan Tidak Naik",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Menteri ESDM Bahlil Lahadalia menyampaikan pemerintah terus menghitung dampak kenaikan harga minyak mentah global atau Indonesian Crude Price terhadap subsidi BBM dalam negeri.",
+  "takeaway": "Kebijakan harga BBM subsidi langsung memengaruhi anggaran negara dan daya beli masyarakat, sehingga relevan dipantau pembaca ekonomi."
+ },
+ {
   "id": "NAPcw020Xc4",
   "title": "Presiden Prabowo Hadiri Rakornas Percepatan Akses Keuangan Daerah",
   "category": "Perbankan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Indeks Harga Saham Gabungan ambles 630,77 poin atau 10,76 persen ke level 5.233 pada sesi pertama perdagangan Jumat, 16 Oktober 2026, memicu kepanikan di lantai bursa.",
   "takeaway": "Penurunan tajam IHSG ini penting dipantau investor dan pelaku pasar sebagai sinyal risiko di pasar modal domestik."
- },
- {
-  "id": "qCENNhCdOkg",
-  "title": "Coca-Cola Foundation Kembangkan Embung Doho di Wonogiri",
-  "category": "UMKM",
-  "program": "AKIS",
-  "summary": "Coca-Cola Foundation mendukung pengembangan Embung Doho di Wonogiri, Jawa Tengah, melalui inovasi panel surya dan program pengembangan usaha mikro, kecil, dan menengah.",
-  "takeaway": "Program ini relevan bagi pembaca yang mengikuti pemberdayaan UMKM melalui dukungan sektor swasta."
  }
 ];

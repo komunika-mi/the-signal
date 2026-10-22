@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "6LsQuXGwsMU",
+  "title": "Bahlil Lahadalia: Harga BBM Subsidi Diupayakan Tidak Naik",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Menteri ESDM Bahlil Lahadalia menyampaikan pemerintah terus menghitung dampak kenaikan harga minyak mentah global atau Indonesian Crude Price terhadap subsidi BBM dalam negeri.",
+  "takeaway": "Kebijakan harga BBM subsidi langsung memengaruhi anggaran negara dan daya beli masyarakat, sehingga relevan dipantau pembaca ekonomi.",
+  "terbit": "2026-10-22T10:25:07+00:00"
+ },
+ {
   "id": "NAPcw020Xc4",
   "title": "Presiden Prabowo Hadiri Rakornas Percepatan Akses Keuangan Daerah",
   "category": "Perbankan",

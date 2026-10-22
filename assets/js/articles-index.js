@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pack-ubah-bisnis-akuisisi-nikel-dan-gelar-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "PACK Ubah Bisnis, Akuisisi Nikel, dan Gelar [Rights Issue]",
+  "deck": "PACK berencana ubah lini usaha ke tambang nikel, akuisisi dua perusahaan termasuk satu pihak afiliasi, dan right issue. RUPSLB digelar 30 November 2026.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "right issue",
+   "akuisisi nikel",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ace10ceba5_8ee27d02e1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-jadwalkan-rupslb-pada-30-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "PACK Jadwalkan [RUPSLB] pada 30 November 2026",
+  "deck": "Abadi Nusantara Hijau Investama mengumumkan rencana RUPS Luar Biasa 30 November 2026, pendaftaran pemegang saham yang berhak hadir ditutup 5 November.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "RUPSLB",
+   "RUPS",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4b757a95bd_844e88401e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-gelar-rups-ratifikasi-keterlambatan-tiga-tahun-buku",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Gelar RUPS, Ratifikasi [Keterlambatan] Tiga Tahun Buku",
+  "deck": "RUPST tiga tahun buku (2023-2025) dan RUPSLB BOSS digelar 29 Oktober 2026, di tengah opini audit wajar dengan pengecualian dan anak usaha yang masih pailit.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "batubara",
+   "pailit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d3a7b413ac_5b44f1e9b3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prtl-setujui-dividen-interim-rp176-miliar-untuk-2026",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Setujui [Dividen] Interim Rp176 Miliar untuk 2026",
+  "deck": "Direksi dan komisaris Protelindo (PRTL) menyetujui dividen interim tahun buku 2026 sebesar Rp3,02 per saham, total Rp176 miliar, mayoritas mengalir ke induk usaha TOWR.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRTL",
+   "TOWR",
+   "dividen interim",
+   "Protelindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dfbfa82394_9d443c9517.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tlkm-tanggapi-bei-pemegang-saham-mayoritas-kaji-langkah",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Tanggapi BEI, Pemegang Saham Mayoritas Kaji [Langkah]",
+  "deck": "TLKM menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, dan menyebut pemegang saham Seri B mayoritas tengah mengkaji langkah terkait kepemilikannya.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "Telkom Indonesia",
+   "BEI",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/42d0e195de_56063b3667.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-rupslb-bahas-divestasi-saham-jasamarga-jogja-solo",
+  "category": "Aksi Korporasi",
+  "title": "ADHI RUPSLB bahas [divestasi] saham Jasamarga Jogja Solo",
+  "deck": "Adhi Karya mengundang pemegang saham ke RUPSLB 13 November 2026 untuk menyetujui rencana divestasi saham di Jasamarga Jogja Solo dan perubahan penggunaan dana rights issue II.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "RUPSLB",
+   "divestasi",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f32ca3856a_d7089e4d3d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bei-tetapkan-ulang-film-sebagai-saham-terkonsentrasi-tinggi",
   "category": "Aksi Korporasi",
   "title": "BEI Tetapkan Ulang FILM sebagai Saham [Terkonsentrasi] Tinggi",
@@ -6385,101 +6481,6 @@ var ARTICLES = [
    "public expose"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/117c176552_7377508b07.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nice-pastikan-tambang-nikel-tak-terdampak-karhutla",
-  "category": "Aksi Korporasi",
-  "title": "NICE Pastikan Tambang Nikel Tak Terdampak [Karhutla]",
-  "deck": "PT Adhi Kartiko Pratama Tbk (NICE) menjawab permintaan penjelasan BEI soal kebakaran hutan dan lahan, memastikan tambang nikelnya di Konawe Utara tidak terganggu.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICE",
-   "karhutla",
-   "pertambangan nikel",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb058456de_0c6ecbee38.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cita-pastikan-operasi-tambang-normal-meski-ada-karhutla",
-  "category": "Aksi Korporasi",
-  "title": "CITA Pastikan Operasi Tambang Normal Meski Ada [Karhutla]",
-  "deck": "Cita Mineral Investindo (CITA) memastikan ke Bursa Efek Indonesia bahwa kebakaran hutan dan lahan di konsesi Ketapang tidak mengganggu target produksi dan keuangan 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CITA",
-   "karhutla",
-   "tambang bauksit",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/79d756a348_6688fb687a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pidl-rampungkan-pembayaran-utang-dari-dana-obligasi-rp452-m",
-  "category": "Aksi Korporasi",
-  "title": "PIDL Rampungkan Pembayaran [Utang] dari Dana Obligasi Rp452 M",
-  "deck": "PIDL mengoreksi laporan realisasi dana hasil obligasi dan sukuk mudharabah senilai total Rp936,79 miliar, dengan 99 persen dana obligasi dipakai melunasi utang bank.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIDL",
-   "obligasi korporasi",
-   "sukuk mudharabah",
-   "pembayaran utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e067c343ae_cd63975df5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpns-jelaskan-ke-bursa-rups-perubahan-usaha-mundur-ke-desember",
-  "category": "Aksi Korporasi",
-  "title": "DPNS Jelaskan ke Bursa, RUPS Perubahan Usaha [Mundur] ke Desember",
-  "deck": "Menjawab permintaan penjelasan Bursa, DPNS mengakui audit laporan keuangan kuartal I 2026 molor karena gangguan sistem akuntansi, sehingga RUPS perubahan usaha mundur ke Desember 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DPNS",
-   "suspensi saham",
-   "RUPSLB",
-   "audit laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c832cf8a7e_e5ddd638b9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gzco-dampak-karhutla-ke-produksi-tak-signifikan",
-  "category": "Aksi Korporasi",
-  "title": "GZCO: Dampak [Karhutla] ke Produksi Tak Signifikan",
-  "deck": "Gozco Plantations menjawab permintaan penjelasan Bursa soal dampak kebakaran hutan dan lahan terhadap operasional, produksi, dan status hukumnya.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GZCO",
-   "karhutla",
-   "kelapa sawit",
-   "produksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d7546e2022_0ccbd5bd12.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-jadwalkan-rupslb-pada-23-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "VTNY Jadwalkan [RUPSLB] pada 23 November 2026",
-  "deck": "Venteny Fortuna International mengumumkan rencana RUPSLB 23 November 2026, dengan batas pencatatan pemegang saham 29 Oktober 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "RUPSLB",
-   "Venteny Fortuna International"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5806c5c56_da6db17644.pdf",
   "sourceLabel": "IDX"
  }
 ];

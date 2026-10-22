@@ -3,6 +3,163 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pack-ubah-bisnis-akuisisi-nikel-dan-gelar-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "PACK Ubah Bisnis, Akuisisi Nikel, dan Gelar [Rights Issue]",
+  "deck": "PACK berencana ubah lini usaha ke tambang nikel, akuisisi dua perusahaan termasuk satu pihak afiliasi, dan right issue. RUPSLB digelar 30 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T23:57:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ace10ceba5_8ee27d02e1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "right issue",
+   "akuisisi nikel",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK), perusahaan holding yang tercatat di Bursa Efek Indonesia, mengumumkan rencana perubahan kegiatan usaha, akuisisi saham PT Bukit Makmur Istindo Nikeltama, penambahan modal lewat hak memesan efek terlebih dahulu kedua (PMHMETD II), serta akuisisi saham Denway Development Limited. Keempat agenda itu akan dimintakan persetujuan pemegang saham dalam rapat umum pemegang saham luar biasa (RUPSLB) pada 30 November 2026. Direksi menyebut rencana ini sebagai bagian dari pengembangan usaha Perseroan dan dua entitas anaknya, PT Sumber Cahaya Raya dan PT Adhi Prakarsa Raya, yang masing-masing dimiliki 99 persen oleh PACK.",
+   "Perubahan kegiatan usaha yang diajukan berupa penambahan dua lini usaha penunjang, yaitu Perdagangan Besar Bijih dan Konsentrat Logam (KBLI 46721) dan Aktivitas Konsultasi Manajemen dan Bisnis Lainnya (KBLI 70209). Direksi menjelaskan penambahan ini sejalan dengan rencana ekspansi PACK ke sektor pertambangan nikel, di mana Perseroan akan berperan sebagai entitas pemasaran dan perdagangan bijih nikel milik entitas anaknya sekaligus penyedia jasa konsultasi manajemen, keuangan, dan kepatuhan secara terpusat. Kantor Jasa Penilai Publik Kusnanto dan Rekan ditunjuk sebagai penilai independen dan menyusun studi kelayakan bernomor 00196/2.0162-00/BS/02/0153/1/X/2026 tertanggal 22 Oktober 2026 dengan metode diskonto arus kas.",
+   "Berdasarkan akta per 30 September 2026, modal ditempatkan dan disetor penuh PACK tercatat 34.106.219.531 saham, dengan PT Eco Energi Perkasa sebagai pemegang saham terbesar sebanyak 38,50 persen, disusul H Samsudin Andi Arsyad 20,04 persen, dan sisanya 41,46 persen dipegang publik dengan kepemilikan masing-masing di bawah 5 persen. Perseroan masih memiliki sisa obligasi wajib konversi (OWK) sebanyak 61.394.073 lembar per 20 Oktober 2026, setelah sebagian OWK dikonversi menjadi saham sehingga total saham biasa yang beredar naik menjadi 34.122.944.271 lembar. Akuisisi PT Bukit Makmur Istindo Nikeltama dan Denway Development Limited dikategorikan sebagai transaksi material sesuai POJK No. 17/2020, sementara pembelian saham Denway Development Limited juga tunduk pada aturan transaksi afiliasi POJK No. 42/2020."
+  ],
+  "fotoAdegan": "Workers loading reddish nickel ore onto a cargo barge at a tropical Indonesian port, cranes idle in the background",
+  "takeaway": "Laporan ini netral karena dokumen belum mencantumkan nilai transaksi akuisisi dua perusahaan maupun jumlah saham baru dari right issue, sehingga besaran dampaknya terhadap pemegang saham lama belum bisa diukur. Satu titik yang patut dicermati, akuisisi Denway Development Limited berstatus transaksi afiliasi sesuai POJK 42/2020, artinya ada potensi benturan kepentingan antara Perseroan dan pihak terkait yang perlu dicek lewat pendapat kewajaran penilai independen. Right issue, yaitu penjatahan saham baru yang wajib ditawarkan dulu ke pemegang saham lama, akan menambah jumlah saham beredar dan bisa menurunkan laba per saham milik pemegang lama kalau mereka tidak ikut menyerap jatah barunya. Akuisisi dua perusahaan juga berarti aset dan kemungkinan kewajiban baru masuk ke neraca konsolidasi PACK, sehingga kas dan ekuitas perseroan ikut berubah. Yang perlu dipantau adalah hasil RUPSLB pada 30 November 2026, yang akan memutuskan apakah pemegang saham menyetujui keempat agenda ini, serta rincian harga dan nilai transaksi yang biasanya baru diumumkan mendekati tanggal rapat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pack-jadwalkan-rupslb-pada-30-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "PACK Jadwalkan [RUPSLB] pada 30 November 2026",
+  "deck": "Abadi Nusantara Hijau Investama mengumumkan rencana RUPS Luar Biasa 30 November 2026, pendaftaran pemegang saham yang berhak hadir ditutup 5 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T23:55:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4b757a95bd_844e88401e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "RUPSLB",
+   "RUPS",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 30 November 2026 pukul 10.00 WIB. Lokasi rapat belum ditentukan dan akan diumumkan kemudian. Surat pemberitahuan bernomor 004/DIR-ANHI/X/2026 ini ditandatangani Direktur Donnie Holman Partogi Manurung pada 22 Oktober 2026, dan merujuk pada surat sebelumnya nomor 003/DIR-ANHI/X/2026.",
+   "Perseroan menetapkan bahwa pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada Kamis, 5 November 2026 sampai pukul 16.00 WIB. Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan pada Jumat, 6 November 2026, melalui situs eASY.KSEI, situs Bursa Efek Indonesia, dan situs resmi perusahaan. Pemegang saham yang ingin mengusulkan mata acara rapat harus menyampaikannya paling lambat 30 Oktober 2026, dengan syarat usulan diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, memuat alasan dan bahan usulan, serta tidak bertentangan dengan aturan yang berlaku.",
+   "Dokumen ini belum mencantumkan agenda RUPSLB. Pada hari yang sama, PACK juga melaporkan rencana perubahan lini bisnis, akuisisi dua perusahaan nikel, dan penerbitan saham baru lewat rights issue, namun nilai transaksi dan jumlah saham barunya belum diumumkan. Agenda resmi rapat, yang kemungkinan akan menyentuh rencana-rencana tersebut, baru akan terlihat pada pemanggilan 6 November 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a stage in a large conference hall, soft morning light through tall windows",
+  "takeaway": "Laporan ini netral karena isinya sebatas jadwal dan prosedur RUPSLB, belum memuat satu pun agenda atau keputusan yang bisa dinilai menguntungkan atau merugikan pemegang saham. Yang disentuh baru soal administrasi: siapa yang berhak hadir berdasarkan Daftar Pemegang Saham per 5 November, bukan soal ekuitas, arus kas, atau jumlah saham beredar, karena itu baru akan terlihat kalau agenda RUPS sudah diumumkan. Mengingat PACK belakangan ini juga melaporkan rencana akuisisi nikel dan rights issue yang bisa menambah saham beredar dan berpotensi mendilusi laba per saham, pembaca perlu menunggu pemanggilan resmi pada 6 November 2026 untuk tahu apakah RUPSLB ini yang akan memutuskan rencana-rencana tersebut. Tenggat usulan mata acara dari pemegang saham adalah 30 Oktober 2026, dan rapatnya sendiri digelar 30 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "boss-gelar-rups-ratifikasi-keterlambatan-tiga-tahun-buku",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Gelar RUPS, Ratifikasi [Keterlambatan] Tiga Tahun Buku",
+  "deck": "RUPST tiga tahun buku (2023-2025) dan RUPSLB BOSS digelar 29 Oktober 2026, di tengah opini audit wajar dengan pengecualian dan anak usaha yang masih pailit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T23:16:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d3a7b413ac_5b44f1e9b3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "batubara",
+   "pailit"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) mengoreksi surat pemanggilan Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku 2023, 2024, dan 2025 sekaligus Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya diterbitkan 7 Oktober 2026. Rapat akan digelar 29 Oktober 2026 pukul 10.00 WIB di Wisma 77 Tower 1, Jakarta Barat. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per 6 Oktober 2026. Agenda RUPST mencakup ratifikasi keterlambatan pelaksanaan RUPS Tahunan untuk tiga tahun buku sekaligus, persetujuan laporan tahunan dan laporan keuangan 2023-2025, pembebasan tanggung jawab penuh bagi Dewan Komisaris dan Direksi, penetapan penggunaan laba, penunjukan akuntan publik untuk audit tahun buku 2026, serta penetapan honorarium pengurus. RUPSLB membahas penyesuaian Pasal 3 Anggaran Dasar menyesuaikan klasifikasi usaha dengan KBLI 2025.",
+   "Laporan keuangan 2023 yang disertakan menunjukkan auditor independen, Kantor Akuntan Publik Mohammad Sunusi & Rekan, memberikan opini wajar dengan pengecualian. Penyebabnya, entitas anak tidak langsung, PT Bangun Olahsarana Sukses (BOS), dinyatakan pailit sejak 28 September 2022 setelah putusan pembatalan perjanjian perdamaian (homologasi) dalam perkara PKPU, dan manajemen masih mengajukan Peninjauan Kembali ke Mahkamah Agung setelah kasasi sebelumnya ditolak. Dokumen juga mencatat entitas anak lain, PT Pratama Bersama, belum membayar sama sekali cicilan utang kepada kreditor Rocksbridge Energy Pte Ltd yang seharusnya Rp1,08 miliar setiap akhir bulan sejak pertengahan 2022, sehingga total tunggakan mencapai Rp38,97 miliar. Piutang usaha dan piutang lain-lain bruto Grup per akhir 2023 tercatat Rp37,63 miliar dan Rp76,29 miliar, setara 19,09 persen dari total aset, dengan cadangan kerugian kredit ekspektasian Rp5,61 miliar.",
+   "Laporan tahunan 2024 dan 2025 yang turut dilampirkan menyebutkan Perseroan tidak membukukan penjualan batubara sama sekali pada dua tahun tersebut karena PT Pratama Bersama belum kembali beroperasi, sementara manajemen masih menjajaki investor atau mitra strategis. Saham BOSS disuspensi oleh otoritas bursa sejak 22 Februari 2024 sehingga tidak ada data perdagangan untuk 2024 dan 2025. Sebagai perbandingan, kapitalisasi pasar saham Perseroan pada penutupan 31 Desember 2023 tercatat Rp70 miliar dari 1,4 miliar lembar saham yang diperdagangkan, dengan harga penutupan Rp50 per lembar."
+  ],
+  "fotoAdegan": "Idle open-pit coal mine with rusting excavator equipment and overgrown access road, overcast sky, no workers present",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena isinya menegaskan rangkaian masalah yang belum terselesaikan: RUPS Tahunan tertunda sampai tiga tahun buku sekaligus, opini auditor wajar dengan pengecualian, anak usaha pailit, dan utang yang sama sekali belum dibayar ke kreditor. Yang tersentuh adalah kemampuan Perseroan menghasilkan arus kas, yaitu uang tunai yang masuk dari kegiatan usaha, karena tanpa penjualan batubara dua tahun berturut-turut Grup tidak punya sumber dana untuk melunasi cicilan Rp1,08 miliar per bulan ke Rocksbridge Energy yang sudah menunggak Rp38,97 miliar. Status pailit anak usaha BOS juga membuat auditor meragukan kelangsungan usaha, istilah yang berarti kemampuan perusahaan bertahan beroperasi, sehingga ada kemungkinan nyata Grup tidak bisa terus berjalan jika rencana penyelamatan oleh Tim Kurator gagal. Yang perlu dipantau pemegang saham adalah hasil RUPST dan RUPSLB pada 29 Oktober 2026, terutama apakah pemegang saham menyetujui ratifikasi keterlambatan tiga tahun RUPS itu, serta perkembangan Peninjauan Kembali ke Mahkamah Agung soal status pailit BOS dan progres pencarian investor strategis untuk mengaktifkan kembali PT Pratama Bersama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "prtl-setujui-dividen-interim-rp176-miliar-untuk-2026",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Setujui [Dividen] Interim Rp176 Miliar untuk 2026",
+  "deck": "Direksi dan komisaris Protelindo (PRTL) menyetujui dividen interim tahun buku 2026 sebesar Rp3,02 per saham, total Rp176 miliar, mayoritas mengalir ke induk usaha TOWR.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T22:37:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dfbfa82394_9d443c9517.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRTL",
+  "tags": [
+   "PRTL",
+   "TOWR",
+   "dividen interim",
+   "Protelindo"
+  ],
+  "body": [
+   "PT Profesional Telekomunikasi Indonesia (PRTL), anak usaha PT Sarana Menara Nusantara Tbk (TOWR), menyampaikan keterbukaan informasi mengenai pembagian dividen interim tunai untuk tahun buku 2026. Keputusan ini diteken oleh seluruh anggota direksi dan dewan komisaris PRTL pada 22 Oktober 2026, menetapkan dividen interim sebesar Rp3,02 per saham atau total Rp176 miliar. Pembagian ini merujuk pada Pasal 72 ayat (1) dan (4) Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas serta Pasal 18 anggaran dasar perusahaan, yang mengizinkan dividen interim dibagikan sebelum tahun buku berakhir selama kekayaan bersih perusahaan tetap di atas modal ditempatkan dan disetor ditambah cadangan wajib, dan pembayarannya tidak mengganggu kewajiban kepada kreditur.",
+   "Hampir seluruh dividen ini akan mengalir ke TOWR, yang menguasai 58.322.620.186 saham PRTL atau 99,999999998 persen dari total modal ditempatkan dan disetor. Sisanya, satu lembar saham atau 0,000000002 persen, dipegang oleh Ferdinandus Aming Santoso yang juga menjabat Direktur Utama PRTL. Keputusan direksi ditandatangani oleh Ferdinandus Aming Santoso selaku Direktur Utama, Anita Anwar dan Juliawati Gunawan Halim selaku Wakil Direktur Utama, serta Eko Santoso Hadiprodjo, Indra Gunawan, dan Onggo Wijaya selaku Direktur. Persetujuan dewan komisaris diteken oleh Ario Wibisono selaku Komisaris Utama, Kenny Harjo selaku Komisaris, serta John A. Prasetio dan Kusmayanto Kadiman selaku Komisaris Independen.",
+   "Wewenang pembagian dividen interim 2026 ini sebelumnya sudah disetujui dalam RUPST 2026 yang digelar lewat keputusan sirkular pemegang saham. Dalam forum yang sama, pemegang saham mengesahkan laporan tahunan dan laporan keuangan konsolidasian PRTL tahun buku 2025, yang mencatat laba bersih sekitar Rp3,69 triliun. Dari laba itu, pemegang saham menyetujui dividen tunai total sekitar Rp950 miliar untuk tahun buku 2025. Setelah dikurangi dividen interim yang sudah dibagikan masing-masing pada September 2025 (Rp125 miliar), Desember 2025 (Rp290 miliar), dan Januari 2026 (Rp130 miliar), masih tersisa dividen final sekitar Rp405 miliar yang kini turut disetujui untuk dibagikan, dengan Rp405 miliar mengalir ke TOWR dan sisanya yang sangat kecil ke Ferdinandus Aming Santoso."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians performing maintenance at the base of a steel tower in a rural Indonesian valley, soft morning light",
+  "takeaway": "Laporan ini tergolong netral bagi PRTL, karena dividen Rp176 miliar ini sifatnya rutin dan proporsinya relatif kecil dibandingkan laba bersih tahun sebelumnya yang mencapai Rp3,69 triliun, sementara hampir seluruh dananya memang mengalir ke induk usaha sendiri, TOWR, sehingga tidak mencerminkan sinyal baru soal arah bisnis PRTL. Dividen tunai ini akan mengurangi kas dan ekuitas PRTL sebesar Rp176 miliar, yaitu bagian modal perusahaan yang dipakai membiayai operasional dan membayar utang, tapi perusahaan menyatakan kekayaan bersihnya tetap di atas syarat modal ditempatkan plus cadangan wajib sehingga tidak mengganggu kemampuan membayar kewajiban ke kreditur, termasuk pemegang obligasi Rp741 miliar yang baru tercatat di BEI pekan lalu. Yang perlu dipantau berikutnya adalah tanggal pembayaran dan tanggal pencatatan pemegang saham untuk dividen ini, yang belum diumumkan dalam laporan ini, serta realisasi pembagian dividen final tahun buku 2025 senilai Rp405 miliar yang baru disetujui dalam RUPST yang sama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tlkm-tanggapi-bei-pemegang-saham-mayoritas-kaji-langkah",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Tanggapi BEI, Pemegang Saham Mayoritas Kaji [Langkah]",
+  "deck": "TLKM menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, dan menyebut pemegang saham Seri B mayoritas tengah mengkaji langkah terkait kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T22:33:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/42d0e195de_56063b3667.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "Telkom Indonesia",
+   "BEI",
+   "buyback saham"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk menjawab surat Bursa Efek Indonesia Nomor S-13269/BEI.PP2/10-2026 tertanggal 20 Oktober 2026 yang meminta penjelasan atas volatilitas transaksi efek TLKM. Jawaban dikirim pada 22 Oktober 2026 dan ditandatangani Edie Kurniawan selaku SVP Corporate Secretary. Telkom menyatakan tidak mengetahui adanya informasi atau fakta material lain yang belum diungkapkan ke publik, dan tidak mengetahui adanya aktivitas perubahan kepemilikan saham dari pemegang saham tertentu.",
+   "Dalam surat itu, Telkom mengonfirmasi ulang program pembelian kembali saham (buyback) yang berjalan sejak 9 Juni 2026 hingga 8 Juni 2027, setelah diumumkan melalui keterbukaan informasi pada 1 Mei 2026 dan disetujui dalam RUPS Tahunan Tahun Buku 2025 pada 8 Juni 2026. Perusahaan juga sedang menjalankan penataan dan penyederhanaan struktur anak usaha (streamlining) yang ditargetkan rampung sepanjang 2026, serta berencana mempublikasikan laporan keuangan untuk periode sembilan bulan yang berakhir 30 September 2026 pada akhir Oktober 2026.",
+   "Poin yang relatif baru muncul pada bagian keenam surat, saat BEI meminta Telkom mengonfirmasi rencana pemegang saham utama. Telkom menyampaikan bahwa pemegang saham Seri B terbanyak memahami dinamika kondisi pasar saat ini dan sedang mengkaji langkah yang dianggap tepat serta optimal untuk kepemilikan sahamnya, dengan tetap memperhatikan tata kelola perusahaan yang baik. Surat tidak merinci opsi apa yang sedang dikaji maupun kapan kajian itu akan menghasilkan keputusan."
+  ],
+  "fotoAdegan": "Technicians servicing fiber optic cable junctions on a utility pole along a busy Indonesian city street, daytime",
+  "takeaway": "Surat ini netral bagi fundamental Telkom karena isinya konfirmasi rutin bahwa tidak ada informasi material baru, sementara rencana korporasi yang disebut yaitu buyback dan restrukturisasi anak usaha sudah lebih dulu diumumkan ke publik. Program pembelian kembali saham yang disebut dalam surat ini menyusutkan jumlah saham beredar Telkom, yang secara teknis bisa mengerek laba per saham karena laba yang sama dibagi ke saham yang lebih sedikit, meski besar kecilnya efek itu tergantung seberapa banyak saham yang benar-benar dibeli kembali. Yang perlu dipantau adalah publikasi laporan keuangan sembilan bulan Telkom yang dijanjikan terbit akhir Oktober 2026, serta kelanjutan dari pernyataan bahwa pemegang saham Seri B mayoritas sedang mengkaji langkah terkait kepemilikannya, meski Telkom belum merinci kajian itu mengarah ke mana.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adhi-rupslb-bahas-divestasi-saham-jasamarga-jogja-solo",
+  "category": "Aksi Korporasi",
+  "title": "ADHI RUPSLB bahas [divestasi] saham Jasamarga Jogja Solo",
+  "deck": "Adhi Karya mengundang pemegang saham ke RUPSLB 13 November 2026 untuk menyetujui rencana divestasi saham di Jasamarga Jogja Solo dan perubahan penggunaan dana rights issue II.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T22:30:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f32ca3856a_d7089e4d3d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "RUPSLB",
+   "divestasi",
+   "rights issue"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk mengundang para pemegang sahamnya menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 13 November 2026 pukul 14.00 WIB di ADHI Tower Lantai 16, Jalan MT Haryono Kavling 27, Cawang, Jakarta Timur. Rapat bisa diikuti secara fisik maupun elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Yang berhak hadir adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan Rabu, 21 Oktober 2026.",
+   "Agenda pertama meminta restu pemegang saham untuk melepas kepemilikan ADHI di PT Jasamarga Jogja Solo (JMJ), entitas afiliasi yang mengelola ruas jalan tol Jogja-Solo. Perseroan menyebut nilai transaksi ini melebihi 50 persen dari total kekayaan bersih berdasarkan laporan keuangan audit terakhir, sehingga menurut Peraturan OJK Nomor 17/2020 tentang Transaksi Material dan Pasal 12 ayat 7 Anggaran Dasar Perseroan, langkah ini wajib mendapat persetujuan RUPS. Keputusan baru sah jika disetujui pemegang saham yang mewakili lebih dari tiga perempat dari seluruh saham berhak suara yang hadir dalam rapat.",
+   "Agenda kedua meminta persetujuan mengubah rencana penggunaan dana hasil Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu II (PMHMETD II), yaitu rights issue kedua Perseroan. Nilai perubahan tersebut disebut di atas 10 persen dari total dana hasil penawaran umum dan berbeda dari rencana semula yang tercantum dalam prospektus. Berdasarkan Peraturan OJK Nomor 40/2025 Pasal 16 ayat 1 huruf a, perubahan ini juga wajib disetujui RUPS, tapi ambang persetujuannya lebih rendah, yakni lebih dari separuh saham berhak suara yang hadir. Dokumen pemanggilan tidak merinci besaran dana yang dialihkan maupun tujuan penggunaan barunya.",
+   "Bagi pemegang saham yang tidak bisa hadir, kuasa dapat diberikan lewat eASY.KSEI atau surat kuasa fisik yang disampaikan ke biro administrasi efek, PT Datindo Entrycom di Jalan Hayam Wuruk Nomor 28 Jakarta, paling lambat Kamis, 12 November 2026 pukul 12.00 WIB. Bahan rapat tersedia di situs web ADHI sejak tanggal pemanggilan ini hingga hari pelaksanaan RUPSLB."
+  ],
+  "fotoAdegan": "Elevated toll road stretching through green countryside with light vehicle traffic, soft morning haze over central Java.",
+  "takeaway": "Laporan ini netral karena yang diumumkan baru undangan rapat, bukan keputusan atau angka transaksinya, sehingga untung-ruginya belum bisa dipastikan sekarang. Yang tersentuh adalah ekuitas dan arus kas: melepas saham JMJ berarti aset penyertaan modal ADHI di laporan keuangan berkurang, tapi kalau dananya dipakai menutup utang, arus kas dan beban bunga Perseroan bisa ikut terbantu. Perubahan arah dana rights issue PMHMETD II juga layak dicermati karena artinya rencana yang dijanjikan ke investor lewat prospektus tidak berjalan seperti semula. Yang perlu dipantau adalah hasil RUPSLB pada Jumat, 13 November 2026, terutama berapa harga jual saham JMJ, siapa pembelinya, dan ke mana dana rights issue dialihkan, karena itulah yang menentukan apakah langkah ini benar menguntungkan Perseroan. Pemegang saham yang ingin memberi kuasa harus memperhatikan tenggat Kamis, 12 November 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bei-tetapkan-ulang-film-sebagai-saham-terkonsentrasi-tinggi",
   "category": "Aksi Korporasi",
   "title": "BEI Tetapkan Ulang FILM sebagai Saham [Terkonsentrasi] Tinggi",

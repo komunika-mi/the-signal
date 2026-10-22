@@ -234,7 +234,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pernyataan ini bukan kebijakan baru, melainkan pemerintah mulai memakai data stabilitas saat ini, pertumbuhan 5,45 persen, investasi naik 7,3 persen, kredit perbankan tumbuh dua digit, sebagai pijakan untuk menaikkan target pertumbuhan menjadi 6 persen pada 2027 dan 8 persen dalam jangka menengah. Yang terdampak langsung adalah pelaku usaha dan investor yang jadi sasaran kemudahan izin lewat PP 28/2025, bank yang diminta terus memperluas pembiayaan, serta sekitar 37.833 calon pekerja yang diproyeksikan terserap dari 26 proyek hilirisasi senilai Rp225 triliun. Arahnya terlihat ke penguatan investasi dan hilirisasi sebagai motor pertumbuhan baru, bukan sekadar mempertahankan momentum, karena pemerintah sendiri menyebut investasi harus tumbuh lebih cepat dari PDB sebagai syarat utama. Yang akan membuktikan apakah ini benar terjadi atau cuma target di atas kertas adalah data realisasi investasi kuartal berikutnya dan progres nyata dari 26 proyek hilirisasi itu dalam menyerap tenaga kerja yang dijanjikan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "cepa-ri-kanada-resmi-berlaku-1-desember-2026",
@@ -811,7 +811,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah proses masuk Indonesia ke dua forum ekonomi besar: OECD, yakni kelompok negara-negara berpendapatan tinggi, yang sudah menyelesaikan 20 dari 25 berkas penilaian awal atau sekitar 80 persen dengan target rampung 2028, dan CPTPP, pakta dagang lintas Pasifik yang diharapkan disepakati seluruh anggotanya pada pertemuan November. Yang terdampak langsung adalah kementerian dan lembaga teknis yang harus menyesuaikan aturan dalam negeri dengan standar kedua forum itu, serta pelaku usaha yang nantinya harus mengikuti aturan main baru kalau aksesi disetujui. Pola ini menunjukkan Indonesia bergerak dari sekadar menerima bantuan teknis Australia ke tahap mengejar target keanggotaan dengan tenggat yang sudah dipatok sendiri, bukan sekadar wacana jangka panjang. Yang akan memastikan apakah target ini realistis adalah hasil pertemuan anggota CPTPP bulan depan dan laporan progres lima berkas OECD yang masih tersisa menjelang 2028.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "kemendag-kirim-17-asn-ke-korea-bangun-trade-corpu",

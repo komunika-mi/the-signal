@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wamen-investasi-raih-honorary-fellow-dari-asean-di-cafeo-44",
+  "category": "Industri",
+  "title": "Wamen Investasi Raih [Honorary Fellow] dari ASEAN di CAFEO 44",
+  "deck": "Wakil Menteri Investasi dan Hilirisasi Todotua Pasaribu menerima Honorary Fellow Award di CAFEO 44 Bandung, pengakuan atas kontribusinya mendorong hilirisasi dan investasi Indonesia.",
+  "image": "assets/img/wamen-investasi-raih-honorary-fellow-dari-asean-di-cafeo-44.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T02:48:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474539-diakui-11-negara-asean-wamen-investasi-raih-honorary-fellow-award-di-cafeo-44-atas-kontribusi-hilirisasi",
+  "tags": [
+   "hilirisasi",
+   "investasi",
+   "BKPM",
+   "ASEAN"
+  ],
+  "body": [
+   "Wakil Menteri Investasi dan Hilirisasi yang juga Wakil Kepala BKPM, Todotua Pasaribu, menerima Honorary Fellow Award dalam ajang CAFEO 44 di Bandung. Penghargaan ini diberikan sebagai pengakuan atas perannya mendorong hilirisasi industri dan investasi di Indonesia, dua agenda yang menurut panitia sangat bergantung pada penguasaan teknologi dan inovasi.",
+   "Nama Todotua diusulkan oleh Persatuan Insinyur Indonesia dan disetujui secara bulat oleh 11 organisasi profesi insinyur dari negara-negara ASEAN yang tergabung dalam AFEO. Todotua menyebut penghargaan itu sebagai amanah untuk memperkuat sinergi antara pemerintah, dunia usaha, dan kalangan profesional insinyur demi mendorong investasi berkualitas serta mempercepat hilirisasi industri.",
+   "CAFEO 44 berlangsung selama tiga hari sejak 21 Oktober 2026 di Bandung, dengan agenda konferensi, pameran keinsinyuran, kelompok kerja, dan kunjungan teknis yang diikuti 1.218 peserta dari berbagai negara ASEAN. Chairperson AFEO, Santhi H. Serad, menyebut forum ini sebagai wadah bagi profesi insinyur untuk merumuskan langkah nyata bagi pembangunan kawasan.",
+   "Kementerian Investasi dan Hilirisasi/BKPM menyatakan akan terus memastikan investasi yang masuk ke Indonesia tidak hanya bernilai ekonomi, tetapi juga membawa transfer teknologi yang menopang keberlanjutan industri nasional. Pernyataan ini disampaikan dalam konteks kolaborasi yang lebih luas antara pemerintah, akademisi, dan praktisi keinsinyuran."
+  ],
+  "fotoAdegan": "Rows of delegates in business suits networking inside a modern convention hall lobby, Southeast Asian faces, daylight through tall windows.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/23/6ada6792c023f-wakil-menteri-investasi-dan-hilirisasiwakil-kepala-bkpm-todotua-pasaribu-menerima-penghargaan-honorary-fellow-award-dalam-ajang-44th-cafeo-44-yang-digelar-di-bandung_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini sebatas simbolis, Todotua Pasaribu mendapat Honorary Fellow Award setelah diusulkan Persatuan Insinyur Indonesia dan disetujui bulat oleh 11 organisasi insinyur se-ASEAN di bawah AFEO, bukan karena ada aturan atau insentif hilirisasi baru yang diumumkan. Pihak yang relevan adalah kalangan insinyur dan pelaku industri hilirisasi, yang disebut sebagai pihak yang kepentingannya diwakili lewat pengakuan atas arah kebijakan pemerintah, bukan pihak yang menerima dampak finansial langsung. Berita ini belum memuat kebijakan konkret, insentif, atau aturan baru yang bisa dipakai untuk mengukur apakah hilirisasi benar-benar menguat, karena isinya murni seremoni penghargaan. Yang perlu dipantau adalah apakah BKPM mengumumkan langkah kebijakan atau data realisasi investasi hilirisasi begitu CAFEO 44 selesai pada 23 Oktober 2026, sebab itu yang akan menunjukkan apakah pengakuan ini diikuti substansi atau berhenti sebagai penghargaan semata.",
+  "imageV": "mvk3ixyk"
+ },
+ {
   "slug": "produksi-gas-blok-jangkrik-dan-maha-tambah-290-mmscfd",
   "category": "Energi",
   "title": "Produksi Gas Blok Jangkrik dan Maha Tambah [290] MMSCFD",
@@ -552,7 +579,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pernyataan ini bukan kebijakan baru, melainkan pemerintah mulai memakai data stabilitas saat ini, pertumbuhan 5,45 persen, investasi naik 7,3 persen, kredit perbankan tumbuh dua digit, sebagai pijakan untuk menaikkan target pertumbuhan menjadi 6 persen pada 2027 dan 8 persen dalam jangka menengah. Yang terdampak langsung adalah pelaku usaha dan investor yang jadi sasaran kemudahan izin lewat PP 28/2025, bank yang diminta terus memperluas pembiayaan, serta sekitar 37.833 calon pekerja yang diproyeksikan terserap dari 26 proyek hilirisasi senilai Rp225 triliun. Arahnya terlihat ke penguatan investasi dan hilirisasi sebagai motor pertumbuhan baru, bukan sekadar mempertahankan momentum, karena pemerintah sendiri menyebut investasi harus tumbuh lebih cepat dari PDB sebagai syarat utama. Yang akan membuktikan apakah ini benar terjadi atau cuma target di atas kertas adalah data realisasi investasi kuartal berikutnya dan progres nyata dari 26 proyek hilirisasi itu dalam menyerap tenaga kerja yang dijanjikan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "cepa-ri-kanada-resmi-berlaku-1-desember-2026",

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "8yq5whTe51A",
+  "title": "Hanta Yuda Soroti Harga Kebutuhan Pokok dan Daya Beli Masyarakat",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Direktur Eksekutif Poltracking Indonesia, Hanta Yuda, menyoroti masih tingginya harga kebutuhan pokok dan melemahnya daya beli masyarakat di tengah isu reshuffle kabinet, sekaligus mengingatkan soal capaian ekonomi pemerintah.",
+  "takeaway": "Analisis ini penting bagi pembaca ekonomi karena menyentuh dua indikator inti kesejahteraan rumah tangga, yaitu harga pangan dan daya beli, yang langsung berdampak pada konsumsi domestik.",
+  "terbit": "2026-10-22T20:00:31+00:00"
+ },
+ {
   "id": "RNzDtcmHGrw",
   "title": "Kadin Dorong Gerakan Buy From Indonesia dan Buy Indonesia",
   "category": "Bisnis",

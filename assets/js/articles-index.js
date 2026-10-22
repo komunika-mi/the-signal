@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wamen-investasi-raih-honorary-fellow-dari-asean-di-cafeo-44",
+  "category": "Industri",
+  "title": "Wamen Investasi Raih [Honorary Fellow] dari ASEAN di CAFEO 44",
+  "deck": "Wakil Menteri Investasi dan Hilirisasi Todotua Pasaribu menerima Honorary Fellow Award di CAFEO 44 Bandung, pengakuan atas kontribusinya mendorong hilirisasi dan investasi Indonesia.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/wamen-investasi-raih-honorary-fellow-dari-asean-di-cafeo-44.jpg",
+  "imageV": "mvk3ixyk",
+  "tags": [
+   "hilirisasi",
+   "investasi",
+   "BKPM",
+   "ASEAN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474539-diakui-11-negara-asean-wamen-investasi-raih-honorary-fellow-award-di-cafeo-44-atas-kontribusi-hilirisasi"
+ },
+ {
   "slug": "produksi-gas-blok-jangkrik-dan-maha-tambah-290-mmscfd",
   "category": "Energi",
   "title": "Produksi Gas Blok Jangkrik dan Maha Tambah [290] MMSCFD",
@@ -6470,22 +6487,6 @@ var ARTICLES = [
    "Pengambilalihan Perusahaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/91626d38f2_9353dc1b70.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smmt-gelar-paparan-publik-usai-suspensi-saham-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "SMMT Gelar Paparan Publik Usai [Suspensi] Saham Melonjak",
-  "deck": "Golden Eagle Energy (SMMT) menggelar paparan publik insidentil 20 Oktober 2026 setelah sahamnya disuspensi BEI akibat lonjakan harga signifikan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMT",
-   "suspensi saham",
-   "paparan publik",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4233368f03_059e9038e4.pdf",
   "sourceLabel": "IDX"
  }
 ];

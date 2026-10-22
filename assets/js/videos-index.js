@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "8yq5whTe51A",
+  "title": "Hanta Yuda Soroti Harga Kebutuhan Pokok dan Daya Beli Masyarakat",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Direktur Eksekutif Poltracking Indonesia, Hanta Yuda, menyoroti masih tingginya harga kebutuhan pokok dan melemahnya daya beli masyarakat di tengah isu reshuffle kabinet, sekaligus mengingatkan soal capaian ekonomi pemerintah.",
+  "takeaway": "Analisis ini penting bagi pembaca ekonomi karena menyentuh dua indikator inti kesejahteraan rumah tangga, yaitu harga pangan dan daya beli, yang langsung berdampak pada konsumsi domestik."
+ },
+ {
   "id": "RNzDtcmHGrw",
   "title": "Kadin Dorong Gerakan Buy From Indonesia dan Buy Indonesia",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Antrean panjang kendaraan di berbagai SPBU Bali masih terjadi hingga hari kelima, Jumat (16/10/2026), akibat keterlambatan distribusi bahan bakar minyak.",
   "takeaway": "Gangguan distribusi BBM ini berisiko mengganggu mobilitas warga dan aktivitas ekonomi, termasuk sektor pariwisata, di Bali."
- },
- {
-  "id": "p5EscWKbGKg",
-  "title": "Bahlil Lahadalia Pastikan Stok BBM Nasional Aman",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Menteri Koordinator Bidang Hilirisasi dan Investasi Bahlil Lahadalia menyatakan stok BBM nasional aman, sembari pemerintah mempercepat distribusi ke berbagai daerah.",
-  "takeaway": "Pernyataan ini penting bagi publik di tengah kekhawatiran kelangkaan BBM yang berdampak pada aktivitas ekonomi harian."
  }
 ];

@@ -12,8 +12,55 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-22T01:53:34.061+07:00",
+ "diperbarui": "2026-10-23T01:47:46.539+07:00",
  "entri": [
+  {
+   "id": "2026-10-22-3",
+   "edisi": "2026-10-22",
+   "benang": "Dividen Jumbo Berjalan Berdampingan dengan Gagal Bayar",
+   "klaim": "Jarak antara emiten dengan kas berlebih dan emiten yang masih berkutat dengan kewajiban lama semakin melebar.",
+   "penanda": "Apakah WIKA mengajukan proposal penyelesaian baru ke pemegang sukuk setelah RUPSU kali ini gagal",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-22-2",
+   "edisi": "2026-10-22",
+   "benang": "Sorotan Tata Kelola Emiten Kecil Terus Melebar",
+   "klaim": "Sorotan tata kelola emiten kecil ini konsisten, bukan insiden tunggal, karena pertanyaan soal kewajaran harga dan waktu pengungkapan muncul di lebih dari satu emiten pada hari yang sama.",
+   "penanda": "Jawaban lanjutan BYAN ke bursa serta hasil RUPSLB MTPS",
+   "tenggat": "2026-11-03",
+   "tenggatLabel": "hasil RUPSLB MTPS pada 3 November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-22-1",
+   "edisi": "2026-10-22",
+   "benang": "Buyback Darurat Marak Saat IHSG Justru Menguat",
+   "klaim": "Buyback darurat AMMN dan BBRI lebih mungkin sekadar pemanfaatan kelonggaran aturan OJK untuk buyback rutin, mengingat ukurannya kecil dan indeks sendiri menguat, dibanding langkah antisipasi menjelang tekanan yang belum terlihat di angka indeks harian.",
+   "penanda": "Laporan realisasi buyback periodik emiten serta apakah permintaan penjelasan serupa dari BEI terus bertambah menjelang penyesuaian bobot MSCI",
+   "tenggat": "2026-11-30",
+   "tenggatLabel": "menjelang penyesuaian bobot MSCI akhir November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "arah-go-private-emiten-2026-11-02",
+   "edisi": null,
+   "isu": "go-private-emiten",
+   "isuNama": "Gelombang Go Private",
+   "benang": "Apakah gelombang emiten keluar dari bursa berlanjut?",
+   "cabang": "Berlanjut dan bertambah",
+   "klaim": "Hingga 2 November 2026, gelombang emiten yang keluar dari Bursa Efek Indonesia lewat go private dan delisting terus berlanjut dan bertambah, ditandai permohonan baru seperti IGAR yang muncul di tengah rentetan tender sukarela dan delisting emiten lain yang masih berjalan.",
+   "penanda": "Yang perlu dipantau berikutnya adalah batas akhir partisipasi pada 21 Oktober 2026 pukul 16.00 WIB, pembayaran kepada peserta yang paling lambat dilakukan 2 November 2026, serta kelanjutan proses persetujuan OJK dan Bursa Efek Indonesia…",
+   "tenggat": "2026-11-02",
+   "tenggatLabel": "2 November 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-21-3",
    "edisi": "2026-10-21",
@@ -143,8 +190,13 @@ var RAPOR = {
    "penanda": "Yang perlu dipantau adalah hasil RUPO pada 20 Oktober 2026, terutama apakah pemegang obligasi yang hadir, minimal tiga per empat dari total obligasi beredar, menyetujui usulan penyelesaian WIKA atau justru menyatakan perusahaan gagal bayar…",
    "tenggat": "2026-10-20",
    "tenggatLabel": "20 Oktober 2026",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "wika-gagal-penuhi-kuorum-rupsu-usulan-penyelesaian-sukuk-ditolak",
+    "judul": "WIKA Gagal Penuhi Kuorum RUPSU, Usulan Penyelesaian Sukuk Ditolak",
+    "tanggal": "22 Oktober 2026",
+    "alasan": "Artikel ini menunjukkan RUPSU WIKA gagal kuorum dan 71,7% suara menolak usulan penyelesaian sukuk, sehingga tekanan gagal bayar tidak terselesaikan sesuai penanda uji yang diminta."
+   }
   },
   {
    "id": "arah-rebalancing-msci-2026-11-11",
@@ -349,8 +401,13 @@ var RAPOR = {
    "penanda": "Apakah pekan depan masih bermunculan koreksi laporan realisasi dana publik serupa dari emiten lain, atau mulai mereda.",
    "tenggat": "2026-10-18",
    "tenggatLabel": "pekan depan",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "iiff-koreksi-laporan-realisasi-dana-obligasi-tahap-i-2026",
+    "judul": "IIFF Koreksi Laporan Realisasi Dana Obligasi Tahap I 2026",
+    "tanggal": "22 Oktober 2026",
+    "alasan": "Pekan ini muncul lagi koreksi laporan realisasi dana (obligasi) dari emiten lain (IIFF) di luar enam yang disebut, menunjukkan pola koreksi masih meluas, bukan mereda."
+   }
   },
   {
    "id": "2026-10-09-1",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ratu-jawab-permintaan-bursa-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "RATU Jawab Permintaan Bursa soal [Volatilitas] Saham",
+  "deck": "RATU menegaskan tidak ada informasi material yang belum diungkap, setelah BEI meminta penjelasan atas gejolak transaksi sahamnya pada 21 Oktober 2026.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8e600a4906_bc458bad8d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tldn-bagi-dividen-interim-rp20-saham-rp258-9-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TLDN Bagi [Dividen] Interim Rp20/Saham, Rp258,9 Miliar",
+  "deck": "TLDN menetapkan dividen interim tahun buku 2026 sebesar Rp20 per saham, total Rp258,9 miliar, dan sudah mendistribusikannya hari ini lewat KSEI.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLDN",
+   "dividen interim",
+   "kelapa sawit",
+   "KSEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f7eb47095_82fb9277e8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bi-penyaluran-kredit-baru-diprediksi-meningkat-akhir-2026",
   "category": "Perbankan",
   "title": "BI: Penyaluran Kredit Baru Diprediksi [Meningkat] Akhir 2026",
@@ -19,6 +51,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823426.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "tgka-jelaskan-ke-bei-soal-lonjakan-harga-6-06",
+  "category": "Aksi Korporasi",
+  "title": "TGKA Jelaskan ke BEI soal [Lonjakan] Harga 6,06%",
+  "deck": "Saham TGKA naik 6,06 persen dan volume transaksi melonjak hampir sepuluh kali pada 19 Oktober 2026, tapi perseroan sebut tak ada informasi material di baliknya.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGKA",
+   "Tigaraksa Satria",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/25124779de_a9eb35cb8b.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pelajar-sma-luncurkan-minuman-gizi-nurivo-untuk-remaja",
@@ -84,6 +132,37 @@ var ARTICLES = [
    "ekspansi gerai"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/511feacc71_e8bd7c268e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "moya-bentuk-usaha-patungan-olah-air-rp6-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MOYA Bentuk [Usaha Patungan] Olah Air Rp6,6 Miliar",
+  "deck": "PT Moya Indonesia dan PT Pertiwi Lestari membentuk usaha patungan PT Air Pertiwi Lestari senilai Rp6,6 miliar untuk proyek pengolahan air di Karawang, Jawa Barat.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MOYA",
+   "usaha patungan",
+   "infrastruktur air",
+   "Karawang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f155ea4c8e_a0cfb9ff33.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "agrs-jadwalkan-rupslb-30-november-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "AGRS Jadwalkan [RUPSLB] 30 November, Agenda Belum Diumumkan",
+  "deck": "Bank IBK Indonesia (AGRS) akan menggelar RUPSLB pada 30 November 2026, namun agenda rapat baru akan diumumkan lewat pemanggilan resmi pada 6 November 2026.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGRS",
+   "RUPSLB",
+   "Bank IBK Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae3f7cd540_47d1f48bce.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6420,91 +6499,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261015115238-64545-0/FinancialStatement-2026-III-DIGI.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun",
-  "category": "BUMN",
-  "title": "[Hilirisasi] Bauksit Berpotensi Hemat Devisa Rp9 Triliun",
-  "deck": "Inalum kini sepenuhnya memakai alumina produksi dalam negeri, memangkas impor dan berpotensi menghemat devisa hingga Rp9 triliun per tahun.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/hilirisasi-bauksit-berpotensi-hemat-devisa-rp9-triliun.jpg",
-  "imageV": "mv8nyrsi",
-  "tags": [
-   "hilirisasi",
-   "bauksit",
-   "alumina",
-   "Inalum"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473075-hilirisasi-bauksit-pangkas-impor-indonesia-berpotensi-hemat-devisa-hingga-rp9-triliun-per-tahun"
- },
- {
-  "slug": "lkpp-buka-peluang-umkm-pasok-kebutuhan-pemerintah",
-  "category": "UMKM",
-  "title": "LKPP Buka Peluang UMKM [Pasok] Kebutuhan Pemerintah",
-  "deck": "LKPP mempertemukan 16 kementerian/lembaga dengan pelaku usaha lewat Business Matching 2026, membuka akses UMKM ke pengadaan pemerintah senilai Rp929,4 triliun.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/lkpp-buka-peluang-umkm-pasok-kebutuhan-pemerintah.jpg",
-  "imageV": "mv8i69rt",
-  "tags": [
-   "UMKM",
-   "LKPP",
-   "pengadaan pemerintah",
-   "Business Matching 2026"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473070-umkm-juga-punya-peluang-pasok-kebutuhan-pemerintah-lkpp-perkenalkan-peluangnya"
- },
- {
-  "slug": "kemendag-beri-penghargaan-ke-10-umkm-pangan-buka-akses-ritel",
-  "category": "UMKM",
-  "title": "Kemendag Beri [Penghargaan] ke 10 UMKM Pangan, Buka Akses Ritel",
-  "deck": "Kemendag menyerahkan UKM Pangan Award 2026 kepada 10 UMKM pangan terbaik dari 917 pendaftar, membuka akses ke ritel modern lewat kerja sama dengan APRINDO.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/kemendag-beri-penghargaan-ke-10-umkm-pangan-buka-akses-ritel.jpg",
-  "imageV": "mv8dc90j",
-  "tags": [
-   "UMKM",
-   "UKM Pangan Award",
-   "Kemendag",
-   "Ritel Modern"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dukung-inovasi-dan-perluas-akses-pasar-produk-pangan-mendag-busan-serahkan-ukm-pangan-award-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ekspor-nikel-ke-usd40-miliar-bahlil-bidik-usd45-miliar-2026",
-  "category": "Industri",
-  "title": "Ekspor Nikel ke USD40 Miliar, Bahlil Bidik [USD45 Miliar] 2026",
-  "deck": "Pemerintah menargetkan ekspor nikel tembus USD45 miliar pada 2026, melanjutkan lonjakan dari USD3,3 miliar pada 2017-2018 lewat hilirisasi.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/ekspor-nikel-ke-usd40-miliar-bahlil-bidik-usd45-miliar-2026.jpg",
-  "imageV": "mv8dc9fa",
-  "tags": [
-   "nikel",
-   "hilirisasi",
-   "ekspor",
-   "bahlil"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473053-ekspor-nikel-melonjak-dari-usd33-miliar-jadi-usd40-miliar-menko-bahlil-bidik-usd45-miliar-pada-2026"
- },
- {
-  "slug": "brin-soroti-syarat-tata-kelola-pltn-sebelum-dibangun",
-  "category": "Energi",
-  "title": "BRIN Soroti Syarat Tata Kelola PLTN [Sebelum] Dibangun",
-  "deck": "Peneliti BRIN menilai nuklir bisa jadi pasokan listrik dasar yang stabil dan rendah emisi, tapi pemerintah dinilai perlu membereskan tata kelola, keselamatan, dan pembiayaan lebih dulu.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/brin-soroti-syarat-tata-kelola-pltn-sebelum-dibangun.jpg",
-  "imageV": "mv8dc9ua",
-  "tags": [
-   "PLTN",
-   "nuklir",
-   "BRIN",
-   "energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473048-kajian-brin-dan-den-pemanfaatan-energi-nuklir-tuntut-kesiapan-tata-kelola-dan-ekosistem-nasional"
  }
 ];

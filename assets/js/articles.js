@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ratu-jawab-permintaan-bursa-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "RATU Jawab Permintaan Bursa soal [Volatilitas] Saham",
+  "deck": "RATU menegaskan tidak ada informasi material yang belum diungkap, setelah BEI meminta penjelasan atas gejolak transaksi sahamnya pada 21 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T11:51:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8e600a4906_bc458bad8d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) memberikan tanggapan resmi setelah Bursa Efek Indonesia melalui surat nomor S-13307/BEI.PP2/10-2026 tanggal 21 Oktober 2026 meminta penjelasan atas volatilitas transaksi saham perseroan. Balasan RATU, bernomor REC/CO/22.296/X/2026, ditandatangani oleh Supriyanti Priandini selaku Corporate Secretary & Legal pada 22 Oktober 2026 pukul 11.51.",
+   "Dalam jawabannya, RATU menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik, baik berdasarkan POJK Nomor 31/2015 tentang keterbukaan informasi maupun Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak mengetahui aktivitas pemegang saham tertentu yang bisa memengaruhi harga sahamnya, serta tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang berdampak pada status pencatatan sahamnya di bursa.",
+   "Terkait pemegang saham utama, RATU menyebut telah melakukan konfirmasi langsung dan mendapat keterangan bahwa hingga saat ini pemegang saham utama belum memiliki rencana mengubah kepemilikan sahamnya di perseroan. Perseroan menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang material dan belum diungkapkan kepada publik yang bisa memengaruhi harga efek maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Wide view of oil and gas processing towers at an East Java energy facility, steam rising under an overcast sky.",
+  "takeaway": "Pernyataan ini netral bagi RATU karena isinya murni konfirmasi rutin, tidak ada informasi baru yang mengubah gambaran bisnis perseroan. Dokumen ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham, karena permintaan BEI memang soal pergerakan harga transaksi di pasar, bukan soal laporan keuangan, sehingga pelaku pasar membacanya sekadar untuk memastikan tidak ada pihak yang menyimpan informasi tersembunyi di balik lonjakan harga. Yang perlu dipantau selanjutnya adalah apakah volatilitas harga saham RATU berlanjut dalam beberapa hari setelah pernyataan ini terbit pada 22 Oktober 2026, dan apakah BEI akan mengambil langkah lanjutan seperti notasi khusus jika pergerakan harga tetap tidak wajar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tldn-bagi-dividen-interim-rp20-saham-rp258-9-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TLDN Bagi [Dividen] Interim Rp20/Saham, Rp258,9 Miliar",
+  "deck": "TLDN menetapkan dividen interim tahun buku 2026 sebesar Rp20 per saham, total Rp258,9 miliar, dan sudah mendistribusikannya hari ini lewat KSEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T11:44:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f7eb47095_82fb9277e8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLDN",
+  "tags": [
+   "TLDN",
+   "dividen interim",
+   "kelapa sawit",
+   "KSEI"
+  ],
+  "body": [
+   "PT Teladan Prima Agro Tbk (TLDN) menetapkan pembagian dividen interim tahun buku 2026 sebesar Rp20 per saham, dengan total seluruh dividen Rp258.930.604.000. Keputusan ini diambil oleh Direksi pada 1 Oktober 2026 dan sudah mendapat persetujuan Dewan Komisaris pada tanggal yang sama. Dari pembagian per saham dan nilai total itu, jumlah saham beredar perseroan dapat dihitung sekitar 12,95 miliar lembar.",
+   "Jadwal pembagiannya sudah berjalan sejak pertengahan Oktober. Cum dividen di pasar reguler dan negosiasi jatuh pada 12 Oktober 2026, dengan ex dividen sehari setelahnya. Untuk pasar tunai, cum dividen pada 14 Oktober 2026 dan ex dividen pada 15 Oktober 2026. Recording date, yaitu tanggal batas pencatatan pemegang saham yang berhak menerima dividen, ditetapkan 14 Oktober 2026, dan dividen dibayarkan hari ini, 22 Oktober 2026.",
+   "Pembayaran dilakukan melalui PT Kustodian Sentral Efek Indonesia (KSEI) dan didistribusikan langsung ke rekening efek masing-masing pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada recording date. Dividen ini akan dikenakan pajak penghasilan sesuai aturan perpajakan yang berlaku. Perseroan menyatakan pembagian dividen ini tidak membawa dampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya. Laporan ditandatangani oleh Arya Wibisana selaku Corporate Secretary TLDN."
+  ],
+  "fotoAdegan": "Workers harvesting fresh palm fruit bunches in a plantation, loading them onto a truck bed under soft morning light",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham TLDN, karena perusahaan memang mampu langsung mencairkan laba sebesar Rp258,9 miliar ke pemegang saham, tanpa indikasi tekanan keuangan apa pun di dokumennya. Pos yang tersentuh adalah kas perusahaan, yang berkurang sebesar nilai dividen itu, dan ekuitas lewat pos laba ditahan, yakni bagian keuntungan yang tidak dibagi dan biasanya dipakai untuk modal usaha ke depan, dua hal yang dipantau pelaku pasar karena menunjukkan seberapa kuat kas operasional perusahaan sekaligus seberapa banyak modal yang masih tersisa untuk ekspansi. Pembayarannya sendiri sudah selesai hari ini, 22 Oktober 2026, lewat KSEI ke rekening pemegang saham yang tercatat pada recording date 14 Oktober 2026, sehingga yang perlu dipantau selanjutnya adalah apakah TLDN masih akan menambah dividen final saat laporan tahunan dan RUPST mendatang.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bi-penyaluran-kredit-baru-diprediksi-meningkat-akhir-2026",
   "category": "Perbankan",
   "title": "BI: Penyaluran Kredit Baru Diprediksi [Meningkat] Akhir 2026",
@@ -29,6 +81,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Data yang konkret di sini bukan cuma satu angka proyeksi, tapi tren tiga periode berturut-turut, yakni SBT kredit baru naik dari 88,92 di akhir 2025, jadi 90,08 pada kuartal III 2026, dan diproyeksikan 91,31 pada kuartal IV 2026, sementara indeks ketatnya syarat kredit terus turun dari 0,28 ke 0,15 pada rentang waktu yang sama. Pihak yang langsung terdampak adalah calon peminjam, baik pelaku usaha maupun perseorangan, karena pelonggaran itu menyentuh plafon, tenor, bunga, dan syarat dokumen sekaligus, bukan hanya satu aspek saja. Pola tiga periode ini mengarah pada pelonggaran kredit yang bertahap dan berkelanjutan, bukan sekadar lonjakan musiman akhir tahun. Yang akan memastikan apakah arah ini benar-benar terjadi adalah data realisasi outstanding kredit perbankan yang dirilis BI tiap bulan, serta hasil Survei Perbankan triwulan berikutnya yang akan membandingkan prakiraan ini dengan kenyataan di lapangan.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "tgka-jelaskan-ke-bei-soal-lonjakan-harga-6-06",
+  "category": "Aksi Korporasi",
+  "title": "TGKA Jelaskan ke BEI soal [Lonjakan] Harga 6,06%",
+  "deck": "Saham TGKA naik 6,06 persen dan volume transaksi melonjak hampir sepuluh kali pada 19 Oktober 2026, tapi perseroan sebut tak ada informasi material di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T11:19:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/25124779de_a9eb35cb8b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGKA",
+  "tags": [
+   "TGKA",
+   "Tigaraksa Satria",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia meminta penjelasan kepada PT Tigaraksa Satria Tbk (TGKA) setelah mencatat lonjakan harga dan aktivitas transaksi sahamnya pada 19 Oktober 2026. Dalam surat bernomor S-13270/BEI.PP2/10-2026 tertanggal 20 Oktober 2026, BEI menyebut volume transaksi TGKA naik menjadi 37.500 saham dengan 43 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 3.800 saham dengan 17 kali transaksi. Harga saham ditutup naik Rp280 atau 6,06 persen, dari Rp4.620 menjadi Rp4.900.",
+   "Menjawab permintaan itu melalui surat bernomor 049/TGKA/X/2026 tertanggal 22 Oktober 2026, Corporate Secretary Tigaraksa Satria, Nelly, menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi harga saham maupun keputusan investasi pemodal, baik berdasarkan POJK Nomor 31/POJK.04/2015 maupun Peraturan BEI Nomor I-E. Perseroan juga melaporkan hasil pemantauan kepemilikan saham sesuai POJK Nomor 4 Tahun 2024 untuk dua bulan terakhir, yaitu tidak ada perubahan kepemilikan oleh komisaris, oleh pemegang saham dengan kepemilikan minimal 5 persen, maupun oleh pihak pengendali perseroan. Satu-satunya aktivitas yang tercatat adalah penjualan 100 lembar saham oleh salah satu anggota direksi pada 18 Agustus 2026, yang menurut perseroan tidak material dan tidak berkaitan dengan lonjakan harga pada 19 Oktober 2026, serta sudah dilaporkan melalui sistem AKSes KSEI.",
+   "Perseroan menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan mendatang yang berdampak pada status pencatatan sahamnya di BEI, dan tidak ada informasi material lain yang belum diungkapkan ke publik sampai surat itu disampaikan."
+  ],
+  "fotoAdegan": "Warehouse workers loading cardboard boxes of consumer goods onto a delivery truck in a busy distribution yard, daylight",
+  "takeaway": "Laporan ini netral bagi fundamental Tigaraksa, karena lonjakan harga dan volume transaksi pada 19 Oktober 2026 ternyata tidak didasari informasi material apa pun dari internal perusahaan, melainkan cuma aktivitas pasar yang menguat tajam dalam satu hari. Yang tersentuh di sini hanya sisi likuiditas dan pola transaksi saham di bursa, bukan pos kinerja seperti ekuitas, arus kas, atau laba per saham, sehingga investor belum punya dasar fundamental baru untuk menilai kenaikan 6,06 persen tersebut. Penjualan 100 lembar saham oleh salah satu direksi pada 18 Agustus 2026 juga terlalu kecil untuk dibaca sebagai sinyal apa pun, apalagi tidak mengubah hak suara atau susunan pemegang saham pengendali. Yang perlu dipantau selanjutnya adalah apakah harga dan volume TGKA kembali melonjak dalam hari-hari berikutnya, karena kalau pola itu berulang, BEI biasanya akan meminta penjelasan serupa lagi sebagai bagian dari pemantauan transaksi tidak wajar.",
+  "sentimen": "netral"
  },
  {
   "slug": "pelajar-sma-luncurkan-minuman-gizi-nurivo-untuk-remaja",
@@ -133,6 +211,57 @@ var ARTICLES = [
   "fotoAdegan": "A barista steaming milk behind the counter of a small modern coffee shop storefront on a busy Jakarta street, morning commuters passing by",
   "takeaway": "Laporan ini condong positif bagi FORE, sebab pertumbuhan pendapatan 53,3 persen dan laba bersih 49,7 persen itu dibarengi membaiknya efisiensi operasional, bukan cuma karena gerai bertambah. Yang paling layak diperhatikan adalah margin EBITDA, yakni seberapa besar laba operasional yang dihasilkan dari setiap rupiah pendapatan sebelum dipotong bunga, pajak, dan penyusutan aset, yang naik dari 19,3 persen jadi 21,4 persen, artinya setiap gerai kini menghasilkan laba lebih besar, bukan sekadar menambah omzet lewat jumlah gerai. Yang perlu dipantau berikutnya adalah apakah efisiensi ini bisa dipertahankan saat ekspansi makin masuk ke kota Tier 2 dan Tier 3 yang daya belinya umumnya lebih rendah dari Jakarta, serta bagaimana sisa dana hasil penawaran saham perdana 2025 benar-benar terserap untuk pengembangan Fore Donut dan modal kerja seperti yang disebutkan manajemen.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "moya-bentuk-usaha-patungan-olah-air-rp6-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MOYA Bentuk [Usaha Patungan] Olah Air Rp6,6 Miliar",
+  "deck": "PT Moya Indonesia dan PT Pertiwi Lestari membentuk usaha patungan PT Air Pertiwi Lestari senilai Rp6,6 miliar untuk proyek pengolahan air di Karawang, Jawa Barat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T04:01:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f155ea4c8e_a0cfb9ff33.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MOYA",
+  "tags": [
+   "MOYA",
+   "usaha patungan",
+   "infrastruktur air",
+   "Karawang"
+  ],
+  "body": [
+   "PT Moya Indonesia (MOYA) menyampaikan koreksi atas laporan keterbukaan informasi tanggal 12 Oktober 2026 kepada Otoritas Jasa Keuangan, terkait pembentukan usaha patungan bersama PT Pertiwi Lestari, pihak yang berafiliasi dengan perseroan. Usaha patungan itu diberi nama PT Air Pertiwi Lestari dan telah mendapat pengesahan pendirian badan hukum dari Menteri Hukum melalui Keputusan Nomor AHU-0082111.AH.01.01.Tahun 2026 tertanggal 12 Oktober 2026, berdasarkan Akta Notaris Sutra Oktaviani Nomor 38 tanggal 25 September 2026. Perusahaan baru ini berkedudukan di Kabupaten Karawang dengan status perusahaan modal asing (PMA).",
+   "Modal dasar PT Air Pertiwi Lestari ditetapkan Rp10 miliar, dengan modal ditempatkan dan disetor sebesar Rp6.603.600.000 atau sekitar Rp6,6 miliar. Modal itu dibagi rata antara kedua pendiri: PT Moya Indonesia dan PT Pertiwi Lestari masing-masing memegang 33.018 lembar saham senilai Rp3.301.800.000. Susunan pengurusnya terdiri atas Rahadian Sutisnawidjaja sebagai Direktur Utama, Dwi Restiyanto dan Irawan Wisnu Wardana ST sebagai Direktur, serta Adhi Indrawan sebagai Komisaris Utama dan Ir. Saut Simanjuntak sebagai Komisaris.",
+   "Tujuan pembentukan usaha patungan ini adalah melaksanakan proyek pembangunan dan pengoperasian infrastruktur pengolahan air, yaitu Water Treatment Plant untuk mengolah air baku jadi air bersih, Waste Water Treatment Plant untuk mengolah air limbah, dan Water Recycle Plant untuk mendaur ulang air, lengkap dengan sistem jaringan distribusi air bersih dan air limbah di Karawang, Jawa Barat. Seluruh pendanaan proyek berasal dari kas internal, tanpa pinjaman baru. Perseroan menegaskan setiap pengalihan saham di badan usaha patungan ini wajib mendapat persetujuan Rapat Umum Pemegang Saham terlebih dahulu, dan pemegang saham yang ada memiliki hak ikut serta atau tag along bila salah satu pihak hendak melepas sahamnya."
+  ],
+  "fotoAdegan": "Engineers inspecting large water treatment tanks at an industrial plant construction site, overcast morning light in West Java",
+  "takeaway": "Laporan ini netral bagi MOYA, karena pembentukan usaha patungan ini memang menambah proyek baru di sektor pengolahan air, tetapi nilainya hanya Rp6,6 miliar dan perseroan sendiri menegaskan tidak ada dampak material terhadap operasional maupun keuangan. Pos yang tersentuh adalah ekuitas dan arus kas investasi MOYA, karena setoran modal sekitar Rp3,3 miliar untuk separuh saham usaha patungan ini akan tercatat sebagai penyertaan pada entitas asosiasi dan mengalir keluar dari kas internal perseroan, bukan dari utang baru. Yang perlu dipantau berikutnya adalah realisasi pembangunan fasilitas pengolahan air bersih dan limbah di Karawang oleh PT Air Pertiwi Lestari, serta kelanjutan prosesnya, mengingat setiap pengalihan saham di badan usaha patungan ini masih memerlukan persetujuan Rapat Umum Pemegang Saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "agrs-jadwalkan-rupslb-30-november-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "AGRS Jadwalkan [RUPSLB] 30 November, Agenda Belum Diumumkan",
+  "deck": "Bank IBK Indonesia (AGRS) akan menggelar RUPSLB pada 30 November 2026, namun agenda rapat baru akan diumumkan lewat pemanggilan resmi pada 6 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T03:50:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae3f7cd540_47d1f48bce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGRS",
+  "tags": [
+   "AGRS",
+   "RUPSLB",
+   "Bank IBK Indonesia"
+  ],
+  "body": [
+   "PT Bank IBK Indonesia Tbk (AGRS) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 30 November 2026, pukul 13.30 WIB. Lokasi rapat belum ditentukan dan akan diinformasikan kemudian. Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam daftar pemegang saham perseroan per Kamis, 5 November 2026, sampai pukul 16.00 WIB.",
+   "Pemanggilan resmi yang memuat mata acara rapat baru akan diumumkan melalui situs web perseroan, situs Bursa Efek Indonesia, dan aplikasi eASY.KSEI milik Kustodian Sentral Efek Indonesia pada Jumat, 6 November 2026. Artinya, isi dari apa yang akan diputuskan dalam RUPSLB ini belum terbuka pada pengumuman kali ini. Pemegang saham yang ingin mengusulkan mata acara tambahan harus mengajukannya secara tertulis dan sudah diterima direksi paling lambat Jumat, 30 Oktober 2026, dengan syarat diajukan oleh satu atau lebih pemegang saham yang bersama-sama mewakili minimal 1/20 dari total saham berhak suara, serta memenuhi syarat itikad baik dan tidak bertentangan dengan aturan perseroan.",
+   "Perseroan juga mengimbau pemegang saham memanfaatkan sistem elektronik eASY.KSEI untuk menyatakan kehadiran atau memberi kuasa secara elektronik dalam rapat. Fasilitas ini tersedia sejak tanggal pemanggilan rapat hingga Jumat, 27 November 2026, pukul 12.00 WIB, yaitu satu hari kerja sebelum rapat digelar."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a modern conference hall inside a glass office tower, soft morning light, Jakarta business district.",
+  "takeaway": "Pengumuman ini netral bagi AGRS karena isinya baru soal jadwal dan tata cara rapat, sementara mata acara yang sebenarnya akan dibahas dalam RUPSLB ini belum dibuka ke publik. RUPSLB biasanya dipakai emiten untuk memutuskan hal yang bisa mengubah pos-pos mendasar seperti jumlah saham beredar lewat penambahan modal, jadi kalau nanti agendanya berupa penerbitan saham baru, laba per saham bisa terdilusi karena keuntungan perseroan harus dibagi ke lebih banyak lembar saham. Pemegang saham yang berniat mengajukan usulan mata acara, dengan syarat mewakili minimal 1/20 saham berhak suara, harus mengirimkan usulannya paling lambat 30 Oktober 2026. Yang perlu dipantau selanjutnya adalah pemanggilan resmi berisi agenda lengkap pada 6 November 2026, serta pelaksanaan RUPSLB itu sendiri pada 30 November 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "ppgl-batalkan-pmthmetd-piutang-pemegang-saham-rp21-6-m",

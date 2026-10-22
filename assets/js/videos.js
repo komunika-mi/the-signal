@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "RNzDtcmHGrw",
+  "title": "Kadin Dorong Gerakan Buy From Indonesia dan Buy Indonesia",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kamar Dagang dan Industri Indonesia mendorong gerakan Buy From Indonesia dan Buy Indonesia sebagai strategi memperkuat posisi produk dalam negeri di rantai pasok global.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya penguatan daya saing industri dalam negeri dan dorongan substitusi produk impor.",
+  "terbit": "2026-10-22T16:50:12+00:00"
+ },
+ {
   "id": "6J18Ecp4ZBs",
   "title": "Peternak Ayam Terancam Bangkrut akibat Harga Pakan Naik",
   "category": "UMKM",

@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "produksi-gas-blok-jangkrik-dan-maha-tambah-290-mmscfd",
+  "category": "Energi",
+  "title": "Produksi Gas Blok Jangkrik dan Maha Tambah [290] MMSCFD",
+  "deck": "Dua proyek lepas pantai Kaltim, JNE#6 dan Lapangan Maha, menambah produksi gas sekitar 290 MMSCFD, menurut Menteri ESDM Bahlil Lahadalia.",
+  "image": "assets/img/produksi-gas-blok-jangkrik-dan-maha-tambah-290-mmscfd.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-22T19:15:13.769Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/resmikan-gas-jne6-dan-lapangan-maha-menteri-esdm-dorong-tambahan-produksi-gas-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "gas bumi",
+   "ESDM",
+   "Kalimantan Timur",
+   "migas lepas pantai"
+  ],
+  "body": [
+   "Pemerintah menambah pasokan gas nasional lewat dua proyek lepas pantai Kalimantan Timur, yakni sumur Jangkrik North East #6 (JNE#6) dan Lapangan Maha-South Hub. Menteri ESDM Bahlil Lahadalia meresmikan penerimaan gas dari kedua proyek yang dioperasikan Searah Muara Bakau B.V. dan Eni pada Kamis (22/10). Tambahan pasokan ini penting karena kebutuhan gas domestik, baik untuk industri maupun pembangkit listrik, terus meningkat sementara sejumlah lapangan gas lama mengalami penurunan produksi alami.",
+   "Menurut Bahlil, pengeboran cabang baru pada sumur JNE#6 yang berjalan sejak 9 Oktober 2026 berhasil menaikkan produksi dari sekitar 10 juta kaki kubik gas per hari menjadi 56 juta kaki kubik per hari, dengan tambahan cadangan gas di tempat sekitar 100 miliar kaki kubik. Sementara itu, Lapangan Maha yang menelan investasi sekitar US$891 juta ditargetkan mulai mengalirkan gas pada akhir Oktober 2026 dengan tambahan produksi sekitar 230 juta kaki kubik per hari. Proyek ini disebut membuka lebih dari 700 lapangan kerja dan melibatkan industri fabrikasi dalam negeri untuk pengembangan migas laut dalam.",
+   "Bahlil menyebut, dengan tambahan total sekitar 290 juta kaki kubik per hari dari kedua proyek, produksi gas existing yang saat ini sebesar 450 juta kaki kubik per hari akan naik menjadi sekitar 750 juta kaki kubik per hari mulai 1 November 2026, menurut klaim Kementerian ESDM. Terpisah, Presiden Direktur Searah Muara Bakau B.V. Mirko Araldi menyampaikan perusahaannya sedang menjalankan survei seismik 3D/4D seluas sekitar 12.000 kilometer persegi di Cekungan Kutai bersama mitra, untuk menilai potensi cadangan migas yang belum tergarap di kawasan itu.",
+   "Cekungan Kutai disebut memiliki potensi sumber daya gas sekitar 5 triliun kaki kubik serta 300 juta barel kondensat, menurut data yang dipaparkan dalam peresmian ini. Pemerintah, melalui SKK Migas dan Direktorat Jenderal Migas, berencana melibatkan pemerintah daerah dalam pembahasan lanjutan agar manfaat pengembangan lapangan-lapangan ini turut dirasakan di tingkat lokal."
+  ],
+  "fotoAdegan": "Offshore gas platform with pipework and a flare stack in open sea waters, workers in safety gear on deck, overcast sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-resmikan-gas-jne6-dan-lapangan-maha-menko-hiltrans-dorong-tambahan-produksi-gas-nasional-5uznpka.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah konkret: dua proyek lepas pantai Kaltim ini menambah sekitar 290 juta kaki kubik gas per hari (satuan standar volume gas harian), yang menurut Menteri ESDM akan mengerek total produksi blok tersebut ke level tertinggi sejak beroperasi mulai awal November. Yang langsung terdampak adalah industri dan pembangkit listrik yang mengandalkan pasokan gas domestik, serta pekerja di Kalimantan Timur karena Lapangan Maha disebut membuka lebih dari 700 lapangan kerja. Ini menambah sinyal bahwa strategi pemerintah saat ini mengandalkan tambahan produksi dari sumur dan lapangan yang sudah berjalan, bukan hanya menunggu proyek baru, sejalan dengan survei seismik 12.000 kilometer persegi yang sedang dijalankan Searah di Cekungan Kutai untuk mencari cadangan tambahan. Arah ini akan lebih jelas kalau survei seismik tersebut nanti mengonfirmasi temuan cadangan baru, dan kalau data produksi gas nasional pada November benar menunjukkan kenaikan seperti yang diklaim pemerintah saat peresmian ini.",
+  "imageV": "mvjxg16p"
+ },
+ {
+  "slug": "kesdm-dan-tni-al-usut-kapal-pembawa-406-kl-solar-di-semarang",
+  "category": "Energi",
+  "title": "KESDM dan TNI AL [Usut] Kapal Pembawa 406 KL Solar di Semarang",
+  "deck": "Kapal SPOB Nurfaizah 03 diduga membawa 406 kiloliter solar B50 tanpa dokumen pembelian resmi saat diperiksa TNI AL di perairan Tanjung Emas, Semarang.",
+  "image": "assets/img/kesdm-dan-tni-al-usut-kapal-pembawa-406-kl-solar-di-semarang.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-22T19:15:12.614Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kesdm-dan-tni-al-tangani-dugaan-pelanggaran-bbm-subsidi-ilegal-di-perairan-semarang",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Solar",
+   "TNI AL",
+   "Semarang"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral melalui Direktorat Jenderal Penegakan Hukum ESDM menindaklanjuti dugaan pengangkutan ilegal 406 kiloliter bahan bakar jenis solar B50 yang ditemukan di atas kapal tongkang SPOB Nurfaizah 03 di perairan Tanjung Emas, Semarang, Jawa Tengah. Penanganan ini penting karena menyangkut potensi gangguan pasokan solar bagi masyarakat dan dunia usaha di wilayah Semarang dan Jawa Tengah, jika kapal tersebut sempat mengangkut muatan secara penuh.",
+   "Kapal itu pertama kali diperiksa oleh Kapal Angkatan Laut Pulau Menjangan II-5-39 pada 15 September 2026. Komandan Pangkalan TNI Angkatan Laut V Semarang kemudian melimpahkan penanganan perkara ke Ditjen Gakkum ESDM untuk didalami lebih jauh. Direktur Jenderal Penegakan Hukum ESDM Jeffri Huwae mengatakan, berdasarkan temuan awal, kapal tersebut sebenarnya berencana mengangkut solar hingga sekitar 1.100 kiloliter.",
+   "Dari penelusuran dokumen, pembelian BBM dari Pertamina Patra Niaga Pengapon yang tercatat hanya sebesar 24 kiloliter, sementara dokumen pengangkutan (Delivery Order) mencantumkan volume 406 kiloliter. Selisih sebesar 382 kiloliter antara dua dokumen itu menjadi titik yang didalami Ditjen Gakkum ESDM untuk melacak asal-usul, jenis, dan legalitas BBM yang ada di kapal tersebut.",
+   "Kapal SPOB Nurfaizah 03 saat ini masih ditahan sebagai barang bukti di Pelabuhan Tanjung Emas dan tetap diawasi, menurut Komandan Lanal V Semarang Kolonel Marinir Sabprowanto. ESDM melalui Lemigas juga sedang menguji kualitas dan kuantitas BBM yang disita untuk mendukung proses penyelidikan, sementara pemeriksaan lanjutan akan menyasar dokumen, pihak-pihak terkait, dan rantai pasok BBM, dengan koordinasi bersama TNI, Polri, dan pemerintah daerah."
+  ],
+  "fotoAdegan": "A weathered oil barge docked at a working seaport, mooring lines taut, cranes and fuel pipes visible in the background",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-kesdm-dan-al-tangani-dugaan-pelanggaran-bbm-subsidi-ilegal-di-perairan-semarang-s5mi37s.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini bukan aturannya, tapi penindakannya: petugas menemukan selisih 382 kiloliter antara solar yang tercatat di dokumen pembelian resmi dari Pertamina, yakni 24 kiloliter, dengan volume 406 kiloliter yang benar-benar ada di kapal. Angka ini penting karena kapal itu sebenarnya berencana mengangkut sampai 1.100 kiloliter, jumlah yang menurut KESDM bisa membuat solar langka dan antrean panjang di SPBU wilayah Semarang dan Jawa Tengah kalau sampai terangkut semua. Pihak yang langsung kena dampak adalah warga dan pelaku usaha di Semarang yang bergantung pada pasokan solar itu, sementara kapal dan kru yang membawanya kini jadi fokus pemeriksaan karena pasokan tanpa dokumen yang jelas berpotensi melanggar aturan pengangkutan BBM. KESDM menyebut penanganan kasus ini sejalan dengan arahan Presiden Prabowo Subianto dan Menteri ESDM untuk menindak lebih serius penyimpangan distribusi BBM, jadi kasus Semarang ini kemungkinan bukan yang terakhir diungkap. Yang perlu dipantau adalah hasil uji laboratorium Lemigas atas barang bukti solar tersebut, serta apakah penyelidikan lanjutan menetapkan pihak yang bertanggung jawab atas selisih volume itu.",
+  "imageV": "mvjxg3or"
+ },
+ {
   "slug": "pack-ubah-bisnis-akuisisi-nikel-dan-gelar-rights-issue",
   "category": "Aksi Korporasi",
   "title": "PACK Ubah Bisnis, Akuisisi Nikel, dan Gelar [Rights Issue]",
@@ -53,6 +109,33 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty chairs facing a stage in a large conference hall, soft morning light through tall windows",
   "takeaway": "Laporan ini netral karena isinya sebatas jadwal dan prosedur RUPSLB, belum memuat satu pun agenda atau keputusan yang bisa dinilai menguntungkan atau merugikan pemegang saham. Yang disentuh baru soal administrasi: siapa yang berhak hadir berdasarkan Daftar Pemegang Saham per 5 November, bukan soal ekuitas, arus kas, atau jumlah saham beredar, karena itu baru akan terlihat kalau agenda RUPS sudah diumumkan. Mengingat PACK belakangan ini juga melaporkan rencana akuisisi nikel dan rights issue yang bisa menambah saham beredar dan berpotensi mendilusi laba per saham, pembaca perlu menunggu pemanggilan resmi pada 6 November 2026 untuk tahu apakah RUPSLB ini yang akan memutuskan rencana-rencana tersebut. Tenggat usulan mata acara dari pemegang saham adalah 30 Oktober 2026, dan rapatnya sendiri digelar 30 November 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pasokan-gas-kaltim-naik-ke-750-mmscfd-per-november",
+  "category": "Energi",
+  "title": "Pasokan Gas Kaltim [Naik] ke 750 MMSCFD per November",
+  "deck": "Pemerintah menargetkan produksi gas lepas pantai Kalimantan Timur naik ke 750 juta kaki kubik per hari mulai 1 November 2026, didorong proyek JNE#6 dan Lapangan Maha.",
+  "image": "assets/img/pasokan-gas-kaltim-naik-ke-750-mmscfd-per-november.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T23:16:49+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474510-realisasi-kedaulatan-energi-nasional-pemerintah-resmikan-proyek-gas-jne6-dan-lapangan-maha",
+  "tags": [
+   "gas bumi",
+   "Kalimantan Timur",
+   "ESDM",
+   "Lapangan Maha"
+  ],
+  "body": [
+   "Pemerintah menargetkan produksi gas bumi dari wilayah lepas pantai Kalimantan Timur naik menjadi sekitar 750 juta standar kaki kubik per hari mulai 1 November 2026. Kenaikan ini penting karena menambah pasokan gas dalam negeri di tengah upaya pemerintahan Presiden Prabowo Subianto memperkuat apa yang disebut kedaulatan energi, yakni kemampuan memenuhi kebutuhan gas nasional dari produksi sendiri.",
+   "Menteri ESDM Bahlil Lahadalia menjelaskan tambahan pasokan sekitar 290 juta kaki kubik per hari berasal dari dua sumber. Pertama, pengeboran cabang baru di sumur Jangkrik North East #6 yang sejak 9 Oktober 2026 berhasil mendongkrak produksi dari sekitar 10 juta kaki kubik per hari menjadi 56 juta kaki kubik per hari, sekaligus menambah cadangan gas awal sekitar 100 miliar kaki kubik. Kedua, pengembangan Blok Maha yang menyumbang sekitar 230 juta kaki kubik per hari. Dengan produksi berjalan sebesar 450 juta kaki kubik per hari, total pasokan diperkirakan mencapai sekitar 750 juta kaki kubik per hari begitu kedua proyek beroperasi penuh.",
+   "Fasilitas produksi Lapangan Maha sendiri menelan investasi sekitar US$891 juta dan ditargetkan mulai beroperasi akhir Oktober 2026, dengan perkiraan membuka lebih dari 700 lapangan kerja. Proyek ini dikelola bersama oleh Searah Muara Bakau B.V. dan Eni sebagai mitra kontraktor.",
+   "Presiden Direktur Searah Muara Bakau B.V., Mirko Araldi, menyatakan perusahaan akan terus menjalankan eksplorasi untuk mencari cadangan baru. Salah satu langkahnya adalah survei seismik 3D/4D bersama mitra yang mencakup area sekitar 12.000 kilometer persegi, disebut sebagai salah satu survei seismik terbesar yang pernah dilakukan perusahaan di Indonesia untuk menilai potensi cadangan di Cekungan Kutai."
+  ],
+  "fotoAdegan": "Offshore gas platform workers inspecting pipelines and valves on a rig deck, open sea horizon, late afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/22/6ada365279e32-realisasi-kedaulatan-energi-nasional-pemerintah-resmikan-proyek-gas-jne6-dan-lapangan-maha_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah pasokan gas dari ladang lepas pantai Kalimantan Timur naik dari 450 menjadi sekitar 750 juta kaki kubik per hari mulai 1 November, dengan sebagian besar kenaikan datang dari pengeboran cabang baru di satu sumur yang produksinya meloncat lebih dari lima kali lipat dalam hitungan hari. Yang langsung terdampak adalah operator Searah Muara Bakau dan Eni selaku pengelola blok ini, lebih dari 700 calon pekerja di fasilitas Lapangan Maha, serta industri dan pembangkit listrik yang bergantung pada pasokan gas domestik. Sinyal arah ke depan ada pada survei seismik seluas 12.000 kilometer persegi yang sedang dijalankan di Cekungan Kutai, yang menunjukkan kenaikan produksi kali ini ditopang pencarian cadangan baru, bukan sekadar memompa maksimal sumur yang sudah ada dan berisiko cepat menyusut. Yang akan memastikan apakah lonjakan ke 750 juta kaki kubik per hari ini bisa bertahan adalah realisasi produksi aktual begitu Lapangan Maha resmi beroperasi, serta hasil survei seismik tersebut yang akan menentukan apakah ada cadangan tambahan untuk menyambung pasokan setelah dorongan awal ini mereda.",
+  "imageV": "mvjxg46c"
  },
  {
   "slug": "boss-gelar-rups-ratifikasi-keterlambatan-tiga-tahun-buku",
@@ -469,7 +552,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pernyataan ini bukan kebijakan baru, melainkan pemerintah mulai memakai data stabilitas saat ini, pertumbuhan 5,45 persen, investasi naik 7,3 persen, kredit perbankan tumbuh dua digit, sebagai pijakan untuk menaikkan target pertumbuhan menjadi 6 persen pada 2027 dan 8 persen dalam jangka menengah. Yang terdampak langsung adalah pelaku usaha dan investor yang jadi sasaran kemudahan izin lewat PP 28/2025, bank yang diminta terus memperluas pembiayaan, serta sekitar 37.833 calon pekerja yang diproyeksikan terserap dari 26 proyek hilirisasi senilai Rp225 triliun. Arahnya terlihat ke penguatan investasi dan hilirisasi sebagai motor pertumbuhan baru, bukan sekadar mempertahankan momentum, karena pemerintah sendiri menyebut investasi harus tumbuh lebih cepat dari PDB sebagai syarat utama. Yang akan membuktikan apakah ini benar terjadi atau cuma target di atas kertas adalah data realisasi investasi kuartal berikutnya dan progres nyata dari 26 proyek hilirisasi itu dalam menyerap tenaga kerja yang dijanjikan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "cepa-ri-kanada-resmi-berlaku-1-desember-2026",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "RNzDtcmHGrw",
+  "title": "Kadin Dorong Gerakan Buy From Indonesia dan Buy Indonesia",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kamar Dagang dan Industri Indonesia mendorong gerakan Buy From Indonesia dan Buy Indonesia sebagai strategi memperkuat posisi produk dalam negeri di rantai pasok global.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya penguatan daya saing industri dalam negeri dan dorongan substitusi produk impor."
+ },
+ {
   "id": "6J18Ecp4ZBs",
   "title": "Peternak Ayam Terancam Bangkrut akibat Harga Pakan Naik",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Menteri Koordinator Bidang Hilirisasi dan Investasi Bahlil Lahadalia menyatakan stok BBM nasional aman, sembari pemerintah mempercepat distribusi ke berbagai daerah.",
   "takeaway": "Pernyataan ini penting bagi publik di tengah kekhawatiran kelangkaan BBM yang berdampak pada aktivitas ekonomi harian."
- },
- {
-  "id": "tsX_ZxcFlsE",
-  "title": "OJK Temukan Dugaan Manipulasi Saham di Pasar Modal",
-  "category": "Pasar Modal",
-  "program": "Kabar Khusus",
-  "summary": "Otoritas Jasa Keuangan menemukan dugaan praktik manipulasi saham di pasar modal Indonesia, sebagai bagian dari upaya memperkuat pengawasan perdagangan efek.",
-  "takeaway": "Temuan ini relevan bagi investor karena menyangkut integritas pasar modal dan kepercayaan terhadap mekanisme perdagangan saham."
  }
 ];

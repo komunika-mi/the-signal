@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "produksi-gas-blok-jangkrik-dan-maha-tambah-290-mmscfd",
+  "category": "Energi",
+  "title": "Produksi Gas Blok Jangkrik dan Maha Tambah [290] MMSCFD",
+  "deck": "Dua proyek lepas pantai Kaltim, JNE#6 dan Lapangan Maha, menambah produksi gas sekitar 290 MMSCFD, menurut Menteri ESDM Bahlil Lahadalia.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/produksi-gas-blok-jangkrik-dan-maha-tambah-290-mmscfd.jpg",
+  "imageV": "mvjxg16p",
+  "tags": [
+   "gas bumi",
+   "ESDM",
+   "Kalimantan Timur",
+   "migas lepas pantai"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/resmikan-gas-jne6-dan-lapangan-maha-menteri-esdm-dorong-tambahan-produksi-gas-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "kesdm-dan-tni-al-usut-kapal-pembawa-406-kl-solar-di-semarang",
+  "category": "Energi",
+  "title": "KESDM dan TNI AL [Usut] Kapal Pembawa 406 KL Solar di Semarang",
+  "deck": "Kapal SPOB Nurfaizah 03 diduga membawa 406 kiloliter solar B50 tanpa dokumen pembelian resmi saat diperiksa TNI AL di perairan Tanjung Emas, Semarang.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/kesdm-dan-tni-al-usut-kapal-pembawa-406-kl-solar-di-semarang.jpg",
+  "imageV": "mvjxg3or",
+  "tags": [
+   "ESDM",
+   "Solar",
+   "TNI AL",
+   "Semarang"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kesdm-dan-tni-al-tangani-dugaan-pelanggaran-bbm-subsidi-ilegal-di-perairan-semarang",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "pack-ubah-bisnis-akuisisi-nikel-dan-gelar-rights-issue",
   "category": "Aksi Korporasi",
   "title": "PACK Ubah Bisnis, Akuisisi Nikel, dan Gelar [Rights Issue]",
@@ -35,6 +71,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4b757a95bd_844e88401e.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pasokan-gas-kaltim-naik-ke-750-mmscfd-per-november",
+  "category": "Energi",
+  "title": "Pasokan Gas Kaltim [Naik] ke 750 MMSCFD per November",
+  "deck": "Pemerintah menargetkan produksi gas lepas pantai Kalimantan Timur naik ke 750 juta kaki kubik per hari mulai 1 November 2026, didorong proyek JNE#6 dan Lapangan Maha.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/pasokan-gas-kaltim-naik-ke-750-mmscfd-per-november.jpg",
+  "imageV": "mvjxg46c",
+  "tags": [
+   "gas bumi",
+   "Kalimantan Timur",
+   "ESDM",
+   "Lapangan Maha"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474510-realisasi-kedaulatan-energi-nasional-pemerintah-resmikan-proyek-gas-jne6-dan-lapangan-maha"
  },
  {
   "slug": "boss-gelar-rups-ratifikasi-keterlambatan-tiga-tahun-buku",
@@ -6433,54 +6486,6 @@ var ARTICLES = [
    "batu bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4233368f03_059e9038e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trja-tegaskan-karhutla-tak-ganggu-bisnis-penyewaan-kendaraan",
-  "category": "Aksi Korporasi",
-  "title": "TRJA Tegaskan [Karhutla] Tak Ganggu Bisnis Penyewaan Kendaraan",
-  "deck": "Merespons surat Bursa, Transkon Jaya (TRJA) memastikan tidak ada gangguan operasional akibat karhutla, tanpa lahan konsesi dan aset kendaraan yang diasuransikan penuh.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRJA",
-   "karhutla",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2fa7fb53b9_ed35f843db.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fapa-pastikan-karhutla-tak-ganggu-operasi-di-kalimantan",
-  "category": "Aksi Korporasi",
-  "title": "FAPA Pastikan Karhutla Tak Ganggu [Operasi] di Kalimantan",
-  "deck": "Menjawab permintaan penjelasan Bursa, FAP Agri menyatakan kebakaran hutan dan lahan di sejumlah wilayah Indonesia tidak berdampak material terhadap produksi, pendapatan, maupun arus kas perseroan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FAPA",
-   "karhutla",
-   "kelapa sawit",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4bfb9a555e_a2d8df3124.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bltz-jelaskan-penyebab-rugi-ekspansi-nonbioskop-ditunda",
-  "category": "Aksi Korporasi",
-  "title": "BLTZ Jelaskan Penyebab Rugi, Ekspansi Nonbioskop [Ditunda]",
-  "deck": "Dalam paparan publik insidentil usai suspensi saham, manajemen BLTZ menyebut rugi akibat beban bunga utang, sementara rencana ekspansi ke bisnis pijat dan kosmetik Korea belum diprioritaskan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLTZ",
-   "Graha Layar Prima",
-   "CGV Cinemas",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/117c176552_7377508b07.pdf",
   "sourceLabel": "IDX"
  }
 ];

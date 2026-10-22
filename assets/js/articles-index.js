@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bi-penyaluran-kredit-baru-diprediksi-meningkat-akhir-2026",
+  "category": "Perbankan",
+  "title": "BI: Penyaluran Kredit Baru Diprediksi [Meningkat] Akhir 2026",
+  "deck": "Survei Bank Indonesia menunjukkan bank-bank memperkirakan penyaluran kredit baru meningkat pada kuartal IV 2026, seiring syarat pinjaman yang makin longgar.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/teller-bank.jpg",
+  "tags": [
+   "Bank Indonesia",
+   "kredit perbankan",
+   "survei perbankan",
+   "suku bunga kredit"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823426.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pelajar-sma-luncurkan-minuman-gizi-nurivo-untuk-remaja",
+  "category": "Bisnis",
+  "title": "Pelajar SMA Luncurkan Minuman Gizi [NURIVO] untuk Remaja",
+  "deck": "Annabelle Kelly Setiady, pelajar SMA, merintis minuman serbuk NURIVO Original bersama PT Duta Niaga sebagai tambahan nutrisi untuk anak sekolah dan remaja aktif.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/pelajar-sma-luncurkan-minuman-gizi-nurivo-untuk-remaja.jpg",
+  "imageV": "mvj22c1v",
+  "tags": [
+   "nurivo",
+   "annabelle kelly setiady",
+   "gizi anak",
+   "minuman serbuk"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474370-dari-kepedulian-terhadap-gizi-anak-annabelle-hadirkan-nurivo-untuk-temani-generasi-muda-yang-aktif"
+ },
+ {
+  "slug": "harga-emas-antam-turun-lagi-jadi-rp2-550-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Lagi Jadi Rp2.550.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp4.000 menjadi Rp2.550.000 per gram, sementara harga buyback ikut turun ke Rp2.365.000 per gram.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-turun-lagi-jadi-rp2-550-000-gram.jpg",
+  "imageV": "mvj22cfa",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474361-harga-emas-antam-hari-ini-22-oktober-2026-lagi-lagi-turun-jadi-rp2550000-per-gram-waktunya-borong"
+ },
+ {
   "slug": "ptpp-restrukturisasi-utang-ke-bank-resmi-berlaku",
   "category": "Aksi Korporasi",
   "title": "PTPP: Restrukturisasi Utang ke Bank Resmi [Berlaku]",
@@ -3548,7 +3598,7 @@ var ARTICLES = [
   "title": "ISEF 2026 Ditutup, Komitmen Syariah Capai [Rp3,16] Triliun",
   "deck": "Bank Indonesia menutup ISEF 2026 dengan mencatat komitmen pembiayaan dan perdagangan syariah senilai Rp3,16 triliun serta transaksi produk halal Rp13,85 miliar selama lima hari acara.",
   "date": "18 Oktober 2026",
-  "image": "assets/img/teller-bank.jpg",
+  "image": "assets/img/brankas-bank.jpg",
   "tags": [
    "ISEF 2026",
    "ekonomi syariah",
@@ -6456,56 +6506,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473048-kajian-brin-dan-den-pemanfaatan-energi-nuklir-tuntut-kesiapan-tata-kelola-dan-ekosistem-nasional"
- },
- {
-  "slug": "wsbp-catat-rugi-rp410-8-miliar-ekuitas-negatif-rp2-37-triliun",
-  "category": "Aksi Korporasi",
-  "title": "WSBP Catat Rugi Rp410,8 Miliar, [Ekuitas] Negatif Rp2,37 Triliun",
-  "deck": "Laporan keuangan kuartal III 2026 WSBP menunjukkan rugi bersih melebar 26,7 persen menjadi Rp410,8 miliar, sementara defisiensi ekuitas membengkak menjadi Rp2,37 triliun.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "laporan keuangan",
-   "ekuitas negatif",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261014223606-64531-0/FinancialStatement-2026-III-WSBP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "astra-ajak-30-umkm-tembus-ekspor-di-tei-2026",
-  "category": "UMKM",
-  "title": "Astra Ajak 30 UMKM Tembus Ekspor di [TEI] 2026",
-  "deck": "Astra membawa produk UMKM binaan Desa Sejahtera Astra dan YDBA ke Trade Expo Indonesia 2026 sebagai bagian dari upaya memperluas akses pasar ekspor.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/astra-ajak-30-umkm-tembus-ekspor-di-tei-2026.jpg",
-  "imageV": "mv8dca94",
-  "tags": [
-   "Astra",
-   "UMKM",
-   "Trade Expo Indonesia 2026",
-   "Desa Sejahtera Astra"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473037-astra-dorong-ekspor-umkm-lokal-lewat-trade-expo-indonesia-2026-hadirkan-produk-unggulan-daerah"
- },
- {
-  "slug": "ekspor-nikel-ditargetkan-usd45-miliar-pada-2026",
-  "category": "Industri",
-  "title": "Ekspor Nikel Ditargetkan [USD45 Miliar] pada 2026",
-  "deck": "Pemerintah menaikkan target ekspor nikel olahan menjadi USD45 miliar pada 2026, melanjutkan tren sejak ekspor bijih mentah dihentikan dan smelter dibangun di dalam negeri.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/ekspor-nikel-ditargetkan-usd45-miliar-pada-2026.jpg",
-  "imageV": "mv86y6mz",
-  "tags": [
-   "nikel",
-   "hilirisasi",
-   "ekspor",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/ekspor-nikel-ditargetkan-tembus-usd45-miliar-pada-2026-menko-bahlil-hilirisasi-kunci-kemandirian-ekonomi",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

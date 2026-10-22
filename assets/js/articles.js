@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bi-penyaluran-kredit-baru-diprediksi-meningkat-akhir-2026",
+  "category": "Perbankan",
+  "title": "BI: Penyaluran Kredit Baru Diprediksi [Meningkat] Akhir 2026",
+  "deck": "Survei Bank Indonesia menunjukkan bank-bank memperkirakan penyaluran kredit baru meningkat pada kuartal IV 2026, seiring syarat pinjaman yang makin longgar.",
+  "image": "assets/img/teller-bank.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T04:38:16.725Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823426.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "kredit perbankan",
+   "survei perbankan",
+   "suku bunga kredit"
+  ],
+  "body": [
+   "Bank Indonesia merilis hasil survei triwulanan ke perbankan yang menunjukkan penyaluran kredit baru pada kuartal IV 2026 diperkirakan meningkat dibanding kuartal sebelumnya maupun periode yang sama tahun lalu. Ini penting bagi pelaku usaha dan calon peminjam karena menandakan bank semakin percaya diri mengucurkan dana segar menjelang akhir tahun, yang biasanya berarti akses kredit lebih terbuka.",
+   "Dalam survei ini, BI memakai indeks yang disebut Saldo Bersih Tertimbang untuk mengukur kecenderungan bank menaikkan penyaluran kredit, semakin tinggi angkanya berarti semakin banyak bank, terutama bank-bank besar, yang memperkirakan akan menyalurkan kredit baru lebih banyak. Angka indeks ini tercatat 91,31 untuk proyeksi kuartal IV 2026, naik dari 90,08 pada kuartal III 2026 dan 88,92 pada kuartal IV tahun lalu.",
+   "Kenaikan prakiraan kredit ini sejalan dengan melonggarnya syarat pemberian pinjaman, yang diukur lewat Indeks Lending Standard, semakin rendah angkanya berarti syarat kredit semakin ringan. Indeks ini berada di 0,28 pada kuartal III 2026 dan diperkirakan turun lagi ke 0,15 pada kuartal IV. Pelonggaran terjadi pada beberapa hal sekaligus, yakni plafon pinjaman yang lebih besar, jangka waktu pelunasan yang lebih panjang, suku bunga kredit, dan syarat dokumen administrasi yang lebih sederhana.",
+   "Responden survei juga memperkirakan total saldo kredit yang masih berjalan di masyarakat akan terus bertambah sampai akhir 2026. Bank Indonesia menyebut hal ini ditopang oleh prospek kondisi ekonomi yang masih positif serta risiko gagal bayar kredit yang terjaga."
+  ],
+  "fotoAdegan": "A loan officer and a small shop owner discussing paperwork across a desk inside a bank branch, blurred documents, soft morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Data yang konkret di sini bukan cuma satu angka proyeksi, tapi tren tiga periode berturut-turut, yakni SBT kredit baru naik dari 88,92 di akhir 2025, jadi 90,08 pada kuartal III 2026, dan diproyeksikan 91,31 pada kuartal IV 2026, sementara indeks ketatnya syarat kredit terus turun dari 0,28 ke 0,15 pada rentang waktu yang sama. Pihak yang langsung terdampak adalah calon peminjam, baik pelaku usaha maupun perseorangan, karena pelonggaran itu menyentuh plafon, tenor, bunga, dan syarat dokumen sekaligus, bukan hanya satu aspek saja. Pola tiga periode ini mengarah pada pelonggaran kredit yang bertahap dan berkelanjutan, bukan sekadar lonjakan musiman akhir tahun. Yang akan memastikan apakah arah ini benar-benar terjadi adalah data realisasi outstanding kredit perbankan yang dirilis BI tiap bulan, serta hasil Survei Perbankan triwulan berikutnya yang akan membandingkan prakiraan ini dengan kenyataan di lapangan.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "pelajar-sma-luncurkan-minuman-gizi-nurivo-untuk-remaja",
+  "category": "Bisnis",
+  "title": "Pelajar SMA Luncurkan Minuman Gizi [NURIVO] untuk Remaja",
+  "deck": "Annabelle Kelly Setiady, pelajar SMA, merintis minuman serbuk NURIVO Original bersama PT Duta Niaga sebagai tambahan nutrisi untuk anak sekolah dan remaja aktif.",
+  "image": "assets/img/pelajar-sma-luncurkan-minuman-gizi-nurivo-untuk-remaja.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T11:00:15+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474370-dari-kepedulian-terhadap-gizi-anak-annabelle-hadirkan-nurivo-untuk-temani-generasi-muda-yang-aktif",
+  "tags": [
+   "nurivo",
+   "annabelle kelly setiady",
+   "gizi anak",
+   "minuman serbuk"
+  ],
+  "body": [
+   "NURIVO memperkenalkan NURIVO Original, minuman serbuk rasa madu berbahan dasar susu, yang digagas oleh Annabelle Kelly Setiady, pelajar SMA yang menjabat sebagai Project Leader produk ini. Produk dikembangkan bersama produsen PT Duta Niaga sebagai pilihan tambahan nutrisi bagi anak usia sekolah dan remaja yang aktif menjalani kegiatan belajar, olahraga, dan ekstrakurikuler.",
+   "Ide produk ini bermula dari pengamatan Annabelle terhadap padatnya aktivitas teman-temannya, serta keprihatinannya pada masalah gizi anak di Indonesia, termasuk stunting, yang menurutnya masih membutuhkan upaya banyak pihak. Dari titik itu ia mempelajari peran protein dan asam amino bagi pertumbuhan tubuh, lalu berdiskusi dengan tim manufaktur soal bahan yang cocok untuk minuman, dengan mempertimbangkan kandungan gizi, rasa, kelarutan, kualitas, hingga kemampuan produksi yang bisa dijaga konsisten.",
+   "NURIVO Original mengandung protein dari susu sapi dan susu kambing bubuk, dipadukan dengan minyak Sacha Inchi yang mengandung asam lemak tak jenuh, termasuk omega-3 nabati, serta rasa madu randu. Proses dari ide hingga produk jadi ini juga melewati pemenuhan ketentuan pangan olahan, yang berarti ada tahap uji dan perizinan yang harus dilalui sebelum sebuah minuman serbuk bisa dijual ke publik."
+  ],
+  "fotoAdegan": "A glass of milky beverage being stirred beside honey and small nuts on a kitchen counter, soft morning light, no packaging visible",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/22/6ad988c36fbcb-annabelle-kelly-setiady-meluncurkan-nurivo_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah hadirnya satu produk minuman serbuk baru, NURIVO Original, yang digarap pelajar SMA bersama produsen PT Duta Niaga, bukan peluncuran oleh perusahaan besar yang sudah mapan. Yang langsung disasar sebagai pasar adalah anak usia sekolah dan remaja, sementara bagi pembaca umum kasus ini jadi contoh kecil bagaimana sebuah produk pangan olahan berjalan dari ide sampai ke tahap siap jual. Berita ini belum menyebut harga jual, skala produksi, atau target penjualan NURIVO Original, jadi belum bisa dibaca apakah produk ini akan berkembang jadi merek reguler di pasar minuman bergizi atau berhenti sebagai proyek edukasi sekali jalan. Yang perlu dipantau adalah apakah NURIVO selanjutnya mengumumkan harga eceran, jalur distribusi, atau nomor izin edar dari BPOM, karena itu yang akan menentukan apakah produk ini benar-benar masuk pasar atau masih tahap purwarupa.",
+  "imageV": "mvj22c1v"
+ },
+ {
+  "slug": "harga-emas-antam-turun-lagi-jadi-rp2-550-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Lagi Jadi Rp2.550.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp4.000 menjadi Rp2.550.000 per gram, sementara harga buyback ikut turun ke Rp2.365.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-lagi-jadi-rp2-550-000-gram.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T09:47:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474361-harga-emas-antam-hari-ini-22-oktober-2026-lagi-lagi-turun-jadi-rp2550000-per-gram-waktunya-borong",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam kembali turun pada Rabu, 22 Oktober 2026, kali ini menjadi Rp2.550.000 per gram. Pelemahan ini penting bagi siapa saja yang menyimpan emas sebagai instrumen investasi, karena langsung memengaruhi nilai jual maupun beli logam mulia tersebut.",
+   "Berdasarkan data dari laman Logam Mulia, harga tersebut turun Rp4.000 dibanding hari sebelumnya yang berada di Rp2.554.000 per gram. Harga buyback, yakni harga saat Antam membeli kembali emas dari masyarakat, juga ikut melemah menjadi Rp2.365.000 per gram.",
+   "Antam mengingatkan bahwa harga emas batangan bersifat fluktuatif dan bisa berubah sewaktu-waktu mengikuti pergerakan pasar. Angka yang tercatat pada hari tertentu belum tentu sama dengan hari berikutnya."
+  ],
+  "fotoAdegan": "Close-up of stacked small gold bars on a velvet tray inside a jewelry counter display, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah harga jual emas Antam turun Rp4.000 menjadi Rp2.550.000 per gram, sementara harga buyback atau beli kembali turun ke Rp2.365.000 per gram. Yang langsung terasa adalah pemilik emas yang berniat menjual kembali, karena uang yang didapat jadi sedikit lebih kecil dibanding hari sebelumnya, sementara calon pembeli baru justru mendapat harga sedikit lebih murah. Data yang tersedia hari ini hanya mencakup selisih satu hari, jadi belum bisa disimpulkan apakah ini awal tren pelemahan atau sekadar fluktuasi harian biasa. Yang masih kurang untuk membaca arahnya adalah pergerakan harga beberapa hari ke belakang serta harga emas dunia, yang biasanya menjadi acuan penyesuaian harga Antam.",
+  "imageV": "mvj22cfa"
+ },
+ {
   "slug": "ptpp-restrukturisasi-utang-ke-bank-resmi-berlaku",
   "category": "Aksi Korporasi",
   "title": "PTPP: Restrukturisasi Utang ke Bank Resmi [Berlaku]",
@@ -5764,7 +5844,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "ISEF 2026 Ditutup, Komitmen Syariah Capai [Rp3,16] Triliun",
   "deck": "Bank Indonesia menutup ISEF 2026 dengan mencatat komitmen pembiayaan dan perdagangan syariah senilai Rp3,16 triliun serta transaksi produk halal Rp13,85 miliar selama lima hari acara.",
-  "image": "assets/img/teller-bank.jpg",
+  "image": "assets/img/brankas-bank.jpg",
   "date": "18 Oktober 2026",
   "isoDate": "2026-10-18T15:06:11.706Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822926.aspx",
@@ -64551,7 +64631,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Inklusi Keuangan Syariah Baru [13] Persen, Jauh Tertinggal",
   "deck": "Pemerintah menyoroti kesenjangan akses keuangan syariah yang baru menjangkau 13 persen masyarakat, jauh di bawah layanan konvensional yang sudah 93,53 persen.",
-  "image": "assets/img/brankas-bank.jpg",
+  "image": "assets/img/mobile-banking.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-08T14:47:24.646Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7085/perkuat-ekosistem-ekonomi-syariah-menko-airlangga-dorong-inklusi-keuangan-dan-pemberdayaan-ekonomi",

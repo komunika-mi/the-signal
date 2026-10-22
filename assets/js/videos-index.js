@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "6J18Ecp4ZBs",
+  "title": "Peternak Ayam Terancam Bangkrut akibat Harga Pakan Naik",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Kenaikan harga pakan ternak menggerus margin keuntungan peternak ayam, sementara harga jual ayam di pasaran terus merosot. Ketua PERMINDO memperingatkan sejumlah peternak berisiko bangkrut dalam hitungan bulan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti tekanan biaya produksi pangan yang bisa berdampak pada harga protein hewani dan daya beli masyarakat."
+ },
+ {
+  "id": "NB-iW3iDvMg",
+  "title": "Prancis Taksir Kerugian Protes Rusuh Ratusan Juta Euro",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Aksi protes yang berujung kerusuhan di Prancis menimbulkan kerugian ekonomi yang ditaksir mencapai ratusan juta Euro, menurut Menteri Perekonomian Prancis.",
+  "takeaway": "Penting bagi pembaca ekonomi karena memperlihatkan dampak nyata ketidakstabilan sosial terhadap aktivitas ekonomi dan dunia usaha di Prancis."
+ },
+ {
   "id": "6LsQuXGwsMU",
   "title": "Bahlil Lahadalia: Harga BBM Subsidi Diupayakan Tidak Naik",
   "category": "Energi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Khusus",
   "summary": "Otoritas Jasa Keuangan menemukan dugaan praktik manipulasi saham di pasar modal Indonesia, sebagai bagian dari upaya memperkuat pengawasan perdagangan efek.",
   "takeaway": "Temuan ini relevan bagi investor karena menyangkut integritas pasar modal dan kepercayaan terhadap mekanisme perdagangan saham."
- },
- {
-  "id": "ZfcTfSqOY1s",
-  "title": "Menteri ESDM Ungkap Kondisi Stok BBM Nasional di Tengah Kelangkaan",
-  "category": "Energi",
-  "program": "Apa Kabar Indonesia Siang",
-  "summary": "Menteri ESDM Bahlil Lahadalia mengungkap kondisi stok bahan bakar minyak nasional di tengah kelangkaan BBM dan antrean panjang di sejumlah SPBU.",
-  "takeaway": "Pasokan BBM nasional berkaitan langsung dengan roda ekonomi dan aktivitas dunia usaha, sehingga penting dipantau pembaca."
- },
- {
-  "id": "xuzmTz84OEs",
-  "title": "IHSG Longsor 10 Persen, Puluhan Saham Terjun Bebas",
-  "category": "Pasar Modal",
-  "program": "OneNews Update",
-  "summary": "Indeks Harga Saham Gabungan ambles 630,77 poin atau 10,76 persen ke level 5.233 pada sesi pertama perdagangan Jumat, 16 Oktober 2026, memicu kepanikan di lantai bursa.",
-  "takeaway": "Penurunan tajam IHSG ini penting dipantau investor dan pelaku pasar sebagai sinyal risiko di pasar modal domestik."
  }
 ];

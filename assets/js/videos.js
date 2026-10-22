@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "6J18Ecp4ZBs",
+  "title": "Peternak Ayam Terancam Bangkrut akibat Harga Pakan Naik",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Kenaikan harga pakan ternak menggerus margin keuntungan peternak ayam, sementara harga jual ayam di pasaran terus merosot. Ketua PERMINDO memperingatkan sejumlah peternak berisiko bangkrut dalam hitungan bulan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti tekanan biaya produksi pangan yang bisa berdampak pada harga protein hewani dan daya beli masyarakat.",
+  "terbit": "2026-10-22T13:00:19+00:00"
+ },
+ {
+  "id": "NB-iW3iDvMg",
+  "title": "Prancis Taksir Kerugian Protes Rusuh Ratusan Juta Euro",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Aksi protes yang berujung kerusuhan di Prancis menimbulkan kerugian ekonomi yang ditaksir mencapai ratusan juta Euro, menurut Menteri Perekonomian Prancis.",
+  "takeaway": "Penting bagi pembaca ekonomi karena memperlihatkan dampak nyata ketidakstabilan sosial terhadap aktivitas ekonomi dan dunia usaha di Prancis.",
+  "terbit": "2026-10-22T13:30:21+00:00"
+ },
+ {
   "id": "6LsQuXGwsMU",
   "title": "Bahlil Lahadalia: Harga BBM Subsidi Diupayakan Tidak Naik",
   "category": "Energi",

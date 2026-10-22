@@ -3,6 +3,82 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "produksi-gas-kaltim-naik-ke-750-juta-kaki-kubik-hari",
+  "category": "Energi",
+  "title": "Produksi Gas Kaltim Naik ke [750] Juta Kaki Kubik/Hari",
+  "deck": "Dua proyek gas lepas pantai Kalimantan Timur, JNE#6 dan Lapangan Maha, ditargetkan menambah produksi nasional menjadi sekitar 750 juta kaki kubik gas per hari mulai 1 November 2026.",
+  "image": "assets/img/produksi-gas-kaltim-naik-ke-750-juta-kaki-kubik-hari.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T13:38:27.456Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/resmikan-gas-jne6-dan-lapangan-maha-menko-hiltrans-dorong-tambahan-produksi-gas-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "gas",
+   "Kalimantan Timur",
+   "ESDM",
+   "Lapangan Maha"
+  ],
+  "body": [
+   "Pemerintah menambah pasokan gas nasional dari dua proyek lepas pantai Kalimantan Timur, yakni sumur Jangkrik North East #6 (JNE#6) dan fasilitas produksi Lapangan Maha-South Hub. Menteri Koordinator Bidang Hilirisasi dan Transisi Energi sekaligus Menteri ESDM, Bahlil Lahadalia, meresmikan kedua proyek pada Kamis (22/10). Begitu Lapangan Maha mulai beroperasi akhir bulan ini, kedua proyek diperkirakan menambah sekitar 290 juta kaki kubik gas per hari, satuan standar yang dipakai industri untuk mengukur volume gas yang mengalir setiap harinya.",
+   "Sumur JNE#6 lebih dulu menunjukkan hasil setelah pengeboran cabang baru yang dimulai 9 Oktober 2026. Produksinya melonjak dari sekitar 10 juta kaki kubik per hari menjadi 56 juta kaki kubik per hari, sekaligus menambah perkiraan cadangan gas di lokasi itu sekitar 100 miliar kaki kubik. Lapangan Maha menyumbang porsi lebih besar, sekitar 230 juta kaki kubik per hari, dari investasi senilai US$891 juta. Dengan tambahan ini, Kementerian ESDM menyebut produksi gas dari kedua blok yang saat ini sebesar 450 juta kaki kubik per hari bisa naik menjadi sekitar 750 juta kaki kubik per hari mulai 1 November mendatang.",
+   "Proyek Lapangan Maha juga diperkirakan membuka lebih dari 700 lapangan kerja bagi pekerja Indonesia, dengan dilibatkannya industri fabrikasi dalam negeri untuk pengembangan migas laut dalam. Terpisah, operator Lapangan Jangkrik, Searah Muara Bakau, tengah menjalankan survei seismik bersama mitra di area sekitar 12.000 kilometer persegi Cekungan Kutai, salah satu survei terbesar yang pernah dilakukan perusahaan itu di Indonesia. Menurut keterangan perusahaan, survei tersebut mengonfirmasi indikasi potensi sumber daya sekitar 5 triliun kaki kubik gas dan 300 juta barel kondensat di cekungan itu."
+  ],
+  "fotoAdegan": "Offshore gas platform workers inspecting pipelines at sunrise in the Makassar Strait, support vessel nearby",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-resmikan-gas-jne6-dan-lapangan-maha-menko-hiltrans-dorong-tambahan-produksi-gas-nasional-5uznpka.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah konkret: produksi gas dari Blok Jangkrik dan Lapangan Maha di lepas pantai Kalimantan Timur direncanakan naik dari 450 juta kaki kubik per hari menjadi sekitar 750 juta kaki kubik per hari mulai 1 November 2026, kenaikan sekitar 67 persen dalam waktu singkat. Yang terdampak adalah industri dalam negeri yang memakai gas sebagai bahan baku atau sumber energi, lebih dari 700 pekerja yang terserap dari proyek Lapangan Maha, dan pemerintah daerah Kalimantan Timur yang disebut akan dilibatkan dalam pembagian manfaatnya. Penambahan ini berbarengan dengan survei seismik skala besar yang sedang berjalan di Cekungan Kutai dan sudah menunjukkan indikasi cadangan baru, sehingga ini tampak sebagai bagian dari upaya menambah pasokan gas domestik secara bertahap lewat beberapa proyek, bukan satu lonjakan sesaat. Yang akan memastikan arah ini adalah apakah target produksi pada 1 November 2026 benar tercapai sesuai jadwal, serta hasil survei seismik di area 12.000 kilometer persegi itu yang akan menentukan apakah indikasi cadangan 5 triliun kaki kubik gas di Cekungan Kutai bisa dikembangkan menjadi proyek produksi berikutnya.",
+  "imageV": "mvjldgx6"
+ },
+ {
+  "slug": "djki-gelar-forum-bisnis-paten-buka-peluang-investasi-teknologi",
+  "category": "Teknologi",
+  "title": "DJKI Gelar Forum Bisnis Paten, Buka Peluang [Investasi] Teknologi",
+  "deck": "DJKI menggelar Forum Bisnis Paten Indonesia 2026 pada 3-5 November di JCC Jakarta untuk mempertemukan inventor, investor, dan industri demi komersialisasi paten dalam negeri.",
+  "image": "assets/img/djki-gelar-forum-bisnis-paten-buka-peluang-investasi-teknologi.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T20:25:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474483-djki-gelar-forum-bisnis-paten-indonesia-fbpi-2026-buka-peluang-investasi-teknologi",
+  "tags": [],
+  "body": [
+   "Direktorat Jenderal Kekayaan Intelektual (DJKI) Kementerian Hukum akan menggelar Forum Bisnis Paten Indonesia (FBPI) 2026 pada 3 hingga 5 November di Jakarta Convention Center. Forum ini dirancang sebagai ruang pertemuan antara pemegang paten dengan investor dan pelaku industri, sehingga teknologi hasil riset dalam negeri punya jalan lebih jelas untuk benar-benar dipakai di dunia usaha, bukan sekadar terdaftar sebagai hak hukum.",
+   "Mengangkat tema Paten Penggerak Ekonomi Kerakyatan, forum ini mengundang inventor, perguruan tinggi, lembaga penelitian, investor, dan pelaku industri dalam satu acara. Direktur Jenderal Kekayaan Intelektual, Hermansyah Siregar, menyampaikan bahwa paten baru punya nilai ekonomi kalau teknologi yang dilindunginya dipakai untuk menjawab kebutuhan pasar. Ia menyebut lewat forum ini DJKI ingin mempertemukan inventor dengan industri dan investor agar inovasi dalam negeri lebih punya kesempatan dikembangkan dan dijual secara komersial.",
+   "Acara ini akan menampilkan area pameran inventor dan paten, zona investasi dan industri, layanan kekayaan intelektual, serta innovation showcase untuk memperlihatkan teknologi yang berpotensi dikembangkan lebih jauh. Selain itu ada sesi pitching, diskusi soal strategi membawa paten dari laboratorium ke produk jadi, serta penjajakan kerja sama antara inventor, kampus, lembaga riset, dan industri.",
+   "Salah satu agenda yang disorot adalah Patent Townhall Pitching, tempat industri menyampaikan langsung kebutuhan teknologinya kepada kampus dan lembaga riset, termasuk untuk sektor otomotif dan kendaraan listrik serta elektronika dan Internet of Things (IoT). Bagi investor, forum ini jadi kesempatan mengenali teknologi yang sesuai kebutuhan pasar, sementara pelaku industri bisa menjajaki alternatif teknologi, pengembangan produk, hingga kolaborasi dengan pemilik paten."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/22/6ada0d4244e2e-forum-bisnis-paten-indonesia-fbpi-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang baru di sini bukan sekadar pameran, melainkan DJKI secara khusus mengarahkan pertemuan ke dua sektor konkret, otomotif-kendaraan listrik dan elektronika-IoT, lewat sesi Patent Townhall Pitching. Yang langsung terdampak adalah inventor dan kampus pemegang paten di dua sektor itu, serta investor dan industri yang selama ini kesulitan menemukan teknologi dalam negeri yang siap dipakai. Arah forum ini jelas, yakni mendorong paten keluar dari rak hukum dan masuk ke jalur bisnis, tetapi berita ini belum menyebut target jumlah kerja sama, nilai investasi yang diharapkan, atau skema insentif bagi investor yang mau menggarap paten lokal. Yang perlu dipantau adalah hasil forum pada 3-5 November nanti, khususnya apakah DJKI merilis data berapa kesepakatan atau nota kerja sama yang benar-benar terjalin setelah acara selesai.",
+  "imageV": "mvjldhq9"
+ },
+ {
+  "slug": "bank-mandiri-pertama-kantongi-izin-bulion-di-ri",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Pertama Kantongi Izin [Bulion] di RI",
+  "deck": "Bank Mandiri meluncurkan layanan emas digital lewat Livin' setelah mengantongi izin bulion dari OJK, didukung pertumbuhan pengguna dan dana nasabah yang melampaui rata-rata industri.",
+  "image": "assets/img/bank-mandiri-pertama-kantongi-izin-bulion-di-ri.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T19:19:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474474-ekosistem-digital-andal-dan-layanan-berkualitas-dukung-pertumbuhan-bisnis-bank-mandiri",
+  "tags": [
+   "bank mandiri",
+   "livin by mandiri",
+   "izin bulion",
+   "emas digital"
+  ],
+  "body": [
+   "Bank Mandiri memperkuat ekosistem layanan digitalnya dengan meluncurkan fitur emas digital di aplikasi Livin' by Mandiri, bertepatan dengan ulang tahun perusahaan yang ke-28. Langkah ini menyusul perolehan izin bulion dari Otoritas Jasa Keuangan, yang membuat Bank Mandiri menjadi bank konvensional pertama di Indonesia yang memegang izin tersebut. Perubahan ini penting karena membuka jalur baru bagi nasabah untuk berinvestasi emas langsung dari aplikasi perbankan, tanpa harus mendatangi toko emas atau lembaga pembiayaan khusus.",
+   "Direktur Operations Bank Mandiri Timothy Utama menyampaikan bahwa pengalaman nasabah menjadi dasar setiap pengembangan layanan perusahaan. Menurutnya, Livin' by Mandiri dirancang mencakup empat kebutuhan utama nasabah, yaitu menabung, bertransaksi, pembiayaan, dan investasi, yang dilengkapi dengan layanan gaya hidup serta integrasi ke ekosistem bisnis Bank Mandiri lainnya.",
+   "Lewat fitur emas di Livin', nasabah bisa membuka Tabungan Emas, melakukan jual beli, hingga mencicil pembelian emas. Bank Mandiri juga menyediakan opsi pengambilan emas fisik melalui kantor cabang maupun ATM Emas yang tersebar di berbagai kota. Hingga Agustus 2026, jumlah pengguna terdaftar Livin' by Mandiri mencapai 42,2 juta orang, tumbuh 23,4 persen dibandingkan periode yang sama tahun sebelumnya, dengan frekuensi transaksi mencapai 3,7 miliar kali atau naik 21,6 persen dalam setahun.",
+   "Pertumbuhan transaksi digital ini turut mendorong kinerja penghimpunan dana Bank Mandiri. Dana pihak ketiga, yaitu total simpanan nasabah berupa tabungan, giro, dan deposito yang dihimpun bank, tercatat Rp1.687 triliun secara bank only, tumbuh 17,6 persen dalam setahun. Angka ini melampaui pertumbuhan rata-rata industri perbankan yang sebesar 13,7 persen pada periode yang sama."
+  ],
+  "fotoAdegan": "A customer at a modern bank counter examining small gold bars in a display case, teller assisting nearby, warm interior lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/22/6ad9fdea18e46-ekosistem-digital-andal-dan-layanan-berkualitas-dukung-pertumbuhan-bisnis-bank-mandiri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah Bank Mandiri resmi mengantongi izin bulion, yaitu izin dagang emas batangan dari OJK, dan menjadi bank konvensional pertama di Indonesia yang memegangnya. Lewat izin ini nasabah bisa buka tabungan emas, jual beli, dan cicil emas langsung dari aplikasi Livin', bukan lagi harus ke toko emas atau lembaga pembiayaan khusus. Yang paling terdampak adalah nasabah Livin' yang sebelumnya hanya bisa berinvestasi emas lewat platform fintech atau marketplace, karena sekarang bank besar ikut masuk ke pasar itu. Pola ini mengarah ke bank-bank umum mulai merebut pangsa investasi emas digital yang selama ini dikuasai pegadaian dan pemain nonbank, didukung pula oleh pertumbuhan dana nasabah Bank Mandiri yang melampaui rata-rata industri. Yang akan memastikan arah ini adalah apakah bank besar lain seperti BCA, BRI, atau BNI mengajukan izin bulion serupa ke OJK dalam waktu dekat.",
+  "imageV": "mvjldi7s"
+ },
+ {
   "slug": "vktr-r-perdagangan-hmetd-berakhir-23-oktober-2026",
   "category": "Aksi Korporasi",
   "title": "VKTR-R: Perdagangan [HMETD] Berakhir 23 Oktober 2026",
@@ -158,7 +234,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pernyataan ini bukan kebijakan baru, melainkan pemerintah mulai memakai data stabilitas saat ini, pertumbuhan 5,45 persen, investasi naik 7,3 persen, kredit perbankan tumbuh dua digit, sebagai pijakan untuk menaikkan target pertumbuhan menjadi 6 persen pada 2027 dan 8 persen dalam jangka menengah. Yang terdampak langsung adalah pelaku usaha dan investor yang jadi sasaran kemudahan izin lewat PP 28/2025, bank yang diminta terus memperluas pembiayaan, serta sekitar 37.833 calon pekerja yang diproyeksikan terserap dari 26 proyek hilirisasi senilai Rp225 triliun. Arahnya terlihat ke penguatan investasi dan hilirisasi sebagai motor pertumbuhan baru, bukan sekadar mempertahankan momentum, karena pemerintah sendiri menyebut investasi harus tumbuh lebih cepat dari PDB sebagai syarat utama. Yang akan membuktikan apakah ini benar terjadi atau cuma target di atas kertas adalah data realisasi investasi kuartal berikutnya dan progres nyata dari 26 proyek hilirisasi itu dalam menyerap tenaga kerja yang dijanjikan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "cepa-ri-kanada-resmi-berlaku-1-desember-2026",
@@ -735,7 +811,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah proses masuk Indonesia ke dua forum ekonomi besar: OECD, yakni kelompok negara-negara berpendapatan tinggi, yang sudah menyelesaikan 20 dari 25 berkas penilaian awal atau sekitar 80 persen dengan target rampung 2028, dan CPTPP, pakta dagang lintas Pasifik yang diharapkan disepakati seluruh anggotanya pada pertemuan November. Yang terdampak langsung adalah kementerian dan lembaga teknis yang harus menyesuaikan aturan dalam negeri dengan standar kedua forum itu, serta pelaku usaha yang nantinya harus mengikuti aturan main baru kalau aksesi disetujui. Pola ini menunjukkan Indonesia bergerak dari sekadar menerima bantuan teknis Australia ke tahap mengejar target keanggotaan dengan tenggat yang sudah dipatok sendiri, bukan sekadar wacana jangka panjang. Yang akan memastikan apakah target ini realistis adalah hasil pertemuan anggota CPTPP bulan depan dan laporan progres lima berkas OECD yang masih tersisa menjelang 2028.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "kemendag-kirim-17-asn-ke-korea-bangun-trade-corpu",
@@ -947,7 +1023,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Data yang konkret di sini bukan cuma satu angka proyeksi, tapi tren tiga periode berturut-turut, yakni SBT kredit baru naik dari 88,92 di akhir 2025, jadi 90,08 pada kuartal III 2026, dan diproyeksikan 91,31 pada kuartal IV 2026, sementara indeks ketatnya syarat kredit terus turun dari 0,28 ke 0,15 pada rentang waktu yang sama. Pihak yang langsung terdampak adalah calon peminjam, baik pelaku usaha maupun perseorangan, karena pelonggaran itu menyentuh plafon, tenor, bunga, dan syarat dokumen sekaligus, bukan hanya satu aspek saja. Pola tiga periode ini mengarah pada pelonggaran kredit yang bertahap dan berkelanjutan, bukan sekadar lonjakan musiman akhir tahun. Yang akan memastikan apakah arah ini benar-benar terjadi adalah data realisasi outstanding kredit perbankan yang dirilis BI tiap bulan, serta hasil Survei Perbankan triwulan berikutnya yang akan membandingkan prakiraan ini dengan kenyataan di lapangan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "tgka-jelaskan-ke-bei-soal-lonjakan-harga-6-06",

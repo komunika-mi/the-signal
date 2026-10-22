@@ -5,6 +5,53 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "produksi-gas-kaltim-naik-ke-750-juta-kaki-kubik-hari",
+  "category": "Energi",
+  "title": "Produksi Gas Kaltim Naik ke [750] Juta Kaki Kubik/Hari",
+  "deck": "Dua proyek gas lepas pantai Kalimantan Timur, JNE#6 dan Lapangan Maha, ditargetkan menambah produksi nasional menjadi sekitar 750 juta kaki kubik gas per hari mulai 1 November 2026.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/produksi-gas-kaltim-naik-ke-750-juta-kaki-kubik-hari.jpg",
+  "imageV": "mvjldgx6",
+  "tags": [
+   "gas",
+   "Kalimantan Timur",
+   "ESDM",
+   "Lapangan Maha"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/resmikan-gas-jne6-dan-lapangan-maha-menko-hiltrans-dorong-tambahan-produksi-gas-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "djki-gelar-forum-bisnis-paten-buka-peluang-investasi-teknologi",
+  "category": "Teknologi",
+  "title": "DJKI Gelar Forum Bisnis Paten, Buka Peluang [Investasi] Teknologi",
+  "deck": "DJKI menggelar Forum Bisnis Paten Indonesia 2026 pada 3-5 November di JCC Jakarta untuk mempertemukan inventor, investor, dan industri demi komersialisasi paten dalam negeri.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/djki-gelar-forum-bisnis-paten-buka-peluang-investasi-teknologi.jpg",
+  "imageV": "mvjldhq9",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474483-djki-gelar-forum-bisnis-paten-indonesia-fbpi-2026-buka-peluang-investasi-teknologi"
+ },
+ {
+  "slug": "bank-mandiri-pertama-kantongi-izin-bulion-di-ri",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Pertama Kantongi Izin [Bulion] di RI",
+  "deck": "Bank Mandiri meluncurkan layanan emas digital lewat Livin' setelah mengantongi izin bulion dari OJK, didukung pertumbuhan pengguna dan dana nasabah yang melampaui rata-rata industri.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/bank-mandiri-pertama-kantongi-izin-bulion-di-ri.jpg",
+  "imageV": "mvjldi7s",
+  "tags": [
+   "bank mandiri",
+   "livin by mandiri",
+   "izin bulion",
+   "emas digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474474-ekosistem-digital-andal-dan-layanan-berkualitas-dukung-pertumbuhan-bisnis-bank-mandiri"
+ },
+ {
   "slug": "vktr-r-perdagangan-hmetd-berakhir-23-oktober-2026",
   "category": "Aksi Korporasi",
   "title": "VKTR-R: Perdagangan [HMETD] Berakhir 23 Oktober 2026",
@@ -6434,57 +6481,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/930a4d81c4_998858aba9.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "indonesia-dan-timor-leste-teken-bit-lindungi-investasi-dua-negara",
-  "category": "Global",
-  "title": "Indonesia dan Timor-Leste Teken [BIT], Lindungi Investasi Dua Negara",
-  "deck": "Indonesia dan Timor-Leste menandatangani perjanjian investasi bilateral yang mengatur promosi, kemudahan, dan perlindungan hukum investasi di tengah perdagangan dua negara senilai US$150 juta.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/indonesia-dan-timor-leste-teken-bit-lindungi-investasi-dua-negara.jpg",
-  "imageV": "mv9boifn",
-  "tags": [
-   "BIT",
-   "Investasi",
-   "Timor-Leste",
-   "BKPM"
-  ],
-  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/indonesia-dan-timor-leste-teken-bit-buka-peluang-kerja-sama-ekonomi-lebih-luas",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "inkp-jawab-bursa-karhutla-tak-ganggu-produksi",
-  "category": "Aksi Korporasi",
-  "title": "INKP Jawab Bursa: Karhutla Tak Ganggu [Produksi]",
-  "deck": "INKP menjawab permintaan penjelasan BEI soal dampak karhutla, memastikan tidak ada gangguan produksi, pendapatan, maupun proses hukum terkait kebakaran hutan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "karhutla",
-   "Indah Kiat Pulp & Paper",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/522510bc5a_a338c79bed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "27-provinsi-masukkan-ekonomi-syariah-ke-rencana-pembangunan",
-  "category": "Makroekonomi",
-  "title": "27 Provinsi Masukkan Ekonomi [Syariah] ke Rencana Pembangunan",
-  "deck": "Bank Indonesia mendorong pemaduan dana zakat dan wakaf dengan pembiayaan bank syariah untuk UMKM, seiring 27 provinsi memasukkan ekonomi syariah ke rencana pembangunan daerah.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/27-provinsi-masukkan-ekonomi-syariah-ke-rencana-pembangunan.jpg",
-  "imageV": "mv9booiw",
-  "tags": [
-   "ekonomi syariah",
-   "UMKM",
-   "ISEF 2026",
-   "Bank Indonesia"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822226.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

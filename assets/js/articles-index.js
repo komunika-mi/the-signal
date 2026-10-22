@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wifi-rombak-direksi-dan-komisaris-tambah-kbli-konstruksi",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Rombak Direksi dan Komisaris, Tambah [KBLI] Konstruksi",
+  "deck": "RUPSLB WIFI 21 Oktober 2026 mengganti Komisaris Utama dan Direktur Utama, serta menambah izin usaha konstruksi sentral telekomunikasi KBLI 42206.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "pergantian direksi",
+   "KBLI",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e698a83bfb_78cb4ff763.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtps-ubah-jadwal-rupslb-penjualan-gedung-jadi-3-november",
+  "category": "Aksi Korporasi",
+  "title": "MTPS Ubah Jadwal RUPSLB [Penjualan] Gedung Jadi 3 November",
+  "deck": "RUPSLB independen untuk menyetujui penjualan aset gedung kantor Meta Epsi dimajukan dari 24 November menjadi 3 November 2026, dengan tanggal pencatatan pemegang saham 26 Oktober 2026.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTPS",
+   "RUPSLB",
+   "transaksi material",
+   "Meta Epsi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/66fdc0f45b_2acd059960.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-jadwalkan-rups-30-november-pencatatan-5-november",
+  "category": "Aksi Korporasi",
+  "title": "LABA Jadwalkan [RUPS] 30 November, Pencatatan 5 November",
+  "deck": "Green Power Group (LABA) akan menggelar RUPS pada 30 November 2026, dengan pemegang saham tercatat 5 November yang berhak hadir, dan undangan resmi berisi agenda terbit 6 November.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LABA",
+   "RUPS",
+   "Green Power Group",
+   "KSEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6aa41e4659_93d80637e2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "life-catat-laba-bersih-69-dalam-paparan-publik-h1-2026",
+  "category": "Aksi Korporasi",
+  "title": "LIFE catat laba bersih [+69%] dalam paparan publik H1 2026",
+  "deck": "LIFE memaparkan kinerja H1 2026: laba bersih naik 69 persen, ekuitas Rp8,19 triliun, serta progres spin-off syariah dan pemenuhan syarat free float BEI.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LIFE",
+   "MSIG Life Insurance Indonesia",
+   "laba bersih",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/45c4c3d311_50595d6eca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppro-rugi-rp298-miliar-di-sembilan-bulan-2026-naik-6-kali",
+  "category": "Aksi Korporasi",
+  "title": "PPRO Rugi [Rp298 Miliar] di Sembilan Bulan 2026, Naik 6 Kali",
+  "deck": "Rugi bersih PT PP Properti membengkak lebih dari enam kali lipat jadi Rp298,34 miliar pada sembilan bulan 2026, terutama akibat beban lain-lain yang berbalik dari untung menjadi rugi.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRO",
+   "PP Properti",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022165026-64835-0/FinancialStatement-2026-III-PPRO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tspc-jadwalkan-dividen-interim-rp75-per-saham-rp338-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TSPC Jadwalkan [Dividen] Interim Rp75 per Saham, Rp338 Miliar",
+  "deck": "Tempo Scan Pacific menetapkan dividen interim tahun buku 2026 sebesar Rp75 per saham, total Rp338,2 miliar, dibayar paling lambat 20 November 2026.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TSPC",
+   "dividen interim",
+   "Tempo Scan Pacific",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/920208b3c2_f1e7d50ad3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smmt-laba-bersih-turun-3-produksi-triaryani-naik",
+  "category": "Aksi Korporasi",
+  "title": "SMMT: Laba Bersih Turun 3%, Produksi Triaryani [Naik]",
+  "deck": "Paparan publik insidentil SMMT mengungkap laba bersih turun 3% akibat belanja modal, sementara produksi batu bara Triaryani naik dari tahun lalu meski volume penjualan turun.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMT",
+   "Public Expose",
+   "Batu Bara",
+   "Golden Eagle Energy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/30a8a8b3bb_78e851f795.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tfco-jawab-bursa-laba-stabil-garap-properti-di-surabaya",
+  "category": "Aksi Korporasi",
+  "title": "TFCO Jawab Bursa: Laba Stabil, Garap [Properti] di Surabaya",
+  "deck": "Tifico Fiber Indonesia menjawab permintaan penjelasan Bursa Efek Indonesia dengan memaparkan kinerja keuangan semester I 2026 dan rencana bisnis properti di lahan Surabaya.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TFCO",
+   "Tifico Fiber Indonesia",
+   "polyester",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6eb3cf720c_ad8b8d6130.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sgro-jawab-bursa-klaim-tak-ada-info-material-baru",
+  "category": "Aksi Korporasi",
+  "title": "SGRO Jawab Bursa, Klaim Tak Ada Info [Material] Baru",
+  "deck": "PT Prime Agri Resources Tbk menjawab permintaan klarifikasi Bursa Efek Indonesia atas lonjakan transaksi sahamnya, dan menyatakan tidak mengetahui informasi material apa pun.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SGRO",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5824fdfb3f_6f68774e26.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dua-terminal-bus-ditawarkan-ke-investor-lewat-skema-kpbu",
   "category": "Bisnis",
   "title": "Dua Terminal Bus Ditawarkan ke Investor Lewat Skema [KPBU]",
@@ -21,6 +165,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/dorong-investasi-sektor-transportasi-keminveshil-dan-kemenhub-gelar-market-sounding-kpbu-terminal-tipe-a-purabaya-dan-betan-subing",
   "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "lucy-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "LUCY Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan penjelasan BEI atas lonjakan transaksi, PT Lima Dua Lima Tiga Tbk (LUCY) menegaskan tidak ada fakta material maupun rencana korporasi yang mendasarinya.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LUCY",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/96907ecc03_8dbdd59669.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "byan-tak-konfirmasi-transaksi-rp2-588-jb-pegang-30-25",
@@ -300,6 +460,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pgun-laba-kuartal-iii-naik-34-piutang-berelasi-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "PGUN: Laba Kuartal III Naik 34%, [Piutang] Berelasi Melonjak",
+  "deck": "Laba bersih PGUN naik 33,5 persen jadi Rp135,4 miliar di sembilan bulan 2026, tapi arus kas operasi turun dan piutang ke pihak berelasi melonjak ke Rp211,4 miliar.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGUN",
+   "laporan keuangan",
+   "sawit",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022093220-64512-0/FinancialStatement-2026-III-PGUN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "fore-pendapatan-rp1-6-triliun-ebitda-naik-71-pada-9m26",
   "category": "Aksi Korporasi",
   "title": "FORE: Pendapatan Rp1,6 Triliun, [EBITDA] Naik 71% pada 9M26",
@@ -313,6 +489,38 @@ var ARTICLES = [
    "ekspansi gerai"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/511feacc71_e8bd7c268e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adcp-panggil-rupslb-bahas-perombakan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Panggil RUPSLB Bahas [Perombakan] Direksi-Komisaris",
+  "deck": "Adhi Commuter Properti menjadwalkan RUPS Luar Biasa pada 13 November 2026 dengan satu agenda: perubahan susunan direksi dan dewan komisaris.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADCP",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7678d6751f_473f831781.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fore-liabilitas-melonjak-25-7-imbas-sewa-gerai-baru",
+  "category": "Aksi Korporasi",
+  "title": "FORE: Liabilitas Melonjak 25,7% Imbas [Sewa] Gerai Baru",
+  "deck": "Liabilitas FORE naik 25,7 persen jadi Rp602,88 miliar per September 2026, terutama dari liabilitas sewa gerai baru, akrual beban, dan utang pajak yang membesar seiring ekspansi usaha.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORE",
+   "laporan keuangan",
+   "liabilitas",
+   "ekspansi usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022013903-64777-0/FinancialStatement-2026-III-FORE.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6283,219 +6491,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3cc09af349_f067599653.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "utang-luar-negeri-ri-naik-5-6-jadi-us-459-3-miliar",
-  "category": "Makroekonomi",
-  "title": "Utang Luar Negeri RI [Naik] 5,6% jadi US$459,3 Miliar",
-  "deck": "Utang luar negeri Indonesia naik 5,6 persen jadi US$459,3 miliar pada Agustus 2026, ditopang arus modal asing ke surat utang pemerintah dan BI, sementara utang swasta menyusut.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/utang-luar-negeri-ri-naik-5-6-jadi-us-459-3-miliar.jpg",
-  "imageV": "mv94s6ot",
-  "tags": [
-   "utang luar negeri",
-   "Bank Indonesia",
-   "SRBI",
-   "surat utang negara"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822126.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "bank-bjb-luncurkan-kartu-atm-edisi-persib-untuk-bobotoh",
-  "category": "Perbankan",
-  "title": "bank bjb Luncurkan Kartu ATM [Edisi] PERSIB untuk Bobotoh",
-  "deck": "bank bjb menghadirkan kartu ATM bertema PERSIB untuk mendekatkan diri ke komunitas Bobotoh sekaligus mendorong pembukaan rekening lewat aplikasi digital DIGI.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/bank-bjb-luncurkan-kartu-atm-edisi-persib-untuk-bobotoh.jpg",
-  "imageV": "mv9boowg",
-  "tags": [
-   "bank bjb",
-   "PERSIB",
-   "Bobotoh",
-   "DIGI bank bjb"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473142-dekat-dengan-bobotoh-bank-bjb-permudah-kepemilikan-kartu-atm-bank-bjb-edisi-persib"
- },
- {
-  "slug": "maxstream-pakai-ai-dalam-produksi-film-pertamanya",
-  "category": "Teknologi",
-  "title": "MAXStream Pakai [AI] dalam Produksi Film Pertamanya",
-  "deck": "Telkomsel meluncurkan film pertama MAXStream TV yang menggabungkan kecerdasan buatan dengan arahan kreatif manusia dalam proses produksinya.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/maxstream-pakai-ai-dalam-produksi-film-pertamanya.jpg",
-  "imageV": "mv9boq23",
-  "tags": [
-   "MAXStream",
-   "Telkomsel",
-   "AI",
-   "Rahasia Pernikahan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473141-maxstream-tv-padukan-ai-dan-sentuhan-kreatif-manusia-dalam-film-rahasia-pernikahan"
- },
- {
-  "slug": "adhi-rombak-utang-dan-divestasi-rp1-91-triliun-ke-bei",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Rombak [Utang] dan Divestasi Rp1,91 Triliun ke BEI",
-  "deck": "ADHI menjawab permintaan penjelasan Bursa soal divestasi saham DTP dan JMJ senilai Rp1,91 triliun, restrukturisasi seluruh utang bank dan obligasi, serta realokasi sisa dana rights issue.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "divestasi",
-   "restrukturisasi utang",
-   "LRT City"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/014e5b9690_627eb7f3f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-bjb-perluas-akses-beli-obligasi-ritel-sbr015",
-  "category": "Pasar Modal",
-  "title": "Bank bjb Perluas Akses Beli Obligasi Ritel [SBR015]",
-  "deck": "SBR015 ditawarkan 28 September-22 Oktober 2026 dengan kupon awal 6,75% (tenor 2 tahun) dan 6,85% (tenor 4 tahun). Bank bjb menyediakan kanal digital untuk pembeliannya.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/bank-bjb-perluas-akses-beli-obligasi-ritel-sbr015.jpg",
-  "imageV": "mv94s75c",
-  "tags": [
-   "SBR015",
-   "SBN Ritel",
-   "bank bjb",
-   "BI Rate"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473134-sbr015-hadir-bank-bjb-buka-akses-investasi-sbn-ritel-bagi-masyarakat"
- },
- {
-  "slug": "lapd-akuisisi-bss-rp59-43-miliar-terbitkan-saham-baru-rp100-m",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Akuisisi [BSS] Rp59,43 Miliar, Terbitkan Saham Baru Rp100 M",
-  "deck": "LAPD berencana akuisisi BSS, kontraktor tambang di Kalimantan senilai Rp59,43 miliar, lewat rights issue PMHMETD II hingga Rp100 miliar, di tengah rugi besar semester I 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "rights issue",
-   "pertambangan",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e36533519_581c2b06f7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medc-tegaskan-karhutla-tak-ganggu-produksi-migas-dan-listrik",
-  "category": "Aksi Korporasi",
-  "title": "MEDC Tegaskan Karhutla Tak Ganggu [Produksi] Migas dan Listrik",
-  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, MedcoEnergi memastikan target produksi 2026 tetap sesuai rencana dan tak ada tuntutan hukum terkait kebakaran lahan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "karhutla",
-   "keterbukaan informasi",
-   "migas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ebf5b101a_6cd7e4dfc1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtfn-gelar-rupst-6-november-usul-tanpa-dividen-2025",
-  "category": "Aksi Korporasi",
-  "title": "MTFN Gelar RUPST 6 November, Usul [Tanpa] Dividen 2025",
-  "deck": "Capitalinc Investment mengundang pemegang saham ke RUPST 6 November 2026, dengan agenda tidak membagikan dividen tahun buku 2025 serta pengangkatan kembali direksi dan komisaris.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTFN",
-   "RUPST",
-   "Capitalinc Investment",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9fabcfe790_6787b4a889.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ojk-resmi-catat-suntikan-modal-rp13-m-vico-ke-vins",
-  "category": "Aksi Korporasi",
-  "title": "OJK Resmi Catat [Suntikan] Modal Rp13 M VICO ke VINS",
-  "deck": "OJK IKNB resmi mencatat penambahan modal Rp13 miliar dari VICO ke anak usahanya VINS lewat penerbitan 92,86 juta saham baru untuk memperkuat modal asuransi ini.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VINS",
-   "VICO",
-   "transaksi afiliasi",
-   "permodalan asuransi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f71ade8a75_ccb5c42cfc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptro-rencanakan-rights-issue-170-juta-saham-dilusi-1-66",
-  "category": "Aksi Korporasi",
-  "title": "PTRO Rencanakan Rights Issue 170 Juta Saham, Dilusi [1,66%]",
-  "deck": "Petrosea berencana menerbitkan maksimal 170 juta saham baru lewat skema hak memesan efek terlebih dahulu, dengan dilusi maksimal 1,66 persen bagi pemegang saham yang tidak ikut serta.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTRO",
-   "rights issue",
-   "PMHMETD",
-   "Petrosea"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa3a84b273_757ba6109e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptro-jadwalkan-rupslb-23-november-dps-29-oktober",
-  "category": "Aksi Korporasi",
-  "title": "PTRO Jadwalkan RUPSLB 23 November, [DPS] 29 Oktober",
-  "deck": "Petrosea mengumumkan rencana RUPSLB pada 23 November 2026, lengkap dengan tanggal pencatatan pemegang saham dan mekanisme e-Proxy.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTRO",
-   "RUPSLB",
-   "Petrosea",
-   "Pasar Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e71e7abb64_a1ba6d4086.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-patra-niaga-genjot-pemulihan-bbm-di-bali",
-  "category": "Energi",
-  "title": "Pertamina Patra Niaga [Genjot] Pemulihan BBM di Bali",
-  "deck": "Pertamina Patra Niaga menambah pasokan 57,9 juta liter BBM dan jam operasional SPBU di Bali untuk mempercepat pemulihan layanan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/pertamina-patra-niaga-genjot-pemulihan-bbm-di-bali.jpg",
-  "imageV": "mv94s7kb",
-  "tags": [
-   "Pertamina",
-   "BBM Bali",
-   "SPBU",
-   "Pertamina Patra Niaga"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473120-percepat-pemulihan-layanan-bbm-di-bali-pertamina-patra-niaga-kerahkan-berbagai-upaya"
- },
- {
-  "slug": "presiden-prabowo-pangkas-biaya-logistik-lewat-perpres-baru",
-  "category": "Makroekonomi",
-  "title": "Presiden Prabowo [Pangkas] Biaya Logistik Lewat Perpres Baru",
-  "deck": "Presiden Prabowo Subianto menugaskan Menko Airlangga Hartarto menjalankan Perpres 41/2026 untuk menekan biaya logistik nasional yang tercatat 14,29 persen dari PDB pada 2022.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
-  "tags": [
-   "logistik nasional",
-   "Perpres 41/2026",
-   "Airlangga Hartarto",
-   "KIPK"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7157/presiden-prabowo-tugaskan-menko-airlangga-perkuat-ekosistem-logistik-nasional-melalui-perpres-nomor-41-tahun-2026",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

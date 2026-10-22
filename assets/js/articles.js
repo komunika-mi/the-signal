@@ -3,6 +3,242 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wifi-rombak-direksi-dan-komisaris-tambah-kbli-konstruksi",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Rombak Direksi dan Komisaris, Tambah [KBLI] Konstruksi",
+  "deck": "RUPSLB WIFI 21 Oktober 2026 mengganti Komisaris Utama dan Direktur Utama, serta menambah izin usaha konstruksi sentral telekomunikasi KBLI 42206.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T17:34:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e698a83bfb_78cb4ff763.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "pergantian direksi",
+   "KBLI",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) mengumumkan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) tanggal 21 Oktober 2026 yang menyetujui pengunduran diri tiga pengurus sekaligus: Hashim Sujono Djojohadikusumo dari posisi Komisaris Utama, Hendrik Tee dari posisi Direktur Utama, dan Henny Santoso dari posisi Direktur. Sebagai pengganti, susunan Dewan Komisaris kini diisi Fadel Muhammad sebagai Komisaris Utama dan Doni Satiaji Soetadi sebagai Komisaris Independen. Direksi baru dipimpin Shannedy Ong sebagai Direktur Utama, didampingi Andrew, Yune Marketatmo, dan Mohammad Mustaghfirin sebagai Direktur.",
+   "Selain pergantian pengurus, RUPSLB juga menyetujui perubahan Pasal 3 Anggaran Dasar untuk menambahkan Konstruksi Sentral Telekomunikasi (KBLI 42206) sebagai kegiatan usaha penunjang, melengkapi kegiatan penunjang lain yaitu aktivitas telekomunikasi dengan kabel, jasa akses internet, dan platform digital intermediasi perdagangan eceran. Kegiatan usaha utama perseroan tetap mencakup perdagangan besar kopi, teh dan kakao, aktivitas periklanan, aktivitas perusahaan induk, perdagangan besar peralatan telekomunikasi, aktivitas telekomunikasi nirkabel, serta penyewaan mesin dan peralatan. Penambahan KBLI ini dilakukan sesuai POJK 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha, yang mensyaratkan studi kelayakan dan persetujuan RUPS.",
+   "Dalam dokumen keterbukaan ini, perseroan menyatakan penambahan KBLI konstruksi sentral telekomunikasi diharapkan memberi dampak positif terhadap pertumbuhan pendapatan, laba usaha, dan diversifikasi sumber pendapatan, serta menciptakan sinergi dengan bisnis anak usaha yang sudah berjalan. Perseroan juga menegaskan pergantian susunan Dewan Komisaris dan Direksi tidak berdampak material terhadap operasional, kondisi keuangan, maupun aspek hukum perseroan, dan kegiatan usaha akan tetap berjalan sesuai strategi yang telah ditetapkan."
+  ],
+  "fotoAdegan": "Technicians in safety harnesses installing equipment on a telecommunications tower structure, construction site, late afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental WIFI, karena pergantian Direktur Utama dan Komisaris Utama belum disertai perubahan strategi atau investasi baru yang terukur, sementara penambahan kegiatan usaha konstruksi sentral telekomunikasi masih sebatas syarat administratif untuk menjalankan rencana yang sudah diumumkan lewat studi kelayakan bernilai NPV Rp929 miliar pekan lalu. Pos yang tersentuh di sini adalah tata kelola perusahaan, bukan arus kas atau laba secara langsung: pergantian pucuk pimpinan seperti ini lazim terjadi setelah pemegang saham pengendali berganti, sebagaimana sudah dilaporkan pekan ini ketika Sinergi Graha Kapital menguasai 26,67 persen hak suara WIFI, sehingga perombakan direksi dan komisaris ini bisa dibaca sebagai pemegang saham baru menata ulang manajemennya. Yang perlu dipantau berikutnya adalah apakah direksi baru benar-benar merealisasikan proyek konstruksi sentral telekomunikasi yang nilai kelayakannya sudah dihitung, serta laporan keuangan kuartal mendatang untuk melihat apakah pergantian manajemen ini membawa perubahan arah bisnis yang konkret.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtps-ubah-jadwal-rupslb-penjualan-gedung-jadi-3-november",
+  "category": "Aksi Korporasi",
+  "title": "MTPS Ubah Jadwal RUPSLB [Penjualan] Gedung Jadi 3 November",
+  "deck": "RUPSLB independen untuk menyetujui penjualan aset gedung kantor Meta Epsi dimajukan dari 24 November menjadi 3 November 2026, dengan tanggal pencatatan pemegang saham 26 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T17:19:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/66fdc0f45b_2acd059960.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTPS",
+  "tags": [
+   "MTPS",
+   "RUPSLB",
+   "transaksi material",
+   "Meta Epsi"
+  ],
+  "body": [
+   "PT Meta Epsi Tbk (MTPS) mengoreksi jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Independen yang sebelumnya diumumkan akan digelar 24 November 2026. Dalam surat No. 012/DIR-KA/OJK-BEI/X/2026 tertanggal 22 Oktober 2026 kepada OJK dan Bursa Efek Indonesia, Direktur Utama Kahar Anwar menyampaikan bahwa rapat dimajukan menjadi Selasa, 3 November 2026, pukul 10.00 hingga 11.30 WIB, di Meta Epsi Building, Jalan Mayjen D.I Panjaitan Kavling 2, Rawa Bunga, Jatinegara, Jakarta Timur. Surat ini mengoreksi surat sebelumnya, No. 008/DIR-KA/OJK-BEI/X/2026 tanggal 20 Oktober 2026.",
+   "Perseroan menetapkan 26 Oktober 2026 sebagai tanggal pencatatan pemegang saham yang berhak hadir dan memberikan suara dalam rapat. Pemanggilan resmi kepada pemegang saham akan dilakukan pada 27 Oktober 2026 melalui situs eASY KSEI, situs web Bursa Efek Indonesia, dan situs web Perseroan sendiri.",
+   "Mata acara RUPSLB tetap satu agenda, yaitu persetujuan rencana penjualan aset Perseroan berupa tanah, gedung kantor, dan sarana pelengkap di Jalan D.I Panjaitan Kavling II, Rawa Bunga, Jatinegara, Jakarta Timur, dengan luas 4.802 meter persegi. Perseroan menyebut nilai transaksi penjualan ini telah memenuhi kategori transaksi material sesuai Peraturan OJK No. 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha, sehingga memerlukan persetujuan pemegang saham independen."
+  ],
+  "fotoAdegan": "A multi-story office building facade with reflective windows under an overcast Jakarta sky, quiet paved forecourt in foreground",
+  "takeaway": "Laporan ini condong negatif, karena jadwal RUPSLB untuk menyetujui penjualan gedung kantor Perseroan justru dimajukan jauh lebih cepat, dari rencana semula 24 November menjadi 3 November, sehingga waktu pemegang saham untuk mencermati transaksi yang sebelumnya disorot soal kewajarannya menjadi lebih singkat. Transaksi yang dibahas menyangkut pelepasan aset tanah dan gedung kantor seluas 4.802 meter persegi, yang bila disetujui bisa menambah kas Perseroan dari hasil penjualan tetapi sekaligus menghilangkan aset tetap yang selama ini menjadi lokasi operasional, sehingga pelaku pasar akan mencermati dampaknya pada ekuitas dan arus kas perusahaan. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 26 Oktober 2026, pemanggilan resmi pada 27 Oktober 2026, dan hasil keputusan RUPSLB pada 3 November 2026, karena di situlah harga dan syarat penjualan aset tersebut baru akan terungkap secara rinci.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "laba-jadwalkan-rups-30-november-pencatatan-5-november",
+  "category": "Aksi Korporasi",
+  "title": "LABA Jadwalkan [RUPS] 30 November, Pencatatan 5 November",
+  "deck": "Green Power Group (LABA) akan menggelar RUPS pada 30 November 2026, dengan pemegang saham tercatat 5 November yang berhak hadir, dan undangan resmi berisi agenda terbit 6 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T17:18:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6aa41e4659_93d80637e2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LABA",
+  "tags": [
+   "LABA",
+   "RUPS",
+   "Green Power Group",
+   "KSEI"
+  ],
+  "body": [
+   "PT Green Power Group Tbk (LABA) mengumumkan kepada pemegang sahamnya bahwa Rapat Umum Pemegang Saham akan digelar Senin, 30 November 2026 pukul 10.00 WIB secara daring melalui sistem Easy KSEI. Pengumuman bernomor surat 061/GPG-OJK/X/2026 ini diteken Direktur Utama Chen Xiaoxiao pada 22 Oktober 2026 di Bekasi. Menariknya, judul suratnya menyebut rapat ini sebagai Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), sementara isi pengumuman dua bahasa yang dilampirkan justru menyebutnya Rapat Umum Pemegang Saham Tahunan, tanpa penjelasan tambahan soal perbedaan sebutan tersebut.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah yang namanya tercatat dalam Daftar Pemegang Saham atau pemilik saldo rekening efek di Kustodian Sentral Efek Indonesia (KSEI) pada Kamis, 5 November 2026, yang menjadi tanggal pencatatan (recording date). Pemanggilan resmi rapat, yang akan memuat agenda lengkap, baru akan diumumkan Jumat, 6 November 2026, melalui situs Bursa Efek Indonesia, situs perusahaan, dan sistem e-RUPS KSEI (EASY.KSEI).",
+   "Perseroan menyebutkan bahwa pemegang saham yang ingin mengusulkan mata acara tambahan harus mewakili paling sedikit 1/20 dari total saham dengan hak suara, dan mengajukannya secara tertulis kepada Direksi paling lambat 7 hari kalender sebelum tanggal pemanggilan rapat, atau sekitar akhir Oktober 2026. Perseroan juga mendorong pemegang saham untuk hadir secara elektronik atau memberikan kuasa kepada Biro Administrasi Efek, PT Bima Registra, melalui platform e-Proxy pada EASY.KSEI."
+  ],
+  "fotoAdegan": "Technicians inspecting rows of lithium battery cells on an industrial assembly line, bright factory lighting, Indonesia",
+  "takeaway": "Pengumuman ini netral bagi investor karena isinya baru soal jadwal dan mekanisme rapat, belum ada agenda materi yang dibuka sehingga belum bisa dinilai dampaknya ke kinerja Perseroan. Begitu agenda resmi terbit, baru akan terlihat pos mana yang tersentuh, misalnya jika rapat membahas penerbitan saham baru maka jumlah saham beredar dan laba per saham (keuntungan dibagi jumlah saham) bisa berubah, atau jika membahas dividen maka ada arus kas yang keluar dari perusahaan. Yang perlu dipantau adalah Pemanggilan Rapat yang terbit Jumat, 6 November 2026, karena di situ agenda lengkap baru diumumkan, serta jalannya rapat itu sendiri pada Senin, 30 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "life-catat-laba-bersih-69-dalam-paparan-publik-h1-2026",
+  "category": "Aksi Korporasi",
+  "title": "LIFE catat laba bersih [+69%] dalam paparan publik H1 2026",
+  "deck": "LIFE memaparkan kinerja H1 2026: laba bersih naik 69 persen, ekuitas Rp8,19 triliun, serta progres spin-off syariah dan pemenuhan syarat free float BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T16:55:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/45c4c3d311_50595d6eca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LIFE",
+  "tags": [
+   "LIFE",
+   "MSIG Life Insurance Indonesia",
+   "laba bersih",
+   "free float"
+  ],
+  "body": [
+   "PT MSIG Life Insurance Indonesia Tbk (LIFE) menggelar paparan publik tahunan pada 27 Oktober 2026, dibawakan Presiden Direktur Wianto bersama tiga direktur lainnya, yakni Herman Soelistyo, Eiji Takahashi, dan Elly Susanti. Wianto menyebut kinerja semester pertama 2026 menegaskan arah penciptaan nilai jangka panjang perusahaan. Annualized Premium Equivalent atau APE, ukuran premi tahunan yang jadi acuan pertumbuhan bisnis asuransi, tumbuh 7 persen pada semester pertama 2026 dibanding periode yang sama tahun sebelumnya. Nilai kontrak jasa masa depan atau CSM Balance, basis laba yang akan diakui perusahaan di masa depan dari polis yang sudah terjual, naik 8 persen pada periode yang sama.",
+   "Berdasarkan laporan keuangan berbasis standar akuntansi IFRS 17, aset MSIG Life naik 1 persen dari Rp15,03 triliun pada semester pertama 2025 menjadi Rp15,11 triliun pada semester pertama 2026. Pendapatan asuransi tumbuh 9 persen dari Rp0,94 triliun menjadi Rp1,03 triliun pada periode yang sama. Laba bersih melonjak 69 persen dari Rp107 miliar menjadi Rp181 miliar, sementara ekuitas, yakni kekayaan bersih yang menjadi hak pemegang saham, justru turun 2 persen dari Rp8,32 triliun menjadi Rp8,19 triliun. Pengembalian atas ekuitas atau ROE, yang mengukur seberapa besar laba dihasilkan dari setiap rupiah modal pemegang saham, naik dari 1,29 persen menjadi 2,20 persen.",
+   "Untuk kinerja sepanjang 2025, APE tercatat Rp1.437 miliar, naik 12 persen dari Rp1.287 miliar pada 2024. Premi lanjutan, yaitu premi yang dibayar nasabah pada tahun-tahun setelah polis pertama kali dibeli, tumbuh 48 persen dari Rp1.227 miliar menjadi Rp1.818 miliar. Pendapatan premi di luar unit syariah naik 37 persen dari Rp3.255 miliar menjadi Rp4.452 miliar, dan total penghasilan komprehensif tahun berjalan naik 32 persen dari Rp321.556 juta menjadi Rp424.148 juta.",
+   "Materi paparan publik juga mengungkap kelanjutan pemisahan unit usaha syariah. Izin usaha dari Otoritas Jasa Keuangan terbit pada 22 Juli 2026, izin pengalihan portofolio terbit pada 2 September 2026, dan unit usaha syariah resmi beroperasi sendiri sejak 3 Agustus 2026, setelah rencana kerja pemisahan diajukan ke OJK pada September 2023 dan disetujui RUPSLB pada 23 September 2025. Perusahaan juga menyatakan berkomitmen memenuhi syarat free float, yakni porsi saham minimum yang wajib beredar di tangan publik, sesuai aturan Bursa Efek Indonesia nomor I-A yang berlaku efektif sejak 31 Maret 2026."
+  ],
+  "fotoAdegan": "Nurses assisting patients at a hospital reception counter in Jakarta, soft morning light, documentary style",
+  "takeaway": "Paparan ini condong positif bagi MSIG Life karena laba bersih semester pertama 2026 melonjak 69 persen dan ROE naik dari 1,29 persen menjadi 2,20 persen, meski ekuitasnya sendiri menyusut tipis 2 persen. Ekuitas adalah kekayaan bersih yang jadi hak pemegang saham setelah utang dikurangi, dan penyusutannya perlu dicermati karena biasanya dipengaruhi pembagian dividen atau penyesuaian nilai investasi, sementara ROE yang naik berarti setiap rupiah modal pemegang saham kini menghasilkan laba lebih besar, itu sebabnya pelaku pasar memperhatikan rasio ini. Yang perlu dipantau berikutnya adalah pemenuhan syarat free float sesuai aturan Bursa Efek Indonesia nomor I-A yang efektif sejak 31 Maret 2026, karena jika target porsi saham publik tidak tercapai dalam masa transisi, saham LIFE bisa terkena sanksi bursa. Perkembangan integrasi unit usaha syariah yang baru resmi berdiri sendiri sejak 3 Agustus 2026 juga layak diikuti untuk melihat dampaknya pada kinerja konsolidasi perusahaan ke depan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ppro-rugi-rp298-miliar-di-sembilan-bulan-2026-naik-6-kali",
+  "category": "Aksi Korporasi",
+  "title": "PPRO Rugi [Rp298 Miliar] di Sembilan Bulan 2026, Naik 6 Kali",
+  "deck": "Rugi bersih PT PP Properti membengkak lebih dari enam kali lipat jadi Rp298,34 miliar pada sembilan bulan 2026, terutama akibat beban lain-lain yang berbalik dari untung menjadi rugi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T16:43:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022165026-64835-0/FinancialStatement-2026-III-PPRO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRO",
+  "tags": [
+   "PPRO",
+   "PP Properti",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT PP Properti Tbk (PPRO) menyampaikan koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, yang diteken manajemen pada 20 Oktober 2026. Pendapatan usaha perseroan naik 8,8 persen menjadi Rp251,30 miliar, dari Rp230,97 miliar pada periode yang sama tahun 2025, dan laba kotor naik dari Rp7,08 miliar menjadi Rp8,49 miliar. Namun perseroan mencatat rugi bersih Rp298,34 miliar, melonjak dari rugi Rp47,26 miliar pada sembilan bulan pertama 2025. Rugi yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp291,06 miliar, sehingga rugi per saham dasar membesar dari Rp0,63 menjadi Rp4,94 per saham.",
+   "Pembengkakan rugi ini terutama didorong oleh pos penghasilan (beban) lain-lain yang berbalik arah, dari untung Rp136,66 miliar pada 2025 menjadi beban Rp146,12 miliar pada 2026, meski beban keuangan justru turun dari Rp141,41 miliar menjadi Rp110,20 miliar. Di sisi posisi keuangan, jumlah aset PPRO turun menjadi Rp10,46 triliun per akhir September 2026, dari Rp10,67 triliun pada akhir 2025, sementara jumlah liabilitas naik dari Rp4,52 triliun menjadi Rp4,62 triliun. Jumlah ekuitas turun dari Rp6,14 triliun menjadi Rp5,85 triliun, seiring akumulasi rugi yang belum ditentukan penggunaannya membesar dari Rp7,77 triliun menjadi Rp8,06 triliun.",
+   "Dari sisi arus kas, kegiatan operasional menghasilkan kas bersih Rp69,32 miliar, berbalik dari posisi negatif Rp1,01 miliar pada periode yang sama tahun lalu, didorong penerimaan dari pelanggan sebesar Rp323,99 miliar. Perseroan menggunakan kas Rp59,94 miliar untuk kegiatan pendanaan, terutama untuk membayar beban keuangan Rp31,22 miliar dan mencicil utang bank Rp28,72 miliar, sehingga kas dan setara kas perseroan naik tipis menjadi Rp89,22 miliar pada akhir September 2026, dari Rp83,18 miliar pada akhir 2025. Jumlah saham PPRO yang beredar tidak berubah, tetap 61.675.671.883 saham dengan nilai nominal Rp25 per saham."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a mid-rise residential apartment building site in an Indonesian city, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi PPRO, karena rugi bersih melonjak lebih dari enam kali lipat dibanding periode yang sama tahun lalu, sementara ekuitas terus tergerus. Yang paling kena dampak adalah ekuitas dan rugi per saham, dua pos yang biasa dipantau pemodal untuk menilai seberapa besar porsi kekayaan perusahaan yang masih tersisa bagi pemegang saham setelah dikurangi utang. Perlu dicatat, ekuitas PPRO yang masih tercatat Rp5,85 triliun sebagian besar ditopang oleh surat berharga perpetual senilai Rp9,63 triliun, semacam dana jangka panjang tanpa batas waktu pengembalian yang diperlakukan seperti modal sendiri, bukan utang, karena tanpa penyangga ini akumulasi rugi perusahaan yang sudah mencapai Rp8,06 triliun akan membuat ekuitas negatif. Sisi positifnya, arus kas dari kegiatan operasional berbalik menjadi positif Rp69,32 miliar dari sebelumnya negatif, tanda bisnis inti mulai menghasilkan kas sendiri. Yang perlu dipantau berikutnya adalah apakah pos beban lain-lain yang berbalik dari untung Rp136,66 miliar menjadi rugi Rp146,12 miliar ini berulang di laporan tahunan 2026, karena pos inilah yang menjadi penyebab utama membengkaknya rugi periode ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tspc-jadwalkan-dividen-interim-rp75-per-saham-rp338-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TSPC Jadwalkan [Dividen] Interim Rp75 per Saham, Rp338 Miliar",
+  "deck": "Tempo Scan Pacific menetapkan dividen interim tahun buku 2026 sebesar Rp75 per saham, total Rp338,2 miliar, dibayar paling lambat 20 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T16:19:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/920208b3c2_f1e7d50ad3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TSPC",
+  "tags": [
+   "TSPC",
+   "dividen interim",
+   "Tempo Scan Pacific",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Tempo Scan Pacific Tbk (TSPC) akan membagikan dividen tunai interim untuk tahun buku 2026 dengan total nilai Rp338.239.822.500, atau setara Rp75 per saham. Keputusan ini diambil oleh Direksi pada 20 Oktober 2026 dan disetujui Dewan Komisaris melalui keputusan sirkuler pada tanggal yang sama. Corporate secretary TSPC, Shania, menyampaikan rencana ini ke Bursa Efek Indonesia pada 22 Oktober 2026.",
+   "Jadwal pembagiannya diatur secara berurutan. Batas akhir perdagangan saham dengan status cum dividen di pasar reguler dan negosiasi jatuh pada 30 Oktober 2026, lalu perdagangan berstatus ex dividen dimulai 2 November 2026. Di pasar tunai, batas cum dividen jatuh pada 3 November 2026 dan status ex dividen berlaku mulai 4 November 2026. Pemegang saham yang berhak menerima dividen adalah yang namanya tercatat dalam daftar pemegang saham pada 3 November 2026 pukul 16.00 WIB, dan dividen akan ditransfer ke rekening bank masing-masing pemegang saham paling lambat 20 November 2026. Perseroan menegaskan tidak akan membayar dividen dengan cek.",
+   "Dasar pembagian dividen ini adalah laporan keuangan per 30 Juni 2026, di mana TSPC mencatat laba bersih yang diatribusikan kepada entitas induk sebesar Rp774,77 miliar, laba ditahan yang tidak dibatasi penggunaannya sebesar Rp9,07 triliun, dan total ekuitas Rp10,22 triliun. Bagi pemegang saham asing dari negara yang memiliki perjanjian penghindaran pajak berganda dengan Indonesia, dividen bisa mendapat keringanan pajak jika menyerahkan Surat Keterangan Domisili asli ke PT Raya Saham Registra paling lambat 3 November 2026 pukul 16.00 WIB. Tanpa dokumen itu, pajak dividen akan dipotong 20 persen."
+  ],
+  "fotoAdegan": "Workers in white coats inspecting rows of medicine bottles on a pharmaceutical production line, bright clean factory lighting",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi TSPC, karena jumlahnya proporsional dengan laba yang dihasilkan dan jauh lebih kecil dibanding cadangan dana perusahaan, sehingga tidak membebani keuangannya. Yang tersentuh adalah ekuitas dan laba ditahan, yaitu akumulasi keuntungan perusahaan dari tahun-tahun sebelumnya yang belum dibagikan ke pemegang saham. Dividen Rp338,2 miliar ini hanya sekitar 3,3 persen dari total ekuitas Rp10,22 triliun dan 3,7 persen dari laba ditahan Rp9,07 triliun, sementara nilainya mencapai sekitar 43,6 persen dari laba bersih semester pertama 2026 yang tercatat Rp774,77 miliar, artinya perusahaan membagi porsi wajar dari keuntungannya tanpa mengurangi modal secara berarti. Yang perlu dipantau adalah recording date pada 3 November 2026 pukul 16.00 WIB, karena hanya pemegang saham yang tercatat saat itu yang berhak menerima dividen, serta kepastian pencairan dana pada tanggal pembayaran paling lambat 20 November 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "smmt-laba-bersih-turun-3-produksi-triaryani-naik",
+  "category": "Aksi Korporasi",
+  "title": "SMMT: Laba Bersih Turun 3%, Produksi Triaryani [Naik]",
+  "deck": "Paparan publik insidentil SMMT mengungkap laba bersih turun 3% akibat belanja modal, sementara produksi batu bara Triaryani naik dari tahun lalu meski volume penjualan turun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T15:57:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/30a8a8b3bb_78e851f795.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMT",
+  "tags": [
+   "SMMT",
+   "Public Expose",
+   "Batu Bara",
+   "Golden Eagle Energy"
+  ],
+  "body": [
+   "PT Golden Eagle Energy Tbk (SMMT) menggelar paparan publik insidentil pada Selasa, 20 Oktober 2026, pukul 15.00-15.30 WIB secara daring melalui Zoom. Acara dibuka oleh Corporate Secretary Susanti Nilam, dilanjutkan presentasi oleh Direktur Utama Huang She Thong, dan turut dihadiri Chief Operating Officer Philip Hendry serta Chief Financial Officer Adam Tan. Selain jajaran manajemen, acara ini diikuti oleh 6 peserta eksternal, termasuk investor perorangan dan media Petromindo yang diwakili Tri Subhki.",
+   "Dalam sesi tanya jawab, seorang peserta bernama Daniel mempertanyakan mengapa pendapatan Perseroan naik 14 persen sementara volume penjualan batu bara justru turun, dan mengapa laba bersih malah turun 3 persen. Philip Hendry menjawab bahwa kenaikan pendapatan ditopang harga jual batu bara yang tinggi, bukan oleh volume penjualan. Ia menambahkan bahwa laba bersih tergerus karena Perseroan membelanjakan modal (capex) untuk mempersiapkan peningkatan produksi pada tahun berikutnya.",
+   "Menjawab pertanyaan Tri Subhki dari Petromindo, manajemen menyatakan realisasi produksi batu bara Perseroan, khususnya dari anak usaha PT Triaryani, mengalami kenaikan pada 2026 dibandingkan periode yang sama tahun 2025, tanpa merinci persentasenya. Jalan angkutan atau hauling road MBJ disebut sudah beroperasi, dengan rencana total produksi Triaryani yang melewati jalur ini berkisar 500.000 hingga 600.000 metrik ton sepanjang tahun ini, dan volume itu diproyeksikan naik signifikan pada 2027.",
+   "Terkait kekhawatiran soal transaksi dengan pihak berelasi, seperti jasa kontraktor, penjualan batu bara ke entitas grup, dan pinjaman antarperusahaan, Philip Hendry menegaskan seluruh transaksi tersebut mengikuti aturan transfer pricing dan prinsip wajar atau arm's length, didukung survei harga pasar berkala serta konsultan independen. Mengenai dana reklamasi dan pascatambang, Perseroan menyatakan telah mencadangkan dana untuk keperluan tersebut, dan saat ini sedang menjajaki penunjukan konsultan ESG untuk mengukur jejak karbon, serta mempertimbangkan penggunaan truk listrik dalam pengangkutan batu bara guna menekan emisi."
+  ],
+  "fotoAdegan": "Heavy dump trucks moving along a wide dusty haul road at an open-pit coal mine, overcast tropical sky, distant excavator",
+  "takeaway": "Laporan ini condong netral bagi Golden Eagle Energy, karena penjelasan manajemen soal kenaikan pendapatan dan turunnya laba bersih tergolong wajar, tidak menunjukkan perbaikan maupun pemburukan fundamental yang tajam. Pos yang tersentuh di sini adalah laba bersih dan belanja modal, sebab pendapatan yang naik 14 persen justru didorong harga jual, bukan volume, yang berarti penjualan sebenarnya menyusut, sementara laba bersih turun 3 persen karena dana dibelanjakan untuk menambah kapasitas produksi tahun depan, jadi keuntungan saat ini ditahan demi pertumbuhan nanti. Pelaku pasar memperhatikan kombinasi volume turun dan laba tergerus karena itu bisa jadi tanda tekanan margin, meski di sini manajemen menyebutnya sebagai investasi, bukan pelemahan permintaan. Yang perlu dipantau berikutnya adalah realisasi produksi Triaryani secara penuh di akhir 2026 dan apakah kapasitas hauling road MBJ benar menaikkan volume angkutan batu bara secara signifikan pada 2027 seperti disebutkan manajemen. Paparan publik insidentil ini digelar tak lama setelah lonjakan harga saham SMMT yang sempat disorot, sehingga penjelasan soal transaksi pihak berelasi dan dana reklamasi juga layak dicek konsistensinya pada laporan keuangan kuartal berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tfco-jawab-bursa-laba-stabil-garap-properti-di-surabaya",
+  "category": "Aksi Korporasi",
+  "title": "TFCO Jawab Bursa: Laba Stabil, Garap [Properti] di Surabaya",
+  "deck": "Tifico Fiber Indonesia menjawab permintaan penjelasan Bursa Efek Indonesia dengan memaparkan kinerja keuangan semester I 2026 dan rencana bisnis properti di lahan Surabaya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T15:54:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6eb3cf720c_ad8b8d6130.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TFCO",
+  "tags": [
+   "TFCO",
+   "Tifico Fiber Indonesia",
+   "polyester",
+   "properti"
+  ],
+  "body": [
+   "PT Tifico Fiber Indonesia Tbk (TFCO) mengirimkan tanggapan resmi kepada Bursa Efek Indonesia pada 22 Oktober 2026, menjawab surat permintaan penjelasan bursa bernomor S-13277/BEI.PP1/10-2026 tertanggal 20 Oktober 2026. Dalam suratnya, manajemen memaparkan kondisi keuangan terakhir berdasarkan laporan keuangan per 30 Juni 2026, di mana perusahaan mencatatkan pendapatan US$97,3 juta, laba bruto US$4,3 juta, dan laba bersih selama semester pertama sebesar US$3,3 juta. Dari sisi neraca, total aset tercatat US$344 juta, dengan total liabilitas US$28,8 juta dan total ekuitas US$315,3 juta.",
+   "Perseroan menegaskan bahwa sejak akhir Juni 2026 tidak ada kontrak baru, sumber pendapatan baru, atau transaksi material lain yang belum diungkapkan. Bisnis utama TFCO tetap berjalan di industri polyester, mencakup produksi dan penjualan Polyester Staple Fiber, Polyester Filament Yarn, Polyester Chip, dan produk RCL. Untuk tahun 2026, strategi perusahaan berfokus pada efisiensi operasional, pengendalian biaya produksi, dan peningkatan kualitas produk. Selain itu, perusahaan menyebutkan rencana pengembangan bisnis baru di sektor properti dengan memanfaatkan aset tanah milik perusahaan di Surabaya, yang telah disetujui pemegang saham dalam RUPST Juni 2026.",
+   "Terkait faktor eksternal, manajemen menyebut terus memantau pergerakan harga bahan baku utama PTA dan MEG, biaya energi, nilai tukar, serta permintaan pasar domestik dan ekspor yang bisa mempengaruhi biaya produksi dan margin usaha. Persaingan di industri serat buatan dinilai tetap kompetitif tanpa pergeseran pangsa pasar yang signifikan, dan perusahaan menyatakan tidak ada perkara hukum material yang sedang dihadapi direksi, komisaris, maupun anak usaha. Soal pergerakan harga sahamnya belakangan, manajemen mengaku tidak mengetahui penyebab spesifiknya dan menilai hal itu murni mekanisme pasar di bursa, sekaligus memastikan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers inspecting rows of polyester fiber spools on a factory production line, industrial lighting, Indonesia textile plant.",
+  "takeaway": "Laporan ini netral bagi TFCO karena isinya sebagian besar menegaskan kembali kondisi keuangan dan operasional yang sudah berjalan seperti biasa, tanpa kabar baru yang signifikan mengubah prospek perusahaan dalam waktu dekat. Angka yang disorot adalah ekuitas senilai US$315,3 juta berbanding utang yang hanya US$28,8 juta, rasio yang menunjukkan beban utang perusahaan sangat rendah sehingga risiko keuangannya kecil, sementara laba bersih semester pertama US$3,3 juta dari pendapatan US$97,3 juta memperlihatkan margin keuntungan yang masih tipis, hal yang biasa diperhatikan investor untuk menilai efisiensi operasional perusahaan. Yang perlu dipantau selanjutnya adalah realisasi konkret rencana bisnis properti di lahan Surabaya yang sudah disetujui pemegang saham sejak RUPST Juni 2026 itu, sebab sampai surat ini terbit perusahaan belum mengungkapkan jadwal, nilai investasi, atau mitra pengembangan proyeknya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sgro-jawab-bursa-klaim-tak-ada-info-material-baru",
+  "category": "Aksi Korporasi",
+  "title": "SGRO Jawab Bursa, Klaim Tak Ada Info [Material] Baru",
+  "deck": "PT Prime Agri Resources Tbk menjawab permintaan klarifikasi Bursa Efek Indonesia atas lonjakan transaksi sahamnya, dan menyatakan tidak mengetahui informasi material apa pun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T15:51:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5824fdfb3f_6f68774e26.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SGRO",
+  "tags": [
+   "SGRO",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Prime Agri Resources Tbk (SGRO) mengirim surat tanggapan bernomor 1186/PAR/X/26/RO/GC tertanggal 22 Oktober 2026 kepada Bursa Efek Indonesia, menjawab permintaan penjelasan dari bursa lewat surat nomor S-13272/BEI.PP1/10-2026 tertanggal 20 Oktober 2026 yang diterima perseroan sehari sebelumnya, 21 Oktober 2026. Surat bursa itu meminta SGRO menjelaskan volatilitas transaksi efeknya, yang berarti ada pergerakan harga atau aktivitas perdagangan saham SGRO yang dinilai bursa di luar kebiasaan sehingga perlu diklarifikasi ke publik.",
+   "Dalam tanggapannya, SGRO menegaskan sampai saat ini tidak mengetahui adanya informasi atau fakta material yang bisa mempengaruhi nilai efeknya maupun keputusan investasi pemodal, baik berdasarkan Peraturan OJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui aktivitas khusus dari pemegang saham tertentu sebagaimana diatur dalam Peraturan OJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta belum memiliki rencana tindakan korporasi apa pun dalam tiga bulan mendatang yang bisa berdampak pada pencatatan sahamnya di bursa.",
+   "Soal pemegang saham utama, SGRO menyatakan telah mengkonfirmasi langsung dan sampai saat ini pemegang saham utama perseroan belum memiliki rencana mengubah kepemilikan sahamnya di SGRO. Surat ditandatangani Corporate Secretary M. Arif Widjaksono, dengan versi tanggapan resmi menyebut Direktur Kim Bang Hyun turut menandatangani, dan tembusan dikirim ke Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Palm oil plantation workers loading harvested fresh fruit bunches onto a truck under tropical midday sun",
+  "takeaway": "Laporan ini netral bagi fundamental SGRO, sebab isinya hanya penegasan standar bahwa tidak ada informasi material baru, bukan pengumuman aksi korporasi atau perubahan keuangan apa pun. Konteksnya yang justru perlu dicermati, surat ini muncul karena bursa melihat transaksi saham SGRO bergerak di luar kebiasaan, entah harga atau volumenya, meski tidak satu pun pos kinerja utama seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham disebut berubah dalam dokumen ini. Jenis surat seperti ini biasa diminta bursa saat ada lonjakan harga saham tanpa penjelasan fundamental, jadi bisa mengindikasikan transaksi yang didorong spekulasi pasar, bukan perubahan bisnis riil. Yang perlu dipantau pembaca berikutnya adalah apakah pergerakan harga saham SGRO mereda dalam waktu dekat, serta apakah perseroan benar-benar tidak melakukan tindakan korporasi dalam tiga bulan ke depan, yakni sampai sekitar akhir Januari 2027, seperti yang dinyatakan dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "dua-terminal-bus-ditawarkan-ke-investor-lewat-skema-kpbu",
   "category": "Bisnis",
   "title": "Dua Terminal Bus Ditawarkan ke Investor Lewat Skema [KPBU]",
@@ -29,6 +265,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
   "takeaway": "Yang berubah di sini bukan proyek yang sudah jadi, melainkan tahap awal penjajakan pasar sebelum pemerintah membuka lelang resmi dua terminal bus tipe A lewat skema KPBU, kerja sama di mana swasta membiayai pembangunan dan diberi hak mengelola selama puluhan tahun sebagai gantinya. Yang langsung terdampak adalah pelaku usaha transportasi, logistik, kontraktor, dan lembaga keuangan yang diundang memberi masukan soal struktur proyek dan pembagian risiko, karena masukan itu akan menentukan apakah dokumen lelang final menarik bagi mereka atau tidak. Terminal Purabaya di Surabaya menawarkan perkiraan keuntungan tahunan 13,33 persen selama 30 tahun kerja sama, sementara Betan Subing di Lampung menawarkan 12,52 persen selama 20 tahun, angka yang akan jadi pembanding utama investor sebelum memutuskan ikut lelang. Arahnya mengikuti pola pemerintah menambah daftar proyek KPBU infrastruktur transportasi secara bertahap, dan yang akan memastikan apakah kedua proyek ini benar-benar berjalan adalah terbitnya dokumen pengadaan resmi dan jadwal lelang dari Kementerian Perhubungan setelah masa penjaringan minat ini selesai.",
   "imageV": "mvjaro00"
+ },
+ {
+  "slug": "lucy-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "LUCY Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan penjelasan BEI atas lonjakan transaksi, PT Lima Dua Lima Tiga Tbk (LUCY) menegaskan tidak ada fakta material maupun rencana korporasi yang mendasarinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T15:37:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/96907ecc03_8dbdd59669.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LUCY",
+  "tags": [
+   "LUCY",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Lima Dua Lima Tiga Tbk (LUCY) menjawab permintaan penjelasan Bursa Efek Indonesia (BEI) soal lonjakan volatilitas transaksi sahamnya. Merujuk surat BEI nomor S-13281/BEI.PP3/10-2026 tanggal 21 Oktober 2026, perseroan mengirim tanggapan resmi lewat surat nomor B.026-Corpsec-LDLT-LUCY-X-2026 pada 22 Oktober 2026, yang ditandatangani Direktur Utama Hermansyah.",
+   "Dalam suratnya, LUCY menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik berdasarkan Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan BEI Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta tidak memiliki rencana aksi korporasi yang akan mempengaruhi status pencatatan sahamnya di bursa dalam tiga bulan mendatang, terhitung dari 22 Oktober 2026. Selain itu, perseroan menegaskan tidak ada informasi atau kejadian penting lain yang belum diungkapkan ke publik, dan pemegang saham utama disebut tidak memiliki rencana apa pun terkait kepemilikan sahamnya, baik secara langsung maupun tidak langsung.",
+   "Surat keterbukaan ini turut ditandatangani Sekretaris Perusahaan Ryad pada lampiran resminya, dan ditujukan kepada Kepala Divisi Pengawasan Transaksi BEI, Lidia M. Panjaitan. LUCY berkantor di DWB Tower lantai 5, Jalan Kebagusan 1 Kav 6, Pasar Minggu, Jakarta Selatan."
+  ],
+  "fotoAdegan": "Wide shot of the Indonesia Stock Exchange trading floor, blurred ticker boards in the background, people walking briskly, daytime light",
+  "takeaway": "Laporan ini netral bagi fundamental LUCY, karena Direktur Utama Hermansyah hanya menegaskan ulang bahwa tidak ada fakta material, rencana aksi korporasi, atau pergerakan pemegang saham utama yang melandasi lonjakan harga sahamnya, tanpa ada angka baru yang mengubah pos keuangan perusahaan. Permintaan penjelasan dari BEI biasanya dipicu oleh harga atau volume transaksi yang bergerak jauh di luar kebiasaan, sehingga jawaban 'tidak ada informasi' ini mengindikasikan pergerakan itu kemungkinan didorong spekulasi pasar, bukan perubahan ekuitas, arus kas, atau laba per saham yang memang tidak disentuh sama sekali dalam surat ini. Yang perlu dipantau berikutnya adalah apakah Bursa akan menambah pengawasan seperti notasi khusus jika volatilitas berlanjut, serta apakah pernyataan perseroan bahwa tidak ada aksi korporasi dalam tiga bulan ke depan sejak 22 Oktober 2026 benar-benar terpenuhi.",
+  "sentimen": "netral"
  },
  {
   "slug": "byan-tak-konfirmasi-transaksi-rp2-588-jb-pegang-30-25",
@@ -480,6 +742,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "pgun-laba-kuartal-iii-naik-34-piutang-berelasi-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "PGUN: Laba Kuartal III Naik 34%, [Piutang] Berelasi Melonjak",
+  "deck": "Laba bersih PGUN naik 33,5 persen jadi Rp135,4 miliar di sembilan bulan 2026, tapi arus kas operasi turun dan piutang ke pihak berelasi melonjak ke Rp211,4 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T09:16:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022093220-64512-0/FinancialStatement-2026-III-PGUN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGUN",
+  "tags": [
+   "PGUN",
+   "laporan keuangan",
+   "sawit",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Pradiksi Gunatama Tbk (PGUN) melaporkan penjualan bersih Rp566,1 miliar untuk sembilan bulan pertama 2026, naik dari Rp537,8 miliar pada periode yang sama tahun sebelumnya. Setelah beban pokok penjualan turun menjadi Rp325,8 miliar, laba kotor perusahaan sawit asal Kalimantan Timur ini mencapai Rp240,3 miliar, naik dari Rp199,6 miliar. Laba usaha naik dari Rp148,7 miliar menjadi Rp187,7 miliar, turut terdorong oleh keuntungan perubahan nilai wajar aset biologis sebesar Rp16,3 miliar, berbalik dari kerugian Rp6,1 miliar pada periode sebelumnya. Laba bersih periode berjalan tercatat Rp135,4 miliar, naik 33,5 persen dari Rp101,4 miliar, sehingga laba per saham dasar naik dari Rp17,68 menjadi Rp23,61.",
+   "Di sisi neraca, total aset perusahaan relatif stabil di Rp2,53 triliun per 30 September 2026, dari Rp2,52 triliun pada akhir 2025. Total liabilitas justru turun dari Rp602,1 miliar menjadi Rp513,1 miliar, terutama karena PGUN melunasi utang bank sebesar Rp102,99 miliar sepanjang sembilan bulan tersebut, menyisakan utang bank jangka pendek dan jangka panjang masing-masing Rp109,07 miliar dan Rp148,76 miliar. Penurunan liabilitas ini mengangkat ekuitas perusahaan dari Rp1,92 triliun menjadi Rp2,01 triliun. Perusahaan juga membagikan dividen Rp39,99 miliar pada periode ini, naik dari Rp11,88 miliar tahun sebelumnya.",
+   "Namun, arus kas bersih dari aktivitas operasi justru turun dari Rp262,56 miliar menjadi Rp165,58 miliar meski laba bersih naik. Penyebab utamanya adalah piutang usaha dari pihak berelasi yang melonjak dari Rp147,57 miliar menjadi Rp211,36 miliar, serta persediaan yang naik dari Rp41,34 miliar menjadi Rp77,68 miliar. Beban umum dan administrasi juga naik tajam dari Rp32,57 miliar menjadi Rp58,04 miliar. Kas dan setara kas akhir periode tercatat Rp7,51 miliar, sedikit naik dari Rp6,46 miliar di akhir 2025. Laporan keuangan interim ini tidak diaudit, ditandatangani oleh Direktur Utama Jonet Budiarto dan Direktur Keuangan Tamlikho pada 22 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers loading harvested oil palm fruit bunches onto a truck in a tropical plantation, overcast morning light",
+  "takeaway": "Laporan ini netral: laba bersih PGUN naik 33,5 persen dan utang bank berkurang signifikan, tapi arus kas dari operasi malah turun karena sebagian besar kenaikan penjualan belum berubah jadi uang tunai di tangan perusahaan. Yang tersentuh di sini adalah arus kas operasional dan piutang usaha pihak berelasi, dua pos yang dicermati investor karena menunjukkan apakah laba di atas kertas benar-benar jadi uang yang bisa dipakai perusahaan; piutang ke pihak berelasi yang melonjak ke Rp211,36 miliar berarti hampir separuh aset lancar PGUN masih berupa tagihan ke pihak terafiliasi, bukan kas di tangan. Laba per saham dasar yang naik dari Rp17,68 menjadi Rp23,61 juga sebagian terdorong oleh keuntungan nilai wajar aset biologis yang sifatnya pembukuan, bukan transaksi tunai. Yang perlu dipantau berikutnya adalah apakah piutang pihak berelasi ini mulai tertagih pada laporan kuartal mendatang, serta laporan keuangan tahunan auditan untuk tahun buku 2026 yang akan mengonfirmasi angka interim yang belum diaudit ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "fore-pendapatan-rp1-6-triliun-ebitda-naik-71-pada-9m26",
   "category": "Aksi Korporasi",
   "title": "FORE: Pendapatan Rp1,6 Triliun, [EBITDA] Naik 71% pada 9M26",
@@ -504,6 +792,58 @@ var ARTICLES = [
   "fotoAdegan": "A barista steaming milk behind the counter of a small modern coffee shop storefront on a busy Jakarta street, morning commuters passing by",
   "takeaway": "Laporan ini condong positif bagi FORE, sebab pertumbuhan pendapatan 53,3 persen dan laba bersih 49,7 persen itu dibarengi membaiknya efisiensi operasional, bukan cuma karena gerai bertambah. Yang paling layak diperhatikan adalah margin EBITDA, yakni seberapa besar laba operasional yang dihasilkan dari setiap rupiah pendapatan sebelum dipotong bunga, pajak, dan penyusutan aset, yang naik dari 19,3 persen jadi 21,4 persen, artinya setiap gerai kini menghasilkan laba lebih besar, bukan sekadar menambah omzet lewat jumlah gerai. Yang perlu dipantau berikutnya adalah apakah efisiensi ini bisa dipertahankan saat ekspansi makin masuk ke kota Tier 2 dan Tier 3 yang daya belinya umumnya lebih rendah dari Jakarta, serta bagaimana sisa dana hasil penawaran saham perdana 2025 benar-benar terserap untuk pengembangan Fore Donut dan modal kerja seperti yang disebutkan manajemen.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "adcp-panggil-rupslb-bahas-perombakan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Panggil RUPSLB Bahas [Perombakan] Direksi-Komisaris",
+  "deck": "Adhi Commuter Properti menjadwalkan RUPS Luar Biasa pada 13 November 2026 dengan satu agenda: perubahan susunan direksi dan dewan komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T08:33:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7678d6751f_473f831781.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADCP",
+  "tags": [
+   "ADCP",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "PT Adhi Commuter Properti Tbk (ADCP) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 13 November 2026, pukul 10.00 WIB di Kantor Pusat PT Adhi Karya (Persero) Tbk, Jalan Raya Pasar Minggu KM 18, Jakarta Selatan. Rapat ini hanya membawa satu mata acara, yaitu perubahan susunan direksi dan dewan komisaris perseroan. Pemanggilan ini merupakan tindak lanjut dari pemberitahuan rencana RUPS yang sudah diumumkan perseroan pada 7 Oktober 2026 melalui situs web Bursa Efek Indonesia, situs web perseroan, dan situs web KSEI.",
+   "Dalam penjelasan agenda, direksi menyebut perubahan pengurus ini merujuk pada Pasal 11 ayat 10 dan Pasal 14 ayat 12 Anggaran Dasar perseroan, yang menyatakan bahwa pengangkatan dan pemberhentian anggota direksi maupun dewan komisaris memang menjadi kewenangan RUPS. Dokumen pemanggilan belum mencantumkan nama calon yang akan diangkat atau diberhentikan, sehingga susunan pengurus baru baru bisa diketahui publik setelah rapat berlangsung.",
+   "Pemegang saham yang berhak hadir dan memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per 21 Oktober 2026. Karena pengumuman ini sekaligus berfungsi sebagai undangan resmi sesuai Pasal 82 ayat 2 UU Perseroan Terbatas, perseroan tidak mengirim undangan terpisah ke masing-masing pemegang saham. Bagi yang berhalangan hadir secara fisik, perseroan mendorong pemberian kuasa elektronik melalui sistem eASY.KSEI atau kuasa tertulis kepada pihak independen, sesuai ketentuan POJK Nomor 15/POJK.04/2020."
+  ],
+  "fotoAdegan": "Exterior of a modern transit-oriented apartment and office complex beside a commuter train station platform in Jakarta, daytime",
+  "takeaway": "Laporan ini netral bagi ADCP, sebab pemanggilan RUPSLB untuk mengganti direksi dan komisaris adalah mekanisme tata kelola yang rutin terjadi di perusahaan terbuka, dan belum ada nama calon pengurus baru yang bisa dinilai arahnya. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan governance, yaitu siapa yang mengambil keputusan strategis sehari-hari di perseroan, dan pelaku pasar biasanya mencermati pergantian ini karena bisa mengubah arah proyek properti berbasis stasiun kereta yang menjadi bisnis inti ADCP. Yang perlu dipantau selanjutnya adalah pelaksanaan RUPSLB pada 13 November 2026, saat nama-nama direksi dan komisaris baru resmi diumumkan dan publik baru bisa menilai rekam jejak serta arah strategi yang mereka bawa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fore-liabilitas-melonjak-25-7-imbas-sewa-gerai-baru",
+  "category": "Aksi Korporasi",
+  "title": "FORE: Liabilitas Melonjak 25,7% Imbas [Sewa] Gerai Baru",
+  "deck": "Liabilitas FORE naik 25,7 persen jadi Rp602,88 miliar per September 2026, terutama dari liabilitas sewa gerai baru, akrual beban, dan utang pajak yang membesar seiring ekspansi usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T08:26:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022013903-64777-0/FinancialStatement-2026-III-FORE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORE",
+  "tags": [
+   "FORE",
+   "laporan keuangan",
+   "liabilitas",
+   "ekspansi usaha"
+  ],
+  "body": [
+   "PT Fore Kopi Indonesia Tbk (FORE) melaporkan keuangan interim tidak diaudit untuk sembilan bulan yang berakhir 30 September 2026. Total aset perusahaan naik dari Rp1,16 triliun pada akhir 2025 menjadi Rp1,37 triliun. Ekuitas bertambah dari Rp680,59 miliar menjadi Rp771,48 miliar, seluruhnya berasal dari akumulasi laba periode berjalan karena tidak ada penerbitan saham baru pada periode ini, berbeda dari periode yang sama tahun lalu saat perusahaan baru saja mencatatkan saham perdana senilai Rp353,44 miliar.",
+   "Yang menarik dari laporan ini adalah surat penjelasan resmi Direktur Tjhong Pie Chen kepada OJK dan Bursa Efek Indonesia, yang wajib disampaikan karena kenaikan total liabilitas melebihi ambang 20 persen. Total liabilitas naik Rp123,29 miliar atau 25,7 persen, dari Rp479,58 miliar menjadi Rp602,88 miliar. Tiga pos utama penyebabnya disebutkan dengan rinci: liabilitas sewa naik 33,6 persen atau Rp67,74 miliar, dari Rp201,9 miliar menjadi Rp269,63 miliar, akibat penambahan kedai kopi dan gerai donat di berbagai kota di Indonesia serta di Singapura. Beban akrual naik 50,7 persen atau Rp22,59 miliar, dari Rp44,53 miliar menjadi Rp67,12 miliar, terutama dari akrual kompensasi karyawan kontrak, tunjangan hari raya Natal, dan biaya operasional lain. Utang pajak naik 34,7 persen atau Rp11,85 miliar, dari Rp34,19 miliar menjadi Rp46,04 miliar, sejalan dengan kenaikan Pajak Barang dan Jasa Tertentu atas makanan dan minuman serta Pajak Penghasilan Badan.",
+   "Dari sisi arus kas, kas dan setara kas FORE turun dari Rp327,53 miliar di awal tahun menjadi Rp233,25 miliar pada akhir September, meski arus kas dari aktivitas operasi positif Rp279,71 miliar, naik dari Rp161,92 miliar pada periode yang sama tahun lalu. Penurunan kas terjadi karena perusahaan membayar liabilitas sewa Rp152,14 miliar, bunga dan beban keuangan Rp16,22 miliar, serta mencicil pinjaman bank jangka panjang Rp8,18 miliar, di luar belanja modal Rp190,67 miliar untuk perluasan gerai. Beban keuangan di laporan laba rugi juga naik dari Rp11,99 miliar menjadi Rp14,66 miliar. Rasio total liabilitas terhadap ekuitas naik dari 0,62 kali pada September tahun lalu menjadi 0,78 kali, sementara rasio aset lancar terhadap liabilitas jangka pendek turun dari 1,57 kali menjadi 1,07 kali."
+  ],
+  "fotoAdegan": "Baristas preparing coffee orders behind a busy counter in a small modern coffee shop, morning customers queuing, warm indoor lighting",
+  "takeaway": "Laporan ini condong netral bagi FORE: kenaikan liabilitas 25,7 persen memang besar, tapi sumber utamanya adalah liabilitas sewa gerai baru yang menyertai ekspansi usaha, bukan utang berbunga yang membengkak tanpa alasan jelas. Yang perlu diperhatikan pelaku pasar adalah dua pos ini, rasio liabilitas terhadap ekuitas yang naik dari 0,62 kali jadi 0,78 kali menunjukkan perusahaan kini lebih banyak mengandalkan kewajiban dibanding modal sendiri untuk membiayai operasinya, sementara rasio aset lancar terhadap liabilitas jangka pendek yang turun dari 1,57 kali jadi 1,07 kali berarti bantalan kas dan aset cair untuk menutup kewajiban jangka pendek makin menipis meski masih di atas satu kali. Arus kas operasi yang tetap positif dan tumbuh dari tahun lalu menjadi penyeimbang, menunjukkan bisnis inti masih menghasilkan uang tunai meski kas akhir periode turun karena pembayaran sewa dan belanja ekspansi. Yang pantas dipantau selanjutnya adalah apakah rasio likuiditas ini terus menyusut pada laporan kuartal berikutnya, serta laporan keuangan tahunan teraudit per 31 Desember 2026 yang akan mengonfirmasi arah tren leverage ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "bbri-siapkan-buyback-saham-rp1-triliun-rampung-3-bulan",

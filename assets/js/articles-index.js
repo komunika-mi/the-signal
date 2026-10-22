@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "vktr-r-perdagangan-hmetd-berakhir-23-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "VKTR-R: Perdagangan [HMETD] Berakhir 23 Oktober 2026",
+  "deck": "BEI mengingatkan masa perdagangan HMETD VKTR Teknologi Mobilitas berakhir 23 Oktober 2026, efek dicabut dari pencatatan mulai 26 Oktober 2026.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VKTR",
+   "HMETD",
+   "Rights Issue",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan VKTR-R261023-No. Peng-00202BEI.POP10-2026.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "msin-gelar-public-expose-insidentil-atas-permintaan-bursa",
+  "category": "Aksi Korporasi",
+  "title": "MSIN Gelar Public Expose Insidentil atas Permintaan [Bursa]",
+  "deck": "PT MNC Digital Entertainment Tbk akan menggelar public expose insidentil secara daring pada 26 Oktober 2026, setelah diminta Bursa Efek Indonesia.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSIN",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "MNC Digital Entertainment"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fb96a13f4_70f543a467.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "konservasi-laut-ri-capai-31-6-juta-hektare-per-oktober-2026",
   "category": "Industri",
   "title": "Konservasi Laut RI [Capai] 31,6 Juta Hektare per Oktober 2026",
@@ -21,6 +53,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Kelautan dan Perikanan",
   "sourceUrl": "https://kkp.go.id/news/news-detail/dua-tahun-prabowo-gibran-kkp-perkuat-konservasi-laut-dan-pengawasan-iuu-fishing-gnRY.html",
   "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "iiff-koreksi-laporan-realisasi-dana-obligasi-tahap-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Koreksi Laporan Realisasi Dana Obligasi [Tahap I] 2026",
+  "deck": "PT Indonesia Infrastructure Finance mengoreksi laporan realisasi penggunaan dana Obligasi Berkelanjutan III Tahap I 2026 ke BEI, tanpa dampak terhadap operasional atau keuangan.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IIFF",
+   "obligasi",
+   "pasar modal",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dbe32ad161_252af610d2.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "investasi-era-presiden-prabowo-tembus-rp3-923-triliun",
@@ -61,6 +109,54 @@ var ARTICLES = [
   "tags": [],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/implementasi-indonesia-canada-cepa-pada-1-desember-2026-mendag-busan-optimistis-ekspor-ke-kanada-menguat",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "dewa-bentuk-anak-usaha-baru-di-bidang-logistik",
+  "category": "Aksi Korporasi",
+  "title": "DEWA Bentuk Anak Usaha Baru di Bidang [Logistik]",
+  "deck": "Darma Henwa Tbk mendirikan anak usaha baru PT DH Logistik di Jakarta Selatan untuk memperluas bisnis ke jasa pengurusan transportasi dan logistik.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWA",
+   "Darma Henwa",
+   "anak usaha",
+   "logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/59e5a46512_2c70e29b5b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mika-bantah-ada-info-material-tegaskan-program-buyback-lanjut",
+  "category": "Aksi Korporasi",
+  "title": "MIKA Bantah Ada Info Material, Tegaskan Program [Buyback] Lanjut",
+  "deck": "Menjawab permintaan penjelasan volatilitas dari BEI, Mitra Keluarga Karyasehat memastikan tidak ada info material tersembunyi dan program buyback Rp1 triliun tetap berjalan.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MIKA",
+   "volatilitas saham",
+   "buyback saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6301951d61_fd64b7edca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kdtn-catat-laba-9-bulan-naik-6-kali-utang-bank-lunas",
+  "category": "Aksi Korporasi",
+  "title": "KDTN Catat Laba 9 Bulan Naik 6 Kali, Utang Bank [Lunas]",
+  "deck": "Pendapatan KDTN naik 32 persen dan laba melonjak ke Rp3,53 miliar pada kuartal III 2026, sementara seluruh utang bank perusahaan sudah lunas.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "laporan keuangan",
+   "utang bank",
+   "corporate secretary"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022175456-64620-0/FinancialStatement-2026-III-KDTN.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "wifi-rombak-direksi-dan-komisaris-tambah-kbli-konstruksi",
@@ -421,6 +517,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "strk-calon-pengendali-baru-negosiasi-ambil-alih-61-87-saham",
+  "category": "Aksi Korporasi",
+  "title": "STRK: Calon Pengendali Baru Negosiasi Ambil Alih [61,87%] Saham",
+  "deck": "PT Beruntung Berkat Sejahtera bernegosiasi membeli 6,63 miliar saham STRK dari PT Barito Mas Sukses, berpotensi menjadi pengendali baru perseroan.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "STRK",
+   "pengambilalihan",
+   "akuisisi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc3ee88a0b_45690de7ce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ratu-jawab-permintaan-bursa-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "RATU Jawab Permintaan Bursa soal [Volatilitas] Saham",
@@ -599,6 +711,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ammn-siapkan-buyback-saham-rp1-triliun-di-tengah-gejolak-pasar",
+  "category": "Aksi Korporasi",
+  "title": "AMMN Siapkan Buyback [Saham] Rp1 Triliun di Tengah Gejolak Pasar",
+  "deck": "Amman Mineral berencana membeli kembali sahamnya hingga Rp1 triliun dalam tiga bulan, memanfaatkan aturan OJK untuk kondisi pasar yang berfluktuasi signifikan.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMMN",
+   "buyback saham",
+   "Amman Mineral",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f321a94491_f8dbf746f2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bbri-siapkan-buyback-saham-rp1-triliun-rampung-3-bulan",
   "category": "Aksi Korporasi",
   "title": "BBRI Siapkan [Buyback] Saham Rp1 Triliun, Rampung 3 Bulan",
@@ -659,6 +787,54 @@ var ARTICLES = [
    "Bank IBK Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae3f7cd540_47d1f48bce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dcii-aset-naik-51-liabilitas-melonjak-karena-utang-baru",
+  "category": "Aksi Korporasi",
+  "title": "DCII: Aset Naik 51%, Liabilitas Melonjak karena [Utang] Baru",
+  "deck": "Laporan keuangan interim kuartal III DCI Indonesia menunjukkan aset naik 51,4 persen dan liabilitas melonjak 94,5 persen akibat pinjaman bank baru untuk ekspansi pusat data.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DCII",
+   "laporan keuangan",
+   "pusat data",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022102534-64721-0/FinancialStatement-2026-III-DCII.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "yule-laba-kuartal-iii-naik-27-ambil-utang-bank-rp100-m",
+  "category": "Aksi Korporasi",
+  "title": "YULE: Laba Kuartal III Naik 27%, Ambil [Utang Bank] Rp100 M",
+  "deck": "Laba bersih sembilan bulan YULE naik 27 persen jadi Rp22,68 miliar, tapi kas menyusut tajam dan perseroan menambah utang bank Rp100 miliar untuk mendanai perdagangan efek.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YULE",
+   "sekuritas",
+   "laporan keuangan",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022023320-64483-0/FinancialStatement-2026-III-YULE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unvr-bayar-dividen-rp4-33-triliun-laba-9-bulan-naik-26",
+  "category": "Aksi Korporasi",
+  "title": "UNVR Bayar [Dividen] Rp4,33 Triliun, Laba 9 Bulan Naik 26%",
+  "deck": "Laba bersih Unilever Indonesia naik 26 persen jadi Rp4,2 triliun dalam sembilan bulan, ditopang gain divestasi, sementara dividen jumbo menggerus kas dan ekuitas perseroan.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNVR",
+   "laporan keuangan",
+   "dividen",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022080911-64567-0/FinancialStatement-2026-III-UNVR.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6310,181 +6486,5 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822226.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "tapg-pastikan-karhutla-tak-ganggu-produksi-sawit",
-  "category": "Aksi Korporasi",
-  "title": "TAPG Pastikan [Karhutla] Tak Ganggu Produksi Sawit",
-  "deck": "Triputra Agro Persada menanggapi permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan, menyatakan belum ada area operasional yang terdampak.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "karhutla",
-   "kelapa sawit",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de442bb85b_b9566fa18f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tldn-tegaskan-karhutla-tak-ganggu-produksi-sawit-kaltim",
-  "category": "Aksi Korporasi",
-  "title": "TLDN Tegaskan [Karhutla] Tak Ganggu Produksi Sawit Kaltim",
-  "deck": "Merespons surat permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan, TLDN menyatakan produksi dan pendapatannya di Kalimantan Timur belum terganggu.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLDN",
-   "karhutla",
-   "kelapa sawit",
-   "Kalimantan Timur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9091e9f2fa_1a0a2b8a2f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pidl-pastikan-karhutla-tak-ganggu-produksi-di-4-lokasi",
-  "category": "Aksi Korporasi",
-  "title": "PIDL Pastikan [Karhutla] Tak Ganggu Produksi di 4 Lokasi",
-  "deck": "PIDL menjawab permintaan penjelasan Bursa soal dampak karhutla, menyebut operasional di Karawang, Perawang, Jambi, dan Kalimantan Timur tetap berjalan normal.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIDL",
-   "karhutla",
-   "Bursa Efek Indonesia",
-   "pulp dan kertas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8b703c1e8d_e2661d6231.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-pastikan-karhutla-tak-ganggu-operasional-pabrik-di-jambi",
-  "category": "Aksi Korporasi",
-  "title": "LPPI Pastikan Karhutla Tak Ganggu [Operasional] Pabrik di Jambi",
-  "deck": "LPPI menjawab permintaan penjelasan Bursa terkait dampak karhutla, menegaskan operasional dan target produksi 2026 di Jambi tidak terganggu.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "karhutla",
-   "pulp dan kertas",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ed5824ab80_513cd58558.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-rampungkan-investasi-proyek-ca-edc-bersama-danantara-ina",
-  "category": "Aksi Korporasi",
-  "title": "TPIA [Rampungkan] Investasi Proyek CA-EDC Bersama Danantara-INA",
-  "deck": "Chandra Asri Pacific lewat anak usahanya merampungkan transaksi investasi strategis proyek kimia CA-EDC bersama Danantara Investment Management dan Indonesia Investment Authority.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "Chandra Asri",
-   "CA-EDC",
-   "Danantara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6acdea1505_9d1b0347e1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "staa-pastikan-tak-ada-dampak-karhutla-ke-operasional-dan-laba",
-  "category": "Aksi Korporasi",
-  "title": "STAA Pastikan Tak Ada Dampak [Karhutla] ke Operasional dan Laba",
-  "deck": "Menjawab permintaan penjelasan Bursa, STAA menyatakan tidak ada kebakaran hutan dan lahan di area operasionalnya sehingga produksi dan keuangan tahun 2026 berjalan normal.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "STAA",
-   "karhutla",
-   "kelapa sawit",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d90568dce_6d3b9fdfbd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "andi-jawab-bei-soal-karhutla-dampak-ke-produksi-belum-jelas",
-  "category": "Aksi Korporasi",
-  "title": "ANDI jawab BEI soal [karhutla], dampak ke produksi belum jelas",
-  "deck": "Andira Agro menjelaskan ke BEI bahwa seluruh produksi dan pendapatannya berasal dari satu lokasi perkebunan di Sumatera Selatan yang berisiko terdampak kebakaran hutan dan lahan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANDI",
-   "karhutla",
-   "keterbukaan informasi",
-   "perkebunan sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5b5ef493c6_3e70b871eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-rencanakan-stock-split-1-5-rupslb-23-november",
-  "category": "Aksi Korporasi",
-  "title": "PRDA Rencanakan [Stock Split] 1:5, RUPSLB 23 November",
-  "deck": "Prodia Widyahusada berencana memecah saham dengan rasio 1:5, menambah jumlah saham beredar dari 937,5 juta menjadi hampir 4,7 miliar lembar. Persetujuan dimintakan dalam RUPSLB 23 November 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "stock split",
-   "RUPSLB",
-   "Prodia Widyahusada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f6f5f3792c_752572ef7c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-pastikan-operasi-blok-migasnya-tak-terdampak-karhutla",
-  "category": "Aksi Korporasi",
-  "title": "RATU Pastikan Operasi Blok Migasnya [Tak Terdampak] Karhutla",
-  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, RATU memastikan seluruh blok migas tempat perusahaan memiliki hak partisipasi beroperasi normal tanpa revisi target produksi 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "Raharja Energi Cepu",
-   "karhutla",
-   "SKK Migas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2551990ac_bd47d81e4a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-cani-dapat-tambahan-kriteria-pemantauan-khusus",
-  "category": "Aksi Korporasi",
-  "title": "Saham CANI Dapat Tambahan Kriteria [Pemantauan Khusus]",
-  "deck": "BEI mengoreksi pengumuman sebelumnya dan menambahkan kriteria opini disclaimer pada status pemantauan khusus saham CANI, yang sebelumnya sudah berstatus ekuitas negatif.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CANI",
-   "pemantauan khusus",
-   "BEI",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e572107494_4ddd5ce914.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oppm-pastikan-karhutla-sumsel-tak-ganggu-produksi",
-  "category": "Aksi Korporasi",
-  "title": "OPPM Pastikan Karhutla Sumsel Tak Ganggu [Produksi]",
-  "deck": "Menjawab permintaan BEI, OPPM menyatakan kebakaran hutan di Sumatera Selatan tidak mengganggu operasi, target produksi, pendapatan, laba, maupun aset perusahaan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OPPM",
-   "karhutla",
-   "pulp dan kertas",
-   "Sumatera Selatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/91a8b3cfc4_d2e4bf752f.pdf",
-  "sourceLabel": "IDX"
  }
 ];

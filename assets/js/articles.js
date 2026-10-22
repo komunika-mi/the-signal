@@ -3,6 +3,57 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "vktr-r-perdagangan-hmetd-berakhir-23-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "VKTR-R: Perdagangan [HMETD] Berakhir 23 Oktober 2026",
+  "deck": "BEI mengingatkan masa perdagangan HMETD VKTR Teknologi Mobilitas berakhir 23 Oktober 2026, efek dicabut dari pencatatan mulai 26 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T19:05:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan VKTR-R261023-No. Peng-00202BEI.POP10-2026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VKTR-R",
+  "tags": [
+   "VKTR",
+   "HMETD",
+   "Rights Issue",
+   "BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mengeluarkan pengumuman bernomor Peng-00202/BEI.POP/10-2026 pada 22 Oktober 2026 yang mengingatkan batas akhir perdagangan Hak Memesan Efek Terlebih Dahulu (HMETD) dengan kode VKTR-R milik VKTR Teknologi Mobilitas Tbk, yang tercatat di Papan Pengembangan BEI. Pengumuman ini merujuk pada keterangan BEI sebelumnya, Peng-P-01018/BEI.PP3/10-2026 tanggal 9 Oktober 2026, mengenai pencatatan efek bersifat ekuitas dan pra pencatatan saham baru VKTR dari aksi rights issue tersebut.",
+   "BEI menegaskan bahwa masa perdagangan HMETD VKTR-R berlangsung dari 12 Oktober 2026 sampai 23 Oktober 2026. Artinya, pemegang HMETD yang ingin menjual haknya di pasar harus menyelesaikan transaksi sebelum tanggal tersebut. Terhitung mulai 26 Oktober 2026, VKTR-R tidak lagi diperdagangkan dan dikeluarkan dari daftar efek yang tercatat di BEI, sehingga hak yang belum dijual pada periode itu tidak lagi bisa ditransaksikan di pasar reguler."
+  ],
+  "fotoAdegan": "Workers assembling an electric bus chassis on a factory floor under industrial lighting, overhead cranes nearby",
+  "takeaway": "Pengumuman ini netral bagi fundamental VKTR, karena isinya sebatas jadwal teknis bursa untuk hak rights issue yang sudah diumumkan lebih dulu, tanpa data baru soal besaran dana yang terkumpul atau porsi hak yang benar-benar diserap investor. Pos yang tersentuh adalah jumlah saham beredar perseroan, sebab setiap HMETD yang dieksekusi investor akan menambah saham baru VKTR di pasar, dan saham baru ini bisa membuat laba per saham, yaitu keuntungan perusahaan dibagi jumlah lembar saham, menjadi lebih kecil karena kuenya terbagi ke lebih banyak pemegang. Yang perlu dipantau selanjutnya adalah hasil akhir eksekusi HMETD ini, termasuk berapa besar porsi hak yang terjual atau ditebus sebelum tenggat 23 Oktober 2026, serta pengumuman resmi BEI soal pencatatan saham baru VKTR setelah HMETD ini dicabut dari perdagangan pada 26 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "msin-gelar-public-expose-insidentil-atas-permintaan-bursa",
+  "category": "Aksi Korporasi",
+  "title": "MSIN Gelar Public Expose Insidentil atas Permintaan [Bursa]",
+  "deck": "PT MNC Digital Entertainment Tbk akan menggelar public expose insidentil secara daring pada 26 Oktober 2026, setelah diminta Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T18:40:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fb96a13f4_70f543a467.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSIN",
+  "tags": [
+   "MSIN",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "MNC Digital Entertainment"
+  ],
+  "body": [
+   "PT MNC Digital Entertainment Tbk (MSIN) mengumumkan rencana penyelenggaraan public expose insidentil yang digelar bukan atas inisiatif sendiri, melainkan menyusul permintaan resmi Bursa Efek Indonesia (BEI). Permintaan itu disampaikan BEI kepada perseroan pada 21 Oktober 2026, merujuk pada pengumuman bursa Nomor Peng-SPT-00216/BEI.WAS/10-2026 tertanggal 20 Oktober 2026.",
+   "Acara akan berlangsung secara daring pada Senin, 26 Oktober 2026, pukul 10.30 WIB sampai selesai, melalui platform Zoom webinar yang tautan pendaftarannya sudah dicantumkan dalam surat kepada BEI. Agenda yang dijanjikan mencakup tiga hal, yaitu kinerja keuangan perseroan, kondisi bisnis terkini, serta rencana bisnis ke depan.",
+   "Surat pemberitahuan bernomor 305/MDE-CORSEC/X/2026 ini ditandatangani oleh Ahmad Alhafiz selaku Corporate Secretary MSIN, pada 22 Oktober 2026 pukul 18.40 WIB."
+  ],
+  "fotoAdegan": "Camera operators filming inside a television production studio with bright stage lighting and large lens equipment",
+  "takeaway": "Laporan ini sendiri netral, karena baru memberitahukan rencana pertemuan dan belum memuat angka kinerja apa pun yang bisa dinilai. Yang penting dicatat, public expose ini digelar bukan atas inisiatif MNC Digital Entertainment, melainkan atas permintaan resmi Bursa Efek Indonesia, sehingga pasar akan mencermati isi paparan nanti sebagai sinyal sesungguhnya soal arah bisnis perseroan. Agenda yang dijanjikan, yakni kinerja keuangan, kondisi bisnis terkini, dan rencana bisnis ke depan, langsung berkaitan dengan bagaimana investor menilai prospek laba dan arus kas perusahaan media ini. Yang perlu dipantau adalah paparan publik itu sendiri pada Senin, 26 Oktober 2026 pukul 10.30 WIB secara daring, karena di sanalah rincian kinerja dan rencana bisnis yang sebenarnya baru akan terungkap.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "konservasi-laut-ri-capai-31-6-juta-hektare-per-oktober-2026",
   "category": "Industri",
   "title": "Konservasi Laut RI [Capai] 31,6 Juta Hektare per Oktober 2026",
@@ -29,6 +80,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Kelautan dan Perikanan",
   "takeaway": "Angka yang paling mencolok di rilis ini adalah lonjakan kapal pencuri ikan yang ditangkap, dari 88 kapal pada 2024 menjadi 355 kapal pada 2025, naik lebih dari empat kali lipat dalam setahun. Tapi hingga September 2026, baru 154 kapal yang tertangkap dalam sembilan bulan, jumlah yang kalau disetarakan setahun penuh justru lebih rendah dari laju 2025. Ini bisa berarti penindakan memang berhasil menekan jumlah kapal ilegal yang beroperasi, atau sekadar menunjukkan perlambatan dari lonjakan tahun sebelumnya, dan data yang ada belum cukup untuk memastikan mana yang benar. Yang akan menjawabnya adalah angka penangkapan kapal ilegal sepanjang kuartal terakhir 2026, yang baru akan diketahui awal 2027. Soal luas kawasan konservasi yang disebut sudah mencapai 31,6 juta hektare, siaran pers ini tidak menyebut berapa target akhir pemerintah, sehingga belum bisa dinilai apakah pencapaian itu sudah mendekati target atau masih jauh dari rencana semula.",
   "imageV": "mvjg6ep1"
+ },
+ {
+  "slug": "iiff-koreksi-laporan-realisasi-dana-obligasi-tahap-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Koreksi Laporan Realisasi Dana Obligasi [Tahap I] 2026",
+  "deck": "PT Indonesia Infrastructure Finance mengoreksi laporan realisasi penggunaan dana Obligasi Berkelanjutan III Tahap I 2026 ke BEI, tanpa dampak terhadap operasional atau keuangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T18:10:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dbe32ad161_252af610d2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IIFF",
+  "tags": [
+   "IIFF",
+   "obligasi",
+   "pasar modal",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Indonesia Infrastructure Finance (IIFF) menyampaikan surat koreksi ke Bursa Efek Indonesia atas laporan realisasi penggunaan dana Obligasi Berkelanjutan III IIFF Tahap I Tahun 2026 yang sebelumnya dikirim pada 7 Oktober 2026. Koreksi bernomor surat S.1560/X/IIF/2026 ini disampaikan pada 22 Oktober 2026 pukul 18.10 WIB dan ditandatangani oleh Suli Indah Lestari, Head of Legal and Corporate Secretary IIFF.",
+   "Laporan yang dikoreksi merujuk pada Peraturan OJK No.30/POJK.04/2015 tentang Laporan Hasil Penggunaan Dana Hasil Penawaran Umum, yang mewajibkan emiten melaporkan secara berkala bagaimana dana dari penerbitan obligasi dipakai sesuai rencana yang dijanjikan kepada investor saat penawaran umum. Dokumen asal yang dikoreksi ditandatangani pada 2 Oktober 2026 oleh Eri Wibowo, Direktur Keuangan dan Direktur Investasi Sementara IIFF, dan ditujukan langsung kepada Direktur Penilaian Perusahaan BEI.",
+   "Dalam suratnya, IIFF menyatakan bahwa koreksi maupun laporan realisasi ini tidak berdampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan. Laporan ini terbit tidak lama setelah IIFF mencatatkan penerbitan obligasi senilai Rp1,7 triliun dengan kupon tertinggi 7,6 persen pada 21 Oktober 2026."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's SCBD financial district viewed from a wide avenue at dusk, traffic lights streaking below",
+  "takeaway": "Laporan koreksi ini netral bagi fundamental IIFF, karena isinya murni memperbaiki administrasi surat sebelumnya dan perusahaan menegaskan tidak ada dampak pada operasional, hukum, atau kondisi keuangan. Yang disentuh adalah transparansi arus kas, yaitu kewajiban emiten obligasi melaporkan ke bursa bagaimana dana hasil penerbitan surat utang benar-benar dibelanjakan sesuai rencana penggunaan yang dijanjikan ke investor. Kewajiban pelaporan semacam ini penting sebagai alat kontrol agar dana publik tidak dipakai di luar tujuan yang disetujui saat penawaran umum. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana tahap selanjutnya dari Obligasi Berkelanjutan III IIFF, mengingat perusahaan baru saja mencatatkan penerbitan obligasi baru senilai Rp1,7 triliun pada 21 Oktober 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "investasi-era-presiden-prabowo-tembus-rp3-923-triliun",
@@ -104,6 +181,85 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah Kanada menghapus tarif untuk 90,55 persen pos tarifnya bagi produk Indonesia mulai 1 Desember 2026, sementara siaran pers ini tidak menyebutkan berapa persen tarif yang dibuka Indonesia untuk balasannya. Pihak yang langsung terdampak adalah eksportir produk mesin dan elektronik, karet, alas kaki, dan tekstil yang bisa menjual lebih murah ke Kanada, serta importir gandum, pupuk, dan bahan bakar dari Kanada yang nilainya sudah lebih dari dua kali lipat ekspor Indonesia ke sana. Arah yang bisa dibaca dari pola dagang delapan tahun terakhir adalah Indonesia berangkat dari posisi defisit, sehingga pembukaan tarif ini punya dua kemungkinan, memperbesar ekspor Indonesia dan mengecilkan selisih itu, atau justru mempermudah impor Kanada masuk lebih banyak jika pelaku usaha Indonesia lambat memanfaatkan fasilitas tarif. Yang akan menjawabnya adalah data realisasi ekspor-impor pasca 1 Desember 2026 serta sosialisasi ketentuan asal barang yang dijanjikan Kementerian Perdagangan kepada pelaku usaha."
+ },
+ {
+  "slug": "dewa-bentuk-anak-usaha-baru-di-bidang-logistik",
+  "category": "Aksi Korporasi",
+  "title": "DEWA Bentuk Anak Usaha Baru di Bidang [Logistik]",
+  "deck": "Darma Henwa Tbk mendirikan anak usaha baru PT DH Logistik di Jakarta Selatan untuk memperluas bisnis ke jasa pengurusan transportasi dan logistik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T18:03:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/59e5a46512_2c70e29b5b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWA",
+  "tags": [
+   "DEWA",
+   "Darma Henwa",
+   "anak usaha",
+   "logistik"
+  ],
+  "body": [
+   "PT Darma Henwa Tbk (DEWA) mengumumkan pendirian anak perusahaan baru bernama PT DH Logistik pada 22 Oktober 2026. Perusahaan ini berkedudukan di Jakarta Selatan dan bergerak di bidang jasa pengurusan transportasi, yaitu pengorganisasian pengiriman atau pengepakan barang dalam volume besar melalui angkutan kereta api, darat, laut, maupun udara. Kegiatan usahanya juga mencakup pengiriman barang secara kelompok maupun individu atas nama klien, tetapi tidak mencakup pengemasan barang yang dilakukan pihak ketiga atas dasar kontrak.",
+   "Struktur kepemilikan DH Logistik terbagi antara DEWA yang menguasai 99,90 persen saham, dan PT Cipta Multi Prima yang memegang sisanya sebesar 0,10 persen. Dalam dokumen keterbukaan informasi yang ditandatangani Mukson Arif Rosyidi selaku Director and Corporate Secretary DEWA, perusahaan menyebut pendirian anak usaha ini sebagai bagian dari strategi pengembangan usaha dan investasi untuk memperluas lini bisnis ke sektor logistik serta memperkuat struktur usaha melalui anak perusahaan.",
+   "DEWA menyatakan langkah ini diharapkan mendukung keberlangsungan usaha jangka panjang dengan menciptakan sumber pendapatan baru di masa depan. Dokumen tersebut tidak menyebutkan nilai modal yang disetorkan ke DH Logistik maupun target pendapatan dari lini usaha baru ini."
+  ],
+  "fotoAdegan": "Workers loading cargo boxes onto a truck at a logistics warehouse yard, forklift nearby, daylight",
+  "takeaway": "Laporan ini netral bagi DEWA, sebab pendirian anak usaha baru belum disertai angka investasi atau target pendapatan yang bisa dihitung dampaknya terhadap kinerja perusahaan. Pos yang tersentuh ke depan adalah ekuitas, yaitu modal yang ditanam pemilik ke dalam usaha, karena begitu DEWA menyuntikkan dana ke DH Logistik, itu akan mengurangi kas DEWA tapi menambah nilai investasinya pada anak usaha. Arus kas DEWA juga perlu dicermati kalau penyertaan modal itu nanti direalisasikan dalam jumlah besar. Yang perlu dipantau berikutnya adalah pengumuman berapa modal yang disetor ke DH Logistik dan kapan unit usaha itu mulai beroperasi serta mulai menyumbang pendapatan, karena dokumen ini belum menyebutkan keduanya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mika-bantah-ada-info-material-tegaskan-program-buyback-lanjut",
+  "category": "Aksi Korporasi",
+  "title": "MIKA Bantah Ada Info Material, Tegaskan Program [Buyback] Lanjut",
+  "deck": "Menjawab permintaan penjelasan volatilitas dari BEI, Mitra Keluarga Karyasehat memastikan tidak ada info material tersembunyi dan program buyback Rp1 triliun tetap berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T17:59:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6301951d61_fd64b7edca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MIKA",
+  "tags": [
+   "MIKA",
+   "volatilitas saham",
+   "buyback saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Mitra Keluarga Karyasehat Tbk (MIKA) merespons surat Bursa Efek Indonesia nomor S-13312/BEI.PP2/10-2026 tanggal 21 Oktober 2026 yang meminta penjelasan atas volatilitas transaksi saham perusahaan. Dalam surat balasan bernomor 110/MIKA-X/2026 tertanggal 22 Oktober 2026, Direktur dan Corporate Secretary MIKA, Joyce V. Handajani, menyatakan perusahaan tidak mengetahui adanya aktivitas pemegang saham tertentu selain yang sudah dilaporkan sesuai aturan, serta tidak memiliki informasi atau fakta material yang dapat memengaruhi harga saham maupun keputusan investasi pemodal yang belum diungkapkan ke publik.",
+   "Perusahaan juga menegaskan telah mengonfirmasi langsung kepada pemegang saham utama dan pemegang saham mayoritas. Hasilnya, tidak ada rencana transaksi atau perubahan kepemilikan saham dari kedua pihak tersebut yang belum diumumkan ke publik. Satu-satunya rencana aksi korporasi yang disebut dalam surat ini adalah program pembelian kembali (buyback) saham dengan nilai maksimal Rp1 triliun, yang telah disetujui dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 9 Juni 2026. Jangka waktu pelaksanaan program ini paling lama 12 bulan sejak tanggal RUPSLB, sehingga batas akhirnya sekitar awal Juni 2027.",
+   "MIKA menyebut bahwa di luar program buyback tersebut, tidak ada rencana aksi korporasi material lain dalam tiga bulan mendatang yang dapat memengaruhi pencatatan sahamnya di bursa. Perusahaan juga memastikan tidak ada informasi, fakta, atau kejadian penting lain yang material dan belum diungkapkan ke publik terkait keberlangsungan usahanya."
+  ],
+  "fotoAdegan": "Exterior of a modern multistory hospital building with ambulances parked near the entrance, overcast afternoon light",
+  "takeaway": "Penilaian redaksi: laporan ini netral bagi fundamental MIKA, karena isinya murni konfirmasi dan bantahan, tanpa ada perubahan baru pada kinerja atau struktur kepemilikan perusahaan. Yang perlu dipahami pembaca adalah soal jumlah saham beredar: kalau program buyback senilai maksimal Rp1 triliun itu benar-benar direalisasikan, saham yang dibeli kembali akan ditarik dari peredaran, sehingga jumlah saham beredar berkurang dan laba per saham yang didapat setiap pemegang saham yang tersisa bisa ikut terkerek naik, karena laba perusahaan dibagi dengan saham yang lebih sedikit. Surat ini sendiri lahir karena ada volatilitas harga saham MIKA yang memicu pertanyaan dari BEI, jadi isinya lebih ke memastikan tidak ada kabar tersembunyi di balik gerakan harga itu, bukan mengumumkan hal baru. Yang perlu dipantau selanjutnya adalah realisasi program buyback itu sendiri, yang punya jangka waktu paling lama 12 bulan sejak RUPSLB 9 Juni 2026, sehingga publik bisa mengecek lewat laporan-laporan berikutnya apakah dan seberapa besar pembelian kembali itu benar-benar dijalankan sebelum tenggatnya sekitar awal Juni 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kdtn-catat-laba-9-bulan-naik-6-kali-utang-bank-lunas",
+  "category": "Aksi Korporasi",
+  "title": "KDTN Catat Laba 9 Bulan Naik 6 Kali, Utang Bank [Lunas]",
+  "deck": "Pendapatan KDTN naik 32 persen dan laba melonjak ke Rp3,53 miliar pada kuartal III 2026, sementara seluruh utang bank perusahaan sudah lunas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T17:43:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022175456-64620-0/FinancialStatement-2026-III-KDTN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "laporan keuangan",
+   "utang bank",
+   "corporate secretary"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) membukukan pendapatan bersih Rp31,34 miliar untuk sembilan bulan pertama 2026, naik 31,9 persen dari Rp23,77 miliar pada periode yang sama tahun lalu, menurut laporan keuangan interim yang belum diaudit per 30 September 2026. Laba bruto naik ke Rp15,33 miliar dari Rp10,46 miliar, dan laba usaha melonjak ke Rp3,91 miliar dari Rp899,02 juta. Laba periode berjalan tercatat Rp3,53 miliar, naik lebih dari lima kali lipat dibandingkan Rp635,38 juta pada sembilan bulan 2025, sehingga laba per saham dasar naik dari Rp0,51 menjadi Rp2,83.",
+   "Total liabilitas perusahaan turun 64,19 persen menjadi Rp4,22 miliar dari Rp11,77 miliar pada akhir 2025, sementara total aset turun tipis 5,03 persen menjadi Rp75,92 miliar. Penurunan liabilitas terutama berasal dari pelunasan seluruh utang bank: pinjaman Bank Rakyat Indonesia senilai Rp3,75 miliar dilunasi pada 1 Juli 2026 melalui kompensasi deposito berjangka yang dijaminkan secara non-tunai, sementara pinjaman PT Bank Pan Indonesia Tbk senilai Rp3,67 miliar dilunasi penuh dengan pembayaran tunai Rp3,67 miliar sepanjang periode. Akibatnya, pada 30 September 2026 perusahaan sudah tidak memiliki saldo utang bank, baik jangka pendek maupun jangka panjang. Di sisi lain, utang kepada pihak berelasi naik 187,7 persen menjadi Rp513,27 juta, terutama pinjaman dari entitas induk PT Putrasakti Mandiri, setelah perusahaan menerima pinjaman Rp5,3 miliar dan membayar kembali Rp4,8 miliar dari pihak berelasi sepanjang periode.",
+   "Arus kas dari aktivitas operasi membaik menjadi Rp6,05 miliar dari Rp3,03 miliar tahun sebelumnya, sementara belanja modal untuk aset tetap turun menjadi Rp3,79 miliar dari Rp9,28 miliar. Namun arus kas dari aktivitas pendanaan tercatat negatif Rp3,17 miliar karena dipakai membayar utang bank, berbeda dari periode sebelumnya yang masih mencatat penerimaan pinjaman baru, sehingga kas dan setara kas akhir periode turun menjadi Rp1,88 miliar dari Rp2,37 miliar pada awal tahun. Perusahaan juga melaporkan pergantian Corporate Secretary dari Aan Rohanah ke Amanda Ayu Ningsih, efektif 25 September 2026.",
+   "Susunan direksi dan komisaris hasil RUPSLB 22 Juni 2026, yakni Irma Tjandra sebagai Komisaris Utama dan Rudy Susanto sebagai Direktur Utama, berlaku hingga penutupan RUPS Tahunan 2028. Sementara itu, pengangkatan Zheng Mengsha sebagai Komisaris serta Zhang Lei dan Shi Liru sebagai Direktur yang disetujui pada rapat yang sama belum efektif per akhir September 2026 karena masih menunggu pemenuhan syarat yang akan dikonfirmasi melalui keputusan direksi."
+  ],
+  "fotoAdegan": "Hotel housekeeping staff pushing a linen cart down a quiet guest room corridor, soft morning light through windows",
+  "takeaway": "Laporan ini condong positif bagi KDTN, karena pendapatan tumbuh 32 persen dan laba bersih melonjak lebih dari lima kali lipat dalam sembilan bulan, sementara seluruh utang bank perusahaan sudah dilunasi sehingga beban bunga ke depan berkurang. Pos yang tersentuh adalah ekuitas, yaitu modal pemegang saham yang bertambah menjadi Rp71,70 miliar karena laba ditahan dan tidak ada dividen yang dibagikan tahun ini, serta laba per saham yang naik ke Rp2,83, ukuran keuntungan yang didapat pemegang saham dari setiap lembar sahamnya. Arus kas dari kegiatan operasional, yakni uang tunai yang benar-benar masuk dari bisnis sehari-hari, juga membaik, meski kas di kas perusahaan justru berkurang karena dipakai melunasi utang bank. Yang perlu dipantau berikutnya adalah efektifnya pengangkatan Zheng Mengsha, Zhang Lei, dan Shi Liru ke jajaran komisaris dan direksi yang masih menunggu syarat dari keputusan direksi, serta RUPSLB 6 November 2026 yang menurut laporan kami sebelumnya terkait rencana pengendalian baru perusahaan.",
+  "sentimen": "positif"
  },
  {
   "slug": "wifi-rombak-direksi-dan-komisaris-tambah-kbli-konstruksi",
@@ -688,6 +844,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "strk-calon-pengendali-baru-negosiasi-ambil-alih-61-87-saham",
+  "category": "Aksi Korporasi",
+  "title": "STRK: Calon Pengendali Baru Negosiasi Ambil Alih [61,87%] Saham",
+  "deck": "PT Beruntung Berkat Sejahtera bernegosiasi membeli 6,63 miliar saham STRK dari PT Barito Mas Sukses, berpotensi menjadi pengendali baru perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T11:58:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc3ee88a0b_45690de7ce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "STRK",
+  "tags": [
+   "STRK",
+   "pengambilalihan",
+   "akuisisi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Lovina Beach Brewery Tbk (STRK) mengumumkan adanya proses negosiasi pengambilalihan mayoritas sahamnya. Berdasarkan keterbukaan informasi yang disampaikan 22 Oktober 2026, PT Barito Mas Sukses (BMS) selaku pemegang saham saat ini berencana menjual 6.633.434.000 lembar saham STRK, setara 61,87 persen dari modal ditempatkan dan disetor penuh perseroan, kepada PT Beruntung Berkat Sejahtera. Jika transaksi ini selesai, Beruntung Berkat Sejahtera akan menjadi pengendali baru STRK, menggantikan posisi BMS.",
+   "Negosiasi berlangsung langsung antara BMS dan Beruntung Berkat Sejahtera pada 21 Oktober 2026, dan kedua pihak telah menandatangani dokumen bernama Indikasi Syarat Dan Ketentuan Jual Beli. Dokumen ini sifatnya baru indikatif, bukan perjanjian final. Penyelesaiannya masih bergantung pada terpenuhinya sejumlah syarat tangguh, termasuk proses uji tuntas (due diligence) atas STRK. Kedua pihak juga sudah menyepakati klausul pembatalan transaksi apabila syarat-syarat itu tidak terpenuhi. Perseroan menegaskan bahwa penandatanganan indikasi ini belum dianggap sebagai transaksi yang mengubah pengendalian secara hukum, status itu baru berlaku setelah Perjanjian Pengikatan Jual Beli Saham Bersyarat ditandatangani oleh para pihak.",
+   "Beruntung Berkat Sejahtera beralamat di Gedung Bursa Efek Indonesia Tower 1, Level 3 Unit 304, SCBD Senayan, Jakarta Selatan, dan bergerak di bidang konsultasi manajemen dan bisnis (KBLI 70209). Perusahaan ini menyatakan tujuan pengambilalihan sebagai bagian dari pengembangan usahanya, tanpa merinci rencana bisnis lebih lanjut untuk STRK. Pada tanggal pengumuman, Beruntung Berkat Sejahtera belum memiliki satu lembar saham pun di STRK, baik secara langsung maupun tidak langsung, dan rencana ini dilakukan sendiri tanpa kelompok pihak lain yang terorganisasi."
+  ],
+  "fotoAdegan": "Workers stacking crates of bottled beverages onto a delivery truck at a small brewery warehouse, tropical daylight in Bali",
+  "takeaway": "Laporan ini netral bagi STRK, karena yang terjadi baru negosiasi awal yang sifatnya tidak mengikat dan masih bisa batal jika uji tuntas atau syarat lain tidak terpenuhi. Yang tersentuh di sini adalah pos pengendalian perusahaan, yakni siapa yang punya suara terbesar menentukan arah bisnis STRK, bukan pos keuangan seperti ekuitas atau kas perseroan, sebab transaksi ini adalah jual beli saham antar pemegang saham lama dan calon pembeli baru, bukan penerbitan saham baru, sehingga jumlah saham beredar dan laba per saham investor yang sudah ada tidak langsung berubah. Pelaku pasar biasanya mencermati siapa pengendali baru karena merekalah yang nantinya menentukan strategi dan kebijakan dividen perusahaan. Yang perlu dipantau selanjutnya adalah penandatanganan Perjanjian Pengikatan Jual Beli Saham Bersyarat setelah proses uji tuntas selesai, karena baru pada tahap itu perubahan pengendalian STRK dianggap sah secara hukum, sementara dokumen ini belum menyebutkan tenggat waktu pastinya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ratu-jawab-permintaan-bursa-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "RATU Jawab Permintaan Bursa soal [Volatilitas] Saham",
@@ -976,6 +1158,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "ammn-siapkan-buyback-saham-rp1-triliun-di-tengah-gejolak-pasar",
+  "category": "Aksi Korporasi",
+  "title": "AMMN Siapkan Buyback [Saham] Rp1 Triliun di Tengah Gejolak Pasar",
+  "deck": "Amman Mineral berencana membeli kembali sahamnya hingga Rp1 triliun dalam tiga bulan, memanfaatkan aturan OJK untuk kondisi pasar yang berfluktuasi signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T08:04:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f321a94491_f8dbf746f2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMMN",
+  "tags": [
+   "AMMN",
+   "buyback saham",
+   "Amman Mineral",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Amman Mineral Internasional Tbk (AMMN) mengumumkan rencana pembelian kembali saham (buyback) dengan dana yang dialokasikan hingga Rp1 triliun, setara US$55,54 juta dengan asumsi kurs Rp18.006 per dolar AS. Rencana ini memakai jalur khusus dalam POJK No. 13/2023 dan surat Kepala Eksekutif Pengawas Pasar Modal OJK No. S-112/D.04/2026 tertanggal 9 September 2026 tentang kondisi pasar yang berfluktuasi secara signifikan, sehingga perseroan tidak memerlukan persetujuan rapat umum pemegang saham untuk melaksanakannya. Periode pembelian berjalan 22 Oktober 2026 sampai 22 Januari 2027, dan perseroan telah menunjuk PT BCA Sekuritas sebagai pelaksana transaksi di Bursa Efek Indonesia.",
+   "Berdasarkan harga saham pada tanggal pengumuman, jumlah saham yang akan dibeli kembali diperkirakan tidak lebih dari 0,37 persen dari modal ditempatkan dan disetor perseroan, jauh di bawah batas maksimal 20 persen yang diperbolehkan aturan. Dalam proforma yang disertakan, jumlah saham beredar turun dari 72.412.413.856 lembar menjadi 72.145.568.937 lembar, atau berkurang 266.844.919 lembar. Sebagai konsekuensinya, kas dan setara kas perseroan berkurang dari US$676,8 juta menjadi US$621,4 juta, dan total ekuitas turun dengan jumlah yang sama, yakni US$55,4 juta. Laba per saham naik tipis dari US$0,003436 menjadi US$0,003441, sementara return on assets naik dari 1,86 persen ke 1,87 persen dan return on equity dari 4,75 persen ke 4,80 persen. Harga beli saham dibatasi tidak boleh lebih tinggi dari harga transaksi sebelumnya, dan saham yang dibeli kembali akan disimpan sebagai saham treasury yang baru bisa dialihkan 30 hari setelah proses buyback selesai atau periodenya berakhir.",
+   "Perseroan menegaskan dana buyback seluruhnya berasal dari kas internal, tidak memakai dana hasil penawaran umum maupun pinjaman atau utang, dan memperkirakan tidak ada dampak negatif material terhadap pendapatan karena modal kerja dan arus kasnya masih cukup. Selama periode pembelian kembali, komisaris, direktur, karyawan, dan pemegang saham utama perseroan dilarang bertransaksi saham AMMN. Perseroan menyebut tujuan buyback ini untuk meningkatkan tingkat pengembalian bagi pemegang saham dan memperkuat kepercayaan investor agar harga saham lebih mencerminkan kondisi fundamental perusahaan."
+  ],
+  "fotoAdegan": "Aerial view of a large open-pit copper and gold mine with terraced roads and mining haul trucks, dry mountainous terrain",
+  "takeaway": "Laporan ini netral bagi fundamental AMMN. Niatnya baik, menyokong harga saham dan menunjukkan kas yang sehat, tapi secara angka dampaknya sangat kecil: saham yang dibeli hanya 0,37 persen dari total saham beredar, dan laba per saham cuma naik dari 0,003436 dolar menjadi 0,003441 dolar, selisih yang nyaris tidak terasa. Yang tersentuh adalah kas perusahaan dan ekuitas, keduanya berkurang US$55,4 juta karena dipakai membeli saham sendiri, namun jumlah ini kecil dibanding total aset perseroan yang mencapai US$13,8 miliar sehingga tidak mengganggu operasional. Pelaku pasar biasa memperhatikan rasio imbal hasil seperti return on equity dan return on assets, yang di sini naik tipis karena basis aset dan ekuitas sedikit menyusut sementara laba tetap. Yang perlu dipantau selanjutnya adalah realisasi pembelian saham yang sebenarnya selama periode 22 Oktober 2026 hingga 22 Januari 2027, apakah perseroan benar-benar membeli mendekati batas 0,37 persen tersebut atau jauh lebih kecil.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bbri-siapkan-buyback-saham-rp1-triliun-rampung-3-bulan",
   "category": "Aksi Korporasi",
   "title": "BBRI Siapkan [Buyback] Saham Rp1 Triliun, Rampung 3 Bulan",
@@ -1077,6 +1285,84 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty chairs arranged in a modern conference hall inside a glass office tower, soft morning light, Jakarta business district.",
   "takeaway": "Pengumuman ini netral bagi AGRS karena isinya baru soal jadwal dan tata cara rapat, sementara mata acara yang sebenarnya akan dibahas dalam RUPSLB ini belum dibuka ke publik. RUPSLB biasanya dipakai emiten untuk memutuskan hal yang bisa mengubah pos-pos mendasar seperti jumlah saham beredar lewat penambahan modal, jadi kalau nanti agendanya berupa penerbitan saham baru, laba per saham bisa terdilusi karena keuntungan perseroan harus dibagi ke lebih banyak lembar saham. Pemegang saham yang berniat mengajukan usulan mata acara, dengan syarat mewakili minimal 1/20 saham berhak suara, harus mengirimkan usulannya paling lambat 30 Oktober 2026. Yang perlu dipantau selanjutnya adalah pemanggilan resmi berisi agenda lengkap pada 6 November 2026, serta pelaksanaan RUPSLB itu sendiri pada 30 November 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "dcii-aset-naik-51-liabilitas-melonjak-karena-utang-baru",
+  "category": "Aksi Korporasi",
+  "title": "DCII: Aset Naik 51%, Liabilitas Melonjak karena [Utang] Baru",
+  "deck": "Laporan keuangan interim kuartal III DCI Indonesia menunjukkan aset naik 51,4 persen dan liabilitas melonjak 94,5 persen akibat pinjaman bank baru untuk ekspansi pusat data.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T03:13:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022102534-64721-0/FinancialStatement-2026-III-DCII.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DCII",
+  "tags": [
+   "DCII",
+   "laporan keuangan",
+   "pusat data",
+   "utang bank"
+  ],
+  "body": [
+   "PT DCI Indonesia Tbk (DCII) melaporkan total aset konsolidasian naik 51,4 persen dari Rp6,6 triliun pada akhir 2025 menjadi Rp10,1 triliun per 30 September 2026, menurut laporan keuangan interim kuartal III yang belum diaudit. Pendapatan perusahaan selama sembilan bulan pertama 2026 tumbuh menjadi Rp2,53 triliun dari Rp1,92 triliun pada periode yang sama tahun lalu, sementara laba bersih naik menjadi Rp919,88 miliar dari Rp825,09 miliar. Laba per saham ikut naik dari Rp346 menjadi Rp386.",
+   "Kenaikan aset ini terutama berasal dari belanja modal untuk menyelesaikan fit-out sisa kapasitas gedung pusat data JK6, membangun gedung pusat data baru guna memenuhi kapasitas yang sudah dikontrak pelanggan, dan membeli cadangan lahan (landbank) baru untuk ekspansi ke depan. Untuk membiayai semua itu, DCII menarik pinjaman bank baru dalam jumlah besar. Total liabilitas perusahaan melonjak 94,5 persen dari Rp2,6 triliun menjadi Rp5,1 triliun pada akhir September 2026. Pinjaman bank jangka panjang naik dari Rp1,59 triliun menjadi Rp3,7 triliun, dan di laporan arus kas tercatat penerimaan baru dari utang bank sebesar Rp2,48 triliun, jauh di atas Rp250 miliar pada periode yang sama tahun lalu.",
+   "Belanja untuk aset tetap mencapai Rp2,96 triliun selama sembilan bulan ini, naik tajam dari Rp861,69 miliar pada periode yang sama tahun lalu, membuat arus kas dari aktivitas investasi defisit Rp2,98 triliun, jauh lebih besar dari defisit Rp887,43 miliar setahun sebelumnya. Kas dan setara kas perusahaan di akhir September 2026 tetap naik menjadi Rp402,3 miliar dari Rp255,78 miliar di akhir 2025, berkat suntikan dana dari pinjaman bank tersebut. Direksi menyampaikan surat penjelasan khusus ke OJK dan BEI karena perubahan pos total aset dan total liabilitas yang melebihi 20 persen wajib dijelaskan sesuai Peraturan Nomor I-E BEI. Surat pernyataan direksi ditandatangani Presiden Direktur Otto Toto Sugiri dan Direktur Evelyn pada 22 Oktober 2026."
+  ],
+  "fotoAdegan": "Construction workers assembling steel framework on a large data center building site, cranes in background, overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi fundamental DCII: bisnis inti memang tumbuh sehat, tapi pertumbuhan itu dibayar dengan lonjakan utang yang besar. Pendapatan dan laba naik dua digit, namun arus kas dari operasional sehari-hari, yaitu uang tunai yang benar-benar dihasilkan dari bisnis inti, justru turun dari Rp1,15 triliun menjadi Rp1,01 triliun, sementara beban bunga yang dibayar perusahaan melonjak hampir dua kali lipat menjadi Rp129,79 miliar karena utang bank jangka panjang naik lebih dari dua kali lipat. Hampir semua dana segar untuk membangun gedung pusat data baru berasal dari pinjaman bank, bukan dari kas hasil operasi perusahaan sendiri. Yang perlu dipantau berikutnya adalah apakah kapasitas pusat data baru ini benar-benar terisi sesuai kontrak pelanggan yang disebut perusahaan sebagai alasan ekspansi, serta tren beban bunga pada laporan keuangan audit tahun buku 2026 yang biasanya terbit awal 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "yule-laba-kuartal-iii-naik-27-ambil-utang-bank-rp100-m",
+  "category": "Aksi Korporasi",
+  "title": "YULE: Laba Kuartal III Naik 27%, Ambil [Utang Bank] Rp100 M",
+  "deck": "Laba bersih sembilan bulan YULE naik 27 persen jadi Rp22,68 miliar, tapi kas menyusut tajam dan perseroan menambah utang bank Rp100 miliar untuk mendanai perdagangan efek.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T02:31:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022023320-64483-0/FinancialStatement-2026-III-YULE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YULE",
+  "tags": [
+   "YULE",
+   "sekuritas",
+   "laporan keuangan",
+   "utang bank"
+  ],
+  "body": [
+   "PT Yulie Sekuritas Indonesia Tbk (YULE) melaporkan laba bersih Rp22,68 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik dari Rp17,86 miliar pada periode yang sama tahun lalu, atau tumbuh sekitar 27 persen. Kenaikan laba ini terutama ditopang oleh keuntungan dari transaksi perdagangan efek yang telah direalisasi sebesar Rp65,98 miliar, naik tajam dari Rp22,71 miliar tahun sebelumnya, meski sebagian tergerus oleh kerugian perubahan nilai wajar efek sebesar Rp32,02 miliar. Laba per saham dasar naik dari Rp11,25 menjadi Rp14,29.",
+   "Total aset perseroan melonjak 35,31 persen menjadi Rp1,05 triliun per 30 September 2026, dari sebelumnya Rp777,79 miliar per akhir 2025, atau bertambah Rp274,62 miliar. Dalam surat penjelasan kepada Bursa Efek Indonesia tertanggal 20 Oktober 2026, Direktur Husin Chandra menyebut kenaikan ini terutama berasal dari bertambahnya portofolio efek sebesar Rp177,03 miliar, akibat kenaikan nilai pasar saham dan obligasi yang dipegang perseroan serta pembelian efek baru, dan piutang transaksi perantara perdagangan efek sebesar Rp176,42 miliar yang berasal dari transaksi pada 29 dan 30 September 2026.",
+   "Di sisi liabilitas, total utang perseroan melonjak 340 persen menjadi Rp346,58 miliar dari Rp78,77 miliar, naik Rp267,81 miliar. Penyebab utamanya adalah utang transaksi perantara perdagangan efek yang bertambah Rp169,02 miliar, sejalan dengan piutang dari transaksi akhir September tadi, serta tambahan fasilitas pinjaman bank baru sebesar Rp100 miliar yang dicairkan sepanjang 2026. Di saat bersamaan, kas dan setara kas perseroan justru menyusut dari Rp129,57 miliar menjadi Rp45,45 miliar, karena arus kas dari aktivitas operasi berbalik menjadi pengeluaran neto Rp165,39 miliar, dibanding penerimaan neto Rp29,82 miliar pada periode yang sama tahun lalu. Perseroan juga membayar dividen tunai Rp15,87 miliar pada periode ini, naik dari Rp12,70 miliar tahun lalu."
+  ],
+  "fotoAdegan": "Employees at a small Jakarta securities brokerage office working at desks during afternoon trading hours, blurred computer monitors, city skyline through windows",
+  "takeaway": "Laporan ini netral bagi pemegang saham: laba memang naik 27 persen, tapi itu berjalan beriringan dengan kas yang susut hampir dua pertiga dan utang bank baru Rp100 miliar, jadi bukan sinyal positif murni. Yang tersentuh di sini ada tiga, utang bank yang menambah beban bunga ke depan, arus kas operasi yang menunjukkan uang tunai riil yang masuk atau keluar dari bisnis sehari-hari, dan ekuitas pemegang saham yang relatif stabil di Rp705,83 miliar karena laba periode berjalan sebagian besar dipakai bayar dividen. Pelaku pasar biasanya mencermati pos-pos ini karena perusahaan bisa saja mencatat laba akuntansi yang bagus padahal kasnya justru menipis, seperti yang terjadi di laporan ini akibat pembelian efek baru dan pembayaran dividen. Lonjakan piutang dan utang transaksi perantara perdagangan efek sendiri berasal dari transaksi pada 29 dan 30 September 2026, nyaris di ujung periode laporan, sehingga perlu dicek lagi pada laporan kuartal IV apakah ini cuma efek waktu pencatatan atau memang volume transaksi yang naik permanen. Yang juga layak dipantau adalah apakah arus kas operasi kembali positif dan bagaimana perseroan memakai fasilitas pinjaman bank Rp100 miliar itu pada laporan-laporan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "unvr-bayar-dividen-rp4-33-triliun-laba-9-bulan-naik-26",
+  "category": "Aksi Korporasi",
+  "title": "UNVR Bayar [Dividen] Rp4,33 Triliun, Laba 9 Bulan Naik 26%",
+  "deck": "Laba bersih Unilever Indonesia naik 26 persen jadi Rp4,2 triliun dalam sembilan bulan, ditopang gain divestasi, sementara dividen jumbo menggerus kas dan ekuitas perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T01:01:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022080911-64567-0/FinancialStatement-2026-III-UNVR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNVR",
+  "tags": [
+   "UNVR",
+   "laporan keuangan",
+   "dividen",
+   "divestasi"
+  ],
+  "body": [
+   "PT Unilever Indonesia Tbk (UNVR) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 ke Bursa Efek Indonesia pada 22 Oktober 2026. Laporan ditandatangani oleh Presiden Direktur Benjie Yap dan Direktur Neeraj Lal, yang menyatakan bertanggung jawab atas kelengkapan dan keakuratan data di dalamnya. Penjualan bersih perseroan tercatat Rp25,75 triliun, naik 7,2 persen dari Rp24,03 triliun pada periode yang sama tahun lalu. Namun laba bruto justru sedikit turun menjadi Rp11,62 triliun dari Rp11,74 triliun, karena biaya pokok penjualan naik lebih cepat dibanding penjualan, sehingga margin kotor tergerus dari sekitar 48,9 persen menjadi 45,1 persen.",
+   "Laba usaha dari operasi yang dilanjutkan tercatat Rp4,09 triliun, naik tipis dari Rp4,0 triliun, sementara laba bersih dari operasi yang dilanjutkan naik 10,6 persen menjadi Rp3,31 triliun. Kenaikan laba bersih total yang lebih besar, yakni 26 persen menjadi Rp4,2 triliun dari Rp3,34 triliun, ditopang oleh operasi yang dihentikan, yang membukukan keuntungan penjualan sebesar Rp870,27 miliar. Perseroan menerima kas Rp1,5 triliun dari penjualan unit usaha tersebut dan membayar pajak terkait transaksi itu sebesar Rp935 miliar. Dengan kontribusi ini, laba per saham dasar naik dari Rp88 menjadi Rp110.",
+   "Di sisi lain, perseroan membayar dividen Rp4,33 triliun sepanjang sembilan bulan ini, hampir dua setengah kali dividen Rp1,79 triliun yang dibayarkan pada periode yang sama tahun lalu. Pembayaran dividen besar ini membuat ekuitas perseroan turun dari Rp4,48 triliun pada akhir 2025 menjadi Rp4,21 triliun pada akhir September 2026, sementara kas dan setara kas menyusut tajam dari Rp5,71 triliun menjadi Rp2,03 triliun. Total aset perseroan turun dari Rp20,02 triliun menjadi Rp18,21 triliun, turut dipengaruhi oleh rampungnya penjualan aset yang sebelumnya diklasifikasikan sebagai dimiliki untuk dijual senilai Rp276,48 miliar di akhir 2025, yang kini sudah nol."
+  ],
+  "fotoAdegan": "Factory workers monitoring a conveyor belt of packaged soap and detergent boxes inside an Indonesian consumer goods plant, bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi Unilever Indonesia, karena penjualan dan laba dari bisnis inti tetap tumbuh dua digit meski ada tekanan biaya, dan divestasi unit usaha benar-benar mendatangkan kas masuk, bukan sekadar pencatatan akuntansi. Yang tersentuh adalah margin kotor, arus kas, ekuitas, dan laba per saham. Margin kotor yang menyusut dari 48,9 persen ke 45,1 persen berarti setiap rupiah penjualan menyisakan lebih sedikit untung sebelum dikurangi biaya operasional, sehingga pelaku pasar akan mencermati apakah ini sekadar lonjakan biaya sementara atau tekanan jangka panjang. Ekuitas dan kas yang menyusut tajam bukan karena kerugian, melainkan karena dividen jumbo dibagikan ke pemegang saham, sehingga bantalan kas perseroan untuk belanja modal atau menghadapi gejolak jadi lebih tipis. Yang perlu dipantau berikutnya adalah kinerja kuartal keempat untuk melihat apakah margin kotor bisa pulih tanpa bantuan laba sekali-pakai dari divestasi, dan keputusan RUPSLB yang telah dijadwalkan pada 26 November 2026, yang bisa menyinggung langkah korporasi lanjutan perseroan.",
+  "sentimen": "positif"
  },
  {
   "slug": "ppgl-batalkan-pmthmetd-piutang-pemegang-saham-rp21-6-m",

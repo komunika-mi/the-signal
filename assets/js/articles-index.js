@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ptpp-restrukturisasi-utang-ke-bank-resmi-berlaku",
+  "category": "Aksi Korporasi",
+  "title": "PTPP: Restrukturisasi Utang ke Bank Resmi [Berlaku]",
+  "deck": "PT PP (Persero) Tbk menyatakan Master Restructuring Agreement dengan bank-bank kreditur resmi berlaku efektif per 21 Oktober 2026 setelah seluruh syarat dipenuhi.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "restrukturisasi utang",
+   "PP Persero",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4475551d15_6071dc1999.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fore-pendapatan-rp1-6-triliun-ebitda-naik-71-pada-9m26",
+  "category": "Aksi Korporasi",
+  "title": "FORE: Pendapatan Rp1,6 Triliun, [EBITDA] Naik 71% pada 9M26",
+  "deck": "Pendapatan FORE tumbuh 53,3 persen dan laba bersih naik 49,7 persen pada 9M26, didukung ekspansi gerai Fore Coffee dan Fore Donut.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORE",
+   "Fore Kopi Indonesia",
+   "kinerja keuangan",
+   "ekspansi gerai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/511feacc71_e8bd7c268e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ppgl-batalkan-pmthmetd-piutang-pemegang-saham-rp21-6-m",
   "category": "Aksi Korporasi",
   "title": "PPGL Batalkan [PMTHMETD], Piutang Pemegang Saham Rp21,6 M",
@@ -6475,41 +6507,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/ekspor-nikel-ditargetkan-tembus-usd45-miliar-pada-2026-menko-bahlil-hilirisasi-kunci-kemandirian-ekonomi",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "mendag-serahkan-50-penghargaan-ekspor-di-pembukaan-tei-2026",
-  "category": "Bisnis",
-  "title": "Mendag Serahkan [50] Penghargaan Ekspor di Pembukaan TEI 2026",
-  "deck": "Kemendag memberi 50 penghargaan Primaniyarta dan Primaduta 2026 kepada eksportir dan mitra dagang, bersamaan dengan surplus dagang Agustus yang melonjak ke US$3,55 miliar.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/mendag-serahkan-50-penghargaan-ekspor-di-pembukaan-tei-2026.jpg",
-  "imageV": "mv86yaj5",
-  "tags": [
-   "ekspor",
-   "Kemendag",
-   "neraca dagang",
-   "Trade Expo Indonesia"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/apresiasi-kinerja-ekspor-mendag-busan-serahkan-50-penghargaan-primaniyarta-dan-primaduta-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41",
-  "category": "Bisnis",
-  "title": "168 MoU Senilai [US$13,2 Miliar] Diteken di TEI ke-41",
-  "deck": "Pada hari pembukaan Trade Expo Indonesia ke-41 di BSD City, pelaku usaha Indonesia menandatangani 168 nota kesepahaman dengan pembeli dari 22 negara, didominasi produk makanan olahan, batu bara, furnitur, dan kertas.",
-  "date": "14 Oktober 2026",
-  "image": "assets/img/168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41.jpg",
-  "imageV": "mv86yhit",
-  "tags": [
-   "TEI",
-   "ekspor",
-   "MoU",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hari-pertama-tei-ke-41-sebanyak-168-mou-senilai-usd-132-miliar-ditandatangani",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

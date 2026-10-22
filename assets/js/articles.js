@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ptpp-restrukturisasi-utang-ke-bank-resmi-berlaku",
+  "category": "Aksi Korporasi",
+  "title": "PTPP: Restrukturisasi Utang ke Bank Resmi [Berlaku]",
+  "deck": "PT PP (Persero) Tbk menyatakan Master Restructuring Agreement dengan bank-bank kreditur resmi berlaku efektif per 21 Oktober 2026 setelah seluruh syarat dipenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T09:25:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4475551d15_6071dc1999.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "restrukturisasi utang",
+   "PP Persero",
+   "perbankan"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk (PTPP) menyampaikan keterbukaan informasi bahwa Master Restructuring Agreement (MRA) atau Perjanjian Kredit untuk tujuan restrukturisasi dengan para bank kreditur telah berlaku efektif per 21 Oktober 2026. Perjanjian ini sebelumnya diteken pada 10 September 2026 dan diumumkan lewat keterbukaan informasi Nomor 2865/EXT/PP/DK/2026 tanggal 11 September 2026. Status efektif ini dikonfirmasi lewat surat Bank Mandiri selaku Agen Fasilitas Restrukturisasi Nomor CBG.CB4/5819/2026, yang menyatakan seluruh pihak dalam MRA telah memenuhi semua syarat yang disepakati.",
+   "Dengan terpenuhinya syarat efektif tersebut, seluruh ketentuan restrukturisasi dalam MRA kini mengikat PTPP, pihak pembiayaan restrukturisasi, dan semua pihak yang terlibat dalam proses restrukturisasi. Perseroan menyebut langkah ini diharapkan membawa dampak baik bagi proses restrukturisasi keuangan yang sedang berjalan serta bagi kelangsungan usaha dan kondisi keuangan PTPP ke depan. Dokumen ini tidak merinci nilai utang yang direstrukturisasi, bank-bank kreditur yang terlibat, maupun skema baru pembayarannya.",
+   "Surat keterbukaan ditandatangani oleh Direktur Keuangan PTPP, Faizal Rahmad, dan disampaikan ke Otoritas Jasa Keuangan serta Bursa Efek Indonesia oleh Sekretaris Perusahaan, Joko Raharjo, pada 22 Oktober 2026."
+  ],
+  "fotoAdegan": "Construction workers in hard hats inspecting steel reinforcement bars at a high-rise building site in Jakarta, afternoon light",
+  "takeaway": "Kabar efektifnya restrukturisasi ini condong positif bagi PTPP, karena menandakan proses negosiasi ulang utang dengan bank-bank kreditur sudah rampung secara hukum dan tidak lagi menggantung sebagai risiko kepatuhan yang bisa mengganggu operasional. Pos yang tersentuh dari sini adalah arus kas dan beban bunga perusahaan, sebab restrukturisasi utang lazimnya mengubah jadwal cicilan pokok dan besaran bunga yang harus dibayar, yang menentukan berapa banyak uang tunai yang tersisa bagi PTPP untuk membiayai proyek konstruksinya. Dokumen ini belum merinci angka nominal utang yang direstrukturisasi, bank mana saja yang terlibat, tenor baru, atau skema pembayarannya, sehingga dampak konkretnya terhadap neraca PTPP baru bisa dicek lewat laporan keuangan berikutnya atau keterbukaan informasi lanjutan dari perseroan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "fore-pendapatan-rp1-6-triliun-ebitda-naik-71-pada-9m26",
+  "category": "Aksi Korporasi",
+  "title": "FORE: Pendapatan Rp1,6 Triliun, [EBITDA] Naik 71% pada 9M26",
+  "deck": "Pendapatan FORE tumbuh 53,3 persen dan laba bersih naik 49,7 persen pada 9M26, didukung ekspansi gerai Fore Coffee dan Fore Donut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T09:10:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/511feacc71_e8bd7c268e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORE",
+  "tags": [
+   "FORE",
+   "Fore Kopi Indonesia",
+   "kinerja keuangan",
+   "ekspansi gerai"
+  ],
+  "body": [
+   "PT Fore Kopi Indonesia Tbk (FORE) mencatat pendapatan Rp1,6 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 53,3 persen dibandingkan Rp1,04 triliun pada periode yang sama tahun lalu. EBITDA perusahaan tumbuh 70,6 persen secara tahunan menjadi Rp342,2 miliar, dengan margin EBITDA naik dari 19,3 persen menjadi 21,4 persen. Laba bersih turut naik 49,7 persen menjadi Rp90 miliar. Manajemen menyebut penjualan bersih, laba kotor, dan EBITDA selama sembilan bulan ini sudah melampaui realisasi sepanjang tahun 2025.",
+   "Ekspansi gerai menjadi salah satu pendorong utama kinerja ini. Fore Coffee Indonesia menambah lebih dari 70 gerai baru sepanjang periode tersebut, sehingga jumlah gerai aktif mencapai 388, melampaui target awal perusahaan yang hanya menambah 70 gerai untuk sepanjang tahun 2026. Lebih dari 55 persen gerai baru itu dibuka di kota-kota tingkat dua dan tiga. Secara keseluruhan, jaringan grup FORE kini mencapai 410 gerai, terdiri dari 388 gerai Fore Coffee di Indonesia, 5 gerai di Singapura, dan 17 gerai Fore Donut.",
+   "Fore Donut, lini bisnis donat yang diluncurkan September 2025, menambah 15 gerai baru sepanjang Januari hingga September 2026, terdiri dari 11 gerai di kawasan Jabodetabek serta masing-masing dua gerai di Bandung dan Surabaya, termasuk dua lokasi baru di Bogor yakni Living World Kota Wisata dan Cibinong City Mall. Lini ini juga meluncurkan produk baru, Crumbs & Crunch Series untuk kategori donat dan The Layered Pairings untuk kategori minuman, pada kuartal ketiga 2026, setelah meraih sertifikasi halal pada Juli 2026. Presiden Direktur FORE, Vico Lomar, menyatakan perusahaan tetap berkomitmen pada tata kelola yang baik dan pengelolaan modal yang prudent, termasuk penggunaan dana hasil penawaran saham perdana tahun 2025 yang mengumpulkan lebih dari Rp353 miliar untuk mendanai ekspansi gerai, pengembangan Fore Donut, dan modal kerja perusahaan."
+  ],
+  "fotoAdegan": "A barista steaming milk behind the counter of a small modern coffee shop storefront on a busy Jakarta street, morning commuters passing by",
+  "takeaway": "Laporan ini condong positif bagi FORE, sebab pertumbuhan pendapatan 53,3 persen dan laba bersih 49,7 persen itu dibarengi membaiknya efisiensi operasional, bukan cuma karena gerai bertambah. Yang paling layak diperhatikan adalah margin EBITDA, yakni seberapa besar laba operasional yang dihasilkan dari setiap rupiah pendapatan sebelum dipotong bunga, pajak, dan penyusutan aset, yang naik dari 19,3 persen jadi 21,4 persen, artinya setiap gerai kini menghasilkan laba lebih besar, bukan sekadar menambah omzet lewat jumlah gerai. Yang perlu dipantau berikutnya adalah apakah efisiensi ini bisa dipertahankan saat ekspansi makin masuk ke kota Tier 2 dan Tier 3 yang daya belinya umumnya lebih rendah dari Jakarta, serta bagaimana sisa dana hasil penawaran saham perdana 2025 benar-benar terserap untuk pengembangan Fore Donut dan modal kerja seperti yang disebutkan manajemen.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "ppgl-batalkan-pmthmetd-piutang-pemegang-saham-rp21-6-m",
   "category": "Aksi Korporasi",
   "title": "PPGL Batalkan [PMTHMETD], Piutang Pemegang Saham Rp21,6 M",

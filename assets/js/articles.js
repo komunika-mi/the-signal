@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dua-terminal-bus-ditawarkan-ke-investor-lewat-skema-kpbu",
+  "category": "Bisnis",
+  "title": "Dua Terminal Bus Ditawarkan ke Investor Lewat Skema [KPBU]",
+  "deck": "Pemerintah menjaring minat investor untuk proyek KPBU Terminal Purabaya (Surabaya) dan Betan Subing (Lampung), dengan total kebutuhan investasi sekitar Rp1,18 triliun.",
+  "image": "assets/img/dua-terminal-bus-ditawarkan-ke-investor-lewat-skema-kpbu.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T08:41:46.583Z",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/dorong-investasi-sektor-transportasi-keminveshil-dan-kemenhub-gelar-market-sounding-kpbu-terminal-tipe-a-purabaya-dan-betan-subing",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "tags": [
+   "KPBU",
+   "Terminal Purabaya",
+   "Betan Subing",
+   "investasi infrastruktur"
+  ],
+  "body": [
+   "Kementerian Investasi dan Hilirisasi/BKPM bersama Kementerian Perhubungan menggelar penjaringan minat pasar atau market sounding untuk dua proyek terminal bus tipe A, yaitu Terminal Purabaya di Surabaya dan Terminal Betan Subing di Lampung. Kegiatan ini merupakan tahap awal sebelum kedua proyek ditawarkan secara resmi kepada investor lewat skema kerja sama pemerintah dan badan usaha (KPBU), mekanisme di mana pihak swasta membiayai pembangunan infrastruktur dan diberi hak mengelolanya dalam jangka waktu tertentu sebagai gantinya. Bagi pembaca, ini menandai langkah pemerintah mendorong swasta ikut membangun infrastruktur transportasi publik yang biasanya dibiayai penuh oleh negara.",
+   "Terminal Purabaya berdiri di lahan 12 hektare dan dikenal sebagai salah satu kawasan transportasi tersibuk di Indonesia. Proyek ini membutuhkan investasi sekitar Rp780,4 miliar dengan masa kerja sama 30 tahun, dan menawarkan perkiraan tingkat keuntungan tahunan bagi investor sebesar 13,33 persen. Terminal Betan Subing, simpul transportasi yang menghubungkan wilayah Sumatera bagian selatan, berdiri di lahan 5,48 hektare dengan kebutuhan investasi sekitar Rp397,3 miliar, masa kerja sama 20 tahun, dan perkiraan keuntungan tahunan 12,52 persen.",
+   "Menurut data Kementerian Investasi dan Hilirisasi/BKPM, realisasi investasi hingga triwulan III 2026 tercatat Rp1.539,2 triliun, naik 7,3 persen dibandingkan periode yang sama tahun sebelumnya. Sektor transportasi, gudang, dan telekomunikasi menyumbang Rp154,4 triliun dari total tersebut. Lembaga ini menyebut sektor infrastruktur konektivitas dan transportasi menjadi salah satu fokus karena dinilai dapat menekan biaya logistik dan membuka akses ekonomi ke berbagai daerah.",
+   "Melalui kegiatan ini, pemerintah mencari masukan dari calon investor mengenai struktur proyek, pembagian risiko, dan kelayakan dokumen pengadaan sebelum tahap lelang resmi dimulai. Acara ini dihadiri Direktur Prasarana Transportasi Jalan Kemenhub, sejumlah pelaku usaha swasta dan BUMN di bidang transportasi, logistik, properti, kontraktor, lembaga keuangan, konsultan, serta asosiasi bisnis dari dalam dan luar negeri."
+  ],
+  "fotoAdegan": "Intercity buses lined up under a terminal canopy, passengers with luggage crossing the platform, bright midday light.",
+  "fotoSumber": "https://bkpm.go.id/storage/image/origin/webp/Za9KnVHabrlQC4pvEYiGmsN9MdY9wZ.webp",
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "takeaway": "Yang berubah di sini bukan proyek yang sudah jadi, melainkan tahap awal penjajakan pasar sebelum pemerintah membuka lelang resmi dua terminal bus tipe A lewat skema KPBU, kerja sama di mana swasta membiayai pembangunan dan diberi hak mengelola selama puluhan tahun sebagai gantinya. Yang langsung terdampak adalah pelaku usaha transportasi, logistik, kontraktor, dan lembaga keuangan yang diundang memberi masukan soal struktur proyek dan pembagian risiko, karena masukan itu akan menentukan apakah dokumen lelang final menarik bagi mereka atau tidak. Terminal Purabaya di Surabaya menawarkan perkiraan keuntungan tahunan 13,33 persen selama 30 tahun kerja sama, sementara Betan Subing di Lampung menawarkan 12,52 persen selama 20 tahun, angka yang akan jadi pembanding utama investor sebelum memutuskan ikut lelang. Arahnya mengikuti pola pemerintah menambah daftar proyek KPBU infrastruktur transportasi secara bertahap, dan yang akan memastikan apakah kedua proyek ini benar-benar berjalan adalah terbitnya dokumen pengadaan resmi dan jadwal lelang dari Kementerian Perhubungan setelah masa penjaringan minat ini selesai.",
+  "imageV": "mvjaro00"
+ },
+ {
   "slug": "byan-tak-konfirmasi-transaksi-rp2-588-jb-pegang-30-25",
   "category": "Aksi Korporasi",
   "title": "BYAN Tak Konfirmasi Transaksi Rp2.588, JB Pegang [30,25%]",
@@ -27,6 +55,32 @@ var ARTICLES = [
   "fotoAdegan": "Coal conveyor belts and heavy loaders moving ore at a large open-pit mine, dust haze in early morning light",
   "takeaway": "Kami menilai laporan ini negatif dari sisi tata kelola, karena BYAN memilih tidak menjawab inti pertanyaan bursa soal selisih harga mencolok, saham keluarga pendiri dijual Rp2.588 sementara pembelian di pasar reguler empat hari sebelumnya oleh orang yang sama tercatat Rp11.200 per saham. Yang tersentuh bukan laba atau kas perusahaan, karena ini pemindahan saham yang sudah ada, bukan penerbitan saham baru, sehingga jumlah saham beredar dan laba per saham investor publik tidak berubah, yang bergeser adalah peta hak suara, karena gabungan saham Dato' Low Tuck Kwong dan Elaine Low kini 30,30 persen, nyaris berimpit dengan 30,25 persen milik Jhonlin Baratama, sehingga pemegang saham publik pantas mencermati siapa yang sebenarnya mengendalikan arah Bayan ke depan. Yang perlu dipantau berikutnya adalah apakah pembeli saham akhirnya menyampaikan Laporan Kepemilikan Saham ke KSEI untuk memastikan identitasnya, apakah muncul pengumuman pengambilalihan di media sesuai POJK 9/2018, serta bagaimana komposisi pengendalian ini terlihat pada RUPSLB Bayan yang dijadwalkan 23 November 2026 dengan daftar pemegang saham berhak hadir dihitung sejak 29 Oktober 2026.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "lansia-depok-ikut-berkarya-lewat-program-pnm",
+  "category": "BUMN",
+  "title": "Lansia Depok Ikut [Berkarya] Lewat Program PNM",
+  "deck": "PNM menghadirkan kegiatan budidaya ayam petelur dan ikan nila bagi lansia di Panti Werdha Rumah Oma, Depok, lewat program Lansiapreneur.",
+  "image": "assets/img/lansia-depok-ikut-berkarya-lewat-program-pnm.jpg",
+  "date": "22 Oktober 2026",
+  "isoDate": "2026-10-22T14:44:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474413-pnm-lansiapreneur-jadi-ruang-berkarya-bagi-lansia",
+  "tags": [
+   "PNM",
+   "Lansiapreneur",
+   "CSR",
+   "Depok"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) memperluas program pemberdayaan lansia lewat PNM Lansiapreneur, kali ini hadir di Panti Werdha Muslim Rumah Oma, Depok, Jawa Barat. Alih-alih sekadar memberi bantuan fasilitas, PNM mengajak para penghuni panti, yang akrab disapa oma dan opa, untuk terlibat langsung dalam kegiatan budidaya ayam petelur dan ikan nila sesuai kemampuan masing-masing. Pendekatan ini menunjukkan pergeseran cara pandang terhadap lansia, dari sekadar penerima bantuan menjadi pihak yang tetap bisa beraktivitas dan merasa berguna di usia senja.",
+   "Dalam praktiknya, para lansia dilibatkan mulai dari memberi makan ayam dan ikan, memantau pertumbuhannya, hingga memanen telur dan ikan untuk dikonsumsi bersama. Oma Wati, salah satu penghuni Rumah Oma, mengaku senang bisa ikut memberi makan ayam, mengambil telurnya untuk diolah jadi telur ceplok atau dadar, serta menikmati ikan nila goreng hasil panen bersama penghuni lain. Opa Yusri menambahkan bahwa kegiatan ini memberinya pengalaman baru, memelihara ikan ternyata tidak cukup hanya diberi makan, tetapi juga perlu diperhatikan pertumbuhannya sampai siap dipanen.",
+   "Direktur Utama PNM, Kindaris, menjelaskan bahwa program ini dirancang agar lansia tetap memiliki ruang untuk berkarya dan menjalani hari dengan lebih bermakna, bukan hanya menerima bantuan fasilitas semata. Menurutnya, usia bukan alasan untuk berhenti produktif, sehingga PNM ingin para penghuni panti bisa tetap aktif melakukan hal yang mereka sukai sekaligus merasakan manfaat langsung dari hasil kerja mereka sendiri."
+  ],
+  "fotoAdegan": "Elderly hands scattering feed to layer hens inside a modest backyard coop, soft morning sunlight, quiet courtyard setting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/22/6ad9bcf33ff71-pnm-lansiapreneur-jadi-ruang-berkarya-bagi-lansia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah bentuk bantuan PNM ke panti jompo, dari sekadar fasilitas menjadi kegiatan beternak ayam petelur dan ikan nila yang dikerjakan sendiri oleh para lansia di Rumah Oma, Depok. Pihak yang terdampak langsung jelas para penghuni panti itu, bukan kelompok ekonomi yang lebih luas. Berita ini belum menyebut berapa dana yang dikeluarkan PNM untuk program ini, berapa banyak panti werdha lain yang sudah atau akan ikut Lansiapreneur, dan apakah pola di Depok ini akan diperluas ke kota lain. Tanpa angka skala dan rencana perluasan itu, belum bisa dibaca apakah ini aksi sosial sekali jalan atau bagian dari strategi pemberdayaan lansia yang lebih besar dari PNM. Yang perlu dipantau adalah pengumuman lanjutan PNM soal jumlah panti dan lokasi lain yang kebagian program serupa.",
+  "imageV": "mvjaroel"
  },
  {
   "slug": "bukk-jawab-bursa-piutang-jatuh-tempo-naik-ke-rp146-m",
@@ -133,7 +187,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah proses masuk Indonesia ke dua forum ekonomi besar: OECD, yakni kelompok negara-negara berpendapatan tinggi, yang sudah menyelesaikan 20 dari 25 berkas penilaian awal atau sekitar 80 persen dengan target rampung 2028, dan CPTPP, pakta dagang lintas Pasifik yang diharapkan disepakati seluruh anggotanya pada pertemuan November. Yang terdampak langsung adalah kementerian dan lembaga teknis yang harus menyesuaikan aturan dalam negeri dengan standar kedua forum itu, serta pelaku usaha yang nantinya harus mengikuti aturan main baru kalau aksesi disetujui. Pola ini menunjukkan Indonesia bergerak dari sekadar menerima bantuan teknis Australia ke tahap mengejar target keanggotaan dengan tenggat yang sudah dipatok sendiri, bukan sekadar wacana jangka panjang. Yang akan memastikan apakah target ini realistis adalah hasil pertemuan anggota CPTPP bulan depan dan laporan progres lima berkas OECD yang masih tersisa menjelang 2028.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "kemendag-kirim-17-asn-ke-korea-bangun-trade-corpu",
@@ -319,7 +373,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Data yang konkret di sini bukan cuma satu angka proyeksi, tapi tren tiga periode berturut-turut, yakni SBT kredit baru naik dari 88,92 di akhir 2025, jadi 90,08 pada kuartal III 2026, dan diproyeksikan 91,31 pada kuartal IV 2026, sementara indeks ketatnya syarat kredit terus turun dari 0,28 ke 0,15 pada rentang waktu yang sama. Pihak yang langsung terdampak adalah calon peminjam, baik pelaku usaha maupun perseorangan, karena pelonggaran itu menyentuh plafon, tenor, bunga, dan syarat dokumen sekaligus, bukan hanya satu aspek saja. Pola tiga periode ini mengarah pada pelonggaran kredit yang bertahap dan berkelanjutan, bukan sekadar lonjakan musiman akhir tahun. Yang akan memastikan apakah arah ini benar-benar terjadi adalah data realisasi outstanding kredit perbankan yang dirilis BI tiap bulan, serta hasil Survei Perbankan triwulan berikutnya yang akan membandingkan prakiraan ini dengan kenyataan di lapangan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "tgka-jelaskan-ke-bei-soal-lonjakan-harga-6-06",

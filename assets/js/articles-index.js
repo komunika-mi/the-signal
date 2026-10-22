@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dua-terminal-bus-ditawarkan-ke-investor-lewat-skema-kpbu",
+  "category": "Bisnis",
+  "title": "Dua Terminal Bus Ditawarkan ke Investor Lewat Skema [KPBU]",
+  "deck": "Pemerintah menjaring minat investor untuk proyek KPBU Terminal Purabaya (Surabaya) dan Betan Subing (Lampung), dengan total kebutuhan investasi sekitar Rp1,18 triliun.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/dua-terminal-bus-ditawarkan-ke-investor-lewat-skema-kpbu.jpg",
+  "imageV": "mvjaro00",
+  "tags": [
+   "KPBU",
+   "Terminal Purabaya",
+   "Betan Subing",
+   "investasi infrastruktur"
+  ],
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/dorong-investasi-sektor-transportasi-keminveshil-dan-kemenhub-gelar-market-sounding-kpbu-terminal-tipe-a-purabaya-dan-betan-subing",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
   "slug": "byan-tak-konfirmasi-transaksi-rp2-588-jb-pegang-30-25",
   "category": "Aksi Korporasi",
   "title": "BYAN Tak Konfirmasi Transaksi Rp2.588, JB Pegang [30,25%]",
@@ -19,6 +37,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3092af4eed_dbe0665bfd.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lansia-depok-ikut-berkarya-lewat-program-pnm",
+  "category": "BUMN",
+  "title": "Lansia Depok Ikut [Berkarya] Lewat Program PNM",
+  "deck": "PNM menghadirkan kegiatan budidaya ayam petelur dan ikan nila bagi lansia di Panti Werdha Rumah Oma, Depok, lewat program Lansiapreneur.",
+  "date": "22 Oktober 2026",
+  "image": "assets/img/lansia-depok-ikut-berkarya-lewat-program-pnm.jpg",
+  "imageV": "mvjaroel",
+  "tags": [
+   "PNM",
+   "Lansiapreneur",
+   "CSR",
+   "Depok"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474413-pnm-lansiapreneur-jadi-ruang-berkarya-bagi-lansia"
  },
  {
   "slug": "bukk-jawab-bursa-piutang-jatuh-tempo-naik-ke-rp146-m",
@@ -6462,41 +6497,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7157/presiden-prabowo-tugaskan-menko-airlangga-perkuat-ekosistem-logistik-nasional-melalui-perpres-nomor-41-tahun-2026",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pemerintah-targetkan-42-6-gw-listrik-dari-ebt-hingga-2034",
-  "category": "Energi",
-  "title": "Pemerintah Targetkan 42,6 GW Listrik dari [EBT] hingga 2034",
-  "deck": "RUPTL PLN 2025-2034 menargetkan 42,6 GW atau 61 persen tambahan kapasitas listrik dari energi baru dan terbarukan, dengan potensi investasi Rp2.967,4 triliun.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/pemerintah-targetkan-42-6-gw-listrik-dari-ebt-hingga-2034.jpg",
-  "imageV": "mv8zviio",
-  "tags": [
-   "RUPTL",
-   "Energi Terbarukan",
-   "Ekspor",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/bahlil-di-tei-ke-41-dunia-kini-lirik-produk-hijau-nilainya-lebih-tinggi-dari-produk-fosil",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "umkm-papua-dan-jakarta-buru-pembeli-ekspor-di-tei-2026",
-  "category": "UMKM",
-  "title": "UMKM Papua dan Jakarta Buru [Pembeli] Ekspor di TEI 2026",
-  "deck": "Pelaku UMKM dari Jayapura dan Jakarta memamerkan produk di paviliun Kementerian Perdagangan dalam Trade Expo Indonesia ke-41, sembari menanti kepastian pembeli dari luar negeri.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/umkm-papua-dan-jakarta-buru-pembeli-ekspor-di-tei-2026.jpg",
-  "imageV": "mv8zvk39",
-  "tags": [
-   "UMKM",
-   "Ekspor",
-   "Trade Expo Indonesia",
-   "Kementerian Perdagangan"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/asa-ekspor-umkm-dari-ruang-tamu-pilihan-busan",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

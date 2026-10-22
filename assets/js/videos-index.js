@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "NAPcw020Xc4",
+  "title": "Presiden Prabowo Hadiri Rakornas Percepatan Akses Keuangan Daerah",
+  "category": "Perbankan",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto menghadiri Rapat Koordinasi Nasional Tim Percepatan Akses Keuangan Daerah (TPAKD) 2026 yang membahas penguatan akses pembiayaan di tingkat daerah.",
+  "takeaway": "Rakornas TPAKD relevan bagi pembaca ekonomi karena menyangkut kebijakan inklusi keuangan dan akses pembiayaan daerah yang berdampak langsung pada pelaku UMKM."
+ },
+ {
+  "id": "u9tPgVdAUi4",
+  "title": "Presiden Prabowo Hadiri Rakornas TPAKD 2026 di JIExpo Jakarta",
+  "category": "Perbankan",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto menghadiri langsung Rakornas Tim Percepatan Akses Keuangan Daerah (TPAKD) 2026 di Grand Ballroom Convention JIExpo Jakarta.",
+  "takeaway": "Forum ini penting bagi pembaca ekonomi karena membahas langkah konkret memperluas akses keuangan daerah yang menyokong pertumbuhan UMKM dan investasi lokal."
+ },
+ {
   "id": "d5-NqfD10nA",
   "title": "Gubes FHUI: Koperasi Jangan Sampai Mematikan Badan Usaha Lain",
   "category": "UMKM",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "AKIS",
   "summary": "Coca-Cola Foundation mendukung pengembangan Embung Doho di Wonogiri, Jawa Tengah, melalui inovasi panel surya dan program pengembangan usaha mikro, kecil, dan menengah.",
   "takeaway": "Program ini relevan bagi pembaca yang mengikuti pemberdayaan UMKM melalui dukungan sektor swasta."
- },
- {
-  "id": "q_wsL7VSoas",
-  "title": "Menko Bahlil Ungkap Stok BBM Nasional",
-  "category": "Energi",
-  "program": "AKIS",
-  "summary": "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia menyebut stok BBM nasional saat ini berada di kisaran 16 hingga 18 hari berdasarkan laporan Pertamina.",
-  "takeaway": "Data ketahanan stok BBM ini penting bagi pembaca untuk menilai keamanan pasokan energi nasional."
- },
- {
-  "id": "Ih9I7mQQBJM",
-  "title": "China Olah Sampah Jadi Energi Listrik",
-  "category": "Energi",
-  "program": "Kabar Siang",
-  "summary": "China mengembangkan teknologi pengolahan sampah menjadi energi listrik atau waste-to-energy untuk menekan volume sampah sekaligus menambah pasokan listrik.",
-  "takeaway": "Inovasi ini jadi referensi bagi pembaca yang mengikuti perkembangan industri energi alternatif global."
  }
 ];

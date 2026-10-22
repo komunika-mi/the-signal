@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "NAPcw020Xc4",
+  "title": "Presiden Prabowo Hadiri Rakornas Percepatan Akses Keuangan Daerah",
+  "category": "Perbankan",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto menghadiri Rapat Koordinasi Nasional Tim Percepatan Akses Keuangan Daerah (TPAKD) 2026 yang membahas penguatan akses pembiayaan di tingkat daerah.",
+  "takeaway": "Rakornas TPAKD relevan bagi pembaca ekonomi karena menyangkut kebijakan inklusi keuangan dan akses pembiayaan daerah yang berdampak langsung pada pelaku UMKM.",
+  "terbit": "2026-10-22T08:42:51+00:00"
+ },
+ {
+  "id": "u9tPgVdAUi4",
+  "title": "Presiden Prabowo Hadiri Rakornas TPAKD 2026 di JIExpo Jakarta",
+  "category": "Perbankan",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto menghadiri langsung Rakornas Tim Percepatan Akses Keuangan Daerah (TPAKD) 2026 di Grand Ballroom Convention JIExpo Jakarta.",
+  "takeaway": "Forum ini penting bagi pembaca ekonomi karena membahas langkah konkret memperluas akses keuangan daerah yang menyokong pertumbuhan UMKM dan investasi lokal.",
+  "terbit": "2026-10-22T08:14:29+00:00"
+ },
+ {
   "id": "d5-NqfD10nA",
   "title": "Gubes FHUI: Koperasi Jangan Sampai Mematikan Badan Usaha Lain",
   "category": "UMKM",

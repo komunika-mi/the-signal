@@ -109,6 +109,161 @@ var ARTICLES = [
   "imageV": "mvl0vvzh"
  },
  {
+  "slug": "icbp-indofood-tambah-saham-jadi-80-56-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "ICBP: Indofood Tambah Saham Jadi 80,56% [Volatilitas]",
+  "deck": "Menjawab permintaan penjelasan BEI soal volatilitas transaksi, ICBP ungkap Indofood menambah kepemilikan 3,35 juta saham pada 19-21 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T20:17:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/957348d987_e022741f7d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ICBP",
+  "tags": [
+   "ICBP",
+   "Indofood",
+   "kepemilikan saham",
+   "buyback"
+  ],
+  "body": [
+   "Indofood CBP Sukses Makmur Tbk (ICBP) merespons permintaan penjelasan dari Bursa Efek Indonesia melalui surat nomor S-13306/BEI.PP2/10-2026 tanggal 21 Oktober 2026 terkait volatilitas transaksi efeknya. Dalam surat tanggapan bernomor 041/ICBP/CS/X/26 tertanggal 23 Oktober 2026 yang ditandatangani Corporate Secretary Gideon Ariprastomo Putro, ICBP menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik dan dapat memengaruhi harga sahamnya.",
+   "Poin paling konkret dalam tanggapan ini menyangkut aktivitas pemegang saham utama. ICBP mengonfirmasi bahwa PT Indofood Sukses Makmur Tbk, sebagai pemegang saham utama, membeli 3.350.000 lembar saham ICBP di bursa pada 19 sampai 21 Oktober 2026. Transaksi itu menambah kepemilikan Indofood dari semula 9.391.678.000 lembar saham (80,53 persen) menjadi 9.395.028.000 lembar saham (80,56 persen). ICBP menyebut transaksi ini tidak memicu kewajiban lapor perubahan kepemilikan sebagaimana diatur dalam Pasal 2 ayat (5) dan (6) POJK Nomor 4 Tahun 2024.",
+   "Soal rencana korporasi ke depan, ICBP menegaskan kembali rencana pembelian kembali saham (buyback) yang telah diumumkan lewat surat nomor 040/ICBP/CS/X/26 pada tanggal yang sama, mengacu pada aturan OJK tentang kebijakan menjaga stabilitas pasar modal saat kondisi pasar saham berfluktuasi signifikan. Sementara itu, saat dikonfirmasi oleh Corporate Secretary, Indofood menyatakan belum memiliki rencana lain terkait kepemilikan sahamnya di ICBP."
+  ],
+  "fotoAdegan": "Workers monitoring an automated instant noodle packaging line in a food factory, steam rising, bright industrial lighting",
+  "takeaway": "Penilaian redaksi netral, karena penambahan saham oleh Indofood ini porsinya sangat kecil, hanya 0,03 persen dari total saham ICBP, dan tidak mengubah hak suara atau status pengendali secara berarti. Yang tersentuh di sini sebatas struktur pemegang saham, bukan ekuitas, kas, atau laba per saham perusahaan, dan pasar biasanya tetap mencermati gerak pemegang saham utama karena bisa mengindikasikan arah pandangan mereka terhadap prospek perusahaan, meski dalam kasus ini skalanya memang terlalu kecil untuk dibaca sebagai sinyal keyakinan yang kuat. Yang lebih layak dipantau justru realisasi rencana buyback senilai Rp750 miliar yang sudah diumumkan ICBP pada 23 Oktober 2026, sebab pembelian kembali saham dalam skala lebih besar itulah yang akan lebih menentukan jumlah saham beredar dan laba per saham ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sger-siap-lunasi-obligasi-rp273-6-miliar-jatuh-tempo-25-oktober",
+  "category": "Aksi Korporasi",
+  "title": "SGER siap lunasi [obligasi] Rp273,6 miliar jatuh tempo 25 Oktober",
+  "deck": "Sumber Global Energy menyatakan dana pelunasan Obligasi Berkelanjutan I Tahap II 2025 Seri A senilai Rp273,645 miliar sudah siap sebelum jatuh tempo 25 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T20:15:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/81932cbed8_442d6a34f2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SGER",
+  "tags": [
+   "SGER",
+   "obligasi korporasi",
+   "jatuh tempo obligasi",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Sumber Global Energy Tbk (SGER) memastikan telah menyiapkan dana untuk melunasi seluruh pokok Obligasi Berkelanjutan I Sumber Global Energy Tahap II Tahun 2025 Seri A dengan kode seri SGER01ACN2. Nilai pokok obligasi ini sebesar Rp273.645.000.000, yang akan jatuh tempo pada 25 Oktober 2026. Kepastian ini disampaikan lewat surat Corporate Secretary SGER, Michael Harold, kepada Bursa Efek Indonesia tertanggal 2 Oktober 2026, mengacu pada aturan Peraturan I-E yang mewajibkan emiten melaporkan kesiapan dana pelunasan obligasi sebelum tanggal jatuh temponya.",
+   "Obligasi ini pertama kali diterbitkan pada 15 Oktober 2025 berdasarkan prospektus bertanggal 7 Oktober 2025. Bursa Efek Indonesia dalam pengumuman resminya menyatakan bahwa mulai 26 Oktober 2026, satu hari setelah jatuh tempo, efek SGER01ACN2 akan dihapus dari pencatatan dan tidak dapat lagi diperdagangkan di BEI. Ini merupakan prosedur standar begitu sebuah obligasi lunas dan selesai masa berlakunya."
+  ],
+  "fotoAdegan": "Stacks of coal at an open storage yard near a river port with a loader truck moving between piles, hazy morning light",
+  "takeaway": "Laporan ini condong positif bagi SGER, karena perusahaan menegaskan secara resmi bahwa dana untuk melunasi penuh pokok obligasi Rp273,645 miliar sudah tersedia, sehingga risiko gagal bayar pada tanggal jatuh tempo bisa dikesampingkan. Pos yang tersentuh adalah arus kas dan utang: kas perusahaan akan berkurang sebesar nilai pelunasan itu, tapi di sisi lain beban utang obligasi plus bunga yang menyertainya akan hilang dari pembukuan setelah dibayar, yang berarti beban bunga ke depan otomatis turun. Arus kas sendiri adalah catatan uang yang benar-benar masuk dan keluar dari kas perusahaan, beda dengan laba di atas kertas, sehingga kemampuan membayar tunai seperti ini jadi sinyal kesehatan keuangan jangka pendek. Yang perlu dipantau selanjutnya adalah realisasi pembayaran pada tanggal jatuh tempo, 25 Oktober 2026, serta kepastian penghapusan pencatatan obligasi ini dari BEI mulai 26 Oktober 2026 sebagai tanda pelunasan benar-benar tuntas.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "adhi-laba-pemilik-melonjak-tapi-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "ADHI: Laba Pemilik Melonjak, tapi Arus Kas Operasi [Negatif]",
+  "deck": "Laba bersih yang menjadi hak pemegang saham Adhi Karya naik tiga kali lipat pada kuartal III-2026, tapi arus kas operasi berbalik negatif dan kas perusahaan menyusut separuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T20:10:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023202014-64924-0/FinancialStatement-2026-III-ADHI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "Adhi Karya",
+   "laporan keuangan",
+   "BUMN Karya"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) menyampaikan koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Surat bernomor 007/COR/10/2026 ini disampaikan pada 23 Oktober 2026, menyusul surat pernyataan direksi yang sudah diteken lebih dulu pada 20 Oktober 2026. Pendapatan usaha ADHI turun menjadi Rp5,37 triliun, dari Rp5,65 triliun pada sembilan bulan pertama 2025. Meski pendapatan turun, laba bruto justru naik menjadi Rp876,58 miliar dari Rp833,66 miliar, karena beban pokok pendapatan ikut ditekan lebih dalam.",
+   "Laba sebelum pajak tercatat Rp20,81 miliar, turun dari Rp30,40 miliar tahun lalu, antara lain karena pendapatan lain-lain bersih menyusut menjadi Rp51,03 miliar dari Rp107,85 miliar. Secara total, laba tahun berjalan konsolidasian turun menjadi Rp15,87 miliar dari Rp21,33 miliar. Namun porsi yang menjadi hak pemegang saham induk justru melonjak menjadi Rp15,34 miliar dari Rp4,42 miliar, sementara porsi untuk pemegang saham minoritas anak usaha susut tajam menjadi Rp528,95 juta dari Rp16,91 miliar. Laba bersih per saham dasar ikut naik menjadi Rp1,82 dari Rp0,53.",
+   "Dari sisi neraca, total aset ADHI turun menjadi Rp26,77 triliun per 30 September 2026, dari Rp28,79 triliun di akhir 2025. Kas dan setara kas menyusut tajam menjadi Rp855 miliar dari Rp1,71 triliun, sementara total liabilitas turun menjadi Rp23,46 triliun dari Rp25,50 triliun, antara lain karena utang bank jangka pendek berkurang dari Rp3,01 triliun menjadi Rp1,72 triliun. Total ekuitas naik tipis menjadi Rp3,31 triliun dari Rp3,30 triliun. Laporan arus kas menunjukkan kegiatan operasi membutuhkan kas neto Rp475,12 miliar sepanjang sembilan bulan ini, berbalik dari periode yang sama tahun lalu yang masih menghasilkan kas neto Rp328,76 miliar, dan kekurangannya ditutup antara lain dari pencairan investasi di ventura bersama senilai Rp456,87 miliar.",
+   "Pos investasi pada entitas asosiasi susut dari Rp2,24 triliun menjadi Rp661,14 miliar, berbarengan dengan munculnya pos baru senilai Rp2,16 triliun yang diklasifikasikan sebagai aset tidak lancar dimiliki untuk dijual, pos yang sebelumnya tidak ada di laporan akhir 2025. Pergeseran ini sejalan dengan rencana RUPSLB ADHI yang diberitakan sehari sebelumnya untuk melepas saham di ruas tol Jasamarga Jogja Solo, meski dokumen ini tidak merinci aset mana saja yang dimasukkan ke pos tersebut."
+  ],
+  "fotoAdegan": "Construction workers in hard hats checking rebar and concrete formwork at an elevated highway project site, cranes in the background, overcast morning sky",
+  "takeaway": "Laporan ini condong netral, sebab sinyalnya bercampur: laba yang menjadi hak pemegang saham induk melonjak tiga kali lipat jadi Rp15,34 miliar, tapi uang tunai yang benar-benar dihasilkan dari bisnis inti justru menciut. Yang tersentuh adalah arus kas dari kegiatan operasi, yaitu selisih antara uang yang masuk dari pelanggan dan uang yang keluar untuk membayar pemasok, karyawan, dan pajak, dan angka ini berbalik jadi negatif Rp475,12 miliar dari sebelumnya positif Rp328,76 miliar, sementara kas perusahaan ikut menyusut separuh jadi Rp855 miliar. Itu berarti ADHI menutup kebutuhan kasnya bukan dari operasional, melainkan dari pencairan investasi di ventura bersama dan pengurangan utang bank, cara yang sifatnya tidak bisa diandalkan setiap tahun. Pos investasi pada entitas asosiasi juga menyusut drastis seiring munculnya aset senilai Rp2,16 triliun yang disiapkan untuk dijual, sejalan dengan rencana RUPSLB ADHI melepas saham di ruas tol Jasamarga Jogja Solo yang diumumkan sehari sebelumnya. Yang perlu dipantau berikutnya adalah hasil RUPSLB tersebut serta apakah arus kas operasi kembali positif pada laporan kuartal berikutnya, karena kas yang menipis membatasi ruang ADHI membayar liabilitas jangka pendeknya yang mencapai Rp17,15 triliun.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wika-divestasi-saham-winner-ke-wika-rekon-rp641-juta",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Divestasi] Saham WINNER ke WIKA Rekon Rp641 Juta",
+  "deck": "WIKA melepas 44,18 persen saham WINNER ke anak usahanya, WIKA Rekon, senilai Rp641 juta sebagai bagian penataan ulang struktur anak usaha BUMN.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T20:06:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1a0cb1c43d_efd420f9ad.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "divestasi",
+   "transaksi afiliasi",
+   "BUMN"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) melaporkan transaksi divestasi saham pada PT Wijaya Karya Industri Energi (WINNER) yang dilakukan pada 21 Oktober 2026. Dalam transaksi ini, WIKA melepas seluruh kepemilikannya di WINNER sebanyak 50.917.600 lembar saham, setara 44,18 persen dari total saham yang diterbitkan, kepada PT Wijaya Karya Rekayasa Konstruksi (WIKA Rekon). Nilai transaksi ditetapkan sebesar Rp641 juta.",
+   "Sebelum transaksi, WIKA Rekon sudah memegang 55,82 persen saham WINNER, sehingga kini WIKA Rekon menjadi pemilik tunggal perusahaan tersebut. Yang membuat transaksi ini tetap berputar di lingkup WIKA Grup adalah fakta bahwa WIKA sendiri merupakan pemegang saham pengendali WIKA Rekon, dengan kepemilikan 98,94 persen. Perseroan menjelaskan, divestasi ini merupakan bagian dari program penataan (streamlining) WIKA Grup untuk menyederhanakan struktur kepemilikan anak usaha dan sejalan dengan Rencana Kerja dan Anggaran Perusahaan tahun buku 2026. Transaksi ini juga disebut sebagai tindak lanjut arahan PT Danantara Asset Management selaku pemegang saham mayoritas WIKA, sebagaimana tertuang dalam surat tanggal 24 Juni 2025 dan 2 Maret 2026 tentang penataan anak usaha BUMN level 2 hingga level 7, serta sejalan dengan Instruksi Presiden Nomor 7 Tahun 2026 tanggal 15 Juni 2026 tentang percepatan penataan badan usaha milik negara.",
+   "WIKA menyatakan transaksi ini dikecualikan dari prosedur wajib Transaksi Afiliasi berdasarkan Pasal 6 ayat 1 huruf c POJK Nomor 42/2020, karena nilainya tidak melebihi 0,5 persen dari modal disetor Perseroan dan tidak melebihi Rp5 miliar. Perseroan juga menegaskan transaksi ini tidak mengandung benturan kepentingan dan dilakukan sesuai praktik usaha yang wajar tanpa merugikan kepentingan pemegang saham publik. Laporan ditandatangani oleh Direktur Utama WIKA, I Ketut Pasek Senjaya Putra, dan disampaikan ke bursa oleh Corporate Secretary WIKA, Ngatemin."
+  ],
+  "fotoAdegan": "Industrial technicians inspecting steel structural components in a construction fabrication yard, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi WIKA karena nilai transaksinya sangat kecil, hanya Rp641 juta, dan aset yang dilepas tetap berputar di dalam grup lewat WIKA Rekon yang 98,94 persen sahamnya dikuasai WIKA sendiri, sehingga kekayaan grup secara keseluruhan nyaris tidak berubah. Yang tersentuh hanya arus kas dalam jumlah kecil berupa dana masuk Rp641 juta dan penyederhanaan struktur kepemilikan antar anak usaha, bukan ekuitas atau laba per saham, jadi dampaknya ke kinerja keuangan WIKA yang dilaporkan ke publik praktis tidak terasa. Istilah transaksi afiliasi yang dikecualikan di sini berarti transaksi antar pihak yang masih berelasi, dalam hal ini sesama anak usaha WIKA, yang karena nilainya kecil tidak perlu melalui proses penilaian independen dan persetujuan pemegang saham independen yang biasanya diwajibkan untuk transaksi semacam ini. Yang perlu dipantau adalah kelanjutan program penataan anak usaha BUMN sesuai Instruksi Presiden Nomor 7 Tahun 2026, karena arahan Danantara yang sama kemungkinan memicu rangkaian transaksi serupa di tubuh WIKA Grup ke depan, di tengah sorotan investor terhadap WIKA yang belum lama ini juga tercatat gagal memenuhi kewajiban bagi hasil sukuknya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wika-rupsu-sukuk-gagal-keputusan-usulan-ditolak-51-8",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: RUPSU Sukuk Gagal Keputusan, Usulan Ditolak [51,8%]",
+  "deck": "RUPSU sukuk WIKA pada 21 Oktober 2026 gagal mencapai keputusan karena suara setuju atas usulan penyelesaian gagal bayar bagi hasil ke-14 dan ke-15 hanya 48,2 persen, kurang dari syarat 75 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T20:05:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/793aab41a1_f2170cc89c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) menggelar Rapat Umum Pemegang Sukuk (RUPSU) atas Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 pada Rabu, 21 Oktober 2026, pukul 14.42 hingga 15.34 WIB di WIKA Tower 2, Jakarta Timur. Agenda rapat adalah penjelasan WIKA mengenai kelalaiannya membayar Pendapatan Bagi Hasil, semacam imbal hasil berkala pada sukuk syariah, ke-14 untuk Seri A serta ke-15 untuk Seri B dan Seri C, sekaligus usulan penyelesaian atas kelalaian tersebut. Perseroan diwakili oleh Mulyadi selaku Direktur Keuangan, didampingi Aji Bramantyojati yang mewakili PT Perusahaan Pengelola Aset (Persero) sebagai konsultan yang diberi kuasa oleh direksi. PT Bank Mega Tbk hadir selaku wali amanat, dan notaris Humberg Lie, S.H., S.E., M.Kn. mencatat jalannya rapat.",
+   "Rapat dihadiri pemegang sukuk yang mewakili Rp249 miliar nilai pokok sukuk, atau 88,356 persen dari total sukuk yang belum dibayar kembali sebesar Rp281,815 miliar, sehingga syarat kuorum kehadiran terpenuhi. Namun keputusan yang sah mensyaratkan persetujuan minimal 75 persen dari suara yang hadir. Hasil pemungutan suara tertulis menunjukkan hanya 120 miliar suara atau 48,193 persen yang setuju atas usulan WIKA, sementara 129 miliar suara atau 51,807 persen menyatakan tidak setuju, dan tidak ada suara abstain.",
+   "Karena suara setuju tidak mencapai ambang 75 persen, RUPSU ini dinyatakan tidak mengambil keputusan apa pun atas usulan penyelesaian kelalaian pembayaran tersebut. Dengan demikian status gagal bayar atas Pendapatan Bagi Hasil ke-14 Seri A dan ke-15 Seri B serta Seri C sukuk ini tetap belum terselesaikan, dan WIKA belum mengumumkan agenda rapat lanjutan maupun skema baru untuk pemegang sukuk."
+  ],
+  "fotoAdegan": "Construction workers in hard hats inspecting rebar and concrete formwork at a large infrastructure site, overcast daylight",
+  "takeaway": "Hasil RUPSU ini negatif bagi WIKA karena untuk kesekian kalinya dalam sepekan usulan penyelesaian gagal bayar sukuknya kandas, kali ini dengan suara setuju hanya 48,2 persen, tidak sampai syarat 75 persen. Pos yang tersentuh adalah arus kas perusahaan, sebab Pendapatan Bagi Hasil yang gagal dibayar itu pada dasarnya setara kewajiban bunga yang mestinya rutin dikeluarkan, sehingga selama belum ada kesepakatan, beban utang ini terus menggantung tanpa kepastian penyelesaian. Pelaku pasar mencermati pos ini karena makin lama default tidak kelar, makin besar risiko kreditur menuntut pelunasan dipercepat atau menempuh jalur hukum. Dokumen ini tidak menyebut tanggal RUPSU lanjutan, sehingga yang perlu dipantau adalah apakah WIKA kembali mengundang pemegang sukuk untuk pemungutan suara baru atau menempuh negosiasi di luar rapat untuk menuntaskan gagal bayar bagi hasil ke-14 dan ke-15 ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-usulan-sukuk-ditolak-lagi-71-4-suara-tak-setuju",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: Usulan Sukuk [Ditolak] Lagi, 71,4% Suara Tak Setuju",
+  "deck": "RUPSU Sukuk Mudharabah WIKA 21 Oktober gagal ambil keputusan karena 71,4% pemegang sukuk menolak usulan penjadwalan ulang bagi hasil ke-22 dan ke-23.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T20:04:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1032d3dc21_8df9761858.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk menggelar Rapat Umum Pemegang Sukuk (RUPSU) untuk Sukuk Mudharabah Berkelanjutan I Tahap I Tahun 2020 pada Rabu, 21 Oktober 2026, pukul 10.26 hingga 11.42 WIB, di WIKA Tower 2, Jakarta Timur. Tiga agenda dibahas dalam rapat ini: persetujuan perubahan atau penundaan jadwal pembayaran bagi hasil ke-22 Seri B dan ke-23 Seri C, persetujuan perubahan atau penundaan jadwal pembayaran bagi hasil ke-23 Seri B dan ke-24 Seri C, serta persetujuan pengesampingan pelanggaran atas tidak terbayarnya bagi hasil ke-22 Seri B dan ke-23 Seri C. Rapat dihadiri Wali Amanat PT Bank Mega Tbk, pihak Emiten yang diwakili Direktur Keuangan Mulyadi dan Aji Bramantyojati yang mewakili PT Perusahaan Pengelola Aset selaku konsultan atas kuasa Direksi, notaris Humberg Lie yang membuat berita acara, serta para pemegang sukuk. Selama rapat, tiga pemegang sukuk mengajukan pertanyaan dan pendapat terkait agenda tersebut.",
+   "Kuorum kehadiran rapat terpenuhi. Sukuk yang hadir mewakili nilai pokok Rp291,35 miliar atau 92,199 persen dari total sukuk WIKA yang masih belum dibayar kembali, yaitu Rp316 miliar. Namun dalam pemungutan suara tertulis, sebanyak Rp208 miliar suara, atau 71,392 persen, menyatakan tidak setuju atas usulan yang diajukan Emiten. Hanya Rp83,35 miliar suara, atau 28,608 persen, yang menyatakan setuju, dan tidak ada suara abstain. Karena aturan dalam Perjanjian Perwaliamanatan mensyaratkan persetujuan minimal tiga per empat atau 75 persen dari suara yang hadir, hasil pemungutan suara ini tidak memenuhi kuorum pengambilan keputusan, sehingga RUPSU tidak menghasilkan keputusan yang mengikat para pemegang sukuk."
+  ],
+  "fotoAdegan": "Stacks of steel rebar and idle construction cranes at a quiet infrastructure project site under an overcast sky",
+  "takeaway": "Hasil RUPSU ini negatif bagi WIKA karena untuk kesekian kalinya usulan penjadwalan ulang pembayaran bagi hasil sukuknya kandas, kali ini ditolak oleh 71,4 persen suara yang hadir, melanjutkan rangkaian kegagalan serupa yang sudah terjadi berturut-turut dalam sepekan terakhir. Kegagalan ini menyentuh arus kas dan beban bagi hasil perusahaan, sebab tanpa persetujuan penundaan, WIKA tetap berstatus menunggak pembayaran bagi hasil ke-22 dan ke-23 yang nilainya tidak kecil, sementara risiko wanprestasi atas instrumen utang ini tetap terbuka tanpa jalan keluar formal. Yang perlu dipantau berikutnya adalah apakah WIKA akan mengajukan RUPSU susulan dengan proposal baru untuk sukuk seri ini, serta bagaimana nasib jadwal pembayaran bagi hasil ke-23 Seri B dan ke-24 Seri C yang juga belum disepakati, karena tanpa kesepakatan baru status gagal bayar WIKA pada instrumen ini akan terus berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "enrg-catatkan-obligasi-rp500-miliar-tahap-v-di-bei",
   "category": "Aksi Korporasi",
   "title": "ENRG Catatkan [Obligasi] Rp500 Miliar Tahap V di BEI",
@@ -925,6 +1080,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "xdes-manajer-investasi-gold-etf-syariah-beralih-ke-danareksa",
+  "category": "Aksi Korporasi",
+  "title": "XDES: Manajer Investasi Gold ETF Syariah Beralih ke [Danareksa]",
+  "deck": "Manajer investasi Reksa Dana Syariah BRI MI Gold ETF Syariah beralih dari BRI MI ke Danareksa Investment Management Indonesia per 23 Oktober 2026, menyusul penggabungan empat manajer investasi BUMN.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T14:55:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c7bbc3e317_982d5b61fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XDES",
+  "tags": [
+   "XDES",
+   "Danareksa Investment Management",
+   "Manajer Investasi",
+   "Merger BUMN"
+  ],
+  "body": [
+   "PT BRI Manajemen Investasi mengumumkan bahwa manajer investasi pengelola Reksa Dana Syariah BRI MI Gold ETF Syariah, dengan kode XDES, berganti dari PT BRI Manajemen Investasi menjadi PT Danareksa Investment Management Indonesia. Perubahan ini berlaku efektif 23 Oktober 2026, sesuai surat bernomor S-176/DIMI-DIR.SP/PDM/X/2026A yang ditandatangani oleh Luthfi Azizul Hakim, IT & Operations Division Head.",
+   "Perubahan ini merupakan rangkaian dari penggabungan empat perusahaan manajer investasi milik BUMN. PT BNI Asset Management, PT BRI Manajemen Investasi, dan PT PNM Investment Management bergabung ke dalam PT Danareksa Investment Management Indonesia, yang sebelumnya bernama PT Mandiri Manajemen Investasi, sebagai entitas penerima penggabungan. Penggabungan ini berlaku efektif 1 Oktober 2026 berdasarkan Akta Penggabungan Nomor 262 tanggal 28 September 2026 di hadapan notaris Jose Dima Satria, dan telah diumumkan ke publik lewat Investor Daily dan Media Indonesia pada tanggal yang sama. Akibatnya, seluruh aktiva, pasiva, hak, dan kewajiban BNI AM, BRI MI, dan PNM Investment Management beralih ke Danareksa Investment Management Indonesia, dan status badan hukum ketiga perusahaan itu berakhir tanpa proses likuidasi.",
+   "Penggabungan ini juga mengubah permodalan Danareksa Investment Management Indonesia. Modal dasar perusahaan naik dari Rp100 miliar, yang terbagi atas 2.500 lembar saham, menjadi Rp555 miliar yang terbagi atas 13.875 lembar saham. Modal ditempatkan dan disetor naik dari Rp60 miliar menjadi Rp182,92 miliar, dengan jumlah saham bertambah dari 1.500 menjadi 4.573 lembar, masing-masing bernilai nominal Rp40 juta per saham.",
+   "Dari sisi operasional, kantor pusat perusahaan pindah ke Menara Mandiri 2 Lantai 15, dengan kantor pendukung operasional di Gedung BRI II Lantai 25. Domain email berubah menjadi @danareksainvestments.com, sementara alamat email lama tetap diteruskan otomatis selama masa transisi. Situs web lama milik keempat perusahaan, yaitu mandiri-investasi.co.id, bri-mi.co.id, bni-am.co.id, dan pnmim.com, untuk sementara masih bisa diakses sambil menunggu peluncuran situs resmi yang baru."
+  ],
+  "fotoAdegan": "Rows of small gold bars stored inside a bank vault, soft overhead lighting, a security grille visible in the foreground",
+  "takeaway": "Penilaian kami netral bagi pemegang unit XDES, karena pergantian manajer investasi ini murni konsekuensi administratif dari penggabungan empat anak usaha manajer investasi BUMN, bukan perubahan strategi atau kinerja pengelolaan dana itu sendiri. Yang tersentuh adalah permodalan si manajer investasi, bukan nilai aset reksa dana: modal ditempatkan dan disetor Danareksa Investment Management Indonesia naik dari Rp60 miliar menjadi Rp182,92 miliar setelah menyerap tiga manajer investasi lain, yang berarti perusahaan pengelola punya bantalan modal lebih tebal untuk menjalankan operasional dan menanggung risiko bisnis, meski ini tidak otomatis mengubah nilai unit penyertaan yang dipegang investor XDES. Yang perlu dipantau selanjutnya adalah peluncuran situs web resmi baru Danareksa Investment Management Indonesia yang akan menggantikan empat situs lama secara bertahap, serta apakah pengelola baru mengubah kebijakan investasi emas syariah yang menjadi dasar ETF ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "cfin-kuartal-iii-laba-naik-13-liabilitas-turun-24",
   "category": "Aksi Korporasi",
   "title": "CFIN Kuartal III: Laba Naik 13%, Liabilitas [Turun] 24%",
@@ -1058,6 +1240,32 @@ var ARTICLES = [
   "fotoGagal": 4
  },
  {
+  "slug": "baik-ganti-komisaris-utama-jadi-yeni-isnawati",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Ganti [Komisaris] Utama Jadi Yeni Isnawati",
+  "deck": "Yeni Isnawati menjadi Komisaris Utama baru BAIK, menggantikan Drs. Untung Sudarto, efektif sejak RUPSLB 31 Maret 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T13:47:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a06ac7d689_10bd3b36ef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAIK",
+  "tags": [
+   "BAIK",
+   "komisaris",
+   "RUPSLB",
+   "pergantian pengurus"
+  ],
+  "body": [
+   "PT Bersama Mencapai Puncak Tbk. (BAIK) melaporkan perubahan susunan Dewan Komisaris ke Bursa Efek Indonesia. Yeni Isnawati kini menjabat Komisaris Utama, posisi yang sebelumnya dipegang oleh Drs. Untung Sudarto, efektif sejak 31 Maret 2026. Dua komisaris lain yang diangkat pada tanggal yang sama adalah Wijanarko, SE., Ak. sebagai Komisaris Independen dan Busfi Arusagara sebagai Komisaris. Jajaran Direksi tidak berubah, Nanang Suherman tetap Direktur Utama didampingi Afanin Nur Raudhah dan Ubaidillah sebagai Direktur.",
+   "Perubahan ini merupakan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar di Malang pada 31 Maret 2026, dengan dua agenda utama, yaitu persetujuan perubahan anggota Dewan Komisaris dan persetujuan perubahan Pasal 3 Anggaran Dasar tentang maksud, tujuan, serta kegiatan usaha perseroan. Berita acara rapat mencatat Yeni Isnawati memegang 3.320.000 saham BAIK dan Nanang Suherman memegang 7.780.000 saham, sementara pemegang saham pengendali, PT Anak Baik Sejahtera, menguasai 888.900.000 saham yang diwakili melalui kuasa dalam rapat tersebut.",
+   "Laporan perubahan pengurus ini baru disampaikan secara resmi ke bursa pada 23 Oktober 2026, sekitar tujuh bulan setelah RUPSLB berlangsung."
+  ],
+  "fotoAdegan": "Wide shot of an empty corporate meeting room with rows of chairs facing a podium, soft natural light through tall windows",
+  "takeaway": "Pergantian komisaris ini kami nilai netral bagi BAIK karena murni urusan tata kelola, tidak mengubah arus kas, modal, maupun jumlah saham beredar perusahaan. Yang tersentuh adalah fungsi pengawasan, karena komisaris bertugas mengawasi kinerja direksi dan menjaga kepentingan pemegang saham minoritas, hal yang penting di sini sebab pengendali, PT Anak Baik Sejahtera, menguasai sekitar 96 persen hak suara dalam rapat sehingga suara pemegang saham publik relatif kecil. Perubahan susunan ini sebenarnya sudah berlaku sejak RUPSLB 31 Maret 2026, namun baru diumumkan ke publik pada 23 Oktober 2026, sehingga yang perlu dicermati adalah apakah BEI akan meminta penjelasan soal keterlambatan pelaporan ini, serta bagaimana kinerja Komisaris Utama baru tercermin pada laporan tahunan BAIK berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "arto-jadwalkan-mesop-tahap-i-periode-ii-harga-rp1-550",
   "category": "Aksi Korporasi",
   "title": "ARTO Jadwalkan [MESOP] Tahap I Periode II, Harga Rp1.550",
@@ -1107,6 +1315,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers loading palm oil fresh fruit bunches onto a truck at a plantation collection point, tropical morning light",
   "takeaway": "Saya nilai pengumuman ini netral karena baru memuat jadwal dan mekanisme rapat, bukan agenda RUPSLB yang sesungguhnya, sehingga belum ada keputusan korporasi yang bisa dinilai dampaknya terhadap kinerja perusahaan. Yang tersentuh di sini adalah hak suara pemegang saham, sebab hanya mereka yang tercatat di daftar pemegang saham per 6 November 2026 pukul 16.00 WIB yang bisa hadir dan memberi suara, sehingga pembeli saham sesudah tanggal itu tidak kebagian hak suara di rapat ini. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 9 November 2026, yang baru akan mengungkap agenda sebenarnya dari RUPSLB ini, serta pelaksanaan rapat itu sendiri pada 1 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ultj-jadwalkan-ulang-rupslb-ojk-minta-klarifikasi-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Jadwalkan Ulang RUPSLB, OJK Minta [Klarifikasi] Rights Issue",
+  "deck": "RUPSLB ULTJ yang membahas akuisisi 100% Frisian Flag Indonesia lewat rights issue mundur ke 6 November 2026 setelah OJK minta klarifikasi tambahan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T13:35:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0b1dc88e38_0ceaea7b4e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "RUPSLB",
+   "Rights Issue",
+   "Frisian Flag Indonesia"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) menjadwalkan ulang Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula akan digelar Selasa, 27 Oktober 2026, menjadi Jumat, 6 November 2026, pukul 10.00 WIB. Perseroan menyebut penundaan ini dilakukan karena Otoritas Jasa Keuangan (OJK), melalui surat Nomor S-370/PM.212/2026 tanggal 15 Oktober 2026, meminta tambahan informasi dan klarifikasi atas rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD IV) dan transaksi material yang akan dibahas dalam rapat tersebut. Rapat akan digelar secara fisik di kantor Perseroan di Jalan Raya Cimareme No 131, Kabupaten Bandung Barat, dan secara elektronik lewat aplikasi eASY.KSEI, dengan pemegang saham yang berhak hadir adalah mereka yang tercatat per 2 September 2026.",
+   "Agenda utama rapat adalah persetujuan PMHMETD IV, yakni penambahan modal ditempatkan dan disetor Perseroan lewat penerbitan saham baru dengan hak memesan efek terlebih dahulu bagi pemegang saham lama. Dana dari penambahan modal ini tidak berbentuk uang tunai, melainkan digunakan untuk mengambil alih 24.440 lembar saham atau 100 persen kepemilikan PT Frisian Flag Indonesia (FFI), yang saat ini dimiliki oleh FrieslandCampina International Holding B.V. (FCIH), Blue Waves Group Ventures Pte. Ltd., dan PT Bahtera Wiraniaga Internusa. Setelah transaksi ini rampung, FCIH tidak lagi memiliki FFI secara langsung, tetapi akan memegang saham ULTJ sebagai bentuk kepemilikan tidak langsung atas FFI. Perseroan menyebut transaksi ini sebagai transaksi material sesuai Peraturan OJK No. 17/2020 karena nilainya di atas 50 persen, sehingga wajib mendapat persetujuan pemegang saham.",
+   "Rapat juga akan meminta persetujuan perubahan susunan Direksi dan Dewan Komisaris yang akan berlaku efektif sejak tanggal penyelesaian akuisisi FFI, penggunaan sebagian saldo laba ditahan per 31 Desember 2025 untuk dividen tunai final tambahan, serta persetujuan perubahan dan pernyataan kembali Anggaran Dasar Perseroan untuk menyesuaikan tata kelola perusahaan. Informasi lain yang tidak diubah dalam pengumuman penjadwalan ulang ini tetap mengacu pada surat pemanggilan rapat tanggal 5 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers in white uniforms checking stainless steel milk processing tanks inside a modern dairy factory, early morning shift",
+  "takeaway": "Laporan ini netral bagi ULTJ, sebab isinya baru soal penjadwalan ulang rapat, bukan pembatalan atau perubahan rencana akuisisi Frisian Flag Indonesia itu sendiri, sementara OJK masih meminta klarifikasi tambahan atas rencana penambahan modal dan transaksi materialnya. Yang tersentuh adalah jumlah saham beredar dan laba per saham, karena Perseroan membayar akuisisi FFI dengan menerbitkan saham baru lewat rights issue, bukan dengan uang tunai, sehingga porsi kepemilikan pemegang saham lama bisa mengecil meski aset perusahaan bertambah lewat masuknya bisnis FFI. Dividen tambahan dari laba ditahan 2025 jadi penyeimbang positif yang perlu dicatat, meski besarannya belum disebut dalam dokumen ini. Yang perlu dipantau adalah RUPSLB baru pada 6 November 2026, karena persetujuan pemegang saham diperlukan sebelum akuisisi dan penambahan modal ini bisa berjalan, serta bagaimana Perseroan memenuhi permintaan klarifikasi OJK dalam suratnya tanggal 15 Oktober 2026 sebelum rapat itu digelar.",
   "sentimen": "netral"
  },
  {
@@ -1431,6 +1665,32 @@ var ARTICLES = [
   "fotoAdegan": "A narrow street of aging shophouse offices in central Jakarta, parked motorbikes along the curb, overcast afternoon light",
   "takeaway": "Laporan ini jelas condong negatif bagi pemegang saham OCAP, karena hampir semua indikator memburuk sekaligus: rugi melebar, aset menyusut, dan utang ke pemegang saham justru membesar. Pos yang paling tersentuh adalah ekuitas, yaitu selisih antara seluruh aset dan seluruh utang perusahaan; ketika utang sudah jauh melampaui aset seperti pada OCAP, perusahaan disebut mengalami defisiensi modal, kondisi yang membuat pemegang saham lama berisiko tidak mendapat apa-apa jika perusahaan dibubarkan. Arus kas operasi yang negatif juga penting dicermati karena menunjukkan kegiatan sehari-hari perusahaan sama sekali tidak menghasilkan uang, sehingga selama ini OCAP bertahan dari suntikan utang baru dari pemegang sahamnya sendiri, bukan dari bisnis yang berjalan. Yang perlu dipantau selanjutnya adalah apakah pemegang saham pengendali masih bersedia menambah pinjaman seperti Rp12,39 miliar yang cair tahun lalu, sebab tanpa suntikan itu kas OCAP yang kini hanya Rp6,04 miliar bisa cepat terkuras, serta bagaimana laporan audit penuh tahun buku 2026 nanti menggambarkan kelanjutan status suspensi saham yang sudah berjalan sejak September 2020.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "supr-protelindo-rampungkan-tender-saham-publik-3-periode",
+  "category": "Aksi Korporasi",
+  "title": "SUPR: Protelindo Rampungkan [Tender] Saham Publik 3 Periode",
+  "deck": "Setelah tiga periode penawaran tender sukarela sejak Juli 2026, Protelindo menyerap 733.052 dari 980.044 saham publik SUPR, menyisakan 246.992 saham yang tidak ikut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T09:37:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba6726b88a_cb4b99b12d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPR",
+  "tags": [
+   "SUPR",
+   "Protelindo",
+   "tender offer",
+   "delisting"
+  ],
+  "body": [
+   "Solusi Tunas Pratama Tbk (SUPR) melaporkan hasil akhir penawaran tender sukarela yang dilakukan PT Profesional Telekomunikasi Indonesia (Protelindo) atas saham-saham publik SUPR. Sesuai Peraturan OJK No. 54/POJK.04/2015, proses tender ini dibatasi maksimal 90 hari, dan periode terakhir berlangsung 24 September sampai 21 Oktober 2026. Laporan ini disampaikan untuk memenuhi Peraturan BEI No. I-N tentang Pembatalan Pencatatan (Delisting) dan Pencatatan Kembali (Relisting), yang mewajibkan emiten melaporkan perkembangan dan hasil tender semacam ini ke bursa.",
+   "Dari total 980.044 saham publik yang dipegang 621 pemegang saham, partisipasi tender berlangsung dalam tiga tahap. Pada periode pertama (24 Juli sampai 24 Agustus 2026), 57 pemegang saham menyerahkan 220.054 saham. Pada periode kedua (25 Agustus sampai 23 September 2026), 26 pemegang saham menyerahkan 511.060 saham. Pada periode ketiga sekaligus terakhir (24 September sampai 21 Oktober 2026), hanya 11 pemegang saham yang ikut dengan 1.938 saham. Secara keseluruhan, 733.052 saham publik berhasil dibeli Protelindo lewat tender ini, sementara 531 pemegang saham yang memegang 246.992 saham memilih tidak ikut sama sekali.",
+   "SUPR menyatakan pelaksanaan tender ini tidak membawa dampak negatif material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan. Perseroan juga menegaskan tidak ada informasi atau fakta material lain yang perlu diungkapkan selain yang sudah dipublikasikan sebelumnya terkait proses tender ini."
+  ],
+  "fotoAdegan": "Telecommunication towers standing above a hazy Indonesian suburban landscape, a technician checking cables at the base, late afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental SUPR karena isinya administratif, yaitu laporan hasil tender yang diwajibkan aturan bursa, bukan perubahan kinerja keuangan perusahaan secara langsung. Yang tersentuh di sini adalah sebaran kepemilikan saham publik atau yang biasa disebut free float, bukan laba, arus kas, atau beban bunga perusahaan. Pelaku pasar memperhatikan free float karena angka ini menentukan likuiditas perdagangan saham di bursa serta apakah perusahaan masih memenuhi syarat jumlah pemegang saham publik minimum untuk tetap tercatat. Dengan 733.052 dari 980.044 saham publik atau sekitar tiga perempatnya sudah berpindah ke Protelindo lewat tender tiga periode ini, porsi saham yang masih beredar bebas di tangan publik menyusut signifikan. Yang perlu dipantau selanjutnya adalah apakah SUPR akan mengajukan proses delisting resmi ke BEI mengingat laporan ini secara eksplisit merujuk pada Peraturan BEI I-N tentang Delisting dan Relisting, meski dokumen ini sendiri belum menyebut tanggal pengajuan atau RUPSLB terkait hal tersebut.",
+  "sentimen": "netral"
  },
  {
   "slug": "totl-gelar-rupslb-16-november-bahas-perubahan-direksi",

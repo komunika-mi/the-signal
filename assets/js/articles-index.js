@@ -70,6 +70,102 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "icbp-indofood-tambah-saham-jadi-80-56-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "ICBP: Indofood Tambah Saham Jadi 80,56% [Volatilitas]",
+  "deck": "Menjawab permintaan penjelasan BEI soal volatilitas transaksi, ICBP ungkap Indofood menambah kepemilikan 3,35 juta saham pada 19-21 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ICBP",
+   "Indofood",
+   "kepemilikan saham",
+   "buyback"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/957348d987_e022741f7d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sger-siap-lunasi-obligasi-rp273-6-miliar-jatuh-tempo-25-oktober",
+  "category": "Aksi Korporasi",
+  "title": "SGER siap lunasi [obligasi] Rp273,6 miliar jatuh tempo 25 Oktober",
+  "deck": "Sumber Global Energy menyatakan dana pelunasan Obligasi Berkelanjutan I Tahap II 2025 Seri A senilai Rp273,645 miliar sudah siap sebelum jatuh tempo 25 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SGER",
+   "obligasi korporasi",
+   "jatuh tempo obligasi",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/81932cbed8_442d6a34f2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-laba-pemilik-melonjak-tapi-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "ADHI: Laba Pemilik Melonjak, tapi Arus Kas Operasi [Negatif]",
+  "deck": "Laba bersih yang menjadi hak pemegang saham Adhi Karya naik tiga kali lipat pada kuartal III-2026, tapi arus kas operasi berbalik negatif dan kas perusahaan menyusut separuh.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "Adhi Karya",
+   "laporan keuangan",
+   "BUMN Karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023202014-64924-0/FinancialStatement-2026-III-ADHI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-divestasi-saham-winner-ke-wika-rekon-rp641-juta",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Divestasi] Saham WINNER ke WIKA Rekon Rp641 Juta",
+  "deck": "WIKA melepas 44,18 persen saham WINNER ke anak usahanya, WIKA Rekon, senilai Rp641 juta sebagai bagian penataan ulang struktur anak usaha BUMN.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "divestasi",
+   "transaksi afiliasi",
+   "BUMN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1a0cb1c43d_efd420f9ad.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-rupsu-sukuk-gagal-keputusan-usulan-ditolak-51-8",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: RUPSU Sukuk Gagal Keputusan, Usulan Ditolak [51,8%]",
+  "deck": "RUPSU sukuk WIKA pada 21 Oktober 2026 gagal mencapai keputusan karena suara setuju atas usulan penyelesaian gagal bayar bagi hasil ke-14 dan ke-15 hanya 48,2 persen, kurang dari syarat 75 persen.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/793aab41a1_f2170cc89c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-usulan-sukuk-ditolak-lagi-71-4-suara-tak-setuju",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: Usulan Sukuk [Ditolak] Lagi, 71,4% Suara Tak Setuju",
+  "deck": "RUPSU Sukuk Mudharabah WIKA 21 Oktober gagal ambil keputusan karena 71,4% pemegang sukuk menolak usulan penjadwalan ulang bagi hasil ke-22 dan ke-23.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1032d3dc21_8df9761858.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "enrg-catatkan-obligasi-rp500-miliar-tahap-v-di-bei",
   "category": "Aksi Korporasi",
   "title": "ENRG Catatkan [Obligasi] Rp500 Miliar Tahap V di BEI",
@@ -570,6 +666,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "xdes-manajer-investasi-gold-etf-syariah-beralih-ke-danareksa",
+  "category": "Aksi Korporasi",
+  "title": "XDES: Manajer Investasi Gold ETF Syariah Beralih ke [Danareksa]",
+  "deck": "Manajer investasi Reksa Dana Syariah BRI MI Gold ETF Syariah beralih dari BRI MI ke Danareksa Investment Management Indonesia per 23 Oktober 2026, menyusul penggabungan empat manajer investasi BUMN.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XDES",
+   "Danareksa Investment Management",
+   "Manajer Investasi",
+   "Merger BUMN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c7bbc3e317_982d5b61fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cfin-kuartal-iii-laba-naik-13-liabilitas-turun-24",
   "category": "Aksi Korporasi",
   "title": "CFIN Kuartal III: Laba Naik 13%, Liabilitas [Turun] 24%",
@@ -650,6 +762,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "baik-ganti-komisaris-utama-jadi-yeni-isnawati",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Ganti [Komisaris] Utama Jadi Yeni Isnawati",
+  "deck": "Yeni Isnawati menjadi Komisaris Utama baru BAIK, menggantikan Drs. Untung Sudarto, efektif sejak RUPSLB 31 Maret 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAIK",
+   "komisaris",
+   "RUPSLB",
+   "pergantian pengurus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a06ac7d689_10bd3b36ef.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "arto-jadwalkan-mesop-tahap-i-periode-ii-harga-rp1-550",
   "category": "Aksi Korporasi",
   "title": "ARTO Jadwalkan [MESOP] Tahap I Periode II, Harga Rp1.550",
@@ -679,6 +807,22 @@ var ARTICLES = [
    "pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7508694725_bcbb66fb80.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ultj-jadwalkan-ulang-rupslb-ojk-minta-klarifikasi-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Jadwalkan Ulang RUPSLB, OJK Minta [Klarifikasi] Rights Issue",
+  "deck": "RUPSLB ULTJ yang membahas akuisisi 100% Frisian Flag Indonesia lewat rights issue mundur ke 6 November 2026 setelah OJK minta klarifikasi tambahan.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "RUPSLB",
+   "Rights Issue",
+   "Frisian Flag Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0b1dc88e38_0ceaea7b4e.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -874,6 +1018,22 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023095148-64583-0/FinancialStatement-2026-III-OCAP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "supr-protelindo-rampungkan-tender-saham-publik-3-periode",
+  "category": "Aksi Korporasi",
+  "title": "SUPR: Protelindo Rampungkan [Tender] Saham Publik 3 Periode",
+  "deck": "Setelah tiga periode penawaran tender sukarela sejak Juli 2026, Protelindo menyerap 733.052 dari 980.044 saham publik SUPR, menyisakan 246.992 saham yang tidak ikut.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUPR",
+   "Protelindo",
+   "tender offer",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba6726b88a_cb4b99b12d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6296,173 +6456,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473396-jaga-kepercayaan-investor-dpr-ri-dan-ojk-pastikan-reformasi-pasar-modal-indonesia-berjalan-konsisten"
- },
- {
-  "slug": "dooh-koreksi-panggilan-rupslb-agenda-pinjaman-rp5-triliun",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Koreksi Panggilan RUPSLB, Agenda [Pinjaman] Rp5 Triliun",
-  "deck": "Era Media Sejahtera mengoreksi panggilan RUPSLB 9 November 2026 yang mengagendakan ganti nama, rights issue, pinjaman Rp5 triliun dari pengendali, dan akuisisi INET.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "RUPSLB",
-   "rights issue",
-   "akuisisi INET"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/797eb58041_6aea1f51cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gtbo-mulai-tambang-batu-bara-16-oktober-rupst-molor-ke-november",
-  "category": "Aksi Korporasi",
-  "title": "GTBO Mulai Tambang Batu Bara 16 Oktober, RUPST [Molor] ke November",
-  "deck": "Dalam balasan ke Bursa, GTBO menyebut tambang mulai beroperasi 16 Oktober, piutang US$4,15 juta sebagian sudah cair, tapi RUPS Tahunan 2025 baru digelar 18 November 2026.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTBO",
-   "Produksi Batu Bara",
-   "RUPST",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5175f5788_9b1f2743f4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-panggil-rupslb-9-november-agenda-utang-rp5-triliun",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Panggil RUPSLB 9 November, Agenda [Utang] Rp5 Triliun",
-  "deck": "RUPSLB DOOH digelar 9 November 2026 di Jakarta, membahas pinjaman Rp5 triliun dari pemegang saham pengendali, rights issue, dan akuisisi INET oleh CNI.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "RUPSLB",
-   "rights issue",
-   "transaksi afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5bd1b271e3_b4f21156c0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbss-wibowo-group-capital-kuasai-90-09-saham-usai-tender-wajib",
-  "category": "Aksi Korporasi",
-  "title": "MBSS: Wibowo Group Capital Kuasai [90,09%] Saham Usai Tender Wajib",
-  "deck": "Penawaran tender wajib MBSS yang berakhir 8 Oktober 2026 membuat kepemilikan Wibowo Group Capital naik menjadi 90,09 persen, menyisakan saham publik hanya 9,91 persen.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBSS",
-   "tender wajib",
-   "Wibowo Group Capital",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a0bd53c914_b799af056d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "stok-bbm-aman-tapi-distribusi-ke-bali-masih-tersendat",
-  "category": "Energi",
-  "title": "Stok BBM Aman, tapi [Distribusi] ke Bali Masih Tersendat",
-  "deck": "Menteri ESDM Bahlil Lahadalia menyebut stok BBM nasional masih di kisaran 16-18 hari, tapi distribusi ke Bali dan daerah bergantung jalur laut butuh tambahan kapal Pertamina.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/stok-bbm-aman-tapi-distribusi-ke-bali-masih-tersendat.jpg",
-  "imageV": "mvavg3dl",
-  "tags": [
-   "BBM",
-   "Pertamina",
-   "Bahlil Lahadalia",
-   "RON 90"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/stok-bbm-nasional-aman-bahlil-minta-pertamina-percepat-distribusi-ke-daerah",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "dim-ruu-migas-capai-80-90-persen-aturan-buk-lewat-pp",
-  "category": "Energi",
-  "title": "DIM RUU Migas Capai 80-90 Persen, Aturan [BUK] Lewat PP",
-  "deck": "Pemerintah menyebut penyusunan DIM RUU Migas sudah 80-90 persen, dengan Badan Usaha Khusus (BUK) diatur lewat Peraturan Pemerintah dan Perpres, bukan rinci di UU.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/dim-ruu-migas-capai-80-90-persen-aturan-buk-lewat-pp.jpg",
-  "imageV": "mvavg5jq",
-  "tags": [
-   "RUU Migas",
-   "ESDM",
-   "Bahlil Lahadalia",
-   "Badan Usaha Khusus"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pemerintah-matangkan-dim-ruu-migas-bahlil-sebut-penyusunan-capai-80-90-persen",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "pariwisata-ramah-muslim-ri-naik-ke-peringkat-dua-dunia",
-  "category": "Makroekonomi",
-  "title": "Pariwisata Ramah Muslim RI Naik ke Peringkat [Dua] Dunia",
-  "deck": "Indonesia naik ke peringkat dua dunia dalam indeks wisata ramah muslim, dibarengi peluncuran peta jalan nasional dan penghargaan bagi 15 provinsi dengan kesiapan destinasi terbaik.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/pariwisata-ramah-muslim-ri-naik-ke-peringkat-dua-dunia.jpg",
-  "imageV": "mvavga0e",
-  "tags": [
-   "pariwisata syariah",
-   "ISEF 2026",
-   "Bank Indonesia",
-   "ekonomi syariah"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822426.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "dpr-kawal-reformasi-pasar-modal-ojk-perketat-transparansi",
-  "category": "Pasar Modal",
-  "title": "DPR Kawal Reformasi Pasar Modal, OJK Perketat [Transparansi]",
-  "deck": "DPR menggelar rapat dengan OJK dan Danantara membahas reformasi pasar modal, di tengah MSCI yang mempertimbangkan penurunan status pasar modal Indonesia dari Emerging Market ke Standalone Market.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/dpr-kawal-reformasi-pasar-modal-ojk-perketat-transparansi.jpg",
-  "imageV": "mvb12c71",
-  "tags": [
-   "OJK",
-   "Pasar Modal",
-   "DPR",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473381-dpr-kawal-reformasi-pasar-modal-demi-menjaga-kepercayaan-investor"
- },
- {
-  "slug": "taspen-raih-predikat-sangat-puas-dari-kemenkeu-lagi",
-  "category": "BUMN",
-  "title": "TASPEN Raih Predikat [Sangat Puas] dari Kemenkeu Lagi",
-  "deck": "DJPb Kemenkeu kembali memberi predikat tertinggi untuk layanan pensiun TASPEN, berdasarkan survei ke lebih dari seribu penerima pensiun ASN di seluruh Indonesia.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/taspen-raih-predikat-sangat-puas-dari-kemenkeu-lagi.jpg",
-  "imageV": "mvavgagj",
-  "tags": [
-   "TASPEN",
-   "pensiun ASN",
-   "Kementerian Keuangan",
-   "jaminan sosial"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473375-layanan-pensiun-taspen-kembali-mendapat-apresiasi-dari-kementerian-keuangan"
- },
- {
-  "slug": "rbms-jawab-bei-akui-banyak-kekeliruan-laporan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "RBMS Jawab BEI, Akui Banyak Kekeliruan Laporan [Keuangan]",
-  "deck": "RBMS merespons permintaan penjelasan BEI dan mengakui sejumlah kesalahan hitung dalam laporan keuangan tengah tahunan per 30 Juni 2026, mulai dari kas, piutang, hingga reklasifikasi aset.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RBMS",
-   "laporan keuangan",
-   "Bursa Efek Indonesia",
-   "piutang usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa97bd728e_4adeb1955c.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sido-bagi-dividen-interim-rp300-miliar-rp10-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "SIDO Bagi [Dividen] Interim Rp300 Miliar, Rp10 per Saham",
+  "deck": "Sido Muncul akan membagikan dividen interim tunai Rp10 per saham senilai total Rp300 miliar untuk tahun buku 2026, dibayarkan 20 November 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SIDO",
+   "dividen interim",
+   "Sido Muncul",
+   "emiten farmasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e330fef4c_2d89438721.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xdif-manajer-investasi-beralih-ke-danareksa-usai-merger-bumn",
+  "category": "Aksi Korporasi",
+  "title": "XDIF: Manajer Investasi Beralih ke Danareksa usai [Merger] BUMN",
+  "deck": "Manajer investasi XDIF beralih dari BRI Manajemen Investasi ke PT Danareksa Investment Management Indonesia, menyusul penggabungan empat manajer investasi BUMN efektif 1 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XDIF",
+   "manajer investasi",
+   "merger BUMN",
+   "Danareksa Investment Management"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a61aad6ae0_530f560947.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ipcc-laba-9-bulan-turun-6-9-jadi-rp177-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IPCC: Laba 9 Bulan [Turun] 6,9% Jadi Rp177,2 Miliar",
+  "deck": "Pendapatan dan laba bersih Indonesia Kendaraan Terminal (IPCC) turun pada sembilan bulan pertama 2026, sementara utang dividen sudah lunas dan kas masih di atas Rp1 triliun.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPCC",
+   "laporan keuangan",
+   "pelabuhan",
+   "Pelindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023141823-64496-0/FinancialStatement-2026-III-IPCC.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jelang-nataru-pemerintah-waspadai-lonjakan-harga-cabai",
   "category": "Makroekonomi",
   "title": "Jelang Nataru, Pemerintah Waspadai Lonjakan Harga [Cabai]",
@@ -19,6 +67,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7179/antisipasi-inflasi-jelang-nataru-pemerintah-perkuat-rantai-pasok-pangan",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "arto-jadwalkan-mesop-tahap-i-periode-ii-harga-rp1-550",
+  "category": "Aksi Korporasi",
+  "title": "ARTO Jadwalkan [MESOP] Tahap I Periode II, Harga Rp1.550",
+  "deck": "Bank Jago menjadwalkan pelaksanaan opsi saham karyawan tahap kedua tahun ini, periode 2 November-11 Desember 2026, harga pelaksanaan Rp1.550 per saham, dengan maksimal 38,53 juta lembar saham baru.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARTO",
+   "MESOP",
+   "Bank Jago",
+   "opsi saham karyawan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/937b60297d_346c1452ad.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-jadwalkan-rupslb-1-desember-cum-date-6-november",
+  "category": "Aksi Korporasi",
+  "title": "NSSS Jadwalkan [RUPSLB] 1 Desember, Cum Date 6 November",
+  "deck": "PT Nusantara Sawit Sejahtera Tbk mengumumkan rencana RUPSLB pada 1 Desember 2026, dengan batas pencatatan pemegang saham 6 November 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "RUPSLB",
+   "pasar modal",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7508694725_bcbb66fb80.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pack-jelaskan-detail-akuisisi-nikel-dan-rights-issue-dalam-koreksi",
@@ -229,6 +309,19 @@ var ARTICLES = [
    "Dewan Komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/941a3eb35c_ef049ded13.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hero-jawab-bei-soal-anjloknya-saham-8-07-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "HERO Jawab BEI soal Anjloknya Saham 8,07% [Volatilitas]",
+  "deck": "Saham HERO ambruk 8,07% ke Rp296 pada 16 Oktober 2026 disertai lonjakan volume transaksi. BEI minta penjelasan, dan DFI Retail Nusantara menyatakan tidak ada informasi material di baliknya.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HERO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4bc9af7121_3c8ed6df1f.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6386,107 +6479,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7159/kemenko-perekonomian-perkuat-kesiapan-aksesi-indonesia-ke-cptpp-melalui-koordinasi-lintas-kl-dan-dialog-dengan-negara-anggota",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ri-bahas-ancaman-komputasi-kuantum-ke-keamanan-data-digital",
-  "category": "Teknologi",
-  "title": "RI Bahas Ancaman Komputasi [Kuantum] ke Keamanan Data Digital",
-  "deck": "Pemerintah dan BSSN membahas kesiapan Indonesia menghadapi risiko komputasi kuantum terhadap keamanan data digital, di tengah pertumbuhan ekonomi digital yang pesat.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/kantor-startup.jpg",
-  "tags": [
-   "komputasi kuantum",
-   "keamanan siber",
-   "ekonomi digital",
-   "ASEAN DEFA"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7160/perkuat-keamanan-ekonomi-digital-pemerintah-dorong-kesiapan-indonesia-hadapi-era-komputasi-kuantum",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "esdm-kejar-listrik-ke-11-000-desa-target-2029-2030",
-  "category": "Energi",
-  "title": "ESDM Kejar Listrik ke [11.000] Desa, Target 2029-2030",
-  "deck": "Menteri ESDM Bahlil Lahadalia meminta pemda dan PLN mendata ulang desa yang belum berlistrik memadai, dengan target seluruh desa menyala pada 2029-2030.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/esdm-kejar-listrik-ke-11-000-desa-target-2029-2030.jpg",
-  "imageV": "mv9oqccc",
-  "tags": [
-   "listrik desa",
-   "BPBL",
-   "PLN",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/bahlil-minta-pemda-dan-pln-data-desa-belum-berlistrik-target-tuntas-2029-2030-",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "kilang-gas-karawang-mulai-pasok-lpg-ke-jabar-dan-jakarta",
-  "category": "Energi",
-  "title": "Kilang Gas Karawang Mulai [Pasok] LPG ke Jabar dan Jakarta",
-  "deck": "Kilang gas di Cilamaya, Karawang, mulai memproduksi sekitar 160 ton LPG per hari, memenuhi 10-15 persen kebutuhan Jawa Barat dan Jakarta.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/kilang-gas-karawang-mulai-pasok-lpg-ke-jabar-dan-jakarta.jpg",
-  "imageV": "mv9oqdvp",
-  "tags": [
-   "LPG",
-   "ESDM",
-   "Karawang",
-   "CNG"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasilkan-160-ton-lpg-per-hari-kilang-cilamaya-bantu-pasokan-warga-jabar-dan-jakarta",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "bi-pacu-riset-syariah-aset-tembus-rp3-264-triliun",
-  "category": "Makroekonomi",
-  "title": "BI Pacu Riset Syariah, Aset Tembus [Rp3.264] Triliun",
-  "deck": "Bank Indonesia menggelar forum riset syariah di ISEF 2026, menyebut aset keuangan syariah nasional capai Rp3.264 triliun per Juni 2026, tumbuh hampir 10 persen.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/bi-pacu-riset-syariah-aset-tembus-rp3-264-triliun.jpg",
-  "imageV": "mv9oqsz0",
-  "tags": [
-   "ISEF 2026",
-   "Bank Indonesia",
-   "Keuangan Syariah",
-   "Riset"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822326.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "bwpt-tegaskan-operasional-tak-terdampak-karhutla",
-  "category": "Aksi Korporasi",
-  "title": "BWPT Tegaskan Operasional Tak Terdampak [Karhutla]",
-  "deck": "Eagle High Plantations menjawab permintaan penjelasan Bursa Efek Indonesia soal kebakaran hutan dan lahan di wilayah operasionalnya di Sumatera, Kalimantan, dan Papua.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BWPT",
-   "karhutla",
-   "kebakaran lahan",
-   "kelapa sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea5e7d2ae4_0a6accf0b0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pngo-karhutla-tak-ganggu-produksi-target-cpo-101-296-ton-aman",
-  "category": "Aksi Korporasi",
-  "title": "PNGO: [Karhutla] Tak Ganggu Produksi, Target CPO 101.296 Ton Aman",
-  "deck": "Menjawab permintaan penjelasan BEI, PNGO menyatakan karhutla tidak berdampak pada produksi, pendapatan, dan laba, serta target CPO 2026 tetap 101.296 ton.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNGO",
-   "karhutla",
-   "CPO",
-   "Sumatera Selatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb6fe5b26d_4720e50fd3.pdf",
-  "sourceLabel": "IDX"
  }
 ];

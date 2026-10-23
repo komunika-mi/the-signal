@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sido-bagi-dividen-interim-rp300-miliar-rp10-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "SIDO Bagi [Dividen] Interim Rp300 Miliar, Rp10 per Saham",
+  "deck": "Sido Muncul akan membagikan dividen interim tunai Rp10 per saham senilai total Rp300 miliar untuk tahun buku 2026, dibayarkan 20 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T14:42:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e330fef4c_2d89438721.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SIDO",
+  "tags": [
+   "SIDO",
+   "dividen interim",
+   "Sido Muncul",
+   "emiten farmasi"
+  ],
+  "body": [
+   "PT Industri Jamu Dan Farmasi Sido Muncul Tbk (SIDO) memutuskan membagikan dividen interim tunai sebesar Rp10 per saham untuk tahun buku 2026 yang mencakup periode 1 Januari hingga 30 Juni 2026. Keputusan ini diambil dalam rapat Direksi pada 21 Oktober 2026 dan telah disetujui Dewan Komisaris pada tanggal yang sama. Total dividen yang akan dibagikan mencapai Rp300 miliar.",
+   "Jadwal pembagian sudah ditentukan. Perdagangan saham dengan hak dividen (cum dividen) di pasar reguler dan negosiasi berakhir 2 November 2026, sementara di pasar tunai berakhir 4 November 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada 4 November 2026 pukul 16.00 WIB berhak menerima dividen, dan pembayarannya dijadwalkan pada 20 November 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 Juni 2026, dengan laba bersih yang diatribusikan ke pemegang saham induk sebesar Rp333,65 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp1,14 triliun, dan total ekuitas perusahaan Rp2,99 triliun. Perseroan juga menjelaskan aturan pajak, dividen bebas pajak bagi pemegang saham wajib pajak badan dalam negeri, sementara wajib pajak orang pribadi dalam negeri bebas pajak jika dividen diinvestasikan kembali di Indonesia. Pemegang saham asing yang ingin memakai tarif pajak sesuai perjanjian penghindaran pajak berganda harus menyerahkan Surat Keterangan Domisili ke Biro Administrasi Efek, PT Raya Saham Registra, paling lambat 4 November 2026 pukul 16.00 WIB, atau dikenai pemotongan pajak 20 persen."
+  ],
+  "fotoAdegan": "Workers bottling herbal tonic products on an automated production line inside an Indonesian jamu factory, bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham karena Sido Muncul membagikan dividen interim Rp300 miliar, jumlah yang mendekati laba bersih semester pertama 2026 sebesar Rp333,65 miliar, menandakan perusahaan punya kas cukup untuk membayar hampir seluruh keuntungan setengah tahunnya kepada pemegang saham. Pos yang tersentuh adalah ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, karena dividen sebesar ini akan memotong sekitar 10 persen dari total ekuitas Rp2,99 triliun begitu dibayarkan, meski porsi tersebut masih tergolong wajar dan tidak mengganggu saldo laba ditahan yang masih tersisa lebih dari Rp800 miliar. Yang perlu dipantau berikutnya adalah batas pencatatan pemegang saham pada 4 November 2026 pukul 16.00 WIB, yang menentukan siapa saja yang berhak menerima dividen ini, serta tanggal pembayaran pada 20 November 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "xdif-manajer-investasi-beralih-ke-danareksa-usai-merger-bumn",
+  "category": "Aksi Korporasi",
+  "title": "XDIF: Manajer Investasi Beralih ke Danareksa usai [Merger] BUMN",
+  "deck": "Manajer investasi XDIF beralih dari BRI Manajemen Investasi ke PT Danareksa Investment Management Indonesia, menyusul penggabungan empat manajer investasi BUMN efektif 1 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T14:33:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a61aad6ae0_530f560947.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XDIF",
+  "tags": [
+   "XDIF",
+   "manajer investasi",
+   "merger BUMN",
+   "Danareksa Investment Management"
+  ],
+  "body": [
+   "PT Danareksa Investment Management Indonesia resmi menjadi manajer investasi baru untuk Reksa Dana BRI ETF Indonesia TOP 40 (XDIF), menggantikan PT BRI Manajemen Investasi, berlaku efektif 23 Oktober 2026. Pemberitahuan ini disampaikan kepada Bursa Efek Indonesia oleh Associate Director Edwin Basir Latuconsina mewakili manajemen reksa dana tersebut.",
+   "Pergantian ini merupakan dampak dari penggabungan empat perusahaan manajer investasi pelat merah, yaitu PT BNI Asset Management, PT BRI Manajemen Investasi, dan PT PNM Investment Management, ke dalam PT Danareksa Investment Management Indonesia yang sebelumnya bernama PT Mandiri Manajemen Investasi. Penggabungan berlaku efektif 1 Oktober 2026 berdasarkan Akta Penggabungan Nomor 262 tanggal 28 September 2026 yang dibuat di hadapan notaris Jose Dima Satria di Jakarta Selatan, dan telah mendapat penerimaan pemberitahuan dari Menteri Hukum Republik Indonesia pada 30 September 2026. Dengan penggabungan ini, status badan hukum BNI Asset Management, BRI Manajemen Investasi, dan PNM Investment Management berakhir tanpa melalui proses likuidasi, sementara seluruh aktiva, pasiva, hak, dan kewajiban ketiganya beralih kepada Danareksa Investment Management sebagai entitas yang menerima penggabungan.",
+   "Sebagai bagian dari penggabungan, modal dasar Danareksa Investment Management naik dari Rp100 miliar menjadi Rp555 miliar, sementara modal ditempatkan dan disetor bertambah dari Rp60 miliar menjadi Rp182,92 miliar. Perseroan juga resmi berganti nama dari PT Mandiri Manajemen Investasi menjadi PT Danareksa Investment Management Indonesia, dengan kantor pusat baru di Menara Mandiri 2 Lantai 15, Jalan Jenderal Sudirman Kav 54-55, Jakarta Selatan, serta kantor pendukung operasional di Gedung BRI II, Jalan Jenderal Sudirman Kav 44-46, Jakarta Pusat. Domain email seluruh korespondensi Perseroan juga berubah menjadi @danareksainvestments.com, meskipun alamat email dengan domain lama tetap bisa digunakan dan otomatis diteruskan selama masa transisi.",
+   "Perseroan menyatakan bahwa data pribadi nasabah yang sebelumnya dikelola oleh BNI Asset Management, BRI Manajemen Investasi, dan PNM Investment Management telah dialihkan kepada Danareksa Investment Management sesuai dengan ketentuan Undang Undang Pelindungan Data Pribadi. Selama masa transisi, situs web keempat manajer investasi lama tetap bisa diakses dan memuat informasi produk masing masing, sebelum informasi produk dikonsolidasikan secara bertahap ke platform resmi Danareksa Investment Management Indonesia."
+  ],
+  "fotoAdegan": "Modern glass office towers along Jakarta's Sudirman financial district at dusk, streaks of traffic light below",
+  "takeaway": "Laporan ini netral bagi pemegang unit penyertaan XDIF, karena pergantian manajer investasi dari BRI Manajemen Investasi ke PT Danareksa Investment Management Indonesia adalah konsekuensi administratif dari penggabungan empat perusahaan manajemen investasi pelat merah, bukan perubahan strategi atau portofolio reksa dana yang tetap mengikuti indeks IDX TOP 40. Yang berubah di sini adalah permodalan pengelolanya, bukan laporan keuangan XDIF sendiri: modal disetor Danareksa Investment Management melonjak dari Rp60 miliar menjadi Rp182,92 miliar setelah menyerap aset tiga manajer investasi BUMN lain, sementara seluruh aktiva dan kewajiban BRI Manajemen Investasi beralih secara hukum tanpa proses likuidasi sehingga nilai aktiva bersih reksa dana tidak terganggu. Pelaku pasar perlu mencermati proses konsolidasi lanjutan, yakni pemindahan produk reksa dana dari BNI Asset Management, BRI Manajemen Investasi, dan PNM Investment Management ke satu platform Danareksa, serta peluncuran alamat situs web resmi baru Perseroan yang menurut suratnya akan diumumkan kemudian setelah tersedia.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ipcc-laba-9-bulan-turun-6-9-jadi-rp177-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IPCC: Laba 9 Bulan [Turun] 6,9% Jadi Rp177,2 Miliar",
+  "deck": "Pendapatan dan laba bersih Indonesia Kendaraan Terminal (IPCC) turun pada sembilan bulan pertama 2026, sementara utang dividen sudah lunas dan kas masih di atas Rp1 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T14:12:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023141823-64496-0/FinancialStatement-2026-III-IPCC.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPCC",
+  "tags": [
+   "IPCC",
+   "laporan keuangan",
+   "pelabuhan",
+   "Pelindo"
+  ],
+  "body": [
+   "PT Indonesia Kendaraan Terminal Tbk (IPCC) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia. Pendapatan operasi perusahaan tercatat Rp645,5 miliar, turun 2,2 persen dari Rp660,2 miliar pada periode yang sama tahun lalu. Beban pokok pendapatan justru naik 3,6 persen menjadi Rp385,0 miliar, sehingga laba bruto tergerus 9,7 persen dari Rp288,5 miliar menjadi Rp260,4 miliar. Setelah dikurangi beban usaha dan pajak, laba tahun berjalan turun 6,9 persen dari Rp190,3 miliar menjadi Rp177,2 miliar, membuat laba per saham ikut turun dari Rp104,65 menjadi Rp97,44.",
+   "Dari sisi arus kas, kas bersih yang diperoleh dari aktivitas operasi turun 22,5 persen dari Rp298,0 miliar menjadi Rp231,0 miliar. Perusahaan juga sudah mencairkan seluruh sisa utang dividen sebesar Rp203,2 miliar yang tercatat pada akhir tahun lalu, sehingga pos utang dividen di laporan ini menjadi nihil dari sebelumnya Rp47,6 miliar. Total aset perusahaan per akhir September 2026 tercatat Rp1,98 triliun, turun dari Rp2,06 triliun pada akhir 2025, dengan kas dan setara kas sebesar Rp1,07 triliun. Total liabilitas ikut turun 14,3 persen menjadi Rp598,0 miliar, sementara total ekuitas naik tipis 1,4 persen menjadi Rp1,38 triliun. Perusahaan tidak memiliki utang bank, dan liabilitas terbesarnya adalah liabilitas sewa jangka panjang sebesar Rp420,9 miliar.",
+   "Dalam surat terpisah kepada BEI, Direktur Keuangan, Sumber Daya Manusia dan Manajemen Risiko IPCC, Bagus Dwipoyono, menjelaskan sejumlah pos yang bergerak lebih dari 20 persen dibandingkan akhir tahun lalu. Utang usaha kepada pihak ketiga turun 43,6 persen menjadi Rp6,2 miliar dan utang usaha kepada pihak berelasi turun 36,5 persen menjadi Rp22,5 miliar, yang menurut perusahaan mencerminkan pembayaran tepat waktu kepada mitra. Beban akrual turun 41,9 persen menjadi Rp55,9 miliar karena kewajiban kepada pemasok yang sebelumnya belum dibayar sudah direalisasikan. Di sisi aset, biaya dibayar di muka melonjak 290 persen menjadi Rp3,1 miliar akibat pembayaran cuti karyawan dan Pajak Bumi dan Bangunan yang dimajukan ke awal tahun, sementara aset takberwujud neto turun 47,5 persen menjadi Rp1,0 miliar karena amortisasi, dan aset tidak lancar lainnya turun 74,8 persen menjadi Rp0,8 miliar setelah kerja sama sewa gudang dengan PT Kawasan Berikat Nusantara berakhir dan uang jaminannya dicairkan."
+  ],
+  "fotoAdegan": "Rows of newly imported cars parked in neat columns at a seaport vehicle yard, cranes and cargo ships in hazy background, overcast morning light.",
+  "takeaway": "Laporan ini condong negatif bagi IPCC: pendapatan turun sementara beban pokok pendapatan naik, sehingga margin laba kotor menyusut dari sekitar 43,7 persen menjadi 40,4 persen dan laba bersih ikut tergerus 6,9 persen dalam sembilan bulan ini. Pos yang paling kena dampak adalah arus kas dari aktivitas operasi, yaitu uang tunai murni yang masuk dari kegiatan bisnis sehari-hari tanpa dibantu utang atau penjualan aset; pos ini turun 22,5 persen, sehingga perlu dicermati apakah pelanggan membayar lebih lambat atau beban kas membesar. Laba per saham, yakni bagian laba bersih yang secara teoritis menjadi hak setiap lembar saham, juga turun dari Rp104,65 menjadi Rp97,44 karena jumlah saham tidak berubah sementara laba mengecil. Di sisi lain, perusahaan tidak punya utang bank sama sekali dan kasnya, Rp1,07 triliun, masih jauh lebih besar dari seluruh liabilitasnya yang cuma Rp598 miliar, sehingga tekanan pendapatan ini belum mengancam kesehatan keuangan jangka pendek. Yang perlu dipantau berikutnya adalah apakah tren penurunan margin dan arus kas operasi ini berlanjut di laporan kuartal IV dan laporan tahunan auditan 2026, karena laporan kali ini sendiri belum diaudit.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "jelang-nataru-pemerintah-waspadai-lonjakan-harga-cabai",
   "category": "Makroekonomi",
   "title": "Jelang Nataru, Pemerintah Waspadai Lonjakan Harga [Cabai]",
@@ -29,6 +108,58 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret di sini adalah lonjakan harga cabai, cabai merah besar naik 25,8 persen dan cabai keriting 22 persen dibanding tahun sebelumnya, yang mendorong inflasi pangan ke 5,03 persen. Sebagai responsnya pemerintah tidak membuat kebijakan baru, melainkan menjalankan kombinasi yang sudah ada: bantuan beras untuk 33,24 juta orang, program magang untuk 150 ribu peserta, dan subsidi kedelai Rp500 miliar bagi perajin tahu dan tempe. Pihak yang paling terdampak adalah konsumen di kawasan timur Indonesia seperti Sulawesi, Maluku, dan Papua, serta petani dan nelayan yang diharapkan terhubung langsung ke pembeli lewat program kerja sama antar daerah. Pola ini mengarah pada pemerintah yang lebih mengandalkan bantuan sosial dan perbaikan jalur distribusi antarwilayah ketimbang menahan harga langsung di pasar, dan arah ini akan lebih jelas terlihat dari data inflasi resmi Badan Pusat Statistik untuk November dan Desember, saat permintaan Natal dan Tahun Baru benar-benar memuncak.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "arto-jadwalkan-mesop-tahap-i-periode-ii-harga-rp1-550",
+  "category": "Aksi Korporasi",
+  "title": "ARTO Jadwalkan [MESOP] Tahap I Periode II, Harga Rp1.550",
+  "deck": "Bank Jago menjadwalkan pelaksanaan opsi saham karyawan tahap kedua tahun ini, periode 2 November-11 Desember 2026, harga pelaksanaan Rp1.550 per saham, dengan maksimal 38,53 juta lembar saham baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T13:46:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/937b60297d_346c1452ad.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARTO",
+  "tags": [
+   "ARTO",
+   "MESOP",
+   "Bank Jago",
+   "opsi saham karyawan"
+  ],
+  "body": [
+   "PT Bank Jago Tbk. (ARTO) mengumumkan jadwal pelaksanaan Program Kepemilikan Saham oleh Manajemen dan Karyawan atau MESOP 2025-2030 Tahap I Periode II Tahun 2026, melalui keterbukaan informasi yang diteken Direktur dan Sekretaris Perusahaan Tjit Siat Fun pada 23 Oktober 2026. Periode pelaksanaan opsi ini berlangsung selama 30 hari bursa, dimulai 2 November 2026 dan berakhir 11 Desember 2026.",
+   "Perseroan menetapkan harga pelaksanaan opsi pada tahap ini sebesar Rp1.550 per saham. Jumlah opsi yang berpotensi dikonversi menjadi saham baru selama periode tersebut mencapai sebanyak-banyaknya 38.531.250 lembar. Penerbitan saham baru ini mengikuti skema penambahan modal tanpa hak memesan efek terlebih dahulu yang merujuk pada Peraturan OJK No. 14/POJK.04/2019 tentang penambahan modal perusahaan terbuka, serta Surat Edaran BEI No. SE-00002/BEI/03-2020 tentang tata cara pelaksanaan program MESOP.",
+   "Dalam dokumen itu, manajemen Bank Jago menyatakan tidak ada dampak material dari jadwal pelaksanaan ini terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ini juga disampaikan kepada Otoritas Jasa Keuangan dan Direksi PT Bursa Efek Indonesia sebagai bagian dari kewajiban keterbukaan informasi emiten."
+  ],
+  "fotoAdegan": "Employees collaborating at laptops in a bright modern bank office in Jakarta, soft daylight, screens blurred in background",
+  "takeaway": "Laporan ini netral bagi Bank Jago karena hanya menjalankan jadwal dari program opsi saham karyawan yang sudah disetujui sebelumnya, bukan keputusan korporasi baru, dan perseroan sendiri menegaskan tidak ada dampak material terhadap operasional, hukum, atau kondisi keuangannya. Yang tersentuh dari sisi kinerja adalah jumlah saham beredar dan laba per saham: kalau seluruh 38.531.250 opsi dengan harga Rp1.550 per saham itu dikonversi karyawan menjadi saham baru, jumlah saham ARTO yang beredar bertambah, sehingga laba perusahaan yang sama harus dibagi ke lebih banyak lembar saham, alias laba per saham bisa terdilusi. MESOP sendiri adalah skema pemberian hak beli saham kepada manajemen dan karyawan dengan harga yang sudah dipatok lebih dulu, biasanya sebagai insentif kerja jangka panjang. Yang perlu dipantau berikutnya adalah realisasi selama periode pelaksanaan 2 November sampai 11 Desember 2026, yakni berapa banyak dari opsi maksimal itu yang benar-benar dieksekusi karyawan, karena jumlah pasti saham baru yang terbit baru akan diketahui setelah periode tersebut berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-jadwalkan-rupslb-1-desember-cum-date-6-november",
+  "category": "Aksi Korporasi",
+  "title": "NSSS Jadwalkan [RUPSLB] 1 Desember, Cum Date 6 November",
+  "deck": "PT Nusantara Sawit Sejahtera Tbk mengumumkan rencana RUPSLB pada 1 Desember 2026, dengan batas pencatatan pemegang saham 6 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T13:38:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7508694725_bcbb66fb80.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "RUPSLB",
+   "pasar modal",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 1 Desember 2026 pukul 10.00 WIB. Rapat akan digelar di Jakarta Selatan dan secara elektronik lewat sistem eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia.",
+   "Yang berhak hadir dan memberi suara dalam rapat ini adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada 6 November 2026 sampai pukul 16.00 WIB. Perseroan juga menyebut syarat bagi pemegang saham yang ingin mengusulkan mata acara rapat, yaitu satu pemegang saham atau lebih yang mewakili sedikitnya 1/20 dari total saham berhak suara, dengan usulan diajukan tertulis ke Direksi paling lambat tujuh hari sebelum tanggal pemanggilan rapat.",
+   "Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan pada 9 November 2026 melalui situs Bursa Efek Indonesia, situs KSEI, dan situs perusahaan nssgroup.id. Perseroan membuka fasilitas pemberian kuasa elektronik (e-Proxy) lewat eASY.KSEI mulai 9 November hingga 30 November 2026, dengan PT Datindo Entrycom sebagai Biro Administrasi Efek yang ditunjuk menerima kuasa tersebut."
+  ],
+  "fotoAdegan": "Workers loading palm oil fresh fruit bunches onto a truck at a plantation collection point, tropical morning light",
+  "takeaway": "Saya nilai pengumuman ini netral karena baru memuat jadwal dan mekanisme rapat, bukan agenda RUPSLB yang sesungguhnya, sehingga belum ada keputusan korporasi yang bisa dinilai dampaknya terhadap kinerja perusahaan. Yang tersentuh di sini adalah hak suara pemegang saham, sebab hanya mereka yang tercatat di daftar pemegang saham per 6 November 2026 pukul 16.00 WIB yang bisa hadir dan memberi suara, sehingga pembeli saham sesudah tanggal itu tidak kebagian hak suara di rapat ini. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 9 November 2026, yang baru akan mengungkap agenda sebenarnya dari RUPSLB ini, serta pelaksanaan rapat itu sendiri pada 1 Desember 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "pack-jelaskan-detail-akuisisi-nikel-dan-rights-issue-dalam-koreksi",
@@ -375,6 +506,29 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Construction workers in hard hats checking rebar on a highrise building site in Jakarta, cranes visible, late afternoon light",
   "takeaway": "Pemanggilan ini condong netral bagi TOTL, sebab dokumen baru mengumumkan jadwal dan mekanisme rapat, belum menyebut nama-nama yang diusulkan masuk atau keluar dari jajaran Direksi dan Dewan Komisaris, sehingga pasar belum punya dasar untuk menilai dampaknya. Perubahan susunan direksi dan komisaris biasanya disorot karena memengaruhi arah strategi dan kredibilitas pengambilan keputusan perusahaan, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, jadi dampaknya lebih ke tata kelola ketimbang ke angka di laporan keuangan. Yang perlu dipantau adalah pelaksanaan RUPSLB pada 16 November 2026 dan keputusan resmi soal siapa yang akan mengisi kursi Direksi dan Dewan Komisaris yang baru. Pemegang saham yang ingin hadir secara elektronik juga punya tenggat mendeklarasikan kehadiran dan memberi suara paling lambat 13 November 2026 pukul 12.00 WIB, sebelum rapat berlangsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hero-jawab-bei-soal-anjloknya-saham-8-07-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "HERO Jawab BEI soal Anjloknya Saham 8,07% [Volatilitas]",
+  "deck": "Saham HERO ambruk 8,07% ke Rp296 pada 16 Oktober 2026 disertai lonjakan volume transaksi. BEI minta penjelasan, dan DFI Retail Nusantara menyatakan tidak ada informasi material di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T07:40:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4bc9af7121_3c8ed6df1f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HERO",
+  "tags": [
+   "HERO"
+  ],
+  "body": [
+   "PT DFI Retail Nusantara Tbk (HERO) memberikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan terkait volatilitas transaksi sahamnya, menyusul surat BEI nomor S-13250/BEI.PP3/10-2026 tertanggal 21 Oktober 2026. Dalam suratnya, perseroan mengungkap bahwa pada 16 Oktober 2026 volume transaksi saham HERO melonjak menjadi 2.072.800 saham dengan frekuensi 126 kali, jauh di atas hari bursa sebelumnya yang hanya 18.400 saham dengan frekuensi 23 kali. Di hari yang sama, harga saham ditutup turun Rp26 atau 8,07 persen, dari Rp322 menjadi Rp296, sementara IHSG turun 678,67 poin dan indeks sektor consumer non-cyclicals turun 67,83 poin.",
+   "Menjawab enam poin pertanyaan standar yang diajukan BEI, Head of Corporate Secretary HERO, Iwan Nurdiansyah, menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai saham atau keputusan investasi pemodal, dan juga tidak mengetahui adanya aktivitas pemegang saham tertentu sesuai aturan OJK soal laporan kepemilikan saham. Perseroan juga menyebut belum memiliki rencana aksi korporasi dalam tiga bulan mendatang, dan akan menyampaikannya ke OJK dan BEI begitu ada keputusan.",
+   "Poin yang relatif lebih konkret ada pada jawaban keenam, soal rencana pemegang saham utama. Perseroan menyatakan telah menanyakan langsung kepada pemegang saham utamanya, dan pemegang saham utama tersebut menjawab belum memiliki rencana melakukan transaksi atas kepemilikan sahamnya di HERO dalam waktu dekat. Surat ini ditandatangani secara elektronik di Tangerang Selatan pada 23 Oktober 2026."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Penilaian saya netral, karena ini murni surat klarifikasi wajib ke bursa yang isinya penyangkalan, bukan pengumuman adanya rencana atau transaksi baru yang mengubah kondisi keuangan perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh di sini, karena ini soal pergerakan harga di pasar sekunder, bukan aksi korporasi. Yang perlu digarisbawahi untuk pembaca awam, bursa memang rutin meminta emiten konfirmasi begitu ada lonjakan transaksi tidak wajar, supaya publik tahu apakah kenaikan atau penurunan tajam itu dipicu bocoran informasi atau sekadar spekulasi pasar, dan dalam kasus ini perseroan maupun pemegang saham utamanya sama-sama membantah ada rencana tersembunyi. Yang perlu dipantau selanjutnya adalah apakah perseroan benar menyampaikan keterbukaan informasi baru dalam tiga bulan ke depan seperti yang dijanjikan, serta hasil RUPSLB yang sudah dijadwalkan 26 November 2026.",
   "sentimen": "netral"
  },
  {

@@ -3,6 +3,139 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pssi-tetapkan-rasio-pembagian-saham-treasuri-1-30-rupslb-28-okt",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Tetapkan Rasio Pembagian Saham [Treasuri] 1:30, RUPSLB 28 Okt",
+  "deck": "Ralat keterbukaan informasi PSSI merinci rasio 30:1 untuk pembagian 172 juta saham treasuri ke pemegang saham, dengan RUPSLB digelar 28 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T23:18:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3aa3bb38d4_cd22a9f7fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "buyback",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) menerbitkan ralat atas keterbukaan informasi 21 September 2026 mengenai pengalihan saham treasuri, sekaligus melengkapi informasi sesuai Peraturan OJK No. 29/2023. Dokumen ini merinci riwayat tiga periode pembelian kembali saham sepanjang 2021-2025 dengan total 324.365.400 saham. Periode pertama sebanyak 167.596.800 saham dibeli rata-rata Rp358 per saham, dengan 28.491.400 saham sudah dialihkan lewat program opsi saham karyawan (MESOP) sehingga sisa 139.105.400 saham. Periode kedua sebanyak 40.167.900 saham dengan harga rata-rata Rp629 masih seluruhnya tersimpan sebagai saham treasuri. Periode ketiga sebanyak 116.600.700 saham dengan harga rata-rata Rp347, dari jumlah itu 40.000.000 saham sudah dijual di bursa (diberitakan sebelumnya ke PT Nusa Damai senilai Rp14,7 miliar), menyisakan 76.600.700 saham yang wajib dialihkan.",
+   "Berdasarkan struktur permodalan per 19 Oktober 2026, dari 5.417.063.153 saham beredar, 255.874.000 di antaranya adalah saham treasuri (4,72 persen). Dengan dasar saham beredar 5.161.189.153 lembar, perseroan menetapkan rasio pembagian 30 saham beredar memperoleh 1 saham treasuri, sehingga total 172.039.636 saham akan dibagikan cuma-cuma. Pecahan saham hasil perhitungan tidak diterbitkan dan tidak dikompensasi. Jadwalnya: RUPSLB digelar Rabu, 28 Oktober 2026; cum date di pasar reguler dan negosiasi 5 November; ex date 6 November; cum date pasar tunai 9 November; ex date pasar tunai 10 November; tanggal pencatatan pemegang saham berhak (recording date) 9 November 2026; dan pembagian saham dilaksanakan Jumat, 27 November 2026.",
+   "Harga saham yang dialihkan ditetapkan dari harga penutupan saham PSSI satu hari bursa sebelum tanggal pengalihan. Karena saham dibagikan gratis, Bursa Efek Indonesia akan menyesuaikan harga teoritis saham PSSI pada tanggal distribusi menggunakan total 240.531.036 saham treasuri yang sudah dan akan dibagikan, dengan jumlah saham beredar setelah distribusi menjadi 5.333.228.789 lembar. Setelah pembagian ini, porsi saham treasuri perseroan turun dari 4,72 persen menjadi 1,55 persen, sementara proporsi pemegang saham utama relatif naik: PT Indoprima Marine dari 43,83 persen menjadi 45,29 persen, Kendilo Pte Ltd dari 28,46 persen menjadi 29,41 persen, dan PT Bio Permai dari 6,00 persen menjadi 6,20 persen. Pemegang saham asing yang ingin memanfaatkan tarif pajak sesuai perjanjian penghindaran pajak berganda wajib menyerahkan dokumen domisili ke KSEI paling lambat 7 hari kerja sebelum distribusi, atau akan dikenakan PPh Pasal 26 sebesar 20 persen.",
+   "Dokumen ini juga mengungkap bahwa pengalihan sisa saham periode ketiga seharusnya sudah selesai paling lambat 30 Oktober 2025, yakni 30 hari setelah pembelian kembali rampung, namun belum terlaksana. Perseroan baru menyampaikan penjelasan soal kendala tersebut ke OJK pada 28 April 2026. Sementara itu, sisa saham dari periode pertama sebanyak 95.438.936 lembar punya tenggat pengalihan lebih panjang, yakni paling lambat 4 April 2027, sesuai persetujuan perpanjangan dari OJK."
+  ],
+  "fotoAdegan": "Container ship docked at a bustling Indonesian port, cranes loading containers under a hazy morning sky, tugboats nearby.",
+  "takeaway": "Laporan ini kami nilai netral karena pembagian saham treasuri secara proporsional tidak mengubah porsi kepemilikan relatif masing-masing pemegang saham, hanya memindahkan saham yang selama ini tersimpan di kas perseroan menjadi saham yang benar-benar beredar di pasar. Pos yang tersentuh adalah jumlah saham beredar, yang naik dari 5,16 miliar menjadi 5,33 miliar lembar, sehingga laba per saham akan terdilusi secara otomatis karena laba yang sama kini dibagi ke lebih banyak lembar, meski ini murni efek pembagian dan tidak mengurangi ekuitas atau aset perseroan. Satu hal yang perlu disorot, pengalihan untuk periode ketiga ini sebenarnya sudah lewat tenggat sejak 30 Oktober 2025 dan baru dijelaskan ke OJK pada April 2026, jadi ada keterlambatan memenuhi kewajiban regulasi meski tidak menyangkut kesehatan usaha. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 28 Oktober 2026 untuk mendapat restu pemegang saham, serta tanggal pencatatan 9 November 2026 yang menentukan siapa berhak menerima jatah saham sebelum pembagian final pada 27 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pssi-ralat-rencana-distribusi-172-juta-saham-treasuri",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Ralat Rencana Distribusi [172 Juta] Saham Treasuri",
+  "deck": "IMC Pelita Logistik (PSSI) mengoreksi keterbukaan informasi sebelumnya, merinci rencana pembagian 172.039.636 saham treasuri ke pemegang saham pada 27 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T23:17:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/13eb4acbda_a697b3ba7d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "buyback",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) menerbitkan ralat atas keterbukaan informasi tanggal 21 September 2026 terkait pengalihan saham treasuri, untuk menyempurnakan pengungkapan sesuai Peraturan OJK Nomor 29 Tahun 2023. Dalam dokumen ini perseroan merinci riwayat tiga periode pembelian kembali saham sepanjang 2021-2025 dengan total 324.365.400 saham. Periode pertama pada 17 Juni 2021 hingga 4 April 2022 membeli 167.596.800 saham dengan harga rata-rata Rp358 per saham, 28.491.400 di antaranya sudah dialihkan lewat program opsi saham karyawan (MESOP), menyisakan 139.105.400 saham. Periode kedua membeli 40.167.900 saham di harga rata-rata Rp629, seluruhnya masih berstatus treasuri. Periode ketiga pada Juli-September 2025 membeli 116.600.700 saham di harga rata-rata Rp347, dari jumlah itu 40 juta saham sudah dijual di bursa (transaksi yang sebelumnya diberitakan senilai Rp14,7 miliar), menyisakan 76.600.700 saham.",
+   "Dari sisa saham treasuri tersebut, perseroan akan mengalihkan total 172.039.636 saham melalui pembagian proporsional kepada seluruh pemegang saham, gabungan dari 95.438.936 saham sisa periode pertama dan 76.600.700 saham dari periode ketiga. Rasionya adalah 1 saham treasuri untuk setiap 30 saham beredar, dihitung dari struktur modal per 19 Oktober 2026 yakni 5.417.063.153 saham modal disetor dengan 255.874.000 saham masih berstatus treasuri. Harga acuan saham yang dibagikan mengikuti harga penutupan satu hari bursa sebelum tanggal pengalihan, dan pecahan saham hasil perhitungan tidak diterbitkan maupun dikompensasi.",
+   "Pembagian ini bergantung pada persetujuan RUPSLB yang dijadwalkan 28 Oktober 2026. Jika disetujui, cum date di pasar reguler dan negosiasi jatuh pada 5 November, ex date pada 6 November, cum date pasar tunai 9 November, ex date pasar tunai 10 November, dengan tanggal pencatatan pemegang saham yang berhak (recording date) pada 9 November 2026, dan pendistribusian pada 27 November 2026. Dokumen ini juga mengungkap bahwa pengalihan untuk periode ketiga sebenarnya sudah melewati tenggat wajib 30 Oktober 2025, dan perseroan baru mengirim surat penjelasan kendala ke OJK pada 28 April 2026, sementara tenggat untuk sisa periode pertama diperpanjang OJK hingga 4 April 2027.",
+   "Karena bersifat proporsional, porsi kepemilikan tiap pemegang saham utama praktis tidak berubah: PT Indoprima Marine naik dari 43,83% (2.374.400.000 saham) menjadi 45,29% (2.453.546.666 saham), Kendilo Pte Ltd dari 28,46% ke 29,41%, PT Bio Permai dari 6,00% ke 6,20%, sementara porsi Iriawan Ibarat dan Titto Devianto masing-masing tetap di 0,26% dan 0,01%. Porsi saham treasuri sendiri turun dari 4,72% menjadi 1,55% dari modal disetor. Bursa akan menyesuaikan harga teoritis saham pada tanggal distribusi berdasarkan rasio total saham beredar sebelum dan sesudah, yang menjadi 5.333.228.789 saham. Pemegang saham asing yang ingin memakai tarif pajak perjanjian penghindaran pajak berganda wajib menyerahkan dokumen DGT atau surat keterangan domisili ke KSEI paling lambat 7 hari kerja sebelum distribusi, atau dikenakan PPh Pasal 26 sebesar 20%."
+  ],
+  "fotoAdegan": "Container ship guided by tugboats into a busy Indonesian port terminal, cranes and stacked containers in late afternoon light.",
+  "takeaway": "Kami menilai laporan ini netral karena pembagian saham treasuri secara proporsional tidak mengubah porsi kepemilikan relatif maupun hak suara pemegang saham, hanya memindahkan status saham dari treasuri menjadi saham beredar. Yang tersentuh adalah jumlah saham beredar dan laba per saham: saham treasuri yang sebelumnya tidak masuk hitungan pembagi laba kini terhitung sebagai saham beredar, sehingga laba per saham bisa terdilusi secara matematis tanpa ada tambahan modal atau laba baru bagi perseroan. Dokumen ini juga mengonfirmasi bahwa perseroan sebenarnya sudah melewati tenggat wajib pengalihan untuk periode ketiga buyback yang seharusnya selesai 30 Oktober 2025, dan baru menjelaskan kendalanya ke OJK pada April 2026, catatan kepatuhan yang perlu diperhatikan meski belum berdampak finansial langsung. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 28 Oktober 2026 yang menentukan apakah rencana pembagian 172.039.636 saham ini disetujui, serta tanggal distribusi pada 27 November 2026 saat Bursa Efek Indonesia menyesuaikan harga teoritis sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "psgo-pks-anak-usaha-terbakar-kontribusi-30-pendapatan-terhenti",
+  "category": "Aksi Korporasi",
+  "title": "PSGO: PKS Anak Usaha Terbakar, [Kontribusi] 30% Pendapatan Terhenti",
+  "deck": "Kebakaran di stasiun sterilizer PKS anak usaha NUSA menghentikan pengolahan TBS, padahal unit itu menyumbang sekitar 30 persen pendapatan konsolidasi PSGO dalam setahun terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T22:59:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e511f17bd_d1070b5da3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSGO",
+  "tags": [
+   "PSGO",
+   "kebakaran",
+   "CPO",
+   "Nusaraya Agro Sawit"
+  ],
+  "body": [
+   "PT Palma Serasih Tbk (PSGO) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bursa Nomor S-13285/BEI.PP3/10-2026 tanggal 21 Oktober 2026, terkait keterbukaan informasi perseroan sebelumnya pada 20 Oktober 2026 mengenai kebakaran di Pabrik Kelapa Sawit (PKS) milik anak usahanya, PT Nusaraya Agro Sawit (NUSA). Berdasarkan identifikasi awal, kebakaran terjadi di area stasiun sterilizer PKS NUSA yang berkapasitas olah 90 ton tandan buah segar per jam. Akibatnya, seluruh kegiatan pengolahan di PKS tersebut untuk sementara dihentikan, sementara penyebab kejadian serta keterkaitannya dengan faktor operasional, teknis, atau keselamatan kerja masih dalam penelusuran dan belum bisa disimpulkan.",
+   "Perseroan menegaskan kegiatan perkebunan kelapa sawit NUSA tetap berjalan normal sehingga produksi tandan buah segar tidak terganggu, hanya pengolahannya di pabrik yang terhenti. Untuk menjaga target produksi dan pendapatan tahun 2026, PSGO berencana mengalihkan sebagian pengolahan ke pabrik kelapa sawit milik anak usaha lain. Dalam penjelasannya, perseroan mengungkapkan bahwa NUSA rata-rata menyumbang sekitar 31 persen produksi tandan buah segar inti, 32 persen produksi crude palm oil (CPO), 30 persen pendapatan, 27 persen EBITDA, dan 22 persen laba bersih konsolidasi PSGO dalam 12 bulan terakhir.",
+   "Soal kerugian, perseroan belum dapat memastikan estimasi kerugian finansial, target waktu penyelesaian investigasi, maupun estimasi waktu PKS NUSA kembali beroperasi normal, karena proses pemeriksaan kondisi fasilitas dan kebutuhan perbaikan masih berlangsung. Fasilitas PKS NUSA yang terdampak telah diasuransikan lewat polis Property All Risk dengan nilai pertanggungan Rp267,61 miliar yang mencakup bangunan, mesin, dan stok. Namun perseroan belum bisa memastikan apakah nilai pertanggungan tersebut cukup menutup kerugian yang timbul, karena penilaian kerusakan masih berjalan.",
+   "Sebagai langkah pencegahan, perseroan menyebutkan akan mengevaluasi prosedur operasional dan standar keselamatan kerja di seluruh fasilitas PKS, memperkuat inspeksi dan pemeliharaan berkala mesin serta instalasi, meningkatkan pengawasan pada aktivitas berisiko kebakaran, mengevaluasi kesiapan sarana dan prosedur tanggap darurat, serta memperkuat pelatihan keselamatan kerja bagi karyawan."
+  ],
+  "fotoAdegan": "Firefighters spraying water on a smoking industrial building at a palm oil processing mill, surrounded by oil palm plantation, daytime",
+  "takeaway": "Laporan ini condong negatif karena fasilitas pengolahan yang terbakar menyumbang sekitar 30 persen pendapatan dan 22 persen laba bersih PSGO dalam setahun terakhir, dan sampai saat ini perseroan belum bisa memastikan kapan pabrik itu bisa beroperasi lagi maupun berapa kerugiannya. Yang tersentuh adalah pendapatan dan laba konsolidasi, sebab pabrik yang berhenti itu biasanya mengubah hasil kebun jadi minyak sawit yang bisa dijual, sementara kebunnya sendiri tetap jalan dan masih menghasilkan tandan buah segar yang bisa diproses di pabrik anak usaha lain. Kerugian fisik sebagian akan ditanggung lewat polis asuransi Property All Risk senilai Rp267,61 miliar, tapi perseroan sendiri belum berani memastikan apakah nilai itu cukup menutup kerusakan karena penilaian kerusakan belum selesai. Yang perlu dipantau berikutnya adalah kapan perseroan merilis angka pasti kerugian finansial dan target waktu PKS NUSA kembali beroperasi, dua hal yang menurut surat ini sendiri belum bisa ditentukan sampai 23 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "psgo-ungkap-asuransi-rp267-6-miliar-untuk-pks-nusa-yang-terbakar",
+  "category": "Aksi Korporasi",
+  "title": "PSGO Ungkap Asuransi [Rp267,6 Miliar] untuk PKS NUSA yang Terbakar",
+  "deck": "Merespons permintaan penjelasan BEI, PSGO merinci kapasitas, kontribusi keuangan, dan nilai asuransi PKS anak usahanya yang terbakar, namun belum bisa memastikan waktu pulih dan besarnya kerugian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T22:58:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e511f17bd_d1070b5da3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSGO",
+  "tags": [
+   "PSGO",
+   "kebakaran",
+   "kelapa sawit",
+   "asuransi"
+  ],
+  "body": [
+   "PT Palma Serasih Tbk (PSGO) menjawab permintaan penjelasan Bursa Efek Indonesia melalui surat S-13285/BEI.PP3/10-2026 tanggal 21 Oktober 2026, menyusul keterbukaan informasi soal kebakaran di pabrik kelapa sawit (PKS) milik anak usahanya, PT Nusaraya Agro Sawit (NUSA), yang disampaikan pada 20 Oktober 2026. Perusahaan menyatakan penyebab kebakaran masih ditelusuri, dengan bagian yang terdampak adalah area stasiun sterilizer. Kapasitas olah PKS NUSA tercatat 90 ton per jam, dan untuk sementara pabrik tersebut sama sekali tidak dapat beroperasi.",
+   "Soal dampak keuangan, PSGO menyebut kontribusi rata-rata NUSA terhadap kinerja konsolidasi perusahaan dalam 12 bulan terakhir adalah sekitar 31 persen produksi TBS inti, 32 persen produksi CPO, 30 persen pendapatan, 27 persen EBITDA, dan 22 persen laba bersih. Perusahaan menegaskan bahwa kegiatan perkebunan NUSA, yakni produksi tandan buah segar, tetap berjalan normal karena yang terhenti hanya proses pengolahannya menjadi minyak sawit. PSGO berencana mengoptimalkan kapasitas PKS milik anak usaha lain agar target produksi dan pendapatan tahun 2026 tetap tercapai, tetapi belum bisa memberikan estimasi waktu pemulihan maupun nilai kerugian finansial akibat insiden ini.",
+   "Mengenai perlindungan risiko, fasilitas PKS NUSA yang terdampak telah diasuransikan lewat polis Property All Risk dengan nilai pertanggungan Rp267.611.500.000, yang mencakup bangunan, mesin, dan stok. Perusahaan belum dapat memastikan apakah nilai tersebut cukup menutup kerugian karena proses identifikasi dan penilaian kerusakan masih berlangsung. Sebagai langkah mitigasi ke depan, PSGO menyebutkan enam rencana: evaluasi prosedur operasional dan keselamatan kerja, penguatan inspeksi dan pemeliharaan berkala mesin, peningkatan pengawasan aktivitas berisiko kebakaran, evaluasi kesiapan sarana tanggap darurat, penguatan pelatihan K3 bagi karyawan, serta evaluasi tindak lanjut atas hasil pemeriksaan kejadian."
+  ],
+  "fotoAdegan": "Steel sterilizer tanks and pipework at a palm oil processing mill, rows of oil palm trees in the background, overcast tropical sky.",
+  "takeaway": "Tanggapan ini netral bagi PSGO, karena di satu sisi menambah kepastian lewat nilai asuransi Rp267,6 miliar dan rencana menutup kekurangan produksi dengan pabrik anak usaha lain, tapi di sisi lain mengonfirmasi bahwa penyebab kebakaran, waktu pemulihan, dan nilai kerugian semuanya masih belum bisa dipastikan. Pos kinerja yang tersentuh adalah pendapatan dan laba bersih konsolidasi, karena NUSA menyumbang sekitar 30 persen pendapatan dan 22 persen laba bersih PSGO setahun terakhir, sehingga berhentinya pengolahan di PKS itu langsung menekan dua angka tersebut, sementara klaim asuransi nantinya hanya akan menutup kerusakan aset, bukan menambah pendapatan usaha. Yang perlu dipantau berikutnya adalah hasil investigasi penyebab kebakaran dan kepastian waktu PKS NUSA kembali beroperasi, sebab dua hal itu belum ditentukan dan akan menjadi penentu apakah target produksi serta pendapatan PSGO tahun 2026 benar bisa tercapai lewat optimalisasi pabrik lain seperti yang dijanjikan perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pura-restrukturisasi-utang-ke-mandiri-bunga-ditangguhkan-3-bulan",
+  "category": "Aksi Korporasi",
+  "title": "PURA Restrukturisasi Utang ke Mandiri, Bunga [Ditangguhkan] 3 Bulan",
+  "deck": "PURA dan Bank Mandiri sepakat menangguhkan 6,13 poin dari bunga kredit 9 persen selama tiga bulan, langkah yang diklaim perusahaan membantu arus kas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T21:25:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7b28fdbd05_18d59a4111.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PURA",
+  "tags": [
+   "PURA",
+   "restrukturisasi utang",
+   "Bank Mandiri",
+   "arus kas"
+  ],
+  "body": [
+   "PT Putra Rajawali Kencana Tbk (PURA), perusahaan angkutan barang yang berkantor di Surabaya, menandatangani surat persetujuan restrukturisasi kredit dengan PT Bank Mandiri (Persero) Tbk pada 21 Oktober 2026. Berdasarkan surat bernomor 041/SP-DIR/RG-PURA/X/2026 itu, dari bunga kredit tahunan sebesar 9 persen, sebanyak 6,13 poin persentase mendapat penangguhan pembayaran. Penangguhan ini berlaku selama tiga bulan sejak kejadian tersebut.",
+   "Dalam laporan keterbukaan informasi ke Otoritas Jasa Keuangan, Corporate Secretary PURA, Ratna Hidayati, menyatakan restrukturisasi ini diperkirakan memberi dampak positif terhadap likuiditas dan arus kas perusahaan serta mendukung kelangsungan usaha ke depan. Surat permohonan ke OJK sendiri ditandatangani oleh Direktur Utama PURA, Ariel Wibisono. Perusahaan tidak merinci berapa nilai total pinjaman yang direstrukturisasi, dan dokumen tidak menyebut syarat lain selain jangka waktu penangguhan tiga bulan tersebut.",
+   "PURA bergerak di bidang transportasi dan angkutan barang. Tidak ada rincian tambahan dalam laporan mengenai apa yang terjadi setelah masa penangguhan tiga bulan berakhir, termasuk apakah bunga yang ditangguhkan akan dibayar sekaligus atau dicicil kembali."
+  ],
+  "fotoAdegan": "Rows of cargo trucks parked in a logistics yard at dawn, drivers inspecting tires and cargo straps before departure",
+  "takeaway": "Catatan redaksi ini condong negatif bagi fundamental PURA, karena kebutuhan meminta keringanan bunga ke bank utamanya biasanya muncul setelah ada tekanan pada kas perusahaan, bukan sekadar langkah rutin, meski perusahaan sendiri menyebutnya berdampak positif. Yang tersentuh di sini adalah beban bunga, yaitu biaya yang harus dibayar PURA setiap tahun atas utangnya ke bank, dan arus kas, yaitu uang tunai yang keluar masuk perusahaan setiap bulan; dengan 6,13 dari 9 poin persentase bunga ditangguhkan selama tiga bulan, PURA untuk sementara punya lebih banyak uang tunai tersisa karena tidak perlu membayar sebagian bunga itu sekarang. Yang perlu dipantau adalah kondisi PURA begitu masa penangguhan tiga bulan ini berakhir, sekitar akhir Januari 2027, yaitu apakah perusahaan sudah mampu membayar bunga penuh kembali atau justru mengajukan perpanjangan keringanan yang akan menjadi tanda bahwa masalah arus kasnya belum selesai.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "esdm-targetkan-seluruh-desa-berlistrik-pada-2029",
   "category": "Energi",
   "title": "ESDM Targetkan Seluruh Desa Berlistrik pada [2029]",

@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pssi-tetapkan-rasio-pembagian-saham-treasuri-1-30-rupslb-28-okt",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Tetapkan Rasio Pembagian Saham [Treasuri] 1:30, RUPSLB 28 Okt",
+  "deck": "Ralat keterbukaan informasi PSSI merinci rasio 30:1 untuk pembagian 172 juta saham treasuri ke pemegang saham, dengan RUPSLB digelar 28 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "buyback",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3aa3bb38d4_cd22a9f7fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pssi-ralat-rencana-distribusi-172-juta-saham-treasuri",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Ralat Rencana Distribusi [172 Juta] Saham Treasuri",
+  "deck": "IMC Pelita Logistik (PSSI) mengoreksi keterbukaan informasi sebelumnya, merinci rencana pembagian 172.039.636 saham treasuri ke pemegang saham pada 27 November 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "buyback",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/13eb4acbda_a697b3ba7d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "psgo-pks-anak-usaha-terbakar-kontribusi-30-pendapatan-terhenti",
+  "category": "Aksi Korporasi",
+  "title": "PSGO: PKS Anak Usaha Terbakar, [Kontribusi] 30% Pendapatan Terhenti",
+  "deck": "Kebakaran di stasiun sterilizer PKS anak usaha NUSA menghentikan pengolahan TBS, padahal unit itu menyumbang sekitar 30 persen pendapatan konsolidasi PSGO dalam setahun terakhir.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSGO",
+   "kebakaran",
+   "CPO",
+   "Nusaraya Agro Sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e511f17bd_d1070b5da3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "psgo-ungkap-asuransi-rp267-6-miliar-untuk-pks-nusa-yang-terbakar",
+  "category": "Aksi Korporasi",
+  "title": "PSGO Ungkap Asuransi [Rp267,6 Miliar] untuk PKS NUSA yang Terbakar",
+  "deck": "Merespons permintaan penjelasan BEI, PSGO merinci kapasitas, kontribusi keuangan, dan nilai asuransi PKS anak usahanya yang terbakar, namun belum bisa memastikan waktu pulih dan besarnya kerugian.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSGO",
+   "kebakaran",
+   "kelapa sawit",
+   "asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e511f17bd_d1070b5da3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pura-restrukturisasi-utang-ke-mandiri-bunga-ditangguhkan-3-bulan",
+  "category": "Aksi Korporasi",
+  "title": "PURA Restrukturisasi Utang ke Mandiri, Bunga [Ditangguhkan] 3 Bulan",
+  "deck": "PURA dan Bank Mandiri sepakat menangguhkan 6,13 poin dari bunga kredit 9 persen selama tiga bulan, langkah yang diklaim perusahaan membantu arus kas.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PURA",
+   "restrukturisasi utang",
+   "Bank Mandiri",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7b28fdbd05_18d59a4111.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "esdm-targetkan-seluruh-desa-berlistrik-pada-2029",
   "category": "Energi",
   "title": "ESDM Targetkan Seluruh Desa Berlistrik pada [2029]",
@@ -6375,86 +6455,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f2bce3332a_fef25fc41a.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "smra-lunasi-obligasi-rp468-miliar-jatuh-tempo-19-oktober",
-  "category": "Aksi Korporasi",
-  "title": "SMRA lunasi obligasi [Rp468 miliar] jatuh tempo 19 Oktober",
-  "deck": "Summarecon Agung (SMRA) memastikan dana untuk melunasi pokok Rp468 miliar Obligasi Berkelanjutan IV Tahap II Seri A yang jatuh tempo dan didelisting dari BEI pada 19 Oktober 2026.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMRA",
-   "obligasi korporasi",
-   "pelunasan obligasi",
-   "Summarecon Agung"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7634620765_713aae34c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smar-siapkan-dana-rp958-miliar-lunasi-obligasi-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "SMAR Siapkan Dana Rp958 Miliar Lunasi Obligasi [Jatuh Tempo]",
-  "deck": "Obligasi SMAR03CCN2 senilai Rp958 miliar jatuh tempo 19 Oktober 2026; SMART pastikan dana pelunasan sudah tersedia.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMAR",
-   "obligasi",
-   "jatuh tempo",
-   "SMART"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7f1e0d968f_a8f1b1855a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbkp-resmi-catatkan-obligasi-subordinasi-rp500-miliar-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "BBKP Resmi Catatkan Obligasi Subordinasi [Rp500 Miliar] di BEI",
-  "deck": "Bank KB Indonesia mencatatkan Obligasi Subordinasi Berkelanjutan IV Tahap II senilai Rp500 miliar di BEI mulai 19 Oktober 2026, dengan kupon 8,95-9,30% dan peringkat AAidn dari Fitch.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBKP",
-   "obligasi subordinasi",
-   "Bank KB Indonesia",
-   "pencatatan BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/65ab5ad300_502371ce15.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "anjt-jawab-bursa-soal-karhutla-sebut-tak-ada-dampak-signifikan",
-  "category": "Aksi Korporasi",
-  "title": "ANJT Jawab Bursa soal [Karhutla], Sebut Tak Ada Dampak Signifikan",
-  "deck": "ANJT merespons permintaan penjelasan BEI terkait kebakaran hutan dan lahan di sejumlah wilayah operasionalnya, termasuk Kalimantan Barat.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANJT",
-   "Austindo Nusantara Jaya",
-   "Karhutla",
-   "Keterbukaan Informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c371794843_01af4f9dba.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpr-ojk-pastikan-reformasi-pasar-modal-konsisten-usai-msci",
-  "category": "Pasar Modal",
-  "title": "DPR-OJK Pastikan [Reformasi] Pasar Modal Konsisten Usai MSCI",
-  "deck": "DPR RI dan OJK menggelar rapat bersama Danantara di BEI untuk memastikan reformasi pasar modal konsisten, menyusul konsultasi klasifikasi pasar oleh MSCI.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/dpr-ojk-pastikan-reformasi-pasar-modal-konsisten-usai-msci.jpg",
-  "imageV": "mvb12bqj",
-  "tags": [
-   "OJK",
-   "DPR RI",
-   "MSCI",
-   "Pasar Modal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473396-jaga-kepercayaan-investor-dpr-ri-dan-ojk-pastikan-reformasi-pasar-modal-indonesia-berjalan-konsisten"
  }
 ];

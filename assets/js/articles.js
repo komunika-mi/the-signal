@@ -86,6 +86,33 @@ var ARTICLES = [
   "imageV": "mvjxg3or"
  },
  {
+  "slug": "mytx-catat-laba-semu-dari-kurs-ekuitas-masih-minus-rp559-m",
+  "category": "Aksi Korporasi",
+  "title": "MYTX Catat Laba Semu dari [Kurs], Ekuitas Masih Minus Rp559 M",
+  "deck": "MYTX meraih laba Rp51,8 miliar dalam 9 bulan 2026, naik dari Rp11,6 miliar, tapi sebagian besar dari untung kurs, bukan bisnis inti yang justru rugi kotor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T00:38:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023074736-64618-0/FinancialStatement-2026-III-MYTX.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MYTX",
+  "tags": [
+   "MYTX",
+   "laporan keuangan",
+   "tekstil",
+   "defisiensi modal"
+  ],
+  "body": [
+   "PT Asia Pacific Investama Tbk (MYTX), emiten tekstil yang sahamnya berada di papan pemantauan khusus Bursa Efek Indonesia, menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perusahaan, yang dulu bernama PT Apac Citra Centertex Tbk dan menaungi anak usaha PT Apac Inti Corpora dengan kepemilikan 96,44 persen di Tangerang, membukukan penjualan neto Rp793,25 miliar, naik tipis dari Rp762,65 miliar pada periode yang sama tahun lalu. Namun beban pokok penjualan naik lebih cepat, dari Rp751,7 miliar menjadi Rp800,52 miliar, sehingga perusahaan mencatat rugi kotor Rp7,27 miliar, berbalik dari laba kotor Rp10,96 miliar pada sembilan bulan pertama 2025.",
+   "Yang menahan laporan laba rugi tetap positif adalah keuntungan selisih kurs neto sebesar Rp113,81 miliar, lebih dari dua kali lipat keuntungan kurs Rp51,6 miliar setahun sebelumnya. Dengan tambahan itu, laba usaha tercatat Rp92,4 miliar, dan setelah dikurangi biaya keuangan Rp40,57 miliar, laba bersih periode berjalan mencapai Rp51,83 miliar, naik dari Rp11,59 miliar pada periode yang sama 2025. Laba per saham dasar dan dilusian naik dari Rp1,44 menjadi Rp6,45. Dari laba tersebut, Rp49,95 miliar menjadi bagian pemilik entitas induk dan Rp1,88 miliar menjadi bagian kepentingan nonpengendali.",
+   "Dari sisi neraca, total aset naik dari Rp3,35 triliun pada akhir 2025 menjadi Rp3,54 triliun per 30 September 2026, tetapi total liabilitas juga naik dari Rp3,93 triliun menjadi Rp4,09 triliun. Akibatnya, defisiensi modal atau ekuitas negatif grup tercatat minus Rp559,53 miliar, membaik dari minus Rp581,86 miliar pada akhir 2025, namun tetap berarti total utang masih lebih besar dari total aset. Pos uang muka penjualan dari pihak berelasi, liabilitas jangka pendek terbesar, membengkak dari Rp1,55 triliun menjadi Rp1,59 triliun, sementara utang bank jangka panjang naik dari Rp1,71 triliun menjadi Rp1,77 triliun. Kas dan setara kas per akhir September 2026 tercatat Rp33,77 miliar, dengan arus kas neto dari aktivitas operasi positif Rp13,94 miliar, lebih tinggi dari Rp6,06 miliar pada periode yang sama tahun lalu.",
+   "Laporan ini juga mencatat pergantian Presiden Komisaris dari Johnny Pesik menjadi Wilson Pesik, sementara jajaran direksi yang dipimpin Presiden Direktur Ivan Pesik dan Direktur Kristina Bay Maca tidak berubah. Jumlah karyawan grup per 30 September 2026 tercatat 2.866 orang, sedikit berkurang dari 2.876 orang pada akhir 2025."
+  ],
+  "fotoAdegan": "Textile factory workers tending rows of industrial spinning machines, thread spools visible, dim fluorescent lighting, Indonesian weaving mill interior",
+  "takeaway": "Laporan ini cenderung negatif bagi fundamental MYTX karena laba yang tampak di atas kertas sebagian besar berasal dari untung selisih kurs, bukan dari perbaikan bisnis tekstilnya yang justru mencatat rugi kotor, tanda biaya produksi tumbuh lebih cepat dari penjualan. Yang tersentuh di sini adalah ekuitas perusahaan, yaitu selisih antara total aset dan total utang: defisiensi modal yang membaik tipis menjadi minus Rp559,53 miliar tetap berarti seluruh aset grup belum cukup menutup utangnya, sehingga porsi kekayaan yang tersisa untuk pemegang saham praktis sudah habis. Beban bunga Rp40,57 miliar dalam sembilan bulan juga masih menggerus sebagian besar laba usaha, tanda beban utang perusahaan tetap berat. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang akan menentukan apakah tren membaiknya defisiensi modal ini berlanjut atau justru kembali melebar, serta apakah status MYTX di papan pemantauan khusus BEI berubah.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pack-ubah-bisnis-akuisisi-nikel-dan-gelar-rights-issue",
   "category": "Aksi Korporasi",
   "title": "PACK Ubah Bisnis, Akuisisi Nikel, dan Gelar [Rights Issue]",

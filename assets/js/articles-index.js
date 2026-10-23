@@ -58,6 +58,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  },
  {
+  "slug": "mytx-catat-laba-semu-dari-kurs-ekuitas-masih-minus-rp559-m",
+  "category": "Aksi Korporasi",
+  "title": "MYTX Catat Laba Semu dari [Kurs], Ekuitas Masih Minus Rp559 M",
+  "deck": "MYTX meraih laba Rp51,8 miliar dalam 9 bulan 2026, naik dari Rp11,6 miliar, tapi sebagian besar dari untung kurs, bukan bisnis inti yang justru rugi kotor.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MYTX",
+   "laporan keuangan",
+   "tekstil",
+   "defisiensi modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023074736-64618-0/FinancialStatement-2026-III-MYTX.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pack-ubah-bisnis-akuisisi-nikel-dan-gelar-rights-issue",
   "category": "Aksi Korporasi",
   "title": "PACK Ubah Bisnis, Akuisisi Nikel, dan Gelar [Rights Issue]",
@@ -6471,22 +6487,6 @@ var ARTICLES = [
    "PMHMETD"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/feb63f52e6_b51b4c1ba4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-panggil-rupslb-rombak-direksi-komisaris-6-november",
-  "category": "Aksi Korporasi",
-  "title": "KDTN Panggil RUPSLB, [Rombak] Direksi-Komisaris 6 November",
-  "deck": "Puri Sentul Permai (KDTN) menggelar RUPSLB 6 November 2026 untuk ganti direksi-komisaris, sekaligus menegaskan pengambilalihan oleh calon pengendali baru belum terlaksana.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "RUPSLB",
-   "Pergantian Direksi",
-   "Pengambilalihan Perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/91626d38f2_9353dc1b70.pdf",
   "sourceLabel": "IDX"
  }
 ];

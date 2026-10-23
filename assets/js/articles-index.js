@@ -5,6 +5,72 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-targetkan-kredit-rakyat-rp400-triliun-di-2027",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo Targetkan Kredit Rakyat [Rp400 Triliun] di 2027",
+  "deck": "Presiden Prabowo Subianto meluncurkan Dewan Nasional Kesejahteraan Keuangan dan menargetkan penyaluran kredit rakyat Rp400 triliun pada 2027, naik dari realisasi Rp53 triliun saat ini.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "DNKK",
+   "kredit rakyat",
+   "inklusi keuangan",
+   "PP 42/2026"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7178/presiden-prabowo-luncurkan-dewan-nasional-kesejahteraan-keuangan-targetkan-penyaluran-kredit-rakyat-rp400-triliun-pada-2027",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "kilang-balikpapan-99-persen-rampung-stok-bbm-dipastikan-aman",
+  "category": "Energi",
+  "title": "Kilang Balikpapan [99 Persen] Rampung, Stok BBM Dipastikan Aman",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut proyek kilang Balikpapan sudah 99 persen selesai, sembari memastikan stok Pertalite dan BBM nonsubsidi masih aman di atas standar minimum.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/kilang-balikpapan-99-persen-rampung-stok-bbm-dipastikan-aman.jpg",
+  "imageV": "mvkhlqtx",
+  "tags": [
+   "RDMP Balikpapan",
+   "BBM Subsidi",
+   "ESDM",
+   "Pertamina"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kilang-balikpapan-sudah-99-persen-stok-bbm-nasional-dipastikan-aman",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "india-hentikan-penyelidikan-antisubsidi-kaca-ri",
+  "category": "Industri",
+  "title": "India [Hentikan] Penyelidikan Antisubsidi Kaca RI",
+  "deck": "Otoritas India menghentikan penyelidikan antisubsidi atas kaca polos asal Indonesia karena volume impornya di bawah ambang batas, sehingga ekspor bisa berlanjut tanpa tarif tambahan.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/gudang-bahan-baku.jpg",
+  "tags": [
+   "ekspor kaca",
+   "India",
+   "antisubsidi",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/india-hentikan-penyelidikan-antisubsidi-produk-cfg-asal-indonesia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "uang-beredar-tumbuh-8-3-meski-penyaluran-kredit-melambat",
+  "category": "Moneter",
+  "title": "Uang Beredar [Tumbuh] 8,3% Meski Penyaluran Kredit Melambat",
+  "deck": "BI mencatat uang beredar tumbuh 8,3 persen pada September 2026, naik tipis dari bulan sebelumnya, sementara penyaluran kredit ke masyarakat justru melambat menjadi 12,7 persen.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "Bank Indonesia",
+   "Uang Beredar",
+   "Kredit Perbankan",
+   "M2"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823526.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "rgas-pendapatan-9-bulan-anjlok-52-arus-kas-operasi-negatif",
   "category": "Aksi Korporasi",
   "title": "RGAS: Pendapatan 9 Bulan Anjlok 52%, [Arus Kas] Operasi Negatif",
@@ -35,6 +101,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023095154-64811-0/FinancialStatement-2026-III-MKNT.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-turun-lagi-ke-rp2-540-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Lagi ke Rp2.540.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp10.000 menjadi Rp2.540.000 per gram pada Jumat (23/10), sementara harga buyback ikut melemah ke Rp2.335.000 per gram.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-turun-lagi-ke-rp2-540-000-per-gram.jpg",
+  "imageV": "mvkhlrpk",
+  "tags": [
+   "Emas Antam",
+   "Harga Emas",
+   "Logam Mulia",
+   "Investasi Emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474555-saatnya-borong-harga-emas-antam-hari-ini-23-oktober-2026-merosot-lagi-jadi-rp2540000-per-gram"
  },
  {
   "slug": "ocap-defisiensi-modal-melebar-ke-rp302-85-miliar-di-kuartal-iii",
@@ -451,7 +534,7 @@ var ARTICLES = [
   "title": "Pemerintah Pasang Target Pertumbuhan [6%] untuk 2027",
   "deck": "Pemerintah mengklaim stabilitas ekonomi domestik masih solid, dengan investasi tumbuh 7,3 persen, sebagai dasar menaikkan target pertumbuhan ke 6 persen pada 2027.",
   "date": "22 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7177/pemerintah-jaga-stabilitas-ekonomi-dalam-negeri-untuk-pertahankan-kepercayaan-investor",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
@@ -1449,7 +1532,7 @@ var ARTICLES = [
   "title": "Investasi KEK Baru [Rp46] Triliun, Kejar Target Rp69 Triliun",
   "deck": "Realisasi investasi di 25 kawasan ekonomi khusus capai Rp46 triliun hingga September 2026, baru dua pertiga dari target Rp69 triliun tahun ini.",
   "date": "21 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "KEK",
    "Investasi",
@@ -4287,7 +4370,7 @@ var ARTICLES = [
   "title": "BI Gandeng IFSB-IILM Bahas [Ketahanan] Keuangan Syariah",
   "deck": "Bank Indonesia bersama IFSB dan IILM menggelar seminar internasional soal risiko dan ketahanan keuangan syariah, saat aset syariah RI tumbuh 10 persen jadi Rp3.264 triliun.",
   "date": "19 Oktober 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/brankas-uang-sentral.jpg",
   "tags": [
    "keuangan syariah",
    "Bank Indonesia",
@@ -4939,7 +5022,7 @@ var ARTICLES = [
   "title": "Paviliun Kawasan Berikat TEI Catat Minat [Rp5 Triliun]",
   "deck": "Enam belas perusahaan menyatakan minat memanfaatkan status Kawasan Berikat dan Pusat Logistik Berikat di Trade Expo Indonesia 2026, dengan potensi investasi sekitar Rp5 triliun menurut Kemendag.",
   "date": "17 Oktober 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "Kawasan Berikat",
    "Trade Expo Indonesia",
@@ -5216,7 +5299,7 @@ var ARTICLES = [
   "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
   "deck": "Pemerintah memperpanjang tenggat wajib sertifikat halal untuk makanan, minuman, kosmetik, dan obat dari 18 Oktober 2026 menjadi 2028, menyusul masukan dunia usaha soal kesiapan ekosistem sertifikasi.",
   "date": "16 Oktober 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
+  "image": "assets/img/mesin-tekstil.jpg",
   "tags": [
    "Sertifikat Halal",
    "BPJPH",
@@ -6406,86 +6489,6 @@ var ARTICLES = [
    "GMF AeroAsia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fed2b2c75_fba1043bfd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unsp-pastikan-karhutla-tak-ganggu-produksi-dan-pendapatan-2026",
-  "category": "Aksi Korporasi",
-  "title": "UNSP Pastikan [Karhutla] Tak Ganggu Produksi dan Pendapatan 2026",
-  "deck": "Menanggapi permintaan penjelasan bursa, UNSP memastikan karhutla belum berdampak pada produksi, pendapatan, dan operasional 2026, meski mengakui potensi risiko hukum.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNSP",
-   "karhutla",
-   "sawit",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/86f10ccfe0_e6c1bab5a1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sini-jelaskan-ke-bursa-dampak-karhutla-ke-produksi-minim",
-  "category": "Aksi Korporasi",
-  "title": "SINI Jelaskan ke Bursa, Dampak [Karhutla] ke Produksi Minim",
-  "deck": "Singaraja Putra menjawab permintaan penjelasan BEI soal karhutla, menyebut dampaknya ke operasional lima anak usaha tambang batu bara di Kalimantan tidak signifikan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SINI",
-   "karhutla",
-   "batu bara",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/462a6117f4_90e135b45b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewa-laba-bersih-melonjak-114-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "DEWA: Laba Bersih [Melonjak] 114% di Kuartal III 2026",
-  "deck": "Darma Henwa catat laba bersih Rp513 miliar pada sembilan bulan 2026, naik lebih dari dua kali lipat, didukung kenaikan pendapatan dan pinjaman sindikasi baru dari BCA dan Mandiri.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWA",
-   "laporan keuangan",
-   "pinjaman bank",
-   "pertambangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261015195633-64543-0/FinancialStatement-2026-III-DEWA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekspor-ri-ke-inggris-hadapi-skema-tarif-baru-2027",
-  "category": "Global",
-  "title": "Ekspor RI ke Inggris Hadapi Skema Tarif [Baru] 2027",
-  "deck": "Kemendag dan Inggris perkuat kerja sama dagang, sementara skema tarif ekspor Inggris untuk Indonesia akan berubah mulai Januari 2027.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
-  "tags": [
-   "Indonesia-Inggris",
-   "Ekspor",
-   "Kemendag",
-   "Tarif Dagang"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-tegaskan-komitmen-perkuat-kerja-sama-strategis-dan-perdagangan-indonesia-inggris",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "nsss-tegaskan-karhutla-tak-ganggu-produksi-sawit",
-  "category": "Aksi Korporasi",
-  "title": "NSSS Tegaskan Karhutla Tak Ganggu [Produksi] Sawit",
-  "deck": "Nusantara Sawit Sejahtera menjawab permintaan penjelasan BEI soal karhutla, memastikan tak ada dampak material ke operasional maupun keuangan perusahaan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "karhutla",
-   "sawit",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6c5de72ef_42fe11f6b8.pdf",
   "sourceLabel": "IDX"
  }
 ];

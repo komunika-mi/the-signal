@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "uvcr-revisi-rencana-terbitkan-200-juta-saham-baru-picu-dilusi",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Revisi Rencana Terbitkan 200 Juta Saham Baru, Picu [Dilusi]",
+  "deck": "UVCR mengoreksi keterbukaan informasi PMTHMETD: rencana terbitkan hingga 200 juta saham baru (9,99%) ke calon investor PT Trimegah Sumber Mas, RUPSLB digelar 27 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR",
+   "PMTHMETD",
+   "Ultra Voucher",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1198e2168b_0556f39d07.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uvcr-jelaskan-rincian-dana-pmthmetd-rp27-miliar-di-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Jelaskan Rincian Dana [PMTHMETD] Rp27 Miliar di RUPSLB",
+  "deck": "RUPSLB UVCR pada 27 Oktober 2026 membahas penerbitan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp27 miliar dan penyesuaian kode usaha KBLI 2025.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR",
+   "RUPSLB",
+   "PMTHMETD",
+   "Ultra Voucher"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5b64cab7e2_e25cbdaa96.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgra-ganti-lapkeu-q3-jadi-audited-sinyal-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Ganti Lapkeu Q3 Jadi [Audited], Sinyal Rights Issue",
+  "deck": "PT Terregra Asia Energy mengganti laporan keuangan kuartal III 2026 dari versi tak teraudit menjadi teraudit, menyusul rencana aksi korporasi rights issue atau private placement.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "rights issue",
+   "private placement",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26295308ae_c7204e521e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unsp-catat-dilusi-13-kali-lipat-saat-ekuitas-balik-positif",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Catat [Dilusi] 13 Kali Lipat Saat Ekuitas Balik Positif",
+  "deck": "Ekuitas BSP Plantations (UNSP) berbalik positif Rp2,77 triliun pada September 2026, didorong konversi utang jadi saham yang mendilusi pemegang saham lama sampai 13 kali lipat.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "ekuitas",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023170512-64539-0/FinancialStatement-2026-III-UNSP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "msin-bagikan-materi-pubex-laba-bersih-h1-naik-14-pubex",
+  "category": "Aksi Korporasi",
+  "title": "MSIN Bagikan Materi Pubex, Laba Bersih H1 Naik 14% [Pubex]",
+  "deck": "Materi public expose insidentil MSIN memuat kinerja H1-2026: pendapatan naik 10%, laba kotor naik 17%, EBITDA naik 12%, laba bersih naik 14% dibanding H1-2025.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSIN",
+   "Public Expose",
+   "Laporan Keuangan",
+   "MNC Digital Entertainment"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b28e6f3cca_d66e6dbfc4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-gagal-bayar-kupon-obligasi-saham-disuspensi-lanjut",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Gagal Bayar Kupon Obligasi, Saham [Disuspensi] Lanjut",
+  "deck": "PTPP gagal membayar bunga obligasi dan bagi hasil sukuk yang jatuh tempo 22 Oktober 2026, sehingga BEI melanjutkan penghentian sementara perdagangan sahamnya di seluruh pasar.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1f227bbcf5_d4402922a0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-resmi-keluar-dari-pemantauan-khusus-bei-efektif-26-oktober",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Resmi Keluar dari [Pemantauan Khusus] BEI, Efektif 26 Oktober",
+  "deck": "BEI mencabut status pemantauan khusus saham PT Mitra Komunikasi Nusantara Tbk (MKNT) mulai 26 Oktober 2026, setelah kriteria ekuitas negatif yang jadi alasan masuknya dinyatakan tidak lagi berlaku.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "BEI",
+   "pemantauan khusus",
+   "papan pengembangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2bb127a8d5_df2ebe33b1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "koni-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "KONI Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Perdana Bangun Pusaka Tbk (KONI) menjawab permintaan BEI terkait pergerakan harga sahamnya yang tidak wajar, menyatakan tidak ada informasi material maupun rencana aksi korporasi di baliknya.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KONI",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b81832cf31_935aa33eb4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-sido-usai-dividen-interim-rp10-saham",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Waran [SIDO] usai Dividen Interim Rp10/Saham",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur SIDOZPCH7A menyusul dividen interim SIDO Rp10 per saham, efektif awal November 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "SIDO",
+   "waran terstruktur",
+   "Maybank Sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc3cfe8934_33b4178ea5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pskt-jelaskan-volatilitas-saham-singgung-rencana-buyback",
+  "category": "Aksi Korporasi",
+  "title": "PSKT Jelaskan Volatilitas Saham, Singgung Rencana [Buyback]",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, Red Planet Indonesia (PSKT) memastikan tak ada info material tersembunyi, namun tengah menimbang buyback saham.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSKT",
+   "Red Planet Indonesia",
+   "buyback saham",
+   "volatilitas transaksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8afa6e9f4b_22364de794.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pajak-ntb-tembus-rp2-18-triliun-tumbuh-15-36",
   "category": "Makroekonomi",
   "title": "Pajak NTB Tembus Rp2,18 Triliun, [Tumbuh] 15,36%",
@@ -21,6 +181,86 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/kinerja-penerimaan-pajak-ntb-tetap-terjaga-hingga-triwulan-iii-2026",
   "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "xmes-manajer-investasi-etf-emas-ganti-ke-danareksa",
+  "category": "Aksi Korporasi",
+  "title": "XMES: [Manajer Investasi] ETF Emas Ganti ke Danareksa",
+  "deck": "Pengelolaan Reksa Dana Syariah Mandiri ETF Emas (XMES) beralih dari Mandiri Manajemen Investasi ke Danareksa Investment Management Indonesia, efektif 23 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMES",
+   "reksa dana",
+   "manajer investasi",
+   "ETF emas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8c8bf8e466_c9106c9ccf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ipac-apac-tawar-tender-rp250-saham-demi-go-private",
+  "category": "Aksi Korporasi",
+  "title": "IPAC: APAC Tawar [Tender] Rp250/Saham demi Go Private",
+  "deck": "APAC Investment 2, pengendali IPAC, resmi menawarkan Rp250 per saham untuk membeli sisa 9,4 persen saham publik, bagian dari rencana go private dan delisting dari BEI.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPAC",
+   "tender sukarela",
+   "go private",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/22e0f56cb5_f768e53ccc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xmsk-manajer-investasi-etf-sri-kehati-beralih-ke-danareksa",
+  "category": "Aksi Korporasi",
+  "title": "XMSK: [Manajer Investasi] ETF SRI-Kehati Beralih ke Danareksa",
+  "deck": "Pengelolaan Reksa Dana Indeks Mandiri ETF SRI-Kehati pindah dari PT Mandiri Manajemen Investasi ke PT Danareksa Investment Management Indonesia mulai 23 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMSK",
+   "Reksa Dana",
+   "ETF SRI-Kehati",
+   "Manajer Investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5c4e84d28d_1bf148e682.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btps-laba-9-bulan-naik-7-ke-rp1-01-triliun-aset-rp24-t",
+  "category": "Aksi Korporasi",
+  "title": "BTPS: Laba 9 Bulan [Naik] 7% ke Rp1,01 Triliun, Aset Rp24 T",
+  "deck": "Bank BTPN Syariah mencatat laba bersih Rp1,01 triliun dan aset Rp24 triliun per akhir September 2026, ditopang penyaluran pembiayaan musyarakah yang melonjak.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "laporan keuangan",
+   "perbankan syariah",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023152302-64710-0/FinancialStatement-2026-III-BTPS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xmlf-ganti-manajer-investasi-jadi-danareksa-im-efektif-23-oktober",
+  "category": "Aksi Korporasi",
+  "title": "XMLF ganti [Manajer Investasi] jadi Danareksa IM, efektif 23 Oktober",
+  "deck": "Manajer Investasi Reksa Dana Indeks Mandiri ETF LQ45 (XMLF) berganti dari PT Mandiri Manajemen Investasi menjadi PT Danareksa Investment Management Indonesia, efektif 23 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMLF",
+   "reksa dana",
+   "manajer investasi",
+   "ETF LQ45"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb6462bd50_fc1d7403a8.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "sido-bagi-dividen-interim-rp300-miliar-rp10-per-saham",
@@ -6232,254 +6472,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473233-dari-beli-rumah-hingga-warisan-ini-pajak-properti-yang-perlu-diperhatikan"
- },
- {
-  "slug": "untd-gelar-rupslb-9-november-agendakan-pergantian-direksi",
-  "category": "Aksi Korporasi",
-  "title": "UNTD Gelar RUPSLB 9 November, Agendakan [Pergantian] Direksi",
-  "deck": "RUPSLB PT Terang Dunia Internusa pada 9 November 2026 membahas perubahan anggaran dasar, kemungkinan pergantian direksi-komisaris, gaji 2026, dan laporan realisasi dana IPO.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTD",
-   "RUPSLB",
-   "Direksi",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24fb0d2383_0fc51997a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-rampungkan-opsi-mesop-tahap-2-total-51-54-juta-lembar",
-  "category": "Aksi Korporasi",
-  "title": "ERAA Rampungkan Opsi [MESOP] Tahap 2, Total 51,54 Juta Lembar",
-  "deck": "Erajaya menuntaskan pelaksanaan opsi saham karyawan Tahap 2, melengkapi realisasi 51,54 juta lembar opsi MESOP yang disetujui pemegang saham pada 2025.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "MESOP",
-   "opsi saham",
-   "Erajaya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa34f5c5a1_c6ba8d6300.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tbig-obligasi-rp2-37-triliun-tercatat-di-bei-16-oktober",
-  "category": "Aksi Korporasi",
-  "title": "TBIG [Obligasi] Rp2,37 Triliun Tercatat di BEI 16 Oktober",
-  "deck": "TBIG mencatatkan obligasi Rp1,24 triliun dan sukuk ijarah Rp1,13 triliun di BEI, bagian dari program utang berkelanjutan senilai total Rp28 triliun.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TBIG",
-   "obligasi",
-   "sukuk ijarah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7428c91f1b_c34c9b59fe.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekspor-kopi-ri-ke-as-baru-2-7-persen-dari-pasar-us-12-8-miliar",
-  "category": "Bisnis",
-  "title": "Ekspor Kopi RI ke AS Baru [2,7 Persen] dari Pasar US$12,8 Miliar",
-  "deck": "Kemendag mendorong eksportir kopi memenuhi standar mutu negara tujuan, sementara nilai ekspor kopi RI naik ke US$2,51 miliar pada 2025 namun pangsanya di pasar AS senilai US$12,80 miliar masih kecil.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/ekspor-kopi-ri-ke-as-baru-2-7-persen-dari-pasar-us-12-8-miliar.jpg",
-  "imageV": "mv9uh2xy",
-  "tags": [
-   "ekspor kopi",
-   "Kemendag",
-   "Trade Expo Indonesia",
-   "standar mutu"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-kopi-indonesia-tembus-pasar-global-melalui-penguatan-mutu-dan-nilai-tambah",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "kemendag-meta-latih-200-umkm-manfaatkan-ai-untuk-ekspor",
-  "category": "UMKM",
-  "title": "Kemendag-Meta Latih [200] UMKM Manfaatkan AI untuk Ekspor",
-  "deck": "Kemendag dan Meta Indonesia menyerahkan katalog profil UMKM siap ekspor, hasil program yang telah melatih 200 pelaku usaha di Bandung, Batam, dan Jakarta menggunakan AI untuk pemasaran digital.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/kemendag-meta-latih-200-umkm-manfaatkan-ai-untuk-ekspor.jpg",
-  "imageV": "mv9uh7eu",
-  "tags": [
-   "UMKM",
-   "AI",
-   "Ekspor",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-pelaku-umkm-manfaatkan-ai-untuk-kembangkan-usaha",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "simp-tanggapi-bursa-soal-dampak-karhutla-ke-operasional",
-  "category": "Aksi Korporasi",
-  "title": "SIMP Tanggapi Bursa soal Dampak [Karhutla] ke Operasional",
-  "deck": "Salim Ivomas Pratama (SIMP) menjawab permintaan penjelasan BEI soal dampak kebakaran hutan dan lahan terhadap perkebunannya, menyatakan belum ada dampak material terhadap usaha.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SIMP",
-   "karhutla",
-   "kebakaran hutan dan lahan",
-   "perkebunan sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/570f6e57f6_5b0b5a9078.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kadin-gandeng-bri-insurance-perluas-asuransi-usaha",
-  "category": "Bisnis",
-  "title": "[Kadin] Gandeng BRI Insurance Perluas Asuransi Usaha",
-  "deck": "Kadin Indonesia dan BRI Insurance menandatangani kerja sama untuk memperluas akses asuransi bagi pelaku usaha anggota Kadin.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/kadin-gandeng-bri-insurance-perluas-asuransi-usaha.jpg",
-  "imageV": "mv9uh7y6",
-  "tags": [
-   "Kadin Indonesia",
-   "BRI Insurance",
-   "Asuransi Usaha",
-   "Kerja Sama Bisnis"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473263-kadin-indonesia-jalin-kerja-sama-dengan-bri-insurance-perkuat-sinergi-asuransi-dan-dunia-usaha"
- },
- {
-  "slug": "lsip-jawab-bursa-soal-dampak-karhutla-klaim-belum-material",
-  "category": "Aksi Korporasi",
-  "title": "LSIP Jawab Bursa soal Dampak [Karhutla], Klaim Belum Material",
-  "deck": "LSIP merespons permintaan penjelasan Bursa soal risiko kebakaran hutan dan lahan, menegaskan belum ada dampak material ke produksi maupun keuangan perusahaan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LSIP",
-   "karhutla",
-   "kebakaran hutan dan lahan",
-   "perkebunan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2ef53ef32_b3eddd2485.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-pastikan-dampak-karhutla-tak-material-ke-produksi",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Pastikan Dampak Karhutla Tak [Material] ke Produksi",
-  "deck": "United Tractors menjawab permintaan penjelasan BEI soal Karhutla: anak usaha TTA di Kalimantan Tengah terdampak gangguan jarak pandang, tapi tak material ke produksi dan laba.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "Karhutla",
-   "United Tractors",
-   "Kalimantan Tengah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec34d41328_d076316135.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aali-dampak-karhutla-di-anak-usaha-kalsel-tak-signifikan",
-  "category": "Aksi Korporasi",
-  "title": "AALI: Dampak [Karhutla] di Anak Usaha Kalsel Tak Signifikan",
-  "deck": "Astra Agro Lestari menjawab permintaan penjelasan BEI soal kebakaran hutan dan lahan di anak usahanya, PT Subur Agro Makmur, di Kalimantan Selatan.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AALI",
-   "Karhutla",
-   "Astra Agro Lestari",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2f078d2a9_d9ea5ac3e9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-akui-risiko-going-concern-usai-gagal-bayar-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "POST Akui Risiko [Going Concern] Usai Gagal Bayar Sukuk",
-  "deck": "Pos Indonesia mengungkap kesenjangan likuiditas Rp83,52 miliar dan mengakui risiko kelangsungan usaha setelah gagal bayar bunga sukuk yang jatuh tempo 8 Oktober 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "sukuk",
-   "likuiditas",
-   "Danantara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6ce010d8d7_83021cb29c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bahlil-produk-hijau-kini-lebih-bernilai-dari-fosil",
-  "category": "Energi",
-  "title": "Bahlil: Produk [Hijau] Kini Lebih Bernilai dari Fosil",
-  "deck": "Menko Bahlil Lahadalia menyebut produk industri hijau kini bernilai lebih tinggi dari produk berbasis energi fosil, sejalan dengan target bauran energi terbarukan dalam RUPTL PLN 2025-2034.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/bahlil-produk-hijau-kini-lebih-bernilai-dari-fosil.jpg",
-  "imageV": "mv9uh8em",
-  "tags": [
-   "energi hijau",
-   "RUPTL",
-   "EBT",
-   "ESDM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473252-menko-bahlil-sebut-produk-hijau-kini-nilainya-lebih-tinggi-dari-produk-fosil"
- },
- {
-  "slug": "bank-bjb-sosialisasikan-kpr-subsidi-dan-kredit-perumahan",
-  "category": "Perbankan",
-  "title": "bank bjb Sosialisasikan [KPR Subsidi] dan Kredit Perumahan",
-  "deck": "bank bjb menggelar sosialisasi KPR subsidi FLPP dan kredit produktif di Subang, dengan portofolio FLPP tembus Rp4,935 triliun dari 41.383 debitur per awal Oktober 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/bank-bjb-sosialisasikan-kpr-subsidi-dan-kredit-perumahan.jpg",
-  "imageV": "mv9uh8vh",
-  "tags": [
-   "KPR subsidi",
-   "FLPP",
-   "bank bjb",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473251-perluas-akses-hunian-dan-pembiayaan-produktif-bank-bjb-sosialisasikan-kpp-dan-rumah-subsidi"
- },
- {
-  "slug": "taspen-kemenkeu-integrasikan-data-pensiun-asn",
-  "category": "BUMN",
-  "title": "TASPEN-Kemenkeu [Integrasikan] Data Pensiun ASN",
-  "deck": "TASPEN dan Ditjen Perbendaharaan Kemenkeu sepakat bertukar data pensiun, tabungan hari tua, dan jaminan sosial ASN demi pembayaran yang lebih akurat dan tepat waktu.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/taspen-kemenkeu-integrasikan-data-pensiun-asn.jpg",
-  "imageV": "mv9uh9cu",
-  "tags": [
-   "TASPEN",
-   "pensiun ASN",
-   "integrasi data",
-   "Kemenkeu"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473247-taspen-dan-kemenkeu-integrasikan-data-pensiun-asn-begini-dampaknya-bagi-9-juta-penerima-manfaat"
- },
- {
-  "slug": "bank-bjb-raih-pengakuan-top-50-emiten-midcap-gcg-2026",
-  "category": "Perbankan",
-  "title": "Bank bjb Raih Pengakuan Top 50 Emiten [MidCap] GCG 2026",
-  "deck": "Bank bjb masuk daftar 50 emiten kapitalisasi menengah dengan tata kelola terbaik versi IICD dalam ajang CG Award 2026 di Jakarta.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/bank-bjb-raih-pengakuan-top-50-emiten-midcap-gcg-2026.jpg",
-  "imageV": "mv9uhab6",
-  "tags": [
-   "bank bjb",
-   "GCG",
-   "IICD",
-   "BUMD"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473246-bank-bjb-raih-pengakuan-top-50-emiten-midcap-dalam-iicd-cg-award-2026"
  }
 ];

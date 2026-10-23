@@ -3,6 +3,267 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "uvcr-revisi-rencana-terbitkan-200-juta-saham-baru-picu-dilusi",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Revisi Rencana Terbitkan 200 Juta Saham Baru, Picu [Dilusi]",
+  "deck": "UVCR mengoreksi keterbukaan informasi PMTHMETD: rencana terbitkan hingga 200 juta saham baru (9,99%) ke calon investor PT Trimegah Sumber Mas, RUPSLB digelar 27 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T17:38:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1198e2168b_0556f39d07.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "PMTHMETD",
+   "Ultra Voucher",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Trimegah Karya Pratama Tbk (UVCR), pemilik platform voucher digital Ultra Voucher, menerbitkan koreksi atas keterbukaan informasi penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) yang sebelumnya diumumkan 18 September 2026. Dalam rencana ini, perseroan akan menerbitkan sebanyak-banyaknya 200.000.000 saham biasa baru dengan nilai nominal Rp20 per saham, atau setara maksimal 9,99 persen dari total 2.000.144.838 saham yang sudah beredar saat ini. Karena mekanismenya PMTHMETD, saham baru ini tidak ditawarkan secara proporsional kepada seluruh pemegang saham lama, melainkan langsung ke pihak tertentu. Harga pelaksanaan belum ditetapkan dan baru akan ditentukan direksi mengikuti aturan Bursa Efek Indonesia saat perseroan mengajukan pencatatan tambahan saham tersebut ke bursa.",
+   "Isi koreksi ini menambahkan keterangan bahwa calon pemodal yang akan menyerap saham baru tersebut adalah PT Trimegah Sumber Mas (TSM), lengkap dengan bukti pengumuman akta pendirian dan perubahan anggaran dasar TSM di Berita Negara Republik Indonesia yang dilampirkan sebagai dokumen pendukung. Rencana ini harus mendapat persetujuan pemegang saham independen dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan Selasa, 27 Oktober 2026. Perseroan menargetkan pelaksanaan penerbitan saham dalam waktu tiga sampai enam bulan sejak RUPSLB menyetujui, meski aturan OJK memberi batas waktu maksimal dua tahun.",
+   "Dana hasil PMTHMETD, setelah dipotong biaya-biaya terkait, akan dipakai untuk modal kerja operasional perdagangan voucher digital, pengembangan produk dan layanan serta peningkatan kapasitas operasional, kegiatan pemasaran dan akuisisi pelanggan, serta kebutuhan modal kerja lain penunjang usaha. Perseroan akan melaporkan realisasi penggunaan dana itu sesuai POJK Nomor 40/2025 tentang Penggunaan Dana Hasil Penawaran Umum. RUPSLB yang sama juga akan membahas penyesuaian kode klasifikasi usaha (KBLI) perseroan dari KBLI 2020 ke KBLI 2025, yang menurut perseroan hanya penyesuaian kode dan judul klasifikasi atas kegiatan usaha yang sudah berjalan, tanpa penambahan maupun penghentian lini bisnis."
+  ],
+  "fotoAdegan": "A retail cashier handing a small gift card to a customer at a busy Jakarta mall counter, warm interior lighting, card angled away from camera.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik UVCR, karena penambahan modal digelar tanpa hak memesan efek terlebih dahulu dan diarahkan ke pihak tertentu, PT Trimegah Sumber Mas, bukan ditawarkan secara proporsional ke seluruh pemegang saham lama. Pos yang tersentuh adalah jumlah saham beredar, yang bisa bertambah hingga 200 juta lembar atau naik sekitar 9,99 persen dari total saat ini sebanyak 2 miliar saham, sehingga porsi kepemilikan dan laba per saham pemegang saham lama otomatis mengecil meski mereka tidak menjual satu lembar pun, inilah yang disebut dilusi. Penyeimbangnya, dana segar ini memang disiapkan untuk modal kerja dan ekspansi bisnis voucher digital, bukan sekadar menambal utang lama. Yang perlu dipantau adalah RUPSLB pada 27 Oktober 2026 yang harus mendapat restu pemegang saham independen, serta harga pelaksanaan saham baru yang baru akan ditetapkan direksi saat pengajuan pencatatan ke Bursa Efek Indonesia, karena sampai saat ini harganya belum diumumkan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "uvcr-jelaskan-rincian-dana-pmthmetd-rp27-miliar-di-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Jelaskan Rincian Dana [PMTHMETD] Rp27 Miliar di RUPSLB",
+  "deck": "RUPSLB UVCR pada 27 Oktober 2026 membahas penerbitan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp27 miliar dan penyesuaian kode usaha KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T17:38:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5b64cab7e2_e25cbdaa96.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "RUPSLB",
+   "PMTHMETD",
+   "Ultra Voucher"
+  ],
+  "body": [
+   "PT Trimegah Karya Pratama Tbk (UVCR), induk usaha Ultra Voucher, menyampaikan materi, tata tertib, dan prosedur Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 27 Oktober 2026 pukul 14.00 WIB di kantor Ultra Voucher, Jakarta Selatan, serta secara elektronik melalui eASY.KSEI. Mata acara pertama meminta persetujuan pemegang saham atas Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), yaitu penerbitan saham baru tanpa menawarkan hak beli lebih dulu kepada pemegang saham lama. Perseroan merencanakan menerbitkan sebanyak-banyaknya 200 juta saham baru, setara maksimal 9,99 persen dari modal ditempatkan dan disetor penuh, dengan tetap mengikuti batas maksimum 10 persen sesuai Peraturan OJK Nomor 14/2019.",
+   "Dokumen tersebut merinci rencana penggunaan dana hasil PMTHMETD yang ditaksir total Rp27 miliar. Sebanyak Rp13,5 miliar atau 50 persen dialokasikan untuk kebutuhan operasional perdagangan voucher digital dan jasa teknologi, Rp5,4 miliar atau 20 persen untuk pengembangan produk dan layanan, Rp5,4 miliar atau 20 persen lainnya untuk pemasaran, promosi, serta akuisisi pelanggan dan merchant, dan sisanya Rp2,7 miliar atau 10 persen untuk kebutuhan modal kerja lain. Seluruh alokasi ini direncanakan terpakai sejak dana diterima hingga kuartal IV 2027.",
+   "Mata acara kedua meminta persetujuan penyesuaian Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) Perseroan dari KBLI 2020 ke KBLI 2025. Kode 62012 (pengembangan aplikasi e-commerce) berubah menjadi 62191, sementara kode 63122 (portal web komersial) dan 47919 (perdagangan eceran berbagai barang) digabung menjadi satu kode baru, 47901, yaitu platform digital intermediasi perdagangan. Perseroan menegaskan penyesuaian ini hanya mengubah kode dan judul klasifikasi usaha, tanpa menambah kegiatan usaha baru atau menghentikan kegiatan yang sudah berjalan.",
+   "Dokumen juga mencantumkan ketentuan kuorum yang berbeda untuk dua mata acara. Mata acara pertama, soal PMTHMETD, hanya sah jika dihadiri dan disetujui oleh lebih dari separuh suara pemegang saham independen dan pemegang saham yang tidak berafiliasi dengan Perseroan, direksi, komisaris, pemegang saham utama, atau pengendali, sesuai Pasal 8A ayat 2 POJK Nomor 14/2019. Mata acara kedua soal KBLI membutuhkan kuorum kehadiran dan persetujuan minimal dua pertiga suara sesuai Anggaran Dasar dan POJK Nomor 15/2020. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 2 Oktober 2026 pukul 16.00 WIB, dengan batas akhir pernyataan suara elektronik pada Senin, 26 Oktober 2026 pukul 12.00 WIB."
+  ],
+  "fotoAdegan": "Empty corporate meeting room arranged with rows of chairs and a small speaker's table, ready for a shareholders meeting, soft daylight through windows",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik, karena mata acara utamanya adalah penambahan modal tanpa hak memesan efek terlebih dahulu yang bisa menambah jumlah saham beredar hingga hampir 10 persen tanpa memberi kesempatan pemegang saham lama membeli lebih dulu. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu laba bersih Perseroan yang dibagi ke jumlah saham; semakin banyak saham baru tanpa kenaikan laba yang sepadan, semakin kecil bagian laba per lembar saham lama. Di sisi lain, dana Rp27 miliar yang didapat tetap menambah modal kerja untuk operasional dan pengembangan produk, jadi bukan murni dampak buruk. Aturan kuorum yang mewajibkan persetujuan mayoritas pemegang saham independen dan tak berafiliasi menunjukkan regulator memperlakukan transaksi ini sebagai rawan konflik kepentingan, sehingga hasil pemungutan suara kelompok ini patut diperhatikan. Yang perlu dipantau adalah hasil kuorum dan voting RUPSLB pada 27 Oktober 2026 pukul 14.00 WIB, terutama suara pemegang saham independen untuk mata acara PMTHMETD, dengan batas akhir pernyataan suara elektronik Senin 26 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tgra-ganti-lapkeu-q3-jadi-audited-sinyal-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Ganti Lapkeu Q3 Jadi [Audited], Sinyal Rights Issue",
+  "deck": "PT Terregra Asia Energy mengganti laporan keuangan kuartal III 2026 dari versi tak teraudit menjadi teraudit, menyusul rencana aksi korporasi rights issue atau private placement.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T17:09:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26295308ae_c7204e521e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGRA",
+  "tags": [
+   "TGRA",
+   "rights issue",
+   "private placement",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Terregra Asia Energy (TGRA) menyampaikan surat kepada Bursa Efek Indonesia bernomor 024/TGRA-IDX/X/2026 tertanggal 22 Oktober 2026, yang menyatakan perseroan akan menyerahkan laporan keuangan kuartal III tahun buku 2026 dalam versi yang sudah diaudit oleh akuntan publik. Surat itu ditandatangani Daniel Tagu Dedo dan ditujukan kepada Vera Florida, Kepala Divisi Penilaian Perusahaan BEI. Secara formal, dokumen keterbukaan ini mencantumkan nama pengirim Daniel Tagu Dedo dengan jabatan CFO.",
+   "Yang membuat surat ini berbeda dari pemberitahuan laporan keuangan biasa adalah alasannya. TGRA secara eksplisit menyebut bahwa perubahan ini terjadi karena ada rencana aksi korporasi berupa rights issue atau private placement. Karena itu, perseroan memilih tidak melaporkan laporan keuangan triwulan III dalam versi tak teraudit seperti kebiasaan emiten pada umumnya, melainkan langsung menyampaikan laporan keuangan audited interim per periode 30 September 2026.",
+   "Dokumen ini belum mencantumkan detail lebih lanjut soal rights issue atau private placement tersebut, seperti jumlah saham baru yang akan diterbitkan, harga pelaksanaan, atau pihak yang akan menyerap saham. Surat ini sendiri hanya berfungsi sebagai pemberitahuan rencana penyampaian laporan keuangan audited, bukan pengumuman resmi aksi korporasi itu sendiri."
+  ],
+  "fotoAdegan": "Steam rising from geothermal power plant cooling towers in a misty Indonesian mountain landscape at dawn",
+  "takeaway": "Laporan ini netral untuk saat ini karena belum ada angka transaksi apa pun, tapi tidak bisa dibaca sebagai berita administratif biasa karena secara eksplisit mengonfirmasi bahwa TGRA sedang menyiapkan rights issue atau private placement. Dua aksi itu sama-sama berarti penerbitan saham baru, yang menambah jumlah saham beredar perusahaan, akibatnya laba per saham yang dinikmati pemegang saham lama bisa terdilusi karena keuntungan perusahaan nanti harus dibagi ke lebih banyak lembar saham. Di sisi lain, kalau dana dari penerbitan saham baru itu benar masuk ke kas perusahaan, ekuitas TGRA justru akan bertambah, yang biasanya menyehatkan modal perusahaan untuk ekspansi atau membayar utang. Alasan perusahaan memilih laporan audited ketimbang unaudited kemungkinan karena otoritas pasar modal biasanya mensyaratkan laporan keuangan teraudit yang lebih baru sebagai salah satu dokumen pendukung aksi korporasi semacam ini. Yang perlu dipantau pemegang saham selanjutnya adalah pengumuman resmi rights issue atau private placement itu sendiri, yang akan memuat jumlah saham baru, harga, dan skema penambahan modalnya, karena detail itulah yang menentukan seberapa besar dilusi yang sebenarnya akan terjadi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "unsp-catat-dilusi-13-kali-lipat-saat-ekuitas-balik-positif",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Catat [Dilusi] 13 Kali Lipat Saat Ekuitas Balik Positif",
+  "deck": "Ekuitas BSP Plantations (UNSP) berbalik positif Rp2,77 triliun pada September 2026, didorong konversi utang jadi saham yang mendilusi pemegang saham lama sampai 13 kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T16:58:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023170512-64539-0/FinancialStatement-2026-III-UNSP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNSP",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "ekuitas",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Bakrie Sumatera Plantations Tbk (UNSP) melaporkan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Ekuitas perusahaan berbalik menjadi positif Rp2,77 triliun, setelah pada akhir 2025 masih berstatus defisiensi modal atau ekuitas negatif Rp5,27 triliun. Perubahan ini terjadi seiring penjualan yang naik dari Rp1,87 triliun menjadi Rp2,22 triliun, sementara rugi bersih periode berjalan mengecil dari Rp63,47 miliar menjadi Rp43,47 miliar.",
+   "Pembalikan ekuitas itu terutama didorong oleh penerbitan modal saham senilai total Rp4,35 triliun, terdiri dari tambahan modal saham Rp1,45 triliun dan tambahan modal disetor Rp2,90 triliun. Jumlah saham Seri B yang beredar melonjak dari 1,13 miliar lembar pada akhir 2025 menjadi 15,63 miliar lembar pada akhir September 2026, sementara saham Seri A tetap di 1,37 miliar lembar. Namun kas perusahaan hanya naik tipis dari Rp170,8 miliar menjadi Rp175,2 miliar, sementara total liabilitas turun signifikan dari Rp8,76 triliun menjadi Rp4,72 triliun, termasuk pinjaman jangka panjang yang jatuh tempo dalam setahun yang turun dari Rp4,66 triliun menjadi Rp710,3 miliar. Pola ini menunjukkan penambahan modal saham tersebut kemungkinan besar berasal dari konversi utang menjadi saham, bukan dana segar yang masuk ke kas perusahaan.",
+   "Laporan ini juga mencatat surplus revaluasi aset tetap sebesar Rp3,74 triliun yang membuat nilai aset tetap melonjak dari Rp1,97 triliun menjadi Rp5,87 triliun, sehingga total aset perusahaan naik dari Rp3,49 triliun menjadi Rp7,49 triliun. Akibat lonjakan jumlah saham beredar, rugi bersih per saham justru menyusut tajam dari Rp25,39 pada September 2025 menjadi Rp2,56 pada September 2026. Saham UNSP saat ini masih tercatat di papan Pemantauan Khusus Bursa Efek Indonesia. Laporan keuangan ini ditandatangani oleh Direktur Utama Bayu Irianto dan Wakil Direktur Utama Vinayaka B.S. di Jakarta pada 23 Oktober 2026."
+  ],
+  "fotoAdegan": "Plantation workers loading palm oil fresh fruit bunches onto a truck in a tropical Sumatran estate, overcast morning light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama UNSP, sebab perbaikan ekuitas dicapai lewat dilusi besar-besaran, bukan perbaikan kinerja usaha yang sepadan. Jumlah saham Seri B yang melonjak hampir 14 kali lipat berarti porsi kepemilikan dan hak suara pemegang saham lama yang tidak ikut serta dalam penerbitan ini menyusut drastis, meski secara pembukuan ekuitas, yaitu selisih antara total aset dan total utang perusahaan, berubah dari negatif menjadi positif. Surplus revaluasi aset tetap Rp3,74 triliun juga sekadar catatan kenaikan nilai aset di atas kertas, bukan uang tunai yang bisa dipakai membayar utang, dan penurunan rugi per saham dari Rp25,39 menjadi Rp2,56 semata terjadi karena jumlah saham membesar, bukan karena laba membaik, sebab perusahaan tetap merugi Rp43,47 miliar pada sembilan bulan 2026. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang teraudit, karena angka pada laporan interim ini belum diperiksa auditor independen dan surplus revaluasi sebesar ini biasanya ditelaah ulang saat audit tahunan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "msin-bagikan-materi-pubex-laba-bersih-h1-naik-14-pubex",
+  "category": "Aksi Korporasi",
+  "title": "MSIN Bagikan Materi Pubex, Laba Bersih H1 Naik 14% [Pubex]",
+  "deck": "Materi public expose insidentil MSIN memuat kinerja H1-2026: pendapatan naik 10%, laba kotor naik 17%, EBITDA naik 12%, laba bersih naik 14% dibanding H1-2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T16:45:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b28e6f3cca_d66e6dbfc4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSIN",
+  "tags": [
+   "MSIN",
+   "Public Expose",
+   "Laporan Keuangan",
+   "MNC Digital Entertainment"
+  ],
+  "body": [
+   "PT MNC Digital Entertainment Tbk (MSIN) menyampaikan materi presentasi untuk public expose insidentil yang digelar atas permintaan Bursa Efek Indonesia, menyusul surat pemberitahuan rencana acara yang sudah dikirim perseroan pada 22 Oktober 2026. Materi ini disampaikan ke bursa oleh Corporate Secretary Ahmad Alhafiz pada 23 Oktober 2026 pukul 16.45.",
+   "Dalam materi tersebut, MSIN memaparkan kinerja keuangan semester I 2026. Pendapatan tercatat Rp2.002.723 juta, naik 10 persen atau Rp179.765 juta dibanding periode yang sama tahun sebelumnya yang sebesar Rp1.822.958 juta. Laba kotor naik 17 persen menjadi Rp662.140 juta, dengan margin kotor menebal dari 31 persen menjadi 33 persen. EBITDA tumbuh 12 persen menjadi Rp516.588 juta, sementara laba bersih naik 14 persen menjadi Rp279.036 juta dengan margin laba bersih naik dari 13 persen menjadi 14 persen.",
+   "Materi presentasi juga menguraikan model bisnis dan strategi perusahaan. MSIN mengklaim mengoperasikan perpustakaan konten swasta terbesar di Asia Tenggara dengan lebih dari 300.000 jam tayang dan produksi 14.950 episode per tahun melalui tujuh unit produksi di kawasan Movieland, Lido. Platform AVOD RCTI+ disebut memiliki 110 juta pengguna aktif bulanan dan menjadi platform nomor satu di Indonesia, sementara platform SVOD Vision+ memiliki 5,7 juta pelanggan berbayar dengan pangsa pasar 16,4 persen di posisi kedua. Perusahaan juga menyebut hak siar olahraga AFF, AFC, dan UEFA Euro yang diamankan hingga 2028, serta rencana ekspansi platform microdrama V+Short ke pasar global."
+  ],
+  "fotoAdegan": "Television production crew adjusting cameras and lighting rigs on a busy drama set in a Jakarta studio",
+  "takeaway": "Materi ini condong positif bagi MSIN, karena seluruh pos kinerja H1-2026 tumbuh dibanding H1-2025: pendapatan naik 10 persen, laba kotor naik 17 persen, EBITDA naik 12 persen, dan laba bersih naik 14 persen. Yang lebih berarti dari sekadar pertumbuhan pendapatan adalah menebalnya margin, yaitu porsi pendapatan yang akhirnya menjadi laba setelah dikurangi biaya produksi dan operasional. Margin kotor naik dari 31 ke 33 persen dan margin laba bersih dari 13 ke 14 persen, tanda perusahaan bukan cuma menjual lebih banyak tapi juga makin efisien mengelola biaya produksi kontennya. Pelaku pasar biasanya mencermati margin semacam ini karena menunjukkan apakah pertumbuhan bisnis berkelanjutan atau cuma dorongan sesaat. Yang perlu dipantau berikutnya adalah pelaksanaan sesi public expose insidentil itu sendiri, tempat manajemen akan menjawab langsung pertanyaan investor soal keberlanjutan tren ini pada sisa tahun 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ptpp-gagal-bayar-kupon-obligasi-saham-disuspensi-lanjut",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Gagal Bayar Kupon Obligasi, Saham [Disuspensi] Lanjut",
+  "deck": "PTPP gagal membayar bunga obligasi dan bagi hasil sukuk yang jatuh tempo 22 Oktober 2026, sehingga BEI melanjutkan penghentian sementara perdagangan sahamnya di seluruh pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T16:42:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1f227bbcf5_d4402922a0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "sukuk"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) melanjutkan penghentian sementara perdagangan efek PT PP (Persero) Tbk (PTPP) di seluruh pasar, mulai sesi pra-pembukaan Jumat, 23 Oktober 2026, hingga ada pengumuman lanjutan dari bursa. Keputusan ini diambil setelah PTPP menunda pembayaran yang seharusnya efektif pada 22 Oktober 2026, yaitu bunga ke-18 Obligasi Berkelanjutan III PTPP Tahap II Tahun 2022 Seri B (PTPP03BCN2) dan pendapatan bagi hasil ke-18 Sukuk Mudharabah Berkelanjutan I PTPP Tahap II Tahun 2022 Seri B (SMPTPP01BCN2).",
+   "Dasar keputusan BEI adalah surat PT Kustodian Sentral Efek Indonesia (KSEI) Nomor KSEI-7708/DIR/1026 tanggal 21 Oktober 2026 perihal penundaan pembayaran kedua instrumen itu, serta Ketentuan III.1.5 Peraturan Bursa Efek Indonesia Nomor I-L tentang Suspensi Efek. Dalam pengumumannya, BEI menyatakan secara tegas bahwa penundaan pembayaran ini menunjukkan adanya permasalahan pada kelangsungan usaha (going concern) PTPP.",
+   "Pengumuman ini menyebut suspensi sebagai lanjutan dari penghentian yang sudah berjalan sebelumnya, sehingga efek PTPP tetap tidak bisa diperdagangkan di seluruh pasar sampai BEI mengumumkan pencabutannya. BEI meminta semua pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi lanjutan yang disampaikan PTPP terkait penyelesaian kewajiban pembayaran tersebut."
+  ],
+  "fotoAdegan": "Workers in hard hats walking across a large infrastructure construction site with cranes, overcast morning light",
+  "takeaway": "Laporan ini NEGATIF bagi PTPP, karena perusahaan gagal membayar bunga obligasi dan bagi hasil sukuk yang jatuh tempo 22 Oktober 2026, dan otoritas bursa secara eksplisit menyebut penundaan ini sebagai tanda masalah kelangsungan usaha, bukan sekadar urusan administrasi. Yang tersentuh adalah arus kas dan beban bunga perusahaan, karena gagal bayar kupon berarti kas yang tersedia tidak cukup untuk menutup kewajiban utang yang sudah dijadwalkan, sementara pokok utangnya sendiri belum lunas dan beban bunga lanjutan tetap berjalan. Kabar ini juga berlawanan dengan optimisme sehari sebelumnya, ketika restrukturisasi utang bank PTPP dinyatakan berlaku efektif, sehingga menunjukkan tekanan likuiditas perusahaan masih berlanjut di instrumen lain. Yang perlu dipantau berikutnya adalah apakah PTPP benar-benar melunasi kupon dan bagi hasil yang tertunda itu serta penjelasan resmi ke bursa, sebab efeknya tetap disuspensi di seluruh pasar sampai ada pengumuman lanjutan dari BEI.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mknt-resmi-keluar-dari-pemantauan-khusus-bei-efektif-26-oktober",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Resmi Keluar dari [Pemantauan Khusus] BEI, Efektif 26 Oktober",
+  "deck": "BEI mencabut status pemantauan khusus saham PT Mitra Komunikasi Nusantara Tbk (MKNT) mulai 26 Oktober 2026, setelah kriteria ekuitas negatif yang jadi alasan masuknya dinyatakan tidak lagi berlaku.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T16:31:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2bb127a8d5_df2ebe33b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "MKNT",
+   "BEI",
+   "pemantauan khusus",
+   "papan pengembangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia menerbitkan pengumuman resmi bernomor Peng-CK-00078/BEI.PLP/10-2026 pada 23 Oktober 2026 yang mencabut saham PT Mitra Komunikasi Nusantara Tbk dengan kode MKNT dari papan pemantauan khusus. Perubahan ini mulai berlaku efektif 26 Oktober 2026, dan saham MKNT akan berpindah dari papan pemantauan khusus ke papan pengembangan.",
+   "Dalam dokumen tersebut, BEI mencatat bahwa MKNT sebelumnya masuk daftar pemantauan khusus karena memenuhi kriteria nomor 5, yaitu memiliki ekuitas negatif pada laporan keuangan terakhir saat itu. Keterangan pada pengumuman menyebut status untuk kriteria ini adalah 'Keluar/Exit', yang berarti kondisi ekuitas negatif yang sebelumnya melekat pada MKNT sudah tidak lagi terpenuhi berdasarkan laporan keuangan terbarunya, sehingga alasan penempatan di papan pemantauan khusus itu dicabut.",
+   "Pengumuman ditandatangani oleh Bima Ruditya Surya, Pjs Kadiv Peraturan dan Layanan Perusahaan Tercatat BEI. Bursa menyebut daftar lengkap efek dalam pemantauan khusus dapat dilihat melalui laman resmi idx.co.id pada bagian pengumuman."
+  ],
+  "fotoAdegan": "Technicians checking telecommunications cable equipment on an urban rooftop in Indonesia, late afternoon light",
+  "takeaway": "Perubahan ini condong positif bagi MKNT, karena keluarnya saham dari papan pemantauan khusus menandakan masalah ekuitas negatif yang sebelumnya disorot bursa sudah tidak lagi terjadi pada laporan keuangan terbarunya. Ekuitas adalah selisih antara total aset dan total utang perusahaan, semacam kekayaan bersih pemegang saham, pelaku pasar memperhatikannya karena ekuitas negatif berarti utang perusahaan lebih besar dari asetnya, sinyal kondisi keuangan yang rapuh. Dengan kriteria itu dinyatakan keluar, MKNT mendapat pengakuan bursa bahwa kondisi keuangannya sudah membaik dari sisi tersebut, meski status pencatatannya pindah ke papan pengembangan, bukan kembali ke papan utama. Yang perlu dipantau berikutnya adalah laporan keuangan MKNT setelah 26 Oktober 2026, tanggal efektif perubahan papan ini, untuk memastikan posisi ekuitas positif itu bertahan dan tidak kembali memicu status pemantauan khusus di kemudian hari.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "koni-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "KONI Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Perdana Bangun Pusaka Tbk (KONI) menjawab permintaan BEI terkait pergerakan harga sahamnya yang tidak wajar, menyatakan tidak ada informasi material maupun rencana aksi korporasi di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T16:25:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b81832cf31_935aa33eb4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KONI",
+  "tags": [
+   "KONI",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Perdana Bangun Pusaka Tbk (KONI) menyampaikan jawaban resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan atas volatilitas transaksi efek perseroan. Surat permintaan dari bursa bernomor S-13337/BEI.PP3/10-2026 tertanggal 22 Oktober 2026 itu dijawab sehari kemudian, pada 23 Oktober 2026, oleh Corporate Secretary KONI, Lenny Kartika, melalui surat nomor 055/GP-X/2026.",
+   "Dalam jawabannya, KONI menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, sesuai aturan keterbukaan informasi OJK Nomor 31/POJK.04/2015. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu yang wajib dilaporkan ke OJK, seperti perubahan kepemilikan saham atau penjaminan saham sesuai POJK Nomor 4 Tahun 2024. KONI menegaskan tidak memiliki rencana aksi korporasi apa pun dalam waktu dekat, termasuk yang bisa berdampak pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan mendatang.",
+   "Soal rencana pemegang saham utama, Corporate Secretary menyatakan telah menanyakan langsung, dan pemegang saham utama mengaku belum memiliki rencana apa pun terkait kepemilikan sahamnya di KONI. Perseroan juga menyatakan belum ada informasi, fakta, atau kejadian penting lain yang material dan berpotensi memengaruhi harga saham maupun kelangsungan usahanya yang belum diungkapkan kepada publik."
+  ],
+  "fotoAdegan": "Wide view of modern glass office towers in Jakarta's financial district, busy street traffic below, midday light.",
+  "takeaway": "Laporan ini netral bagi fundamental KONI karena isinya murni bantahan standar tanpa ada angka, transaksi, atau fakta baru yang mengubah performa keuangan perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh di sini, sebab surat ini hanya menjawab kecurigaan bursa atas pergerakan harga saham yang tidak wajar, bukan melaporkan aksi korporasi atau transaksi nyata. Yang perlu dipantau investor selanjutnya adalah apakah transaksi saham KONI tetap bergerak tidak wajar setelah surat ini terbit, karena perseroan sendiri mengaku tidak tahu penyebabnya, serta apakah benar tidak muncul aksi korporasi dalam tiga bulan ke depan, yakni hingga sekitar akhir Januari 2027, seperti yang dinyatakan dalam jawaban ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-sido-usai-dividen-interim-rp10-saham",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Waran [SIDO] usai Dividen Interim Rp10/Saham",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur SIDOZPCH7A menyusul dividen interim SIDO Rp10 per saham, efektif awal November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T16:24:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc3cfe8934_33b4178ea5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "SIDO",
+   "waran terstruktur",
+   "Maybank Sekuritas"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia (ZP) mengumumkan penyesuaian syarat dan ketentuan waran terstruktur SIDOZPCH7A menyusul pembagian dividen interim tahun buku 2026 oleh PT Industri Jamu dan Farmasi Sido Muncul Tbk (SIDO) sebesar Rp10 per saham. Sesuai Bagian 3.8 Prospektus tertanggal 11 April 2025 dan Term Sheet SIDOZPCH7A, harga pelaksanaan dan rasio konversi waran tersebut akan dihitung ulang memakai rumus yang membagi selisih harga perdagangan terakhir SIDO pada cum-date dengan nilai dividen Rp10, terhadap harga itu sendiri, lalu dikalikan dengan harga pelaksanaan atau rasio konversi yang lama.",
+   "Penyesuaian ini berlaku efektif pada tanggal ex dividen, yaitu 3 November 2026 untuk transaksi di Pasar Reguler dan Pasar Negosiasi, serta 5 November 2026 untuk Pasar Tunai. Karena rumus tersebut memakai harga penutupan SIDO pada cum-date sebagai variabel, angka pasti harga pelaksanaan dan rasio konversi baru belum bisa ditentukan sekarang dan baru terkonfirmasi setelah harga itu diketahui.",
+   "Maybank Sekuritas selaku penerbit waran juga mencantumkan klausul bahwa penyesuaian dapat saja tidak dilakukan apabila berdasarkan kebijakan sendiri dan tanpa batasan, penerbit menilai tidak ada penyesuaian yang diperlukan, tanpa kewajiban apa pun kepada pemegang waran terstruktur."
+  ],
+  "fotoAdegan": "Office workers crossing a busy plaza in Jakarta's financial district at sunrise, glass towers reflecting soft morning light",
+  "takeaway": "Laporan ini netral baik bagi SIDO maupun Maybank Sekuritas, sebab penyesuaian harga pelaksanaan dan rasio konversi hanyalah konsekuensi rumus baku yang sudah disepakati sejak prospektus terbit, bukan keputusan bisnis baru yang mengubah fundamental kedua pihak. Yang tersentuh di sini adalah syarat produk waran terstruktur, semacam surat berharga yang memberi hak membeli saham SIDO pada harga dan rasio tertentu, dan harga serta rasio itu memang wajib disesuaikan setiap kali SIDO membagi dividen agar nilai hak beli pemegang waran tidak tergerus oleh turunnya harga saham akibat dividen tersebut. Yang perlu dipantau adalah harga penutupan SIDO pada cum-date sebelum 3 November 2026, karena angka itu jadi penentu besaran harga pelaksanaan dan rasio konversi baru yang berlaku efektif 3 November 2026 untuk pasar reguler dan negosiasi, serta 5 November 2026 untuk pasar tunai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pskt-jelaskan-volatilitas-saham-singgung-rencana-buyback",
+  "category": "Aksi Korporasi",
+  "title": "PSKT Jelaskan Volatilitas Saham, Singgung Rencana [Buyback]",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, Red Planet Indonesia (PSKT) memastikan tak ada info material tersembunyi, namun tengah menimbang buyback saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T15:54:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8afa6e9f4b_22364de794.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSKT",
+  "tags": [
+   "PSKT",
+   "Red Planet Indonesia",
+   "buyback saham",
+   "volatilitas transaksi"
+  ],
+  "body": [
+   "PT Red Planet Indonesia Tbk (PSKT) menjawab surat Bursa Efek Indonesia nomor S-13318/BEI.PP3/10-2026 tanggal 23 Oktober 2026 yang meminta penjelasan atas pergerakan transaksi efeknya yang dinilai tidak biasa. Melalui surat bernomor 038/RPI-CS/X/2026 yang ditandatangani Corporate Secretary Seandy Khusen, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang belum diumumkan ke publik yang bisa memengaruhi nilai sahamnya, baik menurut aturan keterbukaan informasi POJK 31/2015 maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E.",
+   "Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sesuai POJK 4/2024 tentang laporan kepemilikan saham, dan menyebut bahwa pemegang saham utama saat ini belum punya rencana apa pun terkait kepemilikannya. Namun pada poin soal rencana tindakan korporasi dalam tiga bulan mendatang, perseroan membuka satu informasi baru: tengah mempertimbangkan pembelian kembali saham (buyback), yang dikaitkan dengan kebijakan Otoritas Jasa Keuangan terkait kondisi pasar yang sedang berfluktuasi signifikan. Red Planet Indonesia tidak menyebut nilai, jumlah saham, maupun jadwal pelaksanaan buyback tersebut, dan menyatakan rencana itu masih bergantung pada kondisi pasar, pertimbangan keuangan perseroan, serta kepatuhan terhadap aturan yang berlaku.",
+   "Selain dua poin tersebut, perseroan menyatakan tidak ada informasi, fakta, atau kejadian penting lain yang material dan belum diumumkan ke publik yang bisa memengaruhi harga saham atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Exterior of a modest budget hotel entrance in a Jakarta business district, taxis waiting at the curb, daytime light",
+  "takeaway": "Laporan ini netral bagi Red Planet Indonesia untuk saat ini, karena isinya sebagian besar konfirmasi rutin bahwa tidak ada rahasia di balik gerak sahamnya, dan satu-satunya informasi baru, rencana buyback, masih berupa wacana tanpa nilai atau jadwal. Buyback sendiri berarti perusahaan membeli balik sahamnya dari pasar; kalau benar dijalankan, jumlah saham yang beredar di publik berkurang, dan itu bisa membuat laba per saham, yaitu keuntungan perusahaan dibagi jumlah lembar saham, terlihat lebih besar walau labanya sendiri tidak berubah. Yang perlu dipantau selanjutnya adalah apakah Red Planet Indonesia benar-benar merealisasikan rencana pembelian kembali saham ini lewat keterbukaan informasi berikutnya, lengkap dengan nilai dan periode pelaksanaannya, serta apakah transaksi sahamnya tetap bergejolak hingga memicu permintaan penjelasan baru dari Bursa Efek Indonesia.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pajak-ntb-tembus-rp2-18-triliun-tumbuh-15-36",
   "category": "Makroekonomi",
   "title": "Pajak NTB Tembus Rp2,18 Triliun, [Tumbuh] 15,36%",
@@ -29,6 +290,133 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "takeaway": "Dari angka yang dipaparkan, porsi terbesar penerimaan pajak NTB datang dari sektor administrasi pemerintahan, sekitar 42 persen dari total Rp2,18 triliun, jauh di atas sektor perdagangan maupun akomodasi hotel dan restoran yang biasanya identik dengan geliat wisata Lombok dan sekitarnya. Artinya pertumbuhan pajak di NTB saat ini lebih banyak ditopang belanja dan proyek pemerintah daerah, bukan murni aktivitas usaha masyarakat luas. Yang terkena dampak langsung adalah pelaku usaha kecil beromzet di bawah Rp4,8 miliar setahun yang tetap membayar pajak final 0,5 persen dari omzet, serta wajib pajak yang memakai jasa kuasa atau konsultan pajak karena ada aturan baru soal cara pemberian kuasa secara elektronik maupun kertas. Yang perlu dipantau adalah apakah sektor perdagangan dan akomodasi bisa mengejar porsi sektor pemerintahan pada laporan triwulan IV akhir tahun ini, karena itu akan menunjukkan apakah pertumbuhan pajak NTB mulai ditopang ekonomi riil atau masih bertumpu pada belanja negara.",
   "imageV": "mvkpytg9"
+ },
+ {
+  "slug": "xmes-manajer-investasi-etf-emas-ganti-ke-danareksa",
+  "category": "Aksi Korporasi",
+  "title": "XMES: [Manajer Investasi] ETF Emas Ganti ke Danareksa",
+  "deck": "Pengelolaan Reksa Dana Syariah Mandiri ETF Emas (XMES) beralih dari Mandiri Manajemen Investasi ke Danareksa Investment Management Indonesia, efektif 23 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T15:23:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8c8bf8e466_c9106c9ccf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMES",
+  "tags": [
+   "XMES",
+   "reksa dana",
+   "manajer investasi",
+   "ETF emas"
+  ],
+  "body": [
+   "Manajer investasi yang mengelola Reksa Dana Syariah Mandiri ETF Emas dengan kode XMES berganti dari PT Mandiri Manajemen Investasi menjadi PT Danareksa Investment Management Indonesia. Perubahan ini berlaku efektif 23 Oktober 2026, sesuai surat resmi bernomor 023/XMES/10/2026 yang disampaikan ke Bursa Efek Indonesia.",
+   "Surat keterbukaan informasi itu ditandatangani oleh Muhammad Wisnu Syahban yang menjabat Head of Fund Accounting Department Reksa Dana Syariah Mandiri ETF Emas. Dokumen tersebut hanya memuat satu poin inti, yaitu peralihan tanggung jawab pengelolaan dana dari Mandiri Manajemen Investasi ke Danareksa Investment Management Indonesia, tanpa menyebutkan alasan pergantian, rencana transisi tim pengelola, maupun perubahan biaya kelolaan bagi pemegang unit penyertaan."
+  ],
+  "fotoAdegan": "Stacks of gold bullion bars inside a secured vault, soft overhead lighting, no readable markings visible",
+  "takeaway": "Penilaian saya netral, karena dokumen ini hanya mengumumkan pergantian pengelola tanpa menyertakan alasan, rekam jejak manajer baru, atau perubahan biaya yang bisa dipakai untuk menilai apakah ini kabar baik atau buruk bagi pemegang unit. Yang tersentuh di sini adalah kualitas pengelolaan portofolio emas di balik ETF ini, yang pada akhirnya memengaruhi nilai aktiva bersih per unit, jadi pelaku pasar wajar mencermati siapa yang sekarang memegang kendali atas aset tersebut. Investor reksa dana ini perlu mengecek apakah ada perubahan strategi investasi atau susunan tim pengelola yang diumumkan Danareksa Investment Management Indonesia setelah tanggal efektif 23 Oktober 2026, serta memantau pergerakan nilai aktiva bersih pada laporan-laporan berikutnya untuk melihat ada tidaknya gangguan selama masa transisi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ipac-apac-tawar-tender-rp250-saham-demi-go-private",
+  "category": "Aksi Korporasi",
+  "title": "IPAC: APAC Tawar [Tender] Rp250/Saham demi Go Private",
+  "deck": "APAC Investment 2, pengendali IPAC, resmi menawarkan Rp250 per saham untuk membeli sisa 9,4 persen saham publik, bagian dari rencana go private dan delisting dari BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T15:22:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/22e0f56cb5_f768e53ccc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPAC",
+  "tags": [
+   "IPAC",
+   "tender sukarela",
+   "go private",
+   "delisting"
+  ],
+  "body": [
+   "PT Era Graharealty Tbk (IPAC) melaporkan ke OJK dan BEI bahwa pemegang saham pengendalinya, APAC Investment 2 Pte. Ltd., resmi mengajukan Pernyataan Penawaran Tender Sukarela untuk membeli sebanyak-banyaknya 89.305.900 saham milik pemegang saham publik, atau 9,402 persen dari seluruh saham IPAC yang beredar. Harga yang ditawarkan Rp250 per saham, dibayar tunai. Saat ini APAC sudah menguasai 860.562.600 saham atau 90,598 persen dari total saham IPAC. Jika seluruh saham publik terserap, kepemilikan APAC akan naik menjadi 949.868.500 saham atau 100 persen, dan IPAC akan sepenuhnya menjadi perusahaan tertutup.",
+   "Penawaran ini merupakan kelanjutan dari rencana go private dan penghapusan pencatatan (delisting) saham IPAC dari Bursa Efek Indonesia yang sudah disetujui dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 20 Oktober 2026. Harga Rp250 per saham ditetapkan 45,31 persen lebih tinggi dari harga minimum Rp172,05 per saham, yaitu patokan yang dihitung dari rata-rata harga tertinggi perdagangan harian IPAC di BEI selama 90 hari sebelum pengumuman RUPSLB pada 11 September 2026, sesuai formula yang diwajibkan POJK 45/2024. Dari daftar harga harian yang dilampirkan, harga tertinggi yang pernah tercatat pada periode acuan itu adalah Rp204 pada 10 September 2026, sehingga harga tawaran Rp250 berada di atas seluruh harga harian pada periode tersebut.",
+   "Proses jual beli saham publik akan dilaksanakan melalui mekanisme crossing di BEI dengan PT Kay Hian Sekuritas sebagai perusahaan efek yang ditunjuk, dan PT Datindo Entrycom sebagai biro administrasi efek. Berdasarkan jadwal yang dilampirkan, pernyataan penawaran ini diterbitkan 23 Oktober 2026, perkiraan pernyataan efektif dari OJK pada 17 Desember 2026, periode penawaran tender sukarela diperkirakan berlangsung 21 Desember 2026 sampai 19 Januari 2027, dan tanggal pembayaran kepada pemegang saham yang menerima tawaran diperkirakan 26 Januari 2027. Pemegang saham publik yang tidak bersedia menjual sahamnya akan tetap menjadi pemegang saham IPAC setelah statusnya berubah menjadi perusahaan tertutup. Laporan ke OJK dan BEI ditandatangani oleh Direktur Utama IPAC, Darmadi Darmawangsa."
+  ],
+  "fotoAdegan": "Real estate agents in business attire showing a furnished apartment unit to a young couple, bright daylight interior",
+  "takeaway": "Laporan ini netral bagi fundamental IPAC, karena isinya hanya pelaksanaan teknis dari rencana go private yang sudah disetujui pemegang saham sejak 20 Oktober 2026, dan harga tawaran Rp250 per saham justru berada di atas seluruh harga tertinggi harian IPAC selama 90 hari sebelum pengumuman rencana ini, jadi tidak ada indikasi pemegang saham publik dirugikan dari sisi harga. Yang tersentuh di sini adalah susunan pemegang saham dan status pencatatan IPAC, bukan kinerja keuangan seperti laba atau utang, karena bila seluruh saham publik terserap, kepemilikan APAC naik dari 90,6 persen menjadi 100 persen dan saham IPAC akan berhenti diperdagangkan di bursa sehingga publik kehilangan akses jual beli terbuka atas saham ini. Yang perlu dipantau berikutnya adalah tanggal efektif dari OJK yang diperkirakan 17 Desember 2026, periode penawaran yang diperkirakan berjalan 21 Desember 2026 sampai 19 Januari 2027, dan tanggal pembayaran kepada pemegang saham yang menerima tawaran pada 26 Januari 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "xmsk-manajer-investasi-etf-sri-kehati-beralih-ke-danareksa",
+  "category": "Aksi Korporasi",
+  "title": "XMSK: [Manajer Investasi] ETF SRI-Kehati Beralih ke Danareksa",
+  "deck": "Pengelolaan Reksa Dana Indeks Mandiri ETF SRI-Kehati pindah dari PT Mandiri Manajemen Investasi ke PT Danareksa Investment Management Indonesia mulai 23 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T15:21:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5c4e84d28d_1bf148e682.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMSK",
+  "tags": [
+   "XMSK",
+   "Reksa Dana",
+   "ETF SRI-Kehati",
+   "Manajer Investasi"
+  ],
+  "body": [
+   "Reksa Dana Indeks Mandiri ETF SRI-Kehati, dengan kode emiten XMSK, resmi berganti manajer investasi mulai 23 Oktober 2026. Berdasarkan surat keterbukaan informasi bernomor 061/XMSK/08/26, pengelolaan dana ini beralih dari PT Mandiri Manajemen Investasi ke PT Danareksa Investment Management Indonesia.",
+   "Keterbukaan informasi ini disampaikan ke Bursa Efek Indonesia oleh Sarwo Adhi Nugroho, yang menjabat Head of FAD Reksa Dana Indeks Mandiri ETF SRI-Kehati. Dokumen resmi tersebut hanya menyatakan fakta pergantian dan tanggal efektifnya, tanpa merinci alasan pergantian, perubahan biaya pengelolaan, atau penyesuaian strategi investasi yang menyertainya."
+  ],
+  "fotoAdegan": "Exterior of modern glass office towers in Jakarta's financial district, pedestrians in business attire crossing a plaza under midday light.",
+  "takeaway": "Pergantian manajer investasi ini bersifat netral bagi pemegang unit penyertaan, sebab dokumen tidak menyebutkan alasan di balik pergantian maupun indikasi perbaikan atau penurunan kinerja dana sebelumnya. Yang tersentuh bukan laporan keuangan emiten konvensional seperti ekuitas atau laba per saham, melainkan pengelolaan portofolio reksa dana itu sendiri, yaitu cara dana investor ditempatkan agar nilai aktiva bersihnya tetap mengikuti indeks SRI-Kehati. Pelaku pasar perlu mencermati apakah strategi pengelolaan dan biaya dana berubah setelah manajer baru, PT Danareksa Investment Management Indonesia, resmi mengambil alih sejak 23 Oktober 2026. Informasi lanjutan dari manajer baru mengenai rencana pengelolaan portofolio ke depan menjadi hal berikutnya yang layak ditunggu pemegang unit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "btps-laba-9-bulan-naik-7-ke-rp1-01-triliun-aset-rp24-t",
+  "category": "Aksi Korporasi",
+  "title": "BTPS: Laba 9 Bulan [Naik] 7% ke Rp1,01 Triliun, Aset Rp24 T",
+  "deck": "Bank BTPN Syariah mencatat laba bersih Rp1,01 triliun dan aset Rp24 triliun per akhir September 2026, ditopang penyaluran pembiayaan musyarakah yang melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T15:15:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023152302-64710-0/FinancialStatement-2026-III-BTPS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "laporan keuangan",
+   "perbankan syariah",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) melaporkan laba bersih selama sembilan bulan pertama 2026 sebesar Rp1,01 triliun, naik sekitar 7 persen atau Rp66,5 miliar dibandingkan periode yang sama tahun lalu yang tercatat Rp945,4 miliar. Laba per saham ikut naik dari Rp123 menjadi Rp131. Total aset perseroan per 30 September 2026 mencapai Rp24 triliun, bertambah Rp1,2 triliun atau 5,5 persen dari posisi akhir 2025 yang sebesar Rp22,8 triliun. Ekuitas juga naik dari sekitar Rp10 triliun menjadi Rp10,6 triliun, bertambah Rp655,8 miliar atau 6,6 persen, yang menurut manajemen berasal dari laba ditahan dikurangi pembayaran dividen sepanjang 2026.",
+   "Dari sisi penyaluran pembiayaan, piutang murabahah atau pembiayaan jual beli ke nasabah inklusi naik 4,7 persen dari Rp9,2 triliun menjadi Rp9,6 triliun. Sementara itu, cadangan kerugian penurunan nilai atas piutang tersebut justru turun 7,4 persen dari Rp881,2 miliar menjadi Rp815,8 miliar, yang menurut manajemen sejalan dengan membaiknya kualitas pembiayaan. Bank menyebut tetap menjaga kecukupan pencadangan, termasuk untuk nasabah yang direstrukturisasi akibat bencana di Sumatra. Pembiayaan musyarakah melonjak paling tajam, naik 25,8 persen atau Rp248,3 miliar menjadi Rp1,2 triliun, didorong penyaluran ke lembaga keuangan non bank lewat sinergi dengan bank induk dan Grup SMBC.",
+   "Di pos lain, kas perseroan turun 21,9 persen menjadi Rp490,8 miliar karena dipindahkan ke aktiva produktif, sementara giro dan penempatan di Bank Indonesia naik 37,2 persen menjadi Rp2 triliun akibat rendahnya penyerapan lelang instrumen Fasbis dan SukBI. Perseroan juga mencatat liabilitas baru ke Bank Indonesia sebesar Rp319,7 miliar dari fasilitas PaSBI, instrumen moneter syariah untuk mengelola likuiditas perbankan. Laporan keuangan interim ini belum diaudit dan disampaikan ke OJK serta Bursa Efek Indonesia sesuai kewajiban pelaporan berkala emiten."
+  ],
+  "fotoAdegan": "Woman street vendor counting small cash notes at a modest stall in an Indonesian village market, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi BTPS, karena laba, aset, dan ekuitas semuanya tumbuh dibanding periode yang sama tahun lalu, sementara cadangan kerugian piutang justru menyusut yang biasanya dibaca pasar sebagai tanda kualitas pembiayaan membaik. Yang tersentuh di sini adalah laba per saham, yaitu bagian laba yang secara teoritis jadi milik setiap satu lembar saham, naik dari Rp123 ke Rp131, dan ekuitas, yaitu selisih antara total aset perusahaan dengan utangnya atau kekayaan bersih yang jadi hak pemegang saham, yang tumbuh 6,6 persen. Pelaku pasar biasa memperhatikan dua pos ini karena keduanya mencerminkan apakah nilai kekayaan pemegang saham benar bertambah, bukan cuma laba di atas kertas. Yang perlu dipantau berikutnya adalah perkembangan restrukturisasi nasabah terdampak bencana di Sumatra pada laporan kuartal mendatang, karena bank masih menahan sebagian pencadangan untuk kelompok ini, serta kelanjutan ekspansi pembiayaan musyarakah ke lembaga keuangan non bank yang tumbuh paling cepat di antara seluruh pos pembiayaan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "xmlf-ganti-manajer-investasi-jadi-danareksa-im-efektif-23-oktober",
+  "category": "Aksi Korporasi",
+  "title": "XMLF ganti [Manajer Investasi] jadi Danareksa IM, efektif 23 Oktober",
+  "deck": "Manajer Investasi Reksa Dana Indeks Mandiri ETF LQ45 (XMLF) berganti dari PT Mandiri Manajemen Investasi menjadi PT Danareksa Investment Management Indonesia, efektif 23 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T15:11:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb6462bd50_fc1d7403a8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMLF",
+  "tags": [
+   "XMLF",
+   "reksa dana",
+   "manajer investasi",
+   "ETF LQ45"
+  ],
+  "body": [
+   "PT Mandiri Manajemen Investasi tidak lagi menjadi pengelola Reksa Dana Indeks Mandiri ETF LQ45 (XMLF). Berdasarkan keterbukaan informasi yang disampaikan ke Bursa Efek Indonesia, manajer investasi reksa dana indeks yang melacak kinerja saham-saham di indeks LQ45 ini beralih ke PT Danareksa Investment Management Indonesia, berlaku efektif 23 Oktober 2026.",
+   "Pemberitahuan ini ditandatangani oleh Sarwo Adhi Nugroho selaku Head of Fund Admin Department, dikirim pada 23 Oktober 2026 pukul 15.11 WIB dari kantor di Menara Mandiri 2, Jakarta. Dokumen tidak merinci alasan pergantian manajer investasi, besaran biaya pengelolaan yang baru, maupun apakah strategi pengelolaan portofolio ETF ini akan berubah setelah beralih tangan."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's financial district at sunrise, reflections of pastel sky, quiet street traffic below.",
+  "takeaway": "Pergantian manajer investasi ETF ini netral bagi pemegang unit penyertaan karena dokumen tidak menyebut perubahan strategi pelacakan indeks LQ45, kinerja dana, atau komposisi portofolio, murni soal siapa yang mengelola di belakang meja. Yang berpotensi tersentuh adalah biaya pengelolaan atau fee manajemen dan seberapa dekat return ETF ini mengikuti indeks LQ45 alias tracking error, karena keduanya ditentukan oleh kebijakan manajer investasi, bukan oleh saham yang mendasarinya. Investor reksa dana ini perlu memantau pengumuman lanjutan dari PT Danareksa Investment Management Indonesia soal besaran biaya pengelolaan dan prospektus baru pasca peralihan yang efektif berlaku 23 Oktober 2026, sebab dokumen ini belum merincinya.",
+  "sentimen": "netral"
  },
  {
   "slug": "sido-bagi-dividen-interim-rp300-miliar-rp10-per-saham",

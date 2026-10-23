@@ -85,6 +85,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "smkm-kucurkan-pinjaman-rp30-miliar-ke-afiliasi-milik-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "SMKM Kucurkan Pinjaman [Rp30 Miliar] ke Afiliasi Milik Pengendali",
+  "deck": "SMKM memberi pinjaman Rp30 miliar ke Panasia Aquaculture, perusahaan yang seluruh sahamnya dimiliki pengendali SMKM yang juga memegang 25 persen saham SMKM.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMKM",
+   "transaksi afiliasi",
+   "pinjaman",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d96ce9228e_51c52b039b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pura-restrukturisasi-utang-ke-mandiri-bunga-ditangguhkan-3-bulan",
   "category": "Aksi Korporasi",
   "title": "PURA Restrukturisasi Utang ke Mandiri, Bunga [Ditangguhkan] 3 Bulan",
@@ -6439,21 +6455,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473407-pnm-bersama-ppi-buka-peluang-ekspansi-pasar-produk-nasabah-mekaar"
- },
- {
-  "slug": "trim-siapkan-dana-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "TRIM Siapkan Dana [Lunasi] Obligasi Rp100 Miliar yang Jatuh Tempo",
-  "deck": "Trimegah Sekuritas menyiapkan dana Rp100 miliar untuk melunasi obligasi yang jatuh tempo 18 Oktober 2026; efek ini berhenti diperdagangkan di BEI mulai 19 Oktober 2026.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIM",
-   "obligasi",
-   "pelunasan obligasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d4065c90f4_eca313b776.pdf",
-  "sourceLabel": "IDX"
  }
 ];

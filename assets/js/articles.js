@@ -137,6 +137,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "smkm-kucurkan-pinjaman-rp30-miliar-ke-afiliasi-milik-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "SMKM Kucurkan Pinjaman [Rp30 Miliar] ke Afiliasi Milik Pengendali",
+  "deck": "SMKM memberi pinjaman Rp30 miliar ke Panasia Aquaculture, perusahaan yang seluruh sahamnya dimiliki pengendali SMKM yang juga memegang 25 persen saham SMKM.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T21:38:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d96ce9228e_51c52b039b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMKM",
+  "tags": [
+   "SMKM",
+   "transaksi afiliasi",
+   "pinjaman",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Sumber Mas Konstruksi Tbk (SMKM) menyampaikan tanggapan ke Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-13280/BEI.PP1/010-2026, menyusul transaksi afiliasi berupa pemberian pinjaman kepada Panasia Aquaculture Pte. Ltd. Dalam perjanjian yang ditandatangani 26 Mei 2026, SMKM menyediakan fasilitas pinjaman hingga Rp30 miliar kepada Panasia dengan bunga 6 persen per tahun, jatuh tempo satu tahun setelah penarikan pertama, dan denda keterlambatan 0,05 persen per hari dari jumlah yang telat dibayar. Dana itu ditujukan untuk belanja modal, modal kerja, investasi, dan kebutuhan operasional Panasia, perusahaan Singapura berbasis usaha holding yang baru berdiri 6 Januari 2025.",
+   "Panasia adalah pihak terafiliasi SMKM karena keduanya dikendalikan oleh pihak yang sama, yakni Lim Shrimp Org Pte. Ltd. (LSO), yang memegang 25 persen saham SMKM dan seluruh saham Panasia. Karena berstatus transaksi afiliasi, SMKM wajib menggunakan penilai independen, dan perusahaan menunjuk KJPP Ihot, Dollar & Raymond yang menyimpulkan transaksi ini wajar berdasarkan laporan bertanggal 26 Mei 2026. Nilai pinjaman Rp30 miliar itu setara 14,52 persen dari ekuitas SMKM per 31 Desember 2025 yang tercatat Rp206,67 miliar, sehingga masih di bawah ambang 20 persen yang membuat transaksi ini tidak dikategorikan sebagai transaksi material menurut aturan OJK.",
+   "Transaksi ini mengubah komposisi aset dan utang SMKM. Piutang usaha turun dari Rp74,95 miliar menjadi Rp36,95 miliar karena ada penagihan Rp38 miliar, sementara muncul pos piutang baru ke pihak berelasi senilai Rp30 miliar yang merupakan pinjaman ke Panasia. Untuk menambah kas, SMKM juga menerbitkan surat utang jangka pendek Rp15 miliar kepada pihak ketiga, sehingga kas dan bank naik dari Rp11,09 miliar menjadi Rp34,09 miliar dan total liabilitas melonjak dari Rp4,6 miliar menjadi Rp19,6 miliar. Ekuitas Perseroan tetap di angka Rp206,67 miliar karena transaksi ini tidak mengurangi modal, hanya menggeser pos aset dan liabilitas."
+  ],
+  "fotoAdegan": "Workers checking aerator pumps at a large shrimp aquaculture pond, tropical coastline, early morning light",
+  "takeaway": "Transaksi ini condong negatif bagi tata kelola Perseroan karena dana justru dialirkan ke perusahaan yang seluruh sahamnya dimiliki pengendali yang sama, Lim Shrimp Org Pte. Ltd., yang juga menggenggam 25 persen saham SMKM, dan untuk menutup sebagian dananya Perseroan malah menambah utang jangka pendek baru Rp15 miliar dari pihak ketiga. Yang tersentuh adalah komposisi aset dan utang Perseroan, piutang usaha yang relatif lebih pasti ditagih berkurang dari Rp74,9 miliar menjadi Rp36,9 miliar, sementara muncul piutang baru ke pihak berelasi senilai Rp30 miliar yang kepastian penagihannya lebih sulit dipastikan, dan total utang Perseroan melonjak dari Rp4,6 miliar menjadi Rp19,6 miliar yang berarti ada beban bunga baru ke depan. Ekuitas Perseroan sendiri tidak berubah, tetap Rp206,7 miliar, karena pinjaman ini tercatat sebagai pergeseran aset dan liabilitas, bukan pengurang modal. Yang perlu dipantau selanjutnya adalah pelunasan pinjaman yang jatuh tempo satu tahun setelah penarikan pertama dari fasilitas ini, serta apakah penjelasan yang dikirim Perseroan ke Bursa pada 23 Oktober 2026 sudah cukup menjawab permintaan Bursa bernomor S-13280/BEI.PP1/010-2026 atau akan ada permintaan klarifikasi lanjutan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pura-restrukturisasi-utang-ke-mandiri-bunga-ditangguhkan-3-bulan",
   "category": "Aksi Korporasi",
   "title": "PURA Restrukturisasi Utang ke Mandiri, Bunga [Ditangguhkan] 3 Bulan",

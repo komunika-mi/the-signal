@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pack-jelaskan-detail-akuisisi-nikel-dan-rights-issue-dalam-koreksi",
+  "category": "Aksi Korporasi",
+  "title": "PACK Jelaskan Detail [Akuisisi Nikel] dan Rights Issue dalam Koreksi",
+  "deck": "Koreksi keterbukaan informasi PACK memerinci lini usaha baru, akuisisi saham Bukit Makmur Istindo Nikeltama dan Denway Development, serta rencana rights issue, tapi nilai transaksinya belum diumumkan.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "Rights Issue",
+   "Akuisisi Nikel",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf2862a2c0_7990e93bc2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "presiden-prabowo-targetkan-kredit-rakyat-rp400-triliun-di-2027",
   "category": "Makroekonomi",
   "title": "Presiden Prabowo Targetkan Kredit Rakyat [Rp400 Triliun] di 2027",
@@ -69,6 +85,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823526.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "bjlb01-dana-amortisasi-pokok-rp100-m-siap-dibayar-31-okt",
+  "category": "Aksi Korporasi",
+  "title": "BJLB01: Dana Amortisasi Pokok [Rp100 M] Siap Dibayar 31 Okt",
+  "deck": "Danareksa Investment Management menyatakan dana Rp100 miliar untuk amortisasi pokok pertama EBA Syariah BJLB01 sudah tersedia, jatuh tempo 31 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BJLB01",
+   "EBA Syariah",
+   "Danareksa Investment Management",
+   "amortisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0bbad26127_4d53df620b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bwpt-dana-sukuk-rp40-miliar-tuntas-dibelanjakan-untuk-cpo",
+  "category": "Aksi Korporasi",
+  "title": "BWPT: Dana [Sukuk] Rp40 Miliar Tuntas Dibelanjakan untuk CPO",
+  "deck": "Eagle High Plantations melaporkan seluruh dana bersih sukuk Rp40,04 miliar sudah terpakai untuk beli CPO dari tiga pemasok sawit, tanpa sisa dana.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "sukuk",
+   "CPO",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6eb5ab08e9_4a9335e558.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bwpt-dana-obligasi-rp98-3-miliar-tuntas-lunasi-utang-bank",
+  "category": "Aksi Korporasi",
+  "title": "BWPT: Dana Obligasi Rp98,3 Miliar [Tuntas] Lunasi Utang Bank",
+  "deck": "Eagle High Plantations merealisasikan seluruh dana bersih Rp98,28 miliar dari Obligasi Berkelanjutan II Tahap I 2026 untuk melunasi utang ke dua kreditur dan membeli CPO, tanpa sisa dana.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "obligasi korporasi",
+   "refinancing utang",
+   "CPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5c220ed374_effc15ab08.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rgas-pendapatan-9-bulan-anjlok-52-arus-kas-operasi-negatif",
@@ -165,6 +229,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/961baca13c_6abf54f194.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akra-cetak-laba-rp2-44-triliun-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "AKRA Cetak Laba [Rp2,44 Triliun] di Kuartal III 2026",
+  "deck": "Pendapatan AKR Corporindo naik 43,6 persen menjadi Rp46,53 triliun dalam sembilan bulan pertama 2026, mendorong laba bersih tumbuh 32,4 persen menjadi Rp2,44 triliun.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKRA",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "AKR Corporindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023105545-64658-0/FinancialStatement-2026-III-AKRA.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6407,88 +6487,6 @@ var ARTICLES = [
    "kepemilikan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15102026-3929-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "admr-tegaskan-karhutla-belum-ganggu-produksi-tambang",
-  "category": "Aksi Korporasi",
-  "title": "ADMR Tegaskan Karhutla Belum Ganggu [Produksi] Tambang",
-  "deck": "Alamtri Minerals menjawab permintaan penjelasan Bursa soal dampak karhutla terhadap operasional tambangnya di Kalimantan, menyatakan belum ada gangguan produksi maupun sengketa hukum.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMR",
-   "karhutla",
-   "tambang batu bara",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/572315fd3d_59bd83a304.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "psgo-pastikan-karhutla-tak-ganggu-produksi-2026",
-  "category": "Aksi Korporasi",
-  "title": "PSGO Pastikan [Karhutla] Tak Ganggu Produksi 2026",
-  "deck": "PSGO menyatakan kebakaran hutan dan lahan di sekitar area operasi anak usahanya tidak berdampak material pada produksi, pendapatan, laba, maupun aset perusahaan tahun 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSGO",
-   "karhutla",
-   "keterbukaan informasi",
-   "Palma Serasih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e25a2a2bd_c1755980fa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-mekaar-cetak-return-dampak-sosial-181-persen",
-  "category": "UMKM",
-  "title": "PNM Mekaar Cetak Return Dampak Sosial [181] Persen",
-  "deck": "Setiap Rp1 modal usaha yang disalurkan PNM lewat program Mekaar periode 2022-2024 diklaim menghasilkan Rp1,81 manfaat ekonomi dan sosial bagi nasabah ultra mikro.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/pnm-mekaar-cetak-return-dampak-sosial-181-persen.jpg",
-  "imageV": "mv9oqtl8",
-  "tags": [
-   "pnm",
-   "mekaar",
-   "umkm",
-   "modal usaha"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473227-bukan-cuma-bisnis-yang-tumbuh-pnm-mekaar-berhasil-cetak-return-dampak-sosial-hingga-181-persen"
- },
- {
-  "slug": "taspen-raih-penghargaan-humas-indonesia-2026",
-  "category": "BUMN",
-  "title": "TASPEN Raih [Penghargaan] Humas Indonesia 2026",
-  "deck": "TASPEN meraih empat penghargaan di Anugerah Humas Indonesia 2026, mempertahankan prestasi tiga tahun berturut-turut lewat layanan digital dan keterbukaan informasi.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/taspen-raih-penghargaan-humas-indonesia-2026.jpg",
-  "imageV": "mv9oqu36",
-  "tags": [
-   "TASPEN",
-   "BUMN",
-   "Anugerah Humas Indonesia",
-   "Andal by Taspen"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473226-taspen-kembali-raih-penghargaan-di-anugerah-humas-indonesia-2026-pertahankan-prestasi-tiga-tahun-beruntun"
- },
- {
-  "slug": "giaa-gelar-rupslb-6-november-bahas-penambahan-modal-gmf-aeroasia",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Gelar RUPSLB 6 November, Bahas [Penambahan] Modal GMF AeroAsia",
-  "deck": "RUPSLB digelar 6 November 2026 secara elektronik, mengagendakan penambahan modal lewat suntikan saham GMF AeroAsia oleh Danantara, perubahan anggaran dasar, dan pergantian pengurus.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "RUPSLB",
-   "Danantara",
-   "GMF AeroAsia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fed2b2c75_fba1043bfd.pdf",
   "sourceLabel": "IDX"
  }
 ];

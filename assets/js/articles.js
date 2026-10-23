@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pack-jelaskan-detail-akuisisi-nikel-dan-rights-issue-dalam-koreksi",
+  "category": "Aksi Korporasi",
+  "title": "PACK Jelaskan Detail [Akuisisi Nikel] dan Rights Issue dalam Koreksi",
+  "deck": "Koreksi keterbukaan informasi PACK memerinci lini usaha baru, akuisisi saham Bukit Makmur Istindo Nikeltama dan Denway Development, serta rencana rights issue, tapi nilai transaksinya belum diumumkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T11:42:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf2862a2c0_7990e93bc2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "Rights Issue",
+   "Akuisisi Nikel",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) menerbitkan surat koreksi bernomor 007/DIR-ANHI/X/2026 atas keterbukaan informasi sebelumnya tertanggal 22 Oktober 2026. Isinya tetap memuat empat rencana aksi korporasi yang sama, yaitu perubahan kegiatan usaha, akuisisi saham PT Bukit Makmur Istindo Nikeltama, penambahan modal lewat hak memesan efek terlebih dahulu kedua (PMHMETD II), serta pembelian saham Denway Development Limited yang berstatus transaksi afiliasi. Perseroan akan meminta persetujuan pemegang saham untuk seluruh rencana ini dalam RUPSLB yang dijadwalkan pada 30 November 2026.",
+   "Perubahan kegiatan usaha yang diajukan berupa penambahan dua lini usaha penunjang, yaitu Perdagangan Besar Bijih dan Konsentrat Logam (KBLI 46721) dan Aktivitas Konsultasi Manajemen dan Bisnis Lainnya (KBLI 70209). Manajemen menyebut penambahan ini untuk mendukung sinergi dengan entitas anak di sektor nikel, PT Sumber Cahaya Raya dan PT Adhi Prakarsa Raya yang masing-masing 99 persen dimiliki PACK. Kantor Jasa Penilai Publik Kusnanto & Rekan ditunjuk sebagai penilai independen dan menyusun studi kelayakan bernomor 00196/2.0162-00/BS/02/0153/1/X/2026 tertanggal 22 Oktober 2026 menggunakan metode diskonto arus kas berdasarkan proyeksi keuangan manajemen.",
+   "Dokumen juga mencantumkan struktur permodalan PACK saat ini. Modal dasar tercatat Rp500 miliar terbagi 50 miliar saham, sementara modal ditempatkan dan disetor sebanyak 34.106.219.531 saham senilai Rp341,06 miliar per 30 September 2026, dengan PT Eco Energi Perkasa menguasai 38,50 persen, H Samsudin Andi Arsyad 20,04 persen, dan publik 41,46 persen. Dari obligasi wajib konversi (OWK) senilai 32.586.939.356 unit yang efektif sejak akhir 2025, sisa yang belum dikonversi per 20 Oktober 2026 tinggal 61.394.073 unit, sehingga total saham biasa yang sudah beredar naik menjadi 34.122.944.271 saham. Susunan direksi dan komisaris yang menyetujui rencana ini adalah Komisaris Utama Magdalena Veronika, Komisaris Independen Endang Sutisna, Direktur Utama Fu Peiwen, Direktur Wang Feng, dan Direktur Donnie Holman Partogi Manurung selaku penandatangan surat.",
+   "Dokumen yang diterima belum memuat nilai transaksi akuisisi saham PT Bukit Makmur Istindo Nikeltama maupun Denway Development Limited, begitu juga jumlah saham baru yang akan diterbitkan lewat PMHMETD II. Bagian itu disebut tercantum dalam ringkasan studi kelayakan dan laporan penilai yang belum sepenuhnya tersaji dalam kutipan dokumen ini."
+  ],
+  "fotoAdegan": "Loaded nickel ore trucks queuing at an open-pit mine stockyard in Indonesia, dusty access road, overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi PACK karena koreksi ini hanya merinci ulang rencana yang sudah diumumkan sehari sebelumnya, tanpa membawa angka baru soal nilai akuisisi BMIN dan Denway Development Limited atau besaran rights issue yang menentukan dampaknya ke pemegang saham. Pos yang tersentuh ke depan adalah jumlah saham beredar dan laba per saham, karena rights issue PMHMETD II berarti PACK akan menerbitkan saham baru, dan kalau jumlahnya besar, keuntungan perusahaan akan dibagi ke lebih banyak lembar saham sehingga porsi laba per saham bisa mengecil bagi pemegang saham lama yang tidak ikut menebus haknya. Ekuitas Perseroan juga akan berubah begitu modal ditempatkan baru resmi disetor. Yang perlu dipantau adalah RUPSLB pada 30 November 2026 yang akan memutuskan persetujuan seluruh rencana ini, serta penerbitan rincian nilai transaksi akuisisi dan jumlah saham rights issue yang sampai laporan ini belum diumumkan ke publik.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "presiden-prabowo-targetkan-kredit-rakyat-rp400-triliun-di-2027",
   "category": "Makroekonomi",
   "title": "Presiden Prabowo Targetkan Kredit Rakyat [Rp400 Triliun] di 2027",
@@ -111,6 +138,83 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan cuma angka total uang beredar yang naik tipis dari 8,2 ke 8,3 persen, tapi sumber pendorongnya bergeser. Penyaluran kredit ke masyarakat dan dunia usaha justru melambat dari 13,3 persen menjadi 12,7 persen, sementara kenaikan uang beredar lebih banyak ditopang oleh dana yang mengalir dari bank ke pemerintah pusat, yang melonjak dari sebelumnya mengerut 7,0 persen menjadi tumbuh 24,4 persen, ditambah aset valuta asing yang balik positif 1,0 persen setelah sempat mengerut 6,6 persen. Yang terdampak adalah pelaku usaha dan masyarakat yang mengandalkan pinjaman bank, karena melambatnya kredit berarti pasokan pembiayaan baru ke sektor riil tidak secepat sebelumnya meski dana di sistem keuangan terlihat melimpah. Pola ini mengarah ke pertumbuhan likuiditas yang lebih digerakkan oleh pembiayaan ke pemerintah ketimbang kredit ke swasta, tapi baru satu bulan data sehingga belum pasti jadi tren. Yang akan memastikannya adalah data uang beredar dan kredit edisi Oktober 2026 yang biasanya dirilis BI akhir bulan depan, untuk melihat apakah kredit terus melambat atau kembali menguat.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "bjlb01-dana-amortisasi-pokok-rp100-m-siap-dibayar-31-okt",
+  "category": "Aksi Korporasi",
+  "title": "BJLB01: Dana Amortisasi Pokok [Rp100 M] Siap Dibayar 31 Okt",
+  "deck": "Danareksa Investment Management menyatakan dana Rp100 miliar untuk amortisasi pokok pertama EBA Syariah BJLB01 sudah tersedia, jatuh tempo 31 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T10:52:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0bbad26127_4d53df620b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BJLB01",
+  "tags": [
+   "BJLB01",
+   "EBA Syariah",
+   "Danareksa Investment Management",
+   "amortisasi"
+  ],
+  "body": [
+   "PT Danareksa Investment Management, selaku manajer investasi Kontrak Investasi Kolektif Efek Beragun Aset (KIK EBA) Syariah BRI-MI Jakarta Lingkar Baratsatu dengan kode BJLB01, melaporkan ke Bursa Efek Indonesia bahwa dana untuk pembayaran amortisasi pokok pertama sudah tersedia di rekening bank. Jumlahnya Rp100 miliar, dan jadwal jatuh temponya 31 Oktober 2026. Laporan bertanggal 22 Oktober 2026 ini ditandatangani oleh Asti Raniasari, Kepala Divisi Alternative Investment Danareksa Investment Management.",
+   "Danareksa menyebutkan dana pelunasan tersebut akan disetorkan ke rekening PT Kustodian Sentral Efek Indonesia (KSEI) sesuai jadwal yang telah ditentukan. Laporan semacam ini wajib disampaikan manajer investasi paling lambat lima hari bursa sebelum tanggal jatuh tempo pembayaran amortisasi atau bunga, berdasarkan Surat Keputusan Direksi BEI Nomor Kep-00066/BEI/09-2022 poin IV.2.6."
+  ],
+  "fotoAdegan": "Bank officer reviewing transaction printouts at a counter in a modern Jakarta office, documents angled away from camera, soft morning light",
+  "takeaway": "Laporan ini netral bagi pemegang efek beragun aset BJLB01, karena isinya konfirmasi rutin bahwa dana pembayaran sudah siap, bukan kabar baru yang mengubah risiko investasi. Pos yang tersentuh di sini adalah arus kas, yaitu aliran uang dari pengelola dana ke investor; kesiapan dana pokok Rp100 miliar di rekening bank berarti risiko gagal bayar untuk jadwal kali ini kecil. Pelaku pasar instrumen pendapatan tetap seperti ini memang rutin mengecek laporan semacam ini sebelum tanggal pembayaran, karena telat menyetor dana ke lembaga penyimpanan efek bisa jadi tanda masalah likuiditas penerbit. Yang perlu dipantau selanjutnya adalah apakah penyetoran dana ke rekening PT Kustodian Sentral Efek Indonesia benar-benar terlaksana sesuai jadwal sebelum tanggal jatuh tempo 31 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bwpt-dana-sukuk-rp40-miliar-tuntas-dibelanjakan-untuk-cpo",
+  "category": "Aksi Korporasi",
+  "title": "BWPT: Dana [Sukuk] Rp40 Miliar Tuntas Dibelanjakan untuk CPO",
+  "deck": "Eagle High Plantations melaporkan seluruh dana bersih sukuk Rp40,04 miliar sudah terpakai untuk beli CPO dari tiga pemasok sawit, tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T10:44:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6eb5ab08e9_4a9335e558.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BWPT",
+  "tags": [
+   "BWPT",
+   "sukuk",
+   "CPO",
+   "pasar modal"
+  ],
+  "body": [
+   "Eagle High Plantations Tbk (BWPT) menyampaikan laporan realisasi penggunaan dana hasil Sukuk Mudharabah Berkelanjutan II Tahap I Tahun 2026 kepada Otoritas Jasa Keuangan. Sukuk ini resmi efektif pada 29 Juni 2026 dengan total dana yang terhimpun Rp42,1 miliar. Setelah dipotong biaya penawaran umum Rp2,06 miliar atau sekitar 4,9 persen dari total dana, hasil bersih yang bisa dipakai perusahaan adalah Rp40,04 miliar.",
+   "Seluruh dana bersih tersebut dipakai sesuai rencana dalam prospektus, yakni untuk modal kerja berupa pembelian CPO (minyak sawit mentah), tandan buah segar, pupuk, dan bahan bakar. Perinciannya, pembelian CPO disalurkan ke tiga pemasok: PT Sarana Prima Multi Niaga senilai Rp24,29 miliar (60,66 persen dari dana bersih), PT Saraswanti Sawit Makmur senilai Rp14,89 miliar (37,18 persen), dan PT Sawitmas Parenggean senilai Rp866,3 juta (2,16 persen). Perusahaan menyatakan seluruh dana itu sudah habis terpakai pada Juli 2026, sehingga per posisi laporan September 2026 ini sisa dana yang belum dibelanjakan nihil.",
+   "Dari sisi biaya, rincian penawaran umum ini mencakup biaya jasa penyelenggaraan Rp206,5 juta, biaya penjaminan Rp68,8 juta, biaya penjualan Rp68,8 juta, jasa konsultan hukum Rp277,8 juta, jasa notaris Rp230 juta, jasa tim ahli syariah Rp120 juta, jasa wali amanat Rp111 juta, jasa pemeringkat efek Rp254,1 juta, dan biaya lain-lain seperti pencatatan di BEI, percetakan, iklan, public expose, serta audit penjatahan sebesar Rp723,7 juta. Totalnya Rp2,06 miliar atau 4,9 persen dari dana yang terhimpun. Laporan ini ditandatangani oleh Direktur BWPT, Choong Kam Loong."
+  ],
+  "fotoAdegan": "Palm oil delivery trucks queued at a rural crude palm oil processing mill in Sumatra, early morning light",
+  "takeaway": "Laporan ini netral bagi performa BWPT karena sekadar konfirmasi bahwa dana sukuk sudah dipakai sesuai rencana di prospektus, tanpa penyimpangan atau sisa dana yang mengendap. Yang tersentuh adalah sisi utang dan arus kas perusahaan: penerbitan sukuk menambah liabilitas sekitar Rp42 miliar di pembukuan, sementara dana bersihnya mengalir sebagai arus kas operasi untuk membeli CPO, bukan menambah ekuitas atau jumlah saham beredar. Pelaku pasar biasanya mencermati pos ini karena kewajiban pembayaran imbal hasil sukuk ke depan akan membebani laba, meski besarannya di sini relatif kecil dibanding skala bisnis emiten kelapa sawit. Yang perlu dipantau selanjutnya adalah jadwal pembayaran imbal hasil dan jatuh tempo Sukuk Tahap I ini, serta kemungkinan penerbitan tahap lanjutan dari skema penawaran umum berkelanjutan (shelf registration) yang sama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bwpt-dana-obligasi-rp98-3-miliar-tuntas-lunasi-utang-bank",
+  "category": "Aksi Korporasi",
+  "title": "BWPT: Dana Obligasi Rp98,3 Miliar [Tuntas] Lunasi Utang Bank",
+  "deck": "Eagle High Plantations merealisasikan seluruh dana bersih Rp98,28 miliar dari Obligasi Berkelanjutan II Tahap I 2026 untuk melunasi utang ke dua kreditur dan membeli CPO, tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T10:42:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5c220ed374_effc15ab08.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BWPT",
+  "tags": [
+   "BWPT",
+   "obligasi korporasi",
+   "refinancing utang",
+   "CPO"
+  ],
+  "body": [
+   "Eagle High Plantations Tbk (BWPT) melaporkan ke Otoritas Jasa Keuangan bahwa seluruh dana hasil Obligasi Berkelanjutan II Tahap I Tahun 2026, yang efektif sejak 29 Juni 2026, sudah terpakai penuh sejak Juli 2026. Total dana yang terkumpul dari penerbitan obligasi ini Rp100,845 miliar, dengan biaya penawaran umum Rp2,56 miliar atau 2,541 persen dari total, sehingga dana bersih yang bisa dipakai perusahaan Rp98,28 miliar. Tidak ada sisa dana yang mengendap dan tidak ada perbedaan antara rencana di prospektus dengan realisasi penggunaannya.",
+   "Dari dana bersih itu, porsi terbesar, Rp60 miliar atau 61,05 persen, dipakai untuk melunasi pinjaman kredit ke PT Bank J Trust Indonesia Tbk. Porsi kedua, Rp30 miliar atau 30,52 persen, untuk melunasi pinjaman ke PT Candra Sakti Utama Leasing. Sisanya, Rp8,28 miliar atau 8,43 persen, dipakai sebagai modal kerja untuk membeli CPO, dengan rincian Rp1,46 miliar ke PT Sawitmas Parenggean dan Rp6,83 miliar ke PT Sawit Lamandau Raya.",
+   "Biaya penawaran umum Rp2,56 miliar itu terdiri dari biaya jasa penyelenggaraan Rp494,6 juta, biaya penjaminan dan biaya penjualan masing-masing Rp164,9 juta, biaya konsultan hukum Rp277,8 juta, biaya notaris Rp230 juta, biaya wali amanat Rp111 juta, biaya pemeringkatan efek Rp345,4 juta, serta biaya lain-lain seperti pencatatan di BEI, percetakan, iklan, public expose, dan audit penjatahan sebesar Rp773,7 juta. Laporan ini ditandatangani Direktur BWPT Choong Kam Loong di Jakarta pada 23 Oktober 2026, sebagai pemenuhan Peraturan OJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum."
+  ],
+  "fotoAdegan": "Oil palm fruit bunches being loaded onto a truck at a rural collection point, workers nearby, overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi fundamental BWPT, karena isinya hanya memastikan dana obligasi yang terkumpul sejak Juni 2026 dipakai sesuai rencana, yaitu menggeser utang dari dua kreditur ke obligasi, bukan mengurangi beban utang perusahaan secara keseluruhan. Pos yang tersentuh adalah struktur utang dan beban bunga, yakni biaya yang dibayar perusahaan atas pinjamannya: utang ke PT Bank J Trust Indonesia Tbk dan PT Candra Sakti Utama Leasing memang lunas, tapi muncul utang obligasi baru senilai Rp100,845 miliar, sehingga total kewajiban BWPT tidak otomatis mengecil, hanya jenis kreditornya berubah. Yang perlu dipantau berikutnya adalah laporan keuangan BWPT pada kuartal mendatang, untuk melihat apakah pergantian kreditur ini benar menekan beban bunga dibanding sebelumnya, karena laporan ini sendiri menyatakan proses realisasi sudah tuntas sejak Juli 2026 tanpa ada tenggat lanjutan yang disebut.",
+  "sentimen": "netral"
  },
  {
   "slug": "rgas-pendapatan-9-bulan-anjlok-52-arus-kas-operasi-negatif",
@@ -271,6 +375,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers in protective gear monitoring large rolls of paper moving along a conveyor inside an industrial pulp and paper mill",
   "takeaway": "Laporan ini condong netral karena penerbitan tahap II ini memang sudah direncanakan sejak program berkelanjutan dinyatakan efektif pada 30 Juni 2026, bukan langkah dadakan yang mengubah arah bisnis perusahaan. Yang tersentuh adalah beban bunga dan arus kas, sebab PIDL wajib membayar bunga tetap 10 sampai 10,5 persen per tahun setiap tiga bulan atas dana yang terserap, sehingga sebagian arus kas ke depan akan terpakai untuk cicilan itu sampai jatuh tempo pada 2029 dan 2031. Peringkat idA+ dari Pefindo dan irAA- dari Kredit Rating Indonesia menunjukkan risiko gagal bayar dinilai relatif terkendali, meski obligasi dan sukuk ini tidak dijamin aset khusus milik perseroan. Yang perlu dipantau berikutnya adalah hasil penjatahan pada 26 Oktober 2026 dan pencatatan di BEI pada 29 Oktober 2026, terutama apakah porsi yang hanya dijamin best effort senilai Rp1,48 triliun untuk obligasi dan Rp84,78 miliar untuk sukuk benar-benar terserap penuh oleh investor.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "akra-cetak-laba-rp2-44-triliun-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "AKRA Cetak Laba [Rp2,44 Triliun] di Kuartal III 2026",
+  "deck": "Pendapatan AKR Corporindo naik 43,6 persen menjadi Rp46,53 triliun dalam sembilan bulan pertama 2026, mendorong laba bersih tumbuh 32,4 persen menjadi Rp2,44 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T03:34:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023105545-64658-0/FinancialStatement-2026-III-AKRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKRA",
+  "tags": [
+   "AKRA",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "AKR Corporindo"
+  ],
+  "body": [
+   "PT AKR Corporindo Tbk (AKRA) menyampaikan laporan keuangan interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perseroan tercatat Rp46,53 triliun, naik 43,6 persen dibandingkan Rp32,40 triliun pada periode yang sama tahun 2025. Dari situ, perseroan mencetak laba bersih Rp2,44 triliun, naik dari Rp1,85 triliun. Sebanyak Rp2,21 triliun dari laba itu menjadi hak pemegang saham entitas induk, naik dari Rp1,65 triliun, sementara sisanya menjadi bagian pemegang saham minoritas di anak usaha. Laba per saham dasar naik dari Rp83,50 menjadi Rp111,83.",
+   "Dari sisi posisi keuangan per 30 September 2026, total aset AKRA tercatat Rp38,63 triliun, naik dari Rp36,56 triliun pada akhir 2025. Total liabilitas naik menjadi Rp22,38 triliun dari Rp20,95 triliun, sementara total ekuitas naik menjadi Rp16,25 triliun dari Rp15,61 triliun. Namun kas dan setara kas perseroan justru berkurang menjadi Rp5,97 triliun dari Rp6,40 triliun, sementara utang bank jangka pendek melonjak menjadi Rp472,35 miliar dari Rp237,37 miliar. Piutang usaha pihak ketiga juga naik dari Rp9,54 triliun menjadi Rp10,78 triliun seiring kenaikan penjualan.",
+   "Selama sembilan bulan ini, AKR Corporindo membagikan dividen Rp2,01 triliun kepada pemegang saham entitas induk. Perseroan juga menuntaskan penjualan kembali seluruh 273.705.000 lembar saham treasuri yang sebelumnya disimpan, senilai Rp328,78 miliar, sehingga saldo saham treasuri turun menjadi nol per akhir September 2026. Laporan ini ditandatangani oleh Presiden Direktur Haryanto Adikoesoemo bersama satu direktur lainnya pada 21 Oktober 2026, dan masih berstatus belum diaudit oleh akuntan publik independen."
+  ],
+  "fotoAdegan": "Oil storage tanks and loading pipelines at a coastal fuel distribution terminal in Indonesia, workers in safety vests, hazy morning light",
+  "takeaway": "Laporan ini condong positif karena pendapatan dan laba AKR Corporindo tumbuh dua digit dalam sembilan bulan pertama 2026, dan kenaikan itu ikut terasa di laba per saham yang naik dari Rp83,50 menjadi Rp111,83. Laba per saham adalah bagian keuntungan yang jadi hak tiap lembar saham, jadi kenaikan ini berarti pemegang saham memperoleh nilai lebih besar dari setiap lembar yang mereka pegang. Yang perlu dicermati, kas perusahaan justru berkurang dari Rp6,40 triliun menjadi Rp5,97 triliun sementara utang bank jangka pendek naik dua kali lipat menjadi Rp472,35 miliar, sejalan dengan pembagian dividen Rp2,01 triliun dan kebutuhan modal kerja untuk menopang penjualan yang melonjak. Ekuitas pemegang saham tetap naik menjadi Rp16,25 triliun, antara lain karena seluruh saham treasuri yang sebelumnya disimpan perusahaan sudah dijual kembali ke pasar pada periode ini. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, karena angka pada laporan interim ini belum diperiksa akuntan publik independen.",
+  "sentimen": "positif"
  },
  {
   "slug": "wamen-investasi-raih-honorary-fellow-dari-asean-di-cafeo-44",

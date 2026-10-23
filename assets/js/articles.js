@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "enrg-catatkan-obligasi-rp500-miliar-tahap-v-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Catatkan [Obligasi] Rp500 Miliar Tahap V di BEI",
+  "deck": "ENRG mencatatkan obligasi tahap V senilai Rp500 miliar di BEI mulai 23 Oktober 2026, bagian dari program obligasi berkelanjutan bertarget Rp4 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T19:47:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/97fab501a0_9d3ebbb139.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "obligasi korporasi",
+   "BEI",
+   "migas"
+  ],
+  "body": [
+   "Energi Mega Persada Tbk (ENRG) mencatatkan dua seri obligasi baru di Bursa Efek Indonesia mulai 23 Oktober 2026, yakni Obligasi Berkelanjutan I Tahap V Tahun 2026. Seri A senilai Rp387,34 miliar menawarkan bunga tetap 9 persen per tahun dan jatuh tempo pada 2 November 2027, sedangkan Seri B senilai Rp112,66 miliar menawarkan bunga 10 persen per tahun dengan tenor tiga tahun hingga jatuh tempo 22 Oktober 2029. Total nilai tahap V ini Rp500 miliar, wali amanatnya PT Bank Rakyat Indonesia (Persero) Tbk, dan Pefindo memberi peringkat idA+ (single A plus) untuk obligasi ini.",
+   "Penerbitan ini merupakan bagian kelima dari program Obligasi Berkelanjutan I Energi Mega Persada yang menargetkan total dana Rp4 triliun. Sebelumnya perusahaan sudah menerbitkan Tahap I senilai Rp500 miliar pada 2025, Tahap II senilai Rp1,1502 triliun, Tahap III senilai Rp500 miliar, dan Tahap IV senilai Rp250 miliar pada 2026, sehingga total obligasi yang sudah diterbitkan dari program ini mencapai sekitar Rp2,9 triliun. Obligasi dijamin secara kesanggupan penuh (full commitment) oleh penjamin emisi Mandiri Sekuritas, Sucor Sekuritas, dan Trimegah Sekuritas Indonesia, tetapi tidak disertai jaminan khusus berupa aset tertentu. Pemegang obligasi hanya mengandalkan seluruh kekayaan perseroan yang belum dijaminkan, setara dengan kreditur lain secara pari passu.",
+   "Bunga obligasi dibayarkan setiap tiga bulan, dengan pembayaran pertama dijadwalkan 22 Januari 2027. Perseroan juga berhak membeli kembali sebagian atau seluruh obligasi sebelum jatuh tempo, tetapi itu baru bisa dilakukan paling cepat satu tahun setelah tanggal penjatahan pada 20 Oktober 2026. Dokumen ini juga menyebutkan risiko utama perseroan adalah ketergantungan pada kinerja operasional dan keuangan anak usaha, karena seluruh pendapatan ENRG berasal dari perusahaan anak yang mengelola 13 aset minyak dan gas di darat dan lepas pantai di Indonesia serta Mozambik."
+  ],
+  "fotoAdegan": "Onshore oil pumping jacks operating in a dry grassy field in Indonesia, workers in orange safety vests inspecting pipelines, golden afternoon light",
+  "takeaway": "Laporan ini netral bagi ENRG karena penerbitan Rp500 miliar ini sudah direncanakan sejak proses pendaftaran ke OJK akhir 2025 dan hanya menyumbang sebagian kecil dari target Rp4 triliun program obligasi berkelanjutan ini. Yang tersentuh adalah pos utang dan beban bunga, tambahan pinjaman Rp500 miliar dengan bunga 9 sampai 10 persen per tahun menambah kewajiban bayar bunga setiap tiga bulan, sementara ENRG sendiri tidak punya pendapatan operasional langsung karena seluruh pemasukannya berasal dari anak usaha migas, sehingga kemampuan membayar bunga ini bergantung pada kinerja anak usaha tersebut. Obligasi ini juga tidak punya jaminan aset khusus, jadi kalau terjadi masalah keuangan, pemegang obligasi hanya mengandalkan kekayaan umum perseroan bersama kreditur lain secara setara. Yang perlu dipantau berikutnya adalah pembayaran bunga pertama pada 22 Januari 2027 dan jatuh tempo Seri A pada 2 November 2027, serta kemungkinan tahap VI menyusul untuk menggenapi sisa target dari program Rp4 triliun ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "soho-jual-seluruh-saham-di-pfizer-indonesia-ke-pfizer-hong-kong",
+  "category": "Aksi Korporasi",
+  "title": "SOHO Jual Seluruh Saham di [Pfizer Indonesia] ke Pfizer Hong Kong",
+  "deck": "PT Soho Industri Pharmasi, anak usaha SOHO, melepas seluruh 245.045 saham di PT Pfizer Indonesia kepada Pfizer Corporation Hong Kong Limited.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T19:14:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ad9dc057dd_1c58bd9e5d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOHO",
+  "tags": [
+   "SOHO",
+   "Pfizer Indonesia",
+   "Soho Industri Pharmasi",
+   "divestasi"
+  ],
+  "body": [
+   "PT Soho Global Health Tbk (SOHO) melaporkan bahwa perusahaan terkendalinya, PT Soho Industri Pharmasi (PT SIP), melepas seluruh kepemilikan sahamnya di PT Pfizer Indonesia kepada Pfizer Corporation Hong Kong Limited. Saham yang dijual terdiri dari 95 saham Seri A dan 244.950 saham Seri B, sehingga total 245.045 lembar saham beralih tangan. Peristiwa ini tercatat terjadi pada 23 Oktober 2026.",
+   "Dalam keterbukaan informasi kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, manajemen menyebut nilai transaksi penjualan ini berada di bawah 20 persen dari total ekuitas konsolidasian perseroan, sehingga tidak tergolong transaksi material menurut POJK No 17/2020, maupun transaksi afiliasi atau transaksi yang mengandung benturan kepentingan menurut POJK No 42/2020. Perseroan menegaskan transaksi ini tidak berdampak material terhadap kegiatan operasional, posisi hukum, kondisi keuangan, maupun kelangsungan usaha SOHO ataupun PT SIP. Hasil penjualan akan dibukukan sebagai pendapatan non operasional PT SIP, bukan pendapatan dari bisnis farmasi inti perusahaan.",
+   "Laporan ini ditandatangani oleh Yuliana, Direktur dan Sekretaris Perusahaan SOHO, sebagai pemenuhan ketentuan POJK No 31/2015 tentang keterbukaan informasi atau fakta material, POJK No 45/2024, dan Peraturan Bursa Efek Indonesia Nomor I-E."
+  ],
+  "fotoAdegan": "Pharmaceutical factory workers in white coats inspecting medicine packaging on a production line, bright clean room lighting",
+  "takeaway": "Kami menilai laporan ini netral bagi SOHO, sebab perusahaan sendiri menyatakan transaksi ini tidak berdampak material pada operasional maupun keuangan, sementara nilai rupiah penjualannya tidak diungkap sehingga besar kecilnya keuntungan belum bisa diukur publik. Pos yang tersentuh adalah pendapatan non operasional, yaitu keuntungan dari luar bisnis utama farmasi, yang akan menambah laba bersih periode ini tapi sifatnya sekali terjadi dan tidak berulang setiap tahun. Pelepasan saham di Pfizer Indonesia ini juga berarti SOHO melepas aset penyertaan yang selama ini dimiliki PT SIP, sehingga sumber keuntungan dari entitas tersebut ke depan hilang. Yang perlu dicermati investor adalah laporan keuangan SOHO pada kuartal berjalan, untuk melihat berapa besar keuntungan tunai yang benar benar tercatat dari penjualan ini karena nominalnya belum disebutkan dalam dokumen keterbukaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "prda-siapkan-stock-split-rupslb-digelar-23-november",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Siapkan [Stock Split], RUPSLB Digelar 23 November",
+  "deck": "Prodia Widyahusada menjawab permintaan penjelasan BEI soal volatilitas transaksi, mengungkap rencana stock split lewat RUPSLB 23 November dan buyback saham senilai Rp150 miliar yang masih berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T18:56:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/540308097c_facf20f1b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "stock split",
+   "buyback saham",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk. (PRDA) memberikan tanggapan resmi atas permintaan penjelasan dari Bursa Efek Indonesia melalui surat nomor S-13377/BEI.PP2/10-2026 terkait volatilitas transaksi saham perseroan. Dalam suratnya, Corporate Secretary Prodia, Marina Eka Amalia, menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi harga saham atau keputusan investasi pemodal, dan juga tidak mengetahui aktivitas khusus dari pemegang saham tertentu.",
+   "Perseroan mengonfirmasi bahwa program pembelian kembali saham (buyback) yang sudah diumumkan sejak 19 Agustus 2026 masih berjalan. Periode pelaksanaannya dimulai 20 Agustus 2026 dan akan berakhir pada 19 November 2026, dengan dana yang dialokasikan paling banyak Rp150 miliar. Perseroan menyebut langkah ini diambil karena kondisi pasar yang berfluktuasi.",
+   "Selain buyback, Prodia juga mengungkap rencana baru berupa opsi pemecahan saham (stock split) yang sebelumnya diumumkan lewat keterbukaan informasi tanggal 15 Oktober 2026. Perseroan telah memperoleh persetujuan prinsip dari BEI melalui surat nomor S-12795/BEI.PP2/10-2026 tertanggal 7 Oktober 2026. Untuk merealisasikan rencana ini, perseroan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 23 November 2026. Di luar dua aksi korporasi tersebut, perseroan menyatakan tidak ada rencana aksi korporasi lain dalam tiga bulan ke depan.",
+   "Perseroan juga menyampaikan bahwa pemegang saham pengendali dan pemegang saham utama tidak memiliki rencana tertentu terkait kepemilikan sahamnya saat ini. Prodia turut mengonfirmasi akan mempublikasikan laporan keuangan untuk periode sembilan bulan yang berakhir 30 September 2026 pada akhir Oktober 2026."
+  ],
+  "fotoAdegan": "Laboratory technicians in white coats processing blood sample tubes on an automated analyzer under bright clinical lighting",
+  "takeaway": "Laporan ini netral bagi fundamental Prodia, sebab baik buyback maupun rencana stock split belum mengubah struktur modal secara nyata, buyback sudah lebih dulu diberitakan dan stock split masih berupa opsi yang menunggu keputusan pemegang saham di RUPSLB. Pos yang tersentuh dari rencana stock split adalah jumlah saham beredar, karena stock split memecah satu saham menjadi beberapa saham dengan harga lebih murah per lembar tanpa mengubah total nilai kepemilikan investor, sehingga laba per saham otomatis mengecil karena dibagi jumlah saham yang lebih banyak, meski nilai kepemilikan pemegang saham tidak berubah. Buyback yang masih berjalan juga menyedot kas perseroan hingga maksimal Rp150 miliar, yang berarti mengurangi dana tunai yang tersedia untuk kebutuhan lain. Yang perlu dipantau selanjutnya adalah RUPSLB pada 23 November 2026 yang akan menentukan jadi tidaknya stock split ini, berakhirnya periode buyback pada 19 November 2026, serta publikasi laporan keuangan kuartal III pada akhir Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lsip-siapkan-buyback-saham-rp750-miliar-hingga-akhir-2026",
+  "category": "Aksi Korporasi",
+  "title": "LSIP Siapkan [Buyback] Saham Rp750 Miliar hingga Akhir 2026",
+  "deck": "PP London Sumatra akan membeli kembali saham maksimal Rp750 miliar dari kas internal pada 26 Oktober hingga 31 Desember 2026, memakai aturan OJK untuk kondisi pasar berfluktuasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T18:51:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0884db7e64_fba905f667.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LSIP",
+  "tags": [
+   "LSIP",
+   "buyback saham",
+   "pasar modal",
+   "perkebunan"
+  ],
+  "body": [
+   "PT PP London Sumatra Indonesia Tbk (LSIP) mengumumkan rencana pembelian kembali saham (buyback) dengan dana maksimal Rp750 miliar yang bersumber dari kas internal perusahaan. Rencana ini dijalankan berdasarkan Peraturan OJK No. 13 Tahun 2023 dan Surat OJK No. S-112/D.04/2026 tanggal 9 September 2026, yang memberi kelonggaran bagi emiten untuk melakukan buyback tanpa persetujuan RUPS saat pasar modal berfluktuasi signifikan. Pembelian akan berlangsung mulai 26 Oktober hingga 31 Desember 2026, melalui perdagangan di Bursa Efek Indonesia dengan satu anggota bursa yang akan ditunjuk perseroan, dan tidak ada batas volume transaksi harian. Jumlah saham yang dibeli tidak akan lebih dari 20 persen dari modal disetor perseroan, dengan tetap memperhatikan aturan free float yang berlaku. Rencana ini berakhir lebih dulu antara berakhirnya periode tersebut atau tercapainya dana maksimal Rp750 miliar.",
+   "Dalam dokumen keterbukaan, perseroan menyertakan simulasi dampak keuangan berdasarkan laporan per 30 Juni 2026. Total aset diperkirakan turun dari Rp16,29 triliun menjadi Rp15,54 triliun, dan total ekuitas turun dari Rp14,32 triliun menjadi Rp13,57 triliun, keduanya berkurang Rp750 miliar sesuai dana buyback. Laba bersih yang dapat diatribusikan kepada pemilik entitas induk tetap di angka Rp890,99 miliar, namun laba bersih per saham diperkirakan naik dari Rp131 menjadi Rp141 per lembar karena jumlah saham yang beredar di pasar berkurang akibat pembelian kembali.",
+   "Perseroan menegaskan harga pembelian akan ditetapkan pada level yang dianggap wajar sesuai aturan yang berlaku, tanpa batas harga tetap yang diumumkan. Selama periode buyback, komisaris, direktur, pegawai, pemegang saham utama, dan pihak yang memiliki akses informasi orang dalam dilarang bertransaksi atas saham LSIP, termasuk pada hari yang sama dengan penjualan kembali saham treasuri hasil buyback. Manajemen menyatakan langkah ini tidak akan menurunkan pendapatan perseroan maupun berdampak negatif material terhadap kondisi keuangan, karena perseroan dinilai memiliki permodalan dan arus kas yang memadai."
+  ],
+  "fotoAdegan": "Rows of oil palm trees stretching across a plantation in Sumatra, workers loading harvested fruit bunches onto a truck, early morning light",
+  "takeaway": "Laporan ini cenderung positif bagi pemegang saham karena rencana buyback diproyeksikan menaikkan laba per saham dari Rp131 menjadi Rp141, sekaligus menunjukkan keyakinan manajemen bahwa kondisi keuangan perseroan cukup kuat untuk menggunakan kas sendiri membeli saham di pasar. Pos yang tersentuh adalah ekuitas, yaitu dana milik pemegang saham dalam perusahaan, yang akan berkurang Rp750 miliar karena uang kas dipindahkan jadi saham yang dibeli kembali, dan laba per saham, yaitu laba bersih dibagi jumlah saham beredar, yang naik karena jumlah saham yang beredar di pasar mengecil sementara labanya tidak berubah. Pelaku pasar memperhatikan laba per saham karena angka ini sering jadi acuan menilai seberapa produktif setiap lembar saham menghasilkan keuntungan. Yang perlu dipantau berikutnya adalah realisasi pembelian selama periode 26 Oktober hingga 31 Desember 2026, apakah perseroan benar-benar menyerap dana sampai Rp750 miliar atau berhenti lebih awal, serta laporan realisasi akhir yang biasanya disampaikan ke OJK dan BEI setelah periode ini berakhir.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "vtny-laba-bersih-anjlok-82-pada-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "VTNY: Laba Bersih [Anjlok] 82% pada Kuartal III 2026",
+  "deck": "Laba bersih Venteny Fortuna turun 82 persen jadi Rp1,53 miliar dalam sembilan bulan 2026, sementara kas perusahaan menyusut lebih dari 90 persen setelah pelunasan obligasi besar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T18:45:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023184832-64561-0/FinancialStatement-2026-III-VTNY.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "laporan keuangan",
+   "fintech pembiayaan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) melaporkan laba bersih periode sembilan bulan yang berakhir 30 September 2026 sebesar Rp1,53 miliar, turun 82 persen dari Rp8,53 miliar pada periode yang sama tahun 2025. Penurunan ini terjadi meski pendapatan bersih perusahaan naik 14 persen menjadi Rp155,71 miliar, karena beban bunga dan keuangan naik 17 persen menjadi Rp104,14 miliar serta beban lain-lain melonjak hampir lima kali lipat menjadi Rp23 miliar. Laba bersih per saham dasar ikut turun tajam, dari Rp1,60 menjadi Rp0,24 per lembar saham.",
+   "Total aset perusahaan turun 22 persen dari Rp1.767,96 miliar menjadi Rp1.374,60 miliar, dan total liabilitas turun 29 persen dari Rp1.358,86 miliar menjadi Rp964,10 miliar. Dalam surat penjelasan resmi kepada OJK dan Bursa Efek Indonesia tertanggal 21 Oktober 2026, manajemen menyebut penurunan liabilitas disebabkan oleh pelunasan utang obligasi jangka pendek dari Rp319,63 miliar menjadi Rp146,84 miliar dan utang obligasi jangka panjang dari Rp341,49 miliar menjadi Rp190,59 miliar. Penurunan aset dijelaskan berasal dari piutang usaha yang telah dibayar pelanggan sebesar Rp266,32 miliar.",
+   "Dari sisi arus kas, kas dan setara kas perusahaan menyusut dari Rp217,83 miliar pada akhir 2025 menjadi Rp19,88 miliar pada akhir September 2026. Aktivitas pendanaan menjadi penyebab utama, dengan perusahaan membayar utang obligasi sebesar Rp471,43 miliar sementara hanya menerima pinjaman obligasi baru Rp147,73 miliar, membuat arus kas pendanaan berbalik dari positif Rp174,42 miliar tahun lalu menjadi negatif Rp329,66 miliar. Arus kas dari aktivitas operasi masih negatif Rp139,22 miliar, meski defisitnya mengecil dibandingkan negatif Rp198,45 miliar pada periode yang sama tahun sebelumnya."
+  ],
+  "fotoAdegan": "Factory workers chatting and checking phones during a shift break, warm afternoon light, industrial machinery blurred behind them",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham Venteny Fortuna karena laba bersih turun 82 persen sementara kas perusahaan menyusut lebih dari 90 persen dalam sembilan bulan. Yang tersentuh adalah laba per saham, yakni bagian laba yang secara teori jadi milik setiap pemegang satu lembar saham, yang turun dari Rp1,60 menjadi Rp0,24, dan arus kas pendanaan, yaitu aliran uang dari aktivitas utang dan modal, yang berbalik dari positif menjadi negatif Rp329,66 miliar karena perusahaan membayar obligasi lebih besar daripada yang ditariknya. Sisi baiknya, pelunasan obligasi ini mengurangi beban utang jangka panjang sehingga risiko keuangan ke depan berkurang, meski menguras kas tunai perusahaan dalam jangka pendek. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, yang akan menunjukkan apakah tren penurunan laba dan penyusutan kas ini berlanjut atau justru berbalik arah menjelang akhir tahun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "viva-jelaskan-ke-bei-pmthmetd-dilusi-saham-72-35",
+  "category": "Aksi Korporasi",
+  "title": "VIVA Jelaskan ke BEI, PMTHMETD Dilusi Saham [72,35%]",
+  "deck": "VIVA menjawab penjelasan BEI soal PMTHMETD Rp1,72 triliun ke pihak terafiliasi HAJ dan JSM, dengan dilusi 72,35 persen dan free float turun ke 15,04 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T18:39:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e1c5631e50_4105b21005.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VIVA",
+  "tags": [
+   "VIVA",
+   "PMTHMETD",
+   "PKPU",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Visi Media Asia Tbk (VIVA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) atas surat permintaan penjelasan dan kelengkapan dokumen Nomor S-13212/BEI.PPl/10-2026 yang diterima perseroan pada 19 Oktober 2026. Surat tanggapan bernomor 0095/GLRCC/VMA/X/2026 itu ditandatangani Corporate Secretary VIVA, Neil R. Tobing, pada 23 Oktober 2026, dan menjelaskan rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), yaitu penerbitan saham baru tanpa menawarkan lebih dulu kepada pemegang saham lama, yang akan dipakai untuk melunasi utang dalam proses Penundaan Kewajiban Pembayaran Utang (PKPU). Utang itu awalnya disahkan lewat Putusan Homologasi, putusan pengadilan yang mengesahkan perjanjian perdamaian utang VIVA, pada November 2024. Hak tagih atas utang tersebut lantas berpindah tangan beberapa kali: pertama diambil alih PT Mandara Setra Perdana (MSP) dan PT Bina Aksara Muliatama (BAM), dua pihak yang tidak terafiliasi dengan VIVA, lewat hak ambil alih utang (Call Option) pada 7 Mei 2025 dan 5 Juni 2025. Pada 11 September 2026, MSP dan BAM kembali mengalihkan hak tagih itu kepada PT Harta Abadi Jaya (HAJ) dan PT Jayakarta Sugih Makmur (JSM), dua perusahaan yang justru terafiliasi dengan VIVA karena sama-sama dikendalikan oleh PT Bakrie Global Ventura (BGV).",
+   "Untuk melunasi sisa utang itu lewat skema tukar utang menjadi saham (debt to equity swap) sesuai Putusan Homologasi, VIVA akan menerbitkan sebanyak-banyaknya 43.087.334.600 saham baru Seri C dengan nilai nominal Rp40 per saham, bukan memakai saham Seri A atau Seri B yang sudah tersedia. Perseroan beralasan harga pasar sahamnya saat ini di bawah nilai nominal Seri A dan Seri B, sehingga sesuai POJK 31/2017 perlu dibentuk seri saham baru dengan nominal lebih rendah. Untuk itu, seluruh 1.034.760.000 saham Seri B dalam portepel dan sebagian 20.000.000.000 saham Seri A dalam portepel dikonversi menjadi 56.513.814.200 saham Seri C dalam portepel. Harga pelaksanaan ditetapkan sebesar nilai yang lebih tinggi antara Rp40 nominal Seri C dan rata-rata harga penutupan saham VIVA di pasar reguler selama 25 hari bursa sebelum permohonan pencatatan saham tambahan itu diajukan ke BEI.",
+   "VIVA mengakui tingkat dilusi dari aksi ini mencapai 72,35 persen, dengan total saham tercatat melonjak dari 16.464.270.400 menjadi 59.551.605.000 saham. Porsi saham yang beredar bebas di luar pengendali dan afiliasinya, atau free float, ikut turun tajam dari 49,36 persen (8.127.353.844 saham) menjadi 15,04 persen (8.955.367.344 saham) dari total saham tercatat. Soal status HAJ dan JSM yang baru berdiri masing-masing pada 2025 dan 2024, VIVA menyatakan telah menerima informasi dari kedua perusahaan itu bahwa keduanya telah beroperasi secara komersial. Perseroan juga menegaskan, bila pemegang saham menolak PMTHMETD ini dalam RUPS Luar Biasa yang akan diselenggarakan, VIVA akan mengupayakan persetujuan lewat RUPS berikutnya, karena kegagalan memenuhi Putusan Homologasi berpotensi membuka jalan bagi kreditur mengajukan pembatalan perjanjian perdamaian yang bisa berujung pada putusan pailit terhadap perseroan."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise office tower in Jakarta's business district at dusk, lights glowing in windows, traffic below",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik VIVA, karena dilusi sahamnya mencapai 72,35 persen dan saham baru justru mengalir ke dua perusahaan terafiliasi pengendali yang baru berdiri pada 2024 dan 2025, bukan ke kreditur independen. Transaksi ini memang menambah modal disetor dan ekuitas perusahaan karena utang PKPU dilunasi dengan saham, bukan uang tunai, tetapi konsekuensinya jumlah saham beredar melonjak lebih dari tiga kali lipat sehingga laba per saham bagi pemegang saham lama akan tergerus signifikan. Free float, yaitu porsi saham yang beredar bebas di luar pengendali dan pihak terafiliasinya, juga turun tajam dari 49,36 persen menjadi 15,04 persen, mendekati ambang minimum yang disyaratkan bursa. Yang perlu dipantau adalah hasil RUPS Luar Biasa VIVA nanti, sebab manajemen sendiri mengakui bahwa jika pemegang saham menolak PMTHMETD ini, perseroan berisiko gagal memenuhi Putusan Homologasi PKPU dan bisa berujung pada permohonan pembatalan perjanjian perdamaian yang membuka jalan ke kepailitan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "indf-siapkan-rp750-miliar-untuk-buyback-saham",
+  "category": "Aksi Korporasi",
+  "title": "INDF Siapkan Rp750 Miliar untuk [Buyback] Saham",
+  "deck": "Indofood menyiapkan dana internal hingga Rp750 miliar untuk membeli kembali sahamnya sendiri lewat bursa mulai 26 Oktober hingga 31 Desember 2026, memanfaatkan aturan OJK soal volatilitas pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T18:33:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5420d68012_2245af1070.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDF",
+  "tags": [
+   "INDF",
+   "buyback saham",
+   "Indofood",
+   "pasar modal"
+  ],
+  "body": [
+   "Indofood Sukses Makmur (INDF) menyampaikan rencana pembelian kembali saham (buyback) dengan merujuk pada Peraturan OJK No. 13 Tahun 2023 tentang kebijakan menjaga kinerja dan stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan, serta Surat OJK No. S-112/D.04/2026 tanggal 9 September 2026. Perseroan akan mengalokasikan dana kas internal maksimal Rp750 miliar untuk membeli kembali sahamnya sendiri di Bursa Efek Indonesia, mulai 26 Oktober hingga 31 Desember 2026. Jumlah saham yang dibeli kembali dibatasi hingga 20 persen dari modal disetor perseroan, dengan tetap memperhatikan aturan free float, yakni porsi saham yang beredar bebas di tangan publik.",
+   "Berdasarkan proforma laporan keuangan per 30 Juni 2026, jika seluruh dana Rp750 miliar terpakai, total ekuitas perseroan turun dari Rp124,71 triliun menjadi Rp123,96 triliun, dan total aset turun dari Rp231,25 triliun menjadi Rp230,50 triliun. Laba bersih yang dapat diatribusikan kepada pemilik entitas induk tetap di angka Rp4,72 triliun, namun karena jumlah saham yang beredar di publik berkurang, laba bersih per saham diperkirakan naik dari Rp538 menjadi Rp545 per lembar. Manajemen menyatakan pembelian kembali ini tidak akan menurunkan pendapatan perseroan maupun berdampak negatif material terhadap kondisi keuangan dan kelangsungan usahanya.",
+   "Mekanisme pembelian dilakukan lewat satu anggota bursa yang akan ditunjuk perseroan, tanpa batas volume transaksi harian, dengan harga yang dianggap wajar oleh manajemen sesuai aturan yang berlaku. Selama periode buyback berlangsung, komisaris, direktur, karyawan, pemegang saham utama, dan pihak yang memiliki akses informasi orang dalam dilarang bertransaksi atas saham perseroan, termasuk pada hari yang sama dengan penjualan kembali saham hasil buyback melalui bursa."
+  ],
+  "fotoAdegan": "Workers in hairnets monitoring an automated instant noodle production line inside a bright Indonesian factory",
+  "takeaway": "Rencana buyback ini condong positif bagi Indofood, meski skalanya kecil, sebab dana maksimal Rp750 miliar hanya setara sekitar 0,6 persen dari total ekuitas perusahaan per Juni 2026, sehingga dampaknya pada kesehatan keuangan nyaris tidak terasa. Yang tersentuh adalah ekuitas, yang berkurang karena kas dipakai membeli saham sendiri, dan laba per saham, yang naik tipis dari Rp538 menjadi Rp545 karena jumlah saham yang beredar di pasar berkurang sementara laba total tidak berubah, dan pelaku pasar memperhatikan laba per saham karena itu angka yang biasa dipakai membandingkan nilai satu lembar saham antarperiode. Yang perlu dipantau berikutnya adalah pelaksanaan nyata buyback ini sepanjang 26 Oktober sampai 31 Desember 2026, termasuk apakah seluruh jatah Rp750 miliar benar-benar terpakai, karena program akan berhenti lebih cepat begitu dana itu habis meski periode belum berakhir.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "icbp-siapkan-buyback-rp750-miliar-di-tengah-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "ICBP Siapkan Buyback [Rp750 Miliar] di Tengah Pasar Bergejolak",
+  "deck": "Indofood CBP Sukses Makmur menyiapkan pembelian kembali saham senilai maksimal Rp750 miliar dari kas internal, berlaku 26 Oktober hingga 31 Desember 2026 sesuai aturan OJK soal pasar bergejolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T18:32:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d6a58566b_f3263030cc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ICBP",
+  "tags": [
+   "ICBP",
+   "buyback saham",
+   "Indofood CBP",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Indofood CBP Sukses Makmur Tbk (ICBP) mengumumkan rencana pembelian kembali (buyback) sahamnya sendiri berdasarkan Peraturan OJK No. 13 Tahun 2023 dan Surat OJK No. S-112/D.04/2026 tanggal 9 September 2026, aturan yang memperbolehkan emiten melakukan buyback tanpa harus menunggu persetujuan rapat pemegang saham saat kondisi pasar modal sedang bergejolak. Perseroan menganggarkan dana maksimal Rp750 miliar dari kas internal, belum termasuk biaya transaksi dan biaya perantara perdagangan. Jumlah saham yang dibeli kembali dibatasi tidak lebih dari 20 persen dari modal disetor perusahaan, dengan tetap memperhatikan aturan batas minimum saham yang beredar bebas di publik (free float). Pembelian akan berjalan mulai 26 Oktober 2026 sampai 31 Desember 2026, atau berhenti lebih cepat begitu dana Rp750 miliar itu habis terpakai.",
+   "Berdasarkan laporan keuangan per 30 Juni 2026, perusahaan menghitung dampak proforma dari buyback ini. Total aset turun dari Rp143.985.924 juta menjadi Rp143.235.924 juta, dan total ekuitas turun dari Rp75.272.636 juta menjadi Rp74.522.636 juta, keduanya berkurang sebesar Rp750 miliar sesuai dana yang dipakai untuk membeli saham. Laba bersih yang bisa diatribusikan ke pemilik perusahaan tetap di angka Rp3.702.564 juta, namun karena jumlah saham yang dihitung berkurang setelah sebagian dibeli kembali, laba bersih per saham naik dari Rp317 menjadi Rp321.",
+   "Pembelian akan dilakukan lewat perdagangan di Bursa Efek Indonesia melalui satu anggota bursa yang akan ditunjuk perusahaan, tanpa batasan volume transaksi harian, dengan harga yang dianggap wajar oleh perusahaan sesuai aturan yang berlaku. Selama periode buyback berjalan, komisaris, direktur, pegawai, pemegang saham utama, dan pihak yang punya akses informasi orang dalam dilarang bertransaksi atas saham ICBP, termasuk pada hari yang sama dengan penjualan kembali saham hasil buyback. Manajemen menyatakan aksi ini tidak akan menurunkan pendapatan perusahaan maupun berdampak negatif material terhadap kondisi keuangan, karena permodalan dan arus kas perusahaan dinilai masih memadai untuk mendukung kegiatan usaha."
+  ],
+  "fotoAdegan": "Workers packaging instant noodles on a fast-moving conveyor belt inside a bright snack factory in Indonesia",
+  "takeaway": "Rencana buyback ini condong positif bagi pemegang saham karena laba per saham diperkirakan naik, meski skalanya kecil dibanding ukuran perusahaan. Dana yang dipakai maksimal Rp750 miliar hanya sekitar satu persen dari total ekuitas perusahaan yang sebesar Rp75,3 triliun, sehingga aksi ini tidak menggerus kekuatan modal secara berarti, sementara laba bersih per saham naik dari Rp317 menjadi Rp321 karena jumlah saham yang dihitung jadi lebih sedikit setelah sebagian dibeli dan disimpan sebagai saham treasuri (saham milik perusahaan sendiri yang tidak lagi dihitung sebagai saham beredar di publik). Kas perusahaan akan berkurang sejumlah dana yang dipakai, tapi manajemen menyebut arus kas dan permodalan masih cukup untuk menjalankan bisnis sehari hari. Buyback ini memakai aturan khusus OJK yang hanya aktif saat pasar modal dinilai bergejolak, sehingga kemunculannya juga menandakan regulator melihat kondisi pasar belakangan ini cukup bergejolak untuk mengaktifkan kebijakan tersebut. Yang perlu dipantau adalah apakah anggaran Rp750 miliar itu benar benar terpakai habis sebelum periode pembelian berakhir pada 31 Desember 2026.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "ekonomi-digital-ri-tembus-us-100-miliar-terbesar-di-asia-tenggara",
   "category": "Teknologi",
   "title": "Ekonomi Digital RI Tembus [US$100] Miliar, Terbesar di Asia Tenggara",
@@ -59,6 +268,59 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah dari forum ini bukan aturan baru, melainkan penegasan bahwa pemerintah mengubah cara menjaga harga pangan, dari sekadar menggelar operasi pasar saat harga naik, menjadi memperbaiki jalur produksi dan distribusi pangan antar daerah lewat kerja sama antar provinsi, kios pangan bergerak, dan kredit bank untuk petani serta nelayan. Yang paling terdampak adalah petani dan nelayan di kawasan kepulauan Sulawesi, Maluku, dan Papua yang selama ini sulit dijangkau pasokan dari daerah lain, serta warga di sana yang bergantung pada pangan kiriman. Pemerintah juga mengklaim sudah menurunkan harga pupuk bersubsidi 20 persen dan menambah jatahnya 700 ribu ton, tapi ini masih klaim Kementerian Pertanian yang belum dicek lembaga independen. Arah besarnya adalah memperkuat pasokan pangan daerah timur Indonesia sebelum musim kering yang disebut berisiko El Nino, dan yang akan membuktikan apakah langkah ini berhasil adalah apakah inflasi bahan pangan bergejolak di kawasan itu tetap di kisaran 3 sampai 5 persen pada data inflasi bulan-bulan mendatang.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "doid-ekuitas-buma-anjlok-94-89-persen-ke-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "DOID: Ekuitas BUMA [Anjlok] 94,89 Persen ke Semester I 2026",
+  "deck": "BUMA Internasional Grup menjawab permintaan penjelasan BEI soal ekuitas yang susut tajam, rasio utang anak usaha BOLD yang melampaui batas, dan piutang ke BOLD senilai USD95,5 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T18:08:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f64dc16ddc_01ca04bac2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOID",
+  "tags": [
+   "DOID",
+   "ekuitas",
+   "covenant utang",
+   "BUMA"
+  ],
+  "body": [
+   "PT BUMA Internasional Grup Tbk (DOID) menanggapi surat permintaan penjelasan Bursa Efek Indonesia nomor S-13210/BEI.PP1/10-2026 yang diterima 19 Oktober 2026. Dalam suratnya, perusahaan mengonfirmasi ekuitas per 30 Juni 2026 tinggal USD2,50 juta, turun 94,89 persen dari USD48,87 juta per 31 Desember 2025, dengan defisit saldo laba USD110,63 juta. Perusahaan membukukan rugi bersih semester I 2026 sebesar USD49,83 juta, rata-rata USD8,30 juta per bulan, akibat pendapatan yang turun 5 persen menjadi USD692,85 juta karena penurunan aktivitas di sejumlah proyek Indonesia dan penyelesaian kontrak di Indonesia maupun Australia. Kenaikan harga bahan bakar dan biaya perawatan alat yang dipercepat ke kuartal pertama membuat laba bruto hanya USD12 juta, sementara beban keuangan mencapai USD43 juta dan bagian rugi dari entitas asosiasi USD7 juta.",
+   "Untuk memperbaiki ekuitas, perusahaan menyebut langkah menambah volume kontrak dengan harga stabil, efisiensi operasional dan biaya umum, serta mengarahkan belanja modal ke proyek yang menambah produktivitas. Perusahaan juga mengungkap bahwa pada 9 September 2026, Asiamet Resources Limited selaku entitas asosiasi menyelesaikan penjualan Indokal Limited, pemegang Proyek Tembaga Kalimantan Surya Kencana di Kalimantan Tengah, kepada Norin Mining (Hong Kong) Limited senilai USD105 juta. Dari transaksi itu, perusahaan mencatat bagian laba entitas asosiasi USD47 juta untuk periode hingga 30 September 2026 yang menambah ekuitas. Manajemen menyatakan telah menilai kelangsungan usaha untuk 12 bulan ke depan dan meyakini grup mampu melanjutkan usahanya.",
+   "Soal anak usaha tambang BOLD (PT Bukit Makmur Mandiri Utama), perusahaan menjelaskan dua rasio keuangan per 30 Juni 2026: rasio pembanding laba terhadap beban tetap (Fixed Charge Coverage Ratio) 2,09 kali, sementara batas yang disepakati kreditor 22,5 kali untuk fasilitas Aruna dan 21,1 kali untuk Aruna II, III, serta Sukuk Ijarah. Rasio utang bersih terhadap laba operasional (Net Debt to EBITDA) tercatat 4,79 kali, melebihi batas yang disyaratkan di bawah 4,0 kali. Namun perusahaan menyatakan kedua rasio itu hanya diuji setiap akhir tahun buku berdasarkan laporan keuangan auditan, sehingga tidak ada kewajiban pemenuhan maupun dokumen pengesampingan untuk periode 30 Juni 2026, dan pengujian berikutnya baru berlaku atas laporan keuangan auditan 31 Desember 2026. Perusahaan juga mengakui sebagian besar perjanjian pendanaannya memuat klausul gagal bayar silang, meski pemicu dan masa tenggangnya berbeda tiap perjanjian dan tidak otomatis mempercepat pembayaran.",
+   "Mengenai piutang BOLD kepada perusahaan, saldonya USD92,5 juta per 31 Desember 2025, bertambah USD3 juta pada penarikan 2 April 2026 sehingga menjadi USD95,5 juta per 30 Juni 2026. Pinjaman ini tidak berbunga dan tanpa tanggal jatuh tempo sejak 1 Juli 2016, dan perusahaan berencana menyelesaikannya lewat pembayaran tunai termasuk dari dividen yang diterima dari BUMA. Terkait dampak kebakaran hutan dan lahan pada Asiamet Resources, perusahaan menyebut sudah tidak relevan bagi Proyek KSK karena sudah dijual, sedangkan Proyek Tembaga Emas Beutong di Aceh belum terdampak karena masih tahap pra-produksi."
+  ],
+  "fotoAdegan": "Rows of heavy mining dump trucks parked along a dusty haul road at a coal mine, overcast sky, distant hills.",
+  "takeaway": "Laporan ini condong negatif bagi DOID karena menegaskan ekuitas perusahaan nyaris habis, hanya USD2,5 juta dari USD48,87 juta enam bulan sebelumnya, dan rasio utang bersih anak usaha BOLD sudah berada di luar batas yang disepakati kreditor. Ekuitas adalah selisih antara aset dan utang perusahaan, semacam kekayaan bersih pemegang saham, sehingga penyusutan setajam ini berarti bantalan keuangan DOID menipis dan ruang geraknya untuk menanggung kerugian lanjutan menjadi sangat sempit. Beban bunga yang mencapai USD43 juta dalam enam bulan turut menggerus laba, menunjukkan beratnya biaya utang di tengah pendapatan yang justru turun. Yang perlu dipantau berikutnya adalah hasil uji rasio keuangan BOLD berdasarkan laporan keuangan auditan per 31 Desember 2026, karena di situlah kewajiban memenuhi ambang batas kreditor benar-benar berlaku, sementara posisi ekuitas per 30 September 2026 juga layak ditunggu mengingat bursa sendiri mempertanyakan potensi ekuitas negatif pada periode itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "buka-bukukan-rugi-rp881-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "BUKA bukukan [rugi] Rp881 miliar di sembilan bulan 2026",
+  "deck": "Pendapatan BUKA tumbuh 19 persen pada Januari-September 2026, tetapi perseroan berbalik rugi Rp881 miliar akibat rugi investasi Rp2,04 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T17:51:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023110320-64761-0/FinancialStatement-2026-III-BUKA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUKA",
+  "tags": [
+   "BUKA",
+   "Bukalapak",
+   "laporan keuangan",
+   "rugi investasi"
+  ],
+  "body": [
+   "PT Bukalapak.com Tbk (BUKA) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan neto perseroan naik menjadi Rp5,64 triliun, dari Rp4,73 triliun pada periode yang sama tahun lalu, atau tumbuh sekitar 19 persen. Namun perseroan justru membukukan rugi bersih Rp881,06 miliar, berbalik dari laba bersih Rp2,91 triliun pada sembilan bulan 2025. Penyebab utamanya adalah rugi atas nilai investasi sebesar Rp2,04 triliun, berbanding keuntungan investasi Rp2,32 triliun pada periode sebelumnya, yang membuat perseroan mencatat rugi usaha Rp1,14 triliun dibanding laba usaha Rp2,33 triliun setahun sebelumnya.",
+   "Akibat rugi tersebut, rugi bersih per saham dasar dan dilusian tercatat negatif Rp9,21, berbalik dari laba per saham positif Rp30,77 (dasar) dan Rp30,23 (dilusian) pada September 2025. Total ekuitas perseroan turun menjadi Rp24,24 triliun pada akhir September 2026, dari Rp25,31 triliun pada akhir Desember 2025, sejalan dengan bertambahnya akumulasi rugi menjadi Rp8,0 triliun dari Rp7,11 triliun. Total aset juga menyusut menjadi Rp24,92 triliun dari Rp26,03 triliun, dengan kas dan setara kas turun tipis menjadi Rp15,56 triliun dari Rp16,21 triliun.",
+   "Di sisi lain, arus kas dari aktivitas operasi justru membaik menjadi Rp181,06 miliar dari Rp149,75 miliar pada periode yang sama tahun lalu. Perseroan juga masih melanjutkan program pembelian kembali saham (buyback), dengan realisasi Rp170,37 miliar selama sembilan bulan 2026, jauh lebih kecil dibanding Rp1,3 triliun yang digelontorkan pada periode yang sama tahun lalu. Saldo saham treasuri bertambah menjadi Rp1,70 triliun dari Rp1,53 triliun, sementara jumlah saham yang diterbitkan dan disetor penuh naik sedikit menjadi 103,17 miliar saham dari 103,15 miliar saham akibat program kompensasi berbasis saham."
+  ],
+  "fotoAdegan": "Workers sorting cardboard parcels on conveyor belts inside a busy e-commerce fulfillment warehouse in Jakarta, daytime",
+  "takeaway": "Laporan ini condong negatif bagi BUKA, karena laba bersih berbalik menjadi rugi Rp881 miliar meskipun pendapatan inti tumbuh dua digit, dan penyebabnya adalah rugi besar di pos investasi, bukan dari bisnis marketplace utamanya. Yang tersentuh di sini adalah ekuitas, yaitu total kekayaan bersih yang jadi hak pemegang saham, yang menyusut sekitar Rp1,07 triliun dalam sembilan bulan, serta laba per saham yang dipantau investor karena menunjukkan berapa rugi yang menjadi beban setiap lembar saham yang mereka pegang. Meski begitu, arus kas dari operasi harian justru membaik, artinya mesin bisnis utama Bukalapak masih menghasilkan uang tunai meski catatan akuntansi investasinya merah. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan teraudit untuk periode yang berakhir Desember 2026, yang akan menunjukkan apakah rugi nilai investasi ini berlanjut atau terkoreksi, serta kelanjutan program pembelian kembali saham yang masih berjalan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "uvcr-revisi-rencana-terbitkan-200-juta-saham-baru-picu-dilusi",
@@ -191,6 +453,32 @@ var ARTICLES = [
   "fotoAdegan": "Plantation workers loading palm oil fresh fruit bunches onto a truck in a tropical Sumatran estate, overcast morning light",
   "takeaway": "Laporan ini condong negatif bagi pemegang saham lama UNSP, sebab perbaikan ekuitas dicapai lewat dilusi besar-besaran, bukan perbaikan kinerja usaha yang sepadan. Jumlah saham Seri B yang melonjak hampir 14 kali lipat berarti porsi kepemilikan dan hak suara pemegang saham lama yang tidak ikut serta dalam penerbitan ini menyusut drastis, meski secara pembukuan ekuitas, yaitu selisih antara total aset dan total utang perusahaan, berubah dari negatif menjadi positif. Surplus revaluasi aset tetap Rp3,74 triliun juga sekadar catatan kenaikan nilai aset di atas kertas, bukan uang tunai yang bisa dipakai membayar utang, dan penurunan rugi per saham dari Rp25,39 menjadi Rp2,56 semata terjadi karena jumlah saham membesar, bukan karena laba membaik, sebab perusahaan tetap merugi Rp43,47 miliar pada sembilan bulan 2026. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang teraudit, karena angka pada laporan interim ini belum diperiksa auditor independen dan surplus revaluasi sebesar ini biasanya ditelaah ulang saat audit tahunan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "prda-buyback-capai-2-87-harga-beli-tembus-rp3-586",
+  "category": "Aksi Korporasi",
+  "title": "PRDA: Buyback Capai [2,87%], Harga Beli Tembus Rp3.586",
+  "deck": "Prodia Widyahusada melaporkan akumulasi buyback saham naik ke 2,87 persen per 23 Oktober 2026, dengan harga beli rata-rata tertinggi sepanjang program di Rp3.586.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T16:56:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93ee98442a_8955dc608a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) melalui Corporate Secretary Marina Eka Amalia melaporkan kepada OJK dan BEI hasil pelaksanaan pembelian kembali saham per 23 Oktober 2026. Laporan ini merujuk pada keterbukaan informasi 19 Agustus 2026 soal rencana buyback dalam kondisi pasar yang berfluktuasi signifikan, sesuai Pasal 12 ayat (1) POJK No. 13 Tahun 2023.",
+   "Pada transaksi terbaru 23 Oktober 2026, Prodia membeli 426.900 saham dengan harga rata-rata Rp3.586 per saham, harga tertinggi sepanjang program yang berjalan sejak 20 Agustus 2026. Dua hari sebelumnya perseroan juga aktif membeli, yakni 653.700 saham di harga Rp3.552 pada 22 Oktober dan 1.370.200 saham di harga Rp3.376 pada 21 Oktober. Harga beli ini jauh lebih tinggi dibandingkan awal program, saat perseroan membeli 595.900 saham pertama pada 20 Agustus dengan harga rata-rata hanya Rp2.548.",
+   "Secara kumulatif sejak 20 Agustus 2026, Prodia telah membeli sekitar 26,9 juta saham, atau 2,87 persen dari total saham yang tercatat di BEI, naik dari 2,49 persen yang pernah dilaporkan per 16 Oktober 2026. Sisa dana yang bisa digunakan untuk pembelian kembali tinggal Rp71,36 miliar per 23 Oktober, turun dari Rp72,89 miliar sehari sebelumnya dan dari Rp148,48 miliar setelah transaksi pertama program ini pada akhir Agustus."
+  ],
+  "fotoAdegan": "Lab technician in gloves arranging blood sample tubes on a rack inside a bright diagnostic laboratory",
+  "takeaway": "Laporan ini netral bagi fundamental Prodia: akumulasi buyback baru menyentuh 2,87 persen dari total saham yang tercatat di bursa, masih terlalu kecil untuk mengubah struktur kepemilikan atau hak suara pemegang saham, tapi harga beli yang terus naik hingga Rp3.586 per saham membuat dana buyback lebih cepat terpakai. Pos yang tersentuh adalah kas perusahaan dan jumlah saham beredar: dana sekitar Rp78,6 miliar dari anggaran buyback sudah terpakai untuk menarik saham dari pasar, yang nantinya mengurangi jumlah saham beredar dan bisa sedikit mengerek laba per saham ke depan, tapi juga berarti kas yang mengendap di perusahaan berkurang. Yang perlu dipantau berikutnya adalah RUPSLB pada 23 November 2026 yang akan membahas rencana stock split, sebab pemecahan nilai saham itu bisa mengubah basis hitung saham beredar dan berinteraksi dengan program buyback yang masih berjalan dengan sisa dana Rp71,36 miliar.",
+  "sentimen": "netral"
  },
  {
   "slug": "msin-bagikan-materi-pubex-laba-bersih-h1-naik-14-pubex",
@@ -528,6 +816,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Glass office towers in Jakarta's financial district at sunrise, reflections of pastel sky, quiet street traffic below.",
   "takeaway": "Pergantian manajer investasi ETF ini netral bagi pemegang unit penyertaan karena dokumen tidak menyebut perubahan strategi pelacakan indeks LQ45, kinerja dana, atau komposisi portofolio, murni soal siapa yang mengelola di belakang meja. Yang berpotensi tersentuh adalah biaya pengelolaan atau fee manajemen dan seberapa dekat return ETF ini mengikuti indeks LQ45 alias tracking error, karena keduanya ditentukan oleh kebijakan manajer investasi, bukan oleh saham yang mendasarinya. Investor reksa dana ini perlu memantau pengumuman lanjutan dari PT Danareksa Investment Management Indonesia soal besaran biaya pengelolaan dan prospektus baru pasca peralihan yang efektif berlaku 23 Oktober 2026, sebab dokumen ini belum merincinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cfin-kuartal-iii-laba-naik-13-liabilitas-turun-24",
+  "category": "Aksi Korporasi",
+  "title": "CFIN Kuartal III: Laba Naik 13%, Liabilitas [Turun] 24%",
+  "deck": "Laba bersih Clipan Finance naik 13,3% jadi Rp153,65 miliar pada sembilan bulan 2026, sementara utang bank susut Rp873,63 miliar dan piutang pembiayaan konsumen mengecil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T14:52:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023145818-64729-0/FinancialStatement-2026-III-CFIN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CFIN",
+  "tags": [
+   "CFIN",
+   "laporan keuangan",
+   "multifinance",
+   "OJK"
+  ],
+  "body": [
+   "PT Clipan Finance Indonesia Tbk (CFIN) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK pada 23 Oktober 2026, ditandatangani Direktur Utama Jahja Anwar dan Direktur Roelly Makalis. Laba bersih perusahaan naik dari Rp135,66 miliar menjadi Rp153,65 miliar, atau tumbuh 13,3 persen, dengan laba per saham naik dari Rp34,05 menjadi Rp38,56. Kenaikan laba ini terjadi meski total pendapatan justru turun 8,7 persen dari Rp1,23 triliun menjadi Rp1,12 triliun, karena pendapatan dari pembiayaan konsumen, lini bisnis utama perusahaan, menyusut dari Rp896,12 miliar menjadi Rp805,06 miliar.",
+   "Di sisi aset, total aset perusahaan turun 9,9 persen menjadi Rp8,58 triliun dari Rp9,53 triliun per akhir 2025, seiring piutang pembiayaan konsumen bersih yang mengecil dari Rp7,97 triliun menjadi Rp7,28 triliun. Total liabilitas turun lebih tajam, yaitu 24,11 persen atau Rp901,78 miliar, menjadi Rp2,84 triliun. Perusahaan bahkan mengirim surat terpisah ke OJK untuk menjelaskan penurunan ini karena melewati ambang 20 persen yang wajib dijelaskan, dengan alasan utama utang bank yang turun Rp873,63 miliar menjadi Rp2,59 triliun akibat pembayaran angsuran rutin dan pelunasan sebagian fasilitas kredit. Ekuitas relatif stabil di Rp5,74 triliun, turun tipis dari Rp5,79 triliun setelah perusahaan membagikan dividen tunai Rp199,23 miliar sepanjang periode berjalan.",
+   "Dari sisi arus kas, kas dan setara kas naik dari Rp27,52 miliar menjadi Rp64,15 miliar, dengan kas bersih dari aktivitas operasi melonjak dari Rp531,71 miliar menjadi Rp1,12 triliun. Beban bunga turun dari Rp213,77 miliar menjadi Rp172,32 miliar. Rasio imbal hasil aset (ROA) naik tipis dari 2,76 persen menjadi 2,80 persen, sementara rasio imbal hasil ekuitas (ROE) turun dari 3,70 persen menjadi 3,39 persen, dan rasio lancar naik dari 196,20 persen menjadi 228,59 persen."
+  ],
+  "fotoAdegan": "Customers discussing vehicle financing options with a salesperson inside a brightly lit dealership showroom in Jakarta",
+  "takeaway": "Laporan ini tergolong netral dengan sedikit catatan positif pada struktur permodalan: laba naik dua digit dan utang bank menyusut signifikan, tetapi kenaikan laba itu lebih banyak ditopang oleh turunnya beban bunga dan beban kredit macet, bukan oleh pertumbuhan bisnis, karena piutang pembiayaan konsumen, bisnis inti perusahaan, justru menyusut. Yang patut dicermati pelaku pasar adalah arus kas dari kegiatan operasi, yaitu uang tunai yang benar-benar masuk dari bisnis inti, yang melonjak lebih dari dua kali lipat menjadi Rp1,12 triliun, menandakan penagihan piutang masih berjalan lancar walau portofolio pembiayaan mengecil. Ekuitas, yaitu kekayaan bersih milik pemegang saham, turun tipis karena sebagian laba dibagikan sebagai dividen tunai Rp199,23 miliar dan tidak seluruhnya ditahan untuk memperbesar bisnis. Dokumen ini tidak menyebut tenggat atau rapat pemegang saham mendatang, tetapi arah piutang pembiayaan konsumen pada laporan kuartal IV 2026 akan jadi penentu apakah kenaikan laba ini bisa berlanjut atau hanya hasil sementara dari efisiensi biaya.",
   "sentimen": "netral"
  },
  {

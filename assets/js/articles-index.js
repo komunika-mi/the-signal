@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "enrg-catatkan-obligasi-rp500-miliar-tahap-v-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Catatkan [Obligasi] Rp500 Miliar Tahap V di BEI",
+  "deck": "ENRG mencatatkan obligasi tahap V senilai Rp500 miliar di BEI mulai 23 Oktober 2026, bagian dari program obligasi berkelanjutan bertarget Rp4 triliun.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "obligasi korporasi",
+   "BEI",
+   "migas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/97fab501a0_9d3ebbb139.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "soho-jual-seluruh-saham-di-pfizer-indonesia-ke-pfizer-hong-kong",
+  "category": "Aksi Korporasi",
+  "title": "SOHO Jual Seluruh Saham di [Pfizer Indonesia] ke Pfizer Hong Kong",
+  "deck": "PT Soho Industri Pharmasi, anak usaha SOHO, melepas seluruh 245.045 saham di PT Pfizer Indonesia kepada Pfizer Corporation Hong Kong Limited.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOHO",
+   "Pfizer Indonesia",
+   "Soho Industri Pharmasi",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ad9dc057dd_1c58bd9e5d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-siapkan-stock-split-rupslb-digelar-23-november",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Siapkan [Stock Split], RUPSLB Digelar 23 November",
+  "deck": "Prodia Widyahusada menjawab permintaan penjelasan BEI soal volatilitas transaksi, mengungkap rencana stock split lewat RUPSLB 23 November dan buyback saham senilai Rp150 miliar yang masih berjalan.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "stock split",
+   "buyback saham",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/540308097c_facf20f1b4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lsip-siapkan-buyback-saham-rp750-miliar-hingga-akhir-2026",
+  "category": "Aksi Korporasi",
+  "title": "LSIP Siapkan [Buyback] Saham Rp750 Miliar hingga Akhir 2026",
+  "deck": "PP London Sumatra akan membeli kembali saham maksimal Rp750 miliar dari kas internal pada 26 Oktober hingga 31 Desember 2026, memakai aturan OJK untuk kondisi pasar berfluktuasi.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LSIP",
+   "buyback saham",
+   "pasar modal",
+   "perkebunan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0884db7e64_fba905f667.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vtny-laba-bersih-anjlok-82-pada-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "VTNY: Laba Bersih [Anjlok] 82% pada Kuartal III 2026",
+  "deck": "Laba bersih Venteny Fortuna turun 82 persen jadi Rp1,53 miliar dalam sembilan bulan 2026, sementara kas perusahaan menyusut lebih dari 90 persen setelah pelunasan obligasi besar.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "laporan keuangan",
+   "fintech pembiayaan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023184832-64561-0/FinancialStatement-2026-III-VTNY.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "viva-jelaskan-ke-bei-pmthmetd-dilusi-saham-72-35",
+  "category": "Aksi Korporasi",
+  "title": "VIVA Jelaskan ke BEI, PMTHMETD Dilusi Saham [72,35%]",
+  "deck": "VIVA menjawab penjelasan BEI soal PMTHMETD Rp1,72 triliun ke pihak terafiliasi HAJ dan JSM, dengan dilusi 72,35 persen dan free float turun ke 15,04 persen.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VIVA",
+   "PMTHMETD",
+   "PKPU",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e1c5631e50_4105b21005.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indf-siapkan-rp750-miliar-untuk-buyback-saham",
+  "category": "Aksi Korporasi",
+  "title": "INDF Siapkan Rp750 Miliar untuk [Buyback] Saham",
+  "deck": "Indofood menyiapkan dana internal hingga Rp750 miliar untuk membeli kembali sahamnya sendiri lewat bursa mulai 26 Oktober hingga 31 Desember 2026, memanfaatkan aturan OJK soal volatilitas pasar.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDF",
+   "buyback saham",
+   "Indofood",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5420d68012_2245af1070.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "icbp-siapkan-buyback-rp750-miliar-di-tengah-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "ICBP Siapkan Buyback [Rp750 Miliar] di Tengah Pasar Bergejolak",
+  "deck": "Indofood CBP Sukses Makmur menyiapkan pembelian kembali saham senilai maksimal Rp750 miliar dari kas internal, berlaku 26 Oktober hingga 31 Desember 2026 sesuai aturan OJK soal pasar bergejolak.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ICBP",
+   "buyback saham",
+   "Indofood CBP",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d6a58566b_f3263030cc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekonomi-digital-ri-tembus-us-100-miliar-terbesar-di-asia-tenggara",
   "category": "Teknologi",
   "title": "Ekonomi Digital RI Tembus [US$100] Miliar, Terbesar di Asia Tenggara",
@@ -35,6 +163,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823626.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "doid-ekuitas-buma-anjlok-94-89-persen-ke-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "DOID: Ekuitas BUMA [Anjlok] 94,89 Persen ke Semester I 2026",
+  "deck": "BUMA Internasional Grup menjawab permintaan penjelasan BEI soal ekuitas yang susut tajam, rasio utang anak usaha BOLD yang melampaui batas, dan piutang ke BOLD senilai USD95,5 juta.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOID",
+   "ekuitas",
+   "covenant utang",
+   "BUMA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f64dc16ddc_01ca04bac2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buka-bukukan-rugi-rp881-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "BUKA bukukan [rugi] Rp881 miliar di sembilan bulan 2026",
+  "deck": "Pendapatan BUKA tumbuh 19 persen pada Januari-September 2026, tetapi perseroan berbalik rugi Rp881 miliar akibat rugi investasi Rp2,04 triliun.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUKA",
+   "Bukalapak",
+   "laporan keuangan",
+   "rugi investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023110320-64761-0/FinancialStatement-2026-III-BUKA.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "uvcr-revisi-rencana-terbitkan-200-juta-saham-baru-picu-dilusi",
@@ -115,6 +275,22 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023170512-64539-0/FinancialStatement-2026-III-UNSP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-buyback-capai-2-87-harga-beli-tembus-rp3-586",
+  "category": "Aksi Korporasi",
+  "title": "PRDA: Buyback Capai [2,87%], Harga Beli Tembus Rp3.586",
+  "deck": "Prodia Widyahusada melaporkan akumulasi buyback saham naik ke 2,87 persen per 23 Oktober 2026, dengan harga beli rata-rata tertinggi sepanjang program di Rp3.586.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93ee98442a_8955dc608a.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -326,6 +502,22 @@ var ARTICLES = [
    "ETF LQ45"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb6462bd50_fc1d7403a8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cfin-kuartal-iii-laba-naik-13-liabilitas-turun-24",
+  "category": "Aksi Korporasi",
+  "title": "CFIN Kuartal III: Laba Naik 13%, Liabilitas [Turun] 24%",
+  "deck": "Laba bersih Clipan Finance naik 13,3% jadi Rp153,65 miliar pada sembilan bulan 2026, sementara utang bank susut Rp873,63 miliar dan piutang pembiayaan konsumen mengecil.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CFIN",
+   "laporan keuangan",
+   "multifinance",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023145818-64729-0/FinancialStatement-2026-III-CFIN.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6270,207 +6462,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ce2035d71c_2b97e01690.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-kini-punya-25-perjanjian-dagang-cakup-72-ekspor-2025",
-  "category": "Global",
-  "title": "RI Kini Punya [25] Perjanjian Dagang, Cakup 72% Ekspor 2025",
-  "deck": "Kemendag menyebut 25 perjanjian dagang yang sudah berjalan kini menutup 72,34 persen nilai ekspor Indonesia pada 2025, di tengah tarif baru Amerika Serikat dan meningkatnya hambatan dagang dunia.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/ri-kini-punya-25-perjanjian-dagang-cakup-72-ekspor-2025.jpg",
-  "imageV": "mvap463d",
-  "tags": [
-   "perjanjian dagang",
-   "ekspor",
-   "Kemendag",
-   "Trade Expo Indonesia"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perjanjian-perdagangan-internasional-amankan-pasar-ekspor-indonesia",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bmri-jelaskan-kredit-ke-jhonlin-berjaminan-saham-jarr-pgun",
-  "category": "Aksi Korporasi",
-  "title": "BMRI Jelaskan Kredit ke Jhonlin Berjaminan [Saham] JARR-PGUN",
-  "deck": "BMRI menjelaskan ke Bursa bahwa kredit ke PT Jhonlin Baratama bukan untuk beli saham, meski dijamin saham JARR dan PGUN, menyusul sorotan soal akuisisi BYAN oleh grup Haji Isam.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMRI",
-   "Jhonlin Baratama",
-   "JARR",
-   "PGUN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d4b078d60_768e617f03.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ipac-ungkap-rincian-tender-sukarela-jelang-go-private",
-  "category": "Aksi Korporasi",
-  "title": "IPAC Ungkap Rincian [Tender Sukarela] Jelang Go Private",
-  "deck": "PT Era Graharealty Tbk (IPAC) merinci rencana go private dan delisting, termasuk penawaran tender sukarela oleh pengendali APAC Investment 2 Pte Ltd kepada pemegang saham publik.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPAC",
-   "go private",
-   "delisting",
-   "tender sukarela"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/786b64d05c_d655520653.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rccc-pemegang-saham-utama-pastikan-tak-ubah-kepemilikan",
-  "category": "Aksi Korporasi",
-  "title": "RCCC: Pemegang Saham Utama Pastikan Tak Ubah [Kepemilikan]",
-  "deck": "RCCC menjawab permintaan penjelasan volatilitas dari BEI, menegaskan tak ada info material baru, sementara pemegang saham utama Gelora Rimba Jaya pastikan tak ubah kepemilikan 77,92 persennya.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RCCC",
-   "volatilitas saham",
-   "pemegang saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9c7c8a4340_805e4ad072.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta",
-  "category": "Bisnis",
-  "title": "14 Produsen Pangan RI Teken MoU Ekspor, Potensi [US$25,2 Juta]",
-  "deck": "Kemendag saksikan 14 produsen pangan Indonesia teken MoU dan LoI dengan importir dari lima negara dalam ajang TEI ke-41, dengan potensi transaksi US$25,2 juta.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
-  "imageV": "mvamv3v2",
-  "tags": [
-   "S'RASA",
-   "ekspor pangan",
-   "Trade Expo Indonesia",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-saksikan-mou-srasa-potensi-transaksi-capai-usd-252-juta",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "indonesia-jajaki-pasar-dagang-baru-ke-yunani-rusia-myanmar",
-  "category": "Global",
-  "title": "Indonesia [Jajaki] Pasar Dagang Baru ke Yunani, Rusia, Myanmar",
-  "deck": "Wakil Menteri Perdagangan Dyah Roro Esti menggelar pertemuan bilateral dengan Yunani, Rusia, dan Myanmar di sela TEI 2026 untuk membuka peluang pasar baru bagi produk Indonesia.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/indonesia-jajaki-pasar-dagang-baru-ke-yunani-rusia-myanmar.jpg",
-  "imageV": "mvamvfoq",
-  "tags": [
-   "TEI 2026",
-   "Kemendag",
-   "Perdagangan Bilateral",
-   "Ekspor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-perkuat-kerja-sama-dagang-dengan-yunani-rusia-dan-myanmar-di-tei-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "sico-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "SICO Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Merespons permintaan Bursa Efek Indonesia, SICO menegaskan tak ada informasi material maupun rencana aksi korporasi di balik gejolak harga sahamnya.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SICO",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71277ed763_f24a9e7f81.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-itic-bahas-rencana-jaminkan-aset-ke-bank",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB ITIC Bahas Rencana [Jaminkan] Aset ke Bank",
-  "deck": "PT Indonesian Tobacco Tbk mengundang pemegang saham ke RUPSLB 9 November 2026 untuk menyetujui rencana menjaminkan sebagian besar atau seluruh asetnya guna memperoleh fasilitas pinjaman.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ITIC",
-   "RUPSLB",
-   "penjaminan aset",
-   "pembiayaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b832c97993_6aac95f0f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-raih-dua-penghargaan-in-house-counsel-2026",
-  "category": "BUMN",
-  "title": "Pegadaian [Raih] Dua Penghargaan In-House Counsel 2026",
-  "deck": "Divisi Legal Pegadaian dan kepalanya meraih dua penghargaan di Indonesia In-House Counsel Awards 2026, hasil program pencegahan risiko hukum perusahaan.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/pegadaian-raih-dua-penghargaan-in-house-counsel-2026.jpg",
-  "imageV": "mvamvgba",
-  "tags": [
-   "Pegadaian",
-   "BUMN",
-   "Tata Kelola Perusahaan",
-   "Hukum Korporat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473328-pegadaian-raih-dua-penghargaan-di-indonesia-in-house-counsel-awards-2026"
- },
- {
-  "slug": "dagang-ri-mozambik-naik-57-5-persen-tembus-us-162-8-juta",
-  "category": "Global",
-  "title": "Dagang RI-Mozambik Naik [57,5] Persen, Tembus US$162,8 Juta",
-  "deck": "Kementerian Perdagangan menggelar forum bisnis RI-Mozambik di Trade Expo Indonesia, seiring nilai perdagangan dua negara yang terus naik dalam dua tahun terakhir.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/dagang-ri-mozambik-naik-57-5-persen-tembus-us-162-8-juta.jpg",
-  "imageV": "mvahh1p1",
-  "tags": [
-   "Indonesia-Mozambik",
-   "Trade Expo Indonesia",
-   "Ekspor",
-   "Kementerian Perdagangan"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-indonesia-dan-mozambik-perlu-tingkatkan-koneksi-dan-buka-peluang-baru",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "skincare-hutan-aceh-yagi-forest-bidik-pasar-ekspor",
-  "category": "UMKM",
-  "title": "Skincare Hutan Aceh Yagi Forest Bidik [Pasar] Ekspor",
-  "deck": "UMKM skincare asal Aceh, Yagi Forest, ikut Trade Expo Indonesia untuk mencari mitra distributor setelah tampil di pameran Malaysia, Jepang, dan Oman.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/pasar-kerajinan.jpg",
-  "tags": [
-   "UMKM",
-   "Aceh",
-   "Ekspor",
-   "Kosmetik"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/menjaga-hutan-aceh-memikat-pasar-global-perjalanan-yagi-forest-menuju-panggung-internasional",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "mdka-rilis-obligasi-tahap-iv-rp4-12-triliun-lunasi-utang-dolar",
-  "category": "Aksi Korporasi",
-  "title": "MDKA Rilis [Obligasi] Tahap IV Rp4,12 Triliun, Lunasi Utang Dolar",
-  "deck": "MDKA menerbitkan obligasi tahap IV senilai Rp4,12 triliun dari program Rp15 triliun untuk melunasi fasilitas kredit dolar AS senilai US$195 juta dan sebagian obligasi IV yang jatuh tempo Desember.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDKA",
-   "obligasi",
-   "refinancing utang",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/564d0c24cb_f1df47582d.pdf",
   "sourceLabel": "IDX"
  }
 ];

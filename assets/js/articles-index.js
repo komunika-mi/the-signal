@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekonomi-digital-ri-tembus-us-100-miliar-terbesar-di-asia-tenggara",
+  "category": "Teknologi",
+  "title": "Ekonomi Digital RI Tembus [US$100] Miliar, Terbesar di Asia Tenggara",
+  "deck": "Ekonomi digital Indonesia disebut mendekati US$100 miliar dan tumbuh 14 persen, seiring pemerintah menyiapkan infrastruktur pusat data dan energi hingga 2030.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/server-data.jpg",
+  "tags": [
+   "ekonomi digital",
+   "KEK",
+   "pusat data",
+   "media lokal"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7180/perkuat-pertumbuhan-ekonomi-digital-pemerintah-dorong-media-lokal-jadi-penggerak-ekonomi-daerah",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "bi-perkuat-sinergi-jaga-inflasi-pangan-di-sulampua",
+  "category": "Makroekonomi",
+  "title": "BI Perkuat Sinergi Jaga [Inflasi] Pangan di Sulampua",
+  "deck": "Bank Indonesia bersama pemerintah pusat dan daerah menggelar forum pengendalian inflasi pangan di Sulawesi, Maluku, dan Papua, menyasar inflasi pangan bergejolak di kisaran 3-5 persen.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "Inflasi Pangan",
+   "Bank Indonesia",
+   "Sulampua",
+   "Ketahanan Pangan"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823626.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "uvcr-revisi-rencana-terbitkan-200-juta-saham-baru-picu-dilusi",
   "category": "Aksi Korporasi",
   "title": "UVCR Revisi Rencana Terbitkan 200 Juta Saham Baru, Picu [Dilusi]",
@@ -35,6 +67,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5b64cab7e2_e25cbdaa96.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ojk-jatuhkan-denda-rp2-52-triliun-ke-pelanggar-pasar-modal",
+  "category": "Pasar Modal",
+  "title": "OJK Jatuhkan Denda [Rp2,52 Triliun] ke Pelanggar Pasar Modal",
+  "deck": "OJK mencatat total denda Rp2,52 triliun kepada ratusan pelanggar aturan pasar modal hingga 16 Oktober 2026, didominasi tiga kasus besar DSSA, BREN, dan CUAN.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/ojk-jatuhkan-denda-rp2-52-triliun-ke-pelanggar-pasar-modal.jpg",
+  "imageV": "mvkvm8tn",
+  "tags": [
+   "OJK",
+   "pasar modal",
+   "sanksi",
+   "DSSA"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474625-ojk-jatuhkan-denda-total-rp252-triliun-kepada-ratusan-pelanggar-hukum-pasar-modal"
  },
  {
   "slug": "tgra-ganti-lapkeu-q3-jadi-audited-sinyal-rights-issue",
@@ -163,6 +212,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8afa6e9f4b_22364de794.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pegadaian-raih-penghargaan-inovasi-asia-2026",
+  "category": "BUMN",
+  "title": "Pegadaian Raih [Penghargaan] Inovasi Asia 2026",
+  "deck": "Pegadaian menyabet dua penghargaan di Asian Innovation Excellence Awards 2026 atas transformasi digital lewat aplikasi Tring!.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/pegadaian-raih-penghargaan-inovasi-asia-2026.jpg",
+  "imageV": "mvkvm99e",
+  "tags": [
+   "Pegadaian",
+   "AIEA 2026",
+   "Tring",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474604-pegadaian-raih-penghargaan-di-asian-innovation-excellence-awards-2026"
  },
  {
   "slug": "pajak-ntb-tembus-rp2-18-triliun-tumbuh-15-36",
@@ -380,7 +446,7 @@ var ARTICLES = [
   "title": "Presiden Prabowo Targetkan Kredit Rakyat [Rp400 Triliun] di 2027",
   "deck": "Presiden Prabowo Subianto meluncurkan Dewan Nasional Kesejahteraan Keuangan dan menargetkan penyaluran kredit rakyat Rp400 triliun pada 2027, naik dari realisasi Rp53 triliun saat ini.",
   "date": "23 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "DNKK",
    "kredit rakyat",
@@ -981,7 +1047,7 @@ var ARTICLES = [
   "title": "Pemerintah Pasang Target Pertumbuhan [6%] untuk 2027",
   "deck": "Pemerintah mengklaim stabilitas ekonomi domestik masih solid, dengan investasi tumbuh 7,3 persen, sebagai dasar menaikkan target pertumbuhan ke 6 persen pada 2027.",
   "date": "22 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7177/pemerintah-jaga-stabilitas-ekonomi-dalam-negeri-untuk-pertahankan-kepercayaan-investor",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
@@ -1963,7 +2029,7 @@ var ARTICLES = [
   "title": "Pemerintah Patok Target [AI] lewat Listrik dan SDM Digital",
   "deck": "Pemerintah merinci empat prioritas kedaulatan AI, dari penambahan listrik 70 gigawatt hingga target 9 juta talenta digital pada 2030.",
   "date": "21 Oktober 2026",
-  "image": "assets/img/server-data.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "tags": [
    "kecerdasan buatan",
    "transformasi digital",
@@ -1979,7 +2045,7 @@ var ARTICLES = [
   "title": "Investasi KEK Baru [Rp46] Triliun, Kejar Target Rp69 Triliun",
   "deck": "Realisasi investasi di 25 kawasan ekonomi khusus capai Rp46 triliun hingga September 2026, baru dua pertiga dari target Rp69 triliun tahun ini.",
   "date": "21 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "KEK",
    "Investasi",
@@ -6406,71 +6472,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/564d0c24cb_f1df47582d.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "igar-disuspensi-bei-champion-pacific-ajukan-go-private",
-  "category": "Aksi Korporasi",
-  "title": "IGAR Disuspensi BEI, Champion Pacific Ajukan [Go Private]",
-  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham IGAR sejak sesi pertama Jumat, 16 Oktober 2026, menyusul permohonan delisting untuk berubah status menjadi perusahaan tertutup.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IGAR",
-   "delisting",
-   "go private",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/550ec342db_90121731c0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-panggil-rupslb-tarik-saham-treasuri-dan-ganti-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Panggil RUPSLB, Tarik Saham [Treasuri] dan Ganti Komisaris",
-  "deck": "UNTR memanggil RUPSLB pada 9 November 2026 untuk menyetujui penghapusan saham hasil pembelian kembali dan perubahan susunan komisaris.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "RUPSLB",
-   "buyback saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/16d6b67a75_056f73c60d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-naik-ke-rp2-565-000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Naik] ke Rp2.565.000 per Gram",
-  "deck": "Harga emas batangan Antam naik Rp4.000 menjadi Rp2.565.000 per gram pada 16 Oktober 2026, sementara harga buyback ikut naik ke Rp2.375.000 per gram.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-naik-ke-rp2-565-000-per-gram.jpg",
-  "imageV": "mvahh23y",
-  "tags": [
-   "emas",
-   "antam",
-   "harga emas",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473313-coba-dijual-harga-emas-antam-hari-ini-16-oktober-2026-naik-jadi-rp2565000-per-gram"
- },
- {
-  "slug": "beli-rumah-hingga-warisan-ini-pajak-properti-di-jakarta",
-  "category": "Makroekonomi",
-  "title": "Beli Rumah hingga Warisan, Ini [Pajak] Properti di Jakarta",
-  "deck": "Pemprov DKI Jakarta mengingatkan bahwa membeli rumah, menerima hibah, atau mewarisi tanah dan bangunan tetap terikat BPHTB dan PBB-P2 sesuai Perda Nomor 1 Tahun 2024.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/beli-rumah-hingga-warisan-ini-pajak-properti-di-jakarta.jpg",
-  "imageV": "mvahh2jt",
-  "tags": [
-   "pajak properti",
-   "BPHTB",
-   "PBB-P2",
-   "Jakarta"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473233-dari-beli-rumah-hingga-warisan-ini-pajak-properti-yang-perlu-diperhatikan"
  }
 ];

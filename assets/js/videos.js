@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "8bvxkTwWnls",
+  "title": "Bursa Lowongan Kerja di Jakarta Diserbu Pencari Kerja",
+  "category": "Ketenagakerjaan",
+  "program": "AKIS",
+  "summary": "Bursa lowongan kerja yang digelar di gedung Smesco, Jakarta, dipadati pencari kerja yang berebut kesempatan mengisi lowongan yang tersedia.",
+  "takeaway": "Menggambarkan tingginya minat masyarakat terhadap bursa kerja, indikator relevan bagi pembaca yang mengikuti dinamika pasar tenaga kerja dalam negeri.",
+  "terbit": "2026-10-23T07:08:16+00:00"
+ },
+ {
   "id": "8yq5whTe51A",
   "title": "Hanta Yuda Soroti Harga Kebutuhan Pokok dan Daya Beli Masyarakat",
   "category": "Makroekonomi",

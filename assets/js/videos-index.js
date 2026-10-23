@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "8bvxkTwWnls",
+  "title": "Bursa Lowongan Kerja di Jakarta Diserbu Pencari Kerja",
+  "category": "Ketenagakerjaan",
+  "program": "AKIS",
+  "summary": "Bursa lowongan kerja yang digelar di gedung Smesco, Jakarta, dipadati pencari kerja yang berebut kesempatan mengisi lowongan yang tersedia.",
+  "takeaway": "Menggambarkan tingginya minat masyarakat terhadap bursa kerja, indikator relevan bagi pembaca yang mengikuti dinamika pasar tenaga kerja dalam negeri."
+ },
+ {
   "id": "8yq5whTe51A",
   "title": "Hanta Yuda Soroti Harga Kebutuhan Pokok dan Daya Beli Masyarakat",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menegaskan peran penting perempuan dalam menggerakkan perekonomian nasional saat menghadiri IWBIF 2026.",
   "takeaway": "Pandangan Ketua Kadin ini relevan bagi pembaca ekonomi karena menyoroti kontribusi perempuan terhadap dunia usaha dan investasi di Indonesia."
- },
- {
-  "id": "w0xjJy7nxyg",
-  "title": "Antrean BBM di SPBU Bali Berlanjut hingga Hari Kelima",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Antrean panjang kendaraan di berbagai SPBU Bali masih terjadi hingga hari kelima, Jumat (16/10/2026), akibat keterlambatan distribusi bahan bakar minyak.",
-  "takeaway": "Gangguan distribusi BBM ini berisiko mengganggu mobilitas warga dan aktivitas ekonomi, termasuk sektor pariwisata, di Bali."
  }
 ];

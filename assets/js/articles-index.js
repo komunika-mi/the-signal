@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jelang-nataru-pemerintah-waspadai-lonjakan-harga-cabai",
+  "category": "Makroekonomi",
+  "title": "Jelang Nataru, Pemerintah Waspadai Lonjakan Harga [Cabai]",
+  "deck": "Pemerintah memperkuat rantai pasok pangan di Sulampua dan menjalankan stimulus Rp26,34 triliun menjelang Nataru, seiring inflasi pangan naik ke 5,03 persen dan harga cabai melonjak tajam.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "tags": [
+   "inflasi pangan",
+   "Nataru",
+   "cabai",
+   "Sulampua"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7179/antisipasi-inflasi-jelang-nataru-pemerintah-perkuat-rantai-pasok-pangan",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "pack-jelaskan-detail-akuisisi-nikel-dan-rights-issue-dalam-koreksi",
   "category": "Aksi Korporasi",
   "title": "PACK Jelaskan Detail [Akuisisi Nikel] dan Rights Issue dalam Koreksi",
@@ -6471,22 +6487,6 @@ var ARTICLES = [
    "Sumatera Selatan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb6fe5b26d_4720e50fd3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-direksi-tambah-saham-hak-suara-ke-0-19",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Direksi [Tambah] Saham, Hak Suara ke 0,19%",
-  "deck": "Direksi Arkora Hydro, Aldo Henry Artoko, menambah 349.200 lembar saham ARKO lewat pembelian tidak langsung pada 13-14 Oktober 2026, menaikkan hak suaranya dari 0,17% menjadi 0,19%.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "transaksi saham direksi",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15102026-3929-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kadin-fest-bekasi-2027-padukan-konser-dan-expo-umkm",
+  "category": "UMKM",
+  "title": "KADIN Fest Bekasi 2027 Padukan Konser dan [Expo] UMKM",
+  "deck": "KADIN Kota Bekasi menyiapkan festival musik dua hari dipadukan Pasar Rakyat dan Expo UMKM pada Januari 2027, membidik 40.000 pengunjung.",
+  "image": "assets/img/kadin-fest-bekasi-2027-padukan-konser-dan-expo-umkm.jpg",
+  "date": "24 Oktober 2026",
+  "isoDate": "2026-10-24T03:31:56+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474700-gelar-kadin-fest-2027-kadin-kota-bekasi-padukan-konser-musik-lintas-generasi-dan-expo-umkm",
+  "tags": [
+   "KADIN Bekasi",
+   "UMKM",
+   "Festival Musik",
+   "Ekonomi Kreatif"
+  ],
+  "body": [
+   "Kamar Dagang dan Industri Kota Bekasi mengumumkan rencana menggelar KADIN Fest Bekasi 2027, festival musik yang dipadukan dengan pameran UMKM, pada 30-31 Januari 2027 di Transera Waterpark, Harapan Indah. Rencana ini resmi diperkenalkan lewat konferensi pers di Kemang, Kota Bekasi, Kamis (22/10), bertepatan dengan hitung mundur 100 hari menjelang acara.",
+   "Hari pertama festival akan diisi Slank, Kotak, Pasha, Kangen Band, dan DNA, sementara hari kedua menampilkan Tipe-X, Vierratale, Whisnu Santika, Souljah, serta sejumlah bintang tamu. Tiket sudah mulai dijual bertahap lewat platform GOERS dengan harga awal Rp200 ribu per hari, tersedia dalam beberapa kategori mulai presale hingga paket bundling.",
+   "Di luar panggung musik, acara ini juga menghadirkan Pasar Rakyat dan Expo UMKM dengan ratusan gerai kuliner, kerajinan, dan fesyen lokal. KADIN menargetkan lebih dari 40.000 pengunjung dari Jabodetabek hingga Karawang, dengan harapan keramaian itu ikut menggerakkan sektor ekonomi kreatif dan UMKM di Bekasi. Sebagai rangkaian pendukung, disiapkan pula Fun Run, lomba band, KADIN Bekasi Award, dan KADIN IBOS Expo & Business Matching di Bekasi Convention Center pada 22-24 Januari 2027 sebagai wadah jejaring kemitraan dan waralaba.",
+   "Ketua KADIN Kota Bekasi, Qadar Ruslan Siregar, menyebut konsep acara ini dirancang agar dunia usaha bisa berinteraksi langsung dengan masyarakat luas. \"KADIN Fest kami hadirkan sebagai ruang bersama. Masyarakat bisa menikmati musik dan hiburan, sementara pelaku usaha mendapatkan kesempatan bertemu dengan pasar, membangun jaringan dan memperkenalkan produknya,\" ujarnya. KADIN Kota Bekasi juga membuka peluang kemitraan, sponsor, maupun penyewa stan bagi pelaku bisnis dan komunitas yang ingin berpartisipasi."
+  ],
+  "fotoAdegan": "Rows of food, craft, and clothing market stalls with colorful awnings at an outdoor festival ground at dusk, visitors strolling between stands",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/24/6adbc37682326-gelar-kadin-fest-2027-kadin-kota-bekasi-padukan-konser-musik-lintas-generasi-dan-expo-umkm_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah skala acara: festival musik berbayar, tiket mulai Rp200 ribu per hari, digabung dengan Pasar Rakyat dan Expo UMKM berisi ratusan gerai, ditambah forum KADIN IBOS Expo & Business Matching untuk menjajal kemitraan dan waralaba. Yang langsung terdampak adalah pelaku UMKM kuliner, kerajinan, dan fesyen lokal Bekasi yang mendapat ruang berjualan dan bertemu calon mitra usaha, serta perusahaan atau komunitas yang diajak jadi sponsor dan penyewa stan. KADIN membidik lebih dari 40.000 pengunjung dari Jabodetabek sampai Karawang, dan angka itu jadi taruhan utama acara ini karena besar kecilnya manfaat bagi UMKM bergantung pada apakah target kerumunan tersebut benar-benar tercapai. Yang belum bisa dipastikan dari sekarang adalah berapa UMKM dan sponsor yang akhirnya mendaftar serta bagaimana penjualan tiket presale berjalan, yang baru akan terlihat mendekati pelaksanaan pada 30-31 Januari 2027.",
+  "imageV": "mvljdk4f"
+ },
+ {
   "slug": "bike-akui-dana-akuisisi-rk-rp1-t-belum-cair-pne-bum-afiliasi",
   "category": "Aksi Korporasi",
   "title": "BIKE Akui Dana Akuisisi RK Rp1 T Belum Cair, PNE-BUM [Afiliasi]",
@@ -28,6 +55,32 @@ var ARTICLES = [
   "fotoAdegan": "Open-pit coal mine in Kalimantan with excavators loading haul trucks under overcast sky, dusty access road",
   "takeaway": "Laporan ini condong negatif bagi BIKE karena mengonfirmasi bahwa pinjaman Rp1 triliun dari PMJ untuk membeli RK belum cair, status anak usaha RK dan PNE sudah diumumkan lebih dulu padahal transaksinya belum tuntas, dan rantai akuisisi ini melibatkan pihak terafiliasi, yaitu MTI yang 99 persen sahamnya dimiliki BIKE sendiri serta PNE yang disebut BIKE sepengendali dengannya. Yang perlu dicermati pemegang saham adalah ekuitas BIKE, yaitu selisih antara aset dan utang perusahaan, karena begitu RK, PNE, dan BUM terkonsolidasi penuh, aset dan utang gabungan yang masuk ke buku BIKE mencapai ratusan miliar rupiah, sementara pinjaman Rp1 triliun dari PMJ, jika akhirnya cair, akan menambah beban bunga yang harus ditanggung perseroan. Lonjakan tajam pendapatan dan laba PNE serta BUM dalam waktu kurang dari setahun, dari nyaris nol menjadi puluhan hingga ratusan miliar rupiah, juga perlu diwaspadai karena kualitas aset dan keberlanjutan laba semacam itu baru benar-benar teruji pada beberapa periode laporan berikutnya. Yang akan menentukan kelanjutan cerita ini adalah hasil kajian kewajaran harga dari KJPP atas pinjaman PMJ serta revisi keterbukaan informasi yang dijanjikan BIKE begitu status akuisisi RK dan PNE benar-benar rampung.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "bayer-luncurkan-aplikasi-digital-untuk-petani-milenial-ri",
+  "category": "Teknologi",
+  "title": "Bayer Luncurkan Aplikasi [Digital] untuk Petani Milenial RI",
+  "deck": "Bayer Indonesia merilis platform FARMRISE yang menggabungkan edukasi tani, info cuaca, dan cek keaslian produk untuk 6,18 juta petani milenial.",
+  "image": "assets/img/bayer-luncurkan-aplikasi-digital-untuk-petani-milenial-ri.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T23:24:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474682-berdayakan-petani-milenial-inovasi-digital-kini-sediakan-akses-belajar-hingga-cek-keaslian-produk",
+  "tags": [
+   "Bayer",
+   "FARMRISE",
+   "petani milenial",
+   "digitalisasi pertanian"
+  ],
+  "body": [
+   "Bayer Indonesia meluncurkan platform digital bernama FARMRISE dalam acara Jambore SOBAT Bayer di Malang, Jawa Timur. Aplikasi ini dirancang sebagai pendamping petani sepanjang musim tanam, mulai dari persiapan lahan sampai panen, dan menyasar langsung populasi petani milenial yang menurut Bayer berjumlah sekitar 6,18 juta orang serta makin terbuka memakai teknologi dalam usaha taninya.",
+   "Dalam satu aplikasi, FARMRISE menggabungkan beberapa layanan sekaligus: modul \"Belajar Tani\" berisi materi cara budi daya tanaman, informasi prakiraan cuaca, dan fitur Anti-Counterfeit untuk mengecek keaslian produk pertanian yang dibeli petani. Bayer juga berencana menambahkan fitur bernama AI Crop Doctor, yakni alat diagnosa penyakit tanaman berbasis kecerdasan buatan, agar petani bisa langsung mendapat gambaran penanganan saat tanaman mereka bermasalah.",
+   "Auzan Baiquni, Customer Experience Direct to Farmer Manager Bayer Crop Science Indonesia dan Malaysia, mengatakan akses terhadap informasi yang tepercaya penting agar petani bisa mengambil keputusan usaha tani yang sesuai kondisi di lapangan. FARMRISE juga dihubungkan dengan komunitas SOBAT Bayer dan program Better Life Farming, sehingga pengguna aplikasi bisa saling berbagi pengalaman dan memperluas jaringan sesama petani."
+  ],
+  "fotoAdegan": "A farmer standing in a lush green rice paddy in East Java at sunrise, glancing at a smartphone held at an angle",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/23/6adb89a495728-berdayakan-petani-milenial-inovasi-digital-kini-sediakan-akses-belajar-hingga-cek-keaslian-produk_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah Bayer menambah satu aplikasi pendamping bagi petani, lengkap dengan fitur cek keaslian produk yang menyasar masalah pupuk atau pestisida palsu di lapangan. Yang kena dampak langsung adalah petani milenial pengguna aplikasi ini, sekitar 6,18 juta orang yang menjadi target Bayer, serta jaringan komunitas SOBAT Bayer dan Better Life Farming yang diintegrasikan ke dalamnya. Berita ini belum menyebut berapa petani yang sudah benar-benar mengunduh atau memakai FARMRISE, dan juga tidak ada angka soal seberapa besar masalah produk palsu yang ingin diatasi lewat fitur Anti-Counterfeit tadi. Yang perlu ditunggu adalah data adopsi aplikasi ini setelah peluncuran, serta kapan fitur AI Crop Doctor yang masih berstatus rencana itu benar-benar dirilis ke pengguna.",
+  "imageV": "mvljdkhr"
  },
  {
   "slug": "pssi-tetapkan-rasio-pembagian-saham-treasuri-1-30-rupslb-28-okt",
@@ -84,6 +137,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pertamina-foundation-buka-daycare-umum-di-jakarta",
+  "category": "Ketenagakerjaan",
+  "title": "Pertamina Foundation Buka [Daycare] Umum di Jakarta",
+  "deck": "Pertamina Foundation membuka layanan penitipan anak di kompleks Simprug, Jakarta, untuk umum dengan prioritas bagi pekerja dan civitas akademika Universitas Pertamina.",
+  "image": "assets/img/pertamina-foundation-buka-daycare-umum-di-jakarta.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T23:02:02+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474677-ramah-keluarga-pertamina-foundation-buka-layanan-pengasuhan-anak-untuk-umum",
+  "tags": [
+   "Pertamina Foundation",
+   "daycare",
+   "pekerja",
+   "Jakarta"
+  ],
+  "body": [
+   "Pertamina Foundation resmi mengoperasikan Daycare Bumi Patra Simprug di area Kompleks Pertamina Simprug, Jakarta, yang melayani anak usia tiga bulan hingga tujuh tahun. Fasilitas ini dibuka untuk umum, namun prioritas layanan diberikan kepada karyawan Pertamina Foundation, civitas akademika Universitas Pertamina, dan pekerja di lingkungan Kompleks Pertamina Simprug. Langkah ini menjadi bagian dari upaya membangun lingkungan kerja yang lebih ramah keluarga di sekitar area perkantoran tersebut.",
+   "President Director Pertamina Foundation, Agus Mashud S. Asngari, mengatakan daycare ini dihadirkan untuk mendukung keseimbangan antara pekerjaan dan kehidupan pribadi para pekerja, sekaligus memastikan orang tua bisa bekerja dengan tenang karena anak mereka berada di lingkungan yang aman dan teredukasi. Ia juga menekankan bahwa layanan ini dibuka secara inklusif, termasuk bagi anak-anak berkebutuhan khusus, agar setiap anak memperoleh ruang tumbuh kembang yang setara.",
+   "Pendekatan pengasuhan di fasilitas ini memadukan kegiatan bermain edukatif, pembiasaan positif, dan rutinitas terstruktur. Guru daycare, Sayyidatun, menjelaskan bahwa pihaknya mengedepankan pendekatan yang hangat dan responsif agar anak merasa aman, sekaligus menstimulasi kemampuan sosial dan kognitif melalui kegiatan bermain sesuai usia.",
+   "Selain pengasuhan harian, fasilitas ini juga menyediakan layanan kesehatan yang cukup lengkap, mulai dari pemantauan tumbuh kembang anak, skrining psikologi, hingga pemeriksaan kesehatan rutin. Seluruh operasionalnya dijalankan dengan standar Health, Safety, Security, and Environment (HSSE) yang ketat, mengikuti standar keselamatan kerja yang biasa diterapkan di lingkungan Pertamina."
+  ],
+  "fotoAdegan": "Toddlers playing with colorful educational toys on a soft mat inside a bright daycare room, a caregiver sitting nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/23/6adb846c53c6c-ramah-keluarga-pertamina-foundation-buka-layanan-pengasuhan-anak-untuk-umum_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah Pertamina Foundation membuka fasilitas penitipan anak di kompleks kantornya di Simprug untuk umum, tidak lagi terbatas untuk kalangan internal, dengan jangkauan usia tiga bulan sampai tujuh tahun dan secara eksplisit juga menerima anak berkebutuhan khusus. Pihak yang paling terdampak adalah karyawan Pertamina Foundation, dosen dan mahasiswa Universitas Pertamina, serta pekerja lain di Kompleks Simprug yang sebelumnya harus mencari tempat penitipan anak jauh dari kantor, sementara warga umum di sekitar lokasi bisa mengakses dengan prioritas lebih rendah. Berita ini belum menyebutkan biaya layanan, kapasitas daycare, atau apakah ini proyek percontohan yang rencananya direplikasi di kompleks Pertamina lain, sehingga belum bisa dipastikan apakah ini inisiatif tunggal atau awal dari kebijakan fasilitas pengasuhan anak yang lebih luas di lingkungan Pertamina Group. Yang perlu dipantau adalah apakah Pertamina Group nantinya mengumumkan fasilitas serupa di kompleks atau anak usaha lain, atau menerbitkan aturan formal soal tunjangan pengasuhan anak bagi pekerjanya.",
+  "imageV": "mvljdkvl"
+ },
+ {
   "slug": "psgo-pks-anak-usaha-terbakar-kontribusi-30-pendapatan-terhenti",
   "category": "Aksi Korporasi",
   "title": "PSGO: PKS Anak Usaha Terbakar, [Kontribusi] 30% Pendapatan Terhenti",
@@ -135,6 +215,33 @@ var ARTICLES = [
   "fotoAdegan": "Steel sterilizer tanks and pipework at a palm oil processing mill, rows of oil palm trees in the background, overcast tropical sky.",
   "takeaway": "Tanggapan ini netral bagi PSGO, karena di satu sisi menambah kepastian lewat nilai asuransi Rp267,6 miliar dan rencana menutup kekurangan produksi dengan pabrik anak usaha lain, tapi di sisi lain mengonfirmasi bahwa penyebab kebakaran, waktu pemulihan, dan nilai kerugian semuanya masih belum bisa dipastikan. Pos kinerja yang tersentuh adalah pendapatan dan laba bersih konsolidasi, karena NUSA menyumbang sekitar 30 persen pendapatan dan 22 persen laba bersih PSGO setahun terakhir, sehingga berhentinya pengolahan di PKS itu langsung menekan dua angka tersebut, sementara klaim asuransi nantinya hanya akan menutup kerusakan aset, bukan menambah pendapatan usaha. Yang perlu dipantau berikutnya adalah hasil investigasi penyebab kebakaran dan kepastian waktu PKS NUSA kembali beroperasi, sebab dua hal itu belum ditentukan dan akan menjadi penentu apakah target produksi serta pendapatan PSGO tahun 2026 benar bisa tercapai lewat optimalisasi pabrik lain seperti yang dijanjikan perusahaan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "tanam-2-200-pohon-aren-kek-batang-incar-energi-mandiri",
+  "category": "Energi",
+  "title": "Tanam 2.200 Pohon [Aren], KEK Batang Incar Energi Mandiri",
+  "deck": "KEK Industropolis Batang menanam 2.200 bibit aren bersama PT Mitra Aren Indonesia, menyasar konservasi lingkungan sekaligus potensi bahan baku bioetanol.",
+  "image": "assets/img/tanam-2-200-pohon-aren-kek-batang-incar-energi-mandiri.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T22:11:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474666-dorong-kemandirian-energi-tanaman-aren-jadi-andalan-baru-di-batang",
+  "tags": [
+   "aren",
+   "bioetanol",
+   "KEK Batang",
+   "BUMN"
+  ],
+  "body": [
+   "Pengelola Kawasan Ekonomi Khusus (KEK) Industropolis Batang menggandeng PT Mitra Aren Indonesia menanam 2.200 bibit pohon aren di area reservoir kawasan, Jumat (23/10). Langkah ini jadi bagian dari komitmen menjaga kelestarian lingkungan di tengah pembangunan kawasan industri yang terus berjalan. Yang membuatnya relevan bagi pembaca ekonomi, aren disebut punya potensi sebagai bahan baku bioetanol, bahan bakar nabati yang bisa mengurangi ketergantungan pada energi impor.",
+   "Kegiatan ini dihadiri jajaran PT Danareksa (Persero) selaku induk pengelola kawasan, Dinas Lingkungan Hidup dan Kehutanan Jawa Tengah, serta Pemerintah Kabupaten Batang. Pohon aren dipilih karena perannya menjaga ketersediaan air tanah, mencegah erosi, dan menyerap emisi karbon. Direktur Utama KEK Industropolis Batang, Marfan Trihartiko, menyatakan bahwa pertumbuhan industri di kawasan ini akan terus disertai penyediaan ruang terbuka hijau.",
+   "Direktur Utama PT Mitra Aren Indonesia, Lety Jumiati, menjelaskan bahwa hampir seluruh bagian pohon aren punya nilai ekonomi, termasuk sebagai bahan baku bioetanol untuk mendukung kemandirian energi. Ia menyebut rencana ini akan digarap lewat kolaborasi antara pengusaha, badan usaha milik negara, dan petani setempat.",
+   "Pendekatan yang dipakai adalah agroforestri, yakni memadukan tanaman produktif dengan fungsi konservasi lahan. Dengan cara ini, warga sekitar kawasan diharapkan bisa memanfaatkan nira dan kolang-kaling dari pohon aren tanpa perlu menebangnya. Danareksa menyebut inisiatif ini selaras dengan visinya memadukan investasi yang ramah lingkungan dengan pemberdayaan ekonomi warga sekitar kawasan industri."
+  ],
+  "fotoAdegan": "Workers planting young sugar palm saplings along the edge of an industrial reservoir, tropical foliage, overcast daylight.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/23/6adb7867252ec-kek-industropolis-batang-mempertegas-komitmennya-dalam-menjaga-keseimbangan-ekologi-di-tengah-pesatnya-pembangunan-kawasan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret dari kabar ini baru sebatas penanaman 2.200 bibit pohon aren di area reservoir KEK Batang, hasil kerja sama dengan PT Mitra Aren Indonesia dan didukung Danareksa. Pihak yang kena dampak langsung adalah warga sekitar kawasan, yang dijanjikan bisa mengambil nira dan kolang-kaling dari pohon ini tanpa menebangnya, serta KEK Batang sendiri yang memakai aren untuk memenuhi kewajiban ruang terbuka hijau di kawasan industrinya. Soal klaim aren sebagai bahan baku bioetanol untuk kemandirian energi, itu masih berupa potensi yang disebutkan, bukan proyek pengolahan yang sudah berjalan. Belum ada penjelasan kapan pohon-pohon ini bisa mulai disadap niranya, berapa kapasitas pengolahan bioetanol yang direncanakan, atau berapa dana yang disiapkan untuk mewujudkannya. Tanpa angka-angka itu, sulit menilai apakah ini langkah awal rantai pasok energi baru atau sekadar program penghijauan yang dibungkus narasi energi terbarukan.",
+  "imageV": "mvljdl9m"
  },
  {
   "slug": "smkm-kucurkan-pinjaman-rp30-miliar-ke-afiliasi-milik-pengendali",
@@ -684,7 +791,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari siaran ini bukan klaim pertumbuhan 5,45 persen, melainkan target infrastruktur digital: kapasitas pusat data nasional direncanakan melonjak sekitar 20 kali lipat, dari kisaran 0,5 gigawatt sekarang menjadi 11 gigawatt pada 2030, dibarengi tambahan listrik 69,5 gigawatt sampai 2034 dan kebutuhan 9 juta tenaga kerja digital. Pihak yang terdampak langsung adalah industri pusat data dan energi yang harus membangun kapasitas itu, pekerja yang disasar program pelatihan vokasi berinsentif pajak, serta industri media lokal yang didorong mencari pendapatan di luar iklan karena pasar iklan konvensional menyusut. Arah yang terlihat adalah pemerintah lebih dulu membangun fondasi infrastruktur dan SDM sebelum pemanfaatan ekonomi digital oleh sektor lain, termasuk media lokal, benar-benar berjalan, sehingga dorongan ke media lokal saat ini masih berupa himbauan tanpa skema pendanaan atau insentif khusus. Yang akan menentukan apakah ini bergerak jadi program nyata atau berhenti di tahap wacana adalah realisasi RUPTL PLN 2025-2034 sesuai jadwal dan ada atau tidaknya aturan turunan konkret untuk pembangunan pusat data maupun insentif bagi media lokal.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "bi-perkuat-sinergi-jaga-inflasi-pangan-di-sulampua",
@@ -714,7 +821,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari forum ini bukan aturan baru, melainkan penegasan bahwa pemerintah mengubah cara menjaga harga pangan, dari sekadar menggelar operasi pasar saat harga naik, menjadi memperbaiki jalur produksi dan distribusi pangan antar daerah lewat kerja sama antar provinsi, kios pangan bergerak, dan kredit bank untuk petani serta nelayan. Yang paling terdampak adalah petani dan nelayan di kawasan kepulauan Sulawesi, Maluku, dan Papua yang selama ini sulit dijangkau pasokan dari daerah lain, serta warga di sana yang bergantung pada pangan kiriman. Pemerintah juga mengklaim sudah menurunkan harga pupuk bersubsidi 20 persen dan menambah jatahnya 700 ribu ton, tapi ini masih klaim Kementerian Pertanian yang belum dicek lembaga independen. Arah besarnya adalah memperkuat pasokan pangan daerah timur Indonesia sebelum musim kering yang disebut berisiko El Nino, dan yang akan membuktikan apakah langkah ini berhasil adalah apakah inflasi bahan pangan bergejolak di kawasan itu tetap di kisaran 3 sampai 5 persen pada data inflasi bulan-bulan mendatang.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "doid-ekuitas-buma-anjlok-94-89-persen-ke-semester-i-2026",

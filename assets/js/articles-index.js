@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kadin-fest-bekasi-2027-padukan-konser-dan-expo-umkm",
+  "category": "UMKM",
+  "title": "KADIN Fest Bekasi 2027 Padukan Konser dan [Expo] UMKM",
+  "deck": "KADIN Kota Bekasi menyiapkan festival musik dua hari dipadukan Pasar Rakyat dan Expo UMKM pada Januari 2027, membidik 40.000 pengunjung.",
+  "date": "24 Oktober 2026",
+  "image": "assets/img/kadin-fest-bekasi-2027-padukan-konser-dan-expo-umkm.jpg",
+  "imageV": "mvljdk4f",
+  "tags": [
+   "KADIN Bekasi",
+   "UMKM",
+   "Festival Musik",
+   "Ekonomi Kreatif"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474700-gelar-kadin-fest-2027-kadin-kota-bekasi-padukan-konser-musik-lintas-generasi-dan-expo-umkm"
+ },
+ {
   "slug": "bike-akui-dana-akuisisi-rk-rp1-t-belum-cair-pne-bum-afiliasi",
   "category": "Aksi Korporasi",
   "title": "BIKE Akui Dana Akuisisi RK Rp1 T Belum Cair, PNE-BUM [Afiliasi]",
@@ -19,6 +36,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec58665d21_7144e352d4.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bayer-luncurkan-aplikasi-digital-untuk-petani-milenial-ri",
+  "category": "Teknologi",
+  "title": "Bayer Luncurkan Aplikasi [Digital] untuk Petani Milenial RI",
+  "deck": "Bayer Indonesia merilis platform FARMRISE yang menggabungkan edukasi tani, info cuaca, dan cek keaslian produk untuk 6,18 juta petani milenial.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/bayer-luncurkan-aplikasi-digital-untuk-petani-milenial-ri.jpg",
+  "imageV": "mvljdkhr",
+  "tags": [
+   "Bayer",
+   "FARMRISE",
+   "petani milenial",
+   "digitalisasi pertanian"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474682-berdayakan-petani-milenial-inovasi-digital-kini-sediakan-akses-belajar-hingga-cek-keaslian-produk"
  },
  {
   "slug": "pssi-tetapkan-rasio-pembagian-saham-treasuri-1-30-rupslb-28-okt",
@@ -53,6 +87,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pertamina-foundation-buka-daycare-umum-di-jakarta",
+  "category": "Ketenagakerjaan",
+  "title": "Pertamina Foundation Buka [Daycare] Umum di Jakarta",
+  "deck": "Pertamina Foundation membuka layanan penitipan anak di kompleks Simprug, Jakarta, untuk umum dengan prioritas bagi pekerja dan civitas akademika Universitas Pertamina.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/pertamina-foundation-buka-daycare-umum-di-jakarta.jpg",
+  "imageV": "mvljdkvl",
+  "tags": [
+   "Pertamina Foundation",
+   "daycare",
+   "pekerja",
+   "Jakarta"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474677-ramah-keluarga-pertamina-foundation-buka-layanan-pengasuhan-anak-untuk-umum"
+ },
+ {
   "slug": "psgo-pks-anak-usaha-terbakar-kontribusi-30-pendapatan-terhenti",
   "category": "Aksi Korporasi",
   "title": "PSGO: PKS Anak Usaha Terbakar, [Kontribusi] 30% Pendapatan Terhenti",
@@ -83,6 +134,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e511f17bd_d1070b5da3.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tanam-2-200-pohon-aren-kek-batang-incar-energi-mandiri",
+  "category": "Energi",
+  "title": "Tanam 2.200 Pohon [Aren], KEK Batang Incar Energi Mandiri",
+  "deck": "KEK Industropolis Batang menanam 2.200 bibit aren bersama PT Mitra Aren Indonesia, menyasar konservasi lingkungan sekaligus potensi bahan baku bioetanol.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/tanam-2-200-pohon-aren-kek-batang-incar-energi-mandiri.jpg",
+  "imageV": "mvljdl9m",
+  "tags": [
+   "aren",
+   "bioetanol",
+   "KEK Batang",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474666-dorong-kemandirian-energi-tanaman-aren-jadi-andalan-baru-di-batang"
  },
  {
   "slug": "smkm-kucurkan-pinjaman-rp30-miliar-ke-afiliasi-milik-pengendali",
@@ -6384,76 +6452,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b3e3b99d07_30f8104bae.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang",
-  "category": "Global",
-  "title": "RI dan Kepulauan Solomon [Dorong] Kerja Sama Dagang",
-  "deck": "Mendag RI dan Menteri Perdagangan Kepulauan Solomon bertemu di sela TEI ke-41, membahas penguatan dagang dan mengusulkan dialog dua tahunan antarpemerintah.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/ri-dan-kepulauan-solomon-dorong-kerja-sama-dagang.jpg",
-  "imageV": "mvb121vr",
-  "tags": [
-   "Kepulauan Solomon",
-   "Trade Expo Indonesia",
-   "ekspor impor",
-   "Kementerian Perdagangan"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-ri-dan-mendag-kepulauan-solomon-bertemu-di-tei-dorong-penguatan-perdagangan-dan-investasi",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ukm-kampus-debut-di-tei-catat-potensi-us-22-56-juta",
-  "category": "UMKM",
-  "title": "UKM Kampus [Debut] di TEI, Catat Potensi US$22,56 Juta",
-  "deck": "25 UKM binaan kampus tampil pertama kali di TEI 2026, mencatat potensi transaksi US$22,56 juta, mayoritas masih berupa surat niat beli dari pembeli Jepang, Belanda, Hong Kong, dan Taiwan.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/ukm-kampus-debut-di-tei-catat-potensi-us-22-56-juta.jpg",
-  "imageV": "mvb123st",
-  "tags": [
-   "UKM",
-   "TEI 2026",
-   "Campuspreneur",
-   "Ekspor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ukm-campuspreneur-tampil-perdana-di-tei-catat-potensi-transaksi-usd-2256-juta",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "kesepakatan-pembiayaan-syariah-isef-tembus-rp27-43-triliun",
-  "category": "Perbankan",
-  "title": "Kesepakatan Pembiayaan Syariah ISEF Tembus [Rp27,43] Triliun",
-  "deck": "Bank Indonesia dan OJK mencatat kesepakatan pembiayaan dan transaksi syariah senilai Rp27,43 triliun dalam rangkaian ISEF 2026, dari proyek perumahan hingga UMKM halal.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/kesepakatan-pembiayaan-syariah-isef-tembus-rp27-43-triliun.jpg",
-  "imageV": "mvb12adt",
-  "tags": [
-   "ISEF 2026",
-   "pembiayaan syariah",
-   "Bank Indonesia",
-   "industri halal"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822526.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "pnm-gandeng-ppi-buka-ekspansi-pasar-produk-mekaar",
-  "category": "UMKM",
-  "title": "PNM Gandeng PPI, Buka [Ekspansi] Pasar Produk Mekaar",
-  "deck": "PNM dan PPI teken nota kesepahaman untuk membuka akses pasar yang lebih luas bagi produk UMKM nasabah program pembiayaan ultra mikro Mekaar.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/pnm-gandeng-ppi-buka-ekspansi-pasar-produk-mekaar.jpg",
-  "imageV": "mvb12b34",
-  "tags": [
-   "PNM",
-   "PPI",
-   "PNM Mekaar",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473407-pnm-bersama-ppi-buka-peluang-ekspansi-pasar-produk-nasabah-mekaar"
  }
 ];

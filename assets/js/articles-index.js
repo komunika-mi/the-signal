@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rgas-pendapatan-9-bulan-anjlok-52-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "RGAS: Pendapatan 9 Bulan Anjlok 52%, [Arus Kas] Operasi Negatif",
+  "deck": "Laporan keuangan interim kuartal III 2026 PT Kian Santang Muliatama Tbk menunjukkan pendapatan turun separuh, meski laba bersih relatif stabil dan arus kas operasi berbalik negatif.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RGAS",
+   "laporan keuangan",
+   "arus kas",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023100902-64582-0/FinancialStatement-2026-III-RGAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-ganti-nama-ke-remitra-ekuitas-jadi-positif",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Ganti Nama ke Remitra, Ekuitas Jadi [Positif]",
+  "deck": "Laporan kuartal III 2026 MKNT, kini bernama PT Remitra Global International, mencatat aset naik ke Rp1,47 triliun dan ekuitas berbalik positif Rp5,65 miliar.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "laporan keuangan",
+   "Remitra Global International",
+   "konsolidasi anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023095154-64811-0/FinancialStatement-2026-III-MKNT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ocap-defisiensi-modal-melebar-ke-rp302-85-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "OCAP: Defisiensi [Modal] Melebar ke Rp302,85 Miliar di Kuartal III",
+  "deck": "Laporan kuartal III 2026 OCAP yang tidak diaudit menunjukkan rugi melebar jadi Rp25,34 miliar dan defisiensi modal makin dalam ke Rp302,85 miliar.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OCAP",
+   "defisiensi modal",
+   "suspensi saham",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023095148-64583-0/FinancialStatement-2026-III-OCAP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "totl-gelar-rupslb-16-november-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "TOTL Gelar RUPSLB 16 November, Bahas Perubahan [Direksi]",
+  "deck": "Total Bangun Persada memanggil RUPSLB pada 16 November 2026 untuk membahas perubahan susunan Direksi dan Dewan Komisaris, dengan pencatatan pemegang saham per 22 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOTL",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/941a3eb35c_ef049ded13.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pidl-tawarkan-obligasi-dan-sukuk-rp3-5-triliun-tahap-ii",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Tawarkan [Obligasi] dan Sukuk Rp3,5 Triliun Tahap II",
+  "deck": "PIDL menawarkan obligasi hingga Rp2,5 triliun dan sukuk mudharabah hingga Rp1 triliun tahap II, dengan penjatahan 26 Oktober dan pencatatan di BEI 29 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIDL",
+   "obligasi",
+   "sukuk",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/961baca13c_6abf54f194.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wamen-investasi-raih-honorary-fellow-dari-asean-di-cafeo-44",
   "category": "Industri",
   "title": "Wamen Investasi Raih [Honorary Fellow] dari ASEAN di CAFEO 44",
@@ -6406,87 +6486,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d6c5de72ef_42fe11f6b8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smar-jawab-bursa-karhutla-tak-ganggu-produksi-sawit-2026",
-  "category": "Aksi Korporasi",
-  "title": "SMAR Jawab Bursa: Karhutla Tak Ganggu [Produksi] Sawit 2026",
-  "deck": "Menanggapi permintaan penjelasan BEI, SMAR menyatakan kebakaran lahan tak berdampak material pada produksi, pendapatan, dan laba sepanjang 2026.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMAR",
-   "karhutla",
-   "kelapa sawit",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb996aeef0_0f7e3e70f1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kunjungan-wisman-capai-10-58-juta-investasi-pariwisata-melesat",
-  "category": "Bisnis",
-  "title": "Kunjungan Wisman Capai 10,58 Juta, [Investasi] Pariwisata Melesat",
-  "deck": "Investasi sektor pariwisata tumbuh 16,64 persen sepanjang 2026, dua kali laju investasi nasional, saat kunjungan wisman naik 5,38 persen menjadi 10,58 juta hingga Agustus.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
-  "tags": [
-   "Pariwisata",
-   "Investasi",
-   "Wisatawan Mancanegara",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7158/pariwisata-indonesia-tumbuh-tangguh-investasi-dan-peluang-usaha-menguat",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "wamendag-soroti-peran-swedia-dalam-i-eu-cepa-di-tei-2026",
-  "category": "Global",
-  "title": "Wamendag Soroti Peran Swedia dalam [I-EU CEPA] di TEI 2026",
-  "deck": "Wamendag Dyah Roro Esti menyoroti peran Swedia dalam I-EU CEPA di forum bisnis Trade Expo Indonesia 2026, dengan nilai dagang RI-Swedia mencapai US$872,2 juta pada 2025.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
-  "tags": [
-   "I-EU CEPA",
-   "Swedia",
-   "Trade Expo Indonesia",
-   "Kementerian Perdagangan"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-kemitraan-ekonomi-eropa-wamendag-soroti-peran-swedia-dan-i-eu-cepa",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "koperasi-merah-putih-mulai-beroperasi-di-jatim",
-  "category": "UMKM",
-  "title": "Koperasi Merah Putih [Mulai] Beroperasi di Jatim",
-  "deck": "Koperasi desa di Jawa Timur mulai menyalurkan beras, LPG, dan bantuan sosial langsung ke warga, menandai uji coba tahap awal program nasional.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/koperasi-merah-putih-mulai-beroperasi-di-jatim.jpg",
-  "imageV": "mv9h1t0o",
-  "tags": [
-   "koperasi merah putih",
-   "kementerian koperasi",
-   "jawa timur",
-   "subsidi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473207-koperasi-merah-putih-mulai-beroperasi-di-jatim-ini-layanan-yang-disiapkan-untuk-masyarakat"
- },
- {
-  "slug": "bris-panggil-rupslb-6-november-bahas-rights-issue-kedua",
-  "category": "Aksi Korporasi",
-  "title": "BRIS Panggil RUPSLB 6 November, Bahas [Rights Issue] Kedua",
-  "deck": "Bank Syariah Indonesia memanggil pemegang saham untuk RUPSLB 6 November 2026, meminta persetujuan rencana penambahan modal lewat hak memesan efek terlebih dahulu kedua (PMHMETD II).",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRIS",
-   "RUPSLB",
-   "rights issue",
-   "PMHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/feb63f52e6_b51b4c1ba4.pdf",
   "sourceLabel": "IDX"
  }
 ];

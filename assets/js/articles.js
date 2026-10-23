@@ -3,6 +3,139 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rgas-pendapatan-9-bulan-anjlok-52-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "RGAS: Pendapatan 9 Bulan Anjlok 52%, [Arus Kas] Operasi Negatif",
+  "deck": "Laporan keuangan interim kuartal III 2026 PT Kian Santang Muliatama Tbk menunjukkan pendapatan turun separuh, meski laba bersih relatif stabil dan arus kas operasi berbalik negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T09:55:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023100902-64582-0/FinancialStatement-2026-III-RGAS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RGAS",
+  "tags": [
+   "RGAS",
+   "laporan keuangan",
+   "arus kas",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Kian Santang Muliatama Tbk (RGAS) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Direktur Utama Edy Nurhamid Amin dalam surat pernyataan direksi tertanggal 22 Oktober 2026. Pendapatan perusahaan turun tajam menjadi Rp83,03 miliar dari Rp175,24 miliar pada periode yang sama tahun lalu, penurunan sekitar 52,6 persen. Meski demikian, laba bruto hanya turun dari Rp24,57 miliar menjadi Rp22,91 miliar karena beban pokok pendapatan ikut menyusut, dan laba bersih tahun berjalan relatif terjaga di Rp3,88 miliar dibandingkan Rp4,00 miliar tahun lalu, dengan laba per saham dasar Rp2,65 dibandingkan Rp2,74.",
+   "Total aset perusahaan naik 5,93 persen menjadi Rp167,29 miliar per 30 September 2026 dari Rp157,93 miliar di akhir 2025. Kenaikan ini terutama didorong oleh persediaan yang melonjak hampir empat kali lipat menjadi Rp55,38 miliar dari Rp15,86 miliar, serta uang muka pembelian yang naik dari Rp195,52 juta menjadi Rp12,01 miliar. Di sisi lain, piutang usaha dari pihak berelasi anjlok dari Rp46,55 miliar menjadi hanya Rp274,29 juta, sementara piutang usaha dari pihak ketiga naik dari Rp8,47 miliar menjadi Rp20,78 miliar, menunjukkan perubahan komposisi penagihan perusahaan. Total liabilitas ikut naik 13,12 persen menjadi Rp61,11 miliar, terutama karena utang bank jangka pendek yang bertambah dari Rp18,72 miliar menjadi Rp26,81 miliar.",
+   "Arus kas dari kegiatan usaha berbalik menjadi negatif Rp8,14 miliar pada periode ini, dari sebelumnya positif Rp17,95 miliar pada sembilan bulan pertama 2025. Kekurangan kas ini sebagian ditutup dari aktivitas pendanaan yang membukukan arus kas masuk Rp6,41 miliar, terutama dari tambahan utang bank, setelah perusahaan juga membayar dividen kas Rp1,61 miliar sepanjang periode. Dalam laporan ini, perseroan juga mencantumkan kepemilikannya di tiga anak usaha yang seluruhnya beroperasi di Bekasi, yaitu PT Ergas Fusion Indonesia dengan kepemilikan 15 persen di bidang pipa plastik dan perdagangan mesin, PT Kian Santang dengan kepemilikan 99 persen di bidang jasa sertifikasi dan kalibrasi, serta PT Karya Instrumindo Simpati dengan kepemilikan 99 persen di bidang alat uji dan alat ukur industri."
+  ],
+  "fotoAdegan": "Technicians inspecting stacked steel pipe fittings and valves in an industrial yard under overcast daylight, Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi RGAS karena pendapatan sembilan bulan susut lebih dari separuh dan uang tunai dari kegiatan usaha justru berbalik minus, tanda bahwa penjualan yang mengecil belum diimbangi penagihan yang lancar. Yang tersentuh adalah arus kas, yakni uang yang benar-benar masuk dan keluar dari operasi sehari-hari, karena di sinilah yang membedakan laba di atas kertas dengan uang yang sungguh tersedia di kas perusahaan. Laba bersih memang masih bertahan di kisaran Rp3,88 miliar, hampir sama dengan tahun lalu, tetapi itu ditopang efisiensi biaya, bukan pertumbuhan penjualan. Persediaan yang melonjak hampir empat kali lipat dan uang muka pembelian yang naik puluhan kali, dibiayai dari tambahan utang bank, menunjukkan perusahaan sedang menimbun stok atau membayar di muka untuk kebutuhan yang belum tentu segera berubah jadi pendapatan. Yang perlu dipantau berikutnya adalah apakah penjualan kuartal IV 2026 membaik dan apakah persediaan serta uang muka yang menumpuk ini benar-benar terserap menjadi pendapatan, sebab laporan ini tidak menyebut rencana atau tenggat spesifik soal itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mknt-ganti-nama-ke-remitra-ekuitas-jadi-positif",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Ganti Nama ke Remitra, Ekuitas Jadi [Positif]",
+  "deck": "Laporan kuartal III 2026 MKNT, kini bernama PT Remitra Global International, mencatat aset naik ke Rp1,47 triliun dan ekuitas berbalik positif Rp5,65 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T09:45:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023095154-64811-0/FinancialStatement-2026-III-MKNT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "laporan keuangan",
+   "Remitra Global International",
+   "konsolidasi anak usaha"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk, emiten dengan kode MKNT, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Dalam dokumen resmi tersebut, nama perusahaan sudah berganti menjadi PT Remitra Global International Tbk, meski kode sahamnya tetap MKNT. Total aset perusahaan melonjak menjadi Rp1,47 triliun per akhir September 2026, naik hampir dua kali lipat dari Rp826,09 miliar pada akhir 2025.",
+   "Lonjakan aset ini terjadi setelah perusahaan mengonsolidasikan dua anak usaha baru, yaitu PT Citra Baru Steel, perusahaan dagang besi dan baja di Serang dengan total aset Rp1,24 triliun dan kepemilikan 99,99 persen, serta PT Radja Udang Malingping, usaha budidaya udang di Serang dengan aset Rp160,10 miliar dan kepemilikan yang sama. Konsolidasi ini membawa pos baru ke neraca, antara lain persediaan Rp637,37 miliar, aset tetap Rp421,81 miliar, dan goodwill Rp52,92 miliar. Akibatnya, ekuitas perusahaan berbalik dari defisit Rp7,35 miliar pada akhir 2025 menjadi positif Rp5,65 miliar pada akhir September 2026.",
+   "Di laporan laba rugi, penjualan bersih tercatat Rp312,70 miliar untuk sembilan bulan ini, dengan laba kotor Rp65,02 miliar dan laba bersih Rp15,16 miliar, berbalik dari rugi Rp1,54 miliar yang dibukukan sepanjang 2025. Laba per saham ikut berbalik menjadi Rp2,76, dari sebelumnya rugi Rp0,28 per saham.",
+   "Di sisi liabilitas, total utang perusahaan naik menjadi Rp1,46 triliun dari Rp833,44 miliar, didorong oleh pinjaman bank jangka pendek baru senilai Rp281,56 miliar dan utang usaha pihak ketiga Rp129,07 miliar. Meski membukukan laba, laporan arus kas menunjukkan kas yang justru terpakai untuk kegiatan operasi sebesar Rp48,47 miliar selama sembilan bulan tersebut."
+  ],
+  "fotoAdegan": "Workers stacking steel bars in an open trading warehouse yard beside a river, overcast afternoon light in West Java",
+  "takeaway": "Laporan ini netral bagi fundamental emiten: ekuitas memang sudah berbalik dari defisit ke positif Rp5,65 miliar dan perusahaan mencatat laba, tapi perbaikan itu ditopang utang baru yang besar sehingga belum bisa dibilang sembuh penuh. Ekuitas, yaitu selisih antara aset dan utang perusahaan, di sini cuma Rp5,65 miliar dibanding total utang Rp1,46 triliun, jadi bantalan keuangannya masih sangat tipis kalau ada kerugian lagi. Arus kas dari operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan jual beli sehari-hari, malah negatif Rp48,47 miliar dalam sembilan bulan ini, padahal laporan laba rugi mencatat untung Rp15,16 miliar, tanda sebagian keuntungan di atas kertas belum jadi uang di tangan. Yang perlu dipantau berikutnya adalah apakah arus kas operasi bisa berbalik positif pada laporan kuartal selanjutnya, dan apakah status Pemantauan Khusus di Bursa Efek Indonesia yang masih melekat pada saham ini mulai bisa dicabut sekarang ekuitasnya tidak lagi negatif.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ocap-defisiensi-modal-melebar-ke-rp302-85-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "OCAP: Defisiensi [Modal] Melebar ke Rp302,85 Miliar di Kuartal III",
+  "deck": "Laporan kuartal III 2026 OCAP yang tidak diaudit menunjukkan rugi melebar jadi Rp25,34 miliar dan defisiensi modal makin dalam ke Rp302,85 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T09:38:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023095148-64583-0/FinancialStatement-2026-III-OCAP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OCAP",
+  "tags": [
+   "OCAP",
+   "defisiensi modal",
+   "suspensi saham",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Onix Capital Tbk (OCAP) menyampaikan laporan keuangan interim untuk sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia, tidak diaudit. Bersamaan dengan itu, Direktur Utama Tjie Ping Astono mengirim surat terpisah yang menjelaskan sebab perubahan lebih dari 20 persen pada akun-akun di laporan keuangan dibandingkan akhir 2025. Perusahaan menyebut tiga pos yang menyusut tajam: kas dan setara kas turun 35,68 persen, piutang bunga turun 65,48 persen, dan aset tetap turun 65,86 persen. Akibatnya, total aset OCAP susut dari Rp9,43 miliar pada akhir 2025 menjadi Rp6,08 miliar pada akhir September 2026, angka yang memang kecil karena OCAP sudah bukan lagi perusahaan efek aktif sejak keanggotaan bursanya dicabut pada 2013.",
+   "Rugi bersih OCAP melebar menjadi Rp25,34 miliar untuk sembilan bulan 2026, dari Rp22,41 miliar pada periode yang sama tahun lalu. Perusahaan tidak mencatat pendapatan usaha sama sekali di kedua periode karena model bisnisnya kini murni sebagai perusahaan holding tanpa kegiatan operasional aktif. Beban terbesar datang dari kerugian selisih kurs mata uang asing yang mencapai Rp20,2 miliar, naik dari Rp16,82 miliar, ditambah beban bunga Rp2,3 miliar atas utang kepada pihak berelasi. Dengan rugi yang terus bertambah sementara modal disetor tidak berubah dari Rp54,64 miliar, defisiensi modal atau ekuitas negatif OCAP melebar dari Rp277,51 miliar menjadi Rp302,85 miliar, yang berarti total utang perusahaan sudah jauh melampaui total asetnya.",
+   "Di sisi liabilitas, utang kepada pihak berelasi jangka pendek naik dari Rp101,58 miliar menjadi Rp109,38 miliar, dan utang subordinasi jangka panjang kepada pemegang saham naik dari Rp165,69 miliar menjadi Rp178,09 miliar. Laporan arus kas menunjukkan kegiatan operasi menyedot kas Rp3,35 miliar sepanjang sembilan bulan ini. Pada periode yang sama tahun lalu, perusahaan masih menerima pencairan utang baru dari pihak berelasi senilai Rp12,39 miliar yang menambal kas, sementara pada 2026 tidak ada pencairan serupa, sehingga kas perusahaan yang tersisa hanya Rp6,04 miliar, turun dari Rp9,39 miliar pada akhir 2025.",
+   "Saham OCAP sendiri sudah disuspensi oleh Bursa Efek Indonesia di seluruh pasar sejak 1 September 2020. Pada September 2023, BEI mengumumkan potensi delisting OCAP setelah saham perusahaan disuspensi selama 36 bulan berturut-turut. Sebanyak 273,2 juta saham OCAP, dengan nilai nominal Rp200 per saham, tetap tercatat di papan pemantauan khusus hingga laporan ini disampaikan."
+  ],
+  "fotoAdegan": "A narrow street of aging shophouse offices in central Jakarta, parked motorbikes along the curb, overcast afternoon light",
+  "takeaway": "Laporan ini jelas condong negatif bagi pemegang saham OCAP, karena hampir semua indikator memburuk sekaligus: rugi melebar, aset menyusut, dan utang ke pemegang saham justru membesar. Pos yang paling tersentuh adalah ekuitas, yaitu selisih antara seluruh aset dan seluruh utang perusahaan; ketika utang sudah jauh melampaui aset seperti pada OCAP, perusahaan disebut mengalami defisiensi modal, kondisi yang membuat pemegang saham lama berisiko tidak mendapat apa-apa jika perusahaan dibubarkan. Arus kas operasi yang negatif juga penting dicermati karena menunjukkan kegiatan sehari-hari perusahaan sama sekali tidak menghasilkan uang, sehingga selama ini OCAP bertahan dari suntikan utang baru dari pemegang sahamnya sendiri, bukan dari bisnis yang berjalan. Yang perlu dipantau selanjutnya adalah apakah pemegang saham pengendali masih bersedia menambah pinjaman seperti Rp12,39 miliar yang cair tahun lalu, sebab tanpa suntikan itu kas OCAP yang kini hanya Rp6,04 miliar bisa cepat terkuras, serta bagaimana laporan audit penuh tahun buku 2026 nanti menggambarkan kelanjutan status suspensi saham yang sudah berjalan sejak September 2020.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "totl-gelar-rupslb-16-november-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "TOTL Gelar RUPSLB 16 November, Bahas Perubahan [Direksi]",
+  "deck": "Total Bangun Persada memanggil RUPSLB pada 16 November 2026 untuk membahas perubahan susunan Direksi dan Dewan Komisaris, dengan pencatatan pemegang saham per 22 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T09:33:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/941a3eb35c_ef049ded13.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOTL",
+  "tags": [
+   "TOTL",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "Total Bangun Persada Tbk (TOTL) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 16 November 2026 pukul 09.30 WIB di kantor pusat perusahaan, Jalan Letjen S. Parman No. 106, Jakarta, sekaligus secara elektronik melalui sistem eASY.KSEI. Agenda tunggal rapat adalah perubahan susunan Direksi dan Dewan Komisaris Perseroan, sejalan dengan Peraturan OJK No. 33/POJK.04/2014 yang mewajibkan setiap perubahan jajaran direksi dan komisaris emiten mendapat persetujuan RUPS.",
+   "Pemegang saham yang berhak hadir dan memberi suara adalah yang tercatat dalam Daftar Pemegang Saham per Kamis, 22 Oktober 2026 pukul 16.00 WIB untuk saham berbentuk warkat, atau yang tercatat di Kustodian Sentral Efek Indonesia (KSEI) pada penutupan perdagangan tanggal yang sama untuk saham tanpa warkat. Kehadiran fisik di lokasi rapat dibatasi hanya untuk profesi penunjang pasar modal yang ditunjuk, sedikitnya satu anggota Direksi dan/atau satu anggota Dewan Komisaris, serta pimpinan rapat. Pemegang saham lain diarahkan mengikuti rapat lewat aplikasi eASY.KSEI atau memberi kuasa elektronik (e-proxy).",
+   "Perseroan menetapkan batas waktu deklarasi kehadiran elektronik dan pemberian suara pada 13 November 2026 pukul 12.00 WIB. Bagi pemegang saham dengan saham warkat yang ingin memberi kuasa konvensional kepada pihak independen, yaitu staf PT Adimitra Jasa Korpora selaku biro administrasi efek yang ditunjuk perusahaan, surat kuasa beserta identitas pemberi kuasa harus disampaikan paling lambat 13 November 2026 pukul 16.00 WIB melalui email ke corsec@totalbp.com atau ke kantor Adimitra Jasa Korpora di Kelapa Gading, Jakarta Utara."
+  ],
+  "fotoAdegan": "Construction workers in hard hats checking rebar on a highrise building site in Jakarta, cranes visible, late afternoon light",
+  "takeaway": "Pemanggilan ini condong netral bagi TOTL, sebab dokumen baru mengumumkan jadwal dan mekanisme rapat, belum menyebut nama-nama yang diusulkan masuk atau keluar dari jajaran Direksi dan Dewan Komisaris, sehingga pasar belum punya dasar untuk menilai dampaknya. Perubahan susunan direksi dan komisaris biasanya disorot karena memengaruhi arah strategi dan kredibilitas pengambilan keputusan perusahaan, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, jadi dampaknya lebih ke tata kelola ketimbang ke angka di laporan keuangan. Yang perlu dipantau adalah pelaksanaan RUPSLB pada 16 November 2026 dan keputusan resmi soal siapa yang akan mengisi kursi Direksi dan Dewan Komisaris yang baru. Pemegang saham yang ingin hadir secara elektronik juga punya tenggat mendeklarasikan kehadiran dan memberi suara paling lambat 13 November 2026 pukul 12.00 WIB, sebelum rapat berlangsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pidl-tawarkan-obligasi-dan-sukuk-rp3-5-triliun-tahap-ii",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Tawarkan [Obligasi] dan Sukuk Rp3,5 Triliun Tahap II",
+  "deck": "PIDL menawarkan obligasi hingga Rp2,5 triliun dan sukuk mudharabah hingga Rp1 triliun tahap II, dengan penjatahan 26 Oktober dan pencatatan di BEI 29 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T05:48:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/961baca13c_6abf54f194.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIDL",
+  "tags": [
+   "PIDL",
+   "obligasi",
+   "sukuk",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Pindo Deli Pulp And Paper Mills (PIDL) menawarkan Obligasi Berkelanjutan II Tahap II Tahun 2026 senilai sebanyak-banyaknya Rp2,5 triliun dan Sukuk Mudharabah Berkelanjutan II Tahap II Tahun 2026 senilai sebanyak-banyaknya Rp1 triliun. Keduanya merupakan bagian dari program penawaran umum berkelanjutan dengan target total Rp10,5 triliun untuk obligasi dan Rp2 triliun untuk sukuk, setelah tahap pertama masing-masing menghimpun Rp455,965 miliar dan Rp487,455 miliar.",
+   "Untuk obligasi, dana sebesar Rp1.016.455.000.000 dijamin penuh (full commitment) dan terbagi dua seri. Seri A senilai Rp918.465.000.000 berbunga tetap 10 persen per tahun dengan tenor 3 tahun, jatuh tempo 28 Oktober 2029. Seri B senilai Rp97.990.000.000 berbunga tetap 10,5 persen per tahun dengan tenor 5 tahun, jatuh tempo 28 Oktober 2031. Sisanya sebanyak-banyaknya Rp1.483.545.000.000 dijamin dengan skema best effort, artinya jika porsi ini tidak laku terjual seluruhnya, perseroan tidak wajib menerbitkan sisa obligasi tersebut.",
+   "Pada sukuk mudharabah, dana Rp915.220.000.000 dijamin penuh dengan Seri A senilai Rp818.990.000.000 memakai nisbah bagi hasil 22,85 persen yang setara imbal hasil 10 persen per tahun selama 3 tahun, dan Seri B senilai Rp96.230.000.000 memakai nisbah 23,99 persen setara 10,5 persen per tahun selama 5 tahun. Sisa Rp84.780.000.000 juga dijamin dengan skema best effort.",
+   "Masa penawaran berlangsung 23 Oktober 2026, dengan penjatahan pada 26 Oktober, pengembalian uang pemesanan dan distribusi elektronik pada 28 Oktober, serta pencatatan di Bursa Efek Indonesia pada 29 Oktober 2026. Pefindo memberi peringkat idA+ untuk obligasi dan idA+ syariah untuk sukuk, sementara PT Kredit Rating Indonesia memberi irAA- dan irAA- syariah. Wali amanat dalam penerbitan ini adalah PT Bank KB Indonesia Tbk, dengan penjamin pelaksana emisi terdiri dari PT Aldiracita Sekuritas Indonesia, PT BNI Sekuritas, PT BRI Danareksa Sekuritas, PT Indo Premier Sekuritas, PT KB Valbury Sekuritas, PT Korea Investment and Sekuritas Indonesia, PT Mandiri Sekuritas, PT Maybank Sekuritas Indonesia, PT Sucor Sekuritas, dan PT Trimegah Sekuritas Indonesia Tbk."
+  ],
+  "fotoAdegan": "Workers in protective gear monitoring large rolls of paper moving along a conveyor inside an industrial pulp and paper mill",
+  "takeaway": "Laporan ini condong netral karena penerbitan tahap II ini memang sudah direncanakan sejak program berkelanjutan dinyatakan efektif pada 30 Juni 2026, bukan langkah dadakan yang mengubah arah bisnis perusahaan. Yang tersentuh adalah beban bunga dan arus kas, sebab PIDL wajib membayar bunga tetap 10 sampai 10,5 persen per tahun setiap tiga bulan atas dana yang terserap, sehingga sebagian arus kas ke depan akan terpakai untuk cicilan itu sampai jatuh tempo pada 2029 dan 2031. Peringkat idA+ dari Pefindo dan irAA- dari Kredit Rating Indonesia menunjukkan risiko gagal bayar dinilai relatif terkendali, meski obligasi dan sukuk ini tidak dijamin aset khusus milik perseroan. Yang perlu dipantau berikutnya adalah hasil penjatahan pada 26 Oktober 2026 dan pencatatan di BEI pada 29 Oktober 2026, terutama apakah porsi yang hanya dijamin best effort senilai Rp1,48 triliun untuk obligasi dan Rp84,78 miliar untuk sukuk benar-benar terserap penuh oleh investor.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wamen-investasi-raih-honorary-fellow-dari-asean-di-cafeo-44",
   "category": "Industri",
   "title": "Wamen Investasi Raih [Honorary Fellow] dari ASEAN di CAFEO 44",

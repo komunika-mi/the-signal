@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "0XET8vbTNw8",
+  "title": "Ekonom Indef Soroti Mafia Pangan dan Logistik di 2 Tahun Presiden Prabowo",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Ekonom Indef memberikan catatan kritis atas kinerja ekonomi pemerintahan Presiden Prabowo Subianto selama dua tahun, termasuk soal pembenahan mafia pangan dan sektor logistik yang dinilai masih bermasalah.",
+  "takeaway": "Evaluasi independen ini penting bagi pembaca untuk memahami tantangan struktural ekonomi pangan dan logistik yang masih dihadapi pemerintah.",
+  "terbit": "2026-10-23T13:30:03+00:00"
+ },
+ {
+  "id": "lWJ2RJja7Hc",
+  "title": "Menko Bahlil Resmikan Proyek Gas Jangkrik-Maha",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi, Bahlil Lahadalia, meresmikan proyek gas Jangkrik-Maha yang diproyeksikan menambah pasokan gas nasional sekitar 290 MMSCFD.",
+  "takeaway": "Penambahan pasokan gas ini relevan bagi pembaca karena berkaitan langsung dengan ketahanan energi dan produksi gas nasional.",
+  "terbit": "2026-10-23T13:19:04+00:00"
+ },
+ {
   "id": "8bvxkTwWnls",
   "title": "Bursa Lowongan Kerja di Jakarta Diserbu Pencari Kerja",
   "category": "Ketenagakerjaan",

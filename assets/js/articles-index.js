@@ -5,6 +5,71 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-targetkan-seluruh-desa-berlistrik-pada-2029",
+  "category": "Energi",
+  "title": "ESDM Targetkan Seluruh Desa Berlistrik pada [2029]",
+  "deck": "Menteri ESDM Bahlil Lahadalia membatasi alokasi RKAB perusahaan tambang besar dan menetapkan 2029 sebagai tenggat listrik merata ke sekitar 11.000 desa yang masih gelap.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/esdm-targetkan-seluruh-desa-berlistrik-pada-2029.jpg",
+  "imageV": "mvl0vo8v",
+  "tags": [
+   "ESDM",
+   "RKAB",
+   "Elektrifikasi",
+   "Pertambangan"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hut-pertambangan-dan-energi-ke-81-bahlil-perintahkan-insan-esdm-pilih-kepentingan-rakyat",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "esdm-kerek-target-penerimaan-jadi-rp165-triliun",
+  "category": "Energi",
+  "title": "ESDM Kerek Target Penerimaan Jadi [Rp165] Triliun",
+  "deck": "Menteri ESDM Bahlil Lahadalia menaikkan target penerimaan negara bukan pajak 2026 jadi Rp165 triliun, dari target awal sekitar Rp136 triliun.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/esdm-kerek-target-penerimaan-jadi-rp165-triliun.jpg",
+  "imageV": "mvl0vq3b",
+  "tags": [
+   "PNBP ESDM",
+   "Batu Bara",
+   "Hilirisasi Nikel",
+   "Lifting Migas"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/lampaui-target-pada-2025-pnbp-esdm-kini-dipatok-rp165-triliun",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "kemendag-klaim-ekspor-tumbuh-4-74-persen-di-dua-tahun-kabinet",
+  "category": "Makroekonomi",
+  "title": "Kemendag Klaim Ekspor Tumbuh 4,74 Persen di [Dua Tahun] Kabinet",
+  "deck": "Kemendag mengklaim tiga program prioritas mendorong ekspor dan melindungi pasar dalam negeri, ditandai perjanjian dagang baru dan aturan e-commerce yang memihak UMKM.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/pasar-beras.jpg",
+  "tags": [
+   "ekspor",
+   "Kemendag",
+   "UMKM",
+   "perdagangan internasional"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dua-tahun-kabinet-tiga-program-prioritas-kemendag-berkontribusi-dorong-kinerja-perdagangan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "umkm-kriya-yogyakarta-dibekali-aturan-ekspor-ke-uni-eropa",
+  "category": "UMKM",
+  "title": "UMKM Kriya Yogyakarta Dibekali Aturan [Ekspor] ke Uni Eropa",
+  "deck": "Kemendag melatih 215 pelaku UMKM kriya Yogyakarta memenuhi standar mutu dan aturan bebas deforestasi Uni Eropa sebelum produk mereka dikirim ke pasar ekspor.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/umkm-kriya-yogyakarta-dibekali-aturan-ekspor-ke-uni-eropa.jpg",
+  "imageV": "mvl0vvzh",
+  "tags": [],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-sektor-kriya-yogyakarta-kemendag-sinergikan-mutu-standardisasi-dan-kekayaan-intelektual-untuk-akselerasi-ekspor",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "enrg-catatkan-obligasi-rp500-miliar-tahap-v-di-bei",
   "category": "Aksi Korporasi",
   "title": "ENRG Catatkan [Obligasi] Rp500 Miliar Tahap V di BEI",
@@ -1239,7 +1304,7 @@ var ARTICLES = [
   "title": "Pemerintah Pasang Target Pertumbuhan [6%] untuk 2027",
   "deck": "Pemerintah mengklaim stabilitas ekonomi domestik masih solid, dengan investasi tumbuh 7,3 persen, sebagai dasar menaikkan target pertumbuhan ke 6 persen pada 2027.",
   "date": "22 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7177/pemerintah-jaga-stabilitas-ekonomi-dalam-negeri-untuk-pertahankan-kepercayaan-investor",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
@@ -2237,7 +2302,7 @@ var ARTICLES = [
   "title": "Investasi KEK Baru [Rp46] Triliun, Kejar Target Rp69 Triliun",
   "deck": "Realisasi investasi di 25 kawasan ekonomi khusus capai Rp46 triliun hingga September 2026, baru dua pertiga dari target Rp69 triliun tahun ini.",
   "date": "21 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "KEK",
    "Investasi",
@@ -6398,70 +6463,6 @@ var ARTICLES = [
    "piutang usaha"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fa97bd728e_4adeb1955c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-jawab-18-pertanyaan-bursa-soal-kelangsungan-usaha",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Jawab 18 Pertanyaan Bursa Soal [Kelangsungan Usaha]",
-  "deck": "Perseroan menjawab 18 pertanyaan BEI soal kelangsungan usaha, memaparkan suntikan modal Rp1,02 triliun yang membalik ekuitas dari minus jadi positif tipis Rp5,65 miliar.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "kelangsungan usaha",
-   "Bank Mandiri",
-   "Citra Baru Steel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ad144a5ced_3049781c37.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-buyback-saham-tembus-2-49-harga-naik-ke-rp3-097",
-  "category": "Aksi Korporasi",
-  "title": "PRDA: Buyback Saham Tembus [2,49%], Harga Naik ke Rp3.097",
-  "deck": "Prodia Widyahusada melaporkan realisasi pembelian kembali saham hingga 16 Oktober 2026, total buyback mencapai 2,49 persen dari saham tercatat dengan sisa dana Rp83,03 miliar.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "buyback saham",
-   "Prodia Widyahusada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f9ac20fb88_b6af8f8a72.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lckm-masuk-daftar-pemantauan-khusus-bei-mulai-19-oktober",
-  "category": "Aksi Korporasi",
-  "title": "LCKM Masuk Daftar [Pemantauan Khusus] BEI Mulai 19 Oktober",
-  "deck": "Bursa Efek Indonesia memasukkan saham PT LCK Global Kedaton Tbk (LCKM) ke daftar pemantauan khusus mulai 19 Oktober 2026 karena masalah pendapatan usaha.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LCKM",
-   "pemantauan khusus",
-   "BEI",
-   "watchlist saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cef20c4446_dbf1ced131.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sgro-jelaskan-dampak-karhutla-ke-bursa-klaim-tak-material",
-  "category": "Aksi Korporasi",
-  "title": "SGRO Jelaskan Dampak [Karhutla] ke Bursa, Klaim Tak Material",
-  "deck": "SGRO merespons permintaan penjelasan Bursa terkait karhutla, menyatakan tidak ada dampak material terhadap operasi, produksi, dan keuangan perseroan hingga saat ini.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SGRO",
-   "karhutla",
-   "sawit",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ce2035d71c_2b97e01690.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "0XET8vbTNw8",
+  "title": "Ekonom Indef Soroti Mafia Pangan dan Logistik di 2 Tahun Presiden Prabowo",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Ekonom Indef memberikan catatan kritis atas kinerja ekonomi pemerintahan Presiden Prabowo Subianto selama dua tahun, termasuk soal pembenahan mafia pangan dan sektor logistik yang dinilai masih bermasalah.",
+  "takeaway": "Evaluasi independen ini penting bagi pembaca untuk memahami tantangan struktural ekonomi pangan dan logistik yang masih dihadapi pemerintah."
+ },
+ {
+  "id": "lWJ2RJja7Hc",
+  "title": "Menko Bahlil Resmikan Proyek Gas Jangkrik-Maha",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi, Bahlil Lahadalia, meresmikan proyek gas Jangkrik-Maha yang diproyeksikan menambah pasokan gas nasional sekitar 290 MMSCFD.",
+  "takeaway": "Penambahan pasokan gas ini relevan bagi pembaca karena berkaitan langsung dengan ketahanan energi dan produksi gas nasional."
+ },
+ {
   "id": "8bvxkTwWnls",
   "title": "Bursa Lowongan Kerja di Jakarta Diserbu Pencari Kerja",
   "category": "Ketenagakerjaan",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "Kunjungan ke sebuah perusahaan energi memperlihatkan bagaimana sampah yang selama ini dianggap masalah kini diolah menjadi listrik, termasuk pemanfaatan residunya.",
   "takeaway": "Topik ini relevan bagi pembaca ekonomi karena menyangkut diversifikasi sumber energi dan efisiensi industri pengolahan sampah."
- },
- {
-  "id": "JhG4eAZKRRk",
-  "title": "Kementrans Pelajari Teknologi Pertanian Modern di China",
-  "category": "Industri",
-  "program": "Kabar Hari Ini",
-  "summary": "Kementerian Transmigrasi menjajaki penerapan teknologi pertanian modern, hilirisasi, dan industrialisasi pedesaan lewat kunjungan kerja ke China.",
-  "takeaway": "Menyangkut arah kebijakan hilirisasi dan industrialisasi pedesaan yang berpotensi mengubah struktur ekonomi di sektor pertanian dalam negeri."
- },
- {
-  "id": "oEAy4T11ows",
-  "title": "Anindya Bakrie: Perempuan Berperan Penting dalam Ekonomi RI",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menegaskan peran penting perempuan dalam menggerakkan perekonomian nasional saat menghadiri IWBIF 2026.",
-  "takeaway": "Pandangan Ketua Kadin ini relevan bagi pembaca ekonomi karena menyoroti kontribusi perempuan terhadap dunia usaha dan investasi di Indonesia."
  }
 ];

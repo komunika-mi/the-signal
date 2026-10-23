@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bike-akui-dana-akuisisi-rk-rp1-t-belum-cair-pne-bum-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Akui Dana Akuisisi RK Rp1 T Belum Cair, PNE-BUM [Afiliasi]",
+  "deck": "BIKE menjawab permintaan penjelasan Bursa soal status akuisisi RK, PNE, dan BUM yang melibatkan pihak terafiliasi serta pinjaman Rp1 triliun yang belum cair.",
+  "date": "24 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "afiliasi",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec58665d21_7144e352d4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pssi-tetapkan-rasio-pembagian-saham-treasuri-1-30-rupslb-28-okt",
   "category": "Aksi Korporasi",
   "title": "PSSI Tetapkan Rasio Pembagian Saham [Treasuri] 1:30, RUPSLB 28 Okt",
@@ -6438,22 +6454,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d4065c90f4_eca313b776.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bjbr-siapkan-dana-lunasi-obligasi-rp74-miliar-18-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BJBR Siapkan Dana, [Lunasi] Obligasi Rp74 Miliar 18 Oktober",
-  "deck": "Bank bjb menyatakan siap melunasi pokok dan bunga Obligasi Seri C senilai Rp75,62 miliar yang jatuh tempo 18 Oktober 2026; efek ini berhenti diperdagangkan di bursa mulai 19 Oktober.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BJBR",
-   "obligasi",
-   "bank bjb",
-   "jatuh tempo obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f2bce3332a_fef25fc41a.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bike-akui-dana-akuisisi-rk-rp1-t-belum-cair-pne-bum-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Akui Dana Akuisisi RK Rp1 T Belum Cair, PNE-BUM [Afiliasi]",
+  "deck": "BIKE menjawab permintaan penjelasan Bursa soal status akuisisi RK, PNE, dan BUM yang melibatkan pihak terafiliasi serta pinjaman Rp1 triliun yang belum cair.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Oktober 2026",
+  "isoDate": "2026-10-24T00:22:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec58665d21_7144e352d4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "afiliasi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) menyampaikan tanggapan tertulis kepada Bursa Efek Indonesia tertanggal 23 Oktober 2026, menjawab surat permintaan penjelasan BEI nomor S-13293/BEI.PP3/10-2026 tanggal 21 Oktober 2026. Surat itu meminta BIKE merinci tiga keterbukaan informasi sebelumnya, yaitu rencana akuisisi PT Ratu Karya (RK) pada 18 September 2026, PT Prambanan Nusantara Energi (PNE) pada 9 Oktober 2026, dan susulan soal PT Berau Usaha Mandiri (BUM) serta PT Sumber Bara Abadi (SBA) pada 12 Oktober 2026.",
+   "Untuk RK, BIKE mengakui dana pinjaman Rp1 triliun dari PT Penajam Makmur Jaya (PMJ) yang sedianya membeli 99 persen saham RK milik PT Mega Teknologi Investama (MTI), belum juga dicairkan karena kantor jasa penilai publik (KJPP) masih menyusun kajian kewajaran harga atau fairness opinion atas transaksi itu. MTI sendiri adalah pihak terafiliasi BIKE, karena BIKE memegang 99 persen saham MTI. Meski pendanaannya belum tuntas, BIKE sudah menyebut RK sebagai entitas anak efektif sejak 16 Juli 2026, dan berjanji akan merevisi keterbukaan informasi menyesuaikan status transaksi yang sebenarnya. RK bergerak menyediakan kios dan rumah susun bagi lebih dari 3.000 pedagang pasar tradisional terdaftar di Pasar Jaya, sebagai bagian proyek kawasan Pasar Minggu berkonsep transit terintegrasi, dengan konstruksi fisik ditargetkan mulai Juni 2027 setelah tahap desain awal, desain teknis rinci, dan izin lingkungan serta bangunan selesai.",
+   "Untuk PNE, BIKE mengakuisisinya secara tidak langsung lewat PT Fahreza Bumi Mega (FBM) yang memegang 9.900 dari 10.000 saham PNE atau 99 persen. BIKE menyatakan transaksi ini juga terafiliasi karena ada kesamaan pihak pengendali. Laporan keuangan PNE yang dilampirkan menunjukkan lonjakan tajam dalam waktu singkat: aset naik dari Rp31,5 miliar pada akhir 2025 menjadi Rp87,3 miliar per 26 September 2026, sementara pendapatan yang nol sepanjang 2024 dan 2025 melonjak menjadi Rp112,5 miliar, dan laba bersih berubah dari rugi Rp76,8 juta menjadi untung Rp35,4 miliar. Kontrak terbesar PNE yang disebutkan adalah pengelolaan wilayah kerja Akimuegah II dengan skema bagi hasil senilai Rp22,5 miliar yang ditandatangani 15 Agustus 2025.",
+   "Adapun BUM, perusahaan tambang batu bara di Berau, Kalimantan Timur, telah efektif diakuisisi 72 persen sahamnya oleh PNE pada 7 Oktober 2026 menggunakan kas internal PNE, dan BIKE menyatakan tidak ada afiliasi dengan pemegang saham lama BUM. Saham 37 persen milik PT Anindhita Kaharya Anugrah, 18 persen milik Bambang Nindianto, 2 persen milik Joinerri Kahar, dan 15 persen milik Muharna Deserian seluruhnya beralih ke PNE, sementara Wane Kristanti tetap memegang 28 persen dan tercatat sebagai pemilik manfaat. Keuangan BUM juga melonjak signifikan, dari aset Rp94,7 miliar dan ekuitas Rp30,1 miliar pada 2024, menjadi aset Rp804,8 miliar dan ekuitas Rp628,8 miliar per akhir September 2026, dengan laba bersih naik dari Rp17,4 miliar menjadi Rp297,6 miliar pada periode yang sama. BIKE juga menyinggung SBA, perusahaan tambang batu bara yang berdiri sejak 2004, namun rincian keuangannya belum lengkap disampaikan dalam tanggapan ini."
+  ],
+  "fotoAdegan": "Open-pit coal mine in Kalimantan with excavators loading haul trucks under overcast sky, dusty access road",
+  "takeaway": "Laporan ini condong negatif bagi BIKE karena mengonfirmasi bahwa pinjaman Rp1 triliun dari PMJ untuk membeli RK belum cair, status anak usaha RK dan PNE sudah diumumkan lebih dulu padahal transaksinya belum tuntas, dan rantai akuisisi ini melibatkan pihak terafiliasi, yaitu MTI yang 99 persen sahamnya dimiliki BIKE sendiri serta PNE yang disebut BIKE sepengendali dengannya. Yang perlu dicermati pemegang saham adalah ekuitas BIKE, yaitu selisih antara aset dan utang perusahaan, karena begitu RK, PNE, dan BUM terkonsolidasi penuh, aset dan utang gabungan yang masuk ke buku BIKE mencapai ratusan miliar rupiah, sementara pinjaman Rp1 triliun dari PMJ, jika akhirnya cair, akan menambah beban bunga yang harus ditanggung perseroan. Lonjakan tajam pendapatan dan laba PNE serta BUM dalam waktu kurang dari setahun, dari nyaris nol menjadi puluhan hingga ratusan miliar rupiah, juga perlu diwaspadai karena kualitas aset dan keberlanjutan laba semacam itu baru benar-benar teruji pada beberapa periode laporan berikutnya. Yang akan menentukan kelanjutan cerita ini adalah hasil kajian kewajaran harga dari KJPP atas pinjaman PMJ serta revisi keterbukaan informasi yang dijanjikan BIKE begitu status akuisisi RK dan PNE benar-benar rampung.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pssi-tetapkan-rasio-pembagian-saham-treasuri-1-30-rupslb-28-okt",
   "category": "Aksi Korporasi",
   "title": "PSSI Tetapkan Rasio Pembagian Saham [Treasuri] 1:30, RUPSLB 28 Okt",

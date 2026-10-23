@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pajak-ntb-tembus-rp2-18-triliun-tumbuh-15-36",
+  "category": "Makroekonomi",
+  "title": "Pajak NTB Tembus Rp2,18 Triliun, [Tumbuh] 15,36%",
+  "deck": "Realisasi pajak Nusa Tenggara Barat hingga September 2026 mencapai Rp2.184,05 miliar, naik 15,36 persen, dengan aturan baru soal kuasa wajib pajak dan pajak final UMKM turut disosialisasikan.",
+  "image": "assets/img/pajak-ntb-tembus-rp2-18-triliun-tumbuh-15-36.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T08:34:32.865Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kinerja-penerimaan-pajak-ntb-tetap-terjaga-hingga-triwulan-iii-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "Pajak",
+   "NTB",
+   "DJP",
+   "PPh Final"
+  ],
+  "body": [
+   "Kantor Wilayah Direktorat Jenderal Pajak (DJP) Nusa Tenggara melaporkan realisasi penerimaan pajak di Provinsi Nusa Tenggara Barat hingga akhir September 2026 mencapai Rp2.184,05 miliar, tumbuh 15,36 persen dibandingkan periode yang sama tahun sebelumnya. Kepala Kanwil DJP Nusa Tenggara, Judiana Manihuruk, menyampaikan data ini dalam forum Asset and Liability Committee Regional di Kantor Wilayah Direktorat Jenderal Perbendaharaan, Mataram. Angka ini menjadi salah satu indikator kontribusi NTB terhadap penerimaan negara serta gambaran aktivitas ekonomi di provinsi tersebut sepanjang tahun.",
+   "Dari jenis pajaknya, penerimaan NTB masih ditopang Pajak Penghasilan sebesar Rp1.367,92 miliar dan Pajak Pertambahan Nilai sebesar Rp1.028,11 miliar. Secara sektoral, porsi terbesar berasal dari sektor administrasi pemerintahan senilai Rp909,67 miliar, diikuti sektor perdagangan Rp373,90 miliar, jasa keuangan Rp163,47 miliar, akomodasi Rp141,53 miliar, dan jasa usaha Rp129,52 miliar.",
+   "Kepatuhan pelaporan pajak juga tercatat naik. Jumlah Surat Pemberitahuan (SPT) Tahunan Pajak Penghasilan yang masuk di NTB hingga 30 September 2026 mencapai 196.166 SPT, naik 6,53 persen dari periode yang sama tahun lalu, terdiri dari 182.076 SPT milik orang pribadi dan 14.090 SPT milik badan usaha.",
+   "Dalam kesempatan itu, Kanwil DJP Nusa Tenggara juga mengingatkan dua aturan yang berlaku bagi wajib pajak. Pertama, Peraturan Pemerintah Nomor 20 Tahun 2026 menegaskan tarif pajak final 0,5 persen tetap berlaku bagi wajib pajak orang pribadi, perseroan perorangan, dan koperasi dengan omzet usaha hingga Rp4,8 miliar setahun, dengan pengecualian bagi orang pribadi yang omzetnya di bawah Rp500 juta setahun sehingga tidak dikenai pajak tersebut. Kedua, Peraturan Menteri Keuangan Nomor 44 Tahun 2026 mengatur lebih rinci siapa saja yang bisa menjadi kuasa wajib pajak, syarat yang harus dipenuhi, serta cara pemberian kuasa secara elektronik maupun kertas."
+  ],
+  "fotoAdegan": "Vendors arranging produce and goods at a busy traditional market street in Mataram, motorbikes parked nearby, morning light",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Dari angka yang dipaparkan, porsi terbesar penerimaan pajak NTB datang dari sektor administrasi pemerintahan, sekitar 42 persen dari total Rp2,18 triliun, jauh di atas sektor perdagangan maupun akomodasi hotel dan restoran yang biasanya identik dengan geliat wisata Lombok dan sekitarnya. Artinya pertumbuhan pajak di NTB saat ini lebih banyak ditopang belanja dan proyek pemerintah daerah, bukan murni aktivitas usaha masyarakat luas. Yang terkena dampak langsung adalah pelaku usaha kecil beromzet di bawah Rp4,8 miliar setahun yang tetap membayar pajak final 0,5 persen dari omzet, serta wajib pajak yang memakai jasa kuasa atau konsultan pajak karena ada aturan baru soal cara pemberian kuasa secara elektronik maupun kertas. Yang perlu dipantau adalah apakah sektor perdagangan dan akomodasi bisa mengejar porsi sektor pemerintahan pada laporan triwulan IV akhir tahun ini, karena itu akan menunjukkan apakah pertumbuhan pajak NTB mulai ditopang ekonomi riil atau masih bertumpu pada belanja negara.",
+  "imageV": "mvkpytg9"
+ },
+ {
   "slug": "sido-bagi-dividen-interim-rp300-miliar-rp10-per-saham",
   "category": "Aksi Korporasi",
   "title": "SIDO Bagi [Dividen] Interim Rp300 Miliar, Rp10 per Saham",
@@ -107,7 +135,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret di sini adalah lonjakan harga cabai, cabai merah besar naik 25,8 persen dan cabai keriting 22 persen dibanding tahun sebelumnya, yang mendorong inflasi pangan ke 5,03 persen. Sebagai responsnya pemerintah tidak membuat kebijakan baru, melainkan menjalankan kombinasi yang sudah ada: bantuan beras untuk 33,24 juta orang, program magang untuk 150 ribu peserta, dan subsidi kedelai Rp500 miliar bagi perajin tahu dan tempe. Pihak yang paling terdampak adalah konsumen di kawasan timur Indonesia seperti Sulawesi, Maluku, dan Papua, serta petani dan nelayan yang diharapkan terhubung langsung ke pembeli lewat program kerja sama antar daerah. Pola ini mengarah pada pemerintah yang lebih mengandalkan bantuan sosial dan perbaikan jalur distribusi antarwilayah ketimbang menahan harga langsung di pasar, dan arah ini akan lebih jelas terlihat dari data inflasi resmi Badan Pusat Statistik untuk November dan Desember, saat permintaan Natal dan Tahun Baru benar-benar memuncak.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "arto-jadwalkan-mesop-tahap-i-periode-ii-harga-rp1-550",
@@ -214,7 +242,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar nama lembaga, dari Dewan Nasional Keuangan Inklusif menjadi Dewan Nasional Kesejahteraan Keuangan lewat Peraturan Pemerintah Nomor 42 Tahun 2026, melainkan ukuran keberhasilannya, dari sekadar berapa banyak orang punya rekening bank menjadi apakah keuangan keluarga benar-benar lebih baik. Target penyaluran kredit rakyat Rp400 triliun pada 2027 jauh di atas realisasi sekarang yang baru sekitar Rp53 triliun untuk sekitar dua juta penerima, artinya pemerintah ingin melipatkan penyaluran hampir delapan kali dalam waktu kurang dari setahun. Yang kena dampak langsung adalah petani, nelayan, warga pedesaan dan daerah terpencil, serta penduduk berpenghasilan rendah di kota sebagai penerima kredit, sekaligus bank dan lembaga jasa keuangan yang diminta menyalurkan dana lewat jaringan tim percepatan akses keuangan daerah. Ada dua kemungkinan arah dari sini, lonjakan target ini didukung mekanisme penyaluran yang sudah disiapkan lewat aturan turunan PP 42/2026, atau target itu masih berupa patokan politik yang belum punya jalan teknis untuk dicapai secepat itu. Yang akan menjawabnya adalah isi aturan turunan PP tersebut dan data realisasi kredit rakyat pada kuartal-kuartal awal 2027.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "kilang-balikpapan-99-persen-rampung-stok-bbm-dipastikan-aman",
@@ -296,7 +324,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan cuma angka total uang beredar yang naik tipis dari 8,2 ke 8,3 persen, tapi sumber pendorongnya bergeser. Penyaluran kredit ke masyarakat dan dunia usaha justru melambat dari 13,3 persen menjadi 12,7 persen, sementara kenaikan uang beredar lebih banyak ditopang oleh dana yang mengalir dari bank ke pemerintah pusat, yang melonjak dari sebelumnya mengerut 7,0 persen menjadi tumbuh 24,4 persen, ditambah aset valuta asing yang balik positif 1,0 persen setelah sempat mengerut 6,6 persen. Yang terdampak adalah pelaku usaha dan masyarakat yang mengandalkan pinjaman bank, karena melambatnya kredit berarti pasokan pembiayaan baru ke sektor riil tidak secepat sebelumnya meski dana di sistem keuangan terlihat melimpah. Pola ini mengarah ke pertumbuhan likuiditas yang lebih digerakkan oleh pembiayaan ke pemerintah ketimbang kredit ke swasta, tapi baru satu bulan data sehingga belum pasti jadi tren. Yang akan memastikannya adalah data uang beredar dan kredit edisi Oktober 2026 yang biasanya dirilis BI akhir bulan depan, untuk melihat apakah kredit terus melambat atau kembali menguat.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "bjlb01-dana-amortisasi-pokok-rp100-m-siap-dibayar-31-okt",

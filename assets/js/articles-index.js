@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pajak-ntb-tembus-rp2-18-triliun-tumbuh-15-36",
+  "category": "Makroekonomi",
+  "title": "Pajak NTB Tembus Rp2,18 Triliun, [Tumbuh] 15,36%",
+  "deck": "Realisasi pajak Nusa Tenggara Barat hingga September 2026 mencapai Rp2.184,05 miliar, naik 15,36 persen, dengan aturan baru soal kuasa wajib pajak dan pajak final UMKM turut disosialisasikan.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/pajak-ntb-tembus-rp2-18-triliun-tumbuh-15-36.jpg",
+  "imageV": "mvkpytg9",
+  "tags": [
+   "Pajak",
+   "NTB",
+   "DJP",
+   "PPh Final"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kinerja-penerimaan-pajak-ntb-tetap-terjaga-hingga-triwulan-iii-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
   "slug": "sido-bagi-dividen-interim-rp300-miliar-rp10-per-saham",
   "category": "Aksi Korporasi",
   "title": "SIDO Bagi [Dividen] Interim Rp300 Miliar, Rp10 per Saham",
@@ -6463,21 +6481,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473246-bank-bjb-raih-pengakuan-top-50-emiten-midcap-dalam-iicd-cg-award-2026"
- },
- {
-  "slug": "indonesia-perkuat-kesiapan-aksesi-ke-pakta-cptpp",
-  "category": "Global",
-  "title": "Indonesia Perkuat Kesiapan [Aksesi] ke Pakta CPTPP",
-  "deck": "Kemenko Perekonomian menggelar workshop teknis bersama negara anggota CPTPP untuk mematangkan kesiapan Indonesia bergabung ke pakta dagang itu.",
-  "date": "15 Oktober 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
-  "tags": [
-   "CPTPP",
-   "Kemenko Perekonomian",
-   "Perdagangan Internasional",
-   "Aksesi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7159/kemenko-perekonomian-perkuat-kesiapan-aksesi-indonesia-ke-cptpp-melalui-koordinasi-lintas-kl-dan-dialog-dengan-negara-anggota",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

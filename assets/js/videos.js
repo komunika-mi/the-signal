@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "3HOa9Z-zvKY",
+  "title": "Anggota Dewan Ekonomi Nasional Bahas Isu Strategis Ekonomi",
+  "category": "Makroekonomi",
+  "program": "One on One",
+  "summary": "Septian Hario Seto, anggota Dewan Ekonomi Nasional, membahas hasil pertemuannya dengan Presiden Prabowo Subianto pada 20 Oktober 2026 yang membicarakan sejumlah isu ekonomi strategis nasional.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan ekonomi strategis yang sedang dipertimbangkan pemerintah.",
+  "terbit": "2026-10-23T11:17:08+00:00"
+ },
+ {
   "id": "0XET8vbTNw8",
   "title": "Ekonom Indef Soroti Mafia Pangan dan Logistik di 2 Tahun Presiden Prabowo",
   "category": "Makroekonomi",

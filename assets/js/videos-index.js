@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "3HOa9Z-zvKY",
+  "title": "Anggota Dewan Ekonomi Nasional Bahas Isu Strategis Ekonomi",
+  "category": "Makroekonomi",
+  "program": "One on One",
+  "summary": "Septian Hario Seto, anggota Dewan Ekonomi Nasional, membahas hasil pertemuannya dengan Presiden Prabowo Subianto pada 20 Oktober 2026 yang membicarakan sejumlah isu ekonomi strategis nasional.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan ekonomi strategis yang sedang dipertimbangkan pemerintah."
+ },
+ {
   "id": "0XET8vbTNw8",
   "title": "Ekonom Indef Soroti Mafia Pangan dan Logistik di 2 Tahun Presiden Prabowo",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "Otoritas Jasa Keuangan mencatat 835 pihak terkena sanksi dan proses penegakan hukum sebagai bagian dari reformasi percepatan integritas pasar modal.",
   "takeaway": "Data penegakan sanksi ini penting bagi investor untuk menilai arah pengawasan OJK terhadap integritas pasar modal Indonesia."
- },
- {
-  "id": "6-rhkRnSqyc",
-  "title": "Melihat Pengolahan Sampah Jadi Energi Listrik",
-  "category": "Energi",
-  "program": "Kabar Pagi",
-  "summary": "Kunjungan ke sebuah perusahaan energi memperlihatkan bagaimana sampah yang selama ini dianggap masalah kini diolah menjadi listrik, termasuk pemanfaatan residunya.",
-  "takeaway": "Topik ini relevan bagi pembaca ekonomi karena menyangkut diversifikasi sumber energi dan efisiensi industri pengolahan sampah."
  }
 ];

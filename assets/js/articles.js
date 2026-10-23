@@ -498,7 +498,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari siaran ini bukan klaim pertumbuhan 5,45 persen, melainkan target infrastruktur digital: kapasitas pusat data nasional direncanakan melonjak sekitar 20 kali lipat, dari kisaran 0,5 gigawatt sekarang menjadi 11 gigawatt pada 2030, dibarengi tambahan listrik 69,5 gigawatt sampai 2034 dan kebutuhan 9 juta tenaga kerja digital. Pihak yang terdampak langsung adalah industri pusat data dan energi yang harus membangun kapasitas itu, pekerja yang disasar program pelatihan vokasi berinsentif pajak, serta industri media lokal yang didorong mencari pendapatan di luar iklan karena pasar iklan konvensional menyusut. Arah yang terlihat adalah pemerintah lebih dulu membangun fondasi infrastruktur dan SDM sebelum pemanfaatan ekonomi digital oleh sektor lain, termasuk media lokal, benar-benar berjalan, sehingga dorongan ke media lokal saat ini masih berupa himbauan tanpa skema pendanaan atau insentif khusus. Yang akan menentukan apakah ini bergerak jadi program nyata atau berhenti di tahap wacana adalah realisasi RUPTL PLN 2025-2034 sesuai jadwal dan ada atau tidaknya aturan turunan konkret untuk pembangunan pusat data maupun insentif bagi media lokal.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "bi-perkuat-sinergi-jaga-inflasi-pangan-di-sulampua",
@@ -528,7 +528,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari forum ini bukan aturan baru, melainkan penegasan bahwa pemerintah mengubah cara menjaga harga pangan, dari sekadar menggelar operasi pasar saat harga naik, menjadi memperbaiki jalur produksi dan distribusi pangan antar daerah lewat kerja sama antar provinsi, kios pangan bergerak, dan kredit bank untuk petani serta nelayan. Yang paling terdampak adalah petani dan nelayan di kawasan kepulauan Sulawesi, Maluku, dan Papua yang selama ini sulit dijangkau pasokan dari daerah lain, serta warga di sana yang bergantung pada pangan kiriman. Pemerintah juga mengklaim sudah menurunkan harga pupuk bersubsidi 20 persen dan menambah jatahnya 700 ribu ton, tapi ini masih klaim Kementerian Pertanian yang belum dicek lembaga independen. Arah besarnya adalah memperkuat pasokan pangan daerah timur Indonesia sebelum musim kering yang disebut berisiko El Nino, dan yang akan membuktikan apakah langkah ini berhasil adalah apakah inflasi bahan pangan bergejolak di kawasan itu tetap di kisaran 3 sampai 5 persen pada data inflasi bulan-bulan mendatang.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "doid-ekuitas-buma-anjlok-94-89-persen-ke-semester-i-2026",
@@ -1237,7 +1237,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret di sini adalah lonjakan harga cabai, cabai merah besar naik 25,8 persen dan cabai keriting 22 persen dibanding tahun sebelumnya, yang mendorong inflasi pangan ke 5,03 persen. Sebagai responsnya pemerintah tidak membuat kebijakan baru, melainkan menjalankan kombinasi yang sudah ada: bantuan beras untuk 33,24 juta orang, program magang untuk 150 ribu peserta, dan subsidi kedelai Rp500 miliar bagi perajin tahu dan tempe. Pihak yang paling terdampak adalah konsumen di kawasan timur Indonesia seperti Sulawesi, Maluku, dan Papua, serta petani dan nelayan yang diharapkan terhubung langsung ke pembeli lewat program kerja sama antar daerah. Pola ini mengarah pada pemerintah yang lebih mengandalkan bantuan sosial dan perbaikan jalur distribusi antarwilayah ketimbang menahan harga langsung di pasar, dan arah ini akan lebih jelas terlihat dari data inflasi resmi Badan Pusat Statistik untuk November dan Desember, saat permintaan Natal dan Tahun Baru benar-benar memuncak.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "baik-ganti-komisaris-utama-jadi-yeni-isnawati",

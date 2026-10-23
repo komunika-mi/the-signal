@@ -22,6 +22,23 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474700-gelar-kadin-fest-2027-kadin-kota-bekasi-padukan-konser-musik-lintas-generasi-dan-expo-umkm"
  },
  {
+  "slug": "esdm-revisi-perpres-26-2026-demi-ketahanan-energi",
+  "category": "Energi",
+  "title": "ESDM [Revisi] Perpres 26/2026 demi Ketahanan Energi",
+  "deck": "ESDM merampungkan revisi Perpres 26/2026 untuk mempermudah impor minyak mentah, termasuk skema baru lewat BLU agar Pertamina bisa ikut rencana impor 150 juta barel dari Rusia.",
+  "date": "24 Oktober 2026",
+  "image": "assets/img/esdm-revisi-perpres-26-2026-demi-ketahanan-energi.jpg",
+  "imageV": "mvljs3dj",
+  "tags": [
+   "esdm",
+   "energi",
+   "pertamina",
+   "impor minyak"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474693-demi-jaga-ketahanan-energi-kementerian-esdm-revisi-perpres-262026"
+ },
+ {
   "slug": "bike-akui-dana-akuisisi-rk-rp1-t-belum-cair-pne-bum-afiliasi",
   "category": "Aksi Korporasi",
   "title": "BIKE Akui Dana Akuisisi RK Rp1 T Belum Cair, PNE-BUM [Afiliasi]",
@@ -6436,21 +6453,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ciptakan-transaksi-global-yang-lebih-efisien-wamendag-roro-ajak-pelaku-usaha-optimalkan-local-currency-transaction-lct",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "suli-pastikan-tak-ada-dampak-karhutla-ke-operasional-dan-aset",
-  "category": "Aksi Korporasi",
-  "title": "SULI Pastikan Tak Ada Dampak [Karhutla] ke Operasional dan Aset",
-  "deck": "SLJ Global menanggapi permintaan penjelasan BEI soal 624.725 hektare konsesi hutannya dan memastikan tidak ada dampak karhutla maupun masalah hukum.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SULI",
-   "karhutla",
-   "konsesi hutan",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b3e3b99d07_30f8104bae.pdf",
-  "sourceLabel": "IDX"
  }
 ];

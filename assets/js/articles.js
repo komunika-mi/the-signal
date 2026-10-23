@@ -30,6 +30,33 @@ var ARTICLES = [
   "imageV": "mvljdk4f"
  },
  {
+  "slug": "esdm-revisi-perpres-26-2026-demi-ketahanan-energi",
+  "category": "Energi",
+  "title": "ESDM [Revisi] Perpres 26/2026 demi Ketahanan Energi",
+  "deck": "ESDM merampungkan revisi Perpres 26/2026 untuk mempermudah impor minyak mentah, termasuk skema baru lewat BLU agar Pertamina bisa ikut rencana impor 150 juta barel dari Rusia.",
+  "image": "assets/img/esdm-revisi-perpres-26-2026-demi-ketahanan-energi.jpg",
+  "date": "24 Oktober 2026",
+  "isoDate": "2026-10-24T03:03:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474693-demi-jaga-ketahanan-energi-kementerian-esdm-revisi-perpres-262026",
+  "tags": [
+   "esdm",
+   "energi",
+   "pertamina",
+   "impor minyak"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral resmi merampungkan revisi atas Peraturan Presiden Nomor 26 Tahun 2026. Revisi ini bertujuan memperkuat dan mempermudah proses pengadaan impor minyak mentah dari negara mana pun, demi menjaga ketahanan energi nasional di tengah gejolak geopolitik global yang membuat pasar energi fosil semakin rumit untuk dinavigasi.",
+   "Direktur Jenderal Minyak dan Gas Bumi Kementerian ESDM, Laode Sulaeman, menyampaikan hal ini di sela Malam Penganugerahan Energi Subroto 2026 di Jakarta, Jumat malam (23/10/2026). Salah satu poin penting dalam revisi ini adalah dilibatkannya Badan Layanan Umum atau BLU dalam skema pengadaan minyak bumi, BBM, dan LPG.",
+   "Pelibatan BLU ini disiapkan khusus untuk membuka jalan bagi skema impor minyak dari Rusia. Pertamina, sebagai perusahaan migas milik negara, terikat komitmen obligasi global atau global bond kepada investor internasional, sehingga wajib menghindari transaksi yang berpotensi melanggar ketentuan sanksi internasional secara langsung.",
+   "Skema ini disiapkan untuk merealisasikan komitmen impor 150 juta barel minyak mentah dari Rusia secara bertahap hingga akhir tahun 2026. Menurut Laode, skema teknis pelibatan BLU tersebut saat ini masih dalam proses penyusunan. Rencana impor dari Rusia ini merupakan salah satu hasil konkret dari kunjungan kerja Presiden Prabowo Subianto ke Rusia beberapa waktu lalu, yang antara lain bertujuan mengamankan pasokan energi nasional dengan harga yang kompetitif di tengah krisis energi global."
+  ],
+  "fotoAdegan": "Oil tanker guided by tugboats toward a fuel terminal at a busy Indonesian port, workers in vests nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/03/17/69b91c735d3ac-pertamina-andalkan-inovasi-block-mode-untuk-meningkatkan-fleksibilias-kilang_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar redaksional. Perpres 26/2026 kini memasukkan Badan Layanan Umum atau BLU, sebagai pihak yang bisa membeli minyak dari Rusia alih-alih Pertamina secara langsung, karena Pertamina punya utang dalam bentuk obligasi global atau global bond ke investor internasional yang biasanya melarang peminjamnya bertransaksi dengan pihak yang bisa memicu masalah sanksi internasional. Yang terdampak adalah Pertamina, yang jadi terhindar dari risiko hukum dan keuangan itu, serta BLU yang baru ini yang akan menanggung peran sebagai perantara pembelian minyak. Arahnya terlihat jelas, pemerintah menyiapkan jalur kelembagaan agar target impor 150 juta barel dari Rusia sampai akhir 2026 tetap bisa berjalan tanpa membuat Pertamina melanggar komitmennya ke pemegang obligasi. Yang masih perlu dipantau adalah skema teknis BLU itu sendiri, yang menurut Dirjen Migas Laode Sulaeman masih 'sedang diproses', serta apakah realisasi impor benar-benar mencapai 150 juta barel sampai akhir tahun ini.",
+  "imageV": "mvljs3dj"
+ },
+ {
   "slug": "bike-akui-dana-akuisisi-rk-rp1-t-belum-cair-pne-bum-afiliasi",
   "category": "Aksi Korporasi",
   "title": "BIKE Akui Dana Akuisisi RK Rp1 T Belum Cair, PNE-BUM [Afiliasi]",
@@ -791,7 +818,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari siaran ini bukan klaim pertumbuhan 5,45 persen, melainkan target infrastruktur digital: kapasitas pusat data nasional direncanakan melonjak sekitar 20 kali lipat, dari kisaran 0,5 gigawatt sekarang menjadi 11 gigawatt pada 2030, dibarengi tambahan listrik 69,5 gigawatt sampai 2034 dan kebutuhan 9 juta tenaga kerja digital. Pihak yang terdampak langsung adalah industri pusat data dan energi yang harus membangun kapasitas itu, pekerja yang disasar program pelatihan vokasi berinsentif pajak, serta industri media lokal yang didorong mencari pendapatan di luar iklan karena pasar iklan konvensional menyusut. Arah yang terlihat adalah pemerintah lebih dulu membangun fondasi infrastruktur dan SDM sebelum pemanfaatan ekonomi digital oleh sektor lain, termasuk media lokal, benar-benar berjalan, sehingga dorongan ke media lokal saat ini masih berupa himbauan tanpa skema pendanaan atau insentif khusus. Yang akan menentukan apakah ini bergerak jadi program nyata atau berhenti di tahap wacana adalah realisasi RUPTL PLN 2025-2034 sesuai jadwal dan ada atau tidaknya aturan turunan konkret untuk pembangunan pusat data maupun insentif bagi media lokal.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "bi-perkuat-sinergi-jaga-inflasi-pangan-di-sulampua",
@@ -821,7 +849,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari forum ini bukan aturan baru, melainkan penegasan bahwa pemerintah mengubah cara menjaga harga pangan, dari sekadar menggelar operasi pasar saat harga naik, menjadi memperbaiki jalur produksi dan distribusi pangan antar daerah lewat kerja sama antar provinsi, kios pangan bergerak, dan kredit bank untuk petani serta nelayan. Yang paling terdampak adalah petani dan nelayan di kawasan kepulauan Sulawesi, Maluku, dan Papua yang selama ini sulit dijangkau pasokan dari daerah lain, serta warga di sana yang bergantung pada pangan kiriman. Pemerintah juga mengklaim sudah menurunkan harga pupuk bersubsidi 20 persen dan menambah jatahnya 700 ribu ton, tapi ini masih klaim Kementerian Pertanian yang belum dicek lembaga independen. Arah besarnya adalah memperkuat pasokan pangan daerah timur Indonesia sebelum musim kering yang disebut berisiko El Nino, dan yang akan membuktikan apakah langkah ini berhasil adalah apakah inflasi bahan pangan bergejolak di kawasan itu tetap di kisaran 3 sampai 5 persen pada data inflasi bulan-bulan mendatang.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "doid-ekuitas-buma-anjlok-94-89-persen-ke-semester-i-2026",

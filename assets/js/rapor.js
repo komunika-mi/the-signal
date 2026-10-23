@@ -12,8 +12,55 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-23T01:47:46.539+07:00",
+ "diperbarui": "2026-10-24T01:40:31.988+07:00",
  "entri": [
+  {
+   "id": "2026-10-23-3",
+   "edisi": "2026-10-23",
+   "benang": "Dilusi Saham Non-Proporsional Terus Muncul",
+   "klaim": "Arahnya sudah jelas, pola penambahan modal yang menggerus porsi pemegang saham publik ini terus berjalan meski pengawasan pasar modal sedang disorot.",
+   "penanda": "",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-23-2",
+   "edisi": "2026-10-23",
+   "benang": "Buyback Darurat Meluas ke Emiten Besar",
+   "klaim": "Arah pola buyback darurat sudah jelas meluas, dari sekadar respons darurat menjadi semacam cara baku memakai kas perusahaan besar.",
+   "penanda": "Sikap OJK menjelang akhir tahun, apakah kelonggaran aturan buyback tanpa RUPS ini diperpanjang atau dicabut begitu volatilitas pasar mengendur.",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "menjelang akhir tahun (periode buyback 26 Oktober hingga 31 Desember 2026)",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-23-1",
+   "edisi": "2026-10-23",
+   "benang": "Tekanan Utang BUMN Karya Melebar",
+   "klaim": "Arah tekanan utang di sektor konstruksi BUMN Karya sudah terlihat jelas memburuk.",
+   "penanda": "Apakah WIKA berhasil menjadwalkan ulang RUPSU berikutnya atau PTPP bisa melunasi kupon susulan sebelum jatuh ke status gagal bayar penuh.",
+   "tenggat": null,
+   "tenggatLabel": "RUPSU berikutnya / sebelum jatuh ke status gagal bayar penuh (tidak ada tanggal pasti disebutkan)",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "arah-gagal-bayar-emiten-2026-10-26",
+   "edisi": null,
+   "isu": "gagal-bayar-emiten",
+   "isuNama": "Gagal Bayar dan Restrukturisasi Utang",
+   "benang": "Apakah gagal bayar surat utang emiten meluas, atau tetap kasus per kasus?",
+   "cabang": "Meluas ke lebih banyak emiten",
+   "klaim": "Gagal bayar surat utang emiten meluas ke lebih banyak penerbit di luar kelompok BUMN karya yang sudah lama bermasalah, sehingga pada keputusan RUPO dan RUPSU per 26 Oktober 2026 masalah ini tidak lagi berhenti pada kasus per kasus.",
+   "penanda": "Laporan ini negatif bagi ADCP karena PEFINDO mempertahankan status pengawasan ketat dengan kecenderungan turun, menilai ada probabilitas tinggi perusahaan gagal membayar kupon Sukuk Ijarah yang jatuh tempo 26 Oktober 2026, sejalan dengan…",
+   "tenggat": "2026-10-26",
+   "tenggatLabel": "26 Oktober 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-22-3",
    "edisi": "2026-10-22",
@@ -706,8 +753,13 @@ var RAPOR = {
    "penanda": "Apakah PTPP mendapat restu pemegang obligasi untuk menunda bunga enam instrumen senilai Rp44,68 miliar sebelum jatuh tempo pertama",
    "tenggat": "2026-10-02",
    "tenggatLabel": "sebelum jatuh tempo pertama pada 2 Oktober",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "ptpp-gagal-bayar-kupon-obligasi-saham-disuspensi-lanjut",
+    "judul": "PTPP Gagal Bayar Kupon Obligasi, Saham Disuspensi Lanjut",
+    "tanggal": "23 Oktober 2026",
+    "alasan": "Artikel ini menunjukkan PTPP justru gagal bayar kupon obligasi dan bagi hasil sukuk yang jatuh tempo 22 Oktober 2026 (bukan mendapat restu penundaan), sehingga sahamnya disuspensi lanjut, membuktikan tekanan kredit memang menjalar dan memburuk di PTPP."
+   }
   },
   {
    "id": "2026-09-25-3",
@@ -1781,7 +1833,7 @@ var RAPOR = {
    "penanda": "Arah HBA periode kedua Agustus (rilis ESDM akhir Agustus) dan ICP Agustus (awal September 2026).",
    "tenggat": "2026-09-07",
    "tenggatLabel": "awal September 2026",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "VvHMgwfvkrw",
+  "title": "Jakarta Jadi Tuan Rumah Konferensi Ekonomi Kreatif Dunia 2026",
+  "category": "Industri",
+  "program": "AKAP",
+  "summary": "Jakarta menjadi tuan rumah World Conference on Creative Economy (WCCE) kelima pada 2026, forum internasional yang membahas pengembangan ekonomi kreatif global.",
+  "takeaway": "Ajang ini penting bagi pembaca ekonomi karena menunjukkan posisi Indonesia dalam pengembangan industri kreatif di tingkat global.",
+  "terbit": "2026-10-24T09:09:43+00:00"
+ },
+ {
+  "id": "TH2H6NV3P7w",
+  "title": "400.000 Liter BBM Bersubsidi Diselewengkan, Bahlil Buka Suara",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Menteri ESDM Bahlil Lahadalia menanggapi kasus penyelewengan lebih dari 400.000 liter bahan bakar minyak bersubsidi.",
+  "takeaway": "Kasus ini relevan bagi pembaca ekonomi karena menyangkut pengelolaan subsidi energi dan potensi kerugian negara.",
+  "terbit": "2026-10-24T09:00:13+00:00"
+ },
+ {
   "id": "bqBa0fRhKFI",
   "title": "Wali Kota Semarang Tawarkan 19 Peluang Investasi ke Dunia Usaha",
   "category": "Bisnis",

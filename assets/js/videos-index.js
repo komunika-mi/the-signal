@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "VvHMgwfvkrw",
+  "title": "Jakarta Jadi Tuan Rumah Konferensi Ekonomi Kreatif Dunia 2026",
+  "category": "Industri",
+  "program": "AKAP",
+  "summary": "Jakarta menjadi tuan rumah World Conference on Creative Economy (WCCE) kelima pada 2026, forum internasional yang membahas pengembangan ekonomi kreatif global.",
+  "takeaway": "Ajang ini penting bagi pembaca ekonomi karena menunjukkan posisi Indonesia dalam pengembangan industri kreatif di tingkat global."
+ },
+ {
+  "id": "TH2H6NV3P7w",
+  "title": "400.000 Liter BBM Bersubsidi Diselewengkan, Bahlil Buka Suara",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Menteri ESDM Bahlil Lahadalia menanggapi kasus penyelewengan lebih dari 400.000 liter bahan bakar minyak bersubsidi.",
+  "takeaway": "Kasus ini relevan bagi pembaca ekonomi karena menyangkut pengelolaan subsidi energi dan potensi kerugian negara."
+ },
+ {
   "id": "bqBa0fRhKFI",
   "title": "Wali Kota Semarang Tawarkan 19 Peluang Investasi ke Dunia Usaha",
   "category": "Bisnis",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Pupuk Indonesia mendukung penyaluran pupuk bersubsidi melalui Koperasi Desa Merah Putih agar petani lebih mudah mendapatkan pupuk dengan harga terjangkau.",
   "takeaway": "Kebijakan distribusi pupuk bersubsidi ini berkaitan langsung dengan biaya produksi petani dan ketahanan pangan nasional."
- },
- {
-  "id": "xDHLmboW_Jw",
-  "title": "BBM Pertalite di Surabaya Langka, Warga Mengeluh",
-  "category": "Energi",
-  "program": "Kabar Siang",
-  "summary": "Kelangkaan Pertalite terjadi di sejumlah SPBU Surabaya, membuat pengendara sepeda motor berkeliling mencari stasiun lain atau beralih membeli Pertamax.",
-  "takeaway": "Kelangkaan BBM bersubsidi menggambarkan tekanan pada distribusi energi yang berdampak pada biaya hidup masyarakat sehari hari."
- },
- {
-  "id": "SBXpQnhpdWw",
-  "title": "Bali Berlakukan Sistem Ganjil Genap Pengisian BBM",
-  "category": "Energi",
-  "program": "Kabar Siang",
-  "summary": "Pengisian BBM bersubsidi di seluruh Bali kini diatur dengan sistem ganjil genap untuk mempercepat proses dan mengurai antrean panjang di SPBU.",
-  "takeaway": "Pengaturan distribusi BBM bersubsidi ini mencerminkan upaya pemerintah daerah menjaga pasokan energi tetap tepat sasaran."
  }
 ];

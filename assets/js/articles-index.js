@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-luncurkan-pengawas-bbm-subsidi-di-3-679-spbu",
+  "category": "Energi",
+  "title": "Pemerintah [Luncurkan] Pengawas BBM Subsidi di 3.679 SPBU",
+  "deck": "ESDM menempatkan petugas muda di 3.679 SPBU seluruh Indonesia untuk mengawasi penyaluran BBM bersubsidi dan BBM penugasan, cegah kebocoran di lapangan.",
+  "date": "24 Oktober 2026",
+  "image": "assets/img/pemerintah-luncurkan-pengawas-bbm-subsidi-di-3-679-spbu.jpg",
+  "imageV": "mvlvtuxt",
+  "tags": [
+   "BBM bersubsidi",
+   "ESDM",
+   "SPBU",
+   "Pengawal Energi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/malam-puncak-penghargaan-energi-subroto-2026-pemerintah-luncurkan-program-pengawal-energi-untuk-3679-spbu",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "kadin-fest-bekasi-2027-padukan-konser-dan-expo-umkm",
   "category": "UMKM",
   "title": "KADIN Fest Bekasi 2027 Padukan Konser dan [Expo] UMKM",
@@ -6435,23 +6453,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7161/pemerintah-sesuaikan-masa-penahapan-kewajiban-bersertifikat-halal-dengan-memperhatikan-kesiapan-ekosistem-dan-pemangku-kepentingan",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "transaksi-dagang-pakai-mata-uang-lokal-tembus-us-49-42-miliar",
-  "category": "Moneter",
-  "title": "Transaksi Dagang Pakai Mata Uang [Lokal] Tembus US$49,42 Miliar",
-  "deck": "Pemerintah dan Bank Indonesia mendorong pelaku usaha memanfaatkan transaksi mata uang lokal dengan enam negara mitra dagang, yang nilainya naik tajam sepanjang 2026.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/transaksi-dagang-pakai-mata-uang-lokal-tembus-us-49-42-miliar.jpg",
-  "imageV": "mvb77y92",
-  "tags": [
-   "Transaksi Mata Uang Lokal",
-   "Bank Indonesia",
-   "Trade Expo Indonesia",
-   "Ekspor Impor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ciptakan-transaksi-global-yang-lebih-efisien-wamendag-roro-ajak-pelaku-usaha-optimalkan-local-currency-transaction-lct",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

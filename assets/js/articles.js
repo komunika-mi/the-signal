@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-luncurkan-pengawas-bbm-subsidi-di-3-679-spbu",
+  "category": "Energi",
+  "title": "Pemerintah [Luncurkan] Pengawas BBM Subsidi di 3.679 SPBU",
+  "deck": "ESDM menempatkan petugas muda di 3.679 SPBU seluruh Indonesia untuk mengawasi penyaluran BBM bersubsidi dan BBM penugasan, cegah kebocoran di lapangan.",
+  "image": "assets/img/pemerintah-luncurkan-pengawas-bbm-subsidi-di-3-679-spbu.jpg",
+  "date": "24 Oktober 2026",
+  "isoDate": "2026-10-24T04:06:56.274Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/malam-puncak-penghargaan-energi-subroto-2026-pemerintah-luncurkan-program-pengawal-energi-untuk-3679-spbu",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "BBM bersubsidi",
+   "ESDM",
+   "SPBU",
+   "Pengawal Energi"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral meluncurkan Program Pengawal Energi 2026, skema pengawasan baru yang menempatkan petugas lapangan di 3.679 Stasiun Pengisian Bahan Bakar Umum (SPBU) di seluruh Indonesia. Program ini menyasar pengawasan penyaluran bahan bakar minyak (BBM) bersubsidi dan BBM penugasan, dengan tujuan mendeteksi potensi kebocoran dan penyalahgunaan di titik penjualan. Peluncuran dilakukan oleh Wakil Menteri ESDM Yuliot dalam Malam Puncak Perayaan Hari Jadi ke-81 Pertambangan dan Energi di Hotel Westin Jakarta, Jumat (23/10/2026) malam.",
+   "Program ini merupakan kolaborasi Badan Pengatur Hilir Minyak dan Gas Bumi (BPH Migas) dengan Politeknik Energi dan Mineral (PEM) Akamigas, dan terbuka bagi lulusan perguruan tinggi berusia 20 sampai 24 tahun. Pendaftaran dibuka mulai 24 Oktober hingga 1 November 2026 melalui portal resmi pengawalenergi.akamigas.ac.id. Penempatan petugas memprioritaskan putra-putri daerah sesuai domisili provinsi atau wilayah terdekat, dengan alasan mereka lebih memahami kondisi geografis dan lebih mudah diterima masyarakat setempat. Meski diprioritaskan di daerah asal, setiap petugas tetap wajib menandatangani pakta integritas yang menyatakan kesediaan ditempatkan di seluruh wilayah Indonesia.",
+   "Pada malam yang sama, Kementerian ESDM juga menganugerahkan Penghargaan Energi Subroto 2026 kepada sejumlah perusahaan, pemerintah daerah, dan tokoh di sektor energi dan pertambangan. Penerima penghargaan adalah PT PLN Indonesia Power UBP Kamojang untuk Kinerja Keselamatan Ketenagalistrikan Terbaik, Medco E&P Natuna Ltd untuk Kinerja Produksi Minyak dan Gas Bumi Terbaik, PT Pelita Agung Agrindustri untuk Proyek Energi Terbarukan Terbaik, PT Pertamina EP Donggi Matindok Field untuk Inisiatif Dekarbonisasi Terbaik, dan PT Comestoarra Bentarra Noesantarra untuk Pengembangan Masyarakat dan Dampak Lingkungan Terbaik.",
+   "Penghargaan lain diberikan kepada PT Donggi-Senoro LNG untuk Inovasi Teknologi Terbaik, PT Eco Prima Energi untuk Hilirisasi dan Penciptaan Nilai Tambah Terbaik, Pemerintah Provinsi DKI Jakarta untuk Tata Kelola dan Kepatuhan Terbaik kategori pemerintah daerah, Pertamina Hulu Mahakam untuk kategori perusahaan, dan PT Saptaindra Sejati untuk Pengembangan SDM dan Pengetahuan Terbaik. Kategori Tokoh Energi Inspiratif diberikan secara anumerta kepada Kuntoro Mangkusubroto."
+  ],
+  "fotoAdegan": "Attendant filling a motorcycle tank at a busy roadside fuel station in Indonesia, riders queued behind, late afternoon light.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-malam-puncak-penghargaan-energi-subroto-2026-pemerintah-luncurkan-program-pengawal-energi-untuk-3679-spbu-j5bv7dy.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah konkret adalah pemerintah menambah pengawas manusia langsung di titik akhir distribusi BBM, dengan menempatkan petugas muda di 3.679 SPBU di seluruh Indonesia, dan pendaftarannya dibuka 24 Oktober sampai 1 November. Pihak yang langsung terdampak adalah operator SPBU yang bakal diawasi lebih dekat, serta lulusan perguruan tinggi usia 20 sampai 24 tahun yang jadi sasaran rekrutmen, dengan syarat siap ditempatkan di seluruh Indonesia meski penempatan awal mengutamakan domisili daerah asal. Arahnya terlihat ke penguatan kontrol atas penyaluran BBM bersubsidi dan BBM penugasan di ujung rantai distribusi, bukan perubahan skema subsidi itu sendiri. Yang akan menunjukkan apakah program ini berjalan efektif atau sekadar formalitas adalah berapa banyak pendaftar yang lolos saat pendaftaran ditutup, dan bagaimana temuan pengawasan mereka di lapangan ditindaklanjuti setelah penempatan dimulai.",
+  "imageV": "mvlvtuxt"
+ },
+ {
   "slug": "kadin-fest-bekasi-2027-padukan-konser-dan-expo-umkm",
   "category": "UMKM",
   "title": "KADIN Fest Bekasi 2027 Padukan Konser dan [Expo] UMKM",

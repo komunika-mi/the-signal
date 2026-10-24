@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "uvcr-cetak-laba-bersih-rp10-6-miliar-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Cetak Laba Bersih Rp10,6 Miliar, [Arus Kas] Operasi Negatif",
+  "deck": "Laba bersih UVCR melonjak hampir lima kali lipat jadi Rp10,6 miliar dalam sembilan bulan, tapi arus kas operasi makin negatif akibat penumpukan persediaan voucher.",
+  "date": "24 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR",
+   "laporan keuangan",
+   "Ultra Voucher",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261024100644-64896-0/FinancialStatement-2026-III-UVCR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-luncurkan-pengawas-bbm-subsidi-di-3-679-spbu",
   "category": "Energi",
   "title": "Pemerintah [Luncurkan] Pengawas BBM Subsidi di 3.679 SPBU",
@@ -6437,21 +6453,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf06a3bfe1_dcc8a80fd1.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "kewajiban-sertifikat-halal-makanan-diundur-ke-2028",
-  "category": "Industri",
-  "title": "Kewajiban Sertifikat Halal Makanan [Diundur] ke 2028",
-  "deck": "Pemerintah memperpanjang tenggat wajib sertifikat halal untuk makanan, minuman, kosmetik, dan obat dari 18 Oktober 2026 menjadi 2028, menyusul masukan dunia usaha soal kesiapan ekosistem sertifikasi.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/mesin-tekstil.jpg",
-  "tags": [
-   "Sertifikat Halal",
-   "BPJPH",
-   "UMKM",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7161/pemerintah-sesuaikan-masa-penahapan-kewajiban-bersertifikat-halal-dengan-memperhatikan-kesiapan-ekosistem-dan-pemangku-kepentingan",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

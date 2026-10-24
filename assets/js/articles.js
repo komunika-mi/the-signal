@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "uvcr-cetak-laba-bersih-rp10-6-miliar-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "UVCR Cetak Laba Bersih Rp10,6 Miliar, [Arus Kas] Operasi Negatif",
+  "deck": "Laba bersih UVCR melonjak hampir lima kali lipat jadi Rp10,6 miliar dalam sembilan bulan, tapi arus kas operasi makin negatif akibat penumpukan persediaan voucher.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Oktober 2026",
+  "isoDate": "2026-10-24T16:56:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261024100644-64896-0/FinancialStatement-2026-III-UVCR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "laporan keuangan",
+   "Ultra Voucher",
+   "arus kas"
+  ],
+  "body": [
+   "PT Trimegah Karya Pratama Tbk, pengelola platform Ultra Voucher dengan kode saham UVCR, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK pada 23 Oktober 2026. Surat bernomor 068/SK/TKP/X/2026 itu ditandatangani Direktur Utama Hady Kuswanto dan Direktur Riky Boy H. Permata. Penjualan neto perusahaan naik 38 persen dari Rp665,5 miliar pada sembilan bulan pertama 2025 menjadi Rp918 miliar pada periode yang sama tahun ini. Laba usaha berbalik dari rugi Rp275,9 juta menjadi laba Rp10,36 miliar, dan laba bersih melonjak dari Rp2,14 miliar menjadi Rp10,63 miliar, naik hampir lima kali lipat.",
+   "Dari sisi posisi keuangan, total aset perusahaan naik dari Rp217 miliar pada akhir 2025 menjadi Rp245,8 miliar pada akhir September 2026. Kenaikan terbesar ada pada persediaan, yang melonjak dari Rp49,7 miliar menjadi Rp137,7 miliar, hampir tiga kali lipat, sementara piutang usaha naik dari Rp10,3 miliar menjadi Rp15,2 miliar. Sebaliknya, piutang lain-lain turun tajam dari Rp118 miliar menjadi Rp48,3 miliar. Total liabilitas naik dari Rp113,4 miliar menjadi Rp134 miliar, sedangkan ekuitas naik dari Rp103,6 miliar menjadi Rp111,7 miliar. Dalam periode ini perusahaan juga membayar dividen tunai Rp1 miliar dan melakukan pembelian kembali saham senilai Rp1,5 miliar yang kini tercatat sebagai saham treasuri.",
+   "Yang perlu dicermati adalah arus kas dari aktivitas operasi, yang tercatat negatif Rp64,3 miliar, membengkak jauh dari negatif Rp9 miliar pada periode yang sama tahun lalu. Pemicu utamanya adalah kas yang dipakai untuk membeli persediaan dan membayar pemasok yang jumlahnya melampaui penerimaan dari pelanggan. Kekurangan kas operasi ini justru ditutup dari aktivitas investasi, yang mencatat arus kas masuk neto Rp70,8 miliar, terutama dari penerimaan pembayaran pinjaman pihak ketiga sebesar Rp82 miliar. Sementara itu, arus kas dari aktivitas pendanaan negatif Rp5,9 miliar, dipakai untuk membayar utang bank, dividen, dan pembelian saham treasuri."
+  ],
+  "fotoAdegan": "Workers in a logistics warehouse stacking sealed cardboard boxes onto pallets, a forklift maneuvering nearby, bright overhead lighting",
+  "takeaway": "Laporan ini condong positif bagi UVCR karena penjualan sembilan bulan tumbuh 38 persen dan laba bersih meroket hampir lima kali lipat menjadi Rp10,63 miliar, tetapi ada satu sinyal yang perlu diwaspadai. Yang tersentuh di sini adalah arus kas operasi, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan jual beli sehari-hari, bukan sekadar angka laba di atas kertas, dan arus kas ini negatif Rp64,3 miliar karena perusahaan menumpuk persediaan voucher hingga hampir tiga kali lipat. Pelaku pasar memperhatikan pos ini karena laba yang tumbuh tapi tidak diikuti kas yang benar-benar masuk berarti modal kerja makin banyak tertahan di persediaan, bukan tanda bahaya otomatis tapi perlu dibuktikan lewat penjualan nyata pada kuartal berikutnya. Yang perlu dipantau selanjutnya adalah laporan keuangan tahun penuh 2026, karena persediaan besar ini biasanya ditumpuk untuk musim belanja akhir tahun dan hasilnya akan terlihat di sana. Investor publik UVCR juga masih menunggu kelanjutan rencana penambahan modal tanpa hak memesan efek terlebih dahulu senilai Rp27 miliar yang telah dibahas di RUPSLB, karena itu akan menambah jumlah saham beredar terlepas dari kinerja operasional yang dilaporkan di sini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pemerintah-luncurkan-pengawas-bbm-subsidi-di-3-679-spbu",
   "category": "Energi",
   "title": "Pemerintah [Luncurkan] Pengawas BBM Subsidi di 3.679 SPBU",

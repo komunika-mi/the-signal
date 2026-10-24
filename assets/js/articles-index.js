@@ -1488,6 +1488,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474555-saatnya-borong-harga-emas-antam-hari-ini-23-oktober-2026-merosot-lagi-jadi-rp2540000-per-gram"
  },
  {
+  "slug": "baja-komisaris-lepas-271-juta-saham-hak-suara-ke-10-84",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Komisaris [Lepas] 271 Juta Saham, Hak Suara ke 10,84%",
+  "deck": "Ibnu Susanto, Dewan Komisaris Saranacentral Bajatama, menjual 271 juta saham BAJA pada 21 Oktober 2026, memangkas hak suaranya dari 20,88% menjadi 10,84%.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "Saranacentral Bajatama",
+   "komisaris",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-8127-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ocap-defisiensi-modal-melebar-ke-rp302-85-miliar-di-kuartal-iii",
   "category": "Aksi Korporasi",
   "title": "OCAP: Defisiensi [Modal] Melebar ke Rp302,85 Miliar di Kuartal III",
@@ -6428,21 +6444,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7164/program-kur-dukung-usaha-nelayan-dan-budidaya-lobster-kemenko-perekonomian-perkuat-sinergi-pembiayaan-di-desa-awang",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "paviliun-kawasan-berikat-tei-catat-minat-rp5-triliun",
-  "category": "Industri",
-  "title": "Paviliun Kawasan Berikat TEI Catat Minat [Rp5 Triliun]",
-  "deck": "Enam belas perusahaan menyatakan minat memanfaatkan status Kawasan Berikat dan Pusat Logistik Berikat di Trade Expo Indonesia 2026, dengan potensi investasi sekitar Rp5 triliun menurut Kemendag.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
-  "tags": [
-   "Kawasan Berikat",
-   "Trade Expo Indonesia",
-   "Ekspor Manufaktur",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/paviliun-kawasan-berikat-di-tei-2026-catat-potensi-transaksi-lebih-dari-rp5-triliun",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

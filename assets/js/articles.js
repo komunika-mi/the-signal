@@ -2424,6 +2424,31 @@ var ARTICLES = [
   "imageV": "mvkhlrpk"
  },
  {
+  "slug": "baja-komisaris-lepas-271-juta-saham-hak-suara-ke-10-84",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Komisaris [Lepas] 271 Juta Saham, Hak Suara ke 10,84%",
+  "deck": "Ibnu Susanto, Dewan Komisaris Saranacentral Bajatama, menjual 271 juta saham BAJA pada 21 Oktober 2026, memangkas hak suaranya dari 20,88% menjadi 10,84%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T09:44:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-8127-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "Saranacentral Bajatama",
+   "komisaris",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Ibnu Susanto, yang menjabat Dewan Komisaris Saranacentral Bajatama Tbk (BAJA), melaporkan ke Otoritas Jasa Keuangan pada 23 Oktober 2026 bahwa ia menjual 271.000.000 lembar saham biasa BAJA pada 21 Oktober 2026 dengan harga Rp500 per saham. Transaksi ini dicatat sebagai penjualan langsung dengan tujuan investasi. Dalam laporan kepemilikan itu, Ibnu Susanto menyebut jumlah sahamnya berkurang dari 563.823.118 lembar menjadi 292.823.118 lembar, atau turun 271 juta lembar yang setara 48,06 persen dari kepemilikannya sebelum transaksi.",
+   "Akibat penjualan tersebut, hak suara Ibnu Susanto di BAJA turun dari 20,88 persen menjadi 10,84 persen. Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 2 dan Pasal 3 Ayat 3 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Workers inspecting rolled steel coils inside a large industrial warehouse, overhead crane in the background, dim factory lighting",
+  "takeaway": "Laporan ini condong negatif bagi persepsi tata kelola BAJA, karena yang dilepas bukan remah melainkan hampir separuh kepemilikan pribadi komisaris, sehingga hak suaranya langsung terpangkas dari 20,88 persen menjadi 10,84 persen, hampir setengahnya. Yang tersentuh di sini bukan jumlah saham beredar perusahaan, sebab total saham BAJA tidak berubah, melainkan konsentrasi hak suara di tangan komisaris, yang penting karena semakin kecil porsi suaranya, semakin terbatas pula kemampuannya memengaruhi keputusan di rapat pemegang saham. Pelaku pasar perlu mencermati siapa yang membeli 271 juta lembar saham itu, sebab pembeli baru dengan kepemilikan signifikan bisa muncul di laporan keterbukaan berikutnya dan mengubah susunan pemegang saham utama BAJA. Dokumen ini tidak menyebut tenggat atau agenda RUPS terkait transaksi tersebut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ocap-defisiensi-modal-melebar-ke-rp302-85-miliar-di-kuartal-iii",
   "category": "Aksi Korporasi",
   "title": "OCAP: Defisiensi [Modal] Melebar ke Rp302,85 Miliar di Kuartal III",

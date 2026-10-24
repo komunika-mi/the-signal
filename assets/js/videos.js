@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "PTC7HoLkVJs",
+  "title": "Kementerian Ekonomi Kreatif Luncurkan Creative By Indonesia",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Kementerian Ekonomi Kreatif meluncurkan gerakan Creative by Indonesia bertepatan dengan peringatan Hari Ekonomi Kreatif Nasional 2026, melibatkan pemerintah dan komunitas untuk mendorong brand lokal.",
+  "takeaway": "Peluncuran ini menandai langkah pemerintah memperkuat ekosistem ekonomi kreatif sebagai sektor bisnis yang didorong untuk naik kelas lewat penguatan brand lokal.",
+  "terbit": "2026-10-24T16:04:38+00:00"
+ },
+ {
   "id": "Xu8SBwsG10s",
   "title": "DEN Sebut Suap Bagian dari Kerugian Negara",
   "category": "Makroekonomi",

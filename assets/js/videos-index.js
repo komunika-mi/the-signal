@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "PTC7HoLkVJs",
+  "title": "Kementerian Ekonomi Kreatif Luncurkan Creative By Indonesia",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Kementerian Ekonomi Kreatif meluncurkan gerakan Creative by Indonesia bertepatan dengan peringatan Hari Ekonomi Kreatif Nasional 2026, melibatkan pemerintah dan komunitas untuk mendorong brand lokal.",
+  "takeaway": "Peluncuran ini menandai langkah pemerintah memperkuat ekosistem ekonomi kreatif sebagai sektor bisnis yang didorong untuk naik kelas lewat penguatan brand lokal."
+ },
+ {
   "id": "Xu8SBwsG10s",
   "title": "DEN Sebut Suap Bagian dari Kerugian Negara",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Indonesia dan Rusia menyepakati proyek pembangkit listrik tenaga nuklir terapung berkapasitas 200 megawatt untuk memasok listrik ke wilayah utara Indonesia.",
   "takeaway": "Proyek ini menjadi langkah awal masuknya energi nuklir ke bauran energi nasional, sehingga layak dipantau pelaku pasar energi dan investor infrastruktur."
- },
- {
-  "id": "buav72NREI0",
-  "title": "DPR Dorong Perbaikan Berkelanjutan di Pasar Modal",
-  "category": "Pasar Modal",
-  "program": "AKAP",
-  "summary": "Wakil Ketua DPR Sufmi Dasco Ahmad mendorong perbaikan berkelanjutan di pasar modal Indonesia untuk memperkuat kepercayaan investor dan transparansi.",
-  "takeaway": "Sinyal dukungan politik terhadap reformasi pasar modal ini berpotensi memengaruhi arah kebijakan otoritas bursa dan minat investor domestik maupun asing."
  }
 ];

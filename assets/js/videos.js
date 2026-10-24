@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Xu8SBwsG10s",
+  "title": "DEN Sebut Suap Bagian dari Kerugian Negara",
+  "category": "Makroekonomi",
+  "program": "One On One",
+  "summary": "Presiden Prabowo Subianto bertemu dengan Dewan Ekonomi Nasional membahas sejumlah isu strategis nasional, termasuk usulan DEN bahwa suap tergolong bagian dari kerugian negara.",
+  "takeaway": "Pembahasan ini penting diikuti karena menyangkut arah kebijakan DEN dalam mengaitkan pemberantasan korupsi dengan kesehatan keuangan negara.",
+  "terbit": "2026-10-24T13:15:19+00:00"
+ },
+ {
+  "id": "bd-F_Ve-PVw",
+  "title": "BSI Resmi Buka BSI International Expo 2026",
+  "category": "Perbankan",
+  "program": "AKIM",
+  "summary": "Bank Syariah Indonesia resmi membuka BSI International Expo 2026 di Jakarta International Convention Center, Senayan, pada 23 Oktober 2026, dengan tema Buy Local, Go Global.",
+  "takeaway": "Perhelatan ini menjadi indikator langkah ekspansi perbankan syariah nasional menuju pasar internasional.",
+  "terbit": "2026-10-24T13:13:05+00:00"
+ },
+ {
   "id": "VvHMgwfvkrw",
   "title": "Jakarta Jadi Tuan Rumah Konferensi Ekonomi Kreatif Dunia 2026",
   "category": "Industri",

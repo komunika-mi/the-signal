@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "Xu8SBwsG10s",
+  "title": "DEN Sebut Suap Bagian dari Kerugian Negara",
+  "category": "Makroekonomi",
+  "program": "One On One",
+  "summary": "Presiden Prabowo Subianto bertemu dengan Dewan Ekonomi Nasional membahas sejumlah isu strategis nasional, termasuk usulan DEN bahwa suap tergolong bagian dari kerugian negara.",
+  "takeaway": "Pembahasan ini penting diikuti karena menyangkut arah kebijakan DEN dalam mengaitkan pemberantasan korupsi dengan kesehatan keuangan negara."
+ },
+ {
+  "id": "bd-F_Ve-PVw",
+  "title": "BSI Resmi Buka BSI International Expo 2026",
+  "category": "Perbankan",
+  "program": "AKIM",
+  "summary": "Bank Syariah Indonesia resmi membuka BSI International Expo 2026 di Jakarta International Convention Center, Senayan, pada 23 Oktober 2026, dengan tema Buy Local, Go Global.",
+  "takeaway": "Perhelatan ini menjadi indikator langkah ekspansi perbankan syariah nasional menuju pasar internasional."
+ },
+ {
   "id": "VvHMgwfvkrw",
   "title": "Jakarta Jadi Tuan Rumah Konferensi Ekonomi Kreatif Dunia 2026",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "AKAP",
   "summary": "Wakil Ketua DPR Sufmi Dasco Ahmad mendorong perbaikan berkelanjutan di pasar modal Indonesia untuk memperkuat kepercayaan investor dan transparansi.",
   "takeaway": "Sinyal dukungan politik terhadap reformasi pasar modal ini berpotensi memengaruhi arah kebijakan otoritas bursa dan minat investor domestik maupun asing."
- },
- {
-  "id": "j92OBPCAcz4",
-  "title": "Pengisian BBM di Bali Dibatasi, Motor 3 Liter per Transaksi",
-  "category": "Energi",
-  "program": "AKAP",
-  "summary": "Pertamina membatasi pembelian BBM di Bali, dengan kuota maksimal 20 liter untuk mobil dan 3 liter untuk sepeda motor setiap transaksi.",
-  "takeaway": "Pembatasan ini berdampak langsung pada konsumsi energi rumah tangga serta biaya operasional sektor transportasi dan pariwisata di Bali."
- },
- {
-  "id": "17ZsxqKq35I",
-  "title": "Pupuk Indonesia Jaga Pasokan Pupuk ke Petani",
-  "category": "BUMN",
-  "program": "Kabar Siang",
-  "summary": "Pupuk Indonesia mendukung penyaluran pupuk bersubsidi melalui Koperasi Desa Merah Putih agar petani lebih mudah mendapatkan pupuk dengan harga terjangkau.",
-  "takeaway": "Kebijakan distribusi pupuk bersubsidi ini berkaitan langsung dengan biaya produksi petani dan ketahanan pangan nasional."
  }
 ];

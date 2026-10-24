@@ -21,6 +21,21 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "winr-pemegang-saham-lepas-19-25-juta-saham-demi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Lepas [19,25 Juta] Saham demi Free Float",
+  "deck": "Pemenang Nusantara Internasional melepas 19,25 juta saham WINR pada 21 Oktober 2026, hak suaranya turun dari 45,32 persen menjadi 44,95 persen untuk menambah saham beredar bebas.",
+  "date": "24 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24102026-4884-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-luncurkan-pengawas-bbm-subsidi-di-3-679-spbu",
   "category": "Energi",
   "title": "Pemerintah [Luncurkan] Pengawas BBM Subsidi di 3.679 SPBU",
@@ -525,6 +540,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "enrg-hak-suara-maybank-sekuritas-terdilusi-ke-6-95",
+  "category": "Aksi Korporasi",
+  "title": "ENRG: Hak Suara Maybank Sekuritas [Terdilusi] ke 6,95%",
+  "deck": "Maybank Sekuritas Indonesia melapor hak suaranya di ENRG turun dari 7,01% menjadi 6,95% meski jumlah saham yang dipegang tidak berubah, akibat dilusi dari pelaksanaan rights issue emiten.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "kepemilikan saham",
+   "rights issue",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-0701-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekonomi-digital-ri-tembus-us-100-miliar-terbesar-di-asia-tenggara",
   "category": "Teknologi",
   "title": "Ekonomi Digital RI Tembus [US$100] Miliar, Terbesar di Asia Tenggara",
@@ -570,6 +601,38 @@ var ARTICLES = [
    "BUMA"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f64dc16ddc_01ca04bac2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-direksi-jual-100-000-saham-senilai-rp42-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi [Jual] 100.000 Saham Senilai Rp42,2 Juta",
+  "deck": "Doni Mora, direksi ITSEC Asia, melepas 100.000 saham CYBR secara tidak langsung pada 22 Oktober 2026 dengan harga Rp422 per saham.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-2953-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-direksi-patrick-dannacher-beli-1-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi Patrick Dannacher [Beli] 1 Juta Saham",
+  "deck": "Direksi ITSEC Asia, Patrick Rudolf Dannacher, membeli 1.000.300 saham CYBR senilai sekitar Rp406 juta secara tidak langsung pada 20-22 Oktober 2026.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "kepemilikan saham",
+   "direksi",
+   "ITSEC Asia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-6436-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -686,6 +749,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "impc-harimas-tunggal-tambah-179-300-saham-porsi-tetap-36-01",
+  "category": "Aksi Korporasi",
+  "title": "IMPC: Harimas Tunggal [Tambah] 179.300 Saham, Porsi Tetap 36,01%",
+  "deck": "Pemegang saham utama Harimas Tunggal Perkasa membeli 179.300 saham IMPC seharga Rp790 per saham, namun hak suaranya tetap di 36,01 persen.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IMPC",
+   "pemegang saham",
+   "kepemilikan saham",
+   "Impack Pratama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-8774-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "msin-bagikan-materi-pubex-laba-bersih-h1-naik-14-pubex",
   "category": "Aksi Korporasi",
   "title": "MSIN Bagikan Materi Pubex, Laba Bersih H1 Naik 14% [Pubex]",
@@ -763,6 +842,38 @@ var ARTICLES = [
    "Maybank Sekuritas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc3cfe8934_33b4178ea5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-lepas-saham-via-repo-suara-ke-33-47",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Lepas Saham via Repo, [Suara] ke 33,47%",
+  "deck": "Transaksi pembelian dan penjualan saham lewat perjanjian repo membuat hak suara seorang direksi NSSS turun dari 34,09% menjadi 33,47%.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "repo",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5503-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hrta-terang-anugrah-abadi-tambah-200-000-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "HRTA: Terang Anugrah Abadi Tambah [200.000] Saham via Repo",
+  "deck": "Pemegang saham utama HRTA menambah 200.000 saham lewat mekanisme repurchase agreement pada 20 Oktober 2026, hak suaranya tetap 71,16 persen.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRTA",
+   "kepemilikan saham",
+   "pemegang saham utama",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-8708-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -846,6 +957,38 @@ var ARTICLES = [
    "delisting"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/22e0f56cb5_f768e53ccc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "spma-pengendali-lepas-1-98-juta-saham-kendali-tetap-75",
+  "category": "Aksi Korporasi",
+  "title": "SPMA: Pengendali [Lepas] 1,98 Juta Saham, Kendali Tetap 75%",
+  "deck": "Welly, pengendali tidak langsung Suparma Tbk, menjual 1,98 juta saham pada 23 Oktober 2026 seharga Rp160 per saham, hak suaranya cuma turun ke 75,00%.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SPMA",
+   "Suparma Tbk",
+   "kepemilikan saham",
+   "pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c9af624a6c_70279e8950.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "spma-pemegang-saham-jual-3-juta-saham-senilai-rp480-juta",
+  "category": "Aksi Korporasi",
+  "title": "SPMA: Pemegang Saham [Jual] 3 Juta Saham Senilai Rp480 Juta",
+  "deck": "PT Gloriajaya Gempita milik Presiden Komisaris Welly melepas 3 juta saham SPMA seharga Rp160 per saham pada 23 Oktober 2026, menurunkan kepemilikannya dari 24,01% menjadi 23,96%.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SPMA",
+   "Suparma",
+   "pemegang saham",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/08720b3bfd_5010e780ee.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -945,6 +1088,19 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "raam-direksi-ram-punjabi-tambah-saham-193-100-lembar",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Direksi Ram Punjabi Tambah [Saham] 193.100 Lembar",
+  "deck": "Direktur RAAM Ram Jethmal Punjabi membeli 193.100 saham lewat empat transaksi pada 21-22 Oktober 2026, hak suaranya tetap 68,84 persen.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAAM"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-9453-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "xdif-manajer-investasi-beralih-ke-danareksa-usai-merger-bumn",
   "category": "Aksi Korporasi",
   "title": "XDIF: Manajer Investasi Beralih ke Danareksa usai [Merger] BUMN",
@@ -958,6 +1114,22 @@ var ARTICLES = [
    "Danareksa Investment Management"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a61aad6ae0_530f560947.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "alii-komisaris-tambah-1-2-juta-saham-hak-suara-ke-2-24",
+  "category": "Aksi Korporasi",
+  "title": "ALII: Komisaris [tambah] 1,2 juta saham, hak suara ke 2,24%",
+  "deck": "Komisaris Nalinkant Amratlal Rathod membeli 1.213.600 saham ALII secara tidak langsung pada 21 Oktober 2026, menaikkan hak suaranya dari 2,23% menjadi 2,24%.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ALII",
+   "komisaris",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5252-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -977,6 +1149,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "alii-komisaris-rathod-tambah-saham-suara-tetap-2-23",
+  "category": "Aksi Korporasi",
+  "title": "ALII: [Komisaris] Rathod Tambah Saham, Suara Tetap 2,23%",
+  "deck": "Komisaris ALII, Nalinkant Amratlal Rathod, membeli 296.700 saham lewat dua transaksi pada 20 Oktober 2026 senilai sekitar Rp181,47 juta, namun hak suaranya tetap di 2,23 persen.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ALII",
+   "Ancara Logistics Indonesia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-6861-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jelang-nataru-pemerintah-waspadai-lonjakan-harga-cabai",
   "category": "Makroekonomi",
   "title": "Jelang Nataru, Pemerintah Waspadai Lonjakan Harga [Cabai]",
@@ -991,6 +1179,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7179/antisipasi-inflasi-jelang-nataru-pemerintah-perkuat-rantai-pasok-pangan",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ahap-asuransi-central-asia-tambah-kepemilikan-ke-69-51",
+  "category": "Aksi Korporasi",
+  "title": "AHAP: Asuransi Central Asia Tambah [Kepemilikan] ke 69,51%",
+  "deck": "Asuransi Central Asia menambah 2,77 miliar saham AHAP senilai sekitar Rp138,62 miliar, mengangkat hak suaranya dari 62,58% menjadi 69,51%.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AHAP",
+   "Asuransi Central Asia",
+   "kepemilikan saham",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-6734-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "baik-ganti-komisaris-utama-jadi-yeni-isnawati",
@@ -1187,6 +1391,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "enrg-trimegah-tambah-156-57-juta-saham-via-reverse-repo",
+  "category": "Aksi Korporasi",
+  "title": "ENRG: Trimegah Tambah 156,57 Juta Saham via [Reverse Repo]",
+  "deck": "Trimegah Sekuritas melaporkan penambahan 156,57 juta saham ENRG lewat reverse repo pada 21 Oktober 2026, mengangkat hak suaranya dari 10,78% menjadi 11,24%.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "Trimegah Sekuritas",
+   "reverse repo",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5157-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rgas-pendapatan-9-bulan-anjlok-52-arus-kas-operasi-negatif",
   "category": "Aksi Korporasi",
   "title": "RGAS: Pendapatan 9 Bulan Anjlok 52%, [Arus Kas] Operasi Negatif",
@@ -1200,6 +1420,38 @@ var ARTICLES = [
    "kuartal III 2026"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023100902-64582-0/FinancialStatement-2026-III-RGAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "komisaris-akpi-henry-liem-lepas-300-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "[Komisaris] AKPI Henry Liem Lepas 300.000 Saham",
+  "deck": "Komisaris AKPI Henry Liem menjual 300.000 saham pada 22 Oktober 2026 seharga Rp550 per saham, hak suaranya turun dari 0,8658% menjadi 0,8168%.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "kepemilikan saham",
+   "komisaris",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-9384-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baja-sarana-steel-tambah-saham-hak-suara-ke-32-98",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Sarana Steel Tambah Saham, Hak Suara ke [32,98%]",
+  "deck": "PT Sarana Steel membeli 271 juta saham BAJA seharga Rp500 per lembar, mengangkat hak suaranya dari 22,95 persen menjadi 32,98 persen.",
+  "date": "23 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "Saranacentral Bajatama",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5802-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6192,266 +6444,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/paviliun-kawasan-berikat-di-tei-2026-catat-potensi-transaksi-lebih-dari-rp5-triliun",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "target-pertumbuhan-6-2027-bersandar-pada-ekonomi-digital",
-  "category": "Makroekonomi",
-  "title": "Target Pertumbuhan [6%] 2027 Bersandar pada Ekonomi Digital",
-  "deck": "Pemerintah menjadikan ekonomi digital tumpuan utama mengejar pertumbuhan 6 persen pada 2027, lewat QRIS, pusat data, dan perjanjian ekonomi digital ASEAN.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/pasar-ikan.jpg",
-  "tags": [
-   "ekonomi digital",
-   "pertumbuhan ekonomi",
-   "ASEAN DEFA",
-   "pusat data"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7163/menko-airlangga-perkuat-ekonomi-digital-sebagai-andalan-pertumbuhan-ekonomi-6-pada-2027",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kantor-dagang-ri-bantu-umkm-cari-pembeli-di-as-dan-cili",
-  "category": "Bisnis",
-  "title": "Kantor Dagang RI Bantu [UMKM] Cari Pembeli di AS dan Cili",
-  "deck": "Kemendag menggelar konsultasi bisnis bersama perwakilan dagang RI dari 33 negara di sela Trade Expo Indonesia, membantu eksportir menjajaki pasar Amerika Serikat dan Cili.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/bisnis-resto.jpg",
-  "tags": [],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perluas-akses-informasi-dan-peluang-pasar-ekspor-melalui-konsultasi-bisnis",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "kemendag-klaim-amankan-rp8-triliun-ekspor-dari-hambatan-dagang",
-  "category": "UMKM",
-  "title": "Kemendag Klaim Amankan [Rp8 Triliun] Ekspor dari Hambatan Dagang",
-  "deck": "Kemendag mengklaim mengamankan potensi penerimaan ekspor lebih dari Rp8 triliun dalam dua tahun lewat penanganan 60 kasus hambatan dagang, dibahas dalam seminar UMKM di Trade Expo Indonesia.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/kemendag-klaim-amankan-rp8-triliun-ekspor-dari-hambatan-dagang.jpg",
-  "imageV": "mvc9o2r5",
-  "tags": [
-   "Kemendag",
-   "Ekspor",
-   "UMKM",
-   "Hambatan Dagang"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kolaborasi-pemerintah-dan-dunia-usaha-atasi-hambatan-perdagangan",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "skema-bagi-hasil-ojol-92-8-berisiko-picu-efek-domino",
-  "category": "Ketenagakerjaan",
-  "title": "Skema Bagi Hasil Ojol 92:8 Berisiko Picu Efek [Domino]",
-  "deck": "Analis menilai skema bagi hasil 92 persen untuk pengemudi dan 8 persen aplikator berisiko memicu efek domino, dari pemangkasan tarif dasar hingga potensi pendapatan pengemudi yang justru tidak naik.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/skema-bagi-hasil-ojol-92-8-berisiko-picu-efek-domino.jpg",
-  "imageV": "mvc3qy3g",
-  "tags": [
-   "ojol",
-   "ojek online",
-   "bagi hasil",
-   "efek domino"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473507-kebijakan-skema-ojol-miliki-efek-domino-pengemudi-dinilai-belum-tentu-naik-pendapatan"
- },
- {
-  "slug": "gula-lontar-bali-angkat-pendapatan-petani-ke-rp3-juta-bulan",
-  "category": "UMKM",
-  "title": "Gula Lontar Bali Angkat Pendapatan Petani ke [Rp3 Juta]/Bulan",
-  "deck": "Tarunira, usaha sosial pengolah gula lontar di Karangasem, Bali, memamerkan produknya di Trade Expo Indonesia 2026 sembari menjajaki peluang ekspor ke Jepang, Eropa, dan Australia.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
-  "tags": [
-   "gula lontar",
-   "UMKM",
-   "Trade Expo Indonesia",
-   "ekspor"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bukan-sekadar-manis-gula-lontar-bali-jadi-mesin-penggerak-desa",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ekonomi-syariah-tumbuh-6-2-bi-gaet-wirausaha-muda",
-  "category": "UMKM",
-  "title": "Ekonomi [Syariah] Tumbuh 6,2%, BI Gaet Wirausaha Muda",
-  "deck": "Bank Indonesia membuka forum kewirausahaan syariah untuk anak muda di Jakarta, seiring klaim rantai nilai halal tumbuh 6,21 persen pada 2025, melampaui pertumbuhan ekonomi nasional.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/pengrajin-rotan.jpg",
-  "tags": [
-   "ekonomi syariah",
-   "ISEF 2026",
-   "UMKM",
-   "GenBI"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822726.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "baja-ri-bersaing-rebut-kuota-ekspor-ke-inggris-dan-eropa",
-  "category": "Industri",
-  "title": "Baja RI Bersaing Rebut Kuota Ekspor ke Inggris dan [Eropa]",
-  "deck": "Uni Eropa dan Inggris mengubah tarif dan kuota impor baja, memaksa eksportir Indonesia bersaing lebih ketat sembari pemerintah merundingkan kuota khusus dan tarif nol persen.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/baja-ri-bersaing-rebut-kuota-ekspor-ke-inggris-dan-eropa.jpg",
-  "imageV": "mvbvtrvo",
-  "tags": [
-   "ekspor baja",
-   "tarif Uni Eropa",
-   "Inggris",
-   "kuota impor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-strategi-amankan-pasar-ekspor-baja-ke-uni-eropa-dan-inggris",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bi-soroti-peran-perempuan-dalam-ekosistem-halal-di-isef-2026",
-  "category": "UMKM",
-  "title": "BI Soroti Peran [Perempuan] dalam Ekosistem Halal di ISEF 2026",
-  "deck": "Konferensi dalam rangkaian ISEF 2026 menyoroti peran pelaku usaha perempuan di ekosistem industri halal, sektor yang disebut menyumbang 27 persen produk domestik bruto Indonesia.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/kedai-kopi-kecil.jpg",
-  "tags": [
-   "ISEF 2026",
-   "Bank Indonesia",
-   "ekonomi syariah",
-   "UMKM perempuan"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822626.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "harga-emas-antam-naik-ke-rp2-572-000-per-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Naik] ke Rp2.572.000 per Gram",
-  "deck": "Harga emas Antam hari ini naik Rp7.000 menjadi Rp2.572.000 per gram, sementara harga buyback ikut naik ke Rp2.387.000 per gram.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-naik-ke-rp2-572-000-per-gram.jpg",
-  "imageV": "mvbvtspm",
-  "tags": [
-   "emas",
-   "harga emas antam",
-   "antam",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473476-saatnya-jual-harga-emas-antam-hari-ini-17-oktober-2026-melonjak-ke-rp2572000-per-gram"
- },
- {
-  "slug": "dagang-ri-rusia-naik-21-6-fta-eurasia-ditarget-rampung-2026",
-  "category": "Global",
-  "title": "Dagang RI-Rusia Naik 21,6%, FTA Eurasia Ditarget [Rampung] 2026",
-  "deck": "Menko Airlangga dan Deputi PM Rusia Denis Manturov membahas penguatan perdagangan bilateral yang naik 21,6 persen pada 2025, serta target ratifikasi FTA Indonesia-EAEU sebelum akhir 2026.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
-  "tags": [
-   "Rusia",
-   "Perdagangan",
-   "FTA Eurasia",
-   "Airlangga Hartarto"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7162/terima-kunjungan-deputi-pertama-perdana-menteri-rusia-menko-airlangga-bahas-peluang-perdagangan-dan-kerja-sama-ekonomi-bilateral",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "esdm-resmikan-kilang-lpg-cilamaya-kapasitas-160-ton-hari",
-  "category": "Energi",
-  "title": "ESDM Resmikan Kilang LPG Cilamaya, Kapasitas [160] Ton/Hari",
-  "deck": "Kilang LPG Cilamaya di Karawang resmi beroperasi dengan kapasitas 160 ton per hari, menambah pasokan domestik di tengah tingginya impor LPG nasional.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/esdm-resmikan-kilang-lpg-cilamaya-kapasitas-160-ton-hari.jpg",
-  "imageV": "mvbhu4ao",
-  "tags": [
-   "LPG",
-   "Kilang Gas",
-   "ESDM",
-   "Impor Energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473448-hadapi-geopolitik-global-menteri-esdm-resmikan-kilang-lpg-cilamaya-berkapasitas-160-ton-per-hari"
- },
- {
-  "slug": "stok-bbm-nasional-aman-distribusi-ke-bali-diperkuat",
-  "category": "Energi",
-  "title": "Stok BBM Nasional Aman, Distribusi ke [Bali] Diperkuat",
-  "deck": "Pemerintah memastikan stok BBM nasional aman di level 16-18 hari, namun menambah kapal untuk perbaiki distribusi ke Bali dan wilayah kepulauan.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/stok-bbm-nasional-aman-distribusi-ke-bali-diperkuat.jpg",
-  "imageV": "mvbbwb0m",
-  "tags": [
-   "BBM",
-   "Bahlil Lahadalia",
-   "Distribusi Energi",
-   "Bali"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473435-stok-bbm-nasional-dipastikan-aman-pemerintah-fokus-perbaiki-jalur-pengiriman"
- },
- {
-  "slug": "kemendag-targetkan-4-juta-umkm-siap-ekspor-dalam-5-tahun",
-  "category": "UMKM",
-  "title": "Kemendag Targetkan 4 Juta UMKM Siap [Ekspor] dalam 5 Tahun",
-  "deck": "Kemendag menargetkan 4 juta UMKM siap ekspor dalam lima tahun lewat program Campuspreneur yang kini melibatkan 27 perguruan tinggi, termasuk MoU baru dengan UIN Jakarta dan Universitas Presiden.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/pedagang-sayur-keliling.jpg",
-  "tags": [
-   "UMKM",
-   "ekspor",
-   "Kemendag",
-   "Campuspreneur"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-4-juta-umkm-siap-ekspor-melalui-program-campuspreneur",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "pegadaian-luncurkan-atm-emas-bisa-cetak-instan",
-  "category": "BUMN",
-  "title": "Pegadaian Luncurkan ATM Emas, Bisa [Cetak] Instan",
-  "deck": "Pegadaian meluncurkan ATM Emas yang terhubung ke aplikasi Tring!, memungkinkan nasabah mengambil emas fisik 1-100 gram secara instan tanpa menunggu proses cetak di outlet.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/pegadaian-luncurkan-atm-emas-bisa-cetak-instan.jpg",
-  "imageV": "mvbbwbhd",
-  "tags": [
-   "Pegadaian",
-   "ATM Emas",
-   "Tring!",
-   "emas digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473432-mudahnya-mengubah-saldo-emas-digital-menjadi-fisik-lewat-atm"
- },
- {
-  "slug": "bni-raih-peringkat-4-layanan-terbaik-bumn-2026",
-  "category": "Perbankan",
-  "title": "BNI Raih Peringkat [4] Layanan Terbaik BUMN 2026",
-  "deck": "BNI menempati posisi keempat kategori Top 10 BUMN Layanan Terbaik di Danantara Indonesia CX100 Award 2026, ditopang pertumbuhan transaksi digital wondr dan BNIdirect.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/bni-raih-peringkat-4-layanan-terbaik-bumn-2026.jpg",
-  "imageV": "mvb77awn",
-  "tags": [
-   "BNI",
-   "Danantara Indonesia",
-   "CX100 Award",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473420-bni-raih-peringkat-4-bumn-layanan-terbaik-di-danantara-indonesia-cx100-award-2026"
- },
- {
-  "slug": "enzo-tegaskan-tak-ada-informasi-material-soal-volatilitas",
-  "category": "Aksi Korporasi",
-  "title": "ENZO Tegaskan Tak Ada [Informasi Material] Soal Volatilitas",
-  "deck": "Merespons permintaan Bursa Efek Indonesia, ENZO menyatakan tidak ada informasi material, aksi korporasi, atau rencana pemegang saham pengendali yang mendasari pergerakan harga sahamnya.",
-  "date": "16 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENZO",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cf06a3bfe1_dcc8a80fd1.pdf",
-  "sourceLabel": "IDX"
  }
 ];

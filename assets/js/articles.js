@@ -29,6 +29,31 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "winr-pemegang-saham-lepas-19-25-juta-saham-demi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Lepas [19,25 Juta] Saham demi Free Float",
+  "deck": "Pemenang Nusantara Internasional melepas 19,25 juta saham WINR pada 21 Oktober 2026, hak suaranya turun dari 45,32 persen menjadi 44,95 persen untuk menambah saham beredar bebas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Oktober 2026",
+  "isoDate": "2026-10-24T14:38:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24102026-4884-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float"
+  ],
+  "body": [
+   "PEMENANG NUSANTARA INTERNASIONAL, pemegang saham PT Winner Nusantara Jaya Tbk (WINR) yang bukan anggota direksi maupun dewan komisaris, melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menjual secara tidak langsung 19.250.000 saham biasa WINR pada 21 Oktober 2026 dengan harga Rp20 per saham. Akibat transaksi ini, jumlah saham yang dipegangnya berkurang dari 2.372.564.100 lembar menjadi 2.353.314.100 lembar.",
+   "Perubahan jumlah saham tersebut membuat hak suara pelapor di WINR turun dari 45,32 persen menjadi 44,95 persen. Dalam laporan yang disampaikan sesuai POJK Nomor 4/2024 itu, tujuan transaksi dicatat sebagai upaya menambah porsi saham WINR yang beredar bebas di pasar.",
+   "Transaksi ini merupakan pelepasan kedua dengan tujuan serupa dari pelapor yang sama dalam sepekan terakhir. Pada 20 Oktober 2026, pelapor tercatat melepas 41,5 juta saham WINR dengan alasan yang sama, yang saat itu menurunkan hak suaranya dari 46,11 persen. Dengan transaksi terbaru ini, total saham yang dilepas pelapor dalam dua laporan tersebut mencapai sekitar 60,75 juta lembar."
+  ],
+  "fotoAdegan": "Exterior of a modern financial district office tower in Jakarta reflecting a cloudy sky, pedestrians crossing a busy street below",
+  "takeaway": "Laporan ini netral bagi WINR karena saham yang dilepas hanya 0,81 persen dari kepemilikan pelapor, dan hak suaranya nyaris tidak bergeser dari 45,32 persen ke 44,95 persen, sehingga tidak bisa dibaca sebagai sinyal pelapor melepas kendali. Transaksi ini tidak menyentuh ekuitas, laba per saham, atau kas perusahaan karena ini jual beli saham antar pemegang saham di pasar sekunder, bukan aksi korporasi WINR sendiri, yang bergeser hanya porsi saham yang beredar bebas di pasar karena tujuan transaksi memang disebutkan untuk menambah jumlah saham WINR yang bisa diperdagangkan publik. Perlu dicermati apakah pelapor melanjutkan pola pelepasan bertahap ini, sebab ini sudah transaksi kedua dengan tujuan serupa dalam sepekan setelah pelepasan 41,5 juta saham pada 20 Oktober 2026, yang bila berlanjut bisa terus menggerus porsi kepemilikannya dari level saat ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pemerintah-luncurkan-pengawas-bbm-subsidi-di-3-679-spbu",
   "category": "Energi",
   "title": "Pemerintah [Luncurkan] Pengawas BBM Subsidi di 3.679 SPBU",
@@ -847,6 +872,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "enrg-hak-suara-maybank-sekuritas-terdilusi-ke-6-95",
+  "category": "Aksi Korporasi",
+  "title": "ENRG: Hak Suara Maybank Sekuritas [Terdilusi] ke 6,95%",
+  "deck": "Maybank Sekuritas Indonesia melapor hak suaranya di ENRG turun dari 7,01% menjadi 6,95% meski jumlah saham yang dipegang tidak berubah, akibat dilusi dari pelaksanaan rights issue emiten.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T18:19:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-0701-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "kepemilikan saham",
+   "rights issue",
+   "dilusi saham"
+  ],
+  "body": [
+   "Maybank Sekuritas Indonesia melaporkan kepada Otoritas Jasa Keuangan bahwa hak suaranya di Energi Mega Persada Tbk (ENRG) berkurang dari 7,01 persen menjadi 6,95 persen. Laporan bernomor LK/23102026/0015/1 ini menegaskan bahwa jumlah saham yang dipegang Maybank Sekuritas Indonesia tidak berubah sama sekali, tetap di angka 2.374.514.000 lembar, baik sebelum maupun sesudah periode pelaporan.",
+   "Dalam dokumen itu disebutkan secara eksplisit bahwa tidak ada transaksi jual beli atas saham ENRG yang dilakukan Maybank Sekuritas Indonesia. Penurunan persentase hak suara terjadi karena jumlah saham ENRG yang beredar di pasar bertambah, sebagai dampak dari periode pelaksanaan rights exercise yang dijalankan emiten pada 20 Oktober 2026. Dengan kata lain, porsi kepemilikan Maybank mengecil bukan karena melepas saham, melainkan karena kue totalnya membesar.",
+   "Laporan juga mencantumkan kepemilikan tidak langsung sebanyak 8.700.000 lembar saham biasa melalui PT Satya Investa Persada, dengan jenis transaksi tercatat sebagai 'lainnya' dan tanpa keterangan harga. Peristiwa ini merupakan rangkaian dari proses rights issue PUT IV ENRG yang beberapa minggu terakhir juga tercermin dalam laporan penambahan 195,3 juta saham dan transaksi reverse repo 265 juta saham oleh Trimegah Sekuritas."
+  ],
+  "fotoAdegan": "Onshore oil and gas production facility in Indonesia with pipelines and storage tanks, workers checking equipment, early morning light",
+  "takeaway": "Laporan ini netral bagi ENRG karena penurunan hak suara Maybank Sekuritas semata akibat dilusi matematis dari bertambahnya saham beredar, bukan keputusan pelaku pasar untuk mengurangi kepemilikan. Yang tersentuh di sini adalah jumlah saham beredar perusahaan, yang kalau terus bertambah lewat rights issue akan membuat laba per saham dan porsi kepemilikan setiap pemegang saham lama ikut mengecil secara proporsional, meski nilai kepemilikan mereka dalam rupiah belum tentu berkurang. Pola ini konsisten dengan beberapa laporan ENRG lain pekan ini yang juga menunjukkan dilusi akibat rights issue PUT IV, sehingga perlu dilihat sebagai satu rangkaian proses, bukan peristiwa berdiri sendiri. Yang perlu dipantau selanjutnya adalah kapan periode rights exercise PUT IV ini resmi ditutup dan berapa total tambahan saham yang akhirnya diterbitkan, karena itu akan menentukan seberapa besar dilusi final bagi seluruh pemegang saham ENRG.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ekonomi-digital-ri-tembus-us-100-miliar-terbesar-di-asia-tenggara",
   "category": "Teknologi",
   "title": "Ekonomi Digital RI Tembus [US$100] Miliar, Terbesar di Asia Tenggara",
@@ -932,6 +983,57 @@ var ARTICLES = [
   "fotoAdegan": "Rows of heavy mining dump trucks parked along a dusty haul road at a coal mine, overcast sky, distant hills.",
   "takeaway": "Laporan ini condong negatif bagi DOID karena menegaskan ekuitas perusahaan nyaris habis, hanya USD2,5 juta dari USD48,87 juta enam bulan sebelumnya, dan rasio utang bersih anak usaha BOLD sudah berada di luar batas yang disepakati kreditor. Ekuitas adalah selisih antara aset dan utang perusahaan, semacam kekayaan bersih pemegang saham, sehingga penyusutan setajam ini berarti bantalan keuangan DOID menipis dan ruang geraknya untuk menanggung kerugian lanjutan menjadi sangat sempit. Beban bunga yang mencapai USD43 juta dalam enam bulan turut menggerus laba, menunjukkan beratnya biaya utang di tengah pendapatan yang justru turun. Yang perlu dipantau berikutnya adalah hasil uji rasio keuangan BOLD berdasarkan laporan keuangan auditan per 31 Desember 2026, karena di situlah kewajiban memenuhi ambang batas kreditor benar-benar berlaku, sementara posisi ekuitas per 30 September 2026 juga layak ditunggu mengingat bursa sendiri mempertanyakan potensi ekuitas negatif pada periode itu.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "cybr-direksi-jual-100-000-saham-senilai-rp42-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi [Jual] 100.000 Saham Senilai Rp42,2 Juta",
+  "deck": "Doni Mora, direksi ITSEC Asia, melepas 100.000 saham CYBR secara tidak langsung pada 22 Oktober 2026 dengan harga Rp422 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T17:57:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-2953-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "PT ITSEC Asia Tbk (CYBR) melaporkan ke Otoritas Jasa Keuangan bahwa Doni Mora, salah satu anggota direksi perusahaan, menjual 100.000 lembar saham CYBR pada 22 Oktober 2026. Transaksi dilakukan secara tidak langsung dengan harga Rp422 per saham, sehingga nilai total penjualan sekitar Rp42,2 juta. Dalam laporan tertanggal 23 Oktober 2026 itu, tujuan transaksi dicatat sebagai investasi lainnya.",
+   "Dengan penjualan ini, kepemilikan saham Doni Mora di CYBR berkurang dari 4.297.800 lembar menjadi 4.197.800 lembar, atau turun sekitar 2,33 persen dari jumlah yang ia pegang sebelumnya. Hak suaranya di perusahaan ikut bergeser, dari 0,032 persen menjadi 0,031 persen dari total saham beredar."
+  ],
+  "fotoAdegan": "Technicians working among server racks with blinking status lights in a dim data center aisle, Indonesia",
+  "takeaway": "Laporan ini netral bagi CYBR, sebab nilai transaksinya hanya sekitar Rp42,2 juta dan hak suara Doni Mora di perusahaan nyaris tidak berubah, dari 0,032 persen menjadi 0,031 persen. Hak suara ini penting dipantau pelaku pasar karena mencerminkan porsi kendali seorang direksi atau komisaris atas keputusan perusahaan, sehingga perubahan yang signifikan biasa dibaca sebagai sinyal keyakinan orang dalam terhadap prospek perusahaan, namun di sini pergeserannya terlalu kecil untuk dibaca sebagai pernyataan sikap. Yang perlu dicermati selanjutnya adalah apakah muncul laporan kepemilikan susulan dari direksi atau komisaris CYBR lain dalam waktu dekat, mengingat pada pekan sebelumnya seorang komisaris CYBR juga tercatat melepas sebagian kecil sahamnya, sehingga pola transaksi kecil yang berulang dari beberapa petinggi perusahaan layak diawasi meski masing-masing laporan belum menunjukkan sinyal yang berarti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cybr-direksi-patrick-dannacher-beli-1-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi Patrick Dannacher [Beli] 1 Juta Saham",
+  "deck": "Direksi ITSEC Asia, Patrick Rudolf Dannacher, membeli 1.000.300 saham CYBR senilai sekitar Rp406 juta secara tidak langsung pada 20-22 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T17:52:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-6436-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "kepemilikan saham",
+   "direksi",
+   "ITSEC Asia"
+  ],
+  "body": [
+   "Anggota Direksi PT ITSEC Asia Tbk (CYBR), Patrick Rudolf Dannacher, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan secara tidak langsung sebanyak 1.000.300 lembar sepanjang 20 hingga 22 Oktober 2026. Pembelian dilakukan lewat puluhan transaksi kecil dengan harga bervariasi antara Rp376 dan Rp432 per saham, dengan tujuan yang disebutkan dalam laporan sebagai investasi.",
+   "Dengan pembelian ini, kepemilikan Dannacher di CYBR naik dari 113.485.400 lembar menjadi 114.485.700 lembar. Hak suaranya di perusahaan ikut naik dari 0,841 persen menjadi 0,849 persen. Berdasarkan rincian harga dan jumlah saham di setiap transaksi pada laporan, total nilai pembelian ini sekitar Rp406 juta.",
+   "Laporan ini merupakan kewajiban rutin bagi direksi dan komisaris perusahaan terbuka berdasarkan Peraturan OJK Nomor 4/2024, yang mengharuskan setiap perubahan kepemilikan saham oleh insider dilaporkan kepada regulator. Dannacher, yang berstatus warga negara asing, tercatat sebagai salah satu anggota direksi ITSEC Asia."
+  ],
+  "fotoAdegan": "Technicians monitoring rows of server racks with blinking indicator lights inside a dim data center in Jakarta",
+  "takeaway": "Laporan ini netral bagi CYBR, sebab pembelian 1.000.300 saham oleh Dannacher hanya sekitar 0,88 persen dari kepemilikannya sendiri, dan hak suaranya di perusahaan praktis tak bergeser, dari 0,841 persen ke 0,849 persen. Transaksi ini tidak mengubah jumlah saham beredar atau ekuitas perusahaan, karena yang terjadi hanya perpindahan saham yang sudah ada di pasar ke tangan Dannacher, sehingga dampaknya terbatas pada struktur kepemilikan dan hak suara insider, bukan pada laba per saham atau arus kas perusahaan. Pembelian yang dipecah dalam puluhan transaksi kecil sepanjang tiga hari juga menunjukkan ini akumulasi bertahap lewat pasar reguler, bukan langkah strategis besar. Yang perlu dipantau berikutnya adalah apakah Dannacher atau direksi lain CYBR melanjutkan pola pembelian serupa pada laporan-laporan mendatang, karena akumulasi kecil yang konsisten dari waktu ke waktu baru berarti kalau jumlahnya dijumlahkan.",
+  "sentimen": "netral"
  },
  {
   "slug": "buka-bukukan-rugi-rp881-miliar-di-sembilan-bulan-2026",
@@ -1118,6 +1220,31 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "impc-harimas-tunggal-tambah-179-300-saham-porsi-tetap-36-01",
+  "category": "Aksi Korporasi",
+  "title": "IMPC: Harimas Tunggal [Tambah] 179.300 Saham, Porsi Tetap 36,01%",
+  "deck": "Pemegang saham utama Harimas Tunggal Perkasa membeli 179.300 saham IMPC seharga Rp790 per saham, namun hak suaranya tetap di 36,01 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T16:53:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-8774-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IMPC",
+  "tags": [
+   "IMPC",
+   "pemegang saham",
+   "kepemilikan saham",
+   "Impack Pratama"
+  ],
+  "body": [
+   "Harimas Tunggal Perkasa, pemegang saham utama PT Impack Pratama Industri Tbk (IMPC), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya bertambah dari 19.770.265.600 lembar menjadi 19.770.444.900 lembar. Penambahan sebanyak 179.300 lembar saham biasa itu berasal dari transaksi pembelian tidak langsung pada 22 Oktober 2026 dengan harga Rp790 per saham, dan tujuan transaksi dicatat sebagai investasi.",
+   "Meski jumlah lembar sahamnya bertambah, hak suara Harimas Tunggal Perkasa di IMPC tercatat tidak berubah, tetap di angka 36,01 persen baik sebelum maupun setelah transaksi. Laporan ini disampaikan sesuai POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, dan pelapor bukan merupakan anggota direksi maupun dewan komisaris perseroan."
+  ],
+  "fotoAdegan": "Workers inspecting stacked rows of plastic roofing sheets in an industrial warehouse, forklift nearby, overhead lighting",
+  "takeaway": "Laporan ini netral bagi IMPC karena pembelian 179.300 saham oleh Harimas Tunggal Perkasa hanya setara sekitar 0,0009 persen dari kepemilikannya sebelumnya, terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran dari pemegang saham utama. Yang tersentuh di sini adalah hak suara, yaitu porsi suara seseorang dalam rapat pemegang saham untuk ikut menentukan keputusan perusahaan, dan dalam kasus ini porsinya tetap di 36,01 persen karena tambahan saham itu jauh lebih kecil dibanding total saham IMPC yang sudah beredar. Pelaku pasar biasanya memantau laporan semacam ini bukan dari satu transaksi kecil, melainkan dari konsistensi penambahan atau pengurangan saham pemegang saham pengendali dari waktu ke waktu. Yang perlu dipantau berikutnya adalah apakah Harimas Tunggal Perkasa kembali melaporkan pembelian serupa pada periode mendatang, karena akumulasi dari banyak transaksi kecil bisa saja mengubah porsi hak suaranya secara lebih berarti.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "msin-bagikan-materi-pubex-laba-bersih-h1-naik-14-pubex",
   "category": "Aksi Korporasi",
   "title": "MSIN Bagikan Materi Pubex, Laba Bersih H1 Naik 14% [Pubex]",
@@ -1245,6 +1372,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Office workers crossing a busy plaza in Jakarta's financial district at sunrise, glass towers reflecting soft morning light",
   "takeaway": "Laporan ini netral baik bagi SIDO maupun Maybank Sekuritas, sebab penyesuaian harga pelaksanaan dan rasio konversi hanyalah konsekuensi rumus baku yang sudah disepakati sejak prospektus terbit, bukan keputusan bisnis baru yang mengubah fundamental kedua pihak. Yang tersentuh di sini adalah syarat produk waran terstruktur, semacam surat berharga yang memberi hak membeli saham SIDO pada harga dan rasio tertentu, dan harga serta rasio itu memang wajib disesuaikan setiap kali SIDO membagi dividen agar nilai hak beli pemegang waran tidak tergerus oleh turunnya harga saham akibat dividen tersebut. Yang perlu dipantau adalah harga penutupan SIDO pada cum-date sebelum 3 November 2026, karena angka itu jadi penentu besaran harga pelaksanaan dan rasio konversi baru yang berlaku efektif 3 November 2026 untuk pasar reguler dan negosiasi, serta 5 November 2026 untuk pasar tunai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nsss-direksi-lepas-saham-via-repo-suara-ke-33-47",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Lepas Saham via Repo, [Suara] ke 33,47%",
+  "deck": "Transaksi pembelian dan penjualan saham lewat perjanjian repo membuat hak suara seorang direksi NSSS turun dari 34,09% menjadi 33,47%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T16:23:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5503-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "repo",
+   "direksi"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) melaporkan perubahan kepemilikan saham oleh salah satu anggota direksinya ke Otoritas Jasa Keuangan pada 23 Oktober 2026. Pelapor yang tercatat dalam Single Investor Identification (SID) dengan nama Samuel Sekuritas Indonesia dan menjabat Direksi NSSS, sebelumnya memegang 8.114.626.700 lembar saham atau setara 34,09% hak suara. Setelah transaksi pada tanggal yang sama, kepemilikannya turun menjadi 7.965.469.000 lembar, dengan hak suara menjadi 33,47%.",
+   "Dokumen menyebutkan dua transaksi yang keduanya terkait perjanjian repurchase agreement (repo), yaitu mekanisme saham dijadikan jaminan pinjaman. Pertama, pembelian 191.776.900 lembar saham biasa pada harga Rp515 per lembar dengan tujuan tercatat 'top up repo', yang berarti menambah jaminan. Kedua, penjualan 340.934.600 lembar saham biasa pada harga Rp740 per lembar dengan tujuan 'pencairan repo', yaitu melepas saham saat jaminan tersebut dicairkan. Hasil bersih dari kedua transaksi itu adalah pengurangan 149.157.700 lembar saham, atau 1,84% dari kepemilikan direksi tersebut sebelum transaksi.",
+   "Laporan ini muncul tak lama setelah NSSS juga melaporkan transaksi repo serupa pada 19 Oktober 2026, yang saat itu menaikkan hak suara seorang direksi menjadi 32,01%. NSSS sendiri telah menjadwalkan rapat umum pemegang saham luar biasa (RUPSLB) pada 1 Desember 2026, dengan cum date 6 November 2026, meski agenda rapat belum diumumkan rinci."
+  ],
+  "fotoAdegan": "Workers loading fresh palm fruit bunches onto a truck at a rural plantation collection point, tropical morning light",
+  "takeaway": "Saya menilai laporan ini netral bagi NSSS karena pengurangan 149 juta lembar saham itu hanya setara 1,84 persen dari kepemilikan direksi yang bersangkutan, dan hak suaranya masih bertahan di atas 33 persen, jauh dari ambang yang mengubah status pengendalian. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara direksi, bukan kas atau utang perusahaan, sebab transaksi berjalan lewat perjanjian repo, yakni saham dijadikan jaminan pinjaman lalu dibeli kembali atau dilepas saat jaminan itu dicairkan, jadi uangnya berpindah antara direksi dan pihak pemberi pinjaman, bukan masuk ke kas NSSS. Yang perlu dipantau berikutnya adalah RUPSLB NSSS pada 1 Desember 2026 dengan cum date 6 November 2026, karena di sanalah akan terlihat apakah rangkaian transaksi repo oleh jajaran direksi belakangan ini berkaitan dengan agenda korporasi yang akan diputuskan pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hrta-terang-anugrah-abadi-tambah-200-000-saham-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "HRTA: Terang Anugrah Abadi Tambah [200.000] Saham via Repo",
+  "deck": "Pemegang saham utama HRTA menambah 200.000 saham lewat mekanisme repurchase agreement pada 20 Oktober 2026, hak suaranya tetap 71,16 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T16:21:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-8708-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRTA",
+  "tags": [
+   "HRTA",
+   "kepemilikan saham",
+   "pemegang saham utama",
+   "repurchase agreement"
+  ],
+  "body": [
+   "PT. Terang Anugrah Abadi, pemegang saham utama PT Hartadinata Abadi Tbk (HRTA) dengan hak suara 71,16 persen, melaporkan ke Otoritas Jasa Keuangan bahwa pada 20 Oktober 2026 pihaknya membeli tambahan 200.000 saham HRTA secara tidak langsung. Transaksi ini dilakukan melalui mekanisme repurchase agreement dengan harga Rp1.550 per saham, dan tujuan transaksi yang dicatat dalam laporan adalah investasi.",
+   "Dengan transaksi ini, jumlah saham HRTA yang dikuasai Terang Anugrah Abadi naik dari 3.277.048.000 lembar menjadi 3.277.248.000 lembar, bertambah 200.000 lembar. Kenaikan ini hanya setara 0,0061 persen dari kepemilikan sebelumnya, sehingga hak suara Terang Anugrah Abadi di HRTA tidak berubah dan tetap di angka 71,16 persen.",
+   "Transaksi ini menyusul pembelian serupa oleh Terang Anugrah Abadi tiga hari sebelumnya, yaitu penambahan 5 juta saham HRTA yang juga dinilai netral oleh redaksi pada 20 Oktober 2026 karena ukurannya yang kecil terhadap total kepemilikannya."
+  ],
+  "fotoAdegan": "Workers polishing gold jewelry pieces on a factory production line, close-up on hands and tools, warm indoor lighting",
+  "takeaway": "Transaksi ini netral bagi HRTA, sebab penambahan 200.000 saham oleh Terang Anugrah Abadi hanya setara 0,0061 persen dari kepemilikan pemegang saham utama itu sendiri, jumlah yang terlalu kecil untuk dibaca sebagai sinyal keyakinan tambahan terhadap perusahaan. Pos yang tersentuh di sini cuma soal kepemilikan pemegang saham utama, bukan jumlah saham beredar HRTA secara keseluruhan, karena ini pembelian saham yang sudah ada di pasar, bukan penerbitan saham baru, sehingga tidak ada dilusi bagi pemegang saham lain, dan hak suara Terang Anugrah Abadi, yakni porsi suaranya dalam rapat pemegang saham, juga tidak berubah dari 71,16 persen. Yang lebih perlu dipantau ke depan adalah realisasi private placement hingga 10 persen saham baru yang baru disetujui RUPS HRTA, sebab penerbitan saham baru itulah yang berpotensi benar-benar mengubah proporsi kepemilikan dan hak suara seluruh pemegang saham, termasuk Terang Anugrah Abadi.",
   "sentimen": "netral"
  },
  {
@@ -1377,6 +1556,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Real estate agents in business attire showing a furnished apartment unit to a young couple, bright daylight interior",
   "takeaway": "Laporan ini netral bagi fundamental IPAC, karena isinya hanya pelaksanaan teknis dari rencana go private yang sudah disetujui pemegang saham sejak 20 Oktober 2026, dan harga tawaran Rp250 per saham justru berada di atas seluruh harga tertinggi harian IPAC selama 90 hari sebelum pengumuman rencana ini, jadi tidak ada indikasi pemegang saham publik dirugikan dari sisi harga. Yang tersentuh di sini adalah susunan pemegang saham dan status pencatatan IPAC, bukan kinerja keuangan seperti laba atau utang, karena bila seluruh saham publik terserap, kepemilikan APAC naik dari 90,6 persen menjadi 100 persen dan saham IPAC akan berhenti diperdagangkan di bursa sehingga publik kehilangan akses jual beli terbuka atas saham ini. Yang perlu dipantau berikutnya adalah tanggal efektif dari OJK yang diperkirakan 17 Desember 2026, periode penawaran yang diperkirakan berjalan 21 Desember 2026 sampai 19 Januari 2027, dan tanggal pembayaran kepada pemegang saham yang menerima tawaran pada 26 Januari 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "spma-pengendali-lepas-1-98-juta-saham-kendali-tetap-75",
+  "category": "Aksi Korporasi",
+  "title": "SPMA: Pengendali [Lepas] 1,98 Juta Saham, Kendali Tetap 75%",
+  "deck": "Welly, pengendali tidak langsung Suparma Tbk, menjual 1,98 juta saham pada 23 Oktober 2026 seharga Rp160 per saham, hak suaranya cuma turun ke 75,00%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T15:21:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c9af624a6c_70279e8950.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SPMA",
+  "tags": [
+   "SPMA",
+   "Suparma Tbk",
+   "kepemilikan saham",
+   "pengendali"
+  ],
+  "body": [
+   "Suparma Tbk (SPMA) melaporkan ke Otoritas Jasa Keuangan bahwa Welly, pengendali tidak langsung perusahaan, menjual 1.987.500 lembar saham SPMA pada 23 Oktober 2026 dengan harga Rp160 per saham, atau senilai sekitar Rp317,7 juta. Laporan yang dikuasakan kepada Hendro Luhur ini mencatat kepemilikan Welly turun dari 3.999.722.263 lembar saham (75,04% hak suara) menjadi 3.997.734.763 lembar saham (75,00% hak suara). Tujuan transaksi disebutkan sebagai mengurangi nilai investasi, dan perusahaan menyebut penjualan ini sebagai bagian dari upaya menambah porsi saham Suparma yang beredar bebas di tangan publik.",
+   "Kepemilikan Welly di Suparma bersifat tidak langsung, melalui empat entitas yang masing-masing memegang saham SPMA: PT Pacific Star Synergy 49,98%, PT Gloriajaya Gempita 23,96%, PT Graha Inti Harapan 10,68%, dan Cathay Utima Investment Pte Ltd 0,12%. Welly sendiri menguasai 66,25% saham PT Gloriajaya Gempita, 85% saham PT Graha Inti Harapan, 100% saham Cathay Utima Investment Pte Ltd, serta secara tidak langsung 99,9% saham PT Pacific Star Synergy lewat Cathay Utima. Dalam laporan ini, Welly menyatakan akan tetap mempertahankan statusnya sebagai pengendali Suparma Tbk meski melepas sebagian sahamnya.",
+   "Laporan ditandatangani oleh Corporate Secretary Suparma Tbk, Alberta Angela, dan disampaikan sebagai pemberitahuan wajib atas perubahan kepemilikan saham perusahaan terbuka sesuai Peraturan OJK Nomor 4 Tahun 2024."
+  ],
+  "fotoAdegan": "Rolls of brown industrial paper stacked in a large paper mill warehouse, forklift moving nearby, light through high windows",
+  "takeaway": "Laporan ini netral bagi Suparma Tbk, karena saham yang dilepas hanya menggeser hak suara pengendali sebesar 0,04 poin persentase dan status Welly sebagai pengendali tetap dipertahankan, jadi bukan sinyal pelemahan keyakinan pemilik terhadap bisnisnya. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pengendali, bukan kinerja keuangan perusahaan secara langsung. Pelaku pasar tetap memperhatikan pos ini karena perubahan besar pada kepemilikan pengendali biasanya mencerminkan keyakinan pemilik terhadap perusahaannya, dan porsi saham publik yang lebih besar, yang dikenal sebagai free float, bisa membuat saham lebih mudah diperjualbelikan di pasar. Perusahaan sendiri menyebut penjualan ini sebagai bagian dari upaya menambah porsi saham beredar bebas di publik, sehingga yang perlu dipantau berikutnya adalah apakah pengendali akan melanjutkan pelepasan serupa dan sampai berapa besar porsi publik yang ingin dicapai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "spma-pemegang-saham-jual-3-juta-saham-senilai-rp480-juta",
+  "category": "Aksi Korporasi",
+  "title": "SPMA: Pemegang Saham [Jual] 3 Juta Saham Senilai Rp480 Juta",
+  "deck": "PT Gloriajaya Gempita milik Presiden Komisaris Welly melepas 3 juta saham SPMA seharga Rp160 per saham pada 23 Oktober 2026, menurunkan kepemilikannya dari 24,01% menjadi 23,96%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T15:21:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/08720b3bfd_5010e780ee.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SPMA",
+  "tags": [
+   "SPMA",
+   "Suparma",
+   "pemegang saham",
+   "free float"
+  ],
+  "body": [
+   "PT Gloriajaya Gempita, perusahaan yang 66,25 persen sahamnya dimiliki oleh Welly selaku Presiden Komisaris Suparma Tbk, menjual 3.000.000 lembar saham SPMA pada 23 Oktober 2026. Transaksi dilakukan pada harga Rp160 per saham, sehingga total nilai penjualan sekitar Rp480 juta. Setelah transaksi ini, kepemilikan PT Gloriajaya Gempita di Suparma turun dari 1.280.101.482 lembar saham, atau 24,01 persen hak suara, menjadi 1.277.101.482 lembar saham, atau 23,96 persen hak suara.",
+   "Dalam surat keterbukaan yang disampaikan Corporate Secretary Suparma, Alberta Angela, perseroan menyebut penjualan saham ini sebagai upaya meningkatkan jumlah saham yang beredar bebas di pasar, atau yang biasa disebut free float. Laporan resmi ke OJK yang ditandatangani Hendro Luhur, selaku kuasa dari Direksi PT Gloriajaya Gempita, mencantumkan tujuan transaksi sebagai mengurangi investasi dan menegaskan transaksi ini bukan bagian dari perjanjian pembelian kembali atau repurchase agreement. Meski melepas sebagian sahamnya, PT Gloriajaya Gempita dan Welly tetap mempertahankan status sebagai pengendali Suparma, sesuai keterangan dalam dokumen tersebut.",
+   "Berdasarkan bagan pemegang saham yang dilampirkan, PT Gloriajaya Gempita merupakan salah satu kendaraan utama kelompok Welly Paul Liputra dalam mengendalikan Suparma, bersama entitas lain seperti PT Graha Inti Harapan dan Cathay Utima Investment Pte Ltd. Gabungan entitas dalam kelompok ini masih menguasai mayoritas saham Suparma di luar porsi yang dipegang masyarakat."
+  ],
+  "fotoAdegan": "Rolls of industrial paper stacked high in a large factory warehouse, a forklift moving nearby under dim overhead lighting",
+  "takeaway": "Laporan ini netral bagi Suparma, karena 3 juta lembar saham yang dilepas hanya sekitar 0,23 persen dari kepemilikan PT Gloriajaya Gempita dan hanya menggeser hak suara pengendali 0,05 poin persentase, sementara status Welly sebagai pengendali tetap dipertahankan. Yang tersentuh di sini adalah porsi saham beredar bebas atau free float, yakni saham yang bisa diperjualbelikan bebas oleh investor umum di luar pemegang saham utama. Pasar memperhatikan free float karena makin besar porsinya, makin mudah saham diperdagangkan tanpa bergerak liar hanya karena satu pihak besar masuk atau keluar, sehingga likuiditasnya membaik. Jumlah saham beredar total SPMA dan laba per saham tidak berubah oleh transaksi ini, karena yang terjadi hanya perpindahan kepemilikan antar pihak. Yang perlu dipantau adalah apakah perseroan dan entitas lain dalam kelompok Welly akan melanjutkan pelepasan serupa, mengingat perseroan sendiri menyatakan tujuan jangka panjangnya menambah porsi saham free float.",
   "sentimen": "netral"
  },
  {
@@ -1535,6 +1766,28 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "raam-direksi-ram-punjabi-tambah-saham-193-100-lembar",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Direksi Ram Punjabi Tambah [Saham] 193.100 Lembar",
+  "deck": "Direktur RAAM Ram Jethmal Punjabi membeli 193.100 saham lewat empat transaksi pada 21-22 Oktober 2026, hak suaranya tetap 68,84 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T14:41:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-9453-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAAM",
+  "tags": [
+   "RAAM"
+  ],
+  "body": [
+   "Direktur PT Tripar Multivision Plus Tbk (RAAM), Ram Jethmal Punjabi, melaporkan penambahan kepemilikan saham perusahaan kepada Otoritas Jasa Keuangan sesuai POJK 4/2024. Jumlah sahamnya naik dari 4.690.667.282 lembar menjadi 4.690.860.382 lembar, atau bertambah 193.100 lembar. Hak suaranya di perusahaan tidak berubah, tetap di 68,84 persen baik sebelum maupun sesudah transaksi.",
+   "Penambahan ini berasal dari empat transaksi pembelian tidak langsung atas saham biasa RAAM dengan tujuan investasi. Rinciannya adalah pembelian 22.500 lembar seharga Rp119 per saham dan 10.000 lembar seharga Rp120 per saham, keduanya pada 21 Oktober 2026, disusul 36.300 lembar seharga Rp118 per saham pada tanggal yang sama. Transaksi terbesar terjadi pada 22 Oktober 2026 sebanyak 124.300 lembar seharga Rp122 per saham. Total nilai keempat transaksi tersebut sekitar Rp23,3 juta."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Laporan ini netral bagi RAAM, sebab yang bertambah hanya 193.100 lembar saham, setara 0,0041 persen dari kepemilikan Ram Jethmal Punjabi sebelumnya, nilainya pun hanya sekitar Rp23,3 juta. Yang tersentuh di sini adalah hak suara pemegang saham pengendali, yakni porsi suara yang dipegang seseorang dalam rapat pemegang saham, dan dalam kasus ini angkanya tetap di 68,84 persen sehingga tidak ada pergeseran kendali perusahaan. Pasar biasanya mencermati pembelian saham oleh direksi sebagai sinyal keyakinan terhadap kinerja perusahaan, tetapi ukuran transaksi ini terlalu kecil untuk dibaca sebagai pernyataan sikap. Yang perlu dipantau selanjutnya adalah apakah pembelian kecil semacam ini berlanjut menjadi pola akumulasi dari direksi RAAM pada laporan-laporan berikutnya, bukan transaksi satu kali yang berdiri sendiri.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "xdif-manajer-investasi-beralih-ke-danareksa-usai-merger-bumn",
   "category": "Aksi Korporasi",
   "title": "XDIF: Manajer Investasi Beralih ke Danareksa usai [Merger] BUMN",
@@ -1559,6 +1812,31 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Modern glass office towers along Jakarta's Sudirman financial district at dusk, streaks of traffic light below",
   "takeaway": "Laporan ini netral bagi pemegang unit penyertaan XDIF, karena pergantian manajer investasi dari BRI Manajemen Investasi ke PT Danareksa Investment Management Indonesia adalah konsekuensi administratif dari penggabungan empat perusahaan manajemen investasi pelat merah, bukan perubahan strategi atau portofolio reksa dana yang tetap mengikuti indeks IDX TOP 40. Yang berubah di sini adalah permodalan pengelolanya, bukan laporan keuangan XDIF sendiri: modal disetor Danareksa Investment Management melonjak dari Rp60 miliar menjadi Rp182,92 miliar setelah menyerap aset tiga manajer investasi BUMN lain, sementara seluruh aktiva dan kewajiban BRI Manajemen Investasi beralih secara hukum tanpa proses likuidasi sehingga nilai aktiva bersih reksa dana tidak terganggu. Pelaku pasar perlu mencermati proses konsolidasi lanjutan, yakni pemindahan produk reksa dana dari BNI Asset Management, BRI Manajemen Investasi, dan PNM Investment Management ke satu platform Danareksa, serta peluncuran alamat situs web resmi baru Perseroan yang menurut suratnya akan diumumkan kemudian setelah tersedia.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "alii-komisaris-tambah-1-2-juta-saham-hak-suara-ke-2-24",
+  "category": "Aksi Korporasi",
+  "title": "ALII: Komisaris [tambah] 1,2 juta saham, hak suara ke 2,24%",
+  "deck": "Komisaris Nalinkant Amratlal Rathod membeli 1.213.600 saham ALII secara tidak langsung pada 21 Oktober 2026, menaikkan hak suaranya dari 2,23% menjadi 2,24%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T14:14:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5252-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ALII",
+  "tags": [
+   "ALII",
+   "komisaris",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Ancara Logistics Indonesia Tbk (ALII) melaporkan ke Otoritas Jasa Keuangan bahwa anggota Dewan Komisarisnya, Nalinkant Amratlal Rathod, warga negara asing, membeli tambahan saham perusahaan secara tidak langsung pada 21 Oktober 2026. Pembelian dilakukan dalam delapan kali transaksi dengan harga berkisar Rp605 sampai Rp625 per saham, dengan tujuan yang dicatat sebagai investasi.",
+   "Total saham yang dibeli mencapai 1.213.600 lembar, terdiri dari pecahan mulai 1.300 lembar hingga 900.000 lembar dalam satu hari transaksi yang sama. Dengan tambahan ini, kepemilikan Rathod di ALII naik dari 353.476.200 lembar menjadi 354.689.800 lembar, sementara hak suaranya bertambah dari 2,23 persen menjadi 2,24 persen dari total saham perusahaan. Dalam laporan tersebut, ia juga menyatakan statusnya sebagai pengendali dan berniat mempertahankan posisi itu."
+  ],
+  "fotoAdegan": "Workers organizing stacked cargo containers in a logistics warehouse yard, forklift moving pallets under overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi ALII karena ukuran pembeliannya terlalu kecil untuk dibaca sebagai sinyal kuat, hanya sekitar 0,34 persen dari kepemilikan Rathod sendiri, dan tidak mengubah status pengendalinya. Pos yang tersentuh adalah hak suara individu sang komisaris, yang naik tipis dari 2,23 persen menjadi 2,24 persen dari total saham ALII, sebuah angka yang dicermati pasar karena pembelian saham oleh direksi atau komisaris biasanya dibaca sebagai indikasi keyakinan terhadap prospek perusahaan, meski kali ini skalanya kecil. Yang perlu dipantau selanjutnya adalah apakah pembelian oleh komisaris ini berlanjut dalam laporan kepemilikan berikutnya ke OJK, mengingat ia menegaskan akan tetap mempertahankan posisinya sebagai pengendali ALII.",
   "sentimen": "netral"
  },
  {
@@ -1588,6 +1866,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "alii-komisaris-rathod-tambah-saham-suara-tetap-2-23",
+  "category": "Aksi Korporasi",
+  "title": "ALII: [Komisaris] Rathod Tambah Saham, Suara Tetap 2,23%",
+  "deck": "Komisaris ALII, Nalinkant Amratlal Rathod, membeli 296.700 saham lewat dua transaksi pada 20 Oktober 2026 senilai sekitar Rp181,47 juta, namun hak suaranya tetap di 2,23 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T14:11:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-6861-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ALII",
+  "tags": [
+   "ALII",
+   "Ancara Logistics Indonesia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "PT Ancara Logistics Indonesia Tbk (ALII) menyampaikan laporan perubahan kepemilikan saham dari salah satu anggota Dewan Komisarisnya, Nalinkant Amratlal Rathod, warga negara asing, kepada Otoritas Jasa Keuangan pada 23 Oktober 2026. Berdasarkan laporan itu, jumlah saham Rathod di ALII bertambah dari 353.179.500 lembar menjadi 353.476.200 lembar, atau naik 296.700 lembar. Hak suaranya di perusahaan tidak berubah, tetap di angka 2,23 persen.",
+   "Penambahan saham ini berasal dari dua transaksi pembelian tidak langsung, keduanya tercatat pada 20 Oktober 2026 dan ditandai sebagai koreksi atas pelaporan sebelumnya. Transaksi pertama sebanyak 96.600 lembar saham biasa dibeli pada harga Rp615 per saham, sementara transaksi kedua sebanyak 200.100 lembar dibeli pada harga Rp610 per saham. Total nilai kedua transaksi tersebut sekitar Rp181,47 juta, dengan tujuan transaksi yang dicatat dalam dokumen adalah investasi.",
+   "Laporan ini menyusul laporan serupa yang disampaikan Rathod sehari sebelumnya, pada 22 Oktober 2026, yang saat itu mencatat penambahan 1,2 juta saham dengan hak suara naik ke 2,24 persen. Dalam laporan terbaru yang berstatus koreksi ini, hak suara Rathod tercatat tetap di 2,23 persen, sehingga tidak mengubah posisinya sebagai pemegang saham minoritas di ALII."
+  ],
+  "fotoAdegan": "Rows of container trucks queued at a logistics yard gate in early morning light, workers in safety vests directing traffic",
+  "takeaway": "Laporan ini netral bagi ALII karena pembelian 296.700 saham hanya setara 0,084 persen dari total kepemilikan Rathod sendiri, dan hak suaranya tetap di 2,23 persen sehingga tidak mengubah kendalinya atas perusahaan. Yang tersentuh di sini hanya kepemilikan pribadi sang komisaris, bukan jumlah saham beredar ALII secara keseluruhan, sehingga tidak berdampak pada laba per saham maupun struktur permodalan emiten. Pasar biasanya memperhatikan transaksi insider seperti ini sebagai sinyal keyakinan manajemen terhadap prospek perusahaan, tetapi ukuran yang sangat kecil di sini membuatnya lebih tepat dibaca sebagai administrasi rutin ketimbang pernyataan sikap. Yang perlu dipantau berikutnya adalah apakah pola pembelian kecil oleh Rathod ini terus berlanjut, mengingat laporan kenaikan kepemilikan komisaris yang sama juga baru muncul sehari sebelumnya, pada 22 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "jelang-nataru-pemerintah-waspadai-lonjakan-harga-cabai",
   "category": "Makroekonomi",
   "title": "Jelang Nataru, Pemerintah Waspadai Lonjakan Harga [Cabai]",
@@ -1615,6 +1919,31 @@ var ARTICLES = [
   "takeaway": "Yang berubah secara konkret di sini adalah lonjakan harga cabai, cabai merah besar naik 25,8 persen dan cabai keriting 22 persen dibanding tahun sebelumnya, yang mendorong inflasi pangan ke 5,03 persen. Sebagai responsnya pemerintah tidak membuat kebijakan baru, melainkan menjalankan kombinasi yang sudah ada: bantuan beras untuk 33,24 juta orang, program magang untuk 150 ribu peserta, dan subsidi kedelai Rp500 miliar bagi perajin tahu dan tempe. Pihak yang paling terdampak adalah konsumen di kawasan timur Indonesia seperti Sulawesi, Maluku, dan Papua, serta petani dan nelayan yang diharapkan terhubung langsung ke pembeli lewat program kerja sama antar daerah. Pola ini mengarah pada pemerintah yang lebih mengandalkan bantuan sosial dan perbaikan jalur distribusi antarwilayah ketimbang menahan harga langsung di pasar, dan arah ini akan lebih jelas terlihat dari data inflasi resmi Badan Pusat Statistik untuk November dan Desember, saat permintaan Natal dan Tahun Baru benar-benar memuncak.",
   "fotoGagal": 5,
   "fotoDitolak": true
+ },
+ {
+  "slug": "ahap-asuransi-central-asia-tambah-kepemilikan-ke-69-51",
+  "category": "Aksi Korporasi",
+  "title": "AHAP: Asuransi Central Asia Tambah [Kepemilikan] ke 69,51%",
+  "deck": "Asuransi Central Asia menambah 2,77 miliar saham AHAP senilai sekitar Rp138,62 miliar, mengangkat hak suaranya dari 62,58% menjadi 69,51%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T13:57:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-6734-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AHAP",
+  "tags": [
+   "AHAP",
+   "Asuransi Central Asia",
+   "kepemilikan saham",
+   "rights issue"
+  ],
+  "body": [
+   "PT Asuransi Harta Aman Pratama Tbk (AHAP) menyampaikan laporan keterbukaan informasi mengenai perubahan kepemilikan saham oleh Asuransi Central Asia, pihak yang tercatat berstatus direksi dalam pelaporan ini. Berdasarkan dokumen yang diterima Bursa Efek Indonesia pada 23 Oktober 2026, jumlah saham AHAP yang dimiliki Asuransi Central Asia naik dari 3.066.343.009 lembar menjadi 5.838.687.150 lembar, atau bertambah 2.772.344.141 lembar. Transaksi tercatat berlangsung pada 20 Oktober 2026 dengan harga Rp50 per saham, sehingga nilai totalnya sekitar Rp138,62 miliar, dengan tujuan transaksi yang disebutkan dalam dokumen adalah investasi.",
+   "Penambahan ini setara dengan 90,41 persen dari kepemilikan Asuransi Central Asia sebelumnya, dan mengangkat hak suaranya di AHAP dari 62,58 persen menjadi 69,51 persen. Dokumen menyebutkan status kepemilikan saham tersebut sebagai tidak langsung, tanpa mencantumkan nama pemilik langsungnya. Jenis transaksi dicatat sebagai repurchase agreement yang berkaitan dengan pelaksanaan (exercise) atas efek bersifat ekuitas, dan terjadi tidak lama setelah AHAP mencatatkan 607,6 juta saham baru hasil pelaksanaan HMETD pada 19 Oktober 2026, mengindikasikan keterkaitan dengan penyerapan rights issue perusahaan."
+  ],
+  "fotoAdegan": "Exterior view of a modern mid-rise office tower in a Jakarta business district, late afternoon light, people walking on the sidewalk below",
+  "takeaway": "Laporan ini condong positif bagi AHAP, karena pemegang saham pengendalinya, Asuransi Central Asia, memperbesar penyertaan modal dalam jumlah besar alih-alih mengurangi kepemilikan. Pos yang tersentuh adalah ekuitas dan jumlah saham beredar: dana sekitar Rp138,62 miliar yang masuk dari pembelian 2,77 miliar saham baru ini menambah modal AHAP, sekaligus menambah jumlah saham beredar perusahaan sehingga laba per saham bisa terdilusi bagi pemegang saham yang tidak ikut menyerap tambahan saham. Hak suara Asuransi Central Asia naik dari 62,58 persen menjadi 69,51 persen, memperkuat posisinya sebagai pengendali AHAP. Yang perlu dipantau selanjutnya adalah laporan realisasi penggunaan dana hasil penawaran umum terbatas AHAP, yang biasanya wajib disampaikan perusahaan ke OJK dan BEI untuk memastikan dana segar ini benar-benar dipakai sesuai rencana.",
+  "sentimen": "positif"
  },
  {
   "slug": "baik-ganti-komisaris-utama-jadi-yeni-isnawati",
@@ -1937,6 +2266,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "enrg-trimegah-tambah-156-57-juta-saham-via-reverse-repo",
+  "category": "Aksi Korporasi",
+  "title": "ENRG: Trimegah Tambah 156,57 Juta Saham via [Reverse Repo]",
+  "deck": "Trimegah Sekuritas melaporkan penambahan 156,57 juta saham ENRG lewat reverse repo pada 21 Oktober 2026, mengangkat hak suaranya dari 10,78% menjadi 11,24%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T10:35:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5157-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "Trimegah Sekuritas",
+   "reverse repo",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Trimegah Sekuritas Indonesia Tbk melaporkan ke Otoritas Jasa Keuangan bahwa kepemilikannya di saham Energi Mega Persada Tbk (ENRG) bertambah dari 3.700.194.922 unit menjadi 3.856.764.922 unit, atau naik 156.570.000 saham. Penambahan ini membuat hak suara Trimegah di ENRG naik dari 10,78 persen menjadi 11,24 persen. Laporan menyebut pelapor bukan anggota direksi atau dewan komisaris ENRG, melainkan pemegang saham dari sisi lembaga keuangan.",
+   "Transaksi tercatat berlangsung pada 21 Oktober 2026 dengan harga Rp865 per saham untuk klasifikasi saham biasa, melalui mekanisme reverse repo, yakni Trimegah membeli saham dengan perjanjian bahwa pihak penjual akan membelinya kembali di kemudian hari. Dokumen tidak mencantumkan batas akhir periode pelaksanaan transaksi ini.",
+   "Laporan ini menambah rangkaian aktivitas serupa dari Trimegah di saham ENRG dalam sepekan terakhir. Pada 20 Oktober 2026, Trimegah sudah melaporkan penambahan 265 juta saham ENRG lewat reverse repo, dan laporan kali ini menunjukkan posisi mereka terus bertambah lagi dengan jumlah berbeda pada tanggal transaksi yang berbeda."
+  ],
+  "fotoAdegan": "Financial clerks reviewing stacks of printed trade confirmation slips at a desk, blurred computer monitors in the background, office lighting",
+  "takeaway": "Laporan ini netral bagi ENRG karena pembelian saham oleh Trimegah lewat reverse repo adalah transaksi pendanaan jangka pendek antar lembaga keuangan, bukan keputusan strategis untuk menambah keyakinan jangka panjang atas saham ENRG. Yang tersentuh di sini hanya komposisi hak suara pemegang saham, yaitu porsi kendali atas keputusan di rapat pemegang saham, bukan ekuitas, arus kas, atau laba per saham perusahaan, karena jumlah saham beredar ENRG secara keseluruhan tidak berubah akibat transaksi ini. Kenaikan hak suara Trimegah dari 10,78 persen ke 11,24 persen juga masih jauh dari ambang batas pengendali, sehingga belum mengubah siapa yang berkuasa atas ENRG. Yang perlu dipantau berikutnya adalah apakah Trimegah akan melaporkan pengurangan posisi serupa saat perjanjian reverse repo ini jatuh tempo, mengingat pola serupa sudah berulang tiga kali dalam sepekan terakhir, dan dokumen kali ini tidak menyebutkan tanggal jatuh temponya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "rgas-pendapatan-9-bulan-anjlok-52-arus-kas-operasi-negatif",
   "category": "Aksi Korporasi",
   "title": "RGAS: Pendapatan 9 Bulan Anjlok 52%, [Arus Kas] Operasi Negatif",
@@ -1961,6 +2316,58 @@ var ARTICLES = [
   "fotoAdegan": "Technicians inspecting stacked steel pipe fittings and valves in an industrial yard under overcast daylight, Indonesia",
   "takeaway": "Laporan ini condong negatif bagi RGAS karena pendapatan sembilan bulan susut lebih dari separuh dan uang tunai dari kegiatan usaha justru berbalik minus, tanda bahwa penjualan yang mengecil belum diimbangi penagihan yang lancar. Yang tersentuh adalah arus kas, yakni uang yang benar-benar masuk dan keluar dari operasi sehari-hari, karena di sinilah yang membedakan laba di atas kertas dengan uang yang sungguh tersedia di kas perusahaan. Laba bersih memang masih bertahan di kisaran Rp3,88 miliar, hampir sama dengan tahun lalu, tetapi itu ditopang efisiensi biaya, bukan pertumbuhan penjualan. Persediaan yang melonjak hampir empat kali lipat dan uang muka pembelian yang naik puluhan kali, dibiayai dari tambahan utang bank, menunjukkan perusahaan sedang menimbun stok atau membayar di muka untuk kebutuhan yang belum tentu segera berubah jadi pendapatan. Yang perlu dipantau berikutnya adalah apakah penjualan kuartal IV 2026 membaik dan apakah persediaan serta uang muka yang menumpuk ini benar-benar terserap menjadi pendapatan, sebab laporan ini tidak menyebut rencana atau tenggat spesifik soal itu.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "komisaris-akpi-henry-liem-lepas-300-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "[Komisaris] AKPI Henry Liem Lepas 300.000 Saham",
+  "deck": "Komisaris AKPI Henry Liem menjual 300.000 saham pada 22 Oktober 2026 seharga Rp550 per saham, hak suaranya turun dari 0,8658% menjadi 0,8168%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T09:55:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-9384-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "kepemilikan saham",
+   "komisaris",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Dewan Komisaris Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 300.000 saham AKPI pada 22 Oktober 2026 dengan harga Rp550 per saham. Status kepemilikan saham yang dijual tercatat tidak langsung. Dengan harga tersebut, nilai transaksi penjualan ini sekitar Rp165 juta.",
+   "Sebelum transaksi, Henry Liem memegang 5.300.859 lembar saham AKPI dengan hak suara 0,8658 persen dari total saham perusahaan. Setelah penjualan, kepemilikannya berkurang menjadi 5.000.859 lembar dengan hak suara turun menjadi 0,8168 persen. Jumlah yang dilepas setara dengan 5,6595 persen dari total saham yang sebelumnya ia pegang di AKPI.",
+   "Laporan ini disampaikan sebagai pemenuhan kewajiban keterbukaan informasi sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap anggota direksi atau dewan komisaris melaporkan perubahan kepemilikan sahamnya di perusahaan tempat ia menjabat."
+  ],
+  "fotoAdegan": "Workers checking large rolls of thin plastic packaging film on an industrial production line, factory lighting",
+  "takeaway": "Penjualan ini tergolong netral bagi AKPI, karena hak suara Henry Liem hanya bergeser dari 0,8658 persen menjadi 0,8168 persen, perubahan yang terlalu kecil untuk dibaca sebagai sinyal pelepasan kendali atau ketidakpercayaan terhadap perusahaan. Transaksi semacam ini terjadi di pasar sekunder antar pemegang saham, sehingga tidak menambah kas ke kas perusahaan dan tidak mengubah jumlah total saham beredar AKPI, berbeda dengan penerbitan saham baru yang bisa mengurangi porsi laba per saham bagi pemegang lama. Yang perlu dipantau selanjutnya adalah apakah Henry Liem atau jajaran direksi dan komisaris AKPI lain melaporkan penjualan susulan dalam waktu dekat, karena pola pelepasan berulang oleh jajaran pengurus baru pantas dibaca sebagai sinyal kalau jumlahnya terus membesar dari waktu ke waktu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baja-sarana-steel-tambah-saham-hak-suara-ke-32-98",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Sarana Steel Tambah Saham, Hak Suara ke [32,98%]",
+  "deck": "PT Sarana Steel membeli 271 juta saham BAJA seharga Rp500 per lembar, mengangkat hak suaranya dari 22,95 persen menjadi 32,98 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 Oktober 2026",
+  "isoDate": "2026-10-23T09:52:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5802-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "Saranacentral Bajatama",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "body": [
+   "PT Sarana Steel, salah satu pemegang saham Saranacentral Bajatama Tbk (BAJA), melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya membeli 271.000.000 lembar saham BAJA pada 21 Oktober 2026 dengan harga Rp500 per saham. Transaksi berstatus kepemilikan langsung dan tercatat melalui mekanisme repurchase agreement, dengan tujuan transaksi yang disebutkan sebagai investasi. Setelah pembelian ini, jumlah saham Sarana Steel di BAJA naik dari 619.657.159 lembar menjadi 890.657.159 lembar, bertambah 271.000.000 lembar atau setara 43,73 persen dari kepemilikannya sebelum transaksi.",
+   "Kenaikan jumlah saham itu turut mengangkat hak suara PT Sarana Steel di BAJA dari 22,95 persen menjadi 32,98 persen, naik hampir 10 poin persentase dalam satu transaksi. Laporan disampaikan sesuai Pasal 3 Ayat 3 dan Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, dengan nomor surat LK/23102026/0002/1 tertanggal 23 Oktober 2026.",
+   "Dalam sepekan terakhir, BEI juga mencatat beberapa laporan perubahan kepemilikan saham BAJA dari pihak lain yang melibatkan transaksi repo, namun arahnya berkebalikan, yakni hak suara yang turun sementara jumlah saham tidak berubah. Laporan Sarana Steel ini berbeda pihak dan berbeda arah, sehingga berdiri sebagai peristiwa tersendiri."
+  ],
+  "fotoAdegan": "Workers inspecting stacked steel coils inside a large industrial warehouse, overhead crane in the background, dim factory lighting",
+  "takeaway": "Laporan ini condong positif bagi BAJA karena pemegang sahamnya, PT Sarana Steel, menambah kepemilikan dalam jumlah besar, bukan remah: hak suaranya naik hampir 10 poin persentase ke 32,98 persen lewat pembelian 271 juta saham senilai Rp500 per lembar. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan laporan keuangan BAJA secara langsung, tetapi pelaku pasar tetap memperhatikannya karena kepemilikan yang makin terkonsentrasi bisa memperkuat kendali satu pihak atas keputusan RUPS dan mengurangi porsi saham yang beredar bebas di pasar. Pembelian ini tercatat lewat mekanisme repurchase agreement, semacam jual beli saham dengan perjanjian beli kembali yang biasa dipakai untuk pendanaan, sehingga belum tentu semata mencerminkan keyakinan jangka panjang. Yang perlu dipantau berikutnya adalah apakah Sarana Steel terus menambah porsinya mendekati sepertiga saham BAJA atau lebih, dan apakah menyusul ini ada keterbukaan informasi lanjutan dari BAJA soal perubahan pihak pengendali.",
+  "sentimen": "positif"
  },
  {
   "slug": "mknt-ganti-nama-ke-remitra-ekuitas-jadi-positif",

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "bqBa0fRhKFI",
+  "title": "Wali Kota Semarang Tawarkan 19 Peluang Investasi ke Dunia Usaha",
+  "category": "Bisnis",
+  "program": "Kabar Jawa Tengah",
+  "summary": "Wali Kota Semarang menawarkan 19 peluang pengembangan aset milik pemerintah kota dan badan usaha milik daerah kepada pelaku usaha untuk mendorong investasi di daerah tersebut.",
+  "takeaway": "Menunjukkan upaya pemerintah daerah menggaet investasi swasta untuk menggerakkan ekonomi dan pendapatan daerah.",
+  "terbit": "2026-10-24T07:22:11+00:00"
+ },
+ {
+  "id": "xByzWtSo73I",
+  "title": "Penguatan Ekonomi Desa di Purbalingga Lewat Potensi Lokal",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Warga desa di Kabupaten Purbalingga mengembangkan potensi lokal sebagai upaya memperkuat perekonomian masyarakat di tingkat desa.",
+  "takeaway": "Memberi gambaran bagaimana pemanfaatan potensi lokal bisa menjadi penggerak ekonomi di level UMKM dan desa.",
+  "terbit": "2026-10-24T07:17:07+00:00"
+ },
+ {
   "id": "3HOa9Z-zvKY",
   "title": "Anggota Dewan Ekonomi Nasional Bahas Isu Strategis Ekonomi",
   "category": "Makroekonomi",

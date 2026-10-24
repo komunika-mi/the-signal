@@ -1,7 +1,7 @@
 // Angka indikator ekonomi dari WebAPI BPS (webapi.bps.go.id).
 // Ditarik otomatis oleh scripts/bps-artikel.mjs - jangan diedit manual.
 var BPS = {
- "diperbarui": "2026-10-24T04:16:49.102Z",
+ "diperbarui": "2026-10-24T06:44:01.617Z",
  "indikator": {
   "inflasi": {
    "nama": "Inflasi bulanan",
@@ -953,7 +953,7 @@ var BPS = {
    "arah": "turun-baik",
    "penjelas": "Ukuran ketimpangan pendapatan, 0 merata sempurna, 1 timpang sempurna.",
    "labelBps": "Gini Ratio Menurut Provinsi dan Daerah",
-   "satuanBps": "",
+   "satuanBps": "Tidak Ada Satuan",
    "varId": 98,
    "titik": [
     {
@@ -1201,7 +1201,7 @@ var BPS = {
    "arah": "naik-baik",
    "penjelas": "Rata-rata kamar hotel bintang yang terisi secara nasional.",
    "labelBps": "Tingkat Penghunian Kamar pada Hotel Bintang",
-   "satuanBps": "",
+   "satuanBps": "Tidak Ada Satuan",
    "varId": 122,
    "titik": [
     {

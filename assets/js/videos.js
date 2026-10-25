@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Ywekic_OMHg",
+  "title": "Harga Emas Dunia Rontok ke Posisi Terendah dalam 3 Bulan",
+  "category": "Pasar Modal",
+  "program": "OneNews Update",
+  "summary": "Harga emas dunia melemah sepanjang pekan ini dan jatuh ke level terendah dalam tiga bulan, setelah gagal melanjutkan tren penguatan sebelumnya.",
+  "takeaway": "Pergerakan harga emas dunia menjadi acuan penting bagi investor dan pelaku pasar komoditas di dalam negeri.",
+  "terbit": "2026-10-25T10:15:31+00:00"
+ },
+ {
   "id": "PTC7HoLkVJs",
   "title": "Kementerian Ekonomi Kreatif Luncurkan Creative By Indonesia",
   "category": "Industri",

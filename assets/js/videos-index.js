@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "Ywekic_OMHg",
+  "title": "Harga Emas Dunia Rontok ke Posisi Terendah dalam 3 Bulan",
+  "category": "Pasar Modal",
+  "program": "OneNews Update",
+  "summary": "Harga emas dunia melemah sepanjang pekan ini dan jatuh ke level terendah dalam tiga bulan, setelah gagal melanjutkan tren penguatan sebelumnya.",
+  "takeaway": "Pergerakan harga emas dunia menjadi acuan penting bagi investor dan pelaku pasar komoditas di dalam negeri."
+ },
+ {
   "id": "PTC7HoLkVJs",
   "title": "Kementerian Ekonomi Kreatif Luncurkan Creative By Indonesia",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Menko Bidang Hilirisasi dan Ketahanan Energi Bahlil Lahadalia menyatakan stok BBM nasional masih aman meski stok Pertalite menurun, dan meminta Pertamina menambah pasokan.",
   "takeaway": "Penting bagi pembaca ekonomi karena menyangkut ketahanan energi nasional yang berdampak pada aktivitas industri dan konsumsi masyarakat."
- },
- {
-  "id": "rDmCljplxg0",
-  "title": "Indonesia-Rusia Sepakat Bangun PLTN Terapung 200 MW",
-  "category": "Energi",
-  "program": "OneNews Update",
-  "summary": "Indonesia dan Rusia menyepakati proyek pembangkit listrik tenaga nuklir terapung berkapasitas 200 megawatt untuk memasok listrik ke wilayah utara Indonesia.",
-  "takeaway": "Proyek ini menjadi langkah awal masuknya energi nuklir ke bauran energi nasional, sehingga layak dipantau pelaku pasar energi dan investor infrastruktur."
  }
 ];

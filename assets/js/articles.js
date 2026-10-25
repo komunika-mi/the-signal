@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-libatkan-anak-muda-awasi-penyaluran-bbm-di-spbu",
+  "category": "Energi",
+  "title": "ESDM Libatkan Anak Muda [Awasi] Penyaluran BBM di SPBU",
+  "deck": "Kementerian ESDM meluncurkan Program Pengawal Energi 2026 yang merekrut anak muda untuk ikut mengawasi penyaluran BBM subsidi dan non subsidi di 3.679 SPBU.",
+  "image": "assets/img/esdm-libatkan-anak-muda-awasi-penyaluran-bbm-di-spbu.jpg",
+  "date": "25 Oktober 2026",
+  "isoDate": "2026-10-25T22:55:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474955-lewat-program-pengawal-energi-generasi-muda-diajak-terlibat-awasi-penyaluran-bbm",
+  "tags": [
+   "BBM subsidi",
+   "ESDM",
+   "SPBU",
+   "energi"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral meluncurkan Program Pengawal Energi 2026, sebuah inisiatif yang melibatkan anak muda untuk ikut memantau langsung penyaluran bahan bakar minyak subsidi dan non subsidi di 3.679 stasiun pengisian bahan bakar umum di seluruh Indonesia. Program ini diresmikan Wakil Menteri ESDM Yuliot dalam malam puncak peringatan Hari Jadi ke-81 Pertambangan dan Energi. Langkah ini bagian dari upaya pemerintah memastikan BBM subsidi benar-benar sampai ke pihak yang berhak menerimanya, bukan disalahgunakan di lapangan.",
+   "Staf Khusus Menteri ESDM Bidang Percepatan Penyelesaian Isu Strategis Sektor Energi dan Sumber Daya Mineral, M Pradana Indraputra, menjelaskan bahwa program ini dirancang untuk menyambungkan kebutuhan pengawasan di lapangan dengan partisipasi talenta muda di berbagai daerah. Menurutnya, pengawasan yang efektif perlu ditopang data akurat, mekanisme kerja yang jelas, dan orang-orang yang bekerja dengan integritas, sehingga pengawasan bisa diperkuat sampai ke tingkat SPBU.",
+   "Pradana menyebut keterlibatan generasi muda ini juga dipandang sebagai cara membangun sumber daya manusia di sektor energi, karena mereka memperoleh pengalaman langsung soal tata kelola energi, termasuk tanggung jawab menyampaikan laporan. Ia menyebut harapan agar program ini melahirkan talenta lokal yang memahami kondisi daerahnya masing-masing dan bersedia menjaga kepentingan masyarakat di sekitarnya.",
+   "Kementerian ESDM menempatkan program ini sebagai bagian dari upaya memperkuat ketahanan energi serta mendorong tata kelola sektor energi yang lebih efektif dan akuntabel."
+  ],
+  "fotoAdegan": "A young supervisor in a vest observing fuel being pumped into a motorcycle at a busy gas station forecourt, late afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/25/6ade1ec67fd79-lewat-program-pengawal-energi-generasi-muda-diajak-terlibat-awasi-penyaluran-bbm_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang benar-benar baru dari berita ini cuma satu hal konkret: ESDM menambah jalur pengawasan BBM lewat anak muda yang direkrut untuk memantau penyaluran di 3.679 SPBU mulai 2026. Yang kena dampak langsung adalah operator SPBU yang kini punya lapisan pengawasan tambahan, dan anak muda di berbagai daerah yang direkrut jadi pengawas lapangan. Berita ini belum menjelaskan hal yang paling dibutuhkan pembaca untuk menilai arah program ini, yaitu bagaimana pengawas muda ini sebenarnya bekerja, apakah mereka dibayar atau sukarela, bagaimana temuan pelanggaran ditindaklanjuti, dan apakah ada sanksi bagi SPBU yang terbukti menyalurkan BBM subsidi ke pihak yang tidak berhak. Tanpa detail mekanisme itu, belum bisa disimpulkan apakah ini benar memperketat pengawasan BBM subsidi atau sekadar program simbolis seremonial. Yang perlu ditunggu adalah pedoman teknis atau aturan kerja pengawas yang biasanya menyusul setelah sebuah program semacam ini diluncurkan.",
+  "imageV": "mvo32y5j"
+ },
+ {
+  "slug": "pemerintah-perketat-pengawasan-bbm-di-3-679-spbu",
+  "category": "Energi",
+  "title": "Pemerintah [Perketat] Pengawasan BBM di 3.679 SPBU",
+  "deck": "Kementerian ESDM meluncurkan program Pengawal Energi 2026, merekrut anak muda daerah untuk mengawasi penyaluran BBM bersubsidi dan non subsidi di 3.679 SPBU.",
+  "image": "assets/img/pemerintah-perketat-pengawasan-bbm-di-3-679-spbu.jpg",
+  "date": "25 Oktober 2026",
+  "isoDate": "2026-10-25T22:21:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474952-penyaluran-bbm-diperketat-pemerintah-luncurkan-program-pengawal-energi",
+  "tags": [
+   "BBM bersubsidi",
+   "SPBU",
+   "Kementerian ESDM",
+   "Pengawal Energi"
+  ],
+  "body": [
+   "Pemerintah melalui Kementerian Energi dan Sumber Daya Mineral meluncurkan program bernama Pengawal Energi 2026 untuk memperkuat pengawasan penyaluran bahan bakar minyak bersubsidi maupun non subsidi hingga ke titik akhir distribusi, yaitu stasiun pengisian. Langkah ini penting karena kebocoran alokasi BBM bersubsidi selama ini paling sering terjadi justru di tingkat SPBU, tempat konsumen langsung membeli bahan bakar.",
+   "Wakil Menteri ESDM Yuliot menyebut program ini menyasar pengawasan di 3.679 SPBU di seluruh Indonesia. Petugas pengawasnya direkrut dari putra-putri daerah sesuai domisili provinsi atau wilayah terdekat, dengan alasan mereka lebih memahami kondisi geografis setempat, membuat penugasan lebih efisien secara logistik, dan lebih mudah diterima oleh masyarakat sekitar.",
+   "Yuliot mengatakan, penugasan ini sekaligus menjadi wahana pembinaan talenta muda melalui pengalaman lapangan langsung dan peningkatan kompetensi teknis di sektor energi, agar tata kelola subsidi berjalan transparan dan tepat sasaran. Program ini diluncurkan bersamaan dengan malam puncak peringatan Hari Jadi ke-81 Pertambangan dan Energi.",
+   "Pada kesempatan yang sama, Kementerian ESDM juga memberikan Penghargaan Energi Subroto 2026 kepada pelaku industri, pemerintah daerah, dan tokoh yang dinilai berkontribusi bagi sektor energi dan pertambangan. Yuliot menyebut penghargaan itu sebagai pengingat bahwa tata kelola sumber daya energi bukan sekadar soal nilai ekonomi dan produksi, melainkan tanggung jawab menjaga kedaulatan dan kesejahteraan rakyat."
+  ],
+  "fotoAdegan": "Fuel station attendants checking a pump nozzle at a busy gas station forecourt under afternoon light, motorcycles queuing nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/25/6ade1dc3ef6af-penyaluran-bbm-diperketat-pemerintah-luncurkan-program-pengawal-energi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret di sini adalah pemerintah membentuk satu angkatan pengawas lapangan baru, bukan hanya pengawasan administratif di belakang meja, yang diterjunkan ke 3.679 SPBU untuk memantau langsung penyaluran BBM bersubsidi dan non subsidi. Pihak yang langsung kena dampaknya adalah anak muda daerah yang direkrut sebagai pengawas, operator SPBU yang kini diawasi lebih dekat, dan pada ujungnya masyarakat pengguna BBM bersubsidi yang diharapkan benar-benar mendapat alokasi yang tepat sasaran. Berita ini belum menjelaskan bagaimana pengawas ini bekerja sehari-hari, lewat jalur apa penyimpangan di SPBU dilaporkan dan ditindak, atau berapa lama masa penugasan berlangsung, sehingga belum bisa disimpulkan apakah ini akan mengubah pola penyaluran BBM bersubsidi di lapangan atau berhenti sebagai seremoni peringatan hari jadi. Yang perlu ditunggu adalah laporan implementasi atau evaluasi dari Kementerian ESDM setelah program ini benar-benar berjalan, karena dari situ baru terlihat apakah pengawasan tambahan ini punya daya cegah nyata atau tidak.",
+  "imageV": "mvo32ymn"
+ },
+ {
   "slug": "uvcr-cetak-laba-bersih-rp10-6-miliar-arus-kas-operasi-negatif",
   "category": "Aksi Korporasi",
   "title": "UVCR Cetak Laba Bersih Rp10,6 Miliar, [Arus Kas] Operasi Negatif",

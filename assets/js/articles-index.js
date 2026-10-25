@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-libatkan-anak-muda-awasi-penyaluran-bbm-di-spbu",
+  "category": "Energi",
+  "title": "ESDM Libatkan Anak Muda [Awasi] Penyaluran BBM di SPBU",
+  "deck": "Kementerian ESDM meluncurkan Program Pengawal Energi 2026 yang merekrut anak muda untuk ikut mengawasi penyaluran BBM subsidi dan non subsidi di 3.679 SPBU.",
+  "date": "25 Oktober 2026",
+  "image": "assets/img/esdm-libatkan-anak-muda-awasi-penyaluran-bbm-di-spbu.jpg",
+  "imageV": "mvo32y5j",
+  "tags": [
+   "BBM subsidi",
+   "ESDM",
+   "SPBU",
+   "energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474955-lewat-program-pengawal-energi-generasi-muda-diajak-terlibat-awasi-penyaluran-bbm"
+ },
+ {
+  "slug": "pemerintah-perketat-pengawasan-bbm-di-3-679-spbu",
+  "category": "Energi",
+  "title": "Pemerintah [Perketat] Pengawasan BBM di 3.679 SPBU",
+  "deck": "Kementerian ESDM meluncurkan program Pengawal Energi 2026, merekrut anak muda daerah untuk mengawasi penyaluran BBM bersubsidi dan non subsidi di 3.679 SPBU.",
+  "date": "25 Oktober 2026",
+  "image": "assets/img/pemerintah-perketat-pengawasan-bbm-di-3-679-spbu.jpg",
+  "imageV": "mvo32ymn",
+  "tags": [
+   "BBM bersubsidi",
+   "SPBU",
+   "Kementerian ESDM",
+   "Pengawal Energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/474952-penyaluran-bbm-diperketat-pemerintah-luncurkan-program-pengawal-energi"
+ },
+ {
   "slug": "uvcr-cetak-laba-bersih-rp10-6-miliar-arus-kas-operasi-negatif",
   "category": "Aksi Korporasi",
   "title": "UVCR Cetak Laba Bersih Rp10,6 Miliar, [Arus Kas] Operasi Negatif",
@@ -6412,37 +6446,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/transaksi-emas-digital-kian-berkilau-bappebti-perkuat-literasi-masyarakat",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "eksportir-ke-eropa-harus-penuhi-eudr-sebelum-cepa-diteken",
-  "category": "Industri",
-  "title": "Eksportir ke Eropa Harus Penuhi [EUDR] sebelum CEPA Diteken",
-  "deck": "Kemendag minta eksportir kopi, karet, sawit, kakao, dan produk kayu segera penuhi aturan antideforestasi Uni Eropa sebelum I-EU CEPA ditandatangani akhir 2026.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/pabrik-gula.jpg",
-  "tags": [
-   "I-EU CEPA",
-   "EUDR",
-   "ekspor",
-   "Uni Eropa"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/peluang-ekspor-produk-pertanian-terbuka-lebar-kemendag-dorong-eksportir-bersiap-manfaatkan-i-eu-cepa",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "kur-nelayan-desa-awang-tembus-rp13-6-miliar",
-  "category": "UMKM",
-  "title": "KUR Nelayan Desa Awang Tembus [Rp13,6 Miliar]",
-  "deck": "BSI menyalurkan KUR Rp13,6 miliar untuk 160 nelayan di Desa Awang, Lombok Tengah, sementara puluhan pembudidaya lobster di sana belum semuanya tersentuh kredit ini.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/gula-merah.jpg",
-  "tags": [
-   "KUR",
-   "Nelayan",
-   "BSI",
-   "Lombok Tengah"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7164/program-kur-dukung-usaha-nelayan-dan-budidaya-lobster-kemenko-perekonomian-perkuat-sinergi-pembiayaan-di-desa-awang",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "3wH-XdBnRNw",
+  "title": "Munas Ke-7 Forum Serikat Pekerja Kimia dan Pertambangan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Utama",
+  "summary": "Musyawarah Nasional VII Federasi Serikat Pekerja Kimia, Energi, Pertambangan, Minyak, Gas Bumi dan Umum (FSP KEP) digelar pada 25-27 Oktober 2026 di Menara Peninsula Hotel.",
+  "takeaway": "Forum ini relevan bagi pembaca ekonomi karena membahas arah ketenagakerjaan di sektor energi dan pertambangan yang menjadi penyokong utama perekonomian nasional.",
+  "terbit": "2026-10-25T15:34:14+00:00"
+ },
+ {
   "id": "Ywekic_OMHg",
   "title": "Harga Emas Dunia Rontok ke Posisi Terendah dalam 3 Bulan",
   "category": "Pasar Modal",

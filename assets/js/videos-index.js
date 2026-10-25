@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "3wH-XdBnRNw",
+  "title": "Munas Ke-7 Forum Serikat Pekerja Kimia dan Pertambangan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Utama",
+  "summary": "Musyawarah Nasional VII Federasi Serikat Pekerja Kimia, Energi, Pertambangan, Minyak, Gas Bumi dan Umum (FSP KEP) digelar pada 25-27 Oktober 2026 di Menara Peninsula Hotel.",
+  "takeaway": "Forum ini relevan bagi pembaca ekonomi karena membahas arah ketenagakerjaan di sektor energi dan pertambangan yang menjadi penyokong utama perekonomian nasional."
+ },
+ {
   "id": "Ywekic_OMHg",
   "title": "Harga Emas Dunia Rontok ke Posisi Terendah dalam 3 Bulan",
   "category": "Pasar Modal",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Pemerintah Provinsi Bali memberlakukan sistem ganjil genap untuk pengisian BBM bersubsidi jenis Pertalite mulai 17 hingga 19 Oktober 2026 sebagai langkah darurat.",
   "takeaway": "Menunjukkan respons pemerintah daerah terhadap tekanan pasokan energi bersubsidi yang berdampak langsung pada aktivitas ekonomi masyarakat."
- },
- {
-  "id": "PeLBxE1JkCM",
-  "title": "Bahlil Pastikan Stok BBM Nasional Aman 16-18 Hari",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Menko Bidang Hilirisasi dan Ketahanan Energi Bahlil Lahadalia menyatakan stok BBM nasional masih aman meski stok Pertalite menurun, dan meminta Pertamina menambah pasokan.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut ketahanan energi nasional yang berdampak pada aktivitas industri dan konsumsi masyarakat."
  }
 ];

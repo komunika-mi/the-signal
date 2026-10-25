@@ -1,56 +1,56 @@
 // Signal Mingguan. Dibuat otomatis oleh scripts/signal-pekanan.mjs.
 var PEKANAN = {
- "tanggal": "2026-10-18",
+ "tanggal": "2026-10-25",
  "rentang": {
-  "mulai": "2026-10-12",
-  "selesai": "2026-10-18"
+  "mulai": "2026-10-19",
+  "selesai": "2026-10-25"
  },
- "rentangLabel": "12 Oktober - 18 Oktober 2026",
- "judul": "Utang BUMN Karya Memuncak, Ekspor Membesar Tapi Masih Niat",
- "ringkas": "Tekanan kas dan tata kelola yang pekan lalu masih berkutat di emiten kecil melebar ke tiga BUMN karya sekaligus dan memuncak jadi anjloknya IHSG serta gelombang go private di akhir pekan. Di jalur lain, angka ekspor dan Trade Expo Indonesia tampak membesar sepanjang pekan, tapi semakin mendekati penutupan, semakin jelas bagian terbesarnya masih berupa surat niat, bukan kontrak yang sudah terjadi.",
+ "rentangLabel": "19 Oktober - 25 Oktober 2026",
+ "judul": "Buyback Jadi Rutin, Dilusi Melebar, Utang Karya Memburuk",
+ "ringkas": "Pekan ini IHSG berbalik dari anjlok 3,64 persen pada Senin menjadi menguat beruntun hingga 5.439,26 pada Jumat, tetapi di baliknya tiga pola berjalan beriringan: buyback yang mula-mula darurat kini jadi kebiasaan kas korporasi, dilusi saham non-proporsional yang terus melebar meski OJK baru menjatuhkan denda Rp2,52 triliun, dan tekanan utang BUMN karya yang makin dalam lewat rangkaian RUPSU yang gagal serta gagal bayar kupon. Ketiganya menunjukkan arah yang konsisten dari hari ke hari, bukan kejadian satu kali.",
  "pola": [
   {
-   "judul": "Tekanan Utang BUMN Karya Memuncak Jadi Guncangan Pasar",
-   "isi": "Pola tekanan kas yang Senin masih berkutat di emiten kecil seperti Pos Indonesia, yang mengajukan penundaan bunga sukuk Rp24,12 miliar, melebar Selasa ke tiga BUMN karya sekaligus: PTPP disuspensi BEI, WIKA memanggil rapat pemegang sukuk, dan ekuitas Waskita Karya ambruk 71,7 persen jadi Rp1,04 triliun. Rabu dan Kamis tekanan berlanjut lewat rugi WSBP yang melebar jadi Rp410,8 miliar dengan defisiensi ekuitas Rp2,37 triliun, serta ekuitas negatif baru di LAPD, CANI, dan DIGI. Pola ini memuncak Jumat, bersamaan dengan IHSG yang anjlok 11,57 persen, rupiah melemah ke Rp17.943 per dolar AS, dan gelombang penyusutan saham publik di MBSS, IGAR, serta IPAC yang mengarah ke go private. Arahnya konsisten memberat sepanjang pekan tanpa tanda pembalikan, bergerak dari kasus individual menjadi tekanan yang melibatkan pasar modal secara luas. Yang akan mengujinya adalah hasil tiga rapat pemegang sukuk dan obligasi WIKA pada 19, 20, dan 21 Oktober, hasil RUPSLB kedua WSBP pada 23 Oktober setelah kuorum pertama gagal, serta apakah PTPP akhirnya mendapat restu pemegang obligasinya pada 22 Oktober."
+   "judul": "Buyback bergeser dari darurat jadi kebiasaan",
+   "isi": "Gelombang buyback muncul pertama kali Senin, saat TPIA, BREN, BRPT, DSSA, CUAN, dan PBSA menyiapkan total Rp4,6 triliun persis ketika IHSG anjlok 3,64 persen, memakai aturan OJK untuk kondisi pasar bergejolak. Pola ini terus menjalar, Selasa BTN mempertimbangkan opsi serupa, Rabu Jasa Marga membuka opsi buyback dan MBSS merealisasikan Rp200 miliar saat IHSG justru menguat 0,94 persen, lalu Kamis AMMN dan BBRI masing-masing menyiapkan hingga Rp1 triliun ketika indeks naik 1,12 persen. Puncaknya Jumat, Indofood, Indofood CBP, dan London Sumatra menyiapkan buyback Rp750 miliar untuk periode 26 Oktober sampai 31 Desember, pada hari IHSG justru menguat 0,95 persen ke 5.439,26, bukan kondisi jatuh tajam yang biasanya memicu aturan ini. Arahnya bergerak dari respons darurat menjadi cara baku memakai kas perusahaan besar, terlepas dari arah indeks harian. Yang akan menegaskan atau menghentikan pola ini adalah realisasi nyata buyback INDF, ICBP, dan LSIP yang mulai berjalan 26 Oktober, serta apakah OJK memperpanjang kelonggaran aturan buyback tanpa RUPS ini menjelang akhir tahun."
   },
   {
-   "judul": "Ekspor Membesar di Atas Kertas, Celah Realisasi Melebar",
-   "isi": "Surplus dagang Agustus yang melonjak ke US$3,55 miliar diumumkan Rabu, bersamaan dengan pembukaan Trade Expo Indonesia yang mencatat 168 kesepakatan senilai US$13,2 miliar di hari pertama. Jumat terungkap bahwa sebagian besar nilai itu masih berupa surat niat, misalnya UKM kampus yang dari potensi US$22,56 juta, US$21,46 juta di antaranya baru LoI, bukan kontrak pasti. Saat TEI resmi ditutup 18 Oktober, total transaksi tercatat US$22,94 miliar dari 426 nota kesepahaman, melampaui target tapi tetap berstatus kesepakatan awal. Pada hari yang sama Kemendag sendiri mengakui akses pasar dari 25 perjanjian dagang yang sudah diteken belum otomatis menambah ekspor kalau pelaku usaha tidak memanfaatkannya. Arah sepekan ini bergerak dari optimisme angka besar di awal pekan menjadi kehati-hatian soal realisasi di penutupan, dan yang akan mengujinya adalah laporan Kemendag soal berapa banyak LoI dan MoU TEI yang benar-benar berubah menjadi kontrak jual beli dalam beberapa bulan mendatang."
+   "judul": "Dilusi non-proporsional terus melebar",
+   "isi": "Dilusi lewat penambahan modal tanpa hak memesan efek terlebih dahulu mulai terlihat Selasa lewat VISI, APEX, EMAS, dan NAYZ, yang membiayai akuisisi Bangkok Tellink senilai Rp448,3 miliar lewat rights issue meski kas perusahaan per Juni hanya Rp6,1 miliar. Rabu polanya melebar dengan angka lebih besar, NINE mengonfirmasi dilusi hingga 53,11 persen, LAPD hingga 50,42 persen, dan INPS mencatat dilusi 192 persen untuk menambal ekuitas negatif. Kamis, NAYZ merevisi nilai akuisisi itu menjadi Rp2,24 triliun, setara 80,4 kali ekuitas target yang hanya Rp27,9 miliar. Jumat, di hari yang sama OJK mengumumkan total denda pelanggaran pasar modal Rp2,52 triliun, VIVA mengonfirmasi dilusi 72,35 persen ke pihak afiliasi pengendali yang menekan free float publik ke 15,04 persen, UVCR merevisi rencana serupa, dan UNSP mendilusi pemegang saham lama sampai 13 kali lipat. Arahnya konsisten melebar sepanjang pekan, bukan insiden tunggal, dan berjalan terus meski pengawasan pasar modal sedang disorot. Yang akan menentukan kelanjutannya adalah hasil RUPSLB UVCR pada 27 Oktober serta rangkaian RUPSLB dilusi lain seperti NINE dan LAPD dalam pekan-pekan mendatang."
   },
   {
-   "judul": "Tenggat dan Kuorum Berulang Mundur di Banyak Sektor",
-   "isi": "Pola serupa muncul di sektor berbeda sepanjang pekan, keputusan resmi yang semula dijadwalkan sekali justru harus diulang atau diundur. PTPP pada Rabu menjadwalkan rapat umum pemegang sukuk ketiga untuk dua seri berbeda pada 11 November, tanda negosiasi dengan pemegang utang belum tuntas meski sudah berkali-kali dirapatkan sejak awal September. Pemerintah pada 16 Oktober mengumumkan kewajiban sertifikasi halal untuk makanan dan minuman yang semula berlaku 17 Oktober justru diundur dua tahun ke 18 Oktober 2028, hanya sehari sebelum tenggat lama seharusnya berlaku. Pola ini juga terlihat di emiten kecil seperti WSBP dan SLIS yang harus menggelar RUPSLB kedua pekan depan setelah kuorum rapat pertama tidak tercapai. Arahnya menunjukkan proses formal, baik negosiasi utang maupun kewajiban regulasi, cenderung butuh lebih dari satu percobaan untuk mencapai keputusan final. Yang akan mengujinya adalah apakah RUPSLB kedua WSBP pada 23 Oktober akhirnya mencapai kuorum, serta apakah tenggat sertifikasi halal yang baru ini bertahan tanpa revisi lagi."
+   "judul": "Tekanan utang BUMN karya makin dalam",
+   "isi": "Tekanan utang di BUMN karya terlihat memburuk dalam dua hari terakhir pekan ini. Kamis, WIKA gagal mendapat kuorum penyelesaian gagal bayar sukuk mudharabah setelah 71,7 persen pemegang suara menolak usulannya. Jumat, WIKA kembali gagal dua kali dalam RUPSU, suara setuju penyelesaian bagi hasil ke-14 dan ke-15 hanya 48,2 persen, lalu usulan penjadwalan ulang bagi hasil ke-22 dan ke-23 ditolak 71,4 persen suara, keduanya jauh dari syarat 75 persen. Di hari yang sama, PTPP sudah gagal membayar bunga obligasi dan bagi hasil sukuk yang jatuh tempo 22 Oktober, sehingga BEI melanjutkan suspensi sahamnya dengan alasan eksplisit soal kelangsungan usaha, sementara ADHI mencatat laba bersih melonjak tiga kali lipat tapi arus kas operasinya berbalik negatif dan kasnya menyusut separuh. Arahnya sudah jelas memburuk, bukan membaik, dengan rangkaian kegagalan yang terjadi berturut-turut dalam waktu singkat. Yang akan menegaskan arah ini adalah RUPSU baru WIKA pada 28 Oktober dan panggilan RUPSU PTPP pada 27 Oktober, yang menunjukkan apakah jalan keluar mulai ditemukan atau rentetan gagal bayar terus bertambah panjang."
   }
  ],
  "menanti": [
   {
-   "tanggal": "2026-10-19",
-   "apa": "RUPSU/RUPO WIKA soal sukuk dan obligasi, berlanjut 20-21 Oktober",
-   "kenapa": "Hasil tiga rapat pemegang utang WIKA ini menentukan apakah pola restrukturisasi BUMN karya mulai menemukan titik temu atau terus menyebar seperti yang terjadi pada PTPP dan Waskita."
+   "tanggal": "2026-10-26",
+   "apa": "Buyback INDF, ICBP, dan LSIP resmi mulai berjalan, masing-masing hingga Rp750 miliar",
+   "kenapa": "Ini uji pertama apakah pola buyback yang melebar sepanjang pekan benar dipakai penuh sebagai alat rutin, atau cuma janji di atas kertas yang tidak terserap."
   },
   {
-   "tanggal": "2026-10-22",
-   "apa": "PTPP belum kantongi restu tunda bayar bunga obligasi Rp44,7 miliar",
-   "kenapa": "Kegagalan berulang mendapat restu pemegang obligasi menjadi penanda apakah tekanan likuiditas PTPP mereda atau justru mendekati titik gagal bayar baru."
+   "tanggal": "2026-10-26",
+   "apa": "Kupon Sukuk Ijarah ADCP jatuh tempo, PEFINDO sudah ingatkan risiko gagal bayar",
+   "kenapa": "Kalau ADCP benar gagal bayar, itu menambah daftar emiten di luar BUMN karya yang bermasalah dengan utang, bukan lagi kasus per kasus."
   },
   {
-   "tanggal": "2026-10-23",
-   "apa": "WSBP gelar RUPSLB kedua soal konversi utang jadi saham",
-   "kenapa": "Rapat pertama gagal kuorum, sehingga hasil rapat kedua ini akan menunjukkan apakah pemegang saham mau menerima skema konversi utang sebagai jalan keluar WSBP."
+   "tanggal": "2026-10-27",
+   "apa": "RUPSLB UVCR memutuskan rincian dana PMTHMETD dan rencana penerbitan saham baru",
+   "kenapa": "Hasilnya menentukan apakah dilusi non-proporsional yang sudah melebar sepekan ini mendapat restu pemegang saham independen atau mulai dibatasi."
   },
   {
-   "tanggal": "2026-10-21",
-   "apa": "Tenggat akhir tender wajib saham SUPR oleh Protelindo, sisa 25% saham publik",
-   "kenapa": "Ini batas perpanjangan terakhir sesuai aturan OJK, sehingga hasilnya akan menegaskan apakah gelombang konsolidasi kepemilikan dan go private yang terlihat pekan ini terus berlanjut."
+   "tanggal": "2026-10-27",
+   "apa": "PTPP memanggil RUPSU ke-4 untuk sukuk mudharabah Seri B",
+   "kenapa": "Perusahaan ini sudah gagal bayar kupon pada 22 Oktober dan sahamnya disuspensi BEI, sehingga rapat ini jadi penanda apakah jalan keluar mulai ditemukan atau rentetan kegagalan berlanjut."
   },
   {
-   "tanggal": "2026-10-20",
-   "apa": "LAPD gelar RUPSLB: ganti nama, pengendali baru, dan rights issue",
-   "kenapa": "Keputusan ini menjadi uji apakah skema penyehatan lewat pengendali baru bisa menambal ekuitas negatif LAPD, pola yang juga mulai terlihat di emiten kecil lain pekan ini."
+   "tanggal": "2026-10-28",
+   "apa": "WIKA memanggil RUPSU baru, minta penundaan bagi hasil sukuk",
+   "kenapa": "Ini upaya baru WIKA setelah dua RUPSU sebelumnya gagal kuorum dalam sepekan, sehingga hasilnya jadi acuan apakah tekanan utang BUMN karya mulai mereda atau terus memburuk."
   }
  ],
- "penutup": "Hasil rapat-rapat pemegang utang WIKA, PTPP, dan WSBP pekan depan akan menentukan apakah tekanan utang BUMN karya mulai mereda atau terus menyeret kepercayaan pasar modal seperti yang sudah terlihat lewat anjloknya IHSG pekan ini.",
+ "penutup": "Yang paling menentukan arah pekan depan adalah apakah RUPSU baru WIKA dan panggilan RUPSU PTPP akhirnya menemukan jalan keluar, atau justru menambah daftar emiten pelat merah yang masalah utangnya dibiarkan berlarut.",
  "jumlahEdisi": 5,
- "jumlahBerita": 392,
- "dibuat": "2026-10-18T16:01:05.069Z"
+ "jumlahBerita": 387,
+ "dibuat": "2026-10-25T16:37:04.082Z"
 };

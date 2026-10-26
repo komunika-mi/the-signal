@@ -3,6 +3,265 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "acst-rugi-rp263-6-miliar-ekuitas-negatif-makin-dalam",
+  "category": "Aksi Korporasi",
+  "title": "ACST Rugi Rp263,6 Miliar, [Ekuitas] Negatif Makin Dalam",
+  "deck": "ACST mencatat rugi sembilan bulan Rp263,6 miliar, ekuitas negatif melebar jadi Rp596,1 miliar, di tengah pendapatan yang turun 23,7 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T12:12:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026122047-64888-0/FinancialStatement-2026-III-ACST.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ACST",
+  "tags": [
+   "ACST",
+   "Acset Indonusa",
+   "ekuitas negatif",
+   "konstruksi"
+  ],
+  "body": [
+   "PT Acset Indonusa Tbk (ACST) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan berakhir 30 September 2026. Perusahaan mencatat rugi tahun berjalan Rp263,6 miliar, melonjak dari rugi Rp94,8 miliar pada periode yang sama tahun 2025, seiring pendapatan bersih yang turun menjadi Rp1,39 triliun dari Rp1,82 triliun. Rugi per saham dasar dan dilusian melebar menjadi Rp15 per saham, dari Rp7 pada September 2025.",
+   "Jumlah ekuitas perusahaan per 30 September 2026 tercatat negatif Rp596,1 miliar, melebar dari negatif Rp330,3 miliar pada akhir 2025, karena total liabilitas Rp3,20 triliun masih lebih besar dari total aset Rp2,61 triliun. Di sisi lain, total aset turun 12,6 persen dan total liabilitas turun 3,4 persen dibanding akhir 2025. Beban bunga dan keuangan naik menjadi Rp86,2 miliar dari Rp49,4 miliar, salah satu pemicu utama melebarnya rugi, di tengah beban pinjaman dari pemegang saham sebesar Rp1,2 triliun dan pinjaman bank jangka pendek Rp550 miliar yang masih tercatat di buku perusahaan.",
+   "Saham ACST berstatus di papan Pemantauan Khusus Bursa Efek Indonesia. Jumlah karyawan tetap turun menjadi 270 orang dari 310 orang pada akhir 2025. Arus kas dari aktivitas operasi membaik tajam, dari defisit Rp1,68 triliun pada periode yang sama tahun lalu menjadi hanya defisit Rp16,3 miliar pada 2026, didukung penerimaan dari pelanggan sebesar Rp1,61 triliun. Perusahaan memiliki enam anak usaha penunjang konstruksi, antara lain PT Acset Pondasi Indonusa (kepemilikan 100 persen, aset Rp395,9 miliar) dan PT Bintai Kindenko Engineering Indonesia (60 persen, aset Rp263,1 miliar). Dalam surat terpisah ke OJK, Sekretaris Perusahaan Kadek Ratih Paramitha A. menyatakan tidak ada perubahan lebih dari 20 persen pada pos total aset dan total liabilitas dibandingkan akhir 2025, sesuai aturan keterbukaan informasi Bursa."
+  ],
+  "fotoAdegan": "Construction workers in hard hats assembling steel rebar on a high-rise building site, hazy city skyline in the background",
+  "takeaway": "Laporan ini condong negatif bagi fundamental ACST, sebab rugi sembilan bulan ini melonjak hampir tiga kali lipat menjadi Rp263,6 miliar dan ekuitas perusahaan yang sudah negatif sejak akhir tahun lalu kini makin dalam menjadi negatif Rp596,1 miliar, tanda bahwa utang masih lebih besar dari aset yang dimiliki. Ekuitas negatif berarti kalau seluruh aset perusahaan dijual pun hasilnya belum cukup menutup semua utangnya, kondisi yang jadi salah satu alasan sahamnya ditempatkan di papan pemantauan khusus Bursa. Ada sisi yang perlu diimbangi: arus kas dari kegiatan operasional membaik tajam, dari defisit Rp1,68 triliun tahun lalu menjadi hanya defisit Rp16,3 miliar tahun ini, menandakan penagihan ke pelanggan berjalan jauh lebih lancar, meski perbaikan itu belum cukup mengangkat laba karena beban bunga ikut melonjak 74,5 persen menjadi Rp86,2 miliar. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, karena hasil audit itulah yang akan menentukan apakah ekuitas negatif ini masih berlanjut dan jadi salah satu pertimbangan Bursa dalam mengevaluasi status pemantauan khusus saham ACST.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bren-rampungkan-retrofit-unit-3-darajat-ke-935-55-mw",
+  "category": "Aksi Korporasi",
+  "title": "BREN Rampungkan [Retrofit] Unit 3 Darajat, ke 935,55 MW",
+  "deck": "Star Energy Geothermal Darajat II menyelesaikan retrofit Unit 3 PLTP Darajat, menaikkan kapasitas panas bumi BREN dari 886 MW menjadi 935,55 MW, mendekati target 1 GW akhir 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T12:08:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/232f02d481_2a9e0458d2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BREN",
+  "tags": [
+   "BREN",
+   "Barito Renewables",
+   "panas bumi",
+   "Star Energy"
+  ],
+  "body": [
+   "Star Energy Geothermal Darajat II, anak usaha PT Barito Renewables Energy Tbk (BREN), menyelesaikan retrofit Unit 3 Pembangkit Listrik Tenaga Panas Bumi (PLTP) Darajat di Garut, Jawa Barat. Retrofit ini menaikkan kapasitas Unit 3 dari 122 megawatt (MW) menjadi 130,55 MW, sehingga total kapasitas kompleks Darajat naik menjadi 280,55 MW. Proyek turnkey ini dikerjakan Mitsubishi Power sejak kontrak diteken Oktober 2024, mencakup pemasangan turbin uap baru buatan Nagasaki Shipyard & Machinery Works milik Mitsubishi Heavy Industries di Jepang, dengan instalasi di lokasi digarap oleh PT Mitsubishi Power Indonesia. Perusahaan menyebut proyek selesai sesuai jadwal kontrak, tanpa insiden keselamatan, dan unit hasil retrofit melampaui nilai kinerja yang dijamin dalam kontrak.",
+   "Dengan tambahan ini, total kapasitas terpasang panas bumi BREN naik menjadi 935,55 MW, dari 886 MW saat perusahaan mencatatkan saham di Bursa Efek Indonesia pada Oktober 2023. Capaian ini mendekatkan BREN ke target kapasitas terpasang panas bumi 1 gigawatt (GW) pada akhir 2026. Presiden Direktur BREN, Hendra Soetjipto Tan, menyatakan perusahaan kini mengoperasikan salah satu unit panas bumi tunggal terbesar di Indonesia dan menilai posisinya baik untuk mencapai target 1 GW pada akhir tahun ini.",
+   "Di luar penyelesaian retrofit, Star Energy Geothermal dan PT Mitsubishi Power Indonesia juga menandatangani perjanjian studi teknis dan kerja sama baru. Perjanjian ini bertujuan menjajaki peningkatan kinerja turbin uap serta keandalan dan ketersediaan Unit 2 dan Unit 3 PLTP Darajat, tanpa menyebutkan nilai kontrak atau tenggat penyelesaian studi tersebut."
+  ],
+  "fotoAdegan": "Steam pipelines winding across a geothermal plant site on a forested mountainside in West Java, mist rising at dawn, workers in safety gear inspecting equipment",
+  "takeaway": "Laporan ini condong positif bagi BREN, karena retrofit menambah kapasitas pembangkit yang bisa dijual sebagai listrik tanpa menyebutkan tambahan utang, pembengkakan biaya, atau insiden teknis, dan membawa perusahaan lebih dekat ke target 1 gigawatt pada akhir 2026. Yang tersentuh adalah potensi arus kas dari penjualan listrik ke depan, sebab tambahan 8,55 MW di Unit 3 berarti lebih banyak listrik yang bisa ditagihkan lewat kontrak jual beli listrik jangka panjang, meski ini bukan pendapatan instan yang langsung masuk kas tahun ini. Dokumen tidak menyebut dampaknya terhadap ekuitas, beban bunga, atau laba per saham, jadi efek ke laporan keuangan belum bisa dipastikan dari rilis ini saja. Yang perlu dipantau berikutnya adalah apakah BREN benar-benar mencapai target 1 GW pada akhir 2026, yang berarti masih butuh tambahan sekitar 64,45 MW dari proyek lain dalam waktu kurang dari tiga bulan. Hasil kerja sama teknis baru dengan Mitsubishi Power Indonesia untuk Unit 2 dan 3 juga layak diikuti, meski dokumen ini belum memberi tenggat atau nilai kontraknya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mdla-direksi-tambah-1-500-saham-senilai-rp282-ribu",
+  "category": "Aksi Korporasi",
+  "title": "MDLA: Direksi [Tambah] 1.500 Saham Senilai Rp282 Ribu",
+  "deck": "Direksi MDLA Edbert Orotodan membeli 1.500 saham pada 21 Oktober 2026, menambah kepemilikannya menjadi 1.942.400 lembar saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T12:08:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8823-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLA",
+  "tags": [
+   "MDLA",
+   "kepemilikan saham",
+   "direksi",
+   "Medela Potentia"
+  ],
+  "body": [
+   "Direksi PT Medela Potentia Tbk (MDLA), Edbert Orotodan, melaporkan pembelian 1.500 lembar saham MDLA pada 21 Oktober 2026 dengan harga Rp188 per saham, sesuai laporan kepemilikan saham yang disampaikan ke Otoritas Jasa Keuangan. Transaksi dilakukan secara tidak langsung dengan tujuan investasi, menggunakan mekanisme repurchase agreement. Setelah transaksi, kepemilikan Edbert di MDLA bertambah dari 1.940.900 lembar menjadi 1.942.400 lembar saham.",
+   "Penambahan 1.500 lembar ini hanya setara 0,0773 persen dari saham yang sudah dimiliki Edbert sebelumnya, sehingga porsi hak suaranya di MDLA tetap di angka 0,01 persen, tidak berubah dari sebelum transaksi. Nilai transaksi ini sendiri sekitar Rp282.000, jauh lebih kecil dibandingkan pembelian 1,38 juta saham yang dilaporkan jajaran direksi MDLA dalam dua hari pada pekan sebelumnya."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's financial district reflecting afternoon sunlight, busy street traffic passing below",
+  "takeaway": "Laporan ini netral bagi MDLA karena pembelian 1.500 saham oleh Edbert Orotodan terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi terhadap sahamnya sendiri, mengingat nilainya hanya sekitar Rp282.000 dan porsi hak suaranya di perusahaan tidak bergeser dari 0,01 persen. Yang tersentuh di sini cuma jumlah saham beredar yang dipegang perseorangan direksi, bukan struktur modal MDLA secara keseluruhan, sehingga tidak berpengaruh ke laba per saham atau arus kas perusahaan, meski pelaku pasar biasanya memantau transaksi insider semacam ini untuk membaca apakah orang dalam perusahaan sedang menambah atau mengurangi eksposurnya. Yang perlu dipantau berikutnya adalah apakah pembelian kecil ini jadi kelanjutan dari pola akumulasi, setelah direksi MDLA sebelumnya memborong 1,38 juta saham dalam dua hari pada pekan lalu, atau justru berhenti di sini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pjhb-cetak-laba-rp8-6-miliar-saham-beredar-naik-33",
+  "category": "Aksi Korporasi",
+  "title": "PJHB Cetak Laba Rp8,6 Miliar, Saham Beredar [Naik] 33%",
+  "deck": "Laba bersih PJHB naik 68 persen jadi Rp8,63 miliar dalam sembilan bulan 2026, sementara jumlah saham beredar bertambah 33 persen setelah penambahan modal pada Juli 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T11:59:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026121154-64397-0/FinancialStatement-2026-III-PJHB.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PJHB",
+  "tags": [
+   "PJHB",
+   "laporan keuangan",
+   "pelayaran",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Pelayaran Jaya Hidup Baru Tbk (PJHB) melaporkan hasil keuangan konsolidasian tidak diaudit untuk sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan naik dari Rp23,85 miliar pada periode yang sama tahun lalu menjadi Rp34,38 miliar. Laba kotor ikut terangkat dari Rp8,87 miliar menjadi Rp12,19 miliar, laba usaha dari Rp5,19 miliar menjadi Rp6,48 miliar, dan laba bersih tahun berjalan dari Rp5,13 miliar menjadi Rp8,63 miliar. Laba per saham tercatat Rp6,06, naik dari Rp3,59 pada periode sebelumnya.",
+   "Di sisi aset, total aset perusahaan naik dari Rp335,15 miliar pada akhir 2025 menjadi Rp348,24 miliar pada akhir September 2026. Namun kas dan setara kas justru menyusut dari Rp141,75 miliar menjadi Rp56,22 miliar, sementara pos uang muka melonjak dari Rp35,38 miliar menjadi Rp133,16 miliar. Total liabilitas turun dari Rp15,43 miliar menjadi Rp12,98 miliar, dan total ekuitas naik dari Rp319,72 miliar menjadi Rp335,29 miliar. Modal saham bertambah dari Rp72 miliar, yang terdiri dari 1,44 miliar lembar saham, menjadi Rp96 miliar atau 1,92 miliar lembar saham, setelah penambahan 480 juta lembar saham baru yang berlaku efektif 7 Juli 2026.",
+   "Perusahaan memiliki entitas anak, PT Tirta Jaya Hidup Baru, dengan kepemilikan 60 persen, berlokasi di Pasuruan, Jawa Timur, bergerak di bidang perdagangan dan industri dengan total aset Rp14,81 miliar. Sampai laporan ini terbit, anak usaha tersebut belum beroperasi secara komersial. Kegiatan usaha utama PJHB sendiri adalah angkutan laut domestik untuk barang dan aktivitas perusahaan induk (holding), dengan kantor pusat di Samarinda, Kalimantan Timur. Pemegang saham pengendali perusahaan adalah Hero Gozali, sementara surat pernyataan direksi ditandatangani oleh Go Sioe Bie selaku Direktur Utama dan Anthony Samuel Rahmatharun selaku Direktur Keuangan pada 26 Oktober 2026."
+  ],
+  "fotoAdegan": "Small inter-island cargo ships moored at a busy Indonesian seaport, dockworkers loading crates under afternoon light.",
+  "takeaway": "Laporan ini condong positif bagi PJHB karena pendapatan dan laba bersih tumbuh signifikan dalam sembilan bulan ini, sementara total utang perusahaan justru mengecil. Yang perlu diperhatikan adalah laba per saham, yaitu bagian laba yang jadi hak tiap lembar saham, karena perusahaan baru menambah jumlah saham beredar sebesar 33 persen pada Juli 2026; untungnya laba per saham tetap naik dari Rp3,59 menjadi Rp6,06, tanda pertumbuhan laba lebih cepat daripada penambahan sahamnya sehingga nilai kepemilikan pemegang saham lama belum tergerus. Satu hal yang perlu dicermati adalah kas perusahaan yang menyusut tajam dari Rp141,75 miliar menjadi Rp56,22 miliar, sementara pos uang muka melonjak hampir empat kali lipat, yang menunjukkan sebagian dana tunai itu sudah dialihkan untuk pembayaran di muka, kemungkinan terkait rencana ekspansi usaha. Yang akan menentukan arah selanjutnya adalah kapan entitas anak baru, PT Tirta Jaya Hidup Baru, mulai beroperasi secara komersial karena sampai laporan ini terbit statusnya masih belum beroperasi, serta perpanjangan sejumlah sertifikat kapal yang sebagian berakhir dalam waktu dekat, misalnya pada 7 November dan 10 November 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "laba-bles-melonjak-hampir-6-kali-lipat-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba BLES [Melonjak] Hampir 6 Kali Lipat di Kuartal III 2026",
+  "deck": "Laba bersih Superior Prima Sukses (BLES) melonjak hampir enam kali lipat menjadi Rp284,3 miliar pada sembilan bulan pertama 2026, dibantu kas operasi yang menguat dan utang bank yang menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T11:53:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026120419-64812-0/FinancialStatement-2026-III-BLES.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLES",
+  "tags": [
+   "BLES",
+   "Superior Prima Sukses",
+   "laba",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Superior Prima Sukses Tbk (BLES) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 26 Oktober 2026. Penjualan bersih perseroan naik 31 persen menjadi Rp1,41 triliun dari Rp1,07 triliun pada periode yang sama tahun sebelumnya. Laba kotor melonjak lebih dari dua kali lipat, dari Rp261 miliar menjadi Rp567,4 miliar, sementara jumlah beban usaha justru sedikit menyusut menjadi Rp184,1 miliar dari Rp186,1 miliar meski penjualan tumbuh, karena beban penjualan turun dari Rp168,8 miliar menjadi Rp167 miliar.",
+   "Hasilnya, laba usaha perseroan melesat dari Rp74,9 miliar menjadi Rp383,3 miliar, dan laba bersih yang dapat diatribusikan kepada pemilik perusahaan naik hampir enam kali lipat, dari Rp48,7 miliar menjadi Rp284,3 miliar. Laba per saham ikut terangkat dari Rp5,48 menjadi Rp31,98. Kenaikan laba ini juga tercermin pada arus kas dari aktivitas operasi yang naik dari Rp82,2 miliar menjadi Rp316,9 miliar, menunjukkan laba yang dibukukan diikuti kas yang benar benar masuk ke kas perseroan.",
+   "Posisi keuangan BLES per 30 September 2026 juga menguat. Total aset naik 9,5 persen menjadi Rp2,23 triliun dari Rp2,04 triliun pada akhir 2025, sementara total liabilitas turun 8,1 persen menjadi Rp842,9 miliar, salah satunya karena utang bank jangka panjang berkurang dari Rp426,7 miliar menjadi Rp363,3 miliar. Kas dan setara kas melonjak dari Rp66,7 miliar menjadi Rp188,2 miliar, dan total ekuitas naik 23,9 persen menjadi Rp1,39 triliun. Perseroan membagikan dividen tunai Rp16,8 miliar pada periode ini, lebih kecil dari Rp32 miliar yang dibagikan pada periode yang sama tahun lalu. Dua entitas anak yang disebut dalam laporan ini, PT Superior Persada Sejahtera di Surabaya dan PT Superior Sarana Sukses di Lamongan, bergerak di bidang pengangkutan dengan kepemilikan BLES masing masing 99 persen dan 99,9 persen."
+  ],
+  "fotoAdegan": "Gravel trucks queued at a quarry loading dock, dust hanging in the air, workers in hard hats directing traffic, overcast morning light",
+  "takeaway": "Laporan ini positif bagi BLES, sebab laba bersihnya melonjak hampir enam kali lipat menjadi Rp284,3 miliar, dan kenaikan itu dibarengi penurunan utang bank jangka panjang serta kas dari aktivitas operasi yang ikut membesar, bukan cuma angka di atas kertas. Pos yang tersentuh adalah laba per saham, arus kas, dan ekuitas: laba per saham naik dari Rp5,48 ke Rp31,98 dan menunjukkan bagian laba yang secara teoritis menjadi hak setiap lembar saham, arus kas operasi dipantau karena menunjukkan laba itu benar benar berubah jadi uang tunai yang diterima perseroan, sementara ekuitas yang tumbuh 23,9 persen berarti kekayaan bersih pemegang saham bertambah lewat penumpukan laba ditahan. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit perseroan, karena laporan sembilan bulan ini masih berstatus tidak diaudit dan belum memperoleh opini dari akuntan publik independen.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mbss-andy-wibowo-beli-8-47-juta-saham-senilai-rp24-6-m",
+  "category": "Aksi Korporasi",
+  "title": "MBSS: Andy Wibowo [Beli] 8,47 Juta Saham Senilai Rp24,6 M",
+  "deck": "Andy Wibowo, investor individu yang bukan direksi atau komisaris MBSS, membeli 8,47 juta saham secara tidak langsung pada 19 Oktober 2026 senilai sekitar Rp24,6 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T11:45:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-1165-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBSS",
+  "tags": [
+   "MBSS",
+   "kepemilikan saham",
+   "Mitrabahtera Segara Sejati",
+   "OJK"
+  ],
+  "body": [
+   "PT Mitrabahtera Segara Sejati Tbk (MBSS) mencatat perubahan kepemilikan saham setelah Andy Wibowo, seorang warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perusahaan, melaporkan pembelian saham MBSS kepada Otoritas Jasa Keuangan. Sebelum transaksi, Andy tidak memegang satu pun saham MBSS. Pada 19 Oktober 2026, ia membeli 8.469.400 lembar saham biasa secara tidak langsung dengan harga Rp2.909 per saham, sehingga total nilai transaksinya sekitar Rp24,6 miliar. Tujuan transaksi yang disebutkan dalam laporan adalah investasi.",
+   "Dengan tambahan kepemilikan itu, hak suara Andy di MBSS naik dari 0 persen menjadi 0,484 persen. Laporan ini disampaikan ke Kepala Eksekutif Pengawas Pasar Modal, Keuangan Derivatif, dan Bursa Karbon OJK pada 26 Oktober 2026 dengan nomor surat LK/26102026/0005/1, sesuai kewajiban pelaporan kepemilikan saham perusahaan terbuka yang diatur POJK Nomor 4/2024. Status pembelian yang tercatat tidak langsung berarti saham tersebut dipegang melalui pihak atau entitas lain, bukan atas nama pribadi Andy secara langsung di rekening efeknya."
+  ],
+  "fotoAdegan": "A tugboat pushing a heavily loaded coal barge along a calm tropical strait, hazy morning light, no people in close-up",
+  "takeaway": "Transaksi ini netral bagi fundamental MBSS, karena yang berpindah tangan hanyalah saham yang sudah beredar di pasar sekunder, bukan penerbitan saham baru oleh perusahaan. Karena Andy bukan direksi atau komisaris dan hak suaranya cuma naik ke 0,484 persen, pembelian ini tidak mengubah jumlah saham beredar MBSS, tidak menambah kas ke perusahaan, dan tidak bisa dibaca sebagai sinyal dari manajemen soal prospek bisnis. Pelaku pasar biasanya baru menganggap perubahan kepemilikan berarti kalau porsinya besar atau melibatkan orang dalam perusahaan, dan dua kondisi itu tidak terpenuhi di sini. Yang lebih relevan dipantau dari sisi korporasi MBSS saat ini adalah program buyback saham senilai Rp200 miliar yang dijadwalkan rampung 31 Desember 2026, karena itu yang berpotensi memengaruhi jumlah saham beredar dan ekuitas perusahaan secara langsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pskt-siapkan-buyback-saham-rp5-miliar-hingga-januari-2027",
+  "category": "Aksi Korporasi",
+  "title": "PSKT Siapkan [Buyback] Saham Rp5 Miliar hingga Januari 2027",
+  "deck": "Red Planet Indonesia (PSKT) berencana membeli kembali saham maksimal Rp5 miliar pada 27 Oktober 2026-26 Januari 2027 lewat BCA Sekuritas, memanfaatkan aturan OJK soal volatilitas pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T11:36:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/587a45e84f_a18d8343e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSKT",
+  "tags": [
+   "PSKT",
+   "buyback saham",
+   "OJK",
+   "Red Planet Indonesia"
+  ],
+  "body": [
+   "PT Red Planet Indonesia Tbk (PSKT) menyampaikan rencana pembelian kembali saham (buyback) dengan mengacu pada aturan Otoritas Jasa Keuangan (OJK) tentang kebijakan menjaga stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan, yakni POJK No. 13/2023 dan Surat OJK No. S-112/D.04/2026. Dengan payung aturan ini, perusahaan bisa langsung melakukan buyback tanpa perlu meminta persetujuan Rapat Umum Pemegang Saham lebih dulu. Periode pembelian dijadwalkan berlangsung mulai 27 Oktober 2026 sampai 26 Januari 2027, dengan satu perusahaan efek yang ditunjuk sebagai pelaksana, yaitu PT BCA Sekuritas.",
+   "Dana untuk buyback diambil dari kas internal perusahaan dan nilainya dibatasi maksimal Rp5 miliar, termasuk biaya transaksi dan biaya lain yang timbul. Manajemen menyatakan jumlah saham yang akan dibeli tidak akan melebihi 20 persen dari modal yang ditempatkan dan disetor penuh, dan tetap memperhatikan batas minimum saham yang harus beredar di masyarakat. Dalam ilustrasi proforma per 30 Juni 2026, perusahaan mengasumsikan dana tersebut bisa menyerap sekitar 30 juta lembar saham, meski jumlah pastinya baru akan ditentukan oleh harga saham selama periode pembelian berjalan.",
+   "Dengan asumsi itu, jumlah saham beredar rata-rata diperkirakan turun dari 10.351.231.636 lembar menjadi 10.321.231.636 lembar. Karena rugi bersih yang diatribusikan kepada pemilik entitas induk tetap di angka Rp4.467,95 juta untuk periode semester satu 2026, rugi bersih per saham dasar justru sedikit membesar dari Rp0,4316 menjadi Rp0,4329. Perseroan juga menegaskan komisaris, direktur, pegawai, pemegang saham utama, dan pihak yang punya akses informasi orang dalam dilarang bertransaksi atas saham PSKT selama periode buyback ini berlangsung.",
+   "Buyback akan dihentikan lebih cepat jika seluruh saham yang direncanakan sudah terbeli, dana sudah mencapai Rp5 miliar, jangka waktu habis, atau manajemen menganggap perlu menyetopnya. Jika penghentian dini terjadi, perusahaan wajib melaporkannya ke OJK beserta alasannya dan mengumumkannya ke publik paling lambat dua hari kerja setelah keputusan itu diambil."
+  ],
+  "fotoAdegan": "Housekeeping staff pushing a linen cart past rows of budget hotel room doors in a brightly lit corridor, mid-morning",
+  "takeaway": "Rencana buyback ini netral bagi fundamental Red Planet Indonesia, sebab dananya hanya Rp5 miliar dan diperkirakan cuma menyerap sekitar 30 juta lembar saham, kurang dari 0,3 persen dari total 10,35 miliar saham beredar, sehingga nyaris tidak mengubah hak suara atau kepemilikan pemegang saham lain. Yang tersentuh adalah jumlah saham beredar dan rugi per saham, yaitu rugi bersih perusahaan dibagi jumlah saham yang berlaku sebagai salah satu ukuran yang dipantau investor untuk menilai kinerja per lembar saham; proforma di dokumen ini menunjukkan rugi per saham cuma bertambah tipis dari Rp0,4316 menjadi Rp0,4329, sementara rugi bersih perusahaan sendiri tidak berubah karena dana buyback diambil dari kas, bukan dari laba usaha. Yang perlu dicermati selanjutnya adalah realisasi pembelian selama periode 27 Oktober 2026 hingga 26 Januari 2027, termasuk kemungkinan penghentian lebih awal yang wajib diumumkan ke OJK dan publik paling lambat dua hari kerja setelah keputusan itu diambil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "avia-jadwalkan-rupslb-pada-2-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Jadwalkan [RUPSLB] pada 2 Desember 2026",
+  "deck": "AVIA menjadwalkan RUPSLB pada 2 Desember 2026, dengan pemegang saham per 9 November 2026 yang berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T11:31:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1356c9b14e_472eb477ac.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "RUPSLB",
+   "Avia Avian",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 2 Desember 2026 pukul 09.30 WIB. Rapat digelar secara fisik dan elektronik melalui fasilitas eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia (KSEI). Surat pemberitahuan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia ditandatangani Direktur Kurnia Hadi Sinanto pada 26 Oktober 2026, sementara pengumuman resminya ditandatangani Corporate Secretary Hera Septi Astuti.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan, atau tercatat di sub rekening efek KSEI, pada penutupan perdagangan saham AVIA di Bursa Efek Indonesia hari Senin, 9 November 2026. Panggilan resmi yang memuat agenda rapat baru akan diumumkan melalui situs eASY.KSEI, situs Bursa Efek Indonesia, dan situs resmi perusahaan pada Selasa, 10 November 2026. Sampai saat ini, agenda RUPSLB belum diungkapkan oleh perusahaan dalam dokumen ini.",
+   "Pemegang saham yang ingin mengajukan usulan mata acara rapat harus mewakili sedikitnya 1/20 dari total saham dengan hak suara yang sah, dan mengajukannya secara tertulis kepada direksi paling lambat Selasa, 3 November 2026 pukul 16.00 WIB, yaitu tujuh hari sebelum tanggal pemanggilan. Usulan wajib menyertakan alasan dan bahan pendukung, serta tidak boleh bertentangan dengan Anggaran Dasar Perseroan maupun aturan yang berlaku. Perseroan juga menghimbau pemegang saham memberikan kuasa secara elektronik lewat eASY.KSEI atau melalui PT Raya Saham Registra selaku Biro Administrasi Efek yang ditunjuk perusahaan."
+  ],
+  "fotoAdegan": "Stacks of paint cans on wooden pallets inside a warehouse loading dock, workers moving boxes, overcast daylight through open doors",
+  "takeaway": "Laporan ini netral bagi AVIA karena baru memberi tahu jadwal dan tenggat administratif rapat, belum mengungkap agenda atau keputusan apa pun yang akan diambil pemegang saham. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba, melainkan hak suara pemegang saham, karena hanya yang tercatat di Daftar Pemegang Saham pada 9 November 2026 yang berhak hadir dan memberi suara di rapat nanti. Hal ini relevan bagi investor yang sedang mempertimbangkan membeli atau menjual saham AVIA menjelang tanggal tersebut. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 10 November 2026, karena di situ baru akan terungkap agenda sesungguhnya dari RUPSLB ini, serta tenggat pengajuan usulan agenda oleh pemegang saham pada 3 November 2026 pukul 16.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-direksi-tambah-saham-beli-rp1-48-miliar-di-pasar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Direksi [Tambah] Saham, Beli Rp1,48 Miliar di Pasar",
+  "deck": "Direksi Arkora Hydro, Aldo Henry Artoko, membeli 1,05 juta lembar saham ARKO pada 22 Oktober 2026 senilai Rp1,48 miliar, menaikkan hak suaranya ke 0,22 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T10:52:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-6626-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "kepemilikan saham",
+   "insider buying"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) melaporkan ke Otoritas Jasa Keuangan bahwa Aldo Henry Artoko, salah satu anggota direksi perusahaan, membeli saham ARKO secara tidak langsung sebanyak 1.050.800 lembar pada 22 Oktober 2026. Harga pembelian tercatat Rp1.405 per saham, atau senilai sekitar Rp1,48 miliar, dengan tujuan transaksi disebutkan sebagai investasi.",
+   "Dengan pembelian ini, kepemilikan saham Aldo di ARKO naik dari 5.449.200 lembar menjadi 6.500.000 lembar, bertambah 1.050.800 lembar atau setara 19,28 persen dari jumlah yang dimilikinya sebelum transaksi. Hak suaranya di perusahaan ikut naik, dari 0,19 persen menjadi 0,22 persen dari total saham beredar ARKO.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi, komisaris, dan pemegang saham utama melaporkan setiap perubahan kepemilikan saham emiten kepada OJK."
+  ],
+  "fotoAdegan": "A run-of-river hydroelectric powerhouse with steel penstock pipes along a forested riverbank in Indonesia, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi ARKO karena mencatat pembelian, bukan pelepasan saham oleh direksi, yang biasanya dibaca pasar sebagai bentuk keyakinan orang dalam terhadap prospek perusahaan. Yang tersentuh di sini adalah hak suara pribadi Aldo, bukan jumlah saham beredar perusahaan, sebab transaksi ini terjadi di pasar sekunder antar pemegang saham sehingga tidak menambah saham baru dan tidak mendilusi pemegang saham lain. Meski kenaikan kepemilikannya sendiri cukup besar secara persentase, dari 5,45 juta menjadi 6,5 juta lembar, porsinya terhadap total saham ARKO tetap tipis, hanya naik dari 0,19 persen jadi 0,22 persen, sehingga tidak mengubah struktur kendali perusahaan. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris lain ARKO melakukan pembelian serupa dalam waktu dekat, karena pola pembelian beruntun oleh jajaran direksi biasanya lebih bermakna sebagai sinyal ketimbang transaksi tunggal seperti ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "arko-komisaris-tambah-saham-beli-rp419-juta-di-pasar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Komisaris [Tambah] Saham, Beli Rp419 Juta di Pasar",
+  "deck": "Komisaris Arkora Hydro, Arya Pradana Setiadharma, membeli 300.000 saham seharga Rp1.398 per lembar pada 22 Oktober 2026, menambah kepemilikannya hampir 14 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T10:38:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-2395-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris PT Arkora Hydro Tbk (ARKO), Arya Pradana Setiadharma, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 300.000 saham ARKO di pasar pada 22 Oktober 2026. Pembelian dilakukan secara tidak langsung dengan harga Rp1.398 per saham, sehingga nilai total transaksi mencapai sekitar Rp419,4 juta. Dalam laporan tersebut, tujuan transaksi disebutkan sebagai investasi.",
+   "Dengan pembelian ini, kepemilikan saham Arya di ARKO naik dari 2.145.000 lembar menjadi 2.445.000 lembar, bertambah 300.000 lembar atau setara 13,99 persen dari jumlah yang dipegangnya sebelum transaksi. Hak suaranya di perusahaan ikut naik, dari 0,07 persen menjadi 0,08 persen dari total saham ARKO yang beredar. Laporan ini disampaikan sesuai kewajiban keterbukaan bagi direksi dan komisaris berdasarkan POJK Nomor 4/2024 tentang pelaporan kepemilikan saham perusahaan terbuka.",
+   "Transaksi ini menambah rangkaian pembelian saham oleh jajaran insider ARKO dalam sepekan terakhir. Sebelumnya, jajaran direksi perseroan juga melaporkan pembelian saham ARKO di pasar dengan nilai sekitar Rp1,48 miliar."
+  ],
+  "fotoAdegan": "A run-of-river hydroelectric powerhouse beside a fast-flowing forested river in the Indonesian highlands, turbine hall visible, overcast morning light",
+  "takeaway": "Pembelian ini condong positif bagi ARKO karena mencerminkan keyakinan orang dalam, bukan pelepasan saham yang biasa dibaca sebagai sinyal waspada. Yang tersentuh di sini adalah jumlah saham yang dipegang insider dan hak suaranya, bukan pos keuangan perusahaan seperti ekuitas atau arus kas, sebab transaksi ini terjadi di pasar sekunder antarpemegang saham dan tidak mengalirkan dana baru ke kas ARKO. Pelaku pasar biasanya memperhatikan transaksi semacam ini karena pola beli oleh komisaris atau direksi sering ditafsirkan sebagai tanda mereka menilai prospek bisnis membaik, meski secara absolut porsi tambahan ini masih sangat kecil, hak suara Arya cuma naik dari 0,07 persen menjadi 0,08 persen dari seluruh saham ARKO. Transaksi ini juga melanjutkan tren pembelian insider ARKO pekan ini, setelah direksi perseroan sebelumnya membeli saham senilai Rp1,48 miliar. Yang perlu dipantau berikutnya adalah apakah pola pembelian oleh insider ARKO berlanjut dalam beberapa pekan mendatang, karena pembelian berulang biasanya dibaca sebagai sinyal keyakinan yang lebih kuat ketimbang satu transaksi tunggal.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "akpi-henry-liem-jual-200-000-saham-lagi",
   "category": "Aksi Korporasi",
   "title": "AKPI: Henry Liem Jual 200.000 Saham [Lagi]",

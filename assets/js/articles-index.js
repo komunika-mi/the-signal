@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "acst-rugi-rp263-6-miliar-ekuitas-negatif-makin-dalam",
+  "category": "Aksi Korporasi",
+  "title": "ACST Rugi Rp263,6 Miliar, [Ekuitas] Negatif Makin Dalam",
+  "deck": "ACST mencatat rugi sembilan bulan Rp263,6 miliar, ekuitas negatif melebar jadi Rp596,1 miliar, di tengah pendapatan yang turun 23,7 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ACST",
+   "Acset Indonusa",
+   "ekuitas negatif",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026122047-64888-0/FinancialStatement-2026-III-ACST.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bren-rampungkan-retrofit-unit-3-darajat-ke-935-55-mw",
+  "category": "Aksi Korporasi",
+  "title": "BREN Rampungkan [Retrofit] Unit 3 Darajat, ke 935,55 MW",
+  "deck": "Star Energy Geothermal Darajat II menyelesaikan retrofit Unit 3 PLTP Darajat, menaikkan kapasitas panas bumi BREN dari 886 MW menjadi 935,55 MW, mendekati target 1 GW akhir 2026.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BREN",
+   "Barito Renewables",
+   "panas bumi",
+   "Star Energy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/232f02d481_2a9e0458d2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdla-direksi-tambah-1-500-saham-senilai-rp282-ribu",
+  "category": "Aksi Korporasi",
+  "title": "MDLA: Direksi [Tambah] 1.500 Saham Senilai Rp282 Ribu",
+  "deck": "Direksi MDLA Edbert Orotodan membeli 1.500 saham pada 21 Oktober 2026, menambah kepemilikannya menjadi 1.942.400 lembar saham.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLA",
+   "kepemilikan saham",
+   "direksi",
+   "Medela Potentia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8823-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pjhb-cetak-laba-rp8-6-miliar-saham-beredar-naik-33",
+  "category": "Aksi Korporasi",
+  "title": "PJHB Cetak Laba Rp8,6 Miliar, Saham Beredar [Naik] 33%",
+  "deck": "Laba bersih PJHB naik 68 persen jadi Rp8,63 miliar dalam sembilan bulan 2026, sementara jumlah saham beredar bertambah 33 persen setelah penambahan modal pada Juli 2026.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PJHB",
+   "laporan keuangan",
+   "pelayaran",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026121154-64397-0/FinancialStatement-2026-III-PJHB.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-bles-melonjak-hampir-6-kali-lipat-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba BLES [Melonjak] Hampir 6 Kali Lipat di Kuartal III 2026",
+  "deck": "Laba bersih Superior Prima Sukses (BLES) melonjak hampir enam kali lipat menjadi Rp284,3 miliar pada sembilan bulan pertama 2026, dibantu kas operasi yang menguat dan utang bank yang menyusut.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLES",
+   "Superior Prima Sukses",
+   "laba",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026120419-64812-0/FinancialStatement-2026-III-BLES.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbss-andy-wibowo-beli-8-47-juta-saham-senilai-rp24-6-m",
+  "category": "Aksi Korporasi",
+  "title": "MBSS: Andy Wibowo [Beli] 8,47 Juta Saham Senilai Rp24,6 M",
+  "deck": "Andy Wibowo, investor individu yang bukan direksi atau komisaris MBSS, membeli 8,47 juta saham secara tidak langsung pada 19 Oktober 2026 senilai sekitar Rp24,6 miliar.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBSS",
+   "kepemilikan saham",
+   "Mitrabahtera Segara Sejati",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-1165-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pskt-siapkan-buyback-saham-rp5-miliar-hingga-januari-2027",
+  "category": "Aksi Korporasi",
+  "title": "PSKT Siapkan [Buyback] Saham Rp5 Miliar hingga Januari 2027",
+  "deck": "Red Planet Indonesia (PSKT) berencana membeli kembali saham maksimal Rp5 miliar pada 27 Oktober 2026-26 Januari 2027 lewat BCA Sekuritas, memanfaatkan aturan OJK soal volatilitas pasar.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSKT",
+   "buyback saham",
+   "OJK",
+   "Red Planet Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/587a45e84f_a18d8343e4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "avia-jadwalkan-rupslb-pada-2-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Jadwalkan [RUPSLB] pada 2 Desember 2026",
+  "deck": "AVIA menjadwalkan RUPSLB pada 2 Desember 2026, dengan pemegang saham per 9 November 2026 yang berhak hadir dan memberi suara.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "RUPSLB",
+   "Avia Avian",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1356c9b14e_472eb477ac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-direksi-tambah-saham-beli-rp1-48-miliar-di-pasar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Direksi [Tambah] Saham, Beli Rp1,48 Miliar di Pasar",
+  "deck": "Direksi Arkora Hydro, Aldo Henry Artoko, membeli 1,05 juta lembar saham ARKO pada 22 Oktober 2026 senilai Rp1,48 miliar, menaikkan hak suaranya ke 0,22 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "kepemilikan saham",
+   "insider buying"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-6626-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-komisaris-tambah-saham-beli-rp419-juta-di-pasar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Komisaris [Tambah] Saham, Beli Rp419 Juta di Pasar",
+  "deck": "Komisaris Arkora Hydro, Arya Pradana Setiadharma, membeli 300.000 saham seharga Rp1.398 per lembar pada 22 Oktober 2026, menambah kepemilikannya hampir 14 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-2395-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "akpi-henry-liem-jual-200-000-saham-lagi",
   "category": "Aksi Korporasi",
   "title": "AKPI: Henry Liem Jual 200.000 Saham [Lagi]",
@@ -6274,170 +6434,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ad979f49cd_c76382c743.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "cuan-alokasikan-rp500-miliar-untuk-buyback-saham",
-  "category": "Aksi Korporasi",
-  "title": "CUAN Alokasikan [Rp500 Miliar] untuk Buyback Saham",
-  "deck": "PT Petrindo Jaya Kreasi Tbk (CUAN) akan membeli kembali sahamnya senilai maksimal Rp500 miliar pada 19 Oktober hingga 31 Desember 2026, memanfaatkan aturan OJK soal kondisi pasar yang bergejolak.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CUAN",
-   "buyback saham",
-   "Petrindo Jaya Kreasi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2aeeaa508_8d5bd4bf44.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trim-lunasi-obligasi-rp100-miliar-yang-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "TRIM [Lunasi] Obligasi Rp100 Miliar yang Jatuh Tempo",
-  "deck": "Trimegah Sekuritas melunasi pokok Obligasi II Tahap II Seri A senilai Rp100 miliar yang jatuh tempo 18 Oktober 2026 melalui KSEI.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIM",
-   "obligasi",
-   "pelunasan utang",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd48777ed1_f08d7c8995.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "scma-bagi-dividen-interim-rp8-4-saham-total-rp533-4-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SCMA bagi [dividen] interim Rp8,4/saham, total Rp533,4 miliar",
-  "deck": "Direksi SCMA menetapkan dividen interim Rp8,4 per saham, total Rp533,4 miliar, dengan recording date 29 Oktober dan pembayaran 18 November 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SCMA",
-   "dividen interim",
-   "Surya Citra Media",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a947027224_b8860e2742.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-siapkan-buyback-saham-hingga-rp1-triliun",
-  "category": "Aksi Korporasi",
-  "title": "TPIA Siapkan [Buyback] Saham hingga Rp1 Triliun",
-  "deck": "Chandra Asri Pacific berencana membeli kembali sahamnya sendiri senilai maksimal Rp1 triliun, setara 0,92 persen saham beredar, mulai 20 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "buyback saham",
-   "Chandra Asri Pacific",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/29a8ab134d_50127c015e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brpt-siapkan-rp1-triliun-untuk-buyback-saham",
-  "category": "Aksi Korporasi",
-  "title": "BRPT Siapkan Rp1 Triliun untuk [Buyback] Saham",
-  "deck": "Barito Pacific akan membeli kembali sahamnya senilai maksimal Rp1 triliun hingga akhir tahun, memakai aturan OJK untuk pasar yang sedang berfluktuasi.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRPT",
-   "buyback saham",
-   "Barito Pacific",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/346ff0c9e3_b58dca7152.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpdp-dorong-umkm-perkebunan-masuk-pasar-digital",
-  "category": "UMKM",
-  "title": "BPDP Dorong UMKM Perkebunan Masuk Pasar [Digital]",
-  "deck": "BPDP menggelar podcast UMKM Perkebunan di Roemah UMKM SMESCO untuk mendorong pelaku usaha sawit, kelapa, dan kakao membangun merek dan menembus pasar digital.",
-  "date": "18 Oktober 2026",
-  "image": "assets/img/bpdp-dorong-umkm-perkebunan-masuk-pasar-digital.jpg",
-  "imageV": "mve7be80",
-  "tags": [
-   "UMKM",
-   "perkebunan",
-   "BPDP",
-   "digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473742-dari-kebun-ke-pasar-digital-rahasia-umkm-perkebunan-tembus-omzet-maksimal"
- },
- {
-  "slug": "transaksi-tei-2026-tembus-us-22-94-miliar-lampaui-target",
-  "category": "Bisnis",
-  "title": "Transaksi TEI 2026 Tembus US$[22,94] Miliar, Lampaui Target",
-  "deck": "Pameran dagang tahunan ini mencatat potensi transaksi US$22,94 miliar dari 426 nota kesepahaman, melampaui target pemerintah sebesar US$17,5 miliar selama lima hari penyelenggaraan.",
-  "date": "18 Oktober 2026",
-  "image": "assets/img/transaksi-tei-2026-tembus-us-22-94-miliar-lampaui-target.jpg",
-  "imageV": "mvdyualn",
-  "tags": [
-   "TEI 2026",
-   "Kemendag",
-   "Ekspor",
-   "UMKM"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-resmi-tutup-tei-ke-41-potensi-transaksi-capai-usd-2294-miliar",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "isef-2026-ditutup-komitmen-syariah-capai-rp3-16-triliun",
-  "category": "Perbankan",
-  "title": "ISEF 2026 Ditutup, Komitmen Syariah Capai [Rp3,16] Triliun",
-  "deck": "Bank Indonesia menutup ISEF 2026 dengan mencatat komitmen pembiayaan dan perdagangan syariah senilai Rp3,16 triliun serta transaksi produk halal Rp13,85 miliar selama lima hari acara.",
-  "date": "18 Oktober 2026",
-  "image": "assets/img/brankas-bank.jpg",
-  "tags": [
-   "ISEF 2026",
-   "ekonomi syariah",
-   "Bank Indonesia",
-   "industri halal"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2822926.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "pege-direksi-asing-tambah-saham-hak-suara-ke-5-44",
-  "category": "Aksi Korporasi",
-  "title": "PEGE: Direksi Asing [Tambah] Saham, Hak Suara ke 5,44%",
-  "deck": "Direksi PT Panca Global Kapital Tbk (PEGE), Optimus Vision Global Pte Ltd, membeli 8,06 juta saham pada 16 Oktober 2026, menaikkan hak suaranya dari 5,23 persen menjadi 5,44 persen.",
-  "date": "18 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PEGE",
-   "kepemilikan saham",
-   "direksi",
-   "pembelian saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18102026-5591-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada",
-  "category": "Industri",
-  "title": "RI Andalkan Organisasi Dunia untuk [Ekspor] Kelapa dan Lada",
-  "deck": "Kemendag menyebut keanggotaan Indonesia di organisasi kelapa dan lada dunia membuka akses data pasar dan peluang hilirisasi bagi petani serta eksportir.",
-  "date": "18 Oktober 2026",
-  "image": "assets/img/ri-andalkan-organisasi-dunia-untuk-ekspor-kelapa-dan-lada.jpg",
-  "imageV": "mvdsc30x",
-  "tags": [
-   "ekspor kelapa",
-   "ekspor lada",
-   "ICC",
-   "IPC"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sinergi-dengan-organisasi-komoditas-global-kemendag-terus-perkuat-daya-saing-kelapa-dan-lada",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

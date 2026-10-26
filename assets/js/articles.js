@@ -3,6 +3,87 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-selidiki-kebun-sawit-yang-diduga-rangkap-usaha-tambang",
+  "category": "Energi",
+  "title": "ESDM [Selidiki] Kebun Sawit yang Diduga Rangkap Usaha Tambang",
+  "deck": "Kementerian ESDM akan memeriksa kebun kelapa sawit yang diduga ikut menjalankan usaha tambang tanpa izin tambahan, dengan sejumlah perusahaan asing disebut turut didalami.",
+  "image": "assets/img/esdm-selidiki-kebun-sawit-yang-diduga-rangkap-usaha-tambang.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-26T17:09:03.457Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/ditengarai-libatkan-perusahaan-asing-esdm-dalami-kebun-sawit-yang-jalankan-usaha-tambang",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Kelapa Sawit",
+   "Tambang Ilegal",
+   "Bahlil Lahadalia"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral (ESDM) akan memantau dan memeriksa kebun-kebun kelapa sawit yang diduga juga menjalankan usaha pertambangan di luar izin yang mereka pegang. Praktik ini ditengarai melibatkan sejumlah perusahaan asing, dan jadi perhatian karena setiap izin usaha semestinya hanya berlaku untuk kegiatan yang tercantum di dalamnya.",
+   "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga Menteri ESDM, Bahlil Lahadalia, mengatakan pihaknya sudah menggelar rapat bersama tim Penegakan Hukum (Gakkum) dan tim internal kementerian untuk menindaklanjuti dugaan tersebut. Ia menegaskan perusahaan yang hanya mengantongi izin usaha sawit tidak boleh merangkap kegiatan atau sumber pendapatan lain di luar izin itu.",
+   "Bahlil menyebut dirinya sudah menerima laporan dari tim Gakkum bahwa ada beberapa perusahaan yang sedang didalami karena berpotensi menjalankan kegiatan di luar izin yang dikeluarkan pemerintah. Pemeriksaan ini, menurut ESDM, ditujukan untuk memastikan kegiatan usaha di lapangan sesuai dengan izin yang dimiliki masing-masing perusahaan."
+  ],
+  "fotoAdegan": "Workers walking between rows of oil palm trees near a cleared dirt patch with heavy excavation equipment, overcast tropical daylight",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-ditengarai-libatkan-perusahaan-asing-esdm-dalami-kebun-sawit-yang-jalankan-usaha-tambang-koee88g.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini adalah ESDM mulai membuka proses pengawasan terhadap kebun sawit yang diduga ikut menjalankan usaha tambang tanpa izin tambahan, dengan melibatkan tim penegakan hukum internal kementerian. Pihak yang berpotensi terdampak adalah perusahaan sawit, termasuk beberapa yang disebut berstatus asing, yang kini sedang didalami karena dicurigai beroperasi di luar izin yang mereka pegang. Siaran pers ini belum menyebut nama perusahaan, jumlah pastinya, lokasi kebun, atau sanksi apa yang akan dijatuhkan kalau pelanggaran terbukti, jadi belum bisa dipastikan apakah langkahnya akan berujung pencabutan izin, denda, atau sekadar peringatan. Yang perlu ditunggu adalah hasil pendalaman tim Gakkum ESDM, termasuk apakah nama perusahaan itu akhirnya diumumkan dan tindakan konkret apa yang diambil terhadap mereka.",
+  "imageV": "mvpinxrd"
+ },
+ {
+  "slug": "ekspor-gas-pipa-dipotong-8-diprioritaskan-untuk-pln",
+  "category": "Energi",
+  "title": "Ekspor Gas Pipa Dipotong [8%], Diprioritaskan untuk PLN",
+  "deck": "Pemerintah memangkas ekspor gas pipa ke negara tetangga sekitar 8 persen untuk mengamankan pasokan PLN dan industri, masih dalam batas kontrak menurut Menteri ESDM.",
+  "image": "assets/img/ekspor-gas-pipa-dipotong-8-diprioritaskan-untuk-pln.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-26T17:09:02.428Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pangkas-ekspor-gas-8-persen-bahlil-tak-ada-kontrak-yang-dilanggar",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ekspor gas",
+   "ESDM",
+   "PLN",
+   "industri"
+  ],
+  "body": [
+   "Pemerintah memangkas sebagian ekspor gas pipa ke negara tetangga sekitar 8 persen untuk mengamankan pasokan bagi PLN dan industri dalam negeri. Menteri Energi dan Sumber Daya Mineral (ESDM) Bahlil Lahadalia menegaskan pemotongan itu masih di bawah ambang yang dianggap melanggar kontrak, yang baru berlaku kalau pemotongan mencapai 10 persen. Keterangan itu disampaikan dalam konferensi pers soal ketahanan energi nasional, Senin (26/10/2026).",
+   "Bahlil memaparkan total ekspor gas pipa Indonesia dari Laut Natuna dan Sumatera mencapai 409,55 MMBTUD, satuan yang menunjukkan volume gas yang dialirkan setiap hari, dan dari jumlah itu sekitar 31 MMBTUD atau sekitar 8 persen yang dipotong. Ia menyebut pemotongan dilakukan karena sejumlah sumur gas sedang menjalani pemeliharaan sehingga produksinya turun, dan pemerintah memilih memprioritaskan pasokan untuk PLN serta sektor industri.",
+   "Menteri Perindustrian Sarmuji, yang turut hadir dalam konferensi pers, menyebut gas sangat dibutuhkan industri petrokimia dan pupuk sebagai bahan baku, serta industri kaca, baja, dan keramik sebagai bahan bakar utama. Ia menyebut utilisasi sektor industri saat ini berada di kisaran 70 persen, dan tambahan pasokan gas diharapkan dapat mendorong angka itu naik ke 80 hingga 85 persen.",
+   "Selain gas pipa, Bahlil menyebut Indonesia juga mengekspor sekitar 146 kargo gas alam cair (LNG) dengan harga yang tetap mengikuti kontrak, yakni di bawah rata-rata US$20 per MMBTU, meski harga minyak mentah Indonesia (ICP) sedang naik. Ia menyatakan pemerintah tetap menghormati kontrak yang telah disepakati, namun berharap negara mitra juga menghargai hubungan kerja sama antarnegara, dan mengaitkan kebijakan prioritas pasokan dalam negeri ini dengan Pasal 33 UUD 1945 tentang penguasaan negara atas hal yang menyangkut hajat hidup orang banyak."
+  ],
+  "fotoAdegan": "Wide view of an offshore natural gas platform in open sea waters with a support vessel nearby, overcast daylight",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-pangkas-ekspor-gas-8-persen-bahlil-tak-ada-kontrak-yang-dilanggar-uf7bg7r.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang konkret berubah: pemerintah memangkas sekitar 31 dari total 409,55 unit volume gas yang biasa dialirkan lewat pipa ke negara tetangga setiap hari, setara sekitar 8 persen, dengan alasan sejumlah sumur sedang berhenti produksi untuk perawatan. Ambang yang dianggap melanggar kontrak adalah pemotongan 10 persen, sehingga pemerintah mengklaim masih ada sisa ruang sekitar 2 persen sebelum benar-benar menabrak batas itu. Pihak yang terdampak adalah negara tetangga pembeli gas pipa itu di satu sisi, dan di sisi lain PLN serta industri dalam negeri seperti petrokimia, pupuk, kaca, baja, dan keramik yang kebagian tambahan pasokan. Pernyataan Bahlil yang meminta negara lain ikut menghargai hubungan antarnegara mengindikasikan ada gesekan dengan pembeli yang keberatan atas pemotongan ini, jadi yang perlu dipantau selanjutnya adalah apakah pemotongan berikutnya mendekati atau menembus ambang 10 persen itu, yang akan mengubah status dari sesuai kontrak menjadi pelanggaran kontrak.",
+  "imageV": "mvpinzkn"
+ },
+ {
+  "slug": "program-mbg-serap-100-ribu-pekerja-di-bogor",
+  "category": "Ketenagakerjaan",
+  "title": "Program MBG Serap [100 Ribu] Pekerja di Bogor",
+  "deck": "KPPG Bogor mengklaim program Makan Bergizi Gratis membuka hampir 100 ribu lapangan kerja baru di tujuh wilayah penyangga, dari Cianjur hingga Purwakarta.",
+  "image": "assets/img/program-mbg-serap-100-ribu-pekerja-di-bogor.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T23:44:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475121-program-mbg-buka-lapangan-kerja-baru-100-ribu-pekerja-diserap-kppg-bogor",
+  "tags": [
+   "MBG",
+   "Ketenagakerjaan",
+   "Bogor",
+   "Dapur Gizi"
+  ],
+  "body": [
+   "Program Makan Bergizi Gratis (MBG) disebut turut membuka lapangan kerja baru bagi masyarakat, khususnya di wilayah operasional Kantor Pelayanan Pemenuhan Gizi (KPPG) Bogor. Kepala KPPG Bogor, Haidir, mengklaim hampir 100 ribu lapangan kerja baru tercipta dari keberadaan dapur-dapur MBG yang tersebar di kawasan tersebut. Angka ini menyangkut penghidupan warga di sejumlah daerah penyangga yang selama ini banyak bergantung pada sektor informal.",
+   "Haidir memaparkan dapur MBG yang menyerap tenaga kerja itu tersebar di tujuh wilayah kerja KPPG Bogor, yaitu Kabupaten Bogor, Kota Bogor, Cianjur, Kabupaten Sukabumi, Kota Sukabumi, Depok, dan Purwakarta. Para pekerja, yang ia sebut sebagai relawan dapur MBG, direkrut dari warga yang berdomisili di sekitar lokasi Satuan Pelayanan Pemenuhan Gizi (SPPG) masing-masing. Ia menyebut proses rekrutmen menerapkan standar seleksi tertentu, namun tetap mengutamakan warga setempat agar penyerapan tenaga kerja di daerah itu maksimal.",
+   "Menurut Haidir, terciptanya hampir 100 ribu lapangan kerja ini berpotensi menggerakkan roda ekonomi di tingkat desa dan kelurahan. Ia beralasan perputaran uang dari aktivitas dapur MBG akan meningkatkan daya beli masyarakat di wilayah tempat dapur itu beroperasi. Pernyataan ini disampaikan Haidir kepada awak media di Jakarta, Senin (26/10)."
+  ],
+  "fotoAdegan": "Volunteers in aprons packing trays of rice and vegetables inside a busy communal kitchen in a West Java town, early morning",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/26/6adf82db3ab0f-program-makan-bergizi-gratis-mbg-turut-berdampak-terhadap-terbuka-lapangan-kerja-baru-bagi-masyarakat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Klaim hampir 100 ribu lapangan kerja ini baru datang dari satu sumber, yaitu Kepala KPPG Bogor sendiri, dan belum ada angka pembanding dari lembaga lain seperti Badan Gizi Nasional atau BPS untuk memastikan hitungannya. Yang jelas terdampak adalah warga di tujuh wilayah penyangga Bogor, yakni Kabupaten Bogor, Kota Bogor, Cianjur, Kabupaten Sukabumi, Kota Sukabumi, Depok, dan Purwakarta, karena merekalah yang direkrut jadi relawan dapur MBG di domisili masing-masing. Berita ini tidak menyebut berapa upah atau honor yang diterima relawan, padahal itu menentukan apakah pekerjaan ini benar-benar mendongkrak daya beli warga desa atau hanya pendapatan tambahan kecil. Yang masih perlu dicek adalah rincian anggaran dan skema pembayaran relawan dapur MBG, serta apakah Badan Gizi Nasional akan merilis data serupa untuk wilayah lain di luar Bogor sebagai pembanding angka ini.",
+  "imageV": "mvpio01l"
+ },
+ {
   "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-tahap-vi-dan-us-25-juta",
   "category": "Aksi Korporasi",
   "title": "OPPM Tawarkan Obligasi [Rp3,33 Triliun] Tahap VI dan US$25 Juta",
@@ -131,6 +212,32 @@ var ARTICLES = [
   "fotoAdegan": "Technicians servicing a row of industrial generator sets in an outdoor equipment yard under cloudy daylight, tools in hand",
   "takeaway": "Laporan ini condong netral bagi BACH: perusahaan menambah utang bank sebesar Rp100 miliar untuk mendukung operasional, bukan sinyal ekspansi konkret maupun sinyal kesulitan, apalagi Perseroan sendiri menegaskan tidak ada dampak merugikan material. Yang tersentuh di sini adalah sisi utang dan beban bunga: dengan total fasilitas naik menjadi Rp350 miliar atau 57,1 persen dari ekuitas, kewajiban bunga tahunan Perseroan ikut membesar dan rasio utang terhadap modal sendiri menjadi lebih tinggi, dua hal yang biasa diperhatikan investor saat menakar seberapa berat beban keuangan sebuah perusahaan. Karena BACH dan anak usahanya BMI terikat tanggung renteng, kesehatan keuangan salah satu pihak kini ikut bergantung pada kemampuan bayar pihak lainnya. Yang perlu dipantau selanjutnya adalah bagaimana Perseroan memanfaatkan tambahan dana ini dan apakah mampu menjaga kewajiban pembayarannya sampai fasilitas ini jatuh tempo pada 29 Oktober 2027.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pegadaian-gelar-undian-badai-emas-2026-lewat-aplikasi-tring",
+  "category": "BUMN",
+  "title": "Pegadaian Gelar Undian [Badai Emas] 2026 Lewat Aplikasi Tring",
+  "deck": "PT Pegadaian meluncurkan program undian berhadiah saldo Tabungan Emas bagi nasabah yang bertransaksi lewat aplikasi Tring, berlangsung hingga akhir tahun.",
+  "image": "assets/img/pegadaian-gelar-undian-badai-emas-2026-lewat-aplikasi-tring.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T19:38:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475084-siap-siap-bawa-pulang-emas-pegadaian-tebar-hadiah-spesial-188-kg-lewat-badai-emas-2026",
+  "tags": [
+   "pegadaian",
+   "badai emas 2026",
+   "tabungan emas",
+   "tring"
+  ],
+  "body": [
+   "PT Pegadaian (Persero) kembali menggelar program undian tahunan bertajuk Badai Emas 2026, kali ini untuk Periode I yang berlangsung di 12 Kantor Wilayah dan 61 Area Pegadaian di seluruh Indonesia. Program ini berjalan sejak 25 Oktober hingga 31 Desember 2026, dengan seluruh hadiah berbentuk saldo Tabungan Emas yang diundi secara mingguan, bulanan, dan puncaknya lewat Grand Prize di akhir periode.",
+   "Untuk ikut undian, nasabah Pegadaian mengumpulkan poin dari transaksi produk perusahaan, lalu menukarnya jadi kupon undian lewat aplikasi Tring dengan rasio 10 poin sama dengan 1 kupon. Hadiah Grand Prize yang diperebutkan cukup besar, yakni 500 gram saldo Tabungan Emas untuk satu pemenang dari jalur Pegadaian reguler, dan 150 gram saldo Tabungan Emas Syariah untuk satu pemenang dari jalur Pegadaian Syariah.",
+   "Direktur Pemasaran, Penjualan dan Pengembangan Produk Pegadaian, Selfie Dewiyanti, menyebut program ini sebagai bentuk apresiasi sekaligus cara memperkuat loyalitas nasabah melalui ekosistem digital. Menurutnya, integrasi dengan aplikasi Tring diharapkan membuat nasabah makin terbiasa mengelola keuangan dan investasi emas secara digital, sambil berkesempatan membawa pulang total ratusan gram saldo Tabungan Emas."
+  ],
+  "fotoAdegan": "A teller at a pawnshop branch counter weighing small gold bars on a digital scale, customer waiting, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/26/6adf48ad1c8d4-badai-emas-pegadaian_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar hadiahnya, tapi jalur untuk mendapatkannya: poin transaksi kini wajib ditukar jadi kupon lewat aplikasi Tring dengan rasio 10 poin untuk 1 kupon, bukan lagi cukup datang ke gerai fisik. Yang terdampak langsung adalah nasabah aktif Pegadaian, baik jalur reguler maupun syariah, yang selama ini bertransaksi secara konvensional dan kini perlu beralih ke aplikasi kalau mau ikut undian. Pegadaian sendiri menyebut program ini sebagai agenda tahunan yang bertujuan 'mengakselerasi pemanfaatan aplikasi Tring', jadi arahnya terlihat jelas: hadiah emas dipakai sebagai pemancing agar transaksi nasabah berpindah ke kanal digital, bukan sekadar program apresiasi biasa. Yang akan menunjukkan apakah strategi ini berlanjut atau berhenti di sini adalah apakah Pegadaian mengumumkan Periode II dengan skema serupa setelah periode ini tutup pada 31 Desember 2026.",
+  "imageV": "mvpio0ox"
  },
  {
   "slug": "materi-public-expose-lapd-ungkap-ekuitas-negatif-rp2-65-m",

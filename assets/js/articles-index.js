@@ -5,6 +5,59 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-selidiki-kebun-sawit-yang-diduga-rangkap-usaha-tambang",
+  "category": "Energi",
+  "title": "ESDM [Selidiki] Kebun Sawit yang Diduga Rangkap Usaha Tambang",
+  "deck": "Kementerian ESDM akan memeriksa kebun kelapa sawit yang diduga ikut menjalankan usaha tambang tanpa izin tambahan, dengan sejumlah perusahaan asing disebut turut didalami.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/esdm-selidiki-kebun-sawit-yang-diduga-rangkap-usaha-tambang.jpg",
+  "imageV": "mvpinxrd",
+  "tags": [
+   "ESDM",
+   "Kelapa Sawit",
+   "Tambang Ilegal",
+   "Bahlil Lahadalia"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/ditengarai-libatkan-perusahaan-asing-esdm-dalami-kebun-sawit-yang-jalankan-usaha-tambang",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "ekspor-gas-pipa-dipotong-8-diprioritaskan-untuk-pln",
+  "category": "Energi",
+  "title": "Ekspor Gas Pipa Dipotong [8%], Diprioritaskan untuk PLN",
+  "deck": "Pemerintah memangkas ekspor gas pipa ke negara tetangga sekitar 8 persen untuk mengamankan pasokan PLN dan industri, masih dalam batas kontrak menurut Menteri ESDM.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/ekspor-gas-pipa-dipotong-8-diprioritaskan-untuk-pln.jpg",
+  "imageV": "mvpinzkn",
+  "tags": [
+   "ekspor gas",
+   "ESDM",
+   "PLN",
+   "industri"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pangkas-ekspor-gas-8-persen-bahlil-tak-ada-kontrak-yang-dilanggar",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "program-mbg-serap-100-ribu-pekerja-di-bogor",
+  "category": "Ketenagakerjaan",
+  "title": "Program MBG Serap [100 Ribu] Pekerja di Bogor",
+  "deck": "KPPG Bogor mengklaim program Makan Bergizi Gratis membuka hampir 100 ribu lapangan kerja baru di tujuh wilayah penyangga, dari Cianjur hingga Purwakarta.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/program-mbg-serap-100-ribu-pekerja-di-bogor.jpg",
+  "imageV": "mvpio01l",
+  "tags": [
+   "MBG",
+   "Ketenagakerjaan",
+   "Bogor",
+   "Dapur Gizi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475121-program-mbg-buka-lapangan-kerja-baru-100-ribu-pekerja-diserap-kppg-bogor"
+ },
+ {
   "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-tahap-vi-dan-us-25-juta",
   "category": "Aksi Korporasi",
   "title": "OPPM Tawarkan Obligasi [Rp3,33 Triliun] Tahap VI dan US$25 Juta",
@@ -83,6 +136,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2307db6b75_30dd2e7fe4.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pegadaian-gelar-undian-badai-emas-2026-lewat-aplikasi-tring",
+  "category": "BUMN",
+  "title": "Pegadaian Gelar Undian [Badai Emas] 2026 Lewat Aplikasi Tring",
+  "deck": "PT Pegadaian meluncurkan program undian berhadiah saldo Tabungan Emas bagi nasabah yang bertransaksi lewat aplikasi Tring, berlangsung hingga akhir tahun.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/pegadaian-gelar-undian-badai-emas-2026-lewat-aplikasi-tring.jpg",
+  "imageV": "mvpio0ox",
+  "tags": [
+   "pegadaian",
+   "badai emas 2026",
+   "tabungan emas",
+   "tring"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475084-siap-siap-bawa-pulang-emas-pegadaian-tebar-hadiah-spesial-188-kg-lewat-badai-emas-2026"
  },
  {
   "slug": "materi-public-expose-lapd-ungkap-ekuitas-negatif-rp2-65-m",
@@ -6374,69 +6444,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/lidah-buaya-dari-gunungkidul-ubah-keterbatasan-karst-jadi-potensi-ekspor-bernilai-tinggi",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "rups-hrta-setujui-private-placement-hingga-10-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "RUPS HRTA Setujui [Private Placement] hingga 10% Saham Baru",
-  "deck": "Pemegang saham independen HRTA menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu hingga 460,5 juta saham, disetujui 98,18 persen suara yang hadir.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRTA",
-   "RUPS",
-   "private placement",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/796d973bf8_5f5b940fe4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bdmn-sewakan-tanah-bangunan-ke-adira-afiliasi-rp617-76-juta",
-  "category": "Aksi Korporasi",
-  "title": "BDMN sewakan tanah-bangunan ke Adira [afiliasi] Rp617,76 juta",
-  "deck": "Danamon menyewakan aset tanah dan bangunan ke anak usahanya, Adira Finance, senilai Rp617,76 juta per tahun dalam transaksi afiliasi.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BDMN",
-   "Adira Finance",
-   "transaksi afiliasi",
-   "Bank Danamon"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a0cc4f4a17_6fe08bef2d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pada-jawab-bursa-rugi-rp9-95-m-kas-operasi-negatif-rp64-45-m",
-  "category": "Aksi Korporasi",
-  "title": "PADA Jawab Bursa: Rugi Rp9,95 M, Kas Operasi [Negatif] Rp64,45 M",
-  "deck": "Menjawab permintaan penjelasan BEI, PADA mengungkap arus kas operasi yang memburuk serta ketergantungan besar pendapatan jasa kurir pada satu pelanggan dengan margin tipis 2,5 persen.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PADA",
-   "arus kas operasi",
-   "jasa kurir",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/555fa103ef_423df4cf8d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-waran-scma-disesuaikan-usai-dividen-rp8-4-saham",
-  "category": "Aksi Korporasi",
-  "title": "DR: Waran SCMA Disesuaikan Usai [Dividen] Rp8,4/Saham",
-  "deck": "RHB Sekuritas Indonesia menyesuaikan rasio dan harga pelaksanaan waran terstruktur SCMA menyusul rencana dividen tunai SCMA Rp8,4 per saham senilai total Rp533,4 miliar.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "SCMA",
-   "dividen",
-   "waran terstruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb38ccc21e_2c80f95544.pdf",
-  "sourceLabel": "IDX"
  }
 ];

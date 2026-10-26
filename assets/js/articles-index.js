@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-tahap-vi-dan-us-25-juta",
+  "category": "Aksi Korporasi",
+  "title": "OPPM Tawarkan Obligasi [Rp3,33 Triliun] Tahap VI dan US$25 Juta",
+  "deck": "OPPM membuka masa penawaran obligasi rupiah hingga Rp3,33 triliun dan obligasi dolar AS hingga US$25 juta, tahap keenam dan kelima dari program obligasi berkelanjutan senilai Rp12 triliun.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OPPM",
+   "obligasi",
+   "pulp dan kertas",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c429a4ba3b_3fb9f87e66.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mmix-mengky-mangarek-tambah-saham-ke-6-02",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: Mengky Mangarek [Tambah] Saham ke 6,02%",
+  "deck": "Pemegang saham MMIX, Mengky Mangarek, menambah kepemilikan 1 juta lembar saham pada 23 Oktober 2026, menaikkan porsinya dari 6,00 persen menjadi 6,02 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MMIX",
+   "kepemilikan saham",
+   "insider",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f48cf3c465_591c460512.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "andi-pjs-jadi-pengendali-baru-lewat-akuisisi-33-saham-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: PJS Jadi Pengendali Baru Lewat Akuisisi 33% Saham [pengendali]",
+  "deck": "PT Puncak Jaya Sejahtera membeli total 33% saham Andira Agro senilai Rp92,57 miliar dari dua pemegang saham lama, menjadikannya pengendali baru perusahaan perkebunan ini.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANDI",
+   "Andira Agro",
+   "pengambilalihan",
+   "pemegang saham pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b36a8387c6_a0c4112f0c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "swid-tarik-pinjaman-rp70-miliar-dari-bank-raya-untuk-hotel-alana",
+  "category": "Aksi Korporasi",
+  "title": "SWID Tarik [Pinjaman] Rp70 Miliar dari Bank Raya untuk Hotel Alana",
+  "deck": "Saraswanti Indoland (SWID) menarik pinjaman Rp70 miliar dari PT Bank Raya Indonesia untuk membiayai operasional Hotel The Royal Alana Yogyakarta, setara 25,43 persen dari ekuitas perseroan.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SWID",
+   "pinjaman bank",
+   "properti",
+   "perhotelan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e76cce9115_376a0315c8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bach-naikkan-fasilitas-pinjaman-ke-rp350-miliar-dari-smbc",
   "category": "Aksi Korporasi",
   "title": "BACH Naikkan Fasilitas Pinjaman ke [Rp350 Miliar] dari SMBC",
@@ -260,6 +324,118 @@ var ARTICLES = [
    "kredit perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24d24b287a_aabaa37f8c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mapa-liabilitas-naik-65-usai-akuisisi-sports-direct",
+  "category": "Aksi Korporasi",
+  "title": "MAPA: Liabilitas Naik 65% Usai Akuisisi [Sports Direct]",
+  "deck": "Total aset MAPA naik 35% dan liabilitas naik 65% dibanding akhir 2025, terutama akibat akuisisi Sports Direct Malaysia dan utang baru yang menyertainya.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAPA",
+   "akuisisi",
+   "laporan keuangan",
+   "utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026182358-64619-0/FinancialStatement-2026-III-MAPA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "blog-laba-naik-10-9-utang-bank-melonjak-20-5",
+  "category": "Aksi Korporasi",
+  "title": "BLOG: Laba Naik 10,9%, [Utang] Bank Melonjak 20,5%",
+  "deck": "Pendapatan dan laba Trimitra Trans Persada naik dua digit pada sembilan bulan 2026, tapi utang bank jangka panjang melonjak lebih dari 20 persen dan kas perusahaan susut hampir separuh.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLOG",
+   "laporan keuangan",
+   "utang",
+   "logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026182147-64776-0/FinancialStatement-2026-III-BLOG.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toba-pastikan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Pastikan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "TBS Energi Utama menjawab permintaan BEI terkait volatilitas transaksi sahamnya, menegaskan tak ada fakta material baru selain RUPSLB 27 November dan RUPO 19 November 2026.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "volatilitas saham",
+   "RUPSLB",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cee820a1a1_874e9dda72.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mapb-catat-rugi-bersih-rp157-5-miliar-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "MAPB Catat [Rugi] Bersih Rp157,5 Miliar per September 2026",
+  "deck": "Rugi bersih MAP Boga Adiperkasa melebar 45 persen jadi Rp157,5 miliar pada sembilan bulan 2026, terutama karena manfaat pajak yang jauh mengecil dari tahun sebelumnya.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAPB",
+   "laporan keuangan",
+   "rugi bersih",
+   "consumer"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026112152-64641-0/FinancialStatement-2026-III-MAPB.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pjhb-w-bei-ingatkan-jadwal-delisting-waran-per-5-november",
+  "category": "Aksi Korporasi",
+  "title": "PJHB-W: BEI Ingatkan Jadwal [Delisting] Waran per 5 November",
+  "deck": "BEI mengingatkan pemegang waran PJHB-W bahwa perdagangan berakhir awal November 2026 dan efek ini dihapus dari pencatatan pada 5 November 2026.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PJHB",
+   "PJHB-W",
+   "waran",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan PJHB-W261104-No. Peng-00203BEI.POP10-2026.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untr-laba-bersih-turun-61-jadi-rp4-47-triliun-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "UNTR: Laba Bersih [Turun] 61% Jadi Rp4,47 Triliun di 9M 2026",
+  "deck": "Pendapatan turun 10% dan laba bersih turun 61% pada sembilan bulan 2026, sementara UNTR berpindah dari posisi kas bersih ke utang bersih akibat akuisisi tambang emas dan pembelian kembali saham.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "laporan keuangan",
+   "laba bersih",
+   "United Tractors"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026180824-64722-0/FinancialStatement-2026-III-UNTR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smar-gelar-rupslb-17-november-rombak-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Gelar RUPSLB 17 November, Rombak [Komisaris]",
+  "deck": "SMAR memanggil RUPSLB pada 17 November 2026 untuk menyesuaikan anggaran dasar dan mengubah susunan Dewan Komisaris.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMAR",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/52aa499e5b_112a28d43d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6261,182 +6437,6 @@ var ARTICLES = [
    "waran terstruktur"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cb38ccc21e_2c80f95544.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-batalkan-public-expose-imbas-penundaan-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Batalkan Public Expose Imbas Penundaan [RUPSLB]",
-  "deck": "LAPD membatalkan paparan publik tahunan yang dijadwalkan 20 Oktober 2026, menyusul penundaan RUPSLB ke 29 Oktober dan klarifikasi OJK soal rencana rights issue serta transaksi akuisisi.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "public expose",
-   "RUPSLB",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0e07794fe6_69f5c3c31f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppre-bubarkan-anak-usaha-pt-presisi-sumber-anugerah",
-  "category": "Aksi Korporasi",
-  "title": "PPRE [Bubarkan] Anak Usaha PT Presisi Sumber Anugerah",
-  "deck": "PP Presisi melikuidasi anak usaha tak langsung PSA yang 51% sahamnya ia pegang, karena perusahaan itu belum pernah aktif beroperasi.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRE",
-   "likuidasi",
-   "anak usaha",
-   "korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/282a33aed2_6b00dc699a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beef-pemegang-saham-tambah-saham-hak-suara-ke-8-21",
-  "category": "Aksi Korporasi",
-  "title": "BEEF: Pemegang Saham Tambah Saham, Hak Suara ke [8,21%]",
-  "deck": "Dimas Wibowo membeli 19,16 juta saham BEEF pada 18 Agustus 2026, mendorong hak suaranya di Estika Tata Tiara naik dari 7,98% menjadi 8,21%.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEEF",
-   "kepemilikan saham",
-   "Estika Tata Tiara",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-2855-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sdra-ganti-satu-anggota-komite-audit",
-  "category": "Aksi Korporasi",
-  "title": "SDRA Ganti Satu Anggota [Komite Audit]",
-  "deck": "Bank Woori Saudara Indonesia (SDRA) mengganti satu anggota komite audit efektif 16 Oktober 2026, sementara ketua dan anggota lainnya tetap.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SDRA",
-   "komite audit",
-   "Bank Woori Saudara",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/04f9f47d70_aeb47b9fc4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pssi-alihkan-40-juta-saham-buyback-ke-pt-nusa-damai-rp14-7-m",
-  "category": "Aksi Korporasi",
-  "title": "PSSI [Alihkan] 40 Juta Saham Buyback ke PT Nusa Damai, Rp14,7 M",
-  "deck": "PSSI mengalihkan 40 juta saham hasil buyback ke PT Nusa Damai pada 15 Oktober 2026 seharga Rp368 per saham, meraih dana Rp14,72 miliar tanpa rugi.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "buyback saham",
-   "saham treasuri",
-   "pengalihan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/846b7769a3_fe0e60038f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-jpfa-semester-i-2026-melonjak-97-ke-rp2-68-triliun",
-  "category": "Aksi Korporasi",
-  "title": "Laba JPFA Semester I/2026 [Melonjak] 97% ke Rp2,68 Triliun",
-  "deck": "Laba JAPFA Comfeed naik hampir dua kali lipat jadi Rp2,68 triliun pada semester I 2026, meski utang berbunga dan rasio utang terhadap ekuitas juga meningkat.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JPFA",
-   "JAPFA Comfeed",
-   "kinerja keuangan",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/973cd85c49_5e6b9e8aaa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-revisi-batas-harga-buyback-saham-hapus-batas-bawah",
-  "category": "Aksi Korporasi",
-  "title": "TPIA Revisi Batas Harga [Buyback] Saham, Hapus Batas Bawah",
-  "deck": "Chandra Asri mengoreksi lagi aturan harga buyback saham, kini hanya mematok batas atas Rp3.000 per lembar tanpa batas bawah, sementara dana maksimal Rp1 triliun dan target 800 juta saham tetap sama.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "Chandra Asri",
-   "buyback saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/395415ea36_1bc1f1c3cb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pssi-rencanakan-pengalihan-85-juta-saham-treasuri",
-  "category": "Aksi Korporasi",
-  "title": "PSSI Rencanakan Pengalihan 85 Juta Saham [Treasuri]",
-  "deck": "PSSI akan mengalihkan hingga 85 juta saham treasuri dari hasil buyback Tahap III yang dibeli seharga rata-rata Rp347 per saham.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "saham treasuri",
-   "buyback saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fb8281f46d_94d18efee3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jsmr-gelar-rupslb-25-november-atas-permintaan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "JSMR Gelar RUPSLB 25 November Atas Permintaan [Komisaris]",
-  "deck": "Jasa Marga mengoreksi pengumuman RUPSLB yang digelar 25 November 2026 setelah permintaan Dewan Komisaris, agenda rapat belum diungkap.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JSMR",
-   "RUPSLB",
-   "Jasa Marga",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/85478bf3a3_1296d53730.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-sesuaikan-waran-scma-usai-dividen-rp8-4-saham",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan Waran [SCMA] usai Dividen Rp8,4/Saham",
-  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur SCMAZPCJ7A menyusul dividen interim SCMA Rp8,4 per saham.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "SCMA",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/060622a3c4_10573013b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "elsa-komisaris-independen-ajukan-mundur-tunggu-restu-rups",
-  "category": "Aksi Korporasi",
-  "title": "ELSA: Komisaris Independen Ajukan [Mundur], Tunggu Restu RUPS",
-  "deck": "Komisaris Independen Elnusa, Abdul Hakim, mengajukan pengunduran diri pada 15 Oktober 2026 dan baru efektif setelah disetujui RUPS mendatang.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ELSA",
-   "Elnusa Tbk",
-   "komisaris independen",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/faee3c2171_e0bc335ee5.pdf",
   "sourceLabel": "IDX"
  }
 ];

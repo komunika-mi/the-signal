@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-tahap-vi-dan-us-25-juta",
+  "category": "Aksi Korporasi",
+  "title": "OPPM Tawarkan Obligasi [Rp3,33 Triliun] Tahap VI dan US$25 Juta",
+  "deck": "OPPM membuka masa penawaran obligasi rupiah hingga Rp3,33 triliun dan obligasi dolar AS hingga US$25 juta, tahap keenam dan kelima dari program obligasi berkelanjutan senilai Rp12 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T21:41:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c429a4ba3b_3fb9f87e66.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OPPM",
+  "tags": [
+   "OPPM",
+   "obligasi",
+   "pulp dan kertas",
+   "pasar modal"
+  ],
+  "body": [
+   "PT OKI Pulp & Paper Mills (OPPM) menyampaikan informasi tambahan untuk Obligasi Berkelanjutan II Tahap VI Tahun 2026 dan Obligasi USD Berkelanjutan II Tahap V Tahun 2026, bagian dari program obligasi berkelanjutan yang sudah efektif sejak 19 Maret 2025 dengan target total Rp12 triliun untuk obligasi rupiah dan US$100 juta untuk obligasi dolar AS. Pada tahap ini, perseroan akan menerbitkan obligasi rupiah sebanyak-banyaknya Rp3.329.455.000.000 dan obligasi dolar AS sebanyak-banyaknya US$25.000.000.",
+   "Dari obligasi rupiah, Rp1,09 triliun dijamin penuh oleh penjamin emisi dan terbagi dua seri: Seri A senilai Rp970,3 miliar dengan bunga tetap 10 persen per tahun selama tiga tahun, dan Seri B senilai Rp117,39 miliar dengan bunga 10,5 persen per tahun selama lima tahun. Sisanya, Rp2,24 triliun, hanya dijamin dengan kesanggupan terbaik, artinya jika porsi ini tidak terjual seluruhnya, OPPM tidak wajib menerbitkannya. Bunga dibayar setiap tiga bulan, mulai 12 Februari 2027 hingga jatuh tempo pada 12 November 2029 untuk Seri A dan 12 November 2031 untuk Seri B. Pola serupa berlaku untuk obligasi dolar AS: US$2,49 juta dijamin penuh, terbagi Seri A US$1,47 juta berbunga 6,75 persen dan Seri B US$1,02 juta berbunga 7,25 persen, sementara sisa US$22,5 juta memakai skema kesanggupan terbaik.",
+   "Obligasi ini tidak dijamin dengan aset khusus milik perseroan, melainkan mengandalkan seluruh kekayaan OPPM secara pari passu dengan kreditur lain yang tidak memegang jaminan khusus. Lembaga pemeringkat memberi peringkat idA+ dari Pefindo dan irAA- dari PT Kredit Rating Indonesia, dengan PT Bank KB Indonesia Tbk bertindak sebagai wali amanat. Dengan tahap VI ini, total obligasi rupiah yang diterbitkan sejak 2025 genap mencapai Rp12 triliun, memenuhi seluruh target program, sementara total obligasi dolar AS mencapai sekitar US$74,2 juta dari target US$100 juta.",
+   "Masa penawaran umum berlangsung 6 sampai 9 November 2026, dengan tanggal penjatahan 10 November 2026, pengembalian uang pemesanan dan distribusi elektronik pada 12 November 2026, serta pencatatan di Bursa Efek Indonesia pada 13 November 2026. Penjamin pelaksana emisi untuk obligasi rupiah terdiri dari sepuluh sekuritas, antara lain Mandiri Sekuritas, BCA Sekuritas, BNI Sekuritas, dan Trimegah Sekuritas, sementara penjamin obligasi dolar AS melibatkan delapan sekuritas dari daftar yang sama."
+  ],
+  "fotoAdegan": "Stacks of raw wood pulp bales at an industrial paper mill yard, forklift moving between piles, overcast daylight",
+  "takeaway": "Laporan ini netral bagi fundamental OPPM, karena ini hanya realisasi tahap terakhir dari program obligasi yang sudah direncanakan dan disetujui sejak 2025, bukan perubahan rencana atau risiko baru yang mendadak muncul. Yang tersentuh adalah beban bunga dan arus kas perusahaan, sebab setiap tiga bulan OPPM wajib membayar bunga dari seluruh obligasi yang beredar sehingga kewajiban kas rutinnya bertambah seiring utang baru ini, sementara ekuitas tidak langsung berubah karena ini penerbitan utang, bukan saham. Porsi besar, Rp2,24 triliun dari obligasi rupiah dan US$22,5 juta dari obligasi dolar, hanya dijamin kesanggupan terbaik, sehingga ada kemungkinan dana yang terkumpul lebih kecil dari target maksimal jika peminat terbatas. Yang perlu dipantau berikutnya adalah tanggal penjatahan pada 10 November 2026 dan pencatatan di Bursa Efek Indonesia pada 13 November 2026, karena dari situ akan terlihat apakah seluruh obligasi terjual sesuai target atau porsi best effort banyak yang tidak terserap.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mmix-mengky-mangarek-tambah-saham-ke-6-02",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: Mengky Mangarek [Tambah] Saham ke 6,02%",
+  "deck": "Pemegang saham MMIX, Mengky Mangarek, menambah kepemilikan 1 juta lembar saham pada 23 Oktober 2026, menaikkan porsinya dari 6,00 persen menjadi 6,02 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T20:59:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f48cf3c465_591c460512.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MMIX",
+  "tags": [
+   "MMIX",
+   "kepemilikan saham",
+   "insider",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Multi Medika Internasional Tbk (MMIX) melaporkan perubahan struktur kepemilikan saham atas nama Mengky Mangarek, yang dalam surat keterbukaan ini tercantum menandatangani sebagai Direktur Utama Perseroan, kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia. Berdasarkan laporan bertanggal 26 Oktober 2026, Mengky Mangarek menambah kepemilikannya sebanyak 10.000 lot atau 1.000.000 lembar saham pada Jumat, 23 Oktober 2026. Dengan penambahan itu, jumlah sahamnya naik dari 288.000.000 lembar, setara 6,00 persen dari total modal ditempatkan dan disetor penuh perusahaan, menjadi 289.000.000 lembar atau 2.890.000 lot, setara 6,02 persen.",
+   "Perseroan menyatakan pelaporan ini dilakukan untuk memenuhi kewajiban keterbukaan informasi sesuai Undang-Undang Pasar Modal, Peraturan OJK Nomor 4/POJK.04/2024 tentang kewajiban melaporkan setiap perubahan kepemilikan saham, serta Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan atas informasi atau fakta material. Manajemen menegaskan transaksi ini bersifat administratif dan struktural pada tingkat kepemilikan individu pemegang saham, serta tidak membawa dampak negatif terhadap kegiatan operasional, posisi keuangan, maupun kelangsungan usaha perusahaan. Laporan ditandatangani Direktur Keuangan Eveline N. Susanto dan disampaikan ke OJK serta BEI pada 26 Oktober 2026 pukul 20.59 WIB."
+  ],
+  "fotoAdegan": "Warehouse staff arranging boxes of medical and laboratory equipment on tall metal shelving under warm fluorescent light",
+  "takeaway": "Laporan ini netral bagi MMIX, karena penambahan kepemilikan sebesar 10.000 lot hanya menggeser porsi saham Mengky Mangarek dari 6,00 persen menjadi 6,02 persen, selisih yang terlalu kecil untuk dibaca sebagai sinyal keyakinan besar meski arahnya pembelian, bukan pelepasan saham. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham utama, bukan laba atau arus kas perusahaan, sehingga pengaruhnya terhadap kendali MMIX nyaris tidak berubah. Pasar biasanya mencermati pola pembelian oleh direksi dari waktu ke waktu, bukan transaksi tunggal, karena akumulasi bertahap yang konsisten baru punya makna sebagai sinyal keyakinan. Yang perlu dipantau berikutnya adalah apakah Mengky Mangarek kembali menambah kepemilikannya dalam laporan-laporan serupa ke depan, karena setiap perubahan kepemilikan insider di MMIX wajib dilaporkan ulang ke OJK dan BEI sesuai POJK Nomor 4/2024.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "andi-pjs-jadi-pengendali-baru-lewat-akuisisi-33-saham-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: PJS Jadi Pengendali Baru Lewat Akuisisi 33% Saham [pengendali]",
+  "deck": "PT Puncak Jaya Sejahtera membeli total 33% saham Andira Agro senilai Rp92,57 miliar dari dua pemegang saham lama, menjadikannya pengendali baru perusahaan perkebunan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T20:48:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b36a8387c6_a0c4112f0c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANDI",
+  "tags": [
+   "ANDI",
+   "Andira Agro",
+   "pengambilalihan",
+   "pemegang saham pengendali"
+  ],
+  "body": [
+   "PT Andira Agro Tbk (ANDI) melaporkan perubahan pemegang saham pengendali setelah PT Puncak Jaya Sejahtera (PJS) merampungkan pembelian saham dari dua pemegang saham lama pada 26 Oktober 2026. PJS membeli 699.970.000 saham milik PT Anugerah Perkasa Semesta (APS), setara 7,48 persen modal disetor perusahaan, serta 2.385.530.000 saham milik PT Central Energi Pratama (CEP), setara 25,52 persen. Harga pembelian ditetapkan Rp30 per saham, sehingga nilai total transaksi mencapai Rp92.565.000.000 atau sekitar Rp92,57 miliar.",
+   "Dengan rampungnya transaksi tersebut, kepemilikan langsung PJS di Andira Agro naik menjadi 33 persen dari seluruh saham yang diterbitkan perusahaan, menjadikan PJS sebagai pengendali baru menggantikan susunan pemegang saham pengendali sebelumnya. Perseroan menyebut perubahan ini mengikuti ketentuan Peraturan OJK No. 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka, dan akan menyesuaikan dokumen internal terkait struktur pemegang saham serta pengendalian perusahaan.",
+   "Manajemen menegaskan transaksi ini bukan transaksi material sebagaimana diatur POJK No. 17/POJK.04/2020, dan bukan pula transaksi afiliasi menurut POJK No. 42/POJK.04/2020, karena pembeli dan penjual tidak memiliki hubungan terafiliasi. Laporan ditandatangani Direktur Utama Andira Agro, Francis Indarto, yang menyatakan perubahan pengendalian ini tidak membawa dampak negatif terhadap kegiatan operasional, hukum, maupun kondisi keuangan perusahaan."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested palm oil fruit bunches onto a truck in a tropical plantation at dawn",
+  "takeaway": "Perubahan pengendali ini bersifat netral bagi fundamental Andira Agro, sebab yang terjadi hanya pemindahan tangan saham lama milik APS dan CEP ke PJS, bukan penyuntikan dana segar ke kas perusahaan atau penerbitan saham baru. Yang tersentuh di sini adalah struktur hak suara dan siapa yang akan menentukan arah RUPS serta susunan direksi atau komisaris ke depan, bukan ekuitas, arus kas, maupun laba per saham, karena jumlah saham yang beredar tidak berubah sama sekali. Yang perlu dipantau selanjutnya adalah apakah PJS, sebagai pengendali baru dengan 33 persen saham, akan melakukan penawaran tender wajib kepada pemegang saham publik lainnya seperti biasanya dipersyaratkan dalam aturan pengambilalihan perusahaan terbuka, serta kapan penyesuaian dokumen internal dan kemungkinan perombakan direksi atau komisaris akan diumumkan perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "swid-tarik-pinjaman-rp70-miliar-dari-bank-raya-untuk-hotel-alana",
+  "category": "Aksi Korporasi",
+  "title": "SWID Tarik [Pinjaman] Rp70 Miliar dari Bank Raya untuk Hotel Alana",
+  "deck": "Saraswanti Indoland (SWID) menarik pinjaman Rp70 miliar dari PT Bank Raya Indonesia untuk membiayai operasional Hotel The Royal Alana Yogyakarta, setara 25,43 persen dari ekuitas perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T20:42:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e76cce9115_376a0315c8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SWID",
+  "tags": [
+   "SWID",
+   "pinjaman bank",
+   "properti",
+   "perhotelan"
+  ],
+  "body": [
+   "PT Saraswanti Indoland Development Tbk (SWID) mengumumkan transaksi material berupa pinjaman bank senilai Rp70 miliar dari PT Bank Raya Indonesia Tbk, yang ditandatangani pada 22 Oktober 2026. Bunga pinjaman ditetapkan 7,16 persen per tahun dengan jangka waktu 12 bulan sejak penandatanganan perjanjian kredit. Nilai transaksi ini setara 25,43 persen dari ekuitas Perseroan per posisi 31 Desember 2025, sehingga masuk kategori transaksi material yang wajib diumumkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, meski tidak memerlukan persetujuan RUPS karena tergolong pinjaman langsung dari bank yang dikecualikan dari kewajiban memakai jasa penilai independen.",
+   "Dana pinjaman ini dipakai untuk membiayai kegiatan operasional The Royal Alana Yogyakarta Hotel & Convention Center, hotel bintang lima milik Perseroan, dengan tujuan mengoptimalkan operasional dan mengembangkan potensi pendapatannya. Manajemen menyebut langkah ini diharapkan meningkatkan kontribusi pendapatan berulang serta memperkuat kinerja Perseroan secara keseluruhan.",
+   "Sebagai jaminan, Perseroan memakai rekening tabungan digital atas nama Noegroho Hari Hardono senilai Rp70 miliar, yang akan diblokir dan digadaikan selama jangka waktu kredit atau sampai pinjaman lunas. Nilai jaminan ini sama persis dengan nilai plafon pinjamannya. Dalam perjanjian, Perseroan juga dilarang menjadi penjamin bagi pihak lain atau melunasi utang lain sebelum utang ke Bank Raya Indonesia dilunasi, dan bank dapat meminta pelunasan sekaligus bila Perseroan gagal memenuhi syarat kredit. Direksi dan Dewan Komisaris SWID menyatakan transaksi ini bukan transaksi afiliasi dan tidak mengandung benturan kepentingan."
+  ],
+  "fotoAdegan": "Exterior driveway of an upscale hotel with manicured tropical landscaping and parked cars, soft late afternoon light, no signage visible",
+  "takeaway": "Transaksi ini kami nilai netral bagi SWID. Ini pinjaman bank biasa dengan jaminan tunai yang nilainya sama persis dengan plafon kredit, sehingga risikonya bagi bank sangat kecil, tapi bagi Perseroan tambahan utang Rp70 miliar ini setara 25,43 persen dari ekuitas, porsi yang cukup besar untuk ukuran transaksi material. Pos yang tersentuh adalah beban bunga dan arus kas: bunga 7,16 persen per tahun itu wajib dibayar setiap bulan dan mengurangi kas yang bisa dipakai untuk keperluan lain, sementara di sisi lain dana ini dipakai membiayai operasional hotel yang diharapkan menambah pendapatan berulang Perseroan. Yang perlu dipantau berikutnya adalah jatuh tempo kredit, yaitu 12 bulan sejak penandatanganan pada 22 Oktober 2026, yang berarti sekitar Oktober 2027 Perseroan harus melunasi pokok pinjamannya, serta apakah pendapatan hotel benar naik cukup untuk menutupi beban bunga baru ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bach-naikkan-fasilitas-pinjaman-ke-rp350-miliar-dari-smbc",
   "category": "Aksi Korporasi",
   "title": "BACH Naikkan Fasilitas Pinjaman ke [Rp350 Miliar] dari SMBC",
@@ -421,6 +525,187 @@ var ARTICLES = [
   "fotoAdegan": "Loaded coal haul trucks queued near a mine stockpile under an overcast sky, heavy machinery in the distance",
   "takeaway": "Laporan ini condong negatif bagi Bank Mandiri, karena Bursa kembali bertanya setelah jawaban pertama dianggap belum cukup, tanda masih ada celah informasi soal eksposur kredit besar ke kelompok usaha yang namanya sudah disorot terkait dugaan keterkaitan dengan transaksi saham Bayan Resources. Yang tersentuh di sini adalah kualitas kredit bank, bukan laba atau arus kas langsung: kalau agunan berupa saham JARR dan PGUN ternyata dinilai terlalu tinggi atau terlalu terkonsentrasi di satu pemilik sehingga sulit dijual saat dibutuhkan, cadangan kerugian kredit yang harus disisihkan bank bisa membesar. Rasio kecukupan agunan yang ditanyakan Bursa, sederhananya, mengukur apakah nilai barang jaminan itu cukup untuk menutup utang jika debitur gagal bayar. Yang perlu dipantau selanjutnya adalah apakah Bursa menerima jawaban Bank Mandiri pada 26 Oktober 2026 ini sebagai penjelasan final, atau justru mengirim permintaan susulan lagi seperti yang sudah terjadi dua kali.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "mapa-liabilitas-naik-65-usai-akuisisi-sports-direct",
+  "category": "Aksi Korporasi",
+  "title": "MAPA: Liabilitas Naik 65% Usai Akuisisi [Sports Direct]",
+  "deck": "Total aset MAPA naik 35% dan liabilitas naik 65% dibanding akhir 2025, terutama akibat akuisisi Sports Direct Malaysia dan utang baru yang menyertainya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:12:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026182358-64619-0/FinancialStatement-2026-III-MAPA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAPA",
+  "tags": [
+   "MAPA",
+   "akuisisi",
+   "laporan keuangan",
+   "utang"
+  ],
+  "body": [
+   "PT Map Aktif Adiperkasa Tbk (MAPA) mengirim surat penjelasan kepada Bursa Efek Indonesia pada 26 Oktober 2026, menyusul kenaikan total aset dan total liabilitas perusahaan yang melebihi 20 persen dibanding laporan keuangan tahunan auditan terakhir, sesuai aturan keterbukaan informasi BEI. Surat yang ditandatangani Corporate Secretary Ardhiantie Sadina itu menyebut total aset per 30 September 2026 mencapai Rp19,07 triliun, naik 35 persen atau Rp4,89 triliun dibanding Rp14,18 triliun pada akhir 2025. Total liabilitas naik lebih tajam, 65 persen atau Rp3,48 triliun, dari Rp5,34 triliun menjadi Rp8,82 triliun.",
+   "Manajemen menjelaskan kenaikan aset itu terutama berasal dari akuisisi Sports Direct Malaysia Sdn Bhd pada Juli 2026, yang mendorong pos goodwill dan aset takberwujud lain melonjak Rp1,82 triliun, dari Rp91,6 miliar menjadi Rp1,91 triliun. Persediaan barang juga naik Rp1,61 triliun untuk menunjang operasional, termasuk dampak dari akuisisi tersebut. Aset tetap bertambah Rp609 miliar dan aset hak guna, yakni nilai sewa toko yang dicatat sebagai aset, bertambah Rp486,5 miliar, sejalan dengan pembukaan gerai-gerai baru termasuk gerai hasil akuisisi Sports Direct Malaysia.",
+   "Di sisi liabilitas, MAPA mencatat utang pembelian saham baru senilai Rp1,91 triliun dan utang bank baru Rp569,6 miliar, keduanya terkait pembiayaan akuisisi Sports Direct Malaysia. Liabilitas sewa bertambah Rp438,5 miliar seiring gerai baru, dan liabilitas pajak tangguhan naik Rp351,4 miliar akibat efek nilai wajar aset takberwujud yang diperoleh dari akuisisi tersebut. Laporan keuangan interim sembilan bulan ini ditandatangani Direktur Utama Nicholas Jones dan Direktur Miquel Rodrigo Staal pada 23 Oktober 2026, tidak diaudit, sebagai bagian dari kewajiban pelaporan kuartal ketiga."
+  ],
+  "fotoAdegan": "Wide shot of a modern sportswear retail store aisle lined with shoe displays and clothing racks, shoppers browsing, bright overhead lighting",
+  "takeaway": "Laporan ini netral bagi MAPA: lonjakan aset dan liabilitas yang besar sepenuhnya bisa dijelaskan oleh satu aksi yang terencana, akuisisi Sports Direct Malaysia, bukan tanda masalah keuangan mendadak. Yang perlu dicermati adalah cara pembiayaannya, karena sebagian besar akuisisi ini dibayar dengan utang baru, utang pembelian saham dan pinjaman bank, sehingga rasio utang terhadap modal sendiri (ekuitas) naik dari sekitar 0,6 kali menjadi 0,86 kali, dan beban bunga yang dibayar perusahaan ikut naik 31 persen dibanding tahun lalu. Ekuitas sendiri tetap tumbuh karena laba periode ini menambah modal, tapi kenaikan utang yang lebih cepat berarti bantalan keuangan perusahaan terhadap utang menipis dibanding sebelumnya. Yang perlu dipantau berikutnya adalah pembayaran utang pembelian saham sebesar Rp540,7 miliar yang jatuh tempo dalam satu tahun ke depan, serta laporan tahunan auditan untuk tahun buku 2026 yang akan menunjukkan dampak penuh akuisisi ini setelah berjalan satu tahun.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "blog-laba-naik-10-9-utang-bank-melonjak-20-5",
+  "category": "Aksi Korporasi",
+  "title": "BLOG: Laba Naik 10,9%, [Utang] Bank Melonjak 20,5%",
+  "deck": "Pendapatan dan laba Trimitra Trans Persada naik dua digit pada sembilan bulan 2026, tapi utang bank jangka panjang melonjak lebih dari 20 persen dan kas perusahaan susut hampir separuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:11:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026182147-64776-0/FinancialStatement-2026-III-BLOG.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLOG",
+  "tags": [
+   "BLOG",
+   "laporan keuangan",
+   "utang",
+   "logistik"
+  ],
+  "body": [
+   "PT Trimitra Trans Persada Tbk (BLOG) menyampaikan laporan keuangan konsolidasian interim untuk sembilan bulan pertama 2026 yang berakhir 30 September 2026, tidak diaudit, kepada Bursa Efek Indonesia pada 26 Oktober 2026. Pendapatan bersih perusahaan logistik dan pergudangan ini naik menjadi Rp1,13 triliun dari Rp954,52 miliar pada periode yang sama tahun lalu, setara kenaikan 18,5 persen. Laba bersih ikut naik dari Rp108,99 miliar menjadi Rp120,87 miliar, didorong kenaikan laba bruto dari Rp191,61 miliar menjadi Rp215,46 miliar.",
+   "Di sisi arus kas, kas bersih dari aktivitas operasi naik dari Rp151,13 miliar menjadi Rp174,87 miliar, namun kas dan setara kas akhir periode justru turun tajam dari Rp150,19 miliar menjadi Rp91,27 miliar. Penyusutan ini terjadi karena perusahaan membelanjakan Rp234,6 miliar untuk penambahan aset tetap, termasuk perluasan fasilitas logistik, dan membayar dividen tunai Rp70,97 miliar, jauh lebih besar dari dividen tahun sebelumnya yang Rp49,99 miliar. Untuk membiayai belanja itu, Perseroan menambah utang bank jangka panjang dari Rp153,9 miliar menjadi Rp233,3 miliar, sehingga total liabilitas naik 20,54 persen dari Rp410,96 miliar menjadi Rp495,41 miliar. Kenaikan di atas 20 persen itulah yang mewajibkan Direktur Utama Maickel Tilon mengirim surat penjelasan terpisah kepada OJK dan BEI, sesuai aturan Bursa yang mewajibkan penjelasan setiap kali pos liabilitas berubah lebih dari seperlima dibanding laporan tahunan sebelumnya.",
+   "Total ekuitas Perseroan naik dari Rp620,63 miliar menjadi Rp670,53 miliar, sementara total aset bertambah dari Rp1,03 triliun menjadi Rp1,17 triliun. Namun laba bersih per saham justru turun dari Rp48 menjadi Rp36, karena jumlah saham beredar bertambah banyak dibanding posisi September tahun lalu setelah ada penambahan modal dasar sepanjang 2025. Bisnis logistik Perseroan dijalankan antara lain lewat anak usaha PT Simpan Sini Aja, yang bergerak di angkutan barang, pergudangan, dan cold storage di Tangerang dengan aset senilai Rp356,37 miliar dan kepemilikan Perseroan mencapai 99,99 persen."
+  ],
+  "fotoAdegan": "Forklift moving pallets inside a large cold storage warehouse, workers in jackets, loading dock doors open to trucks outside",
+  "takeaway": "Laporan ini netral: pertumbuhan pendapatan dan laba double digit memang bagus, tapi itu dibayar dengan utang yang melonjak dan kas yang terkuras, jadi bukan sinyal sepihak untuk fundamental emiten. Yang perlu dicermati adalah kas perusahaan, uang tunai yang benar-benar tersedia, yang susut hampir separuh menjadi Rp91,27 miliar karena dipakai membiayai aset tetap dan dividen, serta laba per saham, yakni jatah laba untuk setiap lembar saham investor, yang turun dari Rp48 ke Rp36 meski laba total naik, karena jumlah saham beredar bertambah sejak pertengahan 2025 sehingga potongan laba tiap lembar mengecil atau terdilusi. Yang perlu dipantau berikutnya adalah apakah tambahan utang bank jangka panjang hingga Rp233,3 miliar ini benar-benar terpakai untuk menambah kapasitas logistik seperti pergudangan dan cold storage, dan apakah laporan keuangan tahunan teraudit nanti tetap mengonfirmasi tren kenaikan pendapatan dan laba yang terlihat di laporan interim ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "toba-pastikan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Pastikan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "TBS Energi Utama menjawab permintaan BEI terkait volatilitas transaksi sahamnya, menegaskan tak ada fakta material baru selain RUPSLB 27 November dan RUPO 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:10:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cee820a1a1_874e9dda72.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "volatilitas saham",
+   "RUPSLB",
+   "obligasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia meminta penjelasan dari PT TBS Energi Utama Tbk (TOBA) terkait volatilitas transaksi sahamnya, melalui surat nomor S-13376/BEI.PP3/10-2026. Lewat surat balasan nomor 241/TBS/X/2026 tertanggal 26 Oktober 2026, Corporate Secretary Pingkan Ratna Melati menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi harga saham maupun keputusan investasi pemodal, baik menurut POJK 31/2015 maupun ketentuan Peraturan Bursa Nomor I-E. TOBA juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu sesuai POJK 4/2024, dan pemegang saham utama disebut tidak memiliki rencana mengubah kepemilikan sahamnya setelah dikonfirmasi langsung oleh Corporate Secretary.",
+   "Soal agenda korporasi dalam waktu dekat, TOBA memastikan hanya ada dua agenda yang sudah diumumkan sebelumnya. Pertama, Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 27 November 2026, yang terkait transaksi material yang keterbukaannya sudah disampaikan pada 21 Oktober 2026. Kedua, Rapat Umum Pemegang Obligasi (RUPO) pada 19 November 2026 untuk empat seri surat utang, yaitu Obligasi I TBS Energi Utama Tahun 2023, Obligasi Berkelanjutan I Tahap I Tahun 2025, Tahap II Tahun 2026, dan Tahap III Tahun 2026, yang jadwalnya telah diumumkan lewat surat kabar Harian Terbit pada 22 Oktober 2026. Di luar dua agenda tersebut, perseroan menyatakan tidak ada rencana aksi korporasi lain yang berdampak pada status pencatatan sahamnya di bursa."
+  ],
+  "fotoAdegan": "Coal stockpiles and loading conveyors at a busy export terminal under a hazy afternoon sky, workers in hi-vis vests nearby.",
+  "takeaway": "Laporan ini netral bagi TOBA karena isinya cuma konfirmasi rutin bahwa tidak ada kabar tersembunyi di balik gejolak harga sahamnya, bukan informasi baru soal kinerja perusahaan. Yang disinggung di sini bukan laba atau arus kas, melainkan struktur kepemilikan dan utang, pemegang saham utama memastikan tidak berencana mengubah porsi sahamnya sehingga hak suara pengendali tetap stabil, sementara RUPO menyangkut syarat obligasi yang bila berubah bisa memengaruhi beban bunga perseroan ke depan. Yang perlu dipantau adalah hasil RUPSLB pada 27 November 2026 yang mengagendakan transaksi material yang sudah diungkapkan sebelumnya, serta RUPO pada 19 November 2026 untuk empat seri obligasi TOBA, karena keduanya yang bisa mengubah arah cerita meski surat ini sendiri tidak membawa kabar baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mapb-catat-rugi-bersih-rp157-5-miliar-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "MAPB Catat [Rugi] Bersih Rp157,5 Miliar per September 2026",
+  "deck": "Rugi bersih MAP Boga Adiperkasa melebar 45 persen jadi Rp157,5 miliar pada sembilan bulan 2026, terutama karena manfaat pajak yang jauh mengecil dari tahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:07:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026112152-64641-0/FinancialStatement-2026-III-MAPB.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAPB",
+  "tags": [
+   "MAPB",
+   "laporan keuangan",
+   "rugi bersih",
+   "consumer"
+  ],
+  "body": [
+   "PT Map Boga Adiperkasa Tbk (MAPB) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Rugi bersih perusahaan melebar menjadi Rp157,5 miliar, naik 44,9 persen dibandingkan Rp108,7 miliar pada periode yang sama tahun lalu. Rugi per saham dasar turut membesar, dari Rp46 menjadi Rp66 per saham. Laporan ini ditandatangani Direktur Utama Anthony Valentine Mc Evoy dan Direktur Derwin Wirawan pada 23 Oktober 2026.",
+   "Dari sisi operasional, penjualan MAPB sebenarnya tumbuh 9 persen menjadi Rp2,57 triliun dari Rp2,35 triliun, dan laba kotor naik 6,2 persen menjadi Rp1,74 triliun. Namun kenaikan beban penjualan menjadi Rp1,62 triliun dan beban umum serta administrasi menjadi Rp242,3 miliar membuat rugi sebelum pajak tetap melebar 11,2 persen menjadi Rp157,7 miliar. Perseroan juga mencatat rugi selisih kurs mata uang asing Rp14,3 miliar, naik dari Rp5,6 miliar tahun lalu. Pelebaran rugi bersih yang jauh lebih tajam dibanding rugi sebelum pajak terjadi karena manfaat pajak penghasilan tahun ini cuma Rp177 juta, jauh lebih kecil dari Rp33,1 miliar pada periode yang sama tahun lalu.",
+   "Di neraca, total aset MAPB turun menjadi Rp2,54 triliun dari Rp2,82 triliun pada akhir 2025, sementara total ekuitas turun menjadi Rp1,24 triliun dari Rp1,40 triliun. Saldo laba yang belum ditentukan penggunaannya nyaris habis, dari Rp157,5 miliar menjadi tinggal Rp1 juta, karena hampir seluruhnya terpakai menyerap rugi periode berjalan. Kas dan setara kas menyusut menjadi Rp316,7 miliar dari Rp376 miliar, antara lain karena pembayaran liabilitas sewa toko dan gerai Rp225,3 miliar selama sembilan bulan. Dari sembilan entitas anak yang dikonsolidasikan, pemegang lisensi Starbucks di Indonesia tercatat sebagai kontributor aset terbesar dengan Rp1,68 triliun, didampingi entitas anak lain yang menaungi merek seperti Krispy Kreme, Genki Sushi, Paul Bakery, Subway, Pizza Marzano, Cold Stone Creamery, dan Godiva."
+  ],
+  "fotoAdegan": "Baristas preparing drinks behind a busy cafe counter in a Jakarta shopping mall during morning rush hour.",
+  "takeaway": "Laporan ini condong negatif bagi MAPB, karena rugi bersih melebar hampir 45 persen meski penjualan tumbuh, dan sebagian besar pelebaran itu justru berasal dari manfaat pajak yang mengecil tajam, bukan perbaikan atau perburukan operasional semata. Yang paling perlu dicermati investor adalah saldo laba atau laba ditahan, yaitu akumulasi keuntungan tahun-tahun sebelumnya yang belum dibagikan sebagai dividen, yang kini tersisa cuma Rp1 juta setelah hampir seluruhnya terpakai menyerap rugi periode ini. Artinya bantalan perusahaan untuk menanggung kerugian berikutnya sudah nyaris habis, dan rugi per saham yang naik dari Rp46 menjadi Rp66 menunjukkan beban itu makin terasa bagi tiap pemegang saham. Arus kas dari operasi memang masih positif Rp256,2 miliar, tapi sebagian besar tersedot untuk membayar liabilitas sewa toko dan gerai sebesar Rp225,3 miliar, sehingga kas perusahaan tetap menyusut. Yang perlu dipantau berikutnya adalah laporan kuartal IV dan laporan tahunan 2026, untuk melihat apakah tren rugi masih berlanjut dan apakah saldo laba yang kini nyaris nol berbalik menjadi defisit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pjhb-w-bei-ingatkan-jadwal-delisting-waran-per-5-november",
+  "category": "Aksi Korporasi",
+  "title": "PJHB-W: BEI Ingatkan Jadwal [Delisting] Waran per 5 November",
+  "deck": "BEI mengingatkan pemegang waran PJHB-W bahwa perdagangan berakhir awal November 2026 dan efek ini dihapus dari pencatatan pada 5 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:05:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan PJHB-W261104-No. Peng-00203BEI.POP10-2026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PJHB-W",
+  "tags": [
+   "PJHB",
+   "PJHB-W",
+   "waran",
+   "delisting"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengeluarkan pengumuman No. Peng-00203/BEI.POP/10-2026 pada 26 Oktober 2026 yang mengingatkan jadwal penghapusan pencatatan (delisting) Waran Seri I milik Pelayaran Jaya Hidup Baru Tbk. dengan kode PJHB-W. Pengumuman ini merujuk pada ketentuan yang sebelumnya sudah ditetapkan BEI lewat surat tertanggal 5 November 2025.",
+   "Berdasarkan jadwal tersebut, PJHB-W masih bisa diperdagangkan di Pasar Reguler dan Pasar Negosiasi sampai 2 November 2026, sedangkan di Pasar Tunai perdagangannya berhenti sehari lebih lambat, yaitu 4 November 2026. Pemegang waran masih diberi kesempatan menukar (melaksanakan) PJHB-W menjadi saham biasa PJHB sampai batas waktu 5 November 2026. Setelah tanggal itu, PJHB-W otomatis berhenti diperdagangkan dan dikeluarkan dari daftar efek yang tercatat di BEI.",
+   "Pengumuman ditandatangani oleh Pande Made Kusuma Ari A., Kepala Divisi Pengaturan dan Operasional Perdagangan, dan Teuku Fahmi Ariandar, Kepala Divisi Penilaian Perusahaan 1. Isi dokumen tidak menyebut harga pelaksanaan waran maupun jumlah waran yang masih beredar."
+  ],
+  "fotoAdegan": "A cargo ship anchored near a busy Indonesian port, gantry cranes loading containers under hazy afternoon light",
+  "takeaway": "Penilaian saya netral, karena ini cuma pengingat jadwal yang sudah ditetapkan setahun lalu, bukan kabar baru soal kinerja perusahaan. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab setiap pemegang waran yang menukarkan PJHB-W jadi saham PJHB sebelum tenggat akan menambah jumlah saham yang beredar, dan itu bisa membuat laba yang dibagi ke setiap saham jadi lebih tipis. Bagi pemegang waran sendiri, taruhannya lebih besar: kalau tidak dieksekusi sebelum 5 November 2026, waran itu habis nilainya sama sekali karena dihapus dari pencatatan bursa. Yang perlu dipantau adalah tiga tanggal berurutan ini, perdagangan di Pasar Reguler dan Negosiasi berhenti 2 November 2026, Pasar Tunai berhenti 4 November 2026, dan batas akhir penukaran waran jadi saham adalah 5 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "untr-laba-bersih-turun-61-jadi-rp4-47-triliun-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "UNTR: Laba Bersih [Turun] 61% Jadi Rp4,47 Triliun di 9M 2026",
+  "deck": "Pendapatan turun 10% dan laba bersih turun 61% pada sembilan bulan 2026, sementara UNTR berpindah dari posisi kas bersih ke utang bersih akibat akuisisi tambang emas dan pembelian kembali saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T17:56:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026180824-64722-0/FinancialStatement-2026-III-UNTR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "laporan keuangan",
+   "laba bersih",
+   "United Tractors"
+  ],
+  "body": [
+   "PT United Tractors Tbk (UNTR) melaporkan pendapatan bersih konsolidasian Rp90,3 triliun untuk sembilan bulan pertama 2026, turun 10 persen dari Rp100,5 triliun pada periode yang sama tahun lalu. Laba bersih yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp4,465 triliun, turun 61 persen dari Rp11,475 triliun, sehingga laba bersih per saham ikut turun dari Rp3.160 menjadi Rp1.273. Jika pos non-recurring dikeluarkan, penurunan laba sebenarnya lebih moderat, 31 persen, menjadi Rp7,925 triliun, dengan penyebab utama alokasi RKAB (rencana produksi) batu bara nasional 2026 yang lebih rendah dan merosotnya penjualan emas.",
+   "Sepanjang sembilan bulan ini, Perseroan mencatat beban non-recurring sekitar Rp3,5 triliun, terutama berasal dari penurunan nilai investasi pada Supreme Geothermal Energy dan pembayaran terkait kegiatan masa lalu di kawasan hutan sehubungan dengan Persetujuan Pemanfaatan Kawasan Hutan di Tambang Nikel Stargate. Per 30 September 2026, Perseroan berada pada posisi utang bersih Rp4,6 triliun dengan rasio gearing 4,2 persen, berbalik dari posisi kas bersih Rp7,7 triliun pada akhir 2025. Perubahan ini terutama didorong oleh akuisisi perusahaan tambang emas dan program pembelian kembali saham yang menyedot kas Rp3,64 triliun, sehingga saham tresuri Perseroan membesar dari Rp4,9 triliun menjadi Rp8,54 triliun. Perseroan juga telah membagikan dividen tunai final 2025 sebesar Rp3,865 triliun kepada pemegang saham pemilik entitas induk.",
+   "Secara segmen, unit usaha Alat Berat mencatat penurunan penjualan unit Komatsu 17 persen menjadi 3.026 unit, dengan penjualan ke sektor pertambangan turun paling dalam, 48 persen menjadi 481 unit, sehingga pendapatan segmen ini turun 19 persen menjadi Rp23,6 triliun. Berbeda arah, unit usaha Kontraktor Penambangan yang dijalankan PT Pamapersada Nusantara dan PT Kalimantan Prima Persada justru mencatat kenaikan pendapatan 11 persen menjadi Rp44,5 triliun karena penguatan kurs dolar AS, meskipun volume pemindahan tanah turun 7 persen menjadi 766 juta bcm dan produksi batu bara untuk klien turun 3 persen menjadi 106 juta ton. Segmen Pertambangan Batu Bara Termal dan Metalurgi melalui PT Tuah Turangga Agung mencatat penurunan volume penjualan batu bara 23 persen menjadi 7,1 juta ton sehingga pendapatannya turun 15 persen menjadi Rp15,9 triliun, sementara segmen emas dan mineral lain melalui PT Agincourt Resources dan PT Sumbawa Jutaraya mencatat penjualan emas yang merosot dari 178 ribu ons menjadi hanya 54 ribu ons akibat penghentian sementara operasi Tambang Emas Martabe yang baru kembali berjalan pada kuartal kedua 2026, membuat pendapatan segmen ini turun 53 persen menjadi Rp4,9 triliun."
+  ],
+  "fotoAdegan": "Yellow heavy equipment and haul trucks parked on a dusty open-pit mining bench under hazy morning light, Kalimantan highlands.",
+  "takeaway": "Laporan ini condong negatif bagi UNTR, karena penurunan laba bersih 61 persen dan pembalikan dari posisi kas bersih menjadi utang bersih menunjukkan tekanan ganda dari sisi pendapatan maupun struktur keuangan, meski penurunan di luar pos non-recurring jauh lebih moderat di 31 persen. Yang tersentuh di sini adalah laba per saham, yaitu porsi laba yang secara matematis menjadi hak setiap lembar saham, dan rasio gearing, yaitu perbandingan utang dikurangi kas terhadap modal sendiri yang menggambarkan seberapa besar perusahaan bersandar pada pinjaman; keduanya diperhatikan pelaku pasar karena laba per saham yang turun tajam dan gearing yang berbalik dari posisi kas bersih ke utang bersih sama-sama menandakan bantalan keuangan yang menipis dibanding tahun lalu. Program pembelian kembali saham senilai Rp3,64 triliun turut memperkecil kas, sehingga sebagian penurunan kas tidak sepenuhnya berasal dari pelemahan bisnis inti. Yang perlu dipantau berikutnya adalah kinerja kuartal keempat 2026, terutama apakah penjualan emas dari Tambang Emas Martabe benar-benar membaik setelah tambang itu beroperasi lagi sejak kuartal kedua, serta apakah posisi utang bersih dan rasio gearing Perseroan masih akan membesar jika program pembelian kembali saham berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smar-gelar-rupslb-17-november-rombak-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Gelar RUPSLB 17 November, Rombak [Komisaris]",
+  "deck": "SMAR memanggil RUPSLB pada 17 November 2026 untuk menyesuaikan anggaran dasar dan mengubah susunan Dewan Komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T17:41:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/52aa499e5b_112a28d43d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMAR",
+  "tags": [
+   "SMAR",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Sinar Mas Agro Resources and Technology Tbk (SMAR) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026, pukul 10.00 WIB di Ruang Danamas, Plaza Sinar Mas Land, Menara 2, Lantai 39, Jalan MH Thamrin No. 51, Jakarta Pusat. Pemegang saham juga bisa mengikuti rapat secara elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Yang berhak hadir atau memberi kuasa adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per penutupan perdagangan 23 Oktober 2026.",
+   "Ada tiga agenda yang akan diputuskan dalam rapat ini. Pertama, penyesuaian Pasal 3 Anggaran Dasar tentang maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan klasifikasi baku lapangan usaha terbaru, KBLI 2025, yang diterbitkan Badan Pusat Statistik. Perseroan menegaskan penyesuaian ini tidak menambah atau mengurangi kegiatan usaha, sehingga tidak masuk kategori transaksi material menurut aturan Otoritas Jasa Keuangan. Kedua, perubahan Pasal 26 ayat 4 Anggaran Dasar tentang Laporan Tahunan, untuk menegaskan kewajiban seluruh anggota Direksi dan Dewan Komisaris menandatangani Laporan Tahunan sesuai Undang-Undang Perseroan Terbatas dan aturan OJK soal laporan tahunan emiten. Ketiga, perubahan susunan anggota Dewan Komisaris Perseroan, yang menurut Anggaran Dasar dan Undang-Undang Perseroan Terbatas menjadi kewenangan RUPS. Surat pemanggilan belum menyebutkan nama-nama yang akan diganti atau diangkat.",
+   "Bagi pemegang saham yang tidak bisa datang langsung, kuasa konvensional harus disampaikan ke Biro Administrasi Efek PT Sinartama Gunita selambat-lambatnya tiga hari kerja sebelum rapat sampai pukul 16.00 WIB, sedangkan kuasa elektronik lewat eASY.KSEI paling lambat satu hari kerja sebelum rapat. Pemanggilan ini ditandatangani oleh Corporate Secretary SMAR, Jimmy Pramono, sementara surat pemberitahuan resmi ke OJK dan Bursa Efek Indonesia ditandatangani oleh Direktur Fiscus Costan."
+  ],
+  "fotoAdegan": "Empty formal meeting hall with rows of chairs facing a small stage, tall windows letting in soft morning light",
+  "takeaway": "Laporan ini netral bagi SMAR karena isinya murni pemanggilan rapat untuk menyesuaikan anggaran dasar dan mengganti susunan komisaris, belum ada keputusan atau angka yang mengubah kondisi keuangan perseroan saat ini. Perubahan yang dibahas tidak menyentuh pos-pos seperti ekuitas, arus kas, atau laba per saham, melainkan struktur pengawasan lewat pergantian Dewan Komisaris, yang diperhatikan pasar karena komisaris baru bisa membawa arah pengawasan berbeda terhadap keputusan manajemen. Yang perlu dipantau adalah hasil RUPSLB pada 17 November 2026, terutama nama-nama yang diusulkan masuk atau keluar dari Dewan Komisaris serta apakah penyesuaian anggaran dasar terkait KBLI 2025 disahkan tanpa mengubah kegiatan usaha perseroan.",
+  "sentimen": "netral"
  },
  {
   "slug": "city-gelar-public-expose-9-november-laba-naik-50",

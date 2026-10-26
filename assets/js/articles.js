@@ -3,6 +3,242 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bach-naikkan-fasilitas-pinjaman-ke-rp350-miliar-dari-smbc",
+  "category": "Aksi Korporasi",
+  "title": "BACH Naikkan Fasilitas Pinjaman ke [Rp350 Miliar] dari SMBC",
+  "deck": "Bach Multi Global dan anak usahanya menambah fasilitas pinjaman dari Bank SMBC Indonesia sebesar Rp100 miliar, sehingga total fasilitas naik menjadi Rp350 miliar dengan tenor sampai Oktober 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T19:44:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2307db6b75_30dd2e7fe4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BACH",
+  "tags": [
+   "BACH",
+   "transaksi material",
+   "fasilitas pinjaman",
+   "SMBC Indonesia"
+  ],
+  "body": [
+   "PT Bach Multi Global Tbk (BACH) dan anak usahanya, PT Bach Multi Infrastruktur (BMI), menandatangani Perubahan Ketiga atas Perjanjian Fasilitas No. BTPN/S/0278 dengan PT Bank SMBC Indonesia Tbk pada 23 Oktober 2026. Perubahan ini menaikkan plafon fasilitas omnibus sebesar Rp100 miliar, dari sebelumnya Rp150 miliar menjadi Rp250 miliar, sekaligus memperpanjang jangka waktu fasilitas tersebut hingga 29 Oktober 2027. Dengan tambahan ini, total seluruh fasilitas yang diterima Perseroan dari bank tersebut menjadi Rp350 miliar.",
+   "Perseroan dan BMI, selaku peminjam, sepakat untuk bertanggung jawab secara tanggung renteng atas seluruh kewajiban dalam perjanjian ini, artinya bank bisa menagih ke salah satu maupun kedua pihak jika terjadi gagal bayar. BMI sendiri adalah perusahaan yang 99,999997 persen sahamnya dimiliki langsung oleh Perseroan, sehingga transaksi ini turut tercatat sebagai transaksi afiliasi berdasarkan POJK 42, namun perusahaan menyatakan tidak ada unsur benturan kepentingan di dalamnya.",
+   "Nilai transaksi Rp350 miliar itu setara 57,1 persen dari ekuitas Perseroan berdasarkan laporan keuangan konsolidasian interim per 30 Juni 2026, sehingga transaksi ini masuk kategori Transaksi Material sesuai POJK 17. Namun karena berbentuk pinjaman langsung dari bank, transaksi ini dikecualikan dari kewajiban menggunakan jasa penilai independen maupun meminta persetujuan RUPS. Perseroan menyatakan perpanjangan dan penambahan fasilitas ini ditujukan untuk mendukung pendanaan kegiatan usaha, dan tidak berdampak merugikan material terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha Perseroan."
+  ],
+  "fotoAdegan": "Technicians servicing a row of industrial generator sets in an outdoor equipment yard under cloudy daylight, tools in hand",
+  "takeaway": "Laporan ini condong netral bagi BACH: perusahaan menambah utang bank sebesar Rp100 miliar untuk mendukung operasional, bukan sinyal ekspansi konkret maupun sinyal kesulitan, apalagi Perseroan sendiri menegaskan tidak ada dampak merugikan material. Yang tersentuh di sini adalah sisi utang dan beban bunga: dengan total fasilitas naik menjadi Rp350 miliar atau 57,1 persen dari ekuitas, kewajiban bunga tahunan Perseroan ikut membesar dan rasio utang terhadap modal sendiri menjadi lebih tinggi, dua hal yang biasa diperhatikan investor saat menakar seberapa berat beban keuangan sebuah perusahaan. Karena BACH dan anak usahanya BMI terikat tanggung renteng, kesehatan keuangan salah satu pihak kini ikut bergantung pada kemampuan bayar pihak lainnya. Yang perlu dipantau selanjutnya adalah bagaimana Perseroan memanfaatkan tambahan dana ini dan apakah mampu menjaga kewajiban pembayarannya sampai fasilitas ini jatuh tempo pada 29 Oktober 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "materi-public-expose-lapd-ungkap-ekuitas-negatif-rp2-65-m",
+  "category": "Aksi Korporasi",
+  "title": "Materi Public Expose LAPD Ungkap [Ekuitas Negatif] Rp2,65 M",
+  "deck": "Materi public expose tahunan LAPD membeberkan ekuitas negatif Rp2,65 miliar per Juni 2026, serta rencana rights issue Rp60 miliar untuk akuisisi kontraktor tambang BSS senilai Rp38,85 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T19:20:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/db6bba2fa2_c72ee69838.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "ekuitas negatif",
+   "pertambangan batu bara"
+  ],
+  "body": [
+   "Leyand International Tbk (LAPD) menyampaikan materi Public Expose Tahunan yang akan digelar bersamaan dengan RUPSLB pada 29 Oktober 2026. Materi itu menegaskan arah transformasi perseroan dari distributor barang konsumen (FMCG) lewat anak usaha PT Rusindo Eka Raya (RER) menjadi kontraktor jasa pertambangan batu bara, melalui rencana akuisisi PT Bersaudara Sinergi Sejahtera (BSS) yang beroperasi di Kalimantan Timur. BSS saat ini dimiliki 87,50 persen oleh pengendali LAPD, PT JSI Sinergi Mas, dengan nilai pasar menurut penilai independen (KJPP) sebesar Rp38,85 miliar.",
+   "Kondisi keuangan per 30 Juni 2026 yang diungkap dalam materi ini jauh memburuk dibanding periode yang sama tahun lalu. Penjualan anjlok 98,6 persen, dari Rp138,51 miliar menjadi Rp1,91 miliar, sementara rugi bersih melebar dari Rp3,59 miliar menjadi Rp23,95 miliar dan total aset menyusut 53,4 persen menjadi Rp99,47 miliar. Margin bruto berbalik negatif 54,90 persen dari sebelumnya positif 3,14 persen, dengan rugi bruto Rp1,05 miliar karena beban pokok penjualan melebihi pendapatan. Kas dan bank tergerus 93 persen menjadi tinggal Rp474,8 juta, rasio lancar turun ke 0,15 kali, rasio liabilitas terhadap aset naik ke 102,66 persen, dan ekuitas tercatat negatif Rp2,65 miliar. Akumulasi rugi mencapai Rp463,91 miliar dengan defisiensi modal Rp34,06 miliar.",
+   "Untuk membiayai akuisisi BSS dan modal kerja, perseroan berencana menerbitkan saham baru lewat PMHMETD II (penambahan modal dengan hak memesan efek terlebih dahulu) sebanyak maksimal 2 miliar saham Seri B bernilai nominal Rp25 per saham, dengan harga pelaksanaan indikatif Rp30 per saham sehingga nilai maksimal penerbitan mencapai Rp60 miliar. Saham BSS rencananya dimasukkan sebagai setoran dalam bentuk saham (inbreng) lewat skema ini. Perseroan juga berencana melepas RER karena bisnis distribusi FMCG dinilai tidak lagi sejalan dengan fokus usaha baru, dengan target restrukturisasi rampung bertahap hingga 2027.",
+   "Dari sisi struktur kepemilikan, total saham beredar LAPD saat ini 3,97 miliar lembar, dengan PT JSI Sinergi Mas menguasai 51 persen atau 2.022.838.500 saham dan publik memegang 49 persen atau 1.943.511.639 saham. Pemilik manfaat akhir JSI Sinergi Mas adalah Sayid Muhammad Riyadh (49,7 persen) yang juga menjabat Komisaris Utama LAPD, dan Jamal Abdul Nasir Bamadhaj (47,8 persen) yang menjabat Direktur Utama LAPD."
+  ],
+  "fotoAdegan": "Heavy excavators loading coal onto large haul trucks at a dusty open-pit mine site in East Kalimantan, overcast morning light",
+  "takeaway": "Materi ini condong negatif bagi pemegang saham LAPD, karena untuk pertama kalinya angka-angka di balik rencana pertambangan ini dibeber secara rinci dan menunjukkan kondisi keuangan yang rapuh. Ekuitas negatif Rp2,65 miliar berarti seluruh kewajiban perseroan sudah melebihi asetnya sehingga modal pemegang saham lama secara teknis sudah habis, sementara rasio lancar yang anjlok ke 0,15 kali menandakan kas yang tersedia jauh di bawah kewajiban jangka pendek yang harus dibayar, dan kas perseroan sendiri tinggal Rp474,8 juta. Rencana suntikan dana Rp60 miliar lewat penerbitan saham baru memang bisa menutup kebutuhan modal kerja dan akuisisi BSS, tapi jumlah saham beredar yang bertambah sampai 2 miliar lembar juga berarti bagian laba per saham bagi pemegang lama berpotensi terdilusi jika nanti perseroan kembali mencetak laba. Yang perlu dipantau adalah RUPSLB pada 29 Oktober 2026, karena di situlah pemegang saham memutuskan nasib rencana penerbitan saham dan akuisisi BSS ini, setelah sebelumnya OJK sempat meminta klarifikasi tambahan atas rencana yang sama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smii-koreksi-laporan-keuangan-laba-semester-i-naik-16",
+  "category": "Aksi Korporasi",
+  "title": "SMII Koreksi Laporan Keuangan, Laba Semester I Naik [16%]",
+  "deck": "SMII mengoreksi laporan keuangan semester I 2026 usai pemeriksaan OJK, dampaknya kecil, sementara laba bersih perseroan naik 16,13 persen menjadi Rp1,36 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T19:08:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026191429-64939-0/FinancialStatement-2026-II-SMII.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMII",
+  "tags": [
+   "SMII",
+   "laporan keuangan",
+   "OJK",
+   "obligasi"
+  ],
+  "body": [
+   "PT Sarana Multi Infrastruktur (Persero) atau SMII menyampaikan koreksi atas laporan keuangan interim semester I 2026 yang sebelumnya sudah dipublikasikan, menyusul hasil pemeriksaan Otoritas Jasa Keuangan atas laporan keuangan perseroan untuk tahun buku 2025-2026. Surat yang ditandatangani Direktur Utama Reynaldi Hermansjah itu menyebutkan koreksi berdampak pada kenaikan laba dan penurunan liabilitas perseroan, masing-masing sebesar Rp126.792.600. Koreksi ini menyentuh Laporan Posisi Keuangan, Laporan Laba Rugi dan Penghasilan Komprehensif Lain, Laporan Perubahan Ekuitas, serta Catatan atas Laporan Keuangan nomor 16, 21, 26, 30, 31, 32, 34, 35, dan 37. Perseroan menegaskan koreksi tersebut tidak material terhadap posisi keuangan, kinerja, maupun arus kas yang sebelumnya diungkapkan ke pemegang saham dan publik.",
+   "Dari sisi kinerja, jumlah aset SMII per 30 Juni 2026 tercatat Rp124,98 triliun, naik 3,02 persen atau Rp3,66 triliun dari posisi akhir 2025 sebesar Rp121,33 triliun. Kenaikan ini terutama didorong oleh pinjaman yang diberikan dan pembiayaan syariah bersih yang naik Rp5,75 triliun atau 6,57 persen menjadi Rp93,37 triliun, seiring pencairan pembiayaan baru ke debitur. Sebaliknya kas dan setara kas turun Rp773 miliar atau 5,74 persen menjadi Rp12,68 triliun karena dipakai untuk mendanai penyaluran pembiayaan tersebut. Di sisi liabilitas, pinjaman dari bank dan lembaga keuangan lain naik 23,77 persen menjadi Rp30,95 triliun akibat penarikan fasilitas pinjaman baru, sementara surat utang yang diterbitkan turun 8,62 persen menjadi Rp20,87 triliun setelah perseroan membayar surat utang jatuh tempo senilai Rp7,46 triliun. Jumlah ekuitas perseroan per akhir Juni 2026 mencapai Rp46,81 triliun, naik tipis dari Rp46,41 triliun.",
+   "Laba bersih periode berjalan tercatat Rp1,36 triliun, naik 16,13 persen atau Rp190 miliar dibanding periode sama tahun lalu sebesar Rp1,13 triliun. Perseroan menyebut kenaikan ini didorong oleh turunnya beban bunga sejalan penurunan suku bunga pasar, serta perbaikan kualitas aset pembiayaan yang menekan beban pencadangan kerugian kredit dan menambah pemulihan dari cadangan yang sebelumnya dibentuk. Laba per saham naik dari Rp37.027 menjadi Rp44.725. Namun arus kas dari aktivitas operasi berbalik menjadi negatif Rp5,27 triliun, dari positif Rp1,08 triliun pada semester I 2025, karena penyaluran pinjaman baru senilai Rp21,72 triliun jauh melampaui penerimaan dari pelunasan pinjaman debitur. Rasio lancar turun dari 105,28 persen menjadi 98,14 persen, sementara ROA turun dari 2,39 persen menjadi 2,18 persen dan ROE dari 6,67 persen menjadi 6,19 persen."
+  ],
+  "fotoAdegan": "Engineers in hard hats reviewing cables at a toll road construction site under an overcast sky",
+  "takeaway": "Laporan ini tergolong netral bagi SMII: koreksi akuntansi yang dipicu pemeriksaan OJK memang menyentuh sembilan catatan laporan keuangan sekaligus tiga laporan utama, tapi nilainya cuma Rp126,8 juta dari basis aset Rp124,98 triliun, jadi tidak mengubah gambaran besar kinerja perseroan. Yang lebih layak dicermati justru arus kas dari aktivitas operasi, yaitu uang tunai yang keluar masuk dari kegiatan bisnis sehari-hari, yang berbalik jadi minus Rp5,27 triliun karena penyaluran pinjaman baru jauh lebih besar dari pelunasan yang diterima, dibarengi rasio lancar yang turun di bawah 100 persen menjadi 98,14 persen, tanda kewajiban jangka pendek perseroan kini sedikit melebihi aset jangka pendeknya. Di sisi lain laba bersih tetap tumbuh 16,13 persen karena beban bunga pinjaman turun dan kualitas kredit membaik sehingga dana yang harus disisihkan untuk potensi kredit macet berkurang, sehingga kenaikan laba per saham dari Rp37.027 menjadi Rp44.725 mencerminkan perbaikan operasional, bukan sekadar efek pembukuan. Yang perlu dipantau berikutnya adalah apakah OJK meminta tindak lanjut lain atas hasil pemeriksaannya terhadap laporan keuangan tahun buku 2025-2026, serta arah arus kas operasi pada kuartal mendatang, mengingat penyaluran pembiayaan yang agresif bisa terus menekan kas internal jika tidak diimbangi pendanaan dari luar seperti pinjaman atau penerbitan surat utang baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bmri-laba-bank-mandiri-melonjak-20-7-ke-rp45-5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BMRI: Laba Bank Mandiri [Melonjak] 20,7% ke Rp45,5 Triliun",
+  "deck": "Bank Mandiri catat laba bersih Rp45,5 triliun hingga kuartal III 2026, kredit dan dana pihak ketiga tumbuh dua digit, kualitas aset justru membaik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T19:06:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/40e52a8ced_70b5eb50bd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "Bank Mandiri",
+   "laba bersih",
+   "kinerja kuartal III 2026"
+  ],
+  "body": [
+   "Bank Mandiri melaporkan laba bersih konsolidasi Rp45,5 triliun hingga kuartal III 2026, tumbuh 20,7 persen dibandingkan periode yang sama tahun sebelumnya. Dalam paparan kinerja pada 23 Oktober 2026, Direktur Finance & Strategy Novita Widya Anggraini menyebut penyaluran kredit secara bank only mencapai Rp1.605,8 triliun per September 2026, naik 16 persen secara tahunan. Penghimpunan dana pihak ketiga tumbuh lebih cepat, 17,7 persen, menjadi Rp1.750,2 triliun, sementara total aset konsolidasi naik 20,1 persen menjadi Rp2.404,1 triliun.",
+   "Dari sisi penyaluran kredit, kredit korporasi tumbuh 22 persen menjadi Rp700 triliun per September 2026. Kredit ekosistem turunan yang mencakup segmen UKM, mikro, dan konsumer mencapai Rp174 triliun, tumbuh 9 persen, sedangkan kredit mikro non-subsidi naik 12,9 persen menjadi Rp31,2 triliun dan telah menjangkau 37 provinsi. Secara regional, pertumbuhan kredit bank only tertinggi tercatat di Bali dan Nusa Tenggara sebesar 10,3 persen, diikuti Jawa dan DIY 5,97 persen, serta Sumatera 5,09 persen.",
+   "Dari sisi pendapatan, pendapatan bunga tumbuh 7,08 persen menjadi Rp97,3 triliun dan pendapatan nonbunga naik 13,8 persen menjadi Rp29,4 triliun, sehingga total pendapatan bank only naik 8,54 persen menjadi Rp90,6 triliun. Biaya operasional justru turun 9,03 persen menjadi Rp32,7 triliun, membuat rasio biaya terhadap pendapatan (cost to income ratio) membaik menjadi 36,1 persen dari 43 persen setahun sebelumnya. Rasio kredit bermasalah bank only turun menjadi 0,98 persen dari 1,03 persen, dengan rasio pencadangan 243 persen dan rasio kecukupan modal 18,4 persen. Sepanjang 2026 perseroan juga telah membagikan dividen Rp50,6 triliun, termasuk dividen interim tahun buku 2026 sebesar Rp6,16 triliun.",
+   "Di sisi digital, aplikasi Livin' by Mandiri tercatat memiliki 42,6 juta pengguna terdaftar per September 2026 dengan 4,18 miliar transaksi senilai Rp3.863 triliun sepanjang Januari-September 2026, sementara platform nasabah bisnis Kopra by Mandiri mencatat nilai transaksi Rp22.801 triliun dari 406 ribu pengguna terdaftar. Bank Mandiri juga memperluas bisnis bullion melalui tabungan emas, cicilan emas, dan pengambilan emas fisik di 28 ATM emas dan 458 cabang."
+  ],
+  "fotoAdegan": "A bank officer weighing small gold bars on a precision scale at a bullion counter, warm indoor lighting, Jakarta branch",
+  "takeaway": "Laporan ini condong positif bagi Bank Mandiri, karena kenaikan laba 20,7 persen terjadi bersamaan dengan membaiknya kualitas kredit dan efisiensi biaya, bukan sekadar didorong ekspansi kredit yang agresif. Pos yang tersentuh ada tiga: rasio biaya terhadap pendapatan yang turun ke 36,1 persen berarti bank menghasilkan lebih banyak laba dari setiap rupiah pendapatan, rasio kredit bermasalah yang turun ke 0,98 persen menunjukkan pinjaman yang macet makin sedikit dibanding total kredit, dan rasio kecukupan modal 18,4 persen menjadi bantalan yang menentukan seberapa besar bank masih bisa menyalurkan kredit baru tanpa membahayakan permodalannya. Pelaku pasar biasanya mencermati kombinasi ini karena pertumbuhan kredit yang cepat tanpa dibarengi kualitas aset yang terjaga justru bisa jadi bom waktu di periode berikutnya. Yang perlu dipantau selanjutnya adalah apakah tren efisiensi dan kualitas kredit ini bertahan hingga laporan kinerja kuartal IV dan tahun penuh 2026, mengingat ekspansi kredit korporasi yang tumbuh di atas 20 persen biasanya membawa risiko kualitas aset yang baru terlihat beberapa kuartal ke depan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mhki-jelaskan-volatilitas-transaksi-klaim-tak-ada-info-baru",
+  "category": "Aksi Korporasi",
+  "title": "MHKI [Jelaskan] Volatilitas Transaksi, Klaim Tak Ada Info Baru",
+  "deck": "MHKI menyatakan ke BEI tidak ada informasi material atau rencana tindakan korporasi di balik volatilitas harga sahamnya, termasuk dari pemegang saham utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:53:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dc0a703da0_dc9a49a58e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MHKI",
+  "tags": [
+   "MHKI",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Multi Hanna Kreasindo Tbk (MHKI) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi nomor S-13379/BEI.PP2/10-2026 terkait volatilitas transaksi saham perseroan. Jawaban disampaikan melalui Gita Ashari, Head of Corporate Secretary & Legal, pada 26 Oktober 2026 pukul 18.53 WIB.",
+   "Dalam jawabannya, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 dan IV.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta belum memiliki rencana tindakan korporasi apa pun dalam tiga bulan mendatang. Jika rencana semacam itu muncul dalam rentang waktu tersebut, perseroan berkomitmen menyampaikan keterbukaan informasi sesuai aturan OJK dan BEI.",
+   "Terkait pemegang saham utama, PT Multi Hanna Sinergitama telah dikonfirmasi oleh Corporate Secretary dan menyatakan belum ada rencana atau tindakan yang akan mengubah posisi kepemilikannya di MHKI. Perseroan menambahkan, bila di kemudian hari pemegang saham utama mengambil langkah yang berdampak pada kepemilikan sahamnya, kewajiban kepatuhan yang melekat akan tetap dipenuhi."
+  ],
+  "fotoAdegan": "Stock brokerage analysts working quietly at trading desks with blurred monitors in a Jakarta office, soft morning light",
+  "takeaway": "Catatan ini condong netral karena isi suratnya murni menegaskan tidak ada rahasia di balik gerakan harga, bukan kabar baik atau buruk baru bagi bisnis MHKI. Pos yang disentuh di sini adalah struktur kepemilikan pengendali, sebab kalau pemegang saham utama PT Multi Hanna Sinergitama melepas atau menambah porsi besar sahamnya, itu bisa mengubah hak suara dan porsi saham yang beredar bebas di pasar, hal yang pada akhirnya bisa memengaruhi laba per saham ke depan. Dalam surat ini perseroan memastikan belum ada rencana semacam itu dari pemegang saham utamanya. Yang perlu dipantau berikutnya adalah batas waktu tiga bulan yang disebut sendiri oleh manajemen, kira kira sampai akhir Januari 2027, karena jika ada tindakan korporasi dalam rentang itu perseroan wajib membuka keterbukaan informasi baru ke bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mapa-laba-bersih-9m2026-naik-25-5-ke-rp1-4-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MAPA: Laba Bersih 9M2026 [Naik] 25,5% ke Rp1,4 Triliun",
+  "deck": "Pendapatan bersih MAPA tumbuh 17,8 persen menjadi Rp16,4 triliun dalam sembilan bulan 2026, ditopang ekspansi gerai dan akuisisi Sports Direct Malaysia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:51:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5d5adaee3a_a84777dbc4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAPA",
+  "tags": [
+   "MAPA",
+   "laporan keuangan",
+   "ritel",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Map Aktif Adiperkasa Tbk (MAPA), anak usaha PT Mitra Adiperkasa Tbk yang menaungi bisnis sports, kids, dan leisure, melaporkan pendapatan bersih sembilan bulan pertama 2026 (9M2026) tumbuh 17,8 persen secara tahunan menjadi Rp16,4 triliun. Laba kotor perusahaan tercatat Rp7,7 triliun, sementara laba usaha naik 24,8 persen menjadi Rp2,1 triliun dan EBITDA mencapai Rp3,4 triliun. Laba bersih periode ini tumbuh lebih cepat dari pendapatan, yakni naik 25,5 persen menjadi Rp1,4 triliun.",
+   "Khusus kuartal ketiga 2026, pendapatan bersih MAPA naik 22,5 persen menjadi Rp6,3 triliun dengan laba kotor Rp3,0 triliun. Laba usaha kuartal ini tumbuh 23,7 persen menjadi Rp898 miliar dan EBITDA tercatat Rp1,4 triliun, sedangkan laba bersih naik 17,0 persen menjadi Rp578 miliar. Ratih Darmawan Gianda, VP Investor Relations, Corporate Communications and Sustainability MAP Group, menyebut kinerja ini ditopang respons positif konsumen selama musim Back-to-School dan Hari Kemerdekaan.",
+   "Dari sisi ekspansi, MAPA mengakuisisi Sports Direct di Malaysia sebagai bagian dari strategi memperkuat portofolio sports dan active lifestyle, sekaligus memperluas kehadirannya di pasar tersebut. Per akhir September 2026, perusahaan mengoperasikan lebih dari 40 merek eksklusif di lebih dari 2.400 gerai, mencakup format seperti Planet Sports.Asia, Sports Station, Foot Locker, Sports Direct, Golf House, dan Kidz Station. Manajemen menyebut kuartal keempat akan difokuskan pada optimalisasi inventori dan penyegaran produk untuk musim libur akhir tahun, sambil tetap berhati-hati menghadapi ketidakpastian ekonomi makro."
+  ],
+  "fotoAdegan": "Customers browsing racks of sneakers and sportswear inside a brightly lit retail store in a Jakarta shopping mall, late afternoon",
+  "takeaway": "Laporan ini condong positif bagi MAPA, karena pertumbuhan laba bersih yang lebih cepat dari pendapatan menunjukkan perusahaan tidak hanya menjual lebih banyak, tetapi juga menjaga efisiensi biaya di tengah ekspansi gerai dan akuisisi baru. Pos yang tersentuh di sini adalah laba per saham dan arus kas usaha, karena kenaikan EBITDA (ukuran laba sebelum bunga, pajak, dan penyusutan yang mencerminkan kas yang dihasilkan dari operasional inti) ke Rp3,4 triliun memberi perusahaan ruang lebih besar untuk membiayai ekspansi gerai tanpa harus banyak berutang. Yang perlu dipantau berikutnya adalah seberapa mulus integrasi Sports Direct Malaysia ke dalam operasional MAPA serta apakah momentum pertumbuhan kuartal ketiga ini bisa bertahan di kuartal keempat yang mengandalkan musim belanja akhir tahun, mengingat manajemen sendiri menyebut masih akan bersikap hati-hati menghadapi ketidakpastian makroekonomi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mapi-laba-bersih-9m2026-naik-25-1-jadi-rp2-1-t",
+  "category": "Aksi Korporasi",
+  "title": "MAPI: [Laba Bersih] 9M2026 Naik 25,1% Jadi Rp2,1 T",
+  "deck": "Pendapatan Mitra Adiperkasa tumbuh 24,5% dalam sembilan bulan 2026, diikuti ekspansi ke Malaysia lewat akuisisi Sports Direct dan distribusi eksklusif Musinsa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:49:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/406e00df33_2a5238b4df.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAPI",
+  "tags": [
+   "MAPI",
+   "ritel",
+   "laporan keuangan",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Mitra Adiperkasa Tbk (MAPI) melaporkan pendapatan bersih sembilan bulan pertama 2026 sebesar Rp37,4 triliun, naik 24,5% dibanding periode sama tahun lalu. Laba kotor perusahaan tercatat Rp15,3 triliun, laba usaha tumbuh 28,0% menjadi Rp3,2 triliun, EBITDA mencapai Rp6,0 triliun, dan laba bersih naik 25,1% menjadi Rp2,1 triliun.",
+   "Khusus kuartal ketiga 2026, pendapatan bersih MAPI tumbuh 26,7% menjadi Rp13,3 triliun, dengan laba kotor Rp5,5 triliun. Laba usaha kuartal ini melesat 37,6% menjadi Rp1,2 triliun, EBITDA Rp2,2 triliun, dan laba bersih naik 22,0% menjadi Rp676 miliar. Ratih Darmawan Gianda, VP Investor Relations, Corporate Communications and Sustainability MAP Group, menyebut pertumbuhan ini didukung portofolio merek yang beragam dan respons positif pelanggan selama musim Back-to-School serta Hari Kemerdekaan.",
+   "Selama kuartal tersebut, MAPI membawa masuk merek Ace Hardware, Creed, dan Parfois ke Indonesia, sekaligus memperluas jejak regional lewat akuisisi bisnis Sports Direct di Malaysia dan perjanjian distribusi eksklusif dengan Musinsa untuk Indonesia dan Malaysia. Perusahaan juga kembali masuk daftar '100 Biggest Companies' versi Fortune Indonesia 2026. Per akhir September 2026, MAPI mengoperasikan lebih dari 4.400 gerai ritel di lebih dari 80 kota di Indonesia dengan portofolio lebih dari 150 merek, ditambah kehadiran yang terus tumbuh di Asia Tenggara."
+  ],
+  "fotoAdegan": "Shoppers browsing clothing racks inside a bright multi-brand retail store, staff rearranging displays, late afternoon crowd",
+  "takeaway": "Laporan ini condong positif bagi MAPI, karena seluruh pos utama, mulai dari pendapatan, laba usaha, EBITDA, sampai laba bersih, tumbuh dua digit, bahkan laba usaha kuartal ketiga melesat 37,6%, jauh lebih cepat dari pertumbuhan pendapatannya. Itu artinya margin perusahaan ikut membaik, bukan sekadar penjualan naik karena toko bertambah. Kenaikan laba bersih 25,1% menjadi Rp2,1 triliun juga langsung menambah laba ditahan yang membesarkan modal sendiri atau ekuitas perusahaan, dan karena dokumen ini tidak menyebut tambahan jumlah saham beredar, kenaikan laba tersebut kemungkinan diikuti laba per saham yang ikut naik. Yang perlu dipantau selanjutnya adalah realisasi akuisisi Sports Direct di Malaysia dan kerja sama distribusi dengan Musinsa, apakah benar menambah pendapatan pada periode mendatang, serta kinerja kuartal keempat yang menurut manajemen jadi penentu di tengah musim belanja akhir tahun dan ketidakpastian ekonomi makro yang masih mereka waspadai.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pnmp-lunasi-sukuk-rp800-miliar-delisting-bei-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PNMP [Lunasi] Sukuk Rp800 Miliar, Delisting BEI 27 Oktober",
+  "deck": "PT Permodalan Nasional Madani melunasi pokok Sukuk Mudharabah Seri A senilai Rp800 miliar pada 27 Oktober 2026, bersamaan dengan penghapusan sukuk itu dari pencatatan BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:43:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/496984d109_5e76c40fcc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNMP",
+  "tags": [
+   "PNMP",
+   "sukuk",
+   "obligasi jatuh tempo",
+   "pelunasan pokok"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Sukuk Mudharabah Berwawasan Sosial Orange Berkelanjutan I PNM Tahap II Tahun 2025 Seri A, dengan kode seri SMPNMP01ASECN2 milik PT Permodalan Nasional Madani (PNMP), tidak lagi tercatat dan tidak dapat diperdagangkan di bursa mulai 27 Oktober 2026 karena telah jatuh tempo. Sukuk ini bernilai Rp800 miliar, diterbitkan 17 Oktober 2025 dengan jangka waktu 370 hari kalender.",
+   "Dalam surat terpisah kepada pemegang efek, Direksi PT Permodalan Nasional Madani memastikan akan melunasi pokok sukuk tersebut secara penuh pada 27 Oktober 2026, dengan indikasi bagi hasil 5,50 persen per tahun. Sukuk Seri A ini merupakan satu dari tiga seri dalam Tahap II program penawaran umum berkelanjutan PNM senilai total Rp1,02 triliun, yang juga mencakup Seri B senilai Rp110 miliar berjangka tiga tahun dengan bagi hasil 5,75 persen, jatuh tempo 17 Oktober 2028, dan Seri C senilai Rp110 miliar berjangka lima tahun dengan bagi hasil 6,00 persen, jatuh tempo 17 Oktober 2030. Program ini sendiri bagian dari target penghimpunan dana sukuk berkelanjutan PNM senilai Rp10 triliun, setelah Tahap I senilai Rp1,75 triliun diterbitkan lebih dulu.",
+   "Sukuk ini sebelumnya memperoleh peringkat idAAA(sy) dari Pefindo, peringkat tertinggi untuk instrumen syariah, dengan PT Bank KB Indonesia Tbk sebagai wali amanat. Dana hasil penerbitan dipakai PNM, perusahaan pembiayaan ultra mikro yang menaungi jaringan Mekaar dan UlaMM, untuk mendukung kegiatan pembiayaannya."
+  ],
+  "fotoAdegan": "A microfinance field officer collecting weekly savings from small market vendors in an Indonesian neighborhood, early morning light",
+  "takeaway": "Ini pelunasan yang terjadwal sejak sukuk diterbitkan setahun lalu, bukan kejadian mendadak, jadi penilaiannya netral, apalagi PNM sudah menyampaikan laporan kesiapan dana sebelum tanggal jatuh tempo sehingga tidak ada indikasi gagal bayar. Yang tersentuh di sini adalah pos utang dan kas perseroan. Rp800 miliar liabilitas sukuk akan hilang dari pembukuan setelah dibayar, tapi kas perseroan berkurang dalam jumlah yang sama, dan bagi perusahaan pembiayaan seperti PNM yang terus menerbitkan utang baru untuk membiayai kredit mikro, kemampuan membayar tepat waktu jadi sinyal penting soal kesehatan likuiditasnya. Yang perlu dipantau selanjutnya adalah dua seri lain dari program yang sama, Seri B senilai Rp110 miliar jatuh tempo 17 Oktober 2028 dan Seri C senilai Rp110 miliar jatuh tempo 17 Oktober 2030, serta kemungkinan penerbitan Tahap III dari target Rp10 triliun yang belum ditentukan jadwalnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "laba-chek-turun-43-di-kuartal-iii-meski-pendapatan-naik",
+  "category": "Aksi Korporasi",
+  "title": "Laba [CHEK] Turun 43% di Kuartal III Meski Pendapatan Naik",
+  "deck": "Laba bersih PT Diastika Biotekindo turun dari Rp14,23 miliar menjadi Rp8,07 miliar pada sembilan bulan pertama 2026, meski pendapatan naik 18 persen dan utang turun tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:39:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026185027-64542-0/FinancialStatement-2026-III-CHEK.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CHEK",
+  "tags": [
+   "CHEK",
+   "laba kuartal III",
+   "utang",
+   "saham treasuri"
+  ],
+  "body": [
+   "PT Diastika Biotekindo Tbk (CHEK) mencatat pendapatan Rp155,39 miliar untuk sembilan bulan pertama 2026, naik 18 persen dari Rp131,74 miliar pada periode yang sama tahun lalu. Namun laba bersih perusahaan alat kesehatan dan farmasi ini justru turun 43 persen, dari Rp14,23 miliar menjadi Rp8,07 miliar. Penyebabnya, beban usaha untuk umum dan administrasi melonjak 19 persen menjadi Rp41,66 miliar, sementara beban bunga naik lebih dari dua kali lipat dari Rp1,08 miliar menjadi Rp2,62 miliar. Laba per saham dasar ikut turun dari Rp4,54 menjadi Rp2,66.",
+   "Perusahaan menyampaikan surat penjelasan khusus ke Bursa Efek Indonesia dan OJK karena jumlah liabilitas turun lebih dari 20 persen dibandingkan laporan tahunan auditan terakhir, sesuai Peraturan Bursa No. 1-E. Jumlah liabilitas tercatat Rp20,43 miliar per 30 September 2026, turun 57,83 persen dari Rp48,45 miliar per akhir 2025. Manajemen menjelaskan penurunan ini terjadi karena perusahaan melunasi utang usaha kepada pemasok dan membayar utang bank sepanjang Januari hingga September 2026. Utang usaha pihak ketiga turun dari Rp28,61 miliar menjadi Rp16,69 miliar, dan utang bank jangka pendek turun dari Rp13,09 miliar menjadi Rp1,35 miliar. Jumlah aset ikut turun 12,31 persen menjadi Rp227,59 miliar.",
+   "Arus kas dari aktivitas operasi justru naik menjadi Rp8,15 miliar, tapi kas perusahaan tergerus oleh dua aktivitas lain. Pada sisi pendanaan, perusahaan membayar kembali pinjaman bank senilai Rp16,74 miliar dan membeli kembali saham sendiri atau saham treasuri senilai Rp11,99 miliar, yang untuk pertama kalinya muncul di laporan keuangan perusahaan sejak mencatatkan saham di bursa pada Juli 2025. Akibatnya, kas dan setara kas perusahaan turun dari Rp68,83 miliar di akhir 2025 menjadi Rp32,78 miliar per 30 September 2026, berkurang hampir separuh."
+  ],
+  "fotoAdegan": "Workers in a pharmaceutical warehouse stacking boxes of medical supplies onto pallets, forklift nearby, fluorescent lighting overhead",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham CHEK, karena pertumbuhan pendapatan 18 persen tidak berhasil terbawa ke laba bersih yang malah susut 43 persen akibat beban usaha dan beban bunga yang naik lebih cepat. Beban bunga adalah biaya yang harus dibayar perusahaan atas pinjaman bank, dan kenaikannya yang lebih dari dua kali lipat berarti utang yang ditarik perusahaan kini membebani laba lebih berat dari tahun lalu, sehingga laba per saham, yaitu bagian laba yang secara teoritis jadi milik setiap pemegang saham, ikut tergerus dari Rp4,54 menjadi Rp2,66. Pelunasan utang usaha dan utang bank memang membuat beban utang perusahaan jauh lebih ringan, tapi ongkosnya adalah kas yang menipis hampir separuh ditambah pembelian saham treasuri senilai hampir Rp12 miliar, sehingga bantalan uang tunai perusahaan kini lebih tipis dibanding akhir tahun lalu. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang wajib disampaikan paling lambat akhir Maret 2027, karena laporan itu akan menunjukkan apakah penurunan laba pada kuartal ketiga ini berlanjut sepanjang tahun atau terkoreksi pada kuartal terakhir.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "djp-rombak-aturan-pembayaran-pajak-sanksi-bisa-hapus-100",
   "category": "Makroekonomi",
   "title": "DJP Rombak Aturan Pembayaran Pajak, Sanksi Bisa [Hapus] 100%",
@@ -29,6 +265,162 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "takeaway": "Perubahan intinya ada di urutan pembayaran: kalau sebelumnya cicilan wajib pajak dibagi proporsional antara utang pajak pokok dan sanksinya, sekarang pembayaran dipakai melunasi utang pokok dulu, sisanya baru dihitung untuk sanksi atau denda keterlambatan. Ini dibarengi jadwal pengurangan sanksi yang menyusut cepat, dihapus seratus persen kalau bayar sampai 31 Desember 2026, lalu tinggal lima puluh persen pada Januari-Maret 2027, dan dua puluh lima persen pada April-Juni 2027. Yang terdampak adalah semua wajib pajak yang punya tunggakan pajak atau sanksi administratif, bukan cuma anggota PSMTI yang hadir di dialog ini. Jadwal yang menyusut tajam dalam hitungan bulan menunjukkan DJP mengarahkan wajib pajak untuk segera melunasi sebelum insentif terbesarnya hilang di akhir tahun, sejalan dengan tujuan resmi mereka mengejar target penerimaan negara 2026. Yang akan menunjukkan apakah dorongan ini berhasil adalah angka realisasi penerimaan pajak kuartal IV 2026, yang biasanya baru terlihat dalam laporan APBN awal tahun berikutnya.",
   "imageV": "mvp6tvtb"
+ },
+ {
+  "slug": "pgjo-dirikan-anak-usaha-baru-di-bisnis-logistik",
+  "category": "Aksi Korporasi",
+  "title": "PGJO Dirikan Anak Usaha Baru di Bisnis [Logistik]",
+  "deck": "Dua anak usaha PGJO, MMM dan SSS, mendirikan PT Mitra Samudera Logistik dengan modal disetor Rp500 juta untuk masuk ke jasa pengurusan transportasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:37:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/62a9586f6c_87da5dca75.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGJO",
+  "tags": [
+   "PGJO",
+   "anak usaha",
+   "transaksi afiliasi",
+   "logistik"
+  ],
+  "body": [
+   "PT Bahtera Bumi Raya Tbk (PGJO) melaporkan ke Otoritas Jasa Keuangan bahwa dua anak usahanya, PT Mega Mitra Marine (MMM) dan PT Samudera Sejahtera Shipping (SSS), mendirikan anak usaha baru bernama PT Mitra Samudera Logistik (MSL) yang berkedudukan di Jakarta Selatan. Pendirian ini dituangkan dalam Akta Pendirian No. 1 tanggal 5 Oktober 2026 di hadapan Notaris Grace Madeart Girsang, S.H., M.Kn., dan telah disahkan oleh Menteri Hukum Republik Indonesia lewat Surat Keputusan No. AHU-0084898.AH.01.01 tanggal 21 Oktober 2026. MSL akan bergerak di jasa pengurusan transportasi atau freight forwarding sesuai KBLI 52311.",
+   "Modal dasar MSL ditetapkan Rp2 miliar yang terbagi dalam 200.000 lembar saham dengan nilai nominal Rp10.000 per saham. Dari jumlah itu, modal ditempatkan dan disetor baru Rp500 juta atau 50.000 lembar saham, dengan rincian MMM memegang 49.500 lembar senilai Rp495 juta dan SSS memegang 500 lembar senilai Rp5 juta. Susunan pengurus MSL terdiri dari Willius Wijaya sebagai Komisaris dan Wang Zhongbang sebagai Direktur.",
+   "Perseroan menegaskan transaksi ini bukan transaksi material sesuai POJK No. 17/2020 karena nilainya tidak mencapai 20 persen dari total ekuitas Perseroan berdasarkan laporan keuangan per 30 Juni 2026. Namun transaksi ini tetap tergolong transaksi afiliasi menurut POJK No. 42/2020, meski tidak memerlukan persetujuan Rapat Umum Pemegang Saham maupun jasa penilai independen karena dilakukan antara perusahaan yang sahamnya dimiliki minimal 99 persen oleh Perseroan."
+  ],
+  "fotoAdegan": "Workers loading cargo pallets onto a truck at a logistics warehouse loading dock in Jakarta, overcast daylight",
+  "takeaway": "Transaksi ini netral bagi fundamental Perseroan karena skalanya kecil, modal disetor MSL hanya Rp500 juta, jauh di bawah ambang 20 persen ekuitas yang jadi ukuran OJK untuk transaksi material, sehingga tidak banyak mengubah kondisi keuangan grup secara keseluruhan. Pos yang tersentuh hanyalah ekuitas di level anak usaha lewat penyertaan modal MMM dan SSS ke MSL, bukan ekuitas Perseroan sendiri, dan jumlah saham PGJO yang beredar di bursa tidak berubah sama sekali karena ini murni transaksi internal antar anak usaha, bukan penerbitan saham baru ke publik. Secara bisnis, pendirian MSL yang bergerak di jasa pengurusan transportasi melengkapi lini usaha MMM dan SSS yang sama-sama bergerak di pelayaran, langkah yang masuk akal untuk memperpanjang rantai bisnis logistik grup meski belum terbukti menambah pendapatan karena unit usahanya baru berdiri. Yang perlu dipantau berikutnya adalah realisasi operasional MSL dan kontribusinya terhadap pendapatan konsolidasi grup pada laporan keuangan mendatang, karena dokumen ini tidak mencantumkan tenggat lanjutan selain tanggal pengesahan badan hukum pada 21 Oktober 2026 yang sudah terbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bris-rencanakan-buyback-saham-rp500-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Rencanakan [Buyback] Saham Rp500 Miliar",
+  "deck": "Bank Syariah Indonesia mengajukan rencana pembelian kembali saham senilai maksimal Rp500 miliar memanfaatkan aturan OJK untuk kondisi pasar yang berfluktuasi signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:36:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e80a044001_07cdfc2a24.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "buyback saham",
+   "Bank Syariah Indonesia",
+   "OJK"
+  ],
+  "body": [
+   "PT Bank Syariah Indonesia (Persero) Tbk (BRIS) mengumumkan rencana pembelian kembali sahamnya sendiri (buyback) dengan nilai maksimal Rp500 miliar. Rencana ini memakai jalur khusus yang dibuka Otoritas Jasa Keuangan lewat POJK Nomor 13 Tahun 2023 dan Surat OJK No. S-112/D.04/2026 tanggal 9 September 2026, yang mengizinkan emiten melakukan buyback tanpa harus menunggu persetujuan RUPS lebih dulu ketika pasar sedang berfluktuasi signifikan. Dana sebesar itu berasal dari kas internal perseroan, bukan dari dana hasil penawaran umum maupun dari pinjaman atau utang, dan nilainya tidak akan melebihi 20 persen dari modal disetor perseroan.",
+   "Keterbukaan informasi ini disampaikan ke OJK dan Bursa Efek Indonesia pada 26 Oktober 2026. Perseroan memperkirakan periode pembelian berlangsung mulai 27 Oktober 2026 hingga 26 Januari 2027, atau paling lama tiga bulan sejak keterbukaan informasi ini terbit. Transaksi akan dilakukan melalui Bursa Efek Indonesia lewat satu anggota bursa, dengan harga yang menurut perseroan dianggap wajar sesuai POJK 13/2023, baik secara bertahap maupun sekaligus.",
+   "Dalam dokumen yang sama, BRIS memaparkan simulasi dampak buyback terhadap laporan keuangan per 30 Juni 2026. Total aset diperkirakan turun dari Rp464,5 triliun menjadi Rp464,0 triliun, dan total ekuitas turun dari Rp51,04 triliun menjadi Rp50,54 triliun, keduanya berkurang sebesar nilai buyback yakni maksimal Rp500 miliar. Laba bersih diperkirakan tetap di Rp4,16 triliun, sementara laba bersih per saham naik tipis dari Rp90,09 menjadi Rp91,06. Rasio kecukupan modal (CAR) turun dari 20,41 persen menjadi 20,19 persen, sedangkan rasio laba terhadap ekuitas (ROE) naik dari 18,14 persen menjadi 18,18 persen. Keterbukaan informasi ini ditandatangani secara elektronik oleh Wisnu Sunandar selaku Senior Vice President perseroan."
+  ],
+  "fotoAdegan": "Customers and tellers inside a modern Islamic bank branch lobby in Jakarta, marble floors, soft morning daylight.",
+  "takeaway": "Laporan ini netral bagi BRIS, sebab nilai buyback yang direncanakan hanya sekitar satu persen dari total ekuitas perseroan dan perseroan sendiri menyatakan tidak ada perubahan signifikan pada indikator keuangannya. Pos yang tersentuh adalah ekuitas, yaitu modal bersih pemegang saham, yang berpotensi berkurang maksimal Rp500 miliar karena dibayar dari kas internal, sementara laba per saham, yakni bagian laba yang jatuh ke setiap lembar saham, justru naik tipis karena jumlah saham yang beredar di pasar berkurang. Rasio kecukupan modal atau CAR, ukuran ketahanan bank menyerap risiko kerugian, juga turun sedikit tapi tetap jauh di atas ambang aman perbankan syariah. Yang perlu dipantau selanjutnya adalah realisasi transaksi selama periode 27 Oktober 2026 hingga 26 Januari 2027, termasuk berapa banyak saham yang benar-benar dibeli dan pada harga berapa, karena dokumen ini baru memuat perkiraan plafon, bukan angka realisasi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "alii-jelaskan-volatilitas-afiliasi-rathod-beli-12-6-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "ALII Jelaskan Volatilitas, Afiliasi Rathod Beli [12,6 Juta] Saham",
+  "deck": "ALII menjawab permintaan BEI soal volatilitas transaksi saham, pengendali dan perusahaan afiliasinya tercatat membeli saham, sementara kinerja angkutan batu bara disebut meningkat dari tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:34:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6fa560ae09_912bfbdeaf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ALII",
+  "tags": [
+   "ALII",
+   "volatilitas saham",
+   "pemegang saham",
+   "Ancara Logistics"
+  ],
+  "body": [
+   "PT Ancara Logistics Indonesia Tbk (ALII) merespons permintaan penjelasan dari Bursa Efek Indonesia (BEI) soal volatilitas transaksi sahamnya, yang disampaikan BEI melalui surat tertanggal 22 Oktober 2026. Dalam surat balasan bernomor 0347/ALI-CORSEC/X/26 yang ditandatangani Direktur Vishal Manharlal Parekh dan Direktur sekaligus Corporate Secretary Aulia pada 26 Oktober 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat mempengaruhi nilai efek atau keputusan investasi pemodal sebagaimana diatur POJK 31/2015.",
+   "Meski begitu, perseroan mengonfirmasi mengetahui aktivitas pemegang saham tertentu sesuai POJK Nomor 4/2024 tentang laporan kepemilikan saham. Nalinkant Amratlal Rathod, pengendali sekaligus Komisaris Utama ALII, membeli 296.700 lembar saham yang telah dilaporkan ke sistem KSEI pada 21 Oktober 2026. Secara terpisah, PT Solomed Property, pihak yang terafiliasi dengan pemegang saham pengendali, membeli 12.648.500 lembar saham. Perseroan menjelaskan bahwa transaksi Solomed ini tidak wajib dilaporkan lewat sistem KSEI berdasarkan POJK 4/2024 yang berlaku saat ini, berbeda dari aturan sebelumnya (POJK 11/2017) yang mewajibkan keterbukaan atas laporan kepemilikan semacam itu.",
+   "Dalam jawaban yang sama, perseroan menyebut kinerja operasional menunjukkan peningkatan dibandingkan tahun lalu, baik dari volume batu bara yang diangkut maupun laba perusahaan, tanpa merinci angkanya. Pemegang saham utama atau pengendali, melalui konfirmasi kepada corporate secretary, menyatakan belum memiliki rencana lain terkait kepemilikan sahamnya di ALII, dan perseroan menegaskan tidak ada informasi material lain yang belum diungkapkan kepada publik."
+  ],
+  "fotoAdegan": "A coal barge loaded to the waterline moving along a wide river, tugboat alongside, port cranes in the distant background, overcast sky",
+  "takeaway": "Laporan ini netral bagi ALII: pembelian saham oleh pengendali maupun afiliasinya sama-sama tergolong kecil secara proporsional terhadap total saham beredar perseroan, jadi belum bisa dibaca sebagai sinyal kuat ke arah mana pun, meski keduanya adalah pembelian bukan penjualan. Transaksi semacam ini terjadi di pasar sekunder antar-pemegang saham, sehingga tidak mengubah jumlah saham beredar perusahaan maupun laba per sahamnya, yang bergeser hanyalah konsentrasi hak suara di tangan kelompok pengendali, dan itu sebabnya pelaku pasar tetap memantau pola akumulasi semacam ini dari waktu ke waktu. Yang perlu dicermati berikutnya adalah apakah BEI akan meminta klarifikasi lanjutan setelah jawaban tertanggal 26 Oktober 2026 ini, serta apakah PT Solomed Property atau Rathod kembali menambah saham dalam waktu dekat, mengingat pengendali sendiri menyatakan belum memiliki rencana pasti atas kepemilikannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mapi-liabilitas-naik-23-8-usai-akuisisi-sports-direct-malaysia",
+  "category": "Aksi Korporasi",
+  "title": "MAPI: Liabilitas Naik 23,8% Usai Akuisisi [Sports Direct Malaysia]",
+  "deck": "Liabilitas MAPI naik 23,8% dalam sembilan bulan, didorong utang pembelian saham Rp1,9 triliun untuk mengakuisisi Sports Direct Malaysia yang kini dikonsolidasikan penuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:24:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026184354-64639-0/FinancialStatement-2026-III-MAPI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAPI",
+  "tags": [
+   "MAPI",
+   "akuisisi",
+   "liabilitas",
+   "Sports Direct Malaysia"
+  ],
+  "body": [
+   "PT Mitra Adiperkasa Tbk (MAPI) menyampaikan kepada Bursa Efek Indonesia bahwa jumlah liabilitas konsolidasian perseroan dan entitas anak per 30 September 2026 naik 23,8% dibandingkan 31 Desember 2025, dari Rp15,61 triliun menjadi Rp19,33 triliun. Dalam surat yang ditandatangani Corporate Secretary Eva Andrianie tertanggal 26 Oktober 2026, perseroan menjelaskan bahwa penyebab utama kenaikan adalah penambahan utang pembelian saham sebesar Rp1,9 triliun terkait akuisisi entitas anak baru, Sports Direct Malaysia Sdn. Bhd.",
+   "Dalam laporan posisi keuangan, utang pembelian saham tercatat Rp540,7 miliar sebagai liabilitas jangka pendek dan Rp1,37 triliun sebagai liabilitas jangka panjang, atau sekitar Rp1,91 triliun secara total, padahal pos ini nol pada akhir 2025. Sejalan dengan itu, pos goodwill dan aset tak berwujud lainnya melonjak dari Rp91,6 miliar menjadi Rp1,91 triliun, mengonfirmasi munculnya akuisisi baru tersebut. Sports Direct Malaysia Sdn. Bhd sendiri tercatat sebagai entitas anak baru dengan kepemilikan 100%, bergerak di penjualan retail di Malaysia yang sudah beroperasi sejak 2011, dengan total aset Rp1,29 triliun. Pada laporan arus kas, perseroan mencatat kas keluar Rp394,1 miliar untuk pos akuisisi entitas anak dalam aktivitas investasi.",
+   "Secara keseluruhan, total aset konsolidasi MAPI naik dari Rp32,82 triliun menjadi Rp38,75 triliun, sementara jumlah ekuitas juga bertambah dari Rp17,21 triliun menjadi Rp19,42 triliun. Dengan demikian rasio liabilitas terhadap ekuitas bergerak dari sekitar 0,91 kali menjadi hampir 1 kali. Laporan ini merupakan bagian dari penyampaian laporan keuangan interim sembilan bulan 2026 yang tidak diaudit, sebagaimana diwajibkan BEI, dan mencakup daftar 141 entitas anak beserta persentase kepemilikan dan nilai asetnya masing-masing."
+  ],
+  "fotoAdegan": "Rows of sneakers and folded sportswear displayed inside a modern retail store, shoppers browsing aisles, bright interior lighting",
+  "takeaway": "Laporan ini condong netral bagi MAPI: kenaikan liabilitas 23,8% memang besar, tetapi dananya dipakai untuk membeli bisnis ritel yang sudah berjalan, yakni Sports Direct Malaysia, dan diimbangi pertumbuhan ekuitas yang sepadan, sehingga belum bisa dibaca sebagai tanda tekanan keuangan. Pos yang tersentuh adalah liabilitas dan ekuitas, utang pembelian saham Rp1,9 triliun membuat rasio utang terhadap modal sendiri naik dari sekitar 0,91 kali mendekati 1 kali, rasio ini penting karena menunjukkan seberapa besar perusahaan mengandalkan utang dibanding modal sendiri untuk membiayai asetnya. Goodwill yang melonjak dari Rp91,6 miliar jadi Rp1,91 triliun juga perlu diawasi karena nilai ini bisa terpaksa dihapus sebagian kalau kinerja Sports Direct Malaysia ke depan tidak sesuai perkiraan saat akuisisi. Yang perlu dipantau berikutnya adalah pelunasan utang pembelian saham ini, terutama porsi Rp540,7 miliar yang tercatat jatuh tempo dalam waktu dekat, serta mulai terlihatnya kontribusi pendapatan Sports Direct Malaysia pada laporan kuartal mendatang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbld-tambah-fasilitas-kredit-rp500-miliar-dari-bank-danamon",
+  "category": "Aksi Korporasi",
+  "title": "BBLD Tambah [Fasilitas Kredit] Rp500 Miliar dari Bank Danamon",
+  "deck": "Buana Finance menambah pinjaman Rp500 miliar dari Bank Danamon, membuat total utang perusahaan jadi Rp2,15 triliun atau 152,73 persen dari ekuitas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:15:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/33dcf872e8_84ff6b402b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBLD",
+  "tags": [
+   "BBLD",
+   "Buana Finance",
+   "fasilitas kredit",
+   "Bank Danamon"
+  ],
+  "body": [
+   "Buana Finance Tbk (BBLD) menandatangani Perjanjian Fasilitas Kredit dengan PT Bank Danamon Indonesia Tbk pada Senin, 26 Oktober 2026. Fasilitas berupa Term Loan sebesar Rp500 miliar dengan tenor maksimal 48 bulan. Perjanjian ini diteken oleh Direktur BBLD, Mariana Setyadi, dan dilaporkan ke Bursa Efek Indonesia oleh Corporate Secretary Ahmad Khaetami.",
+   "Dengan tambahan ini, total pinjaman BBLD saat ini mencapai Rp2,15 triliun, setara 152,73 persen dari ekuitas perusahaan per 31 Desember 2025. Nilai transaksi baru ini sendiri, Rp500 miliar, setara 35,53 persen dari ekuitas, sehingga tergolong transaksi material menurut POJK Nomor 17/2020. Namun BBLD tidak wajib memakai jasa penilai independen maupun meminta persetujuan RUPS, karena aturan tersebut mengecualikan pinjaman yang diterima langsung dari bank.",
+   "Perusahaan menyatakan dana ini akan dipakai untuk modal kerja, yakni menyalurkan kembali sebagai pembiayaan konsumen dan sewa guna usaha (leasing), bisnis utama BBLD sebagai perusahaan pembiayaan. Transaksi ini bukan transaksi afiliasi maupun transaksi yang mengandung benturan kepentingan. BBLD menyebut tidak ada dampak material terhadap kondisi keuangan atau kelangsungan usaha selain kewajiban membayar bunga dan pokok pinjaman secara berkala."
+  ],
+  "fotoAdegan": "Rows of new motorcycles and cars parked outside a financing company branch office in Jakarta at midday, customers walking past",
+  "takeaway": "Penilaian saya netral: ini pendanaan rutin yang memang dibutuhkan perusahaan pembiayaan untuk menyalurkan kredit konsumen dan leasing, bukan tanda darurat kas, tapi juga bukan kabar yang mengubah arah bisnis. Pos yang tersentuh adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas utangnya, karena total pinjaman BBLD kini 152,73 persen dari ekuitas, jauh di atas modal sendirinya, jadi kewajiban bayar bunga dan pokok akan membesar seiring fasilitas ini dipakai. Yang perlu dipantau selanjutnya adalah bagaimana dana Rp500 miliar ini benar-benar disalurkan jadi kredit baru ke nasabah, serta jatuh tempo fasilitas 48 bulan dari 26 Oktober 2026, sekitar Oktober 2030, saat pokok pinjaman harus mulai dilunasi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bmri-jawab-lagi-permintaan-bursa-soal-kredit-jhonlin",
+  "category": "Aksi Korporasi",
+  "title": "BMRI Jawab Lagi Permintaan Bursa soal Kredit [Jhonlin]",
+  "deck": "Bursa Efek Indonesia meminta penjelasan lanjutan dari Bank Mandiri soal kredit ke PT Jhonlin Baratama, termasuk agunan saham JARR dan PGUN serta kaitannya dengan Bayan Resources.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:13:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24d24b287a_aabaa37f8c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "Jhonlin Baratama",
+   "Bayan Resources",
+   "kredit perbankan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) melayangkan surat bernomor S-13310/BEI.PP1/10-2026 tertanggal 21 Oktober 2026 kepada PT Bank Mandiri (Persero) Tbk (BMRI), meminta penjelasan lanjutan atas fasilitas kredit yang diberikan bank itu kepada PT Jhonlin Baratama. Permintaan ini merupakan susulan dari jawaban Bank Mandiri sebelumnya pada 16 Oktober 2026, yang menyebut kredit tersebut bukan untuk aktivitas perdagangan saham, melainkan untuk belanja modal dan pembiayaan Jhonlin Group. Bank Mandiri, lewat Corporate Secretary Adhika Vista, menyampaikan tanggapan lanjutannya pada 26 Oktober 2026, sesuai tenggat dua hari bursa yang ditetapkan otoritas bursa.",
+   "Bursa meminta rincian plafon kredit dan ruang lingkup penggunaannya, termasuk apakah fasilitas itu terkait dengan kegiatan bisnis bersama PT Bayan Resources Tbk (BYAN) atau emiten lain, mekanisme pemantauan dananya, serta ada tidaknya kebijakan sinking fund atau dana cadangan pelunasan. Soal kemampuan bayar, Bursa menanyakan sejauh mana arus kas operasional Jhonlin Baratama dan dividen dari anak usahanya diperhitungkan, serta apakah bank sudah menguji skenario penurunan harga batu bara atau dividen yang tidak terealisasi.",
+   "Bagian paling rinci menyangkut agunan kredit. Selain aset tetap dan rekening perusahaan, fasilitas ini juga dijamin dengan gadai saham JARR dan PGUN yang disebut sebagai saham afiliasi Jhonlin Baratama. Bursa meminta Bank Mandiri menjelaskan rasio kecukupan agunan terhadap nilai kredit, metode penilaian wajar atas aset selain saham, termasuk apakah memakai penilai independen, serta dasar penetapan nilai saham JARR dan PGUN sebagai agunan tambahan, mulai dari tanggal akad, harga pasar saat itu, jumlah saham yang diagunkan, hingga penerapan batas maksimum 50 persen sesuai Pasal 4 POJK 40/POJK.03/2017 dan ada tidaknya potongan nilai (haircut) akibat volatilitas harga dan konsentrasi kepemilikan saham PGUN. Bursa juga meminta Bank Mandiri mengungkapkan informasi material lain terkait hal ini yang belum disampaikan ke publik."
+  ],
+  "fotoAdegan": "Loaded coal haul trucks queued near a mine stockpile under an overcast sky, heavy machinery in the distance",
+  "takeaway": "Laporan ini condong negatif bagi Bank Mandiri, karena Bursa kembali bertanya setelah jawaban pertama dianggap belum cukup, tanda masih ada celah informasi soal eksposur kredit besar ke kelompok usaha yang namanya sudah disorot terkait dugaan keterkaitan dengan transaksi saham Bayan Resources. Yang tersentuh di sini adalah kualitas kredit bank, bukan laba atau arus kas langsung: kalau agunan berupa saham JARR dan PGUN ternyata dinilai terlalu tinggi atau terlalu terkonsentrasi di satu pemilik sehingga sulit dijual saat dibutuhkan, cadangan kerugian kredit yang harus disisihkan bank bisa membesar. Rasio kecukupan agunan yang ditanyakan Bursa, sederhananya, mengukur apakah nilai barang jaminan itu cukup untuk menutup utang jika debitur gagal bayar. Yang perlu dipantau selanjutnya adalah apakah Bursa menerima jawaban Bank Mandiri pada 26 Oktober 2026 ini sebagai penjelasan final, atau justru mengirim permintaan susulan lagi seperti yang sudah terjadi dua kali.",
+  "sentimen": "negatif"
  },
  {
   "slug": "city-gelar-public-expose-9-november-laba-naik-50",

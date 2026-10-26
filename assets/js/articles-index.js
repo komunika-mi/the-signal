@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bach-naikkan-fasilitas-pinjaman-ke-rp350-miliar-dari-smbc",
+  "category": "Aksi Korporasi",
+  "title": "BACH Naikkan Fasilitas Pinjaman ke [Rp350 Miliar] dari SMBC",
+  "deck": "Bach Multi Global dan anak usahanya menambah fasilitas pinjaman dari Bank SMBC Indonesia sebesar Rp100 miliar, sehingga total fasilitas naik menjadi Rp350 miliar dengan tenor sampai Oktober 2027.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BACH",
+   "transaksi material",
+   "fasilitas pinjaman",
+   "SMBC Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2307db6b75_30dd2e7fe4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "materi-public-expose-lapd-ungkap-ekuitas-negatif-rp2-65-m",
+  "category": "Aksi Korporasi",
+  "title": "Materi Public Expose LAPD Ungkap [Ekuitas Negatif] Rp2,65 M",
+  "deck": "Materi public expose tahunan LAPD membeberkan ekuitas negatif Rp2,65 miliar per Juni 2026, serta rencana rights issue Rp60 miliar untuk akuisisi kontraktor tambang BSS senilai Rp38,85 miliar.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "ekuitas negatif",
+   "pertambangan batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/db6bba2fa2_c72ee69838.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smii-koreksi-laporan-keuangan-laba-semester-i-naik-16",
+  "category": "Aksi Korporasi",
+  "title": "SMII Koreksi Laporan Keuangan, Laba Semester I Naik [16%]",
+  "deck": "SMII mengoreksi laporan keuangan semester I 2026 usai pemeriksaan OJK, dampaknya kecil, sementara laba bersih perseroan naik 16,13 persen menjadi Rp1,36 triliun.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMII",
+   "laporan keuangan",
+   "OJK",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026191429-64939-0/FinancialStatement-2026-II-SMII.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmri-laba-bank-mandiri-melonjak-20-7-ke-rp45-5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BMRI: Laba Bank Mandiri [Melonjak] 20,7% ke Rp45,5 Triliun",
+  "deck": "Bank Mandiri catat laba bersih Rp45,5 triliun hingga kuartal III 2026, kredit dan dana pihak ketiga tumbuh dua digit, kualitas aset justru membaik.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMRI",
+   "Bank Mandiri",
+   "laba bersih",
+   "kinerja kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/40e52a8ced_70b5eb50bd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mhki-jelaskan-volatilitas-transaksi-klaim-tak-ada-info-baru",
+  "category": "Aksi Korporasi",
+  "title": "MHKI [Jelaskan] Volatilitas Transaksi, Klaim Tak Ada Info Baru",
+  "deck": "MHKI menyatakan ke BEI tidak ada informasi material atau rencana tindakan korporasi di balik volatilitas harga sahamnya, termasuk dari pemegang saham utama.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MHKI",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dc0a703da0_dc9a49a58e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mapa-laba-bersih-9m2026-naik-25-5-ke-rp1-4-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MAPA: Laba Bersih 9M2026 [Naik] 25,5% ke Rp1,4 Triliun",
+  "deck": "Pendapatan bersih MAPA tumbuh 17,8 persen menjadi Rp16,4 triliun dalam sembilan bulan 2026, ditopang ekspansi gerai dan akuisisi Sports Direct Malaysia.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAPA",
+   "laporan keuangan",
+   "ritel",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5d5adaee3a_a84777dbc4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mapi-laba-bersih-9m2026-naik-25-1-jadi-rp2-1-t",
+  "category": "Aksi Korporasi",
+  "title": "MAPI: [Laba Bersih] 9M2026 Naik 25,1% Jadi Rp2,1 T",
+  "deck": "Pendapatan Mitra Adiperkasa tumbuh 24,5% dalam sembilan bulan 2026, diikuti ekspansi ke Malaysia lewat akuisisi Sports Direct dan distribusi eksklusif Musinsa.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAPI",
+   "ritel",
+   "laporan keuangan",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/406e00df33_2a5238b4df.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnmp-lunasi-sukuk-rp800-miliar-delisting-bei-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PNMP [Lunasi] Sukuk Rp800 Miliar, Delisting BEI 27 Oktober",
+  "deck": "PT Permodalan Nasional Madani melunasi pokok Sukuk Mudharabah Seri A senilai Rp800 miliar pada 27 Oktober 2026, bersamaan dengan penghapusan sukuk itu dari pencatatan BEI.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNMP",
+   "sukuk",
+   "obligasi jatuh tempo",
+   "pelunasan pokok"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/496984d109_5e76c40fcc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-chek-turun-43-di-kuartal-iii-meski-pendapatan-naik",
+  "category": "Aksi Korporasi",
+  "title": "Laba [CHEK] Turun 43% di Kuartal III Meski Pendapatan Naik",
+  "deck": "Laba bersih PT Diastika Biotekindo turun dari Rp14,23 miliar menjadi Rp8,07 miliar pada sembilan bulan pertama 2026, meski pendapatan naik 18 persen dan utang turun tajam.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CHEK",
+   "laba kuartal III",
+   "utang",
+   "saham treasuri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026185027-64542-0/FinancialStatement-2026-III-CHEK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "djp-rombak-aturan-pembayaran-pajak-sanksi-bisa-hapus-100",
   "category": "Makroekonomi",
   "title": "DJP Rombak Aturan Pembayaran Pajak, Sanksi Bisa [Hapus] 100%",
@@ -21,6 +165,102 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/dorong-kepastian-hukum-kanwil-djp-sulselbartra-bedah-pmk-712026-dan-kep-2392026-di",
   "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "pgjo-dirikan-anak-usaha-baru-di-bisnis-logistik",
+  "category": "Aksi Korporasi",
+  "title": "PGJO Dirikan Anak Usaha Baru di Bisnis [Logistik]",
+  "deck": "Dua anak usaha PGJO, MMM dan SSS, mendirikan PT Mitra Samudera Logistik dengan modal disetor Rp500 juta untuk masuk ke jasa pengurusan transportasi.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGJO",
+   "anak usaha",
+   "transaksi afiliasi",
+   "logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/62a9586f6c_87da5dca75.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bris-rencanakan-buyback-saham-rp500-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Rencanakan [Buyback] Saham Rp500 Miliar",
+  "deck": "Bank Syariah Indonesia mengajukan rencana pembelian kembali saham senilai maksimal Rp500 miliar memanfaatkan aturan OJK untuk kondisi pasar yang berfluktuasi signifikan.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIS",
+   "buyback saham",
+   "Bank Syariah Indonesia",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e80a044001_07cdfc2a24.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "alii-jelaskan-volatilitas-afiliasi-rathod-beli-12-6-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "ALII Jelaskan Volatilitas, Afiliasi Rathod Beli [12,6 Juta] Saham",
+  "deck": "ALII menjawab permintaan BEI soal volatilitas transaksi saham, pengendali dan perusahaan afiliasinya tercatat membeli saham, sementara kinerja angkutan batu bara disebut meningkat dari tahun lalu.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ALII",
+   "volatilitas saham",
+   "pemegang saham",
+   "Ancara Logistics"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6fa560ae09_912bfbdeaf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mapi-liabilitas-naik-23-8-usai-akuisisi-sports-direct-malaysia",
+  "category": "Aksi Korporasi",
+  "title": "MAPI: Liabilitas Naik 23,8% Usai Akuisisi [Sports Direct Malaysia]",
+  "deck": "Liabilitas MAPI naik 23,8% dalam sembilan bulan, didorong utang pembelian saham Rp1,9 triliun untuk mengakuisisi Sports Direct Malaysia yang kini dikonsolidasikan penuh.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAPI",
+   "akuisisi",
+   "liabilitas",
+   "Sports Direct Malaysia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026184354-64639-0/FinancialStatement-2026-III-MAPI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbld-tambah-fasilitas-kredit-rp500-miliar-dari-bank-danamon",
+  "category": "Aksi Korporasi",
+  "title": "BBLD Tambah [Fasilitas Kredit] Rp500 Miliar dari Bank Danamon",
+  "deck": "Buana Finance menambah pinjaman Rp500 miliar dari Bank Danamon, membuat total utang perusahaan jadi Rp2,15 triliun atau 152,73 persen dari ekuitas.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBLD",
+   "Buana Finance",
+   "fasilitas kredit",
+   "Bank Danamon"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/33dcf872e8_84ff6b402b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmri-jawab-lagi-permintaan-bursa-soal-kredit-jhonlin",
+  "category": "Aksi Korporasi",
+  "title": "BMRI Jawab Lagi Permintaan Bursa soal Kredit [Jhonlin]",
+  "deck": "Bursa Efek Indonesia meminta penjelasan lanjutan dari Bank Mandiri soal kredit ke PT Jhonlin Baratama, termasuk agunan saham JARR dan PGUN serta kaitannya dengan Bayan Resources.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMRI",
+   "Jhonlin Baratama",
+   "Bayan Resources",
+   "kredit perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24d24b287a_aabaa37f8c.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "city-gelar-public-expose-9-november-laba-naik-50",
@@ -6197,246 +6437,6 @@ var ARTICLES = [
    "tata kelola perusahaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/faee3c2171_e0bc335ee5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beef-pemegang-saham-tambah-44-7-juta-saham-suara-ke-7-07",
-  "category": "Aksi Korporasi",
-  "title": "BEEF: [Pemegang Saham] Tambah 44,7 Juta Saham, Suara ke 7,07%",
-  "deck": "Pemegang saham Dimas Wibowo menambah 44,7 juta lembar saham BEEF lewat pembelian tidak langsung pada Juli 2026, mengangkat hak suaranya dari 6,52 persen menjadi 7,07 persen.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEEF",
-   "Estika Tata Tiara",
-   "pemegang saham",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-8147-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bq-tetapkan-tanggal-pelaksanaan-waran-bqcv6a-30-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BQ Tetapkan Tanggal Pelaksanaan Waran [BQCV6A] 30 Oktober",
-  "deck": "PT Korea Investment and Sekuritas Indonesia (BQ) menjadwalkan pelaksanaan otomatis 22 waran terstruktur BQCV6A pada 30 Oktober 2026, mencakup waran berbasis ASII, TLKM, SMGR, dan saham lain.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BQ",
-   "waran terstruktur",
-   "BQCV6A",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c1f4310ade_2d46e873b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-rombak-komite-audit-ignasius-jonan-jadi-ketua",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Rombak [Komite Audit], Ignasius Jonan Jadi Ketua",
-  "deck": "United Tractors mengangkat Ignasius Jonan sebagai Ketua Komite Audit dan menambah Budi Frensidy sebagai anggota baru, efektif 15 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "komite audit",
-   "tata kelola korporasi",
-   "Ignasius Jonan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0b0cf5d5c9_88322af3c7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lpin-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "LPIN Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "Multi Prima Sejahtera menjawab surat BEI 15 Oktober 2026, menyatakan tidak ada info material maupun rencana korporasi yang menjelaskan pergerakan harga sahamnya.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPIN",
-   "Multi Prima Sejahtera",
-   "BEI",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9c1d963eae_2ea9131f4f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "intp-dirut-christian-kartawijaya-mundur-jose-vadillo-gantikan",
-  "category": "Aksi Korporasi",
-  "title": "INTP: Dirut Christian Kartawijaya [Mundur], Jose Vadillo Gantikan",
-  "deck": "Direktur Utama Christian Kartawijaya mundur karena pensiun dan Komisaris Juan Francisco Defalque mundur karena alasan pribadi; RUPSLB 3 Desember 2026 menetapkan pengganti.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INTP",
-   "pergantian direksi",
-   "komisaris",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/54e1575e77_72879d0250.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beef-pemegang-saham-tambah-14-2-juta-saham-ke-6-08",
-  "category": "Aksi Korporasi",
-  "title": "BEEF: Pemegang Saham [Tambah] 14,2 Juta Saham ke 6,08%",
-  "deck": "Dimas Wibowo membeli 14,2 juta saham BEEF secara tidak langsung sepanjang 25 Juni 2026, mengangkat hak suaranya dari 5,91 persen menjadi 6,08 persen.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEEF",
-   "pemegang saham",
-   "kepemilikan saham",
-   "Estika Tata Tiara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-5017-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cnko-rupslb-ketiga-lagi-lagi-gagal-capai-kuorum",
-  "category": "Aksi Korporasi",
-  "title": "CNKO: RUPSLB Ketiga Lagi-Lagi Gagal Capai [Kuorum]",
-  "deck": "RUPSLB ketiga Exploitasi Energi Indonesia (CNKO) untuk mengubah anggaran dasar gagal terlaksana karena kehadiran pemegang saham hanya 46,9 persen, di bawah syarat minimum 48 persen.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CNKO",
-   "RUPSLB",
-   "anggaran dasar",
-   "kuorum pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1446c4a754_22145c504d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jecx-komisaris-tambah-200-000-saham-total-sepekan-380-000",
-  "category": "Aksi Korporasi",
-  "title": "JECX: Komisaris [Tambah] 200.000 Saham, Total Sepekan 380.000",
-  "deck": "Komisaris JECX Dr. Admar Anwar membeli 200.000 saham senilai sekitar Rp302 juta pada 16 Oktober, melanjutkan rangkaian pembelian yang totalnya 380.000 lembar sepekan ini.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "Admar Anwar",
-   "kepemilikan saham",
-   "dewan komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-6051-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-tunda-rupslb-ke-29-oktober-ojk-minta-klarifikasi",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Tunda RUPSLB ke 29 Oktober, OJK Minta [Klarifikasi]",
-  "deck": "RUPSLB LAPD yang semula 20 Oktober ditunda ke 29 Oktober 2026 setelah OJK minta tambahan klarifikasi soal rencana PMHMETD II, transaksi material, dan transaksi afiliasi.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "RUPSLB",
-   "OJK",
-   "PMHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fabac395eb_821bcb6d47.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-topup-saham-via-repo-suara-ke-32-01",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Topup Saham via [Repo], Suara ke 32,01%",
-  "deck": "Direksi NSSS lewat Samuel Sekuritas Indonesia menjual 138,15 juta saham lalu membeli kembali 242,32 juta saham lewat mekanisme repo, hak suaranya naik ke 32,01 persen.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "repo saham",
-   "direksi",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-0453-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-direksi-lepas-saham-lewat-repo-hak-suara-ke-4-58",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Lepas Saham Lewat Repo, Hak Suara ke [4,58%]",
-  "deck": "Direksi RLCO melaporkan penjualan 40,07 juta saham lewat pencairan perjanjian repo pada 19 Oktober 2026, memangkas kepemilikannya dari 5,86% menjadi 4,58% hak suara.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-1221-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bold-lunasi-obligasi-rp503-15-m-dan-kupon-rp9-43-m",
-  "category": "Aksi Korporasi",
-  "title": "BOLD Lunasi [Obligasi] Rp503,15 M dan Kupon Rp9,43 M",
-  "deck": "PT Bukit Makmur Mandiri Utama (BOLD) melunasi pokok dan kupon Obligasi III BUMA Tahun 2025 Seri A senilai total sekitar Rp512,58 miliar pada 19 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLD",
-   "obligasi korporasi",
-   "pelunasan utang",
-   "Bukit Makmur Mandiri Utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2504fa7221_0d52eb4137.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-revisi-periode-buyback-berakhir-lebih-cepat-ke-31-desember",
-  "category": "Aksi Korporasi",
-  "title": "TPIA Revisi [Periode] Buyback, Berakhir Lebih Cepat ke 31 Desember",
-  "deck": "Chandra Asri Pacific mengoreksi ulang jadwal buyback saham senilai maksimal Rp1 triliun, mempersingkat periode pembelian dari semula berakhir 19 Januari 2027 menjadi 31 Desember 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "buyback saham",
-   "Chandra Asri Pacific",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9bfe110ef9_e75b96abcf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akku-gelar-paparan-publik-usai-suspensi-saham-oleh-bei",
-  "category": "Aksi Korporasi",
-  "title": "AKKU Gelar Paparan Publik usai [Suspensi] Saham oleh BEI",
-  "deck": "BEI meminta AKKU menggelar paparan publik insidentil pada 21 Oktober 2026 di Bandung untuk menjelaskan suspensi Cooling Down sahamnya sejak 16 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKKU",
-   "suspensi saham",
-   "BEI",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9323147706_ff446adbdb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-kantongi-restu-rupslb-untuk-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "BIPP Kantongi Restu RUPSLB untuk [PMTHMETD]",
-  "deck": "Pemegang saham independen BIPP menyetujui rencana penambahan modal tanpa hak memesan efek terlebih dahulu dan perubahan anggaran dasar terkait, dalam RUPSLB 16 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "RUPSLB",
-   "PMTHMETD",
-   "Penambahan Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bed486049d_cbc185e05e.pdf",
   "sourceLabel": "IDX"
  }
 ];

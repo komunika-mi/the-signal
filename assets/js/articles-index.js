@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "71-000-rumah-subsidi-diakadkan-serentak-di-malang",
+  "category": "Bisnis",
+  "title": "71.000 Rumah Subsidi Diakadkan Serentak di [Malang]",
+  "deck": "Kementerian PKP menjadwalkan akad massal 71.000 rumah subsidi se-Indonesia dipusatkan di Malang pada Desember 2026, dengan undangan khusus untuk Presiden Prabowo Subianto.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/71-000-rumah-subsidi-diakadkan-serentak-di-malang.jpg",
+  "imageV": "mvpptvt7",
+  "tags": [
+   "rumah subsidi",
+   "FLPP",
+   "Malang",
+   "Kementerian PKP"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475132-menteri-maruarar-ungkap-71000-rumah-subsidi-siap-diakadkan-serentak-akhir-tahun-ini"
+ },
+ {
   "slug": "mahasiswa-pelajar-tangerang-didorong-kembangkan-pangan-lokal",
   "category": "Industri",
   "title": "Mahasiswa-Pelajar Tangerang Didorong Kembangkan [Pangan] Lokal",
@@ -6429,22 +6446,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/65487a848b_26006228e3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ahap-catatkan-607-6-juta-saham-baru-hasil-hmetd",
-  "category": "Aksi Korporasi",
-  "title": "AHAP Catatkan 607,6 Juta Saham Baru Hasil [HMETD]",
-  "deck": "BEI mencatatkan 607.614.227 saham baru AHAP hasil pelaksanaan rights issue tahap V, menambah total saham beredar menjadi 7.594.622.377 lembar efektif 20 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AHAP",
-   "rights issue",
-   "HMETD",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcadc07f17_a895d13cbf.pdf",
   "sourceLabel": "IDX"
  }
 ];

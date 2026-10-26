@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "15K0rDdofMs",
+  "title": "Warga Malaysia Boikot Produk Indonesia Imbas Asap Karhutla",
+  "category": "Bisnis",
+  "program": "OneNews Update",
+  "summary": "Sejumlah warga Malaysia dilaporkan memboikot produk asal Indonesia sebagai respons atas kabut asap yang menyelimuti negara itu akibat kebakaran hutan dan lahan di beberapa wilayah Indonesia.",
+  "takeaway": "Boikot konsumen lintas negara ini layak dipantau karena berpotensi menekan kinerja ekspor produk Indonesia ke pasar Malaysia."
+ },
+ {
   "id": "06V0vNDBTjo",
   "title": "Menteri Bahlil Pangkas Ekspor Gas Demi Kebutuhan Domestik",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Antrean sepeda motor dan mobil memanjang di SPBU Batu Anteru, Ternate, karena Pertalite hanya tersedia di satu stasiun pengisian di kota tersebut.",
   "takeaway": "Menyoroti persoalan distribusi BBM bersubsidi di daerah yang berdampak pada aktivitas transportasi dan ekonomi warga setempat."
- },
- {
-  "id": "eS2F4xxx1qY",
-  "title": "Antrean BBM Pertalite Capai 3,5 Jam di Ternate",
-  "category": "Energi",
-  "program": "Kabar Utama",
-  "summary": "Sopir angkot di Ternate harus mengantre hingga 3,5 jam untuk mendapatkan BBM jenis Pertalite di SPBU Batu Anteru, menandakan gangguan pasokan bahan bakar bersubsidi di daerah.",
-  "takeaway": "Antrean panjang BBM bersubsidi penting dipantau karena menyangkut kelancaran distribusi energi hingga ke daerah."
  }
 ];

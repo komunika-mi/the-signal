@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "71-000-rumah-subsidi-diakadkan-serentak-di-malang",
+  "category": "Bisnis",
+  "title": "71.000 Rumah Subsidi Diakadkan Serentak di [Malang]",
+  "deck": "Kementerian PKP menjadwalkan akad massal 71.000 rumah subsidi se-Indonesia dipusatkan di Malang pada Desember 2026, dengan undangan khusus untuk Presiden Prabowo Subianto.",
+  "image": "assets/img/71-000-rumah-subsidi-diakadkan-serentak-di-malang.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T03:20:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475132-menteri-maruarar-ungkap-71000-rumah-subsidi-siap-diakadkan-serentak-akhir-tahun-ini",
+  "tags": [
+   "rumah subsidi",
+   "FLPP",
+   "Malang",
+   "Kementerian PKP"
+  ],
+  "body": [
+   "Menteri Perumahan dan Kawasan Permukiman Maruarar Sirait mendatangi Istana Kepresidenan pada Senin (26/10) untuk mengundang Presiden Prabowo Subianto menghadiri penandatanganan akad kredit rumah subsidi secara serentak bagi 71.000 unit se-Indonesia. Acara puncaknya akan dipusatkan di Malang, Jawa Timur, pada Desember 2026. Jumlah ini penting karena menjadi yang terbesar dari rangkaian akad massal serupa yang sudah berjalan sejak tahun lalu, menyangkut puluhan ribu keluarga berpenghasilan rendah yang menunggu kepastian rumah.",
+   "Skema pembiayaannya tetap memakai Fasilitas Likuiditas Pembiayaan Perumahan atau FLPP, yaitu kredit rumah bersubsidi bunga dari pemerintah yang khusus menyasar masyarakat berpenghasilan rendah. Program akad massal ini sudah tiga kali digelar sebelumnya, dimulai dari 26.000 unit di Bogor pada September 2025, lalu melonjak menjadi 50.000 unit di Serang pada Desember 2025, dan 62.000 unit di Batang, Jawa Tengah, sekitar pertengahan tahun ini.",
+   "Dengan rencana 71.000 unit di Malang, jumlah peserta akad pada setiap putaran terus bertambah dibanding putaran sebelumnya. Maruarar menyebut kegiatan di Malang nanti akan menjadi momentum terbesar dibandingkan tiga akad massal yang sudah berlangsung, sekaligus menandai penyaluran rumah subsidi di berbagai wilayah Indonesia dalam satu waktu."
+  ],
+  "fotoAdegan": "Newly completed rows of modest single-story subsidized houses with red tile roofs, workers finishing exterior walls, bright morning daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/27/6adfa864de267-menteri-perumahan-dan-kawasan-permukiman-pkp-maruarar-sirait_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar lokasi, melainkan skalanya: jumlah unit yang diakadkan serentak naik dari 26.000 unit di Bogor, 50.000 unit di Serang, 62.000 unit di Batang, sampai rencana 71.000 unit di Malang. Pola ini menyasar langsung masyarakat berpenghasilan rendah calon penerima FLPP, sekaligus pengembang perumahan dan bank penyalur kredit subsidi yang volumenya ikut membesar tiap putaran. Rentetan angka yang terus naik ini mengarah ke percepatan dan pembesaran skala program FLPP dari waktu ke waktu, bukan sekadar pengulangan acara seremonial. Yang akan memastikan arah ini berlanjut adalah apakah realisasi akad di Malang pada Desember 2026 benar-benar mencapai 71.000 unit sesuai jadwal, dan apakah agenda tersebut jadi terkonfirmasi dalam kalender Presiden Prabowo Subianto.",
+  "imageV": "mvpptvt7"
+ },
+ {
   "slug": "mahasiswa-pelajar-tangerang-didorong-kembangkan-pangan-lokal",
   "category": "Industri",
   "title": "Mahasiswa-Pelajar Tangerang Didorong Kembangkan [Pangan] Lokal",

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "15K0rDdofMs",
+  "title": "Warga Malaysia Boikot Produk Indonesia Imbas Asap Karhutla",
+  "category": "Bisnis",
+  "program": "OneNews Update",
+  "summary": "Sejumlah warga Malaysia dilaporkan memboikot produk asal Indonesia sebagai respons atas kabut asap yang menyelimuti negara itu akibat kebakaran hutan dan lahan di beberapa wilayah Indonesia.",
+  "takeaway": "Boikot konsumen lintas negara ini layak dipantau karena berpotensi menekan kinerja ekspor produk Indonesia ke pasar Malaysia.",
+  "terbit": "2026-10-26T15:15:00+00:00"
+ },
+ {
   "id": "06V0vNDBTjo",
   "title": "Menteri Bahlil Pangkas Ekspor Gas Demi Kebutuhan Domestik",
   "category": "Energi",

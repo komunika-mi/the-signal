@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "adhi-perjanjian-restrukturisasi-utang-mra-resmi-efektif",
+  "category": "Aksi Korporasi",
+  "title": "ADHI: Perjanjian Restrukturisasi Utang [MRA] Resmi Efektif",
+  "deck": "Master Restructuring Agreement ADHI dengan para kreditur, lewat Bank Mandiri selaku agen fasilitas, berlaku efektif sejak 23 Oktober 2026 setelah seluruh syarat terpenuhi.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "restrukturisasi utang",
+   "Bank Mandiri",
+   "MRA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a9b497841_b95205d665.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "esdm-libatkan-anak-muda-awasi-penyaluran-bbm-di-spbu",
   "category": "Energi",
   "title": "ESDM Libatkan Anak Muda [Awasi] Penyaluran BBM di SPBU",
@@ -6428,23 +6444,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/473592-sinergi-zakat-antarnegara-baznas-beri-penghargaan-khusus-untuk-koperasi-kebangsaan-malaysia-angkasa"
- },
- {
-  "slug": "transaksi-emas-digital-melonjak-641-persen-dalam-setahun",
-  "category": "Bisnis",
-  "title": "Transaksi Emas Digital [Melonjak] 641 Persen dalam Setahun",
-  "deck": "Nilai transaksi emas fisik digital RI tumbuh 641,1 persen jadi Rp299,49 triliun dalam delapan bulan, sejalan dengan aturan baru soal keamanan sistem dan anti pencucian uang.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/transaksi-emas-digital-melonjak-641-persen-dalam-setahun.jpg",
-  "imageV": "mvf0u33m",
-  "tags": [
-   "emas digital",
-   "Bappebti",
-   "investasi",
-   "Kementerian Perdagangan"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/transaksi-emas-digital-kian-berkilau-bappebti-perkuat-literasi-masyarakat",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

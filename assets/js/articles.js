@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "adhi-perjanjian-restrukturisasi-utang-mra-resmi-efektif",
+  "category": "Aksi Korporasi",
+  "title": "ADHI: Perjanjian Restrukturisasi Utang [MRA] Resmi Efektif",
+  "deck": "Master Restructuring Agreement ADHI dengan para kreditur, lewat Bank Mandiri selaku agen fasilitas, berlaku efektif sejak 23 Oktober 2026 setelah seluruh syarat terpenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T00:38:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a9b497841_b95205d665.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "restrukturisasi utang",
+   "Bank Mandiri",
+   "MRA"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk menyampaikan bahwa Perjanjian Induk Restrukturisasi atau Master Restructuring Agreement (MRA) resmi berlaku efektif terhitung 23 Oktober 2026. Status efektif ini disampaikan lewat surat PT Bank Mandiri (Persero) Tbk selaku Agen Fasilitas Restrukturisasi bernomor CBG.CB4/5865/2026 tanggal 23 Oktober 2026, perihal Pemberitahuan atas Pemenuhan Syarat Efektif Perjanjian Induk Restrukturisasi. Dalam surat itu, Bank Mandiri menegaskan bahwa seluruh persyaratan efektif yang disyaratkan dalam MRA telah dipenuhi oleh Adhi Karya.",
+   "Dengan dinyatakan efektif, seluruh ketentuan restrukturisasi dalam MRA mulai berlaku dan mengikat Adhi Karya serta pihak-pihak lain yang terikat perjanjian tersebut, sesuai hak dan kewajiban masing-masing yang diatur di dalamnya. Keterbukaan informasi ini merupakan kelanjutan dari pengumuman sebelumnya pada 18 September 2026, saat Perseroan mengumumkan telah memasuki tahap implementasi restrukturisasi melalui penandatanganan MRA. Dokumen keterbukaan ini ditandatangani oleh Bani Iqbal, Direktur Keuangan Adhi Karya.",
+   "Perseroan menyatakan bahwa efektifnya MRA memungkinkan pelaksanaan ketentuan restrukturisasi yang telah disepakati bersama para kreditur, termasuk pengaturan dan pemenuhan hak serta kewajiban masing-masing pihak. Manajemen menyebut langkah ini diharapkan mendukung penataan kembali kewajiban keuangan, meningkatkan efektivitas pengelolaan likuiditas dan arus kas, serta memperkuat kondisi keuangan guna menunjang stabilitas operasional dan kelangsungan usaha Perseroan."
+  ],
+  "fotoAdegan": "Construction workers inspecting rebar and scaffolding on an unfinished elevated roadway, overcast afternoon light, wide angle",
+  "takeaway": "Laporan ini condong positif bagi Adhi Karya, karena efektifnya MRA memberi kepastian hukum untuk menjalankan skema penataan ulang utang yang sudah disepakati dengan kreditur, ketimbang terus menggantung dalam ketidakpastian pembayaran. Yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar keluar masuk dari kas perusahaan, dan kemungkinan beban bunga, yaitu biaya yang harus dibayar atas utang. Pelaku pasar memperhatikan dua pos ini karena laporan keuangan Adhi Karya sebelumnya mencatat arus kas operasi yang masih negatif, sehingga skema restrukturisasi yang mengatur ulang jadwal dan beban pembayaran utang berpotensi meringankan tekanan kas perusahaan. Dokumen ini belum merinci syarat pembayaran atau potongan utang yang disepakati dengan para kreditur. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang, untuk melihat apakah efektifnya MRA benar-benar memperbaiki arus kas dan menurunkan beban bunga Adhi Karya.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "esdm-libatkan-anak-muda-awasi-penyaluran-bbm-di-spbu",
   "category": "Energi",
   "title": "ESDM Libatkan Anak Muda [Awasi] Penyaluran BBM di SPBU",

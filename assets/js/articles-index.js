@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "djp-rombak-aturan-pembayaran-pajak-sanksi-bisa-hapus-100",
+  "category": "Makroekonomi",
+  "title": "DJP Rombak Aturan Pembayaran Pajak, Sanksi Bisa [Hapus] 100%",
+  "deck": "DJP mengubah tata cara pembayaran utang pajak agar pokok dilunasi lebih dulu, serta menawarkan pengurangan sanksi administratif bertahap hingga 100 persen sampai akhir 2026.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/djp-rombak-aturan-pembayaran-pajak-sanksi-bisa-hapus-100.jpg",
+  "imageV": "mvp6tvtb",
+  "tags": [
+   "pajak",
+   "DJP",
+   "sanksi administratif",
+   "PMK 71/2026"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/dorong-kepastian-hukum-kanwil-djp-sulselbartra-bedah-pmk-712026-dan-kep-2392026-di",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
   "slug": "city-gelar-public-expose-9-november-laba-naik-50",
   "category": "Aksi Korporasi",
   "title": "CITY Gelar [Public Expose] 9 November, Laba Naik 50%",
@@ -6419,22 +6437,6 @@ var ARTICLES = [
    "Penambahan Modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bed486049d_cbc185e05e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arta-ke-bei-kas-turun-karena-investasi-rp37-m-di-dild",
-  "category": "Aksi Korporasi",
-  "title": "ARTA ke BEI: Kas Turun karena [Investasi] Rp37 M di DILD",
-  "deck": "Menjawab permintaan penjelasan BEI, Arthavest mengungkap kas menyusut akibat investasi Rp37 miliar di saham Intiland Development, sementara arus kas operasi hotelnya masih negatif.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARTA",
-   "Arthavest",
-   "DILD",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eec84fff4a_57657ed5bb.pdf",
   "sourceLabel": "IDX"
  }
 ];

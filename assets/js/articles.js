@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "djp-rombak-aturan-pembayaran-pajak-sanksi-bisa-hapus-100",
+  "category": "Makroekonomi",
+  "title": "DJP Rombak Aturan Pembayaran Pajak, Sanksi Bisa [Hapus] 100%",
+  "deck": "DJP mengubah tata cara pembayaran utang pajak agar pokok dilunasi lebih dulu, serta menawarkan pengurangan sanksi administratif bertahap hingga 100 persen sampai akhir 2026.",
+  "image": "assets/img/djp-rombak-aturan-pembayaran-pajak-sanksi-bisa-hapus-100.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T11:37:50.677Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/dorong-kepastian-hukum-kanwil-djp-sulselbartra-bedah-pmk-712026-dan-kep-2392026-di",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "pajak",
+   "DJP",
+   "sanksi administratif",
+   "PMK 71/2026"
+  ],
+  "body": [
+   "Direktorat Jenderal Pajak mengubah dua aturan yang menentukan bagaimana utang pajak dan sanksinya dihitung, sekaligus menawarkan masa keringanan sanksi yang nilainya menyusut setiap tiga bulan. Perubahan ini disosialisasikan Kantor Wilayah DJP Sulawesi Selatan, Barat, dan Tenggara dalam dialog bersama Paguyuban Seluruh Marga Tionghoa Indonesia di Makassar, Kamis (22/10/2026), tapi aturannya berlaku untuk wajib pajak di seluruh Indonesia.",
+   "Aturan pertama, PMK Nomor 71 Tahun 2026, mengubah urutan pembayaran utang pajak. Sebelumnya berdasarkan PMK 118/2024, setiap cicilan atau setoran wajib pajak dibagi secara proporsional antara utang pajak pokok dan sanksinya. Kini pembayaran akan dipakai melunasi utang pokok lebih dulu, baru sisanya dihitung untuk sanksi administratif. Aturan ini juga memperluas jenis sanksi yang bisa diajukan pengurangan, kecuali sanksi yang timbul dari putusan keberatan atau banding sebagaimana diatur Pasal 25 ayat (9), Pasal 27 ayat (5d), dan Pasal 27 ayat (5f) UU KUP, dan memberi Direktur Jenderal Pajak kewenangan memberi pengurangan atau penghapusan sanksi serta denda PBB selama dua tahun sejak aturan ini berlaku.",
+   "Aturan kedua, Keputusan Dirjen Pajak Nomor KEP-239/PJ/2026, mengatur besaran pengurangan sanksi yang menurun bertahap. Untuk wajib pajak yang melunasi pokok pajak atau melapor SPT secara sukarela antara 8 Oktober sampai 31 Desember 2026, sanksi dihapus seratus persen. Pada periode 1 Januari hingga 31 Maret 2027 besarannya turun menjadi lima puluh persen, dan pada 1 April hingga 30 Juni 2027 turun lagi menjadi dua puluh lima persen.",
+   "Menurut DJP, kebijakan ini dirancang untuk mendukung pencapaian target penerimaan negara tahun 2026 sekaligus memberi ruang bagi wajib pajak yang beritikad baik menyelesaikan kewajiban fiskalnya."
+  ],
+  "fotoAdegan": "A small shop owner in Makassar sorting payment receipts and a calculator at a wooden counter, warm afternoon light, blurred background",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2026-10/Foto%20Bersama%20PSMTI.jpeg?itok=2VWYWlew",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Perubahan intinya ada di urutan pembayaran: kalau sebelumnya cicilan wajib pajak dibagi proporsional antara utang pajak pokok dan sanksinya, sekarang pembayaran dipakai melunasi utang pokok dulu, sisanya baru dihitung untuk sanksi atau denda keterlambatan. Ini dibarengi jadwal pengurangan sanksi yang menyusut cepat, dihapus seratus persen kalau bayar sampai 31 Desember 2026, lalu tinggal lima puluh persen pada Januari-Maret 2027, dan dua puluh lima persen pada April-Juni 2027. Yang terdampak adalah semua wajib pajak yang punya tunggakan pajak atau sanksi administratif, bukan cuma anggota PSMTI yang hadir di dialog ini. Jadwal yang menyusut tajam dalam hitungan bulan menunjukkan DJP mengarahkan wajib pajak untuk segera melunasi sebelum insentif terbesarnya hilang di akhir tahun, sejalan dengan tujuan resmi mereka mengejar target penerimaan negara 2026. Yang akan menunjukkan apakah dorongan ini berhasil adalah angka realisasi penerimaan pajak kuartal IV 2026, yang biasanya baru terlihat dalam laporan APBN awal tahun berikutnya.",
+  "imageV": "mvp6tvtb"
+ },
+ {
   "slug": "city-gelar-public-expose-9-november-laba-naik-50",
   "category": "Aksi Korporasi",
   "title": "CITY Gelar [Public Expose] 9 November, Laba Naik 50%",

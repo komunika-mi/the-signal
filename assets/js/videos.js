@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "06V0vNDBTjo",
+  "title": "Menteri Bahlil Pangkas Ekspor Gas Demi Kebutuhan Domestik",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Menteri ESDM Bahlil Lahadalia menanggapi pernyataan Perdana Menteri Singapura Lawrence Wong terkait kebijakan Indonesia memangkas ekspor gas bumi untuk memenuhi kebutuhan domestik.",
+  "takeaway": "Kebijakan ini penting dipantau karena menyangkut keseimbangan antara pasokan energi domestik dan komitmen ekspor ke mitra dagang.",
+  "terbit": "2026-10-26T11:11:46+00:00"
+ },
+ {
+  "id": "YxeMsaUFt1M",
+  "title": "Indonesia Pangkas Ekspor Gas, PM Singapura Respons Begini",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Pemerintah Indonesia memutuskan mengurangi pasokan ekspor gas bumi ke Singapura pada akhir pekan lalu, langkah yang mendapat respons dari Perdana Menteri Singapura Lawrence Wong.",
+  "takeaway": "Perubahan arah ekspor gas ini berpotensi memengaruhi hubungan energi regional dan layak disimak pelaku industri energi.",
+  "terbit": "2026-10-26T11:00:08+00:00"
+ },
+ {
+  "id": "yWHDFVC320Q",
+  "title": "Presiden Trump Beri Sinyal Hapus Tarif Barang Kanada",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Pemerintahan Presiden Donald Trump memberi sinyal akan mencabut tarif 50 persen atas sejumlah barang asal Kanada menjelang pemilu sela di Amerika Serikat.",
+  "takeaway": "Rencana pencabutan tarif ini relevan bagi pelaku usaha yang terdampak arus dagang Amerika Serikat dan Kanada.",
+  "terbit": "2026-10-26T10:30:27+00:00"
+ },
+ {
   "id": "iZ_Gd5MNwCI",
   "title": "Realisasi Investasi Capai Rp1.539,2 Triliun hingga September 2026",
   "category": "Makroekonomi",

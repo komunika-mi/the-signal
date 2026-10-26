@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "06V0vNDBTjo",
+  "title": "Menteri Bahlil Pangkas Ekspor Gas Demi Kebutuhan Domestik",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Menteri ESDM Bahlil Lahadalia menanggapi pernyataan Perdana Menteri Singapura Lawrence Wong terkait kebijakan Indonesia memangkas ekspor gas bumi untuk memenuhi kebutuhan domestik.",
+  "takeaway": "Kebijakan ini penting dipantau karena menyangkut keseimbangan antara pasokan energi domestik dan komitmen ekspor ke mitra dagang."
+ },
+ {
+  "id": "YxeMsaUFt1M",
+  "title": "Indonesia Pangkas Ekspor Gas, PM Singapura Respons Begini",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Pemerintah Indonesia memutuskan mengurangi pasokan ekspor gas bumi ke Singapura pada akhir pekan lalu, langkah yang mendapat respons dari Perdana Menteri Singapura Lawrence Wong.",
+  "takeaway": "Perubahan arah ekspor gas ini berpotensi memengaruhi hubungan energi regional dan layak disimak pelaku industri energi."
+ },
+ {
+  "id": "yWHDFVC320Q",
+  "title": "Presiden Trump Beri Sinyal Hapus Tarif Barang Kanada",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Pemerintahan Presiden Donald Trump memberi sinyal akan mencabut tarif 50 persen atas sejumlah barang asal Kanada menjelang pemilu sela di Amerika Serikat.",
+  "takeaway": "Rencana pencabutan tarif ini relevan bagi pelaku usaha yang terdampak arus dagang Amerika Serikat dan Kanada."
+ },
+ {
   "id": "iZ_Gd5MNwCI",
   "title": "Realisasi Investasi Capai Rp1.539,2 Triliun hingga September 2026",
   "category": "Makroekonomi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Sopir angkot di Ternate harus mengantre hingga 3,5 jam untuk mendapatkan BBM jenis Pertalite di SPBU Batu Anteru, menandakan gangguan pasokan bahan bakar bersubsidi di daerah.",
   "takeaway": "Antrean panjang BBM bersubsidi penting dipantau karena menyangkut kelancaran distribusi energi hingga ke daerah."
- },
- {
-  "id": "AvpufMPhVD0",
-  "title": "Kongres Syarikat Islam Angkat Tema Dakwah Ekonomi",
-  "category": "UMKM",
-  "program": "Kabar Utama",
-  "summary": "Kongres Nasional ke-42 Syarikat Islam di Surabaya mengusung tema Dakwah Ekonomi Menuju Kemerdekaan Sejati, membahas penguatan ekonomi umat lewat koperasi dan ekonomi syariah.",
-  "takeaway": "Pembahasan penguatan ekonomi umat melalui koperasi dan ekonomi syariah relevan bagi pembaca yang mengikuti perkembangan sektor UMKM di Indonesia."
- },
- {
-  "id": "bnvRPO9uYnU",
-  "title": "Pemerintah Gandakan Kapal Atasi Krisis BBM di Bali",
-  "category": "Energi",
-  "program": "Kabar Hari Ini",
-  "summary": "Pemerintah menambah jumlah kapal pengangkut BBM untuk mengatasi krisis pasokan di Bali, sementara Menko Bahlil Lahadalia memastikan stok BBM nasional masih aman meski stok Pertalite menurun.",
-  "takeaway": "Langkah distribusi ini relevan bagi pembaca karena menyangkut ketahanan energi nasional dan potensi dampaknya pada pasokan serta harga BBM di daerah."
- },
- {
-  "id": "4qqy9iIYt74",
-  "title": "Gudang Penimbunan 10 Ton Solar Subsidi Dibongkar",
-  "category": "Energi",
-  "program": "Kabar Hari Ini",
-  "summary": "Polda Jawa Tengah menyita 10 ton solar bersubsidi dari sebuah gudang di Cilacap, lengkap dengan tandon, galon, dan kartu barcode solar yang diduga dipakai untuk penyelewengan distribusi.",
-  "takeaway": "Kasus ini penting bagi pembaca ekonomi karena menunjukkan kebocoran dalam distribusi BBM subsidi yang bisa mengurangi efektivitas kebijakan energi pemerintah."
  }
 ];

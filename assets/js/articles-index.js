@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "akpi-henry-liem-jual-200-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Henry Liem Jual 200.000 Saham [Lagi]",
+  "deck": "Komisaris AKPI Henry Liem melaporkan penjualan 200.000 saham tambahan pada 23 Oktober 2026, menyusul penjualan 300.000 saham sebelumnya di pekan yang sama. Hak suaranya kini 0,7841 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "Komisaris",
+   "Kepemilikan Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-7772-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smma-panggil-rupslb-17-november-agenda-rombak-direksi",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Panggil RUPSLB 17 November, Agenda [Rombak] Direksi",
+  "deck": "SMMA mengundang pemegang saham ke RUPSLB 17 November 2026 untuk membahas pergantian susunan direksi dan perubahan anggaran dasar perusahaan.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMA",
+   "RUPSLB",
+   "direksi",
+   "anggaran dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f4f522ca99_b0f0ecdb24.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-jual-saham-hak-suara-turun-ke-7-70",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman Jual Saham, Hak Suara Turun ke [7,70%]",
+  "deck": "Sujito Ngatiman menjual 7,7 juta saham DEWI pada 23 Oktober 2026 seharga Rp223 per saham, menurunkan hak suaranya dari 8,10 persen menjadi 7,70 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "pemegang saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-3382-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pidl-rampungkan-obligasi-dan-sukuk-rp2-28-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Rampungkan Obligasi dan Sukuk [Rp2,28 Triliun]",
+  "deck": "PIDL merampungkan penerbitan obligasi dan sukuk mudharabah tahap II 2026 senilai total Rp2,28 triliun, lebih rendah dari target penawaran Rp3,5 triliun yang diumumkan pekan lalu.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIDL",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4704f0ad1d_3e1766ae05.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bumi-akuisisi-100-saham-mount-margaret-senilai-us-22-juta",
+  "category": "Aksi Korporasi",
+  "title": "BUMI Akuisisi 100% Saham [Mount Margaret] Senilai US$22 Juta",
+  "deck": "Lewat anak usaha di Australia, Bumi Resources mengambil alih seluruh saham Mount Margaret Mining senilai US$22,01 juta untuk diversifikasi usaha di luar batu bara.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUMI",
+   "akuisisi",
+   "pertambangan",
+   "diversifikasi usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11ce08e911_5b656a1e0d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "adhi-perjanjian-restrukturisasi-utang-mra-resmi-efektif",
   "category": "Aksi Korporasi",
   "title": "ADHI: Perjanjian Restrukturisasi Utang [MRA] Resmi Efektif",
@@ -6359,90 +6439,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sinergi-dengan-organisasi-komoditas-global-kemendag-terus-perkuat-daya-saing-kelapa-dan-lada",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "umkm-kombucha-papua-raih-penghargaan-di-pangan-nusa-expo-2026",
-  "category": "UMKM",
-  "title": "UMKM Kombucha Papua Raih [Penghargaan] di Pangan Nusa Expo 2026",
-  "deck": "UMKM kombucha asal Jayapura, Ruma Papua, menang kategori minuman kemasan di UKM Pangan Award 2026 dengan 12 varian rasa berbahan lokal Papua, setelah mengantongi izin BPOM dan sertifikasi halal.",
-  "date": "18 Oktober 2026",
-  "image": "assets/img/umkm-kombucha-papua-raih-penghargaan-di-pangan-nusa-expo-2026.jpg",
-  "imageV": "mvdsc7h6",
-  "tags": [
-   "UMKM",
-   "Papua",
-   "Kombucha",
-   "Pangan Nusa Expo"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/seruput-perlahan-kenali-rasa-kisah-kombucha-ruma-papua",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "kemendag-pacu-pemanfaatan-25-perjanjian-dagang-ri",
-  "category": "Bisnis",
-  "title": "Kemendag Pacu Pemanfaatan [25] Perjanjian Dagang RI",
-  "deck": "Kemendag mendorong UMKM dan pelaku usaha daerah memanfaatkan 25 perjanjian dagang yang sudah berjalan, di tengah surplus dagang US$7,25 miliar hingga Agustus 2026.",
-  "date": "18 Oktober 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
-  "tags": [
-   "perjanjian dagang",
-   "ekspor",
-   "UMKM",
-   "Trade Expo Indonesia"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/diseminasikan-hasil-analisis-kemendag-dorong-pemanfataan-perjanjian-perdagangan-internasional",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ekspor-farmasi-seafood-ri-dibidik-ke-pasar-asean-plus",
-  "category": "Global",
-  "title": "Ekspor Farmasi-Seafood RI Dibidik ke Pasar [ASEAN] Plus",
-  "deck": "Kemendag mengajak pelaku usaha, termasuk UMKM, memanfaatkan delapan skema perjanjian dagang ASEAN dan ASEAN Plus untuk ekspor farmasi, makanan olahan, dan seafood ke Asia Pasifik.",
-  "date": "18 Oktober 2026",
-  "image": "assets/img/ekspor-farmasi-seafood-ri-dibidik-ke-pasar-asean-plus.jpg",
-  "imageV": "mvda57y0",
-  "tags": [
-   "ekspor",
-   "ASEAN Plus",
-   "RCEP",
-   "UMKM"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-ajak-pelaku-usaha-optimalkan-perjanjian-dagang-asean-dan-asean-plus-untuk-tembus-ekspor",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "transaksi-umkm-di-pangan-nusa-expo-tembus-rp44-miliar",
-  "category": "UMKM",
-  "title": "Transaksi UMKM di Pangan Nusa Expo Tembus [Rp44 Miliar]",
-  "deck": "Business matching Pangan Nusa Expo 2026 mencatat potensi transaksi Rp44 miliar hingga hari ketiga, naik 17 persen dari tahun lalu, menurut Kemendag.",
-  "date": "18 Oktober 2026",
-  "image": "assets/img/kopi-roasting.jpg",
-  "tags": [
-   "UMKM",
-   "Kemendag",
-   "Pangan Nusa Expo",
-   "Ritel"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/business-matching-pangan-nusa-expo-2026-bukukan-potensi-transaksi-rp44-miliar-pada-hari-ketiga",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "baznas-beri-penghargaan-ke-koperasi-angkasa-malaysia",
-  "category": "Global",
-  "title": "BAZNAS Beri [Penghargaan] ke Koperasi ANGKASA Malaysia",
-  "deck": "BAZNAS menobatkan ANGKASA, koperasi nasional Malaysia, sebagai mitra internasional terbaik pendukung zakat di Grand BAZNAS Awards 2026, Jakarta.",
-  "date": "17 Oktober 2026",
-  "image": "assets/img/baznas-beri-penghargaan-ke-koperasi-angkasa-malaysia.jpg",
-  "imageV": "mvcrvwuj",
-  "tags": [
-   "BAZNAS",
-   "ANGKASA",
-   "Grand BAZNAS Awards 2026",
-   "Zakat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473592-sinergi-zakat-antarnegara-baznas-beri-penghargaan-khusus-untuk-koperasi-kebangsaan-malaysia-angkasa"
  }
 ];

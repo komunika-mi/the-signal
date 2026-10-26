@@ -3,6 +3,134 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "akpi-henry-liem-jual-200-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Henry Liem Jual 200.000 Saham [Lagi]",
+  "deck": "Komisaris AKPI Henry Liem melaporkan penjualan 200.000 saham tambahan pada 23 Oktober 2026, menyusul penjualan 300.000 saham sebelumnya di pekan yang sama. Hak suaranya kini 0,7841 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T10:26:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-7772-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "Komisaris",
+   "Kepemilikan Saham"
+  ],
+  "body": [
+   "Henry Liem, anggota Dewan Komisaris PT Argha Karya Prima Industry Tbk (AKPI), melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 200.000 saham AKPI yang dikuasainya secara tidak langsung. Transaksi dilakukan pada 23 Oktober 2026 dengan harga Rp600 per saham, atau senilai sekitar Rp120 juta, dengan tujuan yang dicatat sebagai jual saham. Berdasarkan angka yang dilaporkan, jumlah saham Henry Liem turun dari 5.000.859 lembar menjadi 4.800.259 lembar, berkurang 200.600 lembar.",
+   "Akibat penjualan ini, hak suara Henry Liem di AKPI turun dari 0,8168 persen menjadi 0,7841 persen. Ini adalah laporan kedua dari Henry Liem dalam pekan yang sama, setelah sebelumnya ia juga melaporkan penjualan 300.000 saham yang menurunkan hak suaranya dari 0,8658 persen menjadi 0,8168 persen. Jika digabung, dalam waktu singkat ini Henry Liem telah melepas total sekitar 500.600 saham AKPI, dengan hak suara yang turun dari 0,8658 persen menjadi 0,7841 persen."
+  ],
+  "fotoAdegan": "Rolls of clear plastic packaging film being wound on an industrial extrusion line, workers in uniforms checking gauges, factory floor lighting",
+  "takeaway": "Laporan ini netral bagi AKPI, karena baik transaksi kali ini maupun gabungannya dengan penjualan sebelumnya masih terlalu kecil dibandingkan total saham AKPI yang beredar untuk dibaca sebagai sinyal soal arah perusahaan. Yang tersentuh di sini cuma struktur kepemilikan dan hak suara jajaran komisaris, bukan kas atau ekuitas perusahaan, sebab uang dari penjualan ini mengalir ke Henry Liem pribadi di pasar sekunder, bukan ke kantong AKPI, sehingga jumlah saham beredar dan laba per saham perusahaan tidak berubah. Yang perlu dipantau adalah apakah pola penjualan bertahap ini berlanjut di laporan-laporan OJK berikutnya, mengingat ini sudah transaksi kedua dari komisaris yang sama dalam satu pekan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smma-panggil-rupslb-17-november-agenda-rombak-direksi",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Panggil RUPSLB 17 November, Agenda [Rombak] Direksi",
+  "deck": "SMMA mengundang pemegang saham ke RUPSLB 17 November 2026 untuk membahas pergantian susunan direksi dan perubahan anggaran dasar perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T09:52:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f4f522ca99_b0f0ecdb24.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMA",
+  "tags": [
+   "SMMA",
+   "RUPSLB",
+   "direksi",
+   "anggaran dasar"
+  ],
+  "body": [
+   "PT Sinar Mas Multiartha Tbk (SMMA) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada 17 November 2026 pukul 16.00 WIB di The Grand Mansion, Jalan Borobudur Nomor 10, Pegangsaan, Menteng, Jakarta Pusat. Pemanggilan ini menyusul pemberitahuan sebelumnya pada 9 Oktober 2026. Pemegang saham yang namanya tercatat dalam daftar pemegang saham per 23 Oktober 2026 yang berhak hadir dan memberikan suara dalam rapat tersebut.",
+   "Rapat ini membahas dua agenda. Pertama, persetujuan pengangkatan kembali atau perubahan susunan direksi perseroan. Kedua, persetujuan perubahan anggaran dasar perseroan. Dokumen keterbukaan yang ditandatangani oleh Corporate Secretary SMMA, Felix, tidak merinci nama calon direksi baru maupun pasal anggaran dasar yang akan diubah, sehingga detailnya baru akan terungkap saat rapat berlangsung.",
+   "Sebagai bagian dari kewajiban keterbukaan, SMMA juga mengirimkan bukti bahwa iklan pemanggilan rapat ini sudah dimuat di surat kabar harian nasional Investor Daily pada Senin, 26 Oktober 2026. Pengiriman bukti iklan itu ditandatangani oleh Wakil Direktur Utama SMMA, Eric Buntoro, untuk memenuhi aturan Otoritas Jasa Keuangan Nomor 15/POJK.04/2020 tentang penyelenggaraan RUPS perusahaan terbuka serta Undang-Undang Perseroan Terbatas."
+  ],
+  "fotoAdegan": "Empty boardroom with a long polished table and leather chairs arranged for a corporate shareholders meeting, soft morning light through windows",
+  "takeaway": "Laporan ini netral bagi pemegang saham karena baru berupa undangan rapat, belum ada nama calon direksi atau pasal anggaran dasar yang hendak diubah sehingga dampaknya belum bisa dinilai. Yang tersentuh di sini adalah tata kelola perusahaan, sebab susunan direksi menentukan siapa yang mengambil keputusan bisnis sehari-hari, sementara perubahan anggaran dasar bisa menyangkut aturan dasar perseroan seperti kewenangan direksi, struktur modal, atau hak pemegang saham, dan pasar mencermatinya karena berpotensi mengubah arah strategi perusahaan. Yang perlu dipantau adalah hasil RUPSLB pada 17 November 2026, termasuk siapa saja yang akan menjabat di direksi baru dan bagian anggaran dasar mana yang benar-benar diubah, karena baru saat itu dampaknya bagi perusahaan bisa dinilai lebih jelas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dewi-sujito-ngatiman-jual-saham-hak-suara-turun-ke-7-70",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Sujito Ngatiman Jual Saham, Hak Suara Turun ke [7,70%]",
+  "deck": "Sujito Ngatiman menjual 7,7 juta saham DEWI pada 23 Oktober 2026 seharga Rp223 per saham, menurunkan hak suaranya dari 8,10 persen menjadi 7,70 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T09:24:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-3382-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "pemegang saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) menerima laporan keterbukaan informasi dari Sujito Ngatiman, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perusahaan, mengenai perubahan kepemilikan sahamnya. Dalam laporan bertanggal 26 Oktober 2026 kepada Otoritas Jasa Keuangan, Sujito melaporkan penjualan 7.700.500 lembar saham DEWI secara langsung pada 23 Oktober 2026 dengan harga Rp223 per saham. Tujuan transaksi yang dicatat dalam laporan adalah penjualan biasa.",
+   "Dengan transaksi ini, jumlah saham Sujito berkurang dari 163.082.100 lembar menjadi 155.381.600 lembar. Hak suaranya di DEWI ikut turun dari 8,10 persen menjadi 7,70 persen. Jumlah saham yang dilepas setara 4,72 persen dari total kepemilikannya sebelum transaksi, sehingga ia masih menjadi pemegang saham dengan posisi signifikan di perusahaan ini.",
+   "Laporan ini melanjutkan rangkaian aktivitas Sujito di saham DEWI dalam sepekan terakhir. Pada 20 Oktober 2026, ia melaporkan penambahan kepemilikan yang membawa hak suaranya naik ke 8,03 persen. Enam hari berselang, posisinya justru berkurang lagi lewat penjualan yang dilaporkan kali ini, menunjukkan pola jual beli yang berganti arah dalam waktu singkat."
+  ],
+  "fotoAdegan": "Workers in hairnets sorting fresh chicken cuts on a stainless steel line inside a cold storage poultry plant",
+  "takeaway": "Laporan ini netral bagi DEWI, karena penjualan 7,7 juta saham oleh Sujito Ngatiman hanya menggeser hak suaranya dari 8,10 persen ke 7,70 persen, porsi yang tidak sampai menghilangkan posisinya sebagai pemegang saham signifikan. Pos yang tersentuh bukan laporan keuangan DEWI, melainkan struktur kepemilikan saham, yaitu siapa yang memegang berapa persen hak suara di perusahaan, dan pelaku pasar biasanya memperhatikan pergerakan pemegang saham besar karena dianggap mencerminkan pandangan mereka terhadap prospek perusahaan. Dalam kasus ini sinyalnya kabur karena orang yang sama baru menambah kepemilikannya pekan sebelumnya sebelum menjualnya lagi, pola yang lebih mirip penyesuaian posisi jangka pendek ketimbang keputusan keluar dari saham DEWI. Yang perlu dipantau berikutnya adalah apakah Sujito akan melaporkan transaksi susulan dalam waktu dekat, karena pergerakan bolak balik seperti ini umumnya baru terlihat arahnya setelah beberapa laporan berturut turut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pidl-rampungkan-obligasi-dan-sukuk-rp2-28-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Rampungkan Obligasi dan Sukuk [Rp2,28 Triliun]",
+  "deck": "PIDL merampungkan penerbitan obligasi dan sukuk mudharabah tahap II 2026 senilai total Rp2,28 triliun, lebih rendah dari target penawaran Rp3,5 triliun yang diumumkan pekan lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T09:12:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4704f0ad1d_3e1766ae05.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIDL",
+  "tags": [
+   "PIDL",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "body": [
+   "Emiten berkode PIDL menyampaikan hasil akhir penawaran umum berkelanjutan atas Obligasi Berkelanjutan II Tahap II dan Sukuk Mudharabah Berkelanjutan II Tahap II Tahun 2026, setelah masa penawaran yang menggunakan skema best effort resmi berakhir pada 26 Oktober 2026. Total pokok obligasi yang diterbitkan pada tanggal emisi tercatat Rp1.284.780.000.000, atau sekitar Rp1,28 triliun, sementara dana sukuk mudharabah yang terkumpul mencapai Rp1.000.000.000.000, atau Rp1 triliun. Total dana segar dari kedua instrumen utang ini sekitar Rp2,28 triliun, lebih rendah dari rencana penawaran Rp3,5 triliun yang sebelumnya diumumkan pada 23 Oktober 2026.",
+   "Obligasi ini terbagi dalam dua seri. Seri A senilai Rp1.070.385.000.000 berbunga tetap 10 persen per tahun dengan tenor tiga tahun, sedangkan Seri B senilai Rp214.395.000.000 berbunga tetap 10,5 persen per tahun dengan tenor lima tahun. Pokok utang di kedua seri dibayar penuh sekaligus saat jatuh tempo (bullet payment), yaitu 28 Oktober 2029 untuk Seri A dan 28 Oktober 2031 untuk Seri B, sementara bunganya dibayar setiap tiga bulan dengan pembayaran pertama pada 28 Januari 2027. PT Aldiracita Sekuritas Indonesia menjadi penjamin dengan porsi terbesar, 51,56 persen dari total obligasi, dari sepuluh sekuritas yang bertindak sebagai penjamin emisi.",
+   "Sukuk mudharabah juga terbagi dua seri dengan skema bagi hasil, bukan bunga tetap. Seri A senilai Rp873.635.000.000 memberi nisbah 22,85 persen dari pendapatan yang dibagihasilkan kepada pemegang sukuk, dengan indikasi setara 10 persen per tahun selama tiga tahun. Seri B senilai Rp126.365.000.000 memberi nisbah 23,99 persen, setara indikasi 10,5 persen per tahun selama lima tahun. Jadwal pembayaran bagi hasil dan jatuh temponya sama dengan obligasi, yakni pembayaran pertama 28 Januari 2027 dan pelunasan penuh pada 28 Oktober 2029 untuk Seri A serta 28 Oktober 2031 untuk Seri B, dengan PT Aldiracita Sekuritas Indonesia kembali menjadi penjamin porsi terbesar sebesar 30,90 persen."
+  ],
+  "fotoAdegan": "Large rolls of industrial paper stacked inside a pulp and paper mill warehouse, forklift moving nearby, soft morning light through high windows.",
+  "takeaway": "Laporan ini cenderung netral bagi PIDL karena isinya hanya menegaskan rampungnya proses penawaran yang sudah direncanakan sejak program berkelanjutan ini efektif akhir Juni 2026, bukan kejutan baru, meski dana yang akhirnya terkumpul, sekitar Rp2,28 triliun, lebih kecil sekitar Rp1,22 triliun dari rencana awal Rp3,5 triliun karena skema penjualannya bersifat best effort, yaitu penjamin emisi hanya menjual sebanyak yang benar-benar diminati investor dan tidak menanggung sisa yang tidak terjual. Pos yang tersentuh adalah utang berbunga dan beban bunga perusahaan: obligasi dan sukuk ini menambah kewajiban dengan bunga tetap 10 sampai 10,5 persen per tahun yang harus dibayar setiap tiga bulan dari kas operasional, sehingga menambah beban bunga tahunan dan ikut memengaruhi arus kas perusahaan, sementara ekuitas pemegang saham tidak berubah karena ini bukan penerbitan saham baru. Yang perlu dipantau berikutnya adalah pembayaran bunga dan bagi hasil pertama pada 28 Januari 2027, serta pelunasan penuh pokok secara sekaligus pada 28 Oktober 2029 untuk seri bertenor tiga tahun dan 28 Oktober 2031 untuk seri bertenor lima tahun, karena skema bullet payment membuat seluruh pokok jatuh pada satu tanggal, bukan dicicil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bumi-akuisisi-100-saham-mount-margaret-senilai-us-22-juta",
+  "category": "Aksi Korporasi",
+  "title": "BUMI Akuisisi 100% Saham [Mount Margaret] Senilai US$22 Juta",
+  "deck": "Lewat anak usaha di Australia, Bumi Resources mengambil alih seluruh saham Mount Margaret Mining senilai US$22,01 juta untuk diversifikasi usaha di luar batu bara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T07:48:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11ce08e911_5b656a1e0d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUMI",
+  "tags": [
+   "BUMI",
+   "akuisisi",
+   "pertambangan",
+   "diversifikasi usaha"
+  ],
+  "body": [
+   "Bumi Resources Tbk (BUMI) melaporkan ke Otoritas Jasa Keuangan bahwa pada 23 Oktober 2026 anak usahanya di Australia, Bumi Resources Australia Pty Ltd (BRA), yang sahamnya 100 persen dimiliki BUMI, telah mengambil alih seluruh saham Mount Margaret Mining Pty Ltd, perusahaan yang didirikan berdasarkan hukum Australia. Saham yang diakuisisi berjumlah 2 lembar, yaitu seluruh saham yang pernah diterbitkan Mount Margaret. Dengan transaksi ini, BUMI kini menguasai 100 persen saham Mount Margaret secara tidak langsung melalui BRA. Nilai total transaksi tercatat sebesar US$22.008.708,33.",
+   "Dalam laporannya, manajemen BUMI menyebut langkah ini sebagai bagian dari rencana transformasi perusahaan dan program diversifikasi usaha di luar sektor batu bara. Perusahaan menyatakan transaksi tersebut akan berdampak positif terhadap kegiatan usahanya dan memberi nilai tambah bagi pemegang saham, meski tidak merinci lebih jauh jenis kegiatan usaha yang akan dijalankan Mount Margaret setelah diakuisisi maupun sumber dana yang dipakai untuk membiayai transaksi ini. Pada kolom keterangan lain-lain, BUMI menyatakan tidak ada informasi tambahan. Laporan ditandatangani oleh direksi BUMI dan disampaikan oleh Corporate Secretary Irana Candra Mala."
+  ],
+  "fotoAdegan": "Heavy excavation equipment working at a remote open-pit mineral mine site in the Australian outback under clear sky",
+  "takeaway": "Akuisisi ini condong positif bagi BUMI karena menambah aset usaha baru di luar batu bara tanpa ada sinyal pembiayaan utang dalam dokumen ini, meski nilainya sekitar US$22 juta relatif kecil dibanding skala bisnis BUMI secara keseluruhan sehingga dampaknya ke kinerja konsolidasi kemungkinan belum besar. Pos yang tersentuh adalah arus kas, yaitu catatan uang yang benar-benar keluar atau masuk ke kas perusahaan, karena dana sebesar itu dipakai untuk membeli saham Mount Margaret, dan juga ekuitas konsolidasi karena BUMI kini mencatat aset baru dari anak usaha ini dalam pembukuannya. Yang perlu dipantau berikutnya adalah apakah BUMI akan mengungkap rencana bisnis konkret Mount Margaret, termasuk jenis kegiatan pertambangan yang akan dijalankan, sebab dokumen ini belum merincinya sama sekali. Laporan keuangan kuartal berikutnya juga akan menunjukkan bagaimana akuisisi senilai US$22,01 juta ini tercatat dalam pembukuan BUMI.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "adhi-perjanjian-restrukturisasi-utang-mra-resmi-efektif",
   "category": "Aksi Korporasi",
   "title": "ADHI: Perjanjian Restrukturisasi Utang [MRA] Resmi Efektif",

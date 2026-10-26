@@ -12,8 +12,55 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-24T01:40:31.988+07:00",
+ "diperbarui": "2026-10-27T03:07:29.066+07:00",
  "entri": [
+  {
+   "id": "2026-10-26-3",
+   "edisi": "2026-10-26",
+   "benang": "Buyback Darurat Mereda Jadi Rutinitas Kecil",
+   "klaim": "Buyback saham bergeser arah dari sinyal darurat di tengah gejolak pasar menjadi langkah administratif rutin dengan nilai kecil.",
+   "penanda": "Ada atau tidaknya emiten besar baru yang mengajukan buyback skala besar, atau berhenti di tiga nama kecil ini",
+   "tenggat": "2026-11-02",
+   "tenggatLabel": "dalam sepekan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-26-2",
+   "edisi": "2026-10-26",
+   "benang": "Ekspansi Kuartal Ini Banyak Dibayar Utang",
+   "klaim": "Pembiayaan ekspansi dan akuisisi emiten lintas sektor tahun ini lebih banyak ditopang utang baru ketimbang kas internal, dan pola ini akan berlanjut.",
+   "penanda": "Rasio utang terhadap ekuitas di laporan keuangan tahunan 2026 masing-masing perusahaan",
+   "tenggat": null,
+   "tenggatLabel": "terbit awal tahun depan",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-26-1",
+   "edisi": "2026-10-26",
+   "benang": "Negara Perketat Kendali Rantai Energi",
+   "klaim": "Negara akan semakin mengambil kendali langsung atas siapa boleh mengelola dan siapa boleh membeli sumber energi strategis, menggeser mekanisme tender dan pasar terbuka ke penugasan serta negosiasi langsung antarpemerintah.",
+   "penanda": "Badan layanan umum hasil Perpres 107/2026 benar-benar mulai beroperasi menggantikan tender Pertamina",
+   "tenggat": null,
+   "tenggatLabel": "dalam beberapa bulan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "arah-pembatasan-pertalite-2026-11-01",
+   "edisi": null,
+   "isu": "pembatasan-pertalite",
+   "isuNama": "Pembatasan Subsidi BBM",
+   "benang": "Apakah pembatasan pembelian BBM subsidi benar-benar berlaku pada jadwal yang diumumkan?",
+   "cabang": "Ditunda",
+   "klaim": "Pembatasan pembelian Pertalite untuk rumah tangga desil 9 dan 10 tidak jadi berlaku pada 1 November 2026 karena validasi data penerima belum selesai, sehingga penyaluran Pertalite bersubsidi tetap berjalan seperti sebelumnya.",
+   "penanda": "Yang berubah konkret adalah pemerintah menambah pengawas manusia langsung di titik akhir distribusi BBM, dengan menempatkan petugas muda di 3.679 SPBU di seluruh Indonesia, dan pendaftarannya dibuka 24 Oktober sampai 1 November.",
+   "tenggat": "2026-11-01",
+   "tenggatLabel": "1 November 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-23-3",
    "edisi": "2026-10-23",
@@ -1327,7 +1374,7 @@ var RAPOR = {
    "penanda": "Apakah lokasi cold storage baru BLOG dan rumah sakit baru HEAL sudah mulai berkontribusi penuh ke pendapatan.",
    "tenggat": "2026-09-08",
    "tenggatLabel": "rangkaian public expose semester satu 2026 yang dijadwalkan 8 September 2026",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {
@@ -1822,7 +1869,7 @@ var RAPOR = {
    "penanda": "Pergerakan rupiah menjelang dan sesudah rebalancing MSCI efektif 1 September 2026.",
    "tenggat": "2026-09-08",
    "tenggatLabel": "pekan pertama September 2026",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {

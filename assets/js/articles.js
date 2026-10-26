@@ -3,6 +3,266 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "hdit-pendapatan-ambruk-98-rugi-bersih-rp17-m",
+  "category": "Aksi Korporasi",
+  "title": "HDIT: Pendapatan [Ambruk] 98%, Rugi Bersih Rp17 M",
+  "deck": "Pendapatan Hensel Davest Indonesia turun 98,6 persen jadi Rp263 juta pada kuartal III 2026, rugi bersih melebar ke Rp16,97 miliar, dan kas tersisa Rp2 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T14:55:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026150727-64734-0/FinancialStatement-2026-III-HDIT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HDIT",
+  "tags": [
+   "HDIT",
+   "laporan keuangan",
+   "kinerja emiten",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Hensel Davest Indonesia Tbk (HDIT) melaporkan pendapatan hanya Rp263,08 juta untuk periode sembilan bulan yang berakhir 30 September 2026, merosot 98,6 persen dari Rp18,51 miliar pada periode yang sama tahun 2025. Di saat pendapatan nyaris lenyap, beban umum dan administrasi justru naik 65,2 persen menjadi Rp17,04 miliar dari Rp10,31 miliar. Akibatnya rugi bersih periode berjalan melebar jadi Rp16,97 miliar, naik 64,5 persen dari Rp10,31 miliar pada 9 bulan 2025, dan rugi per saham dasar serta dilusian membesar dari Rp6,76 menjadi Rp11,13.",
+   "Di sisi neraca, kas dan setara kas perusahaan anjlok ke Rp2,07 juta per 30 September 2026, dari Rp239,31 juta pada akhir Desember 2025, turun 99,13 persen. Arus kas dari aktivitas operasi masih tercatat negatif Rp237,23 juta, memburuk dari negatif Rp19,18 juta pada periode yang sama tahun lalu. Total aset turun 6,43 persen menjadi Rp275,76 miliar dan total liabilitas turun 3,63 persen menjadi Rp47,88 miliar, sementara total ekuitas turun sekitar 7 persen dari Rp245,03 miliar menjadi Rp227,88 miliar karena akumulasi rugi (saldo laba negatif) membengkak dari Rp65,70 miliar menjadi Rp82,81 miliar.",
+   "Dalam surat terpisah ke Bursa Efek Indonesia, manajemen menegaskan perubahan pos aset dan liabilitas pada periode ini masih di bawah ambang 20 persen yang mewajibkan penjelasan khusus ke bursa. Perusahaan, yang bergerak di sektor aplikasi dan layanan daring, memiliki beberapa anak usaha yakni PT Motransfer Otoritas, PT Biropay Indoteknologi, dan PT Emposh Sinergi yang masing-masing dimiliki langsung 99,99 persen, serta PT Starlink Solusi Makassar, penyedia payment gateway, yang dimiliki 55 persen secara tidak langsung. HDIT juga tercatat memindahkan alamat kantor terdaftarnya ke Ruko Metro Square, Jalan Gunung Latimojong No. G-35, Makassar, berdasarkan Akta Notaris No. 11 tanggal 30 Juni 2026."
+  ],
+  "fotoAdegan": "Rows of desks with powered-off computer monitors in a quiet small software office, soft afternoon light through windows",
+  "takeaway": "Laporan ini condong negatif bagi HDIT, sebab bisnis intinya praktis berhenti menghasilkan pendapatan sementara rugi dan tekanan kas justru membesar. Yang tersentuh ada tiga pos: pendapatan usaha yang menjadi sumber utama pemasukan perusahaan, kas serta arus kas operasi yang menunjukkan apakah perusahaan masih punya uang tunai untuk kebutuhan sehari-hari, dan rugi per saham yang mencerminkan beban kerugian yang ditanggung setiap lembar saham investor. Ekuitas, yaitu nilai kekayaan bersih yang jadi hak pemegang saham, ikut tergerus karena rugi yang terus menumpuk dari tahun ke tahun. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV atau tahunan 2026, yang akan menunjukkan apakah pendapatan bisa bangkit dari titik serendah Rp263 juta ini atau perusahaan perlu mencari dana segar untuk menutupi kas operasional yang sudah menipis tajam.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ppro-lengkapi-direksi-rombak-jabatan-lewat-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "PPRO Lengkapi Direksi, [Rombak] Jabatan Lewat RUPSLB",
+  "deck": "RUPSLB PPRO menyetujui pengangkatan Adi Suryolaksono sebagai direktur baru dan mengubah nama dua jabatan direksi, sementara Nurjaman diberhentikan dengan hormat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T14:54:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7324bc473c_fe254fef7d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRO",
+  "tags": [
+   "PPRO",
+   "direksi",
+   "RUPSLB",
+   "PP Properti"
+  ],
+  "body": [
+   "PT PP Properti Tbk (PPRO) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 22 Oktober 2026, di Auditorium Wisma Subiyanto, Jakarta, dengan agenda persetujuan perubahan susunan pengurus perseroan. Rapat dihadiri pemegang saham dan/atau kuasanya yang mewakili 40.177.476.821 saham, atau sekitar 65,14 persen dari seluruh saham dengan hak suara sah yang telah diterbitkan perseroan, dengan partisipasi elektronik difasilitasi melalui aplikasi eASY.KSEI.",
+   "Dalam rapat tersebut, pemegang saham menyetujui pengangkatan Adi Suryolaksono sebagai Direktur Pengelolaan Bisnis dan HCM, berlaku sejak RUPSLB ditutup. Pemegang saham juga menyetujui perubahan nama dua jabatan direksi, yaitu menjadi Direktur Keuangan dan Direktur Pengelolaan Bisnis dan HCM. Di sisi lain, RUPSLB mengukuhkan pemberhentian dengan hormat Nurjaman dari jabatan Direktur Perseroan.",
+   "Dengan keputusan itu, susunan pengurus PPRO sejak ditutupnya RUPSLB menjadi: Dewan Komisaris terdiri dari Fakhrul Ulum sebagai Komisaris Utama, Ronaldy Samuel Sinurat sebagai Komisaris Independen, dan Abdul Rahman sebagai Komisaris Independen. Direksi terdiri dari Dyah Rahadyannie sebagai Direktur Utama, Ikhwan Putra Pradhana sebagai Direktur Keuangan, dan Adi Suryolaksono sebagai Direktur Pengelolaan Bisnis dan HCM. Direktur Utama PPRO, Dyah Rahadyannie, mengatakan penguatan susunan direksi ini diharapkan mendukung koordinasi dan pelaksanaan strategi perseroan secara lebih terarah, terutama dalam menyelaraskan pengelolaan bisnis, keuangan, dan sumber daya manusia."
+  ],
+  "fotoAdegan": "Rows of business professionals in formal attire seated inside a large corporate auditorium during a shareholders meeting, soft overhead lighting",
+  "takeaway": "Laporan ini netral bagi PPRO karena isinya murni soal susunan pengurus, bukan transaksi keuangan atau perubahan kepemilikan saham yang langsung mengubah angka di laporan keuangan. Perubahan direksi tidak menyentuh pos seperti ekuitas, arus kas, atau beban bunga secara langsung, tapi pasar tetap memperhatikannya karena siapa yang memegang kendali keuangan dan operasional ikut menentukan seberapa cepat perusahaan bisa membalik kondisi rugi. Ini relevan karena PPRO baru melaporkan rugi bersih yang melonjak enam kali lipat dan ekuitas yang terus tergerus pada kuartal ketiga 2026, sehingga efektivitas direksi baru ini kemungkinan akan diuji lewat laporan keuangan kuartal atau tahunan berikutnya. Pembaca perlu memantau apakah susunan direksi yang baru lengkap ini benar-benar membawa perbaikan kinerja, bukan sekadar perubahan nama jabatan di atas kertas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pdpp-gelar-rupslb-2-desember-batas-usul-agenda-2-november",
+  "category": "Aksi Korporasi",
+  "title": "PDPP Gelar [RUPSLB] 2 Desember, Batas Usul Agenda 2 November",
+  "deck": "Primadaya Plastisindo menjadwalkan RUPSLB pada 2 Desember 2026, dengan daftar pemegang saham berhak hadir dicatat 9 November dan usulan agenda ditutup 2 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T14:49:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9851e231b4_9d49d18688.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PDPP",
+  "tags": [
+   "PDPP",
+   "RUPSLB",
+   "Primadaya Plastisindo",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Primadaya Plastisindo Tbk (PDPP) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 2 Desember 2026, pukul 10.00 WIB, di Ruang Rapat Gedung B kantor perusahaan di Jalan Raya Pasar Kemis, Kabupaten Tangerang, Banten. Rapat akan digelar secara fisik sekaligus elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, sesuai aturan OJK soal RUPS elektronik. Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan pada Selasa, 10 November 2026, melalui situs Bursa Efek Indonesia, KSEI, dan situs perusahaan.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 9 November 2026, pukul 16.00 WIB. Pemegang saham yang ingin mengusulkan mata acara rapat harus bersama-sama mewakili paling sedikit 1/20 dari total saham berhak suara, dan usulan tertulis itu harus sudah diterima direksi paling lambat Senin, 2 November 2026, pukul 16.00 WIB, disertai alasan yang jelas serta materi usulan yang terkait langsung dengan kegiatan usaha perusahaan.",
+   "Karena keterbatasan ruang, perusahaan hanya akan mengakomodasi maksimal 10 pemegang saham untuk hadir secara fisik, dengan prinsip siapa yang lebih dulu mendaftar lewat email yang akan diumumkan, dan paling lambat 10 hari kalender sebelum rapat. Pemegang saham yang tidak hadir fisik didorong memberi suara lewat aplikasi eASY.KSEI atau memberi kuasa, baik tertulis maupun elektronik, kepada pihak independen yang ditunjuk perusahaan, yaitu PT Sinartama Gunita."
+  ],
+  "fotoAdegan": "Factory workers checking plastic pellet extrusion machines on an industrial production line, dim overhead lighting",
+  "takeaway": "Laporan ini netral bagi investor karena baru sebatas pemberitahuan jadwal RUPSLB, belum memuat agenda atau keputusan korporasi apa pun yang bisa mengubah kinerja keuangan perusahaan. Pos kinerja yang nanti tersentuh, misalnya jumlah saham beredar kalau agendanya soal penerbitan saham baru, atau ekuitas kalau soal pembagian dividen, baru akan terlihat setelah agenda resminya terbit. Yang perlu dipantau adalah pemanggilan resmi RUPSLB pada 10 November 2026, yang akan memuat mata acara sebenarnya, serta pelaksanaan rapatnya sendiri pada 2 Desember 2026. Pemegang saham yang punya usulan agenda juga punya waktu terbatas, hanya sampai 2 November 2026, untuk mengajukannya secara tertulis ke direksi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ikpm-cetak-laba-rp3-74-miliar-keluar-dari-rugi-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "IKPM Cetak Laba Rp3,74 Miliar, Keluar dari [Rugi] Kuartal III 2026",
+  "deck": "Ikapharmindo Putramas (IKPM) membalik rugi Rp31,95 miliar jadi laba Rp3,74 miliar pada sembilan bulan 2026 seiring penjualan naik 19,6 persen, meski arus kas operasional berbalik negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T14:44:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026145405-64580-0/FinancialStatement-2026-III-IKPM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IKPM",
+  "tags": [
+   "IKPM",
+   "laporan keuangan",
+   "farmasi",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Ikapharmindo Putramas Tbk (IKPM) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 26 Oktober 2026. Surat pernyataan direksi ditandatangani oleh Direktur Utama Kartono dan Direktur Ayi Saepudin yang juga menjabat corporate secretary perseroan, produsen farmasi dan personal care yang sahamnya tercatat di papan pengembangan BEI.",
+   "Penjualan neto perseroan selama sembilan bulan 2026 tercatat Rp307,38 miliar, naik 19,6 persen dari Rp257,10 miliar pada periode yang sama tahun lalu. Setelah dikurangi beban penjualan dan beban umum serta administrasi, perseroan membalik posisi dari rugi usaha Rp23,43 miliar pada 9M 2025 menjadi laba usaha Rp9,38 miliar pada 9M 2026. Setelah memperhitungkan biaya keuangan Rp9,49 miliar, perseroan akhirnya mencetak laba bersih Rp3,74 miliar, berbalik dari rugi bersih Rp31,95 miliar pada periode yang sama tahun sebelumnya. Laba per saham dasar pun berbalik dari rugi Rp18,97 per saham menjadi laba Rp2,22 per saham.",
+   "Di sisi posisi keuangan, total aset perseroan naik tipis menjadi Rp465,93 miliar per 30 September 2026 dari Rp464,00 miliar pada akhir 2025, sementara total ekuitas naik dari Rp218,74 miliar menjadi Rp222,48 miliar. Kas dan bank justru menyusut dari Rp47,02 miliar menjadi Rp41,30 miliar, dan laporan arus kas mencatat kas dari aktivitas operasi berbalik menjadi negatif Rp2,39 miliar, dari sebelumnya menghasilkan kas positif Rp12,57 miliar pada 9M 2025. Piutang usaha dari pihak berelasi juga membesar dari Rp164,61 miliar menjadi Rp175,09 miliar, jauh lebih besar dibandingkan piutang dari pihak ketiga yang hanya Rp20,45 miliar."
+  ],
+  "fotoAdegan": "Rows of medicine bottles and blister packs moving along a pharmaceutical packaging line, workers in white coats, bright clean factory interior",
+  "takeaway": "Laporan ini condong positif karena perseroan berhasil membalik posisi dari rugi bersih Rp31,95 miliar menjadi laba bersih Rp3,74 miliar sambil membukukan kenaikan penjualan hampir 20 persen, tapi catatan ini perlu diimbangi dua sinyal hati-hati di bawahnya. Laba per saham, yaitu bagian laba yang secara hitungan jatuh ke setiap lembar saham beredar, berbalik dari rugi menjadi untung sehingga ekuitas, yaitu total kekayaan bersih perseroan setelah dikurangi utang, ikut naik tipis, namun arus kas dari kegiatan operasional, yaitu uang tunai yang benar-benar masuk dan keluar dari bisnis sehari-hari, justru berbalik menjadi negatif meski perseroan mencetak laba di atas kertas. Pelaku pasar biasanya mencurigai laba yang tidak dibarengi arus kas positif karena bisa berarti laba tertahan di piutang yang belum tertagih, dan di laporan ini piutang dari pihak berelasi memang membesar menjadi Rp175,09 miliar, jauh di atas piutang pihak ketiga. Yang perlu dipantau pada laporan kuartal berikutnya adalah apakah arus kas operasional kembali positif dan apakah piutang dari pihak berelasi tersebut benar-benar tertagih, karena itulah yang akan menentukan apakah perbaikan laba ini benar-benar solid secara kas.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "gema-panggil-rupslb-agendakan-perubahan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "GEMA Panggil RUPSLB, Agendakan [Perubahan] Komisaris",
+  "deck": "Gema Grahasarana (GEMA) menggelar RUPSLB pada 17 November 2026 untuk membahas perubahan susunan Dewan Komisaris dan penyesuaian pasal anggaran dasar sesuai KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T14:40:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5920c6247d_1352afbd87.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GEMA",
+  "tags": [
+   "GEMA",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Gema Grahasarana"
+  ],
+  "body": [
+   "PT Gema Grahasarana Tbk (GEMA) mengundang para pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026 pukul 14.00 WIB di Gedung SOUTH78, Jalan Boulevard Gading Serpong Blok O No 7-8, Medang, Pagedangan, Tangerang. Yang berhak hadir adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 23 Oktober 2026 pukul 16.00 WIB, atau bagi saham dalam penitipan kolektif KSEI, yang tercatat sampai penutupan perdagangan di Bursa Efek Indonesia pada Jumat, 23 Oktober 2026.",
+   "Rapat ini membawa dua agenda. Pertama, perubahan susunan anggota Dewan Komisaris Perseroan sesuai Anggaran Dasar dan aturan Otoritas Jasa Keuangan, namun dokumen pemanggilan belum menyebut nama calon komisaris yang akan diangkat atau diberhentikan, karena hal itu baru akan dibahas dan diputuskan dalam rapat. Kedua, perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan maksud, tujuan, dan kegiatan usaha Perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Perseroan menegaskan perubahan ini bersifat administratif dan bukan perubahan kegiatan usaha sebagaimana diatur dalam POJK No 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha.",
+   "Pemegang saham dapat hadir secara elektronik melalui aplikasi eASY.KSEI atau memberikan kuasa melalui formulir yang tersedia di situs Perseroan. Surat kuasa fisik yang sudah ditandatangani harus diterima oleh biro administrasi efek, PT Adimitra Jasa Korpora di Kirana Avenue III Blok F3 No 5, Kelapa Gading, Jakarta Utara, paling lambat tiga hari kerja sebelum tanggal rapat sampai pukul 16.00 WIB. Perseroan juga mengimbau pemegang saham memberikan kuasa kepada pihak independen yang ditunjuk, yaitu biro administrasi efek tersebut, sesuai Pasal 28 ayat 2 POJK No 15/POJK.04/2020."
+  ],
+  "fotoAdegan": "Rows of modern upholstered office chairs arranged neatly in an empty corporate meeting hall, soft morning light through large windows",
+  "takeaway": "Laporan ini bersifat netral karena hanya memanggil rapat dan belum memuat nama calon komisaris baru atau keputusan final apa pun, sementara agenda penyesuaian anggaran dasar murni administratif tanpa mengubah bisnis inti perusahaan. Perubahan susunan Dewan Komisaris memang tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau laba per saham, tetapi tetap diperhatikan pelaku pasar karena komisaris adalah pihak yang mengawasi kinerja direksi, sehingga wajah baru di kursi pengawas bisa mengubah arah pengawasan terhadap manajemen. Yang perlu dipantau adalah hasil RUPSLB pada 17 November 2026, saat nama komisaris baru dan pengesahan resmi perubahan Pasal 3 anggaran dasar akan diputuskan. Pemegang saham yang ingin memberi kuasa kepada pihak lain harus mengirim surat kuasa ke PT Adimitra Jasa Korpora paling lambat tiga hari kerja sebelum rapat, sekitar 12 November 2026, sampai pukul 16.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mbss-teken-kontrak-angkutan-material-5-tahun-dengan-gel",
+  "category": "Aksi Korporasi",
+  "title": "MBSS Teken [Kontrak] Angkutan Material 5 Tahun dengan GEL",
+  "deck": "Mitrabahtera Segara Sejati menandatangani perjanjian payung lima tahun dengan PT Global Energi Lestari untuk mengangkut material hingga 500.000 ton per bulan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T14:37:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/922c76d31e_ad44c44ebf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBSS",
+  "tags": [
+   "MBSS",
+   "kontrak pelayaran",
+   "Global Energi Lestari",
+   "angkutan material"
+  ],
+  "body": [
+   "PT Mitrabahtera Segara Sejati Tbk (MBSS) menandatangani Perjanjian Pengangkutan Material dengan PT Global Energi Lestari (GEL) pada 26 Oktober 2026. Perjanjian ini berbentuk perjanjian payung atau framework agreement, artinya baru menjadi dasar hukum bagi MBSS untuk menyediakan jasa pengangkutan material ke GEL, sementara rincian teknis setiap pengiriman, yaitu tujuan, kapal yang dipakai, jadwal, dan biaya angkutan, baru akan ditetapkan satu per satu lewat dokumen turunan bernama Surat Perjanjian Angkutan Laut (SPAL).",
+   "Dalam perjanjian ini, volume material yang ditargetkan diangkut MBSS untuk GEL sebesar 500.000 metrik ton per bulan, berlaku selama jangka waktu kerja sama lima tahun sejak tanggal penandatanganan. Perusahaan menyebut MBSS dan GEL adalah dua pihak yang independen, tanpa hubungan kepemilikan saham atau kepengurusan satu sama lain, sehingga transaksi ini tidak tergolong transaksi afiliasi menurut aturan Otoritas Jasa Keuangan Nomor 42/POJK.04/2020.",
+   "MBSS menyebut kerja sama ini akan menambah volume dan aktivitas operasional pengangkutan materialnya, serta memberi kontribusi positif terhadap pendapatan dan memperkuat portofolio pendapatan perusahaan secara berkelanjutan sepanjang masa berlaku perjanjian. Perusahaan juga menegaskan penandatanganan ini tidak mengganggu kelangsungan usaha dan telah sesuai ketentuan hukum yang berlaku."
+  ],
+  "fotoAdegan": "A bulk cargo ship being loaded with dry material at an Indonesian industrial port, cranes overhead, overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi MBSS karena membuka potensi pendapatan jasa angkutan yang terikat kontrak selama lima tahun, lebih panjang dari siklus kontrak spot yang biasa di bisnis pelayaran. Pos yang tersentuh adalah arus kas dari kegiatan usaha, yaitu uang masuk dari jasa yang dijual, sebab kontrak sebesar ini bila berjalan penuh akan menambah pemasukan rutin MBSS selama lima tahun ke depan. Namun besaran nilai uang kontrak, tarif per pengiriman, dan jadwal kapal belum ditentukan di sini, semuanya baru akan muncul di SPAL untuk tiap pengiriman, sehingga target 500.000 ton per bulan masih berupa rencana, bukan kepastian pendapatan. Yang perlu dipantau selanjutnya adalah penerbitan SPAL pertama, karena dokumen itu yang akan memperlihatkan apakah tarif dan volume riil benar-benar mendekati target yang disebutkan dalam perjanjian payung ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "laba-bles-melonjak-484-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba [BLES] Melonjak 484% di Kuartal III 2026",
+  "deck": "Penjualan BLES tumbuh 31% secara tahunan menjadi Rp1,4 triliun, didorong permintaan bata ringan dan utilisasi pabrik yang naik ke 69%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T14:14:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5907879ed2_fef3f84229.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLES",
+  "tags": [
+   "BLES",
+   "laporan keuangan",
+   "bata ringan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Superior Prima Sukses Tbk (BLES), produsen bata ringan dengan merek Blesscon dan Superiore Block, mencatat penjualan Rp1,4 triliun untuk sembilan bulan pertama 2026, naik 31 persen dibandingkan periode yang sama tahun sebelumnya. Laba yang menjadi hak pemilik perusahaan mencapai Rp284 miliar, tumbuh 484 persen secara tahunan. Perusahaan menyebut kenaikan ini didorong oleh permintaan bata ringan yang meningkat, penambahan kapasitas produksi, serta optimalisasi penggunaan pabrik.",
+   "Dari sisi operasional, volume produksi BLES mencapai 2.902.730 meter kubik sepanjang Januari sampai September 2026, naik 10 persen dari 2.649.455 meter kubik pada periode yang sama tahun lalu. Sejalan dengan itu, tingkat utilisasi pabrik naik dari 63 persen menjadi 69 persen. Direktur BLES, Andrew, mengatakan pertumbuhan penjualan dan laba perusahaan mencerminkan upaya mengoptimalkan kapasitas produksi serta jaringan pabrik yang tersebar di beberapa wilayah.",
+   "Di luar produksi, BLES menjalankan program efisiensi energi lewat panel surya di fasilitas produksinya, dengan total kapasitas terpasang mencapai 4.362 kilowatt peak. Perusahaan saat ini mengoperasikan enam fasilitas produksi di Mojokerto, Lamongan, Sragen, Sidoarjo, dan Banjarnegara, dengan kapasitas produksi tahunan sekitar 5,6 juta meter kubik bata ringan."
+  ],
+  "fotoAdegan": "Workers stacking lightweight aerated concrete blocks on pallets inside a large factory warehouse, forklift nearby, industrial lighting",
+  "takeaway": "Laporan ini positif bagi BLES, karena pertumbuhan laba yang jauh melampaui pertumbuhan penjualan menunjukkan margin keuntungan perusahaan ikut membesar, bukan sekadar penjualan yang naik. Yang tersentuh di sini adalah margin laba dan efisiensi biaya produksi, sebab kenaikan tingkat utilisasi pabrik dari 63 persen menjadi 69 persen berarti biaya tetap pabrik tersebar ke lebih banyak unit produk sehingga ongkos produksi per meter kubik jadi lebih murah, ditambah penggunaan panel surya 4.362 kilowatt peak yang menekan biaya listrik. Pelaku pasar memperhatikan margin karena itu menunjukkan apakah kenaikan penjualan benar benar berubah jadi keuntungan atau habis dimakan biaya. Yang perlu dipantau berikutnya adalah apakah utilisasi pabrik bisa terus naik mendekati kapasitas penuh sekitar 5,6 juta meter kubik per tahun pada kuartal mendatang, karena jika utilisasi mandek di kisaran 69 persen, laju pertumbuhan margin seperti kuartal III ini akan sulit diulang.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bina-berhentikan-kepala-audit-internal-tunjuk-pjs-baru",
+  "category": "Aksi Korporasi",
+  "title": "BINA [Berhentikan] Kepala Audit Internal, Tunjuk Pjs Baru",
+  "deck": "Bank Ina Perdana memberhentikan Romy Yulianto Santoso dari Kepala Divisi Internal Audit dan menunjuk Tjong Lily Inawati sebagai pejabat sementara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T14:11:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/61ec89a037_e258bc676e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BINA",
+  "tags": [
+   "BINA",
+   "internal audit",
+   "perbankan",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Bank Ina Perdana Tbk (BINA) melaporkan ke Otoritas Jasa Keuangan pemberhentian Romy Yulianto Santoso dari posisi Kepala Divisi Internal Audit, efektif 23 Oktober 2026. Pemberhentian ini tertuang dalam SK Direksi No. SK/DIR/052/1026 tanggal 21 Oktober 2026 yang mencabut keputusan pengangkatannya sebagai pejabat eksekutif tersebut.",
+   "Pada tanggal yang sama, bank menunjuk Tjong Lily Inawati sebagai Penjabat Sementara (Pjs) Kepala Divisi Internal Audit, berdasarkan SK Direksi No. SK/DIR/053/1026 tanggal 21 Oktober 2026. Jabatan ini akan dipegangnya sampai direksi menunjuk kepala definitif yang baru, tanpa batas waktu yang disebutkan dalam dokumen.",
+   "Perusahaan menyatakan pelaporan ini dilakukan untuk memenuhi POJK No. 17 Tahun 2023 tentang Penerapan Tata Kelola Bagi Bank Umum, khususnya Pasal 83 ayat (5) huruf a, serta POJK No. 56/POJK.04/2015 tentang Pembentukan dan Pedoman Penyusunan Piagam Unit Audit Internal Pasal 5 ayat (1) jo Pasal 11. Surat ke OJK ditandatangani oleh Wakil Direktur Utama, sementara pengumuman keterbukaan informasi ditandatangani oleh Nancy Patricia Lim, Kepala Divisi Legal & Corsec BINA."
+  ],
+  "fotoAdegan": "Bank employees in formal attire reviewing paper files at a wooden desk inside a modern branch office, soft morning light",
+  "takeaway": "Laporan ini netral bagi BINA karena murni pergantian pejabat eksekutif di fungsi pengawasan internal, tanpa ada angka transaksi, kerugian, atau sanksi yang disebutkan dalam dokumen. Internal audit adalah unit yang mengawasi kepatuhan dan pengendalian risiko bank dari dalam, jadi pergantian kepalanya tidak langsung menyentuh ekuitas, arus kas, atau laba per saham, tapi tetap relevan karena kualitas pengawasan internal mempengaruhi kesehatan bank dalam jangka panjang. Status Tjong Lily Inawati masih berstatus sementara (Pjs), sehingga yang perlu dipantau selanjutnya adalah kapan BINA mengumumkan kepala definitif baru untuk divisi ini, karena dokumen tidak mencantumkan tenggat waktunya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ahap-aca-lepas-582-juta-saham-untuk-perkuat-free-float",
+  "category": "Aksi Korporasi",
+  "title": "AHAP: ACA Lepas 582 Juta Saham untuk Perkuat [Free Float]",
+  "deck": "Asuransi Central Asia menjual 582 juta saham AHAP seharga Rp50 per lembar, hak suaranya turun dari 69,51% menjadi 62,58% demi memenuhi syarat free float.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T14:02:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-2289-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AHAP",
+  "tags": [
+   "AHAP",
+   "Asuransi Central Asia",
+   "kepemilikan saham",
+   "free float"
+  ],
+  "body": [
+   "Asuransi Central Asia (ACA), pemegang saham pengendali PT Asuransi Harta Aman Pratama Tbk (AHAP), melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya telah menjual 582.099.135 lembar saham AHAP secara tidak langsung pada 23 Oktober 2026. Transaksi dilakukan dengan harga Rp50 per saham. Setelah penjualan ini, kepemilikan ACA di AHAP berkurang dari 5.838.687.150 lembar menjadi 5.256.588.015 lembar.",
+   "Penurunan jumlah saham ini membuat hak suara ACA di AHAP turun dari 69,51% menjadi 62,58%, atau berkurang 6,93 poin persentase. Dalam laporan yang disampaikan ke OJK pada 26 Oktober 2026, ACA menyebut tujuan transaksi adalah divestasi saham AHAP dalam rangka meningkatkan proporsi saham yang beredar bebas di pasar atau free float. Meski kepemilikannya berkurang, ACA tetap menjadi pemegang saham pengendali AHAP karena hak suaranya masih berada di atas 50%.",
+   "Transaksi ini melengkapi rangkaian perubahan kepemilikan ACA di AHAP dalam sepekan terakhir. Pada 19 Oktober 2026, AHAP mencatatkan 607,6 juta saham baru hasil pelaksanaan hak memesan efek terlebih dahulu, dan pada 23 Oktober 2026 ACA sempat menambah kepemilikannya hingga hak suaranya mencapai 69,51%. Penjualan sebagian saham yang baru dilaporkan ini tampak sebagai langkah lanjutan untuk mengembalikan porsi saham publik ke tingkat yang disyaratkan bursa."
+  ],
+  "fotoAdegan": "Exterior view of a mid-rise Jakarta financial district office building at dusk, lit windows, street traffic below",
+  "takeaway": "Laporan ini kami nilai netral bagi AHAP, karena meski ukurannya besar, hampir 10% dari kepemilikan ACA, tujuannya tertulis jelas sebagai pemenuhan syarat free float, bukan sinyal ACA kehilangan keyakinan terhadap perusahaan. Yang tersentuh di sini adalah hak suara pemegang saham pengendali, yang turun dari 69,51% menjadi 62,58% akibat penjualan 582 juta lembar saham; hak suara penting dipantau karena menentukan siapa yang mengendalikan keputusan strategis perusahaan, dan di level 62,58% ACA masih memegang kendali penuh. Harga transaksi Rp50 per saham jauh di bawah harga yang biasa diperdagangkan di pasar reguler, yang mengindikasikan ini bukan jual beli di bursa terbuka melainkan pengalihan yang diatur khusus untuk tujuan free float. Yang perlu dipantau selanjutnya adalah apakah porsi saham publik AHAP sudah memenuhi batas minimum yang disyaratkan Bursa Efek Indonesia setelah transaksi ini, serta apakah ACA akan melakukan penyesuaian kepemilikan lanjutan menyusul rangkaian rights issue yang baru selesai pada 19 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rise-catat-laba-bersih-melonjak-167-persen-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "RISE Catat [Laba] Bersih Melonjak 167 Persen di Kuartal III 2026",
+  "deck": "Laba tahun berjalan RISE naik dari Rp55,12 miliar menjadi Rp147,45 miliar pada sembilan bulan 2026, ditopang kenaikan pendapatan dan efisiensi beban pokok.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T13:37:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026135129-64930-0/FinancialStatement-2026-III-RISE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RISE",
+  "tags": [
+   "RISE",
+   "laporan keuangan",
+   "properti",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Jaya Sukses Makmur Sentosa Tbk (RISE) merilis laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan properti dan perhotelan yang berbasis di Surabaya ini naik dari Rp294,15 miliar menjadi Rp364,48 miliar, sementara laba tahun berjalan melonjak dari Rp55,12 miliar menjadi Rp147,45 miliar. Laba bersih yang menjadi bagian pemilik perusahaan naik dari Rp51,92 miliar menjadi Rp146,91 miliar, mengangkat laba per saham dari Rp3,21 menjadi Rp9,07.",
+   "Kenaikan laba ini didorong oleh perbaikan beban pokok pendapatan, yang justru turun dari Rp164,29 miliar menjadi Rp144,93 miliar meski pendapatan naik, sehingga laba usaha melonjak dari Rp45,17 miliar menjadi Rp133,74 miliar. Di luar bisnis inti, perusahaan juga mencatat keuntungan penyesuaian nilai wajar properti investasi senilai Rp35,13 miliar yang ikut mengerek laba sebelum pajak, berbeda dari periode sebelumnya yang tidak mencatat pos ini. Namun ada pula kerugian selisih portofolio efek yang membesar dari Rp2,76 miliar menjadi Rp37,71 miliar, yang menggerus sebagian kenaikan laba dari pendapatan dividen yang naik dari Rp12,58 miliar menjadi Rp22,53 miliar.",
+   "Dari sisi neraca, kas dan setara kas perusahaan bertambah dari Rp159,65 miliar menjadi Rp233,89 miliar, sementara utang bank jangka pendek naik dari Rp427,46 miliar menjadi Rp499,91 miliar. Total aset tercatat Rp4.319,70 miliar dan total ekuitas Rp3.523,35 miliar per akhir September 2026. Perseroan juga membagikan saham bonus yang menambah jumlah saham beredar dari 10.945.000.000 menjadi 16.198.599.990 lembar, dengan cara mengubah sebagian tambahan modal disetor senilai Rp525,36 miliar menjadi modal saham, bukan dengan menyuntikkan dana segar baru."
+  ],
+  "fotoAdegan": "Construction cranes rising over an unfinished hotel and apartment tower in Surabaya's skyline during a hazy late afternoon.",
+  "takeaway": "Laporan ini condong positif bagi RISE karena kenaikan laba bukan cuma berasal dari pos sekali jadi, laba usaha dari bisnis inti properti dan perhotelan ikut melonjak hampir tiga kali lipat berkat efisiensi biaya di tengah pendapatan yang tumbuh. Yang perlu diperhatikan investor adalah dua pos: laba per saham naik meski jumlah saham beredar bertambah hampir separuh lewat saham bonus, artinya pertumbuhan laba masih mengungguli penambahan jumlah saham tersebut, sementara kerugian dari portofolio efek yang membesar dan keuntungan penyesuaian nilai properti yang sifatnya di atas kertas membuat kualitas laba tidak sepenuhnya berasal dari kas operasi. Karena laporan ini masih berstatus tidak diaudit, hal yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan yang akan mengonfirmasi apakah lonjakan laba ini, termasuk keuntungan penyesuaian nilai properti investasi, tetap bertahan setelah diperiksa auditor independen.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "acst-rugi-rp263-6-miliar-ekuitas-negatif-makin-dalam",
   "category": "Aksi Korporasi",
   "title": "ACST Rugi Rp263,6 Miliar, [Ekuitas] Negatif Makin Dalam",
@@ -388,6 +648,57 @@ var ARTICLES = [
   "fotoAdegan": "Heavy excavation equipment working at a remote open-pit mineral mine site in the Australian outback under clear sky",
   "takeaway": "Akuisisi ini condong positif bagi BUMI karena menambah aset usaha baru di luar batu bara tanpa ada sinyal pembiayaan utang dalam dokumen ini, meski nilainya sekitar US$22 juta relatif kecil dibanding skala bisnis BUMI secara keseluruhan sehingga dampaknya ke kinerja konsolidasi kemungkinan belum besar. Pos yang tersentuh adalah arus kas, yaitu catatan uang yang benar-benar keluar atau masuk ke kas perusahaan, karena dana sebesar itu dipakai untuk membeli saham Mount Margaret, dan juga ekuitas konsolidasi karena BUMI kini mencatat aset baru dari anak usaha ini dalam pembukuannya. Yang perlu dipantau berikutnya adalah apakah BUMI akan mengungkap rencana bisnis konkret Mount Margaret, termasuk jenis kegiatan pertambangan yang akan dijalankan, sebab dokumen ini belum merincinya sama sekali. Laporan keuangan kuartal berikutnya juga akan menunjukkan bagaimana akuisisi senilai US$22,01 juta ini tercatat dalam pembukuan BUMI.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "bq-sesuaikan-waran-sidobqcz6a-usai-sido-bagi-dividen-rp10-saham",
+  "category": "Aksi Korporasi",
+  "title": "BQ [Sesuaikan] Waran SIDOBQCZ6A Usai SIDO Bagi Dividen Rp10/Saham",
+  "deck": "PT Korea Investment and Sekuritas Indonesia menyesuaikan rasio dan harga pelaksanaan waran terstruktur SIDOBQCZ6A menyusul dividen tunai Rp300 miliar dari SIDO.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T07:40:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2294331c58_919db74dec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "SIDO",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia (BQ) mengumumkan penyesuaian syarat dan ketentuan waran terstruktur SIDOBQCZ6A, menyusul keterbukaan informasi PT Industri Jamu Dan Farmasi Sido Muncul Tbk (SIDO) pada 23 Oktober 2026 tentang pembagian dividen tunai. Keputusan dividen itu sendiri sudah disetujui direksi dan dewan komisaris SIDO pada 21 Oktober 2026, dengan total nilai dividen Rp300 miliar atau Rp10 per saham.",
+   "Jadwal pembagian dividen SIDO yang jadi acuan penyesuaian adalah: cum dividen di pasar reguler dan negosiasi pada 2 November 2026, ex dividen pada 3 November 2026, cum dividen di pasar tunai pada 4 November 2026, ex dividen di pasar tunai pada 5 November 2026, penentuan daftar pemegang saham yang berhak pada 4 November 2026, dan pembayaran dividen pada 20 November 2026.",
+   "Sesuai term sheet dan Bagian 3.9 Prospektus Waran Terstruktur, rasio pelaksanaan dan harga pelaksanaan SIDOBQCZ6A akan disesuaikan dengan rumus yang memperhitungkan harga penutupan saham SIDO pada hari bursa terakhir sebelum ex-date serta besaran dividen per saham. BQ, selaku penerbit waran, juga menyatakan penyesuaian itu bisa saja tidak dilakukan bila menurut kebijakannya sendiri dianggap tidak perlu, tanpa kewajiban apa pun kepada pemegang waran. Pengumuman ditandatangani Senior Manager BQ, Eric Gunawan, pada 26 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers packaging traditional herbal medicine bottles on a bright factory production line, Indonesia",
+  "takeaway": "Laporan ini netral bagi BQ karena penyesuaian rasio dan harga pelaksanaan waran murni mekanisme otomatis mengikuti aturan baku di term sheet, bukan keputusan bisnis baru dari BQ, sama seperti dua penyesuaian waran BQ lain yang sudah diberitakan minggu ini. Yang tersentuh bukan laporan keuangan BQ, melainkan nilai waran terstruktur SIDOBQCZ6A, yaitu surat berharga yang memberi hak membeli saham SIDO di harga dan rasio tertentu; penyesuaian ini perlu dilakukan agar pemegang waran tidak dirugikan ketika harga saham SIDO turun akibat pembagian dividen Rp10 per saham. Yang perlu dipantau adalah tanggal ex dividen SIDO pada 3 November 2026 di pasar reguler, karena itu titik di mana rumus penyesuaian benar-benar diterapkan, serta apakah BQ akhirnya memutuskan tetap tidak melakukan penyesuaian sesuai kewenangan diskresinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "unsp-batalkan-rupslb-yang-dijadwalkan-20-november",
+  "category": "Aksi Korporasi",
+  "title": "UNSP [Batalkan] RUPSLB yang Dijadwalkan 20 November",
+  "deck": "Bakrie Sumatera Plantations membatalkan RUPSLB yang sedianya digelar 20 November 2026 di Jakarta Selatan, tanpa menyebut alasan atau jadwal pengganti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T07:19:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae344e133a_aec9e5c886.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNSP",
+  "tags": [
+   "UNSP",
+   "RUPSLB",
+   "Bakrie Sumatera Plantations",
+   "Pembatalan Rapat"
+  ],
+  "body": [
+   "Bakrie Sumatera Plantations Tbk (UNSP) membatalkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula dijadwalkan pada Jumat, 20 November 2026 pukul 14.00 WIB di The Bridge Function Rooms, Horison Suites and Residences Rasuna, Jakarta Selatan. Pembatalan ini disampaikan melalui surat resmi bernomor 019/CS-BSP/RPL/X/2026 tertanggal 26 Oktober 2026, merujuk pada pengumuman RUPSLB sebelumnya yang terbit pada 14 Oktober 2026. Pengumuman ditandatangani oleh Corporate Secretary UNSP, Aditya Indrajati.",
+   "Dalam suratnya, manajemen tidak menjelaskan alasan pembatalan maupun agenda yang semula akan dibahas dalam rapat tersebut. Perseroan hanya menyatakan akan mengumumkan kembali jadwal pelaksanaan RUPSLB pada kesempatan berikutnya, tanpa memberi kepastian waktu maupun rincian agenda baru."
+  ],
+  "fotoAdegan": "Rows of oil palm trees on a plantation with workers loading harvested fruit bunches onto a truck, overcast morning",
+  "takeaway": "Pembatalan RUPSLB tanpa alasan dan tanpa jadwal pengganti ini condong negatif bagi UNSP, karena menambah ketidakpastian tata kelola tepat setelah perseroan baru saja disorot atas dilusi saham besar-besaran pekan ini. Lewat RUPSLB inilah pemegang saham biasanya memberi suara untuk keputusan besar seperti penambahan modal, pergantian direksi, atau aksi korporasi lain, sehingga penundaan tanpa kejelasan agenda berarti hak suara soal keputusan tersebut ikut mengambang dan pasar belum bisa menilai dampaknya terhadap jumlah saham beredar atau ekuitas perseroan. Yang perlu dipantau berikutnya adalah kapan UNSP mengumumkan jadwal RUPSLB pengganti beserta agendanya, sebab surat ini sama sekali belum menyebut tanggal pasti.",
+  "sentimen": "negatif"
  },
  {
   "slug": "adhi-perjanjian-restrukturisasi-utang-mra-resmi-efektif",

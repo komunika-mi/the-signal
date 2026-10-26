@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "hdit-pendapatan-ambruk-98-rugi-bersih-rp17-m",
+  "category": "Aksi Korporasi",
+  "title": "HDIT: Pendapatan [Ambruk] 98%, Rugi Bersih Rp17 M",
+  "deck": "Pendapatan Hensel Davest Indonesia turun 98,6 persen jadi Rp263 juta pada kuartal III 2026, rugi bersih melebar ke Rp16,97 miliar, dan kas tersisa Rp2 juta.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HDIT",
+   "laporan keuangan",
+   "kinerja emiten",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026150727-64734-0/FinancialStatement-2026-III-HDIT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppro-lengkapi-direksi-rombak-jabatan-lewat-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "PPRO Lengkapi Direksi, [Rombak] Jabatan Lewat RUPSLB",
+  "deck": "RUPSLB PPRO menyetujui pengangkatan Adi Suryolaksono sebagai direktur baru dan mengubah nama dua jabatan direksi, sementara Nurjaman diberhentikan dengan hormat.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRO",
+   "direksi",
+   "RUPSLB",
+   "PP Properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7324bc473c_fe254fef7d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pdpp-gelar-rupslb-2-desember-batas-usul-agenda-2-november",
+  "category": "Aksi Korporasi",
+  "title": "PDPP Gelar [RUPSLB] 2 Desember, Batas Usul Agenda 2 November",
+  "deck": "Primadaya Plastisindo menjadwalkan RUPSLB pada 2 Desember 2026, dengan daftar pemegang saham berhak hadir dicatat 9 November dan usulan agenda ditutup 2 November 2026.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PDPP",
+   "RUPSLB",
+   "Primadaya Plastisindo",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9851e231b4_9d49d18688.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ikpm-cetak-laba-rp3-74-miliar-keluar-dari-rugi-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "IKPM Cetak Laba Rp3,74 Miliar, Keluar dari [Rugi] Kuartal III 2026",
+  "deck": "Ikapharmindo Putramas (IKPM) membalik rugi Rp31,95 miliar jadi laba Rp3,74 miliar pada sembilan bulan 2026 seiring penjualan naik 19,6 persen, meski arus kas operasional berbalik negatif.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IKPM",
+   "laporan keuangan",
+   "farmasi",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026145405-64580-0/FinancialStatement-2026-III-IKPM.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gema-panggil-rupslb-agendakan-perubahan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "GEMA Panggil RUPSLB, Agendakan [Perubahan] Komisaris",
+  "deck": "Gema Grahasarana (GEMA) menggelar RUPSLB pada 17 November 2026 untuk membahas perubahan susunan Dewan Komisaris dan penyesuaian pasal anggaran dasar sesuai KBLI 2025.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GEMA",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Gema Grahasarana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5920c6247d_1352afbd87.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbss-teken-kontrak-angkutan-material-5-tahun-dengan-gel",
+  "category": "Aksi Korporasi",
+  "title": "MBSS Teken [Kontrak] Angkutan Material 5 Tahun dengan GEL",
+  "deck": "Mitrabahtera Segara Sejati menandatangani perjanjian payung lima tahun dengan PT Global Energi Lestari untuk mengangkut material hingga 500.000 ton per bulan.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBSS",
+   "kontrak pelayaran",
+   "Global Energi Lestari",
+   "angkutan material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/922c76d31e_ad44c44ebf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-bles-melonjak-484-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba [BLES] Melonjak 484% di Kuartal III 2026",
+  "deck": "Penjualan BLES tumbuh 31% secara tahunan menjadi Rp1,4 triliun, didorong permintaan bata ringan dan utilisasi pabrik yang naik ke 69%.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLES",
+   "laporan keuangan",
+   "bata ringan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5907879ed2_fef3f84229.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bina-berhentikan-kepala-audit-internal-tunjuk-pjs-baru",
+  "category": "Aksi Korporasi",
+  "title": "BINA [Berhentikan] Kepala Audit Internal, Tunjuk Pjs Baru",
+  "deck": "Bank Ina Perdana memberhentikan Romy Yulianto Santoso dari Kepala Divisi Internal Audit dan menunjuk Tjong Lily Inawati sebagai pejabat sementara.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BINA",
+   "internal audit",
+   "perbankan",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/61ec89a037_e258bc676e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ahap-aca-lepas-582-juta-saham-untuk-perkuat-free-float",
+  "category": "Aksi Korporasi",
+  "title": "AHAP: ACA Lepas 582 Juta Saham untuk Perkuat [Free Float]",
+  "deck": "Asuransi Central Asia menjual 582 juta saham AHAP seharga Rp50 per lembar, hak suaranya turun dari 69,51% menjadi 62,58% demi memenuhi syarat free float.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AHAP",
+   "Asuransi Central Asia",
+   "kepemilikan saham",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-2289-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rise-catat-laba-bersih-melonjak-167-persen-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "RISE Catat [Laba] Bersih Melonjak 167 Persen di Kuartal III 2026",
+  "deck": "Laba tahun berjalan RISE naik dari Rp55,12 miliar menjadi Rp147,45 miliar pada sembilan bulan 2026, ditopang kenaikan pendapatan dan efisiensi beban pokok.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RISE",
+   "laporan keuangan",
+   "properti",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026135129-64930-0/FinancialStatement-2026-III-RISE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "acst-rugi-rp263-6-miliar-ekuitas-negatif-makin-dalam",
   "category": "Aksi Korporasi",
   "title": "ACST Rugi Rp263,6 Miliar, [Ekuitas] Negatif Makin Dalam",
@@ -242,6 +402,38 @@ var ARTICLES = [
    "diversifikasi usaha"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11ce08e911_5b656a1e0d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bq-sesuaikan-waran-sidobqcz6a-usai-sido-bagi-dividen-rp10-saham",
+  "category": "Aksi Korporasi",
+  "title": "BQ [Sesuaikan] Waran SIDOBQCZ6A Usai SIDO Bagi Dividen Rp10/Saham",
+  "deck": "PT Korea Investment and Sekuritas Indonesia menyesuaikan rasio dan harga pelaksanaan waran terstruktur SIDOBQCZ6A menyusul dividen tunai Rp300 miliar dari SIDO.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BQ",
+   "SIDO",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2294331c58_919db74dec.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unsp-batalkan-rupslb-yang-dijadwalkan-20-november",
+  "category": "Aksi Korporasi",
+  "title": "UNSP [Batalkan] RUPSLB yang Dijadwalkan 20 November",
+  "deck": "Bakrie Sumatera Plantations membatalkan RUPSLB yang sedianya digelar 20 November 2026 di Jakarta Selatan, tanpa menyebut alasan atau jadwal pengganti.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNSP",
+   "RUPSLB",
+   "Bakrie Sumatera Plantations",
+   "Pembatalan Rapat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae344e133a_aec9e5c886.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6242,197 +6434,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823126.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "dssa-tanggapi-isu-pelanggaran-saham-klaim-tak-ada-dampak",
-  "category": "Aksi Korporasi",
-  "title": "DSSA Tanggapi Isu [Pelanggaran] Saham, Klaim Tak Ada Dampak",
-  "deck": "DSSA menjawab permintaan penjelasan BEI terkait pemberitaan CNBC Indonesia soal OJK menelusuri dugaan pelanggaran saham BREN, CUAN, dan DSSA, dan menyatakan belum ada dampak material.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DSSA",
-   "OJK",
-   "BEI",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/558e348077_b5165e9cad.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-komisaris-jual-373-400-saham-senilai-rp182-juta",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Komisaris [Jual] 373.400 Saham Senilai Rp182 Juta",
-  "deck": "Komisaris ITSEC Asia, Andri Hutama Putra, melepas 373.400 saham secara tidak langsung pada 14 Oktober 2026, hak suaranya turun tipis dari 0,209% jadi 0,207%.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-5452-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pool-rombak-susunan-komite-audit-tiga-posisi-berganti",
-  "category": "Aksi Korporasi",
-  "title": "POOL Rombak Susunan [Komite Audit], Tiga Posisi Berganti",
-  "deck": "Pool Advista Indonesia mengganti seluruh pimpinan dan anggota komite audit efektif 29 September 2026, menyusul perubahan dewan komisaris dari RUPSLB bulan sebelumnya.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POOL",
-   "komite audit",
-   "tata kelola perusahaan",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2586c48f00_0c03be5796.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ctbn-rombak-susunan-direksi-satu-direktur-mundur",
-  "category": "Aksi Korporasi",
-  "title": "CTBN Rombak Susunan [Direksi], Satu Direktur Mundur",
-  "deck": "RUPSLB Citra Tubindo menyetujui pengunduran diri Direktur Susi Yulianti dan mengangkat Romulus Suprayono Kuncoro sebagai direktur baru, efektif sejak penutupan rapat 15 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CTBN",
-   "RUPSLB",
-   "Direksi",
-   "Citra Tubindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4c673562bd_c705823241.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dnrk-ganti-satu-anggota-komite-audit-mulai-15-oktober",
-  "category": "Aksi Korporasi",
-  "title": "DNRK ganti satu anggota [Komite Audit] mulai 15 Oktober",
-  "deck": "PT Danareksa (DNRK) mengganti satu anggota komite audit, dari Gideon Siallagan ke Zulfahmy Wahab, efektif 15 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DNRK",
-   "komite audit",
-   "Danareksa",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d13204ccc5_2d5a83d677.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pbsa-siapkan-buyback-rp100-miliar-di-tengah-pasar-bergejolak",
-  "category": "Aksi Korporasi",
-  "title": "PBSA Siapkan [Buyback] Rp100 Miliar di Tengah Pasar Bergejolak",
-  "deck": "PBSA berencana membeli kembali saham maksimal Rp100 miliar dari kas internal pada 20 Oktober 2026 hingga 19 Januari 2027, memakai aturan OJK untuk pasar yang berfluktuasi signifikan.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PBSA",
-   "buyback",
-   "saham treasury",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4b6bc883c1_92696b9e6e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgas-jelaskan-ke-bei-dampak-putusan-arbitrase-gunvor",
-  "category": "Aksi Korporasi",
-  "title": "PGAS Jelaskan ke BEI Dampak Putusan Arbitrase [Gunvor]",
-  "deck": "PGN merespons permintaan penjelasan Bursa soal putusan sebagian LCIA atas kontrak dengan Gunvor dan rencana penyampaian laporan keuangan paruh tahun 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGAS",
-   "arbitrase",
-   "LCIA",
-   "Gunvor"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fd383773ef_33480fc75b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "doid-dampak-karhutla-ke-operasional-buma-tak-material",
-  "category": "Aksi Korporasi",
-  "title": "DOID: Dampak Karhutla ke Operasional BUMA [Tak Material]",
-  "deck": "Anak usaha DOID, BUMA, menjawab permintaan penjelasan BEI dan menyatakan kabut asap Karhutla di Kalimantan hanya mengganggu jarak pandang, tidak berdampak ke produksi maupun pendapatan.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOID",
-   "Karhutla",
-   "BUMA",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2dca6fcad5_edd31cc219.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brif-tetapkan-ulang-komite-audit-efektif-15-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "BRIF tetapkan ulang [komite audit], efektif 15 Oktober 2026",
-  "deck": "PT BRI Multifinance Indonesia (BRIF) memperbarui susunan komite audit efektif 15 Oktober 2026 lewat SK Direksi baru.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRIF",
-   "komite audit",
-   "tata kelola perusahaan",
-   "BRI Multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/87b8170868_43e5b2fe1e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dssa-siapkan-buyback-saham-hingga-rp1-triliun",
-  "category": "Aksi Korporasi",
-  "title": "DSSA Siapkan [Buyback] Saham hingga Rp1 Triliun",
-  "deck": "Dian Swastatika Sentosa berencana membeli kembali sahamnya senilai hingga Rp1 triliun selama tiga bulan, mulai 19 Oktober 2026 sampai 18 Januari 2027.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DSSA",
-   "buyback saham",
-   "Dian Swastatika Sentosa",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/46d1c50b74_199564f0a1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-resmi-dibuka-dari-suspensi-tetap-di-pemantauan-khusus",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Resmi Dibuka dari Suspensi, Tetap di [Pemantauan Khusus]",
-  "deck": "Bursa mencabut suspensi saham MKNT mulai Senin, 19 Oktober 2026, setelah terhenti sejak Juli 2024, namun perdagangan tetap terbatas di Papan Pemantauan Khusus.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "suspensi saham",
-   "BEI",
-   "Papan Pemantauan Khusus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/03d2b61a5e_927e62e215.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bren-siapkan-buyback-saham-senilai-rp1-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BREN Siapkan Buyback Saham Senilai [Rp1 Triliun]",
-  "deck": "Barito Renewables Energy mengalokasikan dana hingga Rp1 triliun untuk membeli kembali sahamnya sendiri mulai 19 Oktober hingga 31 Desember 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BREN",
-   "buyback saham",
-   "Barito Renewables Energy",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ad979f49cd_c76382c743.pdf",
-  "sourceLabel": "IDX"
  }
 ];

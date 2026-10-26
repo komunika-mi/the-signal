@@ -3,6 +3,161 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "city-gelar-public-expose-9-november-laba-naik-50",
+  "category": "Aksi Korporasi",
+  "title": "CITY Gelar [Public Expose] 9 November, Laba Naik 50%",
+  "deck": "Natura City Developments akan menggelar public expose tahunan 9 November 2026, membawa data laba bersih sembilan bulan 2026 yang naik hampir 50 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T17:32:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d5d912a394_e203ad9528.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CITY",
+  "tags": [
+   "CITY",
+   "Natura City Developments",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Natura City Developments Tbk (CITY) mengumumkan rencana public expose tahunan di Hotel Nawana, Sentul City, Kabupaten Bogor, pada 9 November 2026 pukul 14.00 WIB. Surat pemberitahuan ditandatangani Corporate Secretary CITY, Rio Tinto Sirait. Acara akan diisi sambutan dan presentasi profil perusahaan, pembahasan perkembangan proyek Perumahan Serpong Natura City, presentasi performa keuangan, serta sesi tanya jawab yang dibatasi untuk tiga penanya pertama secara langsung.",
+   "Dalam materi yang disiapkan untuk acara tersebut, CITY membuka data keuangan sembilan bulan pertama 2026. Pendapatan bersih perusahaan naik dari Rp104,76 miliar pada periode Januari-September 2025 menjadi Rp125,26 miliar pada periode yang sama tahun ini. Laba bersih melonjak lebih tajam, dari Rp11,92 miliar menjadi Rp17,84 miliar, sehingga laba bersih per saham naik dari Rp2,20 menjadi Rp3,30.",
+   "Dari sisi aset, total aset perusahaan per 30 September 2026 tercatat Rp1,14 triliun, naik dari Rp1,12 triliun pada akhir 2025, dengan total utang naik tipis dari Rp236,12 miliar menjadi Rp239,57 miliar dan ekuitas bertambah dari Rp884,95 miliar menjadi Rp902,79 miliar. Materi itu juga menegaskan tidak ada aksi korporasi sepanjang 2026 sehingga saham beredar tetap 5.405.188.966 lembar, dengan PT Sakti Generasi Perdana sebagai pemegang saham terbesar di 20,63 persen, diikuti PT Tunas Tumbuh Berkembang 9,89 persen, Golden Capital Foundation Limited 9,44 persen, dan PT Karya Cakrawala Perdana 5,81 persen. Untuk proyek Serpong Natura City, dari total 2.105 unit yang direncanakan, 1.780 unit sudah terjual dan 1.038 unit telah menyelesaikan proses akta jual beli (AJB) per 30 September 2026."
+  ],
+  "fotoAdegan": "A quiet residential cluster of modern houses with tiled roofs and small gardens, paved streets, tropical greenery, late afternoon light",
+  "takeaway": "Laporan ini condong positif bagi Natura City Developments, karena materi public expose memperlihatkan laba bersih sembilan bulan pertama 2026 melonjak hampir 50 persen dibanding periode yang sama tahun lalu, dari Rp11,92 miliar menjadi Rp17,84 miliar, sementara utang hanya naik tipis dan jauh lebih lambat dari pertumbuhan labanya. Yang terpantau di sini adalah laba per saham, yaitu bagian laba yang jadi hak setiap lembar saham, yang naik dari Rp2,20 menjadi Rp3,30, serta ekuitas, yaitu kekayaan bersih perusahaan setelah utang dikurangkan, yang bertambah dari Rp884,95 miliar menjadi Rp902,79 miliar; dua pos ini jadi perhatian investor karena mencerminkan seberapa besar nilai yang sebenarnya dipegang pemegang saham. Perseroan juga menegaskan tidak ada penerbitan saham baru sepanjang 2026, sehingga jumlah saham beredar tetap di 5,4 miliar lembar dan tidak ada risiko tambahan pengenceran kepemilikan bagi pemegang saham lama. Yang perlu dipantau berikutnya adalah pelaksanaan public expose itu sendiri pada 9 November 2026 di Hotel Nawana, Sentul City, saat manajemen akan memaparkan lebih rinci kondisi keuangan dan perkembangan proyek Serpong Natura City serta membuka sesi tanya jawab bagi investor.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tguk-keluar-dari-papan-pemantauan-khusus-bei-per-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "TGUK [Keluar] dari Papan Pemantauan Khusus BEI per 27 Oktober",
+  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham PT Platinum Wahab Nusantara Tbk. (TGUK), efektif 27 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T17:06:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ab60a0cb90_97a7d4d577.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "TGUK",
+   "Pemantauan Khusus",
+   "BEI",
+   "Papan Pencatatan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan pencabutan status Pemantauan Khusus atas saham PT Platinum Wahab Nusantara Tbk. dengan kode TGUK. Sesuai pengumuman bernomor Peng-CK-00079/BEI.PLP/10-2026 yang diterbitkan 26 Oktober 2026, papan pencatatan saham TGUK berubah dari Pemantauan Khusus menjadi Papan Pengembangan. Perubahan ini berlaku efektif mulai 27 Oktober 2026.",
+   "Dalam tabel pengumuman, kolom kriteria mencantumkan nomor 11 dengan keterangan Keluar/Exit untuk TGUK. Kriteria nomor 11 dalam daftar acuan BEI berbunyi kondisi lain yang ditetapkan oleh Bursa setelah memperoleh persetujuan atau perintah dari Otoritas Jasa Keuangan (OJK). Dengan kata lain, dasar pencabutan status ini adalah ketetapan Bursa yang sudah mendapat persetujuan OJK, bukan disebutkan secara eksplisit sebagai pemulihan dari salah satu kriteria teknis seperti opini disclaimer, ekuitas negatif, atau ketiadaan pendapatan usaha yang juga tercantum dalam daftar kriteria pemantauan khusus pada dokumen yang sama.",
+   "Pengumuman ditandatangani oleh Bima Ruditya Surya, Pjs Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI. Bursa menyebut pengumuman lengkap dapat dilihat di laman resmi IDX dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in a Jakarta business district, wide angle, soft morning light",
+  "takeaway": "Penilaian redaksi: ini kabar positif bagi TGUK, karena keluarnya saham dari papan Pemantauan Khusus biasanya berarti saham tersebut lepas dari sorotan ketat Bursa yang lazimnya disertai pembatasan perdagangan. Pemantauan Khusus sendiri adalah status yang diberikan Bursa kepada emiten yang dianggap berisiko tinggi, misalnya karena ekuitasnya negatif atau laporan keuangannya mendapat opini auditor yang buruk, sehingga pencabutannya menandakan Bursa menilai kondisi TGUK sudah tidak lagi memenuhi syarat-syarat tersebut. Yang perlu dipantau berikutnya adalah tanggal efektif 27 Oktober 2026, saat papan pencatatan TGUK resmi berpindah ke Papan Pengembangan, serta apakah pencabutan ini juga diikuti pelonggaran notasi atau pembatasan perdagangan khusus yang mungkin masih tersisa pada saham tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bnga-jelaskan-volatilitas-saham-pengendali-belum-ambil-keputusan",
+  "category": "Aksi Korporasi",
+  "title": "BNGA Jelaskan Volatilitas Saham, [Pengendali] Belum Ambil Keputusan",
+  "deck": "Bank CIMB Niaga menjawab permintaan BEI soal volatilitas transaksi sahamnya, dan menyebut pemegang saham pengendali belum mengambil keputusan final soal kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T17:04:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6aad73381b_702e90ce2c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNGA",
+  "tags": [
+   "BNGA",
+   "Bank CIMB Niaga",
+   "volatilitas saham",
+   "pemegang saham pengendali"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) meminta penjelasan kepada PT Bank CIMB Niaga Tbk (BNGA) terkait volatilitas transaksi saham melalui surat Nomor S-13333/BEI.PP1/10-2026 tertanggal 22 Oktober 2026. Menanggapi permintaan itu, BNGA mengirimkan surat Nomor 154/CORSEC/X/2026 tertanggal 26 Oktober 2026 pukul 17.04 WIB, yang ditandatangani oleh Dwi Dewo S selaku Corporate Secretary Office Head.",
+   "Dalam surat tersebut, BNGA menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat mempengaruhi nilai efek perusahaan maupun keputusan investasi pemodal, sesuai Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi atau Fakta Material. Perseroan juga menegaskan tidak mengetahui aktivitas pemegang saham tertentu terkait pelaporan kepemilikan atau penjaminan saham sebagaimana diatur dalam POJK Nomor 4 Tahun 2024, serta belum memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa.",
+   "Poin yang menarik perhatian ada pada bagian mengenai rencana pemegang saham utama dan pengendali BNGA terhadap kepemilikan sahamnya. Perseroan mengutip siaran pers pemegang saham pengendali yang menyatakan bahwa sampai saat ini belum ada keputusan maupun proposal formal dan final terkait rencana perubahan kepemilikan sahamnya di BNGA. Pemegang saham pengendali disebut tetap berkomitmen pada operasional BNGA di Indonesia serta akan mematuhi seluruh peraturan perundang-undangan yang berlaku."
+  ],
+  "fotoAdegan": "Modern glass-fronted bank branch building in a Jakarta business district, pedestrians passing by, midday light",
+  "takeaway": "Catatan ini condong netral karena BNGA tidak mengungkap satu pun informasi material baru soal kinerja perusahaan, hanya menegaskan ulang bahwa tidak ada perubahan yang perlu diumumkan ke publik. Pos yang sebenarnya tersentuh di sini bukan laba atau arus kas, melainkan struktur pemegang saham dan hak suara, sebab pertanyaan BEI muncul karena lonjakan aktivitas transaksi saham yang biasanya dikaitkan dengan spekulasi soal siapa yang memegang kendali perusahaan. Yang perlu dicermati, jawaban soal pemegang saham pengendali hanya membantah adanya keputusan yang sudah 'formal dan final', bukan membantah adanya pembicaraan atau rencana yang masih berjalan, sehingga isu soal kepemilikan ini berpotensi muncul kembali. Pemantauan berikutnya adalah jendela tiga bulan sejak 26 Oktober 2026, yakni hingga sekitar akhir Januari 2027, ketika BNGA sendiri menyebut belum ada rencana tindakan korporasi, sekaligus menanti apakah pemegang saham pengendali akhirnya mengumumkan keputusan final soal sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "oils-laba-kuartal-iii-naik-4-kali-lipat-utang-ikut-membengkak",
+  "category": "Aksi Korporasi",
+  "title": "OILS: Laba Kuartal III Naik 4 Kali Lipat, [Utang] Ikut Membengkak",
+  "deck": "Laba bersih OILS melonjak jadi Rp23,7 miliar dalam sembilan bulan 2026 seiring penjualan tumbuh 46 persen, namun kas menyusut dan utang jangka pendek naik tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T16:41:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026094947-64707-0/FinancialStatement-2026-III-OILS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OILS",
+  "tags": [
+   "OILS",
+   "laporan keuangan",
+   "laba bersih",
+   "Indo Oil Perkasa"
+  ],
+  "body": [
+   "PT Indo Oil Perkasa Tbk (OILS), perusahaan pengolahan dan perdagangan minyak kopra yang berbasis di Mojokerto, Jawa Timur, membukukan penjualan Rp1,1 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 46 persen dibandingkan Rp753,58 miliar pada periode yang sama tahun lalu. Laba bruto naik lebih dari dua kali lipat menjadi Rp68,55 miliar dari Rp31,53 miliar, sehingga marjin laba bruto terangkat dari 4,2 persen menjadi 6,2 persen dari penjualan. Laba bersih periode berjalan melonjak hampir empat kali lipat menjadi Rp23,74 miliar dari Rp6,32 miliar, dengan Rp22,33 miliar di antaranya menjadi bagian pemegang saham induk dan sisanya Rp1,41 miliar menjadi bagian pemegang saham minoritas di anak usaha.",
+   "Kenaikan penjualan ini diikuti pembengkakan sejumlah pos neraca. Piutang usaha dari pihak ketiga melonjak menjadi Rp64,53 miliar dari Rp27,50 miliar, persediaan naik menjadi Rp193,86 miliar dari Rp146,01 miliar, dan total aset Perseroan naik 40,8 persen menjadi Rp365,06 miliar dari Rp259,38 miliar. Di sisi liabilitas, utang usaha kepada pihak ketiga melonjak menjadi Rp90,63 miliar dari Rp35,98 miliar dan utang bank jangka pendek naik menjadi Rp113,43 miliar dari Rp99,20 miliar, sehingga total liabilitas jangka pendek naik 53,8 persen menjadi Rp223,46 miliar. Karena perubahan aset dan liabilitas ini melewati ambang 20 persen, Perseroan mengirim surat penjelasan resmi ke Bursa Efek Indonesia tertanggal 26 Oktober 2026, yang menyebut kenaikan aset terutama berasal dari penumpukan persediaan dan piutang usaha atas transaksi penjualan kuartal berjalan, sementara kenaikan liabilitas jangka pendek berasal dari utang usaha untuk pembelian persediaan guna mendukung operasional perusahaan.",
+   "Di sisi arus kas, kas dan setara kas Perseroan turun menjadi Rp3,91 miliar dari Rp9,27 miliar di awal tahun. Arus kas dari aktivitas operasi masih minus Rp1,44 miliar, meski membaik dibandingkan minus Rp12,31 miliar pada periode yang sama tahun lalu, sementara aktivitas investasi menyerap Rp14,41 miliar, terutama untuk pembelian aset tetap senilai Rp11,89 miliar. Beban bunga dan keuangan naik lebih dari empat kali lipat menjadi Rp6,71 miliar dari Rp1,61 miliar, sejalan dengan tambahan pinjaman bank baru Rp92,44 miliar sepanjang periode berjalan. Jumlah ekuitas Perseroan naik menjadi Rp125,57 miliar dari Rp98,34 miliar, termasuk kepentingan non-pengendali senilai Rp5,62 miliar dari konsolidasi dua anak usaha, yaitu PT Indosena Perkasa Refineries di Surabaya dengan kepemilikan 51 persen yang masih beroperasi, dan PT Indo Kelapa Perkasa di Gresik dengan kepemilikan 55 persen yang menurut dokumen ini sudah tidak lagi menjalankan operasional."
+  ],
+  "fotoAdegan": "Workers unloading sacks of dried copra from a truck at a small oil processing mill in East Java, overcast morning light.",
+  "takeaway": "Laporan ini condong positif bagi OILS karena pertumbuhan penjualan 46 persen berhasil diterjemahkan menjadi lonjakan laba hampir empat kali lipat dan perbaikan marjin, bukan sekadar kenaikan omzet semata. Yang perlu dicermati adalah arus kas dari kegiatan operasi, yaitu selisih uang yang benar-benar masuk dan keluar dari bisnis inti, yang masih minus meski membaik, sementara beban bunga melonjak lebih dari empat kali lipat seiring tambahan pinjaman bank untuk membiayai persediaan dan piutang yang menumpuk. Karena jumlah saham beredar Perseroan tidak bertambah, kenaikan laba ini langsung terasa sebagai kenaikan laba per saham tanpa risiko kepemilikan investor lama terdilusi. Yang perlu dipantau berikutnya adalah laporan keuangan tahun penuh 2026 yang telah diaudit, untuk melihat apakah arus kas operasi benar-benar berbalik positif dan apakah laju kenaikan utang jangka pendek mulai melambat seiring persediaan yang menumpuk itu benar-benar terjual.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bmas-free-float-tak-capai-15-kvf-siap-beli-sisa-saham-rp350",
+  "category": "Aksi Korporasi",
+  "title": "BMAS: Free Float Tak Capai [15%], KVF Siap Beli Sisa Saham Rp350",
+  "deck": "Bank Kasikorn menjelaskan ke BEI bahwa KVF, pemegang 86,03 persen saham, siap membeli sisa saham rights issue di Rp350, sementara free float publik belum capai syarat minimum 15 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T16:32:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8a6449e20a_9ce4898168.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "rights issue",
+   "free float",
+   "KVF"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) menjawab permintaan penjelasan Bursa Efek Indonesia soal rencana Penambahan Modal Dengan Hak Memesan Efek Terlebih Dahulu IV (PMHMETD IV), menyusul surat bursa bernomor S-13313/BEI.PP1/10-2026 tertanggal 21 Oktober 2026 yang diterima perseroan sehari setelahnya. Dalam surat balasan bernomor XXXVII/918/AA/JKT/10/2026 yang ditandatangani Direktur Utama Kasemsri Charoensiddhi dan Direktur Kepatuhan Viktor Ebenheizer Fanggidae, bank menjelaskan bahwa harga pelaksanaan saham baru sebesar Rp350 per saham ditentukan berdasarkan nilai buku perseroan, disesuaikan dengan harga pasar saham bank-bank sejenis. Dana hasil rights issue akan dipakai sebagai modal kerja untuk memperbesar penyaluran kredit, dengan target pertumbuhan portofolio kredit sebesar Rp3,8 triliun pada 2027, difokuskan ke nasabah korporasi yang punya fundamental usaha kuat dan tata kelola baik. Kebutuhan dana ini dihitung dari proyeksi bahwa kredit akan tumbuh lebih cepat dari pertumbuhan dana pihak ketiga alias simpanan nasabah, sehingga bank perlu modal tambahan untuk menjaga rasio likuiditas tetap aman.",
+   "Soal pembeli siaga, BMAS mengonfirmasi bahwa KVF, pemegang sekitar 86,03 persen saham perseroan, akan membeli seluruh sisa saham baru yang tidak diambil pemegang saham lain, dengan jumlah maksimum 2.845.572.687 saham di harga Rp350 per saham. Komitmen ini tertuang dalam Akta Perjanjian Pembelian Sisa Saham No. 92 tanggal 27 Agustus 2026 di hadapan notaris Mala Mukti, dan KVF sudah menunjukkan bukti kecukupan dana lewat informasi rekening bank per 26 Agustus 2026. Perseroan menegaskan tidak ada syarat atau kondisi apa pun yang bisa membuat KVF batal menjalankan komitmennya, dan tidak ada pembatasan dalam perjanjian lain yang bisa menghambat rights issue ini atau merugikan pemegang saham publik.",
+   "Namun bank juga mengakui bahwa setelah PMHMETD IV selesai, persentase saham yang beredar bebas di publik tidak akan memenuhi syarat minimum 15 persen yang ditetapkan bursa, terutama pada skenario kedua yang bisa mendilusi kepemilikan saham publik hingga 13,70 persen. BMAS menyebut sedang menjajaki masuknya mitra strategis baru, investment teaser sudah disiapkan dan dipresentasikan ke calon investor terpilih, dan prosesnya sudah masuk tahap due diligence, namun rinciannya belum bisa diungkap karena masih terikat perjanjian kerahasiaan. Perseroan meminta waktu sampai paling lambat 31 Maret 2028 untuk memenuhi kembali syarat free float minimum tersebut. Bank juga menyatakan tidak ada informasi atau fakta material lain yang berpotensi memengaruhi kelangsungan usaha maupun harga sahamnya."
+  ],
+  "fotoAdegan": "Loan officers reviewing paperwork at a corporate banking desk inside a modern Jakarta office tower, afternoon light through windows",
+  "takeaway": "Laporan ini netral: komitmen KVF sebagai pembeli siaga memperkuat sisi permodalan karena hampir pasti seluruh dana rights issue terkumpul, tapi penurunan free float di bawah syarat minimum dan dilusi kepemilikan publik hingga 13,70 persen adalah beban nyata bagi pemegang saham minoritas. Transaksi ini menambah modal sendiri bank sekaligus menambah jumlah saham beredar hingga maksimal 2,84 miliar lembar baru, yang membuat laba per saham, yaitu laba bersih dibagi jumlah saham yang beredar, berpotensi terdilusi karena penyebutnya membesar sementara laba belum tentu naik secepat itu. Yang perlu dipantau selanjutnya adalah kelanjutan proses due diligence dengan calon mitra strategis yang disebut perseroan masih berjalan, serta tenggat pemenuhan syarat free float minimum 15 persen yang diberi waktu sampai 31 Maret 2028.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "trio-direktur-matthew-paul-richards-mundur",
+  "category": "Aksi Korporasi",
+  "title": "TRIO: Direktur Matthew Paul Richards [Mundur]",
+  "deck": "Trikomsel Oke Tbk melaporkan Direktur Matthew Paul Richards mengundurkan diri sejak 22 Oktober 2026, tanpa penyebutan alasan maupun pengganti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T16:25:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1278e04982_e2d0e62524.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIO",
+  "tags": [
+   "TRIO",
+   "Trikomsel Oke",
+   "direksi",
+   "pengunduran diri"
+  ],
+  "body": [
+   "PT Trikomsel Oke Tbk (TRIO) menyampaikan keterbukaan informasi ke Otoritas Jasa Keuangan (OJK) dan Bursa Efek Indonesia bahwa Matthew Paul Richards mengundurkan diri dari jabatan Direktur Perseroan. Surat pengunduran dirinya diterima manajemen pada 22 Oktober 2026, dan laporan resmi baru disampaikan empat hari kemudian, yakni 26 Oktober 2026, ditandatangani oleh Mely selaku Corporate Secretary Perseroan.",
+   "Dalam dokumen tersebut, Perseroan hanya menyatakan bahwa pengunduran diri ini tidak berdampak material terhadap kegiatan operasional, hukum, maupun kondisi keuangan Perseroan. Tidak ada keterangan soal alasan Richards mundur, tidak ada nama kandidat pengganti, dan tidak disebutkan kapan atau melalui mekanisme apa kekosongan posisi Direktur ini akan diisi."
+  ],
+  "fotoAdegan": "Customers browsing smartphones on display shelves inside a busy mobile phone retail store, bright fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi fundamental TRIO, karena yang berubah adalah susunan personel direksi, bukan angka keuangan, dan Perseroan sendiri menegaskan tidak ada dampak material terhadap operasional atau keuangan. Yang tersentuh di sini adalah struktur manajemen, bukan pos seperti ekuitas atau laba per saham, tapi pelaku pasar tetap memperhatikan pergantian direksi karena itu bisa memengaruhi kesinambungan strategi dan proses pengambilan keputusan perusahaan sehari hari. Dokumen ini juga tidak menjelaskan apakah Richards memegang tanggung jawab khusus, misalnya di bidang keuangan atau operasional, yang kini perlu dialihkan ke direktur lain. Yang perlu dipantau selanjutnya adalah siapa yang akan mengisi kursi Direktur yang kosong ini, dan apakah Perseroan akan menggelar RUPSLB untuk meresmikan susunan direksi baru, karena aturan OJK mewajibkan posisi direksi yang kosong segera diisi.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "perpres-baru-rombak-mekanisme-impor-minyak-dan-lpg-ri",
   "category": "Energi",
   "title": "Perpres Baru [Rombak] Mekanisme Impor Minyak dan LPG RI",
@@ -29,6 +184,84 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Yang berubah bukan sekadar administrasi, melainkan siapa yang bernegosiasi: dulu Pertamina bersaing lewat tender terbuka, sekarang negara yang berunding langsung dengan negara pemasok lewat badan khusus bernama BLU, dan Pertamina tinggal membeli dari BLU itu. Pihak yang paling terdampak adalah Pertamina dan Patra Niaga sebagai pembeli, serta negara pemasok seperti Amerika Serikat yang memegang sekitar 80 persen pasokan LPG Indonesia, karena pola pembeliannya kini ditentukan pemerintah, bukan tawaran harga di pasar tender. Arah perubahan ini mengarah ke pengendalian pasokan energi oleh negara secara langsung, sejalan dengan kekhawatiran pemerintah atas ketegangan geopolitik di Timur Tengah yang bisa mengganggu jalur impor. Yang akan menentukan apakah langkah ini benar memperkuat kepastian pasokan atau sekadar mengganti nama proses adalah dua hal konkret: pembentukan dan penunjukan BLU yang disebut dalam aturan ini, serta hasil rencana kunjungan Bahlil ke India dan China untuk kontrak pasokan jangka panjang.",
   "imageV": "mvp1eh28"
+ },
+ {
+  "slug": "ssia-buka-periode-pelaksanaan-mesop-opsi-82-3-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "SSIA Buka Periode Pelaksanaan [MESOP], Opsi 82,3 Juta Saham",
+  "deck": "SSIA membuka periode pelaksanaan opsi saham karyawan Tahap I Periode 1 mulai 1 November 2026, dengan harga Rp1.587 per saham untuk maksimal 82,3 juta saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T16:04:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/329a1e61fa_f9be17f5dc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SSIA",
+  "tags": [
+   "SSIA",
+   "MESOP",
+   "opsi saham",
+   "corporate action"
+  ],
+  "body": [
+   "PT Surya Semesta Internusa Tbk (SSIA) membuka periode pelaksanaan pertama dari Program Management and Employee Stock Option Plan (MESOP) Tahap I. Periode ini berlangsung selama 30 hari perdagangan bursa, terhitung mulai 1 November 2026 hingga 11 Desember 2026. Dalam rentang waktu itu, pemegang hak opsi bisa menukar haknya menjadi saham SSIA dengan harga pelaksanaan yang sudah ditetapkan sebelumnya, yaitu Rp1.587 per saham.",
+   "Jumlah hak opsi yang bisa dieksekusi pada periode ini maksimal 82.341.865 saham. Perusahaan menegaskan bahwa hak opsi yang tidak digunakan pada periode ini tidak hilang, melainkan bisa dilaksanakan lagi pada periode pelaksanaan berikutnya. Artinya, jumlah saham yang benar-benar terbit dari program ini bisa lebih kecil dari batas maksimal tersebut, tergantung berapa banyak pemegang opsi yang memilih menukarkan haknya dalam periode ini.",
+   "Keterbukaan informasi ini merujuk pada Peraturan OJK No. 32/POJK.04/2015 tentang penambahan modal dengan hak memesan efek terlebih dahulu beserta perubahannya, Surat Keputusan Direksi BEI No. Kep-00152/BEI/10-2026 tentang pencatatan saham, dan Surat Edaran Direksi BEI No. SE-00002/BEI/03-2020 tentang tata cara pelaksanaan program kepemilikan saham karyawan. Surat pemberitahuan ke OJK dan BEI ditandatangani Corporate Secretary SSIA, Yulean, sementara lampiran keterbukaan informasi resminya diteken The Jok Tung selaku Wakil Presiden Direktur perusahaan."
+  ],
+  "fotoAdegan": "Construction engineers in hard hats reviewing blueprints at an industrial estate construction site in Indonesia, daylight, cranes in the background",
+  "takeaway": "Laporan ini condong netral bagi SSIA, karena pelaksanaan opsi ini sudah direncanakan sejak program MESOP disetujui sebelumnya dan harga pelaksanaannya pun sudah dipatok, bukan keputusan dadakan yang mengubah arah bisnis perusahaan. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab MESOP memberi hak kepada direksi, manajemen, dan karyawan untuk membeli saham perusahaan dengan harga yang sudah ditentukan, dan setiap opsi yang dieksekusi berarti SSIA menerbitkan saham baru. Semakin banyak saham baru yang beredar, semakin kecil porsi laba yang jatuh ke setiap lembar saham, meski besaran di laporan ini, maksimal 82,3 juta saham, tergolong moderat dan belum pasti terpakai seluruhnya. Yang perlu dipantau adalah penutupan periode pelaksanaan pada 11 Desember 2026, saat baru akan terlihat berapa dari jatah maksimal itu yang benar-benar ditukar menjadi saham, karena sisanya akan bergeser ke periode pelaksanaan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptro-dua-anak-usaha-jual-beli-kapal-senilai-rp5-46-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PTRO: Dua Anak Usaha Jual Beli Kapal Senilai [Rp5,46 Miliar]",
+  "deck": "HDS menjual kapal kerja Hafar Grab ke HDK, sesama anak usaha Petrosea, senilai Rp5,46 miliar untuk mendukung ekspansi HDK ke bisnis pengerukan dan reklamasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T15:53:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/669cbf7cec_da90f430f2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTRO",
+  "tags": [
+   "PTRO",
+   "transaksi afiliasi",
+   "Petrosea",
+   "Hafar Daya"
+  ],
+  "body": [
+   "PT Hafar Daya Samudera (HDS) menjual kapal kerja bernama Hafar Grab kepada PT Hafar Daya Konstruksi (HDK) senilai Rp5,46 miliar, belum termasuk pajak dan biaya terkait. Jual beli ini dituangkan dalam Akta Jual Beli Kapal No. 70 tanggal 22 Oktober 2026 yang dibuat di hadapan notaris Ungke Mulawanti di Jakarta Timur. Kapal yang dimaksud adalah work barge buatan Batam tahun 2018, dengan bobot kotor 174 GT dan bobot bersih 53 NT.",
+   "HDS dan HDK adalah dua anak usaha yang sama-sama 51 persen sahamnya dipegang oleh PT Petrosea Engineering Procurement Construction (PEPC), anak usaha penuh Petrosea Tbk (PTRO). Sisa 49 persen saham di kedua perusahaan dipegang oleh PT Rukun Raharja Tbk. Karena pemilik manfaat akhirnya sama, yakni Prajogo Pangestu, transaksi ini digolongkan sebagai transaksi afiliasi berdasarkan aturan OJK soal transaksi afiliasi dan benturan kepentingan. Tujuan pembelian kapal ini adalah agar HDK memiliki sarana operasional untuk mengembangkan bisnis pengerukan dan reklamasi, seiring rencana perusahaan itu mengurus izin usaha pengerukan dan reklamasi atau SIUPR.",
+   "Petrosea menunjuk KJPP Kusnanto & Rekan sebagai penilai independen untuk menilai kewajaran harga transaksi. Berdasarkan laporan penilai bertanggal 22 Oktober 2026, harga Rp5,46 miliar itu sudah mempertimbangkan nilai pasar wajar kapal. Perseroan menyatakan transaksi ini bukan transaksi benturan kepentingan dan tidak termasuk kategori transaksi material berdasarkan aturan OJK."
+  ],
+  "fotoAdegan": "A steel work barge moored at a quiet industrial dock, coiled ropes and a small crane, overcast morning light",
+  "takeaway": "Transaksi ini netral bagi Petrosea karena nilainya kecil, hanya Rp5,46 miliar, dan terjadi antara dua anak usaha yang kepemilikannya sama-sama dipegang 51 persen oleh PEPC, sehingga sejatinya cuma memindahkan aset kapal dari satu kantong grup ke kantong lain, bukan transaksi dengan pihak luar yang mendatangkan dana baru atau mengubah struktur modal Petrosea. Yang tersentuh di sini bukan laba atau arus kas Petrosea secara konsolidasi, karena dana Rp5,46 miliar itu cuma berpindah antar anak usaha dan akan saling menghapus saat dikonsolidasi ke laporan keuangan induk, sementara jumlah saham beredar Petrosea sendiri tidak berubah sama sekali oleh transaksi ini. Yang perlu dipantau selanjutnya adalah apakah HDK berhasil memperoleh izin usaha pengerukan dan reklamasi yang menjadi alasan utama pembelian kapal ini, karena tanpa izin itu kapal yang baru dibeli belum bisa dioperasikan untuk bisnis baru yang direncanakan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "elit-pendapatan-turun-25-laba-bersih-tetap-stabil",
+  "category": "Aksi Korporasi",
+  "title": "ELIT: Pendapatan [Turun] 25%, Laba Bersih Tetap Stabil",
+  "deck": "Laporan kuartal III 2026 ELIT: pendapatan turun ke Rp264,36 miliar, tapi laba bersih stabil di Rp26,19 miliar seiring ekspansi data center lewat utang baru sekitar Rp49 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T15:30:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026083844-64394-0/FinancialStatement-2026-III-ELIT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELIT",
+  "tags": [
+   "ELIT",
+   "laporan keuangan",
+   "data center",
+   "teknologi"
+  ],
+  "body": [
+   "PT Data Sinergitama Jaya Tbk (ELIT) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perseroan turun menjadi Rp264,36 miliar dari Rp352,69 miliar pada periode yang sama tahun lalu, atau merosot sekitar 25 persen. Meski begitu, laba bersih relatif bertahan di Rp26,19 miliar, hampir sama dengan Rp26,01 miliar pada sembilan bulan pertama 2025, karena beban pokok pendapatan dan beban operasional ikut turun lebih dalam dibanding pendapatan. Laba per saham dasar bahkan naik tipis menjadi Rp17,33 dari Rp17,15.",
+   "Total aset perseroan naik Rp71,47 miliar atau 24,09 persen menjadi Rp368,18 miliar per akhir September 2026, terutama didorong aset tetap yang melonjak 112,28 persen menjadi Rp176,96 miliar dari Rp83,36 miliar akibat pembelian infrastruktur data center dan server baru untuk ekspansi kapasitas layanan. Sebagian pembiayaan ini berasal dari utang bank baru: perseroan menarik fasilitas pembiayaan investasi yang menambah utang bank jangka panjang Rp39,32 miliar dan porsi jatuh tempo dalam satu tahun Rp9,60 miliar, sehingga total liabilitas naik Rp42,52 miliar atau 30,67 persen menjadi Rp181,17 miliar. Di sisi lain, piutang usaha turun Rp17,32 miliar atau 20,51 persen karena pelanggan melunasi tagihan, sementara utang bank jangka pendek lama berkurang Rp12,40 miliar karena dilunasi.",
+   "Ekuitas perseroan naik menjadi Rp187,01 miliar dari Rp158,06 miliar, ditopang penambahan laba ditahan. Perseroan juga melaporkan dua entitas anak: Elitery Global Technology Sdn Bhd di Malaysia yang dimiliki penuh seratus persen dengan aset Rp57,54 miliar, serta PT Elite Teknologi di Jakarta dengan kepemilikan 22,5 persen. Laporan ini ditandatangani Direktur Utama Kresna Adiprawira dan Direktur Erwin Damar Prasetyo pada 23 Oktober 2026, dan perseroan menyatakan tidak ada dampak material dari perubahan-perubahan tersebut terhadap kinerja keuangan periode berjalan."
+  ],
+  "fotoAdegan": "Rows of server racks in a data center aisle with blinking status lights, a technician checking cables, cool blue ambient lighting",
+  "takeaway": "Laporan ini condong netral mengarah positif: meski pendapatan turun seperempat, laba bersih bertahan, arus kas dari kegiatan usaha sehari-hari malah melonjak jadi Rp66,9 miliar dari Rp23,3 miliar pada periode yang sama tahun lalu, dan tambahan utang dipakai membangun kapasitas data center baru, bukan menambal kekurangan kas. Pos yang tersentuh meliputi arus kas operasi yang menguat tadi, ekuitas atau kekayaan bersih pemegang saham yang naik jadi Rp187 miliar dari Rp158 miliar, dan laba per saham, yakni bagian laba yang secara hitungan jadi milik pemegang satu lembar saham, yang justru naik tipis ke Rp17,33 dari Rp17,15 di tengah pendapatan yang merosot, tanda efisiensi biaya menahan penurunan laba. Yang perlu dipantau berikutnya adalah apakah pendapatan kembali naik pada laporan kuartal IV dan laporan tahunan auditan 2026 yang biasanya terbit sekitar akhir Maret 2027, serta apakah investasi data center senilai sekitar Rp49 miliar dari utang bank baru ini mulai menghasilkan pendapatan tambahan yang sepadan.",
+  "sentimen": "netral"
  },
  {
   "slug": "hdit-pendapatan-ambruk-98-rugi-bersih-rp17-m",
@@ -627,6 +860,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "bank-laba-bank-aladin-syariah-anjlok-63-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "BANK: Laba Bank Aladin Syariah [Anjlok] 63% di Kuartal III",
+  "deck": "Laba bersih BANK turun 63 persen jadi Rp47,3 miliar pada sembilan bulan pertama 2026, meski total aset naik 10 persen menjadi Rp15,94 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T09:22:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026162608-64617-0/FinancialStatement-2026-III-BANK.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BANK",
+  "tags": [
+   "BANK",
+   "Bank Aladin Syariah",
+   "laba bersih",
+   "sukuk"
+  ],
+  "body": [
+   "PT Bank Aladin Syariah Tbk (BANK) melaporkan laba bersih senilai Rp47,3 miliar untuk sembilan bulan pertama 2026, turun 63 persen dibandingkan periode yang sama tahun lalu yang sebesar Rp128,2 miliar. Laba per saham ikut tergerus dari Rp9,21 menjadi Rp3,36. Penurunan ini terjadi meski total aset bank naik 10 persen menjadi Rp15,94 triliun per akhir September 2026, dari Rp14,42 triliun pada akhir 2025, menurut laporan keuangan interim tidak diaudit yang disampaikan Presiden Direktur Koko Tjatur Rachmadi kepada Bursa Efek Indonesia pada 26 Oktober 2026.",
+   "Penyebab utama penyusutan laba adalah membengkaknya bagian keuntungan yang harus dibagikan ke nasabah penyimpan dana. Total pendapatan dari pengelolaan dana sebagai mudharib, yakni peran bank sebagai pengelola dana nasabah dalam skema syariah, naik 8,9 persen dari Rp595,6 miliar menjadi Rp648,7 miliar. Namun hak nasabah atas bagi hasil dana syirkah temporer melonjak 64,8 persen dari Rp347,6 miliar menjadi Rp573 miliar, sehingga bagian keuntungan yang benar-benar menjadi milik bank justru merosot 69,5 persen, dari Rp248 miliar menjadi Rp75,7 miliar. Ini terjadi walau beban operasional bank justru turun 7,6 persen menjadi Rp417,9 miliar.",
+   "Di sisi pendanaan, bank menerbitkan sukuk atau obligasi berbasis syariah senilai Rp1,025 triliun pada periode ini, setelah tidak ada penerbitan serupa hingga akhir 2025. Deposito berjangka mudharabah dari nasabah pihak ketiga turun dari Rp9,29 triliun menjadi Rp6,6 triliun, sementara muncul deposito berjangka antarbank senilai Rp2 triliun yang sebelumnya tidak ada. Jumlah saham beredar bertambah dari 13.918.499.863 lembar menjadi 14.089.731.085 lembar, sedangkan total ekuitas naik tipis dari Rp3,29 triliun menjadi Rp3,32 triliun."
+  ],
+  "fotoAdegan": "Modern office tower in South Jakarta's financial district lit up at dusk, telephoto shot from a busy street below.",
+  "takeaway": "Laporan ini condong negatif bagi BANK, karena laba bersihnya anjlok 63 persen justru ketika pendapatan dari pengelolaan dana naik, tanda bahwa biaya bagi hasil ke nasabah penyimpan dana tumbuh lebih cepat daripada pendapatan bank sendiri. Pos yang paling kena dampak adalah laba per saham, yang jadi ukuran keuntungan yang bisa dinikmati setiap pemegang satu lembar saham, dan turun dari Rp9,21 menjadi Rp3,36. Jumlah saham beredar yang bertambah sekitar 171 juta lembar pada periode ini juga berpotensi menambah tekanan pada laba per saham di masa depan kalau labanya tidak ikut naik. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit 2026, yang akan menunjukkan apakah tekanan margin ini mereda atau berlanjut, serta bagaimana bank memanfaatkan dana segar Rp1,025 triliun dari penerbitan sukuk baru yang baru tercatat pada kuartal ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pidl-rampungkan-obligasi-dan-sukuk-rp2-28-triliun",
   "category": "Aksi Korporasi",
   "title": "PIDL Rampungkan Obligasi dan Sukuk [Rp2,28 Triliun]",
@@ -650,6 +909,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Large rolls of industrial paper stacked inside a pulp and paper mill warehouse, forklift moving nearby, soft morning light through high windows.",
   "takeaway": "Laporan ini cenderung netral bagi PIDL karena isinya hanya menegaskan rampungnya proses penawaran yang sudah direncanakan sejak program berkelanjutan ini efektif akhir Juni 2026, bukan kejutan baru, meski dana yang akhirnya terkumpul, sekitar Rp2,28 triliun, lebih kecil sekitar Rp1,22 triliun dari rencana awal Rp3,5 triliun karena skema penjualannya bersifat best effort, yaitu penjamin emisi hanya menjual sebanyak yang benar-benar diminati investor dan tidak menanggung sisa yang tidak terjual. Pos yang tersentuh adalah utang berbunga dan beban bunga perusahaan: obligasi dan sukuk ini menambah kewajiban dengan bunga tetap 10 sampai 10,5 persen per tahun yang harus dibayar setiap tiga bulan dari kas operasional, sehingga menambah beban bunga tahunan dan ikut memengaruhi arus kas perusahaan, sementara ekuitas pemegang saham tidak berubah karena ini bukan penerbitan saham baru. Yang perlu dipantau berikutnya adalah pembayaran bunga dan bagi hasil pertama pada 28 Januari 2027, serta pelunasan penuh pokok secara sekaligus pada 28 Oktober 2029 untuk seri bertenor tiga tahun dan 28 Oktober 2031 untuk seri bertenor lima tahun, karena skema bullet payment membuat seluruh pokok jatuh pada satu tanggal, bukan dicicil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ammn-panggil-rupslb-rombak-komisaris-17-november",
+  "category": "Aksi Korporasi",
+  "title": "AMMN Panggil RUPSLB Rombak [Komisaris] 17 November",
+  "deck": "Amman Mineral Internasional mengundang pemegang saham ke RUPSLB 17 November 2026 untuk menyetujui perubahan susunan Dewan Komisaris, tanpa menyebut nama calon dalam surat pemanggilan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T08:30:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f6596ff81b_1693eb0f38.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMMN",
+  "tags": [
+   "AMMN",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Amman Mineral"
+  ],
+  "body": [
+   "PT Amman Mineral Internasional Tbk (AMMN) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026, pukul 10.30 WIB. Rapat ini digelar sepenuhnya secara elektronik melalui platform eASY.KSEI, dengan koordinasi pimpinan rapat, direksi, komisaris, notaris, dan profesi penunjang dilakukan dari The Energy Building, SCBD Lot 11A, Jakarta. Satu-satunya mata acara dalam RUPSLB ini adalah persetujuan atas perubahan susunan anggota Dewan Komisaris Perseroan. Surat pemanggilan tidak menyebutkan nama komisaris yang akan diberhentikan maupun yang diusulkan untuk diangkat, hanya merujuk pada Pasal 23 POJK Nomor 33/POJK.04/2014 dan Pasal 20 ayat 2 Anggaran Dasar Perseroan yang mengharuskan pengangkatan atau pemberhentian komisaris diputuskan lewat rapat pemegang saham.",
+   "Pemegang saham yang berhak mengikuti RUPSLB ini adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 23 Oktober 2026 pukul 16.00 WIB, atau pemilik saham di sub rekening efek KSEI pada tanggal yang sama. Rencana penyelenggaraan RUPSLB ini sendiri sudah diumumkan Perseroan sejak 9 Oktober 2026 melalui situs BEI, situs perusahaan, dan eASY.KSEI, dan surat pemanggilan ini adalah undangan resmi yang berlaku bagi seluruh pemegang saham tanpa undangan tersendiri.",
+   "Perseroan menetapkan dua tenggat penting bagi pemegang saham yang ingin berpartisipasi. Pertama, batas deklarasi kehadiran dan pemberian suara secara elektronik melalui eASY.KSEI adalah 16 November 2026 pukul 12.00 WIB, sehari sebelum rapat. Kedua, bagi yang memilih memberi kuasa tertulis konvensional kepada PT Datindo Entrycom selaku biro administrasi efek, formulir kuasa harus sudah diserahkan paling lambat Kamis, 12 November 2026 pukul 12.00 WIB di kantor BAE di Jalan Hayam Wuruk Jakarta Pusat. Tayangan RUPSLB melalui Zoom Webinar dibatasi untuk 500 peserta berdasarkan urutan masuk, namun keterlambatan menonton tayangan tidak menggugurkan hak suara selama registrasi di eASY.KSEI sudah dilakukan."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's SCBD business district at dusk, seen from street level, soft lit windows",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental AMMN, karena yang diumumkan baru jadwal dan prosedur RUPSLB, bukan nama atau alasan di balik perubahan Dewan Komisaris itu sendiri, jadi arah dampaknya belum bisa dibaca. Yang tersentuh di sini bukan angka keuangan seperti laba atau arus kas, melainkan tata kelola perusahaan, yaitu siapa yang mengawasi kerja direksi atas nama pemegang saham, dan pergantian pengawas ini bisa mempengaruhi cara investor menilai kualitas pengawasan ke depan meski belum tentu mengubah kinerja operasional. Yang perlu dipantau pemegang saham adalah hasil RUPSLB pada 17 November 2026 itu sendiri, karena di situlah baru akan terungkap siapa yang masuk dan keluar dari Dewan Komisaris, sementara tenggat pemberian suara elektronik jatuh sehari sebelumnya, 16 November 2026 pukul 12.00 WIB.",
   "sentimen": "netral"
  },
  {

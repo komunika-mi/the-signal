@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "city-gelar-public-expose-9-november-laba-naik-50",
+  "category": "Aksi Korporasi",
+  "title": "CITY Gelar [Public Expose] 9 November, Laba Naik 50%",
+  "deck": "Natura City Developments akan menggelar public expose tahunan 9 November 2026, membawa data laba bersih sembilan bulan 2026 yang naik hampir 50 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CITY",
+   "Natura City Developments",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d5d912a394_e203ad9528.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tguk-keluar-dari-papan-pemantauan-khusus-bei-per-27-oktober",
+  "category": "Aksi Korporasi",
+  "title": "TGUK [Keluar] dari Papan Pemantauan Khusus BEI per 27 Oktober",
+  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham PT Platinum Wahab Nusantara Tbk. (TGUK), efektif 27 Oktober 2026.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGUK",
+   "Pemantauan Khusus",
+   "BEI",
+   "Papan Pencatatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ab60a0cb90_97a7d4d577.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnga-jelaskan-volatilitas-saham-pengendali-belum-ambil-keputusan",
+  "category": "Aksi Korporasi",
+  "title": "BNGA Jelaskan Volatilitas Saham, [Pengendali] Belum Ambil Keputusan",
+  "deck": "Bank CIMB Niaga menjawab permintaan BEI soal volatilitas transaksi sahamnya, dan menyebut pemegang saham pengendali belum mengambil keputusan final soal kepemilikannya.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNGA",
+   "Bank CIMB Niaga",
+   "volatilitas saham",
+   "pemegang saham pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6aad73381b_702e90ce2c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oils-laba-kuartal-iii-naik-4-kali-lipat-utang-ikut-membengkak",
+  "category": "Aksi Korporasi",
+  "title": "OILS: Laba Kuartal III Naik 4 Kali Lipat, [Utang] Ikut Membengkak",
+  "deck": "Laba bersih OILS melonjak jadi Rp23,7 miliar dalam sembilan bulan 2026 seiring penjualan tumbuh 46 persen, namun kas menyusut dan utang jangka pendek naik tajam.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OILS",
+   "laporan keuangan",
+   "laba bersih",
+   "Indo Oil Perkasa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026094947-64707-0/FinancialStatement-2026-III-OILS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmas-free-float-tak-capai-15-kvf-siap-beli-sisa-saham-rp350",
+  "category": "Aksi Korporasi",
+  "title": "BMAS: Free Float Tak Capai [15%], KVF Siap Beli Sisa Saham Rp350",
+  "deck": "Bank Kasikorn menjelaskan ke BEI bahwa KVF, pemegang 86,03 persen saham, siap membeli sisa saham rights issue di Rp350, sementara free float publik belum capai syarat minimum 15 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "rights issue",
+   "free float",
+   "KVF"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8a6449e20a_9ce4898168.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "trio-direktur-matthew-paul-richards-mundur",
+  "category": "Aksi Korporasi",
+  "title": "TRIO: Direktur Matthew Paul Richards [Mundur]",
+  "deck": "Trikomsel Oke Tbk melaporkan Direktur Matthew Paul Richards mengundurkan diri sejak 22 Oktober 2026, tanpa penyebutan alasan maupun pengganti.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIO",
+   "Trikomsel Oke",
+   "direksi",
+   "pengunduran diri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1278e04982_e2d0e62524.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "perpres-baru-rombak-mekanisme-impor-minyak-dan-lpg-ri",
   "category": "Energi",
   "title": "Perpres Baru [Rombak] Mekanisme Impor Minyak dan LPG RI",
@@ -21,6 +117,54 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/perpres-107-2026-terbit-pemerintah-ubah-cara-impor-crude-bbm-dan-lpg",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "ssia-buka-periode-pelaksanaan-mesop-opsi-82-3-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "SSIA Buka Periode Pelaksanaan [MESOP], Opsi 82,3 Juta Saham",
+  "deck": "SSIA membuka periode pelaksanaan opsi saham karyawan Tahap I Periode 1 mulai 1 November 2026, dengan harga Rp1.587 per saham untuk maksimal 82,3 juta saham.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SSIA",
+   "MESOP",
+   "opsi saham",
+   "corporate action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/329a1e61fa_f9be17f5dc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptro-dua-anak-usaha-jual-beli-kapal-senilai-rp5-46-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PTRO: Dua Anak Usaha Jual Beli Kapal Senilai [Rp5,46 Miliar]",
+  "deck": "HDS menjual kapal kerja Hafar Grab ke HDK, sesama anak usaha Petrosea, senilai Rp5,46 miliar untuk mendukung ekspansi HDK ke bisnis pengerukan dan reklamasi.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTRO",
+   "transaksi afiliasi",
+   "Petrosea",
+   "Hafar Daya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/669cbf7cec_da90f430f2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "elit-pendapatan-turun-25-laba-bersih-tetap-stabil",
+  "category": "Aksi Korporasi",
+  "title": "ELIT: Pendapatan [Turun] 25%, Laba Bersih Tetap Stabil",
+  "deck": "Laporan kuartal III 2026 ELIT: pendapatan turun ke Rp264,36 miliar, tapi laba bersih stabil di Rp26,19 miliar seiring ekspansi data center lewat utang baru sekitar Rp49 miliar.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELIT",
+   "laporan keuangan",
+   "data center",
+   "teknologi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026083844-64394-0/FinancialStatement-2026-III-ELIT.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "hdit-pendapatan-ambruk-98-rugi-bersih-rp17-m",
@@ -391,6 +535,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bank-laba-bank-aladin-syariah-anjlok-63-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "BANK: Laba Bank Aladin Syariah [Anjlok] 63% di Kuartal III",
+  "deck": "Laba bersih BANK turun 63 persen jadi Rp47,3 miliar pada sembilan bulan pertama 2026, meski total aset naik 10 persen menjadi Rp15,94 triliun.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BANK",
+   "Bank Aladin Syariah",
+   "laba bersih",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026162608-64617-0/FinancialStatement-2026-III-BANK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pidl-rampungkan-obligasi-dan-sukuk-rp2-28-triliun",
   "category": "Aksi Korporasi",
   "title": "PIDL Rampungkan Obligasi dan Sukuk [Rp2,28 Triliun]",
@@ -404,6 +564,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4704f0ad1d_3e1766ae05.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ammn-panggil-rupslb-rombak-komisaris-17-november",
+  "category": "Aksi Korporasi",
+  "title": "AMMN Panggil RUPSLB Rombak [Komisaris] 17 November",
+  "deck": "Amman Mineral Internasional mengundang pemegang saham ke RUPSLB 17 November 2026 untuk menyetujui perubahan susunan Dewan Komisaris, tanpa menyebut nama calon dalam surat pemanggilan.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMMN",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Amman Mineral"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f6596ff81b_1693eb0f38.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6260,181 +6436,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eec84fff4a_57657ed5bb.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-luncurkan-dashboard-akses-keuangan-daerah",
-  "category": "Perbankan",
-  "title": "Pemerintah [Luncurkan] Dashboard Akses Keuangan Daerah",
-  "deck": "Kemenko Perekonomian, OJK, dan Bappenas meluncurkan dashboard IKAD untuk memantau akses keuangan masyarakat hingga level kabupaten/kota.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/atm-kota.jpg",
-  "tags": [
-   "inklusi keuangan",
-   "akses keuangan daerah",
-   "OJK",
-   "Bappenas"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7165/perkuat-pemerataan-pembangunan-daerah-menko-airlangga-dorong-pemanfaatan-dashboard-ikad",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "bukk-bentuk-3-anak-usaha-baru-di-sektor-energi-terbarukan",
-  "category": "Aksi Korporasi",
-  "title": "BUKK Bentuk 3 Anak Usaha Baru di Sektor [Energi Terbarukan]",
-  "deck": "Melalui anak usaha terkendali PT Bukaka Mega Investama, BUKK mendirikan tiga perusahaan baru untuk bisnis pembangkit listrik energi baru terbarukan di Kabupaten Bogor.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUKK",
-   "energi terbarukan",
-   "anak usaha",
-   "ekspansi bisnis"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dbfc766b96_cc731a77f1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bi-gandeng-ifsb-iilm-bahas-ketahanan-keuangan-syariah",
-  "category": "Moneter",
-  "title": "BI Gandeng IFSB-IILM Bahas [Ketahanan] Keuangan Syariah",
-  "deck": "Bank Indonesia bersama IFSB dan IILM menggelar seminar internasional soal risiko dan ketahanan keuangan syariah, saat aset syariah RI tumbuh 10 persen jadi Rp3.264 triliun.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/brankas-uang-sentral.jpg",
-  "tags": [
-   "keuangan syariah",
-   "Bank Indonesia",
-   "ISEF 2026",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823226.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "rupslb-abmm-setujui-pengunduran-diri-direktur-haris-mustarto",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB ABMM Setujui [Pengunduran Diri] Direktur Haris Mustarto",
-  "deck": "RUPSLB ABM Investama pada 15 Oktober 2026 menerima pengunduran diri Direktur Haris Mustarto, menyisakan susunan direksi tiga orang dipimpin Achmad Ananda Djajanegara.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ABMM",
-   "RUPSLB",
-   "direksi",
-   "ABM Investama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ab6f00d056_6a55155209.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beli-klaim-rugi-menyusut-direksi-tahan-revisi-target-2026",
-  "category": "Aksi Korporasi",
-  "title": "BELI Klaim Rugi Menyusut, Direksi Tahan [Revisi] Target 2026",
-  "deck": "Direksi Blibli (BELI) klaim kinerja semester I 2026 lampaui target dan rugi menyusut dua tahun berturut, tapi belum revisi target karena pertimbangan makro.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BELI",
-   "Blibli",
-   "Public Expose",
-   "profitabilitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0f8b6821fb_ed1fab9a03.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msie-pemegang-saham-permata-health-tambah-saham-jadi-1-77",
-  "category": "Aksi Korporasi",
-  "title": "MSIE: Pemegang Saham Permata Health Tambah Saham jadi [1,77%]",
-  "deck": "Permata Health Nusantara menambah kepemilikan di PT Multisarana Intan Eduka Tbk (MSIE) sebanyak 3,5 juta saham pada 16 Oktober 2026, menaikkan hak suaranya dari 1,53 persen menjadi 1,77 persen.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSIE",
-   "kepemilikan saham",
-   "Permata Health Nusantara",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-1892-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baik-jadwalkan-rupslb-bahas-rombak-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "BAIK Jadwalkan RUPSLB, Bahas Rombak [Komisaris]",
-  "deck": "PT Bersama Mencapai Puncak Tbk. (BAIK) akan menggelar RUPSLB pada 25 November 2026 dengan agenda tunggal perubahan susunan Dewan Komisaris.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAIK",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Bersama Mencapai Puncak"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba8a398427_37aaa57e1d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bren-tanggapi-sanksi-ojk-klaim-keuangan-tetap-kuat",
-  "category": "Aksi Korporasi",
-  "title": "BREN Tanggapi [Sanksi] OJK, Klaim Keuangan Tetap Kuat",
-  "deck": "BREN merespons surat permintaan penjelasan BEI terkait sanksi OJK atas transaksi saham BREN, CUAN, dan DSSA, sembari memaparkan kinerja keuangan dan progres proyek semester pertama 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BREN",
-   "OJK",
-   "Barito Renewables",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb2afa71ba_9d9b08ae76.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bren-bantah-ada-info-tersembunyi-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "BREN Bantah Ada Info Tersembunyi di Balik Volatilitas [Saham]",
-  "deck": "Menjawab permintaan BEI, BREN menyatakan tak ada fakta material baru, tak ada rencana korporasi dalam 3 bulan, dan pemegang saham utama belum berencana ubah kepemilikan.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BREN",
-   "Barito Renewables",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/27210eaec3_4fe6d71e5d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pangan-nusa-expo-catat-potensi-transaksi-rp5-9-triliun",
-  "category": "UMKM",
-  "title": "Pangan Nusa Expo Catat Potensi Transaksi [Rp5,9 Triliun]",
-  "deck": "Pameran Pangan Nusa Expo 2026 di Kabupaten Tangerang mencatat potensi transaksi Rp5,9 triliun, didominasi kesepakatan ekspansi kuliner ke lima negara tujuan ekspor.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
-  "tags": [
-   "UMKM",
-   "Ekspor Kuliner",
-   "Pangan Nusa Expo",
-   "Kementerian Perdagangan"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pangan-kemasan-dan-kuliner-di-pangan-nusa-expo-2026-catatkan-potensi-transaksi-rp59-triliun",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "survei-bi-kegiatan-usaha-kuat-di-triwulan-iii-proyeksi-q4-melambat",
-  "category": "Makroekonomi",
-  "title": "Survei BI: Kegiatan Usaha Kuat di Triwulan III, Proyeksi Q4 [Melambat]",
-  "deck": "Bank Indonesia melaporkan kegiatan dunia usaha triwulan III 2026 masih tumbuh positif di semua sektor, namun proyeksi triwulan IV sedikit melambat meski musim belanja akhir tahun mendekat.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/keranjang-belanja-ibu.jpg",
-  "tags": [
-   "Bank Indonesia",
-   "SKDU",
-   "Dunia Usaha",
-   "Triwulan III 2026"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823026.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

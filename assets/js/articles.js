@@ -372,6 +372,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "area-minta-pemegang-saham-warkat-konversi-ke-bentuk-elektronik",
+  "category": "Aksi Korporasi",
+  "title": "AREA Minta Pemegang Saham [Warkat] Konversi ke Bentuk Elektronik",
+  "deck": "PT Dunia Virtual Online Tbk (AREA) mewajibkan pemegang saham pemilik surat kolektif saham fisik mengurus konversi ke bentuk elektronik sebelum 6 Mei 2030.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T20:14:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/230c5b2dc4_0a3fe87e77.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AREA",
+  "tags": [
+   "AREA",
+   "dematerialisasi saham",
+   "OJK",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Dunia Virtual Online Tbk (AREA) mengumumkan pelaksanaan dematerialisasi saham, yakni proses mengubah saham dalam bentuk surat kolektif saham (SKS) fisik menjadi catatan elektronik, sesuai Peraturan OJK Nomor 9 Tahun 2025 yang berlaku sejak 6 Mei 2025. Berdasarkan aturan itu, perusahaan terbuka wajib menerbitkan bukti kepemilikan saham tanpa warkat, dan pemegang saham yang masih memegang SKS wajib mengurus konversinya. Proses ini harus selesai dalam waktu lima tahun sejak 6 Mei 2025, sehingga tenggatnya jatuh pada 6 Mei 2030. Pengumuman ditandatangani Direktur Utama AREA, Michael Kurnia Wirawan Alifen, di Depok pada 23 Oktober 2026.",
+   "Bagi pemegang saham yang sudah punya Sub Rekening Efek di perusahaan efek atau bank kustodian, konversi bisa dilakukan lewat sistem C-BEST milik KSEI dengan biaya sesuai jumlah saham yang dikonversi. Bagi yang belum punya rekening itu, sahamnya akan ditempatkan di Rekening Titipan atas nama pemegang saham sendiri, dengan menyerahkan SKS asli, salinan KTP dengan NIK yang sudah diperbarui atau paspor bagi warga negara asing, salinan NPWP, alamat email dan nomor telepon, serta membayar biaya dematerialisasi. Seluruh pengurusan dilayani oleh biro administrasi efek PT Sharestar Indonesia di Sopo Del Office & Lifestyle Tower B lantai 18, Jakarta Selatan, setiap hari kerja pukul 09.00 hingga 15.00 WIB, dengan konfirmasi kepemilikan diterbitkan dalam dua hari kerja setelah dokumen lengkap diterima.",
+   "Dokumen itu juga menjelaskan konsekuensi bagi yang tidak mengurus konversi tepat waktu. Sesuai Pasal 13 POJK 9/2025, begitu masa dematerialisasi berakhir, saham dalam bentuk SKS yang belum dikonversi tidak bisa lagi diperjualbelikan baik di bursa maupun di luar bursa sampai pemiliknya menuntaskan dematerialisasi. Jika sampai 6 Mei 2030 tetap tidak diurus, saham tersebut akan dipindahkan ke status aset tidak diklaim (unclaimed asset) di bawah pengelolaan pihak yang ditunjuk OJK, dan pemiliknya baru bisa mengajukan penarikan kembali dalam rentang 6 Mei 2035 sampai 6 Mei 2065 melalui PT Sharestar Indonesia, termasuk oleh ahli waris dengan dokumen pewarisan yang sah."
+  ],
+  "fotoAdegan": "Clerk filing stacks of paper documents into folders at a busy securities registrar office counter, soft daylight",
+  "takeaway": "Pengumuman ini netral bagi fundamental AREA, karena perusahaan sendiri menegaskan dematerialisasi warkat saham ini tidak berdampak material terhadap kondisi usahanya. Yang tersentuh bukan ekuitas atau laba perusahaan, melainkan likuiditas saham milik pemegang warkat secara individual, sebab begitu tenggat 6 Mei 2030 lewat, saham fisik yang belum dikonversi tidak bisa lagi diperjualbelikan di bursa maupun di luar bursa sampai pemiliknya mengurus konversi. Pemegang saham AREA yang masih memegang surat kolektif saham perlu mencatat tenggat 6 Mei 2030 itu, karena setelah lewat, hak atas sahamnya berpindah ke pengelolaan aset tidak diklaim dan baru bisa ditarik kembali dalam rentang 6 Mei 2035 sampai 6 Mei 2065 lewat PT Sharestar Indonesia selaku biro administrasi efek.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bach-naikkan-fasilitas-pinjaman-ke-rp350-miliar-dari-smbc",
   "category": "Aksi Korporasi",
   "title": "BACH Naikkan Fasilitas Pinjaman ke [Rp350 Miliar] dari SMBC",
@@ -502,6 +528,32 @@ var ARTICLES = [
   "fotoAdegan": "A bank officer weighing small gold bars on a precision scale at a bullion counter, warm indoor lighting, Jakarta branch",
   "takeaway": "Laporan ini condong positif bagi Bank Mandiri, karena kenaikan laba 20,7 persen terjadi bersamaan dengan membaiknya kualitas kredit dan efisiensi biaya, bukan sekadar didorong ekspansi kredit yang agresif. Pos yang tersentuh ada tiga: rasio biaya terhadap pendapatan yang turun ke 36,1 persen berarti bank menghasilkan lebih banyak laba dari setiap rupiah pendapatan, rasio kredit bermasalah yang turun ke 0,98 persen menunjukkan pinjaman yang macet makin sedikit dibanding total kredit, dan rasio kecukupan modal 18,4 persen menjadi bantalan yang menentukan seberapa besar bank masih bisa menyalurkan kredit baru tanpa membahayakan permodalannya. Pelaku pasar biasanya mencermati kombinasi ini karena pertumbuhan kredit yang cepat tanpa dibarengi kualitas aset yang terjaga justru bisa jadi bom waktu di periode berikutnya. Yang perlu dipantau selanjutnya adalah apakah tren efisiensi dan kualitas kredit ini bertahan hingga laporan kinerja kuartal IV dan tahun penuh 2026, mengingat ekspansi kredit korporasi yang tumbuh di atas 20 persen biasanya membawa risiko kualitas aset yang baru terlihat beberapa kuartal ke depan.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "bei-evaluasi-indeks-idx30-isat-ptba-masuk-pgeo-unvr-keluar",
+  "category": "Aksi Korporasi",
+  "title": "BEI Evaluasi Indeks: [IDX30], ISAT-PTBA Masuk, PGEO-UNVR Keluar",
+  "deck": "BEI mengumumkan hasil evaluasi berkala sembilan indeks saham efektif 2 November 2026, dengan ISAT dan PTBA masuk IDX30 serta PGEO dan UNVR keluar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:55:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Evaluasi Indeks 26 Okt 2026-No. Peng-00204BEI.POP10-2026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDEX",
+  "tags": [
+   "IDX30",
+   "LQ45",
+   "IDX80",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia merilis hasil evaluasi berkala atas sembilan indeks saham, yaitu IDX30, LQ45, IDX80, KOMPAS100, BISNIS-27, MNC36, SMinfra18, IDXESGL, dan IHSG, melalui pengumuman No. Peng-00204/BEI.POP/10-2026 tanggal 26 Oktober 2026. Komposisi dan jumlah saham baru untuk perhitungan indeks berlaku efektif mulai 2 November 2026. Untuk IDX30, LQ45, IDX80, KOMPAS100, dan IHSG, periode berlaku sampai 29 Januari 2027, sedangkan BISNIS-27, MNC36, SMinfra18, dan IDXESGL berlaku lebih panjang sampai 30 April 2027.",
+   "Di IDX30, ISAT dan PTBA masuk sebagai konstituen baru, menggantikan dua saham yang resmi keluar, yaitu Pertamina Geothermal Energy (PGEO) dan Unilever Indonesia (UNVR). Bobot BBRI di indeks ini terpangkas dari 16,82 persen menjadi 15 persen karena aturan BEI membatasi bobot maksimal satu saham di 15 persen dari total indeks, sementara bobot BBCA yang sebelumnya 14,30 persen juga naik dan mentok di batas 15 persen yang sama. BMRI turun dari 13,08 persen menjadi 12,93 persen. Di LQ45, SMGR masuk sebagai konstituen baru menggantikan Surya Citra Media (SCMA) yang keluar dari indeks.",
+   "Di IDX80, tiga saham baru masuk, yakni AALI, TINS, dan TKIM, menggantikan tiga saham yang keluar: Medikaloka Hermina (HEAL), Mitra Keluarga Karyasehat (MIKA), dan Summarecon Agung (SMRA). Sama seperti di IDX30, bobot BBCA di IDX80 juga mentok di batas maksimal, kali ini 9 persen, naik dari 8,74 persen. Bobot BBRI turun dari 10,28 persen menjadi 9 persen dan BMRI turun dari 9,32 persen menjadi 9 persen, keduanya kena pembatasan bobot maksimal yang sama."
+  ],
+  "fotoAdegan": "Wide view of a modern stock exchange trading floor with people walking between desks, blurred screens in the background, cool lighting",
+  "takeaway": "Laporan ini netral bagi pasar secara umum karena murni evaluasi rutin BEI, tapi dampaknya berbeda untuk tiap saham: yang masuk indeks besar seperti ISAT, PTBA, SMGR, AALI, TINS, dan TKIM berpotensi menerima aliran beli otomatis dari reksadana dan ETF yang melacak indeks tersebut, sementara yang keluar seperti PGEO, UNVR, SCMA, HEAL, MIKA, dan SMRA berpotensi kena jual otomatis dari dana-dana yang sama. Yang tersentuh di sini adalah bobot saham dalam indeks, bukan kinerja keuangan perusahaan; bobot ini menentukan seberapa besar porsi saham itu dibeli dana pasif, dan BEI membatasi bobot maksimal satu saham agar indeks tidak terlalu didominasi satu nama, itu sebabnya BBRI dan BMRI justru turun bobotnya meski kapitalisasi pasarnya tetap besar. Yang perlu dipantau adalah tanggal efektif 2 November 2026 saat komposisi baru ini mulai dipakai, serta evaluasi berikutnya pada 29 Januari 2027 untuk IDX30, LQ45, dan IDX80.",
+  "sentimen": "netral"
  },
  {
   "slug": "mhki-jelaskan-volatilitas-transaksi-klaim-tak-ada-info-baru",
@@ -870,6 +922,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "bmbl-pemegang-saham-jual-3-juta-lembar-hak-suara-turun-ke-8-47",
+  "category": "Aksi Korporasi",
+  "title": "BMBL: Pemegang Saham [Jual] 3 Juta Lembar, Hak Suara Turun ke 8,47%",
+  "deck": "Sentra Investa Maksima melepas 3 juta saham BMBL pada 20 Oktober 2026 senilai sekitar Rp75,4 juta, menurunkan hak suaranya dari 8,76 persen menjadi 8,47 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T18:11:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8888-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMBL",
+  "tags": [
+   "BMBL",
+   "kepemilikan saham",
+   "pemegang saham",
+   "pasar modal"
+  ],
+  "body": [
+   "Sentra Investa Maksima, pemegang saham BMBL (PT Lavender Bina Cendikia Tbk) yang bukan anggota direksi atau dewan komisaris dan berstatus warga negara Indonesia, melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya menjual total 3.000.000 saham BMBL secara tidak langsung pada 20 Oktober 2026. Penjualan dilakukan dalam empat transaksi dengan harga berbeda, yaitu 1.000.000 saham di harga Rp24 per saham, 400.000 saham di Rp27, 600.000 saham di Rp26, dan 1.000.000 saham di Rp25. Dalam laporan, tujuan transaksi disebutkan sebagai kebutuhan likuiditas.",
+   "Dengan penjualan ini, kepemilikan Sentra Investa Maksima di BMBL berkurang dari 90.233.000 lembar saham menjadi 87.233.000 lembar saham. Hak suaranya di perusahaan ikut turun dari 8,76 persen menjadi 8,47 persen. Total nilai keempat transaksi tersebut sekitar Rp75,4 juta.",
+   "Laporan ini disampaikan sesuai Pasal 3 Ayat 3 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan pemegang saham dengan kepemilikan signifikan melaporkan setiap perubahan kepemilikan sahamnya di emiten kepada OJK."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's financial district reflecting soft morning light, traffic passing on the street below",
+  "takeaway": "Laporan ini netral bagi BMBL karena saham yang dilepas Sentra Investa Maksima hanya sekitar 3,3 persen dari total yang dipegangnya sebelumnya, dan hak suaranya cuma turun dari 8,76 persen menjadi 8,47 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal sikap terhadap emiten. Transaksi ini murni perpindahan saham antar investor di pasar sekunder, jadi tidak menambah atau mengurangi jumlah saham beredar BMBL maupun memengaruhi kas dan laba per saham perusahaan, yang berubah hanya peta kepemilikan dan bobot suara pemegang saham tersebut dalam rapat umum pemegang saham. Yang perlu dipantau adalah apakah Sentra Investa Maksima terus mengurangi kepemilikannya hingga turun di bawah ambang 5 persen yang mewajibkan pelaporan berkelanjutan ke OJK, serta RUPSLB BMBL yang dijadwalkan November 2026 untuk membahas perubahan susunan direksi perseroan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "toba-pastikan-tak-ada-info-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "TOBA Pastikan Tak Ada Info Material di Balik [Volatilitas] Saham",
@@ -999,6 +1077,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "tbig-raih-afirmasi-peringkat-aa-idn-dari-fitch-outlook-stabil",
+  "category": "Aksi Korporasi",
+  "title": "TBIG Raih Afirmasi Peringkat [AA+(idn)] dari Fitch, Outlook Stabil",
+  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang TBIG dan seluruh obligasi serta sukuknya di AA+(idn) dengan outlook stabil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T17:36:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/590457ae68_3bbb57db59.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TBIG",
+  "tags": [
+   "TBIG",
+   "Fitch Ratings",
+   "obligasi korporasi",
+   "peringkat kredit"
+  ],
+  "body": [
+   "PT Fitch Ratings Indonesia pada 23 Oktober 2026 mengafirmasi peringkat nasional jangka panjang PT Tower Bersama Infrastructure Tbk (TBIG) di level AA+(idn) dengan outlook stabil. Peringkat setara juga diberikan untuk kelas utang senior tanpa jaminan perusahaan, untuk program Obligasi Berkelanjutan VII senilai maksimum Rp20 triliun, dan untuk program Sukuk Ijarah Berkelanjutan I senilai maksimum Rp8 triliun. Surat hasil pemeringkatan bernomor 205/DIR/RATLTR/X/2026 itu diterima manajemen TBIG pada tanggal yang sama dan baru dipublikasikan ke Bursa Efek Indonesia pada 26 Oktober 2026, ditandatangani oleh Helmy Yusman Santoso selaku CFO dan Sekretaris Perusahaan.",
+   "Secara rinci, afirmasi AA+(idn) berlaku untuk seluruh tahap penerbitan yang masih berjalan, mulai dari Obligasi Berkelanjutan VI Tahap IV, V, dan VI, Obligasi Berkelanjutan VII Tahap I sampai V, Sukuk Ijarah Berkelanjutan I Tahap I sampai V, hingga sisa Obligasi Berkelanjutan II Tahap I Tahun 2016. Nilai pokok tiap tahap bervariasi cukup lebar, dari sekitar Rp43 miliar untuk sebagian seri Obligasi Berkelanjutan II yang jatuh tempo 15 Oktober 2031, sampai Rp1,87 triliun untuk Obligasi Berkelanjutan VI Tahap VI Seri B yang jatuh tempo 21 Maret 2030. Jatuh tempo seluruh instrumen ini tersebar dari Februari 2027 hingga Agustus 2031.",
+   "Dalam suratnya, Fitch menjelaskan bahwa peringkat AA+(idn) berarti risiko gagal bayar TBIG dinilai sangat rendah dibandingkan emiten lain di Indonesia, hanya sedikit berbeda dari emiten dengan peringkat tertinggi di dalam negeri. Fitch juga menegaskan bahwa pemeringkatan ini bukan rekomendasi untuk membeli, menjual, atau menahan efek apa pun, melainkan semata penilaian kualitas kredit. Periode rating berjalan dari 23 Oktober 2026 sampai 23 Oktober 2027, dan Fitch berkomitmen memperbarui surat peringkat ini setidaknya sekali setahun."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians inspecting steel lattice tower equipment against a clear morning sky, Indonesia.",
+  "takeaway": "Laporan ini netral bagi TBIG, karena isinya afirmasi tanpa kenaikan atau penurunan peringkat, tanda Fitch menilai profil risiko gagal bayar perusahaan tidak berubah dari tahun sebelumnya. Yang tersentuh di sini adalah beban bunga, sebab peringkat kredit ini menentukan seberapa mahal TBIG bisa menerbitkan utang baru atau memperpanjang obligasi dan sukuk yang jatuh tempo, sementara publikasi ini sendiri tidak mengubah ekuitas atau jumlah saham beredar perseroan. Pelaku pasar obligasi biasanya memantau rating semacam ini karena memengaruhi daya tawar emiten saat mencari pinjaman baru. Yang perlu dipantau berikutnya adalah pembaruan tahunan dari Fitch yang jatuh di sekitar 23 Oktober 2027, serta kewajiban TBIG untuk segera melaporkan ke Fitch bila ada informasi material baru yang bisa mengubah penilaian risiko tersebut sebelum tanggal itu.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "city-gelar-public-expose-9-november-laba-naik-50",
   "category": "Aksi Korporasi",
   "title": "CITY Gelar [Public Expose] 9 November, Laba Naik 50%",
@@ -1103,6 +1207,31 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "baja-komisaris-koreksi-laporan-hak-suara-ke-12-19",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Komisaris Koreksi Laporan, Hak Suara ke [12,19%]",
+  "deck": "Ibnu Susanto, Komisaris Saranacentral Bajatama, mengoreksi laporan kepemilikan saham: hak suaranya turun dari 22,23 persen menjadi 12,19 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T16:34:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8777-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "Saranacentral Bajatama",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Ibnu Susanto, anggota Dewan Komisaris Saranacentral Bajatama Tbk (BAJA), menyampaikan laporan koreksi kepemilikan saham kepada Otoritas Jasa Keuangan pada 26 Oktober 2026. Dalam laporan tersebut, jumlah saham BAJA yang dipegangnya tercatat turun dari 600.202.918 lembar menjadi 329.202.918 lembar, atau berkurang 271 juta lembar. Akibatnya, hak suaranya di perusahaan ikut turun dari 22,23 persen menjadi 12,19 persen.",
+   "Transaksi yang mendasari koreksi ini adalah penjualan 271.000.000 lembar saham biasa BAJA dengan harga Rp500 per lembar, yang dieksekusi pada 21 Oktober 2026. Pada kolom tujuan transaksi, Ibnu Susanto mencantumkan keterangan Koreksi, yang berarti laporan ini memperbaiki data kepemilikan yang sebelumnya sudah disampaikan ke bursa, bukan mencatat penjualan baru. Jumlah saham yang dilepas setara 45,15 persen dari kepemilikannya sebelum transaksi, porsi yang cukup besar dari total saham pribadinya di perusahaan."
+  ],
+  "fotoAdegan": "Workers inspecting rolls of galvanized steel sheets on a factory production line, industrial lighting, Indonesia.",
+  "takeaway": "Laporan ini tetap condong negatif bagi persepsi tata kelola BAJA, sebab inti peristiwanya adalah pelepasan hampir separuh kepemilikan pribadi seorang komisaris, bukan sekadar koreksi angka administratif belaka. Yang tersentuh adalah hak suara, yakni porsi suara yang dimiliki seseorang dalam rapat pemegang saham untuk ikut menentukan keputusan penting perusahaan, dan di sini porsi suara Ibnu Susanto anjlok dari 22,23 persen menjadi 12,19 persen meski jumlah saham BAJA yang beredar di pasar tidak berubah. Pelaku pasar biasanya mencermati perubahan semacam ini karena menunjukkan berkurangnya kepentingan pribadi seorang pengawas perusahaan terhadap nasib perusahaan yang diawasinya sendiri. Yang perlu dipantau selanjutnya adalah apakah masih ada laporan susulan yang mengoreksi lagi angka kepemilikan ini, serta apakah posisi akhir Ibnu Susanto di 329,2 juta lembar atau 12,19 persen ini bertahan pada laporan keterbukaan berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bmas-free-float-tak-capai-15-kvf-siap-beli-sisa-saham-rp350",
   "category": "Aksi Korporasi",
   "title": "BMAS: Free Float Tak Capai [15%], KVF Siap Beli Sisa Saham Rp350",
@@ -1151,6 +1280,54 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Customers browsing smartphones on display shelves inside a busy mobile phone retail store, bright fluorescent lighting",
   "takeaway": "Laporan ini netral bagi fundamental TRIO, karena yang berubah adalah susunan personel direksi, bukan angka keuangan, dan Perseroan sendiri menegaskan tidak ada dampak material terhadap operasional atau keuangan. Yang tersentuh di sini adalah struktur manajemen, bukan pos seperti ekuitas atau laba per saham, tapi pelaku pasar tetap memperhatikan pergantian direksi karena itu bisa memengaruhi kesinambungan strategi dan proses pengambilan keputusan perusahaan sehari hari. Dokumen ini juga tidak menjelaskan apakah Richards memegang tanggung jawab khusus, misalnya di bidang keuangan atau operasional, yang kini perlu dialihkan ke direktur lain. Yang perlu dipantau selanjutnya adalah siapa yang akan mengisi kursi Direktur yang kosong ini, dan apakah Perseroan akan menggelar RUPSLB untuk meresmikan susunan direksi baru, karena aturan OJK mewajibkan posisi direksi yang kosong segera diisi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "visi-direksi-beli-289-000-saham-senilai-rp200-juta",
+  "category": "Aksi Korporasi",
+  "title": "VISI: Direksi [Beli] 289.000 Saham Senilai Rp200 Juta",
+  "deck": "Direktur VISI David Dwiputra membeli 289.000 saham perusahaan senilai sekitar Rp200,3 juta pada 20 Oktober 2026, menambah hak suaranya menjadi 0,013 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T16:22:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-3286-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "kepemilikan saham",
+   "direksi",
+   "insider buying"
+  ],
+  "body": [
+   "Direktur PT Satu Visi Putra Tbk (VISI), David Dwiputra, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 289.000 lembar saham perusahaan pada 20 Oktober 2026. Transaksi dilakukan melalui mekanisme perjanjian pembelian kembali (repurchase agreement) dengan harga Rp693 per saham, sehingga nilai totalnya sekitar Rp200,3 juta. Jumlah saham yang dipegang David Dwiputra naik dari 107.000 lembar menjadi 396.000 lembar, dengan tujuan transaksi yang dicantumkan sebagai investasi.",
+   "Kenaikan ini membuat hak suara David Dwiputra di VISI naik dari 0,003 persen menjadi 0,013 persen. Secara persentase, jumlah saham yang ia pegang memang melonjak sekitar 270 persen dari posisi sebelumnya, tetapi basisnya kecil sehingga porsi kepemilikannya terhadap total saham VISI yang beredar tetap minim.",
+   "Laporan ini terbit tidak lama setelah VISI mengumumkan private placement senilai Rp120 miliar pada pekan sebelumnya, yang berpotensi mendilusi porsi kepemilikan pemegang saham publik. Pembelian saham oleh direksi ini tidak secara langsung terkait dengan aksi korporasi tersebut, namun menambah catatan transaksi internal VISI dalam sepekan terakhir."
+  ],
+  "fotoAdegan": "Jakarta business district skyline at sunrise, glass office towers and light morning traffic on the street below",
+  "takeaway": "Pembelian ini dinilai netral bagi fundamental VISI karena meski kenaikannya tampak besar secara persentase, nilai transaksinya hanya sekitar Rp200 juta dan hak suara David Dwiputra tetap di bawah 0,02 persen, jauh dari level yang bisa mengubah kendali perusahaan. Yang bergeser di sini hanya struktur kepemilikan internal, bukan pos kinerja seperti ekuitas atau laba per saham, karena jumlah saham beredar VISI secara keseluruhan tidak berubah akibat transaksi ini. Pelaku pasar biasanya memperhatikan pembelian saham oleh direksi sebagai sinyal kepercayaan terhadap prospek perusahaan, tetapi nilai sekecil ini terlalu kecil untuk dibaca sebagai pernyataan sikap yang berarti. Yang perlu dipantau selanjutnya adalah bagaimana realisasi dana dari private placement Rp120 miliar yang baru diumumkan VISI akan dipakai, serta apakah direksi atau komisaris lain melakukan transaksi serupa dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "uvcr-trimegah-sumber-mas-tambah-2-5-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "UVCR: Trimegah Sumber Mas Tambah [2,5 Juta] Saham Lewat Repo",
+  "deck": "Trimegah Sumber Mas membeli tambahan 2,5 juta saham UVCR secara tidak langsung lewat perjanjian pembelian kembali, menaikkan hak suaranya jadi 16,30 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T16:16:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8876-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR"
+  ],
+  "body": [
+   "PT Trimegah Sumber Mas melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menambah kepemilikan saham di PT Trimegah Karya Pratama Tbk (UVCR) sebanyak 2.500.000 unit saham biasa pada 22 Oktober 2026. Transaksi dilakukan secara tidak langsung dengan skema repurchase agreement atau perjanjian pembelian kembali, pada harga Rp210 per saham, dengan tujuan yang disebutkan sebagai keperluan investasi dan internal perusahaan.",
+   "Dengan tambahan itu, jumlah saham UVCR yang dikuasai Trimegah Sumber Mas naik dari 323.557.467 unit menjadi 326.057.467 unit. Hak suaranya di perusahaan ikut naik dari 16,18 persen menjadi 16,30 persen. Laporan ini disampaikan ke OJK pada 26 Oktober 2026, dan pelapor bukan merupakan anggota direksi maupun dewan komisaris UVCR."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Perubahan ini condong netral bagi UVCR, karena tambahan 2,5 juta saham cuma setara 0,77 persen dari kepemilikan Trimegah Sumber Mas sendiri dan hak suaranya hanya bergerak tipis dari 16,18 persen ke 16,30 persen, belum cukup besar untuk dibaca sebagai sinyal perubahan kendali. Yang tersentuh di sini adalah struktur hak suara pemegang saham, bukan laba atau kas perusahaan, dan pelaku pasar memperhatikan ini karena kenaikan porsi suara pemegang saham besar bisa mempengaruhi arah keputusan korporasi ke depan. Perlu diingat, Trimegah Sumber Mas adalah pihak yang juga menjadi tujuan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) sebanyak 200 juta saham baru yang sedang dibahas UVCR, sehingga transaksi kecil ini terjadi di tengah proses yang jauh lebih besar. Yang perlu dipantau selanjutnya adalah hasil RUPSLB UVCR terkait PMTHMETD tersebut, karena itu yang akan menentukan apakah porsi kepemilikan Trimegah Sumber Mas bertambah signifikan dan memicu dilusi bagi pemegang saham publik.",
   "sentimen": "netral"
  },
  {
@@ -1283,6 +1460,31 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rows of server racks in a data center aisle with blinking status lights, a technician checking cables, cool blue ambient lighting",
   "takeaway": "Laporan ini condong netral mengarah positif: meski pendapatan turun seperempat, laba bersih bertahan, arus kas dari kegiatan usaha sehari-hari malah melonjak jadi Rp66,9 miliar dari Rp23,3 miliar pada periode yang sama tahun lalu, dan tambahan utang dipakai membangun kapasitas data center baru, bukan menambal kekurangan kas. Pos yang tersentuh meliputi arus kas operasi yang menguat tadi, ekuitas atau kekayaan bersih pemegang saham yang naik jadi Rp187 miliar dari Rp158 miliar, dan laba per saham, yakni bagian laba yang secara hitungan jadi milik pemegang satu lembar saham, yang justru naik tipis ke Rp17,33 dari Rp17,15 di tengah pendapatan yang merosot, tanda efisiensi biaya menahan penurunan laba. Yang perlu dipantau berikutnya adalah apakah pendapatan kembali naik pada laporan kuartal IV dan laporan tahunan auditan 2026 yang biasanya terbit sekitar akhir Maret 2027, serta apakah investasi data center senilai sekitar Rp49 miliar dari utang bank baru ini mulai menghasilkan pendapatan tambahan yang sepadan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-711-900-saham",
+  "category": "Aksi Korporasi",
+  "title": "[SRTG] Komisaris Edwin Soeryadjaya Tambah 711.900 Saham",
+  "deck": "Edwin Soeryadjaya membeli 711.900 saham SRTG lewat dua transaksi repo pada 22 dan 23 Oktober, menaikkan hak suaranya jadi 36,0698 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T15:27:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-4163-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "Edwin Soeryadjaya",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Komisaris PT Saratoga Investama Sedaya Tbk (SRTG), Edwin Soeryadjaya, melaporkan penambahan kepemilikan saham ke Otoritas Jasa Keuangan pada 26 Oktober 2026. Ia membeli 312.300 saham pada 22 Oktober dengan harga Rp1.668 per saham, lalu menambah 399.600 saham pada 23 Oktober dengan harga Rp1.676 per saham. Total saham yang dibeli dalam dua transaksi ini 711.900 lembar, dengan nilai gabungan sekitar Rp1,19 miliar, dan tujuan transaksi yang dicatat adalah investasi.",
+   "Dengan pembelian ini, jumlah saham SRTG yang dipegang Edwin Soeryadjaya naik dari 4.892.101.290 unit menjadi 4.892.813.190 unit. Hak suaranya di perusahaan ikut naik tipis, dari 36,0646 persen menjadi 36,0698 persen. Dalam dokumen laporan, jenis transaksi ini tercatat sebagai perjanjian pembelian kembali atau repurchase agreement, dengan status kepemilikan tidak langsung, yang berarti saham tersebut dipegang melalui pihak lain, bukan atas nama pribadi Edwin Soeryadjaya secara langsung."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, reflecting a pale afternoon sky, light traffic passing below",
+  "takeaway": "Pembelian ini netral bagi penilaian fundamental Saratoga, karena volumenya hanya 0,0146 persen dari saham yang sudah dipegang Edwin Soeryadjaya dan hak suaranya nyaris tidak bergeser, dari 36,0646 persen menjadi 36,0698 persen. Yang tersentuh di sini cuma struktur kepemilikan dan hak suara pemegang saham, bukan jumlah saham beredar perusahaan atau laba per saham, sebab ini pembelian dari pasar oleh orang dalam perusahaan, bukan penerbitan saham baru. Pelaku pasar biasanya mencermati pembelian oleh komisaris atau direksi sebagai sinyal kepercayaan terhadap perusahaannya sendiri, tetapi ukurannya di sini terlalu kecil untuk dibaca sebagai pernyataan sikap yang berarti. Perlu dicatat pula bahwa transaksi ini berbentuk perjanjian pembelian kembali yang dipegang secara tidak langsung, sehingga sahamnya terikat mekanisme yang berbeda dari pembelian langsung biasa. Yang perlu dipantau selanjutnya adalah apakah Edwin Soeryadjaya kembali menambah saham dalam laporan berikutnya, mengingat ia sudah beberapa kali melakukan pembelian serupa dalam sepekan terakhir tanpa mengubah posisi pengendaliannya secara berarti.",
   "sentimen": "netral"
  },
  {

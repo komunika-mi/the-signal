@@ -237,6 +237,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "area-minta-pemegang-saham-warkat-konversi-ke-bentuk-elektronik",
+  "category": "Aksi Korporasi",
+  "title": "AREA Minta Pemegang Saham [Warkat] Konversi ke Bentuk Elektronik",
+  "deck": "PT Dunia Virtual Online Tbk (AREA) mewajibkan pemegang saham pemilik surat kolektif saham fisik mengurus konversi ke bentuk elektronik sebelum 6 Mei 2030.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AREA",
+   "dematerialisasi saham",
+   "OJK",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/230c5b2dc4_0a3fe87e77.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bach-naikkan-fasilitas-pinjaman-ke-rp350-miliar-dari-smbc",
   "category": "Aksi Korporasi",
   "title": "BACH Naikkan Fasilitas Pinjaman ke [Rp350 Miliar] dari SMBC",
@@ -315,6 +331,22 @@ var ARTICLES = [
    "kinerja kuartal III 2026"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/40e52a8ced_70b5eb50bd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-evaluasi-indeks-idx30-isat-ptba-masuk-pgeo-unvr-keluar",
+  "category": "Aksi Korporasi",
+  "title": "BEI Evaluasi Indeks: [IDX30], ISAT-PTBA Masuk, PGEO-UNVR Keluar",
+  "deck": "BEI mengumumkan hasil evaluasi berkala sembilan indeks saham efektif 2 November 2026, dengan ISAT dan PTBA masuk IDX30 serta PGEO dan UNVR keluar.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDX30",
+   "LQ45",
+   "IDX80",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Evaluasi Indeks 26 Okt 2026-No. Peng-00204BEI.POP10-2026.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -544,6 +576,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bmbl-pemegang-saham-jual-3-juta-lembar-hak-suara-turun-ke-8-47",
+  "category": "Aksi Korporasi",
+  "title": "BMBL: Pemegang Saham [Jual] 3 Juta Lembar, Hak Suara Turun ke 8,47%",
+  "deck": "Sentra Investa Maksima melepas 3 juta saham BMBL pada 20 Oktober 2026 senilai sekitar Rp75,4 juta, menurunkan hak suaranya dari 8,76 persen menjadi 8,47 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMBL",
+   "kepemilikan saham",
+   "pemegang saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8888-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "toba-pastikan-tak-ada-info-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "TOBA Pastikan Tak Ada Info Material di Balik [Volatilitas] Saham",
@@ -624,6 +672,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tbig-raih-afirmasi-peringkat-aa-idn-dari-fitch-outlook-stabil",
+  "category": "Aksi Korporasi",
+  "title": "TBIG Raih Afirmasi Peringkat [AA+(idn)] dari Fitch, Outlook Stabil",
+  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang TBIG dan seluruh obligasi serta sukuknya di AA+(idn) dengan outlook stabil.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TBIG",
+   "Fitch Ratings",
+   "obligasi korporasi",
+   "peringkat kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/590457ae68_3bbb57db59.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "city-gelar-public-expose-9-november-laba-naik-50",
   "category": "Aksi Korporasi",
   "title": "CITY Gelar [Public Expose] 9 November, Laba Naik 50%",
@@ -688,6 +752,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "baja-komisaris-koreksi-laporan-hak-suara-ke-12-19",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Komisaris Koreksi Laporan, Hak Suara ke [12,19%]",
+  "deck": "Ibnu Susanto, Komisaris Saranacentral Bajatama, mengoreksi laporan kepemilikan saham: hak suaranya turun dari 22,23 persen menjadi 12,19 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "Saranacentral Bajatama",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8777-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bmas-free-float-tak-capai-15-kvf-siap-beli-sisa-saham-rp350",
   "category": "Aksi Korporasi",
   "title": "BMAS: Free Float Tak Capai [15%], KVF Siap Beli Sisa Saham Rp350",
@@ -717,6 +797,35 @@ var ARTICLES = [
    "pengunduran diri"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1278e04982_e2d0e62524.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-direksi-beli-289-000-saham-senilai-rp200-juta",
+  "category": "Aksi Korporasi",
+  "title": "VISI: Direksi [Beli] 289.000 Saham Senilai Rp200 Juta",
+  "deck": "Direktur VISI David Dwiputra membeli 289.000 saham perusahaan senilai sekitar Rp200,3 juta pada 20 Oktober 2026, menambah hak suaranya menjadi 0,013 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "kepemilikan saham",
+   "direksi",
+   "insider buying"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-3286-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uvcr-trimegah-sumber-mas-tambah-2-5-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "UVCR: Trimegah Sumber Mas Tambah [2,5 Juta] Saham Lewat Repo",
+  "deck": "Trimegah Sumber Mas membeli tambahan 2,5 juta saham UVCR secara tidak langsung lewat perjanjian pembelian kembali, menaikkan hak suaranya jadi 16,30 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8876-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -799,6 +908,22 @@ var ARTICLES = [
    "teknologi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026083844-64394-0/FinancialStatement-2026-III-ELIT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-711-900-saham",
+  "category": "Aksi Korporasi",
+  "title": "[SRTG] Komisaris Edwin Soeryadjaya Tambah 711.900 Saham",
+  "deck": "Edwin Soeryadjaya membeli 711.900 saham SRTG lewat dua transaksi repo pada 22 dan 23 Oktober, menaikkan hak suaranya jadi 36,0698 persen.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "Edwin Soeryadjaya",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-4163-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6316,136 +6441,6 @@ var ARTICLES = [
    "Tol Trans Sumatera"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c52f752d09_a72bee01bf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bni-pertahankan-predikat-tertinggi-tata-kelola-2-tahun",
-  "category": "Perbankan",
-  "title": "BNI [Pertahankan] Predikat Tertinggi Tata Kelola 2 Tahun",
-  "deck": "BNI mempertahankan predikat Leadership in Corporate Governance di ajang IICD 2026, dua tahun berturut-turut setelah naik kelas dari kategori Best Overall pada 2025.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/bni-pertahankan-predikat-tertinggi-tata-kelola-2-tahun.jpg",
-  "imageV": "mvfh5f09",
-  "tags": [
-   "BNI",
-   "Tata Kelola Perusahaan",
-   "IICD",
-   "KBMI 4"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473881-bni-pertahankan-predikat-tertinggi-penerapan-gcg-dua-tahun-berturut-turut"
- },
- {
-  "slug": "ekspor-bumbu-ri-capai-kesepakatan-us-5-juta-di-tei",
-  "category": "Bisnis",
-  "title": "Ekspor Bumbu RI Capai Kesepakatan [US$5 Juta] di TEI",
-  "deck": "Dua kesepakatan dagang bumbu dan kuliner Indonesia dengan mitra asing diteken di penutupan Trade Expo Indonesia ke-41, salah satunya bernilai hingga US$5 juta.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/negosiasi-dagang-meja.jpg",
-  "tags": [
-   "ekspor bumbu",
-   "Trade Expo Indonesia",
-   "S'RASA",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bango-dukung-srasa-perkuat-peluang-ekspor-bumbu-indonesia-di-tei-ke-41",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "admf-bayar-pelunasan-obligasi-sukuk-rp433-96-miliar-9-nov-2026",
-  "category": "Aksi Korporasi",
-  "title": "ADMF Bayar [Pelunasan] Obligasi-Sukuk Rp433,96 Miliar 9 Nov 2026",
-  "deck": "ADMF akan melunasi pokok Sukuk Mudharabah Berkelanjutan V dan Obligasi Berkelanjutan VI seri B senilai total Rp433,96 miliar pada 9 November 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMF",
-   "obligasi",
-   "sukuk",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e8e02e7c5a_efebb5bf0d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-raih-penghargaan-esg-lewat-program-olah-sampah-nasabah",
-  "category": "BUMN",
-  "title": "PNM Raih [Penghargaan] ESG Lewat Program Olah Sampah Nasabah",
-  "deck": "PNM meraih ESG NOW Awards 2026 kategori Circular Economy Empowerment atas program Kembangs yang mengajak nasabah Mekaar memilah dan menyetor sampah menjadi nilai ekonomi.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/pnm-raih-penghargaan-esg-lewat-program-olah-sampah-nasabah.jpg",
-  "imageV": "mvfcj52n",
-  "tags": [
-   "PNM",
-   "Mekaar",
-   "ESG",
-   "bank sampah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473860-pnm-raih-esg-now-awards-2026-dorong-ibu-nasabah-mekaar-ubah-sampah-jadi-nilai-ekonomi"
- },
- {
-  "slug": "wifi-rencana-konstruksi-sentral-telekomunikasi-npv-rp929-m",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Rencana [Konstruksi] Sentral Telekomunikasi, NPV Rp929 M",
-  "deck": "WIFI merevisi studi kelayakan usaha baru konstruksi sentral telekomunikasi (KBLI 42206) dengan modal awal Rp6 miliar dan proyeksi NPV Rp929,8 miliar, menunggu persetujuan RUPS.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "KBLI 42206",
-   "studi kelayakan usaha",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0b8b0c785c_52799d5342.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cuan-tanggapi-sanksi-ojk-terkait-proses-ipo-perseroan",
-  "category": "Aksi Korporasi",
-  "title": "CUAN Tanggapi Sanksi [OJK] Terkait Proses IPO Perseroan",
-  "deck": "CUAN menegaskan ke BEI bahwa sanksi OJK atas dugaan pelanggaran proses IPO tidak dikenakan langsung ke perusahaan, melainkan ke pihak yang terlibat dalam pelaksanaan penawaran umum perdana sahamnya.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CUAN",
-   "OJK",
-   "IPO",
-   "sanksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7bf2f56724_c702f9926e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vktr-catat-480-6-juta-saham-baru-dari-hmetd",
-  "category": "Aksi Korporasi",
-  "title": "VKTR Catat 480,6 Juta Saham Baru dari [HMETD]",
-  "deck": "BEI mencatatkan 480.575.884 saham baru VKTR hasil pelaksanaan HMETD per 20 Oktober 2026, menambah total saham beredar jadi 45,59 miliar lembar.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VKTR",
-   "HMETD",
-   "saham baru",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fba418b027_2266f81a76.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-catat-tambahan-600-000-unit-etf-xihd",
-  "category": "Aksi Korporasi",
-  "title": "BEI Catat Tambahan [600.000] Unit ETF XIHD",
-  "deck": "Bursa mencatatkan tambahan 600.000 unit penyertaan ETF XIHD, dari 54,4 juta menjadi 55 juta unit, mulai diperdagangkan 20 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XIHD",
-   "ETF",
-   "Reksadana",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/65487a848b_26006228e3.pdf",
   "sourceLabel": "IDX"
  }
 ];

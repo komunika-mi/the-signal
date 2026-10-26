@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mahasiswa-pelajar-tangerang-didorong-kembangkan-pangan-lokal",
+  "category": "Industri",
+  "title": "Mahasiswa-Pelajar Tangerang Didorong Kembangkan [Pangan] Lokal",
+  "deck": "Pemkab Tangerang, Swiss German University, dan Hokkaido University berkolaborasi riset pangan lokal, sekaligus melibatkan pelajar SMA dan mahasiswa lewat workshop dan pameran.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/mahasiswa-pelajar-tangerang-didorong-kembangkan-pangan-lokal.jpg",
+  "imageV": "mvpp31z4",
+  "tags": [
+   "Tangerang",
+   "Pangan",
+   "Pendidikan",
+   "Pertanian"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475131-mahasiswa-dan-pelajar-di-tangerang-didorong-ikut-kembangkan-sektor-pangan-dan-pertanian"
+ },
+ {
+  "slug": "esdm-periksa-kebun-sawit-diduga-nyambi-tambang",
+  "category": "Energi",
+  "title": "ESDM Periksa Kebun Sawit Diduga Nyambi [Tambang]",
+  "deck": "Kementerian ESDM akan mengawasi dan memeriksa kebun kelapa sawit yang diduga merangkap usaha tambang tanpa izin, dengan sejumlah perusahaan asing jadi sorotan.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/esdm-periksa-kebun-sawit-diduga-nyambi-tambang.jpg",
+  "imageV": "mvpp32wt",
+  "tags": [
+   "ESDM",
+   "sawit",
+   "tambang ilegal",
+   "Bahlil Lahadalia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475126-ditengarai-libatkan-perusahaan-asing-kementerian-esdm-periksa-kebun-sawit-yang-jalankan-usaha-tambang"
+ },
+ {
   "slug": "esdm-selidiki-kebun-sawit-yang-diduga-rangkap-usaha-tambang",
   "category": "Energi",
   "title": "ESDM [Selidiki] Kebun Sawit yang Diduga Rangkap Usaha Tambang",
@@ -6411,38 +6445,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcadc07f17_a895d13cbf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unit-penyertaan-etf-xrdn-bertambah-391-9-juta-unit",
-  "category": "Aksi Korporasi",
-  "title": "Unit Penyertaan ETF XRDN Bertambah [391,9] Juta Unit",
-  "deck": "BEI mencatat penambahan 391,9 juta unit penyertaan ETF XRDN menjadi 22,48 miliar unit, efektif diperdagangkan mulai 20 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XRDN",
-   "ETF",
-   "BEI",
-   "reksa dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7dd1063dca_216146c9c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brna-catatkan-342-9-juta-saham-baru-dari-rights-issue-put-iii",
-  "category": "Aksi Korporasi",
-  "title": "BRNA Catatkan [342,9 Juta] Saham Baru dari Rights Issue PUT III",
-  "deck": "Berlina Tbk (BRNA) mencatatkan tambahan 342.885.232 saham hasil pelaksanaan HMETD rights issue PUT III, sehingga total saham beredar jadi 1,32 miliar lembar.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRNA",
-   "rights issue",
-   "HMETD",
-   "pencatatan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea7f1684dd_593b85b76a.pdf",
   "sourceLabel": "IDX"
  }
 ];

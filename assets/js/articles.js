@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mahasiswa-pelajar-tangerang-didorong-kembangkan-pangan-lokal",
+  "category": "Industri",
+  "title": "Mahasiswa-Pelajar Tangerang Didorong Kembangkan [Pangan] Lokal",
+  "deck": "Pemkab Tangerang, Swiss German University, dan Hokkaido University berkolaborasi riset pangan lokal, sekaligus melibatkan pelajar SMA dan mahasiswa lewat workshop dan pameran.",
+  "image": "assets/img/mahasiswa-pelajar-tangerang-didorong-kembangkan-pangan-lokal.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T02:15:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475131-mahasiswa-dan-pelajar-di-tangerang-didorong-ikut-kembangkan-sektor-pangan-dan-pertanian",
+  "tags": [
+   "Tangerang",
+   "Pangan",
+   "Pendidikan",
+   "Pertanian"
+  ],
+  "body": [
+   "Peringatan World Food Day 2026 menjadi momentum bagi Pemerintah Kabupaten Tangerang untuk menggandeng dua perguruan tinggi, Swiss German University (SGU) dan Hokkaido University, dalam riset bersama soal pemanfaatan sumber daya pangan lokal. Kolaborasi ini penting karena tidak berhenti di level pemerintah dan kampus, tapi juga menyasar pelajar dan mahasiswa sebagai calon pelaku riset pangan ke depan.",
+   "Kegiatan ini diinisiasi oleh SGU bersama Badan Perencanaan Pembangunan Daerah (Bappeda) Kabupaten Tangerang, dengan tujuan membangun ekosistem inovasi pangan yang menyambungkan pengetahuan akademik dengan potensi sumber daya daerah. Topik ini dibahas dalam sesi diskusi bertajuk Peran Pendidikan dalam Membangun Ekosistem Inovasi di Bidang Pangan dan Pertanian, yang menghadirkan sejumlah ilmuwan sebagai pembicara.",
+   "Selain diskusi, pelajar SMA di Kabupaten Tangerang dilibatkan langsung lewat workshop dan pameran, sebagai cara memperkenalkan peran ilmu pengetahuan, kreativitas, dan riset dalam menjawab tantangan sektor pangan dan pertanian. Pendekatan ini menempatkan generasi muda bukan hanya sebagai penonton, tapi peserta aktif dalam membangun minat pada pengembangan pangan berbasis potensi daerah.",
+   "Rektor SGU, Samuel P. Kusumocahyo, menekankan pentingnya kolaborasi lintas institusi untuk menghasilkan inovasi yang relevan bagi masyarakat. \"Perguruan tinggi memiliki peran strategis dalam menghubungkan riset dan pengetahuan akademik dengan kebutuhan masyarakat. Melalui kolaborasi dengan pemerintah daerah dan mitra internasional, kami ingin mendorong pengembangan inovasi yang tidak hanya memperluas wawasan akademik, tetapi juga mengeksplorasi potensi sumber daya lokal untuk menghasilkan manfaat yang berkelanjutan,\" kata Samuel, Senin (26/10)."
+  ],
+  "fotoAdegan": "Students examining young rice seedlings and local crop samples inside a rural agricultural research greenhouse near Tangerang, soft daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/27/6adfa57ee9a97-mahasiswa-dan-pelajar-di-tangerang-didorong-pengembangan-sektor-pangan-dan-pertanian_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah terbentuknya jalur kerja sama riset pangan antara pemerintah daerah, kampus dalam negeri, dan kampus asing, yang sebelumnya kemungkinan berjalan sendiri-sendiri. Pihak yang langsung kena dampaknya adalah pelajar SMA dan mahasiswa di Kabupaten Tangerang, yang kini punya saluran konkret lewat workshop dan pameran untuk ikut riset pangan lokal, bukan sekadar jadi penonton. Yang belum bisa dibaca dari berita ini adalah apakah kolaborasi ini berlanjut jadi program riset dengan target dan pendanaan jelas, atau berhenti sebagai kegiatan seremonial tahunan mengikuti peringatan World Food Day. Yang perlu dipantau adalah apakah ada hasil riset konkret atau produk pangan lokal yang lahir dari kolaborasi SGU dan Hokkaido University ini dalam waktu dekat, karena itu yang akan menunjukkan apakah kerja sama ini benar-benar jalan atau cuma seremoni.",
+  "imageV": "mvpp31z4"
+ },
+ {
+  "slug": "esdm-periksa-kebun-sawit-diduga-nyambi-tambang",
+  "category": "Energi",
+  "title": "ESDM Periksa Kebun Sawit Diduga Nyambi [Tambang]",
+  "deck": "Kementerian ESDM akan mengawasi dan memeriksa kebun kelapa sawit yang diduga merangkap usaha tambang tanpa izin, dengan sejumlah perusahaan asing jadi sorotan.",
+  "image": "assets/img/esdm-periksa-kebun-sawit-diduga-nyambi-tambang.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T00:09:14+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475126-ditengarai-libatkan-perusahaan-asing-kementerian-esdm-periksa-kebun-sawit-yang-jalankan-usaha-tambang",
+  "tags": [
+   "ESDM",
+   "sawit",
+   "tambang ilegal",
+   "Bahlil Lahadalia"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral bersiap menurunkan tim untuk mengawasi dan memeriksa perkebunan kelapa sawit yang disinyalir diam-diam menjalankan usaha pertambangan tanpa izin. Langkah ini penting karena menyasar praktik yang selama ini berjalan di luar pengawasan, dengan dugaan keterlibatan sejumlah perusahaan asing di dalamnya.",
+   "Menteri ESDM Bahlil Lahadalia mengatakan pihaknya sudah menggelar rapat bersama tim Penegakan Hukum atau Gakkum serta tim internal kementerian untuk menindaklanjuti dugaan tersebut. Ia menegaskan setiap perusahaan hanya boleh beroperasi sesuai izin yang dikeluarkan pemerintah, sehingga perusahaan yang mengantongi izin usaha sawit tidak boleh merambah ke kegiatan usaha lain seperti pertambangan.",
+   "Bahlil mengungkapkan tim Gakkum telah melaporkan adanya beberapa perusahaan asing yang kini sedang didalami karena berpotensi menjalankan kegiatan di luar izin yang mereka pegang. Pendalaman ini menjadi dasar bagi ESDM untuk melanjutkan proses pemeriksaan ke lapangan.",
+   "Melalui pemantauan dan pemeriksaan ini, pemerintah menyatakan tujuannya adalah memastikan kegiatan usaha di lapangan benar-benar sesuai dengan izin yang dimiliki, agar pemanfaatan sumber daya alam berjalan tertib dan memberi manfaat bagi kepentingan nasional."
+  ],
+  "fotoAdegan": "Aerial view of a palm oil plantation bordering a cleared dirt mining area, heavy equipment parked near the tree line, overcast tropical sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/27/6adf88947d90d-kementerian-esdm-akan-melakukan-pengawasan-serta-inspeksi-terhadap-perkebunan-kelapa-sawit-yang-disinyalir-melakukan-praktik-pertambangan-tanpa-izin_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah ESDM resmi menurunkan tim gabungan dengan satuan penegakan hukumnya untuk menyisir kebun sawit yang diduga merangkap jadi tambang tanpa izin, bukan sekadar dugaan yang beredar di atas meja. Pihak yang jelas kena adalah perusahaan pemegang izin usaha sawit, terutama yang berstatus asing, karena Bahlil menegaskan izin sawit tidak bisa dipakai untuk usaha lain termasuk menambang. Tapi beritanya belum menyebut nama perusahaan, lokasi kebun, atau jenis tambang yang diduga dijalankan, jadi belum bisa dipastikan apakah ini akan berujung pencabutan izin, denda, atau sekadar peringatan administratif. Yang perlu ditunggu adalah hasil pendalaman Gakkum ESDM yang menurut Bahlil sudah berjalan, sebab begitu nama dan lokasi perusahaan itu diumumkan baru akan terlihat seberapa jauh tindak lanjutnya.",
+  "imageV": "mvpp32wt"
+ },
+ {
   "slug": "esdm-selidiki-kebun-sawit-yang-diduga-rangkap-usaha-tambang",
   "category": "Energi",
   "title": "ESDM [Selidiki] Kebun Sawit yang Diduga Rangkap Usaha Tambang",

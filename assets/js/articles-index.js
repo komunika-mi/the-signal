@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "perpres-baru-rombak-mekanisme-impor-minyak-dan-lpg-ri",
+  "category": "Energi",
+  "title": "Perpres Baru [Rombak] Mekanisme Impor Minyak dan LPG RI",
+  "deck": "Perpres 107/2026 mengalihkan pengadaan minyak mentah, BBM, dan LPG dari tender antarbadan usaha ke kerja sama langsung antarpemerintah lewat badan layanan umum yang ditugaskan negara.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/perpres-baru-rombak-mekanisme-impor-minyak-dan-lpg-ri.jpg",
+  "imageV": "mvp1eh28",
+  "tags": [
+   "Perpres 107/2026",
+   "Impor Energi",
+   "LPG",
+   "Pertamina"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/perpres-107-2026-terbit-pemerintah-ubah-cara-impor-crude-bbm-dan-lpg",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "hdit-pendapatan-ambruk-98-rugi-bersih-rp17-m",
   "category": "Aksi Korporasi",
   "title": "HDIT: Pendapatan [Ambruk] 98%, Rugi Bersih Rp17 M",
@@ -6417,22 +6435,6 @@ var ARTICLES = [
    "Triwulan III 2026"
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823026.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "indeks-manufaktur-bi-naik-lagi-di-triwulan-iii-2026",
-  "category": "Industri",
-  "title": "Indeks Manufaktur BI [Naik] Lagi di Triwulan III 2026",
-  "deck": "Bank Indonesia mencatat indeks kinerja industri pengolahan naik ke 52,28 persen pada triwulan III 2026, dan memprakirakan kenaikan lanjutan pada triwulan IV.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/industri-tekstil.jpg",
-  "tags": [
-   "PMI-BI",
-   "Industri Pengolahan",
-   "Bank Indonesia",
-   "Manufaktur"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823126.aspx",
   "sourceLabel": "Bank Indonesia"
  }
 ];

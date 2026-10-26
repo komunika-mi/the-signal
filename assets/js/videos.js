@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "iZ_Gd5MNwCI",
+  "title": "Realisasi Investasi Capai Rp1.539,2 Triliun hingga September 2026",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Realisasi investasi nasional periode Januari hingga September 2026 mencapai Rp1.539,2 triliun, atau 75,4 persen dari target tahun ini.",
+  "takeaway": "Data realisasi investasi jadi indikator penting kepercayaan pelaku usaha terhadap iklim investasi dalam negeri.",
+  "terbit": "2026-10-26T08:36:34+00:00"
+ },
+ {
+  "id": "0e1AE_RkVi0",
+  "title": "Bahlil, Amran, OJK Paparkan Capaian 2 Tahun Pemerintahan Presiden Prabowo",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Investasi Bahlil Lahadalia, Menteri Pertanian Amran Sulaiman, dan OJK memaparkan capaian sektor ekonomi selama dua tahun pemerintahan Presiden Prabowo Subianto.",
+  "takeaway": "Paparan ini memberi gambaran kinerja ekonomi pemerintah menjelang evaluasi pertengahan periode.",
+  "terbit": "2026-10-26T08:33:03+00:00"
+ },
+ {
+  "id": "Moq6F0RxIe0",
+  "title": "Bahlil Tanggapi Rencana Pemangkasan Ekspor Gas ke Singapura",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri ESDM Bahlil Lahadalia merespons pernyataan PM Singapura Lawrence Wong terkait kemungkinan pemangkasan ekspor gas Indonesia ke Singapura.",
+  "takeaway": "Isu ini relevan bagi pembaca karena menyangkut keamanan pasokan energi dan hubungan dagang gas antarnegara.",
+  "terbit": "2026-10-26T08:31:44+00:00"
+ },
+ {
   "id": "3wH-XdBnRNw",
   "title": "Munas Ke-7 Forum Serikat Pekerja Kimia dan Pertambangan",
   "category": "Ketenagakerjaan",

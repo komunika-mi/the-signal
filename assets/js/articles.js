@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "perpres-baru-rombak-mekanisme-impor-minyak-dan-lpg-ri",
+  "category": "Energi",
+  "title": "Perpres Baru [Rombak] Mekanisme Impor Minyak dan LPG RI",
+  "deck": "Perpres 107/2026 mengalihkan pengadaan minyak mentah, BBM, dan LPG dari tender antarbadan usaha ke kerja sama langsung antarpemerintah lewat badan layanan umum yang ditugaskan negara.",
+  "image": "assets/img/perpres-baru-rombak-mekanisme-impor-minyak-dan-lpg-ri.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T09:06:34.459Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/perpres-107-2026-terbit-pemerintah-ubah-cara-impor-crude-bbm-dan-lpg",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Perpres 107/2026",
+   "Impor Energi",
+   "LPG",
+   "Pertamina"
+  ],
+  "body": [
+   "Pemerintah mengubah mekanisme pembelian minyak mentah, bahan bakar minyak, dan LPG dari luar negeri melalui Peraturan Presiden Nomor 107 Tahun 2026. Skema tender antarbadan usaha yang selama ini dipakai Pertamina kini diganti dengan kerja sama langsung antarpemerintah serta antara pemerintah dan badan usaha. Perubahan ini penting karena menyangkut rantai pasok energi yang dipakai industri dan rumah tangga sehari-hari, sementara sebagian kebutuhannya masih bergantung pada pasokan dari luar negeri.",
+   "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga Menteri ESDM, Bahlil Lahadalia, menjelaskan perubahan ini lahir dari pengalaman tender yang dinilai lambat dan berisiko. Dalam sejumlah kasus, Pertamina sudah memenangkan tender dengan harga murah, namun negara pemasok kemudian mengalihkan pasokan ke pembeli lain yang berani membayar lebih mahal. Akibatnya Pertamina kehilangan kepastian pasokan meski sudah menang secara harga.",
+   "Dalam skema baru, pemerintah yang bernegosiasi langsung dengan negara pemasok, sementara pengadaannya dijalankan oleh Badan Layanan Umum (BLU) yang ditugaskan khusus. Pertamina selanjutnya membeli pasokan dari BLU tersebut, tanpa melibatkan perusahaan perantara lain. Perpres tetap memberi ruang bagi Pertamina untuk mengimpor langsung, tapi hanya dalam kondisi tertentu, yakni saat cadangan nasional sangat tipis atau terjadi gangguan geopolitik di negara sumber, dan itu pun harus tetap dikoordinasikan dengan BLU.",
+   "Perubahan ini disampaikan di tengah kebutuhan impor yang masih signifikan. Minyak mentah masih diimpor meski sudah tidak lagi dari Timur Tengah, sementara sekitar 80 persen kebutuhan LPG nasional masih dipasok dari Amerika Serikat. Indonesia sudah berhenti mengimpor solar, tapi masih mengimpor bensin jenis Pertalite (RON 90) serta sebagian RON 92, RON 95, dan RON 98. Sebagai langkah lanjutan, Bahlil dijadwalkan bertolak ke beberapa negara termasuk India dan China untuk menjajaki kontrak pasokan jangka panjang."
+  ],
+  "fotoAdegan": "Oil tanker docked at an industrial port terminal, pipelines and large storage tanks in the background, overcast sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-perpres-107-2026-terbit-pemerintah-ubah-cara-impor-crude-bbm-dan-lpg-ymjqusl.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah bukan sekadar administrasi, melainkan siapa yang bernegosiasi: dulu Pertamina bersaing lewat tender terbuka, sekarang negara yang berunding langsung dengan negara pemasok lewat badan khusus bernama BLU, dan Pertamina tinggal membeli dari BLU itu. Pihak yang paling terdampak adalah Pertamina dan Patra Niaga sebagai pembeli, serta negara pemasok seperti Amerika Serikat yang memegang sekitar 80 persen pasokan LPG Indonesia, karena pola pembeliannya kini ditentukan pemerintah, bukan tawaran harga di pasar tender. Arah perubahan ini mengarah ke pengendalian pasokan energi oleh negara secara langsung, sejalan dengan kekhawatiran pemerintah atas ketegangan geopolitik di Timur Tengah yang bisa mengganggu jalur impor. Yang akan menentukan apakah langkah ini benar memperkuat kepastian pasokan atau sekadar mengganti nama proses adalah dua hal konkret: pembentukan dan penunjukan BLU yang disebut dalam aturan ini, serta hasil rencana kunjungan Bahlil ke India dan China untuk kontrak pasokan jangka panjang.",
+  "imageV": "mvp1eh28"
+ },
+ {
   "slug": "hdit-pendapatan-ambruk-98-rugi-bersih-rp17-m",
   "category": "Aksi Korporasi",
   "title": "HDIT: Pendapatan [Ambruk] 98%, Rugi Bersih Rp17 M",

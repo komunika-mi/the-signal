@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "iZ_Gd5MNwCI",
+  "title": "Realisasi Investasi Capai Rp1.539,2 Triliun hingga September 2026",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Realisasi investasi nasional periode Januari hingga September 2026 mencapai Rp1.539,2 triliun, atau 75,4 persen dari target tahun ini.",
+  "takeaway": "Data realisasi investasi jadi indikator penting kepercayaan pelaku usaha terhadap iklim investasi dalam negeri."
+ },
+ {
+  "id": "0e1AE_RkVi0",
+  "title": "Bahlil, Amran, OJK Paparkan Capaian 2 Tahun Pemerintahan Presiden Prabowo",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Investasi Bahlil Lahadalia, Menteri Pertanian Amran Sulaiman, dan OJK memaparkan capaian sektor ekonomi selama dua tahun pemerintahan Presiden Prabowo Subianto.",
+  "takeaway": "Paparan ini memberi gambaran kinerja ekonomi pemerintah menjelang evaluasi pertengahan periode."
+ },
+ {
+  "id": "Moq6F0RxIe0",
+  "title": "Bahlil Tanggapi Rencana Pemangkasan Ekspor Gas ke Singapura",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri ESDM Bahlil Lahadalia merespons pernyataan PM Singapura Lawrence Wong terkait kemungkinan pemangkasan ekspor gas Indonesia ke Singapura.",
+  "takeaway": "Isu ini relevan bagi pembaca karena menyangkut keamanan pasokan energi dan hubungan dagang gas antarnegara."
+ },
+ {
   "id": "3wH-XdBnRNw",
   "title": "Munas Ke-7 Forum Serikat Pekerja Kimia dan Pertambangan",
   "category": "Ketenagakerjaan",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Polda Jawa Tengah menyita 10 ton solar bersubsidi dari sebuah gudang di Cilacap, lengkap dengan tandon, galon, dan kartu barcode solar yang diduga dipakai untuk penyelewengan distribusi.",
   "takeaway": "Kasus ini penting bagi pembaca ekonomi karena menunjukkan kebocoran dalam distribusi BBM subsidi yang bisa mengurangi efektivitas kebijakan energi pemerintah."
- },
- {
-  "id": "apl3G2oxUPY",
-  "title": "Antrean BBM di SPBU Bali Mulai Berkurang",
-  "category": "Energi",
-  "program": "Kabar Utama",
-  "summary": "Antrean kendaraan di sejumlah SPBU di Bali dilaporkan mulai berkurang, menjadi perkembangan positif setelah persoalan antrean dan ketersediaan bahan bakar minyak sempat menjadi keluhan masyarakat.",
-  "takeaway": "Ketersediaan BBM menyangkut kelancaran distribusi energi dan aktivitas ekonomi sehari hari di Bali, sehingga perbaikan pasokan ini relevan bagi pembaca yang mengikuti isu energi domestik."
- },
- {
-  "id": "wB1dsSgZfc4",
-  "title": "Sistem Ganjil Genap Mulai Urai Antrean SPBU di Bali",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Penerapan sistem ganjil genap untuk pembelian BBM bersubsidi di Bali mulai mengurangi antrean panjang di sejumlah SPBU di tengah keterbatasan pasokan.",
-  "takeaway": "Relevan bagi pembaca yang mengikuti dampak kebijakan distribusi BBM bersubsidi terhadap mobilitas dan ekonomi daerah."
- },
- {
-  "id": "iFYMDxd0uBo",
-  "title": "Bali Terapkan Ganjil Genap Pengisian BBM Bersubsidi",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Pemerintah Provinsi Bali memberlakukan sistem ganjil genap untuk pengisian BBM bersubsidi jenis Pertalite mulai 17 hingga 19 Oktober 2026 sebagai langkah darurat.",
-  "takeaway": "Menunjukkan respons pemerintah daerah terhadap tekanan pasokan energi bersubsidi yang berdampak langsung pada aktivitas ekonomi masyarakat."
  }
 ];

@@ -58,6 +58,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475121-program-mbg-buka-lapangan-kerja-baru-100-ribu-pekerja-diserap-kppg-bogor"
  },
  {
+  "slug": "viva-panggil-rups-konversi-utang-rp1-72-t-jadi-saham-17-nov",
+  "category": "Aksi Korporasi",
+  "title": "VIVA Panggil RUPS, [Konversi] Utang Rp1,72 T Jadi Saham 17 Nov",
+  "deck": "RUPST dan RUPSLB VIVA digelar 17 November 2026, membahas pengesahan laporan tahunan 2025 serta rencana mengubah utang PKPU Rp1,72 triliun menjadi saham baru Seri C.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VIVA",
+   "RUPS",
+   "PMTHMETD",
+   "PKPU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11e333be53_e9fce125c9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-tahap-vi-dan-us-25-juta",
   "category": "Aksi Korporasi",
   "title": "OPPM Tawarkan Obligasi [Rp3,33 Triliun] Tahap VI dan US$25 Juta",
@@ -74,6 +90,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "andi-aps-lepas-seluruh-699-97-juta-saham-hak-suara-ke-0",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: APS [Lepas] Seluruh 699,97 Juta Saham, Hak Suara ke 0%",
+  "deck": "Anugerah Perkasa Semesta menjual seluruh 699,97 juta saham ANDI, setara 7,486% hak suara, seharga Rp30 per lembar pada 26 Oktober 2026 untuk tujuan divestasi.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANDI",
+   "Andira Agro",
+   "kepemilikan saham",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-9671-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mmix-mengky-mangarek-tambah-saham-ke-6-02",
   "category": "Aksi Korporasi",
   "title": "MMIX: Mengky Mangarek [Tambah] Saham ke 6,02%",
@@ -87,6 +119,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f48cf3c465_591c460512.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "andi-cep-lepas-2-38-miliar-saham-hak-suara-ke-24-22",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: CEP Lepas 2,38 Miliar Saham, Hak Suara ke [24,22%]",
+  "deck": "Central Energi Pratama melepas 2,385 miliar saham Andira Agro lewat skema repurchase agreement pada 26 Oktober 2026, menurunkan hak suaranya dari 49,73% menjadi 24,22%.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANDI",
+   "Andira Agro",
+   "perubahan pemegang saham",
+   "pengendali baru"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-5417-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -119,6 +167,22 @@ var ARTICLES = [
    "perhotelan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e76cce9115_376a0315c8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "andi-pjs-beli-3-08-miliar-saham-rp30-lembar-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: PJS Beli 3,08 Miliar Saham Rp30/Lembar [Pengendali]",
+  "deck": "PT Puncak Jaya Sejahtera resmi membeli 3.085.500.000 saham ANDI seharga Rp30 per lembar, mengangkat hak suaranya dari 0% jadi 33% dan menjadikannya pengendali baru.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANDI",
+   "Andira Agro",
+   "pengendali saham",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-1415-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -655,6 +719,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "mmix-pukul-rata-kanan-tambah-saham-ke-4-33",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: Pukul Rata Kanan [Tambah] Saham ke 4,33%",
+  "deck": "Pemegang saham PT Pukul Rata Kanan menambah 119,99 juta lembar saham MMIX pada 22 Oktober 2026, sehingga kepemilikannya naik dari 1,84% menjadi 4,33%.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MMIX",
+   "kepemilikan saham",
+   "PT Pukul Rata Kanan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bae71f3807_dbfd4a41df.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "elit-pendapatan-turun-25-laba-bersih-tetap-stabil",
   "category": "Aksi Korporasi",
   "title": "ELIT: Pendapatan [Turun] 25%, Laba Bersih Tetap Stabil",
@@ -668,6 +748,22 @@ var ARTICLES = [
    "teknologi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026083844-64394-0/FinancialStatement-2026-III-ELIT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sstm-cetak-laba-bersih-naik-tapi-rugi-usaha-inti-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "SSTM Cetak Laba Bersih Naik, tapi [Rugi] Usaha Inti Berlanjut",
+  "deck": "Penjualan SSTM naik 16 persen pada sembilan bulan pertama 2026, tapi perusahaan rugi dari usaha inti dan laba bersihnya ditopang pendapatan lain-lain, bukan dari bisnis tekstil.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SSTM",
+   "laporan keuangan",
+   "tekstil",
+   "rugi usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026221918-65028-0/FinancialStatement-2026-III-SSTM.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -764,6 +860,22 @@ var ARTICLES = [
    "angkutan material"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/922c76d31e_ad44c44ebf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbni-rampungkan-buyback-22-95-juta-saham-periode-juli-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BBNI Rampungkan [Buyback] 22,95 Juta Saham Periode Juli-Oktober",
+  "deck": "Bank BNI menutup periode pembelian kembali saham yang berjalan sejak 27 Juli hingga 26 Oktober 2026, dengan total 22,95 juta saham dibeli kembali dari anggaran maksimal Rp627 miliar.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBNI",
+   "buyback saham",
+   "bank BUMN",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/03e2c1daef_0287d60d1d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -911,6 +1023,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "kaii-angkat-adityo-haryo-bimo-jadi-komisaris-baru",
+  "category": "Aksi Korporasi",
+  "title": "KAII Angkat Adityo Haryo Bimo Jadi [Komisaris] Baru",
+  "deck": "RUPS PT Kereta Api Indonesia (Persero) mengangkat Adityo Haryo Bimo sebagai komisaris baru efektif 23 Oktober 2026, menambah jumlah komisaris menjadi sembilan orang.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KAII",
+   "Kereta Api Indonesia",
+   "Komisaris",
+   "Perubahan Pengurus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/68c70dadfd_137b86c0cd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mbss-andy-wibowo-beli-8-47-juta-saham-senilai-rp24-6-m",
   "category": "Aksi Korporasi",
   "title": "MBSS: Andy Wibowo [Beli] 8,47 Juta Saham Senilai Rp24,6 M",
@@ -959,6 +1087,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "raam-tegaskan-rencana-rights-issue-belum-dibatalkan",
+  "category": "Aksi Korporasi",
+  "title": "RAAM Tegaskan Rencana [Rights Issue] Belum Dibatalkan",
+  "deck": "RAAM menjelaskan ke BEI bahwa rencana rights issue belum dibatalkan, namun hingga kini belum ada keputusan final maupun jadwal pelaksanaannya.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAAM",
+   "rights issue",
+   "PMHMETD",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5f5eb6f3bb_453a840c6c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "arko-direksi-tambah-saham-beli-rp1-48-miliar-di-pasar",
   "category": "Aksi Korporasi",
   "title": "ARKO: Direksi [Tambah] Saham, Beli Rp1,48 Miliar di Pasar",
@@ -972,6 +1116,22 @@ var ARTICLES = [
    "insider buying"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-6626-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hatm-laba-bersih-turun-9-8-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "HATM: Laba Bersih [Turun] 9,8% di Kuartal III 2026",
+  "deck": "Laba bersih Habco Trans Maritima turun 9,8 persen jadi Rp110,27 miliar pada sembilan bulan 2026, sementara perseroan menambah modal Rp320 miliar lewat saham baru.",
+  "date": "26 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HATM",
+   "laporan keuangan interim",
+   "penambahan modal",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026104941-64863-0/FinancialStatement-2026-III-HATM.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6284,165 +6444,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea7f1684dd_593b85b76a.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "kota-jadwalkan-ulang-rupslb-rights-issue-ke-23-oktober",
-  "category": "Aksi Korporasi",
-  "title": "KOTA Jadwalkan Ulang [RUPSLB] Rights Issue ke 23 Oktober",
-  "deck": "DMS Propertindo (KOTA) mengusulkan jadwal baru RUPSLB rights issue dan transaksi material ke 23 Oktober 2026, menyusul permintaan perubahan informasi dari OJK.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOTA",
-   "RUPSLB",
-   "rights issue",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b52d4e5016_ca64092f31.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bold-obligasi-rp503-15-m-jatuh-tempo-20-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "BOLD: Obligasi Rp503,15 M [Jatuh Tempo] 20 Oktober 2026",
-  "deck": "Obligasi III BUMA Tahun 2025 Seri A senilai Rp503,15 miliar jatuh tempo dan didelisting dari BEI mulai 20 Oktober 2026, bersamaan dengan pelunasan pokok penuh dan bunga terakhir.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLD",
-   "obligasi",
-   "BUMA",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1b046144e6_c0ba94d169.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-tambah-275-400-saham-dari-konversi-obligasi-wajib",
-  "category": "Aksi Korporasi",
-  "title": "PACK Tambah 275.400 Saham dari [Konversi] Obligasi Wajib",
-  "deck": "Bursa mencatatkan 275.400 saham baru PT Abadi Nusantara Hijau Investama Tbk (PACK) hasil konversi sebagian Obligasi Wajib Konversi, efektif 20 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "obligasi wajib konversi",
-   "pencatatan saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d971a4531c_35c210cdd5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-catatkan-tambahan-195-3-juta-saham-dari-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "ENRG Catatkan Tambahan 195,3 Juta Saham dari [Rights Issue]",
-  "deck": "BEI mencatat tambahan 195.320.682 saham baru ENRG hasil pelaksanaan HMETD PUT IV, membuat total saham tercatat naik menjadi 34.079.857.191 lembar per 20 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "rights issue",
-   "HMETD",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a5e38c73a_db03a68238.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asri-manunggal-tambah-kolateral-repo-150-juta-saham-maybank",
-  "category": "Aksi Korporasi",
-  "title": "ASRI: Manunggal Tambah Kolateral Repo [150 Juta] Saham Maybank",
-  "deck": "Maybank Sekuritas melaporkan tambahan 150 juta saham ASRI sebagai kolateral repo PT Manunggal Prime Development, hak suara tidak langsungnya naik dari 7,29% jadi 8,05%.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASRI",
-   "Alam Sutera Realty",
-   "Maybank Sekuritas",
-   "Repo Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-9650-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ciri-sistem-bisnis-yang-perlu-diganti-saat-tumbuh",
-  "category": "Bisnis",
-  "title": "Ciri Sistem Bisnis yang Perlu Diganti Saat [Tumbuh]",
-  "deck": "Saat pelanggan, cabang, dan transaksi bertambah, sistem lama yang tak lagi terintegrasi bisa membuat laporan telat dan keputusan tertunda.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/ciri-sistem-bisnis-yang-perlu-diganti-saat-tumbuh.jpg",
-  "imageV": "mvfcj5iu",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473846-bisnis-terus-berkembang-mengapa-sistem-yang-digunakan-harus-ikut-berubah"
- },
- {
-  "slug": "ri-kejar-penandatanganan-ieu-cepa-berlaku-awal-2027",
-  "category": "Global",
-  "title": "RI Kejar Penandatanganan IEU-CEPA, Berlaku Awal [2027]",
-  "deck": "Pemerintah mempercepat proses penandatanganan dan ratifikasi IEU-CEPA agar perjanjian dagang dengan Uni Eropa itu mulai berlaku awal 2027.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
-  "tags": [
-   "IEU-CEPA",
-   "Uni Eropa",
-   "Ekspor",
-   "Perjanjian Dagang"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7166/targetkan-implementasi-awal-2027-pemerintah-dorong-percepatan-penandatanganan-ieu-cepa",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "esdm-akui-distribusi-bbm-ke-luar-jawa-masih-tersendat",
-  "category": "Energi",
-  "title": "ESDM Akui Distribusi BBM ke [Luar Jawa] Masih Tersendat",
-  "deck": "Menteri ESDM Bahlil Lahadalia menyebut cadangan BBM nasional masih aman, namun pengiriman ke Kalimantan, Sulawesi, Sumatera, dan Bali masih menghadapi kendala logistik.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/esdm-akui-distribusi-bbm-ke-luar-jawa-masih-tersendat.jpg",
-  "imageV": "mvf6syek",
-  "tags": [
-   "BBM",
-   "ESDM",
-   "Pertamina",
-   "distribusi energi"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/bahlil-pastikan-stok-bbm-nasional-aman-distribusi-ke-daerah-diperkuat",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "cadangan-bbm-bali-dinaikkan-ke-15-hari-usai-antrean-spbu",
-  "category": "Energi",
-  "title": "Cadangan BBM Bali Dinaikkan ke [15] Hari usai Antrean SPBU",
-  "deck": "Pemerintah menaikkan cadangan BBM Bali dari 11 menjadi 15 hari setelah antrean di sejumlah SPBU akibat kapal tanker terlambat. Skema beli ganjil-genap diperpanjang hingga 23 Oktober.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/cadangan-bbm-bali-dinaikkan-ke-15-hari-usai-antrean-spbu.jpg",
-  "imageV": "mvf6t0hw",
-  "tags": [
-   "BBM Bali",
-   "Pertamina",
-   "ESDM",
-   "Distribusi Energi"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tujuh-kapal-dikerahkan-bahlil-perkuat-cadangan-bbm-bali-hingga-15-hari",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "lidah-buaya-gunungkidul-bidik-ekspor-ke-empat-negara",
-  "category": "UMKM",
-  "title": "Lidah Buaya Gunungkidul Bidik [Ekspor] ke Empat Negara",
-  "deck": "UMKM lidah buaya Rasane Vera dari Gunungkidul menggandeng lebih dari 125 petani mitra dan membidik pasar ekspor ke UEA, Jepang, Korea Selatan, dan Inggris.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
-  "tags": [
-   "UMKM",
-   "Ekspor",
-   "Lidah Buaya",
-   "Gunungkidul"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/lidah-buaya-dari-gunungkidul-ubah-keterbatasan-karst-jadi-potensi-ekspor-bernilai-tinggi",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

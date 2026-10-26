@@ -84,6 +84,32 @@ var ARTICLES = [
   "imageV": "mvpio01l"
  },
  {
+  "slug": "viva-panggil-rups-konversi-utang-rp1-72-t-jadi-saham-17-nov",
+  "category": "Aksi Korporasi",
+  "title": "VIVA Panggil RUPS, [Konversi] Utang Rp1,72 T Jadi Saham 17 Nov",
+  "deck": "RUPST dan RUPSLB VIVA digelar 17 November 2026, membahas pengesahan laporan tahunan 2025 serta rencana mengubah utang PKPU Rp1,72 triliun menjadi saham baru Seri C.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T23:04:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11e333be53_e9fce125c9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VIVA",
+  "tags": [
+   "VIVA",
+   "RUPS",
+   "PMTHMETD",
+   "PKPU"
+  ],
+  "body": [
+   "PT Visi Media Asia Tbk (VIVA) memanggil Rapat Umum Pemegang Saham Tahunan (RUPST) dan Luar Biasa (RUPSLB) yang akan digelar Selasa, 17 November 2026 pukul 13.00 WIB di Bakrie Tower lantai 36, Kompleks Rasuna Epicentrum, Jakarta. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per 23 Oktober 2026 pukul 16.00 WIB. Agenda RUPST meliputi pengesahan laporan tahunan dan laporan keuangan audit 2025, pembebasan tanggung jawab bagi seluruh anggota Direksi dan Dewan Komisaris atas tindakan pengurusan dan pengawasan selama tahun buku tersebut, pemberian wewenang kepada Dewan Komisaris untuk menunjuk kantor akuntan publik tahun buku 2026, serta pengangkatan kembali anggota Direksi dan Dewan Komisaris.",
+   "Agenda RUPSLB meminta persetujuan pemegang saham atas rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) sekaligus perubahan Pasal 4 Anggaran Dasar. Perubahan itu akan mengonversi sebagian saham Seri A dan seluruh saham Seri B yang masih tersimpan di portepel menjadi saham baru Seri C, lalu meningkatkan modal ditempatkan dan disetor perseroan sebagai hasil penerbitan saham tersebut. Dokumen menjelaskan bahwa PMTHMETD ini merupakan pelaksanaan Putusan Pengadilan Niaga Jakarta Pusat Nomor 13/Pdt.Sus-PKPU/2024/PN.Niaga.Jkt.Pst yang mengesahkan Perjanjian Perdamaian (Putusan Homologasi). Berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, perseroan memiliki utang PKPU senilai Rp1,72 triliun yang akan diselesaikan lewat konversi utang menjadi saham (debt-to-equity swap) ke dalam saham Seri C yang baru diterbitkan.",
+   "Secara prosedural, perseroan menyediakan fasilitas e-Proxy lewat aplikasi eASY.KSEI sejak tanggal pemanggilan ini hingga pukul 12.00 WIB pada 16 November 2026. Surat kuasa fisik bagi pemegang saham yang berhalangan hadir harus diterima paling lambat 3 hari bursa sebelum rapat, sementara formulir kuasa dapat diperoleh hingga 12 November 2026 di kantor perseroan atau di PT Ficomindo Buana Registrar. Pemegang saham yang ingin hadir fisik wajib mengonfirmasi lewat email ke corsec@vivagroup.co.id paling lambat satu hari sebelum rapat, dengan prinsip konfirmasi lebih dulu diutamakan karena kapasitas ruangan terbatas."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a large corporate meeting hall, Jakarta office tower skyline visible through tall windows, afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik VIVA, karena RUPSLB ini adalah langkah formal untuk merealisasikan PMTHMETD yang sebelumnya sudah diungkap berpotensi mendilusi saham publik hingga 72,35 persen. Yang tersentuh adalah struktur modal dan jumlah saham beredar: mengonversi utang Rp1,72 triliun menjadi saham baru Seri C memang mengurangi beban utang di buku perseroan, tetapi menambah jumlah saham beredar secara signifikan sehingga laba per saham milik pemegang saham lama bisa terdilusi tajam. Pelaku pasar perlu mencermati siapa yang menerima saham baru hasil konversi ini, karena itu menentukan apakah proporsi kepemilikan pengendali ikut berubah. Yang perlu dipantau berikutnya adalah hasil pemungutan suara pada RUPST dan RUPSLB tanggal 17 November 2026, termasuk apakah pemegang saham publik menyetujui perubahan Pasal 4 Anggaran Dasar yang menjadi dasar hukum penerbitan saham Seri C tersebut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-tahap-vi-dan-us-25-juta",
   "category": "Aksi Korporasi",
   "title": "OPPM Tawarkan Obligasi [Rp3,33 Triliun] Tahap VI dan US$25 Juta",
@@ -111,6 +137,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "andi-aps-lepas-seluruh-699-97-juta-saham-hak-suara-ke-0",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: APS [Lepas] Seluruh 699,97 Juta Saham, Hak Suara ke 0%",
+  "deck": "Anugerah Perkasa Semesta menjual seluruh 699,97 juta saham ANDI, setara 7,486% hak suara, seharga Rp30 per lembar pada 26 Oktober 2026 untuk tujuan divestasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T21:20:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-9671-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANDI",
+  "tags": [
+   "ANDI",
+   "Andira Agro",
+   "kepemilikan saham",
+   "divestasi"
+  ],
+  "body": [
+   "Anugerah Perkasa Semesta (APS) melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya telah menjual seluruh 699.970.000 lembar saham PT Andira Agro Tbk (ANDI) yang dipegangnya secara tidak langsung. Jumlah itu setara 7,486% hak suara perusahaan. Setelah transaksi, kepemilikan dan hak suara APS di ANDI menjadi nol, artinya APS sepenuhnya keluar dari daftar pemegang saham perusahaan.",
+   "Transaksi tercatat pada 26 Oktober 2026 dengan harga Rp30 per saham, sehingga total nilainya sekitar Rp21 miliar. Dalam laporan, tujuan transaksi dicantumkan sebagai divestasi, bukan penjaminan atau mekanisme lain. Laporan ini disampaikan sesuai POJK 4/2024 yang mewajibkan pemegang saham utama melaporkan setiap perubahan kepemilikan ke OJK melalui KSEI.",
+   "Pelepasan ini melengkapi informasi yang sebelumnya diberitakan soal peralihan 33% saham pengendali ANDI dari APS dan CEP kepada pemegang baru berkode PJS. Laporan hari ini merinci porsi yang dilepas APS secara spesifik, yakni seluruh 7,486% hak suaranya, lengkap dengan harga dan nilai transaksi yang belum terungkap sebelumnya."
+  ],
+  "fotoAdegan": "Rows of oil palm trees in a plantation with a dirt access road, overcast tropical sky, no people in focus",
+  "takeaway": "Laporan ini netral bagi fundamental Andira Agro, karena yang terjadi hanya pemindahan tangan saham dari pemegang lama APS ke pengendali baru, sejalan dengan proses pengalihan kendali 33% saham yang sudah lebih dulu diberitakan, bukan penyuntikan dana segar ke perusahaan. Yang tersentuh hanyalah struktur pemegang saham dan hak suara, bukan laporan keuangan ANDI, sebab uang Rp30 per lembar itu mengalir dari pembeli ke APS secara langsung, sementara kas dan ekuitas perusahaan tidak berubah sama sekali. Meski ukuran pelepasannya besar, yakni seluruh posisi APS hilang dan hak suaranya turun dari 7,486% menjadi 0%, sifatnya bagian dari transaksi pengalihan kendali yang terencana, bukan sinyal mendadak soal prospek perusahaan. Yang perlu dipantau berikutnya adalah laporan kepemilikan saham dari pihak pembeli, yang akan mengonfirmasi apakah PJS atau pihak lain yang kini memegang porsi 7,486% ini. Perlu dicermati juga apakah akumulasi saham pengendali baru ini memicu kewajiban penawaran tender kepada pemegang saham publik sesuai aturan pasar modal.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mmix-mengky-mangarek-tambah-saham-ke-6-02",
   "category": "Aksi Korporasi",
   "title": "MMIX: Mengky Mangarek [Tambah] Saham ke 6,02%",
@@ -133,6 +185,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Warehouse staff arranging boxes of medical and laboratory equipment on tall metal shelving under warm fluorescent light",
   "takeaway": "Laporan ini netral bagi MMIX, karena penambahan kepemilikan sebesar 10.000 lot hanya menggeser porsi saham Mengky Mangarek dari 6,00 persen menjadi 6,02 persen, selisih yang terlalu kecil untuk dibaca sebagai sinyal keyakinan besar meski arahnya pembelian, bukan pelepasan saham. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham utama, bukan laba atau arus kas perusahaan, sehingga pengaruhnya terhadap kendali MMIX nyaris tidak berubah. Pasar biasanya mencermati pola pembelian oleh direksi dari waktu ke waktu, bukan transaksi tunggal, karena akumulasi bertahap yang konsisten baru punya makna sebagai sinyal keyakinan. Yang perlu dipantau berikutnya adalah apakah Mengky Mangarek kembali menambah kepemilikannya dalam laporan-laporan serupa ke depan, karena setiap perubahan kepemilikan insider di MMIX wajib dilaporkan ulang ke OJK dan BEI sesuai POJK Nomor 4/2024.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "andi-cep-lepas-2-38-miliar-saham-hak-suara-ke-24-22",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: CEP Lepas 2,38 Miliar Saham, Hak Suara ke [24,22%]",
+  "deck": "Central Energi Pratama melepas 2,385 miliar saham Andira Agro lewat skema repurchase agreement pada 26 Oktober 2026, menurunkan hak suaranya dari 49,73% menjadi 24,22%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T20:55:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-5417-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANDI",
+  "tags": [
+   "ANDI",
+   "Andira Agro",
+   "perubahan pemegang saham",
+   "pengendali baru"
+  ],
+  "body": [
+   "Central Energi Pratama (CEP) melaporkan ke Otoritas Jasa Keuangan bahwa kepemilikannya di PT Andira Agro Tbk (ANDI) berkurang dari 4.650.030.000 lembar saham menjadi 2.264.500.000 lembar saham per 26 Oktober 2026. Selisihnya, 2.385.530.000 lembar saham atau sekitar 51,3 persen dari kepemilikan CEP sebelumnya, dilepas dengan tujuan divestasi pada harga Rp30 per saham. Akibatnya, hak suara CEP di ANDI turun drastis dari 49,733 persen menjadi 24,22 persen.",
+   "Dalam dokumen pelaporan, jenis transaksi ini tercatat sebagai repurchase agreement dengan status penjualan tidak langsung, klasifikasi saham biasa. Harga Rp30 per saham yang jauh di bawah kisaran harga pasar umum mengindikasikan transaksi ini merupakan kesepakatan yang dinegosiasikan di luar mekanisme jual beli terbuka di bursa.",
+   "Pelepasan saham CEP ini terjadi di tengah rangkaian perubahan kepemilikan di Andira Agro pekan ini. Pada hari yang sama, pemegang saham lama APS dilaporkan melepas seluruh 699,97 juta sahamnya hingga hak suaranya menjadi nol persen, sementara PJS tercatat sebagai pengendali baru lewat akuisisi sekitar 33 persen saham pengendali."
+  ],
+  "fotoAdegan": "Rows of oil palm trees in a plantation at dawn, a loaded fruit collection truck parked on a dirt road nearby",
+  "takeaway": "Transaksi ini netral bagi fundamental Andira Agro, karena yang berpindah hanyalah kepemilikan saham lama antar pihak, bukan dana segar yang masuk ke kas perusahaan. Yang tersentuh di sini adalah hak suara, yaitu ukuran seberapa besar pengaruh seorang pemegang saham dalam rapat pemegang saham, yang pada CEP turun tajam dari 49,733 persen menjadi 24,22 persen setelah melepas lebih dari separuh kepemilikannya. Harga transaksi yang hanya Rp30 per saham, jauh di bawah harga pasar lazim, menguatkan kesan bahwa ini kesepakatan tertutup lewat skema repurchase agreement, bukan jual beli biasa di lantai bursa. Pelepasan ini sejalan dengan rangkaian pergantian kendali Andira Agro pekan ini, setelah APS melepas seluruh sahamnya dan PJS tercatat mengambil alih sekitar 33 persen saham pengendali. Yang perlu dipantau selanjutnya adalah apakah saham yang dilepas CEP ini turut diserap PJS, dan apakah akan ada laporan keterbukaan lanjutan yang menegaskan struktur pengendali baru Andira Agro.",
   "sentimen": "netral"
  },
  {
@@ -185,6 +263,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Exterior driveway of an upscale hotel with manicured tropical landscaping and parked cars, soft late afternoon light, no signage visible",
   "takeaway": "Transaksi ini kami nilai netral bagi SWID. Ini pinjaman bank biasa dengan jaminan tunai yang nilainya sama persis dengan plafon kredit, sehingga risikonya bagi bank sangat kecil, tapi bagi Perseroan tambahan utang Rp70 miliar ini setara 25,43 persen dari ekuitas, porsi yang cukup besar untuk ukuran transaksi material. Pos yang tersentuh adalah beban bunga dan arus kas: bunga 7,16 persen per tahun itu wajib dibayar setiap bulan dan mengurangi kas yang bisa dipakai untuk keperluan lain, sementara di sisi lain dana ini dipakai membiayai operasional hotel yang diharapkan menambah pendapatan berulang Perseroan. Yang perlu dipantau berikutnya adalah jatuh tempo kredit, yaitu 12 bulan sejak penandatanganan pada 22 Oktober 2026, yang berarti sekitar Oktober 2027 Perseroan harus melunasi pokok pinjamannya, serta apakah pendapatan hotel benar naik cukup untuk menutupi beban bunga baru ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "andi-pjs-beli-3-08-miliar-saham-rp30-lembar-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: PJS Beli 3,08 Miliar Saham Rp30/Lembar [Pengendali]",
+  "deck": "PT Puncak Jaya Sejahtera resmi membeli 3.085.500.000 saham ANDI seharga Rp30 per lembar, mengangkat hak suaranya dari 0% jadi 33% dan menjadikannya pengendali baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T20:14:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-1415-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANDI",
+  "tags": [
+   "ANDI",
+   "Andira Agro",
+   "pengendali saham",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Puncak Jaya Sejahtera (PJS) melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya resmi memiliki 3.085.500.000 saham PT Andira Agro Tbk (ANDI), naik dari sebelumnya nol saham sama sekali. Kepemilikan baru ini membuat hak suara PJS di ANDI melonjak dari 0 persen menjadi 33 persen, menjadikannya pemegang saham pengendali baru perusahaan perkebunan tersebut. Transaksi tercatat pada 26 Oktober 2026, berupa pembelian saham melalui mekanisme repurchase agreement, yaitu perjanjian jual beli saham dengan klausul beli kembali, pada harga Rp30 per saham.",
+   "Dengan harga Rp30 per saham dan jumlah 3.085.500.000 lembar, nilai total transaksi ini mencapai sekitar Rp92,57 miliar. Dalam laporannya, PJS menyebut tujuan pembelian ini untuk melanjutkan kegiatan usaha Perseroan yang telah berjalan serta mengembangkan dan mengoptimalkan potensi bisnis ANDI di masa mendatang.",
+   "Transaksi ini melengkapi rangkaian pengalihan saham pengendali ANDI yang beberapa hari terakhir sudah dilaporkan ke bursa, yakni pelepasan seluruh 699,97 juta saham oleh APS dan pelepasan 2,38 miliar saham oleh CEP yang membuat hak suara CEP turun menjadi 24,22 persen. Dengan laporan ini, posisi PJS sebagai pengendali baru ANDI dengan 33 persen hak suara resmi tercatat di OJK."
+  ],
+  "fotoAdegan": "Workers loading palm oil fruit bunches onto a truck at a plantation collection point, tropical morning light",
+  "takeaway": "Laporan ini netral bagi fundamental Andira Agro, sebab dana sekitar Rp92,57 miliar dari transaksi ini mengalir ke pemegang saham lama, yakni APS dan CEP yang menjual sahamnya ke PJS, bukan masuk sebagai dana segar ke kas perusahaan. Yang tersentuh hanya struktur pengendali dan hak suara, bukan ekuitas, kas, atau laba per saham ANDI, karena jumlah saham beredar perusahaan tidak berubah sama sekali akibat transaksi ini. Pelaku pasar tetap mencermati pergantian pengendali semacam ini karena pemilik baru biasanya membawa agenda bisnis atau susunan manajemen baru yang bisa mengubah arah perusahaan ke depan. Yang perlu dipantau selanjutnya adalah apakah PJS, yang kini menguasai 33 persen suara, wajib mengajukan penawaran tender kepada pemegang saham publik ANDI sesuai aturan OJK soal pengambilalihan perusahaan terbuka, serta apakah menyusul ini akan ada RUPSLB untuk mengubah susunan direksi atau komisaris.",
   "sentimen": "netral"
  },
  {
@@ -1050,6 +1154,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "mmix-pukul-rata-kanan-tambah-saham-ke-4-33",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: Pukul Rata Kanan [Tambah] Saham ke 4,33%",
+  "deck": "Pemegang saham PT Pukul Rata Kanan menambah 119,99 juta lembar saham MMIX pada 22 Oktober 2026, sehingga kepemilikannya naik dari 1,84% menjadi 4,33%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T15:45:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bae71f3807_dbfd4a41df.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MMIX",
+  "tags": [
+   "MMIX",
+   "kepemilikan saham",
+   "PT Pukul Rata Kanan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Multi Medika Internasional Tbk (MMIX) melaporkan perubahan struktur kepemilikan saham salah satu pemegang sahamnya, PT Pukul Rata Kanan. Berdasarkan keterbukaan informasi yang diteken Direktur Keuangan Eveline N. Susanto pada 26 Oktober 2026, PT Pukul Rata Kanan menambah 119.999.999 lembar saham MMIX melalui transaksi pada 22 Oktober 2026, setara 2,49 persen dari total saham beredar perusahaan.",
+   "Sebelum transaksi tersebut, PT Pukul Rata Kanan tercatat mengantongi 88.150.000 lembar saham MMIX atau 1,84 persen dari total saham beredar. Dengan penambahan itu, total kepemilikannya kini menjadi 208.149.999 lembar saham, setara 4,33 persen, hampir melipatgandakan porsi kepemilikan sebelumnya hanya dalam satu transaksi.",
+   "Dalam laporan tersebut, manajemen MMIX menyatakan transaksi ini tidak berdampak negatif terhadap kegiatan operasional harian perusahaan dan telah sesuai dengan Undang-Undang Pasar Modal, Peraturan OJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka, POJK Nomor 31/2015 tentang keterbukaan informasi atau fakta material, serta aturan Bursa Efek Indonesia tentang kewajiban penyampaian informasi."
+  ],
+  "fotoAdegan": "A warehouse worker checking stacked boxes of medical laboratory equipment under fluorescent lights, forklift parked nearby",
+  "takeaway": "Laporan ini condong positif bagi MMIX, karena PT Pukul Rata Kanan menambah, bukan melepas, kepemilikannya hingga lebih dari dua kali lipat dari 1,84 persen menjadi 4,33 persen, yang biasa dibaca pasar sebagai tanda keyakinan pemegang saham tersebut terhadap perusahaan. Yang tersentuh di sini adalah struktur kepemilikan saham dan hak suara, pos yang diawasi investor karena makin besar porsi yang dipegang satu pihak, makin besar pula pengaruh suaranya dalam rapat pemegang saham, meski 4,33 persen masih jauh dari posisi pengendali. Laporan semacam ini wajib disampaikan setiap kali ada perubahan kepemilikan yang signifikan, sehingga pemegang saham lain bisa memantau siapa yang memperbesar genggamannya di MMIX. Yang perlu dipantau berikutnya adalah apakah PT Pukul Rata Kanan akan terus menambah porsinya pada periode berikutnya, karena kenaikan bertahap seperti ini biasanya berlanjut sampai pihak tersebut mencapai status pemegang saham utama.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "elit-pendapatan-turun-25-laba-bersih-tetap-stabil",
   "category": "Aksi Korporasi",
   "title": "ELIT: Pendapatan [Turun] 25%, Laba Bersih Tetap Stabil",
@@ -1074,6 +1204,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of server racks in a data center aisle with blinking status lights, a technician checking cables, cool blue ambient lighting",
   "takeaway": "Laporan ini condong netral mengarah positif: meski pendapatan turun seperempat, laba bersih bertahan, arus kas dari kegiatan usaha sehari-hari malah melonjak jadi Rp66,9 miliar dari Rp23,3 miliar pada periode yang sama tahun lalu, dan tambahan utang dipakai membangun kapasitas data center baru, bukan menambal kekurangan kas. Pos yang tersentuh meliputi arus kas operasi yang menguat tadi, ekuitas atau kekayaan bersih pemegang saham yang naik jadi Rp187 miliar dari Rp158 miliar, dan laba per saham, yakni bagian laba yang secara hitungan jadi milik pemegang satu lembar saham, yang justru naik tipis ke Rp17,33 dari Rp17,15 di tengah pendapatan yang merosot, tanda efisiensi biaya menahan penurunan laba. Yang perlu dipantau berikutnya adalah apakah pendapatan kembali naik pada laporan kuartal IV dan laporan tahunan auditan 2026 yang biasanya terbit sekitar akhir Maret 2027, serta apakah investasi data center senilai sekitar Rp49 miliar dari utang bank baru ini mulai menghasilkan pendapatan tambahan yang sepadan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "sstm-cetak-laba-bersih-naik-tapi-rugi-usaha-inti-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "SSTM Cetak Laba Bersih Naik, tapi [Rugi] Usaha Inti Berlanjut",
+  "deck": "Penjualan SSTM naik 16 persen pada sembilan bulan pertama 2026, tapi perusahaan rugi dari usaha inti dan laba bersihnya ditopang pendapatan lain-lain, bukan dari bisnis tekstil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T15:08:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026221918-65028-0/FinancialStatement-2026-III-SSTM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SSTM",
+  "tags": [
+   "SSTM",
+   "laporan keuangan",
+   "tekstil",
+   "rugi usaha"
+  ],
+  "body": [
+   "PT Sunson Textile Manufacturer Tbk (SSTM) melaporkan penjualan sebesar Rp216,48 miliar untuk sembilan bulan pertama 2026, naik dari Rp185,92 miliar pada periode yang sama tahun lalu. Namun beban pokok penjualan naik lebih cepat, dari Rp173,76 miliar menjadi Rp206,56 miliar, sehingga laba kotor justru turun dari Rp12,16 miliar menjadi Rp9,91 miliar. Beban administrasi dan umum juga melonjak hampir dua kali lipat, dari Rp5,54 miliar menjadi Rp10,35 miliar, yang membuat perusahaan mencatat rugi usaha Rp2,61 miliar, berbalik dari laba usaha Rp4,53 miliar pada periode yang sama tahun lalu.",
+   "Meski rugi dari kegiatan usaha pokoknya, SSTM tetap membukukan laba bersih Rp14,24 miliar, naik dari Rp4,10 miliar tahun lalu. Kenaikan ini ditopang oleh pos pendapatan lain-lain senilai Rp17,90 miliar, jauh di luar penjualan benang dan kain yang menjadi bisnis utama perusahaan. Dengan laba bersih itu, defisit perusahaan mengecil dari Rp170,21 miliar menjadi Rp155,97 miliar dan total ekuitas naik dari Rp201,25 miliar menjadi Rp215,49 miliar. Laba bersih per saham tercatat Rp12,2, sementara dari kegiatan usaha saja perusahaan sebenarnya rugi Rp2,2 per saham.",
+   "Di sisi arus kas, kas yang dihasilkan dari kegiatan operasional turun tajam dari Rp5,28 miliar menjadi Rp1,81 miliar. Total liabilitas perusahaan juga turun 22 persen, dari Rp165,78 miliar menjadi Rp129,27 miliar, terutama karena uang muka penjualan dari pelanggan berkurang Rp36,49 miliar atau 44,44 persen dan utang pajak berkurang Rp4,46 miliar atau 19,83 persen. Perusahaan sekaligus menarik utang bank jangka pendek baru senilai Rp5,46 miliar, yang sebelumnya tidak ada. Dalam surat resmi ke Bursa Efek Indonesia tertanggal 26 Oktober 2026 yang ditandatangani Direktur Mahavo Pudjiarto, manajemen menyatakan perubahan liabilitas di atas 20 persen ini tidak berdampak negatif terhadap kinerja perseroan."
+  ],
+  "fotoAdegan": "Workers tending industrial weaving looms in a textile factory, spools of yarn in the foreground, dim warm lighting",
+  "takeaway": "Laporan ini condong negatif bagi fundamental SSTM karena kenaikan laba bersih sebenarnya menutupi pelemahan bisnis inti: perusahaan rugi dari kegiatan usaha sebesar Rp2,61 miliar, berbalik dari untung Rp4,53 miliar setahun sebelumnya, dan kas dari kegiatan operasional anjlok dari Rp5,28 miliar menjadi Rp1,81 miliar. Yang menyelamatkan laba bersih adalah pos pendapatan lain-lain senilai Rp17,9 miliar, jauh di luar kegiatan menjual benang dan kain, sehingga laba per saham yang tercatat Rp12,2 tidak mencerminkan kekuatan bisnis utama perusahaan. Penurunan uang muka penjualan sebesar 44 persen turut perlu dicermati karena pos ini biasanya adalah pembayaran di muka dari pelanggan, sehingga berkurangnya bisa berarti pesanan baru yang masuk juga ikut berkurang. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang akan memperlihatkan apakah pendapatan di luar usaha ini berulang atau cuma kejadian satu kali, serta apakah rugi usaha inti masih berlanjut di kuartal keempat.",
+  "sentimen": "negatif"
  },
  {
   "slug": "hdit-pendapatan-ambruk-98-rugi-bersih-rp17-m",
@@ -1230,6 +1386,32 @@ var ARTICLES = [
   "fotoAdegan": "A bulk cargo ship being loaded with dry material at an Indonesian industrial port, cranes overhead, overcast daylight",
   "takeaway": "Laporan ini condong positif bagi MBSS karena membuka potensi pendapatan jasa angkutan yang terikat kontrak selama lima tahun, lebih panjang dari siklus kontrak spot yang biasa di bisnis pelayaran. Pos yang tersentuh adalah arus kas dari kegiatan usaha, yaitu uang masuk dari jasa yang dijual, sebab kontrak sebesar ini bila berjalan penuh akan menambah pemasukan rutin MBSS selama lima tahun ke depan. Namun besaran nilai uang kontrak, tarif per pengiriman, dan jadwal kapal belum ditentukan di sini, semuanya baru akan muncul di SPAL untuk tiap pengiriman, sehingga target 500.000 ton per bulan masih berupa rencana, bukan kepastian pendapatan. Yang perlu dipantau selanjutnya adalah penerbitan SPAL pertama, karena dokumen itu yang akan memperlihatkan apakah tarif dan volume riil benar-benar mendekati target yang disebutkan dalam perjanjian payung ini.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "bbni-rampungkan-buyback-22-95-juta-saham-periode-juli-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BBNI Rampungkan [Buyback] 22,95 Juta Saham Periode Juli-Oktober",
+  "deck": "Bank BNI menutup periode pembelian kembali saham yang berjalan sejak 27 Juli hingga 26 Oktober 2026, dengan total 22,95 juta saham dibeli kembali dari anggaran maksimal Rp627 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T14:30:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/03e2c1daef_0287d60d1d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBNI",
+  "tags": [
+   "BBNI",
+   "buyback saham",
+   "bank BUMN",
+   "OJK"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk melaporkan ke Otoritas Jasa Keuangan bahwa periode pembelian kembali saham atau buyback yang diumumkan sejak 27 Juli 2026 telah berakhir pada 26 Oktober 2026, sesuai jangka waktu yang sebelumnya diumumkan perusahaan. Seluruh rangkaian transaksi buyback tersebut dinyatakan telah diselesaikan, dengan total 22.950.000 saham yang berhasil dibeli kembali selama periode tiga bulan tersebut.",
+   "Program ini awalnya diumumkan lewat keterbukaan informasi 27 Juli 2026, mengacu pada aturan OJK tentang pembelian kembali saham oleh perusahaan terbuka dalam kondisi pasar yang berfluktuasi signifikan (POJK 13/2023) serta Surat OJK No. S-10/D.04/2026. Dana yang dialokasikan untuk buyback ini maksimal Rp627 miliar, sudah termasuk biaya-biaya terkait transaksi. BNI menyebut jumlah saham yang benar-benar dibeli mempertimbangkan kondisi makroekonomi dan dinamika pasar selama periode berjalan, namun dokumen ini tidak merinci berapa rupiah persis yang terpakai dari pagu Rp627 miliar tersebut.",
+   "Soal nasib saham hasil buyback, BNI hanya menyebut pengalihannya akan dilaksanakan sesuai peraturan perundang-undangan yang berlaku, tanpa merinci apakah saham itu akan ditahan sebagai saham treasury, dibagikan lewat program kepemilikan saham karyawan, atau dihapus permanen dari jumlah saham beredar. Corporate Secretary BNI, Okki Rushartomo Budiprabowo, menyatakan berakhirnya periode dan penyelesaian transaksi buyback ini tidak memengaruhi kegiatan usaha dan pertumbuhan perusahaan, dengan alasan rasio kecukupan modal (CAR) tetap berada di level sehat dan arus kas operasional masih memadai untuk mendukung rencana bisnis ke depan."
+  ],
+  "fotoAdegan": "Exterior view of a tall glass-fronted bank headquarters tower in Jakarta's business district, late afternoon light, traffic below",
+  "takeaway": "Laporan ini tergolong netral bagi fundamental BNI: realisasi buyback hanya 22,95 juta saham dari pagu maksimal Rp627 miliar, porsi yang kecil dibandingkan skala saham BNI yang beredar dalam hitungan miliaran lembar, jadi tidak banyak mengubah struktur permodalan perusahaan. Pos yang tersentuh adalah jumlah saham beredar dan permodalan bank. Saham yang dibeli balik dari pasar mengurangi sedikit jumlah lembar yang beredar, yang secara teori membuat laba per saham tiap pemegang saham sedikit naik, sementara dana yang dipakai berasal dari kas internal sehingga ikut menggerus tipis rasio kecukupan modal atau CAR, yaitu ukuran seberapa besar bantalan modal bank dibandingkan risiko kreditnya, meski BNI menyatakan rasio itu masih di level sehat. Yang perlu dipantau selanjutnya adalah bagaimana BNI memperlakukan saham hasil buyback ini, apakah ditahan sebagai saham treasury, dibagikan lewat program kepemilikan saham karyawan, atau dihapus permanen, karena laporan ini hanya menyebut pengalihannya akan mengikuti peraturan yang berlaku tanpa jadwal pasti.",
+  "sentimen": "netral"
  },
  {
   "slug": "laba-bles-melonjak-484-di-kuartal-iii-2026",
@@ -1465,6 +1647,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "kaii-angkat-adityo-haryo-bimo-jadi-komisaris-baru",
+  "category": "Aksi Korporasi",
+  "title": "KAII Angkat Adityo Haryo Bimo Jadi [Komisaris] Baru",
+  "deck": "RUPS PT Kereta Api Indonesia (Persero) mengangkat Adityo Haryo Bimo sebagai komisaris baru efektif 23 Oktober 2026, menambah jumlah komisaris menjadi sembilan orang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T11:52:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/68c70dadfd_137b86c0cd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KAII",
+  "tags": [
+   "KAII",
+   "Kereta Api Indonesia",
+   "Komisaris",
+   "Perubahan Pengurus"
+  ],
+  "body": [
+   "PT Kereta Api Indonesia (Persero) atau KAI, penerbit obligasi dengan kode KAII, melaporkan ke Otoritas Jasa Keuangan bahwa para pemegang saham perseroan telah mengangkat Adityo Haryo Bimo sebagai Komisaris, efektif 23 Oktober 2026. Pengangkatan ini tertuang dalam Keputusan Para Pemegang Saham Nomor 435 Tahun 2026 dan Surat Keputusan Nomor SK.151/DI-DAM/DU/2026. Laporan disampaikan ke OJK pada 26 Oktober 2026 oleh Wisnu Pramudyo, Executive Vice President Corporate Secretary KAI, yang menyatakan pengangkatan ini tidak membawa dampak material terhadap kegiatan usaha perseroan.",
+   "Dengan tambahan ini, jajaran direksi KAI tetap dipimpin Bobby Rasyidin sebagai Direktur Utama didampingi Dody Budiawan sebagai Wakil Direktur Utama, bersama delapan direktur lain yakni Dendy Kurniawan, Awan Hermawan Purwadinata, Heru Kuswanto, Wilman Hatoguan Marudut Sidjabat, Dadan Rudiansyah, Atih Nurhayati, I Gede Darmayusa, dan Indarto Pamoengkas. Susunan direksi ini tidak berubah dibanding laporan sebelumnya.",
+   "Adapun dewan komisaris kini beranggotakan sembilan orang, bertambah satu dari sebelumnya delapan. Said Aqil Siroj tetap menjabat Komisaris Utama, didampingi Arnanto, Raizal Aripin, dan Endang Tirtana yang tercatat sebagai komisaris independen, serta Diah Natalisa, Mohamad Risal Wasal, I Wayan Sugiri, dan Ristadi yang baru diangkat pada 1 Oktober 2026. Adityo Haryo Bimo melengkapi susunan ini sebagai komisaris termuda dari sisi tanggal pengangkatan."
+  ],
+  "fotoAdegan": "Wide shot of a long passenger train arriving at a busy Indonesian railway platform, commuters waiting, soft morning light",
+  "takeaway": "Laporan ini netral bagi fundamental KAI karena sekadar pergantian personel pengurus, bukan aksi korporasi yang mengubah modal atau arus kas perusahaan. Tidak ada pos keuangan seperti ekuitas, laba per saham, atau beban bunga yang tersentuh langsung oleh pengangkatan ini, tetapi komposisi dewan komisaris tetap relevan bagi pemegang obligasi karena merekalah yang mengawasi keputusan direksi soal pembiayaan dan kepatuhan pembayaran kewajiban utang. Yang perlu dicermati selanjutnya adalah bagaimana dewan komisaris yang baru lengkap ini, setelah rangkaian pergantian sejak Agustus 2025 hingga Oktober 2026, menjalankan fungsi pengawasannya terhadap rencana bisnis dan kewajiban keuangan KAI ke depan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mbss-andy-wibowo-beli-8-47-juta-saham-senilai-rp24-6-m",
   "category": "Aksi Korporasi",
   "title": "MBSS: Andy Wibowo [Beli] 8,47 Juta Saham Senilai Rp24,6 M",
@@ -1543,6 +1751,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "raam-tegaskan-rencana-rights-issue-belum-dibatalkan",
+  "category": "Aksi Korporasi",
+  "title": "RAAM Tegaskan Rencana [Rights Issue] Belum Dibatalkan",
+  "deck": "RAAM menjelaskan ke BEI bahwa rencana rights issue belum dibatalkan, namun hingga kini belum ada keputusan final maupun jadwal pelaksanaannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T11:04:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5f5eb6f3bb_453a840c6c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAAM",
+  "tags": [
+   "RAAM",
+   "rights issue",
+   "PMHMETD",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Tripar Multivision Plus Tbk (RAAM) menyampaikan surat penjelasan bernomor 50-CORSEC/MVP/X/2026 tertanggal 26 Oktober 2026 kepada Bursa Efek Indonesia, menanggapi permintaan penjelasan BEI No. S-13372/BEI.PP1/10-2026 tertanggal 23 Oktober 2026. BEI mempertanyakan konsistensi pernyataan RAAM soal rencana penambahan modal dengan hak memesan efek terlebih dahulu atau rights issue, setelah surat RAAM pada 22 Oktober 2026 menyebut tidak ada rencana aksi korporasi material dalam waktu dekat, padahal siaran pers 23 Juli 2026 sebelumnya membahas proses rights issue tersebut. Dalam surat ini, RAAM menegaskan bahwa pernyataan 22 Oktober itu tidak berarti rencana rights issue dibatalkan, dan sampai saat ini perusahaan belum mengambil keputusan final atas kelanjutan rencananya.",
+   "Corporate secretary RAAM, Audrya Luvika Siregar, menjelaskan bahwa rencana rights issue ini sudah disetujui Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 5 Mei 2026, tetapi perseroan masih mengevaluasi pelaksanaannya dengan mempertimbangkan kondisi pasar modal, kebutuhan pendanaan, struktur permodalan, dan kelayakan aksi korporasi tersebut. Perusahaan juga sedang menimbang sumber pendanaan alternatif, termasuk arus kas internal dan fasilitas perbankan, untuk mendukung kebutuhan modal kerja serta rencana penyertaan modal pada PT Platinum Sinema, entitas anak RAAM. Perusahaan menyebut belum bisa menyampaikan perkiraan jadwal pelaksanaan rights issue maupun proforma struktur kepemilikan dan porsi saham free float setelahnya, karena parameter seperti jumlah saham yang akan diterbitkan belum ditetapkan.",
+   "RAAM menyebut akan memperhatikan Pasal 8 ayat (3) POJK No. 32/POJK.04/2015 yang mengatur bahwa jangka waktu antara tanggal persetujuan RUPS dan efektifnya pernyataan pendaftaran tidak boleh lebih dari 12 bulan. Dengan RUPSLB yang sudah menyetujui rencana ini pada 5 Mei 2026, berarti RAAM punya waktu hingga sekitar awal Mei 2027 untuk membuat pernyataan pendaftaran rights issue ini efektif, apabila rencana tersebut tetap dilanjutkan."
+  ],
+  "fotoAdegan": "Film crew adjusting lighting rigs on a soundstage in Jakarta, cables coiled on the floor, dim ambient light",
+  "takeaway": "Laporan ini netral bagi fundamental RAAM, karena isinya hanya meluruskan kebingungan komunikasi soal rights issue tanpa ada keputusan atau angka pendanaan baru yang mengubah kondisi keuangan perusahaan saat ini. Kalau rights issue ini akhirnya berjalan, pos yang tersentuh adalah jumlah saham beredar dan ekuitas, sebab saham baru yang diterbitkan menambah jumlah saham beredar sehingga laba per saham investor yang sudah ada berpotensi terdilusi, sementara ekuitas perusahaan bertambah dari dana yang masuk. Sebaliknya, kalau RAAM memilih opsi pendanaan lewat fasilitas bank, yang tersentuh adalah beban bunga, yaitu biaya pinjaman yang harus dibayar perusahaan setiap periode. Yang perlu dipantau berikutnya adalah keputusan final RAAM soal lanjut atau tidaknya rights issue ini, serta batas waktu regulasi OJK yang mengharuskan pernyataan pendaftarannya efektif paling lambat sekitar awal Mei 2027, dua belas bulan setelah RUPSLB menyetujuinya pada 5 Mei 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "arko-direksi-tambah-saham-beli-rp1-48-miliar-di-pasar",
   "category": "Aksi Korporasi",
   "title": "ARKO: Direksi [Tambah] Saham, Beli Rp1,48 Miliar di Pasar",
@@ -1567,6 +1801,32 @@ var ARTICLES = [
   "fotoAdegan": "A run-of-river hydroelectric powerhouse with steel penstock pipes along a forested riverbank in Indonesia, soft morning light",
   "takeaway": "Laporan ini condong positif bagi ARKO karena mencatat pembelian, bukan pelepasan saham oleh direksi, yang biasanya dibaca pasar sebagai bentuk keyakinan orang dalam terhadap prospek perusahaan. Yang tersentuh di sini adalah hak suara pribadi Aldo, bukan jumlah saham beredar perusahaan, sebab transaksi ini terjadi di pasar sekunder antar pemegang saham sehingga tidak menambah saham baru dan tidak mendilusi pemegang saham lain. Meski kenaikan kepemilikannya sendiri cukup besar secara persentase, dari 5,45 juta menjadi 6,5 juta lembar, porsinya terhadap total saham ARKO tetap tipis, hanya naik dari 0,19 persen jadi 0,22 persen, sehingga tidak mengubah struktur kendali perusahaan. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris lain ARKO melakukan pembelian serupa dalam waktu dekat, karena pola pembelian beruntun oleh jajaran direksi biasanya lebih bermakna sebagai sinyal ketimbang transaksi tunggal seperti ini.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "hatm-laba-bersih-turun-9-8-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "HATM: Laba Bersih [Turun] 9,8% di Kuartal III 2026",
+  "deck": "Laba bersih Habco Trans Maritima turun 9,8 persen jadi Rp110,27 miliar pada sembilan bulan 2026, sementara perseroan menambah modal Rp320 miliar lewat saham baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Oktober 2026",
+  "isoDate": "2026-10-26T10:40:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026104941-64863-0/FinancialStatement-2026-III-HATM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HATM",
+  "tags": [
+   "HATM",
+   "laporan keuangan interim",
+   "penambahan modal",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Habco Trans Maritima Tbk (HATM) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Direktur Utama Andrew Kam dan Direktur Rita pada 23 Oktober 2026. Total aset perseroan tercatat Rp2.276,50 triliun, naik 23,27 persen atau sekitar Rp429,70 miliar dibandingkan akhir 2025. Dalam surat penjelasan ke Otoritas Jasa Keuangan, manajemen menyebut kenaikan ini terutama berasal dari kas dan bank yang bertambah Rp393,06 miliar dari aktivitas operasi dan pendanaan, piutang usaha naik Rp25,99 miliar, persediaan naik Rp34,33 miliar, serta uang muka dan biaya dibayar di muka naik Rp16,74 miliar, sementara nilai buku aset tetap justru turun Rp76,05 miliar akibat penyusutan. Total liabilitas naik lebih kecil, 7,05 persen menjadi Rp260,28 miliar, sehingga tidak melewati ambang 20 persen yang mewajibkan penjelasan tambahan ke bursa.",
+   "Dari sisi laba rugi, pendapatan sembilan bulan 2026 naik 7,5 persen menjadi Rp839,65 miliar dari Rp780,81 miliar pada periode yang sama tahun lalu. Namun beban pokok pendapatan naik lebih cepat, 13,5 persen menjadi Rp696,26 miliar, sehingga laba kotor justru turun 14,5 persen menjadi Rp143,39 miliar dan laba usaha turun 18,4 persen menjadi Rp114,92 miliar. Setelah memperhitungkan beban keuangan, pajak final, dan laba selisih kurs, laba bersih periode ini tercatat Rp110,27 miliar, turun 9,8 persen dari Rp122,19 miliar tahun lalu, sementara laba per saham dasar turun dari Rp14,08 menjadi Rp12,63.",
+   "Pada ekuitas, perseroan melakukan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) senilai Rp320 miliar, menerbitkan 640 juta saham baru sehingga total saham beredar naik dari 8,68 miliar menjadi 9,32 miliar lembar. Setelah dipotong biaya emisi Rp341,03 juta, dana yang masuk ke ekuitas bersih sekitar Rp319,66 miliar. Perseroan juga membagikan dividen Rp17,36 miliar dan menyisihkan Rp16,8 miliar untuk dana cadangan dari saldo laba. Pada laporan arus kas, kas bersih dari aktivitas operasi melonjak menjadi Rp214,48 miliar dari Rp124,29 miliar tahun lalu, sementara belanja aset tetap anjlok menjadi hanya Rp266,75 juta dari Rp361,75 miliar, menandakan proyek penambahan armada besar pada 2025 sudah rampung."
+  ],
+  "fotoAdegan": "Tugboat towing a loaded cargo barge across a busy Indonesian harbor, cranes and anchored vessels in soft morning haze",
+  "takeaway": "Laporan ini condong negatif bagi fundamental Habco Trans Maritima, sebab pendapatan yang naik 7,5 persen tidak terbawa ke laba karena beban pokok pendapatan naik lebih cepat, 13,5 persen, sehingga laba bersih sembilan bulan kembali turun 9,8 persen menjadi Rp110,27 miliar, meneruskan pelemahan yang sudah tampak sejak semester pertama tahun ini. Yang ikut tersentuh adalah jumlah saham beredar dan laba per saham: perseroan menambah 640 juta lembar saham baru lewat skema penambahan modal tanpa hak memesan efek terlebih dahulu sehingga total saham beredar naik jadi 9,32 miliar lembar, dan karena laba yang sama kini dibagi ke lebih banyak lembar, laba per saham turun dari Rp14,08 menjadi Rp12,63. Di sisi lain, uang tunai yang benar-benar masuk dari kegiatan usaha sehari-hari melonjak jadi Rp214,48 miliar dari Rp124,29 miliar tahun lalu, sementara belanja modal untuk aset tetap turun drastis karena pembangunan armada tahun sebelumnya sudah selesai. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 untuk melihat apakah tekanan margin ini mereda atau berlanjut, serta bagaimana dana segar sekitar Rp319,66 miliar hasil penambahan modal itu benar-benar dipakai perseroan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "arko-komisaris-tambah-saham-beli-rp419-juta-di-pasar",

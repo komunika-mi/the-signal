@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "asli-catat-laba-rp5-8-miliar-aset-naik-47-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASLI Catat [Laba] Rp5,8 Miliar, Aset Naik 47% per September 2026",
+  "deck": "Laporan kuartal III 2026 Asri Karya Lestari menunjukkan laba berbalik dari rugi, ditopang proyek baru, meski liabilitas ikut melonjak tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T20:52:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027210115-64662-0/FinancialStatement-2026-III-ASLI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASLI",
+  "tags": [
+   "ASLI",
+   "laporan keuangan",
+   "konstruksi",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Asri Karya Lestari Tbk (ASLI) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan bersih perusahaan naik menjadi Rp236,7 miliar dari Rp136,5 miliar pada periode yang sama tahun lalu. Laba bruto melonjak ke Rp28,4 miliar dari Rp7 miliar, dan laba usaha berbalik dari rugi Rp24,3 miliar menjadi laba Rp6,5 miliar. Setelah pajak, perusahaan membukukan laba bersih Rp5,8 miliar, berbalik dari rugi Rp27 miliar pada periode yang sama 2025, dengan laba per saham dasar 0,93 dibanding rugi per saham 4,32 pada tahun sebelumnya.",
+   "Dalam surat terpisah ke OJK dan BEI, perusahaan menjelaskan lonjakan lebih dari 20 persen pada total aset dan liabilitas. Total aset naik 47,07 persen menjadi Rp629,2 miliar dari Rp427,8 miliar per akhir 2025, terutama karena tagihan bruto pemberi kerja yang belum ditagih naik menjadi Rp215,4 miliar dari Rp9,2 miliar, akibat pekerjaan proyek konstruksi yang progresnya sudah selesai namun penagihannya belum diterbitkan sesuai termin kontrak. Aset lancar lainnya juga naik menjadi Rp22,3 miliar dari Rp7,8 miliar karena uang muka pembelian material proyek dan penempatan jaminan pelaksanaan. Di sisi liabilitas, total liabilitas melonjak 372,74 persen menjadi Rp248,1 miliar dari Rp52,4 miliar, didorong utang bruto ke subkontraktor yang mencapai Rp151,6 miliar akibat makin besarnya porsi pekerjaan yang dilimpahkan ke subkontraktor, serta liabilitas kontrak Rp64,1 miliar dari uang muka pelanggan untuk proyek-proyek baru di 2026.",
+   "Sementara liabilitas operasional itu naik, utang bank berbunga perusahaan justru turun menjadi nol dari sekitar Rp16,7 miliar per akhir 2025. Kas dan setara kas naik menjadi Rp38,9 miliar dari Rp8 miliar, dengan kas dari aktivitas operasi berbalik positif Rp44,3 miliar dari sebelumnya minus Rp40,7 miliar. Ekuitas perusahaan naik tipis menjadi Rp381,2 miliar dari Rp375,4 miliar. Dalam catatan umum laporan ini, perusahaan juga mengungkapkan bahwa sejak 27 April 2026, PT Wahana Konstruksi Mandiri menjadi entitas induk ASLI dengan Hariono sebagai pemilik manfaat utama, menyusul perubahan susunan direksi dan komisaris berdasarkan akta notaris pada tanggal yang sama."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete on a mid-rise building site in an Indonesian city, crane visible, overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi ASLI karena setelah merugi besar tahun lalu, perusahaan berbalik untung Rp5,8 miliar pada kuartal ketiga 2026, ditopang lonjakan pendapatan konstruksi dan proyek baru. Yang paling tersentuh adalah arus kas dan laba per saham: kas dari kegiatan operasional berbalik positif Rp44,3 miliar, artinya uang yang benar-benar masuk ke kas perusahaan dari kegiatan usahanya, bukan sekadar catatan di atas kertas, sementara laba per saham, ukuran untung yang dibagi jumlah saham beredar dan dipakai investor membandingkan kinerja antar periode, berbalik dari rugi 4,32 menjadi untung 0,93 per lembar. Lonjakan liabilitas yang tajam tetap perlu dicermati, tapi karena sumbernya utang ke subkontraktor dan uang muka pelanggan untuk proyek baru, bukan pinjaman bank berbunga yang malah turun ke nol, kenaikan ini lebih mencerminkan ekspansi proyek ketimbang tekanan keuangan. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang akan diaudit, serta apakah tagihan bruto pemberi kerja senilai Rp215,4 miliar yang belum ditagih benar-benar bisa dicairkan menjadi kas pada kuartal-kuartal mendatang.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bipp-terbitkan-502-8-juta-saham-baru-ke-afiliasi",
   "category": "Aksi Korporasi",
   "title": "BIPP Terbitkan 502,8 Juta Saham Baru ke [Afiliasi]",
@@ -687,6 +713,58 @@ var ARTICLES = [
   "fotoAdegan": "Factory workers inspecting rolls of corrugated plastic roofing sheets moving along an industrial production line, overhead lighting",
   "takeaway": "Laporan ini condong positif bagi IMPC karena pendapatan dan laba bersihnya tumbuh dua digit, jauh di atas kenaikan utang maupun penyusutan kasnya. Yang tersentuh di sini adalah laba per saham, yang naik karena laba tumbuh lebih cepat dari jumlah saham; arus kas operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan jual beli sehari-hari, yang juga naik; dan beban bunga, biaya yang dibayar perseroan atas pinjamannya, yang justru turun meski pinjaman jangka pendeknya bertambah. Satu hal yang perlu dicermati adalah pembelian saham treasuri senilai Rp451,66 miliar, saham yang dibeli kembali oleh perusahaan dari pasar dan untuk sementara tidak diperdagangkan, karena dokumen ini belum menjelaskan untuk apa saham itu akan dipakai nantinya, entah dibagikan lewat program insentif karyawan, dijual kembali, atau ditahan. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang biasanya terbit pada awal 2027, untuk memastikan tren kenaikan laba ini bertahan sepanjang tahun penuh.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "xcid-bagikan-dividen-tunai-rp601-6-juta-ke-pemegang-unit",
+  "category": "Aksi Korporasi",
+  "title": "XCID Bagikan [Dividen] Tunai Rp601,6 Juta ke Pemegang Unit",
+  "deck": "DIRE Ciptadana Properti Ritel Indonesia (XCID) menjadwalkan dividen tunai final hingga Rp0,1504 per unit penyertaan, dibayar 20 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T15:30:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf8dc68bbe_3a52c3e430.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XCID",
+  "tags": [
+   "XCID",
+   "dividen",
+   "DIRE",
+   "pasar modal"
+  ],
+  "body": [
+   "DIRE Ciptadana Properti Ritel Indonesia (XCID) menyampaikan rencana pembagian dividen tunai final kepada Bursa Efek Indonesia pada 27 Oktober 2026. DIRE adalah dana investasi real estat, instrumen investasi yang menghimpun dana dari publik untuk dibelikan properti dan membagikan hasil sewanya sebagai dividen ke pemegang unit penyertaan, mirip konsep reksa dana yang isinya properti. Dividen tunai final kali ini ditetapkan sebanyak-banyaknya Rp0,1504 per unit penyertaan, dengan total dana yang akan dibagikan sebanyak-banyaknya Rp601.600.000.",
+   "Jadwal pembagian dividen diatur dalam beberapa tahap. Di pasar reguler dan pasar negosiasi, tanggal cum dividen, yaitu batas akhir pembelian unit yang masih membawa hak atas dividen ini, jatuh pada 4 November 2026, sementara tanggal ex dividen atau mulai berlakunya transaksi tanpa hak dividen jatuh sehari setelahnya, 5 November 2026. Di pasar tunai, tanggal cum dividen jatuh pada 6 November 2026 dan ex dividen pada 9 November 2026. Pemegang unit penyertaan yang namanya tercatat dalam daftar pemegang unit per 6 November 2026 berhak menerima dividen tersebut, dan pembayarannya dijadwalkan pada 20 November 2026.",
+   "Dokumen keterbukaan ini disetujui dan ditandatangani secara elektronik oleh Nurita Siagian selaku approver atas nama DIRE Ciptadana Properti Ritel Indonesia, pada 27 Oktober 2026 pukul 15.30 WIB."
+  ],
+  "fotoAdegan": "Shoppers walking through a busy shopping mall atrium in an Indonesian city, escalators and storefronts blurred in the background, bright daylight through skylights",
+  "takeaway": "Laporan ini netral bagi pemegang unit karena besarannya tergolong rutin dan tidak ada data pembanding periode sebelumnya untuk menilai apakah pembagian kali ini membesar atau menyusut dari biasanya. Dividen ini berasal dari DIRE, wadah investasi properti yang menurut aturannya memang wajib membagikan sebagian besar laba ke pemegang unit setiap periode, sehingga pembagian semacam ini adalah mekanisme normal, bukan sinyal kinerja istimewa. Pos yang tersentuh adalah arus kas, yakni uang tunai yang keluar dari kas DIRE sebanyak-banyaknya Rp601,6 juta, yang mengurangi kas yang dipegang perusahaan tapi berpindah langsung menjadi uang tunai di tangan pemegang unit. Yang perlu dipantau adalah tanggal pencatatan pemegang unit pada 6 November 2026, karena hanya yang terdaftar hingga tanggal itu yang berhak menerima dividen, dan tanggal pembayaran pada 20 November 2026 sebagai titik realisasi dana benar cair ke rekening pemegang unit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wirg-rombak-total-direksi-anak-usaha-horeca-akar-mimpi",
+  "category": "Aksi Korporasi",
+  "title": "WIRG Rombak Total [Direksi] Anak Usaha Horeca Akar Mimpi",
+  "deck": "PT WIR ASIA Tbk mengganti seluruh komisaris dan direksi anak usahanya, PT Horeca Akar Mimpi, efektif 14 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T15:23:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/96bdd90b74_c531fbd9ae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIRG",
+  "tags": [
+   "WIRG",
+   "Horeca Akar Mimpi",
+   "direksi",
+   "komisaris"
+  ],
+  "body": [
+   "PT WIR ASIA Tbk (WIRG) melaporkan perombakan total susunan Dewan Komisaris dan Direksi di anak usahanya, PT Horeca Akar Mimpi (HAM). Perubahan ini didasarkan pada Akta Pernyataan Keputusan Sirkular Para Pemegang Saham No. 07 tanggal 16 Oktober 2026 yang dibuat di hadapan notaris Minar Siahaan di Kabupaten Bekasi. Seluruh anggota Dewan Komisaris dan Direksi HAM yang lama diberhentikan dengan hormat, dan pengurus baru diangkat untuk menggantikannya. Keputusan ini berlaku efektif sejak 14 Oktober 2026.",
+   "Susunan baru HAM terdiri dari Stanislaus Aries Baju Nugroho sebagai Komisaris, Erland Susilo sebagai Direktur Utama, dan Fawzy Maulana sebagai Direktur. Pemberitahuan perubahan data perseroan ini telah diterima dan dicatat dalam Sistem Administrasi Badan Hukum Kementerian Hukum RI pada 26 Oktober 2026, dengan nomor penerimaan AHU-AH.01.09-0422643.",
+   "Dalam laporannya ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, WIR ASIA menyatakan bahwa sampai saat keterbukaan informasi ini disampaikan, tidak ada dampak dari perubahan pengurus tersebut terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Staff arranging chairs and tables inside a modern cafe or restaurant space in Jakarta, soft morning light through windows",
+  "takeaway": "Perubahan ini condong netral karena hanya menyangkut pergantian pengurus di anak usaha, tanpa ada angka modal, utang, atau pendapatan yang berubah pada laporan ini. Tidak ada pos keuangan seperti ekuitas atau arus kas yang tersentuh di sini, jadi belum ada alasan finansial langsung bagi pasar untuk bereaksi. Yang lebih relevan justru soal tata kelola, karena penggantian seluruh direksi dan komisaris sekaligus bisa menandakan perubahan arah atau strategi bisnis di Horeca Akar Mimpi. Pemegang saham WIRG perlu memantau laporan keuangan konsolidasi berikutnya untuk melihat apakah kinerja anak usaha ini berubah di bawah kepemimpinan baru.",
+  "sentimen": "netral"
  },
  {
   "slug": "bina-jadwalkan-pelaksanaan-pmthmetd-3-november-2026",
@@ -1396,6 +1474,32 @@ var ARTICLES = [
   "fotoAdegan": "A row of small electric vehicles parked at a rental yard, a worker checking a charging cable, overcast daylight in Jakarta",
   "takeaway": "Laporan ini netral bagi NICK. Rugi bersihnya cuma Rp332 juta, nyaris impas dibanding ekuitas perusahaan yang mencapai Rp311 miliar, dan sumber utamanya adalah kerugian dari jual beli saham atau obligasi yang dipegang perusahaan, bukan kegagalan bisnis inti, sebab pendapatan sewa kendaraan listrik dan penjualan barang justru naik. Yang pantas dicermati adalah laba per saham yang berbalik dari untung Rp128,04 per lembar jadi rugi Rp0,51 per lembar, menunjukkan betapa fluktuasi pendapatan dari trading surat berharga bisa mengguncang angka laba meski bisnis operasional sehat, sementara utang jangka panjang perusahaan melonjak dari hampir nol jadi Rp65,2 miliar untuk membiayai kendaraan listrik yang disewakan lewat PT Okansa Pacific. Yang perlu dipantau selanjutnya adalah apakah pendapatan sewa kendaraan listrik yang baru mulai komersial tahun ini cukup menutup biaya pembiayaannya, serta apakah portofolio efek kembali mencatat untung pada laporan keuangan tahunan auditan yang akan menyusul laporan interim ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "kota-cetak-laba-rp51-67-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Cetak [Laba] Rp51,67 Miliar di Sembilan Bulan 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan pendapatan KOTA melonjak ke Rp125,05 miliar dan laba bersih Rp51,67 miliar, berbalik dari rugi Rp21,54 miliar setahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T10:01:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027171127-64882-0/FinancialStatement-2026-III-KOTA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "laporan keuangan",
+   "properti",
+   "laba bersih"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 melalui surat nomor 347/DMSP/X/2026. Surat pernyataan direksi ditandatangani pada 23 Oktober 2026 oleh Mohamad Prapanca selaku Direktur Utama dan Gema Pratama selaku Direktur. Poin utamanya, pendapatan perusahaan naik dari Rp28,80 miliar pada sembilan bulan pertama 2025 menjadi Rp125,05 miliar pada periode yang sama tahun ini, mengangkat laba bruto dari Rp19,55 miliar menjadi Rp96,75 miliar. Setelah dikurangi beban usaha Rp42,02 miliar dan beban keuangan Rp19,90 miliar, perusahaan mencetak laba bersih Rp51,67 miliar, berbalik dari rugi bersih Rp21,54 miliar pada periode yang sama tahun lalu, dengan laba per saham dasar Rp4,9 dibandingkan rugi Rp2,0 per saham setahun sebelumnya.",
+   "Dari sisi posisi keuangan, total aset KOTA per 30 September 2026 tercatat Rp1,95 triliun, sedikit menyusut dari Rp1,97 triliun pada akhir 2025. Total liabilitas turun dari Rp736,93 miliar menjadi Rp662,03 miliar, sementara total ekuitas naik dari Rp1,237 triliun menjadi Rp1,289 triliun. Kas dan setara kas bertambah dari Rp69,53 miliar menjadi Rp112,01 miliar. Namun pinjaman bank jangka pendek melonjak tajam dari Rp961,66 juta menjadi Rp94,50 miliar, sedangkan pinjaman bank jangka panjang naik tipis dari Rp417,23 miliar menjadi Rp425,30 miliar.",
+   "Laporan arus kas menunjukkan kegiatan operasi menghasilkan kas bersih Rp71,71 miliar, berbalik dari pemakaian kas Rp12,43 miliar pada periode yang sama tahun lalu. Kegiatan investasi menghasilkan kas bersih Rp28,51 miliar, dibandingkan pemakaian kas Rp145,95 miliar setahun sebelumnya, terutama karena perolehan aset tetap yang jauh lebih kecil. Sebaliknya, kegiatan pendanaan membalik arah dari menghasilkan kas Rp160,84 miliar menjadi memakai kas Rp57,74 miliar, sejalan dengan pembayaran sejumlah utang jangka panjang lainnya."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete at a mid-rise building site in Jakarta, cranes in the background, late afternoon light",
+  "takeaway": "Laporan kuartalan ini condong positif bagi KOTA, karena DMS Propertindo berhasil membalik rugi bersih Rp21,54 miliar pada sembilan bulan pertama 2025 menjadi laba bersih Rp51,67 miliar pada periode yang sama tahun ini, ditopang pendapatan yang melonjak lebih dari empat kali lipat. Dampaknya terlihat di beberapa pos: ekuitas pemegang saham, yaitu kekayaan bersih perusahaan setelah dikurangi semua utang, naik dari Rp1,237 triliun menjadi Rp1,289 triliun karena laba periode ini langsung menambah modal perusahaan, laba per saham berbalik dari rugi Rp2,0 menjadi laba Rp4,9, dan arus kas dari kegiatan usaha, yakni uang tunai yang benar-benar masuk dari operasional sehari-hari, berbalik dari minus Rp12,43 miliar menjadi plus Rp71,71 miliar. Yang perlu dicatat, beban bunga ikut naik dari Rp14,90 miliar menjadi Rp19,90 miliar seiring pinjaman bank jangka pendek yang melonjak dari Rp961,66 juta menjadi Rp94,50 miliar, tanda perusahaan menambah utang berbunga untuk mendanai kegiatannya. Yang perlu dipantau selanjutnya adalah kelanjutan rencana penambahan modal lewat rights issue, yang RUPSLB-nya sempat ditunda karena OJK masih meminta data tambahan, sebab membaiknya kinerja kuartal ini bisa memengaruhi bagaimana rencana tersebut akhirnya dilanjutkan.",
+  "sentimen": "positif"
  },
  {
   "slug": "harga-emas-antam-naik-tipis-ke-rp2-550-000-per-gram",

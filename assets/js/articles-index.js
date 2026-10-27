@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "asli-catat-laba-rp5-8-miliar-aset-naik-47-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASLI Catat [Laba] Rp5,8 Miliar, Aset Naik 47% per September 2026",
+  "deck": "Laporan kuartal III 2026 Asri Karya Lestari menunjukkan laba berbalik dari rugi, ditopang proyek baru, meski liabilitas ikut melonjak tajam.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASLI",
+   "laporan keuangan",
+   "konstruksi",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027210115-64662-0/FinancialStatement-2026-III-ASLI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bipp-terbitkan-502-8-juta-saham-baru-ke-afiliasi",
   "category": "Aksi Korporasi",
   "title": "BIPP Terbitkan 502,8 Juta Saham Baru ke [Afiliasi]",
@@ -422,6 +438,38 @@ var ARTICLES = [
    "saham treasuri"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027155415-65161-0/FinancialStatement-2026-III-IMPC.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xcid-bagikan-dividen-tunai-rp601-6-juta-ke-pemegang-unit",
+  "category": "Aksi Korporasi",
+  "title": "XCID Bagikan [Dividen] Tunai Rp601,6 Juta ke Pemegang Unit",
+  "deck": "DIRE Ciptadana Properti Ritel Indonesia (XCID) menjadwalkan dividen tunai final hingga Rp0,1504 per unit penyertaan, dibayar 20 November 2026.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XCID",
+   "dividen",
+   "DIRE",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf8dc68bbe_3a52c3e430.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wirg-rombak-total-direksi-anak-usaha-horeca-akar-mimpi",
+  "category": "Aksi Korporasi",
+  "title": "WIRG Rombak Total [Direksi] Anak Usaha Horeca Akar Mimpi",
+  "deck": "PT WIR ASIA Tbk mengganti seluruh komisaris dan direksi anak usahanya, PT Horeca Akar Mimpi, efektif 14 Oktober 2026.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIRG",
+   "Horeca Akar Mimpi",
+   "direksi",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/96bdd90b74_c531fbd9ae.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -858,6 +906,22 @@ var ARTICLES = [
    "kendaraan listrik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027101405-64949-0/FinancialStatement-2026-III-NICK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kota-cetak-laba-rp51-67-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Cetak [Laba] Rp51,67 Miliar di Sembilan Bulan 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan pendapatan KOTA melonjak ke Rp125,05 miliar dan laba bersih Rp51,67 miliar, berbalik dari rugi Rp21,54 miliar setahun sebelumnya.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "laporan keuangan",
+   "properti",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027171127-64882-0/FinancialStatement-2026-III-KOTA.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6388,71 +6452,5 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/pajak-jabar-i-dan-international-women-university-sepakati-pembentukan-tax-center",
   "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "pajak-kalsel-tumbuh-27-persen-tembus-rp9-93-triliun",
-  "category": "Makroekonomi",
-  "title": "Pajak Kalsel [Tumbuh] 27 Persen, Tembus Rp9,93 Triliun",
-  "deck": "Penerimaan pajak Kalimantan Selatan capai Rp9,93 triliun hingga September 2026, tumbuh 27,33 persen, bersamaan dengan mulai berlakunya pungutan PPh marketplace.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/pajak-kalsel-tumbuh-27-persen-tembus-rp9-93-triliun.jpg",
-  "imageV": "mvgl4yzd",
-  "tags": [
-   "Pajak",
-   "APBN",
-   "Kalimantan Selatan",
-   "Marketplace"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/penerimaan-pajak-kalsel-tumbuh-positif-capai-rp993-triliun-hingga-september-2026",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "axio-bagikan-dividen-interim-rp8-per-saham-total-rp46-7-miliar",
-  "category": "Aksi Korporasi",
-  "title": "AXIO bagikan [dividen] interim Rp8 per saham, total Rp46,7 miliar",
-  "deck": "Tera Data Indonusa (AXIO) menetapkan dividen interim tahun buku 2026 sebesar Rp46,72 miliar atau Rp8 per saham, dibayar 19 November 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AXIO",
-   "dividen interim",
-   "Tera Data Indonusa",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b5e5843035_3fcef34132.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "axio-rinci-jadwal-dividen-interim-rp8-saham-cair-19-nov",
-  "category": "Aksi Korporasi",
-  "title": "AXIO rinci [jadwal] dividen interim Rp8/saham, cair 19 Nov",
-  "deck": "Tera Data Indonusa (AXIO) menetapkan dividen interim Rp46,7 miliar atau Rp8 per saham, dengan tanggal pencatatan 30 Oktober dan pembayaran 19 November 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AXIO",
-   "dividen interim",
-   "Tera Data Indonusa",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/89f436e721_2976278448.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-direksi-lanjut-lepas-saham-via-repo-hak-suara-4-37",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Lanjut Lepas Saham via [Repo], Hak Suara 4,37%",
-  "deck": "Direksi RLCO kembali mencairkan saham lewat mekanisme repo pada 20 Oktober, melanjutkan tren penurunan hak suara dua hari beruntun.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "direksi",
-   "repo",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1344-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

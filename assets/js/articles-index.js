@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-kejar-reformasi-pasar-modal-sebelum-tenggat-msci-2027",
+  "category": "Pasar Modal",
+  "title": "RI Kejar [Reformasi] Pasar Modal Sebelum Tenggat MSCI 2027",
+  "deck": "Pemerintah menaikkan syarat free float jadi 15 persen dan memperkuat keterbukaan pemilik saham menjelang tenggat evaluasi MSCI pada 30 April 2027.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/pasar-modal.jpg",
+  "tags": [
+   "MSCI",
+   "pasar modal",
+   "free float",
+   "OJK"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7186/reformasi-tata-kelola-pasar-modal-berikan-manfaat-nyata-bagi-masyarakat",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "perpres-baru-permudah-distribusi-pupuk-subsidi-ke-petani",
   "category": "BUMN",
   "title": "Perpres Baru Permudah Distribusi [Pupuk] Subsidi ke Petani",
@@ -6437,22 +6453,6 @@ var ARTICLES = [
    "Rapat Pemegang Saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0ff4765f0c_7cf8589059.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brms-direksi-beli-550-000-saham-senilai-rp233-juta",
-  "category": "Aksi Korporasi",
-  "title": "BRMS: Direksi [Beli] 550.000 Saham Senilai Rp233 Juta",
-  "deck": "Direksi Bumi Resources Minerals, Charles Daniel Gobel, membeli 550.000 saham BRMS pada 20 Oktober 2026 seharga Rp424 per lembar, menambah kepemilikannya menjadi 1,9 juta saham.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRMS",
-   "kepemilikan saham",
-   "direksi",
-   "Bumi Resources Minerals"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6495-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

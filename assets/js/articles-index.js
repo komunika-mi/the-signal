@@ -5,6 +5,198 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bina-jadwalkan-pelaksanaan-pmthmetd-3-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BINA Jadwalkan Pelaksanaan [PMTHMETD] 3 November 2026",
+  "deck": "Bank Ina Perdana akan menerbitkan hingga 80 juta saham baru tanpa hak memesan efek terlebih dahulu pada 3 November 2026, mengacu keputusan RUPS Independen Juni 2026.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BINA",
+   "PMTHMETD",
+   "Bank Ina Perdana",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2924462aed_9d41ecd6fa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fuji-total-kewajiban-turun-47-laba-kuartal-iii-susut",
+  "category": "Aksi Korporasi",
+  "title": "FUJI: Total Kewajiban [Turun] 47%, Laba Kuartal III Susut",
+  "deck": "Total kewajiban FUJI turun hampir separuh dalam sembilan bulan 2026, tapi pendapatan dari pembiayaan konsumen anjlok dan laba bersih ikut tergerus 23 persen dibanding tahun lalu.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FUJI",
+   "laporan keuangan",
+   "pembiayaan konsumen",
+   "kewajiban"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027145201-64591-0/FinancialStatement-2026-III-FUJI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bukk-tanggapi-bursa-pemegang-saham-fokus-penuhi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "BUKK Tanggapi Bursa, Pemegang Saham Fokus Penuhi [Free Float]",
+  "deck": "BUKK menjawab permintaan penjelasan BEI atas volatilitas sahamnya, menegaskan tak ada aksi korporasi dekat ini dan pemegang saham utama fokus memenuhi syarat free float.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUKK",
+   "volatilitas saham",
+   "free float",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2c16ea3994_2e00e08120.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-aset-naik-212-usai-akuisisi-blok-madura-laba-dobel",
+  "category": "Aksi Korporasi",
+  "title": "RATU: Aset Naik [212%] Usai Akuisisi Blok Madura, Laba Dobel",
+  "deck": "Akuisisi 20 persen saham di Blok Madura mendorong aset RATU melonjak 212 persen dan laba sembilan bulan naik hampir dua kali lipat, dibiayai obligasi, sukuk, dan pinjaman bank baru.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "akuisisi",
+   "migas",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027144752-64789-0/FinancialStatement-2026-III-RATU.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnmp-tegaskan-direksi-baru-usai-lolos-uji-kepatutan-ojk",
+  "category": "Aksi Korporasi",
+  "title": "PNMP Tegaskan Direksi Baru Usai Lolos [Uji Kepatutan] OJK",
+  "deck": "PT Permodalan Nasional Madani (PNMP) menyampaikan akta penegasan RUPS yang mengukuhkan direktur utama dan komisaris baru usai lolos uji kepatutan OJK.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNMP",
+   "Permodalan Nasional Madani",
+   "RUPS",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98ffe836a5_0b8bad15a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kaii-tawarkan-obligasi-dan-sukuk-ijarah-rp1-1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "KAII Tawarkan [Obligasi] dan Sukuk Ijarah Rp1,1 Triliun",
+  "deck": "KAI menerbitkan obligasi dan sukuk ijarah tahap I senilai total Rp1,1 triliun untuk pemodal profesional, bagian dari program Rp4,1 triliun, dengan rating AAA dari Pefindo.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KAII",
+   "obligasi",
+   "sukuk ijarah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6fe517c3db_5a20405aec.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-jadwalkan-rupslb-3-desember-dps-10-november",
+  "category": "Aksi Korporasi",
+  "title": "RLCO Jadwalkan [RUPSLB] 3 Desember, DPS 10 November",
+  "deck": "RLCO akan menggelar Rapat Umum Pemegang Saham Luar Biasa pada 3 Desember 2026, dengan pencatatan pemegang saham pada 10 November 2026.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "RUPSLB",
+   "pasar modal",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71c9b893b2_14b711959e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-bantah-info-material-soal-lonjakan-saham-gelar-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "RLCO Bantah Info Material soal Lonjakan Saham, Gelar [RUPSLB]",
+  "deck": "RLCO menjawab permintaan penjelasan Bursa atas lonjakan harga dan transaksi sahamnya pada 22 Oktober 2026, sambil mengonfirmasi RUPSLB 3 Desember untuk ganti direksi dan sesuaikan KBLI.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "RUPSLB",
+   "volatilitas saham",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e6994069d_90aa00b484.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ipcm-laba-bersih-turun-33-jadi-rp94-1-miliar-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "IPCM: Laba Bersih [Turun] 33% Jadi Rp94,1 Miliar Kuartal III",
+  "deck": "Laba bersih Jasa Armada Indonesia turun 33 persen menjadi Rp94,1 miliar dalam sembilan bulan 2026, tertekan kenaikan beban pokok pendapatan yang lebih cepat dari penjualan.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPCM",
+   "laba bersih",
+   "laporan keuangan",
+   "Pelindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027135055-64986-0/FinancialStatement-2026-III-IPCM.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ltls-laba-9-bulan-melonjak-jadi-rp276-miliar",
+  "category": "Aksi Korporasi",
+  "title": "LTLS: Laba 9 Bulan [Melonjak] Jadi Rp276 Miliar",
+  "deck": "Lautan Luas mencatat laba periode berjalan Rp276,1 miliar pada sembilan bulan pertama 2026, naik dari Rp141,3 miliar, ditopang pendapatan yang tumbuh 27,6 persen.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LTLS",
+   "laporan keuangan",
+   "industri kimia",
+   "emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027135956-64494-0/FinancialStatement-2026-III-LTLS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "drma-catat-laba-rp487-6-miliar-kuartal-iii-naik-13-9",
+  "category": "Aksi Korporasi",
+  "title": "DRMA Catat Laba [Rp487,6 Miliar] Kuartal III, Naik 13,9%",
+  "deck": "Penjualan neto Dharma Polimetal naik 16 persen jadi Rp5,10 triliun dalam sembilan bulan 2026, laba bersih naik 13,9 persen menjadi Rp487,63 miliar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "laporan keuangan",
+   "otomotif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027135042-64985-0/FinancialStatement-2026-III-DRMA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "intp-jadwalkan-rupslb-3-desember-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "INTP Jadwalkan [RUPSLB] 3 Desember, Agenda Belum Diumumkan",
+  "deck": "Indocement memberitahukan rencana RUPSLB pada 3 Desember 2026, tapi agenda resminya baru akan diumumkan 11 November 2026 lewat panggilan rapat.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INTP",
+   "RUPSLB",
+   "Indocement",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a4956f8705_6f74be3c6d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "hmsp-catat-laba-melonjak-44-jadi-rp6-51-triliun",
   "category": "Aksi Korporasi",
   "title": "HMSP Catat Laba [Melonjak] 44% Jadi Rp6,51 Triliun",
@@ -6258,199 +6450,6 @@ var ARTICLES = [
    "insider buying"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-8756-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmbl-panggil-rupslb-november-agenda-perubahan-susunan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "BMBL Panggil RUPSLB November, Agenda [Perubahan] Susunan Direksi",
-  "deck": "BMBL memanggil RUPSLB pada 11 November 2026 di Depok untuk membahas perubahan susunan direksi, dengan recording date 19 Oktober 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMBL",
-   "RUPSLB",
-   "Direksi",
-   "Lavender Bina Cendikia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dced6d6055_3c0d9274d9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-melonjak-4-16-persen-bei-rombak-komposisi-indeks",
-  "category": "Pasar Modal",
-  "title": "IHSG [Melonjak] 4,16 Persen, BEI Rombak Komposisi Indeks",
-  "deck": "IHSG naik 4,16 persen ke 5.204,63 pada sesi I Selasa, didorong perubahan batas ARB dan pengeluaran puluhan saham HSC dari komposisi indeks oleh BEI.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/ihsg-melonjak-4-16-persen-bei-rombak-komposisi-indeks.jpg",
-  "imageV": "mvgck64a",
-  "tags": [
-   "IHSG",
-   "BEI",
-   "MSCI",
-   "pasar modal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473980-ihsg-menguat-416-persen-ke-level-5204-sempat-terkoreksi-hingga-kembali-menghijau"
- },
- {
-  "slug": "boss-gelar-public-expose-suspensi-saham-masih-berlanjut",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Gelar Public Expose, [Suspensi] Saham Masih Berlanjut",
-  "deck": "BOSS akan gelar public expose tahunan 29 Oktober 2026. Materinya ungkap suspensi saham masih berlanjut dan perseroan tanpa pendapatan dua tahun berturut-turut.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "Suspensi Saham",
-   "Public Expose",
-   "Batubara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2e3ecbd47_36c474526c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-boss-2023-bongkar-tambang-yang-masih-terhenti",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose BOSS 2023 Bongkar Tambang yang Masih [Terhenti]",
-  "deck": "BOSS akan menggelar Public Expose tahunan untuk tahun buku 2023 pada 29 Oktober 2026, memaparkan kondisi tambang yang masih terhenti sejak longsor 2023 dan anak usaha yang berstatus pailit.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "Public Expose",
-   "Suspensi Saham",
-   "Pertambangan Batubara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bb54998009_41fecfdb33.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "emas-jadwalkan-rups-pemegang-saham-independen-26-november",
-  "category": "Aksi Korporasi",
-  "title": "EMAS Jadwalkan RUPS Pemegang Saham [Independen] 26 November",
-  "deck": "Merdeka Gold Resources menjadwalkan RUPS khusus pemegang saham independen pada 26 November 2026, dengan tanggal pencatatan pemegang saham pada 3 November 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "RUPS Independen",
-   "Merdeka Gold Resources",
-   "Corporate Action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f0a676271d_aa0c033d68.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-catatkan-218-juta-saham-baru-apex-dilusi-6-15",
-  "category": "Aksi Korporasi",
-  "title": "BEI Catatkan 218 Juta Saham Baru APEX, [Dilusi] 6,15%",
-  "deck": "APEX mencatatkan 218,09 juta saham baru dari penambahan modal tanpa HMETD, saham beredar naik menjadi 3,76 miliar lembar per 20 Oktober 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APEX",
-   "PMTHMETD",
-   "dilusi saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c32f7b1a0e_b5148cd3ee.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lopi-setujui-penambahan-modal-tanpa-hak-memesan-efek-lama",
-  "category": "Aksi Korporasi",
-  "title": "LOPI Setujui [Penambahan Modal] Tanpa Hak Memesan Efek Lama",
-  "deck": "Pemegang saham LOPI menyetujui rencana penambahan modal tanpa hak memesan efek terlebih dahulu dalam RUPSLB 19 Oktober 2026, dengan kuorum kehadiran 24,47 persen saham.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LOPI",
-   "RUPSLB",
-   "Penambahan Modal",
-   "Pasar Modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/54acdac1f2_5eedf03c73.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmas-tarik-pinjaman-afiliasi-usd30-juta-dari-kbank",
-  "category": "Aksi Korporasi",
-  "title": "BMAS Tarik [Pinjaman] Afiliasi USD30 Juta dari KBank",
-  "deck": "BMAS menarik tambahan pinjaman bilateral senilai setara US$30 juta dari induk usahanya, KBank, bagian dari fasilitas dua tahun senilai total US$341 juta untuk mendukung likuiditas dan penyaluran kredit.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "pinjaman afiliasi",
-   "KBank",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7359bf6be3_c98242380d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ikai-raja-sapta-oktohari-borong-47-6-juta-saham-rp22",
-  "category": "Aksi Korporasi",
-  "title": "IKAI: Raja Sapta Oktohari [Borong] 47,6 Juta Saham Rp22",
-  "deck": "Raja Sapta Oktohari menambah kepemilikan sahamnya di IKAI dari 2,37 juta menjadi 50 juta lembar lewat pembelian tidak langsung pada 15 Oktober 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IKAI",
-   "Intikeramik Alamasri",
-   "kepemilikan saham",
-   "Raja Sapta Oktohari"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-9993-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-komisaris-tambah-kepemilikan-jadi-3-49-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Komisaris [Tambah] Kepemilikan Jadi 3,49 Juta Saham",
-  "deck": "Arif Rachmat, Komisaris TAPG, membeli 623.000 saham tidak langsung pada 19 Oktober 2026 seharga Rp1.685 per saham untuk investasi.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "Komisaris",
-   "Kepemilikan Saham",
-   "Insider Buying"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-5601-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hrta-terang-anugrah-abadi-tambah-5-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "HRTA: Terang Anugrah Abadi [Tambah] 5 Juta Saham",
-  "deck": "Pemegang saham utama HRTA, PT Terang Anugrah Abadi, membeli 5 juta saham lewat dua transaksi pada 16 dan 19 Oktober 2026, menaikkan hak suaranya dari 71,05% menjadi 71,16%.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRTA",
-   "kepemilikan saham",
-   "pemegang saham",
-   "Hartadinata Abadi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-3612-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cpri-akhirnya-gelar-rups-tahun-buku-2022-tertunda-4-tahun",
-  "category": "Aksi Korporasi",
-  "title": "CPRI Akhirnya Gelar RUPS Tahun Buku 2022, [Tertunda] 4 Tahun",
-  "deck": "CPRI mengumumkan RUPS Tahunan untuk tahun buku 2022 akan digelar 26 November 2026, hampir empat tahun setelah periode laporan itu berakhir.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CPRI",
-   "RUPS Tahunan",
-   "Capri Nusa Satu Properti",
-   "Properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ac2081381_adaea1c8be.pdf",
   "sourceLabel": "IDX"
  }
 ];

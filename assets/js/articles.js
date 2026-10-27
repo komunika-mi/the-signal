@@ -3,6 +3,319 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bina-jadwalkan-pelaksanaan-pmthmetd-3-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BINA Jadwalkan Pelaksanaan [PMTHMETD] 3 November 2026",
+  "deck": "Bank Ina Perdana akan menerbitkan hingga 80 juta saham baru tanpa hak memesan efek terlebih dahulu pada 3 November 2026, mengacu keputusan RUPS Independen Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T14:56:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2924462aed_9d41ecd6fa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BINA",
+  "tags": [
+   "BINA",
+   "PMTHMETD",
+   "Bank Ina Perdana",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Bank Ina Perdana Tbk (BINA) mengumumkan rencana pelaksanaan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) yang dijadwalkan berlangsung pada Selasa, 3 November 2026. Dalam rencana ini, Perseroan akan menerbitkan saham baru sebanyak-banyaknya 80.000.000 lembar dengan nilai nominal Rp100 per saham. Pengumuman ini disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia melalui surat bernomor OJK/DIR/210/1026, ditandatangani oleh Nancy Patricia Lim selaku Kepala Divisi Legal & Corsec.",
+   "Rencana PMTHMETD ini merujuk pada hasil Rapat Umum Pemegang Saham Independen Perseroan yang digelar 5 Juni 2026, sebagaimana tercatat dalam Akta Berita Acara Nomor 8 di hadapan notaris Gatot Widodo. Perseroan juga telah mengajukan Permohonan Pencatatan Saham Tambahan ke Bursa lewat surat Nomor BPI/DIR/693/1026 tanggal 26 Oktober 2026, yang ditandatangani Yulius Purnama Junaedi selaku Wakil Direktur Utama.",
+   "Jadwal pelaksanaan yang diumumkan Perseroan mencakup empat tahap: pemberitahuan ke OJK dan pengumuman rencana pada 27 Oktober 2026, pembayaran biaya pencatatan saham ke BEI pada 2 November 2026, tanggal pelaksanaan PMTHMETD pada 3 November 2026, dan pengumuman hasil pelaksanaan pada 5 November 2026. Dokumen ini belum mencantumkan harga pelaksanaan saham baru maupun pihak yang akan menyerapnya."
+  ],
+  "fotoAdegan": "Exterior of a modern bank office tower in Jakarta's financial district, pedestrians walking past a glass facade at dusk",
+  "takeaway": "Laporan ini netral dengan catatan perlu diwaspadai, karena dokumen belum menyebutkan harga pelaksanaan maupun pihak yang akan menerima saham baru, sementara keputusan ini melalui RUPS Independen yang biasanya dipakai untuk transaksi yang melibatkan pemegang saham pengendali atau pihak terafiliasi. Pos yang tersentuh adalah jumlah saham beredar dan ekuitas: penerbitan hingga 80 juta saham baru menambah modal disetor bank, tetapi karena dilakukan tanpa hak memesan efek terlebih dahulu, pemegang saham lama yang tidak ikut ambil bagian akan melihat persentase kepemilikannya terdilusi dan laba per saham berpotensi mengecil karena dibagi ke jumlah saham yang lebih banyak. Di sisi lain, tambahan modal semacam ini bisa memperkuat rasio kecukupan modal bank untuk mendukung penyaluran kredit, meski besar manfaatnya baru bisa dinilai setelah harga dan penerima saham terungkap. Yang perlu dipantau adalah pengumuman hasil pelaksanaan PMTHMETD pada 5 November 2026, yang semestinya membuka harga saham baru dan siapa pihak yang menyerapnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fuji-total-kewajiban-turun-47-laba-kuartal-iii-susut",
+  "category": "Aksi Korporasi",
+  "title": "FUJI: Total Kewajiban [Turun] 47%, Laba Kuartal III Susut",
+  "deck": "Total kewajiban FUJI turun hampir separuh dalam sembilan bulan 2026, tapi pendapatan dari pembiayaan konsumen anjlok dan laba bersih ikut tergerus 23 persen dibanding tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T14:48:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027145201-64591-0/FinancialStatement-2026-III-FUJI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FUJI",
+  "tags": [
+   "FUJI",
+   "laporan keuangan",
+   "pembiayaan konsumen",
+   "kewajiban"
+  ],
+  "body": [
+   "PT Fuji Finance Indonesia Tbk (FUJI) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset perusahaan tercatat Rp190,07 miliar, naik tipis dari Rp188,90 miliar pada akhir 2025. Total ekuitas naik dari Rp180,99 miliar menjadi Rp185,87 miliar, sementara total kewajiban justru turun tajam dari Rp7,90 miliar menjadi Rp4,19 miliar, atau susut sekitar 47 persen.",
+   "Karena penurunan kewajiban itu melebihi 20 persen, Direktur Utama FUJI, Anita Marta, mengirim surat penjelasan kepada Bursa Efek Indonesia tertanggal 27 Oktober 2026. Perusahaan menjelaskan tiga sebab: sebagian pendapatan bunga piutang yang sebelumnya diterima di muka dan dicatat sebagai pendapatan ditangguhkan kini sudah direalisasikan secara akrual, sehingga pos pendapatan ditangguhkan di laporan posisi keuangan anjlok dari Rp2,65 miliar menjadi Rp12,75 juta. Selain itu perusahaan membayar kewajiban pajak tahunan sepanjang tahun berjalan, membuat utang pajak turun dari Rp888,90 juta menjadi Rp215,58 juta, serta ada penyesuaian liabilitas sewa sesuai PSAK 73 yang membuat liabilitas sewa pembiayaan turun dari Rp2,45 miliar menjadi Rp2,05 miliar. Manajemen menyatakan penurunan ini wajar sesuai standar akuntansi yang berlaku.",
+   "Di sisi laba rugi, laba bersih sembilan bulan 2026 tercatat Rp4,88 miliar, turun dari Rp6,36 miliar pada periode yang sama tahun lalu. Penyebab utamanya adalah pendapatan dari pembiayaan konsumen, yang menjadi sumber pendapatan utama perusahaan, anjlok dari Rp8,91 miliar menjadi hanya Rp593,81 juta. Penurunan ini sebagian tertutup oleh munculnya pos pendapatan lainnya senilai Rp6,88 miliar yang sebelumnya nol, serta piutang pembiayaan konsumen kepada pihak berelasi yang baru muncul senilai Rp35,23 miliar. Jumlah karyawan tetap perusahaan bertambah dari 13 menjadi 14 orang."
+  ],
+  "fotoAdegan": "Rows of parked motorcycles outside a small multifinance branch office on a quiet Jakarta side street, late afternoon light",
+  "takeaway": "Laporan ini condong netral karena dua sinyal berlawanan muncul bersamaan, kewajiban yang menyusut hampir separuh biasanya pertanda baik, tapi itu diimbangi oleh pendapatan inti yang hampir hilang dan laba yang turun, sehingga tidak bisa disebut murni positif maupun murni negatif. Pos yang tersentuh ada pada kewajiban, yaitu utang dan tanggungan perusahaan kepada pihak luar, pada ekuitas, yaitu modal pemegang saham yang jadi penyangga kalau perusahaan merugi, dan pada laba bersih yang tergerus karena pendapatan dari bisnis pembiayaan konsumen, sumber uang utama perusahaan ini, nyaris hilang dan baru tertutup oleh pos pendapatan lain yang munculnya tiba-tiba tanpa rincian jenisnya. Pelaku pasar biasanya menyoroti pos pendapatan inti seperti ini karena ia menunjukkan apakah bisnis utama perusahaan masih berjalan atau sedang digantikan sementara oleh pendapatan yang sifatnya tidak rutin. Yang perlu dipantau berikutnya adalah apakah pendapatan lain senilai Rp6,88 miliar itu akan berulang di laporan kuartal berikutnya atau memang cuma sekali, dan bagaimana laporan keuangan audited untuk tahun penuh 2026 nanti mengonfirmasi arah pendapatan pembiayaan konsumen ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bukk-tanggapi-bursa-pemegang-saham-fokus-penuhi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "BUKK Tanggapi Bursa, Pemegang Saham Fokus Penuhi [Free Float]",
+  "deck": "BUKK menjawab permintaan penjelasan BEI atas volatilitas sahamnya, menegaskan tak ada aksi korporasi dekat ini dan pemegang saham utama fokus memenuhi syarat free float.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T14:34:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2c16ea3994_2e00e08120.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUKK",
+  "tags": [
+   "BUKK",
+   "volatilitas saham",
+   "free float",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bukaka Teknik Utama Tbk (BUKK) menyampaikan surat tanggapan bernomor 054/BTU/DIR-CORSEC/X/26 tertanggal 27 Oktober 2026 kepada Bursa Efek Indonesia, menjawab permintaan penjelasan BEI melalui surat nomor S-13375/BEI.PP3/10-2026 terkait volatilitas transaksi saham perseroan. Surat ditandatangani oleh A. Afiffudin Suhaeli selaku Direktur dan Corporate Secretary perseroan.",
+   "Dalam tanggapannya, BUKK menyatakan informasi material yang relevan dengan pergerakan sahamnya adalah keterbukaan informasi yang sudah diumumkan pada 19 Oktober 2026, yaitu pendirian perseroan terbatas baru oleh anak usaha yang dikendalikan BUKK. Perseroan menegaskan belum memiliki rencana aksi korporasi apa pun dalam tiga bulan mendatang yang dapat memengaruhi status pencatatan sahamnya di bursa. BUKK juga menyatakan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu terkait pelaporan kepemilikan atau penjaminan saham sesuai POJK Nomor 4 Tahun 2024, namun perseroan dan Corporate Secretary telah mengimbau pemegang saham dengan kepemilikan di atas 5 persen serta jajaran pengurus yang memiliki saham untuk tertib melaporkan setiap transaksi saham mereka.",
+   "Poin yang mencuat dari surat ini adalah jawaban soal rencana pemegang saham utama. Setelah Corporate Secretary mengonfirmasi langsung ke pemegang saham utama dan pemegang saham mayoritas, BUKK menyampaikan bahwa mereka saat ini berfokus pada rencana pemenuhan ketentuan free float, yakni batas minimum porsi saham yang harus beredar di tangan publik, sambil tetap mempertimbangkan kondisi pasar modal dan daya beli masyarakat yang disebut belum sepenuhnya stabil. Perseroan tidak menyebutkan skema, jumlah saham, atau tenggat waktu konkret untuk rencana tersebut."
+  ],
+  "fotoAdegan": "Wide shot of a glass office tower in Jakarta's financial district at dusk, pedestrians crossing below, skyline reflections on the facade",
+  "takeaway": "Surat ini condong netral bagi BUKK karena tidak ada informasi material baru yang terungkap, hanya konfirmasi ulang keterbukaan informasi yang sudah diumumkan sebelumnya dan penegasan tidak ada aksi korporasi dalam waktu dekat. Yang patut dicermati adalah singgungan soal free float, yaitu syarat minimum porsi saham BUKK yang mesti dipegang publik di luar pemegang saham utama; kalau rencana pemenuhannya berupa pelepasan saham oleh pemegang saham mayoritas, itu bisa menambah jumlah saham yang diperdagangkan bebas dan mengubah struktur kepemilikan, tapi BUKK belum merinci caranya. Perseroan juga mengingatkan pemegang saham besar dan direksinya soal POJK Nomor 4/2024, aturan yang mewajibkan mereka melaporkan setiap perubahan kepemilikan saham supaya pasar tahu siapa yang sedang menambah atau mengurangi posisi. Yang perlu dipantau selanjutnya adalah apakah BUKK akan mengumumkan skema konkret pemenuhan free float, termasuk kemungkinan pelepasan saham oleh pemegang saham utama, serta perkembangan lanjutan dari keterbukaan informasi soal pendirian anak usaha pada 19 Oktober 2026 yang disebut sebagai pemicu volatilitas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ratu-aset-naik-212-usai-akuisisi-blok-madura-laba-dobel",
+  "category": "Aksi Korporasi",
+  "title": "RATU: Aset Naik [212%] Usai Akuisisi Blok Madura, Laba Dobel",
+  "deck": "Akuisisi 20 persen saham di Blok Madura mendorong aset RATU melonjak 212 persen dan laba sembilan bulan naik hampir dua kali lipat, dibiayai obligasi, sukuk, dan pinjaman bank baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T14:33:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027144752-64789-0/FinancialStatement-2026-III-RATU.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "akuisisi",
+   "migas",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset perusahaan melonjak 212,3 persen menjadi US$237,38 juta, dari US$76,02 juta pada akhir 2025. Dalam surat penjelasan ke Bursa Efek Indonesia yang ditandatangani Corporate Secretary Supriyanti Priandini, perseroan menyebut kenaikan ini terutama berasal dari akuisisi SMS Development Ltd melalui anak usaha PT Raharja Energi Madura, dengan pengendalian efektif sejak 1 Januari 2026. Transaksi ini membuat RATU memegang kepemilikan 20 persen di Husky-CNOOC Madura Limited, yang tercatat sebagai investasi pada entitas asosiasi senilai US$130,12 juta, naik dari US$7,54 juta, dan menyumbang sekitar 76 persen dari total kenaikan aset.",
+   "Di sisi liabilitas, jumlah utang perseroan naik 702,7 persen menjadi US$155,79 juta dari US$19,42 juta. Kenaikan ini didorong oleh penerbitan obligasi senilai US$16,49 juta dan sukuk wakalah US$27,50 juta pada kuartal pertama 2026, serta tambahan pinjaman bank melalui PT Raharja Energi Madura yang membuat saldo pinjaman bank jangka panjang membengkak menjadi US$84,12 juta dari US$7,69 juta, termasuk fasilitas Kredit Agunan Surat Berharga dari PT Bank Mandiri (Persero) Tbk. Perseroan merinci pinjaman bank menyumbang sekitar 68 persen dan obligasi beserta sukuk sekitar 32 persen dari total kenaikan liabilitas tersebut. Kas dan setara kas ikut naik menjadi US$53,39 juta dari US$24,83 juta, sebagian berasal dari dana hasil penerbitan surat utang dan pencairan pinjaman bank itu.",
+   "Dari sisi laba rugi, pendapatan bersih sembilan bulan naik tipis menjadi US$40,31 juta dari US$37,61 juta pada periode yang sama tahun lalu, sementara laba periode berjalan melonjak menjadi US$32,11 juta dari US$11,85 juta. Laba yang dapat diatribusikan kepada pemilik entitas induk naik menjadi US$25,09 juta dari US$11,77 juta, dengan laba per saham dasar naik menjadi US$0,0092 dari US$0,0043. Pendorong utama kenaikan laba ini adalah bagian laba dari entitas asosiasi yang melonjak menjadi US$19,24 juta dari US$4,32 juta, seiring masuknya kepemilikan di Husky-CNOOC Madura Limited. Di sisi lain, beban bunga ikut naik menjadi US$4,95 juta dari US$1,10 juta, dan rasio utang terhadap ekuitas melonjak menjadi 190,96 persen dari 34,30 persen seiring tambahan obligasi, sukuk, dan pinjaman bank tersebut. Laporan ini ditandatangani Direktur Utama Sumantri dan Direktur Adrian Hartadi pada 27 Oktober 2026."
+  ],
+  "fotoAdegan": "Offshore oil and gas platform standing in calm tropical waters at sunrise, supply vessel anchored nearby, hazy horizon.",
+  "takeaway": "Laporan ini condong positif bagi RATU karena akuisisi kepemilikan di Husky-CNOOC Madura Limited langsung menyumbang laba besar, membuat laba bersih dan laba per saham naik hampir dua kali lipat hanya dalam sembilan bulan. Yang tersentuh adalah ekuitas dan beban bunga: ekuitas naik karena laba ditahan bertambah, tapi rasio utang terhadap modal sendiri melonjak dari 34,30 persen menjadi 190,96 persen karena perseroan membiayai akuisisi ini dengan obligasi, sukuk, dan pinjaman bank baru, sehingga beban bunga yang harus dibayar tiap periode ikut naik hampir lima kali lipat. Kenaikan utang sebesar ini wajar diwaspadai karena kalau pendapatan dari aset baru melambat, beban bunga tetap harus dibayar dan bisa menggerus laba ke depan. Yang perlu dipantau adalah laporan keuangan auditan untuk tahun buku 2026 penuh, yang akan memastikan apakah kontribusi laba dari Husky-CNOOC Madura Limited ini stabil dan apakah arus kas operasional cukup menutupi kewajiban bunga dari obligasi dan sukuk yang baru terbit tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pnmp-tegaskan-direksi-baru-usai-lolos-uji-kepatutan-ojk",
+  "category": "Aksi Korporasi",
+  "title": "PNMP Tegaskan Direksi Baru Usai Lolos [Uji Kepatutan] OJK",
+  "deck": "PT Permodalan Nasional Madani (PNMP) menyampaikan akta penegasan RUPS yang mengukuhkan direktur utama dan komisaris baru usai lolos uji kepatutan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T14:33:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98ffe836a5_0b8bad15a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNMP",
+  "tags": [
+   "PNMP",
+   "Permodalan Nasional Madani",
+   "RUPS",
+   "OJK"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNMP) menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia pada 27 Oktober 2026 perihal Akta Penegasan Pernyataan Keputusan Rapat Umum Pemegang Saham Tahunan. Akta bernomor 05 tertanggal 5 Agustus 2026 yang dibuat di hadapan notaris Hadijah di Jakarta ini menegaskan kembali keputusan mata acara keenam RUPS Tahunan 8 Mei 2026, yakni perubahan susunan direksi dan komisaris perusahaan pembiayaan milik negara tersebut.",
+   "Penegasan ini menyusul terbitnya keputusan Otoritas Jasa Keuangan atas hasil uji kemampuan dan kepatutan terhadap lima calon pengurus baru. Kindaris dikukuhkan sebagai Direktur Utama berdasarkan keputusan OJK nomor KEP-49/D.06/2026 tertanggal 3 Agustus 2026, Sunar Basuki sebagai Wakil Direktur Utama lewat KEP-48/D.06/2026 pada tanggal yang sama, dan Lalu Dodot Patria Ary Suprianto sebagai Direktur Operasional dan Hubungan Kelembagaan lewat KEP-46/D.06/2026 tertanggal 29 Juli 2026. Di jajaran komisaris, Temmy Satya Permana ditetapkan sebagai Komisaris melalui KEP-58/D.06/2026 tertanggal 24 September 2026, sementara Drs. Marsudi, MBA, Ph.D, diangkat sebagai Komisaris Independen.",
+   "Dengan selesainya seluruh proses persetujuan OJK dan terbitnya akta penegasan ini, perusahaan menyatakan jajaran direksi dan komisaris yang baru resmi berwenang menjalankan tugas dan kewajibannya sejak tanggal kejadian 23 Oktober 2026. Perubahan data perseroan atas susunan pengurus ini juga telah diterima dan dicatat dalam Sistem Administrasi Badan Hukum Kementerian Hukum sejak 19 Agustus 2026."
+  ],
+  "fotoAdegan": "Employees walking through the glass lobby of a modern financial office tower in Jakarta, soft morning light, business attire",
+  "takeaway": "Laporan ini netral bagi PNM karena sekadar memformalkan pergantian direksi dan komisaris yang sudah disetujui pemegang saham sejak RUPS Mei 2026, tanpa ada transaksi keuangan atau perubahan modal yang menyertainya. Yang berubah hanya sisi tata kelola, bukan laporan keuangan, tetapi kejelasan siapa yang berwenang menandatangani kontrak dan keputusan pendanaan tetap penting bagi pemegang obligasi PNM, apalagi perusahaan ini baru saja melunasi sukuk Rp800 miliar dan keluar dari pencatatan BEI pada tanggal yang sama. Dengan seluruh izin OJK sudah terbit, yang terakhir pada 24 September 2026 untuk komisaris Temmy Satya Permana, dan akta sudah tercatat di Kementerian Hukum sejak 19 Agustus 2026, praktis tidak ada lagi tahapan formal yang tersisa dari proses pergantian pengurus ini. Yang perlu dicermati selanjutnya adalah bagaimana jajaran direksi baru di bawah Kindaris mengelola arah bisnis PNM setelah instrumen utangnya di BEI berakhir, termasuk kemungkinan penerbitan surat utang baru ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kaii-tawarkan-obligasi-dan-sukuk-ijarah-rp1-1-triliun",
+  "category": "Aksi Korporasi",
+  "title": "KAII Tawarkan [Obligasi] dan Sukuk Ijarah Rp1,1 Triliun",
+  "deck": "KAI menerbitkan obligasi dan sukuk ijarah tahap I senilai total Rp1,1 triliun untuk pemodal profesional, bagian dari program Rp4,1 triliun, dengan rating AAA dari Pefindo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T14:23:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6fe517c3db_5a20405aec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KAII",
+  "tags": [
+   "KAII",
+   "obligasi",
+   "sukuk ijarah",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Kereta Api Indonesia (Persero) menyampaikan keterbukaan informasi terkait Penawaran Umum Berkelanjutan kepada Pemodal Profesional atas Obligasi Berkelanjutan III KAI Tahap I Tahun 2026 dan Sukuk Ijarah Berkelanjutan III KAI Tahap I Tahun 2026. Program obligasi berkelanjutan ini menargetkan total dana terkumpul Rp4,1 triliun, sementara program sukuk ijarah menargetkan sisa imbalan ijarah Rp1,4 triliun. Pada tahap I, KAI akan menerbitkan obligasi sebanyak-banyaknya Rp800 miliar dan sukuk ijarah sebanyak-banyaknya Rp300 miliar, sehingga total dana yang dihimpun tahap ini mencapai Rp1,1 triliun.",
+   "Obligasi dan sukuk ijarah ini masing-masing terbagi menjadi empat seri dengan tenor berbeda. Seri A berjangka waktu 370 hari kalender dengan bunga tetap 6,60-7,35 persen per tahun, seri B dua tahun dengan bunga 6,80-7,50 persen, seri C tiga tahun dengan bunga 6,90-7,65 persen, dan seri D lima tahun dengan bunga 7,25-7,90 persen per tahun. Bunga dan cicilan imbalan ijarah dibayar setiap tiga bulan, dengan pembayaran pertama pada 23 Maret 2027. Jatuh tempo masing-masing seri adalah 3 Januari 2028 untuk seri A, 23 Desember 2028 untuk seri B, 23 Desember 2029 untuk seri C, dan 23 Desember 2031 untuk seri D. Surat utang ini tidak dijamin dengan aset khusus, melainkan dengan seluruh harta kekayaan perseroan, dan kedudukan pemegangnya setara atau paripassu dengan kreditur KAI lain tanpa hak didahulukan.",
+   "Pefindo memberi peringkat idAAA untuk obligasi dan idAAA(sy) untuk sukuk ijarah, peringkat tertinggi yang menandakan risiko gagal bayar sangat rendah. Penawaran ini dijamin secara kesanggupan penuh oleh lima penjamin pelaksana emisi, yaitu Bahana Sekuritas, BCA Sekuritas, BNI Sekuritas, BRI Danareksa Sekuritas, dan Mandiri Sekuritas, dengan Bank Mega sebagai wali amanat obligasi dan Bank Syariah Indonesia sebagai wali amanat sukuk ijarah. Masa penawaran awal berlangsung 28 Oktober hingga 25 November 2026, menuju target efektif dari OJK pada 15 Desember 2026, penawaran umum pada 17-18 Desember 2026, penjatahan 21 Desember 2026, dan pencatatan di Bursa Efek Indonesia pada 28 Desember 2026. Dokumen ini menyebut risiko operasional terkait keamanan sebagai risiko utama perseroan, dan menegaskan efek ini hanya ditawarkan kepada pemodal profesional, bukan investor ritel."
+  ],
+  "fotoAdegan": "Indonesian commuter train pulling away from a platform at a busy station, passengers waiting under morning light",
+  "takeaway": "Penerbitan utang tahap I senilai Rp1,1 triliun ini kami nilai netral bagi fundamental KAI, karena menambah beban utang dan bunga, tetapi peringkat idAAA dari Pefindo menunjukkan pasar tetap percaya pada kemampuan bayarnya dan dana semacam ini biasanya dipakai membiayai operasional atau infrastruktur perkeretaapian, bukan menambal kesulitan keuangan. Yang perlu diperhatikan adalah beban bunga yang muncul di laporan keuangan KAI mulai pembayaran kupon pertama pada 23 Maret 2027, karena kewajiban membayar setiap tiga bulan ini akan menggerus arus kas perusahaan terlepas dari kondisi bisnisnya. Obligasi dan sukuk ini juga tidak punya jaminan aset khusus, melainkan dijamin oleh seluruh kekayaan perseroan, sehingga posisi pemegangnya sejajar dengan kreditur KAI lain, bukan diistimewakan. Yang perlu dipantau berikutnya adalah apakah Otoritas Jasa Keuangan memberi status efektif pada target 15 Desember 2026 setelah masa penawaran awal berakhir 25 November 2026, karena baru setelah itu dana benar-benar bisa dicairkan dan efeknya dicatatkan di bursa pada 28 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rlco-jadwalkan-rupslb-3-desember-dps-10-november",
+  "category": "Aksi Korporasi",
+  "title": "RLCO Jadwalkan [RUPSLB] 3 Desember, DPS 10 November",
+  "deck": "RLCO akan menggelar Rapat Umum Pemegang Saham Luar Biasa pada 3 Desember 2026, dengan pencatatan pemegang saham pada 10 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T14:09:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71c9b893b2_14b711959e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "RUPSLB",
+   "pasar modal",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Abadi Lestari Indonesia Tbk (RLCO) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 3 Desember 2026, pukul 10.00 WIB, bertempat di Palmerah, Jakarta Barat. Pemegang saham yang berhak hadir atau mewakilkan suaranya adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham (DPS) Perseroan pada 10 November 2026 sampai pukul 16.00 WIB.",
+   "Sesuai Peraturan OJK Nomor 15/POJK.04/2020, surat pemanggilan resmi yang memuat agenda rapat akan diumumkan pada Rabu, 11 November 2026 melalui situs Bursa Efek Indonesia, aplikasi eASY.KSEI, dan situs web Perseroan. Dalam pengumuman awal ini, Direksi RLCO yang berbasis di Bojonegoro belum merinci mata acara yang akan dibahas dalam rapat tersebut.",
+   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara tambahan, dengan syarat usulan tersebut sudah diterima Direksi paling lambat 7 hari kalender sebelum tanggal pemanggilan rapat, yaitu sekitar 4 November 2026. Pemberitahuan ini ditandatangani oleh Corporate Secretary RLCO, Ayu Amanda, pada 27 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a corporate meeting hall, soft morning light through tall windows",
+  "takeaway": "Catatan ini netral karena isi pemberitahuan baru sebatas jadwal dan mekanisme RUPSLB, tanpa agenda yang bisa dinilai dampaknya terhadap kinerja RLCO. Belum ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh langsung, sebab mata acara rapat memang belum diungkap dalam dokumen ini. Yang perlu dipantau adalah surat pemanggilan resmi pada 11 November 2026, yang baru akan memuat agenda sebenarnya, entah terkait aksi korporasi, perubahan susunan direksi, atau hal lain. Tenggat bagi pemegang saham yang ingin mengusulkan mata acara tambahan adalah sekitar 4 November 2026, yaitu tujuh hari kalender sebelum pemanggilan. Pemegang saham RLCO juga perlu mencatat 10 November 2026 sebagai batas pencatatan DPS agar bisa hadir atau diwakilkan dalam rapat 3 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rlco-bantah-info-material-soal-lonjakan-saham-gelar-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "RLCO Bantah Info Material soal Lonjakan Saham, Gelar [RUPSLB]",
+  "deck": "RLCO menjawab permintaan penjelasan Bursa atas lonjakan harga dan transaksi sahamnya pada 22 Oktober 2026, sambil mengonfirmasi RUPSLB 3 Desember untuk ganti direksi dan sesuaikan KBLI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T14:08:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e6994069d_90aa00b484.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "RUPSLB",
+   "volatilitas saham",
+   "IDX"
+  ],
+  "body": [
+   "Bursa Efek Indonesia meminta PT Abadi Lestari Indonesia Tbk (RLCO) menjelaskan lonjakan volume dan harga transaksi sahamnya pada 22 Oktober 2026, melalui surat permintaan penjelasan bernomor S-13378/BEI.PP2/10-2026 tertanggal 23 Oktober 2026. RLCO merespons lewat surat resmi bernomor 011/CORSEC/ALI/X/2026 tertanggal 26 Oktober 2026, yang ditandatangani oleh Ayu Amanda selaku Direktur dan Sekretaris Perusahaan, dan diunggah ke sistem keterbukaan informasi IDX pada 27 Oktober 2026 pukul 14.08 WIB.",
+   "Dalam tanggapannya, manajemen RLCO menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diumumkan ke publik dan bisa memengaruhi nilai maupun harga sahamnya, baik berdasarkan Peraturan OJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu yang belum dilaporkan sesuai Peraturan OJK Nomor 4 Tahun 2024 tentang kewajiban lapor kepemilikan saham.",
+   "Soal rencana ke depan, RLCO mengonfirmasi akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 3 Desember 2026, dengan dua agenda: mengubah susunan Direksi, dan mengubah Anggaran Dasar perusahaan untuk menyesuaikan klasifikasi bidang usaha mengikuti Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 sesuai Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025. Pengumuman resmi RUPSLB itu akan dipublikasikan pada 27 Oktober 2026 melalui IDXnet dan situs web perusahaan. RLCO menegaskan rencana tersebut tidak berdampak material terhadap status pencatatan sahamnya di bursa, dan tidak ada aksi korporasi lain yang direncanakan dalam tiga bulan mendatang."
+  ],
+  "fotoAdegan": "Blurred motion of traders moving quickly across a crowded stock exchange floor, distant screens out of focus, busy morning hours.",
+  "takeaway": "Laporan ini netral bagi RLCO, karena perusahaan secara tegas membantah memiliki informasi material yang menjelaskan lonjakan transaksi dan harga sahamnya pada 22 Oktober 2026, sehingga pelaku pasar tidak mendapat pembenaran fundamental atas kenaikan itu. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang disinggung dalam dokumen ini, karena yang diungkap hanya agenda RUPSLB untuk mengganti susunan direksi dan menyesuaikan klasifikasi usaha ke KBLI 2025, dua hal administratif yang belum berdampak pada neraca atau laba perusahaan. Investor tetap perlu mencermati siapa direksi yang akan diganti dalam RUPSLB itu, karena pergantian pucuk pimpinan biasanya memengaruhi arah strategi perusahaan ke depan meski detailnya belum diumumkan. Yang perlu dipantau berikutnya adalah pengumuman resmi agenda RUPSLB yang dijadwalkan terbit 27 Oktober 2026 di IDXnet, serta pelaksanaan RUPSLB itu sendiri pada 3 Desember 2026, karena hasil pemungutan suara soal susunan direksi baru akan menentukan kelanjutan arah perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ipcm-laba-bersih-turun-33-jadi-rp94-1-miliar-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "IPCM: Laba Bersih [Turun] 33% Jadi Rp94,1 Miliar Kuartal III",
+  "deck": "Laba bersih Jasa Armada Indonesia turun 33 persen menjadi Rp94,1 miliar dalam sembilan bulan 2026, tertekan kenaikan beban pokok pendapatan yang lebih cepat dari penjualan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T13:44:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027135055-64986-0/FinancialStatement-2026-III-IPCM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPCM",
+  "tags": [
+   "IPCM",
+   "laba bersih",
+   "laporan keuangan",
+   "Pelindo"
+  ],
+  "body": [
+   "PT Jasa Armada Indonesia Tbk (IPCM), anak usaha PT Pelindo Jasa Maritim yang induk terakhirnya adalah Pemerintah Republik Indonesia, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia, sesuai POJK Nomor 14/POJK.04/2022. Laporan ditandatangani oleh Direktur Utama Dwi Rahmad Toto dan Direktur Keuangan, SDM, dan Manajemen Risiko Dessy Emastari Prihatiningtyas pada 23 Oktober 2026.",
+   "Pendapatan perusahaan naik 5,3 persen menjadi Rp1,15 triliun dari Rp1,09 triliun pada periode yang sama tahun lalu. Namun beban pokok pendapatan naik lebih cepat, 14,2 persen, menjadi Rp941,2 miliar, sehingga laba kotor justru turun 21,8 persen menjadi Rp210,4 miliar. Laba usaha tergerus 36,9 persen menjadi Rp107,1 miliar, dan laba bersih turun 33,1 persen menjadi Rp94,1 miliar dari Rp140,7 miliar. Laba per saham dasar ikut turun dari Rp26,66 menjadi Rp17,81.",
+   "Dari sisi posisi keuangan, total aset naik 2 persen menjadi Rp1,75 triliun per akhir September 2026, tetapi kas dan setara kas turun menjadi Rp515,7 miliar dari Rp554,1 miliar di akhir 2025. Ekuitas turun tipis menjadi Rp1,35 triliun setelah perusahaan membagikan dividen tunai Rp102,26 miliar selama periode tersebut. Arus kas dari kegiatan operasi turun menjadi Rp165,8 miliar dari Rp203 miliar tahun sebelumnya, sementara belanja aset tetap naik menjadi Rp79,2 miliar dari Rp55,8 miliar.",
+   "Dalam surat terpisah ke BEI tertanggal 27 Oktober 2026, Dessy Emastari menjelaskan tiga pos yang berubah lebih dari 20 persen: pajak dibayar di muka naik 211 persen karena kompensasi pajak pertambahan nilai tahun 2024, 2025, dan periode berjalan; utang usaha naik 123 persen akibat pembagian biaya kerja sama operasional seiring pencapaian pendapatan; serta utang pajak naik 253 persen sejalan dengan laba kena pajak dari aktivitas operasional perusahaan. Catatan laporan juga mencantumkan perubahan anggaran dasar lewat keputusan rapat umum pemegang saham luar biasa 23 September 2026, yang antara lain menetapkan R. R. Dewi Ariyani sebagai Komisaris Utama dan Fransiscus Budi Prayitno sebagai Komisaris."
+  ],
+  "fotoAdegan": "A pilot boat guiding a large cargo ship into a busy Indonesian seaport, tugboats nearby, hazy morning light over the harbor",
+  "takeaway": "Laporan ini cenderung negatif bagi fundamental IPCM, karena laba bersih turun 33 persen dari Rp140,7 miliar menjadi Rp94,1 miliar dalam sembilan bulan, padahal pendapatan masih naik 5,3 persen, pertanda biaya operasional tumbuh lebih cepat dari penjualan. Yang ikut tersentuh adalah modal sendiri perusahaan atau ekuitas, yang turun tipis menjadi Rp1,35 triliun karena dividen tunai Rp102,26 miliar yang dibagikan ke pemegang saham lebih besar dari tambahan laba periode ini, serta arus kas dari kegiatan usaha yang mengecil dari Rp203 miliar menjadi Rp165,8 miliar, sementara laba per saham ikut turun dari Rp26,66 menjadi Rp17,81 karena memang itu hasil bagi laba bersih ke jumlah saham yang sama. Yang perlu dicermati berikutnya adalah laporan keuangan tahunan 2026 yang sudah diaudit, karena di situ akan terlihat apakah kenaikan beban pokok pendapatan akibat pembagian biaya kerja sama operasional, seperti disebutkan dalam surat penjelasan Perseroan ke BEI tanggal 27 Oktober 2026, hanya sementara atau berlanjut sampai akhir tahun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ltls-laba-9-bulan-melonjak-jadi-rp276-miliar",
+  "category": "Aksi Korporasi",
+  "title": "LTLS: Laba 9 Bulan [Melonjak] Jadi Rp276 Miliar",
+  "deck": "Lautan Luas mencatat laba periode berjalan Rp276,1 miliar pada sembilan bulan pertama 2026, naik dari Rp141,3 miliar, ditopang pendapatan yang tumbuh 27,6 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T13:44:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027135956-64494-0/FinancialStatement-2026-III-LTLS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LTLS",
+  "tags": [
+   "LTLS",
+   "laporan keuangan",
+   "industri kimia",
+   "emiten"
+  ],
+  "body": [
+   "PT Lautan Luas Tbk (LTLS) menyampaikan laporan keuangan interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan pada Selasa, 27 Oktober 2026. Perusahaan kimia dasar yang menaungi belasan anak usaha produsen bahan kimia dan jasa logistik ini mencatat pendapatan Rp8,2 triliun, naik 27,6 persen dibandingkan Rp6,42 triliun pada periode yang sama tahun lalu. Laba kotor ikut terkerek dari Rp1,01 triliun menjadi Rp1,52 triliun, sementara laba usaha melonjak dari Rp307,7 miliar menjadi Rp558,8 miliar.",
+   "Kenaikan itu berlanjut sampai baris akhir. Laba periode berjalan tercatat Rp276,1 miliar, hampir dua kali lipat dari Rp141,3 miliar pada sembilan bulan pertama 2025. Dari jumlah itu, Rp195,6 miliar menjadi bagian pemilik entitas induk, naik dari Rp119,9 miliar, sehingga laba per saham naik dari Rp80 menjadi Rp130 per lembar. Total aset perusahaan per akhir September 2026 mencapai Rp7,79 triliun, naik dari Rp6,68 triliun pada akhir 2025, sementara ekuitas naik dari Rp3,31 triliun menjadi Rp3,78 triliun.",
+   "Di sisi utang, utang bank jangka pendek naik dari Rp748,1 miliar menjadi Rp860,4 miliar. Yang mencolok, utang obligasi yang jatuh tempo dalam satu tahun melonjak dari Rp135 miliar menjadi Rp419,2 miliar, karena obligasi senilai Rp282,8 miliar yang sebelumnya tercatat sebagai utang jangka panjang kini sudah masuk kategori jangka pendek. Dari sisi arus kas, aktivitas operasi menghasilkan kas bersih Rp175,6 miliar, berbalik dari defisit Rp142,4 miliar pada periode yang sama tahun lalu. Perusahaan membagikan dividen kas Rp45,4 miliar kepada pemegang saham sepanjang sembilan bulan ini, lebih kecil dari Rp65,9 miliar pada periode sebelumnya."
+  ],
+  "fotoAdegan": "Workers in protective gear inspecting stainless steel chemical processing tanks and pipelines at a factory, daylight",
+  "takeaway": "Laporan ini condong positif bagi Lautan Luas, karena kenaikan laba tidak hanya terjadi di atas kertas, pendapatan dan laba usaha ikut tumbuh dua digit dan arus kas dari operasi berbalik dari minus jadi positif. Yang tersentuh ada tiga pos: ekuitas, yakni nilai buku perusahaan yang jadi hak pemegang saham, naik jadi Rp3,78 triliun; arus kas operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan jual beli sehari-hari dan bukan sekadar angka laba akuntansi, berbalik positif Rp175,6 miliar; serta laba per saham, yakni laba dibagi jumlah saham beredar, yang naik dari Rp80 menjadi Rp130 sehingga setiap lembar saham mewakili keuntungan lebih besar. Yang perlu dipantau berikutnya adalah utang obligasi Rp419,2 miliar yang kini jatuh tempo dalam satu tahun ke depan setelah sebagian besar obligasi jangka panjang perusahaan direklasifikasi jadi utang jangka pendek, sehingga layak dicermati apakah perusahaan akan melunasi tunai atau menerbitkan obligasi baru untuk menggantikannya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "drma-catat-laba-rp487-6-miliar-kuartal-iii-naik-13-9",
+  "category": "Aksi Korporasi",
+  "title": "DRMA Catat Laba [Rp487,6 Miliar] Kuartal III, Naik 13,9%",
+  "deck": "Penjualan neto Dharma Polimetal naik 16 persen jadi Rp5,10 triliun dalam sembilan bulan 2026, laba bersih naik 13,9 persen menjadi Rp487,63 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T13:41:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027135042-64985-0/FinancialStatement-2026-III-DRMA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DRMA",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "laporan keuangan",
+   "otomotif"
+  ],
+  "body": [
+   "PT Dharma Polimetal Tbk (DRMA), produsen komponen otomotif dan sepeda motor, melaporkan penjualan neto Rp5,10 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 16 persen dibanding Rp4,39 triliun pada periode yang sama tahun lalu. Laba bruto tercatat Rp857,33 miliar, naik 12 persen dari Rp765,78 miliar. Setelah dikurangi beban penjualan, beban umum dan administrasi, serta beban bunga, laba bersih perseroan mencapai Rp487,63 miliar, naik 13,9 persen dari Rp428,11 miliar pada September 2025.",
+   "Dari sisi posisi keuangan, total aset perusahaan naik 11,5 persen menjadi Rp4,78 triliun per akhir September 2026, dari Rp4,29 triliun di akhir 2025. Kas dan setara kas bertambah 21 persen menjadi Rp716,70 miliar. Selama sembilan bulan ini, perseroan membagikan dividen tunai Rp329,41 miliar, melonjak 62,8 persen dari Rp202,35 miliar pada periode yang sama tahun sebelumnya, ditambah pembayaran dividen Rp13,12 miliar dari anak usaha kepada pemegang saham non-pengendali. Ekuitas total naik tipis 4,9 persen menjadi Rp3,08 triliun.",
+   "Dalam surat terpisah kepada Bursa Efek Indonesia, manajemen menjelaskan beberapa pos yang berubah lebih dari 20 persen sesuai aturan BEI. Kenaikan piutang usaha disebut terutama berasal dari sejumlah pelanggan, antara lain PT Astra Honda Motor, Toyota Motor Manufacturing Indonesia, Yamaha Indonesia Motor, Chemco Harapan Nusantara, dan Radita Autoprima, meski rincian nilai per pelanggan berasal dari dokumen hasil pindaian sehingga akurasinya perlu dikonfirmasi lebih lanjut. Utang bank jangka panjang naik 46,9 persen menjadi Rp255,92 miliar, didorong tambahan pinjaman dari Bank CIMB Niaga, sementara perseroan membayar sebagian utang kepada Bank Danamon Indonesia dan Bank Central Asia. Utang usaha juga naik, dengan kenaikan dari pemasok seperti PT Indowire, SWS Logistic & Marketing, dan PT Ewindo."
+  ],
+  "fotoAdegan": "Workers inspecting metal motorcycle components and wiring harnesses on an assembly line inside a bright automotive parts factory",
+  "takeaway": "Laporan ini condong positif bagi Dharma Polimetal, karena penjualan dan laba bersih tumbuh dua digit dalam sembilan bulan ini, dan kas perusahaan juga menebal meski dividen tunai yang dibagikan jauh lebih besar dari tahun sebelumnya. Yang perlu dicermati justru arus kas dari kegiatan operasi, yaitu uang tunai yang benar-benar diterima dari jualan sehari-hari, yang malah turun sekitar 19 persen dibanding periode yang sama tahun lalu meski laba di atas kertas naik, karena sebagian keuntungan itu masih mengendap sebagai piutang dan persediaan yang belum berubah jadi uang kas. Ekuitas, yakni total kekayaan bersih yang jadi hak pemegang saham, naik tipis ke Rp3,08 triliun karena laba ditahan bertambah, tapi kenaikannya tertahan oleh pembayaran dividen tunai yang melonjak ke Rp329,4 miliar. Yang akan menentukan arah berikutnya adalah laporan keuangan audit untuk tahun penuh 2026, yang biasanya disampaikan ke bursa sekitar akhir Maret 2027, karena saat itu akan terlihat apakah kenaikan piutang dan persediaan ini berujung pada tagihan yang lancar tertagih atau justru menumpuk jadi beban.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "intp-jadwalkan-rupslb-3-desember-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "INTP Jadwalkan [RUPSLB] 3 Desember, Agenda Belum Diumumkan",
+  "deck": "Indocement memberitahukan rencana RUPSLB pada 3 Desember 2026, tapi agenda resminya baru akan diumumkan 11 November 2026 lewat panggilan rapat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T13:36:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a4956f8705_6f74be3c6d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INTP",
+  "tags": [
+   "INTP",
+   "RUPSLB",
+   "Indocement",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Indocement Tunggal Prakarsa Tbk (INTP) menyampaikan pemberitahuan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 3 Desember 2026 pukul 09.30 WIB di Ruang Melati, Wisma Indocement, Jalan Jenderal Sudirman Kavling 70-71, Jakarta. Rapat akan berlangsung secara fisik dan elektronik melalui fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemberitahuan ini disampaikan lewat surat Nomor 154/ITP-CLCC/X/2026 tertanggal 27 Oktober 2026, ditandatangani Corporate Secretary Indocement, Dani Handajani, merujuk pada surat sebelumnya Nomor 149/ITP-CLCC/X/2026.",
+   "Dokumen ini memuat sejumlah tanggal penting bagi pemegang saham. Yang berhak hadir dan memberikan suara dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 10 November 2026 pukul 16.00 WIB. Panggilan resmi beserta agenda lengkap rapat baru akan diumumkan sehari sesudahnya, yaitu Rabu, 11 November 2026, melalui situs web KSEI, Bursa Efek Indonesia, dan situs Indocement sendiri. Pemegang saham yang ingin mengusulkan mata acara rapat harus mengirimkan usulan beserta penjelasannya lewat surat tercatat dan diterima direksi paling lambat Rabu, 4 November 2026. Bagi yang tidak hadir fisik, kuasa elektronik lewat e-Proxy KSEI tersedia sampai Rabu, 2 Desember 2026 pukul 12.00 WIB.",
+   "Isi dokumen yang diterbitkan hari ini belum mencantumkan mata acara atau keputusan korporasi apa yang akan dibahas dalam RUPSLB tersebut. Rincian itu baru akan terbuka setelah panggilan resmi disertai agenda diumumkan pada 11 November 2026."
+  ],
+  "fotoAdegan": "Cement bagging and loading area at an industrial plant, conveyor belts and silos, workers in hard hats, hazy afternoon light",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental Indocement, karena isinya baru sebatas jadwal administratif dan belum membuka agenda keputusan apa pun yang akan dibahas dalam rapat. RUPSLB sendiri adalah forum yang biasanya dipakai emiten untuk memutuskan hal di luar agenda tahunan rutin, misalnya penerbitan saham baru, perubahan modal, atau penggantian direksi dan komisaris, yang bisa berpengaruh pada jumlah saham beredar atau laba per saham pemegang saham lama, sehingga pelaku pasar perlu menunggu rincian agendanya sebelum menilai dampaknya. Yang perlu dipantau selanjutnya adalah pengumuman resmi agenda rapat pada 11 November 2026 lewat situs KSEI, BEI, dan Indocement, tenggat pengajuan usulan mata acara oleh pemegang saham pada 4 November 2026, serta pelaksanaan RUPSLB itu sendiri pada 3 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "hmsp-catat-laba-melonjak-44-jadi-rp6-51-triliun",
   "category": "Aksi Korporasi",
   "title": "HMSP Catat Laba [Melonjak] 44% Jadi Rp6,51 Triliun",

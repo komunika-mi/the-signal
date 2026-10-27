@@ -5,6 +5,214 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "nine-panggil-rupslb-bahas-rights-issue-2-44-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "NINE Panggil RUPSLB, Bahas [Rights Issue] 2,44 Miliar Saham",
+  "deck": "Techno9 Indonesia mengundang RUPSLB 18 November 2026, agendakan pergantian direksi-komisaris, rights issue hingga 2,44 miliar saham, dan penerbitan surat utang baru.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NINE",
+   "RUPSLB",
+   "Rights Issue",
+   "Techno9 Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e34b21dc76_7b183d18a5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "msin-paparkan-strategi-v-short-dan-integrasi-rcti-vision",
+  "category": "Aksi Korporasi",
+  "title": "MSIN Paparkan Strategi [V+Short] dan Integrasi RCTI+-Vision+",
+  "deck": "Dalam public expose insidentil atas permintaan BEI, manajemen MSIN memaparkan rencana integrasi RCTI+ dan Vision+ serta target pertumbuhan platform V+Short di pasar global.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSIN",
+   "Public Expose",
+   "V+Short",
+   "RCTI+"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0e3cdecedd_8d2253b24b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "maha-laba-bersih-9m-melonjak-122-liabilitas-susut-28",
+  "category": "Aksi Korporasi",
+  "title": "MAHA: Laba Bersih 9M Melonjak 122%, [Liabilitas] Susut 28%",
+  "deck": "Laba bersih sembilan bulan MAHA melonjak 122 persen menjadi Rp167,9 miliar, ditopang turunnya kerugian investasi saham, sementara liabilitas turun 27,8 persen.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAHA",
+   "laporan keuangan",
+   "laba bersih",
+   "liabilitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027173315-64492-0/FinancialStatement-2026-III-MAHA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtps-panggil-rupslb-ketiga-soal-penjualan-gedung-kantor",
+  "category": "Aksi Korporasi",
+  "title": "MTPS Panggil RUPSLB [Ketiga] Soal Penjualan Gedung Kantor",
+  "deck": "RUPSLB Independen ketiga MTPS digelar 3 November 2026 setelah dua rapat sebelumnya gagal kuorum, membahas penjualan gedung kantor seluas 4.802 m2 di Jakarta Timur.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTPS",
+   "RUPSLB",
+   "penjualan aset",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc5c5835fd_65cac54cfb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inco-panggil-rupslb-bahas-pengunduran-direktur-dan-revisi-ad",
+  "category": "Aksi Korporasi",
+  "title": "INCO Panggil RUPSLB, Bahas [Pengunduran] Direktur dan Revisi AD",
+  "deck": "Vale Indonesia memanggil RUPSLB pada 18 November 2026 untuk meratifikasi pengunduran diri seorang direktur dan menyesuaikan anggaran dasar dengan KBLI 2025.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INCO",
+   "RUPSLB",
+   "Vale Indonesia",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f2ef8b3f5a_edaab30bbf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asgr-laba-bersih-naik-15-jadi-rp209-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASGR: [Laba Bersih] Naik 15% Jadi Rp209 Miliar di Kuartal III 2026",
+  "deck": "Astra Graphia mencatat pendapatan Rp2,35 triliun dan laba bersih Rp209 miliar untuk sembilan bulan 2026, meski ekuitas turun karena dividen final 2025 senilai Rp284,6 miliar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASGR",
+   "Astra Graphia",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027172333-64816-0/FinancialStatement-2026-III-ASGR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "andi-utang-ke-bank-permata-pindah-ke-pjs-lewat-cessie",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: Utang ke Bank Permata Pindah ke PJS Lewat [Cessie]",
+  "deck": "Andira Agro menjelaskan ke BEI bahwa utang banknya kini beralih dari Bank Permata ke PT Puncak Jaya Sejahtera, pengendali baru yang juga baru mengambil alih 33% saham pengendali.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANDI",
+   "Andira Agro",
+   "cessie",
+   "Puncak Jaya Sejahtera"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/99503b7da0_92a18e0ed1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "city-bukukan-laba-rp17-8-miliar-naik-49-6-di-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "CITY Bukukan Laba Rp17,8 Miliar, [Naik] 49,6% di 9 Bulan 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 Natura City Developments menunjukkan laba sembilan bulan naik 49,6% menjadi Rp17,83 miliar, sementara total aset tumbuh jadi Rp1,14 triliun.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CITY",
+   "laporan keuangan",
+   "properti",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027100931-64407-0/FinancialStatement-2026-III-CITY.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "post-fitch-turunkan-peringkat-obligasi-ke-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "POST: Fitch Turunkan Peringkat Obligasi ke [Gagal Bayar]",
+  "deck": "Fitch Ratings Indonesia menurunkan peringkat Obligasi I Pos Indonesia Tahun 2022 dari C(idn) menjadi D(idn), level yang menurut metodologi Fitch berarti status gagal bayar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "Obligasi",
+   "Fitch Ratings"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/70ff8c3864_d5b9d5de1c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "imfi-siapkan-dana-rp593-54-miliar-lunasi-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "IMFI Siapkan Dana Rp593,54 Miliar [Lunasi] Obligasi",
+  "deck": "Indomobil Finance menyatakan telah menyiapkan dana Rp593,54 miliar untuk melunasi pokok dan bunga ke-20 obligasi seri C yang jatuh tempo 19 November 2026.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IMFI",
+   "obligasi",
+   "Indomobil Finance",
+   "pelunasan obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9a1764e45a_b168b532b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbca-catat-laba-bersih-rp45-2-triliun-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "BBCA Catat Laba Bersih [Rp45,2 Triliun] per September 2026",
+  "deck": "BBCA mencetak laba bersih Rp45,24 triliun pada sembilan bulan 2026, naik 4,2 persen, didukung pertumbuhan kredit dan simpanan nasabah.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBCA",
+   "laporan keuangan",
+   "laba bersih",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027164104-65005-0/FinancialStatement-2026-III-BBCA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jpfa-capex-2026-diproyeksi-tembus-rp4-triliun",
+  "category": "Aksi Korporasi",
+  "title": "JPFA: Capex 2026 Diproyeksi Tembus [Rp4 Triliun]",
+  "deck": "Dalam public expose tahunan 22 Oktober 2026, manajemen JPFA membahas realisasi buyback, divestasi Vaksindo, dan capex semester I yang sudah Rp2,16 triliun.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JPFA",
+   "Japfa Comfeed",
+   "Public Expose",
+   "Capex"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/be7b2e0891_c116145e96.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jarr-catat-laba-melonjak-56-ke-rp349-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "JARR Catat Laba [Melonjak] 56% ke Rp349 Miliar di Kuartal III 2026",
+  "deck": "Laba bersih JARR naik 56 persen jadi Rp349,27 miliar pada kuartal III 2026, didorong penjualan yang tumbuh 14 persen menjadi Rp3,53 triliun.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JARR",
+   "laporan keuangan",
+   "laba bersih",
+   "kelapa sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027163459-64935-0/FinancialStatement-2026-III-JARR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bina-jadwalkan-pelaksanaan-pmthmetd-3-november-2026",
   "category": "Aksi Korporasi",
   "title": "BINA Jadwalkan Pelaksanaan [PMTHMETD] 3 November 2026",
@@ -6241,215 +6449,6 @@ var ARTICLES = [
    "kepemilikan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6639-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "essa-direksi-beli-2-25-juta-saham-senilai-rp1-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ESSA: Direksi [Beli] 2,25 Juta Saham Senilai Rp1 Miliar",
-  "deck": "Direksi ESSA Industries Indonesia, Trinugraha Thohir, membeli 2.252.300 saham pada 19 Oktober 2026 seharga Rp444 per saham, menambah kepemilikannya jadi 84.955.645 lembar.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ESSA",
-   "ESSA Industries Indonesia",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-3384-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekspor-produk-hijau-ri-tumbuh-59-7-persen-syarat-ue-ketat",
-  "category": "Industri",
-  "title": "Ekspor Produk Hijau RI [Tumbuh] 59,7 Persen, Syarat UE Ketat",
-  "deck": "Kemendag gelar forum ekspor hijau di sela TEI ke-41, saat ekspor produk ramah lingkungan RI tumbuh 59,7 persen pada Januari-Agustus 2025, meski syarat pasar Eropa makin ketat.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
-  "tags": [
-   "ekspor hijau",
-   "TEI ke-41",
-   "Kemendag",
-   "Uni Eropa"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/forum-bisnis-produk-hijau-di-tei-ke-41-kemendag-dorong-ekspor-penuhi-aspek-ramah-lingkungan",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "hero-jadwalkan-rupslb-26-november-2026-di-bintaro",
-  "category": "Aksi Korporasi",
-  "title": "HERO Jadwalkan RUPSLB [26 November] 2026 di Bintaro",
-  "deck": "DFI Retail Nusantara mengumumkan rencana RUPSLB pada 26 November 2026, dengan pencatatan pemegang saham berhak hadir per 3 November.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HERO",
-   "RUPSLB",
-   "DFI Retail Nusantara",
-   "korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c600368aa3_6b04df309a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtps-gelar-rupslb-independen-24-november-bahas-penjualan-gedung",
-  "category": "Aksi Korporasi",
-  "title": "MTPS Gelar RUPSLB Independen 24 November, Bahas [Penjualan] Gedung",
-  "deck": "Meta Epsi menjadwalkan RUPSLB Independen 24 November 2026 untuk meminta restu pemegang saham atas rencana penjualan gedung kantornya seluas 4.802 meter persegi di Jatinegara.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTPS",
-   "RUPSLB",
-   "transaksi material",
-   "penjualan aset"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ccdb1161d9_5796051de1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "avia-direksi-beli-6-9-juta-saham-senilai-rp2-22-miliar",
-  "category": "Aksi Korporasi",
-  "title": "AVIA: Direksi [Beli] 6,9 Juta Saham Senilai Rp2,22 Miliar",
-  "deck": "Robert Christian Tanoko, direksi AVIA, menambah kepemilikan 6,9 juta lembar saham secara tidak langsung pada 16 Oktober 2026, menaikkan hak suaranya ke 2,32 persen.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "kepemilikan saham",
-   "direksi",
-   "insider buying"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1362-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "visi-private-placement-rp120-miliar-saham-publik-makin-terdilusi",
-  "category": "Aksi Korporasi",
-  "title": "VISI [Private Placement] Rp120 Miliar, Saham Publik Makin Terdilusi",
-  "deck": "VISI menerbitkan 120,7 juta saham baru tanpa hak memesan efek terlebih dahulu senilai sekitar Rp120 miliar kepada tiga investor, mendilusi porsi pemegang saham publik dari 19,99% menjadi 19,24%.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "PMTHMETD",
-   "Private Placement",
-   "Dilusi Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fafd84aaca_f5000578f5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "avia-terima-dividen-interim-rp50-miliar-dari-tirtakencana",
-  "category": "Aksi Korporasi",
-  "title": "AVIA Terima [Dividen] Interim Rp50 Miliar dari Tirtakencana",
-  "deck": "PT Avia Avian Tbk menerima dividen interim Rp49,99 miliar dari anak usahanya, PT Tirtakencana Tatawarna, yang sahamnya dikuasai hampir 100 persen oleh perseroan.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "dividen interim",
-   "Tirtakencana Tatawarna",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1a451ae74a_4ba8158437.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptps-jawab-bursa-karhutla-tak-ganggu-produksi",
-  "category": "Aksi Korporasi",
-  "title": "PTPS Jawab Bursa, Karhutla Tak Ganggu [Produksi]",
-  "deck": "PT Pulau Subur menjawab permintaan penjelasan BEI dan memastikan kebakaran hutan dan lahan tidak mengganggu operasional, produksi, maupun pendapatan tahun ini.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPS",
-   "karhutla",
-   "kelapa sawit",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/314c017484_cb8a2ac3c4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tfco-saham-terkonsentrasi-99-70-free-float-tipis",
-  "category": "Aksi Korporasi",
-  "title": "TFCO: Saham Terkonsentrasi 99,70%, Free Float [Tipis]",
-  "deck": "BEI dan KSEI mengumumkan saham TFCO dikuasai segelintir pihak yang menguasai 99,70% total saham per 15 Oktober 2026, menyisakan saham beredar bebas yang sangat tipis.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TFCO",
-   "Tifico Fiber Indonesia",
-   "free float",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0bbe3f1e29_d3e3b321ad.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boba-direksi-lepas-99-67-sahamnya-ke-227-200-lembar",
-  "category": "Aksi Korporasi",
-  "title": "BOBA: Direksi [Lepas] 99,67% Sahamnya ke 227.200 Lembar",
-  "deck": "Direksi BOBA, Dewi Irianty Wijaya, melepas 99,67 persen sahamnya sendiri, dari 68,4 juta menjadi 227.200 lembar, dalam transaksi berjenis Repurchase Agreement.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOBA",
-   "Formosa Ingredient Factory",
-   "kepemilikan saham direksi",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-0616-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-rebound-4-16-persen-dipicu-buyback-dan-aturan-msci",
-  "category": "Pasar Modal",
-  "title": "IHSG [Rebound] 4,16 Persen, Dipicu Buyback dan Aturan MSCI",
-  "deck": "IHSG melonjak 4,16 persen ke 5.204,63 pada sesi I Selasa, didorong buyback emiten serta kebijakan BEI dan OJK merespons evaluasi MSCI.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/ihsg-rebound-4-16-persen-dipicu-buyback-dan-aturan-msci.jpg",
-  "imageV": "mvgck5n2",
-  "tags": [
-   "ihsg",
-   "bursa saham",
-   "msci",
-   "buyback"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473988-ihsg-rebound-416-persen-analis-dipicu-buyback-saham-hingga-kebijakan-otoritas"
- },
- {
-  "slug": "emas-rencanakan-penambahan-modal-potensi-dilusi-10",
-  "category": "Aksi Korporasi",
-  "title": "EMAS Rencanakan Penambahan Modal, Potensi [Dilusi] 10%",
-  "deck": "EMAS berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu hingga 1,47 miliar lembar atau maksimal 10% modal disetor, menanti persetujuan RUPS.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "PMTHMETD",
-   "dilusi saham",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c4b6bca03d_1385efc5ec.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "direksi-gmfi-beli-500-000-saham-senilai-rp20-juta",
-  "category": "Aksi Korporasi",
-  "title": "Direksi GMFI [Beli] 500.000 Saham Senilai Rp20 Juta",
-  "deck": "Direktur GMF Aero Asia, Tri Hartono, membeli 500.000 saham perusahaan seharga Rp40 per lembar pada 20 Oktober 2026, menambah kepemilikannya menjadi 1,5 juta lembar.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GMFI",
-   "kepemilikan saham",
-   "direksi",
-   "insider buying"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-8756-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

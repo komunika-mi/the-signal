@@ -3,6 +3,346 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "nine-panggil-rupslb-bahas-rights-issue-2-44-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "NINE Panggil RUPSLB, Bahas [Rights Issue] 2,44 Miliar Saham",
+  "deck": "Techno9 Indonesia mengundang RUPSLB 18 November 2026, agendakan pergantian direksi-komisaris, rights issue hingga 2,44 miliar saham, dan penerbitan surat utang baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T17:39:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e34b21dc76_7b183d18a5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NINE",
+  "tags": [
+   "NINE",
+   "RUPSLB",
+   "Rights Issue",
+   "Techno9 Indonesia"
+  ],
+  "body": [
+   "PT Techno9 Indonesia Tbk (NINE) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 18 November 2026 pukul 14.00 WIB di HARRIS Suites Puri Mansion, Jakarta Barat. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan Senin, 26 Oktober 2026 berhak hadir dan memberikan suara, baik secara fisik, secara elektronik lewat aplikasi eASY.KSEI, maupun melalui kuasa.",
+   "Agenda pertama adalah perombakan direksi dan komisaris. Perseroan mengangkat Tan Jun Yong sebagai direktur baru, sehingga susunan direksi menjadi Direktur Utama Teo Bee Cheng bersama direktur Boas P. Panjaitan, Irwan Dharma Kusuma, Koh Hui Ling, dan Tan Jun Yong. Di jajaran komisaris, Hoe Tat Kai diangkat sebagai komisaris baru, melengkapi Komisaris Utama Poh Kay Ping, Komisaris Noprian Fadli, dan Komisaris Independen Venantius Agung Passinoraga. Masa jabatan susunan baru ini berlaku sejak penutupan RUPSLB sampai penutupan RUPS Tahunan 2030.",
+   "Agenda kedua meminta persetujuan pemegang saham atas penambahan modal dengan hak memesan efek terlebih dahulu (rights issue), dengan jumlah saham baru yang akan diterbitkan sebanyak-banyaknya 2.443.000.000 lembar bernilai nominal Rp10 per saham. Direksi diberi kuasa penuh untuk menentukan rasio saham baru terhadap saham lama, harga pelaksanaan, penggunaan dana hasil rights issue, dan jadwal pelaksanaannya, termasuk menandatangani prospektus dan mencatatkan saham baru di Bursa Efek Indonesia. Agenda ketiga meminta persetujuan penerbitan surat utang dengan jumlah pokok di bawah 50 persen dari total ekuitas Perseroan berdasarkan laporan keuangan audit terakhir, juga dengan kuasa penuh kepada direksi untuk menetapkan syarat dan ketentuannya.",
+   "Bagi pemegang saham yang ingin memberi kuasa secara fisik, salinan cetak Surat Kuasa harus diterima Perseroan paling lambat Senin, 16 November 2026, dua hari kerja sebelum rapat. Sementara deklarasi kehadiran atau kuasa elektronik lewat aplikasi eASY.KSEI harus disampaikan paling lambat pukul 12.00 WIB, satu hari kerja sebelum tanggal rapat."
+  ],
+  "fotoAdegan": "Hotel ballroom staff arranging empty rows of chairs before a corporate shareholders meeting, soft early morning light",
+  "takeaway": "Laporan ini condong negatif bagi Techno9, karena agenda RUPSLB menegaskan dua rencana pendanaan sekaligus, rights issue hingga 2,44 miliar saham baru dan penerbitan surat utang baru, di tengah kondisi rugi yang sudah membesar seperti terungkap dalam jawaban Techno9 ke bursa pekan lalu. Rights issue menambah jumlah saham beredar sehingga laba per saham pemegang saham lama bisa terdilusi signifikan, sementara surat utang baru menambah beban bunga yang harus dibayar perusahaan ke depan, dua pos yang biasanya diawasi ketat pelaku pasar saat perusahaan sedang merugi. Perombakan direksi dan komisaris yang dibahas dalam rapat yang sama juga pantas dicermati karena terjadi bersamaan dengan rencana penggalangan dana besar ini. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 18 November 2026, termasuk rasio dan harga pelaksanaan rights issue yang baru akan ditentukan direksi setelah rapat disetujui.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "msin-paparkan-strategi-v-short-dan-integrasi-rcti-vision",
+  "category": "Aksi Korporasi",
+  "title": "MSIN Paparkan Strategi [V+Short] dan Integrasi RCTI+-Vision+",
+  "deck": "Dalam public expose insidentil atas permintaan BEI, manajemen MSIN memaparkan rencana integrasi RCTI+ dan Vision+ serta target pertumbuhan platform V+Short di pasar global.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T17:31:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0e3cdecedd_8d2253b24b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSIN",
+  "tags": [
+   "MSIN",
+   "Public Expose",
+   "V+Short",
+   "RCTI+"
+  ],
+  "body": [
+   "PT MNC Digital Entertainment Tbk (MSIN) menyampaikan laporan hasil public expose insidentil kepada Bursa Efek Indonesia pada 27 Oktober 2026. Acara ini digelar secara elektronik melalui Zoom pada Senin, 26 Oktober 2026 pukul 10.30 WIB, memenuhi permintaan BEI yang disampaikan pada 21 Oktober 2026 dan mengacu pada pengumuman bursa bernomor Peng-SPT-00216/BEI.WAS/10-2026 tanggal 20 Oktober 2026. Acara dihadiri 30 peserta di luar manajemen dan karyawan perseroan, dengan panelis Abuzzal Abusaeri selaku Chief Financial Officer, Ronny Wilimas Sugiadha selaku Chief Operating Officer, dan Luthan Fadel Putra selaku Investor Relation. Direktur Rudy Hidayat juga hadir dalam sesi tersebut.",
+   "Dalam sesi tanya jawab, manajemen menjelaskan keunggulan kompetitif MSIN terletak pada kontrolnya atas tiga lini sekaligus, yaitu produksi konten, distribusi platform melalui OTT, dan manajemen talent, yang menurut manajemen membuat siklus bisnis dan biaya lebih efisien. Soal integrasi RCTI+ dan Vision+, manajemen menyebut empat manfaat: keberagaman konten dalam satu platform, efisiensi biaya teknologi sekaligus pemanfaatan AI untuk analitik data, satu platform dengan aliran pendapatan yang lebih lengkap, dan peluang kerja sama global. Untuk belanja modal, manajemen menyatakan strategi capex akan bersifat prudent dan selektif, menyesuaikan kebutuhan bisnis dan kondisi pasar, dengan fokus pada platform digital, infrastruktur, teknologi, dan pengembangan konten atau kekayaan intelektual, sembari menjaga struktur keuangan dan likuiditas.",
+   "Manajemen juga memaparkan perkembangan platform video pendek V+Short, yang hingga saat ini sudah dipasang 11 juta kali dengan 3 sampai 4 juta pengguna aktif bulanan. Perseroan menargetkan dalam 3 hingga 4 tahun ke depan, 50 persen pendapatan MSIN berasal dari luar negeri, dengan kontribusi mayoritas datang dari V+Short karena platform ini menyasar pasar global yang disebut manajemen memiliki daya beli dan tarif iklan lebih tinggi."
+  ],
+  "fotoAdegan": "Television studio crew adjusting cameras and lighting rigs on a drama set before filming begins, Jakarta",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental MSIN, karena isinya pemaparan strategi dan sesi tanya jawab manajemen, bukan perubahan angka keuangan, ekuitas, atau jumlah saham beredar yang bisa langsung diukur dampaknya. Yang disorot di sini adalah jumlah pengguna aktif bulanan platform V+Short, yakni ukuran berapa banyak orang yang benar-benar memakai aplikasi tersebut setiap bulan, karena angka ini jadi indikator awal seberapa besar potensi pendapatan iklan dan konten yang bisa digali sebelum tercermin di laporan laba rugi. Pelaku pasar lazim mencermati target semacam ini sebagai sinyal arah bisnis, bukan bukti kinerja yang sudah terjadi. Yang perlu dipantau selanjutnya adalah realisasi konkret integrasi RCTI+ dan Vision+ serta laporan kinerja kuartal mendatang, untuk melihat apakah target pertumbuhan V+Short dan pendapatan dari luar negeri benar-benar mulai tercermin dalam angka keuangan perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "maha-laba-bersih-9m-melonjak-122-liabilitas-susut-28",
+  "category": "Aksi Korporasi",
+  "title": "MAHA: Laba Bersih 9M Melonjak 122%, [Liabilitas] Susut 28%",
+  "deck": "Laba bersih sembilan bulan MAHA melonjak 122 persen menjadi Rp167,9 miliar, ditopang turunnya kerugian investasi saham, sementara liabilitas turun 27,8 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T17:22:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027173315-64492-0/FinancialStatement-2026-III-MAHA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAHA",
+  "tags": [
+   "MAHA",
+   "laporan keuangan",
+   "laba bersih",
+   "liabilitas"
+  ],
+  "body": [
+   "PT Mandiri Herindo Adiperkasa Tbk (MAHA) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan naik 15,1 persen, dari Rp2,02 triliun pada periode yang sama tahun 2025 menjadi Rp2,33 triliun. Laba bersih periode berjalan melonjak dari Rp75,36 miliar menjadi Rp167,86 miliar, naik 122,7 persen, sehingga laba per saham dasar naik dari Rp4,89 menjadi Rp10,45.",
+   "Namun, laba usaha dari kegiatan bisnis utama justru sedikit turun, dari Rp263,37 miliar menjadi Rp253,46 miliar. Pendorong utama kenaikan laba bersih adalah rugi investasi saham yang belum direalisasi, yang menyusut tajam dari Rp112,53 miliar menjadi hanya Rp11,92 miliar. Di sisi lain, beban keuangan (bunga pinjaman) naik dari Rp32,26 miliar menjadi Rp39,41 miliar, seiring perusahaan menambah utang bank jangka pendek dan jangka panjang yang sebelumnya nihil menjadi total Rp43,33 miliar.",
+   "Dari sisi posisi keuangan, total aset turun dari Rp2,996 triliun menjadi Rp2,731 triliun, sementara total liabilitas turun 27,8 persen dari Rp1,093 triliun menjadi Rp856,78 miliar. Dalam surat terpisah ke Bursa Efek Indonesia yang merujuk Peraturan I-E Poin III.1.1.4 tentang kewajiban menjelaskan perubahan lebih dari 20 persen pada pos aset atau liabilitas, manajemen MAHA menyebut penurunan ini terutama berasal dari pelunasan utang usaha kepada pemasok dan pembayaran angsuran liabilitas sewa secara berkala. Kas dan setara kas ikut turun dari Rp566,23 miliar menjadi Rp459,15 miliar, dan total ekuitas turun tipis dari Rp1,903 triliun menjadi Rp1,874 triliun setelah perusahaan membagikan dividen tunai Rp196,74 miliar, jumlah yang melebihi laba periode ini yang dapat diatribusikan ke pemegang saham induk sebesar Rp171,48 miliar.",
+   "Laporan ini juga mencantumkan informasi anak usaha, PT Mandiri Prima Adiperkasa, yang bergerak di bidang pertambangan berlokasi di Jakarta dan dimiliki MAHA sebesar 40 persen. Anak usaha ini tercatat belum beroperasi secara komersial, dengan total aset Rp32,54 miliar."
+  ],
+  "fotoAdegan": "A loaded coal barge being pushed by a tugboat along a wide river under an overcast sky in Indonesia",
+  "takeaway": "Laporan ini cenderung netral bagi MAHA. Laba bersih yang melonjak lebih dari dua kali lipat terlihat menarik di permukaan, tapi pendorong utamanya adalah kerugian investasi saham yang menyusut tajam dibanding tahun lalu, bukan perbaikan bisnis inti, karena laba usaha dari kegiatan pokok perusahaan justru sedikit turun. Yang perlu dicermati investor adalah beban bunga yang naik seiring perusahaan menambah utang bank baru, serta ekuitas, yaitu kekayaan bersih yang tersisa untuk pemegang saham setelah dikurangi semua utang, yang justru menyusut karena dividen yang dibagikan lebih besar dari laba yang ditahan periode ini. Investor sebaiknya memantau laporan keuangan tahun penuh 2026 yang akan terbit awal 2027 untuk melihat apakah kenaikan laba ini berlanjut dari perbaikan operasi atau kembali bergantung pada fluktuasi nilai investasi saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtps-panggil-rupslb-ketiga-soal-penjualan-gedung-kantor",
+  "category": "Aksi Korporasi",
+  "title": "MTPS Panggil RUPSLB [Ketiga] Soal Penjualan Gedung Kantor",
+  "deck": "RUPSLB Independen ketiga MTPS digelar 3 November 2026 setelah dua rapat sebelumnya gagal kuorum, membahas penjualan gedung kantor seluas 4.802 m2 di Jakarta Timur.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T17:18:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc5c5835fd_65cac54cfb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTPS",
+  "tags": [
+   "MTPS",
+   "RUPSLB",
+   "penjualan aset",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Meta Epsi Tbk (MTPS) kembali memanggil Rapat Umum Pemegang Saham Luar Biasa Independen (RUPSLB Independen) untuk ketiga kalinya, setelah dua rapat sebelumnya gagal memenuhi syarat kuorum kehadiran pemegang saham independen. Rapat ketiga ini akan digelar Selasa, 3 November 2026, pukul 10.00 sampai 11.30 WIB, di Meta Epsi Building, Jalan Mayjen D.I Panjaitan Kav 2, Rawa Bunga, Jatinegara, Jakarta Timur. Satu-satunya agenda rapat adalah persetujuan rencana penjualan aset milik perseroan berupa tanah beserta bangunan kantor dan sarana pelengkap di lokasi yang sama, dengan luas tanah 4.802 meter persegi.",
+   "Tanggal pencatatan pemegang saham yang berhak hadir (recording date) ditetapkan 26 Oktober 2026. Karena RUPS Independen pertama dan kedua tidak memenuhi kuorum kehadiran pemegang saham independen, yang seharusnya mewakili lebih dari separuh saham independen, perseroan mengajukan permohonan ke Otoritas Jasa Keuangan (OJK) agar RUPS ketiga ini bisa berjalan dengan syarat kuorum yang lebih ringan. Dokumen menyebut kuorum RUPS ketiga ditetapkan minimal 37 persen dari seluruh saham bersuara milik pemegang saham independen, dan keputusan dinyatakan sah bila disetujui oleh pemegang saham independen yang mewakili lebih dari 50 persen saham independen yang hadir dalam rapat tersebut.",
+   "Pemegang saham yang ingin memberi kuasa di luar sistem elektronik eASY.KSEI wajib mengunduh formulir surat kuasa dari situs web perseroan, mengirim salinannya lewat email ke Datindo, dan mengirimkan surat kuasa asli ke Biro Administrasi Efek, PT Datindo Entrycom di Jalan Hayam Wuruk No. 28, Jakarta, paling lambat 2 November 2026. Perseroan menegaskan tidak mengirimkan undangan tersendiri kepada pemegang saham, sehingga pemanggilan ini berlaku sebagai undangan resmi bagi seluruh pemegang saham MTPS."
+  ],
+  "fotoAdegan": "Exterior of a mid-rise office building with a glass and concrete facade along a quiet Jakarta street, soft morning light, no visible signage",
+  "takeaway": "Laporan ini condong negatif, karena RUPSLB Independen untuk menyetujui penjualan gedung kantor ini sudah dua kali gagal kuorum dan baru bisa diloloskan setelah ambang kehadirannya diturunkan khusus oleh OJK menjadi minimal 37 persen saham independen, yang menandakan pemegang saham non-afiliasi masih enggan merestui transaksi ini. Yang disentuh di sini adalah pos aset dan ekuitas, yaitu selisih antara total kekayaan dan utang perseroan, karena penjualan gedung kantor akan mengurangi aset tetap di buku perseroan sekaligus menambah kas masuk yang bisa dipakai untuk melunasi utang atau modal kerja. Pelaku pasar biasanya mencermati kombinasi ini, sebab dana segar dari penjualan aset bisa jadi kabar baik untuk arus kas, tapi kehilangan gedung operasional juga berarti perseroan harus menanggung biaya sewa atau pindah kantor ke depannya. Yang perlu dipantau berikutnya adalah hasil RUPSLB Independen Ketiga pada 3 November 2026 pukul 10.00 WIB, apakah kuorum 37 persen pemegang saham independen akhirnya tercapai, serta tenggat pengiriman surat kuasa fisik ke Biro Administrasi Efek pada 2 November 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inco-panggil-rupslb-bahas-pengunduran-direktur-dan-revisi-ad",
+  "category": "Aksi Korporasi",
+  "title": "INCO Panggil RUPSLB, Bahas [Pengunduran] Direktur dan Revisi AD",
+  "deck": "Vale Indonesia memanggil RUPSLB pada 18 November 2026 untuk meratifikasi pengunduran diri seorang direktur dan menyesuaikan anggaran dasar dengan KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T17:17:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f2ef8b3f5a_edaab30bbf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INCO",
+  "tags": [
+   "INCO",
+   "RUPSLB",
+   "Vale Indonesia",
+   "Direksi"
+  ],
+  "body": [
+   "PT Vale Indonesia Tbk (INCO) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 18 November 2026, pukul 09.00 WIB, di Sudirman Hall, Sequis Tower, Jakarta. Rapat diselenggarakan secara hybrid, yaitu fisik dan elektronik melalui platform eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 26 Oktober 2026 berhak hadir dan memberikan suara dalam rapat ini.",
+   "Agenda pertama adalah persetujuan perubahan susunan direksi perseroan, menyusul pengunduran diri Budiawansyah dari jabatan Direktur sekaligus Chief Sustainability and Corporate Affairs, yang suratnya diterima perseroan pada 20 Agustus 2026. Sesuai anggaran dasar perseroan dan Peraturan OJK No. 33/POJK.04/2014, pengunduran diri anggota direksi wajib diputuskan dalam RUPS paling lambat 90 hari setelah permohonan tersebut diterima, sehingga RUPSLB ini digelar tepat pada batas waktu tersebut.",
+   "Agenda kedua adalah persetujuan perubahan Pasal 3 anggaran dasar untuk menyesuaikan klasifikasi kegiatan usaha perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, menyusul terbitnya Peraturan Badan Pusat Statistik No. 7 Tahun 2025. Perseroan juga menetapkan batas waktu pemberian kuasa elektronik (e-proxy) pada 17 November 2026 pukul 12.00 WIB bagi pemegang saham dengan saham di Penitipan Kolektif KSEI, atau pukul 17.00 WIB untuk kuasa konvensional kepada Biro Administrasi Efek PT Bima Registra, serta membatasi kehadiran fisik maksimal 50 pemegang saham berdasarkan prinsip siapa cepat dia dapat."
+  ],
+  "fotoAdegan": "Workers in hard hats and reflective vests inspecting heavy equipment at a reddish open-pit nickel mine, overcast tropical sky.",
+  "takeaway": "Laporan ini netral bagi kinerja fundamental Vale Indonesia, karena RUPSLB ini sekadar menjalankan kewajiban formal mengesahkan pengunduran diri direktur yang sudah terjadi sejak Agustus dan merapikan kodifikasi usaha di anggaran dasar, tanpa ada perubahan angka keuangan. Pos yang tersentuh adalah susunan direksi dan tata kelola perusahaan, bukan ekuitas atau arus kas, tetapi pergantian direktur yang membidangi keberlanjutan dan hubungan korporat tetap relevan dipantau karena posisi itu bersentuhan dengan isu lingkungan dan relasi dengan pemerintah daerah, hal yang krusial bagi tambang nikel seperti Vale. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 18 November 2026, termasuk apakah perseroan sudah menetapkan pengganti definitif untuk posisi direktur yang kosong, serta kapan perubahan anggaran dasar itu efektif setelah mendapat persetujuan dari Kementerian Hukum dan HAM.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asgr-laba-bersih-naik-15-jadi-rp209-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASGR: [Laba Bersih] Naik 15% Jadi Rp209 Miliar di Kuartal III 2026",
+  "deck": "Astra Graphia mencatat pendapatan Rp2,35 triliun dan laba bersih Rp209 miliar untuk sembilan bulan 2026, meski ekuitas turun karena dividen final 2025 senilai Rp284,6 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T17:14:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027172333-64816-0/FinancialStatement-2026-III-ASGR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASGR",
+  "tags": [
+   "ASGR",
+   "Astra Graphia",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "Astra Graphia Tbk (ASGR) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perusahaan membukukan pendapatan bersih konsolidasian Rp2,35 triliun, naik 4,1 persen dari Rp2,26 triliun pada periode yang sama tahun 2025. Laba periode berjalan tercatat Rp208,59 miliar, naik 15,1 persen dari Rp181,26 miliar setahun sebelumnya. Laba per saham dasar dan dilusian naik dari Rp134,39 menjadi Rp154,65. Presiden Direktur Hendrix Pramana mengatakan pertumbuhan ini didorong oleh segmen Solusi Dokumen dan Solusi Teknologi Informasi, serta penerapan operational excellence dan pengelolaan arus kas yang baik.",
+   "Dari sisi arus kas, kas bersih yang diperoleh dari aktivitas operasi naik menjadi Rp259,65 miliar dari Rp248,67 miliar pada periode yang sama tahun lalu. Namun kas dan setara kas di akhir periode justru turun menjadi Rp1,80 triliun dari Rp1,85 triliun pada akhir 2025, terutama karena perusahaan membayarkan dividen final tahun buku 2025 sebesar Rp284,59 miliar, jauh lebih besar dibanding pembayaran dividen Rp107,9 miliar pada periode yang sama tahun lalu, yang merupakan gabungan dividen interim dan final 2024.",
+   "Akibat pembayaran dividen tersebut, total ekuitas yang diatribusikan kepada pemilik entitas induk turun dari Rp2,09 triliun pada akhir 2025 menjadi Rp2,02 triliun pada akhir September 2026, meskipun ada tambahan laba periode berjalan Rp208,59 miliar. Total aset naik tipis menjadi Rp3,13 triliun dari Rp3,12 triliun, sementara total liabilitas naik menjadi Rp1,11 triliun dari Rp1,03 triliun, salah satunya didorong kenaikan beban akrual jangka pendek menjadi Rp262,49 miliar dari Rp125,23 miliar. Dalam surat pengantarnya ke Bursa Efek Indonesia yang ditandatangani Corporate Secretary Trivena Nalsalita, perusahaan menegaskan tidak ada perubahan lebih dari 20 persen pada pos total aset dan liabilitas, sesuai ketentuan Peraturan BEI Nomor I-E."
+  ],
+  "fotoAdegan": "Technician servicing a large commercial office printer in a service workshop, toner cartridges and cables nearby, daytime light",
+  "takeaway": "Laporan ini condong positif karena laba bersih dan pendapatan sama-sama naik, dan kenaikan itu dibarengi kas yang benar-benar masuk dari operasi harian, bukan cuma angka di atas kertas akuntansi. Ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham setelah dikurangi semua utang, justru turun dari Rp2,09 triliun jadi Rp2,02 triliun, tapi ini bukan tanda kerugian, melainkan karena perusahaan membagikan dividen Rp284,59 miliar yang nilainya lebih besar dari laba yang didapat pada periode ini. Arus kas dari operasi, yaitu uang tunai yang benar-benar diterima dan dibayarkan dari aktivitas usaha sehari-hari, naik jadi Rp259,65 miliar, menandakan bisnis intinya menghasilkan kas yang sehat. Laba per saham, yaitu bagian laba yang secara proporsional menjadi hak setiap lembar saham yang beredar, naik dari Rp134,39 menjadi Rp154,65 sejalan dengan pertumbuhan laba, tanpa ada penambahan jumlah saham baru yang bisa mengurangi porsi tiap pemegang saham. Yang perlu dipantau selanjutnya adalah laporan keuangan tahun penuh 2026, karena laporan kuartal III ini belum mencerminkan apakah tren pertumbuhan pendapatan dan laba tersebut bertahan sampai penutupan tahun.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "andi-utang-ke-bank-permata-pindah-ke-pjs-lewat-cessie",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: Utang ke Bank Permata Pindah ke PJS Lewat [Cessie]",
+  "deck": "Andira Agro menjelaskan ke BEI bahwa utang banknya kini beralih dari Bank Permata ke PT Puncak Jaya Sejahtera, pengendali baru yang juga baru mengambil alih 33% saham pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T17:14:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/99503b7da0_92a18e0ed1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANDI",
+  "tags": [
+   "ANDI",
+   "Andira Agro",
+   "cessie",
+   "Puncak Jaya Sejahtera"
+  ],
+  "body": [
+   "PT Andira Agro Tbk (ANDI) menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya pada 23 Oktober 2026, melalui surat bernomor 008/DIR-FI/BEI/X/2026 tanggal 27 Oktober 2026 yang ditandatangani Direktur Utama Francis Indarto. Jawaban ini merespons surat BEI No. S-13415/BEI.PP1/10-2026 yang meminta klarifikasi atas pergerakan harga dan transaksi efek Perseroan.",
+   "Dalam surat itu, Andira Agro mengungkapkan bahwa PT Bank Permata Tbk telah mengalihkan piutang atas kredit Perseroan, lewat mekanisme yang disebut cessie, kepada PT Puncak Jaya Sejahtera (PJS). Pengalihan ini tercantum dalam surat Bank Permata No. 300/SK/LVWO3/SAM/X/2026 tanggal 21 Oktober 2026. Akibatnya, kewajiban utang bank Perseroan yang sebelumnya ke Bank Permata kini beralih menjadi utang kepada PJS, dengan syarat dan ketentuan yang sama seperti tercantum dalam perubahan terakhir Perjanjian Pemberian Fasilitas Perbankan No. 27440/KK/AMD/IX/2024/SAM tanggal 6 September 2024.",
+   "Andira Agro juga menegaskan kembali bahwa PJS, pada 26 Oktober 2026, telah mengambil alih 33 persen saham yang sebelumnya dipegang oleh pemegang saham pengendali lama melalui transaksi di pasar negosiasi Bursa Efek Indonesia. Menyusul perubahan pengendali ini, Perseroan menyatakan sedang menyiapkan pemenuhan ketentuan POJK 9/POJK.04/2018 tentang pengambilalihan perusahaan terbuka, termasuk penyesuaian kebijakan internal dan penyelenggaraan Rapat Umum Pemegang Saham untuk mengubah susunan pengurus Perseroan."
+  ],
+  "fotoAdegan": "Rows of oil palm trees under an overcast sky, plantation workers gathering fresh fruit bunches near a dirt access road",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental Andira Agro, sebab nilai dan syarat utangnya tidak berubah, yang berganti hanya nama krediturnya. Pos yang tersentuh adalah utang bank Perseroan, yaitu kewajiban pinjaman yang harus dibayar beserta bunganya, karena krediturnya sekarang menjadi PT Puncak Jaya Sejahtera, pihak yang sama yang juga baru menjadi pengendali lewat pembelian 33 persen saham. Situasi ini pantas dicermati karena pengendali baru kini memegang baik saham maupun utang perusahaan, yang secara teori bisa memperkuat posisi tawarnya terhadap manajemen dan pemegang saham minoritas. Yang perlu dipantau selanjutnya adalah pelaksanaan Rapat Umum Pemegang Saham untuk mengubah susunan pengurus Perseroan serta kelanjutan proses penawaran tender wajib sesuai POJK 9/2018 oleh PJS, yang keduanya belum disebutkan tanggal pastinya dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "city-bukukan-laba-rp17-8-miliar-naik-49-6-di-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "CITY Bukukan Laba Rp17,8 Miliar, [Naik] 49,6% di 9 Bulan 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 Natura City Developments menunjukkan laba sembilan bulan naik 49,6% menjadi Rp17,83 miliar, sementara total aset tumbuh jadi Rp1,14 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T17:00:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027100931-64407-0/FinancialStatement-2026-III-CITY.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CITY",
+  "tags": [
+   "CITY",
+   "laporan keuangan",
+   "properti",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Natura City Developments Tbk (CITY) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset perusahaan naik menjadi Rp1,14 triliun dari Rp1,12 triliun pada akhir 2025. Total ekuitas yang menjadi hak pemilik entitas induk naik dari Rp885,01 miliar menjadi Rp902,85 miliar, didorong oleh laba komprehensif sembilan bulan sebesar Rp17,83 miliar, naik dari Rp11,92 miliar pada periode yang sama tahun 2025, kenaikan sekitar 49,6 persen.",
+   "Dalam surat terpisah kepada Bursa Efek Indonesia, manajemen CITY menjelaskan sejumlah pos yang berubah lebih dari 20 persen sesuai aturan keterbukaan informasi. Dana yang dibatasi penggunaannya turun 37 persen dari Rp71,42 miliar menjadi Rp45,30 miliar, karena pelunasan dana yang sebelumnya dijadikan jaminan utang PT Sentul City Tbk di Bank Bukopin serta pencairan dana escrow terkait KPR konsumen. Uang muka perolehan tanah turun 21 persen menjadi Rp21,97 miliar akibat pembatalan rencana pembelian tanah, sementara aset takberwujud selain goodwill naik 83 persen menjadi Rp1,51 miliar karena pengakuan beban berjalan atas pemasangan billboard untuk kontrak satu tahun yang berakhir Mei 2027 dan bunga atas aset hak guna.",
+   "Di sisi liabilitas, utang usaha pihak ketiga naik 83 persen menjadi Rp1,63 miliar dan beban akrual jangka pendek naik 46 persen menjadi Rp63,20 miliar, keduanya seiring progres pembangunan proyek yang belum jatuh tempo pembayarannya. Utang pajak naik 41 persen menjadi Rp1,21 miliar akibat kenaikan PPh final atas penjualan unit rumah dan ruko. Sebaliknya, liabilitas jangka panjang bank yang jatuh tempo dalam setahun turun 42 persen menjadi Rp19,45 miliar karena perusahaan mempercepat pelunasan sebagian utang pokok atas jaminan unit yang sudah terjual. Dari laporan arus kas, kas neto yang digunakan untuk aktivitas operasi masih negatif Rp39,60 miliar, tertutup oleh penerimaan pinjaman bank jangka panjang baru Rp77,29 miliar, sehingga saldo kas akhir periode tercatat Rp61,11 miliar, turun dari Rp75,33 miliar pada awal tahun."
+  ],
+  "fotoAdegan": "Construction workers plastering exterior walls of new terraced houses at a suburban residential development site, overcast afternoon light",
+  "takeaway": "Laporan ini condong positif karena laba sembilan bulan Natura City naik hampir 50 persen, dari Rp11,92 miliar menjadi Rp17,83 miliar, sejalan dengan kabar kenaikan laba yang sudah diumumkan lewat materi public expose sehari sebelumnya. Kenaikan laba ini langsung menambah saldo laba sehingga ekuitas perusahaan naik dari Rp884,95 miliar menjadi Rp902,79 miliar, pos yang dipantau pemegang saham karena mencerminkan kekayaan bersih yang jadi hak mereka. Yang perlu dicermati, arus kas dari kegiatan operasional masih negatif Rp39,60 miliar, artinya uang yang masuk dari penjualan rumah belum cukup menutup biaya operasional sehari-hari, meski defisitnya mengecil dibanding tahun lalu dan untuk sementara tertutup oleh pinjaman bank baru Rp77,29 miliar. Yang perlu dipantau berikutnya adalah public expose yang dijadwalkan 9 November 2026, saat manajemen biasanya memaparkan lebih rinci strategi penjualan dan proyeksi kinerja sisa tahun ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "post-fitch-turunkan-peringkat-obligasi-ke-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "POST: Fitch Turunkan Peringkat Obligasi ke [Gagal Bayar]",
+  "deck": "Fitch Ratings Indonesia menurunkan peringkat Obligasi I Pos Indonesia Tahun 2022 dari C(idn) menjadi D(idn), level yang menurut metodologi Fitch berarti status gagal bayar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T16:50:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/70ff8c3864_d5b9d5de1c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "Obligasi",
+   "Fitch Ratings"
+  ],
+  "body": [
+   "PT Fitch Ratings Indonesia menurunkan Peringkat Nasional Jangka Panjang atas Obligasi I Pos Indonesia Tahun 2022 dari C(idn) menjadi D(idn). Keputusan ini disampaikan Fitch melalui surat Nomor 203/DIR/RATLTR/X/2026 tertanggal 22 Oktober 2026, yang ditandatangani oleh Direktur Fitch Olly Prayudi dan dialamatkan kepada Direktur Utama PT Pos Indonesia (Persero), M. Iskandar Kunaefi. PT Pos Indonesia melaporkan penurunan ini ke Bursa Efek Indonesia pada 27 Oktober 2026 melalui Corporate Secretary Iwan Gunawan.",
+   "Menurut metodologi pemeringkatan Fitch, peringkat D(idn) menunjukkan status gagal bayar atas obligasi tersebut, naik satu tingkat dari peringkat sebelumnya C(idn). Dalam laporannya ke bursa, manajemen Pos Indonesia menyatakan bahwa penurunan peringkat ini mencerminkan peningkatan risiko kredit perseroan dan dapat memengaruhi persepsi serta kepercayaan investor terhadap kemampuan perusahaan memenuhi kewajiban keuangannya, termasuk berpotensi mempersulit akses pendanaan dan menaikkan biaya pendanaan ke depan.",
+   "Pos Indonesia menyatakan terus melakukan langkah penanganan kewajiban keuangan dan penguatan kondisi keuangan melalui koordinasi dengan para kreditur serta pemangku kepentingan terkait, sambil tetap memperhatikan peraturan perundang-undangan yang berlaku. Dokumen yang dilaporkan tidak menyebutkan nilai outstanding Obligasi I Pos Indonesia Tahun 2022 maupun tenggat waktu penyelesaian kewajiban tersebut."
+  ],
+  "fotoAdegan": "Postal distribution workers sorting parcels on a conveyor belt inside a large logistics warehouse, forklifts in the background",
+  "takeaway": "Ini jelas sinyal negatif, sebab D(idn) bukan sekadar peringatan risiko di masa depan, melainkan penetapan bahwa Pos Indonesia sudah berstatus gagal bayar atas obligasi tersebut menurut metodologi Fitch. Yang tersentuh langsung adalah kemampuan perusahaan membayar utang dan biaya pendanaannya ke depan, karena peringkat kredit yang jeblok membuat kreditur dan investor baru biasanya minta bunga lebih tinggi atau syarat lebih ketat sebelum mau memberi pinjaman baru, dan ini juga bisa menyeret kepercayaan pasar terhadap surat utang Pos Indonesia yang lain. Yang perlu dipantau berikutnya adalah hasil koordinasi perseroan dengan para kreditur dan pemangku kepentingan yang disebut dalam laporan ini, karena di situlah akan terlihat apakah kewajiban yang macet ini bisa diselesaikan lewat restrukturisasi atau justru berlanjut ke proses hukum. Laporan ini sendiri tidak menyebutkan nilai obligasi yang beredar maupun tenggat penyelesaian, sehingga publik perlu menanti keterbukaan informasi lanjutan dari Pos Indonesia atau Fitch untuk detail tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "imfi-siapkan-dana-rp593-54-miliar-lunasi-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "IMFI Siapkan Dana Rp593,54 Miliar [Lunasi] Obligasi",
+  "deck": "Indomobil Finance menyatakan telah menyiapkan dana Rp593,54 miliar untuk melunasi pokok dan bunga ke-20 obligasi seri C yang jatuh tempo 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T16:40:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9a1764e45a_b168b532b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IMFI",
+  "tags": [
+   "IMFI",
+   "obligasi",
+   "Indomobil Finance",
+   "pelunasan obligasi"
+  ],
+  "body": [
+   "PT Indomobil Finance Indonesia (IMFI) menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia bahwa perseroan telah menyiapkan dana sebesar Rp593.540.000.000, atau Rp593,54 miliar, untuk melunasi pokok sekaligus membayar bunga ke-20 Obligasi Berkelanjutan IV Indomobil Finance Tahap II Tahun 2021 Seri C. Kewajiban ini jatuh tempo pada 19 November 2026. Penyampaian ini merujuk pada Peraturan Bursa Efek Indonesia Nomor I.E tentang Kewajiban Penyampaian Informasi, yang mewajibkan emiten penerbit obligasi melaporkan kesiapan dana menjelang tanggal pembayaran.",
+   "Surat bernomor CORFIN/894/IMFI/X/2026 itu ditandatangani oleh Paulus Antonius Larosa selaku Direktur IMFI pada 27 Oktober 2026, dengan tembusan kepada PT Bank Mega Tbk yang bertindak sebagai wali amanat atau pihak yang mewakili kepentingan pemegang obligasi. Laporan ke bursa sendiri dikirim atas nama Fajar Setiawan, Corporate Legal Department Head perseroan.",
+   "Angka ke-20 pada pembayaran ini menunjukkan bahwa seri C dari Tahap II Obligasi Berkelanjutan IV tersebut sudah membayar kupon bunga sebanyak 19 kali sebelumnya sejak diterbitkan tahun 2021, dan pembayaran kali ini sekaligus menjadi pelunasan pokok utangnya karena bertepatan dengan tanggal jatuh tempo."
+  ],
+  "fotoAdegan": "Rows of new cars parked at an automotive dealership lot in Jakarta, customers walking between vehicles, bright afternoon light",
+  "takeaway": "Laporan ini condong positif bagi IMFI karena menunjukkan perseroan sudah mengamankan dana sebelum tenggat, bukan baru mencari dana menjelang hari pembayaran. Yang tersentuh di sini adalah arus kas perusahaan, yaitu uang tunai yang keluar masuk untuk operasional dan membayar kewajiban. Pelunasan pokok sebesar Rp593,54 miliar berarti utang obligasi IMFI akan berkurang sebesar itu setelah 19 November 2026, yang pada gilirannya meringankan beban bunga yang harus dibayar perseroan ke depannya. Bagi pemegang obligasi, kabar kesiapan dana ini mengurangi kekhawatiran gagal bayar menjelang jatuh tempo. Yang perlu dipantau selanjutnya adalah apakah pembayaran benar terealisasi pada 19 November 2026 sesuai jadwal, serta apakah IMFI masih memiliki sisa seri atau tahap lain dari program Obligasi Berkelanjutan IV yang belum jatuh tempo.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bbca-catat-laba-bersih-rp45-2-triliun-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "BBCA Catat Laba Bersih [Rp45,2 Triliun] per September 2026",
+  "deck": "BBCA mencetak laba bersih Rp45,24 triliun pada sembilan bulan 2026, naik 4,2 persen, didukung pertumbuhan kredit dan simpanan nasabah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T16:32:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027164104-65005-0/FinancialStatement-2026-III-BBCA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBCA",
+  "tags": [
+   "BBCA",
+   "laporan keuangan",
+   "laba bersih",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Central Asia Tbk (BBCA) membukukan laba bersih konsolidasian Rp45,24 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 4,2 persen dari Rp43,41 triliun pada periode yang sama tahun sebelumnya. Dari jumlah itu, laba yang dapat diatribusikan kepada pemegang saham induk tercatat Rp45,22 triliun, sehingga laba bersih per saham dasar dan dilusian naik dari Rp352 menjadi Rp368 per lembar.",
+   "Total aset BBCA per akhir September 2026 mencapai Rp1.641,51 triliun, bertambah 3,45 persen dari Rp1.586,83 triliun pada akhir 2025. Penyaluran kredit menjadi pendorong utama, dengan saldo kredit bersih naik 7,24 persen dari Rp940,48 triliun menjadi Rp1.008,55 triliun. Di sisi pendanaan, simpanan nasabah tumbuh 4,21 persen dari Rp1.233,80 triliun menjadi Rp1.285,74 triliun, sementara total ekuitas naik tipis 0,70 persen dari Rp281,69 triliun menjadi Rp283,66 triliun.",
+   "Pendapatan bunga dan syariah bersih BBCA naik 1,74 persen menjadi Rp65,06 triliun, didukung pendapatan provisi dan komisi yang melonjak 8,25 persen menjadi Rp15,58 triliun. Beban penyisihan kerugian penurunan nilai aset, yaitu dana yang dicadangkan bank untuk menutup potensi kredit bermasalah, justru turun 21,83 persen dari Rp3,52 triliun menjadi Rp2,75 triliun. Perseroan juga menambah pembelian kembali sahamnya sendiri (treasury stock) dari Rp2,15 triliun menjadi Rp3,46 triliun sepanjang sembilan bulan tersebut. Laporan ini merupakan laporan keuangan interim per 30 September 2026 yang belum diaudit."
+  ],
+  "fotoAdegan": "Bank tellers assisting customers at a modern banking hall counter in Jakarta, employees in neat uniforms, soft daylight through glass windows",
+  "takeaway": "Laporan kuartal ketiga ini condong positif bagi BBCA, karena laba bersih, penyaluran kredit, simpanan nasabah, dan ekuitas semuanya tumbuh, sementara beban cadangan kerugian kredit justru menyusut, tanda kualitas aset yang terjaga. Yang perlu dicermati adalah ekuitas, yakni kekayaan bersih perusahaan setelah dikurangi utang, yang hanya naik 0,70 persen, jauh lebih lambat dari laju kenaikan laba, karena BCA menambah pembelian kembali sahamnya sendiri hingga Rp3,46 triliun, naik sekitar Rp1,31 triliun dari akhir 2025. Pembelian kembali ini mengurangi jumlah saham yang beredar di pasar, sehingga ikut mendongkrak laba bersih per saham meski kenaikan labanya sendiri lebih moderat. Karena laporan ini belum diaudit, publik baru bisa memastikan angka-angka ini lewat laporan keuangan tahunan teraudit yang lazimnya terbit awal 2027, sembari memantau apakah laju pertumbuhan kredit dan simpanan bisa bertahan sampai akhir tahun.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "jpfa-capex-2026-diproyeksi-tembus-rp4-triliun",
+  "category": "Aksi Korporasi",
+  "title": "JPFA: Capex 2026 Diproyeksi Tembus [Rp4 Triliun]",
+  "deck": "Dalam public expose tahunan 22 Oktober 2026, manajemen JPFA membahas realisasi buyback, divestasi Vaksindo, dan capex semester I yang sudah Rp2,16 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T16:30:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/be7b2e0891_c116145e96.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JPFA",
+  "tags": [
+   "JPFA",
+   "Japfa Comfeed",
+   "Public Expose",
+   "Capex"
+  ],
+  "body": [
+   "JAPFA Comfeed Indonesia (JPFA) menggelar public expose tahunan pada 22 Oktober 2026 pukul 10.30 sampai 11.50 WIB di Hotel JS Luwansa, Jakarta Selatan, dihadiri 27 peserta di luar jajaran manajemen dan karyawan perseroan. Tiga direktur hadir dalam acara ini, yaitu Leo Handoko Laksono, Rachmat Indrajaya, dan Arif Widjaja, yang memaparkan kinerja perseroan hingga 30 Juni 2026 sekaligus menjawab pertanyaan dari analis dan media yang hadir.",
+   "Menjawab pertanyaan soal program pembelian kembali saham (buyback) yang mandatnya disetujui dalam RUPS April lalu, Direktur Erwin Djohan mengatakan perseroan belum menetapkan target jumlah atau nilai pembelian, dan pelaksanaannya disesuaikan dengan kondisi likuiditas perseroan. Soal rencana divestasi anak usaha Vaksindo, manajemen mengakui rasio imbal hasil ekuitas (ROE) akan turun begitu transaksi selesai, namun menyebut penurunan itu terjadi karena dana dari divestasi menambah ekuitas perseroan, yang menurut mereka membuka ruang untuk investasi baru di bisnis hulu maupun hilir. Di sisi keberlanjutan, Direktur Elvina Apandi Hermansyah menyebut target bebas batu bara yang semula dipatok untuk 2040 sudah tercapai lebih cepat, dan perseroan kini mengincar target net zero untuk emisi langsung dari operasionalnya (Scope 1) pada 2030 serta penerapan 100 persen kandang tertutup baru.",
+   "Terkait belanja modal, Erwin menyebut capex semester satu 2026 sudah mencapai Rp2,16 triliun karena bertumpuknya penyelesaian proyek 2025 dengan proyek baru di 2026, dan memperkirakan realisasi capex sepanjang tahun ini bisa menembus di atas Rp4 triliun. Sekitar 30 persen dari belanja itu dialokasikan untuk peremajaan kandang lama, sementara sisanya untuk proyek baru seperti pabrik pakan udang di Jawa Timur, pabrik pakan unggas, rumah potong hewan baru, dan lini produksi makanan olahan siap masak. Soal dividen, manajemen menegaskan belum ada keputusan pembagian dividen interim tahun ini, sementara dividen tahun buku 2025 yang sudah dibagikan di RUPS lalu sekitar Rp140 per saham dengan laba per saham sekitar Rp344, meski manajemen sendiri menyampaikan angka itu dengan tidak terlalu yakin. Manajemen tidak memberikan target atau proyeksi resmi laba untuk 2026 maupun 2027, hanya menyebut tahun lalu pendapatan konsolidasi mencapai Rp60 triliun dengan laba bersih sekitar Rp4 triliun, dan menyebut kenaikan harga bahan baku sebagai tantangan utama tahun ini."
+  ],
+  "fotoAdegan": "Workers checking rows of poultry feed sacks and grain silos inside a large feed mill, soft morning light through open doors",
+  "takeaway": "Laporan ini condong netral karena isinya menegaskan rencana yang sudah ada, bukan keputusan baru: tidak ada target buyback, tidak ada kepastian dividen interim, dan tidak ada proyeksi laba resmi untuk tahun ini maupun tahun depan. Dua pos yang bergerak adalah ekuitas, yang diperkirakan membesar begitu dana divestasi Vaksindo masuk sehingga rasio imbal hasil ekuitas (ROE) otomatis terlihat turun meski bukan karena kinerja memburuk, dan arus kas keluar untuk belanja modal yang diproyeksikan tembus di atas Rp4 triliun tahun ini, lebih besar dari perkiraan awal dan karenanya dicermati pelaku pasar karena mengurangi kas bebas jangka pendek. Yang perlu dipantau berikutnya adalah realisasi transaksi divestasi Vaksindo, keputusan resmi soal dividen interim 2026, dan apakah pertumbuhan pendapatan semester satu bisa dipertahankan sampai tutup tahun di tengah kenaikan harga bahan baku yang disebut manajemen sebagai tantangan utama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jarr-catat-laba-melonjak-56-ke-rp349-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "JARR Catat Laba [Melonjak] 56% ke Rp349 Miliar di Kuartal III 2026",
+  "deck": "Laba bersih JARR naik 56 persen jadi Rp349,27 miliar pada kuartal III 2026, didorong penjualan yang tumbuh 14 persen menjadi Rp3,53 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T16:24:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027163459-64935-0/FinancialStatement-2026-III-JARR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JARR",
+  "tags": [
+   "JARR",
+   "laporan keuangan",
+   "laba bersih",
+   "kelapa sawit"
+  ],
+  "body": [
+   "PT Jhonlin Agro Raya Tbk (JARR) melaporkan laba bersih senilai Rp349,27 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik 56 persen dari Rp224,0 miliar pada periode yang sama tahun sebelumnya. Kenaikan ini ditopang penjualan yang tumbuh 14,2 persen menjadi Rp3,53 triliun dari Rp3,09 triliun, sementara laba kotor naik lebih tajam sebesar 32,2 persen menjadi Rp710,2 miliar. Laba usaha naik 33 persen menjadi Rp491,4 miliar, dan laba per saham dasar naik dari Rp24,27 menjadi Rp37,84. Laporan keuangan interim ini belum diaudit dan ditandatangani Direktur Utama Indra Irawan serta Direktur Keuangan Temmy Iskandar di Batulicin pada 26 Oktober 2026.",
+   "Dari sisi posisi keuangan, jumlah aset perusahaan per 30 September 2026 tercatat Rp4,46 triliun, naik dari Rp4,02 triliun pada akhir 2025. Jumlah ekuitas naik 15,1 persen menjadi Rp2,21 triliun dari Rp1,92 triliun, terutama dari akumulasi laba yang bertambah menjadi Rp867,2 miliar. Jumlah liabilitas naik 7,4 persen menjadi Rp2,26 triliun, dengan utang bank jangka panjang justru turun dari Rp1,66 triliun menjadi Rp1,51 triliun, sementara utang bank yang jatuh tempo dalam satu tahun naik dari Rp126 miliar menjadi Rp187,75 miliar. Yang menonjol, piutang usaha dari pihak berelasi melonjak dari Rp60,49 miliar menjadi Rp595,73 miliar, dan utang usaha ke pihak berelasi naik dari Rp235,2 miliar menjadi Rp455,76 miliar, mencerminkan transaksi yang membesar dengan perusahaan dalam satu grup, termasuk induk usaha PT Eshan Agro Sentosa dan induk utama PT Jhonlin Group.",
+   "Arus kas dari aktivitas operasi mencapai Rp235,04 miliar pada sembilan bulan 2026, lebih tinggi dari Rp153,77 miliar pada periode yang sama tahun sebelumnya. Sebagian kas yang dihasilkan dipakai untuk membayar dividen tunai Rp59,99 miliar, melunasi sebagian utang bank senilai Rp90 miliar, serta belanja modal untuk tanaman produktif Rp41,86 miliar dan aset tetap Rp5,48 miliar. Posisi kas dan setara kas pada akhir periode sedikit turun menjadi Rp388,69 miliar dari Rp392,44 miliar pada akhir 2025."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested oil palm fruit bunches onto a truck on a tropical plantation, morning light",
+  "takeaway": "Laporan ini condong positif bagi JARR, karena laba bersih naik 56 persen, ekuitas bertambah 15 persen dari akumulasi laba, dan arus kas dari operasional meningkat signifikan, sinyal bahwa bisnis intinya memang menghasilkan kas, bukan cuma laba di atas kertas. Yang perlu dicermati adalah melonjaknya piutang usaha dari pihak berelasi hampir sepuluh kali lipat menjadi Rp595,73 miliar, karena piutang ke perusahaan dalam satu grup biasanya lebih sulit ditagih tepat waktu dibanding piutang ke pihak ketiga, sehingga memengaruhi kualitas arus kas ke depan meski belum tentu bermasalah. Laba per saham dasar, yaitu laba bersih dibagi jumlah saham yang beredar, ikut naik dari Rp24,27 menjadi Rp37,84, angka yang dipakai pemegang saham untuk menilai seberapa besar bagian laba perusahaan yang jadi hak mereka per lembar saham. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk periode penuh 2026, karena laporan kuartal III ini masih berstatus tidak diaudit, serta perkembangan saldo piutang dan utang ke pihak berelasi pada laporan kuartal IV mendatang.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bina-jadwalkan-pelaksanaan-pmthmetd-3-november-2026",
   "category": "Aksi Korporasi",
   "title": "BINA Jadwalkan Pelaksanaan [PMTHMETD] 3 November 2026",

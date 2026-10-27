@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "buva-jelaskan-volatilitas-tegaskan-dilusi-rights-issue-203",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Jelaskan Volatilitas, Tegaskan Dilusi [Rights Issue] 203%",
+  "deck": "BUVA menjawab permintaan BEI soal volatilitas transaksi dan menegaskan tidak ada info material baru, kecuali rights issue yang bisa menambah saham hingga 203 persen.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "rights issue",
+   "PMHMETD II",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3d3813f435_149ed8e2ff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "labs-laba-bersih-anjlok-40-kas-perusahaan-susut-tajam",
+  "category": "Aksi Korporasi",
+  "title": "LABS: Laba Bersih Anjlok 40%, Kas Perusahaan [Susut] Tajam",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih LABS turun hampir 40 persen secara tahunan, sementara kas perusahaan menyusut dari Rp41,16 miliar menjadi Rp3,67 miliar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LABS",
+   "laporan keuangan",
+   "arus kas",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027054427-64794-0/FinancialStatement-2026-III-LABS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "71-000-rumah-subsidi-diakadkan-serentak-di-malang",
   "category": "Bisnis",
   "title": "71.000 Rumah Subsidi Diakadkan Serentak di [Malang]",
@@ -6409,38 +6441,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-3829-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-resmikan-jv-baterai-goin-bareng-oscarmas-pegang-51",
-  "category": "Aksi Korporasi",
-  "title": "LABA Resmikan JV Baterai [GOIN] Bareng Oscarmas, Pegang 51%",
-  "deck": "Green Power Group (LABA) dan Oscarmas menandatangani akta pendirian PT Gobattery Solusi Indonesia (GOIN), perusahaan patungan penyedia sewa baterai untuk truk listrik, modal dasar Rp10 miliar.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LABA",
-   "Green Power Group",
-   "GOIN",
-   "Oscarmas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f88018f5a8_bd77823d0c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-temuan-bpk-rp8-5-miliar-di-proyek-tol-palembang-betung",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: Temuan BPK Rp8,5 Miliar di Proyek Tol [Palembang-Betung]",
-  "deck": "Waskita Karya menjelaskan ke BEI soal temuan BPK atas proyek Tol Palembang-Betung yang dikerjakan anak usahanya, WST, senilai Rp8,5 miliar, yang sudah dipotong dari tagihan ke Hutama Karya.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "BPK",
-   "Hutama Karya",
-   "Tol Trans Sumatera"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c52f752d09_a72bee01bf.pdf",
   "sourceLabel": "IDX"
  }
 ];

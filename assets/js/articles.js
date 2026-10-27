@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "buva-jelaskan-volatilitas-tegaskan-dilusi-rights-issue-203",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Jelaskan Volatilitas, Tegaskan Dilusi [Rights Issue] 203%",
+  "deck": "BUVA menjawab permintaan BEI soal volatilitas transaksi dan menegaskan tidak ada info material baru, kecuali rights issue yang bisa menambah saham hingga 203 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T06:59:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3d3813f435_149ed8e2ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "rights issue",
+   "PMHMETD II",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Bukit Uluwatu Villa Tbk (BUVA) memberikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan klarifikasi bernomor S-13332/BEI.PP2/10-2026 tertanggal 22 Oktober 2026 terkait volatilitas transaksi saham perseroan. Dalam surat balasan yang diteken Corporate Secretary Rian Fachmi pada 27 Oktober 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik, yang dapat mempengaruhi harga saham atau keputusan investasi pemodal. Perseroan juga menyebut tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan dan penjaminan saham.",
+   "Satu-satunya aksi korporasi yang sedang berjalan dan diakui berdampak pada jumlah saham tercatat adalah Penambahan Modal dengan Memberikan Hak Memesan Efek Terlebih Dahulu II (PMHMETD II) atau rights issue kedua. Perseroan telah menyampaikan Tambahan Informasi Penting dan Prospektus terkait aksi ini pada 6 Oktober 2026. Berdasarkan dokumen tersebut, BUVA berencana menerbitkan saham baru sebanyak-banyaknya 50 miliar lembar, setara maksimum 203,11 persen dari jumlah saham yang telah ditempatkan dan disetor penuh saat ini. Di luar rights issue tersebut, perseroan menegaskan belum memiliki rencana aksi korporasi lain dalam tiga bulan mendatang yang akan berdampak pada status pencatatan sahamnya di bursa."
+  ],
+  "fotoAdegan": "Cliffside villa resort terrace with rows of empty lounge chairs overlooking the ocean, soft morning light, Bali coastline.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama karena rights issue PMHMETD II berpotensi menambah saham beredar sampai 203,11 persen, jauh lebih besar dari jumlah saham yang sudah beredar saat ini. Pos yang langsung tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu 50 miliar lembar saham baru itu benar-benar terbit, laba perusahaan harus dibagi ke basis saham yang jauh lebih besar sehingga nilai laba per lembar bagi pemegang saham lama bisa tergerus kalau laba tidak tumbuh sepadan. Di sisi lain, dana segar dari rights issue ini akan menambah ekuitas perusahaan, meski besarnya porsi saham baru menunjukkan skala penambahan modal yang jauh melampaui ukuran perusahaan saat ini. Yang perlu dipantau berikutnya adalah pelaksanaan riil PMHMETD II itu sendiri, termasuk harga pelaksanaan dan periode perdagangan hak sesuai prospektus tambahan 6 Oktober 2026, karena dari situ baru bisa diketahui berapa banyak saham baru yang benar-benar terbit dan untuk apa dananya dipakai.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "labs-laba-bersih-anjlok-40-kas-perusahaan-susut-tajam",
+  "category": "Aksi Korporasi",
+  "title": "LABS: Laba Bersih Anjlok 40%, Kas Perusahaan [Susut] Tajam",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih LABS turun hampir 40 persen secara tahunan, sementara kas perusahaan menyusut dari Rp41,16 miliar menjadi Rp3,67 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T05:29:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027054427-64794-0/FinancialStatement-2026-III-LABS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LABS",
+  "tags": [
+   "LABS",
+   "laporan keuangan",
+   "arus kas",
+   "buyback saham"
+  ],
+  "body": [
+   "PT UBC Medical Indonesia Tbk (LABS) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir pada 30 September 2026. Dokumen yang ditandatangani Direktur Utama Franciscus Xaverius Yoshua Raintjung di Jakarta pada 26 Oktober 2026 itu menunjukkan total aset perusahaan turun 3,3 persen menjadi Rp220,64 miliar, dari Rp228,19 miliar pada akhir 2025. Penurunan paling mencolok terjadi pada kas dan bank, yang susut 91 persen dari Rp41,16 miliar menjadi hanya Rp3,67 miliar dalam sembilan bulan.",
+   "Dari sisi kinerja, pendapatan LABS justru tumbuh 11,2 persen menjadi Rp150,55 miliar, dari Rp135,44 miliar pada periode yang sama tahun lalu. Namun kenaikan itu tidak terbawa ke laba bersih, yang malah turun hampir 40 persen menjadi Rp7,19 miliar dari Rp11,96 miliar. Penyebabnya, beban penjualan naik menjadi Rp23,65 miliar dan beban umum serta administrasi naik menjadi Rp23,74 miliar, ditambah rugi selisih kurs yang melonjak tiga kali lipat menjadi Rp3,02 miliar dari sekitar Rp980 juta pada periode sebelumnya.",
+   "Laporan arus kas menunjukkan kegiatan operasional perusahaan menyedot kas neto Rp18,08 miliar, membesar dari Rp7,45 miliar pada sembilan bulan 2025. Perusahaan juga membelanjakan Rp7,91 miliar untuk membeli aset tetap, serta menggunakan Rp11,50 miliar untuk aktivitas pendanaan, termasuk Rp7,6 miliar untuk membeli kembali saham sendiri. Pembelian kembali ini membuat jumlah saham beredar turun dari 3,95 miliar menjadi 3,91 miliar lembar dengan nilai nominal Rp20 per saham. Gabungan seluruh aktivitas itu membuat kas perusahaan berkurang Rp37,49 miliar sepanjang periode, sementara total ekuitas relatif stabil di Rp152,05 miliar.",
+   "Anak usaha LABS, PT Esora Medika Indonesia yang bergerak di industri alat kesehatan dan telah beroperasi komersial sejak 2024 di Jakarta, tercatat memiliki total aset Rp44,03 miliar dengan kepemilikan LABS sebesar 99,99 persen."
+  ],
+  "fotoAdegan": "Warehouse workers stacking boxes of medical supplies onto pallets under bright fluorescent lights, forklift nearby",
+  "takeaway": "Laporan ini condong negatif bagi fundamental LABS, karena meski pendapatan naik dua digit, laba bersih malah tergerus hampir 40 persen dan kas perusahaan terkikis tajam dalam sembilan bulan. Yang perlu dicermati adalah arus kas dari operasi, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan bisnis utama, dan angkanya minus serta makin membesar, tanda bisnis inti LABS belum menghasilkan kas sendiri untuk menutup biaya operasionalnya sehari-hari. Kekurangan itu ditambal dari kas yang tersisa, sehingga saldo kas anjlok drastis, sementara pembelian kembali saham senilai Rp7,6 miliar menambah tekanan pada kas meski jumlah saham beredar yang lebih sedikit bisa membuat laba per saham ke depan terlihat lebih besar. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV dan laporan tahunan 2026, untuk melihat apakah arus kas operasi bisa kembali positif dan apakah saldo kas yang kini tinggal Rp3,67 miliar cukup membiayai operasional pada kuartal berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "71-000-rumah-subsidi-diakadkan-serentak-di-malang",
   "category": "Bisnis",
   "title": "71.000 Rumah Subsidi Diakadkan Serentak di [Malang]",

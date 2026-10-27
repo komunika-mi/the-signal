@@ -71,6 +71,54 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "lapd-terbitkan-2-miliar-saham-baru-dibayar-saham-tambang-inbreng",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Terbitkan 2 Miliar Saham Baru, Dibayar Saham Tambang [Inbreng]",
+  "deck": "LAPD akan menerbitkan hingga 2 miliar saham baru lewat rights issue; pengendali JSI membayar hak sahamnya pakai saham tambang batu bara, bukan uang tunai.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "HMETD",
+   "tambang batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4621dcab4a_79929ad8d2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "antm-laba-bersih-9m26-tumbuh-46-jadi-rp9-66-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ANTM: Laba Bersih 9M26 [Tumbuh] 46% Jadi Rp9,66 Triliun",
+  "deck": "PT ANTAM membukukan laba bersih Rp9,66 triliun pada sembilan bulan pertama 2026, naik 46%, ditopang penjualan emas dan nikel yang tumbuh dua digit.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANTM",
+   "laba bersih",
+   "pertambangan",
+   "emas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4f2ed157e5_2d4734d3b5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bach-aset-naik-88-usai-ipo-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "BACH: Aset Naik 88% Usai IPO, Arus Kas Operasi [Negatif]",
+  "deck": "Total aset BACH melonjak 88,41 persen jadi Rp2,32 triliun pascapenambahan utang bank dan IPO, sementara arus kas operasi tercatat negatif Rp400,13 miliar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BACH",
+   "laporan keuangan",
+   "IPO",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027215533-65099-0/FinancialStatement-2026-III-BACH.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "asli-catat-laba-rp5-8-miliar-aset-naik-47-per-september-2026",
   "category": "Aksi Korporasi",
   "title": "ASLI Catat [Laba] Rp5,8 Miliar, Aset Naik 47% per September 2026",
@@ -6403,54 +6451,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f4e8d34933_33e284b2b2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prtl-catat-obligasi-rp741-miliar-di-bei-mulai-21-oktober",
-  "category": "Aksi Korporasi",
-  "title": "PRTL catat [obligasi] Rp741 miliar di BEI mulai 21 Oktober",
-  "deck": "BEI mencatatkan dua seri obligasi Protelindo senilai Rp741,055 miliar mulai 21 Oktober 2026, dengan bunga 7,55-7,65 persen per tahun dan rating AAA dari Fitch.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRTL",
-   "obligasi korporasi",
-   "pasar modal",
-   "menara telekomunikasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ea9fa9688f_f6ef77f08e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbre-tukar-utang-pemegang-saham-jadi-pinjaman-rp70-miliar",
-  "category": "Aksi Korporasi",
-  "title": "CBRE Tukar Utang Pemegang Saham Jadi [Pinjaman] Rp70 Miliar",
-  "deck": "CBRE menandatangani ulang perjanjian pinjaman Rp70 miliar dengan pemegang saham utama dan afiliasinya untuk melunasi utang lama, dengan bunga naik jadi 6,5 persen.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBRE",
-   "transaksi afiliasi",
-   "pinjaman",
-   "pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a17854af4_efbe6e5e23.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdka-resmi-catatkan-obligasi-rp4-12-triliun-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "MDKA Resmi Catatkan Obligasi Rp4,12 Triliun di [BEI]",
-  "deck": "Obligasi Berkelanjutan V Tahap IV senilai Rp4,12 triliun milik MDKA mulai dicatatkan di BEI pada 21 Oktober 2026, terbagi dua seri dengan bunga tetap 8,25 persen dan 10 persen per tahun.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDKA",
-   "obligasi",
-   "BEI",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/19ca095a94_3ee1d6b21a.pdf",
   "sourceLabel": "IDX"
  }
 ];

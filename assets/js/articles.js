@@ -115,6 +115,85 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "lapd-terbitkan-2-miliar-saham-baru-dibayar-saham-tambang-inbreng",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Terbitkan 2 Miliar Saham Baru, Dibayar Saham Tambang [Inbreng]",
+  "deck": "LAPD akan menerbitkan hingga 2 miliar saham baru lewat rights issue; pengendali JSI membayar hak sahamnya pakai saham tambang batu bara, bukan uang tunai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T22:50:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4621dcab4a_79929ad8d2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "HMETD",
+   "tambang batu bara"
+  ],
+  "body": [
+   "Leyand International Tbk (LAPD) berencana menerbitkan saham baru sebanyak-banyaknya 2.000.000.000 lembar saham Seri B dengan nilai nominal Rp25 per saham lewat mekanisme Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu kedua (PMHMETD II). Jumlah ini setara 50,42 persen dari saham yang sudah beredar sebelum rights issue. Harga pelaksanaan indikatif ditetapkan Rp30 per saham, dan dana hasilnya akan dipakai untuk akuisisi dan modal kerja. Rencana ini akan dimintakan persetujuan dalam RUPSLB pada Kamis, 29 Oktober 2026, dua hari setelah keterbukaan informasi ini terbit.",
+   "PT JSI Sinergi Mas, pemegang saham pengendali LAPD yang menguasai 2.022.838.500 saham atau 51 persen dari seluruh saham perusahaan, akan melaksanakan seluruh haknya sebanyak 1.019.999.964 HMETD untuk memperoleh jumlah saham baru yang sama, senilai Rp30.599.998.920 berdasarkan harga indikatif. Yang menarik, JSI tidak membayar dengan uang tunai sama sekali. Pembayaran dilakukan lewat penyetoran aset berupa 87,50 persen saham PT Bersaudara Sinergi Sejahtera (BSS), perusahaan jasa penunjang pertambangan batu bara, yang menurut penilai KJPP Syarif, Endang dan Rekan bernilai Rp38.851.000.000 per tanggal penilaian 19 Oktober 2026. Karena nilai saham BSS yang disetor lebih besar dari kewajiban HMETD JSI, selisih sebesar Rp8.251.001.080 akan ditutup dengan JSI berperan sebagai pembeli siaga atas maksimal 275.033.369 saham baru yang tidak diambil pemegang HMETD lain, dibayar dengan sisa saham BSS, atau LAPD membayar selisihnya secara tunai kepada JSI dari dana hasil rights issue. Dengan skema ini, LAPD akan menjadi pengendali baru BSS.",
+   "Penyetoran saham BSS tersebut wajib dilaksanakan paling lambat enam bulan sejak tanggal penilaian, yaitu paling lambat 30 Desember 2026. Jika harga pelaksanaan final yang tercantum dalam prospektus berbeda dari harga indikatif Rp30, porsi JSI sebagai pembeli siaga dan atau pembayaran tunai oleh perusahaan akan disesuaikan, dengan syarat nilai saham BSS yang disetor tidak melebihi nilai pasarnya menurut laporan penilaian."
+  ],
+  "fotoAdegan": "Coal mining support equipment and trucks parked at a dusty open contractor yard in Indonesia, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham LAPD, karena menambah saham beredar sampai 50,42 persen sementara pemegang saham pengendali JSI sama sekali tidak menyuntikkan uang tunai baru, melainkan menukar haknya dengan saham perusahaan jasa tambang batu bara senilai Rp38,85 miliar. Dua pos yang tersentuh: jumlah saham beredar yang melonjak membuat laba per saham (keuntungan yang jadi bagian tiap lembar saham) berisiko terdilusi bagi pemegang saham publik yang tidak menebus haknya, sementara dari sisi ekuitas perusahaan memang bertambah aset berupa kepemilikan di BSS, tapi bukan kas segar yang bisa langsung dipakai menutup kebutuhan modal kerja atau utang. Konteksnya juga perlu diingat, laporan sebelumnya sudah mengungkap ekuitas LAPD negatif Rp2,65 miliar, sehingga penambahan modal lewat aset alih-alih uang tunai ini belum tentu memperbaiki kondisi likuiditas perusahaan secara langsung. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 29 Oktober 2026 yang akan menentukan apakah rencana ini disetujui pemegang saham, serta tenggat penyetoran saham BSS paling lambat 30 Desember 2026 yang jadi penentu apakah transaksi ini benar-benar terlaksana.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "antm-laba-bersih-9m26-tumbuh-46-jadi-rp9-66-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ANTM: Laba Bersih 9M26 [Tumbuh] 46% Jadi Rp9,66 Triliun",
+  "deck": "PT ANTAM membukukan laba bersih Rp9,66 triliun pada sembilan bulan pertama 2026, naik 46%, ditopang penjualan emas dan nikel yang tumbuh dua digit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T22:48:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4f2ed157e5_2d4734d3b5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANTM",
+  "tags": [
+   "ANTM",
+   "laba bersih",
+   "pertambangan",
+   "emas"
+  ],
+  "body": [
+   "PT ANTAM (Persero) Tbk (ANTM) mencatatkan laba periode berjalan sebesar Rp9,66 triliun pada sembilan bulan pertama 2026 (9M26), naik 46% dari Rp6,61 triliun pada periode yang sama tahun sebelumnya. EBITDA perusahaan naik 45% menjadi Rp13,48 triliun dari Rp9,33 triliun. Laba kotor tercatat Rp15,56 triliun, tumbuh 42% dari Rp10,98 triliun, sementara laba usaha naik 53% menjadi Rp12,05 triliun dari Rp7,89 triliun. Laba bersih per saham dasar naik 48% menjadi Rp367,78 dari Rp248,62. Direktur Utama ANTAM, Untung Budiharto, menyatakan capaian ini menunjukkan kemampuan perusahaan menjaga momentum pertumbuhan di tengah dinamika industri pertambangan.",
+   "Dari sisi fundamental keuangan, total aset ANTAM naik 24% menjadi Rp59,74 triliun dari Rp48,07 triliun, sementara ekuitas naik 17% menjadi Rp41,22 triliun dari Rp35,20 triliun. Kas dan setara kas tumbuh 14% menjadi Rp10,54 triliun, dan arus kas bersih dari aktivitas operasi naik 26% menjadi Rp5,06 triliun, didukung penerimaan kas dari pelanggan yang mencapai Rp87,92 triliun, naik 29% dari Rp68,24 triliun. Penjualan bersih perusahaan tercatat Rp88,48 triliun, tumbuh 23% dari Rp72,03 triliun, dengan penjualan domestik menyumbang Rp83,86 triliun atau 95% dari total penjualan, didorong permintaan dalam negeri atas emas, bijih nikel, dan bijih bauksit.",
+   "Berdasarkan segmen, emas tetap jadi penyumbang terbesar dengan 77% dari total penjualan, mencapai Rp68,41 triliun, naik 17% dari Rp58,67 triliun, dengan volume penjualan 25.217 kg dan produksi tambang 634 kg. Segmen nikel (feronikel dan bijih nikel) menyumbang 19% penjualan dengan pendapatan Rp16,98 triliun, naik 52% dari Rp11,15 triliun. Produksi bijih nikel mencapai 12,16 juta wet metric ton (wmt) dengan penjualan 10,73 juta wmt, sementara produksi feronikel tercatat 11.638 ton nikel dalam feronikel (TNi) dan penjualannya naik 71% menjadi 13.971 TNi dari 8.182 TNi. Segmen bauksit dan alumina menyumbang 3% penjualan senilai Rp2,64 triliun, naik 35%, dengan produksi bauksit 2 juta wmt, penjualan bauksit naik 49% menjadi 1,64 juta wmt, produksi alumina 153.399 ton (naik 14%), dan penjualan alumina 146.642 ton (naik 9%). Direktur Keuangan dan Manajemen Risiko ANTAM, Arini Kasmira, menyebut hasil ini didukung pengelolaan modal kerja yang efektif dan pengendalian biaya yang disiplin."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting ore conveyor belts at an open-pit nickel mine, heavy excavators in the background, daylight",
+  "takeaway": "Laporan ini condong positif bagi ANTAM, karena pertumbuhan laba, margin, dan kas terjadi merata di hampir semua lini bisnis tanpa terlihat ada tambahan utang baru dalam dokumen ini. Yang tersentuh di sini adalah ekuitas, arus kas, dan laba per saham: ekuitas naik 17% menandakan modal sendiri perusahaan membesar dari hasil usaha, bukan dari suntikan modal baru, sementara arus kas operasi yang tumbuh 26% penting karena menunjukkan bisnis inti benar-benar menghasilkan uang tunai, bukan cuma laba di atas kertas. Laba per saham yang naik 48% berarti setiap lembar saham yang dipegang investor mewakili bagian laba yang lebih besar dibanding tahun lalu. Yang perlu dipantau selanjutnya adalah apakah tren kenaikan harga dan volume penjualan emas serta nikel ini bisa terjaga hingga laporan keuangan audit tahun penuh 2026 terbit, mengingat penjualan ANTAM masih sangat bergantung pada pasar domestik yang menyumbang 95% dari total penjualan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bach-aset-naik-88-usai-ipo-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "BACH: Aset Naik 88% Usai IPO, Arus Kas Operasi [Negatif]",
+  "deck": "Total aset BACH melonjak 88,41 persen jadi Rp2,32 triliun pascapenambahan utang bank dan IPO, sementara arus kas operasi tercatat negatif Rp400,13 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T21:43:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027215533-65099-0/FinancialStatement-2026-III-BACH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BACH",
+  "tags": [
+   "BACH",
+   "laporan keuangan",
+   "IPO",
+   "arus kas"
+  ],
+  "body": [
+   "PT Bach Multi Global Tbk (BACH) menyampaikan surat penjelasan kepada Bursa Efek Indonesia terkait perubahan lebih dari 20 persen pada pos total aset dan total liabilitas dalam laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset perusahaan tercatat Rp2,32 triliun per akhir September 2026, naik 88,41 persen atau Rp1,09 triliun dari posisi akhir Desember 2025 yang sebesar Rp1,23 triliun. Kenaikan ini terutama berasal dari piutang usaha yang melonjak 188,15 persen atau bertambah Rp449,01 miliar, sejalan dengan meningkatnya penjualan dan penyewaan genset. Persediaan juga naik 91,54 persen atau Rp209,93 miliar untuk persiapan proyek pembangkit listrik tenaga diesel (PLTD) sewa baru, sementara aset tetap bertambah 67,24 persen atau Rp305,22 miliar dari penambahan unit yang disewakan ke pelanggan.",
+   "Di sisi liabilitas, total utang BACH naik 99,60 persen menjadi Rp1,39 triliun dari sebelumnya Rp696,68 miliar. Utang usaha bertambah 24,57 persen atau Rp52,99 miliar untuk mendukung pembelian barang dan jasa secara kredit. Kenaikan paling besar berasal dari utang bank yang melonjak 510,23 persen, bertambah Rp512,68 miliar, yang digunakan perusahaan untuk mendukung siklus operasional, persiapan stok, dan ekspansi proyek sewa genset maupun infrastruktur telekomunikasi.",
+   "Pada periode yang sama, BACH juga merampungkan penawaran umum perdana (IPO) yang menambah modal disetor penuh perusahaan dengan dana neto Rp259,84 miliar. Jumlah saham beredar bertambah menjadi 4.084.430.000 lembar dengan nilai nominal Rp50 per saham, setelah sebelumnya melakukan pemecahan nilai saham dari 1.734.715 lembar bernilai nominal Rp100.000. Total ekuitas perusahaan naik dari Rp535,95 miliar menjadi Rp931,77 miliar. Pendapatan neto sembilan bulan tercatat Rp1,45 triliun, naik dari Rp1,22 triliun pada periode yang sama tahun lalu, sementara laba periode berjalan naik dari Rp103,58 miliar menjadi Rp136,78 miliar, dengan laba per saham dasar naik dari Rp30 menjadi Rp37.",
+   "Di balik pertumbuhan laba, arus kas dari aktivitas operasi BACH justru tercatat defisit Rp400,13 miliar, jauh lebih dalam dibanding defisit Rp16,74 miliar pada periode yang sama tahun lalu. Penerimaan kas dari pelanggan turun menjadi Rp1,06 triliun, sementara pembayaran kas ke pemasok naik menjadi Rp1,31 triliun. Akibatnya, kas dan setara kas perusahaan di akhir September 2026 turun menjadi Rp10,18 miliar dari Rp11,97 miliar pada akhir Desember 2025."
+  ],
+  "fotoAdegan": "Technicians inspecting a row of industrial diesel generators at an outdoor rental yard, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi BACH: pendapatan dan laba tumbuh dua digit serta laba per saham naik dari Rp30 jadi Rp37, tapi utang bank yang melonjak lebih dari lima kali lipat dan arus kas operasi yang makin dalam negatif membuat pertumbuhan ini belum bisa disebut sepenuhnya positif. Ada tiga pos kinerja yang tersentuh di sini, yaitu ekuitas, arus kas, dan laba per saham. Ekuitas, yaitu kekayaan bersih pemegang saham setelah utang dikurangkan, menebal karena dana segar dari IPO masuk sebagai modal disetor. Arus kas operasi, yaitu uang tunai yang benar-benar keluar masuk dari kegiatan bisnis sehari-hari, justru makin negatif karena uang perusahaan banyak tertahan di piutang pelanggan dan stok genset yang belum tertagih atau disewakan, sejalan dengan biaya keuangan yang ikut melonjak akibat utang bank baru. Yang perlu dipantau berikutnya adalah laporan kuartal IV 2026, untuk melihat apakah piutang dan persediaan yang menumpuk ini benar-benar bisa dicairkan menjadi kas, karena kalau tidak, beban bunga dari utang bank yang sudah naik tajam itu bisa makin membebani laba ke depan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "asli-catat-laba-rp5-8-miliar-aset-naik-47-per-september-2026",
   "category": "Aksi Korporasi",
   "title": "ASLI Catat [Laba] Rp5,8 Miliar, Aset Naik 47% per September 2026",

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "menperin-minta-gula-impor-tak-bocor-ke-pasar-konsumen",
+  "category": "Industri",
+  "title": "Menperin Minta Gula [Impor] Tak Bocor ke Pasar Konsumen",
+  "deck": "Menperin Sarmuji minta AGRI memastikan gula rafinasi untuk industri tidak merembes jadi gula konsumsi, demi melindungi petani tebu dan konsumen.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/menperin-minta-gula-impor-tak-bocor-ke-pasar-konsumen.jpg",
+  "imageV": "mvr7n9fh",
+  "tags": [
+   "gula rafinasi",
+   "impor gula",
+   "petani tebu",
+   "Kemenperin"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475323-menperin-sarmuji-minta-produsen-jaga-gula-rafinasi-agar-tak-rembes-ke-pasaran"
+ },
+ {
   "slug": "honda-hr-v-teratas-di-penjualan-suv-ringkas-2026",
   "category": "Industri",
   "title": "Honda HR-V [Teratas] di Penjualan SUV Ringkas 2026",
@@ -6436,21 +6453,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/capaian-srasa-di-tei-ke-41-kantongi-total-transaksi-sebesar-usd-3114-juta",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bbtn-kaji-opsi-buyback-saham-di-tengah-gejolak-pasar",
-  "category": "Aksi Korporasi",
-  "title": "BBTN Kaji Opsi [Buyback] Saham di Tengah Gejolak Pasar",
-  "deck": "Direktur Utama BTN Nixon L.P. Napitupulu menyatakan perseroan mengevaluasi opsi buyback saham, merujuk pengalaman 2020 saat menyiapkan Rp275 miliar untuk rencana serupa.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBTN",
-   "buyback saham",
-   "Bank Tabungan Negara",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f4e8d34933_33e284b2b2.pdf",
-  "sourceLabel": "IDX"
  }
 ];

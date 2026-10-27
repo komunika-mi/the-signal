@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "menperin-minta-gula-impor-tak-bocor-ke-pasar-konsumen",
+  "category": "Industri",
+  "title": "Menperin Minta Gula [Impor] Tak Bocor ke Pasar Konsumen",
+  "deck": "Menperin Sarmuji minta AGRI memastikan gula rafinasi untuk industri tidak merembes jadi gula konsumsi, demi melindungi petani tebu dan konsumen.",
+  "image": "assets/img/menperin-minta-gula-impor-tak-bocor-ke-pasar-konsumen.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T23:40:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475323-menperin-sarmuji-minta-produsen-jaga-gula-rafinasi-agar-tak-rembes-ke-pasaran",
+  "tags": [
+   "gula rafinasi",
+   "impor gula",
+   "petani tebu",
+   "Kemenperin"
+  ],
+  "body": [
+   "Menteri Perindustrian Sarmuji meminta importir dan produsen gula rafinasi yang tergabung dalam Asosiasi Gula Rafinasi Indonesia (AGRI) untuk memastikan produknya tidak merembes ke pasar sebagai gula konsumsi biasa. Ia menyebut kebocoran semacam itu berisiko bagi kesehatan masyarakat sekaligus merugikan petani tebu dan negara, karena gula yang seharusnya jadi bahan baku industri malah bersaing dengan gula produksi dalam negeri.",
+   "Sarmuji menjelaskan gula rafinasi dibutuhkan industri makanan, minuman, dan farmasi, sehingga impor masih diperlukan untuk memenuhi pasokannya. Ia mengungkapkan serapan gula rafinasi oleh industri saat ini baru sekitar 60 persen dari ketersediaan yang ada. Sementara itu, kebutuhan gula konsumsi masyarakat disebutnya sudah tercukupi dari hasil panen petani tebu nasional, sehingga pencampuran dua jenis gula ini yang ingin dihindari pemerintah.",
+   "Ketua Umum AGRI, Supriadi, merespons dengan menyatakan komitmen asosiasinya untuk mendistribusikan gula rafinasi sesuai Peraturan Menteri Perdagangan, yang mengatur agar jumlah impor dan produksi rafinasi sejalan dengan kebutuhan industri. Ia menambahkan pihaknya juga berkoordinasi dengan Gabungan Pengusaha Makanan dan Minuman Indonesia (GAPMMI) soal alokasi gula rafinasi, karena pasokannya memang diperuntukkan khusus bagi industri makanan, minuman, dan farmasi."
+  ],
+  "fotoAdegan": "Workers moving large white sugar sacks on pallets inside an industrial sugar refinery warehouse, forklift nearby, overcast lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/27/6ae0d3639ac5c-menteri-perindustrian-menperin-muhammad-sarmuji-meminta-importir-dan-produsen-gula-rafinasi-untuk-menjaga-produknya-supaya-tidak-rembes-ke-pasar-menjadi-gula-konsumsi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan jumlah impor gula rafinasi, melainkan ketatnya pengawasan atas kemana gula itu sebenarnya mengalir. Pemerintah tetap mempertahankan jalur impor karena serapan industri terhadap gula rafinasi baru sekitar 60 persen, tapi sekaligus meminta AGRI memastikan sisa pasokan itu tidak dijual sebagai gula konsumsi biasa. Pihak yang paling terdampak adalah petani tebu, sebab gula rafinasi yang bocor ke pasar akan bersaing dengan gula hasil panen mereka yang sebetulnya sudah cukup untuk kebutuhan konsumsi nasional. Arahnya mengarah ke pengetatan pengawasan tata niaga gula lewat mekanisme alokasi impor yang sudah diatur Peraturan Menteri Perdagangan, bukan ke penambahan atau pengurangan kuota impor itu sendiri. Yang akan menentukan apakah langkah ini benar-benar berjalan adalah apakah ke depan muncul temuan kebocoran yang ditindak, atau alokasi impor gula rafinasi dievaluasi ulang mengingat utilisasinya yang masih jauh dari penuh.",
+  "imageV": "mvr7n9fh"
+ },
+ {
   "slug": "honda-hr-v-teratas-di-penjualan-suv-ringkas-2026",
   "category": "Industri",
   "title": "Honda HR-V [Teratas] di Penjualan SUV Ringkas 2026",
@@ -56,7 +82,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari rilis ini ada dua angka, konsumsi rumah tangga tumbuh di atas 5 persen pada kuartal II 2026, dan 17 provinsi mencatat pertumbuhan ekonomi di atas rata-rata nasional pada semester I 2026, sekaligus konfirmasi bahwa pola belanja masyarakat terus bergeser dari toko fisik dan mal ke platform online. Yang terdampak jelas dua sisi, pedagang dan pengelola mal konvensional yang kehilangan pengunjung belanja barang, berbanding sektor jasa seperti restoran, wisata, dan logistik e-commerce yang justru kebanjiran order. Rilis ini tidak menyebut nama ke-17 provinsi tersebut, juga tidak memberi tenggat untuk aturan pasar modal baru atau pembaruan data bantuan sosial yang disinggung, sehingga belum bisa dipastikan apakah pemerataan pertumbuhan daerah ini akan berlanjut atau cuma sementara. Penanda paling dekat untuk mengetahuinya adalah rilis pertumbuhan ekonomi kuartal III 2026 oleh BPS yang biasanya terbit awal November, yang akan menunjukkan apakah tren konsumsi dan pergeseran ke belanja online ini masih berlanjut.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "dagang-ri-as-tembus-us-32-34-miliar-investasi-as-naik",
@@ -84,7 +110,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret ada di angka: nilai dagang RI-AS Januari-Agustus 2026 naik 11,82 persen jadi US$32,34 miliar, sementara investasi AS di sembilan bulan pertama 2026 sudah US$3,4 miliar, melampaui catatan sepanjang tahun 2025 yang sekitar US$3 miliar. Yang langsung terdampak adalah perusahaan AS yang sudah beroperasi di Indonesia, dari manufaktur, teknologi digital, kesehatan, hingga kedirgantaraan, plus industri domestik yang jadi mitra rantai pasok mereka. Pemerintah juga menyebut potensi kesepakatan dagang US$33 miliar yang masih terkait pembahasan Section 301, aturan AS yang bisa mengenakan sanksi dagang atas praktik yang dianggap merugikan, dan excess capacity, kelebihan kapasitas produksi yang dianggap mengganggu pasar, tapi angka ini baru proyeksi, belum kesepakatan final. Arahnya terbelah dua: kesepakatan itu terealisasi dan membawa investasi baru, atau pembahasan Section 301 berlarut sehingga angka US$33 miliar tetap sebatas proyeksi, dan itu baru akan terlihat dari hasil pembahasan resmi kedua pemerintah dalam beberapa bulan mendatang.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "bi-dan-apuvindo-susun-empat-prioritas-pasar-uang-valas-2027",
@@ -112,7 +138,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pertemuan ini bukan aturan baru, melainkan daftar prioritas kerja BI dan APUVINDO untuk 2027: memperkuat surat utang jangka pendek korporasi dan kontrak swap suku bunga di pasar uang, membuka lebih banyak akses lindung nilai bagi investor asing lewat platform VASTRA, serta membangun bank kliring Renminbi agar transaksi rupiah-yuan dengan Tiongkok bisa langsung tanpa lewat dolar AS. Yang terkena dampak adalah 121 anggota APUVINDO, yakni 105 bank dan 16 lembaga nonbank serta penyelenggara infrastruktur pasar, juga investor asing yang ingin memegang aset rupiah dan perusahaan yang bertransaksi dengan Tiongkok. Arahnya terlihat menuju pembukaan pasar uang dan valas domestik ke pemain asing, sekaligus mempererat jalur transaksi langsung dengan yuan Tiongkok, bukan sekadar memperkuat aturan di dalam negeri saja. Yang belum jelas adalah kapan bank kliring Renminbi ini benar-benar beroperasi dan seberapa besar transaksi lewat VASTRA akan bertambah, karena siaran ini hanya menyebut arah kerja 2027 tanpa tenggat pasti.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "lapd-terbitkan-2-miliar-saham-baru-dibayar-saham-tambang-inbreng",
@@ -271,7 +297,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah: ambang minimum saham yang boleh diperdagangkan bebas oleh publik, bukan dipegang pemegang saham pengendali, naik ke 15 persen. Pemegang saham di atas 1 persen juga wajib membuka identitas asli mereka, dan pengawasan transaksi janggal di bursa akan ditangani tim gabungan Kementerian Keuangan, OJK, BEI, dan KSEI. Yang kena dampak langsung adalah emiten yang sahamnya masih banyak dikuasai segelintir pihak, karena mereka harus melepas lebih banyak saham ke publik atau membuka data pemilik di balik nominee, sementara investor ritel mendapat informasi lebih lengkap sebelum membeli saham. Arahnya adalah pengetatan bertahap lewat audit dan peta jalan, bukan sanksi langsung, dan yang akan membuktikan apakah langkah ini cukup adalah tenggat 30 April 2027, saat MSCI menerima masukan dan pemerintah harus menunjukkan bukti implementasi nyata.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "aali-laba-bersih-kuartal-iii-melonjak-77-ke-rp1-98-triliun",

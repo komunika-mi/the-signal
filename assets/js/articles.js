@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mmlp-bukukan-rugi-rp94-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MMLP Bukukan [Rugi] Rp94 Miliar di Kuartal III 2026",
+  "deck": "Mega Manunggal Property mencatat rugi Rp94,03 miliar pada sembilan bulan pertama 2026, terbalik dari laba tahun lalu, akibat kerugian besar dari penjualan saham di entitas asosiasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T10:28:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027033909-64632-0/FinancialStatement-2026-III-MMLP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MMLP",
+  "tags": [
+   "MMLP",
+   "properti logistik",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Mega Manunggal Property Tbk (MMLP) membukukan pendapatan Rp288,04 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik dari Rp265,45 miliar pada periode yang sama tahun 2025. Namun perusahaan mencatat rugi periode berjalan Rp94,03 miliar, berbalik dari laba Rp55,82 miliar pada periode yang sama tahun lalu. Rugi yang diatribusikan kepada pemilik entitas induk tercatat Rp103,41 miliar, membuat rugi per saham dasar dan dilusian menjadi Rp15, dibandingkan laba per saham Rp7 pada periode sebelumnya.",
+   "Penyebab utama pembalikan ini adalah kerugian dari penjualan penyertaan saham sebesar Rp211,52 miliar, jauh berbeda dari keuntungan kecil Rp346,93 juta yang dibukukan pada periode yang sama tahun lalu. Di sisi operasional, laba sebelum biaya keuangan justru naik dari Rp146,53 miliar menjadi Rp198,24 miliar, sementara biaya keuangan atau beban bunga pinjaman turun dari Rp116,67 miliar menjadi Rp99,31 miliar. Transaksi penjualan penyertaan saham itu juga mendatangkan kas Rp280 miliar, yang membantu mendongkrak kas dan setara kas perusahaan dari Rp150,43 miliar pada awal tahun menjadi Rp438,43 miliar per akhir September 2026.",
+   "Total aset perusahaan turun dari Rp6,62 triliun menjadi Rp6,48 triliun, terutama karena nilai properti investasi berkurang dari Rp5,73 triliun menjadi Rp5,36 triliun. Total ekuitas ikut turun dari Rp4,79 triliun menjadi Rp4,69 triliun akibat rugi periode berjalan, sementara total liabilitas turun dari Rp1,83 triliun menjadi Rp1,79 triliun setelah perusahaan melunasi sebagian pinjaman bank. Perusahaan juga membayar dividen kepada pemegang saham non-pengendali sebesar Rp7,74 miliar selama periode berjalan."
+  ],
+  "fotoAdegan": "Wide shot of a modern logistics warehouse exterior with loading docks and parked delivery trucks, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham karena perusahaan berbalik dari laba menjadi rugi Rp94,03 miliar, dipicu kerugian besar Rp211,52 miliar dari penjualan saham di entitas asosiasi yang ikut menggerus ekuitas perusahaan. Yang perlu digarisbawahi, laba dari kegiatan usaha inti sebenarnya tumbuh dan kas perusahaan justru menebal ke Rp438,43 miliar karena transaksi penjualan itu juga membawa uang masuk, jadi ini bukan rugi dari operasional sehari-hari. Pos yang tersentuh adalah ekuitas, yakni modal bersih pemilik saham yang turun karena menyerap kerugian ini, serta laba per saham yang berbalik dari positif ke negatif, dua ukuran yang biasa dipakai investor untuk menilai kesehatan modal dan nilai kepemilikan mereka. Yang perlu dipantau berikutnya adalah laporan keuangan audit tahun penuh 2026 untuk melihat apakah kerugian penjualan saham ini bersifat satu kali atau akan berulang, serta tren beban bunga yang mulai menurun seiring pelunasan pinjaman bank.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "tingkat-pengangguran-indonesia-turun-ke-4-65-terendah-sejak-1994",
   "category": "Ketenagakerjaan",
   "title": "Tingkat Pengangguran Indonesia [Turun] ke 4,65%, Terendah Sejak 1994",
@@ -57,6 +83,32 @@ var ARTICLES = [
   "imageV": "mvq42qdl"
  },
  {
+  "slug": "nick-nyaris-rugi-di-kuartal-iii-2026-ekspansi-ev-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "NICK Nyaris [Rugi] di Kuartal III 2026, Ekspansi EV Berlanjut",
+  "deck": "Laba Charnic Capital anjlok jadi rugi tipis Rp332 juta akibat kerugian portofolio efek, sementara utang melonjak untuk membiayai ekspansi sewa kendaraan listrik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T10:05:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027101405-64949-0/FinancialStatement-2026-III-NICK.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "laporan keuangan",
+   "kendaraan listrik"
+  ],
+  "body": [
+   "PT Charnic Capital Tbk (NICK) membukukan rugi bersih Rp332,04 juta untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari laba Rp83,37 miliar pada periode yang sama tahun 2025. Penyebab utamanya adalah kerugian dari trading portofolio efek sebesar Rp23,36 miliar, berbalik dari keuntungan Rp93,36 miliar setahun sebelumnya, yang membuat total pendapatan usaha turun dari Rp102,21 miliar menjadi Rp14,58 miliar. Rugi per saham tercatat Rp0,51, dibanding laba per saham Rp128,04 pada periode sebelumnya.",
+   "Di luar portofolio efek, lini bisnis inti perusahaan justru tumbuh. Pendapatan dari sewa kendaraan listrik, segmen baru yang dijalankan anak usaha PT Okansa Pacific, tercatat Rp5,92 miliar, dari nol pada tahun sebelumnya. Penjualan barang dan jasa naik dari Rp4,73 miliar menjadi Rp28,06 miliar, dan pendapatan sewa properti naik dari Rp1,61 miliar menjadi Rp1,96 miliar. Total aset perusahaan naik 24,3 persen dari Rp314,43 miliar menjadi Rp390,86 miliar, didorong lonjakan aset tetap dari Rp20,39 miliar menjadi Rp75,83 miliar akibat pembelian kendaraan listrik untuk disewakan. Total liabilitas melonjak dari Rp2,91 miliar menjadi Rp79,67 miliar, terutama dari pinjaman bank jangka panjang baru senilai Rp65,2 miliar yang dipakai membiayai pembelian kendaraan tersebut. Ekuitas perusahaan relatif stabil di Rp311,19 miliar, hampir sama dengan Rp311,52 miliar pada akhir 2025.",
+   "Karena perubahan total aset dan liabilitas melampaui 20 persen, manajemen mengirim surat penjelasan resmi kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan yang ditandatangani Direktur Utama Anton Santoso. Surat itu menyebut kenaikan aset berasal dari pembelian kendaraan listrik untuk bisnis sewa anak usaha PT Okansa Pacific, dan kenaikan liabilitas berasal dari pembiayaan untuk pembelian kendaraan tersebut, yang menurut manajemen wajar seiring berkembangnya operasional perusahaan."
+  ],
+  "fotoAdegan": "A row of small electric vehicles parked at a rental yard, a worker checking a charging cable, overcast daylight in Jakarta",
+  "takeaway": "Laporan ini netral bagi NICK. Rugi bersihnya cuma Rp332 juta, nyaris impas dibanding ekuitas perusahaan yang mencapai Rp311 miliar, dan sumber utamanya adalah kerugian dari jual beli saham atau obligasi yang dipegang perusahaan, bukan kegagalan bisnis inti, sebab pendapatan sewa kendaraan listrik dan penjualan barang justru naik. Yang pantas dicermati adalah laba per saham yang berbalik dari untung Rp128,04 per lembar jadi rugi Rp0,51 per lembar, menunjukkan betapa fluktuasi pendapatan dari trading surat berharga bisa mengguncang angka laba meski bisnis operasional sehat, sementara utang jangka panjang perusahaan melonjak dari hampir nol jadi Rp65,2 miliar untuk membiayai kendaraan listrik yang disewakan lewat PT Okansa Pacific. Yang perlu dipantau selanjutnya adalah apakah pendapatan sewa kendaraan listrik yang baru mulai komersial tahun ini cukup menutup biaya pembiayaannya, serta apakah portofolio efek kembali mencatat untung pada laporan keuangan tahunan auditan yang akan menyusul laporan interim ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "harga-emas-antam-naik-tipis-ke-rp2-550-000-per-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Naik] Tipis ke Rp2.550.000 per Gram",
@@ -81,6 +133,110 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah hari ini hanya angka harga jual dan buyback Antam, naik tipis masing-masing menjadi Rp2.550.000 dan Rp2.345.000 per gram, tanpa rincian pergerakan harga pada hari-hari sebelumnya. Yang terdampak langsung adalah masyarakat yang menyimpan emas Antam sebagai investasi serta mereka yang berencana membeli atau menjual kembali dalam waktu dekat, karena selisih Rp205.000 per gram itulah yang menjadi beban saat dicairkan. Data ini belum cukup untuk membaca apakah kenaikan ini awal tren atau sekadar fluktuasi harian biasa, sebab arah harga Antam sebenarnya ditentukan oleh pergerakan harga emas spot dunia dan kurs rupiah, dua faktor yang tidak termuat dalam data hari ini. Untuk memastikannya, perlu dibandingkan dengan pergerakan harga Antam dalam beberapa hari ke depan serta data harga emas internasional pada periode yang sama.",
   "imageV": "mvq42r8n"
+ },
+ {
+  "slug": "eral-catat-laba-bersih-rp192-5-miliar-naik-54-di-9-bulan",
+  "category": "Aksi Korporasi",
+  "title": "ERAL Catat Laba Bersih [Rp192,5 Miliar], Naik 54% di 9 Bulan",
+  "deck": "Penjualan PT Sinar Eka Selaras Tbk naik 44,7 persen jadi Rp6,21 triliun dalam sembilan bulan 2026, mendorong laba bersih tumbuh ke Rp192,51 miliar dari Rp124,60 miliar setahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T09:08:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027092526-64849-0/FinancialStatement-2026-III-ERAL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAL",
+  "tags": [
+   "ERAL",
+   "laporan keuangan",
+   "kinerja kuartal III",
+   "emiten ritel"
+  ],
+  "body": [
+   "PT Sinar Eka Selaras Tbk (ERAL) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Direktur Utama Djohan Sutanto dan Direktur Suryawati pada 27 Oktober 2026. Penjualan perseroan naik 44,7 persen menjadi Rp6,21 triliun, dari Rp4,29 triliun pada periode yang sama tahun lalu. Laba bersih periode berjalan tumbuh 54,5 persen menjadi Rp192,51 miliar dari Rp124,60 miliar, dengan laba yang menjadi hak pemilik entitas induk sebesar Rp193,84 miliar. Laba per saham ikut naik ke Rp37,37 dari Rp24,09 per lembar.",
+   "Dari sisi keuangan, total aset perseroan bertambah menjadi Rp3,67 triliun pada akhir September 2026, dari Rp3,09 triliun pada akhir 2025, terutama karena persediaan barang dagangan membengkak ke Rp1,65 triliun dari Rp1,13 triliun. Kas dan setara kas juga naik hampir dua kali lipat menjadi Rp329,35 miliar dari Rp164,82 miliar. Arus kas dari aktivitas operasi berbalik dari defisit Rp120,26 miliar pada periode yang sama tahun lalu menjadi surplus Rp558,64 miliar. Perseroan melunasi seluruh utang bank jangka pendeknya senilai Rp175,13 miliar, mendapat tambahan pinjaman bank jangka panjang Rp47,84 miliar, serta menerima kas neto Rp95,03 miliar dari pelepasan salah satu entitas anak. Dividen tunai yang dibagikan tahun ini tetap Rp41,5 miliar, sama dengan tahun sebelumnya.",
+   "Laporan ini juga memuat daftar 17 entitas anak yang dikonsolidasi penuh, mencakup bisnis ritel perlengkapan olahraga, distribusi pakaian, dealer kendaraan roda empat, distribusi telepon seluler dan elektronik, jasa penyewaan drone, hingga perdagangan alat kecantikan, dengan kepemilikan berkisar 51 persen sampai 99,99 persen. Satu entitas anak baru muncul dalam daftar ini, yaitu PT Mega Cahaya Indonesia (MCI), yang bergerak di perdagangan besar produk penerangan seperti lampu dan LED, mulai beroperasi komersial pada 2026 dengan kepemilikan ERAL sebesar 70 persen dan total aset Rp10,1 miliar."
+  ],
+  "fotoAdegan": "Warehouse workers stacking boxes of retail merchandise onto pallets inside a large distribution warehouse, forklift passing by",
+  "takeaway": "Laporan ini condong positif bagi ERAL karena penjualan dan laba bersih tumbuh dua digit dalam sembilan bulan, dan yang lebih penting, arus kas dari operasi berbalik dari minus Rp120,26 miliar menjadi plus Rp558,64 miliar, tanda bisnisnya menghasilkan uang tunai sungguhan, bukan cuma laba di atas kertas. Yang perlu diperhatikan pelaku pasar adalah melonjaknya persediaan barang dagangan ke Rp1,65 triliun dari Rp1,13 triliun, sebab barang yang menumpuk di gudang berisiko jadi beban kalau penjualan melambat atau modelnya ketinggalan zaman, terutama karena sebagian besar bisnis ERAL ada di pakaian dan elektronik yang perputaran modelnya cepat. Laba per saham, yakni bagian laba bersih yang menjadi hak setiap lembar saham beredar, naik ke Rp37,37 dari Rp24,09 seiring kenaikan laba tanpa penambahan jumlah saham baru. Pelunasan utang bank jangka pendek dan masuknya kas dari pelepasan satu entitas anak juga memperkuat posisi kas perseroan. Yang perlu dipantau berikutnya adalah apakah laju penjualan dan penjualan persediaan yang menumpuk ini tetap terjaga pada kuartal keempat, serta bagaimana hasilnya tercermin di laporan keuangan audit tahunan 2026 yang biasa terbit awal tahun depan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "sido-laba-9-bulan-turun-24-jadi-rp619-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SIDO: Laba 9 Bulan [Turun] 24% jadi Rp619 Miliar",
+  "deck": "Penjualan dan laba Sido Muncul menyusut dalam sembilan bulan 2026, meski kas naik hampir dua kali lipat dan utang turun sepertiga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T09:00:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027091931-64843-0/FinancialStatement-2026-III-SIDO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SIDO",
+  "tags": [
+   "SIDO",
+   "laporan keuangan",
+   "laba bersih",
+   "Sido Muncul"
+  ],
+  "body": [
+   "PT Industri Jamu dan Farmasi Sido Muncul Tbk (SIDO) membukukan penjualan Rp2,50 triliun untuk sembilan bulan pertama 2026, turun 8,4 persen dari Rp2,73 triliun pada periode yang sama tahun lalu. Laba usaha ikut tergerus, dari Rp1,03 triliun menjadi Rp788 miliar. Laba bersih periode berjalan tercatat Rp619,1 miliar, turun 24,4 persen dari Rp818,5 miliar pada sembilan bulan 2025. Akibatnya, laba per saham dasar turun dari Rp27,52 menjadi Rp21,04.",
+   "Di sisi lain, kas dan setara kas perusahaan melonjak menjadi Rp883,2 miliar pada akhir September 2026, naik 91 persen dari Rp462,6 miliar di akhir Desember 2025. Kenaikan ini ditopang arus kas dari aktivitas operasi sebesar Rp913,8 miliar. Total liabilitas Sido Muncul justru turun 33 persen, dari Rp561,4 miliar menjadi Rp374,2 miliar. Dalam surat penjelasan ke OJK, perseroan merinci penyebabnya: utang usaha turun 31 persen menjadi Rp146,8 miliar karena pembelian ke pemasok akhir September 2026 lebih sedikit dari akhir 2025, utang pajak turun 36 persen menjadi Rp123,8 miliar karena setoran angsuran PPh Badan sudah lebih tinggi dari kewajiban pajak terbaru, dan beban akrual turun 73 persen menjadi Rp24,2 miliar setelah perseroan membayar akrual iklan dan promosi 2025 senilai Rp52,5 miliar serta akrual THR dan bonus sekitar Rp12,3 miliar.",
+   "Total ekuitas perseroan naik menjadi Rp3,27 triliun dari Rp3,12 triliun, meski perseroan tetap membagikan dividen kas Rp441,5 miliar sepanjang sembilan bulan ini. Laporan keuangan interim kuartal III 2026 ini tidak diaudit, disusun sesuai Standar Akuntansi Keuangan Indonesia, dan ditandatangani oleh Direktur Utama Irwan Hidayat bersama Direktur Budiyanto."
+  ],
+  "fotoAdegan": "Workers in white uniforms packaging herbal medicine sachets along a production line inside a bright factory hall",
+  "takeaway": "Laporan ini condong negatif bagi fundamental Sido Muncul, karena penjualan dan laba inti sama-sama menyusut dalam sembilan bulan ini, bukan sekadar perlambatan tipis. Yang paling mencolok adalah laba per saham, yaitu bagian laba bersih yang secara teoritis jadi milik tiap satu lembar saham, yang turun dari Rp27,52 ke Rp21,04, menandakan kemampuan perusahaan mencetak untung per lembar saham mengecil cukup dalam. Membaiknya arus kas, yaitu aliran uang tunai yang benar-benar masuk dan keluar dari kas perusahaan, serta turunnya utang usaha dan beban akrual, lebih mencerminkan penagihan dan pembayaran yang lebih tertata daripada perbaikan penjualan, sehingga tidak serta merta mengimbangi pelemahan laba. Kenaikan ekuitas pun lebih karena akumulasi laba ditahan, bukan sinyal perbaikan kinerja operasional. Yang perlu dipantau berikutnya adalah apakah pelemahan penjualan dan laba ini berlanjut atau justru berbalik pada laporan kuartal IV dan laporan tahunan auditan 2026, karena di situ baru terlihat apakah tekanan sembilan bulan ini sementara atau menjadi tren.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "fasw-catat-laba-rp230-miliar-tahun-lalu-rugi-rp731-m",
+  "category": "Aksi Korporasi",
+  "title": "FASW Catat [Laba] Rp230 Miliar, Tahun Lalu Rugi Rp731 M",
+  "deck": "FASW melaporkan laba bersih Rp230,4 miliar untuk sembilan bulan 2026, berbalik dari rugi Rp731,6 miliar pada periode sama tahun lalu, didorong penjualan yang naik 15,6 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T08:56:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027021350-65003-0/FinancialStatement-2026-III-FASW.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FASW",
+  "tags": [
+   "FASW",
+   "Fajar Surya Wisesa",
+   "laporan keuangan",
+   "kertas kemasan"
+  ],
+  "body": [
+   "PT Fajar Surya Wisesa Tbk (FASW) menyampaikan laporan keuangan konsolidasian interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia pada 27 Oktober 2026. Produsen kertas kemasan dan kertas bergelombang ini mencatat laba bersih Rp230,4 miliar, berbalik dari rugi bersih Rp731,6 miliar pada periode yang sama tahun 2025. Penjualan neto naik 15,6 persen dari Rp5,92 triliun menjadi Rp6,85 triliun, sementara beban pokok penjualan nyaris tidak bergerak dari Rp5,96 triliun menjadi Rp6,03 triliun, sehingga laba bruto berbalik dari rugi Rp34,4 miliar menjadi laba Rp826,4 miliar.",
+   "Di bawah laba bruto, beban keuangan atau biaya bunga utang perusahaan turun dari Rp337,8 miliar menjadi Rp219,3 miliar, sementara kerugian selisih kurs tercatat Rp46,4 miliar, naik dari Rp40,9 miliar tahun sebelumnya. Setelah dikurangi pajak Rp25,5 miliar, laba bersih yang dapat diatribusikan kepada pemilik entitas induk mencapai Rp230,4 miliar, dengan laba per saham dasar Rp71,52, berbalik dari rugi per saham Rp270,01 pada sembilan bulan 2025.",
+   "Dari sisi posisi keuangan, total aset FASW naik dari Rp12,23 triliun pada akhir 2025 menjadi Rp12,46 triliun pada 30 September 2026, dan ekuitas naik dari Rp5,74 triliun menjadi Rp5,97 triliun karena tertambah laba periode ini. Namun kas dan setara kas menyusut dari Rp112,8 miliar menjadi Rp71,8 miliar, sementara utang bank jangka pendek melonjak dari Rp1,36 triliun menjadi Rp1,82 triliun. Arus kas dari aktivitas operasi berbalik positif Rp277,1 miliar, dari sebelumnya negatif Rp466,3 miliar pada sembilan bulan 2025, meski arus kas dari aktivitas pendanaan tercatat negatif Rp51,9 miliar karena perusahaan membayar utang bank Rp27,93 triliun sementara penarikan utang baru sebesar Rp28,39 triliun."
+  ],
+  "fotoAdegan": "Workers inspecting stacked rolls of brown kraft paper inside a large paper mill warehouse, forklift nearby, industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi FASW, karena perbaikan laba datang dari bisnis inti berupa penjualan yang tumbuh lebih cepat dari biaya produksi, bukan dari untung-untungan sesaat seperti penjualan aset. Pos yang paling terasa adalah ekuitas, yaitu total kekayaan bersih pemegang saham setelah dikurangi utang, yang naik dari Rp5,74 triliun menjadi Rp5,97 triliun karena laba periode ini langsung menambah saldo laba perusahaan, sementara laba per saham yang jadi ukuran investor untuk menilai hasil kepemilikannya berbalik dari rugi menjadi untung Rp71,52 per lembar. Beban bunga utang juga turun sekitar sepertiga, tanda tekanan biaya pendanaan mereda, meski utang bank jangka pendek justru naik dari Rp1,36 triliun menjadi Rp1,82 triliun. Yang perlu dipantau selanjutnya adalah apakah arus kas operasi yang baru pulih ke angka positif Rp277,1 miliar ini cukup untuk menutup kenaikan utang jangka pendek tersebut, mengingat kas perusahaan sendiri menyusut dari Rp112,8 miliar menjadi Rp71,8 miliar selama sembilan bulan ini, sebelum laporan keuangan tahunan teraudit 2026 terbit.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bbni-laba-naik-6-jadi-rp16-15-triliun-car-turun-ke-19-2",
+  "category": "Aksi Korporasi",
+  "title": "BBNI: Laba [Naik] 6% Jadi Rp16,15 Triliun, CAR Turun ke 19,2%",
+  "deck": "Laba bersih BNI naik 6 persen jadi Rp16,15 triliun dalam sembilan bulan 2026, tapi rasio kecukupan modal turun ke 19,20 persen dan laba komprehensif tergerus kerugian nilai obligasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T08:36:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027083910-64972-0/FinancialStatement-2026-III-BBNI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBNI",
+  "tags": [
+   "BBNI",
+   "laba bersih",
+   "rasio kecukupan modal",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan pada 27 Oktober 2026, ditandatangani oleh Corporate Secretary Okki Rushartomo sesuai ketentuan POJK Nomor 14/POJK.04/2022 tentang penyampaian laporan keuangan berkala. Bank pelat merah ini mencatat laba bersih Rp16,15 triliun, naik 6 persen dari Rp15,23 triliun pada periode yang sama tahun lalu, dengan laba per saham dasar naik dari 405 menjadi 432. Total aset tumbuh dari Rp1.362,05 triliun pada akhir 2025 menjadi Rp1.481,83 triliun per akhir September 2026.",
+   "Pendorong utama kinerja adalah pendapatan bunga bersih yang naik dari Rp29,25 triliun menjadi Rp33,24 triliun, ditopang penyaluran kredit yang tumbuh dari Rp899,53 triliun menjadi Rp992,51 triliun dan simpanan nasabah yang naik dari Rp1.040,83 triliun menjadi Rp1.124,59 triliun. Di sisi lain, BNI membentuk cadangan kerugian penurunan nilai sebesar Rp7,26 triliun untuk mengantisipasi kredit bermasalah, naik dari Rp6,12 triliun pada periode sebelumnya, seiring beban bunga yang juga melonjak dari Rp21,91 triliun menjadi Rp26,77 triliun.",
+   "Namun total ekuitas justru turun dari Rp176,34 triliun menjadi Rp174,26 triliun, dengan rasio kecukupan modal (CAR) merosot dari 21,09 persen menjadi 19,20 persen dan return on asset (ROA) turun dari 2,17 persen menjadi 1,95 persen. Laba komprehensif, yang mencakup laba bersih ditambah untung-rugi yang belum terealisasi, turun tajam dari Rp18,57 triliun menjadi Rp11,67 triliun, terutama karena kerugian belum terealisasi Rp6,06 triliun dari perubahan nilai pasar efek dan obligasi pemerintah yang dipegang bank, berbanding terbalik dengan keuntungan Rp4,30 triliun pada periode yang sama tahun lalu. Laporan ini juga mencatat munculnya pos saham treasuri senilai Rp49,775 miliar, terkait program pembelian kembali saham BNI yang sebelumnya telah dilaporkan terealisasi 22,95 juta saham."
+  ],
+  "fotoAdegan": "Glass facade of a modern bank office tower in Jakarta's business district, reflecting afternoon sky, pedestrians walking below",
+  "takeaway": "Laporan ini tergolong netral bagi BNI: laba bersih memang naik 6 persen menjadi Rp16,15 triliun, tapi kenaikan itu diimbangi penurunan rasio kecukupan modal dan anjloknya laba komprehensif. Pos yang tersentuh adalah ekuitas dan rasio kecukupan modal atau CAR, yaitu perbandingan antara modal bank dan aset berisikonya, yang turun dari 21,09 persen jadi 19,20 persen, sementara laba komprehensif, yakni laba bersih ditambah untung-rugi yang belum terealisasi seperti perubahan harga pasar obligasi yang dipegang bank, turun dari Rp18,57 triliun jadi Rp11,67 triliun karena harga obligasi yang dimiliki BNI tertekan kenaikan suku bunga pasar. Pelaku pasar memperhatikan CAR karena itu penyangga bank saat menghadapi kerugian tak terduga, dan penurunannya, meski masih jauh di atas batas minimum yang diwajibkan OJK, tetap mengurangi ruang gerak ekspansi kredit ke depan. Yang perlu dipantau berikutnya adalah apakah tren kerugian nilai obligasi ini berlanjut atau berbalik di laporan tahunan penuh 2026, mengingat nilainya sangat bergantung pada arah suku bunga pasar pada kuartal terakhir tahun ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "toyota-teratas-byd-masuk-lima-besar-penjualan-mobil-2026",
@@ -242,6 +398,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah terbentuknya jalur kerja sama riset pangan antara pemerintah daerah, kampus dalam negeri, dan kampus asing, yang sebelumnya kemungkinan berjalan sendiri-sendiri. Pihak yang langsung kena dampaknya adalah pelajar SMA dan mahasiswa di Kabupaten Tangerang, yang kini punya saluran konkret lewat workshop dan pameran untuk ikut riset pangan lokal, bukan sekadar jadi penonton. Yang belum bisa dibaca dari berita ini adalah apakah kolaborasi ini berlanjut jadi program riset dengan target dan pendanaan jelas, atau berhenti sebagai kegiatan seremonial tahunan mengikuti peringatan World Food Day. Yang perlu dipantau adalah apakah ada hasil riset konkret atau produk pangan lokal yang lahir dari kolaborasi SGU dan Hokkaido University ini dalam waktu dekat, karena itu yang akan menunjukkan apakah kerja sama ini benar-benar jalan atau cuma seremoni.",
   "imageV": "mvpp31z4"
+ },
+ {
+  "slug": "ptpp-panggil-rups-sukuk-ajukan-penundaan-bagi-hasil-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPS Sukuk, Ajukan [Penundaan] Bagi Hasil ke 2027",
+  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Tahap II 2022 ke RUPSu 10 November 2026 untuk memutuskan penundaan atau pemotongan bagi hasil sampai jatuh tempo 2027, menyusul gagal bayar sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T02:01:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/076342a0ef_d625849c1f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "sukuk",
+   "restrukturisasi utang",
+   "RUPSu"
+  ],
+  "body": [
+   "PT Pembangunan Perumahan (Persero) Tbk mengundang para pemegang Sukuk Mudharabah Berkelanjutan I PTPP Tahap II Tahun 2022 Seri B untuk menghadiri Rapat Umum Pemegang Sukuk Mudharabah (RUPSu) ke-4. Rapat dijadwalkan pada Selasa, 10 November 2026, pukul 08.30 sampai 10.00 WIB, di Park Hotel Jakarta, Jalan DI Panjaitan No. 5, Cawang, Jakarta Timur. RUPSu ini diusulkan langsung oleh PTPP selaku emiten, dengan PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk bertindak sebagai wali amanat.",
+   "Agenda rapat adalah meminta persetujuan pemegang sukuk atas salah satu dari dua opsi keringanan. Opsi pertama adalah menunda pembayaran bagi hasil sampai jatuh tempo sukuk pada 2027, tanpa dikenakan denda atas keterlambatan atau kelalaian. Opsi kedua adalah PTPP tetap membayar bagi hasil sebesar 1 persen per tahun sampai jatuh tempo 2027, sementara selisih antara kewajiban yang seharusnya dibayar penuh menurut perjanjian awal dengan yang 1 persen itu ditangguhkan dan baru dilunasi sekaligus saat jatuh tempo pada 2027, juga tanpa denda atau penalti.",
+   "Dokumen panggilan menetapkan syarat kuorum yang ketat sesuai Perjanjian Perwaliamanatan dan POJK No. 20/POJK.04/2020. RUPSu baru sah digelar jika dihadiri pemegang sukuk yang mewakili minimal tiga perempat dari total Sukuk Mudharabah yang belum dilunasi, tidak termasuk yang dimiliki PTPP atau afiliasinya. Keputusan baru mengikat jika disetujui minimal tiga perempat dari sukuk yang hadir di rapat. Pemegang sukuk yang berhak hadir adalah yang namanya tercatat dalam Konfirmasi Tertulis Untuk RUPSu (KTUR) yang diterbitkan KSEI, tiga hari kerja sebelum tanggal rapat, dan wajib membawa KTUR asli beserta dokumen identitas saat registrasi."
+  ],
+  "fotoAdegan": "Unfinished high-rise towers and tower cranes at a large construction site in Jakarta, workers in safety vests, overcast afternoon light",
+  "takeaway": "Laporan ini negatif bagi PTPP, karena perusahaan kembali meminta keringanan atas kewajiban bagi hasil sukuk, tanda bahwa tekanan arus kas belum pulih setelah gagal bayar kupon obligasi dan bagi hasil sukuk yang jatuh tempo 22 Oktober lalu. Yang tersentuh adalah arus kas emiten, yaitu uang tunai yang semestinya keluar untuk membayar pemegang sukuk, yang dalam proposal ini ditunda penuh atau dipotong jadi hanya 1 persen per tahun sampai 2027, sehingga PTPP mendapat ruang bernapas jangka pendek meski kewajiban yang tertunda tetap harus dilunasi sekaligus saat jatuh tempo. Yang perlu dipantau adalah hasil RUPSu pada 10 November 2026, karena keputusan hanya sah jika kuorum kehadiran mencapai tiga perempat dari total sukuk yang belum dilunasi dan disetujui tiga perempat dari yang hadir, dengan batas pencatatan KTUR di KSEI paling lambat tiga hari kerja sebelum rapat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "elsa-laba-elnusa-tumbuh-29-jadi-rp681-55-miliar-di-q3",
+  "category": "Aksi Korporasi",
+  "title": "ELSA: [Laba] Elnusa Tumbuh 29% jadi Rp681,55 Miliar di Q3",
+  "deck": "Elnusa membukukan pendapatan Rp12,13 triliun dan laba bersih Rp681,55 miliar pada sembilan bulan 2026, naik dibanding periode sama tahun lalu, sementara kas perusahaan menyusut Rp568,9 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T01:59:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027092058-64847-0/FinancialStatement-2026-III-ELSA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELSA",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "laporan keuangan",
+   "BUMN energi"
+  ],
+  "body": [
+   "PT Elnusa Tbk menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan tercatat Rp12,13 triliun, naik dari Rp10,48 triliun pada periode yang sama tahun lalu. Laba bersih periode berjalan naik dari Rp526,56 miliar menjadi Rp681,55 miliar, sehingga laba per saham terangkat dari Rp72,15 menjadi Rp93,38 per saham.",
+   "Dari sisi posisi keuangan, total aset Elnusa per akhir September 2026 mencapai Rp11,77 triliun, naik dari Rp10,96 triliun pada akhir Desember 2025. Total liabilitas naik menjadi Rp6,11 triliun dari Rp5,65 triliun, sementara total ekuitas bertambah menjadi Rp5,67 triliun dari Rp5,31 triliun. Namun kas dan setara kas perusahaan justru berkurang dari Rp2,70 triliun menjadi Rp2,13 triliun, sementara piutang usaha dari pihak berelasi melonjak 44,8 persen, dari Rp3,42 triliun menjadi Rp4,95 triliun. Selama periode ini Elnusa juga membayar dividen kas Rp323,25 miliar dan untuk pertama kalinya melakukan pembelian saham treasuri senilai Rp4,47 miliar.",
+   "Dalam surat terpisah ke Bursa Efek Indonesia, Direktur Utama Elnusa, Litta Indriya Ariesca, menjelaskan bahwa kenaikan aset sebesar 7,41 persen atau Rp812,4 miliar dan kenaikan liabilitas sebesar 8,12 persen atau Rp458,6 miliar tersebut masih di bawah ambang batas 20 persen yang mewajibkan penjelasan rinci ke bursa sesuai Peraturan BEI Nomor I-E, sehingga Elnusa tidak wajib memberi rincian tambahan. Laporan ini juga mencatat delapan entitas anak yang dikonsolidasikan, dengan salah satunya, PT Elnusa Oil Services, baru mulai beroperasi secara komersial pada 2026."
+  ],
+  "fotoAdegan": "Workers inspecting drilling pipes stacked at an oilfield service yard, cranes and trucks in the background, overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi Elnusa karena pendapatan dan laba bersihnya tumbuh dua digit, masing-masing naik sekitar 16 persen dan 29 persen, sementara aset dan modal sendiri perusahaan juga membesar dibanding akhir tahun lalu. Yang perlu dicermati adalah arus kas dari kegiatan operasional yang justru menyusut dari Rp590,6 miliar menjadi Rp522,9 miliar meski laba naik, dan piutang usaha ke pihak berelasi yang melonjak jadi Rp4,95 triliun, karena ini uang yang sudah dicatat sebagai pendapatan di atas kertas tapi belum tentu sudah masuk ke kas perusahaan. Kas Elnusa pun berkurang Rp568,9 miliar selama sembilan bulan, sebagian karena perusahaan membayar dividen Rp323,25 miliar dan melunasi sebagian utang bank, bukan karena bisnisnya memburuk. Yang perlu dipantau berikutnya adalah apakah piutang dari pihak berelasi itu cair menjadi kas pada kuartal mendatang, serta realisasi belanja modal yang naik menjadi Rp477,8 miliar dari Rp308 miliar pada periode yang sama tahun lalu.",
+  "sentimen": "positif"
  },
  {
   "slug": "esdm-periksa-kebun-sawit-diduga-nyambi-tambang",

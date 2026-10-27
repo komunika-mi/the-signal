@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mmlp-bukukan-rugi-rp94-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MMLP Bukukan [Rugi] Rp94 Miliar di Kuartal III 2026",
+  "deck": "Mega Manunggal Property mencatat rugi Rp94,03 miliar pada sembilan bulan pertama 2026, terbalik dari laba tahun lalu, akibat kerugian besar dari penjualan saham di entitas asosiasi.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MMLP",
+   "properti logistik",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027033909-64632-0/FinancialStatement-2026-III-MMLP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tingkat-pengangguran-indonesia-turun-ke-4-65-terendah-sejak-1994",
   "category": "Ketenagakerjaan",
   "title": "Tingkat Pengangguran Indonesia [Turun] ke 4,65%, Terendah Sejak 1994",
@@ -38,6 +54,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475170-idrus-marham-dukung-pernyataan-dasco-soal-msci-sebut-masa-depan-ekonomi-indonesia-tak-boleh-bergantung-pada-indeks-global"
  },
  {
+  "slug": "nick-nyaris-rugi-di-kuartal-iii-2026-ekspansi-ev-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "NICK Nyaris [Rugi] di Kuartal III 2026, Ekspansi EV Berlanjut",
+  "deck": "Laba Charnic Capital anjlok jadi rugi tipis Rp332 juta akibat kerugian portofolio efek, sementara utang melonjak untuk membiayai ekspansi sewa kendaraan listrik.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "laporan keuangan",
+   "kendaraan listrik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027101405-64949-0/FinancialStatement-2026-III-NICK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-naik-tipis-ke-rp2-550-000-per-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Naik] Tipis ke Rp2.550.000 per Gram",
@@ -53,6 +85,70 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475168-harga-emas-antam-hari-ini-27-oktober-2026-naik-tipis-jadi-rp2550000-per-gram-buyback-ikut-melonjak"
+ },
+ {
+  "slug": "eral-catat-laba-bersih-rp192-5-miliar-naik-54-di-9-bulan",
+  "category": "Aksi Korporasi",
+  "title": "ERAL Catat Laba Bersih [Rp192,5 Miliar], Naik 54% di 9 Bulan",
+  "deck": "Penjualan PT Sinar Eka Selaras Tbk naik 44,7 persen jadi Rp6,21 triliun dalam sembilan bulan 2026, mendorong laba bersih tumbuh ke Rp192,51 miliar dari Rp124,60 miliar setahun sebelumnya.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAL",
+   "laporan keuangan",
+   "kinerja kuartal III",
+   "emiten ritel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027092526-64849-0/FinancialStatement-2026-III-ERAL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sido-laba-9-bulan-turun-24-jadi-rp619-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SIDO: Laba 9 Bulan [Turun] 24% jadi Rp619 Miliar",
+  "deck": "Penjualan dan laba Sido Muncul menyusut dalam sembilan bulan 2026, meski kas naik hampir dua kali lipat dan utang turun sepertiga.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SIDO",
+   "laporan keuangan",
+   "laba bersih",
+   "Sido Muncul"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027091931-64843-0/FinancialStatement-2026-III-SIDO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fasw-catat-laba-rp230-miliar-tahun-lalu-rugi-rp731-m",
+  "category": "Aksi Korporasi",
+  "title": "FASW Catat [Laba] Rp230 Miliar, Tahun Lalu Rugi Rp731 M",
+  "deck": "FASW melaporkan laba bersih Rp230,4 miliar untuk sembilan bulan 2026, berbalik dari rugi Rp731,6 miliar pada periode sama tahun lalu, didorong penjualan yang naik 15,6 persen.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FASW",
+   "Fajar Surya Wisesa",
+   "laporan keuangan",
+   "kertas kemasan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027021350-65003-0/FinancialStatement-2026-III-FASW.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbni-laba-naik-6-jadi-rp16-15-triliun-car-turun-ke-19-2",
+  "category": "Aksi Korporasi",
+  "title": "BBNI: Laba [Naik] 6% Jadi Rp16,15 Triliun, CAR Turun ke 19,2%",
+  "deck": "Laba bersih BNI naik 6 persen jadi Rp16,15 triliun dalam sembilan bulan 2026, tapi rasio kecukupan modal turun ke 19,20 persen dan laba komprehensif tergerus kerugian nilai obligasi.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBNI",
+   "laba bersih",
+   "rasio kecukupan modal",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027083910-64972-0/FinancialStatement-2026-III-BBNI.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "toyota-teratas-byd-masuk-lima-besar-penjualan-mobil-2026",
@@ -155,6 +251,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475131-mahasiswa-dan-pelajar-di-tangerang-didorong-ikut-kembangkan-sektor-pangan-dan-pertanian"
+ },
+ {
+  "slug": "ptpp-panggil-rups-sukuk-ajukan-penundaan-bagi-hasil-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPS Sukuk, Ajukan [Penundaan] Bagi Hasil ke 2027",
+  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Tahap II 2022 ke RUPSu 10 November 2026 untuk memutuskan penundaan atau pemotongan bagi hasil sampai jatuh tempo 2027, menyusul gagal bayar sebelumnya.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "sukuk",
+   "restrukturisasi utang",
+   "RUPSu"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/076342a0ef_d625849c1f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "elsa-laba-elnusa-tumbuh-29-jadi-rp681-55-miliar-di-q3",
+  "category": "Aksi Korporasi",
+  "title": "ELSA: [Laba] Elnusa Tumbuh 29% jadi Rp681,55 Miliar di Q3",
+  "deck": "Elnusa membukukan pendapatan Rp12,13 triliun dan laba bersih Rp681,55 miliar pada sembilan bulan 2026, naik dibanding periode sama tahun lalu, sementara kas perusahaan menyusut Rp568,9 miliar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "laporan keuangan",
+   "BUMN energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027092058-64847-0/FinancialStatement-2026-III-ELSA.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "esdm-periksa-kebun-sawit-diduga-nyambi-tambang",
@@ -6321,132 +6449,6 @@ var ARTICLES = [
    "transaksi insider"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1068-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-sujito-ngatiman-tambah-saham-hak-suara-ke-8-03",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Sujito Ngatiman Tambah Saham, Hak Suara ke [8,03%]",
-  "deck": "Pemegang saham Sujito Ngatiman menambah 14,77 juta lembar saham DEWI pada 19 Oktober 2026, mendorong hak suaranya naik dari 7,20 persen menjadi 8,03 persen.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "laporan OJK",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6056-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptro-jawab-permintaan-bursa-soal-volatilitas-transaksi",
-  "category": "Aksi Korporasi",
-  "title": "PTRO Jawab Permintaan Bursa soal [Volatilitas] Transaksi",
-  "deck": "Petrosea menjawab permintaan penjelasan BEI, menegaskan tidak ada informasi material yang belum diungkap selain rencana rights issue yang sudah diumumkan.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTRO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3afd552301_5283cae682.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "komisaris-drma-lepas-150-000-saham-hak-suara-tetap-1-79",
-  "category": "Aksi Korporasi",
-  "title": "Komisaris DRMA Lepas [150.000] Saham, Hak Suara Tetap 1,79%",
-  "deck": "Komisaris Dharma Polimetal, Noel Aelyo Laras Kusuma Negara, menjual 150.000 saham DRMA pada 14 Oktober 2026 senilai sekitar Rp141,75 juta, namun hak suaranya tetap 1,79 persen.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DRMA",
-   "Dharma Polimetal",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-2153-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-direksi-tambah-kepemilikan-1-8-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Direksi [Tambah] Kepemilikan 1,8 Juta Saham",
-  "deck": "Direksi TAPG George Oetomo membeli 1,8 juta saham pada 16 Oktober 2026, menambah kepemilikannya menjadi 52,86 juta lembar atau 0,2662% hak suara perusahaan.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "Triputra Agro Persada",
-   "Insider Trading",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6139-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bahlil-pusat-data-butuh-tambahan-20-gw-listrik",
-  "category": "Energi",
-  "title": "Bahlil: Pusat Data Butuh Tambahan [20 GW] Listrik",
-  "deck": "Menteri ESDM Bahlil Lahadalia memproyeksikan pusat data nasional butuh tambahan listrik 20.000 megawatt, sembari menyiapkan Batam, Karimun, dan Bintan jadi hub pusat data berbasis energi bersih.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/bahlil-pusat-data-butuh-tambahan-20-gw-listrik.jpg",
-  "imageV": "mvg17r7g",
-  "tags": [
-   "Bahlil Lahadalia",
-   "ESDM",
-   "pusat data",
-   "Batam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473936-bahlil-siapkan-energi-bersih-untuk-pusat-data-kebutuhan-listrik-diproyeksikan-bertambah-20-gw"
- },
- {
-  "slug": "gmfi-jelaskan-ke-bursa-skema-free-float-pmhmetd-iii-buntu",
-  "category": "Aksi Korporasi",
-  "title": "GMFI Jelaskan ke Bursa, Skema Free Float PMHMETD III [Buntu]",
-  "deck": "GMF AeroAsia menjawab permintaan penjelasan BEI atas rencana rights issue PMHMETD III, tapi skema pemenuhan free float dan keputusan pemegang saham pengendali masih belum final.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GMFI",
-   "rights issue",
-   "free float",
-   "PMHMETD III"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf51b0cc0a_998a59946c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtwi-ungkap-struktur-pengendali-ke-bursa-bpii-85-9-saham",
-  "category": "Aksi Korporasi",
-  "title": "MTWI Ungkap Struktur [Pengendali] ke Bursa, BPII 85,9% Saham",
-  "deck": "Menanggapi permintaan Bursa, MTWI merinci pemegang saham, direksi dan komisaris perusahaan serta induk dan anak usahanya.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTWI",
-   "BPII",
-   "pemegang saham",
-   "struktur kepemilikan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f12842a075_69fda76d66.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "direksi-totl-saleh-beli-114-800-saham-senilai-rp150-juta",
-  "category": "Aksi Korporasi",
-  "title": "Direksi TOTL Saleh [Beli] 114.800 Saham Senilai Rp150 Juta",
-  "deck": "Direksi Total Bangun Persada, Saleh, menambah kepemilikan saham lewat pembelian tidak langsung pada 16 Oktober 2026, menaikkan hak suaranya dari 0,178 persen menjadi 0,181 persen.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOTL",
-   "Total Bangun Persada",
-   "insider trading",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-4053-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

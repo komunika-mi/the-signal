@@ -5,6 +5,72 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "honda-hr-v-teratas-di-penjualan-suv-ringkas-2026",
+  "category": "Industri",
+  "title": "Honda HR-V [Teratas] di Penjualan SUV Ringkas 2026",
+  "deck": "Honda HR-V memimpin penjualan SUV ringkas Januari-September 2026 dengan 4.736 unit atau 24,1 persen pasar, disusul ketat oleh Xforce, Creta, Yaris Cross, dan Tiggo Cross.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/honda-hr-v-teratas-di-penjualan-suv-ringkas-2026.jpg",
+  "imageV": "mvqvzzkq",
+  "tags": [
+   "GAIKINDO",
+   "Honda HR-V",
+   "SUV ringkas",
+   "hybrid"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/penjualan-suv-ringkas-september-2026-hr-v-dan-xforce-di-atas/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
+  "slug": "konsumsi-ri-tumbuh-5-pemerintah-soroti-lonjakan-belanja-online",
+  "category": "Makroekonomi",
+  "title": "Konsumsi RI Tumbuh 5%, Pemerintah Soroti Lonjakan Belanja [Online]",
+  "deck": "Pemerintah menyebut konsumsi rumah tangga tumbuh di atas 5 persen pada kuartal II 2026, didorong pergeseran belanja ke platform online dan pemerataan pertumbuhan di 17 provinsi.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/keranjang-belanja-ibu.jpg",
+  "tags": [
+   "konsumsi rumah tangga",
+   "belanja online",
+   "pertumbuhan ekonomi daerah",
+   "inflasi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7187/pemerintah-perkuat-daya-beli-masyarakat-dan-jaga-stabilitas-ekonomi-di-tengah-dinamika-global",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "dagang-ri-as-tembus-us-32-34-miliar-investasi-as-naik",
+  "category": "Global",
+  "title": "Dagang RI-AS [Tembus] US$32,34 Miliar, Investasi AS Naik",
+  "deck": "Menko Airlangga dan US-ASEAN Business Council membahas penguatan dagang dan investasi RI-AS, dengan nilai perdagangan naik 11,82 persen dan investasi AS tembus US$3,4 miliar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "perdagangan RI-AS",
+   "investasi asing",
+   "Kemenko Perekonomian",
+   "Section 301"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7188/indonesia-as-perkuat-kemitraan-ekonomi-menko-airlangga-dorong-investasi-bernilai-tambah",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "bi-dan-apuvindo-susun-empat-prioritas-pasar-uang-valas-2027",
+  "category": "Moneter",
+  "title": "BI dan APUVINDO Susun [Empat] Prioritas Pasar Uang-Valas 2027",
+  "deck": "Bank Indonesia, OJK, dan APUVINDO menyusun empat prioritas pengembangan pasar uang dan valas menjelang 2027, termasuk bank kliring Renminbi dan akses lindung nilai investor asing.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "Bank Indonesia",
+   "APUVINDO",
+   "Pasar Uang",
+   "Renminbi"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823726.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "asli-catat-laba-rp5-8-miliar-aset-naik-47-per-september-2026",
   "category": "Aksi Korporasi",
   "title": "ASLI Catat [Laba] Rp5,8 Miliar, Aset Naik 47% per September 2026",
@@ -3965,7 +4031,7 @@ var ARTICLES = [
   "title": "Uang Beredar [Tumbuh] 8,3% Meski Penyaluran Kredit Melambat",
   "deck": "BI mencatat uang beredar tumbuh 8,3 persen pada September 2026, naik tipis dari bulan sebelumnya, sementara penyaluran kredit ke masyarakat justru melambat menjadi 12,7 persen.",
   "date": "23 Oktober 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/brankas-uang-sentral.jpg",
   "tags": [
    "Bank Indonesia",
    "Uang Beredar",
@@ -4607,7 +4673,7 @@ var ARTICLES = [
   "title": "CEPA RI-Kanada Resmi Berlaku [1 Desember] 2026",
   "deck": "Setelah tukar notifikasi ratifikasi, I-CA CEPA mulai berlaku 1 Desember 2026 dan membebaskan tarif 90,55 persen pos tarif produk Indonesia ke Kanada.",
   "date": "22 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/implementasi-indonesia-canada-cepa-pada-1-desember-2026-mendag-busan-optimistis-ekspor-ke-kanada-menguat",
   "sourceLabel": "Kementerian Perdagangan"
@@ -4942,7 +5008,7 @@ var ARTICLES = [
   "title": "RI-Australia Lanjutkan PROSPERA, Kejar Aksesi OECD [2028]",
   "deck": "Indonesia dan Australia memperpanjang program kerja sama ekonomi Prospera ke fase kedua untuk mendukung proses aksesi ke OECD dan CPTPP, plus kerja sama digital dan penerbangan.",
   "date": "22 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "PROSPERA",
    "OECD",
@@ -5511,7 +5577,7 @@ var ARTICLES = [
   "title": "RI Kejar Ratifikasi [IEU-CEPA] Sebelum Berlaku 2027",
   "deck": "Pemerintah menargetkan IEU-CEPA dengan Uni Eropa diratifikasi semester II 2026 dan berlaku awal 2027, salah satu dari beberapa agenda integrasi ekonomi internasional yang dikejar bersamaan.",
   "date": "21 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "IEU-CEPA",
    "OECD",
@@ -6386,71 +6452,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/19ca095a94_3ee1d6b21a.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "jeli-klaim-tak-ada-info-material-di-balik-penurunan-harga-saham",
-  "category": "Aksi Korporasi",
-  "title": "JELI Klaim Tak Ada Info Material di Balik [Penurunan] Harga Saham",
-  "deck": "JELI menyatakan tidak ada informasi material di balik penurunan harga dan lonjakan transaksi sahamnya pada 8-15 Oktober 2026, usai diminta penjelasan oleh BEI.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JELI",
-   "Niramas Utama",
-   "keterbukaan informasi",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a2243bd072_bf6badcdfc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hsbc-kuasai-5-79-saham-apex-lewat-refinancing-utang",
-  "category": "Aksi Korporasi",
-  "title": "HSBC Kuasai 5,79% Saham APEX Lewat [Refinancing] Utang",
-  "deck": "HSBC Holdings Plc kini memegang 218,09 juta saham APEX (5,79% hak suara) lewat skema repurchase agreement untuk refinancing utang, naik dari nol.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APEX",
-   "HSBC",
-   "kepemilikan saham",
-   "refinancing utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1102-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dmas-bagikan-dividen-interim-rp29-saham-total-rp1-4-triliun",
-  "category": "Aksi Korporasi",
-  "title": "DMAS Bagikan [Dividen] Interim Rp29/Saham, Total Rp1,4 Triliun",
-  "deck": "Puradelta Lestari (DMAS) membagikan dividen tunai interim Rp29 per saham senilai Rp1,4 triliun, dibayar 13 November 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMAS",
-   "dividen interim",
-   "Puradelta Lestari",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/09e9313a44_8860d5305a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "djp-jabar-i-gandeng-kampus-bandung-tax-center-jadi-33",
-  "category": "Makroekonomi",
-  "title": "DJP Jabar I Gandeng Kampus Bandung, Tax Center Jadi [33]",
-  "deck": "Kanwil DJP Jawa Barat I menambah tax center ke-33 lewat kerja sama dengan International Women University di Bandung, namun distribusinya masih timpang antar daerah.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/djp-jabar-i-gandeng-kampus-bandung-tax-center-jadi-33.jpg",
-  "imageV": "mvgl4e0m",
-  "tags": [
-   "pajak",
-   "tax center",
-   "DJP Jawa Barat",
-   "edukasi pajak"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pajak-jabar-i-dan-international-women-university-sepakati-pembentukan-tax-center",
-  "sourceLabel": "Direktorat Jenderal Pajak"
  }
 ];

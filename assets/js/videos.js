@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "OhscHHfWkOA",
+  "title": "Kadin Dorong Penguatan Industri Elektronik Nasional",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Kamar Dagang dan Industri Indonesia (Kadin) mendorong penguatan industri elektronik dalam negeri untuk memperkuat posisi Indonesia dalam rantai pasok global.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut daya saing industri manufaktur dan posisi Indonesia dalam rantai pasok elektronik dunia.",
+  "terbit": "2026-10-27T15:50:33+00:00"
+ },
+ {
   "id": "rcaFbRiyHm8",
   "title": "Pemerintah Perkuat Perlindungan dan Kesejahteraan Buruh",
   "category": "Ketenagakerjaan",

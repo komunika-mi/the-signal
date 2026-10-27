@@ -107,7 +107,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah TPT nasional yang turun ke 4,65 persen, mendekati rekor terendah sejak 1994 ketika angkanya 4,36 persen, sementara angkatan kerja sudah mencapai 155,41 juta orang, hampir dua kali lipat dibanding era 1990-an. Yang terdampak langsung adalah pencari kerja baru yang terserap pasar kerja, serta pekerja yang disasar program pelatihan vokasi dan upskilling yang disebut pemerintah sebagai fokus berikutnya. Siaran pers ini tidak merinci jenis pekerjaan yang tercipta, apakah didominasi sektor formal dengan gaji tetap atau pekerjaan informal yang lebih rentan, padahal itu menentukan apakah angka rendah ini benar-benar mencerminkan kualitas lapangan kerja, bukan sekadar kuantitasnya. Yang akan menjawab pertanyaan itu adalah rilis data Sakernas BPS periode berikutnya yang memuat rincian status dan sektor pekerjaan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "idrus-marham-ekonomi-ri-jangan-gantung-ke-indeks-msci",

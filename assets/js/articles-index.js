@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "perpres-baru-permudah-distribusi-pupuk-subsidi-ke-petani",
+  "category": "BUMN",
+  "title": "Perpres Baru Permudah Distribusi [Pupuk] Subsidi ke Petani",
+  "deck": "Pupuk Indonesia memantau stok dan penebusan pupuk subsidi secara real-time untuk musim tanam, didukung penyederhanaan distribusi lewat Perpres Nomor 113 Tahun 2025.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/perpres-baru-permudah-distribusi-pupuk-subsidi-ke-petani.jpg",
+  "imageV": "mvqm8rf6",
+  "tags": [
+   "Pupuk Indonesia",
+   "pupuk subsidi",
+   "musim tanam",
+   "Perpres 113/2025"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/895/pupuk-indonesia-siap-penuhi-kebutuhan-pupuk-saat-musim-tanam",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "cara-petani-kenali-pupuk-subsidi-asli-di-kios-resmi",
+  "category": "BUMN",
+  "title": "Cara Petani Kenali Pupuk Subsidi [Asli] di Kios Resmi",
+  "deck": "Pupuk Indonesia mengimbau petani menebus pupuk bersubsidi hanya lewat kios resmi atau PPTS, serta memeriksa kemasan agar terhindar dari pupuk tiruan.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/cara-petani-kenali-pupuk-subsidi-asli-di-kios-resmi.jpg",
+  "imageV": "mvqm8sod",
+  "tags": [
+   "Pupuk Indonesia",
+   "Pupuk Subsidi",
+   "PPTS",
+   "Pupuk Palsu"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/896/membeli-pupuk-subsidi-di-kios-resmi-lebih-aman",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
   "slug": "nine-panggil-rupslb-bahas-rights-issue-2-44-miliar-saham",
   "category": "Aksi Korporasi",
   "title": "NINE Panggil RUPSLB, Bahas [Rights Issue] 2,44 Miliar Saham",
@@ -6417,38 +6453,6 @@ var ARTICLES = [
    "Bumi Resources Minerals"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6495-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nano-softbank-ventura-indonesia-kurangi-kepemilikan-saham",
-  "category": "Aksi Korporasi",
-  "title": "NANO: SoftBank Ventura Indonesia [kurangi] kepemilikan saham",
-  "deck": "SoftBank Ventura Indonesia melaporkan penjualan saham NANO sebanyak 52,366 juta lembar, menurunkan hak suaranya dari 8,46 persen menjadi 7,24 persen.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NANO",
-   "SoftBank Ventura Indonesia",
-   "kepemilikan saham",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-0789-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-komisaris-edwin-soeryadjaya-beli-saham-rp8-7-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Komisaris Edwin Soeryadjaya [Beli] Saham Rp8,7 Miliar",
-  "deck": "Edwin Soeryadjaya menambah 5,8 juta saham Saratoga lewat dua transaksi pertengahan Oktober 2026, hak suaranya naik tipis jadi 36,04 persen.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Saratoga Investama Sedaya",
-   "Edwin Soeryadjaya",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6639-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

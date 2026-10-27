@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "perpres-baru-permudah-distribusi-pupuk-subsidi-ke-petani",
+  "category": "BUMN",
+  "title": "Perpres Baru Permudah Distribusi [Pupuk] Subsidi ke Petani",
+  "deck": "Pupuk Indonesia memantau stok dan penebusan pupuk subsidi secara real-time untuk musim tanam, didukung penyederhanaan distribusi lewat Perpres Nomor 113 Tahun 2025.",
+  "image": "assets/img/perpres-baru-permudah-distribusi-pupuk-subsidi-ke-petani.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T11:39:48.575Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/895/pupuk-indonesia-siap-penuhi-kebutuhan-pupuk-saat-musim-tanam",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "Pupuk Indonesia",
+   "pupuk subsidi",
+   "musim tanam",
+   "Perpres 113/2025"
+  ],
+  "body": [
+   "Pupuk Indonesia menyatakan siap memenuhi kebutuhan pupuk subsidi menjelang dan selama musim tanam dengan memantau kondisi stok serta tingkat penebusan di seluruh wilayah. Kesiapan ini penting karena ketepatan waktu ketersediaan pupuk kerap jadi penentu apakah petani bisa menanam sesuai jadwal musim.",
+   "Proses distribusi kini juga ditopang oleh Peraturan Presiden Nomor 113 Tahun 2025, yang menyederhanakan tata kelola penyaluran pupuk subsidi. Perusahaan menyebut aturan ini mempermudah akses petani terhadap pupuk, sembari distribusi tetap disesuaikan dengan kondisi stok dan kebutuhan aktual di lapangan.",
+   "Untuk mengetahui kondisi di lapangan, Pupuk Indonesia mengandalkan sistem Command Center dan i-Pubers yang memantau stok hingga titik serah secara real-time. Dengan data ini, perusahaan bisa mengidentifikasi wilayah dengan permintaan tinggi tanpa harus menunggu laporan manual dari daerah.",
+   "Ketika suatu wilayah menunjukkan tingkat penebusan atau kebutuhan yang tinggi, Pupuk Indonesia dapat melakukan rekonfigurasi atau realokasi stok dari wilayah lain. Mekanisme ini dimaksudkan agar ketersediaan pupuk di satu daerah tidak tertinggal dari kebutuhan riil petani saat musim tanam berlangsung."
+  ],
+  "fotoAdegan": "Warehouse workers stacking fertilizer sacks onto a truck bed at a rural distribution depot, early morning light",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1869/conversions/Screen-Shot-2026-10-27-at-16.25.14-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang berubah di sini adalah tata kelola distribusi pupuk subsidi yang disederhanakan lewat Perpres Nomor 113 Tahun 2025, dibarengi penguatan pemantauan digital lewat Command Center dan i-Pubers untuk mendeteksi wilayah yang kekurangan stok. Pihak yang terdampak jelas petani yang bergantung pada pupuk subsidi tepat waktu, serta jaringan distributor yang harus menyesuaikan pasokan antarwilayah. Namun siaran pers ini tidak menyebut berapa ton stok nasional yang tersedia, wilayah mana saja yang pernah mengalami realokasi, atau apa persisnya yang disederhanakan Perpres 113/2025 dibanding aturan distribusi sebelumnya. Tanpa angka realisasi penyaluran per wilayah, belum bisa dipastikan apakah sistem reallokasi ini benar-benar mempercepat distribusi atau sekadar klaim kesiapan rutin; yang perlu dipantau adalah laporan realisasi tebus pupuk subsidi dari Kementerian Pertanian atau Pupuk Indonesia setelah musim tanam kali ini berjalan.",
+  "imageV": "mvqm8rf6"
+ },
+ {
+  "slug": "cara-petani-kenali-pupuk-subsidi-asli-di-kios-resmi",
+  "category": "BUMN",
+  "title": "Cara Petani Kenali Pupuk Subsidi [Asli] di Kios Resmi",
+  "deck": "Pupuk Indonesia mengimbau petani menebus pupuk bersubsidi hanya lewat kios resmi atau PPTS, serta memeriksa kemasan agar terhindar dari pupuk tiruan.",
+  "image": "assets/img/cara-petani-kenali-pupuk-subsidi-asli-di-kios-resmi.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T11:39:48.270Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/896/membeli-pupuk-subsidi-di-kios-resmi-lebih-aman",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "Pupuk Indonesia",
+   "Pupuk Subsidi",
+   "PPTS",
+   "Pupuk Palsu"
+  ],
+  "body": [
+   "Pupuk Indonesia mengimbau petani untuk menebus pupuk bersubsidi hanya melalui kios resmi atau titik penyaluran yang telah ditetapkan perusahaan, bukan dari penjual yang asal-usulnya tidak jelas. Imbauan ini relevan karena beredarnya pupuk tiruan dengan kemasan yang menyerupai produk asli berisiko membuat petani rugi, baik karena membayar harga tidak wajar maupun mendapatkan pupuk yang tidak sesuai standar kualitas.",
+   "Dalam tata kelola distribusi yang berlaku, titik penyaluran resmi itu disebut Penerima Pupuk pada Titik Serah atau PPTS, yang bisa berupa kios, pengecer, gabungan kelompok tani, kelompok pembudi daya ikan, atau koperasi yang sudah ditetapkan. Pada 2026, petani yang sudah terdaftar sebagai penerima pupuk bersubsidi dapat menebus jatahnya di PPTS dengan membawa KTP dan uang tunai sesuai jumlah pupuk yang dibeli, dengan harga yang mengacu pada Harga Eceran Tertinggi, yaitu batas harga maksimal yang ditetapkan pemerintah untuk wilayah tersebut.",
+   "Transaksi penebusan itu dicatat lewat aplikasi bernama i-Pubers, yang dipakai pemilik kios atau PPTS untuk merekam data petani dan jumlah pupuk yang ditebus secara digital, sehingga penyalurannya bisa dilacak. Pupuk Indonesia meminta petani memeriksa kemasan sebelum membeli, antara lain mencocokkan nama merek dan produsen, memastikan ada logo Standar Nasional Indonesia atau SNI, nomor izin edar, nomor layanan pelanggan, serta tulisan \"Pupuk Bersubsidi Pemerintah, Barang Dalam Pengawasan\" khusus untuk pupuk subsidi.",
+   "Jika petani menemukan kios yang tidak terdaftar dalam jaringan resmi, kemasan yang mencurigakan, atau harga yang tidak sesuai HET, Pupuk Indonesia meminta hal itu dilaporkan melalui kanal layanan resmi perusahaan agar bisa ditindaklanjuti."
+  ],
+  "fotoAdegan": "A farmer loading sacks of fertilizer onto a motorbike outside a small rural supply kiosk, stacked sacks nearby, daylight",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1870/conversions/Screen-Shot-2026-10-27-at-16.37.24-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang berubah di sini bukan besaran subsidi atau harganya, melainkan tata kelola titik penyalurannya: kios, pengecer, gabungan kelompok tani, hingga koperasi yang ditunjuk kini disebut PPTS dan transaksinya wajib tercatat lewat aplikasi i-Pubers, bukan lagi sekadar catatan manual pemilik kios. Yang terdampak langsung adalah petani penerima pupuk bersubsidi, yang harus terdaftar dan membawa KTP untuk bisa menebus sesuai alokasi, serta pemilik kios dan pengecer yang kini berstatus PPTS dengan transaksi yang terekam sistem. Siaran pers ini tidak menyebut berapa banyak kios yang sudah masuk sistem i-Pubers atau berapa kasus pupuk tiruan yang tertangkap lewat pengawasan ini, sehingga belum bisa dipastikan apakah digitalisasi ini benar-benar menekan peredaran pupuk palsu atau baru sebatas syarat administrasi baru. Yang perlu dipantau adalah data resmi dari Pupuk Indonesia atau Kementerian Pertanian soal jumlah kios yang sudah terverifikasi dan tindak lanjut kasus pupuk tiruan menjelang musim tanam mendatang.",
+  "imageV": "mvqm8sod"
+ },
+ {
   "slug": "nine-panggil-rupslb-bahas-rights-issue-2-44-miliar-saham",
   "category": "Aksi Korporasi",
   "title": "NINE Panggil RUPSLB, Bahas [Rights Issue] 2,44 Miliar Saham",
@@ -995,7 +1051,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah TPT nasional yang turun ke 4,65 persen, mendekati rekor terendah sejak 1994 ketika angkanya 4,36 persen, sementara angkatan kerja sudah mencapai 155,41 juta orang, hampir dua kali lipat dibanding era 1990-an. Yang terdampak langsung adalah pencari kerja baru yang terserap pasar kerja, serta pekerja yang disasar program pelatihan vokasi dan upskilling yang disebut pemerintah sebagai fokus berikutnya. Siaran pers ini tidak merinci jenis pekerjaan yang tercipta, apakah didominasi sektor formal dengan gaji tetap atau pekerjaan informal yang lebih rentan, padahal itu menentukan apakah angka rendah ini benar-benar mencerminkan kualitas lapangan kerja, bukan sekadar kuantitasnya. Yang akan menjawab pertanyaan itu adalah rilis data Sakernas BPS periode berikutnya yang memuat rincian status dan sektor pekerjaan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "idrus-marham-ekonomi-ri-jangan-gantung-ke-indeks-msci",

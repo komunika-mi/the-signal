@@ -4,6 +4,38 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "rcaFbRiyHm8",
+  "title": "Pemerintah Perkuat Perlindungan dan Kesejahteraan Buruh",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah mendorong penguatan perlindungan hak dan kesejahteraan pekerja dalam Forum Regional Serikat Buruh Asia Pasifik di Jakarta, yang juga membahas kerja sama antarnegara.",
+  "takeaway": "Forum ini relevan bagi pembaca ekonomi karena menyangkut arah kebijakan ketenagakerjaan dan daya saing tenaga kerja Indonesia di kawasan Asia Pasifik."
+ },
+ {
+  "id": "h8tG5jT-JxQ",
+  "title": "Perpres 27/2026 Beri Perlindungan Bagi Pengemudi Ojol",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah resmi menerbitkan Peraturan Presiden Nomor 27 Tahun 2026 yang memberikan kepastian hukum, perlindungan sosial, dan kesejahteraan bagi pengemudi ojek online.",
+  "takeaway": "Regulasi ini penting bagi pembaca ekonomi karena mengatur skema kerja dan jaminan sosial bagi jutaan pekerja di sektor transportasi daring."
+ },
+ {
+  "id": "kpXH9Xxx7NE",
+  "title": "Kementan Dorong Kemitraan Koperasi Petani Jagung Pakan",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Pertanian memfasilitasi pembentukan koperasi bagi peternak dan petani jagung guna memperkuat ekosistem pakan mandiri.",
+  "takeaway": "Langkah ini relevan bagi pembaca ekonomi karena berkaitan dengan upaya menekan ketergantungan impor pakan ternak dan menjaga harga di tingkat petani."
+ },
+ {
+  "id": "Smh_Pfc1Oxw",
+  "title": "1,1 Juta Warga RI Keluar dari Kemiskinan Ekstrem",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menko Pemberdayaan Masyarakat Muhaimin Iskandar menyebut 1,1 juta orang keluar dari kemiskinan ekstrem dalam dua tahun pemerintahan Presiden Prabowo Subianto.",
+  "takeaway": "Data ini menjadi indikator penting bagi pembaca ekonomi untuk menilai efektivitas program perlindungan sosial dan pemerataan kesejahteraan."
+ },
+ {
   "id": "DqtZzxJmcjk",
   "title": "Menaker Hadiri Pertemuan Serikat Buruh Asia Pasifik",
   "category": "Ketenagakerjaan",
@@ -450,37 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Menteri ESDM Bahlil Lahadalia menyatakan pasokan bahan bakar minyak di Bali sudah kembali normal setelah sempat terganggu akibat keterlambatan kapal.",
   "takeaway": "Kabar ini penting bagi pelaku usaha dan masyarakat Bali yang bergantung pada kelancaran distribusi energi."
- },
- {
-  "id": "Yst8wLp798o",
-  "title": "Kopdes Ciptakan Kemandirian atau Ketergantungan? Jawaban Menteri Desa",
-  "category": "UMKM",
-  "program": "Jejak Perubahan",
-  "summary": "Menteri Desa menanggapi pertanyaan apakah program Koperasi Desa (Kopdes) benar-benar membuat masyarakat mandiri secara ekonomi atau justru menciptakan ketergantungan baru.",
-  "takeaway": "Kopdes menyangkut langsung pemberdayaan ekonomi desa dan koperasi, relevan bagi pembaca yang mengikuti kebijakan UMKM dan ekonomi lokal."
- },
- {
-  "id": "rTDHttd2_7Q",
-  "title": "Bandara Batam Buka Rute Penerbangan ke Malaysia",
-  "category": "Industri",
-  "program": "OneNews Update",
-  "summary": "PT Bandara Internasional Batam resmi membuka rute penerbangan perdana Batam-Penang bersama Batik Air Malaysia, yang akan beroperasi tiga kali dalam sepekan.",
-  "takeaway": "Pembukaan rute baru ini relevan sebagai indikator ekspansi bisnis penerbangan dan konektivitas perdagangan di kawasan Batam."
- },
- {
-  "id": "XWmePnqTUNg",
-  "title": "BEI dan OJK Temui MSCI, Ungkap Dua Inisiatif Baru",
-  "category": "Pasar Modal",
-  "program": "tvOneNews",
-  "summary": "Bursa Efek Indonesia dan Otoritas Jasa Keuangan menggelar pertemuan daring dengan MSCI Inc pada Senin, 19 Oktober 2026, untuk membahas dua inisiatif baru terkait pasar modal Indonesia.",
-  "takeaway": "Pertemuan dengan MSCI penting bagi investor karena indeks lembaga ini menjadi acuan utama penilaian pasar modal Indonesia di mata global."
- },
- {
-  "id": "TlZwaU5MDFg",
-  "title": "Antrean BBM di Ternate Mengular, Pertamina Siapkan Delivery",
-  "category": "Energi",
-  "program": "AKIS tvOne",
-  "summary": "Warga dan sopir angkutan kota di Kota Ternate harus mengantre berjam-jam untuk mendapatkan BBM jenis Pertalite, sehingga Pertamina menyiapkan layanan pengantaran langsung ke titik antrean.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kelancaran distribusi BBM bersubsidi yang berdampak langsung pada mobilitas dan aktivitas usaha warga di Ternate."
  }
 ];

@@ -2,6 +2,42 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "rcaFbRiyHm8",
+  "title": "Pemerintah Perkuat Perlindungan dan Kesejahteraan Buruh",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah mendorong penguatan perlindungan hak dan kesejahteraan pekerja dalam Forum Regional Serikat Buruh Asia Pasifik di Jakarta, yang juga membahas kerja sama antarnegara.",
+  "takeaway": "Forum ini relevan bagi pembaca ekonomi karena menyangkut arah kebijakan ketenagakerjaan dan daya saing tenaga kerja Indonesia di kawasan Asia Pasifik.",
+  "terbit": "2026-10-27T09:01:44+00:00"
+ },
+ {
+  "id": "h8tG5jT-JxQ",
+  "title": "Perpres 27/2026 Beri Perlindungan Bagi Pengemudi Ojol",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah resmi menerbitkan Peraturan Presiden Nomor 27 Tahun 2026 yang memberikan kepastian hukum, perlindungan sosial, dan kesejahteraan bagi pengemudi ojek online.",
+  "takeaway": "Regulasi ini penting bagi pembaca ekonomi karena mengatur skema kerja dan jaminan sosial bagi jutaan pekerja di sektor transportasi daring.",
+  "terbit": "2026-10-27T08:40:47+00:00"
+ },
+ {
+  "id": "kpXH9Xxx7NE",
+  "title": "Kementan Dorong Kemitraan Koperasi Petani Jagung Pakan",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Pertanian memfasilitasi pembentukan koperasi bagi peternak dan petani jagung guna memperkuat ekosistem pakan mandiri.",
+  "takeaway": "Langkah ini relevan bagi pembaca ekonomi karena berkaitan dengan upaya menekan ketergantungan impor pakan ternak dan menjaga harga di tingkat petani.",
+  "terbit": "2026-10-27T08:37:31+00:00"
+ },
+ {
+  "id": "Smh_Pfc1Oxw",
+  "title": "1,1 Juta Warga RI Keluar dari Kemiskinan Ekstrem",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menko Pemberdayaan Masyarakat Muhaimin Iskandar menyebut 1,1 juta orang keluar dari kemiskinan ekstrem dalam dua tahun pemerintahan Presiden Prabowo Subianto.",
+  "takeaway": "Data ini menjadi indikator penting bagi pembaca ekonomi untuk menilai efektivitas program perlindungan sosial dan pemerataan kesejahteraan.",
+  "terbit": "2026-10-27T08:32:04+00:00"
+ },
+ {
   "id": "DqtZzxJmcjk",
   "title": "Menaker Hadiri Pertemuan Serikat Buruh Asia Pasifik",
   "category": "Ketenagakerjaan",

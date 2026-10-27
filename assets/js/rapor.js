@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-27T03:07:29.066+07:00",
+ "diperbarui": "2026-10-28T02:35:42.736+07:00",
  "entri": [
+  {
+   "id": "2026-10-27-3",
+   "edisi": "2026-10-27",
+   "benang": "Tekanan Utang Mulai Terlihat sebagai Gagal Bayar",
+   "klaim": "Arahnya sudah jelas bergerak dari sekadar pembiayaan utang menuju insiden gagal bayar yang konkret.",
+   "penanda": "Hasil RUPS pemegang sukuk PTPP",
+   "tenggat": "2026-11-10",
+   "tenggatLabel": "hasil RUPS pemegang sukuk PTPP pada 10 November mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-27-2",
+   "edisi": "2026-10-27",
+   "benang": "Laba Emiten Komoditas Melesat di Kuartal III",
+   "klaim": "Arah laba emiten komoditas sudah jelas menguat, mengikuti harga komoditas yang bertahan tinggi sepanjang kuartal ini.",
+   "penanda": "Data ekspor komoditas BPS untuk September-Oktober serta pergerakan harga sawit dan batu bara",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "data ekspor komoditas BPS untuk September-Oktober serta pergerakan harga sawit dan batu bara di kuartal IV",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-27-1",
+   "edisi": "2026-10-27",
+   "benang": "Pertumbuhan Ekonomi Ditopang Konsumsi dan Dagang",
+   "klaim": "Arah penguatan ekonomi sudah jelas, dengan konsumsi domestik, penyerapan tenaga kerja, dan permintaan luar negeri yang sama-sama menguat.",
+   "penanda": "Rilis pertumbuhan ekonomi kuartal III 2026 serta data inflasi Oktober dari BPS",
+   "tenggat": "2026-11-05",
+   "tenggatLabel": "rilis pertumbuhan ekonomi kuartal III 2026 serta data inflasi Oktober dari BPS awal November",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-26-3",
    "edisi": "2026-10-26",

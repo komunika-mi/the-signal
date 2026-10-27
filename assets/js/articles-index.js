@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "hmsp-catat-laba-melonjak-44-jadi-rp6-51-triliun",
+  "category": "Aksi Korporasi",
+  "title": "HMSP Catat Laba [Melonjak] 44% Jadi Rp6,51 Triliun",
+  "deck": "Laba bersih HM Sampoerna naik dari Rp4,51 triliun menjadi Rp6,51 triliun pada sembilan bulan 2026, ditopang pendapatan yang tumbuh dan arus kas operasi yang menguat.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HMSP",
+   "laporan keuangan",
+   "laba bersih",
+   "rokok"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027130331-65016-0/FinancialStatement-2026-III-HMSP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-pakaian-jadi-ri-naik-2-8-persen-incar-pasar-global",
   "category": "Industri",
   "title": "Ekspor Pakaian Jadi RI Naik 2,8 Persen, Incar Pasar [Global]",
@@ -23,6 +39,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "jecx-laba-bersih-turun-38-meski-rampungkan-ipo-rp377-m",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Laba Bersih [Turun] 38% Meski Rampungkan IPO Rp377 M",
+  "deck": "Laporan interim kuartal III 2026 JECX menunjukkan laba bersih turun 38 persen dan laba per saham longsor 48 persen, meski dana IPO Rp377 miliar memperkuat ekuitas dan memangkas utang bank.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "laporan keuangan",
+   "IPO",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027120655-64697-0/FinancialStatement-2026-III-JECX.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pnm-sediakan-daycare-mini-untuk-nasabah-umkm-pontianak",
   "category": "UMKM",
   "title": "PNM Sediakan [Daycare] Mini untuk Nasabah UMKM Pontianak",
@@ -38,6 +70,118 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475189-dari-ruang-belajar-hingga-potensi-lokal-pnm-dukung-perempuan-pontianak-kembangkan-usaha"
+ },
+ {
+  "slug": "ceka-laba-bersih-naik-52-jadi-rp243-7-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "CEKA: Laba Bersih Naik [52%] jadi Rp243,7 Miliar di Kuartal III",
+  "deck": "Laba bersih Wilmar Cahaya Indonesia (CEKA) melonjak 52 persen jadi Rp243,7 miliar pada sembilan bulan 2026, didukung kenaikan pendapatan 19 persen, meski kas perusahaan menyusut tajam.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CEKA",
+   "Wilmar Cahaya Indonesia",
+   "laporan keuangan kuartal III",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027115734-64518-0/FinancialStatement-2026-III-CEKA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "koni-bukukan-laba-rp10-6-miliar-utang-usaha-nyaris-lunas",
+  "category": "Aksi Korporasi",
+  "title": "KONI Bukukan [Laba] Rp10,6 Miliar, Utang Usaha Nyaris Lunas",
+  "deck": "Laba bersih KONI naik 41 persen menjadi Rp10,65 miliar pada kuartal III 2026, sementara total liabilitas turun lebih dari separuh setelah utang usaha nyaris lunas.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KONI",
+   "laporan keuangan",
+   "laba bersih",
+   "utang usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027115457-65032-0/FinancialStatement-2026-III-KONI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wmuu-audit-kuartal-iii-untuk-siapkan-aksi-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "WMUU Audit Kuartal III untuk Siapkan [Aksi Korporasi]",
+  "deck": "Widodo Makmur Unggas akan mengaudit laporan keuangan interim per 30 September 2026 untuk mendukung rencana aksi korporasi yang masih disusun bersama konsultan.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WMUU",
+   "Widodo Makmur Unggas",
+   "aksi korporasi",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dd45fb1acd_6af6946bbb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "trus-laba-turun-23-persen-dividen-jumbo-gerus-ekuitas",
+  "category": "Aksi Korporasi",
+  "title": "TRUS: [Laba] turun 23 persen, dividen jumbo gerus ekuitas",
+  "deck": "Laba bersih TRUS turun 23 persen di kuartal III 2026, sementara dividen Rp48 miliar yang dibagikan melampaui laba periode ini dan menggerus ekuitas.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUS",
+   "Trust Finance Indonesia",
+   "laporan keuangan",
+   "multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027113801-64672-0/FinancialStatement-2026-III-TRUS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-flmc-bahas-rencana-anak-usaha-dan-ganti-domisili",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB FLMC Bahas Rencana [Anak Usaha] dan Ganti Domisili",
+  "deck": "FLMC memanggil RUPSLB 18 November 2026 untuk membahas penyesuaian KBLI, penambahan KBLI holding terkait rencana anak usaha, dan perubahan domisili Perseroan.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "RUPSLB",
+   "KBLI",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dc9a3dccc5_b3c9c1e7c4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mcol-bukukan-laba-bersih-melonjak-55-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "MCOL Bukukan Laba Bersih [Melonjak] 55% di Sembilan Bulan 2026",
+  "deck": "PT Prima Andalan Mandiri (MCOL) mencatat pendapatan US$542,2 juta dan laba bersih US$58,0 juta untuk sembilan bulan 2026, naik dibanding periode sama tahun lalu.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MCOL",
+   "batu bara",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027110503-64838-0/FinancialStatement-2026-III-MCOL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ibfn-catat-laba-rp7-37-miliar-ekuitas-masih-negatif-rp766-m",
+  "category": "Aksi Korporasi",
+  "title": "IBFN Catat Laba Rp7,37 Miliar, [Ekuitas] Masih Negatif Rp766 M",
+  "deck": "Laporan keuangan interim kuartal III 2026 PT Intan Baru Prana Tbk menunjukkan laba bersih berbalik dari rugi, namun defisiensi modal perusahaan masih sangat besar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IBFN",
+   "laporan keuangan",
+   "defisiensi modal",
+   "watchlist"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027110144-64615-0/FinancialStatement-2026-III-IBFN.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "mmlp-bukukan-rugi-rp94-miliar-di-kuartal-iii-2026",
@@ -251,6 +395,22 @@ var ARTICLES = [
    "buyback saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027054427-64794-0/FinancialStatement-2026-III-LABS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpro-rugi-menyempit-jadi-rp33-08-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MPRO: Rugi [Menyempit] Jadi Rp33,08 Miliar di Kuartal III 2026",
+  "deck": "Pendapatan MPRO naik 45 persen dan rugi bersih menyempit jadi Rp33,08 miliar pada sembilan bulan pertama 2026, tapi arus kas operasi makin negatif dan utang jangka pendek bertambah.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPRO",
+   "laporan keuangan",
+   "properti",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027041013-64698-0/FinancialStatement-2026-III-MPRO.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6291,167 +6451,6 @@ var ARTICLES = [
    "Properti"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7ac2081381_adaea1c8be.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-trimegah-sekuritas-tambah-265-juta-saham-via-reverse-repo",
-  "category": "Aksi Korporasi",
-  "title": "[ENRG] Trimegah Sekuritas Tambah 265 Juta Saham via Reverse Repo",
-  "deck": "Trimegah Sekuritas Indonesia melaporkan penambahan kepemilikan saham ENRG lewat transaksi reverse repo, hak suara naik dari 10,72% menjadi 11,55%.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "Trimegah Sekuritas",
-   "kepemilikan saham",
-   "reverse repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6039-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kmds-jadwalkan-rupslb-pada-26-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "KMDS Jadwalkan [RUPSLB] pada 26 November 2026",
-  "deck": "Kurniamitra Duta Sentosa Tbk akan menggelar RUPSLB pada 26 November 2026, dengan cum date pemegang saham 3 November 2026 dan tenggat usul agenda 19 November 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KMDS",
-   "RUPSLB",
-   "Pasar Modal",
-   "Emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2a3a66e49e_18cbe93db2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdla-direksi-borong-1-38-juta-saham-dalam-dua-hari",
-  "category": "Aksi Korporasi",
-  "title": "MDLA: Direksi [Borong] 1,38 Juta Saham dalam Dua Hari",
-  "deck": "Direksi Medela Potentia, Juliwaty, membeli 1.384.400 lembar saham MDLA pada 15-16 Oktober 2026, menaikkan kepemilikannya 28,4 persen menjadi 6.252.300 lembar.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLA",
-   "Medela Potentia",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-7827-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-hak-suara-direksi-turun-ke-10-96-via-transaksi-repo",
-  "category": "Aksi Korporasi",
-  "title": "BAJA: Hak Suara Direksi Turun ke [10,96]% via Transaksi Repo",
-  "deck": "Direksi BAJA, Entario Widjaja Susanto, melaporkan hak suaranya turun dari 16,45% jadi 10,96% lewat transaksi repurchase agreement, meski jumlah sahamnya tetap 296,02 juta lembar.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "Saranacentral Bajatama",
-   "kepemilikan saham",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1662-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sdra-resmi-angkat-kim-jun-beom-jadi-direktur-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "SDRA Resmi Angkat [Kim Jun Beom] Jadi Direktur Keuangan",
-  "deck": "Direktur Keuangan dan Perencanaan baru Bank Woori Saudara efektif menjabat 19 Oktober 2026 setelah lolos uji kelayakan OJK, menggantikan direktur sebelumnya yang mundur sejak 1 Juli 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SDRA",
-   "Bank Woori Saudara",
-   "Direksi",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/af45514c71_1d6e3dd40b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-jadi-rp2-564-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Jadi Rp2.564.000/Gram",
-  "deck": "Harga emas Antam turun Rp10.000 menjadi Rp2.564.000 per gram pada 20 Oktober 2026, sementara harga buyback juga turun ke Rp2.379.000 per gram.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-564-000-gram.jpg",
-  "imageV": "mvg74jm4",
-  "tags": [
-   "emas antam",
-   "harga emas",
-   "logam mulia",
-   "buyback emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/473949-saatnya-borong-harga-emas-antam-hari-ini-20-oktober-2026-terpantau-turun-jadi-rp2564000-per-gram"
- },
- {
-  "slug": "baja-hak-suara-investor-turun-ke-0-95-meski-saham-tetap",
-  "category": "Aksi Korporasi",
-  "title": "BAJA: [Hak Suara] Investor Turun ke 0,95% Meski Saham Tetap",
-  "deck": "Anton Sebastian melaporkan hak suaranya di Saranacentral Bajatama turun dari 1,43% jadi 0,95% lewat transaksi repo, padahal jumlah sahamnya tidak berubah.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "kepemilikan saham",
-   "transaksi repo",
-   "Saranacentral Bajatama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-6687-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-hak-suara-turun-ke-1-62-meski-saham-tetap",
-  "category": "Aksi Korporasi",
-  "title": "BAJA: Hak Suara Turun ke 1,62% Meski Saham [Tetap]",
-  "deck": "Laksmono Tirta Kusumo, bukan direksi atau komisaris, melaporkan 43,79 juta saham BAJA tak berubah, tapi hak suaranya turun dari 2,43% jadi 1,62%.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "kepemilikan saham",
-   "hak suara",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-5764-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mlia-muliaglass-bangun-ulang-satu-tungku-kaca-lembaran",
-  "category": "Aksi Korporasi",
-  "title": "MLIA: Muliaglass Bangun Ulang Satu [Tungku] Kaca Lembaran",
-  "deck": "PT Muliaglass, anak usaha Mulia Industrindo, mulai membangun ulang bertahap satu dari tiga tungku kaca lembaran yang sudah di tahun terakhir operasinya, menyusul naiknya harga gas.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MLIA",
-   "Mulia Industrindo",
-   "Muliaglass",
-   "kaca lembaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/349138e84f_2dcf8ae91d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "direksi-tpia-tambah-kepemilikan-saham-1-juta-lembar",
-  "category": "Aksi Korporasi",
-  "title": "Direksi TPIA Tambah [Kepemilikan] Saham 1 Juta Lembar",
-  "deck": "Direktur TPIA, Raymond, membeli tambahan 1 juta saham Chandra Asri Pacific pada 16 Oktober 2026 senilai Rp1,2 miliar, meski hak suaranya di perusahaan tetap 0,01%.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "Chandra Asri Pacific",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-8988-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

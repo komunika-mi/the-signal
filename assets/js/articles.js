@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "hmsp-catat-laba-melonjak-44-jadi-rp6-51-triliun",
+  "category": "Aksi Korporasi",
+  "title": "HMSP Catat Laba [Melonjak] 44% Jadi Rp6,51 Triliun",
+  "deck": "Laba bersih HM Sampoerna naik dari Rp4,51 triliun menjadi Rp6,51 triliun pada sembilan bulan 2026, ditopang pendapatan yang tumbuh dan arus kas operasi yang menguat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T12:51:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027130331-65016-0/FinancialStatement-2026-III-HMSP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HMSP",
+  "tags": [
+   "HMSP",
+   "laporan keuangan",
+   "laba bersih",
+   "rokok"
+  ],
+  "body": [
+   "HM Sampoerna Tbk (HMSP) melaporkan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia. Pendapatan bersih perusahaan rokok ini tercatat Rp87,51 triliun, naik dari Rp83,74 triliun pada periode yang sama tahun 2025. Laba kotor naik dari Rp15,41 triliun menjadi Rp16,02 triliun, sementara laba bersih periode berjalan melonjak dari Rp4,51 triliun menjadi Rp6,51 triliun. Laba per saham ikut naik dari Rp39 menjadi Rp56 per lembar.",
+   "Di sisi keuangan, kas dan setara kas perusahaan naik tajam dari Rp4,77 triliun pada akhir 2025 menjadi Rp9,12 triliun per 30 September 2026. Total aset turun sedikit dari Rp51,56 triliun menjadi Rp50,41 triliun, sedangkan total liabilitas menyusut dari Rp23,21 triliun menjadi Rp22,15 triliun, terutama karena utang cukai rokok yang belum dibayar turun dari Rp12,20 triliun menjadi Rp10,62 triliun. Ekuitas perusahaan relatif stabil di kisaran Rp28,26 triliun, karena laba yang bertambah sebagian besar terpakai untuk membayar dividen Rp6,55 triliun kepada pemegang saham sepanjang sembilan bulan ini.",
+   "Dari sisi arus kas, kas bersih dari aktivitas operasi naik signifikan dari Rp4,49 triliun menjadi Rp7,36 triliun, didukung penerimaan kas dari pelanggan yang naik menjadi Rp98,48 triliun. Namun beban cukai yang dibayar tunai ke negara juga naik dari Rp59,74 triliun menjadi Rp63,59 triliun. Perusahaan mencatat jumlah karyawan tetap turun dari 19.816 orang per akhir 2025 menjadi 19.326 orang per 30 September 2026. Dalam surat pengantarnya, manajemen menegaskan tidak ada perubahan nilai aset maupun liabilitas yang melebihi 20 persen dibandingkan posisi akhir 2025."
+  ],
+  "fotoAdegan": "Workers monitoring cigarette rolling and packing machines on a factory production line, Indonesia, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi HMSP, sebab laba bersih melonjak 44 persen dan kas perusahaan menebal signifikan dalam sembilan bulan terakhir. Dua pos yang pantas dicermati adalah laba per saham, yaitu laba yang dibagi jumlah saham beredar dan jadi ukuran yang biasa dipakai investor untuk menilai kinerja per lembar saham, yang naik dari Rp39 ke Rp56, serta arus kas operasi, yakni uang tunai riil yang benar-benar masuk dari penjualan rokok setelah dikurangi ongkos sehari-hari, yang hampir dua kali lipat menjadi Rp7,36 triliun. Beban cukai rokok yang dibayar ke negara tetap menjadi pos terbesar dan justru naik menjadi Rp63,59 triliun, jadi kenaikan laba terjadi walau ongkos cukai makin berat. Karena ini masih laporan kuartal ketiga yang belum diaudit, yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang telah diaudit, biasanya terbit awal tahun berikutnya, untuk memastikan tren kenaikan laba ini bertahan sampai akhir tahun.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "ekspor-pakaian-jadi-ri-naik-2-8-persen-incar-pasar-global",
   "category": "Industri",
   "title": "Ekspor Pakaian Jadi RI Naik 2,8 Persen, Incar Pasar [Global]",
@@ -31,6 +57,33 @@ var ARTICLES = [
   "imageV": "mvq9e7ef"
  },
  {
+  "slug": "jecx-laba-bersih-turun-38-meski-rampungkan-ipo-rp377-m",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Laba Bersih [Turun] 38% Meski Rampungkan IPO Rp377 M",
+  "deck": "Laporan interim kuartal III 2026 JECX menunjukkan laba bersih turun 38 persen dan laba per saham longsor 48 persen, meski dana IPO Rp377 miliar memperkuat ekuitas dan memangkas utang bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T11:56:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027120655-64697-0/FinancialStatement-2026-III-JECX.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "laporan keuangan",
+   "IPO",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Nitrasanata Dharma Tbk (JECX), operator jaringan rumah sakit dan klinik mata JEC Eye Hospitals and Clinics, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan naik tipis menjadi Rp706,95 miliar dari Rp691,45 miliar pada periode yang sama tahun lalu. Namun laba bersih justru turun menjadi Rp39,75 miliar dari Rp64,01 miliar, dan bagian yang menjadi hak pemilik entitas induk turun dari Rp63,66 miliar menjadi Rp36,77 miliar. Laba per saham ikut tergerus dari Rp21,79 menjadi Rp11,30 per saham.",
+   "Penurunan laba ini terjadi karena beban umum dan administrasi naik dari Rp300,17 miliar menjadi Rp331,15 miliar, sementara beban bunga melonjak dari Rp19,77 miliar menjadi Rp25,86 miliar. Akibatnya laba usaha turun dari Rp103,12 miliar menjadi Rp83,40 miliar, sebelum akhirnya tergerus lagi oleh beban pajak dan bunga tersebut.",
+   "Di sisi permodalan, jumlah saham beredar bertambah dari 2.927.900.000 menjadi 3.253.222.300 lembar setelah perusahaan merampungkan penawaran umum perdana (IPO) pada periode ini, yang membawa dana segar Rp392,78 miliar sebelum biaya emisi dan Rp376,18 miliar setelah dipotong biaya emisi Rp16,60 miliar. Suntikan modal itu membuat total ekuitas melonjak 40 persen menjadi Rp1.135,13 miliar per 30 September 2026 dari Rp810,995 miliar di akhir 2025. Sebagian dana dipakai melunasi utang: utang bank jangka pendek yang tadinya Rp6,75 miliar kini nihil, dan bagian utang bank jangka panjang yang jatuh tempo dalam setahun turun tajam dari Rp260,65 miliar menjadi hanya Rp9,53 miliar, meski perusahaan juga menarik utang bank jangka panjang baru senilai Rp20,94 miliar. Total liabilitas perusahaan secara keseluruhan turun dari Rp640,33 miliar menjadi Rp384,98 miliar.",
+   "Perusahaan juga membagikan dividen kas sebesar Rp115 miliar untuk periode ini, naik dari Rp60 miliar pada periode yang sama tahun lalu, dengan realisasi pembayaran tunai Rp109,11 miliar dan sisa utang dividen yang belum dibayarkan sebesar Rp35,59 miliar per akhir September 2026."
+  ],
+  "fotoAdegan": "Medical staff arranging ophthalmology diagnostic equipment in a clinic examination room, soft clinical lighting, Indonesia",
+  "takeaway": "Laporan ini condong negatif karena inti bisnis JECX melemah tajam: laba bersih turun 38 persen dan bagian yang mengalir ke pemegang saham turun 42 persen, padahal pendapatan nyaris stagnan sementara beban umum dan biaya bunga naik lebih cepat. Dua pos yang paling kena dampak adalah laba per saham, yaitu laba bersih dibagi jumlah saham beredar, yang anjlok 48 persen karena labanya menyusut sekaligus jumlah sahamnya bertambah 325 juta lembar dari IPO, dan ekuitas atau modal milik pemegang saham yang justru naik 40 persen menjadi Rp1,135 triliun karena dana segar hasil IPO tersebut dipakai pula melunasi sebagian besar utang bank. Jadi ada dua arah yang berlawanan, struktur modal membaik tapi kemampuan menghasilkan laba memburuk, dan pelaku pasar biasanya lebih mencermati yang kedua karena itu mencerminkan kinerja operasional yang sesungguhnya, bukan sekadar suntikan dana sekali waktu. Yang perlu dipantau berikutnya adalah laporan tahunan auditan 2026, untuk melihat apakah tekanan margin dan kenaikan beban bunga 31 persen ini berlanjut atau hanya sementara pasca proses IPO.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pnm-sediakan-daycare-mini-untuk-nasabah-umkm-pontianak",
   "category": "UMKM",
   "title": "PNM Sediakan [Daycare] Mini untuk Nasabah UMKM Pontianak",
@@ -55,6 +108,188 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan soal uang atau pinjaman, melainkan jenis dukungan yang diberikan PNM ke nasabahnya. Biasanya acara seperti ini hanya berisi pelatihan usaha, tapi kali ini ditambah tempat penitipan anak sementara, cek kesehatan gratis, dan sesi konsultasi usaha langsung. Yang kena dampaknya jelas, yaitu nasabah perempuan PNM di Pontianak yang menjalankan usaha kecil sambil mengurus anak, kelompok yang sering harus memilih antara ikut pelatihan atau menjaga keluarga. Berita ini belum menyebutkan berapa banyak nasabah yang hadir atau apakah fasilitas semacam ini akan diulang di acara PNM di kota lain, jadi belum bisa disimpulkan apakah ini jadi pendekatan tetap atau cuma percobaan sekali jalan. Yang perlu dipantau adalah apakah format acara dengan penitipan anak dan cek kesehatan ini muncul lagi di kegiatan serupa PNM berikutnya, karena itu yang akan menunjukkan apakah pendekatan ini menjadi standar atau tidak.",
   "imageV": "mvq9e7y1"
+ },
+ {
+  "slug": "ceka-laba-bersih-naik-52-jadi-rp243-7-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "CEKA: Laba Bersih Naik [52%] jadi Rp243,7 Miliar di Kuartal III",
+  "deck": "Laba bersih Wilmar Cahaya Indonesia (CEKA) melonjak 52 persen jadi Rp243,7 miliar pada sembilan bulan 2026, didukung kenaikan pendapatan 19 persen, meski kas perusahaan menyusut tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T11:49:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027115734-64518-0/FinancialStatement-2026-III-CEKA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CEKA",
+  "tags": [
+   "CEKA",
+   "Wilmar Cahaya Indonesia",
+   "laporan keuangan kuartal III",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Wilmar Cahaya Indonesia Tbk. (CEKA) membukukan pendapatan Rp8,34 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 19 persen dari Rp7 triliun pada periode yang sama tahun 2025. Laba bersih perusahaan melonjak lebih tajam, yaitu 52 persen, dari Rp160,05 miliar menjadi Rp243,70 miliar. Kenaikan laba yang lebih besar dari kenaikan pendapatan ini membuat laba per saham ikut naik dari Rp269 menjadi Rp410, dengan jumlah saham beredar tetap di 595 juta lembar.",
+   "Dalam suratnya ke Bursa Efek Indonesia, manajemen CEKA menjelaskan bahwa total aset perusahaan per 30 September 2026 mencapai Rp3,04 triliun, naik 22,43 persen atau Rp557,74 miliar dibandingkan akhir 2025. Kenaikan ini terutama disumbang oleh melonjaknya estimasi tagihan pajak sebesar 3.176 persen atau Rp524,68 miliar terkait klaim pengembalian Pajak Pertambahan Nilai (PPN) tahun pajak 2025, kenaikan persediaan bahan baku dan barang jadi sebesar 53,28 persen atau Rp213,10 miliar, serta kenaikan piutang usaha pihak ketiga sebesar 20,82 persen atau Rp119,69 miliar yang sejalan dengan kenaikan penjualan.",
+   "Di sisi liabilitas, total utang perusahaan naik jauh lebih tajam, yaitu 85,11 persen atau Rp403,29 miliar, menjadi Rp877,14 miliar. Kenaikan ini didominasi oleh utang usaha kepada pihak berelasi yang naik 121,73 persen atau Rp365,34 miliar seiring peningkatan pembelian komoditas, utang usaha pihak ketiga yang naik 44,35 persen atau Rp22,11 miliar, dan utang pajak badan yang naik 184,04 persen atau Rp21,25 miliar. Di sisi lain, kas dan setara kas perusahaan justru menyusut tajam dari Rp304,11 miliar pada akhir 2025 menjadi Rp28,48 miliar pada akhir September 2026, setelah arus kas operasi tercatat negatif Rp176,66 miliar dan perusahaan membayar dividen tunai Rp89,12 miliar."
+  ],
+  "fotoAdegan": "Warehouse workers stacking cartons of bottled cooking oil near a forklift, industrial shelving, fluorescent lighting overhead",
+  "takeaway": "Catatan redaksi condong positif karena kenaikan laba bersih 52 persen jauh melampaui kenaikan pendapatan 19 persen, pertanda efisiensi biaya CEKA membaik, dan kenaikan utang yang terjadi murni dari utang dagang operasional tanpa tambahan pinjaman berbunga baru. Yang perlu dicermati adalah arus kas dari kegiatan operasi yang justru lebih banyak terpakai dibanding tahun lalu, sehingga kas perusahaan menyusut tajam dari Rp304 miliar menjadi Rp28,5 miliar akibat penumpukan stok barang dan pembayaran dividen. Laba per saham, yaitu bagian laba yang secara hitungan jatuh ke setiap lembar saham, naik dari Rp269 menjadi Rp410 karena jumlah saham beredar tidak berubah sementara laba yang dibagi membesar, dan ini jadi acuan investor menilai seberapa produktif modal mereka diputar. Yang perlu dipantau berikutnya adalah pencairan klaim pengembalian Pajak Pertambahan Nilai tahun 2025 senilai Rp524,68 miliar yang membuat tagihan pajak melonjak drastis, karena kalau klaim ini benar cair jadi uang tunai, kas perusahaan yang kini menipis bisa terisi kembali.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "koni-bukukan-laba-rp10-6-miliar-utang-usaha-nyaris-lunas",
+  "category": "Aksi Korporasi",
+  "title": "KONI Bukukan [Laba] Rp10,6 Miliar, Utang Usaha Nyaris Lunas",
+  "deck": "Laba bersih KONI naik 41 persen menjadi Rp10,65 miliar pada kuartal III 2026, sementara total liabilitas turun lebih dari separuh setelah utang usaha nyaris lunas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T11:48:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027115457-65032-0/FinancialStatement-2026-III-KONI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KONI",
+  "tags": [
+   "KONI",
+   "laporan keuangan",
+   "laba bersih",
+   "utang usaha"
+  ],
+  "body": [
+   "PT Perdana Bangun Pusaka Tbk (KONI), distributor produk fotografi yang berbasis di Jakarta, melaporkan kinerja keuangan interim untuk sembilan bulan pertama 2026 yang belum diaudit. Pendapatan perusahaan naik dari Rp203,34 miliar pada periode yang sama tahun lalu menjadi Rp241,14 miliar, sementara laba bersih melonjak 41 persen dari Rp7,56 miliar menjadi Rp10,65 miliar. Laba per saham ikut naik dari Rp29,99 menjadi Rp42,24 per lembar.",
+   "Di sisi neraca, total liabilitas KONI turun tajam dari Rp28,49 miliar pada akhir 2025 menjadi Rp14,59 miliar per 30 September 2026, atau turun 51,24 persen. Penurunan ini terutama berasal dari utang usaha dan utang lainnya yang anjlok dari Rp12,74 miliar menjadi hanya Rp129,7 juta. Dalam surat penjelasan kepada Bursa Efek Indonesia tertanggal 27 Oktober 2026, Direktur KONI Buntaram Gondomartono menyatakan penurunan itu terjadi karena perusahaan telah melunasi pembayaran atas pembelian persediaan barang kepada pemasok. Sementara itu, ekuitas perusahaan naik dari Rp175,92 miliar menjadi Rp186,57 miliar, dan kas serta setara kas bertambah dari Rp59,29 miliar menjadi Rp69,81 miliar.",
+   "Penjelasan tertulis ini wajib disampaikan karena perubahan total liabilitas melebihi 20 persen, sesuai Peraturan Bursa Efek Indonesia Nomor I-E tentang Kewajiban Penyampaian Informasi. Total aset KONI relatif stabil, turun sedikit dari Rp204,41 miliar menjadi Rp201,16 miliar, dengan aset tetap dan properti investasi masing-masing tercatat Rp20,94 miliar dan Rp9,94 miliar per akhir September 2026."
+  ],
+  "fotoAdegan": "Warehouse staff stacking boxes of photographic printing supplies onto pallets under fluorescent lighting, forklift parked nearby",
+  "takeaway": "Laporan ini condong positif karena laba bersih KONI naik 41 persen jadi Rp10,65 miliar dan utang usahanya nyaris lunas, menandakan tekanan keuangan jangka pendek yang mengecil. Yang tersentuh adalah ekuitas, yaitu total kekayaan bersih pemegang saham yang naik dari Rp175,92 miliar menjadi Rp186,57 miliar, kas perusahaan yang bertambah jadi Rp69,81 miliar meski sebagian sudah dipakai melunasi utang ke pemasok, dan laba per saham yang naik dari Rp29,99 jadi Rp42,24, yang berarti setiap lembar saham kini mewakili bagian laba yang lebih besar. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan KONI, sebab laporan kuartal III ini belum diperiksa auditor independen dan pelunasan utang usaha yang drastis perlu dikonfirmasi tidak mengganggu kelancaran pembayaran ke pemasok pada kuartal berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "wmuu-audit-kuartal-iii-untuk-siapkan-aksi-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "WMUU Audit Kuartal III untuk Siapkan [Aksi Korporasi]",
+  "deck": "Widodo Makmur Unggas akan mengaudit laporan keuangan interim per 30 September 2026 untuk mendukung rencana aksi korporasi yang masih disusun bersama konsultan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T11:37:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dd45fb1acd_6af6946bbb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WMUU",
+  "tags": [
+   "WMUU",
+   "Widodo Makmur Unggas",
+   "aksi korporasi",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Widodo Makmur Unggas Tbk (WMUU) menyampaikan surat bernomor 490/WMU-CS/X/2026 tertanggal 23 Oktober 2026 kepada Bursa Efek Indonesia, berisi rencana mengaudit laporan keuangan interim konsolidasian untuk periode yang berakhir 30 September 2026. Surat yang ditandatangani Direktur Wahyu Andi Susilo ini merujuk pada Peraturan Bursa Nomor I-E Pasal III.1.1.5.2 tentang kewajiban penyampaian informasi.",
+   "Dalam suratnya, perseroan menyebut audit tersebut dilakukan sebagai bagian dari persiapan rencana aksi korporasi yang saat ini masih dalam tahap penyusunan kajian bersama konsultan terkait. Dokumen tidak merinci bentuk aksi korporasi yang dimaksud. WMUU menargetkan penyampaian laporan keuangan interim konsolidasian yang sudah diaudit itu kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan paling lambat 31 Desember 2026."
+  ],
+  "fotoAdegan": "Workers in hygienic uniforms inspecting poultry processing lines inside a modern Indonesian chicken plant, bright industrial lighting",
+  "takeaway": "Laporan ini netral karena baru berupa pemberitahuan prosedural, belum ada angka keuangan atau kejelasan bentuk aksi korporasi yang bisa dinilai arah dampaknya. Yang patut dicatat, laporan kuartalan biasanya tidak perlu diaudit akuntan publik, jadi permintaan audit khusus ini menunjukkan ada langkah korporasi besar sedang disiapkan, entah itu terkait permodalan, restrukturisasi, atau transaksi lain yang nanti bisa menggeser ekuitas atau jumlah saham beredar perseroan. Yang perlu dipantau pembaca adalah dua hal: batas waktu penyampaian laporan audit ke bursa dan OJK pada 31 Desember 2026, serta pengumuman lanjutan yang akan menjelaskan bentuk konkret aksi korporasi tersebut setelah kajian dengan konsultan selesai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "trus-laba-turun-23-persen-dividen-jumbo-gerus-ekuitas",
+  "category": "Aksi Korporasi",
+  "title": "TRUS: [Laba] turun 23 persen, dividen jumbo gerus ekuitas",
+  "deck": "Laba bersih TRUS turun 23 persen di kuartal III 2026, sementara dividen Rp48 miliar yang dibagikan melampaui laba periode ini dan menggerus ekuitas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T11:34:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027113801-64672-0/FinancialStatement-2026-III-TRUS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUS",
+  "tags": [
+   "TRUS",
+   "Trust Finance Indonesia",
+   "laporan keuangan",
+   "multifinance"
+  ],
+  "body": [
+   "PT Trust Finance Indonesia Tbk (TRUS) melaporkan laba bersih sebesar Rp10,36 miliar untuk sembilan bulan pertama 2026, turun 23,4 persen dibandingkan Rp13,51 miliar pada periode yang sama tahun sebelumnya. Laba sebelum pajak juga turun, dari Rp15,99 miliar menjadi Rp11,83 miliar. Laba per saham ikut menyusut dari Rp16,89 menjadi Rp12,95 per lembar. Laporan keuangan interim per 30 September 2026 ini belum diaudit dan disampaikan perusahaan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 26 Oktober 2026.",
+   "Total aset perusahaan pembiayaan ini turun menjadi Rp392,99 miliar per akhir September 2026, dari Rp429,18 miliar pada akhir 2025. Penurunan ini terutama berasal dari sisi ekuitas, yang susut dari Rp413,02 miliar menjadi Rp375,38 miliar setelah perusahaan membagikan dividen sebesar Rp48 miliar kepada pemegang saham, jauh lebih besar dibandingkan dividen Rp12 miliar yang dibagikan pada periode yang sama tahun lalu. Karena nilai dividen itu melebihi laba bersih Rp10,36 miliar yang dihasilkan pada periode ini, pembayaran tersebut turut memakan saldo laba ditahan dari tahun-tahun sebelumnya.",
+   "Dari sisi arus kas, kas dan setara kas perusahaan merosot tajam menjadi Rp37,04 miliar pada akhir September 2026, dari Rp184 miliar pada awal tahun. Arus kas dari aktivitas operasi mencatat kas keluar bersih Rp102,89 miliar, melebar dari Rp45,07 miliar pada periode yang sama tahun lalu. Di sisi portofolio pembiayaan, piutang pembiayaan modal kerja melonjak lebih dari dua kali lipat menjadi Rp168,13 miliar dari Rp78,81 miliar, dan piutang pembiayaan investasi naik menjadi Rp123,20 miliar dari Rp91,17 miliar, sementara piutang pembiayaan multiguna justru turun menjadi Rp7,49 miliar dari Rp18,20 miliar. Perusahaan juga mencatat pinjaman bank baru sebesar Rp4,92 miliar pada periode ini, setelah tidak memiliki saldo pinjaman bank pada akhir 2025."
+  ],
+  "fotoAdegan": "Workers inspecting a row of trucks and heavy equipment parked in a finance company's leasing yard, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi TRUS, karena laba menyusut di tengah dividen jumbo yang nilainya melebihi laba bersih periode ini sehingga menggerus ekuitas perusahaan. Yang tersentuh adalah ekuitas, yaitu total kekayaan bersih pemegang saham setelah dikurangi utang, yang turun karena perusahaan membagikan uang tunai lebih banyak daripada yang dihasilkan bisnisnya. Arus kas dari operasi, yakni uang tunai yang masuk dan keluar dari kegiatan bisnis inti pembiayaan, juga makin negatif, tanda bahwa penagihan dan pembiayaan baru belum cukup menutup kebutuhan kas perusahaan. Laba per saham, ukuran laba dibagi jumlah saham beredar, ikut turun dari Rp16,89 menjadi Rp12,95, berarti setiap lembar saham kini mewakili bagian laba yang lebih kecil. Yang perlu dipantau selanjutnya adalah laporan keuangan auditan untuk tahun penuh 2026 yang biasanya terbit awal tahun berikutnya, serta apakah defisit arus kas operasi ini berlanjut di kuartal terakhir tahun ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rupslb-flmc-bahas-rencana-anak-usaha-dan-ganti-domisili",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB FLMC Bahas Rencana [Anak Usaha] dan Ganti Domisili",
+  "deck": "FLMC memanggil RUPSLB 18 November 2026 untuk membahas penyesuaian KBLI, penambahan KBLI holding terkait rencana anak usaha, dan perubahan domisili Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T11:19:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dc9a3dccc5_b3c9c1e7c4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "RUPSLB",
+   "KBLI",
+   "anak usaha"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 18 November 2026, pukul 10.00 WIB di Artotel Suites Aquila Bandung, Jalan Dr Djunjunan No 116, Bandung. Pemanggilan resmi ini menyusul pengumuman rencana RUPS yang sudah disampaikan sebelumnya pada 12 Oktober 2026.",
+   "Ada tiga agenda yang dimintakan persetujuan pemegang saham. Pertama, penyesuaian klasifikasi baku lapangan usaha (KBLI) dalam Anggaran Dasar Perseroan ke KBLI tahun 2025 yang diterbitkan Badan Pusat Statistik berdasarkan Peraturan BPS Nomor 7 Tahun 2025. Kedua, penambahan kode KBLI 64210 soal aktivitas perusahaan induk atau holding, yang menurut dokumen pemanggilan terkait rencana Perseroan mendirikan anak usaha di kemudian hari. Ketiga, perubahan tempat kedudukan atau domisili resmi Perseroan, meski dokumen ini belum merinci domisili baru yang dituju.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 26 Oktober 2026, baik lewat Biro Administrasi Efek PT Admitra Jasa Korpora di Jakarta untuk saham di luar penitipan kolektif, maupun lewat rekening di PT Kustodian Sentral Efek Indonesia (KSEI) untuk saham dalam penitipan kolektif. Bagi yang tidak bisa hadir langsung, surat kuasa atau e-proxy lewat aplikasi eASY.KSEI harus disampaikan paling lambat Selasa, 17 November 2026, pukul 16.00 WIB. Surat pemanggilan ini ditandatangani Direktur Utama FLMC, Rosalina Indra Wirawati, di Bandung pada 27 Oktober 2026."
+  ],
+  "fotoAdegan": "Empty rows of chairs facing a stage inside a hotel ballroom being prepared for a corporate meeting, soft morning light, Bandung, Indonesia",
+  "takeaway": "Secara fundamental laporan ini netral bagi FLMC karena ketiga agenda RUPSLB masih berupa usulan administratif dan rencana awal, bukan transaksi yang langsung mengubah neraca atau kas perusahaan. Yang perlu dicermati bukan laporan keuangan saat ini, melainkan potensi ke depan: penambahan kode usaha untuk aktivitas perusahaan induk menandakan Falmaco bersiap membentuk struktur grup dengan anak usaha, dan kalau rencana itu benar terjadi, biasanya perusahaan induk perlu menyuntikkan modal ke anak usahanya sehingga bisa mengurangi ekuitas, yaitu modal sendiri yang tercatat di neraca Perseroan. Perubahan domisili sendiri umumnya soal legal dan perizinan, bukan langsung berpengaruh ke kinerja keuangan, kecuali disertai pemindahan operasional yang menambah atau memangkas biaya. Yang patut dipantau berikutnya adalah hasil RUPSLB pada 18 November 2026, apakah pemegang saham menyetujui ketiga agenda itu, serta apakah Perseroan selanjutnya mengumumkan rincian anak usaha yang akan dibentuk dan domisili baru yang dipilih, karena dokumen pemanggilan ini belum menyebutkan keduanya secara spesifik.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mcol-bukukan-laba-bersih-melonjak-55-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "MCOL Bukukan Laba Bersih [Melonjak] 55% di Sembilan Bulan 2026",
+  "deck": "PT Prima Andalan Mandiri (MCOL) mencatat pendapatan US$542,2 juta dan laba bersih US$58,0 juta untuk sembilan bulan 2026, naik dibanding periode sama tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T10:53:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027110503-64838-0/FinancialStatement-2026-III-MCOL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MCOL",
+  "tags": [
+   "MCOL",
+   "batu bara",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Prima Andalan Mandiri Tbk (MCOL) menyampaikan laporan keuangan konsolidasian interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 27 Oktober 2026. Laporan ditandatangani Direktur Utama perseroan dan disusun dalam mata uang dolar Amerika Serikat, sesuai praktik pelaporan perusahaan tambang batu bara ini pada periode-periode sebelumnya.",
+   "Pendapatan perseroan mencapai US$542,2 juta sepanjang Januari hingga September 2026, naik dari US$487,0 juta pada periode yang sama tahun lalu. Laba kotor naik lebih tinggi lagi, dari US$92,4 juta menjadi US$116,6 juta, sehingga laba bersih periode berjalan melonjak dari US$37,4 juta menjadi US$58,0 juta, naik sekitar 55 persen. Dari jumlah itu, US$56,2 juta menjadi bagian pemilik entitas induk, naik dari US$35,8 juta, sehingga laba per saham naik dari US$0,0101 menjadi US$0,0158.",
+   "Di sisi posisi keuangan, total aset perseroan naik dari US$729,2 juta pada akhir 2025 menjadi US$782,8 juta pada akhir September 2026, sementara total ekuitas bertambah dari US$589,6 juta menjadi US$619,5 juta dan total liabilitas naik dari US$139,5 juta menjadi US$163,3 juta. Kas dan setara kas bertambah dari US$118,6 juta menjadi US$138,5 juta, meski perseroan tetap membayar dividen tunai US$43,2 juta selama periode ini. Perseroan juga membeli investasi saham baru senilai US$14,2 juta sehingga saldo pos itu menjadi US$29,5 juta, dan pada periode ini pula mendirikan satu anak perusahaan baru yang menyumbang US$367 ribu ke pos kepentingan nonpengendali.",
+   "Laporan ini merinci empat entitas anak yang dikonsolidasikan: PT Mandiri Intiperkasa di bidang pertambangan dengan aset US$340,1 juta dan kepemilikan 99,99 persen, PT Mandala Karya Prima sebagai kontraktor batu bara dengan aset US$332,1 juta dan kepemilikan 99,99 persen, PT Maritim Prima Mandiri di bidang ekspedisi muatan kapal laut dengan aset US$123,7 juta dan kepemilikan 74 persen, serta PT Mandiri Data Investama di bidang pengolahan data dengan aset US$1,4 juta dan kepemilikan 75 persen yang hingga periode ini belum beroperasi."
+  ],
+  "fotoAdegan": "Haul trucks moving coal at a large open-pit mine in Kalimantan, dust rising under an overcast sky, heavy machinery in the distance",
+  "takeaway": "Laporan kuartal ketiga ini condong positif bagi MCOL, karena laba bersih melonjak sekitar 55 persen sementara pendapatan juga tumbuh dua digit, tanda permintaan batu bara perseroan masih kuat meski beban royalti ke pemerintah ikut naik menjadi US$53,0 juta. Pos yang paling bergerak adalah laba per saham dan ekuitas: laba per saham adalah bagian laba yang jatuh untuk setiap lembar saham, jadi kenaikannya dari US$0,0101 ke US$0,0158 berarti nilai yang dihasilkan untuk setiap pemegang saham ikut membesar, sementara ekuitas adalah kekayaan bersih perseroan setelah dikurangi semua utang, dan kenaikannya mencerminkan modal pemegang saham yang terus bertambah dari laba ditahan. Yang perlu dicermati adalah dua hal baru di laporan ini, yaitu investasi saham senilai US$14,2 juta yang baru pertama kali muncul di pos aset dan pendirian satu anak perusahaan baru, karena tujuan serta rincian keduanya belum dijelaskan dalam ringkasan ini. Karena laporan ini belum diaudit, pasar juga akan menunggu laporan tahunan auditan untuk tahun buku 2026, yang biasanya baru terbit pada awal tahun berikutnya, untuk memastikan angka-angka tersebut tidak berubah material.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ibfn-catat-laba-rp7-37-miliar-ekuitas-masih-negatif-rp766-m",
+  "category": "Aksi Korporasi",
+  "title": "IBFN Catat Laba Rp7,37 Miliar, [Ekuitas] Masih Negatif Rp766 M",
+  "deck": "Laporan keuangan interim kuartal III 2026 PT Intan Baru Prana Tbk menunjukkan laba bersih berbalik dari rugi, namun defisiensi modal perusahaan masih sangat besar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T10:52:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027110144-64615-0/FinancialStatement-2026-III-IBFN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IBFN",
+  "tags": [
+   "IBFN",
+   "laporan keuangan",
+   "defisiensi modal",
+   "watchlist"
+  ],
+  "body": [
+   "PT Intan Baru Prana Tbk (IBFN), emiten pembiayaan dan penyewaan alat berat yang dahulu bernama Intan Baruprana Finance, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perusahaan membukukan laba bersih Rp7,37 miliar, berbalik dari rugi bersih Rp30,63 miliar pada periode yang sama tahun 2025. Pendapatan usaha naik menjadi Rp156,61 miliar dari Rp143,79 miliar, terutama dari pendapatan jasa senilai Rp155,63 miliar. Namun laba kotor justru turun menjadi Rp34,91 miliar dari Rp49,39 miliar karena beban pokok pendapatan melonjak ke Rp121,70 miliar dari Rp94,40 miliar. Laba bersih tertolong oleh beban keuangan yang turun tajam menjadi Rp8,92 miliar dari Rp29,47 miliar, serta manfaat pajak Rp4,07 miliar, berbanding beban pajak Rp30,20 miliar pada tahun sebelumnya. Laba per saham dasar tercatat Rp20,58, dibanding rugi per saham Rp4,95 pada periode sebelumnya.",
+   "Dari sisi posisi keuangan, total aset IBFN per 30 September 2026 tercatat Rp479,93 miliar, turun dari Rp500,61 miliar pada akhir Desember 2025. Total liabilitas sedikit menyusut menjadi Rp1,25 triliun dari Rp1,27 triliun. Yang masih mencolok, ekuitas perusahaan tetap negatif atau disebut defisiensi modal sebesar Rp766,58 miliar, meski menyusut tipis dari Rp773,95 miliar pada akhir 2025, akibat akumulasi kerugian tahun-tahun sebelumnya yang mencapai Rp1,63 triliun. Kas dan setara kas perusahaan turun menjadi Rp22,25 miliar dari Rp35,47 miliar. Saham IBFN tercatat di papan Pemantauan Khusus Bursa Efek Indonesia, status yang biasanya diberikan pada emiten dengan kondisi keuangan bermasalah.",
+   "Laporan arus kas menunjukkan kas dari aktivitas operasi membaik menjadi Rp33,42 miliar, dibanding Rp7,90 miliar pada periode sebelumnya, ditopang penerimaan kas dari pelanggan sebesar Rp170,42 miliar. Namun kas yang dipakai untuk aktivitas investasi mencapai Rp37,77 miliar, sebagian besar untuk membeli aset tetap yang disewakan senilai Rp37,54 miliar, sejalan dengan model bisnis perusahaan yang menyewakan alat berat. Perusahaan juga membayar utang bank, medium term notes, dan kewajiban sewa senilai total sekitar Rp9,62 miliar pada aktivitas pendanaan. IBFN sendiri merupakan bagian dari kelompok usaha Intraco Penta."
+  ],
+  "fotoAdegan": "Workers inspecting rows of heavy construction equipment at an outdoor machinery rental yard, overcast afternoon light",
+  "takeaway": "Laporan kuartal ini condong netral: laba bersih memang berbalik dari rugi, tapi pendorongnya lebih ke turunnya beban bunga dan manfaat pajak, bukan membaiknya bisnis inti, sebab laba kotor justru menyusut. Pos yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, yang masih minus Rp766,58 miliar karena akumulasi kerugian Rp1,63 triliun dari tahun-tahun sebelumnya, artinya secara teknis utang IBFN masih jauh lebih besar dari asetnya. Laba per saham ikut berbalik dari rugi Rp4,95 menjadi untung Rp20,58 per saham, dan arus kas dari kegiatan usaha membaik menjadi Rp33,42 miliar, tapi kas di tangan perusahaan tetap berkurang menjadi Rp22,25 miliar karena dipakai membeli alat berat yang disewakan. Yang perlu dipantau berikutnya adalah apakah tren laba ini bertahan di laporan keuangan tahunan teraudit, karena status Pemantauan Khusus di papan perdagangan IDX baru relevan dicabut kalau defisiensi modal ini benar-benar pulih, bukan sekadar menyusut tipis seperti terlihat pada kuartal ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "mmlp-bukukan-rugi-rp94-miliar-di-kuartal-iii-2026",
@@ -399,6 +634,32 @@ var ARTICLES = [
   "fotoAdegan": "Warehouse workers stacking boxes of medical supplies onto pallets under bright fluorescent lights, forklift nearby",
   "takeaway": "Laporan ini condong negatif bagi fundamental LABS, karena meski pendapatan naik dua digit, laba bersih malah tergerus hampir 40 persen dan kas perusahaan terkikis tajam dalam sembilan bulan. Yang perlu dicermati adalah arus kas dari operasi, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan bisnis utama, dan angkanya minus serta makin membesar, tanda bisnis inti LABS belum menghasilkan kas sendiri untuk menutup biaya operasionalnya sehari-hari. Kekurangan itu ditambal dari kas yang tersisa, sehingga saldo kas anjlok drastis, sementara pembelian kembali saham senilai Rp7,6 miliar menambah tekanan pada kas meski jumlah saham beredar yang lebih sedikit bisa membuat laba per saham ke depan terlihat lebih besar. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV dan laporan tahunan 2026, untuk melihat apakah arus kas operasi bisa kembali positif dan apakah saldo kas yang kini tinggal Rp3,67 miliar cukup membiayai operasional pada kuartal berikutnya.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "mpro-rugi-menyempit-jadi-rp33-08-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MPRO: Rugi [Menyempit] Jadi Rp33,08 Miliar di Kuartal III 2026",
+  "deck": "Pendapatan MPRO naik 45 persen dan rugi bersih menyempit jadi Rp33,08 miliar pada sembilan bulan pertama 2026, tapi arus kas operasi makin negatif dan utang jangka pendek bertambah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T03:59:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027041013-64698-0/FinancialStatement-2026-III-MPRO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPRO",
+  "tags": [
+   "MPRO",
+   "laporan keuangan",
+   "properti",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Maha Properti Indonesia Tbk (MPRO) melaporkan pendapatan sembilan bulan pertama 2026 sebesar Rp3,64 miliar, naik dari Rp2,52 miliar pada periode yang sama tahun sebelumnya, menurut laporan keuangan interim yang tidak diaudit per 30 September 2026. Rugi bersih perusahaan ikut menyempit menjadi Rp33,08 miliar, dari Rp54,90 miliar pada sembilan bulan pertama 2025. Rugi per saham dasar tercatat Rp0,00333, membaik dari Rp0,00552 setahun sebelumnya.",
+   "Di sisi aset, total kekayaan MPRO tercatat Rp1,67 triliun per akhir September 2026, hampir tidak berubah dari Rp1,68 triliun di akhir 2025. Sebagian besar aset berupa tanah belum dikembangkan senilai Rp912,13 miliar dan aset real estat senilai Rp512,66 miliar, sementara kas perusahaan menyusut dari Rp11,27 miliar menjadi Rp9,48 miliar. Total liabilitas naik dari Rp489,74 miliar menjadi Rp520,11 miliar, didorong kenaikan utang kepada pihak ketiga lain dari Rp81,57 miliar menjadi Rp122,84 miliar. Di sisi lain, utang pajak perusahaan turun tajam dari Rp25,51 miliar menjadi Rp349,51 juta setelah MPRO membayar pajak sebesar Rp33,19 miliar sepanjang sembilan bulan ini, jauh lebih besar dibanding Rp818,18 juta pada periode sebelumnya. Ekuitas yang menjadi hak pemegang saham turun dari Rp1,19 triliun menjadi Rp1,15 triliun, sejalan dengan rugi berjalan yang membuat defisit tertahan membesar dari Rp211,97 miliar menjadi Rp245,03 miliar.",
+   "Dari sisi arus kas, kegiatan operasional MPRO membukukan kas keluar neto Rp43,01 miliar, melebar dari Rp24,05 miliar pada periode yang sama tahun lalu, antara lain karena pembayaran pajak besar tadi. Kekurangan kas itu ditutup dari aktivitas pendanaan, terutama penerimaan Rp41,27 miliar dari pihak ketiga lain, naik dari Rp11,82 miliar setahun sebelumnya. Perseroan mengonsolidasikan tiga anak usaha di bidang pengembangan properti, yaitu PT Trixindo Selaras di Jakarta yang sudah beroperasi sejak 2017 dengan kepemilikan 99,99 persen, serta PT Creative Softhouse di Surabaya dan PT Bintang Dwi Lestari di Banten yang keduanya belum beroperasi, dengan kepemilikan masing-masing 99,99 persen dan 52 persen. Surat pernyataan direksi atas laporan ini ditandatangani oleh Direktur Utama Ronald Kumalaputra dan Direktur Iwan Kurniawan di Jakarta pada 27 Oktober 2026."
+  ],
+  "fotoAdegan": "An idle plot of undeveloped land on the edge of an Indonesian city, overgrown grass, a parked excavator, soft afternoon light.",
+  "takeaway": "Laporan ini cenderung netral bagi MPRO: pendapatan naik dan rugi bersih menyempit cukup tajam, tapi perusahaan masih merugi dan arus kas dari kegiatan operasional justru makin minus. Pos yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang yang menjadi hak pemegang saham, yang terus menyusut karena rugi berjalan menambah defisit tertahan menjadi Rp245,03 miliar. Arus kas operasi, uang tunai yang benar-benar keluar masuk dari kegiatan sehari-hari perusahaan, memburuk dari minus Rp24,05 miliar jadi minus Rp43,01 miliar, sebagian karena MPRO melunasi tunggakan pajak besar hingga utang pajaknya anjlok dari Rp25,51 miliar jadi Rp349,51 juta. Untuk menutup kekurangan kas itu, MPRO menambah utang jangka pendek ke pihak ketiga lain senilai Rp41,27 miliar, sehingga porsi utang pendek dalam struktur modalnya naik. Yang perlu dipantau berikutnya adalah apakah dua anak usaha yang belum beroperasi, PT Creative Softhouse di Surabaya dan PT Bintang Dwi Lestari di Banten, mulai menghasilkan pendapatan pada laporan kuartal mendatang, karena keduanya menguasai aset real estat senilai ratusan miliar rupiah yang masih menganggur.",
+  "sentimen": "netral"
  },
  {
   "slug": "71-000-rumah-subsidi-diakadkan-serentak-di-malang",

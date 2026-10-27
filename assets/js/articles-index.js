@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-pakaian-jadi-ri-naik-2-8-persen-incar-pasar-global",
+  "category": "Industri",
+  "title": "Ekspor Pakaian Jadi RI Naik 2,8 Persen, Incar Pasar [Global]",
+  "deck": "Wamendag Roro mendorong desainer dan UMKM fesyen memperluas ekspor saat membuka FashionLink JFW 2027, di tengah ekspor pakaian jadi RI yang hanya naik 2,8 persen pada Januari-Agustus 2026.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/ekspor-pakaian-jadi-ri-naik-2-8-persen-incar-pasar-global.jpg",
+  "imageV": "mvq9e7ef",
+  "tags": [
+   "ekspor fesyen",
+   "tekstil",
+   "JFW 2027",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perluas-akses-pasar-wamendag-roro-dorong-fashionlink-jfw-2027-jadi-jembatan-fesyen-lokal-ke-pasar-global",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pnm-sediakan-daycare-mini-untuk-nasabah-umkm-pontianak",
+  "category": "UMKM",
+  "title": "PNM Sediakan [Daycare] Mini untuk Nasabah UMKM Pontianak",
+  "deck": "PNM menggelar acara pengembangan usaha bertema lingkungan di Pontianak, dilengkapi penitipan anak sementara, cek kesehatan gratis, dan klinik konsultasi usaha bagi nasabah perempuan.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/pnm-sediakan-daycare-mini-untuk-nasabah-umkm-pontianak.jpg",
+  "imageV": "mvq9e7y1",
+  "tags": [
+   "PNM",
+   "UMKM Perempuan",
+   "Pontianak",
+   "Pemberdayaan Usaha"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475189-dari-ruang-belajar-hingga-potensi-lokal-pnm-dukung-perempuan-pontianak-kembangkan-usaha"
+ },
+ {
   "slug": "mmlp-bukukan-rugi-rp94-miliar-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "MMLP Bukukan [Rugi] Rp94 Miliar di Kuartal III 2026",
@@ -6417,38 +6452,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-8988-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "epac-jelaskan-pinjaman-afiliasi-ke-bei-siap-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "EPAC Jelaskan Pinjaman Afiliasi ke BEI, Siap [Rights Issue]",
-  "deck": "EPAC menjelaskan ke BEI alasan pinjaman afiliasi dari PT Triple Berkah Bersama pasca-homologasi, sembari menyiapkan rights issue dan menutup segmen kemasan fleksibel konvensional.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EPAC",
-   "transaksi afiliasi",
-   "rights issue",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b4e1584c50_c5d153aa1c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atic-entitas-direksi-tambah-26-400-saham-di-pasar",
-  "category": "Aksi Korporasi",
-  "title": "ATIC: Entitas Direksi Tambah [26.400] Saham di Pasar",
-  "deck": "PT Inti Global Resources Indonesia, entitas direksi Anabatic Technologies, membeli 26.400 saham ATIC lewat delapan transaksi pada 19 Oktober 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATIC",
-   "Anabatic Technologies",
-   "kepemilikan saham",
-   "transaksi insider"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1068-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

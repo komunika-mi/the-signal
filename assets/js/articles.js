@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekspor-pakaian-jadi-ri-naik-2-8-persen-incar-pasar-global",
+  "category": "Industri",
+  "title": "Ekspor Pakaian Jadi RI Naik 2,8 Persen, Incar Pasar [Global]",
+  "deck": "Wamendag Roro mendorong desainer dan UMKM fesyen memperluas ekspor saat membuka FashionLink JFW 2027, di tengah ekspor pakaian jadi RI yang hanya naik 2,8 persen pada Januari-Agustus 2026.",
+  "image": "assets/img/ekspor-pakaian-jadi-ri-naik-2-8-persen-incar-pasar-global.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T05:37:21.957Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perluas-akses-pasar-wamendag-roro-dorong-fashionlink-jfw-2027-jadi-jembatan-fesyen-lokal-ke-pasar-global",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ekspor fesyen",
+   "tekstil",
+   "JFW 2027",
+   "Kemendag"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri membuka ajang FashionLink Jakarta Fashion Week (JFW) 2027 di Jakarta, Senin (26/10), sambil mendorong industri fesyen lokal memperkuat daya saing lewat perbaikan rantai produksi dari hulu ke hilir, inovasi berkelanjutan, dan kerja sama antarpemangku kepentingan. Ia menekankan ajang semacam ini perlu menghasilkan kepastian pasar dan peluang ekspor, bukan sekadar panggung peragaan busana.",
+   "Kementerian Perdagangan mencatat ekspor tekstil dan produk tekstil Indonesia pada Januari-Agustus 2026 mencapai US$8,15 miliar, dengan surplus perdagangan US$2,18 miliar. Ekspor pakaian jadi menjadi penyumbang terbesar, yakni US$5,90 miliar atau 72,4 persen dari total, tetapi pertumbuhannya hanya 2,8 persen dibanding periode yang sama tahun sebelumnya. Capaian ini masih jauh dari potensi pasar pakaian jadi dunia yang diproyeksikan tembus US$1,80 triliun pada 2026.",
+   "Untuk memperluas akses pasar, JFW mengembangkan platform ritel seperti FashionLink dan Dewi's Luxe Market yang mempertemukan desainer, pelaku usaha, dan UMKM langsung dengan pembeli, dengan dukungan BTN sebagai mitra perbankan. Kerja sama JFW dengan DORS Singapura sudah berjalan dua tahun, sementara inisiatif Jakarta Fashion Force diklaim membantu desainer lokal ikut pameran luar negeri hingga memperoleh pesanan berulang dari pembeli asing.",
+   "Kementerian Perdagangan menyebut langkah ke depan akan difokuskan pada peningkatan penggunaan bahan baku dalam negeri, pengembangan desain, pemenuhan standar internasional, serta kolaborasi lintas sektor antara industri, desainer, dan UMKM agar produk fesyen Indonesia lebih dipercaya konsumen global."
+  ],
+  "fotoAdegan": "Workers sorting folded garments into export boxes inside a busy textile factory, fluorescent lighting overhead",
+  "fotoSumber": "https://www.kemendag.go.id/albums/TD7iy3kMiDbzyCdDPkPJq6JMmap98SOOOxQN9Koe.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan dorongan pemerintah agar ajang promosi seperti Jakarta Fashion Week benar-benar menghasilkan transaksi ekspor, bukan sekadar pertunjukan busana. Datanya menunjukkan ekspor pakaian jadi Indonesia pada Januari-Agustus 2026 hanya naik tipis 2,8 persen dibanding periode yang sama tahun lalu, jauh di bawah besarnya potensi pasar pakaian dunia yang diperkirakan tembus US$1,80 triliun pada 2026. Yang terdampak adalah desainer lokal, pelaku UMKM fesyen, dan industri tekstil yang mengandalkan ajang seperti ini untuk bertemu pembeli luar negeri, termasuk mitra di Singapura yang kerja samanya sudah masuk tahun kedua. Pola yang terlihat adalah pemerintah lebih mengandalkan jejaring pameran dan kemitraan berulang ketimbang insentif atau aturan baru untuk mengerek ekspor fesyen, dan yang akan membuktikan apakah pendekatan ini membawa hasil adalah data ekspor tekstil dan produk tekstil periode berikutnya, yakni apakah pertumbuhan ekspor pakaian jadi bisa naik dari angka 2,8 persen saat ini.",
+  "imageV": "mvq9e7ef"
+ },
+ {
+  "slug": "pnm-sediakan-daycare-mini-untuk-nasabah-umkm-pontianak",
+  "category": "UMKM",
+  "title": "PNM Sediakan [Daycare] Mini untuk Nasabah UMKM Pontianak",
+  "deck": "PNM menggelar acara pengembangan usaha bertema lingkungan di Pontianak, dilengkapi penitipan anak sementara, cek kesehatan gratis, dan klinik konsultasi usaha bagi nasabah perempuan.",
+  "image": "assets/img/pnm-sediakan-daycare-mini-untuk-nasabah-umkm-pontianak.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T11:49:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475189-dari-ruang-belajar-hingga-potensi-lokal-pnm-dukung-perempuan-pontianak-kembangkan-usaha",
+  "tags": [
+   "PNM",
+   "UMKM Perempuan",
+   "Pontianak",
+   "Pemberdayaan Usaha"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) menggelar acara pengembangan kapasitas usaha bertema 'Budaya Lestari, Usaha Berseri' bagi nasabah perempuan di Pontianak, Kalimantan Barat. Acara ini menyasar ibu-ibu yang menjalankan usaha kecil sekaligus mengurus keluarga, kelompok yang kerap kesulitan membagi waktu antara bisnis, anak, dan kesehatan sendiri. Lewat acara ini, PNM mencoba menghilangkan sebagian penghalang itu agar nasabahnya bisa tetap ikut belajar mengembangkan usaha.",
+   "Salah satu bentuk dukungannya adalah tempat penitipan anak sementara, sehingga nasabah yang membawa anak tetap bisa mengikuti kegiatan dengan tenang. PNM juga menyediakan layanan cek kesehatan gratis di lokasi acara, mengingat banyak nasabahnya menjalankan peran ganda sebagai pengusaha dan ibu rumah tangga. Selain itu, ada klinik konsultasi usaha atau coaching clinic tempat nasabah bisa berdiskusi langsung dan bertukar pengalaman soal cara mengelola usaha agar terus berkembang.",
+   "Tema 'Budaya Lestari, Usaha Berseri' juga mengajak nasabah melihat potensi di sekitar mereka sebagai peluang usaha, termasuk lewat edukasi pengelolaan sampah. Dalam acara ini, sampah bisa ditukar dengan bibit tanaman, sebuah cara sederhana untuk membangun kepedulian lingkungan sekaligus mengenalkan kebiasaan baru dalam keseharian nasabah."
+  ],
+  "fotoAdegan": "Women entrepreneurs gathered at an outdoor community training session, a small children's play corner nearby, tropical riverside town setting.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/27/6ae02c469ce70-pnm-dukung-perempuan-pontianak-kembangkan-usaha_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan soal uang atau pinjaman, melainkan jenis dukungan yang diberikan PNM ke nasabahnya. Biasanya acara seperti ini hanya berisi pelatihan usaha, tapi kali ini ditambah tempat penitipan anak sementara, cek kesehatan gratis, dan sesi konsultasi usaha langsung. Yang kena dampaknya jelas, yaitu nasabah perempuan PNM di Pontianak yang menjalankan usaha kecil sambil mengurus anak, kelompok yang sering harus memilih antara ikut pelatihan atau menjaga keluarga. Berita ini belum menyebutkan berapa banyak nasabah yang hadir atau apakah fasilitas semacam ini akan diulang di acara PNM di kota lain, jadi belum bisa disimpulkan apakah ini jadi pendekatan tetap atau cuma percobaan sekali jalan. Yang perlu dipantau adalah apakah format acara dengan penitipan anak dan cek kesehatan ini muncul lagi di kegiatan serupa PNM berikutnya, karena itu yang akan menunjukkan apakah pendekatan ini menjadi standar atau tidak.",
+  "imageV": "mvq9e7y1"
+ },
+ {
   "slug": "mmlp-bukukan-rugi-rp94-miliar-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "MMLP Bukukan [Rugi] Rp94 Miliar di Kuartal III 2026",
@@ -53,7 +107,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah TPT nasional yang turun ke 4,65 persen, mendekati rekor terendah sejak 1994 ketika angkanya 4,36 persen, sementara angkatan kerja sudah mencapai 155,41 juta orang, hampir dua kali lipat dibanding era 1990-an. Yang terdampak langsung adalah pencari kerja baru yang terserap pasar kerja, serta pekerja yang disasar program pelatihan vokasi dan upskilling yang disebut pemerintah sebagai fokus berikutnya. Siaran pers ini tidak merinci jenis pekerjaan yang tercipta, apakah didominasi sektor formal dengan gaji tetap atau pekerjaan informal yang lebih rentan, padahal itu menentukan apakah angka rendah ini benar-benar mencerminkan kualitas lapangan kerja, bukan sekadar kuantitasnya. Yang akan menjawab pertanyaan itu adalah rilis data Sakernas BPS periode berikutnya yang memuat rincian status dan sektor pekerjaan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "idrus-marham-ekonomi-ri-jangan-gantung-ke-indeks-msci",

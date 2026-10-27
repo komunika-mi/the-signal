@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "DqtZzxJmcjk",
+  "title": "Menaker Hadiri Pertemuan Serikat Buruh Asia Pasifik",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Menteri Ketenagakerjaan Yassierli menghadiri pertemuan regional ke-28 International Trade Union Confederation Asia Pacific di Jakarta untuk membahas isu ketenagakerjaan di kawasan.",
+  "takeaway": "Relevan bagi pembaca karena menunjukkan arah kebijakan ketenagakerjaan Indonesia dalam forum regional.",
+  "terbit": "2026-10-27T01:18:59+00:00"
+ },
+ {
+  "id": "tO-LvTs_bZI",
+  "title": "Bahlil Tanggapi PM Singapura soal Ekspor Gas RI",
+  "category": "Energi",
+  "program": "Apa Kabar Indonesia Pagi",
+  "summary": "Menteri ESDM Bahlil Lahadalia menanggapi pernyataan PM Singapura Lawrence Wong soal pemangkasan ekspor gas Indonesia, dan menegaskan pengurangan pasokan masih sesuai batas kontrak minimum.",
+  "takeaway": "Penting bagi pembaca karena menyangkut kebijakan ekspor energi dan hubungan dagang gas antara Indonesia dan Singapura.",
+  "terbit": "2026-10-27T01:15:42+00:00"
+ },
+ {
   "id": "15K0rDdofMs",
   "title": "Warga Malaysia Boikot Produk Indonesia Imbas Asap Karhutla",
   "category": "Bisnis",

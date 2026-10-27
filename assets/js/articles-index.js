@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tingkat-pengangguran-indonesia-turun-ke-4-65-terendah-sejak-1994",
+  "category": "Ketenagakerjaan",
+  "title": "Tingkat Pengangguran Indonesia [Turun] ke 4,65%, Terendah Sejak 1994",
+  "deck": "BPS mencatat tingkat pengangguran terbuka nasional turun ke 4,65% pada 2026, mendekati level terendah sejak 1994, saat angkatan kerja hampir dua kali lipat dibanding era 1990-an.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "pengangguran",
+   "ketenagakerjaan",
+   "BPS",
+   "pasar kerja"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7182/capai-tingkatan-pengangguran-mendekati-level-terendah-sejak-1994-di-tengah-lonjakan-penciptaan-lapangan-kerja-baru-hingga-dua-kali-lipat",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "idrus-marham-ekonomi-ri-jangan-gantung-ke-indeks-msci",
+  "category": "Pasar Modal",
+  "title": "Idrus Marham: Ekonomi RI Jangan Gantung ke Indeks [MSCI]",
+  "deck": "Idrus Marham mendukung pernyataan Dasco soal MSCI, menilai kemandirian ekonomi RI, dari pangan, energi, hingga pasar modal, lebih penting ketimbang penilaian indeks global.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/idrus-marham-ekonomi-ri-jangan-gantung-ke-indeks-msci.jpg",
+  "imageV": "mvq42qdl",
+  "tags": [
+   "MSCI",
+   "pasar modal",
+   "Idrus Marham",
+   "Sufmi Dasco Ahmad"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475170-idrus-marham-dukung-pernyataan-dasco-soal-msci-sebut-masa-depan-ekonomi-indonesia-tak-boleh-bergantung-pada-indeks-global"
+ },
+ {
+  "slug": "harga-emas-antam-naik-tipis-ke-rp2-550-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Tipis ke Rp2.550.000 per Gram",
+  "deck": "Harga emas Antam naik Rp10.000 menjadi Rp2.550.000 per gram pada 27 Oktober 2026, buyback ikut naik ke Rp2.345.000 per gram.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-naik-tipis-ke-rp2-550-000-per-gram.jpg",
+  "imageV": "mvq42r8n",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "investasi emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475168-harga-emas-antam-hari-ini-27-oktober-2026-naik-tipis-jadi-rp2550000-per-gram-buyback-ikut-melonjak"
+ },
+ {
   "slug": "toyota-teratas-byd-masuk-lima-besar-penjualan-mobil-2026",
   "category": "Industri",
   "title": "Toyota Teratas, BYD Masuk [Lima Besar] Penjualan Mobil 2026",
@@ -6397,54 +6447,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-4053-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xspi-bagi-dividen-interim-rp123-49-miliar-ke-pemegang-unit",
-  "category": "Aksi Korporasi",
-  "title": "XSPI Bagi [Dividen] Interim Rp123,49 Miliar ke Pemegang Unit",
-  "deck": "DIRE Simas Plaza Indonesia (XSPI) membagikan dividen interim Rp123,49 miliar, setara Rp5,937 per unit penyertaan, dibayar 5 November 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XSPI",
-   "dividen",
-   "DIRE",
-   "Sinarmas Asset Management"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/17b5e3d1db_34fa4a7627.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-panggil-rupo-rupsi-bahas-gagal-bayar-obligasi-dan-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "POST Panggil RUPO-RUPSI Bahas [Gagal Bayar] Obligasi dan Sukuk",
-  "deck": "Pos Indonesia akan menggelar rapat pemegang obligasi dan sukuk pada 17 November 2026 untuk membahas gagal bayar bunga dan imbalan ijarah serta usulan penyelesaiannya.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "gagal bayar",
-   "obligasi",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73e6ce0333_ede4451649.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-jadwalkan-rupo-rupsi-17-november-bahas-gagal-bayar-utang",
-  "category": "Aksi Korporasi",
-  "title": "POST Jadwalkan RUPO-RUPSI 17 November Bahas [Gagal Bayar] Utang",
-  "deck": "Pos Indonesia menjadwalkan rapat pemegang obligasi dan sukuk pada 17 November 2026 untuk membahas gagal bayar bunga dan imbalan ijarah yang sudah berulang kali terjadi.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "Pos Indonesia",
-   "gagal bayar",
-   "RUPO-RUPSI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/adc682bb8a_c6501cecfa.pdf",
   "sourceLabel": "IDX"
  }
 ];

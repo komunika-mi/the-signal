@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "DqtZzxJmcjk",
+  "title": "Menaker Hadiri Pertemuan Serikat Buruh Asia Pasifik",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Menteri Ketenagakerjaan Yassierli menghadiri pertemuan regional ke-28 International Trade Union Confederation Asia Pacific di Jakarta untuk membahas isu ketenagakerjaan di kawasan.",
+  "takeaway": "Relevan bagi pembaca karena menunjukkan arah kebijakan ketenagakerjaan Indonesia dalam forum regional."
+ },
+ {
+  "id": "tO-LvTs_bZI",
+  "title": "Bahlil Tanggapi PM Singapura soal Ekspor Gas RI",
+  "category": "Energi",
+  "program": "Apa Kabar Indonesia Pagi",
+  "summary": "Menteri ESDM Bahlil Lahadalia menanggapi pernyataan PM Singapura Lawrence Wong soal pemangkasan ekspor gas Indonesia, dan menegaskan pengurangan pasokan masih sesuai batas kontrak minimum.",
+  "takeaway": "Penting bagi pembaca karena menyangkut kebijakan ekspor energi dan hubungan dagang gas antara Indonesia dan Singapura."
+ },
+ {
   "id": "15K0rDdofMs",
   "title": "Warga Malaysia Boikot Produk Indonesia Imbas Asap Karhutla",
   "category": "Bisnis",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "AKIS tvOne",
   "summary": "Warga dan sopir angkutan kota di Kota Ternate harus mengantre berjam-jam untuk mendapatkan BBM jenis Pertalite, sehingga Pertamina menyiapkan layanan pengantaran langsung ke titik antrean.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kelancaran distribusi BBM bersubsidi yang berdampak langsung pada mobilitas dan aktivitas usaha warga di Ternate."
- },
- {
-  "id": "ziusipeESGU",
-  "title": "Bahlil: Cadangan BBM Nasional Pertalite di Atas 16 Hari",
-  "category": "Energi",
-  "program": "AKIS tvOne",
-  "summary": "Kementerian Koordinator Bidang Hilirisasi dan Transisi Energi mencatat stok BBM jenis Pertalite berada di kisaran 16 hingga 18 hari, meski sempat mengalami penurunan.",
-  "takeaway": "Penting bagi pembaca ekonomi karena ketahanan stok BBM memengaruhi stabilitas harga energi dan kelancaran distribusi di berbagai daerah."
- },
- {
-  "id": "TRDcRLFLI34",
-  "title": "BBM Pertalite di Ternate Hanya Tersedia di Satu SPBU",
-  "category": "Energi",
-  "program": "Kabar Siang",
-  "summary": "Antrean sepeda motor dan mobil memanjang di SPBU Batu Anteru, Ternate, karena Pertalite hanya tersedia di satu stasiun pengisian di kota tersebut.",
-  "takeaway": "Menyoroti persoalan distribusi BBM bersubsidi di daerah yang berdampak pada aktivitas transportasi dan ekonomi warga setempat."
  }
 ];

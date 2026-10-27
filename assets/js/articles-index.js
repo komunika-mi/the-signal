@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bipp-terbitkan-502-8-juta-saham-baru-ke-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Terbitkan 502,8 Juta Saham Baru ke [Afiliasi]",
+  "deck": "BIPP menerbitkan 502.866.937 saham baru seharga Rp200 per saham kepada dua pihak terafiliasi, menghimpun dana Rp100,57 miliar tanpa mengubah pengendalian perusahaan.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "Dilusi Saham",
+   "Transaksi Afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2caa95deda_65489187d2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-kejar-reformasi-pasar-modal-sebelum-tenggat-msci-2027",
   "category": "Pasar Modal",
   "title": "RI Kejar [Reformasi] Pasar Modal Sebelum Tenggat MSCI 2027",
@@ -19,6 +35,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7186/reformasi-tata-kelola-pasar-modal-berikan-manfaat-nyata-bagi-masyarakat",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "aali-laba-bersih-kuartal-iii-melonjak-77-ke-rp1-98-triliun",
+  "category": "Aksi Korporasi",
+  "title": "AALI: Laba Bersih Kuartal III [Melonjak] 77% ke Rp1,98 Triliun",
+  "deck": "Astra Agro Lestari mencatat laba bersih Rp1,98 triliun dan kas dua kali lipat, tapi liabilitas juga naik 79% akibat tagihan pupuk dan asuransi yang belum dibayar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AALI",
+   "laporan keuangan",
+   "laba bersih",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027200626-64754-0/FinancialStatement-2026-III-AALI.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "perpres-baru-permudah-distribusi-pupuk-subsidi-ke-petani",
@@ -55,6 +87,54 @@ var ARTICLES = [
   "kreditFoto": "PT Pupuk Indonesia (Persero)",
   "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/896/membeli-pupuk-subsidi-di-kios-resmi-lebih-aman",
   "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "gtbo-rombak-direksi-dan-komisaris-rupst-18-november",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Rombak [Direksi] dan Komisaris, RUPST 18 November",
+  "deck": "RUPST Garda Tujuh Buana (GTBO) pada 18 November 2026 akan mengesahkan laporan keuangan 2025 dan mengganti sejumlah direksi serta komisaris, termasuk satu komisaris independen baru.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTBO",
+   "RUPST",
+   "pergantian direksi",
+   "komisaris independen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/39c1f811b1_b0668e2b24.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgl-jadwalkan-saham-bonus-distribusi-25-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Jadwalkan [Saham Bonus], Distribusi 25 November 2026",
+  "deck": "RUPSLB setujui pembagian 514,1 juta saham bonus rasio 6:4 dari agio saham IPO 2020, saham beredar PPGL naik jadi maksimal 1,28 miliar lembar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "saham bonus",
+   "aksi korporasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4925bb1607_dcb3b7db02.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bank-of-india-indonesia-bswd-laba-naik-ldr-tembus-144",
+  "category": "Aksi Korporasi",
+  "title": "Bank of India Indonesia (BSWD): Laba Naik, [LDR] Tembus 144%",
+  "deck": "BSWD menjelaskan ke Bursa bahwa laba bersihnya naik 74,95% per Agustus 2026, tapi dana nasabah turun 10,58% dan rasio kredit terhadap simpanan melonjak ke 144,15%.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSWD",
+   "LDR",
+   "perbankan",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/48ed7f923f_8a5f86b480.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "nine-panggil-rupslb-bahas-rights-issue-2-44-miliar-saham",
@@ -262,6 +342,86 @@ var ARTICLES = [
    "kelapa sawit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027163459-64935-0/FinancialStatement-2026-III-JARR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sgro-pangkas-utang-rp2-triliun-liabilitas-turun-30",
+  "category": "Aksi Korporasi",
+  "title": "SGRO Pangkas [Utang] Rp2 Triliun, Liabilitas Turun 30%",
+  "deck": "SGRO melaporkan keuangan interim kuartal III 2026 sekaligus menjelaskan ke bursa bahwa total utangnya turun 30 persen setelah melunasi pinjaman bank dan obligasi senilai sekitar Rp2 triliun.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SGRO",
+   "laporan keuangan",
+   "utang",
+   "kelapa sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027163338-65017-0/FinancialStatement-2026-III-SGRO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-sewakan-lahan-riau-ke-arara-abadi-transaksi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "INKP Sewakan Lahan Riau ke Arara Abadi, Transaksi [Afiliasi]",
+  "deck": "INKP menyewakan lahan 47.526 meter persegi di Siak, Riau kepada PT Arara Abadi, pemasok bahan baku yang terafiliasi, dengan harga Rp190 juta per tahun selama 20 tahun.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "transaksi afiliasi",
+   "Arara Abadi",
+   "sewa lahan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de7922af34_07d18031f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-koreksi-data-akuisisi-pne-bum-rp1-t-dana-rk-mandek",
+  "category": "Aksi Korporasi",
+  "title": "BIKE [Koreksi] Data Akuisisi PNE-BUM, Rp1 T Dana RK Mandek",
+  "deck": "Dalam surat koreksi ke Bursa, BIKE merinci keuangan PNE dan BUM serta mengonfirmasi dana akuisisi RK Rp1 triliun dari PMJ belum cair.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/992593f2b7_d6a76dcc36.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inta-catat-defisiensi-modal-rp2-17-triliun-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "INTA Catat [Defisiensi Modal] Rp2,17 Triliun di Kuartal III 2026",
+  "deck": "Ekuitas Intraco Penta kian negatif menjadi Rp2,17 triliun per September 2026, pendapatan turun 11 persen, dan rugi untuk pemegang saham induk justru membesar dari tahun lalu.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INTA",
+   "Intraco Penta",
+   "defisiensi modal",
+   "laporan keuangan kuartalan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027155941-64669-0/FinancialStatement-2026-III-INTA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "impc-laba-naik-39-borong-saham-treasuri-rp451-66-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IMPC Laba Naik 39%, Borong [Saham Treasuri] Rp451,66 Miliar",
+  "deck": "Pendapatan dan laba bersih Impack Pratama Industri tumbuh dua digit pada sembilan bulan pertama 2026, sementara perseroan membeli kembali sahamnya sendiri senilai Rp451,66 miliar.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IMPC",
+   "laporan keuangan",
+   "laba bersih",
+   "saham treasuri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027155415-65161-0/FinancialStatement-2026-III-IMPC.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6293,166 +6453,6 @@ var ARTICLES = [
    "kepemilikan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-1344-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-alihkan-saham-anak-usaha-s-138-2-juta-transaksi-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "TOBA Alihkan Saham Anak Usaha S$138,2 Juta, Transaksi [Afiliasi]",
-  "deck": "PT TBS Energi Utama Tbk merestrukturisasi kepemilikan anak usahanya di Singapura lewat transaksi afiliasi senilai S$138,2 juta, dibayar tanpa uang tunai.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "transaksi afiliasi",
-   "restrukturisasi anak usaha",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/778607c510_956da9ccc7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "direksi-film-lepas-103-juta-saham-lewat-pencairan-repo",
-  "category": "Aksi Korporasi",
-  "title": "Direksi FILM Lepas 103 Juta Saham Lewat Pencairan [Repo]",
-  "deck": "Samuel Sekuritas Indonesia selaku Direksi MD Entertainment (FILM) menjual 103,28 juta saham senilai sekitar Rp203,46 miliar untuk mencairkan perjanjian repo, hak suaranya turun dari 9,64% menjadi 8,69%.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "MD Entertainment",
-   "kepemilikan saham",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-5360-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbsi-laniwati-tjandra-mundur-dari-direktur-sales",
-  "category": "Aksi Korporasi",
-  "title": "BBSI: Laniwati Tjandra [Mundur] dari Direktur Sales",
-  "deck": "Krom Bank Indonesia melaporkan pengunduran diri Laniwati Tjandra dari jabatan Conventional & Sales Director, efektif setelah disetujui RUPSLB.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBSI",
-   "Krom Bank Indonesia",
-   "direksi",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/883faa3be2_ae562d6ea5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meta-jadwalkan-rupslb-pada-26-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "META jadwalkan [RUPSLB] pada 26 November 2026",
-  "deck": "Nusantara Infrastructure (META) mengumumkan rencana RUPSLB 26 November 2026, dengan tanggal pencatatan pemegang saham 3 November 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "META",
-   "RUPSLB",
-   "Nusantara Infrastructure",
-   "corporate action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dd506d4810_23946cc49d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbhi-teken-sewa-afiliasi-rp4-27-miliar-dengan-bank-mega",
-  "category": "Aksi Korporasi",
-  "title": "BBHI Teken Sewa [Afiliasi] Rp4,27 Miliar dengan Bank Mega",
-  "deck": "Allo Bank menyewa ruang dan lahan di gedung arsip Bank Mega senilai Rp4,27 miliar untuk tiga tahun, bagian dari transaksi dalam satu kelompok usaha Mega Corpora.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBHI",
-   "Allo Bank",
-   "Bank Mega",
-   "transaksi afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/61690dc509_8dc6e07424.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "winr-pemegang-saham-jual-41-5-juta-saham-demi-free-float",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemegang Saham [Jual] 41,5 Juta Saham demi Free Float",
-  "deck": "Pemegang saham WINR melepas 41,5 juta saham senilai sekitar Rp935,9 juta untuk menambah porsi saham beredar bebas, hak suaranya turun tipis jadi 45,32%.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "kepemilikan saham",
-   "free float",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-3536-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sdra-jadwalkan-rupslb-pada-26-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "SDRA Jadwalkan [RUPSLB] pada 26 November 2026",
-  "deck": "Bank Woori Saudara mengumumkan rencana RUPSLB pada 26 November 2026, dengan tanggal pencatatan pemegang saham 3 November dan tenggat usul agenda 28 Oktober 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SDRA",
-   "RUPSLB",
-   "Bank Woori Saudara",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c41568f42e_2ad5de65e6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pool-paparkan-peta-jalan-keluar-dari-suspensi-bursa",
-  "category": "Aksi Korporasi",
-  "title": "POOL Paparkan Peta Jalan Keluar dari [Suspensi] Bursa",
-  "deck": "Dalam Public Expose Tahunan 2026, manajemen baru Pool Advista Indonesia memaparkan rencana audit tiga tahun buku, divestasi 30% saham POLA, dan peta jalan keluar dari suspensi saham.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POOL",
-   "Pool Advista Indonesia",
-   "Public Expose",
-   "Divestasi POLA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/17c0420986_bac0e8ce8a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nayz-akuisisi-rp23-5-saham-rights-issue-picu-dilusi",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ akuisisi Rp23,5/saham, rights issue picu [dilusi]",
-  "deck": "NAYZ menjelaskan ke Bursa bahwa harga akuisisi Rp23,5 per saham jauh di bawah harga pasar, dan akan gelar rights issue untuk membeli saham Bangkok Tellink.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NAYZ",
-   "akuisisi",
-   "rights issue",
-   "Bangkok Tellink"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/37cab57f84_e2fbd53a62.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unvr-jadwalkan-rupslb-26-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "UNVR Jadwalkan [RUPSLB] 26 November 2026",
-  "deck": "Unilever Indonesia mengumumkan rencana RUPSLB pada 26 November 2026, dengan pemegang saham yang berhak hadir dicatat per 3 November 2026.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNVR",
-   "RUPSLB",
-   "Unilever Indonesia",
-   "Rapat Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0ff4765f0c_7cf8589059.pdf",
   "sourceLabel": "IDX"
  }
 ];

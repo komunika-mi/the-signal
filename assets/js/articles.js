@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bipp-terbitkan-502-8-juta-saham-baru-ke-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Terbitkan 502,8 Juta Saham Baru ke [Afiliasi]",
+  "deck": "BIPP menerbitkan 502.866.937 saham baru seharga Rp200 per saham kepada dua pihak terafiliasi, menghimpun dana Rp100,57 miliar tanpa mengubah pengendalian perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T20:33:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2caa95deda_65489187d2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "Dilusi Saham",
+   "Transaksi Afiliasi"
+  ],
+  "body": [
+   "PT Bhuwanatala Indah Permai Tbk (BIPP) mengumumkan pelaksanaan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) tahun 2026, menyusul persetujuan pada Rapat Umum Pemegang Saham Luar Biasa Independen pada 16 Oktober 2026. Perseroan akan menerbitkan 502.866.937 saham baru dengan harga pelaksanaan Rp200 per saham, sehingga total dana yang terkumpul dari penambahan modal ini sebesar Rp100,57 miliar. Seluruh saham baru ini akan diserap oleh dua pihak yang berafiliasi dengan Perseroan, yaitu PT Gratamulia Pratama dan Safire Capital Pte. Ltd.",
+   "Dengan penerbitan ini, jumlah saham BIPP yang beredar akan bertambah dari 5.028.669.376 lembar menjadi 5.531.536.313 lembar, atau naik sekitar 9 persen. Perseroan menjadwalkan distribusi saham baru pada 4 November 2026 dan pencatatannya di Bursa Efek Indonesia pada 5 November 2026. Karena transaksi ini melibatkan pihak terafiliasi, Perseroan merujuk pada Pasal 44B POJK No. 14/2019 yang mengecualikan skema PMTHMETD ini dari ketentuan transaksi afiliasi dan benturan kepentingan yang berlaku umum.",
+   "Perseroan menegaskan bahwa pelaksanaan transaksi ini tidak menyebabkan perubahan pengendalian di BIPP. Dana hasil penambahan modal, setelah dikurangi biaya, akan dipakai untuk memperkuat struktur permodalan serta memenuhi kebutuhan pendanaan dan modal kerja Perseroan maupun entitas anaknya, termasuk untuk belanja modal dan pengeluaran operasional guna mendukung pengembangan dan ekspansi usaha."
+  ],
+  "fotoAdegan": "Construction cranes and scaffolding rising above a mid-rise building under development in Jakarta, workers in hard hats on site, afternoon light.",
+  "takeaway": "Transaksi ini condong negatif bagi pemegang saham publik karena menambah jumlah saham beredar sekitar 9 persen, dan seluruh saham baru itu hanya mengalir ke dua pihak terafiliasi tanpa kesempatan bagi investor publik untuk ikut membeli saham baru tersebut. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru ini resmi tercatat, laba Perseroan akan dibagi ke basis saham yang lebih besar sehingga laba per saham bisa terdilusi bagi pemegang saham lama yang tidak ikut dalam transaksi ini. Di sisi lain, dana sekitar Rp100,57 miliar yang masuk dari penerbitan ini dipakai untuk modal kerja dan ekspansi usaha yang bisa membantu arus kas Perseroan ke depan, dan Perseroan memastikan transaksi ini tidak mengubah siapa pengendali perusahaan. Yang perlu dipantau berikutnya adalah tanggal pencatatan saham baru di bursa pada 5 November 2026, karena sejak tanggal itu dampak penambahan jumlah saham beredar mulai berlaku efektif bagi seluruh pemegang saham.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ri-kejar-reformasi-pasar-modal-sebelum-tenggat-msci-2027",
   "category": "Pasar Modal",
   "title": "RI Kejar [Reformasi] Pasar Modal Sebelum Tenggat MSCI 2027",
@@ -29,6 +55,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah: ambang minimum saham yang boleh diperdagangkan bebas oleh publik, bukan dipegang pemegang saham pengendali, naik ke 15 persen. Pemegang saham di atas 1 persen juga wajib membuka identitas asli mereka, dan pengawasan transaksi janggal di bursa akan ditangani tim gabungan Kementerian Keuangan, OJK, BEI, dan KSEI. Yang kena dampak langsung adalah emiten yang sahamnya masih banyak dikuasai segelintir pihak, karena mereka harus melepas lebih banyak saham ke publik atau membuka data pemilik di balik nominee, sementara investor ritel mendapat informasi lebih lengkap sebelum membeli saham. Arahnya adalah pengetatan bertahap lewat audit dan peta jalan, bukan sanksi langsung, dan yang akan membuktikan apakah langkah ini cukup adalah tenggat 30 April 2027, saat MSCI menerima masukan dan pemerintah harus menunjukkan bukti implementasi nyata.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "aali-laba-bersih-kuartal-iii-melonjak-77-ke-rp1-98-triliun",
+  "category": "Aksi Korporasi",
+  "title": "AALI: Laba Bersih Kuartal III [Melonjak] 77% ke Rp1,98 Triliun",
+  "deck": "Astra Agro Lestari mencatat laba bersih Rp1,98 triliun dan kas dua kali lipat, tapi liabilitas juga naik 79% akibat tagihan pupuk dan asuransi yang belum dibayar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T19:49:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027200626-64754-0/FinancialStatement-2026-III-AALI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AALI",
+  "tags": [
+   "AALI",
+   "laporan keuangan",
+   "laba bersih",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Astra Agro Lestari Tbk (AALI) menyampaikan laporan keuangan konsolidasian tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan bersih perusahaan naik dari Rp22,12 triliun pada periode yang sama tahun lalu menjadi Rp23,71 triliun. Laba usaha naik dari Rp1,56 triliun menjadi Rp2,84 triliun, sementara biaya pendanaan turun drastis dari Rp139,58 miliar menjadi hanya Rp2,67 miliar karena perusahaan tidak lagi membayar cicilan pinjaman bank seperti tahun sebelumnya. Hasil akhirnya, laba bersih yang dapat diatribusikan ke pemegang saham naik 77,6 persen dari Rp1,11 triliun menjadi Rp1,98 triliun, dan laba per saham naik dari Rp555,99 menjadi Rp989,77.",
+   "Dari sisi posisi keuangan, kas dan setara kas perusahaan lebih dari dua kali lipat, dari Rp2,76 triliun pada akhir Desember 2025 menjadi Rp5,79 triliun pada akhir September 2026. Total aset naik dari Rp27,05 triliun menjadi Rp30,18 triliun. Namun total liabilitas juga melonjak 79 persen, dari Rp2,89 triliun menjadi Rp5,18 triliun. Dalam surat penjelasan yang ditandatangani Direktur Tingning Sukowignjo, manajemen menyebut kenaikan ini terutama berasal dari utang lain-lain yang naik dari Rp221,13 miliar menjadi Rp693,60 miliar, serta beban akrual yang melonjak dari Rp106,91 miliar menjadi Rp1,67 triliun untuk biaya operasional seperti pupuk dan asuransi. Total ekuitas sendiri hanya naik tipis dari Rp24,16 triliun menjadi Rp24,99 triliun, setelah perusahaan membagikan dividen tunai Rp1,09 triliun kepada pemegang saham induk selama sembilan bulan ini, naik dari Rp590,88 miliar pada periode yang sama tahun lalu.",
+   "Laporan arus kas menunjukkan kas bersih dari aktivitas operasi turun dari Rp5,76 triliun menjadi Rp4,18 triliun. Di sisi pendanaan, kas yang digunakan turun tajam dari Rp3,64 triliun menjadi Rp681,23 miliar, karena tahun lalu perusahaan melunasi pinjaman bank sebesar Rp3,1 triliun sementara tahun ini tidak ada pembayaran pinjaman bank sama sekali."
+  ],
+  "fotoAdegan": "Plantation workers loading palm oil fruit bunches onto a flatbed truck under bright tropical sunlight",
+  "takeaway": "Laporan ini condong positif karena laba bersih AALI naik 77,6 persen menjadi Rp1,98 triliun, laba per saham ikut naik dari Rp555,99 menjadi Rp989,77, dan kas perusahaan menebal lebih dari dua kali lipat menjadi Rp5,79 triliun. Yang perlu diperhatikan pemegang saham adalah laba per saham, yakni porsi keuntungan perusahaan yang dihitung per lembar saham beredar, karena kenaikan di sini berarti nilai keuntungan yang melekat pada setiap saham investor ikut membesar. Kenaikan liabilitas 79 persen yang dijelaskan dalam surat manajemen bukan sinyal utang berbunga yang membengkak, sebab pemicunya adalah akrual, yaitu biaya operasional seperti pupuk dan asuransi yang sudah terjadi tapi belum dibayar tunai, bukan pinjaman ke bank. Yang pantas dipantau selanjutnya adalah apakah beban akrual ini benar-benar dibayar tunai pada kuartal keempat atau justru terus menumpuk, serta laporan keuangan tahunan auditan yang biasanya terbit sekitar Maret 2027 untuk memastikan kinerja kuartal III ini bertahan sampai akhir tahun.",
+  "sentimen": "positif"
  },
  {
   "slug": "perpres-baru-permudah-distribusi-pupuk-subsidi-ke-petani",
@@ -85,6 +137,86 @@ var ARTICLES = [
   "kreditFoto": "PT Pupuk Indonesia (Persero)",
   "takeaway": "Yang berubah di sini bukan besaran subsidi atau harganya, melainkan tata kelola titik penyalurannya: kios, pengecer, gabungan kelompok tani, hingga koperasi yang ditunjuk kini disebut PPTS dan transaksinya wajib tercatat lewat aplikasi i-Pubers, bukan lagi sekadar catatan manual pemilik kios. Yang terdampak langsung adalah petani penerima pupuk bersubsidi, yang harus terdaftar dan membawa KTP untuk bisa menebus sesuai alokasi, serta pemilik kios dan pengecer yang kini berstatus PPTS dengan transaksi yang terekam sistem. Siaran pers ini tidak menyebut berapa banyak kios yang sudah masuk sistem i-Pubers atau berapa kasus pupuk tiruan yang tertangkap lewat pengawasan ini, sehingga belum bisa dipastikan apakah digitalisasi ini benar-benar menekan peredaran pupuk palsu atau baru sebatas syarat administrasi baru. Yang perlu dipantau adalah data resmi dari Pupuk Indonesia atau Kementerian Pertanian soal jumlah kios yang sudah terverifikasi dan tindak lanjut kasus pupuk tiruan menjelang musim tanam mendatang.",
   "imageV": "mvqm8sod"
+ },
+ {
+  "slug": "gtbo-rombak-direksi-dan-komisaris-rupst-18-november",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Rombak [Direksi] dan Komisaris, RUPST 18 November",
+  "deck": "RUPST Garda Tujuh Buana (GTBO) pada 18 November 2026 akan mengesahkan laporan keuangan 2025 dan mengganti sejumlah direksi serta komisaris, termasuk satu komisaris independen baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T18:36:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/39c1f811b1_b0668e2b24.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTBO",
+  "tags": [
+   "GTBO",
+   "RUPST",
+   "pergantian direksi",
+   "komisaris independen"
+  ],
+  "body": [
+   "Garda Tujuh Buana Tbk (GTBO) memanggil Rapat Umum Pemegang Saham Tahunan (RUPST) yang akan digelar Rabu, 18 November 2026, pukul 14.00 hingga 15.00 WIB, di Ballroom Krakatau, Permata Kuningan Building Lantai 2, Jalan Kuningan Mulia Kav. 9C, Jakarta. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 26 Oktober 2026, sesuai tanggal pencatatan yang ditetapkan perseroan. Rapat ini sendiri molor dari jadwal normal karena Anggaran Dasar perseroan mewajibkan RUPS Tahunan digelar paling lambat 6 bulan setelah tutup tahun buku, sementara Laporan Keuangan Konsolidasian tahun buku 2025 baru selesai disusun pada 15 Juli 2026. Karena itu, agenda pertama RUPST adalah permintaan dispensasi atas keterlambatan tersebut.",
+   "Agenda berikutnya mencakup persetujuan Laporan Tahunan dan Laporan Keuangan Tahunan 2025 beserta laporan pengawasan Dewan Komisaris selama tahun itu, persetujuan penggunaan laba bersih tahun buku 2025, serta penunjukan Akuntan Publik dan/atau Kantor Akuntan Publik untuk mengaudit laporan keuangan tahun buku 2026 beserta penetapan honorariumnya. Rincian besaran laba yang akan dibagikan maupun nama kantor akuntan publik yang diusulkan belum disebutkan dalam surat pemanggilan ini dan baru akan disampaikan dalam rapat.",
+   "Agenda yang paling menyentuh susunan pengurus adalah perubahan Direksi dan Dewan Komisaris. Perseroan mengusulkan mengganti anggota Direksi Mastan Singh, dengan mengangkat Ganesh Tikamdas Ramchandani dan Pasi Ajay Chhotelal sebagai direksi baru. Di jajaran Dewan Komisaris, perseroan mengusulkan mengganti Sandeep Kaur dan mengangkat Timothy James Cornelius sebagai Komisaris Independen.",
+   "Bagi pemegang saham yang tidak dapat hadir langsung, perseroan menyediakan mekanisme kuasa elektronik melalui fasilitas eASY.KSEI atau kuasa non elektronik yang formulirnya dapat diunduh di situs resmi perseroan, dengan surat kuasa harus diserahkan ke biro administrasi efek, PT Datindo Entrycom, paling lambat Selasa, 17 November 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a corporate ballroom ahead of a shareholders meeting, soft morning light through tall windows.",
+  "takeaway": "Laporan ini netral bagi fundamental emiten, karena inti pemanggilan RUPST ini adalah mekanisme rutin tahunan plus pergantian pengurus, bukan transaksi keuangan yang mengubah modal atau kas perusahaan. Pergantian direksi dan komisaris tidak mengubah jumlah saham beredar atau laba per saham, yakni keuntungan yang dibagi rata ke setiap lembar saham, tetapi pelaku pasar tetap memperhatikannya karena pengurus baru inilah yang nanti menentukan arah kebijakan investasi dan utang GTBO. Yang sedikit mengganjal adalah RUPST ini sendiri molor dari jadwal normal, karena Anggaran Dasar mewajibkan rapat tahunan paling lambat 6 bulan setelah tutup tahun buku, sementara laporan keuangan 2025 baru selesai 15 Juli 2026, sehingga perlu agenda dispensasi khusus. Yang perlu dipantau berikutnya adalah hasil keputusan RUPST pada 18 November 2026, terutama apakah pergantian direksi dan komisaris ini disetujui pemegang saham serta bagaimana rencana pembagian laba bersih tahun buku 2025 diputuskan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ppgl-jadwalkan-saham-bonus-distribusi-25-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Jadwalkan [Saham Bonus], Distribusi 25 November 2026",
+  "deck": "RUPSLB setujui pembagian 514,1 juta saham bonus rasio 6:4 dari agio saham IPO 2020, saham beredar PPGL naik jadi maksimal 1,28 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T18:33:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4925bb1607_dcb3b7db02.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "saham bonus",
+   "aksi korporasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) menerbitkan jadwal resmi pembagian saham bonus setelah disetujui dalam Rapat Umum Pemegang Saham Luar Biasa pada 23 Oktober 2026. Perseroan akan membagikan 514.118.680 lembar saham baru dengan nilai nominal Rp22 per lembar, atau senilai total Rp11.310.610.960, dengan rasio 6 banding 4, artinya setiap pemegang 6 saham lama akan menerima 4 saham bonus baru. Saham bonus ini bukan dividen, melainkan berasal dari kapitalisasi tambahan modal disetor (agio saham) sebesar Rp13.211.661.871 yang merupakan selisih harga jual saham di atas nilai nominal saat penawaran umum perdana PPGL pada 2020. Dengan pembagian ini, jumlah saham beredar perseroan naik dari 771.178.020 lembar menjadi maksimal 1.285.296.700 lembar.",
+   "Jadwalnya, periode perdagangan dengan hak atas saham bonus (cum bonus) berakhir pada 2 November 2026 di pasar reguler dan negosiasi, serta 4 November 2026 di pasar tunai. Setelah itu, saham mulai diperdagangkan tanpa hak saham bonus (ex bonus) mulai 3 November 2026 di pasar reguler dan negosiasi, dan 5 November 2026 di pasar tunai. Pemegang saham yang tercatat dalam Daftar Pemegang Saham pada 4 November 2026 pukul 16.00 WIB berhak menerima saham bonus, yang akan didistribusikan ke rekening efek masing-masing pada 25 November 2026. Jika pembagian menghasilkan pecahan saham, perseroan akan membulatkan ke bawah dan tidak menerbitkan saham sisa.",
+   "Perseroan menjelaskan bahwa penerimaan saham bonus dari kapitalisasi agio saham ini tidak dikenakan pajak, sepanjang nilai nominal saham yang dimiliki pemegang saham setelah pembagian tidak melebihi jumlah setoran modalnya. Jika melebihi, pemegang saham bersangkutan wajib menghitung dan menyetor sendiri pajaknya. Berdasarkan data keuangan per 31 Desember 2025, total ekuitas perseroan tercatat Rp144.326.737.290. Laporan ini ditandatangani oleh Darmawan Suryadi SM selaku Direktur Utama PPGL, dengan laporan hasil distribusi yang telah diaudit kantor akuntan publik akan disampaikan ke OJK paling lambat 9 Desember 2026."
+  ],
+  "fotoAdegan": "Stacks of cardboard boxes and pallets being loaded onto a delivery truck at a logistics warehouse, workers in vests, daylight",
+  "takeaway": "Laporan ini netral bagi fundamental PPGL, karena saham bonus berasal dari agio saham yang sudah tercatat di modal perseroan sejak IPO 2020, dibagikan proporsional ke semua pemegang saham sehingga persentase kepemilikan dan hak suara tidak berubah, dan tidak ada dana segar yang masuk ke kas perseroan. Pos yang tersentuh adalah jumlah saham beredar, yang berpotensi naik dari 771,2 juta menjadi maksimal 1,28 miliar lembar, sehingga laba per saham, yaitu laba bersih dibagi jumlah saham, akan mengecil secara nominal meski nilai total kepemilikan tiap pemegang saham tidak berkurang karena porsinya tetap sama. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 4 November 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima saham bonus, distribusi aktualnya pada 25 November 2026, dan laporan hasil distribusi yang sudah diaudit kantor akuntan publik ke OJK paling lambat 9 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bank-of-india-indonesia-bswd-laba-naik-ldr-tembus-144",
+  "category": "Aksi Korporasi",
+  "title": "Bank of India Indonesia (BSWD): Laba Naik, [LDR] Tembus 144%",
+  "deck": "BSWD menjelaskan ke Bursa bahwa laba bersihnya naik 74,95% per Agustus 2026, tapi dana nasabah turun 10,58% dan rasio kredit terhadap simpanan melonjak ke 144,15%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T18:24:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/48ed7f923f_8a5f86b480.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSWD",
+  "tags": [
+   "BSWD",
+   "LDR",
+   "perbankan",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Bank of India Indonesia Tbk (BSWD) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menanggapi surat permintaan penjelasan bursa bernomor S-13363/BEI.PP3/10-2026 tertanggal 23 Oktober 2026. Dalam surat balasannya tertanggal 27 Oktober 2026, bank ini menjawab empat hal yang diminta bursa, yaitu perkembangan dematerialisasi saham, produk perbankan baru, rencana produk 2027, serta kondisi dan kinerja keuangan terkini.",
+   "Soal dematerialisasi saham, BSWD menyatakan masih dalam tahap kajian dan persiapan bersama Biro Administrasi Efek untuk mendata pemegang saham yang masih memegang saham dalam bentuk fisik (warkat). Perusahaan punya waktu sampai 6 Mei 2030 untuk menuntaskannya, sesuai POJK Nomor 9 Tahun 2025. Di sisi produk, pada 2026 bank ini mengembangkan fitur pembayaran kartu debit untuk mengejar pendapatan berbasis komisi, dan pada 2027 berencana menyempurnakan aplikasi mobile banking dengan fitur pembayaran baru.",
+   "Dari sisi keuangan per 31 Agustus 2026, total aset BSWD tercatat Rp7,12 triliun, turun 2,53% dari Rp7,31 triliun pada 30 Juni 2026, yang menurut manajemen disebabkan oleh penurunan liabilitas keuangan. Kredit yang disalurkan justru naik 5,27% menjadi Rp4,76 triliun, sementara simpanan nasabah turun tajam 10,58% menjadi Rp3,3 triliun, terutama karena penurunan saldo giro. Total ekuitas naik tipis 0,46% menjadi Rp3,58 triliun, didorong oleh laba periode berjalan.",
+   "Dibandingkan periode yang sama tahun 2025, pendapatan bunga bersih BSWD justru turun 3,03% menjadi Rp186,86 miliar. Namun laba operasional melonjak 75,49% menjadi Rp90,74 miliar dan laba bersih naik 74,95% menjadi Rp70,92 miliar, yang menurut manajemen terutama didorong oleh berkurangnya pencadangan kerugian kredit (CKPN) karena tidak ada tambahan cadangan untuk aset yang diambil alih (AYDA) seperti tahun sebelumnya. Rasio kredit terhadap simpanan (LDR) melonjak ke 144,15% dari 127,34% setahun sebelumnya, yang oleh manajemen dijelaskan karena penyaluran kredit tumbuh lebih cepat dibanding penghimpunan dana pihak ketiga. Perusahaan juga melaporkan penerimaan kembali kredit yang telah dihapus buku baru terealisasi dari tiga debitur dengan jumlah yang belum material, akibat penjadwalan ulang penagihan."
+  ],
+  "fotoAdegan": "Facade of a small bank branch building along a busy Jakarta street, motorbikes and pedestrians passing, midday light",
+  "takeaway": "Laporan ini condong negatif bagi BSWD, karena lonjakan laba bersih justru ditopang oleh berkurangnya pencadangan kerugian kredit, bukan oleh pendapatan inti yang malah turun, sementara dana nasabah menyusut dan rasio kredit terhadap simpanan melebar jauh di atas wajar. Pendapatan bunga bersih, yaitu selisih antara bunga yang diterima bank dari kredit dan bunga yang dibayarkan ke nasabah, adalah sumber utama pendapatan bank, dan di sini angkanya turun 3,03% secara tahunan. Cadangan kerugian kredit (CKPN) adalah dana yang disisihkan bank untuk menutup kemungkinan kredit macet, dan penurunan tajamnya di sini bukan karena kualitas kredit membaik melainkan karena tidak ada tambahan cadangan untuk aset sitaan seperti tahun lalu, sehingga kontribusinya pada laba bersifat sementara. Rasio kredit terhadap simpanan atau LDR yang naik ke 144,15% berarti bank menyalurkan kredit jauh lebih besar dibanding dana nasabah yang berhasil dihimpunnya, dan selisihnya harus ditutup dari sumber dana lain yang biasanya lebih mahal, sehingga pelaku pasar biasa mencermatinya sebagai indikator tekanan likuiditas. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal depan untuk melihat apakah arus keluar dana nasabah dan kenaikan LDR ini berlanjut, serta progres dematerialisasi saham yang punya tenggat 6 Mei 2030.",
+  "sentimen": "negatif"
  },
  {
   "slug": "nine-panggil-rupslb-bahas-rights-issue-2-44-miliar-saham",
@@ -424,6 +556,136 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers loading freshly harvested oil palm fruit bunches onto a truck on a tropical plantation, morning light",
   "takeaway": "Laporan ini condong positif bagi JARR, karena laba bersih naik 56 persen, ekuitas bertambah 15 persen dari akumulasi laba, dan arus kas dari operasional meningkat signifikan, sinyal bahwa bisnis intinya memang menghasilkan kas, bukan cuma laba di atas kertas. Yang perlu dicermati adalah melonjaknya piutang usaha dari pihak berelasi hampir sepuluh kali lipat menjadi Rp595,73 miliar, karena piutang ke perusahaan dalam satu grup biasanya lebih sulit ditagih tepat waktu dibanding piutang ke pihak ketiga, sehingga memengaruhi kualitas arus kas ke depan meski belum tentu bermasalah. Laba per saham dasar, yaitu laba bersih dibagi jumlah saham yang beredar, ikut naik dari Rp24,27 menjadi Rp37,84, angka yang dipakai pemegang saham untuk menilai seberapa besar bagian laba perusahaan yang jadi hak mereka per lembar saham. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk periode penuh 2026, karena laporan kuartal III ini masih berstatus tidak diaudit, serta perkembangan saldo piutang dan utang ke pihak berelasi pada laporan kuartal IV mendatang.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "sgro-pangkas-utang-rp2-triliun-liabilitas-turun-30",
+  "category": "Aksi Korporasi",
+  "title": "SGRO Pangkas [Utang] Rp2 Triliun, Liabilitas Turun 30%",
+  "deck": "SGRO melaporkan keuangan interim kuartal III 2026 sekaligus menjelaskan ke bursa bahwa total utangnya turun 30 persen setelah melunasi pinjaman bank dan obligasi senilai sekitar Rp2 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T16:22:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027163338-65017-0/FinancialStatement-2026-III-SGRO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SGRO",
+  "tags": [
+   "SGRO",
+   "laporan keuangan",
+   "utang",
+   "kelapa sawit"
+  ],
+  "body": [
+   "PT Prime Agri Resources Tbk (SGRO) menyampaikan laporan keuangan interim yang tidak diaudit untuk sembilan bulan pertama 2026. Pendapatan perusahaan naik dari Rp4,61 triliun pada periode yang sama tahun lalu menjadi Rp4,99 triliun, dan laba periode berjalan naik dari Rp839,25 miliar menjadi Rp950,53 miliar. Total liabilitas tercatat Rp3,43 triliun per 30 September 2026, turun dari Rp4,92 triliun pada akhir 2025, sementara ekuitas naik dari Rp5,04 triliun menjadi Rp5,63 triliun.",
+   "Dalam surat terpisah bertanggal 27 Oktober 2026 yang ditandatangani Direktur Kim Bang Hyun, perusahaan menjelaskan kepada Direktur Penilaian Perusahaan BEI, Saidu Solihin, bahwa penurunan liabilitas itu mencapai Rp1,49 triliun atau 30 persen dibanding laporan tahunan 2025, sesuai aturan bursa yang mewajibkan penjelasan bila ada pos yang berubah lebih dari 20 persen. Penyebabnya adalah pembayaran utang bank sekitar Rp1,80 triliun serta pelunasan utang obligasi dan sukuk ijarah sekitar Rp205,2 miliar, yang semuanya dibayar menggunakan kas internal perseroan tanpa pinjaman baru.",
+   "Sebagai konsekuensinya, kas dan setara kas SGRO menyusut dari Rp2,90 triliun pada akhir 2025 menjadi Rp1,54 triliun pada akhir September 2026. Selain untuk melunasi utang, kas juga terpakai untuk membayar dividen tunai Rp350,99 miliar selama sembilan bulan ini, lebih rendah dari Rp600,12 miliar pada periode yang sama tahun lalu. Beban bunga ikut turun dari Rp128,03 miliar menjadi Rp76,39 miliar, dan laba bersih per saham dasar yang bisa diatribusikan kepada pemegang saham tercatat Rp523, naik dari Rp481 pada periode yang sama tahun sebelumnya."
+  ],
+  "fotoAdegan": "Workers loading fresh palm oil fruit bunches onto a truck in a tropical plantation during early morning light",
+  "takeaway": "Laporan ini condong positif bagi fundamental SGRO, karena perusahaan melunasi utang bank dan obligasi senilai total sekitar Rp2 triliun memakai kas sendiri tanpa menambah pinjaman baru, sementara pendapatan dan laba tetap tumbuh. Pos yang paling tersentuh adalah utang, yang turun 30 persen jadi Rp3,43 triliun, dan beban bunga yang ikut menyusut dari Rp128 miliar ke Rp76 miliar, dua hal yang diperhatikan pelaku pasar karena utang lebih kecil berarti risiko gagal bayar lebih rendah dan laba tidak lagi banyak tergerus biaya pinjaman. Di sisi lain, kas perusahaan ikut menyusut hampir separuh menjadi Rp1,54 triliun karena terpakai untuk pelunasan utang dan pembayaran dividen, sehingga bantalan kasnya kini lebih tipis dibanding akhir 2025. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026, untuk melihat apakah arus kas operasi SGRO cukup kuat menopang operasional dan investasi lanjutan tanpa harus menambah utang baru setelah kas internalnya terkuras tahun ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "inkp-sewakan-lahan-riau-ke-arara-abadi-transaksi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "INKP Sewakan Lahan Riau ke Arara Abadi, Transaksi [Afiliasi]",
+  "deck": "INKP menyewakan lahan 47.526 meter persegi di Siak, Riau kepada PT Arara Abadi, pemasok bahan baku yang terafiliasi, dengan harga Rp190 juta per tahun selama 20 tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T16:14:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de7922af34_07d18031f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "transaksi afiliasi",
+   "Arara Abadi",
+   "sewa lahan"
+  ],
+  "body": [
+   "PT Indah Kiat Pulp & Paper Tbk (INKP) menandatangani perjanjian sewa menyewa tanah dengan PT Arara Abadi pada 26 Oktober 2026. Lahan yang disewakan seluas 47.526 meter persegi, berlokasi di Jalan AMD, Desa Pinang Sebatang, Kecamatan Tualang, Kabupaten Siak, Provinsi Riau. Tanah tersebut merupakan sebagian dari sebidang lahan milik INKP berdasarkan Sertifikat Hak Guna Bangunan dengan total luas 1.997.722 meter persegi.",
+   "Perjanjian sewa ini berlaku selama 20 tahun, terhitung dari 26 Oktober 2026 hingga 25 Oktober 2046, dengan harga sewa Rp190 juta per tahun atau total Rp3,8 miliar untuk seluruh periode, belum termasuk Pajak Pertambahan Nilai dan Pajak Penghasilan. Harga tersebut sesuai dengan hasil penilaian Kantor Jasa Penilai Publik Pung's Zulkarnain & Rekan, yang menetapkan nilai sewa pasar lahan itu sebesar Rp190 juta per tahun berdasarkan inspeksi lapangan pada 5 Oktober 2026.",
+   "Transaksi ini digolongkan sebagai transaksi afiliasi karena INKP dan Arara memiliki pengendali yang sama, yaitu Jackson Wijaya Limantara, serta kesamaan anggota direksi, yaitu Didi Harsa Tanaja yang menjabat Direktur di INKP dan merangkap Direktur Utama di Arara. Perseroan menyebutkan transaksi ini dilakukan untuk mendukung operasional Arara, yang berperan sebagai pemasok utama bahan baku bagi kegiatan usaha INKP. Direksi dan Dewan Komisaris INKP menyatakan transaksi tidak mengandung benturan kepentingan sesuai Peraturan OJK Nomor 42/POJK.04/2020 tentang Transaksi Afiliasi dan Benturan Kepentingan."
+  ],
+  "fotoAdegan": "Aerial view of a cleared plot of reddish soil bordering dense tropical plantation rows in rural Riau, overcast sky",
+  "takeaway": "Transaksi ini netral bagi INKP karena nilainya tergolong kecil, sewa tahunan Rp190 juta jauh di bawah skala bisnis pulp dan kertas yang dijalankan Perseroan, dan harganya sudah dipatok sesuai hasil penilaian independen oleh KJPP sehingga wajar bagi pemegang saham minoritas. Pos yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar dari kegiatan usaha sehari-hari, karena sewa ini menambah pendapatan rutin INKP sebagai pemilik lahan yang disewakan ke Arara Abadi, meski besarannya tidak material bagi laporan keuangan Perseroan secara keseluruhan. Yang perlu dipantau selanjutnya adalah apakah pola sewa serupa dengan Arara Abadi akan diperluas ke bagian lain dari lahan HGB seluas 1.997.722 meter persegi yang masih dimiliki INKP, mengingat lahan yang disewakan saat ini baru sebagian kecil saja, serta bagaimana realisasi pembayaran sewa tahunan berjalan hingga kontrak berakhir pada 25 Oktober 2046.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bike-koreksi-data-akuisisi-pne-bum-rp1-t-dana-rk-mandek",
+  "category": "Aksi Korporasi",
+  "title": "BIKE [Koreksi] Data Akuisisi PNE-BUM, Rp1 T Dana RK Mandek",
+  "deck": "Dalam surat koreksi ke Bursa, BIKE merinci keuangan PNE dan BUM serta mengonfirmasi dana akuisisi RK Rp1 triliun dari PMJ belum cair.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T15:59:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/992593f2b7_d6a76dcc36.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mengirim surat koreksi tertanggal 27 Oktober 2026 yang menggantikan tanggapannya tanggal 24 Oktober 2026 kepada Bursa Efek Indonesia. Surat ini menjawab permintaan penjelasan BEI nomor S-13293/BEI.PP3/10-2026 tanggal 21 Oktober 2026, yang ditandatangani Direktur I BIKE, Muhamad Kuswandi. Salah satu yang dikoreksi adalah rencana akuisisi 99 persen saham PT Ratu Karya (RK) lewat PT Mega Teknologi Investama (MTI). BIKE menegaskan dana pembeliannya, yaitu pinjaman modal Rp1 triliun dari PT Penajam Makmur Jaya (PMJ), masih belum cair karena kajian independen oleh kantor jasa penilai publik (KJPP) belum selesai, meski status RK sebagai anak usaha sudah diumumkan sejak 18 September 2026 dengan tanggal efektif administratif 16 Juli 2026.",
+   "Untuk akuisisi PT Prambanan Nusantara Energi (PNE), BIKE mengoreksi bahwa pembeliannya bukan langsung ke PNE, melainkan lewat pengambilalihan 99 persen saham PT Fahreza Bumi Mega (FBM) dari Nadila Syafira, yang kini justru menjabat sebagai salah satu direksi BIKE, sehingga transaksi ini tergolong berafiliasi. FBM menguasai 9.900 lembar saham atau 99 persen dari PNE. Dana pembeliannya juga direncanakan dari fasilitas pinjaman PMJ yang sama dan belum terbayar. Data keuangan PNE per 30 September 2026 menunjukkan aset Rp87,35 miliar, liabilitas Rp42,13 miliar, dan ekuitas Rp45,22 miliar, melonjak dari posisi akhir 2025 yang asetnya hanya Rp31,5 miliar dan masih merugi Rp76,8 juta. Pendapatan PNE tercatat Rp112,5 miliar hingga September 2026, naik dari nol pada 2024 dan 2025, berasal dari akumulasi tiga kontrak pengelolaan Wilayah Kerja Akimuegah II dengan skema bagi hasil, yaitu Rp22,5 miliar pada Agustus 2025, tambahan Rp42,5 miliar pada November 2025, dan Rp60 miliar pada Maret 2026.",
+   "PNE sendiri kemudian mengakuisisi 72 persen saham PT Berau Usaha Mandiri (BUM), pemegang izin usaha pertambangan batu bara seluas 500 hektare di Kabupaten Berau, Kalimantan Timur, dengan cadangan terbukti 2,08 juta ton, efektif sejak 7 Oktober 2026 dan didanai dari kas internal PNE tanpa hubungan afiliasi. BIKE mengoreksi data sebelumnya yang mencantumkan proyeksi pendapatan BUM untuk 2025 dan 2026, menyatakan bahwa realisasi pendapatan BUM sebenarnya hanya terjadi pada periode 2021 hingga 2024 dari penjualan batu bara 400 sampai 500 metrik ton per tahun, sementara angka 2025 dan 2026 yang sebelumnya muncul adalah proyeksi yang belum terwujud. Baik RK, PNE, maupun BUM disebut belum dikonsolidasikan ke laporan keuangan BIKE meski status anak usahanya sudah diumumkan ke publik."
+  ],
+  "fotoAdegan": "Coal barge docked at a riverside jetty in East Kalimantan, workers nearby, stacks of coal loaded, overcast humid sky",
+  "takeaway": "Laporan koreksi ini condong negatif bagi BIKE, karena memperlihatkan dua masalah sekaligus: dana akuisisi Rp1 triliun yang dari awal dijanjikan cair ternyata masih mandek, dan pembelian FBM atau PNE ternyata transaksi dengan pihak yang sekarang duduk sebagai direksi BIKE sendiri, yakni Nadila Syafira. Pos yang perlu dicermati investor adalah neraca dan laba rugi BIKE ke depan, sebab RK, PNE, dan BUM semuanya sudah disebut anak usaha tapi belum masuk hitungan laporan keuangan konsolidasi, sehingga lonjakan pendapatan PNE dari nol menjadi Rp112,5 miliar belum tentu langsung menambah laba BIKE begitu dikonsolidasi nanti. Koreksi atas data pendapatan BUM, dari yang tadinya seolah berlanjut di 2025-2026 menjadi cuma terealisasi sampai 2024, juga menunjukkan ada selisih antara proyeksi dan kenyataan yang baru diluruskan sekarang. Yang perlu dipantau berikutnya adalah selesainya kajian independen oleh kantor jasa penilai publik yang jadi syarat sebelum pinjaman PMJ bisa cair dan sebelum rencana akuisisi RK dibawa ke RUPS, karena sampai surat ini terbit prosesnya masih berjalan tanpa tenggat waktu yang disebutkan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inta-catat-defisiensi-modal-rp2-17-triliun-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "INTA Catat [Defisiensi Modal] Rp2,17 Triliun di Kuartal III 2026",
+  "deck": "Ekuitas Intraco Penta kian negatif menjadi Rp2,17 triliun per September 2026, pendapatan turun 11 persen, dan rugi untuk pemegang saham induk justru membesar dari tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T15:47:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027155941-64669-0/FinancialStatement-2026-III-INTA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INTA",
+  "tags": [
+   "INTA",
+   "Intraco Penta",
+   "defisiensi modal",
+   "laporan keuangan kuartalan"
+  ],
+  "body": [
+   "PT Intraco Penta Tbk (INTA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset Grup turun menjadi Rp2.255.527 juta dari Rp2.365.929 juta pada akhir 2025, sementara total liabilitas mencapai Rp4.429.695 juta. Karena utang jauh lebih besar dari aset, Intraco Penta masih mencatat defisiensi modal atau ekuitas negatif, dan jumlahnya justru membesar dari Rp2.121.284 juta pada akhir 2025 menjadi Rp2.174.168 juta pada akhir September 2026.",
+   "Dari sisi usaha, pendapatan sembilan bulan turun 11,2 persen menjadi Rp656.752 juta dari Rp739.163 juta pada periode yang sama tahun lalu, sehingga laba kotor ikut tergerus dari Rp149.977 juta menjadi Rp108.480 juta. Rugi sebelum pajak malah melebar menjadi Rp49.204 juta dari Rp25.300 juta setahun sebelumnya. Rugi bersih setelah pajak justru tercatat lebih kecil, yaitu Rp52.884 juta dibanding Rp58.144 juta tahun lalu, tapi itu terjadi karena beban pajak penghasilan jauh lebih ringan, Rp3.680 juta dibanding Rp32.844 juta, bukan karena kinerja usaha membaik. Rugi yang menjadi tanggungan pemegang saham pengendali Perusahaan, yaitu pemilik induk, malah naik dari Rp49.674 juta menjadi Rp54.782 juta, sehingga rugi per saham dasar membesar dari Rp15 menjadi Rp16.",
+   "Di sisi lain, ada perbaikan pada beban keuangan yang turun dari Rp93.042 juta menjadi Rp61.758 juta, serta arus kas dari aktivitas operasi yang berbalik menjadi positif Rp40.918 juta, dari sebelumnya negatif Rp20.664 juta pada periode yang sama tahun lalu. Kas dan setara kas Perusahaan per akhir September 2026 tercatat Rp39.775 juta, turun dari Rp41.639 juta pada akhir 2025. Jumlah karyawan Grup juga berkurang menjadi 483 orang dari 541 orang setahun sebelumnya. Saham INTA sendiri saat ini tercatat di papan Pemantauan Khusus (Watchlist) Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Rows of used heavy construction excavators and loaders parked in an outdoor equipment dealer yard under overcast sky",
+  "takeaway": "Laporan ini condong negatif karena defisiensi modal makin dalam dan rugi sebelum pajak justru melebar, sementara rugi bersih yang tampak mengecil hanya efek beban pajak yang lebih ringan, bukan perbaikan usaha. Defisiensi modal atau ekuitas negatif berarti total utang Grup sudah melampaui total asetnya, sehingga kalau seluruh aset dijual pun belum cukup menutup utang, itulah yang membuat status INTA berada di papan Pemantauan Khusus BEI dan jadi perhatian kreditor maupun calon investor. Arus kas operasi yang berbalik positif dan beban bunga yang turun jadi sinyal bahwa likuiditas jangka pendek sedikit membaik, meski belum cukup mengangkat laba usaha. Yang perlu dipantau berikutnya adalah laporan keuangan tahun penuh 2026 yang akan diaudit, karena di situ baru terlihat apakah tren perbaikan arus kas bisa menahan laju pembesaran defisiensi modal atau justru kembali melebar.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "impc-laba-naik-39-borong-saham-treasuri-rp451-66-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IMPC Laba Naik 39%, Borong [Saham Treasuri] Rp451,66 Miliar",
+  "deck": "Pendapatan dan laba bersih Impack Pratama Industri tumbuh dua digit pada sembilan bulan pertama 2026, sementara perseroan membeli kembali sahamnya sendiri senilai Rp451,66 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T15:31:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027155415-65161-0/FinancialStatement-2026-III-IMPC.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IMPC",
+  "tags": [
+   "IMPC",
+   "laporan keuangan",
+   "laba bersih",
+   "saham treasuri"
+  ],
+  "body": [
+   "PT Impack Pratama Industri Tbk (IMPC) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan, sesuai kewajiban POJK Nomor 14/POJK.04/2022. Surat bernomor 85/IP-CORSEC/X/2026 itu ditandatangani Corporate Secretary Lenggan Linggawati pada 27 Oktober 2026. Pendapatan bersih perseroan tercatat Rp3,72 triliun, naik 23,1 persen dari Rp3,02 triliun pada periode yang sama tahun lalu. Laba bersih ikut melonjak 39 persen, dari Rp467,18 miliar menjadi Rp649,34 miliar, sehingga laba per saham naik dari Rp8,58 menjadi Rp11,70.",
+   "Di sisi neraca, total aset perseroan naik dari Rp5,31 triliun pada akhir 2025 menjadi Rp5,60 triliun per akhir September 2026, sementara total liabilitas naik dari Rp1,91 triliun menjadi Rp1,99 triliun. Kas dan setara kas justru menyusut dari Rp711,33 miliar menjadi Rp562,00 miliar, seiring perseroan membeli kembali sahamnya sendiri (saham treasuri) senilai Rp451,66 miliar sepanjang periode ini, sebuah pos yang sebelumnya nihil. Jumlah saham yang diterbitkan dan disetor penuh naik tipis dari 54.868.500.000 menjadi 54.907.000.000 saham. Perseroan juga menambah pinjaman bank jangka pendek dari Rp114,01 miliar menjadi Rp275,55 miliar.",
+   "Dari sisi arus kas, kas bersih dari aktivitas operasi naik dari Rp557,48 miliar menjadi Rp602,80 miliar, sementara belanja aset tetap melonjak dari Rp68,67 miliar menjadi Rp206,74 miliar untuk periode sembilan bulan ini. Beban keuangan atau bunga pinjaman justru turun dari Rp78,95 miliar menjadi Rp52,83 miliar. Total ekuitas perseroan tetap naik dari Rp3,40 triliun menjadi Rp3,60 triliun meski ada pembelian saham treasuri, karena kenaikan laba ditahan lebih besar dari dana yang dipakai untuk buyback tersebut."
+  ],
+  "fotoAdegan": "Factory workers inspecting rolls of corrugated plastic roofing sheets moving along an industrial production line, overhead lighting",
+  "takeaway": "Laporan ini condong positif bagi IMPC karena pendapatan dan laba bersihnya tumbuh dua digit, jauh di atas kenaikan utang maupun penyusutan kasnya. Yang tersentuh di sini adalah laba per saham, yang naik karena laba tumbuh lebih cepat dari jumlah saham; arus kas operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan jual beli sehari-hari, yang juga naik; dan beban bunga, biaya yang dibayar perseroan atas pinjamannya, yang justru turun meski pinjaman jangka pendeknya bertambah. Satu hal yang perlu dicermati adalah pembelian saham treasuri senilai Rp451,66 miliar, saham yang dibeli kembali oleh perusahaan dari pasar dan untuk sementara tidak diperdagangkan, karena dokumen ini belum menjelaskan untuk apa saham itu akan dipakai nantinya, entah dibagikan lewat program insentif karyawan, dijual kembali, atau ditahan. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang biasanya terbit pada awal 2027, untuk memastikan tren kenaikan laba ini bertahan sepanjang tahun penuh.",
   "sentimen": "positif"
  },
  {

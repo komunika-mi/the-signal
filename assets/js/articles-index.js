@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "toyota-teratas-byd-masuk-lima-besar-penjualan-mobil-2026",
+  "category": "Industri",
+  "title": "Toyota Teratas, BYD Masuk [Lima Besar] Penjualan Mobil 2026",
+  "deck": "Distribusi mobil dari pabrikan ke dealer naik 21 persen secara tahunan hingga September 2026, dengan Toyota memimpin dan BYD menembus lima besar berkat pabrik barunya di Subang.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/toyota-teratas-byd-masuk-lima-besar-penjualan-mobil-2026.jpg",
+  "imageV": "mvpyb7o7",
+  "tags": [
+   "Otomotif",
+   "BYD",
+   "Toyota",
+   "GAIKINDO"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/whole-sales-januari-september-2026-toyota-teratas-byd-masuk-lima-besar/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
+  "slug": "penjualan-mobil-ri-byd-atto-1-nyaris-salip-gran-max",
+  "category": "Industri",
+  "title": "Penjualan Mobil RI: BYD Atto 1 [Nyaris] Salip Gran Max",
+  "deck": "BYD Atto 1 terjual 4.840 unit pada September 2026, tipis di bawah Daihatsu Gran Max yang memimpin lewat kendaraan niaga, sekaligus jadi mobil listrik terlaris.",
+  "date": "27 Oktober 2026",
+  "image": "assets/img/penjualan-mobil-ri-byd-atto-1-nyaris-salip-gran-max.jpg",
+  "imageV": "mvpyb91t",
+  "tags": [
+   "GAIKINDO",
+   "penjualan mobil",
+   "mobil listrik",
+   "BYD Atto 1"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/20-model-mobil-terlaris-september-2026-atto-1-menempel-gran-max/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
   "slug": "buva-jelaskan-volatilitas-tegaskan-dilusi-rights-issue-203",
   "category": "Aksi Korporasi",
   "title": "BUVA Jelaskan Volatilitas, Tegaskan Dilusi [Rights Issue] 203%",
@@ -6409,38 +6445,6 @@ var ARTICLES = [
    "RUPO-RUPSI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/adc682bb8a_c6501cecfa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-investasi-sukses-bersama-lepas-1-42-miliar-saham",
-  "category": "Aksi Korporasi",
-  "title": "WIFI: Investasi Sukses Bersama [Lepas] 1,42 Miliar Saham",
-  "deck": "Investasi Sukses Bersama melepas 1,42 miliar saham WIFI senilai sekitar Rp4,06 triliun, hak suaranya turun dari 54,42 persen jadi 27,76 persen dan kehilangan status pengendali.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "kepemilikan saham",
-   "divestasi",
-   "pengendali saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-5566-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-sinergi-graha-kapital-kuasai-26-67-suara",
-  "category": "Aksi Korporasi",
-  "title": "WIFI: [Sinergi Graha Kapital] Kuasai 26,67% Suara",
-  "deck": "PT Sinergi Graha Kapital melaporkan kepemilikan baru 1,42 miliar saham WIFI atau 26,667% hak suara, dibeli senilai sekitar Rp4,06 triliun pada 19 Oktober 2026.",
-  "date": "19 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "kepemilikan saham",
-   "Sinergi Graha Kapital",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19102026-3829-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

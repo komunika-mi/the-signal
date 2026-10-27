@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "toyota-teratas-byd-masuk-lima-besar-penjualan-mobil-2026",
+  "category": "Industri",
+  "title": "Toyota Teratas, BYD Masuk [Lima Besar] Penjualan Mobil 2026",
+  "deck": "Distribusi mobil dari pabrikan ke dealer naik 21 persen secara tahunan hingga September 2026, dengan Toyota memimpin dan BYD menembus lima besar berkat pabrik barunya di Subang.",
+  "image": "assets/img/toyota-teratas-byd-masuk-lima-besar-penjualan-mobil-2026.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T00:30:08.982Z",
+  "sourceUrl": "https://www.gaikindo.or.id/whole-sales-januari-september-2026-toyota-teratas-byd-masuk-lima-besar/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "Otomotif",
+   "BYD",
+   "Toyota",
+   "GAIKINDO"
+  ],
+  "body": [
+   "Persaingan pasar mobil nasional makin ramai sepanjang Januari-September 2026. Toyota tetap menjadi merek dengan distribusi terbesar, tetapi yang menarik adalah BYD, merek asal China, untuk kali ini masuk ke jajaran lima besar nasional. Perkembangan ini menandai pergeseran peta kompetisi yang selama ini didominasi merek-merek Jepang.",
+   "Menurut data Gabungan Industri Kendaraan Bermotor Indonesia (GAIKINDO), distribusi kendaraan dari pabrikan ke dealer (whole sales) mencapai 679.020 unit sepanjang sembilan bulan pertama 2026, naik 21 persen dibanding 561.405 unit pada periode yang sama tahun sebelumnya. Penjualan ritel dari dealer ke konsumen tercatat 676.223 unit, tumbuh 15,4 persen dari 585.926 unit pada Januari-September 2025. Pertumbuhan whole sales yang lebih tinggi dibanding ritel menunjukkan stok kendaraan di dealer juga ikut bertambah selama periode ini.",
+   "Dari sisi peringkat merek, Toyota memimpin dengan 197.809 unit atau pangsa pasar 29,1 persen, diikuti Daihatsu dengan 112.442 unit (16,6 persen), Suzuki 53.224 unit (7,8 persen), dan Mitsubishi Motors 48.414 unit (7,1 persen). BYD membukukan 43.727 unit dengan pangsa pasar 6,4 persen dan menempati posisi kelima, seiring mulai beroperasinya pabriknya di Subang, Jawa Barat, yang berkapasitas 150 ribu unit per tahun dengan nilai investasi Rp16 triliun. Honda mencatat 29.903 unit, sementara Jaecoo, merek asal China lainnya, membukukan 27.234 unit dan turut masuk jajaran 10 merek dengan distribusi terbesar.",
+   "Di segmen kendaraan komersial, Mitsubishi Fuso mencatatkan distribusi 32.111 unit, disusul Isuzu dengan 22.975 unit dan Hino 20.233 unit."
+  ],
+  "fotoAdegan": "Workers loading rows of new cars onto a car-carrier truck at a vehicle distribution yard, overcast morning light",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/09/who.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Yang berubah di balik angka-angka ini adalah posisi BYD yang kini masuk lima besar nasional dengan 43.727 unit dan pangsa pasar 6,4 persen, bersamaan dengan mulai beroperasinya pabriknya di Subang yang berkapasitas 150 ribu unit per tahun dan nilai investasi Rp16 triliun. Artinya, BYD tidak lagi sekadar mengandalkan mobil impor, melainkan mulai merakit sendiri di dalam negeri, sehingga volumenya bisa tumbuh lebih leluasa tanpa terbatas kuota impor. Pihak yang paling terdampak adalah merek-merek Jepang yang selama ini mendominasi seperti Toyota, Daihatsu, dan Suzuki, karena pangsa pasar gabungan mereka mulai tergerus pemain baru, serta pekerja dan pemasok di sekitar kawasan industri Subang yang bergantung pada keberlangsungan pabrik tersebut. Dengan pabrik lokal sudah berjalan, arah yang terlihat adalah BYD berpotensi terus naik di peringkat penjualan nasional, bukan sekadar bertahan di posisi lima, apalagi jika kapasitas 150 ribu unit per tahun belum terpakai penuh. Yang akan memastikan arah ini adalah data whole sales BYD pada kuartal berikutnya, apakah volumenya terus naik seiring utilisasi pabrik Subang atau justru mendatar karena permintaan mobil listrik belum sebesar perkiraan.",
+  "imageV": "mvpyb7o7"
+ },
+ {
+  "slug": "penjualan-mobil-ri-byd-atto-1-nyaris-salip-gran-max",
+  "category": "Industri",
+  "title": "Penjualan Mobil RI: BYD Atto 1 [Nyaris] Salip Gran Max",
+  "deck": "BYD Atto 1 terjual 4.840 unit pada September 2026, tipis di bawah Daihatsu Gran Max yang memimpin lewat kendaraan niaga, sekaligus jadi mobil listrik terlaris.",
+  "image": "assets/img/penjualan-mobil-ri-byd-atto-1-nyaris-salip-gran-max.jpg",
+  "date": "27 Oktober 2026",
+  "isoDate": "2026-10-27T00:30:07.847Z",
+  "sourceUrl": "https://www.gaikindo.or.id/20-model-mobil-terlaris-september-2026-atto-1-menempel-gran-max/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GAIKINDO",
+   "penjualan mobil",
+   "mobil listrik",
+   "BYD Atto 1"
+  ],
+  "body": [
+   "Data penjualan mobil nasional dari GAIKINDO untuk September 2026 menunjukkan mobil listrik mulai menembus papan atas model terlaris di Indonesia. Daihatsu Gran Max tetap jadi mobil paling banyak terjual dengan 5.763 unit, tetapi BYD Atto 1 menempel ketat di posisi mobil penumpang terlaris kedua secara keseluruhan dengan 4.840 unit, sekaligus menjadi mobil listrik berbasis baterai terlaris bulan itu. Penjualan Atto 1 bahkan melampaui Toyota Avanza yang mencatatkan 3.872 unit.",
+   "Capaian Gran Max ditopang oleh dua varian niaga, yakni pikap dengan 4.145 unit dan minibus serta blind van dengan 1.618 unit. Di posisi ketiga, truk Mitsubishi Fuso Canter terjual 4.471 unit, memperlihatkan bahwa kendaraan niaga masih menyumbang volume besar di pasar otomotif nasional, bukan hanya mobil penumpang.",
+   "Selain BYD Atto 1, dua model listrik lain juga masuk daftar 20 besar. Jaecoo J5 EV terjual 3.276 unit di posisi kelima, sementara Geely EX2 mencatatkan 1.890 unit di posisi ke-15. Ketiganya berasal dari merek asal China, menandakan pemain baru ini mulai mengambil porsi nyata di pasar mobil massal, bukan sekadar segmen niche.",
+   "Di jajaran mobil bermesin konvensional, Toyota Calya mencatatkan 2.966 unit, Suzuki Carry pikap 2.881 unit, dan Toyota Kijang Innova Zenix 2.782 unit dari gabungan varian hybrid dan bensin. Toyota Veloz Hybrid masuk 10 besar dengan 2.552 unit, diikuti Honda Brio 2.097 unit dan Toyota Rush 2.083 unit. Toyota menjadi merek dengan model terbanyak di daftar 20 besar, yaitu delapan model meliputi Avanza, Calya, Kijang Innova Zenix, Hilux, Veloz, Rush, Agya, dan Kijang Innova diesel, sementara Daihatsu menyumbang tiga model lewat Gran Max, Sigra, dan Terios. Kendaraan niaga diesel seperti Hino Dutro dan Isuzu Traga juga tetap bertahan di daftar."
+  ],
+  "fotoAdegan": "Rows of pickup trucks and small hatchback cars parked at an outdoor dealership lot, charging cable plugged into one compact car, overcast light",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/09/ag.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Yang berubah di data ini adalah posisi BYD Atto 1, mobil listrik yang penjualannya nyaris menyamai Daihatsu Gran Max untuk jadi mobil terlaris, ditemani dua model listrik lain, Jaecoo J5 EV dan Geely EX2, yang juga masuk 20 besar. Yang terdampak adalah pabrikan mobil kota dan keluarga bermesin bensin seperti Toyota Avanza dan Honda Brio, yang kini punya saingan nyata dari mobil listrik dengan volume penjualan yang mulai sebanding. Pola ini mengarah pada mobil listrik yang mulai keluar dari pasar khusus dan ikut bersaing di segmen massal, bukan sekadar simbol transisi energi. Namun data satu bulan belum cukup membuktikan ini tren yang menetap, sehingga yang perlu dicermati adalah apakah BYD Atto 1 bertahan di posisi tinggi pada rilis data GAIKINDO bulan Oktober 2026, atau penjualan September ini didorong faktor sesaat seperti diskon akhir kuartal.",
+  "imageV": "mvpyb91t"
+ },
+ {
   "slug": "buva-jelaskan-volatilitas-tegaskan-dilusi-rights-issue-203",
   "category": "Aksi Korporasi",
   "title": "BUVA Jelaskan Volatilitas, Tegaskan Dilusi [Rights Issue] 203%",

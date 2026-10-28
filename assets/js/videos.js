@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "LYfSvqm5b6I",
+  "title": "Moody's Peringatkan Utang Prancis Bengkak Nyaris Rp72.000 Triliun",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Lembaga pemeringkat Moody's menyoroti pelebaran utang pemerintah Prancis yang nyaris mencapai Rp72.000 triliun, sinyal tekanan fiskal bagi ekonomi terbesar kedua di Eropa.",
+  "takeaway": "Tekanan fiskal di Prancis relevan diikuti karena dapat memengaruhi stabilitas ekonomi kawasan Eropa, salah satu mitra dagang utama Indonesia.",
+  "terbit": "2026-10-28T19:30:19+00:00"
+ },
+ {
   "id": "RVHkfzpCQ4A",
   "title": "Kadin Dorong KDMP Jadi Mitra UMKM, Bukan Pesaing Minimarket",
   "category": "UMKM",

@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mentan-amran-oplos-beras-subsidi-itu-amoral",
+  "category": "Bisnis",
+  "title": "Mentan Amran: Oplos Beras Subsidi Itu [Amoral]",
+  "deck": "Sidak di Jakarta Timur menemukan dugaan 600 ton beras subsidi SPHP dioplos jadi premium dan dijual Rp17.000 per kg, jauh dari harga resmi Rp12.500 per kg.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/mentan-amran-oplos-beras-subsidi-itu-amoral.jpg",
+  "imageV": "mvsjvv9n",
+  "tags": [
+   "beras",
+   "mafia pangan",
+   "Amran Sulaiman",
+   "Jakarta Timur"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475533-temukan-beras-sphp-dioplos-jadi-premium-mentan-amran-ini-perbuatan-amoral-tak-ada-kemanusiaan"
+ },
+ {
+  "slug": "ekonomi-jatim-tumbuh-5-72-persen-dagang-defisit-us-3-52-m",
+  "category": "Makroekonomi",
+  "title": "Ekonomi Jatim Tumbuh 5,72 Persen, Dagang [Defisit] US$3,52 M",
+  "deck": "Ekonomi Jawa Timur tumbuh 5,72 persen pada triwulan II 2026, tertinggi di Jawa, tapi defisit dagang melebar ke US$3,52 miliar karena impor naik lebih cepat dari ekspor.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/ekonomi-jatim-tumbuh-5-72-persen-dagang-defisit-us-3-52-m.jpg",
+  "imageV": "mvsjvvtz",
+  "tags": [
+   "Jawa Timur",
+   "pertumbuhan ekonomi",
+   "neraca dagang",
+   "APBN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475531-ekonomi-jatim-tumbuh-572-persen-neraca-perdagangan-defisit-usd-352-miliar"
+ },
+ {
   "slug": "towr-perpanjang-fasilitas-kredit-rp2-triliun-ke-2027",
   "category": "Aksi Korporasi",
   "title": "TOWR Perpanjang [Fasilitas] Kredit Rp2 Triliun ke 2027",
@@ -6419,39 +6453,6 @@ var ARTICLES = [
    "Jhonlin Baratama"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3092af4eed_dbe0665bfd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lansia-depok-ikut-berkarya-lewat-program-pnm",
-  "category": "BUMN",
-  "title": "Lansia Depok Ikut [Berkarya] Lewat Program PNM",
-  "deck": "PNM menghadirkan kegiatan budidaya ayam petelur dan ikan nila bagi lansia di Panti Werdha Rumah Oma, Depok, lewat program Lansiapreneur.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/lansia-depok-ikut-berkarya-lewat-program-pnm.jpg",
-  "imageV": "mvjaroel",
-  "tags": [
-   "PNM",
-   "Lansiapreneur",
-   "CSR",
-   "Depok"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474413-pnm-lansiapreneur-jadi-ruang-berkarya-bagi-lansia"
- },
- {
-  "slug": "bukk-jawab-bursa-piutang-jatuh-tempo-naik-ke-rp146-m",
-  "category": "Aksi Korporasi",
-  "title": "BUKK Jawab Bursa, [Piutang] Jatuh Tempo Naik ke Rp146 M",
-  "deck": "Bukaka menjelaskan ke BEI soal piutang usaha jatuh tempo yang melonjak dari Rp80,5 miliar jadi Rp146 miliar, plus koreksi klasifikasi beban Rp28,9 miliar.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUKK",
-   "piutang usaha",
-   "Bursa Efek Indonesia",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/161024451a_8fd9d5635b.pdf",
   "sourceLabel": "IDX"
  }
 ];

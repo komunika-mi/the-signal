@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mentan-amran-oplos-beras-subsidi-itu-amoral",
+  "category": "Bisnis",
+  "title": "Mentan Amran: Oplos Beras Subsidi Itu [Amoral]",
+  "deck": "Sidak di Jakarta Timur menemukan dugaan 600 ton beras subsidi SPHP dioplos jadi premium dan dijual Rp17.000 per kg, jauh dari harga resmi Rp12.500 per kg.",
+  "image": "assets/img/mentan-amran-oplos-beras-subsidi-itu-amoral.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T01:22:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475533-temukan-beras-sphp-dioplos-jadi-premium-mentan-amran-ini-perbuatan-amoral-tak-ada-kemanusiaan",
+  "tags": [
+   "beras",
+   "mafia pangan",
+   "Amran Sulaiman",
+   "Jakarta Timur"
+  ],
+  "body": [
+   "Menteri Pertanian Andi Amran Sulaiman mendatangi kawasan Pasar Induk Beras Cipinang dan sebuah toko beras di Jakarta Timur, Rabu (28/10), untuk menindak dugaan pengoplosan beras subsidi menjadi beras premium. Dalam sidak itu, Amran menyebut praktik tersebut sebagai tindakan tidak bermoral karena merampas hak masyarakat berpenghasilan rendah yang seharusnya menikmati harga murah dari program pemerintah. Temuan ini penting karena menyangkut program subsidi pangan yang dibiayai negara untuk menjaga keterjangkauan beras bagi kelompok rentan.",
+   "Dari sidak tersebut, Kementerian Pertanian menduga sekitar 600 ton beras program Stabilisasi Pasokan dan Harga Pangan, atau SPHP, disalahgunakan. Beras yang semestinya dijual dengan harga eceran tertinggi Rp12.500 per kilogram itu diduga dikemas ulang dan dipasarkan sebagai beras premium seharga Rp17.000 per kilogram, padahal pemerintah telah menanggung subsidi Rp6.000 untuk setiap kilogram beras SPHP.",
+   "Amran menilai praktik ini bukan sekadar kecurangan dagang, melainkan ancaman bagi ketahanan pangan nasional karena berpotensi memicu kelangkaan dan lonjakan harga di pasar. Ia menyebut ulah oknum yang disebutnya mafia pangan sebagai bentuk sabotase yang bisa memicu keresahan sosial, mengingat harga beras yang bergerak liar dapat berdampak lebih luas pada stabilitas sosial dan politik.",
+   "Menindaklanjuti temuan tersebut, Amran memastikan telah berkoordinasi dengan Kepolisian RI agar pelaku pengoplosan dapat diproses secara hukum. Ia juga mengapresiasi kinerja Kapolri dan jajaran Bareskrim Polri yang menurutnya berhasil mengungkap praktik curang yang merugikan petani dan masyarakat luas tersebut."
+  ],
+  "fotoAdegan": "Stacks of rice sacks piled high in a busy wholesale market warehouse, workers moving pallets, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/29/6ae2369bbcbc9-menteri-pertanian-andi-amran-sulaiman-meluapkan-amarahnya-saat-melakukan-sidak-terhadap-dugaan-praktik-pengoplosan-beras-bersubsidi-sphp-menjadi-beras-premium-di-jakarta-timur-rabu-2810_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan, melainkan temuan di lapangan: dari 600 ton beras bersubsidi program SPHP yang semestinya dijual maksimal Rp12.500 per kilogram untuk warga kurang mampu, pemerintah menduga sebagian dikemas ulang dan dijual sebagai beras premium seharga Rp17.000 per kilogram, padahal setiap kilogramnya sudah disubsidi negara Rp6.000. Pihak yang paling dirugikan adalah penerima manfaat program SPHP, yakni masyarakat berpenghasilan rendah yang jatahnya berkurang, sementara pedagang di Pasar Induk Beras Cipinang dan toko yang disidak kini jadi sorotan karena berpotensi diproses hukum. Dengan Kementerian Pertanian langsung menggandeng Polri dan memuji kerja Bareskrim, sidak ini kemungkinan bukan langkah tunggal, melainkan bagian dari operasi penindakan yang akan berlanjut ke lokasi lain. Yang akan menentukan apakah ini benar-benar bergerak ke penindakan serius atau berhenti sebagai sidak simbolis adalah apakah Polri menetapkan tersangka dari temuan 600 ton ini, dan apakah ada sidak lanjutan di pasar beras besar lainnya dalam waktu dekat.",
+  "imageV": "mvsjvv9n"
+ },
+ {
+  "slug": "ekonomi-jatim-tumbuh-5-72-persen-dagang-defisit-us-3-52-m",
+  "category": "Makroekonomi",
+  "title": "Ekonomi Jatim Tumbuh 5,72 Persen, Dagang [Defisit] US$3,52 M",
+  "deck": "Ekonomi Jawa Timur tumbuh 5,72 persen pada triwulan II 2026, tertinggi di Jawa, tapi defisit dagang melebar ke US$3,52 miliar karena impor naik lebih cepat dari ekspor.",
+  "image": "assets/img/ekonomi-jatim-tumbuh-5-72-persen-dagang-defisit-us-3-52-m.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T00:31:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475531-ekonomi-jatim-tumbuh-572-persen-neraca-perdagangan-defisit-usd-352-miliar",
+  "tags": [
+   "Jawa Timur",
+   "pertumbuhan ekonomi",
+   "neraca dagang",
+   "APBN"
+  ],
+  "body": [
+   "Perekonomian Jawa Timur tumbuh 5,72 persen secara tahunan pada triwulan II 2026, angka yang membuat provinsi ini mencatat laju pertumbuhan tertinggi di Pulau Jawa untuk semester pertama tahun ini, yakni 5,84 persen. Capaian ini penting karena menunjukkan mesin ekonomi daerah masih berjalan kencang, tapi di balik angka pertumbuhan itu neraca dagang Jawa Timur justru melebar jadi defisit, tanda bahwa kinerja ke luar negeri belum seimbang dengan derasnya permintaan dalam negeri.",
+   "Data ini dipaparkan dalam konferensi pers ALCo APBN KiTA Regional Jawa Timur di Surabaya, Selasa (27/10/2026). Sektor industri pengolahan menjadi penopang utama dengan kontribusi 31,11 persen terhadap ekonomi daerah dan tumbuh 6,05 persen secara tahunan, sementara dari sisi pengeluaran, belanja rumah tangga menyumbang 60,85 persen dari total perekonomian. Hingga September 2026, penerimaan negara di Jawa Timur tercatat Rp188,13 triliun, jauh di atas belanja negara yang sebesar Rp92,53 triliun.",
+   "Defisit neraca dagang Jawa Timur mencapai US$3,52 miliar sepanjang Januari hingga Agustus 2026. Nilai ekspor tercatat US$18,61 miliar, turun 4,91 persen dibanding periode yang sama tahun lalu, sementara impor justru naik 15,49 persen menjadi US$22,13 miliar. Local Expert Kementerian Keuangan Provinsi Jawa Timur, Ilmiawan Auwalin, menyebut kondisi ekonomi daerah masih menunjukkan ketahanan meski dihadapkan pada berbagai tantangan, dengan APBN berperan menjaga momentum pertumbuhan sekaligus stabilitas harga.",
+   "Dari sisi harga, inflasi Jawa Timur pada September 2026 tercatat 3,33 persen secara tahunan, dengan tekanan utama dari kelompok makanan, minuman, dan tembakau, transportasi, serta perawatan pribadi. Komoditas penyumbang inflasi antara lain cabai rawit, daging ayam ras, bensin, angkutan udara, dan emas perhiasan. Sejumlah indikator kesejahteraan justru membaik, Nilai Tukar Petani naik ke 121,07 dan Nilai Tukar Nelayan ke 105,56 pada September 2026, tingkat pengangguran terbuka turun ke 3,42 persen pada Mei 2026, dan angka kemiskinan tercatat 9,06 persen pada Maret 2026."
+  ],
+  "fotoAdegan": "Container ship docked at a busy Indonesian seaport, cranes loading cargo boxes, workers in safety vests nearby, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/29/6ae22ffe4b333-konferensi-pers-alco-apbn-kita-regional-jawa-timur_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Angka yang paling menentukan di balik pertumbuhan 5,72 persen ini bukan daya beli rumah tangga, yang memang masih kuat, melainkan neraca dagang yang justru melebar jadi defisit US$3,52 miliar dalam delapan bulan. Ekspor Jatim turun 4,91 persen jadi US$18,61 miliar, sementara impor melonjak 15,49 persen jadi US$22,13 miliar, artinya barang dari luar makin banyak masuk sementara barang Jatim yang terjual ke luar makin sedikit. Kondisi ini paling terasa bagi pelaku industri pengolahan dan eksportir di provinsi itu, karena sektor industri menyumbang sepertiga ekonomi daerah tapi pasar luarnya justru menyusut. Kalau pola impor naik lebih cepat dari ekspor ini berlanjut, Jatim makin mengandalkan barang dari luar untuk memenuhi permintaan dalam negeri ketimbang menjual produknya sendiri ke luar negeri. Yang akan menunjukkan apakah ini cuma fluktuasi sesaat atau benar jadi tren adalah data ekspor-impor bulan berikutnya serta angka pertumbuhan ekonomi triwulan III yang biasanya rilis awal November.",
+  "imageV": "mvsjvvtz"
+ },
+ {
   "slug": "towr-perpanjang-fasilitas-kredit-rp2-triliun-ke-2027",
   "category": "Aksi Korporasi",
   "title": "TOWR Perpanjang [Fasilitas] Kredit Rp2 Triliun ke 2027",

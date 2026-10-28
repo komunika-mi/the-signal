@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "LYfSvqm5b6I",
+  "title": "Moody's Peringatkan Utang Prancis Bengkak Nyaris Rp72.000 Triliun",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Lembaga pemeringkat Moody's menyoroti pelebaran utang pemerintah Prancis yang nyaris mencapai Rp72.000 triliun, sinyal tekanan fiskal bagi ekonomi terbesar kedua di Eropa.",
+  "takeaway": "Tekanan fiskal di Prancis relevan diikuti karena dapat memengaruhi stabilitas ekonomi kawasan Eropa, salah satu mitra dagang utama Indonesia."
+ },
+ {
   "id": "RVHkfzpCQ4A",
   "title": "Kadin Dorong KDMP Jadi Mitra UMKM, Bukan Pesaing Minimarket",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Insinyur dari 11 negara ASEAN berkumpul di Bandung dalam konferensi Cafeo 44 yang digagas Persatuan Insinyur Indonesia untuk mendorong percepatan industrialisasi di kawasan.",
   "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena menyoroti arah kebijakan industrialisasi dan kerja sama teknis lintas negara ASEAN."
- },
- {
-  "id": "eK7Sc8eJ7RA",
-  "title": "Tantangan Besar Koperasi Desa Merah Putih Menurut Gubes FH UI",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Guru besar Fakultas Hukum UI menyoroti sejumlah tantangan besar yang dihadapi program Koperasi Desa Merah Putih, inisiatif pemberdayaan ekonomi desa yang digagas pemerintah.",
-  "takeaway": "Evaluasi ini penting bagi pembaca ekonomi karena menyangkut keberlanjutan program koperasi desa sebagai instrumen pemberdayaan UMKM dan ekonomi rakyat."
  }
 ];

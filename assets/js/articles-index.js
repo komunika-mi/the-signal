@@ -960,6 +960,134 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tirt-cetak-laba-rp19-5-miliar-usai-pindah-ke-angkutan-laut",
+  "category": "Aksi Korporasi",
+  "title": "TIRT Cetak Laba Rp19,5 Miliar Usai Pindah ke [Angkutan Laut]",
+  "deck": "Setelah resmi beralih dari bisnis kayu lapis ke angkutan laut, Tirta Mahakam Resources membalik rugi jadi laba Rp19,52 miliar pada sembilan bulan pertama 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TIRT",
+   "laporan keuangan",
+   "angkutan laut",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028162714-64475-0/FinancialStatement-2026-III-TIRT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bank-jago-arto-catat-laba-rp298-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "Bank Jago (ARTO) Catat Laba [Rp298 Miliar] di Kuartal III 2026",
+  "deck": "Laba bersih Bank Jago (ARTO) naik 49,7 persen menjadi Rp298,1 miliar dalam sembilan bulan pertama 2026, ditopang pertumbuhan dana nasabah, meski rasio kredit bermasalah turut naik.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARTO",
+   "Bank Jago",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028162451-65202-0/FinancialStatement-2026-III-ARTO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vins-laba-9-bulan-naik-55-arus-kas-operasi-justru-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "VINS: Laba 9 Bulan Naik 55%, [Arus Kas] Operasi Justru Menyusut",
+  "deck": "Laba bersih PT Victoria Insurance naik ke Rp17,83 miliar pada kuartal III 2026, tapi kas dari operasi menyusut tajam dan nilai investasi obligasi tergerus kerugian belum terealisasi.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VINS",
+   "laporan keuangan",
+   "asuransi",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028161624-64649-0/FinancialStatement-2026-III-VINS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smsm-kantongi-dividen-rp2-98-miliar-dari-tokyo-radiator",
+  "category": "Aksi Korporasi",
+  "title": "SMSM Kantongi Dividen [Rp2,98 Miliar] dari Tokyo Radiator",
+  "deck": "Selamat Sempurna (SMSM) melaporkan pendapatan dividen Rp2,98 miliar dari entitas asosiasi PT Tokyo Radiator Selamat Sempurna pada 28 Oktober 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMSM",
+   "dividen",
+   "Selamat Sempurna",
+   "entitas asosiasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0853c4eebd_04e5a301a3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asii-laba-astra-turun-20-jadi-rp24-1-triliun-di-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Laba Astra [Turun] 20% Jadi Rp24,1 Triliun di 9 Bulan 2026",
+  "deck": "Laba bersih Astra International turun 20,1 persen menjadi Rp24,07 triliun pada sembilan bulan pertama 2026, meski pendapatan nyaris stagnan di Rp243,87 triliun.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "laba bersih",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028161458-64480-0/FinancialStatement-2026-III-ASII.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-eraa-melonjak-47-persen-jadi-rp1-25-triliun-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba ERAA [Melonjak] 47 Persen Jadi Rp1,25 Triliun di 9M-2026",
+  "deck": "Erajaya Swasembada melaporkan laba bersih naik 47 persen dan pendapatan tumbuh 22 persen pada sembilan bulan 2026, sembari melunasi obligasi dan menambah saham treasuri.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "Erajaya Swasembada",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028160926-64867-0/FinancialStatement-2026-III-ERAA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-jpfa-usai-dividen-interim-rp90-saham",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan [Waran] JPFA usai Dividen Interim Rp90/Saham",
+  "deck": "Maybank Sekuritas Indonesia (ZP) menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur JPFAZPCF7A menyusul dividen interim JPFA Rp90 per saham.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "JPFA",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/72c1fc3af4_78abb556f9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-untr-usai-dividen-interim-rp430-saham",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan [Waran] UNTR usai Dividen Interim Rp430/Saham",
+  "deck": "Maybank Sekuritas (ZP) menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A karena UNTR membagi dividen interim Rp430 per saham.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "UNTR",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11d3a4895f_1d85afcf93.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mtdl-laba-per-saham-turun-meski-pendapatan-naik-17-5",
   "category": "Aksi Korporasi",
   "title": "MTDL: Laba Per Saham Turun Meski Pendapatan Naik [17,5%]",
@@ -989,6 +1117,22 @@ var ARTICLES = [
    "dividen tunai"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e2f3becce8_a4a138cab2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gmfi-gelar-rupslb-bahas-rights-issue-22-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Gelar RUPSLB, Bahas [Rights Issue] 22 Miliar Saham Baru",
+  "deck": "GMFI mengundang pemegang saham ke RUPSLB 19 November 2026 untuk menyetujui rencana penerbitan hingga 22,03 miliar saham baru lewat mekanisme hak memesan efek terlebih dahulu.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "RUPSLB",
+   "rights issue",
+   "PMHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f1efa9b6d_09bb6d5480.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1069,6 +1213,22 @@ var ARTICLES = [
    "ekuitas negatif"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028151622-64562-0/FinancialStatement-2026-III-CNKO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gdyr-panggil-rupslb-ubah-susunan-komisaris-19-november",
+  "category": "Aksi Korporasi",
+  "title": "GDYR Panggil RUPSLB, Ubah Susunan [Komisaris] 19 November",
+  "deck": "Goodyear Indonesia menggelar RUPSLB pada 19 November 2026 untuk menyetujui perubahan susunan Dewan Komisaris dan penyesuaian anggaran dasar sesuai klasifikasi usaha baru BPS.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GDYR",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Goodyear Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1d2ac81fcc_8958c12336.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6291,169 +6451,6 @@ var ARTICLES = [
    "Meta Epsi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/66fdc0f45b_2acd059960.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-jadwalkan-rups-30-november-pencatatan-5-november",
-  "category": "Aksi Korporasi",
-  "title": "LABA Jadwalkan [RUPS] 30 November, Pencatatan 5 November",
-  "deck": "Green Power Group (LABA) akan menggelar RUPS pada 30 November 2026, dengan pemegang saham tercatat 5 November yang berhak hadir, dan undangan resmi berisi agenda terbit 6 November.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LABA",
-   "RUPS",
-   "Green Power Group",
-   "KSEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6aa41e4659_93d80637e2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "life-catat-laba-bersih-69-dalam-paparan-publik-h1-2026",
-  "category": "Aksi Korporasi",
-  "title": "LIFE catat laba bersih [+69%] dalam paparan publik H1 2026",
-  "deck": "LIFE memaparkan kinerja H1 2026: laba bersih naik 69 persen, ekuitas Rp8,19 triliun, serta progres spin-off syariah dan pemenuhan syarat free float BEI.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LIFE",
-   "MSIG Life Insurance Indonesia",
-   "laba bersih",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/45c4c3d311_50595d6eca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppro-rugi-rp298-miliar-di-sembilan-bulan-2026-naik-6-kali",
-  "category": "Aksi Korporasi",
-  "title": "PPRO Rugi [Rp298 Miliar] di Sembilan Bulan 2026, Naik 6 Kali",
-  "deck": "Rugi bersih PT PP Properti membengkak lebih dari enam kali lipat jadi Rp298,34 miliar pada sembilan bulan 2026, terutama akibat beban lain-lain yang berbalik dari untung menjadi rugi.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRO",
-   "PP Properti",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022165026-64835-0/FinancialStatement-2026-III-PPRO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tspc-jadwalkan-dividen-interim-rp75-per-saham-rp338-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TSPC Jadwalkan [Dividen] Interim Rp75 per Saham, Rp338 Miliar",
-  "deck": "Tempo Scan Pacific menetapkan dividen interim tahun buku 2026 sebesar Rp75 per saham, total Rp338,2 miliar, dibayar paling lambat 20 November 2026.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TSPC",
-   "dividen interim",
-   "Tempo Scan Pacific",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/920208b3c2_f1e7d50ad3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smmt-laba-bersih-turun-3-produksi-triaryani-naik",
-  "category": "Aksi Korporasi",
-  "title": "SMMT: Laba Bersih Turun 3%, Produksi Triaryani [Naik]",
-  "deck": "Paparan publik insidentil SMMT mengungkap laba bersih turun 3% akibat belanja modal, sementara produksi batu bara Triaryani naik dari tahun lalu meski volume penjualan turun.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMT",
-   "Public Expose",
-   "Batu Bara",
-   "Golden Eagle Energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/30a8a8b3bb_78e851f795.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tfco-jawab-bursa-laba-stabil-garap-properti-di-surabaya",
-  "category": "Aksi Korporasi",
-  "title": "TFCO Jawab Bursa: Laba Stabil, Garap [Properti] di Surabaya",
-  "deck": "Tifico Fiber Indonesia menjawab permintaan penjelasan Bursa Efek Indonesia dengan memaparkan kinerja keuangan semester I 2026 dan rencana bisnis properti di lahan Surabaya.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TFCO",
-   "Tifico Fiber Indonesia",
-   "polyester",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6eb3cf720c_ad8b8d6130.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bi-jatim-dorong-riset-jadi-basis-kebijakan-ekonomi",
-  "category": "Makroekonomi",
-  "title": "BI Jatim Dorong [Riset] Jadi Basis Kebijakan Ekonomi",
-  "deck": "BI Jatim mengajak pemerintah daerah memakai riset ilmiah sebagai dasar kebijakan pembangunan, ditandai penyerahan laporan ekonomi dan hasil forum EJAVEC 2026 ke Wakil Gubernur Jatim.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/bi-jatim-dorong-riset-jadi-basis-kebijakan-ekonomi.jpg",
-  "imageV": "mvjg6hk4",
-  "tags": [
-   "BI Jatim",
-   "EJAVEC 2026",
-   "riset ekonomi",
-   "Jawa Timur"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474433-bi-jatim-dorong-riset-jadi-dasar-kebijakan-pembangunan-ekonomi"
- },
- {
-  "slug": "sgro-jawab-bursa-klaim-tak-ada-info-material-baru",
-  "category": "Aksi Korporasi",
-  "title": "SGRO Jawab Bursa, Klaim Tak Ada Info [Material] Baru",
-  "deck": "PT Prime Agri Resources Tbk menjawab permintaan klarifikasi Bursa Efek Indonesia atas lonjakan transaksi sahamnya, dan menyatakan tidak mengetahui informasi material apa pun.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SGRO",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5824fdfb3f_6f68774e26.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dua-terminal-bus-ditawarkan-ke-investor-lewat-skema-kpbu",
-  "category": "Bisnis",
-  "title": "Dua Terminal Bus Ditawarkan ke Investor Lewat Skema [KPBU]",
-  "deck": "Pemerintah menjaring minat investor untuk proyek KPBU Terminal Purabaya (Surabaya) dan Betan Subing (Lampung), dengan total kebutuhan investasi sekitar Rp1,18 triliun.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/dua-terminal-bus-ditawarkan-ke-investor-lewat-skema-kpbu.jpg",
-  "imageV": "mvjaro00",
-  "tags": [
-   "KPBU",
-   "Terminal Purabaya",
-   "Betan Subing",
-   "investasi infrastruktur"
-  ],
-  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/dorong-investasi-sektor-transportasi-keminveshil-dan-kemenhub-gelar-market-sounding-kpbu-terminal-tipe-a-purabaya-dan-betan-subing",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "lucy-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "LUCY Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Menjawab permintaan penjelasan BEI atas lonjakan transaksi, PT Lima Dua Lima Tiga Tbk (LUCY) menegaskan tidak ada fakta material maupun rencana korporasi yang mendasarinya.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LUCY",
-   "volatilitas saham",
-   "BEI",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/96907ecc03_8dbdd59669.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -1552,6 +1552,214 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "tirt-cetak-laba-rp19-5-miliar-usai-pindah-ke-angkutan-laut",
+  "category": "Aksi Korporasi",
+  "title": "TIRT Cetak Laba Rp19,5 Miliar Usai Pindah ke [Angkutan Laut]",
+  "deck": "Setelah resmi beralih dari bisnis kayu lapis ke angkutan laut, Tirta Mahakam Resources membalik rugi jadi laba Rp19,52 miliar pada sembilan bulan pertama 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:17:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028162714-64475-0/FinancialStatement-2026-III-TIRT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TIRT",
+  "tags": [
+   "TIRT",
+   "laporan keuangan",
+   "angkutan laut",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "Tirta Mahakam Resources Tbk (TIRT) melaporkan laba periode berjalan Rp19,52 miliar untuk sembilan bulan yang berakhir 30 September 2026, berbalik dari rugi Rp33,11 miliar pada periode yang sama tahun lalu. Pendapatan tercatat Rp85,29 miliar, sementara pada periode pembanding tahun 2025 pendapatan nihil karena bisnis lama perusahaan, penjualan kayu lapis, saat itu dicatat sebagai operasi yang dihentikan. Setelah dikurangi beban pokok pendapatan Rp49,09 miliar, laba bruto tercatat Rp36,20 miliar, dan setelah beban umum dan administrasi Rp5,88 miliar serta beban bunga Rp10,28 miliar, laba sebelum pajak final mencapai Rp20,55 miliar. Laba per saham berbalik menjadi Rp19,30, dari sebelumnya rugi Rp32,73 per saham.",
+   "Dari sisi arus kas, kegiatan operasi menghasilkan kas masuk neto Rp37,02 miliar, berbalik dari kas keluar neto Rp8,34 miliar pada periode yang sama tahun lalu. Kas dan setara kas perusahaan naik menjadi Rp57,37 miliar per akhir September 2026, dari Rp28,74 miliar di akhir Desember 2025. Total aset naik menjadi Rp401,44 miliar dari Rp369,34 miliar. Namun total liabilitas juga naik menjadi Rp992,87 miliar dari Rp980,28 miliar, di mana porsi terbesarnya adalah utang kepada pemegang saham yang membengkak menjadi Rp928,99 miliar dari Rp918,68 miliar, ditambah utang kepada pihak berelasi Rp55,09 miliar yang jumlahnya tetap. Akibatnya, defisiensi modal atau ekuitas negatif perusahaan tercatat Rp591,42 miliar, menyempit dari Rp610,95 miliar di akhir 2025, sebesar nilai laba periode ini.",
+   "Perubahan arah bisnis ini tertuang dalam Akta Notaris Leolin Jayayanti No. 03 tanggal 2 Juli 2026 yang disetujui Menteri Hukum dalam Surat Keputusan No. AHU-0045811.AH.01.02.Tahun 2026 tanggal 3 Juli 2026. Lewat akta itu, kegiatan usaha utama TIRT yang sebelumnya penjualan kayu lapis resmi diubah menjadi angkutan laut dalam negeri untuk barang umum, barang khusus, dan aktivitas penunjang pertambangan serta penggalian. Perusahaan mulai beroperasi komersial di bisnis angkutan laut sejak Oktober 2025, dan sahamnya saat ini masih berada di Papan Pemantauan Khusus (watchlist) di Bursa Efek Indonesia. Laporan keuangan interim yang tidak diaudit ini ditandatangani oleh Presiden Direktur Tham Arvin Setyanto dan Direktur Pohan Wijaya Po pada 28 Oktober 2026."
+  ],
+  "fotoAdegan": "A general cargo ship docked at a busy Indonesian port, cranes loading containers, workers on the quay at midday",
+  "takeaway": "Laporan ini condong positif karena TIRT berhasil membalik rugi menjadi laba dan arus kas operasinya berubah dari negatif menjadi positif sejak bisnis barunya, angkutan laut, mulai menghasilkan pendapatan. Yang tersentuh di sini adalah ekuitas, arus kas, dan laba per saham, tiga pos yang jadi perhatian investor karena ekuitas negatif berarti utang perusahaan lebih besar dari asetnya, arus kas menunjukkan apakah bisnis benar-benar menghasilkan uang tunai, dan laba per saham mengukur bagian keuntungan yang jadi hak setiap pemegang saham. Catatan penting, meski menyempit, ekuitas negatif TIRT masih sangat dalam yaitu Rp591,42 miliar, dan hampir seluruh utangnya, sekitar Rp984 miliar dari total Rp992,87 miliar, justru berasal dari pemegang saham dan pihak berelasi sendiri yang jumlahnya terus bertambah. Yang perlu dipantau berikutnya adalah apakah tren laba dan kas positif ini berlanjut di laporan kuartal selanjutnya, serta apakah performa bisnis angkutan laut yang baru setahun berjalan ini cukup untuk akhirnya membawa saham TIRT keluar dari Papan Pemantauan Khusus.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bank-jago-arto-catat-laba-rp298-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "Bank Jago (ARTO) Catat Laba [Rp298 Miliar] di Kuartal III 2026",
+  "deck": "Laba bersih Bank Jago (ARTO) naik 49,7 persen menjadi Rp298,1 miliar dalam sembilan bulan pertama 2026, ditopang pertumbuhan dana nasabah, meski rasio kredit bermasalah turut naik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:15:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028162451-65202-0/FinancialStatement-2026-III-ARTO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARTO",
+  "tags": [
+   "ARTO",
+   "Bank Jago",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Jago Tbk menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan pada 28 Oktober 2026. Surat pernyataan direksi ditandatangani oleh Direktur Utama Arief Harris Tandjung dan Direktur Supranoto Prajogo, sementara surat pengantar ke bursa ditandatangani oleh Tjit Siat Fun selaku Direktur Kepatuhan atau Corporate Secretary. Laba bersih perseroan tercatat Rp298,1 miliar, naik 49,7 persen dari Rp199,1 miliar pada periode yang sama tahun 2025, dengan laba per saham dasar naik dari Rp14,37 menjadi Rp21,50. Total aset mencapai Rp42.102 miliar per 30 September 2026, naik 15,3 persen dari Rp36.507 miliar pada akhir 2025.",
+   "Dari sisi pendanaan, simpanan tabungan nasabah naik 27,6 persen menjadi Rp10.171,5 miliar dari Rp7.971,7 miliar, sedangkan deposito berjangka naik menjadi Rp13.021,4 miliar dari Rp12.749,9 miliar. Perseroan juga menambah penempatan di Surat Berharga Negara, membuat portofolio efek-efek naik 36,7 persen menjadi Rp5.558,5 miliar, dan menempatkan giro di Bank Indonesia sebesar Rp3.561,8 miliar, naik 141,1 persen, karena menurut penjelasan manajemen ada dana yang tidak dapat ditempatkan pada instrumen lain di bank sentral. Di sisi kualitas kredit, rasio kredit bermasalah (NPL) kotor naik dari 0,61 persen menjadi 0,87 persen dan NPL bersih naik dari 0,12 persen menjadi 0,34 persen, sementara rasio kecukupan modal (CAR) turun dari 31,63 persen menjadi 27,54 persen.",
+   "Perseroan juga mencatatkan pinjaman baru sebesar Rp1.785,2 miliar, yang merupakan hasil penarikan penuh fasilitas pinjaman sindikasi jangka pendek berplafon US$100 juta yang ditandatangani pada 15 Desember 2025 dan ditarik seluruhnya pada 9 Januari 2026. Pinjaman ini akan jatuh tempo pada 30 Desember 2026. Selain itu, cadangan pembayaran berbasis saham untuk program opsi saham karyawan MESOP 2025-2030 naik dari Rp75,6 miliar menjadi Rp90,8 miliar, setelah perseroan melakukan pra pencatatan tambahan saham sebanyak-banyaknya 40 juta lembar pada 22 Mei 2026, dari total program yang disetujui RUPST 14 Mei 2025 sebanyak-banyaknya 200 juta saham."
+  ],
+  "fotoAdegan": "Technician walking through a dim data center aisle lined with glowing server racks, indicator lights reflecting on the floor",
+  "takeaway": "Laporan ini condong positif bagi Bank Jago karena laba bersihnya melonjak hampir 50 persen dan basis dananya tumbuh pesat, meski ada dua indikator yang perlu diawasi. Kenaikan laba tercermin di laba per saham, yaitu laba bersih dibagi jumlah saham beredar, yang naik dari Rp14,37 menjadi Rp21,50, artinya setiap lembar saham kini menghasilkan laba lebih besar bagi pemegangnya. Yang perlu diwaspadai adalah rasio kredit bermasalah yang naik dari 0,61 persen menjadi 0,87 persen, dan rasio kecukupan modal, yakni bantalan modal bank untuk menyerap kerugian, yang turun dari 31,63 persen menjadi 27,54 persen meski masih jauh di atas batas minimum 8 persen yang diwajibkan OJK. Yang perlu dipantau berikutnya adalah pelunasan pinjaman sindikasi senilai US$100 juta yang jatuh tempo 30 Desember 2026, serta realisasi pencatatan tambahan saham program MESOP 2025-2030 yang sudah dipra-catatkan sejak 22 Mei 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "vins-laba-9-bulan-naik-55-arus-kas-operasi-justru-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "VINS: Laba 9 Bulan Naik 55%, [Arus Kas] Operasi Justru Menyusut",
+  "deck": "Laba bersih PT Victoria Insurance naik ke Rp17,83 miliar pada kuartal III 2026, tapi kas dari operasi menyusut tajam dan nilai investasi obligasi tergerus kerugian belum terealisasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:13:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028161624-64649-0/FinancialStatement-2026-III-VINS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VINS",
+  "tags": [
+   "VINS",
+   "laporan keuangan",
+   "asuransi",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Victoria Insurance Tbk (VINS) melaporkan laba bersih sebesar Rp17,83 miliar untuk sembilan bulan pertama 2026, naik 55,8 persen dari Rp11,45 miliar pada periode yang sama tahun lalu. Laba per saham dasar ikut naik dari Rp7,84 menjadi Rp12,21. Kenaikan ini didorong oleh pendapatan jasa asuransi yang tumbuh 30,5 persen menjadi Rp122,14 miliar, sementara beban klaim justru turun dari Rp28,06 miliar menjadi Rp24,98 miliar. Hasil jasa asuransi, yakni selisih antara pendapatan premi dengan beban klaim dan reasuransi, naik 31,9 persen menjadi Rp20,42 miliar.",
+   "Meski laba akuntansi tumbuh, total ekuitas perusahaan hanya naik tipis dari Rp232,11 miliar menjadi Rp237,90 miliar karena nilai investasi obligasi yang dipegang perusahaan tergerus. Perusahaan mencatat sebagian investasinya dalam skema yang mengharuskan perubahan harga pasar obligasi dibukukan langsung ke ekuitas, bukan ke laba rugi. Karena harga obligasi turun sepanjang sembilan bulan ini, pos tersebut berubah dari untung Rp5,34 miliar menjadi rugi Rp6,70 miliar, tergerus Rp12,04 miliar. Akibatnya, total laba komprehensif, yaitu laba bersih ditambah seluruh perubahan nilai aset itu, hanya Rp5,79 miliar, jauh lebih kecil dibanding Rp65,35 miliar pada periode yang sama tahun lalu. Arus kas dari aktivitas operasi juga menyusut tajam dari Rp8,61 miliar menjadi Rp796,24 juta, menandakan kas yang benar-benar diterima perusahaan dari bisnis asuransinya jauh lebih kecil dari laba yang tercatat di atas kertas.",
+   "Dalam surat terpisah ke Bursa Efek Indonesia yang juga diteken Direktur Utama Suwandi Suharto pada 28 Oktober 2026, manajemen menjelaskan sejumlah pos aset dan liabilitas yang berubah lebih dari 20 persen dibanding akhir 2025. Aset kontrak asuransi naik Rp31,7 miliar karena proyeksi arus kas dari kontrak asuransi properti (COB Property) meningkat. Di sisi liabilitas, kewajiban neto dari kontrak asuransi turun Rp3,5 miliar, hasil dari turunnya cadangan klaim dalam proses sebesar Rp19 miliar yang ternyata sudah terealisasi, dikurangi kenaikan Rp15,5 miliar pada komponen premi yang belum merupakan pendapatan akibat penambahan masa pertanggungan polis baru. Sebaliknya, liabilitas ke perusahaan reasuransi naik Rp29,6 miliar karena kewajiban premi kepada reasuradur bertambah, sementara biaya yang masih harus dibayar turun Rp1,1 miliar setelah perusahaan membayar jasa audit dan aktuaris."
+  ],
+  "fotoAdegan": "An insurance surveyor photographing water damage on a building wall during a property claim inspection, daylight",
+  "takeaway": "Laporan ini condong netral: bisnis inti asuransi dan laba bersih tumbuh kuat, tetapi kenaikan itu hampir sepenuhnya diredam oleh kerugian belum terealisasi pada portofolio obligasi dan arus kas operasi yang menyusut tajam, jadi pemegang saham belum bisa menganggapnya kabar baik murni. Pos yang paling tersentuh adalah ekuitas, lewat cadangan nilai wajar surat utang yang berubah dari untung ke rugi saat harga pasar obligasi turun, ini bukan kerugian tunai tapi tetap mengurangi kekayaan bersih di atas kertas, serta arus kas, karena jarak besar antara laba akuntansi dan kas yang benar-benar masuk biasanya jadi sinyal bahwa sebagian laba itu masih berupa piutang atau cadangan yang belum cair. Laba per saham yang naik 55,7 persen tetap layak dicermati karena itu dasar penilaian investor atas saham, meski kenaikan ekuitas riil jauh lebih kecil dari laba tersebut. Yang perlu dipantau berikutnya adalah apakah tren pertumbuhan premi dari lini asuransi properti ini berlanjut di laporan keuangan tahunan 2026 yang diaudit, dan apakah kerugian belum terealisasi pada obligasi berbalik begitu arah suku bunga pasar berubah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smsm-kantongi-dividen-rp2-98-miliar-dari-tokyo-radiator",
+  "category": "Aksi Korporasi",
+  "title": "SMSM Kantongi Dividen [Rp2,98 Miliar] dari Tokyo Radiator",
+  "deck": "Selamat Sempurna (SMSM) melaporkan pendapatan dividen Rp2,98 miliar dari entitas asosiasi PT Tokyo Radiator Selamat Sempurna pada 28 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:04:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0853c4eebd_04e5a301a3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMSM",
+  "tags": [
+   "SMSM",
+   "dividen",
+   "Selamat Sempurna",
+   "entitas asosiasi"
+  ],
+  "body": [
+   "PT Selamat Sempurna Tbk (SMSM) menyampaikan keterbukaan informasi kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia soal pendapatan dividen sebesar Rp2.980.395.000 atau sekitar Rp2,98 miliar dari entitas asosiasinya, PT Tokyo Radiator Selamat Sempurna (TRSS). Dividen ini tercatat pada 28 Oktober 2026 dan laporan ditandatangani oleh Wakil Direktur Utama SMSM, Ang Andri Pribadi.",
+   "TRSS berstatus entitas asosiasi, bukan anak usaha yang dikonsolidasi penuh, sehingga SMSM hanya memegang sebagian saham di perusahaan tersebut dan mencatat bagian hasilnya antara lain lewat penerimaan dividen seperti ini. Dalam dokumen yang sama, manajemen SMSM menegaskan bahwa penerimaan dividen tersebut tidak berdampak pada kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Tidak ada keterangan tambahan lain yang disampaikan dalam laporan ini.",
+   "Laporan ini disampaikan berdasarkan Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan atas Informasi atau Fakta Material, sebagaimana diubah dengan POJK Nomor 45/POJK.04/2024, yang mewajibkan emiten mengumumkan setiap informasi yang berpotensi memengaruhi keputusan investor, termasuk penerimaan dividen dari entitas asosiasi."
+  ],
+  "fotoAdegan": "Workers inspecting rows of automotive radiators on a factory assembly line, bright industrial lighting, Indonesia",
+  "takeaway": "Laporan ini netral bagi SMSM, karena dividen Rp2,98 miliar dari TRSS tergolong kecil dan, seperti disebutkan sendiri oleh manajemen, tidak mengubah kondisi keuangan maupun operasional perusahaan secara berarti. Pos yang tersentuh adalah pendapatan lain-lain dan arus kas masuk SMSM, sebab dividen dari entitas asosiasi dicatat sebagai pendapatan non-operasional yang menambah kas perusahaan meski besarannya kecil dibandingkan skala bisnis utama SMSM di industri komponen otomotif. Dokumen ini tidak menyebut agenda lanjutan seperti RUPSLB atau tenggat tertentu, sehingga yang bisa dipantau selanjutnya adalah laporan keuangan kuartal SMSM berikutnya untuk melihat seberapa besar kontribusi dividen ini terhadap laba bersih, serta apakah entitas asosiasi lain milik SMSM turut membagikan dividen pada periode mendatang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asii-laba-astra-turun-20-jadi-rp24-1-triliun-di-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Laba Astra [Turun] 20% Jadi Rp24,1 Triliun di 9 Bulan 2026",
+  "deck": "Laba bersih Astra International turun 20,1 persen menjadi Rp24,07 triliun pada sembilan bulan pertama 2026, meski pendapatan nyaris stagnan di Rp243,87 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:02:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028161458-64480-0/FinancialStatement-2026-III-ASII.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASII",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "laba bersih",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Astra International Tbk (ASII) melaporkan laba bersih sebesar Rp24,07 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, turun 20,1 persen dibandingkan Rp30,11 triliun pada periode yang sama tahun lalu. Penurunan ini terjadi meski pendapatan bersih perusahaan nyaris tidak bergerak, yakni Rp243,87 triliun dibandingkan Rp243,61 triliun pada sembilan bulan pertama 2025. Laba yang menjadi hak pemegang saham Astra tercatat Rp21,60 triliun, turun 11,7 persen dari Rp24,47 triliun, sehingga laba per saham turun dari Rp605 menjadi Rp541.",
+   "Tekanan pada laba berasal dari beberapa pos biaya. Beban penjualan melonjak 22 persen menjadi Rp10,41 triliun dan beban umum serta administrasi naik 10 persen menjadi Rp16,94 triliun. Pos beban lain-lain bersih juga berbalik dari untung Rp1,84 triliun pada 2025 menjadi rugi Rp2,43 triliun pada 2026. Di sisi lain, bagian Astra atas hasil usaha ventura bersama dan entitas asosiasi justru naik 20 persen menjadi Rp8,13 triliun. Laba yang menjadi hak pemegang saham minoritas di anak usaha turun tajam 56 persen, dari Rp5,64 triliun menjadi Rp2,47 triliun.",
+   "Dari sisi arus kas, kas bersih dari aktivitas operasi turun 18,4 persen menjadi Rp28,61 triliun dari Rp35,07 triliun setahun sebelumnya. Astra membayar dividen tunai Rp11,69 triliun kepada pemegang saham Perseroan dan Rp2,43 triliun kepada pemegang saham minoritas anak usaha sepanjang periode ini. Perseroan juga membeli kembali saham treasuri senilai Rp2,88 triliun di tingkat induk, sementara anak usahanya membeli saham treasuri senilai Rp3,64 triliun, sehingga saldo saham treasuri di neraca naik dari Rp1,76 triliun menjadi Rp4,64 triliun. Total aset Astra per 30 September 2026 tercatat Rp525,72 triliun, naik dari Rp507,37 triliun pada akhir 2025, sementara jumlah ekuitas naik dari Rp290,81 triliun menjadi Rp297,89 triliun."
+  ],
+  "fotoAdegan": "Workers assembling car engines on an automotive factory production line, overhead lighting, rows of components in the background",
+  "takeaway": "Laporan ini condong negatif bagi Astra karena laba bersihnya turun 20 persen secara tahunan menjadi Rp24,07 triliun, padahal pendapatannya nyaris tidak bergerak, pertanda tekanan datang dari sisi biaya dan kinerja anak usaha, bukan dari penjualan yang melemah. Yang paling terasa adalah laba per saham, yaitu bagian laba yang menjadi hak tiap lembar saham, yang turun dari Rp605 jadi Rp541, serta arus kas dari kegiatan usaha sehari-hari yang menyusut 18 persen menjadi Rp28,61 triliun, menandakan uang tunai riil dari bisnis inti yang masuk ke kas perusahaan kian menipis. Ekuitas, yakni total kekayaan bersih yang jadi hak pemegang saham, masih naik tipis menjadi Rp297,89 triliun karena laba ditahan masih lebih besar dari dividen dan pembelian kembali saham yang dikeluarkan Astra sepanjang tahun ini. Yang perlu dipantau berikutnya adalah laporan keuangan audit untuk tahun penuh 2026, yang akan menunjukkan apakah penurunan laba ini berlanjut, terutama karena bagian laba milik pemegang saham minoritas di anak usaha anjlok 56 persen, sinyal bahwa unit-unit seperti pertambangan dan alat berat sedang melambat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "laba-eraa-melonjak-47-persen-jadi-rp1-25-triliun-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba ERAA [Melonjak] 47 Persen Jadi Rp1,25 Triliun di 9M-2026",
+  "deck": "Erajaya Swasembada melaporkan laba bersih naik 47 persen dan pendapatan tumbuh 22 persen pada sembilan bulan 2026, sembari melunasi obligasi dan menambah saham treasuri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T15:58:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028160926-64867-0/FinancialStatement-2026-III-ERAA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "Erajaya Swasembada",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "Erajaya Swasembada Tbk (ERAA) menyampaikan laporan keuangan interim konsolidasian yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK dan Bursa Efek Indonesia. Surat pengantar bernomor 150/ERAA/CS/X/2026 itu ditandatangani Amelia Allen, Kepala Bidang Hukum dan Sekretaris Perusahaan, pada 28 Oktober 2026. Penjualan tercatat Rp63,97 triliun, naik 22,2 persen dari Rp52,36 triliun pada periode yang sama tahun lalu, sementara laba bersih melonjak 47,2 persen menjadi Rp1,25 triliun dari Rp848,75 miliar. Laba per saham ikut naik dari Rp49,77 menjadi Rp69,90.",
+   "Dari sisi keuangan, total aset perusahaan bertambah dari Rp28,86 triliun menjadi Rp31,06 triliun, dan ekuitas naik dari Rp10,18 triliun menjadi Rp11,16 triliun. Utang bank jangka pendek turun tajam dari Rp4,98 triliun menjadi Rp3,32 triliun, dan obligasi senilai Rp644,97 miliar yang jatuh tempo pada akhir 2025 sudah lunas sepenuhnya, meski di sisi lain utang bank jangka panjang naik dari Rp463,52 miliar menjadi Rp2,50 triliun. Kas perusahaan menyusut dari Rp2,13 triliun menjadi Rp1,63 triliun, sebagian terpakai untuk membayar dividen kas Rp388,95 miliar serta menambah pembelian saham treasuri senilai Rp271,69 miliar sehingga totalnya kini Rp325,63 miliar. Aset hak guna, yang mencatat sewa gedung dan toko, melonjak dari Rp1,93 triliun menjadi Rp3,04 triliun, sejalan dengan liabilitas sewa jangka panjang yang naik dari Rp569,94 miliar menjadi Rp1,23 triliun.",
+   "Laporan ini juga mencatat perubahan struktur grup usaha. Kepentingan nonpengendali dalam ekuitas melompat dari Rp1,04 triliun menjadi Rp1,54 triliun, didorong tambahan modal dari pemegang saham nonpengendali Rp163,73 miliar dan pos baru senilai Rp240,55 miliar akibat perubahan status salah satu entitas menjadi anak usaha. Daftar anak usaha dalam laporan ini mencantumkan PT Sinar Eka Selaras Tbk, distributor yang 80 persen sahamnya dimiliki Erajaya dengan aset Rp2,39 triliun. Di sisi lain, investasi pada entitas asosiasi turun dari Rp567,22 miliar menjadi Rp279,39 miliar, dan aset yang sebelumnya diklasifikasikan dimiliki untuk dijual senilai Rp83,87 miliar sudah tidak muncul lagi, menandakan pelepasan itu rampung. Persediaan barang dagangan juga naik 16,3 persen menjadi Rp13,55 triliun dari Rp11,64 triliun."
+  ],
+  "fotoAdegan": "Customers browsing smartphones and gadgets on display shelves inside a brightly lit electronics retail store, Jakarta",
+  "takeaway": "Laporan ini condong positif bagi fundamental Erajaya, karena laba bersih tumbuh jauh lebih cepat dibanding pendapatan dan sebagian utang bank berbunga mahal berhasil dilunasi. Pos yang tersentuh ada di ekuitas, yakni modal pemilik perusahaan, yang menebal dari Rp10,18 triliun menjadi Rp11,16 triliun, dan di laba per saham yang naik ke Rp69,90 karena laba membesar sementara sebagian saham ditarik lewat program buyback. Arus kasnya justru menipis, kas turun dari Rp2,13 triliun menjadi Rp1,63 triliun, tetapi itu karena dipakai melunasi obligasi, membayar dividen, dan menambah saham treasuri, bukan tanda bisnis intinya melemah, apalagi beban bunga malah turun dari Rp474,58 miliar menjadi Rp451,16 miliar. Pelaku pasar biasanya mencermati kombinasi ini karena menunjukkan perusahaan mengganti sebagian utang berbunga dengan ekuitas dan kas internal. Yang perlu dipantau berikutnya adalah laporan keuangan tahun penuh 2026 yang teraudit, karena di situ akan terlihat apakah kenaikan persediaan 16,3 persen pada kuartal ini benar-benar terjual habis di musim belanja akhir tahun atau justru menumpuk jadi stok yang lambat berputar.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-jpfa-usai-dividen-interim-rp90-saham",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan [Waran] JPFA usai Dividen Interim Rp90/Saham",
+  "deck": "Maybank Sekuritas Indonesia (ZP) menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur JPFAZPCF7A menyusul dividen interim JPFA Rp90 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T15:56:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/72c1fc3af4_78abb556f9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "JPFA",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia (ZP) menyampaikan keterbukaan informasi mengenai penyesuaian syarat dan ketentuan waran terstruktur JPFAZPCF7A. Penyesuaian ini dilakukan menyusul pengumuman PT Japfa Comfeed Indonesia Tbk (JPFA) pada 28 Oktober 2026 tentang pembagian dividen interim tahun buku 2026 sebesar Rp90 per saham.",
+   "Berdasarkan Bagian 3.8 Prospektus waran tertanggal 11 April 2025 dan Term Sheet JPFAZPCF7A, harga pelaksanaan baru dihitung dengan mengalikan harga pelaksanaan lama dengan selisih harga saham JPFA dan dividen Rp90, dibagi harga saham JPFA itu sendiri. Rumus yang sama juga dipakai untuk menghitung rasio konversi baru dari rasio konversi lama. Harga saham JPFA yang dipakai sebagai acuan adalah harga penutupan terakhir pada cum-date, yaitu hari terakhir saham tersebut masih membawa hak dividen.",
+   "Penyesuaian ini berlaku efektif pada tanggal ex-dividen, yakni 6 November 2026 untuk pasar reguler dan negosiasi, serta 10 November 2026 untuk pasar tunai. Maybank Sekuritas Indonesia selaku penerbit waran mencantumkan bahwa pihaknya tetap berhak untuk tidak melakukan penyesuaian tersebut, berdasarkan kebijakannya sendiri dan tanpa kewajiban apa pun kepada pemegang waran terstruktur, apabila dianggap tidak tepat untuk dilakukan."
+  ],
+  "fotoAdegan": "Workers checking rows of feed sacks and machinery inside a large industrial poultry feed mill warehouse under overhead lighting",
+  "takeaway": "Penyesuaian ini netral bagi JPFA maupun Maybank Sekuritas, karena murni konsekuensi rumus baku yang sudah disepakati sejak waran ini diterbitkan, bukan keputusan baru yang mencerminkan kondisi keuangan kedua pihak. Yang tersentuh bukan pos kinerja JPFA secara langsung, melainkan nilai waran terstruktur itu sendiri: harga pelaksanaan, yaitu harga yang harus dibayar pemegang waran untuk menukarnya jadi saham, dan rasio konversi, yaitu jumlah waran yang dibutuhkan untuk mendapat satu saham, diturunkan sebanding dengan dividen yang dibagikan agar pemegang waran tidak dirugikan ketika kas keluar dari JPFA lewat dividen. Pelaku pasar memperhatikan mekanisme ini karena pembagian dividen memang mengurangi kas dan ekuitas JPFA sehingga nilai sahamnya turun sedikit pada cum-date, dan penyesuaian waran ini sekadar menyeimbangkan posisi ekonomi pemegang waran, bukan sinyal baru soal arah bisnis JPFA. Yang perlu dipantau berikutnya adalah tanggal efektif penyesuaian pada 6 November 2026 untuk pasar reguler dan negosiasi serta 10 November 2026 untuk pasar tunai, sekaligus kemungkinan Maybank Sekuritas memutuskan tidak melakukan penyesuaian sama sekali sesuai kebijakannya sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-untr-usai-dividen-interim-rp430-saham",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan [Waran] UNTR usai Dividen Interim Rp430/Saham",
+  "deck": "Maybank Sekuritas (ZP) menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A karena UNTR membagi dividen interim Rp430 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T15:56:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11d3a4895f_1d85afcf93.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "UNTR",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia (ZP) mengumumkan penyesuaian syarat dan ketentuan dua waran terstrukturnya, UNTRZPCZ6A dan UNTRZPCM7A, yang mengacu pada saham PT United Tractors Tbk (UNTR). Penyesuaian ini dilakukan menyusul pengumuman UNTR pada 28 Oktober 2026 mengenai pembagian dividen interim tahun buku 2026 sebesar Rp430 per saham.",
+   "Sesuai Bagian 3.8 Prospektus bertanggal 11 April 2025 serta Term Sheet kedua waran tersebut, harga pelaksanaan dan rasio konversi akan dihitung ulang dengan rumus baku: harga pelaksanaan baru sama dengan harga pelaksanaan lama dikali selisih harga saham UNTR pada cum-date dengan nilai dividen Rp430, dibagi harga saham UNTR pada cum-date itu sendiri. Rumus serupa berlaku untuk rasio konversi baru, menggunakan rasio konversi lama sebagai acuan.",
+   "Penyesuaian ini berlaku efektif pada tanggal ex dividen, yaitu 6 November 2026 untuk Pasar Reguler dan Pasar Negosiasi, serta 10 November 2026 untuk Pasar Tunai. Maybank Sekuritas selaku penerbit waran juga mencantumkan klausul bahwa penyesuaian bisa saja tidak dilakukan apabila, berdasarkan kebijaksanaan penerbit sendiri, hal itu dianggap tidak tepat, tanpa ada kewajiban apa pun kepada pemegang waran terstruktur."
+  ],
+  "fotoAdegan": "Large mining dump trucks and heavy equipment parked in a dusty open yard at a construction site, midday light",
+  "takeaway": "Laporan ini netral, baik bagi UNTR maupun Maybank Sekuritas selaku penerbit waran, karena penyesuaian harga pelaksanaan dan rasio konversi murni konsekuensi rumus baku yang sudah disepakati sejak waran ini diterbitkan, bukan keputusan bisnis baru. Yang tersentuh di sini bukan kinerja keuangan UNTR, melainkan nilai ekonomis waran terstruktur itu sendiri: begitu UNTR membagi dividen, harga sahamnya otomatis turun sebesar dividen itu pada hari cum-date lewat, sehingga harga pelaksanaan dan rasio konversi waran perlu disesuaikan agar nilai waran bagi pemegangnya tidak ikut tergerus oleh penurunan harga yang sebenarnya cuma efek pembagian dividen, bukan pelemahan bisnis. Yang perlu dipantau pemegang waran adalah dua tanggal efektif, 6 November 2026 untuk Pasar Reguler dan Negosiasi serta 10 November 2026 untuk Pasar Tunai, dan perlu diingat bahwa Maybank Sekuritas tetap punya hak untuk tidak melakukan penyesuaian ini kalau menurut kebijaksanaannya sendiri dianggap tidak perlu.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mtdl-laba-per-saham-turun-meski-pendapatan-naik-17-5",
   "category": "Aksi Korporasi",
   "title": "MTDL: Laba Per Saham Turun Meski Pendapatan Naik [17,5%]",
@@ -1603,6 +1811,32 @@ var ARTICLES = [
   "fotoAdegan": "Wide aerial view of an industrial estate road lined with factory warehouses and construction cranes, late afternoon light.",
   "takeaway": "Laporan ini condong positif bagi pemegang saham DMAS, karena perseroan tetap merealisasikan pembagian dividen interim tunai Rp29 per saham senilai Rp1,4 triliun, setara hampir seluruh laba bersih sembilan bulan perseroan yang tercatat Rp1,49 triliun, sinyal bahwa kas perusahaan cukup kuat untuk membayar tunai ke pemegang saham. Pembagian sebesar ini akan memangkas ekuitas, yaitu kekayaan bersih perseroan setelah dikurangi utang, sekitar 19 persen dari Rp7,31 triliun, dan menggerus saldo laba ditahan yang bebas dipakai dari Rp2,08 triliun menjadi tinggal sekitar Rp687 miliar, sehingga bantalan keuangan perseroan untuk ekspansi atau menyerap risiko ikut menyempit. Investor yang ingin memastikan haknya atas dividen ini perlu memegang saham sebelum tanggal cum dividen 28 Oktober 2026 di pasar reguler, karena daftar pemegang saham yang berhak (recording date) ditutup 30 Oktober 2026 pukul 16.00 WIB. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada 16 November 2026 serta tenggat penyampaian dokumen pajak pada 30 Oktober 2026 yang menentukan besar potongan pajak bagi investor asing.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "gmfi-gelar-rupslb-bahas-rights-issue-22-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Gelar RUPSLB, Bahas [Rights Issue] 22 Miliar Saham Baru",
+  "deck": "GMFI mengundang pemegang saham ke RUPSLB 19 November 2026 untuk menyetujui rencana penerbitan hingga 22,03 miliar saham baru lewat mekanisme hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T15:33:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f1efa9b6d_09bb6d5480.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GMFI",
+  "tags": [
+   "GMFI",
+   "RUPSLB",
+   "rights issue",
+   "PMHMETD"
+  ],
+  "body": [
+   "PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) mengundang seluruh pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 19 November 2026, pukul 14.00 hingga 16.00 WIB di Ruang Auditorium Gedung Manajemen Garuda, Area Perkantoran Bandar Udara Soekarno-Hatta, Tangerang. Rapat juga digelar secara elektronik lewat platform eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 27 Oktober 2026 pukul 16.00 WIB, atau pemilik saham di sub rekening efek KSEI pada penutupan perdagangan di hari yang sama.",
+   "Satu-satunya agenda RUPSLB ini adalah persetujuan rencana penambahan modal dengan memberikan hak memesan efek terlebih dahulu (PMHMETD), yang lebih dikenal sebagai rights issue. Perseroan berencana menerbitkan saham baru Seri B sebanyak-banyaknya 22.029.751.488 lembar atau sekitar 22,03 miliar saham, dengan nilai nominal Rp19 per saham, yang diambil dari portepel perseroan. Saham baru ini disebutkan memiliki hak yang sama dan sederajat dengan seluruh saham lama yang sudah ditempatkan dan disetor penuh. Dalam dokumen bahan mata acara, GMFI menyebut dua alasan aksi ini: memenuhi syarat jumlah saham beredar publik atau free float sesuai Peraturan Bursa Efek Indonesia Nomor I-A poin V.1.1, serta memperkuat struktur permodalan untuk mendukung pengembangan usaha dan kebutuhan operasional perseroan secara berkelanjutan.",
+   "Bagi pemegang saham yang ingin memberi kuasa, pemberian atau pencabutan kuasa secara elektronik melalui e-Proxy di eASY.KSEI dapat dilakukan sejak tanggal pemanggilan ini hingga paling lambat Rabu, 18 November 2026 pukul 12.00 WIB. Sementara bagi pemegang saham dengan saham dalam bentuk warkat yang ingin menghadiri secara fisik lewat kuasa, surat kuasa asli wajib dikirim ke Biro Administrasi Efek, PT Datindo Entrycom di Jalan Hayam Wuruk Nomor 28, Jakarta, paling lambat Senin, 16 November 2026 pukul 16.15 WIB. Sesuai Anggaran Dasar perseroan, rapat baru bisa mengambil keputusan yang sah jika dihadiri oleh pemegang saham atau kuasanya yang mewakili lebih dari separuh total saham dengan hak suara."
+  ],
+  "fotoAdegan": "Aircraft maintenance technicians in coveralls working beneath a wide-body jet inside a large hangar, daylight streaming through open hangar doors",
+  "takeaway": "Rencana ini bersifat netral bagi fundamental GMF untuk saat ini, karena RUPSLB baru meminta persetujuan rencana rights issue, belum menetapkan harga pelaksanaan atau jumlah pasti saham yang akan benar-benar diterbitkan dari batas maksimal 22,03 miliar lembar itu. Yang pasti tersentuh adalah jumlah saham beredar perseroan, yang jika seluruh batas atas ini diterbitkan akan bertambah besar sehingga laba per saham, yaitu laba perusahaan dibagi jumlah saham beredar, bisa terdilusi bagi pemegang saham yang tidak ikut menyerap haknya. Di sisi lain ekuitas perseroan, yaitu modal bersih milik pemegang saham, juga akan membesar karena dana segar masuk dari penjualan saham baru tersebut. Salah satu pemicu aksi ini adalah pemenuhan syarat saham beredar publik sesuai aturan Bursa, bukan murni untuk mendanai ekspansi, sehingga sifatnya lebih ke kewajiban kepatuhan ketimbang sinyal pertumbuhan baru. Yang perlu dipantau berikutnya adalah hasil keputusan RUPSLB pada 19 November 2026 serta pengumuman harga pelaksanaan dan rasio rights issue, yang akan menentukan seberapa besar dilusi sesungguhnya bagi pemegang saham lama.",
+  "sentimen": "netral"
  },
  {
   "slug": "enrg-catat-laba-bersih-naik-30-persen-ke-us-72-8-juta-per-9m26",
@@ -1732,6 +1966,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers in hard hats inspecting coal stockpiles at an open mining yard under an overcast sky, heavy loader moving material nearby",
   "takeaway": "Laporan ini saya nilai netral bagi CNKO: laba memang naik, tetapi kenaikannya ditopang pendapatan di luar usaha, sementara bisnis inti justru melemah. Pos yang tersentuh adalah ekuitas, yaitu selisih aset dikurangi utang perusahaan, yang di CNKO masih negatif Rp898,99 miliar, artinya seluruh aset perseroan belum cukup menutup utangnya, meski defisit ini mengecil dari Rp1,06 triliun pada akhir 2025. Laba operasional, yakni untung dari jual beli batu bara sebelum pos bunga dan pendapatan lain-lain, justru turun hampir 39 persen menjadi Rp148,06 miliar, sehingga pelaku pasar biasanya mencermati kualitas laba semacam ini karena pos non-operasional cenderung tidak berulang setiap kuartal. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit yang akan menunjukkan apakah penyusutan defisit ekuitas ini berlanjut, serta status saham CNKO yang masih tercatat di papan pemantauan khusus Bursa Efek Indonesia.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gdyr-panggil-rupslb-ubah-susunan-komisaris-19-november",
+  "category": "Aksi Korporasi",
+  "title": "GDYR Panggil RUPSLB, Ubah Susunan [Komisaris] 19 November",
+  "deck": "Goodyear Indonesia menggelar RUPSLB pada 19 November 2026 untuk menyetujui perubahan susunan Dewan Komisaris dan penyesuaian anggaran dasar sesuai klasifikasi usaha baru BPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T14:37:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1d2ac81fcc_8958c12336.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GDYR",
+  "tags": [
+   "GDYR",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Goodyear Indonesia"
+  ],
+  "body": [
+   "PT Goodyear Indonesia Tbk (GDYR) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 19 November 2026, pukul 10.00 WIB di Ruang Edelweis, Hotel Grand Savero, Jalan Padjajaran No 27, Bogor. Rapat ini membawa dua agenda, yakni persetujuan perubahan susunan Dewan Komisaris Perseroan, dan persetujuan perubahan Pasal 3 Anggaran Dasar Perseroan agar sesuai dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) versi 2025.",
+   "Yang berhak hadir atau memberi suara adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 27 Oktober 2026 pukul 16.00 WIB. Rapat digelar secara elektronik lewat sistem eASY.KSEI dengan opsi kehadiran fisik di lokasi. Pemegang saham warkat yang sahamnya belum masuk penitipan kolektif KSEI harus memberi kuasa konvensional ke pihak independen yang ditunjuk Perseroan, dengan surat kuasa asli wajib diterima Biro Administrasi Efek, PT Bima Registra, paling lambat Rabu, 18 November 2026 pukul 16.00 WIB. Pemegang saham tanpa warkat bisa memberi kuasa elektronik (e-Proxy) lewat eASY.KSEI dengan tenggat yang sama.",
+   "Dua agenda ini punya syarat sah yang berbeda. Agenda pertama soal perubahan Dewan Komisaris sah jika dihadiri pemegang saham yang mewakili lebih dari separuh total saham berhak suara, dan diputuskan dengan suara setuju lebih dari separuh suara yang sah. Agenda kedua soal perubahan anggaran dasar butuh syarat lebih berat, yakni kehadiran sedikitnya dua pertiga total saham berhak suara, dan disetujui jika suara setuju mencapai lebih dari dua pertiga suara yang sah dalam rapat."
+  ],
+  "fotoAdegan": "Workers inspecting stacks of finished rubber tires inside an industrial tire manufacturing plant, overhead lighting, Indonesia",
+  "takeaway": "Pemanggilan ini tergolong netral bagi investor karena isinya baru mengumumkan agenda rapat, belum merinci nama komisaris yang akan diganti atau alasan di baliknya, sehingga belum bisa dibaca sebagai sinyal positif maupun negatif bagi kinerja perusahaan. Yang tersentuh di sini adalah tata kelola perusahaan, yaitu siapa yang mengawasi kerja Direksi lewat Dewan Komisaris, karena pergantian anggotanya bisa mengubah arah pengawasan meski belum tentu berdampak langsung ke laba atau arus kas. Agenda kedua soal penyesuaian klasifikasi usaha di anggaran dasar sifatnya administratif, mengikuti aturan baru Badan Pusat Statistik, dan tidak mengubah kegiatan usaha Goodyear Indonesia yang sesungguhnya. Yang perlu dipantau adalah hasil RUPSLB pada 19 November 2026, terutama nama-nama baru di Dewan Komisaris yang akhirnya disetujui, serta apakah kuorum dua pertiga suara untuk perubahan anggaran dasar bisa tercapai karena syaratnya lebih berat dari agenda pertama.",
   "sentimen": "netral"
  },
  {

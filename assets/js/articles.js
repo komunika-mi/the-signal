@@ -108,7 +108,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari rilis ini ada dua angka, konsumsi rumah tangga tumbuh di atas 5 persen pada kuartal II 2026, dan 17 provinsi mencatat pertumbuhan ekonomi di atas rata-rata nasional pada semester I 2026, sekaligus konfirmasi bahwa pola belanja masyarakat terus bergeser dari toko fisik dan mal ke platform online. Yang terdampak jelas dua sisi, pedagang dan pengelola mal konvensional yang kehilangan pengunjung belanja barang, berbanding sektor jasa seperti restoran, wisata, dan logistik e-commerce yang justru kebanjiran order. Rilis ini tidak menyebut nama ke-17 provinsi tersebut, juga tidak memberi tenggat untuk aturan pasar modal baru atau pembaruan data bantuan sosial yang disinggung, sehingga belum bisa dipastikan apakah pemerataan pertumbuhan daerah ini akan berlanjut atau cuma sementara. Penanda paling dekat untuk mengetahuinya adalah rilis pertumbuhan ekonomi kuartal III 2026 oleh BPS yang biasanya terbit awal November, yang akan menunjukkan apakah tren konsumsi dan pergeseran ke belanja online ini masih berlanjut.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "dagang-ri-as-tembus-us-32-34-miliar-investasi-as-naik",
@@ -136,7 +137,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret ada di angka: nilai dagang RI-AS Januari-Agustus 2026 naik 11,82 persen jadi US$32,34 miliar, sementara investasi AS di sembilan bulan pertama 2026 sudah US$3,4 miliar, melampaui catatan sepanjang tahun 2025 yang sekitar US$3 miliar. Yang langsung terdampak adalah perusahaan AS yang sudah beroperasi di Indonesia, dari manufaktur, teknologi digital, kesehatan, hingga kedirgantaraan, plus industri domestik yang jadi mitra rantai pasok mereka. Pemerintah juga menyebut potensi kesepakatan dagang US$33 miliar yang masih terkait pembahasan Section 301, aturan AS yang bisa mengenakan sanksi dagang atas praktik yang dianggap merugikan, dan excess capacity, kelebihan kapasitas produksi yang dianggap mengganggu pasar, tapi angka ini baru proyeksi, belum kesepakatan final. Arahnya terbelah dua: kesepakatan itu terealisasi dan membawa investasi baru, atau pembahasan Section 301 berlarut sehingga angka US$33 miliar tetap sebatas proyeksi, dan itu baru akan terlihat dari hasil pembahasan resmi kedua pemerintah dalam beberapa bulan mendatang.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "bi-dan-apuvindo-susun-empat-prioritas-pasar-uang-valas-2027",
@@ -164,7 +166,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pertemuan ini bukan aturan baru, melainkan daftar prioritas kerja BI dan APUVINDO untuk 2027: memperkuat surat utang jangka pendek korporasi dan kontrak swap suku bunga di pasar uang, membuka lebih banyak akses lindung nilai bagi investor asing lewat platform VASTRA, serta membangun bank kliring Renminbi agar transaksi rupiah-yuan dengan Tiongkok bisa langsung tanpa lewat dolar AS. Yang terkena dampak adalah 121 anggota APUVINDO, yakni 105 bank dan 16 lembaga nonbank serta penyelenggara infrastruktur pasar, juga investor asing yang ingin memegang aset rupiah dan perusahaan yang bertransaksi dengan Tiongkok. Arahnya terlihat menuju pembukaan pasar uang dan valas domestik ke pemain asing, sekaligus mempererat jalur transaksi langsung dengan yuan Tiongkok, bukan sekadar memperkuat aturan di dalam negeri saja. Yang belum jelas adalah kapan bank kliring Renminbi ini benar-benar beroperasi dan seberapa besar transaksi lewat VASTRA akan bertambah, karena siaran ini hanya menyebut arah kerja 2027 tanpa tenggat pasti.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "lapd-terbitkan-2-miliar-saham-baru-dibayar-saham-tambang-inbreng",

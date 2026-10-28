@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-28T02:35:42.736+07:00",
+ "diperbarui": "2026-10-29T03:00:05.003+07:00",
  "entri": [
+  {
+   "id": "2026-10-28-3",
+   "edisi": "2026-10-28",
+   "benang": "Emiten Kecil Beres-beres Tata Kelola yang Molor",
+   "klaim": "Skenario bursa berhasil mendorong emiten bermasalah membenahi administrasi lebih mungkin benar dibanding skenario backlog yang terus menumpuk, karena masing-masing emiten sudah memegang tenggat konkret.",
+   "penanda": "RUPST CBMF terlaksana pada 4 Desember 2026 dan audit laporan keuangan POOL yang ditargetkan rampung Desember 2026",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "RUPST CBMF terlaksana pada 4 Desember 2026 dan audit POOL yang ditargetkan rampung Desember 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-28-2",
+   "edisi": "2026-10-28",
+   "benang": "Kendali Migas Pindah dari Pertamina ke Lembaga Baru",
+   "klaim": "Pemerintah bergerak menata ulang kelembagaan migas menjadi lebih terpusat dan terspesialisasi, bukan lagi bertumpu pada satu entitas seperti Pertamina.",
+   "penanda": "Proses konsolidasi Lemigas-Pertamina serta pengesahan RUU Migas di DPR",
+   "tenggat": null,
+   "tenggatLabel": "seberapa cepat proses konsolidasi Lemigas-Pertamina serta kapan RUU Migas disahkan di DPR",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-28-1",
+   "edisi": "2026-10-28",
+   "benang": "Laba Naik, Kas dan Utang Jangka Pendek Ikut Naik",
+   "klaim": "Pertumbuhan laba kuartal ini di banyak emiten ditopang pembiayaan jangka pendek dan penumpukan piutang atau persediaan, bukan uang tunai yang benar-benar masuk dari bisnis inti.",
+   "penanda": "Laporan arus kas operasi kuartal IV 2026, untuk melihat apakah piutang dan persediaan mulai mengecil atau terus menumpuk",
+   "tenggat": "2027-02-28",
+   "tenggatLabel": "laporan arus kas operasi kuartal IV 2026 awal tahun depan",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-27-3",
    "edisi": "2026-10-27",

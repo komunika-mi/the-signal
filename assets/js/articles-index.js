@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "koci-laba-9m-turun-41-uang-muka-penjualan-naik-162",
+  "category": "Aksi Korporasi",
+  "title": "KOCI: Laba 9M Turun 41%, [Uang Muka] Penjualan Naik 162%",
+  "deck": "Laporan keuangan interim kuartal III 2026 KOCI mencatat laba bersih turun 41 persen secara tahunan, sementara uang muka penjualan rumah melonjak 162 persen dari akhir 2025.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOCI",
+   "laporan keuangan",
+   "properti",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028112018-64929-0/FinancialStatement-2026-III-KOCI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cakk-pangkas-rugi-89-persen-di-kuartal-iii-tapi-utang-naik-tajam",
+  "category": "Aksi Korporasi",
+  "title": "CAKK Pangkas [Rugi] 89 Persen di Kuartal III, tapi Utang Naik Tajam",
+  "deck": "Pendapatan CAKK naik dua kali lipat jadi Rp505,4 miliar dalam sembilan bulan 2026, rugi menyusut jadi Rp3,4 miliar, tapi utang bank dan piutang usaha melonjak.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CAKK",
+   "laporan keuangan",
+   "keramik",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028112201-65111-0/FinancialStatement-2026-III-CAKK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "menn-jadwalkan-public-expose-tahunan-pada-10-november",
+  "category": "Aksi Korporasi",
+  "title": "MENN Jadwalkan [Public Expose] Tahunan pada 10 November",
+  "deck": "Menn Teknologi Indonesia mengoreksi jadwal public expose tahunan dan akan menggelarnya secara online pada 10 November 2026 pukul 15.00 WIB.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MENN",
+   "public expose",
+   "paparan publik tahunan",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6c1e3d477d_a3d2e8e3f1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "truk-masih-rugi-rp3-59-miliar-ekuitas-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "TRUK Masih [Rugi] Rp3,59 Miliar, Ekuitas Menyusut",
+  "deck": "Laporan keuangan interim kuartal III 2026 PT Guna Timur Raya Tbk menunjukkan rugi bersih menyusut 21 persen, tapi ekuitas terus tergerus akumulasi kerugian.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "laporan keuangan",
+   "logistik",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028104438-64864-0/FinancialStatement-2026-III-TRUK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aslc-laba-turun-longsor-75-di-kuartal-iii-pendapatan-naik-35",
+  "category": "Aksi Korporasi",
+  "title": "ASLC: Laba Turun [Longsor] 75% di Kuartal III, Pendapatan Naik 35%",
+  "deck": "Pendapatan ASLC naik 35 persen jadi Rp964,84 miliar pada sembilan bulan pertama 2026, tetapi laba bersih turun 75 persen menjadi Rp8,50 miliar akibat kenaikan beban pokok dan operasional.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASLC",
+   "laporan keuangan",
+   "laba bersih",
+   "otomotif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028101141-64604-0/FinancialStatement-2026-III-ASLC.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtel-mulai-periode-pelaksanaan-mesop-tahap-iii-rp582-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "MTEL Mulai Periode Pelaksanaan [MESOP] Tahap III, Rp582 per Saham",
+  "deck": "Mitratel membuka periode pelaksanaan opsi saham karyawan Tahap III pada 1-22 November 2026 dengan harga Rp582 per saham, maksimal 26,67 juta saham.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTEL",
+   "MESOP",
+   "Mitratel",
+   "opsi saham karyawan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a369e38bc8_de19506ca3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "doid-jelaskan-selisih-pendapatan-konsolidasi-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "DOID Jelaskan [Selisih] Pendapatan Konsolidasi ke Bursa",
+  "deck": "BUMA Internasional Grup menjawab permintaan Bursa soal selisih pendapatan ACG, BMM, dan total konsolidasian semester I 2026, menegaskan tidak ada tumpang tindih pencatatan.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOID",
+   "BUMA Internasional",
+   "Bursa Efek Indonesia",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e8397967a6_cb48eef97f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptmp-balik-untung-laba-rp13-2-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "PTMP Balik Untung, Laba [Rp13,2 Miliar] di Sembilan Bulan 2026",
+  "deck": "Mitra Pack mencatat laba bersih Rp13,2 miliar untuk sembilan bulan 2026, berbalik dari rugi Rp41,9 miliar setahun sebelumnya, didorong efisiensi beban administrasi.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTMP",
+   "Mitra Pack",
+   "laporan keuangan",
+   "laba kuartal III"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028094822-64579-0/FinancialStatement-2026-III-PTMP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "soci-laba-naik-ke-us-32-3-juta-aset-tumbuh-20-6",
+  "category": "Aksi Korporasi",
+  "title": "SOCI: Laba Naik ke [US$32,3 Juta], Aset Tumbuh 20,6%",
+  "deck": "Soechi Lines mencatat laba bersih sembilan bulan 2026 naik ke US$32,3 juta dari US$12,1 juta tahun lalu, ditopang penambahan kapal tanker yang juga menaikkan utang bank 47 persen.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOCI",
+   "Soechi Lines",
+   "laporan keuangan",
+   "pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028094308-64919-0/FinancialStatement-2026-III-SOCI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ikbi-laba-turun-59-utang-bank-jangka-pendek-melonjak-52",
+  "category": "Aksi Korporasi",
+  "title": "IKBI: Laba Turun 59%, [Utang] Bank Jangka Pendek Melonjak 52%",
+  "deck": "Laba bersih Sumi Indo Kabel turun 59 persen pada semester I tahun fiskal 2027 meski penjualan naik 36 persen, sementara utang bank jangka pendek baru membengkakkan total liabilitas 55 persen.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IKBI",
+   "laporan keuangan",
+   "industri kabel",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028091141-64534-0/FinancialStatement-2026-II-IKBI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-bersih-pbid-melonjak-131-ke-rp695-8-miliar-per-september",
+  "category": "Aksi Korporasi",
+  "title": "Laba Bersih PBID [Melonjak] 131% ke Rp695,8 Miliar per September",
+  "deck": "PBID mencatat laba bersih Rp695,78 miliar pada sembilan bulan 2026, naik 131,7 persen dari Rp300,28 miliar tahun lalu, didorong penjualan naik 27,4 persen dan margin yang menebal.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PBID",
+   "laporan keuangan",
+   "kemasan plastik",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028091848-64920-0/FinancialStatement-2026-III-PBID.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "untr-koreksi-jadwal-dividen-interim-rp430-per-saham",
   "category": "Aksi Korporasi",
   "title": "UNTR Koreksi Jadwal Dividen Interim, [Rp430] per Saham",
@@ -6277,184 +6453,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474164-harga-emas-antam-hari-ini-21-oktober-2026-turun-lagi-jadi-rp2554000-per-gram-perhatikan-tren-jangka-panjang-bagi-yang-mau-beli"
- },
- {
-  "slug": "mtdl-psi-hapus-6-saham-treasuri-kepemilikan-berubah",
-  "category": "Aksi Korporasi",
-  "title": "MTDL: PSI Hapus 6% Saham [Treasuri], Kepemilikan Berubah",
-  "deck": "Entitas asosiasi Metrodata, PT Packet Systems Indonesia, membatalkan 79.560 saham treasuri dari buyback Juni 2026, mengubah porsi kepemilikan MTDL dan Logicalis Singapore.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTDL",
-   "Packet Systems Indonesia",
-   "entitas asosiasi",
-   "saham treasuri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f012ef1bb9_44debb0b84.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "idea-jadwalkan-ulang-rupslb-ke-12-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "IDEA Jadwalkan Ulang [RUPSLB] ke 12 November 2026",
-  "deck": "PT Idea Indonesia Akademi Tbk mengoreksi jadwal RUPSLB yang semula 23 Oktober menjadi 12 November 2026, membahas pergantian direksi-komisaris dan revisi anggaran dasar.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IDEA",
-   "RUPSLB",
-   "Pergantian Direksi",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d5a7adfde7_00b55c0a4d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pool-pinjam-rp5-miliar-dari-pemegang-saham-gadai-saham-pola",
-  "category": "Aksi Korporasi",
-  "title": "POOL Pinjam Rp5 Miliar dari Pemegang Saham, [Gadai] Saham POLA",
-  "deck": "Pool Advista menerima pinjaman Rp5 miliar dari pemegang sahamnya, PT Prodana Indo Investa, dengan jaminan gadai saham anak usaha POLA, untuk membayar biaya kepatuhan dan tunggakan gaji karyawan.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POOL",
-   "POLA",
-   "Transaksi Afiliasi",
-   "Pinjaman"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6daaf61d54_eb537e42f2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hatm-laba-bersih-semester-i-2026-turun-53-pendapatan-stagnan",
-  "category": "Aksi Korporasi",
-  "title": "HATM: Laba Bersih Semester I 2026 Turun [53%], Pendapatan Stagnan",
-  "deck": "Laba bersih Habco Trans Maritima (HATM) turun 53,6 persen menjadi Rp50,92 miliar pada semester I 2026 akibat beban pokok pendapatan yang melonjak, meski pendapatan nyaris stagnan di Rp519,96 miliar.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HATM",
-   "laporan keuangan",
-   "laba bersih",
-   "emiten pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/60d91c027a_75ba2eb948.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "petani-sawit-swadaya-kaltim-ikuti-pelatihan-standar-industri",
-  "category": "Industri",
-  "title": "Petani Sawit Swadaya Kaltim Ikuti Pelatihan [Standar] Industri",
-  "deck": "TAP melatih 42 petani swadaya sawit di Kaltim lewat program PERKASA, mencakup pembibitan hingga manajemen panen, dengan partisipasi perempuan 40 persen pada batch terbaru.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/petani-sawit-swadaya-kaltim-ikuti-pelatihan-standar-industri.jpg",
-  "imageV": "mvh2n439",
-  "tags": [
-   "sawit",
-   "petani swadaya",
-   "Kaltim",
-   "TAP"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474125-tingkatkan-produktivitas-petani-swadaya-kaltim-dilatih-praktik-budidaya-sawit-berstandar-industri"
- },
- {
-  "slug": "cmnp-jawab-bei-tak-ada-info-tersembunyi-rights-issue-dikaji",
-  "category": "Aksi Korporasi",
-  "title": "CMNP Jawab BEI: Tak Ada Info Tersembunyi, [Rights Issue] Dikaji",
-  "deck": "Menanggapi permintaan BEI soal volatilitas transaksi sahamnya, CMNP menegaskan tidak ada informasi material yang disembunyikan dan rencana rights issue PUT III HMETD masih dalam tahap kajian.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CMNP",
-   "volatilitas saham",
-   "rights issue",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/88a2d6c758_441c2dbf01.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kepala-bnppdt-dorong-program-ekonomi-konkret-perbatasan",
-  "category": "Makroekonomi",
-  "title": "Kepala BNPPDT Dorong Program Ekonomi [Konkret] Perbatasan",
-  "deck": "Kepala BNPPDT Jenderal TNI Maruli Simanjuntak meminta jajarannya menguji coba program ekonomi yang murah dan cepat dijalankan di wilayah perbatasan.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/kepala-bnppdt-dorong-program-ekonomi-konkret-perbatasan.jpg",
-  "imageV": "mvh2n4hq",
-  "tags": [
-   "BNPPDT",
-   "perbatasan",
-   "ekonomi daerah",
-   "TNI"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474122-kepala-bnppdt-jenderal-tni-maruli-dorong-prioritas-program-ekonomi-konkret-di-wilayah-perbatasan"
- },
- {
-  "slug": "bpdp-dukung-hilirisasi-kelapa-di-wcd-2026-manado",
-  "category": "Industri",
-  "title": "BPDP Dukung Hilirisasi [Kelapa] di WCD 2026 Manado",
-  "deck": "Sulawesi Utara menjadi tuan rumah World Coconut Day 2026, didukung BPDP, seiring kelapa masuk daftar komoditas prioritas hilirisasi pemerintah.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/bpdp-dukung-hilirisasi-kelapa-di-wcd-2026-manado.jpg",
-  "imageV": "mvgxwtqq",
-  "tags": [
-   "kelapa",
-   "hilirisasi",
-   "BPDP",
-   "Sulawesi Utara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474110-bpdp-perkuat-sinergi-dalam-wcd-2026-untuk-peningkatan-produktivitas-kelapa-indonesia"
- },
- {
-  "slug": "adro-trinugraha-thohir-tambah-saham-470-000-lembar",
-  "category": "Aksi Korporasi",
-  "title": "ADRO: Trinugraha Thohir [Tambah] Saham 470.000 Lembar",
-  "deck": "Trinugraha Thohir menambah kepemilikan sahamnya di Alamtri Resources Indonesia (ADRO) sebanyak 470.000 lembar pada 19 Oktober 2026, menaikkan hak suaranya dari 0,727% menjadi 0,729%.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADRO",
-   "Alamtri Resources Indonesia",
-   "kepemilikan saham",
-   "Trinugraha Thohir"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-9170-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akku-rugi-melebar-di-tengah-penjelasan-lonjakan-saham",
-  "category": "Aksi Korporasi",
-  "title": "AKKU Rugi [Melebar] di Tengah Penjelasan Lonjakan Saham",
-  "deck": "AKKU gelar public expose insidentil usai suspensi BEI, ungkap rugi bersih melebar jadi Rp2,55 miliar di semester I 2026 meski pendapatan naik tipis.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKKU",
-   "suspensi saham",
-   "public expose",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a8492def8e_d5956c0d2c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-trinugraha-thohir-tambah-saham-102-600-lembar",
-  "category": "Aksi Korporasi",
-  "title": "AADI: Trinugraha Thohir [tambah] saham 102.600 lembar",
-  "deck": "Pemegang saham AADI, Trinugraha Thohir, membeli 102.600 saham baru pada 19 Oktober 2026, menaikkan hak suaranya tipis ke 1,1562 persen.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AADI",
-   "kepemilikan saham",
-   "Trinugraha Thohir",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-4182-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mentan-amran-desak-polisi-bongkar-mafia-beras-sphp",
+  "category": "Bisnis",
+  "title": "Mentan Amran Desak Polisi Bongkar [Mafia] Beras SPHP",
+  "deck": "Mentan Amran Sulaiman minta polisi bongkar tuntas jaringan mafia beras subsidi SPHP setelah temuan dugaan 600 ton beras dioplos jadi premium di Jakarta Timur.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/mentan-amran-desak-polisi-bongkar-mafia-beras-sphp.jpg",
+  "imageV": "mvsn6s1n",
+  "tags": [
+   "beras",
+   "mafia pangan",
+   "amran sulaiman",
+   "jakarta"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475534-skandal-beras-sphp-di-jakarta-timur-mentan-amran-memohon-polisi-sikat-habis-jaringan-mafia"
+ },
+ {
   "slug": "mentan-amran-oplos-beras-subsidi-itu-amoral",
   "category": "Bisnis",
   "title": "Mentan Amran: Oplos Beras Subsidi Itu [Amoral]",
@@ -6437,22 +6454,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/96907ecc03_8dbdd59669.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-tak-konfirmasi-transaksi-rp2-588-jb-pegang-30-25",
-  "category": "Aksi Korporasi",
-  "title": "BYAN Tak Konfirmasi Transaksi Rp2.588, JB Pegang [30,25%]",
-  "deck": "Bursa mempertanyakan penjualan saham keluarga pendiri BYAN seharga Rp2.588, jauh di bawah harga beli Rp11.200 empat hari sebelumnya, sementara Jhonlin Baratama kini pegang 30,25% saham.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "Bayan Resources",
-   "kepemilikan saham",
-   "Jhonlin Baratama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3092af4eed_dbe0665bfd.pdf",
   "sourceLabel": "IDX"
  }
 ];

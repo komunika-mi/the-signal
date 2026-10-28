@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mentan-amran-desak-polisi-bongkar-mafia-beras-sphp",
+  "category": "Bisnis",
+  "title": "Mentan Amran Desak Polisi Bongkar [Mafia] Beras SPHP",
+  "deck": "Mentan Amran Sulaiman minta polisi bongkar tuntas jaringan mafia beras subsidi SPHP setelah temuan dugaan 600 ton beras dioplos jadi premium di Jakarta Timur.",
+  "image": "assets/img/mentan-amran-desak-polisi-bongkar-mafia-beras-sphp.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T04:22:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475534-skandal-beras-sphp-di-jakarta-timur-mentan-amran-memohon-polisi-sikat-habis-jaringan-mafia",
+  "tags": [
+   "beras",
+   "mafia pangan",
+   "amran sulaiman",
+   "jakarta"
+  ],
+  "body": [
+   "Menteri Pertanian Andi Amran Sulaiman meminta kepolisian membongkar tuntas jaringan mafia beras program Stabilisasi Pasokan dan Harga Pangan (SPHP), setelah ditemukan praktik pengoplosan beras subsidi menjadi beras premium dalam skala besar di Jakarta Timur. Permintaan ini penting karena menyangkut beras murah yang seharusnya sampai ke masyarakat kecil, tetapi diduga dialihkan demi keuntungan pihak tertentu.",
+   "Amran menyampaikan hal itu saat sidak ke Toko Beras Kayumanis, Matraman, Rabu (28/10), dan menemukan dugaan penyalahgunaan 600 ton beras bersubsidi yang diubah menjadi beras premium. Ia meminta polisi tidak berhenti pada pelaku yang sudah ditangkap, melainkan menelusuri seluruh rantai mulai dari titik asal beras, proses pengemasan ulang, sampai pihak yang paling banyak mengambil keuntungan. Amran juga mengancam akan memecat dan memproses hukum pegawainya sendiri jika ada keterlibatan internal, serta menyerahkan ke polisi untuk mendalami temuan awal yang mengarah ke gudang Bulog di Kelapa Gading sebagai salah satu sumber pasokan.",
+   "Sidak berlanjut ke Pasar Induk Beras Cipinang, tempat Amran menduga ada praktik serupa dengan skala yang jauh lebih besar. Ia memperkirakan, jika pola ini terus berlangsung setiap hari, volume beras subsidi yang diselewengkan bisa mencapai ribuan ton."
+  ],
+  "fotoAdegan": "Workers stacking large sacks of rice inside a busy traditional market warehouse, forklift nearby, dusty morning light through open doors",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/29/6ae23b53965d4-menteri-pertanian-andi-amran-sulaiman-memberikan-instruksi-keras-kepada-jajaran-kepolisian-untuk-membongkar-jaringan-mafia-beras-sphp-hingga-tuntas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan sekadar satu toko kedapatan curang, tapi arah penyelidikan yang melebar dari Toko Beras Kayumanis ke pasar yang jauh lebih besar di Cipinang, dengan dugaan 600 ton beras subsidi program SPHP, yaitu program pemerintah untuk menjaga harga beras tetap terjangkau, yang dioplos jadi beras premium lalu dijual lebih mahal. Yang kena dampak langsung adalah pembeli beras bersubsidi, karena jatah murah yang seharusnya sampai ke mereka malah dialihkan untuk mencari untung lebih besar, sementara Bulog ikut tersorot karena gudangnya di Kelapa Gading diduga jadi salah satu sumber pasokan beras yang dioplos. Amran sendiri menyiratkan penyelidikan ini tidak akan berhenti di pengecer lapangan, dengan membuka opsi memeriksa internal kementeriannya sendiri dan menyebut potensi penyimpangan bisa mencapai ribuan ton per hari kalau pola di Cipinang terus berulang. Yang akan menentukan apakah ini cuma kasus satu gudang atau masalah yang lebih sistemik adalah hasil pendalaman polisi terhadap gudang Bulog Kelapa Gading dan apakah ada pegawai Kementan atau Bulog yang benar-benar diproses.",
+  "imageV": "mvsn6s1n"
+ },
+ {
   "slug": "mentan-amran-oplos-beras-subsidi-itu-amoral",
   "category": "Bisnis",
   "title": "Mentan Amran: Oplos Beras Subsidi Itu [Amoral]",

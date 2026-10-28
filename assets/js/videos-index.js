@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "Qmle2aEAdAg",
+  "title": "Mentan Soroti Dugaan Mafia Beras di Pasar Cipinang",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Pertanian Andi Amran Sulaiman melakukan sidak ke Pasar Induk Cipinang menyusul dugaan mafia beras SPHP dan meminta aparat mengusut jaringan dari pemasok hingga penjual.",
+  "takeaway": "Dugaan permainan harga dan distribusi beras bersubsidi berdampak langsung pada stabilitas harga pangan yang menjadi perhatian pembaca ekonomi."
+ },
+ {
+  "id": "o0uEC60fpGw",
+  "title": "Mentan Sidak Toko Beras Kayumanis, Duga Beras Dioplos",
+  "category": "Bisnis",
+  "program": "AKIS tvOne",
+  "summary": "Menteri Pertanian Andi Amran Sulaiman mendapati toko beras di Kayu Manis, Jakarta Timur, diduga mengoplos beras SPHP seharga Rp12.500 per kilogram dan menjualnya sebagai beras premium.",
+  "takeaway": "Praktik pengoplosan beras bersubsidi menyangkut tata niaga pangan dan perlindungan konsumen yang relevan bagi pembaca ekonomi."
+ },
+ {
+  "id": "PF_6cvIhA-E",
+  "title": "Presiden Prabowo: Ekonomi Indonesia Salip Brasil dan Inggris",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Presiden Prabowo Subianto menyebut Indonesia kini masuk 10 besar ekonomi dunia, berada di posisi ketujuh dan melampaui Brasil serta Inggris berdasarkan data yang dipaparkannya.",
+  "takeaway": "Klaim posisi ekonomi nasional ini penting untuk memahami narasi pemerintah soal daya saing Indonesia di kancah global."
+ },
+ {
   "id": "OhscHHfWkOA",
   "title": "Kadin Dorong Penguatan Industri Elektronik Nasional",
   "category": "Industri",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "AKIP tvOne",
   "summary": "Presiden Prabowo Subianto menggelar rapat terbatas bersama tim ekonomi dan Komite Stabilitas Sistem Keuangan membahas dinamika ekonomi dan pelemahan IHSG, Senin, 19 Oktober 2026.",
   "takeaway": "Relevan karena mengungkap langkah koordinasi otoritas keuangan merespons tekanan di pasar saham."
- },
- {
-  "id": "7b4iHP8PCO4",
-  "title": "Kadin Siapkan 8 Kelompok Kerja untuk Rekomendasi ke Pemerintah",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Kamar Dagang dan Industri Indonesia (Kadin) membentuk delapan kelompok kerja untuk merumuskan sejumlah rekomendasi kebijakan bagi pemerintah.",
-  "takeaway": "Langkah ini menunjukkan bagaimana dunia usaha menyusun masukan kebijakan yang berpotensi memengaruhi arah ekonomi nasional."
- },
- {
-  "id": "InMZ8yi8veg",
-  "title": "Kadin Gelar Forum Komunikasi Anggota Luar Biasa",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Ketua Umum Kadin Indonesia Anindya Bakrie menyatakan optimisme menghadapi tantangan ekonomi sambil mendorong peningkatan daya saing dunia usaha nasional.",
-  "takeaway": "Memberi gambaran sikap pelaku usaha terhadap kondisi ekonomi terkini dan upaya memperkuat daya saing nasional."
- },
- {
-  "id": "aUGK-cjjHoA",
-  "title": "OJK, Menkeu, dan Gubernur BI Hadiri Rapat Terbatas Ekonomi",
-  "category": "Makroekonomi",
-  "program": "Kabar Utama",
-  "summary": "Presiden Prabowo Subianto mengumpulkan OJK, Menteri Keuangan, dan Gubernur Bank Indonesia dalam rapat terbatas membahas kondisi ekonomi nasional di Jakarta.",
-  "takeaway": "Pertemuan ini layak diikuti karena melibatkan otoritas fiskal dan moneter utama yang menentukan arah kebijakan ekonomi."
  }
 ];

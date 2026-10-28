@@ -161,7 +161,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari rakor ini bukan aturan baru, melainkan lima komitmen kerja sama pemerintah pusat dan daerah di Sulampua, termasuk rencana proyek percontohan BUMN logistik untuk mengangkut komoditas pemicu inflasi dan menghubungkan petani-nelayan langsung ke pembeli seperti Perumda dan BUMD. Yang terdampak jelas adalah konsumen di sebelas provinsi yang inflasinya sudah di atas batas aman nasional, terutama Sulawesi Utara yang inflasinya lebih dari dua kali ambang batas, serta petani dan nelayan setempat yang diharapkan mendapat akses pembiayaan dan pasar lebih mudah. Arahnya terlihat ke pendekatan jangka menengah, memperbaiki jalur distribusi antarpulau ketimbang menahan harga sesaat, tapi siaran pers ini belum menyebut komoditas spesifik, anggaran, atau tenggat proyek logistik BUMN tersebut, sehingga belum jelas seberapa cepat itu bisa menekan harga. Ukuran paling dekat untuk menilai arah ini adalah data inflasi pangan bergejolak pada akhir tahun, karena pemerintah menargetkan inflasi pangan ini turun ke kisaran 3 sampai 5 persen, sementara permintaan Natal dan Tahun Baru biasanya justru mendorong harga naik.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "zyrx-rugi-rp21-8-miliar-di-kuartal-iii-2026-penjualan-turun-20",

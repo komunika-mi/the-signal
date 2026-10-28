@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Qmle2aEAdAg",
+  "title": "Mentan Soroti Dugaan Mafia Beras di Pasar Cipinang",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Pertanian Andi Amran Sulaiman melakukan sidak ke Pasar Induk Cipinang menyusul dugaan mafia beras SPHP dan meminta aparat mengusut jaringan dari pemasok hingga penjual.",
+  "takeaway": "Dugaan permainan harga dan distribusi beras bersubsidi berdampak langsung pada stabilitas harga pangan yang menjadi perhatian pembaca ekonomi.",
+  "terbit": "2026-10-28T08:27:17+00:00"
+ },
+ {
+  "id": "o0uEC60fpGw",
+  "title": "Mentan Sidak Toko Beras Kayumanis, Duga Beras Dioplos",
+  "category": "Bisnis",
+  "program": "AKIS tvOne",
+  "summary": "Menteri Pertanian Andi Amran Sulaiman mendapati toko beras di Kayu Manis, Jakarta Timur, diduga mengoplos beras SPHP seharga Rp12.500 per kilogram dan menjualnya sebagai beras premium.",
+  "takeaway": "Praktik pengoplosan beras bersubsidi menyangkut tata niaga pangan dan perlindungan konsumen yang relevan bagi pembaca ekonomi.",
+  "terbit": "2026-10-28T07:05:55+00:00"
+ },
+ {
+  "id": "PF_6cvIhA-E",
+  "title": "Presiden Prabowo: Ekonomi Indonesia Salip Brasil dan Inggris",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Presiden Prabowo Subianto menyebut Indonesia kini masuk 10 besar ekonomi dunia, berada di posisi ketujuh dan melampaui Brasil serta Inggris berdasarkan data yang dipaparkannya.",
+  "takeaway": "Klaim posisi ekonomi nasional ini penting untuk memahami narasi pemerintah soal daya saing Indonesia di kancah global.",
+  "terbit": "2026-10-28T07:30:03+00:00"
+ },
+ {
   "id": "OhscHHfWkOA",
   "title": "Kadin Dorong Penguatan Industri Elektronik Nasional",
   "category": "Industri",

@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bkpm-cabut-izin-tambang-emas-di-nabire-papua",
+  "category": "Industri",
+  "title": "BKPM [Cabut] Izin Tambang Emas di Nabire, Papua",
+  "deck": "BKPM mencabut izin usaha pertambangan emas PT Kristalin Ekalestari di Nabire, Papua Tengah, setelah perusahaan terbukti menambang di kawasan hutan tanpa izin.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/bkpm-cabut-izin-tambang-emas-di-nabire-papua.jpg",
+  "imageV": "mvrowb3m",
+  "tags": [
+   "BKPM",
+   "Tambang",
+   "Papua",
+   "Kehutanan"
+  ],
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/keminveshil-bkpm-resmi-cabut-izin-usaha-pertambangan-iup-pt-kristalin-ekalestari-di-papua",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "11-dari-14-provinsi-sulampua-catat-inflasi-di-atas-target",
+  "category": "Makroekonomi",
+  "title": "11 dari 14 Provinsi Sulampua Catat [Inflasi] di Atas Target",
+  "deck": "Pemerintah menggelar rapat koordinasi pengendalian inflasi di Sulawesi, Maluku, dan Papua setelah 11 dari 14 provinsi mencatat inflasi tahunan di atas ambang batas nasional pada September 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "Inflasi",
+   "Sulampua",
+   "Ketahanan Pangan",
+   "TPIP-TPID"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7189/sinergi-tpip-dan-tpid-wilayah-sulampua-perkuat-konektivitas-dan-efisiensi-rantai-pasok-untuk-mendukung-ketahanan-pangan",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "koci-laba-9m-turun-41-uang-muka-penjualan-naik-162",
   "category": "Aksi Korporasi",
   "title": "KOCI: Laba 9M Turun 41%, [Uang Muka] Penjualan Naik 162%",
@@ -51,6 +85,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6c1e3d477d_a3d2e8e3f1.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-naik-jadi-rp2-570-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Jadi Rp2.570.000/Gram",
+  "deck": "Harga emas Antam naik Rp20.000 jadi Rp2.570.000 per gram pada 28 Oktober 2026, harga buyback ikut terkerek ke Rp2.365.000 per gram.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-naik-jadi-rp2-570-000-gram.jpg",
+  "imageV": "mvrowbxu",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "buyback emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475376-harga-emas-antam-hari-ini-28-oktober-2026-naik-jadi-rp2570000-per-gram-hitung-hitung-jika-mau-jual"
  },
  {
   "slug": "truk-masih-rugi-rp3-59-miliar-ekuitas-menyusut",
@@ -3533,7 +3584,7 @@ var ARTICLES = [
   "title": "BI Perkuat Sinergi Jaga [Inflasi] Pangan di Sulampua",
   "deck": "Bank Indonesia bersama pemerintah pusat dan daerah menggelar forum pengendalian inflasi pangan di Sulawesi, Maluku, dan Papua, menyasar inflasi pangan bergejolak di kisaran 3-5 persen.",
   "date": "23 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "Inflasi Pangan",
    "Bank Indonesia",
@@ -4238,7 +4289,7 @@ var ARTICLES = [
   "title": "Presiden Prabowo Targetkan Kredit Rakyat [Rp400 Triliun] di 2027",
   "deck": "Presiden Prabowo Subianto meluncurkan Dewan Nasional Kesejahteraan Keuangan dan menargetkan penyaluran kredit rakyat Rp400 triliun pada 2027, naik dari realisasi Rp53 triliun saat ini.",
   "date": "23 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "DNKK",
    "kredit rakyat",
@@ -4919,7 +4970,7 @@ var ARTICLES = [
   "title": "Pemerintah Pasang Target Pertumbuhan [6%] untuk 2027",
   "deck": "Pemerintah mengklaim stabilitas ekonomi domestik masih solid, dengan investasi tumbuh 7,3 persen, sebagai dasar menaikkan target pertumbuhan ke 6 persen pada 2027.",
   "date": "22 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7177/pemerintah-jaga-stabilitas-ekonomi-dalam-negeri-untuk-pertahankan-kepercayaan-investor",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
@@ -5917,7 +5968,7 @@ var ARTICLES = [
   "title": "Investasi KEK Baru [Rp46] Triliun, Kejar Target Rp69 Triliun",
   "deck": "Realisasi investasi di 25 kawasan ekonomi khusus capai Rp46 triliun hingga September 2026, baru dua pertiga dari target Rp69 triliun tahun ini.",
   "date": "21 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "KEK",
    "Investasi",
@@ -6404,54 +6455,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/17f8afc3f8_5a47e8fb40.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgl-panggil-rupslb-bahas-saham-bonus-dan-rombak-direksi",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Panggil RUPSLB, Bahas [Saham Bonus] dan Rombak Direksi",
-  "deck": "PPGL mengoreksi pemanggilan RUPSLB 23 Oktober 2026 yang akan membahas perubahan susunan direksi-komisaris dan pembagian saham bonus dari kapitalisasi modal disetor.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "RUPSLB",
-   "saham bonus",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/08debfa5af_e973230d5c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apex-tuntaskan-konversi-utang-hsbc-jadi-218-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "APEX Tuntaskan [Konversi Utang] HSBC Jadi 218 Juta Saham",
-  "deck": "Apexindo merampungkan penambahan modal tanpa HMETD dengan menukar utang ke dua entitas HSBC menjadi 218 juta saham baru seharga Rp325 per saham, tanpa dana tunai masuk.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APEX",
-   "PMTHMETD",
-   "konversi utang",
-   "HSBC"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8d908de928_a493b6496a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-lagi-ke-rp2-554-000-per-gram",
-  "category": "Moneter",
-  "title": "Harga Emas Antam [Turun] Lagi ke Rp2.554.000 per Gram",
-  "deck": "Harga emas batangan Antam turun Rp10.000 menjadi Rp2.554.000 per gram pada 21 Oktober 2026, sementara harga jual kembalinya Rp2.369.000 per gram.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-turun-lagi-ke-rp2-554-000-per-gram.jpg",
-  "imageV": "mvhnm2ba",
-  "tags": [
-   "emas",
-   "harga emas antam",
-   "Antam",
-   "investasi emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474164-harga-emas-antam-hari-ini-21-oktober-2026-turun-lagi-jadi-rp2554000-per-gram-perhatikan-tren-jangka-panjang-bagi-yang-mau-beli"
  }
 ];

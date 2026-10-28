@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "gKLB0btZ9wo",
+  "title": "Kadin Dorong KDMP Bantu UMKM, Bukan Saingi Minimarket",
+  "category": "UMKM",
+  "program": "IBF",
+  "summary": "Ekonom Aviliani menyebut Kadin mendorong KDMP berperan membantu UMKM di daerah, bukan menjadi pesaing minimarket, menjelang Rapimnas Kadin 2026 pada 29-30 Oktober yang membahas arah kebijakan ekonomi.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah dukungan kebijakan untuk UMKM dan peran koperasi desa dalam ekosistem ritel lokal."
+ },
+ {
+  "id": "3bZGQvm9Evs",
+  "title": "UMKM Belum Naik Kelas, Daya Beli Lemah Picu Middle Income Trap",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Rapimnas Kadin 2026 menyoroti UMKM yang belum naik kelas dan daya beli yang melemah sebagai faktor utama yang mengancam Indonesia terjebak dalam middle income trap.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyoroti akar masalah struktural yang menghambat Indonesia keluar dari jebakan kelas menengah."
+ },
+ {
   "id": "yNkAI3HPHg0",
   "title": "Ekonomi Kerakyatan untuk Indonesia Mendunia",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Menteri ESDM Bahlil Lahadalia menemui Presiden Prabowo Subianto untuk memastikan ketersediaan serta kelancaran distribusi bahan bakar minyak di berbagai daerah.",
   "takeaway": "Stabilitas pasokan BBM berpengaruh langsung pada biaya logistik dan aktivitas industri sehingga relevan dipantau pelaku usaha."
- },
- {
-  "id": "sZCOa-b1Zug",
-  "title": "Antrean BBM di SPBU Ternate Mulai Terurai",
-  "category": "Energi",
-  "program": "AKIS",
-  "summary": "Antrean panjang di SPBU Batu Anteru, Kota Ternate, yang terjadi akibat keterbatasan pasokan Pertalite mulai mencair dan kondisi kini terpantau membaik.",
-  "takeaway": "Kasus ini menggambarkan tantangan distribusi energi di daerah yang berdampak pada roda ekonomi masyarakat setempat."
- },
- {
-  "id": "3jSJgV8sG-U",
-  "title": "ISEF 2026 Dibuka, Bank Indonesia Dorong Penguatan Ekonomi Syariah",
-  "category": "Makroekonomi",
-  "program": "Kabar Siang",
-  "summary": "Indonesia Sharia Economic Festival (ISEF) 2026 yang ke-13 resmi dibuka oleh Gubernur Bank Indonesia Destry Damayanti bersama Wakil Menteri Koordinator Bidang Perekonomian Dradjad Hari Wibowo.",
-  "takeaway": "Perhelatan ini relevan bagi pembaca ekonomi karena menunjukkan arah kebijakan otoritas moneter dalam mengembangkan ekonomi syariah sebagai salah satu penopang pertumbuhan nasional."
  }
 ];

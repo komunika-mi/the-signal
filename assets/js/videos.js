@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "gKLB0btZ9wo",
+  "title": "Kadin Dorong KDMP Bantu UMKM, Bukan Saingi Minimarket",
+  "category": "UMKM",
+  "program": "IBF",
+  "summary": "Ekonom Aviliani menyebut Kadin mendorong KDMP berperan membantu UMKM di daerah, bukan menjadi pesaing minimarket, menjelang Rapimnas Kadin 2026 pada 29-30 Oktober yang membahas arah kebijakan ekonomi.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah dukungan kebijakan untuk UMKM dan peran koperasi desa dalam ekosistem ritel lokal.",
+  "terbit": "2026-10-28T15:05:19+00:00"
+ },
+ {
+  "id": "3bZGQvm9Evs",
+  "title": "UMKM Belum Naik Kelas, Daya Beli Lemah Picu Middle Income Trap",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Rapimnas Kadin 2026 menyoroti UMKM yang belum naik kelas dan daya beli yang melemah sebagai faktor utama yang mengancam Indonesia terjebak dalam middle income trap.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyoroti akar masalah struktural yang menghambat Indonesia keluar dari jebakan kelas menengah.",
+  "terbit": "2026-10-28T14:45:38+00:00"
+ },
+ {
   "id": "yNkAI3HPHg0",
   "title": "Ekonomi Kerakyatan untuk Indonesia Mendunia",
   "category": "Makroekonomi",

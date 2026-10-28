@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "astra-umumkan-pemenang-satu-indonesia-awards-2026",
+  "category": "Bisnis",
+  "title": "Astra Umumkan [Pemenang] SATU Indonesia Awards 2026",
+  "deck": "Astra menobatkan lima penggerak muda di SATU Indonesia Awards 2026 dan memulai Program Kontribusi Sosial 70 Tahun menjelang ulang tahun ke-70 pada Februari 2027.",
+  "image": "assets/img/astra-umumkan-pemenang-satu-indonesia-awards-2026.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T21:55:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475501-peringati-sumpah-pemuda-astra-rilis-pemenang-17th-satu-indonesia-awards-2026-dan-kick-off-kontribusi-sosial-70-tahun",
+  "tags": [
+   "Astra",
+   "SATU Indonesia Awards",
+   "CSR",
+   "Sumpah Pemuda"
+  ],
+  "body": [
+   "Bertepatan dengan Hari Sumpah Pemuda, PT Astra International Tbk mengumumkan lima pemenang ajang ke-17 SATU Indonesia Awards 2026 pada Rabu, 28 Oktober 2026, di Menara Astra, Jakarta. Pengumuman ini sekaligus menjadi titik awal Program Kontribusi Sosial 70 Tahun Astra, menjelang hari jadi perusahaan pada 20 Februari 2027. Acara ini relevan bagi pembaca karena menunjukkan bagaimana korporasi besar ini mengarahkan dana dan perhatiannya ke inovasi sosial anak muda di berbagai daerah, mulai dari kesehatan hingga teknologi peternakan.",
+   "Presiden Direktur Astra, Rudy, menyebut jumlah peserta ajang ini mencapai 19.155 orang, naik 8 persen dibandingkan tahun sebelumnya, yang menurutnya menandakan minat generasi muda untuk terlibat dalam program sosial terus bertambah. Setelah proses seleksi dewan juri dan pemungutan suara publik, Astra memilih lima pemenang: dr. Andi Rizki Tenryayu dari Bone yang menurunkan angka stunting hingga 45 persen lewat sistem pendataan gizi anak bernama Satu Anak Satu Profil; Hari Novar dari Pekanbaru yang menggerakkan ratusan relawan mengajar di sekolah pelosok tanpa listrik, termasuk di permukiman Suku Talang Mamak.",
+   "Pemenang lainnya adalah Ahmad Fahrezi dari Boyolali yang mengolah 2 ton limbah pasar per hari menjadi pupuk bioteknologi dan mendongkrak hasil panen petani hingga 40 persen; Afif Alfianto dari Kebumen yang memberdayakan perempuan desa melalui koperasi untuk mengolah biji tamanu menjadi minyak kosmetik tanpa menebang pohon; serta Feri Ramanda dari Medan yang mengembangkan platform peternakan Farmloka berbasis sensor dan kecerdasan buatan, kini dipakai 824 peternak dengan lonjakan hasil panen hingga 93 persen.",
+   "Selain lima pemenang individu, Astra memberikan dana pembinaan senilai Rp65 juta beserta program pendampingan kepada empat Desa Sejahtera Astra unggulan, yaitu Desa Sukaluyu di Karawang, Desa Karangjengkol di Purbalingga, Desa Purwodadi di Malang, dan Desa Tanjuang Bonai di Tanah Datar. Rudy menyampaikan harapan agar inisiatif semacam ini terus berlanjut dan diperkuat oleh pihak lain, sehingga manfaatnya menjangkau masyarakat yang lebih luas."
+  ],
+  "fotoAdegan": "Workers turning market waste into compost at an outdoor processing site in a Central Java village, daylight, baskets of organic waste nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/28/6ae20bd8ab610-presiden-direktur-astra-rudy-tengah-batik-dan-chief-of-corporate-affairs-astra-boy-kelana-soebroto-kiri-berfoto-bersama-dewan-juri-dan-penerima-apresiasi-17th-satu-indonesia-awards-2026-di-menara-astra-jakarta-rabu-28102026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah skala program apresiasi sosial Astra: peserta SATU Indonesia Awards tahun ini mencapai 19.155 orang, naik 8 persen dari tahun lalu, dan bersamaan dengan itu Astra memulai rangkaian Program Kontribusi Sosial 70 Tahun menjelang ulang tahun perusahaan pada 20 Februari 2027. Yang langsung terdampak adalah lima penggerak muda di bidang kesehatan, pendidikan, lingkungan, kewirausahaan, dan teknologi yang menerima apresiasi, serta warga di empat desa binaan, Sukaluyu, Karangjengkol, Purwodadi, dan Tanjuang Bonai, yang masing-masing mendapat dana pembinaan Rp65 juta plus program pendampingan. Kenaikan jumlah peserta bersamaan dengan peluncuran program baru menjelang usia ke-70 ini mengarah pada perluasan skala kontribusi sosial Astra, bukan sekadar seremoni ulang tahun. Yang akan memastikan arah ini adalah rincian resmi Program Kontribusi Sosial 70 Tahun yang dijanjikan mendekati 20 Februari 2027, termasuk apakah jumlah desa binaan dan kategori penghargaan ikut diperluas.",
+  "imageV": "mvs95n3l"
+ },
+ {
   "slug": "mcor-laba-kuartal-iii-turun-5-8-jadi-rp217-44-miliar",
   "category": "Aksi Korporasi",
   "title": "MCOR: Laba Kuartal III [Turun] 5,8% jadi Rp217,44 Miliar",
@@ -897,7 +924,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari rakor ini bukan aturan baru, melainkan lima komitmen kerja sama pemerintah pusat dan daerah di Sulampua, termasuk rencana proyek percontohan BUMN logistik untuk mengangkut komoditas pemicu inflasi dan menghubungkan petani-nelayan langsung ke pembeli seperti Perumda dan BUMD. Yang terdampak jelas adalah konsumen di sebelas provinsi yang inflasinya sudah di atas batas aman nasional, terutama Sulawesi Utara yang inflasinya lebih dari dua kali ambang batas, serta petani dan nelayan setempat yang diharapkan mendapat akses pembiayaan dan pasar lebih mudah. Arahnya terlihat ke pendekatan jangka menengah, memperbaiki jalur distribusi antarpulau ketimbang menahan harga sesaat, tapi siaran pers ini belum menyebut komoditas spesifik, anggaran, atau tenggat proyek logistik BUMN tersebut, sehingga belum jelas seberapa cepat itu bisa menekan harga. Ukuran paling dekat untuk menilai arah ini adalah data inflasi pangan bergejolak pada akhir tahun, karena pemerintah menargetkan inflasi pangan ini turun ke kisaran 3 sampai 5 persen, sementara permintaan Natal dan Tahun Baru biasanya justru mendorong harga naik.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "zyrx-rugi-rp21-8-miliar-di-kuartal-iii-2026-penjualan-turun-20",

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "astra-umumkan-pemenang-satu-indonesia-awards-2026",
+  "category": "Bisnis",
+  "title": "Astra Umumkan [Pemenang] SATU Indonesia Awards 2026",
+  "deck": "Astra menobatkan lima penggerak muda di SATU Indonesia Awards 2026 dan memulai Program Kontribusi Sosial 70 Tahun menjelang ulang tahun ke-70 pada Februari 2027.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/astra-umumkan-pemenang-satu-indonesia-awards-2026.jpg",
+  "imageV": "mvs95n3l",
+  "tags": [
+   "Astra",
+   "SATU Indonesia Awards",
+   "CSR",
+   "Sumpah Pemuda"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475501-peringati-sumpah-pemuda-astra-rilis-pemenang-17th-satu-indonesia-awards-2026-dan-kick-off-kontribusi-sosial-70-tahun"
+ },
+ {
   "slug": "mcor-laba-kuartal-iii-turun-5-8-jadi-rp217-44-miliar",
   "category": "Aksi Korporasi",
   "title": "MCOR: Laba Kuartal III [Turun] 5,8% jadi Rp217,44 Miliar",
@@ -6439,23 +6456,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474282-respons-dinamika-bursa-jasa-marga-pertimbangkan-pembelian-kembali-saham-jsmr"
- },
- {
-  "slug": "kkp-transaksi-ikan-di-65-kampung-nelayan-tembus-rp18-77-miliar",
-  "category": "UMKM",
-  "title": "KKP: Transaksi Ikan di 65 Kampung Nelayan Tembus [Rp18,77 Miliar]",
-  "deck": "Uji coba 65 Kampung Nelayan Merah Putih sejak Juni 2026 mencatat transaksi ikan Rp18,77 miliar, sementara KKP mulai membangun 1.269 lokasi baru tahun ini.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/kkp-transaksi-ikan-di-65-kampung-nelayan-tembus-rp18-77-miliar.jpg",
-  "imageV": "mvi4pqze",
-  "tags": [
-   "KKP",
-   "Kampung Nelayan Merah Putih",
-   "Perikanan",
-   "Ekonomi Pesisir"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/dua-tahun-pemerintahan-prabowo-knmp-terbukti-jadi-penggerak-ekonomi-pesisir-3yZM.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
  }
 ];

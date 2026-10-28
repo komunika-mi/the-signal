@@ -4,6 +4,38 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "RVHkfzpCQ4A",
+  "title": "Kadin Dorong KDMP Jadi Mitra UMKM, Bukan Pesaing Minimarket",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Kadin akan mendorong program KDMP sebagai mitra penguatan UMKM, bukan pesaing minimarket, dibahas menjelang Rapimnas Kadin 2026 pada 29-30 Oktober yang merumuskan arah kebijakan ekonomi lintas kementerian.",
+  "takeaway": "Relevan karena menyangkut upaya pemberdayaan UMKM melalui sinergi koperasi desa dan ritel modern."
+ },
+ {
+  "id": "aV0r0Ns1gLA",
+  "title": "Ekonomi Kerakyatan untuk Indonesia Mendunia",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi dalam Indonesia Business Forum mengangkat tema ekonomi kerakyatan sebagai modal Indonesia bersaing di kancah global, bagian dari rangkaian Rapimnas Kadin 2026 pada 29-30 Oktober.",
+  "takeaway": "Memberi konteks arah kebijakan ekonomi nasional yang akan dirumuskan dalam Rapimnas Kadin."
+ },
+ {
+  "id": "VG1DY_DEtgI",
+  "title": "Dunia Usaha Masih Hadapi 4 Masalah dari Hulu hingga Hilir",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Pelaku usaha disebut masih menghadapi empat masalah utama dari hulu hingga hilir, topik yang diangkat menjelang Rapimnas Kadin 2026 pada 29-30 Oktober.",
+  "takeaway": "Menyoroti kendala struktural dunia usaha yang penting bagi perumusan kebijakan ekonomi mendatang."
+ },
+ {
+  "id": "c8O6DfZZVyk",
+  "title": "Rasio Kewirausahaan RI Rendah, Kadin Minta Hilangkan Ego Sektoral",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Raden Teddy menyoroti rasio kewirausahaan Indonesia yang masih jauh di bawah negara lain dan mendorong kolaborasi lintas pihak tanpa ego sektoral, dibahas dalam rangkaian Rapimnas Kadin 2026.",
+  "takeaway": "Menggambarkan tantangan mendasar peningkatan jumlah wirausaha yang berdampak pada pertumbuhan ekonomi."
+ },
+ {
   "id": "gKLB0btZ9wo",
   "title": "Kadin Dorong KDMP Bantu UMKM, Bukan Saingi Minimarket",
   "category": "UMKM",
@@ -450,37 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Guru besar Fakultas Hukum UI menyoroti sejumlah tantangan besar yang dihadapi program Koperasi Desa Merah Putih, inisiatif pemberdayaan ekonomi desa yang digagas pemerintah.",
   "takeaway": "Evaluasi ini penting bagi pembaca ekonomi karena menyangkut keberlanjutan program koperasi desa sebagai instrumen pemberdayaan UMKM dan ekonomi rakyat."
- },
- {
-  "id": "t54oZMOVDUI",
-  "title": "Presiden Prabowo Subianto Gelar Ratas Ekonomi di Istana",
-  "category": "Makroekonomi",
-  "program": "Kabar Petang",
-  "summary": "Presiden Prabowo Subianto memimpin rapat terbatas membahas kondisi ekonomi nasional di Istana Negara, dihadiri sejumlah pejabat terkait.",
-  "takeaway": "Rapat ini penting diikuti karena memberi gambaran arah kebijakan ekonomi pemerintah ke depan."
- },
- {
-  "id": "btc-ll1jjAM",
-  "title": "Suku Bunga The Fed Diprediksi Naik, Bagaimana Nasib Rupiah",
-  "category": "Moneter",
-  "program": "OneNews Update",
-  "summary": "Rencana kenaikan suku bunga The Fed diperkirakan menekan nilai tukar rupiah pada perdagangan Selasa, di tengah ketidakpastian kebijakan moneter global.",
-  "takeaway": "Pergerakan suku bunga AS berpengaruh langsung pada nilai tukar rupiah dan arus modal di pasar keuangan domestik."
- },
- {
-  "id": "6UNZDM2btuo",
-  "title": "BEI Pangkas Batas ARB Saham Jadi 7 Persen",
-  "category": "Pasar Modal",
-  "program": "OneNews Update",
-  "summary": "Bursa Efek Indonesia memperketat batas auto rejection bawah saham menjadi 7 persen untuk meredam gejolak pasar, menyusul sinyal downgrade status pasar modal RI dari lembaga pemeringkat MSCI.",
-  "takeaway": "Kebijakan ini penting diikuti investor karena berpotensi mengubah pola perdagangan saham dan persepsi pasar global terhadap bursa Indonesia."
- },
- {
-  "id": "dxsg_N0R_JE",
-  "title": "Bahlil Pastikan Ketersediaan dan Distribusi BBM",
-  "category": "Energi",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri ESDM Bahlil Lahadalia menemui Presiden Prabowo Subianto untuk memastikan ketersediaan serta kelancaran distribusi bahan bakar minyak di berbagai daerah.",
-  "takeaway": "Stabilitas pasokan BBM berpengaruh langsung pada biaya logistik dan aktivitas industri sehingga relevan dipantau pelaku usaha."
  }
 ];

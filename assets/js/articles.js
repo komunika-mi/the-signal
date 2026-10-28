@@ -55,6 +55,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pertamina-foundation-berdayakan-wirausaha-muda-lewat-pfmuda",
+  "category": "UMKM",
+  "title": "Pertamina Foundation [Berdayakan] Wirausaha Muda Lewat PFmuda",
+  "deck": "Bertepatan Hari Sumpah Pemuda, Pertamina Foundation memaparkan capaian program PFmuda yang telah membina 362 kelompok wirausaha sosial muda di seluruh Indonesia.",
+  "image": "assets/img/pertamina-foundation-berdayakan-wirausaha-muda-lewat-pfmuda.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T23:46:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475526-refleksi-sumpah-pemuda-memberdayakan-kreativitas-anak-bangsa-dalam-pembangunan-nasional",
+  "tags": [
+   "pertamina foundation",
+   "umkm",
+   "sumpah pemuda",
+   "sociopreneur"
+  ],
+  "body": [
+   "Bertepatan dengan peringatan Hari Sumpah Pemuda, Pertamina Foundation kembali menegaskan komitmennya mendampingi generasi muda lewat program PFmuda. Program ini menjadi wadah bagi anak muda inovator dan wirausaha sosial untuk mengubah persoalan ekonomi, sosial, dan lingkungan di lingkungan mereka menjadi usaha yang bisa berjalan secara mandiri dan berkelanjutan.",
+   "Sejak diluncurkan, PFmuda sudah mencatat skala yang cukup luas. Hingga 2025, ada 362 kelompok pemenang yang tersebar di 227 kabupaten/kota di 28 provinsi. Pertamina Foundation juga mengklaim skor dampak sosial atau Social Return on Investment sebesar 1,68, yang berarti setiap satu rupiah yang dipakai program ini diperkirakan menghasilkan manfaat sosial senilai 1,68 rupiah bagi penerimanya. Pada 2025 saja, 110 kelompok Young Leaders dibina mulai dari tahap pengembangan ide hingga bisnis sosial yang sudah berjalan, dengan sektor yang digarap beragam, dari pangan, UMKM, lingkungan, pendidikan, sampai teknologi.",
+   "Dari sisi dampak, program ini mengklaim telah menjangkau 16.601 penerima manfaat, termasuk kelompok rentan seperti ibu kepala rumah tangga, warga wilayah tertinggal dan terluar, penyandang disabilitas, serta anak jalanan. Program ini juga disebut membuka 2.208 lapangan kerja baru, dengan omzet rata-rata usaha binaan mencapai lebih dari Rp270 juta per tahun. Ketua Yayasan Pertamina, Agus Mashud S. Asngari, menyebut anak muda Indonesia memiliki gagasan kreatif sekaligus keberanian untuk membawa perubahan nyata, dan PFmuda hadir untuk mewadahi energi itu secara terstruktur.",
+   "Untuk menjaga keberlanjutan pembinaan, Pertamina Foundation menyusun peta jalan tiga tahap bagi kelompok binaannya, yaitu Penggerak Biru, Pelestari Hijau, dan Pemberdayaan Emas Nusantara. Lewat jenjang ini, kelompok usaha sosial diarahkan naik tingkat, dari sekadar merintis ide sampai mampu memberdayakan skala yang lebih luas."
+  ],
+  "fotoAdegan": "Young entrepreneurs packing handmade snack products at a small community workshop table, natural daylight through windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/28/6ae22638ad0d0-memperingati-hari-sumpah-pemuda-pertamina-foundation-kembali-menegaskan-perannya-dalam-mendukung-potensi-generasi-muda-melalui-program-pfmuda_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan atau anggaran baru, melainkan skala dan struktur pembinaan: Pertamina Foundation kini punya 362 kelompok wirausaha sosial binaan di 227 kabupaten/kota, dan pembinaan itu mulai ditata berjenjang lewat tiga tahap, dari pengembangan ide sampai pemberdayaan skala lebih luas. Yang terdampak jelas kelompok muda pengelola usaha sosial itu sendiri, termasuk kelompok rentan seperti ibu kepala rumah tangga, warga wilayah tertinggal, penyandang disabilitas, dan anak jalanan yang jadi sasaran program. Skor dampak sosial 1,68 yang disebut Pertamina berarti setiap satu rupiah yang dipakai program ini diklaim menghasilkan manfaat sosial senilai 1,68 rupiah bagi penerimanya, meski angka itu dihitung sendiri oleh yayasan tanpa rincian metode di baliknya. Yang masih kurang untuk membaca ke mana arah program ini, apakah akan terus membesar atau sekadar dipertahankan di level sekarang, adalah target jumlah kelompok baru dan besaran dana yang dialokasikan Pertamina Foundation untuk tahun 2026, yang tidak disebutkan dalam rilis ini.",
+  "imageV": "mvsduvvo"
+ },
+ {
   "slug": "hajj-konversi-piutang-rp49-9-miliar-jadi-modal-anak-usaha-di-saudi",
   "category": "Aksi Korporasi",
   "title": "HAJJ Konversi Piutang Rp49,9 Miliar Jadi Modal Anak Usaha di [Saudi]",
@@ -105,6 +132,33 @@ var ARTICLES = [
   "fotoAdegan": "Telecommunication tower technicians checking equipment at the base of a tall steel tower in a rural Indonesian landscape, late afternoon light",
   "takeaway": "Laporan ini condong netral karena jumlah pinjamannya tidak bertambah, Rp2 triliun yang sama dengan sebelumnya, dan yang berubah hanya jangka waktunya yang mundur ke 31 Oktober 2027. Pos yang tersentuh adalah beban bunga, yaitu biaya tahunan yang harus dibayar perseroan atas pinjaman ini: dengan tenor yang diperpanjang, SUPR punya waktu lebih longgar sebelum harus melunasi atau mencari pendanaan pengganti, meski kewajiban bunga tetap mengalir selama fasilitas aktif. Besaran pinjaman yang mencapai 24,93 persen dari ekuitas perseroan membuatnya tergolong transaksi material yang wajib diumumkan, dan jaminan dari Protelindo serta Iforte menunjukkan risiko ini ditanggung bersama di dalam satu kelompok usaha, bukan dari pihak luar. Yang perlu dipantau berikutnya adalah tanggal jatuh tempo baru pada 31 Oktober 2027, karena pada saat itu SUPR dan kelompok usahanya harus kembali bernegosiasi dengan bank atau melunasi fasilitas ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "ri-malaysia-rancang-visa-proyek-untuk-pekerja-perbatasan",
+  "category": "Ketenagakerjaan",
+  "title": "RI-Malaysia Rancang [Visa Proyek] untuk Pekerja Perbatasan",
+  "deck": "Indonesia dan Malaysia membahas pilot project visa kerja musiman khusus di Kepulauan Meranti dan Karimun, serta pos lintas batas baru Kalbar-Sarawak, dalam pertemuan Sosek Malindo di Bandung.",
+  "image": "assets/img/ri-malaysia-rancang-visa-proyek-untuk-pekerja-perbatasan.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T23:33:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475524-indonesia-malyasia-perkuat-kerjasama-strategis-ekonomi-di-kawasan-perbatasan",
+  "tags": [
+   "Indonesia-Malaysia",
+   "Perbatasan",
+   "Visa by Project",
+   "Sosek Malindo"
+  ],
+  "body": [
+   "Pemerintah Indonesia dan Malaysia menggelar Persidangan Ke-41 Kelompok Kerja Pembangunan Sosio Ekonomi Malaysia-Indonesia (Sosek Malindo) pada 27-30 Oktober 2026 di Bandung. Pertemuan ini membahas agenda pembangunan ekonomi di kawasan perbatasan dua negara, mulai dari konektivitas wilayah, pengelolaan lintas batas, hingga kerja sama penanganan bencana. Forum ini penting karena menyangkut wilayah yang selama ini sering tertinggal dari pembangunan, tapi kini didorong jadi sumber pertumbuhan ekonomi bagi masyarakat di kedua sisi perbatasan.",
+   "Ketua delegasi Indonesia, Safrizal ZA yang juga Direktur Jenderal Bina Administrasi Kewilayahan Kementerian Dalam Negeri, menyoroti optimalisasi Pos Lintas Batas Temajuk di Kalimantan Barat yang terhubung dengan Pos Kawalan Sempadan Telok Melano di Sarawak, Malaysia. Pos ini sudah resmi beroperasi sejak 21 Agustus 2026. Kedua delegasi juga membahas penataan pengelolaan lintas batas serta proyek infrastruktur keselamatan di kawasan perbatasan internasional.",
+   "Di sisi ekonomi, pertemuan mengusulkan pilot project Special Border Treatment untuk Kabupaten Kepulauan Meranti dan Kabupaten Karimun di Provinsi Riau dan Kepulauan Riau. Tujuannya mendukung kebutuhan tenaga kerja di Negeri Johor dan Melaka, Malaysia, melalui skema yang disebut Visa by Project. Safrizal menyebut inisiatif ini diharapkan membuka kerja sama ketenagakerjaan yang lebih terstruktur, dengan tetap memperhatikan legalitas, perlindungan pekerja, dan aturan keimigrasian kedua negara.",
+   "Safrizal menambahkan bahwa pembahasan saat ini masih pada tahap menyusun payung kerja sama, yang nantinya akan ditindaklanjuti oleh masing-masing kementerian teknis. Payung ini terkait keberadaan warga negara Indonesia yang bekerja musiman di berbagai sektor di Malaysia, dengan harapan ada perlakuan khusus melalui mekanisme kontrol yang disepakati bersama."
+  ],
+  "fotoAdegan": "Officers checking vehicles at a quiet rural border crossing gate between forested hills, early morning haze",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/28/6ae222fd95c15-indonesia-malyasia-perkuat-kerjasama-strategis-ekonomi-di-kawasan-perbatasan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Ada dua hal konkret dari pertemuan ini, pos lintas batas Temajuk-Telok Melano di perbatasan Kalimantan Barat dan Sarawak yang sudah berjalan sejak 21 Agustus 2026, dan usulan pilot project Special Border Treatment bagi Kepulauan Meranti dan Karimun agar warganya bisa kerja musiman di Johor dan Melaka lewat skema bernama Visa by Project. Yang kena dampak langsung adalah warga dua kabupaten kepulauan di Riau dan Kepulauan Riau itu, yang selama ini banyak bekerja ke Malaysia secara musiman, termasuk lewat jalur yang belum tentu resmi. Arahnya mengarah ke upaya memindahkan pekerja musiman ke jalur visa resmi berbasis wilayah tertentu, bukan kebijakan ketenagakerjaan nasional yang berlaku sekaligus ke semua daerah. Yang akan menentukan apakah rencana ini benar jalan adalah payung kerja sama yang menurut Safrizal masih harus ditindaklanjuti oleh kementerian teknis masing-masing, dan sejauh ini belum ada tanggal atau aturan turunan yang mengikat skema tersebut.",
+  "imageV": "mvsduwce"
  },
  {
   "slug": "trja-laba-naik-92-meski-pendapatan-turun-15-8",

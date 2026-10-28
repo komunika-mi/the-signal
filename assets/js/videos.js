@@ -2,6 +2,42 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "RVHkfzpCQ4A",
+  "title": "Kadin Dorong KDMP Jadi Mitra UMKM, Bukan Pesaing Minimarket",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Kadin akan mendorong program KDMP sebagai mitra penguatan UMKM, bukan pesaing minimarket, dibahas menjelang Rapimnas Kadin 2026 pada 29-30 Oktober yang merumuskan arah kebijakan ekonomi lintas kementerian.",
+  "takeaway": "Relevan karena menyangkut upaya pemberdayaan UMKM melalui sinergi koperasi desa dan ritel modern.",
+  "terbit": "2026-10-28T16:57:37+00:00"
+ },
+ {
+  "id": "aV0r0Ns1gLA",
+  "title": "Ekonomi Kerakyatan untuk Indonesia Mendunia",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi dalam Indonesia Business Forum mengangkat tema ekonomi kerakyatan sebagai modal Indonesia bersaing di kancah global, bagian dari rangkaian Rapimnas Kadin 2026 pada 29-30 Oktober.",
+  "takeaway": "Memberi konteks arah kebijakan ekonomi nasional yang akan dirumuskan dalam Rapimnas Kadin.",
+  "terbit": "2026-10-28T15:45:26+00:00"
+ },
+ {
+  "id": "VG1DY_DEtgI",
+  "title": "Dunia Usaha Masih Hadapi 4 Masalah dari Hulu hingga Hilir",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Pelaku usaha disebut masih menghadapi empat masalah utama dari hulu hingga hilir, topik yang diangkat menjelang Rapimnas Kadin 2026 pada 29-30 Oktober.",
+  "takeaway": "Menyoroti kendala struktural dunia usaha yang penting bagi perumusan kebijakan ekonomi mendatang.",
+  "terbit": "2026-10-28T15:29:32+00:00"
+ },
+ {
+  "id": "c8O6DfZZVyk",
+  "title": "Rasio Kewirausahaan RI Rendah, Kadin Minta Hilangkan Ego Sektoral",
+  "category": "UMKM",
+  "program": "Indonesia Business Forum",
+  "summary": "Raden Teddy menyoroti rasio kewirausahaan Indonesia yang masih jauh di bawah negara lain dan mendorong kolaborasi lintas pihak tanpa ego sektoral, dibahas dalam rangkaian Rapimnas Kadin 2026.",
+  "takeaway": "Menggambarkan tantangan mendasar peningkatan jumlah wirausaha yang berdampak pada pertumbuhan ekonomi.",
+  "terbit": "2026-10-28T15:24:36+00:00"
+ },
+ {
   "id": "gKLB0btZ9wo",
   "title": "Kadin Dorong KDMP Bantu UMKM, Bukan Saingi Minimarket",
   "category": "UMKM",

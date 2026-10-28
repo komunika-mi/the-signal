@@ -37,6 +37,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pertamina-foundation-berdayakan-wirausaha-muda-lewat-pfmuda",
+  "category": "UMKM",
+  "title": "Pertamina Foundation [Berdayakan] Wirausaha Muda Lewat PFmuda",
+  "deck": "Bertepatan Hari Sumpah Pemuda, Pertamina Foundation memaparkan capaian program PFmuda yang telah membina 362 kelompok wirausaha sosial muda di seluruh Indonesia.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/pertamina-foundation-berdayakan-wirausaha-muda-lewat-pfmuda.jpg",
+  "imageV": "mvsduvvo",
+  "tags": [
+   "pertamina foundation",
+   "umkm",
+   "sumpah pemuda",
+   "sociopreneur"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475526-refleksi-sumpah-pemuda-memberdayakan-kreativitas-anak-bangsa-dalam-pembangunan-nasional"
+ },
+ {
   "slug": "hajj-konversi-piutang-rp49-9-miliar-jadi-modal-anak-usaha-di-saudi",
   "category": "Aksi Korporasi",
   "title": "HAJJ Konversi Piutang Rp49,9 Miliar Jadi Modal Anak Usaha di [Saudi]",
@@ -67,6 +84,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/895597405e_7cee1c6ed8.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ri-malaysia-rancang-visa-proyek-untuk-pekerja-perbatasan",
+  "category": "Ketenagakerjaan",
+  "title": "RI-Malaysia Rancang [Visa Proyek] untuk Pekerja Perbatasan",
+  "deck": "Indonesia dan Malaysia membahas pilot project visa kerja musiman khusus di Kepulauan Meranti dan Karimun, serta pos lintas batas baru Kalbar-Sarawak, dalam pertemuan Sosek Malindo di Bandung.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/ri-malaysia-rancang-visa-proyek-untuk-pekerja-perbatasan.jpg",
+  "imageV": "mvsduwce",
+  "tags": [
+   "Indonesia-Malaysia",
+   "Perbatasan",
+   "Visa by Project",
+   "Sosek Malindo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475524-indonesia-malyasia-perkuat-kerjasama-strategis-ekonomi-di-kawasan-perbatasan"
  },
  {
   "slug": "trja-laba-naik-92-meski-pendapatan-turun-15-8",
@@ -6421,38 +6455,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823426.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "tgka-jelaskan-ke-bei-soal-lonjakan-harga-6-06",
-  "category": "Aksi Korporasi",
-  "title": "TGKA Jelaskan ke BEI soal [Lonjakan] Harga 6,06%",
-  "deck": "Saham TGKA naik 6,06 persen dan volume transaksi melonjak hampir sepuluh kali pada 19 Oktober 2026, tapi perseroan sebut tak ada informasi material di baliknya.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGKA",
-   "Tigaraksa Satria",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/25124779de_a9eb35cb8b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pelajar-sma-luncurkan-minuman-gizi-nurivo-untuk-remaja",
-  "category": "Bisnis",
-  "title": "Pelajar SMA Luncurkan Minuman Gizi [NURIVO] untuk Remaja",
-  "deck": "Annabelle Kelly Setiady, pelajar SMA, merintis minuman serbuk NURIVO Original bersama PT Duta Niaga sebagai tambahan nutrisi untuk anak sekolah dan remaja aktif.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/pelajar-sma-luncurkan-minuman-gizi-nurivo-untuk-remaja.jpg",
-  "imageV": "mvj22c1v",
-  "tags": [
-   "nurivo",
-   "annabelle kelly setiady",
-   "gizi anak",
-   "minuman serbuk"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474370-dari-kepedulian-terhadap-gizi-anak-annabelle-hadirkan-nurivo-untuk-temani-generasi-muda-yang-aktif"
  }
 ];

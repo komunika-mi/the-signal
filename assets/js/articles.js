@@ -3,6 +3,267 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ipcm-laba-bersih-tergerus-meski-pendapatan-naik-5-33",
+  "category": "Aksi Korporasi",
+  "title": "IPCM: Laba Bersih [Tergerus] Meski Pendapatan Naik 5,33%",
+  "deck": "Pendapatan sembilan bulan IPCM naik 5,33% jadi Rp1,15 triliun, tapi laba bersih turun 33% menjadi Rp94,13 miliar akibat kenaikan harga bahan bakar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T18:18:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/95e0ff397e_e1e377544c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPCM",
+  "tags": [
+   "IPCM",
+   "laporan keuangan",
+   "Pelindo Group",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Jasa Armada Indonesia Tbk (IPCM), anak usaha Pelindo Group yang bergerak di jasa pemanduan dan penundaan kapal, membukukan pendapatan Rp1,15 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 5,33 persen dari Rp1,09 triliun pada periode yang sama tahun sebelumnya. Jasa pelayanan kapal menyumbang Rp1,11 triliun atau 96,51 persen dari total pendapatan, terdiri dari jasa penundaan kapal Rp1,05 triliun yang tumbuh 7,74 persen secara tahunan dan jasa pemanduan Rp58,80 miliar. Pendapatan dari jasa pengangkutan dan lainnya tercatat Rp40,18 miliar, naik 8,70 persen dari tahun sebelumnya.",
+   "Di sisi biaya, beban pokok pendapatan naik dari Rp824,30 miliar menjadi Rp941,23 miliar, membuat laba bruto turun dari Rp269,07 miliar menjadi Rp210,42 miliar. Laba bersih Perseroan ikut tergerus dari Rp140,67 miliar menjadi Rp94,13 miliar, atau turun sekitar 33 persen, yang menurut manajemen utamanya disebabkan oleh kenaikan harga bahan bakar kapal. Sebagai respons, IPCM berfokus pada efektivitas pola operasional, optimalisasi utilisasi armada, pemeliharaan kapal terencana, serta pemanfaatan teknologi seperti sistem inverter atau hybrid, panel surya, shore connection, dan harbour generator saat kapal tidak beroperasi penuh.",
+   "Dari sisi aset, total aset Perseroan per 30 September 2026 tercatat Rp1,75 triliun, naik 1,98 persen dari Rp1,71 triliun di akhir 2025, dengan aset lancar naik 5,53 persen menjadi Rp1,07 triliun. Arus kas bersih dari aktivitas operasi tercatat Rp165,77 miliar. Direktur Utama IPCM, Dwi Rahmad Toto, menyatakan perusahaan akan memperkuat bisnis inti, meningkatkan utilisasi armada, menjaga disiplin pengendalian biaya, dan memperluas pasar secara selektif baik di dalam maupun di luar ekosistem Pelindo."
+  ],
+  "fotoAdegan": "A harbor tugboat guiding a large cargo ship through a busy Indonesian port channel at dawn, crew on deck, cranes in distance.",
+  "takeaway": "Laporan ini condong negatif bagi fundamental IPCM, karena laba bersihnya tergerus 33 persen menjadi Rp94,13 miliar meski pendapatan naik 5,33 persen, tanda bahwa biaya operasional naik lebih cepat dari penjualan. Yang tersentuh adalah laba bruto, yaitu selisih antara pendapatan dan biaya langsung seperti bahan bakar kapal, yang turun dari Rp269,07 miliar menjadi Rp210,42 miliar, sehingga margin usaha menipis sebelum dikurangi biaya lain-lain. Arus kas dari aktivitas operasi masih positif Rp165,77 miliar, artinya perusahaan tetap menghasilkan uang tunai dari kegiatan usahanya meski labanya di atas kertas menurun. Yang perlu dipantau berikutnya adalah apakah kenaikan harga bahan bakar ini berlanjut ke kuartal keempat, dan apakah langkah optimalisasi armada serta pola operasi yang disebut manajemen benar-benar menahan laju kenaikan beban pada laporan tahunan penuh 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mlia-rugi-rp162-8-miliar-di-kuartal-iii-2026-kas-susut-tajam",
+  "category": "Aksi Korporasi",
+  "title": "[MLIA] Rugi Rp162,8 Miliar di Kuartal III 2026, Kas Susut Tajam",
+  "deck": "Mulia Industrindo (MLIA) membukukan rugi Rp162,8 miliar pada sembilan bulan 2026, berbalik dari laba tahun sebelumnya, seiring laba kotor yang anjlok dan kas yang menyusut tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T18:15:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028182422-65134-0/FinancialStatement-2026-III-MLIA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MLIA",
+  "tags": [
+   "MLIA",
+   "laporan keuangan",
+   "rugi bersih",
+   "Mulia Industrindo"
+  ],
+  "body": [
+   "PT Mulia Industrindo Tbk melaporkan kinerja keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan turun menjadi Rp2,99 triliun dari Rp3,07 triliun pada periode yang sama tahun 2025. Laba kotor merosot lebih tajam, dari Rp490,30 miliar menjadi Rp236,23 miliar, karena beban pokok pendapatan hampir tidak turun meski pendapatan turun. Setelah dikurangi beban penjualan, beban umum dan administrasi, serta beban keuangan yang naik menjadi Rp57,00 miliar dari Rp50,90 miliar, perusahaan mencatat rugi sebelum pajak Rp199,01 miliar, berbalik dari laba Rp27,94 miliar pada periode sebelumnya. Dengan manfaat pajak Rp36,24 miliar, rugi bersih periode berjalan tercatat Rp162,77 miliar, dibandingkan laba Rp20,90 miliar pada sembilan bulan 2025. Rugi per saham dasar menjadi Rp24,61, berbalik dari laba per saham Rp3,16 setahun sebelumnya, sementara jumlah saham beredar tetap 6.615.000.000 lembar.",
+   "Di sisi aset, kas dan setara kas perusahaan turun tajam menjadi Rp218,74 miliar per 30 September 2026 dari Rp508,26 miliar di akhir 2025, sementara persediaan naik menjadi Rp1,28 triliun dari Rp1,13 triliun. Di sisi liabilitas, utang bank jangka pendek naik menjadi Rp390,34 miliar dari Rp243,08 miliar, dan utang usaha kepada pihak ketiga melonjak menjadi Rp482,55 miliar dari Rp285,67 miliar. Jumlah liabilitas jangka pendek naik 46,6 persen menjadi Rp1,39 triliun. Akibatnya, jumlah ekuitas turun menjadi Rp5,24 triliun dari Rp5,40 triliun, seluruhnya berasal dari rugi periode berjalan karena perusahaan tidak membagikan dividen tunai pada periode ini, berbeda dari pembayaran dividen Rp46,16 miliar pada periode yang sama tahun lalu.",
+   "Dari sisi arus kas, kas bersih dari aktivitas operasi turun menjadi Rp75,52 miliar dari Rp117,88 miliar, sementara aktivitas investasi menyedot kas Rp359,00 miliar, sebagian besar untuk perolehan aset tetap senilai Rp339,41 miliar. Aktivitas pendanaan menggunakan kas bersih Rp14,26 miliar, berbeda dari periode sebelumnya yang justru menghasilkan kas bersih Rp68,90 miliar dari pendanaan. Laporan ini juga mencatat perubahan sekretaris perusahaan dari Henry Bun menjadi Linda Halim, serta anak usaha PT Muliaglass yang mencatatkan total aset Rp7,14 triliun dengan kepemilikan Mulia Industrindo sebesar 99,99 persen."
+  ],
+  "fotoAdegan": "Workers in protective gear inspecting rows of glass bottles moving along a conveyor belt inside a factory",
+  "takeaway": "Laporan ini condong negatif bagi Mulia Industrindo, karena laba sembilan bulan 2026 berbalik jadi rugi Rp162,8 miliar padahal periode sama tahun lalu masih untung, dan kas perusahaan susut lebih dari separuh dalam sembilan bulan. Yang tersentuh adalah ekuitas, yaitu selisih aset dan utang yang menjadi hak pemegang saham, yang turun dari Rp5,40 triliun menjadi Rp5,24 triliun karena rugi tersebut langsung memakan saldo laba. Arus kas dari operasi, uang tunai yang benar-benar masuk dari bisnis sehari-hari, juga menyusut ke Rp75,5 miliar dari Rp117,9 miliar, sementara beban bunga utang naik ke Rp57 miliar seiring utang bank yang juga bertambah. Jumlah saham beredar tidak berubah dari 6,615 miliar lembar, sehingga rugi per saham Rp24,61 murni berasal dari kerugian bisnis, bukan dari pengenceran saham baru. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV sekaligus tahun penuh 2026, yang akan menunjukkan apakah tren rugi dan penyusutan kas ini berlanjut atau mulai membaik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "amar-laba-bersih-melonjak-30-ke-rp227-7-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "AMAR: Laba Bersih [Melonjak] 30% ke Rp227,7 Miliar di Kuartal III",
+  "deck": "Laba bersih Bank Amar Indonesia naik sekitar 30 persen menjadi Rp227,7 miliar pada kuartal III 2026, didorong pertumbuhan kredit yang pesat meski arus kas operasional makin negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T17:56:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028180001-65056-0/FinancialStatement-2026-III-AMAR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMAR",
+  "tags": [
+   "AMAR",
+   "Bank Amar Indonesia",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Bank Amar Indonesia Tbk (AMAR) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, melalui surat nomor 82/SRT-CS/X/2026 tertanggal 28 Oktober 2026. Laporan ini ditandatangani oleh Vishal Tulsian selaku Direktur Utama, yang menyatakan bertanggung jawab penuh atas kelengkapan dan kebenaran seluruh informasi di dalamnya.",
+   "Laba bersih periode berjalan tercatat Rp227,7 miliar, naik sekitar 30 persen dari Rp174,6 miliar pada periode yang sama tahun 2025. Kenaikan ini ditopang pendapatan bunga yang naik dari Rp1,05 triliun menjadi Rp1,34 triliun, meski beban bunga ikut melonjak hampir dua kali lipat dari Rp66,7 miliar menjadi Rp129,5 miliar. Laba per saham dasar dan dilusian naik dari Rp9,5 menjadi Rp12,4.",
+   "Dari sisi neraca, kredit yang diberikan kepada pihak ketiga melonjak 31,6 persen dari Rp3,96 triliun pada akhir 2025 menjadi Rp5,22 triliun per 30 September 2026, sementara kredit kepada pihak berelasi relatif stabil di kisaran Rp11,3 miliar. Seiring pertumbuhan kredit itu, cadangan kerugian penurunan nilai kredit naik 24,3 persen menjadi Rp638,6 miliar dari Rp513,4 miliar. Total aset naik tipis menjadi Rp6,84 triliun, sedangkan dana simpanan dari bank lain justru turun dari Rp302,7 miliar menjadi Rp199,4 miliar. Total ekuitas naik dari Rp3,42 triliun menjadi Rp3,45 triliun.",
+   "Selama sembilan bulan ini, perseroan membayar dividen tunai total Rp180,3 miliar, terdiri dari Rp110,1 miliar atas laba bersih tahun 2025 dan Rp70,3 miliar dividen interim atas laba 2026. Di sisi lain, arus kas dari aktivitas operasi justru negatif Rp213,3 miliar, melebar dari negatif Rp122,1 miliar pada periode yang sama tahun lalu, karena penyaluran kredit baru tumbuh lebih cepat daripada penghimpunan dana pihak ketiga. Kas dan setara kas pada akhir periode turun menjadi Rp718 miliar dari Rp903,6 miliar pada periode yang sama tahun sebelumnya."
+  ],
+  "fotoAdegan": "Bank teller assisting a customer at a modern branch counter in a Jakarta office tower, paperwork and calculator on the desk, soft daylight",
+  "takeaway": "Laporan ini condong positif bagi Bank Amar: laba bersih sembilan bulan naik sekitar 30 persen dan penyaluran kredit tumbuh lebih dari 31 persen, sementara modal pemegang saham tetap bertambah walau sudah dipotong pembagian dividen Rp180,3 miliar. Yang perlu dicermati adalah arus kas dari kegiatan operasional yang makin negatif, dari minus Rp122,1 miliar menjadi minus Rp213,3 miliar, karena bank menyalurkan kredit baru lebih cepat daripada menghimpun dana nasabah, sehingga kas yang benar-benar masuk dari bisnis harian justru berkurang meski laba di atas kertas naik. Cadangan kerugian penurunan nilai kredit, yaitu dana yang disisihkan untuk mengantisipasi kredit yang berpotensi tidak terbayar, juga naik 24,3 persen seiring melonjaknya portofolio kredit. Laba per saham naik dari Rp9,5 menjadi Rp12,4 karena laba bertambah tanpa penambahan jumlah saham beredar. Yang perlu dipantau berikutnya adalah apakah tren pertumbuhan kredit dan laba ini bertahan sampai laporan keuangan tahunan auditan untuk periode yang berakhir Desember 2026 terbit, serta apakah arus kas operasional bisa kembali positif.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "apli-cetak-laba-rp7-46-miliar-bagi-dividen-rp60-miliar",
+  "category": "Aksi Korporasi",
+  "title": "APLI Cetak Laba Rp7,46 Miliar, Bagi [Dividen] Rp60 Miliar",
+  "deck": "APLI berbalik untung Rp7,46 miliar pada sembilan bulan pertama 2026, setelah bagi dividen Rp59,99 miliar dan belanja modal naik tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T17:37:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028174607-64937-0/FinancialStatement-2026-III-APLI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APLI",
+  "tags": [
+   "APLI",
+   "laporan keuangan",
+   "dividen",
+   "kinerja emiten"
+  ],
+  "body": [
+   "PT Asiaplast Industries Tbk (APLI) melaporkan pendapatan dari kontrak dengan pelanggan senilai Rp247,3 miliar untuk sembilan bulan pertama 2026, naik dari Rp220,2 miliar pada periode yang sama tahun sebelumnya. Setelah dikurangi beban pokok penjualan Rp206,4 miliar, laba bruto perusahaan melonjak ke Rp40,9 miliar dari Rp26,3 miliar. Laba usaha berbalik menjadi Rp11,8 miliar, dari rugi usaha Rp406,7 juta pada periode sebelumnya, sementara laba bersih tercatat Rp7,46 miliar dibanding rugi bersih Rp468,5 juta pada sembilan bulan pertama 2025. Laba per saham ikut berbalik dari minus Rp0,34 menjadi positif Rp5,48 per lembar.",
+   "Di sisi arus kas, kas dan setara kas perusahaan turun tajam dari Rp115,97 miliar pada akhir 2025 menjadi Rp41,23 miliar pada akhir September 2026. Penyebab utamanya adalah pembayaran dividen tunai Rp59,99 miliar sepanjang periode ini, serta belanja modal untuk pembelian aset tetap yang melonjak menjadi Rp46,66 miliar dari Rp6,58 miliar pada periode yang sama tahun lalu. Meski kas keluar untuk investasi dan pendanaan membesar, arus kas dari aktivitas operasi justru menguat lebih dari tiga kali lipat menjadi Rp25,61 miliar dari Rp7,76 miliar. Akibat pembagian dividen itu, total ekuitas perusahaan turun dari Rp350,4 miliar menjadi Rp298,1 miliar, sementara total aset menyusut dari Rp470,6 miliar menjadi Rp431,8 miliar.",
+   "Laporan ini merupakan laporan keuangan interim kuartal III 2026 yang belum diaudit, ditandatangani Direktur Utama Wilson Agung Pranoto di Tangerang pada 27 Oktober 2026. Perusahaan juga melaporkan anak usahanya, PT Tiga Berlian Electric yang bergerak di perdagangan besar peralatan dan perlengkapan rumah tangga, dengan kepemilikan 99,8 persen dan total aset Rp21,21 miliar per akhir 2025."
+  ],
+  "fotoAdegan": "Workers inspecting rolls of flexible plastic sheeting moving along an industrial production line inside a factory, overhead lighting",
+  "takeaway": "Laporan kuartal ini condong positif bagi Asiaplast: pendapatan naik dua digit, margin kotor melebar, dan perusahaan berbalik dari rugi menjadi laba bersih Rp7,46 miliar, dengan arus kas operasi yang juga menguat tajam. Yang perlu dicermati adalah laba per saham, yakni laba bersih dibagi jumlah saham beredar, yang ikut berbalik dari negatif menjadi Rp5,48, serta ekuitas yang justru menyusut karena perusahaan membagikan dividen tunai Rp59,99 miliar, bukan karena kinerja memburuk. Arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar masuk dari penjualan barang dikurangi biaya operasional, menguat lebih dari tiga kali lipat, sinyal bahwa perbaikan laba ini didukung uang riil, bukan sekadar catatan akuntansi. Penurunan kas perusahaan juga mencerminkan belanja modal yang melonjak ke Rp46,66 miliar, kemungkinan untuk ekspansi atau peremajaan mesin produksi. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang akan menunjukkan apakah tren perbaikan laba dan belanja modal ini berlanjut di kuartal terakhir tahun ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mglv-terbitkan-right-issue-rp2-54-triliun-dilusi-13-04",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Terbitkan Right Issue Rp2,54 Triliun, Dilusi [13,04%]",
+  "deck": "NexAI Digital Infrastruktur (MGLV) menawarkan right issue hingga 285,7 juta saham baru seharga Rp8.880, dananya untuk bayar utang ke NDC dan bangun dua pusat data.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T17:24:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0620f58f90_2d73692757.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "rights issue",
+   "data center",
+   "NDC"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menawarkan penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I) sebanyak-banyaknya 285.732.512 saham baru dengan nilai nominal Rp20 per saham. Setiap pemegang 100 saham lama yang namanya tercatat dalam daftar pemegang saham pada 6 November 2026 pukul 16.00 WIB berhak atas 15 hak, dan setiap hak dapat ditukar dengan satu saham baru seharga Rp8.880 per saham. Jika seluruh hak dilaksanakan, perseroan akan menerima dana sebanyak-banyaknya Rp2,54 triliun, sementara pemegang saham yang tidak ikut serta akan terdilusi kepemilikannya maksimum 13,04 persen.",
+   "Dalam prospektus ringkas, perseroan merinci penggunaan dana hasil penerbitan saham baru ini untuk empat keperluan. Sekitar Rp668,6 miliar dipakai mengambil alih piutang PT Nextier Datamate Center (NDC), pemegang saham utama perseroan, kepada dua anak usaha yaitu NAC sebesar Rp668,4 miliar dan NGC sebesar Rp160 juta, melalui pengalihan piutang (cessie) yang perjanjiannya akan ditandatangani paling lambat 31 Desember 2026. Sekitar Rp900 miliar lagi dipakai membayar sebagian pokok pinjaman perseroan kepada NDC, pinjaman yang sebelumnya menjadi pendanaan sementara untuk setoran modal dan pembayaran kontraktor anak usaha, dengan tujuan mengurangi beban bunga. Sisanya, sekitar Rp800 miliar, disetorkan sebagai modal ke anak usaha, yaitu Rp500 miliar ke NGC untuk pembangunan pusat data berkapasitas 60 megawatt di Kawasan Industri Terpadu Batang, Jawa Tengah, dan Rp300 miliar ke NAC untuk menambah kapasitas 36 megawatt di Kawasan Industri Jababeka, Cikarang, sesuai kontrak EPCC dengan PT CSCEC International Indonesia. Dana yang tersisa akan dipakai sebagai modal kerja operasional hingga kuartal IV 2028.",
+   "NDC, yang menguasai 62,71 persen saham perseroan, telah menyatakan akan melaksanakan seluruh haknya sebanyak 179.175.000 unit senilai Rp1,59 triliun secara tunai, dibuktikan dengan surat dari PT Bank CTBC Indonesia tertanggal 15 Oktober 2026. Jika NDC menggunakan seluruh haknya sementara pemegang saham publik sama sekali tidak ikut, porsi kepemilikan NDC akan naik menjadi 65,91 persen dan publik turun menjadi 34,09 persen. Perseroan tidak menunjuk pembeli siaga, sehingga tidak ada pihak yang wajib membeli sisa saham yang tidak diambil oleh pemegang hak. Masa perdagangan dan pelaksanaan hak berlangsung pada 10 hingga 23 November 2026, dengan distribusi saham baru pada 12 hingga 25 November 2026."
+  ],
+  "fotoAdegan": "Construction workers installing server racks inside an unfinished data center hall, cables and cooling units visible, industrial lighting",
+  "takeaway": "Laporan ini cenderung netral bagi NexAI Digital Infrastruktur: dilusi hingga 13,04 persen bagi pemegang saham yang tidak ikut serta memang signifikan, tetapi sebagian besar dana yang terkumpul dipakai melunasi utang ke pemegang saham utama dan membiayai pembangunan dua pusat data, bukan menambal kerugian, sementara NDC sendiri berkomitmen menyuntikkan dana tunai penuh sesuai porsinya. Yang tersentuh di sini adalah jumlah saham beredar yang bisa naik dari 1,9 miliar menjadi maksimum 2,19 miliar lembar, sehingga laba bersih perseroan nantinya terbagi ke lebih banyak saham dan laba per saham berpotensi terdilusi bagi yang tidak menambah kepemilikan, sementara di sisi lain beban bunga berkurang karena Rp900 miliar pinjaman ke NDC langsung dilunasi dari dana rights issue ini. Pelaku pasar perlu memantau tanggal terakhir pelaksanaan hak pada 23 November 2026 untuk melihat berapa besar porsi publik yang benar-benar ikut serta, penandatanganan perjanjian pengalihan piutang yang jatuh tempo paling lambat 31 Desember 2026, serta realisasi penyetoran modal ke anak usaha yang berjalan bertahap sampai kuartal II 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bexi-siapkan-rp112-miliar-lunasi-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BEXI Siapkan Rp112 Miliar [Lunasi] Obligasi Jatuh Tempo",
+  "deck": "Indonesia Eximbank (BEXI) menyiapkan dana Rp112 miliar untuk melunasi pokok obligasi BEXI04DCN7 yang jatuh tempo 29 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T17:22:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/07c9ad4b5b_6f8825ba11.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEXI",
+  "tags": [
+   "BEXI",
+   "obligasi",
+   "LPEI",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa mulai 29 Oktober 2026, obligasi berkode BEXI04DCN7, yaitu Obligasi Berkelanjutan Indonesia Eximbank IV Tahap VII Tahun 2019 Seri D senilai Rp112 miliar, tidak lagi tercatat dan tidak dapat diperdagangkan di bursa karena telah jatuh tempo. Obligasi ini diterbitkan pada 29 Oktober 2019 dengan tenor tujuh tahun.",
+   "Dalam surat tertanggal 29 September 2026 kepada Direktur Penilaian Perusahaan BEI, Kepala Divisi Pendanaan dan Tresuri Indonesia Eximbank (LPEI), Lianawaty Mihardja, menyatakan bahwa perseroan telah menyediakan dana sebesar Rp112 miliar, sesuai dengan jumlah pokok obligasi yang jatuh tempo. Dana tersebut ditempatkan pada instrumen keuangan likuid, antara lain penempatan di bank, dan manajemen menegaskan komitmen membayar kewajiban secara tepat waktu dan tepat jumlah.",
+   "Surat tembusan pemberitahuan ini dikirim ke Otoritas Jasa Keuangan dan PT Bank Mandiri (Persero) Tbk selaku wali amanat, yakni pihak yang mewakili kepentingan pemegang obligasi dalam proses pelunasan ini."
+  ],
+  "fotoAdegan": "Shipping containers being loaded onto a cargo vessel at a busy Indonesian port, cranes overhead, early morning light",
+  "takeaway": "Laporan ini netral bagi Indonesia Eximbank karena isinya sekadar konfirmasi bahwa dana pelunasan obligasi senilai Rp112 miliar yang jatuh tempo sudah disiapkan sebulan sebelumnya, tanpa ada tanda kesulitan likuiditas atau keterlambatan pembayaran. Begitu pokok dibayar pada 29 Oktober 2026, utang obligasi di pembukuan LPEI berkurang Rp112 miliar, tetapi kas atau instrumen likuid yang menampung dana itu ikut berkurang dalam jumlah yang sama, sehingga dampaknya ke ekuitas perusahaan minim, sementara wali amanat yang disebut dalam surat, PT Bank Mandiri, adalah bank yang ditugaskan memastikan proses pembayaran ke pemegang obligasi berjalan sesuai aturan. Yang perlu dipantau selanjutnya adalah konfirmasi resmi bahwa pembayaran pokok benar-benar terealisasi pada tanggal jatuh tempo itu, serta apakah LPEI akan menerbitkan obligasi baru untuk menggantikan pendanaan yang hilang akibat pelunasan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smbr-siapkan-audit-lk-kuartal-iii-isyarat-aksi-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "SMBR Siapkan Audit LK Kuartal III, Isyarat [Aksi Korporasi]",
+  "deck": "SMBR akan mengaudit laporan keuangan interim per 30 September 2026 karena ada rencana aksi korporasi, dengan tenggat penyampaian ke BEI dan OJK paling lambat 31 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T17:19:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/891a0d3db6_5112459509.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMBR",
+  "tags": [
+   "SMBR",
+   "Semen Baturaja",
+   "aksi korporasi",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Semen Baturaja (Persero) Tbk (SMBR) menyampaikan pemberitahuan kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan pada 28 Oktober 2026 bahwa laporan keuangan interim konsolidasian perseroan per 30 September 2026 akan diaudit oleh Kantor Akuntan Publik (KAP) Liana Ramon Xenia & Rekan. Biasanya laporan keuangan kuartalan cukup disampaikan tanpa audit, tetapi dalam surat ini SMBR menyebut audit tersebut dilakukan karena adanya rencana aksi korporasi perseroan.",
+   "Perseroan tidak merinci dalam dokumen ini apa bentuk aksi korporasi yang dimaksud. Rujukan hukum yang dipakai adalah poin III.1.1.5.1.2 Peraturan Bursa Efek Indonesia No. I-E (Kep-00087/BEI/12-2025) tentang Kewajiban Penyampaian Informasi. Berdasarkan aturan itu, SMBR wajib menyerahkan laporan keuangan konsolidasian teraudit per 30 September 2026 tersebut ke BEI dan OJK paling lambat 31 Desember 2026. Surat ditandatangani oleh Hari Liandu selaku Corporate Secretary perseroan."
+  ],
+  "fotoAdegan": "Cement bags stacked on wooden pallets inside a large industrial warehouse, a forklift moving in dusty grey light",
+  "takeaway": "Laporan ini netral untuk saat ini, karena isinya baru pemberitahuan prosedural dan belum membuka apa sebenarnya aksi korporasi yang melatarinya, sehingga dampaknya ke pemegang saham belum bisa dinilai. Yang perlu diperhatikan, laporan keuangan kuartalan umumnya tidak wajib diaudit, jadi keputusan mengaudit laporan per September 2026 ini biasanya jadi syarat administratif untuk langkah korporasi yang lebih besar, misalnya penerbitan saham baru atau penataan ulang struktur keuangan, yang bila terjadi bisa mengubah jumlah saham beredar atau posisi modal perseroan. Yang perlu dipantau berikutnya adalah pengumuman lanjutan soal bentuk aksi korporasi tersebut, serta kewajiban SMBR menyerahkan laporan keuangan teraudit itu ke BEI dan OJK paling lambat 31 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dvla-laba-turun-13-arus-kas-operasi-anjlok-36",
+  "category": "Aksi Korporasi",
+  "title": "DVLA: Laba Turun 13%, Arus Kas Operasi [Anjlok] 36%",
+  "deck": "Pendapatan Darya-Varia naik 13,5% jadi Rp1,85 triliun pada 9 bulan 2026, tapi laba bersih turun 13,2% jadi Rp142,7 miliar karena beban melonjak dan kas operasional menyusut tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T17:16:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028172612-64905-0/FinancialStatement-2026-III-DVLA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DVLA",
+  "tags": [
+   "DVLA",
+   "laporan keuangan",
+   "farmasi",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Darya-Varia Laboratoria Tbk (DVLA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan pada 27 Oktober 2026, sesuai POJK Nomor 14/POJK.04/2022 tentang penyampaian laporan keuangan berkala emiten. Surat pengantar ditandatangani oleh Widya Olivia Tobing, Legal and Corporate Affairs Division Head yang juga menjabat Corporate Secretary, sementara surat pernyataan tanggung jawab direksi diteken oleh Presiden Direktur Ian Martin Wibawa Kloer dan Direktur Celso Paz Lim.",
+   "Dari sisi penjualan, pendapatan dari kontrak dengan pelanggan naik 13,5 persen menjadi Rp1,848 triliun dari Rp1,628 triliun pada periode yang sama tahun lalu. Namun laba usaha justru turun menjadi Rp187,4 miliar dari Rp215,9 miliar, karena beban penjualan dan pemasaran naik menjadi Rp567,5 miliar dari Rp507,7 miliar, dan beban administrasi naik menjadi Rp182,6 miliar dari Rp167,4 miliar. Alhasil, laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk turun 13,2 persen menjadi Rp142,7 miliar dari Rp164,3 miliar, dengan laba per saham dasar turun dari Rp147 menjadi Rp127.",
+   "Di laporan posisi keuangan, total aset naik menjadi Rp2,581 triliun dari Rp2,350 triliun per akhir Desember 2025, terutama didorong kenaikan persediaan menjadi Rp578,6 miliar dari Rp448 miliar dan piutang usaha pihak ketiga menjadi Rp843,3 miliar dari Rp754,9 miliar. Di sisi liabilitas, utang usaha kepada pihak ketiga melonjak menjadi Rp249,7 miliar dari Rp98,1 miliar. Arus kas bersih dari aktivitas operasi anjlok menjadi Rp122,3 miliar dari Rp191,8 miliar pada periode yang sama tahun lalu. Perusahaan tetap membagikan dividen Rp71,68 miliar selama periode ini, sedikit lebih rendah dari Rp75,04 miliar pada periode sembilan bulan 2025, sementara total ekuitas naik menjadi Rp1,548 triliun dari Rp1,479 triliun."
+  ],
+  "fotoAdegan": "Pharmaceutical factory workers in sterile uniforms monitoring an automated tablet packaging line under bright fluorescent lighting",
+  "takeaway": "Laporan ini condong negatif bagi Darya-Varia: penjualan memang naik 13,5 persen, tapi laba bersih malah turun 13,2 persen dan uang tunai yang benar-benar dihasilkan dari kegiatan bisnis utama anjlok 36 persen, tanda bahwa kenaikan omzet tidak diikuti efisiensi biaya. Pos yang paling kena dampak adalah laba per saham, yaitu bagian keuntungan yang jatuh ke setiap pemegang satu lembar saham, yang turun dari Rp147 menjadi Rp127, serta arus kas operasional, uang tunai riil dari penjualan dan pembayaran operasional sehari-hari yang jadi ukuran apakah laba di atas kertas benar-benar berubah jadi uang di kas perusahaan. Arus kas ini tersedot oleh penumpukan persediaan yang naik 29 persen dan utang usaha kepada pemasok yang melonjak lebih dari dua kali lipat, dua pos yang biasa dipantau pelaku pasar untuk menilai kualitas laba sebuah perusahaan. Yang perlu dipantau berikutnya adalah laporan keuangan auditan untuk tahun penuh 2026 yang akan terbit beberapa bulan mendatang, untuk melihat apakah persediaan dan utang usaha ini sudah mengalir kembali jadi kas atau beban penjualan tetap membengkak seperti kuartal ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pidl-catatkan-obligasi-dan-sukuk-rp2-28-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "PIDL [Catatkan] Obligasi dan Sukuk Rp2,28 Triliun di BEI",
+  "deck": "Obligasi dan sukuk PIDL senilai total Rp2,28 triliun resmi tercatat di Bursa Efek Indonesia mulai 29 Oktober 2026, bagian dari program berkelanjutan senilai Rp12,5 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T17:09:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/15930f1ab7_b7baa3c443.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIDL",
+  "tags": [
+   "PIDL",
+   "obligasi",
+   "sukuk",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan awal Obligasi Berkelanjutan II Tahap II Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Tahap II Tahun 2026 milik PT Pindo Deli Pulp And Paper Mills (PIDL), mulai 29 Oktober 2026. Nilai pokok obligasi yang diterbitkan Rp1,28 triliun dalam dua seri, sedangkan dana sukuk mudharabah Rp1 triliun juga dalam dua seri. PT Bank KB Indonesia Tbk bertindak sebagai wali amanat. Obligasi ini mendapat peringkat idA+ dari Pefindo dan irAA- dari lembaga pemeringkat lain, sementara sukuknya mendapat peringkat syariah idA+(sy) dan irAA-(sy).",
+   "Untuk obligasi, Seri A senilai Rp1.070.385.000.000 berbunga tetap 10 persen per tahun dengan tenor tiga tahun, jatuh tempo 28 Oktober 2029. Seri B senilai Rp214.395.000.000 berbunga 10,5 persen per tahun dengan tenor lima tahun, jatuh tempo 28 Oktober 2031. Pokoknya dibayar sekali penuh saat jatuh tempo. Untuk sukuk mudharabah, Seri A senilai Rp873.635.000.000 memberi nisbah 22,85 persen dari pendapatan yang dibagihasilkan, dengan indikasi bagi hasil setara 10 persen per tahun selama tiga tahun. Seri B senilai Rp126.365.000.000 memberi nisbah 23,99 persen, setara bagi hasil 10,5 persen per tahun selama lima tahun. Bunga obligasi dan bagi hasil sukuk dibayar setiap tiga bulan, dengan pembayaran pertama pada 28 Januari 2027.",
+   "Penjaminan emisi dipegang oleh sepuluh sekuritas, dengan PT Aldiracita Sekuritas Indonesia sebagai penjamin pelaksana emisi terbesar, menanggung 51,56 persen porsi obligasi (Rp662,44 miliar) dan 30,90 persen porsi sukuk (Rp309,05 miliar). Penjamin lain antara lain PT BNI Sekuritas, PT BRI Danareksa Sekuritas, PT Indo Premier Sekuritas, PT KB Valbury Sekuritas, PT Korea Investment and Sekuritas Indonesia, PT Mandiri Sekuritas, PT Maybank Sekuritas Indonesia, PT Sucor Sekuritas, dan PT Trimegah Sekuritas Indonesia Tbk, masing-masing menanggung porsi antara 1,68 persen hingga 9 persen.",
+   "Penerbitan ini merupakan tahap kedua dari program penawaran umum berkelanjutan dengan target total Rp10,5 triliun untuk obligasi dan Rp2 triliun untuk sukuk mudharabah. Tahap pertama telah diterbitkan sebelumnya senilai Rp455,965 miliar untuk obligasi dan Rp487,455 miliar untuk sukuk. Obligasi dan sukuk ini tidak dijamin dengan aset khusus milik perseroan, sehingga pemegangnya berkedudukan setara dengan kreditur lain yang tidak memegang jaminan istimewa. Dokumen juga menyebut risiko utama perseroan adalah fluktuasi harga bubur kertas dan kertas di pasar internasional."
+  ],
+  "fotoAdegan": "Large rolls of brown industrial paper stacked in a paper mill warehouse, forklift operator working nearby, bright overhead lights",
+  "takeaway": "Laporan ini netral bagi PIDL karena hanya menandai pencatatan resmi di bursa dari obligasi dan sukuk yang sudah selesai ditawarkan dan nilai totalnya sudah diketahui publik sejak pekan lalu, tanpa ada perubahan fundamental baru. Yang tersentuh adalah beban bunga dan arus kas perusahaan, karena utang berbunga tetap senilai Rp2,28 triliun ini mewajibkan PIDL membayar bunga atau bagi hasil setiap tiga bulan sampai jatuh tempo pada 2029 dan 2031, sehingga mengurangi kas bebas yang bisa dipakai untuk keperluan lain. Obligasi dan sukuk ini juga tidak dijamin dengan aset khusus, artinya kalau perseroan gagal bayar, pemegangnya mengandalkan seluruh kekayaan perusahaan secara setara dengan kreditur lain, bukan aset tertentu yang dipatok untuk mereka. Yang perlu dipantau berikutnya adalah pembayaran bunga dan bagi hasil pertama pada 28 Januari 2027 sebagai uji awal kelancaran kewajiban ini, serta rencana Tahap III dari program berkelanjutan yang jadwal dan nilainya belum ditentukan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tpia-hentikan-buyback-lama-siapkan-periode-baru",
+  "category": "Aksi Korporasi",
+  "title": "TPIA [Hentikan] Buyback Lama, Siapkan Periode Baru",
+  "deck": "Chandra Asri Pacific menghentikan periode buyback saham yang semula berakhir 31 Desember 2026, lebih cepat menjadi 28 Oktober 2026, untuk memulai program buyback baru dengan dana yang disesuaikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T17:09:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7337fa550c_04bbac874a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "buyback saham",
+   "Chandra Asri Pacific",
+   "petrokimia"
+  ],
+  "body": [
+   "PT Chandra Asri Pacific Tbk (TPIA) resmi menghentikan periode pembelian kembali saham (buyback) yang sedang berjalan, lebih cepat dari rencana semula. Dalam keterbukaan informasi ke Bursa Efek Indonesia tertanggal 28 Oktober 2026, perseroan menyatakan periode buyback yang sebelumnya dijadwalkan berlangsung hingga 31 Desember 2026 dihentikan pada hari yang sama, tepatnya pada penutupan sesi kedua perdagangan di BEI.",
+   "Program buyback yang dihentikan ini awalnya diumumkan pada 19 Oktober 2026 di tengah kondisi pasar yang disebut berfluktuasi secara signifikan. Saat itu perseroan mengalokasikan dana sebanyak-banyaknya Rp1 triliun untuk membeli kembali sahamnya sendiri, dengan target maksimal 0,92 persen dari total saham yang telah dikeluarkan, atau setara 800 juta lembar saham.",
+   "Chandra Asri menjelaskan penghentian ini dilakukan karena perseroan berencana menjalankan program buyback baru dengan periode dan jumlah dana yang disesuaikan dari program sebelumnya. Perseroan menegaskan langkah ini tidak berdampak material terhadap kegiatan operasional, kondisi keuangan, maupun kelangsungan usahanya. Dokumen keterbukaan ini belum merinci kapan periode program baru tersebut akan dimulai atau berapa besar dana yang akan dialokasikan."
+  ],
+  "fotoAdegan": "Wide shot of a large petrochemical plant with steel pipelines, distillation towers and storage tanks under hazy daylight in an Indonesian industrial zone",
+  "takeaway": "Penghentian ini condong netral bagi TPIA, karena perseroan tidak membatalkan niat membeli kembali sahamnya, melainkan menggantinya dengan skema baru yang periode dan besaran dananya belum dirinci. Buyback menyentuh pos ekuitas dan jumlah saham beredar: kas perseroan berkurang untuk membeli saham sendiri, sementara saham yang dibeli balik biasanya disimpan sebagai saham treasuri sehingga jumlah saham yang diperdagangkan di pasar menyusut, dan ini berpotensi mendongkrak laba per saham karena laba yang sama dibagi ke lebih sedikit lembar saham. Pelaku pasar memperhatikan laba per saham karena angka itu mencerminkan bagian laba yang jatuh ke tiap pemegang saham. Yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan dari TPIA yang merinci periode dan besaran dana program buyback baru pengganti yang disebut dalam surat ini, sebab besaran dana tersebut akan menentukan seberapa besar dampaknya terhadap kas dan jumlah saham beredar perseroan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mtdl-laba-per-saham-turun-meski-pendapatan-naik-17-5",
   "category": "Aksi Korporasi",
   "title": "MTDL: Laba Per Saham Turun Meski Pendapatan Naik [17,5%]",

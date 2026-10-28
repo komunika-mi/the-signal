@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ipcm-laba-bersih-tergerus-meski-pendapatan-naik-5-33",
+  "category": "Aksi Korporasi",
+  "title": "IPCM: Laba Bersih [Tergerus] Meski Pendapatan Naik 5,33%",
+  "deck": "Pendapatan sembilan bulan IPCM naik 5,33% jadi Rp1,15 triliun, tapi laba bersih turun 33% menjadi Rp94,13 miliar akibat kenaikan harga bahan bakar.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPCM",
+   "laporan keuangan",
+   "Pelindo Group",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/95e0ff397e_e1e377544c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mlia-rugi-rp162-8-miliar-di-kuartal-iii-2026-kas-susut-tajam",
+  "category": "Aksi Korporasi",
+  "title": "[MLIA] Rugi Rp162,8 Miliar di Kuartal III 2026, Kas Susut Tajam",
+  "deck": "Mulia Industrindo (MLIA) membukukan rugi Rp162,8 miliar pada sembilan bulan 2026, berbalik dari laba tahun sebelumnya, seiring laba kotor yang anjlok dan kas yang menyusut tajam.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MLIA",
+   "laporan keuangan",
+   "rugi bersih",
+   "Mulia Industrindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028182422-65134-0/FinancialStatement-2026-III-MLIA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amar-laba-bersih-melonjak-30-ke-rp227-7-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "AMAR: Laba Bersih [Melonjak] 30% ke Rp227,7 Miliar di Kuartal III",
+  "deck": "Laba bersih Bank Amar Indonesia naik sekitar 30 persen menjadi Rp227,7 miliar pada kuartal III 2026, didorong pertumbuhan kredit yang pesat meski arus kas operasional makin negatif.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMAR",
+   "Bank Amar Indonesia",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028180001-65056-0/FinancialStatement-2026-III-AMAR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apli-cetak-laba-rp7-46-miliar-bagi-dividen-rp60-miliar",
+  "category": "Aksi Korporasi",
+  "title": "APLI Cetak Laba Rp7,46 Miliar, Bagi [Dividen] Rp60 Miliar",
+  "deck": "APLI berbalik untung Rp7,46 miliar pada sembilan bulan pertama 2026, setelah bagi dividen Rp59,99 miliar dan belanja modal naik tajam.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APLI",
+   "laporan keuangan",
+   "dividen",
+   "kinerja emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028174607-64937-0/FinancialStatement-2026-III-APLI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-terbitkan-right-issue-rp2-54-triliun-dilusi-13-04",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Terbitkan Right Issue Rp2,54 Triliun, Dilusi [13,04%]",
+  "deck": "NexAI Digital Infrastruktur (MGLV) menawarkan right issue hingga 285,7 juta saham baru seharga Rp8.880, dananya untuk bayar utang ke NDC dan bangun dua pusat data.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "rights issue",
+   "data center",
+   "NDC"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0620f58f90_2d73692757.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bexi-siapkan-rp112-miliar-lunasi-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BEXI Siapkan Rp112 Miliar [Lunasi] Obligasi Jatuh Tempo",
+  "deck": "Indonesia Eximbank (BEXI) menyiapkan dana Rp112 miliar untuk melunasi pokok obligasi BEXI04DCN7 yang jatuh tempo 29 Oktober 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEXI",
+   "obligasi",
+   "LPEI",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/07c9ad4b5b_6f8825ba11.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smbr-siapkan-audit-lk-kuartal-iii-isyarat-aksi-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "SMBR Siapkan Audit LK Kuartal III, Isyarat [Aksi Korporasi]",
+  "deck": "SMBR akan mengaudit laporan keuangan interim per 30 September 2026 karena ada rencana aksi korporasi, dengan tenggat penyampaian ke BEI dan OJK paling lambat 31 Desember 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMBR",
+   "Semen Baturaja",
+   "aksi korporasi",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/891a0d3db6_5112459509.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dvla-laba-turun-13-arus-kas-operasi-anjlok-36",
+  "category": "Aksi Korporasi",
+  "title": "DVLA: Laba Turun 13%, Arus Kas Operasi [Anjlok] 36%",
+  "deck": "Pendapatan Darya-Varia naik 13,5% jadi Rp1,85 triliun pada 9 bulan 2026, tapi laba bersih turun 13,2% jadi Rp142,7 miliar karena beban melonjak dan kas operasional menyusut tajam.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DVLA",
+   "laporan keuangan",
+   "farmasi",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028172612-64905-0/FinancialStatement-2026-III-DVLA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pidl-catatkan-obligasi-dan-sukuk-rp2-28-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "PIDL [Catatkan] Obligasi dan Sukuk Rp2,28 Triliun di BEI",
+  "deck": "Obligasi dan sukuk PIDL senilai total Rp2,28 triliun resmi tercatat di Bursa Efek Indonesia mulai 29 Oktober 2026, bagian dari program berkelanjutan senilai Rp12,5 triliun.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIDL",
+   "obligasi",
+   "sukuk",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/15930f1ab7_b7baa3c443.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tpia-hentikan-buyback-lama-siapkan-periode-baru",
+  "category": "Aksi Korporasi",
+  "title": "TPIA [Hentikan] Buyback Lama, Siapkan Periode Baru",
+  "deck": "Chandra Asri Pacific menghentikan periode buyback saham yang semula berakhir 31 Desember 2026, lebih cepat menjadi 28 Oktober 2026, untuk memulai program buyback baru dengan dana yang disesuaikan.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "buyback saham",
+   "Chandra Asri Pacific",
+   "petrokimia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7337fa550c_04bbac874a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mtdl-laba-per-saham-turun-meski-pendapatan-naik-17-5",
   "category": "Aksi Korporasi",
   "title": "MTDL: Laba Per Saham Turun Meski Pendapatan Naik [17,5%]",
@@ -6297,162 +6457,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/802d50fff7_fd1e388814.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "nine-jawab-bursa-rugi-membesar-rights-issue-dilusi-53",
-  "category": "Aksi Korporasi",
-  "title": "NINE Jawab Bursa: [Rugi] Membesar, Rights Issue Dilusi 53%",
-  "deck": "Techno9 Indonesia menjawab permintaan penjelasan BEI soal rencana rights issue hingga 2,44 miliar saham baru, di tengah rugi yang membesar dan dilusi maksimal 53,11 persen.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NINE",
-   "rights issue",
-   "dilusi saham",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3b97d1c85b_adf54dac94.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smga-koreksi-laporan-keuangan-incar-obligasi-berkelanjutan",
-  "category": "Aksi Korporasi",
-  "title": "SMGA koreksi laporan keuangan, incar [obligasi] berkelanjutan",
-  "deck": "Koreksi laporan keuangan interim SMGA disiapkan untuk prospektus rencana penerbitan obligasi berkelanjutan, sekaligus merevisi angka piutang, utang, dan kas pada Juni 2026.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMGA",
-   "obligasi berkelanjutan",
-   "laporan keuangan",
-   "koreksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261021180757-64716-0/FinancialStatement-2026-II-SMGA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bcap-pefindo-afirmasi-rating-idbbb-untuk-obligasi-mnc-kapital",
-  "category": "Aksi Korporasi",
-  "title": "BCAP: Pefindo Afirmasi Rating [idBBB+] untuk Obligasi MNC Kapital",
-  "deck": "Pefindo menegaskan peringkat idBBB+ berprospek stabil untuk MNC Kapital Indonesia dan delapan seri obligasinya, berlaku sampai 1 Maret 2027.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BCAP",
-   "Pefindo",
-   "Obligasi Korporasi",
-   "Rating Kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/53e6e8e4d3_b22d2439f2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lpgi-sebut-opsi-pelepasan-saham-oleh-pemegang-saham-utama",
-  "category": "Aksi Korporasi",
-  "title": "LPGI Sebut Opsi [Pelepasan] Saham oleh Pemegang Saham Utama",
-  "deck": "Volume transaksi saham LPGI melonjak 245.100 lembar dalam sehari, dan perseroan membuka opsi penjualan sebagian saham oleh pemegang saham utama untuk memenuhi syarat free float.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPGI",
-   "free float",
-   "volatilitas saham",
-   "pemegang saham utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/13a94e0002_4eacd921f3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-buka-pendanaan-s-555-juta-untuk-ekspansi-bisnis-limbah",
-  "category": "Aksi Korporasi",
-  "title": "TOBA Buka Pendanaan [S$555 Juta] untuk Ekspansi Bisnis Limbah",
-  "deck": "SBTH, anak usaha TOBA, menerbitkan saham preferen dan waran senilai hingga S$555 juta kepada investor global untuk mendanai ekspansi bisnis limbah.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "transaksi material",
-   "pengelolaan limbah",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3a06b77a0e_1909d70f37.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cent-refinancing-rp12-48-triliun-pinjaman-afiliasi-diperpanjang",
-  "category": "Aksi Korporasi",
-  "title": "CENT Refinancing Rp12,48 Triliun, Pinjaman Afiliasi [Diperpanjang]",
-  "deck": "CENT menandatangani fasilitas pinjaman baru Rp12,48 triliun untuk melunasi utang lama, dan memperpanjang dua pinjaman pemegang saham hingga akhir 2031.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CENT",
-   "refinancing",
-   "transaksi afiliasi",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6d077d7245_bfeaf9b9b2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbss-siapkan-buyback-saham-rp200-miliar-hingga-januari-2027",
-  "category": "Aksi Korporasi",
-  "title": "MBSS Siapkan [Buyback] Saham Rp200 Miliar hingga Januari 2027",
-  "deck": "MBSS akan membeli kembali maksimal 42,2 juta saham atau 2,41 persen dari total saham beredar, senilai hingga Rp200 miliar dari kas internal, tanpa persetujuan RUPS.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBSS",
-   "buyback saham",
-   "Mitrabahtera Segara Sejati",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e95d390fe_87bd211234.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wisl-siapkan-rp500-miliar-lunasi-obligasi-jatuh-tempo-17-november",
-  "category": "Aksi Korporasi",
-  "title": "WISL Siapkan Rp500 Miliar Lunasi [Obligasi] Jatuh Tempo 17 November",
-  "deck": "PT Wahana Inti Selaras (WISL) menyatakan siap membayar pokok Obligasi Berkelanjutan I Tahap II 2025 sebesar Rp500 miliar yang jatuh tempo 17 November 2026, menggunakan kas dan penagihan piutang.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WISL",
-   "obligasi",
-   "Indomobil",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d96a830727_cf90706a47.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sanksi-pajak-bisa-dihapus-penuh-sampai-desember-2026",
-  "category": "Makroekonomi",
-  "title": "Sanksi Pajak Bisa [Dihapus] Penuh Sampai Desember 2026",
-  "deck": "Pemerintah memberi keringanan sanksi administratif pajak secara bertahap sampai pertengahan 2027, mulai dari penghapusan penuh hingga akhir 2026.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/sanksi-pajak-bisa-dihapus-penuh-sampai-desember-2026.jpg",
-  "imageV": "mvhwa1y5",
-  "tags": [
-   "PMK 71/2026",
-   "DJP",
-   "Sanksi Pajak",
-   "Wajib Pajak"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kanwil-djp-jakarta-utara-gelar-fgd-pelaksanaan-pmk-71-pengurangan-sanksi-administratif",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "bi-tahan-suku-bunga-5-75-perkuat-insentif-jaga-rupiah",
-  "category": "Moneter",
-  "title": "BI [Tahan] Suku Bunga 5,75%, Perkuat Insentif Jaga Rupiah",
-  "deck": "Bank Indonesia menahan BI-Rate di 5,75% dan menaikkan bunga simpanan bank di BI, sembari memperbesar insentif bagi investor asing untuk menahan pelemahan rupiah.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
-  "tags": [],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823326.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "untr-koreksi-jadwal-dividen-interim-rp430-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Koreksi Jadwal Dividen Interim, [Rp430] per Saham",
+  "deck": "United Tractors mengoreksi jadwal dividen interim 2026, memastikan dividen Rp430 per saham dengan total hingga Rp1,48 triliun, dibayar 23 November 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "dividen",
+   "United Tractors",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/68428e7480_6a23576b8e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "menperin-minta-gula-impor-tak-bocor-ke-pasar-konsumen",
   "category": "Industri",
   "title": "Menperin Minta Gula [Impor] Tak Bocor ke Pasar Konsumen",
@@ -6440,18 +6456,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20102026-4182-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "program-kuliner-s-rasa-kantongi-us-31-juta-di-tei-2026",
-  "category": "Bisnis",
-  "title": "Program Kuliner S'RASA Kantongi [US$31 Juta] di TEI 2026",
-  "deck": "S'RASA mencatatkan transaksi US$31,14 juta di TEI ke-41, tapi sebagian besar masih berupa nota kesepahaman, bukan transaksi yang sudah terjadi.",
-  "date": "20 Oktober 2026",
-  "image": "assets/img/program-kuliner-s-rasa-kantongi-us-31-juta-di-tei-2026.jpg",
-  "imageV": "mvgqfo3f",
-  "tags": [],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/capaian-srasa-di-tei-ke-41-kantongi-total-transaksi-sebesar-usd-3114-juta",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "untr-koreksi-jadwal-dividen-interim-rp430-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Koreksi Jadwal Dividen Interim, [Rp430] per Saham",
+  "deck": "United Tractors mengoreksi jadwal dividen interim 2026, memastikan dividen Rp430 per saham dengan total hingga Rp1,48 triliun, dibayar 23 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T08:28:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/68428e7480_6a23576b8e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "dividen",
+   "United Tractors",
+   "pasar modal"
+  ],
+  "body": [
+   "United Tractors Tbk (UNTR) mengoreksi pengumuman jadwal dividen tunai interim yang sebelumnya diterbitkan pada 28 September 2026. Dalam surat koreksi bernomor 348A/CORP/9981/IX/26 yang diteken Corporate Secretary Ari Setiyawan, perseroan menyampaikan bahwa pembagian dividen interim untuk tahun buku 2026 ini sesuai keputusan Direksi yang disetujui Dewan Komisaris pada 27 Oktober 2026. Dividen ditetapkan Rp430 per saham, dengan total nilai pembagian sekurang-kurangnya Rp1.451.467.071.521 dan setinggi-tingginya Rp1.478.191.622.480. Perseroan juga menegaskan tidak ada efek bersifat ekuitas yang bisa dikonversi menjadi saham dalam skema dividen ini.",
+   "Jadwal pembagian diatur rinci: tanggal daftar pemegang saham (recording date) yang berhak menerima dividen jatuh pada 9 November 2026 pukul 16.00 WIB. Untuk transaksi di pasar reguler dan negosiasi, tanggal cum dividen adalah 5 November 2026 dan mulai 6 November 2026 saham UNTR sudah diperdagangkan tanpa hak dividen (ex dividend). Di pasar tunai, cum dividen jatuh pada 9 November dan ex dividen pada 10 November 2026. Pembayaran dividen kepada pemegang saham yang berhak dijadwalkan paling lambat 23 November 2026.",
+   "Sebagai dasar pembagian, perseroan mencantumkan data keuangan per 30 September 2026: laba bersih yang diatribusikan kepada entitas induk sebesar Rp4,47 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp86,1 triliun, dan total ekuitas Rp103,8 triliun."
+  ],
+  "fotoAdegan": "Rows of yellow heavy mining excavators parked in an open equipment yard under bright daylight, dusty ground, distant hills",
+  "takeaway": "Laporan ini netral bagi UNTR, karena perseroan tetap membagikan dividen interim Rp430 per saham meski laba bersih sembilan bulan pertama 2026 turun tajam, tapi nilainya hanya sekitar 1,4 persen dari total ekuitas sehingga tidak mengubah postur keuangan perusahaan secara berarti. Pembayaran dividen ini akan mengurangi kas dan saldo laba ditahan perseroan sebesar nilai yang dibagikan, karena uang itu keluar dari perusahaan ke kantong pemegang saham, bukan lagi menjadi modal kerja atau cadangan perusahaan. Yang perlu dipantau pemegang saham adalah tanggal pencatatan pemegang saham pada 9 November 2026 pukul 16.00 yang menentukan siapa berhak menerima dividen, dengan batas beli saham sebelum cum dividen 5 November 2026 di pasar reguler, serta tanggal pembayaran paling lambat 23 November 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "menperin-minta-gula-impor-tak-bocor-ke-pasar-konsumen",
   "category": "Industri",
   "title": "Menperin Minta Gula [Impor] Tak Bocor ke Pasar Konsumen",

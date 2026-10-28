@@ -3,6 +3,189 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mtdl-laba-per-saham-turun-meski-pendapatan-naik-17-5",
+  "category": "Aksi Korporasi",
+  "title": "MTDL: Laba Per Saham Turun Meski Pendapatan Naik [17,5%]",
+  "deck": "Pendapatan Metrodata naik 17,5 persen dalam sembilan bulan 2026, tapi laba bersih untuk pemegang saham utama turun dan utang jangka pendek melonjak 230 persen untuk membiayai lonjakan persediaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T15:40:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028155217-65129-0/FinancialStatement-2026-III-MTDL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTDL",
+  "tags": [
+   "MTDL",
+   "laporan keuangan",
+   "arus kas",
+   "utang"
+  ],
+  "body": [
+   "PT Metrodata Electronics Tbk (MTDL) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset perusahaan naik 23 persen menjadi Rp16,14 triliun dari Rp13,12 triliun pada akhir 2025, sementara pendapatan bersih tumbuh 17,5 persen menjadi Rp22,09 triliun dari Rp18,81 triliun pada periode yang sama tahun lalu. Laba bersih konsolidasian naik tipis menjadi Rp688,1 miliar dari Rp672,4 miliar, namun porsi laba yang mengalir ke pemegang saham induk, yaitu pemilik mayoritas perusahaan, justru turun menjadi Rp443,9 miliar dari Rp469,6 miliar karena porsi laba yang dinikmati pemegang saham minoritas di anak usaha naik lebih besar. Akibatnya, laba bersih per saham turun dari Rp38 menjadi Rp36.",
+   "Dalam surat keterbukaan informasi terpisah tertanggal 28 Oktober 2026, Corporate Secretary Metrodata, Randy Kartadinata, menjelaskan kenaikan aset dan liabilitas yang melampaui 20 persen sesuai aturan Bursa Efek Indonesia. Kenaikan aset terutama didorong oleh persediaan yang melonjak 107,9 persen atau Rp2,1 triliun untuk menopang pertumbuhan penjualan, serta piutang usaha pihak ketiga yang naik 15,2 persen atau Rp652,7 miliar, di mana 61,1 persen dari piutang tersebut belum jatuh tempo. Di sisi liabilitas, kenaikan terbesar berasal dari pinjaman jangka pendek yang melonjak 230,2 persen atau Rp2,2 triliun, yang digunakan perusahaan untuk membiayai modal kerja, khususnya pembelian persediaan.",
+   "Pembiayaan lewat utang ini turut membuat beban bunga naik dari Rp48,4 miliar menjadi Rp126,2 miliar dalam sembilan bulan. Arus kas dari kegiatan operasional juga tercatat defisit Rp2,16 triliun, melebar dari defisit Rp650,3 miliar pada periode yang sama tahun lalu, karena kas yang dibayarkan ke pemasok dan karyawan lebih besar dari kas yang diterima dari pelanggan. Sepanjang sembilan bulan ini, Metrodata tetap membagikan dividen tunai Rp331,5 miliar kepada pemegang saham perusahaan dan Rp164 miliar kepada pemegang saham nonpengendali di anak usaha."
+  ],
+  "fotoAdegan": "Warehouse workers stacking boxed computer hardware and server equipment onto pallets near a loading bay, forklift nearby, industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi fundamental Metrodata karena pertumbuhan pendapatan yang terlihat kuat justru dibayangi oleh laba untuk pemegang saham utama yang turun dan arus kas operasional yang makin seret. Pos yang tersentuh adalah arus kas dari kegiatan operasi, yaitu uang yang benar-benar keluar masuk dari aktivitas bisnis sehari-hari, yang defisitnya melebar dari Rp650 miliar menjadi Rp2,16 triliun karena perusahaan membeli jauh lebih banyak persediaan ketimbang uang yang diterima dari pelanggan. Beban bunga ikut naik hampir tiga kali lipat seiring utang bank jangka pendek yang melonjak untuk menambal kebutuhan kas itu, sehingga laba per saham tergerus dari Rp38 menjadi Rp36 meski pendapatan tumbuh dua digit. Yang perlu dipantau berikutnya adalah apakah lonjakan persediaan senilai Rp2,1 triliun ini benar-benar terjual pada kuartal mendatang, karena kalau tidak, tekanan arus kas dan beban bunga ini bisa terus terbawa ke laporan kuartal IV yang biasanya terbit awal tahun depan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dmas-koreksi-jadwal-dividen-interim-rp29-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "DMAS koreksi jadwal [dividen] interim Rp29 per saham",
+  "deck": "Puradelta Lestari (DMAS) mengoreksi jadwal dividen interim tunai Rp29 per saham senilai Rp1,4 triliun, dengan recording date 30 Oktober dan pembayaran 16 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T15:35:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e2f3becce8_a4a138cab2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMAS",
+  "tags": [
+   "DMAS",
+   "dividen interim",
+   "Puradelta Lestari",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Puradelta Lestari Tbk (DMAS) mengoreksi jadwal pembagian dividen tunai interim yang sebelumnya diumumkan lewat surat nomor 059/DMAS/IR-CS/X/2026 tertanggal 20 Oktober 2026. Dalam surat koreksi bernomor 062/DMAS/IR-CS/X/2026 yang terbit 28 Oktober 2026, manajemen menegaskan bahwa Direksi, dengan persetujuan Dewan Komisaris pada 19 Oktober 2026, tetap membagikan dividen interim tahun buku 2026 sebesar Rp29 per saham. Total dividen yang akan dibayarkan kepada pemegang saham tercatat senilai Rp1.397.745.221.900.",
+   "Jadwal yang dikoreksi menetapkan tanggal cum dividen di pasar reguler dan negosiasi pada 28 Oktober 2026, dengan ex dividen sehari setelahnya pada 29 Oktober 2026. Di pasar tunai, cum dividen jatuh pada 30 Oktober 2026 dan ex dividen pada 2 November 2026. Daftar pemegang saham yang berhak atas dividen (recording date) ditutup pada 30 Oktober 2026 pukul 16.00 WIB, dan pembayaran dividen dijadwalkan pada 16 November 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 September 2026, dengan laba bersih yang diatribusikan kepada entitas induk sebesar Rp1,49 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya sebesar Rp2,08 triliun, dan total ekuitas Rp7,31 triliun. Bagi pemegang saham yang sahamnya tercatat di penitipan kolektif KSEI, dividen akan disalurkan otomatis melalui perusahaan efek atau bank kustodian pada tanggal pembayaran, sementara pemegang saham warkat harus mengirimkan nama bank dan nomor rekening secara tertulis kepada Corporate Secretary perseroan paling lambat tiga hari kerja sebelum tanggal pembayaran.",
+   "Perseroan juga mengingatkan bahwa dividen ini akan dikenakan pajak sesuai aturan yang berlaku. Wajib pajak badan dalam negeri yang belum menyerahkan NPWP, dan wajib pajak luar negeri yang ingin memakai tarif keringanan pajak berganda, harus menyerahkan dokumennya paling lambat 30 Oktober 2026 pukul 16.00 WIB. Tanpa Surat Keterangan Domisili yang dilegalisasi, dividen untuk wajib pajak luar negeri akan dipotong pajak penghasilan pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Wide aerial view of an industrial estate road lined with factory warehouses and construction cranes, late afternoon light.",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham DMAS, karena perseroan tetap merealisasikan pembagian dividen interim tunai Rp29 per saham senilai Rp1,4 triliun, setara hampir seluruh laba bersih sembilan bulan perseroan yang tercatat Rp1,49 triliun, sinyal bahwa kas perusahaan cukup kuat untuk membayar tunai ke pemegang saham. Pembagian sebesar ini akan memangkas ekuitas, yaitu kekayaan bersih perseroan setelah dikurangi utang, sekitar 19 persen dari Rp7,31 triliun, dan menggerus saldo laba ditahan yang bebas dipakai dari Rp2,08 triliun menjadi tinggal sekitar Rp687 miliar, sehingga bantalan keuangan perseroan untuk ekspansi atau menyerap risiko ikut menyempit. Investor yang ingin memastikan haknya atas dividen ini perlu memegang saham sebelum tanggal cum dividen 28 Oktober 2026 di pasar reguler, karena daftar pemegang saham yang berhak (recording date) ditutup 30 Oktober 2026 pukul 16.00 WIB. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada 16 November 2026 serta tenggat penyampaian dokumen pajak pada 30 Oktober 2026 yang menentukan besar potongan pajak bagi investor asing.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "enrg-catat-laba-bersih-naik-30-persen-ke-us-72-8-juta-per-9m26",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Catat Laba Bersih [Naik] 30 Persen ke US$72,8 Juta per 9M26",
+  "deck": "Energi Mega Persada (ENRG) melaporkan laba bersih sembilan bulan 2026 naik 30 persen jadi US$72,8 juta, didukung kas yang berlipat dan pinjaman bank yang menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T15:20:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028152059-65127-0/FinancialStatement-2026-III-ENRG.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "Energi Mega Persada",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Energi Mega Persada Tbk (ENRG) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan neto perusahaan tercatat US$426,1 juta, naik dari US$361,4 juta pada periode yang sama tahun lalu. Laba usaha melonjak menjadi US$157,6 juta, dari sebelumnya US$109,5 juta. Laba bersih yang dapat diatribusikan kepada pemilik entitas induk naik menjadi US$72,8 juta, dari US$55,7 juta pada September 2025. Laba bersih per saham dasar dan dilusian tercatat US$0,00275, naik dari US$0,00221 pada periode sebelumnya.",
+   "Total aset ENRG per akhir September 2026 mencapai US$2,01 miliar, naik dari US$1,82 miliar pada akhir 2025. Kas dan setara kas perusahaan melonjak dua kali lipat, dari US$62,2 juta menjadi US$124,5 juta. Ekuitas bersih bertambah menjadi US$915,6 juta, dari US$822,7 juta, salah satunya ditopang penerbitan saham baru senilai US$18,9 juta. Akibat penerbitan itu, jumlah saham seri B beredar bertambah dari 20,21 miliar menjadi 20,43 miliar lembar, sementara saham seri A tetap di angka 6,14 miliar lembar.",
+   "Di sisi utang, total pinjaman bank perusahaan turun dari US$306,6 juta pada akhir 2025 menjadi US$201,1 juta per September 2026. Pada saat yang sama, ENRG mencatat utang obligasi rupiah baru senilai total US$132,4 juta yang belum ada pada akhir tahun lalu. Arus kas dari aktivitas operasi naik menjadi US$243,6 juta, dari US$169,1 juta pada periode yang sama tahun lalu. Defisit akumulasi perusahaan juga menyusut, dari US$283,9 juta menjadi US$211,1 juta."
+  ],
+  "fotoAdegan": "Technicians checking valves and pipelines at an onshore oil and gas processing facility in Indonesia, early morning haze",
+  "takeaway": "Laporan ini condong positif bagi ENRG, karena laba bersih naik sekitar 30 persen dan kas perusahaan berlipat dua dalam sembilan bulan, sementara pinjaman bank yang berbunga justru berkurang. Yang tersentuh di sini adalah ekuitas, yaitu nilai kekayaan bersih yang jadi hak pemegang saham, yang naik karena laba ditahan bertambah dan ada suntikan dari penerbitan saham baru. Arus kas operasi, yakni uang tunai riil yang masuk dari penjualan migas, juga naik tajam, tanda bisnis intinya memang menghasilkan uang, bukan sekadar laba di atas kertas. Meski begitu, beban bunga naik 23 persen karena sebagian pinjaman bank digantikan utang obligasi baru, dan jumlah saham beredar yang bertambah berarti laba ke depan harus dibagi ke lebih banyak lembar saham. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026 yang biasanya terbit awal 2027, karena itu akan mengonfirmasi apakah angka interim yang belum diaudit ini bertahan setelah diperiksa auditor independen.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mpow-cetak-rugi-melonjak-jadi-rp11-6-miliar-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MPOW Cetak Rugi [Melonjak] jadi Rp11,6 Miliar Kuartal III 2026",
+  "deck": "Pendapatan MPOW susut hampir separuh jadi Rp10,9 miliar pada sembilan bulan 2026, sementara rugi bersih melonjak ke Rp11,6 miliar dan ekuitas tergerus jadi Rp92,5 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T15:10:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028152018-65084-0/FinancialStatement-2026-III-MPOW.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPOW",
+  "tags": [
+   "MPOW",
+   "laporan keuangan",
+   "rugi bersih",
+   "utilitas listrik"
+  ],
+  "body": [
+   "PT Megapower Makmur Tbk (MPOW) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan neto perusahaan tercatat Rp10,9 miliar, susut 56,5 persen dari Rp25,1 miliar pada periode yang sama tahun 2025. Beban pokok pendapatan yang mencapai Rp18,3 miliar membuat MPOW mencatat rugi bruto Rp7,4 miliar, berbalik dari laba bruto Rp2,2 miliar setahun sebelumnya. Setelah memperhitungkan beban umum dan administrasi, beban keuangan, serta manfaat pajak tangguhan Rp3,1 miliar, rugi bersih MPOW melebar menjadi Rp11,6 miliar, hampir tiga kali lipat dari rugi Rp3,9 miliar pada periode yang sama tahun lalu. Rugi per saham dasar ikut membesar dari Rp4,81 menjadi Rp14,18 per lembar, dengan jumlah saham beredar tetap 816.997.053 lembar.",
+   "Di sisi posisi keuangan, total aset MPOW turun menjadi Rp123,2 miliar per 30 September 2026, dari Rp140,9 miliar pada akhir 2025. Total liabilitas juga menyusut dari Rp36,9 miliar menjadi Rp30,7 miliar, terutama karena utang kepada pihak berelasi berkurang dari Rp30,1 miliar menjadi Rp25,9 miliar, meski utang itu tetap menjadi porsi terbesar liabilitas perusahaan. Ekuitas ikut tergerus dari Rp104 miliar menjadi Rp92,5 miliar, dan saldo laba yang pada akhir 2025 masih positif Rp710,5 juta kini berbalik menjadi defisit Rp10,9 miliar akibat akumulasi rugi tahun berjalan. Kas dan setara kas perusahaan juga menipis, dari Rp2,7 miliar menjadi Rp1,7 miliar.",
+   "Dari laporan arus kas, kas yang dihasilkan dari aktivitas operasi turun dari Rp9,7 miliar menjadi Rp4,6 miliar. Perusahaan hampir tidak melakukan belanja modal baru, dengan perolehan aset tetap hanya Rp31,2 juta, jauh lebih kecil dibandingkan Rp3,35 miliar pada periode yang sama tahun lalu. Untuk aktivitas pendanaan, MPOW membayar Rp6,1 miliar kepada pihak berelasi sembari menerima pinjaman baru Rp2,1 miliar dari pihak yang sama, sehingga arus kas pendanaan tetap negatif Rp5,6 miliar. Surat pernyataan direksi yang menyertai laporan ini ditandatangani oleh Direktur Utama Kang Jimmi pada 28 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of diesel power generators inside an industrial engine room on a small Indonesian island, technician checking pressure gauges, dim lighting",
+  "takeaway": "Laporan ini condong negatif bagi MPOW, karena pendapatan ambruk lebih dari separuh sementara rugi bersihnya melebar hampir tiga kali lipat dan saldo laba berbalik menjadi defisit. Pos yang paling tersentuh adalah ekuitas dan arus kas: ekuitas adalah modal bersih pemegang saham setelah dikurangi utang, dan penyusutannya dari Rp104 miliar menjadi Rp92,5 miliar berarti nilai buku perusahaan mengecil, sementara arus kas operasi yang menipis dari Rp9,7 miliar menjadi Rp4,6 miliar menunjukkan uang tunai yang benar-benar masuk dari bisnis inti juga berkurang, bukan sekadar angka laba rugi di atas kertas. Karena laporan ini belum diaudit dan belum melalui prosedur review akuntan publik, angkanya masih bisa berubah saat laporan tahunan auditan terbit nanti, jadi yang perlu dipantau adalah apakah tren rugi ini berlanjut dan bagaimana MPOW mengelola utang jangka pendek ke pihak berelasi yang masih menopang sekitar 84 persen dari seluruh liabilitasnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tapg-laba-bersih-melonjak-31-ke-rp3-64-triliun",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Laba Bersih [Melonjak] 31% ke Rp3,64 Triliun",
+  "deck": "Laba bersih TAPG naik 31 persen menjadi Rp3,64 triliun pada sembilan bulan pertama 2026, ditopang kontribusi ventura bersama dan kas yang bertambah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T15:05:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028152218-65240-0/FinancialStatement-2026-III-TAPG.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "laba bersih",
+   "laporan keuangan kuartal III",
+   "sawit"
+  ],
+  "body": [
+   "PT Triputra Agro Persada Tbk (TAPG) melaporkan laba bersih periode berjalan Rp3,64 triliun untuk sembilan bulan pertama 2026, naik 31,1 persen dibandingkan Rp2,78 triliun pada periode yang sama tahun lalu. Pendapatan dari kontrak dengan pelanggan naik 15,1 persen, dari Rp8,21 triliun menjadi Rp9,45 triliun. Dari total laba bersih itu, Rp3,51 triliun menjadi bagian pemegang saham induk, sehingga laba per saham naik dari Rp135 menjadi Rp177.",
+   "Kenaikan laba tidak hanya berasal dari penjualan. Bagian laba dari ventura bersama dan entitas asosiasi, yaitu perusahaan patungan sawit tempat TAPG menanamkan modal, menyumbang Rp918,9 miliar, naik dari Rp825,7 miliar. Perseroan juga mencatat untung Rp26,2 miliar dari perubahan nilai wajar aset biologis seperti tanaman sawit yang belum menghasilkan, berbalik dari rugi Rp50,6 miliar pada periode sebelumnya. Di sisi lain, beban bunga pinjaman naik dari Rp39,5 miliar menjadi Rp48 miliar.",
+   "Dari sisi kas, TAPG membayar dividen tunai Rp2,998 triliun untuk tahun buku ini, naik dari Rp2,283 triliun tahun lalu. Arus kas dari aktivitas operasi mencapai Rp2,95 triliun, naik dari Rp2,24 triliun, cukup untuk menutup pembayaran dividen tersebut dan belanja modal Rp522,2 miliar. Kas dan setara kas per akhir September 2026 tercatat Rp1,94 triliun, naik dari Rp1,65 triliun di awal tahun. Utang bank jangka pendek turun dari Rp280 miliar menjadi Rp176 miliar, sementara total ekuitas naik dari Rp11,69 triliun menjadi Rp12,23 triliun."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested palm oil fruit bunches onto a truck in a plantation, overcast tropical sky",
+  "takeaway": "Laporan ini positif bagi TAPG, karena laba bersih tumbuh lebih cepat daripada pendapatan dan kenaikan itu tertopang kinerja nyata, bukan sekadar catatan akuntansi, terlihat dari arus kas operasi yang ikut naik signifikan sementara saldo utang bank justru menyusut. Tiga pos yang paling mencerminkan ini adalah laba per saham yang naik dari Rp135 ke Rp177, yaitu bagian laba yang secara teoritis menjadi hak setiap lembar saham yang beredar, ekuitas atau total kekayaan bersih pemegang saham yang bertambah sekitar Rp540 miliar, dan beban bunga yang naik 21 persen meski saldo utang bank mengecil, sinyal kecil yang perlu diawasi apakah berlanjut. Yang perlu dipantau berikutnya adalah laporan kuartal IV dan laporan tahunan auditan 2026, sebab laporan kali ini masih berstatus tidak diaudit, serta apakah kontribusi besar dari ventura bersama sawit senilai Rp918,9 miliar ini, yang menyumbang lebih dari seperlima laba sebelum pajak Perseroan, bisa bertahan di periode mendatang.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "myor-laba-bersih-9-bulan-naik-31-ke-rp2-47-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MYOR: [Laba] Bersih 9 Bulan Naik 31% ke Rp2,47 Triliun",
+  "deck": "Laba bersih Mayora Indah naik 31 persen jadi Rp2,47 triliun pada sembilan bulan pertama 2026, didorong perbaikan arus kas operasi dan penurunan utang bank jangka pendek.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T14:56:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028151410-65119-0/FinancialStatement-2026-III-MYOR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MYOR",
+  "tags": [
+   "MYOR",
+   "laporan keuangan",
+   "laba bersih",
+   "mayora indah"
+  ],
+  "body": [
+   "PT Mayora Indah Tbk (MYOR) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, melalui surat bernomor 003/MI-ACT/X/2026 yang diteken Direksi pada 27 Oktober 2026. Penjualan bersih perusahaan tercatat Rp28,13 triliun, naik dari Rp27,16 triliun pada periode yang sama tahun 2025. Laba bersih melonjak 31 persen menjadi Rp2,47 triliun dari Rp1,88 triliun, dengan laba per saham naik dari Rp83 menjadi Rp109.",
+   "Kenaikan laba terutama didorong oleh membaiknya margin, laba kotor naik dari Rp5,76 triliun menjadi Rp7,06 triliun meski kenaikan penjualan hanya tipis, serta beban bunga yang turun dari Rp442,22 miliar menjadi Rp288,19 miliar seiring pelunasan sebagian utang bank. Di sisi posisi keuangan, total aset perusahaan turun dari Rp31,38 triliun menjadi Rp29,18 triliun, sebagian karena kas dan setara kas berkurang dari Rp5,85 triliun menjadi Rp4,26 triliun. Total liabilitas ikut menyusut tajam dari Rp13,02 triliun menjadi Rp10,01 triliun, dengan utang bank jangka pendek turun dari Rp1,74 triliun menjadi hanya Rp235 miliar. Namun bagian utang obligasi jangka panjang yang kini jatuh tempo dalam setahun tercatat Rp1,24 triliun, dari sebelumnya nol pada akhir 2025.",
+   "Arus kas dari aktivitas operasi mencapai Rp3,93 triliun, naik tajam dari Rp1,10 triliun pada periode yang sama tahun lalu. Arus kas pendanaan tercatat keluar bersih Rp5,23 triliun, dipakai untuk membayar utang bank jangka pendek senilai Rp3,23 triliun, melunasi pinjaman bank jangka panjang Rp2,19 triliun, membayar dividen tunai Rp1,34 triliun, dan membeli kembali saham (treasury stock) senilai Rp323,47 miliar sehingga saldo saham treasuri perusahaan kini mencapai Rp673,36 miliar. Total ekuitas perusahaan tetap naik dari Rp18,36 triliun menjadi Rp19,17 triliun meski ada pembayaran dividen dan pembelian kembali saham tersebut."
+  ],
+  "fotoAdegan": "Workers in hairnets packing biscuits on a conveyor belt inside a bright food processing factory, Indonesia.",
+  "takeaway": "Laporan ini condong positif bagi Mayora: laba bersih tumbuh 31 persen ke Rp2,47 triliun, ditopang arus kas dari kegiatan operasi yang melonjak hampir empat kali lipat sehingga perusahaan mampu melunasi sebagian besar utang bank jangka pendek dan membayar dividen tanpa menambah pinjaman baru. Tiga pos yang layak dicermati pelaku pasar adalah arus kas operasi, yakni uang tunai yang benar-benar masuk dari penjualan dan operasional sehari-hari, yang naik dari Rp1,10 triliun menjadi Rp3,93 triliun; beban bunga yang turun ke Rp288,19 miliar dari Rp442,22 miliar karena utang berkurang; dan laba per saham yang naik dari Rp83 menjadi Rp109, berarti setiap lembar saham kini mewakili bagian laba yang lebih besar. Yang perlu dipantau berikutnya adalah kewajiban membayar utang obligasi senilai Rp1,24 triliun yang kini jatuh tempo dalam 12 bulan ke depan, setelah sebelumnya nol pada akhir 2025, serta apakah penurunan kas dari Rp5,85 triliun menjadi Rp4,26 triliun berlanjut pada laporan tahunan auditan yang biasanya rilis awal tahun berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cnko-bukukan-laba-rp165-m-ekuitas-tetap-negatif-rp899-m",
+  "category": "Aksi Korporasi",
+  "title": "CNKO Bukukan Laba Rp165 M, [Ekuitas] Tetap Negatif Rp899 M",
+  "deck": "Laba sembilan bulan CNKO naik 12,5 persen jadi Rp165,39 miliar, didorong pendapatan di luar usaha, sementara ekuitas perseroan masih defisit Rp898,99 miliar per akhir September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T14:55:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028151622-64562-0/FinancialStatement-2026-III-CNKO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CNKO",
+  "tags": [
+   "CNKO",
+   "laporan keuangan kuartal III",
+   "batu bara",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Exploitasi Energi Indonesia Tbk (CNKO) mencatat laba periode berjalan Rp165,39 miliar untuk sembilan bulan yang berakhir 30 September 2026, naik 12,5 persen dari Rp147,05 miliar pada periode yang sama tahun lalu, menurut laporan keuangan interim yang tidak diaudit yang disampaikan perseroan ke Bursa Efek Indonesia pada 28 Oktober 2026. Kenaikan laba ini terjadi meski pendapatan usaha justru turun menjadi Rp1,44 triliun dari Rp1,46 triliun, dan laba operasional susut hampir 39 persen dari Rp242,50 miliar menjadi Rp148,06 miliar akibat beban pokok pendapatan yang naik lebih cepat dari penjualan. Pendorong utama kenaikan laba bersih adalah pos pendapatan lain-lain neto yang berbalik dari rugi Rp9,82 miliar menjadi untung Rp83,96 miliar, bukan dari kinerja penjualan batu bara perseroan.",
+   "Di sisi lain, posisi keuangan CNKO masih menunjukkan defisiensi modal, yaitu kondisi ketika total utang perusahaan lebih besar daripada total asetnya, sebesar Rp898,99 miliar per akhir September 2026. Angka ini membaik dibandingkan defisit Rp1,06 triliun pada akhir 2025, terutama karena laba periode ini menambah saldo rugi yang terkumpul dari Rp3.668,80 miliar menjadi Rp3.503,49 miliar. Total aset perseroan naik menjadi Rp1,05 triliun dari Rp891,35 miliar, sementara total liabilitas turun sedikit menjadi Rp1,95 triliun dari Rp1,96 triliun. Kas dan setara kas bertambah menjadi Rp363,42 miliar dari Rp254,03 miliar pada awal tahun, didukung arus kas operasi positif Rp142,64 miliar serta penerimaan Rp50 miliar dari pelepasan satu entitas anak.",
+   "Laporan ini juga menyebutkan status papan perdagangan saham CNKO di Bursa Efek Indonesia adalah Pemantauan Khusus atau Watchlist. Perseroan memiliki lima entitas anak yang bergerak di sektor pertambangan, perdagangan batu bara, dan jasa pelayaran, yaitu PT Abe Jaya Perkasa dengan kepemilikan 51,3 persen, PT Energi Batubara Indonesia 99,97 persen, PT Trans Lintas Segara 99,99 persen, PT Korporindo Guna Bara 99,78 persen, dan PT Sekti Rahayu Indah yang kepemilikannya kini tercatat 0 persen dengan aset nihil, sejalan dengan transaksi pelepasan entitas anak yang tercatat dalam laporan perubahan ekuitas periode ini. Laba per saham dasar yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp18,47 untuk periode ini, naik dari Rp16,30 pada periode yang sama tahun lalu."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting coal stockpiles at an open mining yard under an overcast sky, heavy loader moving material nearby",
+  "takeaway": "Laporan ini saya nilai netral bagi CNKO: laba memang naik, tetapi kenaikannya ditopang pendapatan di luar usaha, sementara bisnis inti justru melemah. Pos yang tersentuh adalah ekuitas, yaitu selisih aset dikurangi utang perusahaan, yang di CNKO masih negatif Rp898,99 miliar, artinya seluruh aset perseroan belum cukup menutup utangnya, meski defisit ini mengecil dari Rp1,06 triliun pada akhir 2025. Laba operasional, yakni untung dari jual beli batu bara sebelum pos bunga dan pendapatan lain-lain, justru turun hampir 39 persen menjadi Rp148,06 miliar, sehingga pelaku pasar biasanya mencermati kualitas laba semacam ini karena pos non-operasional cenderung tidak berulang setiap kuartal. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit yang akan menunjukkan apakah penyusutan defisit ekuitas ini berlanjut, serta status saham CNKO yang masih tercatat di papan pemantauan khusus Bursa Efek Indonesia.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "roti-direktur-arief-alfanto-ajukan-pengunduran-diri",
   "category": "Aksi Korporasi",
   "title": "ROTI: Direktur Arief Alfanto Ajukan [Pengunduran Diri]",

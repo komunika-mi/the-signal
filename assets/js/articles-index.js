@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mtdl-laba-per-saham-turun-meski-pendapatan-naik-17-5",
+  "category": "Aksi Korporasi",
+  "title": "MTDL: Laba Per Saham Turun Meski Pendapatan Naik [17,5%]",
+  "deck": "Pendapatan Metrodata naik 17,5 persen dalam sembilan bulan 2026, tapi laba bersih untuk pemegang saham utama turun dan utang jangka pendek melonjak 230 persen untuk membiayai lonjakan persediaan.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTDL",
+   "laporan keuangan",
+   "arus kas",
+   "utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028155217-65129-0/FinancialStatement-2026-III-MTDL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dmas-koreksi-jadwal-dividen-interim-rp29-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "DMAS koreksi jadwal [dividen] interim Rp29 per saham",
+  "deck": "Puradelta Lestari (DMAS) mengoreksi jadwal dividen interim tunai Rp29 per saham senilai Rp1,4 triliun, dengan recording date 30 Oktober dan pembayaran 16 November 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMAS",
+   "dividen interim",
+   "Puradelta Lestari",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e2f3becce8_a4a138cab2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-catat-laba-bersih-naik-30-persen-ke-us-72-8-juta-per-9m26",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Catat Laba Bersih [Naik] 30 Persen ke US$72,8 Juta per 9M26",
+  "deck": "Energi Mega Persada (ENRG) melaporkan laba bersih sembilan bulan 2026 naik 30 persen jadi US$72,8 juta, didukung kas yang berlipat dan pinjaman bank yang menyusut.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "Energi Mega Persada",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028152059-65127-0/FinancialStatement-2026-III-ENRG.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpow-cetak-rugi-melonjak-jadi-rp11-6-miliar-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MPOW Cetak Rugi [Melonjak] jadi Rp11,6 Miliar Kuartal III 2026",
+  "deck": "Pendapatan MPOW susut hampir separuh jadi Rp10,9 miliar pada sembilan bulan 2026, sementara rugi bersih melonjak ke Rp11,6 miliar dan ekuitas tergerus jadi Rp92,5 miliar.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPOW",
+   "laporan keuangan",
+   "rugi bersih",
+   "utilitas listrik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028152018-65084-0/FinancialStatement-2026-III-MPOW.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tapg-laba-bersih-melonjak-31-ke-rp3-64-triliun",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Laba Bersih [Melonjak] 31% ke Rp3,64 Triliun",
+  "deck": "Laba bersih TAPG naik 31 persen menjadi Rp3,64 triliun pada sembilan bulan pertama 2026, ditopang kontribusi ventura bersama dan kas yang bertambah.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "laba bersih",
+   "laporan keuangan kuartal III",
+   "sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028152218-65240-0/FinancialStatement-2026-III-TAPG.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "myor-laba-bersih-9-bulan-naik-31-ke-rp2-47-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MYOR: [Laba] Bersih 9 Bulan Naik 31% ke Rp2,47 Triliun",
+  "deck": "Laba bersih Mayora Indah naik 31 persen jadi Rp2,47 triliun pada sembilan bulan pertama 2026, didorong perbaikan arus kas operasi dan penurunan utang bank jangka pendek.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MYOR",
+   "laporan keuangan",
+   "laba bersih",
+   "mayora indah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028151410-65119-0/FinancialStatement-2026-III-MYOR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cnko-bukukan-laba-rp165-m-ekuitas-tetap-negatif-rp899-m",
+  "category": "Aksi Korporasi",
+  "title": "CNKO Bukukan Laba Rp165 M, [Ekuitas] Tetap Negatif Rp899 M",
+  "deck": "Laba sembilan bulan CNKO naik 12,5 persen jadi Rp165,39 miliar, didorong pendapatan di luar usaha, sementara ekuitas perseroan masih defisit Rp898,99 miliar per akhir September 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CNKO",
+   "laporan keuangan kuartal III",
+   "batu bara",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028151622-64562-0/FinancialStatement-2026-III-CNKO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "roti-direktur-arief-alfanto-ajukan-pengunduran-diri",
   "category": "Aksi Korporasi",
   "title": "ROTI: Direktur Arief Alfanto Ajukan [Pengunduran Diri]",
@@ -6342,118 +6454,5 @@ var ARTICLES = [
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823326.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "gtra-teken-fasilitas-kredit-rp195-miliar-dari-bank-mandiri",
-  "category": "Aksi Korporasi",
-  "title": "GTRA Teken Fasilitas Kredit [Rp195 Miliar] dari Bank Mandiri",
-  "deck": "Grahaprima Suksesmandiri (GTRA) menandatangani perjanjian kredit investasi senilai Rp195 miliar dengan Bank Mandiri untuk membeli truk baru, setara 44,2 persen dari ekuitas perusahaan.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTRA",
-   "pinjaman korporasi",
-   "Bank Mandiri",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/fcd2ea60ab_aa2d13c631.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pudp-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "PUDP Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "Diminta BEI menjelaskan pergerakan transaksi sahamnya, Pudjiadi Prestige menyatakan tidak mengetahui ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PUDP",
-   "Pudjiadi Prestige",
-   "Unusual Market Activity",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5174cfe91_fea2a90b40.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ssms-karhutla-tak-ganggu-operasional-dan-produksi-2026",
-  "category": "Aksi Korporasi",
-  "title": "SSMS: [Karhutla] Tak Ganggu Operasional dan Produksi 2026",
-  "deck": "Menjawab permintaan penjelasan Bursa soal karhutla, SSMS menyatakan seluruh operasinya di Kalimantan Tengah belum terdampak, baik secara produksi maupun hukum.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SSMS",
-   "karhutla",
-   "sawit",
-   "Kalimantan Tengah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c659cb2679_4ec4878f61.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jsmr-jawab-permintaan-bei-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "JSMR Jawab Permintaan BEI soal [Volatilitas] Saham",
-  "deck": "Jasa Marga menegaskan tidak ada informasi material yang disembunyikan, dan menyebut pelemahan sahamnya bisa terkait sentimen peninjauan status pasar RI oleh MSCI.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JSMR",
-   "volatilitas saham",
-   "RUPSLB",
-   "MSCI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0a9714d448_a713470015.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-jadwalkan-rupslb-27-november-dps-ditutup-4-november",
-  "category": "Aksi Korporasi",
-  "title": "TOBA Jadwalkan [RUPSLB] 27 November, DPS Ditutup 4 November",
-  "deck": "PT TBS Energi Utama Tbk akan menggelar RUPSLB pada 27 November 2026 secara hybrid, dengan pemanggilan resmi berisi agenda rapat baru terbit 5 November 2026.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "RUPSLB",
-   "TBS Energi Utama",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/846a4c60c9_b9760adb14.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-dibuka-menguat-ke-level-5-310-85",
-  "category": "Pasar Modal",
-  "title": "[IHSG] Dibuka Menguat ke Level 5.310,85",
-  "deck": "IHSG dibuka naik 0,61 persen ke 5.310,85 pada Rabu pagi, diikuti penguatan indeks saham-saham besar LQ45 sebesar 0,81 persen.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/ihsg-dibuka-menguat-ke-level-5-310-85.jpg",
-  "imageV": "mvhwa322",
-  "tags": [
-   "ihsg",
-   "bei",
-   "bursa efek",
-   "lq45"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474232-pasar-saham-bergairah-ihsg-dibuka-melesat-ke-level-5310"
- },
- {
-  "slug": "lapd-jadwalkan-ulang-rupslb-agendakan-rights-issue-2-miliar-saham",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Jadwalkan Ulang RUPSLB, Agendakan [Rights Issue] 2 Miliar Saham",
-  "deck": "RUPSLB LAPD diundur ke 29 Oktober 2026, mengagendakan rights issue hingga 50,42% saham baru, penetapan PT JSI Sinergi Mas sebagai pengendali, serta pergantian nama dan alamat perusahaan.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "RUPSLB",
-   "rights issue",
-   "pemegang saham pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a1375f1db5_84a94516ab.pdf",
-  "sourceLabel": "IDX"
  }
 ];

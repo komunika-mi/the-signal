@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "yNkAI3HPHg0",
+  "title": "Ekonomi Kerakyatan untuk Indonesia Mendunia",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Rapimnas Kadin 2026 digelar pada 29-30 Oktober sebagai forum sinergi pemerintah dan dunia usaha untuk merumuskan arah kebijakan ekonomi serta program prioritas nasional.",
+  "takeaway": "Forum ini layak disimak karena memberi gambaran arah kebijakan ekonomi yang disepakati bersama antara pemerintah dan pelaku usaha.",
+  "terbit": "2026-10-28T11:51:19+00:00"
+ },
+ {
+  "id": "n3mhLIPKU4o",
+  "title": "Inovasi Cyber Waste Dorong Ekonomi Sirkular Pengelolaan Sampah",
+  "category": "Industri",
+  "program": "Inspirasi Pagi",
+  "summary": "Inovasi Cyber Waste mengubah pola pengelolaan sampah dari sistem linear, yaitu ambil, buat, buang, menjadi model ekonomi sirkular yang lebih berkelanjutan.",
+  "takeaway": "Pergeseran ke ekonomi sirkular ini relevan bagi pembaca karena membuka peluang model bisnis baru di sektor pengelolaan limbah.",
+  "terbit": "2026-10-28T12:06:43+00:00"
+ },
+ {
   "id": "UUGOuxFiB5s",
   "title": "Bawang Putih Ditanam Perdana di Kertajati untuk Ketahanan Pangan",
   "category": "Industri",

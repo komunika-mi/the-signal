@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "impor-migas-kini-lewat-lemigas-bahlil-pastikan-tanpa-apbn",
+  "category": "Energi",
+  "title": "Impor Migas Kini Lewat Lemigas, Bahlil Pastikan [Tanpa] APBN",
+  "deck": "Pemerintah mengalihkan sebagian pengadaan impor migas dari Pertamina ke Lemigas tanpa memakai APBN, tapi penerapannya masih menunggu konsolidasi dengan Pertamina.",
+  "image": "assets/img/impor-migas-kini-lewat-lemigas-bahlil-pastikan-tanpa-apbn.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T12:37:32.687Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/impor-migas-lewat-lemigas-masih-transisi-bahlil-pastikan-tak-pakai-apbn",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Lemigas",
+   "impor migas",
+   "Bahlil Lahadalia",
+   "Pertamina"
+  ],
+  "body": [
+   "Pemerintah sedang menata ulang jalur impor minyak dan gas bumi dengan mengalihkan sebagian pengadaan yang selama ini ditangani PT Pertamina ke Lemigas, lembaga riset migas di bawah Kementerian ESDM. Menteri ESDM Bahlil Lahadalia memastikan skema baru ini tidak dibiayai dari Anggaran Pendapatan dan Belanja Negara. Perubahan ini penting karena menyangkut siapa yang mengendalikan pasokan energi yang selama ini jadi urusan korporasi pelat merah.",
+   "Bahlil menjelaskan, peraturan presiden yang menjadi dasar kebijakan ini sudah terbit, tetapi pelaksanaannya masih dalam masa transisi. Pemerintah perlu berkonsolidasi dengan Pertamina lebih dulu sebelum skema diterapkan sepenuhnya, dan prosesnya tidak akan berjalan serta-merta. Skema ini hanya menyasar penugasan yang menyangkut kebutuhan orang banyak, sementara badan usaha swasta tidak diwajibkan mengikutinya.",
+   "Penataan ini terjadi di tengah ketergantungan impor energi yang masih besar. Bahlil menyebut Indonesia saat ini mengimpor sekitar 700 ribu hingga 750 ribu barel minyak per hari, sementara sekitar 80 persen kebutuhan elpiji nasional juga masih dipasok dari luar negeri.",
+   "Soal kabar potensi pasokan 30 juta barel minyak dari Uni Emirat Arab, Bahlil menegaskan rencana itu belum final dan masih sebatas penjajakan. Ia menyebut penentuan negara asal impor masih menjadi persoalan teknis yang belum diputuskan."
+  ],
+  "fotoAdegan": "Large oil tanker being guided by tugboats toward an industrial port terminal, cranes and storage tanks in the distance, overcast sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-impor-migas-lewat-lemigas-masih-transisi-bahlil-pastikan-tak-pakai-apbn-b2lm9ih.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah bukan soal angka, melainkan siapa yang pegang kendali: urusan impor migas untuk kebutuhan orang banyak dipindah dari Pertamina ke Lemigas, tanpa dana APBN, sementara perusahaan swasta dibebaskan dari aturan ini. Yang terdampak langsung adalah Pertamina, yang kehilangan sebagian kewenangan pengadaannya, dan Lemigas, yang mendapat peran baru di luar fungsi risetnya selama ini. Ada dua kemungkinan arah dari sini. Kalau konsolidasi dengan Pertamina selesai cepat dan skemanya benar-benar jalan, ini jadi pergeseran permanen cara negara mengelola impor energi stratgeis. Tapi kalau transisinya berlarut tanpa tenggat yang jelas, aturan ini berisiko cuma jadi payung hukum di atas kertas sementara praktik impor tetap dipegang Pertamina seperti sekarang, dan itu akan terlihat dari apakah Lemigas mulai benar-benar menjalankan penugasan pertamanya.",
+  "imageV": "mvs3v23p"
+ },
+ {
+  "slug": "ruu-migas-rancang-izin-hulu-satu-pintu-lewat-buk",
+  "category": "Energi",
+  "title": "RUU Migas Rancang Izin Hulu [Satu Pintu] Lewat BUK",
+  "deck": "Pemerintah mengusulkan Badan Usaha Khusus sebagai pintu tunggal izin hulu migas dan keringanan pajak saat eksplorasi dalam draf RUU Migas yang pembahasannya sudah 90 persen.",
+  "image": "assets/img/ruu-migas-rancang-izin-hulu-satu-pintu-lewat-buk.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T12:37:31.806Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tak-perlu-lagi-keliling-kementerian-izin-hulu-migas-bakal-cukup-di-satu-pintu",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "RUU Migas",
+   "BUK",
+   "Hulu Migas",
+   "ESDM"
+  ],
+  "body": [
+   "Pemerintah menyiapkan skema baru dalam Rancangan Undang-Undang Minyak dan Gas Bumi (RUU Migas) yang akan membuat proses perizinan hulu migas cukup diurus di satu lembaga, yakni Badan Usaha Khusus (BUK). Selama ini, kontraktor yang sudah menang tender kerap harus mengurus izin ke beberapa kementerian secara bergantian sebelum bisa mulai mengebor, yang menurut Menteri ESDM Bahlil Lahadalia membuat proses eksplorasi berjalan lambat. Perubahan ini penting karena pemerintah sedang berusaha menaikkan produksi minyak dalam negeri dan menekan impor, sementara proses perizinan yang berbelit selama ini jadi salah satu penghambat investasi di sektor hulu migas.",
+   "Bahlil mengatakan pembahasan Daftar Inventarisasi Masalah (DIM), yaitu kumpulan poin yang dibahas pemerintah dan DPR sebelum sebuah RUU disahkan, untuk RUU Migas sudah mencapai sekitar 90 persen. Salah satu poin pentingnya adalah pemberian kewenangan luas kepada BUK, termasuk soal perizinan, sehingga seluruh proses tidak lagi melibatkan banyak kementerian. Bahlil menyebut kepastian aturan menjadi prinsip utama yang dibutuhkan pelaku usaha, karena proses yang berbelit membuat investor ragu menanamkan modal.",
+   "Selain soal izin, draf RUU Migas juga mengusulkan keringanan pajak pada tahap eksplorasi. Menurut Bahlil, perusahaan migas tidak perlu membayar pajak selama kegiatan eksplorasi belum menghasilkan apa pun, dan kewajiban pajak baru berlaku setelah ditemukan cadangan yang bisa diproduksi. Ia menegaskan sebaliknya, jika eksplorasi sudah membawa hasil, perusahaan tetap wajib membayar pajak sesuai aturan.",
+   "Dalam acara FOREK Hulu Migas 2026 di Jakarta, Rabu (28/10), Bahlil juga meminta perusahaan pemegang kontrak yang sudah mengantongi persetujuan rencana pengembangan (plan of development) segera menjalankan proyeknya agar produksi minyak nasional bisa terkerek naik. Permintaan ini menjadi bagian dari upaya pemerintah mengejar target swasembada energi, yang menurut rencana penyederhanaan izin dan insentif pajak ini diharapkan membuat iklim investasi hulu migas lebih menarik bagi investor."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting pipe valves at an onshore oil drilling platform in Indonesia, early morning light, industrial equipment.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-tak-perlu-lagi-keliling-kementerian-izin-hulu-migas-bakal-cukup-di-satu-pintu-255vf4p.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Perubahan yang diusulkan ada pada rancangan undang-undang yang belum disahkan: pemerintah ingin membentuk satu badan khusus yang mengurus semua izin hulu minyak dan gas, menggantikan proses sekarang yang harus mondar-mandir ke beberapa kementerian. Dalam draf itu juga diusulkan agar perusahaan migas tidak perlu membayar pajak selama masih tahap mencari cadangan minyak dan belum menghasilkan, pajak baru berlaku setelah ada hasil. Yang paling terdampak adalah perusahaan pemegang kontrak kerja sama migas, karena merekalah yang selama ini menunggu lama akibat izin berpindah dari satu kementerian ke kementerian lain. Tapi pembahasan poin-poin rancangan ini baru mencapai sekitar 90 persen antara pemerintah dan DPR, sehingga rincian final soal batas kewenangan badan baru ini dan skema pajaknya masih bisa berubah. Yang perlu dipantau adalah kapan pembahasan ini selesai dan RUU Migas resmi diserahkan untuk disahkan, karena baru di titik itu aturan satu pintu ini benar-benar berlaku.",
+  "imageV": "mvs3v3u5"
+ },
+ {
   "slug": "ipcm-laba-bersih-tergerus-meski-pendapatan-naik-5-33",
   "category": "Aksi Korporasi",
   "title": "IPCM: Laba Bersih [Tergerus] Meski Pendapatan Naik 5,33%",
@@ -183,6 +239,32 @@ var ARTICLES = [
   "fotoAdegan": "Cement bags stacked on wooden pallets inside a large industrial warehouse, a forklift moving in dusty grey light",
   "takeaway": "Laporan ini netral untuk saat ini, karena isinya baru pemberitahuan prosedural dan belum membuka apa sebenarnya aksi korporasi yang melatarinya, sehingga dampaknya ke pemegang saham belum bisa dinilai. Yang perlu diperhatikan, laporan keuangan kuartalan umumnya tidak wajib diaudit, jadi keputusan mengaudit laporan per September 2026 ini biasanya jadi syarat administratif untuk langkah korporasi yang lebih besar, misalnya penerbitan saham baru atau penataan ulang struktur keuangan, yang bila terjadi bisa mengubah jumlah saham beredar atau posisi modal perseroan. Yang perlu dipantau berikutnya adalah pengumuman lanjutan soal bentuk aksi korporasi tersebut, serta kewajiban SMBR menyerahkan laporan keuangan teraudit itu ke BEI dan OJK paling lambat 31 Desember 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pegadaian-raih-penghargaan-transformasi-digital-2026",
+  "category": "BUMN",
+  "title": "Pegadaian Raih Penghargaan [Transformasi Digital] 2026",
+  "deck": "Pegadaian meraih The Finance Special Award 2026 kategori The Most Innovative Digital Transformation atas inovasi layanan digital gadai.",
+  "image": "assets/img/pegadaian-raih-penghargaan-transformasi-digital-2026.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T17:16:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475452-pegadaian-raih-the-finance-special-award-2026-berkat-inovasi-transformasi-digital",
+  "tags": [
+   "pegadaian",
+   "bumn",
+   "transformasi digital",
+   "penghargaan"
+  ],
+  "body": [
+   "PT Pegadaian (Persero) menerima The Finance Special Award 2026 untuk kategori The Most Innovative Digital Transformation. Penghargaan ini diserahkan dalam The Finance Executive Forum 2026 di Hotel Shangri-La, Jakarta, pada Kamis, 22 Oktober 2026, dan diterima langsung oleh SEVP Transformation Office Pegadaian, Rully Yusuf. Bagi BUMN yang bergerak di layanan gadai dan pembiayaan ini, pengakuan tersebut menjadi penanda bahwa upaya digitalisasi layanannya mendapat perhatian dari kalangan industri keuangan.",
+   "Rully menyampaikan bahwa transformasi digital yang dijalankan perusahaan tidak sekadar soal mengganti cara kerja manual dengan teknologi, tetapi diarahkan untuk memperluas akses masyarakat terhadap layanan keuangan serta mempermudah proses transaksi. Forum penghargaan ini mengambil tema besar soal menjaga ketahanan industri keuangan di tengah ketidakpastian ekonomi, yang menurut Pegadaian selaras dengan strategi perusahaan memperkuat daya saing dan ketahanan bisnisnya melalui pembaruan ekosistem layanan.",
+   "Dalam sambutannya, Rully menegaskan penghargaan ini menjadi pendorong bagi Pegadaian untuk terus mengembangkan inovasi dan meningkatkan kualitas layanan kepada masyarakat, dengan tujuan akhir solusi keuangan yang lebih mudah, cepat, aman, dan nyaman diakses."
+  ],
+  "fotoAdegan": "Customer handing over a small jewelry pouch at a pawnshop service counter while a teller checks a tablet, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/28/6ae1c9a53439f-pegadaian-raih-the-finance-special-award-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari berita ini hanya satu hal konkret: Pegadaian mendapat pengakuan eksternal, dari lembaga The Finance, atas program transformasi digitalnya, diberikan pada 22 Oktober di forum eksekutif industri keuangan. Pihak yang terdampak langsung adalah Pegadaian sendiri dari sisi reputasi, dan secara tidak langsung nasabah gadai yang memakai layanan digitalnya. Berita ini tidak memuat data konkret soal hasil transformasi itu sendiri, seperti jumlah pengguna layanan digital, nilai transaksi yang berpindah dari offline ke online, atau target ke depan, sehingga belum bisa dibaca apakah penghargaan ini mencerminkan perubahan nyata di lapangan atau sekadar pengakuan seremonial. Yang perlu dipantau adalah laporan kinerja Pegadaian berikutnya, misalnya laporan keuangan atau laporan tahunan, untuk melihat apakah klaim transformasi digital ini diikuti pertumbuhan nyata pada jumlah nasabah atau transaksi digitalnya.",
+  "imageV": "mvs3v48k"
  },
  {
   "slug": "dvla-laba-turun-13-arus-kas-operasi-anjlok-36",
@@ -605,7 +687,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari rakor ini bukan aturan baru, melainkan lima komitmen kerja sama pemerintah pusat dan daerah di Sulampua, termasuk rencana proyek percontohan BUMN logistik untuk mengangkut komoditas pemicu inflasi dan menghubungkan petani-nelayan langsung ke pembeli seperti Perumda dan BUMD. Yang terdampak jelas adalah konsumen di sebelas provinsi yang inflasinya sudah di atas batas aman nasional, terutama Sulawesi Utara yang inflasinya lebih dari dua kali ambang batas, serta petani dan nelayan setempat yang diharapkan mendapat akses pembiayaan dan pasar lebih mudah. Arahnya terlihat ke pendekatan jangka menengah, memperbaiki jalur distribusi antarpulau ketimbang menahan harga sesaat, tapi siaran pers ini belum menyebut komoditas spesifik, anggaran, atau tenggat proyek logistik BUMN tersebut, sehingga belum jelas seberapa cepat itu bisa menekan harga. Ukuran paling dekat untuk menilai arah ini adalah data inflasi pangan bergejolak pada akhir tahun, karena pemerintah menargetkan inflasi pangan ini turun ke kisaran 3 sampai 5 persen, sementara permintaan Natal dan Tahun Baru biasanya justru mendorong harga naik.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "zyrx-rugi-rp21-8-miliar-di-kuartal-iii-2026-penjualan-turun-20",

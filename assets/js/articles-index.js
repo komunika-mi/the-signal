@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "impor-migas-kini-lewat-lemigas-bahlil-pastikan-tanpa-apbn",
+  "category": "Energi",
+  "title": "Impor Migas Kini Lewat Lemigas, Bahlil Pastikan [Tanpa] APBN",
+  "deck": "Pemerintah mengalihkan sebagian pengadaan impor migas dari Pertamina ke Lemigas tanpa memakai APBN, tapi penerapannya masih menunggu konsolidasi dengan Pertamina.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/impor-migas-kini-lewat-lemigas-bahlil-pastikan-tanpa-apbn.jpg",
+  "imageV": "mvs3v23p",
+  "tags": [
+   "Lemigas",
+   "impor migas",
+   "Bahlil Lahadalia",
+   "Pertamina"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/impor-migas-lewat-lemigas-masih-transisi-bahlil-pastikan-tak-pakai-apbn",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "ruu-migas-rancang-izin-hulu-satu-pintu-lewat-buk",
+  "category": "Energi",
+  "title": "RUU Migas Rancang Izin Hulu [Satu Pintu] Lewat BUK",
+  "deck": "Pemerintah mengusulkan Badan Usaha Khusus sebagai pintu tunggal izin hulu migas dan keringanan pajak saat eksplorasi dalam draf RUU Migas yang pembahasannya sudah 90 persen.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/ruu-migas-rancang-izin-hulu-satu-pintu-lewat-buk.jpg",
+  "imageV": "mvs3v3u5",
+  "tags": [
+   "RUU Migas",
+   "BUK",
+   "Hulu Migas",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tak-perlu-lagi-keliling-kementerian-izin-hulu-migas-bakal-cukup-di-satu-pintu",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "ipcm-laba-bersih-tergerus-meski-pendapatan-naik-5-33",
   "category": "Aksi Korporasi",
   "title": "IPCM: Laba Bersih [Tergerus] Meski Pendapatan Naik 5,33%",
@@ -115,6 +151,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/891a0d3db6_5112459509.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pegadaian-raih-penghargaan-transformasi-digital-2026",
+  "category": "BUMN",
+  "title": "Pegadaian Raih Penghargaan [Transformasi Digital] 2026",
+  "deck": "Pegadaian meraih The Finance Special Award 2026 kategori The Most Innovative Digital Transformation atas inovasi layanan digital gadai.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/pegadaian-raih-penghargaan-transformasi-digital-2026.jpg",
+  "imageV": "mvs3v48k",
+  "tags": [
+   "pegadaian",
+   "bumn",
+   "transformasi digital",
+   "penghargaan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475452-pegadaian-raih-the-finance-special-award-2026-berkat-inovasi-transformasi-digital"
  },
  {
   "slug": "dvla-laba-turun-13-arus-kas-operasi-anjlok-36",
@@ -6409,53 +6462,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7171/kek-jadi-motor-investasi-nasional-pemerintah-dorong-penguatan-daya-saing-dan-kolaborasi-antar-kek",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "halo-bukukan-laba-rp20-5-miliar-modal-tambah-dari-waran",
-  "category": "Aksi Korporasi",
-  "title": "HALO Bukukan Laba Rp20,5 Miliar, Modal Tambah dari [Waran]",
-  "deck": "Laba bersih sembilan bulan HALO naik jadi Rp20,52 miliar dari Rp7,88 miliar, didorong efisiensi biaya dan suntikan dana pelaksanaan waran Rp23,05 miliar.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HALO",
-   "laporan keuangan",
-   "laba bersih",
-   "waran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261021114307-64571-0/FinancialStatement-2026-III-HALO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iiff-terbitkan-obligasi-rp1-7-triliun-kupon-tertinggi-7-6-persen",
-  "category": "Aksi Korporasi",
-  "title": "IIFF [terbitkan] obligasi Rp1,7 triliun, kupon tertinggi 7,6 persen",
-  "deck": "IIFF menawarkan obligasi tahap II senilai Rp1,7 triliun berperingkat AAA, bagian dari program penawaran umum berkelanjutan senilai Rp6 triliun.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IIFF",
-   "obligasi",
-   "pasar modal",
-   "infrastruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4abdfc5614_d92f556fbd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oasa-koreksi-dana-right-issue-rp400-m-dialihkan",
-  "category": "Aksi Korporasi",
-  "title": "OASA Koreksi Dana Right Issue, Rp400 M [Dialihkan]",
-  "deck": "OASA koreksi laporan realisasi dana rights issue 2022: Rp400,5 miliar yang semula untuk proyek IKN, Semarang, dan Telesys Indonesia dialihkan ke modal kerja grup.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OASA",
-   "rights issue",
-   "penggunaan dana",
-   "energi terbarukan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/802d50fff7_fd1e388814.pdf",
-  "sourceLabel": "IDX"
  }
 ];

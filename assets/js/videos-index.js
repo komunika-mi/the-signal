@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "yNkAI3HPHg0",
+  "title": "Ekonomi Kerakyatan untuk Indonesia Mendunia",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Rapimnas Kadin 2026 digelar pada 29-30 Oktober sebagai forum sinergi pemerintah dan dunia usaha untuk merumuskan arah kebijakan ekonomi serta program prioritas nasional.",
+  "takeaway": "Forum ini layak disimak karena memberi gambaran arah kebijakan ekonomi yang disepakati bersama antara pemerintah dan pelaku usaha."
+ },
+ {
+  "id": "n3mhLIPKU4o",
+  "title": "Inovasi Cyber Waste Dorong Ekonomi Sirkular Pengelolaan Sampah",
+  "category": "Industri",
+  "program": "Inspirasi Pagi",
+  "summary": "Inovasi Cyber Waste mengubah pola pengelolaan sampah dari sistem linear, yaitu ambil, buat, buang, menjadi model ekonomi sirkular yang lebih berkelanjutan.",
+  "takeaway": "Pergeseran ke ekonomi sirkular ini relevan bagi pembaca karena membuka peluang model bisnis baru di sektor pengelolaan limbah."
+ },
+ {
   "id": "UUGOuxFiB5s",
   "title": "Bawang Putih Ditanam Perdana di Kertajati untuk Ketahanan Pangan",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Indonesia Sharia Economic Festival (ISEF) 2026 yang ke-13 resmi dibuka oleh Gubernur Bank Indonesia Destry Damayanti bersama Wakil Menteri Koordinator Bidang Perekonomian Dradjad Hari Wibowo.",
   "takeaway": "Perhelatan ini relevan bagi pembaca ekonomi karena menunjukkan arah kebijakan otoritas moneter dalam mengembangkan ekonomi syariah sebagai salah satu penopang pertumbuhan nasional."
- },
- {
-  "id": "9GoNWxwKzgc",
-  "title": "Kadin Dukung UMKM dalam Pameran Agrinex 2026",
-  "category": "UMKM",
-  "program": "Kabar Pagi",
-  "summary": "Kamar Dagang dan Industri Indonesia mendukung pemberdayaan UMKM serta ekosistem agribisnis dalam ajang Agrinex Expo 2026.",
-  "takeaway": "Relevan bagi pembaca karena menyoroti upaya penguatan UMKM dan sektor agribisnis nasional."
- },
- {
-  "id": "R6K-ZpuT-cc",
-  "title": "Presiden Prabowo Gelar Ratas Bahas Ekonomi dan IHSG",
-  "category": "Makroekonomi",
-  "program": "Kabar Pagi",
-  "summary": "Presiden Prabowo Subianto menggelar rapat terbatas bersama menteri ekonomi, Gubernur Bank Indonesia, dan OJK di Istana Merdeka untuk membahas kondisi ekonomi dan pergerakan IHSG.",
-  "takeaway": "Penting bagi pembaca karena menunjukkan respons pemerintah terhadap dinamika pasar modal dan stabilitas ekonomi."
  }
 ];

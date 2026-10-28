@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "supr-perpanjang-kredit-rp2-triliun-ke-oktober-2027",
+  "category": "Aksi Korporasi",
+  "title": "SUPR [Perpanjang] Kredit Rp2 Triliun ke Oktober 2027",
+  "deck": "Solusi Tunas Pratama memperpanjang fasilitas kredit Rp2 triliun dari Bank CIMB Niaga hingga 31 Oktober 2027, dijamin oleh induk usahanya, Protelindo dan Iforte.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUPR",
+   "transaksi material",
+   "kredit bank",
+   "Protelindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/895597405e_7cee1c6ed8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "trja-laba-naik-92-meski-pendapatan-turun-15-8",
+  "category": "Aksi Korporasi",
+  "title": "TRJA: [Laba] Naik 92% Meski Pendapatan Turun 15,8%",
+  "deck": "Laba bersih Transkon Jaya naik jadi Rp9,52 miliar pada sembilan bulan 2026, didorong penjualan aset tetap, sementara pendapatan usaha turun ke Rp327,6 miliar.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRJA",
+   "Transkon Jaya",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028232551-65367-0/FinancialStatement-2026-III-TRJA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "coin-berbalik-rugi-rp40-8-miliar-pada-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "COIN Berbalik [Rugi] Rp40,8 Miliar pada Semester I 2026",
+  "deck": "PT Indokripto Koin Semesta Tbk membalik laba Rp25,5 miliar tahun lalu menjadi rugi Rp40,8 miliar pada semester I 2026, seiring pendapatan yang anjlok hampir 35 persen.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "COIN",
+   "laporan keuangan",
+   "aset kripto",
+   "emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028222353-65338-0/FinancialStatement-2026-II-COIN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgeo-bukukan-laba-bersih-us-126-62-juta-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Bukukan [Laba] Bersih US$126,62 Juta Sembilan Bulan 2026",
+  "deck": "Materi public expose tahunan PGEO: pendapatan US$352,20 juta, laba bersih US$126,62 juta untuk 9M2026, dan tenggat free float 12,5 persen sebelum Maret 2027.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "Pertamina Geothermal Energy",
+   "public expose",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/02d01566ce_df489eec30.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "astra-umumkan-pemenang-satu-indonesia-awards-2026",
   "category": "Bisnis",
   "title": "Astra Umumkan [Pemenang] SATU Indonesia Awards 2026",
@@ -20,6 +84,86 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475501-peringati-sumpah-pemuda-astra-rilis-pemenang-17th-satu-indonesia-awards-2026-dan-kick-off-kontribusi-sosial-70-tahun"
+ },
+ {
+  "slug": "soho-cetak-laba-bersih-naik-27-jadi-rp558-75-miliar-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "SOHO Cetak Laba Bersih [Naik 27%] jadi Rp558,75 Miliar di 9M26",
+  "deck": "Laba bersih Soho Global Health naik 27 persen menjadi Rp558,75 miliar pada sembilan bulan 2026, ditopang kenaikan pendapatan, sementara kas perusahaan menyusut akibat dividen besar.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOHO",
+   "laporan keuangan",
+   "farmasi",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028215323-65216-0/FinancialStatement-2026-III-SOHO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mmix-jawab-permintaan-bei-klaim-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "MMIX Jawab Permintaan BEI, Klaim Tak Ada [Informasi Material]",
+  "deck": "Merespons surat BEI soal lonjakan volatilitas transaksi, MMIX menyatakan tidak ada informasi material dan pengendali tidak berencana mengubah kepemilikan sahamnya.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MMIX",
+   "volatilitas transaksi",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4a4e2510e1_13a51a6222.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "keju-laba-naik-9-tapi-arus-kas-operasi-turun-tajam",
+  "category": "Aksi Korporasi",
+  "title": "KEJU: Laba Naik 9%, tapi [Arus Kas Operasi] Turun Tajam",
+  "deck": "Laba bersih KEJU naik 9,2 persen jadi Rp161,54 miliar pada sembilan bulan 2026, tapi utang bank baru dan kas yang menyusut separuh mengiringi ekspansi pabriknya.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KEJU",
+   "laporan keuangan",
+   "arus kas",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028213557-64643-0/FinancialStatement-2026-III-KEJU.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vici-laba-turun-26-utang-bank-jangka-pendek-meroket",
+  "category": "Aksi Korporasi",
+  "title": "VICI: Laba Turun 26%, Utang Bank Jangka Pendek [Meroket]",
+  "deck": "Laba bersih Victoria Care turun 26 persen jadi Rp87,7 miliar pada sembilan bulan 2026, sementara utang bank jangka pendek melonjak jadi Rp100 miliar dari sebelumnya Rp3 miliar.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "laporan keuangan",
+   "utang bank",
+   "consumer goods"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028212348-64925-0/FinancialStatement-2026-III-VICI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "airasia-indonesia-cmpp-catat-rugi-rp1-74-triliun-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "AirAsia Indonesia (CMPP) Catat [Rugi] Rp1,74 Triliun di Kuartal III",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan rugi bersih AirAsia Indonesia melonjak ke Rp1,74 triliun, sementara defisit ekuitas membesar menjadi Rp12,47 triliun.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMPP",
+   "AirAsia Indonesia",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028211848-65264-0/FinancialStatement-2026-III-CMPP.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "mcor-laba-kuartal-iii-turun-5-8-jadi-rp217-44-miliar",
@@ -6310,151 +6454,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022102534-64721-0/FinancialStatement-2026-III-DCII.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "yule-laba-kuartal-iii-naik-27-ambil-utang-bank-rp100-m",
-  "category": "Aksi Korporasi",
-  "title": "YULE: Laba Kuartal III Naik 27%, Ambil [Utang Bank] Rp100 M",
-  "deck": "Laba bersih sembilan bulan YULE naik 27 persen jadi Rp22,68 miliar, tapi kas menyusut tajam dan perseroan menambah utang bank Rp100 miliar untuk mendanai perdagangan efek.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YULE",
-   "sekuritas",
-   "laporan keuangan",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022023320-64483-0/FinancialStatement-2026-III-YULE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unvr-bayar-dividen-rp4-33-triliun-laba-9-bulan-naik-26",
-  "category": "Aksi Korporasi",
-  "title": "UNVR Bayar [Dividen] Rp4,33 Triliun, Laba 9 Bulan Naik 26%",
-  "deck": "Laba bersih Unilever Indonesia naik 26 persen jadi Rp4,2 triliun dalam sembilan bulan, ditopang gain divestasi, sementara dividen jumbo menggerus kas dan ekuitas perseroan.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNVR",
-   "laporan keuangan",
-   "dividen",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022080911-64567-0/FinancialStatement-2026-III-UNVR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgl-batalkan-pmthmetd-piutang-pemegang-saham-rp21-6-m",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Batalkan [PMTHMETD], Piutang Pemegang Saham Rp21,6 M",
-  "deck": "Menjawab permintaan penjelasan Bursa, PPGL membatalkan agenda penambahan modal PMTHMETD dalam RUPSLB dan mengungkap piutang Rp21,62 miliar dari pemegang saham mayoritas atas divestasi JAYA.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "RUPSLB",
-   "PMTHMETD",
-   "divestasi JAYA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a37abebeff_0e18207c25.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgl-pastikan-rasio-saham-bonus-6-4-rupslb-23-oktober",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Pastikan Rasio [Saham Bonus] 6:4, RUPSLB 23 Oktober",
-  "deck": "Koreksi keterbukaan informasi PPGL memastikan pembagian saham bonus rasio 6:4 dari kapitalisasi agio saham, menunggu persetujuan RUPSLB 23 Oktober 2026.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "saham bonus",
-   "RUPSLB",
-   "freight forwarding"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1acefc2dfd_a07c90872b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-ungkap-modus-lowongan-kerja-palsu",
-  "category": "Ketenagakerjaan",
-  "title": "Pegadaian Ungkap Modus Lowongan Kerja [Palsu]",
-  "deck": "Pegadaian mengingatkan pencari kerja mewaspadai surat panggilan wawancara palsu yang meminta pembayaran tiket atau transfer uang.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/pegadaian-ungkap-modus-lowongan-kerja-palsu.jpg",
-  "imageV": "mvia5v5n",
-  "tags": [
-   "lowongan kerja palsu",
-   "penipuan rekrutmen",
-   "pegadaian",
-   "tips mencari kerja"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474297-jangan-tertipu-lowongan-kerja-palsu-pegadaian-ungkap-6-ciri-rekrutmen-loker-bodong"
- },
- {
-  "slug": "mglv-panggil-rupslb-untuk-jaminan-aset-lebih-dari-50",
-  "category": "Aksi Korporasi",
-  "title": "MGLV panggil RUPSLB untuk [jaminan] aset lebih dari 50%",
-  "deck": "PT NexAI Digital Infrastruktur Tbk memanggil RUPSLB 12 November 2026 untuk meminta persetujuan menjaminkan lebih dari separuh kekayaan bersihnya demi memperoleh pinjaman.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "RUPSLB",
-   "jaminan aset",
-   "pinjaman"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/33e51e5646_96eafdf159.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbss-koreksi-jadwal-buyback-saham-rampung-31-desember",
-  "category": "Aksi Korporasi",
-  "title": "MBSS Koreksi Jadwal [Buyback] Saham, Rampung 31 Desember",
-  "deck": "MBSS merilis koreksi keterbukaan informasi buyback, menegaskan periode pembelian kembali saham berlangsung 22 Oktober hingga 31 Desember 2026.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBSS",
-   "buyback saham",
-   "pelayaran",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/34234077f9_ee7130d939.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sanf-bagikan-dividen-interim-rp15-52-miliar-rp27-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "SANF bagikan [dividen] interim Rp15,52 miliar, Rp27 per saham",
-  "deck": "Surya Artha Nusantara Finance (SANF) resmi membagikan dividen interim senilai Rp15,52 miliar atau Rp27 per saham, dibayarkan 23 Oktober 2026.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SANF",
-   "dividen interim",
-   "ASTRA Financial",
-   "perusahaan pembiayaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93171911c7_0f01ef762e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jasa-marga-pertimbangkan-beli-kembali-saham-jsmr",
-  "category": "Pasar Modal",
-  "title": "Jasa Marga [Pertimbangkan] Beli Kembali Saham JSMR",
-  "deck": "Di tengah gejolak pasar modal, Jasa Marga membuka opsi buyback saham JSMR, namun manajemen menyebut keputusan masih menunggu kajian menyeluruh.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/jasa-marga-pertimbangkan-beli-kembali-saham-jsmr.jpg",
-  "imageV": "mvia5vqr",
-  "tags": [
-   "JSMR",
-   "Jasa Marga",
-   "buyback saham",
-   "pasar modal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474282-respons-dinamika-bursa-jasa-marga-pertimbangkan-pembelian-kembali-saham-jsmr"
  }
 ];

@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "supr-perpanjang-kredit-rp2-triliun-ke-oktober-2027",
+  "category": "Aksi Korporasi",
+  "title": "SUPR [Perpanjang] Kredit Rp2 Triliun ke Oktober 2027",
+  "deck": "Solusi Tunas Pratama memperpanjang fasilitas kredit Rp2 triliun dari Bank CIMB Niaga hingga 31 Oktober 2027, dijamin oleh induk usahanya, Protelindo dan Iforte.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T23:33:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/895597405e_7cee1c6ed8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPR",
+  "tags": [
+   "SUPR",
+   "transaksi material",
+   "kredit bank",
+   "Protelindo"
+  ],
+  "body": [
+   "PT Solusi Tunas Pratama Tbk (SUPR) menandatangani Perubahan Ketiga atas Perjanjian Kredit dengan PT Bank CIMB Niaga Tbk pada 28 Oktober 2026. Perjanjian yang awalnya diteken 9 Desember 2024 ini memperpanjang jangka waktu fasilitas kredit senilai Rp2 triliun sampai dengan 31 Oktober 2027. Peminjam dalam perjanjian ini bukan SUPR sendiri, melainkan empat pihak sekaligus: SUPR, PT Profesional Telekomunikasi Indonesia (Protelindo), PT Iforte Solusi Infotek (Iforte), dan PT Inti Bangun Sejahtera Tbk (IBST).",
+   "Nilai fasilitas Rp2 triliun itu setara 24,93 persen dari ekuitas SUPR berdasarkan laporan keuangan audit per 31 Desember 2025, sehingga transaksi ini masuk kategori transaksi material menurut aturan OJK. Meski begitu, transaksi ini dikecualikan dari keharusan memakai jasa penilai independen karena tergolong pinjaman langsung dari bank. Dalam perjanjian ini, Protelindo dan Iforte memberikan jaminan perusahaan atau corporate guarantee, yaitu komitmen tertulis bahwa mereka ikut menanggung kewajiban pembayaran apabila Para Peminjam gagal bayar.",
+   "Protelindo tercatat sebagai pemegang 99,93 persen saham SUPR secara langsung dan tidak langsung, sementara Iforte adalah anak usaha Protelindo yang 99,99 persen sahamnya dimiliki Protelindo, dan IBST adalah anak usaha Iforte dengan kepemilikan serupa. Karena hubungan kepemilikan ini, transaksi digolongkan sebagai transaksi afiliasi sesuai POJK 42, tetapi perseroan menyatakan ini bukan transaksi benturan kepentingan. Manajemen SUPR menyebut perpanjangan fasilitas ini tidak berdampak negatif material terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians checking equipment at the base of a tall steel tower in a rural Indonesian landscape, late afternoon light",
+  "takeaway": "Laporan ini condong netral karena jumlah pinjamannya tidak bertambah, Rp2 triliun yang sama dengan sebelumnya, dan yang berubah hanya jangka waktunya yang mundur ke 31 Oktober 2027. Pos yang tersentuh adalah beban bunga, yaitu biaya tahunan yang harus dibayar perseroan atas pinjaman ini: dengan tenor yang diperpanjang, SUPR punya waktu lebih longgar sebelum harus melunasi atau mencari pendanaan pengganti, meski kewajiban bunga tetap mengalir selama fasilitas aktif. Besaran pinjaman yang mencapai 24,93 persen dari ekuitas perseroan membuatnya tergolong transaksi material yang wajib diumumkan, dan jaminan dari Protelindo serta Iforte menunjukkan risiko ini ditanggung bersama di dalam satu kelompok usaha, bukan dari pihak luar. Yang perlu dipantau berikutnya adalah tanggal jatuh tempo baru pada 31 Oktober 2027, karena pada saat itu SUPR dan kelompok usahanya harus kembali bernegosiasi dengan bank atau melunasi fasilitas ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "trja-laba-naik-92-meski-pendapatan-turun-15-8",
+  "category": "Aksi Korporasi",
+  "title": "TRJA: [Laba] Naik 92% Meski Pendapatan Turun 15,8%",
+  "deck": "Laba bersih Transkon Jaya naik jadi Rp9,52 miliar pada sembilan bulan 2026, didorong penjualan aset tetap, sementara pendapatan usaha turun ke Rp327,6 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T23:13:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028232551-65367-0/FinancialStatement-2026-III-TRJA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRJA",
+  "tags": [
+   "TRJA",
+   "Transkon Jaya",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Transkon Jaya Tbk (TRJA) menyampaikan koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perseroan tercatat Rp327,6 miliar, turun 15,8 persen dari Rp388,9 miliar pada periode yang sama tahun 2025. Laba kotor ikut turun dari Rp55,9 miliar menjadi Rp41,9 miliar. Namun laba bersih periode berjalan justru naik 92 persen, dari Rp4,96 miliar menjadi Rp9,52 miliar, dengan laba per saham naik dari Rp3,28 menjadi Rp6,30. Kenaikan laba ini ditopang oleh penghasilan lain-lain neto yang melonjak ke Rp26,3 miliar dari Rp9,6 miliar, terutama dari penjualan aset tetap senilai Rp81,1 miliar, serta beban keuangan yang turun dari Rp22,9 miliar menjadi Rp19,0 miliar.",
+   "Dari sisi posisi keuangan, total aset perseroan per 30 September 2026 tercatat Rp731,2 miliar, turun dari Rp769,5 miliar pada akhir Desember 2025, sejalan dengan kas dan setara kas yang turun dari Rp32,0 miliar menjadi Rp27,7 miliar. Total liabilitas turun dari Rp381,6 miliar menjadi Rp333,8 miliar setelah perseroan mempercepat pelunasan utang pembiayaan konsumen dan liabilitas sewa, meski pada periode ini perseroan juga menarik pinjaman bank baru dengan saldo akhir Rp53,8 miliar. Total ekuitas naik dari Rp387,9 miliar menjadi Rp397,4 miliar, dengan modal saham tetap Rp151,02 miliar atas 1.510.200.000 lembar saham.",
+   "Arus kas dari aktivitas operasi turun dari Rp149,2 miliar menjadi Rp103,3 miliar. Arus kas investasi berbalik menjadi negatif Rp35,3 miliar, karena belanja aset tetap melonjak ke Rp123,2 miliar dari sebelumnya hanya Rp12,6 miliar, meski sebagian tertutup oleh penerimaan penjualan aset tetap Rp81,1 miliar. Arus kas pendanaan tercatat negatif Rp72,2 miliar meski perseroan menerima pencairan pinjaman bank Rp60,2 miliar dan pinjaman pemegang saham Rp25 miliar, karena dipakai untuk melunasi utang pembiayaan konsumen dan sewa. Laporan ini juga mencantumkan tiga anak usaha: PT Borneo Sentana Gemilang dan PT Multinet Perkasa Indonesia yang masing-masing dimiliki 99,8 persen dan sudah beroperasi di Balikpapan sejak 2022, serta PT Samudra Tara Indonesia yang dimiliki 99,9 persen untuk jasa angkutan laut dalam dan luar negeri, namun belum beroperasi hingga akhir September 2026."
+  ],
+  "fotoAdegan": "Rows of white rental SUVs and vans parked in an open vehicle yard at a logistics depot, overcast tropical sky.",
+  "takeaway": "Laporan ini kami nilai netral, karena kenaikan laba bersih 92 persen di atas kertas ditopang item di luar bisnis inti, yaitu penjualan aset tetap senilai Rp81,1 miliar, sementara pendapatan usaha dari jasa sewa kendaraan justru turun 15,8 persen dan laba kotor turun hampir seperempat. Yang perlu dicermati adalah arus kas dari aktivitas operasi, yakni uang tunai yang benar-benar masuk dari bisnis harian, karena pos ini turun dari Rp149,2 miliar menjadi Rp103,3 miliar, sinyal bahwa mesin pendapatan utama melambat meski laba akhir terlihat membaik; begitu juga ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi utang, yang naik ke Rp397,4 miliar seiring liabilitas yang turun ke Rp333,8 miliar karena perseroan mempercepat pelunasan utang pembiayaan. Yang perlu dipantau berikutnya adalah penggunaan pinjaman bank baru Rp60,2 miliar yang dicairkan pada periode ini, apakah untuk memperkuat armada sewa atau sekadar menutup jatuh tempo utang lama, serta kapan anak usaha baru PT Samudra Tara Indonesia yang bergerak di jasa angkutan laut mulai beroperasi dan menyumbang pendapatan, karena sampai akhir September 2026 unit ini masih belum berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "coin-berbalik-rugi-rp40-8-miliar-pada-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "COIN Berbalik [Rugi] Rp40,8 Miliar pada Semester I 2026",
+  "deck": "PT Indokripto Koin Semesta Tbk membalik laba Rp25,5 miliar tahun lalu menjadi rugi Rp40,8 miliar pada semester I 2026, seiring pendapatan yang anjlok hampir 35 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T22:14:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028222353-65338-0/FinancialStatement-2026-II-COIN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "COIN",
+  "tags": [
+   "COIN",
+   "laporan keuangan",
+   "aset kripto",
+   "emiten"
+  ],
+  "body": [
+   "PT Indokripto Koin Semesta Tbk (COIN) menyampaikan koreksi atas laporan keuangan interim periode enam bulan yang berakhir 30 Juni 2026 kepada Otoritas Jasa Keuangan pada 28 Oktober 2026. Laporan yang ditelaah secara terbatas oleh KAP Amir Abadi Jusuf, Aryanto, Mawar dan Rekan dengan partner penandatangan Jul Edy Siahaan ini memperoleh opini wajar tanpa modifikasian, tanpa temuan hal audit utama.",
+   "Dari sisi kinerja, pendapatan perusahaan holding aset kripto ini turun 34,8 persen, dari Rp113,15 miliar pada semester I 2025 menjadi Rp73,78 miliar pada semester I 2026. Beban umum dan administrasi justru naik dari Rp90,57 miliar menjadi Rp121,48 miliar, sehingga perusahaan yang semula membukukan laba usaha Rp22,58 miliar kini mencatat rugi usaha Rp47,70 miliar. Setelah pendapatan dan beban keuangan serta pajak, perusahaan membukukan rugi bersih Rp40,79 miliar, berbalik dari laba bersih Rp25,52 miliar pada periode yang sama tahun lalu. Rugi per saham tercatat Rp2,77, dibanding laba per saham Rp2,04 pada semester I 2025.",
+   "Di sisi neraca, total ekuitas turun 2,63 persen menjadi Rp1.508,01 miliar dari Rp1.548,80 miliar pada akhir 2025, sejalan dengan rugi periode berjalan. Total liabilitas justru turun tajam 63,45 persen, dari Rp53,71 miliar menjadi Rp19,63 miliar. Dalam surat penjelasan tambahan yang ditandatangani Direktur Utama Ade Wahyu dan Direktur Keuangan Abraham Ardian Nawawi, perseroan merinci penurunan ini berasal dari pelunasan beban akrual yang turun 36,10 persen menjadi Rp9,05 miliar, liabilitas imbalan kerja jangka pendek yang turun 85,97 persen menjadi Rp722,70 juta, dan utang pajak yang turun 91,99 persen menjadi Rp2,09 miliar, seluruhnya karena penyelesaian kewajiban yang sebelumnya sudah dicadangkan. Kas dan setara kas ikut menyusut 20,66 persen menjadi Rp290,82 miliar, dan arus kas dari aktivitas operasi berbalik menjadi negatif Rp71,38 miliar, dari positif Rp70,78 miliar pada semester I 2025.",
+   "Laporan ini juga memuat rincian anak usaha COIN. PT Central Finansial X (CFX), yang menjalankan bursa berjangka dan bursa aset kripto di Jakarta, memiliki aset Rp1.291,49 miliar dengan kepemilikan COIN 99,97 persen. PT Kustodian Koin Indonesia (ICC), penyedia jasa kustodian aset kripto, memiliki aset Rp285,24 miliar dengan kepemilikan 99,99 persen. PT Karya Perkasa Indomitra (KPI), bergerak di konsultasi manajemen dan baru beroperasi sejak 2024, memiliki aset Rp1.114,07 miliar dengan kepemilikan 99,96 persen. Satu anak usaha lain, Delta One Limited di Seychelles yang dimiliki penuh oleh COIN, tercatat belum beroperasi dengan aset US$65.862.500."
+  ],
+  "fotoAdegan": "Technicians checking blinking server racks in a dim data center used for digital asset custody, cables neatly bundled, cool blue lighting",
+  "takeaway": "Laporan ini condong negatif bagi COIN karena kinerja inti berbalik dari untung menjadi buntung, sementara perbaikan di sisi utang belum cukup mengimbangi. Yang perlu disimak adalah laba per saham, yakni bagian rugi yang jatuh ke tiap lembar saham, yang berubah dari positif Rp2,04 menjadi negatif Rp2,77, serta arus kas operasi, yaitu uang tunai yang benar-benar mengalir dari kegiatan bisnis harian, yang berbalik jadi menggerus kas sebesar Rp71,38 miliar padahal tahun lalu menghasilkan kas. Ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham, ikut tergerus sejalan dengan rugi tersebut. Yang perlu dipantau selanjutnya adalah apakah tren penurunan pendapatan dan arus kas negatif ini masih berlanjut pada laporan kuartal III 2026, terutama karena laporan periode ini sendiri merupakan koreksi dari penyampaian sebelumnya sehingga ada kemungkinan penyesuaian lanjutan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pgeo-bukukan-laba-bersih-us-126-62-juta-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Bukukan [Laba] Bersih US$126,62 Juta Sembilan Bulan 2026",
+  "deck": "Materi public expose tahunan PGEO: pendapatan US$352,20 juta, laba bersih US$126,62 juta untuk 9M2026, dan tenggat free float 12,5 persen sebelum Maret 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T22:11:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/02d01566ce_df489eec30.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "Pertamina Geothermal Energy",
+   "public expose",
+   "free float"
+  ],
+  "body": [
+   "PT Pertamina Geothermal Energy Tbk (PGEO) menyampaikan materi Public Expose Tahunan kepada Bursa Efek Indonesia melalui surat bertanggal 28 Oktober 2026, merujuk pada pemberitahuan rencana public expose yang sebelumnya disampaikan pada 23 Oktober 2026. Dalam paparan tersebut turut diperkenalkan jajaran direksi perseroan, yaitu Presiden Direktur Fransetya H. Hutabarat, Direktur Keuangan Andi Joko Nugroho, Direktur Operasi Edwil Suzandi, dan Direktur Eksplorasi dan Pengembangan Ahmad Yani.",
+   "Materi tersebut memuat kinerja perusahaan sepanjang sembilan bulan pertama 2026 (9M2026). Pendapatan tercatat US$352,20 juta, setara 78 persen dari target pendapatan setahun penuh 2026. Laba bersih mencapai US$126,62 juta, sementara EBITDA, yakni laba operasional sebelum bunga, pajak, depresiasi dan amortisasi, tercatat US$287,77 juta. Dari sisi operasional, pembangkit milik sendiri menghasilkan listrik 4.113 gigawatt-jam dengan faktor kapasitas 89,9 persen dan faktor ketersediaan pembangkit 98,51 persen. Perusahaan juga mengklaim penghindaran emisi karbon setara 1,938 juta ton CO2 dibandingkan bila volume listrik yang sama dihasilkan dari pembangkit listrik tenaga uap batu bara.",
+   "Soal tata kelola, PGE mencatat skor 122,52 pada ASEAN Corporate Governance Scorecard dan masuk 20 besar perusahaan tercatat kelas aset ASEAN. Perusahaan menyatakan telah memenuhi (comply) syarat kepemilikan saham publik minimum atau free float sebesar 12,5 persen yang harus dipenuhi sebelum 31 Maret 2027 sesuai aturan ASEAN Capital Markets Forum. Materi ini juga menyinggung kondisi pasar modal domestik, termasuk penjualan bersih saham oleh investor asing senilai Rp94,87 triliun sepanjang 2026 serta rencana MSCI membuka konsultasi untuk mengkaji ulang klasifikasi Indonesia dari status pasar berkembang menjadi pasar mandiri."
+  ],
+  "fotoAdegan": "Steam drifting from geothermal plant pipelines on a forested highland slope, technicians in hard hats inspecting valves at dawn",
+  "takeaway": "Laporan ini condong positif bagi PGEO karena realisasi pendapatan sembilan bulan sudah mencapai 78 persen dari target setahun, dengan laba bersih dan EBITDA yang tetap tercatat sehat di tengah tekanan jual asing di pasar saham domestik. Angka EBITDA yang disebutkan penting dipantau karena mencerminkan kemampuan perusahaan membayar utang dan membiayai proyek panas bumi baru tanpa harus menambah pinjaman besar. Materi ini juga menyentuh porsi saham yang dipegang publik atau free float, yang menentukan likuiditas perdagangan saham dan menjadi syarat yang diawasi otoritas bursa regional. Yang perlu dipantau berikutnya adalah tenggat kepatuhan free float minimum 12,5 persen sebelum 31 Maret 2027, serta hasil konsultasi MSCI soal status pasar Indonesia yang bisa memengaruhi arus dana asing ke saham-saham domestik termasuk PGEO.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "astra-umumkan-pemenang-satu-indonesia-awards-2026",
   "category": "Bisnis",
   "title": "Astra Umumkan [Pemenang] SATU Indonesia Awards 2026",
@@ -28,6 +133,136 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret adalah skala program apresiasi sosial Astra: peserta SATU Indonesia Awards tahun ini mencapai 19.155 orang, naik 8 persen dari tahun lalu, dan bersamaan dengan itu Astra memulai rangkaian Program Kontribusi Sosial 70 Tahun menjelang ulang tahun perusahaan pada 20 Februari 2027. Yang langsung terdampak adalah lima penggerak muda di bidang kesehatan, pendidikan, lingkungan, kewirausahaan, dan teknologi yang menerima apresiasi, serta warga di empat desa binaan, Sukaluyu, Karangjengkol, Purwodadi, dan Tanjuang Bonai, yang masing-masing mendapat dana pembinaan Rp65 juta plus program pendampingan. Kenaikan jumlah peserta bersamaan dengan peluncuran program baru menjelang usia ke-70 ini mengarah pada perluasan skala kontribusi sosial Astra, bukan sekadar seremoni ulang tahun. Yang akan memastikan arah ini adalah rincian resmi Program Kontribusi Sosial 70 Tahun yang dijanjikan mendekati 20 Februari 2027, termasuk apakah jumlah desa binaan dan kategori penghargaan ikut diperluas.",
   "imageV": "mvs95n3l"
+ },
+ {
+  "slug": "soho-cetak-laba-bersih-naik-27-jadi-rp558-75-miliar-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "SOHO Cetak Laba Bersih [Naik 27%] jadi Rp558,75 Miliar di 9M26",
+  "deck": "Laba bersih Soho Global Health naik 27 persen menjadi Rp558,75 miliar pada sembilan bulan 2026, ditopang kenaikan pendapatan, sementara kas perusahaan menyusut akibat dividen besar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T21:40:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028215323-65216-0/FinancialStatement-2026-III-SOHO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOHO",
+  "tags": [
+   "SOHO",
+   "laporan keuangan",
+   "farmasi",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Soho Global Health Tbk (SOHO) melaporkan pendapatan Rp8,28 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 4,4 persen dari Rp7,92 triliun pada periode yang sama tahun sebelumnya. Laba bersih perusahaan naik lebih tajam, 27 persen, dari Rp440,09 miliar menjadi Rp558,75 miliar. Laba per saham dasar turut naik dari Rp34,68 menjadi Rp44,02. Laporan keuangan interim yang tidak diaudit ini ditandatangani oleh Presiden Direktur Harry Salam dan Direktur Lucky Setiawan pada 28 Oktober 2026.",
+   "Kenaikan laba ditopang oleh perbaikan margin. Laba usaha melonjak 34,97 persen menjadi Rp700,95 miliar, sementara EBITDA naik 32 persen menjadi Rp752,01 miliar. Namun arus kas dari aktivitas operasi justru turun dari Rp702,04 miliar menjadi Rp598,47 miliar, seiring piutang usaha pihak ketiga yang membesar dari Rp1,99 triliun menjadi Rp2,27 triliun. Kas dan setara kas perusahaan susut Rp348,54 miliar sepanjang sembilan bulan, dari Rp1,10 triliun pada akhir 2025 menjadi Rp755,59 miliar pada akhir September 2026, terutama karena pembayaran dividen tunai Rp921,42 miliar, jauh lebih besar dari pembayaran dividen Rp300,79 miliar pada periode yang sama tahun lalu.",
+   "Total aset perusahaan tercatat Rp5,84 triliun per akhir September 2026, turun dari Rp6,16 triliun pada akhir 2025, sejalan dengan total liabilitas yang turun dari Rp3,57 triliun menjadi Rp3,19 triliun. Ekuitas naik tipis menjadi Rp2,65 triliun, dengan rasio lancar membaik dari 163 persen menjadi 174 persen. Bisnis SOHO dijalankan lewat tiga anak usaha yang beroperasi penuh, yaitu PT Soho Industri Pharmasi (farmasi, berdiri 1951, aset Rp858,83 miliar), PT Parit Padang Global (distribusi farmasi sejak 2009, aset terbesar yakni Rp5,43 triliun), dan PT Universal Health Network (penjualan langsung berjenjang sejak 2009, aset Rp34,05 miliar), sementara satu anak usaha lain, PT Soho Global Medika, belum beroperasi."
+  ],
+  "fotoAdegan": "Warehouse staff stacking boxed pharmaceutical products onto pallets inside a distribution warehouse, forklift nearby, bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi SOHO, karena pendapatan, laba usaha, dan laba bersih semuanya tumbuh dua digit, dan laba per saham naik 27 persen dalam setahun. Yang perlu dicermati adalah arus kas dari operasi, yaitu uang tunai yang benar-benar masuk dari bisnis sehari-hari, yang justru menyusut meski laba di atas kertas naik, karena piutang usaha membesar sekitar Rp278 miliar sehingga sebagian pendapatan belum tertagih tunai. Ekuitas, yaitu modal milik pemegang saham setelah dikurangi semua utang, masih naik tipis ke Rp2,65 triliun meski perusahaan baru membayar dividen tunai Rp921,42 miliar dalam sembilan bulan ini, jauh di atas tahun lalu, sehingga kas perusahaan menyusut cukup dalam. Yang perlu dipantau berikutnya adalah kinerja kuartal keempat dan laporan keuangan audit tahun penuh 2026 yang biasanya terbit awal tahun berikutnya, untuk memastikan tidak ada penyesuaian material dari angka interim yang belum diaudit ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mmix-jawab-permintaan-bei-klaim-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "MMIX Jawab Permintaan BEI, Klaim Tak Ada [Informasi Material]",
+  "deck": "Merespons surat BEI soal lonjakan volatilitas transaksi, MMIX menyatakan tidak ada informasi material dan pengendali tidak berencana mengubah kepemilikan sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T21:31:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4a4e2510e1_13a51a6222.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MMIX",
+  "tags": [
+   "MMIX",
+   "volatilitas transaksi",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Multi Medika Internasional Tbk (MMIX) merespons surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-13414/BEI.PP1/10-2026 tertanggal 26 Oktober 2026, yang menanyakan sebab volatilitas transaksi saham perseroan. Tanggapan dikirim lewat surat nomor 047/MMI-CORP/X/2026 tertanggal 28 Oktober 2026, ditandatangani Direktur Keuangan Eveline N. Susanto, dengan lampiran surat resmi yang juga ditandatangani Direktur Utama Men Mangarek.",
+   "Dalam suratnya, perseroan menjawab enam poin pertanyaan bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga efeknya, baik menurut aturan keterbukaan informasi POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka, serta memastikan tidak ada rencana aksi korporasi dalam tiga bulan ke depan yang akan memengaruhi status pencatatan sahamnya di bursa. Soal rencana pemegang saham utama, Corporate Secretary perseroan mengaku telah berkoordinasi langsung dengan pengendali, PT Multi Inti Usaha, yang menyatakan tidak memiliki rencana khusus maupun rencana mengalihkan sahamnya dalam waktu dekat.",
+   "Permintaan penjelasan dari bursa ini muncul tak lama setelah dua laporan kepemilikan saham di MMIX yang sebelumnya diberitakan pada 26 Oktober 2026. Pada tanggal yang sama dengan surat BEI tersebut, Direktur Utama Men Mangarek melaporkan penambahan kepemilikannya dari 6,00 persen menjadi 6,02 persen, sementara PT Pukul Rata Kanan menambah porsinya dari 1,84 persen menjadi 4,33 persen, lebih dari dua kali lipat. Kedua transaksi itu terjadi bersamaan dengan periode volatilitas yang ditanyakan bursa, meski perseroan dalam suratnya menegaskan tidak ada informasi material yang melatarbelakanginya."
+  ],
+  "fotoAdegan": "Warehouse staff sorting boxes of medical supplies onto metal shelving under bright fluorescent lights, forklift nearby in an Indonesian logistics facility",
+  "takeaway": "Laporan ini netral bagi MMIX, karena isinya sekadar membantah adanya informasi material di balik lonjakan transaksi, tanpa angka atau rencana korporasi baru yang mengubah fundamental perusahaan. Yang tersentuh di sini adalah jumlah saham beredar dan struktur pengendalian, bukan laba atau arus kas: perseroan memastikan tidak ada aksi korporasi dalam tiga bulan ke depan dan pengendali, PT Multi Inti Usaha, tidak berniat mengalihkan sahamnya, sehingga laba per saham investor saat ini tidak langsung terancam terdilusi atau tergerus perubahan kepemilikan. Permintaan BEI ini juga tak lepas dari dua laporan penambahan saham sebelumnya, oleh Direktur Utama Men Mangarek dari 6,00 persen menjadi 6,02 persen dan PT Pukul Rata Kanan dari 1,84 persen menjadi 4,33 persen, sehingga transaksi itu bisa jadi salah satu pemicu volatilitas yang dipertanyakan bursa. Yang perlu dipantau selanjutnya adalah apakah BEI akan mengirim permintaan penjelasan lanjutan bila volatilitas transaksi MMIX berlanjut, serta apakah janji tidak ada aksi korporasi dalam tiga bulan ke depan, yakni hingga sekitar akhir Januari 2027, benar-benar terpenuhi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "keju-laba-naik-9-tapi-arus-kas-operasi-turun-tajam",
+  "category": "Aksi Korporasi",
+  "title": "KEJU: Laba Naik 9%, tapi [Arus Kas Operasi] Turun Tajam",
+  "deck": "Laba bersih KEJU naik 9,2 persen jadi Rp161,54 miliar pada sembilan bulan 2026, tapi utang bank baru dan kas yang menyusut separuh mengiringi ekspansi pabriknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T21:23:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028213557-64643-0/FinancialStatement-2026-III-KEJU.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KEJU",
+  "tags": [
+   "KEJU",
+   "laporan keuangan",
+   "arus kas",
+   "utang bank"
+  ],
+  "body": [
+   "PT Mulia Boga Raya Tbk (KEJU), produsen keju olahan merek Prochiz yang berafiliasi dengan Garudafood, melaporkan hasil keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan bersih perseroan naik 32,3 persen jadi Rp1,44 triliun dari Rp1,09 triliun pada periode yang sama tahun lalu. Laba bruto naik jadi Rp378,38 miliar dari Rp336,54 miliar, sementara laba bersih tumbuh 9,2 persen jadi Rp161,54 miliar dari Rp147,87 miliar. Laba per saham ikut naik dari Rp26,29 menjadi Rp28,77.",
+   "Di sisi aset, total aset KEJU naik jadi Rp1,49 triliun dari Rp1,25 triliun, terutama karena aset tetap melonjak jadi Rp632,45 miliar dari Rp439,38 miliar seiring persediaan yang naik ke Rp402,03 miliar dari Rp318,40 miliar. Total liabilitas melonjak 43,26 persen menjadi Rp582,19 miliar. Dalam surat resmi ke Bursa Efek Indonesia yang menjelaskan perubahan lebih dari 20 persen ini, manajemen menyebut kenaikan utang terutama berasal dari pinjaman bank baru senilai Rp95 miliar, utang usaha pihak ketiga yang naik Rp26,02 miliar, utang lain-lain pihak ketiga yang naik Rp29,69 miliar, dan akrual yang naik Rp24,05 miliar. Ekuitas tetap naik jadi Rp906,42 miliar dari Rp845,09 miliar, meski perseroan membagikan dividen tunai Rp89,87 miliar dan membeli kembali sahamnya sendiri senilai Rp10,05 miliar pada periode ini.",
+   "Dari sisi arus kas, kas bersih dari aktivitas operasi turun jadi Rp88,70 miliar dari Rp224,16 miliar setahun sebelumnya, karena pembayaran ke pemasok dan karyawan membesar seiring kenaikan persediaan dan piutang usaha. Arus kas untuk investasi makin negatif menjadi Rp214,90 miliar, dipakai untuk pembelian aset tetap Rp120,22 miliar dan uang muka pembelian aset tetap lain senilai Rp94,99 miliar. Kekurangan dana ini ditutup dari pinjaman bank baru Rp100 miliar dikurangi pelunasan Rp5 miliar, sementara kas juga keluar untuk dividen Rp89,87 miliar dan pembelian saham treasuri Rp10,05 miliar. Akibatnya, saldo kas dan bank di akhir September 2026 tinggal Rp127,66 miliar, turun separuh dari Rp258,78 miliar di akhir 2025."
+  ],
+  "fotoAdegan": "Workers in hygienic uniforms monitoring stainless steel vats at a dairy processing plant, soft industrial lighting, Indonesia",
+  "takeaway": "Laporan ini netral bagi KEJU: penjualan dan laba bersih tumbuh dua digit, tapi kualitas arus kas memburuk dan utang bertambah signifikan, sehingga kedua sisi ini saling menutupi untuk kuartal ini. Arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan jualan sehari-hari, turun dari Rp224,16 miliar jadi Rp88,70 miliar karena persediaan dan piutang usaha ikut menggembung, padahal pos ini biasa dipakai investor untuk mengecek apakah laba di atas kertas sungguh berubah jadi uang tunai. Di sisi lain, total utang melonjak 43,26 persen karena perseroan baru menarik pinjaman bank Rp95 miliar untuk mendanai pembelian aset tetap yang nilainya naik drastis, sehingga beban bunga yang harus dibayar juga ikut membesar dari Rp277,94 juta menjadi Rp3,04 miliar hanya dalam sembilan bulan ini. Perseroan tetap membagikan dividen tunai Rp89,87 miliar dan membeli kembali sahamnya sendiri senilai Rp10,05 miliar, langkah yang sedikit mengurangi jumlah saham yang beredar di pasar, meski kas tunai perseroan menyusut separuh menjadi Rp127,66 miliar. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, yang akan memperlihatkan apakah ekspansi aset tetap yang dibiayai utang ini benar-benar mendongkrak penjualan atau justru makin membebani arus kas perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vici-laba-turun-26-utang-bank-jangka-pendek-meroket",
+  "category": "Aksi Korporasi",
+  "title": "VICI: Laba Turun 26%, Utang Bank Jangka Pendek [Meroket]",
+  "deck": "Laba bersih Victoria Care turun 26 persen jadi Rp87,7 miliar pada sembilan bulan 2026, sementara utang bank jangka pendek melonjak jadi Rp100 miliar dari sebelumnya Rp3 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T21:13:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028212348-64925-0/FinancialStatement-2026-III-VICI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "laporan keuangan",
+   "utang bank",
+   "consumer goods"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) melaporkan penjualan sebesar Rp1,12 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik dari Rp1,03 triliun pada periode yang sama tahun lalu. Namun laba bersih perusahaan kosmetik dan perawatan tubuh ini justru turun 26,4 persen menjadi Rp87,7 miliar, dari Rp119,1 miliar setahun sebelumnya. Laba per saham ikut turun dari Rp17,76 menjadi Rp13,08. Penyebab utamanya adalah beban penjualan dan pemasaran yang naik dari Rp293,8 miliar menjadi Rp342,5 miliar, atau sekitar 17 persen, jauh lebih cepat dari pertumbuhan penjualannya.",
+   "Di sisi keuangan, total liabilitas VICI melonjak 39,4 persen atau Rp96,9 miliar, dari Rp245,8 miliar pada akhir Desember 2025 menjadi Rp342,7 miliar per 30 September 2026. Dalam surat resmi ke Bursa Efek Indonesia tertanggal 28 Oktober 2026, Direktur Utama Sumardi Widjaja menjelaskan bahwa kenaikan ini terutama berasal dari utang bank jangka pendek baru senilai Rp96,9 miliar, membuat saldo utang bank jangka pendek perusahaan melompat dari Rp3,08 miliar menjadi Rp100 miliar. Perusahaan menyatakan kenaikan utang ini tidak berdampak signifikan terhadap kinerja keuangan periode berjalan. Sebagai pembanding, total aset VICI naik menjadi Rp1,49 triliun dari Rp1,34 triliun, ekuitas naik menjadi Rp1,145 triliun dari Rp1,092 triliun, dan kas perusahaan melonjak menjadi Rp158 miliar dari Rp39,4 miliar, sebagian besar berasal dari pencairan pinjaman bank tersebut.",
+   "Selama sembilan bulan ini, VICI juga membagikan dividen kas sebesar Rp33,54 miliar, lebih kecil dari Rp46,96 miliar yang dibagikan pada periode yang sama tahun 2025. Laporan keuangan interim ini disampaikan tidak diaudit dan ditandatangani oleh Sumardi Widjaja selaku Direktur Utama serta Henny Soetanto selaku Direktur, yang menyatakan bertanggung jawab penuh atas kelengkapan dan kebenaran informasi di dalamnya."
+  ],
+  "fotoAdegan": "Workers packaging small bottles of personal care products on a factory conveyor line, bright industrial lighting, Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi VICI, karena laba bersih turun lebih dari seperempat justru di tengah penjualan yang naik, dan perusahaan menambah utang bank jangka pendek dalam jumlah besar hanya dalam sembilan bulan. Yang tersentuh ada dua pos: beban pemasaran yang naik lebih cepat dari penjualan berarti setiap rupiah penjualan menyisakan laba lebih kecil dibanding tahun lalu, sementara utang bank jangka pendek yang melompat dari Rp3 miliar ke Rp100 miliar berarti beban bunga ke depan bisa membesar dan sebagian kas perusahaan terikat untuk membayar kembali pinjaman itu dalam waktu dekat. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit yang biasanya terbit awal tahun depan, serta apakah pinjaman bank jangka pendek ini akan dilunasi, diperpanjang, atau dialihkan jadi utang jangka panjang, mengingat sifatnya yang jatuh tempo dalam waktu dekat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "airasia-indonesia-cmpp-catat-rugi-rp1-74-triliun-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "AirAsia Indonesia (CMPP) Catat [Rugi] Rp1,74 Triliun di Kuartal III",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan rugi bersih AirAsia Indonesia melonjak ke Rp1,74 triliun, sementara defisit ekuitas membesar menjadi Rp12,47 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T21:07:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028211848-65264-0/FinancialStatement-2026-III-CMPP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMPP",
+  "tags": [
+   "CMPP",
+   "AirAsia Indonesia",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT AirAsia Indonesia Tbk (CMPP) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir pada 30 September 2026. Dalam laporan itu, perusahaan mencatat pendapatan usaha Rp5,78 triliun, turun dari Rp6,03 triliun pada periode yang sama tahun lalu. Di sisi lain, beban usaha justru naik menjadi Rp6,89 triliun dari Rp6,50 triliun, membuat perusahaan mencatat rugi usaha Rp1,11 triliun, melebar jauh dari rugi usaha Rp466,65 miliar pada September 2025. Setelah ditambah beban keuangan dan kerugian selisih kurs, rugi bersih periode berjalan membengkak menjadi Rp1,74 triliun dari Rp982,51 miliar tahun sebelumnya, sehingga rugi per saham dasar melebar dari Rp92,23 menjadi Rp162,72.",
+   "Dari sisi posisi keuangan, total aset perusahaan menyusut menjadi Rp4,37 triliun per akhir September 2026 dari Rp5,05 triliun di akhir Desember 2025, sementara total liabilitas justru naik menjadi Rp16,84 triliun dari Rp15,79 triliun. Akibatnya, defisit ekuitas atau kondisi modal negatif perusahaan melebar menjadi Rp12,47 triliun dari sebelumnya Rp10,73 triliun. Kas dan setara kas yang dipegang perusahaan juga menipis dari Rp36,75 miliar menjadi Rp29,11 miliar, dan arus kas bersih dari aktivitas operasi anjlok dari Rp188,71 miliar pada sembilan bulan pertama 2025 menjadi hanya Rp51,05 miliar pada periode yang sama tahun ini.",
+   "Laporan ini juga mencantumkan dua entitas anak yang dikonsolidasi, yaitu PT Indonesia AirAsia yang bergerak di bidang penerbangan dengan kepemilikan 57,25 persen dan aset Rp4,4 triliun, serta PT Garda Tawang Reksa Indonesia yang bergerak di aktivitas kebandarudaraan dengan kepemilikan 38,36 persen dan aset Rp66,48 miliar. Dokumen itu juga menunjukkan bahwa saham CMPP masih tercatat di papan Pemantauan Khusus (watchlist) di Bursa Efek Indonesia, dan laporan keuangan tahun 2025 sebelumnya memuat opini auditor dengan paragraf penekanan mengenai ketidakpastian material terkait kelangsungan usaha perusahaan."
+  ],
+  "fotoAdegan": "Low-cost airline jets parked at airport gates under an overcast sky, ground crew working near baggage carts, wide apron view.",
+  "takeaway": "Catatan ini condong negatif karena rugi bersih melebar hampir dua kali lipat dan defisit ekuitas emiten justru makin dalam, bukan membaik. Yang paling tersentuh adalah ekuitas, yaitu selisih antara total harta dan total utang perusahaan, yang kini menunjukkan utang jauh lebih besar daripada asetnya sehingga disebut defisit atau ekuitas negatif, kondisi yang membuat pemegang saham secara akuntansi tidak punya nilai buku positif atas kepemilikannya. Arus kas dari kegiatan operasional, yaitu uang tunai yang benar-benar masuk dari bisnis penerbangan sehari-hari, juga menyusut tajam dari Rp188,71 miliar menjadi Rp51,05 miliar, tanda bahwa bisnis inti makin seret menghasilkan uang meski pesawat tetap beroperasi. Rugi per saham, yaitu porsi kerugian yang ditanggung setiap lembar saham beredar, ikut melebar dari Rp92,23 menjadi Rp162,72, memperkuat sinyal tekanan pada kinerja. Yang perlu dipantau berikutnya adalah opini auditor pada laporan tahunan auditan periode 2026, yang wajib disampaikan sesuai POJK Nomor 14/POJK.04/2022, karena laporan tahun 2025 sebelumnya sudah memuat paragraf penekanan mengenai ketidakpastian material atas kelangsungan usaha perusahaan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "mcor-laba-kuartal-iii-turun-5-8-jadi-rp217-44-miliar",

@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "towr-perpanjang-fasilitas-kredit-rp2-triliun-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "TOWR Perpanjang [Fasilitas] Kredit Rp2 Triliun ke 2027",
+  "deck": "Protelindo, Iforte, SUPR, dan IBST memperpanjang fasilitas kredit Rp2 triliun dari CIMB Niaga sampai 31 Oktober 2027, dijamin Protelindo dan Iforte.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOWR",
+   "SUPR",
+   "IBST",
+   "kredit perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1d25b86173_0f79a86aac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ibst-perpanjang-fasilitas-kredit-rp2-triliun-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "IBST Perpanjang [Fasilitas] Kredit Rp2 Triliun ke 2027",
+  "deck": "IBST bersama Protelindo, Iforte, dan SUPR memperpanjang fasilitas kredit Rp2 triliun dari CIMB Niaga sampai Oktober 2027, dengan jaminan dari perusahaan induk.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IBST",
+   "transaksi material",
+   "kredit bank",
+   "Protelindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/527d61b41a_294b192742.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hajj-konversi-piutang-rp49-9-miliar-jadi-modal-anak-usaha-di-saudi",
+  "category": "Aksi Korporasi",
+  "title": "HAJJ Konversi Piutang Rp49,9 Miliar Jadi Modal Anak Usaha di [Saudi]",
+  "deck": "HAJJ mengonversi piutangnya ke anak usaha ABT LLC di Arab Saudi menjadi modal senilai Rp49,9 miliar, setara 24,44% ekuitas perusahaan per akhir September 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HAJJ",
+   "transaksi afiliasi",
+   "anak usaha",
+   "Arab Saudi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8411bb9d86_0dc091bd97.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "supr-perpanjang-kredit-rp2-triliun-ke-oktober-2027",
   "category": "Aksi Korporasi",
   "title": "SUPR [Perpanjang] Kredit Rp2 Triliun ke Oktober 2027",
@@ -50,6 +98,22 @@ var ARTICLES = [
    "emiten"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028222353-65338-0/FinancialStatement-2026-II-COIN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dssa-beli-tanah-rp3-1-triliun-dari-afiliasi-untuk-pusat-data",
+  "category": "Aksi Korporasi",
+  "title": "DSSA Beli Tanah Rp3,1 Triliun dari [Afiliasi] untuk Pusat Data",
+  "deck": "Anak usaha DSSA, SMCCG, membeli lahan 166.261 m2 di BSD City senilai Rp3,1 triliun dari PT Surya Inter Wisesa, pihak terafiliasi karena hubungan keluarga pemilik manfaat akhir.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DSSA",
+   "transaksi afiliasi",
+   "pusat data",
+   "BSD City"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/441c0f4c0a_225666c4b1.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -327,6 +391,134 @@ var ARTICLES = [
    "perhotelan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028194029-64727-0/FinancialStatement-2026-III-HRME.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pdpp-laba-bersih-naik-127-ke-rp59-9-miliar-laba",
+  "category": "Aksi Korporasi",
+  "title": "PDPP: Laba Bersih Naik 127% ke Rp59,9 Miliar [laba]",
+  "deck": "Primadaya Plastisindo (PDPP) membukukan laba bersih Rp59,9 miliar pada sembilan bulan 2026, naik 127 persen, didorong kenaikan penjualan dan harga bahan baku.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PDPP",
+   "laporan keuangan",
+   "laba bersih",
+   "industri kemasan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028193738-65163-0/FinancialStatement-2026-III-PDPP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbni-siapkan-buyback-baru-rp547-miliar-saat-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "BBNI Siapkan Buyback [Baru] Rp547 Miliar Saat Pasar Bergejolak",
+  "deck": "BNI akan membeli kembali saham maksimal Rp547 miliar lewat bursa dalam tiga bulan untuk merespons fluktuasi pasar yang signifikan.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBNI",
+   "buyback",
+   "saham",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1e504f11aa_dae985e0b0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pool-siapkan-jual-30-saham-pola-target-audit-rampung-desember",
+  "category": "Aksi Korporasi",
+  "title": "POOL Siapkan Jual 30% Saham [POLA], Target Audit Rampung Desember",
+  "deck": "Direksi baru POOL paparkan tiga pilar pemulihan: audit tiga tahun yang tertunda, rencana jual 30% saham POLA, dan rugi semester I yang menyusut tajam.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POOL",
+   "POLA",
+   "Public Expose",
+   "restrukturisasi perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3073962564_169039a274.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "brms-tarik-pinjaman-sindikasi-us-128-juta-laba-turun-37",
+  "category": "Aksi Korporasi",
+  "title": "BRMS Tarik Pinjaman [Sindikasi] US$128 Juta, Laba Turun 37%",
+  "deck": "Bumi Resources Minerals mencairkan pinjaman sindikasi US$128 juta untuk mendanai ekspansi tambang, tapi beban bunga melonjak dan laba sembilan bulan turun 37 persen dibanding tahun lalu.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRMS",
+   "Bumi Resources Minerals",
+   "pinjaman sindikasi",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028190004-64557-0/FinancialStatement-2026-III-BRMS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vrna-berbalik-laba-rp2-49-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "VRNA Berbalik [Laba] Rp2,49 Miliar di Sembilan Bulan 2026",
+  "deck": "Mizuho Leasing Indonesia (VRNA) berbalik dari rugi jadi laba Rp2,49 miliar pada sembilan bulan 2026, tapi arus kas dari operasinya anjlok lebih dari 80 persen.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VRNA",
+   "Mizuho Leasing Indonesia",
+   "laporan keuangan",
+   "pembiayaan konsumen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028184937-64947-0/FinancialStatement-2026-III-VRNA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bltz-laba-ambruk-97-persen-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ: Laba [Ambruk] 97 Persen di Kuartal III 2026",
+  "deck": "Laba bersih CGV Cinemas (BLTZ) longsor ke Rp919 juta pada sembilan bulan 2026 akibat beban pajak tinggi, meski utang bank berhasil dipangkas dari Rp486 miliar menjadi Rp370 miliar.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLTZ",
+   "laporan keuangan",
+   "CGV Cinemas",
+   "laba turun"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183613-65270-0/FinancialStatement-2026-III-BLTZ.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "axio-catat-laba-9-bulan-naik-74-eps-jadi-rp10-45",
+  "category": "Aksi Korporasi",
+  "title": "AXIO Catat Laba 9 Bulan Naik 74%, [EPS] Jadi Rp10,45",
+  "deck": "Laba bersih Tera Data Indonusa naik 74 persen jadi Rp61,08 miliar dalam sembilan bulan, namun arus kas operasional berbalik negatif Rp97,82 miliar seiring piutang usaha melonjak 126 persen.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AXIO",
+   "laporan keuangan",
+   "laba bersih",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183854-65310-0/FinancialStatement-2026-III-AXIO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mina-balik-untung-rp1-28-miliar-utang-susut-77-persen-di-q3",
+  "category": "Aksi Korporasi",
+  "title": "MINA balik [untung] Rp1,28 miliar, utang susut 77 persen di Q3",
+  "deck": "Laba bersih MINA berbalik positif pada kuartal III 2026, didorong penghasilan keuangan, sementara total utang perusahaan turun 77 persen setelah melunasi pinjaman ke pihak ketiga.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MINA",
+   "laporan keuangan",
+   "properti",
+   "Sanurhasta Mitra"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183427-64544-0/FinancialStatement-2026-III-MINA.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6262,197 +6454,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474370-dari-kepedulian-terhadap-gizi-anak-annabelle-hadirkan-nurivo-untuk-temani-generasi-muda-yang-aktif"
- },
- {
-  "slug": "harga-emas-antam-turun-lagi-jadi-rp2-550-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Lagi Jadi Rp2.550.000/Gram",
-  "deck": "Harga emas batangan Antam turun Rp4.000 menjadi Rp2.550.000 per gram, sementara harga buyback ikut turun ke Rp2.365.000 per gram.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-turun-lagi-jadi-rp2-550-000-gram.jpg",
-  "imageV": "mvj22cfa",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474361-harga-emas-antam-hari-ini-22-oktober-2026-lagi-lagi-turun-jadi-rp2550000-per-gram-waktunya-borong"
- },
- {
-  "slug": "ptpp-restrukturisasi-utang-ke-bank-resmi-berlaku",
-  "category": "Aksi Korporasi",
-  "title": "PTPP: Restrukturisasi Utang ke Bank Resmi [Berlaku]",
-  "deck": "PT PP (Persero) Tbk menyatakan Master Restructuring Agreement dengan bank-bank kreditur resmi berlaku efektif per 21 Oktober 2026 setelah seluruh syarat dipenuhi.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "restrukturisasi utang",
-   "PP Persero",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4475551d15_6071dc1999.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgun-laba-kuartal-iii-naik-34-piutang-berelasi-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "PGUN: Laba Kuartal III Naik 34%, [Piutang] Berelasi Melonjak",
-  "deck": "Laba bersih PGUN naik 33,5 persen jadi Rp135,4 miliar di sembilan bulan 2026, tapi arus kas operasi turun dan piutang ke pihak berelasi melonjak ke Rp211,4 miliar.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGUN",
-   "laporan keuangan",
-   "sawit",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022093220-64512-0/FinancialStatement-2026-III-PGUN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fore-pendapatan-rp1-6-triliun-ebitda-naik-71-pada-9m26",
-  "category": "Aksi Korporasi",
-  "title": "FORE: Pendapatan Rp1,6 Triliun, [EBITDA] Naik 71% pada 9M26",
-  "deck": "Pendapatan FORE tumbuh 53,3 persen dan laba bersih naik 49,7 persen pada 9M26, didukung ekspansi gerai Fore Coffee dan Fore Donut.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORE",
-   "Fore Kopi Indonesia",
-   "kinerja keuangan",
-   "ekspansi gerai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/511feacc71_e8bd7c268e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adcp-panggil-rupslb-bahas-perombakan-direksi-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "ADCP Panggil RUPSLB Bahas [Perombakan] Direksi-Komisaris",
-  "deck": "Adhi Commuter Properti menjadwalkan RUPS Luar Biasa pada 13 November 2026 dengan satu agenda: perubahan susunan direksi dan dewan komisaris.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADCP",
-   "RUPSLB",
-   "Direksi",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7678d6751f_473f831781.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fore-liabilitas-melonjak-25-7-imbas-sewa-gerai-baru",
-  "category": "Aksi Korporasi",
-  "title": "FORE: Liabilitas Melonjak 25,7% Imbas [Sewa] Gerai Baru",
-  "deck": "Liabilitas FORE naik 25,7 persen jadi Rp602,88 miliar per September 2026, terutama dari liabilitas sewa gerai baru, akrual beban, dan utang pajak yang membesar seiring ekspansi usaha.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORE",
-   "laporan keuangan",
-   "liabilitas",
-   "ekspansi usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022013903-64777-0/FinancialStatement-2026-III-FORE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ammn-siapkan-buyback-saham-rp1-triliun-di-tengah-gejolak-pasar",
-  "category": "Aksi Korporasi",
-  "title": "AMMN Siapkan Buyback [Saham] Rp1 Triliun di Tengah Gejolak Pasar",
-  "deck": "Amman Mineral berencana membeli kembali sahamnya hingga Rp1 triliun dalam tiga bulan, memanfaatkan aturan OJK untuk kondisi pasar yang berfluktuasi signifikan.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMMN",
-   "buyback saham",
-   "Amman Mineral",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f321a94491_f8dbf746f2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbri-siapkan-buyback-saham-rp1-triliun-rampung-3-bulan",
-  "category": "Aksi Korporasi",
-  "title": "BBRI Siapkan [Buyback] Saham Rp1 Triliun, Rampung 3 Bulan",
-  "deck": "BRI akan membeli kembali sahamnya senilai maksimal Rp1 triliun dari kas internal selama 22 Oktober 2026 hingga 21 Januari 2027, memanfaatkan aturan OJK untuk kondisi pasar yang bergejolak.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBRI",
-   "buyback saham",
-   "OJK",
-   "Bank BRI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9a298ba47b_ea6130fd80.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inet-ganti-wali-amanat-sukuk-ijarah-ke-cimb-niaga",
-  "category": "Aksi Korporasi",
-  "title": "INET Ganti [Wali Amanat] Sukuk Ijarah ke CIMB Niaga",
-  "deck": "PT Sinergi Inti Andalan Prima Tbk mengundang pemegang Sukuk Ijarah untuk RUPSI pada 5 November 2026 guna menyetujui penggantian wali amanat dari Bank KB Indonesia menjadi CIMB Niaga.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INET",
-   "Sukuk Ijarah",
-   "Wali Amanat",
-   "CIMB Niaga"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a3153cb8f8_c7e58a1997.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "moya-bentuk-usaha-patungan-olah-air-rp6-6-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MOYA Bentuk [Usaha Patungan] Olah Air Rp6,6 Miliar",
-  "deck": "PT Moya Indonesia dan PT Pertiwi Lestari membentuk usaha patungan PT Air Pertiwi Lestari senilai Rp6,6 miliar untuk proyek pengolahan air di Karawang, Jawa Barat.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MOYA",
-   "usaha patungan",
-   "infrastruktur air",
-   "Karawang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f155ea4c8e_a0cfb9ff33.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "agrs-jadwalkan-rupslb-30-november-agenda-belum-diumumkan",
-  "category": "Aksi Korporasi",
-  "title": "AGRS Jadwalkan [RUPSLB] 30 November, Agenda Belum Diumumkan",
-  "deck": "Bank IBK Indonesia (AGRS) akan menggelar RUPSLB pada 30 November 2026, namun agenda rapat baru akan diumumkan lewat pemanggilan resmi pada 6 November 2026.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGRS",
-   "RUPSLB",
-   "Bank IBK Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae3f7cd540_47d1f48bce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dcii-aset-naik-51-liabilitas-melonjak-karena-utang-baru",
-  "category": "Aksi Korporasi",
-  "title": "DCII: Aset Naik 51%, Liabilitas Melonjak karena [Utang] Baru",
-  "deck": "Laporan keuangan interim kuartal III DCI Indonesia menunjukkan aset naik 51,4 persen dan liabilitas melonjak 94,5 persen akibat pinjaman bank baru untuk ekspansi pusat data.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DCII",
-   "laporan keuangan",
-   "pusat data",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022102534-64721-0/FinancialStatement-2026-III-DCII.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "towr-perpanjang-fasilitas-kredit-rp2-triliun-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "TOWR Perpanjang [Fasilitas] Kredit Rp2 Triliun ke 2027",
+  "deck": "Protelindo, Iforte, SUPR, dan IBST memperpanjang fasilitas kredit Rp2 triliun dari CIMB Niaga sampai 31 Oktober 2027, dijamin Protelindo dan Iforte.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T23:49:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1d25b86173_0f79a86aac.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "SUPR",
+   "IBST",
+   "kredit perbankan"
+  ],
+  "body": [
+   "PT Sarana Menara Nusantara Tbk (TOWR) melaporkan bahwa pada 28 Oktober 2026, PT Bank CIMB Niaga Tbk selaku pemberi pinjaman menandatangani Perubahan Ketiga atas Perjanjian Kredit tertanggal 9 Desember 2024 bersama empat anak usaha TOWR sebagai peminjam, yaitu PT Profesional Telekomunikasi Indonesia (Protelindo), PT Iforte Solusi Infotek (Iforte), PT Solusi Tunas Pratama Tbk (SUPR), dan PT Inti Bangun Sejahtera Tbk (IBST). Perubahan ini terkait perpanjangan jangka waktu fasilitas kredit senilai Rp2 triliun, yang jatuh temponya kini diperpanjang sampai dengan 31 Oktober 2027.",
+   "Dalam perjanjian tersebut, Protelindo dan Iforte memberikan jaminan perusahaan atau corporate guarantee, yakni komitmen untuk menanggung seluruh kewajiban pembayaran dalam perjanjian kredit itu apabila peminjam gagal membayar. Jaminan ini berlaku untuk seluruh nilai fasilitas Rp2 triliun yang dipakai bersama oleh keempat anak usaha tersebut.",
+   "TOWR mengklasifikasikan transaksi ini sebagai transaksi afiliasi berdasarkan POJK 42/2020, karena melibatkan perusahaan yang sahamnya dimiliki minimal 99 persen oleh TOWR, pinjaman langsung dari bank, serta pemberian jaminan ke bank atas pinjaman tersebut. Perusahaan menegaskan transaksi ini bukan transaksi benturan kepentingan dan bukan transaksi material menurut POJK 17/2020, serta tidak membawa dampak negatif material terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians inspecting base station cables at the foot of a tall steel tower, rural Indonesian hillside, late afternoon light",
+  "takeaway": "Laporan ini condong netral bagi TOWR, sebab yang terjadi hanya memperpanjang masa berlaku fasilitas kredit Rp2 triliun yang sudah ada, tanpa menambah pokok utang baru atau menerbitkan saham baru. Yang tersentuh adalah pos utang jangka panjang dan arus kas perusahaan, karena perpanjangan tenor sampai 2027 berarti kewajiban pembayaran pokok yang semula mendekati jatuh tempo kini mundur, mengurangi tekanan pembayaran dalam waktu dekat. Perlu dicatat juga bahwa Protelindo dan Iforte, dua anak usaha TOWR, kini menanggung jaminan penuh atas fasilitas tersebut, artinya aset kedua anak usaha itu ikut berisiko jika grup gagal membayar ke CIMB Niaga. Yang perlu dipantau berikutnya adalah tanggal jatuh tempo baru pada 31 Oktober 2027, serta apakah TOWR akan mengungkap syarat tambahan seperti suku bunga atau ketentuan pembatasan (covenant) baru dalam perjanjian ini di laporan lanjutan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ibst-perpanjang-fasilitas-kredit-rp2-triliun-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "IBST Perpanjang [Fasilitas] Kredit Rp2 Triliun ke 2027",
+  "deck": "IBST bersama Protelindo, Iforte, dan SUPR memperpanjang fasilitas kredit Rp2 triliun dari CIMB Niaga sampai Oktober 2027, dengan jaminan dari perusahaan induk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T23:48:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/527d61b41a_294b192742.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IBST",
+  "tags": [
+   "IBST",
+   "transaksi material",
+   "kredit bank",
+   "Protelindo"
+  ],
+  "body": [
+   "PT Inti Bangun Sejahtera Tbk (IBST) bersama tiga perusahaan terafiliasi, PT Profesional Telekomunikasi Indonesia (Protelindo), PT Iforte Solusi Infotek (Iforte), dan PT Solusi Tunas Pratama Tbk (SUPR), menandatangani Perubahan Ketiga atas Perjanjian Kredit dengan PT Bank CIMB Niaga Tbk pada 28 Oktober 2026. Perubahan ini memperpanjang jangka waktu fasilitas pinjaman senilai total Rp2 triliun sampai dengan 31 Oktober 2027. Nilai transaksi ini setara 78 persen dari ekuitas IBST berdasarkan laporan keuangan audit per 31 Desember 2025, sehingga masuk kategori transaksi material.",
+   "Dalam perjanjian ini, Protelindo dan Iforte memberikan jaminan perusahaan atau corporate guarantee untuk menjamin pemenuhan seluruh kewajiban berdasarkan perjanjian kredit tersebut. Rantai kepemilikan yang tercatat dalam dokumen menunjukkan Iforte memegang 99,99 persen saham IBST, sementara Protelindo memegang 99,99 persen saham Iforte dan memiliki 99,93 persen saham SUPR secara langsung maupun tidak langsung. Bank CIMB Niaga sendiri dinyatakan tidak memiliki hubungan afiliasi dengan keempat peminjam.",
+   "Perseroan menyebutkan perpanjangan ini bertujuan memberi fleksibilitas sumber pembiayaan bagi kegiatan usaha para peminjam. Transaksi ini dikecualikan dari kewajiban persetujuan RUPS dan penggunaan penilai independen berdasarkan Pasal 11 huruf (b) dan (c) POJK 17, karena tergolong pinjaman yang diterima langsung dari bank. Meski tergolong transaksi afiliasi menurut POJK 42, manajemen dan Dewan Komisaris menyatakan transaksi ini bukan transaksi benturan kepentingan dan tidak berdampak negatif material terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha Perseroan."
+  ],
+  "fotoAdegan": "Telecommunication towers standing on a hillside at dusk, cables and antennas visible against a soft orange sky",
+  "takeaway": "Laporan ini netral bagi IBST, karena yang terjadi hanyalah perpanjangan jangka waktu fasilitas kredit yang sudah ada, bukan penambahan utang baru maupun pelunasan utang lama. Yang tersentuh adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjaman bank, sebab fasilitas Rp2 triliun ini tetap berjalan dan kini diperpanjang sampai akhir Oktober 2027. Nilai fasilitas yang setara 78 persen dari ekuitas Perseroan menunjukkan perusahaan cukup mengandalkan pembiayaan bank dibanding modal sendiri, sehingga pelaku pasar biasa memperhatikan rasio ini untuk menakar seberapa besar beban utang dibanding kekayaan bersih perusahaan. Jaminan dari Protelindo dan Iforte, yang masing-masing pemegang saham mayoritas dalam rantai kepemilikan IBST, berarti risiko gagal bayar ditanggung bersama di tingkat grup usaha. Yang perlu dipantau berikutnya adalah tanggal jatuh tempo baru fasilitas ini pada 31 Oktober 2027, karena itu akan menentukan apakah Perseroan perlu mencari pembiayaan baru atau memperpanjang kembali.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hajj-konversi-piutang-rp49-9-miliar-jadi-modal-anak-usaha-di-saudi",
+  "category": "Aksi Korporasi",
+  "title": "HAJJ Konversi Piutang Rp49,9 Miliar Jadi Modal Anak Usaha di [Saudi]",
+  "deck": "HAJJ mengonversi piutangnya ke anak usaha ABT LLC di Arab Saudi menjadi modal senilai Rp49,9 miliar, setara 24,44% ekuitas perusahaan per akhir September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T23:44:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8411bb9d86_0dc091bd97.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HAJJ",
+  "tags": [
+   "HAJJ",
+   "transaksi afiliasi",
+   "anak usaha",
+   "Arab Saudi"
+  ],
+  "body": [
+   "PT Arsy Buana Travelindo Tbk (HAJJ) melaporkan penambahan setoran modal pada anak usahanya di Arab Saudi, PT Arsy Buana Travelindo LLC (ABT LLC), per 28 Oktober 2026. Penambahan modal ini dilakukan bukan dengan uang baru, melainkan dengan mengonversi piutang perusahaan kepada ABT LLC menjadi setoran modal. ABT LLC sendiri adalah perusahaan perseorangan yang didirikan berdasarkan hukum Arab Saudi dan seluruh sahamnya dimiliki HAJJ. Dengan konversi ini, modal ABT LLC melonjak dari SAR 10.000 menjadi SAR 10.461.000.",
+   "Nilai transaksi tercatat sebesar Rp49.925.367.590, atau sekitar 24,44 persen dari nilai ekuitas HAJJ per 30 September 2026. Karena besarannya, transaksi ini dikategorikan sebagai Transaksi Material menurut POJK 17 sekaligus Transaksi Afiliasi menurut POJK 42. Namun perusahaan menyatakan transaksi ini dikecualikan dari kewajiban penilaian independen maupun persetujuan RUPS, karena ABT LLC adalah perusahaan terkendali yang 100 persen sahamnya dimiliki HAJJ sehingga memenuhi pengecualian dalam Pasal 6 ayat 1 huruf b POJK 42 dan Pasal 11 huruf a POJK 17.",
+   "Dalam laporannya, manajemen menyebut transaksi ini tidak berdampak negatif terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Perusahaan juga menegaskan bahwa dalam laporan keuangan konsolidasian, transaksi ini akan dieliminasi. Laporan ditandatangani oleh Agung Prabowo, Direktur Keuangan dan Administrasi HAJJ."
+  ],
+  "fotoAdegan": "Travel agency staff helping pilgrims with suitcases near a shuttle bus outside an airport terminal, bright midday light",
+  "takeaway": "Transaksi ini netral bagi fundamental HAJJ, karena intinya hanya memindahkan aset dari satu bentuk ke bentuk lain di dalam grup usaha yang sama, bukan dana segar yang masuk atau keluar dari perusahaan. Yang tersentuh di sini adalah struktur permodalan anak usaha, sebab piutang (hak tagih HAJJ ke ABT LLC) diubah menjadi penyertaan saham di ABT LLC, dan karena dieliminasi saat laporan keuangan HAJJ dan ABT LLC digabung, total ekuitas maupun kas konsolidasian perusahaan tidak berubah meski nilainya mencapai 24,44 persen dari ekuitas. Tidak ada RUPS atau tenggat persetujuan yang perlu ditunggu karena transaksi ini memang dikecualikan dari proses itu akibat kepemilikan penuh HAJJ di ABT LLC. Yang layak dicermati selanjutnya adalah laporan keuangan tahun buku 2026, untuk melihat apakah penguatan modal di Arab Saudi ini diikuti perluasan kapasitas layanan umrah atau haji anak usaha tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "supr-perpanjang-kredit-rp2-triliun-ke-oktober-2027",
   "category": "Aksi Korporasi",
   "title": "SUPR [Perpanjang] Kredit Rp2 Triliun ke Oktober 2027",
@@ -80,6 +158,32 @@ var ARTICLES = [
   "fotoAdegan": "Technicians checking blinking server racks in a dim data center used for digital asset custody, cables neatly bundled, cool blue lighting",
   "takeaway": "Laporan ini condong negatif bagi COIN karena kinerja inti berbalik dari untung menjadi buntung, sementara perbaikan di sisi utang belum cukup mengimbangi. Yang perlu disimak adalah laba per saham, yakni bagian rugi yang jatuh ke tiap lembar saham, yang berubah dari positif Rp2,04 menjadi negatif Rp2,77, serta arus kas operasi, yaitu uang tunai yang benar-benar mengalir dari kegiatan bisnis harian, yang berbalik jadi menggerus kas sebesar Rp71,38 miliar padahal tahun lalu menghasilkan kas. Ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham, ikut tergerus sejalan dengan rugi tersebut. Yang perlu dipantau selanjutnya adalah apakah tren penurunan pendapatan dan arus kas negatif ini masih berlanjut pada laporan kuartal III 2026, terutama karena laporan periode ini sendiri merupakan koreksi dari penyampaian sebelumnya sehingga ada kemungkinan penyesuaian lanjutan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "dssa-beli-tanah-rp3-1-triliun-dari-afiliasi-untuk-pusat-data",
+  "category": "Aksi Korporasi",
+  "title": "DSSA Beli Tanah Rp3,1 Triliun dari [Afiliasi] untuk Pusat Data",
+  "deck": "Anak usaha DSSA, SMCCG, membeli lahan 166.261 m2 di BSD City senilai Rp3,1 triliun dari PT Surya Inter Wisesa, pihak terafiliasi karena hubungan keluarga pemilik manfaat akhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T22:14:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/441c0f4c0a_225666c4b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DSSA",
+  "tags": [
+   "DSSA",
+   "transaksi afiliasi",
+   "pusat data",
+   "BSD City"
+  ],
+  "body": [
+   "PT Dian Swastatika Sentosa Tbk (DSSA) melaporkan transaksi afiliasi berupa pembelian tanah oleh anak usahanya, PT SMPlus Cakrawala Cipta Gemilang (SMCCG), dari PT Surya Inter Wisesa (SIW). Perjanjian pengikatan jual beli ditandatangani pada 26 Oktober 2026 dengan nilai Rp3.100.000.000.000, belum termasuk pajak dan biaya hukum. Objeknya adalah sebidang tanah seluas 166.261 meter persegi di D-Hub Special Economic Zone Cluster 2B, BSD City, Kabupaten Tangerang, yang akan digunakan untuk pengembangan pusat data. Transaksi digolongkan afiliasi karena SMCCG dan SIW memiliki hubungan keluarga antar pemilik manfaat akhir, mengingat SIW sepenuhnya dimiliki oleh PT Bumi Serpong Damai Tbk yang berada dalam kelompok usaha yang sama dengan DSSA.",
+   "Berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, nilai transaksi setara US$173.611.111 dengan kurs tengah BI Rp17.856 per dolar, atau 5,70 persen dari ekuitas perusahaan sebesar US$3.047.923.476, sehingga tidak masuk kategori transaksi material menurut aturan OJK. DSSA juga menegaskan ini bukan transaksi benturan kepentingan karena tidak ada perbedaan kepentingan ekonomis antara perusahaan dan jajaran direksi, komisaris, maupun pemegang saham utamanya. Dua penilai independen dilibatkan, KJPP Hendra dan Rekan untuk menilai harga pasar tanah, dan KJPP Dasa'at, Yudistira, dan Rekan untuk memberikan pendapat kewajaran atas transaksi. KJPP Hendra dan Rekan menaksir nilai pasar tanah tersebut per 30 Juni 2026 sebesar Rp3.120.440.000.000, sedikit di atas harga transaksi Rp3,1 triliun yang disepakati.",
+   "Dalam laporan proforma yang mengasumsikan transaksi terjadi pada 30 Juni 2026, dampaknya hanya berupa pergeseran komposisi aset. Aset lancar DSSA turun US$173.611.111 menjadi US$2.114.308.559, sementara aset tidak lancar naik dengan jumlah yang sama menjadi US$3.961.888.785, sehingga total aset tetap US$6.076.197.344. Jumlah liabilitas, ekuitas, pendapatan usaha, laba kotor, laba sebelum pajak, dan laba periode berjalan seluruhnya tidak berubah dari sebelum transaksi."
+  ],
+  "fotoAdegan": "Wide cleared plot of reddish soil with surveying stakes in a special economic zone, distant construction equipment, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi DSSA, karena transaksi senilai Rp3,1 triliun ini hanya mengubah bentuk aset dari kas menjadi tanah, dan harga yang dipakai malah sedikit di bawah hasil taksiran independen sebesar Rp3,12 triliun, sehingga tidak terlihat ada pihak terafiliasi yang diuntungkan secara tidak wajar. Yang tersentuh di sini adalah komposisi aset: aset lancar seperti kas berkurang sekitar US$173,6 juta, aset tidak lancar bertambah dengan jumlah yang sama, sementara ekuitas dan laba perusahaan sama sekali tidak berubah karena transaksi ini murni pembelian aset, bukan beban atau pendapatan. Pasar biasanya mewaspadai transaksi afiliasi semacam ini karena rawan dipakai menggeser kekayaan ke pihak terkait dengan harga tidak wajar, sehingga keterlibatan dua penilai independen, satu untuk menaksir harga tanah dan satu untuk memberi pendapat kewajaran, menjadi penyeimbang penting. Yang perlu dipantau selanjutnya adalah isi lengkap pendapat kewajaran dari KJPP Dasa'at, Yudistira, dan Rekan yang belum dirinci dalam ringkasan ini, serta realisasi pembangunan pusat data SMCCG di atas lahan tersebut yang menjadi alasan utama transaksi ini dilakukan.",
+  "sentimen": "netral"
  },
  {
   "slug": "pgeo-bukukan-laba-bersih-us-126-62-juta-sembilan-bulan-2026",
@@ -529,6 +633,215 @@ var ARTICLES = [
   "fotoAdegan": "Grand colonial-style hotel entrance with stone columns and a manicured garden in central Jakarta, soft overcast morning light",
   "takeaway": "Laporan ini condong negatif bagi HRME, karena pendapatan hotel menyusut, perseroan berbalik dari untung usaha menjadi rugi usaha, dan kas perusahaan terkuras hampir 40 persen dalam sembilan bulan, padahal sahamnya sudah berstatus pemantauan khusus di bursa. Pos yang paling kena dampak adalah ekuitas, arus kas, dan laba per saham. Ekuitas adalah kekayaan bersih yang jadi hak pemegang saham setelah utang dikurangkan, dan nilainya turun karena rugi yang terus menumpuk menambah saldo rugi perusahaan. Arus kas operasional, yaitu uang tunai yang benar-benar masuk dari kegiatan hotel sehari-hari, masih negatif meski membaik dibanding tahun lalu, sehingga perusahaan menutup kekurangan kas dengan menjual aset tetap senilai Rp43,39 miliar dan memakainya untuk melunasi pinjaman bank Rp37,2 miliar, sementara laba per saham, yaitu bagian rugi yang ditanggung setiap lembar saham, melebar dari Rp0,96 menjadi Rp2,65. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang telah diaudit, yang akan menunjukkan apakah tren rugi usaha dan penyusutan kas sembilan bulan ini masih berlanjut di kuartal terakhir, serta apakah piutang kepada pihak berelasi yang naik jadi Rp191,17 miliar akhirnya bisa ditagih kembali.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "pdpp-laba-bersih-naik-127-ke-rp59-9-miliar-laba",
+  "category": "Aksi Korporasi",
+  "title": "PDPP: Laba Bersih Naik 127% ke Rp59,9 Miliar [laba]",
+  "deck": "Primadaya Plastisindo (PDPP) membukukan laba bersih Rp59,9 miliar pada sembilan bulan 2026, naik 127 persen, didorong kenaikan penjualan dan harga bahan baku.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T19:29:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028193738-65163-0/FinancialStatement-2026-III-PDPP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PDPP",
+  "tags": [
+   "PDPP",
+   "laporan keuangan",
+   "laba bersih",
+   "industri kemasan"
+  ],
+  "body": [
+   "PT Primadaya Plastisindo Tbk (PDPP) melaporkan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan bersih perusahaan produsen kemasan plastik ini tercatat Rp545,62 miliar, naik dari Rp387,30 miliar pada periode yang sama tahun 2025. Laba kotor naik dari Rp72,57 miliar menjadi Rp116,99 miliar, sementara laba usaha melonjak dari Rp45,14 miliar menjadi Rp85,03 miliar. Setelah dikurangi pajak, laba bersih periode berjalan mencapai Rp59,90 miliar, naik 127 persen dari Rp26,34 miliar pada sembilan bulan 2025, sehingga laba per saham naik dari Rp8,60 menjadi Rp19,57.",
+   "Total aset perusahaan per 30 September 2026 mencapai Rp725,52 miliar, naik 20,4 persen dari Rp602,77 miliar pada akhir 2025, sementara total liabilitas naik lebih tajam, 40 persen, dari Rp170,30 miliar menjadi Rp238,40 miliar. Karena kenaikan ini melewati ambang 20 persen yang diatur Bursa Efek Indonesia, PDPP menyampaikan surat penjelasan resmi ke OJK dan BEI bernomor 376/SK/PDPP-HO/X/2026 yang ditandatangani 27 Oktober 2026. Perusahaan menjelaskan, piutang usaha dari pihak ketiga melonjak dari Rp67,12 miliar menjadi Rp165,14 miliar karena penjualan ke pelanggan lama naik seiring kenaikan harga bahan baku, sementara uang muka pembelian aset tetap naik dari Rp6,35 miliar menjadi Rp24,50 miliar untuk rencana pembelian mesin dan peralatan pabrik yang sampai akhir September belum terealisasi.",
+   "Di sisi liabilitas, utang bank jangka pendek naik dari Rp53,84 miliar menjadi Rp116,82 miliar yang menurut perusahaan dipakai untuk mendukung kebutuhan modal kerja, sementara utang usaha kepada pihak ketiga naik dari Rp18,18 miliar menjadi Rp35,19 miliar akibat meningkatnya pembelian kredit untuk kebutuhan operasional. Utang pajak juga naik dari Rp4,40 miliar menjadi Rp14,79 miliar seiring kenaikan laba yang membuat beban pajak badan ikut membesar. Kas dan setara kas perusahaan naik dari Rp6,52 miliar menjadi Rp24,79 miliar, yang menurut perusahaan berasal dari peningkatan penjualan tunai, terutama penjualan ekspor, dalam bentuk deposito mata uang asing. Sepanjang periode ini, PDPP juga membagikan dividen Rp6,91 miliar, naik dari Rp3,58 miliar pada tahun sebelumnya."
+  ],
+  "fotoAdegan": "Workers inspecting rolls of plastic packaging film on a production line inside an Indonesian factory, overhead lighting",
+  "takeaway": "Laporan ini condong positif karena laba bersih PDPP naik 127 persen menjadi Rp59,9 miliar dan penjualan tumbuh 41 persen, jauh melampaui kenaikan utang bank jangka pendek yang menurut perusahaan dipakai untuk modal kerja. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang menjadi hak pemegang saham, yang naik dari Rp432,5 miliar menjadi Rp487,1 miliar, sementara laba per saham ikut terdongkrak dari Rp8,60 menjadi Rp19,57 karena jumlah saham beredar tidak berubah. Pelaku pasar biasanya mencermati pos ini karena kenaikan ekuitas dan laba per saham mencerminkan nilai buku pemegang saham yang membesar, bukan sekadar laba di atas kertas. Yang perlu dipantau berikutnya adalah realisasi rencana ekspansi mesin pabrik yang uang mukanya sudah dibayar Rp24,5 miliar namun belum terealisasi sampai akhir September, serta RUPSLB yang telah dijadwalkan perusahaan pada 2 Desember 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bbni-siapkan-buyback-baru-rp547-miliar-saat-pasar-bergejolak",
+  "category": "Aksi Korporasi",
+  "title": "BBNI Siapkan Buyback [Baru] Rp547 Miliar Saat Pasar Bergejolak",
+  "deck": "BNI akan membeli kembali saham maksimal Rp547 miliar lewat bursa dalam tiga bulan untuk merespons fluktuasi pasar yang signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T19:12:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1e504f11aa_dae985e0b0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBNI",
+  "tags": [
+   "BBNI",
+   "buyback",
+   "saham",
+   "OJK"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk mengumumkan rencana pembelian kembali saham atau buyback dengan nilai maksimal Rp547 miliar. Keterbukaan informasi ini diterbitkan pada 28 Oktober 2026 dan ditandatangani oleh Corporate Secretary BNI, Okki Rushartomo Budiprabowo. Rencana ini mengacu pada Peraturan OJK Nomor 13 Tahun 2023 tentang kebijakan menjaga kinerja dan stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan, yang kebijakannya diperpanjang lewat surat OJK tertanggal 25 Oktober 2026 dan 20 Oktober 2026.",
+   "Buyback akan dilaksanakan melalui Bursa Efek Indonesia lewat satu anggota bursa, baik secara bertahap maupun sekaligus, dan harus diselesaikan paling lambat tiga bulan sejak keterbukaan informasi ini terbit, yakni sekitar akhir Januari 2027. BNI memastikan dana yang dipakai berasal dari kas internal perusahaan, bukan dari hasil penawaran umum dan bukan dari pinjaman atau utang dalam bentuk apa pun. Manajemen menyatakan penggunaan dana ini tidak akan mengganggu kemampuan keuangan perusahaan memenuhi kewajiban yang akan jatuh tempo.",
+   "Dalam analisis dampak yang disampaikan, aset dan ekuitas BNI diperkirakan turun paling banyak sebesar nilai buyback ditambah biaya pelaksanaannya. Namun perusahaan menegaskan kekayaan bersihnya tetap akan berada di atas jumlah modal yang ditempatkan ditambah cadangan wajib, dan buyback ini tidak berdampak signifikan pada pendapatan maupun biaya operasional, serta tidak akan mengurangi likuiditas saham BNI di bursa secara signifikan. Saham hasil buyback nantinya akan dialihkan sesuai tata cara dalam POJK 13/2023 dan POJK Nomor 29 Tahun 2023 tentang pembelian kembali saham oleh perusahaan terbuka."
+  ],
+  "fotoAdegan": "Stock exchange trading floor hallway with blurred digital ticker boards in the background, Jakarta financial district",
+  "takeaway": "Penilaian kami netral, sebab Rp547 miliar yang disiapkan untuk buyback ini tergolong kecil dibandingkan skala aset dan modal BNI sebagai bank besar, dan dananya berasal dari kas internal, bukan utang. Pos yang tersentuh adalah ekuitas dan aset, yang diperkirakan turun paling banyak sebesar nilai buyback ditambah biaya transaksinya, serta rasio kecukupan modal atau CAR, yaitu ukuran seberapa tebal bantalan modal bank menyerap kerugian, yang pada laporan kuartalan terakhir BNI memang sudah turun ke 19,2 persen. Jumlah saham beredar juga bisa sedikit berkurang kalau saham hasil buyback nantinya ditarik dari pasar, yang secara teknis bisa menaikkan laba per saham. Yang perlu dipantau adalah batas waktu pelaksanaan buyback ini, yaitu paling lambat tiga bulan sejak 28 Oktober 2026 atau sekitar akhir Januari 2027, serta laporan realisasi berikutnya untuk melihat apakah BNI benar-benar menyerap seluruh pagu seperti pada program buyback sebelumnya yang hanya terealisasi 22,95 juta saham dari pagu Rp627 miliar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pool-siapkan-jual-30-saham-pola-target-audit-rampung-desember",
+  "category": "Aksi Korporasi",
+  "title": "POOL Siapkan Jual 30% Saham [POLA], Target Audit Rampung Desember",
+  "deck": "Direksi baru POOL paparkan tiga pilar pemulihan: audit tiga tahun yang tertunda, rencana jual 30% saham POLA, dan rugi semester I yang menyusut tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T18:58:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3073962564_169039a274.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POOL",
+  "tags": [
+   "POOL",
+   "POLA",
+   "Public Expose",
+   "restrukturisasi perusahaan"
+  ],
+  "body": [
+   "PT Pool Advista Indonesia Tbk (POOL) menggelar Public Expose Tahunan 2026 pada 23 Oktober 2026, dihadiri 34 peserta di luar jajaran manajemen dan karyawan Perseroan. Ini acara pertama di bawah susunan Direksi dan Dewan Komisaris baru hasil Rapat Umum Pemegang Saham Luar Biasa 22 September 2026, yaitu Marang sebagai Komisaris Utama, Hamdriyanto sebagai Komisaris Independen, Teuku Johas Raffli sebagai Direktur Utama, Teuku Rahmatsyah sebagai Direktur Keuangan, dan Ferdiansyah Siregar sebagai Direktur Hukum, Kepatuhan, dan Sekretaris Perusahaan.",
+   "Secara keuangan, manajemen melaporkan ekuitas konsolidasian Perseroan per 30 Juni 2026 tercatat Rp344,4 miliar, berbanding liabilitas yang hanya Rp9,8 miliar, dengan sekitar 65 persen aset berupa kas, portofolio efek, dan penyertaan langsung. Rugi periode Januari hingga Juni 2026 tercatat Rp0,45 miliar, turun dari Rp4,8 miliar pada periode yang sama tahun 2025. Perseroan menegaskan angka tersebut masih versi internal manajemen yang belum diaudit, mengingat laporan keuangan auditan terakhir Perseroan adalah untuk tahun buku 2022.",
+   "Manajemen menyampaikan tiga pilar rencana kerja. Pilar pertama adalah penataan portofolio investasi lewat penjualan 30 persen saham PT Pool Advista Finance Tbk (POLA) melalui Conditional Share Purchase Agreement dengan dasar harga nilai buku yang didukung penilaian independen Kantor Jasa Penilai Publik, sebagaimana sudah diungkapkan dalam Keterbukaan Informasi 8 Oktober 2026. POOL akan tetap menjadi pemegang saham pengendali POLA, dan dana dari transaksi ini rencananya ditempatkan pada instrumen seperti Surat Berharga Negara. Pilar kedua adalah tata kelola dan kepatuhan: Dewan Komisaris menunjuk Kantor Akuntan Publik pada Oktober 2026 untuk mengaudit tahun buku 2023, 2024, dan 2025 secara paralel, dengan target penerbitan laporan keuangan auditan pada Desember 2026, dilanjutkan RUPS Tahunan dan pemenuhan syarat pembukaan suspensi saham. Pilar ketiga adalah investasi strategis jangka panjang pada usaha produktif, tanpa rencana mengubah bidang usaha Perseroan."
+  ],
+  "fotoAdegan": "Stacks of bound financial ledgers and binders on office shelves, warm overhead lighting, shallow depth of field blurring text",
+  "takeaway": "Laporan ini condong positif bagi POOL, karena membuktikan kepengurusan yang sempat kosong kini terisi penuh, rugi menyusut tajam dalam setahun, dan ada rencana konkret menuntaskan audit tiga tahun yang menggantung, meski status suspensi sahamnya belum resmi dicabut. Pos kinerja yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang jadi hak pemegang saham, yang di sini tercatat besar dan hampir tidak dibebani utang, sehingga jadi modal untuk rencana investasi baru lewat penjualan sebagian saham anak usahanya, POLA. Beban usaha yang lebih efisien juga tercermin dari rugi yang susut dari Rp4,8 miliar jadi Rp0,45 miliar, meski investor perlu ingat angka ini belum diaudit. Yang perlu dipantau berikutnya adalah penerbitan laporan keuangan auditan untuk tahun buku 2023 hingga 2025 yang ditargetkan rampung Desember 2026, karena itulah yang menentukan jadwal RUPS Tahunan dan pemenuhan syarat agar suspensi perdagangan saham POOL bisa dicabut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "brms-tarik-pinjaman-sindikasi-us-128-juta-laba-turun-37",
+  "category": "Aksi Korporasi",
+  "title": "BRMS Tarik Pinjaman [Sindikasi] US$128 Juta, Laba Turun 37%",
+  "deck": "Bumi Resources Minerals mencairkan pinjaman sindikasi US$128 juta untuk mendanai ekspansi tambang, tapi beban bunga melonjak dan laba sembilan bulan turun 37 persen dibanding tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T18:50:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028190004-64557-0/FinancialStatement-2026-III-BRMS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRMS",
+  "tags": [
+   "BRMS",
+   "Bumi Resources Minerals",
+   "pinjaman sindikasi",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Bumi Resources Minerals Tbk (BRMS) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset perusahaan naik menjadi US$1,45 miliar dari US$1,31 miliar pada akhir 2025. Dalam surat terpisah ke Bursa Efek Indonesia, manajemen menjelaskan bahwa total liabilitas melonjak 47,69 persen menjadi US$392,88 juta dari US$266,01 juta, dipicu oleh pencairan fasilitas pinjaman sindikasi senilai US$128 juta sepanjang 2026, dikurangi pembayaran cicilan sebesar US$13,725 juta. Liabilitas jangka panjang menjadi US$291,35 juta dari sebelumnya US$178,6 juta, terutama karena saldo pinjaman jangka panjang naik dari US$165,75 juta menjadi US$280,13 juta.",
+   "Dari sisi laba rugi, penjualan sembilan bulan tercatat US$167,58 juta, turun dari US$183,58 juta pada periode yang sama tahun lalu. Laba kotor turun menjadi US$92,55 juta dari US$98,83 juta, dan laba usaha turun menjadi US$52,01 juta dari US$69,72 juta. Beban bunga dan keuangan naik lebih dari dua kali lipat menjadi US$20,36 juta dari US$9,45 juta akibat utang baru tersebut. Akibatnya, laba bersih yang dapat diatribusikan kepada pemilik entitas induk turun menjadi US$23,94 juta dari US$37,91 juta, sekitar 37 persen lebih rendah, dengan laba per 1.000 saham turun dari 0,27 menjadi 0,17.",
+   "Dana pinjaman itu sebagian besar dibelanjakan untuk ekspansi. Arus kas untuk aktivitas investasi membengkak menjadi US$119,84 juta dari US$38,11 juta tahun lalu, dengan rincian US$75,66 juta untuk pembelian aset tetap dan US$34,93 juta untuk pembayaran properti pertambangan, naik tajam dari US$27,41 juta dan US$7,52 juta pada periode sebelumnya. Sejalan dengan itu, nilai aset tetap di laporan posisi keuangan naik dari US$248,41 juta menjadi US$324,24 juta, dan properti pertambangan naik dari US$272,34 juta menjadi US$442,93 juta. Sementara itu, arus kas dari aktivitas operasi hanya menghasilkan US$2,48 juta, jauh lebih kecil dibanding US$24,8 juta pada periode sembilan bulan 2025. Total ekuitas naik tipis menjadi US$1,06 miliar dari US$1,04 miliar, ditopang oleh laba bersih periode berjalan."
+  ],
+  "fotoAdegan": "Heavy haul trucks carrying ore along a terraced open-pit gold mine road, dust rising under an overcast tropical sky, hard-hatted workers in the distance.",
+  "takeaway": "Laporan ini condong negatif bagi fundamental BRMS, sebab laba bersihnya turun tajam justru ketika utangnya melonjak. Yang tersentuh adalah beban bunga, laba per saham, dan arus kas dari kegiatan operasional: beban bunga naik lebih dari dua kali lipat menjadi US$20,36 juta karena pinjaman sindikasi baru, kas dari operasi sehari-hari anjlok dari US$24,8 juta menjadi hanya US$2,48 juta, dan laba per 1.000 saham turun dari 0,27 menjadi 0,17. Pelaku pasar mencermati pos-pos ini karena beban bunga yang membesar langsung memakan laba, sementara arus kas operasi yang menipis menandakan bisnis inti menghasilkan uang tunai lebih sedikit meski penjualan cuma turun tipis. Sisi positifnya, sebagian besar dana pinjaman itu dibelanjakan untuk aset tetap dan properti pertambangan yang nilainya naik signifikan dalam laporan ini, jadi ini utang untuk ekspansi, bukan sekadar menambal kekurangan kas. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan audit untuk tahun buku 2026, yang akan menunjukkan apakah belanja modal ini mulai mengangkat produksi dan membalikkan tren penurunan laba sembilan bulan terakhir.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "vrna-berbalik-laba-rp2-49-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "VRNA Berbalik [Laba] Rp2,49 Miliar di Sembilan Bulan 2026",
+  "deck": "Mizuho Leasing Indonesia (VRNA) berbalik dari rugi jadi laba Rp2,49 miliar pada sembilan bulan 2026, tapi arus kas dari operasinya anjlok lebih dari 80 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T18:44:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028184937-64947-0/FinancialStatement-2026-III-VRNA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VRNA",
+  "tags": [
+   "VRNA",
+   "Mizuho Leasing Indonesia",
+   "laporan keuangan",
+   "pembiayaan konsumen"
+  ],
+  "body": [
+   "PT Mizuho Leasing Indonesia Tbk (VRNA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perusahaan pembiayaan konsumen dan sewa guna usaha ini mencatat laba bersih Rp2,49 miliar, berbalik dari rugi bersih Rp2,02 miliar pada periode yang sama tahun lalu. Laba per saham dasar pun berbalik dari rugi Rp0,36 menjadi laba Rp0,44 per saham.",
+   "Perbaikan laba ini terutama ditopang oleh turunnya beban bunga dan pembiayaan dari Rp100,81 miliar menjadi Rp92,40 miliar, serta penurunan pencadangan kerugian penurunan nilai piutang dari Rp96,23 miliar menjadi Rp77,84 miliar. Di sisi lain, total pendapatan perusahaan justru turun dari Rp332,57 miliar menjadi Rp320,90 miliar, dengan pendapatan dari pembiayaan konsumen turun dari Rp226,48 miliar menjadi Rp221,25 miliar, sementara pendapatan dari sewa pembiayaan naik tipis dari Rp52,96 miliar menjadi Rp53,28 miliar. Beban gaji dan tunjangan karyawan justru naik dari Rp94,77 miliar menjadi Rp102,85 miliar.",
+   "Dari sisi posisi keuangan, total aset VRNA tercatat Rp3,14 triliun per akhir September 2026, turun dari Rp3,15 triliun pada akhir 2025. Total liabilitas turun dari Rp2,41 triliun menjadi Rp2,39 triliun, sementara total ekuitas naik tipis dari Rp744,01 miliar menjadi Rp747,34 miliar. Komposisi pendanaan juga bergeser: pinjaman dari pihak ketiga turun dari Rp532,28 miliar menjadi Rp365,74 miliar, sementara pinjaman dari pihak berelasi, termasuk dari grup usaha Mizuho, naik dari Rp1,76 triliun menjadi Rp1,90 triliun. Arus kas bersih dari aktivitas operasi anjlok dari Rp168,04 miliar pada sembilan bulan 2025 menjadi hanya Rp32,02 miliar pada sembilan bulan 2026."
+  ],
+  "fotoAdegan": "A dealership lot with rows of parked motorcycles and small cars under soft afternoon light, somewhere in Jakarta",
+  "takeaway": "Laporan ini condong netral bagi VRNA: laba bersih memang berbalik dari rugi, tapi perbaikannya datang dari penurunan pencadangan kerugian kredit dan beban bunga, bukan dari pendapatan yang justru menyusut, dan arus kas dari operasi anjlok lebih dari 80 persen menjadi hanya Rp32,02 miliar. Arus kas operasi ini penting dicermati karena itu uang tunai yang benar-benar diterima perusahaan dari bisnis pembiayaan dan sewanya, sehingga laba di atas kertas bisa naik meski uang kas yang masuk justru menipis, dan itu memengaruhi kemampuan perusahaan membayar utang jatuh tempo tanpa bergantung pada pinjaman baru. Komposisi pendanaan pun bergeser, pinjaman dari pihak ketiga turun sementara pinjaman dari pihak berelasi dalam grup usaha Mizuho naik, yang berarti perusahaan makin mengandalkan dukungan dari induk usahanya sendiri. Pemegang saham sebaiknya menanti laporan keuangan audit tahun penuh 2026 serta data kualitas piutang pembiayaan konsumen dan sewa pada kuartal berikutnya untuk melihat apakah pemulihan laba ini berlanjut atau hanya sementara karena pencadangan yang mengecil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bltz-laba-ambruk-97-persen-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ: Laba [Ambruk] 97 Persen di Kuartal III 2026",
+  "deck": "Laba bersih CGV Cinemas (BLTZ) longsor ke Rp919 juta pada sembilan bulan 2026 akibat beban pajak tinggi, meski utang bank berhasil dipangkas dari Rp486 miliar menjadi Rp370 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T18:28:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183613-65270-0/FinancialStatement-2026-III-BLTZ.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLTZ",
+  "tags": [
+   "BLTZ",
+   "laporan keuangan",
+   "CGV Cinemas",
+   "laba turun"
+  ],
+  "body": [
+   "PT Graha Layar Prima Tbk (BLTZ), operator bioskop CGV Cinemas, melaporkan laba bersih periode sembilan bulan yang berakhir 30 September 2026 hanya Rp919,53 juta, anjlok dari Rp28,74 miliar pada periode yang sama tahun lalu. Penurunan ini jauh lebih tajam dibanding penurunan pendapatan, yang turun 12 persen dari Rp922,26 miliar menjadi Rp811,59 miliar. Laba per saham ikut longsor dari Rp33 menjadi hanya Rp1 per saham.",
+   "Penyebab utama anjloknya laba bersih adalah beban pajak penghasilan yang tetap besar meski laba sebelum pajak sudah merosot. Laba sebelum pajak turun dari Rp47,87 miliar menjadi Rp15,24 miliar, tetapi beban pajak yang ditanggung mencapai Rp14,32 miliar, hampir menghabiskan seluruh laba sebelum pajak tersebut. Di sisi operasional, beban pokok pendapatan turun 9,1 persen dan beban umum serta administrasi turun dari Rp278,4 miliar menjadi Rp259,96 miliar, sementara beban bunga dan keuangan juga berkurang dari Rp87,65 miliar menjadi Rp71,67 miliar.",
+   "Dari sisi posisi keuangan, kas dan setara kas perusahaan menyusut dari Rp231,36 miliar pada akhir 2025 menjadi Rp131,02 miliar pada akhir September 2026. Penyusutan ini sebagian terjadi karena perusahaan melunasi pinjaman bank senilai Rp450 miliar sekaligus menarik pinjaman baru Rp334 miliar, sehingga saldo utang bank turun dari Rp486 miliar menjadi Rp370 miliar. Total aset turun dari Rp1.883,60 triliun menjadi Rp1.715,34 triliun, sementara jumlah ekuitas relatif stabil di Rp451,65 miliar. Per 30 September 2026, perusahaan mengoperasikan 71 bioskop CGV dan satu waralaba CGV Cinema."
+  ],
+  "fotoAdegan": "Empty cinema auditorium with rows of red seats facing a blank screen, dim ambient lighting, wide angle shot",
+  "takeaway": "Laporan ini condong negatif untuk BLTZ karena laba bersih ambruk 97 persen menjadi hanya Rp919 juta, padahal pendapatan cuma turun 12 persen, tanda ada tekanan ekstra di luar bisnis inti yang ikut menggerus laba. Pos yang paling kena dampak adalah laba per saham, yaitu keuntungan bersih dibagi jumlah saham beredar yang jadi acuan investor menilai profitabilitas, yang longsor dari Rp33 menjadi Rp1 karena beban pajak sebesar Rp14,32 miliar hampir menghabiskan seluruh laba sebelum pajak yang cuma Rp15,24 miliar. Pos lain yang perlu dicermati adalah kas perusahaan yang menyusut dari Rp231 miliar menjadi Rp131 miliar dalam sembilan bulan, meski sebagian karena perusahaan sengaja melunasi pinjaman bank dari Rp486 miliar menjadi Rp370 miliar, langkah yang justru mengurangi beban bunga di masa depan. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, yang akan menunjukkan apakah lonjakan beban pajak dan pelemahan laba kuartal ini bersifat sementara atau berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "axio-catat-laba-9-bulan-naik-74-eps-jadi-rp10-45",
+  "category": "Aksi Korporasi",
+  "title": "AXIO Catat Laba 9 Bulan Naik 74%, [EPS] Jadi Rp10,45",
+  "deck": "Laba bersih Tera Data Indonusa naik 74 persen jadi Rp61,08 miliar dalam sembilan bulan, namun arus kas operasional berbalik negatif Rp97,82 miliar seiring piutang usaha melonjak 126 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T18:27:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183854-65310-0/FinancialStatement-2026-III-AXIO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AXIO",
+  "tags": [
+   "AXIO",
+   "laporan keuangan",
+   "laba bersih",
+   "arus kas"
+  ],
+  "body": [
+   "PT Tera Data Indonusa Tbk (AXIO) menyampaikan koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, yang ditandatangani Direktur Utama Michael Sugiarto dan Direktur Luhur Budiman pada 15 Oktober 2026. Pendapatan perusahaan tercatat Rp1,36 triliun, naik dari Rp1,09 triliun pada periode yang sama tahun lalu. Laba kotor naik dari Rp169,35 miliar menjadi Rp224,99 miliar, dan laba usaha naik dari Rp57,49 miliar menjadi Rp101,23 miliar. Setelah dikurangi beban keuangan yang naik dari Rp13,99 miliar menjadi Rp23,40 miliar serta pajak, laba bersih AXIO mencapai Rp61,08 miliar, naik 74 persen dari Rp35,19 miliar tahun sebelumnya. Laba per saham dasar naik dari Rp5,69 menjadi Rp10,45.",
+   "Perusahaan juga menyampaikan surat penjelasan ke Bursa Efek Indonesia soal pos-pos yang berubah lebih dari 20 persen dibandingkan akhir 2025. Kas dan setara kas turun 79 persen dari Rp52,24 miliar menjadi Rp11,15 miliar, yang menurut manajemen karena digunakan untuk membayar utang, dividen, dan kebutuhan modal kerja. Piutang usaha justru melonjak 126 persen menjadi Rp194,65 miliar dari Rp86,35 miliar seiring kenaikan penjualan ke pelanggan. Persediaan naik 25 persen menjadi Rp739,09 miliar, dipicu pembelian bahan baku untuk persiapan produksi laptop model terbaru sebagai antisipasi gejolak rantai pasok komponen elektronik global. Untuk mendanai kebutuhan ini, utang bank jangka pendek melonjak 128 persen menjadi Rp287,84 miliar, sementara liabilitas kontrak atau uang muka dari pelanggan yang belum diakui sebagai pendapatan naik 44 persen menjadi Rp57,42 miliar.",
+   "Total aset AXIO per akhir September 2026 tercatat Rp1,42 triliun, naik 14 persen dari Rp1,25 triliun, sementara total liabilitas naik lebih cepat, 19 persen, menjadi Rp843,32 miliar. Total ekuitas naik menjadi Rp574,13 miliar dari Rp537,10 miliar, antara lain setelah perusahaan membagikan dividen tunai Rp23,36 miliar pada periode ini. Namun arus kas dari kegiatan operasional justru berbalik menjadi minus Rp97,82 miliar, dari sebelumnya positif Rp29,35 miliar pada periode yang sama tahun lalu, sementara arus kas dari aktivitas pendanaan tertopang oleh penarikan pinjaman bank jangka pendek baru senilai Rp565 miliar sepanjang periode berjalan."
+  ],
+  "fotoAdegan": "Warehouse workers packing stacks of laptop computers into cardboard boxes on a conveyor belt under bright industrial lighting",
+  "takeaway": "Laporan ini saya nilai netral, karena laba yang melonjak tajam dibayangi kondisi kas yang justru memburuk. Tiga pos yang bergeser: arus kas dari operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan usaha sehari-hari, berbalik menjadi minus Rp97,82 miliar dari sebelumnya positif Rp29,35 miliar, utang bank jangka pendek melonjak 128 persen menjadi Rp287,84 miliar untuk menutup kebutuhan modal kerja, dan laba per saham, yakni bagian laba yang secara teoritis jadi milik tiap satu lembar saham, naik hampir dua kali lipat dari Rp5,69 menjadi Rp10,45. Kenaikan laba ini sebagian ditopang oleh piutang usaha yang melonjak 126 persen, jauh di atas kenaikan penjualan yang hanya 24 persen, artinya sebagian penjualan itu belum berubah jadi uang tunai di kas perusahaan. Yang perlu dipantau berikutnya adalah apakah piutang sebesar itu benar-benar tertagih dan beban bunga atas utang bank yang membesar bisa dikelola, yang baru akan terlihat jelas pada laporan keuangan tahunan yang biasanya terbit sekitar akhir Maret 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mina-balik-untung-rp1-28-miliar-utang-susut-77-persen-di-q3",
+  "category": "Aksi Korporasi",
+  "title": "MINA balik [untung] Rp1,28 miliar, utang susut 77 persen di Q3",
+  "deck": "Laba bersih MINA berbalik positif pada kuartal III 2026, didorong penghasilan keuangan, sementara total utang perusahaan turun 77 persen setelah melunasi pinjaman ke pihak ketiga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T18:26:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183427-64544-0/FinancialStatement-2026-III-MINA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MINA",
+  "tags": [
+   "MINA",
+   "laporan keuangan",
+   "properti",
+   "Sanurhasta Mitra"
+  ],
+  "body": [
+   "PT Sanurhasta Mitra Tbk (MINA) menyampaikan laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026, yang belum diaudit. Laporan ditandatangani Direktur Utama Astini Bernawati Oudang dan Direktur Duddy Abdullah pada 26 Oktober 2026, lalu dikirim ke Bursa Efek Indonesia dan Otoritas Jasa Keuangan. Total aset perusahaan tercatat Rp254,47 miliar per akhir September 2026, turun dari Rp262,69 miliar pada akhir 2025.",
+   "Perubahan paling mencolok ada di sisi liabilitas. Total utang perusahaan turun 77,07 persen, dari Rp12,33 miliar menjadi Rp2,83 miliar, atau berkurang Rp9,50 miliar. Dalam surat penjelasan resmi ke BEI yang wajib disampaikan karena perubahan liabilitas melampaui 20 persen, manajemen menyebut penurunan ini terutama berasal dari pelunasan utang kepada pihak ketiga senilai Rp8,90 miliar. Laporan arus kas mencatat perusahaan membayar pinjaman Rp8,90 miliar dan bunga pinjaman Rp558,7 juta sepanjang sembilan bulan ini, dana yang sebagian berasal dari sisa penerbitan saham baru lewat skema hak memesan efek terlebih dahulu senilai Rp164,06 miliar yang masuk kas pada tahun sebelumnya.",
+   "Dari sisi laba rugi, pendapatan neto MINA turun tipis dari Rp7,48 miliar menjadi Rp7,30 miliar. Namun rugi usaha mengecil dari Rp4,63 miliar menjadi Rp3,28 miliar, dan penghasilan keuangan neto melonjak dari Rp829,9 juta menjadi Rp4,55 miliar. Hasilnya, perusahaan membalik posisi dari rugi neto Rp3,80 miliar pada sembilan bulan pertama 2025 menjadi laba neto Rp1,28 miliar pada periode yang sama tahun ini, dengan laba per saham dasar menjadi Rp0,13 dari sebelumnya rugi Rp0,39 per saham. Arus kas dari aktivitas operasi juga berbalik positif menjadi Rp1,53 miliar, dari sebelumnya defisit Rp2,47 miliar.",
+   "Total ekuitas perusahaan naik tipis menjadi Rp251,64 miliar dari Rp250,36 miliar. Dari dua anak usaha utama, PT Minna Padi Resorts yang mengoperasikan hotel dan vila di Bali sejak 2014 dengan kepemilikan 99,67 persen mencatat total aset Rp28,20 miliar, sementara PT Sanur Hasta Griya Developer di Boyolali, yang dikuasai penuh secara langsung dan tidak langsung, masih belum beroperasi sejak 2019 dengan aset Rp23,64 miliar."
+  ],
+  "fotoAdegan": "Quiet infinity pool deck at a tropical Bali villa resort, palm trees swaying, soft golden morning light, no people",
+  "takeaway": "Laporan ini netral bagi pemegang saham: utang yang menyusut drastis dan laba yang berbalik positif terlihat bagus di permukaan, tetapi kenaikan laba terutama didorong oleh penghasilan keuangan neto yang melonjak lebih dari lima kali lipat, bukan oleh bisnis inti yang justru masih mencatat rugi usaha dan pendapatan yang menyusut. Pos yang paling bergerak adalah total utang, yang turun karena pelunasan pinjaman sehingga beban bunga ke depan akan lebih ringan, dan laba per saham, yaitu bagian laba yang secara hitungan jatuh ke setiap lembar saham yang beredar, yang berubah dari minus menjadi plus. Arus kas operasi yang berbalik positif juga patut dicatat karena menunjukkan kegiatan usaha sehari-hari mulai menghasilkan kas, bukan cuma mengandalkan sisa dana penerbitan saham tahun lalu. Karena laporan ini belum diaudit, yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026 yang akan mengonfirmasi ulang angka-angka ini, serta apakah segmen hotel dan proyek properti di Boyolali yang masih mangkrak sejak 2019 mulai memberi kontribusi pendapatan baru.",
+  "sentimen": "netral"
  },
  {
   "slug": "ipcm-laba-bersih-tergerus-meski-pendapatan-naik-5-33",

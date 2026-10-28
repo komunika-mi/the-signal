@@ -556,6 +556,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "supa-laba-melonjak-ke-rp299-9-miliar-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "SUPA: Laba [Melonjak] ke Rp299,9 Miliar Kuartal III 2026",
+  "deck": "Laba bersih Super Bank Indonesia naik hampir lima kali lipat jadi Rp299,9 miliar pada sembilan bulan 2026, didorong lonjakan kredit dan simpanan nasabah.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUPA",
+   "perbankan",
+   "laporan keuangan",
+   "Super Bank Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183143-64715-0/FinancialStatement-2026-III-SUPA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ipcm-laba-bersih-tergerus-meski-pendapatan-naik-5-33",
   "category": "Aksi Korporasi",
   "title": "IPCM: Laba Bersih [Tergerus] Meski Pendapatan Naik 5,33%",
@@ -730,6 +746,166 @@ var ARTICLES = [
    "petrokimia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7337fa550c_04bbac874a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "obligasi-tpia-senilai-rp266-95-miliar-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi TPIA Senilai Rp266,95 Miliar [Jatuh Tempo]",
+  "deck": "Obligasi Seri A TPIA senilai Rp266,95 miliar resmi jatuh tempo dan tidak lagi diperdagangkan di Bursa Efek Indonesia mulai 29 Oktober 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "obligasi",
+   "jatuh tempo",
+   "Chandra Asri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1d73a13419_029036c795.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bgtg-rombak-direksi-dan-komisaris-tiga-wajah-baru",
+  "category": "Aksi Korporasi",
+  "title": "BGTG [Rombak] Direksi dan Komisaris, Tiga Wajah Baru",
+  "deck": "Bank Ganesha mengangkat dua direktur baru dan satu komisaris baru efektif 21 Oktober 2026, sementara jajaran pimpinan utama tidak berubah.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BGTG",
+   "Bank Ganesha",
+   "direksi",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/16e1cb20b5_38f77c63b3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inpp-cetak-laba-rp170-6-miliar-berbalik-dari-rugi-tahun-lalu",
+  "category": "Aksi Korporasi",
+  "title": "INPP Cetak Laba Rp170,6 Miliar, Berbalik dari [Rugi] Tahun Lalu",
+  "deck": "Laporan keuangan interim INPP per September 2026 menunjukkan laba bersih Rp170,6 miliar, berbalik dari rugi Rp21,4 miliar tahun lalu, didorong arus kas operasi yang melonjak.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPP",
+   "laporan keuangan",
+   "properti",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028170408-65015-0/FinancialStatement-2026-III-INPP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fore-kebocoran-data-pribadi-5-7-juta-pengguna-aplikasi",
+  "category": "Aksi Korporasi",
+  "title": "FORE: [Kebocoran] Data Pribadi 5,7 Juta Pengguna Aplikasi",
+  "deck": "Investigasi internal FORE menemukan akses tanpa izin ke platform pengolah data yang membocorkan data pribadi sekitar 5,7 juta pengguna aplikasinya.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORE",
+   "kebocoran data",
+   "keamanan siber",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c1b2070983_cf9ec34ae1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zinc-ekuitas-susut-separuh-di-kuartal-iii-2026-rugi-melebar",
+  "category": "Aksi Korporasi",
+  "title": "ZINC: Ekuitas [Susut] Separuh di Kuartal III 2026, Rugi Melebar",
+  "deck": "Ekuitas ZINC turun hampir separuh jadi Rp175,49 miliar dalam sembilan bulan 2026, rugi melebar ke Rp186,44 miliar, dan beban bunga meroket lebih dari dua kali lipat.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZINC",
+   "Kapuas Prima Coal",
+   "laporan keuangan kuartal III",
+   "watchlist BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028165716-64902-0/FinancialStatement-2026-III-ZINC.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inpp-komisaris-independen-tiffany-mediana-mundur",
+  "category": "Aksi Korporasi",
+  "title": "INPP: Komisaris Independen Tiffany Mediana [Mundur]",
+  "deck": "Tiffany Mediana mengundurkan diri dari jabatan Komisaris Independen INPP sejak 26 Oktober 2026, menunggu pengesahan RUPS.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPP",
+   "komisaris independen",
+   "tata kelola perusahaan",
+   "Indonesian Paradise Property"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5acffcf383_0cce3c041a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtdl-raup-penjualan-rp22-1-t-mesin-tumbuh-dari-distribusi-bermargin-tipis",
+  "category": "Aksi Korporasi",
+  "title": "MTDL Raup Penjualan Rp22,1 T, Mesin Tumbuh dari [Distribusi] Bermargin Tipis",
+  "deck": "Penjualan Metrodata Electronics naik 17,5% jadi Rp22,1 triliun pada kuartal III 2026, ditopang lonjakan penjualan smartphone, PC, dan notebook di unit distribusi.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTDL",
+   "Metrodata Electronics",
+   "kinerja kuartal III",
+   "distribusi TIK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7307c9f9a9_e7771a59e7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buah-catat-penjualan-naik-18-tapi-laba-turun-8-8-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "BUAH Catat Penjualan Naik 18%, tapi [Laba] Turun 8,8% di Kuartal III",
+  "deck": "Laporan interim kuartal III 2026 Segar Kumala Indonesia menunjukkan penjualan naik jadi Rp2,82 triliun, tapi laba bersih turun ke Rp45,02 miliar karena beban umum dan administrasi melonjak.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUAH",
+   "laporan keuangan kuartal III",
+   "Segar Kumala Indonesia",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028164512-65235-0/FinancialStatement-2026-III-BUAH.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tmas-laba-bersih-melonjak-111-ke-rp859-5-miliar-di-q3",
+  "category": "Aksi Korporasi",
+  "title": "TMAS: Laba Bersih [Melonjak] 111% ke Rp859,5 Miliar di Q3",
+  "deck": "Laba bersih Temas Tbk naik lebih dari dua kali lipat jadi Rp859,5 miliar pada sembilan bulan 2026, didorong lonjakan pendapatan jasa pelayaran dan penambahan kapal baru.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TMAS",
+   "laba bersih",
+   "pelayaran",
+   "belanja modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028164435-65115-0/FinancialStatement-2026-III-TMAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "psgo-lunasi-utang-bank-mandiri-laba-9-bulan-naik-7-7",
+  "category": "Aksi Korporasi",
+  "title": "PSGO [Lunasi] Utang Bank Mandiri, Laba 9 Bulan Naik 7,7%",
+  "deck": "Palma Serasih melunasi seluruh utang bank jangka panjang ke Bank Mandiri sekitar Rp846,5 miliar menggunakan kas, sementara laba periode sembilan bulan naik jadi Rp312,8 miliar.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSGO",
+   "Palma Serasih",
+   "laporan keuangan",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028162910-64969-0/FinancialStatement-2026-III-PSGO.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6277,183 +6453,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/161024451a_8fd9d5635b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "cent-panggil-rupslb-direktur-eka-kania-mundur",
-  "category": "Aksi Korporasi",
-  "title": "CENT Panggil RUPSLB, Direktur Eka Kania [Mundur]",
-  "deck": "CENT memanggil RUPSLB pada 13 November 2026 untuk menyetujui pengunduran diri Direktur Eka Kania Mustikasari G dan pengangkatan Aditya sebagai direktur baru.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CENT",
-   "RUPSLB",
-   "direksi",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/784f022e13_38f60cf097.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raam-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "RAAM: Tak Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "Merespons permintaan BEI, Tripar Multivision Plus (RAAM) menyatakan tidak ada fakta material di balik pergerakan sahamnya dan belum berencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAAM",
-   "Tripar Multivision Plus",
-   "volatilitas saham",
-   "keterbukaan informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5cce1510f6_5d9eb126d8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-australia-lanjutkan-prospera-kejar-aksesi-oecd-2028",
-  "category": "Global",
-  "title": "RI-Australia Lanjutkan PROSPERA, Kejar Aksesi OECD [2028]",
-  "deck": "Indonesia dan Australia memperpanjang program kerja sama ekonomi Prospera ke fase kedua untuk mendukung proses aksesi ke OECD dan CPTPP, plus kerja sama digital dan penerbangan.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/tambang-mineral.jpg",
-  "tags": [
-   "PROSPERA",
-   "OECD",
-   "CPTPP",
-   "Indonesia-Australia"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7176/luncurkan-prospera-fase-ii-pemerintah-indonesia-dan-australia-perkuat-reformasi-kelembagaan-ekonomi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kemendag-kirim-17-asn-ke-korea-bangun-trade-corpu",
-  "category": "Global",
-  "title": "Kemendag Kirim 17 ASN ke Korea Bangun [Trade CorpU]",
-  "deck": "17 ASN Kementerian Perdagangan mengikuti pelatihan pembelajaran daring di Korea Selatan selama dua pekan, bagian dari program tiga tahun bersama KOICA untuk membangun sistem pelatihan internal Trade CorpU.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/kemendag-kirim-17-asn-ke-korea-bangun-trade-corpu.jpg",
-  "imageV": "mvj7m3ds",
-  "tags": [
-   "Kemendag",
-   "KOICA",
-   "Trade CorpU",
-   "ASN Perdagangan"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kolaborasi-kemendag-dan-koica-untuk-pembelajaran-daring-trade-corporate-university",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "nayz-akuisisi-btl-dinilai-80-4x-book-value-capai-rp2-24-triliun",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ: akuisisi BTL dinilai [80,4x] book value, capai Rp2,24 triliun",
-  "deck": "NAYZ mengoreksi jawabannya ke bursa soal akuisisi oleh Saiko, mengungkap nilai pengalihan saham Bangkok Tellink mencapai Rp2,24 triliun, 80,4 kali ekuitasnya.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NAYZ",
-   "Bangkok Tellink",
-   "rights issue",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5c84b9c52e_8c1145c31e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akku-gelar-paparan-publik-usai-suspensi-transparansi-diuji",
-  "category": "Aksi Korporasi",
-  "title": "AKKU Gelar Paparan Publik Usai Suspensi, [Transparansi] Diuji",
-  "deck": "Paparan publik insidental AKKU dihadiri delapan pihak eksternal, termasuk sesi tanya jawab soal keterbukaan informasi terkait suspensi saham.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKKU",
-   "paparan publik",
-   "suspensi saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a97be8383d_29dfd85106.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kota-tunda-rupslb-rights-issue-ojk-masih-minta-data-tambahan",
-  "category": "Aksi Korporasi",
-  "title": "KOTA Tunda RUPSLB [Rights Issue], OJK Masih Minta Data Tambahan",
-  "deck": "RUPSLB KOTA yang sedianya digelar 23 Oktober ditunda tanpa jadwal baru, menyusul permintaan tambahan informasi dari OJK.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOTA",
-   "RUPSLB",
-   "rights issue",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5e1bb79a37_67e5062d15.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "strk-calon-pengendali-baru-negosiasi-ambil-alih-61-87-saham",
-  "category": "Aksi Korporasi",
-  "title": "STRK: Calon Pengendali Baru Negosiasi Ambil Alih [61,87%] Saham",
-  "deck": "PT Beruntung Berkat Sejahtera bernegosiasi membeli 6,63 miliar saham STRK dari PT Barito Mas Sukses, berpotensi menjadi pengendali baru perseroan.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "STRK",
-   "pengambilalihan",
-   "akuisisi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc3ee88a0b_45690de7ce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-jawab-permintaan-bursa-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "RATU Jawab Permintaan Bursa soal [Volatilitas] Saham",
-  "deck": "RATU menegaskan tidak ada informasi material yang belum diungkap, setelah BEI meminta penjelasan atas gejolak transaksi sahamnya pada 21 Oktober 2026.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "volatilitas saham",
-   "BEI",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8e600a4906_bc458bad8d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tldn-bagi-dividen-interim-rp20-saham-rp258-9-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TLDN Bagi [Dividen] Interim Rp20/Saham, Rp258,9 Miliar",
-  "deck": "TLDN menetapkan dividen interim tahun buku 2026 sebesar Rp20 per saham, total Rp258,9 miliar, dan sudah mendistribusikannya hari ini lewat KSEI.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLDN",
-   "dividen interim",
-   "kelapa sawit",
-   "KSEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8f7eb47095_82fb9277e8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bi-penyaluran-kredit-baru-diprediksi-meningkat-akhir-2026",
-  "category": "Perbankan",
-  "title": "BI: Penyaluran Kredit Baru Diprediksi [Meningkat] Akhir 2026",
-  "deck": "Survei Bank Indonesia menunjukkan bank-bank memperkirakan penyaluran kredit baru meningkat pada kuartal IV 2026, seiring syarat pinjaman yang makin longgar.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/teller-bank.jpg",
-  "tags": [
-   "Bank Indonesia",
-   "kredit perbankan",
-   "survei perbankan",
-   "suku bunga kredit"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823426.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

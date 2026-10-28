@@ -898,6 +898,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "supa-laba-melonjak-ke-rp299-9-miliar-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "SUPA: Laba [Melonjak] ke Rp299,9 Miliar Kuartal III 2026",
+  "deck": "Laba bersih Super Bank Indonesia naik hampir lima kali lipat jadi Rp299,9 miliar pada sembilan bulan 2026, didorong lonjakan kredit dan simpanan nasabah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T18:24:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183143-64715-0/FinancialStatement-2026-III-SUPA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPA",
+  "tags": [
+   "SUPA",
+   "perbankan",
+   "laporan keuangan",
+   "Super Bank Indonesia"
+  ],
+  "body": [
+   "PT Super Bank Indonesia Tbk (SUPA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK dan Bursa Efek Indonesia, melalui surat nomor 041/DIR-FIN/SBI/X/2026 tertanggal 28 Oktober 2026 yang ditandatangani Direktur Melisa Hendrawati dan Direktur Sukiwan. Total aset bank tercatat Rp27,50 triliun, naik 29,21 persen dari Rp21,28 triliun pada akhir 2025. Total liabilitas naik lebih cepat, 45,42 persen, menjadi Rp19,08 triliun dari Rp13,12 triliun, sementara total ekuitas hanya naik tipis menjadi Rp8,42 triliun dari Rp8,16 triliun. Laba bersih periode ini mencapai Rp299,9 miliar, melonjak dari Rp60,1 miliar pada periode yang sama tahun lalu, ditopang pendapatan bunga bersih yang naik ke Rp1,56 triliun dari Rp1,10 triliun, meski beban bunga juga naik ke Rp790 miliar dari Rp400,2 miliar. Laba bersih per saham tercatat Rp8,8, naik dari Rp3,4 pada periode pembanding.",
+   "Pertumbuhan bisnis ditopang oleh penyaluran kredit yang mencapai Rp13,79 triliun, tumbuh 43,40 persen dari Rp9,62 triliun, yang menurut penjelasan manajemen didorong integrasi layanan bank dengan ekosistem digital, termasuk produk Pinjaman Atur Sendiri serta kemitraan dengan Grab dan OVO. Di sisi pendanaan, simpanan nasabah naik menjadi Rp17,60 triliun dari Rp11,83 triliun, dengan rincian giro Rp589 miliar (naik 100,34 persen dari Rp294 miliar, terutama dari giro korporasi), tabungan Rp2,995 triliun (naik 34 persen dari Rp2,235 triliun), dan deposito berjangka Rp14,018 triliun (naik 50,76 persen dari Rp9,298 triliun). Sebaliknya, penempatan dana di Bank Indonesia dan bank lain turun 58,54 persen menjadi Rp750 miliar dari Rp1,809 triliun, yang menurut manajemen merupakan bagian dari strategi pengelolaan aset dan liabilitas.",
+   "Dari sisi arus kas, aktivitas operasi menghasilkan kas bersih Rp2,79 triliun, naik dari Rp2,50 triliun. Namun aktivitas investasi menyerap kas bersih Rp3,43 triliun, terutama untuk pembelian efek-efek senilai Rp13,01 triliun yang hanya sebagian ditutup oleh penjualan dan pencairan efek senilai Rp9,76 triliun. Aktivitas pendanaan hanya mencatat pembayaran liabilitas sewa sebesar Rp11,7 miliar, berbeda dari periode pembanding 2025 yang menerima tambahan modal disetor Rp9,9 miliar dari penerbitan saham insentif. Akibatnya, kas dan setara kas akhir periode turun menjadi Rp2,03 triliun dari Rp2,68 triliun di awal tahun. Jumlah saham tercatat tetap di 33.897.017.650 lembar dengan nilai nominal Rp100 per saham, dan saldo laba yang belum ditentukan penggunaannya masih mencatat defisit Rp546,2 miliar, meski mengecil dari defisit Rp846,1 miliar pada akhir 2025."
+  ],
+  "fotoAdegan": "A motorcycle courier riding through busy Jakarta traffic with a phone mounted on the handlebar, screen blurred by motion, daytime light.",
+  "takeaway": "Laporan ini condong positif karena laba bersih Super Bank melonjak hampir lima kali lipat dalam sembilan bulan, sementara penyaluran kredit dan simpanan nasabah tumbuh pesat, tanda bisnisnya benar-benar menghasilkan uang, bukan cuma aset yang membesar di atas kertas. Laba per saham, yaitu bagian laba yang secara hitungan menjadi milik setiap lembar saham, naik dari Rp3,4 menjadi Rp8,8, sejalan dengan kenaikan laba bersih sementara jumlah saham tidak bertambah. Yang perlu digarisbawahi, modal sendiri bank atau ekuitas hanya naik 3,2 persen walau total aset melesat 29 persen, karena hampir semua pertumbuhan itu dibiayai simpanan nasabah yang berstatus utang bank, bukan suntikan modal baru, sehingga porsi utang terhadap modal makin besar. Beban bunga yang dibayarkan ke nasabah juga nyaris dua kali lipat menjadi Rp790 miliar seiring deposito berbunga yang tumbuh pesat, dan kas inti bank justru menyusut Rp649 miliar karena dana yang masuk langsung disalurkan lagi jadi kredit dan surat berharga. Karena laporan ini masih berstatus tidak diaudit, yang perlu dipantau berikutnya adalah apakah angka-angka ini bertahan saat laporan tahunan auditan terbit, serta apakah kenaikan beban bunga akan terus menekan margin pada kuartal-kuartal mendatang.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "ipcm-laba-bersih-tergerus-meski-pendapatan-naik-5-33",
   "category": "Aksi Korporasi",
   "title": "IPCM: Laba Bersih [Tergerus] Meski Pendapatan Naik 5,33%",
@@ -1183,6 +1209,267 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of a large petrochemical plant with steel pipelines, distillation towers and storage tanks under hazy daylight in an Indonesian industrial zone",
   "takeaway": "Penghentian ini condong netral bagi TPIA, karena perseroan tidak membatalkan niat membeli kembali sahamnya, melainkan menggantinya dengan skema baru yang periode dan besaran dananya belum dirinci. Buyback menyentuh pos ekuitas dan jumlah saham beredar: kas perseroan berkurang untuk membeli saham sendiri, sementara saham yang dibeli balik biasanya disimpan sebagai saham treasuri sehingga jumlah saham yang diperdagangkan di pasar menyusut, dan ini berpotensi mendongkrak laba per saham karena laba yang sama dibagi ke lebih sedikit lembar saham. Pelaku pasar memperhatikan laba per saham karena angka itu mencerminkan bagian laba yang jatuh ke tiap pemegang saham. Yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan dari TPIA yang merinci periode dan besaran dana program buyback baru pengganti yang disebut dalam surat ini, sebab besaran dana tersebut akan menentukan seberapa besar dampaknya terhadap kas dan jumlah saham beredar perseroan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "obligasi-tpia-senilai-rp266-95-miliar-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi TPIA Senilai Rp266,95 Miliar [Jatuh Tempo]",
+  "deck": "Obligasi Seri A TPIA senilai Rp266,95 miliar resmi jatuh tempo dan tidak lagi diperdagangkan di Bursa Efek Indonesia mulai 29 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T17:07:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1d73a13419_029036c795.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "obligasi",
+   "jatuh tempo",
+   "Chandra Asri"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan bahwa Obligasi Berkelanjutan III Chandra Asri Petrochemical Tahap IV Tahun 2021 Seri A dengan kode TPIA03ACN4 tidak lagi tercatat dan tidak dapat diperdagangkan mulai 29 Oktober 2026. Obligasi ini diterbitkan pada 29 Oktober 2021 dengan nilai pokok Rp266,95 miliar, dan tanggal itu sekaligus menjadi batas akhir masa berlakunya lima tahun kemudian.",
+   "Seri A ini membawa bunga tetap 7,20 persen per tahun yang dibayarkan setiap tiga bulan, dengan pembayaran bunga pertama pada 29 Januari 2022. Pelunasan pokoknya dilakukan sekaligus secara penuh pada tanggal jatuh tempo, bukan dicicil bertahap. Obligasi ini merupakan satu dari tiga seri Tahap IV yang diterbitkan Chandra Asri Petrochemical pada 2021, bersama Seri B senilai Rp581,5 miliar yang baru jatuh tempo pada 29 Oktober 2028 dan Seri C senilai Rp151,55 miliar yang jatuh tempo pada 29 Oktober 2031. Ketiganya bagian dari program Obligasi Berkelanjutan III dengan target total dana Rp5 triliun, yang sebelumnya juga sudah menerbitkan Tahap I senilai Rp1 triliun, Tahap II senilai Rp600 miliar, dan Tahap III senilai Rp1 triliun.",
+   "Obligasi ini mendapat peringkat idAA- dari Pefindo dan dijamin tanpa jaminan khusus, melainkan dengan seluruh harta kekayaan perseroan sesuai ketentuan KUHPerdata, dengan hak pemegang obligasi setara dengan kreditur lain perseroan tanpa hak istimewa. PT Bank Tabungan Negara (Persero) Tbk bertindak sebagai wali amanat, sementara penjaminan emisi dilakukan oleh BCA Sekuritas, BNI Sekuritas, Shinhan Sekuritas Indonesia, dan Sinarmas Sekuritas."
+  ],
+  "fotoAdegan": "Wide view of a large petrochemical plant with storage tanks and pipelines along an industrial coastline at dusk",
+  "takeaway": "Laporan ini netral bagi TPIA, karena pelunasan Rp266,95 miliar ini adalah pembayaran utang yang sudah terjadwal sejak penerbitan lima tahun lalu, bukan kejutan atau tanda kesulitan keuangan. Pos yang tersentuh adalah arus kas dan beban utang perseroan: karena skemanya bullet payment, seluruh pokok dibayar sekaligus di akhir tenor, bukan dicicil, sehingga kas keluar dalam jumlah penuh pada satu tanggal, dan setelah ini beban utang obligasi Tahap IV milik TPIA berkurang satu seri. Yang perlu dipantau berikutnya adalah dua seri sisa dari Tahap IV, yaitu Seri B senilai Rp581,5 miliar yang jatuh tempo 29 Oktober 2028 dan Seri C senilai Rp151,55 miliar yang jatuh tempo 29 Oktober 2031, serta apakah TPIA akan menerbitkan tahap lanjutan dari plafon Rp5 triliun yang masih tersisa dalam program Obligasi Berkelanjutan III.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bgtg-rombak-direksi-dan-komisaris-tiga-wajah-baru",
+  "category": "Aksi Korporasi",
+  "title": "BGTG [Rombak] Direksi dan Komisaris, Tiga Wajah Baru",
+  "deck": "Bank Ganesha mengangkat dua direktur baru dan satu komisaris baru efektif 21 Oktober 2026, sementara jajaran pimpinan utama tidak berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:56:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/16e1cb20b5_38f77c63b3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BGTG",
+  "tags": [
+   "BGTG",
+   "Bank Ganesha",
+   "direksi",
+   "komisaris"
+  ],
+  "body": [
+   "PT Bank Ganesha Tbk. (BGTG) menyampaikan keterbukaan informasi mengenai perubahan susunan direksi dan dewan komisaris melalui surat bernomor 063/CRP/X/2026 yang diteken Corporate Secretary Robert Halim pada 28 Oktober 2026. Setiawan Kumala tetap menjabat Presiden Direktur, didampingi Suroso dan Ibrahim yang juga mempertahankan kursi direktur mereka tanpa perubahan posisi.",
+   "Bank menambah dua direktur baru, yaitu Trisna Chandra dan Shirley, yang tercatat efektif menjabat sejak 21 Oktober 2026. Di jajaran komisaris, Marcello Theodore Taufik tetap menjabat Presiden Komisaris, bersama Lisawati dan Sudarto yang juga masih menduduki kursi komisaris seperti sebelumnya.",
+   "Satu kursi komisaris baru diisi oleh Faisal Dharma Setiawan, juga efektif sejak 21 Oktober 2026. Dokumen tidak menyebutkan alasan di balik penambahan pengurus ini maupun rincian latar belakang para nama baru tersebut."
+  ],
+  "fotoAdegan": "Bank employees in formal attire walking through a modern banking lobby with glass partitions, daytime light streaming in",
+  "takeaway": "Laporan ini netral bagi fundamental BGTG karena isinya murni penataan susunan pengurus, tanpa angka keuangan atau perubahan kepemilikan yang menyertainya. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan struktur pengawasan bank, direksi menjalankan operasional harian sementara komisaris mengawasi langkah direksi, sehingga pemegang saham wajar memperhatikan siapa yang mengisi kursi itu karena merekalah yang nantinya menentukan arah kredit, manajemen risiko, dan efisiensi biaya bank. Yang perlu dipantau berikutnya adalah konfirmasi resmi Otoritas Jasa Keuangan atas pengangkatan direktur dan komisaris baru ini, sebab pengurus bank di Indonesia baru dianggap efektif penuh setelah lolos uji kelayakan OJK, sementara dokumen ini hanya mencantumkan tanggal pengangkatan internal 21 Oktober 2026 yang sudah berlalu tanpa menyebut status persetujuan tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inpp-cetak-laba-rp170-6-miliar-berbalik-dari-rugi-tahun-lalu",
+  "category": "Aksi Korporasi",
+  "title": "INPP Cetak Laba Rp170,6 Miliar, Berbalik dari [Rugi] Tahun Lalu",
+  "deck": "Laporan keuangan interim INPP per September 2026 menunjukkan laba bersih Rp170,6 miliar, berbalik dari rugi Rp21,4 miliar tahun lalu, didorong arus kas operasi yang melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:51:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028170408-65015-0/FinancialStatement-2026-III-INPP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPP",
+  "tags": [
+   "INPP",
+   "laporan keuangan",
+   "properti",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Indonesian Paradise Property Tbk (INPP) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perusahaan mencatat laba periode berjalan Rp170,6 miliar, berbalik dari rugi Rp21,4 miliar pada periode yang sama tahun 2025. Dari jumlah itu, bagian yang menjadi hak pemilik entitas induk tercatat Rp55 miliar, dibandingkan rugi Rp121,5 miliar setahun sebelumnya, sehingga laba per saham dasar berbalik dari minus Rp10,86 menjadi positif Rp4,92 per saham.",
+   "Di level bisnis inti, kinerjanya justru sedikit melemah. Pendapatan neto turun tipis dari Rp1,315 triliun menjadi Rp1,306 triliun, dan laba usaha turun dari Rp214,8 miliar menjadi Rp201,1 miliar karena beban keuangan naik dari Rp114,1 miliar menjadi Rp124,3 miliar serta beban pajak final yang lebih besar. Perbaikan laba bersih justru banyak ditopang faktor di luar operasi inti: tahun lalu perusahaan menanggung rugi penurunan nilai goodwill Rp68,4 miliar yang tidak berulang tahun ini, bagian laba dari entitas asosiasi berbalik positif Rp26,4 miliar dari sebelumnya rugi Rp21,6 miliar, dan pos pajak penghasilan berubah dari beban Rp110,8 miliar menjadi manfaat pajak Rp1,8 miliar.",
+   "Dari sisi kas, arus kas bersih dari aktivitas operasi melonjak dari Rp31,1 miliar menjadi Rp343,8 miliar, menunjukkan uang tunai yang benar-benar masuk dari bisnis sehari-hari jauh lebih besar dibanding tahun lalu. Total aset tercatat Rp10,22 triliun per akhir September 2026, naik dari Rp10,18 triliun di akhir 2025, dengan kas dan setara kas Rp772,2 miliar. Total liabilitas naik menjadi Rp3,48 triliun dari Rp3,45 triliun, terutama karena pinjaman bank jangka panjang bertambah dari Rp1,56 triliun menjadi Rp1,66 triliun, sementara utang obligasi tetap di Rp500 miliar. Total ekuitas relatif stabil di Rp6,74 triliun.",
+   "Laporan ini juga memerinci 21 entitas anak INPP di sektor hotel, real estat, dan perdagangan, dengan kepemilikan berkisar 51 persen sampai 100 persen. Dua yang asetnya terbesar adalah PT Narpati Arjaya Properti di Jakarta dengan aset Rp1,84 triliun, yang masih belum beroperasi, dan PT Indonesian Paradise Island yang telah beroperasi sejak 2004 dengan aset senilai hampir sama. Selain itu, PT Eka Ilalang Suryadinamika di Jakarta, PT Swarna Kanaka Parigraha di Semarang, dan PT Mitra Gemilang Mahacipta di Balikpapan tercatat masih berstatus belum beroperasi, menandakan proyek hotel dan properti yang belum mulai menyumbang pendapatan."
+  ],
+  "fotoAdegan": "Housekeeping staff pushing a linen cart down a quiet hotel corridor in Jakarta, soft morning light",
+  "takeaway": "Laporan ini condong positif karena laba bersih INPP berbalik dari rugi menjadi untung dan arus kas dari operasinya melonjak lebih dari sepuluh kali lipat, meski perlu digarisbawahi bahwa pendapatan dan laba usaha intinya justru sedikit menyusut sehingga lonjakan laba bersih banyak ditopang faktor non-operasional seperti hilangnya beban penurunan nilai goodwill tahun lalu. Yang berubah di sini adalah arus kas operasi, yaitu uang tunai yang benar-benar diterima dari kegiatan bisnis harian dan bukan sekadar angka akuntansi di atas kertas, dan ini penting karena menunjukkan kemampuan perusahaan membayar utang dan beban tanpa harus menambah pinjaman baru. Laba per saham, yaitu keuntungan yang dibagi rata ke setiap lembar saham beredar, ikut berbalik positif, meski porsi kenaikannya lebih kecil dari laba bersih konsolidasi karena sebagian perbaikan laba dinikmati pemegang saham minoritas di entitas anak. Yang perlu dipantau selanjutnya adalah apakah entitas anak yang masih belum beroperasi, termasuk proyek hotel di Semarang dan Jakarta, mulai menghasilkan pendapatan, serta laporan keuangan tahunan teraudit 2026 yang akan menegaskan apakah perbaikan laba kuartal ketiga ini berlanjut atau hanya sementara.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "fore-kebocoran-data-pribadi-5-7-juta-pengguna-aplikasi",
+  "category": "Aksi Korporasi",
+  "title": "FORE: [Kebocoran] Data Pribadi 5,7 Juta Pengguna Aplikasi",
+  "deck": "Investigasi internal FORE menemukan akses tanpa izin ke platform pengolah data yang membocorkan data pribadi sekitar 5,7 juta pengguna aplikasinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:48:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c1b2070983_cf9ec34ae1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORE",
+  "tags": [
+   "FORE",
+   "kebocoran data",
+   "keamanan siber",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Fore Kopi Indonesia Tbk (FORE) melaporkan insiden keamanan data kepada OJK dan Bursa Efek Indonesia. Berdasarkan investigasi internal perusahaan sepanjang 19 hingga 27 Oktober 2026, ditemukan indikasi kebocoran data pribadi pengguna aplikasi FORE. Kebocoran terjadi karena ada pihak tak berwenang yang mengakses platform bernama Metabase, yaitu alat yang dipakai perusahaan untuk mengolah data, menggunakan akun-akun yang sebenarnya tidak memiliki izin akses. Perusahaan mengklaim telah mencabut akses akun-akun tersebut dan menutup celah keamanan dalam waktu kurang dari 24 jam sejak insiden terdeteksi.",
+   "Data pribadi yang diakses pihak tak berwenang itu meliputi nama, tanggal lahir dan jenis kelamin (sepanjang keduanya memang diisi pengguna di aplikasi), nomor telepon, alamat email, alamat pengiriman yang tersimpan di aplikasi, riwayat pembelian, serta PIN yang sudah di-hash, yakni PIN yang telah diacak secara kriptografis sehingga tidak bisa langsung dibaca dalam bentuk aslinya. Perusahaan memperkirakan sekitar 5.700.000 pengguna aplikasinya terdampak oleh insiden ini.",
+   "FORE menegaskan bahwa perusahaan tidak pernah meminta atau menyimpan Nomor Induk Kependudukan (NIK) maupun foto KTP pengguna, dan juga tidak pernah menyimpan data kartu kredit atau debit. Karena itu, data-data tersebut disebut tidak terdampak oleh insiden ini. Dalam laporannya ke regulator, perusahaan menyatakan insiden ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya, dan menyebut akan terus mengambil langkah untuk menjaga keamanan sistemnya."
+  ],
+  "fotoAdegan": "Rows of server racks with blinking status lights in a dim data center aisle, a technician walking past carrying a laptop",
+  "takeaway": "Laporan ini condong negatif bagi FORE, karena kebocoran data pribadi yang menyentuh sekitar 5,7 juta pengguna aplikasi adalah risiko reputasi dan hukum yang besar, apalagi bisnis FORE sangat bergantung pada aplikasi pemesanan untuk menjaring pelanggan. Yang tersentuh di sini bukan pos laporan keuangan seperti ekuitas atau laba per saham, melainkan risiko kepatuhan terhadap Undang-Undang Pelindungan Data Pribadi dan potensi biaya tambahan untuk memperkuat sistem keamanan serta menangani keluhan pengguna, dua hal yang bisa membebani biaya operasional di periode berikutnya meski belum tercermin di laporan keuangan kuartal ini. Perseroan sendiri mengklaim insiden ini tidak berdampak pada operasional, hukum, maupun kondisi keuangan, namun klaim itu belum diuji oleh otoritas pelindungan data atau oleh kemungkinan keluhan dari pengguna yang terdampak. Yang perlu dipantau berikutnya adalah apakah ada tindak lanjut resmi dari otoritas terkait Undang-Undang Pelindungan Data Pribadi atau OJK menyusul insiden yang terjadi pada 27 Oktober 2026 ini, serta apakah FORE akan menerbitkan laporan susulan soal langkah perbaikan sistem keamanannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "zinc-ekuitas-susut-separuh-di-kuartal-iii-2026-rugi-melebar",
+  "category": "Aksi Korporasi",
+  "title": "ZINC: Ekuitas [Susut] Separuh di Kuartal III 2026, Rugi Melebar",
+  "deck": "Ekuitas ZINC turun hampir separuh jadi Rp175,49 miliar dalam sembilan bulan 2026, rugi melebar ke Rp186,44 miliar, dan beban bunga meroket lebih dari dua kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:46:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028165716-64902-0/FinancialStatement-2026-III-ZINC.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZINC",
+  "tags": [
+   "ZINC",
+   "Kapuas Prima Coal",
+   "laporan keuangan kuartal III",
+   "watchlist BEI"
+  ],
+  "body": [
+   "PT Kapuas Prima Coal Tbk (ZINC) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset perusahaan turun menjadi Rp2.289,04 triliun dari Rp2.368,72 triliun pada akhir 2025. Penurunan paling tajam terjadi pada ekuitas, yang anjlok menjadi Rp175,49 miliar dari Rp361,93 miliar, hampir separuhnya hilang, akibat rugi bersih periode berjalan sebesar Rp186,44 miliar, melebar dari rugi Rp162,85 miliar pada periode sama tahun lalu. Rugi yang menjadi bagian pemilik entitas induk membesar ke Rp190,96 miliar dari Rp157,30 miliar, membuat rugi per saham melebar ke Rp7,56 dari Rp6,23 pada tahun sebelumnya.",
+   "Yang baru dalam laporan ini adalah munculnya penjualan sebesar Rp106,01 miliar, dibandingkan nihil pada periode yang sama tahun lalu. Pendapatan ini berasal dari anak usaha PT Kapuas Prima Citra Industri, pabrik pembuatan logam dasar bukan besi di Pelabuhan Kalaf, Kotawaringin Barat, Kalimantan Tengah, yang baru beroperasi komersial pada 2026 dan dimiliki ZINC sebesar 70 persen dengan aset Rp280,11 miliar. Namun biaya pokok penjualan tercatat Rp88,79 miliar dan beban umum serta administrasi melonjak ke Rp53,61 miliar dari Rp24,89 miliar, sehingga perusahaan tetap mencatat rugi usaha Rp37,78 miliar. Beban bunga membengkak menjadi Rp150,73 miliar dari Rp63,91 miliar, naik lebih dari dua kali lipat, dan menjadi penyebab utama melebarnya rugi bersih.",
+   "Dari sisi kas, saldo kas dan bank tersisa Rp6,57 miliar per akhir September 2026, turun dari Rp10,06 miliar di akhir 2025, sementara arus kas dari aktivitas operasi masih negatif Rp41,93 miliar. Liabilitas jangka pendek mencapai Rp2.060,90 miliar, jauh melampaui aset lancar yang hanya Rp226,77 miliar, dengan porsi terbesar berupa utang bank jangka panjang yang jatuh tempo dalam satu tahun senilai Rp1.477,15 miliar. Saham ZINC saat ini berstatus Pemantauan Khusus (watchlist) di Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Industrial metal smelter furnace glowing orange at night, workers in hard hats and vests observing from a safe distance, sparks rising",
+  "takeaway": "Laporan ini condong negatif bagi ZINC karena ekuitas pemegang saham menyusut hampir separuh dan rugi bersihnya melebar, sementara beban bunga yang harus dibayar perusahaan meroket lebih dari dua kali lipat. Pos yang paling tersorot adalah ekuitas, yaitu modal milik pemegang saham setelah dikurangi semua utang, yang kini makin tipis sehingga daya tahan perusahaan menghadapi kerugian berikutnya makin terbatas, ditambah arus kas operasional yang masih minus, tanda bisnis utamanya belum menghasilkan uang tunai yang cukup untuk menutup biayanya sendiri. Yang perlu dipantau adalah ketimpangan antara kas perusahaan yang hanya Rp6,57 miliar dan utang bank jangka panjang senilai Rp1.477,15 miliar yang jatuh tempo dalam satu tahun ke depan, sehingga kemampuan ZINC membayar atau merundingkan ulang utang itu akan menentukan arah keuangannya selanjutnya. Sebagai penyeimbang, laporan ini juga mencatat mulai munculnya pendapatan penjualan dari smelter baru di Kalimantan Tengah, yang sebelumnya belum tercatat sama sekali.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inpp-komisaris-independen-tiffany-mediana-mundur",
+  "category": "Aksi Korporasi",
+  "title": "INPP: Komisaris Independen Tiffany Mediana [Mundur]",
+  "deck": "Tiffany Mediana mengundurkan diri dari jabatan Komisaris Independen INPP sejak 26 Oktober 2026, menunggu pengesahan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:45:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5acffcf383_0cce3c041a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPP",
+  "tags": [
+   "INPP",
+   "komisaris independen",
+   "tata kelola perusahaan",
+   "Indonesian Paradise Property"
+  ],
+  "body": [
+   "PT Indonesian Paradise Property Tbk (INPP) mengumumkan bahwa pada 26 Oktober 2026 perseroan menerima surat pengunduran diri dari Tiffany Mediana selaku Komisaris Independen. Keterbukaan informasi ini disampaikan ke Otoritas Jasa Keuangan melalui surat bernomor 050/INPP-CS/X/2026 yang diteken Corporate Secretary Ispandiati Makmur pada 28 Oktober 2026 pukul 16.45.",
+   "Perseroan menyatakan akan menggelar Rapat Umum Pemegang Saham sesuai ketentuan yang berlaku untuk mengesahkan pengunduran diri tersebut. Dokumen yang sama belum mencantumkan tanggal pelaksanaan RUPS tersebut maupun nama calon pengganti Tiffany Mediana di kursi Komisaris Independen.",
+   "Dalam keterbukaan informasi itu, manajemen INPP menyatakan tidak ada dampak dari peristiwa ini terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long table and glass walls, soft morning light in a Jakarta office tower",
+  "takeaway": "Laporan ini condong netral, karena yang terjadi adalah pengunduran diri satu orang komisaris independen tanpa indikasi konflik atau pelanggaran, dan perseroan sendiri menegaskan tidak ada dampak operasional atau keuangan. Pos yang tersentuh bukan laporan keuangan, melainkan struktur tata kelola, sebab komisaris independen berfungsi mengawasi manajemen demi kepentingan pemegang saham, termasuk pemegang saham minoritas, sehingga kekosongan posisi ini untuk sementara mengurangi lapisan pengawasan independen di perseroan. Yang perlu dipantau adalah RUPS yang akan digelar INPP untuk mengesahkan pengunduran diri ini, termasuk siapa yang akan diusulkan sebagai pengganti, karena aturan OJK mengharuskan emiten tetap memenuhi proporsi minimum komisaris independen dalam jajaran dewan komisarisnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtdl-raup-penjualan-rp22-1-t-mesin-tumbuh-dari-distribusi-bermargin-tipis",
+  "category": "Aksi Korporasi",
+  "title": "MTDL Raup Penjualan Rp22,1 T, Mesin Tumbuh dari [Distribusi] Bermargin Tipis",
+  "deck": "Penjualan Metrodata Electronics naik 17,5% jadi Rp22,1 triliun pada kuartal III 2026, ditopang lonjakan penjualan smartphone, PC, dan notebook di unit distribusi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:37:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7307c9f9a9_e7771a59e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTDL",
+  "tags": [
+   "MTDL",
+   "Metrodata Electronics",
+   "kinerja kuartal III",
+   "distribusi TIK"
+  ],
+  "body": [
+   "PT Metrodata Electronics Tbk (MTDL) membukukan penjualan Rp22,1 triliun pada kuartal III 2026, naik 17,5 persen dibandingkan periode yang sama tahun lalu. Dari penjualan tersebut, perusahaan mencatatkan laba bersih Rp443,9 miliar. Keterbukaan informasi ini disampaikan ke Bursa Efek Indonesia pada 28 Oktober 2026 dan ditandatangani oleh Corporate Secretary MTDL, Randy Kartadinata.",
+   "Pendorong utama pertumbuhan berasal dari unit bisnis Distribusi, yang penjualannya melonjak 23,4 persen secara tahunan menjadi Rp17,5 triliun, terutama dari penjualan smartphone, PC, dan notebook. Presiden Direktur MTDL, Susanto Djaja, menyebut diversifikasi merek smartphone seperti Infinix dan Itel menjadi penopang kinerja, dan perusahaan baru saja menambahkan merek Villaon ke portofolio distribusinya. Sementara itu, unit bisnis Solusi dan Konsultasi, yang biasanya punya margin lebih tebal karena berbasis jasa, hanya tumbuh 1,8 persen secara tahunan menjadi Rp5,2 triliun.",
+   "Manajemen menyatakan akan terus memperkuat fundamental bisnis lewat perluasan portofolio solusi, penguatan hubungan dengan pelanggan, dan pengembangan pendapatan berulang untuk menjaga daya saing di tengah dinamika industri teknologi informasi dan komunikasi."
+  ],
+  "fotoAdegan": "Warehouse workers stacking smartphone and laptop boxes onto pallets inside a large distribution warehouse, forklift nearby",
+  "takeaway": "Laporan ini kami nilai netral dengan catatan kehati-hatian, karena pertumbuhan penjualan yang terlihat kuat justru datang dari segmen yang marginnya paling tipis. Yang perlu diperhatikan di sini bukan nilai penjualan, melainkan laba per saham, yaitu laba bersih dibagi jumlah saham yang beredar, yang jadi ukuran berapa bagian keuntungan perusahaan yang benar-benar jatuh ke tangan setiap pemegang saham. Unit Distribusi yang menjual barang fisik seperti smartphone dan laptop tumbuh 23,4 persen, sementara unit Solusi dan Konsultasi yang berbasis jasa dan biasanya lebih untung hanya naik 1,8 persen, sehingga laba bersih Rp443,9 miliar di atas penjualan Rp22,1 triliun berarti marjin bersihnya cuma sekitar 2 persen, tipis untuk perusahaan sebesar ini. Yang perlu dipantau selanjutnya adalah laporan keuangan resmi kuartal III yang akan menunjukkan apakah laba bersih ini benar naik dibanding tahun lalu atau justru tertekan, serta apakah komposisi penjualan yang makin berat ke distribusi bermargin tipis ini akan terus berlanjut di kuartal mendatang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "buah-catat-penjualan-naik-18-tapi-laba-turun-8-8-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "BUAH Catat Penjualan Naik 18%, tapi [Laba] Turun 8,8% di Kuartal III",
+  "deck": "Laporan interim kuartal III 2026 Segar Kumala Indonesia menunjukkan penjualan naik jadi Rp2,82 triliun, tapi laba bersih turun ke Rp45,02 miliar karena beban umum dan administrasi melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:27:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028164512-65235-0/FinancialStatement-2026-III-BUAH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUAH",
+  "tags": [
+   "BUAH",
+   "laporan keuangan kuartal III",
+   "Segar Kumala Indonesia",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Segar Kumala Indonesia Tbk (BUAH), perusahaan dagang buah-buahan dan ayam beku, menyampaikan laporan keuangan interim tidak diaudit untuk sembilan bulan pertama 2026. Penjualan neto naik 18,2 persen menjadi Rp2,82 triliun, dari Rp2,39 triliun pada periode sama tahun lalu. Namun laba bersih justru turun 8,8 persen menjadi Rp45,02 miliar, dari Rp49,35 miliar, karena beban umum dan administrasi melonjak 24,6 persen menjadi Rp115,22 miliar. Akibatnya laba usaha turun dari Rp64,39 miliar menjadi Rp56,79 miliar, dan laba per saham turun dari Rp24,68 menjadi Rp22,51 setelah disesuaikan dengan pemecahan saham 1 banding 2 pada Oktober 2025.",
+   "Total aset perusahaan naik 28,9 persen menjadi Rp628,4 miliar per akhir September 2026, dari Rp487,6 miliar di akhir 2025. Kas dan setara kas melonjak 74 persen menjadi Rp181,3 miliar, ditopang arus kas dari operasi sebesar Rp124,35 miliar. Piutang usaha ke pihak ketiga naik 35,8 persen menjadi Rp172,89 miliar karena perluasan penjualan kredit dan jaringan distribusi, sementara piutang ke pihak berelasi naik 50,5 persen menjadi Rp19,48 miliar karena perusahaan mendistribusikan persediaan untuk menunjang kebutuhan pihak berelasi.",
+   "Di sisi liabilitas, total utang naik 41,9 persen menjadi Rp409,3 miliar. Utang usaha ke pihak berelasi naik 62 persen menjadi Rp201,67 miliar karena penambahan persediaan untuk cabang-cabang perusahaan. Utang lain-lain ke pihak ketiga melonjak 524,2 persen akibat beban jasa pihak ketiga yang belum dibayar, dan utang lain-lain ke pihak berelasi muncul dari nol menjadi Rp4,99 miliar dengan alasan serupa. Uang muka dari pelanggan juga naik 341,8 persen menjadi Rp39,42 miliar. Ekuitas perusahaan tetap naik 10,1 persen menjadi Rp219,09 miliar, dan perusahaan membayar dividen tunai Rp25 miliar selama periode ini, naik dari Rp21 miliar pada periode sama tahun lalu. Belanja modal untuk tanah, bangunan, kendaraan, mesin pendingin, dan peralatan kantor tercatat Rp21,14 miliar."
+  ],
+  "fotoAdegan": "Workers loading crates of fresh fruit onto a refrigerated delivery truck at a wholesale distribution warehouse, early morning light.",
+  "takeaway": "Laporan ini condong negatif karena yang paling menentukan bagi pemegang saham, yaitu laba bersih dan laba per saham, justru turun 8,8 persen meski penjualan naik 18,2 persen, tanda biaya operasional tumbuh lebih cepat daripada pendapatan. Pos yang tersentuh adalah laba per saham, yakni bagian laba yang secara teori jadi hak setiap pemegang satu lembar saham, yang turun dari Rp24,68 menjadi Rp22,51, sementara beban umum dan administrasi yang melonjak 24,6 persen menggerus margin usaha dari 2,7 persen jadi 2,0 persen dari penjualan. Kenaikan utang usaha ke pihak berelasi 62 persen menjadi Rp201,67 miliar, ditambah utang baru ke pihak berelasi Rp4,99 miliar yang sebelumnya nol, juga perlu dicermati karena memperbesar porsi transaksi dengan pihak terkait pemilik perusahaan. Di sisi lain kas perusahaan naik signifikan menjadi Rp181,3 miliar dan dividen tunai yang dibayarkan ikut naik menjadi Rp25 miliar, jadi bukan berarti perusahaan kekurangan uang. Yang perlu dipantau berikutnya adalah apakah tekanan beban umum dan administrasi ini masih berlanjut di laporan tahunan penuh 2026, serta kelanjutan pelunasan utang ke pihak berelasi yang kini jadi komponen besar liabilitas lancar perusahaan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tmas-laba-bersih-melonjak-111-ke-rp859-5-miliar-di-q3",
+  "category": "Aksi Korporasi",
+  "title": "TMAS: Laba Bersih [Melonjak] 111% ke Rp859,5 Miliar di Q3",
+  "deck": "Laba bersih Temas Tbk naik lebih dari dua kali lipat jadi Rp859,5 miliar pada sembilan bulan 2026, didorong lonjakan pendapatan jasa pelayaran dan penambahan kapal baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:26:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028164435-65115-0/FinancialStatement-2026-III-TMAS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TMAS",
+  "tags": [
+   "TMAS",
+   "laba bersih",
+   "pelayaran",
+   "belanja modal"
+  ],
+  "body": [
+   "PT Temas Tbk (TMAS) mencatatkan laba tahun berjalan senilai Rp859,5 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik 111 persen dibandingkan Rp406,5 miliar pada periode yang sama tahun 2025. Kenaikan ini ditopang pendapatan jasa yang tumbuh 37,2 persen dari Rp3,19 triliun menjadi Rp4,38 triliun, sementara laba usaha melonjak dari Rp522,9 miliar menjadi Rp1,01 triliun. Dari laba tersebut, Rp824,8 miliar menjadi bagian pemilik entitas induk, sehingga laba per saham naik dari Rp6 menjadi Rp14 per lembar saham penuh.",
+   "Total aset perseroan per 30 September 2026 tercatat Rp6,63 triliun, naik 25,3 persen atau Rp1,34 triliun dari posisi akhir 2025. Dalam surat resmi ke Bursa Efek Indonesia tertanggal 28 Oktober 2026, Direktur Utama Ricky Effendi menjelaskan kenaikan ini terutama berasal dari pembayaran uang muka pembelian aset tetap sebesar Rp917,2 miliar sepanjang 2026, yang sebagian besar merupakan uang muka pembelian kapal dari pihak ketiga. Total liabilitas ikut naik 32,5 persen menjadi Rp2,83 triliun, didorong penarikan pinjaman bank jangka panjang baru senilai Rp929,2 miliar yang menurut manajemen digunakan untuk membiayai peningkatan belanja modal. Manajemen menyatakan perubahan pos aset dan liabilitas yang melebihi 20 persen itu tidak berdampak negatif material terhadap kinerja maupun operasional perseroan.",
+   "Di sisi ekuitas, total ekuitas Temas naik dari Rp3,15 triliun menjadi Rp3,80 triliun, didorong akumulasi laba ditahan yang belum ditentukan penggunaannya yang bertambah dari Rp2,80 triliun menjadi Rp3,40 triliun. Sepanjang periode ini, perseroan tetap membagikan dividen kas sebesar Rp227,5 miliar, sama dengan nilai tahun sebelumnya, ditambah pembagian dividen kas anak usaha ke pemegang saham nonpengendali sebesar Rp44,4 miliar. Di sisi kas, posisi kas dan setara kas perseroan justru turun dari Rp479,8 miliar menjadi Rp401,8 miliar, karena arus kas investasi tercatat negatif Rp1,32 triliun akibat besarnya uang muka pembelian kapal dan belanja aset tetap."
+  ],
+  "fotoAdegan": "Container ship docked at a bustling Indonesian port, gantry cranes lifting cargo boxes, pale morning light over calm water",
+  "takeaway": "Laporan ini condong positif karena laba bersih Temas lebih dari dua kali lipat dan pendapatan jasa pelayaran tumbuh signifikan, meski ekspansi ini dibiayai utang baru yang membuat beban bunga naik tajam. Yang perlu dicermati pemegang saham ada tiga pos: laba per saham yang naik dari Rp6 menjadi Rp14, yang berarti porsi keuntungan yang jatuh ke tiap lembar saham makin besar; ekuitas yang bertambah ke Rp3,8 triliun karena laba ditahan terus mengembang; dan beban bunga pinjaman bank yang melonjak sekitar 40 persen akibat penarikan pinjaman jangka panjang baru Rp929,2 miliar untuk membeli kapal, yang perlu dipantau agar tidak menggerus laba pada periode mendatang. Kas perseroan justru menyusut dari Rp479,8 miliar menjadi Rp401,8 miliar karena sebagian besar dipakai membayar uang muka kapal baru, jadi kenaikan laba belum tercermin pada ketersediaan kas tunai. Yang perlu dipantau berikutnya adalah realisasi pembelian kapal yang uang mukanya sedang dibayarkan serta laporan keuangan kuartal IV 2026 yang akan menunjukkan apakah lonjakan pendapatan ini berlanjut atau hanya bersifat musiman.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "psgo-lunasi-utang-bank-mandiri-laba-9-bulan-naik-7-7",
+  "category": "Aksi Korporasi",
+  "title": "PSGO [Lunasi] Utang Bank Mandiri, Laba 9 Bulan Naik 7,7%",
+  "deck": "Palma Serasih melunasi seluruh utang bank jangka panjang ke Bank Mandiri sekitar Rp846,5 miliar menggunakan kas, sementara laba periode sembilan bulan naik jadi Rp312,8 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T16:17:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028162910-64969-0/FinancialStatement-2026-III-PSGO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSGO",
+  "tags": [
+   "PSGO",
+   "Palma Serasih",
+   "laporan keuangan",
+   "utang bank"
+  ],
+  "body": [
+   "PT Palma Serasih Tbk (PSGO) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, disertai surat penjelasan kepada Bursa Efek Indonesia dan OJK karena ada pos aset dan liabilitas yang berubah lebih dari 20 persen. Surat bertanggal 27 Oktober 2026 itu ditandatangani Astrida Niovita Bachtiar selaku Direktur dan Sekretaris Perseroan. Penyebab utama perubahan adalah penggunaan kas internal untuk melunasi seluruh utang bank jangka panjang kepada PT Bank Mandiri (Persero) Tbk, sebagaimana diungkapkan dalam Catatan 22 laporan keuangan.",
+   "Total aset turun 11 persen dari Rp3,99 triliun pada akhir 2025 menjadi Rp3,57 triliun per 30 September 2026, terutama karena kas dan bank berkurang 32 persen dari Rp1,15 triliun menjadi Rp778,55 miliar. Di sisi liabilitas, total utang turun lebih tajam, 49 persen dari Rp1,27 triliun menjadi Rp643,2 miliar. Utang bank jangka panjang, baik yang jatuh tempo dalam satu tahun maupun tidak, yang sebelumnya tercatat sekitar Rp846,5 miliar kini menjadi nol, sehingga liabilitas jangka panjang Perseroan susut 86 persen menjadi Rp100,47 miliar.",
+   "Di tengah pelunasan utang itu, laba periode sembilan bulan justru naik 7,7 persen menjadi Rp312,76 miliar dari Rp290,48 miliar pada periode yang sama tahun lalu, dengan laba per saham naik dari Rp15,41 menjadi Rp16,59. Penjualan neto relatif stabil di Rp1,81 triliun, sementara laba bruto naik berkat beban pokok penjualan yang lebih rendah. Arus kas dari aktivitas operasi juga membaik menjadi Rp672,2 miliar dari Rp542,8 miliar, dan ekuitas Perseroan bertambah menjadi Rp2,93 triliun. Selama periode ini Perseroan juga membagikan dividen kas Rp113,1 miliar, lebih kecil dari Rp150,8 miliar pada periode sebelumnya."
+  ],
+  "fotoAdegan": "Palm oil fresh fruit bunches being loaded onto a truck at a plantation collection yard under overcast tropical skies, workers in rubber boots nearby.",
+  "takeaway": "Laporan ini condong positif bagi PSGO karena perusahaan berhasil melunasi seluruh utang bank jangka panjang ke Bank Mandiri sekitar Rp846,5 miliar memakai kas sendiri, sementara laba sembilan bulan tetap naik 7,7 persen menjadi Rp312,8 miliar. Pos yang tersentuh adalah liabilitas dan beban bunga, karena utang bank yang lunas berarti beban bunga pinjaman akan hilang di laporan-laporan berikutnya, sehingga porsi laba yang mengalir ke pemegang saham bisa lebih besar, terlihat dari laba per saham yang naik dari Rp15,41 menjadi Rp16,59. Arus kas dari operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan usaha sehari-hari, juga membaik ke Rp672,2 miliar dari Rp542,8 miliar, menandakan bisnis inti tetap menghasilkan uang meski kas di kas berkurang karena dipakai membayar utang. Yang perlu dipantau berikutnya adalah pemulihan pabrik pengolahan sawit anak usaha yang terbakar akhir Oktober ini serta pencairan klaim asuransi Rp267,6 miliar yang pernah diumumkan, sebab fasilitas itu menyumbang sekitar 30 persen pendapatan PSGO dan dampaknya belum tercermin dalam laporan interim yang tidak diaudit ini.",
+  "sentimen": "positif"
  },
  {
   "slug": "mtdl-laba-per-saham-turun-meski-pendapatan-naik-17-5",

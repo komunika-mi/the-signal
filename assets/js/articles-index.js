@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mcor-laba-kuartal-iii-turun-5-8-jadi-rp217-44-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MCOR: Laba Kuartal III [Turun] 5,8% jadi Rp217,44 Miliar",
+  "deck": "MCOR membukukan laba bersih Rp217,44 miliar pada 9 bulan 2026, turun dari Rp230,88 miliar, seiring dana nasabah bergeser ke pembiayaan repo.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MCOR",
+   "perbankan",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028203333-64803-0/FinancialStatement-2026-III-MCOR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnbs-laba-9-bulan-naik-69-8-rasio-modal-turun-ke-16-6",
+  "category": "Aksi Korporasi",
+  "title": "PNBS: Laba 9 Bulan Naik 69,8%, Rasio [Modal] Turun ke 16,6%",
+  "deck": "Laba bersih Bank Panin Dubai Syariah naik 69,8 persen jadi Rp73,38 miliar dalam sembilan bulan 2026, sementara rasio kecukupan modal turun dari 19,11 persen jadi 16,61 persen.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNBS",
+   "Bank Panin Dubai Syariah",
+   "laporan keuangan",
+   "rasio kecukupan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028203327-64760-0/FinancialStatement-2026-III-PNBS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmri-divestasi-lepas-20-saham-inhealth-rp570-m",
+  "category": "Aksi Korporasi",
+  "title": "BMRI [Divestasi] Lepas 20% Saham Inhealth Rp570 M",
+  "deck": "Bank Mandiri menjual 20 persen sahamnya di Inhealth senilai Rp570 miliar kepada IFG Life, bagian dari konsolidasi asuransi BUMN.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMRI",
+   "Transaksi Afiliasi",
+   "Inhealth",
+   "IFG Life"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2ad8ce9128_32fc52d4cc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "msin-jelaskan-ke-bei-piutang-naik-rencana-saham-baru-di-hkex",
+  "category": "Aksi Korporasi",
+  "title": "MSIN Jelaskan ke BEI: Piutang Naik, Rencana [Saham Baru] di HKEX",
+  "deck": "MSIN menjawab permintaan Bursa soal piutang yang melonjak dan rencana penerbitan saham baru hingga 10 persen untuk pencatatan sekunder di Hong Kong.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSIN",
+   "HKEX",
+   "piutang usaha",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/29940a5879_8035011885.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbmf-gelar-rupst-4-desember-akui-telat-laporan-tahunan",
+  "category": "Aksi Korporasi",
+  "title": "CBMF Gelar RUPST 4 Desember, Akui [Telat] Laporan Tahunan",
+  "deck": "CBMF memanggil RUPST pada 4 Desember 2026, salah satu agendanya meminta persetujuan pemegang saham atas keterlambatan penyampaian laporan tahunan 2025.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBMF",
+   "RUPST",
+   "Laporan Tahunan",
+   "Tata Kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1ca17d38fa_5da90647dd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbmf-ubah-jadwal-rupst-catat-dps-27-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "CBMF Ubah Jadwal RUPST, Catat [DPS] 27 Oktober 2026",
+  "deck": "Cahaya Bintang Medan menetapkan RUPST tahun buku 2025 digelar Jumat, 4 Desember 2026 di Jakarta Selatan, dengan pemegang saham per 27 Oktober 2026 yang berhak hadir.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBMF",
+   "RUPST",
+   "jadwal rapat",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/190c8e52bc_94063318a9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-tunda-rups-tahunan-dan-luar-biasa-ke-4-november",
+  "category": "Aksi Korporasi",
+  "title": "BOSS [Tunda] RUPS Tahunan dan Luar Biasa ke 4 November",
+  "deck": "Rapat yang semula digelar 29 Oktober diundur ke 4 November 2026, agenda mencakup ratifikasi keterlambatan RUPS tiga tahun buku sekaligus.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "RUPS Tahunan",
+   "Penundaan RUPS",
+   "Emiten Batu Bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0ecb04e1a6_2348638e8b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "impor-migas-kini-lewat-lemigas-bahlil-pastikan-tanpa-apbn",
   "category": "Energi",
   "title": "Impor Migas Kini Lewat Lemigas, Bahlil Pastikan [Tanpa] APBN",
@@ -39,6 +151,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tak-perlu-lagi-keliling-kementerian-izin-hulu-migas-bakal-cukup-di-satu-pintu",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "hrme-rugi-bersih-sembilan-bulan-melebar-jadi-rp15-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "HRME: [Rugi] Bersih Sembilan Bulan Melebar jadi Rp15,8 Miliar",
+  "deck": "Pendapatan hotel Hermitage milik HRME turun 12 persen dalam sembilan bulan, kas perusahaan susut hampir 40 persen jadi Rp50,2 miliar, sementara rugi bersih melebar jadi Rp15,8 miliar.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRME",
+   "laporan keuangan",
+   "rugi bersih",
+   "perhotelan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028194029-64727-0/FinancialStatement-2026-III-HRME.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ipcm-laba-bersih-tergerus-meski-pendapatan-naik-5-33",
@@ -6329,138 +6457,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Kelautan dan Perikanan",
   "sourceUrl": "https://kkp.go.id/news/news-detail/dua-tahun-pemerintahan-prabowo-knmp-terbukti-jadi-penggerak-ekonomi-pesisir-3yZM.html",
   "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "pnbp-sektor-perikanan-naik-jadi-rp2-4-triliun-di-2025",
-  "category": "Industri",
-  "title": "PNBP Sektor Perikanan [Naik] Jadi Rp2,4 Triliun di 2025",
-  "deck": "Kementerian Kelautan dan Perikanan melaporkan kenaikan penerimaan negara, produksi, kontribusi PDB, dan ekspor perikanan dalam dua tahun terakhir, meski sebagian data 2026 baru bersifat sementara.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/pnbp-sektor-perikanan-naik-jadi-rp2-4-triliun-di-2025.jpg",
-  "imageV": "mvi4psgl",
-  "tags": [
-   "KKP",
-   "Ekspor Perikanan",
-   "PNBP",
-   "PDB Perikanan"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/pnbp-hingga-ekspor-meningkat-sektor-kelautan-dan-perikanan-tunjukkan-kinerja-positif-di-dua-tahun-prabowo-gibran-5R2B.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "kur-umkm-tembus-rp232-66-triliun-turis-asing-naik-5-38",
-  "category": "Makroekonomi",
-  "title": "KUR UMKM Tembus Rp232,66 Triliun, Turis Asing [Naik] 5,38%",
-  "deck": "Pemerintah melaporkan penyaluran KUR tembus Rp232,66 triliun, kenaikan kunjungan turis asing 5,38 persen, dan perluasan program magang serta pelatihan vokasi sepanjang 2026.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/terminal-bus.jpg",
-  "tags": [
-   "KUR",
-   "UMKM",
-   "Pariwisata",
-   "Pelatihan Vokasi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7173/pemerintah-terus-dorong-penguatan-sdm-pengembangan-pariwisata-serta-perluasan-pembiayaan-umkm-untuk-pertumbuhan-ekonomi-yang-optimal",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ri-kejar-ratifikasi-ieu-cepa-sebelum-berlaku-2027",
-  "category": "Global",
-  "title": "RI Kejar Ratifikasi [IEU-CEPA] Sebelum Berlaku 2027",
-  "deck": "Pemerintah menargetkan IEU-CEPA dengan Uni Eropa diratifikasi semester II 2026 dan berlaku awal 2027, salah satu dari beberapa agenda integrasi ekonomi internasional yang dikejar bersamaan.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/moneter-bi.jpg",
-  "tags": [
-   "IEU-CEPA",
-   "OECD",
-   "ASEAN DEFA",
-   "ekonomi digital"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7174/perluasan-akses-pasar-internasional-dan-digitalisasi-domestik-menjadi-kunci-utama-pertumbuhan-ekonomi-nasional",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "delegasi-bisnis-vanuatu-jajaki-kerja-sama-dagang-di-tei-2026",
-  "category": "Global",
-  "title": "Delegasi Bisnis [Vanuatu] Jajaki Kerja Sama Dagang di TEI 2026",
-  "deck": "Delegasi pengusaha Vanuatu bertemu pelaku usaha Indonesia di TEI 2026, menjajaki kerja sama di sektor material bangunan, furnitur, makanan-minuman, ritel, dan properti.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/delegasi-bisnis-vanuatu-jajaki-kerja-sama-dagang-di-tei-2026.jpg",
-  "imageV": "mvi4q146",
-  "tags": [
-   "TEI 2026",
-   "Vanuatu",
-   "Ekspor",
-   "Perdagangan"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tei-2026-dorong-penguatan-kerja-sama-ekonomi-dan-bisnis-indonesia-vanuatu",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bris-jawab-bursa-soal-lonjakan-saham-buka-opsi-buyback",
-  "category": "Aksi Korporasi",
-  "title": "BRIS Jawab Bursa soal Lonjakan Saham, Buka Opsi [Buyback]",
-  "deck": "BRIS menjawab permintaan penjelasan Bursa Efek Indonesia atas lonjakan harga dan transaksi sahamnya pada 8-16 Oktober 2026, sambil mengungkap opsi buyback saham sedang dikaji.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRIS",
-   "Bank Syariah Indonesia",
-   "RUPSLB",
-   "buyback"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/adf108a070_d81c266f32.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kur-bni-rp500-juta-dorong-usaha-mesin-kopi-siantar",
-  "category": "UMKM",
-  "title": "KUR BNI [Rp500 Juta] Dorong Usaha Mesin Kopi Siantar",
-  "deck": "BNI Pematangsiantar menyalurkan kredit usaha rakyat Rp500 juta kepada pengusaha mesin kopi untuk menambah kapasitas produksi dan memperluas pasar.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/kur-bni-rp500-juta-dorong-usaha-mesin-kopi-siantar.jpg",
-  "imageV": "mvi4q1jz",
-  "tags": [
-   "KUR BNI",
-   "UMKM",
-   "Pematangsiantar",
-   "industri kopi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474267-kur-bni-pematangsiantar-salurkan-rp500-juta-untuk-bantu-pengusaha-mesin-kopi-naik-kelas"
- },
- {
-  "slug": "pemerintah-patok-target-ai-lewat-listrik-dan-sdm-digital",
-  "category": "Teknologi",
-  "title": "Pemerintah Patok Target [AI] lewat Listrik dan SDM Digital",
-  "deck": "Pemerintah merinci empat prioritas kedaulatan AI, dari penambahan listrik 70 gigawatt hingga target 9 juta talenta digital pada 2030.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/kantor-startup.jpg",
-  "tags": [
-   "kecerdasan buatan",
-   "transformasi digital",
-   "energi",
-   "talenta digital"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7169/tegaskan-empat-prioritas-strategis-pemerintah-bersiap-wujudkan-kedaulatan-ai-dan-transformasi-digital",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "investasi-kek-baru-rp46-triliun-kejar-target-rp69-triliun",
-  "category": "Makroekonomi",
-  "title": "Investasi KEK Baru [Rp46] Triliun, Kejar Target Rp69 Triliun",
-  "deck": "Realisasi investasi di 25 kawasan ekonomi khusus capai Rp46 triliun hingga September 2026, baru dua pertiga dari target Rp69 triliun tahun ini.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/bendungan.jpg",
-  "tags": [
-   "KEK",
-   "Investasi",
-   "Pariwisata",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7171/kek-jadi-motor-investasi-nasional-pemerintah-dorong-penguatan-daya-saing-dan-kolaborasi-antar-kek",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

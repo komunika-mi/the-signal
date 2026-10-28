@@ -3,6 +3,190 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mcor-laba-kuartal-iii-turun-5-8-jadi-rp217-44-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MCOR: Laba Kuartal III [Turun] 5,8% jadi Rp217,44 Miliar",
+  "deck": "MCOR membukukan laba bersih Rp217,44 miliar pada 9 bulan 2026, turun dari Rp230,88 miliar, seiring dana nasabah bergeser ke pembiayaan repo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T20:30:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028203333-64803-0/FinancialStatement-2026-III-MCOR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MCOR",
+  "tags": [
+   "MCOR",
+   "perbankan",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Bank China Construction Bank Indonesia Tbk (MCOR) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia lewat surat bernomor 185/CCBI/DDIR-EXT/X/2026. Bank mencatat laba bersih Rp217,44 miliar, turun 5,82 persen dibanding periode yang sama tahun lalu sebesar Rp230,88 miliar. Laba per saham ikut turun dari Rp6,09 menjadi Rp5,73. Meski laba turun, total aset bank naik 4,76 persen menjadi Rp39,90 triliun dari Rp38,08 triliun pada akhir 2025, dan ekuitas naik menjadi Rp7,37 triliun dari Rp7,15 triliun.",
+   "Penurunan laba terjadi meski pendapatan bunga bersih bank naik menjadi Rp740,83 miliar dari Rp715,28 miliar. Penyebabnya adalah pendapatan operasional lain yang merosot tajam menjadi Rp10,93 miliar dari Rp42,56 miliar, akibat kerugian belum terealisasi dari perubahan nilai wajar efek-efek sebesar Rp843 juta dan kerugian transaksi mata uang asing Rp19,96 miliar. Di sisi lain, beban operasional naik, dengan beban umum dan administrasi menjadi Rp197,42 miliar dari Rp177,98 miliar, dan beban tenaga kerja menjadi Rp240,49 miliar dari Rp228,76 miliar. Hasilnya, laba operasional bersih turun menjadi Rp276,59 miliar dari Rp289,79 miliar.",
+   "Di sisi pendanaan, deposito berjangka nasabah pihak ketiga turun dari Rp21,72 triliun menjadi Rp16,76 triliun, sementara giro pihak ketiga justru naik dari Rp5,01 triliun menjadi Rp6,37 triliun. Secara total, simpanan nasabah turun dari Rp28,67 triliun menjadi Rp25,15 triliun. Bank menutup selisih pendanaan ini antara lain lewat transaksi efek yang dijual dengan janji dibeli kembali (repo), yang melonjak dari Rp169,39 miliar menjadi Rp3,53 triliun, simpanan dari bank lain yang naik dari Rp1,69 triliun menjadi Rp3,01 triliun, dan pinjaman yang diterima yang naik dari Rp16,70 miliar menjadi Rp285,16 miliar. Sementara itu, kredit yang diberikan tumbuh dari Rp26,41 triliun menjadi Rp27,35 triliun, dengan cadangan kerugian penurunan nilai naik dari Rp268,61 miliar menjadi Rp281,49 miliar.",
+   "Dalam surat terpisah bernomor 186/CCBI/DDIR-EXT/X/2026, manajemen menjelaskan kepada otoritas bursa bahwa perubahan pos-pos aset dan liabilitas yang melebihi 20 persen tersebut disampaikan untuk memenuhi Peraturan Bursa Efek Indonesia Nomor I-E tentang Kewajiban Penyampaian Informasi."
+  ],
+  "fotoAdegan": "Exterior of a modern bank office tower in Jakarta's financial district, glass facade reflecting afternoon sky, street-level view",
+  "takeaway": "Laporan ini condong negatif karena laba bersih turun 5,8 persen dan sumber pendanaan bank bergeser dari deposito nasabah yang murah dan stabil ke pinjaman repo serta simpanan antarbank yang berjangka pendek dan biasanya berbunga lebih tinggi. Pos yang tersentuh ada dua: laba per saham, yakni bagian laba yang secara teoritis menjadi hak setiap lembar saham, turun dari Rp6,09 menjadi Rp5,73, dan struktur pendanaan, di mana deposito berjangka susut hampir Rp5 triliun sementara dana dari transaksi repo (bank menjual efek dengan janji membelinya kembali sebagai cara pinjam dana cepat) melonjak dari Rp169 miliar menjadi Rp3,53 triliun. Pelaku pasar mencermati pos ini karena pendanaan yang terlalu mengandalkan pasar antarbank dan repo cenderung lebih mahal dan lebih rentan ditarik mendadak dibanding dana nasabah biasa. Ekuitas bank sendiri masih tumbuh ke Rp7,37 triliun berkat akumulasi laba ditahan, jadi pergeseran ini belum sampai mengganggu permodalan. Yang perlu dipantau berikutnya adalah laporan kuartal IV 2026 dan laporan tahunan audited yang biasa terbit pada awal tahun berikutnya, untuk melihat apakah susutnya deposito dan lonjakan dana repo ini berlanjut atau hanya sementara.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pnbs-laba-9-bulan-naik-69-8-rasio-modal-turun-ke-16-6",
+  "category": "Aksi Korporasi",
+  "title": "PNBS: Laba 9 Bulan Naik 69,8%, Rasio [Modal] Turun ke 16,6%",
+  "deck": "Laba bersih Bank Panin Dubai Syariah naik 69,8 persen jadi Rp73,38 miliar dalam sembilan bulan 2026, sementara rasio kecukupan modal turun dari 19,11 persen jadi 16,61 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T20:20:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028203327-64760-0/FinancialStatement-2026-III-PNBS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNBS",
+  "tags": [
+   "PNBS",
+   "Bank Panin Dubai Syariah",
+   "laporan keuangan",
+   "rasio kecukupan modal"
+  ],
+  "body": [
+   "PT Bank Panin Dubai Syariah Tbk (PNBS) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK dan Bursa Efek Indonesia. Surat pernyataan direksi ditandatangani Direktur Utama Bratha dan Direktur Shandra Noraya Laksmi pada 28 Oktober 2026, menyatakan laporan telah disusun secara lengkap dan benar sesuai Standar Akuntansi Keuangan Indonesia.",
+   "Laba bersih perseroan untuk sembilan bulan 2026 tercatat Rp73,38 miliar, naik 69,8 persen dibandingkan Rp43,22 miliar pada periode yang sama tahun 2025. Kenaikan ini antara lain didorong oleh pendapatan bagi hasil dari pembiayaan musyarakah yang naik dari Rp590,38 miliar menjadi Rp696,93 miliar. Namun jumlah penghasilan komprehensif justru berbalik menjadi rugi Rp7,77 miliar, dari sebelumnya untung Rp77,24 miliar, karena ada kerugian belum terealisasi senilai Rp81,15 miliar akibat perubahan nilai wajar surat berharga yang dipegang bank. Laba per saham dasar dan dilusian naik menjadi Rp1,89, dari Rp1,11 pada periode yang sama tahun lalu.",
+   "Dari sisi posisi keuangan, total aset bank naik 2,8 persen menjadi Rp19,65 triliun per 30 September 2026, dari Rp19,12 triliun pada akhir 2025. Pembiayaan musyarakah, pos terbesar bank, bertambah dari sekitar Rp11,69 triliun menjadi Rp12,87 triliun, sementara pembiayaan mudharabah justru turun sekitar 37,5 persen menjadi sekitar Rp1 triliun karena pelunasan oleh beberapa nasabah korporasi. Penempatan pada Bank Indonesia turun sekitar 64,3 persen menjadi Rp452,47 miliar menyusul jatuh temponya Fasilitas Simpanan Bank Indonesia Syariah. Rasio kewajiban penyediaan modal minimum bank turun dari 19,11 persen pada September 2025 menjadi 16,61 persen pada September 2026, seiring naiknya aset tertimbang menurut risiko dari Rp12,77 triliun menjadi Rp14,72 triliun akibat ekspansi pembiayaan. Rasio itu masih jauh di atas batas minimum yang disyaratkan OJK sesuai profil risiko bank, yaitu 9,37 persen.",
+   "Arus kas dari aktivitas operasi mencatat kas keluar bersih Rp917,98 miliar pada sembilan bulan 2026, jauh lebih besar dari Rp129,75 miliar pada periode yang sama tahun lalu, terutama karena penyaluran pembiayaan musyarakah baru senilai Rp1,18 triliun. Akibatnya, saldo kas dan setara kas akhir periode turun menjadi Rp493,93 miliar, dari Rp1,42 triliun di awal tahun. Dalam laporan ini juga disebutkan pemegang saham pengendali bank tetap PT Bank Pan Indonesia Tbk dengan 67,30 persen saham, disusul Pemerintah Dubai, Uni Emirat Arab, melalui Dubai Islamic Bank PJSC dengan 25,10 persen, dan publik 7,60 persen."
+  ],
+  "fotoAdegan": "Interior of a modern bank branch with teller counters and waiting customers, polished floor, soft morning light through glass facade",
+  "takeaway": "Laporan kuartal ketiga ini condong positif bagi PNBS karena laba bersih naik hampir 70 persen dan portofolio pembiayaannya terus membesar, meski diikuti menipisnya bantalan modal yang pantas dicermati. Yang tersentuh adalah rasio kecukupan modal, yaitu perbandingan antara modal bank dan aset berisiko yang jadi penyangga kalau terjadi kerugian, yang turun dari 19,11 persen jadi 16,61 persen karena bank memperbesar pembiayaan sehingga aset berisikonya ikut membesar. Ekuitas, yakni kekayaan bersih pemegang saham, juga sedikit menyusut akibat kerugian belum terealisasi dari surat berharga yang dipegang bank, sementara laba per saham, yaitu bagian laba yang secara teoritis jadi milik setiap satu lembar saham, justru naik jadi Rp1,89 dari Rp1,11. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, yang wajib disetor ke OJK dan bursa paling lambat akhir Maret 2027, serta apakah rasio kecukupan modal terus menyusut bila bank kembali memperbesar pembiayaan musyarakah pada kuartal terakhir tahun ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bmri-divestasi-lepas-20-saham-inhealth-rp570-m",
+  "category": "Aksi Korporasi",
+  "title": "BMRI [Divestasi] Lepas 20% Saham Inhealth Rp570 M",
+  "deck": "Bank Mandiri menjual 20 persen sahamnya di Inhealth senilai Rp570 miliar kepada IFG Life, bagian dari konsolidasi asuransi BUMN.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T20:15:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2ad8ce9128_32fc52d4cc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "Transaksi Afiliasi",
+   "Inhealth",
+   "IFG Life"
+  ],
+  "body": [
+   "PT Bank Mandiri (Persero) Tbk menandatangani Perjanjian Jual Beli Saham Bersyarat pada 26 Oktober 2026 dengan PT Asuransi Jiwa IFG Life untuk menjual seluruh 200.000 lembar sahamnya, setara 20 persen ekuitas, di PT Asuransi Jiwa Inhealth Indonesia. Nilai transaksi disepakati sebesar Rp570 miliar, atau Rp2.850.000 per lembar saham, mengacu pada laporan penilaian KJPP Nirboyo Adiputro, Dewi Apriyanti & Rekan tertanggal 8 Oktober 2026 dengan tanggal penilaian 30 Juni 2026. Transaksi ini masuk kategori transaksi afiliasi karena Bank Mandiri dan IFG Life sama-sama dikendalikan secara tidak langsung oleh Negara Republik Indonesia lewat Badan Pengaturan BUMN, Bank Mandiri melalui kepemilikan PT Danantara Asset Management (51,48 persen) dan BP BUMN (0,52 persen), sementara IFG Life dikuasai penuh oleh PT Bahana Pembinaan Usaha Indonesia (IFG).",
+   "Penjualan ini merupakan bagian dari inisiatif pemerintah menstreamlining perusahaan asuransi jiwa milik negara di bawah supervisi Danantara Asset Management, dengan IFG sebagai induk usaha asuransi BUMN. Objek penilaian juga mencakup penyertaan Inhealth di PT Fitaja Digital Nusantara, pengembang aplikasi kesehatan digital FitAja, sebesar 4.794.500 lembar saham atau 45,14 persen dari total saham FDN. Setelah transaksi selesai, seluruh 1.000.000 lembar saham Inhealth akan dimiliki 100 persen oleh IFG Life, sehingga Bank Mandiri tidak lagi memiliki keterkaitan modal di perusahaan asuransi kesehatan tersebut.",
+   "Bank Mandiri menegaskan transaksi ini bukan transaksi material menurut POJK No. 17/2020 karena nilainya hanya setara 0,19 persen dari ekuitas konsolidasian per 30 Juni 2026, 0,17 persen dari total aset, 1,11 persen dari laba bersih konsolidasian, dan 0,98 persen dari pendapatan usaha konsolidasian, jauh di bawah ambang batas 20 persen yang mewajibkan persetujuan RUPS. Penyelesaian transaksi masih bergantung pada terpenuhinya sejumlah syarat dalam perjanjian, termasuk perolehan persetujuan dari otoritas yang berwenang sesuai ketentuan perundang-undangan yang berlaku."
+  ],
+  "fotoAdegan": "Exterior of a general hospital building in Jakarta with an ambulance parked near the entrance, overcast afternoon light, people walking by",
+  "takeaway": "Laporan ini netral bagi Bank Mandiri, karena nilai divestasinya cuma 0,19 persen dari ekuitas bank, terlalu kecil untuk mengubah kondisi keuangan perusahaan sebesar itu, walau ada dana segar Rp570 miliar yang masuk dari penjualan unit asuransi kesehatan yang bukan bisnis inti. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang jadi modal milik pemegang saham, serta laba bersih konsolidasian karena Inhealth selama ini menyumbang sekitar 1,11 persen dari laba Bank Mandiri dan kontribusi itu akan hilang setelah sahamnya terjual. Pelaku pasar biasanya mencermati jenis transaksi seperti ini untuk melihat apakah perusahaan melepas aset secara wajar atau justru merugi, dan di sini harga jual sudah melalui penilaian independen KJPP. Yang perlu dipantau selanjutnya adalah pemenuhan syarat-syarat dalam perjanjian, termasuk persetujuan dari otoritas yang berwenang, sebelum transaksi penjualan saham Inhealth ini benar-benar efektif dan tuntas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "msin-jelaskan-ke-bei-piutang-naik-rencana-saham-baru-di-hkex",
+  "category": "Aksi Korporasi",
+  "title": "MSIN Jelaskan ke BEI: Piutang Naik, Rencana [Saham Baru] di HKEX",
+  "deck": "MSIN menjawab permintaan Bursa soal piutang yang melonjak dan rencana penerbitan saham baru hingga 10 persen untuk pencatatan sekunder di Hong Kong.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T20:08:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/29940a5879_8035011885.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSIN",
+  "tags": [
+   "MSIN",
+   "HKEX",
+   "piutang usaha",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT MNC Digital Entertainment Tbk (MSIN) menyampaikan tanggapan resmi atas surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-13465/BEI.PP2/10-2026 yang diterima perusahaan pada 28 Oktober 2026. Dalam surat bernomor 308-A/MDE-CORSEC/X/2026 yang ditandatangani Corporate Secretary Ahmad Alhafiz, Bursa meminta penjelasan mengenai kegiatan usaha, kinerja keuangan semester I 2026, hingga perkembangan rencana pencatatan saham sekunder di Hong Kong Exchanges and Clearing Limited (HKEX).",
+   "Soal laporan keuangan per 30 Juni 2026, MSIN menjelaskan piutang usaha pihak ketiga melonjak dari Rp301,8 miliar menjadi Rp605,4 miliar, dengan kenaikan terbesar dari kategori debitur lain-lain yang naik dari Rp153,2 miliar menjadi Rp474,5 miliar. Perseroan menyebut kenaikan itu berasal dari transaksi operasional normal dan menegaskan cadangan kerugian kredit yang dibentuk sudah memadai, tanpa ada debitur bersaldo material yang perlu diungkap secara khusus. Di sisi lain, nilai tercatat aset konten turun dari Rp838,8 miliar menjadi Rp733,1 miliar akibat amortisasi berjalan, sementara aset tak berwujud Perseroan tercatat Rp2.377,0 miliar. Pendapatan semester I 2026 tercatat naik 10 persen, ditopang segmen Konten, IP, dan Lainnya yang tumbuh 15 persen, sementara laba kotor di luar depresiasi dan amortisasi naik 17 persen seiring kenaikan pendapatan Rp178 miliar yang lebih besar dari kenaikan biaya Rp85 miliar. Laba bersih tercatat tumbuh 14 persen.",
+   "Mengenai rencana pencatatan sekunder di HKEX yang pertama kali diumumkan April 2026, MSIN menyatakan proses pengajuan masih berjalan tanpa menyebut target waktu pasti. Perseroan berencana menerbitkan saham baru sebanyak-banyaknya 10 persen dari modal ditempatkan dan disetor untuk mendukung pencatatan tersebut, yang menurut manajemen dapat memperluas basis investor dan menambah pendanaan, namun berpotensi mendilusi kepemilikan pemegang saham yang ada. MSIN juga memastikan tidak ada kontrak baru signifikan, perkara hukum material, maupun informasi material lain yang belum diungkapkan kepada publik."
+  ],
+  "fotoAdegan": "Video editors reviewing blurred timeline footage on multiple monitors in a dim post-production studio, cables running across the floor",
+  "takeaway": "Laporan ini netral bagi MSIN, karena memadukan sinyal yang saling menyeimbangkan: kinerja H1 2026 yang tetap tumbuh di satu sisi, dengan lonjakan piutang usaha dan rencana penambahan saham baru yang masih berupa niat di sisi lain. Piutang usaha yang membengkak lebih dari dua kali lipat penting diawasi karena piutang adalah pendapatan yang sudah diakui di laporan keuangan tapi uangnya belum benar-benar diterima, jadi kalau penagihannya macet, laba di atas kertas tidak langsung jadi uang tunai. Rencana penerbitan saham baru hingga 10 persen untuk pencatatan di Hong Kong juga akan menambah jumlah saham beredar, yang berarti laba bersih yang sama harus dibagi ke lebih banyak lembar saham sehingga laba per saham bisa terdilusi. Yang perlu dipantau selanjutnya adalah kapan Perseroan mendapat kepastian jadwal dan persetujuan dari HKEX untuk pencatatan sekunder ini, serta apakah piutang debitur lain-lain yang naik ke Rp474,5 miliar benar-benar tertagih pada laporan keuangan kuartal berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cbmf-gelar-rupst-4-desember-akui-telat-laporan-tahunan",
+  "category": "Aksi Korporasi",
+  "title": "CBMF Gelar RUPST 4 Desember, Akui [Telat] Laporan Tahunan",
+  "deck": "CBMF memanggil RUPST pada 4 Desember 2026, salah satu agendanya meminta persetujuan pemegang saham atas keterlambatan penyampaian laporan tahunan 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T20:02:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1ca17d38fa_5da90647dd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBMF",
+  "tags": [
+   "CBMF",
+   "RUPST",
+   "Laporan Tahunan",
+   "Tata Kelola"
+  ],
+  "body": [
+   "PT Cahaya Bintang Medan Tbk (CBMF) memanggil Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku yang berakhir 31 Desember 2025. Rapat akan digelar Jumat, 4 Desember 2026 pukul 11.00 hingga 12.00 WIB di Antasari Place, Jalan Pangeran Antasari No. 45, Cilandak Barat, Jakarta Selatan. Hanya pemegang saham yang namanya tercatat dalam daftar pemegang saham per Selasa, 27 Oktober 2026 pukul 16.00 WIB yang berhak hadir atau diwakili dalam rapat ini.",
+   "Ada tujuh agenda yang akan dimintakan persetujuan. Agenda pertama adalah persetujuan pemegang saham atas keterlambatan penyampaian laporan tahunan perseroan untuk tahun buku 2025, artinya CBMF tidak menyampaikan laporan tahunannya sesuai tenggat normal dan perlu restu pemegang saham untuk itu. Agenda berikutnya mencakup pengesahan laporan tahunan dan laporan keuangan 2025 termasuk pembebasan tanggung jawab direksi dan komisaris, penetapan penggunaan laba bersih, penunjukan akuntan publik untuk audit tahun buku 2026, penetapan remunerasi direksi dan komisaris, serta persetujuan perubahan susunan direksi dan perubahan susunan dewan komisaris. Dokumen pemanggilan tidak merinci nama atau jumlah pos yang akan berubah di jajaran direksi maupun komisaris.",
+   "Perseroan mengimbau pemegang saham memberikan suara secara elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, atau memberi kuasa elektronik (e-proxy) kepada PT Adimitra Jasa Korpora sebagai pihak independen yang ditunjuk perseroan. Bagi yang hadir fisik, pemegang saham atau kuasanya wajib membawa fotokopi KTP, pemegang saham berbentuk badan hukum wajib membawa fotokopi anggaran dasar dan susunan pengurus terakhir, serta pemegang saham yang sahamnya dititipkan secara kolektif di KSEI wajib menyerahkan Konfirmasi Tertulis Untuk Rapat (KTUR). Kehadiran diminta paling lambat pukul 08.30 WIB. Surat pemanggilan ditandatangani Direktur Utama CBMF, Andre William, di Medan pada 28 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers sanding wooden furniture frames inside a sunlit workshop in North Sumatra, sawdust drifting in the air",
+  "takeaway": "Laporan ini netral bagi fundamental CBMF, sebab agendanya sebagian besar rutinitas RUPST tahunan, tetapi ada satu titik yang pantas dicermati: perseroan perlu meminta restu khusus pemegang saham karena terlambat menyampaikan laporan tahunan 2025, tanda ada keterlambatan administrasi pelaporan. Rapat ini juga akan memutuskan penggunaan laba bersih perseroan, yaitu apakah untung tahun lalu dibagikan sebagai dividen ke pemegang saham atau ditahan untuk modal kerja perusahaan, dan itu langsung berpengaruh ke uang yang bisa diterima investor. Agenda perubahan susunan direksi dan komisaris juga diajukan, meski dokumen ini belum menyebut nama atau posisi yang berganti. Yang perlu dipantau adalah hasil RUPST pada 4 Desember 2026, terutama keputusan soal pembagian laba, penjelasan resmi perseroan atas sebab keterlambatan laporan tahunan, dan siapa saja yang akhirnya masuk atau keluar dari jajaran direksi serta komisaris.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cbmf-ubah-jadwal-rupst-catat-dps-27-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "CBMF Ubah Jadwal RUPST, Catat [DPS] 27 Oktober 2026",
+  "deck": "Cahaya Bintang Medan menetapkan RUPST tahun buku 2025 digelar Jumat, 4 Desember 2026 di Jakarta Selatan, dengan pemegang saham per 27 Oktober 2026 yang berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T20:02:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/190c8e52bc_94063318a9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBMF",
+  "tags": [
+   "CBMF",
+   "RUPST",
+   "jadwal rapat",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Cahaya Bintang Medan Tbk (CBMF) mengumumkan perubahan jadwal Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku yang berakhir 31 Desember 2025. Pengumuman ini merujuk pada surat sebelumnya bernomor 18/CBM-Corsec/X/2026, dan disampaikan lewat surat baru bernomor 24/CBM-Corsec/X/2026 yang diteken Direktur Utama Andre William pada 28 Oktober 2026. Perseroan menetapkan RUPST akan digelar pada Jumat, 4 Desember 2026, pukul 11.00 WIB.",
+   "Lokasi penyelenggaraan ditetapkan di Antasari Place, Jalan Pangeran Antasari No. 45, Cilandak Barat, Jakarta Selatan. Perseroan juga menegaskan bahwa pemegang saham yang berhak hadir dan memberikan suara dalam rapat adalah mereka yang tercatat dalam Daftar Pemegang Saham (DPS) per 27 Oktober 2026.",
+   "Perubahan jadwal ini melengkapi kabar sebelumnya yang sudah menyebut RUPST digelar pada tanggal yang sama, 4 Desember 2026. Dengan surat terbaru ini, perseroan menambahkan dua detail teknis yang belum jelas sebelumnya, yaitu lokasi persis rapat dan tanggal cut-off pencatatan pemegang saham yang berhak berpartisipasi."
+  ],
+  "fotoAdegan": "Modern glass office building exterior in a Jakarta business district, pedestrians walking past at midday",
+  "takeaway": "Laporan ini netral bagi fundamental CBMF karena sifatnya administratif, hanya melengkapi detail teknis rapat tahunan yang tanggalnya sudah lebih dulu diketahui. Yang disentuh bukan pos kinerja keuangan seperti ekuitas atau laba per saham, melainkan hak partisipasi pemegang saham: siapa yang tercatat di Daftar Pemegang Saham (DPS) per 27 Oktober 2026 itulah yang berhak datang dan memberi suara, sementara pembeli saham sesudah tanggal itu tidak otomatis mendapat hak tersebut untuk rapat kali ini. Yang perlu dipantau adalah jalannya RUPST sendiri pada Jumat, 4 Desember 2026 pukul 11.00 WIB di Antasari Place, Jakarta Selatan, termasuk kabar sebelumnya bahwa perseroan masih perlu meminta persetujuan khusus terkait keterlambatan penyampaian laporan tahunan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "boss-tunda-rups-tahunan-dan-luar-biasa-ke-4-november",
+  "category": "Aksi Korporasi",
+  "title": "BOSS [Tunda] RUPS Tahunan dan Luar Biasa ke 4 November",
+  "deck": "Rapat yang semula digelar 29 Oktober diundur ke 4 November 2026, agenda mencakup ratifikasi keterlambatan RUPS tiga tahun buku sekaligus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T19:53:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0ecb04e1a6_2348638e8b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "RUPS Tahunan",
+   "Penundaan RUPS",
+   "Emiten Batu Bara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) mengumumkan penundaan Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2023, 2024, dan 2025 sekaligus Rapat Umum Pemegang Saham Luar Biasa. Rapat yang semula dijadwalkan Kamis, 29 Oktober 2026 pukul 10.00 WIB diundur menjadi Rabu, 4 November 2026 pada jam dan lokasi yang sama, yaitu Wisma 77 Tower 1 Lantai 8, Jalan Letjen S. Parman Kav. 77, Jakarta Barat. Surat ralat pemanggilan ini diteken Direktur Widodo Nurly S dan diumumkan 28 Oktober 2026.",
+   "Agenda rapat tidak berubah. Untuk RUPS Tahunan, lima agenda yang akan dibahas adalah ratifikasi keterlambatan pelaksanaan RUPS Tahunan untuk tiga tahun buku sekaligus, persetujuan laporan tahunan dan pengesahan laporan keuangan 2023-2025 beserta pembebasan tanggung jawab penuh bagi Dewan Komisaris dan Direksi atas pengurusan perusahaan selama tiga tahun itu, penetapan penggunaan laba perusahaan untuk tiga tahun buku tersebut, penunjukan akuntan publik untuk mengaudit laporan keuangan tahun buku 2026, serta penetapan honorarium dan tunjangan bagi Direksi dan Komisaris. Untuk RUPS Luar Biasa, agendanya tunggal yaitu persetujuan penyesuaian Pasal 3 Anggaran Dasar perusahaan agar sesuai klasifikasi baku lapangan usaha Indonesia (KBLI) 2025.",
+   "Perseroan menegaskan tidak mengirim undangan khusus kepada pemegang saham, sehingga pengumuman ini berlaku sebagai undangan resmi. Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham pada Selasa, 6 Oktober 2026 pukul 16.00 WIB. Pemberian kuasa bisa dilakukan lewat sistem elektronik e-RUPS KSEI paling lambat satu hari kerja sebelum rapat, dan bahan-bahan rapat tersedia di kantor pusat perusahaan serta situs bosstbk.com sejak tanggal pemanggilan hingga hari pelaksanaan rapat."
+  ],
+  "fotoAdegan": "Empty boardroom with rows of chairs facing a podium in a Jakarta office tower, soft morning light through tall windows",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena penundaan ini menambah satu lagi tanda perusahaan kesulitan menuntaskan agenda tata kelola yang sudah molor tiga tahun buku sekaligus. Yang ikut tersendat adalah keputusan soal penggunaan laba dan pengesahan laporan keuangan 2023-2025, yang berarti pemegang saham belum bisa memastikan arah alokasi laba perusahaan maupun apakah Direksi dan Komisaris resmi dibebaskan dari tanggung jawab atas kinerja tiga tahun itu sampai rapat benar-benar terlaksana. Yang perlu dipantau adalah apakah RUPS benar berlangsung pada Rabu, 4 November 2026 pukul 10.00 WIB di Wisma 77, sebab kalau meleset lagi, keterlambatan tiga tahun buku yang sudah menumpuk ini akan makin panjang dan status laporan keuangan periode tersebut makin lama menggantung.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "impor-migas-kini-lewat-lemigas-bahlil-pastikan-tanpa-apbn",
   "category": "Energi",
   "title": "Impor Migas Kini Lewat Lemigas, Bahlil Pastikan [Tanpa] APBN",
@@ -57,6 +241,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Perubahan yang diusulkan ada pada rancangan undang-undang yang belum disahkan: pemerintah ingin membentuk satu badan khusus yang mengurus semua izin hulu minyak dan gas, menggantikan proses sekarang yang harus mondar-mandir ke beberapa kementerian. Dalam draf itu juga diusulkan agar perusahaan migas tidak perlu membayar pajak selama masih tahap mencari cadangan minyak dan belum menghasilkan, pajak baru berlaku setelah ada hasil. Yang paling terdampak adalah perusahaan pemegang kontrak kerja sama migas, karena merekalah yang selama ini menunggu lama akibat izin berpindah dari satu kementerian ke kementerian lain. Tapi pembahasan poin-poin rancangan ini baru mencapai sekitar 90 persen antara pemerintah dan DPR, sehingga rincian final soal batas kewenangan badan baru ini dan skema pajaknya masih bisa berubah. Yang perlu dipantau adalah kapan pembahasan ini selesai dan RUU Migas resmi diserahkan untuk disahkan, karena baru di titik itu aturan satu pintu ini benar-benar berlaku.",
   "imageV": "mvs3v3u5"
+ },
+ {
+  "slug": "hrme-rugi-bersih-sembilan-bulan-melebar-jadi-rp15-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "HRME: [Rugi] Bersih Sembilan Bulan Melebar jadi Rp15,8 Miliar",
+  "deck": "Pendapatan hotel Hermitage milik HRME turun 12 persen dalam sembilan bulan, kas perusahaan susut hampir 40 persen jadi Rp50,2 miliar, sementara rugi bersih melebar jadi Rp15,8 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T19:32:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028194029-64727-0/FinancialStatement-2026-III-HRME.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRME",
+  "tags": [
+   "HRME",
+   "laporan keuangan",
+   "rugi bersih",
+   "perhotelan"
+  ],
+  "body": [
+   "PT Menteng Heritage Realty Tbk (HRME), pemilik hotel The Hermitage di Menteng, Jakarta Pusat, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan tercatat Rp65,07 miliar, turun sekitar 12 persen dari Rp74,15 miliar pada periode yang sama tahun 2025. Setelah beban usaha justru naik, terutama beban umum dan administrasi yang membengkak dari Rp39,15 miliar menjadi Rp47,83 miliar, perseroan berbalik membukukan rugi usaha Rp18,43 miliar, dari sebelumnya untung usaha Rp1,32 miliar. Rugi bersih yang dapat diatribusikan kepada pemilik entitas induk melebar menjadi Rp15,81 miliar dari Rp5,70 miliar setahun sebelumnya, sehingga rugi per saham membesar dari Rp0,96 menjadi Rp2,65.",
+   "Di sisi posisi keuangan, total aset perusahaan naik tipis menjadi Rp831,10 miliar per 30 September 2026 dari Rp826,56 miliar di akhir 2025, namun kenaikan ini lebih banyak ditopang oleh piutang kepada pihak berelasi yang melonjak dari Rp136,04 miliar menjadi Rp191,17 miliar, bukan dari aset operasional hotel. Sementara itu, kas dan setara kas justru menyusut tajam dari Rp80,79 miliar menjadi Rp50,20 miliar. Total liabilitas naik dari Rp279,62 miliar menjadi Rp306,88 miliar, antara lain karena munculnya utang jangka panjang kepada pihak berelasi senilai Rp19,53 miliar yang sebelumnya nihil. Akibat rugi yang terus bertambah, total ekuitas yang jadi hak pemegang saham turun dari Rp546,94 miliar menjadi Rp524,21 miliar, dan saldo rugi terakumulasi membesar menjadi Rp415,48 miliar.",
+   "Laporan arus kas menunjukkan kegiatan operasional hotel masih menyedot kas bersih Rp2,64 miliar, meski membaik dibanding periode sama tahun lalu yang menyedot Rp12,63 miliar. Penurunan kas yang lebih besar terjadi karena perseroan menjual aset tetap senilai Rp43,39 miliar dan memakai sebagian hasilnya untuk melunasi pinjaman bank jangka panjang sebesar Rp37,20 miliar, jauh lebih besar dari pembayaran pinjaman serupa senilai Rp5,14 miliar pada tahun sebelumnya. Secara keseluruhan, kas dan bank perusahaan berkurang Rp30,58 miliar sepanjang sembilan bulan, menyisakan saldo Rp50,20 miliar pada akhir September 2026. Saham HRME sendiri saat ini tercatat di papan Pemantauan Khusus Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Grand colonial-style hotel entrance with stone columns and a manicured garden in central Jakarta, soft overcast morning light",
+  "takeaway": "Laporan ini condong negatif bagi HRME, karena pendapatan hotel menyusut, perseroan berbalik dari untung usaha menjadi rugi usaha, dan kas perusahaan terkuras hampir 40 persen dalam sembilan bulan, padahal sahamnya sudah berstatus pemantauan khusus di bursa. Pos yang paling kena dampak adalah ekuitas, arus kas, dan laba per saham. Ekuitas adalah kekayaan bersih yang jadi hak pemegang saham setelah utang dikurangkan, dan nilainya turun karena rugi yang terus menumpuk menambah saldo rugi perusahaan. Arus kas operasional, yaitu uang tunai yang benar-benar masuk dari kegiatan hotel sehari-hari, masih negatif meski membaik dibanding tahun lalu, sehingga perusahaan menutup kekurangan kas dengan menjual aset tetap senilai Rp43,39 miliar dan memakainya untuk melunasi pinjaman bank Rp37,2 miliar, sementara laba per saham, yaitu bagian rugi yang ditanggung setiap lembar saham, melebar dari Rp0,96 menjadi Rp2,65. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang telah diaudit, yang akan menunjukkan apakah tren rugi usaha dan penyusutan kas sembilan bulan ini masih berlanjut di kuartal terakhir, serta apakah piutang kepada pihak berelasi yang naik jadi Rp191,17 miliar akhirnya bisa ditagih kembali.",
+  "sentimen": "negatif"
  },
  {
   "slug": "ipcm-laba-bersih-tergerus-meski-pendapatan-naik-5-33",

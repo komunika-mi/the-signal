@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "UUGOuxFiB5s",
+  "title": "Bawang Putih Ditanam Perdana di Kertajati untuk Ketahanan Pangan",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah memulai penanaman perdana bawang putih di kawasan Kertajati, Majalengka, Jawa Barat, sebagai bagian dari program ketahanan pangan. Produksi bawang putih nasional saat ini baru sekitar 5 ribu ton.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya pemerintah menekan impor bawang putih lewat peningkatan produksi dalam negeri.",
+  "terbit": "2026-10-28T09:04:05+00:00"
+ },
+ {
   "id": "Qmle2aEAdAg",
   "title": "Mentan Soroti Dugaan Mafia Beras di Pasar Cipinang",
   "category": "Bisnis",

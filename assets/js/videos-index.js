@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "UUGOuxFiB5s",
+  "title": "Bawang Putih Ditanam Perdana di Kertajati untuk Ketahanan Pangan",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah memulai penanaman perdana bawang putih di kawasan Kertajati, Majalengka, Jawa Barat, sebagai bagian dari program ketahanan pangan. Produksi bawang putih nasional saat ini baru sekitar 5 ribu ton.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya pemerintah menekan impor bawang putih lewat peningkatan produksi dalam negeri."
+ },
+ {
   "id": "Qmle2aEAdAg",
   "title": "Mentan Soroti Dugaan Mafia Beras di Pasar Cipinang",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "Presiden Prabowo Subianto menggelar rapat terbatas bersama menteri ekonomi, Gubernur Bank Indonesia, dan OJK di Istana Merdeka untuk membahas kondisi ekonomi dan pergerakan IHSG.",
   "takeaway": "Penting bagi pembaca karena menunjukkan respons pemerintah terhadap dinamika pasar modal dan stabilitas ekonomi."
- },
- {
-  "id": "sD7vxH-dxng",
-  "title": "Presiden Prabowo Gelar Ratas Bahas Pelemahan IHSG",
-  "category": "Pasar Modal",
-  "program": "AKIP tvOne",
-  "summary": "Presiden Prabowo Subianto menggelar rapat terbatas bersama tim ekonomi dan Komite Stabilitas Sistem Keuangan membahas dinamika ekonomi dan pelemahan IHSG, Senin, 19 Oktober 2026.",
-  "takeaway": "Relevan karena mengungkap langkah koordinasi otoritas keuangan merespons tekanan di pasar saham."
  }
 ];

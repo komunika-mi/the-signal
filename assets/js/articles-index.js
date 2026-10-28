@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "roti-direktur-arief-alfanto-ajukan-pengunduran-diri",
+  "category": "Aksi Korporasi",
+  "title": "ROTI: Direktur Arief Alfanto Ajukan [Pengunduran Diri]",
+  "deck": "Direktur Arief Alfanto mengajukan pengunduran diri dari jabatannya di Nippon Indosari Corpindo karena alasan pribadi, menunggu persetujuan RUPS.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ROTI",
+   "direksi",
+   "pengunduran diri",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b39a7a8bd4_8f480433e0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bptr-laba-bersih-melonjak-170-persen-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "BPTR: Laba Bersih [Melonjak] 170 Persen di Kuartal III 2026",
+  "deck": "Laba bersih BPTR naik hampir tiga kali lipat jadi Rp35,5 miliar dalam sembilan bulan 2026, ditopang pendapatan yang tumbuh 20 persen dan pelunasan utang jangka pendek.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BPTR",
+   "laporan keuangan",
+   "transportasi",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028140022-64970-0/FinancialStatement-2026-III-BPTR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hatm-beli-kapal-rp457-miliar-transaksi-material-tanpa-rups",
+  "category": "Aksi Korporasi",
+  "title": "HATM Beli Kapal Rp457 Miliar, [Transaksi Material] Tanpa RUPS",
+  "deck": "Habco Trans Maritima membeli kapal bulk carrier senilai Rp457,1 miliar dari Coastline Shipping Limited, setara 27,92 persen ekuitas, tanpa perlu persetujuan RUPS.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HATM",
+   "transaksi material",
+   "kapal bulk carrier",
+   "ekspansi armada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9cf13f826_c09cd34ce3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asha-gelar-rupslb-ratifikasi-keterlambatan-pengangkatan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "ASHA Gelar RUPSLB, Ratifikasi [Keterlambatan] Pengangkatan Direksi",
+  "deck": "RUPSLB ASHA pada 19 November 2026 akan membahas dispensasi keterlambatan pengangkatan direksi dan komisaris, pergantian susunan pengurus, serta penyesuaian klasifikasi usaha perseroan.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASHA",
+   "RUPSLB",
+   "Direksi",
+   "Tata Kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5dfe6863b_9b3b769ff9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bkpm-cabut-izin-tambang-emas-di-nabire-papua",
   "category": "Industri",
   "title": "BKPM [Cabut] Izin Tambang Emas di Nabire, Papua",
@@ -37,6 +101,102 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7189/sinergi-tpip-dan-tpid-wilayah-sulampua-perkuat-konektivitas-dan-efisiensi-rantai-pasok-untuk-mendukung-ketahanan-pangan",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "zyrx-rugi-rp21-8-miliar-di-kuartal-iii-2026-penjualan-turun-20",
+  "category": "Aksi Korporasi",
+  "title": "ZYRX [Rugi] Rp21,8 Miliar di Kuartal III 2026, Penjualan Turun 20%",
+  "deck": "Produsen komputer ZYRX membalik laba jadi rugi bersih Rp21,8 miliar pada sembilan bulan 2026, seiring penjualan turun dan beban bunga melonjak.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZYRX",
+   "Zyrexindo",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028122343-64474-0/FinancialStatement-2026-III-ZYRX.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jpfa-bagi-dividen-interim-rp90-per-saham-capai-rp1-05-triliun",
+  "category": "Aksi Korporasi",
+  "title": "JPFA Bagi [Dividen] Interim Rp90 per Saham, Capai Rp1,05 Triliun",
+  "deck": "JAPFA Comfeed membagikan dividen interim tunai Rp90 per saham, total Rp1,05 triliun, dengan pembayaran dijadwalkan 12 November 2026.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JPFA",
+   "dividen interim",
+   "JAPFA Comfeed",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4658e9dfdf_264ceb7088.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "midi-laba-alfamidi-tumbuh-19-ke-rp705-6-miliar-di-9-bulan",
+  "category": "Aksi Korporasi",
+  "title": "MIDI: [Laba] Alfamidi Tumbuh 19% ke Rp705,6 Miliar di 9 Bulan",
+  "deck": "Laba bersih Alfamidi naik 19,4 persen jadi Rp705,6 miliar pada sembilan bulan 2026, ditopang kenaikan pendapatan 9,2 persen meski kas menyusut akibat ekspansi gerai dan dividen.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MIDI",
+   "Alfamidi",
+   "laporan keuangan",
+   "ritel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028120909-64725-0/FinancialStatement-2026-III-MIDI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "padi-berbalik-rugi-kuartal-iii-ekuitas-terdongkrak-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "PADI Berbalik Rugi Kuartal III, [Ekuitas] Terdongkrak Rights Issue",
+  "deck": "PADI mencatat rugi neto Rp1,1 miliar pada sembilan bulan 2026, berbalik dari laba Rp24,7 miliar setahun lalu, setelah menggelar rights issue Rp113 miliar dan melunasi utang bank serta subordinasi.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PADI",
+   "rugi kuartalan",
+   "rights issue",
+   "sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028115502-65147-0/FinancialStatement-2026-III-PADI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "eraa-rampungkan-mesop-tahap-2-25-79-juta-opsi-dieksekusi",
+  "category": "Aksi Korporasi",
+  "title": "ERAA Rampungkan [MESOP] Tahap 2, 25,79 Juta Opsi Dieksekusi",
+  "deck": "Erajaya Swasembada menyelesaikan pelaksanaan opsi saham karyawan tahap kedua, menutup seluruh 51,54 juta opsi program MESOP tanpa sisa yang belum dieksekusi.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "Erajaya Swasembada",
+   "opsi saham karyawan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3be6a30b5c_a3d3895552.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "spre-laba-bersih-turun-62-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "SPRE: Laba Bersih [Turun] 62% di Kuartal III 2026",
+  "deck": "Laba bersih Soraya Berjaya Indonesia (SPRE) turun 62 persen menjadi Rp663,57 juta pada sembilan bulan 2026, sementara total liabilitas malah turun 29 persen setelah pelunasan utang usaha dan bank.",
+  "date": "28 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SPRE",
+   "laporan keuangan",
+   "tekstil",
+   "kinerja emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028115937-64907-0/FinancialStatement-2026-III-SPRE.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "koci-laba-9m-turun-41-uang-muka-penjualan-naik-162",
@@ -6294,166 +6454,6 @@ var ARTICLES = [
    "pemegang saham pengendali"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a1375f1db5_84a94516ab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-revisi-rencana-rp125-m-saham-baru-dilusi-192",
-  "category": "Aksi Korporasi",
-  "title": "INPS Revisi Rencana Rp125 M, Saham Baru [Dilusi] 192%",
-  "deck": "INPS memperbarui keterbukaan informasi penambahan modal tanpa HMETD senilai hingga Rp125 miliar untuk pemegang saham pengendali, menyusul tanggapan OJK atas dokumen awal.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "penambahan modal",
-   "dilusi saham",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f581ba0048_82b4021f30.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "posa-catat-ekuitas-negatif-rp577-m-4-mal-disita-jaksa",
-  "category": "Aksi Korporasi",
-  "title": "POSA Catat Ekuitas Negatif Rp577 M, 4 Mal [Disita] Jaksa",
-  "deck": "POSA menjawab permintaan penjelasan BEI: ekuitas negatif Rp577,10 miliar, utang jangka pendek jauh lampaui aset lancar, dan empat mal disita Kejaksaan Agung.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POSA",
-   "ekuitas negatif",
-   "penyitaan aset",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6bcd09b09f_33960346e6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bq-sesuaikan-waran-scmabqcx6a-usai-scma-bagi-dividen-rp8-4",
-  "category": "Aksi Korporasi",
-  "title": "BQ Sesuaikan Waran [SCMABQCX6A] Usai SCMA Bagi Dividen Rp8,4",
-  "deck": "Korea Investment Sekuritas Indonesia (BQ) menyesuaikan rasio dan harga pelaksanaan waran terstruktur SCMABQCX6A setelah SCMA mengumumkan dividen interim Rp8,4 per saham senilai total Rp533,4 miliar.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BQ",
-   "SCMA",
-   "dividen",
-   "waran terstruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b4887715ff_09e0aba55f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bold-pefindo-taruh-8-obligasi-rp2-8-t-dalam-creditwatch",
-  "category": "Aksi Korporasi",
-  "title": "BOLD: PEFINDO Taruh 8 Obligasi Rp2,8 T dalam [CreditWatch]",
-  "deck": "PEFINDO menempatkan status pengawasan (creditwatch) pada rating idBBB delapan seri obligasi dan sukuk BUMA senilai total sekitar Rp2,8 triliun dalam pemeringkatan tahunan 2026.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLD",
-   "BUMA",
-   "obligasi",
-   "PEFINDO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bd6b1f0c62_e93c1620e5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smcb-gelar-rupslb-ajukan-aktivasi-bisnis-dagang-bahan-bangunan",
-  "category": "Aksi Korporasi",
-  "title": "SMCB Gelar RUPSLB, Ajukan [Aktivasi] Bisnis Dagang Bahan Bangunan",
-  "deck": "SMCB menggelar RUPSLB 27 November 2026 untuk meminta restu pemegang saham mengaktifkan kembali bisnis dagang bahan bangunan, menyusul merger anak usahanya ke VUB.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMCB",
-   "RUPSLB",
-   "Semen Indonesia",
-   "perubahan kegiatan usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c989dbaa26_20ef570dd4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "halo-ganti-komisaris-jane-joe-laurence-gantikan-wilfred-schultz",
-  "category": "Aksi Korporasi",
-  "title": "HALO ganti [komisaris], Jane Joe Laurence gantikan Wilfred Schultz",
-  "deck": "PT Haloni Jane Tbk mengganti satu kursi komisaris, Jane Joe Laurence menggantikan Wilfred Schultz, efektif 20 Oktober 2026 untuk periode 2025-2027.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HALO",
-   "komisaris",
-   "pergantian pengurus",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/df8e516f86_e76e7b40b2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-gagal-bayar-sukuk-rupsu-tak-capai-keputusan",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Gagal Bayar] Sukuk, RUPSU Tak Capai Keputusan",
-  "deck": "Rapat pemegang sukuk WIKA soal gagal bayar bagi hasil dan pokok sukuk gagal capai kuorum keputusan, mayoritas suara menolak usulan penyelesaian dari emiten.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "gagal bayar",
-   "RUPSU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c41112efd1_00cbab5abc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pamg-catat-rugi-rp2-56-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "PAMG Catat [Rugi] Rp2,56 Miliar di Kuartal III 2026",
-  "deck": "Pendapatan turun 10,8 persen dan beban bunga naik membuat PAMG berbalik rugi bersih Rp2,56 miliar pada sembilan bulan pertama 2026, dari laba Rp965 juta setahun sebelumnya.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PAMG",
-   "laporan keuangan",
-   "rugi bersih",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261021120504-64525-0/FinancialStatement-2026-III-PAMG.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "coin-jawab-bursa-10-dari-31-pakd-tak-lagi-terdaftar-sama",
-  "category": "Aksi Korporasi",
-  "title": "COIN Jawab Bursa, 10 dari 31 [PAKD] Tak Lagi Terdaftar Sama",
-  "deck": "COIN menjawab permintaan Bursa soal pedagang aset kripto yang pindah ke pesaing, dan membuka tabel 31 anggota: 21 tetap, 2 ditolak OJK, 1 dicabut, 7 tak lagi tercantum.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "COIN",
-   "PAKD",
-   "CFX",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b671f502f2_fbd4771fd7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asdm-jawab-bei-soal-volatilitas-saham-klaim-tak-ada-info-baru",
-  "category": "Aksi Korporasi",
-  "title": "ASDM Jawab BEI soal [Volatilitas] Saham, Klaim Tak Ada Info Baru",
-  "deck": "Menjawab permintaan BEI, Asuransi Dayin Mitra (ASDM) menyatakan tak ada fakta material baru di balik pergerakan harga sahamnya, dan pemegang saham utama belum berencana mengubah kepemilikannya.",
-  "date": "21 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASDM",
-   "Asuransi Dayin Mitra",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/17f8afc3f8_5a47e8fb40.pdf",
   "sourceLabel": "IDX"
  }
 ];

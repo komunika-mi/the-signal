@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "roti-direktur-arief-alfanto-ajukan-pengunduran-diri",
+  "category": "Aksi Korporasi",
+  "title": "ROTI: Direktur Arief Alfanto Ajukan [Pengunduran Diri]",
+  "deck": "Direktur Arief Alfanto mengajukan pengunduran diri dari jabatannya di Nippon Indosari Corpindo karena alasan pribadi, menunggu persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T14:05:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b39a7a8bd4_8f480433e0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ROTI",
+  "tags": [
+   "ROTI",
+   "direksi",
+   "pengunduran diri",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Nippon Indosari Corpindo Tbk (ROTI), produsen roti merek Sari Roti, mengumumkan bahwa pada 28 Oktober 2026 perusahaan menerima surat permohonan pengunduran diri dari Arief Alfanto dari jabatannya sebagai Direktur Perseroan. Dalam surat keterbukaan informasi yang disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, perusahaan menyebut alasan pengunduran diri tersebut adalah alasan pribadi, tanpa merinci lebih jauh.",
+   "Perseroan menyatakan akan menjalankan proses sesuai Peraturan OJK No. 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris, Peraturan OJK No. 15/POJK.04/2020 tentang Rencana dan Penyelenggaraan Rapat Umum Pemegang Saham, serta Anggaran Dasar Perseroan. Artinya, pengunduran diri Arief Alfanto belum otomatis berlaku dan masih harus mendapat persetujuan dari pemegang saham dalam Rapat Umum Pemegang Saham (RUPS) yang akan diselenggarakan Perseroan. Dokumen ini belum menyebutkan tanggal RUPS tersebut maupun nama calon pengganti.",
+   "Dalam surat yang ditandatangani oleh Direktur Arlina Sofia dan Direktur Victor Nesa Benedict, manajemen menegaskan bahwa pengunduran diri ini tidak berdampak merugikan terhadap kegiatan operasional, kondisi hukum, keuangan, maupun kelangsungan usaha Perseroan."
+  ],
+  "fotoAdegan": "Bakery production line with workers in hairnets and uniforms inspecting bread loaves on conveyor belts, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi ROTI karena hanya satu dari beberapa direktur yang mundur dengan alasan pribadi, bukan direktur utama, dan manajemen sendiri menyatakan tidak ada dampak merugikan terhadap operasional maupun keuangan. Perubahan direksi seperti ini tidak langsung menggerakkan pos keuangan seperti ekuitas, arus kas, atau laba per saham, tapi tetap relevan karena susunan direksi menentukan siapa yang mengambil keputusan strategis perusahaan sehari-hari, termasuk soal produksi, distribusi, dan ekspansi Sari Roti. Yang perlu dipantau selanjutnya adalah jadwal RUPS yang akan membahas dan menyetujui pengunduran diri ini, karena dokumen belum menyebut tanggalnya, serta apakah Perseroan akan segera mengumumkan pengganti posisi Direktur yang ditinggalkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bptr-laba-bersih-melonjak-170-persen-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "BPTR: Laba Bersih [Melonjak] 170 Persen di Kuartal III 2026",
+  "deck": "Laba bersih BPTR naik hampir tiga kali lipat jadi Rp35,5 miliar dalam sembilan bulan 2026, ditopang pendapatan yang tumbuh 20 persen dan pelunasan utang jangka pendek.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T13:46:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028140022-64970-0/FinancialStatement-2026-III-BPTR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BPTR",
+  "tags": [
+   "BPTR",
+   "laporan keuangan",
+   "transportasi",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Batavia Prosperindo Trans Tbk (BPTR) melaporkan kinerja keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan tercatat Rp524,9 miliar, tumbuh sekitar 20 persen dari Rp436,9 miliar pada periode yang sama tahun 2025. Setelah dikurangi beban pokok dan beban usaha, laba usaha naik menjadi Rp110,8 miliar dari Rp91,5 miliar, dan pada akhirnya laba bersih melonjak menjadi Rp35,5 miliar dari Rp13,2 miliar, atau naik sekitar 170 persen. Laba per saham dasar pun naik dari Rp3,72 menjadi Rp10,05 per saham.",
+   "Di sisi laporan posisi keuangan, kas dan setara kas perusahaan turun tajam dari Rp43 miliar pada akhir 2025 menjadi hanya Rp4,5 miliar pada akhir September 2026. Penurunan ini seiring dengan melonjaknya pos uang muka pembelian aset tetap, dari Rp300,25 juta menjadi Rp82,8 miliar, yang mengindikasikan perusahaan tengah menyiapkan belanja modal besar, kemungkinan untuk penambahan armada kendaraan transportasi. Di sisi lain, BPTR melunasi seluruh utang bank jangka pendek yang sebelumnya Rp19,99 miliar dan utang usaha pihak ketiga yang sebelumnya Rp32,43 miliar, sehingga total liabilitas jangka pendek turun dari Rp510,4 miliar menjadi Rp357,4 miliar. Total ekuitas perusahaan naik dari Rp604,7 miliar menjadi Rp641,5 miliar, sementara total liabilitas turun dari Rp1,66 triliun menjadi Rp1,54 triliun.",
+   "Perusahaan juga membukukan keuntungan dari penjualan aset tetap sebesar Rp14,97 miliar, naik dari Rp5,05 miliar pada periode yang sama tahun sebelumnya, sejalan dengan nilai buku aset tetap yang turun dari Rp2,07 triliun menjadi Rp1,94 triliun. Beban keuangan dari pinjaman bank naik tipis menjadi Rp89,1 miliar dari Rp85,6 miliar, menandakan pinjaman jangka panjang perusahaan masih bertambah meski utang jangka pendek dilunasi. Laporan ini juga mencantumkan anak usaha PT Batavia Prosperity Ecotrans di Tangerang, bergerak di jasa transportasi dengan kepemilikan BPTR sebesar 99 persen, namun entitas ini tercatat masih belum beroperasi dengan total aset sekitar Rp48,95 juta."
+  ],
+  "fotoAdegan": "Rows of intercity buses parked in a depot yard at dawn, mechanics checking tires and engines, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi BPTR karena laba bersih melonjak 170 persen dan utang bank jangka pendek maupun utang dagang justru lunas total, meski penurunan kas yang tajam perlu dicermati. Yang tersentuh di sini adalah ekuitas, yang naik jadi Rp641,5 miliar karena laba ditahan bertambah, dan laba per saham, yakni bagian keuntungan perusahaan yang jatuh ke setiap lembar saham beredar, yang naik dari Rp3,72 jadi Rp10,05. Kas perusahaan sendiri turun tajam bukan karena rugi, melainkan karena dipakai melunasi utang dan membayar uang muka pembelian aset baru senilai Rp82,8 miliar, sementara beban bunga dari pinjaman bank naik tipis jadi Rp89,1 miliar karena pinjaman jangka panjangnya masih membesar. Yang perlu dipantau berikutnya adalah ke mana uang muka Rp82,8 miliar itu akhirnya terpakai, kemungkinan untuk menambah armada, serta apakah anak usaha PT Batavia Prosperity Ecotrans di Tangerang yang sampai akhir September 2026 masih belum beroperasi mulai menghasilkan pendapatan pada laporan berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hatm-beli-kapal-rp457-miliar-transaksi-material-tanpa-rups",
+  "category": "Aksi Korporasi",
+  "title": "HATM Beli Kapal Rp457 Miliar, [Transaksi Material] Tanpa RUPS",
+  "deck": "Habco Trans Maritima membeli kapal bulk carrier senilai Rp457,1 miliar dari Coastline Shipping Limited, setara 27,92 persen ekuitas, tanpa perlu persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T13:07:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9cf13f826_c09cd34ce3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HATM",
+  "tags": [
+   "HATM",
+   "transaksi material",
+   "kapal bulk carrier",
+   "ekspansi armada"
+  ],
+  "body": [
+   "PT Habco Trans Maritima Tbk (HATM) resmi membeli satu unit kapal bulk carrier bernama Union Lotus dari Coastline Shipping Limited (CSL), perusahaan yang tidak memiliki hubungan afiliasi dengan Habco. Transaksi diteken pada 26 Oktober 2026 dengan nilai US$25.600.000, setara Rp457.113.600.000 menggunakan kurs tengah Bank Indonesia Rp17.856 per dolar AS pada 30 Juni 2026. Kapal ini akan berganti nama menjadi Habco Antlia setelah resmi berpindah tangan.",
+   "Nilai transaksi itu setara 27,92 persen dari ekuitas Perseroan per 30 Juni 2026 yang tercatat Rp1.637.212.247.842, sehingga transaksi ini masuk kategori transaksi material menurut POJK No. 17/POJK.04/2020. Meski material, transaksi tidak memerlukan persetujuan RUPS karena nilainya di bawah ambang batas yang mewajibkan persetujuan pemegang saham. KJPP Iskandar dan Rekan, melalui penilai Radithe Pramudito, menyatakan harga pembelian itu wajar karena berada di bawah nilai pasar kapal tersebut.",
+   "Direksi menyebut alasan pembelian ini adalah keterbatasan jumlah kapal Perseroan dalam memenuhi permintaan layanan pelanggan. Kapal baru itu nantinya akan disewakan jangka panjang (time charter) kepada pihak ketiga asing yang juga tidak berafiliasi dengan Habco. Akibat transaksi ini, aset lancar Perseroan per 30 Juni 2026 turun 24,76 persen sementara aset tidak lancar naik 33,36 persen, menandakan dana tunai dipakai untuk membeli aset jangka panjang berupa kapal.",
+   "Dokumen penilai juga mengungkap kejadian setelah tanggal penilaian: Habco telah menerima tambahan modal Rp320 miliar dari salah satu pemegang sahamnya lewat penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) pada Agustus 2026, yang menurut rencana sebagian dipakai untuk belanja modal penambahan armada kapal atau pembayaran pinjaman bank."
+  ],
+  "fotoAdegan": "A large bulk carrier cargo ship docked at an Indonesian port, cranes and tugboats nearby, workers in hard hats on the pier, hazy afternoon light",
+  "takeaway": "Transaksi ini condong positif bagi fundamental Habco karena pembelian kapal langsung diikat kontrak sewa jangka panjang dengan pihak ketiga, sehingga pendapatan dari aset baru ini sudah punya kepastian sebelum kapalnya benar benar beroperasi. Yang tersentuh adalah arus kas perusahaan, yaitu uang tunai yang bisa dipakai sehari hari, karena aset lancar turun seperempat akibat dana dipakai membeli kapal, sementara aset tidak lancar yang mencerminkan kekayaan jangka panjang seperti kapal justru naik sepertiga. Sorotan lain ada pada beban bunga jika pembelian ini sebagian dibiayai pinjaman bank, karena bunga yang lebih besar bisa menggerus laba, padahal laba bersih Habco baru saja turun 9,8 persen di kuartal III 2026 akibat biaya operasional yang naik lebih cepat dari pendapatan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV 2026, untuk melihat apakah kapal tambahan ini benar menaikkan pendapatan seperti diproyeksikan manajemen dan penilai independen, serta ke mana sebenarnya dana Rp320 miliar hasil PMTHMETD Agustus 2026 itu dipakai, untuk kapal ini atau untuk melunasi utang.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "asha-gelar-rupslb-ratifikasi-keterlambatan-pengangkatan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "ASHA Gelar RUPSLB, Ratifikasi [Keterlambatan] Pengangkatan Direksi",
+  "deck": "RUPSLB ASHA pada 19 November 2026 akan membahas dispensasi keterlambatan pengangkatan direksi dan komisaris, pergantian susunan pengurus, serta penyesuaian klasifikasi usaha perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T13:03:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5dfe6863b_9b3b769ff9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASHA",
+  "tags": [
+   "ASHA",
+   "RUPSLB",
+   "Direksi",
+   "Tata Kelola"
+  ],
+  "body": [
+   "PT Cilacap Samudera Fishing Industry Tbk (ASHA) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 19 November 2026 pukul 10.00 WIB di Gedung PT Sutioso Bersaudara Lantai 3, Jalan Tuna II Blok D2, Penjaringan, Jakarta Utara. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan Bursa Efek Indonesia pada Rabu, 27 Oktober 2026 berhak hadir, baik secara fisik maupun elektronik melalui aplikasi eASY.KSEI milik KSEI.",
+   "Agenda pertama rapat adalah persetujuan pemberian dispensasi atas keterlambatan pengangkatan kembali anggota Direksi dan Dewan Komisaris Perseroan, sekaligus pengesahan atas tindakan yang telah diambil Direksi dan Dewan Komisaris selama masa tersebut. Artinya, masa jabatan jajaran pengurus ASHA sempat melewati tenggat sebelum RUPS diadakan, dan perseroan meminta pemegang saham mengesahkan keabsahan keputusan yang diambil selama periode itu. Agenda kedua adalah persetujuan pengangkatan kembali atau perubahan susunan Direksi dan Dewan Komisaris, namun dokumen pemanggilan ini belum menyebut nama-nama yang diusulkan.",
+   "Agenda ketiga adalah penyesuaian Pasal 3 Anggaran Dasar Perseroan tentang maksud, tujuan, dan kegiatan usaha, untuk menyelaraskan dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) yang baru. Bahan rapat tersedia di kantor perseroan sejak Rabu, 28 Oktober 2026, dan batas waktu pemegang saham menyampaikan deklarasi kehadiran atau kuasa lewat aplikasi eASY.KSEI adalah pukul 12.00 WIB satu hari kerja sebelum rapat."
+  ],
+  "fotoAdegan": "Fishing boats docked along a busy harbor pier, workers unloading crates of fresh catch under early morning light",
+  "takeaway": "Laporan ini netral bagi fundamental ASHA karena isinya soal proses tata kelola perusahaan, bukan soal keuangan atau operasional yang langsung memengaruhi kinerja. Yang tersentuh adalah kepatuhan jadwal pengangkatan direksi dan komisaris, bukan pos-pos seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, sehingga belum ada dampak finansial yang bisa diukur dari dokumen ini. Permintaan dispensasi menunjukkan masa jabatan direksi dan komisaris ASHA sempat lewat tenggat sebelum RUPS ini diadakan, sehingga pemegang saham diminta mengesahkan keabsahan keputusan yang mereka ambil selama periode tersebut. Yang perlu dipantau adalah hasil RUPSLB pada 19 November 2026, khususnya apakah dispensasi itu disetujui dan siapa saja yang akhirnya ditetapkan duduk di jajaran direksi dan komisaris baru.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bkpm-cabut-izin-tambang-emas-di-nabire-papua",
   "category": "Industri",
   "title": "BKPM [Cabut] Izin Tambang Emas di Nabire, Papua",
@@ -57,6 +162,164 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah dari rakor ini bukan aturan baru, melainkan lima komitmen kerja sama pemerintah pusat dan daerah di Sulampua, termasuk rencana proyek percontohan BUMN logistik untuk mengangkut komoditas pemicu inflasi dan menghubungkan petani-nelayan langsung ke pembeli seperti Perumda dan BUMD. Yang terdampak jelas adalah konsumen di sebelas provinsi yang inflasinya sudah di atas batas aman nasional, terutama Sulawesi Utara yang inflasinya lebih dari dua kali ambang batas, serta petani dan nelayan setempat yang diharapkan mendapat akses pembiayaan dan pasar lebih mudah. Arahnya terlihat ke pendekatan jangka menengah, memperbaiki jalur distribusi antarpulau ketimbang menahan harga sesaat, tapi siaran pers ini belum menyebut komoditas spesifik, anggaran, atau tenggat proyek logistik BUMN tersebut, sehingga belum jelas seberapa cepat itu bisa menekan harga. Ukuran paling dekat untuk menilai arah ini adalah data inflasi pangan bergejolak pada akhir tahun, karena pemerintah menargetkan inflasi pangan ini turun ke kisaran 3 sampai 5 persen, sementara permintaan Natal dan Tahun Baru biasanya justru mendorong harga naik.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "zyrx-rugi-rp21-8-miliar-di-kuartal-iii-2026-penjualan-turun-20",
+  "category": "Aksi Korporasi",
+  "title": "ZYRX [Rugi] Rp21,8 Miliar di Kuartal III 2026, Penjualan Turun 20%",
+  "deck": "Produsen komputer ZYRX membalik laba jadi rugi bersih Rp21,8 miliar pada sembilan bulan 2026, seiring penjualan turun dan beban bunga melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T12:07:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028122343-64474-0/FinancialStatement-2026-III-ZYRX.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZYRX",
+  "tags": [
+   "ZYRX",
+   "Zyrexindo",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Zyrexindo Mandiri Buana Tbk (ZYRX) mencatat rugi bersih Rp21,83 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari laba Rp692,13 juta pada periode yang sama tahun lalu, berdasarkan laporan keuangan interim tidak diaudit yang disampaikan ke Bursa Efek Indonesia pada 28 Oktober 2026. Penjualan neto turun menjadi Rp186,07 miliar dari Rp232,87 miliar, dan perusahaan mencatat rugi usaha Rp9,66 miliar dibanding laba usaha Rp5,07 miliar setahun sebelumnya. Rugi per saham dasar tercatat Rp16,38, berbalik dari laba per saham Rp0,52. Beban bunga pinjaman melonjak jadi Rp13,70 miliar dari Rp3,01 miliar, seiring utang bank jangka pendek yang naik dari Rp266,05 miliar menjadi Rp391,62 miliar serta tambahan pembiayaan musyarakah jangka panjang baru senilai Rp54,40 miliar yang diterima selama periode ini.",
+   "Total aset perusahaan turun 29,23 persen menjadi Rp829,28 miliar dari Rp1,17 triliun pada akhir 2025, sementara total liabilitas turun 37,60 persen menjadi Rp518,14 miliar dari Rp830,40 miliar. Dalam surat tertanggal 27 Oktober 2026 kepada Direktur Penilaian Perusahaan BEI, yang disampaikan karena perubahan akun aset dan liabilitas melebihi 20 persen, manajemen menjelaskan penurunan itu terutama berasal dari pelunasan piutang usaha pihak ketiga senilai Rp620,92 miliar (91,77 persen), setelah tagihan penjualan perangkat komputasi portabel kepada Direktorat Pendidikan dibayar lunas, serta pelunasan utang usaha pihak ketiga senilai Rp474,16 miliar (89,43 persen) setelah perusahaan membayar pemasok bahan baku untuk proyek pengadaan yang sama. Kas dan setara kas melonjak dari Rp4,54 miliar menjadi Rp132,87 miliar, didukung arus kas dari aktivitas operasi yang berbalik positif Rp49,25 miliar dari sebelumnya negatif Rp32,31 miliar.",
+   "Ekuitas perusahaan turun menjadi Rp311,14 miliar pada akhir September 2026 dari Rp341,47 miliar pada akhir 2025, terutama karena rugi periode berjalan yang menggerus saldo laba. Dalam surat yang sama, manajemen menyatakan bahwa perubahan besar pada akun aset dan liabilitas ini tidak berdampak negatif terhadap kinerja perseroan, meski laporan laba rugi pada periode yang sama menunjukkan perusahaan berbalik dari untung menjadi rugi."
+  ],
+  "fotoAdegan": "Workers assembling laptop computer shells and circuit boards on a bright electronics factory assembly line in Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi ZYRX, karena pelunasan piutang dan utang dari proyek pengadaan Direktorat Pendidikan hanya merapikan kas, sementara bisnis intinya melemah: penjualan turun seperlima dan perusahaan berbalik dari untung ke rugi. Pos yang paling tersentuh adalah ekuitas, yaitu modal milik pemegang saham setelah dikurangi semua utang, yang menyusut dari Rp341,47 miliar ke Rp311,14 miliar karena rugi berjalan langsung memotong saldo laba yang menopangnya. Beban bunga juga melonjak lebih dari empat kali lipat karena perusahaan menambah utang bank dan pembiayaan musyarakah baru, bukan untuk ekspansi melainkan membiayai operasional yang melemah. Yang perlu dipantau adalah apakah laporan kuartal IV 2026 menunjukkan penjualan bisa tumbuh lagi tanpa bergantung pada proyek pengadaan pemerintah seperti yang menopang periode-periode sebelumnya, dan apakah beban bunga yang tinggi ini mereda setelah utang jangka pendek turun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "jpfa-bagi-dividen-interim-rp90-per-saham-capai-rp1-05-triliun",
+  "category": "Aksi Korporasi",
+  "title": "JPFA Bagi [Dividen] Interim Rp90 per Saham, Capai Rp1,05 Triliun",
+  "deck": "JAPFA Comfeed membagikan dividen interim tunai Rp90 per saham, total Rp1,05 triliun, dengan pembayaran dijadwalkan 12 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T12:04:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4658e9dfdf_264ceb7088.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JPFA",
+  "tags": [
+   "JPFA",
+   "dividen interim",
+   "JAPFA Comfeed",
+   "pasar modal"
+  ],
+  "body": [
+   "JAPFA Comfeed Indonesia Tbk (JPFA) mengumumkan rencana pembagian dividen interim tunai untuk tahun buku 2026 senilai total Rp1,05 triliun, atau Rp90 per saham. Keputusan ini diambil Direksi dan telah disetujui Dewan Komisaris pada 27 Oktober 2026. Dividen berasal dari laba bersih yang diatribusikan kepada entitas induk sebesar Rp2,48 triliun untuk periode enam bulan yang berakhir 30 Juni 2026, sehingga nilai dividen yang dibagikan setara sekitar 42,5 persen dari laba bersih semester pertama tersebut.",
+   "Jadwal pembagian sudah ditetapkan. Cum dividen di pasar reguler dan negosiasi jatuh pada 5 November 2026, dengan ex dividen sehari setelahnya pada 6 November 2026. Di pasar tunai, cum dividen jatuh pada 9 November 2026 dan ex dividen pada 10 November 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham hingga 9 November 2026 pukul 16.00 WIB itulah yang berhak menerima dividen, dan pembayaran akan dilakukan paling lambat pada 12 November 2026.",
+   "Berdasarkan data keuangan per 30 Juni 2026, Perseroan mencatat saldo laba ditahan yang tidak dibatasi penggunaannya sebesar Rp16,33 triliun dan total ekuitas Rp21,33 triliun, jauh lebih besar dibandingkan nilai dividen yang akan dibagikan.",
+   "Dividen akan dipotong pajak sesuai aturan perpajakan yang berlaku sebelum dibayarkan. Pemegang saham di penitipan kolektif KSEI akan menerima dana melalui pemegang rekening masing-masing, sementara pemegang saham dalam bentuk warkat harus mengurus pembayaran melalui Biro Administrasi Efek PT Adimitra Jasa Korpora. Perseroan juga meminta pemegang saham yang belum menyerahkan Nomor Pokok Wajib Pajak, atau pemegang saham asing yang ingin memanfaatkan tarif pajak sesuai perjanjian penghindaran pajak berganda, untuk menyerahkan dokumen terkait paling lambat 9 November 2026 pukul 16.00 WIB. Jika dokumen itu tidak diterima sampai tenggat tersebut, dividen interim akan dikenakan pemotongan pajak sebesar 20 persen."
+  ],
+  "fotoAdegan": "Workers moving pallets of poultry feed bags inside a large feed mill warehouse, forklift nearby, industrial lighting",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi JPFA, karena perusahaan membagikan sekitar 42,5 persen dari laba bersih semester pertama tanpa menggerus saldo laba ditahan secara signifikan, yang masih tersisa Rp16,33 triliun setelah dividen senilai Rp1,05 triliun ini dibayarkan. Dividen tunai ini akan mengurangi ekuitas dan kas perusahaan begitu dibayarkan, sebab uang yang tadinya tercatat sebagai modal pemegang saham berpindah menjadi uang tunai di kantong investor, dan pelaku pasar memperhatikan rasio pembagian seperti ini sebagai sinyal seberapa besar kas lebih yang dimiliki perusahaan di luar kebutuhan operasional dan ekspansinya. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 9 November 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran pada 12 November 2026 sebagai konfirmasi bahwa rencana ini benar-benar terealisasi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "midi-laba-alfamidi-tumbuh-19-ke-rp705-6-miliar-di-9-bulan",
+  "category": "Aksi Korporasi",
+  "title": "MIDI: [Laba] Alfamidi Tumbuh 19% ke Rp705,6 Miliar di 9 Bulan",
+  "deck": "Laba bersih Alfamidi naik 19,4 persen jadi Rp705,6 miliar pada sembilan bulan 2026, ditopang kenaikan pendapatan 9,2 persen meski kas menyusut akibat ekspansi gerai dan dividen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T11:56:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028120909-64725-0/FinancialStatement-2026-III-MIDI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MIDI",
+  "tags": [
+   "MIDI",
+   "Alfamidi",
+   "laporan keuangan",
+   "ritel"
+  ],
+  "body": [
+   "Midi Utama Indonesia Tbk (MIDI), pemilik jaringan minimarket Alfamidi, menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia. Surat bernomor 400/MUI-CORP.SECR/10/2026 itu diteken Corporate Secretary Suantopo Po dan dikirim 28 Oktober 2026, dengan surat pernyataan tanggung jawab direksi atas laporan tersebut bertanggal 27 Oktober 2026.",
+   "Pendapatan neto perusahaan tercatat Rp16,68 triliun selama sembilan bulan, naik 9,2 persen dari Rp15,27 triliun pada periode yang sama tahun lalu. Laba bruto naik dari Rp3,95 triliun menjadi Rp4,37 triliun, dan laba usaha melompat dari Rp766,99 miliar menjadi Rp907 miliar. Setelah pajak, laba periode berjalan mencapai Rp705,57 miliar, naik 19,4 persen dari Rp590,72 miliar, sehingga laba per saham dasar naik dari Rp17,67 menjadi Rp21,10.",
+   "Dari sisi posisi keuangan, total aset naik dari Rp9,13 triliun menjadi Rp9,50 triliun dan total ekuitas naik dari Rp4,54 triliun menjadi Rp4,85 triliun, sementara total liabilitas relatif stabil di Rp4,65 triliun. Kas dan bank justru menyusut dari Rp576,2 miliar menjadi Rp320,57 miliar, karena perusahaan mengeluarkan Rp477,95 miliar untuk pembelian aset tetap dan Rp298,72 miliar untuk penambahan aset hak guna atas sewa gerai baru, ditambah pembayaran dividen tunai Rp396,21 miliar yang naik dari Rp245,75 miliar pada tahun sebelumnya.",
+   "Jumlah saham beredar tidak berubah, yakni 33.435.294.800 saham dengan nilai nominal Rp10 per saham. Laporan juga mencatat perubahan Anggaran Dasar perusahaan mengenai maksud, tujuan, dan kegiatan usaha yang disahkan Kementerian Hukum pada 24 Juli 2026."
+  ],
+  "fotoAdegan": "Rows of small neighborhood convenience stores along an urban Indonesian street, a delivery motorbike parked outside in daylight",
+  "takeaway": "Laporan kuartal III 2026 ini condong positif bagi Alfamidi, karena laba bersihnya tumbuh 19,4 persen, lebih cepat dari kenaikan pendapatan 9,2 persen, pertanda efisiensi operasional ikut membaik, bukan sekadar penjualan yang naik. Pos yang paling kentara adalah ekuitas, modal sendiri perusahaan, yang naik dari Rp4,54 triliun menjadi Rp4,85 triliun meski perusahaan sudah membagi dividen tunai Rp396,21 miliar, artinya laba yang dihasilkan cukup besar untuk menutup pembagian dividen itu. Kas di tangan justru menyusut karena dipakai membiayai pembelian aset tetap dan sewa gerai baru, sinyal bahwa ekspansi jaringan toko terus berjalan, sementara laba per saham naik ke Rp21,10 tanpa pengenceran karena jumlah saham beredar tetap. Yang perlu dipantau berikutnya adalah laporan keuangan audit untuk tahun penuh 2026, karena laporan ini baru mencakup sembilan bulan dan belum diaudit, sehingga kepastian apakah tren pertumbuhan laba dan ekspansi gerai ini bertahan baru akan terkonfirmasi setelah laporan tahunan terbit.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "padi-berbalik-rugi-kuartal-iii-ekuitas-terdongkrak-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "PADI Berbalik Rugi Kuartal III, [Ekuitas] Terdongkrak Rights Issue",
+  "deck": "PADI mencatat rugi neto Rp1,1 miliar pada sembilan bulan 2026, berbalik dari laba Rp24,7 miliar setahun lalu, setelah menggelar rights issue Rp113 miliar dan melunasi utang bank serta subordinasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T11:52:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028115502-65147-0/FinancialStatement-2026-III-PADI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PADI",
+  "tags": [
+   "PADI",
+   "rugi kuartalan",
+   "rights issue",
+   "sekuritas"
+  ],
+  "body": [
+   "PT Minna Padi Investama Sekuritas Tbk (PADI) melaporkan rugi neto Rp1,1 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari laba neto Rp24,7 miliar pada periode yang sama tahun sebelumnya. Rugi per saham tercatat Rp0,10, dibandingkan laba per saham Rp2,19 pada September 2025. Penyebab utamanya adalah pendapatan dari kegiatan perantara perdagangan efek, yaitu komisi dari jual beli saham untuk nasabah, yang anjlok dari Rp37,03 miliar menjadi Rp14,43 miliar, serta rugi dari perubahan nilai wajar portofolio efek yang dipegang perusahaan, berbeda dari keuntungan yang dibukukan setahun sebelumnya. Total pendapatan usaha turun dari Rp38,47 miliar menjadi Rp15,21 miliar, sementara beban usaha justru naik dari Rp13,24 miliar menjadi Rp16,63 miliar, membuat perusahaan mencatat rugi usaha Rp1,42 miliar.",
+   "Di sisi permodalan, Minna Padi menggelar penawaran umum terbatas dengan hak memesan efek terlebih dahulu (rights issue) pertama yang menambah modal saham dan tambahan modal disetor dengan total nilai Rp113,07 miliar. Modal saham perusahaan naik dari Rp282,68 miliar menjadi Rp339,22 miliar, sedangkan tambahan modal disetor melonjak dari Rp245,76 juta menjadi Rp56,78 miliar. Jumlah saham beredar per 30 September 2026 tercatat 13.568.695.829 lembar dengan nilai nominal Rp25 per saham. Dengan suntikan modal baru ini, total ekuitas perusahaan naik dari Rp157,77 miliar menjadi Rp267,63 miliar, sementara total liabilitas justru turun tajam dari Rp98,76 miliar menjadi Rp31,20 miliar.",
+   "Penurunan liabilitas sebesar Rp67,56 miliar atau 68,4 persen itu membuat Perseroan wajib menjelaskan penyebabnya kepada Bursa Efek Indonesia, sesuai Peraturan Bursa Nomor I-E yang mewajibkan penjelasan tertulis bila pos Total Aktiva dan/atau Total Kewajiban berubah lebih dari 20 persen dibandingkan laporan tahunan auditan terakhir. Dalam surat bernomor 212/MPIS/DIR/X/2026 tertanggal 28 Oktober 2026, Direktur Utama Minna Padi menjelaskan tiga penyebabnya: utang kepada lembaga kliring dan penjaminan turun Rp5,41 miliar karena transaksi pembelian di bursa yang lebih rendah, utang bank Rp6,77 miliar dan utang subordinasi Rp2 miliar sudah lunas sepenuhnya, serta utang kepada nasabah turun Rp51,73 miliar karena transaksi penjualan efek nasabah pada akhir periode yang lebih rendah dibandingkan periode sebelumnya. Manajemen menyatakan perubahan ini tidak berdampak pada kinerja keuangan perusahaan."
+  ],
+  "fotoAdegan": "Office workers at multiple computer monitors inside a securities brokerage trading floor, screens blurred, soft afternoon light filtering through windows",
+  "takeaway": "Laporan ini condong negatif bagi Minna Padi, karena inti bisnisnya, yaitu komisi dari jual beli saham untuk nasabah, justru menyusut tajam dan membuat perusahaan rugi, padahal setahun lalu masih untung besar. Yang perlu diperhatikan adalah laba per saham, yaitu rugi perusahaan dibagi jumlah saham beredar, yang berubah dari untung Rp2,19 menjadi rugi Rp0,10 karena dua hal sekaligus, labanya berbalik jadi rugi dan jumlah sahamnya bertambah lewat rights issue sehingga rugi itu terbagi ke lebih banyak lembar saham. Di sisi lain, pelunasan utang bank dan utang subordinasi memang membuat struktur permodalan perusahaan lebih ringan bebannya, tapi suntikan modal itu berasal dari uang pemegang saham baru, bukan dari hasil usaha. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang akan menunjukkan apakah rugi di kuartal ketiga ini berlanjut atau membalik setelah dana segar dari rights issue mulai digunakan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "eraa-rampungkan-mesop-tahap-2-25-79-juta-opsi-dieksekusi",
+  "category": "Aksi Korporasi",
+  "title": "ERAA Rampungkan [MESOP] Tahap 2, 25,79 Juta Opsi Dieksekusi",
+  "deck": "Erajaya Swasembada menyelesaikan pelaksanaan opsi saham karyawan tahap kedua, menutup seluruh 51,54 juta opsi program MESOP tanpa sisa yang belum dieksekusi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T11:45:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3be6a30b5c_a3d3895552.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "MESOP",
+   "Erajaya Swasembada",
+   "opsi saham karyawan"
+  ],
+  "body": [
+   "PT Erajaya Swasembada Tbk (ERAA) menyampaikan koreksi atas keterbukaan informasi nomor 136/ERAA/CS/X/2026 tanggal 16 Oktober 2026 tentang hasil pelaksanaan program opsi saham karyawan atau MESOP Tahap 2. Perusahaan menegaskan koreksi ini hanya memperbaiki kesalahan ketik pada versi bahasa Inggris, sementara seluruh data dan angka pelaksanaan MESOP tidak berubah. Pelaksanaan MESOP Tahap 2 berlangsung sejak 1 Oktober 2026 hingga 14 Oktober 2026, menyusul Tahap 1 yang sudah berjalan sejak 1 Oktober 2025 hingga 7 November 2025.",
+   "Total opsi yang disediakan dalam program ini sebanyak 51.540.500 unit. Dari jumlah itu, 25.751.978 opsi telah dieksekusi pada Tahap 1, dan sisanya sebanyak 25.788.522 opsi baru saja dieksekusi pada Tahap 2. Erajaya menyatakan tidak ada opsi yang tersisa belum dilaksanakan maupun yang kedaluwarsa, sehingga seluruh alokasi opsi dalam program MESOP ini kini telah terserap habis oleh karyawan peserta program.",
+   "Program ini merujuk pada keputusan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Erajaya pada 10 Juni 2025 yang menyetujui perpanjangan pelaksanaan MESOP. Surat keterbukaan informasi ini ditandatangani oleh Amelia Allen selaku Kepala Bidang Hukum dan Sekretaris Perusahaan ERAA."
+  ],
+  "fotoAdegan": "Staff arranging smartphone and gadget boxes on shelves inside a busy electronics retail store, bright fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi fundamental Erajaya, karena hanya menandai rampungnya program opsi karyawan yang sudah disetujui pemegang saham sejak pertengahan 2025, bukan keputusan korporasi baru yang mengubah arah bisnis. Pos yang tersentuh adalah jumlah saham beredar, sebab eksekusi 25,79 juta opsi di Tahap 2 ini berarti perusahaan menerbitkan saham baru sebanyak itu untuk diserap karyawan, dan tambahan saham semacam ini bisa sedikit menipiskan laba per saham milik pemegang saham lama karena keuntungan perusahaan kini dibagi ke jumlah saham yang lebih banyak. Pelaku pasar memperhatikan laba per saham karena itu salah satu ukuran utama untuk menilai mahal atau murahnya harga saham dibanding keuntungan yang dihasilkan perusahaan. Yang perlu dipantau berikutnya adalah bagaimana tambahan 51,54 juta saham dari seluruh program MESOP ini tercatat dalam laporan jumlah saham beredar pada laporan keuangan kuartal mendatang, serta apakah Erajaya akan membuka skema insentif saham karyawan baru setelah program ini dinyatakan tuntas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "spre-laba-bersih-turun-62-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "SPRE: Laba Bersih [Turun] 62% di Kuartal III 2026",
+  "deck": "Laba bersih Soraya Berjaya Indonesia (SPRE) turun 62 persen menjadi Rp663,57 juta pada sembilan bulan 2026, sementara total liabilitas malah turun 29 persen setelah pelunasan utang usaha dan bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Oktober 2026",
+  "isoDate": "2026-10-28T11:43:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028115937-64907-0/FinancialStatement-2026-III-SPRE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SPRE",
+  "tags": [
+   "SPRE",
+   "laporan keuangan",
+   "tekstil",
+   "kinerja emiten"
+  ],
+  "body": [
+   "PT Soraya Berjaya Indonesia Tbk (SPRE), produsen perlengkapan tekstil rumah tangga dengan merek Soraya Bed Sheet, menyampaikan laporan keuangan interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan neto tercatat Rp30,82 miliar, turun 16,8 persen dibandingkan Rp37,04 miliar pada periode yang sama tahun 2025. Laba kotor turun dari Rp12,04 miliar menjadi Rp11,25 miliar, laba usaha merosot dari Rp2,41 miliar menjadi Rp1,27 miliar, dan laba bersih tahun berjalan turun paling dalam, dari Rp1,77 miliar menjadi Rp663,57 juta, atau anjlok 62,4 persen. Laba per saham dasar ikut turun dari Rp2,21 menjadi Rp0,83.",
+   "Di sisi lain, total aset perusahaan turun tipis 2,2 persen menjadi Rp54,89 miliar per akhir September 2026 dari Rp56,12 miliar pada akhir 2025, sementara total ekuitas naik sedikit menjadi Rp50,34 miliar dari Rp49,74 miliar. Yang mencolok adalah total liabilitas yang turun 29 persen, dari Rp6,38 miliar menjadi Rp4,55 miliar. Dalam surat terpisah bernomor 0038/CORSEC/SB/X/2026 tertanggal 27 Oktober 2026 yang ditandatangani Direktur Utama Rizet Ramawi, manajemen menjelaskan kepada Bursa Efek Indonesia bahwa penurunan ini wajib diungkapkan karena melampaui ambang 20 persen sesuai Peraturan I-E. Penyebabnya adalah pembayaran utang usaha, utang lain-lain kepada pihak berelasi, dan utang bank senilai total Rp2,01 miliar dibandingkan posisi akhir 2025.",
+   "Dari laporan arus kas, kas dan bank perusahaan turun menjadi Rp2,01 miliar dari Rp2,43 miliar di awal tahun. Aktivitas operasi masih menghasilkan kas bersih positif Rp1,59 miliar, meski lebih kecil dari Rp1,80 miliar pada periode yang sama tahun lalu. Aktivitas pendanaan menyedot kas bersih Rp1,27 miliar, terutama untuk mencicil utang bank Rp300 juta dan melunasi utang kepada pihak berelasi senilai Rp1,22 miliar, lebih besar dari penggunaan kas pendanaan Rp585,22 juta pada periode sebanding 2025. Perseroan juga mencatat jumlah karyawan tetap berkurang dari 27 orang per akhir 2025 menjadi 23 orang per 30 September 2026."
+  ],
+  "fotoAdegan": "Rows of folded bedsheets and textile bundles on shelves inside a small garment warehouse, workers checking stock, daylight",
+  "takeaway": "Secara keseluruhan laporan ini condong negatif, karena penjualan dan laba bersih Soraya Berjaya turun tajam sementara perbaikan di sisi utang belum cukup mengimbangi pelemahan bisnis inti. Laba per saham, yaitu ukuran bagian laba yang jadi hak setiap lembar saham, ikut terpukul dari Rp2,21 pada sembilan bulan 2025 menjadi Rp0,83 tahun ini, karena jumlah saham beredar tetap 800 juta lembar sementara laba yang dibagi menyusut lebih dari separuh. Beban umum dan administrasi malah naik dari Rp9,63 miliar menjadi Rp9,98 miliar di tengah penjualan yang menurun, tanda perusahaan belum berhasil menekan biaya operasional sejalan dengan turunnya pendapatan. Yang perlu dipantau berikutnya adalah laporan tahunan auditan untuk tahun buku 2026, karena laporan kali ini masih berstatus interim dan belum diaudit sehingga angka finalnya bisa bergeser setelah proses audit selesai.",
+  "sentimen": "negatif"
  },
  {
   "slug": "koci-laba-9m-turun-41-uang-muka-penjualan-naik-162",

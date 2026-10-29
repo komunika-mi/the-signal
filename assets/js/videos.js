@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "4Y9IIX7vKpw",
+  "title": "Rapat Pimpinan Nasional Kadin 2026",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Rapimnas Kadin 2026 menjadi forum konsolidasi tahunan antara pemerintah dan dunia usaha untuk merumuskan arah kebijakan ekonomi dan program kerja ke depan.",
+  "takeaway": "Forum ini relevan bagi pembaca ekonomi karena memperlihatkan arah kebijakan dan prioritas yang disepakati pemerintah bersama pelaku usaha, yang berpotensi memengaruhi iklim bisnis nasional.",
+  "terbit": "2026-10-23T07:25:04+00:00"
+ },
+ {
   "id": "LYfSvqm5b6I",
   "title": "Moody's Peringatkan Utang Prancis Bengkak Nyaris Rp72.000 Triliun",
   "category": "Global",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "4Y9IIX7vKpw",
+  "title": "Rapat Pimpinan Nasional Kadin 2026",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Rapimnas Kadin 2026 menjadi forum konsolidasi tahunan antara pemerintah dan dunia usaha untuk merumuskan arah kebijakan ekonomi dan program kerja ke depan.",
+  "takeaway": "Forum ini relevan bagi pembaca ekonomi karena memperlihatkan arah kebijakan dan prioritas yang disepakati pemerintah bersama pelaku usaha, yang berpotensi memengaruhi iklim bisnis nasional."
+ },
+ {
   "id": "LYfSvqm5b6I",
   "title": "Moody's Peringatkan Utang Prancis Bengkak Nyaris Rp72.000 Triliun",
   "category": "Global",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Pemerintah berencana mengubah mekanisme penyaluran bantuan sosial dari bentuk sembako menjadi transfer tunai langsung kepada masyarakat yang berhak menerima.",
   "takeaway": "Perubahan skema bansos ini menyangkut pola belanja negara dan berpotensi mengubah daya beli kelompok penerima manfaat."
- },
- {
-  "id": "0UG96BXBbgg",
-  "title": "Insinyur dari 11 Negara ASEAN Dorong Industrialisasi",
-  "category": "Industri",
-  "program": "Kabar Hari Ini",
-  "summary": "Insinyur dari 11 negara ASEAN berkumpul di Bandung dalam konferensi Cafeo 44 yang digagas Persatuan Insinyur Indonesia untuk mendorong percepatan industrialisasi di kawasan.",
-  "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena menyoroti arah kebijakan industrialisasi dan kerja sama teknis lintas negara ASEAN."
  }
 ];

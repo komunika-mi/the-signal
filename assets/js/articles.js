@@ -3,6 +3,241 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "vern-laba-bersih-longsor-88-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "VERN: Laba Bersih [Longsor] 88% di Kuartal III 2026",
+  "deck": "Penjualan VERN turun 69 persen dan laba bersih kuartal III 2026 anjlok 88 persen menjadi Rp1,05 miliar dibanding periode sama tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T18:15:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029183142-65207-0/FinancialStatement-2026-III-VERN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VERN",
+  "tags": [
+   "VERN",
+   "laporan keuangan",
+   "laba bersih",
+   "industri film"
+  ],
+  "body": [
+   "PT Verona Indah Pictures Tbk (VERN) melaporkan penjualan sembilan bulan pertama 2026 hanya Rp19,21 miliar, merosot 69 persen dari Rp62,23 miliar pada periode yang sama tahun lalu. Beban pokok penjualan ikut turun tajam dari Rp47,67 miliar menjadi Rp6,13 miliar sehingga laba bruto relatif masih bertahan di Rp13,08 miliar dibanding Rp14,56 miliar sebelumnya. Yang membuat laba akhir ambrol lebih dalam adalah pos pendapatan lain-lain yang berbalik dari untung Rp4,74 miliar menjadi rugi Rp60,59 juta, ditambah beban bunga dan keuangan yang naik dari Rp192,8 juta menjadi Rp689,3 juta serta beban umum dan administrasi yang membesar dari Rp7,71 miliar menjadi Rp10,43 miliar. Hasilnya, laba bersih sembilan bulan tergerus dari Rp8,49 miliar menjadi hanya Rp1,05 miliar, dengan laba per saham turun dari Rp1,78 menjadi Rp0,22.",
+   "Dari sisi posisi keuangan, total aset per 30 September 2026 tercatat Rp555,97 miliar, naik 0,75 persen dari Rp551,85 miliar pada akhir 2025, didorong oleh kenaikan nilai aset film lancar dari Rp146,59 miliar menjadi Rp161,93 miliar. Sementara itu kas dan setara kas justru menyusut dari Rp63,27 miliar menjadi Rp58,96 miliar. Total liabilitas naik 13,09 persen menjadi Rp26,58 miliar dari Rp23,50 miliar, terutama karena utang bank jangka pendek bertambah dari Rp8,47 miliar menjadi Rp11,99 miliar setelah perusahaan menarik pinjaman baru Rp6,18 miliar, serta munculnya utang lain-lain senilai Rp1,46 miliar yang sebelumnya nihil. Ekuitas perusahaan relatif stabil, naik tipis dari Rp528,35 miliar menjadi Rp529,39 miliar, dengan jumlah saham beredar tetap di 4.765.648.183 lembar.",
+   "Dalam surat terpisah ke Bursa Efek Indonesia, perusahaan menjelaskan bahwa kenaikan akun aset dan liabilitas tersebut, yakni 0,75 persen untuk aset dan 13,09 persen untuk liabilitas, belum mencapai ambang 20 persen yang mewajibkan penjelasan lebih rinci menurut Peraturan Bursa Nomor I-E. Susunan direksi dan komisaris per akhir September 2026 terdiri dari Pie Titin Suryani sebagai Direktur Utama yang juga tercatat sebagai pengendali akhir perusahaan, Evy Supriati dan Dwi Soenarso Lobo sebagai Direktur, Bedy Kunady sebagai Komisaris, serta Abraham Bastari sebagai Komisaris Independen. Seluruh surat penyampaian kepada OJK dan BEI ditandatangani oleh Budiman Darwin Edison Siagian selaku Corporate Secretary pada 29 Oktober 2026."
+  ],
+  "fotoAdegan": "Film crew adjusting lighting rigs and camera dolly tracks inside a dim soundstage, cables taped along the floor, Jakarta studio atmosphere",
+  "takeaway": "Laporan ini condong negatif bagi VERN karena penjualan sembilan bulan ambrol 69 persen dan laba bersih ikut longsor 88 persen menjadi Rp1,05 miliar, dan penurunan itu makin dalam akibat pos pendapatan lain-lain yang berbalik jadi rugi serta beban bunga yang melonjak tiga kali lipat. Pos yang paling tersentuh adalah laba per saham, yaitu bagian keuntungan perusahaan yang dihitung per lembar saham beredar, yang turun dari Rp1,78 menjadi Rp0,22 murni karena laba menyusut, bukan karena jumlah saham bertambah. Arus kas dari kegiatan operasi memang masih negatif Rp8,43 miliar, tapi defisit itu justru mengecil dibanding periode yang sama tahun lalu yang minus Rp40,14 miliar, sehingga kebutuhan dana ditambal lewat pinjaman bank baru Rp6,18 miliar. Yang perlu dipantau pemegang saham berikutnya adalah apakah tren penurunan pendapatan ini berlanjut di laporan kuartal IV dan laporan tahunan auditan untuk tahun buku 2026, mengingat bisnis produksi dan distribusi film memang bisa berfluktuasi tajam antar periode sesuai jadwal rilis.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sdmu-cetak-laba-ekuitas-naik-4x-usai-konversi-utang-jadi-modal",
+  "category": "Aksi Korporasi",
+  "title": "SDMU Cetak Laba, Ekuitas Naik 4x Usai [Konversi] Utang Jadi Modal",
+  "deck": "Sidomulyo Selaras balik untung pada kuartal III 2026 setelah mengonversi utang pemegang saham senilai puluhan miliar rupiah menjadi modal perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T18:08:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029182313-64481-0/FinancialStatement-2026-III-SDMU.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SDMU",
+  "tags": [
+   "SDMU",
+   "Sidomulyo Selaras",
+   "laporan keuangan",
+   "konversi utang"
+  ],
+  "body": [
+   "PT Sidomulyo Selaras Tbk (SDMU) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perusahaan mencatat laba bersih Rp318,04 juta, berbalik dari rugi Rp13,32 miliar pada periode yang sama tahun 2025. Laba yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp383,43 juta, membuat laba per saham berbalik dari rugi Rp11,61 menjadi laba Rp0,23 per saham. Pendapatan bersih naik dari Rp58,56 miliar menjadi Rp64,78 miliar, sementara beban usaha justru turun dari Rp22,21 miliar menjadi Rp19,99 miliar.",
+   "Perubahan paling besar terjadi di struktur permodalan. Modal saham perusahaan naik dari Rp113,52 miliar menjadi Rp169,30 miliar dan tambahan modal disetor naik dari Rp6,91 miliar menjadi Rp12,49 miliar, sehingga jumlah ekuitas melonjak dari Rp16,72 miliar pada akhir 2025 menjadi Rp78,39 miliar pada akhir September 2026. Dalam surat penjelasan kepada Bursa Efek Indonesia tertanggal 28 Oktober 2026, manajemen menyatakan lonjakan ekuitas ini berasal dari Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) atas utang pemegang saham, yang kemudian dikonversi menjadi modal perusahaan. Akibatnya, pos liabilitas jangka panjang yang jatuh tempo dalam satu tahun turun 98 persen, dari Rp62,42 miliar menjadi nihil, dan total liabilitas perusahaan turun hampir separuh, dari Rp112,34 miliar menjadi Rp52,45 miliar.",
+   "Surat yang sama juga menjelaskan sejumlah pos lain yang berubah lebih dari 20 persen dibandingkan akhir 2025: kas dan setara kas naik 57 persen seiring kenaikan penerimaan dari pelanggan, piutang usaha naik 34 persen mengikuti kenaikan pendapatan, piutang lain-lain naik 111 persen karena ada piutang baru dari pihak berelasi, utang usaha naik 569 persen akibat peningkatan transaksi dengan pihak ketiga, dan beban akrual naik 330 persen karena beban yang sudah menjadi kewajiban tapi belum dibayar pada akhir periode. Laporan ditandatangani oleh Evelyn Magdalena Tjoe selaku Direktur Utama dan Handriyanto selaku Direktur, dengan tanggal surat pernyataan direksi 28 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of tanker trucks for hazardous chemical transport parked in an industrial logistics yard, late afternoon light",
+  "takeaway": "Laporan ini condong positif bagi SDMU: perusahaan berbalik dari rugi besar menjadi laba, sekaligus melunasi beban utang jangka pendeknya dengan cara mengubah utang pemegang saham menjadi modal, bukan dengan kas segar yang terbatas. Yang tersentuh adalah ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, yang melonjak empat kali lipat karena suntikan modal ini, sementara jumlah saham beredar ikut bertambah besar sehingga laba per saham ke depan bisa terdilusi meski saat ini masih sangat kecil. Beban bunga juga ikut turun karena utang berbunga yang jatuh tempo berkurang drastis, tanda tekanan keuangan perusahaan mengecil. Karena laporan ini masih berstatus tidak diaudit, yang perlu dipantau selanjutnya adalah laporan keuangan tahunan auditan untuk memastikan lonjakan ekuitas dan laba ini bertahan setelah diperiksa auditor independen.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "trim-laba-9-bulan-naik-31-jadi-rp488-66-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TRIM: Laba 9 Bulan [Naik] 31% jadi Rp488,66 Miliar",
+  "deck": "Trimegah Sekuritas membukukan laba bersih Rp488,66 miliar dalam sembilan bulan 2026, naik 31 persen, sementara total aset melonjak 36 persen akibat pembelian portofolio obligasi dan tambahan pinjaman bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T18:07:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181143-64844-0/FinancialStatement-2026-III-TRIM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIM",
+  "tags": [
+   "TRIM",
+   "Trimegah Sekuritas",
+   "laporan keuangan",
+   "sekuritas"
+  ],
+  "body": [
+   "PT Trimegah Sekuritas Indonesia Tbk (TRIM) menyampaikan laporan keuangan interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Laba bersih perusahaan tercatat Rp488,66 miliar, naik 31,2 persen dari Rp372,53 miliar pada periode yang sama tahun 2025. Laba yang menjadi bagian pemegang saham induk sebesar Rp477,22 miliar membuat laba per saham naik dari Rp52,39 menjadi Rp67,13. Pertumbuhan laba ini ditopang kenaikan pendapatan di hampir semua lini usaha, antara lain jasa manajer investasi menjadi Rp491,11 miliar, pembiayaan transaksi nasabah Rp545,34 miliar, dan komisi perantara efek Rp238,33 miliar.",
+   "Total aset perusahaan dan entitas anak per 30 September 2026 mencapai Rp9,28 triliun, naik Rp2,46 triliun atau 35,96 persen dibandingkan posisi akhir 2025 sebesar Rp6,83 triliun. Karena kenaikan ini melebihi 20 persen, sesuai Peraturan Bursa Efek Indonesia Nomor I-E, Direktur TRIM David Agus mengirim surat penjelasan resmi ke BEI pada 29 Oktober 2026. Surat itu menyebut kenaikan aset terutama berasal dari bertambahnya portofolio efek neto Rp1,25 triliun dan piutang transaksi perantara pedagang efek Rp1,46 triliun, sementara kas dan setara kas justru turun Rp145,81 miliar dan piutang reverse repo neto turun Rp149,55 miliar. Di sisi liabilitas, total utang naik Rp1,96 triliun atau 41,26 persen menjadi Rp6,71 triliun, didorong kenaikan utang transaksi perantara pedagang efek Rp1,84 triliun, yang menurut perusahaan terjadi karena lonjakan transaksi saham dan obligasi pada dua hari bursa terakhir September 2026.",
+   "Kenaikan portofolio efek sebesar Rp1,25 triliun sebagian besar dipakai untuk membeli lima seri obligasi dan sukuk, yaitu Obligasi Berkelanjutan I Merdeka Battery Materials Tahap V 2026 senilai Rp414,40 miliar, Sukuk Mudharabah Berkelanjutan I PNM Tahap V 2026 Seri A senilai Rp200 miliar, Obligasi II Merdeka Battery Materials 2024 Seri B senilai Rp149,43 miliar, SBSN Seri PBS003 senilai Rp299,61 miliar, dan Obligasi Negara Republik Indonesia Seri FR0111 senilai Rp129,69 miliar. Pembelian ini turut dibiayai dari utang jangka pendek yang naik neto Rp70 miliar, hasil dari penarikan fasilitas pinjaman dari lima bank, yakni CIMB Niaga Rp100 miliar, BCA Rp320 miliar, SMBC Rp100 miliar, KEB Hana Rp150 miliar, dan Danamon Rp70 miliar, dikurangi pelunasan ke Bank Victoria Rp100 miliar, Bank Jago Rp200 miliar, Maybank Rp170 miliar, Bank INA Rp100 miliar, dan Bank Panin Rp100 miliar. Surat utang jangka panjang turun neto Rp61,92 miliar setelah perusahaan melunasi dua seri obligasi yang jatuh tempo Juli 2026 senilai total sekitar Rp459,34 miliar, meski sebagian sudah diganti dengan penerbitan Obligasi Berkelanjutan III Tahap I 2026 Seri A dan B senilai total Rp400 miliar.",
+   "Dari sisi ekuitas, laporan perubahan ekuitas mencatat perusahaan membagikan dividen tunai Rp7,11 miliar dan dividen kepada pemegang saham non-pengendali Rp10,09 miliar selama sembilan bulan ini. Kepentingan non-pengendali juga bertambah Rp23,69 miliar dari setoran modal baru ke salah satu entitas anak. Total ekuitas perusahaan naik dari Rp2,07 triliun menjadi Rp2,57 triliun."
+  ],
+  "fotoAdegan": "Exterior view of modern glass skyscrapers in Jakarta's Sudirman financial district at dusk, city traffic below, office lights turning on",
+  "takeaway": "Laporan ini condong positif bagi TRIM karena laba bersih dan laba per saham tumbuh signifikan dalam sembilan bulan, didukung kenaikan pendapatan di hampir semua lini bisnis, bukan cuma satu segmen. Yang perlu diperhatikan adalah laba per saham, yaitu laba bersih dibagi jumlah saham beredar yang naik dari Rp52,39 menjadi Rp67,13, serta beban bunga, yaitu biaya yang dibayar perusahaan atas pinjaman bank dan obligasinya, yang melonjak dari Rp116,43 miliar menjadi Rp198,54 miliar karena tambahan pinjaman dan penerbitan obligasi baru untuk membeli portofolio surat utang. Selama pendapatan dari portofolio itu tetap lebih besar dari bunga yang dibayar, tambahan utang ini wajar sebagai bagian bisnis sekuritas yang modalnya memang mengandalkan pembiayaan. Karena laporan ini belum diaudit, yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026 yang akan mengonfirmasi apakah tren kenaikan laba dan beban bunga ini bertahan sampai akhir tahun.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tbms-cetak-laba-naik-42-arus-kas-operasi-minus-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "TBMS Cetak Laba Naik 42%, [Arus Kas] Operasi Minus Kuartal III",
+  "deck": "Laba bersih TBMS naik 42 persen jadi US$7,4 juta di sembilan bulan 2026, tapi arus kas operasi berbalik negatif US$18,8 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T18:03:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181705-65124-0/FinancialStatement-2026-III-TBMS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TBMS",
+  "tags": [
+   "TBMS",
+   "laporan keuangan",
+   "arus kas",
+   "kawat tembaga"
+  ],
+  "body": [
+   "PT Tembaga Mulia Semanan Tbk (TBMS), produsen kawat dan batangan tembaga serta aluminium yang berbasis di Semanan, Jakarta Barat, menyampaikan laporan keuangan interim tidak diaudit untuk sembilan bulan yang berakhir 30 September 2026. Penjualan neto perusahaan tercatat US$803,7 juta, naik 22 persen dari US$658,5 juta pada periode yang sama tahun 2025. Laba usaha naik 50 persen menjadi US$11,9 juta, sementara laba bersih melonjak 42 persen menjadi US$7,4 juta dari US$5,2 juta. Laba per saham dasar tercatat US$0,01, sama dengan periode sebelumnya, karena jumlah saham beredar tidak berubah di 734.680.000 saham.",
+   "Total aset perusahaan per 30 September 2026 mencapai US$217,3 juta, naik 24 persen dari US$175,6 juta pada akhir 2025. Kenaikan ini terutama didorong oleh piutang usaha dari pihak ketiga yang melonjak 81 persen menjadi US$105,7 juta dan persediaan yang bertambah 25 persen menjadi US$60,2 juta. Di sisi lain, kas dan setara kas perusahaan justru menyusut 33 persen menjadi US$10,6 juta dari US$15,9 juta. Total liabilitas naik lebih tajam, 35 persen menjadi US$136,3 juta, dengan utang bank jangka pendek bertambah 26 persen menjadi US$71,3 juta dan utang usaha kepada pihak berelasi melonjak 70 persen menjadi US$54,4 juta. Total ekuitas tumbuh lebih moderat sebesar 8,3 persen menjadi US$81,1 juta dari US$74,8 juta.",
+   "Yang mencolok dari laporan ini adalah arus kas dari aktivitas operasi yang berbalik menjadi negatif US$18,8 juta pada sembilan bulan 2026, dari sebelumnya positif US$17,5 juta pada periode yang sama tahun lalu. Perusahaan menutup kekurangan kas tersebut dengan menarik pinjaman bank jangka pendek baru senilai US$388 juta sepanjang periode, lalu membayar kembali US$370,1 juta dari pinjaman yang ada, sehingga arus kas dari aktivitas pendanaan tercatat positif US$16,7 juta. Perusahaan tetap membayar dividen kas sebesar US$1,2 juta pada sembilan bulan pertama 2026, lebih rendah dari US$2,6 juta yang dibayarkan pada periode yang sama tahun 2025."
+  ],
+  "fotoAdegan": "Factory workers inspecting coils of copper wire rod on an industrial production line, orange glow from a furnace in the background.",
+  "takeaway": "Laporan ini condong netral bagi TBMS: laba bersih memang melonjak 42 persen menjadi US$7,4 juta, tapi pertumbuhan itu belum diikuti uang tunai yang benar-benar masuk ke kas perusahaan. Pos yang tersentuh adalah arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar diterima dan dikeluarkan dari kegiatan jual-beli sehari-hari, bukan sekadar angka laba di atas kertas, yang berbalik dari positif US$17,5 juta menjadi negatif US$18,8 juta karena uang perusahaan banyak tertahan di piutang pelanggan dan persediaan barang yang belum terjual. Akibatnya perusahaan menutup selisih kas itu dengan menambah utang bank jangka pendek 26 persen, sesuatu yang biasa dicermati pelaku pasar karena laba tinggi tanpa uang tunai masuk bisa menandakan kualitas laba yang kurang kuat, meski bagi manufaktur yang penjualannya tumbuh 22 persen, penumpukan piutang dan stok juga bisa sekadar konsekuensi wajar dari ekspansi bisnis. Yang perlu dipantau selanjutnya adalah apakah arus kas operasi membaik pada laporan keuangan tahunan 2026 yang diaudit, karena laporan kali ini masih berstatus tidak diaudit dan baru mencakup sembilan bulan pertama tahun.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jast-jelaskan-liabilitas-naik-21-49-induk-rugi-rp399-juta",
+  "category": "Aksi Korporasi",
+  "title": "JAST Jelaskan Liabilitas Naik 21,49%, Induk [Rugi] Rp399 Juta",
+  "deck": "Liabilitas Jasnita Telekomindo naik 21,49% dalam sembilan bulan akibat utang usaha anak usaha CCX Platform, sementara bagian laba untuk pemegang saham induk berbalik rugi Rp398,8 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T18:03:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181311-64575-0/FinancialStatement-2026-III-JAST.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JAST",
+  "tags": [
+   "JAST",
+   "liabilitas",
+   "laporan keuangan kuartalan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Jasnita Telekomindo Tbk (JAST) menyampaikan surat penjelasan kepada Bursa Efek Indonesia terkait kenaikan lebih dari 20 persen pada pos liabilitas dalam laporan keuangan interim per 30 September 2026, sesuai aturan keterbukaan informasi Bursa Nomor I-E. Total liabilitas perusahaan naik 21,49 persen, dari Rp81,96 miliar pada akhir Desember 2025 menjadi Rp99,57 miliar pada akhir September 2026. Direktur Utama Yentoro menjelaskan kenaikan ini terutama berasal dari bertambahnya utang usaha dan beban akrual yang terkait aktivitas bisnis anak usahanya, CCX Platform Pte Ltd. Dalam laporan posisi keuangan, utang usaha kepada pihak ketiga melonjak lebih dari dua kali lipat, dari Rp12,44 miliar menjadi Rp27,79 miliar, sementara beban akrual jangka pendek naik dari Rp7,89 miliar menjadi Rp11,28 miliar.",
+   "Di sisi laba rugi, pendapatan Jasnita untuk sembilan bulan pertama 2026 tercatat Rp183,60 miliar, naik 16,6 persen dari Rp157,44 miliar pada periode yang sama tahun lalu. Namun beban umum dan administrasi naik lebih cepat, dari Rp39,88 miliar menjadi Rp49,89 miliar, sehingga laba usaha justru turun dari Rp4,70 miliar menjadi Rp3,00 miliar. Setelah memperhitungkan pos lain seperti hibah pemerintah Rp3,52 miliar dan pendapatan dividen Rp2,49 miliar, laba sebelum pajak tercatat Rp7,87 miliar, turun dari Rp12,19 miliar. Laba bersih konsolidasian sembilan bulan ini sebesar Rp7,03 miliar, tetapi hampir seluruhnya, yaitu Rp7,43 miliar, menjadi hak pemegang saham non-pengendali di anak usaha. Bagian yang menjadi hak pemegang saham Jasnita sendiri justru berbalik rugi Rp398,8 juta, dibandingkan untung Rp3,18 miliar pada periode yang sama tahun lalu.",
+   "Dari sisi kas, saldo kas dan setara kas perusahaan turun dari Rp25,17 miliar menjadi Rp18,18 miliar, antara lain karena arus kas investasi yang negatif Rp22 miliar, termasuk penambahan aset lain-lain sebesar Rp17,98 miliar. Total aset tumbuh 13,1 persen menjadi Rp202,13 miliar, sementara total ekuitas naik dari Rp96,78 miliar menjadi Rp102,56 miliar. Namun kenaikan ekuitas itu terutama ditopang oleh kepentingan non-pengendali yang naik dari Rp33,76 miliar menjadi Rp40,57 miliar, sedangkan porsi ekuitas yang bisa diatribusikan ke pemegang saham induk justru menyusut dari Rp63,02 miliar menjadi Rp61,99 miliar akibat akumulasi kerugian yang membesar."
+  ],
+  "fotoAdegan": "Technicians inspecting server racks and fiber optic cables inside a telecommunications data center, blue indicator lights glowing.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham induk Jasnita, karena meski pendapatan konsolidasi naik dua digit, hampir semua laba tahun ini mengalir ke pemegang saham non-pengendali di anak usaha CCX Platform, sementara porsi pemegang saham induk sendiri malah rugi Rp398,8 juta dan liabilitas melonjak lebih dari seperlima dalam sembilan bulan. Yang tersentuh di sini adalah ekuitas, yakni modal dan akumulasi laba milik pemegang saham, yang porsinya untuk pemegang saham induk justru menyusut sementara porsi anak usaha membesar, dan arus kas, yakni uang tunai yang benar-benar keluar masuk dari kas perusahaan, yang tergerus karena perusahaan menambah aset lain senilai hampir Rp18 miliar. Pelaku pasar biasanya mencermati pos-pos ini karena menunjukkan ke mana sebenarnya nilai perusahaan mengalir, apakah ke pemegang saham publik atau justru terkonsentrasi di anak usaha yang kepemilikannya terbagi dengan pihak lain. Yang perlu dipantau berikutnya adalah laporan keuangan auditan untuk tahun buku 2026 yang biasanya terbit awal tahun depan, untuk melihat apakah kenaikan utang usaha dan beban akrual terkait CCX Platform ini mereda atau justru terus membesarkan liabilitas perusahaan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "hero-catat-laba-rp91-3-miliar-kas-turun-tajam-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "HERO Catat [Laba] Rp91,3 Miliar, Kas Turun Tajam di Kuartal III",
+  "deck": "Pendapatan sembilan bulan 2026 naik 15,8 persen dan laba bersih naik ke Rp91,3 miliar, tapi kas perusahaan turun 45 persen menjadi Rp25,7 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T17:58:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029180930-64645-0/FinancialStatement-2026-III-HERO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HERO",
+  "tags": [
+   "HERO",
+   "laporan keuangan",
+   "ritel",
+   "kinerja emiten"
+  ],
+  "body": [
+   "PT DFI Retail Nusantara Tbk (HERO), perusahaan ritel yang sebelumnya bernama PT Hero Supermarket Tbk, menyampaikan laporan keuangan interim tidak diaudit untuk sembilan bulan yang berakhir 30 September 2026. Pendapatan bersih perusahaan naik 15,8 persen menjadi Rp4,07 triliun, dari Rp3,51 triliun pada periode yang sama tahun lalu. Laba kotor juga naik dari Rp1,62 triliun menjadi Rp1,79 triliun. Laba bersih untuk periode tersebut tercatat Rp91,34 miliar, naik 29,9 persen dari Rp70,34 miliar, dan laba per saham naik dari Rp17 menjadi Rp22.",
+   "Namun kenaikan laba bersih itu tidak sepenuhnya berasal dari kinerja operasional yang membaik. Laba sebelum pajak dari operasi yang masih berjalan justru turun 20,2 persen menjadi Rp59,15 miliar, dari Rp74,11 miliar, karena beban usaha ikut naik seiring kenaikan pendapatan. Laba bersih yang naik ke permukaan lebih banyak ditopang oleh beban pajak penghasilan yang jauh lebih kecil, dari Rp39,02 miliar menjadi hanya Rp10,49 miliar, serta sumbangan laba Rp42,68 miliar dari operasi yang dihentikan, yaitu unit usaha yang sedang dilepas perusahaan dan saat ini tercatat sebagai aset senilai Rp42,42 miliar yang dimiliki untuk dijual.",
+   "Dari sisi posisi keuangan, total aset perusahaan turun menjadi Rp4,29 triliun dari Rp4,42 triliun, terutama karena kas dan setara kas menyusut tajam, dari Rp47,09 miliar menjadi Rp25,71 miliar. Perusahaan juga mengurangi pinjaman bank jangka pendek dari Rp580 miliar menjadi Rp495 miliar, sehingga total liabilitas turun dari Rp2,77 triliun menjadi Rp2,54 triliun. Ekuitas membaik dari Rp1,66 triliun menjadi Rp1,75 triliun karena akumulasi kerugian menyusut dari Rp2,07 triliun menjadi Rp1,98 triliun. Arus kas dari aktivitas operasi turun dari Rp311,64 miliar menjadi Rp219,28 miliar, sementara belanja modal untuk aset tetap naik dari Rp87,76 miliar menjadi Rp144,11 miliar, dan pembayaran untuk aktivitas pendanaan turun dari Rp451,37 miliar menjadi Rp175,82 miliar karena pelunasan pinjaman yang lebih kecil."
+  ],
+  "fotoAdegan": "Workers restocking shelves with grocery items in a brightly lit Indonesian supermarket aisle, morning hours",
+  "takeaway": "Penilaian saya netral: laba bersih memang naik 29,9 persen, tetapi kenaikan itu lebih banyak ditopang oleh beban pajak yang jauh lebih kecil dan sumbangan dari unit usaha yang sedang dilepas, sementara laba inti dari operasi yang masih berjalan justru turun 20,2 persen dan kas perusahaan menyusut hampir separuh menjadi Rp25,7 miliar. Yang perlu dicermati adalah arus kas dari operasi, yaitu uang tunai yang benar benar masuk dari aktivitas jual beli sehari hari, yang turun dari Rp311,6 miliar menjadi Rp219,3 miliar, karena ini menunjukkan bantalan kas perusahaan menipis meskipun di atas kertas labanya naik. Di sisi lain, ekuitas membaik karena akumulasi kerugian menyusut dan utang bank jangka pendek berkurang dari Rp580 miliar jadi Rp495 miliar, tanda perusahaan sedikit mengurangi beban utangnya. Yang perlu dipantau selanjutnya adalah nasib aset senilai Rp42,4 miliar yang saat ini tercatat sebagai dimiliki untuk dijual, karena proses pelepasannya akan menentukan apakah sumbangan laba dari operasi yang dihentikan ini masih bisa diandalkan pada laporan-laporan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tmpo-rugi-melebar-kas-tersisa-rp5-8-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "TMPO: [Rugi] Melebar, Kas Tersisa Rp5,8 Miliar di Kuartal III",
+  "deck": "Pendapatan TMPO turun 5 persen dan kas perusahaan susut dari Rp25,2 miliar menjadi Rp5,8 miliar dalam sembilan bulan, sementara rugi bersih melebar ke Rp6,1 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T17:56:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029180435-65035-0/FinancialStatement-2026-III-TMPO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TMPO",
+  "tags": [
+   "TMPO",
+   "laporan keuangan",
+   "Tempo Inti Media",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Tempo Inti Media Tbk (TMPO) melaporkan pendapatan usaha konsolidasian sebesar Rp123,83 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, turun dari Rp130,34 miliar pada periode yang sama tahun sebelumnya. Laba kotor ikut tergerus dari Rp54,33 miliar menjadi Rp47,37 miliar. Perseroan mencatat rugi usaha Rp4,51 miliar, melebar dari rugi Rp2,96 miliar setahun sebelumnya, dan rugi bersih yang dapat diatribusikan kepada pemilik entitas induk membesar dari Rp5,24 miliar menjadi Rp6,23 miliar. Rugi per saham dasar tercatat Rp5,89, dari sebelumnya Rp4,95.",
+   "Posisi kas perusahaan menyusut tajam, dari Rp25,22 miliar pada akhir Desember 2025 menjadi Rp5,85 miliar pada akhir September 2026. Penyebabnya, arus kas dari aktivitas operasi mencatat defisit Rp23,50 miliar, melebar dibanding defisit Rp8,33 miliar pada periode yang sama tahun lalu, meski perseroan sempat menambah pinjaman bank jangka pendek dan pinjaman dari pihak ketiga senilai total Rp8,2 miliar. Total ekuitas turun dari Rp255,79 miliar menjadi Rp249,67 miliar, sementara total aset berkurang dari Rp443,22 miliar menjadi Rp422,33 miliar. Di sisi liabilitas, utang lain-lain kepada pihak ketiga melonjak dari Rp5,01 miliar menjadi Rp13,21 miliar.",
+   "Dalam catatan laporan, pemegang saham terbesar Tempo Inti Media per 30 September 2026 adalah PT Grafiti Pers dengan kepemilikan 24,28 persen. Grup usaha ini menaungi sejumlah anak perusahaan, antara lain PT Tempo Inti Media Harian yang bergerak di penerbitan pers dengan kepemilikan 99,99 persen, dan PT Temprint yang bergerak di jasa percetakan dengan kepemilikan 99,98 persen. Laporan keuangan interim ini disusun tanpa audit dan telah diotorisasi untuk terbit oleh jajaran direksi pada 28 Oktober 2026, dipimpin Direktur Utama Arif Zulkifli."
+  ],
+  "fotoAdegan": "Rolls of blank newsprint stacked beside large printing press machinery in a dim industrial hall, workers checking equipment",
+  "takeaway": "Laporan ini condong negatif bagi TMPO karena pendapatan menyusut, rugi bersih melebar, dan yang paling mencolok, kas perseroan terkuras dari Rp25,2 miliar menjadi Rp5,8 miliar hanya dalam sembilan bulan. Arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar keluar masuk dari bisnis inti sehari-hari, justru defisit Rp23,5 miliar, hampir tiga kali lipat defisit periode sebelumnya, dan pelaku pasar mencermati pos ini karena jadi penanda apakah bisnis bisa membiayai dirinya sendiri tanpa terus mengandalkan utang baru. Ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham, juga ikut menyusut akibat kerugian yang terus terakumulasi. Yang perlu dipantau berikutnya adalah laporan kuartal IV 2026, untuk melihat apakah manajemen bisa menghentikan laju pengurasan kas ini, mengingat kas yang tersisa saat ini hanya Rp5,85 miliar sementara perseroan masih menanggung utang bank jangka pendek sebesar Rp17,93 miliar.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mknt-beli-anak-usaha-energi-rp2-miliar-dari-komisaris-utama",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Beli Anak Usaha Energi [Rp2 Miliar] dari Komisaris Utama",
+  "deck": "RUM, anak usaha MKNT, membeli 100% saham ALE dan RSA dari Komisaris Utama Handoyo Setiawan dan mitranya senilai total sekitar Rp2 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T17:44:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e3bd442c7_f73f56f15f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "akuisisi",
+   "transaksi afiliasi",
+   "energi terbarukan"
+  ],
+  "body": [
+   "PT Radja Udang Malingping (RUM), perusahaan yang dikendalikan PT Mitra Komunikasi Nusantara Tbk (MKNT, kini berganti nama menjadi PT Remitra Global Internasional Tbk), membeli seluruh saham PT Adinda Losari Energi (ALE) dan PT Remitra Surya Abadi (RSA) pada 27 Oktober 2026. Untuk masing-masing perusahaan, RUM membeli 49 persen saham milik PT Careforshop Indonesia Sukses senilai Rp490 juta, dan 50,99 persen saham milik Handoyo Setiawan, yang menjabat Komisaris Utama MKNT, senilai Rp509.999.000. Nilai pembelian ALE dan RSA masing-masing mencapai Rp999.999.000, atau total sekitar Rp2 miliar untuk kedua perusahaan. Harga dipatok berdasarkan nilai buku, yakni nilai aset bersih yang tercatat di pembukuan masing-masing perusahaan, tanpa melibatkan penilai independen.",
+   "ALE dan RSA disebut sebagai perusahaan yang telah ikut sebagai peserta tender Proyek Pengelolaan Sampah Menjadi Energi Listrik (waste-to-energy) Tahap 3 yang digelar PT Danantara Investment Management. Perseroan menyatakan pembelian ini merupakan langkah memperluas portofolio usaha holding ke sektor energi baru, energi terbarukan, dan konservasi energi, serta diharapkan menyumbang kinerja keuangan konsolidasian grup.",
+   "Perseroan menggolongkan transaksi ini sebagai transaksi afiliasi, yaitu transaksi dengan pihak yang punya hubungan kendali atau jabatan di perusahaan, karena salah satu penjual adalah Handoyo Setiawan selaku Komisaris Utama perseroan sendiri. Berdasarkan laporan keuangan konsolidasian September 2026, ekuitas perseroan tercatat Rp5.647.996.579, sehingga nilai pembelian ALE dan RSA masing-masing setara 17,71 persen dari ekuitas itu, di bawah ambang 20 persen yang membuat transaksi ini wajib dikategorikan transaksi material. Karena nilai transaksinya juga di bawah Rp5 miliar, perseroan memperoleh pengecualian dari kewajiban memakai penilai independen dan meminta persetujuan rapat umum pemegang saham."
+  ],
+  "fotoAdegan": "Garbage trucks unloading waste at a sorting facility near large industrial incinerator stacks, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham: perseroan mengeluarkan sekitar Rp2 miliar, atau sekitar 35 persen dari ekuitasnya yang baru pekan lalu berbalik positif, untuk membeli dua perusahaan yang baru sebatas ikut tender proyek dan belum tentu menang, dan salah satu penjualnya adalah Komisaris Utama perseroan sendiri tanpa penilai independen. Yang tersentuh adalah ekuitas perseroan, yaitu kekayaan bersih milik pemegang saham setelah dikurangi utang, dan pelaku pasar memperhatikannya karena dana sebesar itu keluar dari perseroan yang modalnya masih tipis untuk membeli aset yang belum menghasilkan pendapatan. Yang perlu dipantau berikutnya adalah apakah RSA dan ALE benar memenangkan tender Proyek Pengelolaan Sampah Menjadi Energi Listrik Tahap 3 dari Danantara Investment Management, sebab kalau tender itu tidak dimenangkan, pembelian saham ini belum memberi hasil nyata bagi perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "daya-laba-watsons-naik-65-ke-rp85-8-miliar-di-9-bulan",
+  "category": "Aksi Korporasi",
+  "title": "DAYA: Laba Watsons Naik 65% ke [Rp85,8 Miliar] di 9 Bulan",
+  "deck": "Laporan keuangan interim kuartal III 2026 Duta Intidaya (DAYA) menunjukkan laba bersih naik 65 persen dan ekuitas membesar, meski kas perusahaan menyusut hampir 70 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T17:41:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029175021-64850-0/FinancialStatement-2026-III-DAYA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DAYA",
+  "tags": [
+   "DAYA",
+   "Watsons",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Duta Intidaya Tbk (DAYA), pengelola jaringan ritel kesehatan dan kecantikan Watsons di Indonesia, melaporkan kinerja keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit. Pendapatan bersih perusahaan naik 27,9 persen menjadi Rp2,56 triliun, dari Rp2,00 triliun pada periode yang sama tahun sebelumnya. Laba bersih periode berjalan melonjak 64,5 persen menjadi Rp85,78 miliar, dari Rp52,14 miliar, sehingga laba per saham naik dari Rp21,54 menjadi Rp35,44 per lembar.",
+   "Dari sisi aset, jumlah aset perusahaan naik tipis menjadi Rp1,27 triliun per akhir September 2026, dari Rp1,24 triliun pada akhir 2025. Persediaan menjadi komponen terbesar aset lancar, naik dari Rp438,35 miliar menjadi Rp507,20 miliar, sejalan dengan ekspansi jumlah gerai Watsons dari 226 toko pada akhir 2025 menjadi 245 toko per 30 September 2026. Kas dan setara kas perusahaan justru menyusut tajam, dari Rp141,23 miliar menjadi Rp42,97 miliar, turun sekitar 70 persen dalam sembilan bulan. Total liabilitas turun dari Rp1,11 triliun menjadi Rp1,04 triliun, antara lain karena pinjaman bank jangka pendek yang mengecil dari Rp217 miliar menjadi Rp175 miliar. Akumulasi kerugian perusahaan juga menyusut signifikan dari Rp164,07 miliar menjadi Rp76,80 miliar, sehingga jumlah ekuitas naik dari Rp136,58 miliar menjadi Rp223,84 miliar.",
+   "Dari laporan arus kas, kegiatan operasional menghasilkan kas bersih Rp101,93 miliar, naik dari Rp55,10 miliar pada periode yang sama tahun lalu. Namun arus kas dari aktivitas pendanaan mencatat pengeluaran bersih Rp150,99 miliar, jauh lebih besar dibanding Rp14,26 miliar pada 2025, terutama karena pembayaran pokok pinjaman bank jangka pendek Rp972 miliar yang melebihi penerimaan pinjaman baru Rp930 miliar, ditambah pembayaran liabilitas sewa Rp84,84 miliar. Kombinasi ini membuat kas perusahaan turun bersih Rp98,30 miliar sepanjang sembilan bulan. Pemegang saham pengendali utama DAYA tetap CK Hutchison Holdings Limited, perusahaan asal Hong Kong yang juga mengendalikan jaringan ritel Watsons secara global."
+  ],
+  "fotoAdegan": "Shoppers browsing cosmetics and personal care shelves inside a brightly lit drugstore in a shopping mall, Jakarta",
+  "takeaway": "Laporan ini condong positif bagi DAYA, karena laba bersih dan ekuitas sama-sama tumbuh signifikan sementara beban utang bank justru menyusut dalam sembilan bulan terakhir. Yang perlu dicermati adalah arus kas: kas dan setara kas perusahaan turun hampir 70 persen menjadi Rp42,97 miliar karena perusahaan memprioritaskan pelunasan pinjaman bank dan pembayaran sewa toko, bukan karena bisnis intinya melemah, sebab kas dari aktivitas operasional justru naik hampir dua kali lipat. Ekuitas yang membesar penting dipantau karena mencerminkan modal milik pemegang saham setelah dikurangi utang, dan akumulasi kerugian yang menyusut tajam berarti perusahaan semakin mendekati titik bisa membagikan dividen di masa depan. Laba per saham, yaitu bagian laba yang secara proporsional menjadi hak setiap lembar saham, juga naik dari Rp21,54 menjadi Rp35,44 seiring pertumbuhan laba bersih tanpa penambahan jumlah saham beredar. Yang perlu dipantau berikutnya adalah apakah tren penambahan gerai Watsons, dari 226 menjadi 245 toko dalam sembilan bulan, berlanjut di kuartal IV sekaligus bagaimana perusahaan mengelola kembali posisi kasnya yang menipis.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pupuk-indonesia-rinci-26-634-titik-serah-jelang-musim-tanam",
   "category": "BUMN",
   "title": "Pupuk Indonesia Rinci [26.634] Titik Serah Jelang Musim Tanam",

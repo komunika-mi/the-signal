@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "vern-laba-bersih-longsor-88-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "VERN: Laba Bersih [Longsor] 88% di Kuartal III 2026",
+  "deck": "Penjualan VERN turun 69 persen dan laba bersih kuartal III 2026 anjlok 88 persen menjadi Rp1,05 miliar dibanding periode sama tahun lalu.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VERN",
+   "laporan keuangan",
+   "laba bersih",
+   "industri film"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029183142-65207-0/FinancialStatement-2026-III-VERN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sdmu-cetak-laba-ekuitas-naik-4x-usai-konversi-utang-jadi-modal",
+  "category": "Aksi Korporasi",
+  "title": "SDMU Cetak Laba, Ekuitas Naik 4x Usai [Konversi] Utang Jadi Modal",
+  "deck": "Sidomulyo Selaras balik untung pada kuartal III 2026 setelah mengonversi utang pemegang saham senilai puluhan miliar rupiah menjadi modal perusahaan.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SDMU",
+   "Sidomulyo Selaras",
+   "laporan keuangan",
+   "konversi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029182313-64481-0/FinancialStatement-2026-III-SDMU.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "trim-laba-9-bulan-naik-31-jadi-rp488-66-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TRIM: Laba 9 Bulan [Naik] 31% jadi Rp488,66 Miliar",
+  "deck": "Trimegah Sekuritas membukukan laba bersih Rp488,66 miliar dalam sembilan bulan 2026, naik 31 persen, sementara total aset melonjak 36 persen akibat pembelian portofolio obligasi dan tambahan pinjaman bank.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIM",
+   "Trimegah Sekuritas",
+   "laporan keuangan",
+   "sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181143-64844-0/FinancialStatement-2026-III-TRIM.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tbms-cetak-laba-naik-42-arus-kas-operasi-minus-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "TBMS Cetak Laba Naik 42%, [Arus Kas] Operasi Minus Kuartal III",
+  "deck": "Laba bersih TBMS naik 42 persen jadi US$7,4 juta di sembilan bulan 2026, tapi arus kas operasi berbalik negatif US$18,8 juta.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TBMS",
+   "laporan keuangan",
+   "arus kas",
+   "kawat tembaga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181705-65124-0/FinancialStatement-2026-III-TBMS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jast-jelaskan-liabilitas-naik-21-49-induk-rugi-rp399-juta",
+  "category": "Aksi Korporasi",
+  "title": "JAST Jelaskan Liabilitas Naik 21,49%, Induk [Rugi] Rp399 Juta",
+  "deck": "Liabilitas Jasnita Telekomindo naik 21,49% dalam sembilan bulan akibat utang usaha anak usaha CCX Platform, sementara bagian laba untuk pemegang saham induk berbalik rugi Rp398,8 juta.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JAST",
+   "liabilitas",
+   "laporan keuangan kuartalan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181311-64575-0/FinancialStatement-2026-III-JAST.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hero-catat-laba-rp91-3-miliar-kas-turun-tajam-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "HERO Catat [Laba] Rp91,3 Miliar, Kas Turun Tajam di Kuartal III",
+  "deck": "Pendapatan sembilan bulan 2026 naik 15,8 persen dan laba bersih naik ke Rp91,3 miliar, tapi kas perusahaan turun 45 persen menjadi Rp25,7 miliar.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HERO",
+   "laporan keuangan",
+   "ritel",
+   "kinerja emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029180930-64645-0/FinancialStatement-2026-III-HERO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tmpo-rugi-melebar-kas-tersisa-rp5-8-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "TMPO: [Rugi] Melebar, Kas Tersisa Rp5,8 Miliar di Kuartal III",
+  "deck": "Pendapatan TMPO turun 5 persen dan kas perusahaan susut dari Rp25,2 miliar menjadi Rp5,8 miliar dalam sembilan bulan, sementara rugi bersih melebar ke Rp6,1 miliar.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TMPO",
+   "laporan keuangan",
+   "Tempo Inti Media",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029180435-65035-0/FinancialStatement-2026-III-TMPO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-beli-anak-usaha-energi-rp2-miliar-dari-komisaris-utama",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Beli Anak Usaha Energi [Rp2 Miliar] dari Komisaris Utama",
+  "deck": "RUM, anak usaha MKNT, membeli 100% saham ALE dan RSA dari Komisaris Utama Handoyo Setiawan dan mitranya senilai total sekitar Rp2 miliar.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "akuisisi",
+   "transaksi afiliasi",
+   "energi terbarukan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e3bd442c7_f73f56f15f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "daya-laba-watsons-naik-65-ke-rp85-8-miliar-di-9-bulan",
+  "category": "Aksi Korporasi",
+  "title": "DAYA: Laba Watsons Naik 65% ke [Rp85,8 Miliar] di 9 Bulan",
+  "deck": "Laporan keuangan interim kuartal III 2026 Duta Intidaya (DAYA) menunjukkan laba bersih naik 65 persen dan ekuitas membesar, meski kas perusahaan menyusut hampir 70 persen.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DAYA",
+   "Watsons",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029175021-64850-0/FinancialStatement-2026-III-DAYA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pupuk-indonesia-rinci-26-634-titik-serah-jelang-musim-tanam",
   "category": "BUMN",
   "title": "Pupuk Indonesia Rinci [26.634] Titik Serah Jelang Musim Tanam",
@@ -6318,151 +6462,6 @@ var ARTICLES = [
    "kepemilikan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5157-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rgas-pendapatan-9-bulan-anjlok-52-arus-kas-operasi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "RGAS: Pendapatan 9 Bulan Anjlok 52%, [Arus Kas] Operasi Negatif",
-  "deck": "Laporan keuangan interim kuartal III 2026 PT Kian Santang Muliatama Tbk menunjukkan pendapatan turun separuh, meski laba bersih relatif stabil dan arus kas operasi berbalik negatif.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RGAS",
-   "laporan keuangan",
-   "arus kas",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023100902-64582-0/FinancialStatement-2026-III-RGAS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "komisaris-akpi-henry-liem-lepas-300-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "[Komisaris] AKPI Henry Liem Lepas 300.000 Saham",
-  "deck": "Komisaris AKPI Henry Liem menjual 300.000 saham pada 22 Oktober 2026 seharga Rp550 per saham, hak suaranya turun dari 0,8658% menjadi 0,8168%.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "kepemilikan saham",
-   "komisaris",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-9384-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-sarana-steel-tambah-saham-hak-suara-ke-32-98",
-  "category": "Aksi Korporasi",
-  "title": "BAJA: Sarana Steel Tambah Saham, Hak Suara ke [32,98%]",
-  "deck": "PT Sarana Steel membeli 271 juta saham BAJA seharga Rp500 per lembar, mengangkat hak suaranya dari 22,95 persen menjadi 32,98 persen.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "Saranacentral Bajatama",
-   "kepemilikan saham",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5802-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-ganti-nama-ke-remitra-ekuitas-jadi-positif",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Ganti Nama ke Remitra, Ekuitas Jadi [Positif]",
-  "deck": "Laporan kuartal III 2026 MKNT, kini bernama PT Remitra Global International, mencatat aset naik ke Rp1,47 triliun dan ekuitas berbalik positif Rp5,65 miliar.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "laporan keuangan",
-   "Remitra Global International",
-   "konsolidasi anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023095154-64811-0/FinancialStatement-2026-III-MKNT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-lagi-ke-rp2-540-000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Lagi ke Rp2.540.000 per Gram",
-  "deck": "Harga emas batangan Antam turun Rp10.000 menjadi Rp2.540.000 per gram pada Jumat (23/10), sementara harga buyback ikut melemah ke Rp2.335.000 per gram.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-turun-lagi-ke-rp2-540-000-per-gram.jpg",
-  "imageV": "mvkhlrpk",
-  "tags": [
-   "Emas Antam",
-   "Harga Emas",
-   "Logam Mulia",
-   "Investasi Emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474555-saatnya-borong-harga-emas-antam-hari-ini-23-oktober-2026-merosot-lagi-jadi-rp2540000-per-gram"
- },
- {
-  "slug": "baja-komisaris-lepas-271-juta-saham-hak-suara-ke-10-84",
-  "category": "Aksi Korporasi",
-  "title": "BAJA: Komisaris [Lepas] 271 Juta Saham, Hak Suara ke 10,84%",
-  "deck": "Ibnu Susanto, Dewan Komisaris Saranacentral Bajatama, menjual 271 juta saham BAJA pada 21 Oktober 2026, memangkas hak suaranya dari 20,88% menjadi 10,84%.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "Saranacentral Bajatama",
-   "komisaris",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-8127-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ocap-defisiensi-modal-melebar-ke-rp302-85-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "OCAP: Defisiensi [Modal] Melebar ke Rp302,85 Miliar di Kuartal III",
-  "deck": "Laporan kuartal III 2026 OCAP yang tidak diaudit menunjukkan rugi melebar jadi Rp25,34 miliar dan defisiensi modal makin dalam ke Rp302,85 miliar.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OCAP",
-   "defisiensi modal",
-   "suspensi saham",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023095148-64583-0/FinancialStatement-2026-III-OCAP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "supr-protelindo-rampungkan-tender-saham-publik-3-periode",
-  "category": "Aksi Korporasi",
-  "title": "SUPR: Protelindo Rampungkan [Tender] Saham Publik 3 Periode",
-  "deck": "Setelah tiga periode penawaran tender sukarela sejak Juli 2026, Protelindo menyerap 733.052 dari 980.044 saham publik SUPR, menyisakan 246.992 saham yang tidak ikut.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUPR",
-   "Protelindo",
-   "tender offer",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ba6726b88a_cb4b99b12d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "totl-gelar-rupslb-16-november-bahas-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "TOTL Gelar RUPSLB 16 November, Bahas Perubahan [Direksi]",
-  "deck": "Total Bangun Persada memanggil RUPSLB pada 16 November 2026 untuk membahas perubahan susunan Direksi dan Dewan Komisaris, dengan pencatatan pemegang saham per 22 Oktober 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOTL",
-   "RUPSLB",
-   "Direksi",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/941a3eb35c_ef049ded13.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ptsn-laba-kuartal-iii-susut-40-meski-pendapatan-naik-56",
+  "category": "Aksi Korporasi",
+  "title": "PTSN: Laba Kuartal III Susut 40% Meski [Pendapatan] Naik 56%",
+  "deck": "Sat Nusapersada mencatat pendapatan 9 bulan naik ke US$277,6 juta, tapi laba bersih turun ke US$6,18 juta karena margin tergerus dan arus kas operasi menyusut.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTSN",
+   "laporan keuangan",
+   "laba bersih",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029153120-65322-0/FinancialStatement-2026-III-PTSN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtwi-laba-9-bulan-ambruk-89-saat-beban-klaim-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "MTWI: Laba 9 Bulan Ambruk 89% Saat Beban [Klaim] Melonjak",
+  "deck": "Laba bersih MTWI turun dari Rp76,23 miliar menjadi Rp8,53 miliar dalam sembilan bulan 2026 akibat beban klaim yang melonjak tajam.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTWI",
+   "laporan keuangan",
+   "asuransi",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029151607-65288-0/FinancialStatement-2026-III-MTWI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptro-jelaskan-ke-bei-rencana-rights-issue-170-juta-saham-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "PTRO Jelaskan ke BEI Rencana Rights Issue 170 Juta Saham [HMETD]",
+  "deck": "Petrosea menjawab permintaan penjelasan BEI soal rencana rights issue, memastikan dilusi maksimal 1,66% dengan pembeli siaga PT Kreasi Jaya Persada.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTRO",
+   "Petrosea",
+   "rights issue",
+   "HMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2928a4f32c_7d411e0f0e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "miti-catat-rugi-rp1-45-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MITI Catat [Rugi] Rp1,45 Miliar di Kuartal III 2026",
+  "deck": "Laba bersih Mitra Investindo anjlok dari untung Rp7,5 miliar jadi rugi Rp1,45 miliar pada sembilan bulan pertama 2026, seiring pendapatan turun 11 persen.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MITI",
+   "Mitra Investindo",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029151827-65040-0/FinancialStatement-2026-III-MITI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ypas-berbalik-untung-laba-bersih-rp31-6-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "YPAS Berbalik Untung, [Laba] Bersih Rp31,6 Miliar di Kuartal III",
+  "deck": "Yanaprima Hastapersada (YPAS) mencatat laba bersih Rp31,64 miliar pada sembilan bulan 2026, berbalik dari rugi Rp747,55 juta tahun sebelumnya, didorong lonjakan penjualan dan margin.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YPAS",
+   "laporan keuangan",
+   "kemasan plastik",
+   "kinerja emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150838-64815-0/FinancialStatement-2026-III-YPAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gema-rugi-rp13-97-miliar-di-kuartal-iii-2026-eps-negatif",
+  "category": "Aksi Korporasi",
+  "title": "GEMA [Rugi] Rp13,97 Miliar di Kuartal III 2026, EPS Negatif",
+  "deck": "GEMA membukukan rugi bersih Rp13,97 miliar pada 9 bulan pertama 2026, berbalik dari laba Rp5,29 miliar tahun sebelumnya, akibat beban lain-lain dan bunga yang melonjak.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GEMA",
+   "laporan keuangan",
+   "rugi bersih",
+   "emiten furnitur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150818-65029-0/FinancialStatement-2026-III-GEMA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wiim-laba-bersih-melonjak-74-jadi-rp496-miliar-di-q3-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIIM: Laba Bersih [Melonjak] 74% jadi Rp496 Miliar di Q3 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih WIIM naik 74 persen menjadi Rp496,22 miliar, didorong efisiensi beban usaha dan turunnya beban bunga.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIIM",
+   "laporan keuangan",
+   "kinerja emiten",
+   "industri rokok"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150334-65247-0/FinancialStatement-2026-III-WIIM.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kdsi-liabilitas-melonjak-34-5-imbas-pinjaman-bank-baru",
   "category": "Aksi Korporasi",
   "title": "KDSI: Liabilitas Melonjak 34,5% Imbas [Pinjaman] Bank Baru",
@@ -6345,123 +6457,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023105545-64658-0/FinancialStatement-2026-III-AKRA.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "wamen-investasi-raih-honorary-fellow-dari-asean-di-cafeo-44",
-  "category": "Industri",
-  "title": "Wamen Investasi Raih [Honorary Fellow] dari ASEAN di CAFEO 44",
-  "deck": "Wakil Menteri Investasi dan Hilirisasi Todotua Pasaribu menerima Honorary Fellow Award di CAFEO 44 Bandung, pengakuan atas kontribusinya mendorong hilirisasi dan investasi Indonesia.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/wamen-investasi-raih-honorary-fellow-dari-asean-di-cafeo-44.jpg",
-  "imageV": "mvk3ixyk",
-  "tags": [
-   "hilirisasi",
-   "investasi",
-   "BKPM",
-   "ASEAN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474539-diakui-11-negara-asean-wamen-investasi-raih-honorary-fellow-award-di-cafeo-44-atas-kontribusi-hilirisasi"
- },
- {
-  "slug": "produksi-gas-blok-jangkrik-dan-maha-tambah-290-mmscfd",
-  "category": "Energi",
-  "title": "Produksi Gas Blok Jangkrik dan Maha Tambah [290] MMSCFD",
-  "deck": "Dua proyek lepas pantai Kaltim, JNE#6 dan Lapangan Maha, menambah produksi gas sekitar 290 MMSCFD, menurut Menteri ESDM Bahlil Lahadalia.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/produksi-gas-blok-jangkrik-dan-maha-tambah-290-mmscfd.jpg",
-  "imageV": "mvjxg16p",
-  "tags": [
-   "gas bumi",
-   "ESDM",
-   "Kalimantan Timur",
-   "migas lepas pantai"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/resmikan-gas-jne6-dan-lapangan-maha-menteri-esdm-dorong-tambahan-produksi-gas-nasional",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "kesdm-dan-tni-al-usut-kapal-pembawa-406-kl-solar-di-semarang",
-  "category": "Energi",
-  "title": "KESDM dan TNI AL [Usut] Kapal Pembawa 406 KL Solar di Semarang",
-  "deck": "Kapal SPOB Nurfaizah 03 diduga membawa 406 kiloliter solar B50 tanpa dokumen pembelian resmi saat diperiksa TNI AL di perairan Tanjung Emas, Semarang.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/kesdm-dan-tni-al-usut-kapal-pembawa-406-kl-solar-di-semarang.jpg",
-  "imageV": "mvjxg3or",
-  "tags": [
-   "ESDM",
-   "Solar",
-   "TNI AL",
-   "Semarang"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kesdm-dan-tni-al-tangani-dugaan-pelanggaran-bbm-subsidi-ilegal-di-perairan-semarang",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "mytx-catat-laba-semu-dari-kurs-ekuitas-masih-minus-rp559-m",
-  "category": "Aksi Korporasi",
-  "title": "MYTX Catat Laba Semu dari [Kurs], Ekuitas Masih Minus Rp559 M",
-  "deck": "MYTX meraih laba Rp51,8 miliar dalam 9 bulan 2026, naik dari Rp11,6 miliar, tapi sebagian besar dari untung kurs, bukan bisnis inti yang justru rugi kotor.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MYTX",
-   "laporan keuangan",
-   "tekstil",
-   "defisiensi modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023074736-64618-0/FinancialStatement-2026-III-MYTX.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-ubah-bisnis-akuisisi-nikel-dan-gelar-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "PACK Ubah Bisnis, Akuisisi Nikel, dan Gelar [Rights Issue]",
-  "deck": "PACK berencana ubah lini usaha ke tambang nikel, akuisisi dua perusahaan termasuk satu pihak afiliasi, dan right issue. RUPSLB digelar 30 November 2026.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "right issue",
-   "akuisisi nikel",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ace10ceba5_8ee27d02e1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-jadwalkan-rupslb-pada-30-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "PACK Jadwalkan [RUPSLB] pada 30 November 2026",
-  "deck": "Abadi Nusantara Hijau Investama mengumumkan rencana RUPS Luar Biasa 30 November 2026, pendaftaran pemegang saham yang berhak hadir ditutup 5 November.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "RUPSLB",
-   "RUPS",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4b757a95bd_844e88401e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pasokan-gas-kaltim-naik-ke-750-mmscfd-per-november",
-  "category": "Energi",
-  "title": "Pasokan Gas Kaltim [Naik] ke 750 MMSCFD per November",
-  "deck": "Pemerintah menargetkan produksi gas lepas pantai Kalimantan Timur naik ke 750 juta kaki kubik per hari mulai 1 November 2026, didorong proyek JNE#6 dan Lapangan Maha.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/pasokan-gas-kaltim-naik-ke-750-mmscfd-per-november.jpg",
-  "imageV": "mvjxg46c",
-  "tags": [
-   "gas bumi",
-   "Kalimantan Timur",
-   "ESDM",
-   "Lapangan Maha"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474510-realisasi-kedaulatan-energi-nasional-pemerintah-resmikan-proyek-gas-jne6-dan-lapangan-maha"
  }
 ];

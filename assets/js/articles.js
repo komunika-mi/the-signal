@@ -3,6 +3,189 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ptsn-laba-kuartal-iii-susut-40-meski-pendapatan-naik-56",
+  "category": "Aksi Korporasi",
+  "title": "PTSN: Laba Kuartal III Susut 40% Meski [Pendapatan] Naik 56%",
+  "deck": "Sat Nusapersada mencatat pendapatan 9 bulan naik ke US$277,6 juta, tapi laba bersih turun ke US$6,18 juta karena margin tergerus dan arus kas operasi menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T15:17:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029153120-65322-0/FinancialStatement-2026-III-PTSN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTSN",
+  "tags": [
+   "PTSN",
+   "laporan keuangan",
+   "laba bersih",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Sat Nusapersada Tbk (PTSN), produsen elektronik yang berbasis di Batam, melaporkan pendapatan periode Januari sampai September 2026 sebesar US$277,61 juta, naik 56 persen dibanding periode yang sama tahun 2025 sebesar US$177,86 juta. Namun beban pokok pendapatan naik lebih cepat, dari US$153,26 juta menjadi US$256,76 juta, sehingga laba kotor justru turun dari US$24,60 juta menjadi US$20,85 juta. Margin laba kotor perusahaan menyusut dari 13,8 persen menjadi 7,5 persen dari pendapatan, tanda bahwa biaya produksi menggerus untung lebih dalam dibanding laju pertumbuhan penjualan.",
+   "Setelah dikurangi beban usaha, rugi selisih kurs, dan beban bunga, laba sebelum pajak tercatat US$8,04 juta, turun dari US$13,35 juta pada periode yang sama tahun lalu. Laba bersih sembilan bulan ikut turun 40,6 persen menjadi US$6,18 juta dari US$10,41 juta, dengan laba per 1.000 saham dasar turun dari US$1,96 menjadi US$1,16. Arus kas dari aktivitas operasi juga menyusut tajam, dari US$23,60 juta menjadi US$7,01 juta, sementara kas dan setara kas perusahaan di akhir September 2026 tersisa US$4,98 juta, hampir separuh dari US$10,20 juta pada akhir Desember 2025.",
+   "Di sisi neraca, total aset naik 6,7 persen menjadi US$244,12 juta, terutama didorong kenaikan piutang usaha pihak ketiga dari US$35,34 juta menjadi US$55,60 juta dan persediaan dari US$35,26 juta menjadi US$38,35 juta. Utang usaha kepada pihak ketiga juga melonjak dari US$49,92 juta menjadi US$70,00 juta. Total ekuitas perusahaan naik tipis menjadi US$131,31 juta, setelah perusahaan membagikan dividen tunai US$2,07 juta pada periode ini, naik dari US$1,70 juta tahun sebelumnya. Jumlah saham beredar tidak berubah, tetap 5.314.344.000 saham."
+  ],
+  "fotoAdegan": "Workers assembling small electronic circuit boards on a factory conveyor line, bright fluorescent lighting, Batam industrial zone.",
+  "takeaway": "Laporan ini condong negatif bagi fundamental PTSN, karena meski pendapatan melonjak signifikan, kenaikan itu tidak diikuti laba yang sepadan, bahkan laba bersih malah menyusut 40 persen. Yang paling tersentuh adalah margin laba kotor yang terpangkas dari 13,8 persen menjadi 7,5 persen, serta arus kas dari kegiatan operasional yang turun tajam dari US$23,6 juta menjadi US$7 juta, dan ini penting karena arus kas operasi menunjukkan uang tunai riil yang benar-benar masuk dari bisnis inti, bukan sekadar angka laba di atas kertas. Kenaikan piutang usaha dan utang usaha yang berbarengan juga perlu dicermati karena menandakan modal kerja perusahaan makin banyak tertahan di transaksi yang belum tertagih dari pelanggan atau belum dibayar ke pemasok. Yang perlu dipantau berikutnya adalah apakah tekanan margin dan arus kas ini berlanjut atau membaik di laporan kuartal IV dan laporan tahunan teraudit, yang akan memastikan apakah penurunan laba kali ini sementara atau berkelanjutan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mtwi-laba-9-bulan-ambruk-89-saat-beban-klaim-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "MTWI: Laba 9 Bulan Ambruk 89% Saat Beban [Klaim] Melonjak",
+  "deck": "Laba bersih MTWI turun dari Rp76,23 miliar menjadi Rp8,53 miliar dalam sembilan bulan 2026 akibat beban klaim yang melonjak tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T15:13:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029151607-65288-0/FinancialStatement-2026-III-MTWI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTWI",
+  "tags": [
+   "MTWI",
+   "laporan keuangan",
+   "asuransi",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Malacca Trust Wuwungan Insurance Tbk (MTWI) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, disertai surat penjelasan resmi ke Bursa Efek Indonesia karena total aset dan total liabilitas perusahaan berubah lebih dari 20 persen dibandingkan akhir tahun lalu. Total aset perusahaan tercatat Rp2,73 triliun per akhir September 2026, turun Rp867,78 miliar atau 24,08 persen dari Rp3,60 triliun pada akhir Desember 2025. Total liabilitas ikut menyusut Rp870,06 miliar atau 27,23 persen, dari Rp3,19 triliun menjadi Rp2,32 triliun.",
+   "Dalam surat yang ditandatangani Corporate Secretary Iis Syarifuddin, perusahaan menjelaskan penyusutan aset terutama berasal dari aset asuransi untuk sisa pertanggungan yang turun Rp669,14 miliar atau 47,96 persen, dari Rp1,39 triliun menjadi Rp726,07 miliar, karena tertanggung membayar premi mereka. Di sisi liabilitas, pos liabilitas asuransi untuk sisa pertanggungan turun jauh lebih besar, Rp1,27 triliun atau 63,33 persen, dari Rp2,00 triliun menjadi Rp733,66 miliar, karena perusahaan melunasi utang reasuransinya ke mitra reasuradur selama periode berjalan. Sementara itu, liabilitas asuransi untuk klaim yang terjadi justru naik dari Rp1,11 triliun menjadi Rp1,38 triliun, sejalan dengan beban klaim yang melonjak dari Rp880,39 miliar menjadi Rp1,29 triliun sepanjang sembilan bulan ini.",
+   "Kenaikan beban klaim yang jauh lebih cepat daripada kenaikan pendapatan premi membuat laba bersih perusahaan merosot tajam, dari Rp76,23 miliar pada sembilan bulan pertama 2025 menjadi hanya Rp8,53 miliar pada periode yang sama tahun ini, sehingga laba per saham ikut turun dari Rp26,07 menjadi Rp2,92. Arus kas dari aktivitas operasi berubah dari defisit Rp34,09 miliar pada 2025 menjadi defisit Rp313,12 miliar pada 2026. Untuk menambah kas, perusahaan menerima pinjaman baru dari pihak berelasi senilai Rp80 miliar sepanjang periode ini, sementara dividen yang dibayarkan turun dari Rp23,11 miliar menjadi Rp6,25 miliar. Di tengah semua perubahan itu, total ekuitas perusahaan relatif stabil di angka Rp410,40 miliar, naik tipis dari Rp408,12 miliar pada akhir 2025."
+  ],
+  "fotoAdegan": "Office worker sorting thick stacks of blurred paper folders on a cluttered desk, warm afternoon light, insurance claims office setting",
+  "takeaway": "Laporan ini condong negatif bagi MTWI karena inti bisnisnya, yaitu selisih antara premi yang diterima dan klaim yang dibayarkan, justru memburuk, laba bersih sembilan bulan tergerus hampir 90 persen dan arus kas dari kegiatan usahanya malah defisit sembilan kali lebih besar dibanding tahun lalu. Arus kas operasi menunjukkan apakah kegiatan usaha sehari hari menghasilkan uang tunai atau menyedotnya, dan di sini perusahaan harus menutup kekurangan kas dengan pinjaman baru dari pihak berelasi, bukan dari hasil usahanya sendiri. Laba per saham, yang menghitung berapa bagian laba perusahaan untuk setiap lembar saham yang dimiliki publik, turun dari Rp26,07 menjadi Rp2,92, sinyal bahwa kemampuan perusahaan mencetak laba bagi pemegang saham melemah jauh meski jumlah sahamnya tidak berubah. Penyusutan besar di sisi aset dan liabilitas sendiri lebih bersifat teknis karena berasal dari pelunasan utang reasuransi dan penerimaan premi, bukan tanda bahaya tersendiri. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, yang akan menunjukkan apakah lonjakan beban klaim ini berlanjut atau mereda setelah kuartal keempat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ptro-jelaskan-ke-bei-rencana-rights-issue-170-juta-saham-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "PTRO Jelaskan ke BEI Rencana Rights Issue 170 Juta Saham [HMETD]",
+  "deck": "Petrosea menjawab permintaan penjelasan BEI soal rencana rights issue, memastikan dilusi maksimal 1,66% dengan pembeli siaga PT Kreasi Jaya Persada.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T15:10:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2928a4f32c_7d411e0f0e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTRO",
+  "tags": [
+   "PTRO",
+   "Petrosea",
+   "rights issue",
+   "HMETD"
+  ],
+  "body": [
+   "PT Petrosea Tbk (PTRO) menyampaikan jawaban resmi kepada Bursa Efek Indonesia menanggapi surat BEI No. S-13403/BEI.PP1/10-2026 tanggal 26 Oktober 2026, yang meminta penjelasan dan kelengkapan dokumen atas rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD) atau rights issue. Surat jawaban bernomor CORSEC/L/2026/X-0151 itu disampaikan secara elektronik pada 29 Oktober 2026 dan ditandatangani oleh dua direktur Petrosea, Kartika Hendrawan dan Ruddy Santoso.",
+   "Dalam jawabannya, Petrosea menegaskan rencana menerbitkan saham baru sebanyak-banyaknya 170.000.000 lembar, setara maksimum 1,66 persen dari total modal ditempatkan dan disetor perseroan. Perusahaan mengklarifikasi bahwa angka dilusi yang berlaku adalah 1,66 persen, bukan 1,69 persen seperti yang sempat disebut dalam keterbukaan informasi sebelumnya. Rasio pembagian hak dan harga pelaksanaan rights issue ini sendiri belum ditetapkan, masih dikaji internal, dan baru akan diumumkan dalam Prospektus PMHMETD setelah mendapat restu pemegang saham lewat RUPS. Karena harga pelaksanaan belum final, perseroan juga belum bisa memastikan berapa dana yang akan terkumpul maupun rincian proyek dan nilai kontrak yang akan dibiayai dari dana tersebut.",
+   "Petrosea menyebut pembeli siaga untuk rights issue ini adalah PT Kreasi Jaya Persada, salah satu pemegang saham perseroan, dengan kemungkinan tambahan pembeli siaga lain yang akan diumumkan belakangan. Perusahaan juga menyatakan tidak memiliki negative covenant atau klausul pembatas dari kreditur yang bisa menghambat aksi korporasi ini. Soal free float, perseroan melaporkan jumlah saham free float saat ini mencapai 2.785.198.930 lembar atau 27,61 persen dari total 10.086.050.000 saham tercatat di bursa, jauh di atas batas minimum yang disyaratkan aturan bursa. Petrosea juga menegaskan tidak ada informasi atau fakta material lain yang berpotensi memengaruhi harga sahamnya yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Heavy mining excavator loading ore into a yellow haul truck at an open-pit mine, dusty daylight, distant hills",
+  "takeaway": "Laporan ini netral bagi Petrosea karena isinya sebagian besar menegaskan ulang rencana rights issue yang sudah diketahui sejak 15 Oktober, tanpa kepastian baru soal harga atau penggunaan dana, sementara batas dilusi yang dijanjikan, maksimal 1,66 persen, tergolong kecil. Yang tersentuh adalah jumlah saham beredar, yang bisa bertambah hingga 170 juta lembar sehingga laba per saham milik pemegang saham lama berpotensi terdilusi tipis karena keuntungan perusahaan nantinya dibagi ke lebih banyak lembar saham, sementara ekuitas berpotensi naik begitu dana rights issue cair. Free float yang masih sehat di 27,61 persen juga berarti tidak ada risiko perseroan melanggar aturan bursa soal porsi saham publik minimum. Yang perlu dipantau selanjutnya adalah RUPS yang harus menyetujui rencana ini serta pengajuan Prospektus PMHMETD ke OJK, dokumen yang baru akan mengungkap rasio, harga pelaksanaan, dan rincian penggunaan dana secara pasti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "miti-catat-rugi-rp1-45-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MITI Catat [Rugi] Rp1,45 Miliar di Kuartal III 2026",
+  "deck": "Laba bersih Mitra Investindo anjlok dari untung Rp7,5 miliar jadi rugi Rp1,45 miliar pada sembilan bulan pertama 2026, seiring pendapatan turun 11 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T14:56:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029151827-65040-0/FinancialStatement-2026-III-MITI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MITI",
+  "tags": [
+   "MITI",
+   "Mitra Investindo",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "Mitra Investindo Tbk (MITI) menyampaikan laporan keuangan interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Presiden Direktur Andreas Tanjadi dan Direktur Keuangan Ignatius Edy Suhardaya pada 28 Oktober 2026. Pendapatan perusahaan turun menjadi Rp151,31 miliar, dari Rp170,33 miliar pada periode yang sama tahun lalu. Laba bruto ikut tergerus dari Rp48,03 miliar menjadi Rp37,75 miliar, sementara beban usaha justru naik dari Rp35,53 miliar menjadi Rp39,20 miliar, sehingga perusahaan mencatat rugi usaha Rp1,45 miliar, berbalik dari laba usaha Rp12,50 miliar pada periode sebelumnya.",
+   "Sumbangan dari pendapatan keuangan, selisih kurs, dan keuntungan penjualan aset tetap sebesar total Rp4,77 miliar tidak cukup menutup rugi usaha, sehingga laba sebelum pajak hanya Rp2,73 miliar dan laba bersih konsolidasian turun tajam menjadi Rp175,6 juta, dari Rp10,96 miliar pada periode yang sama 2025. Karena sebagian laba itu adalah bagian pemegang saham minoritas di anak usaha, bagian yang menjadi hak pemilik entitas induk justru rugi Rp1,45 miliar, sehingga rugi bersih per saham dasar tercatat Rp0,39, berbalik dari laba Rp2,12 per saham setahun sebelumnya.",
+   "Di sisi posisi keuangan, jumlah aset naik menjadi Rp579,55 miliar dari Rp570,80 miliar, didorong kenaikan aset tetap menjadi Rp143,51 miliar dan aset eksplorasi menjadi Rp10,31 miliar. Jumlah liabilitas naik menjadi Rp67,90 miliar dari Rp57,80 miliar, terutama karena pinjaman bank jangka pendek baru sebesar Rp10 miliar yang sebelumnya nol. Jumlah saham kelas B yang beredar juga bertambah dari 3.420.735.503 menjadi 3.630.526.603 lembar, setelah uang muka setoran modal sebesar Rp59,81 miliar dikonversi menjadi modal disetor penuh, menambah modal saham Rp10,49 miliar dan tambahan modal disetor Rp49,32 miliar."
+  ],
+  "fotoAdegan": "Weathered cargo ship docked at an Indonesian port, workers loading steel containers under an overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi Mitra Investindo karena perusahaan berbalik dari untung menjadi rugi bersih pada sembilan bulan pertama 2026, dipicu pendapatan yang turun sementara beban usaha justru naik. Pos yang paling kena dampak adalah laba per saham, yaitu bagian untung atau rugi yang jadi hak setiap lembar saham pemegang saham publik, yang berubah dari positif Rp2,12 menjadi negatif Rp0,39 karena rugi mendarat di level induk usaha sementara laba anak usaha pelayaran mengalir ke pemegang saham minoritas. Jumlah saham beredar juga bertambah sekitar 210 juta lembar kelas B setelah uang muka setoran modal dikonversi jadi saham penuh, yang berarti laba ke depan akan terbagi ke lebih banyak lembar saham. Yang perlu dicermati selanjutnya adalah kinerja kuartal IV 2026 dan laporan tahunan auditan, karena laporan interim ini belum diaudit dan baru mencakup sembilan bulan sehingga belum menggambarkan hasil penuh tahun buku 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ypas-berbalik-untung-laba-bersih-rp31-6-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "YPAS Berbalik Untung, [Laba] Bersih Rp31,6 Miliar di Kuartal III",
+  "deck": "Yanaprima Hastapersada (YPAS) mencatat laba bersih Rp31,64 miliar pada sembilan bulan 2026, berbalik dari rugi Rp747,55 juta tahun sebelumnya, didorong lonjakan penjualan dan margin.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T14:53:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150838-64815-0/FinancialStatement-2026-III-YPAS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YPAS",
+  "tags": [
+   "YPAS",
+   "laporan keuangan",
+   "kemasan plastik",
+   "kinerja emiten"
+  ],
+  "body": [
+   "PT Yanaprima Hastapersada Tbk (YPAS), produsen karung plastik yang berpabrik di Sidoarjo, Jawa Timur, melaporkan penjualan bersih Rp327,85 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik dari Rp262,99 miliar pada periode yang sama tahun 2025. Laba bruto melonjak jadi Rp63,78 miliar dari sebelumnya Rp18,77 miliar. Perusahaan membalik posisi dari rugi usaha Rp476,05 juta menjadi laba usaha Rp41,48 miliar, dan laba bersih periode berjalan tercatat Rp31,64 miliar, berbanding rugi Rp747,55 juta pada sembilan bulan 2025. Laba per saham ikut berbalik dari minus Rp1,12 menjadi Rp47,36.",
+   "Di sisi posisi keuangan, total aset YPAS per 30 September 2026 naik menjadi Rp291,84 miliar dari Rp263,02 miliar di akhir 2025, sementara jumlah ekuitas bertambah dari Rp129,95 miliar menjadi Rp161,82 miliar, didorong saldo laba belum ditentukan penggunaannya yang naik dari Rp18,49 miliar menjadi Rp50,13 miliar. Utang bank jangka pendek dipangkas dari Rp59,6 miliar menjadi Rp40,6 miliar. Namun piutang usaha dari pihak berelasi melonjak dari Rp2,68 miliar menjadi Rp17,81 miliar, persediaan naik dari Rp59,05 miliar menjadi Rp78,89 miliar, dan kas serta setara kas justru menyusut dari Rp9,05 miliar menjadi Rp5,41 miliar.",
+   "Dari laporan arus kas, kas bersih dari aktivitas operasi tercatat Rp25,73 miliar, turun dari Rp36,48 miliar pada sembilan bulan 2025 meski laba naik tajam, karena sebagian dana tertahan di piutang dan persediaan yang membesar. Perusahaan juga membayar pajak kini Rp9,32 miliar sejalan dengan lonjakan laba, serta melunasi sebagian utang kepada pihak berelasi senilai Rp6 miliar. Jumlah karyawan tetap tercatat 16 orang per akhir September 2026, turun dari 17 orang di akhir 2025. Susunan direksi tetap dipegang Jap Irwan Susanto sebagai Direktur Utama dan Rinawati sebagai Direktur Keuangan, dengan Alexander Tanzil sebagai Komisaris Utama. Laporan ini tidak diaudit dan diotorisasi untuk terbit oleh direksi pada 29 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers monitoring rows of plastic sack weaving machines inside an industrial packaging factory hall, East Java",
+  "takeaway": "Laporan ini condong positif bagi YPAS karena laba bersihnya berbalik dari rugi Rp747,55 juta pada sembilan bulan 2025 menjadi untung Rp31,64 miliar pada periode yang sama tahun ini, sementara utang bank jangka pendek justru dipangkas dari Rp59,6 miliar menjadi Rp40,6 miliar. Yang paling terasa adalah laba per saham, yakni keuntungan yang didapat untuk setiap satu lembar saham yang beredar, yang melonjak dari minus Rp1,12 menjadi Rp47,36, sekaligus menambah modal sendiri perusahaan (ekuitas) dari Rp129,95 miliar menjadi Rp161,82 miliar. Namun arus kas dari kegiatan operasional, yaitu uang tunai yang benar-benar masuk dari bisnis sehari-hari, justru turun jadi Rp25,73 miliar dari Rp36,48 miliar tahun lalu, karena sebagian keuntungan di atas kertas itu tertahan dalam bentuk piutang pihak berelasi yang melonjak enam kali lipat menjadi Rp17,81 miliar dan persediaan yang naik ke Rp78,89 miliar. Yang perlu dipantau berikutnya adalah apakah piutang itu benar-benar tertagih dan apakah tren pemulihan laba ini masih berlanjut pada laporan kuartal IV dan laporan tahunan teraudit yang akan menyusul setelah periode ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "gema-rugi-rp13-97-miliar-di-kuartal-iii-2026-eps-negatif",
+  "category": "Aksi Korporasi",
+  "title": "GEMA [Rugi] Rp13,97 Miliar di Kuartal III 2026, EPS Negatif",
+  "deck": "GEMA membukukan rugi bersih Rp13,97 miliar pada 9 bulan pertama 2026, berbalik dari laba Rp5,29 miliar tahun sebelumnya, akibat beban lain-lain dan bunga yang melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T14:52:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150818-65029-0/FinancialStatement-2026-III-GEMA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GEMA",
+  "tags": [
+   "GEMA",
+   "laporan keuangan",
+   "rugi bersih",
+   "emiten furnitur"
+  ],
+  "body": [
+   "PT Gema Grahasarana Tbk (GEMA), perusahaan interior dan furnitur yang menaungi merek Vivere, menyampaikan laporan keuangan konsolidasian tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia. Surat bernomor 061/S-Corsec/GEMA/X/2026 itu diteken Direktur Ilda Imelda pada 29 Oktober 2026. Pendapatan perusahaan tercatat Rp1,07 triliun, naik dari Rp1,04 triliun pada periode yang sama tahun 2025, tetapi laba kotornya justru turun dari Rp267,94 miliar menjadi Rp251,17 miliar karena beban pokok pendapatan naik lebih cepat dari penjualan.",
+   "Setelah dikurangi beban penjualan, beban umum dan administrasi, serta beban lain-lain dan biaya bunga yang melonjak, perusahaan akhirnya membukukan rugi bersih Rp13,97 miliar untuk sembilan bulan pertama 2026, berbalik dari laba bersih Rp5,29 miliar pada periode yang sama tahun sebelumnya. Beban lain-lain naik tajam dari Rp4,46 miliar menjadi Rp16,66 miliar, sementara beban keuangan atau bunga pinjaman naik dari Rp27,72 miliar menjadi Rp32,37 miliar. Rugi bersih yang menjadi bagian pemegang saham induk tercatat Rp13,94 miliar, membuat laba per saham dasar berbalik dari positif Rp3,17 menjadi negatif Rp8,72 per saham.",
+   "Pada sisi aset, total aset GEMA naik menjadi Rp1,22 triliun per 30 September 2026 dari Rp1,18 triliun di akhir 2025, sementara jumlah ekuitas turun dari Rp439,23 miliar menjadi Rp419,36 miliar. Utang bank jangka pendek bertambah dari Rp335,43 miliar menjadi Rp372,94 miliar, dan total liabilitas naik dari Rp741,70 miliar menjadi Rp796,20 miliar. Meski rugi, kas dan setara kas perusahaan justru bertambah dari Rp34,35 miliar menjadi Rp63,15 miliar karena arus kas dari aktivitas pendanaan berbalik positif Rp3,41 miliar, terutama dari penarikan utang bank baru. Perusahaan juga membayar dividen Rp3,18 miliar kepada pemegang saham selama periode ini, lebih rendah dari Rp4,8 miliar yang dibayarkan pada periode yang sama tahun lalu.",
+   "Laporan ini juga memuat rincian tiga entitas anak utama Perseroan: PT Prasetya Gemamulia, distributor komponen interior dan furnitur dengan aset Rp188,45 miliar dan kepemilikan GEMA 99 persen; PT Laminatech Kreasi Sarana, perdagangan bahan laminasi interior dengan aset Rp13,91 miliar dan kepemilikan 99,75 persen; serta PT Vivere Multi Kreasi, perdagangan perabotan rumah dan kantor dengan aset Rp314,67 miliar dan kepemilikan 99,97 persen."
+  ],
+  "fotoAdegan": "Workers assembling modern office furniture panels inside an Indonesian manufacturing warehouse, stacked materials, overhead industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi GEMA, karena meski pendapatan naik tipis, kinerja labanya justru berbalik dari untung menjadi rugi dan nilai kekayaan bersih ikut menyusut. Yang paling kena imbas adalah ekuitas, yakni selisih aset dikurangi utang yang jadi hak pemegang saham, yang turun dari Rp439,23 miliar menjadi Rp419,36 miliar, serta laba per saham yang berbalik dari positif Rp3,17 menjadi negatif Rp8,72, angka yang dipakai investor untuk membandingkan untung tiap lembar saham antarperiode. Beban bunga pinjaman bank juga naik dari Rp27,72 miliar menjadi Rp32,37 miliar, tanda utang berbunga perusahaan membesar di tengah penjualan yang hanya tumbuh tipis. Di sisi lain kas perusahaan justru bertambah banyak berkat pinjaman bank baru, jadi perusahaan tidak kekurangan uang tunai meski labanya negatif. Yang perlu dipantau berikutnya adalah laporan kuartal IV atau laporan tahunan 2026, yang akan menunjukkan apakah tren rugi pada sembilan bulan pertama ini berlanjut atau terbalik menjadi untung lagi di akhir tahun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wiim-laba-bersih-melonjak-74-jadi-rp496-miliar-di-q3-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIIM: Laba Bersih [Melonjak] 74% jadi Rp496 Miliar di Q3 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih WIIM naik 74 persen menjadi Rp496,22 miliar, didorong efisiensi beban usaha dan turunnya beban bunga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T14:49:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150334-65247-0/FinancialStatement-2026-III-WIIM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIIM",
+  "tags": [
+   "WIIM",
+   "laporan keuangan",
+   "kinerja emiten",
+   "industri rokok"
+  ],
+  "body": [
+   "PT Wismilak Inti Makmur Tbk (WIIM) menyampaikan laporan keuangan interim tidak diaudit untuk sembilan bulan yang berakhir 30 September 2026. Penjualan neto tercatat Rp5,07 triliun, naik dari Rp4,61 triliun pada periode yang sama tahun lalu. Laba bersih yang bisa diatribusikan ke pemilik perusahaan melonjak 74 persen, dari Rp285,08 miliar menjadi Rp496,22 miliar, sehingga laba per saham naik dari Rp137,28 menjadi Rp237,58.",
+   "Kenaikan laba ini bukan cuma soal penjualan yang bertambah. Laba kotor naik 21 persen menjadi Rp1,21 triliun, sementara total beban usaha justru turun dari Rp620,90 miliar menjadi Rp575,67 miliar, terutama karena beban penjualan berkurang dari Rp413,85 miliar menjadi Rp361,37 miliar. Laba usaha pun melompat 67,6 persen menjadi Rp637,69 miliar. Beban bunga juga berkurang hampir separuh, dari Rp19,12 miliar menjadi Rp8,08 miliar, seiring utang bank jangka pendek yang dipangkas dari Rp319 miliar menjadi Rp185 miliar. Arus kas dari kegiatan operasi naik dari Rp303,21 miliar menjadi Rp493,65 miliar.",
+   "Di sisi lain, total liabilitas naik 22,6 persen atau Rp223,97 miliar menjadi Rp1,21 triliun. Dalam surat penjelasan resmi ke OJK dan BEI, direksi WIIM menyebut kenaikan ini terutama berasal dari utang usaha kepada Kantor Pengawasan dan Pelayanan Bea dan Cukai yang bertambah Rp280,78 miliar, terkait pembelian pita cukai rokok. Persediaan perusahaan juga membesar dari Rp1,83 triliun menjadi Rp2,06 triliun. Sepanjang periode ini WIIM membagikan dividen kas Rp217,87 miliar, lebih besar dari Rp134,51 miliar pada periode yang sama tahun sebelumnya. Surat pernyataan direksi ditandatangani Direktur Utama Ronald Walla dan Direktur Lucas Firman Djajanto pada 27 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers sorting dried tobacco leaves inside a large warehouse storage facility, soft morning light through high windows",
+  "takeaway": "Laporan ini condong positif bagi WIIM karena laba bersih melonjak 74 persen dan arus kas dari operasi naik signifikan, sementara utang bank jangka pendek malah berkurang, tanda bisnis intinya makin efisien, bukan sekadar untung di atas kertas. Pos yang tersentuh adalah laba per saham, yakni bagian laba yang jadi hak tiap lembar saham, yang naik dari Rp137,28 menjadi Rp237,58, serta arus kas operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan jual beli rokok, yang biasa dipakai investor untuk mengecek apakah laba di atas kertas itu benar-benar berbentuk uang. Kenaikan utang usaha ke Bea dan Cukai sebesar Rp280,78 miliar yang mendorong total liabilitas naik 22,6 persen bukan sinyal tekanan keuangan, melainkan pembelian pita cukai rokok yang memang jadi pos besar musiman bagi produsen rokok. Yang perlu dipantau berikutnya adalah apakah kenaikan margin dan laba ini berlanjut di laporan keuangan tahunan teraudit yang biasanya terbit sebelum akhir Maret 2027, mengingat angka kuartal ini masih belum diaudit.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "kdsi-liabilitas-melonjak-34-5-imbas-pinjaman-bank-baru",
   "category": "Aksi Korporasi",
   "title": "KDSI: Liabilitas Melonjak 34,5% Imbas [Pinjaman] Bank Baru",

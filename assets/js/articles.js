@@ -3,6 +3,190 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "suni-laba-bersih-turun-19-jadi-rp117-7-miliar-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "SUNI: Laba Bersih [Turun] 19% Jadi Rp117,7 Miliar di 9M26",
+  "deck": "Penjualan dan laba bersih Sunindo Pratama (SUNI) turun dua digit pada sembilan bulan 2026, meski arus kas operasional dan ekuitas perusahaan justru menguat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T11:14:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029112938-65000-0/FinancialStatement-2026-III-SUNI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUNI",
+  "tags": [
+   "SUNI",
+   "laporan keuangan",
+   "kinerja kuartalan",
+   "pipa baja"
+  ],
+  "body": [
+   "PT Sunindo Pratama Tbk (SUNI) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan pada 28 Oktober 2026. Perusahaan yang bergerak di industri pipa baja ini mencatat penjualan Rp528,55 miliar selama sembilan bulan, turun sekitar 26 persen dari Rp714,77 miliar pada periode yang sama tahun 2025. Laba bersih periode berjalan ikut turun sekitar 19 persen, dari Rp145,98 miliar menjadi Rp117,71 miliar, sehingga laba per saham dasar turun dari Rp60,13 menjadi Rp48,94 per lembar.",
+   "Di tengah penurunan penjualan itu, arus kas bersih dari aktivitas operasi justru naik dari Rp103,75 miliar pada sembilan bulan 2025 menjadi Rp167,50 miliar pada periode yang sama tahun ini. Kas dan setara kas perusahaan per akhir September 2026 tercatat Rp139,34 miliar, naik dari Rp115,28 miliar pada akhir 2025. Sepanjang periode ini perusahaan membagikan dividen kas Rp25 miliar, separuh dari Rp50 miliar yang dibagikan pada periode yang sama tahun lalu, serta melunasi cicilan utang bank Rp25,2 miliar. Total ekuitas naik dari Rp863,13 miliar menjadi Rp955,81 miliar, sementara total liabilitas turun dari Rp255,25 miliar menjadi Rp247,38 miliar, dengan utang bank jangka panjang turun dari Rp151,70 miliar menjadi Rp126,02 miliar.",
+   "Pemegang saham pengendali Sunindo Pratama adalah Soe To Tie Lin, perseorangan warga negara Indonesia yang juga menjabat Komisaris Utama, didampingi Harry Wiguna sebagai Komisaris Independen. Direksi perusahaan dipimpin Willy Johan Chandra sebagai Direktur Utama bersama Freddy Soejandy sebagai Direktur. Perusahaan mengonsolidasikan dua entitas anak di sektor manufaktur, yaitu PT Rainbow Tubulars Manufacture di Batam dengan kepemilikan 99,96 persen dan total aset Rp933,47 miliar, serta PT Petro Synergy Manufacturing di Jakarta dengan kepemilikan 60 persen dan total aset Rp37,62 miliar."
+  ],
+  "fotoAdegan": "Workers inspecting rows of large steel pipes on a factory production line, overhead crane visible, industrial warehouse lighting",
+  "takeaway": "Redaksi menilai laporan kinerja sembilan bulan ini negatif bagi Sunindo Pratama, sebab penjualannya turun sekitar 26 persen dan laba bersihnya turun sekitar 19 persen dibanding periode yang sama tahun lalu. Laba per saham, yaitu bagian keuntungan yang secara teori menjadi hak atas satu lembar saham yang dimiliki investor, ikut turun dari Rp60,13 menjadi Rp48,94, sehingga nilai yang mewakili tiap lembar saham mengecil meski perusahaan masih mencetak laba besar. Namun arus kas dari kegiatan operasi, yaitu uang tunai yang benar-benar diterima dari penjualan dan kegiatan bisnis sehari-hari, justru menguat dari Rp103,75 miliar menjadi Rp167,50 miliar, pertanda kas perusahaan sebenarnya makin kuat meski penjualannya melambat. Modal sendiri perusahaan atau ekuitas juga naik dari Rp863,13 miliar menjadi Rp955,81 miliar sementara total utangnya berkurang, menambah bantalan keuangan perusahaan. Yang perlu dipantau berikutnya adalah laporan keuangan audit untuk tahun penuh 2026, karena laporan kali ini masih berstatus tidak diaudit dan baru mencakup sembilan bulan pertama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "gtsi-pastikan-tak-ada-aksi-korporasi-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "GTSI Pastikan Tak Ada Aksi Korporasi di Balik [Volatilitas] Saham",
+  "deck": "BEI meminta penjelasan GTSI atas volatilitas transaksi sahamnya. Perseroan menjawab tidak ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T10:52:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c6561a962d_f3e783c4e9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTSI",
+  "tags": [
+   "GTSI",
+   "volatilitas transaksi",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT GTS Internasional Tbk (GTSI) menanggapi permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi efeknya, yang disampaikan BEI melalui surat nomor S-13331/BEI.PP2/10-2026 tertanggal 22 Oktober 2026. GTSI menerima surat tersebut lewat Sistem Pelaporan Elektronik Terintegrasi (SPE-IDXNet) pada 22 Oktober 2026 pukul 15.04 WIB, dan menyampaikan tanggapan resminya pada 29 Oktober 2026 pukul 10.52 WIB melalui surat nomor 682/EXT-GTSI/X/2026 yang ditandatangani Direktur Utama Yon Irawan.",
+   "Dalam tanggapannya, GTSI menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efeknya, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi dan Peraturan BEI Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu yang diatur dalam POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham. Soal rencana tindakan korporasi, GTSI menegaskan hingga tanggal tanggapan ini belum ada rencana aksi korporasi yang berdampak pada pencatatan sahamnya di bursa setidaknya dalam tiga bulan mendatang.",
+   "GTSI menambahkan bahwa seluruh informasi strategis terkait perkembangan usahanya telah diungkapkan kepada publik sesuai aturan keterbukaan informasi dan melalui berbagai media massa. Terkait rencana pemegang saham utama, Corporate Secretary Ervan Saropie menyampaikan bahwa berdasarkan informasi yang diterima perseroan, pemegang saham pengendali saat ini belum memiliki rencana aksi korporasi atas kepemilikan sahamnya di GTSI."
+  ],
+  "fotoAdegan": "Blurred motion of people walking through a glass-walled corporate office lobby in Jakarta's business district, midday light",
+  "takeaway": "Laporan ini netral bagi fundamental GTSI, karena isinya hanya penegasan bahwa tidak ada informasi baru, bukan konfirmasi atas aksi korporasi apa pun yang bisa mengubah nilai perusahaan. Yang disinggung di sini adalah kemungkinan penambahan jumlah saham beredar lewat aksi korporasi dan kepastian soal siapa pengendali perseroan, dua hal yang biasa memengaruhi laba per saham dan hak suara pemegang saham lama, namun GTSI menegaskan keduanya belum punya rencana sama sekali. Permintaan penjelasan dari BEI sendiri menandakan harga atau volume transaksi saham GTSI sempat bergerak di luar kebiasaan hingga memicu pengawasan bursa, meski penyebab pastinya tidak terungkap dalam dokumen ini. Yang perlu dipantau pembaca adalah apakah GTSI akan mengeluarkan keterbukaan informasi baru jika volatilitas sahamnya berlanjut, atau jika rencana korporasi yang saat ini disebut tidak ada berubah dalam jangka tiga bulan ke depan sebagaimana disebut dalam jawaban perseroan ke BEI.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "laba-sola-anjlok-90-di-kuartal-iii-2026-kas-menipis",
+  "category": "Aksi Korporasi",
+  "title": "Laba [SOLA] Anjlok 90% di Kuartal III 2026, Kas Menipis",
+  "deck": "Pendapatan Xolare RCR Energy turun 40 persen dan arus kas operasi berbalik negatif, meski total utang perusahaan ikut turun hampir 30 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T10:37:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029104948-64862-0/FinancialStatement-2026-III-SOLA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOLA",
+  "tags": [
+   "SOLA",
+   "laporan keuangan",
+   "konstruksi",
+   "arus kas"
+  ],
+  "body": [
+   "PT Xolare RCR Energy Tbk (SOLA), produsen bitumen dan aspal yang juga bergerak di konstruksi dan ketenagalistrikan, menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan pada 28 Oktober 2026. Laporan yang ditandatangani Direktur Utama Mochamad Bhadaiwi dan Direktur Keuangan Hasnan Riswandi ini mencatat pendapatan perusahaan turun 40,3 persen, dari Rp172,34 miliar pada sembilan bulan pertama 2025 menjadi Rp102,99 miliar pada periode yang sama tahun ini. Laba kotor ikut tergerus dari Rp47,47 miliar menjadi Rp22,44 miliar, dan laba bersih yang menjadi hak pemegang saham anjlok sekitar 90,5 persen, dari Rp21,69 miliar menjadi hanya Rp2,05 miliar. Akibatnya, laba per saham turun dari Rp6,60 menjadi Rp0,62.",
+   "Dari sisi kas, posisi kas dan bank Xolare merosot tajam dari Rp16,35 miliar pada akhir Desember 2025 menjadi Rp2,48 miliar pada akhir September 2026. Arus kas dari kegiatan operasi, yang menggambarkan uang tunai yang benar-benar dihasilkan dari bisnis inti perusahaan, berbalik menjadi negatif Rp2,66 miliar, padahal pada periode yang sama tahun lalu masih positif Rp52,70 miliar. Perusahaan juga membukukan arus kas negatif Rp8,85 miliar dari kegiatan investasi dan negatif Rp2,36 miliar dari kegiatan pendanaan, dibandingkan tahun lalu yang masih mencatat arus kas pendanaan positif Rp14,22 miliar.",
+   "Dalam surat terpisah bertanggal 28 Oktober 2026, manajemen menjelaskan kepada OJK bahwa total liabilitas konsolidasian turun Rp34,75 miliar atau 29,64 persen, dari Rp117,22 miliar per akhir Desember 2025 menjadi Rp82,47 miliar per akhir September 2026. Penurunan ini terutama berasal dari realisasi liabilitas kontrak dengan PT Servo Lintas Raya senilai Rp30,69 miliar, yang diikuti penambahan liabilitas kontrak baru hanya Rp37,9 juta dengan PT Pendawa Lima, pembayaran utang bank BRI Rp9,09 miliar, serta pelunasan sebagian utang pembiayaan konsumen Rp6,73 miliar. Penurunan tersebut sebagian diimbangi oleh kenaikan utang lain-lain dengan PT Karunia Multi Finance sebesar Rp7,82 miliar dan beban yang masih harus dibayar senilai sekitar Rp4 miliar. Di sisi ekuitas, jumlah saham beredar Xolare bertambah dari 3.284.500.000 menjadi 3.287.375.000 saham melalui program kepemilikan saham karyawan (MESOP), yang menambah modal disetor perusahaan sebesar Rp347,88 juta."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting large bitumen storage tanks at an industrial plant, steam rising, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental Xolare RCR Energy, karena pendapatan dan laba bersih merosot tajam dibanding periode sama tahun lalu, kas perusahaan menipis drastis, dan arus kas dari kegiatan operasi berubah jadi negatif. Pos yang tersentuh adalah laba per saham, yaitu bagian laba yang secara teoritis menjadi hak tiap lembar saham, yang turun dari Rp6,60 menjadi Rp0,62, serta arus kas operasi yang menggambarkan apakah bisnis inti perusahaan menghasilkan uang tunai sendiri atau justru menyedot kas, dan kali ini hasilnya negatif Rp2,66 miliar padahal tahun lalu masih positif Rp52,70 miliar. Penurunan total utang sebesar 29,64 persen juga tidak sepenuhnya mencerminkan perbaikan, sebab sebagian besar berasal dari pengakuan uang muka proyek yang sudah dibayar pelanggan lebih dulu sebagai pendapatan, bukan dari pelunasan utang berbunga atas inisiatif perusahaan sendiri. Yang perlu dipantau berikutnya adalah apakah Xolare bisa mendapat kontrak pengganti yang sepadan, karena proyek besar dengan PT Servo Lintas Raya yang baru saja dirampungkan hanya digantikan kontrak baru senilai Rp37,9 juta dengan PT Pendawa Lima, dan dampaknya baru akan terlihat jelas pada laporan kuartal keempat 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "glob-laba-kuartal-iii-anjlok-96-ekuitas-masih-negatif",
+  "category": "Aksi Korporasi",
+  "title": "GLOB: [Laba] Kuartal III Anjlok 96%, Ekuitas Masih Negatif",
+  "deck": "Laba GLOB turun 96% jadi Rp53 juta pada sembilan bulan 2026, dari Rp1,34 miliar setahun sebelumnya, sementara ekuitas perusahaan masih minus Rp1,2 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T10:23:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029103751-65293-0/FinancialStatement-2026-III-GLOB.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GLOB",
+  "tags": [
+   "GLOB",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "watchlist"
+  ],
+  "body": [
+   "PT Globe Kita Terang Tbk (GLOB), dahulu bernama PT Global Teleshop Tbk, melaporkan laba bersih Rp53,26 juta untuk periode sembilan bulan yang berakhir 30 September 2026, turun tajam 96 persen dibandingkan Rp1,34 miliar pada periode yang sama tahun 2025. Pendapatan bersih perusahaan ritel elektronik ini juga turun dari Rp39,62 miliar menjadi Rp30,24 miliar, sedangkan laba usaha merosot dari Rp1,34 miliar menjadi hanya Rp59 juta akibat naiknya beban umum dan administrasi serta turunnya pendapatan lain-lain. Laba per saham dasar ikut turun dari Rp1,20 menjadi Rp0,05.",
+   "Dari sisi posisi keuangan, GLOB masih mencatat defisiensi modal alias ekuitas negatif sebesar Rp1,203 triliun per akhir September 2026, hanya membaik tipis dari minus Rp1,203 triliun pada akhir 2025. Total aset perusahaan hanya Rp3,63 miliar, jauh lebih kecil dibandingkan total liabilitas yang mencapai Rp1,207 triliun. Komponen liabilitas terbesar adalah beban akrual jangka pendek Rp516,32 miliar, utang usaha kepada pihak berelasi Rp214,04 miliar, dan bagian utang bank jangka panjang yang jatuh tempo dalam satu tahun sebesar Rp450,38 miliar. Saham GLOB saat ini tercatat di papan pemantauan khusus atau watchlist Bursa Efek Indonesia.",
+   "Kas dan setara kas perusahaan naik dari Rp280,82 juta menjadi Rp563,65 juta, ditopang arus kas dari aktivitas operasi yang positif Rp7,27 miliar. Selama sembilan bulan ini, GLOB membayar cicilan utang bank Rp6,9 miliar dan utang pembiayaan konsumen Rp87,39 juta, tanpa ada aktivitas investasi berarti. Laporan keuangan interim ini bersifat tidak diaudit dan ditandatangani Direktur Utama Sugiono Wyono Sugialam serta Direktur Djoko Harijanto pada 28 Oktober 2026, sesuai kewajiban keterbukaan informasi kuartalan Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Shoppers browsing mobile phones and accessories at a small electronics retail counter, warm indoor lighting, blurred background",
+  "takeaway": "Laporan ini condong negatif bagi GLOB, karena pendapatan dan laba inti perusahaan sama-sama turun tajam dibanding tahun lalu, sementara struktur keuangannya tetap rapuh. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan, yang masih minus Rp1,203 triliun, artinya kalau seluruh aset dijual pun tidak akan cukup menutup utangnya, sehingga penurunan laba per saham dari Rp1,20 menjadi Rp0,05 jadi tanda tambahan bahwa tekanan keuangan belum reda. Sisi baiknya, kas perusahaan naik dan arus kas dari kegiatan operasional masih positif, menunjukkan bisnis ritelnya belum berhenti menghasilkan uang tunai meski kecil. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan teraudit 2026, yang akan menunjukkan apakah tren penurunan pendapatan ini berlanjut, serta evaluasi status papan pemantauan khusus GLOB di Bursa Efek Indonesia.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cdia-bukukan-pendapatan-us-122-juta-ebitda-naik-65",
+  "category": "Aksi Korporasi",
+  "title": "CDIA Bukukan Pendapatan US$122 Juta, [EBITDA] Naik 65%",
+  "deck": "Pendapatan CDI tumbuh 16% dan EBITDA 65% secara tahunan pada 9M2026, didukung aset baru di segmen air, pelabuhan, dan logistik serta dividen interim US$10 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T10:21:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/050780058b_ccaf1844b2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CDIA",
+  "tags": [
+   "CDIA",
+   "Chandra Daya Investasi",
+   "kinerja keuangan",
+   "infrastruktur maritim"
+  ],
+  "body": [
+   "PT Chandra Daya Investasi Tbk (CDIA) membukukan pendapatan US$122,0 juta dan EBITDA US$49,9 juta untuk sembilan bulan pertama 2026, masing-masing tumbuh 16 persen dan 65 persen dibanding periode yang sama tahun lalu. Marjin EBITDA terjaga di 41 persen. Pelanggan pihak ketiga menyumbang sekitar 80 persen dari total pendapatan, dan lebih dari 90 persen pendapatan berasal dari kontrak jangka panjang. Laba bersih tercatat US$32,2 juta, namun perusahaan menyebut perbandingan dengan tahun lalu terpengaruh oleh keuntungan dari penyesuaian nilai wajar aset yang dibukukan pada periode yang sama tahun sebelumnya.",
+   "Dari sisi penggunaan dana hasil penawaran umum, seluruh dana yang dialokasikan untuk investasi kapal sudah terpakai penuh di dalam grup per 30 September 2026, sementara dana untuk proyek kepelabuhanan dan penyimpanan baru terealisasi 65 persen, dengan target proyek mulai beroperasi komersial pada 2027. Di segmen air, perusahaan meresmikan Instalasi Pengolahan Air Krenceng II berkapasitas 600 liter per detik di Cilegon pada Agustus 2026. Di segmen kepelabuhanan dan penyimpanan, anak usaha PT Redeco Petrolin Utama meresmikan fasilitas penyimpanan bitumen baru di Merak pada 23 Oktober 2026 berkapasitas 12.000 meter kubik, terdiri dari tiga tangki masing-masing 3.000, 4.000, dan 5.000 meter kubik, sehingga total kapasitas penyimpanan RPU naik dari 130.000 menjadi 142.000 meter kubik dengan total 75 tangki.",
+   "Di segmen logistik, kapal kimia cair Boreas dan Novah berkapasitas 9.000 DWT masing-masing mulai beroperasi pada 1 Juli 2026 dan bersandar perdana pada 12 Mei 2026, melayani rute Tiongkok, Thailand, dan Indonesia. Konsolidasi PT Elpi Trans Cargo menambah kapal tug-and-barge untuk dry bulk serta kapal pendukung lepas pantai Elara Dalimbar 1, yang disebut sebagai kapal berbendera Indonesia pertama dengan klasifikasi DP Class III. CDI juga menanamkan US$90 juta untuk kepemilikan 40 persen saham di PT Armada Maritim Persada, memperluas eksposur ke logistik pertambangan dan pengelolaan pelabuhan. Per 30 September 2026, perusahaan memiliki likuiditas US$747,9 juta dan telah membagikan dividen interim US$10,0 juta untuk semester pertama 2026.",
+   "Perusahaan juga menjajaki kerja sama lewat anak usaha PT SCG Barito Logistics yang menandatangani nota kesepahaman dengan PT Krakatau Bandar Samudera untuk layanan penyimpanan ISO tank, dry container, dan bongkar muat lift-on/lift-off di Krakatau International Port."
+  ],
+  "fotoAdegan": "A chemical liquid tanker vessel docked at a busy Indonesian port, storage tanks and cranes in the background, overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi CDI karena pendapatan dan EBITDA tumbuh dua digit hingga puluhan persen secara tahunan, marjin operasional terjaga di 41 persen, dan dana IPO untuk kapal sudah terpakai penuh sementara dana kepelabuhanan sudah terpakai 65 persen. Yang perlu dicermati adalah laba bersih US$32,2 juta yang disebut perusahaan sendiri tidak sebanding apa adanya dengan tahun lalu, karena periode sebelumnya mendapat tambahan keuntungan dari penyesuaian nilai wajar aset yang sifatnya pembukuan, bukan dari operasi inti. EBITDA, yakni laba usaha sebelum dipotong bunga, pajak, dan penyusutan nilai aset, dipakai pelaku pasar untuk melihat kemampuan bisnis inti menghasilkan kas, dan pertumbuhan 65 persen itu lebih mencerminkan kontribusi aset baru seperti kapal dan fasilitas penyimpanan ketimbang faktor akuntansi sesaat. Dengan likuiditas US$747,9 juta yang masih tersisa, hal yang pantas dipantau selanjutnya adalah progres realisasi sisa dana kepelabuhanan dan penyimpanan menuju target operasi komersial pada 2027 yang disebut dalam laporan ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tifa-laba-bersih-turun-3-9-jadi-rp41-8-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "TIFA: Laba Bersih [Turun] 3,9% Jadi Rp41,8 Miliar di Kuartal III",
+  "deck": "Laba bersih KDB Tifa Finance turun 3,9% jadi Rp41,78 miliar pada sembilan bulan 2026, sementara pinjaman yang ditarik perusahaan melonjak signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T10:15:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029101801-64955-0/FinancialStatement-2026-III-TIFA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TIFA",
+  "tags": [
+   "TIFA",
+   "KDB Tifa Finance",
+   "laporan keuangan",
+   "pembiayaan"
+  ],
+  "body": [
+   "KDB Tifa Finance Tbk (TIFA) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK dan Bursa Efek Indonesia pada 29 Oktober 2026. Laporan ini ditandatangani Presiden Direktur Cho Jaeseong dan Direktur Eun Seonghyuk pada 27 Oktober 2026. Perusahaan pembiayaan ini mencatat laba bersih Rp41,78 miliar, turun 3,9 persen dibanding periode yang sama tahun lalu sebesar Rp43,49 miliar. Laba per saham ikut turun dari Rp12,24 menjadi Rp11,76, sementara jumlah pendapatan hanya naik tipis 1,1 persen dari Rp132,16 miliar menjadi Rp133,60 miliar, kalah cepat dari kenaikan beban yang mencapai 4,4 persen menjadi Rp80,28 miliar.",
+   "Dari sisi aset, jumlah aset TIFA naik 8,1 persen menjadi Rp2,21 triliun dari Rp2,04 triliun per akhir 2025, didorong oleh kenaikan piutang investasi sewa pembiayaan pihak ketiga dari Rp1,65 triliun menjadi Rp1,81 triliun. Untuk membiayai ekspansi ini, perusahaan menambah pinjaman yang diterima dari pihak ketiga sebesar 26,1 persen, dari Rp564,74 miliar menjadi Rp712,34 miliar, serta pinjaman dari pihak berelasi yang naik dari Rp167,82 miliar menjadi Rp179,98 miliar. Akibatnya, jumlah liabilitas melonjak 16,7 persen menjadi Rp959,66 miliar, jauh lebih cepat dibanding pertumbuhan ekuitas yang hanya naik 2,3 persen menjadi Rp1,25 triliun. Kas dan setara kas juga melonjak tajam dari Rp12,36 miliar menjadi Rp164,59 miliar.",
+   "Sejumlah rasio keuangan yang dilaporkan perusahaan turut memburuk. Imbal hasil aset atau ROA turun dari 4,31 persen menjadi 3,75 persen, dan imbal hasil ekuitas atau ROE turun dari 5,49 persen menjadi 4,55 persen. Rasio beban operasional terhadap pendapatan operasional memburuk dari 58,96 persen menjadi 61,07 persen, sementara gearing ratio, yaitu perbandingan utang terhadap modal sendiri, naik dari 0,60 kali menjadi 0,72 kali. Di sisi lain, rasio permodalan perusahaan justru menguat dari 97,36 persen menjadi 105,14 persen."
+  ],
+  "fotoAdegan": "Rows of brand new motorcycles and trucks parked in a dealership yard waiting for lease financing paperwork, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi TIFA: aset dan pembiayaan sewa memang tumbuh, tapi laba bersih, laba per saham, dan dua rasio profitabilitas utamanya justru turun, sementara utang bertambah jauh lebih cepat dari modal sendiri. Yang tersentuh di sini adalah laba per saham, yakni bagian laba yang secara matematis menjadi hak setiap lembar saham, yang turun dari Rp12,24 menjadi Rp11,76; ROE, yakni seberapa besar laba yang dihasilkan dari setiap rupiah modal pemegang saham, yang turun jadi 4,55 persen; dan gearing ratio, yakni perbandingan utang terhadap modal sendiri, yang naik ke 0,72 kali, artinya perusahaan makin mengandalkan utang untuk membiayai bisnisnya. Pelaku pasar memperhatikan kombinasi ini karena utang yang tumbuh lebih cepat dari modal, ditambah beban yang naik lebih cepat dari pendapatan, bisa menggerus laba lebih jauh kalau berlanjut. Penyeimbangnya, rasio permodalan perusahaan justru menguat dan kas tunai melonjak tajam, jadi bukan sinyal tekanan likuiditas. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan 2026, untuk melihat apakah tren penurunan laba dan rasio profitabilitas ini hanya sementara atau berlanjut sepanjang tahun, mengingat laporan kali ini masih berstatus tidak diaudit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "csis-kantongi-rp198-7-miliar-dari-rights-issue-laba-naik-24",
+  "category": "Aksi Korporasi",
+  "title": "CSIS Kantongi Rp198,7 Miliar dari [Rights Issue], Laba Naik 24%",
+  "deck": "Kas CSIS melonjak hampir 19 kali lipat dalam sembilan bulan setelah perseroan menerima dana rights issue Rp198,7 miliar, sementara laba bersih naik 24 persen menjadi Rp30,6 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T10:05:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029101554-64781-0/FinancialStatement-2026-III-CSIS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSIS",
+  "tags": [
+   "CSIS",
+   "rights issue",
+   "laporan keuangan",
+   "properti"
+  ],
+  "body": [
+   "PT Cahayasakti Investindo Sukses Tbk (CSIS) melaporkan kinerja keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perseroan tercatat Rp85,08 miliar, naik dari Rp69,41 miliar pada periode yang sama tahun lalu. Laba kotor naik dari Rp40,09 miliar menjadi Rp56,77 miliar, sementara laba bersih konsolidasian naik 24,4 persen dari Rp24,61 miliar menjadi Rp30,63 miliar. Dari jumlah itu, bagian yang menjadi hak pemegang saham induk sebesar Rp16,98 miliar, naik dari Rp12,44 miliar, sedangkan sisanya menjadi hak pemegang saham minoritas di anak usaha, terutama PT Bogorindo Cemerlang, pengembang properti di Sentul yang 61,59 persen sahamnya dikuasai CSIS dengan total aset Rp726,64 miliar.",
+   "Perubahan paling mencolok ada di pos kas. Kas dan setara kas melonjak dari Rp9,31 miliar pada akhir 2025 menjadi Rp175,07 miliar pada akhir September 2026. Dalam surat penjelasan yang diteken Direktur Utama Tjoea Aubintoro tertanggal 28 Oktober 2026, perseroan menyebut lonjakan hingga 1.780 persen itu berasal dari dana rights issue, yaitu penerbitan saham baru kepada pemegang saham lama, yang diterima perseroan pada Juni 2026. Laporan arus kas mencatat penerimaan tambahan modal disetor sebesar Rp198,67 miliar. Akibatnya, modal saham perseroan naik dari Rp130,7 miliar menjadi Rp182,98 miliar dan tambahan modal disetor naik dari Rp29,37 miliar menjadi Rp134,22 miliar, sehingga total ekuitas konsolidasian melonjak dari Rp381,31 miliar menjadi Rp578,31 miliar. Perseroan juga membagikan dividen total Rp11,19 miliar, terdiri dari Rp5,49 miliar untuk pemegang saham induk dan Rp5,7 miliar untuk pemegang saham minoritas anak usaha.",
+   "Surat penjelasan yang sama memerinci sejumlah pos lain yang berubah lebih dari 20 persen. Uang muka naik 378 persen karena kenaikan uang muka proyek pekerjaan infrastruktur di Kawasan Industri Cikembar yang dikerjakan anak usaha. Piutang lain-lain dari pihak ketiga turun 55 persen setelah anak usaha menerima pembayaran piutang bagi hasil dari PT Gas Negara. Di sisi liabilitas, utang usaha ke pihak ketiga naik 27 persen karena tagihan subkontraktor yang belum jatuh tempo, sementara utang pajak turun 20 persen setelah pembayaran PPh Pasal 29. Total aset perseroan naik dari Rp549,26 miliar menjadi Rp725,31 miliar, sedangkan total liabilitas justru turun dari Rp167,95 miliar menjadi Rp146,99 miliar.",
+   "Namun kenaikan laba itu belum tercermin pada arus kas dari kegiatan usaha sehari-hari. Arus kas operasi sembilan bulan ini tercatat defisit Rp7,58 miliar, berbalik dari surplus Rp19,89 miliar pada periode yang sama tahun lalu, seiring pembayaran kas kepada pemasok yang melonjak dari Rp24,07 miliar menjadi Rp51,11 miliar."
+  ],
+  "fotoAdegan": "Construction crew working on a concrete building frame at a suburban housing development site in West Java, bright midday light",
+  "takeaway": "Laporan ini saya nilai netral karena dua kabarnya saling menutup: dana rights issue memang memperkuat kas dan menekan utang, tapi suntikan modal itu juga menambah modal saham sekitar 40 persen, hampir menyamai kenaikan laba untuk pemegang saham induk yang sekitar 36,5 persen, sehingga keuntungan per lembar saham bagi pemegang saham lama praktis tidak membaik meski laba totalnya naik. Yang perlu dicermati investor adalah arus kas dari operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan jual beli sehari-hari, bukan dari suntikan modal, karena pos ini justru berbalik jadi minus Rp7,58 miliar meski laba di atas kertas naik, tanda bahwa kenaikan laba belum diikuti uang tunai yang sepadan. Ekuitas, yakni modal sendiri perseroan, juga membesar signifikan setelah penerbitan saham baru ini, yang menentukan seberapa besar beban utang perseroan dibandingkan modal sendirinya ke depan. Yang layak dipantau berikutnya adalah realisasi dana rights issue untuk proyek seperti infrastruktur di Kawasan Industri Cikembar, serta apakah arus kas operasi kembali positif pada laporan tahun buku penuh 2026 yang akan terbit awal 2027.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bike-akui-akuisisi-pne-terafiliasi-dengan-direksi-sendiri",
   "category": "Aksi Korporasi",
   "title": "BIKE Akui Akuisisi PNE [Terafiliasi] dengan Direksi Sendiri",

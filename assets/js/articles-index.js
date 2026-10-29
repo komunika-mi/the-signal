@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "suni-laba-bersih-turun-19-jadi-rp117-7-miliar-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "SUNI: Laba Bersih [Turun] 19% Jadi Rp117,7 Miliar di 9M26",
+  "deck": "Penjualan dan laba bersih Sunindo Pratama (SUNI) turun dua digit pada sembilan bulan 2026, meski arus kas operasional dan ekuitas perusahaan justru menguat.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUNI",
+   "laporan keuangan",
+   "kinerja kuartalan",
+   "pipa baja"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029112938-65000-0/FinancialStatement-2026-III-SUNI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gtsi-pastikan-tak-ada-aksi-korporasi-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "GTSI Pastikan Tak Ada Aksi Korporasi di Balik [Volatilitas] Saham",
+  "deck": "BEI meminta penjelasan GTSI atas volatilitas transaksi sahamnya. Perseroan menjawab tidak ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTSI",
+   "volatilitas transaksi",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c6561a962d_f3e783c4e9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-sola-anjlok-90-di-kuartal-iii-2026-kas-menipis",
+  "category": "Aksi Korporasi",
+  "title": "Laba [SOLA] Anjlok 90% di Kuartal III 2026, Kas Menipis",
+  "deck": "Pendapatan Xolare RCR Energy turun 40 persen dan arus kas operasi berbalik negatif, meski total utang perusahaan ikut turun hampir 30 persen.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOLA",
+   "laporan keuangan",
+   "konstruksi",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029104948-64862-0/FinancialStatement-2026-III-SOLA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "glob-laba-kuartal-iii-anjlok-96-ekuitas-masih-negatif",
+  "category": "Aksi Korporasi",
+  "title": "GLOB: [Laba] Kuartal III Anjlok 96%, Ekuitas Masih Negatif",
+  "deck": "Laba GLOB turun 96% jadi Rp53 juta pada sembilan bulan 2026, dari Rp1,34 miliar setahun sebelumnya, sementara ekuitas perusahaan masih minus Rp1,2 triliun.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GLOB",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "watchlist"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029103751-65293-0/FinancialStatement-2026-III-GLOB.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cdia-bukukan-pendapatan-us-122-juta-ebitda-naik-65",
+  "category": "Aksi Korporasi",
+  "title": "CDIA Bukukan Pendapatan US$122 Juta, [EBITDA] Naik 65%",
+  "deck": "Pendapatan CDI tumbuh 16% dan EBITDA 65% secara tahunan pada 9M2026, didukung aset baru di segmen air, pelabuhan, dan logistik serta dividen interim US$10 juta.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CDIA",
+   "Chandra Daya Investasi",
+   "kinerja keuangan",
+   "infrastruktur maritim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/050780058b_ccaf1844b2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tifa-laba-bersih-turun-3-9-jadi-rp41-8-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "TIFA: Laba Bersih [Turun] 3,9% Jadi Rp41,8 Miliar di Kuartal III",
+  "deck": "Laba bersih KDB Tifa Finance turun 3,9% jadi Rp41,78 miliar pada sembilan bulan 2026, sementara pinjaman yang ditarik perusahaan melonjak signifikan.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TIFA",
+   "KDB Tifa Finance",
+   "laporan keuangan",
+   "pembiayaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029101801-64955-0/FinancialStatement-2026-III-TIFA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "csis-kantongi-rp198-7-miliar-dari-rights-issue-laba-naik-24",
+  "category": "Aksi Korporasi",
+  "title": "CSIS Kantongi Rp198,7 Miliar dari [Rights Issue], Laba Naik 24%",
+  "deck": "Kas CSIS melonjak hampir 19 kali lipat dalam sembilan bulan setelah perseroan menerima dana rights issue Rp198,7 miliar, sementara laba bersih naik 24 persen menjadi Rp30,6 miliar.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSIS",
+   "rights issue",
+   "laporan keuangan",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029101554-64781-0/FinancialStatement-2026-III-CSIS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bike-akui-akuisisi-pne-terafiliasi-dengan-direksi-sendiri",
   "category": "Aksi Korporasi",
   "title": "BIKE Akui Akuisisi PNE [Terafiliasi] dengan Direksi Sendiri",
@@ -6345,112 +6457,6 @@ var ARTICLES = [
    "MNC Digital Entertainment"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fb96a13f4_70f543a467.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "konservasi-laut-ri-capai-31-6-juta-hektare-per-oktober-2026",
-  "category": "Industri",
-  "title": "Konservasi Laut RI [Capai] 31,6 Juta Hektare per Oktober 2026",
-  "deck": "KKP melaporkan luas kawasan konservasi laut nasional mencapai 31,6 juta hektare, seiring penangkapan kapal pelaku illegal fishing yang terus berlangsung sepanjang 2024-2026.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/konservasi-laut-ri-capai-31-6-juta-hektare-per-oktober-2026.jpg",
-  "imageV": "mvjg6ep1",
-  "tags": [
-   "KKP",
-   "illegal fishing",
-   "konservasi laut",
-   "perikanan"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/dua-tahun-prabowo-gibran-kkp-perkuat-konservasi-laut-dan-pengawasan-iuu-fishing-gnRY.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "iiff-koreksi-laporan-realisasi-dana-obligasi-tahap-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "IIFF Koreksi Laporan Realisasi Dana Obligasi [Tahap I] 2026",
-  "deck": "PT Indonesia Infrastructure Finance mengoreksi laporan realisasi penggunaan dana Obligasi Berkelanjutan III Tahap I 2026 ke BEI, tanpa dampak terhadap operasional atau keuangan.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IIFF",
-   "obligasi",
-   "pasar modal",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dbe32ad161_252af610d2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "investasi-era-presiden-prabowo-tembus-rp3-923-triliun",
-  "category": "Makroekonomi",
-  "title": "Investasi Era Presiden Prabowo [Tembus] Rp3.923 Triliun",
-  "deck": "Realisasi investasi dua tahun pemerintahan Presiden Prabowo Subianto mencapai Rp3.923,2 triliun dan menyerap 5,49 juta tenaga kerja, dengan hilirisasi berkontribusi 31,2 persen pada 2026.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/investasi-era-presiden-prabowo-tembus-rp3-923-triliun.jpg",
-  "imageV": "mvjg6g9v",
-  "tags": [
-   "Investasi",
-   "BKPM",
-   "Hilirisasi",
-   "Presiden Prabowo"
-  ],
-  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/dua-tahun-pemerintahan-presiden-prabowo-investasi-tembus-rp3-923-2-triliun-dan-serap-5-49-juta-tenaga-kerja",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "pemerintah-pasang-target-pertumbuhan-6-untuk-2027",
-  "category": "Makroekonomi",
-  "title": "Pemerintah Pasang Target Pertumbuhan [6%] untuk 2027",
-  "deck": "Pemerintah mengklaim stabilitas ekonomi domestik masih solid, dengan investasi tumbuh 7,3 persen, sebagai dasar menaikkan target pertumbuhan ke 6 persen pada 2027.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
-  "tags": [],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7177/pemerintah-jaga-stabilitas-ekonomi-dalam-negeri-untuk-pertahankan-kepercayaan-investor",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "cepa-ri-kanada-resmi-berlaku-1-desember-2026",
-  "category": "Global",
-  "title": "CEPA RI-Kanada Resmi Berlaku [1 Desember] 2026",
-  "deck": "Setelah tukar notifikasi ratifikasi, I-CA CEPA mulai berlaku 1 Desember 2026 dan membebaskan tarif 90,55 persen pos tarif produk Indonesia ke Kanada.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
-  "tags": [],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/implementasi-indonesia-canada-cepa-pada-1-desember-2026-mendag-busan-optimistis-ekspor-ke-kanada-menguat",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "dewa-bentuk-anak-usaha-baru-di-bidang-logistik",
-  "category": "Aksi Korporasi",
-  "title": "DEWA Bentuk Anak Usaha Baru di Bidang [Logistik]",
-  "deck": "Darma Henwa Tbk mendirikan anak usaha baru PT DH Logistik di Jakarta Selatan untuk memperluas bisnis ke jasa pengurusan transportasi dan logistik.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWA",
-   "Darma Henwa",
-   "anak usaha",
-   "logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/59e5a46512_2c70e29b5b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mika-bantah-ada-info-material-tegaskan-program-buyback-lanjut",
-  "category": "Aksi Korporasi",
-  "title": "MIKA Bantah Ada Info Material, Tegaskan Program [Buyback] Lanjut",
-  "deck": "Menjawab permintaan penjelasan volatilitas dari BEI, Mitra Keluarga Karyasehat memastikan tidak ada info material tersembunyi dan program buyback Rp1 triliun tetap berjalan.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MIKA",
-   "volatilitas saham",
-   "buyback saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6301951d61_fd64b7edca.pdf",
   "sourceLabel": "IDX"
  }
 ];

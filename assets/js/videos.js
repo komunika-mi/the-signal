@@ -2,6 +2,60 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "KB5IaQ1zUCI",
+  "title": "Indonesia-Malaysia Perkuat Kerja Sama Ekonomi Bilateral",
+  "category": "Global",
+  "program": "Kabar Merah Putih",
+  "summary": "Indonesia dan Malaysia menggelar Persidangan Ke-41 Sosek Malindo di Jakarta untuk membahas penguatan kerja sama ekonomi dan sosial kedua negara.",
+  "takeaway": "Forum bilateral ini relevan karena menyangkut arah kerja sama ekonomi regional yang berdampak pada perdagangan dan investasi kedua negara.",
+  "terbit": "2026-10-29T09:26:35+00:00"
+ },
+ {
+  "id": "oNagPc9aa6w",
+  "title": "Pemerintah Turunkan Harga Pupuk Subsidi hingga 20 Persen",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah memangkas harga pupuk bersubsidi sebesar 20 persen untuk memperkuat produksi pertanian dan menekan biaya usaha tani.",
+  "takeaway": "Kebijakan ini penting bagi pembaca ekonomi karena menyangkut biaya produksi pertanian dan daya saing sektor pangan nasional.",
+  "terbit": "2026-10-29T09:25:26+00:00"
+ },
+ {
+  "id": "YhOjiapiUVY",
+  "title": "Ketum Kadin Yakin Ekonomi Indonesia Punya Daya Tahan Baik",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Ketua Umum Kadin menyampaikan optimisme atas daya tahan ekonomi Indonesia dalam pembukaan Rapimnas Kadin 2026 di Jakarta.",
+  "takeaway": "Pandangan pelaku usaha dalam forum Kadin menjadi indikator sentimen dunia usaha terhadap prospek ekonomi nasional.",
+  "terbit": "2026-10-29T09:12:11+00:00"
+ },
+ {
+  "id": "GIQRECAMDvA",
+  "title": "Hashim Bicara Soal Pasar Saham hingga Status MSCI",
+  "category": "Pasar Modal",
+  "program": "tvOneNews",
+  "summary": "Dalam Rapimnas Kadin 2026, Hashim Djojohadikusumo menyinggung kondisi pasar saham Indonesia dan posisi dalam indeks MSCI.",
+  "takeaway": "Komentar tokoh bisnis soal pasar modal dan indeks global penting untuk memantau sentimen investor terhadap pasar Indonesia.",
+  "terbit": "2026-10-29T08:57:48+00:00"
+ },
+ {
+  "id": "hGWFbukanxw",
+  "title": "Buntut Beras Oplosan, Mentan Copot Delapan Pejabat Bulog",
+  "category": "BUMN",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Pertanian Andi Amran Sulaiman mencopot delapan pejabat Bulog dan Bapanas menyusul kasus beras oplosan.",
+  "takeaway": "Pergantian pejabat di BUMN pangan ini berdampak pada tata kelola stok dan distribusi beras yang memengaruhi stabilitas harga pangan.",
+  "terbit": "2026-10-29T08:36:10+00:00"
+ },
+ {
+  "id": "sUI4BAVufMs",
+  "title": "Hashim: Rp10.000 Triliun Ekonomi Indonesia Tak Tercatat",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Hashim Djojohadikusumo menyebut potensi ekonomi senilai Rp10.000 triliun belum tercatat dalam data resmi, mengemuka di Rapimnas Kadin 2026.",
+  "takeaway": "Klaim soal ekonomi bawah tanah ini relevan karena menyangkut akurasi data PDB dan basis kebijakan fiskal pemerintah.",
+  "terbit": "2026-10-29T08:26:04+00:00"
+ },
+ {
   "id": "4Y9IIX7vKpw",
   "title": "Rapat Pimpinan Nasional Kadin 2026",
   "category": "Bisnis",

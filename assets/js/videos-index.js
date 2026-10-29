@@ -4,6 +4,54 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "KB5IaQ1zUCI",
+  "title": "Indonesia-Malaysia Perkuat Kerja Sama Ekonomi Bilateral",
+  "category": "Global",
+  "program": "Kabar Merah Putih",
+  "summary": "Indonesia dan Malaysia menggelar Persidangan Ke-41 Sosek Malindo di Jakarta untuk membahas penguatan kerja sama ekonomi dan sosial kedua negara.",
+  "takeaway": "Forum bilateral ini relevan karena menyangkut arah kerja sama ekonomi regional yang berdampak pada perdagangan dan investasi kedua negara."
+ },
+ {
+  "id": "oNagPc9aa6w",
+  "title": "Pemerintah Turunkan Harga Pupuk Subsidi hingga 20 Persen",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah memangkas harga pupuk bersubsidi sebesar 20 persen untuk memperkuat produksi pertanian dan menekan biaya usaha tani.",
+  "takeaway": "Kebijakan ini penting bagi pembaca ekonomi karena menyangkut biaya produksi pertanian dan daya saing sektor pangan nasional."
+ },
+ {
+  "id": "YhOjiapiUVY",
+  "title": "Ketum Kadin Yakin Ekonomi Indonesia Punya Daya Tahan Baik",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Ketua Umum Kadin menyampaikan optimisme atas daya tahan ekonomi Indonesia dalam pembukaan Rapimnas Kadin 2026 di Jakarta.",
+  "takeaway": "Pandangan pelaku usaha dalam forum Kadin menjadi indikator sentimen dunia usaha terhadap prospek ekonomi nasional."
+ },
+ {
+  "id": "GIQRECAMDvA",
+  "title": "Hashim Bicara Soal Pasar Saham hingga Status MSCI",
+  "category": "Pasar Modal",
+  "program": "tvOneNews",
+  "summary": "Dalam Rapimnas Kadin 2026, Hashim Djojohadikusumo menyinggung kondisi pasar saham Indonesia dan posisi dalam indeks MSCI.",
+  "takeaway": "Komentar tokoh bisnis soal pasar modal dan indeks global penting untuk memantau sentimen investor terhadap pasar Indonesia."
+ },
+ {
+  "id": "hGWFbukanxw",
+  "title": "Buntut Beras Oplosan, Mentan Copot Delapan Pejabat Bulog",
+  "category": "BUMN",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Pertanian Andi Amran Sulaiman mencopot delapan pejabat Bulog dan Bapanas menyusul kasus beras oplosan.",
+  "takeaway": "Pergantian pejabat di BUMN pangan ini berdampak pada tata kelola stok dan distribusi beras yang memengaruhi stabilitas harga pangan."
+ },
+ {
+  "id": "sUI4BAVufMs",
+  "title": "Hashim: Rp10.000 Triliun Ekonomi Indonesia Tak Tercatat",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Hashim Djojohadikusumo menyebut potensi ekonomi senilai Rp10.000 triliun belum tercatat dalam data resmi, mengemuka di Rapimnas Kadin 2026.",
+  "takeaway": "Klaim soal ekonomi bawah tanah ini relevan karena menyangkut akurasi data PDB dan basis kebijakan fiskal pemerintah."
+ },
+ {
   "id": "4Y9IIX7vKpw",
   "title": "Rapat Pimpinan Nasional Kadin 2026",
   "category": "Bisnis",
@@ -434,53 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Ketua Permindo mengungkapkan adanya praktik monopoli di industri pakan ternak yang menekan margin peternak ayam, di tengah harga jual ayam yang terus merosot.",
   "takeaway": "Menyoroti struktur pasar pakan ternak yang dinilai timpang dan dampaknya terhadap keberlangsungan peternak kecil."
- },
- {
-  "id": "cLUvu8frHf0",
-  "title": "HKTI: Dukung Swasembada Jagung, tapi Data Harus Benar",
-  "category": "Industri",
-  "program": "Indonesia Business Forum",
-  "summary": "HKTI menyatakan dukungan terhadap target swasembada jagung, namun meminta pemerintah memastikan akurasi data produksi agar tidak terjadi manipulasi angka.",
-  "takeaway": "Mengingatkan pentingnya validitas data pertanian sebagai dasar kebijakan pangan yang berdampak pada peternak."
- },
- {
-  "id": "mDvxVcHEQrM",
-  "title": "Produksi Jagung Diklaim Naik, tapi Pakan Ayam Tetap Mahal",
-  "category": "Industri",
-  "program": "Indonesia Business Forum",
-  "summary": "Guru besar IPB mempertanyakan klaim kenaikan produksi jagung yang tidak sejalan dengan harga pakan ayam yang masih tinggi di tingkat peternak.",
-  "takeaway": "Memberi perspektif akademis atas ketimpangan antara data produksi jagung dan harga pakan yang membebani peternak."
- },
- {
-  "id": "s_0NTizyo2o",
-  "title": "Peternak Ayam Rugi, Pakan Naik 20%, Harga Jual Turun",
-  "category": "UMKM",
-  "program": "Indonesia Business Forum",
-  "summary": "Peternak ayam mandiri mengaku merugi karena harga pakan naik hingga 20 persen, sementara harga jual ayam di pasaran justru terus menurun.",
-  "takeaway": "Menggambarkan tekanan ganda yang dihadapi peternak kecil akibat kenaikan biaya produksi dan pelemahan harga jual."
- },
- {
-  "id": "7qSuI4yWa7I",
-  "title": "KDMP Sukabumi Kembangkan Usaha Kampung Nelayan",
-  "category": "UMKM",
-  "program": "Kabar Utama",
-  "summary": "Program Kampung Nelayan Merah Putih di Sukabumi mengembangkan unit usaha untuk menggerakkan ekonomi masyarakat pesisir melalui koperasi desa.",
-  "takeaway": "Menunjukkan upaya penguatan ekonomi berbasis koperasi desa di sektor perikanan sebagai model pemberdayaan UMKM."
- },
- {
-  "id": "57FvtZTGDjs",
-  "title": "Harga Pakan Ayam Melonjak, Peternak Kian Tertekan",
-  "category": "UMKM",
-  "program": "Indonesia Business Forum",
-  "summary": "Kenaikan harga pakan terus menggerus margin keuntungan peternak ayam, sementara harga jual ayam di pasaran justru merosot sehingga peternak mandiri semakin sulit bertahan.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti tekanan biaya produksi di sektor peternakan yang berdampak pada rantai pasok pangan dan kelangsungan usaha peternak kecil."
- },
- {
-  "id": "DhbKkZNIbfw",
-  "title": "Bansos Beralih ke Transfer Tunai, Tak Lagi Sembako",
-  "category": "Makroekonomi",
-  "program": "OneNews Update",
-  "summary": "Pemerintah berencana mengubah mekanisme penyaluran bantuan sosial dari bentuk sembako menjadi transfer tunai langsung kepada masyarakat yang berhak menerima.",
-  "takeaway": "Perubahan skema bansos ini menyangkut pola belanja negara dan berpotensi mengubah daya beli kelompok penerima manfaat."
  }
 ];

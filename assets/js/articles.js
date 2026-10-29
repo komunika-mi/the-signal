@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-rinci-26-634-titik-serah-jelang-musim-tanam",
+  "category": "BUMN",
+  "title": "Pupuk Indonesia Rinci [26.634] Titik Serah Jelang Musim Tanam",
+  "deck": "Menjelang musim tanam, Pupuk Indonesia memaparkan rincian jaringan gudang, pelabuhan, dan rute distribusi yang menyalurkan pupuk bersubsidi ke puluhan ribu titik di seluruh Indonesia.",
+  "image": "assets/img/pupuk-indonesia-rinci-26-634-titik-serah-jelang-musim-tanam.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T10:05:31.841Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/899/fasilitas-distribusi-pupuk-indonesia-dukung-pemenuhan-kebutuhan-pupuk-subsidi-saat-musim-tanam",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "Pupuk Indonesia",
+   "Musim Tanam",
+   "Distribusi Pupuk",
+   "BUMN"
+  ],
+  "body": [
+   "PT Pupuk Indonesia (Persero) memaparkan kesiapan jaringan distribusinya menjelang musim tanam, saat permintaan pupuk bersubsidi biasanya melonjak di berbagai daerah. Hal ini penting bagi petani karena keterlambatan pasokan pupuk pada masa tanam bisa langsung memengaruhi jadwal dan hasil panen, terutama di wilayah yang jauh dari pusat produksi.",
+   "Secara nasional, perusahaan menyebutkan memiliki 17 unit distribution center untuk pengantongan pupuk, 4 komplek pelabuhan khusus, serta jaringan transportasi berupa 204 rute kapal laut, 1.292 rute truk, dan 3 rute kereta api. Penyaluran ke petani dijalankan lewat 1.047 Pelaku Usaha Distribusi dan berujung pada 26.634 Penerima Pupuk pada Titik Serah yang tersebar dari Sabang hingga Merauke.",
+   "Untuk mengelola wilayah operasi yang luas, Pupuk Indonesia membagi kerjanya ke dalam empat regional yang masing-masing dipimpin seorang Regional Chief Executive Officer. Siaran ini merinci tiga di antaranya, yakni regional yang mencakup Aceh, Sumatera bagian utara dan selatan, Kepulauan Riau, Jambi, Bengkulu, dan Lampung; regional yang mencakup DKI Jakarta, Banten, Jawa Barat, Jawa Tengah, DI Yogyakarta, Kalimantan Barat, dan Kalimantan Tengah; serta regional yang mencakup Jawa Timur, Bali, NTB, NTT, Kalimantan Selatan, Kalimantan Timur, dan Kalimantan Utara. Rincian wilayah regional keempat tidak disebutkan dalam siaran ini.",
+   "Perusahaan juga menyinggung tantangan geografis seperti kondisi kepulauan dan perbedaan akses transportasi antarwilayah, yang membuat perencanaan stok dan pengiriman harus disesuaikan dengan jadwal tanam di masing-masing daerah. Selain infrastruktur fisik, Pupuk Indonesia menyebut pemanfaatan sistem pencatatan data untuk memantau persediaan dan pengiriman sebagai pendukung koordinasi antarwilayah."
+  ],
+  "fotoAdegan": "Workers unloading sacks of fertilizer from a cargo ship onto a truck at a busy specialized port, overcast morning light",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1873/conversions/Screen-Shot-2026-10-29-at-16.17.34-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Siaran ini sebenarnya tidak mengumumkan perubahan apa pun, isinya baru sebatas memaparkan kapasitas jaringan distribusi yang sudah ada selama ini, mulai dari gudang, pelabuhan, sampai titik serah ke petani. Yang paling terdampak oleh kesiapan jaringan ini adalah petani penerima pupuk bersubsidi, terutama di daerah kepulauan dan wilayah jauh dari pelabuhan utama, karena merekalah yang pertama kena dampak kalau rantai pasokan ini tersendat. Yang tidak disebutkan dalam siaran ini adalah berapa stok pupuk yang sudah tersedia sekarang dibandingkan kebutuhan musim tanam mendatang, dan berapa alokasi pupuk bersubsidi untuk masing-masing provinsi tahun ini. Tanpa dua angka itu, belum bisa dipastikan apakah jaringan distribusi yang luas ini benar-benar cukup menjangkau musim tanam kali ini, atau sekadar gambaran kapasitas di atas kertas. Yang perlu dicermati selanjutnya adalah data realisasi penyaluran pupuk bersubsidi yang biasanya dirilis Kementerian Pertanian atau Pupuk Indonesia begitu musim tanam berjalan.",
+  "imageV": "mvtdrq2q"
+ },
+ {
+  "slug": "kadin-bentuk-delapan-kelompok-kerja-di-rapimnas-2026",
+  "category": "Bisnis",
+  "title": "Kadin Bentuk [Delapan] Kelompok Kerja di Rapimnas 2026",
+  "deck": "Kadin Indonesia meluncurkan delapan kelompok kerja dalam Rapimnas 2026, dari penguatan UMKM hingga kedaulatan pangan, dengan evaluasi setiap tiga bulan.",
+  "image": "assets/img/kadin-bentuk-delapan-kelompok-kerja-di-rapimnas-2026.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T15:46:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475620-rapimnas-kadin-2026-anindya-bakrie-luncurkan-delapan-kelompok-kerja-pelaku-usaha-naik-kelas-kedaulatan-ketahanan-pangan",
+  "tags": [
+   "kadin",
+   "anindya bakrie",
+   "rapimnas 2026",
+   "umkm"
+  ],
+  "body": [
+   "Ketua Umum Kamar Dagang dan Industri (Kadin) Indonesia Anindya Novyan Bakrie meluncurkan delapan kelompok kerja baru dalam Rapat Pimpinan Nasional (Rapimnas) Kadin 2026 di Hotel Borobudur, Jakarta Pusat, Kamis (29/10/2026). Delapan kelompok kerja ini dibentuk agar program-program Kadin tidak hanya dibicarakan setahun sekali, melainkan dipantau pelaksanaannya setiap tiga bulan.",
+   "Empat kelompok kerja pertama menyasar penguatan pelaku usaha dari sisi dalam negeri. Kelompok pertama, pelaku usaha naik kelas, melibatkan Wakil Ketua Umum Koperasi dan UMKM Nurdin Halid serta Wakil Ketua Umum Bidang Sosial Gita. Kelompok kedua, rantai nilai usaha rakyat, infrastruktur, dan logistik, diisi Wakil Ketua Umum Luar Negeri James, Wakil Ketua Umum Infrastruktur dan Pembangunan Kewilayahan Mienik, serta Wakil Ketua Umum Pengembangan Ekspor Juan. Kelompok ketiga, hilirisasi, energi, dan nilai tambah industri, dipegang Wakil Ketua Umum Investasi dan Hilirisasi Bobby, sementara kelompok keempat, produktivitas sumber daya manusia dan adopsi teknologi, diisi Wakil Ketua Umum Pembangunan Manusia dan Berkelanjutan Shinta.",
+   "Empat kelompok kerja berikutnya menyentuh isu yang lebih lintas sektor. Kelompok kelima, ketahanan ekonomi dan industri pertahanan, dipimpin Wakil Ketua Umum Politik dan Keamanan Bambang Soesatyo. Kelompok keenam, diplomasi ekonomi dan perjanjian dagang, diisi Wakil Ketua Umum Luar Negeri James Riady. Kelompok ketujuh, penguatan kelembagaan Kadin pusat dan daerah, melibatkan Wakil Ketua Umum Organisasi Erwin dan Wakil Ketua Umum Hukum Aziz. Kelompok kedelapan, kedaulatan dan ketahanan pangan, diisi Wakil Ketua Umum Pangan, Badan Ketahanan Pangan, dan Agribisnis Yana.",
+   "Anindya menyampaikan harapannya agar delapan kelompok kerja ini bisa mendukung konsep Indonesia Incorporated yang disampaikan Presiden Prabowo Subianto, yakni kolaborasi dunia usaha dan pemerintah untuk menjaga kedaulatan ekonomi nasional."
+  ],
+  "fotoAdegan": "Rows of business delegates in formal attire seated inside a large hotel conference hall during a national business forum, Jakarta",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/04/6a99af298a8ff-ketua-umum-kadin-indonesia-anindya-bakrie_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari Rapimnas kali ini adalah cara kerja internal Kadin sendiri: delapan kelompok kerja itu akan dievaluasi setiap tiga bulan, bukan lagi dibahas setahun sekali seperti sebelumnya. Pihak yang langsung terdampak adalah jajaran pengurus Kadin di delapan bidang tersebut, mulai dari urusan koperasi dan UMKM, ekspor dan infrastruktur, hilirisasi investasi, sampai ketahanan pangan dan isu pertahanan ekonomi. Yang belum bisa disimpulkan dari peluncuran ini adalah target dan ukuran keberhasilan tiap kelompok kerja, karena belum ada angka atau tenggat program yang diumumkan ke publik. Yang perlu dipantau adalah hasil evaluasi tiga bulan pertama, sebab di sanalah baru terlihat apakah delapan kelompok kerja ini menghasilkan program nyata atau sekadar penataan ulang struktur organisasi.",
+  "imageV": "mvtdrqn7"
+ },
+ {
   "slug": "ptsn-laba-kuartal-iii-susut-40-meski-pendapatan-naik-56",
   "category": "Aksi Korporasi",
   "title": "PTSN: Laba Kuartal III Susut 40% Meski [Pendapatan] Naik 56%",
@@ -27,6 +82,33 @@ var ARTICLES = [
   "fotoAdegan": "Workers assembling small electronic circuit boards on a factory conveyor line, bright fluorescent lighting, Batam industrial zone.",
   "takeaway": "Laporan ini condong negatif bagi fundamental PTSN, karena meski pendapatan melonjak signifikan, kenaikan itu tidak diikuti laba yang sepadan, bahkan laba bersih malah menyusut 40 persen. Yang paling tersentuh adalah margin laba kotor yang terpangkas dari 13,8 persen menjadi 7,5 persen, serta arus kas dari kegiatan operasional yang turun tajam dari US$23,6 juta menjadi US$7 juta, dan ini penting karena arus kas operasi menunjukkan uang tunai riil yang benar-benar masuk dari bisnis inti, bukan sekadar angka laba di atas kertas. Kenaikan piutang usaha dan utang usaha yang berbarengan juga perlu dicermati karena menandakan modal kerja perusahaan makin banyak tertahan di transaksi yang belum tertagih dari pelanggan atau belum dibayar ke pemasok. Yang perlu dipantau berikutnya adalah apakah tekanan margin dan arus kas ini berlanjut atau membaik di laporan kuartal IV dan laporan tahunan teraudit, yang akan memastikan apakah penurunan laba kali ini sementara atau berkelanjutan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "kadin-sebut-ri-masih-bright-spot-ekonomi-dunia",
+  "category": "Makroekonomi",
+  "title": "Kadin Sebut RI Masih '[Bright Spot]' Ekonomi Dunia",
+  "deck": "Ketua Umum Kadin Anindya Novyan Bakrie memakai data IMF dan perbandingan pertumbuhan ekonomi untuk menegaskan Indonesia masih tangguh di tengah ketidakpastian global.",
+  "image": "assets/img/kadin-sebut-ri-masih-bright-spot-ekonomi-dunia.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T15:13:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475612-anindya-bakrie-kutip-data-imf-indonesia-justru-jadi-bright-spot-di-tengah-ketidakpastian-global",
+  "tags": [
+   "kadin",
+   "anindya bakrie",
+   "imf",
+   "ekonomi indonesia"
+  ],
+  "body": [
+   "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menegaskan bahwa fondasi ekonomi nasional masih kokoh kendati tekanan global terus membesar. Pernyataan itu disampaikan dalam Rapat Pimpinan Nasional (Rapimnas) Kadin 2026 di Jakarta, Kamis (29 Oktober 2026), sekaligus menjawab pertanyaan publik yang mempertanyakan apakah Indonesia berada di ambang krisis. Ia menyebut lembaga moneter dunia, IMF, sejak 2025 telah menempatkan Indonesia sebagai salah satu titik terang di tengah ketidakpastian ekonomi global, dan menilai predikat itu masih relevan hingga sekarang.",
+   "Untuk memperkuat argumennya, Anindya membandingkan data pertumbuhan ekonomi pada tiga periode berbeda. Saat krisis moneter 1998, ekonomi Indonesia terkontraksi hingga 13 persen, lalu saat pandemi Covid-19 pada 2020 kontraksinya mencapai 2,1 persen. Sebagai pembanding, perekonomian nasional saat ini justru tumbuh 5,1 persen, yang menurutnya menunjukkan daya tahan ekonomi dalam negeri jauh lebih baik dibanding dua krisis sebelumnya.",
+   "Anindya juga menyinggung kecenderungan global yang menurutnya relevan dengan situasi saat ini, yakni banyak negara besar mulai menimbun cadangan darurat untuk mengantisipasi gangguan pasokan. Ia mencontohkan Amerika Serikat yang mewajibkan cadangan bahan bakar minyak untuk kebutuhan 90 hari, serta Inggris yang mendorong warganya mampu bertahan mandiri selama 72 jam dengan setiap rumah tangga memiliki stok kebutuhan darurat untuk tiga hari saat bencana. Ia menyebut Indonesia pun sedang membangun ketahanan serupa di sektor pangan, air, dan energi, yang menurutnya merupakan bagian dari kedaulatan ekonomi nasional, sejalan dengan gagasan Trisakti yang pernah disampaikan Presiden Soekarno dan kembali ditekankan Presiden Prabowo Subianto.",
+   "Rapimnas Kadin 2026 mengangkat tema Ekonomi Kerakyatan untuk Indonesia Mendunia, yang menurut Anindya menjadi jawaban atas tekanan global dengan memaksimalkan potensi dalam negeri. Acara ini turut dihadiri Utusan Khusus Presiden Hashim Djojohadikusumo dan Menteri Investasi dan Hilirisasi Rosan Roeslani."
+  ],
+  "fotoAdegan": "Rows of large fuel storage tanks at an industrial depot under bright daylight, utilitarian pipework and access ladders in the foreground",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/29/6ae2fe6c20710-ketua-umum-kadin-indonesia-anindya-novyan-bakrie-saat-menyampaikan-sambutan-dalam-acara-rapat-pimpinan-nasional-rapimnas-kadin-2026-di-jakarta-kamis-29102026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pernyataan ini belum disertai kebijakan baru, isinya adalah pembelaan Ketua Kadin atas pertumbuhan ekonomi Indonesia sekarang dibandingkan masa krisis 1998 dan pandemi 2020, sambil mengutip julukan bright spot atau titik terang dari IMF untuk Indonesia pada 2025. Yang kena dampak langsung adalah persepsi pelaku usaha dan publik, karena pernyataan semacam ini biasanya dipakai untuk menenangkan kekhawatiran soal risiko krisis yang beredar di masyarakat. Anindya juga menyinggung tren negara besar yang menimbun cadangan darurat, seperti Amerika Serikat yang menetapkan cadangan bahan bakar untuk 90 hari dan Inggris yang mendorong warganya siap mandiri 72 jam, lalu menyebut Indonesia tengah membangun ketahanan pangan, air, dan energi serupa. Yang masih belum jelas adalah angka atau target konkret dari ketahanan itu untuk Indonesia sendiri, misalnya berapa hari cadangan BBM atau pangan yang ingin dicapai, serta apakah predikat bright spot dari IMF itu masih muncul dalam laporan proyeksi ekonomi dunia terbaru. Itu yang perlu dicek pada rilis proyeksi IMF berikutnya dan pada kebijakan ketahanan pangan-energi yang mungkin diumumkan pemerintah setelah Rapimnas ini.",
+  "imageV": "mvtdrr16"
  },
  {
   "slug": "mtwi-laba-9-bulan-ambruk-89-saat-beban-klaim-melonjak",

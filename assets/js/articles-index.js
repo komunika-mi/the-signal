@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-rinci-26-634-titik-serah-jelang-musim-tanam",
+  "category": "BUMN",
+  "title": "Pupuk Indonesia Rinci [26.634] Titik Serah Jelang Musim Tanam",
+  "deck": "Menjelang musim tanam, Pupuk Indonesia memaparkan rincian jaringan gudang, pelabuhan, dan rute distribusi yang menyalurkan pupuk bersubsidi ke puluhan ribu titik di seluruh Indonesia.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/pupuk-indonesia-rinci-26-634-titik-serah-jelang-musim-tanam.jpg",
+  "imageV": "mvtdrq2q",
+  "tags": [
+   "Pupuk Indonesia",
+   "Musim Tanam",
+   "Distribusi Pupuk",
+   "BUMN"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/899/fasilitas-distribusi-pupuk-indonesia-dukung-pemenuhan-kebutuhan-pupuk-subsidi-saat-musim-tanam",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "kadin-bentuk-delapan-kelompok-kerja-di-rapimnas-2026",
+  "category": "Bisnis",
+  "title": "Kadin Bentuk [Delapan] Kelompok Kerja di Rapimnas 2026",
+  "deck": "Kadin Indonesia meluncurkan delapan kelompok kerja dalam Rapimnas 2026, dari penguatan UMKM hingga kedaulatan pangan, dengan evaluasi setiap tiga bulan.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/kadin-bentuk-delapan-kelompok-kerja-di-rapimnas-2026.jpg",
+  "imageV": "mvtdrqn7",
+  "tags": [
+   "kadin",
+   "anindya bakrie",
+   "rapimnas 2026",
+   "umkm"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475620-rapimnas-kadin-2026-anindya-bakrie-luncurkan-delapan-kelompok-kerja-pelaku-usaha-naik-kelas-kedaulatan-ketahanan-pangan"
+ },
+ {
   "slug": "ptsn-laba-kuartal-iii-susut-40-meski-pendapatan-naik-56",
   "category": "Aksi Korporasi",
   "title": "PTSN: Laba Kuartal III Susut 40% Meski [Pendapatan] Naik 56%",
@@ -19,6 +54,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029153120-65322-0/FinancialStatement-2026-III-PTSN.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kadin-sebut-ri-masih-bright-spot-ekonomi-dunia",
+  "category": "Makroekonomi",
+  "title": "Kadin Sebut RI Masih '[Bright Spot]' Ekonomi Dunia",
+  "deck": "Ketua Umum Kadin Anindya Novyan Bakrie memakai data IMF dan perbandingan pertumbuhan ekonomi untuk menegaskan Indonesia masih tangguh di tengah ketidakpastian global.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/kadin-sebut-ri-masih-bright-spot-ekonomi-dunia.jpg",
+  "imageV": "mvtdrr16",
+  "tags": [
+   "kadin",
+   "anindya bakrie",
+   "imf",
+   "ekonomi indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475612-anindya-bakrie-kutip-data-imf-indonesia-justru-jadi-bright-spot-di-tengah-ketidakpastian-global"
  },
  {
   "slug": "mtwi-laba-9-bulan-ambruk-89-saat-beban-klaim-melonjak",
@@ -6411,51 +6463,6 @@ var ARTICLES = [
    "Dewan Komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/941a3eb35c_ef049ded13.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hero-jawab-bei-soal-anjloknya-saham-8-07-volatilitas",
-  "category": "Aksi Korporasi",
-  "title": "HERO Jawab BEI soal Anjloknya Saham 8,07% [Volatilitas]",
-  "deck": "Saham HERO ambruk 8,07% ke Rp296 pada 16 Oktober 2026 disertai lonjakan volume transaksi. BEI minta penjelasan, dan DFI Retail Nusantara menyatakan tidak ada informasi material di baliknya.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HERO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4bc9af7121_3c8ed6df1f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pidl-tawarkan-obligasi-dan-sukuk-rp3-5-triliun-tahap-ii",
-  "category": "Aksi Korporasi",
-  "title": "PIDL Tawarkan [Obligasi] dan Sukuk Rp3,5 Triliun Tahap II",
-  "deck": "PIDL menawarkan obligasi hingga Rp2,5 triliun dan sukuk mudharabah hingga Rp1 triliun tahap II, dengan penjatahan 26 Oktober dan pencatatan di BEI 29 Oktober 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIDL",
-   "obligasi",
-   "sukuk",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/961baca13c_6abf54f194.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akra-cetak-laba-rp2-44-triliun-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "AKRA Cetak Laba [Rp2,44 Triliun] di Kuartal III 2026",
-  "deck": "Pendapatan AKR Corporindo naik 43,6 persen menjadi Rp46,53 triliun dalam sembilan bulan pertama 2026, mendorong laba bersih tumbuh 32,4 persen menjadi Rp2,44 triliun.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKRA",
-   "laporan keuangan",
-   "kuartal III 2026",
-   "AKR Corporindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023105545-64658-0/FinancialStatement-2026-III-AKRA.pdf",
   "sourceLabel": "IDX"
  }
 ];

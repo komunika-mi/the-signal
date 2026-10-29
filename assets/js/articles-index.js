@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bike-akui-akuisisi-pne-terafiliasi-dengan-direksi-sendiri",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Akui Akuisisi PNE [Terafiliasi] dengan Direksi Sendiri",
+  "deck": "BIKE mengoreksi lagi tanggapan ke Bursa soal akuisisi PNE, mengakui penjual sahamnya adalah direksi BIKE sendiri, bukan pihak independen seperti disebut sebelumnya.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "afiliasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a3f667d1b0_1c334cf599.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tpia-siapkan-buyback-rp2-triliun-batasi-harga-rp3-000",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Siapkan Buyback [Rp2 Triliun], Batasi Harga Rp3.000",
+  "deck": "Chandra Asri mengalokasikan dana hingga Rp2 triliun untuk membeli kembali maksimal 1,84 persen sahamnya dengan harga tertinggi Rp3.000 per lembar, periode 29 Oktober 2026 hingga 28 Januari 2027.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "buyback",
+   "Chandra Asri",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1b5bd0dbdd_bbeeb161cd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pcar-cetak-laba-rp6-1-miliar-penjualan-melonjak-123-persen",
+  "category": "Aksi Korporasi",
+  "title": "PCAR Cetak Laba Rp6,1 Miliar, Penjualan [Melonjak] 123 Persen",
+  "deck": "Laporan keuangan interim kuartal III 2026 PCAR menunjukkan perusahaan berbalik untung setelah penjualan tumbuh dari Rp166,9 miliar menjadi Rp372,3 miliar dalam sembilan bulan.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PCAR",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "emiten konsumer"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029071024-64836-0/FinancialStatement-2026-III-PCAR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mentan-amran-desak-polisi-bongkar-mafia-beras-sphp",
   "category": "Bisnis",
   "title": "Mentan Amran Desak Polisi Bongkar [Mafia] Beras SPHP",
@@ -6403,54 +6451,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6301951d61_fd64b7edca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-catat-laba-9-bulan-naik-6-kali-utang-bank-lunas",
-  "category": "Aksi Korporasi",
-  "title": "KDTN Catat Laba 9 Bulan Naik 6 Kali, Utang Bank [Lunas]",
-  "deck": "Pendapatan KDTN naik 32 persen dan laba melonjak ke Rp3,53 miliar pada kuartal III 2026, sementara seluruh utang bank perusahaan sudah lunas.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "laporan keuangan",
-   "utang bank",
-   "corporate secretary"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261022175456-64620-0/FinancialStatement-2026-III-KDTN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-rombak-direksi-dan-komisaris-tambah-kbli-konstruksi",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Rombak Direksi dan Komisaris, Tambah [KBLI] Konstruksi",
-  "deck": "RUPSLB WIFI 21 Oktober 2026 mengganti Komisaris Utama dan Direktur Utama, serta menambah izin usaha konstruksi sentral telekomunikasi KBLI 42206.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "pergantian direksi",
-   "KBLI",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e698a83bfb_78cb4ff763.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtps-ubah-jadwal-rupslb-penjualan-gedung-jadi-3-november",
-  "category": "Aksi Korporasi",
-  "title": "MTPS Ubah Jadwal RUPSLB [Penjualan] Gedung Jadi 3 November",
-  "deck": "RUPSLB independen untuk menyetujui penjualan aset gedung kantor Meta Epsi dimajukan dari 24 November menjadi 3 November 2026, dengan tanggal pencatatan pemegang saham 26 Oktober 2026.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTPS",
-   "RUPSLB",
-   "transaksi material",
-   "Meta Epsi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/66fdc0f45b_2acd059960.pdf",
   "sourceLabel": "IDX"
  }
 ];

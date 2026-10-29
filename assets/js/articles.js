@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bike-akui-akuisisi-pne-terafiliasi-dengan-direksi-sendiri",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Akui Akuisisi PNE [Terafiliasi] dengan Direksi Sendiri",
+  "deck": "BIKE mengoreksi lagi tanggapan ke Bursa soal akuisisi PNE, mengakui penjual sahamnya adalah direksi BIKE sendiri, bukan pihak independen seperti disebut sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T08:25:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a3f667d1b0_1c334cf599.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "afiliasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) kembali mengoreksi tanggapannya atas permintaan penjelasan Bursa Efek Indonesia nomor S-13293/BEI.PP3/10-2026 tertanggal 21 Oktober 2026, setelah koreksi pertama yang dikirim sehari sebelumnya belum menggunakan format form SPE-IDXNet yang diminta Bursa. Dalam koreksi kedua ini, BIKE menegaskan bahwa akuisisi PT Prambanan Nusantara Energi (PNE) sebenarnya merupakan transaksi dengan pihak terafiliasi. Pemegang saham PNE sebelumnya adalah Nadila Syafira, yang saat ini menjabat sebagai salah satu direktur BIKE. BIKE mengambil kendali PNE secara tidak langsung dengan membeli 99 persen saham PT Fahreza Bumi Megah (FBM), yang menguasai 99 persen saham PT Fahreza Duta Perkasa (FDP), yang pada gilirannya memegang 9.900 dari 10.000 lembar saham atau 99 persen saham PNE.",
+   "Dana untuk akuisisi FBM maupun akuisisi PT Ratu Karya (RK) rencananya berasal dari fasilitas pinjaman siaga senilai Rp1 triliun dari PT Penajam Makmur Jaya (PMJ). BIKE mengonfirmasi pinjaman itu belum cair karena kantor jasa penilai publik (KJPP) masih menyelesaikan Fairness Opinion yang menjadi syarat pencairan. Akibatnya, meski status administratif pengambilalihan FBM efektif sejak 15 Juli 2026 dan pengambilalihan MTI, pemilik 99 persen saham RK, efektif 16 Juli 2026, pembayarannya belum terlaksana sehingga laporan keuangan RK, MTI, maupun PNE belum bisa dikonsolidasikan ke laporan keuangan BIKE per 30 September 2026.",
+   "BIKE juga melengkapi data keuangan PNE yang sebelumnya diminta Bursa. Aset PNE tercatat naik dari Rp31,5 miliar pada akhir 2025 menjadi Rp87,3 miliar per 26 September 2026, dengan ekuitas Rp45,2 miliar. Pendapatan PNE melonjak dari Rp0 pada 2024 dan 2025 menjadi Rp112,5 miliar per 30 September 2026, dengan laba bersih Rp35,4 miliar, dibanding rugi Rp76,8 juta pada 2025. BIKE menjelaskan lonjakan ini berasal dari akumulasi tiga kontrak pengelolaan wilayah kerja Akimuegah II, yaitu kontrak awal Rp22,5 miliar pada Agustus 2025, tambahan fase konstruksi Rp42,5 miliar pada November 2025, dan tambahan fase penyelesaian Rp60 miliar pada Maret 2026. PNE sendiri kini menguasai 72 persen saham PT Berau Usaha Mandiri (BUM), pemegang izin usaha pertambangan batu bara seluas 500 hektare di Kabupaten Berau, Kalimantan Timur, dengan sumber daya 12,19 juta ton dan cadangan terbukti 2,08 juta ton, lengkap dengan fasilitas pelabuhan sendiri yang berizin operasi hingga 2027.",
+   "Untuk akuisisi RK, BIKE menjelaskan anak usaha ini akan menyediakan kios dan rumah susun bagi lebih dari 3.000 pedagang pasar tradisional yang terdaftar di Perumda Pasar Jaya, sekaligus mengembangkan kawasan Pasar Minggu dengan konsep kawasan terintegrasi yang mencakup stasiun dan terminal bus. BIKE memperkirakan konstruksi proyek ini baru dimulai pada Juni 2027, setelah tahapan desain awal, desain teknik rinci, dan pengurusan izin lingkungan serta izin bangunan selesai."
+  ],
+  "fotoAdegan": "A coal loading jetty on a wide brown river in East Kalimantan, a barge being loaded under an overcast sky, workers in safety vests nearby.",
+  "takeaway": "Laporan koreksi ini condong negatif bagi BIKE, karena mengonfirmasi bahwa transaksi akuisisi PNE sebenarnya melibatkan direksi perusahaan sendiri, bukan pihak independen seperti disampaikan sebelumnya, sementara dana Rp1 triliun yang jadi andalan dua akuisisi besar ini masih belum cair. Yang tersentuh adalah proses konsolidasi laporan keuangan: RK, PNE, dan BUM sudah disebut sebagai anak usaha BIKE sejak pertengahan tahun, tapi aset dan pendapatannya belum masuk ke buku BIKE karena pembayarannya belum terjadi, sehingga kinerja konsolidasian BIKE saat ini belum mencerminkan tambahan pendapatan PNE yang sudah tumbuh ke Rp112,5 miliar. Kalau pinjaman Rp1 triliun dari PMJ akhirnya cair, itu akan menambah beban utang dan bunga BIKE, jadi pemegang saham perlu mencermati dari mana dan dengan syarat apa dana itu benar-benar masuk. Yang perlu dipantau berikutnya adalah penyelesaian kajian Fairness Opinion oleh KJPP yang menjadi syarat pencairan pinjaman tersebut, serta penyempurnaan keterbukaan informasi lanjutan yang dijanjikan BIKE soal status kepemilikan tidak langsungnya atas RK dan PNE.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tpia-siapkan-buyback-rp2-triliun-batasi-harga-rp3-000",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Siapkan Buyback [Rp2 Triliun], Batasi Harga Rp3.000",
+  "deck": "Chandra Asri mengalokasikan dana hingga Rp2 triliun untuk membeli kembali maksimal 1,84 persen sahamnya dengan harga tertinggi Rp3.000 per lembar, periode 29 Oktober 2026 hingga 28 Januari 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T07:32:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1b5bd0dbdd_bbeeb161cd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "buyback",
+   "Chandra Asri",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Chandra Asri Pacific Tbk (TPIA) mengumumkan rencana pembelian kembali saham (buyback) dengan dana maksimal Rp2 triliun yang bersumber dari kas internal perusahaan secara bertahap. Rencana ini mengacu pada aturan OJK tentang kebijakan menjaga stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan. Periode pembelian berlangsung 29 Oktober 2026 sampai 28 Januari 2027, dan perusahaan bisa menghentikannya lebih cepat kalau dana sudah habis atau target jumlah saham sudah tercapai.",
+   "Jumlah saham yang akan dibeli kembali dibatasi maksimal 1,84 persen dari total saham beredar, atau setara 1,6 miliar lembar saham, dengan harga beli tertinggi Rp3.000 per saham. Perseroan menunjuk PT BCA Sekuritas sebagai pelaksana transaksi di Bursa Efek Indonesia. Selama periode ini, anggota Dewan Komisaris, Direksi, pegawai, pemegang saham utama, serta pihak yang punya akses informasi orang dalam dilarang bertransaksi atas saham TPIA.",
+   "Berdasarkan laporan keuangan per 30 Juni 2026, dampak proforma buyback ini menurunkan total ekuitas perusahaan sebesar US$112 juta, dari US$4,96 miliar menjadi US$4,85 miliar, sementara total aset turun ke US$13,65 miliar. Laba bersih per saham tidak berubah, tetap di angka 0,0033. Saham yang dibeli kembali akan disimpan sebagai saham treasuri, dan jika masih dikuasai perusahaan tiga tahun setelah pembelian selesai, TPIA wajib mulai mengalihkannya dalam dua tahun berikutnya, dengan tenggat tambahan satu tahun jika kewajiban itu belum tuntas."
+  ],
+  "fotoAdegan": "Wide shot of a large petrochemical plant with steel pipelines and storage tanks under a dusky sky, industrial haze in the distance",
+  "takeaway": "Buyback ini condong netral bagi TPIA: dananya dari kas internal tanpa utang baru, tapi porsinya cuma 1,84 persen dari total saham dan dampaknya ke ekuitas relatif kecil dibanding ukuran perusahaan, jadi belum cukup besar untuk disebut sinyal kuat ke satu arah. Pos yang tersentuh adalah ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, yang turun US$112 juta karena kas dipakai membeli saham sendiri, sementara laba per saham, yaitu bagian laba yang jadi hak satu lembar saham, tidak berubah karena saham yang dibeli belum dihapus dari pencatatan. Yang perlu dipantau adalah realisasi pembelian sampai batas waktu 28 Januari 2027, termasuk apakah TPIA benar-benar menyerap mendekati Rp2 triliun atau berhenti lebih awal, serta bagaimana saham treasuri ini nanti dialihkan dalam tiga tahun ke depan sesuai aturan OJK.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pcar-cetak-laba-rp6-1-miliar-penjualan-melonjak-123-persen",
+  "category": "Aksi Korporasi",
+  "title": "PCAR Cetak Laba Rp6,1 Miliar, Penjualan [Melonjak] 123 Persen",
+  "deck": "Laporan keuangan interim kuartal III 2026 PCAR menunjukkan perusahaan berbalik untung setelah penjualan tumbuh dari Rp166,9 miliar menjadi Rp372,3 miliar dalam sembilan bulan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T07:03:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029071024-64836-0/FinancialStatement-2026-III-PCAR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PCAR",
+  "tags": [
+   "PCAR",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "emiten konsumer"
+  ],
+  "body": [
+   "PT Prima Cakrawala Abadi Tbk (PCAR), emiten pengolahan hasil laut asal Semarang, melaporkan kinerja keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan neto Perseroan melonjak menjadi Rp372,28 miliar, naik 123 persen dibanding periode yang sama tahun lalu sebesar Rp166,95 miliar. Kenaikan penjualan ini membawa Perseroan berbalik dari rugi usaha Rp1,97 miliar pada sembilan bulan pertama 2025 menjadi laba usaha Rp7,10 miliar pada periode yang sama tahun ini. Laba bersih yang dapat didistribusikan kepada pemegang saham tercatat Rp6,09 miliar, berbalik dari rugi Rp2,86 miliar setahun sebelumnya, sehingga laba per saham dasar menjadi Rp5,22, dari sebelumnya rugi Rp2,45 per saham.",
+   "Di sisi aset, persediaan Perseroan melonjak 63 persen dari Rp11,09 miliar menjadi Rp18,12 miliar, sejalan dengan kenaikan utang usaha ke pemasok dari Rp1,43 miliar menjadi Rp4,59 miliar, yang mengindikasikan Perseroan menambah stok bahan baku untuk mendukung penjualan yang tumbuh. Total aset naik dari Rp100,27 miliar menjadi Rp104,69 miliar, sementara total liabilitas justru turun dari Rp34,34 miliar menjadi Rp32,74 miliar, ditopang pelunasan sebagian utang bank baik jangka pendek, dari Rp13,48 miliar menjadi Rp11,00 miliar, maupun jangka panjang, dari Rp7,03 miliar menjadi Rp6,20 miliar. Dengan laba yang mengurangi akumulasi kerugian dan liabilitas yang mengecil, total ekuitas Perseroan naik dari Rp65,93 miliar menjadi Rp71,96 miliar.",
+   "Meski laba akuntansi naik, kas bersih yang dihasilkan dari aktivitas operasi justru turun dari Rp8,20 miliar menjadi Rp6,29 miliar. Penyebab utamanya adalah pembayaran imbalan kerja karyawan yang melonjak drastis, dari Rp144,7 juta pada periode yang sama tahun lalu menjadi Rp5,68 miliar pada periode ini, yang membuat liabilitas imbalan pascakerja di pembukuan turun dari Rp8,88 miliar menjadi Rp6,13 miliar. Perseroan juga mencatat laba selisih kurs Rp2,73 miliar, naik dari Rp826 juta tahun sebelumnya, yang turut menopang laba usaha periode ini. Laporan ini belum diaudit dan ditandatangani Direksi pada 28 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers sorting freshly caught blue crabs into plastic crates at a coastal cold storage facility in Java, early morning light",
+  "takeaway": "Laporan ini condong positif bagi PCAR karena Perseroan berhasil membalik kinerja dari rugi usaha menjadi laba, dengan penjualan yang lebih dari dua kali lipat dan utang bank yang justru menyusut, bukan sekadar laporan keuangan rutin tanpa makna. Perubahan yang pantas dicermati ada di ekuitas, yakni total modal yang tercatat milik pemegang saham, yang naik karena laba periode ini langsung mengurangi akumulasi kerugian Perseroan di masa lalu, serta di arus kas dari kegiatan operasional, yaitu uang tunai yang benar-benar masuk dari bisnis sehari-hari, yang justru menyusut akibat pembayaran besar untuk imbalan kerja karyawan meskipun laba di atas kertas naik. Laba per saham, yaitu bagian laba yang secara matematis menjadi hak setiap lembar saham, juga berbalik dari negatif menjadi positif, tanda bisnis intinya mulai menghasilkan uang bukan cuma di catatan akuntansi. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, karena laporan kuartal ini belum diaudit dan hasilnya bisa berubah setelah diperiksa akuntan publik, selain tren pembayaran imbalan kerja karyawan yang masih berlanjut dan dapat kembali menekan kas operasional pada kuartal mendatang.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "mentan-amran-desak-polisi-bongkar-mafia-beras-sphp",
   "category": "Bisnis",
   "title": "Mentan Amran Desak Polisi Bongkar [Mafia] Beras SPHP",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kdsi-liabilitas-melonjak-34-5-imbas-pinjaman-bank-baru",
+  "category": "Aksi Korporasi",
+  "title": "KDSI: Liabilitas Melonjak 34,5% Imbas [Pinjaman] Bank Baru",
+  "deck": "Total liabilitas KDSI naik 34,5 persen jadi Rp561,3 miliar dalam sembilan bulan, didorong pembelian bahan baku dan pinjaman bank baru.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDSI",
+   "laporan keuangan",
+   "liabilitas",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029131557-64511-0/FinancialStatement-2026-III-KDSI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "talf-cetak-laba-melonjak-74-persen-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "TALF Cetak Laba [Melonjak] 74 Persen di Kuartal III 2026",
+  "deck": "Laba bersih TALF naik 74 persen jadi Rp52,2 miliar dalam sembilan bulan 2026 seiring penjualan yang tumbuh dan beban bunga yang turun, sementara dividen tunai naik tiga kali lipat.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TALF",
+   "laporan keuangan",
+   "kemasan",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029131114-65259-0/FinancialStatement-2026-III-TALF.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "as-sumbang-surplus-dagang-ri-us-12-47-miliar-hingga-agustus",
   "category": "Global",
   "title": "AS Sumbang [Surplus] Dagang RI US$12,47 Miliar hingga Agustus",
@@ -21,6 +53,118 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-dunia-usaha-as-perkuat-kerja-sama-dengan-indonesia",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "boss-bukukan-defisiensi-modal-rp189-miliar-di-lk-2023",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Bukukan [Defisiensi] Modal Rp189 Miliar di LK 2023",
+  "deck": "Laporan keuangan 2023 PT Borneo Olah Sarana Sukses Tbk (BOSS) yang baru terbit mencatat opini wajar dengan pengecualian, anak usaha tambang pailit, dan defisiensi modal Rp188,9 miliar.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "laporan keuangan",
+   "opini audit",
+   "pailit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202310/20261029123115-64945-0/FinancialStatement-2023-Tahunan-BOSS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kopi-laba-bersih-melonjak-174-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "KOPI: Laba Bersih [Melonjak] 174% di Kuartal III 2026",
+  "deck": "Laba bersih Mitra Energi Persada naik dari Rp3,80 miliar menjadi Rp10,41 miliar pada sembilan bulan 2026, sementara total utang menyusut dan kas meningkat tajam.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOPI",
+   "laporan keuangan",
+   "laba bersih",
+   "energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029122559-64684-0/FinancialStatement-2026-III-KOPI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "csra-laba-bersih-melonjak-43-persen-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "CSRA: Laba Bersih [Melonjak] 43 Persen di Sembilan Bulan 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 Cisadane Sawit Raya menunjukkan penjualan naik 55 persen dan utang bank turun, sementara utang ke pihak berelasi melompat Rp180 miliar.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSRA",
+   "laporan keuangan",
+   "sawit",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029121554-64938-0/FinancialStatement-2026-III-CSRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptba-laba-bersih-melonjak-215-jadi-rp4-42-triliun-di-9m2026",
+  "category": "Aksi Korporasi",
+  "title": "PTBA: Laba Bersih [Melonjak] 215% Jadi Rp4,42 Triliun di 9M2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 PTBA menunjukkan laba bersih naik dari Rp1,40 triliun jadi Rp4,42 triliun, didorong membaiknya margin usaha batu bara.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTBA",
+   "laba bersih",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029121443-65121-0/FinancialStatement-2026-III-PTBA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lead-catat-rugi-us-2-9-juta-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "LEAD Catat [Rugi] US$2,9 Juta di Kuartal III 2026",
+  "deck": "Pendapatan Logindo turun 18 persen jadi US$24,1 juta pada sembilan bulan 2026, laba berbalik jadi rugi US$2,9 juta, meski utang perusahaan menyusut tajam.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LEAD",
+   "laporan keuangan",
+   "rugi bersih",
+   "Logindo Samudramakmur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029121155-64818-0/FinancialStatement-2026-III-LEAD.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cars-catat-laba-rp164-8-miliar-di-kuartal-iii-2026-naik-13-7",
+  "category": "Aksi Korporasi",
+  "title": "CARS Catat [Laba] Rp164,8 Miliar di Kuartal III 2026, Naik 13,7%",
+  "deck": "Laba bersih CARS naik 13,7 persen menjadi Rp164,8 miliar pada sembilan bulan pertama 2026, didorong penjualan otomotif dan bunga pinjaman yang lebih ringan.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CARS",
+   "laporan keuangan",
+   "laba bersih",
+   "otomotif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029120850-64336-0/FinancialStatement-2026-III-CARS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "avia-catat-laba-bersih-tumbuh-16-4-ke-rp1-38-triliun",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Catat Laba Bersih [Tumbuh] 16,4% ke Rp1,38 Triliun",
+  "deck": "Penjualan neto AVIA naik 16,7 persen jadi Rp6,92 triliun dalam sembilan bulan 2026, laba bersih naik 16,4 persen, sementara liabilitas naik 28,24 persen karena utang usaha dan beban pemasaran.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "laporan keuangan",
+   "laba bersih",
+   "industri cat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029120237-64922-0/FinancialStatement-2026-III-AVIA.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bahlil-siapkan-izin-terpusat-untuk-hulu-migas",
@@ -6319,147 +6463,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474510-realisasi-kedaulatan-energi-nasional-pemerintah-resmikan-proyek-gas-jne6-dan-lapangan-maha"
- },
- {
-  "slug": "boss-gelar-rups-ratifikasi-keterlambatan-tiga-tahun-buku",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Gelar RUPS, Ratifikasi [Keterlambatan] Tiga Tahun Buku",
-  "deck": "RUPST tiga tahun buku (2023-2025) dan RUPSLB BOSS digelar 29 Oktober 2026, di tengah opini audit wajar dengan pengecualian dan anak usaha yang masih pailit.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "RUPS",
-   "batubara",
-   "pailit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d3a7b413ac_5b44f1e9b3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prtl-setujui-dividen-interim-rp176-miliar-untuk-2026",
-  "category": "Aksi Korporasi",
-  "title": "PRTL Setujui [Dividen] Interim Rp176 Miliar untuk 2026",
-  "deck": "Direksi dan komisaris Protelindo (PRTL) menyetujui dividen interim tahun buku 2026 sebesar Rp3,02 per saham, total Rp176 miliar, mayoritas mengalir ke induk usaha TOWR.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRTL",
-   "TOWR",
-   "dividen interim",
-   "Protelindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dfbfa82394_9d443c9517.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tlkm-tanggapi-bei-pemegang-saham-mayoritas-kaji-langkah",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Tanggapi BEI, Pemegang Saham Mayoritas Kaji [Langkah]",
-  "deck": "TLKM menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, dan menyebut pemegang saham Seri B mayoritas tengah mengkaji langkah terkait kepemilikannya.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "Telkom Indonesia",
-   "BEI",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/42d0e195de_56063b3667.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-rupslb-bahas-divestasi-saham-jasamarga-jogja-solo",
-  "category": "Aksi Korporasi",
-  "title": "ADHI RUPSLB bahas [divestasi] saham Jasamarga Jogja Solo",
-  "deck": "Adhi Karya mengundang pemegang saham ke RUPSLB 13 November 2026 untuk menyetujui rencana divestasi saham di Jasamarga Jogja Solo dan perubahan penggunaan dana rights issue II.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "RUPSLB",
-   "divestasi",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f32ca3856a_d7089e4d3d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-tetapkan-ulang-film-sebagai-saham-terkonsentrasi-tinggi",
-  "category": "Aksi Korporasi",
-  "title": "BEI Tetapkan Ulang FILM sebagai Saham [Terkonsentrasi] Tinggi",
-  "deck": "BEI kembali menetapkan FILM sebagai saham berkonsentrasi tinggi, setelah penurunan kepemilikan pada 12 Oktober ternyata berasal dari transaksi repo saham, bukan perubahan kepemilikan riil.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "BEI",
-   "kepemilikan saham",
-   "repo saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ceb6135e0c_aa17193fce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "produksi-gas-kaltim-naik-ke-750-juta-kaki-kubik-hari",
-  "category": "Energi",
-  "title": "Produksi Gas Kaltim Naik ke [750] Juta Kaki Kubik/Hari",
-  "deck": "Dua proyek gas lepas pantai Kalimantan Timur, JNE#6 dan Lapangan Maha, ditargetkan menambah produksi nasional menjadi sekitar 750 juta kaki kubik gas per hari mulai 1 November 2026.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/produksi-gas-kaltim-naik-ke-750-juta-kaki-kubik-hari.jpg",
-  "imageV": "mvjldgx6",
-  "tags": [
-   "gas",
-   "Kalimantan Timur",
-   "ESDM",
-   "Lapangan Maha"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/resmikan-gas-jne6-dan-lapangan-maha-menko-hiltrans-dorong-tambahan-produksi-gas-nasional",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "djki-gelar-forum-bisnis-paten-buka-peluang-investasi-teknologi",
-  "category": "Teknologi",
-  "title": "DJKI Gelar Forum Bisnis Paten, Buka Peluang [Investasi] Teknologi",
-  "deck": "DJKI menggelar Forum Bisnis Paten Indonesia 2026 pada 3-5 November di JCC Jakarta untuk mempertemukan inventor, investor, dan industri demi komersialisasi paten dalam negeri.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/djki-gelar-forum-bisnis-paten-buka-peluang-investasi-teknologi.jpg",
-  "imageV": "mvjldhq9",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474483-djki-gelar-forum-bisnis-paten-indonesia-fbpi-2026-buka-peluang-investasi-teknologi"
- },
- {
-  "slug": "wika-gagal-penuhi-kuorum-rupsu-usulan-penyelesaian-sukuk-ditolak",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Gagal] Penuhi Kuorum RUPSU, Usulan Penyelesaian Sukuk Ditolak",
-  "deck": "RUPSU WIKA untuk sukuk mudharabah Tahap II gagal capai keputusan setelah 71,7 persen pemegang suara menolak usulan penyelesaian gagal bayar bagi hasil.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "gagal bayar",
-   "RUPSU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf7cbc2426_0f07cfd372.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tlkm-tuntaskan-buyback-saham-rp36-5-miliar-imbas-spin-off-fiber",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Tuntaskan [Buyback] Saham Rp36,5 Miliar Imbas Spin-off Fiber",
-  "deck": "Telkom membeli kembali 15,96 juta saham senilai Rp36,54 miliar dari pemegang saham yang menolak rencana pemisahan bisnis fiber ke anak usaha, sesuai hak appraisal dalam UUPT.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "buyback saham",
-   "spin-off fiber",
-   "UUPT"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcabc9d883_e0515faa94.pdf",
-  "sourceLabel": "IDX"
  }
 ];

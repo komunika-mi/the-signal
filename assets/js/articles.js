@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kdsi-liabilitas-melonjak-34-5-imbas-pinjaman-bank-baru",
+  "category": "Aksi Korporasi",
+  "title": "KDSI: Liabilitas Melonjak 34,5% Imbas [Pinjaman] Bank Baru",
+  "deck": "Total liabilitas KDSI naik 34,5 persen jadi Rp561,3 miliar dalam sembilan bulan, didorong pembelian bahan baku dan pinjaman bank baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T13:06:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029131557-64511-0/FinancialStatement-2026-III-KDSI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDSI",
+  "tags": [
+   "KDSI",
+   "laporan keuangan",
+   "liabilitas",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Kedawung Setia Industrial Tbk (KDSI) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan per 30 September 2026 kepada OJK dan Bursa Efek Indonesia. Total aset perusahaan naik 13,3 persen, dari Rp1,21 triliun pada akhir 2025 menjadi Rp1,37 triliun. Kenaikan ini ditopang kas dan setara kas yang melonjak hampir dua kali lipat, dari Rp52 miliar menjadi Rp100,5 miliar, serta persediaan yang naik 25,3 persen menjadi Rp392,7 miliar.",
+   "Karena kenaikan total liabilitas melebihi 20 persen, perusahaan wajib mengirim surat penjelasan terpisah ke OJK dan BEI sesuai Peraturan Bursa No. I-E. Dalam surat itu, Direktur Ageng Inabhimantra menyatakan total liabilitas naik 34,5 persen, dari Rp417,4 miliar menjadi Rp561,3 miliar, karena peningkatan pembelian bahan baku dari vendor untuk mendukung operasional produksi. Hal ini terlihat dari utang usaha pihak ketiga yang naik 23,7 persen menjadi Rp295,1 miliar. Di luar itu, perusahaan juga menambah pinjaman berbunga ke bank: utang bank jangka pendek naik 15 persen menjadi Rp89,1 miliar, ditambah pinjaman bank jangka panjang baru senilai Rp56,9 miliar dan bagian yang jatuh tempo dalam satu tahun senilai Rp10,2 miliar, yang sebelumnya tidak ada. Total pinjaman berbunga ke bank praktis berlipat ganda, dari Rp77,5 miliar menjadi Rp156,2 miliar.",
+   "Sementara itu, ekuitas atau modal sendiri pemegang saham, yang didapat dari selisih total aset dengan total liabilitas, hanya naik tipis dari sekitar Rp793,4 miliar menjadi Rp810,6 miliar. Manajemen menyebut kenaikan liabilitas tersebut wajar dan dapat dipertanggungjawabkan karena terkait langsung dengan dukungan terhadap operasional produksi perusahaan."
+  ],
+  "fotoAdegan": "Workers stacking corrugated cardboard boxes on wooden pallets inside a packaging factory warehouse, forklift passing by",
+  "takeaway": "Laporan ini netral bagi KDSI: perusahaan memperbesar utang dan utang usaha untuk membiayai pembelian bahan baku dan produksi, tapi kas yang dipegang juga melonjak signifikan sehingga belum terlihat tanda tekanan likuiditas. Yang tersentuh di sini adalah pos utang berbunga ke bank, yang nilainya praktis berlipat ganda dalam sembilan bulan, karena utang semacam ini menambah beban bunga yang harus dibayar perusahaan setiap periode dan bisa menggerus laba bersih yang akhirnya dinikmati pemegang saham, sementara modal sendiri pemegang saham cuma naik 2,2 persen jauh di bawah laju kenaikan utang. Yang perlu dipantau berikutnya adalah apakah persediaan yang menumpuk saat ini benar benar terjual sebagai pendapatan pada kuartal keempat, dan apakah beban bunga dari pinjaman baru ini mulai terasa di laporan keuangan auditan akhir tahun 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "talf-cetak-laba-melonjak-74-persen-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "TALF Cetak Laba [Melonjak] 74 Persen di Kuartal III 2026",
+  "deck": "Laba bersih TALF naik 74 persen jadi Rp52,2 miliar dalam sembilan bulan 2026 seiring penjualan yang tumbuh dan beban bunga yang turun, sementara dividen tunai naik tiga kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T12:58:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029131114-65259-0/FinancialStatement-2026-III-TALF.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TALF",
+  "tags": [
+   "TALF",
+   "laporan keuangan",
+   "kemasan",
+   "dividen"
+  ],
+  "body": [
+   "PT Tunas Alfin Tbk (TALF), produsen kemasan yang berbasis di Tangerang, melaporkan laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan neto perusahaan naik menjadi Rp1,15 triliun dari Rp1,06 triliun pada periode yang sama tahun lalu. Laba kotor melonjak dari Rp110,7 miliar menjadi Rp141,4 miliar, sementara laba usaha naik dari Rp56,8 miliar menjadi Rp81 miliar. Setelah pajak, laba bersih yang bisa diatribusikan kepada pemegang saham induk naik dari Rp29,96 miliar menjadi Rp52,16 miliar, sehingga laba per saham terangkat dari Rp22,14 menjadi Rp38,54.",
+   "Dalam surat penjelasan perubahan akun di atas 20 persen yang dikirim ke Bursa Efek Indonesia tertanggal 28 Oktober 2026, manajemen TALF menjelaskan bahwa persediaan naik 30,4 persen dari Rp196,5 miliar menjadi Rp256,3 miliar, terutama karena penambahan bahan baku Rp37,1 miliar dan barang dalam proses Rp21,9 miliar, seiring target perusahaan untuk terus menaikkan volume penjualan hingga akhir tahun. Utang usaha pihak ketiga ikut naik 37,1 persen menjadi Rp281,8 miliar untuk membiayai pembelian bahan baku tersebut, sementara utang bank jangka pendek bertambah 24,5 persen menjadi Rp35,7 miliar setelah entitas anak menarik kredit modal kerja dari Bank BCA. Di sisi lain, tagihan restitusi pajak penghasilan yang tercatat Rp5,9 miliar pada akhir 2025 kini menjadi nihil, setelah perusahaan menerima pengembalian kelebihan bayar pajak dan entitas anak menerima surat ketetapan pajak lebih bayar sebesar Rp879,8 juta pada Maret 2026.",
+   "Selama sembilan bulan 2026, TALF membagikan dividen tunai Rp12,83 miliar, naik tiga kali lipat dibanding Rp4,06 miliar pada periode yang sama 2025. Kas dan setara kas perusahaan justru turun 16,2 persen menjadi Rp33,26 miliar dari Rp39,66 miliar, sementara jumlah ekuitas naik tipis menjadi Rp1,37 triliun dari Rp1,33 triliun. Total aset perusahaan tercatat Rp1,96 triliun, dengan anak usaha PT Dharma Anugerah Indah di Surabaya, yang bergerak di bidang percetakan dan perindustrian dengan kepemilikan TALF sebesar 90 persen, menyumbang aset Rp504,26 miliar."
+  ],
+  "fotoAdegan": "Factory workers monitoring rolls of plain cardboard material on a packaging production line, stacked boxes in soft morning light.",
+  "takeaway": "Laporan ini condong positif bagi TALF, karena laba bersihnya melonjak 74 persen sementara penjualan hanya tumbuh 8,7 persen, tanda bahwa kenaikan laba datang dari efisiensi biaya dan penurunan beban bunga, bukan sekadar dorongan penjualan. Yang perlu diperhatikan investor adalah laba per saham, yaitu bagian laba yang secara teoritis menjadi hak setiap lembar saham yang dipegang investor, yang ikut melonjak dari Rp22,14 menjadi Rp38,54 karena jumlah saham beredar tidak berubah. Arus kas tunai yang menyusut 16 persen juga pantas dicermati, karena sebagian dipakai untuk membayar dividen dan menambah persediaan bahan baku, bukan tanda masalah likuiditas selama penjualan tetap tumbuh. Yang akan menentukan kelanjutan tren ini adalah apakah target perusahaan untuk terus menaikkan volume penjualan hingga akhir 2026 benar-benar tercapai, yang baru akan terlihat dari laporan keuangan tahun penuh yang teraudit.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "as-sumbang-surplus-dagang-ri-us-12-47-miliar-hingga-agustus",
   "category": "Global",
   "title": "AS Sumbang [Surplus] Dagang RI US$12,47 Miliar hingga Agustus",
@@ -29,6 +81,187 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang konkret dari pertemuan ini bukan aturan baru, melainkan konfirmasi bahwa AS masih jadi penyumbang surplus dagang terbesar bagi Indonesia, senilai US$12,47 miliar sepanjang Januari-Agustus 2026 saja. Pihak yang paling berkepentingan adalah eksportir di sektor elektronik, tekstil, alas kaki, dan produk kulit, karena merekalah yang selama ini menopang surplus tersebut lewat penjualan ke pasar AS. Pertemuan ini juga menyebut adanya pembahasan Agreement on Reciprocal Trade (ART), semacam perjanjian dagang timbal balik antara Indonesia dan AS, tapi isi dan tenggat penyelesaiannya belum diungkap ke publik. Yang perlu dipantau selanjutnya adalah kapan ART ini difinalisasi dan ketentuan apa saja yang diaturnya, karena dari situ baru bisa terlihat apakah hubungan dagang dua negara akan makin terbuka atau justru diatur dengan syarat baru.",
   "imageV": "mvt49sgg"
+ },
+ {
+  "slug": "boss-bukukan-defisiensi-modal-rp189-miliar-di-lk-2023",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Bukukan [Defisiensi] Modal Rp189 Miliar di LK 2023",
+  "deck": "Laporan keuangan 2023 PT Borneo Olah Sarana Sukses Tbk (BOSS) yang baru terbit mencatat opini wajar dengan pengecualian, anak usaha tambang pailit, dan defisiensi modal Rp188,9 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T12:21:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202310/20261029123115-64945-0/FinancialStatement-2023-Tahunan-BOSS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "laporan keuangan",
+   "opini audit",
+   "pailit"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan laporan keuangan tahunan untuk periode yang berakhir 31 Desember 2023, diaudit oleh Kantor Akuntan Publik Mohammad Sunusi dan Rekan dengan partner audit Martogi Marojahan Sitinjak. Auditor memberikan opini wajar dengan pengecualian. Penyebabnya adalah pembatalan perjanjian perdamaian (homologasi) dalam perkara Penundaan Kewajiban Pembayaran Utang oleh Pengadilan Niaga Jakarta Pusat, yang membuat anak usaha tidak langsung Perseroan, PT Bangun Olahsarana Sukses, dinyatakan pailit. Manajemen Grup sudah mengajukan Peninjauan Kembali ke Mahkamah Agung setelah kasasi sebelumnya ditolak, dan Tim Kurator yang ditunjuk pengadilan berencana melanjutkan operasi anak usaha itu sambil menuntaskan kerja sama dengan investor dan izin RKAB 2023 dari Kementerian ESDM. Auditor menyebut kondisi ini menimbulkan ketidakpastian material atas kemampuan Grup mempertahankan kelangsungan usahanya.",
+   "Laporan ini juga memuat catatan penekanan suatu hal mengenai anak usaha lain, PT Pratama Bersama, yang pada 1 November 2021 menyepakati perdamaian utang dengan kreditor Rocksbridge Energy Pte Ltd. Setelah masa tenggang delapan bulan yang berakhir 30 Juni 2022, Grup seharusnya membayar cicilan Rp1.082.403.830 setiap akhir bulan. Namun sampai laporan ini diselesaikan, total utang yang belum dibayarkan mencapai Rp38.966.537.863 dan Grup belum melakukan satu pun pembayaran cicilan. Manajemen menyebut keterlambatan ini karena likuiditas Grup masih terbatas, lantaran PT Pratama Bersama, yang menyumbang kinerja signifikan bagi Grup, baru memulai produksi pada tahun berjalan.",
+   "Dari sisi angka, total aset konsolidasian Grup turun menjadi Rp596,64 miliar per akhir 2023 dari Rp699,11 miliar setahun sebelumnya. Auditor juga menyoroti sebagai hal audit utama penyisihan kerugian kredit ekspektasian atas piutang usaha dan piutang lainnya, yang bruto masing-masing tercatat Rp37,63 miliar dan Rp76,29 miliar atau 19,09 persen dari total aset Grup, dengan cadangan yang dibentuk tahun ini sebesar Rp5,61 miliar. Berdasarkan surat penjelasan Perseroan kepada OJK atas perubahan pos di atas 20 persen, defisit akumulasi (saldo rugi) Grup membesar menjadi Rp473,82 miliar dari Rp321,91 miliar, sementara posisi modal Grup berbalik menjadi defisiensi modal Rp188,94 miliar, naik tajam dari Rp39,38 miliar pada akhir 2022, yang berarti total utang Grup sudah melampaui total asetnya."
+  ],
+  "fotoAdegan": "Idle excavators and conveyor belts at a quiet open-pit coal mine under grey skies in East Kalimantan",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena opini audit wajar dengan pengecualian dipicu pailitnya anak usaha tambang dan posisi modal Grup sudah negatif. Opini wajar dengan pengecualian berarti auditor menganggap laporan keuangan secara umum bisa dipercaya, kecuali untuk satu masalah besar yang disebut tegas, yaitu status pailit anak usaha itu. Pos yang paling tersentuh adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan, yang kini negatif Rp188,94 miliar, artinya utang Grup sudah lebih besar dari asetnya sehingga tidak ada lagi bantalan modal untuk menyerap kerugian lanjutan. Arus kas Grup juga seret, terlihat dari gagalnya membayar cicilan Rp38,97 miliar ke salah satu kreditor karena anak usaha penghasil pendapatan utamanya baru mulai berproduksi. Yang perlu dipantau berikutnya adalah hasil Peninjauan Kembali ke Mahkamah Agung atas status pailit anak usaha tersebut, serta RUPS Tahunan dan Luar Biasa yang menurut agenda terbaru Perseroan dijadwalkan ulang ke 4 November 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kopi-laba-bersih-melonjak-174-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "KOPI: Laba Bersih [Melonjak] 174% di Kuartal III 2026",
+  "deck": "Laba bersih Mitra Energi Persada naik dari Rp3,80 miliar menjadi Rp10,41 miliar pada sembilan bulan 2026, sementara total utang menyusut dan kas meningkat tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T12:19:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029122559-64684-0/FinancialStatement-2026-III-KOPI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOPI",
+  "tags": [
+   "KOPI",
+   "laporan keuangan",
+   "laba bersih",
+   "energi"
+  ],
+  "body": [
+   "PT Mitra Energi Persada Tbk (KOPI) melaporkan laba bersih sebesar Rp10,41 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, melonjak 174 persen dibanding Rp3,80 miliar pada periode yang sama tahun lalu. Dari jumlah itu, Rp10,36 miliar menjadi bagian pemegang saham induk, membuat laba per saham naik dari Rp5,42 menjadi Rp14,86. Kenaikan laba ditopang oleh pendapatan yang naik 7,5 persen dari Rp184,77 miliar menjadi Rp198,59 miliar, serta laba usaha yang naik dari Rp17,60 miliar menjadi Rp20,92 miliar.",
+   "Di sisi keuangan, beban bunga perusahaan turun dari Rp9,88 miliar menjadi Rp9,00 miliar seiring berkurangnya pinjaman bank. Total liabilitas KOPI menyusut dari Rp205,09 miliar pada akhir 2025 menjadi Rp180,26 miliar per akhir September 2026, sementara total ekuitas naik dari Rp69,85 miliar menjadi Rp80,26 miliar. Defisit akumulasi dari kerugian tahun-tahun sebelumnya ikut menyusut dari Rp149,52 miliar menjadi Rp139,16 miliar. Kas dan setara kas perusahaan juga melonjak dari Rp762,25 juta menjadi Rp5,02 miliar, dan arus kas dari aktivitas operasi naik dari Rp20,51 miliar menjadi Rp25,32 miliar.",
+   "Penurunan total aset dari Rp274,95 miliar menjadi Rp260,52 miliar terutama berasal dari nilai buku aset tetap yang turun dari Rp171,85 miliar menjadi Rp152,06 miliar akibat penyusutan. Laporan ini juga mencantumkan anak usaha PT Mitra Energi Buana, yang bergerak di niaga gas bumi dan pembangunan pembangkit listrik, dengan kepemilikan KOPI sebesar 99,5 persen dan total aset Rp245,43 miliar. Laporan keuangan interim ini belum diaudit dan disampaikan sesuai surat pernyataan direksi tertanggal 29 Oktober 2026."
+  ],
+  "fotoAdegan": "Technicians checking valves and piping at a small gas distribution terminal, overcast morning light, industrial setting in Indonesia",
+  "takeaway": "Laporan ini condong positif bagi KOPI karena laba bersih sembilan bulan 2026 melonjak 174 persen dibanding periode yang sama tahun lalu, sementara total utang menyusut dan kas di tangan membesar tajam. Kenaikan laba ini langsung menambah ekuitas, yaitu modal bersih perusahaan setelah dikurangi seluruh utang, dari Rp69,85 miliar menjadi Rp80,26 miliar, dan membuat defisit akumulasi dari kerugian tahun-tahun sebelumnya menyusut dari Rp149,52 miliar menjadi Rp139,16 miliar. Laba per saham, yaitu bagian laba yang secara teoretis menjadi hak tiap lembar saham, naik dari Rp5,42 menjadi Rp14,86, dan ini sejalan dengan arus kas operasi yang membesar dari Rp20,51 miliar menjadi Rp25,32 miliar, tanda bahwa kenaikan laba benar-benar berupa uang tunai yang masuk, bukan sekadar angka pembukuan. Beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjamannya, juga sedikit menurun seiring mengecilnya utang bank. Karena laporan ini masih berstatus tidak diaudit, yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit yang akan mengonfirmasi apakah perbaikan kinerja ini bertahan sampai akhir tahun.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "csra-laba-bersih-melonjak-43-persen-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "CSRA: Laba Bersih [Melonjak] 43 Persen di Sembilan Bulan 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 Cisadane Sawit Raya menunjukkan penjualan naik 55 persen dan utang bank turun, sementara utang ke pihak berelasi melompat Rp180 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T12:06:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029121554-64938-0/FinancialStatement-2026-III-CSRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSRA",
+  "tags": [
+   "CSRA",
+   "laporan keuangan",
+   "sawit",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Cisadane Sawit Raya Tbk (CSRA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Direktur Utama Gita Sapta Adi dan Direktur Seman Sendjaja pada 28 Oktober 2026. Penjualan neto tercatat Rp2,07 triliun, naik 55,2 persen dari Rp1,33 triliun pada periode yang sama tahun 2025. Laba bersih periode berjalan naik 43,1 persen menjadi Rp306,09 miliar dari Rp213,92 miliar, sehingga laba per saham dasar naik dari Rp104 menjadi Rp149.",
+   "Dari sisi posisi keuangan, total aset perusahaan per 30 September 2026 mencapai Rp2,77 triliun, naik dari Rp2,52 triliun pada akhir 2025. Total liabilitas justru turun menjadi Rp998,03 miliar dari Rp1,05 triliun, sementara ekuitas naik 20,9 persen menjadi Rp1,77 triliun. Penurunan liabilitas ini ditopang oleh pelunasan utang bank: utang bank jangka pendek turun dari Rp100 miliar menjadi Rp60 miliar, dan total utang bank jangka panjang (termasuk bagian jatuh tempo) turun dari sekitar Rp659,58 miliar menjadi Rp428,55 miliar. Namun di sisi lain, utang jangka panjang kepada pihak berelasi melonjak dari Rp37,23 miliar menjadi Rp217,18 miliar, sejalan dengan laporan arus kas yang mencatat penerimaan utang dari pihak berelasi senilai Rp179,95 miliar sepanjang sembilan bulan ini.",
+   "Laporan arus kas menunjukkan kas neto dari aktivitas operasi relatif stagnan di Rp311,44 miliar, hampir sama dengan Rp311,54 miliar pada periode yang sama tahun lalu, meski laba melonjak jauh lebih tinggi. Aktivitas investasi menyedot kas Rp198,75 miliar, terutama untuk perolehan aset tetap Rp129,96 miliar dan pengembangan tanaman belum menghasilkan Rp33,12 miliar. Aktivitas pendanaan menggunakan kas neto Rp102,33 miliar, mencerminkan kombinasi pelunasan utang bank dan masuknya dana dari utang pihak berelasi tersebut. Posisi kas dan setara kas akhir periode tercatat Rp169,13 miliar, naik dari Rp158,77 miliar di akhir 2025."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested oil palm fruit bunches onto a truck inside a plantation, tropical morning light, dense green rows in background",
+  "takeaway": "Laporan ini condong positif bagi CSRA karena penjualan dan laba bersih tumbuh signifikan sementara beban utang bank justru menyusut, tanda operasional yang menguat. Yang tersentuh adalah ekuitas, yakni modal sendiri perusahaan setelah dikurangi semua utang, yang kini lebih tebal dan jadi penyangga tambahan jika kondisi usaha memburuk, serta laba per saham yang ikut terangkat karena jumlah saham beredar tidak berubah sehingga seluruh kenaikan laba langsung dinikmati tiap lembar saham. Catatan hati-hatinya, arus kas dari operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan bisnis sehari-hari, nyaris tidak bergerak meski laba akuntansi melonjak, dan sebagian pembiayaan kini bergeser dari bank ke utang pihak berelasi senilai hampir Rp180 miliar. Yang perlu dipantau selanjutnya adalah bagaimana utang kepada pihak berelasi ini diperlakukan dan dilunasi, serta laporan keuangan tahunan auditan untuk tahun buku 2026 yang biasanya terbit akhir Maret 2027, yang akan mengonfirmasi apakah tren pertumbuhan penjualan dan laba ini bertahan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ptba-laba-bersih-melonjak-215-jadi-rp4-42-triliun-di-9m2026",
+  "category": "Aksi Korporasi",
+  "title": "PTBA: Laba Bersih [Melonjak] 215% Jadi Rp4,42 Triliun di 9M2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 PTBA menunjukkan laba bersih naik dari Rp1,40 triliun jadi Rp4,42 triliun, didorong membaiknya margin usaha batu bara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T12:05:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029121443-65121-0/FinancialStatement-2026-III-PTBA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTBA",
+  "tags": [
+   "PTBA",
+   "laba bersih",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "body": [
+   "PT Bukit Asam (Persero) Tbk (PTBA) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia pada 29 Oktober 2026. Pendapatan perseroan tercatat Rp35,20 triliun, naik 12,4 persen dari Rp31,33 triliun pada periode yang sama tahun 2025. Laba bersih periode berjalan melonjak jadi Rp4,42 triliun dari Rp1,40 triliun, atau naik 215 persen, sehingga laba per saham ikut naik dari Rp121 menjadi Rp383.",
+   "Kenaikan laba ini bukan semata dari pertumbuhan pendapatan, sebab beban pokok pendapatan hanya naik tipis dari Rp27,76 triliun jadi Rp27,94 triliun. Akibatnya laba bruto melonjak dari Rp3,57 triliun jadi Rp7,27 triliun dan laba usaha naik dari Rp1,60 triliun jadi Rp5,11 triliun. Kontribusi dari entitas asosiasi dan ventura bersama juga bertambah, dari Rp333,09 miliar menjadi Rp581,31 miliar, sementara beban bunga yang ditanggung perseroan turun dari Rp247,93 miliar jadi Rp136,52 miliar.",
+   "Dari sisi posisi keuangan, total aset PTBA per 30 September 2026 tercatat Rp51,55 triliun, naik dari Rp43,92 triliun pada akhir 2025, sementara total ekuitas naik dari Rp22,62 triliun jadi Rp27,24 triliun. Total liabilitas bertambah dari Rp21,30 triliun jadi Rp24,31 triliun, dengan pergeseran komposisi utang bank: pinjaman bank jangka pendek turun dari Rp1,95 triliun jadi Rp1,54 triliun, sedangkan pinjaman bank jangka panjang naik dari Rp1,28 triliun jadi Rp2,67 triliun. Perseroan juga membayar dividen Rp1,33 triliun pada periode ini, lebih kecil dibanding Rp3,86 triliun yang dibayarkan pada periode sembilan bulan 2025, dan arus kas bersih dari aktivitas operasi tercatat Rp4,44 triliun, naik dari Rp4,20 triliun."
+  ],
+  "fotoAdegan": "Large haul trucks moving coal across an open-pit mine terrace under an overcast sky, dust rising from heavy machinery",
+  "takeaway": "Laporan ini jelas positif bagi fundamental PTBA, karena laba bersih melonjak tiga kali lipat lebih sementara ongkos produksi nyaris tidak bergerak, tanda margin usaha membaik bukan sekadar efek kenaikan pendapatan. Pos yang paling tersentuh adalah ekuitas, yaitu total kekayaan bersih yang jadi hak pemegang saham, yang naik dari Rp22,62 triliun menjadi Rp27,24 triliun karena laba ditahan bertambah banyak, dan laba per saham yang melompat dari Rp121 jadi Rp383 berarti porsi keuntungan untuk setiap lembar saham jauh lebih besar dari tahun lalu. Beban bunga juga mengecil dari Rp247,93 miliar jadi Rp136,52 miliar, tanda biaya utang makin ringan, meski nilai pinjaman bank jangka panjang justru naik karena perseroan menggeser sebagian utang jangka pendek ke tenor lebih panjang. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang akan diaudit, sebab angka pada laporan interim ini belum diperiksa akuntan publik dan masih bisa berubah saat proses audit selesai.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "lead-catat-rugi-us-2-9-juta-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "LEAD Catat [Rugi] US$2,9 Juta di Kuartal III 2026",
+  "deck": "Pendapatan Logindo turun 18 persen jadi US$24,1 juta pada sembilan bulan 2026, laba berbalik jadi rugi US$2,9 juta, meski utang perusahaan menyusut tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T11:59:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029121155-64818-0/FinancialStatement-2026-III-LEAD.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LEAD",
+  "tags": [
+   "LEAD",
+   "laporan keuangan",
+   "rugi bersih",
+   "Logindo Samudramakmur"
+  ],
+  "body": [
+   "PT Logindo Samudramakmur Tbk (LEAD) menyampaikan laporan keuangan konsolidasian tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK. Pendapatan perusahaan turun menjadi US$24.088.277 dari US$29.506.465 pada periode yang sama tahun 2025, atau turun sekitar 18 persen. Laba bruto ikut tergerus dari US$9,21 juta menjadi US$3,65 juta, dan perusahaan membukukan rugi usaha US$350.919, berbalik dari laba usaha US$4,99 juta pada periode yang sama tahun lalu. Setelah memperhitungkan beban keuangan dan pajak final, Logindo mencatat rugi bersih US$2.887.636 untuk sembilan bulan pertama 2026, berbanding laba bersih US$870.986 pada periode yang sama 2025. Rugi per saham dasar tercatat US$0,000498, dibandingkan laba per saham US$0,000158 setahun sebelumnya.",
+   "Di sisi lain, total liabilitas perusahaan turun signifikan dari US$53,08 juta pada akhir 2025 menjadi US$40,89 juta pada akhir September 2026. Penurunan ini terutama berasal dari pembayaran pokok pinjaman jangka panjang sebesar US$10,1 juta dan bunga pinjaman US$1,26 juta sepanjang sembilan bulan. Beban keuangan perusahaan pun turun lebih dari separuh, dari US$5,54 juta menjadi US$2,36 juta. Arus kas dari aktivitas operasi masih positif US$12,86 juta, sedikit lebih rendah dari US$13,75 juta pada periode yang sama tahun lalu, dan cukup untuk membiayai pembayaran utang tersebut. Kas dan setara kas naik tipis menjadi US$5,06 juta dari US$4,92 juta pada akhir 2025, sementara total ekuitas turun menjadi US$54,54 juta dari US$57,45 juta akibat kerugian yang terjadi sepanjang periode."
+  ],
+  "fotoAdegan": "An offshore supply vessel moored at a busy Indonesian port, deck cranes and coiled ropes visible, early morning haze over the water",
+  "takeaway": "Laporan ini condong negatif bagi Logindo karena kinerja intinya berbalik dari untung menjadi rugi, meski ada sisi positif dari pengurangan utang. Tiga pos yang tersentuh adalah laba per saham, yaitu bagian keuntungan untuk setiap lembar saham yang kini berubah jadi rugi per saham; ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi utang, yang turun karena menyerap kerugian itu; dan beban bunga, yang justru membaik karena perusahaan agresif melunasi pokok pinjaman sehingga beban bunga ke depan berpotensi lebih ringan. Arus kas dari kegiatan operasional masih positif dan cukup untuk membayar cicilan utang, jadi risiko gagal bayar belum terlihat dari laporan ini. Yang perlu dipantau berikutnya adalah apakah tren rugi ini berlanjut atau berbalik pada kuartal keempat, yang baru akan terkonfirmasi lewat laporan keuangan tahun buku 2026 yang diaudit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cars-catat-laba-rp164-8-miliar-di-kuartal-iii-2026-naik-13-7",
+  "category": "Aksi Korporasi",
+  "title": "CARS Catat [Laba] Rp164,8 Miliar di Kuartal III 2026, Naik 13,7%",
+  "deck": "Laba bersih CARS naik 13,7 persen menjadi Rp164,8 miliar pada sembilan bulan pertama 2026, didorong penjualan otomotif dan bunga pinjaman yang lebih ringan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T11:53:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029120850-64336-0/FinancialStatement-2026-III-CARS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CARS",
+  "tags": [
+   "CARS",
+   "laporan keuangan",
+   "laba bersih",
+   "otomotif"
+  ],
+  "body": [
+   "PT Industri dan Perdagangan Bintraco Dharma Tbk (CARS) melaporkan laba bersih Rp164,84 miliar untuk sembilan bulan pertama 2026, naik 13,7 persen dari Rp144,96 miliar pada periode yang sama tahun lalu. Dari jumlah itu, laba yang menjadi hak pemegang saham induk perusahaan tercatat Rp150,28 miliar, naik dari Rp135,02 miliar, sehingga laba per saham terdongkrak dari Rp9,00 menjadi Rp10,02. Pendapatan perusahaan naik menjadi Rp3,55 triliun dari Rp3,47 triliun, dengan penjualan otomotif sebagai penyumbang utama sebesar Rp3,49 triliun, disusul segmen purnajual atau layanan servis senilai Rp60,22 miliar.",
+   "Kenaikan laba ditopang oleh dua hal. Pertama, laba kotor naik menjadi Rp523,72 miliar dari Rp480,11 miliar karena beban pokok pendapatan tumbuh lebih lambat dibanding penjualan. Kedua, beban keuangan neto, yaitu bunga pinjaman dikurangi pendapatan bunga, turun hampir separuh menjadi Rp19,43 miliar dari Rp39,64 miliar tahun lalu. Arus kas dari kegiatan usaha, yakni uang tunai yang benar benar diterima dari penjualan setelah dikurangi pembayaran ke pemasok dan karyawan, naik 45,8 persen menjadi Rp223,99 miliar dari Rp153,57 miliar.",
+   "Di sisi posisi keuangan per 30 September 2026, total aset perusahaan naik menjadi Rp3,18 triliun dari Rp3,01 triliun pada akhir 2025, sementara total ekuitas naik 12,5 persen menjadi Rp1,50 triliun dari Rp1,33 triliun seiring bertambahnya laba ditahan. Namun, persediaan kendaraan yang belum terjual melonjak hampir dua kali lipat menjadi Rp431,51 miliar dari Rp216,99 miliar, dan utang usaha kepada pihak ketiga naik 77,6 persen menjadi Rp266,04 miliar dari Rp149,88 miliar. Akibatnya, kas dan setara kas perusahaan justru menyusut menjadi Rp343,06 miliar dari Rp374,64 miliar pada akhir 2025."
+  ],
+  "fotoAdegan": "Mechanics servicing sedans on hydraulic lifts inside a busy car dealership service bay, bright fluorescent lighting",
+  "takeaway": "Laporan ini condong positif bagi CARS, sebab laba bersih dan laba per saham naik dua digit sementara beban bunga pinjaman justru menyusut hampir separuh, tanda beban utang yang mereda. Pos yang paling terlihat berubah adalah ekuitas, yakni total kekayaan pemegang saham setelah dikurangi utang, yang naik 12,5 persen jadi Rp1,5 triliun karena laba ditahan terus bertambah, dan arus kas dari kegiatan usaha, yaitu uang tunai yang benar benar masuk dari jualan sehari hari, melonjak 45,8 persen sehingga modal kerja jadi lebih leluasa. Yang perlu dicermati, persediaan kendaraan yang belum terjual hampir dua kali lipat jadi Rp431,5 miliar dan sebagian dibiayai dari utang dagang yang juga naik tajam, sehingga kas tunai perusahaan justru menyusut dalam periode ini. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV atau tahun penuh 2026 yang baru akan terbit awal 2027, untuk melihat apakah stok kendaraan yang menumpuk ini benar terjual atau malah jadi beban bagi kas perusahaan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "avia-catat-laba-bersih-tumbuh-16-4-ke-rp1-38-triliun",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Catat Laba Bersih [Tumbuh] 16,4% ke Rp1,38 Triliun",
+  "deck": "Penjualan neto AVIA naik 16,7 persen jadi Rp6,92 triliun dalam sembilan bulan 2026, laba bersih naik 16,4 persen, sementara liabilitas naik 28,24 persen karena utang usaha dan beban pemasaran.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T11:53:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029120237-64922-0/FinancialStatement-2026-III-AVIA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "laporan keuangan",
+   "laba bersih",
+   "industri cat"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) melaporkan penjualan neto Rp6,92 triliun untuk sembilan bulan pertama 2026, naik 16,7 persen dari Rp5,93 triliun pada periode yang sama tahun 2025. Laba bersih yang menjadi hak pemegang saham naik 16,4 persen menjadi Rp1,38 triliun dari Rp1,19 triliun, sehingga laba per saham naik dari Rp19,75 menjadi Rp23,42. Laba usaha juga melonjak dari Rp1,28 triliun menjadi Rp1,65 triliun pada periode yang sama.",
+   "Dalam surat penjelasan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia tertanggal 29 Oktober 2026, manajemen menjelaskan total liabilitas naik Rp436,1 miliar atau 28,24 persen menjadi Rp1,98 triliun dari Rp1,54 triliun di akhir 2025. Kenaikan ini terutama berasal dari utang usaha yang naik Rp232,1 miliar seiring meningkatnya transaksi pembelian, serta beban akrual yang naik Rp202,3 miliar, terdiri dari akrual promosi dan pemasaran naik Rp184,2 miliar, akrual ongkos angkut naik Rp22,4 miliar sejalan dengan kenaikan penjualan, dan akrual komisi penjualan justru turun Rp4,7 miliar. Total aset naik menjadi Rp12,06 triliun dari Rp11,08 triliun, didorong kas dan setara kas yang lebih dari dua kali lipat menjadi Rp3,68 triliun dari Rp1,65 triliun, sementara investasi jangka pendek turun menjadi Rp953,6 miliar dari Rp2,57 triliun setelah perusahaan mencairkan sebagian surat utang negara yang dipegangnya.",
+   "Dari sisi ekuitas, perusahaan membagikan dividen Rp709,2 miliar sepanjang sembilan bulan 2026, naik dari Rp665,8 miliar pada periode sebelumnya, dan membeli kembali saham treasuri senilai Rp93,9 miliar, jauh lebih kecil dibandingkan pembelian kembali Rp506,3 miliar pada periode yang sama 2025. Laporan ini juga mencatat pelepasan investasi pada entitas anak, dengan salah satu anak usaha, PT Multipro Paint Indonesia, kini tercatat memiliki porsi kepemilikan 0 persen. Arus kas dari aktivitas operasi naik menjadi Rp1,69 triliun dari Rp1,19 triliun, sementara arus kas dari aktivitas investasi berbalik positif Rp1,22 triliun dari sebelumnya negatif Rp162,2 miliar, setelah perusahaan mencairkan Rp1,52 triliun investasi pada surat utang negara."
+  ],
+  "fotoAdegan": "Workers stacking plain metal paint cans on wooden pallets inside a busy industrial warehouse, forklift passing by, fluorescent lighting",
+  "takeaway": "Laporan ini condong positif bagi AVIA karena penjualan dan laba bersih sembilan bulan tumbuh lebih dari 16 persen sementara posisi kas menguat tajam, meski ada kenaikan liabilitas yang perlu dicermati. Kenaikan liabilitas yang dipicu utang usaha dan beban akrual pemasaran sebenarnya wajar karena mengikuti naiknya volume pembelian dan penjualan, bukan tanda perusahaan kesulitan membayar kewajiban. Yang lebih penting dicermati pelaku pasar adalah laba per saham, yaitu bagian laba yang jadi milik setiap satu lembar saham, yang naik dari Rp19,75 menjadi Rp23,42, serta arus kas dari kegiatan usaha sehari-hari yang naik ke Rp1,69 triliun, menunjukkan laba itu benar-benar berbentuk uang tunai, bukan sekadar angka di atas kertas. Yang perlu dipantau berikutnya adalah Rapat Umum Pemegang Saham Luar Biasa yang dijadwalkan AVIA pada 2 Desember 2026, karena agenda rapat itu belum diumumkan dan bisa membawa keputusan korporasi baru yang berdampak pada pemegang saham.",
+  "sentimen": "positif"
  },
  {
   "slug": "bahlil-siapkan-izin-terpusat-untuk-hulu-migas",

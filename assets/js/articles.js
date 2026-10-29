@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pnm-sabet-juara-grand-genba-champion-bri-group",
+  "category": "BUMN",
+  "title": "PNM Sabet [Juara] Grand Genba Champion BRI Group",
+  "deck": "PNM meraih peringkat pertama di ajang Grand Genba Champion BRI Group berkat aplikasi Diary AO yang merapikan kerja harian petugas lapangan pembiayaan ultra mikro.",
+  "image": "assets/img/pnm-sabet-juara-grand-genba-champion-bri-group.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T18:30:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475642-pnm-raih-juara-1-grand-genba-champion-lewat-inovasi-pelayanan-perluas-manfaat-bagi-nasabah",
+  "tags": [
+   "PNM",
+   "BRI Group",
+   "ultra mikro",
+   "Diary AO"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM), anak usaha BRI Group yang menyalurkan pembiayaan ultra mikro, keluar sebagai juara pertama dalam ajang Grand Genba Champion pada forum Subsidiaries Forum Q3 2026. Penghargaan ini diberikan atas inovasi internal bernama Diary AO, sebuah aplikasi yang dibuat untuk membantu account officer (AO), yaitu petugas lapangan PNM, mengatur pekerjaan harian mereka. Hal ini penting karena AO adalah ujung tombak yang menjangkau langsung perempuan prasejahtera yang menjalankan usaha ultra mikro, sehingga cara mereka bekerja ikut menentukan seberapa luas manfaat PNM bisa tersalurkan.",
+   "Ajang penghargaan ini berlangsung di Menara BRILiaN, Jakarta, pada Kamis, 29 Oktober 2026, dengan tema besar seputar inovasi, produktivitas, dan efisiensi. Forum tersebut memang dirancang BRI Group untuk mendorong anak-anak usahanya menciptakan solusi berdasarkan masalah nyata di lapangan. Diary AO sendiri menyatukan beberapa tugas AO yang sebelumnya terpisah, yaitu mencatat aktivitas harian, menyusun jadwal kunjungan ke nasabah, dan berkomunikasi dengan nasabah, ke dalam satu aplikasi yang juga mengatur urutan pekerjaan berdasarkan prioritas yang ditentukan sistem.",
+   "Direktur Utama PNM, Kindaris, mengatakan penghargaan ini merupakan pengakuan atas inovasi yang lahir dari kebutuhan nyata petugas lapangan, bukan sekadar inisiatif dari kantor pusat. Ia menyebut AO sebagai lulusan SMA atau sederajat yang bekerja langsung di lapangan, dan menilai bahwa membantu mereka bekerja lebih terarah sama dengan memperluas manfaat kepada lebih banyak keluarga prasejahtera. Menurutnya, penghargaan ini menjadi pendorong bagi PNM untuk terus menghasilkan inovasi yang dampaknya terasa sampai ke nasabah."
+  ],
+  "fotoAdegan": "A female field officer with a shoulder bag chatting with a woman vendor at a small roadside food stall, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/29/6ae32d3eb16ba-inovasi-diary-ao-antar-pnm-raih-juara-1-grand-genba-champion_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara kerja petugas lapangan PNM, bukan produk pembiayaannya. Diary AO menggabungkan pencatatan harian, penjadwalan kunjungan, dan komunikasi dengan nasabah ke dalam satu aplikasi, sehingga AO yang notabene lulusan SMA punya panduan kerja yang lebih terstruktur. Pihak yang langsung terdampak adalah AO itu sendiri dan nasabah ultra mikro, yaitu perempuan prasejahtera yang menjalankan usaha kecil dan bergantung pada kunjungan rutin AO untuk pembiayaan dan pendampingan. Namun berita ini tidak menyebut berapa banyak AO yang sudah memakai Diary AO, berapa nasabah yang terjangkau, atau angka efisiensi seperti berkurangnya waktu kerja administratif, sehingga belum bisa dibaca seberapa besar dampak nyatanya. Yang perlu ditunggu adalah apakah PNM akan merilis data implementasi Diary AO secara lebih luas, misalnya jumlah AO pengguna atau nasabah yang terlayani, untuk melihat apakah inovasi ini benar-benar mengubah skala layanan atau baru sebatas proyek percontohan.",
+  "imageV": "mvtjbeiq"
+ },
+ {
+  "slug": "investasi-ri-tembus-rp3-923-triliun-serap-5-4-juta-pekerja",
+  "category": "Makroekonomi",
+  "title": "Investasi RI Tembus Rp3.923 Triliun, Serap [5,4] Juta Pekerja",
+  "deck": "Realisasi investasi dua tahun pemerintahan Presiden Prabowo Subianto mencapai Rp3.923,2 triliun dan menyerap 5,48 juta tenaga kerja hingga triwulan III 2026.",
+  "image": "assets/img/investasi-ri-tembus-rp3-923-triliun-serap-5-4-juta-pekerja.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T18:29:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475641-dua-tahun-prabowo-memimpin-investasi-indonesia-capai-rp3923-triliun-dan-serap-54-juta-pekerja",
+  "tags": [
+   "investasi",
+   "BKPM",
+   "hilirisasi",
+   "lapangan kerja"
+  ],
+  "body": [
+   "Pemerintahan Presiden Prabowo Subianto mencatatkan realisasi investasi senilai Rp3.923,2 triliun sepanjang dua tahun masa jabatannya, terhitung sejak triwulan IV 2024 hingga triwulan III 2026. Angka ini disampaikan Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Perkasa Roeslani saat melapor kepada Presiden Prabowo Subianto dalam rapat terbatas ekonomi di Istana Negara, Jakarta, Senin (19/10). Dari jumlah tersebut, investasi yang masuk telah menyerap hampir 5,5 juta tenaga kerja, tepatnya 5.485.944 orang.",
+   "Secara geografis, wilayah di luar Jawa menerima porsi investasi lebih besar, yakni Rp2.031 triliun atau 51,8 persen dari total realisasi. Pulau Jawa mencatatkan Rp1.892,2 triliun atau 48,2 persen dari total investasi yang masuk. Dari sisi asal modal, investasi dalam negeri (PMDN) tercatat Rp1.998,7 triliun, sedikit lebih tinggi dibanding investasi asing (PMA) yang mencapai Rp1.924,5 triliun.",
+   "Rosan menyebut pemerintah ingin investasi yang masuk tidak berhenti di angka penanaman modal semata, melainkan berujung pada industri hilirisasi dan industrialisasi di dalam negeri. Untuk mendukung itu, pemerintah menghubungkan sistem perizinan dari 28 kementerian dan lembaga agar proses pengurusan izin investasi lebih mudah dilacak, baik oleh investor lokal maupun asing.",
+   "Menurut Rosan, kepastian menjadi hal yang paling dicari investor, baik terkait proses perizinan, lama waktu pengurusan, maupun iklim investasi secara umum. Karena itu, integrasi perizinan tersebut diarahkan untuk menekan ketidakpastian yang selama ini kerap dikeluhkan pelaku usaha."
+  ],
+  "fotoAdegan": "Workers installing machinery on an industrial production line inside a large manufacturing hall, overhead cranes visible",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/16/6ad128c284c40-presiden-ri-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di balik angka headline ini adalah komposisi investasinya: uang dari investor dalam negeri, yang disebut PMDN, kini sedikit melebihi uang investor asing atau PMA, masing-masing Rp1.998,7 triliun berbanding Rp1.924,5 triliun. Wilayah di luar Jawa juga menyerap porsi investasi lebih besar, yaitu 51,8 persen dari total realisasi, sedikit melampaui Jawa yang mencatat 48,2 persen. Pihak yang terdampak adalah pekerja yang ikut menikmati sebagian dari 5,48 juta lapangan kerja baru itu, terutama di luar Jawa, serta investor yang kini harus mengikuti proses perizinan yang digabungkan dari 28 kementerian dan lembaga. Arah yang terlihat dari komposisi ini adalah pemerintah makin mengandalkan modal dari dalam negeri sekaligus mendorong investasi mengalir ke luar Jawa lewat proyek hilirisasi, bukan hanya mengejar nilai investasi asing yang besar. Yang akan memastikan apakah pola ini menguat atau cuma kebetulan satu periode adalah data realisasi investasi triwulan IV 2026 yang akan dirilis BKPM awal tahun depan.",
+  "imageV": "mvtjbey8"
+ },
+ {
   "slug": "vern-laba-bersih-longsor-88-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "VERN: Laba Bersih [Longsor] 88% di Kuartal III 2026",
@@ -236,6 +289,60 @@ var ARTICLES = [
   "fotoAdegan": "Shoppers browsing cosmetics and personal care shelves inside a brightly lit drugstore in a shopping mall, Jakarta",
   "takeaway": "Laporan ini condong positif bagi DAYA, karena laba bersih dan ekuitas sama-sama tumbuh signifikan sementara beban utang bank justru menyusut dalam sembilan bulan terakhir. Yang perlu dicermati adalah arus kas: kas dan setara kas perusahaan turun hampir 70 persen menjadi Rp42,97 miliar karena perusahaan memprioritaskan pelunasan pinjaman bank dan pembayaran sewa toko, bukan karena bisnis intinya melemah, sebab kas dari aktivitas operasional justru naik hampir dua kali lipat. Ekuitas yang membesar penting dipantau karena mencerminkan modal milik pemegang saham setelah dikurangi utang, dan akumulasi kerugian yang menyusut tajam berarti perusahaan semakin mendekati titik bisa membagikan dividen di masa depan. Laba per saham, yaitu bagian laba yang secara proporsional menjadi hak setiap lembar saham, juga naik dari Rp21,54 menjadi Rp35,44 seiring pertumbuhan laba bersih tanpa penambahan jumlah saham beredar. Yang perlu dipantau berikutnya adalah apakah tren penambahan gerai Watsons, dari 226 menjadi 245 toko dalam sembilan bulan, berlanjut di kuartal IV sekaligus bagaimana perusahaan mengelola kembali posisi kasnya yang menipis.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "hashim-goreng-saham-bisa-bikin-rupiah-tembus-rp22-000",
+  "category": "Pasar Modal",
+  "title": "Hashim: Goreng Saham Bisa Bikin Rupiah [Tembus] Rp22.000",
+  "deck": "Ketua Dewan Penasihat Kadin Hashim Djojohadikusumo memperingatkan praktik goreng saham bisa membuat MSCI men-downgrade bursa RI dan rupiah melemah jika investor asing hengkang.",
+  "image": "assets/img/hashim-goreng-saham-bisa-bikin-rupiah-tembus-rp22-000.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T17:30:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475636-hashim-soroti-praktik-goreng-saham-rupiah-bisa-tembus-rp22000-jika-asing-cabut-dari-bursa",
+  "tags": [
+   "goreng saham",
+   "rupiah",
+   "Kadin",
+   "MSCI"
+  ],
+  "body": [
+   "Ketua Dewan Penasihat Kadin Indonesia Hashim Djojohadikusumo meminta praktik goreng saham di bursa Indonesia dihentikan karena membuat pasar modal tidak sehat. Pernyataan ini ia sampaikan dalam Rapat Pimpinan Nasional Kadin 2026 bertema Ekonomi Kerakyatan untuk Indonesia Mendunia, di Hotel Borobudur, Jakarta Pusat, Kamis (29/10/2026). Isu ini penting karena menurutnya sudah masuk radar lembaga indeks global dan bisa berdampak langsung ke rupiah serta jutaan investor ritel.",
+   "Hashim menyebut praktik tersebut menjadi perhatian Morgan Stanley Capital International (MSCI) dan pelaku pasar asing, yang bisa membuat Indonesia diturunkan statusnya menjadi standalone market. Ia menyoroti saham dengan porsi beredar di publik (free float) yang terbatas namun rasio harga terhadap labanya (PE ratio) melonjak tidak wajar, sebuah pola yang menurutnya jadi sorotan utama otoritas pasar global.",
+   "Hashim mengingatkan, kalau investor asing benar-benar menarik dananya dari bursa Indonesia, nilai tukar rupiah berpotensi melemah ke kisaran Rp20.000 hingga Rp21.000 per dolar AS, bahkan ada proyeksi sampai Rp22.000. Ia mengaku pernah membahas angka Rp21.000-Rp22.000 itu bersama Rosan Roeslani. Pelemahan ini akan membuat beban pembayaran utang luar negeri Indonesia semakin mahal, sementara 32,7 juta warga pemilik rekening saham (brokerage account) berisiko melihat nilai portofolionya tergerus.",
+   "Hashim menegaskan pemerintah akan bertindak tegas terhadap pelaku goreng saham, sambil menyinggung langkah otoritas Turki yang telah menangkap 94 orang terkait praktik serupa di negaranya."
+  ],
+  "fotoAdegan": "Exterior of a modern stock exchange skyscraper in Jakarta's financial district, pedestrians crossing a busy street, late afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/10/698ae2d8bcd11-ketum-kadin-indonesia-anindya-bakrie-kanan-bersama-hashim-s-djojohadikusumo_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru berupa peringatan terbuka dari tokoh senior Kadin, bukan keputusan resmi, yakni ancaman MSCI menurunkan status pasar modal Indonesia kalau praktik goreng saham dengan free float kecil dan rasio harga saham yang tidak wajar terus dibiarkan. Pihak yang kena dampaknya jelas: 32,7 juta pemilik rekening saham yang nilai portofolionya bisa tergerus, serta pemerintah dan pelaku usaha yang menanggung utang luar negeri lebih mahal kalau rupiah melemah ke kisaran Rp20.000 sampai Rp22.000 seperti hitungan Hashim. Yang masih kurang untuk membaca arah sebenarnya adalah tindakan konkret, sebab berita ini belum menyebut nama emiten yang diduga digoreng, belum ada pernyataan resmi OJK atau Bursa Efek Indonesia, dan MSCI sendiri belum mengumumkan keputusan downgrade. Dua kemungkinan terbuka, pemerintah benar-benar menindak seperti penangkapan 94 orang di Turki yang disinggung Hashim, atau pernyataan ini berhenti sebagai wacana di forum Kadin. Yang akan menentukan arahnya adalah ada tidaknya langkah resmi dari OJK atau BEI dalam waktu dekat, dan hasil evaluasi indeks MSCI berikutnya terhadap status pasar Indonesia.",
+  "imageV": "mvtjbfdd"
+ },
+ {
+  "slug": "kadin-ekonomi-ri-tumbuh-5-1-persen-tengah-gejolak-global",
+  "category": "Makroekonomi",
+  "title": "Kadin: Ekonomi RI [Tumbuh] 5,1 Persen Tengah Gejolak Global",
+  "deck": "Ketua Umum Kadin Anindya Novyan Bakrie menyebut fundamental ekonomi Indonesia tetap kuat meski pasar modal tertekan di tengah ketidakpastian global.",
+  "image": "assets/img/kadin-ekonomi-ri-tumbuh-5-1-persen-tengah-gejolak-global.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T17:08:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475634-ketua-umum-kadin-indonesia-fundamental-ekonomi-ri-kuat-tumbuh-51-persen-di-tengah-gejolak-global",
+  "tags": [
+   "kadin",
+   "anindya novyan bakrie",
+   "pertumbuhan ekonomi",
+   "pasar modal"
+  ],
+  "body": [
+   "Ketua Umum Kamar Dagang dan Industri Indonesia, Anindya Novyan Bakrie, menyatakan fundamental ekonomi nasional masih kuat meski dunia dibayangi ketidakpastian. Dalam pembukaan Rapat Pimpinan Nasional Kadin 2026 di Hotel Borobudur, Jakarta Pusat, Kamis (29/10/2026), ia menyebut pertumbuhan ekonomi Indonesia saat ini berada di level 5,1 persen. Pernyataan ini disampaikan sebagai pesan optimisme kepada para pengurus dan pelaku usaha yang hadir dalam forum tersebut.",
+   "Anindya membandingkan kondisi sekarang dengan dua krisis besar yang pernah dialami Indonesia, yaitu ekonomi yang minus 13 persen saat krisis moneter 1998 dan minus 2,1 persen saat pandemi Covid-19 pada 2020. Menurutnya, posisi tumbuh positif 5,1 persen saat ini menunjukkan daya tahan ekonomi yang berbeda dari dua periode krisis itu. Ia juga menyinggung langkah sejumlah negara menyiapkan cadangan darurat, misalnya Amerika Serikat yang membangun stok bahan bakar minyak untuk kebutuhan 90 hari dan Inggris yang mengimbau warganya mampu bertahan mandiri selama 72 jam. Indonesia, kata dia, juga sedang memperkuat ketahanan pangan, air, dan energi di tengah situasi global yang tidak menentu.",
+   "Di sisi lain, Anindya mengakui ada tekanan nyata di pasar keuangan domestik. Ia menyebut ada dana sebesar Rp124 triliun yang keluar dari pasar modal, bersamaan dengan penurunan Indeks Harga Saham Gabungan atau kumpulan harga saham-saham di Bursa Efek Indonesia sebesar 40 persen. Fakta ini disampaikan berdampingan dengan klaim fundamental yang kuat, menunjukkan bahwa optimisme makro tidak serta merta tercermin di pergerakan pasar saham dalam periode yang sama.",
+   "Anindya menutup pernyataannya dengan menyebut Indonesia sebagai titik terang di tengah gejolak ekonomi dunia, sebuah sebutan yang menurutnya datang dari pihak luar, bukan klaim sendiri. Ia menegaskan hal itu masih berlaku hingga tahun ini, melanjutkan penilaian serupa yang menurutnya sudah disematkan pada 2025."
+  ],
+  "fotoAdegan": "Rows of large fuel storage tanks at an industrial depot under an overcast sky, pipelines and a worker in a safety vest nearby.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/10/6aa29d11094d8-ketua-umum-pb-akuatik-indonesia-anindya-novyan-bakrie_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan di sini adalah pidato Ketua Umum Kadin dalam forum internalnya sendiri, bukan rilis data resmi dari BPS atau Bank Indonesia, jadi angka pertumbuhan 5,1 persen dan perbandingannya dengan krisis 1998 serta 2020 perlu dibaca sebagai klaim organisasi pengusaha, bukan angka final negara untuk kuartal berjalan. Yang terdampak langsung dari narasi ini adalah pelaku usaha anggota Kadin yang jadi audiens pesan optimisme tersebut, sekaligus investor di pasar modal yang justru disebutkan mengalami tekanan, dengan dana keluar Rp124 triliun dan penurunan indeks saham gabungan sampai 40 persen. Yang masih kurang untuk bisa menyimpulkan ke mana arah sebenarnya adalah periode rujukan pasti dari dua angka pasar modal itu, apakah dalam hitungan bulan, tahun, atau sejak puncak tertentu, karena pidato ini tidak menyebutnya. Yang perlu dipantau berikutnya adalah rilis pertumbuhan ekonomi kuartal III 2026 dari BPS dan data arus modal resmi dari Bank Indonesia atau OJK, karena itu yang akan mengkonfirmasi apakah klaim fundamental kuat ini cocok dengan data resmi atau tidak.",
+  "imageV": "mvtjbfs1"
  },
  {
   "slug": "pupuk-indonesia-rinci-26-634-titik-serah-jelang-musim-tanam",

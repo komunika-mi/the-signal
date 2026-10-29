@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pnm-sabet-juara-grand-genba-champion-bri-group",
+  "category": "BUMN",
+  "title": "PNM Sabet [Juara] Grand Genba Champion BRI Group",
+  "deck": "PNM meraih peringkat pertama di ajang Grand Genba Champion BRI Group berkat aplikasi Diary AO yang merapikan kerja harian petugas lapangan pembiayaan ultra mikro.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/pnm-sabet-juara-grand-genba-champion-bri-group.jpg",
+  "imageV": "mvtjbeiq",
+  "tags": [
+   "PNM",
+   "BRI Group",
+   "ultra mikro",
+   "Diary AO"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475642-pnm-raih-juara-1-grand-genba-champion-lewat-inovasi-pelayanan-perluas-manfaat-bagi-nasabah"
+ },
+ {
+  "slug": "investasi-ri-tembus-rp3-923-triliun-serap-5-4-juta-pekerja",
+  "category": "Makroekonomi",
+  "title": "Investasi RI Tembus Rp3.923 Triliun, Serap [5,4] Juta Pekerja",
+  "deck": "Realisasi investasi dua tahun pemerintahan Presiden Prabowo Subianto mencapai Rp3.923,2 triliun dan menyerap 5,48 juta tenaga kerja hingga triwulan III 2026.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/investasi-ri-tembus-rp3-923-triliun-serap-5-4-juta-pekerja.jpg",
+  "imageV": "mvtjbey8",
+  "tags": [
+   "investasi",
+   "BKPM",
+   "hilirisasi",
+   "lapangan kerja"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475641-dua-tahun-prabowo-memimpin-investasi-indonesia-capai-rp3923-triliun-dan-serap-54-juta-pekerja"
+ },
+ {
   "slug": "vern-laba-bersih-longsor-88-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "VERN: Laba Bersih [Longsor] 88% di Kuartal III 2026",
@@ -147,6 +181,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029175021-64850-0/FinancialStatement-2026-III-DAYA.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hashim-goreng-saham-bisa-bikin-rupiah-tembus-rp22-000",
+  "category": "Pasar Modal",
+  "title": "Hashim: Goreng Saham Bisa Bikin Rupiah [Tembus] Rp22.000",
+  "deck": "Ketua Dewan Penasihat Kadin Hashim Djojohadikusumo memperingatkan praktik goreng saham bisa membuat MSCI men-downgrade bursa RI dan rupiah melemah jika investor asing hengkang.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/hashim-goreng-saham-bisa-bikin-rupiah-tembus-rp22-000.jpg",
+  "imageV": "mvtjbfdd",
+  "tags": [
+   "goreng saham",
+   "rupiah",
+   "Kadin",
+   "MSCI"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475636-hashim-soroti-praktik-goreng-saham-rupiah-bisa-tembus-rp22000-jika-asing-cabut-dari-bursa"
+ },
+ {
+  "slug": "kadin-ekonomi-ri-tumbuh-5-1-persen-tengah-gejolak-global",
+  "category": "Makroekonomi",
+  "title": "Kadin: Ekonomi RI [Tumbuh] 5,1 Persen Tengah Gejolak Global",
+  "deck": "Ketua Umum Kadin Anindya Novyan Bakrie menyebut fundamental ekonomi Indonesia tetap kuat meski pasar modal tertekan di tengah ketidakpastian global.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/kadin-ekonomi-ri-tumbuh-5-1-persen-tengah-gejolak-global.jpg",
+  "imageV": "mvtjbfs1",
+  "tags": [
+   "kadin",
+   "anindya novyan bakrie",
+   "pertumbuhan ekonomi",
+   "pasar modal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475634-ketua-umum-kadin-indonesia-fundamental-ekonomi-ri-kuat-tumbuh-51-persen-di-tengah-gejolak-global"
  },
  {
   "slug": "pupuk-indonesia-rinci-26-634-titik-serah-jelang-musim-tanam",
@@ -6399,69 +6467,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823526.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "bjlb01-dana-amortisasi-pokok-rp100-m-siap-dibayar-31-okt",
-  "category": "Aksi Korporasi",
-  "title": "BJLB01: Dana Amortisasi Pokok [Rp100 M] Siap Dibayar 31 Okt",
-  "deck": "Danareksa Investment Management menyatakan dana Rp100 miliar untuk amortisasi pokok pertama EBA Syariah BJLB01 sudah tersedia, jatuh tempo 31 Oktober 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BJLB01",
-   "EBA Syariah",
-   "Danareksa Investment Management",
-   "amortisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0bbad26127_4d53df620b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-dana-sukuk-rp40-miliar-tuntas-dibelanjakan-untuk-cpo",
-  "category": "Aksi Korporasi",
-  "title": "BWPT: Dana [Sukuk] Rp40 Miliar Tuntas Dibelanjakan untuk CPO",
-  "deck": "Eagle High Plantations melaporkan seluruh dana bersih sukuk Rp40,04 miliar sudah terpakai untuk beli CPO dari tiga pemasok sawit, tanpa sisa dana.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BWPT",
-   "sukuk",
-   "CPO",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6eb5ab08e9_4a9335e558.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-dana-obligasi-rp98-3-miliar-tuntas-lunasi-utang-bank",
-  "category": "Aksi Korporasi",
-  "title": "BWPT: Dana Obligasi Rp98,3 Miliar [Tuntas] Lunasi Utang Bank",
-  "deck": "Eagle High Plantations merealisasikan seluruh dana bersih Rp98,28 miliar dari Obligasi Berkelanjutan II Tahap I 2026 untuk melunasi utang ke dua kreditur dan membeli CPO, tanpa sisa dana.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BWPT",
-   "obligasi korporasi",
-   "refinancing utang",
-   "CPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5c220ed374_effc15ab08.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-trimegah-tambah-156-57-juta-saham-via-reverse-repo",
-  "category": "Aksi Korporasi",
-  "title": "ENRG: Trimegah Tambah 156,57 Juta Saham via [Reverse Repo]",
-  "deck": "Trimegah Sekuritas melaporkan penambahan 156,57 juta saham ENRG lewat reverse repo pada 21 Oktober 2026, mengangkat hak suaranya dari 10,78% menjadi 11,24%.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "Trimegah Sekuritas",
-   "reverse repo",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5157-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

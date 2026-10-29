@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "as-sumbang-surplus-dagang-ri-us-12-47-miliar-hingga-agustus",
+  "category": "Global",
+  "title": "AS Sumbang [Surplus] Dagang RI US$12,47 Miliar hingga Agustus",
+  "deck": "Mendag Budi Santoso bertemu petinggi US-ABC membahas kerja sama dagang RI-AS, yang hingga Agustus 2026 masih menyumbang surplus terbesar bagi neraca dagang Indonesia.",
+  "image": "assets/img/as-sumbang-surplus-dagang-ri-us-12-47-miliar-hingga-agustus.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T05:38:00.651Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-dunia-usaha-as-perkuat-kerja-sama-dengan-indonesia",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "perdagangan",
+   "Indonesia-AS",
+   "US-ABC",
+   "ekspor impor"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso bertemu Presiden sekaligus CEO United States-ASEAN Business Council (US-ABC), Brian D. McFeeters, di Jakarta pada 28 Oktober 2026, untuk membahas penguatan kerja sama dagang dan investasi kedua negara. Pertemuan ini penting karena Amerika Serikat selama ini menjadi salah satu mitra dagang utama Indonesia dan penyumbang surplus terbesar bagi neraca perdagangan nasional.",
+   "Berdasarkan data Kementerian Perdagangan, total perdagangan Indonesia dengan AS sepanjang Januari hingga Agustus 2026 tercatat US$32,34 miliar, terdiri dari ekspor Indonesia ke AS sebesar US$22,40 miliar dan impor dari AS sebesar US$9,94 miliar. Dari selisih itu, Indonesia mengantongi surplus US$12,47 miliar terhadap AS. Sepanjang 2025, total perdagangan kedua negara mencapai US$43,87 miliar dengan surplus Indonesia sebesar US$18,02 miliar, dan tren perdagangan tumbuh rata-rata 3,11 persen per tahun dalam periode 2021-2025.",
+   "Produk ekspor utama Indonesia ke AS meliputi mesin dan peralatan listrik, barang rajutan, alas kaki, pakaian jadi bukan rajutan, serta lemak dan minyak hewani maupun nabati. Sementara produk yang paling banyak diimpor Indonesia dari AS adalah mesin dan pesawat mekanik, biji-bijian berminyak, mesin dan peralatan listrik, ampas atau sisa industri makanan, serta bahan bakar mineral.",
+   "Dalam pertemuan tersebut, US-ABC membawa perwakilan dari sektor teknologi informasi dan komunikasi, jasa konsultasi bisnis, hingga industri penerbangan dan kedirgantaraan, yang menyampaikan pertanyaan dan masukan terkait perdagangan kedua negara. Kedua pihak juga menyinggung perkembangan Agreement on Reciprocal Trade (ART) serta peluang kerja sama untuk mendukung usaha mikro, kecil, dan menengah di Indonesia. Dubes McFeeters menyatakan US-ABC berminat mendukung pencapaian target ekonomi Indonesia di tengah ketidakpastian global yang menurutnya belum akan segera berakhir."
+  ],
+  "fotoAdegan": "Cargo containers being loaded onto a ship at a busy Indonesian seaport, cranes overhead, late afternoon light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/kOB6CU7RnKivK1YaY0aYBJKOJ6iRhP5q3VsFudFm.png",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret dari pertemuan ini bukan aturan baru, melainkan konfirmasi bahwa AS masih jadi penyumbang surplus dagang terbesar bagi Indonesia, senilai US$12,47 miliar sepanjang Januari-Agustus 2026 saja. Pihak yang paling berkepentingan adalah eksportir di sektor elektronik, tekstil, alas kaki, dan produk kulit, karena merekalah yang selama ini menopang surplus tersebut lewat penjualan ke pasar AS. Pertemuan ini juga menyebut adanya pembahasan Agreement on Reciprocal Trade (ART), semacam perjanjian dagang timbal balik antara Indonesia dan AS, tapi isi dan tenggat penyelesaiannya belum diungkap ke publik. Yang perlu dipantau selanjutnya adalah kapan ART ini difinalisasi dan ketentuan apa saja yang diaturnya, karena dari situ baru bisa terlihat apakah hubungan dagang dua negara akan makin terbuka atau justru diatur dengan syarat baru.",
+  "imageV": "mvt49sgg"
+ },
+ {
+  "slug": "bahlil-siapkan-izin-terpusat-untuk-hulu-migas",
+  "category": "Energi",
+  "title": "Bahlil Siapkan Izin [Terpusat] untuk Hulu Migas",
+  "deck": "Pemerintah mengusulkan pemusatan izin hulu migas lewat Badan Usaha Khusus Migas dalam RUU Migas, agar kontraktor tak lagi bolak-balik mengurus izin ke berbagai kementerian.",
+  "image": "assets/img/bahlil-siapkan-izin-terpusat-untuk-hulu-migas.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T11:21:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475572-tak-perlu-lagi-ribet-urus-izin-bahlil-siapkan-terobosan-besar-untuk-industri-migas-ri",
+  "tags": [
+   "RUU Migas",
+   "Bahlil Lahadalia",
+   "BUK Migas",
+   "Hulu Migas"
+  ],
+  "body": [
+   "Pemerintah sedang menyiapkan perubahan besar dalam tata kelola sektor hulu minyak dan gas bumi melalui Rancangan Undang-Undang Minyak dan Gas Bumi. Salah satu usulan utamanya adalah memusatkan seluruh urusan izin kegiatan hulu migas melalui Badan Usaha Khusus Migas, sehingga kontraktor tidak perlu lagi mengurus izin secara berulang ke berbagai kementerian. Ini penting karena proses izin yang berbelit selama ini dinilai memperlambat kegiatan eksplorasi migas di dalam negeri.",
+   "Menteri ESDM yang juga menjabat Menteri Koordinator Bidang Hilirisasi dan Transisi Energi, Bahlil Lahadalia, menyampaikan rencana ini saat membuka Forum Ekonomi, Keuangan, dan Komersial Hulu Minyak dan Gas Bumi 2026 di Jakarta, Rabu, 28 Oktober 2026. Ia menyoroti bahwa kontraktor kontrak kerja sama yang sudah memenangkan tender blok migas semestinya bisa langsung memulai kegiatan, bukan masih harus berpindah dari satu kementerian ke kementerian lain untuk melengkapi izin. 'Saya tidak ingin nanti KKKS begitu sudah menang tender, izinnya pun mereka masih bisa jalan mutar dari kementerian ke kementerian. Ini yang membuat lama itu. Eksplorasinya lama, izinnya lama,' kata Bahlil.",
+   "Bahlil mengungkapkan, pembahasan Daftar Inventarisasi Masalah RUU Migas sudah mencapai sekitar 90 persen. Salah satu poin penting di dalamnya adalah pemberian kewenangan yang lebih luas kepada Badan Usaha Khusus Migas, termasuk untuk menangani perizinan kegiatan hulu migas, dengan harapan kontraktor tidak perlu lagi mondar-mandir menyelesaikan persyaratan di berbagai kementerian.",
+   "Bahlil menilai kepastian regulasi dan kemudahan berusaha menjadi faktor penting untuk menarik investasi, mengingat eksplorasi migas membutuhkan waktu panjang, modal besar, serta risiko gagal menemukan cadangan yang bisa diproduksi. 'Salah satu prinsip daripada pengusaha itu adalah kepastian. Aturan tidak boleh berbelit-belit. Kepastian terhadap perizinan dan harus clear,' ujarnya."
+  ],
+  "fotoAdegan": "Oil and gas platform workers in hard hats inspecting pipeline valves on an offshore rig deck, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/29/6ae2c8beb39ed-menteri-esdm-bahlil-lahadalia-siapkan-terobosan-besar-untuk-industri-migas-ri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Inti perubahannya adalah memindahkan kewenangan izin hulu migas dari yang selama ini harus diurus bolak-balik ke beberapa kementerian, menjadi terpusat di satu lembaga, yakni Badan Usaha Khusus Migas. Yang paling merasakan dampaknya adalah kontraktor kontrak kerja sama, yaitu perusahaan yang memenangkan tender blok migas dan mengeluhkan proses izin yang membuat eksplorasi molor. Pembahasan poin-poin RUU ini di tingkat teknis sudah mencapai 90 persen, tapi itu baru tahap daftar masalah yang dirampungkan, bukan tanda bahwa undang-undangnya sudah pasti disahkan apalagi kapan berlakunya. Yang masih kurang untuk membaca ke mana arah ini benar-benar bergerak adalah jadwal resmi pembahasan RUU Migas di DPR dan rincian final kewenangan Badan Usaha Khusus Migas, sebab tanpa itu belum jelas apakah pemusatan izin ini akan sungguh memangkas waktu eksplorasi atau sekadar memindahkan birokrasi ke lembaga baru.",
+  "imageV": "mvt49sxv"
+ },
+ {
   "slug": "suni-laba-bersih-turun-19-jadi-rp117-7-miliar-di-9m26",
   "category": "Aksi Korporasi",
   "title": "SUNI: Laba Bersih [Turun] 19% Jadi Rp117,7 Miliar di 9M26",
@@ -185,6 +240,32 @@ var ARTICLES = [
   "fotoAdegan": "Construction crew working on a concrete building frame at a suburban housing development site in West Java, bright midday light",
   "takeaway": "Laporan ini saya nilai netral karena dua kabarnya saling menutup: dana rights issue memang memperkuat kas dan menekan utang, tapi suntikan modal itu juga menambah modal saham sekitar 40 persen, hampir menyamai kenaikan laba untuk pemegang saham induk yang sekitar 36,5 persen, sehingga keuntungan per lembar saham bagi pemegang saham lama praktis tidak membaik meski laba totalnya naik. Yang perlu dicermati investor adalah arus kas dari operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan jual beli sehari-hari, bukan dari suntikan modal, karena pos ini justru berbalik jadi minus Rp7,58 miliar meski laba di atas kertas naik, tanda bahwa kenaikan laba belum diikuti uang tunai yang sepadan. Ekuitas, yakni modal sendiri perseroan, juga membesar signifikan setelah penerbitan saham baru ini, yang menentukan seberapa besar beban utang perseroan dibandingkan modal sendirinya ke depan. Yang layak dipantau berikutnya adalah realisasi dana rights issue untuk proyek seperti infrastruktur di Kawasan Industri Cikembar, serta apakah arus kas operasi kembali positif pada laporan tahun buku penuh 2026 yang akan terbit awal 2027.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-emas-antam-turun-jadi-rp2-559-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.559.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp11.000 menjadi Rp2.559.000 per gram pada 29 Oktober 2026, sementara harga buyback ikut turun ke Rp2.354.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-559-000-per-gram.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T10:01:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475563-saatnya-beli-harga-emas-antam-hari-ini-29-oktober-2026-turun-jadi-rp2559000-per-gram",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam hari ini, 29 Oktober 2026, turun Rp11.000 per gram menjadi Rp2.559.000, dari posisi sehari sebelumnya di Rp2.570.000 per gram. Pergerakan ini relevan bagi masyarakat yang menyimpan emas sebagai instrumen investasi, karena harga Antam biasa dijadikan acuan transaksi logam mulia ritel di dalam negeri.",
+   "Berdasarkan data di laman resmi Logam Mulia, harga beli kembali atau buyback emas Antam juga ikut melemah, turun ke angka Rp2.354.000 per gram. Buyback adalah harga yang diberikan Antam ketika masyarakat menjual kembali emas batangannya, sehingga penurunan ini berarti uang yang diterima pemilik emas saat mencairkan simpanannya hari ini lebih kecil dibanding sehari sebelumnya.",
+   "Antam juga mengenakan pajak PPh Pasal 22 sebesar 1,5 persen untuk setiap transaksi buyback senilai di atas Rp10 juta, yang langsung dipotong dari nilai transaksi saat pencairan. Sementara itu, pembelian emas batangan baru dikenakan PPh sebesar 0,25 persen dari harga dasar yang tercantum di situs resmi. Antam mengingatkan bahwa harga emas batangan ini bisa berubah sewaktu-waktu mengikuti pergerakan pasar."
+  ],
+  "fotoAdegan": "Jewelry store attendant arranging small gold bullion bars on a velvet-lined display tray, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah harga emas Antam turun Rp11.000 per gram menjadi Rp2.559.000, sementara harga buyback ikut turun ke Rp2.354.000 per gram. Yang terdampak langsung adalah masyarakat yang menyimpan emas sebagai tabungan, terutama yang berniat mencairkan emasnya dalam waktu dekat, sebab uang yang mereka terima jadi sedikit lebih kecil. Satu hari penurunan saja belum cukup untuk menyimpulkan apakah ini awal tren pelemahan atau sekadar koreksi sesaat, karena data ini tidak menyertakan pembanding harga emas dunia maupun pergerakan beberapa hari sebelumnya. Yang masih perlu dipantau adalah harga emas Antam dalam beberapa hari mendatang serta arah harga emas global, sebab harga emas domestik biasanya bergerak mengikuti harga emas dunia dan nilai tukar rupiah.",
+  "imageV": "mvt49tk9"
  },
  {
   "slug": "bike-akui-akuisisi-pne-terafiliasi-dengan-direksi-sendiri",

@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "as-sumbang-surplus-dagang-ri-us-12-47-miliar-hingga-agustus",
+  "category": "Global",
+  "title": "AS Sumbang [Surplus] Dagang RI US$12,47 Miliar hingga Agustus",
+  "deck": "Mendag Budi Santoso bertemu petinggi US-ABC membahas kerja sama dagang RI-AS, yang hingga Agustus 2026 masih menyumbang surplus terbesar bagi neraca dagang Indonesia.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/as-sumbang-surplus-dagang-ri-us-12-47-miliar-hingga-agustus.jpg",
+  "imageV": "mvt49sgg",
+  "tags": [
+   "perdagangan",
+   "Indonesia-AS",
+   "US-ABC",
+   "ekspor impor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-dunia-usaha-as-perkuat-kerja-sama-dengan-indonesia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bahlil-siapkan-izin-terpusat-untuk-hulu-migas",
+  "category": "Energi",
+  "title": "Bahlil Siapkan Izin [Terpusat] untuk Hulu Migas",
+  "deck": "Pemerintah mengusulkan pemusatan izin hulu migas lewat Badan Usaha Khusus Migas dalam RUU Migas, agar kontraktor tak lagi bolak-balik mengurus izin ke berbagai kementerian.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/bahlil-siapkan-izin-terpusat-untuk-hulu-migas.jpg",
+  "imageV": "mvt49sxv",
+  "tags": [
+   "RUU Migas",
+   "Bahlil Lahadalia",
+   "BUK Migas",
+   "Hulu Migas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475572-tak-perlu-lagi-ribet-urus-izin-bahlil-siapkan-terobosan-besar-untuk-industri-migas-ri"
+ },
+ {
   "slug": "suni-laba-bersih-turun-19-jadi-rp117-7-miliar-di-9m26",
   "category": "Aksi Korporasi",
   "title": "SUNI: Laba Bersih [Turun] 19% Jadi Rp117,7 Miliar di 9M26",
@@ -115,6 +150,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029101554-64781-0/FinancialStatement-2026-III-CSIS.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-turun-jadi-rp2-559-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.559.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp11.000 menjadi Rp2.559.000 per gram pada 29 Oktober 2026, sementara harga buyback ikut turun ke Rp2.354.000 per gram.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-559-000-per-gram.jpg",
+  "imageV": "mvt49tk9",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475563-saatnya-beli-harga-emas-antam-hari-ini-29-oktober-2026-turun-jadi-rp2559000-per-gram"
  },
  {
   "slug": "bike-akui-akuisisi-pne-terafiliasi-dengan-direksi-sendiri",
@@ -6408,55 +6460,6 @@ var ARTICLES = [
    "UUPT"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bcabc9d883_e0515faa94.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-mandiri-pertama-kantongi-izin-bulion-di-ri",
-  "category": "Perbankan",
-  "title": "Bank Mandiri Pertama Kantongi Izin [Bulion] di RI",
-  "deck": "Bank Mandiri meluncurkan layanan emas digital lewat Livin' setelah mengantongi izin bulion dari OJK, didukung pertumbuhan pengguna dan dana nasabah yang melampaui rata-rata industri.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/bank-mandiri-pertama-kantongi-izin-bulion-di-ri.jpg",
-  "imageV": "mvjldi7s",
-  "tags": [
-   "bank mandiri",
-   "livin by mandiri",
-   "izin bulion",
-   "emas digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474474-ekosistem-digital-andal-dan-layanan-berkualitas-dukung-pertumbuhan-bisnis-bank-mandiri"
- },
- {
-  "slug": "vktr-r-perdagangan-hmetd-berakhir-23-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "VKTR-R: Perdagangan [HMETD] Berakhir 23 Oktober 2026",
-  "deck": "BEI mengingatkan masa perdagangan HMETD VKTR Teknologi Mobilitas berakhir 23 Oktober 2026, efek dicabut dari pencatatan mulai 26 Oktober 2026.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VKTR",
-   "HMETD",
-   "Rights Issue",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan VKTR-R261023-No. Peng-00202BEI.POP10-2026.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msin-gelar-public-expose-insidentil-atas-permintaan-bursa",
-  "category": "Aksi Korporasi",
-  "title": "MSIN Gelar Public Expose Insidentil atas Permintaan [Bursa]",
-  "deck": "PT MNC Digital Entertainment Tbk akan menggelar public expose insidentil secara daring pada 26 Oktober 2026, setelah diminta Bursa Efek Indonesia.",
-  "date": "22 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSIN",
-   "Public Expose",
-   "Bursa Efek Indonesia",
-   "MNC Digital Entertainment"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5fb96a13f4_70f543a467.pdf",
   "sourceLabel": "IDX"
  }
 ];

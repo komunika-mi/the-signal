@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smma-catat-laba-turun-25-jadi-rp2-33-triliun-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Catat [Laba] Turun 25% jadi Rp2,33 Triliun per September 2026",
+  "deck": "Laba bersih Sinar Mas Multiartha turun 24,6 persen jadi Rp2,33 triliun dalam sembilan bulan 2026, terutama karena hilangnya keuntungan satu kali dari penjualan saham tahun lalu.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMA",
+   "laporan keuangan",
+   "laba bersih",
+   "Sinar Mas Multiartha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031041335-65626-0/FinancialStatement-2026-III-SMMA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-raih-opini-pengecualian-kas-tersisa-rp721-juta",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Raih Opini [Pengecualian], Kas Tersisa Rp721 Juta",
+  "deck": "Laporan keuangan tahunan 2025 BOSS kembali beropini wajar dengan pengecualian akibat pailitnya anak usaha tambang, kas perusahaan susut tajam dari Rp2,45 miliar menjadi Rp721 juta.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "opini pengecualian",
+   "pailit",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202510/20261031031229-65608-0/FinancialStatement-2025-Tahunan-BOSS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "laba-bersih-jkon-melonjak-13-kali-lipat-jadi-rp237-8-miliar",
   "category": "Aksi Korporasi",
   "title": "Laba Bersih [JKON] Melonjak 13 Kali Lipat Jadi Rp237,8 Miliar",
@@ -437,6 +469,134 @@ var ARTICLES = [
    "restrukturisasi utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e0bf190988_7783af519f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gpso-ekuitas-naik-63-usai-suntikan-modal-rugi-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "GPSO: [Ekuitas] Naik 63% Usai Suntikan Modal, Rugi Menyusut",
+  "deck": "Kuartal III 2026 GPSO: aset dan ekuitas naik lebih dari 60 persen setelah suntikan modal, tapi margin menipis dan kas operasi negatif.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GPSO",
+   "laporan keuangan",
+   "penambahan modal",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030214552-65330-0/FinancialStatement-2026-III-GPSO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "peve-utang-bank-naik-36-usai-tambah-fasilitas-bank-permata",
+  "category": "Aksi Korporasi",
+  "title": "PEVE: Utang Bank Naik 36% Usai Tambah Fasilitas [Bank Permata]",
+  "deck": "Total aset Penta Valent naik 9,4 persen menjadi Rp1,52 triliun per akhir September 2026, utang bank jangka pendek naik 36,5 persen usai menambah fasilitas dari Bank Permata.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PEVE",
+   "Penta Valent",
+   "laporan keuangan",
+   "Bank Permata"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030213757-65144-0/FinancialStatement-2026-III-PEVE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-tarik-pinjaman-rp45-miliar-dari-bank-ina-untuk-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "VISI Tarik Pinjaman [Rp45 Miliar] dari Bank Ina untuk Modal Kerja",
+  "deck": "PT Satu Visi Putra menandatangani fasilitas demand loan Rp45 miliar dengan Bank Ina Perdana untuk modal kerja, wajib lunas 28 Januari 2027.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "kredit perbankan",
+   "modal kerja",
+   "Bank Ina Perdana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6aae1f0e5e_e27aed5475.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "irra-kas-anjlok-76-utang-bank-melonjak-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "IRRA: Kas Anjlok 76%, [Utang Bank] Melonjak Kuartal III 2026",
+  "deck": "Laba bersih Itama Ranoraya naik tipis jadi Rp47,33 miliar, tapi arus kas operasi makin negatif dan utang bank jangka panjang melonjak lebih dari dua kali lipat.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IRRA",
+   "laporan keuangan",
+   "arus kas",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030212552-64913-0/FinancialStatement-2026-III-IRRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bren-catat-laba-bersih-us-161-juta-di-9m-2026-naik-21-8",
+  "category": "Aksi Korporasi",
+  "title": "BREN Catat [Laba Bersih] US$161 Juta di 9M 2026, Naik 21,8%",
+  "deck": "Barito Renewables membukukan pendapatan US$501 juta dan laba bersih US$161 juta untuk sembilan bulan 2026, sembari menurunkan rasio utangnya.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BREN",
+   "kinerja keuangan",
+   "energi terbarukan",
+   "panas bumi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6bd38b487a_dea2c162e4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtsm-minta-bei-cabut-suspensi-saat-benahi-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "MTSM Minta BEI Cabut [Suspensi] Saat Benahi Laporan Keuangan",
+  "deck": "MTSM mengoreksi jawabannya ke Bursa dan meminta pencabutan suspensi saham sambil membenahi laporan keuangan serta memenuhi syarat free float.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTSM",
+   "suspensi saham",
+   "free float",
+   "Metro Realty"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b4b65d2cc5_c57a28f50e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wows-cetak-rugi-rp6-87-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "WOWS Cetak [Rugi] Rp6,87 Miliar di Kuartal III 2026",
+  "deck": "Ginting Jaya Energi (WOWS) berbalik dari laba jadi rugi bersih Rp6,87 miliar pada kuartal III 2026, dengan kas menyusut hampir separuh dan utang pajak melonjak.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WOWS",
+   "Ginting Jaya Energi",
+   "laporan keuangan kuartal III",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030210343-65566-0/FinancialStatement-2026-III-WOWS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "roti-laba-bersih-anjlok-59-persen-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "ROTI: Laba Bersih [Anjlok] 59 Persen di Kuartal III 2026",
+  "deck": "Laba bersih Sari Roti turun hampir 60 persen jadi Rp55,27 miliar pada sembilan bulan pertama 2026, meski pendapatan nyaris stagnan.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ROTI",
+   "Sari Roti",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030211238-65046-0/FinancialStatement-2026-III-ROTI.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6318,166 +6478,6 @@ var ARTICLES = [
    "Perubahan Pengurus"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/68c70dadfd_137b86c0cd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbss-andy-wibowo-beli-8-47-juta-saham-senilai-rp24-6-m",
-  "category": "Aksi Korporasi",
-  "title": "MBSS: Andy Wibowo [Beli] 8,47 Juta Saham Senilai Rp24,6 M",
-  "deck": "Andy Wibowo, investor individu yang bukan direksi atau komisaris MBSS, membeli 8,47 juta saham secara tidak langsung pada 19 Oktober 2026 senilai sekitar Rp24,6 miliar.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBSS",
-   "kepemilikan saham",
-   "Mitrabahtera Segara Sejati",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-1165-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pskt-siapkan-buyback-saham-rp5-miliar-hingga-januari-2027",
-  "category": "Aksi Korporasi",
-  "title": "PSKT Siapkan [Buyback] Saham Rp5 Miliar hingga Januari 2027",
-  "deck": "Red Planet Indonesia (PSKT) berencana membeli kembali saham maksimal Rp5 miliar pada 27 Oktober 2026-26 Januari 2027 lewat BCA Sekuritas, memanfaatkan aturan OJK soal volatilitas pasar.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSKT",
-   "buyback saham",
-   "OJK",
-   "Red Planet Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/587a45e84f_a18d8343e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "avia-jadwalkan-rupslb-pada-2-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "AVIA Jadwalkan [RUPSLB] pada 2 Desember 2026",
-  "deck": "AVIA menjadwalkan RUPSLB pada 2 Desember 2026, dengan pemegang saham per 9 November 2026 yang berhak hadir dan memberi suara.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "RUPSLB",
-   "Avia Avian",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1356c9b14e_472eb477ac.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raam-tegaskan-rencana-rights-issue-belum-dibatalkan",
-  "category": "Aksi Korporasi",
-  "title": "RAAM Tegaskan Rencana [Rights Issue] Belum Dibatalkan",
-  "deck": "RAAM menjelaskan ke BEI bahwa rencana rights issue belum dibatalkan, namun hingga kini belum ada keputusan final maupun jadwal pelaksanaannya.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAAM",
-   "rights issue",
-   "PMHMETD",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5f5eb6f3bb_453a840c6c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-direksi-tambah-saham-beli-rp1-48-miliar-di-pasar",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Direksi [Tambah] Saham, Beli Rp1,48 Miliar di Pasar",
-  "deck": "Direksi Arkora Hydro, Aldo Henry Artoko, membeli 1,05 juta lembar saham ARKO pada 22 Oktober 2026 senilai Rp1,48 miliar, menaikkan hak suaranya ke 0,22 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "kepemilikan saham",
-   "insider buying"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-6626-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hatm-laba-bersih-turun-9-8-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "HATM: Laba Bersih [Turun] 9,8% di Kuartal III 2026",
-  "deck": "Laba bersih Habco Trans Maritima turun 9,8 persen jadi Rp110,27 miliar pada sembilan bulan 2026, sementara perseroan menambah modal Rp320 miliar lewat saham baru.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HATM",
-   "laporan keuangan interim",
-   "penambahan modal",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026104941-64863-0/FinancialStatement-2026-III-HATM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-komisaris-tambah-saham-beli-rp419-juta-di-pasar",
-  "category": "Aksi Korporasi",
-  "title": "ARKO: Komisaris [Tambah] Saham, Beli Rp419 Juta di Pasar",
-  "deck": "Komisaris Arkora Hydro, Arya Pradana Setiadharma, membeli 300.000 saham seharga Rp1.398 per lembar pada 22 Oktober 2026, menambah kepemilikannya hampir 14 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-2395-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-henry-liem-jual-200-000-saham-lagi",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Henry Liem Jual 200.000 Saham [Lagi]",
-  "deck": "Komisaris AKPI Henry Liem melaporkan penjualan 200.000 saham tambahan pada 23 Oktober 2026, menyusul penjualan 300.000 saham sebelumnya di pekan yang sama. Hak suaranya kini 0,7841 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Henry Liem",
-   "Komisaris",
-   "Kepemilikan Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-7772-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smma-panggil-rupslb-17-november-agenda-rombak-direksi",
-  "category": "Aksi Korporasi",
-  "title": "SMMA Panggil RUPSLB 17 November, Agenda [Rombak] Direksi",
-  "deck": "SMMA mengundang pemegang saham ke RUPSLB 17 November 2026 untuk membahas pergantian susunan direksi dan perubahan anggaran dasar perusahaan.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMA",
-   "RUPSLB",
-   "direksi",
-   "anggaran dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f4f522ca99_b0f0ecdb24.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-sujito-ngatiman-jual-saham-hak-suara-turun-ke-7-70",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Sujito Ngatiman Jual Saham, Hak Suara Turun ke [7,70%]",
-  "deck": "Sujito Ngatiman menjual 7,7 juta saham DEWI pada 23 Oktober 2026 seharga Rp223 per saham, menurunkan hak suaranya dari 8,10 persen menjadi 7,70 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "pemegang saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-3382-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smma-catat-laba-turun-25-jadi-rp2-33-triliun-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Catat [Laba] Turun 25% jadi Rp2,33 Triliun per September 2026",
+  "deck": "Laba bersih Sinar Mas Multiartha turun 24,6 persen jadi Rp2,33 triliun dalam sembilan bulan 2026, terutama karena hilangnya keuntungan satu kali dari penjualan saham tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T04:10:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031041335-65626-0/FinancialStatement-2026-III-SMMA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMA",
+  "tags": [
+   "SMMA",
+   "laporan keuangan",
+   "laba bersih",
+   "Sinar Mas Multiartha"
+  ],
+  "body": [
+   "PT Sinar Mas Multiartha Tbk (SMMA) melaporkan laba bersih Rp2,33 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, turun 24,6 persen dari Rp3,10 triliun pada periode yang sama tahun lalu. Laba per saham ikut turun dari Rp477 menjadi Rp363. Laporan keuangan interim kuartal ketiga 2026 ini belum diaudit dan disampaikan perseroan ke Bursa Efek Indonesia melalui surat bernomor 198/SMMA/X/2026.",
+   "Pendapatan konsolidasian perusahaan induk jasa keuangan Sinarmas ini turun 8 persen menjadi Rp27,38 triliun dari Rp29,77 triliun. Penurunan laba sebelum pajak sebenarnya lebih kecil, yaitu Rp783 miliar atau 24,8 persen menjadi Rp2,38 triliun, tetapi tertekan oleh dua pos yang menyusut tajam dibanding tahun lalu: keuntungan dari penjualan saham investasi senilai Rp2,35 triliun yang tercatat pada sembilan bulan 2025 tidak muncul lagi tahun ini, dan keuntungan dari kenaikan nilai wajar efek anjlok dari Rp1,41 triliun menjadi hanya Rp33 miliar. Di sisi lain, pendapatan bunga dan bagi hasil justru naik 3,1 persen menjadi Rp4,02 triliun, dan pos pendapatan lain-lain melonjak dari Rp2,00 triliun menjadi Rp4,81 triliun sehingga menahan penurunan laba agar tidak lebih dalam.",
+   "Di sisi aset, jumlah aset perseroan naik 7,6 persen menjadi Rp129,50 triliun per akhir September 2026, dari Rp120,39 triliun pada akhir 2025. Jumlah liabilitas juga naik 7,1 persen menjadi Rp101,21 triliun, antara lain karena munculnya liabilitas baru dari efek yang dijual dengan janji dibeli kembali senilai Rp2,64 triliun yang sebelumnya tidak ada, serta kenaikan liabilitas kontrak asuransi dari Rp25,87 triliun menjadi Rp28,75 triliun. Jumlah ekuitas naik 9,2 persen menjadi Rp28,29 triliun, tetapi rasio imbal hasil terhadap ekuitas (ROE) turun dari 12,02 persen menjadi 8,24 persen dan rasio imbal hasil terhadap aset (ROA) turun dari 2,57 persen menjadi 1,80 persen."
+  ],
+  "fotoAdegan": "Insurance clerk assisting a customer at a teller counter inside a busy Jakarta financial services branch, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham SMMA, karena penurunan laba bersih 24,6 persen bukan sekadar fluktuasi kecil, melainkan akibat hilangnya keuntungan satu kali dari penjualan saham investasi tahun lalu yang tidak tergantikan penuh oleh kinerja inti perusahaan. Yang paling tersentuh adalah ROE dan ROA, yaitu ukuran seberapa besar laba yang dihasilkan dibandingkan modal dan aset yang dipakai perusahaan; turunnya dari 12,02 persen ke 8,24 persen (ROE) dan dari 2,57 persen ke 1,80 persen (ROA) berarti setiap rupiah modal dan aset Sinarmas Multiartha kini menghasilkan laba yang lebih kecil dibanding tahun lalu, sejalan dengan laba per saham yang juga turun dari Rp477 ke Rp363. Sisi positifnya, ekuitas perusahaan tetap tumbuh 9,2 persen menjadi Rp28,29 triliun, sehingga modal pemegang saham tidak tergerus meski laba turun. Yang perlu dipantau selanjutnya adalah hasil Rapat Umum Pemegang Saham Luar Biasa yang dijadwalkan 17 November 2026, karena agenda perombakan jajaran direksi bisa membawa perubahan strategi yang berdampak pada kinerja perusahaan selanjutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "boss-raih-opini-pengecualian-kas-tersisa-rp721-juta",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Raih Opini [Pengecualian], Kas Tersisa Rp721 Juta",
+  "deck": "Laporan keuangan tahunan 2025 BOSS kembali beropini wajar dengan pengecualian akibat pailitnya anak usaha tambang, kas perusahaan susut tajam dari Rp2,45 miliar menjadi Rp721 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T03:02:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202510/20261031031229-65608-0/FinancialStatement-2025-Tahunan-BOSS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "opini pengecualian",
+   "pailit",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan laporan keuangan tahunan untuk periode yang berakhir 31 Desember 2025 ke Bursa Efek Indonesia. Auditor independen dari Kantor Akuntan Publik Mohammad Sunusi dan Rekan kembali memberikan opini wajar dengan pengecualian, status yang sama dengan laporan tahun sebelumnya. Total aset Grup turun dari Rp588,05 miliar pada akhir 2024 menjadi Rp559,16 miliar pada akhir 2025, sementara kas dan setara kas anjlok dari Rp2,45 miliar menjadi hanya Rp720,93 juta.",
+   "Opini pengecualian ini didasari pembatalan putusan perdamaian (homologasi) dalam perkara Penundaan Kewajiban Pembayaran Utang di Pengadilan Niaga Jakarta Pusat, yang berujung pada pailitnya PT Bangun Olahsarana Sukses, entitas anak yang dikuasai BOSS secara tidak langsung. Manajemen Grup telah mengajukan Peninjauan Kembali ke Mahkamah Agung setelah upaya kasasi sebelumnya ditolak. Tim kurator yang ditugaskan pengadilan berencana melanjutkan operasional anak usaha itu sambil menuntaskan kerja sama dengan investor dan kontraktor baru, namun auditor menilai kondisi ini menimbulkan ketidakpastian material atas kelangsungan usaha Grup.",
+   "Dua entitas anak lain juga dalam kondisi rawan. PT Pratama Buana Sentosa mencatat defisit ekuitas Rp1,49 miliar dan izin usaha pertambangan eksplorasinya telah habis serta tidak diperpanjang, sehingga perusahaan ini tidak lagi berhak beroperasi di wilayah konsesinya. PT Pratama Natural Resources dan entitas anaknya membukukan rugi komprehensif Rp34,74 miliar sepanjang 2025, membuat akumulasi ruginya membengkak menjadi Rp454,41 miliar dengan defisit ekuitas Rp239,90 miliar. Auditor juga mencatat Grup belum melunasi utang kepada Rocksbridge Energy Pte Ltd sebesar Rp38,97 miliar dan utang PT Pratama Bersama sebesar Rp43,14 miliar, keduanya tertunda karena keterbatasan likuiditas Grup.",
+   "Laporan ini turut mencantumkan hal audit utama berupa penyisihan kerugian kredit ekspektasian atas piutang usaha dan piutang lain-lain, yang bersama-sama mencapai sekitar Rp111,90 miliar atau 20,01 persen dari total aset Grup, dengan cadangan kerugian yang dibentuk sebesar Rp3,73 miliar. Laporan ditandatangani Direktur Utama Freddy Tedjasasmita dan Direktur Widodo Nurly Sumady pada 28 Oktober 2026, sementara saham BOSS saat ini berstatus Pemantauan Khusus di papan perdagangan BEI."
+  ],
+  "fotoAdegan": "Excavator loading coal onto a heavy dump truck at an open-pit mine, overcast sky, dust hanging in the air",
+  "takeaway": "Laporan ini jelas negatif bagi BOSS, karena opini wajar dengan pengecualian muncul lagi akibat pailitnya anak usaha tambang dan dua entitas anak lain yang modalnya sudah minus, ditambah kas perusahaan yang menyusut tajam dalam setahun. Yang tersentuh adalah arus kas, yakni uang tunai yang benar-benar dipegang perusahaan untuk membiayai operasional, yang turun dari Rp2,45 miliar menjadi Rp721 juta, serta ekuitas, selisih antara aset dan utang yang jadi ukuran kekayaan bersih pemegang saham, karena dua entitas anak kini mencatat ekuitas negatif alias utangnya lebih besar dari asetnya. Pelaku pasar memantau pos ini karena ekuitas negatif yang berkepanjangan bisa memicu tuntutan tambahan modal atau risiko gagal bayar lanjutan ke kreditor seperti Rocksbridge Energy. Yang perlu dipantau berikutnya adalah hasil Peninjauan Kembali yang diajukan Grup ke Mahkamah Agung atas putusan pailit anak usahanya, serta RUPS Tahunan dan Luar Biasa yang menurut laporan sebelumnya sudah ditunda ke 4 November 2026, karena dua agenda itu akan menentukan apakah rencana kurator untuk melanjutkan usaha benar-benar bisa dijalankan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "laba-bersih-jkon-melonjak-13-kali-lipat-jadi-rp237-8-miliar",
   "category": "Aksi Korporasi",
   "title": "Laba Bersih [JKON] Melonjak 13 Kali Lipat Jadi Rp237,8 Miliar",
@@ -709,6 +762,214 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Construction workers in hard hats inspecting steel rebar at a high-rise building site, tower cranes overhead, overcast Jakarta skyline in the distance",
   "takeaway": "Laporan ini negatif bagi PTPP, karena penurunan peringkat ke idSD dan idD bukan sekadar risiko di atas kertas, melainkan konfirmasi resmi bahwa perusahaan sudah gagal membayar kewajiban utang yang jatuh tempo, melanjutkan tekanan arus kas yang sebelumnya sudah terlihat dari permintaan penundaan bagi hasil sukuk. Yang tersentuh langsung adalah likuiditas, yakni ketersediaan kas untuk membayar utang jangka pendek, dan risiko refinancing, yaitu kemungkinan sulitnya perusahaan mendapat pinjaman baru untuk melunasi utang lama di tengah ketatnya pendanaan sektor konstruksi, dua hal yang menentukan apakah perusahaan bisa terus beroperasi normal tanpa menjual aset atau menerbitkan saham baru yang mendilusi kepemilikan pemegang saham lama. Yang perlu dipantau berikutnya adalah hasil Rapat Umum Pemegang Obligasi dan Rapat Umum Pemegang Sukuk pada 10 dan 11 November 2026, karena di situlah skema restrukturisasi konkret bagi pemegang surat utang akan ditentukan, sekaligus apakah PTPP mampu menyelesaikan kewajiban yang gagal dibayar dalam periode remedial 14 hari kerja sejak peringkat ini terbit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "gpso-ekuitas-naik-63-usai-suntikan-modal-rugi-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "GPSO: [Ekuitas] Naik 63% Usai Suntikan Modal, Rugi Menyusut",
+  "deck": "Kuartal III 2026 GPSO: aset dan ekuitas naik lebih dari 60 persen setelah suntikan modal, tapi margin menipis dan kas operasi negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:32:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030214552-65330-0/FinancialStatement-2026-III-GPSO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GPSO",
+  "tags": [
+   "GPSO",
+   "laporan keuangan",
+   "penambahan modal",
+   "arus kas"
+  ],
+  "body": [
+   "PT Geoprima Solusi Tbk (GPSO) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 28 Oktober 2026. Total aset perusahaan naik 62,8 persen menjadi Rp79,58 miliar dari Rp48,89 miliar pada akhir 2025, didorong oleh penambahan modal lewat skema Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu. Berdasarkan akta notaris 14 Juli 2026, perusahaan menerbitkan 66.674.000 saham baru dengan nilai nominal Rp50 per saham, setara 10 persen dari saham yang sudah beredar, sehingga jumlah saham beredar bertambah menjadi 733.415.103 lembar dari sebelumnya 666.741.103 lembar. Ekuitas perusahaan ikut naik 62,7 persen menjadi Rp69,41 miliar, setelah GPSO menerima uang muka setoran modal senilai Rp25,14 miliar dan modal disetor tambahan Rp3,33 miliar.",
+   "Dari sisi kinerja usaha, penjualan sembilan bulan 2026 tercatat Rp9,18 miliar, naik hampir tiga kali lipat dibanding periode yang sama tahun lalu sebesar Rp3,12 miliar. Namun beban pokok penjualan melonjak lebih cepat, dari Rp1,22 miliar menjadi Rp8,03 miliar, sehingga laba kotor justru turun 39,6 persen menjadi Rp1,15 miliar dari Rp1,90 miliar. Rugi operasi mengecil menjadi Rp2,35 miliar dari Rp4,08 miliar karena beban usaha ditekan menjadi Rp3,50 miliar dari Rp5,99 miliar, dibantu pendapatan lain-lain Rp610 juta. Rugi bersih periode berjalan tercatat Rp1,74 miliar, menyusut dari Rp4,13 miliar pada periode yang sama tahun lalu, dengan rugi per saham dasar Rp2,61 dibanding Rp6,19 sebelumnya. Jumlah karyawan tetap perusahaan turun tajam menjadi 4 orang pada akhir September 2026 dari 16 orang pada akhir 2025.",
+   "Arus kas dari aktivitas operasi berbalik menjadi negatif Rp6,87 miliar, dari sebelumnya positif Rp317 juta pada periode yang sama tahun lalu. Arus kas investasi tercatat negatif Rp28,55 miliar, hampir seluruhnya berupa uang muka pembelian aset tetap senilai Rp28,47 miliar. Kebutuhan dana itu ditutup dari aktivitas pendanaan yang membukukan arus kas masuk Rp36,02 miliar, terutama dari penerimaan uang muka setoran modal Rp25,14 miliar dan modal disetor Rp3,33 miliar, ditambah penerimaan dari pihak berelasi. Dengan demikian kas dan setara kas perusahaan naik bersih Rp597 juta menjadi Rp1,43 miliar pada akhir September 2026."
+  ],
+  "fotoAdegan": "Workers checking heavy machinery components in an industrial warehouse, a forklift moving crates between metal shelves, daylight through open bay doors",
+  "takeaway": "Laporan ini netral bagi GPSO: penjualan memang tumbuh hampir tiga kali lipat dan rugi bersihnya mengecil, tapi marginnya menipis, arus kas dari operasi usaha justru berbalik negatif, dan jumlah karyawan tetap menyusut drastis dari 16 jadi 4 orang, kombinasi yang membuat pertumbuhan penjualan ini belum bisa dibaca sebagai perbaikan fundamental yang solid. Pos yang paling tersentuh adalah ekuitas, yaitu modal pemilik perusahaan, yang naik lebih dari 60 persen karena ada suntikan dana dari penerbitan saham baru, bukan dari laba usaha, serta jumlah saham beredar yang bertambah 10 persen sehingga tiap lembar saham mewakili porsi kepemilikan yang sedikit lebih kecil dan laba per saham ke depan bisa makin terdilusi kalau perusahaan belum untung. Arus kas operasi yang negatif berarti kegiatan usaha sehari-hari belum menghasilkan uang tunai sendiri, sehingga perusahaan masih mengandalkan dana dari pemegang saham dan pihak berelasi untuk menutup kebutuhan kasnya. Yang perlu dipantau berikutnya adalah realisasi uang muka pembelian aset tetap senilai Rp28,47 miliar ini, apakah benar terwujud jadi peralatan produktif pada laporan kuartal berikutnya, serta bagaimana arus kas operasi bergerak setelah jumlah karyawan tetap yang tersisa hanya empat orang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "peve-utang-bank-naik-36-usai-tambah-fasilitas-bank-permata",
+  "category": "Aksi Korporasi",
+  "title": "PEVE: Utang Bank Naik 36% Usai Tambah Fasilitas [Bank Permata]",
+  "deck": "Total aset Penta Valent naik 9,4 persen menjadi Rp1,52 triliun per akhir September 2026, utang bank jangka pendek naik 36,5 persen usai menambah fasilitas dari Bank Permata.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:29:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030213757-65144-0/FinancialStatement-2026-III-PEVE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PEVE",
+  "tags": [
+   "PEVE",
+   "Penta Valent",
+   "laporan keuangan",
+   "Bank Permata"
+  ],
+  "body": [
+   "PT Penta Valent Tbk (PEVE) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, sekaligus menyampaikan keterbukaan informasi wajib ke Bursa Efek Indonesia karena ada pos aset dan liabilitas yang berubah lebih dari 20 persen dibandingkan posisi 31 Desember 2025. Surat keterbukaan itu diteken Direktur Franxiscus Afat Adinata Nursalim pada 30 Oktober 2026, merujuk pada Peraturan Pencatatan Bursa No. I-E yang mewajibkan emiten menjelaskan ke publik setiap perubahan signifikan semacam itu.",
+   "Total aset perseroan tercatat Rp1,52 triliun per akhir September 2026, naik 9,4 persen dari Rp1,39 triliun pada akhir 2025. Kenaikan terbesar ada di pos piutang lain-lain, yang melonjak 31,1 persen menjadi Rp124,58 miliar karena bertambahnya piutang klaim ke prinsipal atau pemasok. Piutang usaha pihak ketiga naik 8,6 persen menjadi Rp693,97 miliar, persediaan barang naik 5,2 persen menjadi Rp473,34 miliar, dan kas serta setara kas naik 10,9 persen menjadi Rp14,63 miliar. Perseroan juga menyebut menambah pencadangan atas piutang usaha yang berisiko tidak tertagih, menandakan ada bagian piutang yang dinilai makin berisiko.",
+   "Di sisi liabilitas, utang bank jangka pendek naik 36,5 persen menjadi Rp445,76 miliar dari Rp326,61 miliar, yang menurut perseroan disebabkan peningkatan pemakaian fasilitas kredit untuk operasional ditambah fasilitas baru dari Bank Permata. Liabilitas sewa jangka pendek yang jatuh tempo dalam satu tahun melonjak hampir sepuluh kali lipat menjadi Rp2,30 miliar dari Rp236,11 juta karena ada perjanjian sewa baru yang pembayarannya belum jatuh tempo. Utang pajak naik 52,1 persen menjadi Rp634,69 juta karena ada PPh yang belum disetorkan per 30 September 2026. Dengan tambahan itu, total liabilitas jangka pendek perseroan naik 8,1 persen menjadi Rp1,10 triliun dari Rp1,01 triliun."
+  ],
+  "fotoAdegan": "Warehouse workers loading boxed medicine onto pallets inside a large pharmaceutical distribution center, forklift nearby, bright fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi Penta Valent: kenaikan utang bank dan piutang sejalan dengan bisnis yang tumbuh, bukan tanda tekanan keuangan, tapi tambahan pencadangan piutang tak tertagih perlu dicermati karena menandakan ada pelanggan yang pembayarannya dinilai makin berisiko. Yang tersentuh di sini adalah beban bunga dan arus kas jangka pendek: utang bank jangka pendek naik 36,5 persen usai perseroan menambah fasilitas dari Bank Permata, dan utang semacam ini biasa dipakai pedagang besar farmasi seperti Penta Valent untuk membiayai stok obat serta piutang ke rumah sakit dan apotek sebelum tertagih. Pelaku pasar memperhatikan rasio utang semacam ini karena semakin besar utang berbunga, semakin besar pula beban bunga yang bisa menggerus laba, meski dokumen yang terbaca kali ini belum memuat laporan laba rugi untuk memastikan dampaknya. Yang perlu dipantau berikutnya adalah laporan keuangan lengkap kuartal III 2026, termasuk laporan laba rugi yang belum tercakup dalam dokumen yang berhasil diunduh kali ini, serta realisasi pembayaran utang pajak PPh yang menurut perseroan belum disetorkan per 30 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "visi-tarik-pinjaman-rp45-miliar-dari-bank-ina-untuk-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "VISI Tarik Pinjaman [Rp45 Miliar] dari Bank Ina untuk Modal Kerja",
+  "deck": "PT Satu Visi Putra menandatangani fasilitas demand loan Rp45 miliar dengan Bank Ina Perdana untuk modal kerja, wajib lunas 28 Januari 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:17:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6aae1f0e5e_e27aed5475.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "kredit perbankan",
+   "modal kerja",
+   "Bank Ina Perdana"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk (VISI) menandatangani Perjanjian Kredit No. 426/PBIP/1026 dengan PT Bank Ina Perdana Tbk (BINA) pada 28 Oktober 2026. Fasilitas yang diambil berupa Demand Loan dengan plafon Rp45 miliar, berjangka waktu maksimal tiga bulan sejak penandatanganan dan wajib dilunasi penuh paling lambat 28 Januari 2027. Bunga pinjaman ditetapkan sebesar suku bunga deposito ditambah 1,5 persen per tahun, dan BINA berhak mengubah suku bunga itu sewaktu-waktu dengan pemberitahuan tujuh hari kalender kepada VISI. Dana ini digunakan untuk modal kerja usaha.",
+   "Untuk mendapatkan fasilitas ini, VISI harus membuka rekening giro atau tabungan di BINA, menandatangani perjanjian kredit, mengembalikan surat penawaran kredit yang sudah ditandatangani, serta menyetor sinking fund senilai tiga kali beban bunga fasilitas Demand Loan dari dana segar, yang kemudian diblokir di rekening giro atau operasional perusahaan. Selama fasilitas ini berjalan, tiga pemegang saham VISI diwajibkan menjaga batas minimal kepemilikan mereka: PT Harmoni Semesta Investama minimal 60 persen, PT Atlas Raya Abadi minimal 10 persen, dan PT Trinugraha Thohir Harmoni minimal 8 persen.",
+   "Perseroan menyatakan nilai transaksi kredit ini setara atau lebih dari 20 persen ekuitas VISI, sehingga menurut POJK No. 17/2020 digolongkan sebagai Transaksi Material. Namun karena transaksi berupa pinjaman langsung dari bank, aturan yang sama mengecualikannya dari kewajiban memakai jasa penilai independen dan meminta persetujuan rapat umum pemegang saham. VISI tetap wajib mengumumkan keterbukaan informasi ini ke publik dan menyerahkan dokumen pendukungnya ke OJK paling lambat dua hari kerja setelah tanggal transaksi. Direksi dan dewan komisaris juga menyatakan transaksi ini bukan transaksi afiliasi dan tidak mengandung benturan kepentingan sesuai POJK No. 42/2020."
+  ],
+  "fotoAdegan": "Warehouse interior with stacked rolls of banner material and ink canisters, a worker moving pallets with a hand truck, fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi fundamental VISI: ini pendanaan rutin untuk modal kerja lewat jalur bank, bukan sinyal darurat maupun ekspansi besar, walau nilainya tergolong besar karena setara lebih dari 20 persen ekuitas perusahaan. Yang tersentuh adalah beban bunga dan arus kas perusahaan, karena tambahan utang berarti tambahan bunga yang harus dibayar, sementara syarat sinking fund, yaitu dana cadangan senilai tiga kali bunga fasilitas yang harus disisihkan dan dibekukan di rekening, membuat sebagian kas perusahaan tidak bisa dipakai bebas untuk operasional. Yang perlu dipantau adalah tenggat pelunasan paling lambat 28 Januari 2027, mengingat tenor fasilitas ini hanya tiga bulan sehingga perusahaan harus memastikan arus kasnya cukup atau mengatur perpanjangan sebelum tanggal itu, serta kepatuhan tiga pemegang saham utama terhadap batas kepemilikan minimum yang disyaratkan BINA selama fasilitas ini berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "irra-kas-anjlok-76-utang-bank-melonjak-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "IRRA: Kas Anjlok 76%, [Utang Bank] Melonjak Kuartal III 2026",
+  "deck": "Laba bersih Itama Ranoraya naik tipis jadi Rp47,33 miliar, tapi arus kas operasi makin negatif dan utang bank jangka panjang melonjak lebih dari dua kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:16:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030212552-64913-0/FinancialStatement-2026-III-IRRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRRA",
+  "tags": [
+   "IRRA",
+   "laporan keuangan",
+   "arus kas",
+   "utang bank"
+  ],
+  "body": [
+   "PT Itama Ranoraya Tbk (IRRA), distributor alat kesehatan dan laboratorium, menyampaikan laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit, kepada Bursa Efek Indonesia pada 30 Oktober 2026. Perseroan sekaligus mengirim surat keterangan khusus karena mencatat kenaikan total aset Rp823,1 miliar atau 33,83 persen menjadi Rp3,26 triliun, serta kenaikan total liabilitas Rp775,78 miliar atau 41,82 persen menjadi Rp2,63 triliun, dibandingkan posisi akhir 2025. Corporate Secretary Viertin M.L. Tobing menjelaskan kenaikan aset terutama berasal dari reklasifikasi persediaan menjadi aset tetap, kenaikan klaim pengembalian pajak, dan kenaikan beban dibayar di muka, sementara kenaikan liabilitas didorong oleh utang dagang dan utang bank yang membesar.",
+   "Dari sisi laba rugi, penjualan neto turun 6 persen menjadi Rp952,77 miliar dari Rp1,01 triliun pada periode yang sama tahun lalu. Meski penjualan turun, laba kotor justru naik dari Rp185,51 miliar menjadi Rp212,43 miliar karena beban pokok penjualan ditekan lebih dalam. Beban umum dan administrasi naik 27 persen menjadi Rp96,73 miliar, sementara beban bunga turun dari Rp41,46 miliar menjadi Rp23,98 miliar. Laba bersih periode berjalan naik 6,1 persen menjadi Rp47,33 miliar dari Rp44,61 miliar, dengan laba per saham dasar naik dari Rp29,58 menjadi Rp31,39.",
+   "Di balik laba yang tetap tumbuh, arus kas dari aktivitas operasi justru makin negatif, dari minus Rp249,80 miliar menjadi minus Rp384,79 miliar, terutama karena pembayaran kepada pemasok yang jauh lebih besar dibanding penerimaan dari pelanggan. Lubang kas ini ditambal dengan pendanaan dari bank: penerimaan utang bank baru naik dari Rp1,07 triliun menjadi Rp1,35 triliun, dan utang bank jangka panjang melonjak dari Rp249,49 miliar menjadi Rp573,90 miliar. Akibatnya, saldo kas dan bank Perseroan merosot tajam dari Rp80,13 miliar pada akhir 2025 menjadi Rp18,87 miliar pada akhir September 2026."
+  ],
+  "fotoAdegan": "Warehouse workers moving boxes of medical supplies between tall shelves, a forklift nearby, bright industrial lighting.",
+  "takeaway": "Laporan ini condong negatif bagi IRRA, karena di balik laba bersih yang naik tipis, kemampuan bisnis menghasilkan uang tunai dari operasional justru memburuk dan Perseroan makin mengandalkan utang bank baru untuk menutup selisihnya. Yang tersentuh di sini adalah arus kas operasi, yakni uang tunai yang benar-benar masuk dan keluar dari aktivitas jual beli sehari-hari dan bukan sekadar angka laba di atas kertas, serta beban utang bank yang melonjak dan bisa menambah beban bunga ke depan kalau tidak diikuti perbaikan penjualan. Kenaikan laba kotor dan laba bersih memang positif, tetapi itu belum cukup menutup defisit kas operasional yang membesar dari Rp249,80 miliar menjadi Rp384,79 miliar. Yang perlu dipantau berikutnya adalah apakah arus kas operasi membaik pada laporan keuangan tahunan auditan untuk tahun buku 2026, dan bagaimana Perseroan mengelola utang bank jangka panjang yang kini membesar menjadi Rp573,90 miliar tanpa tergerus laba ke depan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bren-catat-laba-bersih-us-161-juta-di-9m-2026-naik-21-8",
+  "category": "Aksi Korporasi",
+  "title": "BREN Catat [Laba Bersih] US$161 Juta di 9M 2026, Naik 21,8%",
+  "deck": "Barito Renewables membukukan pendapatan US$501 juta dan laba bersih US$161 juta untuk sembilan bulan 2026, sembari menurunkan rasio utangnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:04:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6bd38b487a_dea2c162e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BREN",
+  "tags": [
+   "BREN",
+   "kinerja keuangan",
+   "energi terbarukan",
+   "panas bumi"
+  ],
+  "body": [
+   "PT Barito Renewables Energy Tbk (BREN) melaporkan kinerja konsolidasian tidak diaudit untuk sembilan bulan yang berakhir 30 September 2026. Pendapatan tercatat US$501 juta, naik 9,5 persen dari US$457 juta pada periode yang sama tahun lalu. EBITDA naik 10,9 persen menjadi US$442 juta dengan marjin EBITDA membaik ke 88,2 persen dari 87,1 persen. Laba bersih setelah pajak melonjak 21,8 persen menjadi US$161 juta dari US$132 juta, dengan porsi yang menjadi hak pemegang saham utama BREN sebesar US$133 juta dan sisanya US$28 juta untuk pemegang saham nonpengendali. Perseroan menyebut kenaikan laba ini didorong oleh laba operasional yang lebih tinggi serta beban keuangan yang turun 3,2 persen menjadi US$85 juta.",
+   "Dari sisi neraca, total aset BREN naik 6,3 persen menjadi US$4,11 miliar dan total ekuitas naik 14,2 persen menjadi US$1,01 miliar per akhir September 2026. Total utang naik tipis 3,8 persen menjadi US$2,165 miliar, tetapi utang bersih justru turun 2,4 persen menjadi US$1,617 miliar. Akibatnya, rasio utang terhadap ekuitas membaik ke 2,15 kali dari 2,36 kali, dan rasio utang bersih terhadap ekuitas turun ke 1,60 kali dari 1,87 kali pada akhir 2025.",
+   "Secara operasional, BREN menyelesaikan proyek retrofit Unit 3 Darajat pada Oktober 2026, yang menaikkan kapasitas pembangkit unit tersebut dari 122 MW menjadi 130,55 MW. Dengan tambahan ini, total kapasitas terpasang panas bumi Perseroan menjadi 935,55 MW, melanjutkan penyelesaian retrofit Wayang Windu yang rampung lebih awal tahun ini. Direktur Utama BREN, Hendra Soetjipto Tan, mengatakan proyek retrofit ini selesai sesuai jadwal tanpa insiden keselamatan kerja, dan Perseroan kini semakin mendekati target kapasitas panas bumi sebesar 1 gigawatt."
+  ],
+  "fotoAdegan": "Steam rising from geothermal power plant cooling towers surrounded by forested hills in Indonesia, misty morning light",
+  "takeaway": "Laporan ini condong positif bagi BREN, karena kenaikan pendapatan dan laba bersih kali ini diikuti perbaikan struktur utang, bukan cuma angka atas kertas. Yang bergerak di sini adalah marjin EBITDA, yakni perbandingan laba operasional kotor terhadap pendapatan, yang naik ke 88,2 persen dari 87,1 persen, serta rasio utang bersih terhadap ekuitas yang turun ke 1,60 kali dari 1,87 kali, artinya porsi utang BREN dibanding modal sendiri makin mengecil sehingga ruang gerak keuangannya lebih longgar. Beban bunga pinjaman pun sudah turun 3,2 persen pada periode ini, sejalan dengan penyusutan utang bersih tersebut. Yang perlu dipantau berikutnya adalah laporan keuangan resmi yang sudah diaudit untuk periode yang sama, karena angka dalam siaran pers ini masih berstatus tidak diaudit, serta kelanjutan progres BREN menuju target kapasitas panas bumi 1 gigawatt yang disebut sendiri oleh manajemen dalam laporan ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mtsm-minta-bei-cabut-suspensi-saat-benahi-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "MTSM Minta BEI Cabut [Suspensi] Saat Benahi Laporan Keuangan",
+  "deck": "MTSM mengoreksi jawabannya ke Bursa dan meminta pencabutan suspensi saham sambil membenahi laporan keuangan serta memenuhi syarat free float.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:03:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b4b65d2cc5_c57a28f50e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTSM",
+  "tags": [
+   "MTSM",
+   "suspensi saham",
+   "free float",
+   "Metro Realty"
+  ],
+  "body": [
+   "Metro Realty Tbk (MTSM) mengirim surat koreksi bernomor 408/MR-DIR/CORSEC/X/2026 pada 30 Oktober 2026, memperbaiki surat penjelasannya sendiri yang terbit di hari yang sama, atas permintaan penjelasan Bursa Efek Indonesia nomor S-13466/BEI.PP3/10-2026 tertanggal 28 Oktober 2026. Koreksi ini memperbaiki lampiran yang salah diunggah sebelumnya, yakni catatan atas laporan keuangan (CALK) tahun 2025, padahal yang seharusnya dilampirkan adalah pembaruan catatan laporan keuangan per 30 Juni 2026.",
+   "Dalam jawaban ke Bursa, perusahaan menyebut sistem akuntansi yang dipakai adalah Accurate dan sudah direview oleh auditor. Sejumlah pertanyaan bursa dijawab hanya dengan merujuk pada lampiran yang diperbarui, sementara dua pertanyaan disebut masih dalam pengecekan dan akan ditindaklanjuti kemudian. Nilai piutang kepada pihak berelasi disebut tidak berubah sejak tahun 2024. Perusahaan juga menyinggung rencana mengubah sebagian lantai gedungnya menjadi sport center untuk menarik pengunjung di tengah sulitnya bisnis ritel, dengan tujuan memperbaiki arus kas. Catatan laporan keuangan yang dilampirkan juga menyebut jumlah karyawan tetap per 30 Juni 2026 sebanyak 38 orang, turun dari 39 orang pada periode yang sama tahun 2025.",
+   "Pada bagian penutup jawabannya, MTSM menyatakan akan berupaya memenuhi aturan pelaporan keuangan yang berlaku dan ketentuan free float, serta secara eksplisit meminta Bursa melepas status suspensi saham perusahaan. Alasan yang disampaikan adalah kondisi keuangan dan nilai rupiah yang tidak stabil membuat investor sulit tertarik atau membuat perusahaan sulit memenuhi ketentuan bursa dan pasar modal saat ini."
+  ],
+  "fotoAdegan": "Quiet corridor of an aging shopping building in Jakarta with a few shuttered storefronts and soft afternoon light through tall windows",
+  "takeaway": "Laporan ini condong negatif bagi MTSM karena perusahaan sendiri mengonfirmasi sahamnya masih disuspensi oleh Bursa dan mengaku kondisi keuangannya belum stabil sehingga sulit memenuhi syarat pencatatan. Yang tersentuh adalah porsi saham yang beredar di publik atau free float, yang menentukan seberapa likuid saham ini diperdagangkan, serta arus kas, yaitu aliran uang masuk dan keluar perusahaan, yang coba diperbaiki lewat rencana mengubah sebagian lantai gedung menjadi sport center untuk menarik pengunjung. Piutang kepada pihak berelasi, yakni dana yang belum dibayar oleh pihak yang terafiliasi dengan perusahaan, juga disebut nilainya tidak berubah sejak 2024, tanda belum ada penyelesaian atas dana yang tertahan di sana. Yang perlu dipantau selanjutnya adalah apakah Bursa akan mencabut suspensi setelah menerima penjelasan dan catatan laporan keuangan per 30 Juni 2026 yang baru diperbarui ini, serta apakah pertanyaan yang masih berstatus dalam pengecekan akan dijawab tuntas pada laporan berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wows-cetak-rugi-rp6-87-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "WOWS Cetak [Rugi] Rp6,87 Miliar di Kuartal III 2026",
+  "deck": "Ginting Jaya Energi (WOWS) berbalik dari laba jadi rugi bersih Rp6,87 miliar pada kuartal III 2026, dengan kas menyusut hampir separuh dan utang pajak melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:56:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030210343-65566-0/FinancialStatement-2026-III-WOWS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WOWS",
+  "tags": [
+   "WOWS",
+   "Ginting Jaya Energi",
+   "laporan keuangan kuartal III",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Ginting Jaya Energi Tbk (WOWS) melaporkan rugi bersih Rp6,87 miliar untuk periode tiga bulan yang berakhir 30 September 2026, berbalik dari laba bersih Rp4,72 miliar pada periode yang sama tahun 2025. Akibatnya, laba per saham dasar yang setahun lalu masih positif Rp1,90 per saham, berubah menjadi rugi Rp2,78 per saham pada kuartal III 2026. Laporan keuangan interim tidak diaudit ini disampaikan ke Bursa Efek Indonesia pada 30 Oktober 2026, ditandatangani Direktur Tommy Hidayat dan disetujui Direktur Utama Jimmy Hidayat.",
+   "Di sisi neraca, kas dan setara kas perusahaan per akhir September 2026 tercatat Rp6,52 miliar, turun hampir separuh dari Rp12,19 miliar pada akhir Desember 2025. Sebaliknya, persediaan justru naik dari Rp82,77 miliar menjadi Rp94,76 miliar, dan utang pajak melonjak dari Rp1,72 miliar menjadi Rp10,97 miliar. Total aset perusahaan relatif stabil di Rp645,37 miliar, turun tipis dari Rp647,57 miliar pada akhir 2025, sementara nilai aset tetap menyusut dari Rp275,39 miliar menjadi Rp255,32 miliar.",
+   "Akumulasi kerugian perusahaan (saldo rugi) melebar dari Rp1,36 miliar pada akhir 2025 menjadi Rp8,23 miliar pada akhir September 2026, sejalan dengan rugi bersih yang baru dibukukan. Total ekuitas pun turun dari Rp538,49 miliar menjadi Rp531,62 miliar. Modal saham perusahaan tidak berubah, tetap di Rp247,57 miliar yang terdiri dari 2.475.720.000 saham dengan nilai nominal Rp100 per saham."
+  ],
+  "fotoAdegan": "Technicians checking stacked steel pipes and valves at an oil and gas equipment yard, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi WOWS karena kuartal III 2026 berbalik dari laba ke rugi, kas menyusut nyaris separuh, dan akumulasi kerugian melebar persis sebesar rugi yang baru dibukukan. Tiga pos yang tersentuh: laba per saham yang berubah dari positif ke negatif berarti setiap lembar saham kini menanggung bagian kerugian, bukan keuntungan; kas yang menipis mengurangi dana siap pakai perusahaan untuk membayar kebutuhan mendadak; dan ekuitas, yaitu modal bersih milik pemegang saham, ikut tergerus seiring rugi tersebut. Lonjakan utang pajak lebih dari enam kali lipat juga perlu dicermati karena berarti ada tagihan ke kas negara yang menumpuk belum dibayar. Yang perlu dipantau berikutnya adalah laporan keuangan tahun penuh 2026 yang diaudit, yang biasanya terbit awal tahun depan, untuk melihat apakah kerugian kuartal ini hanya sementara atau berlanjut sampai akhir tahun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "roti-laba-bersih-anjlok-59-persen-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "ROTI: Laba Bersih [Anjlok] 59 Persen di Kuartal III 2026",
+  "deck": "Laba bersih Sari Roti turun hampir 60 persen jadi Rp55,27 miliar pada sembilan bulan pertama 2026, meski pendapatan nyaris stagnan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:55:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030211238-65046-0/FinancialStatement-2026-III-ROTI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ROTI",
+  "tags": [
+   "ROTI",
+   "Sari Roti",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Nippon Indosari Corpindo Tbk (ROTI), produsen roti Sari Roti, melaporkan laba bersih yang dapat diatribusikan kepada pemilik entitas induk turun 59,6 persen menjadi Rp55,27 miliar untuk periode sembilan bulan pertama 2026, dari Rp136,70 miliar pada periode yang sama tahun 2025. Penurunan ini terjadi meski pendapatan perusahaan nyaris flat di Rp2,74 triliun, turun tipis 0,1 persen dibanding periode sebelumnya. Laba per saham dasar ikut turun dari Rp24,22 menjadi Rp9,83.",
+   "Tekanan datang dari sisi beban. Beban usaha naik 5,4 persen menjadi Rp1,37 triliun, sementara laba bruto turun 1,6 persen menjadi Rp1,41 triliun karena beban pokok penjualan naik 1,5 persen menjadi Rp1,33 triliun. Akibatnya, laba usaha anjlok 43,1 persen menjadi Rp122,59 miliar dari Rp215,40 miliar pada periode yang sama tahun lalu. Beban keuangan relatif stabil di kisaran Rp47,6 miliar.",
+   "Di sisi neraca, kas dan setara kas perusahaan turun 32,5 persen menjadi Rp182,49 miliar per akhir September 2026, dari Rp270,52 miliar pada akhir 2025. Sebaliknya, pinjaman bank jangka pendek melonjak 141 persen menjadi Rp425 miliar dari Rp176,13 miliar. Total ekuitas turun 19,5 persen menjadi Rp1,65 triliun, terutama karena perseroan membayar dividen Rp450,01 miliar sepanjang periode ini, mendekati nilai dividen tahun sebelumnya. Arus kas dari aktivitas operasi juga mengecil 10,3 persen menjadi Rp250,00 miliar dari Rp278,80 miliar."
+  ],
+  "fotoAdegan": "Workers in hygienic uniforms monitoring rows of bread loaves moving along a bakery conveyor belt under bright industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi ROTI, karena pendapatan nyaris tidak tumbuh sementara beban usaha naik lebih cepat, membuat laba bersih tergerus hampir 60 persen dan perseroan menambah utang bank jangka pendek lebih dari dua kali lipat. Pos yang paling kena dampak adalah laba per saham, yaitu laba yang dibagi jumlah saham beredar dan jadi acuan utama pasar menilai mahal murahnya saham dibanding labanya, yang turun dari Rp24,22 menjadi Rp9,83. Arus kas dari aktivitas operasi, yakni uang tunai yang benar-benar masuk dari bisnis sehari-hari, juga menyusut, menandakan bisnis inti menghasilkan uang lebih sedikit dibanding tahun lalu, sementara ekuitas atau kekayaan bersih pemegang saham ikut turun karena sebagian besar laba habis dibagikan sebagai dividen di saat laba sendiri menciut. Yang perlu dicermati selanjutnya adalah kinerja kuartal IV 2026 dan laporan tahunan auditan, untuk melihat apakah kenaikan beban usaha ini sementara atau terus menggerus margin, serta bagaimana perseroan mengelola beban bunga setelah utang bank jangka pendeknya melonjak.",
   "sentimen": "negatif"
  },
  {

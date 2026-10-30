@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "inet-bukukan-kas-rp3-95-triliun-usai-rights-issue-rp3-2-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INET Bukukan Kas Rp3,95 Triliun Usai [Rights Issue] Rp3,2 Triliun",
+  "deck": "Laporan keuangan interim Kuartal III 2026 INET menunjukkan kas naik 878 persen setelah rights issue Rp3,2 triliun dan akuisisi sejumlah anak usaha baru.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "rights issue",
+   "akuisisi",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031011428-65499-0/FinancialStatement-2026-III-INET.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iikp-penjualan-ambrol-99-rugi-sembilan-bulan-melebar",
+  "category": "Aksi Korporasi",
+  "title": "IIKP: Penjualan [Ambrol] 99%, Rugi Sembilan Bulan Melebar",
+  "deck": "Penjualan Inti Agri Resources turun drastis dari Rp9,72 miliar jadi Rp77 juta dalam sembilan bulan 2026, sementara rugi bersih melebar jadi Rp8,36 miliar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IIKP",
+   "laporan keuangan",
+   "arowana",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031004505-65611-0/FinancialStatement-2026-III-IIKP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bola-rugi-rp105-6-miliar-9-bulan-ekuitas-turun-13",
+  "category": "Aksi Korporasi",
+  "title": "BOLA Rugi Rp105,6 Miliar 9 Bulan, [Ekuitas] Turun 13%",
+  "deck": "Laporan keuangan interim kuartal III 2026 BOLA menunjukkan rugi bersih Rp105,59 miliar, berbalik dari laba tahun lalu, dipicu kerugian investasi saham dan beban operasi yang melonjak.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLA",
+   "Bali United",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031003904-65545-0/FinancialStatement-2026-III-BOLA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cani-untung-tipis-usai-jual-8-kapal-ekuitas-tetap-negatif",
+  "category": "Aksi Korporasi",
+  "title": "CANI [Untung] Tipis Usai Jual 8 Kapal, Ekuitas Tetap Negatif",
+  "deck": "CANI mencatat laba bersih US$311.490 pada kuartal I tahun buku 2026/2027, berbalik dari rugi, setelah menjual delapan kapal. Ekuitas perusahaan masih minus US$33,9 juta.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CANI",
+   "laporan keuangan",
+   "defisiensi modal",
+   "penjualan kapal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030235226-65576-0/FinancialStatement-2026-I-CANI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tlkm-cetak-laba-rp14-4-triliun-di-kuartal-iii-buyback-naik-tajam",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Cetak Laba Rp14,4 Triliun di Kuartal III, [Buyback] Naik Tajam",
+  "deck": "Pendapatan Telkom naik 3,5 persen jadi Rp113,5 triliun pada sembilan bulan 2026, tapi laba bersih turun 3,9 persen karena rugi investasi dan buyback saham senilai Rp1,75 triliun.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "Telkom Indonesia",
+   "laporan keuangan",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030234844-65294-0/FinancialStatement-2026-III-TLKM.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-referensi-cpo-november-turun-6-kakao-susut-8",
   "category": "Industri",
   "title": "Harga Referensi CPO November [Turun] 6%, Kakao Susut 8%",
@@ -19,6 +99,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/periode-november-2026-hr-cpo-dan-hpe-biji-kakao-terkoreksi-hpe-komoditas-lainnya-bervariasi",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "merk-penjualan-naik-21-5-laba-turun-kena-pajak-besar",
+  "category": "Aksi Korporasi",
+  "title": "MERK: Penjualan Naik 21,5%, [Laba] Turun Kena Pajak Besar",
+  "deck": "Merck Tbk mencatat penjualan Rp989,1 miliar pada sembilan bulan pertama 2026, naik 21,5 persen, namun laba bersih turun 5,3 persen menjadi Rp96,7 miliar akibat beban pajak yang melonjak.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MERK",
+   "laporan keuangan",
+   "farmasi",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030235912-65523-0/FinancialStatement-2026-III-MERK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kpig-direktur-edi-yanto-ajukan-mundur-tunggu-rups",
+  "category": "Aksi Korporasi",
+  "title": "KPIG: Direktur [Edi Yanto] Ajukan Mundur, Tunggu RUPS",
+  "deck": "PT MNC Tourism Indonesia Tbk melaporkan pengunduran diri Direktur Edi Yanto per 28 Oktober 2026, yang baru sah setelah disetujui RUPS mendatang.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KPIG",
+   "MNC Tourism Indonesia",
+   "pergantian direksi",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/14bef66ef6_bc56ed78e4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indy-laba-pemilik-melonjak-ke-us-20-2-juta-di-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "INDY: [Laba] Pemilik Melonjak ke US$20,2 Juta di 9 Bulan 2026",
+  "deck": "Pendapatan INDY naik 27,7 persen dan laba bersih ke pemilik melonjak jadi US$20,2 juta dalam sembilan bulan 2026, sementara utang obligasi juga naik signifikan.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDY",
+   "Indika Energy",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030234008-65279-0/FinancialStatement-2026-III-INDY.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "esdm-gelar-minerba-convex-2026-buka-konsultasi-rkab",
@@ -36,6 +164,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475838-perkuat-sektor-tambang-ditjen-minerba-kementerian-esdm-gelar-minerba-convex-2026-ajang-edukasi-hingga-konsultasi-rkab"
+ },
+ {
+  "slug": "igar-laba-bersih-naik-40-jadi-rp94-2-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "IGAR: Laba Bersih [Naik] 40% Jadi Rp94,2 Miliar di Kuartal III",
+  "deck": "Produsen kemasan plastik IGAR membukukan laba bersih Rp94,2 miliar untuk sembilan bulan 2026, naik 40 persen, sementara total kewajiban melonjak 41 persen karena utang dagang membesar.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IGAR",
+   "laporan keuangan",
+   "kewajiban",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030232058-65233-0/FinancialStatement-2026-III-IGAR.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "umkm-kuliner-bisa-jangkau-42-6-juta-pengguna-lewat-livin-food",
@@ -6336,154 +6480,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/474955-lewat-program-pengawal-energi-generasi-muda-diajak-terlibat-awasi-penyaluran-bbm"
- },
- {
-  "slug": "pemerintah-perketat-pengawasan-bbm-di-3-679-spbu",
-  "category": "Energi",
-  "title": "Pemerintah [Perketat] Pengawasan BBM di 3.679 SPBU",
-  "deck": "Kementerian ESDM meluncurkan program Pengawal Energi 2026, merekrut anak muda daerah untuk mengawasi penyaluran BBM bersubsidi dan non subsidi di 3.679 SPBU.",
-  "date": "25 Oktober 2026",
-  "image": "assets/img/pemerintah-perketat-pengawasan-bbm-di-3-679-spbu.jpg",
-  "imageV": "mvo32ymn",
-  "tags": [
-   "BBM bersubsidi",
-   "SPBU",
-   "Kementerian ESDM",
-   "Pengawal Energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474952-penyaluran-bbm-diperketat-pemerintah-luncurkan-program-pengawal-energi"
- },
- {
-  "slug": "uvcr-cetak-laba-bersih-rp10-6-miliar-arus-kas-operasi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "UVCR Cetak Laba Bersih Rp10,6 Miliar, [Arus Kas] Operasi Negatif",
-  "deck": "Laba bersih UVCR melonjak hampir lima kali lipat jadi Rp10,6 miliar dalam sembilan bulan, tapi arus kas operasi makin negatif akibat penumpukan persediaan voucher.",
-  "date": "24 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "laporan keuangan",
-   "Ultra Voucher",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261024100644-64896-0/FinancialStatement-2026-III-UVCR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "winr-pemegang-saham-lepas-19-25-juta-saham-demi-free-float",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemegang Saham Lepas [19,25 Juta] Saham demi Free Float",
-  "deck": "Pemenang Nusantara Internasional melepas 19,25 juta saham WINR pada 21 Oktober 2026, hak suaranya turun dari 45,32 persen menjadi 44,95 persen untuk menambah saham beredar bebas.",
-  "date": "24 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "kepemilikan saham",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24102026-4884-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-luncurkan-pengawas-bbm-subsidi-di-3-679-spbu",
-  "category": "Energi",
-  "title": "Pemerintah [Luncurkan] Pengawas BBM Subsidi di 3.679 SPBU",
-  "deck": "ESDM menempatkan petugas muda di 3.679 SPBU seluruh Indonesia untuk mengawasi penyaluran BBM bersubsidi dan BBM penugasan, cegah kebocoran di lapangan.",
-  "date": "24 Oktober 2026",
-  "image": "assets/img/pemerintah-luncurkan-pengawas-bbm-subsidi-di-3-679-spbu.jpg",
-  "imageV": "mvlvtuxt",
-  "tags": [
-   "BBM bersubsidi",
-   "ESDM",
-   "SPBU",
-   "Pengawal Energi"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/malam-puncak-penghargaan-energi-subroto-2026-pemerintah-luncurkan-program-pengawal-energi-untuk-3679-spbu",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "kadin-fest-bekasi-2027-padukan-konser-dan-expo-umkm",
-  "category": "UMKM",
-  "title": "KADIN Fest Bekasi 2027 Padukan Konser dan [Expo] UMKM",
-  "deck": "KADIN Kota Bekasi menyiapkan festival musik dua hari dipadukan Pasar Rakyat dan Expo UMKM pada Januari 2027, membidik 40.000 pengunjung.",
-  "date": "24 Oktober 2026",
-  "image": "assets/img/kadin-fest-bekasi-2027-padukan-konser-dan-expo-umkm.jpg",
-  "imageV": "mvljdk4f",
-  "tags": [
-   "KADIN Bekasi",
-   "UMKM",
-   "Festival Musik",
-   "Ekonomi Kreatif"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474700-gelar-kadin-fest-2027-kadin-kota-bekasi-padukan-konser-musik-lintas-generasi-dan-expo-umkm"
- },
- {
-  "slug": "esdm-revisi-perpres-26-2026-demi-ketahanan-energi",
-  "category": "Energi",
-  "title": "ESDM [Revisi] Perpres 26/2026 demi Ketahanan Energi",
-  "deck": "ESDM merampungkan revisi Perpres 26/2026 untuk mempermudah impor minyak mentah, termasuk skema baru lewat BLU agar Pertamina bisa ikut rencana impor 150 juta barel dari Rusia.",
-  "date": "24 Oktober 2026",
-  "image": "assets/img/esdm-revisi-perpres-26-2026-demi-ketahanan-energi.jpg",
-  "imageV": "mvljs3dj",
-  "tags": [
-   "esdm",
-   "energi",
-   "pertamina",
-   "impor minyak"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474693-demi-jaga-ketahanan-energi-kementerian-esdm-revisi-perpres-262026"
- },
- {
-  "slug": "bike-akui-dana-akuisisi-rk-rp1-t-belum-cair-pne-bum-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Akui Dana Akuisisi RK Rp1 T Belum Cair, PNE-BUM [Afiliasi]",
-  "deck": "BIKE menjawab permintaan penjelasan Bursa soal status akuisisi RK, PNE, dan BUM yang melibatkan pihak terafiliasi serta pinjaman Rp1 triliun yang belum cair.",
-  "date": "24 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi",
-   "afiliasi",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ec58665d21_7144e352d4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bayer-luncurkan-aplikasi-digital-untuk-petani-milenial-ri",
-  "category": "Teknologi",
-  "title": "Bayer Luncurkan Aplikasi [Digital] untuk Petani Milenial RI",
-  "deck": "Bayer Indonesia merilis platform FARMRISE yang menggabungkan edukasi tani, info cuaca, dan cek keaslian produk untuk 6,18 juta petani milenial.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/bayer-luncurkan-aplikasi-digital-untuk-petani-milenial-ri.jpg",
-  "imageV": "mvljdkhr",
-  "tags": [
-   "Bayer",
-   "FARMRISE",
-   "petani milenial",
-   "digitalisasi pertanian"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474682-berdayakan-petani-milenial-inovasi-digital-kini-sediakan-akses-belajar-hingga-cek-keaslian-produk"
- },
- {
-  "slug": "pssi-tetapkan-rasio-pembagian-saham-treasuri-1-30-rupslb-28-okt",
-  "category": "Aksi Korporasi",
-  "title": "PSSI Tetapkan Rasio Pembagian Saham [Treasuri] 1:30, RUPSLB 28 Okt",
-  "deck": "Ralat keterbukaan informasi PSSI merinci rasio 30:1 untuk pembagian 172 juta saham treasuri ke pemegang saham, dengan RUPSLB digelar 28 Oktober 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "saham treasuri",
-   "buyback",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3aa3bb38d4_cd22a9f7fc.pdf",
-  "sourceLabel": "IDX"
  }
 ];

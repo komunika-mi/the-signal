@@ -3,6 +3,137 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "inet-bukukan-kas-rp3-95-triliun-usai-rights-issue-rp3-2-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INET Bukukan Kas Rp3,95 Triliun Usai [Rights Issue] Rp3,2 Triliun",
+  "deck": "Laporan keuangan interim Kuartal III 2026 INET menunjukkan kas naik 878 persen setelah rights issue Rp3,2 triliun dan akuisisi sejumlah anak usaha baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T01:02:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031011428-65499-0/FinancialStatement-2026-III-INET.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "rights issue",
+   "akuisisi",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Sinergi Inti Andalan Prima Tbk (INET) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia, ditandatangani Direktur Utama Muhammad Arif dan Direktur Septiawan pada 30 Oktober 2026. Total aset perusahaan melonjak dari Rp760,37 miliar pada akhir 2025 menjadi Rp6,50 triliun, dengan kas dan setara kas naik 878 persen dari Rp404,44 miliar menjadi Rp3,955 triliun. Perusahaan menjelaskan lonjakan kas ini berasal dari dana right issue dan penerbitan obligasi serta sukuk ijarah yang masuk pada kuartal pertama 2026.",
+   "Rincian aksi korporasi tersebut: INET menerbitkan saham baru lewat penawaran umum terbatas dengan hak memesan efek terlebih dahulu senilai Rp3,195 triliun, membuat jumlah saham beredar bertambah dari 9.581.075.296 menjadi 22.378.260.116 lembar dengan nilai nominal Rp10 per saham. Modal saham tercatat naik dari Rp95,81 miliar menjadi Rp223,78 miliar, sementara tambahan modal disetor melonjak dari Rp302,18 miliar menjadi Rp3,369 triliun. Perusahaan juga menerbitkan obligasi senilai Rp500 miliar dan sukuk ijarah senilai Rp500 miliar di awal 2026. Total ekuitas Perseroan naik dari Rp429,21 miliar menjadi Rp3,949 triliun.",
+   "Dana tersebut sebagian dipakai untuk akuisisi. Goodwill perusahaan naik dari Rp684,92 juta menjadi Rp191,47 miliar, dengan rincian akuisisi PT Sarana Global Indonesia (SGI) senilai Rp108,50 miliar, PT THC Digital Solution (THC) Rp51,15 miliar, PT Personel Alih Daya Tbk (PADA) Rp19,47 miliar, dan PT Internusa Daya Makmur (IDM) Rp11,66 miliar. Kepentingan nonpengendali melonjak dari Rp19,6 juta menjadi Rp267,30 miliar akibat saham minoritas di entitas anak yang baru dikonsolidasi. Di sisi liabilitas, utang bank jangka pendek bertambah Rp880,51 miliar, termasuk fasilitas kredit baru Rp550 miliar dari beberapa bank.",
+   "Dari sisi kinerja, pendapatan neto sembilan bulan melonjak dari Rp68,60 miliar menjadi Rp1,546 triliun, didorong konsolidasi anak usaha baru, termasuk piutang usaha PADA sebesar Rp240,6 miliar. Laba periode berjalan naik dari Rp19,37 miliar menjadi Rp59,13 miliar, dengan bagian yang diatribusikan ke pemilik entitas induk mencapai Rp58,06 miliar. Laba per saham dasar naik dari Rp2,39 menjadi Rp4,91, dan laba per saham dilusian naik dari Rp2,28 menjadi Rp4,11. Di sisi lain, beban keuangan melonjak dari Rp552,38 juta menjadi Rp76,55 miliar akibat bunga obligasi, imbalan sukuk, dan utang bank baru."
+  ],
+  "fotoAdegan": "Telecom technicians splicing fiber optic cables on a utility pole along a busy Indonesian street, afternoon light, hard hats and tool belts visible.",
+  "takeaway": "Laporan ini condong positif bagi fundamental INET, karena dana besar dari rights issue tidak mengendap begitu saja tapi langsung dialirkan ke akuisisi yang mendongkrak pendapatan dan laba. Jumlah saham beredar melonjak lebih dari dua kali lipat akibat rights issue, yang biasanya berisiko mengecilkan laba per saham karena kue labanya dibagi ke lebih banyak lembar saham, tapi di sini laba per saham malah naik dari Rp2,39 menjadi Rp4,91 karena laba bersihnya tumbuh lebih cepat dari penambahan saham. Yang perlu dicermati adalah beban bunga yang melonjak dari Rp552 juta menjadi Rp76,55 miliar dalam sembilan bulan, konsekuensi dari utang bank, obligasi, dan sukuk baru yang dipakai mendanai akuisisi, sehingga ongkos utang perusahaan ke depan jauh lebih besar dari sebelumnya. Dokumen ini juga mencatat Perseroan masih menanggung biaya terkait rencana penerbitan obligasi dan sukuk ijarah tambahan, jadi yang perlu dipantau berikutnya adalah apakah INET benar menambah utang baru lagi di atas yang sudah ada, dan apakah arus kas operasionalnya cukup menutupi beban bunga yang makin besar itu pada laporan kuartal berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "iikp-penjualan-ambrol-99-rugi-sembilan-bulan-melebar",
+  "category": "Aksi Korporasi",
+  "title": "IIKP: Penjualan [Ambrol] 99%, Rugi Sembilan Bulan Melebar",
+  "deck": "Penjualan Inti Agri Resources turun drastis dari Rp9,72 miliar jadi Rp77 juta dalam sembilan bulan 2026, sementara rugi bersih melebar jadi Rp8,36 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T00:39:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031004505-65611-0/FinancialStatement-2026-III-IIKP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IIKP",
+  "tags": [
+   "IIKP",
+   "laporan keuangan",
+   "arowana",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Inti Agri Resources Tbk (IIKP) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan bersih perusahaan ambruk ke Rp76,99 juta, dari Rp9,72 miliar pada periode yang sama tahun lalu, penurunan hampir 99 persen. Akibatnya rugi kotor melebar menjadi Rp9,46 miliar dari sebelumnya Rp6,23 miliar, meski beban pokok penjualan ikut turun dari Rp15,94 miliar menjadi Rp9,54 miliar.",
+   "Rugi usaha membesar menjadi Rp10,53 miliar dari Rp8,27 miliar. Setelah memperhitungkan pos pajak, rugi bersih periode berjalan tercatat Rp8,36 miliar, melebar dari Rp7,93 miliar pada periode yang sama 2025. Rugi per saham dasar ikut bertambah menjadi Rp2,49, dari Rp2,36 setahun sebelumnya. Dengan tambahan rugi tersebut, saldo defisit yang belum ditentukan penggunaannya bertambah menjadi Rp223,91 miliar per akhir September 2026, dari Rp215,56 miliar pada akhir 2025.",
+   "Total aset perusahaan turun menjadi Rp174,15 miliar dari Rp182,60 miliar pada akhir 2025, seiring penyusutan aset tetap dan penurunan nilai persediaan hewan ternak arowana. Ekuitas ikut tergerus menjadi Rp151,56 miliar dari Rp159,92 miliar, sejalan dengan akumulasi rugi. Kas dan setara kas perusahaan di akhir September 2026 hanya Rp96,96 juta, meski arus kas operasi tahun ini hanya minus Rp10,28 juta, jauh lebih kecil dibanding minus Rp581,82 juta pada periode yang sama tahun lalu. Dari tiga anak usaha di bidang penangkaran ikan arowana di Pontianak, hanya PT Inti Kapuas Internasional yang masih aktif beroperasi, sementara PT Bahari Istana Alkausar dan PT Shelook Lumina Renata tercatat non aktif."
+  ],
+  "fotoAdegan": "Workers tending large outdoor fish ponds at a tropical aquaculture farm, nets and aerators visible, overcast daylight",
+  "takeaway": "Laporan ini condong negatif bagi IIKP, karena penjualan yang nyaris hilang dan rugi yang terus melebar menunjukkan bisnis inti penangkaran arowana belum menemukan jalan untuk pulih, meski ada sisi yang lebih baik berupa kas operasional yang terpakai jauh lebih sedikit dibanding tahun lalu. Pos yang paling tersentuh adalah ekuitas, yaitu kekayaan bersih yang tersisa untuk pemegang saham setelah dikurangi semua utang, yang terus menyusut karena rugi menumpuk setiap periode, serta laba (dalam hal ini rugi) per saham yang menunjukkan beban rugi yang ditanggung setiap lembar saham milik investor. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan 2026 yang telah diaudit, untuk melihat apakah penurunan penjualan yang drastis ini berlanjut atau hanya sementara, dan apakah ada langkah konkret menghidupkan kembali dua anak usaha yang kini tidak aktif.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bola-rugi-rp105-6-miliar-9-bulan-ekuitas-turun-13",
+  "category": "Aksi Korporasi",
+  "title": "BOLA Rugi Rp105,6 Miliar 9 Bulan, [Ekuitas] Turun 13%",
+  "deck": "Laporan keuangan interim kuartal III 2026 BOLA menunjukkan rugi bersih Rp105,59 miliar, berbalik dari laba tahun lalu, dipicu kerugian investasi saham dan beban operasi yang melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T00:23:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031003904-65545-0/FinancialStatement-2026-III-BOLA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLA",
+  "tags": [
+   "BOLA",
+   "Bali United",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Bali Bintang Sejahtera Tbk (BOLA), perusahaan induk pengelola klub sepak bola Bali United, membukukan rugi bersih Rp105,59 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari laba Rp78,28 miliar pada periode yang sama tahun 2025. Pendapatan perusahaan sebenarnya naik menjadi Rp245,17 miliar dari Rp205,45 miliar, tetapi beban operasi melonjak lebih tinggi ke Rp299,51 miliar dari Rp218,55 miliar, sehingga rugi operasi membesar dari Rp13,10 miliar menjadi Rp54,34 miliar. Rugi makin dalam karena pos pendapatan dan beban lain-lain berbalik menjadi beban Rp51,25 miliar, padahal pada periode sebelumnya pos ini menyumbang pendapatan Rp91,38 miliar.",
+   "Dari sisi posisi keuangan, total aset BOLA turun 4,80 persen menjadi Rp855,46 miliar per 30 September 2026, dan total ekuitas turun 13,06 persen menjadi Rp702,60 miliar. Penurunan ekuitas ini utamanya berasal dari saldo laba yang tergerus 38,17 persen menjadi Rp168,13 miliar, akibat kerugian belum terealisasi dari fluktuasi harga saham portofolio investasi di Bursa Efek Indonesia yang secara kumulatif mencapai Rp87,9 miliar sampai kuartal III 2026. Investasi jangka pendek pun turun 22,59 persen menjadi Rp243,00 miliar karena fluktuasi harga saham tersebut dan adanya penarikan investasi. Di sisi lain, total liabilitas justru melonjak 69,12 persen menjadi Rp152,87 miliar, didorong lonjakan pendapatan diterima dimuka 217,88 persen menjadi Rp56,50 miliar karena penagihan atas pekerjaan yang belum selesai dikerjakan, utang usaha pihak ketiga yang naik 68,84 persen menjadi Rp48,53 miliar karena biaya proyek yang jatuh tempo Oktober 2026, dan utang pajak yang naik 166,38 persen menjadi Rp15,43 miliar akibat kenaikan PPN keluaran dari penerbitan invoice September 2026.",
+   "Di sisi arus kas, kegiatan operasi BOLA justru membaik menjadi kas masuk bersih Rp25,57 miliar, dari sebelumnya kas keluar bersih Rp40,17 miliar, didukung penagihan piutang usaha pihak ketiga yang naik 61,88 persen menjadi Rp192,74 miliar dari sponsorship dan hak siar live streaming liga musim 2026/2027 yang baru bergulir. Namun kas dan setara kas di akhir periode tetap turun menjadi Rp19,38 miliar dari Rp32,99 miliar di awal periode, setelah digunakan untuk belanja aset tetap Rp18,71 miliar. Rugi per saham tercatat Rp17,30, berbalik dari laba per saham Rp13,13 pada periode yang sama tahun lalu. Laporan ditandatangani Direktur Utama Yabes Tanuri dan Direktur Keuangan Yohanes Ade Bunian Maniaga pada 31 Oktober 2026, dengan pemegang saham pengendali tercatat atas nama Pieter Tanuri."
+  ],
+  "fotoAdegan": "Groundskeepers trimming the grass of an empty football stadium pitch in Bali during early morning light.",
+  "takeaway": "Laporan ini condong negatif bagi emiten karena BOLA berbalik dari laba menjadi rugi bersih Rp105,59 miliar dalam sembilan bulan, dengan ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham, tergerus 13 persen akibat kerugian di atas kertas dari portofolio investasi saham dan beban operasional yang naik lebih cepat dari pendapatan. Pos yang paling tersentuh adalah saldo laba dan laba per saham, karena rugi per saham Rp17,30 berarti setiap lembar saham kini menanggung bagian kerugian, bukan lagi keuntungan seperti tahun lalu, sementara arus kas operasi yang justru membaik jadi positif Rp25,57 miliar menjadi satu-satunya sisi yang bisa menenangkan investor. Yang perlu dipantau berikutnya adalah pembayaran utang usaha pihak ketiga Rp48,53 miliar yang disebut jatuh tempo pada Oktober 2026, serta apakah fluktuasi harga saham di portofolio investasi jangka pendek berbalik arah pada kuartal IV 2026 mengingat pos ini menjadi sumber utama tergerusnya ekuitas sepanjang tahun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cani-untung-tipis-usai-jual-8-kapal-ekuitas-tetap-negatif",
+  "category": "Aksi Korporasi",
+  "title": "CANI [Untung] Tipis Usai Jual 8 Kapal, Ekuitas Tetap Negatif",
+  "deck": "CANI mencatat laba bersih US$311.490 pada kuartal I tahun buku 2026/2027, berbalik dari rugi, setelah menjual delapan kapal. Ekuitas perusahaan masih minus US$33,9 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T23:42:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030235226-65576-0/FinancialStatement-2026-I-CANI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CANI",
+  "tags": [
+   "CANI",
+   "laporan keuangan",
+   "defisiensi modal",
+   "penjualan kapal"
+  ],
+  "body": [
+   "PT Capitol Nusantara Indonesia Tbk (CANI) menyampaikan laporan keuangan interim yang tidak diaudit untuk kuartal pertama tahun buku 2026/2027, yakni periode tiga bulan yang berakhir pada 30 September 2026. Perusahaan mencatat laba bersih US$311.490, berbalik dari rugi bersih US$328.063 pada periode yang sama tahun sebelumnya. Pendapatan usaha justru turun dari US$658.149 menjadi US$603.760, tetapi beban pokok pendapatan turun jauh lebih tajam dari US$1.014.571 menjadi US$526.770, sehingga perusahaan yang semula rugi kotor berbalik mencetak laba kotor US$76.990. Laba usaha turut terdorong oleh pendapatan operasi lain yang melonjak dari US$60.678 menjadi US$718.116, seiring penjualan delapan kapal milik perusahaan pada Agustus 2026 yang menghasilkan kas sebesar US$1,92 juta.",
+   "Penjualan kapal tersebut membuat kas dan bank perusahaan melonjak dari US$219.917 pada akhir Juni 2026 menjadi US$2,04 juta pada akhir September 2026, naik 825 persen. Sebaliknya, nilai aset tetap turun 44 persen dari US$4,15 juta menjadi US$2,32 juta akibat pelepasan kapal dan beban penyusutan. Di sisi liabilitas, utang kepada pihak berelasi tercatat US$36,56 juta, hampir 91 persen dari total liabilitas US$40,04 juta, sementara utang kepada pemegang saham tetap di angka US$229.915. Total ekuitas perusahaan masih defisit US$33,94 juta, sedikit membaik dari defisit US$34,25 juta pada akhir Juni 2026 seiring laba periode berjalan. Modal ditempatkan dan disetor penuh perusahaan sebesar 833.440.000 saham dengan nilai nominal Rp100 per saham.",
+   "Dalam surat terpisah kepada BEI, Sekretaris Perusahaan Riduwan K. menjelaskan sejumlah pos yang berubah lebih dari 20 persen dibandingkan akhir Juni 2026. Piutang nonusaha pihak ketiga melonjak dari US$3.259 menjadi US$397.555 karena piutang dari penjualan kapal pada Agustus 2026, sementara piutang usaha pihak ketiga turun 28,59 persen menjadi US$495.314 karena pelunasan menjelang akhir kuartal. Piutang usaha pihak berelasi justru naik 73,09 persen menjadi US$479.703 akibat kenaikan pendapatan sewa dari pelanggan berelasi. Di pos liabilitas, utang pajak naik 41,35 persen menjadi US$561.362 karena taksiran awal pajak penghasilan badan (PPh Pasal 29) untuk periode ini, sementara beban akrual turun 28,67 persen menjadi US$207.796 setelah perusahaan membayar akrual gaji kru kapal untuk tahun buku 2025 pada Agustus 2026."
+  ],
+  "fotoAdegan": "A weathered cargo ship anchored near a busy Indonesian port, dock cranes in the distance, calm grey harbor water at dusk",
+  "takeaway": "Laporan ini condong NEGATIF bagi fundamental CANI, sebab laba bersih kuartal ini terutama berasal dari keuntungan satu kali penjualan delapan kapal, bukan dari perbaikan bisnis inti, sementara uang kas dari kegiatan usaha sehari-hari justru negatif US$325.949 dan pendapatan usaha ikut menyusut dari US$658.149 menjadi US$603.760. Pos yang paling perlu dicermati adalah ekuitas: CANI masih mengalami defisiensi modal, yaitu kondisi total utangnya (US$40,04 juta) lebih besar daripada seluruh asetnya (US$6,10 juta), sehingga kekayaan bersihnya negatif US$33,94 juta, kondisi yang sudah berlangsung lama dan membuat sahamnya berstatus pemantauan khusus di bursa. Perlu dicermati juga bahwa hampir seluruh utang perusahaan, yakni US$36,56 juta, berupa utang kepada pihak berelasi dan bukan ke bank, sehingga kelangsungan operasional perusahaan sangat bergantung pada kesediaan pihak terkait untuk tidak menagih utang itu sekaligus. Yang perlu dipantau selanjutnya adalah apakah perusahaan akan kembali melepas aset kapal untuk menambal arus kas operasional yang negatif, serta penyelesaian tambahan utang pajak sebesar US$164.223 yang timbul dari taksiran awal pajak penghasilan badan periode ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tlkm-cetak-laba-rp14-4-triliun-di-kuartal-iii-buyback-naik-tajam",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Cetak Laba Rp14,4 Triliun di Kuartal III, [Buyback] Naik Tajam",
+  "deck": "Pendapatan Telkom naik 3,5 persen jadi Rp113,5 triliun pada sembilan bulan 2026, tapi laba bersih turun 3,9 persen karena rugi investasi dan buyback saham senilai Rp1,75 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T23:42:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030234844-65294-0/FinancialStatement-2026-III-TLKM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "Telkom Indonesia",
+   "laporan keuangan",
+   "buyback saham"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk melaporkan pendapatan sembilan bulan pertama 2026 senilai Rp113,5 triliun, naik 3,5 persen dari Rp109,6 triliun pada periode yang sama tahun lalu. Namun laba bersih yang menjadi hak pemegang saham perusahaan turun 3,9 persen, dari Rp15,03 triliun menjadi Rp14,45 triliun. Laba per saham ikut turun dari Rp151,73 menjadi Rp146,31.",
+   "Penurunan laba terjadi meski laba usaha relatif stabil di Rp28,0 triliun, hanya turun tipis dari Rp28,2 triliun. Pemicu utamanya adalah dua pos di luar operasional inti perusahaan. Beban umum dan administrasi naik 19 persen menjadi Rp5,96 triliun, sementara rugi yang belum direalisasi dari perubahan nilai wajar investasi jangka panjang melonjak dari Rp360 miliar menjadi Rp1,66 triliun.",
+   "Di sisi permodalan, Telkom membeli kembali sahamnya sendiri senilai Rp1,75 triliun selama sembilan bulan ini, jauh lebih besar dari Rp5 miliar pada periode yang sama tahun lalu. Perusahaan juga membagikan dividen kas Rp21,99 triliun kepada pemegang saham, naik dari Rp21,05 triliun pada periode yang sama tahun lalu. Akibat kombinasi buyback dan dividen tersebut, total ekuitas perseroan turun dari Rp150,5 triliun menjadi Rp140,5 triliun. Total pinjaman bank dan utang jangka panjang yang akan jatuh tempo naik dari Rp50,8 triliun menjadi Rp55,5 triliun. Sementara itu, kas dan setara kas sedikit menyusut dari Rp34,2 triliun menjadi Rp33,6 triliun."
+  ],
+  "fotoAdegan": "Technicians in utility vests inspecting fiber optic cable trays inside a busy telecommunications data center corridor, soft blue lighting",
+  "takeaway": "Laporan kuartal III ini condong netral: bisnis inti Telkom sebenarnya tumbuh, pendapatan naik dan laba usaha hampir stabil, tetapi laba bersih yang sampai ke pemegang saham tergerus oleh pos-pos di luar operasional seperti kenaikan beban administrasi dan rugi pencatatan nilai investasi. Rugi nilai investasi yang melonjak hampir lima kali lipat itu bukan uang yang benar-benar hilang dari kas, melainkan penyesuaian pembukuan karena nilai pasar investasi jangka panjang Telkom turun, dan baru terasa nyata kalau investasi itu benar-benar dijual. Penurunan ekuitas dari Rp150,5 triliun menjadi Rp140,5 triliun juga bukan tanda kerugian besar, melainkan konsekuensi dari uang yang memang dibagikan ke pemegang saham lewat dividen dan dibelikan kembali saham sendiri, meskipun laba per saham yang turun berarti porsi laba untuk setiap lembar saham ikut mengecil. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV dan laporan tahunan teraudit Telkom, yang akan menunjukkan apakah penurunan laba bersih ini hanya sementara atau berlanjut, serta apakah rugi pencatatan nilai investasi itu membesar lagi atau justru berbalik jadi untung.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "harga-referensi-cpo-november-turun-6-kakao-susut-8",
   "category": "Industri",
   "title": "Harga Referensi CPO November [Turun] 6%, Kakao Susut 8%",
@@ -30,6 +161,84 @@ var ARTICLES = [
   "takeaway": "Penurunan ini langsung mengecilkan pungutan ekspor yang dibayar eksportir sawit dan kakao, karena bea keluar dan pungutan ekspor dihitung sebagai persentase dari harga referensi yang baru turun itu. Yang terdampak adalah eksportir CPO dan biji kakao, serta Badan Pengelola Dana Perkebunan yang mengandalkan pungutan ekspor CPO untuk membiayai program biodiesel. Kemendag sendiri menjelaskan bahwa turunnya harga kakao dipicu melimpahnya stok akibat musim panen di Afrika Barat, pola musiman yang biasanya mereda begitu panen selesai, sehingga penurunan kali ini punya kemungkinan bersifat sementara dibandingkan tren jangka panjang. Yang akan memastikan arah sebenarnya adalah penetapan harga referensi dan harga patokan ekspor periode Desember 2026, yakni apakah harga kembali naik begitu musim panen Afrika Barat berakhir atau tetap tertekan karena stok global masih menumpuk."
  },
  {
+  "slug": "merk-penjualan-naik-21-5-laba-turun-kena-pajak-besar",
+  "category": "Aksi Korporasi",
+  "title": "MERK: Penjualan Naik 21,5%, [Laba] Turun Kena Pajak Besar",
+  "deck": "Merck Tbk mencatat penjualan Rp989,1 miliar pada sembilan bulan pertama 2026, naik 21,5 persen, namun laba bersih turun 5,3 persen menjadi Rp96,7 miliar akibat beban pajak yang melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T23:38:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030235912-65523-0/FinancialStatement-2026-III-MERK.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MERK",
+  "tags": [
+   "MERK",
+   "laporan keuangan",
+   "farmasi",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Merck Tbk (MERK) mencatat penjualan Rp989,11 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik 21,5 persen dibandingkan periode yang sama tahun sebelumnya yang sebesar Rp814,11 miliar. Laba bruto perusahaan naik tipis 5 persen menjadi Rp292,82 miliar, sementara laba usaha tumbuh 6,6 persen menjadi Rp137,82 miliar. Laba sebelum pajak penghasilan naik lebih besar lagi, 15 persen, menjadi Rp153,70 miliar dari Rp133,59 miliar pada periode yang sama tahun lalu.",
+   "Namun laba bersih periode berjalan justru turun 5,3 persen menjadi Rp96,72 miliar dari Rp102,10 miliar, karena beban pajak kini yang dibayarkan perusahaan melonjak dari Rp30,90 miliar menjadi Rp57,38 miliar. Akibatnya, laba bersih per saham dasar turun dari Rp228 menjadi Rp216. Di sisi arus kas, kinerja operasional perusahaan justru membaik, arus kas bersih dari aktivitas operasi naik 40 persen menjadi Rp249,33 miliar, didorong oleh penerimaan kas dari pelanggan yang naik dari Rp798,45 miliar menjadi Rp1,07 triliun.",
+   "Merck membagikan dividen tunai Rp123,2 miliar sepanjang sembilan bulan ini, lebih besar dari laba bersih periode yang sama, sehingga ekuitas perusahaan menyusut dari Rp975,71 miliar pada akhir 2025 menjadi Rp949,23 miliar pada akhir September 2026. Meski ekuitas mengecil, posisi kas perusahaan justru bertambah menjadi Rp465,12 miliar dari Rp363,85 miliar pada awal tahun. Jumlah karyawan Merck juga tercatat turun dari 364 orang pada akhir 2025 menjadi 331 orang pada akhir September 2026."
+  ],
+  "fotoAdegan": "Workers in white lab coats and hairnets inspecting rows of medicine blister packs on a pharmaceutical production line",
+  "takeaway": "Laporan ini cenderung netral: penjualan Merck tumbuh dua digit dan arus kas dari operasi membaik tajam, tapi laba bersih tetap turun karena beban pajak yang nyaris dua kali lipat menggerus untung sebelum pajak yang sebenarnya naik 15 persen. Yang tersentuh di sini adalah laba per saham, yang turun dari Rp228 jadi Rp216, dan ekuitas perusahaan, yang menyusut dari Rp975,7 miliar jadi Rp949,2 miliar karena dividen tunai yang dibagikan tahun ini, Rp123,2 miliar, lebih besar dari laba periode ini sendiri. Laba per saham penting dipantau karena itu dasar penilaian investor atas seberapa besar keuntungan yang jadi hak tiap lembar saham, sementara ekuitas yang menyusut berarti modal sendiri perusahaan mengecil meski kas yang dipegang justru bertambah jadi Rp465,1 miliar. Jumlah karyawan Merck juga turun dari 364 jadi 331 orang dalam sembilan bulan ini, sinyal efisiensi yang perlu dicermati dampaknya pada laporan berikutnya. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal IV atau laporan tahunan 2026, yang akan menunjukkan apakah lonjakan beban pajak kali ini bersifat satu kali atau berulang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kpig-direktur-edi-yanto-ajukan-mundur-tunggu-rups",
+  "category": "Aksi Korporasi",
+  "title": "KPIG: Direktur [Edi Yanto] Ajukan Mundur, Tunggu RUPS",
+  "deck": "PT MNC Tourism Indonesia Tbk melaporkan pengunduran diri Direktur Edi Yanto per 28 Oktober 2026, yang baru sah setelah disetujui RUPS mendatang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T23:36:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/14bef66ef6_bc56ed78e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KPIG",
+  "tags": [
+   "KPIG",
+   "MNC Tourism Indonesia",
+   "pergantian direksi",
+   "RUPS"
+  ],
+  "body": [
+   "PT MNC Tourism Indonesia Tbk (KPIG) menyampaikan keterbukaan informasi bahwa perseroan telah menerima permohonan pengunduran diri Edi Yanto dari jabatannya sebagai Direktur. Tanggal kejadian tercatat 28 Oktober 2026, dan pengunduran diri ini baru akan sah setelah disahkan dalam Rapat Umum Pemegang Saham (RUPS) perseroan yang akan datang. Dokumen tidak menyebutkan alasan pengunduran diri maupun siapa yang akan menggantikan posisi tersebut.",
+   "Laporan ini disampaikan untuk memenuhi Peraturan OJK No. 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten, serta POJK No. 31/POJK.04/2015 tentang Keterbukaan Informasi. Surat bernomor 063/CS/MNCTOURISM/X/2026 itu ditandatangani oleh M. Budi Rustanto yang menjabat Wakil Direktur Utama I, dan ditembuskan ke Kepala Divisi Penilaian Perusahaan Bursa Efek Indonesia.",
+   "Dalam formulir resmi, perseroan menyatakan bahwa kejadian ini tidak membawa dampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha KPIG. Tidak ada keterangan lain yang ditambahkan dalam laporan tersebut."
+  ],
+  "fotoAdegan": "Lobby of a modern Jakarta corporate tower with glass elevators, business professionals walking past in the distance, soft morning light",
+  "takeaway": "Laporan ini netral bagi KPIG karena hanya satu direktur yang mengundurkan diri, tanpa disertai alasan, tanpa penunjukan pengganti, dan perseroan sendiri menyatakan tidak ada dampak operasional atau keuangan. Perubahan direksi semacam ini tidak langsung mengubah pos keuangan seperti ekuitas atau laba per saham, tapi pelaku pasar tetap memantaunya karena pergantian orang di jajaran direksi bisa memengaruhi kesinambungan pengambilan keputusan dan arah strategi perusahaan ke depan. Yang perlu dipantau selanjutnya adalah RUPS mendatang yang akan mengesahkan pengunduran diri ini, termasuk apakah perseroan mengumumkan nama direktur pengganti dan alasan di balik kepergian Edi Yanto, yang belum terungkap dalam dokumen ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "indy-laba-pemilik-melonjak-ke-us-20-2-juta-di-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "INDY: [Laba] Pemilik Melonjak ke US$20,2 Juta di 9 Bulan 2026",
+  "deck": "Pendapatan INDY naik 27,7 persen dan laba bersih ke pemilik melonjak jadi US$20,2 juta dalam sembilan bulan 2026, sementara utang obligasi juga naik signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T23:27:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030234008-65279-0/FinancialStatement-2026-III-INDY.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDY",
+  "tags": [
+   "INDY",
+   "Indika Energy",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "body": [
+   "PT Indika Energy Tbk (INDY) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 30 Oktober 2026. Pendapatan perusahaan tercatat US$1,84 miliar, naik dari US$1,44 miliar pada periode yang sama tahun 2025, sementara laba kotor naik dari US$193,7 juta menjadi US$280,1 juta. Laba bersih periode berjalan mencapai US$42 juta, naik dari US$14 juta setahun sebelumnya, dengan porsi yang mengalir ke pemegang saham pengendali melonjak dari US$479.123 menjadi US$20,2 juta. Laba per saham dasar naik dari 0,0001 dolar menjadi 0,0039 dolar.",
+   "Dari sisi posisi keuangan, total aset perusahaan per 30 September 2026 tercatat US$3,28 miliar, naik dari US$2,93 miliar pada akhir Desember 2025. Total liabilitas naik dari US$1,59 miliar menjadi US$1,90 miliar, sementara total ekuitas naik tipis dari US$1,35 miliar menjadi US$1,38 miliar. Dalam suratnya ke OJK dan BEI, Corporate Secretary Adi Pramono menyatakan tidak ada perubahan lebih dari 20 persen pada total aset maupun total liabilitas dibandingkan akhir 2025. Utang obligasi bersih naik dari US$455,6 juta menjadi US$569,1 juta, sedangkan pinjaman jangka pendek justru turun dari US$67 juta menjadi US$27,5 juta. Pada pos aset, proyek yang sebelumnya tercatat sebagai aset eksplorasi dan evaluasi senilai US$145,5 juta kini berpindah menjadi tambang dalam pengembangan senilai US$188,8 juta.",
+   "Arus kas bersih dari aktivitas operasi melonjak dari US$30,8 juta menjadi US$76,2 juta, didukung penerimaan kas dari pelanggan yang naik dari US$1,43 miliar menjadi US$1,80 miliar. Perusahaan membagikan dividen sebesar US$3 juta kepada pemegang saham pada periode ini, lebih rendah dari US$5 juta pada periode sebelumnya, sementara entitas anak membagikan dividen US$17,4 juta kepada pemegang saham non-pengendali. Surat pernyataan direksi atas laporan ini ditandatangani oleh Direktur Utama Azis Armand dan Direktur Retina Rosabai pada 30 Oktober 2026."
+  ],
+  "fotoAdegan": "Mining trucks hauling coal at a large open-pit mine in East Kalimantan, dust rising under hazy daylight, heavy equipment in the background",
+  "takeaway": "Laporan kuartal ketiga ini condong positif bagi Indika Energy, karena pendapatan naik 27,7 persen dan laba yang mengalir ke pemegang saham pengendali melonjak dari hanya US$479 ribu menjadi US$20,2 juta dalam sembilan bulan, didukung arus kas dari operasi yang lebih dari dua kali lipat. Pos yang tersentuh di sini adalah laba per saham, yakni laba bersih dibagi jumlah saham beredar, yang naik dari 0,0001 dolar menjadi 0,0039 dolar karena jumlah saham beredar tidak berubah sehingga seluruh kenaikan laba langsung tercermin di angka itu, dan investor memperhatikannya karena ini ukuran paling sederhana untuk membandingkan untung rugi antar periode. Di sisi utang, utang obligasi perusahaan naik sekitar 25 persen menjadi US$569 juta meski pinjaman jangka pendek justru turun, jadi perusahaan tampak mengganti utang pendek dengan utang berjangka lebih panjang. Yang perlu dipantau berikutnya adalah kelanjutan proyek tambang yang baru berpindah ke tahap pengembangan senilai US$188,8 juta setelah sebelumnya tercatat sebagai aset eksplorasi, serta laporan keuangan tahunan teraudit 2026 yang akan menyusul laporan interim ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "esdm-gelar-minerba-convex-2026-buka-konsultasi-rkab",
   "category": "Energi",
   "title": "ESDM Gelar Minerba Convex 2026, Buka [Konsultasi] RKAB",
@@ -54,6 +263,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan aturan, melainkan caranya disosialisasikan: Ditjen Minerba membuka layanan konsultasi langsung bernama Coaching Clinic, supaya perusahaan tambang tidak salah menyusun RKAB, yaitu rencana kerja dan anggaran tahunan yang wajib diajukan setiap perusahaan tambang sebelum beroperasi. Yang kena dampak langsung adalah badan usaha tambang, terutama yang sering kesulitan memenuhi ketentuan RKAB, serta 18 asosiasi sektor pertambangan yang jadi mitra acara ini. Belum jelas apakah layanan konsultasi ini pertanda akan ada pengetatan atau perubahan aturan RKAB, atau sekadar agenda edukasi tahunan seperti biasa. Itu baru akan terlihat dari isi acara Minerba Convex sendiri pada 2-3 November 2026, termasuk apakah ada pengumuman kebijakan baru saat pembukaannya.",
   "imageV": "mvv7fo75"
+ },
+ {
+  "slug": "igar-laba-bersih-naik-40-jadi-rp94-2-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "IGAR: Laba Bersih [Naik] 40% Jadi Rp94,2 Miliar di Kuartal III",
+  "deck": "Produsen kemasan plastik IGAR membukukan laba bersih Rp94,2 miliar untuk sembilan bulan 2026, naik 40 persen, sementara total kewajiban melonjak 41 persen karena utang dagang membesar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T23:10:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030232058-65233-0/FinancialStatement-2026-III-IGAR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IGAR",
+  "tags": [
+   "IGAR",
+   "laporan keuangan",
+   "kewajiban",
+   "arus kas"
+  ],
+  "body": [
+   "PT Champion Pacific Indonesia Tbk (IGAR), produsen kemasan plastik yang menaungi PT Indogravure di Tangerang dan PT Avesta Continental Pack di Bekasi, melaporkan laporan keuangan interim per 30 September 2026. Pendapatan dari kontrak dengan pelanggan tercatat Rp810,48 miliar, naik dari Rp707,38 miliar pada periode yang sama tahun lalu. Laba bersih perusahaan naik 40 persen menjadi Rp94,24 miliar dari Rp67,31 miliar, dengan bagian yang menjadi hak pemegang saham induk sebesar Rp65,87 miliar, naik dari Rp46,07 miliar. Laba per saham ikut terangkat dari Rp49,65 menjadi Rp71,00. Total ekuitas perusahaan per akhir September 2026 tercatat Rp968,96 miliar, naik dari Rp892,62 miliar di akhir 2025, sementara total aset bertambah dari Rp1,01 triliun menjadi Rp1,13 triliun.",
+   "Dalam surat terpisah ke Bursa Efek Indonesia tertanggal 30 Oktober 2026, manajemen IGAR menjelaskan kenaikan total kewajiban perusahaan sebesar Rp47,10 miliar atau 41,19 persen, dari Rp114,35 miliar di akhir 2025 menjadi Rp161,45 miliar per September 2026. Penjelasan ini wajib disampaikan karena aturan pencatatan BEI nomor I-E mengharuskan emiten menjelaskan setiap perubahan pos total kewajiban yang melebihi 20 persen. Menurut manajemen, kenaikan itu terutama berasal dari utang usaha yang bertambah Rp38,37 miliar, sejalan dengan kenaikan pembelian persediaan barang, dan disebut sebagai dampak siklus usaha biasa yang tidak akan mempengaruhi kinerja perusahaan secara keseluruhan.",
+   "Di balik kenaikan laba, arus kas dari aktivitas operasi justru turun hampir 60 persen menjadi Rp23,05 miliar dari Rp57,40 miliar pada sembilan bulan pertama 2025. Persediaan barang naik 35 persen menjadi Rp213,83 miliar dan piutang usaha pihak ketiga melonjak 53 persen menjadi Rp228,72 miliar, lebih cepat dibanding kenaikan pendapatan. Kas dan setara kas perusahaan pun sedikit menyusut dari Rp461,79 miliar menjadi Rp453,75 miliar. Selama periode ini, perusahaan tetap membagikan dividen kas Rp4,62 miliar kepada pemegang saham induk dan Rp13,00 miliar kepada pemegang saham nonpengendali di anak usahanya."
+  ],
+  "fotoAdegan": "Workers checking stacks of molded plastic packaging containers on an industrial production line, overhead factory lighting",
+  "takeaway": "Laporan ini condong positif bagi IGAR, karena pendapatan dan laba bersihnya tumbuh double digit dalam sembilan bulan pertama 2026, dan bukan sekadar laporan rutin sebab disertai penjelasan resmi ke bursa soal lonjakan kewajiban. Yang perlu dicermati adalah arus kas dari operasi, yaitu uang tunai yang benar-benar diterima dari kegiatan bisnis sehari-hari, bukan sekadar angka laba di atas kertas. Arus kas ini justru turun hampir separuh karena persediaan barang dan piutang dari pelanggan tumbuh lebih cepat daripada penjualan, artinya sebagian laba belum berubah jadi uang kas yang bisa dipakai perusahaan. Laba per saham, yaitu laba bersih dibagi jumlah saham yang beredar, naik ke Rp71 dari Rp49,65, ukuran yang biasa dipakai investor untuk menilai seberapa besar bagian laba yang jadi hak setiap lembar saham. Yang perlu dipantau berikutnya adalah laporan keuangan audit tahun buku 2026, yang akan menunjukkan apakah penumpukan persediaan dan piutang ini mereda sesuai klaim manajemen atau justru berlanjut ke kuartal berikutnya.",
+  "sentimen": "positif"
  },
  {
   "slug": "umkm-kuliner-bisa-jangkau-42-6-juta-pengguna-lewat-livin-food",

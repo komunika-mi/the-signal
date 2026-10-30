@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "iptv-cetak-rugi-rp166-miliar-kas-menyusut-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "IPTV Cetak [Rugi] Rp166 Miliar, Kas Menyusut di Kuartal III 2026",
+  "deck": "Laporan keuangan interim MNC Vision Networks (IPTV) per akhir September 2026 mencatat rugi bersih Rp166,2 miliar, kas tergerus ke Rp8,48 miliar, dan ekuitas turun jadi Rp5,6 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T18:07:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030181558-65341-0/FinancialStatement-2026-III-IPTV.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPTV",
+  "tags": [
+   "IPTV",
+   "MNC Vision Networks",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT MNC Vision Networks Tbk (IPTV) melaporkan pendapatan sebesar Rp1,03 triliun untuk sembilan bulan pertama 2026, turun 16,8 persen dari Rp1,23 triliun pada periode yang sama tahun lalu. Meski begitu, laba kotor perusahaan justru naik menjadi Rp8,34 miliar dari Rp4,32 miliar karena beban pokok pendapatan turun lebih dalam dibanding penurunan pendapatannya. Beban umum dan administrasi juga turun dari Rp128,9 miliar menjadi Rp100,15 miliar, dan beban bunga turun dari Rp55,58 miliar menjadi Rp21,56 miliar.",
+   "Penurunan beban-beban itu tidak cukup menutup kerugian kurs mata uang asing yang melonjak dari Rp8,58 miliar menjadi Rp31,66 miliar, serta kerugian lain-lain yang naik dari Rp1,87 miliar menjadi Rp24,97 miliar. Akibatnya, rugi bersih perusahaan melebar dari Rp155,99 miliar menjadi Rp166,2 miliar, dengan bagian yang menjadi tanggungan pemilik entitas induk sebesar Rp157,53 miliar. Rugi per saham dasar ikut melebar dari Rp3,31 menjadi Rp3,73 per lembar. Ditambah kerugian nilai wajar aset keuangan sebesar Rp152,82 miliar yang dicatat sebagai penghasilan komprehensif lain, total rugi komprehensif perusahaan selama sembilan bulan mencapai Rp319,03 miliar, jauh lebih besar dibanding Rp155,99 miliar pada periode yang sama tahun lalu.",
+   "Dari sisi posisi keuangan per 30 September 2026, jumlah aset IPTV turun menjadi Rp6,6 triliun dari Rp6,99 triliun pada akhir 2025, sementara jumlah ekuitas turun menjadi Rp5,6 triliun dari Rp5,98 triliun. Kas dan setara kas perusahaan menyusut tajam, dari Rp22,21 miliar menjadi hanya Rp8,48 miliar. Arus kas dari aktivitas operasi sebenarnya masih positif Rp215,78 miliar, sedikit lebih tinggi dibanding Rp210,2 miliar tahun lalu, tetapi dana itu habis tersedot aktivitas investasi yang memakai kas Rp192,09 miliar, naik tajam dari Rp23,84 miliar, terutama akibat kenaikan aset lainnya dan uang muka senilai Rp172,89 miliar. Di sisi pendanaan, perusahaan membayar utang bank jangka panjang Rp24,63 miliar, jauh lebih kecil dibanding pembayaran Rp77,4 miliar pada tahun sebelumnya."
+  ],
+  "fotoAdegan": "Technician adjusting a satellite dish cable on an urban rooftop in Jakarta, overcast afternoon light, cityscape in the background",
+  "takeaway": "Laporan ini condong negatif bagi IPTV, karena meski pendapatan ditekan turun 16,8 persen, rugi bersih malah melebar menjadi Rp166,2 miliar dan kas perusahaan susut hampir dua pertiga menjadi hanya Rp8,48 miliar dalam sembilan bulan. Yang paling perlu dicermati pemegang saham adalah tiga pos: ekuitas, yaitu dana milik pemegang saham dalam perusahaan, yang turun dari Rp5,98 triliun menjadi Rp5,6 triliun, arus kas dari operasi yang sebenarnya masih positif Rp215,78 miliar tapi habis tersedot kenaikan aset lain dan uang muka senilai Rp172,89 miliar, serta rugi per saham yang melebar dari Rp3,31 menjadi Rp3,73, tanda bagian kerugian yang ditanggung setiap pemegang satu lembar saham makin besar. Sisi baiknya, beban bunga turun tajam dari Rp55,58 miliar menjadi Rp21,56 miliar sehingga tekanan utang mereda, tapi itu tidak cukup menutupi kerugian kurs dan kerugian lain-lain yang melonjak. Yang perlu dipantau berikutnya adalah laporan keuangan audit untuk tahun buku penuh 2026, karena angka di laporan interim ini belum diaudit dan bisa berubah, serta apakah tren penyusutan kas berlanjut pada kuartal keempat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mtla-laba-bersih-turun-22-jadi-rp182-5-miliar-di-9m2026",
+  "category": "Aksi Korporasi",
+  "title": "MTLA: Laba Bersih [Turun] 22% Jadi Rp182,5 Miliar di 9M2026",
+  "deck": "Pendapatan Metropolitan Land naik tipis jadi Rp1,18 triliun dalam sembilan bulan 2026, tapi laba bersih turun 22 persen dan kas perusahaan menyusut Rp175,69 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T18:06:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030182344-64927-0/FinancialStatement-2026-III-MTLA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTLA",
+  "tags": [
+   "MTLA",
+   "properti",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "Metropolitan Land Tbk (MTLA) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan naik 4,2 persen menjadi Rp1,18 triliun, dari Rp1,13 triliun pada periode yang sama tahun 2025. Namun laba bersih yang dapat diatribusikan kepada pemegang saham entitas induk justru turun 21,5 persen menjadi Rp182,55 miliar, dari Rp232,45 miliar. Akibatnya, laba per saham turun dari Rp30,37 menjadi Rp23,85, sementara jumlah saham beredar tetap di angka 7.655.126.330 lembar.",
+   "Penurunan laba terjadi karena beban pokok pendapatan naik lebih cepat dari pendapatan, yaitu 11,2 persen menjadi Rp622,2 miliar, sehingga margin laba kotor tergerus dari 50,5 persen menjadi 47,2 persen. Beban administrasi juga naik 8,8 persen menjadi Rp230,53 miliar dan beban pemasaran naik 5 persen menjadi Rp78,8 miliar. Di sisi lain, pendapatan bunga turun dari Rp13,66 miliar menjadi Rp7,49 miliar, dan pos keuntungan lain-lain menyusut dari Rp20,89 miliar menjadi Rp5,89 miliar, yang ikut menekan laba sebelum pajak hingga turun 21,9 persen menjadi Rp207,05 miliar.",
+   "Total aset perusahaan naik 3,5 persen menjadi Rp8,26 triliun per 30 September 2026, dari Rp7,98 triliun di akhir 2025, terutama ditopang kenaikan persediaan aset real estat dan properti investasi. Tapi kas dan setara kas turun 30,8 persen menjadi Rp395,49 miliar, dari Rp571,19 miliar, setelah perusahaan membelanjakan Rp136,65 miliar untuk aset tetap, Rp51,2 miliar untuk properti investasi, dan Rp31,94 miliar untuk tanah belum dikembangkan, ditambah pembagian dividen tunai total Rp84,85 miliar (Rp74,26 miliar untuk pemegang saham induk dan Rp10,6 miliar untuk pemegang saham nonpengendali). Utang bank jangka pendek ikut naik 44,8 persen menjadi Rp432,58 miliar, dari Rp298,85 miliar di akhir 2025. Laporan ini ditandatangani Presiden Direktur Anhar Sudradjat dan Direktur Olivia Surodjo di Bekasi pada 30 Oktober 2026."
+  ],
+  "fotoAdegan": "Rows of unfinished suburban housing units with scaffolding, workers carrying building materials, overcast afternoon light on a construction site",
+  "takeaway": "Laporan ini condong negatif bagi MTLA, karena laba bersih turun seperlima lebih meski pendapatan naik, dan kas perusahaan menyusut tajam dalam sembilan bulan. Pos yang tersentuh adalah laba per saham, yakni laba bersih dibagi jumlah saham beredar, yang jadi acuan investor menilai seberapa besar keuntungan per lembar saham yang mereka pegang, dan pos arus kas operasi yang hanya Rp13,49 miliar, jauh lebih kecil dari laba akuntansi, tanda sebagian keuntungan masih mengendap di persediaan properti dan belum jadi uang tunai. Catatan baiknya, beban bunga justru turun dari Rp5,02 miliar jadi Rp3,25 miliar sehingga biaya utang mengecil. Yang perlu dipantau berikutnya adalah kewajiban utang bank jangka panjang senilai Rp211,39 miliar yang jatuh tempo dalam setahun ke depan, serta laporan keuangan tahunan teraudit untuk tahun buku 2026 yang biasanya terbit pada awal tahun berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "msky-pendapatan-anjlok-44-8-kas-menipis-ke-rp2-1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MSKY: Pendapatan [Anjlok] 44,8%, Kas Menipis ke Rp2,1 Miliar",
+  "deck": "Pendapatan MNC Sky Vision turun 44,8 persen pada sembilan bulan pertama 2026, sementara kas perusahaan menyusut tajam menjadi hanya Rp2,1 miliar meski rugi bersihnya justru mengecil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T18:05:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030182315-64973-0/FinancialStatement-2026-III-MSKY.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSKY",
+  "tags": [
+   "MSKY",
+   "MNC Sky Vision",
+   "laporan keuangan",
+   "TV berbayar"
+  ],
+  "body": [
+   "PT MNC Sky Vision Tbk (MSKY), operator televisi berbayar Indovision, melaporkan pendapatan sembilan bulan pertama 2026 sebesar Rp166,8 miliar, anjlok 44,8 persen dibandingkan periode yang sama tahun lalu yang mencapai Rp302,1 miliar. Setelah dikurangi beban pokok pendapatan, laba kotor perusahaan juga tergerus tajam dari Rp92,2 miliar menjadi hanya Rp10,3 miliar, turun 88,8 persen. Meski demikian, rugi bersih periode berjalan justru mengecil menjadi Rp113,7 miliar dari Rp196 miliar pada periode yang sama 2025, terutama karena beban penyusutan dan amortisasi turun tajam dari Rp246,6 miliar menjadi Rp50,8 miliar. Rugi per saham dasar tercatat Rp11,4, lebih kecil dibanding Rp19,7 pada periode sebelumnya.",
+   "Dari sisi posisi keuangan, jumlah aset perusahaan per 30 September 2026 tercatat Rp1.208 triliun, turun 8,2 persen dari Rp1.316 triliun pada akhir 2025. Ekuitas yang dapat diatribusikan kepada pemilik entitas induk turun 14,6 persen menjadi Rp665,7 miliar dari Rp779,4 miliar, sejalan dengan rugi bersih periode ini. Akumulasi kerugian atau defisit perusahaan membesar menjadi Rp3,46 triliun dari Rp3,35 triliun pada akhir 2025. Posisi kas dan setara kas juga menyusut drastis, dari Rp12,7 miliar pada akhir 2025 menjadi hanya Rp2,1 miliar pada akhir September 2026, turun 83,3 persen.",
+   "Dari laporan arus kas, kegiatan operasional perusahaan masih menghasilkan kas bersih positif Rp87,3 miliar, meski lebih rendah dari Rp96,8 miliar pada periode yang sama tahun lalu. Namun kas tersebut sebagian besar terpakai untuk kegiatan pendanaan, termasuk pembayaran utang bank jangka panjang Rp29,6 miliar dan penurunan liabilitas jangka panjang lainnya sebesar Rp52,3 miliar, sehingga kas bersih yang digunakan untuk aktivitas pendanaan mencapai Rp82,3 miliar. Secara keseluruhan, kas dan setara kas perusahaan berkurang bersih Rp10,6 miliar sepanjang sembilan bulan pertama 2026."
+  ],
+  "fotoAdegan": "Technician adjusting a satellite dish on a residential rooftop in a Jakarta suburb, cables and tools scattered nearby, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham MSKY, karena pendapatan perusahaan anjlok hampir separuh dan kas yang tersisa menyusut ke level yang sangat tipis, meski rugi bersihnya tercatat mengecil dibanding tahun lalu. Yang perlu diperhatikan adalah dua pos: ekuitas, yaitu selisih antara aset dan utang perusahaan yang jadi bagian pemilik saham, yang terus tergerus akibat akumulasi kerugian bertahun-tahun, dan kas, yaitu uang tunai yang benar-benar tersedia untuk kebutuhan sehari-hari, yang kini hanya Rp2,1 miliar, jumlah sangat kecil untuk perusahaan dengan aset triliunan rupiah sehingga membuatnya rentan bila ada kebutuhan dana mendadak. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang biasanya wajib disampaikan paling lambat akhir Maret 2027, karena laporan itu akan menunjukkan apakah penurunan pendapatan dan tipisnya kas ini berlanjut atau mulai membaik pada kuartal keempat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "coin-rugi-rp59-1-miliar-pendapatan-susut-nyaris-separuh",
+  "category": "Aksi Korporasi",
+  "title": "COIN Rugi Rp59,1 Miliar, [Pendapatan] Susut Nyaris Separuh",
+  "deck": "Pendapatan COIN turun hampir separuh jadi Rp105,2 miliar dalam sembilan bulan 2026, membuat laba operasional berbalik rugi Rp73,6 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T18:04:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030181603-65582-0/FinancialStatement-2026-III-COIN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "COIN",
+  "tags": [
+   "COIN",
+   "laporan keuangan interim",
+   "aset kripto",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Indokripto Koin Semesta Tbk (COIN) melaporkan pendapatan Rp105,17 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, turun 48,6 persen dibandingkan Rp204,63 miliar pada periode yang sama tahun lalu. Beban umum dan administrasi justru naik dari Rp151,25 miliar menjadi Rp178,79 miliar, membuat perusahaan berbalik dari laba usaha Rp53,38 miliar pada 9 bulan 2025 menjadi rugi usaha Rp73,63 miliar pada 9 bulan 2026. Setelah memperhitungkan pendapatan keuangan Rp11,11 miliar, beban keuangan Rp479,37 juta, dan pendapatan lain-lain Rp5,65 miliar, perusahaan mencatat rugi bersih Rp59,13 miliar, dengan Rp59,12 miliar di antaranya menjadi beban pemegang saham entitas induk. Rugi ini membuat laba bersih per saham berbalik dari untung Rp3,10 pada 9 bulan 2025 menjadi rugi Rp4,02 per saham pada 9 bulan 2026.",
+   "Dari sisi posisi keuangan, jumlah aset Perseroan turun dari Rp1.602,51 miliar pada akhir 2025 menjadi Rp1.514,16 miliar pada akhir September 2026, terutama karena kas dan setara kas berkurang dari Rp366,60 miliar menjadi Rp317,96 miliar. Penurunan kas ini sejalan dengan arus kas dari aktivitas operasi yang berbalik negatif Rp42,27 miliar pada 9 bulan 2026, padahal pada periode yang sama tahun lalu masih positif Rp98,48 miliar. Dalam surat penjelasan tambahan kepada OJK tertanggal 29 Oktober 2026 yang ditandatangani Direktur Utama dan Direktur Keuangan, manajemen COIN menjelaskan bahwa jumlah liabilitas turun tajam 54,41 persen dari Rp53,71 miliar menjadi Rp24,49 miliar, didorong oleh pelunasan utang pajak yang turun 87,74 persen menjadi Rp3,20 miliar, liabilitas imbalan kerja jangka pendek yang turun 80,84 persen menjadi Rp986,54 juta, dan beban akrual yang turun 42,36 persen menjadi Rp8,17 miliar, seluruhnya disebut sebagai penyelesaian kewajiban yang sebelumnya sudah dicadangkan. Ekuitas Perseroan ikut turun dari Rp1.548,80 miliar menjadi Rp1.489,67 miliar akibat rugi periode berjalan, meski perusahaan juga membentuk dana cadangan umum Rp9,81 miliar dari saldo laba.",
+   "Sebagai perusahaan induk, COIN membawahi empat entitas anak: PT Kustodian Koin Indonesia (ICC) yang menjalankan jasa kustodian aset kripto dengan kepemilikan 99,99 persen dan total aset Rp272,49 miliar, PT Central Finansial X (CFX) yang mengoperasikan bursa berjangka dan bursa aset kripto dengan kepemilikan 99,97 persen dan total aset Rp1.280,12 miliar, PT Karya Perkasa Indomitra (KPI) di bidang konsultasi manajemen dengan kepemilikan 99,96 persen, serta Delta One Limited (DOL) di Seychelles yang dimiliki penuh namun berstatus tidak beroperasi."
+  ],
+  "fotoAdegan": "Rows of server racks blinking with status lights in a cooled data center hall, a technician checking cables in the background",
+  "takeaway": "Laporan ini negatif bagi COIN, karena bisnis intinya memburuk dari untung menjadi rugi sepanjang sembilan bulan terakhir, bukan sekadar perubahan administratif. Pos yang paling kena adalah laba per saham, yaitu bagian laba yang jadi hak setiap lembar saham, yang berbalik dari untung Rp3,10 menjadi rugi Rp4,02, serta arus kas dari kegiatan usaha sehari-hari yang berbalik negatif Rp42,3 miliar padahal tahun lalu masih menghasilkan kas positif Rp98,5 miliar, tanda bahwa operasional perusahaan kini menyedot kas alih-alih menghasilkannya. Ekuitas, yakni kekayaan bersih yang jadi hak pemegang saham, juga tergerus dari Rp1.548,8 miliar menjadi Rp1.489,7 miliar akibat rugi tersebut. Penurunan utang yang tajam dalam laporan ini bukan tanda pembaikan operasional, melainkan pelunasan kewajiban pajak dan beban yang memang sudah dicadangkan sejak tahun lalu. Yang perlu dipantau berikutnya adalah laporan kinerja kuartal IV dan laporan tahunan 2026, untuk melihat apakah penurunan pendapatan dari bisnis aset kripto ini terus berlanjut atau mulai membalik.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "transaksi-umkm-bisa-ekspor-tembus-us-360-juta-per-september",
   "category": "UMKM",
   "title": "Transaksi UMKM Bisa Ekspor [Tembus] US$360 Juta per September",

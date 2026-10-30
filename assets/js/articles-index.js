@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "iptv-cetak-rugi-rp166-miliar-kas-menyusut-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "IPTV Cetak [Rugi] Rp166 Miliar, Kas Menyusut di Kuartal III 2026",
+  "deck": "Laporan keuangan interim MNC Vision Networks (IPTV) per akhir September 2026 mencatat rugi bersih Rp166,2 miliar, kas tergerus ke Rp8,48 miliar, dan ekuitas turun jadi Rp5,6 triliun.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPTV",
+   "MNC Vision Networks",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030181558-65341-0/FinancialStatement-2026-III-IPTV.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtla-laba-bersih-turun-22-jadi-rp182-5-miliar-di-9m2026",
+  "category": "Aksi Korporasi",
+  "title": "MTLA: Laba Bersih [Turun] 22% Jadi Rp182,5 Miliar di 9M2026",
+  "deck": "Pendapatan Metropolitan Land naik tipis jadi Rp1,18 triliun dalam sembilan bulan 2026, tapi laba bersih turun 22 persen dan kas perusahaan menyusut Rp175,69 miliar.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTLA",
+   "properti",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030182344-64927-0/FinancialStatement-2026-III-MTLA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "msky-pendapatan-anjlok-44-8-kas-menipis-ke-rp2-1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MSKY: Pendapatan [Anjlok] 44,8%, Kas Menipis ke Rp2,1 Miliar",
+  "deck": "Pendapatan MNC Sky Vision turun 44,8 persen pada sembilan bulan pertama 2026, sementara kas perusahaan menyusut tajam menjadi hanya Rp2,1 miliar meski rugi bersihnya justru mengecil.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSKY",
+   "MNC Sky Vision",
+   "laporan keuangan",
+   "TV berbayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030182315-64973-0/FinancialStatement-2026-III-MSKY.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "coin-rugi-rp59-1-miliar-pendapatan-susut-nyaris-separuh",
+  "category": "Aksi Korporasi",
+  "title": "COIN Rugi Rp59,1 Miliar, [Pendapatan] Susut Nyaris Separuh",
+  "deck": "Pendapatan COIN turun hampir separuh jadi Rp105,2 miliar dalam sembilan bulan 2026, membuat laba operasional berbalik rugi Rp73,6 miliar.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "COIN",
+   "laporan keuangan interim",
+   "aset kripto",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030181603-65582-0/FinancialStatement-2026-III-COIN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "transaksi-umkm-bisa-ekspor-tembus-us-360-juta-per-september",
   "category": "UMKM",
   "title": "Transaksi UMKM Bisa Ekspor [Tembus] US$360 Juta per September",
@@ -6414,70 +6478,6 @@ var ARTICLES = [
    "migas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/97fab501a0_9d3ebbb139.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "soho-jual-seluruh-saham-di-pfizer-indonesia-ke-pfizer-hong-kong",
-  "category": "Aksi Korporasi",
-  "title": "SOHO Jual Seluruh Saham di [Pfizer Indonesia] ke Pfizer Hong Kong",
-  "deck": "PT Soho Industri Pharmasi, anak usaha SOHO, melepas seluruh 245.045 saham di PT Pfizer Indonesia kepada Pfizer Corporation Hong Kong Limited.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOHO",
-   "Pfizer Indonesia",
-   "Soho Industri Pharmasi",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ad9dc057dd_1c58bd9e5d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-siapkan-stock-split-rupslb-digelar-23-november",
-  "category": "Aksi Korporasi",
-  "title": "PRDA Siapkan [Stock Split], RUPSLB Digelar 23 November",
-  "deck": "Prodia Widyahusada menjawab permintaan penjelasan BEI soal volatilitas transaksi, mengungkap rencana stock split lewat RUPSLB 23 November dan buyback saham senilai Rp150 miliar yang masih berjalan.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "stock split",
-   "buyback saham",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/540308097c_facf20f1b4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lsip-siapkan-buyback-saham-rp750-miliar-hingga-akhir-2026",
-  "category": "Aksi Korporasi",
-  "title": "LSIP Siapkan [Buyback] Saham Rp750 Miliar hingga Akhir 2026",
-  "deck": "PP London Sumatra akan membeli kembali saham maksimal Rp750 miliar dari kas internal pada 26 Oktober hingga 31 Desember 2026, memakai aturan OJK untuk kondisi pasar berfluktuasi.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LSIP",
-   "buyback saham",
-   "pasar modal",
-   "perkebunan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0884db7e64_fba905f667.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-laba-bersih-anjlok-82-pada-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "VTNY: Laba Bersih [Anjlok] 82% pada Kuartal III 2026",
-  "deck": "Laba bersih Venteny Fortuna turun 82 persen jadi Rp1,53 miliar dalam sembilan bulan 2026, sementara kas perusahaan menyusut lebih dari 90 persen setelah pelunasan obligasi besar.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "laporan keuangan",
-   "fintech pembiayaan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023184832-64561-0/FinancialStatement-2026-III-VTNY.pdf",
   "sourceLabel": "IDX"
  }
 ];

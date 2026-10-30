@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "JLZ0X1B1Hhg",
+  "title": "Skinsol Raih Penghargaan Inovasi Skincare Berbasis RnD",
+  "category": "Industri",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "Skinsol meraih penghargaan Inovasi Membangun Negeri 2026 atas formulasi skincare berbasis riset dan pengembangan dengan bahan aktif premium berkelanjutan.",
+  "takeaway": "Penghargaan ini mencerminkan arah investasi riset dan inovasi produk di industri kosmetik dalam negeri yang relevan bagi pelaku usaha consumer goods."
+ },
+ {
   "id": "0bVTTmF6ZsI",
   "title": "Hilirisasi Nikel hingga Kelapa Jadi Andalan Ekspor Indonesia",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "AKIS",
   "summary": "Bursa lowongan kerja yang digelar di gedung Smesco, Jakarta, dipadati pencari kerja yang berebut kesempatan mengisi lowongan yang tersedia.",
   "takeaway": "Menggambarkan tingginya minat masyarakat terhadap bursa kerja, indikator relevan bagi pembaca yang mengikuti dinamika pasar tenaga kerja dalam negeri."
- },
- {
-  "id": "8yq5whTe51A",
-  "title": "Hanta Yuda Soroti Harga Kebutuhan Pokok dan Daya Beli Masyarakat",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Direktur Eksekutif Poltracking Indonesia, Hanta Yuda, menyoroti masih tingginya harga kebutuhan pokok dan melemahnya daya beli masyarakat di tengah isu reshuffle kabinet, sekaligus mengingatkan soal capaian ekonomi pemerintah.",
-  "takeaway": "Analisis ini penting bagi pembaca ekonomi karena menyentuh dua indikator inti kesejahteraan rumah tangga, yaitu harga pangan dan daya beli, yang langsung berdampak pada konsumsi domestik."
  }
 ];

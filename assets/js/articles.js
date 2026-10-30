@@ -107,6 +107,33 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "pendapatan-vktr-tumbuh-49-jadi-rp1-06-triliun-di-9m26",
+  "category": "Bisnis",
+  "title": "Pendapatan VKTR [Tumbuh] 49% jadi Rp1,06 Triliun di 9M26",
+  "deck": "Pendapatan VKTR naik 49% jadi Rp1,06 triliun pada 9M26, didorong penjualan kendaraan listrik yang melonjak 91% meski manufaktur suku cadang otomotif masih jadi penyumbang utama.",
+  "image": "assets/img/pendapatan-vktr-tumbuh-49-jadi-rp1-06-triliun-di-9m26.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T19:59:44+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475817-pendapatan-vktr-tumbuh-49-pada-9m26-kontribusi-kendaraan-listrik-terus-meningkat",
+  "tags": [
+   "VKTR",
+   "kendaraan listrik",
+   "Bakrie",
+   "emiten otomotif"
+  ],
+  "body": [
+   "PT VKTR Teknologi Mobilitas Tbk, emiten yang dikenal sebagai pionir kendaraan listrik komersial di Indonesia, membukukan pendapatan Rp1,06 triliun pada sembilan bulan pertama 2026. Angka ini naik 49 persen dibandingkan Rp717 miliar pada periode yang sama tahun lalu. Pertumbuhan ini penting dipantau karena VKTR berada di bawah Grup Bakrie dan menjadi salah satu indikator seberapa jauh adopsi kendaraan listrik komersial berkembang di dalam negeri.",
+   "Penjualan kendaraan listrik menyumbang Rp186 miliar, melonjak 91 persen dari Rp98 miliar pada periode yang sama tahun sebelumnya. Dengan kenaikan ini, porsi kendaraan listrik terhadap total pendapatan perusahaan naik dari 14 persen menjadi 17 persen. Kenaikan porsi itu menandakan bisnis kendaraan listrik mulai mengambil tempat yang lebih besar, meski basisnya masih jauh lebih kecil dibandingkan bisnis utama perusahaan.",
+   "Bisnis utama VKTR, yaitu manufaktur suku cadang otomotif, masih menjadi penyumbang terbesar dengan pendapatan Rp880 miliar, tumbuh 41 persen dari Rp623 miliar. Kenaikan ini terjadi seiring menguatnya aktivitas industri otomotif nasional, terutama segmen kendaraan komersial yang menurut data Gabungan Industri Kendaraan Bermotor Indonesia (Gaikindo) tumbuh 42 persen secara tahunan per September 2026. Dengan kata lain, lonjakan pendapatan VKTR saat ini masih banyak ditopang oleh siklus pasar otomotif konvensional, bukan semata oleh peralihan ke kendaraan listrik.",
+   "Dari sisi laba, VKTR mencatatkan laba bersih Rp12,1 miliar, naik 47 persen dari Rp8,2 miliar pada sembilan bulan pertama 2025. Manajemen menyebut kenaikan ini didukung pengendalian biaya yang lebih baik di tengah perluasan skala usaha. Total aset perusahaan per akhir September 2026 tercatat Rp2.026 miliar, naik 13 persen sejak awal tahun."
+  ],
+  "fotoAdegan": "Workers assembling electric city buses on an industrial production line, overhead lights, spare parts stacked nearby in an Indonesian factory",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/30/6ae4941b942b0-jenis-transportasi-milik-pt-vktr-teknologi-mobilitas-tbk_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah porsi penjualan kendaraan listrik dalam total pendapatan VKTR, naik dari 14 persen jadi 17 persen dalam setahun, dengan nilai penjualannya melonjak 91 persen ke Rp186 miliar. Tapi porsi itu tetap kecil karena bisnis manufaktur suku cadang otomotif konvensional masih menyumbang sekitar 83 persen dari total pendapatan, dan segmen ini justru ikut terdorong oleh pertumbuhan pasar kendaraan komersial nasional sebesar 42 persen menurut data Gaikindo. Yang terdampak langsung adalah pemegang saham VKTR, termasuk Grup Bakrie selaku pengendali, serta pelaku industri suku cadang otomotif yang jadi penopang utama kinerja perusahaan ini. Arah yang terlihat dari data ini adalah pertumbuhan VKTR untuk saat ini masih lebih mengandalkan siklus industri otomotif konvensional ketimbang transisi ke kendaraan listrik, meski porsi EV terus naik dari tahun ke tahun. Yang akan menentukan apakah pola ini bergeser adalah laporan kinerja kuartal berikutnya serta data penjualan kendaraan komersial Gaikindo, untuk melihat apakah kenaikan 42 persen itu bertahan atau cuma lonjakan sesaat.",
+  "imageV": "mvv21opn"
+ },
+ {
   "slug": "kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul",
   "category": "UMKM",
   "title": "KKP [Bagikan] 100 Ribu Benih Lele ke Pembudidaya Bantul",
@@ -635,7 +662,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar jumlah dana, tapi bentuk programnya: KUR yang dulu jadi satu skema tunggal kini dipecah jadi lima jalur berbeda, termasuk kredit perumahan bertarget Rp50 triliun dan kredit khusus perempuan prasejahtera senilai maksimal Rp15 juta berbunga 8 persen tanpa jaminan. Yang kena dampak paling langsung adalah pelaku usaha mikro dan kecil, termasuk calon pekerja migran dan pengembang rumah bersubsidi, lewat bank-bank milik negara, Pegadaian, dan PNM yang jadi penyalurnya. Arahnya terlihat bergeser dari sekadar memperbanyak jumlah peminjam ke membagi kredit berdasarkan kelompok sasaran yang lebih spesifik, sejalan dengan peluncuran Dewan Nasional Kesejahteraan Keuangan oleh Presiden Prabowo Subianto pada 22 Oktober 2026 yang mengalihkan fokus dari sekadar akses menuju kualitas hidup keuangan keluarga. Yang akan memastikan arah ini benar-benar berjalan adalah apakah penyaluran Kredit Program Perumahan mendekati target Rp50 triliun pada akhir tahun, serta aturan turunan dari dewan baru tersebut yang bentuknya belum dijelaskan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "kredit-program-pemerintah-capai-rp2-440-triliun-npl-2-13",
@@ -663,7 +690,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari forum ini adalah bertambahnya instrumen kredit bersubsidi pemerintah menjadi lima jenis, dengan Kredit Perempuan Prasejahtera (KPPS) yang disebut sedang memasuki tahap peluncuran, melengkapi KUR, kredit alat pertanian, kredit industri padat karya, dan kredit perumahan. Yang berpotensi terdampak adalah perempuan dari kelompok prasejahtera yang sebelumnya mungkin belum masuk kriteria KUR biasa, sementara pelaku usaha mikro tetap jadi sasaran utama karena menyumbang 96,7 persen dari 56,7 juta UMKM yang tercatat. Pola yang terlihat adalah pemerintah bergerak dari satu program payung besar, yaitu KUR, menuju rangkaian kredit yang makin terpecah menurut kelompok sasaran seperti petani, pekerja industri padat karya, dan kini perempuan prasejahtera, ketimbang sekadar memperbesar KUR itu sendiri. Yang akan memastikan arah ini adalah detail peluncuran resmi KPPS, termasuk besaran plafon dan bunga, yang belum diumumkan dalam siaran pers ini.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "ekspor-alat-musik-ri-tembus-rp6-2-triliun-di-2026",

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "JLZ0X1B1Hhg",
+  "title": "Skinsol Raih Penghargaan Inovasi Skincare Berbasis RnD",
+  "category": "Industri",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "Skinsol meraih penghargaan Inovasi Membangun Negeri 2026 atas formulasi skincare berbasis riset dan pengembangan dengan bahan aktif premium berkelanjutan.",
+  "takeaway": "Penghargaan ini mencerminkan arah investasi riset dan inovasi produk di industri kosmetik dalam negeri yang relevan bagi pelaku usaha consumer goods.",
+  "terbit": "2026-10-30T13:00:22+00:00"
+ },
+ {
   "id": "0bVTTmF6ZsI",
   "title": "Hilirisasi Nikel hingga Kelapa Jadi Andalan Ekspor Indonesia",
   "category": "Industri",

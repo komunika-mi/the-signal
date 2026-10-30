@@ -69,6 +69,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pendapatan-vktr-tumbuh-49-jadi-rp1-06-triliun-di-9m26",
+  "category": "Bisnis",
+  "title": "Pendapatan VKTR [Tumbuh] 49% jadi Rp1,06 Triliun di 9M26",
+  "deck": "Pendapatan VKTR naik 49% jadi Rp1,06 triliun pada 9M26, didorong penjualan kendaraan listrik yang melonjak 91% meski manufaktur suku cadang otomotif masih jadi penyumbang utama.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/pendapatan-vktr-tumbuh-49-jadi-rp1-06-triliun-di-9m26.jpg",
+  "imageV": "mvv21opn",
+  "tags": [
+   "VKTR",
+   "kendaraan listrik",
+   "Bakrie",
+   "emiten otomotif"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475817-pendapatan-vktr-tumbuh-49-pada-9m26-kontribusi-kendaraan-listrik-terus-meningkat"
+ },
+ {
   "slug": "kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul",
   "category": "UMKM",
   "title": "KKP [Bagikan] 100 Ribu Benih Lele ke Pembudidaya Bantul",
@@ -6470,19 +6487,6 @@ var ARTICLES = [
    "perdagangan internasional"
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dua-tahun-kabinet-tiga-program-prioritas-kemendag-berkontribusi-dorong-kinerja-perdagangan",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "umkm-kriya-yogyakarta-dibekali-aturan-ekspor-ke-uni-eropa",
-  "category": "UMKM",
-  "title": "UMKM Kriya Yogyakarta Dibekali Aturan [Ekspor] ke Uni Eropa",
-  "deck": "Kemendag melatih 215 pelaku UMKM kriya Yogyakarta memenuhi standar mutu dan aturan bebas deforestasi Uni Eropa sebelum produk mereka dikirim ke pasar ekspor.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/umkm-kriya-yogyakarta-dibekali-aturan-ekspor-ke-uni-eropa.jpg",
-  "imageV": "mvl0vvzh",
-  "tags": [],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-sektor-kriya-yogyakarta-kemendag-sinergikan-mutu-standardisasi-dan-kekayaan-intelektual-untuk-akselerasi-ekspor",
   "sourceLabel": "Kementerian Perdagangan"
  }
 ];

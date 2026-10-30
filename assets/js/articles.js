@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "simp-cetak-laba-rp2-05-triliun-di-9m2026-naik-45",
+  "category": "Aksi Korporasi",
+  "title": "SIMP Cetak Laba [Rp2,05 Triliun] di 9M2026, Naik 45%",
+  "deck": "Laba bersih Salim Ivomas Pratama naik 45 persen secara tahunan ditopang kenaikan harga jual sawit, sementara utang berbunga turun dan ekuitas bertambah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:14:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dd3443965e_572ff18ffe.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SIMP",
+  "tags": [
+   "SIMP",
+   "kinerja keuangan",
+   "CPO",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Salim Ivomas Pratama Tbk (SIMP) melaporkan produksi tandan buah segar dari perkebunan inti naik 4 persen secara tahunan menjadi 2 juta ton sepanjang Januari hingga September 2026. Produksi minyak sawit mentah atau CPO naik lebih tinggi, 13 persen menjadi 580 ribu ton, seiring tingkat ekstraksi CPO yang naik dari 20,5 persen menjadi 21,6 persen. Penjualan eksternal grup, setelah dikurangi transaksi antar segmen, naik 5 persen menjadi Rp15,64 triliun. Porsi penjualan Divisi Minyak dan Lemak Nabati membesar menjadi 77 persen dari total penjualan, dari sebelumnya 70 persen setahun lalu, sementara porsi Divisi Perkebunan turun menjadi 23 persen dari 30 persen.",
+   "Kenaikan harga jual rata-rata dan volume produk sawit maupun minyak goreng mendorong laba bruto perusahaan naik 22 persen menjadi Rp4,43 triliun, dengan margin laba bruto melebar dari 24 persen menjadi 28 persen. Laba usaha naik lebih tajam lagi, 40 persen menjadi Rp3,86 triliun, dengan margin usaha naik dari 18 persen ke 25 persen. Laba periode berjalan yang menjadi hak pemegang saham induk naik 45 persen menjadi Rp2,05 triliun, setara laba per saham Rp132, naik dari Rp92 pada periode yang sama tahun lalu.",
+   "Dari sisi keuangan, total aset SIMP per akhir September 2026 tercatat Rp43,76 triliun, naik dari Rp41,38 triliun pada akhir 2025, dengan kas dan setara kas bertambah menjadi Rp9,30 triliun dari Rp8,35 triliun. Utang berbunga turun menjadi Rp9,05 triliun dari Rp9,50 triliun, sementara ekuitas bertambah menjadi Rp28,77 triliun dari Rp26,60 triliun. Luas area tanam inti perusahaan per akhir September 2026 tercatat 277.109 hektare, terdiri dari 235.944 hektare kelapa sawit, 15.717 hektare karet, 12.200 hektare tebu, dan 13.248 hektare tanaman lain."
+  ],
+  "fotoAdegan": "Workers harvesting fresh palm fruit bunches and loading them onto a truck in a tropical oil palm plantation, bright daylight",
+  "takeaway": "Laporan ini condong positif bagi SIMP karena laba bersih melompat 45 persen dengan margin yang melebar di semua lini usaha, bukan sekadar efek kenaikan harga jual sesaat, ditambah utang berbunga yang justru menyusut. Yang tersentuh di sini adalah laba per saham, yaitu bagian laba yang secara teoritis jadi hak setiap lembar saham, yang naik dari Rp92 ke Rp132 dan jadi salah satu acuan pelaku pasar menilai mahal atau murahnya saham dibanding laba yang dihasilkan perusahaan. Ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi semua utang, juga bertambah ke Rp28,77 triliun, menandakan modal usaha yang makin tebal untuk menyerap risiko atau membiayai ekspansi tanpa banyak menambah utang. Yang perlu dipantau selanjutnya adalah apakah kenaikan harga jual sawit dan minyak goreng ini masih bertahan di kuartal IV 2026, karena dokumen yang disampaikan hari ini baru berupa ikhtisar, sementara laporan keuangan lengkap yang diaudit untuk periode berjalan akan menyusul kemudian.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "indf-core-profit-9m26-naik-11-jadi-rp9-37-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INDF: [Core Profit] 9M26 Naik 11% jadi Rp9,37 Triliun",
+  "deck": "Penjualan neto Indofood tumbuh 12% jadi Rp101,49 triliun pada sembilan bulan pertama 2026, laba usaha naik 15% meski laba bersih tertahan rugi kurs.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:14:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f3caf9f173_1c248574ec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDF",
+  "tags": [
+   "INDF",
+   "Indofood",
+   "kinerja keuangan",
+   "laporan kuartalan"
+  ],
+  "body": [
+   "PT Indofood Sukses Makmur Tbk (INDF) membukukan penjualan neto konsolidasi Rp101,49 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, tumbuh 12% dari Rp90,98 triliun pada periode yang sama tahun lalu. Laba usaha naik lebih tinggi, yakni 15% menjadi Rp20,80 triliun dari Rp18,10 triliun, sehingga marjin laba usaha membaik dari 19,9% menjadi 20,5%.",
+   "Namun laba periode berjalan yang menjadi hak pemilik entitas induk relatif stagnan di kisaran Rp7,87 triliun. Perseroan menyebut hal ini disebabkan oleh meningkatnya rugi selisih kurs yang belum terealisasi dari aktivitas pendanaan, terutama terkait obligasi berdenominasi dolar AS yang diterbitkan oleh entitas anak usahanya, Indofood CBP Sukses Makmur (ICBP), seiring pelemahan nilai tukar rupiah. Di sisi lain, core profit yang disebut Indofood mencerminkan kinerja operasional sesungguhnya naik 11% menjadi Rp9,37 triliun dari Rp8,42 triliun.",
+   "Direktur Utama dan Chief Executive Officer Indofood, Anthoni Salim, mengatakan performa ini didukung oleh model bisnis yang terintegrasi secara vertikal di empat kelompok usaha strategis perusahaan, yaitu produk konsumen bermerek, Bogasari, agribisnis, dan distribusi. Ia menyebut perusahaan akan tetap fokus menjaga pertumbuhan berkelanjutan, menyeimbangkan pangsa pasar dengan profitabilitas, serta mempertahankan posisi neraca yang sehat."
+  ],
+  "fotoAdegan": "Workers inspecting rows of packaged instant noodles moving along a conveyor belt inside a bright food factory.",
+  "takeaway": "Laporan ini condong positif bagi Indofood karena penjualan dan laba usaha tumbuh dua digit dengan marjin yang menebal, pertanda bisnis inti berjalan baik di tengah tahun ini. Yang pelaku pasar perlu cermati adalah bedanya core profit, yaitu laba yang disaring dari pos-pos nonoperasional dan dianggap mencerminkan kekuatan bisnis sesungguhnya, dengan laba bersih yang dilaporkan apa adanya. Core profit naik 11% ke Rp9,37 triliun, tapi laba bersih tertahan karena rugi kurs yang belum terealisasi dari utang obligasi dolar AS milik ICBP, yakni catatan akuntansi akibat pelemahan rupiah yang belum tentu berarti ada uang kas yang benar-benar hilang. Yang perlu dipantau selanjutnya adalah pergerakan rupiah terhadap dolar AS pada kuartal keempat, karena arahnya akan menentukan apakah beban kurs ini membesar atau justru berbalik menguntungkan pada laporan tahunan nanti.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "wika-tunda-pembayaran-bunga-obligasi-dan-sukuk-mudharabah",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Tunda] Pembayaran Bunga Obligasi dan Sukuk Mudharabah",
+  "deck": "Setelah RUPO dan RUPSU gagal kuorum pada akhir Oktober 2026, WIKA menunda pembayaran bunga obligasi dan bagi hasil sukuk mudharabah di seluruh seri yang jatuh tempo November-Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:11:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dffb763c67_59979da3e6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "sukuk mudharabah",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) menyatakan menunda pembayaran bunga seluruh seri obligasi berkelanjutan dan pendapatan bagi hasil seluruh seri sukuk mudharabah berkelanjutan yang diterbitkannya. Penundaan ini diumumkan setelah Rapat Umum Pemegang Obligasi (RUPO) dan Rapat Umum Pemegang Sukuk (RUPSU) yang digelar pada 19, 20, 21, 27, dan 28 Oktober 2026 tidak mencapai kuorum persetujuan atas usulan penjadwalan ulang pembayaran yang diajukan perseroan.",
+   "Pembayaran yang ditunda mencakup lima jadwal jatuh tempo berturut-turut. Pada 3 November 2026, giliran bunga ke-16 Seri A, B, dan C Obligasi Berkelanjutan III Tahap I 2022, serta bagi hasil ke-15 Seri A dan ke-16 Seri B dan C Sukuk Mudharabah Berkelanjutan III Tahap I 2022. Pada 18 November 2026, giliran bunga ke-19 Seri A, B, dan C Obligasi Berkelanjutan II Tahap II 2022, serta bagi hasil ke-15 Seri A dan ke-19 Seri B dan C Sukuk Mudharabah Berkelanjutan II Tahap II 2022. Pada 3 Desember 2026, giliran bunga ke-23 Seri A, B, dan C Obligasi Berkelanjutan I Tahap II 2021, serta bagi hasil ke-23 Seri A, B, dan C Sukuk Mudharabah Berkelanjutan I Tahap II 2021. Pada 8 Desember 2026, giliran bunga ke-21 Seri B dan C Obligasi Berkelanjutan II Tahap I 2021, serta bagi hasil ke-21 Seri B dan C Sukuk Mudharabah Berkelanjutan II Tahap I 2021. Terakhir pada 18 Desember 2026, giliran bunga ke-24 Seri A, B, dan C Obligasi Berkelanjutan I Tahap I 2020, serta bagi hasil ke-23 Seri B dan ke-24 Seri C Sukuk Mudharabah Berkelanjutan I Tahap I 2020.",
+   "Dalam suratnya ke OJK, WIKA menjelaskan bahwa sejak pertengahan 2024 kondisi usahanya menurun akibat tergerusnya pangsa pasar konstruksi seiring perubahan fokus dan kebijakan nasional. Perseroan mencatat kontrak baru senilai Rp9,78 triliun pada periode ini, naik dari Rp6,19 triliun pada periode yang sama tahun sebelumnya, dan membukukan kinerja positif di bisnis inti di luar penyertaan pada proyek Kereta Cepat Jakarta Bandung. Namun perbaikan itu disebut belum cukup menutup beban bunga pinjaman dan kerugian tahunan yang ditanggung perseroan akibat penugasan proyek strategis nasional sejak 2016, sehingga WIKA menyatakan membutuhkan waktu serta dukungan seluruh pihak untuk memulihkan kondisi usaha dan keuangannya. Perseroan mengatakan akan terus berkomunikasi secara intensif dengan wali amanat serta pemegang obligasi dan sukuk untuk mencari kesepakatan penyelesaian kewajiban yang mengakomodasi kepentingan semua pihak."
+  ],
+  "fotoAdegan": "Elevated toll road construction site with concrete pillars and tower cranes, workers in hard hats, overcast afternoon light in an Indonesian city",
+  "takeaway": "Laporan ini negatif bagi WIKA karena menunjukkan penundaan pembayaran bunga dan bagi hasil di seluruh lima program obligasi dan sukuk berkelanjutannya, menyusul rapat pemegang obligasi dan sukuk yang berulang kali gagal mencapai kuorum persetujuan sepanjang Oktober 2026. Pos yang langsung tersentuh adalah beban bunga dan arus kas, yaitu uang tunai yang semestinya keluar untuk membayar pemegang obligasi dan sukuk, karena dana itu kini tertahan di kas perseroan sementara liabilitas bunga yang belum dibayar tetap menumpuk di laporan keuangan. Yang perlu dipantau adalah rangkaian lima tanggal jatuh tempo berikutnya, yakni 3 November, 18 November, 3 Desember, 8 Desember, dan 18 Desember 2026, serta apakah WIKA dan wali amanat berhasil menggelar RUPO atau RUPSU baru yang mencapai kuorum sebelum tanggal-tanggal itu tiba.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-gagal-lagi-sukuk-tahap-ii-rp500-m-kandas",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Gagal Lagi, Sukuk Tahap II Rp500 M [Kandas]",
+  "deck": "Pemegang sukuk menolak empat usulan WIKA mengubah syarat Sukuk Mudharabah Tahap II Rp500 miliar, termasuk penundaan bagi hasil dan perubahan jatuh tempo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:10:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f329068f0b_22907d4915.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "restrukturisasi utang",
+   "RUPSU"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) menggelar Rapat Umum Pemegang Sukuk (RUPSU) atas Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap II Tahun 2021 pada Rabu, 28 Oktober 2026, di WIKA Tower 2, Jakarta Timur. Rapat yang difasilitasi PT Bank Mega Tbk selaku wali amanat ini dihadiri pemegang sukuk yang mewakili Rp470,6 miliar atau 94,12 persen dari total sukuk beredar senilai Rp500 miliar, sehingga syarat kuorum kehadiran terpenuhi. WIKA diwakili oleh Direktur Keuangan Mulyadi dan Aji Bramantyojati yang mewakili PT Perusahaan Pengelola Aset (Persero) sebagai konsultan yang diberi kuasa oleh direksi perusahaan.",
+   "Dalam rapat itu, WIKA mengajukan empat usulan perubahan perjanjian perwaliamanatan sukuk ini, yaitu menunda jadwal pembayaran bagi hasil ke-23, mengubah jatuh tempo sukuk, mengubah besaran pendapatan bagi hasil serta nisbah pemegang sukuk, dan mengubah rasio keuangan yang menjadi syarat dalam perjanjian. Untuk usulan pertama, hanya 38,058 persen suara atau setara Rp179,1 miliar yang setuju, sementara 61,942 persen atau Rp291,5 miliar menolak, jauh di bawah syarat minimal 75 persen suara setuju sehingga RUPSU tidak mengambil keputusan. Tiga usulan sisanya nasibnya lebih buruk, hanya 2,784 persen suara atau Rp13,1 miliar yang setuju, sementara 97,216 persen atau Rp457,5 miliar menolak. Tidak ada suara abstain dalam seluruh pemungutan suara ini.",
+   "Dengan hasil tersebut, seluruh syarat dalam perjanjian perwaliamanatan sukuk senilai Rp500 miliar ini tetap berlaku seperti semula, termasuk jadwal pembayaran bagi hasil ke-23 yang semula diminta WIKA untuk ditunda. Rapat ini merupakan bagian dari rangkaian RUPSU dan RUPO WIKA pekan ini atas sejumlah seri obligasi dan sukuk berkelanjutannya, yang sebelumnya juga dilaporkan gagal menyepakati penundaan pembayaran bunga maupun bagi hasil."
+  ],
+  "fotoAdegan": "Construction workers on a large elevated toll road project in Jakarta, cranes and steel beams against an overcast sky.",
+  "takeaway": "Hasil rapat ini negatif bagi WIKA karena untuk kesekian kalinya pemegang sukuk menolak permintaan perusahaan mengatur ulang syarat pembayaran utangnya, kali ini untuk sukuk senilai Rp500 miliar dengan suara setuju yang sangat rendah, hanya 38 persen untuk usulan penundaan bagi hasil dan cuma 2,8 persen untuk tiga usulan lainnya. Yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena dengan ditolaknya penundaan ini WIKA tetap harus menyiapkan dana untuk membayar bagi hasil ke-23 sesuai jadwal semula, padahal usulan itu diajukan justru karena perusahaan diperkirakan kesulitan membayar tepat waktu. Beban yang harus dibayar ke pemegang sukuk juga tidak berubah karena usulan mengubah besaran bagi hasil dan nisbah ikut ditolak, sehingga kewajiban WIKA ke pemegang sukuk tetap sama seperti kontrak awal. Yang perlu dipantau berikutnya adalah apakah WIKA akan menggelar RUPSU ulang untuk mengajukan usulan serupa, dan yang lebih mendesak, apakah perusahaan benar-benar bisa membayar pendapatan bagi hasil ke-23 sesuai jadwal awal yang kini wajib dipenuhi setelah usulan penundaannya kandas.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul",
   "category": "UMKM",
   "title": "KKP [Bagikan] 100 Ribu Benih Lele ke Pembudidaya Bantul",

@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "simp-cetak-laba-rp2-05-triliun-di-9m2026-naik-45",
+  "category": "Aksi Korporasi",
+  "title": "SIMP Cetak Laba [Rp2,05 Triliun] di 9M2026, Naik 45%",
+  "deck": "Laba bersih Salim Ivomas Pratama naik 45 persen secara tahunan ditopang kenaikan harga jual sawit, sementara utang berbunga turun dan ekuitas bertambah.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SIMP",
+   "kinerja keuangan",
+   "CPO",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dd3443965e_572ff18ffe.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indf-core-profit-9m26-naik-11-jadi-rp9-37-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INDF: [Core Profit] 9M26 Naik 11% jadi Rp9,37 Triliun",
+  "deck": "Penjualan neto Indofood tumbuh 12% jadi Rp101,49 triliun pada sembilan bulan pertama 2026, laba usaha naik 15% meski laba bersih tertahan rugi kurs.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDF",
+   "Indofood",
+   "kinerja keuangan",
+   "laporan kuartalan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f3caf9f173_1c248574ec.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-tunda-pembayaran-bunga-obligasi-dan-sukuk-mudharabah",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Tunda] Pembayaran Bunga Obligasi dan Sukuk Mudharabah",
+  "deck": "Setelah RUPO dan RUPSU gagal kuorum pada akhir Oktober 2026, WIKA menunda pembayaran bunga obligasi dan bagi hasil sukuk mudharabah di seluruh seri yang jatuh tempo November-Desember 2026.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "sukuk mudharabah",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dffb763c67_59979da3e6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-gagal-lagi-sukuk-tahap-ii-rp500-m-kandas",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Gagal Lagi, Sukuk Tahap II Rp500 M [Kandas]",
+  "deck": "Pemegang sukuk menolak empat usulan WIKA mengubah syarat Sukuk Mudharabah Tahap II Rp500 miliar, termasuk penundaan bagi hasil dan perubahan jatuh tempo.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "restrukturisasi utang",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f329068f0b_22907d4915.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul",
   "category": "UMKM",
   "title": "KKP [Bagikan] 100 Ribu Benih Lele ke Pembudidaya Bantul",
@@ -6420,69 +6484,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-sektor-kriya-yogyakarta-kemendag-sinergikan-mutu-standardisasi-dan-kekayaan-intelektual-untuk-akselerasi-ekspor",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "icbp-indofood-tambah-saham-jadi-80-56-volatilitas",
-  "category": "Aksi Korporasi",
-  "title": "ICBP: Indofood Tambah Saham Jadi 80,56% [Volatilitas]",
-  "deck": "Menjawab permintaan penjelasan BEI soal volatilitas transaksi, ICBP ungkap Indofood menambah kepemilikan 3,35 juta saham pada 19-21 Oktober 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ICBP",
-   "Indofood",
-   "kepemilikan saham",
-   "buyback"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/957348d987_e022741f7d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sger-siap-lunasi-obligasi-rp273-6-miliar-jatuh-tempo-25-oktober",
-  "category": "Aksi Korporasi",
-  "title": "SGER siap lunasi [obligasi] Rp273,6 miliar jatuh tempo 25 Oktober",
-  "deck": "Sumber Global Energy menyatakan dana pelunasan Obligasi Berkelanjutan I Tahap II 2025 Seri A senilai Rp273,645 miliar sudah siap sebelum jatuh tempo 25 Oktober 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SGER",
-   "obligasi korporasi",
-   "jatuh tempo obligasi",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/81932cbed8_442d6a34f2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-laba-pemilik-melonjak-tapi-arus-kas-operasi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "ADHI: Laba Pemilik Melonjak, tapi Arus Kas Operasi [Negatif]",
-  "deck": "Laba bersih yang menjadi hak pemegang saham Adhi Karya naik tiga kali lipat pada kuartal III-2026, tapi arus kas operasi berbalik negatif dan kas perusahaan menyusut separuh.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "Adhi Karya",
-   "laporan keuangan",
-   "BUMN Karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023202014-64924-0/FinancialStatement-2026-III-ADHI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-divestasi-saham-winner-ke-wika-rekon-rp641-juta",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Divestasi] Saham WINNER ke WIKA Rekon Rp641 Juta",
-  "deck": "WIKA melepas 44,18 persen saham WINNER ke anak usahanya, WIKA Rekon, senilai Rp641 juta sebagai bagian penataan ulang struktur anak usaha BUMN.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "divestasi",
-   "transaksi afiliasi",
-   "BUMN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1a0cb1c43d_efd420f9ad.pdf",
-  "sourceLabel": "IDX"
  }
 ];

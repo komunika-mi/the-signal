@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penyaluran-kredit-program-tembus-rp294-6-triliun",
+  "category": "UMKM",
+  "title": "Penyaluran Kredit Program Tembus [Rp294,6] Triliun",
+  "deck": "Hingga akhir Oktober 2026, penyaluran kredit program pemerintah mencapai Rp294,6 triliun kepada 4,24 juta debitur, melampaui total penyaluran sepanjang 2025 dengan sisa dua bulan.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "KUR",
+   "Kredit Program",
+   "UMKM",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7191/kredit-program-tembus-rp2946-triliun-menko-airlangga-keberhasilan-terlihat-dari-usaha-yang-tumbuh-dan-keluarga-yang-sejahtera",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "kredit-program-pemerintah-capai-rp2-440-triliun-npl-2-13",
+  "category": "UMKM",
+  "title": "Kredit Program Pemerintah Capai Rp2.440 Triliun, NPL [2,13%]",
+  "deck": "Penyaluran kredit program pemerintah sejak 2015 kumulatif capai Rp2.440 triliun lewat 58,1 juta akad, dengan NPL tetap rendah di 2,13 persen per akhir September 2026.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/warung-makan.jpg",
+  "tags": [
+   "KUR",
+   "UMKM",
+   "Kemenko Perekonomian",
+   "Kredit Program"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7192/indonesia-bagikan-praktik-baik-kredit-program-untuk-memperluas-peluang-pembiayaan-umkm",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ekspor-alat-musik-ri-tembus-rp6-2-triliun-di-2026",
+  "category": "Industri",
+  "title": "Ekspor Alat Musik RI Tembus [Rp6,2 Triliun] di 2026",
+  "deck": "Kemendag mencatat ekspor alat musik Indonesia capai US$397,14 juta dalam delapan bulan 2026, sementara ekspansi ke sektor jasa musik seperti lisensi masih tahap awal.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/ekspor-alat-musik-ri-tembus-rp6-2-triliun-di-2026.jpg",
+  "imageV": "mvun5kn6",
+  "tags": [
+   "industri musik",
+   "ekspor",
+   "Kementerian Perdagangan",
+   "KMI 2026"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-optimistis-talenta-musik-indonesia-bersaing-di-pasar-global",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "pola-catat-rugi-rp1-68-miliar-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "POLA Catat [Rugi] Rp1,68 Miliar di Kuartal III 2026",
@@ -6426,55 +6476,6 @@ var ARTICLES = [
    "Ultra Voucher"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5b64cab7e2_e25cbdaa96.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ojk-jatuhkan-denda-rp2-52-triliun-ke-pelanggar-pasar-modal",
-  "category": "Pasar Modal",
-  "title": "OJK Jatuhkan Denda [Rp2,52 Triliun] ke Pelanggar Pasar Modal",
-  "deck": "OJK mencatat total denda Rp2,52 triliun kepada ratusan pelanggar aturan pasar modal hingga 16 Oktober 2026, didominasi tiga kasus besar DSSA, BREN, dan CUAN.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/ojk-jatuhkan-denda-rp2-52-triliun-ke-pelanggar-pasar-modal.jpg",
-  "imageV": "mvkvm8tn",
-  "tags": [
-   "OJK",
-   "pasar modal",
-   "sanksi",
-   "DSSA"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474625-ojk-jatuhkan-denda-total-rp252-triliun-kepada-ratusan-pelanggar-hukum-pasar-modal"
- },
- {
-  "slug": "tgra-ganti-lapkeu-q3-jadi-audited-sinyal-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "TGRA Ganti Lapkeu Q3 Jadi [Audited], Sinyal Rights Issue",
-  "deck": "PT Terregra Asia Energy mengganti laporan keuangan kuartal III 2026 dari versi tak teraudit menjadi teraudit, menyusul rencana aksi korporasi rights issue atau private placement.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "rights issue",
-   "private placement",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/26295308ae_c7204e521e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unsp-catat-dilusi-13-kali-lipat-saat-ekuitas-balik-positif",
-  "category": "Aksi Korporasi",
-  "title": "UNSP Catat [Dilusi] 13 Kali Lipat Saat Ekuitas Balik Positif",
-  "deck": "Ekuitas BSP Plantations (UNSP) berbalik positif Rp2,77 triliun pada September 2026, didorong konversi utang jadi saham yang mendilusi pemegang saham lama sampai 13 kali lipat.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNSP",
-   "Bakrie Sumatera Plantations",
-   "ekuitas",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023170512-64539-0/FinancialStatement-2026-III-UNSP.pdf",
   "sourceLabel": "IDX"
  }
 ];

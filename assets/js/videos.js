@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "wzu2AMYBpVY",
+  "title": "DPRD Surakarta Selesaikan Pembahasan APBD Perubahan 2026",
+  "category": "Makroekonomi",
+  "program": "Yogyakarta",
+  "summary": "DPRD Surakarta merampungkan pembahasan APBD Perubahan 2026 yang kini menunggu evaluasi dari provinsi. DPRD menyoroti kebiasaan pergantian kebijakan di awal tahun yang kerap menghambat proses anggaran daerah.",
+  "takeaway": "Pembahasan APBD Perubahan menggambarkan arah belanja dan prioritas fiskal daerah yang berdampak pada roda ekonomi lokal.",
+  "terbit": "2026-10-30T07:10:13+00:00"
+ },
+ {
+  "id": "_4AR5dvmMMo",
+  "title": "Pertamina Hadirkan Inovasi Energi Berkelanjutan",
+  "category": "Energi",
+  "program": "Bisnis Bareng Orang Hebat",
+  "summary": "Pertamina memperkenalkan sejumlah terobosan di bidang energi berkelanjutan sebagai bagian dari upaya menjaga ketahanan energi nasional.",
+  "takeaway": "Langkah inovasi energi dari BUMN sebesar Pertamina relevan bagi pembaca karena berkaitan dengan ketahanan energi dan daya saing industri nasional.",
+  "terbit": "2026-10-30T07:00:40+00:00"
+ },
+ {
   "id": "KB5IaQ1zUCI",
   "title": "Indonesia-Malaysia Perkuat Kerja Sama Ekonomi Bilateral",
   "category": "Global",

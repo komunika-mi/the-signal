@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "wzu2AMYBpVY",
+  "title": "DPRD Surakarta Selesaikan Pembahasan APBD Perubahan 2026",
+  "category": "Makroekonomi",
+  "program": "Yogyakarta",
+  "summary": "DPRD Surakarta merampungkan pembahasan APBD Perubahan 2026 yang kini menunggu evaluasi dari provinsi. DPRD menyoroti kebiasaan pergantian kebijakan di awal tahun yang kerap menghambat proses anggaran daerah.",
+  "takeaway": "Pembahasan APBD Perubahan menggambarkan arah belanja dan prioritas fiskal daerah yang berdampak pada roda ekonomi lokal."
+ },
+ {
+  "id": "_4AR5dvmMMo",
+  "title": "Pertamina Hadirkan Inovasi Energi Berkelanjutan",
+  "category": "Energi",
+  "program": "Bisnis Bareng Orang Hebat",
+  "summary": "Pertamina memperkenalkan sejumlah terobosan di bidang energi berkelanjutan sebagai bagian dari upaya menjaga ketahanan energi nasional.",
+  "takeaway": "Langkah inovasi energi dari BUMN sebesar Pertamina relevan bagi pembaca karena berkaitan dengan ketahanan energi dan daya saing industri nasional."
+ },
+ {
   "id": "KB5IaQ1zUCI",
   "title": "Indonesia-Malaysia Perkuat Kerja Sama Ekonomi Bilateral",
   "category": "Global",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Kenaikan harga pakan ternak menggerus margin keuntungan peternak ayam, sementara harga ayam di pasaran justru terus merosot.",
   "takeaway": "Menyoroti tekanan biaya produksi yang dihadapi pelaku usaha peternakan skala kecil dan menengah."
- },
- {
-  "id": "b6f9ZYqI49U",
-  "title": "Pakan Ayam Melonjak, Nasib Peternak Dipertaruhkan",
-  "category": "Industri",
-  "program": "Indonesia Business Forum",
-  "summary": "Lonjakan harga pakan ayam menekan margin peternak, sementara harga jual ayam di pasar terus melemah dan membebani keberlangsungan usaha mereka.",
-  "takeaway": "Versi lengkap diskusi yang mengupas dampak kenaikan harga pakan terhadap keberlangsungan usaha peternakan ayam mandiri."
- },
- {
-  "id": "jyS4W0ymdKw",
-  "title": "Ketua Permindo: Monopoli Pakan Ternak Benar Terjadi",
-  "category": "Industri",
-  "program": "Indonesia Business Forum",
-  "summary": "Ketua Permindo mengungkapkan adanya praktik monopoli di industri pakan ternak yang menekan margin peternak ayam, di tengah harga jual ayam yang terus merosot.",
-  "takeaway": "Menyoroti struktur pasar pakan ternak yang dinilai timpang dan dampaknya terhadap keberlangsungan peternak kecil."
  }
 ];

@@ -4,6 +4,46 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "101OL6VclgU",
+  "title": "BTN Luncurkan SuperApps Bale, Permudah Layanan Perbankan Digital",
+  "category": "Perbankan",
+  "program": "Bisnis Bareng Orang Hebat",
+  "summary": "BTN merilis aplikasi bale by BTN yang menyatukan berbagai layanan perbankan dalam satu platform digital sebagai bagian dari transformasi digital perseroan.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan transformasi digital di sektor perbankan nasional."
+ },
+ {
+  "id": "eGCQvlRbAyg",
+  "title": "Rapimnas Kadin 2026: Paparan Menteri Perdagangan dan Perindustrian",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Menteri Perdagangan dan Menteri Perindustrian memaparkan arah kebijakan perdagangan dan industri dalam forum Rapat Pimpinan Nasional Kadin 2026 di Jakarta.",
+  "takeaway": "Memberi gambaran arah kebijakan perdagangan dan industri pemerintah ke depan."
+ },
+ {
+  "id": "9QQau7Ck1FA",
+  "title": "Indonesia Pangkas Pasokan Gas ke Singapura",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah Indonesia memangkas ekspor gas bumi ke Singapura sebesar 31 juta kaki kubik standar per hari mulai 24 Oktober 2026.",
+  "takeaway": "Berdampak pada hubungan dagang energi regional dan pendapatan ekspor gas nasional."
+ },
+ {
+  "id": "_24EX98CgXY",
+  "title": "Kadin Bahas Sejumlah Isu Penting Ekonomi di Rapimnas 2026",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Kadin Indonesia menggelar Rapat Pimpinan Nasional 2026 pada 29-30 Oktober di Jakarta untuk membahas penguatan ekonomi dan kerja sama dunia usaha.",
+  "takeaway": "Menjadi indikator arah kolaborasi pemerintah dan pelaku usaha dalam penguatan ekonomi nasional."
+ },
+ {
+  "id": "ojlE5oMRsTU",
+  "title": "Menteri Bahlil Dipanggil Presiden Prabowo Bahas Hilirisasi Industri",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Presiden Prabowo Subianto memanggil Menteri Koordinator Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia untuk membahas hilirisasi industri nasional.",
+  "takeaway": "Menyoroti arah kebijakan hilirisasi yang menjadi salah satu fokus ekonomi pemerintah saat ini."
+ },
+ {
   "id": "wzu2AMYBpVY",
   "title": "DPRD Surakarta Selesaikan Pembahasan APBD Perubahan 2026",
   "category": "Makroekonomi",
@@ -442,45 +482,5 @@ var VIDEOS = [
   "program": "Breaking News",
   "summary": "Presiden Prabowo Subianto menghadiri Rapat Koordinasi Nasional Tim Percepatan Akses Keuangan Daerah (TPAKD) 2026 yang membahas penguatan akses pembiayaan di tingkat daerah.",
   "takeaway": "Rakornas TPAKD relevan bagi pembaca ekonomi karena menyangkut kebijakan inklusi keuangan dan akses pembiayaan daerah yang berdampak langsung pada pelaku UMKM."
- },
- {
-  "id": "u9tPgVdAUi4",
-  "title": "Presiden Prabowo Hadiri Rakornas TPAKD 2026 di JIExpo Jakarta",
-  "category": "Perbankan",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto menghadiri langsung Rakornas Tim Percepatan Akses Keuangan Daerah (TPAKD) 2026 di Grand Ballroom Convention JIExpo Jakarta.",
-  "takeaway": "Forum ini penting bagi pembaca ekonomi karena membahas langkah konkret memperluas akses keuangan daerah yang menyokong pertumbuhan UMKM dan investasi lokal."
- },
- {
-  "id": "d5-NqfD10nA",
-  "title": "Gubes FHUI: Koperasi Jangan Sampai Mematikan Badan Usaha Lain",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Guru besar Fakultas Hukum Universitas Indonesia mengingatkan bahwa keberadaan koperasi tidak boleh sampai mematikan badan usaha lain, dalam konteks evaluasi dua tahun pemerintahan Presiden Prabowo Subianto.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut arah kebijakan koperasi dan dampaknya terhadap iklim usaha serta pelaku UMKM."
- },
- {
-  "id": "4ACwZYoDxu0",
-  "title": "Koperasi Desa Merah Putih Gerakkan Ekonomi Pesisir",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Setahun berjalan, Koperasi Desa Merah Putih di kawasan pesisir memanfaatkan potensi laut untuk membuka unit usaha baru dan menggerakkan ekonomi desa nelayan.",
-  "takeaway": "Menunjukkan bagaimana koperasi desa berperan nyata dalam menggerakkan ekonomi UMKM di tingkat lokal."
- },
- {
-  "id": "jQ8ebtyR5IU",
-  "title": "Jusuf Kalla: Transisi Energi Hijau Tidak Mudah",
-  "category": "Energi",
-  "program": "Kabar Hari Ini",
-  "summary": "Dalam kuliah umum di Amerika Serikat, Jusuf Kalla menegaskan peralihan ke energi hijau tak sekadar mengganti batu bara dengan panel surya, karena pasokan listrik harus tetap terjaga.",
-  "takeaway": "Pandangan tokoh senior ini relevan bagi pembaca yang mengikuti arah kebijakan energi dan transisi industri di Indonesia."
- },
- {
-  "id": "TL0RLrQN-QA",
-  "title": "Harga Pakan Naik, Peternak Ayam Tercekik",
-  "category": "Industri",
-  "program": "Indonesia Business Forum",
-  "summary": "Kenaikan harga pakan ternak menggerus margin keuntungan peternak ayam, sementara harga ayam di pasaran justru terus merosot.",
-  "takeaway": "Menyoroti tekanan biaya produksi yang dihadapi pelaku usaha peternakan skala kecil dan menengah."
  }
 ];

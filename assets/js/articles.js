@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "transaksi-umkm-bisa-ekspor-tembus-us-360-juta-per-september",
+  "category": "UMKM",
+  "title": "Transaksi UMKM Bisa Ekspor [Tembus] US$360 Juta per September",
+  "deck": "Mendag Budi Santoso melaporkan nilai transaksi program UMKM Bisa Ekspor naik tajam dibanding capaian sepanjang 2024, lewat jaringan atase dan ITPC di 33 negara.",
+  "image": "assets/img/transaksi-umkm-bisa-ekspor-tembus-us-360-juta-per-september.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T16:27:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475791-mendag-transaksi-program-umkm-bisa-ekspor-tembus-360-juta-dolar-as-per-september-2026",
+  "tags": [
+   "UMKM",
+   "ekspor",
+   "Kemendag",
+   "Kadin"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso melaporkan nilai transaksi dari program UMKM Bisa Ekspor sepanjang Januari hingga September 2026 mencapai US$360 juta. Angka ini penting karena menunjukkan seberapa jauh pemerintah berhasil membuka jalur pasar luar negeri bagi pelaku usaha kecil yang selama ini kesulitan menemukan pembeli sendiri.",
+   "Program ini disampaikan Budi dalam Rapat Pimpinan Nasional Kadin Indonesia 2026 di Jakarta, Jumat (30/10/2026), sebagai salah satu dari empat skema dalam payung besar Lokal untuk Global milik Kementerian Perdagangan. Tiga program lainnya adalah Desa Bisa Ekspor, Kampus Preneur, dan Pra-Kemitraan.",
+   "Secara teknis, UMKM binaan Kadin atau Himpunan Bank Milik Negara mempresentasikan produknya ke Atase Perdagangan dan Indonesian Trade Promotion Center yang tersebar di 33 negara dengan total 46 perwakilan. Perwakilan itu bertugas mencarikan calon pembeli, lalu mempertemukan UMKM langsung dengan buyer tersebut. Sebagai perbandingan, nilai transaksi sepanjang 2024 tercatat US$134 juta, dengan 60 persen pelaku usahanya adalah UMKM yang belum pernah ekspor sebelumnya.",
+   "Budi mengajak pengurus Kadin di daerah untuk ikut memanfaatkan program ini, sambil mengakui banyak anggota Kadin daerah belum mengetahui keberadaannya."
+  ],
+  "fotoAdegan": "Small workshop staff folding and boxing finished handicraft products for shipment near an open loading dock, daylight streaming in",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/30/6ae461db9a9a9-menteri-perdagangan-budi-santoso-di-rapimnas-kadin-2026-jumat-30102026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah lompatan nilai transaksi program ini, dari US$134 juta sepanjang 2024 menjadi US$360 juta hanya dalam sembilan bulan 2026. Yang kena dampak paling langsung adalah UMKM binaan Kadin dan Himbara, terutama yang belum pernah menembus pasar ekspor, sebab merekalah mayoritas peserta program selama ini. Ajakan Mendag kepada Kadin daerah yang disertai pengakuan bahwa program ini belum banyak dikenal di luar Jakarta menunjukkan arah kebijakan sedang bergeser dari mempertahankan capaian ke memperluas jangkauan ke daerah. Yang akan menentukan apakah perluasan ini benar terjadi adalah data resmi akhir tahun 2026, termasuk apakah jumlah daerah dan UMKM baru yang ikut program ini bertambah dibanding tahun sebelumnya.",
+  "imageV": "mvute6hf"
+ },
+ {
+  "slug": "menperin-industri-ri-tumbuh-5-32-persen-bukan-deindustrialisasi",
+  "category": "Industri",
+  "title": "Menperin: Industri RI Tumbuh [5,32] Persen, Bukan Deindustrialisasi",
+  "deck": "Menteri Perindustrian Sarmuji membantah narasi deindustrialisasi, menyebut sektor industri tumbuh melebihi ekonomi nasional sejak akhir 2025.",
+  "image": "assets/img/menperin-industri-ri-tumbuh-5-32-persen-bukan-deindustrialisasi.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T16:21:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475790-menperin-sarmuji-bukan-deindustrialisasi-sektor-industri-indonesia-justru-tumbuh-532-persen-di-atas-ekonomi-nasional",
+  "tags": [
+   "menteri perindustrian",
+   "sarmuji",
+   "kadin",
+   "ekonomi"
+  ],
+  "body": [
+   "Menteri Perindustrian Sarmuji menegaskan sektor industri nasional tidak sedang melemah seperti yang dikhawatirkan banyak pihak lewat istilah deindustrialisasi. Dalam Rapat Pimpinan Nasional Kadin Indonesia 2026 di Jakarta, Jumat (30/10/2026), ia menyebut data resmi justru memperlihatkan industri pengolahan tumbuh lebih cepat dibanding ekonomi nasional secara keseluruhan. Pernyataan ini penting karena kekhawatiran soal deindustrialisasi kerap dikaitkan dengan ancaman hilangnya lapangan kerja manufaktur dan menyusutnya kontribusi pabrik terhadap perekonomian.",
+   "Berdasarkan paparannya, industri pengolahan nonmigas tumbuh 5,32 persen pada kuartal II 2026, sedikit di atas pertumbuhan ekonomi nasional yang tercatat 5,29 persen. Sepanjang 2025, pertumbuhan industri juga lebih tinggi yakni 5,3 persen dibanding 5,11 persen pertumbuhan ekonomi nasional. Sarmuji menyebut ini sebagai hal yang tidak biasa, sebab selama ini industri biasanya tumbuh sedikit di bawah ekonomi nasional, dan posisi itu baru berbalik sejak akhir 2025.",
+   "Dari sisi kontribusi ekonomi, industri pengolahan menyumbang Rp1.102,88 triliun terhadap Produk Domestik Bruto dan menguasai 38,98 persen dari seluruh realisasi investasi nasional. Pada Agustus 2026, ekspor dari sektor ini mencapai US$159,55 miliar atau 82,40 persen dari total nilai ekspor nasional. Dari sisi ketenagakerjaan, sektor ini menyerap 19,98 juta pekerja hingga Mei 2026.",
+   "Sarmuji juga menyinggung Indeks Kepercayaan Industri yang naik dari 51,9 pada September menjadi 53,77 pada Oktober 2026, serta Purchasing Managers' Index manufaktur yang berada di level 52,1 pada September 2026. Ia menjelaskan bahwa angka di atas 50 pada kedua indeks tersebut menandakan industri sedang berekspansi, bukan mengalami kontraksi, dan menurutnya sejalan dengan data Bank Indonesia."
+  ],
+  "fotoAdegan": "Factory workers monitoring production line machinery inside a large manufacturing plant, overhead lighting, Indonesia industrial zone",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/30/6ae45fb89413b-menteri-perindustrian-sarmuji-saat-pemaran-kondisi-industri-dalam-negeri-di-rapimnas-kadin-2026-jumat-30102026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan baru, melainkan cara pemerintah membaca tren: Menteri Perindustrian menunjukkan bahwa pertumbuhan industri pengolahan sudah dua periode beruntun melampaui pertumbuhan ekonomi nasional, yaitu 5,3 persen berbanding 5,11 persen sepanjang 2025 dan 5,32 persen berbanding 5,29 persen pada kuartal II 2026, situasi yang menurutnya baru terjadi lagi setelah sekitar 12 tahun industri biasanya tumbuh di bawah rata-rata ekonomi. Angka ini dipakai untuk membalah narasi deindustrialisasi, yaitu kekhawatiran bahwa pabrik-pabrik dalam negeri menyusut dan kalah saing. Pihak yang paling berkepentingan dengan narasi ini adalah pelaku industri manufaktur dan pekerjanya, sekitar 19,98 juta orang per Mei 2026, karena tudingan deindustrialisasi biasanya identik dengan ancaman PHK dan tutupnya pabrik. Indeks Kepercayaan Industri yang naik ke 53,77 dan PMI manufaktur di 52,1, dua ukuran yang di atas angka 50 berarti pabrik-pabrik sedang menambah produksi bukan menguranginya, memang sejalan dengan klaim bahwa sektor ini sedang membesar. Namun semua angka ini masih berbasis data kuartal II dan semester awal 2026, sehingga arah sebenarnya baru akan lebih jelas saat Badan Pusat Statistik merilis pertumbuhan ekonomi kuartal III 2026, yang akan menunjukkan apakah keunggulan industri atas ekonomi nasional ini bertahan atau cuma sementara.",
+  "imageV": "mvute6vc"
+ },
+ {
   "slug": "amor-catat-laba-naik-17-di-fy2025-26-dividen-tumbuh-10",
   "category": "Aksi Korporasi",
   "title": "AMOR Catat [Laba] Naik 17% di FY2025/26, Dividen Tumbuh 10%",
@@ -291,7 +345,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar jumlah dana, tapi bentuk programnya: KUR yang dulu jadi satu skema tunggal kini dipecah jadi lima jalur berbeda, termasuk kredit perumahan bertarget Rp50 triliun dan kredit khusus perempuan prasejahtera senilai maksimal Rp15 juta berbunga 8 persen tanpa jaminan. Yang kena dampak paling langsung adalah pelaku usaha mikro dan kecil, termasuk calon pekerja migran dan pengembang rumah bersubsidi, lewat bank-bank milik negara, Pegadaian, dan PNM yang jadi penyalurnya. Arahnya terlihat bergeser dari sekadar memperbanyak jumlah peminjam ke membagi kredit berdasarkan kelompok sasaran yang lebih spesifik, sejalan dengan peluncuran Dewan Nasional Kesejahteraan Keuangan oleh Presiden Prabowo Subianto pada 22 Oktober 2026 yang mengalihkan fokus dari sekadar akses menuju kualitas hidup keuangan keluarga. Yang akan memastikan arah ini benar-benar berjalan adalah apakah penyaluran Kredit Program Perumahan mendekati target Rp50 triliun pada akhir tahun, serta aturan turunan dari dewan baru tersebut yang bentuknya belum dijelaskan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "kredit-program-pemerintah-capai-rp2-440-triliun-npl-2-13",
@@ -319,7 +373,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari forum ini adalah bertambahnya instrumen kredit bersubsidi pemerintah menjadi lima jenis, dengan Kredit Perempuan Prasejahtera (KPPS) yang disebut sedang memasuki tahap peluncuran, melengkapi KUR, kredit alat pertanian, kredit industri padat karya, dan kredit perumahan. Yang berpotensi terdampak adalah perempuan dari kelompok prasejahtera yang sebelumnya mungkin belum masuk kriteria KUR biasa, sementara pelaku usaha mikro tetap jadi sasaran utama karena menyumbang 96,7 persen dari 56,7 juta UMKM yang tercatat. Pola yang terlihat adalah pemerintah bergerak dari satu program payung besar, yaitu KUR, menuju rangkaian kredit yang makin terpecah menurut kelompok sasaran seperti petani, pekerja industri padat karya, dan kini perempuan prasejahtera, ketimbang sekadar memperbesar KUR itu sendiri. Yang akan memastikan arah ini adalah detail peluncuran resmi KPPS, termasuk besaran plafon dan bunga, yang belum diumumkan dalam siaran pers ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ekspor-alat-musik-ri-tembus-rp6-2-triliun-di-2026",

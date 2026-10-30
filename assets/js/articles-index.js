@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "transaksi-umkm-bisa-ekspor-tembus-us-360-juta-per-september",
+  "category": "UMKM",
+  "title": "Transaksi UMKM Bisa Ekspor [Tembus] US$360 Juta per September",
+  "deck": "Mendag Budi Santoso melaporkan nilai transaksi program UMKM Bisa Ekspor naik tajam dibanding capaian sepanjang 2024, lewat jaringan atase dan ITPC di 33 negara.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/transaksi-umkm-bisa-ekspor-tembus-us-360-juta-per-september.jpg",
+  "imageV": "mvute6hf",
+  "tags": [
+   "UMKM",
+   "ekspor",
+   "Kemendag",
+   "Kadin"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475791-mendag-transaksi-program-umkm-bisa-ekspor-tembus-360-juta-dolar-as-per-september-2026"
+ },
+ {
+  "slug": "menperin-industri-ri-tumbuh-5-32-persen-bukan-deindustrialisasi",
+  "category": "Industri",
+  "title": "Menperin: Industri RI Tumbuh [5,32] Persen, Bukan Deindustrialisasi",
+  "deck": "Menteri Perindustrian Sarmuji membantah narasi deindustrialisasi, menyebut sektor industri tumbuh melebihi ekonomi nasional sejak akhir 2025.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/menperin-industri-ri-tumbuh-5-32-persen-bukan-deindustrialisasi.jpg",
+  "imageV": "mvute6vc",
+  "tags": [
+   "menteri perindustrian",
+   "sarmuji",
+   "kadin",
+   "ekonomi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475790-menperin-sarmuji-bukan-deindustrialisasi-sektor-industri-indonesia-justru-tumbuh-532-persen-di-atas-ekonomi-nasional"
+ },
+ {
   "slug": "amor-catat-laba-naik-17-di-fy2025-26-dividen-tumbuh-10",
   "category": "Aksi Korporasi",
   "title": "AMOR Catat [Laba] Naik 17% di FY2025/26, Dividen Tumbuh 10%",
@@ -6444,38 +6478,6 @@ var ARTICLES = [
    "laba bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023184832-64561-0/FinancialStatement-2026-III-VTNY.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "viva-jelaskan-ke-bei-pmthmetd-dilusi-saham-72-35",
-  "category": "Aksi Korporasi",
-  "title": "VIVA Jelaskan ke BEI, PMTHMETD Dilusi Saham [72,35%]",
-  "deck": "VIVA menjawab penjelasan BEI soal PMTHMETD Rp1,72 triliun ke pihak terafiliasi HAJ dan JSM, dengan dilusi 72,35 persen dan free float turun ke 15,04 persen.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VIVA",
-   "PMTHMETD",
-   "PKPU",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e1c5631e50_4105b21005.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indf-siapkan-rp750-miliar-untuk-buyback-saham",
-  "category": "Aksi Korporasi",
-  "title": "INDF Siapkan Rp750 Miliar untuk [Buyback] Saham",
-  "deck": "Indofood menyiapkan dana internal hingga Rp750 miliar untuk membeli kembali sahamnya sendiri lewat bursa mulai 26 Oktober hingga 31 Desember 2026, memanfaatkan aturan OJK soal volatilitas pasar.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDF",
-   "buyback saham",
-   "Indofood",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5420d68012_2245af1070.pdf",
   "sourceLabel": "IDX"
  }
 ];

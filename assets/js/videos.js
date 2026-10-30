@@ -2,6 +2,51 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "101OL6VclgU",
+  "title": "BTN Luncurkan SuperApps Bale, Permudah Layanan Perbankan Digital",
+  "category": "Perbankan",
+  "program": "Bisnis Bareng Orang Hebat",
+  "summary": "BTN merilis aplikasi bale by BTN yang menyatukan berbagai layanan perbankan dalam satu platform digital sebagai bagian dari transformasi digital perseroan.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan transformasi digital di sektor perbankan nasional.",
+  "terbit": "2026-10-30T10:00:03+00:00"
+ },
+ {
+  "id": "eGCQvlRbAyg",
+  "title": "Rapimnas Kadin 2026: Paparan Menteri Perdagangan dan Perindustrian",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Menteri Perdagangan dan Menteri Perindustrian memaparkan arah kebijakan perdagangan dan industri dalam forum Rapat Pimpinan Nasional Kadin 2026 di Jakarta.",
+  "takeaway": "Memberi gambaran arah kebijakan perdagangan dan industri pemerintah ke depan.",
+  "terbit": "2026-10-30T08:35:03+00:00"
+ },
+ {
+  "id": "9QQau7Ck1FA",
+  "title": "Indonesia Pangkas Pasokan Gas ke Singapura",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah Indonesia memangkas ekspor gas bumi ke Singapura sebesar 31 juta kaki kubik standar per hari mulai 24 Oktober 2026.",
+  "takeaway": "Berdampak pada hubungan dagang energi regional dan pendapatan ekspor gas nasional.",
+  "terbit": "2026-10-30T09:18:27+00:00"
+ },
+ {
+  "id": "_24EX98CgXY",
+  "title": "Kadin Bahas Sejumlah Isu Penting Ekonomi di Rapimnas 2026",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Kadin Indonesia menggelar Rapat Pimpinan Nasional 2026 pada 29-30 Oktober di Jakarta untuk membahas penguatan ekonomi dan kerja sama dunia usaha.",
+  "takeaway": "Menjadi indikator arah kolaborasi pemerintah dan pelaku usaha dalam penguatan ekonomi nasional.",
+  "terbit": "2026-10-30T09:09:19+00:00"
+ },
+ {
+  "id": "ojlE5oMRsTU",
+  "title": "Menteri Bahlil Dipanggil Presiden Prabowo Bahas Hilirisasi Industri",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Presiden Prabowo Subianto memanggil Menteri Koordinator Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia untuk membahas hilirisasi industri nasional.",
+  "takeaway": "Menyoroti arah kebijakan hilirisasi yang menjadi salah satu fokus ekonomi pemerintah saat ini.",
+  "terbit": "2026-10-30T08:54:30+00:00"
+ },
+ {
   "id": "wzu2AMYBpVY",
   "title": "DPRD Surakarta Selesaikan Pembahasan APBD Perubahan 2026",
   "category": "Makroekonomi",

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kadin-rumuskan-tiga-strategi-jaga-bisnis-dan-ekspor",
+  "category": "Makroekonomi",
+  "title": "Kadin Rumuskan [Tiga] Strategi Jaga Bisnis dan Ekspor",
+  "deck": "Kadin Indonesia mengusulkan tiga langkah menjaga daya beli, pasokan bahan baku, dan kepastian berusaha di tengah ekonomi global yang makin tidak menentu.",
+  "image": "assets/img/kadin-rumuskan-tiga-strategi-jaga-bisnis-dan-ekspor.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T04:16:02+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475851-ekonomi-global-makin-menantang-kadin-ungkap-3-strategi-agar-bisnis-indonesia-tetap-bertahan-dan-ekspor-tumbuh",
+  "tags": [
+   "Kadin Indonesia",
+   "ekspor",
+   "ekonomi global",
+   "daya saing usaha"
+  ],
+  "body": [
+   "Kamar Dagang dan Industri Indonesia menyusun tiga rekomendasi bagi dunia usaha untuk menghadapi tekanan ekonomi global yang dinilai semakin berat. Rekomendasi ini disampaikan Ketua Umum Kadin Indonesia Anindya Bakrie usai Rapat Pimpinan Nasional Kadin 2026 di Jakarta, Jumat, 30 Oktober 2026. Menurut Kadin, perubahan permintaan pasar, gangguan rantai pasok, dan persaingan dagang internasional ikut menekan ongkos produksi dan kemampuan perusahaan bertahan, sehingga daya tahan ekonomi tidak bisa hanya bersandar pada kebijakan pemerintah, tapi juga kesiapan pelaku usaha sendiri.",
+   "Tiga fokus yang diusung Kadin adalah memperkuat bantalan ekonomi, menjaga ketahanan bahan baku, dan memastikan kepastian berusaha, dengan tujuan akhir mendorong daya saing ekspor Indonesia di pasar global. Ketiganya disebut saling terkait: ketika daya beli masyarakat melemah, penyerapan produk ikut tertekan. Jika pasokan bahan baku terganggu, kegiatan produksi otomatis terdampak, dan ketika regulasi tidak pasti, pelaku usaha cenderung menahan diri untuk memperluas investasi.",
+   "Dari ketiga strategi itu, Anindya menjelaskan secara rinci hanya strategi pertama, yakni memperkuat bantalan ekonomi. Ia menyebut tiga elemen yang perlu dijaga, yaitu arus kas dunia usaha, kondisi fiskal pemerintah pusat dan daerah, serta daya beli rumah tangga. Arus kas yang sehat disebut membantu perusahaan memenuhi kebutuhan operasional dan membayar kewajiban, fiskal yang terjaga memberi ruang bagi pemerintah menjalankan program pembangunan, sementara daya beli yang stabil menjaga permintaan sehingga usaha rakyat maupun industri tetap punya peluang mempertahankan penjualan. \"Bantalan itu apa? Satu, menjaga arus kas usaha dan tentunya juga negara dan juga fiskal daerah di dalamnya, dan daya beli rumah tangga sehingga usaha rakyat dan industri penyerapannya bisa kuat,\" kata Anindya.",
+   "Dua strategi lainnya, yakni ketahanan bahan baku dan kepastian berusaha, baru disebutkan sebagai fokus tanpa dijelaskan langkah konkretnya dalam kesempatan tersebut."
+  ],
+  "fotoAdegan": "Workers loading export cargo containers onto a ship at a busy Indonesian seaport, cranes overhead, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/31/6ae4defee3193-ekonomi-global-makin-menantang-kadin-ungkap-3-strategi-agar-bisnis-indonesia-tetap-bertahan-dan-ekspor-tumbuh_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari pernyataan ini baru sebatas daftar fokus: Kadin menyorot tiga area, tapi hanya satu, yaitu menjaga arus kas usaha, fiskal pemerintah, dan daya beli rumah tangga, yang diuraikan mekanismenya. Dua lainnya, ketahanan bahan baku dan kepastian berusaha, bagi pelaku usaha ini jelas relevan karena langsung menyangkut biaya produksi dan keberanian berinvestasi, namun Kadin belum menjelaskan langkah konkretnya. Pihak yang kena dampak langsung dari rekomendasi ini adalah pelaku usaha, pemerintah pusat dan daerah yang anggarannya disebut harus tetap sehat, serta rumah tangga sebagai penentu daya beli. Yang masih kurang untuk bisa membaca ke mana arah usulan ini bergerak adalah rincian kebijakan konkret, misalnya apakah menjaga arus kas berarti usul relaksasi kredit atau insentif pajak, dan apakah ketahanan bahan baku berarti usul pembatasan ekspor bahan mentah atau subsidi impor. Yang perlu dipantau adalah dokumen resmi hasil Rapimnas Kadin 2026 atau pernyataan lanjutan pengurus Kadin ke pemerintah yang biasanya menyusul setelah forum semacam ini.",
+  "imageV": "mvvl6yuz"
+ },
+ {
   "slug": "smma-catat-laba-turun-25-jadi-rp2-33-triliun-per-september-2026",
   "category": "Aksi Korporasi",
   "title": "SMMA Catat [Laba] Turun 25% jadi Rp2,33 Triliun per September 2026",

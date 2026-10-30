@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kadin-rumuskan-tiga-strategi-jaga-bisnis-dan-ekspor",
+  "category": "Makroekonomi",
+  "title": "Kadin Rumuskan [Tiga] Strategi Jaga Bisnis dan Ekspor",
+  "deck": "Kadin Indonesia mengusulkan tiga langkah menjaga daya beli, pasokan bahan baku, dan kepastian berusaha di tengah ekonomi global yang makin tidak menentu.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/kadin-rumuskan-tiga-strategi-jaga-bisnis-dan-ekspor.jpg",
+  "imageV": "mvvl6yuz",
+  "tags": [
+   "Kadin Indonesia",
+   "ekspor",
+   "ekonomi global",
+   "daya saing usaha"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475851-ekonomi-global-makin-menantang-kadin-ungkap-3-strategi-agar-bisnis-indonesia-tetap-bertahan-dan-ekspor-tumbuh"
+ },
+ {
   "slug": "smma-catat-laba-turun-25-jadi-rp2-33-triliun-per-september-2026",
   "category": "Aksi Korporasi",
   "title": "SMMA Catat [Laba] Turun 25% jadi Rp2,33 Triliun per September 2026",
@@ -6462,22 +6479,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026120419-64812-0/FinancialStatement-2026-III-BLES.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kaii-angkat-adityo-haryo-bimo-jadi-komisaris-baru",
-  "category": "Aksi Korporasi",
-  "title": "KAII Angkat Adityo Haryo Bimo Jadi [Komisaris] Baru",
-  "deck": "RUPS PT Kereta Api Indonesia (Persero) mengangkat Adityo Haryo Bimo sebagai komisaris baru efektif 23 Oktober 2026, menambah jumlah komisaris menjadi sembilan orang.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KAII",
-   "Kereta Api Indonesia",
-   "Komisaris",
-   "Perubahan Pengurus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/68c70dadfd_137b86c0cd.pdf",
   "sourceLabel": "IDX"
  }
 ];

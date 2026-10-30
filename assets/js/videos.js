@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "6751r7rti5E",
+  "title": "BP Batam Raih Penghargaan atas Optimalisasi Investasi dan Infrastruktur",
+  "category": "BUMN",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "BP Batam mendapat penghargaan atas keberhasilan mengoptimalkan investasi dan infrastruktur, seiring klaim pertumbuhan ekonomi di kawasan yang dikelolanya.",
+  "takeaway": "Relevan bagi pembaca karena menyoroti kinerja badan pengelola kawasan ekonomi strategis dalam menarik investasi.",
+  "terbit": "2026-10-30T22:00:03+00:00"
+ },
+ {
+  "id": "_JaeSGQ_Su4",
+  "title": "Program Makassar Berjasa Lindungi Pekerja Rentan dengan Jaminan Sosial",
+  "category": "Ketenagakerjaan",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "Pemkot Makassar menjalankan program Makassar Berjasa, yakni pemberian jaminan sosial bagi pekerja rentan di kota tersebut.",
+  "takeaway": "Penting bagi pembaca karena menunjukkan upaya perlindungan sosial bagi pekerja informal yang selama ini minim jaminan.",
+  "terbit": "2026-10-30T18:00:08+00:00"
+ },
+ {
   "id": "aekCKMkfGo8",
   "title": "Kinerja Ekspor Terus Bersinar, Indonesia Punya Prospek Cerah",
   "category": "Makroekonomi",

@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "6751r7rti5E",
+  "title": "BP Batam Raih Penghargaan atas Optimalisasi Investasi dan Infrastruktur",
+  "category": "BUMN",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "BP Batam mendapat penghargaan atas keberhasilan mengoptimalkan investasi dan infrastruktur, seiring klaim pertumbuhan ekonomi di kawasan yang dikelolanya.",
+  "takeaway": "Relevan bagi pembaca karena menyoroti kinerja badan pengelola kawasan ekonomi strategis dalam menarik investasi."
+ },
+ {
+  "id": "_JaeSGQ_Su4",
+  "title": "Program Makassar Berjasa Lindungi Pekerja Rentan dengan Jaminan Sosial",
+  "category": "Ketenagakerjaan",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "Pemkot Makassar menjalankan program Makassar Berjasa, yakni pemberian jaminan sosial bagi pekerja rentan di kota tersebut.",
+  "takeaway": "Penting bagi pembaca karena menunjukkan upaya perlindungan sosial bagi pekerja informal yang selama ini minim jaminan."
+ },
+ {
   "id": "aekCKMkfGo8",
   "title": "Kinerja Ekspor Terus Bersinar, Indonesia Punya Prospek Cerah",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Menteri Investasi Bahlil Lahadalia, Menteri Pertanian Amran Sulaiman, dan OJK memaparkan capaian sektor ekonomi selama dua tahun pemerintahan Presiden Prabowo Subianto.",
   "takeaway": "Paparan ini memberi gambaran kinerja ekonomi pemerintah menjelang evaluasi pertengahan periode."
- },
- {
-  "id": "Moq6F0RxIe0",
-  "title": "Bahlil Tanggapi Rencana Pemangkasan Ekspor Gas ke Singapura",
-  "category": "Energi",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri ESDM Bahlil Lahadalia merespons pernyataan PM Singapura Lawrence Wong terkait kemungkinan pemangkasan ekspor gas Indonesia ke Singapura.",
-  "takeaway": "Isu ini relevan bagi pembaca karena menyangkut keamanan pasokan energi dan hubungan dagang gas antarnegara."
- },
- {
-  "id": "3wH-XdBnRNw",
-  "title": "Munas Ke-7 Forum Serikat Pekerja Kimia dan Pertambangan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Utama",
-  "summary": "Musyawarah Nasional VII Federasi Serikat Pekerja Kimia, Energi, Pertambangan, Minyak, Gas Bumi dan Umum (FSP KEP) digelar pada 25-27 Oktober 2026 di Menara Peninsula Hotel.",
-  "takeaway": "Forum ini relevan bagi pembaca ekonomi karena membahas arah ketenagakerjaan di sektor energi dan pertambangan yang menjadi penyokong utama perekonomian nasional."
  }
 ];

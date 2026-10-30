@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-29T03:00:05.003+07:00",
+ "diperbarui": "2026-10-31T02:39:20.862+07:00",
  "entri": [
+  {
+   "id": "2026-10-30-3",
+   "edisi": "2026-10-30",
+   "benang": "Laba besar, tapi sebagian disokong pos sekali waktu",
+   "klaim": "Sejumlah lonjakan laba kuartal ini sebagian besar disokong pos nonoperasional sekali waktu, bukan perbaikan bisnis inti, sehingga angka laba di permukaan perlu dibaca lebih dalam untuk melihat sumbernya.",
+   "penanda": "Rencana Unilever Indonesia mengaudit penuh, bukan sekadar menelaah terbatas, laporan keuangan interim kuartal III-nya",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "disetor paling lambat 31 Desember 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-30-2",
+   "edisi": "2026-10-30",
+   "benang": "Sokongan harga sawit mulai mengecil memasuki kuartal IV",
+   "klaim": "Pertumbuhan laba emiten sawit berikutnya akan lebih mengandalkan volume dan efisiensi ketimbang harga jual, karena sokongan harga CPO yang menopang laba kuartal ketiga mulai mengecil begitu kuartal keempat dimulai.",
+   "penanda": "Penetapan harga referensi CPO untuk Desember oleh Kementerian Perdagangan",
+   "tenggat": "2026-11-05",
+   "tenggatLabel": "awal bulan depan",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-10-30-1",
+   "edisi": "2026-10-30",
+   "benang": "Beban bunga jadi penggerus utama laba, bukan cuma kas",
+   "klaim": "Beban bunga yang terus membesar akan tetap menjadi penggerus utama penurunan laba emiten lintas sektor pada kuartal-kuartal mendatang, ditandai oleh kemungkinan makin banyak emiten menyusul menunda pembayaran utang seperti WIKA, kecuali laba kuartal IV mulai membaik seiring pelonggaran suku bunga.",
+   "penanda": "Apakah emiten lain menyusul menunda pembayaran utang pada kuartal mendatang, atau laba kuartal IV mulai membaik seiring pelonggaran suku bunga",
+   "tenggat": null,
+   "tenggatLabel": "kuartal mendatang / laba kuartal IV",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-28-3",
    "edisi": "2026-10-28",
@@ -806,8 +839,13 @@ var RAPOR = {
    "penanda": "Laporan keuangan kuartal III yang mulai terbit Oktober, sebagai penanda apakah kekuatan arus kas ini juga tercermin di laba operasional",
    "tenggat": "2026-10-31",
    "tenggatLabel": "laporan keuangan kuartal III yang mulai terbit Oktober",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "tlkm-cetak-laba-rp14-4-triliun-di-kuartal-iii-buyback-naik-tajam",
+    "judul": "TLKM Cetak Laba Rp14,4 Triliun di Kuartal III, Buyback Naik Tajam",
+    "tanggal": "30 Oktober 2026",
+    "alasan": "Laporan kuartal III TLKM menunjukkan buyback naik tajam, tetapi laba usaha inti hanya hampir stabil dan laba bersih ke pemegang saham justru tergerus, sehingga kekuatan arus kas/buyback itu tidak tercermin pada laba operasional seperti yang diklaim."
+   }
   },
   {
    "id": "2026-09-30-2",
@@ -1227,8 +1265,13 @@ var RAPOR = {
    "penanda": "Laporan keuangan kuartal III yang mulai terbit",
    "tenggat": "2026-10-31",
    "tenggatLabel": "akhir Oktober",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "sdpc-catat-laba-melonjak-49-arus-kas-operasi-negatif",
+    "judul": "SDPC catat laba melonjak 49%, arus kas operasi negatif",
+    "tanggal": "30 Oktober 2026",
+    "alasan": "Laporan kuartal III SDPC menunjukkan laba bersih melonjak 49% namun arus kas operasi negatif, membuktikan kesenjangan laba di atas kertas dengan arus kas riil masih berlanjut seperti diklaim."
+   }
   },
   {
    "id": "2026-09-11-2",

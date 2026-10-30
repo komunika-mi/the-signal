@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pzza-caplok-dua-bisnis-bakeri-laba-bersih-naik-jadi-rp17-1-m",
+  "category": "Aksi Korporasi",
+  "title": "PZZA [Caplok] Dua Bisnis Bakeri, Laba Bersih Naik Jadi Rp17,1 M",
+  "deck": "Sarimelati Kencana (PZZA) melaporkan keuangan sembilan bulan 2026 sekaligus mengungkap akuisisi mayoritas saham dua perusahaan bakeri di Jakarta.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PZZA",
+   "Pizza Hut Indonesia",
+   "laporan keuangan",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095801-65376-0/FinancialStatement-2026-III-PZZA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jrpt-cetak-laba-rp1-03-triliun-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "JRPT Cetak [Laba] Rp1,03 Triliun per September 2026",
+  "deck": "Laba tahun berjalan JRPT naik 12,3 persen menjadi Rp1,03 triliun pada sembilan bulan pertama 2026, ditopang kenaikan pendapatan usaha dan penurunan total utang.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JRPT",
+   "laporan keuangan",
+   "properti",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095817-65349-0/FinancialStatement-2026-III-JRPT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bird-laba-kuartal-iii-turun-2-9-pendapatan-naik-10-9",
+  "category": "Aksi Korporasi",
+  "title": "BIRD: Laba Kuartal III [Turun] 2,9%, Pendapatan Naik 10,9%",
+  "deck": "Blue Bird mencatat pendapatan 9 bulan Rp4,57 triliun, naik dari tahun lalu, tapi laba bersih dan laba per saham turun karena beban bunga melonjak dan kas menyusut tajam.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIRD",
+   "Blue Bird",
+   "laporan keuangan interim",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095935-64678-0/FinancialStatement-2026-III-BIRD.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-panggil-rupslb-23-november-agenda-stock-split-1-5",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Panggil RUPSLB 23 November, Agenda [Stock Split] 1:5",
+  "deck": "Prodia Widyahusada mengundang pemegang saham ke RUPSLB 23 November 2026 untuk menyetujui pemecahan saham rasio 1:5, nominal turun dari Rp100 menjadi Rp20 per saham.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "RUPSLB",
+   "stock split",
+   "Prodia Widyahusada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e0de553fdd_725cd62c1f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "moli-laba-9-bulan-melonjak-94-laba-per-saham-naik-ke-rp33-35",
+  "category": "Aksi Korporasi",
+  "title": "MOLI: Laba 9 Bulan Melonjak 94%, [Laba per Saham] Naik ke Rp33,35",
+  "deck": "Laba bersih MOLI naik 94 persen jadi Rp108,3 miliar dalam sembilan bulan 2026, ditopang margin kotor yang menebal, meski utang bank jangka pendek melonjak untuk uang muka bahan baku.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MOLI",
+   "laporan keuangan",
+   "laba bersih",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095709-65116-0/FinancialStatement-2026-III-MOLI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tfco-produksi-terhenti-dua-bulan-usai-mesin-rusak",
+  "category": "Aksi Korporasi",
+  "title": "TFCO: Produksi Terhenti [Dua Bulan] Usai Mesin Rusak",
+  "deck": "Mesin produksi TFCO rusak dan menghentikan produksi dua bulan pada Agustus-September 2026, menekan laba usaha dan membalik arus kas operasi jadi negatif.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TFCO",
+   "laporan keuangan",
+   "tekstil",
+   "gangguan produksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095551-65374-0/FinancialStatement-2026-III-TFCO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smil-catat-laba-rp84-57-miliar-kas-susut-48",
+  "category": "Aksi Korporasi",
+  "title": "SMIL Catat Laba Rp84,57 Miliar, Kas [Susut] 48%",
+  "deck": "Laba bersih SMIL naik 8,5 persen jadi Rp84,57 miliar pada sembilan bulan 2026, meski kas menyusut hampir separuh akibat belanja modal dan persediaan forklift.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMIL",
+   "laporan keuangan",
+   "laba kuartal III 2026",
+   "forklift"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095227-65470-0/FinancialStatement-2026-III-SMIL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inds-laba-turun-3-5-meski-penjualan-naik-15-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "INDS: Laba [Turun] 3,5% meski Penjualan Naik 15% di Kuartal III",
+  "deck": "Indospring membukukan penjualan neto Rp2,84 triliun pada sembilan bulan 2026, naik 15,3 persen, namun laba bersih turun 3,5 persen menjadi Rp68,2 miliar akibat kenaikan biaya dan beban bunga.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDS",
+   "Indospring",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030094520-65534-0/FinancialStatement-2026-III-INDS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dsng-laba-bersih-naik-9-8-jadi-rp1-44-triliun-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "DSNG: Laba [Bersih] Naik 9,8% Jadi Rp1,44 Triliun di Kuartal III",
+  "deck": "Laba bersih DSNG tumbuh 9,8% menjadi Rp1,44 triliun pada sembilan bulan pertama 2026, didukung penurunan beban bunga dan pelunasan utang bank jangka panjang.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DSNG",
+   "laba bersih",
+   "laporan keuangan",
+   "kelapa sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030093453-64797-0/FinancialStatement-2026-III-DSNG.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hais-laba-bersih-longsor-70-utang-naik-23",
+  "category": "Aksi Korporasi",
+  "title": "HAIS: Laba Bersih [Longsor] 70%, Utang Naik 23%",
+  "deck": "Laba bersih HAIS turun dari Rp68,6 miliar menjadi Rp20,4 miliar pada sembilan bulan 2026, sementara liabilitas melonjak 23 persen akibat tambahan pinjaman bank.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HAIS",
+   "laba bersih",
+   "utang",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030094727-65395-0/FinancialStatement-2026-III-HAIS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pnm-sabet-juara-grand-genba-champion-bri-group",
   "category": "BUMN",
   "title": "PNM Sabet [Juara] Grand Genba Champion BRI Group",
@@ -6305,167 +6465,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7179/antisipasi-inflasi-jelang-nataru-pemerintah-perkuat-rantai-pasok-pangan",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ahap-asuransi-central-asia-tambah-kepemilikan-ke-69-51",
-  "category": "Aksi Korporasi",
-  "title": "AHAP: Asuransi Central Asia Tambah [Kepemilikan] ke 69,51%",
-  "deck": "Asuransi Central Asia menambah 2,77 miliar saham AHAP senilai sekitar Rp138,62 miliar, mengangkat hak suaranya dari 62,58% menjadi 69,51%.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AHAP",
-   "Asuransi Central Asia",
-   "kepemilikan saham",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-6734-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baik-ganti-komisaris-utama-jadi-yeni-isnawati",
-  "category": "Aksi Korporasi",
-  "title": "BAIK Ganti [Komisaris] Utama Jadi Yeni Isnawati",
-  "deck": "Yeni Isnawati menjadi Komisaris Utama baru BAIK, menggantikan Drs. Untung Sudarto, efektif sejak RUPSLB 31 Maret 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAIK",
-   "komisaris",
-   "RUPSLB",
-   "pergantian pengurus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a06ac7d689_10bd3b36ef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arto-jadwalkan-mesop-tahap-i-periode-ii-harga-rp1-550",
-  "category": "Aksi Korporasi",
-  "title": "ARTO Jadwalkan [MESOP] Tahap I Periode II, Harga Rp1.550",
-  "deck": "Bank Jago menjadwalkan pelaksanaan opsi saham karyawan tahap kedua tahun ini, periode 2 November-11 Desember 2026, harga pelaksanaan Rp1.550 per saham, dengan maksimal 38,53 juta lembar saham baru.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARTO",
-   "MESOP",
-   "Bank Jago",
-   "opsi saham karyawan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/937b60297d_346c1452ad.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-jadwalkan-rupslb-1-desember-cum-date-6-november",
-  "category": "Aksi Korporasi",
-  "title": "NSSS Jadwalkan [RUPSLB] 1 Desember, Cum Date 6 November",
-  "deck": "PT Nusantara Sawit Sejahtera Tbk mengumumkan rencana RUPSLB pada 1 Desember 2026, dengan batas pencatatan pemegang saham 6 November 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "RUPSLB",
-   "pasar modal",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7508694725_bcbb66fb80.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ultj-jadwalkan-ulang-rupslb-ojk-minta-klarifikasi-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "ULTJ Jadwalkan Ulang RUPSLB, OJK Minta [Klarifikasi] Rights Issue",
-  "deck": "RUPSLB ULTJ yang membahas akuisisi 100% Frisian Flag Indonesia lewat rights issue mundur ke 6 November 2026 setelah OJK minta klarifikasi tambahan.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "RUPSLB",
-   "Rights Issue",
-   "Frisian Flag Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0b1dc88e38_0ceaea7b4e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-jelaskan-detail-akuisisi-nikel-dan-rights-issue-dalam-koreksi",
-  "category": "Aksi Korporasi",
-  "title": "PACK Jelaskan Detail [Akuisisi Nikel] dan Rights Issue dalam Koreksi",
-  "deck": "Koreksi keterbukaan informasi PACK memerinci lini usaha baru, akuisisi saham Bukit Makmur Istindo Nikeltama dan Denway Development, serta rencana rights issue, tapi nilai transaksinya belum diumumkan.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "Rights Issue",
-   "Akuisisi Nikel",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf2862a2c0_7990e93bc2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-prabowo-targetkan-kredit-rakyat-rp400-triliun-di-2027",
-  "category": "Makroekonomi",
-  "title": "Presiden Prabowo Targetkan Kredit Rakyat [Rp400 Triliun] di 2027",
-  "deck": "Presiden Prabowo Subianto meluncurkan Dewan Nasional Kesejahteraan Keuangan dan menargetkan penyaluran kredit rakyat Rp400 triliun pada 2027, naik dari realisasi Rp53 triliun saat ini.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
-  "tags": [
-   "DNKK",
-   "kredit rakyat",
-   "inklusi keuangan",
-   "PP 42/2026"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7178/presiden-prabowo-luncurkan-dewan-nasional-kesejahteraan-keuangan-targetkan-penyaluran-kredit-rakyat-rp400-triliun-pada-2027",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kilang-balikpapan-99-persen-rampung-stok-bbm-dipastikan-aman",
-  "category": "Energi",
-  "title": "Kilang Balikpapan [99 Persen] Rampung, Stok BBM Dipastikan Aman",
-  "deck": "Menteri ESDM Bahlil Lahadalia menyebut proyek kilang Balikpapan sudah 99 persen selesai, sembari memastikan stok Pertalite dan BBM nonsubsidi masih aman di atas standar minimum.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/kilang-balikpapan-99-persen-rampung-stok-bbm-dipastikan-aman.jpg",
-  "imageV": "mvkhlqtx",
-  "tags": [
-   "RDMP Balikpapan",
-   "BBM Subsidi",
-   "ESDM",
-   "Pertamina"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kilang-balikpapan-sudah-99-persen-stok-bbm-nasional-dipastikan-aman",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "india-hentikan-penyelidikan-antisubsidi-kaca-ri",
-  "category": "Industri",
-  "title": "India [Hentikan] Penyelidikan Antisubsidi Kaca RI",
-  "deck": "Otoritas India menghentikan penyelidikan antisubsidi atas kaca polos asal Indonesia karena volume impornya di bawah ambang batas, sehingga ekspor bisa berlanjut tanpa tarif tambahan.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
-  "tags": [
-   "ekspor kaca",
-   "India",
-   "antisubsidi",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/india-hentikan-penyelidikan-antisubsidi-produk-cfg-asal-indonesia",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "uang-beredar-tumbuh-8-3-meski-penyaluran-kredit-melambat",
-  "category": "Moneter",
-  "title": "Uang Beredar [Tumbuh] 8,3% Meski Penyaluran Kredit Melambat",
-  "deck": "BI mencatat uang beredar tumbuh 8,3 persen pada September 2026, naik tipis dari bulan sebelumnya, sementara penyaluran kredit ke masyarakat justru melambat menjadi 12,7 persen.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/brankas-uang-sentral.jpg",
-  "tags": [
-   "Bank Indonesia",
-   "Uang Beredar",
-   "Kredit Perbankan",
-   "M2"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823526.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

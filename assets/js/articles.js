@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "laba-bersih-jkon-melonjak-13-kali-lipat-jadi-rp237-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Laba Bersih [JKON] Melonjak 13 Kali Lipat Jadi Rp237,8 Miliar",
+  "deck": "Laba periode sembilan bulan JKON melonjak drastis dari Rp17,87 miliar jadi Rp237,81 miliar, didorong pendapatan yang naik 51 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T01:46:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031015442-65402-0/FinancialStatement-2026-III-JKON.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JKON",
+  "tags": [
+   "JKON",
+   "laporan keuangan",
+   "laba bersih",
+   "konstruksi"
+  ],
+  "body": [
+   "PT Jaya Konstruksi Manggala Pratama Tbk (JKON) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir pada 30 September 2026 kepada Bursa Efek Indonesia pada 31 Oktober 2026. Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp237,81 miliar, melonjak dari Rp17,87 miliar pada periode yang sama tahun lalu. Kenaikan ini membuat laba per saham dasar naik dari Rp1,10 menjadi Rp14,58 per lembar.",
+   "Pendapatan usaha JKON pada sembilan bulan pertama 2026 mencapai Rp3,44 triliun, naik 51 persen dari Rp2,27 triliun pada periode yang sama tahun 2025. Laba usaha ikut melonjak dari Rp18,95 miliar menjadi Rp186,18 miliar. Kenaikan laba juga didorong kontribusi dari ventura bersama, yang menyumbang laba Rp139,94 miliar, lebih dari dua kali lipat sumbangan Rp57,63 miliar pada tahun lalu, sehingga laba sebelum pajak melonjak dari Rp37,53 miliar menjadi Rp277,80 miliar.",
+   "Total aset JKON per 30 September 2026 tercatat Rp4,68 triliun, naik 4,1 persen dari akhir 2025. Total ekuitas naik 6,6 persen menjadi Rp3,46 triliun, sementara total liabilitas justru turun 2,2 persen menjadi Rp1,23 triliun. Di sisi lain, kas dan setara kas perusahaan turun dari Rp678,78 miliar menjadi Rp472,29 miliar, antara lain karena pembayaran dividen tunai sebesar Rp86,12 miliar, naik dari Rp53,00 miliar pada tahun sebelumnya. Arus kas dari aktivitas operasi masih tercatat negatif Rp142,34 miliar, meski defisitnya mengecil dibanding negatif Rp251,21 miliar pada periode yang sama tahun lalu.",
+   "Laporan ini ditandatangani oleh Presiden Direktur Fransiskus Yohanes H. Lazaro dan Direktur Indrajanti yang juga menjabat sebagai Corporate Secretary JKON, melalui surat pernyataan direksi tertanggal 30 Oktober 2026. Perseroan menegaskan laporan keuangan tersebut disusun sesuai Standar Akuntansi Keuangan Indonesia dan belum diaudit oleh akuntan publik."
+  ],
+  "fotoAdegan": "Workers operating heavy machinery at a toll road construction site, concrete pillars rising amid scaffolding, overcast sky",
+  "takeaway": "Laporan ini condong positif bagi JKON, karena lonjakan laba terjadi di hampir semua lini usaha, dari pendapatan proyek hingga kontribusi ventura bersama, bukan cuma dari satu pos sesaat. Yang perlu dicermati adalah laba per saham, yaitu bagian laba bersih yang jadi hak tiap lembar saham, yang melonjak dari Rp1,10 jadi Rp14,58, sementara arus kas dari aktivitas operasi, yakni uang tunai yang benar-benar masuk dari kegiatan usaha dan bukan sekadar laba di atas kertas, masih minus Rp142,34 miliar meski defisitnya mengecil dari Rp251,21 miliar tahun lalu. Artinya sebagian laba besar ini berasal dari pos akuntansi seperti kenaikan kontribusi investasi di ventura bersama, bukan murni kas yang diterima perusahaan. Kas perusahaan pun menyusut dari Rp678,78 miliar jadi Rp472,29 miliar, salah satunya karena pembayaran dividen tunai Rp86,12 miliar. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV atau laporan tahunan auditan 2026, untuk melihat apakah arus kas operasi bisa berbalik positif seiring lonjakan laba ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "inet-bukukan-kas-rp3-95-triliun-usai-rights-issue-rp3-2-triliun",
   "category": "Aksi Korporasi",
   "title": "INET Bukukan Kas Rp3,95 Triliun Usai [Rights Issue] Rp3,2 Triliun",
@@ -317,6 +344,58 @@ var ARTICLES = [
   "imageV": "mvv7fono"
  },
  {
+  "slug": "real-laba-tipis-naik-kas-menipis-usai-bayar-sanksi-ojk",
+  "category": "Aksi Korporasi",
+  "title": "[REAL] Laba Tipis Naik, Kas Menipis Usai Bayar Sanksi OJK",
+  "deck": "Laporan kuartal III 2026 Repower Asia Indonesia menunjukkan laba naik tipis, tapi kas tergerus pembayaran sanksi OJK dan dividen dipotong drastis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T23:03:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030231126-65587-0/FinancialStatement-2026-III-REAL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "REAL",
+  "tags": [
+   "REAL",
+   "laporan keuangan",
+   "properti",
+   "OJK"
+  ],
+  "body": [
+   "PT Repower Asia Indonesia Tbk (REAL) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia, ditandatangani Direktur Sjafardamsah pada 30 Oktober 2026. Perusahaan properti ini mencatat penjualan Rp9,24 miliar, naik dari Rp7,46 miliar pada periode yang sama tahun lalu, dengan laba bruto naik dari Rp3,34 miliar menjadi Rp3,98 miliar. Laba bersih yang bisa diatribusikan ke pemegang saham induk tercatat Rp409,89 juta, naik tipis dari Rp397,99 juta pada September 2025. Karena jumlah saham beredar REAL sangat banyak, yakni 6,63 miliar lembar, laba per saham hanya naik dari Rp0,06 menjadi Rp0,0618, angka kecil karena basis sahamnya memang besar.",
+   "Dalam penjelasan resmi atas perubahan pos keuangan yang melebihi 20 persen, Direktur Sjafardamsah mengungkapkan bahwa saldo kas dan bank turun dari Rp925,80 juta menjadi Rp719,14 juta, sekitar 22 persen, karena dipakai untuk membiayai pengembangan lahan di Tangerang, membayar sanksi administratif kepada Otoritas Jasa Keuangan (OJK), dan menutup beban operasional perusahaan. Dokumen tidak merinci besaran sanksi OJK tersebut maupun sebabnya. Di sisi lain, piutang usaha melonjak dari Rp2,14 miliar menjadi Rp5,05 miliar, sekitar 136 persen, terutama berasal dari piutang konsumen yang membeli rumah lewat skema Kredit Pemilikan Rumah (KPR) yang difasilitasi bank. Uang muka dari pelanggan juga muncul baru sebesar Rp354,75 juta, berasal dari uang muka penjualan rumah dan sewa tanah yang belum diakui sebagai pendapatan karena belum memenuhi syarat pengakuan sesuai standar akuntansi.",
+   "Perusahaan memangkas pembayaran dividen tahun ini menjadi hanya Rp33,17 juta, jauh lebih kecil dibandingkan Rp1,06 miliar yang dibagikan pada periode yang sama tahun lalu. Arus kas dari aktivitas operasi mencatat pemakaian neto Rp174,49 juta, membaik dibandingkan pemakaian Rp68,42 miliar pada September 2025 yang saat itu banyak terpakai untuk pembelian lahan. REAL tidak memiliki utang bank, baik jangka pendek maupun jangka panjang, dengan satu-satunya liabilitas jangka panjang berupa kewajiban imbalan kerja karyawan sebesar Rp287,80 juta yang nilainya tidak berubah dari akhir 2025. Pada periode ini pula, anak usaha PT Repower Global Sinergitama, perusahaan real estat di Jakarta yang masih belum beroperasi dengan kepemilikan REAL sebesar 99,6 persen, menerima setoran modal baru dari pemegang saham non-pengendali senilai Rp1 juta."
+  ],
+  "fotoAdegan": "Workers leveling reddish soil with an excavator on a cleared housing development plot on Tangerang's outskirts, overcast afternoon light.",
+  "takeaway": "Laporan ini netral bagi REAL: penjualan dan laba memang naik, tapi kenaikannya kecil dan diimbangi oleh kas yang menipis serta pemotongan dividen hingga sekitar 97 persen. Pos yang tersentuh adalah arus kas dan ekuitas. Arus kas menggambarkan uang tunai yang benar-benar keluar masuk kas perusahaan, dan dengan saldo kas tinggal Rp719 juta untuk perusahaan beraset Rp377 miliar, REAL hanya memiliki sedikit bantalan likuiditas jika proyek propertinya mendadak butuh dana cepat. Ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi semua utang, masih naik tipis ke Rp375,22 miliar karena laba ditahan yang ditambahkan lebih besar dari dividen yang dibagikan. Yang perlu dipantau berikutnya adalah apakah pengembangan lahan di Tangerang yang menyedot kas ini mulai membukukan penjualan pada laporan kuartal IV 2026 atau laporan tahunan 2026, serta apakah REAL akan membuka rincian soal sanksi administratif OJK yang disebut dalam laporan ini tanpa disertai nominal dan alasannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ntbk-rugi-rp4-83-miliar-pendapatan-anjlok-51-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "NTBK rugi Rp4,83 miliar, pendapatan [anjlok] 51% di kuartal III",
+  "deck": "Pendapatan sembilan bulan NTBK turun hampir separuh dan perusahaan karoseri trailer ini berbalik rugi Rp4,83 miliar, dari untung tahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T23:00:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030231119-65621-0/FinancialStatement-2026-III-NTBK.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NTBK",
+  "tags": [
+   "NTBK",
+   "laporan keuangan",
+   "rugi",
+   "karoseri"
+  ],
+  "body": [
+   "PT Nusatama Berkah Tbk (NTBK), produsen karoseri kendaraan dan trailer, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan turun menjadi Rp30,91 miliar dari Rp62,96 miliar pada periode yang sama tahun 2025, atau anjlok sekitar 51 persen. Akibatnya, laba usaha berbalik menjadi rugi usaha Rp6,45 miliar dari sebelumnya untung Rp811,46 juta, dan laba tahun berjalan berbalik menjadi rugi Rp4,83 miliar dari untung Rp232,72 juta. Rugi per saham dasar tercatat Rp1.789, dibanding laba Rp0,086 per saham pada tahun sebelumnya.",
+   "Dalam surat terpisah ke Bursa Efek Indonesia tertanggal 30 Oktober 2026, manajemen menjelaskan perubahan lebih dari 20 persen pada pos total aset dan total liabilitas, sebagaimana diwajibkan aturan bursa. Total aset turun 16 persen menjadi Rp133,34 miliar dan total liabilitas turun 35 persen menjadi Rp41,45 miliar. Kas dan setara kas naik dari Rp2,51 miliar menjadi Rp6,68 miliar karena penerimaan pembayaran dari pelanggan. Piutang usaha turun 42 persen dari Rp54,38 miliar menjadi Rp31,35 miliar, terutama karena pelunasan dari PT Maju Persada Energi dan PT Gamalama Indah Perkasa. Di sisi liabilitas, utang usaha turun 53 persen dari Rp44,12 miliar menjadi Rp20,67 miliar setelah perusahaan membayar vendor, terutama PT Fineks Utama dan Global CV Equipment, sementara uang muka penjualan naik 192 persen menjadi Rp3,52 miliar karena ada uang muka dari pelanggan untuk pembelian trailer dan supporting truck.",
+   "Arus kas dari aktivitas operasi berbalik positif Rp4,51 miliar, dari sebelumnya minus Rp13,62 miliar pada periode yang sama tahun lalu. Ekuitas perusahaan turun menjadi Rp91,88 miliar dari Rp94,87 miliar akibat rugi tahun berjalan, meski ada tambahan Rp1,96 miliar dari investasi pihak non-pengendali di entitas anak, PT Pilar Pratama Dinamika. Surat penjelasan ke bursa ditandatangani Ir. Bambang Susilo selaku Direktur Utama, yang menyatakan seluruh perubahan ini wajar dan sesuai kondisi bisnis perusahaan."
+  ],
+  "fotoAdegan": "Workers fabricating a steel trailer chassis inside an industrial workshop, welding sparks, heavy machinery parts stacked nearby, daytime light",
+  "takeaway": "Laporan ini condong negatif bagi NTBK karena pendapatan sembilan bulan ambruk sampai separuh dan perusahaan berbalik dari untung jadi rugi, bukan sekadar koreksi akuntansi biasa. Ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham, tergerus tipis karena rugi tahun berjalan langsung memotong saldo laba, sementara laba per saham, ukuran keuntungan yang jadi bagian setiap lembar saham, berbalik negatif dan ini yang biasanya membuat investor waspada karena memengaruhi penilaian harga wajar saham. Ada sisi baik yang perlu diimbangi: arus kas dari operasi, yaitu uang tunai yang benar benar masuk dari kegiatan jual beli sehari hari, berbalik positif Rp4,51 miliar dari sebelumnya minus Rp13,62 miliar, tanda penagihan ke pelanggan membaik walau penjualan melambat. Yang perlu dipantau berikutnya adalah laporan keuangan audit untuk tahun penuh 2026, yang akan menunjukkan apakah penurunan pendapatan dan rugi di kuartal III ini berlanjut atau justru terkoreksi pada kuartal terakhir tahun ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bpdp-percepat-program-peremajaan-sawit-rakyat",
   "category": "Industri",
   "title": "BPDP Percepat Program [Peremajaan] Sawit Rakyat",
@@ -342,6 +421,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang sebenarnya dipaparkan di sini bukan kebijakan baru, melainkan rekap capaian kumulatif program penggantian pohon sawit tua milik petani kecil dengan tanaman baru, yang dibiayai dari dana yang dikelola BPDP. Dari 2016 sampai September 2026, baru 438.217 hektare lahan sawit rakyat yang diremajakan dengan bantuan rata-rata sekitar Rp63 juta per petani dari total Rp12,48 triliun, menjangkau hampir 197 ribu petani di seluruh Indonesia termasuk 9.048 petani di Sumatera Utara. Kata 'akselerasi' yang dipakai BPDP sendiri belum bisa dibuktikan dari data yang disajikan, sebab yang muncul hanya angka total sejak 2016, bukan perbandingan penambahan tahun ini dengan tahun-tahun sebelumnya. Yang masih kurang untuk memastikan apakah penyaluran benar-benar semakin cepat adalah rincian tahunan luas lahan dan dana PSR, misalnya laporan kinerja BPDP untuk tahun 2026 secara penuh atau target resmi 2027 yang biasanya diumumkan di awal tahun berikutnya.",
   "imageV": "mvv7fp4q"
+ },
+ {
+  "slug": "depo-laba-bersih-naik-16-tapi-laba-usaha-susut-22",
+  "category": "Aksi Korporasi",
+  "title": "DEPO: Laba Bersih Naik 16% Tapi [Laba Usaha] Susut 22%",
+  "deck": "Laporan keuangan interim Kuartal III 2026 DEPO: laba bersih naik ditopang pendapatan lain-lain, sementara laba dari operasi toko menyusut dan pinjaman bank jangka pendek melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T22:56:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030230701-64892-0/FinancialStatement-2026-III-DEPO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEPO",
+  "tags": [
+   "DEPO",
+   "laporan keuangan",
+   "laba bersih",
+   "ritel bahan bangunan"
+  ],
+  "body": [
+   "PT Caturkarda Depo Bangunan Tbk (DEPO) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan pada 28 Oktober 2026. Perusahaan mencatat penjualan neto Rp2,11 triliun, hampir sama dengan periode yang sama tahun lalu, sementara laba bersih naik 16,4 persen menjadi Rp58,7 miliar dari sebelumnya Rp50,4 miliar. Laba per saham ikut naik dari Rp7,43 menjadi Rp8,65.",
+   "Di balik kenaikan laba bersih itu, laba usaha, yaitu keuntungan dari kegiatan jual beli bahan bangunan sebelum dihitung bunga dan pendapatan sampingan, justru turun 21,9 persen menjadi Rp29,2 miliar dari Rp37,4 miliar. Penyebabnya, beban penjualan naik menjadi Rp320,7 miliar dan beban umum serta administrasi naik menjadi Rp77,2 miliar, lebih cepat dari pertumbuhan penjualan. Kenaikan laba bersih justru ditopang oleh pendapatan lain-lain yang melonjak dari Rp27,0 miliar menjadi Rp47,9 miliar, sehingga laba sebelum pajak naik 25,2 persen menjadi Rp72,3 miliar.",
+   "Di sisi arus kas, kas dan setara kas DEPO melonjak dari Rp39,1 miliar pada akhir 2025 menjadi Rp246,0 miliar pada akhir September 2026, terutama karena pencairan deposito berjangka dari Rp292 miliar menjadi Rp86 miliar. Perusahaan juga menambah pinjaman bank jangka pendek hampir enam kali lipat, dari Rp5,0 miliar menjadi Rp29,8 miliar, sementara total liabilitas naik 9,8 persen menjadi Rp998,2 miliar. Sepanjang periode ini DEPO membagikan dividen tunai Rp10,185 miliar, turun dari Rp28,518 miliar pada periode sebelumnya, dan menambah dana cadangan umum Rp5 miliar sehingga saldonya menjadi Rp28 miliar. Total ekuitas perusahaan per akhir September 2026 tercatat Rp1,41 triliun, naik 3,6 persen dari akhir 2025.",
+   "Dalam laporan ini DEPO juga mencantumkan informasi anak usahanya, PT Megadepo Indonesia, yang menjalankan usaha supermarket dan ritel bahan bangunan di Sidoarjo sejak 2004 dengan kepemilikan saham 99,99 persen dan nilai aset Rp967 miliar. Laporan keuangan ditandatangani oleh Direktur Utama Henryanto Komala dan Direktur Caroline Agustina Kettin, yang juga menjabat sebagai Sekretaris Perusahaan."
+  ],
+  "fotoAdegan": "Wide aisles of a home improvement warehouse store stacked with construction materials, a forklift moving pallets, bright fluorescent lighting",
+  "takeaway": "Laporan ini condong netral karena kenaikan laba bersih 16,4 persen sebenarnya ditopang pendapatan di luar usaha inti, sementara laba dari bisnis jual beli bahan bangunan sendiri malah menyusut hampir 22 persen akibat beban penjualan dan beban umum yang naik lebih cepat dari penjualan. Pos yang tersentuh di sini adalah laba usaha, arus kas, dan utang berbunga: kas melonjak bukan karena penjualan membaik tapi karena pencairan deposito, sementara pinjaman bank jangka pendek naik hampir enam kali lipat menjadi Rp29,8 miliar, tanda perusahaan lebih mengandalkan utang untuk modal kerja. Laba per saham, yaitu bagian laba yang secara teori jatuh ke setiap lembar saham milik investor, ikut naik ke Rp8,65, tapi kenaikan itu rapuh karena tidak berasal dari operasi toko yang membesar. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, yang baru terbit awal 2027, untuk melihat apakah pelemahan laba usaha ini berlanjut atau hanya pola kuartalan yang terkoreksi di akhir tahun.",
+  "sentimen": "netral"
  },
  {
   "slug": "laba-aldo-melonjak-8-kali-lipat-di-kuartal-iii-2026",
@@ -393,6 +499,33 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Pilgrims pulling luggage trolleys through an airport departure hall before an umrah flight, early morning light",
   "takeaway": "Laporan ini condong negatif bagi fundamental HAJJ, karena di balik kenaikan aset dan arus kas operasi yang terlihat sehat, laba bersih perusahaan justru anjlok 75 persen dibandingkan periode yang sama tahun lalu, dan margin labanya menyusut tajam meski pendapatan hanya turun tipis. Yang perlu diperhatikan adalah piutang usaha dan utang usaha yang membengkak berbarengan dalam tiga bulan terakhir, karena ini memengaruhi arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kas perusahaan, sebab piutang besar berarti uang penjualan belum semuanya cair, sementara utang usaha yang menumpuk berarti perusahaan menunda pembayaran ke pemasoknya. Laba per saham, yaitu bagian laba yang secara teoritis menjadi hak setiap pemegang satu lembar saham, ikut turun drastis dari Rp14,38 menjadi Rp3,57, indikator yang biasa langsung diperhatikan investor karena mencerminkan hasil dari setiap lembar saham yang mereka pegang. Yang perlu dipantau berikutnya adalah apakah piutang sebesar Rp190,43 miliar itu benar cair menjadi kas pada laporan kuartal IV 2026, serta laporan keuangan tahunan auditan yang akan menunjukkan apakah penurunan laba ini memang hanya soal musim perjalanan haji dan umrah seperti klaim manajemen, atau justru tren yang berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "agro-laba-bank-raya-turun-separuh-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "AGRO: Laba Bank Raya [Turun Separuh] di Kuartal III 2026",
+  "deck": "Laba Bank Raya Indonesia turun 50 persen menjadi Rp21,01 miliar pada sembilan bulan 2026, tertekan kenaikan pencadangan kredit dan penarikan deposito nasabah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T22:31:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d8f5870f0_52323d4eec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGRO",
+  "tags": [
+   "AGRO",
+   "Bank Raya Indonesia",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Raya Indonesia Tbk (AGRO) menyampaikan laporan keuangan tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan pada 29 Oktober 2026, sesuai ketentuan laporan keuangan berkala emiten. Laba periode berjalan tercatat Rp21,01 miliar, turun dari Rp41,98 miliar pada periode yang sama tahun 2025. Laba bersih per saham ikut turun dari Rp1,70 menjadi Rp0,85 per lembar.",
+   "Pendapatan bunga neto bank sebenarnya naik dari Rp512,2 miliar menjadi Rp567,3 miliar, dan pendapatan operasional lain melonjak ke Rp306,9 miliar dari Rp110,8 miliar, terutama ditopang penerimaan kembali kredit macet yang sudah dihapus dari pembukuan senilai Rp276,6 miliar, naik dari Rp67,3 miliar setahun sebelumnya. Namun biaya pencadangan kerugian kredit melonjak ke Rp295,7 miliar dari Rp130,2 miliar, sementara beban operasional lain naik ke Rp561,3 miliar dari Rp455,5 miliar, didorong kenaikan beban gaji dan tunjangan menjadi Rp260,9 miliar dari Rp220,3 miliar serta beban umum dan administrasi menjadi Rp298,3 miliar dari Rp219,7 miliar. Akibatnya laba operasional anjlok ke Rp17,2 miliar dari Rp37,4 miliar.",
+   "Dari sisi neraca, total aset turun menjadi Rp12,57 triliun dari Rp13,09 triliun pada akhir 2025. Kredit yang diberikan turun menjadi Rp6,47 triliun dari Rp7,72 triliun, sementara cadangan kerugian penurunan nilai kreditnya turun tajam menjadi Rp634,8 miliar dari Rp1,44 triliun, sejalan dengan penghapusan kredit bermasalah dari pembukuan. Simpanan nasabah turun menjadi Rp8,23 triliun dari Rp9,54 triliun, dengan deposito berjangka turun paling dalam menjadi Rp5,28 triliun dari Rp6,34 triliun. Untuk menambal kebutuhan dana, bank menambah pembiayaan melalui efek yang dijual dengan janji dibeli kembali senilai Rp859,9 miliar, pos yang sebelumnya nol pada akhir 2025.",
+   "Total ekuitas turun menjadi Rp2,94 triliun dari Rp3,01 triliun, terutama akibat rugi belum direalisasi atas surat berharga yang dipegang bank senilai Rp97,8 miliar setelah pajak. Arus kas dari aktivitas operasi mencatat defisit Rp1,16 triliun, berbalik dari surplus Rp339,9 miliar pada periode yang sama tahun lalu, terutama karena penarikan deposito berjangka dalam jumlah besar."
+  ],
+  "fotoAdegan": "Interior of a modest bank branch with a teller assisting a customer at a counter, soft indoor lighting, blurred background",
+  "takeaway": "Laporan ini condong negatif bagi AGRO karena laba sembilan bulan 2026 tergerus separuh dibanding periode yang sama tahun lalu, didorong lonjakan pencadangan kerugian kredit dan derasnya penarikan deposito nasabah yang terpaksa ditambal dengan pendanaan repo baru. Yang paling terasa bagi pemegang saham adalah laba per saham, yaitu bagian keuntungan perusahaan yang secara hitungan menjadi hak tiap lembar saham, yang anjlok dari Rp1,70 jadi Rp0,85; ekuitas atau modal sendiri perusahaan juga menyusut karena nilai pasar surat berharga yang dipegang bank turun, dan arus kas dari kegiatan operasional justru minus Rp1,16 triliun, tanda dana yang keluar lebih besar dari yang masuk pada periode ini. Sisi baiknya, bank berhasil menagih kembali Rp276,6 miliar dari kredit macet yang sudah dihapus dari pembukuan, naik empat kali lipat dibanding tahun lalu, yang menahan laba agar tidak jatuh lebih dalam. Karena laporan ini masih versi tidak diaudit, pemegang saham perlu memantau apakah tren penarikan deposito dan kenaikan pencadangan kredit ini berlanjut atau mereda, yang baru akan terkonfirmasi lewat laporan keuangan tahunan auditan untuk tahun buku 2026.",
   "sentimen": "negatif"
  },
  {
@@ -498,6 +631,85 @@ var ARTICLES = [
   "fotoAdegan": "Workers leveling soil at a sprawling residential land development site in West Java, excavator in background, overcast sky",
   "takeaway": "Laporan ini positif bagi SAGE karena pendapatan melonjak tajam, perusahaan berbalik dari rugi menjadi laba, dan utang bank berkurang tanpa pinjaman baru. Yang paling bergeser adalah laba per saham, yaitu bagian laba yang secara teoritis jadi milik setiap lembar saham publik, yang berbalik dari minus Rp0,39 menjadi plus Rp0,06, sementara arus kas dari operasi, yakni uang tunai riil yang masuk dari kegiatan bisnis sehari-hari, melonjak lebih dari tiga kali lipat sehingga perusahaan punya ruang lebih besar untuk membayar utang. Karena laporan ini masih berstatus belum diaudit, pembaca perlu mencermati laporan keuangan tahunan auditan yang biasanya terbit paling lambat akhir Maret 2027 untuk memastikan apakah tren kenaikan pendapatan dan pelunasan utang bank ini berlanjut pada kuartal berikutnya.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "smru-catat-ekuitas-negatif-rp44-8-miliar-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMRU Catat Ekuitas [Negatif] Rp44,8 Miliar per September 2026",
+  "deck": "Ekuitas SMR Utama Tbk berbalik negatif Rp44,83 miliar akhir September 2026, setelah pendapatan sembilan bulan ambruk 98,6 persen dan rugi bersih melebar jadi Rp45,72 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:44:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215513-65508-0/FinancialStatement-2026-III-SMRU.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMRU",
+  "tags": [
+   "SMRU",
+   "SMR Utama",
+   "laporan keuangan",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "SMR Utama Tbk (SMRU) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Dalam laporan itu, total ekuitas perusahaan berbalik menjadi negatif Rp44,83 miliar, dari sebelumnya masih positif Rp888,3 juta pada akhir Desember 2025. Perubahan ini terjadi seiring pendapatan yang ambruk 98,6 persen, dari Rp59,79 miliar pada sembilan bulan pertama 2025 menjadi hanya Rp824,9 juta pada periode yang sama tahun ini. Rugi bersih periode berjalan melebar dari Rp39,69 miliar menjadi Rp45,72 miliar, dengan rugi per saham dasar bertambah dari Rp3,18 menjadi Rp3,66.",
+   "Dari sisi posisi keuangan, kas dan setara kas perusahaan menyusut dari Rp5,51 miliar menjadi Rp2,42 miliar. Total aset lancar hanya Rp13,43 miliar, jauh lebih kecil dibanding liabilitas jangka pendek yang mencapai Rp637,37 miliar. Di antara liabilitas tersebut terdapat medium term notes senilai Rp379,05 miliar dan liabilitas jangka panjang atas utang bank yang jatuh tempo dalam satu tahun sebesar Rp186,22 miliar, naik dari Rp173,21 miliar pada akhir 2025. Laporan ditandatangani oleh Direktur Utama Gani Bustan pada 30 Oktober 2026 sebagai pernyataan tanggung jawab direksi atas laporan keuangan.",
+   "SMRU saat ini masih tercatat di papan pemantauan khusus (watchlist) Bursa Efek Indonesia, dengan PT Trada Alam Minera Tbk (TRAM) sebagai pengendali utama. Laporan juga merinci enam entitas anak yang dikonsolidasikan, dengan kepemilikan berkisar 98,72 persen hingga 99,99 persen. PT Adibrata Cipta Pertiwi, bergerak di bidang investasi dan mulai komersial pada 2025, tercatat memiliki aset terbesar yakni Rp1,23 triliun, diikuti PT Ricobana Abadi selaku kontraktor batu bara yang sudah aktif sejak 1981 dengan aset Rp520,61 miliar. Tiga entitas anak lainnya, yaitu PT Troposfir Mega Raya, PT Delta Samudra, dan PT Adikarsa Alam Resources, tercatat belum beroperasi secara komersial."
+  ],
+  "fotoAdegan": "Idle heavy mining support trucks and excavators parked at a dusty coal site under an overcast sky, early morning light",
+  "takeaway": "Laporan ini negatif bagi pemegang saham SMRU, karena untuk pertama kalinya ekuitas perusahaan berbalik menjadi negatif sementara pendapatan hampir hilang total dibanding tahun sebelumnya. Ekuitas adalah selisih antara seluruh harta perusahaan dan utangnya, sehingga ekuitas negatif berarti utang SMRU kini lebih besar daripada asetnya, kondisi yang membuat pelaku pasar waspada soal kemampuan perusahaan melunasi kewajibannya. Rugi per saham yang melebar dari Rp3,18 menjadi Rp3,66 berarti beban kerugian yang ditanggung setiap pemegang saham makin besar, dan aset lancar yang hanya Rp13,43 miliar jauh di bawah utang jangka pendek Rp637,37 miliar menunjukkan tekanan likuiditas yang berat. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan teraudit yang akan menyusul laporan interim ini, serta bagaimana SMRU menjelaskan posisi ekuitas negatif tersebut kepada Bursa Efek Indonesia mengingat sahamnya sudah berstatus pemantauan khusus.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ggrp-catat-laba-us-1-6-juta-utang-lancar-melonjak-262",
+  "category": "Aksi Korporasi",
+  "title": "GGRP Catat Laba US$1,6 Juta, [Utang] Lancar Melonjak 262%",
+  "deck": "Laporan keuangan interim Kuartal III 2026 GGRP mencatat laba bersih US$1,6 juta setelah rugi besar tahun lalu, namun diikuti kenaikan utang jangka pendek dan arus kas operasi yang negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:41:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215101-65494-0/FinancialStatement-2026-III-GGRP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GGRP",
+  "tags": [
+   "GGRP",
+   "laporan keuangan",
+   "utang jangka pendek",
+   "arus kas"
+  ],
+  "body": [
+   "PT Gunung Raja Paksi Tbk (GGRP) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani oleh Presiden Direktur Siti Humayah dan Direktur Harianto pada 30 Oktober 2026. Total aset perusahaan naik menjadi US$893,57 juta dari US$724,63 juta pada akhir 2025, sementara total liabilitas melonjak menjadi US$257,27 juta dari US$71,13 juta, kenaikan 262 persen yang membuat GGRP wajib mengirim surat penjelasan tersendiri ke Bursa Efek Indonesia karena melewati ambang batas 20 persen.",
+   "Dalam surat penjelasan itu, manajemen merinci bahwa kenaikan aset terutama didorong oleh persediaan yang naik US$111,4 juta akibat akumulasi pembelian bahan baku untuk pabrik Blast Furnace serta antisipasi kenaikan penjualan. Uang muka pembelian juga naik sekitar US$59 juta sebagai pembayaran di muka untuk mengamankan pasokan bahan baku dan aset modal, sementara aset hak-guna naik US$39,4 juta akibat penyesuaian nilai sewa tanah dan bangunan di lokasi operasional.",
+   "Di sisi liabilitas, utang bank jangka pendek melonjak dari US$3,67 juta menjadi US$71,16 juta, dan utang usaha ke pemasok naik dari US$13,46 juta menjadi US$85,60 juta, keduanya dipakai untuk membiayai modal kerja pembelian bahan baku. Liabilitas sewa juga naik akibat penyesuaian nilai sewa yang sama. Rasio utang terhadap ekuitas (debt to equity ratio) naik dari 0,11 kali menjadi 0,40 kali, masih di bawah batas maksimum internal 2,5 kali, sementara rasio lancar yang mengukur kemampuan membayar utang jangka pendek turun dari 4,77 kali menjadi 1,57 kali.",
+   "Dari sisi laba rugi, penjualan bersih sembilan bulan 2026 naik menjadi US$177,12 juta dari US$132,44 juta pada periode yang sama tahun lalu, dengan volume penjualan 298 ribu ton, membuat perusahaan membalik rugi bruto US$14,32 juta menjadi laba bruto US$7,48 juta dan rugi bersih US$34,88 juta menjadi laba bersih US$1,60 juta. Namun arus kas dari kegiatan operasi justru mencatat kas keluar bersih US$88,06 juta, dibiayai dari pinjaman jangka pendek baru senilai US$122,09 juta. Perusahaan tetap membagikan dividen US$18,87 juta dalam periode ini, sehingga kas dan setara kas merosot dari US$70,75 juta menjadi US$7,48 juta. Perbandingan dengan periode September 2025 juga mencakup konsolidasi entitas anak yang baru dilepas pada 19 Maret 2026."
+  ],
+  "fotoAdegan": "Steel plant workers in safety gear monitoring molten metal flow near a blast furnace, orange glow, industrial facility",
+  "takeaway": "Laporan ini netral karena dua sinyal berlawanan muncul bersamaan: GGRP berhasil membalik rugi bersih US$34,9 juta pada sembilan bulan 2025 menjadi laba US$1,6 juta pada sembilan bulan 2026, tapi pembalikan itu dibayar dengan utang jangka pendek yang melonjak hampir 20 kali lipat dan arus kas dari kegiatan operasi yang justru negatif US$88 juta. Yang tersentuh di sini adalah rasio utang terhadap modal, yang naik dari 0,11 kali jadi 0,40 kali, dan rasio lancar yang mengukur kemampuan bayar utang jangka pendek, yang turun dari 4,77 kali jadi 1,57 kali, dua ukuran yang dipantau pelaku pasar karena utang yang tumbuh cepat biasanya menambah beban bunga sementara rasio lancar yang menyusut menandakan ruang gerak keuangan jangka pendek yang makin sempit, meski di sini masih di atas angka aman. Kas perusahaan ikut tergerus dari US$70,7 juta menjadi US$7,5 juta dalam sembilan bulan, bahkan setelah tetap membagikan dividen US$18,9 juta di tengah arus kas operasi yang negatif. Yang perlu dipantau berikutnya adalah apakah lonjakan persediaan bahan baku Blast Furnace senilai US$111,4 juta benar-benar terserap sesuai proyeksi penjualan perusahaan, serta laporan keuangan kuartal berikutnya untuk melihat apakah arus kas operasi kembali positif setelah pembiayaan lewat utang jangka pendek ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptpp-alami-gagal-bayar-peringkat-turun-ke-selective-default",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Alami [Gagal Bayar], Peringkat Turun ke Selective Default",
+  "deck": "PEFINDO menurunkan peringkat PTPP jadi idSD dan obligasi/sukuknya jadi idD akibat gagal bayar, memicu restrukturisasi dan rapat pemegang surat utang pada 10-11 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:41:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e0bf190988_7783af519f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "PEFINDO",
+   "obligasi",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "Lembaga pemeringkat PEFINDO menurunkan peringkat PT PP (Persero) Tbk (PTPP) dari idCCC dengan creditwatch negatif menjadi idSD (Selective Default), menyusul hasil pemantauan khusus yang diumumkan 23 Oktober 2026. Pada saat yang sama, PEFINDO menurunkan peringkat seluruh obligasi berkelanjutan PTPP menjadi idD (Default) dan peringkat sukuk mudharabah berkelanjutan menjadi idD(sy) (Default Syariah). Perusahaan menerima surat hasil pemeringkatan ini pada 28 Oktober 2026 dan melaporkannya ke Otoritas Jasa Keuangan pada 30 Oktober 2026 melalui surat yang diteken Sekretaris Perusahaan Joko Raharjo.",
+   "Obligasi yang terdampak mencakup Obligasi Berkelanjutan III Tahap I 2021 Seri B senilai Rp650 miliar, Tahap II 2022 Seri B senilai Rp404,5 miliar, dan Tahap III 2023 senilai Rp503,725 miliar, ditambah Obligasi Berkelanjutan IV Tahap I 2024 senilai Rp434,62 miliar, dengan total pokok Rp1,99 triliun yang jatuh tempo bertahap antara April dan Juli 2027. Sukuk Mudharabah Berkelanjutan I turut terdampak, yaitu Tahap I 2021 Seri B senilai Rp100 miliar, Tahap II 2022 Seri B senilai Rp305 miliar, dan Tahap III 2023 senilai Rp126,754 miliar, dengan total pokok Rp531,754 miliar yang kini berperingkat idD(sy). Secara keseluruhan, surat utang dan sukuk PTPP yang masuk status default bernilai gabungan sekitar Rp2,52 triliun, berlaku untuk periode 23 Oktober 2026 sampai 1 Maret 2027.",
+   "PEFINDO menjelaskan peringkat idSD menandakan PTPP gagal membayar satu atau lebih kewajiban finansial yang jatuh tempo, meski masih membayar tepat waktu kewajiban lainnya. Perseroan memiliki periode remedial 14 hari kerja untuk menyelesaikan kewajiban yang gagal dibayar tersebut, di tengah risiko refinancing yang meningkat akibat akses pendanaan yang makin menantang di industri konstruksi domestik dan eksposur ke segmen properti hunian vertikal. Sebagai langkah restrukturisasi, PTPP menyatakan Master Restructuring Agreement (MRA) dengan para kreditur telah resmi efektif pada 21 Oktober 2026, dan perusahaan akan menggelar Rapat Umum Pemegang Obligasi (RUPO) serta Rapat Umum Pemegang Sukuk (RUPSu) pada 10 dan 11 November 2026 untuk membahas penyelesaian kewajiban kepada pemegang surat utang. Surat pemberitahuan ke OJK ditandatangani Direktur Keuangan PTPP, Faizal Rahmad."
+  ],
+  "fotoAdegan": "Construction workers in hard hats inspecting steel rebar at a high-rise building site, tower cranes overhead, overcast Jakarta skyline in the distance",
+  "takeaway": "Laporan ini negatif bagi PTPP, karena penurunan peringkat ke idSD dan idD bukan sekadar risiko di atas kertas, melainkan konfirmasi resmi bahwa perusahaan sudah gagal membayar kewajiban utang yang jatuh tempo, melanjutkan tekanan arus kas yang sebelumnya sudah terlihat dari permintaan penundaan bagi hasil sukuk. Yang tersentuh langsung adalah likuiditas, yakni ketersediaan kas untuk membayar utang jangka pendek, dan risiko refinancing, yaitu kemungkinan sulitnya perusahaan mendapat pinjaman baru untuk melunasi utang lama di tengah ketatnya pendanaan sektor konstruksi, dua hal yang menentukan apakah perusahaan bisa terus beroperasi normal tanpa menjual aset atau menerbitkan saham baru yang mendilusi kepemilikan pemegang saham lama. Yang perlu dipantau berikutnya adalah hasil Rapat Umum Pemegang Obligasi dan Rapat Umum Pemegang Sukuk pada 10 dan 11 November 2026, karena di situlah skema restrukturisasi konkret bagi pemegang surat utang akan ditentukan, sekaligus apakah PTPP mampu menyelesaikan kewajiban yang gagal dibayar dalam periode remedial 14 hari kerja sejak peringkat ini terbit.",
+  "sentimen": "negatif"
  },
  {
   "slug": "simp-cetak-laba-rp2-05-triliun-di-9m2026-naik-45",

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "laba-bersih-jkon-melonjak-13-kali-lipat-jadi-rp237-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Laba Bersih [JKON] Melonjak 13 Kali Lipat Jadi Rp237,8 Miliar",
+  "deck": "Laba periode sembilan bulan JKON melonjak drastis dari Rp17,87 miliar jadi Rp237,81 miliar, didorong pendapatan yang naik 51 persen.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JKON",
+   "laporan keuangan",
+   "laba bersih",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031015442-65402-0/FinancialStatement-2026-III-JKON.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "inet-bukukan-kas-rp3-95-triliun-usai-rights-issue-rp3-2-triliun",
   "category": "Aksi Korporasi",
   "title": "INET Bukukan Kas Rp3,95 Triliun Usai [Rights Issue] Rp3,2 Triliun",
@@ -199,6 +215,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475837-umkm-kuliner-punya-peluang-jangkau-42-juta-konsumen-ini-strategi-bank-mandiri-lewat-livin-food"
  },
  {
+  "slug": "real-laba-tipis-naik-kas-menipis-usai-bayar-sanksi-ojk",
+  "category": "Aksi Korporasi",
+  "title": "[REAL] Laba Tipis Naik, Kas Menipis Usai Bayar Sanksi OJK",
+  "deck": "Laporan kuartal III 2026 Repower Asia Indonesia menunjukkan laba naik tipis, tapi kas tergerus pembayaran sanksi OJK dan dividen dipotong drastis.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "REAL",
+   "laporan keuangan",
+   "properti",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030231126-65587-0/FinancialStatement-2026-III-REAL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ntbk-rugi-rp4-83-miliar-pendapatan-anjlok-51-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "NTBK rugi Rp4,83 miliar, pendapatan [anjlok] 51% di kuartal III",
+  "deck": "Pendapatan sembilan bulan NTBK turun hampir separuh dan perusahaan karoseri trailer ini berbalik rugi Rp4,83 miliar, dari untung tahun sebelumnya.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NTBK",
+   "laporan keuangan",
+   "rugi",
+   "karoseri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030231119-65621-0/FinancialStatement-2026-III-NTBK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bpdp-percepat-program-peremajaan-sawit-rakyat",
   "category": "Industri",
   "title": "BPDP Percepat Program [Peremajaan] Sawit Rakyat",
@@ -214,6 +262,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475836-dorong-produktivitas-petani-bpdp-akselerasi-program-peremajaan-sawit-rakyat"
+ },
+ {
+  "slug": "depo-laba-bersih-naik-16-tapi-laba-usaha-susut-22",
+  "category": "Aksi Korporasi",
+  "title": "DEPO: Laba Bersih Naik 16% Tapi [Laba Usaha] Susut 22%",
+  "deck": "Laporan keuangan interim Kuartal III 2026 DEPO: laba bersih naik ditopang pendapatan lain-lain, sementara laba dari operasi toko menyusut dan pinjaman bank jangka pendek melonjak.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEPO",
+   "laporan keuangan",
+   "laba bersih",
+   "ritel bahan bangunan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030230701-64892-0/FinancialStatement-2026-III-DEPO.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "laba-aldo-melonjak-8-kali-lipat-di-kuartal-iii-2026",
@@ -245,6 +309,22 @@ var ARTICLES = [
    "piutang usaha"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030225059-65052-0/FinancialStatement-2026-III-HAJJ.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "agro-laba-bank-raya-turun-separuh-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "AGRO: Laba Bank Raya [Turun Separuh] di Kuartal III 2026",
+  "deck": "Laba Bank Raya Indonesia turun 50 persen menjadi Rp21,01 miliar pada sembilan bulan 2026, tertekan kenaikan pencadangan kredit dan penarikan deposito nasabah.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGRO",
+   "Bank Raya Indonesia",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d8f5870f0_52323d4eec.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -309,6 +389,54 @@ var ARTICLES = [
    "kuartal III 2026"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215539-65563-0/FinancialStatement-2026-III-SAGE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smru-catat-ekuitas-negatif-rp44-8-miliar-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMRU Catat Ekuitas [Negatif] Rp44,8 Miliar per September 2026",
+  "deck": "Ekuitas SMR Utama Tbk berbalik negatif Rp44,83 miliar akhir September 2026, setelah pendapatan sembilan bulan ambruk 98,6 persen dan rugi bersih melebar jadi Rp45,72 miliar.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMRU",
+   "SMR Utama",
+   "laporan keuangan",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215513-65508-0/FinancialStatement-2026-III-SMRU.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ggrp-catat-laba-us-1-6-juta-utang-lancar-melonjak-262",
+  "category": "Aksi Korporasi",
+  "title": "GGRP Catat Laba US$1,6 Juta, [Utang] Lancar Melonjak 262%",
+  "deck": "Laporan keuangan interim Kuartal III 2026 GGRP mencatat laba bersih US$1,6 juta setelah rugi besar tahun lalu, namun diikuti kenaikan utang jangka pendek dan arus kas operasi yang negatif.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GGRP",
+   "laporan keuangan",
+   "utang jangka pendek",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215101-65494-0/FinancialStatement-2026-III-GGRP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-alami-gagal-bayar-peringkat-turun-ke-selective-default",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Alami [Gagal Bayar], Peringkat Turun ke Selective Default",
+  "deck": "PEFINDO menurunkan peringkat PTPP jadi idSD dan obligasi/sukuknya jadi idD akibat gagal bayar, memicu restrukturisasi dan rapat pemegang surat utang pada 10-11 November 2026.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "PEFINDO",
+   "obligasi",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e0bf190988_7783af519f.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6351,134 +6479,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-3382-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-laba-bank-aladin-syariah-anjlok-63-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "BANK: Laba Bank Aladin Syariah [Anjlok] 63% di Kuartal III",
-  "deck": "Laba bersih BANK turun 63 persen jadi Rp47,3 miliar pada sembilan bulan pertama 2026, meski total aset naik 10 persen menjadi Rp15,94 triliun.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BANK",
-   "Bank Aladin Syariah",
-   "laba bersih",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026162608-64617-0/FinancialStatement-2026-III-BANK.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pidl-rampungkan-obligasi-dan-sukuk-rp2-28-triliun",
-  "category": "Aksi Korporasi",
-  "title": "PIDL Rampungkan Obligasi dan Sukuk [Rp2,28 Triliun]",
-  "deck": "PIDL merampungkan penerbitan obligasi dan sukuk mudharabah tahap II 2026 senilai total Rp2,28 triliun, lebih rendah dari target penawaran Rp3,5 triliun yang diumumkan pekan lalu.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIDL",
-   "obligasi korporasi",
-   "sukuk mudharabah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4704f0ad1d_3e1766ae05.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ammn-panggil-rupslb-rombak-komisaris-17-november",
-  "category": "Aksi Korporasi",
-  "title": "AMMN Panggil RUPSLB Rombak [Komisaris] 17 November",
-  "deck": "Amman Mineral Internasional mengundang pemegang saham ke RUPSLB 17 November 2026 untuk menyetujui perubahan susunan Dewan Komisaris, tanpa menyebut nama calon dalam surat pemanggilan.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMMN",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Amman Mineral"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f6596ff81b_1693eb0f38.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bumi-akuisisi-100-saham-mount-margaret-senilai-us-22-juta",
-  "category": "Aksi Korporasi",
-  "title": "BUMI Akuisisi 100% Saham [Mount Margaret] Senilai US$22 Juta",
-  "deck": "Lewat anak usaha di Australia, Bumi Resources mengambil alih seluruh saham Mount Margaret Mining senilai US$22,01 juta untuk diversifikasi usaha di luar batu bara.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUMI",
-   "akuisisi",
-   "pertambangan",
-   "diversifikasi usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11ce08e911_5b656a1e0d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bq-sesuaikan-waran-sidobqcz6a-usai-sido-bagi-dividen-rp10-saham",
-  "category": "Aksi Korporasi",
-  "title": "BQ [Sesuaikan] Waran SIDOBQCZ6A Usai SIDO Bagi Dividen Rp10/Saham",
-  "deck": "PT Korea Investment and Sekuritas Indonesia menyesuaikan rasio dan harga pelaksanaan waran terstruktur SIDOBQCZ6A menyusul dividen tunai Rp300 miliar dari SIDO.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BQ",
-   "SIDO",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2294331c58_919db74dec.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unsp-batalkan-rupslb-yang-dijadwalkan-20-november",
-  "category": "Aksi Korporasi",
-  "title": "UNSP [Batalkan] RUPSLB yang Dijadwalkan 20 November",
-  "deck": "Bakrie Sumatera Plantations membatalkan RUPSLB yang sedianya digelar 20 November 2026 di Jakarta Selatan, tanpa menyebut alasan atau jadwal pengganti.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNSP",
-   "RUPSLB",
-   "Bakrie Sumatera Plantations",
-   "Pembatalan Rapat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ae344e133a_aec9e5c886.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-perjanjian-restrukturisasi-utang-mra-resmi-efektif",
-  "category": "Aksi Korporasi",
-  "title": "ADHI: Perjanjian Restrukturisasi Utang [MRA] Resmi Efektif",
-  "deck": "Master Restructuring Agreement ADHI dengan para kreditur, lewat Bank Mandiri selaku agen fasilitas, berlaku efektif sejak 23 Oktober 2026 setelah seluruh syarat terpenuhi.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "restrukturisasi utang",
-   "Bank Mandiri",
-   "MRA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7a9b497841_b95205d665.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-libatkan-anak-muda-awasi-penyaluran-bbm-di-spbu",
-  "category": "Energi",
-  "title": "ESDM Libatkan Anak Muda [Awasi] Penyaluran BBM di SPBU",
-  "deck": "Kementerian ESDM meluncurkan Program Pengawal Energi 2026 yang merekrut anak muda untuk ikut mengawasi penyaluran BBM subsidi dan non subsidi di 3.679 SPBU.",
-  "date": "25 Oktober 2026",
-  "image": "assets/img/esdm-libatkan-anak-muda-awasi-penyaluran-bbm-di-spbu.jpg",
-  "imageV": "mvo32y5j",
-  "tags": [
-   "BBM subsidi",
-   "ESDM",
-   "SPBU",
-   "energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474955-lewat-program-pengawal-energi-generasi-muda-diajak-terlibat-awasi-penyaluran-bbm"
  }
 ];

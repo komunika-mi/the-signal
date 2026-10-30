@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul",
+  "category": "UMKM",
+  "title": "KKP [Bagikan] 100 Ribu Benih Lele ke Pembudidaya Bantul",
+  "deck": "Kementerian Kelautan dan Perikanan menyalurkan 100.000 benih lele ke lima kelompok pembudidaya di Bantul, DIY, bertepatan dengan peringatan HUT ke-27 lembaga itu.",
+  "image": "assets/img/kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:38:33.439Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/hut-ke-27-kkp-salurkan-100-ribu-benih-lele-dukung-budidaya-perikanan-di-bantul-JN4o.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "KKP",
+   "Benih Lele",
+   "Budidaya Perikanan",
+   "Bantul"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) membagikan 100.000 benih lele unggul kepada lima kelompok pembudidaya ikan (Pokdakan) di Kabupaten Bantul, Daerah Istimewa Yogyakarta. Penyerahan ini menjadi bagian dari rangkaian Bulan Bakti Kelautan dan Perikanan 2026 dalam memperingati HUT ke-27 KKP pada 27 Oktober. Bantuan ditujukan untuk mendorong usaha budidaya kelompok sekaligus membuka tambahan penghasilan bagi warga, termasuk lewat pengolahan hasil panen oleh ibu-ibu PKK.",
+   "Penyerahan bantuan berlangsung bersamaan dengan kunjungan kerja Ketua Komisi IV DPR RI ke Kampung Nelayan Merah Putih Poncosari, Bantul, pada 22 Oktober lalu. Setiap kelompok menerima 20.000 benih yang disiapkan oleh Balai Besar Perikanan Budidaya Air Tawar (BBPBAT) Sukabumi. Benih yang dibagikan merupakan lele Sangkuriang generasi kedua dan dilengkapi Surat Keterangan Asal sebagai jaminan sumbernya.",
+   "Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono meminta kelompok penerima memelihara benih sesuai Cara Budidaya Ikan yang Baik (CBIB) agar tumbuh sampai ukuran konsumsi. Direktur Jenderal Perikanan Budi Daya Tb Haeru Rahayu menambahkan bahwa benih bermutu perlu dibarengi kesiapan air dan prosedur pemeliharaan yang benar supaya hasilnya optimal. BBPBAT Sukabumi disebut akan mengoordinasikan penyuluh perikanan untuk mendampingi kelompok hingga panen, serta mendorong unit pembenihan rakyat lewat penyediaan calon induk unggul.",
+   "Salah satu penerima, Pokdakan Mina Madjoe, berencana membesarkan lele hingga ukuran konsumsi dan melibatkan ibu-ibu PKK dalam pengolahan menjadi produk seperti mangut lele, abon lele, dan pecel lele. Ketua kelompok itu, Yosi Prasetiyo, menyebut bantuan ini menjadi motivasi tambahan bagi warga untuk meneruskan usaha budi daya ikan."
+  ],
+  "fotoAdegan": "Workers pouring young catfish fry from buckets into a muddy earthen aquaculture pond at sunrise in rural Java",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/hut-ke-27-kkp-salurkan-100-ribu-benih-lele-dukung-budidaya-perikanan-di-bantul-JN4o.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah di sini murni penyaluran bantuan, bukan aturan atau kebijakan baru: 100.000 benih lele dibagi rata ke lima kelompok pembudidaya di satu kabupaten, Bantul, masing-masing kebagian 20.000 ekor. Yang terdampak langsung hanya kelompok pembudidaya di wilayah itu beserta ibu-ibu PKK yang mengolah hasil panen jadi mangut, abon, dan pecel lele. Siaran pers ini tidak menyebut berapa total benih yang disalurkan KKP ke seluruh Indonesia sepanjang tahun atau berapa anggarannya, sehingga belum jelas apakah bantuan di Bantul ini bagian dari program yang terus membesar atau sekadar seremoni tahunan yang bertepatan dengan HUT kementerian. Yang perlu dicermati adalah laporan realisasi program bantuan benih KKP secara nasional, bukan acara serah terima di satu daerah seperti ini.",
+  "imageV": "mvuysv67"
+ },
+ {
+  "slug": "kkp-siapkan-76-lokasi-budi-daya-ikan-tematik-di-diy",
+  "category": "UMKM",
+  "title": "KKP Siapkan [76] Lokasi Budi Daya Ikan Tematik di DIY",
+  "deck": "KKP menyiapkan 76 lokasi budi daya ikan tematik di empat kabupaten DIY, bagian dari target nasional membangun 40.000 lokasi serupa hingga 2029.",
+  "image": "assets/img/kkp-siapkan-76-lokasi-budi-daya-ikan-tematik-di-diy.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:38:33.164Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-siapkan-76-lokasi-budi-daya-ikan-tematik-di-diy-untuk-usaha-masyarakat-ketahanan-pangan-MJk3.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "KKP",
+   "Yogyakarta",
+   "budi daya ikan",
+   "ketahanan pangan"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) berencana membangun 76 lokasi budi daya ikan tematik di Daerah Istimewa Yogyakarta, tersebar di Kabupaten Bantul, Gunungkidul, Kulon Progo, dan Sleman. Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono menyebut proyek ini sebagai bagian dari program kerja prioritas nasional yang menargetkan 40.000 lokasi serupa di seluruh Indonesia sampai 2029. Tujuannya membuka peluang usaha baru bagi warga desa sekaligus menambah pasokan protein ikan di tingkat lokal.",
+   "Sebelum pembangunan dimulai, KKP memastikan setiap lokasi melewati pengecekan kelayakan dan penyelesaian izin pemanfaatan lahan. Program ini mencakup pembangunan fasilitas kolam, pelatihan bagi pengelola, penyediaan benih dan pakan, hingga pendampingan teknis pada tahap awal operasional. Direktur Jenderal Perikanan Budi Daya KKP, Tb Haeru Rahayu, mengatakan pendampingan hanya berlangsung sampai satu kali siklus produksi, setelah itu pengelola diharapkan sudah bisa menjalankan usaha secara mandiri.",
+   "Syarat lahan juga menjadi perhatian: status kepemilikan harus jelas, bebas konflik, serta memiliki akses jalan dan jaringan listrik yang memadai. Pemerintah DIY, melalui Dinas Pertanahan dan Tata Ruang, menyatakan siap membantu mempercepat proses administrasi tanah kalurahan yang akan dipakai, termasuk koordinasi dengan pemerintah desa untuk menyiapkan dokumen pendukung. KKP juga telah menggelar sosialisasi program bersama Komisi IV DPR RI dan pemerintah daerah untuk menyiapkan lahan, pengelola, dan jalur pemasaran hasil budi daya.",
+   "Dinas Kelautan dan Perikanan DIY menyebut kolam-kolam ini akan menggunakan sistem resirkulasi, yaitu air yang sudah dipakai diolah ulang lalu dipakai kembali, sehingga lebih cocok untuk DIY yang lahan dan sumber airnya terbatas. Perwakilan warga Kalurahan Trirenggo, Kapanewon Bantul, menyambut program ini karena berpotensi membuka lapangan kerja dan menambah penghasilan warga setempat."
+  ],
+  "fotoAdegan": "Villagers tending rows of small concrete fish ponds linked by plastic pipes in a rural Java village, overcast morning light",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-siapkan-76-lokasi-budi-daya-ikan-tematik-di-diy-untuk-usaha-masyarakat-ketahanan-pangan-MJk3.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah konkret di sini adalah penetapan 76 titik budi daya ikan tematik di empat kabupaten DIY, bagian dari target nasional KKP membangun 40.000 lokasi serupa di seluruh Indonesia sampai 2029. Pihak yang langsung terdampak adalah warga desa calon pengelola kolam di Bantul, Gunungkidul, Kulon Progo, dan Sleman, serta pemerintah kalurahan yang harus menyiapkan status lahan sebelum pembangunan dimulai. Siaran pers ini belum menyebut anggaran per lokasi, jadwal pembangunan, atau hasil evaluasi dari lokasi budi daya tematik yang sudah berjalan di daerah lain, sehingga belum bisa dipastikan apakah pendampingan yang hanya sampai satu siklus produksi cukup membuat usaha ini bertahan mandiri. Yang perlu ditunggu adalah rincian teknis pelaksanaan di DIY serta data kinerja dari lokasi-lokasi lain yang sudah lebih dulu berjalan sebagai bagian dari program 40.000 titik tersebut.",
+  "imageV": "mvuyswqv"
+ },
+ {
   "slug": "iptv-cetak-rugi-rp166-miliar-kas-menyusut-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "IPTV Cetak [Rugi] Rp166 Miliar, Kas Menyusut di Kuartal III 2026",
@@ -105,6 +161,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of server racks blinking with status lights in a cooled data center hall, a technician checking cables in the background",
   "takeaway": "Laporan ini negatif bagi COIN, karena bisnis intinya memburuk dari untung menjadi rugi sepanjang sembilan bulan terakhir, bukan sekadar perubahan administratif. Pos yang paling kena adalah laba per saham, yaitu bagian laba yang jadi hak setiap lembar saham, yang berbalik dari untung Rp3,10 menjadi rugi Rp4,02, serta arus kas dari kegiatan usaha sehari-hari yang berbalik negatif Rp42,3 miliar padahal tahun lalu masih menghasilkan kas positif Rp98,5 miliar, tanda bahwa operasional perusahaan kini menyedot kas alih-alih menghasilkannya. Ekuitas, yakni kekayaan bersih yang jadi hak pemegang saham, juga tergerus dari Rp1.548,8 miliar menjadi Rp1.489,7 miliar akibat rugi tersebut. Penurunan utang yang tajam dalam laporan ini bukan tanda pembaikan operasional, melainkan pelunasan kewajiban pajak dan beban yang memang sudah dicadangkan sejak tahun lalu. Yang perlu dipantau berikutnya adalah laporan kinerja kuartal IV dan laporan tahunan 2026, untuk melihat apakah penurunan pendapatan dari bisnis aset kripto ini terus berlanjut atau mulai membalik.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "petani-hutan-bojonegoro-olah-limbah-jadi-ekonomi-baru",
+  "category": "UMKM",
+  "title": "Petani Hutan Bojonegoro Olah Limbah Jadi [Ekonomi] Baru",
+  "deck": "Petani hutan di Desa Bandungrejo, Bojonegoro, mengolah sisa jagung, jerami, dan kotoran ternak jadi pakan domba serta kompos lewat koperasi, didukung program pemberdayaan Pertamina EP Cepu.",
+  "image": "assets/img/petani-hutan-bojonegoro-olah-limbah-jadi-ekonomi-baru.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T17:07:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475799-dari-kebiasaan-membakar-ke-ekonomi-sirkular-kisah-petani-hutan-di-sekitar-lapangan-gas-jtb",
+  "tags": [
+   "ekonomi sirkular",
+   "Bojonegoro",
+   "petani hutan",
+   "koperasi"
+  ],
+  "body": [
+   "Di Desa Bandungrejo, Kecamatan Ngasem, Bojonegoro, sisa tanaman jagung, jerami, dan kotoran ternak yang dulu dibuang atau dibakar kini diolah menjadi pakan domba dan pupuk kompos. Perubahan ini terjadi lewat kelompok petani penggarap lahan hutan, atau yang biasa disebut pesanggem, yang didampingi Program Petani Hutan JTB dari PT Pertamina EP Cepu (PEPC) Zona 12. Program ini penting karena mengubah kebiasaan yang selama ini berisiko memicu kebakaran hutan menjadi sumber penghasilan tambahan bagi warga.",
+   "Praktiknya terlihat di Dusun Poh Wayang, tempat puluhan domba dipelihara bersama di satu kandang berukuran 15 x 6 meter oleh anggota Koperasi Produsen Rimba Tani Sejahtera. Pakan domba tidak hanya berasal dari rumput segar, tetapi juga dari limbah pertanian yang sebelumnya kerap dibakar begitu musim panen usai. Kotoran domba yang terkumpul kemudian dibawa ke rumah produksi khusus, difermentasi, dan diolah menjadi kompos serta media tanam yang bisa dijual.",
+   "Kebiasaan membakar sisa panen dulunya dianggap cara paling praktis untuk membersihkan lahan sebelum musim tanam berikutnya. Namun cara itu berisiko memicu kebakaran hutan dan lahan, dan asapnya dikhawatirkan bisa masuk ke area fasilitas pengolahan gas Jambaran-Tiung Biru (JTB) yang lokasinya berdekatan dengan lahan garapan warga. Risiko itulah yang mendorong PEPC Zona 12 membuat program pemberdayaan Biru Langit Jambaran-Tiung Biru, dengan Program Petani Hutan JTB sebagai salah satu bentuknya, agar limbah pertanian warga bisa dialihkan menjadi kegiatan ekonomi kelompok."
+  ],
+  "fotoAdegan": "Small flock of sheep inside a modest wooden pen, dried corn stalks and straw piled nearby, rural farmland at dusk in Indonesia.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/30/6ae467a7ccf2a-peternak-memberi-pakan-domba-berbahan-limbah-pertanian-di-kandang-koperasi-rimba-tani-sejahtera-desa-bandungrejo-bojonegoro-sebagai-bagian-dari-program-petani-hutan-jtb_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah cara warga pesanggem memperlakukan sisa panen, dari dibakar menjadi bahan pakan domba dan kompos yang dikelola bersama lewat Koperasi Produsen Rimba Tani Sejahtera di Dusun Poh Wayang. Yang terdampak adalah warga Desa Bandungrejo yang lahan garapannya berada di sekitar fasilitas gas JTB, karena berkurangnya pembakaran limbah juga mengurangi risiko asap mengganggu operasi fasilitas tersebut. Pola seperti ini umum dijumpai pada program pemberdayaan yang dijalankan perusahaan energi di sekitar wilayah operasinya, yaitu mengubah kebiasaan warga yang berisiko bagi fasilitas menjadi usaha ekonomi yang mereka jaga sendiri. Berita ini belum menyebut skala programnya, misalnya berapa kepala keluarga yang terlibat, berapa desa di sekitar JTB yang sudah ikut, atau berapa nilai ekonomi yang dihasilkan koperasi ini. Itu yang perlu dipantau dari laporan lanjutan PEPC Zona 12 soal Program Petani Hutan JTB, untuk melihat apakah ini akan diperluas ke pesanggem lain di sekitar fasilitas atau tetap jadi proyek percontohan di satu dusun.",
+  "imageV": "mvuysx92"
  },
  {
   "slug": "transaksi-umkm-bisa-ekspor-tembus-us-360-juta-per-september",
@@ -449,7 +531,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar jumlah dana, tapi bentuk programnya: KUR yang dulu jadi satu skema tunggal kini dipecah jadi lima jalur berbeda, termasuk kredit perumahan bertarget Rp50 triliun dan kredit khusus perempuan prasejahtera senilai maksimal Rp15 juta berbunga 8 persen tanpa jaminan. Yang kena dampak paling langsung adalah pelaku usaha mikro dan kecil, termasuk calon pekerja migran dan pengembang rumah bersubsidi, lewat bank-bank milik negara, Pegadaian, dan PNM yang jadi penyalurnya. Arahnya terlihat bergeser dari sekadar memperbanyak jumlah peminjam ke membagi kredit berdasarkan kelompok sasaran yang lebih spesifik, sejalan dengan peluncuran Dewan Nasional Kesejahteraan Keuangan oleh Presiden Prabowo Subianto pada 22 Oktober 2026 yang mengalihkan fokus dari sekadar akses menuju kualitas hidup keuangan keluarga. Yang akan memastikan arah ini benar-benar berjalan adalah apakah penyaluran Kredit Program Perumahan mendekati target Rp50 triliun pada akhir tahun, serta aturan turunan dari dewan baru tersebut yang bentuknya belum dijelaskan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "kredit-program-pemerintah-capai-rp2-440-triliun-npl-2-13",
@@ -477,7 +559,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari forum ini adalah bertambahnya instrumen kredit bersubsidi pemerintah menjadi lima jenis, dengan Kredit Perempuan Prasejahtera (KPPS) yang disebut sedang memasuki tahap peluncuran, melengkapi KUR, kredit alat pertanian, kredit industri padat karya, dan kredit perumahan. Yang berpotensi terdampak adalah perempuan dari kelompok prasejahtera yang sebelumnya mungkin belum masuk kriteria KUR biasa, sementara pelaku usaha mikro tetap jadi sasaran utama karena menyumbang 96,7 persen dari 56,7 juta UMKM yang tercatat. Pola yang terlihat adalah pemerintah bergerak dari satu program payung besar, yaitu KUR, menuju rangkaian kredit yang makin terpecah menurut kelompok sasaran seperti petani, pekerja industri padat karya, dan kini perempuan prasejahtera, ketimbang sekadar memperbesar KUR itu sendiri. Yang akan memastikan arah ini adalah detail peluncuran resmi KPPS, termasuk besaran plafon dan bunga, yang belum diumumkan dalam siaran pers ini.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "ekspor-alat-musik-ri-tembus-rp6-2-triliun-di-2026",

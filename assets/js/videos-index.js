@@ -4,6 +4,46 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "0bVTTmF6ZsI",
+  "title": "Hilirisasi Nikel hingga Kelapa Jadi Andalan Ekspor Indonesia",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "Rapimnas Kadin 2026 menyoroti hilirisasi nikel dan kelapa sebagai andalan ekspor Indonesia, dalam forum konsolidasi pemerintah dan dunia usaha merumuskan arah kebijakan ekonomi.",
+  "takeaway": "Menggambarkan arah kebijakan hilirisasi yang memengaruhi struktur ekspor nasional."
+ },
+ {
+  "id": "NSivV11wBvo",
+  "title": "Ekspor Industri Pengolahan Tembus US$159,55 Miliar",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "Industri pengolahan tercatat menyumbang ekspor senilai US$159,55 miliar, dibahas dalam Rapimnas Kadin sebagai bagian perumusan arah kebijakan ekonomi bersama pemerintah.",
+  "takeaway": "Angka ini menunjukkan peran sektor manufaktur sebagai andalan devisa ekspor."
+ },
+ {
+  "id": "gV5HIMYAyZM",
+  "title": "Kemendag Ungkap Strategi Dorong Produk Lokal Tembus Pasar Global",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Kementerian Perdagangan memaparkan strategi memperluas pasar produk lokal ke kancah global dalam forum Rapimnas Kadin, ajang konsolidasi pemerintah dan dunia usaha.",
+  "takeaway": "Relevan bagi pelaku usaha yang ingin memahami arah kebijakan ekspor pemerintah."
+ },
+ {
+  "id": "HXlXzYeHcqU",
+  "title": "Dorong Pertumbuhan Ekonomi, Kadin Siapkan Ekosistem UMKM Naik Kelas",
+  "category": "UMKM",
+  "program": "Kabar Petang",
+  "summary": "Rapimnas Kadin menyoroti tantangan ekonomi global dan mencatat 55 persen investasi di Indonesia berasal dari dalam negeri, sembari menyiapkan ekosistem bagi UMKM agar naik kelas.",
+  "takeaway": "Memberi gambaran soal komposisi investasi domestik dan dukungan bagi pelaku UMKM."
+ },
+ {
+  "id": "VXT2G6LpR1s",
+  "title": "Pasokan Gas Indonesia ke Singapura Dipangkas 31 MMSCFD",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Menko Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia menegaskan pengurangan ekspor gas pipa dari Indonesia ke Singapura sebesar 31 juta kaki kubik standar per hari.",
+  "takeaway": "Kebijakan ini berdampak pada arah ekspor energi dan hubungan dagang gas dengan Singapura."
+ },
+ {
   "id": "101OL6VclgU",
   "title": "BTN Luncurkan SuperApps Bale, Permudah Layanan Perbankan Digital",
   "category": "Perbankan",
@@ -442,45 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Direktur Eksekutif Poltracking Indonesia, Hanta Yuda, menyoroti masih tingginya harga kebutuhan pokok dan melemahnya daya beli masyarakat di tengah isu reshuffle kabinet, sekaligus mengingatkan soal capaian ekonomi pemerintah.",
   "takeaway": "Analisis ini penting bagi pembaca ekonomi karena menyentuh dua indikator inti kesejahteraan rumah tangga, yaitu harga pangan dan daya beli, yang langsung berdampak pada konsumsi domestik."
- },
- {
-  "id": "RNzDtcmHGrw",
-  "title": "Kadin Dorong Gerakan Buy From Indonesia dan Buy Indonesia",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Kamar Dagang dan Industri Indonesia mendorong gerakan Buy From Indonesia dan Buy Indonesia sebagai strategi memperkuat posisi produk dalam negeri di rantai pasok global.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya penguatan daya saing industri dalam negeri dan dorongan substitusi produk impor."
- },
- {
-  "id": "6J18Ecp4ZBs",
-  "title": "Peternak Ayam Terancam Bangkrut akibat Harga Pakan Naik",
-  "category": "UMKM",
-  "program": "Indonesia Business Forum",
-  "summary": "Kenaikan harga pakan ternak menggerus margin keuntungan peternak ayam, sementara harga jual ayam di pasaran terus merosot. Ketua PERMINDO memperingatkan sejumlah peternak berisiko bangkrut dalam hitungan bulan.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti tekanan biaya produksi pangan yang bisa berdampak pada harga protein hewani dan daya beli masyarakat."
- },
- {
-  "id": "NB-iW3iDvMg",
-  "title": "Prancis Taksir Kerugian Protes Rusuh Ratusan Juta Euro",
-  "category": "Global",
-  "program": "OneNews Update",
-  "summary": "Aksi protes yang berujung kerusuhan di Prancis menimbulkan kerugian ekonomi yang ditaksir mencapai ratusan juta Euro, menurut Menteri Perekonomian Prancis.",
-  "takeaway": "Penting bagi pembaca ekonomi karena memperlihatkan dampak nyata ketidakstabilan sosial terhadap aktivitas ekonomi dan dunia usaha di Prancis."
- },
- {
-  "id": "6LsQuXGwsMU",
-  "title": "Bahlil Lahadalia: Harga BBM Subsidi Diupayakan Tidak Naik",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Menteri ESDM Bahlil Lahadalia menyampaikan pemerintah terus menghitung dampak kenaikan harga minyak mentah global atau Indonesian Crude Price terhadap subsidi BBM dalam negeri.",
-  "takeaway": "Kebijakan harga BBM subsidi langsung memengaruhi anggaran negara dan daya beli masyarakat, sehingga relevan dipantau pembaca ekonomi."
- },
- {
-  "id": "NAPcw020Xc4",
-  "title": "Presiden Prabowo Hadiri Rakornas Percepatan Akses Keuangan Daerah",
-  "category": "Perbankan",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto menghadiri Rapat Koordinasi Nasional Tim Percepatan Akses Keuangan Daerah (TPAKD) 2026 yang membahas penguatan akses pembiayaan di tingkat daerah.",
-  "takeaway": "Rakornas TPAKD relevan bagi pembaca ekonomi karena menyangkut kebijakan inklusi keuangan dan akses pembiayaan daerah yang berdampak langsung pada pelaku UMKM."
  }
 ];

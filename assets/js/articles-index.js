@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul",
+  "category": "UMKM",
+  "title": "KKP [Bagikan] 100 Ribu Benih Lele ke Pembudidaya Bantul",
+  "deck": "Kementerian Kelautan dan Perikanan menyalurkan 100.000 benih lele ke lima kelompok pembudidaya di Bantul, DIY, bertepatan dengan peringatan HUT ke-27 lembaga itu.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul.jpg",
+  "imageV": "mvuysv67",
+  "tags": [
+   "KKP",
+   "Benih Lele",
+   "Budidaya Perikanan",
+   "Bantul"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/hut-ke-27-kkp-salurkan-100-ribu-benih-lele-dukung-budidaya-perikanan-di-bantul-JN4o.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "kkp-siapkan-76-lokasi-budi-daya-ikan-tematik-di-diy",
+  "category": "UMKM",
+  "title": "KKP Siapkan [76] Lokasi Budi Daya Ikan Tematik di DIY",
+  "deck": "KKP menyiapkan 76 lokasi budi daya ikan tematik di empat kabupaten DIY, bagian dari target nasional membangun 40.000 lokasi serupa hingga 2029.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/kkp-siapkan-76-lokasi-budi-daya-ikan-tematik-di-diy.jpg",
+  "imageV": "mvuyswqv",
+  "tags": [
+   "KKP",
+   "Yogyakarta",
+   "budi daya ikan",
+   "ketahanan pangan"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-siapkan-76-lokasi-budi-daya-ikan-tematik-di-diy-untuk-usaha-masyarakat-ketahanan-pangan-MJk3.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
   "slug": "iptv-cetak-rugi-rp166-miliar-kas-menyusut-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "IPTV Cetak [Rugi] Rp166 Miliar, Kas Menyusut di Kuartal III 2026",
@@ -67,6 +103,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030181603-65582-0/FinancialStatement-2026-III-COIN.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "petani-hutan-bojonegoro-olah-limbah-jadi-ekonomi-baru",
+  "category": "UMKM",
+  "title": "Petani Hutan Bojonegoro Olah Limbah Jadi [Ekonomi] Baru",
+  "deck": "Petani hutan di Desa Bandungrejo, Bojonegoro, mengolah sisa jagung, jerami, dan kotoran ternak jadi pakan domba serta kompos lewat koperasi, didukung program pemberdayaan Pertamina EP Cepu.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/petani-hutan-bojonegoro-olah-limbah-jadi-ekonomi-baru.jpg",
+  "imageV": "mvuysx92",
+  "tags": [
+   "ekonomi sirkular",
+   "Bojonegoro",
+   "petani hutan",
+   "koperasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475799-dari-kebiasaan-membakar-ke-ekonomi-sirkular-kisah-petani-hutan-di-sekitar-lapangan-gas-jtb"
  },
  {
   "slug": "transaksi-umkm-bisa-ekspor-tembus-us-360-juta-per-september",
@@ -6430,54 +6483,6 @@ var ARTICLES = [
    "BUMN"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1a0cb1c43d_efd420f9ad.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-rupsu-sukuk-gagal-keputusan-usulan-ditolak-51-8",
-  "category": "Aksi Korporasi",
-  "title": "WIKA: RUPSU Sukuk Gagal Keputusan, Usulan Ditolak [51,8%]",
-  "deck": "RUPSU sukuk WIKA pada 21 Oktober 2026 gagal mencapai keputusan karena suara setuju atas usulan penyelesaian gagal bayar bagi hasil ke-14 dan ke-15 hanya 48,2 persen, kurang dari syarat 75 persen.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "gagal bayar",
-   "RUPSU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/793aab41a1_f2170cc89c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-usulan-sukuk-ditolak-lagi-71-4-suara-tak-setuju",
-  "category": "Aksi Korporasi",
-  "title": "WIKA: Usulan Sukuk [Ditolak] Lagi, 71,4% Suara Tak Setuju",
-  "deck": "RUPSU Sukuk Mudharabah WIKA 21 Oktober gagal ambil keputusan karena 71,4% pemegang sukuk menolak usulan penjadwalan ulang bagi hasil ke-22 dan ke-23.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1032d3dc21_8df9761858.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-catatkan-obligasi-rp500-miliar-tahap-v-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "ENRG Catatkan [Obligasi] Rp500 Miliar Tahap V di BEI",
-  "deck": "ENRG mencatatkan obligasi tahap V senilai Rp500 miliar di BEI mulai 23 Oktober 2026, bagian dari program obligasi berkelanjutan bertarget Rp4 triliun.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "obligasi korporasi",
-   "BEI",
-   "migas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/97fab501a0_9d3ebbb139.pdf",
   "sourceLabel": "IDX"
  }
 ];

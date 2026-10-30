@@ -2,6 +2,51 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "0bVTTmF6ZsI",
+  "title": "Hilirisasi Nikel hingga Kelapa Jadi Andalan Ekspor Indonesia",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "Rapimnas Kadin 2026 menyoroti hilirisasi nikel dan kelapa sebagai andalan ekspor Indonesia, dalam forum konsolidasi pemerintah dan dunia usaha merumuskan arah kebijakan ekonomi.",
+  "takeaway": "Menggambarkan arah kebijakan hilirisasi yang memengaruhi struktur ekspor nasional.",
+  "terbit": "2026-10-30T11:55:37+00:00"
+ },
+ {
+  "id": "NSivV11wBvo",
+  "title": "Ekspor Industri Pengolahan Tembus US$159,55 Miliar",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "Industri pengolahan tercatat menyumbang ekspor senilai US$159,55 miliar, dibahas dalam Rapimnas Kadin sebagai bagian perumusan arah kebijakan ekonomi bersama pemerintah.",
+  "takeaway": "Angka ini menunjukkan peran sektor manufaktur sebagai andalan devisa ekspor.",
+  "terbit": "2026-10-30T11:35:53+00:00"
+ },
+ {
+  "id": "gV5HIMYAyZM",
+  "title": "Kemendag Ungkap Strategi Dorong Produk Lokal Tembus Pasar Global",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Kementerian Perdagangan memaparkan strategi memperluas pasar produk lokal ke kancah global dalam forum Rapimnas Kadin, ajang konsolidasi pemerintah dan dunia usaha.",
+  "takeaway": "Relevan bagi pelaku usaha yang ingin memahami arah kebijakan ekspor pemerintah.",
+  "terbit": "2026-10-30T11:23:15+00:00"
+ },
+ {
+  "id": "HXlXzYeHcqU",
+  "title": "Dorong Pertumbuhan Ekonomi, Kadin Siapkan Ekosistem UMKM Naik Kelas",
+  "category": "UMKM",
+  "program": "Kabar Petang",
+  "summary": "Rapimnas Kadin menyoroti tantangan ekonomi global dan mencatat 55 persen investasi di Indonesia berasal dari dalam negeri, sembari menyiapkan ekosistem bagi UMKM agar naik kelas.",
+  "takeaway": "Memberi gambaran soal komposisi investasi domestik dan dukungan bagi pelaku UMKM.",
+  "terbit": "2026-10-30T11:14:31+00:00"
+ },
+ {
+  "id": "VXT2G6LpR1s",
+  "title": "Pasokan Gas Indonesia ke Singapura Dipangkas 31 MMSCFD",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Menko Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia menegaskan pengurangan ekspor gas pipa dari Indonesia ke Singapura sebesar 31 juta kaki kubik standar per hari.",
+  "takeaway": "Kebijakan ini berdampak pada arah ekspor energi dan hubungan dagang gas dengan Singapura.",
+  "terbit": "2026-10-30T10:54:23+00:00"
+ },
+ {
   "id": "101OL6VclgU",
   "title": "BTN Luncurkan SuperApps Bale, Permudah Layanan Perbankan Digital",
   "category": "Perbankan",

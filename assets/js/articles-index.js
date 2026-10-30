@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-kirim-7-ton-cabai-rawit-ke-halmahera-utara",
+  "category": "Makroekonomi",
+  "title": "Kemendag Kirim [7 Ton] Cabai Rawit ke Halmahera Utara",
+  "deck": "Kementerian Perdagangan mengirim 7 ton cabai rawit dari Probolinggo ke Halmahera Utara untuk menekan harga yang sempat mencapai Rp150.000 per kilogram menjelang Natal dan Tahun Baru.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/kemendag-kirim-7-ton-cabai-rawit-ke-halmahera-utara.jpg",
+  "imageV": "mvuivzcm",
+  "tags": [
+   "cabai rawit",
+   "Kemendag",
+   "Halmahera Utara",
+   "Nataru"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tekan-disparitas-harga-jelang-nataru-kemendag-fasilitasi-pengiriman-7-ton-cabai-rawit-ke-halmahera-utara",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "harga-emas-antam-turun-ke-rp2-546-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] ke Rp2.546.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp13.000 menjadi Rp2.546.000 per gram, sementara harga buyback juga melemah ke Rp2.341.000 per gram.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-turun-ke-rp2-546-000-per-gram.jpg",
+  "imageV": "mvuivzs2",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "antam",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475731-harga-emas-antam-hari-ini-30-oktober-2026-turun-jadi-rp2546000-per-gram-saatnya-borong"
+ },
+ {
   "slug": "pzza-caplok-dua-bisnis-bakeri-laba-bersih-naik-jadi-rp17-1-m",
   "category": "Aksi Korporasi",
   "title": "PZZA [Caplok] Dua Bisnis Bakeri, Laba Bersih Naik Jadi Rp17,1 M",
@@ -163,6 +198,142 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030094727-65395-0/FinancialStatement-2026-III-HAIS.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beras-sphp-dioplos-mentan-amran-usul-hukuman-mati",
+  "category": "Bisnis",
+  "title": "Beras SPHP [Dioplos], Mentan Amran Usul Hukuman Mati",
+  "deck": "Menteri Pertanian Andi Amran Sulaiman geram atas praktik pengoplosan beras subsidi SPHP jadi beras premium, menyebut pelakunya pantas dihukum mati jika memungkinkan.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/beras-sphp-dioplos-mentan-amran-usul-hukuman-mati.jpg",
+  "imageV": "mvuiw06s",
+  "tags": [
+   "beras",
+   "SPHP",
+   "Bulog",
+   "pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475706-mentan-amran-murka-sebut-pelaku-oplos-beras-sphp-pantas-dihukum-mati"
+ },
+ {
+  "slug": "hekrafnas-2026-transaksi-umkm-tembus-rp6-miliar-sehari",
+  "category": "UMKM",
+  "title": "Hekrafnas 2026: Transaksi [UMKM] Tembus Rp6 Miliar Sehari",
+  "deck": "Perayaan Hari Ekonomi Kreatif Nasional 2026 melibatkan 680 UMKM di enam provinsi dengan transaksi harian sekitar Rp6 miliar, dari Papua hingga Sumatera Utara.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/hekrafnas-2026-transaksi-umkm-tembus-rp6-miliar-sehari.jpg",
+  "imageV": "mvuiw0l8",
+  "tags": [
+   "ekonomi kreatif",
+   "umkm",
+   "gekrafs",
+   "papua"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475710-hari-ekonomi-kreatif-nasional-2026-catat-perputaran-transaksi-capai-rp6-miliar-dalam-sehari-ratusan-umkm-terlibat"
+ },
+ {
+  "slug": "perumnas-btn-luncurkan-nabung-dp-untuk-rumah-pemuda",
+  "category": "Perbankan",
+  "title": "Perumnas-BTN Luncurkan [Nabung DP] untuk Rumah Pemuda",
+  "deck": "Perumnas dan BTN meluncurkan program tabungan uang muka rumah Nabung DP lewat Festival Hunian Pemuda di Jakarta, menyasar generasi muda calon pembeli rumah pertama.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/perumnas-btn-luncurkan-nabung-dp-untuk-rumah-pemuda.jpg",
+  "imageV": "mvuiw165",
+  "tags": [
+   "perumnas",
+   "btn",
+   "nabung dp",
+   "hunian pemuda"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475707-momentum-sumpah-pemuda-generasi-muda-tanah-air-didorong-miliki-hunian-lewat-inovasi-pembiayaan"
+ },
+ {
+  "slug": "hashim-warga-17-tahun-dapat-rekening-bank-gratis",
+  "category": "Makroekonomi",
+  "title": "Hashim: Warga 17 Tahun Dapat [Rekening Bank] Gratis",
+  "deck": "Hashim Djojohadikusumo mengungkap pemerintah akan memberi rekening bank gratis bagi warga usia 17 tahun ke atas agar bansos bisa ditransfer langsung tanpa perantara.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/hashim-warga-17-tahun-dapat-rekening-bank-gratis.jpg",
+  "imageV": "mvuiw1su",
+  "tags": [
+   "bansos",
+   "rekening bank",
+   "kadin indonesia",
+   "hashim djojohadikusumo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475696-hashim-ungkap-pemerintah-berencana-beri-rekening-bank-gratis-untuk-warga-usia-17-tahun-ke-atas-bansos-langsung-ditransfer"
+ },
+ {
+  "slug": "djp-sulselbartra-ganjar-penghargaan-wajib-pajak-patuh",
+  "category": "Makroekonomi",
+  "title": "DJP Sulselbartra [Ganjar] Penghargaan Wajib Pajak Patuh",
+  "deck": "Kanwil DJP Sulselbartra memberi penghargaan kepatuhan pajak kepada perusahaan tambang nikel PT Ceria Nugraha Indotama dalam ajang Tax Gathering 2026.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/djp-sulselbartra-ganjar-penghargaan-wajib-pajak-patuh.jpg",
+  "imageV": "mvuiw26m",
+  "tags": [
+   "pajak",
+   "DJP",
+   "pertambangan nikel",
+   "Sulawesi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475686-perusahaan-tergolong-patuh-penuhi-pembayaran-pajak-kanwil-djp-sulselbartra-akan-ganjar-penghargaan"
+ },
+ {
+  "slug": "transaksi-qris-tembus-15-miliar-per-juli-2026",
+  "category": "Perbankan",
+  "title": "Transaksi [QRIS] Tembus 15 Miliar per Juli 2026",
+  "deck": "Bank Indonesia mencatat 67,51 juta pengguna QRIS aktif dan 45,46 juta pedagang yang menerimanya, seiring makin banyak warung dan minimarket melayani pembayaran lewat aplikasi seperti GoPay.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/transaksi-qris-tembus-15-miliar-per-juli-2026.jpg",
+  "imageV": "mvuiw2kq",
+  "tags": [
+   "QRIS",
+   "GoPay",
+   "pembayaran digital",
+   "Bank Indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475673-tinggal-scan-qris-di-mana-aja-belanja-kebutuhan-harian-sekarang-makin-sat-set-pakai-gopay"
+ },
+ {
+  "slug": "investasi-ri-tembus-rp3-923-t-di-era-presiden-prabowo",
+  "category": "Makroekonomi",
+  "title": "Investasi RI [Tembus] Rp3.923 T di Era Presiden Prabowo",
+  "deck": "Rosan Roeslani melaporkan realisasi investasi RI tembus Rp3.923,2 triliun dalam dua tahun pertama Presiden Prabowo, dengan hilirisasi nikel di luar Jawa jadi penyumbang utama.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/investasi-ri-tembus-rp3-923-t-di-era-presiden-prabowo.jpg",
+  "imageV": "mvuiw2z4",
+  "tags": [
+   "investasi",
+   "hilirisasi",
+   "bkpm",
+   "nikel"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475661-dua-tahun-prabowo-rosan-roeslani-hilirisasi-luar-jawa-tembus-78-persen-investasi-tembus-hampir-rp4000-triliun"
+ },
+ {
+  "slug": "hashim-rp10-000-triliun-ekonomi-ri-tak-masuk-pdb",
+  "category": "Makroekonomi",
+  "title": "Hashim: Rp10.000 Triliun Ekonomi RI Tak Masuk [PDB]",
+  "deck": "Hashim Djojohadikusumo menyebut Rp10.000 triliun transaksi ekonomi RI tak tercatat, sementara penerimaan negara cuma 12 persen dari PDB, di bawah Kamboja, India, dan Afrika.",
+  "date": "29 Oktober 2026",
+  "image": "assets/img/hashim-rp10-000-triliun-ekonomi-ri-tak-masuk-pdb.jpg",
+  "imageV": "mvuiw3lj",
+  "tags": [
+   "kadin",
+   "hashim djojohadikusumo",
+   "pdb",
+   "apbd"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475659-hashim-sebut-ekonomi-ri-10000-triliun-tak-tercatat-penerimaan-negara-cuma-12-persen-di-bawah-kamboja"
  },
  {
   "slug": "pnm-sabet-juara-grand-genba-champion-bri-group",
@@ -6308,162 +6479,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023152302-64710-0/FinancialStatement-2026-III-BTPS.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "xmlf-ganti-manajer-investasi-jadi-danareksa-im-efektif-23-oktober",
-  "category": "Aksi Korporasi",
-  "title": "XMLF ganti [Manajer Investasi] jadi Danareksa IM, efektif 23 Oktober",
-  "deck": "Manajer Investasi Reksa Dana Indeks Mandiri ETF LQ45 (XMLF) berganti dari PT Mandiri Manajemen Investasi menjadi PT Danareksa Investment Management Indonesia, efektif 23 Oktober 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XMLF",
-   "reksa dana",
-   "manajer investasi",
-   "ETF LQ45"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/eb6462bd50_fc1d7403a8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xdes-manajer-investasi-gold-etf-syariah-beralih-ke-danareksa",
-  "category": "Aksi Korporasi",
-  "title": "XDES: Manajer Investasi Gold ETF Syariah Beralih ke [Danareksa]",
-  "deck": "Manajer investasi Reksa Dana Syariah BRI MI Gold ETF Syariah beralih dari BRI MI ke Danareksa Investment Management Indonesia per 23 Oktober 2026, menyusul penggabungan empat manajer investasi BUMN.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XDES",
-   "Danareksa Investment Management",
-   "Manajer Investasi",
-   "Merger BUMN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c7bbc3e317_982d5b61fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cfin-kuartal-iii-laba-naik-13-liabilitas-turun-24",
-  "category": "Aksi Korporasi",
-  "title": "CFIN Kuartal III: Laba Naik 13%, Liabilitas [Turun] 24%",
-  "deck": "Laba bersih Clipan Finance naik 13,3% jadi Rp153,65 miliar pada sembilan bulan 2026, sementara utang bank susut Rp873,63 miliar dan piutang pembiayaan konsumen mengecil.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CFIN",
-   "laporan keuangan",
-   "multifinance",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023145818-64729-0/FinancialStatement-2026-III-CFIN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sido-bagi-dividen-interim-rp300-miliar-rp10-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "SIDO Bagi [Dividen] Interim Rp300 Miliar, Rp10 per Saham",
-  "deck": "Sido Muncul akan membagikan dividen interim tunai Rp10 per saham senilai total Rp300 miliar untuk tahun buku 2026, dibayarkan 20 November 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SIDO",
-   "dividen interim",
-   "Sido Muncul",
-   "emiten farmasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4e330fef4c_2d89438721.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raam-direksi-ram-punjabi-tambah-saham-193-100-lembar",
-  "category": "Aksi Korporasi",
-  "title": "RAAM: Direksi Ram Punjabi Tambah [Saham] 193.100 Lembar",
-  "deck": "Direktur RAAM Ram Jethmal Punjabi membeli 193.100 saham lewat empat transaksi pada 21-22 Oktober 2026, hak suaranya tetap 68,84 persen.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAAM"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-9453-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xdif-manajer-investasi-beralih-ke-danareksa-usai-merger-bumn",
-  "category": "Aksi Korporasi",
-  "title": "XDIF: Manajer Investasi Beralih ke Danareksa usai [Merger] BUMN",
-  "deck": "Manajer investasi XDIF beralih dari BRI Manajemen Investasi ke PT Danareksa Investment Management Indonesia, menyusul penggabungan empat manajer investasi BUMN efektif 1 Oktober 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XDIF",
-   "manajer investasi",
-   "merger BUMN",
-   "Danareksa Investment Management"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a61aad6ae0_530f560947.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "alii-komisaris-tambah-1-2-juta-saham-hak-suara-ke-2-24",
-  "category": "Aksi Korporasi",
-  "title": "ALII: Komisaris [tambah] 1,2 juta saham, hak suara ke 2,24%",
-  "deck": "Komisaris Nalinkant Amratlal Rathod membeli 1.213.600 saham ALII secara tidak langsung pada 21 Oktober 2026, menaikkan hak suaranya dari 2,23% menjadi 2,24%.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ALII",
-   "komisaris",
-   "kepemilikan saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5252-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ipcc-laba-9-bulan-turun-6-9-jadi-rp177-2-miliar",
-  "category": "Aksi Korporasi",
-  "title": "IPCC: Laba 9 Bulan [Turun] 6,9% Jadi Rp177,2 Miliar",
-  "deck": "Pendapatan dan laba bersih Indonesia Kendaraan Terminal (IPCC) turun pada sembilan bulan pertama 2026, sementara utang dividen sudah lunas dan kas masih di atas Rp1 triliun.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPCC",
-   "laporan keuangan",
-   "pelabuhan",
-   "Pelindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023141823-64496-0/FinancialStatement-2026-III-IPCC.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "alii-komisaris-rathod-tambah-saham-suara-tetap-2-23",
-  "category": "Aksi Korporasi",
-  "title": "ALII: [Komisaris] Rathod Tambah Saham, Suara Tetap 2,23%",
-  "deck": "Komisaris ALII, Nalinkant Amratlal Rathod, membeli 296.700 saham lewat dua transaksi pada 20 Oktober 2026 senilai sekitar Rp181,47 juta, namun hak suaranya tetap di 2,23 persen.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ALII",
-   "Ancara Logistics Indonesia",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-6861-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jelang-nataru-pemerintah-waspadai-lonjakan-harga-cabai",
-  "category": "Makroekonomi",
-  "title": "Jelang Nataru, Pemerintah Waspadai Lonjakan Harga [Cabai]",
-  "deck": "Pemerintah memperkuat rantai pasok pangan di Sulampua dan menjalankan stimulus Rp26,34 triliun menjelang Nataru, seiring inflasi pangan naik ke 5,03 persen dan harga cabai melonjak tajam.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
-  "tags": [
-   "inflasi pangan",
-   "Nataru",
-   "cabai",
-   "Sulampua"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7179/antisipasi-inflasi-jelang-nataru-pemerintah-perkuat-rantai-pasok-pangan",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

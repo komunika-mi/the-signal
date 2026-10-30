@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemendag-kirim-7-ton-cabai-rawit-ke-halmahera-utara",
+  "category": "Makroekonomi",
+  "title": "Kemendag Kirim [7 Ton] Cabai Rawit ke Halmahera Utara",
+  "deck": "Kementerian Perdagangan mengirim 7 ton cabai rawit dari Probolinggo ke Halmahera Utara untuk menekan harga yang sempat mencapai Rp150.000 per kilogram menjelang Natal dan Tahun Baru.",
+  "image": "assets/img/kemendag-kirim-7-ton-cabai-rawit-ke-halmahera-utara.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T05:14:44.174Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tekan-disparitas-harga-jelang-nataru-kemendag-fasilitasi-pengiriman-7-ton-cabai-rawit-ke-halmahera-utara",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "cabai rawit",
+   "Kemendag",
+   "Halmahera Utara",
+   "Nataru"
+  ],
+  "body": [
+   "Kementerian Perdagangan memfasilitasi pengiriman 7 ton cabai rawit dari Probolinggo, Jawa Timur, ke Kabupaten Halmahera Utara, Maluku Utara. Langkah ini diambil untuk mengurangi kesenjangan harga cabai rawit antara kedua daerah sekaligus memperkuat pasokan menjelang Natal 2026 dan Tahun Baru 2027. Berdasarkan pemantauan Kemendag per 27 Oktober 2026, harga cabai rawit di Halmahera Utara berada di kisaran Rp150.000 per kilogram, jauh di atas harga di daerah penghasil seperti Probolinggo.",
+   "Menteri Perdagangan Budi Santoso menyebut pengiriman ini sebagai upaya menghubungkan sentra produksi dengan daerah yang kekurangan pasokan, sekaligus menjaga stabilitas harga barang kebutuhan pokok. Fasilitasi ini melibatkan Bank Indonesia Perwakilan Maluku Utara dan didukung Badan Pangan Nasional lewat program Fasilitasi Distribusi Pangan. Pemerintah Kabupaten Halmahera Utara menyatakan berharap tambahan pasokan ini bisa menekan harga cabai hingga di bawah Rp100.000 per kilogram.",
+   "Kerja sama ini melanjutkan penandatanganan kerja sama antardaerah antara Pemerintah Kabupaten Halmahera Utara dan Pemerintah Kabupaten Malang pada 19 Oktober 2026, yang juga difasilitasi Bank Indonesia melalui Tim Pengendalian Inflasi Daerah. Untuk distribusi komoditas pangan lain, Kemendag menyebut pengiriman telur dioptimalkan lewat kerja sama dengan PT Pelni, sementara cabai yang cepat rusak bisa dikirim lewat jalur udara agar lebih cepat sampai ke tujuan.",
+   "Secara lebih luas, Kemendag mencatat program Gerai Maritim yang memanfaatkan Tol Laut dan Jembatan Udara sudah menjangkau 63 kota/kabupaten dan 12 kabupaten di wilayah tertinggal, terdepan, terluar, dan perbatasan. Program ini diklaim menurunkan harga rata-rata 11,22 persen, dengan rincian harga barang kebutuhan pokok turun 11,63 persen dan barang penting turun 8,04 persen. Kemendag juga menyebut kerja sama antardaerah sejenis kini menjangkau 301 kabupaten/kota di 18 provinsi, dengan pemantauan arus barang antarpulau mencakup 244 pelabuhan dan volume 541,26 juta ton sepanjang Januari-September 2026."
+  ],
+  "fotoAdegan": "Workers loading sacks of fresh red chilies onto a truck at a bustling wholesale produce market loading dock, early morning",
+  "fotoSumber": "https://www.kemendag.go.id/albums/26PvvhoQmG2ozgPZSnqGurewYBSAmy2MrdEXgoCu.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan sekadar pengiriman 7 ton cabai, melainkan makin seringnya Kemendag memakai cara yang sama: mempertemukan daerah berharga mahal dengan daerah yang stoknya lebih banyak. Pola itu terlihat dari kerja sama serupa yang menurut Kemendag sudah menjangkau 301 kabupaten/kota di 18 provinsi, ditambah program Tol Laut dan Jembatan Udara yang diklaim menurunkan harga rata-rata lebih dari 11 persen. Yang kena dampak langsung adalah warga Halmahera Utara yang selama ini membeli cabai rawit sekitar Rp150.000 per kilogram, serta petani dan pedagang di Probolinggo yang mendapat jalur pasar baru. Arahnya mengarah ke distribusi antardaerah sebagai alat rutin peredam gejolak harga pangan, bukan sekali jalan saja. Yang akan membuktikan apakah cara ini benar bekerja adalah data harga cabai di Halmahera Utara pada pekan-pekan setelah pasokan ini tiba, apakah memang mendekati target Rp100.000 per kilogram yang disebut pemerintah daerah setempat.",
+  "imageV": "mvuivzcm"
+ },
+ {
+  "slug": "harga-emas-antam-turun-ke-rp2-546-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] ke Rp2.546.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp13.000 menjadi Rp2.546.000 per gram, sementara harga buyback juga melemah ke Rp2.341.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-ke-rp2-546-000-per-gram.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T09:53:53+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475731-harga-emas-antam-hari-ini-30-oktober-2026-turun-jadi-rp2546000-per-gram-saatnya-borong",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "antam",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam hari ini, 30 Oktober 2026, turun menjadi Rp2.546.000 per gram. Pergerakan ini penting bagi siapa pun yang berencana membeli atau menjual logam mulia dalam waktu dekat, karena langsung menentukan besaran uang yang harus dikeluarkan atau diterima dari transaksi tersebut.",
+   "Berdasarkan data dari laman resmi Logam Mulia, harga tersebut turun Rp13.000 dibandingkan posisi sebelumnya di Rp2.559.000 per gram. Harga beli kembali atau buyback, yaitu harga yang dibayarkan Antam ketika masyarakat menjual balik emas batangannya, juga ikut melemah menjadi Rp2.341.000 per gram.",
+   "Selisih antara harga jual Rp2.546.000 dan harga buyback Rp2.341.000 per gram ini mencapai Rp205.000, yang jadi acuan berapa besar potensi selisih biaya jika emas dibeli lalu dijual kembali dalam waktu singkat. Antam sendiri mengingatkan bahwa harga emas batangannya bisa berubah sewaktu-waktu mengikuti pergerakan pasar."
+  ],
+  "fotoAdegan": "Close-up of small gold bullion bars stacked on a velvet tray inside a precious metals counter, soft warm lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/06/05/665fc52aebfa1-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Penurunan Rp13.000 menjadi Rp2.546.000 per gram ini membuat emas batangan Antam lebih murah dari hari sebelumnya, dan harga buyback, yaitu harga yang dibayar Antam saat masyarakat menjual balik emasnya, juga ikut turun ke Rp2.341.000 per gram. Yang terdampak langsung adalah orang yang berencana membeli atau mencairkan emas batangan dalam waktu dekat, karena selisih harga jual dan beli balik ini menentukan untung atau rugi dari transaksi mereka. Data hari ini baru satu titik, jadi belum bisa dipastikan apakah ini awal tren turun atau sekadar koreksi sehari, sebab pergerakan harga emas Antam biasanya mengikuti harga emas dunia yang tidak tercakup dalam data ini. Yang perlu dipantau adalah harga emas Antam dalam beberapa hari mendatang serta pergerakan harga emas internasional, karena itu yang akan menunjukkan apakah penurunan ini berlanjut atau berbalik.",
+  "imageV": "mvuivzs2"
+ },
+ {
   "slug": "pzza-caplok-dua-bisnis-bakeri-laba-bersih-naik-jadi-rp17-1-m",
   "category": "Aksi Korporasi",
   "title": "PZZA [Caplok] Dua Bisnis Bakeri, Laba Bersih Naik Jadi Rp17,1 M",
@@ -262,6 +316,219 @@ var ARTICLES = [
   "fotoAdegan": "Cargo ship docked at an Indonesian port with containers being loaded by a crane, overcast afternoon light",
   "takeaway": "Laporan ini condong negatif bagi performa Hasnur Internasional Shipping karena laba bersih sembilan bulan 2026 longsor 70 persen dibanding periode sama tahun lalu, sementara utangnya justru naik 23 persen, kombinasi yang jarang terbaca sebagai sinyal baik. Yang tersentuh ada tiga pos: laba per saham, yakni bagian laba yang secara matematis menjadi hak setiap lembar saham, turun dari Rp26,35 ke Rp7,82; beban bunga, ongkos yang harus dibayar perusahaan atas pinjamannya, naik hampir 15 persen jadi Rp23,1 miliar karena saldo utang bank membesar; dan ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi utang, yang justru sedikit menyusut meski aset tumbuh, tanda kenaikan aset itu lebih banyak ditopang utang ketimbang laba ditahan. Yang perlu dipantau adalah apakah tambahan pinjaman bank yang mendorong pembelian aset tetap sampai Rp209,2 miliar pada periode ini benar-benar berubah menjadi pendapatan baru di laporan kuartal IV atau laporan tahunan auditan 2026, karena sejauh ini kenaikan belanja modal belum tercermin pada pertumbuhan penjualan yang malah turun 10 persen.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "beras-sphp-dioplos-mentan-amran-usul-hukuman-mati",
+  "category": "Bisnis",
+  "title": "Beras SPHP [Dioplos], Mentan Amran Usul Hukuman Mati",
+  "deck": "Menteri Pertanian Andi Amran Sulaiman geram atas praktik pengoplosan beras subsidi SPHP jadi beras premium, menyebut pelakunya pantas dihukum mati jika memungkinkan.",
+  "image": "assets/img/beras-sphp-dioplos-mentan-amran-usul-hukuman-mati.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T05:58:15+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475706-mentan-amran-murka-sebut-pelaku-oplos-beras-sphp-pantas-dihukum-mati",
+  "tags": [
+   "beras",
+   "SPHP",
+   "Bulog",
+   "pangan"
+  ],
+  "body": [
+   "Menteri Pertanian Andi Amran Sulaiman melontarkan kecaman keras menyusul terungkapnya praktik pengoplosan beras program Stabilisasi Pasokan dan Harga Pangan (SPHP) yang dijual ulang sebagai beras premium. Amran, yang juga menjabat Kepala Badan Pangan Nasional (Bapanas), menyebut praktik ini sebagai kejahatan yang merusak stabilitas pangan nasional karena memanfaatkan beras subsidi pemerintah untuk keuntungan pribadi. Ia bahkan menyatakan pelakunya pantas mendapat hukuman mati jika aturan memungkinkan, menandakan betapa seriusnya pemerintah memandang kasus ini bagi konsumen yang bergantung pada beras bersubsidi.",
+   "Praktik ini terbongkar lewat inspeksi mendadak di Toko Beras Kayumanis, Matraman, serta di Pasar Induk Beras Cipinang, dua titik penting dalam jalur distribusi beras di Jakarta. Dari inspeksi tersebut, otoritas menemukan sekitar 600 ton beras yang diduga diubah kemasan dan dijual dengan harga lebih tinggi dari ketentuan SPHP. Amran menyebut jumlah ini berpotensi bertambah seiring penyelidikan kepolisian yang masih berjalan, menunjukkan skala pengoplosan yang kemungkinan lebih luas dari temuan awal.",
+   "Sebagai respons, Amran mencopot delapan pejabat di lingkungan Perum Bulog dan Bapanas, sementara dua pejabat lain diberi sanksi peringatan keras, sehingga total ada sepuluh orang dari internal pemerintah yang terkena tindakan. Di jalur swasta, kepolisian telah memproses sembilan orang terkait kasus ini, dengan satu di antaranya telah ditetapkan sebagai tersangka. Amran memastikan penyelidikan akan terus berlanjut untuk mengusut seluruh jaringan distribusi ilegal, termasuk kemungkinan keterlibatan oknum di internal pemerintah yang tidak akan lolos dari sanksi pemberhentian maupun jeratan hukum."
+  ],
+  "fotoAdegan": "Rows of rice sacks stacked high inside a busy wholesale rice market warehouse, workers moving pallets, dim morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/30/6ae389e1caff6-menteri-pertanian-andi-amran-sulaiman_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan cuma satu toko ketangkap curang, tapi pembersihan internal berskala cukup besar, delapan pejabat Bulog dan Badan Pangan Nasional dicopot sekaligus, ditambah dua yang diberi peringatan keras. SPHP sendiri adalah beras bersubsidi yang harganya dipatok pemerintah supaya warga bisa beli murah, jadi kalau beras itu diganti kemasan dan dijual sebagai beras premium, yang dirugikan langsung adalah pembeli yang membayar lebih mahal untuk barang yang sebenarnya beras subsidi. Pihak yang kena dampak ada di dua sisi, pejabat pengawas yang dicopot di satu sisi, dan pedagang di Pasar Induk Cipinang serta toko beras yang kini diperiksa polisi di sisi lain. Temuan 600 ton yang disebut masih akan bertambah, ditambah sembilan orang swasta yang sudah diproses, menunjukkan arah penindakan yang meluas, bukan sekadar sanksi simbolis ke satu lokasi. Yang akan menentukan apakah penindakan ini benar-benar menyentuh akar masalah adalah apakah penyelidikan kepolisian selanjutnya juga menjerat oknum di internal pemerintah sebagai tersangka, bukan cuma pihak swasta seperti yang terjadi sejauh ini.",
+  "imageV": "mvuiw06s"
+ },
+ {
+  "slug": "hekrafnas-2026-transaksi-umkm-tembus-rp6-miliar-sehari",
+  "category": "UMKM",
+  "title": "Hekrafnas 2026: Transaksi [UMKM] Tembus Rp6 Miliar Sehari",
+  "deck": "Perayaan Hari Ekonomi Kreatif Nasional 2026 melibatkan 680 UMKM di enam provinsi dengan transaksi harian sekitar Rp6 miliar, dari Papua hingga Sumatera Utara.",
+  "image": "assets/img/hekrafnas-2026-transaksi-umkm-tembus-rp6-miliar-sehari.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T01:36:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475710-hari-ekonomi-kreatif-nasional-2026-catat-perputaran-transaksi-capai-rp6-miliar-dalam-sehari-ratusan-umkm-terlibat",
+  "tags": [
+   "ekonomi kreatif",
+   "umkm",
+   "gekrafs",
+   "papua"
+  ],
+  "body": [
+   "Peringatan Hari Ekonomi Kreatif Nasional (Hekrafnas) 2026 digelar pada 23-24 Oktober di tujuh provinsi dan diklaim menarik 10.000 pengunjung. Acara yang diinisiasi Gerakan Ekonomi Kreatif Nasional (Gekrafs) ini melibatkan 680 pelaku UMKM, dengan estimasi transaksi yang tercatat mencapai Rp6 miliar hanya dalam satu hari di enam provinsi. Angka itu penting karena menggambarkan seberapa besar perputaran uang yang bisa digerakkan sektor kreatif di luar Jakarta dalam waktu singkat.",
+   "Lewat program bernama Nusantara Creative Walk, acara ini membuka ruang promosi bagi pelaku usaha dari berbagai subsektor, mulai dari kuliner, fesyen, kriya, desain produk, penerbitan, film, hingga arsitektur. Setiap daerah mengemas acaranya sesuai potensi lokal, mulai dari pameran produk, pertunjukan seni, olahraga bersama, sampai aksi sosial.",
+   "Di Papua, momentum Hekrafnas diisi dengan penyaluran bantuan sembako kepada pedagang di pasar tradisional Wosi. Ketua DPW Gekrafs Papua Barat, Kristofel Ade Wiyono, menyebut para pedagang pasar itu sebagai penggerak ekonomi rakyat yang selama ini jarang jadi perhatian, sehingga acara ini sekaligus jadi bentuk kepedulian, bukan cuma pameran produk kreatif perkotaan.",
+   "Di Sumatera Utara, perayaan dikemas lewat Nusantara Creative Week 2026 selama dua hari, berisi bazar UMKM, peragaan busana, jalan sehat bertajuk Nusantara Fun Walk, donor darah, serta penyerahan simbolis sertifikat kekayaan intelektual. Salah satu agenda utamanya adalah pemilihan Putri Ekonomi Kreatif Sumatera Utara 2026 yang dimenangkan Feny Row, penata rias sekaligus penari tradisional dan modern. Ketua Umum DPP Gekrafs, Kawendra Lukistian, menyebut rangkaian acara di berbagai daerah ini sebagai bukti bahwa ekonomi kreatif tidak hanya terpusat di Jakarta."
+  ],
+  "fotoAdegan": "Open-air bazaar stalls displaying local handicrafts, woven textiles, and street food under canvas tents, visitors browsing in daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/30/6ae39183c15c6-hari-ekonomi-kreatif-nasional-2026-catat-perputaran-transaksi-capai-rp6-miliar-dalam-sehari_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang jelas berubah dari berita ini adalah angkanya: 680 pelaku UMKM ikut ambil bagian dan transaksi yang tercatat tembus Rp6 miliar hanya dalam satu hari di enam provinsi, lengkap dengan bantuan sembako untuk pedagang pasar tradisional di Papua, bukan cuma pelaku usaha kreatif di kota besar. Yang terdampak langsung adalah pelaku UMKM lintas sektor seperti kuliner, fesyen, dan kriya di tujuh provinsi penyelenggara, termasuk pedagang pasar Wosi di Papua Barat yang biasanya tidak masuk radar acara ekonomi kreatif semacam ini. Berita ini belum menyebut apakah angka Rp6 miliar dan 680 UMKM itu lebih besar atau lebih kecil dibanding Hekrafnas tahun sebelumnya, jadi belum bisa disimpulkan apakah acara tahunan ini sedang membesar atau cuma ramai sehari lalu dampaknya berhenti begitu acara usai. Yang perlu dicek berikutnya adalah apakah Gekrafs merilis data pembanding tahun lalu, atau apakah UMKM yang ikut mendapat akses lanjutan seperti pembiayaan atau pembeli baru setelah acara selesai, karena itu yang membedakan dampak nyata dari sekadar banyak pengunjung.",
+  "imageV": "mvuiw0l8"
+ },
+ {
+  "slug": "perumnas-btn-luncurkan-nabung-dp-untuk-rumah-pemuda",
+  "category": "Perbankan",
+  "title": "Perumnas-BTN Luncurkan [Nabung DP] untuk Rumah Pemuda",
+  "deck": "Perumnas dan BTN meluncurkan program tabungan uang muka rumah Nabung DP lewat Festival Hunian Pemuda di Jakarta, menyasar generasi muda calon pembeli rumah pertama.",
+  "image": "assets/img/perumnas-btn-luncurkan-nabung-dp-untuk-rumah-pemuda.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T01:12:49+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475707-momentum-sumpah-pemuda-generasi-muda-tanah-air-didorong-miliki-hunian-lewat-inovasi-pembiayaan",
+  "tags": [
+   "perumnas",
+   "btn",
+   "nabung dp",
+   "hunian pemuda"
+  ],
+  "body": [
+   "Perum Perumnas bersama PT Bank Tabungan Negara (BTN) meluncurkan program tabungan uang muka rumah bernama Nabung DP, diperkenalkan lewat Festival Hunian Pemuda yang berlangsung 28 hingga 30 Oktober 2026 di Pasaraya Blok M, Jakarta Selatan. Program ini menyasar generasi muda yang ingin memiliki rumah namun terganjal di dua hal sekaligus, yaitu mengumpulkan uang muka dan memenuhi syarat pengajuan KPR. Peluncurannya dikaitkan dengan momentum peringatan Hari Sumpah Pemuda.",
+   "Plt. Direktur Utama Perumnas Imelda Alini Pohan menyebut Nabung DP sebagai program tabungan uang muka rumah pertama yang dihadirkan Perumnas bersama BTN. Ia mengatakan tujuannya adalah membiasakan masyarakat menabung secara disiplin dan terencana sebagai langkah awal menuju kepemilikan rumah, bukan sekadar menunggu dana terkumpul tanpa arah.",
+   "Menurut Imelda, kebiasaan menabung yang konsisten lewat program ini juga bisa menjadi salah satu pertimbangan bank ketika menilai kesiapan calon debitur saat mengajukan KPR. Skemanya memungkinkan calon pembeli menabung uang muka sambil menunggu unit rumah yang mereka minati selesai dibangun, sehingga kesiapan finansial dan konsistensi pembayaran bisa terbangun lebih dulu.",
+   "Dana yang terkumpul dalam program ini tetap tercatat atas nama pribadi penabung, sehingga kepemilikannya jelas dan bisa langsung dipakai mengurangi beban pembiayaan hunian begitu pengajuan KPR disetujui, sesuai ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "Young adults browsing miniature housing models at an indoor property exhibition booth in Jakarta, soft hall lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/30/6ae38bdc8d929-perum-perumnas-yang-berkolaborasi-dengan-pt-bank-tabungan-negara-btn-turut-menggelar-festival-hunian-pemuda-pada-2830-oktober-2026-di-pasaraya-blok-m-jakarta-selatan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah Perumnas dan BTN untuk pertama kalinya memiliki program resmi bernama Nabung DP, tempat calon pembeli menabung uang muka rumah secara terencana, bukan sekadar promosi KPR biasa. Yang kena dampak adalah calon pembeli rumah usia muda yang selama ini terganjal di dua titik, yakni belum punya uang muka dan belum dianggap cukup layak kredit oleh bank. Namun berita ini belum menyebut angka yang menentukan seberapa besar manfaatnya, misalnya berapa setoran minimum tabungan, berapa lama harus menabung sebelum bisa mengajukan KPR, atau apakah ada keringanan bunga bagi peserta program. Tanpa detail teknis itu, belum bisa dipastikan apakah Nabung DP benar-benar memudahkan generasi muda membeli rumah atau hanya menambah satu tahap administratif sebelum proses KPR yang biasa. Yang perlu dipantau adalah ketentuan resmi dan syarat teknis program ini begitu dipublikasikan Perumnas atau BTN setelah festival berakhir pada 30 Oktober.",
+  "imageV": "mvuiw165"
+ },
+ {
+  "slug": "hashim-warga-17-tahun-dapat-rekening-bank-gratis",
+  "category": "Makroekonomi",
+  "title": "Hashim: Warga 17 Tahun Dapat [Rekening Bank] Gratis",
+  "deck": "Hashim Djojohadikusumo mengungkap pemerintah akan memberi rekening bank gratis bagi warga usia 17 tahun ke atas agar bansos bisa ditransfer langsung tanpa perantara.",
+  "image": "assets/img/hashim-warga-17-tahun-dapat-rekening-bank-gratis.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T23:40:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475696-hashim-ungkap-pemerintah-berencana-beri-rekening-bank-gratis-untuk-warga-usia-17-tahun-ke-atas-bansos-langsung-ditransfer",
+  "tags": [
+   "bansos",
+   "rekening bank",
+   "kadin indonesia",
+   "hashim djojohadikusumo"
+  ],
+  "body": [
+   "Ketua Dewan Penasihat Kadin Indonesia, Hashim Djojohadikusumo, mengungkapkan bahwa pemerintah berencana memberikan rekening bank gratis kepada setiap warga yang sudah berusia 17 tahun. Rencana ini disampaikannya dalam Rapat Pimpinan Nasional Kadin 2026 di Hotel Borobudur, Jakarta Pusat, Kamis (29/10). Tujuannya, bantuan sosial dan bantuan langsung tunai dari pemerintah pusat bisa langsung masuk ke rekening penerima, tanpa melewati jalur birokrasi yang berisiko membuat dana tersendat atau disalahgunakan.",
+   "Hashim menyebut sekitar 30 persen warga Indonesia belum memiliki rekening bank. Jika dihitung dari total 200 juta penduduk berusia di atas 17 tahun, jumlah itu setara dengan sekitar 60 juta orang dewasa yang masih berada di luar sistem perbankan. Menurut dia, kondisi ini juga menjadi salah satu sebab sekitar 35 persen aktivitas ekonomi Indonesia tidak tercatat dalam sistem keuangan formal, karena banyak transaksi masih dilakukan secara tunai.",
+   "Hashim menegaskan bahwa yang akan dibagikan adalah rekening bank, bukan bantuan ponsel seperti yang sempat beredar di sebagian masyarakat. Dengan rekening ini, dia berharap penyaluran bansos bisa lebih tepat sasaran dan tidak melewati tangan pihak yang sebenarnya tidak membutuhkan, mulai dari pejabat hingga aparat. Hashim menilai langkah ini juga bisa menjadi stimulus ekonomi di daerah karena bantuan langsung diterima oleh warga yang memerlukan.",
+   "Dia menambahkan, perluasan akses rekening bank ini diharapkan turut mendorong daya beli masyarakat sekaligus memperkuat kemampuan fiskal pemerintah. Dengan begitu, menurut Hashim, pemerintah pusat dan daerah punya ruang lebih besar untuk menjalankan proyek-proyek pembangunan yang melibatkan dunia usaha di daerah."
+  ],
+  "fotoAdegan": "A queue of customers waiting at a modest neighborhood bank branch counter in Indonesia, teller assisting an elderly customer, soft morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/29/6ae3751bdda78-ketua-dewan-penasihat-kamar-dagang-dan-industri-kadin-indonesia-hashim-djojohadikusumo_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru soal arah kebijakan: Hashim menyebut pemerintah sudah memutuskan memberi rekening bank gratis untuk warga umur 17 tahun ke atas, supaya bantuan sosial bisa langsung masuk ke rekening penerima tanpa lewat tangan pejabat atau instansi lain. Yang paling terdampak adalah sekitar 60 juta orang dewasa yang menurut Hashim belum punya rekening bank sama sekali, dari total 200 juta penduduk berusia di atas 17 tahun. Yang masih kurang dari pernyataan ini adalah hal paling praktis, yaitu bank mana yang akan membuka rekening itu, siapa yang menanggung biayanya, dan kapan 60 juta rekening itu benar-benar tersedia. Tanpa rincian itu, belum bisa dipastikan apakah ini program yang sudah punya anggaran dan jadwal pasti, atau masih berupa rencana yang baru disampaikan di forum pengusaha. Yang perlu dipantau adalah apakah ada aturan resmi dari Kementerian Keuangan, Bank Indonesia, atau OJK yang menyusul pernyataan ini, karena itu yang akan menentukan apakah program ini jalan atau berhenti di tahap wacana.",
+  "imageV": "mvuiw1su"
+ },
+ {
+  "slug": "djp-sulselbartra-ganjar-penghargaan-wajib-pajak-patuh",
+  "category": "Makroekonomi",
+  "title": "DJP Sulselbartra [Ganjar] Penghargaan Wajib Pajak Patuh",
+  "deck": "Kanwil DJP Sulselbartra memberi penghargaan kepatuhan pajak kepada perusahaan tambang nikel PT Ceria Nugraha Indotama dalam ajang Tax Gathering 2026.",
+  "image": "assets/img/djp-sulselbartra-ganjar-penghargaan-wajib-pajak-patuh.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T23:04:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475686-perusahaan-tergolong-patuh-penuhi-pembayaran-pajak-kanwil-djp-sulselbartra-akan-ganjar-penghargaan",
+  "tags": [
+   "pajak",
+   "DJP",
+   "pertambangan nikel",
+   "Sulawesi"
+  ],
+  "body": [
+   "Kantor Wilayah Direktorat Jenderal Pajak Sulawesi Selatan, Barat, dan Tenggara (Kanwil DJP Sulselbartra) memberikan penghargaan kepada wajib pajak dengan rekam jejak pembayaran yang baik, termasuk perusahaan tambang nikel nasional PT Ceria Nugraha Indotama (CNI). Penghargaan ini diserahkan dalam acara Tax Gathering 2026 pada Kamis, 29 Oktober, sebagai bentuk apresiasi otoritas pajak kepada perusahaan yang dinilai disiplin memenuhi kewajiban perpajakannya. Bagi pembaca, ini menandakan bahwa kepatuhan pajak korporasi besar di sektor tambang turut menjadi perhatian otoritas daerah dalam menjaga penerimaan negara.",
+   "General Manager Tax Ceria Corp, Reza Firdauzi, mengatakan kegiatan usaha perusahaan tidak berhenti pada aktivitas ekonomi semata, tetapi juga harus disertai tanggung jawab membayar pajak. Ia menyebut penghargaan tersebut mencerminkan kontribusi perusahaan yang berjalan seiring perkembangan bisnisnya, dan memandang pajak sebagai bagian dari kontribusi nyata terhadap perekonomian serta pembangunan nasional.",
+   "Reza menambahkan, pemenuhan kewajiban pajak itu membutuhkan koordinasi lintas fungsi di internal perusahaan agar pemahaman atas aturan perpajakan yang berlaku tetap konsisten. Perusahaan juga disebut terus memberi perhatian khusus pada pelaporan dan administrasi pajak untuk memastikan kewajiban terhadap penerimaan negara terpenuhi, sekaligus mengapresiasi pendampingan yang diberikan Kanwil DJP Sulselbartra kepada wajib pajak di wilayahnya."
+  ],
+  "fotoAdegan": "Aerial view of a nickel ore stockpile yard at a mining site, heavy trucks moving ore, tropical hills in background",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/29/6ae36dd14ef88-kantor-wilayah-direktorat-jenderal-pajak-sulselbartra-memberikan-penghargaan-kepada-sejumlah-wajib-pak-yang-memiliki-rekam-jejak-baik-dalam-pembayarannya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah bentuk pengakuan, bukan angka: DJP Sulselbartra memberi penghargaan kepatuhan pajak lewat ajang Tax Gathering 2026, dengan PT Ceria Nugraha Indotama sebagai salah satu penerima yang disebut dalam rilis ini. Pihak yang jelas terdampak adalah CNI sendiri sebagai perusahaan tambang nikel yang namanya diasosiasikan dengan citra patuh pajak, serta wajib pajak lain di Sulawesi Selatan, Barat, dan Tenggara yang berada dalam pengawasan kantor wilayah ini. Berita ini tidak menyebut berapa nilai pajak yang dibayarkan CNI, berapa banyak perusahaan lain yang menerima penghargaan serupa, atau kriteria resmi yang dipakai DJP untuk menilai kepatuhan, sehingga belum bisa dibaca apakah ini sekadar seremoni relasi atau bagian dari pola pengawasan pajak sektor nikel yang lebih ketat. Yang perlu dicermati selanjutnya adalah data realisasi penerimaan pajak sektor pertambangan di wilayah Sulselbartra atau publikasi kriteria penghargaan ini, untuk melihat apakah ada kaitannya dengan kinerja industri nikel yang belakangan menjadi sorotan karena hilirisasi.",
+  "imageV": "mvuiw26m"
+ },
+ {
+  "slug": "transaksi-qris-tembus-15-miliar-per-juli-2026",
+  "category": "Perbankan",
+  "title": "Transaksi [QRIS] Tembus 15 Miliar per Juli 2026",
+  "deck": "Bank Indonesia mencatat 67,51 juta pengguna QRIS aktif dan 45,46 juta pedagang yang menerimanya, seiring makin banyak warung dan minimarket melayani pembayaran lewat aplikasi seperti GoPay.",
+  "image": "assets/img/transaksi-qris-tembus-15-miliar-per-juli-2026.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T21:36:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475673-tinggal-scan-qris-di-mana-aja-belanja-kebutuhan-harian-sekarang-makin-sat-set-pakai-gopay",
+  "tags": [
+   "QRIS",
+   "GoPay",
+   "pembayaran digital",
+   "Bank Indonesia"
+  ],
+  "body": [
+   "Pembayaran dengan cara memindai kode QRIS kini bukan lagi hal baru, mulai dari warung kecil di pinggir jalan sampai minimarket besar. Kebiasaan ini penting dicatat karena menandakan transisi dari uang tunai ke pembayaran digital sudah merambah ke transaksi harian yang paling kecil nilainya, bukan cuma belanja besar atau transaksi online.",
+   "Bank Indonesia mencatat, hingga Juli 2026, ada 45,46 juta pedagang yang sudah menerima pembayaran lewat QRIS, dengan 67,51 juta orang yang aktif memakainya dan total volume transaksi mencapai 15,06 miliar. QRIS sendiri adalah kode QR standar nasional, jadi satu kode yang sama bisa dipindai oleh berbagai aplikasi dompet digital atau mobile banking, termasuk GoPay, tanpa pedagang perlu memasang kode berbeda untuk setiap aplikasi.",
+   "Di warung, pembeli cukup memindai kode QRIS milik pedagang lewat aplikasi, lalu nominal yang harus dibayar biasanya sudah muncul otomatis karena memakai QRIS dinamis, sehingga risiko salah ketik jumlah bayar berkurang. Di GoPay, pengguna juga mendapat poin GoPay Coins setiap transaksi yang bisa dipakai lagi untuk belanja selanjutnya. Minimarket seperti Alfamart dan Indomaret pun sudah menerima pembayaran lewat GoPay, sekaligus melayani isi ulang dan tarik tunai saldo tanpa biaya tambahan.",
+   "Selain belanja harian, aplikasi dompet digital semacam ini juga dipakai untuk membayar kebutuhan rutin seperti tagihan listrik dan PDAM, sehingga satu aplikasi bisa menggantikan beberapa cara bayar yang dulu terpisah."
+  ],
+  "fotoAdegan": "A street vendor at a small warung scanning a QR code payment sticker with a smartphone, customer waiting nearby, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/29/6ae3588e21110-belanja-kebutuhan-harian-sekarang-makin-sat-set-pakai-gopay_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret ada di angka BI per Juli 2026: jumlah pedagang yang menerima QRIS mencapai 45,46 juta dan pengguna aktifnya 67,51 juta. Yang terdampak jelas pedagang kecil dan warung yang makin terbiasa menerima pembayaran nontunai, serta konsumen yang makin jarang pegang uang tunai untuk belanja sehari-hari. Pola kenaikan jumlah pedagang dan pengguna aktif ini mengarah ke QRIS yang makin jadi cara bayar default, bukan sekadar alternatif, bahkan untuk transaksi kecil di warung. Yang akan memastikan arah ini berlanjut adalah rilis data sistem pembayaran BI periode berikutnya, apakah kenaikan jumlah pedagang dan pengguna aktif ini terus bertambah atau mulai melandai.",
+  "imageV": "mvuiw2kq"
+ },
+ {
+  "slug": "investasi-ri-tembus-rp3-923-t-di-era-presiden-prabowo",
+  "category": "Makroekonomi",
+  "title": "Investasi RI [Tembus] Rp3.923 T di Era Presiden Prabowo",
+  "deck": "Rosan Roeslani melaporkan realisasi investasi RI tembus Rp3.923,2 triliun dalam dua tahun pertama Presiden Prabowo, dengan hilirisasi nikel di luar Jawa jadi penyumbang utama.",
+  "image": "assets/img/investasi-ri-tembus-rp3-923-t-di-era-presiden-prabowo.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T20:41:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475661-dua-tahun-prabowo-rosan-roeslani-hilirisasi-luar-jawa-tembus-78-persen-investasi-tembus-hampir-rp4000-triliun",
+  "tags": [
+   "investasi",
+   "hilirisasi",
+   "bkpm",
+   "nikel"
+  ],
+  "body": [
+   "Menteri Investasi dan Hilirisasi yang juga Kepala BKPM, Rosan Roeslani, menyampaikan bahwa realisasi investasi di Indonesia selama dua tahun pemerintahan Presiden Prabowo Subianto telah mencapai Rp3.923,2 triliun, hampir menyentuh Rp4.000 triliun. Pernyataan itu disampaikan Rosan dalam Rapat Pimpinan Nasional Kadin 2026 di Hotel Borobudur, Jakarta Pusat, Kamis (29/10/2026). Angka ini penting karena investasi menjadi penopang utama pertumbuhan ekonomi nasional di atas 5 persen, setelah konsumsi rumah tangga.",
+   "Rosan menjelaskan hitungan tersebut dihimpun sejak kuartal IV 2024 sampai kuartal III 2026, dan ia menegaskan angka itu merupakan dana yang benar-benar sudah dibelanjakan di lapangan, bukan sekadar nota kesepahaman atau kesepakatan di atas kertas. Capaian ini menjadi modal awal untuk mengejar target total investasi Rp13.032,8 triliun yang dipatok selama lima tahun masa jabatan Presiden Prabowo Subianto.",
+   "Salah satu pendorong utamanya adalah sektor hilirisasi, yaitu industri yang mengolah bahan mentah seperti nikel menjadi barang bernilai lebih tinggi sebelum dijual ke pasar. Porsi investasi hilirisasi terhadap total investasi naik dari 25 persen pada 2024 menjadi 31 persen sepanjang 2026, dan sempat menyentuh 34 persen pada kuartal III 2026. Rosan menyebut 78 persen dari investasi hilirisasi itu justru mengalir ke luar Pulau Jawa, terkonsentrasi di Sulawesi dan Maluku Utara, dengan nikel sebagai komoditas andalan karena Indonesia menguasai sekitar 46 persen cadangan nikel dunia."
+  ],
+  "fotoAdegan": "Workers in protective gear monitoring machinery at a nickel smelting plant in eastern Indonesia, industrial haze in the air",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/29/6ae3487066f90-menteri-investasi-dan-hilirisasikepala-bkpm-rosan-roeslani_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret ada dua: porsi investasi hilirisasi terhadap total investasi naik dari 25 persen pada 2024 menjadi 34 persen pada kuartal III 2026, dan sebagian besarnya, 78 persen, kini mengalir ke luar Jawa, terutama Sulawesi dan Maluku Utara tempat tambang nikel berada. Yang terdampak langsung adalah daerah-daerah itu, bersama pelaku usaha dan pekerja di industri pengolahan nikel, sementara wilayah luar Jawa lain yang tak punya cadangan nikel besar belum tentu merasakan pergeseran serupa. Arah besarnya cukup jelas, hilirisasi nikel makin jadi tulang punggung investasi dan makin memusat secara geografis, tapi soal apakah target Rp13.032,8 triliun dalam lima tahun bisa tercapai masih jadi tanda tanya, sebab realisasi dua tahun pertama baru Rp3.923,2 triliun, berarti tiga tahun sisanya harus mengumpulkan sekitar Rp9.100 triliun lagi, jauh lebih cepat dari laju sekarang. Yang akan menjawabnya adalah rilis realisasi investasi kuartal IV 2026 dan data tahun 2027, apakah lajunya ikut melompat atau tetap di kisaran sekarang.",
+  "imageV": "mvuiw2z4"
+ },
+ {
+  "slug": "hashim-rp10-000-triliun-ekonomi-ri-tak-masuk-pdb",
+  "category": "Makroekonomi",
+  "title": "Hashim: Rp10.000 Triliun Ekonomi RI Tak Masuk [PDB]",
+  "deck": "Hashim Djojohadikusumo menyebut Rp10.000 triliun transaksi ekonomi RI tak tercatat, sementara penerimaan negara cuma 12 persen dari PDB, di bawah Kamboja, India, dan Afrika.",
+  "image": "assets/img/hashim-rp10-000-triliun-ekonomi-ri-tak-masuk-pdb.jpg",
+  "date": "29 Oktober 2026",
+  "isoDate": "2026-10-29T20:30:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475659-hashim-sebut-ekonomi-ri-10000-triliun-tak-tercatat-penerimaan-negara-cuma-12-persen-di-bawah-kamboja",
+  "tags": [
+   "kadin",
+   "hashim djojohadikusumo",
+   "pdb",
+   "apbd"
+  ],
+  "body": [
+   "Ketua Dewan Penasihat Kadin Indonesia Hashim Djojohadikusumo menyebut ada sekitar Rp10.000 triliun aktivitas ekonomi di Indonesia yang selama ini tidak tercatat dalam Produk Domestik Bruto (PDB). Ia menyampaikan hal itu dalam Rapimnas Kadin 2026 di Hotel Borobudur, Jakarta, Kamis (29/10/2026). Klaim ini penting karena, jika benar, ukuran ekonomi Indonesia yang selama ini diakui dunia internasional bisa jauh lebih besar dari angka resmi.",
+   "Menurut Hashim, PDB Indonesia yang tercatat dan diakui IMF, Bank Dunia, serta Bank Indonesia saat ini sebesar Rp25.000 triliun. Ia mengutip perkiraan Bank Dunia bahwa 35 sampai 40 persen kegiatan ekonomi di Indonesia tidak tercatat, sehingga ada sekitar Rp10.000 triliun transaksi yang lolos dari pencatatan negara. Transaksi itu menurutnya berasal dari kegiatan tunai tanpa kuitansi seperti tukang pangkas rambut, tukang pijat, warung tegal, hingga salon kecantikan, yang karena itu tidak dipungut pajak pertambahan nilai 11 persen.",
+   "Hashim juga menyoroti rendahnya penerimaan negara, yang saat ini hanya 12 persen dari PDB tercatat. Angka itu disebutnya lebih rendah dibanding Kamboja yang mencapai 18 persen, India 20 persen, dan negara-negara Afrika 16 persen. Ia menghitung bahwa selisih 6 persen dari PDB Rp25.000 triliun setara dengan sekitar Rp1.500 triliun potensi penerimaan negara yang hilang setiap tahun, jauh lebih besar dari defisit APBN yang berkisar Rp500 triliun hingga Rp600 triliun.",
+   "Hashim menyimpulkan bahwa jika seluruh transaksi ekonomi dipungut pajak sesuai undang-undang, posisi ekonomi Indonesia di dunia bisa naik dari peringkat ke-16 menjadi sekitar peringkat ke-11 atau ke-12. Ia mengaitkan lemahnya penerimaan negara ini dengan keterbatasan pembiayaan APBD yang kerap dikeluhkan pemerintah daerah."
+  ],
+  "fotoAdegan": "A small roadside barbershop under a tarp awning trimming a customer's hair in a busy Jakarta alley, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/11/698ba3b63016f-tangkapan-layar-utusan-khusus-presiden-untuk-energi-dan-lingkungan-hashim-djojohadikusumo-kiri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan Hashim bukan aturan baru, melainkan klaim ukuran: ada Rp10.000 triliun transaksi, dari warung kecil sampai tukang pijat dan salon, yang tidak tercatat dan karena itu tidak kena pajak pertambahan nilai, pajak yang dibayar konsumen setiap belanja. Kalau transaksi itu dihitung, PDB, yaitu total nilai barang dan jasa yang dihasilkan negara dalam setahun, bisa jauh lebih besar dari Rp25.000 triliun yang diakui sekarang, dan rasio penerimaan negara terhadap PDB yang cuma 12 persen, paling rendah dibanding Kamboja, India, dan negara Afrika, berpotensi naik. Pihak yang akan terdampak langsung kalau basis pajak ini diperluas adalah pelaku usaha mikro dan informal seperti tukang pangkas rambut dan pedagang warung tegal, sementara yang diuntungkan adalah kas negara dan daerah yang membiayai APBD. Arahnya masih terbuka dua kemungkinan: klaim ini jadi dasar Kadin mendorong pemerintah memperluas pemungutan pajak ke sektor informal, atau sekadar jadi angka retorika tanpa tindak lanjut kebijakan. Yang akan menentukan arah mana yang benar adalah apakah target rasio pajak di asumsi dasar APBN 2027 atau pernyataan resmi Kementerian Keuangan berikutnya menyinggung angka Rp10.000 triliun ekonomi tak tercatat ini.",
+  "imageV": "mvuiw3lj"
  },
  {
   "slug": "pnm-sabet-juara-grand-genba-champion-bri-group",

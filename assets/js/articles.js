@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "unvr-rencanakan-audit-lk-interim-kuartal-iii-sebut-strategis",
+  "category": "Aksi Korporasi",
+  "title": "UNVR Rencanakan Audit LK Interim Kuartal III, Sebut [Strategis]",
+  "deck": "Unilever Indonesia akan mengaudit penuh laporan keuangan interim kuartal III 2026 terkait rencana strategis mendatang, disetor paling lambat 31 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:55:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f05897c06e_d2cafaa5a7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNVR",
+  "tags": [
+   "UNVR",
+   "Unilever Indonesia",
+   "audit",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Unilever Indonesia Tbk (UNVR) menyampaikan melalui surat nomor 07/UNVR/X/2026 tertanggal 30 Oktober 2026 bahwa laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026 akan diaudit oleh Kantor Akuntan Publik Siddhartha Widjaja & Rekan. Surat yang ditandatangani Corporate Secretary Mario Abdi Amrillah ini merupakan pemberitahuan rencana audit, sesuai Peraturan Bursa I-E yang mewajibkan emiten mengumumkan rencana audit laporan interim paling lambat satu bulan setelah tanggal laporan tersebut.",
+   "Perseroan menjelaskan bahwa keputusan mengaudit penuh, bukan sekadar menelaah secara terbatas, laporan keuangan interim ini diambil sehubungan dengan tujuan dan kebutuhan Perseroan terkait rencana strategis mendatang, tanpa merinci lebih jauh apa rencana strategis yang dimaksud. Sesuai aturan yang sama, laporan keuangan interim yang telah diaudit itu wajib disampaikan ke Bursa Efek Indonesia paling lambat pada akhir bulan ketiga setelah tanggal laporan interim, yakni 31 Desember 2026."
+  ],
+  "fotoAdegan": "Auditors examining stacked binders of financial records at a conference table in a modern Jakarta office tower, daylight through windows",
+  "takeaway": "Laporan ini netral bagi kinerja Unilever karena baru mengumumkan rencana audit, bukan hasil keuangan itu sendiri, sehingga belum ada angka baru yang bisa dinilai positif atau negatif. Yang menarik justru alasannya: audit penuh atas laporan interim, bukan sekadar telaah terbatas yang biasa dipakai untuk laporan kuartalan, umumnya ditempuh perusahaan ketika angka-angka seperti ekuitas, laba, atau arus kas perlu validasi lebih kuat untuk keperluan tertentu, misalnya transaksi besar atau perubahan struktur usaha. Perseroan sendiri hanya menyebut alasannya terkait rencana strategis mendatang tanpa merinci bentuknya. Yang perlu dipantau adalah dua hal, laporan keuangan interim teraudit itu sendiri yang wajib terbit paling lambat 31 Desember 2026, dan apakah Unilever akan mengungkap lebih rinci soal rencana strategis yang disebut dalam suratnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tins-catat-laba-bersih-rp4-12-triliun-di-9m-2026-naik-584",
+  "category": "Aksi Korporasi",
+  "title": "TINS Catat [Laba Bersih] Rp4,12 Triliun di 9M 2026, Naik 584%",
+  "deck": "PT Timah membukukan laba bersih Rp4,12 triliun pada sembilan bulan 2026, melonjak 584% ditopang harga timah global tinggi dan kenaikan produksi serta penjualan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:47:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/055eb7320c_1f0251cffd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TINS",
+  "tags": [
+   "TINS",
+   "laba bersih",
+   "timah",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Timah (Persero) Tbk membukukan pendapatan usaha Rp16,15 triliun pada sembilan bulan pertama 2026 (9M 2026), naik 144% dibandingkan periode yang sama tahun lalu sebesar Rp6,61 triliun. Laba usaha melonjak 594% menjadi Rp5,60 triliun dari Rp807,25 miliar, sementara EBITDA naik 323% menjadi Rp6,18 triliun. Laba bersih tercatat Rp4,12 triliun, naik 584% dibandingkan Rp602,42 miliar pada 9M 2025, yang menurut perusahaan merupakan rekor tertinggi untuk periode sembilan bulan. Margin laba bersih ikut menguat dari 9,12% menjadi 25,52%.",
+   "Dari sisi posisi keuangan, total aset per 30 September 2026 mencapai Rp17,26 triliun, naik 26% dari akhir 2025 sebesar Rp13,64 triliun. Total liabilitas relatif stabil di Rp5,29 triliun, naik sekitar 1% dari Rp5,23 triliun, sedangkan ekuitas melonjak 42% menjadi Rp11,97 triliun dari Rp8,41 triliun seiring akumulasi laba. Return on Equity naik dari 8% menjadi 34,42%. Arus kas dari aktivitas operasi berbalik positif Rp4,09 triliun, dari sebelumnya minus Rp388,64 miliar pada 9M 2025, dengan saldo kas akhir periode Rp4,25 triliun dibandingkan Rp1,34 triliun setahun sebelumnya.",
+   "Secara operasional, produksi bijih timah naik 55% menjadi 18.883 ton Sn, dengan kontribusi dari tambang darat 7.338 ton (naik 63%) dan tambang laut 11.545 ton (naik 50%). Produksi logam timah naik 49% menjadi 16.190 metrik ton, sementara volume penjualan melonjak 72% menjadi 16.304 metrik ton. Harga jual rata-rata logam timah Perseroan naik 52% menjadi US$51.011 per metrik ton, mengikuti harga acuan Cash Settlement Price LME yang rata-rata US$51.636,61 per metrik ton, naik 57,55% dari tahun sebelumnya. Penjualan masih didominasi ekspor sebesar 96%, dengan China sebagai tujuan terbesar (30%), disusul Korea Selatan (12%), India (11%), Jepang (9%), Belanda (8%), dan Singapura (7%). Perusahaan juga mencatat gangguan pasokan karena aktivitas pertambangan anak usaha Malaysia Smelting Corporation dihentikan sementara pada 12 Agustus hingga 11 September 2026 akibat kerusakan sistem drainase dan kolam penampungan setelah hujan ekstrem.",
+   "Direktur Utama PT Timah, Restu Widiyantoro, menyebut capaian laba bersih tersebut sebagai hasil penguatan produktivitas, optimalisasi usaha, dan disiplin pengelolaan keuangan. Perusahaan mencatat sumber daya timah 797 ribu ton Sn dan cadangan 311 ribu ton Sn per September 2026, serta menyatakan akan terus mencermati dinamika harga timah global dan ketidakpastian pasokan menjelang kuartal terakhir 2026."
+  ],
+  "fotoAdegan": "Tin ore being loaded onto a dredge vessel in a muddy mining pond, workers in safety vests, overcast sky in Bangka Belitung",
+  "takeaway": "Laporan ini positif bagi TINS, karena lonjakan laba bersihnya tidak cuma ditopang harga timah yang tinggi, tapi juga kenaikan volume produksi dan penjualan, sehingga kualitas labanya lebih meyakinkan. Yang perlu dicermati pelaku pasar adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, yang naik 42% menjadi Rp11,97 triliun karena laba ditahan, serta arus kas dari aktivitas operasi yang berbalik positif Rp4,09 triliun dari sebelumnya minus Rp388,64 miliar, pertanda laba itu benar diterima dalam bentuk uang tunai, bukan sekadar catatan akuntansi. Pos lain yang menguat adalah margin laba bersih, yakni porsi pendapatan yang akhirnya jadi laba, naik dari 9,12% menjadi 25,52%. Yang perlu dipantau berikutnya adalah pemulihan penuh operasi tambang anak usaha Malaysia Smelting Corporation yang baru berjalan lagi sejak 11 September 2026 setelah terhenti akibat hujan ekstrem, serta apakah harga timah global tetap bertahan tinggi di kuartal IV 2026, mengingat sebagian besar lonjakan laba Perseroan bersumber dari faktor harga tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "boss-belum-bayar-utang-rp82-miliar-lk-2024-beropini-pengecualian",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Belum Bayar Utang Rp82 Miliar, LK 2024 Beropini [Pengecualian]",
+  "deck": "Laporan keuangan tahunan 2024 BOSS mendapat opini wajar dengan pengecualian setelah anak usaha tambangnya dinyatakan pailit dan dua utang besar belum terbayar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:44:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202410/20261030125700-65522-0/FinancialStatement-2024-Tahunan-BOSS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "laporan keuangan tahunan",
+   "opini wajar dengan pengecualian",
+   "going concern"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan laporan keuangan tahunan 2024 dengan opini wajar dengan pengecualian dari auditor, yaitu penilaian bahwa laporan keuangannya secara umum sudah sesuai standar akuntansi tetapi ada satu ganjalan besar yang membuat auditor tidak bisa memberi opini bersih. Ganjalan itu adalah pembatalan perdamaian (homologasi) dalam perkara Penundaan Kewajiban Pembayaran Utang oleh Pengadilan Niaga di Pengadilan Negeri Jakarta Pusat, yang berujung pada status pailit bagi PT Bangun Olahsarana Sukses (BOS), anak usaha tidak langsung yang menyumbang 41,72 persen dari total aset Grup dan beroperasi di Kalimantan Timur. Manajemen BOSS sudah mengajukan Peninjauan Kembali ke Mahkamah Agung setelah upaya kasasi sebelumnya ditolak, dan pengadilan sudah menunjuk Tim Kurator yang berencana melanjutkan usaha BOS demi kepentingan kreditor sambil merampungkan kerja sama dengan investor dan kontraktor baru.",
+   "Auditor juga mencatat dua masalah lain dalam laporan ini. Pertama, PT Pratama Buana Sentosa, anak usaha tidak langsung lainnya, mengalami defisit ekuitas sebesar Rp1,49 miliar dan izin usaha pertambangan eksplorasinya sudah berakhir tanpa diperpanjang, sehingga entitas ini tidak lagi berhak melakukan eksplorasi maupun produksi di wilayah konsesinya dan belum punya rencana pemulihan yang konkret. Kedua, sampai laporan ini selesai disusun, Grup belum membayar utang sebesar Rp38,97 miliar kepada Rocksbridge Energy Pte. Ltd. sesuai perjanjian damai yang sudah disepakati, dan anak usaha PT Pratama Bersama juga belum membayar utang Rp43,14 miliar. Manajemen menyebut keterbatasan likuiditas Grup sebagai alasan kedua tunggakan itu, yang jika dijumlahkan mencapai sekitar Rp82,1 miliar.",
+   "Dari sisi angka, total aset Grup turun dari Rp596,64 miliar pada akhir 2023 menjadi Rp588,05 miliar pada akhir 2024. Kas dan setara kas naik dari Rp998,86 juta menjadi Rp2,45 miliar, tetapi utang kepada pihak ketiga selain utang usaha melonjak dari Rp111,13 miliar menjadi Rp231,31 miliar, sementara utang usaha ke pihak ketiga turun dari Rp120,55 miliar menjadi Rp98,46 miliar. Auditor juga menandai piutang usaha dan piutang lain-lain bruto Grup, masing-masing Rp35,75 miliar dan Rp76,16 miliar atau setara 18,41 persen dari total aset, sebagai hal audit utama karena perusahaan membentuk cadangan kerugian piutang tak tertagih senilai Rp3,73 miliar tahun ini. Laporan ini diaudit oleh Kantor Akuntan Publik Mohammad Sunusi dan Rekan dengan partner penandatangan Martogi Marojahan Sitinjak, menggantikan auditor tahun sebelumnya, KAP Kanaka Puradiredja, Suhartono. BOSS sendiri saat ini tercatat di papan pemantauan khusus Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Wide view of an open-pit coal mine in East Kalimantan with heavy excavators loading haul trucks under an overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena opini wajar dengan pengecualian lahir dari pailitnya anak usaha penyumbang aset terbesar Grup dan dua utang mangkrak senilai total sekitar Rp82,1 miliar yang gagal dibayar akibat likuiditas seret. Pos yang tersentuh adalah ekuitas Grup, yang makin tertekan oleh defisit modal anak usaha dan keraguan auditor soal kemampuan perusahaan melanjutkan usaha, serta arus kas, terlihat dari utang jangka pendek ke pihak ketiga yang melonjak lebih dari dua kali lipat sementara kas yang dipegang perusahaan masih tipis. Pemegang saham perlu mencermati bahwa cadangan kerugian piutang tak tertagih sebesar Rp3,73 miliar juga menandakan sebagian piutang Grup berisiko tidak kembali. Yang perlu dipantau berikutnya adalah hasil Peninjauan Kembali Grup ke Mahkamah Agung atas status pailit BOS dan apakah Tim Kurator berhasil merampungkan kerja sama dengan investor serta kontraktor baru untuk menyelamatkan unit usaha itu. Tanpa kejelasan dari dua hal itu, status pengawasan khusus BOSS di bursa kemungkinan akan bertahan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sraj-kas-turun-23-saat-ekspansi-rs-jakarta-timur-rampung",
+  "category": "Aksi Korporasi",
+  "title": "SRAJ: Kas Turun 23% Saat Ekspansi [RS Jakarta Timur] Rampung",
+  "deck": "Kas SRAJ turun 23 persen jadi Rp1,40 triliun dalam sembilan bulan 2026, seiring aset tetap naik saat rumah sakit baru di Jakarta Timur mulai beroperasi komersial.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:16:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030123113-65299-0/FinancialStatement-2026-III-SRAJ.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRAJ",
+  "tags": [
+   "SRAJ",
+   "rumah sakit",
+   "Mayapada Healthcare Group",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Sejahteraraya Anugrahjaya Tbk (SRAJ), emiten rumah sakit yang berada di bawah Mayapada Healthcare Group, menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK dan Bursa Efek Indonesia pada 30 Oktober 2026. Total aset perusahaan tercatat Rp7,62 triliun, hampir sama dengan posisi akhir 2025. Namun susunan di dalamnya berubah: kas dan setara kas turun 23 persen dari Rp1,83 triliun menjadi Rp1,40 triliun, sementara aset tetap seperti gedung dan peralatan rumah sakit naik 9 persen dari Rp4,29 triliun menjadi Rp4,69 triliun. Pergeseran ini menunjukkan sebagian kas perusahaan sudah dipakai untuk membangun atau melengkapi fasilitas baru.",
+   "Daftar anak usaha yang disertakan dalam laporan menunjukkan PT Karya Kharisma Sentosa, rumah sakit di Jakarta Timur yang 99,99 persen dimiliki SRAJ, sudah mulai beroperasi komersial pada 2026 dengan nilai aset Rp534,7 miliar. Di sisi lain, dua anak usaha lain belum kunjung beroperasi komersial meski sudah berdiri cukup lama: PT Fajar Kharisma Nusantara, rumah sakit di Jakarta yang berdiri sejak 2015 dengan aset Rp44,8 miliar, dan PT Mayapada Surabaya Pratama, rumah sakit di Surabaya sejak 2018 dengan aset hanya Rp1,57 miliar. Dua anak usaha yang lebih baru, PT Sejahtera Karunia Semesta di Jakarta dan PT Anugrah Inti Bahagia di Batam, juga masih berstatus belum beroperasi komersial per akhir September 2026.",
+   "Di sisi liabilitas, SRAJ mencatat utang bank jangka pendek baru sebesar Rp48,6 miliar, padahal pada akhir 2025 pos ini nihil. Sebaliknya, utang usaha kepada pihak ketiga turun dari Rp113,8 miliar menjadi Rp85,4 miliar. Utang lain-lain kepada pihak berelasi tetap tidak berubah di angka Rp972,1 miliar pada kedua periode."
+  ],
+  "fotoAdegan": "Exterior of a multi-story hospital building under construction with scaffolding, workers in safety vests, overcast afternoon light in a Jakarta suburb",
+  "takeaway": "Laporan ini condong netral bagi SRAJ, karena pergerakan keuangannya mencerminkan pola wajar perusahaan yang sedang membangun fasilitas baru, bukan sinyal tekanan keuangan mendadak. Pos yang tersentuh adalah kas perusahaan dan aset tetap, dua hal yang biasa diawasi pemodal karena penurunan kas yang dibarengi kenaikan aset tetap menunjukkan uang itu berpindah jadi bangunan dan peralatan, bukan menghilang atau dipakai menutup kerugian. Munculnya utang bank jangka pendek Rp48,6 miliar yang sebelumnya nihil juga perlu dicermati, karena itu bisa jadi sinyal perusahaan mulai memakai pinjaman untuk menambah modal kerja seiring kas internal menyusut. Yang perlu dipantau berikutnya adalah kinerja operasional rumah sakit baru di Jakarta Timur pada laporan kuartal mendatang, serta apakah anak usaha yang mangkrak sejak 2015 dan 2018 akhirnya mulai beroperasi atau malah dilepas.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kemendag-kirim-7-ton-cabai-rawit-ke-halmahera-utara",
   "category": "Makroekonomi",
   "title": "Kemendag Kirim [7 Ton] Cabai Rawit ke Halmahera Utara",
@@ -29,6 +133,136 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah di sini bukan sekadar pengiriman 7 ton cabai, melainkan makin seringnya Kemendag memakai cara yang sama: mempertemukan daerah berharga mahal dengan daerah yang stoknya lebih banyak. Pola itu terlihat dari kerja sama serupa yang menurut Kemendag sudah menjangkau 301 kabupaten/kota di 18 provinsi, ditambah program Tol Laut dan Jembatan Udara yang diklaim menurunkan harga rata-rata lebih dari 11 persen. Yang kena dampak langsung adalah warga Halmahera Utara yang selama ini membeli cabai rawit sekitar Rp150.000 per kilogram, serta petani dan pedagang di Probolinggo yang mendapat jalur pasar baru. Arahnya mengarah ke distribusi antardaerah sebagai alat rutin peredam gejolak harga pangan, bukan sekali jalan saja. Yang akan membuktikan apakah cara ini benar bekerja adalah data harga cabai di Halmahera Utara pada pekan-pekan setelah pasokan ini tiba, apakah memang mendekati target Rp100.000 per kilogram yang disebut pemerintah daerah setempat.",
   "imageV": "mvuivzcm"
+ },
+ {
+  "slug": "rans-catat-lonjakan-aset-86-usai-ipo-utang-bank-lunas",
+  "category": "Aksi Korporasi",
+  "title": "RANS Catat Lonjakan Aset 86% Usai [IPO], Utang Bank Lunas",
+  "deck": "Setelah dana IPO masuk Juli 2026, total aset RANS naik 86% jadi Rp855,73 miliar dan utang bank lunas, sementara laba sembilan bulan naik jadi Rp37,97 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:10:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030122202-65531-0/FinancialStatement-2026-III-RANS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RANS",
+  "tags": [
+   "RANS",
+   "IPO",
+   "Laporan Keuangan",
+   "Media dan Hiburan"
+  ],
+  "body": [
+   "PT Rans Entertainmen Indonesia Tbk (RANS) menyampaikan koreksi laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, yang belum diaudit, disertai surat penjelasan resmi kepada OJK dan Bursa Efek Indonesia. Surat itu wajib dikirim karena total aset dan total liabilitas perusahaan berubah lebih dari 20 persen dibanding akhir 2025, sesuai aturan keterbukaan informasi BEI. Pemicu utamanya, menurut perusahaan, adalah dana hasil penawaran umum saham perdana yang masuk pada 9 Juli 2026.",
+   "Total aset RANS per 30 September 2026 tercatat Rp855,73 miliar, naik 86 persen dari Rp461,03 miliar di akhir 2025. Kenaikan terbesar berasal dari kas dan setara kas yang melonjak menjadi Rp507,43 miliar dari sebelumnya Rp100,13 miliar, didorong dana IPO senilai Rp422,23 miliar. Di sisi lain, total liabilitas turun 36 persen menjadi Rp77,21 miliar. Utang bank yang sebelumnya Rp37,3 miliar, terdiri dari porsi jangka pendek Rp14,1 miliar dan jangka panjang Rp23,2 miliar, kini nol karena dilunasi penuh sepanjang 2026, dengan Rp29,3 miliar di antaranya dibayar menggunakan dana IPO pada 5 Agustus 2026. Jumlah saham yang ditempatkan dan disetor penuh bertambah dari 2.016.850.000 lembar bernilai nominal Rp50 menjadi 12.609.250.000 lembar bernilai nominal Rp10, sementara tambahan modal disetor berubah dari defisit Rp2,43 miliar menjadi Rp393,44 miliar.",
+   "Dari sisi kinerja usaha, pendapatan sembilan bulan 2026 tercatat Rp243,74 miliar, naik dari Rp231,99 miliar pada periode yang sama tahun lalu. Laba periode berjalan yang menjadi bagian pemilik perusahaan mencapai Rp37,97 miliar, naik dari Rp30,26 miliar, dengan laba per saham Rp3,01 dibanding Rp2,40 pada periode sebelumnya. Perusahaan juga membagikan dividen Rp19,5 miliar sepanjang 2026, lebih kecil dibanding Rp64,51 miliar yang dibagikan pada periode yang sama 2025."
+  ],
+  "fotoAdegan": "Crew members adjusting stage lighting rigs and camera equipment on an empty television production set, early morning",
+  "takeaway": "Laporan ini condong positif bagi RANS, sebab dana segar hasil penawaran umum saham perdana benar-benar dipakai melunasi seluruh utang bank perusahaan dan memperkuat kas, bukan sekadar menambah jumlah saham tanpa manfaat nyata bagi operasional. Pos yang paling tersentuh adalah ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, yang melonjak dari Rp340,8 miliar menjadi Rp778,52 miliar karena setoran modal dan selisih harga jual saham di atas nilai nominalnya saat IPO masuk ke pos ini, sementara jumlah saham yang beredar membengkak hampir enam kali lipat menjadi 12,6 miliar lembar akibat pemecahan nilai saham dan penerbitan saham baru, sehingga porsi kepemilikan pemegang saham lama otomatis mengecil meski laba per saham periode ini belum terlihat turun karena hitungannya memakai rata-rata saham sepanjang sembilan bulan, bukan jumlah di akhir periode. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana IPO selanjutnya, untuk melihat ke mana sisa dana dialokasikan setelah Rp29,3 miliar di antaranya dipakai melunasi utang bank pada 5 Agustus 2026, serta apakah kenaikan laba ini masih berlanjut di laporan keuangan tahunan yang diaudit.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "nely-catat-rugi-rp9-2-miliar-pendapatan-turun-29-persen",
+  "category": "Aksi Korporasi",
+  "title": "NELY catat [rugi] Rp9,2 miliar, pendapatan turun 29 persen",
+  "deck": "Pelayaran Nelly Dwi Putri membukukan rugi bersih Rp9,2 miliar pada sembilan bulan pertama 2026, berbalik dari laba Rp47,6 miliar tahun sebelumnya, seiring pendapatan yang turun 29 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:10:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121957-65220-0/FinancialStatement-2026-III-NELY.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NELY",
+  "tags": [
+   "NELY",
+   "laporan keuangan",
+   "pelayaran",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Pelayaran Nelly Dwi Putri Tbk (NELY) menyampaikan laporan keuangan konsolidasian tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia pada 30 Oktober 2026. Perusahaan mencatat pendapatan Rp213,87 miliar, turun dari Rp302,40 miliar pada periode yang sama tahun lalu, sementara beban pokok pendapatan hanya turun tipis menjadi Rp214,85 miliar dari Rp222,82 miliar. Akibatnya perseroan membukukan rugi bruto Rp975,6 juta, berbalik dari laba bruto Rp79,58 miliar pada sembilan bulan pertama 2025.",
+   "Beban usaha turun menjadi Rp19,75 miliar dari Rp25,75 miliar, dan perseroan mendapat tambahan dari bagian laba entitas asosiasi sebesar Rp5,87 miliar serta penghasilan lain-lain neto Rp19,42 miliar. Namun kontribusi itu tidak cukup menutup rugi bruto, sehingga laba usaha anjlok menjadi Rp4,58 miliar dari Rp63,35 miliar. Setelah dikurangi beban bunga dan keuangan Rp11,78 miliar serta beban pajak final Rp2,56 miliar, perseroan mencatat rugi bersih periode berjalan Rp9,20 miliar, berbalik dari laba bersih Rp47,60 miliar pada periode yang sama tahun sebelumnya. Rugi yang menjadi bagian pemilik entitas induk tercatat Rp9,23 miliar, membuat rugi per saham dasar menjadi Rp3,93, berbalik dari laba per saham Rp20,52 setahun sebelumnya.",
+   "Dari sisi arus kas, kas bersih dari aktivitas operasi turun menjadi Rp61,90 miliar dari Rp113,87 miliar. Perseroan membayar dividen tunai Rp23,5 miliar dan mencicil utang bank jangka panjang Rp40,88 miliar, sementara menerima Rp49 miliar dari pelunasan pinjaman ke entitas asosiasi, sehingga arus kas dari aktivitas pendanaan tercatat negatif Rp16,06 miliar. Total ekuitas perseroan turun menjadi Rp887,01 miliar pada akhir September 2026 dari Rp928,20 miliar pada akhir 2025, total aset menyusut menjadi Rp1,14 triliun dari Rp1,19 triliun, dan total liabilitas turun menjadi Rp253,78 miliar dari Rp261,33 miliar seiring pembayaran utang bank."
+  ],
+  "fotoAdegan": "A cargo ship anchored near a busy Indonesian harbor at dusk, tugboats alongside, loading cranes silhouetted against overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi NELY karena perseroan berbalik dari laba bersih Rp47,6 miliar menjadi rugi Rp9,2 miliar hanya dalam setahun, dipicu pendapatan yang anjlok 29 persen sementara beban pokok pendapatan nyaris tidak ikut turun sehingga marginnya tergerus habis. Yang ikut tersentuh adalah ekuitas, yaitu total kekayaan bersih yang jadi hak pemegang saham, yang menyusut dari Rp928,2 miliar menjadi Rp887 miliar karena rugi periode ini ditambah pembagian dividen tunai Rp23,5 miliar. Laba per saham, bagian laba yang secara teoritis jadi hak satu lembar saham, juga berbalik jadi negatif Rp3,93 dari sebelumnya positif Rp20,52, cerminan langsung dari pembalikan laba menjadi rugi tersebut. Arus kas dari kegiatan operasional sehari-hari ikut menipis menjadi Rp61,9 miliar dari Rp113,9 miliar, tanda bahwa kas yang benar-benar masuk dari bisnis inti juga melambat, bukan sekadar angka akuntansi di atas kertas. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, yang lazimnya wajib disampaikan ke bursa paling lambat akhir Maret 2027, untuk melihat apakah tren rugi di kuartal ketiga ini berlanjut atau sempat membaik pada tiga bulan terakhir tahun ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smdm-balik-untung-liabilitas-melonjak-56-dalam-9-bulan",
+  "category": "Aksi Korporasi",
+  "title": "SMDM Balik Untung, [Liabilitas] Melonjak 56% dalam 9 Bulan",
+  "deck": "Laba bersih SMDM berbalik positif pada sembilan bulan pertama 2026, tapi total liabilitas naik 56 persen dipicu lonjakan uang muka pembeli properti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:10:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030122033-64521-0/FinancialStatement-2026-III-SMDM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMDM",
+  "tags": [
+   "SMDM",
+   "properti",
+   "laporan keuangan",
+   "liabilitas"
+  ],
+  "body": [
+   "PT Suryamas Dutamakmur Tbk (SMDM) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, melalui surat bernomor 054/IR-CS/SMDM/X/2026 tertanggal 30 Oktober 2026 yang ditandatangani Direktur Hermawan Wijaya. Pendapatan usaha perusahaan properti ini naik 40,1 persen, dari Rp200,35 miliar pada sembilan bulan pertama 2025 menjadi Rp280,79 miliar pada periode yang sama tahun ini. Laba bersih yang dapat diatribusikan kepada pemilik entitas induk berbalik dari rugi Rp13,88 miliar pada periode yang sama tahun lalu menjadi laba Rp2,13 miliar, sehingga laba per saham dasar ikut berbalik dari rugi Rp2,91 menjadi laba Rp0,446 per saham.",
+   "Di sisi lain, total liabilitas konsolidasian perusahaan melonjak 56 persen dalam sembilan bulan, dari Rp269,51 miliar pada akhir 2025 menjadi Rp420,32 miliar pada akhir September 2026. Kenaikan ini cukup besar sehingga perusahaan, melalui surat terpisah bernomor 055/IR-CS/SMDM/X/2026 yang juga ditandatangani Hermawan Wijaya, harus memberi penjelasan khusus kepada bursa karena kenaikan liabilitas di atas 20 persen wajib dijelaskan ke otoritas. Penyebab utamanya adalah liabilitas kontrak, yaitu uang muka dari pembeli properti yang belum diakui sebagai pendapatan karena unit belum diserahkan, yang membengkak dari Rp50,81 miliar menjadi Rp156,73 miliar untuk bagian jangka pendek, dan dari Rp6,40 miliar menjadi Rp85,43 miliar untuk bagian jangka panjang. Utang bank jangka panjang perusahaan sendiri tidak berubah, tetap di Rp30,76 miliar, sehingga kenaikan liabilitas ini bukan berasal dari pinjaman baru.",
+   "Arus kas dari aktivitas operasi juga berbalik positif menjadi Rp50,34 miliar, dari sebelumnya defisit Rp90,25 miliar pada periode yang sama tahun lalu, sehingga kas dan setara kas perusahaan naik 24,4 persen menjadi Rp188,81 miliar. Di struktur ekuitas, perusahaan mengakuisisi tambahan saham di salah satu entitas anak dari pemegang saham non-pengendali senilai Rp44,16 miliar, dan entitas anak tersebut juga membagikan dividen Rp15,51 miliar kepada pemegang saham non-pengendalinya, sehingga porsi kepentingan non-pengendali dalam ekuitas konsolidasian turun dari Rp959,03 miliar menjadi Rp928,38 miliar."
+  ],
+  "fotoAdegan": "Workers plastering exterior walls of unfinished houses in a suburban housing development, scaffolding and construction materials nearby, overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi SMDM, karena laba bersih berbalik dari rugi menjadi untung, pendapatan tumbuh 40 persen, dan yang lebih penting arus kas dari kegiatan usaha juga berbalik positif, tanda bahwa kenaikan laba di atas kertas benar-benar diikuti uang kas yang masuk. Pos yang perlu diperhatikan adalah liabilitas kontrak, yakni uang muka dari pembeli rumah atau apartemen yang belum dicatat sebagai pendapatan karena unit belum selesai dan diserahkan, yang melonjak tajam dan menjadi penyebab utama total liabilitas naik lebih dari 50 persen, sehingga lonjakan ini sebetulnya mencerminkan banyaknya uang muka penjualan properti baru, bukan tambahan utang bank karena pinjaman bank jangka panjang perusahaan tidak bertambah. Laba per saham dasar juga ikut terangkat dari rugi menjadi untung, yang berarti tiap lembar saham kini menghasilkan nilai bagi pemegang saham, bukan lagi membebani. Yang perlu dipantau selanjutnya adalah apakah uang muka pelanggan yang menumpuk ini benar-benar terealisasi menjadi pendapatan saat unit-unit properti diserahkan pada kuartal-kuartal mendatang, karena di situlah akan terlihat apakah pertumbuhan penjualan ini berkelanjutan atau hanya lonjakan sesaat.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "powr-laba-melonjak-24-jadi-us-70-9-juta-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "POWR: laba [melonjak] 24% jadi US$70,9 juta di kuartal III",
+  "deck": "Cikarang Listrindo (POWR) membukukan laba bersih US$70,9 juta pada sembilan bulan pertama 2026, naik 24 persen dibanding tahun lalu, didorong turunnya beban bunga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:09:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030122010-65409-0/FinancialStatement-2026-III-POWR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POWR",
+  "tags": [
+   "POWR",
+   "Cikarang Listrindo",
+   "laba bersih",
+   "laporan keuangan kuartal III"
+  ],
+  "body": [
+   "PT Cikarang Listrindo Tbk (POWR) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 30 Oktober 2026. Surat bernomor 0042/POWR/10/2026 itu ditandatangani oleh Sekretaris Perusahaan Rani Maheswari Miraza, sesuai kewajiban penyampaian laporan keuangan berkala emiten yang diatur OJK.",
+   "Penjualan neto perusahaan tercatat US$427,9 juta pada sembilan bulan pertama 2026, naik dari US$412,5 juta pada periode yang sama tahun lalu. Penjualan ke pelanggan industri naik dari US$363,3 juta menjadi US$388,7 juta, sementara penjualan ke PT Perusahaan Listrik Negara (PLN) justru turun dari US$49,2 juta menjadi US$39,2 juta. Laba usaha naik dari US$85,9 juta menjadi US$107,4 juta, dan laba periode berjalan mencapai US$70,9 juta, naik 23,8 persen dari US$57,3 juta pada periode yang sama tahun sebelumnya. Kenaikan ini juga ditopang beban pendanaan yang turun dari US$21,5 juta menjadi US$15,5 juta, meski pendapatan bunga ikut turun dari US$13,8 juta menjadi US$10,3 juta. Laba per saham dasar tercatat US$0,0045, naik dari US$0,0036 pada periode sebelumnya.",
+   "Dari sisi posisi keuangan, total ekuitas perusahaan naik dari US$715,0 juta pada akhir 2025 menjadi US$749,9 juta pada akhir September 2026, sementara total liabilitas naik dari US$476,5 juta menjadi US$494,0 juta, antara lain karena liabilitas pajak tangguhan yang bertambah dari US$16,8 juta menjadi US$24,7 juta. Kas dan setara kas berkurang dari US$174,2 juta menjadi US$133,8 juta, salah satunya karena perusahaan membayar dividen tunai US$45,2 juta dan menempatkan US$111,2 juta dalam deposito berjangka. Perusahaan juga menjual kembali 14.181.477 lembar saham treasuri senilai US$14,2 juta sepanjang periode ini, sehingga saham treasuri yang masih dipegang menyusut dari 235.656.900 lembar pada akhir 2025 menjadi 6.791.900 lembar pada akhir September 2026."
+  ],
+  "fotoAdegan": "Industrial workers in hard hats inspecting large turbine generators inside a humming power plant, pipes and cables overhead, dim lighting",
+  "takeaway": "Laporan kuartal III ini condong positif bagi Cikarang Listrindo karena laba bersihnya melonjak hampir 24 persen sementara beban bunga justru turun, tanda operasional perusahaan makin efisien dibanding tahun lalu. Yang tersentuh di sini adalah laba per saham, yang naik dari US$0,0036 menjadi US$0,0045, serta ekuitas, yaitu modal sendiri perusahaan setelah dikurangi semua utang, yang bertambah sekitar US$34,9 juta menjadi US$749,9 juta, dua indikator yang biasa dipantau pemegang saham untuk menilai seberapa produktif modal mereka dikelola. Di sisi lain, kas perusahaan menyusut dari US$174,2 juta menjadi US$133,8 juta, sebagian karena dipakai membayar dividen tunai US$45,2 juta dan menempatkan deposito berjangka, bukan tanda masalah selama arus kas dari kegiatan operasi tetap positif seperti tercatat di laporan ini. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan yang sudah diaudit, karena angka dalam laporan interim ini masih berstatus tidak diaudit dan berpotensi direvisi begitu auditor independen menyelesaikan pemeriksaannya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "duti-laba-bersih-melonjak-149-jadi-rp482-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "DUTI: Laba Bersih [Melonjak] 149% jadi Rp482,8 Miliar",
+  "deck": "Laba bersih Duta Pertiwi melonjak 149 persen menjadi Rp482,8 miliar pada sembilan bulan pertama 2026, didorong pendapatan naik 26 persen dan diiringi pembagian dividen Rp1,09 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:06:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121727-64519-0/FinancialStatement-2026-III-DUTI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DUTI",
+  "tags": [
+   "DUTI",
+   "Duta Pertiwi",
+   "laporan keuangan",
+   "properti"
+  ],
+  "body": [
+   "PT Duta Pertiwi Tbk (DUTI) mencatat laba bersih yang dapat diatribusikan kepada pemilik entitas induk sebesar Rp482,8 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, melonjak 149,5 persen dari Rp193,5 miliar pada periode yang sama tahun lalu. Kenaikan ini ditopang oleh pendapatan usaha yang naik 26,4 persen menjadi Rp2,14 triliun dari Rp1,70 triliun, serta laba usaha yang hampir dua kali lipat menjadi Rp612,1 miliar dari Rp310,8 miliar. Laba per saham dasar turut terangkat dari Rp104,60 menjadi Rp260,96, sementara rasio imbal hasil ekuitas (ROE) perusahaan naik dari 1,82 persen menjadi 4,63 persen dan imbal hasil aset (ROA) dari 1,21 persen menjadi 2,99 persen.",
+   "Di sisi lain, perusahaan membagikan dividen sebesar Rp888 miliar kepada pemegang saham entitas induk dan Rp200,1 miliar kepada pemegang saham nonpengendali anak usaha, dengan total sekitar Rp1,09 triliun selama sembilan bulan pertama 2026. Pembayaran dividen ini menjadi salah satu penyebab kas dan setara kas Duta Pertiwi turun 24,5 persen menjadi Rp2,67 triliun dari Rp3,53 triliun pada akhir 2025, serta ekuitas yang dapat diatribusikan kepada pemilik entitas induk turun 3,7 persen menjadi Rp10,44 triliun dari Rp10,83 triliun. Beban bunga perusahaan juga naik 22,1 persen menjadi Rp92,6 miliar dari Rp75,8 miliar, sejalan dengan kenaikan skala operasi.",
+   "Dari sisi liabilitas, total liabilitas Duta Pertiwi naik 18,5 persen menjadi Rp2,92 triliun, terutama didorong oleh liabilitas kontrak jangka pendek atau uang muka dari pembeli unit properti yang melonjak menjadi Rp1,72 triliun dari Rp1,23 triliun, mengindikasikan penjualan unit baru yang lebih tinggi dan menunggu pengakuan sebagai pendapatan pada periode berikutnya. Nilai tanah yang belum dikembangkan, yang menjadi cadangan lahan untuk proyek ke depan, juga bertambah 11 persen menjadi Rp5,34 triliun dari Rp4,81 triliun. Rasio lancar perusahaan tercatat 310,2 persen per September 2026, turun dari 383,7 persen pada periode yang sama tahun lalu, namun masih jauh di atas standar aman likuiditas jangka pendek. Laporan keuangan interim kuartal III 2026 ini disampaikan ke OJK dan Bursa Efek Indonesia pada 30 Oktober 2026 dan belum diaudit."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a mixed-use residential tower construction site in Jakarta, cranes overhead, late afternoon light.",
+  "takeaway": "Laporan ini condong positif bagi Duta Pertiwi, karena pertumbuhan pendapatan dan laba bersihnya jauh melampaui kenaikan skala operasional biasa, sekaligus terjadi di tengah perusahaan tetap mengembalikan kas besar ke pemegang saham lewat dividen. Penurunan ekuitas dan kas yang terlihat di laporan ini bukan sinyal perusahaan memburuk, melainkan konsekuensi dari pembayaran dividen besar tersebut, sementara laba per saham, yaitu bagian laba bersih yang menjadi hak setiap lembar saham yang dipegang investor, justru naik lebih dari dua kali lipat dan menunjukkan kinerja inti perusahaan sedang menguat. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, karena angka pada laporan interim ini masih belum diaudit dan berpotensi direvisi, serta tren uang muka pembeli properti yang melonjak tajam, yang akan menentukan seberapa besar pendapatan baru bisa benar-benar direalisasikan pada kuartal-kuartal berikutnya.",
+  "sentimen": "positif"
  },
  {
   "slug": "harga-emas-antam-turun-ke-rp2-546-000-per-gram",

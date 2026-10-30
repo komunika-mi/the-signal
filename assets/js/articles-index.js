@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "laba-aldo-melonjak-8-kali-lipat-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba ALDO [Melonjak] 8 Kali Lipat di Kuartal III 2026",
+  "deck": "Laba bersih Alkindo Naratama naik dari Rp21,4 miliar menjadi Rp174,3 miliar dalam sembilan bulan 2026, sementara penjualan tumbuh 21 persen.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ALDO",
+   "Alkindo Naratama",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030230010-65595-0/FinancialStatement-2026-III-ALDO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hajj-laba-anjlok-75-piutang-melonjak-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "HAJJ: [Laba] Anjlok 75%, Piutang Melonjak di Kuartal III 2026",
+  "deck": "Laporan kuartal III 2026 HAJJ menunjukkan laba bersih turun 75 persen secara tahunan, sementara piutang dan utang usaha melonjak drastis dalam tiga bulan terakhir.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HAJJ",
+   "laporan keuangan",
+   "laba bersih",
+   "piutang usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030225059-65052-0/FinancialStatement-2026-III-HAJJ.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-bersih-phapros-peha-melonjak-4-kali-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "[Laba Bersih] Phapros (PEHA) Melonjak 4 Kali di Kuartal III 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih Phapros melonjak dari Rp7,68 miliar menjadi Rp31,60 miliar, ditopang kenaikan pendapatan dan penurunan utang bank.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PEHA",
+   "Phapros",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030223608-64959-0/FinancialStatement-2026-III-PEHA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kias-tarik-cerukan-rp40-miliar-rugi-kuartal-iii-menyempit",
+  "category": "Aksi Korporasi",
+  "title": "KIAS tarik [cerukan] Rp40 miliar, rugi kuartal III menyempit",
+  "deck": "Keramika Indonesia Assosiasi (KIAS) menarik cerukan bank Rp40 miliar untuk modal kerja, membuat total liabilitas naik 29 persen, sementara rugi sembilan bulan menyempit menjadi Rp14,1 miliar.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KIAS",
+   "laporan keuangan",
+   "cerukan bank",
+   "keramik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030222635-65342-0/FinancialStatement-2026-III-KIAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sdpc-catat-laba-melonjak-49-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "SDPC catat laba [melonjak] 49%, arus kas operasi negatif",
+  "deck": "Laporan keuangan kuartal III 2026 menunjukkan laba bersih Millennium Pharmacon naik 49 persen dari tahun lalu, namun arus kas dari kegiatan usaha justru berbalik negatif.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SDPC",
+   "laporan keuangan",
+   "distribusi farmasi",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030220233-64417-0/FinancialStatement-2026-III-SDPC.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sage-berbalik-untung-rp461-juta-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "SAGE [Berbalik] Untung Rp461 Juta di Kuartal III 2026",
+  "deck": "Pendapatan SAGE melonjak empat kali lipat dalam sembilan bulan 2026, membawa perusahaan properti ini berbalik dari rugi Rp3,16 miliar jadi laba Rp461 juta.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAGE",
+   "properti",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215539-65563-0/FinancialStatement-2026-III-SAGE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "simp-cetak-laba-rp2-05-triliun-di-9m2026-naik-45",
   "category": "Aksi Korporasi",
   "title": "SIMP Cetak Laba [Rp2,05 Triliun] di 9M2026, Naik 45%",
@@ -6387,106 +6483,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e511f17bd_d1070b5da3.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "tanam-2-200-pohon-aren-kek-batang-incar-energi-mandiri",
-  "category": "Energi",
-  "title": "Tanam 2.200 Pohon [Aren], KEK Batang Incar Energi Mandiri",
-  "deck": "KEK Industropolis Batang menanam 2.200 bibit aren bersama PT Mitra Aren Indonesia, menyasar konservasi lingkungan sekaligus potensi bahan baku bioetanol.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/tanam-2-200-pohon-aren-kek-batang-incar-energi-mandiri.jpg",
-  "imageV": "mvljdl9m",
-  "tags": [
-   "aren",
-   "bioetanol",
-   "KEK Batang",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474666-dorong-kemandirian-energi-tanaman-aren-jadi-andalan-baru-di-batang"
- },
- {
-  "slug": "smkm-kucurkan-pinjaman-rp30-miliar-ke-afiliasi-milik-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "SMKM Kucurkan Pinjaman [Rp30 Miliar] ke Afiliasi Milik Pengendali",
-  "deck": "SMKM memberi pinjaman Rp30 miliar ke Panasia Aquaculture, perusahaan yang seluruh sahamnya dimiliki pengendali SMKM yang juga memegang 25 persen saham SMKM.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMKM",
-   "transaksi afiliasi",
-   "pinjaman",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d96ce9228e_51c52b039b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pura-restrukturisasi-utang-ke-mandiri-bunga-ditangguhkan-3-bulan",
-  "category": "Aksi Korporasi",
-  "title": "PURA Restrukturisasi Utang ke Mandiri, Bunga [Ditangguhkan] 3 Bulan",
-  "deck": "PURA dan Bank Mandiri sepakat menangguhkan 6,13 poin dari bunga kredit 9 persen selama tiga bulan, langkah yang diklaim perusahaan membantu arus kas.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PURA",
-   "restrukturisasi utang",
-   "Bank Mandiri",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7b28fdbd05_18d59a4111.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-targetkan-seluruh-desa-berlistrik-pada-2029",
-  "category": "Energi",
-  "title": "ESDM Targetkan Seluruh Desa Berlistrik pada [2029]",
-  "deck": "Menteri ESDM Bahlil Lahadalia membatasi alokasi RKAB perusahaan tambang besar dan menetapkan 2029 sebagai tenggat listrik merata ke sekitar 11.000 desa yang masih gelap.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/esdm-targetkan-seluruh-desa-berlistrik-pada-2029.jpg",
-  "imageV": "mvl0vo8v",
-  "tags": [
-   "ESDM",
-   "RKAB",
-   "Elektrifikasi",
-   "Pertambangan"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hut-pertambangan-dan-energi-ke-81-bahlil-perintahkan-insan-esdm-pilih-kepentingan-rakyat",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "esdm-kerek-target-penerimaan-jadi-rp165-triliun",
-  "category": "Energi",
-  "title": "ESDM Kerek Target Penerimaan Jadi [Rp165] Triliun",
-  "deck": "Menteri ESDM Bahlil Lahadalia menaikkan target penerimaan negara bukan pajak 2026 jadi Rp165 triliun, dari target awal sekitar Rp136 triliun.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/esdm-kerek-target-penerimaan-jadi-rp165-triliun.jpg",
-  "imageV": "mvl0vq3b",
-  "tags": [
-   "PNBP ESDM",
-   "Batu Bara",
-   "Hilirisasi Nikel",
-   "Lifting Migas"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/lampaui-target-pada-2025-pnbp-esdm-kini-dipatok-rp165-triliun",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "kemendag-klaim-ekspor-tumbuh-4-74-persen-di-dua-tahun-kabinet",
-  "category": "Makroekonomi",
-  "title": "Kemendag Klaim Ekspor Tumbuh 4,74 Persen di [Dua Tahun] Kabinet",
-  "deck": "Kemendag mengklaim tiga program prioritas mendorong ekspor dan melindungi pasar dalam negeri, ditandai perjanjian dagang baru dan aturan e-commerce yang memihak UMKM.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/pasar-beras.jpg",
-  "tags": [
-   "ekspor",
-   "Kemendag",
-   "UMKM",
-   "perdagangan internasional"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dua-tahun-kabinet-tiga-program-prioritas-kemendag-berkontribusi-dorong-kinerja-perdagangan",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

@@ -3,6 +3,162 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "laba-aldo-melonjak-8-kali-lipat-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba ALDO [Melonjak] 8 Kali Lipat di Kuartal III 2026",
+  "deck": "Laba bersih Alkindo Naratama naik dari Rp21,4 miliar menjadi Rp174,3 miliar dalam sembilan bulan 2026, sementara penjualan tumbuh 21 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T22:47:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030230010-65595-0/FinancialStatement-2026-III-ALDO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ALDO",
+  "tags": [
+   "ALDO",
+   "Alkindo Naratama",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "Alkindo Naratama Tbk (ALDO) menyampaikan laporan keuangan interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan bersih perusahaan produsen kemasan dan kertas ini tercatat Rp1,88 triliun, naik 21 persen dari Rp1,56 triliun pada periode yang sama tahun 2025. Laba bersih yang menjadi bagian pemilik perusahaan melonjak jauh lebih tinggi, dari Rp21,26 miliar menjadi Rp172,72 miliar. Jika ditambah bagian pemegang saham minoritas di anak usaha, total laba bersih konsolidasi naik dari Rp21,36 miliar menjadi Rp174,35 miliar. Laba per saham dasar pun terangkat dari Rp7,87 menjadi Rp63,95.",
+   "Kenaikan laba ini bukan cuma karena penjualan yang lebih besar. Laba kotor naik dari Rp225,61 miliar menjadi Rp412,45 miliar, sehingga marjin laba kotor terhadap penjualan membesar dari 14,5 persen menjadi 21,9 persen. Laba usaha pun melonjak dari Rp60,99 miliar menjadi Rp222,06 miliar. Di sisi aset, total aset perusahaan naik 9 persen menjadi Rp2,28 triliun, dengan aset lancar naik 20 persen yang menurut perusahaan terutama berasal dari piutang usaha yang bertambah seiring kenaikan penjualan.",
+   "Di sisi liabilitas, utang jangka panjang justru turun 27 persen dari Rp180,15 miliar menjadi Rp130,85 miliar. Perusahaan menyebutkan penurunan ini terjadi karena pembayaran utang bank jangka panjang yang sebelumnya digunakan untuk membiayai pembangunan pabrik. Ekuitas pemegang saham naik 16 persen menjadi Rp1,228,33 miliar, dan kas serta setara kas di akhir September 2026 tercatat Rp90,56 miliar, naik dari Rp68,86 miliar di awal tahun. Selama periode ini, ALDO juga membeli kembali sebagian sahamnya senilai Rp504,7 juta dan membagikan dividen senilai Rp1,4 miliar."
+  ],
+  "fotoAdegan": "Workers checking large rolls of brown kraft paper moving through packaging factory machinery, industrial lighting, Indonesia",
+  "takeaway": "Laporan ini jelas condong positif bagi ALDO karena laba bersihnya melonjak sekitar delapan kali lipat dibanding periode yang sama tahun lalu, padahal penjualan hanya tumbuh 21 persen, artinya ada perbaikan efisiensi usaha, bukan sekadar dorongan dari penjualan yang lebih besar. Pos yang tersentuh di sini ada tiga, marjin laba kotor yaitu persentase laba dibanding penjualan setelah dikurangi biaya produksi, yang membesar dari 14,5 jadi 21,9 persen, lalu laba per saham yang naik dari Rp7,87 ke Rp63,95 sehingga nilai laba yang diwakili setiap lembar saham jauh lebih besar, dan utang jangka panjang yang turun karena perusahaan melunasi pinjaman bank, yang berarti beban bunga ke depan bisa berkurang. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit yang biasanya terbit pada awal tahun berikutnya, sebab angka di laporan ini masih berstatus belum diaudit dan baru melalui proses review, sehingga investor baru bisa memastikan performa ini bertahan setelah laporan tahunan penuh keluar.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hajj-laba-anjlok-75-piutang-melonjak-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "HAJJ: [Laba] Anjlok 75%, Piutang Melonjak di Kuartal III 2026",
+  "deck": "Laporan kuartal III 2026 HAJJ menunjukkan laba bersih turun 75 persen secara tahunan, sementara piutang dan utang usaha melonjak drastis dalam tiga bulan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T22:39:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030225059-65052-0/FinancialStatement-2026-III-HAJJ.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HAJJ",
+  "tags": [
+   "HAJJ",
+   "laporan keuangan",
+   "laba bersih",
+   "piutang usaha"
+  ],
+  "body": [
+   "PT Arsy Buana Travelindo Tbk (HAJJ), perusahaan penyedia jasa pendukung perjalanan ibadah haji dan umrah, menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Bersamaan dengan itu, manajemen juga mengirim surat penjelasan kepada Bursa Efek Indonesia karena total aset dan total liabilitas Perseroan berubah lebih dari 20 persen dibandingkan kuartal sebelumnya, sesuai Peraturan Bursa Nomor I-E. Surat bernomor 086/ABT-CSL/X/2026 itu ditandatangani oleh Agung Prabowo, Direktur Keuangan dan Administrasi HAJJ.",
+   "Menurut surat tersebut, total aset Perseroan naik 33,82 persen, dari Rp541,36 miliar pada akhir Juni 2026 menjadi Rp724,43 miliar pada akhir September 2026. Kenaikan ini terutama didorong oleh piutang usaha pihak ketiga yang melonjak 323,34 persen, dari Rp44,98 miliar menjadi Rp190,43 miliar, serta kas dan setara kas yang bertambah 206,90 persen menjadi Rp94,31 miliar. Di sisi lain, total liabilitas naik lebih tajam lagi, yakni 60,48 persen, dari Rp322,38 miliar menjadi Rp517,35 miliar, terutama karena utang usaha kepada pihak ketiga yang membengkak 101,91 persen dari Rp163,54 miliar menjadi Rp330,20 miliar. Manajemen menyebut perubahan ini sebagai bagian dari siklus operasional normal perusahaan.",
+   "Laporan laba rugi menunjukkan pendapatan Perseroan untuk sembilan bulan pertama 2026 turun menjadi Rp657,67 miliar, dari Rp727,25 miliar pada periode yang sama tahun sebelumnya. Laba bruto ikut tergerus dari Rp91,23 miliar menjadi Rp48,58 miliar, sementara laba bersih periode berjalan turun tajam dari Rp35,50 miliar menjadi Rp8,82 miliar, membuat laba per saham dasar merosot dari Rp14,38 menjadi Rp3,57. Di sisi arus kas, kegiatan operasi justru membaik signifikan, dari defisit Rp60,53 miliar pada sembilan bulan pertama 2025 menjadi surplus Rp77,96 miliar pada periode yang sama tahun ini."
+  ],
+  "fotoAdegan": "Pilgrims pulling luggage trolleys through an airport departure hall before an umrah flight, early morning light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental HAJJ, karena di balik kenaikan aset dan arus kas operasi yang terlihat sehat, laba bersih perusahaan justru anjlok 75 persen dibandingkan periode yang sama tahun lalu, dan margin labanya menyusut tajam meski pendapatan hanya turun tipis. Yang perlu diperhatikan adalah piutang usaha dan utang usaha yang membengkak berbarengan dalam tiga bulan terakhir, karena ini memengaruhi arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kas perusahaan, sebab piutang besar berarti uang penjualan belum semuanya cair, sementara utang usaha yang menumpuk berarti perusahaan menunda pembayaran ke pemasoknya. Laba per saham, yaitu bagian laba yang secara teoritis menjadi hak setiap pemegang satu lembar saham, ikut turun drastis dari Rp14,38 menjadi Rp3,57, indikator yang biasa langsung diperhatikan investor karena mencerminkan hasil dari setiap lembar saham yang mereka pegang. Yang perlu dipantau berikutnya adalah apakah piutang sebesar Rp190,43 miliar itu benar cair menjadi kas pada laporan kuartal IV 2026, serta laporan keuangan tahunan auditan yang akan menunjukkan apakah penurunan laba ini memang hanya soal musim perjalanan haji dan umrah seperti klaim manajemen, atau justru tren yang berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "laba-bersih-phapros-peha-melonjak-4-kali-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "[Laba Bersih] Phapros (PEHA) Melonjak 4 Kali di Kuartal III 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih Phapros melonjak dari Rp7,68 miliar menjadi Rp31,60 miliar, ditopang kenaikan pendapatan dan penurunan utang bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T22:24:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030223608-64959-0/FinancialStatement-2026-III-PEHA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PEHA",
+  "tags": [
+   "PEHA",
+   "Phapros",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Phapros Tbk (PEHA) menyampaikan laporan keuangan interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan, melalui surat bernomor 006/DIV/AKT/X/26 yang diteken direksi pada 29 Oktober 2026. Dalam laporan itu, pendapatan perusahaan farmasi ini tercatat Rp786,57 miliar, naik 15 persen dari Rp683,58 miliar pada periode yang sama tahun lalu. Laba usaha naik lebih tajam, dari Rp51,94 miliar menjadi Rp80,97 miliar, sementara laba bersih melonjak dari Rp7,68 miliar menjadi Rp31,60 miliar, atau naik lebih dari empat kali lipat. Laba bersih per saham ikut naik dari Rp9 menjadi Rp38 untuk setiap lembar saham.",
+   "Dari sisi posisi keuangan, jumlah aset Phapros per akhir September 2026 tercatat Rp1,45 triliun, naik dari Rp1,39 triliun pada akhir Desember 2025. Jumlah ekuitas naik dari Rp427,47 miliar menjadi Rp457,13 miliar, didorong oleh laba periode berjalan yang masuk ke saldo laba. Di sisi utang, total pinjaman bank perusahaan, gabungan dari utang bank jangka pendek, bagian jangka panjang yang jatuh tempo dalam setahun, dan sisa utang jangka panjang, turun dari sekitar Rp631,23 miliar menjadi Rp591,18 miliar. Meski membaik, saldo laba yang belum ditentukan penggunaannya masih tercatat defisit Rp346,70 miliar, sisa dari kerugian besar yang pernah dibukukan perusahaan pada 2024.",
+   "Arus kas dari aktivitas operasi, yakni kas yang benar-benar diterima dari penjualan obat dikurangi pembayaran ke pemasok dan karyawan, naik lebih dari dua kali lipat menjadi Rp129,96 miliar dari Rp53,51 miliar pada periode yang sama tahun lalu. Kas dan setara kas Phapros di akhir September 2026 tercatat Rp157,54 miliar, naik dari Rp120,98 miliar di akhir 2025. Sepanjang periode ini perusahaan juga membagikan dividen tunai Rp4,21 miliar. Laporan ini turut menyebut anak usaha PT Lucas Djaja, perusahaan farmasi di Bandung yang mulai beroperasi komersial sejak 1968, dengan aset Rp290,95 miliar dan kepemilikan saham Phapros di perusahaan itu sebesar 90,22 persen."
+  ],
+  "fotoAdegan": "Pharmaceutical factory workers in white coats checking rows of medicine vials on a production line, bright sterile lighting",
+  "takeaway": "Laporan ini condong positif karena laba bersih Phapros naik lebih dari empat kali lipat dibanding periode yang sama tahun lalu, ditopang kenaikan pendapatan dan utang bank yang menyusut, meski perbaikan ini belum cukup menutup akumulasi kerugian besar dari tahun 2024 yang masih membekas di saldo laba perusahaan. Yang ikut tersentuh adalah ekuitas, arus kas operasi, dan beban bunga: ekuitas naik karena laba periode ini menambah modal pemegang saham, arus kas operasi yang dua kali lebih besar menunjukkan uang kas yang benar-benar masuk dari penjualan, bukan sekadar laba di atas kertas, sementara beban bunga yang masih besar menandakan beban utang lama belum sepenuhnya reda. Pelaku pasar biasanya lebih percaya pada arus kas operasi dibanding laba akuntansi, karena arus kas itulah yang dipakai perusahaan untuk membayar utang dan dividen. Yang perlu dipantau berikutnya adalah apakah tren kenaikan laba dan arus kas ini berlanjut sampai laporan tahunan 2026 yang sudah diaudit terbit, serta apakah sisa utang bank sekitar Rp591 miliar terus menyusut seperti pada kuartal ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "kias-tarik-cerukan-rp40-miliar-rugi-kuartal-iii-menyempit",
+  "category": "Aksi Korporasi",
+  "title": "KIAS tarik [cerukan] Rp40 miliar, rugi kuartal III menyempit",
+  "deck": "Keramika Indonesia Assosiasi (KIAS) menarik cerukan bank Rp40 miliar untuk modal kerja, membuat total liabilitas naik 29 persen, sementara rugi sembilan bulan menyempit menjadi Rp14,1 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T22:15:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030222635-65342-0/FinancialStatement-2026-III-KIAS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KIAS",
+  "tags": [
+   "KIAS",
+   "laporan keuangan",
+   "cerukan bank",
+   "keramik"
+  ],
+  "body": [
+   "PT Keramika Indonesia Assosiasi Tbk (KIAS) menyampaikan laporan keuangan interim konsolidasian yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, memenuhi aturan Otoritas Jasa Keuangan Nomor 14/POJK.04/2022 dan ketentuan Bursa Efek Indonesia soal keterbukaan informasi. Surat pengantar ditandatangani Corporate Secretary KIAS, Verawaty Trisno Hadijanto, pada 30 Oktober 2026. Secara operasional, pendapatan KIAS naik menjadi Rp468,2 miliar dari Rp447,5 miliar pada periode yang sama tahun lalu. Laba kotor melonjak menjadi Rp19,4 miliar dari Rp11 miliar, sehingga rugi operasi menyempit menjadi Rp11,4 miliar dari Rp16,4 miliar. Setelah memperhitungkan beban keuangan dan pajak, rugi bersih periode berjalan tercatat Rp14,1 miliar, menyempit dari Rp17,3 miliar pada sembilan bulan pertama 2025. Rugi bersih per saham membaik menjadi Rp0,95 dari Rp1,17.",
+   "Dalam surat terpisah kepada Kepala Divisi Penilaian Perusahaan Grup 1 BEI, manajemen menjelaskan kenaikan total liabilitas yang melampaui 20 persen, sesuai ketentuan III.1.4 Peraturan Bursa Nomor I-E. Total liabilitas per 30 September 2026 tercatat Rp192,8 miliar, naik Rp42,8 miliar atau 29 persen dari Rp150 miliar per akhir Desember 2025. Manajemen menyebut kenaikan ini terutama berasal dari penggunaan fasilitas cerukan bank sebesar Rp40 miliar sebagai sumber pendanaan modal kerja, pos yang sebelumnya nihil. Laporan arus kas menunjukkan alasan di balik penarikan dana itu. Aktivitas operasi KIAS membutuhkan kas bersih Rp13 miliar pada sembilan bulan ini, berbalik dari periode yang sama tahun lalu yang justru menghasilkan kas bersih Rp24,3 miliar. Untuk menutup selisih itu sekaligus membiayai belanja aset tetap, perusahaan menarik pinjaman bank baru Rp144 miliar dan melunasi Rp104 miliar, sehingga aktivitas pendanaan menyumbang kas masuk bersih Rp36,8 miliar.",
+   "Dari sisi posisi keuangan, total aset KIAS naik menjadi Rp961 miliar dari Rp932,4 miliar, didorong kenaikan persediaan dari Rp57,7 miliar menjadi Rp84 miliar dan kas yang bertambah menjadi Rp39,7 miliar dari Rp30,8 miliar. Namun ekuitas justru turun tipis menjadi Rp768,2 miliar dari Rp782,3 miliar karena akumulasi defisit membesar menjadi Rp1,13 triliun. Saham KIAS saat ini tercatat di papan pemantauan khusus Bursa Efek Indonesia. Catatan atas laporan keuangan juga menyebutkan susunan direksi dan dewan komisaris terbaru, yang dituangkan dalam akta notaris 30 Juni 2022, belum bisa didaftarkan ke Kementerian Hukum dan Hak Asasi Manusia karena akses Perseroan ke sistem administrasi badan hukum sedang diblokir."
+  ],
+  "fotoAdegan": "Workers stacking ceramic floor tiles on wooden pallets inside an industrial tile factory warehouse, daylight through high windows",
+  "takeaway": "Laporan ini kami nilai netral karena sinyalnya bercampur, pendapatan naik dan rugi menyempit, tetapi kekurangan dana operasional baru tertutup lewat utang baru, bukan dari hasil usaha sendiri. Pos yang tersentuh adalah arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar diterima dari penjualan dikurangi biaya sehari-hari, yang kali ini berbalik minus Rp13 miliar dari sebelumnya positif Rp24,3 miliar, sehingga perusahaan harus menarik cerukan bank Rp40 miliar dan membuat total utang melonjak 29 persen. Ekuitas, yaitu kekayaan bersih pemegang saham, juga menyusut tipis karena rugi yang terus terakumulasi. Yang perlu dipantau berikutnya adalah apakah arus kas operasi kembali positif pada laporan kuartal IV atau laporan tahunan 2026, serta kapan status pemantauan khusus di BEI dan masalah pendaftaran susunan direksi ke Kementerian Hukum dan HAM yang tertunda sejak 2022 ini bisa diselesaikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sdpc-catat-laba-melonjak-49-arus-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "SDPC catat laba [melonjak] 49%, arus kas operasi negatif",
+  "deck": "Laporan keuangan kuartal III 2026 menunjukkan laba bersih Millennium Pharmacon naik 49 persen dari tahun lalu, namun arus kas dari kegiatan usaha justru berbalik negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:52:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030220233-64417-0/FinancialStatement-2026-III-SDPC.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SDPC",
+  "tags": [
+   "SDPC",
+   "laporan keuangan",
+   "distribusi farmasi",
+   "arus kas"
+  ],
+  "body": [
+   "Millennium Pharmacon International Tbk (SDPC), distributor obat resep, obat bebas, dan alat kesehatan yang berkantor pusat di Bekasi, melaporkan penjualan bersih sebesar Rp3,28 triliun untuk sembilan bulan pertama 2026, naik 9,28 persen dari Rp3,00 triliun pada periode yang sama tahun lalu. Laba kotor naik dari Rp256,88 miliar menjadi Rp283,07 miliar, sementara laba usaha bertambah dari Rp79,87 miliar menjadi Rp93,05 miliar. Setelah memperhitungkan beban keuangan bersih sebesar Rp51,74 miliar, laba bersih yang menjadi bagian pemegang saham Perseroan tercatat Rp30,43 miliar, melonjak 49,3 persen dari Rp20,39 miliar pada September 2025. Laba per saham ikut naik dari Rp16 menjadi Rp23,88.",
+   "Dari sisi neraca per 30 September 2026, total aset Perseroan tercatat Rp2,11 triliun, naik 7,83 persen dari Rp1,96 triliun pada akhir Desember 2025. Kenaikan terbesar ada pada piutang usaha pihak ketiga yang bertambah dari Rp812,00 miliar menjadi Rp981,42 miliar, sejalan dengan kenaikan penjualan. Total liabilitas naik 7,72 persen menjadi Rp1,77 triliun, terutama karena utang bank jangka pendek yang bertambah dari Rp749,56 miliar menjadi Rp812,58 miliar. Ekuitas Perseroan tumbuh 8,43 persen menjadi Rp342,01 miliar, setelah dikurangi dividen yang dibagikan sebesar Rp3,82 miliar untuk periode berjalan, naik dari Rp2,55 miliar pada periode sebelumnya.",
+   "Yang patut dicermati, arus kas dari kegiatan operasi justru berbalik menjadi negatif Rp18,43 miliar pada sembilan bulan ini, dibandingkan arus kas positif Rp16,30 miliar pada periode yang sama tahun lalu. Penerimaan kas dari pelanggan sebesar Rp3,11 triliun tidak cukup menutupi pembayaran ke pemasok dan karyawan yang mencapai Rp3,12 triliun, ditambah pembayaran pajak penghasilan yang melonjak menjadi Rp64,50 miliar dari Rp16,77 miliar tahun lalu, meski ada penerimaan tagihan restitusi pajak sebesar Rp108,04 miliar. Kekurangan kas operasional itu ditutup lewat aktivitas pendanaan yang menghasilkan kas masuk bersih Rp42,13 miliar, terutama dari penarikan utang bank baru, sehingga kas dan setara kas Perseroan di akhir September 2026 tetap naik menjadi Rp79,57 miliar dari Rp62,84 miliar di akhir 2025."
+  ],
+  "fotoAdegan": "Workers organizing boxed medicines on shelves inside a large pharmaceutical warehouse, forklift moving pallets, rows of metal racks under fluorescent light",
+  "takeaway": "Secara keseluruhan laporan ini netral: laba bersih memang melonjak 49 persen dan margin usaha naik tipis, tetapi kenaikan laba itu tidak diikuti kas yang mengalir masuk dari kegiatan usaha, bahkan arus kas operasi berbalik menjadi negatif Rp18,4 miliar padahal tahun lalu masih positif Rp16,3 miliar. Pos yang tersentuh adalah arus kas operasi dan utang bank jangka pendek, dua hal yang dicermati pelaku pasar karena menunjukkan apakah laba yang tercatat di atas kertas benar-benar berubah jadi uang tunai atau justru tertahan di piutang pelanggan yang di laporan ini memang naik lebih dari 20 persen. Kenaikan laba per saham dari Rp16 menjadi Rp23,88 juga perlu dibaca berdampingan dengan fakta bahwa kas tambahan justru datang dari utang bank yang naik 8,4 persen menjadi Rp812,6 miliar, bukan dari kas hasil operasi sendiri. Yang perlu dipantau berikutnya adalah apakah arus kas operasi negatif ini masih berlanjut di laporan kuartal IV yang biasanya terbit awal tahun depan, karena jika berulang, Perseroan akan makin bergantung pada pinjaman bank untuk membiayai kegiatan sehari-harinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sage-berbalik-untung-rp461-juta-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "SAGE [Berbalik] Untung Rp461 Juta di Kuartal III 2026",
+  "deck": "Pendapatan SAGE melonjak empat kali lipat dalam sembilan bulan 2026, membawa perusahaan properti ini berbalik dari rugi Rp3,16 miliar jadi laba Rp461 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T21:48:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215539-65563-0/FinancialStatement-2026-III-SAGE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SAGE",
+  "tags": [
+   "SAGE",
+   "properti",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Saptausaha Gemilangindah Tbk (SAGE) membukukan pendapatan Rp13,51 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik lebih dari empat kali lipat dari Rp3,03 miliar pada periode yang sama tahun lalu. Setelah dikurangi beban pokok dan biaya umum, perusahaan properti ini mencetak laba usaha Rp888,21 juta, berbalik dari rugi usaha Rp3,40 miliar pada 2025. Laba bersih periode berjalan tercatat Rp461,23 juta, dibandingkan rugi Rp3,16 miliar pada periode yang sama tahun sebelumnya, dengan laba per saham dasar berbalik dari minus Rp0,39 menjadi Rp0,06.",
+   "Dari sisi arus kas, SAGE membukukan kas bersih dari aktivitas operasi Rp4,19 miliar, lebih dari tiga kali lipat dibanding Rp1,26 miliar pada periode sama 2025. Sebagian dana itu dipakai melunasi pinjaman bank sebesar Rp3,65 miliar, sehingga saldo pinjaman bank jangka panjang turun dari Rp21,43 miliar pada akhir 2025 menjadi Rp17,78 miliar pada akhir September 2026 tanpa menarik pinjaman baru. Total liabilitas perusahaan ikut menyusut dari Rp35,19 miliar menjadi Rp29,87 miliar, sementara kas dan setara kas naik dari Rp562,27 juta menjadi Rp814,05 juta.",
+   "Total aset SAGE sedikit menurun dari Rp319,25 miliar menjadi Rp314,40 miliar, terutama karena piutang usaha pihak ketiga turun dari Rp8,32 miliar menjadi Rp3,42 miliar. Total ekuitas relatif stabil di kisaran Rp284,53 miliar. Perseroan memiliki dua anak usaha yang hampir seluruh sahamnya dikuasai SAGE, yaitu PT Pilar Loka Karya yang bergerak di jasa manajemen dan konsultan di Tangerang dengan porsi kepemilikan 99,6 persen, serta PT Syntera Networks Nexalink yang bergerak di jasa penyedia internet di Jakarta dengan porsi kepemilikan 99,0 persen dan baru beroperasi komersial sejak 2025. Laporan ini merupakan laporan keuangan interim yang belum diaudit."
+  ],
+  "fotoAdegan": "Workers leveling soil at a sprawling residential land development site in West Java, excavator in background, overcast sky",
+  "takeaway": "Laporan ini positif bagi SAGE karena pendapatan melonjak tajam, perusahaan berbalik dari rugi menjadi laba, dan utang bank berkurang tanpa pinjaman baru. Yang paling bergeser adalah laba per saham, yaitu bagian laba yang secara teoritis jadi milik setiap lembar saham publik, yang berbalik dari minus Rp0,39 menjadi plus Rp0,06, sementara arus kas dari operasi, yakni uang tunai riil yang masuk dari kegiatan bisnis sehari-hari, melonjak lebih dari tiga kali lipat sehingga perusahaan punya ruang lebih besar untuk membayar utang. Karena laporan ini masih berstatus belum diaudit, pembaca perlu mencermati laporan keuangan tahunan auditan yang biasanya terbit paling lambat akhir Maret 2027 untuk memastikan apakah tren kenaikan pendapatan dan pelunasan utang bank ini berlanjut pada kuartal berikutnya.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "simp-cetak-laba-rp2-05-triliun-di-9m2026-naik-45",
   "category": "Aksi Korporasi",
   "title": "SIMP Cetak Laba [Rp2,05 Triliun] di 9M2026, Naik 45%",

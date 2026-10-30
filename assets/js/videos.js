@@ -2,6 +2,87 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "TDIha7ZoP48",
+  "title": "Sinergi Pemerintah dan Kadin Perkuat Ekonomi Nasional",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Pemerintah dan Kadin memperkuat sinergi untuk menjaga kestabilan bisnis dan mendorong roda perekonomian nasional di tengah ketidakpastian finansial global.",
+  "takeaway": "Relevan karena menggambarkan arah kolaborasi pemerintah dan dunia usaha dalam menghadapi tekanan ekonomi global.",
+  "terbit": "2026-10-30T16:43:44+00:00"
+ },
+ {
+  "id": "HJ_cgDE81wo",
+  "title": "Xaviera Global Kembangkan Sistem Pengolahan Sampah Terintegrasi",
+  "category": "Industri",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "PT Xaviera Global Synergi meraih penghargaan atas inovasi model usaha berkelanjutan melalui sistem cyber waste untuk pengolahan sampah terintegrasi.",
+  "takeaway": "Menunjukkan bagaimana inovasi model bisnis berkelanjutan dapat menjadi nilai tambah bagi sektor industri pengelolaan limbah.",
+  "terbit": "2026-10-30T16:30:36+00:00"
+ },
+ {
+  "id": "vTLknbeeRaw",
+  "title": "Perlindungan Industri Dalam Negeri Harus Diperkuat",
+  "category": "UMKM",
+  "program": "Kabar Khusus",
+  "summary": "Menteri Perdagangan Budi Santoso memaparkan strategi mendorong UMKM menembus pasar global, dengan nilai transaksi program UMKM Bisa Ekspor mencapai US$360 juta sejak Januari.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan capaian konkret program ekspor UMKM sekaligus arah kebijakan perlindungan industri dalam negeri.",
+  "terbit": "2026-10-30T16:10:58+00:00"
+ },
+ {
+  "id": "XM9WuiAX7HU",
+  "title": "UMKM Naik Kelas, Kunci Ekonomi Kerakyatan Mendunia",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Rapimnas Kadin menegaskan bahwa UMKM naik kelas menjadi syarat penting bagi ekonomi kerakyatan Indonesia untuk bisa mendunia, sebagai forum konsolidasi kebijakan pemerintah dan dunia usaha.",
+  "takeaway": "Menyoroti arah kebijakan Kadin dalam mendorong UMKM sebagai pilar pertumbuhan ekonomi nasional.",
+  "terbit": "2026-10-30T16:06:49+00:00"
+ },
+ {
+  "id": "whW9C0xwdP4",
+  "title": "Investasi Berkualitas dan SDM Dorong Ekonomi Indonesia",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Strategi penguatan ekonomi Indonesia menyoroti pergeseran ke investasi berkualitas tinggi yang didukung peningkatan sumber daya manusia, bukan sekadar pertumbuhan modal.",
+  "takeaway": "Relevan karena membahas arah kebijakan investasi yang berdampak pada kualitas pertumbuhan ekonomi jangka panjang.",
+  "terbit": "2026-10-30T16:00:01+00:00"
+ },
+ {
+  "id": "SYYUOhF6i74",
+  "title": "Hashim Djojohadikusumo Luruskan Narasi Utang Negara",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Ketua Dewan Penasihat Kadin Indonesia, Hashim Djojohadikusumo, memaparkan tantangan dan potensi ekonomi nasional sekaligus meluruskan narasi soal utang negara.",
+  "takeaway": "Penting bagi pembaca yang ingin memahami perspektif pelaku usaha mengenai isu fiskal utang negara.",
+  "terbit": "2026-10-30T15:55:14+00:00"
+ },
+ {
+  "id": "-auQXZyJNik",
+  "title": "Lanskap Investasi Indonesia Terungkap dalam Data Terkini",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Data statistik dan fakta lapangan terbaru menyoroti stabilitas makroekonomi, kebijakan hilirisasi komoditas, dan pembangunan infrastruktur sebagai penopang investasi Indonesia.",
+  "takeaway": "Memberi gambaran data terkini yang relevan bagi pembaca yang mengikuti tren investasi dan kebijakan hilirisasi di Indonesia.",
+  "terbit": "2026-10-30T15:49:23+00:00"
+ },
+ {
+  "id": "RUTA-G9PZS0",
+  "title": "Anindya Bakrie: Kedaulatan Pangan-Energi Kunci Indonesia",
+  "category": "Energi",
+  "program": "tvOneNews",
+  "summary": "Ketua Umum Kadin Indonesia, Anindya Bakrie, menegaskan pentingnya kedaulatan pangan dan energi di tengah ketidakpastian global dalam Rapimnas Kadin 2026.",
+  "takeaway": "Relevan karena mengangkat isu ketahanan pangan dan energi sebagai agenda strategis dunia usaha nasional.",
+  "terbit": "2026-10-30T15:29:51+00:00"
+ },
+ {
+  "id": "Eo7fDZoPUS4",
+  "title": "Kadin Siapkan Strategi Baru Perkuat Ekonomi Nasional",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Kamar Dagang dan Industri Indonesia menyiapkan langkah strategis untuk memperkuat ekosistem dunia usaha dan mendorong pertumbuhan ekonomi nasional ke depan.",
+  "takeaway": "Menggambarkan arah kebijakan dunia usaha yang berpengaruh terhadap prospek pertumbuhan ekonomi nasional.",
+  "terbit": "2026-10-30T15:07:12+00:00"
+ },
+ {
   "id": "JLZ0X1B1Hhg",
   "title": "Skinsol Raih Penghargaan Inovasi Skincare Berbasis RnD",
   "category": "Industri",

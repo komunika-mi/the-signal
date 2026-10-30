@@ -5,6 +5,73 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-referensi-cpo-november-turun-6-kakao-susut-8",
+  "category": "Industri",
+  "title": "Harga Referensi CPO November [Turun] 6%, Kakao Susut 8%",
+  "deck": "Kemendag menurunkan harga referensi CPO dan kakao untuk November 2026, sehingga bea keluar dan pungutan ekspor kedua komoditas ikut mengecil.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "CPO",
+   "kakao",
+   "bea keluar",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/periode-november-2026-hr-cpo-dan-hpe-biji-kakao-terkoreksi-hpe-komoditas-lainnya-bervariasi",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "esdm-gelar-minerba-convex-2026-buka-konsultasi-rkab",
+  "category": "Energi",
+  "title": "ESDM Gelar Minerba Convex 2026, Buka [Konsultasi] RKAB",
+  "deck": "Ditjen Minerba ESDM bersama 18 asosiasi tambang gelar Minerba Convex 2026 di Jakarta, 2-3 November 2026, lengkap dengan konsultasi RKAB untuk badan usaha.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/esdm-gelar-minerba-convex-2026-buka-konsultasi-rkab.jpg",
+  "imageV": "mvv7fo75",
+  "tags": [
+   "minerba",
+   "ESDM",
+   "RKAB",
+   "pertambangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475838-perkuat-sektor-tambang-ditjen-minerba-kementerian-esdm-gelar-minerba-convex-2026-ajang-edukasi-hingga-konsultasi-rkab"
+ },
+ {
+  "slug": "umkm-kuliner-bisa-jangkau-42-6-juta-pengguna-lewat-livin-food",
+  "category": "UMKM",
+  "title": "UMKM Kuliner Bisa Jangkau [42,6 Juta] Pengguna Lewat Livin' Food",
+  "deck": "Bank Mandiri membuka akses Livin' Food bagi UMKM kuliner untuk menjangkau 42,6 juta pengguna Livin' by Mandiri, memperluas pemasaran di luar lokasi usaha.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/umkm-kuliner-bisa-jangkau-42-6-juta-pengguna-lewat-livin-food.jpg",
+  "imageV": "mvv7fono",
+  "tags": [
+   "UMKM kuliner",
+   "Livin' Food",
+   "Bank Mandiri",
+   "ekonomi digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475837-umkm-kuliner-punya-peluang-jangkau-42-juta-konsumen-ini-strategi-bank-mandiri-lewat-livin-food"
+ },
+ {
+  "slug": "bpdp-percepat-program-peremajaan-sawit-rakyat",
+  "category": "Industri",
+  "title": "BPDP Percepat Program [Peremajaan] Sawit Rakyat",
+  "deck": "BPDP memaparkan capaian program peremajaan sawit rakyat dalam forum IPOS 2026 di Medan, dengan bantuan dana Rp12,48 triliun bagi hampir 197 ribu petani sejak 2016.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/bpdp-percepat-program-peremajaan-sawit-rakyat.jpg",
+  "imageV": "mvv7fp4q",
+  "tags": [
+   "BPDP",
+   "sawit rakyat",
+   "PSR",
+   "perkebunan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475836-dorong-produktivitas-petani-bpdp-akselerasi-program-peremajaan-sawit-rakyat"
+ },
+ {
   "slug": "laba-aldo-melonjak-8-kali-lipat-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "Laba ALDO [Melonjak] 8 Kali Lipat di Kuartal III 2026",
@@ -6417,71 +6484,6 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3aa3bb38d4_cd22a9f7fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pssi-ralat-rencana-distribusi-172-juta-saham-treasuri",
-  "category": "Aksi Korporasi",
-  "title": "PSSI Ralat Rencana Distribusi [172 Juta] Saham Treasuri",
-  "deck": "IMC Pelita Logistik (PSSI) mengoreksi keterbukaan informasi sebelumnya, merinci rencana pembagian 172.039.636 saham treasuri ke pemegang saham pada 27 November 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "saham treasuri",
-   "buyback",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/13eb4acbda_a697b3ba7d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-foundation-buka-daycare-umum-di-jakarta",
-  "category": "Ketenagakerjaan",
-  "title": "Pertamina Foundation Buka [Daycare] Umum di Jakarta",
-  "deck": "Pertamina Foundation membuka layanan penitipan anak di kompleks Simprug, Jakarta, untuk umum dengan prioritas bagi pekerja dan civitas akademika Universitas Pertamina.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/pertamina-foundation-buka-daycare-umum-di-jakarta.jpg",
-  "imageV": "mvljdkvl",
-  "tags": [
-   "Pertamina Foundation",
-   "daycare",
-   "pekerja",
-   "Jakarta"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/474677-ramah-keluarga-pertamina-foundation-buka-layanan-pengasuhan-anak-untuk-umum"
- },
- {
-  "slug": "psgo-pks-anak-usaha-terbakar-kontribusi-30-pendapatan-terhenti",
-  "category": "Aksi Korporasi",
-  "title": "PSGO: PKS Anak Usaha Terbakar, [Kontribusi] 30% Pendapatan Terhenti",
-  "deck": "Kebakaran di stasiun sterilizer PKS anak usaha NUSA menghentikan pengolahan TBS, padahal unit itu menyumbang sekitar 30 persen pendapatan konsolidasi PSGO dalam setahun terakhir.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSGO",
-   "kebakaran",
-   "CPO",
-   "Nusaraya Agro Sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e511f17bd_d1070b5da3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "psgo-ungkap-asuransi-rp267-6-miliar-untuk-pks-nusa-yang-terbakar",
-  "category": "Aksi Korporasi",
-  "title": "PSGO Ungkap Asuransi [Rp267,6 Miliar] untuk PKS NUSA yang Terbakar",
-  "deck": "Merespons permintaan penjelasan BEI, PSGO merinci kapasitas, kontribusi keuangan, dan nilai asuransi PKS anak usahanya yang terbakar, namun belum bisa memastikan waktu pulih dan besarnya kerugian.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSGO",
-   "kebakaran",
-   "kelapa sawit",
-   "asuransi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e511f17bd_d1070b5da3.pdf",
   "sourceLabel": "IDX"
  }
 ];

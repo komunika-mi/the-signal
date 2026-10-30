@@ -4,6 +4,78 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "TDIha7ZoP48",
+  "title": "Sinergi Pemerintah dan Kadin Perkuat Ekonomi Nasional",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Pemerintah dan Kadin memperkuat sinergi untuk menjaga kestabilan bisnis dan mendorong roda perekonomian nasional di tengah ketidakpastian finansial global.",
+  "takeaway": "Relevan karena menggambarkan arah kolaborasi pemerintah dan dunia usaha dalam menghadapi tekanan ekonomi global."
+ },
+ {
+  "id": "HJ_cgDE81wo",
+  "title": "Xaviera Global Kembangkan Sistem Pengolahan Sampah Terintegrasi",
+  "category": "Industri",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "PT Xaviera Global Synergi meraih penghargaan atas inovasi model usaha berkelanjutan melalui sistem cyber waste untuk pengolahan sampah terintegrasi.",
+  "takeaway": "Menunjukkan bagaimana inovasi model bisnis berkelanjutan dapat menjadi nilai tambah bagi sektor industri pengelolaan limbah."
+ },
+ {
+  "id": "vTLknbeeRaw",
+  "title": "Perlindungan Industri Dalam Negeri Harus Diperkuat",
+  "category": "UMKM",
+  "program": "Kabar Khusus",
+  "summary": "Menteri Perdagangan Budi Santoso memaparkan strategi mendorong UMKM menembus pasar global, dengan nilai transaksi program UMKM Bisa Ekspor mencapai US$360 juta sejak Januari.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan capaian konkret program ekspor UMKM sekaligus arah kebijakan perlindungan industri dalam negeri."
+ },
+ {
+  "id": "XM9WuiAX7HU",
+  "title": "UMKM Naik Kelas, Kunci Ekonomi Kerakyatan Mendunia",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Rapimnas Kadin menegaskan bahwa UMKM naik kelas menjadi syarat penting bagi ekonomi kerakyatan Indonesia untuk bisa mendunia, sebagai forum konsolidasi kebijakan pemerintah dan dunia usaha.",
+  "takeaway": "Menyoroti arah kebijakan Kadin dalam mendorong UMKM sebagai pilar pertumbuhan ekonomi nasional."
+ },
+ {
+  "id": "whW9C0xwdP4",
+  "title": "Investasi Berkualitas dan SDM Dorong Ekonomi Indonesia",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Strategi penguatan ekonomi Indonesia menyoroti pergeseran ke investasi berkualitas tinggi yang didukung peningkatan sumber daya manusia, bukan sekadar pertumbuhan modal.",
+  "takeaway": "Relevan karena membahas arah kebijakan investasi yang berdampak pada kualitas pertumbuhan ekonomi jangka panjang."
+ },
+ {
+  "id": "SYYUOhF6i74",
+  "title": "Hashim Djojohadikusumo Luruskan Narasi Utang Negara",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Ketua Dewan Penasihat Kadin Indonesia, Hashim Djojohadikusumo, memaparkan tantangan dan potensi ekonomi nasional sekaligus meluruskan narasi soal utang negara.",
+  "takeaway": "Penting bagi pembaca yang ingin memahami perspektif pelaku usaha mengenai isu fiskal utang negara."
+ },
+ {
+  "id": "-auQXZyJNik",
+  "title": "Lanskap Investasi Indonesia Terungkap dalam Data Terkini",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Data statistik dan fakta lapangan terbaru menyoroti stabilitas makroekonomi, kebijakan hilirisasi komoditas, dan pembangunan infrastruktur sebagai penopang investasi Indonesia.",
+  "takeaway": "Memberi gambaran data terkini yang relevan bagi pembaca yang mengikuti tren investasi dan kebijakan hilirisasi di Indonesia."
+ },
+ {
+  "id": "RUTA-G9PZS0",
+  "title": "Anindya Bakrie: Kedaulatan Pangan-Energi Kunci Indonesia",
+  "category": "Energi",
+  "program": "tvOneNews",
+  "summary": "Ketua Umum Kadin Indonesia, Anindya Bakrie, menegaskan pentingnya kedaulatan pangan dan energi di tengah ketidakpastian global dalam Rapimnas Kadin 2026.",
+  "takeaway": "Relevan karena mengangkat isu ketahanan pangan dan energi sebagai agenda strategis dunia usaha nasional."
+ },
+ {
+  "id": "Eo7fDZoPUS4",
+  "title": "Kadin Siapkan Strategi Baru Perkuat Ekonomi Nasional",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Kamar Dagang dan Industri Indonesia menyiapkan langkah strategis untuk memperkuat ekosistem dunia usaha dan mendorong pertumbuhan ekonomi nasional ke depan.",
+  "takeaway": "Menggambarkan arah kebijakan dunia usaha yang berpengaruh terhadap prospek pertumbuhan ekonomi nasional."
+ },
+ {
   "id": "JLZ0X1B1Hhg",
   "title": "Skinsol Raih Penghargaan Inovasi Skincare Berbasis RnD",
   "category": "Industri",
@@ -410,77 +482,5 @@ var VIDEOS = [
   "program": "One On One",
   "summary": "Presiden Prabowo Subianto bertemu dengan Dewan Ekonomi Nasional membahas sejumlah isu strategis nasional, termasuk usulan DEN bahwa suap tergolong bagian dari kerugian negara.",
   "takeaway": "Pembahasan ini penting diikuti karena menyangkut arah kebijakan DEN dalam mengaitkan pemberantasan korupsi dengan kesehatan keuangan negara."
- },
- {
-  "id": "bd-F_Ve-PVw",
-  "title": "BSI Resmi Buka BSI International Expo 2026",
-  "category": "Perbankan",
-  "program": "AKIM",
-  "summary": "Bank Syariah Indonesia resmi membuka BSI International Expo 2026 di Jakarta International Convention Center, Senayan, pada 23 Oktober 2026, dengan tema Buy Local, Go Global.",
-  "takeaway": "Perhelatan ini menjadi indikator langkah ekspansi perbankan syariah nasional menuju pasar internasional."
- },
- {
-  "id": "VvHMgwfvkrw",
-  "title": "Jakarta Jadi Tuan Rumah Konferensi Ekonomi Kreatif Dunia 2026",
-  "category": "Industri",
-  "program": "AKAP",
-  "summary": "Jakarta menjadi tuan rumah World Conference on Creative Economy (WCCE) kelima pada 2026, forum internasional yang membahas pengembangan ekonomi kreatif global.",
-  "takeaway": "Ajang ini penting bagi pembaca ekonomi karena menunjukkan posisi Indonesia dalam pengembangan industri kreatif di tingkat global."
- },
- {
-  "id": "TH2H6NV3P7w",
-  "title": "400.000 Liter BBM Bersubsidi Diselewengkan, Bahlil Buka Suara",
-  "category": "Energi",
-  "program": "OneNews Update",
-  "summary": "Menteri ESDM Bahlil Lahadalia menanggapi kasus penyelewengan lebih dari 400.000 liter bahan bakar minyak bersubsidi.",
-  "takeaway": "Kasus ini relevan bagi pembaca ekonomi karena menyangkut pengelolaan subsidi energi dan potensi kerugian negara."
- },
- {
-  "id": "bqBa0fRhKFI",
-  "title": "Wali Kota Semarang Tawarkan 19 Peluang Investasi ke Dunia Usaha",
-  "category": "Bisnis",
-  "program": "Kabar Jawa Tengah",
-  "summary": "Wali Kota Semarang menawarkan 19 peluang pengembangan aset milik pemerintah kota dan badan usaha milik daerah kepada pelaku usaha untuk mendorong investasi di daerah tersebut.",
-  "takeaway": "Menunjukkan upaya pemerintah daerah menggaet investasi swasta untuk menggerakkan ekonomi dan pendapatan daerah."
- },
- {
-  "id": "xByzWtSo73I",
-  "title": "Penguatan Ekonomi Desa di Purbalingga Lewat Potensi Lokal",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Warga desa di Kabupaten Purbalingga mengembangkan potensi lokal sebagai upaya memperkuat perekonomian masyarakat di tingkat desa.",
-  "takeaway": "Memberi gambaran bagaimana pemanfaatan potensi lokal bisa menjadi penggerak ekonomi di level UMKM dan desa."
- },
- {
-  "id": "3HOa9Z-zvKY",
-  "title": "Anggota Dewan Ekonomi Nasional Bahas Isu Strategis Ekonomi",
-  "category": "Makroekonomi",
-  "program": "One on One",
-  "summary": "Septian Hario Seto, anggota Dewan Ekonomi Nasional, membahas hasil pertemuannya dengan Presiden Prabowo Subianto pada 20 Oktober 2026 yang membicarakan sejumlah isu ekonomi strategis nasional.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan ekonomi strategis yang sedang dipertimbangkan pemerintah."
- },
- {
-  "id": "0XET8vbTNw8",
-  "title": "Ekonom Indef Soroti Mafia Pangan dan Logistik di 2 Tahun Presiden Prabowo",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Ekonom Indef memberikan catatan kritis atas kinerja ekonomi pemerintahan Presiden Prabowo Subianto selama dua tahun, termasuk soal pembenahan mafia pangan dan sektor logistik yang dinilai masih bermasalah.",
-  "takeaway": "Evaluasi independen ini penting bagi pembaca untuk memahami tantangan struktural ekonomi pangan dan logistik yang masih dihadapi pemerintah."
- },
- {
-  "id": "lWJ2RJja7Hc",
-  "title": "Menko Bahlil Resmikan Proyek Gas Jangkrik-Maha",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi, Bahlil Lahadalia, meresmikan proyek gas Jangkrik-Maha yang diproyeksikan menambah pasokan gas nasional sekitar 290 MMSCFD.",
-  "takeaway": "Penambahan pasokan gas ini relevan bagi pembaca karena berkaitan langsung dengan ketahanan energi dan produksi gas nasional."
- },
- {
-  "id": "8bvxkTwWnls",
-  "title": "Bursa Lowongan Kerja di Jakarta Diserbu Pencari Kerja",
-  "category": "Ketenagakerjaan",
-  "program": "AKIS",
-  "summary": "Bursa lowongan kerja yang digelar di gedung Smesco, Jakarta, dipadati pencari kerja yang berebut kesempatan mengisi lowongan yang tersedia.",
-  "takeaway": "Menggambarkan tingginya minat masyarakat terhadap bursa kerja, indikator relevan bagi pembaca yang mengikuti dinamika pasar tenaga kerja dalam negeri."
  }
 ];

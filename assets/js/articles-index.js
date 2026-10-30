@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pola-catat-rugi-rp1-68-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "POLA Catat [Rugi] Rp1,68 Miliar di Kuartal III 2026",
+  "deck": "PT Pool Advista Finance Tbk membalik untung jadi rugi Rp1,68 miliar pada sembilan bulan 2026 setelah pendapatan pembiayaan turun hampir separuh dari tahun sebelumnya.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POLA",
+   "laporan keuangan",
+   "multifinance",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030131438-64887-0/FinancialStatement-2026-III-POLA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tbla-laba-turun-ke-rp591-miliar-pendapatan-naik-17",
+  "category": "Aksi Korporasi",
+  "title": "TBLA: Laba Turun ke Rp591 Miliar, [Pendapatan] Naik 17%",
+  "deck": "Pendapatan sembilan bulan TBLA naik 17 persen jadi Rp19,18 triliun, tapi laba bersih turun 6 persen akibat beban bunga yang lebih berat.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TBLA",
+   "Tunas Baru Lampung",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030132216-64798-0/FinancialStatement-2026-III-TBLA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tnca-rugi-kuartal-iii-liabilitas-naik-158",
+  "category": "Aksi Korporasi",
+  "title": "TNCA Rugi Kuartal III, Liabilitas Naik [158%]",
+  "deck": "TNCA berbalik rugi Rp81 juta pada sembilan bulan 2026 dan arus kas operasinya negatif, sementara liabilitasnya melonjak 158% setahun karena utang usaha dan utang lain-lain yang membesar tajam.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TNCA",
+   "laporan keuangan",
+   "logistik",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030131550-65187-0/FinancialStatement-2026-III-TNCA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pudp-cetak-rugi-rp7-2-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "PUDP Cetak [Rugi] Rp7,2 Miliar di Sembilan Bulan 2026",
+  "deck": "Pudjiadi Prestige (PUDP) berbalik rugi Rp7,2 miliar pada sembilan bulan 2026, dari laba Rp1,6 miliar setahun sebelumnya, seiring kas tergerus pembiayaan proyek baru di Lebak Bulus.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PUDP",
+   "properti",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030131332-64861-0/FinancialStatement-2026-III-PUDP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "unvr-rencanakan-audit-lk-interim-kuartal-iii-sebut-strategis",
   "category": "Aksi Korporasi",
   "title": "UNVR Rencanakan Audit LK Interim Kuartal III, Sebut [Strategis]",
@@ -164,6 +228,86 @@ var ARTICLES = [
    "properti"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121727-64519-0/FinancialStatement-2026-III-DUTI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fmii-rugi-rp1-86-miliar-penjualan-anjlok-68-di-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "FMII Rugi Rp1,86 Miliar, [Penjualan] Anjlok 68% di 9 Bulan 2026",
+  "deck": "Fortune Mate Indonesia (FMII) berbalik rugi Rp1,86 miliar pada sembilan bulan 2026 dari laba Rp15,4 miliar setahun sebelumnya, seiring penjualan yang turun hampir 68 persen.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FMII",
+   "properti",
+   "laporan keuangan",
+   "rugi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121507-64934-0/FinancialStatement-2026-III-FMII.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bsde-laba-bersih-turun-38-ke-rp844-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "BSDE: Laba Bersih [Turun] 38% ke Rp844 Miliar di Kuartal III",
+  "deck": "Laba bersih BSDE anjlok 38 persen menjadi Rp844,7 miliar pada sembilan bulan pertama 2026, seiring pendapatan yang turun dan beban bunga yang membengkak.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSDE",
+   "laporan keuangan",
+   "properti",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121720-64522-0/FinancialStatement-2026-III-BSDE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dyan-laba-bersih-pemegang-saham-turun-23-jadi-rp38-9-miliar",
+  "category": "Aksi Korporasi",
+  "title": "DYAN: Laba Bersih Pemegang Saham [Turun] 23% jadi Rp38,9 Miliar",
+  "deck": "Laba Dyandra Media naik tipis jadi Rp39,51 miliar pada sembilan bulan 2026, tapi laba untuk pemegang saham utama turun karena untung pelepasan anak usaha di 2025 tak terulang tahun ini.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DYAN",
+   "Dyandra Media",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121330-65326-0/FinancialStatement-2026-III-DYAN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toba-cetak-rugi-us-35-4-juta-menyempit-dari-tahun-lalu",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Cetak Rugi US$35,4 Juta, [Menyempit] dari Tahun Lalu",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan rugi bersih TOBA menyempit ke US$35,4 juta, tapi penyebabnya hilangnya rugi pelepasan anak usaha tahun lalu, bukan perbaikan bisnis.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "TBS Energi Utama",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030120111-65066-0/FinancialStatement-2026-III-TOBA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aces-catat-laba-bersih-naik-28-jadi-rp612-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ACES Catat [Laba] Bersih Naik 28% Jadi Rp612 Miliar",
+  "deck": "Laba bersih ACES melonjak 28,5 persen ke Rp612,4 miliar pada kuartal III 2026, tapi arus kas dari aktivitas operasi justru anjlok 81,3 persen.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ACES",
+   "laporan keuangan",
+   "ritel",
+   "Kawan Lama Group"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030115227-64515-0/FinancialStatement-2026-III-ACES.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6331,150 +6475,6 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023170512-64539-0/FinancialStatement-2026-III-UNSP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-buyback-capai-2-87-harga-beli-tembus-rp3-586",
-  "category": "Aksi Korporasi",
-  "title": "PRDA: Buyback Capai [2,87%], Harga Beli Tembus Rp3.586",
-  "deck": "Prodia Widyahusada melaporkan akumulasi buyback saham naik ke 2,87 persen per 23 Oktober 2026, dengan harga beli rata-rata tertinggi sepanjang program di Rp3.586.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "buyback saham",
-   "Prodia Widyahusada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/93ee98442a_8955dc608a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impc-harimas-tunggal-tambah-179-300-saham-porsi-tetap-36-01",
-  "category": "Aksi Korporasi",
-  "title": "IMPC: Harimas Tunggal [Tambah] 179.300 Saham, Porsi Tetap 36,01%",
-  "deck": "Pemegang saham utama Harimas Tunggal Perkasa membeli 179.300 saham IMPC seharga Rp790 per saham, namun hak suaranya tetap di 36,01 persen.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMPC",
-   "pemegang saham",
-   "kepemilikan saham",
-   "Impack Pratama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-8774-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msin-bagikan-materi-pubex-laba-bersih-h1-naik-14-pubex",
-  "category": "Aksi Korporasi",
-  "title": "MSIN Bagikan Materi Pubex, Laba Bersih H1 Naik 14% [Pubex]",
-  "deck": "Materi public expose insidentil MSIN memuat kinerja H1-2026: pendapatan naik 10%, laba kotor naik 17%, EBITDA naik 12%, laba bersih naik 14% dibanding H1-2025.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSIN",
-   "Public Expose",
-   "Laporan Keuangan",
-   "MNC Digital Entertainment"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b28e6f3cca_d66e6dbfc4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-gagal-bayar-kupon-obligasi-saham-disuspensi-lanjut",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Gagal Bayar Kupon Obligasi, Saham [Disuspensi] Lanjut",
-  "deck": "PTPP gagal membayar bunga obligasi dan bagi hasil sukuk yang jatuh tempo 22 Oktober 2026, sehingga BEI melanjutkan penghentian sementara perdagangan sahamnya di seluruh pasar.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "suspensi saham",
-   "gagal bayar obligasi",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1f227bbcf5_d4402922a0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-resmi-keluar-dari-pemantauan-khusus-bei-efektif-26-oktober",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Resmi Keluar dari [Pemantauan Khusus] BEI, Efektif 26 Oktober",
-  "deck": "BEI mencabut status pemantauan khusus saham PT Mitra Komunikasi Nusantara Tbk (MKNT) mulai 26 Oktober 2026, setelah kriteria ekuitas negatif yang jadi alasan masuknya dinyatakan tidak lagi berlaku.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "BEI",
-   "pemantauan khusus",
-   "papan pengembangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2bb127a8d5_df2ebe33b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "koni-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "KONI Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Perdana Bangun Pusaka Tbk (KONI) menjawab permintaan BEI terkait pergerakan harga sahamnya yang tidak wajar, menyatakan tidak ada informasi material maupun rencana aksi korporasi di baliknya.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KONI",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b81832cf31_935aa33eb4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-sesuaikan-waran-sido-usai-dividen-interim-rp10-saham",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan Waran [SIDO] usai Dividen Interim Rp10/Saham",
-  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur SIDOZPCH7A menyusul dividen interim SIDO Rp10 per saham, efektif awal November 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "SIDO",
-   "waran terstruktur",
-   "Maybank Sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc3cfe8934_33b4178ea5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-lepas-saham-via-repo-suara-ke-33-47",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Lepas Saham via Repo, [Suara] ke 33,47%",
-  "deck": "Transaksi pembelian dan penjualan saham lewat perjanjian repo membuat hak suara seorang direksi NSSS turun dari 34,09% menjadi 33,47%.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "repo",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-5503-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hrta-terang-anugrah-abadi-tambah-200-000-saham-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "HRTA: Terang Anugrah Abadi Tambah [200.000] Saham via Repo",
-  "deck": "Pemegang saham utama HRTA menambah 200.000 saham lewat mekanisme repurchase agreement pada 20 Oktober 2026, hak suaranya tetap 71,16 persen.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRTA",
-   "kepemilikan saham",
-   "pemegang saham utama",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-8708-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

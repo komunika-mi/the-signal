@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pola-catat-rugi-rp1-68-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "POLA Catat [Rugi] Rp1,68 Miliar di Kuartal III 2026",
+  "deck": "PT Pool Advista Finance Tbk membalik untung jadi rugi Rp1,68 miliar pada sembilan bulan 2026 setelah pendapatan pembiayaan turun hampir separuh dari tahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T13:12:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030131438-64887-0/FinancialStatement-2026-III-POLA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POLA",
+  "tags": [
+   "POLA",
+   "laporan keuangan",
+   "multifinance",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Pool Advista Finance Tbk (POLA) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perusahaan pembiayaan ini mencatat rugi bersih Rp1,68 miliar, berbalik dari untung Rp7,23 miliar pada periode yang sama tahun 2025. Rugi per saham tercatat minus Rp0,50, dibandingkan untung Rp2,16 per saham setahun sebelumnya. Penyebabnya, total pendapatan perusahaan turun hampir separuh, dari Rp19,89 miliar menjadi Rp9,83 miliar, dengan penurunan paling dalam terjadi pada pendapatan dari pembiayaan musyarakah mutanaqishah, ijarah, dan pembiayaan konsumen.",
+   "Dari sisi posisi keuangan, total aset menyusut dari Rp228,88 miliar menjadi Rp223,47 miliar. Kas dan setara kas justru naik dari Rp73,08 miliar menjadi Rp91,37 miliar, sementara total liabilitas anjlok 51,91 persen, dari Rp7,18 miliar menjadi Rp3,46 miliar. Ekuitas turun tipis dari Rp221,7 miliar menjadi Rp220,02 miliar, seiring defisit saldo laba yang belum ditentukan penggunaannya melebar dari Rp154,34 miliar menjadi Rp156,02 miliar akibat rugi periode berjalan.",
+   "Dalam surat terpisah bertanggal 29 Oktober 2026 kepada Bursa Efek Indonesia, manajemen menjelaskan penurunan liabilitas lebih dari 20 persen itu. Penurunan sebesar Rp3,73 miliar tersebut sebagian besar berasal dari pengembalian kelebihan dana hasil lelang agunan milik seorang debitur bernama Mohammad Aminuddin Dahlan, senilai Rp3,94 miliar. Surat penjelasan maupun laporan keuangan ditandatangani oleh Direktur Utama Ferianto Ferry Junarso dan Direktur Nuryatun."
+  ],
+  "fotoAdegan": "Motorcycles parked in a row outside a small consumer financing branch office on a busy Jakarta side street, midday light",
+  "takeaway": "Laporan ini condong negatif bagi emiten, karena pendapatan turun hampir separuh dan perusahaan berbalik rugi Rp1,68 miliar pada sembilan bulan 2026, dari untung Rp7,23 miliar di periode yang sama tahun lalu. Dua pos yang tersentuh langsung adalah laba per saham, yang berubah dari positif Rp2,16 menjadi negatif Rp0,50 sehingga pemegang saham kini menanggung rugi per lembar bukan untung, dan ekuitas, yang turun tipis karena rugi periode berjalan langsung mengurangi saldo laba perusahaan. Penurunan liabilitas 51,91 persen yang terlihat besar di laporan posisi keuangan bukan sinyal perbaikan kinerja, melainkan konsekuensi pengembalian kelebihan dana lelang agunan debitur senilai Rp3,94 miliar, jadi tidak mencerminkan membaiknya struktur utang usaha. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan periode 2026 yang baru akan terbit awal tahun depan, serta apakah tren penyusutan pendapatan pembiayaan berlanjut pada kuartal keempat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tbla-laba-turun-ke-rp591-miliar-pendapatan-naik-17",
+  "category": "Aksi Korporasi",
+  "title": "TBLA: Laba Turun ke Rp591 Miliar, [Pendapatan] Naik 17%",
+  "deck": "Pendapatan sembilan bulan TBLA naik 17 persen jadi Rp19,18 triliun, tapi laba bersih turun 6 persen akibat beban bunga yang lebih berat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T13:07:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030132216-64798-0/FinancialStatement-2026-III-TBLA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TBLA",
+  "tags": [
+   "TBLA",
+   "Tunas Baru Lampung",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "Tunas Baru Lampung (TBLA) melaporkan pendapatan usaha sembilan bulan pertama 2026 senilai Rp19,18 triliun, naik dari Rp16,38 triliun pada periode yang sama tahun lalu, menurut laporan keuangan interim yang disampaikan ke Bursa Efek Indonesia pada 29 Oktober 2026. Laba kotor ikut naik menjadi Rp3,12 triliun dari Rp2,70 triliun. Namun laba bersih yang bisa diatribusikan kepada pemegang saham induk justru turun menjadi Rp591,39 miliar dari Rp629,55 miliar pada periode yang sama tahun lalu, sehingga laba per saham turun dari Rp104,85 menjadi Rp98,50.",
+   "Penurunan laba bersih terjadi meski penjualan tumbuh, karena beban bunga dan beban keuangan lainnya naik menjadi Rp1,13 triliun dari Rp1,02 triliun. Utang bank jangka pendek perusahaan juga membengkak menjadi Rp9,62 triliun per akhir September 2026, dari Rp8,35 triliun di akhir 2025, sementara utang bank jangka panjang naik menjadi Rp7,79 triliun dari Rp7,58 triliun. Sejalan dengan itu, total aset TBLA naik menjadi Rp32,20 triliun dari Rp30,52 triliun, dan total ekuitas naik menjadi Rp9,48 triliun dari Rp9,25 triliun.",
+   "Dari sisi arus kas, kegiatan operasional TBLA berbalik menghasilkan kas bersih Rp206,84 miliar pada sembilan bulan 2026, dibandingkan kas yang justru terpakai Rp1,99 triliun pada periode yang sama tahun lalu. Perusahaan juga membayar dividen tunai Rp360,24 miliar pada 2026, naik tajam dari Rp72,10 miliar yang dibayarkan pada 2025. Laporan ini tidak diaudit dan ditandatangani oleh Presiden Direktur Widarto serta Direktur Jason Indrian Winata, sesuai surat pernyataan direksi tertanggal 29 Oktober 2026."
+  ],
+  "fotoAdegan": "Palm oil plantation workers loading harvested fruit bunches onto a truck, tropical estate road, early morning haze.",
+  "takeaway": "Laporan ini netral bagi pemegang saham TBLA: pendapatan tumbuh 17 persen dan arus kas operasional membaik tajam dari negatif menjadi positif, tapi laba bersih tergerus kenaikan beban bunga akibat utang bank jangka pendek yang membesar ke Rp9,62 triliun. Beban bunga yang naik ini penting karena langsung memotong laba meski penjualan sedang tumbuh, sementara arus kas operasi, yaitu uang tunai yang benar-benar dihasilkan dari kegiatan bisnis sehari-hari, jadi indikator apakah perusahaan bisa membiayai dirinya sendiri tanpa terus menambah pinjaman. Laba per saham, bagian laba yang jadi hak setiap lembar saham, turun dari Rp104,85 menjadi Rp98,50 mengikuti penurunan laba bersih. Yang perlu dipantau selanjutnya adalah apakah kenaikan utang bank jangka pendek ini bersifat sementara untuk membiayai musim produksi atau akan terus membesar, serta apakah tren arus kas operasi positif ini berlanjut pada laporan kuartal berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tnca-rugi-kuartal-iii-liabilitas-naik-158",
+  "category": "Aksi Korporasi",
+  "title": "TNCA Rugi Kuartal III, Liabilitas Naik [158%]",
+  "deck": "TNCA berbalik rugi Rp81 juta pada sembilan bulan 2026 dan arus kas operasinya negatif, sementara liabilitasnya melonjak 158% setahun karena utang usaha dan utang lain-lain yang membesar tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T13:05:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030131550-65187-0/FinancialStatement-2026-III-TNCA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TNCA",
+  "tags": [
+   "TNCA",
+   "laporan keuangan",
+   "logistik",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Trimuda Nuansa Citra Tbk (TNCA), perusahaan jasa kurir dan logistik yang beroperasi dengan merek dagang Garuda Express Delivery, menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan naik 22 persen menjadi Rp65,21 miliar dari Rp53,36 miliar pada periode yang sama tahun lalu, dan laba bruto naik tipis menjadi Rp12,77 miliar dari Rp11,98 miliar. Namun beban umum dan administrasi melonjak menjadi Rp11,01 miliar dari Rp9,16 miliar, sehingga perusahaan akhirnya mencatat rugi bersih Rp81,27 juta, berbalik dari laba Rp552,35 juta pada sembilan bulan 2025. Rugi ini membuat laba per saham berbalik menjadi rugi Rp0,19 per saham dari laba Rp1,31 per saham.",
+   "Di sisi arus kas, kas yang dihasilkan dari aktivitas operasi justru negatif Rp3,81 miliar, berbalik dari positif Rp593,28 juta tahun sebelumnya, meski penerimaan dari pelanggan naik menjadi Rp57,15 miliar. Perusahaan menambal kebutuhan kasnya dengan penerimaan Rp4,64 miliar dari pihak berelasi pada aktivitas pendanaan. Total aset per 30 September 2026 tercatat Rp60,93 miliar, naik dari Rp53,27 miliar di akhir 2025, sementara ekuitas pemegang saham turun tipis menjadi Rp42,70 miliar dari Rp42,79 miliar karena akumulasi rugi yang membesarkan defisit menjadi Rp6,40 miliar.",
+   "Total liabilitas melonjak menjadi Rp18,22 miliar per akhir September 2026 dari Rp10,49 miliar di akhir 2025, didorong oleh utang usaha pihak ketiga yang naik dari Rp6,87 miliar menjadi Rp12,94 miliar, dan utang lain-lain yang melonjak dari Rp49,97 juta menjadi Rp2,37 miliar. Dalam surat terpisah kepada OJK dan Bursa Efek Indonesia tertanggal 29 Oktober 2026, Presiden Direktur TNCA Rendra Prapantsa menjelaskan perubahan liabilitas lebih dari 20 persen sesuai aturan Bursa. Dibandingkan posisi 30 September 2025, total liabilitas naik 158 persen dari Rp7,06 miliar menjadi Rp18,22 miliar, antara lain karena utang usaha pihak ketiga naik 215 persen, utang lain-lain naik 2.281 persen, utang pajak naik 113 persen, dan liabilitas imbalan kerja karyawan naik 38 persen, sementara utang sewa jangka pendek turun 55 persen dan utang pembiayaan jangka panjang turun 37 persen."
+  ],
+  "fotoAdegan": "Courier workers sorting packages at a logistics warehouse conveyor belt, delivery vans loading outside in soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi TNCA karena posisi keuangannya memburuk di hampir semua lini, dari laba yang berbalik jadi rugi, arus kas operasi yang negatif, sampai liabilitas yang melonjak 158 persen dalam setahun. Yang tersentuh adalah arus kas dari aktivitas operasi, yakni uang tunai yang benar-benar masuk dari bisnis inti perusahaan sebelum dihitung utang piutang, karena angka ini negatif Rp3,81 miliar berarti operasional sehari-hari belum menghasilkan kas dan perusahaan sempat mengandalkan suntikan dana dari pihak berelasi. Laba per saham, yaitu bagian laba atau rugi yang jadi hak setiap lembar saham publik, juga ikut berbalik jadi rugi sehingga nilai fundamental per lembar saham turun dibanding tahun lalu. Ekuitas pemegang saham pun tergerus tipis karena rugi tahun berjalan langsung menambah defisit perusahaan. Yang perlu dipantau berikutnya adalah apakah lonjakan utang usaha dan utang lain-lain ini mereda pada laporan keuangan tahunan audit 2026 yang biasanya terbit sekitar akhir Maret atau April 2027, karena itu akan menentukan apakah tekanan likuiditas ini sementara atau berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pudp-cetak-rugi-rp7-2-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "PUDP Cetak [Rugi] Rp7,2 Miliar di Sembilan Bulan 2026",
+  "deck": "Pudjiadi Prestige (PUDP) berbalik rugi Rp7,2 miliar pada sembilan bulan 2026, dari laba Rp1,6 miliar setahun sebelumnya, seiring kas tergerus pembiayaan proyek baru di Lebak Bulus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T13:05:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030131332-64861-0/FinancialStatement-2026-III-PUDP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PUDP",
+  "tags": [
+   "PUDP",
+   "properti",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "Pudjiadi Prestige Tbk (PUDP) menyampaikan laporan keuangan interim konsolidasian periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit, kepada Bursa Efek Indonesia pada 27 Oktober 2026, ditandatangani Direktur Utama Damian Pudjiadi dan Direktur Toto Sasetyo Dwi Budi Listyanto. Dalam periode ini, Perseroan mencatat rugi bersih Rp7,21 miliar, berbalik dari laba bersih Rp1,60 miliar pada periode yang sama tahun 2025. Rugi per saham dasar tercatat Rp10,94, dibanding laba Rp2,43 per saham setahun sebelumnya, dengan jumlah saham beredar tetap 659.120.000 lembar. Pendapatan perusahaan sebenarnya naik menjadi Rp29,46 miliar dari Rp27,06 miliar, dan laba kotor ikut naik menjadi Rp18,88 miliar dari Rp16,31 miliar, namun kenaikan itu tidak cukup menutup beban-beban lain yang membuat Perseroan akhirnya mencatat rugi bersih.",
+   "Kas dan setara kas Perseroan turun 64 persen menjadi Rp2,46 miliar per akhir September 2026, dari Rp6,88 miliar di akhir 2025. Dalam laporan ke BEI, manajemen menjelaskan penurunan itu terjadi karena dana digunakan untuk membiayai proyek baru, Solea di Lebak Bulus. Untuk mendanai proyek yang sama, Perseroan juga menambah utang bank jangka pendek sebesar 45 persen menjadi Rp25,08 miliar dari Rp17,34 miliar, yang menurut perusahaan dipakai untuk memulai proyek lewat fasilitas kredit lokal. Akibatnya, total liabilitas jangka pendek naik 18 persen menjadi Rp36,69 miliar dan total liabilitas keseluruhan naik 16 persen menjadi Rp40,57 miliar, sementara total aset relatif stabil di Rp543,96 miliar.",
+   "Ekuitas Perseroan menyusut menjadi Rp503,40 miliar dari Rp511,26 miliar, terutama akibat rugi bersih sembilan bulan ini dan pembagian dividen tunai Rp659,12 juta atau setara Rp1 per saham. Uang muka penjualan pelanggan turun tajam 90 persen menjadi Rp179,97 juta dari Rp1,88 miliar, yang menurut perusahaan terjadi karena pada 2026 Perseroan sudah mengakui penjualan sejumlah unit sebagai pendapatan. Sementara itu, penyisihan penggantian perabotan dan peralatan hotel naik 40 persen menjadi Rp206,63 juta, sejalan dengan naiknya pendapatan dari operasional hotel milik Perseroan."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete at a mid-rise apartment building site in a Jakarta suburb, crane in hazy afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi PUDP karena kinerja sembilan bulan 2026 berbalik dari laba menjadi rugi bersih Rp7,21 miliar, sementara kas perusahaan ikut terkikis signifikan. Yang tersentuh adalah laba per saham, yaitu porsi keuntungan atau kerugian yang jadi hak setiap lembar saham, kini negatif Rp10,94 dari sebelumnya positif Rp2,43, serta arus kas karena kas tunai perusahaan turun 64 persen akibat dipakai mendanai proyek baru Solea Lebak Bulus, dan beban utang karena Perseroan menambah pinjaman bank jangka pendek 45 persen untuk membiayai proyek yang sama sehingga beban bunga ke depan berpotensi membesar. Sisi baiknya, pendapatan dan laba kotor perusahaan sebenarnya masih tumbuh, jadi rugi ini lebih mencerminkan beban di luar operasi inti ketimbang bisnis yang mengecil. Yang perlu dipantau selanjutnya adalah kelanjutan pembangunan proyek Solea Lebak Bulus dan apakah rugi ini masih berlanjut di laporan keuangan tahunan 2026 yang akan diaudit, yang biasanya disampaikan sekitar akhir Maret 2027.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "unvr-rencanakan-audit-lk-interim-kuartal-iii-sebut-strategis",
   "category": "Aksi Korporasi",
   "title": "UNVR Rencanakan Audit LK Interim Kuartal III, Sebut [Strategis]",
@@ -262,6 +366,137 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Construction workers on scaffolding at a mixed-use residential tower construction site in Jakarta, cranes overhead, late afternoon light.",
   "takeaway": "Laporan ini condong positif bagi Duta Pertiwi, karena pertumbuhan pendapatan dan laba bersihnya jauh melampaui kenaikan skala operasional biasa, sekaligus terjadi di tengah perusahaan tetap mengembalikan kas besar ke pemegang saham lewat dividen. Penurunan ekuitas dan kas yang terlihat di laporan ini bukan sinyal perusahaan memburuk, melainkan konsekuensi dari pembayaran dividen besar tersebut, sementara laba per saham, yaitu bagian laba bersih yang menjadi hak setiap lembar saham yang dipegang investor, justru naik lebih dari dua kali lipat dan menunjukkan kinerja inti perusahaan sedang menguat. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, karena angka pada laporan interim ini masih belum diaudit dan berpotensi direvisi, serta tren uang muka pembeli properti yang melonjak tajam, yang akan menentukan seberapa besar pendapatan baru bisa benar-benar direalisasikan pada kuartal-kuartal berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "fmii-rugi-rp1-86-miliar-penjualan-anjlok-68-di-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "FMII Rugi Rp1,86 Miliar, [Penjualan] Anjlok 68% di 9 Bulan 2026",
+  "deck": "Fortune Mate Indonesia (FMII) berbalik rugi Rp1,86 miliar pada sembilan bulan 2026 dari laba Rp15,4 miliar setahun sebelumnya, seiring penjualan yang turun hampir 68 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:06:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121507-64934-0/FinancialStatement-2026-III-FMII.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FMII",
+  "tags": [
+   "FMII",
+   "properti",
+   "laporan keuangan",
+   "rugi"
+  ],
+  "body": [
+   "Fortune Mate Indonesia Tbk (FMII) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pada periode tersebut, perusahaan properti ini mencatat penjualan bersih Rp10,30 miliar, turun 68 persen dibandingkan Rp32,03 miliar pada periode yang sama tahun 2025. Setelah dikurangi beban pokok penjualan, laba kotor perusahaan juga anjlok dari Rp24,36 miliar menjadi Rp4,41 miliar.",
+   "Penurunan pendapatan ini membuat FMII membukukan rugi tahun berjalan Rp1,86 miliar pada sembilan bulan 2026, berbalik dari laba Rp15,40 miliar pada periode yang sama tahun sebelumnya. Rugi tersebut membuat rugi per saham dasar tercatat negatif Rp0,29, dibandingkan laba per saham Rp2,41 pada tahun lalu. Akibatnya, jumlah ekuitas perusahaan turun dari Rp694,74 miliar pada akhir 2025 menjadi Rp692,87 miliar pada akhir September 2026. Di sisi lain, total aset dan total liabilitas kompak menyusut tipis, masing-masing menjadi Rp756,14 miliar dan Rp63,27 miliar, sementara kas dan setara kas perusahaan turun dari Rp1,59 miliar menjadi Rp1,49 miliar.",
+   "Laporan ini juga memuat data dua entitas anak FMII. PT Indosuryo Wahyupahala yang bergerak di pembangunan real estat di Sidoarjo memiliki total aset Rp26,16 miliar dengan kepemilikan FMII sebesar 99,99 persen, sementara PT Multi Bangun Sarana di Surabaya memiliki total aset Rp202,66 miliar dengan kepemilikan FMII sebesar 99,85 persen. Pernyataan tanggung jawab direksi atas laporan keuangan ini ditandatangani di Surabaya pada 30 Oktober 2026 oleh Direktur Utama Tjandra Mindharta Gozali dan Direktur Yongki Tedja, yang menyatakan laporan telah disusun sesuai Standar Akuntansi Keuangan Indonesia dan tidak mengandung informasi material yang menyesatkan."
+  ],
+  "fotoAdegan": "Unfinished residential housing units under construction in a suburban East Java development, workers and scaffolding, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental FMII, karena kinerja berbalik dari laba menjadi rugi pada periode yang sama dan penjualan anjlok hingga 68 persen. Perubahan ini langsung terlihat pada laba per saham, yaitu laba yang menjadi hak setiap lembar saham, yang berubah dari positif Rp2,41 menjadi negatif Rp0,29, serta pada ekuitas, yakni kekayaan bersih perusahaan setelah dikurangi utang, yang tergerus karena harus menyerap rugi tersebut. Arus kas dari aktivitas operasi memang masih positif, menandakan kas yang masuk dari pelanggan masih lebih besar dari yang dikeluarkan untuk operasional, namun penjualan yang menyusut tajam tetap jadi sinyal pelemahan bisnis. Perlu dicermati apakah penurunan ini sementara, mengingat pendapatan proyek properti memang sering tidak rata antarkuartal karena bergantung pada jadwal serah terima unit, atau justru berlanjut pada laporan kuartal IV 2026 yang akan disampaikan awal tahun depan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bsde-laba-bersih-turun-38-ke-rp844-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "BSDE: Laba Bersih [Turun] 38% ke Rp844 Miliar di Kuartal III",
+  "deck": "Laba bersih BSDE anjlok 38 persen menjadi Rp844,7 miliar pada sembilan bulan pertama 2026, seiring pendapatan yang turun dan beban bunga yang membengkak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:04:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121720-64522-0/FinancialStatement-2026-III-BSDE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSDE",
+  "tags": [
+   "BSDE",
+   "laporan keuangan",
+   "properti",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Bumi Serpong Damai Tbk (BSDE) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan usaha perseroan tercatat Rp7,54 triliun, turun 14 persen dari Rp8,76 triliun pada periode yang sama tahun lalu. Laba kotor ikut turun dari Rp5,55 triliun menjadi Rp5,02 triliun, dan laba usaha tergerus dari Rp2,13 triliun menjadi Rp1,71 triliun.",
+   "Laba bersih yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp844,7 miliar, turun 38 persen dibandingkan Rp1,36 triliun pada periode yang sama tahun 2025. Akibatnya, laba per saham dasar turun dari Rp65,20 menjadi Rp40,39. Penurunan laba ini sejalan dengan naiknya beban bunga dan biaya keuangan lain dari Rp1,14 triliun menjadi Rp1,29 triliun, atau naik sekitar 13,7 persen.",
+   "Dari sisi posisi keuangan, jumlah aset BSDE naik 2,75 persen menjadi Rp81,45 triliun per 30 September 2026 dari Rp79,27 triliun di akhir 2025, didorong kenaikan nilai aset real estat tidak lancar dan tanah yang belum dikembangkan. Namun kas dan setara kas perusahaan menyusut tajam dari Rp10,28 triliun menjadi Rp6,91 triliun. Di sisi lain, utang bank jangka panjang justru naik dari Rp11,32 triliun menjadi Rp13,38 triliun, sehingga jumlah liabilitas naik 5,95 persen menjadi Rp28,18 triliun. Jumlah ekuitas, termasuk kepentingan nonpengendali, naik tipis menjadi Rp53,26 triliun dari Rp52,67 triliun. Laporan ini juga mencantumkan dua anak usaha utama, yaitu PT Duta Pertiwi Tbk dengan kepemilikan 92,38 persen dan aset Rp16,85 triliun, serta PT Suryamas Dutamakmur Tbk dengan kepemilikan 98,97 persen dan aset Rp3,69 triliun. Dokumen ditandatangani Direktur Hermawan Wijaya dan disampaikan ke OJK serta Bursa Efek Indonesia pada 30 Oktober 2026."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a large suburban housing development, unfinished rooftops and cranes nearby, soft afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi BSDE, karena laba bersihnya susut 38 persen justru ketika utang bank jangka panjangnya naik 18 persen dalam sembilan bulan. Pos yang paling kena dampak adalah laba per saham, turun dari Rp65,20 menjadi Rp40,39, artinya setiap lembar saham kini menghasilkan keuntungan jauh lebih kecil bagi pemegangnya. Kas perusahaan juga menipis tajam dari Rp10,28 triliun menjadi Rp6,91 triliun, sementara beban bunga yang harus dibayar naik ke Rp1,29 triliun, kombinasi yang mempersempit ruang gerak keuangan perseroan meski jumlah aset dan ekuitasnya masih tumbuh. Yang perlu dipantau berikutnya adalah kemampuan BSDE melunasi obligasi dan sukuk senilai sekitar Rp388,6 miliar yang jatuh tempo dalam setahun ke depan, serta apakah tren penurunan laba ini masih berlanjut saat laporan tahunan auditan untuk tahun buku 2026 terbit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dyan-laba-bersih-pemegang-saham-turun-23-jadi-rp38-9-miliar",
+  "category": "Aksi Korporasi",
+  "title": "DYAN: Laba Bersih Pemegang Saham [Turun] 23% jadi Rp38,9 Miliar",
+  "deck": "Laba Dyandra Media naik tipis jadi Rp39,51 miliar pada sembilan bulan 2026, tapi laba untuk pemegang saham utama turun karena untung pelepasan anak usaha di 2025 tak terulang tahun ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T12:00:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121330-65326-0/FinancialStatement-2026-III-DYAN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DYAN",
+  "tags": [
+   "DYAN",
+   "Dyandra Media",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Dyandra Media International Tbk (DYAN) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani oleh Direktur Utama Daswar Marpaung dan Direktur Riyanthi Handayani pada 30 Oktober 2026. Pendapatan neto perusahaan naik 2,8 persen menjadi Rp974,05 miliar, dari Rp947,75 miliar pada periode yang sama tahun sebelumnya. Laba operasi, yaitu laba dari bisnis inti sebelum dipengaruhi pos-pos di luar usaha, naik lebih tinggi lagi sebesar 15,1 persen menjadi Rp63,71 miliar.",
+   "Laba tahun berjalan secara total naik tipis 4,5 persen menjadi Rp39,51 miliar. Namun bagian yang menjadi hak pemegang saham utama perusahaan justru turun 23,1 persen, dari Rp50,64 miliar menjadi Rp38,92 miliar, sehingga laba per saham ikut turun dari Rp11,85 menjadi Rp9,11. Penyebabnya adalah pembanding tahun lalu yang mencakup dua pos tidak rutin, untung pelepasan anak usaha sebesar Rp15,27 miliar dan penurunan nilai goodwill sebesar Rp20 miliar, yang tidak terulang pada periode berjalan tahun ini sehingga membuat bagian laba kepentingan nonpengendali berbalik dari rugi Rp12,82 miliar menjadi untung Rp590,9 juta.",
+   "Dari sisi arus kas, kas neto dari aktivitas operasi melonjak dari Rp37,67 miliar menjadi Rp112,37 miliar, menandakan bisnis menghasilkan uang tunai yang lebih besar dari kegiatan usaha sehari-hari. Posisi kas dan setara kas naik menjadi Rp280,80 miliar dari Rp247,83 miliar, sementara utang bank jangka pendek turun dari Rp100,29 miliar menjadi Rp78,67 miliar. Total ekuitas bertambah menjadi Rp764,48 miliar dari Rp723,28 miliar, dan saldo laba yang belum dicadangkan berbalik dari defisit Rp14,43 miliar pada akhir 2025 menjadi positif Rp26,30 miliar pada akhir September 2026. Total aset perusahaan tercatat Rp1,32 triliun, naik dari Rp1,26 triliun, dengan kontribusi utama dari empat anak usaha: PT Nusa Dua Indonesia (konvensi dan eksibisi), PT Dyandra Promosindo (event organizer), PT Dyamall Graha Utama (penunjang acara), dan PT Graha Multi Utama (hotel), yang masing-masing dimiliki DYAN dengan kepemilikan di atas 99,5 persen."
+  ],
+  "fotoAdegan": "Technicians assembling stage trusses and lighting rigs inside a large empty convention hall before a trade exhibition opens",
+  "takeaway": "Laporan ini condong positif bagi Dyandra Media karena perbaikan di pendapatan, laba operasi, dan terutama arus kas terjadi di level bisnis inti, sementara penurunan laba per saham lebih disebabkan pembanding tahun lalu yang terdongkrak untung sekali waktu dari penjualan anak usaha. Yang perlu dicermati adalah arus kas dari aktivitas operasi, yakni uang tunai riil yang masuk dari penjualan tiket dan jasa event, karena pos ini yang paling jujur menggambarkan kesehatan bisnis dibanding laba akuntansi yang bisa terpengaruh pos nonrutin. Saldo laba yang belum dicadangkan, yaitu akumulasi keuntungan perusahaan yang belum dibagikan sebagai dividen, juga berbalik dari defisit menjadi positif, yang berarti kerugian masa lalu perusahaan sudah tertutup oleh laba tahun-tahun berikutnya. Yang perlu dipantau selanjutnya adalah apakah tren arus kas dan penutupan defisit ini berlanjut di laporan keuangan tahunan auditan 2026 yang wajib disampaikan ke OJK dan BEI, serta apakah perbaikan ekuitas ini akhirnya membuka jalan bagi pembagian dividen ke pemegang saham publik.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "toba-cetak-rugi-us-35-4-juta-menyempit-dari-tahun-lalu",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Cetak Rugi US$35,4 Juta, [Menyempit] dari Tahun Lalu",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan rugi bersih TOBA menyempit ke US$35,4 juta, tapi penyebabnya hilangnya rugi pelepasan anak usaha tahun lalu, bukan perbaikan bisnis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T11:50:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030120111-65066-0/FinancialStatement-2026-III-TOBA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "TBS Energi Utama",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perusahaan mencatat rugi bersih US$35,4 juta, menyempit dari US$127,9 juta pada periode yang sama tahun lalu. Rugi yang dapat diatribusikan kepada pemilik entitas induk juga turun menjadi US$40,1 juta dari US$127,4 juta. Pendapatan perusahaan justru turun menjadi US$257,3 juta dari US$288,2 juta, tetapi beban pokok pendapatan turun lebih dalam sehingga laba bruto naik lebih dari dua kali lipat, dari US$22 juta menjadi US$45,2 juta.",
+   "Penyebab utama menyempitnya rugi bukan perbaikan operasional, melainkan hilangnya pos rugi atas divestasi anak usaha senilai US$96,9 juta yang membebani laporan tahun lalu dan tidak terulang tahun ini. Di sisi lain, beban keuangan justru naik menjadi US$34,7 juta dari US$23,1 juta, seiring utang bank jangka panjang yang membesar dari US$209,9 juta menjadi US$275,6 juta dan utang obligasi serta sukuk jangka panjang yang naik dari US$58,1 juta menjadi US$96,8 juta. Sebaliknya, liabilitas jangka pendek turun tajam dari US$165,6 juta menjadi US$93,9 juta, karena bagian utang obligasi dan sukuk yang jatuh tempo dalam satu tahun turun dari US$27,5 juta menjadi nol dan bagian utang bank jangka pendek turun dari US$22,6 juta menjadi US$3,2 juta, menandakan perusahaan menggeser sebagian utangnya ke tenor yang lebih panjang.",
+   "Ekuitas perusahaan turun menjadi US$172 juta pada akhir September 2026 dari US$215,3 juta pada akhir Desember 2025, tergerus oleh rugi periode berjalan. Total aset juga turun menjadi US$751,7 juta dari US$793,1 juta. Jumlah saham beredar naik sedikit menjadi 8.319.512.975 saham dari 8.257.402.931 saham akibat eksekusi program kompensasi berbasis saham bagi karyawan. Rugi per saham dasar menyempit menjadi US$0,0048 dari US$0,0154."
+  ],
+  "fotoAdegan": "Aerial view of a wide open-pit coal mine with haul trucks moving along terraced slopes under hazy daylight in Kalimantan",
+  "takeaway": "Laporan ini netral bagi TOBA. Rugi bersihnya memang menyempit tajam, tapi itu terutama karena hilangnya rugi pelepasan anak usaha senilai US$96,9 juta yang membebani tahun lalu dan tidak terulang, bukan tanda perbaikan bisnis yang nyata. Yang ikut tersentuh adalah ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi semua utang, yang menyusut jadi US$172 juta dari US$215,3 juta, serta beban bunga yang naik ke US$34,7 juta karena utang jangka panjang membesar, dan pelaku pasar memperhatikan ini karena bantalan modal yang menipis dibarengi beban utang yang makin berat biasanya membuat ruang gerak perusahaan lebih sempit. Yang perlu dipantau berikutnya adalah apakah kenaikan laba bruto ini bertahan di laporan kuartal IV dan laporan tahunan auditan 2026, serta bagaimana perusahaan mengelola jatuh tempo utang jangka panjang barunya setelah menggeser porsi utang jangka pendek ke tenor yang lebih panjang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aces-catat-laba-bersih-naik-28-jadi-rp612-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ACES Catat [Laba] Bersih Naik 28% Jadi Rp612 Miliar",
+  "deck": "Laba bersih ACES melonjak 28,5 persen ke Rp612,4 miliar pada kuartal III 2026, tapi arus kas dari aktivitas operasi justru anjlok 81,3 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T11:39:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030115227-64515-0/FinancialStatement-2026-III-ACES.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ACES",
+  "tags": [
+   "ACES",
+   "laporan keuangan",
+   "ritel",
+   "Kawan Lama Group"
+  ],
+  "body": [
+   "PT Aspirasi Hidup Indonesia Tbk (ACES) melaporkan penjualan bersih Rp6,86 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 8,3 persen dari Rp6,33 triliun pada periode yang sama tahun sebelumnya. Laba kotor naik menjadi Rp3,28 triliun dan laba usaha melonjak 25,2 persen menjadi Rp798,2 miliar. Laba periode berjalan tercatat Rp612,4 miliar, naik 28,5 persen dari Rp476,7 miliar, sementara laba per saham dasar naik dari Rp28,03 menjadi Rp35,23 per saham.",
+   "Di sisi neraca, kas dan setara kas ACES turun tajam dari Rp2,31 triliun pada akhir 2025 menjadi Rp625,8 miliar pada akhir September 2026. Sebagian dana itu dipindahkan menjadi investasi jangka pendek senilai Rp713,2 miliar yang sebelumnya tidak ada, sehingga kas ditambah investasi jangka pendek sebenarnya hanya turun menjadi Rp1,34 triliun. Total liabilitas perusahaan berkurang 9,3 persen menjadi Rp1,75 triliun, sementara total ekuitas naik tipis 1,1 persen menjadi Rp6,67 triliun, setelah perusahaan membayar dividen tunai Rp548 miliar pada periode ini, lebih rendah dibanding Rp579,9 miliar yang dibagikan pada periode sama tahun sebelumnya.",
+   "Yang mencolok ada di laporan arus kas. Arus kas bersih dari aktivitas operasi anjlok 81,3 persen menjadi hanya Rp186,7 miliar dari Rp997 miliar pada periode sama tahun lalu. Penyebabnya, pembayaran kepada pemasok dan pihak lain melonjak dari Rp4,6 triliun menjadi Rp6,27 triliun, jauh lebih besar kenaikannya dibanding penerimaan dari pelanggan yang hanya naik dari Rp7,25 triliun menjadi Rp8,09 triliun. Pada aktivitas investasi, perusahaan menempatkan dana bersih Rp713,2 miliar ke investasi jangka pendek dan membelanjakan Rp144,8 miliar untuk aset tetap, sementara pada aktivitas pendanaan perusahaan membayar dividen tunai Rp548 miliar dan liabilitas sewa Rp478,3 miliar.",
+   "Hingga akhir September 2026, ACES mengoperasikan 281 gerai ritel yang tersebar di Jawa, Bali, Nusa Tenggara, Sumatera, Kalimantan, Sulawesi, Maluku, dan Papua. Perusahaan yang merupakan bagian dari Kawan Lama Group ini memegang 60 persen saham PT Toys Games Indonesia dan 99,99 persen saham PT Krisna Aspirasi Sejahtera, serta 30 persen di PT Omni Digitama Internusa sebagai entitas asosiasi."
+  ],
+  "fotoAdegan": "Wide aisle in a home improvement retail store lined with tool and hardware shelves, a shopper pushing a cart, bright indoor lighting",
+  "takeaway": "Laporan ini condong positif bagi ACES karena laba bersih sembilan bulan naik 28,5 persen dan laba per saham naik dari Rp28,03 menjadi Rp35,23, sementara total utang justru menyusut 9,3 persen. Namun ada catatan penting di arus kas operasi, yaitu uang tunai yang benar-benar masuk dari penjualan sehari-hari setelah dikurangi pembayaran ke pemasok dan karyawan, pos ini anjlok 81,3 persen menjadi hanya Rp186,7 miliar meski laba akuntansi naik, karena pembayaran ke pemasok melonjak lebih cepat dari penerimaan dari pelanggan. Pelaku pasar mencermati arus kas operasi karena pos inilah yang menunjukkan apakah laba di atas kertas benar-benar berubah jadi uang tunai yang bisa dipakai membayar dividen atau melunasi liabilitas, bukan sekadar angka akuntansi. Yang perlu dipantau berikutnya adalah apakah arus kas operasi ACES pulih di laporan kuartal IV atau laporan tahunan auditan untuk tahun buku 2026, karena laporan kali ini belum diaudit dan baru laporan tahunan nanti yang akan memastikan apakah penurunan ini sementara atau mulai menjadi tren.",
   "sentimen": "positif"
  },
  {

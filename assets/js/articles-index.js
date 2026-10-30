@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "amor-catat-laba-naik-17-di-fy2025-26-dividen-tumbuh-10",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Catat [Laba] Naik 17% di FY2025/26, Dividen Tumbuh 10%",
+  "deck": "Ashmore Asset Management Indonesia (AMOR) merilis materi public expose tahunan: AuM naik 35% jadi Rp32,4 triliun, laba bersih tumbuh 17%, dan dividen Rp79 miliar.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMOR",
+   "Ashmore Asset Management Indonesia",
+   "Public Expose",
+   "Reksa Dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/82c50b84c1_f8a2b3c33a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tbig-rencanakan-buyback-saham-senilai-rp106-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TBIG Rencanakan [Buyback] Saham Senilai Rp106 Miliar",
+  "deck": "Tower Bersama Infrastructure akan membeli kembali maksimal 52,8 juta saham atau 0,23% modal disetor dengan dana hingga Rp106 miliar, mengacu aturan OJK soal pasar berfluktuasi signifikan.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TBIG",
+   "buyback saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/abee16b9bb_f12a2e6e83.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gzco-laba-bersih-melonjak-94-jadi-rp80-1-miliar-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "GZCO: Laba Bersih [Melonjak] 94% Jadi Rp80,1 Miliar di 9M 2026",
+  "deck": "Laba bersih Gozco Plantations naik dari Rp41,4 miliar menjadi Rp80,1 miliar pada sembilan bulan pertama 2026, sementara penjualan justru sedikit turun.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GZCO",
+   "laporan keuangan",
+   "laba bersih",
+   "perkebunan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160304-65073-0/FinancialStatement-2026-III-GZCO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-cetak-laba-rp3-93-m-di-kuartal-iii-utang-bank-naik-tajam",
+  "category": "Aksi Korporasi",
+  "title": "DEWI Cetak [Laba] Rp3,93 M di Kuartal III, Utang Bank Naik Tajam",
+  "deck": "Laporan keuangan kuartal III 2026 DEWI menunjukkan penjualan dan laba bersih tumbuh sekitar 20 persen, tetapi utang bank jangka pendek melonjak lima kali lipat dan kas menyusut hampir 40 persen.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "laporan keuangan",
+   "laba bersih",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030155228-65589-0/FinancialStatement-2026-III-DEWI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "klbf-laba-9-bulan-naik-jadi-rp2-84-triliun",
+  "category": "Aksi Korporasi",
+  "title": "KLBF: [Laba] 9 Bulan Naik Jadi Rp2,84 Triliun",
+  "deck": "Penjualan Kalbe Farma naik ke Rp28,97 triliun dan laba bersih ke Rp2,74 triliun dalam sembilan bulan 2026, arus kas operasi ikut menguat.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KLBF",
+   "laporan keuangan",
+   "farmasi",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160050-65581-0/FinancialStatement-2026-III-KLBF.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wmuu-rugi-berkurang-jadi-rp17-08-miliar-usai-restrukturisasi-pkpu",
+  "category": "Aksi Korporasi",
+  "title": "WMUU Rugi Berkurang Jadi Rp17,08 Miliar usai Restrukturisasi [PKPU]",
+  "deck": "Liabilitas WMUU turun 20,24 persen jadi Rp1,24 triliun lewat restrukturisasi utang PKPU, sementara rugi bersih sembilan bulan menyusut ke Rp17,08 miliar dari Rp69,57 miliar sebelumnya.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WMUU",
+   "PKPU",
+   "restrukturisasi utang",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160025-65268-0/FinancialStatement-2026-III-WMUU.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "yelo-catat-rugi-rp643-juta-di-kuartal-iii-pendapatan-turun-41",
+  "category": "Aksi Korporasi",
+  "title": "YELO Catat [Rugi] Rp643 Juta di Kuartal III, Pendapatan Turun 41%",
+  "deck": "Laporan keuangan interim sembilan bulan 2026 menunjukkan pendapatan YELO turun 41 persen jadi Rp31,7 miliar, sementara rugi bersih melebar tiga kali lipat menjadi Rp643,2 juta.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YELO",
+   "laporan keuangan",
+   "rugi bersih",
+   "pendapatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030155445-64801-0/FinancialStatement-2026-III-YELO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "data-catat-laba-bersih-naik-42-ekspansi-didanai-utang",
+  "category": "Aksi Korporasi",
+  "title": "DATA Catat Laba Bersih Naik 42%, Ekspansi Didanai [Utang]",
+  "deck": "Laba bersih PT Remala Abadi Tbk (DATA) naik 41,7 persen pada sembilan bulan pertama 2026, namun ekspansi jaringan fiber optik banyak dibiayai utang bank baru.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DATA",
+   "Remala Abadi",
+   "laporan keuangan",
+   "telekomunikasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160020-65506-0/FinancialStatement-2026-III-DATA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kija-laba-turun-78-obligasi-rp3-1-triliun-dilunasi",
+  "category": "Aksi Korporasi",
+  "title": "KIJA: Laba Turun 78%, [Obligasi] Rp3,1 Triliun Dilunasi",
+  "deck": "Laba bersih KIJA kuartal III 2026 turun 78 persen jadi Rp60,45 miliar meski pendapatan naik, obligasi Rp3,1 triliun dilunasi dan diganti pinjaman bank.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KIJA",
+   "laporan keuangan",
+   "properti",
+   "kawasan industri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030155735-64852-0/FinancialStatement-2026-III-KIJA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kios-catat-kas-menipis-jadi-rp81-juta-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "KIOS Catat Kas [Menipis] jadi Rp81 Juta di Kuartal III 2026",
+  "deck": "Pendapatan Kioson Komersial susut lebih dari separuh dalam sembilan bulan 2026, sementara kas perusahaan tergerus hingga tersisa Rp81,1 juta.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KIOS",
+   "Kioson Komersial",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030154219-64736-0/FinancialStatement-2026-III-KIOS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penyaluran-kredit-program-tembus-rp294-6-triliun",
   "category": "UMKM",
   "title": "Penyaluran Kredit Program Tembus [Rp294,6] Triliun",
@@ -6316,166 +6476,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5420d68012_2245af1070.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "icbp-siapkan-buyback-rp750-miliar-di-tengah-pasar-bergejolak",
-  "category": "Aksi Korporasi",
-  "title": "ICBP Siapkan Buyback [Rp750 Miliar] di Tengah Pasar Bergejolak",
-  "deck": "Indofood CBP Sukses Makmur menyiapkan pembelian kembali saham senilai maksimal Rp750 miliar dari kas internal, berlaku 26 Oktober hingga 31 Desember 2026 sesuai aturan OJK soal pasar bergejolak.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ICBP",
-   "buyback saham",
-   "Indofood CBP",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7d6a58566b_f3263030cc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-hak-suara-maybank-sekuritas-terdilusi-ke-6-95",
-  "category": "Aksi Korporasi",
-  "title": "ENRG: Hak Suara Maybank Sekuritas [Terdilusi] ke 6,95%",
-  "deck": "Maybank Sekuritas Indonesia melapor hak suaranya di ENRG turun dari 7,01% menjadi 6,95% meski jumlah saham yang dipegang tidak berubah, akibat dilusi dari pelaksanaan rights issue emiten.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "kepemilikan saham",
-   "rights issue",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-0701-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekonomi-digital-ri-tembus-us-100-miliar-terbesar-di-asia-tenggara",
-  "category": "Teknologi",
-  "title": "Ekonomi Digital RI Tembus [US$100] Miliar, Terbesar di Asia Tenggara",
-  "deck": "Ekonomi digital Indonesia disebut mendekati US$100 miliar dan tumbuh 14 persen, seiring pemerintah menyiapkan infrastruktur pusat data dan energi hingga 2030.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/server-data.jpg",
-  "tags": [
-   "ekonomi digital",
-   "KEK",
-   "pusat data",
-   "media lokal"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7180/perkuat-pertumbuhan-ekonomi-digital-pemerintah-dorong-media-lokal-jadi-penggerak-ekonomi-daerah",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "bi-perkuat-sinergi-jaga-inflasi-pangan-di-sulampua",
-  "category": "Makroekonomi",
-  "title": "BI Perkuat Sinergi Jaga [Inflasi] Pangan di Sulampua",
-  "deck": "Bank Indonesia bersama pemerintah pusat dan daerah menggelar forum pengendalian inflasi pangan di Sulawesi, Maluku, dan Papua, menyasar inflasi pangan bergejolak di kisaran 3-5 persen.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
-  "tags": [
-   "Inflasi Pangan",
-   "Bank Indonesia",
-   "Sulampua",
-   "Ketahanan Pangan"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823626.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "doid-ekuitas-buma-anjlok-94-89-persen-ke-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "DOID: Ekuitas BUMA [Anjlok] 94,89 Persen ke Semester I 2026",
-  "deck": "BUMA Internasional Grup menjawab permintaan penjelasan BEI soal ekuitas yang susut tajam, rasio utang anak usaha BOLD yang melampaui batas, dan piutang ke BOLD senilai USD95,5 juta.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOID",
-   "ekuitas",
-   "covenant utang",
-   "BUMA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f64dc16ddc_01ca04bac2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-jual-100-000-saham-senilai-rp42-2-juta",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi [Jual] 100.000 Saham Senilai Rp42,2 Juta",
-  "deck": "Doni Mora, direksi ITSEC Asia, melepas 100.000 saham CYBR secara tidak langsung pada 22 Oktober 2026 dengan harga Rp422 per saham.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-2953-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-patrick-dannacher-beli-1-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi Patrick Dannacher [Beli] 1 Juta Saham",
-  "deck": "Direksi ITSEC Asia, Patrick Rudolf Dannacher, membeli 1.000.300 saham CYBR senilai sekitar Rp406 juta secara tidak langsung pada 20-22 Oktober 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "kepemilikan saham",
-   "direksi",
-   "ITSEC Asia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23102026-6436-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buka-bukukan-rugi-rp881-miliar-di-sembilan-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "BUKA bukukan [rugi] Rp881 miliar di sembilan bulan 2026",
-  "deck": "Pendapatan BUKA tumbuh 19 persen pada Januari-September 2026, tetapi perseroan berbalik rugi Rp881 miliar akibat rugi investasi Rp2,04 triliun.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUKA",
-   "Bukalapak",
-   "laporan keuangan",
-   "rugi investasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261023110320-64761-0/FinancialStatement-2026-III-BUKA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uvcr-revisi-rencana-terbitkan-200-juta-saham-baru-picu-dilusi",
-  "category": "Aksi Korporasi",
-  "title": "UVCR Revisi Rencana Terbitkan 200 Juta Saham Baru, Picu [Dilusi]",
-  "deck": "UVCR mengoreksi keterbukaan informasi PMTHMETD: rencana terbitkan hingga 200 juta saham baru (9,99%) ke calon investor PT Trimegah Sumber Mas, RUPSLB digelar 27 Oktober 2026.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "PMTHMETD",
-   "Ultra Voucher",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1198e2168b_0556f39d07.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uvcr-jelaskan-rincian-dana-pmthmetd-rp27-miliar-di-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "UVCR Jelaskan Rincian Dana [PMTHMETD] Rp27 Miliar di RUPSLB",
-  "deck": "RUPSLB UVCR pada 27 Oktober 2026 membahas penerbitan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp27 miliar dan penyesuaian kode usaha KBLI 2025.",
-  "date": "23 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "RUPSLB",
-   "PMTHMETD",
-   "Ultra Voucher"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5b64cab7e2_e25cbdaa96.pdf",
   "sourceLabel": "IDX"
  }
 ];

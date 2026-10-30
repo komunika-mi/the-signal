@@ -3,6 +3,269 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "amor-catat-laba-naik-17-di-fy2025-26-dividen-tumbuh-10",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Catat [Laba] Naik 17% di FY2025/26, Dividen Tumbuh 10%",
+  "deck": "Ashmore Asset Management Indonesia (AMOR) merilis materi public expose tahunan: AuM naik 35% jadi Rp32,4 triliun, laba bersih tumbuh 17%, dan dividen Rp79 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T15:52:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/82c50b84c1_f8a2b3c33a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "Ashmore Asset Management Indonesia",
+   "Public Expose",
+   "Reksa Dana"
+  ],
+  "body": [
+   "PT Ashmore Asset Management Indonesia Tbk (AMOR) menyampaikan materi public expose tahunan ke Bursa Efek Indonesia, menyusul surat pemberitahuan rencana penyelenggaraan acara tersebut pada 21 Oktober 2026. Laporan ditandatangani oleh Sekretaris Perusahaan Arief Wana dan diterbitkan pada 30 Oktober 2026, dengan materi presentasi memuat kinerja perusahaan untuk tahun buku yang berakhir 30 Juni 2026, serta rencana acara public expose pada 4 November 2026.",
+   "Dalam materi tersebut, AMOR melaporkan dana kelolaan atau AuM naik 35 persen dari Rp24 triliun pada Juni 2025 menjadi Rp32,4 triliun pada Juni 2026. Kenaikan ini ditopang aliran dana masuk bersih Rp11,6 triliun dan keuntungan selisih kurs Rp0,8 triliun, meski sebagian tergerus kinerja investasi negatif Rp3,9 triliun akibat gejolak pasar pada semester kedua tahun buku. Pendapatan bersih perusahaan tumbuh 17,3 persen, sementara beban operasional naik 18,5 persen sehingga margin EBITDA sedikit melandai dari 47 persen menjadi 46 persen. Laba sebelum pajak naik 18,4 persen dan laba bersih naik 17,1 persen, dengan laba per saham naik dari Rp33 menjadi Rp38.",
+   "Komposisi dana kelolaan AMOR bergeser selama setahun terakhir. Pangsa pasar reksa dana saham perusahaan turun dari 68,6 persen menjadi 42,6 persen, sementara pangsa pasar reksa dana pendapatan tetap naik dari 24,9 persen menjadi 53,0 persen, seiring preferensi investor yang beralih ke instrumen pendapatan tetap. Di sisi biaya, komisi agen penjual reksa dana melonjak 76 persen menjadi Rp162 miliar, sejalan dengan pertumbuhan penjualan reksa dana. Kas perusahaan per Juni 2026 tercatat Rp130 miliar, turun dari Rp180 miliar setahun sebelumnya, sementara modal awal yang ditempatkan di produk reksa dana milik sendiri naik menjadi Rp131 miliar untuk mendukung pengembangan produk baru.",
+   "Perusahaan juga melaporkan total dividen tahun buku 2025/2026 sebesar Rp79 miliar, naik 10 persen dari tahun sebelumnya, dengan rasio pembayaran dividen tetap tinggi di kisaran 99 persen dari laba inti. AMOR melakukan pembelian kembali saham senilai Rp7 miliar sepanjang tahun ini, naik dari Rp1 miliar pada tahun sebelumnya, sehingga saham treasuri perusahaan kini mencapai 30,9 juta lembar atau 1,4 persen dari total saham beredar. Perusahaan juga menyebut telah meluncurkan reksa dana syariah baru yang berinvestasi pada saham dan obligasi pasar negara berkembang, serta memperkuat strategi pemasaran untuk mendukung pertumbuhan AuM."
+  ],
+  "fotoAdegan": "Wide shot of modern glass office towers in Jakarta's SCBD financial district at sunrise, busy avenue with cars below",
+  "takeaway": "Secara keseluruhan laporan ini condong positif bagi AMOR, karena dana kelolaan, pendapatan, dan laba bersih sama-sama naik dua digit serta dividen tetap dibayarkan dalam porsi besar, meski ada catatan soal pergeseran komposisi portofolio dan kenaikan biaya yang sedikit menggerus margin. Yang perlu diperhatikan adalah margin EBITDA yang menyusut dari 47 persen ke 46 persen akibat kenaikan komisi penjualan reksa dana sebesar 76 persen, serta posisi kas yang menipis dari Rp180 miliar menjadi Rp130 miliar karena sebagian dialihkan jadi modal awal produk baru. Laba per saham yang naik dari Rp33 menjadi Rp38 tetap jadi sinyal baik karena menunjukkan keuntungan per lembar saham ikut membesar, bukan sekadar laba total yang naik karena jumlah saham bertambah. Yang perlu dipantau berikutnya adalah pelaksanaan public expose tahunan yang dijadwalkan 4 November 2026, saat manajemen kemungkinan menjelaskan lebih jauh soal turunnya pangsa pasar reksa dana saham serta dampak risiko suku bunga dan harga minyak terhadap kinerja semester berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tbig-rencanakan-buyback-saham-senilai-rp106-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TBIG Rencanakan [Buyback] Saham Senilai Rp106 Miliar",
+  "deck": "Tower Bersama Infrastructure akan membeli kembali maksimal 52,8 juta saham atau 0,23% modal disetor dengan dana hingga Rp106 miliar, mengacu aturan OJK soal pasar berfluktuasi signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T15:39:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/abee16b9bb_f12a2e6e83.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TBIG",
+  "tags": [
+   "TBIG",
+   "buyback saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "body": [
+   "PT Tower Bersama Infrastructure Tbk (TBIG) mengumumkan rencana membeli kembali sahamnya sendiri (buyback) dengan merujuk pada Peraturan OJK No. 13 Tahun 2023 tentang kebijakan menjaga stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan, serta surat Kepala Eksekutif Pengawas Pasar Modal OJK No. S-112/D.04/2026 tertanggal 9 September 2026. Dengan dasar itu, TBIG tidak perlu meminta persetujuan rapat umum pemegang saham terlebih dahulu, cukup keputusan direksi.",
+   "Saham yang akan dibeli kembali maksimal 52.800.000 lembar atau 0,23 persen dari modal ditempatkan dan disetor penuh perseroan. Dengan nilai nominal Rp20 per saham, itu setara maksimal Rp1,056 miliar nilai nominal, sementara dana tunai yang disiapkan untuk seluruh transaksi, termasuk biaya pialang dan biaya lain, maksimal Rp106 miliar. Pembelian akan dilakukan bertahap di Bursa Efek Indonesia selama 2 November 2026 hingga 29 Januari 2027, dengan PT Ciptadana Sekuritas Asia ditunjuk sebagai perantara. Saham yang dibeli akan disimpan sebagai saham treasuri, dan baru bisa dialihkan lagi 30 hari setelah periode buyback berakhir.",
+   "Selama periode ini, komisaris, direktur, karyawan, dan pemegang saham utama TBIG dilarang bertransaksi atas saham perseroan, begitu juga pihak yang berpotensi memegang informasi orang dalam. Manajemen menyatakan harga saham TBIG saat ini belum mencerminkan kondisi fundamental dan prospek perusahaan, dan buyback ini dimaksudkan untuk menjaga stabilitas harga ke depan. Dalam simulasi proforma per 30 Juni 2026, laba bersih yang diatribusikan ke pemilik entitas induk tetap Rp835.935 juta, namun jumlah saham beredar turun dari 22.352.615.770 menjadi 22.299.815.770 lembar, membuat laba per saham dasar naik tipis dari Rp37,40 menjadi Rp37,44."
+  ],
+  "fotoAdegan": "Telecommunication towers rising above a hillside at dusk, cables and antennas visible, soft golden light",
+  "takeaway": "Laporan ini condong netral ke positif bagi TBIG: niat buyback biasanya dibaca sebagai sinyal manajemen percaya saham undervalued, tapi skalanya cuma 0,23% dari total saham beredar sehingga dampaknya ke kinerja nyaris tidak terasa. Yang tersentuh adalah jumlah saham beredar dan laba per saham, karena mengurangi jumlah saham yang beredar sambil laba bersih tetap sama otomatis mengerek laba per saham, meski di sini kenaikannya cuma dari Rp37,40 ke Rp37,44, hampir tidak berarti. Arus kas tunai perseroan juga tersentuh karena dana hingga Rp106 miliar dipakai untuk transaksi ini, namun manajemen bilang modal kerja dan kas mereka cukup sehingga tidak mengganggu operasional. Yang perlu dipantau berikutnya adalah realisasi pembelian sepanjang periode 2 November 2026 sampai 29 Januari 2027, apakah TBIG benar-benar menyerap mendekati batas maksimal 52,8 juta saham atau jauh di bawah itu, serta apa yang dilakukan perseroan terhadap saham treasuri ini setelah 30 hari masa tunggu pasca periode buyback berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gzco-laba-bersih-melonjak-94-jadi-rp80-1-miliar-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "GZCO: Laba Bersih [Melonjak] 94% Jadi Rp80,1 Miliar di 9M 2026",
+  "deck": "Laba bersih Gozco Plantations naik dari Rp41,4 miliar menjadi Rp80,1 miliar pada sembilan bulan pertama 2026, sementara penjualan justru sedikit turun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T15:27:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160304-65073-0/FinancialStatement-2026-III-GZCO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GZCO",
+  "tags": [
+   "GZCO",
+   "laporan keuangan",
+   "laba bersih",
+   "perkebunan"
+  ],
+  "body": [
+   "PT Gozco Plantations Tbk (GZCO) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani oleh Presiden Direktur Kreisna Dewantara Gozali dan Direktur Marvin Herbert Wibisono pada 30 Oktober 2026. Penjualan bersih perusahaan tercatat Rp580,8 miliar, turun dibandingkan Rp603,2 miliar pada periode yang sama tahun 2025. Namun beban pokok penjualan turun lebih dalam, dari Rp474,2 miliar menjadi Rp403,9 miliar, sehingga laba kotor justru naik dari Rp129,0 miliar menjadi Rp177,0 miliar.",
+   "Efisiensi biaya itu membuat laba sebelum pajak melonjak dari Rp61,9 miliar menjadi Rp104,6 miliar. Setelah dipotong pajak, laba tahun berjalan tercatat Rp80,1 miliar, hampir dua kali lipat dari Rp41,4 miliar pada periode yang sama tahun lalu. Bagian yang jatuh ke pemilik entitas induk mencapai Rp78,6 miliar, naik dari Rp40,4 miliar, dan laba per saham dasar naik dari Rp6,77 menjadi Rp13,59.",
+   "Dari sisi posisi keuangan, jumlah aset relatif stabil di Rp2.189,1 miliar, sementara jumlah liabilitas turun dari Rp960,3 miliar menjadi Rp877,4 miliar. Penurunan ini antara lain berasal dari pelunasan sebagian utang bank jangka panjang yang jatuh tempo dalam satu tahun, dari Rp71,7 miliar menjadi Rp11,6 miliar, serta berkurangnya utang jangka panjang kepada pihak berelasi dari Rp133,3 miliar menjadi Rp83,3 miliar. Jumlah ekuitas naik dari Rp1.231,6 miliar menjadi Rp1.311,7 miliar, dan defisit saldo laba yang belum ditentukan penggunaannya menyusut dari Rp750,5 miliar menjadi Rp671,9 miliar.",
+   "Arus kas dari aktivitas operasi naik dari Rp109,9 miliar menjadi Rp126,0 miliar. Kas dan setara kas pada akhir September 2026 tercatat Rp105,3 miliar, turun dari Rp125,3 miliar di awal tahun, terutama karena perusahaan membayar utang bank dan pinjaman pihak berelasi senilai total sekitar Rp86,7 miliar serta menambah tanaman perkebunan senilai Rp40,9 miliar."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fresh fruit bunches in a tropical plantation, stacked bunches on the ground, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi Gozco karena laba bersihnya hampir dua kali lipat dan sebagian utang berbunga berhasil dilunasi, meski penjualan sedikit menyusut. Pos yang paling bergerak adalah laba per saham, naik dari Rp6,77 menjadi Rp13,59, yang penting dipantau karena mengukur jatah keuntungan tiap lembar saham tanpa ada penambahan jumlah saham baru. Ekuitas, yaitu modal yang menjadi hak pemegang saham, juga naik ke Rp1.311,7 miliar seiring liabilitas yang turun ke Rp877,4 miliar, dan arus kas dari operasi yang naik ke Rp126,0 miliar menunjukkan laba di atas kertas ini didukung uang tunai yang benar-benar masuk, bukan sekadar catatan akuntansi. Yang perlu dipantau berikutnya adalah apakah efisiensi biaya pokok penjualan ini bertahan sampai laporan tahunan penuh 2026 terbit, mengingat laporan ini masih berstatus tidak diaudit dan defisit akumulasi sebesar Rp671,9 miliar belum sepenuhnya tertutup.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "dewi-cetak-laba-rp3-93-m-di-kuartal-iii-utang-bank-naik-tajam",
+  "category": "Aksi Korporasi",
+  "title": "DEWI Cetak [Laba] Rp3,93 M di Kuartal III, Utang Bank Naik Tajam",
+  "deck": "Laporan keuangan kuartal III 2026 DEWI menunjukkan penjualan dan laba bersih tumbuh sekitar 20 persen, tetapi utang bank jangka pendek melonjak lima kali lipat dan kas menyusut hampir 40 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T15:24:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030155228-65589-0/FinancialStatement-2026-III-DEWI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "laporan keuangan",
+   "laba bersih",
+   "utang bank"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) menyampaikan laporan keuangan interim kuartal III 2026 versi koreksi untuk periode sembilan bulan yang berakhir 30 September 2026. Dalam laporan tidak diaudit itu, penjualan perusahaan tercatat Rp56,44 miliar, naik dari Rp46,70 miliar pada periode yang sama tahun 2025. Laba bersih ikut naik dari Rp3,28 miliar menjadi Rp3,93 miliar, setara laba per saham Rp1,96, naik dari Rp1,64 pada periode sebelumnya.",
+   "Di sisi aset, total aset perusahaan bertambah dari Rp182,42 miliar pada akhir 2025 menjadi Rp196,69 miliar pada akhir September 2026. Aset tetap, seperti bangunan dan peralatan produksi, naik cukup besar dari Rp42,14 miliar menjadi Rp54,88 miliar, menandakan ada penambahan kapasitas produksi. Namun kas dan setara kas perusahaan justru menyusut dari Rp14,44 miliar menjadi Rp8,78 miliar, sementara dana yang dibatasi penggunaannya naik dari Rp4,5 miliar menjadi Rp10,5 miliar.",
+   "Struktur utang bank perusahaan juga berubah signifikan. Utang bank jangka pendek melonjak dari Rp4,56 miliar menjadi Rp25,62 miliar, sementara utang bank jangka panjang senilai Rp10,62 miliar yang tercatat akhir 2025 sudah dilunasi seluruhnya sehingga menjadi nol pada akhir September 2026. Akibatnya, total liabilitas perusahaan naik dari Rp19,42 miliar menjadi Rp29,76 miliar, sementara total ekuitas hanya tumbuh tipis dari Rp163,01 miliar menjadi Rp166,93 miliar."
+  ],
+  "fotoAdegan": "Workers in aprons and gloves processing poultry on a stainless steel line inside a food production plant, bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi DEWI, karena penjualan dan laba bersih tumbuh sekitar 20 persen dalam sembilan bulan, didorong oleh penambahan aset tetap yang mengindikasikan perusahaan sedang memperluas kapasitas produksinya. Yang perlu diperhatikan adalah laba per saham yang naik dari Rp1,64 menjadi Rp1,96, karena angka ini dipakai pasar untuk menilai wajar tidaknya harga saham dibanding keuntungan perusahaan, dan utang bank jangka pendek, yakni pinjaman yang harus dibayar dalam waktu kurang dari setahun, yang melonjak dari Rp4,56 miliar menjadi Rp25,62 miliar sehingga menambah beban bunga dan tekanan pada kas perusahaan yang justru menyusut hampir 40 persen. Yang perlu dipantau berikutnya adalah kemampuan DEWI melunasi utang bank jangka pendek itu dalam setahun ke depan, mengingat utang jangka panjangnya sendiri sudah dilunasi penuh pada periode ini. Perlu diperhatikan juga apakah penambahan aset tetap senilai lebih dari Rp12 miliar itu benar-benar terealisasi menjadi kenaikan penjualan pada laporan kuartal dan tahunan berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "klbf-laba-9-bulan-naik-jadi-rp2-84-triliun",
+  "category": "Aksi Korporasi",
+  "title": "KLBF: [Laba] 9 Bulan Naik Jadi Rp2,84 Triliun",
+  "deck": "Penjualan Kalbe Farma naik ke Rp28,97 triliun dan laba bersih ke Rp2,74 triliun dalam sembilan bulan 2026, arus kas operasi ikut menguat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T15:23:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160050-65581-0/FinancialStatement-2026-III-KLBF.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KLBF",
+  "tags": [
+   "KLBF",
+   "laporan keuangan",
+   "farmasi",
+   "laba bersih"
+  ],
+  "body": [
+   "Kalbe Farma Tbk (KLBF) menyampaikan laporan keuangan konsolidasian interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan neto tercatat Rp28,97 triliun, naik dari Rp25,99 triliun pada periode sama tahun lalu. Laba kotor naik menjadi Rp10,90 triliun dari Rp10,53 triliun. Laba periode berjalan mencapai Rp2,84 triliun, naik dari Rp2,69 triliun, dengan Rp2,74 triliun di antaranya menjadi bagian pemilik entitas induk, naik dari Rp2,63 triliun. Laba per saham dasar naik dari Rp57,79 menjadi Rp60,50 per lembar.",
+   "Dari sisi posisi keuangan per 30 September 2026 dibandingkan akhir 2025, total aset naik dari Rp30,70 triliun menjadi Rp33,40 triliun. Kenaikan ini didorong oleh kas dan setara kas yang naik menjadi Rp5,42 triliun dari Rp4,33 triliun, serta persediaan yang naik menjadi Rp8,13 triliun dari Rp6,99 triliun untuk menopang penjualan yang lebih tinggi. Total liabilitas naik dari Rp5,97 triliun menjadi Rp6,82 triliun, terutama liabilitas jangka pendek yang naik dari Rp5,34 triliun menjadi Rp6,15 triliun, seiring utang usaha ke pihak ketiga yang naik dari Rp2,28 triliun menjadi Rp2,78 triliun. Ekuitas yang dapat diatribusikan kepada pemilik perusahaan naik dari Rp24,73 triliun menjadi Rp26,58 triliun.",
+   "Arus kas neto dari aktivitas operasi tercatat Rp2,63 triliun, naik dari Rp2,18 triliun pada periode sama tahun lalu. Sepanjang sembilan bulan 2026, perseroan membagikan dividen kas senilai Rp936,27 miliar, lebih kecil dari Rp1,69 triliun pada periode sama 2025, dan melakukan pembelian kembali saham senilai Rp85,44 miliar, jauh menurun dibanding Rp808,19 miliar pada sembilan bulan 2025. Akibatnya jumlah saham treasuri bertambah menjadi 1,62 miliar lembar dari 1,53 miliar lembar pada akhir 2025."
+  ],
+  "fotoAdegan": "Pharmaceutical factory workers in sterile white uniforms monitoring automated tablet packaging machines under bright clean room lighting",
+  "takeaway": "Laporan ini condong positif bagi KLBF, karena penjualan, laba bersih, ekuitas, dan arus kas operasi semuanya naik dibanding periode sama tahun lalu, bukan sekadar laba di atas kertas. Laba per saham penting karena menunjukkan bagian keuntungan yang jadi milik setiap lembar saham yang dipegang investor, sementara arus kas operasi menunjukkan uang tunai riil yang benar-benar masuk dari bisnis inti, bukan cuma angka akuntansi. Yang perlu diperhatikan adalah porsi dividen dan buyback saham yang jauh lebih kecil dari tahun lalu, yang bisa berarti perseroan memilih menahan kas untuk ekspansi atau sekadar menyesuaikan kebijakan. Karena laporan ini masih versi belum diaudit, pembaca perlu menunggu laporan tahunan auditan untuk memastikan angka-angka ini tidak berubah signifikan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "wmuu-rugi-berkurang-jadi-rp17-08-miliar-usai-restrukturisasi-pkpu",
+  "category": "Aksi Korporasi",
+  "title": "WMUU Rugi Berkurang Jadi Rp17,08 Miliar usai Restrukturisasi [PKPU]",
+  "deck": "Liabilitas WMUU turun 20,24 persen jadi Rp1,24 triliun lewat restrukturisasi utang PKPU, sementara rugi bersih sembilan bulan menyusut ke Rp17,08 miliar dari Rp69,57 miliar sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T15:22:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160025-65268-0/FinancialStatement-2026-III-WMUU.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WMUU",
+  "tags": [
+   "WMUU",
+   "PKPU",
+   "restrukturisasi utang",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Widodo Makmur Unggas Tbk (WMUU) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, disertai surat penjelasan tertanggal 30 Oktober 2026 yang ditandatangani Direktur Wahyu Andi Susilo. Surat itu wajib disampaikan ke Bursa Efek Indonesia karena ada perubahan lebih dari 20 persen pada pos liabilitas Perseroan, sesuai Peraturan BEI Nomor I-E.",
+   "Jumlah liabilitas WMUU per 30 September 2026 tercatat Rp1,24 triliun, turun Rp313,80 miliar atau 20,24 persen dibandingkan posisi 31 Desember 2025 yang sebesar Rp1,55 triliun. Perseroan menjelaskan, penurunan ini berasal dari penerapan PSAK 109 atas restrukturisasi utang berdasarkan putusan homologasi PKPU, yang memperpanjang jangka waktu pinjaman dan menurunkan suku bunga. Nilai wajar utang bank disesuaikan pasca-restrukturisasi, dan selisihnya akan diamortisasi secara bertahap sampai nilai tercatat utang mencapai nilai jatuh temponya sesuai putusan pengadilan. Perseroan mencatat rasio lancar sebesar 1,1 kali pada kuartal III 2026.",
+   "Dari sisi kinerja, rugi bersih periode berjalan tercatat Rp17,08 miliar untuk sembilan bulan 2026, menyusut dari rugi Rp69,57 miliar pada periode yang sama tahun 2025. Penjualan naik menjadi Rp823,22 miliar dari Rp505,70 miliar, dan laba kotor berbalik positif menjadi Rp8,72 miliar setelah sebelumnya rugi kotor Rp23,38 miliar. Rugi per saham dasar mengecil dari Rp5,36 menjadi Rp1,24. Di sisi lain, jumlah aset turun menjadi Rp2,00 triliun dari Rp2,33 triliun, terutama karena aset tetap bersih menyusut dari Rp2,12 triliun menjadi Rp1,79 triliun dan piutang usaha pihak ketiga turun dari Rp46,18 miliar menjadi Rp20,86 miliar. Ekuitas ikut turun dari Rp777,90 miliar menjadi Rp760,95 miliar, sementara posisi kas akhir periode hanya Rp1,76 miliar."
+  ],
+  "fotoAdegan": "Workers loading crates of chickens onto a truck outside a large poultry farm shed in rural Java, early morning light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham karena penurunan liabilitas 20,24 persen yang ditonjolkan di surat ini bukan hasil Perseroan melunasi utang pakai uang tunai, melainkan penyesuaian pembukuan setelah skema PKPU, yaitu proses hukum ketika perusahaan gagal bayar dan jadwal utangnya diatur ulang oleh pengadilan, memperpanjang tenor dan menurunkan bunga pinjaman bank. Yang perlu diperhatikan adalah ekuitas, yakni selisih antara aset dan utang yang jadi hak pemegang saham, yang justru menyusut dari Rp777,90 miliar menjadi Rp760,95 miliar, sementara kas di tangan Perseroan cuma Rp1,76 miliar, jauh di bawah utang jangka pendek Rp127,14 miliar, sehingga kemampuan bayar jangka pendek masih bergantung pada penagihan piutang dan penjualan, bukan kas yang sudah tersedia. Rugi bersih sembilan bulan memang menyusut jadi Rp17,08 miliar dari Rp69,57 miliar tahun lalu dan rugi per saham ikut mengecil dari Rp5,36 menjadi Rp1,24, tanda operasional mulai membaik meski belum mencetak untung. Pada akhir Oktober Perseroan sudah menyinggung rencana aksi korporasi setelah laporan kuartal III ini, dan penambahan modal dasar menjadi 30 miliar saham yang disahkan April 2026 membuka ruang untuk penerbitan saham baru, sehingga yang perlu dipantau berikutnya adalah bentuk dan tanggal resmi aksi korporasi tersebut begitu diumumkan ke bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "yelo-catat-rugi-rp643-juta-di-kuartal-iii-pendapatan-turun-41",
+  "category": "Aksi Korporasi",
+  "title": "YELO Catat [Rugi] Rp643 Juta di Kuartal III, Pendapatan Turun 41%",
+  "deck": "Laporan keuangan interim sembilan bulan 2026 menunjukkan pendapatan YELO turun 41 persen jadi Rp31,7 miliar, sementara rugi bersih melebar tiga kali lipat menjadi Rp643,2 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T15:22:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030155445-64801-0/FinancialStatement-2026-III-YELO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YELO",
+  "tags": [
+   "YELO",
+   "laporan keuangan",
+   "rugi bersih",
+   "pendapatan"
+  ],
+  "body": [
+   "PT Yelooo Integra Datanet Tbk (YELO) menyampaikan laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026 melalui surat No. 71/YLO-OJK/X/2026 kepada Otoritas Jasa Keuangan, dengan tanggal surat pernyataan direksi 30 Oktober 2026. Laporan ini bersifat tidak diaudit dan mencakup konsolidasi dengan dua anak usaha, yaitu PT Abdi Harapan Unggul yang bergerak di penjualan voucher isi ulang pulsa, pulsa elektronik, dan paket data internet dengan kepemilikan YELO sebesar 97,99 persen, serta PT Komunikasi Profesional Indonesia yang bergerak di perdagangan, perindustrian, pembangunan, dan percetakan dengan kepemilikan 99,52 persen.",
+   "Dari sisi kinerja usaha, pendapatan neto YELO turun dari Rp53,87 miliar pada sembilan bulan pertama 2025 menjadi Rp31,70 miliar pada periode yang sama tahun ini, penurunan sekitar 41 persen. Laba bruto ikut tergerus dari Rp3,31 miliar menjadi Rp2,25 miliar. Meski beban usaha berhasil ditekan dari Rp5,65 miliar menjadi Rp3,03 miliar, perusahaan tetap mencatatkan rugi sebelum pajak sebesar Rp803,20 juta, lebih dalam dibanding rugi Rp316,01 juta pada periode sebelumnya. Setelah memperhitungkan pajak, rugi bersih periode berjalan tercatat Rp643,16 juta, naik tajam dari Rp209,58 juta pada sembilan bulan pertama 2025, dengan rugi per saham melebar dari Rp0,13 menjadi Rp0,34.",
+   "Posisi keuangan per 30 September 2026 menunjukkan total aset Rp275,02 miliar, relatif stabil dibanding Rp275,99 miliar pada akhir 2025. Total liabilitas turun dari Rp7,72 miliar menjadi Rp7,39 miliar, sementara ekuitas turun tipis dari Rp268,27 miliar menjadi Rp267,63 miliar akibat akumulasi rugi yang belum ditentukan penggunaannya membesar dari negatif Rp10,72 miliar menjadi negatif Rp11,37 miliar. Modal saham tetap di Rp191,28 miliar dengan jumlah saham beredar 1.912.774.405 lembar bernilai nominal Rp100 per saham, tidak ada perubahan jumlah saham pada periode ini. Dari laporan arus kas, kas neto dari aktivitas operasi berbalik positif menjadi Rp3,84 miliar, dari sebelumnya negatif Rp403,67 juta, sementara aktivitas investasi menyerap kas Rp2,58 miliar terutama untuk pembelian aset tetap, sehingga kas dan setara kas akhir periode naik menjadi Rp1,95 miliar dari Rp693,91 juta di awal periode."
+  ],
+  "fotoAdegan": "Workers stacking cardboard boxes of telecom equipment inside a warehouse, forklift nearby, fluorescent lighting overhead",
+  "takeaway": "Laporan ini condong negatif untuk YELO, sebab yang melemah bukan cuma angka rugi, melainkan bisnis intinya sendiri: pendapatan turun 41 persen dari Rp53,9 miliar menjadi Rp31,7 miliar, dan rugi bersihnya melebar tiga kali lipat menjadi Rp643,2 juta. Rugi yang membesar ini menambah akumulasi kerugian perusahaan yang belum tertutup, sehingga modal pemegang saham turun sedikit dari Rp268,3 miliar menjadi Rp267,6 miliar, dan kerugian per lembar saham melebar dari Rp0,13 menjadi Rp0,34, artinya setiap saham yang dipegang investor menanggung beban rugi lebih besar dibanding tahun lalu. Satu titik terang ada di aliran kas dari kegiatan operasional sehari hari, yang tahun lalu minus Rp403,7 juta kini berbalik positif Rp3,84 miliar, tanda perusahaan lebih berhasil menagih kas dari pelanggan meski penjualannya menyusut. Yang perlu dipantau selanjutnya adalah apakah penurunan pendapatan ini berlanjut atau membaik di laporan kuartal berikutnya, serta bagaimana angka-angka ini bisa berubah setelah laporan tahunan auditan terbit, karena laporan yang disampaikan kali ini masih berstatus tidak diaudit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "data-catat-laba-bersih-naik-42-ekspansi-didanai-utang",
+  "category": "Aksi Korporasi",
+  "title": "DATA Catat Laba Bersih Naik 42%, Ekspansi Didanai [Utang]",
+  "deck": "Laba bersih PT Remala Abadi Tbk (DATA) naik 41,7 persen pada sembilan bulan pertama 2026, namun ekspansi jaringan fiber optik banyak dibiayai utang bank baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T15:21:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160020-65506-0/FinancialStatement-2026-III-DATA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DATA",
+  "tags": [
+   "DATA",
+   "Remala Abadi",
+   "laporan keuangan",
+   "telekomunikasi"
+  ],
+  "body": [
+   "PT Remala Abadi Tbk (DATA) melaporkan kenaikan total aset dan total liabilitas lebih dari 20 persen dibandingkan akhir tahun lalu, sehingga perusahaan wajib mengirim surat keterbukaan informasi ke Bursa Efek Indonesia. Direktur Utama Agus Setiono dalam surat tertanggal 29 Oktober 2026 menyampaikan bahwa total aset konsolidasian per 30 September 2026 naik menjadi Rp1,30 triliun dari Rp1,01 triliun pada akhir 2025, sementara total liabilitas naik menjadi Rp814,50 miliar dari Rp612,15 miliar. Ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham, ikut naik menjadi Rp487,22 miliar dari Rp394,60 miliar.",
+   "Kenaikan itu terjadi di tengah kinerja operasional yang menguat. Pendapatan sembilan bulan pertama 2026 naik 19 persen menjadi Rp374,07 miliar dari Rp314,43 miliar pada periode yang sama tahun lalu, sementara laba bersih melonjak 41,7 persen menjadi Rp92,14 miliar dari Rp65,04 miliar. Dari jumlah itu, Rp87,22 miliar menjadi bagian pemegang saham induk dan Rp4,92 miliar menjadi bagian pemegang saham minoritas di anak usaha, dengan laba per saham dasar naik menjadi Rp63,74 dari Rp47,07 setahun sebelumnya. Arus kas dari kegiatan operasional naik lebih dari dua kali lipat menjadi Rp93,72 miliar dari Rp43,07 miliar, menunjukkan bisnis inti perusahaan menghasilkan uang tunai yang lebih besar.",
+   "Kenaikan aset sebagian besar berasal dari belanja modal Rp272,24 miliar untuk aset tetap, yang membuat nilai aset tetap neto melonjak dari Rp588,39 miliar menjadi Rp811,08 miliar, sejalan dengan bisnis utama grup di bidang infrastruktur telekomunikasi dan jaringan serat optik. Belanja itu dibiayai dengan utang bank yang bertambah dari Rp426,14 miliar menjadi sekitar Rp688,00 miliar, di mana perusahaan untuk pertama kalinya mencatat pinjaman bank jangka panjang senilai Rp461,50 miliar, sementara pinjaman jangka pendek justru turun menjadi Rp226,50 miliar. Akibatnya, beban bunga yang dibayar perusahaan naik lebih dari tiga kali lipat menjadi Rp25,39 miliar dari Rp8,35 miliar.",
+   "Dalam laporan yang sama, Remala Abadi merinci tujuh entitas anak yang dikonsolidasikan: PT Fiber Media Indonesia dengan kepemilikan 85 persen dan aset Rp194,79 miliar, PT PC 24 Cyber Indonesia dengan kepemilikan 99 persen dan aset Rp65,65 miliar, PT Fiber Kerumah Indonesia dengan kepemilikan 51 persen dan aset Rp67,03 miliar, serta PT Akselerasi Informasi Indonesia dengan kepemilikan 51 persen dan aset Rp1,60 miliar. Tiga entitas lain belum beroperasi secara komersial, yaitu PT Solusi Aplikasi Andalan Semesta dengan kepemilikan 88 persen dan aset Rp333,90 juta, PT Mitra Integrasi Bersama dengan kepemilikan 55 persen dan aset Rp5,00 miliar, dan PT Clara Dinamika Abadi dengan kepemilikan 72,5 persen dan aset Rp917,26 juta."
+  ],
+  "fotoAdegan": "Technicians in safety vests splicing fiber-optic cables on a utility pole along a busy Jakarta street, late afternoon light",
+  "takeaway": "Laporan ini condong positif karena pendapatan dan laba bersih Remala Abadi tumbuh dua digit, sementara arus kas dari kegiatan operasional, yaitu uang tunai yang benar-benar masuk dari bisnis sehari-hari, naik lebih dari dua kali lipat, tanda keuntungan di atas kertas itu memang berubah jadi uang kas. Pos yang paling tersentuh adalah struktur utang dan beban bunga: pinjaman bank jangka panjang yang sebelumnya nol kini mencapai Rp461,50 miliar untuk membiayai pembangunan jaringan, sehingga biaya bunga yang harus dibayar perusahaan naik lebih dari tiga kali lipat, sementara ekuitas atau kekayaan bersih pemegang saham ikut membesar karena laba ditahan bertambah. Pergeseran dari utang jangka pendek ke jangka panjang sebenarnya meringankan tekanan kas dalam waktu dekat, meski beban bunga tahunan jadi lebih besar untuk jangka waktu lebih lama. Yang perlu dipantau berikutnya adalah apakah pinjaman baru ini berhasil diubah jadi jaringan yang benar-benar menghasilkan pendapatan, serta laporan keuangan tahunan teraudit 2026 yang akan mengonfirmasi apakah tren pertumbuhan laba kuartal ketiga ini berlanjut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "kija-laba-turun-78-obligasi-rp3-1-triliun-dilunasi",
+  "category": "Aksi Korporasi",
+  "title": "KIJA: Laba Turun 78%, [Obligasi] Rp3,1 Triliun Dilunasi",
+  "deck": "Laba bersih KIJA kuartal III 2026 turun 78 persen jadi Rp60,45 miliar meski pendapatan naik, obligasi Rp3,1 triliun dilunasi dan diganti pinjaman bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T15:18:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030155735-64852-0/FinancialStatement-2026-III-KIJA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KIJA",
+  "tags": [
+   "KIJA",
+   "laporan keuangan",
+   "properti",
+   "kawasan industri"
+  ],
+  "body": [
+   "Kawasan Industri Jababeka Tbk (KIJA) menyampaikan laporan keuangan konsolidasian interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan dari penjualan dan jasa naik 15,8 persen menjadi Rp4,25 triliun, dari Rp3,67 triliun pada periode yang sama tahun lalu. Namun laba bersih yang menjadi hak pemegang saham induk perseroan justru merosot 78,2 persen menjadi Rp60,45 miliar, dari Rp277,3 miliar setahun sebelumnya, membuat laba per saham dasar turun dari Rp13,50 menjadi Rp2,91.",
+   "Penurunan laba ini terjadi meski laba kotor perseroan naik menjadi Rp1,58 triliun dari Rp1,47 triliun. Penyebabnya adalah kenaikan beban umum dan administrasi menjadi Rp485 miliar dari Rp370,5 miliar, serta beban lain-lain neto yang melonjak menjadi Rp338,3 miliar dari Rp88,3 miliar pada periode yang sama tahun lalu. Akibatnya, laba sebelum pajak tergerus menjadi Rp474,1 miliar dari Rp724,8 miliar.",
+   "Di sisi pendanaan, KIJA melunasi seluruh obligasi Senior Notes senilai Rp3,09 triliun yang masih tercatat pada akhir 2025, dan menggantinya dengan pinjaman bank jangka panjang yang melonjak menjadi Rp4,63 triliun dari Rp1,36 triliun. Total liabilitas perseroan naik menjadi Rp7,05 triliun dari Rp6,91 triliun, sementara total ekuitas turun tipis menjadi Rp8,11 triliun dari Rp8,14 triliun. Arus kas neto dari aktivitas operasi juga menyusut tajam menjadi Rp568,7 miliar dari Rp1,7 triliun, dan posisi kas serta setara kas berkurang menjadi Rp3,15 triliun dari Rp3,62 triliun."
+  ],
+  "fotoAdegan": "Wide view of warehouse rooftops and paved roads inside a large industrial estate, cranes in the distance, late afternoon light",
+  "takeaway": "Laporan ini condong negatif karena laba bersih yang menjadi hak pemegang saham induk merosot 78 persen, jauh lebih dalam dibanding kenaikan pendapatan sebesar 15,8 persen, tanda biaya dan beban lain-lain menggerus keuntungan inti perseroan. Pos yang paling tersentuh adalah laba per saham, yaitu bagian laba yang secara teoritis menjadi hak setiap lembar saham yang beredar, yang turun dari Rp13,50 menjadi Rp2,91, serta arus kas dari aktivitas operasi yang anjlok ke Rp568,7 miliar dari Rp1,7 triliun, padahal arus kas ini menunjukkan uang tunai riil yang benar-benar masuk dari bisnis sehari-hari, bukan sekadar angka laba di atas kertas. Struktur utang juga berubah signifikan karena obligasi senilai Rp3,09 triliun dilunasi penuh dan digantikan pinjaman bank jangka panjang yang melonjak jadi Rp4,63 triliun, sehingga beban bunga ke depan akan mengikuti suku bunga bank, bukan lagi kupon obligasi yang tetap. Yang perlu dipantau berikutnya adalah laporan keuangan audit tahun penuh 2026 yang biasanya terbit awal tahun berikutnya, untuk melihat apakah penurunan laba dan arus kas operasi ini hanya sementara atau berlanjut, serta bagaimana perseroan mengelola beban bunga dari pinjaman bank barunya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kios-catat-kas-menipis-jadi-rp81-juta-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "KIOS Catat Kas [Menipis] jadi Rp81 Juta di Kuartal III 2026",
+  "deck": "Pendapatan Kioson Komersial susut lebih dari separuh dalam sembilan bulan 2026, sementara kas perusahaan tergerus hingga tersisa Rp81,1 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T15:13:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030154219-64736-0/FinancialStatement-2026-III-KIOS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KIOS",
+  "tags": [
+   "KIOS",
+   "Kioson Komersial",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Kioson Komersial Indonesia Tbk (KIOS) membukukan penjualan neto Rp3,65 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, turun dari Rp8,12 miliar pada periode yang sama tahun sebelumnya, atau susut lebih dari separuh. Laba bruto ikut tergerus menjadi Rp395,4 juta dari sebelumnya Rp1,67 miliar. Meski pendapatan merosot, rugi bersih periode berjalan justru menyusut dari Rp1,99 miliar menjadi Rp735,2 juta, sehingga rugi per saham mengecil dari Rp1,91 menjadi Rp0,83. Perseroan mencatat pos pendapatan lain-lain neto Rp799,9 juta yang turut menahan rugi, berbeda dari tahun sebelumnya yang justru mencatat beban lain-lain.",
+   "Posisi kas dan bank Kioson tergerus signifikan menjadi hanya Rp81,1 juta per 30 September 2026, dari Rp532,4 juta pada akhir 2025. Penyusutan ini terjadi karena arus kas dari aktivitas operasi defisit Rp9,55 miliar, jauh lebih besar dari defisit Rp719 juta pada periode yang sama tahun lalu, akibat pembayaran kepada pemasok yang melonjak jadi Rp9,59 miliar. Kekurangan kas operasional ini ditutup dari aktivitas investasi, yakni pencairan uang jaminan senilai Rp9,1 miliar pada 1 April 2026.",
+   "Dana hasil pencairan jaminan itu dipakai perseroan untuk melunasi utang usaha dan utang lain-lain, termasuk pelunasan ke PT Media Sejahtera Selaras senilai Rp5,83 miliar dan ke PT Berkha Informatika Indonesia senilai Rp2,37 miliar, keduanya tercatat di entitas anak PT Retail Kita Indonesia. Akibatnya, utang usaha pihak ketiga turun 89,3 persen menjadi Rp758,8 juta dan utang lain-lain turun 89,6 persen menjadi Rp379,9 juta. Total liabilitas perseroan turun dari Rp12,04 miliar menjadi Rp1,96 miliar, sementara total ekuitas turun tipis dari Rp138,43 miliar menjadi Rp137,69 miliar karena akumulasi rugi. Laporan ini ditandatangani Direktur Utama Ornela Bartin Sutan Giri di Jakarta pada 30 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers stacking cardboard boxes of retail goods inside a small warehouse storage facility, forklift nearby, fluorescent lighting",
+  "takeaway": "Laporan ini condong negatif bagi Kioson karena inti bisnisnya menyusut tajam, pendapatan turun lebih dari separuh, sementara kas perusahaan nyaris terkuras hingga tersisa Rp81 juta dan hanya tertahan karena ada pencairan dana jaminan, bukan dari hasil operasional. Yang perlu diperhatikan investor adalah arus kas dari aktivitas operasi, yaitu selisih antara uang yang benar-benar masuk dan keluar dari kegiatan bisnis sehari-hari, karena di sini perseroan justru mengeluarkan kas Rp9,55 miliar lebih banyak daripada yang diterimanya, lebih buruk dibanding tahun lalu. Ekuitas, yakni kekayaan bersih yang jadi milik pemegang saham setelah utang dikurangi, juga tergerus tipis akibat rugi yang terus terakumulasi dari tahun-tahun sebelumnya. Rugi per saham yang mengecil dari Rp1,91 menjadi Rp0,83 sebagian ditopang pendapatan lain-lain yang sifatnya tidak rutin, sehingga belum tentu berulang di kuartal berikutnya. Yang perlu dipantau selanjutnya adalah apakah sisa uang jaminan Rp54,11 miliar masih bisa dicairkan untuk menambal kas operasional, serta laporan keuangan tahunan 2026 yang akan menunjukkan apakah tren penurunan pendapatan ini berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "penyaluran-kredit-program-tembus-rp294-6-triliun",
   "category": "UMKM",
   "title": "Penyaluran Kredit Program Tembus [Rp294,6] Triliun",

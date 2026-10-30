@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "aekCKMkfGo8",
+  "title": "Kinerja Ekspor Terus Bersinar, Indonesia Punya Prospek Cerah",
+  "category": "Makroekonomi",
+  "program": "Kabar Khusus",
+  "summary": "Menteri Keuangan memaparkan kondisi ekonomi Indonesia di hadapan pengurus Kadin, dengan pemerintah menargetkan pertumbuhan ekonomi 6 persen dan investasi tumbuh 7 persen pada 2027.",
+  "takeaway": "Paparan ini relevan karena menunjukkan arah target pertumbuhan ekonomi dan investasi pemerintah untuk beberapa tahun ke depan."
+ },
+ {
+  "id": "5pRTges6jI0",
+  "title": "Menkeu Jelaskan Kondisi Ekonomi Indonesia Jangka Panjang",
+  "category": "Makroekonomi",
+  "program": "Kabar Khusus",
+  "summary": "Dalam Rapimnas Kadin Indonesia, Menteri Keuangan memaparkan proyeksi ekonomi nasional jangka panjang, termasuk target pertumbuhan 6 persen dan investasi 7 persen pada 2027.",
+  "takeaway": "Pernyataan resmi ini memberi gambaran arah kebijakan fiskal dan investasi pemerintah ke depan."
+ },
+ {
+  "id": "vLq4Oe5ktQk",
+  "title": "Industri Indonesia Melaju, Lampaui Pertumbuhan Ekonomi Nasional",
+  "category": "Industri",
+  "program": "Kabar Khusus",
+  "summary": "Rapimnas Kadin menjadi forum konsolidasi antara pemerintah dan dunia usaha, dengan sektor industri tercatat tumbuh lebih tinggi dibandingkan pertumbuhan ekonomi nasional.",
+  "takeaway": "Data pertumbuhan industri yang melampaui ekonomi nasional menjadi indikator arah kebijakan sektor usaha ke depan."
+ },
+ {
   "id": "TDIha7ZoP48",
   "title": "Sinergi Pemerintah dan Kadin Perkuat Ekonomi Nasional",
   "category": "Makroekonomi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Musyawarah Nasional VII Federasi Serikat Pekerja Kimia, Energi, Pertambangan, Minyak, Gas Bumi dan Umum (FSP KEP) digelar pada 25-27 Oktober 2026 di Menara Peninsula Hotel.",
   "takeaway": "Forum ini relevan bagi pembaca ekonomi karena membahas arah ketenagakerjaan di sektor energi dan pertambangan yang menjadi penyokong utama perekonomian nasional."
- },
- {
-  "id": "Ywekic_OMHg",
-  "title": "Harga Emas Dunia Rontok ke Posisi Terendah dalam 3 Bulan",
-  "category": "Pasar Modal",
-  "program": "OneNews Update",
-  "summary": "Harga emas dunia melemah sepanjang pekan ini dan jatuh ke level terendah dalam tiga bulan, setelah gagal melanjutkan tren penguatan sebelumnya.",
-  "takeaway": "Pergerakan harga emas dunia menjadi acuan penting bagi investor dan pelaku pasar komoditas di dalam negeri."
- },
- {
-  "id": "PTC7HoLkVJs",
-  "title": "Kementerian Ekonomi Kreatif Luncurkan Creative By Indonesia",
-  "category": "Industri",
-  "program": "Kabar Utama",
-  "summary": "Kementerian Ekonomi Kreatif meluncurkan gerakan Creative by Indonesia bertepatan dengan peringatan Hari Ekonomi Kreatif Nasional 2026, melibatkan pemerintah dan komunitas untuk mendorong brand lokal.",
-  "takeaway": "Peluncuran ini menandai langkah pemerintah memperkuat ekosistem ekonomi kreatif sebagai sektor bisnis yang didorong untuk naik kelas lewat penguatan brand lokal."
- },
- {
-  "id": "Xu8SBwsG10s",
-  "title": "DEN Sebut Suap Bagian dari Kerugian Negara",
-  "category": "Makroekonomi",
-  "program": "One On One",
-  "summary": "Presiden Prabowo Subianto bertemu dengan Dewan Ekonomi Nasional membahas sejumlah isu strategis nasional, termasuk usulan DEN bahwa suap tergolong bagian dari kerugian negara.",
-  "takeaway": "Pembahasan ini penting diikuti karena menyangkut arah kebijakan DEN dalam mengaitkan pemberantasan korupsi dengan kesehatan keuangan negara."
  }
 ];

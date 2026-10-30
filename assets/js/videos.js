@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "aekCKMkfGo8",
+  "title": "Kinerja Ekspor Terus Bersinar, Indonesia Punya Prospek Cerah",
+  "category": "Makroekonomi",
+  "program": "Kabar Khusus",
+  "summary": "Menteri Keuangan memaparkan kondisi ekonomi Indonesia di hadapan pengurus Kadin, dengan pemerintah menargetkan pertumbuhan ekonomi 6 persen dan investasi tumbuh 7 persen pada 2027.",
+  "takeaway": "Paparan ini relevan karena menunjukkan arah target pertumbuhan ekonomi dan investasi pemerintah untuk beberapa tahun ke depan.",
+  "terbit": "2026-10-30T18:16:14+00:00"
+ },
+ {
+  "id": "5pRTges6jI0",
+  "title": "Menkeu Jelaskan Kondisi Ekonomi Indonesia Jangka Panjang",
+  "category": "Makroekonomi",
+  "program": "Kabar Khusus",
+  "summary": "Dalam Rapimnas Kadin Indonesia, Menteri Keuangan memaparkan proyeksi ekonomi nasional jangka panjang, termasuk target pertumbuhan 6 persen dan investasi 7 persen pada 2027.",
+  "takeaway": "Pernyataan resmi ini memberi gambaran arah kebijakan fiskal dan investasi pemerintah ke depan.",
+  "terbit": "2026-10-30T17:40:04+00:00"
+ },
+ {
+  "id": "vLq4Oe5ktQk",
+  "title": "Industri Indonesia Melaju, Lampaui Pertumbuhan Ekonomi Nasional",
+  "category": "Industri",
+  "program": "Kabar Khusus",
+  "summary": "Rapimnas Kadin menjadi forum konsolidasi antara pemerintah dan dunia usaha, dengan sektor industri tercatat tumbuh lebih tinggi dibandingkan pertumbuhan ekonomi nasional.",
+  "takeaway": "Data pertumbuhan industri yang melampaui ekonomi nasional menjadi indikator arah kebijakan sektor usaha ke depan.",
+  "terbit": "2026-10-30T16:55:20+00:00"
+ },
+ {
   "id": "TDIha7ZoP48",
   "title": "Sinergi Pemerintah dan Kadin Perkuat Ekonomi Nasional",
   "category": "Makroekonomi",

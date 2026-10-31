@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "laba-usaha-bnbr-melonjak-2-157-di-kuartal-iii-2026",
+  "category": "Pasar Modal",
+  "title": "Laba Usaha BNBR [Melonjak] 2.157% di Kuartal III 2026",
+  "deck": "PT Bakrie & Brothers Tbk membukukan pendapatan Rp4,12 triliun dan laba usaha Rp596,24 miliar pada kuartal III 2026, ditopang kenaikan kinerja tiga unit usahanya.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/laba-usaha-bnbr-melonjak-2-157-di-kuartal-iii-2026.jpg",
+  "imageV": "mvw05zio",
+  "tags": [
+   "bnbr",
+   "bakrie brothers",
+   "vktr",
+   "laporan keuangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475896-kinerja-bnbr-kuartal-iii-2026-melesat-pendapatan-naik-5545-dan-gross-profit-melonjak-12782"
+ },
+ {
   "slug": "kaef-rombak-utang-jangka-pendek-rugi-menyusut-ke-rp12-9-m",
   "category": "Aksi Korporasi",
   "title": "KAEF Rombak Utang Jangka Pendek, Rugi [Menyusut] ke Rp12,9 M",
@@ -6466,22 +6483,6 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8777-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmas-free-float-tak-capai-15-kvf-siap-beli-sisa-saham-rp350",
-  "category": "Aksi Korporasi",
-  "title": "BMAS: Free Float Tak Capai [15%], KVF Siap Beli Sisa Saham Rp350",
-  "deck": "Bank Kasikorn menjelaskan ke BEI bahwa KVF, pemegang 86,03 persen saham, siap membeli sisa saham rights issue di Rp350, sementara free float publik belum capai syarat minimum 15 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "rights issue",
-   "free float",
-   "KVF"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8a6449e20a_9ce4898168.pdf",
   "sourceLabel": "IDX"
  }
 ];

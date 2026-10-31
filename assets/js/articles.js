@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "laba-usaha-bnbr-melonjak-2-157-di-kuartal-iii-2026",
+  "category": "Pasar Modal",
+  "title": "Laba Usaha BNBR [Melonjak] 2.157% di Kuartal III 2026",
+  "deck": "PT Bakrie & Brothers Tbk membukukan pendapatan Rp4,12 triliun dan laba usaha Rp596,24 miliar pada kuartal III 2026, ditopang kenaikan kinerja tiga unit usahanya.",
+  "image": "assets/img/laba-usaha-bnbr-melonjak-2-157-di-kuartal-iii-2026.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T12:55:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475896-kinerja-bnbr-kuartal-iii-2026-melesat-pendapatan-naik-5545-dan-gross-profit-melonjak-12782",
+  "tags": [
+   "bnbr",
+   "bakrie brothers",
+   "vktr",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Bakrie & Brothers Tbk (BNBR) melaporkan kinerja keuangan yang menguat tajam pada kuartal III 2026. Pendapatan bersih perusahaan tercatat Rp4,12 triliun, naik 55,45 persen dibanding periode yang sama tahun sebelumnya yang sebesar Rp2,65 triliun. Kenaikan ini penting dicermati karena BNBR adalah induk dari sejumlah anak usaha lintas sektor, mulai dari kendaraan listrik, baja, hingga infrastruktur tol, sehingga kinerjanya mencerminkan pergerakan beberapa lini bisnis sekaligus.",
+   "Yang lebih mencolok adalah kenaikan di level laba. Laba kotor perusahaan naik 127,82 persen menjadi Rp1,13 triliun, sementara laba usaha melonjak 2.157,14 persen dari hanya Rp26,41 miliar menjadi Rp596,24 miliar. EBITDA, yakni laba sebelum bunga, pajak, depresiasi, dan amortisasi yang biasa dipakai untuk melihat kemampuan bisnis menghasilkan kas dari kegiatan operasionalnya, juga tercatat Rp810,25 miliar, naik 707,86 persen dari tahun lalu.",
+   "Direktur Utama dan CEO BNBR, Anin, menyebut kenaikan pendapatan bersih Rp1,47 triliun itu ditopang oleh tiga unit usaha utama. PT VKTR Teknologi Mobilitas Tbk (VKTR) Group membukukan pendapatan Rp1,06 triliun, naik 48,6 persen, didorong peningkatan penjualan kendaraan listrik dan kinerja PT Bakrie Autoparts Group. PT Bakrie Metal Industries (BMI) Group mencatat pendapatan Rp2,09 triliun, naik 26,1 persen, sedangkan PT Bakrie Indo Infrastructure (BIIN) Group melonjak 248,3 persen menjadi Rp952,25 miliar, terutama karena konsolidasi penuh PT Cimanggis Cibitung Tollways (CCT) di tahun ini.",
+   "\"Alhamdulillah, Perseroan terus bertumbuh di tengah kondisi ekonomi dan geopolitik global saat ini yang diwarnai oleh pertumbuhan yang melambat, tekanan inflasi, serta ketegangan di berbagai kawasan. Hal ini merupakan buah dari strategi, resiliensi, adaptabilitas, serta kerja keras seluruh tim,\" ujar Anin."
+  ],
+  "fotoAdegan": "Workers assembling heavy steel components on an industrial factory floor, sparks from welding, overcast daylight through skylights",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/31/6ae580ff4f9b8-ilustrasi-bakrie-group_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar pendapatan yang naik 55 persen, tapi laba usaha yang melompat lebih dari 21 kali lipat, dari Rp26,41 miliar menjadi Rp596,24 miliar. Lonjakan sebesar itu wajar dicurigai sebagian berasal dari basis tahun lalu yang memang sangat kecil, bukan semata perbaikan operasional yang permanen. Pihak yang langsung terdampak adalah pemegang saham BNBR dan VKTR yang sama-sama tercatat di bursa, serta pihak terkait proyek tol Cimanggis-Cibitung yang baru masuk penuh ke laporan keuangan tahun ini. Ada dua kemungkinan arah ke depan, pertama margin usaha BNBR memang membaik secara struktural lewat perbaikan efisiensi di anak-anak usahanya, kedua lonjakan ini sebagian besar efek sementara dari basis rendah dan konsolidasi tol yang sifatnya satu kali. Yang akan menjawabnya adalah apakah tren kenaikan laba usaha ini masih bertahan di laporan kuartal IV 2026 atau laporan tahunan auditan, saat efek basis rendah tahun lalu sudah tidak lagi relevan.",
+  "imageV": "mvw05zio"
+ },
+ {
   "slug": "kaef-rombak-utang-jangka-pendek-rugi-menyusut-ke-rp12-9-m",
   "category": "Aksi Korporasi",
   "title": "KAEF Rombak Utang Jangka Pendek, Rugi [Menyusut] ke Rp12,9 M",

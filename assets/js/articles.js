@@ -3,6 +3,189 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sger-pendapatan-naik-17-laba-turun-tipis-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "SGER: Pendapatan Naik 17%, [Laba] Turun Tipis di Kuartal III",
+  "deck": "Pendapatan SGER naik 16,7 persen ditopang permintaan batu bara dan nikel, tapi laba bersih tergerus kenaikan beban bunga 27,7 persen pada kuartal III 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T15:41:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031155710-65456-0/FinancialStatement-2026-III-SGER.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SGER",
+  "tags": [
+   "SGER",
+   "batu bara",
+   "nikel",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Sumber Global Energy Tbk (SGER) menyampaikan laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit, ditandatangani Corporate Secretary Michael Harold dan dikirim ke Bursa Efek Indonesia pada 30 Oktober 2026. Pendapatan bersih perusahaan perdagangan batu bara dan nikel ini naik dari Rp5,22 triliun pada periode yang sama 2025 menjadi Rp6,09 triliun, atau tumbuh 16,7 persen. Laba kotor naik dari Rp371,45 miliar menjadi Rp451,54 miliar. Namun laba bersih periode berjalan justru turun tipis dari Rp190,16 miliar menjadi Rp186,60 miliar, karena beban keuangan, yaitu biaya bunga atas pinjaman perusahaan, melonjak 27,7 persen dari Rp103,25 miliar menjadi Rp131,86 miliar. Laba bersih per saham ikut turun sedikit dari Rp11,93 menjadi Rp11,90.",
+   "Dari sisi posisi keuangan, total aset SGER naik 12,01 persen dari Rp5,64 triliun menjadi Rp6,32 triliun. Dalam surat terpisah ke bursa, manajemen menjelaskan kenaikan ini terutama didorong oleh piutang usaha pihak ketiga yang melonjak 161,68 persen dari Rp357,57 miliar menjadi Rp935,68 miliar, akibat penjualan dalam negeri yang belum tertagih sampai akhir kuartal tiga. Total liabilitas juga naik, dari Rp3,28 triliun menjadi Rp3,60 triliun, didorong uang muka penjualan yang naik 103,25 persen menjadi Rp515,99 miliar dan utang usaha yang naik 100,72 persen menjadi Rp545,79 miliar, seiring meningkatnya permintaan batu bara dan nikel. Utang obligasi jangka panjang melonjak 816,01 persen dari Rp9,47 miliar menjadi Rp86,70 miliar, sementara utang bank jangka pendek justru turun dari Rp1,39 triliun menjadi Rp670 miliar. Manajemen menyatakan kenaikan liabilitas ini tidak berdampak negatif terhadap kinerja perseroan.",
+   "Ekuitas, yaitu modal milik pemegang saham, tercatat naik dari Rp2,37 triliun menjadi Rp2,72 triliun, antara lain disumbang kenaikan kepentingan pihak luar di anak usaha sebesar Rp82,47 miliar dan laba komprehensif periode berjalan Rp272,66 miliar. Dari sisi arus kas, SGER membukukan kas bersih dari aktivitas operasi Rp283,75 miliar, berbalik dari posisi defisit Rp234,69 miliar pada periode yang sama tahun lalu. Sebaliknya, kas dari aktivitas pendanaan negatif Rp185,71 miliar karena pembayaran utang bank dan pembiayaan konsumen lebih besar dari penerimaan baru, sehingga kas dan setara kas di akhir periode turun menjadi Rp322,25 miliar dari Rp361,27 miliar di awal tahun."
+  ],
+  "fotoAdegan": "Workers operating a conveyor belt loading coal onto a cargo ship at a busy Indonesian port, dusty afternoon light",
+  "takeaway": "Laporan kuartal III ini netral bagi SGER. Permintaan batu bara dan nikel yang kuat memang mendorong pendapatan naik 16,7 persen, tapi sebagian besar kenaikan itu habis untuk membayar bunga utang yang melonjak 27,7 persen, sehingga laba bersih malah turun tipis dan laba per saham nyaris tidak berubah. Yang patut dicatat positif justru arus kas dari operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan sehari-hari perusahaan, yang berbalik dari defisit Rp234,69 miliar tahun lalu menjadi surplus Rp283,75 miliar tahun ini, artinya perusahaan kini tidak lagi bergantung pada utang baru untuk membiayai operasinya. Modal pemegang saham memang naik ke Rp2,72 triliun, tapi sebagian kenaikan itu datang dari suntikan modal ke anak usaha, bukan murni dari laba yang dihasilkan sendiri. Karena laporan ini masih belum diaudit, yang perlu dipantau berikutnya adalah apakah piutang usaha yang melonjak 161,68 persen menjadi Rp935,68 miliar benar-benar tertagih, dan bagaimana hasil akhirnya setelah masuk laporan tahunan auditan 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "laba-smga-tumbuh-21-tapi-utang-usaha-naik-90",
+  "category": "Aksi Korporasi",
+  "title": "Laba SMGA Tumbuh 21%, tapi [Utang Usaha] Naik 90%",
+  "deck": "Penjualan sembilan bulan SMGA naik jadi Rp2,11 triliun dan laba bersih ke Rp56,33 miliar, sementara utang usaha melonjak karena pembelian batu bara dan nikel.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T15:32:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031154606-65333-0/FinancialStatement-2026-III-SMGA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMGA",
+  "tags": [
+   "SMGA",
+   "laporan keuangan",
+   "pertambangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Sumber Mineral Global Abadi Tbk (SMGA) melaporkan kinerja keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan bersih naik dari Rp1,32 triliun pada periode yang sama tahun 2025 menjadi Rp2,11 triliun, sementara laba kotor naik dari Rp93,07 miliar menjadi Rp116,51 miliar. Laba bersih periode berjalan naik dari Rp46,49 miliar menjadi Rp56,33 miliar, dengan bagian yang menjadi hak pemilik entitas induk naik dari Rp50,73 miliar menjadi Rp52,94 miliar. Laba per saham dasar dan dilusian naik dari Rp5,80 menjadi Rp6,14.",
+   "Total aset perseroan naik dari Rp934,95 miliar pada akhir 2025 menjadi Rp1,21 triliun. Kenaikan ini terutama didorong oleh kas dan bank yang melonjak dari Rp17,47 miliar menjadi Rp96,68 miliar akibat pelunasan piutang penjualan di akhir kuartal ketiga, serta piutang usaha yang naik dari Rp132,66 miliar menjadi Rp420,6 miliar karena hasil penjualan yang belum tertagih dari pelanggan. Di sisi liabilitas, total utang naik dari Rp544,88 miliar menjadi Rp765,05 miliar, setara kenaikan 35,09 persen menurut penjelasan resmi manajemen ke Bursa Efek Indonesia. Penyebab utamanya adalah utang usaha untuk pembelian batu bara dan nikel yang naik 90,5 persen, dari Rp115,2 miliar menjadi Rp219,46 miliar. Sebaliknya, utang bank jangka panjang justru turun 67,06 persen, dari Rp13,58 miliar menjadi Rp4,47 miliar, karena perseroan melunasi sebagian pinjaman modal kerja.",
+   "Dalam surat resminya ke Kepala Divisi Penilaian Perusahaan BEI dan Otoritas Jasa Keuangan, manajemen SMGA yang ditandatangani Raymond Ng Chi Ching menegaskan bahwa kenaikan liabilitas lebih dari 20 persen itu tidak berdampak negatif terhadap kinerja perseroan. Laporan keuangan itu sendiri disampaikan oleh Corporate Secretary Mona Dita Saraswati sesuai kewajiban Peraturan Nomor I-E BEI tentang penyampaian informasi berkala."
+  ],
+  "fotoAdegan": "Stacks of coal and nickel ore at an open mineral stockpile yard, a loader truck moving between piles, overcast afternoon light",
+  "takeaway": "Laporan ini secara keseluruhan condong positif bagi SMGA, karena penjualan dan laba bersih tumbuh dua digit sementara arus kas dari aktivitas operasi berbalik dari minus Rp13,55 miliar menjadi plus Rp86,5 miliar, sinyal yang lebih kuat ketimbang sekadar laba di atas kertas. Ekuitas ikut naik dari Rp390,07 miliar menjadi Rp446,52 miliar, berarti kekayaan bersih yang jadi hak pemegang saham bertambah, dan laba per saham naik dari Rp5,80 ke Rp6,14, yaitu ukuran porsi laba yang jadi milik setiap lembar saham yang dipegang investor. Yang perlu diwaspadai, sebagian pertumbuhan laba itu masih berbentuk piutang usaha yang melonjak ke Rp420,6 miliar, uang yang belum benar-benar ditagih dari pelanggan. Yang perlu dipantau berikutnya adalah laporan tahunan auditan untuk tahun buku 2026, karena laporan kuartal III ini masih berstatus tidak diaudit, dan kualitas piutang yang melonjak itu baru benar-benar teruji begitu diperiksa auditor independen, yang biasanya terbit sekitar kuartal pertama 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bsml-saham-pengendali-menyusut-ke-36-41-laba-turun",
+  "category": "Aksi Korporasi",
+  "title": "BSML: Saham Pengendali Menyusut ke [36,41%], Laba Turun",
+  "deck": "Laba bersih BSML turun tipis di kuartal III 2026, sementara porsi kepemilikan pemegang saham utama, PT Goldfive Investment Capital, susut dari 45,47 persen menjadi 36,41 persen dalam sembilan bulan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T15:18:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031152913-64752-0/FinancialStatement-2026-III-BSML.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSML",
+  "tags": [
+   "BSML",
+   "laporan keuangan",
+   "kepemilikan saham",
+   "pelayaran"
+  ],
+  "body": [
+   "Dalam laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, PT Bintang Samudera Mandiri Lines Tbk (BSML) mencatat pendapatan Rp54,96 miliar, turun dari Rp60,37 miliar pada periode yang sama tahun 2025. Laba bruto ikut turun dari Rp17,62 miliar menjadi Rp15,48 miliar. Setelah dikurangi beban pemasaran, beban umum dan administrasi, serta pos penghasilan dan beban lain-lain yang berbalik dari untung Rp3,10 miliar menjadi rugi Rp89 juta, laba usaha BSML tergerus dari Rp7,86 miliar menjadi Rp3,61 miliar. Meski demikian, beban bunga dan biaya keuangan turun tajam dari Rp4,93 miliar menjadi Rp815,59 juta karena cicilan utang bank yang terus berkurang, sehingga laba bersih akhirnya hanya turun tipis dari Rp2,25 miliar menjadi Rp2,12 miliar. Laba per saham turun dari Rp1,22 menjadi Rp1,15.",
+   "Dari sisi posisi keuangan, total aset BSML naik dari Rp194,79 miliar pada akhir 2025 menjadi Rp202,09 miliar pada akhir September 2026, sementara ekuitas naik dari Rp131,44 miliar menjadi Rp133,62 miliar. Kas dan bank perusahaan melonjak dari Rp30,89 juta menjadi Rp1,32 miliar. Perusahaan juga terus mengurangi utang bank, dengan bagian utang bank jangka pendek yang jatuh tempo turun dari Rp24,34 miliar menjadi Rp17,17 miliar dan utang bank jangka panjang turun dari Rp2,83 miliar menjadi Rp180,79 juta, setelah membayar cicilan utang bank Rp9,82 miliar selama sembilan bulan. Di sisi lain, utang usaha naik dari Rp7,16 miliar menjadi Rp14,18 miliar. Arus kas dari aktivitas operasi masih negatif Rp9,01 miliar, meski membaik dibanding negatif Rp11,20 miliar pada periode yang sama tahun lalu, dan kebutuhan kas ini sebagian ditutup dari penerimaan penjualan aset tetap Rp9,44 miliar serta penerimaan utang baru dari pihak ketiga Rp13,16 miliar.",
+   "Dokumen ini juga mencantumkan data kepemilikan saham: per 30 September 2026, PT Goldfive Investment Capital tercatat sebagai pemegang saham mayoritas BSML dengan porsi 36,41 persen, turun dari 45,47 persen pada akhir Desember 2025. Jumlah saham BSML yang diterbitkan dan disetor tidak berubah selama periode tersebut, tetap 1.850.225.000 saham dengan nilai nominal Rp25 per saham, yang berarti penurunan persentase kepemilikan itu berasal dari saham yang dilepas atau dipindahtangankan, bukan dari penerbitan saham baru yang mengencerkan kepemilikan pemegang saham lama."
+  ],
+  "fotoAdegan": "A domestic cargo ship docked at a busy Indonesian port, cranes loading containers, dock workers in vests, hazy morning light.",
+  "takeaway": "Catatan redaksi: laporan ini condong netral bagi fundamental BSML, karena penurunan pendapatan dan laba bersih yang moderat diimbangi oleh kas yang lebih tebal, ekuitas yang naik, dan utang bank yang terus menyusut, sementara penurunan porsi kepemilikan pemegang saham mayoritas sebesar lebih dari 9 poin persentase dalam sembilan bulan belum bisa dipastikan maknanya tanpa keterbukaan transaksi yang lebih rinci. Yang tersentuh di sini adalah laba per saham, yaitu laba bersih dibagi jumlah saham beredar yang jadi acuan investor menilai seberapa produktif tiap lembar saham mereka, dan di BSML angka ini turun dari Rp1,22 menjadi Rp1,15. Arus kas operasi, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan usaha sehari-hari, juga masih negatif, tandanya bisnis utama BSML belum menghasilkan kas sendiri dan masih bergantung pada penjualan aset serta pinjaman dari pihak ketiga untuk menutup selisihnya. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan 2026 yang akan diaudit, untuk melihat apakah tren penurunan pendapatan ini berlanjut, serta laporan kuartal berikutnya untuk mengetahui apakah porsi kepemilikan PT Goldfive Investment Capital terus menyusut atau stabil di level 36,41 persen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "laba-idpr-melonjak-727-jadi-rp19-3-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba IDPR [Melonjak] 727% Jadi Rp19,3 Miliar di Kuartal III 2026",
+  "deck": "Pendapatan IDPR naik 39 persen jadi Rp1,23 triliun dan laba bersih melonjak ke Rp19,3 miliar pada sembilan bulan 2026, tapi arus kas operasi berbalik negatif dan utang bank jangka pendek naik tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T15:03:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031151311-65623-0/FinancialStatement-2026-III-IDPR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDPR",
+  "tags": [
+   "IDPR",
+   "laporan keuangan",
+   "konstruksi",
+   "arus kas"
+  ],
+  "body": [
+   "PT Indonesia Pondasi Raya Tbk (IDPR) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK dan Bursa Efek Indonesia. Pendapatan perusahaan tercatat Rp1,23 triliun, naik 39 persen dari Rp885,48 miliar pada periode yang sama tahun 2025. Laba kotor naik ke Rp159,59 miliar dari Rp129,36 miliar, laba usaha naik ke Rp52,03 miliar dari Rp36,32 miliar, dan EBITDA naik ke Rp101,13 miliar dari Rp68,97 miliar. Laba bersih melonjak paling tajam, dari Rp2,34 miliar menjadi Rp19,35 miliar, atau naik sekitar 727 persen dibandingkan periode yang sama tahun lalu.",
+   "Di sisi posisi keuangan, total aset perusahaan naik menjadi Rp1,83 triliun per 30 September 2026 dari Rp1,68 triliun pada akhir Desember 2025. Total liabilitas ikut naik ke Rp1,12 triliun dari Rp989,53 miliar, didorong kenaikan pinjaman bank jangka pendek menjadi Rp474,37 miliar dari Rp345,38 miliar, naik sekitar 37 persen. Piutang usaha pihak ketiga juga naik ke Rp226,35 miliar dari Rp146,86 miliar, sementara persediaan naik ke Rp347,52 miliar dari Rp286,59 miliar. Kas dan bank justru menyusut ke Rp5,53 miliar dari Rp14,27 miliar. Ekuitas naik tipis menjadi Rp704,27 miliar dari Rp694,93 miliar, setelah perusahaan membagikan dividen tunai Rp10,02 miliar selama periode berjalan.",
+   "Laporan arus kas menunjukkan kegiatan operasional perusahaan justru membutuhkan kas bersih Rp20,24 miliar pada sembilan bulan 2026, berbalik dari periode yang sama tahun 2025 yang menghasilkan kas bersih Rp16,98 miliar. Perusahaan juga melaporkan dua entitas anak yang dikonsolidasi, yaitu PT Gema Bahana Utama di bidang konstruksi dengan kepemilikan 50 persen dan aset Rp55,65 miliar, serta PT Rekagunatek Persada yang memproduksi tiang pancang precast dan prestressed dengan kepemilikan 99,97 persen dan aset Rp919,16 miliar. Dokumen ditandatangani oleh Presiden Direktur Febyan dan Direktur Ignatius Enrico Setiawan Setiodihardjo pada 31 Oktober 2026, dan disampaikan ke OJK serta BEI oleh Corporate Secretary Dwijanto."
+  ],
+  "fotoAdegan": "Workers guiding a pile driving rig at a foundation construction site, stacked concrete piles nearby, overcast morning light",
+  "takeaway": "Laporan ini sebaiknya dinilai netral, bukan sepenuhnya positif, karena lonjakan laba di atas kertas tidak dibarengi uang tunai yang benar-benar masuk ke kas perusahaan. Yang perlu diperhatikan adalah arus kas dari kegiatan operasional, yaitu selisih antara uang yang benar-benar diterima dan dikeluarkan dari bisnis utama, yang berbalik jadi minus Rp20,24 miliar meski laba bersih naik tajam, sebagian karena piutang usaha dan persediaan ikut membengkak sehingga sebagian pendapatan belum berubah jadi uang cash. Beban bunga berpotensi naik ke depan karena pinjaman bank jangka pendek sudah bertambah sekitar 37 persen untuk menambal kebutuhan kas tersebut. Yang perlu dipantau berikutnya adalah apakah arus kas operasional kembali positif pada laporan kuartal IV atau laporan tahunan penuh 2026, karena itu akan menunjukkan apakah lonjakan laba kali ini memang berkelanjutan atau cuma sementara akibat penumpukan piutang dan persediaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tosk-laba-kuartal-iii-turun-59-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "TOSK: Laba Kuartal III [Turun] 59%, Kas Operasi Negatif",
+  "deck": "Laba bersih TOSK turun 59 persen jadi Rp1,98 miliar pada sembilan bulan 2026, arus kas operasi berbalik negatif, dan utang bank jangka pendek melonjak 309,5 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T14:15:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031142837-65344-0/FinancialStatement-2026-III-TOSK.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOSK",
+  "tags": [
+   "TOSK",
+   "laporan keuangan",
+   "arus kas",
+   "utang bank"
+  ],
+  "body": [
+   "PT Topindo Solusi Komunika Tbk (TOSK) membukukan pendapatan neto Rp1.197,33 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, turun 8 persen dari Rp1.301,58 triliun pada periode yang sama tahun lalu. Meski laba bruto justru naik tipis menjadi Rp22,96 miliar dari Rp22,74 miliar, beban umum dan administrasi melonjak dari Rp13,34 miliar menjadi Rp16,34 miliar sehingga laba usaha turun dari Rp7,48 miliar menjadi Rp4,85 miliar. Setelah memperhitungkan beban bunga, pajak, dan pos lain-lain, laba bersih yang dapat diatribusikan kepada pemilik perusahaan turun dari Rp4,87 miliar menjadi Rp1,96 miliar, sehingga laba per saham dasar ikut turun dari Rp1,11 menjadi Rp0,45.",
+   "Di sisi liabilitas, total utang perusahaan melonjak 50,18 persen dari Rp33,15 miliar pada akhir 2025 menjadi Rp49,79 miliar pada akhir September 2026. Dalam surat penjelasan kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan tertanggal 30 Oktober 2026 yang ditandatangani Direktur Mutsabbit Firas, perusahaan menjelaskan kenaikan ini terutama didorong oleh penambahan utang bank jangka pendek sebesar Rp20,45 miliar atau 309,5 persen, dari Rp6,61 miliar menjadi Rp27,06 miliar, yang sebagian diimbangi penurunan utang bank jangka panjang sebesar Rp1,38 miliar atau 40,9 persen. Total aset perusahaan ikut naik 8,57 persen menjadi Rp211,37 miliar, salah satunya didorong kenaikan uang muka pembelian persediaan dari Rp64,69 miliar menjadi Rp80,81 miliar, sementara total ekuitas relatif tidak berubah di kisaran Rp161,58 miliar.",
+   "Arus kas dari aktivitas operasi berbalik menjadi negatif Rp15,89 miliar pada sembilan bulan 2026, dari sebelumnya positif Rp20,87 miliar pada periode yang sama tahun lalu, karena pembayaran kepada pemasok sebesar Rp1.196,59 miliar lebih besar dari penerimaan dari pelanggan sebesar Rp1.194,89 miliar. Kekurangan kas ini ditutup dari aktivitas pendanaan yang membukukan kas masuk neto Rp16,38 miliar, terutama dari pencairan utang bank jangka pendek baru senilai Rp20,45 miliar, setelah dikurangi pembayaran dividen tunai Rp1,97 miliar kepada pemegang saham. Akibatnya, kas dan setara kas perusahaan pada akhir September 2026 tercatat Rp22,85 miliar, sedikit turun dari Rp23,69 miliar pada akhir 2025.",
+   "Laporan ini juga memuat rincian empat entitas anak TOSK. Dua di antaranya sudah beroperasi, yakni PT Topindo Niaga Nusantara yang bergerak di bisnis ritel di Pontianak dengan aset Rp12,07 miliar, dan PT Topindo Ikon Properti di bisnis properti di Singkawang dengan aset Rp98,22 miliar, keduanya dimiliki 99,99 persen oleh TOSK. Dua entitas anak lainnya belum beroperasi dan ditargetkan mulai komersial pada 2027, yaitu PT Uwang Lintas Semesta yang akan menggarap jasa pembayaran digital dengan aset Rp15,20 miliar, dan PT Topindo Orisinil Sinergi Kreasi di bisnis penerbitan perangkat lunak dengan aset Rp94 juta, masing-masing dimiliki 70 persen oleh TOSK."
+  ],
+  "fotoAdegan": "Warehouse staff stacking plain cardboard boxes onto pallets near a forklift under fluorescent lighting, late afternoon shift",
+  "takeaway": "Laporan ini condong negatif bagi TOSK karena laba bersih anjlok 59 persen dalam sembilan bulan menjadi Rp1,98 miliar, sementara kegiatan usaha sehari-hari justru menyedot kas, bukan menghasilkannya, dan kekurangan itu ditutup dengan utang bank jangka pendek yang melonjak lebih dari tiga kali lipat. Pos yang tersentuh adalah arus kas operasi, yakni selisih uang tunai yang masuk dan keluar dari bisnis inti tanpa menghitung utang atau investasi, yang berbalik dari positif Rp20,87 miliar menjadi negatif Rp15,89 miliar karena pembayaran ke pemasok lebih besar dari penerimaan dari pelanggan. Laba per saham, yaitu bagian keuntungan perusahaan yang secara teoritis jatuh ke setiap lembar saham beredar, ikut turun dari Rp1,11 menjadi Rp0,45, tanda bagian keuntungan pemegang saham mengecil meski jumlah saham beredar tidak bertambah. Yang perlu dipantau ke depan adalah apakah arus kas operasi kembali positif pada laporan kuartal keempat 2026, dan bagaimana perusahaan mengelola utang bank jangka pendek yang naik 309,5 persen menjadi Rp27,06 miliar itu di tengah kas yang justru menipis dari Rp23,69 miliar menjadi Rp22,85 miliar.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mang-catatkan-rugi-rp7-3-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MANG Catatkan [Rugi] Rp7,3 Miliar di Kuartal III 2026",
+  "deck": "PT Manggung Polahraya (MANG) mencatat rugi Rp7,3 miliar pada sembilan bulan 2026, ekuitas dan kas menyusut, sementara beban akrual melonjak lebih dari 15 kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T14:01:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031141003-65627-0/FinancialStatement-2026-III-MANG.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MANG",
+  "tags": [
+   "MANG",
+   "laporan keuangan",
+   "rugi",
+   "OJK"
+  ],
+  "body": [
+   "PT Manggung Polahraya Tbk (MANG) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir pada 30 September 2026 kepada Bursa Efek Indonesia. Perusahaan konstruksi dan produsen aspal hotmix serta beton ready mix ini mencatat rugi periode berjalan sebesar Rp7,30 miliar, melebar dari rugi Rp7,10 miliar pada periode yang sama tahun 2025. Pendapatan usaha turun dari Rp32,86 miliar menjadi Rp26,39 miliar, sementara rugi usaha ikut melebar dari Rp3,88 miliar menjadi Rp5,29 miliar akibat beban umum dan administrasi yang masih besar di tengah pendapatan yang menyusut. Rugi per saham bertambah menjadi Rp1,92 dari Rp1,86 pada periode yang sama tahun lalu.",
+   "Di sisi posisi keuangan, total ekuitas Perseroan turun dari Rp137,92 miliar pada akhir Desember 2025 menjadi Rp130,63 miliar per 30 September 2026, terutama karena akumulasi defisit yang membesar dari Rp17,22 miliar menjadi Rp24,52 miliar. Kas dan setara kas menyusut tajam dari Rp729,35 juta menjadi Rp329,74 juta, sementara total liabilitas naik dari Rp32,59 miliar menjadi Rp39,02 miliar. Modal saham dan tambahan modal disetor memang bertambah sedikit, masing masing menjadi Rp76,25 miliar dan Rp58,15 miliar, setelah ada penerimaan Rp11,41 juta dari pelaksanaan waran terkait penawaran umum perdana saham, namun kenaikan ini jauh lebih kecil dibanding pelebaran rugi.",
+   "Dalam surat terpisah bernomor 443/CORSEC-MPR/X/2026 tertanggal 30 Oktober 2026, Corporate Secretary MANG, Lie Kurniawan, menyampaikan penjelasan resmi kepada Otoritas Jasa Keuangan terkait kenaikan liabilitas jangka pendek yang melebihi 20 persen. Liabilitas jangka pendek naik 21,73 persen dari Rp30,09 miliar pada akhir 2025 menjadi Rp36,63 miliar per 30 September 2026, yang menurut Perseroan utamanya didorong oleh beban akrual yang melonjak 1.517,51 persen dari Rp779,06 juta menjadi Rp11,82 miliar. Perseroan menyebut lonjakan beban akrual itu terjadi karena adanya perkembangan kegiatan operasional Perseroan, tanpa merinci pos biaya spesifik di balik kenaikan tersebut."
+  ],
+  "fotoAdegan": "Workers checking mixer trucks and asphalt silos at a rural ready-mix concrete and hotmix plant, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi MANG karena rugi melebar, kas menyusut tajam, dan ekuitas ikut tergerus, sementara penjelasan resmi ke OJK soal lonjakan beban akrual lebih dari 15 kali lipat masih minim rincian. Yang tersentuh adalah ekuitas, yakni selisih aset dan utang yang jadi penyangga perusahaan, yang turun dari Rp137,92 miliar jadi Rp130,63 miliar dalam sembilan bulan karena defisit yang terus membesar. Arus kas dari operasi, yaitu uang tunai yang benar benar masuk dari bisnis inti, juga menciut dari Rp1,81 miliar jadi Rp557,9 juta, sejalan dengan kas di tangan yang tersisa Rp329,74 juta dari Rp729,35 juta di akhir 2025. Rugi per saham, ukuran beban rugi yang ditanggung setiap lembar saham, melebar jadi Rp1,92 dari Rp1,86, meski jumlah saham beredar nyaris tidak berubah karena hanya ada penambahan kecil dari pelaksanaan waran IPO. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan teraudit yang akan terbit setelah tutup tahun 2026, karena di situlah akan terlihat apakah lonjakan beban akrual yang disebut Perseroan sebagai akibat perkembangan kegiatan operasional benar benar berujung pada pendapatan baru atau hanya menambah beban.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "jawa-laba-ganda-tapi-utang-jangka-pendek-melonjak-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "JAWA: Laba Ganda tapi [Utang] Jangka Pendek Melonjak di Kuartal III",
+  "deck": "Laba bersih sembilan bulan JAWA naik jadi Rp75,9 miliar, tapi sebagian besar ditopang untung non-operasional, sementara kas menipis dan utang bank jatuh tempo setahun melonjak ke Rp519 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T13:42:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031134826-64440-0/FinancialStatement-2026-III-JAWA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JAWA",
+  "tags": [
+   "JAWA",
+   "laporan keuangan",
+   "perkebunan",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Jaya Agra Wattie Tbk (JAWA) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perusahaan perkebunan karet, kelapa sawit, teh, dan kopi yang menaungi 12 anak usaha di berbagai wilayah seperti Cilacap, Sukabumi, Lebak, Jember, hingga Kalimantan Selatan ini mencatat laba bersih Rp75,92 miliar, lebih dari dua kali lipat dibandingkan Rp36,31 miliar pada periode yang sama tahun 2025. Laba bersih yang dapat diatribusikan kepada pemilik entitas induk sebesar Rp74,70 miliar membuat laba per saham dasar naik dari Rp2,19 menjadi Rp4,60.",
+   "Kenaikan laba ini terjadi di tengah penjualan yang justru menyusut dari Rp1,34 triliun menjadi Rp1,32 triliun, dan laba usaha dari kegiatan inti perkebunan yang turun dari Rp115,33 miliar menjadi Rp106,62 miliar karena beban penjualan serta beban umum dan administrasi naik. Beban keuangan, yaitu bunga pinjaman bank, juga naik dari Rp130,14 miliar menjadi Rp133,19 miliar. Kenaikan laba bersih justru ditopang oleh pos keuntungan lain-lain neto yang melonjak dari Rp62,97 miliar menjadi Rp108,35 miliar, sehingga laba sebelum pajak naik dari Rp48,21 miliar menjadi Rp81,81 miliar.",
+   "Dari sisi arus kas, kas dan bank perusahaan justru menipis dari Rp14,32 miliar pada akhir 2025 menjadi Rp6,00 miliar pada akhir September 2026, meski kegiatan operasi menghasilkan kas bersih Rp92,63 miliar. Penyebabnya, kegiatan investasi menyedot kas Rp138,46 miliar untuk perluasan tanaman belum menghasilkan dan pembelian aset tetap, sementara dari aktivitas pendanaan perusahaan menerima tambahan utang Rp38 miliar dari pihak berelasi. Liabilitas jangka pendek melonjak dari Rp561,03 miliar menjadi Rp861,90 miliar, terutama karena utang bank jangka panjang senilai Rp519,25 miliar kini diklasifikasikan jatuh tempo dalam satu tahun, naik tajam dari Rp224,27 miliar pada akhir 2025. Di sisi lain, total ekuitas membesar dari Rp1,35 triliun menjadi Rp1,44 triliun karena defisit laba ditahan menyusut dari Rp1,87 triliun menjadi Rp1,79 triliun."
+  ],
+  "fotoAdegan": "Workers tapping latex from rubber trees in a misty plantation at dawn, collection buckets hanging on trunks",
+  "takeaway": "Laporan ini condong negatif bagi JAWA karena lonjakan laba bersihnya ditopang pos untung-rugi lain-lain yang sifatnya di luar bisnis inti, sementara penjualan dan laba usaha dari karet serta sawit justru melemah. Yang tersentuh adalah arus kas, uang tunai yang benar-benar keluar masuk rekening perusahaan, yang menyusut dari Rp14,3 miliar jadi hanya Rp6 miliar dalam sembilan bulan, lalu ekuitas atau modal pemegang saham yang memang membesar karena defisit laba ditahan menyusut, dan beban bunga alias biaya pinjaman bank yang naik jadi Rp133,2 miliar. Kenaikan laba per saham dari Rp2,19 ke Rp4,60 perlu dibaca hati-hati karena sumbangan terbesarnya bukan dari penjualan perkebunan yang justru melemah. Yang perlu dipantau berikutnya adalah bagaimana JAWA melunasi atau memperpanjang utang bank Rp519,25 miliar yang kini jatuh tempo dalam satu tahun, mengingat kas di tangan per akhir September 2026 cuma Rp6 miliar, serta apakah laporan tahun penuh 2026 masih bergantung pada suntikan dana dari pihak berelasi seperti sepanjang sembilan bulan ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "laba-usaha-bnbr-melonjak-2-157-di-kuartal-iii-2026",
   "category": "Pasar Modal",
   "title": "Laba Usaha BNBR [Melonjak] 2.157% di Kuartal III 2026",

@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sger-pendapatan-naik-17-laba-turun-tipis-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "SGER: Pendapatan Naik 17%, [Laba] Turun Tipis di Kuartal III",
+  "deck": "Pendapatan SGER naik 16,7 persen ditopang permintaan batu bara dan nikel, tapi laba bersih tergerus kenaikan beban bunga 27,7 persen pada kuartal III 2026.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SGER",
+   "batu bara",
+   "nikel",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031155710-65456-0/FinancialStatement-2026-III-SGER.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-smga-tumbuh-21-tapi-utang-usaha-naik-90",
+  "category": "Aksi Korporasi",
+  "title": "Laba SMGA Tumbuh 21%, tapi [Utang Usaha] Naik 90%",
+  "deck": "Penjualan sembilan bulan SMGA naik jadi Rp2,11 triliun dan laba bersih ke Rp56,33 miliar, sementara utang usaha melonjak karena pembelian batu bara dan nikel.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMGA",
+   "laporan keuangan",
+   "pertambangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031154606-65333-0/FinancialStatement-2026-III-SMGA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bsml-saham-pengendali-menyusut-ke-36-41-laba-turun",
+  "category": "Aksi Korporasi",
+  "title": "BSML: Saham Pengendali Menyusut ke [36,41%], Laba Turun",
+  "deck": "Laba bersih BSML turun tipis di kuartal III 2026, sementara porsi kepemilikan pemegang saham utama, PT Goldfive Investment Capital, susut dari 45,47 persen menjadi 36,41 persen dalam sembilan bulan.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSML",
+   "laporan keuangan",
+   "kepemilikan saham",
+   "pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031152913-64752-0/FinancialStatement-2026-III-BSML.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-idpr-melonjak-727-jadi-rp19-3-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "Laba IDPR [Melonjak] 727% Jadi Rp19,3 Miliar di Kuartal III 2026",
+  "deck": "Pendapatan IDPR naik 39 persen jadi Rp1,23 triliun dan laba bersih melonjak ke Rp19,3 miliar pada sembilan bulan 2026, tapi arus kas operasi berbalik negatif dan utang bank jangka pendek naik tajam.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDPR",
+   "laporan keuangan",
+   "konstruksi",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031151311-65623-0/FinancialStatement-2026-III-IDPR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tosk-laba-kuartal-iii-turun-59-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "TOSK: Laba Kuartal III [Turun] 59%, Kas Operasi Negatif",
+  "deck": "Laba bersih TOSK turun 59 persen jadi Rp1,98 miliar pada sembilan bulan 2026, arus kas operasi berbalik negatif, dan utang bank jangka pendek melonjak 309,5 persen.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOSK",
+   "laporan keuangan",
+   "arus kas",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031142837-65344-0/FinancialStatement-2026-III-TOSK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mang-catatkan-rugi-rp7-3-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MANG Catatkan [Rugi] Rp7,3 Miliar di Kuartal III 2026",
+  "deck": "PT Manggung Polahraya (MANG) mencatat rugi Rp7,3 miliar pada sembilan bulan 2026, ekuitas dan kas menyusut, sementara beban akrual melonjak lebih dari 15 kali lipat.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MANG",
+   "laporan keuangan",
+   "rugi",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031141003-65627-0/FinancialStatement-2026-III-MANG.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jawa-laba-ganda-tapi-utang-jangka-pendek-melonjak-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "JAWA: Laba Ganda tapi [Utang] Jangka Pendek Melonjak di Kuartal III",
+  "deck": "Laba bersih sembilan bulan JAWA naik jadi Rp75,9 miliar, tapi sebagian besar ditopang untung non-operasional, sementara kas menipis dan utang bank jatuh tempo setahun melonjak ke Rp519 miliar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JAWA",
+   "laporan keuangan",
+   "perkebunan",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031134826-64440-0/FinancialStatement-2026-III-JAWA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "laba-usaha-bnbr-melonjak-2-157-di-kuartal-iii-2026",
   "category": "Pasar Modal",
   "title": "Laba Usaha BNBR [Melonjak] 2.157% di Kuartal III 2026",
@@ -6371,118 +6483,6 @@ var ARTICLES = [
    "utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026182358-64619-0/FinancialStatement-2026-III-MAPA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "blog-laba-naik-10-9-utang-bank-melonjak-20-5",
-  "category": "Aksi Korporasi",
-  "title": "BLOG: Laba Naik 10,9%, [Utang] Bank Melonjak 20,5%",
-  "deck": "Pendapatan dan laba Trimitra Trans Persada naik dua digit pada sembilan bulan 2026, tapi utang bank jangka panjang melonjak lebih dari 20 persen dan kas perusahaan susut hampir separuh.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLOG",
-   "laporan keuangan",
-   "utang",
-   "logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026182147-64776-0/FinancialStatement-2026-III-BLOG.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmbl-pemegang-saham-jual-3-juta-lembar-hak-suara-turun-ke-8-47",
-  "category": "Aksi Korporasi",
-  "title": "BMBL: Pemegang Saham [Jual] 3 Juta Lembar, Hak Suara Turun ke 8,47%",
-  "deck": "Sentra Investa Maksima melepas 3 juta saham BMBL pada 20 Oktober 2026 senilai sekitar Rp75,4 juta, menurunkan hak suaranya dari 8,76 persen menjadi 8,47 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMBL",
-   "kepemilikan saham",
-   "pemegang saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8888-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-pastikan-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "TOBA Pastikan Tak Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "TBS Energi Utama menjawab permintaan BEI terkait volatilitas transaksi sahamnya, menegaskan tak ada fakta material baru selain RUPSLB 27 November dan RUPO 19 November 2026.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "volatilitas saham",
-   "RUPSLB",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cee820a1a1_874e9dda72.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mapb-catat-rugi-bersih-rp157-5-miliar-per-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "MAPB Catat [Rugi] Bersih Rp157,5 Miliar per September 2026",
-  "deck": "Rugi bersih MAP Boga Adiperkasa melebar 45 persen jadi Rp157,5 miliar pada sembilan bulan 2026, terutama karena manfaat pajak yang jauh mengecil dari tahun sebelumnya.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAPB",
-   "laporan keuangan",
-   "rugi bersih",
-   "consumer"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026112152-64641-0/FinancialStatement-2026-III-MAPB.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pjhb-w-bei-ingatkan-jadwal-delisting-waran-per-5-november",
-  "category": "Aksi Korporasi",
-  "title": "PJHB-W: BEI Ingatkan Jadwal [Delisting] Waran per 5 November",
-  "deck": "BEI mengingatkan pemegang waran PJHB-W bahwa perdagangan berakhir awal November 2026 dan efek ini dihapus dari pencatatan pada 5 November 2026.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PJHB",
-   "PJHB-W",
-   "waran",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan PJHB-W261104-No. Peng-00203BEI.POP10-2026.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-laba-bersih-turun-61-jadi-rp4-47-triliun-di-9m-2026",
-  "category": "Aksi Korporasi",
-  "title": "UNTR: Laba Bersih [Turun] 61% Jadi Rp4,47 Triliun di 9M 2026",
-  "deck": "Pendapatan turun 10% dan laba bersih turun 61% pada sembilan bulan 2026, sementara UNTR berpindah dari posisi kas bersih ke utang bersih akibat akuisisi tambang emas dan pembelian kembali saham.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "laporan keuangan",
-   "laba bersih",
-   "United Tractors"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026180824-64722-0/FinancialStatement-2026-III-UNTR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smar-gelar-rupslb-17-november-rombak-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "SMAR Gelar RUPSLB 17 November, Rombak [Komisaris]",
-  "deck": "SMAR memanggil RUPSLB pada 17 November 2026 untuk menyesuaikan anggaran dasar dan mengubah susunan Dewan Komisaris.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMAR",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/52aa499e5b_112a28d43d.pdf",
   "sourceLabel": "IDX"
  }
 ];

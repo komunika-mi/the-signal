@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "5jpeq_-gBZs",
+  "title": "Hilirisasi Peternakan di Jawa Timur",
+  "category": "Industri",
+  "program": "Ruang Parlemen",
+  "summary": "Hilirisasi sektor peternakan di Jawa Timur didorong untuk meningkatkan nilai tambah produk daging, susu, dan telur, tidak hanya berhenti pada tahap produksi.",
+  "takeaway": "Topik ini relevan bagi pembaca ekonomi karena menyangkut strategi penguatan nilai tambah sektor pangan di tingkat daerah.",
+  "terbit": "2026-10-31T07:51:44+00:00"
+ },
+ {
+  "id": "lyWxmbC9PtQ",
+  "title": "Bus Trans Sulsel Hadir dengan Tarif Terjangkau",
+  "category": "Bisnis",
+  "program": "Bisnis Bareng Orang Hebat",
+  "summary": "Bus Trans Sulsel diluncurkan sebagai upaya membangun sistem transportasi publik yang terintegrasi di Sulawesi Selatan dengan tarif yang terjangkau bagi masyarakat.",
+  "takeaway": "Peluncuran layanan ini penting bagi pembaca ekonomi karena terkait investasi infrastruktur transportasi dan efisiensi mobilitas masyarakat daerah.",
+  "terbit": "2026-10-31T07:30:12+00:00"
+ },
+ {
   "id": "6751r7rti5E",
   "title": "BP Batam Raih Penghargaan atas Optimalisasi Investasi dan Infrastruktur",
   "category": "BUMN",

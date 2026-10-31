@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "5jpeq_-gBZs",
+  "title": "Hilirisasi Peternakan di Jawa Timur",
+  "category": "Industri",
+  "program": "Ruang Parlemen",
+  "summary": "Hilirisasi sektor peternakan di Jawa Timur didorong untuk meningkatkan nilai tambah produk daging, susu, dan telur, tidak hanya berhenti pada tahap produksi.",
+  "takeaway": "Topik ini relevan bagi pembaca ekonomi karena menyangkut strategi penguatan nilai tambah sektor pangan di tingkat daerah."
+ },
+ {
+  "id": "lyWxmbC9PtQ",
+  "title": "Bus Trans Sulsel Hadir dengan Tarif Terjangkau",
+  "category": "Bisnis",
+  "program": "Bisnis Bareng Orang Hebat",
+  "summary": "Bus Trans Sulsel diluncurkan sebagai upaya membangun sistem transportasi publik yang terintegrasi di Sulawesi Selatan dengan tarif yang terjangkau bagi masyarakat.",
+  "takeaway": "Peluncuran layanan ini penting bagi pembaca ekonomi karena terkait investasi infrastruktur transportasi dan efisiensi mobilitas masyarakat daerah."
+ },
+ {
   "id": "6751r7rti5E",
   "title": "BP Batam Raih Penghargaan atas Optimalisasi Investasi dan Infrastruktur",
   "category": "BUMN",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Pemerintahan Presiden Donald Trump memberi sinyal akan mencabut tarif 50 persen atas sejumlah barang asal Kanada menjelang pemilu sela di Amerika Serikat.",
   "takeaway": "Rencana pencabutan tarif ini relevan bagi pelaku usaha yang terdampak arus dagang Amerika Serikat dan Kanada."
- },
- {
-  "id": "iZ_Gd5MNwCI",
-  "title": "Realisasi Investasi Capai Rp1.539,2 Triliun hingga September 2026",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Realisasi investasi nasional periode Januari hingga September 2026 mencapai Rp1.539,2 triliun, atau 75,4 persen dari target tahun ini.",
-  "takeaway": "Data realisasi investasi jadi indikator penting kepercayaan pelaku usaha terhadap iklim investasi dalam negeri."
- },
- {
-  "id": "0e1AE_RkVi0",
-  "title": "Bahlil, Amran, OJK Paparkan Capaian 2 Tahun Pemerintahan Presiden Prabowo",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Investasi Bahlil Lahadalia, Menteri Pertanian Amran Sulaiman, dan OJK memaparkan capaian sektor ekonomi selama dua tahun pemerintahan Presiden Prabowo Subianto.",
-  "takeaway": "Paparan ini memberi gambaran kinerja ekonomi pemerintah menjelang evaluasi pertengahan periode."
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bri-peduli-kembangkan-brinita-di-bandung",
+  "category": "BUMN",
+  "title": "BRI Peduli Kembangkan [BRInita] di Bandung",
+  "deck": "BRI Peduli mengajak jurnalis Fellowship Journalism 2026 menanam langsung di program urban farming BRInita Buruan Sae Pajajaran Hegar, Kota Bandung.",
+  "image": "assets/img/bri-peduli-kembangkan-brinita-di-bandung.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T16:35:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475934-fellowship-journalism-menanam-di-brinita-buruan-sae-pajajaran-hegar-kota-bandung",
+  "tags": [
+   "BRI Peduli",
+   "BRInita",
+   "urban farming",
+   "Bandung"
+  ],
+  "body": [
+   "BRI melalui lembaga sosialnya, BRI Peduli, mengajak sejumlah jurnalis dari berbagai daerah untuk turun langsung ke lahan program BRInita atau BRI Bertani di Kota, di RW 03, Kelurahan Pajajaran, Kecamatan Cicendo, Kota Bandung, pada Jumat, 30 Oktober 2026. Kegiatan ini menjadi bagian dari rangkaian Inaugurasi BRI Fellowship Journalism 2026, sekaligus unjuk nyata bagaimana lahan sempit di tengah kota bisa diubah menjadi area tanam yang produktif. Program ini menyasar masalah klasik perkotaan, yaitu keterbatasan ruang hijau yang berpotensi mengganggu ketersediaan pangan dan kualitas lingkungan warga.",
+   "Titik BRInita di Pajajaran Hegar ini memanfaatkan lahan memanjang sekitar 60 meter dengan lebar 5 meter, atau sekitar 300 meter persegi, yang dikelola bersama warga melalui Kelompok Wanita Tani (KWT) Buruan Sae Pajajaran Hegar. Di lahan tersebut kini tumbuh sedikitnya 14 jenis sayuran dan umbi, antara lain terong, pakcoy, kangkung, bayam, tomat, brokoli, sawi romaine, kacang merah, buncis kenya, paria, katuk, ubi jalar, dan ubi yakon, selain tanaman buah serta herbal dan rempah. Keberagaman komoditas ini menunjukkan lahan sekecil itu bisa dioptimalkan untuk banyak kebutuhan pangan harian, bukan sekadar kebun hias.",
+   "Dalam kunjungan tersebut, para jurnalis tidak hanya mendengar penjelasan konsep urban farming, tetapi ikut praktik langsung bersama warga, mulai dari menyemai benih, menanam bibit, menyiram, hingga memanen hasil tanam. BRI Peduli memposisikan BRInita sebagai program pemberdayaan yang menggabungkan tiga tujuan sekaligus, yakni ketahanan pangan rumah tangga, penguatan kapasitas warga mengelola pertanian secara mandiri, dan pelestarian lingkungan di tengah padatnya kawasan urban."
+  ],
+  "fotoAdegan": "Rows of raised vegetable beds squeezed between urban houses, women tending leafy greens and chili plants in morning sunlight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/31/6ae5afe8c7ac8-brinita-buruan-sae-pajajaran-hegar-kota-bandung_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah dari berita ini adalah satu titik program CSR BRI, BRInita di Pajajaran Hegar, Bandung, yang menanami lahan sekitar 300 meter persegi dengan belasan jenis sayur dan umbi, dikelola bersama kelompok wanita tani setempat. Pihak yang langsung terdampak adalah warga RW 03 Kelurahan Pajajaran yang terlibat dalam kelompok tani tersebut, yang berpotensi mendapat tambahan pangan atau penghematan belanja dapur dari hasil kebun bersama. Berita ini belum menyebut berapa total titik BRInita yang sudah dijalankan BRI Peduli di seluruh Indonesia, berapa dana CSR yang dialokasikan, atau apakah program ini sudah terbukti menambah pendapatan maupun menekan pengeluaran pangan warga secara terukur. Tanpa angka skala dan dampak itu, belum bisa dibaca apakah BRInita ini program simbolis seremonial atau bagian dari strategi ketahanan pangan perkotaan yang akan diperluas. Yang perlu ditunggu adalah laporan CSR BRI berikutnya yang biasanya memuat jumlah titik dan penerima manfaat program ini secara nasional.",
+  "imageV": "mvw7pc1y"
+ },
+ {
   "slug": "sger-pendapatan-naik-17-laba-turun-tipis-di-kuartal-iii",
   "category": "Aksi Korporasi",
   "title": "SGER: Pendapatan Naik 17%, [Laba] Turun Tipis di Kuartal III",

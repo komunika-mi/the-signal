@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bri-peduli-kembangkan-brinita-di-bandung",
+  "category": "BUMN",
+  "title": "BRI Peduli Kembangkan [BRInita] di Bandung",
+  "deck": "BRI Peduli mengajak jurnalis Fellowship Journalism 2026 menanam langsung di program urban farming BRInita Buruan Sae Pajajaran Hegar, Kota Bandung.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/bri-peduli-kembangkan-brinita-di-bandung.jpg",
+  "imageV": "mvw7pc1y",
+  "tags": [
+   "BRI Peduli",
+   "BRInita",
+   "urban farming",
+   "Bandung"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475934-fellowship-journalism-menanam-di-brinita-buruan-sae-pajajaran-hegar-kota-bandung"
+ },
+ {
   "slug": "sger-pendapatan-naik-17-laba-turun-tipis-di-kuartal-iii",
   "category": "Aksi Korporasi",
   "title": "SGER: Pendapatan Naik 17%, [Laba] Turun Tipis di Kuartal III",
@@ -6467,22 +6484,6 @@ var ARTICLES = [
    "kredit perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24d24b287a_aabaa37f8c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mapa-liabilitas-naik-65-usai-akuisisi-sports-direct",
-  "category": "Aksi Korporasi",
-  "title": "MAPA: Liabilitas Naik 65% Usai Akuisisi [Sports Direct]",
-  "deck": "Total aset MAPA naik 35% dan liabilitas naik 65% dibanding akhir 2025, terutama akibat akuisisi Sports Direct Malaysia dan utang baru yang menyertainya.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAPA",
-   "akuisisi",
-   "laporan keuangan",
-   "utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026182358-64619-0/FinancialStatement-2026-III-MAPA.pdf",
   "sourceLabel": "IDX"
  }
 ];

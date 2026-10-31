@@ -30,6 +30,32 @@ var ARTICLES = [
   "imageV": "mvw05zio"
  },
  {
+  "slug": "smkl-utang-naik-23-kas-operasi-negatif-rp166-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SMKL: [Utang] Naik 23%, Kas Operasi Negatif Rp166 Miliar",
+  "deck": "Laporan kuartal III 2026 SMKL menunjukkan penjualan naik 15 persen, tapi utang bank melonjak 38 persen untuk pabrik baru di Batang dan kas dari operasi berbalik minus Rp166 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T12:30:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031124213-65547-0/FinancialStatement-2026-III-SMKL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMKL",
+  "tags": [
+   "SMKL",
+   "laporan keuangan kuartal III",
+   "utang bank",
+   "arus kas operasi"
+  ],
+  "body": [
+   "PT Satyamitra Kemas Lestari Tbk (SMKL) melaporkan kinerja keuangan interim untuk sembilan bulan pertama 2026, tidak diaudit, dengan periode berakhir pada 30 September 2026. Total aset perusahaan tercatat Rp3,06 triliun, naik dari Rp2,60 triliun pada akhir 2025. Penjualan bersih tumbuh 15 persen menjadi Rp1,61 triliun dari Rp1,40 triliun pada periode yang sama tahun lalu. Namun laba bersih yang menjadi hak pemegang saham induk nyaris tidak bergerak, yaitu Rp20,56 miliar, sedikit lebih rendah dari Rp20,69 miliar tahun sebelumnya, sehingga laba per saham dasar turun menjadi Rp6,01 dari Rp6,05.",
+   "Bersamaan dengan laporan keuangan itu, manajemen SMKL mengirim surat penjelasan khusus ke Bursa Efek Indonesia karena ada pos yang berubah lebih dari 20 persen, ambang batas yang mewajibkan perusahaan tercatat memberi penjelasan kepada bursa. Total liabilitas perusahaan naik 23 persen menjadi Rp2,01 triliun dari Rp1,56 triliun pada akhir 2025. Manajemen menjelaskan, kenaikan itu terutama berasal dari utang bank jangka pendek yang melonjak 38 persen menjadi Rp796,59 miliar, dipakai untuk membiayai investasi pabrik baru di Batang, Jawa Tengah. Utang usaha kepada pemasok juga naik 51 persen menjadi Rp518,82 miliar, seiring pembelian bahan baku yang membesar untuk menambah kapasitas produksi di pabrik Batang tersebut. Surat penjelasan itu ditandatangani oleh Corporate Secretary SMKL, Thie David, pada 31 Oktober 2026. Ekspansi ini turut melibatkan anak usaha PT Satyamitra Yisong Indonesia, yang 60 persen sahamnya dimiliki SMKL, telah beroperasi penuh di Jawa Tengah sejak 2025 dengan nilai aset Rp35,45 miliar.",
+   "Di sisi arus kas, aktivitas operasi perusahaan justru menyedot kas bersih Rp166,21 miliar selama sembilan bulan ini, berbalik dari kondisi tahun lalu yang masih menghasilkan kas bersih Rp77,83 miliar. Penyebabnya antara lain piutang usaha yang membesar menjadi Rp622,31 miliar dari Rp444,08 miliar. Persediaan barang juga naik menjadi Rp600,17 miliar dari Rp408,37 miliar, yang berarti uang perusahaan banyak tertahan di tagihan ke pelanggan dan stok barang yang belum terjual. Ekuitas perusahaan sendiri hanya naik tipis menjadi Rp1,05 triliun dari Rp1,04 triliun."
+  ],
+  "fotoAdegan": "Workers in blue uniforms monitoring plastic packaging extrusion machines on an industrial factory floor in Indonesia, bright overhead lighting",
+  "takeaway": "Laporan sembilan bulan SMKL ini condong negatif, sebab pertumbuhan penjualan 15 persen tidak diiringi kenaikan laba yang sepadan, bahkan laba per saham justru menyusut, sementara perusahaan harus menambah utang dalam jumlah besar untuk membiayai ekspansi. Yang tersentuh adalah arus kas operasi, yaitu uang tunai yang benar-benar diterima dari aktivitas jual beli sehari-hari, yang kali ini berbalik menjadi minus karena uang perusahaan banyak tertahan di piutang pelanggan dan stok barang, berbeda dari laba akuntansi yang masih tercatat positif di atas kertas. Kenaikan utang bank jangka pendek 38 persen juga berarti beban bunga yang harus dibayar perusahaan ke depan makin besar, sementara modal sendiri pemegang saham cuma bertambah tipis. Sisi baiknya, sebagian utang itu dipakai untuk menambah kapasitas produksi lewat pabrik baru di Batang, yang bisa mendongkrak penjualan kalau produknya terserap pasar. Yang perlu dipantau pada laporan kuartal berikutnya adalah apakah pabrik baru itu mulai menyumbang penjualan dan membuat arus kas operasi kembali positif, karena kalau tidak, beban utang SMKL akan makin terasa berat.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "kaef-rombak-utang-jangka-pendek-rugi-menyusut-ke-rp12-9-m",
   "category": "Aksi Korporasi",
   "title": "KAEF Rombak Utang Jangka Pendek, Rugi [Menyusut] ke Rp12,9 M",
@@ -1836,6 +1862,138 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret adalah porsi penjualan kendaraan listrik dalam total pendapatan VKTR, naik dari 14 persen jadi 17 persen dalam setahun, dengan nilai penjualannya melonjak 91 persen ke Rp186 miliar. Tapi porsi itu tetap kecil karena bisnis manufaktur suku cadang otomotif konvensional masih menyumbang sekitar 83 persen dari total pendapatan, dan segmen ini justru ikut terdorong oleh pertumbuhan pasar kendaraan komersial nasional sebesar 42 persen menurut data Gaikindo. Yang terdampak langsung adalah pemegang saham VKTR, termasuk Grup Bakrie selaku pengendali, serta pelaku industri suku cadang otomotif yang jadi penopang utama kinerja perusahaan ini. Arah yang terlihat dari data ini adalah pertumbuhan VKTR untuk saat ini masih lebih mengandalkan siklus industri otomotif konvensional ketimbang transisi ke kendaraan listrik, meski porsi EV terus naik dari tahun ke tahun. Yang akan menentukan apakah pola ini bergeser adalah laporan kinerja kuartal berikutnya serta data penjualan kendaraan komersial Gaikindo, untuk melihat apakah kenaikan 42 persen itu bertahan atau cuma lonjakan sesaat.",
   "imageV": "mvv21opn"
+ },
+ {
+  "slug": "mmix-liabilitas-melonjak-ke-rp246-5-miliar-per-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: [Liabilitas] Melonjak ke Rp246,5 Miliar per Kuartal III",
+  "deck": "MMIX melaporkan keuangan interim kuartal III 2026, liabilitas melonjak lima kali lipat dalam sembilan bulan sementara ekuitas nyaris stagnan dan laba per saham turun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T19:57:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030200555-65043-0/FinancialStatement-2026-III-MMIX.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MMIX",
+  "tags": [
+   "MMIX",
+   "laporan keuangan",
+   "liabilitas",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Multi Medika Internasional Tbk (MMIX) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan per 30 September 2026, disertai surat penjelasan kepada OJK dan PT Bursa Efek Indonesia tertanggal 29 Oktober 2026 yang ditandatangani Direktur Utama Mengky Mangarek. Surat itu menjelaskan sejumlah pos aset dan liabilitas yang berubah lebih dari 20 persen dibandingkan akhir Desember 2025.",
+   "Dari sisi aset, kas dan setara kas perusahaan turun 68 persen dari Rp30,09 miliar menjadi Rp9,72 miliar, yang menurut perusahaan terjadi karena dana itu berpindah menjadi piutang usaha. Piutang usaha pihak ketiga memang naik 70 persen dari Rp43,44 miliar menjadi Rp73,65 miliar karena ada tagihan baru yang belum jatuh tempo, sementara uang muka naik 57 persen dari Rp56,6 miliar menjadi Rp88,64 miliar untuk pembelian persediaan.",
+   "Yang paling mencolok ada di sisi liabilitas: jumlah liabilitas melonjak dari Rp48,55 miliar per akhir 2025 menjadi Rp246,5 miliar per September 2026. Utang pajak naik 72 persen menjadi Rp26,71 miliar karena tambahan utang PPN dan PPh 21, sementara beban masih harus dibayar melonjak 449 persen menjadi Rp6,12 miliar karena bunga pinjaman yang belum dibayar. Di laporan posisi keuangan juga muncul pos baru utang lain-lain senilai Rp149,66 miliar untuk jangka pendek dan Rp29,34 miliar untuk jangka panjang, yang sebelumnya tercatat nol, sedangkan pos dana syirkah temporer senilai Rp184,17 miliar yang ada di laporan akhir 2025 kini tidak lagi muncul. Surat penjelasan perusahaan sendiri tidak menyinggung kedua perubahan pos ini, hanya membahas utang usaha, utang pajak, beban akrual, dan pelunasan pinjaman lembaga keuangan.",
+   "Di laporan laba rugi, pendapatan sembilan bulan turun tipis dari Rp137,99 miliar menjadi Rp137,12 miliar, tetapi laba kotor justru naik dari Rp83,52 miliar menjadi Rp84,35 miliar karena beban pokok pendapatan berkurang. Laba bersih periode berjalan naik dari Rp2,13 miliar menjadi Rp2,61 miliar, namun laba per saham dasar turun dari Rp0,89 menjadi Rp0,54 karena jumlah saham beredar berlipat dua, dari 2.400.212.690 lembar menjadi 4.800.425.380 lembar, setelah pembagian dividen saham pada akhir 2025. Ekuitas perusahaan sendiri hanya naik tipis dari Rp186,14 miliar menjadi Rp188,62 miliar."
+  ],
+  "fotoAdegan": "Warehouse staff stacking boxes of medical supplies onto pallets inside a distribution facility, forklift nearby, fluorescent lighting",
+  "takeaway": "Laporan ini condong negatif bagi MMIX, karena total liabilitas melonjak dari Rp48,55 miliar menjadi Rp246,5 miliar hanya dalam sembilan bulan, jauh lebih cepat daripada pertumbuhan modal sendiri perusahaan. Pos yang tersentuh adalah struktur permodalan: ekuitas atau modal sendiri pemegang saham hanya naik dari Rp186,14 miliar menjadi Rp188,62 miliar, sehingga porsi pembiayaan dari utang kini jauh lebih besar dibanding modal sendiri, dan itu berarti perusahaan punya lebih banyak kewajiban yang mengikat ke pihak luar. Laba bersih sembilan bulan memang naik dari Rp2,13 miliar menjadi Rp2,61 miliar, tetapi laba per saham, yaitu bagian laba untuk setiap lembar saham yang dipegang investor, justru turun dari Rp0,89 menjadi Rp0,54 karena jumlah saham beredar berlipat dua akibat dividen saham tahun lalu. Yang perlu dicermati, surat penjelasan perusahaan ke OJK dan BEI tidak membahas munculnya utang lain-lain baru senilai sekitar Rp179 miliar, padahal nilainya mendekati pos dana syirkah temporer Rp184,17 miliar yang hilang dari laporan akhir 2025, sehingga belum jelas apakah ini sekadar perpindahan pencatatan atau benar-benar utang baru. Pembaca sebaiknya menunggu laporan keuangan tahunan 2026 dan penjelasan lanjutan perusahaan untuk memastikan sifat lonjakan liabilitas ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "icbp-penjualan-9m26-naik-15-marjin-tergerus-biaya",
+  "category": "Aksi Korporasi",
+  "title": "ICBP: Penjualan 9M26 Naik 15%, [Marjin] Tergerus Biaya",
+  "deck": "Penjualan sembilan bulan ICBP naik 15% menjadi Rp64,45 triliun, tapi marjin laba usaha turun ke 21,2% akibat kenaikan biaya bahan baku dan logistik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T19:55:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/387eaea864_387f2a6dfc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ICBP",
+  "tags": [
+   "ICBP",
+   "kinerja keuangan",
+   "consumer goods",
+   "Indofood CBP"
+  ],
+  "body": [
+   "PT Indofood CBP Sukses Makmur Tbk (ICBP) mengumumkan kinerja keuangan untuk periode sembilan bulan yang berakhir pada 30 September 2026. Penjualan neto konsolidasi Perseroan tumbuh 15 persen menjadi Rp64,45 triliun, dari Rp56,27 triliun pada periode yang sama tahun sebelumnya.",
+   "Laba usaha ikut naik 7 persen menjadi Rp13,67 triliun dari Rp12,74 triliun. Namun marjin laba usaha, yakni porsi keuntungan dari setiap rupiah penjualan, turun menjadi 21,2 persen dari 22,6 persen setahun sebelumnya. Perseroan menyebut penyebabnya adalah kenaikan beban bahan baku, bahan kemasan, dan logistik. Core profit, yaitu laba yang dihitung tanpa memasukkan pos non-rutin dan selisih kurs sehingga lebih mencerminkan kinerja operasional sehari-hari, naik 5 persen menjadi Rp8,04 triliun dari Rp7,69 triliun, didorong oleh hasil operasional yang membaik.",
+   "Direktur Utama dan Chief Executive Officer ICBP, Anthoni Salim, mengatakan di tengah kondisi global yang fluktuatif dan penuh ketidakpastian, Perseroan tetap fokus memperkuat rantai pasok guna menjaga daya saing pasar dan profitabilitas yang sehat selama sembilan bulan pertama 2026. Ia menambahkan Perseroan akan terus menghadirkan produk yang relevan dan mudah dijangkau, sembari mengoptimalkan efisiensi operasional dan mengelola biaya secara disiplin."
+  ],
+  "fotoAdegan": "Workers checking rows of instant noodle cups moving along a conveyor belt inside a large food processing factory, bright industrial lighting",
+  "takeaway": "Laporan ini condong netral karena pertumbuhan penjualan yang kuat tidak diiringi pertumbuhan laba yang sebanding, akibat marjin laba usaha yang tergerus dari 22,6 persen menjadi 21,2 persen. Pos yang tersentuh di sini adalah marjin laba usaha, yaitu seberapa besar bagian dari penjualan yang benar-benar menjadi keuntungan setelah menutup biaya produksi. Pelaku pasar mencermati pos ini karena kalau biaya bahan baku dan logistik terus naik lebih cepat dari harga jual, porsi laba yang sampai ke pemegang saham ikut menyusut meski penjualan tetap tumbuh. Yang perlu dipantau berikutnya adalah apakah tekanan biaya bahan baku dan logistik ini mereda atau berlanjut, yang akan terlihat dari laporan kinerja tahun penuh 2026 yang biasanya dirilis awal tahun berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "laba-pnse-melonjak-dari-penjualan-tanah-okupansi-turun",
+  "category": "Aksi Korporasi",
+  "title": "Laba PNSE [Melonjak] Dari Penjualan Tanah, Okupansi Turun",
+  "deck": "Laba bersih PNSE sembilan bulan 2026 melonjak ke Rp70,2 miliar karena penjualan tanah, namun laba usaha hotel turun 44 persen dan satu hotel di Flores tutup akibat gempa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T19:52:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030195922-65533-0/FinancialStatement-2026-III-PNSE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNSE",
+  "tags": [
+   "PNSE",
+   "laporan keuangan",
+   "perhotelan",
+   "Pudjiadi & Sons"
+  ],
+  "body": [
+   "PT Pudjiadi & Sons Tbk (PNSE) menyampaikan laporan keuangan konsolidasian tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan departemental, yakni gabungan pendapatan dari kamar, makanan dan minuman, serta pendapatan lain hotel, turun dari Rp167,38 miliar pada periode yang sama tahun 2025 menjadi Rp160,38 miliar. Laba usaha ikut turun tajam dari Rp43,17 miliar menjadi Rp24,25 miliar, mencerminkan pelemahan bisnis inti perhotelan Perseroan.",
+   "Meski begitu, laba bersih tahun berjalan justru melonjak dari Rp7,74 miliar menjadi Rp70,23 miliar, dan laba per saham berbalik dari rugi Rp2 menjadi untung Rp81 per saham. Lonjakan ini terutama berasal dari pos laba penjualan aset tetap senilai Rp78,41 miliar, bukan dari kinerja operasional kamar dan restoran. Penjualan aset ini terkait pelepasan tanah milik entitas anak BRB di Blok A, yang telah disetujui pemegang saham dalam RUPS Luar Biasa 30 Juni 2026 dan diikat lewat akta jual beli pada 6 Juli 2026 di hadapan Notaris Jolanda Imelda Kalalo di Denpasar, Bali.",
+   "Perseroan menjelaskan, kondisi sembilan bulan 2026 belum sebaik periode sama tahun lalu karena tingkat hunian hotel menurun sehingga pendapatan ikut tergerus. Kas dan setara kas turun 28,9 persen menjadi Rp33,65 miliar, antara lain karena Perseroan melunasi utang bank ke Bank Mandiri lebih cepat untuk mengurangi beban bunga di masa depan. Hotel Jayakarta Suites Komodo Flores milik entitas anak, PT Hotel Jayakarta Flores, juga tutup sejak 16 Agustus 2026 akibat gempa bumi yang terjadi sehari sebelumnya.",
+   "Di sisi liabilitas, utang lain-lain kepada pihak ketiga turun dari Rp66,14 miliar menjadi Rp17,37 miliar sejalan dengan pengakuan transaksi penjualan tanah tersebut. Sementara itu, utang dividen entitas anak Hotel Jayakarta Jakarta (HJW) kepada pemegang saham nonpengendali naik dari Rp385,89 juta menjadi Rp3,57 miliar berdasarkan keputusan RUPS 10 Juni 2026, dan sampai akhir September 2026 belum dibayarkan. Total ekuitas Perseroan naik dari Rp192,24 miliar menjadi Rp257,16 miliar."
+  ],
+  "fotoAdegan": "A quiet oceanfront resort with shuttered windows and an empty pool deck, tropical plants, overcast morning light in eastern Indonesia",
+  "takeaway": "Laporan ini condong netral, karena laba bersih yang melonjak hampir sepuluh kali lipat tidak datang dari bisnis inti hotel yang justru melemah, melainkan dari keuntungan sekali waktu menjual tanah anak usahanya. Yang tersentuh di sini adalah laba usaha, yakni selisih pendapatan dan beban dari operasional hotel sehari-hari, yang justru turun 44 persen seiring tingkat hunian kamar yang menurun dan satu hotel di Flores yang tutup akibat gempa. Laba per saham, yakni bagian laba bersih untuk setiap lembar saham yang dipegang investor, memang berbalik dari rugi menjadi untung Rp81, tetapi pembaca perlu tahu kenaikan itu terdongkrak pos luar usaha, bukan kinerja kamar dan restoran yang dijual Perseroan setiap hari. Ekuitas, yakni kekayaan bersih perusahaan setelah dikurangi utang, memang naik dari Rp192,2 miliar ke Rp257,2 miliar berkat hasil penjualan tanah itu, sehingga posisi keuangan membaik meski operasionalnya melambat. Yang perlu dipantau berikutnya adalah pembayaran utang dividen anak usaha HJW kepada pemegang saham nonpengendali yang sampai akhir September 2026 belum dibayar, serta dampak penutupan Hotel Jayakarta Suites Komodo Flores pasca gempa terhadap pendapatan pada laporan kuartal berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smra-laba-bersih-turun-26-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMRA: Laba Bersih [Turun] 26% di Kuartal III 2026",
+  "deck": "Pendapatan Summarecon turun tipis dalam sembilan bulan 2026, tapi laba bersih untuk pemegang saham induk anjlok 26,3 persen akibat beban bunga yang melonjak seiring utang jangka panjang membesar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T19:46:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030195512-65391-0/FinancialStatement-2026-III-SMRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMRA",
+  "tags": [
+   "SMRA",
+   "Summarecon Agung",
+   "laporan keuangan",
+   "properti"
+  ],
+  "body": [
+   "PT Summarecon Agung Tbk (SMRA) menyampaikan laporan keuangan interim konsolidasian untuk sembilan bulan yang berakhir 30 September 2026, tidak diaudit, kepada Bursa Efek Indonesia pada 30 Oktober 2026. Pendapatan neto perusahaan tercatat Rp6,28 triliun, turun 2,1 persen dari Rp6,41 triliun pada periode yang sama tahun lalu. Namun laba bersih yang menjadi hak pemegang saham induk merosot lebih dalam, 26,3 persen, dari Rp549,58 miliar menjadi Rp404,79 miliar. Laba per saham dasar ikut turun dari Rp33,29 menjadi Rp24,52 per saham.",
+   "Laba usaha turun dari Rp1,91 triliun menjadi Rp1,83 triliun, sementara beban bunga naik 12,8 persen dari Rp878,54 miliar menjadi Rp990,86 miliar, salah satu pemicu susutnya laba bersih. Porsi laba yang jatuh ke pemegang saham nonpengendali di anak-anak usaha yang tidak sepenuhnya dimiliki SMRA relatif stabil di Rp316,89 miliar, sehingga penurunan terasa lebih berat bagi pemegang saham induk perusahaan.",
+   "Di sisi posisi keuangan, total aset SMRA naik 11,9 persen menjadi Rp42,91 triliun per 30 September 2026 dari Rp38,34 triliun pada akhir 2025, didorong kas dan setara kas yang melonjak 43,5 persen menjadi Rp4,85 triliun. Struktur utang bank bergeser: utang bank jangka pendek turun 12,2 persen menjadi Rp6,76 triliun, sementara utang bank jangka panjang melonjak lebih dari dua kali lipat, dari Rp2,39 triliun menjadi Rp5,44 triliun. Total liabilitas naik 18 persen menjadi Rp26,35 triliun, sedangkan total ekuitas naik 3,5 persen menjadi Rp16,56 triliun dari Rp16,00 triliun pada akhir tahun lalu."
+  ],
+  "fotoAdegan": "Construction cranes and scaffolding rising above an unfinished apartment tower at a suburban building site, hazy afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental SMRA, karena laba bersih untuk pemegang saham induk turun 26,3 persen padahal pendapatan cuma melorot 2,1 persen, tanda bahwa beban perusahaan, terutama bunga utang, naik lebih cepat daripada pertumbuhan bisnisnya. Yang tersentuh adalah laba per saham, yang ikut turun dari Rp33,29 menjadi Rp24,52, serta beban bunga yang naik seiring utang bank jangka panjang SMRA melonjak lebih dari dua kali lipat menjadi Rp5,44 triliun. Laba per saham penting karena itu ukuran langsung berapa keuntungan yang didapat investor dari setiap lembar saham yang dipegangnya, sementara beban bunga yang naik berarti sebagian keuntungan perusahaan terserap untuk membayar utang, bukan untuk pemegang saham. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang biasanya wajib disampaikan paling lambat akhir Maret 2027, untuk melihat apakah tren penurunan laba ini berlanjut atau terkoreksi pada kuartal terakhir tahun ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pdes-bukukan-pendapatan-rp412-miliar-laba-pemilik-turun-4",
+  "category": "Aksi Korporasi",
+  "title": "PDES Bukukan Pendapatan Rp412 Miliar, [Laba] Pemilik Turun 4%",
+  "deck": "Pendapatan PDES naik 7,5 persen di kuartal III 2026, tapi laba bersih untuk pemegang saham induk turun 4 persen karena beban operasional naik lebih cepat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T19:43:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030195227-65364-0/FinancialStatement-2026-III-PDES.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PDES",
+  "tags": [
+   "PDES",
+   "Laporan Keuangan",
+   "Pariwisata",
+   "Laba Bersih"
+  ],
+  "body": [
+   "PT Destinasi Tirta Nusantara Tbk (PDES), operator jasa perjalanan wisata yang menaungi jaringan agen Panorama, menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan pada 30 Oktober 2026. Pendapatan konsolidasian perusahaan naik 7,5 persen menjadi Rp411,96 miliar, dari Rp383,03 miliar pada periode yang sama tahun sebelumnya. Namun laba bersih yang menjadi hak pemegang saham induk justru turun 4 persen menjadi Rp19,77 miliar, dari Rp20,60 miliar, karena beban penjualan serta beban umum dan administrasi naik lebih cepat dibanding laba kotor yang nyaris tidak bergerak dari Rp84,13 miliar menjadi Rp84,72 miliar.",
+   "Di sisi lain, beban bunga dan biaya pinjaman perusahaan turun tajam dari Rp18,60 miliar menjadi Rp7,89 miliar, atau turun 57,6 persen dibanding tahun sebelumnya. Kas dan simpanan di bank juga melonjak dari Rp32,25 miliar menjadi Rp87,67 miliar per akhir September 2026, ditambah deposito berjangka yang dibatasi penggunaannya senilai Rp15,31 miliar yang sebelumnya tidak ada. Total ekuitas perusahaan naik 12,9 persen menjadi Rp125,95 miliar, sementara total aset bertambah 8,9 persen menjadi Rp344,21 miliar. Sepanjang sembilan bulan ini, PDES membagikan dividen tunai Rp715 juta kepada pemegang saham induk, sementara entitas anak usahanya membagikan dividen Rp11,77 miliar kepada pemegang saham minoritas di tingkat anak usaha, yang membuat porsi ekuitas milik pihak non pengendali turun dari Rp13,94 miliar menjadi Rp8,53 miliar.",
+   "Laporan ini juga memuat daftar delapan entitas anak PDES yang bergerak di jasa perjalanan wisata dan biro perjalanan, antara lain Panorama Destination di Malaysia, Vietnam, Thailand, dan Singapura, PT Destinasi Garuda Wisata di Yogyakarta, serta PT Panorama Destinasi Indonesia dan PT Destinasi Alam Indonesia di Jakarta, dengan porsi kepemilikan PDES berkisar dari 49 persen hingga 100 persen."
+  ],
+  "fotoAdegan": "Travelers pulling suitcases through a busy airport terminal departure hall in Jakarta, morning light through tall windows",
+  "takeaway": "Laporan ini kami nilai netral bagi PDES, karena sinyal positif dan negatifnya saling menutupi, pendapatan tumbuh tapi laba yang benar-benar masuk ke kantong pemegang saham induk justru menyusut. Yang tersentuh adalah margin laba dan beban bunga, laba kotor yang nyaris tidak naik walau pendapatan tumbuh 7,5 persen menandakan biaya operasional naik lebih cepat, sementara beban bunga yang turun hampir separuh menunjukkan perusahaan kini membayar bunga pinjaman lebih ringan. Laba per saham, yaitu bagian laba yang jadi hak tiap lembar saham publik, otomatis ikut turun karena laba untuk pemegang saham induk mengecil sementara jumlah saham tidak berubah. Yang perlu dipantau pemegang saham selanjutnya adalah laporan keuangan tahun penuh 2026 yang diaudit, yang biasanya terbit awal tahun depan, untuk melihat apakah penyusutan margin ini berlanjut atau membaik di kuartal terakhir.",
+  "sentimen": "netral"
  },
  {
   "slug": "kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul",

@@ -22,6 +22,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475896-kinerja-bnbr-kuartal-iii-2026-melesat-pendapatan-naik-5545-dan-gross-profit-melonjak-12782"
  },
  {
+  "slug": "smkl-utang-naik-23-kas-operasi-negatif-rp166-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SMKL: [Utang] Naik 23%, Kas Operasi Negatif Rp166 Miliar",
+  "deck": "Laporan kuartal III 2026 SMKL menunjukkan penjualan naik 15 persen, tapi utang bank melonjak 38 persen untuk pabrik baru di Batang dan kas dari operasi berbalik minus Rp166 miliar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMKL",
+   "laporan keuangan kuartal III",
+   "utang bank",
+   "arus kas operasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031124213-65547-0/FinancialStatement-2026-III-SMKL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kaef-rombak-utang-jangka-pendek-rugi-menyusut-ke-rp12-9-m",
   "category": "Aksi Korporasi",
   "title": "KAEF Rombak Utang Jangka Pendek, Rugi [Menyusut] ke Rp12,9 M",
@@ -1131,6 +1147,86 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475817-pendapatan-vktr-tumbuh-49-pada-9m26-kontribusi-kendaraan-listrik-terus-meningkat"
+ },
+ {
+  "slug": "mmix-liabilitas-melonjak-ke-rp246-5-miliar-per-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: [Liabilitas] Melonjak ke Rp246,5 Miliar per Kuartal III",
+  "deck": "MMIX melaporkan keuangan interim kuartal III 2026, liabilitas melonjak lima kali lipat dalam sembilan bulan sementara ekuitas nyaris stagnan dan laba per saham turun.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MMIX",
+   "laporan keuangan",
+   "liabilitas",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030200555-65043-0/FinancialStatement-2026-III-MMIX.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "icbp-penjualan-9m26-naik-15-marjin-tergerus-biaya",
+  "category": "Aksi Korporasi",
+  "title": "ICBP: Penjualan 9M26 Naik 15%, [Marjin] Tergerus Biaya",
+  "deck": "Penjualan sembilan bulan ICBP naik 15% menjadi Rp64,45 triliun, tapi marjin laba usaha turun ke 21,2% akibat kenaikan biaya bahan baku dan logistik.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ICBP",
+   "kinerja keuangan",
+   "consumer goods",
+   "Indofood CBP"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/387eaea864_387f2a6dfc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-pnse-melonjak-dari-penjualan-tanah-okupansi-turun",
+  "category": "Aksi Korporasi",
+  "title": "Laba PNSE [Melonjak] Dari Penjualan Tanah, Okupansi Turun",
+  "deck": "Laba bersih PNSE sembilan bulan 2026 melonjak ke Rp70,2 miliar karena penjualan tanah, namun laba usaha hotel turun 44 persen dan satu hotel di Flores tutup akibat gempa.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNSE",
+   "laporan keuangan",
+   "perhotelan",
+   "Pudjiadi & Sons"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030195922-65533-0/FinancialStatement-2026-III-PNSE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smra-laba-bersih-turun-26-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMRA: Laba Bersih [Turun] 26% di Kuartal III 2026",
+  "deck": "Pendapatan Summarecon turun tipis dalam sembilan bulan 2026, tapi laba bersih untuk pemegang saham induk anjlok 26,3 persen akibat beban bunga yang melonjak seiring utang jangka panjang membesar.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMRA",
+   "Summarecon Agung",
+   "laporan keuangan",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030195512-65391-0/FinancialStatement-2026-III-SMRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pdes-bukukan-pendapatan-rp412-miliar-laba-pemilik-turun-4",
+  "category": "Aksi Korporasi",
+  "title": "PDES Bukukan Pendapatan Rp412 Miliar, [Laba] Pemilik Turun 4%",
+  "deck": "Pendapatan PDES naik 7,5 persen di kuartal III 2026, tapi laba bersih untuk pemegang saham induk turun 4 persen karena beban operasional naik lebih cepat.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PDES",
+   "Laporan Keuangan",
+   "Pariwisata",
+   "Laba Bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030195227-65364-0/FinancialStatement-2026-III-PDES.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul",
@@ -6387,102 +6483,6 @@ var ARTICLES = [
    "Anggaran Dasar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/52aa499e5b_112a28d43d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tbig-raih-afirmasi-peringkat-aa-idn-dari-fitch-outlook-stabil",
-  "category": "Aksi Korporasi",
-  "title": "TBIG Raih Afirmasi Peringkat [AA+(idn)] dari Fitch, Outlook Stabil",
-  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang TBIG dan seluruh obligasi serta sukuknya di AA+(idn) dengan outlook stabil.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TBIG",
-   "Fitch Ratings",
-   "obligasi korporasi",
-   "peringkat kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/590457ae68_3bbb57db59.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "city-gelar-public-expose-9-november-laba-naik-50",
-  "category": "Aksi Korporasi",
-  "title": "CITY Gelar [Public Expose] 9 November, Laba Naik 50%",
-  "deck": "Natura City Developments akan menggelar public expose tahunan 9 November 2026, membawa data laba bersih sembilan bulan 2026 yang naik hampir 50 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CITY",
-   "Natura City Developments",
-   "public expose",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/d5d912a394_e203ad9528.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tguk-keluar-dari-papan-pemantauan-khusus-bei-per-27-oktober",
-  "category": "Aksi Korporasi",
-  "title": "TGUK [Keluar] dari Papan Pemantauan Khusus BEI per 27 Oktober",
-  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham PT Platinum Wahab Nusantara Tbk. (TGUK), efektif 27 Oktober 2026.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGUK",
-   "Pemantauan Khusus",
-   "BEI",
-   "Papan Pencatatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/ab60a0cb90_97a7d4d577.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bnga-jelaskan-volatilitas-saham-pengendali-belum-ambil-keputusan",
-  "category": "Aksi Korporasi",
-  "title": "BNGA Jelaskan Volatilitas Saham, [Pengendali] Belum Ambil Keputusan",
-  "deck": "Bank CIMB Niaga menjawab permintaan BEI soal volatilitas transaksi sahamnya, dan menyebut pemegang saham pengendali belum mengambil keputusan final soal kepemilikannya.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BNGA",
-   "Bank CIMB Niaga",
-   "volatilitas saham",
-   "pemegang saham pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6aad73381b_702e90ce2c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oils-laba-kuartal-iii-naik-4-kali-lipat-utang-ikut-membengkak",
-  "category": "Aksi Korporasi",
-  "title": "OILS: Laba Kuartal III Naik 4 Kali Lipat, [Utang] Ikut Membengkak",
-  "deck": "Laba bersih OILS melonjak jadi Rp23,7 miliar dalam sembilan bulan 2026 seiring penjualan tumbuh 46 persen, namun kas menyusut dan utang jangka pendek naik tajam.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OILS",
-   "laporan keuangan",
-   "laba bersih",
-   "Indo Oil Perkasa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026094947-64707-0/FinancialStatement-2026-III-OILS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-komisaris-koreksi-laporan-hak-suara-ke-12-19",
-  "category": "Aksi Korporasi",
-  "title": "BAJA: Komisaris Koreksi Laporan, Hak Suara ke [12,19%]",
-  "deck": "Ibnu Susanto, Komisaris Saranacentral Bajatama, mengoreksi laporan kepemilikan saham: hak suaranya turun dari 22,23 persen menjadi 12,19 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAJA",
-   "Saranacentral Bajatama",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8777-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

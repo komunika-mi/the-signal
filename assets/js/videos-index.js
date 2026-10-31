@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "esz4Qyy2oAE",
+  "title": "Hashim Ingatkan Risiko Rupiah Tembus Rp22.000 per Dolar AS",
+  "category": "Moneter",
+  "program": "OneNews Update",
+  "summary": "Ketua Dewan Penasihat Kadin Indonesia, Hashim Djojohadikusumo, memperingatkan potensi pelemahan rupiah hingga menyentuh Rp22.000 per dolar AS terkait isu klasifikasi MSCI terhadap pasar modal Indonesia.",
+  "takeaway": "Peringatan ini layak disimak karena menyangkut risiko stabilitas nilai tukar rupiah yang bisa memengaruhi biaya impor dan arus investasi asing."
+ },
+ {
+  "id": "O3QkCSXebAs",
+  "title": "Wamendagri: Insentif Fiskal Rp1 Triliun Bukan Khusus MBG",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Wakil Menteri Dalam Negeri Bima Arya Sugiarto menegaskan anggaran insentif fiskal sebesar Rp1 triliun bukan dana khusus untuk program Makan Bergizi Gratis, melainkan untuk daerah secara umum.",
+  "takeaway": "Klarifikasi ini penting bagi pembaca karena menyangkut arah penggunaan anggaran insentif fiskal daerah yang bersumber dari APBN."
+ },
+ {
   "id": "5jpeq_-gBZs",
   "title": "Hilirisasi Peternakan di Jawa Timur",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Menteri ESDM Bahlil Lahadalia menanggapi pernyataan Perdana Menteri Singapura Lawrence Wong terkait kebijakan Indonesia memangkas ekspor gas bumi untuk memenuhi kebutuhan domestik.",
   "takeaway": "Kebijakan ini penting dipantau karena menyangkut keseimbangan antara pasokan energi domestik dan komitmen ekspor ke mitra dagang."
- },
- {
-  "id": "YxeMsaUFt1M",
-  "title": "Indonesia Pangkas Ekspor Gas, PM Singapura Respons Begini",
-  "category": "Energi",
-  "program": "OneNews Update",
-  "summary": "Pemerintah Indonesia memutuskan mengurangi pasokan ekspor gas bumi ke Singapura pada akhir pekan lalu, langkah yang mendapat respons dari Perdana Menteri Singapura Lawrence Wong.",
-  "takeaway": "Perubahan arah ekspor gas ini berpotensi memengaruhi hubungan energi regional dan layak disimak pelaku industri energi."
- },
- {
-  "id": "yWHDFVC320Q",
-  "title": "Presiden Trump Beri Sinyal Hapus Tarif Barang Kanada",
-  "category": "Global",
-  "program": "OneNews Update",
-  "summary": "Pemerintahan Presiden Donald Trump memberi sinyal akan mencabut tarif 50 persen atas sejumlah barang asal Kanada menjelang pemilu sela di Amerika Serikat.",
-  "takeaway": "Rencana pencabutan tarif ini relevan bagi pelaku usaha yang terdampak arus dagang Amerika Serikat dan Kanada."
  }
 ];

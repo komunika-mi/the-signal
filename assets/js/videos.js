@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "esz4Qyy2oAE",
+  "title": "Hashim Ingatkan Risiko Rupiah Tembus Rp22.000 per Dolar AS",
+  "category": "Moneter",
+  "program": "OneNews Update",
+  "summary": "Ketua Dewan Penasihat Kadin Indonesia, Hashim Djojohadikusumo, memperingatkan potensi pelemahan rupiah hingga menyentuh Rp22.000 per dolar AS terkait isu klasifikasi MSCI terhadap pasar modal Indonesia.",
+  "takeaway": "Peringatan ini layak disimak karena menyangkut risiko stabilitas nilai tukar rupiah yang bisa memengaruhi biaya impor dan arus investasi asing.",
+  "terbit": "2026-10-31T11:30:04+00:00"
+ },
+ {
+  "id": "O3QkCSXebAs",
+  "title": "Wamendagri: Insentif Fiskal Rp1 Triliun Bukan Khusus MBG",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Wakil Menteri Dalam Negeri Bima Arya Sugiarto menegaskan anggaran insentif fiskal sebesar Rp1 triliun bukan dana khusus untuk program Makan Bergizi Gratis, melainkan untuk daerah secara umum.",
+  "takeaway": "Klarifikasi ini penting bagi pembaca karena menyangkut arah penggunaan anggaran insentif fiskal daerah yang bersumber dari APBN.",
+  "terbit": "2026-10-31T11:21:04+00:00"
+ },
+ {
   "id": "5jpeq_-gBZs",
   "title": "Hilirisasi Peternakan di Jawa Timur",
   "category": "Industri",

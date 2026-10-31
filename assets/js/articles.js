@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pajak-ekonomi-digital-tembus-rp58-75-triliun-per-september",
+  "category": "Makroekonomi",
+  "title": "Pajak Ekonomi Digital [Tembus] Rp58,75 Triliun per September",
+  "deck": "DJP mencatat penerimaan pajak ekonomi digital Rp58,75 triliun hingga September 2026, dengan pajak dagang elektronik lintas negara sebagai penyumbang terbesar.",
+  "image": "assets/img/pajak-ekonomi-digital-tembus-rp58-75-triliun-per-september.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T12:07:04.911Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pajak-ekonomi-digital-tembus-rp5875-triliun-hingga-september-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "pajak digital",
+   "DJP",
+   "PMSE",
+   "pajak kripto"
+  ],
+  "body": [
+   "Direktorat Jenderal Pajak (DJP) mencatat penerimaan pajak dari aktivitas ekonomi digital mencapai Rp58,75 triliun hingga akhir September 2026. Angka ini terkumpul dari empat jalur pemungutan, yaitu transaksi dagang elektronik lintas negara atau PMSE, aset kripto, pinjaman daring atau fintech, serta pengadaan barang dan jasa pemerintah lewat sistem elektronik atau SIPP. Data ini menunjukkan sektor digital, yang sebagian pelakunya berbasis di luar negeri, kini menjadi sumber penerimaan negara yang rutin dipantau DJP.",
+   "Dari total tersebut, pajak atas transaksi dagang elektronik lintas negara jadi penyumbang terbesar dengan Rp45,21 triliun, diikuti pajak pengadaan pemerintah Rp5,96 triliun, pajak fintech Rp5,40 triliun, dan pajak aset kripto Rp2,18 triliun. Penerimaan dari jalur PMSE ini tumbuh dari hanya Rp731,4 miliar pada 2020, saat aturan ini baru berlaku, menjadi Rp10,32 triliun sepanjang 2025. Sembilan bulan pertama 2026 saja sudah mengumpulkan Rp9,54 triliun, hampir menyamai total setahun 2025.",
+   "Hingga akhir September 2026, DJP telah menunjuk 280 perusahaan penyedia layanan digital dari luar negeri sebagai pemungut PPN, dan 245 di antaranya sudah benar-benar menyetor pajaknya. Tiga perusahaan baru ditunjuk sepanjang September, yaitu Namecheap Inc., Airwallex Commercelink (Netherlands) B.V., dan Airwallex Digital (Netherlands) B.V., sementara data pemungut Niantic International Ltd juga diperbarui. Daftar pemungut ini jadi acuan bagi konsumen Indonesia untuk mengetahui platform digital asing mana yang memang wajib memungut PPN atas transaksi mereka.",
+   "Di sektor pinjaman daring, setoran pajak naik dari Rp446,39 miliar pada 2022 ke puncaknya Rp1,48 triliun pada 2024, sebelum melandai jadi Rp989,53 miliar sepanjang Januari-September 2026. Pajak dari transaksi aset kripto justru menyusut tajam, dari Rp796,74 miliar sepanjang 2025 menjadi hanya Rp300,28 miliar dalam sembilan bulan pertama 2026. Sebaliknya, pajak dari pengadaan barang dan jasa pemerintah melonjak ke Rp1,89 triliun hingga September 2026, sudah melampaui total setahun 2025 yang sebesar Rp1,23 triliun."
+  ],
+  "fotoAdegan": "Workers sorting parcels on conveyor belts in a busy e-commerce fulfillment warehouse, bright industrial lighting",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Di balik angka total yang terlihat solid, arah tiap sektor sebenarnya berbeda-beda. Pajak dari transaksi dagang elektronik lintas negara dan dari pengadaan barang pemerintah sama-sama mempercepat laju, bahkan setoran dari pengadaan pemerintah dalam sembilan bulan 2026 saja sudah melampaui total setahun 2025. Sebaliknya, pajak dari aset kripto anjlok jauh dari capaian 2025, menandakan transaksi atau kepatuhan di sektor itu melemah, sementara pelaku usaha yang terdampak jelas berbeda: penyedia barang dan jasa pemerintah kena pemungutan lebih ketat, sedangkan pengguna platform kripto justru menyumbang lebih kecil ke kas negara. Penambahan tiga pemungut PPN asing baru bulan ini menunjukkan DJP tetap memperluas daftar perusahaan yang wajib memungut pajak, langkah bertahap lewat penambahan satu per satu ketimbang perubahan aturan besar sekaligus. Yang akan memperjelas arah ini adalah data penerimaan Oktober-Desember 2026, terutama apakah tren pelemahan di sektor kripto berlanjut atau justru pulih.",
+  "imageV": "mvwd4821"
+ },
+ {
+  "slug": "kemendag-latih-mahasiswa-ipb-jadi-eksportir-lewat-campuspreneur",
+  "category": "UMKM",
+  "title": "Kemendag Latih Mahasiswa IPB Jadi [Eksportir] Lewat Campuspreneur",
+  "deck": "Kemendag mengajak mahasiswa IPB mengembangkan usaha lewat program Campuspreneur, bagian dari strategi memperluas basis eksportir muda dari kampus ke pasar global.",
+  "image": "assets/img/kemendag-latih-mahasiswa-ipb-jadi-eksportir-lewat-campuspreneur.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T12:06:32.571Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/intensifkan-campuspreneur-kemendag-ajak-mahasiswa-ipb-jadi-eksportir-muda",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Campuspreneur",
+   "Kemendag",
+   "Ekspor UMKM",
+   "IPB University"
+  ],
+  "body": [
+   "Kementerian Perdagangan mengajak mahasiswa IPB University untuk merintis usaha ekspor sejak di bangku kuliah lewat program Campuspreneur. Ajakan ini disampaikan Direktur Jenderal Perundingan Perdagangan Internasional Kemendag, Johni Martha, dalam kuliah umum dan lokakarya pengembangan ekspor produk agribisnis di kantor Kemendag, Jakarta, Sabtu (31/10), yang dihadiri lebih dari 185 mahasiswa dan dosen Departemen Agribisnis IPB University.",
+   "Lewat Campuspreneur, Kemendag membantu mahasiswa meningkatkan kualitas produk, kemasan, dan merek, sekaligus menjembatani ke calon pembeli dan pasar ekspor. Kemendag mengklaim program ini membawa hasil di pameran Trade Expo Indonesia ke-41 pada 14-18 Oktober 2026 di ICE BSD City, Tangerang, di mana 25 usaha kecil binaan Campuspreneur dari 20 kampus mencatat potensi transaksi senilai US$24,57 juta. Dari jumlah itu, US$21,46 juta sudah ditindaklanjuti lewat nota kesepakatan pembelian atau letter of intent.",
+   "Campuspreneur merupakan bagian dari program unggulan Kemendag bertajuk Dari Lokal untuk Global, bersama UMKM BISA Ekspor, Desa BISA Ekspor, dan Kemitraan UMKM, yang menghubungkan penguatan usaha dalam negeri dengan perluasan pasar luar negeri. Kemendag mencatat Indonesia kini memiliki 25 perjanjian dagang yang sudah berlaku, dua dalam proses ratifikasi, dan 13 masih dalam tahap perundingan, peluang yang menurut Johni perlu diimbangi kesiapan pelaku usaha memenuhi standar dan ketentuan pasar tujuan.",
+   "Direktur Bina Pasar Kemendag, Miftah Farid, menyebut kopi dan kakao sebagai komoditas agribisnis dengan peluang besar karena permintaan pasar masih lebih tinggi dari pasokan. Sementara itu, pendiri PT Nusa Tropical Indonesia, Pekik Warnendya, mendorong mahasiswa memanfaatkan media sosial perwakilan perdagangan Indonesia di luar negeri untuk mengakses informasi pasar sebelum merintis usaha ekspor."
+  ],
+  "fotoAdegan": "Workers sorting and bagging dried cacao beans for export inside a small Indonesian warehouse, sacks stacked nearby, natural daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/54z0rIyvBGCmUfiPs1u00izQn5R3kWGtKaAqFX7K.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang baru di sini bukan kebijakan, melainkan ajakan Kemendag memakai kampus sebagai sumber pelaku ekspor baru, dengan modal cerita sukses 25 usaha kecil binaan Campuspreneur dari 20 kampus yang mencatat minat pembelian senilai US$24,57 juta di pameran dagang bulan lalu. Yang terdampak langsung adalah mahasiswa calon pengusaha, terutama di sektor agribisnis seperti kopi dan kakao yang disebut masih kekurangan pasokan dibanding permintaan pasar. Yang belum bisa dipastikan dari siaran ini adalah berapa dari US$21,46 juta nota pembelian itu yang benar-benar berubah jadi transaksi ekspor, sebab nota semacam itu baru menyatakan niat beli, bukan kontrak yang sudah jadi. Yang perlu dipantau adalah apakah Kemendag akan merilis data realisasi ekspor dari program ini, serta apakah jumlah kampus dan UKM pesertanya bertambah di Trade Expo Indonesia tahun berikutnya.",
+  "imageV": "mvwd4hmd"
+ },
+ {
   "slug": "ptba-bubarkan-anak-usaha-bukit-multi-properti-likuidasi",
   "category": "Aksi Korporasi",
   "title": "PTBA Bubarkan Anak Usaha Bukit Multi Properti [Likuidasi]",

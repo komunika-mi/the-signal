@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pajak-ekonomi-digital-tembus-rp58-75-triliun-per-september",
+  "category": "Makroekonomi",
+  "title": "Pajak Ekonomi Digital [Tembus] Rp58,75 Triliun per September",
+  "deck": "DJP mencatat penerimaan pajak ekonomi digital Rp58,75 triliun hingga September 2026, dengan pajak dagang elektronik lintas negara sebagai penyumbang terbesar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/pajak-ekonomi-digital-tembus-rp58-75-triliun-per-september.jpg",
+  "imageV": "mvwd4821",
+  "tags": [
+   "pajak digital",
+   "DJP",
+   "PMSE",
+   "pajak kripto"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pajak-ekonomi-digital-tembus-rp5875-triliun-hingga-september-2026",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "kemendag-latih-mahasiswa-ipb-jadi-eksportir-lewat-campuspreneur",
+  "category": "UMKM",
+  "title": "Kemendag Latih Mahasiswa IPB Jadi [Eksportir] Lewat Campuspreneur",
+  "deck": "Kemendag mengajak mahasiswa IPB mengembangkan usaha lewat program Campuspreneur, bagian dari strategi memperluas basis eksportir muda dari kampus ke pasar global.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/kemendag-latih-mahasiswa-ipb-jadi-eksportir-lewat-campuspreneur.jpg",
+  "imageV": "mvwd4hmd",
+  "tags": [
+   "Campuspreneur",
+   "Kemendag",
+   "Ekspor UMKM",
+   "IPB University"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/intensifkan-campuspreneur-kemendag-ajak-mahasiswa-ipb-jadi-eksportir-muda",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "ptba-bubarkan-anak-usaha-bukit-multi-properti-likuidasi",
   "category": "Aksi Korporasi",
   "title": "PTBA Bubarkan Anak Usaha Bukit Multi Properti [Likuidasi]",
@@ -6450,38 +6486,6 @@ var ARTICLES = [
    "akuisisi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/406e00df33_2a5238b4df.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnmp-lunasi-sukuk-rp800-miliar-delisting-bei-27-oktober",
-  "category": "Aksi Korporasi",
-  "title": "PNMP [Lunasi] Sukuk Rp800 Miliar, Delisting BEI 27 Oktober",
-  "deck": "PT Permodalan Nasional Madani melunasi pokok Sukuk Mudharabah Seri A senilai Rp800 miliar pada 27 Oktober 2026, bersamaan dengan penghapusan sukuk itu dari pencatatan BEI.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNMP",
-   "sukuk",
-   "obligasi jatuh tempo",
-   "pelunasan pokok"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/496984d109_5e76c40fcc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-chek-turun-43-di-kuartal-iii-meski-pendapatan-naik",
-  "category": "Aksi Korporasi",
-  "title": "Laba [CHEK] Turun 43% di Kuartal III Meski Pendapatan Naik",
-  "deck": "Laba bersih PT Diastika Biotekindo turun dari Rp14,23 miliar menjadi Rp8,07 miliar pada sembilan bulan pertama 2026, meski pendapatan naik 18 persen dan utang turun tajam.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CHEK",
-   "laba kuartal III",
-   "utang",
-   "saham treasuri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026185027-64542-0/FinancialStatement-2026-III-CHEK.pdf",
   "sourceLabel": "IDX"
  }
 ];

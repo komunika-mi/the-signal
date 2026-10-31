@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "boss-tanpa-penjualan-di-2024-defisiensi-modal-membesar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Tanpa Penjualan di 2024, [Defisiensi Modal] Membesar",
+  "deck": "Laporan keuangan tahunan 2024 BOSS menunjukkan nol penjualan, rugi bersih Rp22,2 miliar, dan defisiensi modal yang melebar menjadi Rp224,1 miliar, di tengah pailit anak usaha tambangnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T06:05:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2106899c86_ce18c95e35.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "pailit",
+   "opini wajar dengan pengecualian",
+   "defisiensi modal"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan keterbukaan informasi kepada OJK dan Bursa Efek Indonesia mengenai laporan keuangan konsolidasian tahun buku 2024, yang diaudit oleh Kantor Akuntan Publik Mohammad Sunusi & Rekan dengan opini wajar dengan pengecualian lewat Laporan Auditor Independen Nomor 00503/2.1392/AU.1/05/2033-2/1/X/2026 tertanggal 26 Oktober 2026. Sepanjang 2024, Perseroan tidak mencatatkan penjualan sama sekali, berbanding dengan penjualan bersih Rp142,49 miliar pada 2023, sehingga beban pokok penjualan juga nihil dari sebelumnya Rp201,93 miliar. Rugi usaha tercatat Rp22,25 miliar, menyusut dari Rp167,75 miliar pada 2023, dan rugi bersih tahun berjalan juga turun menjadi Rp22,25 miliar dari Rp169,01 miliar.",
+   "Dari sisi posisi keuangan, jumlah aset Grup per akhir 2024 tercatat Rp588,05 miliar, turun tipis dari Rp596,64 miliar setahun sebelumnya, sementara jumlah liabilitas justru naik menjadi Rp812,16 miliar dari Rp798,48 miliar. Akibatnya, defisiensi modal, yakni kondisi ketika utang perusahaan sudah melampaui seluruh asetnya, melebar menjadi Rp224,12 miliar dari Rp201,84 miliar pada 2023. Opini wajar dengan pengecualian dari auditor dipicu oleh tiga hal: status pailit anak usaha PT Bangun Olahsarana Sukses setelah putusan pembatalan perdamaian (homologasi) PKPU oleh Pengadilan Niaga Jakarta Pusat, defisiensi ekuitas Rp1,49 miliar di anak usaha lain PT Pratama Buana Sentosa yang izin eksplorasinya sudah berakhir dan tidak diperpanjang, serta utang yang belum dibayar kepada Rocksbridge Energy Pte. Ltd. senilai Rp38,97 miliar dan utang PT Pratama Bersama sebesar Rp43,14 miliar.",
+   "Manajemen BOSS, melalui Direktur Widodo Nurly Sumady, menyatakan telah mengajukan Peninjauan Kembali ke Mahkamah Agung atas putusan pailit tersebut dan berkoordinasi dengan Tim Kurator untuk menjaga kelangsungan usaha anak usahanya, termasuk menjajaki kerja sama dengan investor dan kontraktor baru, serta menjalankan efisiensi biaya di seluruh lini organisasi. Dalam dokumen yang sama, Perseroan menyebut Rapat Umum Pemegang Saham Tahunan yang semula dijadwalkan 29 Oktober 2026 telah diundur menjadi 4 November 2026, antara lain untuk mengagendakan pengesahan laporan keuangan tahun buku 2023, 2024, dan 2025."
+  ],
+  "fotoAdegan": "Idle excavators and conveyor structures standing unused at an open-pit coal mine, overcast sky, dense green hills beyond the berm",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena meski rugi bersihnya menyusut tajam dari tahun sebelumnya, itu hanya cermin tidak adanya penjualan sama sekali sepanjang 2024, bukan tanda perbaikan operasional, sementara defisiensi modal malah melebar dan utang ke kreditur masih menumpuk. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, yang kini minus Rp224,1 miliar, artinya kewajiban BOSS sudah lebih besar daripada seluruh yang dimilikinya, posisi yang jadi acuan kreditur dan calon investor menilai masih ada nilai yang bisa diselamatkan atau tidak. Likuiditas, atau kemampuan membayar utang yang sudah jatuh tempo, juga tersentuh karena Grup belum membayar angsuran ke Rocksbridge Energy Pte. Ltd. senilai Rp38,97 miliar dan utang PT Pratama Bersama Rp43,14 miliar, dua hal yang ikut membuat auditor meragukan kelangsungan usaha Grup. Yang perlu dipantau berikutnya adalah hasil Peninjauan Kembali ke Mahkamah Agung atas status pailit anak usaha PT Bangun Olahsarana Sukses, serta Rapat Umum Pemegang Saham Tahunan yang sudah diundur ke 4 November 2026 setelah sebelumnya dijadwalkan 29 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "boss-anak-usaha-tambang-kantongi-izin-going-concern",
+  "category": "Aksi Korporasi",
+  "title": "BOSS: Anak Usaha Tambang Kantongi Izin [Going Concern]",
+  "deck": "Hakim Pengawas mengizinkan anak usaha BOSS, PT Bangun Olahsarana Sukses, melanjutkan operasi tambang batu bara meski masih berstatus pailit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T06:05:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e8853a2cf8_5229c7dff5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "going concern",
+   "pailit",
+   "tambang batu bara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk. (BOSS) menyampaikan bahwa Hakim Pengawas Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat, melalui Penetapan Nomor 44/Pdt.Sus-Pembatalan Perdamaian/2022/PN.Niaga.Jkt.Pst. jo. Nomor 185/Pdt.Sus.PKPU/2020/PN.Niaga.Jkt.Pst. tanggal 21 Maret 2024, mengabulkan permohonan Tim Kurator untuk memberi izin melanjutkan usaha (going concern) kepada anak usahanya, PT Bangun Olahsarana Sukses, yang berstatus dalam pailit. Perlu dicatat, penetapan ini sebenarnya terbit lebih dari dua tahun lalu, dan baru diumumkan ke publik pada 31 Oktober 2026.",
+   "Izin tersebut memungkinkan Tim Kurator melanjutkan kegiatan penambangan batu bara di area Izin Usaha Pertambangan Operasi Produksi (IUP OP) seluas sekitar 1.125 hektare di Kabupaten Kutai Barat, Kalimantan Timur, yang menurut dokumen berlaku hingga 2025. Untuk menjalankan operasional itu, Tim Kurator menunjuk PT Agung Mandiri Persada sebagai investor dan mitra kontraktor, yang akan menanggung seluruh biaya operasional, kewajiban pajak, royalti, penerimaan negara bukan pajak, perpanjangan IUP OP, hingga penyusunan rencana kerja dan anggaran biaya tambang.",
+   "Manajemen BOSS menyebut keputusan going concern ini memberi kepastian hukum bagi anak usaha untuk memulihkan produksi batu bara dan mengamankan nilai aset tambang, sekaligus menambah nilai bagi pemulihan harta pailit (boedel pailit). Perseroan menyatakan masih memantau dan mengevaluasi dampak finansial dari proses kepailitan dan kerja sama operasional ini terhadap laporan keuangan konsolidasian, sesuai Standar Akuntansi Keuangan yang berlaku."
+  ],
+  "fotoAdegan": "Open-pit coal mine excavators loading trucks on a reddish-brown hillside in East Kalimantan, overcast afternoon light",
+  "takeaway": "Kami menilai laporan ini netral bagi BOSS, karena izin melanjutkan usaha hanya mengurai status hukum anak usaha yang masih pailit, tanpa mengubah beban utang dan defisiensi modal yang sudah dibukukan Grup. Pos yang tersentuh adalah arus kas dan nilai aset tambang: karena seluruh biaya operasional, pajak, royalti, dan perpanjangan izin kini ditanggung investor PT Agung Mandiri Persada, bukan kas BOSS sendiri, sementara nilai aset IUP OP yang sempat terancam hilang akibat kepailitan punya kesempatan dipulihkan dan tercatat dalam neraca konsolidasian. Yang perlu diawasi berikutnya adalah status perpanjangan Izin Usaha Pertambangan Operasi Produksi, yang menurut dokumen ini hanya berlaku sampai 2025, padahal laporan baru terbit akhir Oktober 2026, sehingga belum jelas apakah tambang masih punya izin sah untuk terus berproduksi. Perlu dicatat juga bahwa penetapan Hakim Pengawas ini sebenarnya terbit 21 Maret 2024, sehingga keterbukaan informasi ini baru disampaikan ke publik lebih dari dua tahun setelah peristiwanya terjadi, jeda yang sejalan dengan rekam jejak BOSS yang berulang kali molor memenuhi agenda tata kelola seperti RUPS.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kadin-rumuskan-tiga-strategi-jaga-bisnis-dan-ekspor",
   "category": "Makroekonomi",
   "title": "Kadin Rumuskan [Tiga] Strategi Jaga Bisnis dan Ekspor",
@@ -998,6 +1050,136 @@ var ARTICLES = [
   "fotoAdegan": "Workers in hygienic uniforms monitoring rows of bread loaves moving along a bakery conveyor belt under bright industrial lighting",
   "takeaway": "Laporan ini condong negatif bagi ROTI, karena pendapatan nyaris tidak tumbuh sementara beban usaha naik lebih cepat, membuat laba bersih tergerus hampir 60 persen dan perseroan menambah utang bank jangka pendek lebih dari dua kali lipat. Pos yang paling kena dampak adalah laba per saham, yaitu laba yang dibagi jumlah saham beredar dan jadi acuan utama pasar menilai mahal murahnya saham dibanding labanya, yang turun dari Rp24,22 menjadi Rp9,83. Arus kas dari aktivitas operasi, yakni uang tunai yang benar-benar masuk dari bisnis sehari-hari, juga menyusut, menandakan bisnis inti menghasilkan uang lebih sedikit dibanding tahun lalu, sementara ekuitas atau kekayaan bersih pemegang saham ikut turun karena sebagian besar laba habis dibagikan sebagai dividen di saat laba sendiri menciut. Yang perlu dicermati selanjutnya adalah kinerja kuartal IV 2026 dan laporan tahunan auditan, untuk melihat apakah kenaikan beban usaha ini sementara atau terus menggerus margin, serta bagaimana perseroan mengelola beban bunga setelah utang bank jangka pendeknya melonjak.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "food-defisiensi-modal-melebar-ke-rp41-6-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "FOOD: Defisiensi Modal [Melebar] ke Rp41,6 Miliar di Kuartal III",
+  "deck": "Penjualan FOOD naik 11,5 persen pada sembilan bulan 2026, tapi rugi bersih dan ekuitas negatif perusahaan justru makin melebar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:53:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030211637-65050-0/FinancialStatement-2026-III-FOOD.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FOOD",
+  "tags": [
+   "FOOD",
+   "Sentra Food Indonesia",
+   "defisiensi modal",
+   "laporan keuangan kuartal III"
+  ],
+  "body": [
+   "PT Sentra Food Indonesia Tbk (FOOD) melaporkan kepada Bursa Efek Indonesia bahwa penjualan bersihnya naik 11,5 persen menjadi Rp72,73 miliar pada sembilan bulan pertama 2026, dari Rp65,25 miliar pada periode yang sama tahun lalu. Namun kenaikan penjualan itu tidak cukup menutup beban perusahaan. Beban pokok penjualan naik lebih cepat, sehingga laba kotor justru turun menjadi Rp8,00 miliar dari Rp9,05 miliar. Perusahaan mencatat rugi bersih Rp17,66 miliar untuk periode sembilan bulan ini, naik dari rugi Rp16,16 miliar pada periode yang sama tahun 2025.",
+   "Dari sisi neraca, total aset FOOD turun menjadi Rp41,70 miliar per 30 September 2026 dari Rp46,76 miliar per akhir Desember 2025, sementara total liabilitas naik menjadi Rp83,27 miliar dari Rp70,67 miliar. Utang bank jangka pendek melonjak hampir dua kali lipat menjadi Rp11,12 miliar dari Rp5,73 miliar, dan utang usaha kepada pihak ketiga bertambah menjadi Rp37,94 miliar dari Rp32,64 miliar. Akibatnya, defisiensi modal atau ekuitas negatif perusahaan melebar menjadi Rp41,58 miliar dari Rp23,91 miliar pada akhir 2025, yang berarti total utang perusahaan sudah jauh melampaui total asetnya.",
+   "Beban keuangan, yaitu bunga dan biaya pinjaman yang harus dibayar perusahaan, naik menjadi Rp1,37 miliar dari Rp794 juta pada periode yang sama tahun lalu. Arus kas yang terpakai untuk kegiatan operasional juga melebar menjadi Rp4,25 miliar dari Rp2,95 miliar, tanda bahwa kegiatan usaha sehari-hari perusahaan masih menguras kas lebih banyak dibanding tahun sebelumnya. Rugi per saham dasar dan dilusian tercatat Rp18,84, sedikit lebih kecil dari Rp19,88 pada periode yang sama tahun lalu, karena porsi rugi yang ditanggung pemegang saham nonpengendali di anak usaha membesar menjadi Rp5,42 miliar dari Rp3,24 miliar. Perusahaan saat ini tercatat di Papan Pemantauan Khusus Bursa Efek Indonesia, papan bagi emiten dengan kondisi keuangan atau kepatuhan yang memerlukan perhatian lebih."
+  ],
+  "fotoAdegan": "Workers in hairnets packing processed snack products on a conveyor belt inside an Indonesian food factory, bright industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi FOOD, karena defisiensi modal atau ekuitas negatifnya melebar sekitar 74 persen dalam sembilan bulan, utang bank jangka pendek nyaris dua kali lipat, dan kas yang terpakai dari kegiatan operasional juga makin besar, padahal penjualan sedang tumbuh. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang perusahaan yang kini sudah negatif, serta arus kas operasional dan beban bunga, karena ketiganya menunjukkan apakah perusahaan masih mampu membiayai kegiatan usahanya sendiri tanpa terus menambah utang. Pelaku pasar memperhatikan pos ini karena ekuitas negatif berarti kewajiban perusahaan sudah lebih besar dari asetnya, sehingga ruang untuk menanggung kerugian lanjutan makin sempit. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang diaudit, yang akan menunjukkan apakah tren pelebaran defisiensi modal ini berlanjut, serta status FOOD di Papan Pemantauan Khusus Bursa Efek Indonesia tempat sahamnya saat ini tercatat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "awan-liabilitas-naik-28-97-kas-susut-ke-rp1-16-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AWAN: Liabilitas Naik 28,97%, [Kas] Susut ke Rp1,16 Miliar",
+  "deck": "Aset AWAN naik 7,5 persen dalam sembilan bulan 2026, tetapi liabilitas melonjak 28,97 persen karena pinjaman bank dan utang usaha bertambah, sementara kas perusahaan justru menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:51:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030205905-65428-0/FinancialStatement-2026-III-AWAN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AWAN",
+  "tags": [
+   "AWAN",
+   "Era Digital Media",
+   "laporan keuangan interim",
+   "liabilitas"
+  ],
+  "body": [
+   "PT Era Digital Media Tbk (AWAN) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Corporate Secretary Resti Meidianti pada 30 Oktober 2026. Total aset perusahaan tercatat Rp98,86 miliar, naik dari Rp91,97 miliar pada akhir 2025. Kenaikan itu terutama ditopang oleh piutang usaha pihak ketiga yang melonjak dari Rp12,06 miliar menjadi Rp23,28 miliar, sementara kas dan setara kas justru menyusut dari Rp1,57 miliar menjadi Rp1,16 miliar.",
+   "Di sisi liabilitas, AWAN bahkan mengirim surat khusus ke OJK dan Bursa Efek Indonesia yang ditandatangani Direktur Keuangan Soundararajan Venkatachari, karena total liabilitas naik 28,97 persen dari Rp16,99 miliar menjadi Rp21,70 miliar, melewati ambang batas 20 persen yang mewajibkan penjelasan ke bursa. Perusahaan menyebut kenaikan ini berasal dari pemanfaatan pinjaman bank jangka pendek yang bertambah dari Rp9,83 miliar menjadi Rp11,26 miliar, serta utang usaha pihak ketiga yang naik dari Rp3,10 miliar menjadi Rp4,97 miliar, keduanya untuk membiayai pengembangan usaha dan operasional. Utang pajak juga melonjak dari Rp676,69 juta menjadi Rp1,77 miliar.",
+   "Perusahaan mengonsolidasikan empat anak usaha: PT Marygops Studios di bisnis penyelenggara acara dengan kepemilikan 75 persen dan aset Rp32,27 miliar, PT Era Awan Digital di bidang teknologi dengan kepemilikan 99,998 persen dan aset Rp61,41 miliar, PT Portal Bersama Awan dengan kepemilikan 99 persen dan aset Rp4,78 miliar, serta anak usaha baru PT Era Global Data yang didirikan tahun 2026 untuk bisnis infrastruktur komputasi awan, dengan kepemilikan 99,6 persen dan aset Rp250 juta, namun belum beroperasi secara komersial. Jumlah karyawan tetap grup per akhir September 2026 tercatat 67 orang, turun satu orang dari 68 pada periode yang sama tahun sebelumnya."
+  ],
+  "fotoAdegan": "Technicians walking between rows of server racks in a dim data center, blue status lights reflecting off the floor",
+  "takeaway": "Laporan ini netral bagi pemegang saham AWAN: piutang usaha yang melonjak hampir dua kali lipat menunjukkan bisnis yang sedang tumbuh, tetapi kenaikan utang yang jauh melampaui kenaikan aset dan susutnya kas membuat kualitas pertumbuhan itu patut dicermati, bukan sekadar dirayakan. Yang tersentuh di sini adalah ekuitas dan arus kas: modal pemegang saham memang masih naik dari sekitar Rp74,98 miliar menjadi Rp77,16 miliar, tetapi kas dan setara kas, yaitu uang tunai yang siap dipakai perusahaan, justru menyusut dari Rp1,57 miliar menjadi Rp1,16 miliar meski perusahaan menambah pinjaman bank. Pelaku pasar biasanya mencermati kombinasi ini karena menunjukkan tambahan utang belum tentu berubah jadi kas di tangan, melainkan terpakai untuk membiayai operasional atau piutang yang belum tertagih. Yang perlu dipantau selanjutnya adalah apakah piutang usaha yang melonjak itu benar tertagih pada laporan kuartal IV 2026, serta progres anak usaha baru Era Global Data di bisnis infrastruktur komputasi awan yang sampai akhir September 2026 belum beroperasi secara komersial.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lpkr-laba-bersih-melonjak-tiga-kali-lipat-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "LPKR: Laba Bersih [Melonjak] Tiga Kali Lipat di Kuartal III",
+  "deck": "Laba bersih LPKR naik hampir tiga kali lipat jadi Rp1,24 triliun di sembilan bulan 2026, didorong pendapatan lain-lain, bukan penjualan inti yang justru turun 17 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:44:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030205424-64674-0/FinancialStatement-2026-III-LPKR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPKR",
+  "tags": [
+   "LPKR",
+   "Lippo Karawaci",
+   "laporan keuangan",
+   "properti"
+  ],
+  "body": [
+   "Lippo Karawaci Tbk menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK dan Bursa Efek Indonesia melalui surat nomor 080/LK-COS/X/2026 tertanggal 28 Oktober 2026, ditandatangani oleh Ratih Safitri selaku Sekretaris Perusahaan. Pendapatan perseroan turun menjadi Rp5,37 triliun dari Rp6,51 triliun pada periode yang sama tahun 2025. Namun laba bersih yang dapat diatribusikan kepada pemilik induk justru melonjak menjadi Rp1,24 triliun dari Rp368,2 miliar, sehingga laba per saham dasar naik dari Rp5,19 menjadi Rp17,48.",
+   "Kenaikan laba ini terutama didorong oleh dua pos di luar penjualan inti. Pertama, pos penghasilan lainnya melonjak menjadi Rp975,9 miliar dari sebelumnya hanya Rp101,1 miliar. Kedua, bagian laba dari entitas asosiasi naik menjadi Rp523,9 miliar dari Rp498,9 miliar. Laba usaha pun tercatat Rp1,32 triliun, hampir tiga kali lipat dari Rp465 miliar tahun lalu, meski beban pokok pendapatan juga turun menjadi Rp2,96 triliun dari Rp4,18 triliun sehingga laba bruto sedikit naik menjadi Rp2,30 triliun dari Rp2,20 triliun.",
+   "Di sisi posisi keuangan, total aset turun menjadi Rp48,27 triliun dari Rp49,25 triliun pada akhir 2025, sementara total liabilitas turun menjadi Rp16,32 triliun dari Rp18,20 triliun dan total ekuitas naik menjadi Rp31,95 triliun dari Rp31,05 triliun. Kas dan setara kas menyusut menjadi Rp1,37 triliun dari Rp1,96 triliun, sementara utang bank jangka pendek lebih dari dua kali lipat menjadi Rp3,57 triliun dari Rp1,73 triliun. Arus kas dari aktivitas operasi masih negatif Rp314,7 miliar, meski membaik dari negatif Rp1,21 triliun setahun sebelumnya, sedangkan arus kas investasi makin negatif menjadi Rp1,52 triliun akibat pembelian properti investasi senilai Rp1,04 triliun dan tambahan investasi di entitas asosiasi senilai Rp397,5 miliar. Perusahaan juga melakukan pembelian kembali saham senilai Rp1,2 miliar sepanjang periode ini."
+  ],
+  "fotoAdegan": "Aerial view of a mixed residential and commercial property complex under construction in a tropical Indonesian city, cranes visible, late afternoon light",
+  "takeaway": "Laporan ini netral bagi Lippo Karawaci, karena lonjakan laba bersih terutama didorong oleh pos pendapatan lain-lain yang melonjak hampir sepuluh kali lipat menjadi Rp975,9 miliar dan bagian laba dari entitas asosiasi, bukan dari penjualan properti yang justru turun 17 persen dibanding tahun lalu. Yang tersentuh di sini adalah laba per saham, yang naik dari Rp5,19 menjadi Rp17,48, tapi pelaku pasar biasanya menelusuri dulu dari mana laba itu berasal sebelum menganggapnya pertanda bisnis inti membaik, begitu juga arus kas dari operasi yang masih minus Rp314,7 miliar, tanda bahwa uang yang masuk dari pelanggan belum cukup menutup biaya operasional sehari-hari meski sudah membaik dari minus Rp1,21 triliun tahun lalu. Utang bank jangka pendek perusahaan juga melonjak dari Rp1,73 triliun menjadi Rp3,57 triliun, berarti sebagian kebutuhan dananya kini ditopang pinjaman yang harus dibayar dalam waktu dekat. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit 2026, yang akan menunjukkan apakah lonjakan pendapatan lain-lain ini berulang atau cuma kejadian satu kali, serta apakah properti investasi senilai Rp1,04 triliun yang baru dibeli sudah mulai menghasilkan pendapatan sewa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aali-jawab-bei-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "AALI Jawab BEI: Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "AALI menjawab surat BEI soal volatilitas transaksi sahamnya, menegaskan tak ada informasi material baru dan pemegang saham utama tak berencana mengubah kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:42:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3ca2d757ee_e41ae20478.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AALI",
+  "tags": [
+   "AALI",
+   "Astra Agro Lestari",
+   "Bursa Efek Indonesia",
+   "Volatilitas Saham"
+  ],
+  "body": [
+   "Astra Agro Lestari Tbk (AALI) mengirim surat tanggapan bernomor LECO/045/EXT/AAL/X/2026 tertanggal 30 Oktober 2026 kepada Bursa Efek Indonesia, menjawab permintaan penjelasan BEI melalui surat nomor S-13460/BEI.PP1/10-2026 tanggal 28 Oktober 2026 perihal volatilitas transaksi efek perusahaan. Surat ditandatangani oleh Corporate Secretary AALI, Tingning Sukowignjo.",
+   "Dalam enam poin jawaban, AALI menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik, baik yang bisa memengaruhi nilai efek sesuai POJK 31/2015 maupun harga saham sesuai Peraturan BEI Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK 4/2024 tentang laporan kepemilikan saham, dan menyatakan tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang bisa berakibat pada status pencatatan sahamnya di bursa.",
+   "Poin terakhir menjadi yang paling konkret: Corporate Secretary menyebut telah meminta konfirmasi langsung dari Pemegang Saham Utama (PSU) Perseroan, dan PSU menegaskan saat ini tidak memiliki rencana apa pun terkait kepemilikan sahamnya di AALI. Dengan kata lain, tidak ada sinyal pelepasan atau penambahan saham besar-besaran dari pemegang saham utama yang bisa mengubah struktur pengendalian perusahaan."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fruit bunches in a plantation and loading them onto a truck, tropical morning light",
+  "takeaway": "Laporan ini netral bagi fundamental AALI karena isinya murni konfirmasi kepatuhan, bukan angka kinerja baru, dan hanya menegaskan bahwa lonjakan transaksi saham belakangan tidak dipicu informasi tersembunyi. Yang relevan bagi investor adalah penegasan soal hak suara: karena pemegang saham utama memastikan tidak berencana mengubah kepemilikannya, pasar bisa menyingkirkan spekulasi soal pergantian pengendali, pelepasan saham besar, atau aksi korporasi seperti rights issue yang biasanya menambah jumlah saham beredar dan menggerus laba per saham. Volatilitas harga yang memicu surat BEI ini kemungkinan besar masih terkait laporan laba kuartal III AALI yang melonjak 77 persen, yang sudah diberitakan lebih dulu dan sudah menjadi informasi publik. Yang perlu dipantau selanjutnya adalah apakah AALI mengeluarkan keterbukaan baru dalam tiga bulan ke depan, mengingat perusahaan sendiri menyebut jangka waktu itu sebagai batas pernyataan tidak ada rencana tindakan korporasi, yakni hingga sekitar akhir Januari 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pngo-laba-9-bulan-naik-28-utang-turun-30-persen",
+  "category": "Aksi Korporasi",
+  "title": "PNGO: Laba 9 Bulan Naik 28%, [Utang] Turun 30 Persen",
+  "deck": "Laba bersih PT AEP Pinago Plantations Tbk naik 28 persen dalam sembilan bulan 2026, didukung pelunasan utang bank yang menekan beban bunga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:36:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030205018-64785-0/FinancialStatement-2026-III-PNGO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNGO",
+  "tags": [
+   "PNGO",
+   "laporan keuangan",
+   "perkebunan",
+   "utang"
+  ],
+  "body": [
+   "PT AEP Pinago Plantations Tbk (PNGO) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir pada 30 September 2026. Dalam laporan yang ditandatangani Direktur Utama Budi Purwanto dan Direktur Wandy pada 29 Oktober 2026, perusahaan perkebunan asal Palembang ini mencatat penjualan Rp1,80 triliun, naik dari Rp1,63 triliun pada periode yang sama tahun 2025. Laba bersih periode berjalan tercatat Rp273,41 miliar, naik 28 persen dari Rp213,37 miliar, sementara laba per saham naik dari Rp272 menjadi Rp349.",
+   "Pada pos keuangan, total liabilitas perusahaan turun 30,04 persen, dari Rp575,14 miliar pada akhir 2025 menjadi Rp402,39 miliar pada akhir September 2026. Dalam surat terpisah kepada Bursa Efek Indonesia yang menjelaskan perubahan lebih dari 20 persen pada pos total liabilitas sesuai Peraturan Bursa Efek Indonesia Nomor I-E, manajemen menyebutkan penurunan ini terutama karena pelunasan utang bank jangka pendek sebesar 57,61 persen dan utang bank jangka panjang sebesar 44,46 persen. Di sisi lain, pos liabilitas kontrak, yaitu uang muka yang sudah diterima dari pelanggan atas pesanan yang belum dikirim, melonjak 291,70 persen menjadi Rp20,59 miliar. Total ekuitas perusahaan naik menjadi Rp1,38 triliun dari Rp1,17 triliun, meski perusahaan membagikan dividen tunai Rp70,31 miliar selama periode ini, naik dari Rp31,25 miliar pada periode yang sama tahun sebelumnya.",
+   "Kas dan setara kas perusahaan naik menjadi Rp97,28 miliar dari Rp73,82 miliar pada akhir 2025. Namun arus kas bersih dari aktivitas operasi justru turun menjadi Rp329,41 miliar dari Rp400,25 miliar pada periode yang sama tahun lalu, seiring pembayaran pajak yang naik dari Rp49,46 miliar menjadi Rp101,35 miliar dan pembayaran gaji serta tunjangan yang naik dari Rp56,73 miliar menjadi Rp100,28 miliar."
+  ],
+  "fotoAdegan": "Plantation workers loading harvested oil palm fruit bunches onto a flatbed truck in a rural Sumatra estate, morning light",
+  "takeaway": "Laporan ini condong positif bagi AEP Pinago karena laba bersih dan pendapatan sama-sama naik double digit sementara utang bank justru berkurang signifikan, kombinasi yang jarang terjadi dalam satu periode. Yang paling kentara tersentuh adalah beban bunga, yaitu biaya yang dibayarkan perusahaan atas pinjaman bank, yang turun dari Rp23,2 miliar menjadi Rp14 miliar karena sebagian besar utang bank jangka pendek dan jangka panjang dilunasi, sehingga ekuitas, yakni modal milik pemegang saham, naik sekitar 18 persen dalam sembilan bulan meski perusahaan tetap membagikan dividen tunai Rp70,3 miliar. Laba per saham, yaitu bagian laba yang secara teoritis menjadi hak setiap lembar saham, naik dari Rp272 menjadi Rp349 karena jumlah saham beredar tidak berubah sementara laba membesar. Satu hal yang perlu diawasi, arus kas dari aktivitas operasi justru turun sekitar 18 persen dibanding periode yang sama tahun lalu karena pembayaran pajak dan gaji yang melonjak, jadi laba di atas kertas belum sepenuhnya tercermin pada uang tunai yang benar-benar masuk ke kas perusahaan. Yang perlu dipantau berikutnya adalah laporan keuangan auditan untuk tahun buku 2026 yang akan mengonfirmasi apakah tren perbaikan laba dan pelunasan utang ini berlanjut, serta apakah liabilitas kontrak sebesar Rp20,6 miliar dari uang muka pelanggan benar-benar terealisasi menjadi pengiriman produk ke pembeli.",
+  "sentimen": "positif"
  },
  {
   "slug": "simp-cetak-laba-rp2-05-triliun-di-9m2026-naik-45",

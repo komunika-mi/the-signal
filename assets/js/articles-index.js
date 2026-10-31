@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "boss-tanpa-penjualan-di-2024-defisiensi-modal-membesar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Tanpa Penjualan di 2024, [Defisiensi Modal] Membesar",
+  "deck": "Laporan keuangan tahunan 2024 BOSS menunjukkan nol penjualan, rugi bersih Rp22,2 miliar, dan defisiensi modal yang melebar menjadi Rp224,1 miliar, di tengah pailit anak usaha tambangnya.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "pailit",
+   "opini wajar dengan pengecualian",
+   "defisiensi modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2106899c86_ce18c95e35.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-anak-usaha-tambang-kantongi-izin-going-concern",
+  "category": "Aksi Korporasi",
+  "title": "BOSS: Anak Usaha Tambang Kantongi Izin [Going Concern]",
+  "deck": "Hakim Pengawas mengizinkan anak usaha BOSS, PT Bangun Olahsarana Sukses, melanjutkan operasi tambang batu bara meski masih berstatus pailit.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "going concern",
+   "pailit",
+   "tambang batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e8853a2cf8_5229c7dff5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kadin-rumuskan-tiga-strategi-jaga-bisnis-dan-ekspor",
   "category": "Makroekonomi",
   "title": "Kadin Rumuskan [Tiga] Strategi Jaga Bisnis dan Ekspor",
@@ -614,6 +646,86 @@ var ARTICLES = [
    "laba bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030211238-65046-0/FinancialStatement-2026-III-ROTI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "food-defisiensi-modal-melebar-ke-rp41-6-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "FOOD: Defisiensi Modal [Melebar] ke Rp41,6 Miliar di Kuartal III",
+  "deck": "Penjualan FOOD naik 11,5 persen pada sembilan bulan 2026, tapi rugi bersih dan ekuitas negatif perusahaan justru makin melebar.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FOOD",
+   "Sentra Food Indonesia",
+   "defisiensi modal",
+   "laporan keuangan kuartal III"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030211637-65050-0/FinancialStatement-2026-III-FOOD.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "awan-liabilitas-naik-28-97-kas-susut-ke-rp1-16-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AWAN: Liabilitas Naik 28,97%, [Kas] Susut ke Rp1,16 Miliar",
+  "deck": "Aset AWAN naik 7,5 persen dalam sembilan bulan 2026, tetapi liabilitas melonjak 28,97 persen karena pinjaman bank dan utang usaha bertambah, sementara kas perusahaan justru menyusut.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AWAN",
+   "Era Digital Media",
+   "laporan keuangan interim",
+   "liabilitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030205905-65428-0/FinancialStatement-2026-III-AWAN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lpkr-laba-bersih-melonjak-tiga-kali-lipat-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "LPKR: Laba Bersih [Melonjak] Tiga Kali Lipat di Kuartal III",
+  "deck": "Laba bersih LPKR naik hampir tiga kali lipat jadi Rp1,24 triliun di sembilan bulan 2026, didorong pendapatan lain-lain, bukan penjualan inti yang justru turun 17 persen.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPKR",
+   "Lippo Karawaci",
+   "laporan keuangan",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030205424-64674-0/FinancialStatement-2026-III-LPKR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aali-jawab-bei-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "AALI Jawab BEI: Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "AALI menjawab surat BEI soal volatilitas transaksi sahamnya, menegaskan tak ada informasi material baru dan pemegang saham utama tak berencana mengubah kepemilikan.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AALI",
+   "Astra Agro Lestari",
+   "Bursa Efek Indonesia",
+   "Volatilitas Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3ca2d757ee_e41ae20478.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pngo-laba-9-bulan-naik-28-utang-turun-30-persen",
+  "category": "Aksi Korporasi",
+  "title": "PNGO: Laba 9 Bulan Naik 28%, [Utang] Turun 30 Persen",
+  "deck": "Laba bersih PT AEP Pinago Plantations Tbk naik 28 persen dalam sembilan bulan 2026, didukung pelunasan utang bank yang menekan beban bunga.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNGO",
+   "laporan keuangan",
+   "perkebunan",
+   "utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030205018-64785-0/FinancialStatement-2026-III-PNGO.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6367,118 +6479,6 @@ var ARTICLES = [
    "tata kelola"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/61ec89a037_e258bc676e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ahap-aca-lepas-582-juta-saham-untuk-perkuat-free-float",
-  "category": "Aksi Korporasi",
-  "title": "AHAP: ACA Lepas 582 Juta Saham untuk Perkuat [Free Float]",
-  "deck": "Asuransi Central Asia menjual 582 juta saham AHAP seharga Rp50 per lembar, hak suaranya turun dari 69,51% menjadi 62,58% demi memenuhi syarat free float.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AHAP",
-   "Asuransi Central Asia",
-   "kepemilikan saham",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-2289-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rise-catat-laba-bersih-melonjak-167-persen-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "RISE Catat [Laba] Bersih Melonjak 167 Persen di Kuartal III 2026",
-  "deck": "Laba tahun berjalan RISE naik dari Rp55,12 miliar menjadi Rp147,45 miliar pada sembilan bulan 2026, ditopang kenaikan pendapatan dan efisiensi beban pokok.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RISE",
-   "laporan keuangan",
-   "properti",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026135129-64930-0/FinancialStatement-2026-III-RISE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "acst-rugi-rp263-6-miliar-ekuitas-negatif-makin-dalam",
-  "category": "Aksi Korporasi",
-  "title": "ACST Rugi Rp263,6 Miliar, [Ekuitas] Negatif Makin Dalam",
-  "deck": "ACST mencatat rugi sembilan bulan Rp263,6 miliar, ekuitas negatif melebar jadi Rp596,1 miliar, di tengah pendapatan yang turun 23,7 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ACST",
-   "Acset Indonusa",
-   "ekuitas negatif",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026122047-64888-0/FinancialStatement-2026-III-ACST.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bren-rampungkan-retrofit-unit-3-darajat-ke-935-55-mw",
-  "category": "Aksi Korporasi",
-  "title": "BREN Rampungkan [Retrofit] Unit 3 Darajat, ke 935,55 MW",
-  "deck": "Star Energy Geothermal Darajat II menyelesaikan retrofit Unit 3 PLTP Darajat, menaikkan kapasitas panas bumi BREN dari 886 MW menjadi 935,55 MW, mendekati target 1 GW akhir 2026.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BREN",
-   "Barito Renewables",
-   "panas bumi",
-   "Star Energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/232f02d481_2a9e0458d2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdla-direksi-tambah-1-500-saham-senilai-rp282-ribu",
-  "category": "Aksi Korporasi",
-  "title": "MDLA: Direksi [Tambah] 1.500 Saham Senilai Rp282 Ribu",
-  "deck": "Direksi MDLA Edbert Orotodan membeli 1.500 saham pada 21 Oktober 2026, menambah kepemilikannya menjadi 1.942.400 lembar saham.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLA",
-   "kepemilikan saham",
-   "direksi",
-   "Medela Potentia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8823-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pjhb-cetak-laba-rp8-6-miliar-saham-beredar-naik-33",
-  "category": "Aksi Korporasi",
-  "title": "PJHB Cetak Laba Rp8,6 Miliar, Saham Beredar [Naik] 33%",
-  "deck": "Laba bersih PJHB naik 68 persen jadi Rp8,63 miliar dalam sembilan bulan 2026, sementara jumlah saham beredar bertambah 33 persen setelah penambahan modal pada Juli 2026.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PJHB",
-   "laporan keuangan",
-   "pelayaran",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026121154-64397-0/FinancialStatement-2026-III-PJHB.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-bles-melonjak-hampir-6-kali-lipat-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "Laba BLES [Melonjak] Hampir 6 Kali Lipat di Kuartal III 2026",
-  "deck": "Laba bersih Superior Prima Sukses (BLES) melonjak hampir enam kali lipat menjadi Rp284,3 miliar pada sembilan bulan pertama 2026, dibantu kas operasi yang menguat dan utang bank yang menyusut.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLES",
-   "Superior Prima Sukses",
-   "laba",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026120419-64812-0/FinancialStatement-2026-III-BLES.pdf",
   "sourceLabel": "IDX"
  }
 ];

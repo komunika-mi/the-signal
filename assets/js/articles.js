@@ -59,6 +59,32 @@ var ARTICLES = [
   "imageV": "mvwd4hmd"
  },
  {
+  "slug": "cbre-catat-ekuitas-negatif-rp144-86-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "CBRE catat [ekuitas] negatif Rp144,86 miliar di kuartal III",
+  "deck": "Ekuitas CBRE berbalik negatif Rp144,86 miliar pada September 2026, setelah rugi kurs Rp117 miliar mendorong rugi bersih sembilan bulan jadi Rp191,77 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T18:32:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031184703-65053-0/FinancialStatement-2026-III-CBRE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBRE",
+  "tags": [
+   "CBRE",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "rugi kurs"
+  ],
+  "body": [
+   "PT Cakra Buana Resources Energi Tbk (CBRE) menyampaikan laporan keuangan interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset perusahaan tercatat Rp1.950,53 triliun, turun 2,73 persen dibanding akhir 2025 yang sebesar Rp2.005,24 triliun. Sebaliknya, total liabilitas naik 7 persen menjadi Rp2.095,39 triliun dari Rp1.958,33 triliun. Akibatnya, ekuitas perusahaan yang pada akhir 2025 masih positif Rp46,91 miliar kini berbalik menjadi negatif Rp144,86 miliar, artinya total utang perusahaan sudah melampaui total asetnya.",
+   "Rugi bersih sembilan bulan melonjak menjadi Rp191,77 miliar, naik tajam dari Rp32,84 miliar pada periode yang sama tahun lalu. Pendapatan sebenarnya tumbuh dari Rp28,54 miliar menjadi Rp140,45 miliar, tetapi beban pokok pendapatan tumbuh lebih cepat ke Rp167,14 miliar sehingga perusahaan mencatat rugi kotor Rp26,69 miliar. Pemicu utama pembengkakan rugi adalah kerugian selisih kurs, yaitu kerugian akibat perubahan nilai tukar mata uang pada utang atau transaksi dalam valuta asing, yang melonjak dari hanya Rp56,37 juta menjadi Rp117,13 miliar. Beban bunga pinjaman juga naik dari Rp10,09 miliar menjadi Rp33,48 miliar. Rugi per saham dasar membesar dari Rp7,24 menjadi Rp42,26 per saham.",
+   "Dalam surat penjelasan perubahan aset dan liabilitas ke Bursa Efek Indonesia, manajemen CBRE menjelaskan kas perusahaan turun dari Rp14,30 miliar menjadi Rp5,33 miliar karena digunakan untuk belanja aset tetap dan pembayaran operasional. Persediaan, terutama solar untuk operasional kapal, naik dari Rp6,16 miliar menjadi Rp22,65 miliar. Di sisi liabilitas, pinjaman bank jangka panjang melonjak dari Rp170,17 miliar menjadi Rp805,74 miliar, sementara utang lain-lain kepada pihak ketiga turun Rp705,82 miliar karena pembayaran terkait pembelian kapal bernama Gunanusa Hailong. Utang kepada pihak berelasi jangka panjang juga naik dari Rp50,91 miliar menjadi Rp415,48 miliar."
+  ],
+  "fotoAdegan": "A tugboat towing a loaded cargo barge across calm harbor waters, distant cranes and overcast sky, Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi CBRE, karena modal sendiri perusahaan yang masih positif akhir tahun lalu kini berbalik menjadi negatif Rp144,86 miliar, dipicu rugi bersih yang melonjak hampir enam kali lipat. Pos yang paling tersentuh adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, serta beban bunga yang ikut membesar seiring pinjaman bank jangka panjang yang naik dari Rp170 miliar menjadi Rp805 miliar. Pelaku pasar memperhatikan ekuitas negatif karena itu berarti kekayaan bersih pemegang saham sudah terkikis habis oleh akumulasi rugi, bukan sekadar penurunan laba biasa. Ada sisi yang perlu dicatat juga, pendapatan perusahaan sebenarnya tumbuh lima kali lipat, jadi sebagian rugi berasal dari faktor nonoperasional seperti selisih kurs, bukan semata bisnis yang memburuk. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk periode yang berakhir 31 Desember 2026, yang akan memastikan apakah kondisi ekuitas negatif ini bertahan atau berubah setelah diperiksa auditor independen.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ptba-bubarkan-anak-usaha-bukit-multi-properti-likuidasi",
   "category": "Aksi Korporasi",
   "title": "PTBA Bubarkan Anak Usaha Bukit Multi Properti [Likuidasi]",

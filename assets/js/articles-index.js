@@ -41,6 +41,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "cbre-catat-ekuitas-negatif-rp144-86-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "CBRE catat [ekuitas] negatif Rp144,86 miliar di kuartal III",
+  "deck": "Ekuitas CBRE berbalik negatif Rp144,86 miliar pada September 2026, setelah rugi kurs Rp117 miliar mendorong rugi bersih sembilan bulan jadi Rp191,77 miliar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBRE",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "rugi kurs"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031184703-65053-0/FinancialStatement-2026-III-CBRE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ptba-bubarkan-anak-usaha-bukit-multi-properti-likuidasi",
   "category": "Aksi Korporasi",
   "title": "PTBA Bubarkan Anak Usaha Bukit Multi Properti [Likuidasi]",
@@ -6470,22 +6486,6 @@ var ARTICLES = [
    "akuisisi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5d5adaee3a_a84777dbc4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mapi-laba-bersih-9m2026-naik-25-1-jadi-rp2-1-t",
-  "category": "Aksi Korporasi",
-  "title": "MAPI: [Laba Bersih] 9M2026 Naik 25,1% Jadi Rp2,1 T",
-  "deck": "Pendapatan Mitra Adiperkasa tumbuh 24,5% dalam sembilan bulan 2026, diikuti ekspansi ke Malaysia lewat akuisisi Sports Direct dan distribusi eksklusif Musinsa.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAPI",
-   "ritel",
-   "laporan keuangan",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/406e00df33_2a5238b4df.pdf",
   "sourceLabel": "IDX"
  }
 ];

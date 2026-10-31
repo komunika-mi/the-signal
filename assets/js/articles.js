@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ptba-bubarkan-anak-usaha-bukit-multi-properti-likuidasi",
+  "category": "Aksi Korporasi",
+  "title": "PTBA Bubarkan Anak Usaha Bukit Multi Properti [Likuidasi]",
+  "deck": "PTBA melikuidasi anak usaha tak langsungnya, PT Bukit Multi Properti, sebagai bagian dari program penataan anak usaha BUMN oleh Danantara dan MIND ID.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T17:55:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7b8b6e21a7_8591097080.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTBA",
+  "tags": [
+   "PTBA",
+   "likuidasi",
+   "MIND ID",
+   "BUMN"
+  ],
+  "body": [
+   "PT Bukit Asam (Persero) Tbk (PTBA) menyampaikan keterbukaan informasi tentang pembubaran melalui likuidasi PT Bukit Multi Properti (BMP), anak usaha yang dikuasai PTBA secara tidak langsung lewat PT Bukit Multi Investama (BMI). BMI memegang 99,99 persen saham BMP, sementara sisanya 0,01 persen dipegang oleh Yayasan Bukit Asam. Para pemegang saham BMP telah menandatangani keputusan sirkuler tertanggal 31 Oktober 2026 yang menyetujui pembubaran disertai likuidasi, sekaligus menunjuk tiga likuidator: Nuzul Hakim, Dr. Lukman Hakim, dan Fantri Wismantoro.",
+   "Dalam dokumen itu, PTBA menjelaskan bahwa langkah ini merupakan bagian dari kebijakan strategis Negara Republik Indonesia melalui PT Danantara Asset Management, yang mengarahkan penataan atau streamlining anak usaha BUMN. Tujuannya meningkatkan efisiensi, memperkuat fokus pada bisnis inti, dan mengurangi duplikasi fungsi antar anak usaha. PTBA menyebut pembubaran BMP sebagai wujud komitmennya sebagai anggota grup MIND ID dalam mendukung kebijakan pemegang saham pengendali MIND ID.",
+   "PTBA menegaskan bahwa aksi korporasi ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan, dan tidak ada informasi material lain yang belum diungkapkan selain hal tersebut."
+  ],
+  "fotoAdegan": "Quiet exterior of a half-vacant office building in Jakarta at dusk, scaffolding partly dismantled, empty parking area",
+  "takeaway": "Laporan ini netral bagi fundamental PTBA, karena yang dibubarkan hanyalah anak usaha kecil yang dikuasai tidak langsung lewat BMI, dan PTBA sendiri menyatakan tidak ada dampak ke operasional maupun keuangan perusahaan. Yang tersentuh di sini bukan ekuitas atau laba per saham PTBA secara langsung, melainkan struktur kepemilikan anak usaha dalam grup, sehingga efeknya ke laporan keuangan konsolidasi PTBA kemungkinan kecil karena porsi BMP di dalamnya tidak signifikan. Yang perlu dipantau selanjutnya adalah proses likuidasi oleh tiga likuidator yang baru ditunjuk hingga tuntas, serta apakah program penataan anak usaha oleh Danantara dan MIND ID ini akan menyasar entitas lain di dalam grup PTBA, karena itu bisa membentuk pola yang lebih luas dibanding kasus BMP sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beef-laba-bersih-anjlok-75-jadi-rp24-9-miliar-di-9-bulan",
+  "category": "Aksi Korporasi",
+  "title": "BEEF: Laba Bersih [Anjlok] 75% jadi Rp24,9 Miliar di 9 Bulan",
+  "deck": "Laba bersih sembilan bulan BEEF turun dari Rp98,96 miliar menjadi Rp24,89 miliar, seiring pendapatan yang susut 27 persen dan perseroan membeli kembali saham senilai Rp46,86 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T17:46:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031175758-65641-0/FinancialStatement-2026-III-BEEF.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEEF",
+  "tags": [
+   "BEEF",
+   "laporan keuangan",
+   "laba bersih",
+   "buyback saham"
+  ],
+  "body": [
+   "PT Estika Tata Tiara Tbk (BEEF), produsen dan distributor produk pangan olahan, menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Dalam surat bernomor B-274/DIR/ETT/X/2026, Direktur Utama Ari Wijayanto menyatakan laporan ini telah memuat seluruh informasi secara lengkap dan tidak mengandung fakta material yang disembunyikan. Pendapatan perseroan tercatat Rp3,65 triliun, turun dari Rp5,02 triliun pada periode yang sama tahun lalu, sementara laba bersih merosot dari Rp98,96 miliar menjadi Rp24,89 miliar.",
+   "Penurunan laba terjadi di hampir semua lini. Laba kotor turun dari Rp293,35 miliar menjadi Rp269,42 miliar, laba usaha turun dari Rp163,72 miliar menjadi Rp114,15 miliar, dan EBITDA turun dari Rp192,48 miliar menjadi Rp149,99 miliar. Laba per saham dasar ikut turun tajam dari Rp12,19 menjadi Rp3,06. Rasio pengembalian atas ekuitas (ROE) turun dari 27,42 persen menjadi 6,74 persen dan rasio pengembalian atas aset (ROA) turun dari 5,33 persen menjadi 1,10 persen. Arus kas bersih dari aktivitas operasi juga menyusut dari Rp460,16 miliar menjadi Rp324,11 miliar, sementara perseroan membelanjakan Rp211,80 miliar untuk pembelian aset biologis atau hewan ternak dan Rp6,86 miliar untuk persiapan pengembangan usaha susu sapi perah.",
+   "Di sisi permodalan, perseroan melakukan pembelian kembali saham senilai Rp46,86 miliar sepanjang periode ini, yang tercatat mengurangi tambahan modal disetor sebesar Rp33,11 miliar dan membentuk saham treasuri senilai Rp13,76 miliar, sebuah pos yang sebelumnya tidak ada. Akibatnya, jumlah ekuitas perseroan turun dari Rp391,07 miliar pada akhir 2025 menjadi Rp369,10 miliar pada akhir September 2026, meskipun saldo rugi ditahan mengecil dari Rp259,73 miliar menjadi Rp234,74 miliar. Total aset perseroan tercatat Rp2,27 triliun, dengan empat entitas anak yang bergerak di bidang perdagangan dan manufaktur produk konsumen, yaitu PT Sukses International Anugerah Pratama, PT Fajar Jaya Anugerah, PT Sinar Wijaya Utama, dan PT De Glow International, dengan kepemilikan saham perseroan di keempatnya berkisar 99 persen hingga 99,62 persen."
+  ],
+  "fotoAdegan": "Herd of cattle in an open feedlot pen at a livestock farm, dust rising under morning light",
+  "takeaway": "Laporan ini condong negatif bagi BEEF, karena laba bersih sembilan bulan ambruk 75 persen menjadi Rp24,89 miliar sementara perseroan tetap mengeluarkan kas Rp46,86 miliar untuk membeli kembali sahamnya sendiri di tengah pelemahan kinerja itu. Pos yang tersentuh adalah laba per saham dan ekuitas: laba per saham, yaitu bagian keuntungan yang jadi hak tiap lembar saham, turun dari Rp12,19 menjadi Rp3,06, sementara ekuitas atau modal sendiri perseroan berkurang karena sebagian kas dipakai untuk membeli saham beredar alih-alih disimpan sebagai modal usaha. Arus kas dari kegiatan usaha pokok juga menyusut dari Rp460,16 miliar menjadi Rp324,11 miliar, pertanda uang yang masuk dari penjualan ke pelanggan melambat dibanding tahun lalu. Pelaku pasar biasanya memantau laba per saham dan arus kas semacam ini karena keduanya menggambarkan kesehatan bisnis yang sebenarnya, bukan sekadar angka pendapatan di atas kertas. Yang perlu dipantau berikutnya adalah laporan keuangan auditan untuk tahun penuh 2026 yang biasanya terbit awal 2027, serta apakah program pembelian kembali saham ini akan dilanjutkan mengingat kas perseroan justru terpakai saat laba sedang tertekan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "asjt-catat-rugi-rp5-6-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASJT Catat [Rugi] Rp5,6 Miliar di Sembilan Bulan 2026",
+  "deck": "Laba sembilan bulan ASJT berbalik jadi rugi Rp5,62 miliar akibat beban klaim yang melonjak hampir dua kali lipat, sementara ekuitas perseroan menyusut dari Rp321,6 miliar menjadi Rp309,8 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T17:05:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031170746-64978-0/FinancialStatement-2026-III-ASJT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASJT",
+  "tags": [
+   "ASJT",
+   "asuransi",
+   "laporan keuangan",
+   "rugi"
+  ],
+  "body": [
+   "PT Asuransi Jasa Tania Tbk (ASJT) melaporkan rugi bersih Rp5,62 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari laba Rp2,66 miliar pada periode yang sama tahun 2025. Pendapatan dari premi asuransi perseroan sebenarnya naik menjadi Rp183,47 miliar dari Rp160,63 miliar, namun beban klaim melonjak jauh lebih cepat, dari Rp80,32 miliar menjadi Rp149,55 miliar, hampir dua kali lipat. Beban umum dan administrasi relatif stabil di Rp51,81 miliar, sementara pendapatan investasi bersih turun sedikit menjadi Rp7,40 miliar dari Rp8,12 miliar.",
+   "Di sisi posisi keuangan, jumlah ekuitas perseroan turun dari Rp321,64 miliar pada akhir 2025 menjadi Rp309,82 miliar pada akhir September 2026, terutama karena rugi periode berjalan dan pembagian dividen kas Rp1,34 miliar yang dibayarkan dari laba tahun 2025. Total liabilitas justru naik dari Rp237,80 miliar menjadi Rp271,60 miliar, terutama didorong liabilitas kontrak reasuransi yang membesar. Total aset perseroan tercatat Rp581,42 miliar, naik dari Rp559,44 miliar, dengan kas dan setara kas bertambah menjadi Rp13,13 miliar.",
+   "Arus kas dari aktivitas operasi juga menyusut tajam, dari Rp41,89 miliar pada sembilan bulan 2025 menjadi hanya Rp7,05 miliar pada periode yang sama tahun ini. Rugi ini membuat laba per saham dasar perseroan menjadi negatif Rp4,02 per saham, dibanding laba Rp1,90 per saham pada periode sebelumnya. Laporan keuangan interim yang belum diaudit ini ditandatangani oleh Direktur Utama Sugeng Sudibjo dan Direktur Arifia Indah Liany pada 30 Oktober 2026."
+  ],
+  "fotoAdegan": "An insurance claims adjuster's desk piled with blank folders and a calculator, warm afternoon office light, no people in frame",
+  "takeaway": "Laporan ini condong negatif bagi ASJT, karena perusahaan berbalik dari untung menjadi rugi dan beban klaim naiknya jauh lebih cepat dibanding pendapatan premi yang justru tumbuh. Pos yang paling terdampak adalah ekuitas, yaitu total kekayaan bersih pemegang saham, yang menyusut karena rugi periode ini ditambah pembagian dividen dari laba tahun lalu, serta laba per saham yang berbalik negatif, ukuran yang biasa dipakai investor untuk menilai seberapa besar keuntungan yang didapat dari setiap lembar saham yang dimiliki. Arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan usaha sehari-hari, juga menyusut tajam dari Rp41,89 miliar menjadi Rp7,05 miliar, menandakan kemampuan perusahaan menghasilkan uang tunai dari bisnis asuransinya melemah. Yang perlu dipantau berikutnya adalah apakah lonjakan beban klaim ini hanya sementara atau berlanjut di laporan kuartal IV dan laporan keuangan tahunan auditan 2026, yang akan menentukan apakah rugi tahun ini tertutup atau justru membesar.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tyre-laba-bersih-susut-27-meski-penjualan-naik-9-8",
+  "category": "Aksi Korporasi",
+  "title": "TYRE: Laba Bersih [Susut] 27% Meski Penjualan Naik 9,8%",
+  "deck": "Laba bersih TYRE turun 26,7 persen jadi Rp14,32 miliar untuk sembilan bulan pertama 2026, meski penjualan naik 9,8 persen, karena beban lain-lain dan bunga pinjaman membesar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T17:01:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031171141-65606-0/FinancialStatement-2026-III-TYRE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TYRE",
+  "tags": [
+   "TYRE",
+   "laporan keuangan",
+   "laba bersih",
+   "industri ban"
+  ],
+  "body": [
+   "PT King Tire Indonesia Tbk (TYRE) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan bersih konsolidasian naik 9,8 persen, dari Rp451,74 miliar pada periode yang sama tahun 2025 menjadi Rp495,85 miliar. Namun laba bersih yang bisa diatribusikan kepada pemilik entitas induk justru turun 26 persen, dari Rp18,82 miliar menjadi Rp13,92 miliar, karena beban pokok penjualan, beban penjualan, beban umum dan administrasi, serta pos pendapatan dan beban lain-lain bersih semuanya naik, dengan beban lain-lain bersih melonjak dari Rp8,46 miliar menjadi Rp16,01 miliar. Laba per saham dasar ikut turun dari Rp5,41 menjadi Rp4,00.",
+   "Di sisi aset, total aset perusahaan naik dari Rp607,18 miliar pada akhir 2025 menjadi Rp653,19 miliar per 30 September 2026. Kenaikan ini terutama didorong oleh persediaan yang melonjak dari Rp105,58 miliar menjadi Rp190,34 miliar, sementara piutang usaha pihak ketiga justru turun tajam dari Rp111,63 miliar menjadi Rp57,43 miliar dan kas di tangan dan bank menyusut dari Rp15,64 miliar menjadi Rp9,95 miliar. Di sisi liabilitas, utang bank jangka pendek naik dari Rp163,10 miliar menjadi Rp198,67 miliar dan utang usaha pihak ketiga naik dari Rp27,06 miliar menjadi Rp48,26 miliar, sehingga total liabilitas bertambah dari Rp260,40 miliar menjadi Rp291,46 miliar. Total ekuitas tetap naik, dari Rp346,78 miliar menjadi Rp361,73 miliar, dengan jumlah saham beredar tidak berubah dari 3.478.020.000 lembar.",
+   "Laporan arus kas menunjukkan kas bersih dari aktivitas operasi anjlok dari Rp53,29 miliar pada sembilan bulan 2025 menjadi Rp17,05 miliar pada periode yang sama 2026, antara lain karena pembayaran kas kepada pemasok dan karyawan yang naik lebih cepat dibanding penerimaan dari pelanggan, serta pembayaran bunga yang bertambah dari Rp8,63 miliar menjadi Rp10,48 miliar. Perseroan juga mengungkapkan anak usahanya, PT United Kingland, produsen ban dalam yang berlokasi di Cikande, Banten dan sudah beroperasi sejak 1972, dengan total aset Rp148,98 miliar dan dimiliki TYRE sebesar 82,69 persen."
+  ],
+  "fotoAdegan": "Rows of finished rubber tires stacked on pallets inside an Indonesian factory warehouse, forklift passing by, industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi TYRE, sebab di balik kenaikan penjualan hampir 10 persen, laba bersih dan arus kas dari kegiatan usaha sehari-hari justru menyusut tajam, pertanda margin dan efisiensi kas perusahaan sedang tertekan. Yang paling perlu diperhatikan adalah laba per saham, yakni bagian laba yang secara teoritis jadi milik setiap satu lembar saham, yang turun dari Rp5,41 menjadi Rp4,00 karena labanya mengecil sementara jumlah saham tidak berubah, ditambah beban bunga pinjaman yang membesar dan arus kas operasi yang anjlok lebih dari separuh meski penjualan naik, biasanya tanda uang tunai dari penjualan belum sepenuhnya tertagih atau tertahan di persediaan. Penumpukan persediaan hampir dua kali lipat dan kenaikan utang bank jangka pendek untuk membiayainya adalah pos yang pantas dipantau pada laporan kuartal berikutnya, apakah persediaan itu terjual atau justru menumpuk. Yang dipantau selanjutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang berdasarkan aturan OJK biasanya wajib disampaikan ke bursa paling lambat akhir Maret 2027, serta apakah arus kas operasi membaik pada kuartal keempat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bina-laba-interim-naik-jadi-rp72-8-miliar-ekuitas-turun-8-9",
+  "category": "Aksi Korporasi",
+  "title": "BINA: Laba Interim Naik Jadi Rp72,8 Miliar, [Ekuitas] Turun 8,9%",
+  "deck": "Bank Ina Perdana mencatat laba bersih sembilan bulan Rp72,8 miliar, naik lebih dari dua kali lipat, tapi ekuitasnya tergerus kerugian belum terealisasi dari portofolio surat berharga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T16:55:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031170201-65565-0/FinancialStatement-2026-III-BINA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BINA",
+  "tags": [
+   "BINA",
+   "laporan keuangan",
+   "perbankan",
+   "ekuitas"
+  ],
+  "body": [
+   "PT Bank Ina Perdana Tbk (BINA) melaporkan laba bersih Rp72,85 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik 121,8 persen dari Rp32,85 miliar pada periode yang sama tahun lalu, berdasarkan laporan keuangan interim yang belum diaudit yang disampaikan ke Bursa Efek Indonesia pada 31 Oktober 2026. Kenaikan ini ditopang pendapatan bunga neto yang naik 13,3 persen menjadi Rp478,2 miliar, serta penerimaan kembali dari kredit yang sudah dihapusbukukan senilai Rp138 miliar, jauh lebih tinggi dari Rp19,3 miliar pada periode sebelumnya. Laba per saham dasar ikut melonjak dari Rp5,36 menjadi Rp11,87.",
+   "Namun kenaikan laba ini tidak serta merta memperkuat modal bank. Ekuitas BINA justru turun 8,9 persen, dari Rp3,31 triliun pada akhir 2025 menjadi Rp3,02 triliun pada akhir September 2026, karena portofolio surat berharga milik bank mencatat kerugian belum terealisasi senilai Rp366,5 miliar akibat turunnya nilai wajar efek yang digolongkan sebagai nilai wajar melalui penghasilan komprehensif lain. Akibatnya, total penghasilan komprehensif perusahaan berbalik menjadi rugi Rp293,7 miliar, dari laba komprehensif Rp87,1 miliar pada periode yang sama tahun lalu.",
+   "Di sisi aset dan pendanaan, total aset BINA naik 8,3 persen menjadi Rp33,89 triliun, ditopang kenaikan penyaluran kredit neto 12,8 persen menjadi Rp16,76 triliun. Namun simpanan nasabah turun 6,1 persen menjadi Rp25,61 triliun, sementara pendanaan melalui penjualan efek dengan janji dibeli kembali (repo) melonjak dari Rp301 miliar menjadi Rp4,69 triliun. Pergeseran ini menunjukkan bank semakin mengandalkan pendanaan jangka pendek dari pasar uang untuk menambal berkurangnya simpanan nasabah."
+  ],
+  "fotoAdegan": "Bank employees working at a dealing room desk with multiple blurred trading screens in the background, downtown Jakarta office, evening light",
+  "takeaway": "Laporan ini kami nilai netral karena sinyalnya bercampur: laba bersih memang melonjak tajam, tapi kekuatan modal bank justru melemah pada periode yang sama. Yang tersentuh adalah ekuitas, yakni selisih aset dan utang yang menjadi bantalan bank menghadapi kerugian, serta laba per saham yang mencerminkan bagian keuntungan tiap pemegang saham. Ekuitas turun bukan karena bank rugi tunai, melainkan karena nilai pasar obligasi dan surat berharga yang dipegang bank ikut tertekan, dan pelaku pasar mencermati ekuitas karena itu salah satu penyangga utama bank saat menghadapi kerugian. Pergeseran pendanaan dari simpanan nasabah ke transaksi repo juga patut dicermati karena repo biasanya berbunga lebih mahal dan berjangka pendek, sehingga menambah risiko saat harus diperpanjang. Yang perlu dipantau berikutnya adalah pelaksanaan penambahan modal tanpa hak memesan efek terlebih dahulu yang menurut jadwal perseroan berlangsung 3 November 2026, karena suntikan modal baru itu bisa menambal penyusutan ekuitas yang tercatat dalam laporan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bri-peduli-kembangkan-brinita-di-bandung",
   "category": "BUMN",
   "title": "BRI Peduli Kembangkan [BRInita] di Bandung",
@@ -27,6 +157,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang konkret berubah dari berita ini adalah satu titik program CSR BRI, BRInita di Pajajaran Hegar, Bandung, yang menanami lahan sekitar 300 meter persegi dengan belasan jenis sayur dan umbi, dikelola bersama kelompok wanita tani setempat. Pihak yang langsung terdampak adalah warga RW 03 Kelurahan Pajajaran yang terlibat dalam kelompok tani tersebut, yang berpotensi mendapat tambahan pangan atau penghematan belanja dapur dari hasil kebun bersama. Berita ini belum menyebut berapa total titik BRInita yang sudah dijalankan BRI Peduli di seluruh Indonesia, berapa dana CSR yang dialokasikan, atau apakah program ini sudah terbukti menambah pendapatan maupun menekan pengeluaran pangan warga secara terukur. Tanpa angka skala dan dampak itu, belum bisa dibaca apakah BRInita ini program simbolis seremonial atau bagian dari strategi ketahanan pangan perkotaan yang akan diperluas. Yang perlu ditunggu adalah laporan CSR BRI berikutnya yang biasanya memuat jumlah titik dan penerima manfaat program ini secara nasional.",
   "imageV": "mvw7pc1y"
+ },
+ {
+  "slug": "dgns-rugi-melebar-ke-rp4-47-miliar-meski-pendapatan-naik-12",
+  "category": "Aksi Korporasi",
+  "title": "DGNS: Rugi [Melebar] ke Rp4,47 Miliar Meski Pendapatan Naik 12%",
+  "deck": "Laporan interim sembilan bulan DGNS mencatat pendapatan naik 12 persen, namun rugi bersih melebar jadi Rp4,47 miliar dan arus kas operasi berbalik negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T16:28:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031164212-65578-0/FinancialStatement-2026-III-DGNS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGNS",
+  "tags": [
+   "DGNS",
+   "laporan keuangan",
+   "kesehatan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Diagnos Laboratorium Utama Tbk (DGNS) melaporkan pendapatan neto sebesar Rp132,40 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik dari Rp118,27 miliar pada periode yang sama tahun sebelumnya. Namun kenaikan pendapatan itu tidak cukup menutup kenaikan beban. Beban pokok pendapatan naik dari Rp64,97 miliar menjadi Rp73,21 miliar, sementara beban umum dan administrasi membengkak dari Rp48,32 miliar menjadi Rp53,70 miliar. Akibatnya, perseroan mencatat rugi bersih Rp4,47 miliar, melebar dari rugi Rp2,65 miliar pada periode yang sama tahun 2025, dengan rugi per saham dasar dan dilusian sebesar Rp3,42, dibandingkan Rp2,12 pada tahun sebelumnya.",
+   "Di sisi permodalan, DGNS mencatat suntikan dana segar Rp29,25 miliar dari penerbitan 125 juta saham baru tanpa hak memesan efek terlebih dahulu sepanjang periode berjalan. Jumlah saham beredar bertambah dari 1,25 miliar menjadi 1,375 miliar lembar, sehingga modal disetor naik dari Rp31,25 miliar menjadi Rp34,375 miliar dan tambahan modal disetor melonjak dari Rp36,71 miliar menjadi Rp62,83 miliar. Dana tersebut mendorong total ekuitas perseroan naik dari Rp203,99 miliar pada akhir 2025 menjadi Rp228,77 miliar pada akhir September 2026, sementara total liabilitas justru turun dari Rp114,68 miliar menjadi Rp103,44 miliar.",
+   "Dari sisi arus kas, kegiatan operasional DGNS justru membukukan kas keluar bersih Rp3,77 miliar pada sembilan bulan 2026, berbalik dari kas masuk bersih Rp5,05 miliar pada periode yang sama tahun lalu. Kegiatan investasi menyedot kas Rp18,69 miliar, termasuk penempatan uang muka investasi Rp15,15 miliar, sementara kegiatan pendanaan menyumbang kas masuk Rp25,26 miliar, mayoritas dari penerbitan saham baru tersebut. Kas dan bank pada akhir September 2026 tercatat Rp11,28 miliar, naik dari Rp8,47 miliar pada akhir 2025. Perseroan, anak usaha PT Bundamedik Tbk, juga mencatat jumlah pegawai tetap bertambah dari 146 menjadi 186 orang sepanjang periode tersebut."
+  ],
+  "fotoAdegan": "Medical laboratory technician in blue scrubs handling blood sample tubes inside a modern diagnostic lab, sterile lighting",
+  "takeaway": "Laporan ini condong negatif bagi fundamental DGNS karena pertumbuhan pendapatan 12 persen tidak sebanding dengan pertumbuhan beban, membuat rugi bersih melebar hampir dua kali lipat dan arus kas dari kegiatan operasional, yaitu uang tunai yang benar-benar dihasilkan dari aktivitas jualan jasa laboratorium, berbalik menjadi minus. Kenaikan ekuitas atau modal sendiri perseroan sebenarnya bukan berasal dari laba usaha, melainkan dari suntikan dana Rp29,25 miliar lewat penerbitan saham baru, sehingga jumlah saham beredar bertambah 10 persen dan ini berarti kerugian per saham kini terbagi ke lebih banyak lembar saham. Dana segar itu juga terlihat dipakai untuk menutup kas operasional yang minus dan membiayai penempatan uang muka investasi Rp15,15 miliar, bukan untuk ekspansi yang langsung mendatangkan pendapatan baru. Karena laporan ini belum diaudit, yang perlu dipantau berikutnya adalah laporan tahunan 2026 yang telah diaudit, untuk memastikan apakah tren rugi dan arus kas negatif ini berlanjut atau terkoreksi setelah kuartal keempat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "luck-balik-untung-laba-rp1-7-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "LUCK Balik Untung, [Laba] Rp1,7 Miliar di Kuartal III 2026",
+  "deck": "Pendapatan Sentral Mitra Informatika naik 41 persen jadi Rp92,1 miliar dalam sembilan bulan 2026, mengantarkan laba bersih Rp1,7 miliar setelah rugi tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T15:59:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031160750-64566-0/FinancialStatement-2026-III-LUCK.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LUCK",
+  "tags": [
+   "LUCK",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Sentral Mitra Informatika Tbk (LUCK) mencatat pendapatan neto Rp92,1 miliar untuk sembilan bulan pertama 2026, naik 41 persen dibandingkan Rp65,3 miliar pada periode yang sama tahun lalu, menurut laporan keuangan interim tidak diaudit yang disampaikan ke Bursa Efek Indonesia pada 31 Oktober 2026. Kenaikan pendapatan ini membuat laba usaha perusahaan berbalik menjadi Rp2,46 miliar, setelah sebelumnya rugi usaha Rp5,54 miliar pada periode yang sama tahun 2025. Secara keseluruhan, laba bersih periode berjalan tercatat Rp1,73 miliar, berbalik dari rugi Rp3,54 miliar pada sembilan bulan pertama 2025, sehingga laba per saham dasar menjadi Rp2,40 dibandingkan rugi Rp4,95 per saham pada tahun sebelumnya.",
+   "Di sisi arus kas, perusahaan mencatat kas neto dari aktivitas operasi sebesar Rp3,77 miliar, berbalik dari penggunaan kas Rp6,08 miliar pada periode yang sama tahun lalu. Posisi kas dan setara kas naik menjadi Rp26,49 miliar per 30 September 2026 dari Rp23,91 miliar pada akhir 2025. Utang usaha kepada pihak ketiga turun signifikan, dari Rp14,52 miliar menjadi Rp6,46 miliar, sementara total liabilitas perusahaan berkurang dari Rp31,46 miliar menjadi Rp23,48 miliar. Total ekuitas naik tipis dari Rp115,94 miliar menjadi Rp117,85 miliar, ditopang laba periode ini, meskipun total aset perusahaan turun dari Rp147,40 miliar menjadi Rp141,33 miliar, terutama karena penyusutan nilai aset tetap dari Rp64,38 miliar menjadi Rp58,95 miliar.",
+   "Laporan ini juga mencantumkan informasi tiga anak usaha Sentral Mitra Informatika, yaitu PT Sentral Mitra Logistik yang belum beroperasi, serta PT Sentral Solusi Teknologi dan PT Sentral Kreasi Inovasi yang masing-masing telah beroperasi sejak 2021 dan 2019, dengan kepemilikan saham perusahaan di ketiganya mencapai 99 persen. Pemilik manfaat utama perusahaan tercatat atas nama Caroline Himawati Hidajat."
+  ],
+  "fotoAdegan": "Warehouse workers stacking boxes of computer hardware and networking equipment onto pallets under warm interior lighting",
+  "takeaway": "Laporan ini condong positif bagi LUCK karena kinerja operasional berbalik dari rugi menjadi laba dalam sembilan bulan 2026, didukung kenaikan pendapatan 41 persen dan pengelolaan utang yang lebih ketat. Tiga pos yang tersentuh adalah laba per saham, yang berbalik dari rugi Rp4,95 menjadi laba Rp2,40 per lembar sehingga tiap saham kini mencerminkan nilai positif bagi pemegangnya; arus kas operasi, yang berbalik dari defisit menjadi surplus Rp3,77 miliar sehingga bisnis kini benar-benar menghasilkan uang tunai, bukan sekadar laba di atas kertas; dan ekuitas, yang naik tipis karena ditopang laba periode ini meski total aset perusahaan justru menyusut. Yang perlu dipantau berikutnya adalah apakah tren ini berlanjut di laporan tahunan auditan, karena data dalam dokumen ini masih berstatus tidak diaudit dan baru mencakup sembilan bulan pertama tahun 2026.",
+  "sentimen": "positif"
  },
  {
   "slug": "sger-pendapatan-naik-17-laba-turun-tipis-di-kuartal-iii",

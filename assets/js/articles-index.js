@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ptba-bubarkan-anak-usaha-bukit-multi-properti-likuidasi",
+  "category": "Aksi Korporasi",
+  "title": "PTBA Bubarkan Anak Usaha Bukit Multi Properti [Likuidasi]",
+  "deck": "PTBA melikuidasi anak usaha tak langsungnya, PT Bukit Multi Properti, sebagai bagian dari program penataan anak usaha BUMN oleh Danantara dan MIND ID.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTBA",
+   "likuidasi",
+   "MIND ID",
+   "BUMN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7b8b6e21a7_8591097080.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beef-laba-bersih-anjlok-75-jadi-rp24-9-miliar-di-9-bulan",
+  "category": "Aksi Korporasi",
+  "title": "BEEF: Laba Bersih [Anjlok] 75% jadi Rp24,9 Miliar di 9 Bulan",
+  "deck": "Laba bersih sembilan bulan BEEF turun dari Rp98,96 miliar menjadi Rp24,89 miliar, seiring pendapatan yang susut 27 persen dan perseroan membeli kembali saham senilai Rp46,86 miliar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEEF",
+   "laporan keuangan",
+   "laba bersih",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031175758-65641-0/FinancialStatement-2026-III-BEEF.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asjt-catat-rugi-rp5-6-miliar-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASJT Catat [Rugi] Rp5,6 Miliar di Sembilan Bulan 2026",
+  "deck": "Laba sembilan bulan ASJT berbalik jadi rugi Rp5,62 miliar akibat beban klaim yang melonjak hampir dua kali lipat, sementara ekuitas perseroan menyusut dari Rp321,6 miliar menjadi Rp309,8 miliar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASJT",
+   "asuransi",
+   "laporan keuangan",
+   "rugi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031170746-64978-0/FinancialStatement-2026-III-ASJT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tyre-laba-bersih-susut-27-meski-penjualan-naik-9-8",
+  "category": "Aksi Korporasi",
+  "title": "TYRE: Laba Bersih [Susut] 27% Meski Penjualan Naik 9,8%",
+  "deck": "Laba bersih TYRE turun 26,7 persen jadi Rp14,32 miliar untuk sembilan bulan pertama 2026, meski penjualan naik 9,8 persen, karena beban lain-lain dan bunga pinjaman membesar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TYRE",
+   "laporan keuangan",
+   "laba bersih",
+   "industri ban"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031171141-65606-0/FinancialStatement-2026-III-TYRE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bina-laba-interim-naik-jadi-rp72-8-miliar-ekuitas-turun-8-9",
+  "category": "Aksi Korporasi",
+  "title": "BINA: Laba Interim Naik Jadi Rp72,8 Miliar, [Ekuitas] Turun 8,9%",
+  "deck": "Bank Ina Perdana mencatat laba bersih sembilan bulan Rp72,8 miliar, naik lebih dari dua kali lipat, tapi ekuitasnya tergerus kerugian belum terealisasi dari portofolio surat berharga.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BINA",
+   "laporan keuangan",
+   "perbankan",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031170201-65565-0/FinancialStatement-2026-III-BINA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bri-peduli-kembangkan-brinita-di-bandung",
   "category": "BUMN",
   "title": "BRI Peduli Kembangkan [BRInita] di Bandung",
@@ -20,6 +100,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475934-fellowship-journalism-menanam-di-brinita-buruan-sae-pajajaran-hegar-kota-bandung"
+ },
+ {
+  "slug": "dgns-rugi-melebar-ke-rp4-47-miliar-meski-pendapatan-naik-12",
+  "category": "Aksi Korporasi",
+  "title": "DGNS: Rugi [Melebar] ke Rp4,47 Miliar Meski Pendapatan Naik 12%",
+  "deck": "Laporan interim sembilan bulan DGNS mencatat pendapatan naik 12 persen, namun rugi bersih melebar jadi Rp4,47 miliar dan arus kas operasi berbalik negatif.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGNS",
+   "laporan keuangan",
+   "kesehatan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031164212-65578-0/FinancialStatement-2026-III-DGNS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "luck-balik-untung-laba-rp1-7-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "LUCK Balik Untung, [Laba] Rp1,7 Miliar di Kuartal III 2026",
+  "deck": "Pendapatan Sentral Mitra Informatika naik 41 persen jadi Rp92,1 miliar dalam sembilan bulan 2026, mengantarkan laba bersih Rp1,7 miliar setelah rugi tahun lalu.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LUCK",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031160750-64566-0/FinancialStatement-2026-III-LUCK.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "sger-pendapatan-naik-17-laba-turun-tipis-di-kuartal-iii",
@@ -6370,120 +6482,6 @@ var ARTICLES = [
    "saham treasuri"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026185027-64542-0/FinancialStatement-2026-III-CHEK.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "djp-rombak-aturan-pembayaran-pajak-sanksi-bisa-hapus-100",
-  "category": "Makroekonomi",
-  "title": "DJP Rombak Aturan Pembayaran Pajak, Sanksi Bisa [Hapus] 100%",
-  "deck": "DJP mengubah tata cara pembayaran utang pajak agar pokok dilunasi lebih dulu, serta menawarkan pengurangan sanksi administratif bertahap hingga 100 persen sampai akhir 2026.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/djp-rombak-aturan-pembayaran-pajak-sanksi-bisa-hapus-100.jpg",
-  "imageV": "mvp6tvtb",
-  "tags": [
-   "pajak",
-   "DJP",
-   "sanksi administratif",
-   "PMK 71/2026"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/dorong-kepastian-hukum-kanwil-djp-sulselbartra-bedah-pmk-712026-dan-kep-2392026-di",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "pgjo-dirikan-anak-usaha-baru-di-bisnis-logistik",
-  "category": "Aksi Korporasi",
-  "title": "PGJO Dirikan Anak Usaha Baru di Bisnis [Logistik]",
-  "deck": "Dua anak usaha PGJO, MMM dan SSS, mendirikan PT Mitra Samudera Logistik dengan modal disetor Rp500 juta untuk masuk ke jasa pengurusan transportasi.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGJO",
-   "anak usaha",
-   "transaksi afiliasi",
-   "logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/62a9586f6c_87da5dca75.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bris-rencanakan-buyback-saham-rp500-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BRIS Rencanakan [Buyback] Saham Rp500 Miliar",
-  "deck": "Bank Syariah Indonesia mengajukan rencana pembelian kembali saham senilai maksimal Rp500 miliar memanfaatkan aturan OJK untuk kondisi pasar yang berfluktuasi signifikan.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRIS",
-   "buyback saham",
-   "Bank Syariah Indonesia",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e80a044001_07cdfc2a24.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "alii-jelaskan-volatilitas-afiliasi-rathod-beli-12-6-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "ALII Jelaskan Volatilitas, Afiliasi Rathod Beli [12,6 Juta] Saham",
-  "deck": "ALII menjawab permintaan BEI soal volatilitas transaksi saham, pengendali dan perusahaan afiliasinya tercatat membeli saham, sementara kinerja angkutan batu bara disebut meningkat dari tahun lalu.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ALII",
-   "volatilitas saham",
-   "pemegang saham",
-   "Ancara Logistics"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6fa560ae09_912bfbdeaf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mapi-liabilitas-naik-23-8-usai-akuisisi-sports-direct-malaysia",
-  "category": "Aksi Korporasi",
-  "title": "MAPI: Liabilitas Naik 23,8% Usai Akuisisi [Sports Direct Malaysia]",
-  "deck": "Liabilitas MAPI naik 23,8% dalam sembilan bulan, didorong utang pembelian saham Rp1,9 triliun untuk mengakuisisi Sports Direct Malaysia yang kini dikonsolidasikan penuh.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAPI",
-   "akuisisi",
-   "liabilitas",
-   "Sports Direct Malaysia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026184354-64639-0/FinancialStatement-2026-III-MAPI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbld-tambah-fasilitas-kredit-rp500-miliar-dari-bank-danamon",
-  "category": "Aksi Korporasi",
-  "title": "BBLD Tambah [Fasilitas Kredit] Rp500 Miliar dari Bank Danamon",
-  "deck": "Buana Finance menambah pinjaman Rp500 miliar dari Bank Danamon, membuat total utang perusahaan jadi Rp2,15 triliun atau 152,73 persen dari ekuitas.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBLD",
-   "Buana Finance",
-   "fasilitas kredit",
-   "Bank Danamon"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/33dcf872e8_84ff6b402b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmri-jawab-lagi-permintaan-bursa-soal-kredit-jhonlin",
-  "category": "Aksi Korporasi",
-  "title": "BMRI Jawab Lagi Permintaan Bursa soal Kredit [Jhonlin]",
-  "deck": "Bursa Efek Indonesia meminta penjelasan lanjutan dari Bank Mandiri soal kredit ke PT Jhonlin Baratama, termasuk agunan saham JARR dan PGUN serta kaitannya dengan Bayan Resources.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMRI",
-   "Jhonlin Baratama",
-   "Bayan Resources",
-   "kredit perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/24d24b287a_aabaa37f8c.pdf",
   "sourceLabel": "IDX"
  }
 ];

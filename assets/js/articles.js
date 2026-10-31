@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pabrik-sepatu-kek-batang-pekerjakan-174-difabel",
+  "category": "Ketenagakerjaan",
+  "title": "Pabrik Sepatu KEK Batang Pekerjakan 174 [Difabel]",
+  "deck": "PT Yih Quan Footwear Indonesia di KEK Industropolis Batang mempekerjakan 174 penyandang disabilitas dari 6.131 karyawan, lewat asesmen klinis dan kerja sama dengan SLB.",
+  "image": "assets/img/pabrik-sepatu-kek-batang-pekerjakan-174-difabel.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T22:42:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475986-kisah-dari-batang-mengubah-stigma-lewat-peluang-kerja-inklusif-bagi-penyandang-disabilitas",
+  "tags": [
+   "difabel",
+   "KEK Industropolis Batang",
+   "ketenagakerjaan inklusif",
+   "industri sepatu"
+  ],
+  "body": [
+   "PT Yih Quan Footwear Indonesia, produsen sepatu yang beroperasi di Kawasan Ekonomi Khusus (KEK) Industropolis Batang, mempekerjakan 174 penyandang disabilitas dari total 6.131 karyawan yang dimilikinya. Jumlah itu setara dengan 2,8 persen dari seluruh tenaga kerja perusahaan, sebuah proporsi yang menunjukkan praktik ketenagakerjaan inklusif di tengah upaya mengubah stigma terhadap penyandang disabilitas di dunia kerja. Langkah ini penting disoroti karena menjadi contoh konkret bagaimana perusahaan di kawasan industri bisa membuka ruang kerja yang setara bagi kelompok yang selama ini sering tersisih dari pasar tenaga kerja formal.",
+   "Penempatan karyawan difabel di perusahaan ini mengacu pada Undang-Undang Nomor 8 Tahun 2016 tentang Penyandang Disabilitas, dengan pendekatan yang disebut manajemen sebagai humanis. Setiap karyawan menjalani asesmen klinis internal sebelum ditempatkan, sehingga posisi kerja disesuaikan dengan kondisi medis dan kemampuan fisik masing-masing, bukan dipaksakan. HR PT Yih Quan Footwear Indonesia, Hendri Aditya Wicaksono, menyatakan perusahaan selalu membuka peluang seluas-luasnya bagi karyawan difabel. \"Jangan pernah merasa minder dengan kekurangan yang kita punya. Tetaplah rukun antarsesama pekerja, rawat semangat, dan beranilah melangkah,\" ujarnya, seraya menambahkan bahwa setiap individu dengan potensi besar layak didukung dan disejahterakan.",
+   "Untuk memperluas akses rekrutmen, perusahaan menjalin kerja sama dengan Dinas Tenaga Kerja dan Sekolah Luar Biasa (SLB) guna menjaring talenta difabel baru. Dua pekerja difabel, Devi Novitasari dan Fahrul Rozi, menjadi contoh bagaimana lingkungan kerja yang suportif memberi dampak nyata bagi mereka. \"Saya sangat bersyukur dan bangga bisa bekerja di sini, karena perusahaan benar-benar mau menerima dan memahami kondisi saya,\" ujar Devi, sementara Fahrul turut mendorong rekan-rekan difabel lain untuk terus mengembangkan potensi diri agar bisa berkontribusi lebih luas."
+  ],
+  "fotoAdegan": "Footwear factory workers assembling shoes along a production line, varied paces and postures, bright industrial workshop lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/31/6ae60b542cf4f-ilustrasi-penyandang-disabilitas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Dari 6.131 karyawan di pabrik ini, 174 orang atau 2,8 persen adalah penyandang disabilitas, dan penempatan posisi kerjanya ditentukan lewat pemeriksaan kondisi fisik masing-masing sebelum mereka mulai bekerja. Pihak yang jelas terdampak adalah para pekerja difabel itu sendiri, juga calon pekerja baru, karena perusahaan membuka jalur rekrutmen lewat Dinas Tenaga Kerja dan Sekolah Luar Biasa di Batang. Arahnya tampak menuju perluasan berkelanjutan, bukan sekadar angka yang berhenti di satu titik, karena kerja sama dengan SLB dan Disnaker itu memang dirancang untuk terus menjaring talenta difabel baru. Yang akan membuktikan apakah arah ini benar-benar berlanjut adalah apakah angka 174 orang ini bertambah pada laporan ketenagakerjaan perusahaan berikutnya, sebab berita ini tidak menyebutkan data pembanding dari periode-periode sebelumnya.",
+  "imageV": "mvwlmqe8"
+ },
+ {
   "slug": "pajak-ekonomi-digital-tembus-rp58-75-triliun-per-september",
   "category": "Makroekonomi",
   "title": "Pajak Ekonomi Digital [Tembus] Rp58,75 Triliun per September",

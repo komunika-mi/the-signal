@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "8b2t24V2BH4",
+  "title": "PT Xaviera Global Synergy Ubah Sampah Jadi Energi",
+  "category": "Energi",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "PT Xaviera Global Synergy mendapat penghargaan Inovasi Membangun Negeri 2026 atas inovasi mengolah sampah menjadi sumber energi dan nilai ekonomi baru.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti model bisnis energi terbarukan berbasis pengolahan sampah.",
+  "terbit": "2026-10-31T15:37:19+00:00"
+ },
+ {
+  "id": "uvIlep9dQag",
+  "title": "BTN Hadirkan Inovasi Layanan Perumahan Terintegrasi",
+  "category": "Perbankan",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "PT Bank Tabungan Negara meraih penghargaan Inovasi Membangun Negeri 2026 atas pengembangan layanan perumahan yang lebih mudah, praktis, dan terintegrasi bagi nasabah.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan arah inovasi perbankan nasional di segmen pembiayaan perumahan.",
+  "terbit": "2026-10-31T15:26:35+00:00"
+ },
+ {
+  "id": "fP0QrwQcLCk",
+  "title": "Telkomsel Tingkatkan Pengalaman Digital Lewat Veronica AI",
+  "category": "Teknologi",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "Telkomsel menerima penghargaan Inovasi Membangun Negeri 2026 atas pengembangan asisten digital Veronica AI untuk meningkatkan pengalaman pelanggan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena memperlihatkan strategi perusahaan telekomunikasi memanfaatkan AI untuk daya saing bisnis.",
+  "terbit": "2026-10-31T15:25:41+00:00"
+ },
+ {
   "id": "I3PTDpqIlzs",
   "title": "Insentif Fiskal Rp1 Triliun untuk Daerah Berkinerja Baik",
   "category": "Makroekonomi",

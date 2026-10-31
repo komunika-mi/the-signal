@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "8b2t24V2BH4",
+  "title": "PT Xaviera Global Synergy Ubah Sampah Jadi Energi",
+  "category": "Energi",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "PT Xaviera Global Synergy mendapat penghargaan Inovasi Membangun Negeri 2026 atas inovasi mengolah sampah menjadi sumber energi dan nilai ekonomi baru.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti model bisnis energi terbarukan berbasis pengolahan sampah."
+ },
+ {
+  "id": "uvIlep9dQag",
+  "title": "BTN Hadirkan Inovasi Layanan Perumahan Terintegrasi",
+  "category": "Perbankan",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "PT Bank Tabungan Negara meraih penghargaan Inovasi Membangun Negeri 2026 atas pengembangan layanan perumahan yang lebih mudah, praktis, dan terintegrasi bagi nasabah.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan arah inovasi perbankan nasional di segmen pembiayaan perumahan."
+ },
+ {
+  "id": "fP0QrwQcLCk",
+  "title": "Telkomsel Tingkatkan Pengalaman Digital Lewat Veronica AI",
+  "category": "Teknologi",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "Telkomsel menerima penghargaan Inovasi Membangun Negeri 2026 atas pengembangan asisten digital Veronica AI untuk meningkatkan pengalaman pelanggan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena memperlihatkan strategi perusahaan telekomunikasi memanfaatkan AI untuk daya saing bisnis."
+ },
+ {
   "id": "I3PTDpqIlzs",
   "title": "Insentif Fiskal Rp1 Triliun untuk Daerah Berkinerja Baik",
   "category": "Makroekonomi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Kementerian Pertanian memfasilitasi pembentukan koperasi bagi peternak dan petani jagung guna memperkuat ekosistem pakan mandiri.",
   "takeaway": "Langkah ini relevan bagi pembaca ekonomi karena berkaitan dengan upaya menekan ketergantungan impor pakan ternak dan menjaga harga di tingkat petani."
- },
- {
-  "id": "Smh_Pfc1Oxw",
-  "title": "1,1 Juta Warga RI Keluar dari Kemiskinan Ekstrem",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Menko Pemberdayaan Masyarakat Muhaimin Iskandar menyebut 1,1 juta orang keluar dari kemiskinan ekstrem dalam dua tahun pemerintahan Presiden Prabowo Subianto.",
-  "takeaway": "Data ini menjadi indikator penting bagi pembaca ekonomi untuk menilai efektivitas program perlindungan sosial dan pemerataan kesejahteraan."
- },
- {
-  "id": "DqtZzxJmcjk",
-  "title": "Menaker Hadiri Pertemuan Serikat Buruh Asia Pasifik",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Pagi",
-  "summary": "Menteri Ketenagakerjaan Yassierli menghadiri pertemuan regional ke-28 International Trade Union Confederation Asia Pacific di Jakarta untuk membahas isu ketenagakerjaan di kawasan.",
-  "takeaway": "Relevan bagi pembaca karena menunjukkan arah kebijakan ketenagakerjaan Indonesia dalam forum regional."
- },
- {
-  "id": "tO-LvTs_bZI",
-  "title": "Bahlil Tanggapi PM Singapura soal Ekspor Gas RI",
-  "category": "Energi",
-  "program": "Apa Kabar Indonesia Pagi",
-  "summary": "Menteri ESDM Bahlil Lahadalia menanggapi pernyataan PM Singapura Lawrence Wong soal pemangkasan ekspor gas Indonesia, dan menegaskan pengurangan pasokan masih sesuai batas kontrak minimum.",
-  "takeaway": "Penting bagi pembaca karena menyangkut kebijakan ekspor energi dan hubungan dagang gas antara Indonesia dan Singapura."
  }
 ];

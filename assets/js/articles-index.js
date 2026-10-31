@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pabrik-sepatu-kek-batang-pekerjakan-174-difabel",
+  "category": "Ketenagakerjaan",
+  "title": "Pabrik Sepatu KEK Batang Pekerjakan 174 [Difabel]",
+  "deck": "PT Yih Quan Footwear Indonesia di KEK Industropolis Batang mempekerjakan 174 penyandang disabilitas dari 6.131 karyawan, lewat asesmen klinis dan kerja sama dengan SLB.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/pabrik-sepatu-kek-batang-pekerjakan-174-difabel.jpg",
+  "imageV": "mvwlmqe8",
+  "tags": [
+   "difabel",
+   "KEK Industropolis Batang",
+   "ketenagakerjaan inklusif",
+   "industri sepatu"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475986-kisah-dari-batang-mengubah-stigma-lewat-peluang-kerja-inklusif-bagi-penyandang-disabilitas"
+ },
+ {
   "slug": "pajak-ekonomi-digital-tembus-rp58-75-triliun-per-september",
   "category": "Makroekonomi",
   "title": "Pajak Ekonomi Digital [Tembus] Rp58,75 Triliun per September",
@@ -6470,22 +6487,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dc0a703da0_dc9a49a58e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mapa-laba-bersih-9m2026-naik-25-5-ke-rp1-4-triliun",
-  "category": "Aksi Korporasi",
-  "title": "MAPA: Laba Bersih 9M2026 [Naik] 25,5% ke Rp1,4 Triliun",
-  "deck": "Pendapatan bersih MAPA tumbuh 17,8 persen menjadi Rp16,4 triliun dalam sembilan bulan 2026, ditopang ekspansi gerai dan akuisisi Sports Direct Malaysia.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAPA",
-   "laporan keuangan",
-   "ritel",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5d5adaee3a_a84777dbc4.pdf",
   "sourceLabel": "IDX"
  }
 ];

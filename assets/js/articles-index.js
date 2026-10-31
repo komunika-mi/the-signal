@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kaef-rombak-utang-jangka-pendek-rugi-menyusut-ke-rp12-9-m",
+  "category": "Aksi Korporasi",
+  "title": "KAEF Rombak Utang Jangka Pendek, Rugi [Menyusut] ke Rp12,9 M",
+  "deck": "KAEF catat rugi Rp12,9 miliar pada sembilan bulan 2026, jauh menyusut dari Rp234,1 miliar setahun lalu, seiring restrukturisasi utang bank jangka pendek ke jangka panjang.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KAEF",
+   "Kimia Farma",
+   "laporan keuangan",
+   "BUMN farmasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031115423-65493-0/FinancialStatement-2026-III-KAEF.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meri-berbalik-rugi-rp429-6-juta-pada-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MERI Berbalik [Rugi] Rp429,6 Juta pada Kuartal III 2026",
+  "deck": "Beban umum dan administrasi yang melonjak 37 persen membuat PT Merry Riana Edukasi Tbk merugi Rp429,6 juta pada sembilan bulan pertama 2026, berbalik dari laba Rp4,4 miliar tahun sebelumnya.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MERI",
+   "laporan keuangan",
+   "emiten pendidikan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031115317-65573-0/FinancialStatement-2026-III-MERI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-anak-usaha-raih-kontrak-epc-pltmg-pln-rp3-8-t",
+  "category": "Aksi Korporasi",
+  "title": "BIKE: Anak Usaha Raih [Kontrak] EPC PLTMG PLN Rp3,8 T",
+  "deck": "Anak usaha BIKE, PT Karya Bersinar Indonesia, mendapat kontrak EPC PLTMG 2x100 MW senilai Rp3,8 triliun dari PLN Indonesia Power.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "kontrak PLN",
+   "EPC PLTMG",
+   "energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f8e66ad747_efd7b7f434.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "slis-rugi-melebar-9-bulan-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "SLIS Rugi Melebar 9 Bulan, Kas Operasi [Negatif]",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan rugi bersih SLIS melebar menjadi Rp9,67 miliar, sementara arus kas dari kegiatan usaha berbalik negatif Rp15,68 miliar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SLIS",
+   "laporan keuangan",
+   "rugi bersih",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031105118-65528-0/FinancialStatement-2026-III-SLIS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-turun-lagi-jadi-rp2-526-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Lagi Jadi Rp2.526.000/Gram",
@@ -20,6 +84,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475873-harga-emas-antam-hari-ini-31-oktober-2026-lagi-lagi-menurun-kini-jadi-rp2526000-per-gram"
+ },
+ {
+  "slug": "rugi-pssi-balik-rugi-liabilitas-melonjak-34",
+  "category": "Aksi Korporasi",
+  "title": "[Rugi] PSSI Balik Rugi, Liabilitas Melonjak 34%",
+  "deck": "Laba PT IMC Pelita Logistik Tbk (PSSI) berbalik jadi rugi pada sembilan bulan pertama 2026 seiring pendapatan turun dan utang bank bertambah 34 persen.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "laporan keuangan",
+   "liabilitas",
+   "logistik laut"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031093819-65155-0/FinancialStatement-2026-III-PSSI.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "laba-wbsa-turun-55-di-kuartal-iii-2026-pendapatan-naik-31",
@@ -952,6 +1032,70 @@ var ARTICLES = [
    "RUPSU"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f329068f0b_22907d4915.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meds-catat-laba-tapi-liabilitas-melonjak-60-persen",
+  "category": "Aksi Korporasi",
+  "title": "MEDS Catat Laba, tapi Liabilitas [Melonjak] 60 Persen",
+  "deck": "Pendapatan Hetzer Medical (MEDS) naik lebih dari empat kali lipat pada kuartal III 2026 dan berbalik untung, sementara utang ke pihak berelasi melonjak untuk membiayai pembelian mesin CNC.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDS",
+   "laporan keuangan",
+   "Hetzer Medical Indonesia",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030202208-64822-0/FinancialStatement-2026-III-MEDS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "imas-alihkan-100-saham-wit-dalam-restrukturisasi-internal",
+  "category": "Aksi Korporasi",
+  "title": "IMAS Alihkan 100% Saham WIT dalam [Restrukturisasi] Internal",
+  "deck": "Indomobil memindahkan seluruh saham anak usaha Wahana Indo Trada ke dua entitas lain dalam grup yang sama-sama dikuasainya, tanpa mengubah pengendalian.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IMAS",
+   "Indomobil",
+   "Wahana Indo Trada",
+   "restrukturisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b5328c571e_9ad2e645dd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbma-rencana-tambah-saham-baru-dilusi-hingga-10",
+  "category": "Aksi Korporasi",
+  "title": "MBMA Rencana Tambah Saham Baru, [Dilusi] hingga 10%",
+  "deck": "MBMA berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu sebanyak-banyaknya 10,8 miliar lembar atau 10 persen dari modal disetor, menunggu persetujuan RUPS.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBMA",
+   "Private Placement",
+   "Dilusi Saham",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a07390d2be_6d051b2378.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lsip-laba-9m26-melonjak-40-jadi-rp1-75-triliun",
+  "category": "Aksi Korporasi",
+  "title": "LSIP: [Laba] 9M26 Melonjak 40% Jadi Rp1,75 Triliun",
+  "deck": "PP London Sumatra mencatat laba 9 bulan 2026 naik 40 persen ditopang produksi dan harga jual sawit yang sama-sama membaik.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LSIP",
+   "kinerja keuangan",
+   "CPO",
+   "perkebunan sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73afc3e8f5_f43028ff2b.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6338,149 +6482,6 @@ var ARTICLES = [
    "KVF"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8a6449e20a_9ce4898168.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trio-direktur-matthew-paul-richards-mundur",
-  "category": "Aksi Korporasi",
-  "title": "TRIO: Direktur Matthew Paul Richards [Mundur]",
-  "deck": "Trikomsel Oke Tbk melaporkan Direktur Matthew Paul Richards mengundurkan diri sejak 22 Oktober 2026, tanpa penyebutan alasan maupun pengganti.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIO",
-   "Trikomsel Oke",
-   "direksi",
-   "pengunduran diri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1278e04982_e2d0e62524.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "visi-direksi-beli-289-000-saham-senilai-rp200-juta",
-  "category": "Aksi Korporasi",
-  "title": "VISI: Direksi [Beli] 289.000 Saham Senilai Rp200 Juta",
-  "deck": "Direktur VISI David Dwiputra membeli 289.000 saham perusahaan senilai sekitar Rp200,3 juta pada 20 Oktober 2026, menambah hak suaranya menjadi 0,013 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "kepemilikan saham",
-   "direksi",
-   "insider buying"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-3286-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uvcr-trimegah-sumber-mas-tambah-2-5-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "UVCR: Trimegah Sumber Mas Tambah [2,5 Juta] Saham Lewat Repo",
-  "deck": "Trimegah Sumber Mas membeli tambahan 2,5 juta saham UVCR secara tidak langsung lewat perjanjian pembelian kembali, menaikkan hak suaranya jadi 16,30 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-8876-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "perpres-baru-rombak-mekanisme-impor-minyak-dan-lpg-ri",
-  "category": "Energi",
-  "title": "Perpres Baru [Rombak] Mekanisme Impor Minyak dan LPG RI",
-  "deck": "Perpres 107/2026 mengalihkan pengadaan minyak mentah, BBM, dan LPG dari tender antarbadan usaha ke kerja sama langsung antarpemerintah lewat badan layanan umum yang ditugaskan negara.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/perpres-baru-rombak-mekanisme-impor-minyak-dan-lpg-ri.jpg",
-  "imageV": "mvp1eh28",
-  "tags": [
-   "Perpres 107/2026",
-   "Impor Energi",
-   "LPG",
-   "Pertamina"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/perpres-107-2026-terbit-pemerintah-ubah-cara-impor-crude-bbm-dan-lpg",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "ssia-buka-periode-pelaksanaan-mesop-opsi-82-3-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "SSIA Buka Periode Pelaksanaan [MESOP], Opsi 82,3 Juta Saham",
-  "deck": "SSIA membuka periode pelaksanaan opsi saham karyawan Tahap I Periode 1 mulai 1 November 2026, dengan harga Rp1.587 per saham untuk maksimal 82,3 juta saham.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SSIA",
-   "MESOP",
-   "opsi saham",
-   "corporate action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/329a1e61fa_f9be17f5dc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptro-dua-anak-usaha-jual-beli-kapal-senilai-rp5-46-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PTRO: Dua Anak Usaha Jual Beli Kapal Senilai [Rp5,46 Miliar]",
-  "deck": "HDS menjual kapal kerja Hafar Grab ke HDK, sesama anak usaha Petrosea, senilai Rp5,46 miliar untuk mendukung ekspansi HDK ke bisnis pengerukan dan reklamasi.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTRO",
-   "transaksi afiliasi",
-   "Petrosea",
-   "Hafar Daya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/669cbf7cec_da90f430f2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mmix-pukul-rata-kanan-tambah-saham-ke-4-33",
-  "category": "Aksi Korporasi",
-  "title": "MMIX: Pukul Rata Kanan [Tambah] Saham ke 4,33%",
-  "deck": "Pemegang saham PT Pukul Rata Kanan menambah 119,99 juta lembar saham MMIX pada 22 Oktober 2026, sehingga kepemilikannya naik dari 1,84% menjadi 4,33%.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MMIX",
-   "kepemilikan saham",
-   "PT Pukul Rata Kanan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bae71f3807_dbfd4a41df.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "elit-pendapatan-turun-25-laba-bersih-tetap-stabil",
-  "category": "Aksi Korporasi",
-  "title": "ELIT: Pendapatan [Turun] 25%, Laba Bersih Tetap Stabil",
-  "deck": "Laporan kuartal III 2026 ELIT: pendapatan turun ke Rp264,36 miliar, tapi laba bersih stabil di Rp26,19 miliar seiring ekspansi data center lewat utang baru sekitar Rp49 miliar.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ELIT",
-   "laporan keuangan",
-   "data center",
-   "teknologi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026083844-64394-0/FinancialStatement-2026-III-ELIT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-711-900-saham",
-  "category": "Aksi Korporasi",
-  "title": "[SRTG] Komisaris Edwin Soeryadjaya Tambah 711.900 Saham",
-  "deck": "Edwin Soeryadjaya membeli 711.900 saham SRTG lewat dua transaksi repo pada 22 dan 23 Oktober, menaikkan hak suaranya jadi 36,0698 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Edwin Soeryadjaya",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-4163-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

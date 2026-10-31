@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kaef-rombak-utang-jangka-pendek-rugi-menyusut-ke-rp12-9-m",
+  "category": "Aksi Korporasi",
+  "title": "KAEF Rombak Utang Jangka Pendek, Rugi [Menyusut] ke Rp12,9 M",
+  "deck": "KAEF catat rugi Rp12,9 miliar pada sembilan bulan 2026, jauh menyusut dari Rp234,1 miliar setahun lalu, seiring restrukturisasi utang bank jangka pendek ke jangka panjang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T11:47:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031115423-65493-0/FinancialStatement-2026-III-KAEF.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KAEF",
+  "tags": [
+   "KAEF",
+   "Kimia Farma",
+   "laporan keuangan",
+   "BUMN farmasi"
+  ],
+  "body": [
+   "PT Kimia Farma (Persero) Tbk menyampaikan laporan keuangan konsolidasian triwulan III 2026 yang belum diaudit kepada Otoritas Jasa Keuangan pada 31 Oktober 2026, ditandatangani oleh Direktur Utama Djagad Prakasa Dwialam. Untuk periode sembilan bulan yang berakhir 30 September 2026, penjualan neto perusahaan farmasi pelat merah ini naik tipis menjadi Rp7,08 triliun dari Rp7,01 triliun pada periode yang sama tahun lalu. Yang lebih mencolok, rugi bersih perusahaan menyusut tajam menjadi Rp12,9 miliar, dari rugi Rp234,1 miliar setahun sebelumnya. Laba usaha naik lebih dari dua kali lipat menjadi Rp227,4 miliar dari Rp99,1 miliar, didorong kenaikan penjualan dan beban usaha yang turun dari Rp2,41 triliun menjadi Rp2,34 triliun.",
+   "Di sisi utang, Kimia Farma memangkas drastis utang bank jangka pendeknya menjadi Rp72,2 miliar dari sebelumnya Rp1,1 triliun. Bagian utang bank jangka panjang yang harus dibayar dalam waktu satu tahun juga turun tajam, dari Rp2,01 triliun menjadi hanya Rp101,9 miliar. Sebaliknya, utang bank jangka panjang yang tenornya masih lebih dari setahun naik menjadi Rp6,23 triliun dari Rp3,36 triliun. Hasilnya, total liabilitas jangka pendek turun dari Rp7,06 triliun menjadi Rp4,59 triliun, mendekati nilai aset lancar perusahaan sebesar Rp4,79 triliun, berbeda jauh dari posisi akhir 2025 ketika aset lancar hanya Rp3,98 triliun jauh di bawah liabilitas jangka pendek. Kas dan setara kas juga bertambah menjadi Rp467,6 miliar dari Rp377,1 miliar, sementara total aset perusahaan tumbuh menjadi Rp14,63 triliun dari Rp14,18 triliun.",
+   "Meski rugi menyusut, total ekuitas perusahaan justru sedikit turun menjadi Rp2,73 triliun dari Rp2,74 triliun karena akumulasi defisit yang belum tertutup masih besar, yakni Rp5,53 triliun. Porsi laba yang jadi hak pemegang saham minoritas di anak usaha berbalik menjadi untung Rp49,1 miliar, dari rugi Rp54,4 miliar pada periode yang sama tahun lalu. Dalam lampiran laporan juga tercantum lima anak usaha utama Kimia Farma beserta persentase kepemilikannya: PT Kimia Farma Trading & Distribution 99,99 persen, PT Sinkona Indonesia Lestari 51 persen, PT Kimia Farma Sungwun Pharmacopia 80,67 persen, PT Phapros Tbk 56,77 persen, dan PT Kimia Farma Apotek 59,99 persen."
+  ],
+  "fotoAdegan": "Workers in blue uniforms checking stacked medicine boxes on tall warehouse storage racks under fluorescent lighting",
+  "takeaway": "Laporan ini condong positif bagi Kimia Farma, karena rugi bersih menyusut tajam dari Rp234,1 miliar menjadi Rp12,9 miliar dalam sembilan bulan, dan perusahaan berhasil mengganti sebagian besar utang bank jangka pendeknya dengan pinjaman bertenor lebih panjang sehingga tekanan pembayaran dalam waktu dekat berkurang. Yang tersentuh di sini adalah laba usaha, yang melonjak lebih dari dua kali lipat, serta struktur utang, yaitu perbandingan antara kewajiban yang harus dibayar dalam setahun dengan yang masih punya waktu lebih panjang; pelaku pasar memperhatikan perbandingan ini karena utang jangka pendek yang menumpuk bisa memaksa perusahaan menjual aset atau mencari pinjaman baru secara mendadak kalau kasnya tidak cukup. Namun ekuitas, yaitu selisih antara total aset dan total utang yang jadi hak pemegang saham, justru sedikit menyusut karena akumulasi defisit perusahaan masih besar meski labanya membaik. Karena laporan ini belum diaudit, yang perlu dipantau berikutnya adalah laporan keuangan tahun penuh 2026 yang sudah diperiksa akuntan publik independen, yang akan mengonfirmasi apakah perbaikan laba dan restrukturisasi utang ini benar-benar berlanjut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "meri-berbalik-rugi-rp429-6-juta-pada-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MERI Berbalik [Rugi] Rp429,6 Juta pada Kuartal III 2026",
+  "deck": "Beban umum dan administrasi yang melonjak 37 persen membuat PT Merry Riana Edukasi Tbk merugi Rp429,6 juta pada sembilan bulan pertama 2026, berbalik dari laba Rp4,4 miliar tahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T11:46:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031115317-65573-0/FinancialStatement-2026-III-MERI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MERI",
+  "tags": [
+   "MERI",
+   "laporan keuangan",
+   "emiten pendidikan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Merry Riana Edukasi Tbk (MERI) menyampaikan laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit, kepada Bursa Efek Indonesia pada 31 Oktober 2026. Surat pengantar laporan ditandatangani Direktur Utama Sri Muliati. Dari laporan ini terlihat bahwa perseroan, yang menaungi sejumlah unit bimbingan belajar dan kursus bermerek Merry Riana, berbalik dari untung menjadi rugi dibandingkan periode yang sama tahun lalu.",
+   "Pendapatan konsolidasian MERI naik 6,7 persen menjadi Rp30,83 miliar pada sembilan bulan pertama 2026, dari Rp28,89 miliar pada periode yang sama tahun 2025. Namun laba bruto justru sedikit menyusut menjadi Rp18,37 miliar dari Rp18,58 miliar, karena beban pokok pendapatan naik lebih cepat daripada pendapatan. Pemicu utama rugi ada di beban umum dan administrasi, yang melonjak 37,3 persen menjadi Rp16,81 miliar dari Rp12,24 miliar, ditambah beban keuangan yang naik dari Rp57,4 juta menjadi Rp212 juta. Akibatnya perseroan mencatat rugi sebelum pajak Rp312,1 juta, berbanding laba sebelum pajak Rp4,49 miliar setahun sebelumnya, dan rugi bersih tahun berjalan Rp429,6 juta, berbalik dari laba bersih Rp4,41 miliar. Rugi yang dapat diatribusikan kepada pemilik entitas induk mencapai Rp510,8 juta, membuat laba per saham berubah dari Rp5,09 menjadi rugi Rp0,49 per saham.",
+   "Di sisi laporan posisi keuangan, total aset MERI naik menjadi Rp57,95 miliar per 30 September 2026 dari Rp56,17 miliar pada akhir 2025, sementara total liabilitas naik 18,1 persen menjadi Rp14,57 miliar. Total ekuitas justru turun menjadi Rp43,38 miliar dari Rp43,83 miliar karena rugi periode ini mengurangi saldo laba ditahan. Kas dan setara kas berkurang Rp3,62 miliar menjadi Rp40,79 miliar, dan arus kas dari kegiatan operasi berbalik menjadi minus Rp668,9 juta, dari sebelumnya menghasilkan kas positif Rp8,2 miliar pada periode yang sama tahun lalu. Perseroan mencatat lima entitas anak yang seluruhnya bergerak di jasa pendidikan, yakni PT Merry Riana Edukasi Delapan, PT Merry Riana Akademi Tujuh, PT Edventure Indonesia Satu, PT Meri Mitra Edukasi, dan PT Meri Internasional Cendekia yang baru mulai beroperasi pada 2026."
+  ],
+  "fotoAdegan": "Students sitting in rows at desks inside a tutoring center classroom in Jakarta, focused on notebooks, soft afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi MERI, sebab penyebab rugi bukan pendapatan yang seret, melainkan beban operasional yang tumbuh jauh lebih cepat daripada pendapatan, terutama beban umum dan administrasi yang naik 37,3 persen. Pos yang paling tersentuh adalah ekuitas, yakni modal sendiri perusahaan setelah dikurangi utang, yang menyusut karena rugi periode ini langsung memotong saldo laba ditahan, ditambah arus kas dari kegiatan operasi yang berbalik minus, tanda bahwa uang yang masuk dari pelanggan belum cukup menutup biaya operasional sehari-hari. Laba per saham, yaitu bagian rugi atau laba yang secara teoritis menjadi hak setiap lembar saham, berubah dari positif Rp5,09 menjadi negatif Rp0,49, sehingga nilai kekayaan pemegang saham per lembar ikut tergerus. Yang perlu dipantau berikutnya adalah laporan keuangan audited untuk tahun buku penuh 2026 yang biasanya wajib disampaikan dalam beberapa bulan mendatang, untuk melihat apakah lonjakan beban umum dan administrasi ini berlanjut atau hanya terjadi pada kuartal ketiga ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bike-anak-usaha-raih-kontrak-epc-pltmg-pln-rp3-8-t",
+  "category": "Aksi Korporasi",
+  "title": "BIKE: Anak Usaha Raih [Kontrak] EPC PLTMG PLN Rp3,8 T",
+  "deck": "Anak usaha BIKE, PT Karya Bersinar Indonesia, mendapat kontrak EPC PLTMG 2x100 MW senilai Rp3,8 triliun dari PLN Indonesia Power.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T10:51:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f8e66ad747_efd7b7f434.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "kontrak PLN",
+   "EPC PLTMG",
+   "energi"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) menyampaikan keterbukaan informasi bahwa anak usahanya, PT Karya Bersinar Indonesia (KBI), memperoleh kontrak Engineering, Procurement and Construction (EPC) untuk Pembangkit Listrik Tenaga Mesin Gas (PLTMG) berkapasitas 2 x 100 megawatt dari PLN Indonesia Power. Nilai kontrak tersebut mencapai Rp3,8 triliun. Kejadian ini tercatat pada 30 Oktober 2026 dan dilaporkan ke Bursa Efek Indonesia pada 31 Oktober 2026 melalui surat bernomor 2026/285/X/BIKE/MK yang ditandatangani Direktur I BIKE, Muhamad Kuswandi.",
+   "Dalam surat kepada BEI, manajemen BIKE menyebut pembangkit baru itu ditujukan untuk menambah kapasitas pasokan listrik serta meningkatkan keandalan sistem kelistrikan, dengan penekanan pada dukungan terhadap daya saing Bali sebagai destinasi wisata internasional. Perseroan menyatakan proyek ini berpotensi memberi tambahan pendapatan usaha yang direalisasikan secara bertahap sesuai progres pekerjaan, sekaligus memperkuat portofolio bisnis BIKE di sektor energi dan infrastruktur ketenagalistrikan.",
+   "BIKE sendiri tercatat di BEI dengan bidang usaha utama perdagangan besar alat olahraga serta alat transportasi darat selain mobil dan sepeda motor, sebelum merambah sektor energi melalui sejumlah akuisisi anak usaha. Pengumuman kontrak ini muncul kurang dari sepekan setelah perusahaan mengoreksi laporan keterbukaan soal akuisisi PT PNE yang ternyata terafiliasi dengan direksinya sendiri, serta mengungkap dana akuisisi Rp1 triliun yang belum cair sepenuhnya."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting large gas turbine machinery at an open-air power plant construction site, tropical hills in background, daytime",
+  "takeaway": "Nilai kontrak sebesar ini pada dasarnya kabar baik karena menambah daftar kontrak dan potensi pendapatan BIKE, tetapi besarnya angka Rp3,8 triliun dibandingkan bidang usaha utama BIKE yang masih tercatat sebagai perdagangan alat olahraga, ditambah dua koreksi laporan soal akuisisi terafiliasi dan dana Rp1 triliun yang mandek dalam sepekan terakhir, membuat klaim ini pantas ditanggapi dengan hati-hati sebelum dianggap sinyal positif yang solid, sehingga penilaiannya netral menunggu verifikasi lebih lanjut. Yang tersentuh dari kabar ini adalah pos pendapatan usaha dan arus kas BIKE ke depan, karena nilai kontrak sebesar itu baru akan masuk secara bertahap sesuai progres pekerjaan proyek dan belum tercermin sama sekali di laporan keuangan perusahaan saat ini. Yang perlu dipantau pembaca adalah apakah BIKE atau KBI merilis dokumen kontrak resmi, konfirmasi tertulis dari PLN Indonesia Power, atau jadwal pengerjaan proyek, karena pengumuman ini sejauh ini hanya berupa pemberitahuan sepihak dari manajemen tanpa rincian skema pembayaran maupun tenggat penyelesaian.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "slis-rugi-melebar-9-bulan-kas-operasi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "SLIS Rugi Melebar 9 Bulan, Kas Operasi [Negatif]",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan rugi bersih SLIS melebar menjadi Rp9,67 miliar, sementara arus kas dari kegiatan usaha berbalik negatif Rp15,68 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T10:42:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031105118-65528-0/FinancialStatement-2026-III-SLIS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SLIS",
+  "tags": [
+   "SLIS",
+   "laporan keuangan",
+   "rugi bersih",
+   "arus kas"
+  ],
+  "body": [
+   "PT Gaya Abadi Sempurna Tbk (SLIS) menyampaikan laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit, melalui surat bernomor 072/SLIS/X/2026 yang diteken Direktur Utama Edi Hanafiah Kwanto. Laporan ini mencakup anak usaha PT Juara Bike yang bergerak di bidang perindustrian, perdagangan, dan perbengkelan di Tangerang, dimiliki SLIS sebanyak 99 persen dengan aset senilai Rp238,56 miliar.",
+   "Penjualan SLIS naik 13,9 persen menjadi Rp147,70 miliar dibanding periode yang sama tahun lalu sebesar Rp129,63 miliar. Namun laba kotor justru turun dari Rp19,47 miliar menjadi Rp14,44 miliar karena harga pokok penjualan naik lebih cepat dari pendapatan. Beban umum dan administrasi juga naik 12 persen menjadi Rp20,09 miliar, sehingga perusahaan tetap mencatat rugi bersih Rp9,67 miliar, melebar dibanding rugi Rp9,14 miliar pada periode yang sama tahun lalu. Rugi per saham tercatat Rp4,46, dari sebelumnya Rp4,22.",
+   "Di sisi aset dan utang, ekuitas atau kekayaan bersih pemegang saham turun dari Rp327,31 miliar pada akhir 2025 menjadi Rp317,35 miliar pada akhir September 2026, akibat rugi yang terus terkumpul di saldo laba. Sebaliknya total liabilitas naik 24,5 persen menjadi Rp98,32 miliar, didorong utang bank jangka pendek yang melonjak dari Rp2,98 miliar menjadi Rp6,80 miliar, utang usaha ke pihak ketiga yang naik dari Rp22,71 miliar menjadi Rp40,80 miliar, dan utang jangka panjang ke pihak berelasi yang bertambah dari Rp23,49 miliar menjadi Rp37,32 miliar. Nilai aset tetap perusahaan juga menyusut hampir separuh, dari Rp50,65 miliar menjadi Rp31,68 miliar, setelah ada penjualan aset tetap senilai Rp16,40 miliar.",
+   "Dari laporan arus kas, kegiatan usaha utama SLIS justru menyedot kas bersih Rp15,68 miliar pada sembilan bulan ini, berbalik dari periode yang sama tahun lalu yang masih menghasilkan kas bersih Rp14,05 miliar. Kekurangan ini ditutup dari arus kas investasi yang positif Rp16,40 miliar, seluruhnya berasal dari hasil penjualan aset tetap, serta tambahan pinjaman dari pihak berelasi sebesar Rp13,83 miliar. Dengan begitu, kas dan setara kas perusahaan di akhir September 2026 naik menjadi Rp1,53 miliar dari Rp800,43 juta di awal tahun."
+  ],
+  "fotoAdegan": "Workers checking boxes of bicycle and electronic components on metal warehouse shelves, forklift parked nearby, industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi SLIS, karena kenaikan penjualan 13,9 persen tidak diikuti perbaikan laba, bahkan rugi bersihnya melebar dan arus kas dari bisnis intinya berbalik menjadi negatif. Pos yang paling tersentuh adalah arus kas operasi, yaitu uang yang benar-benar masuk dan keluar dari aktivitas jual beli sehari-hari sebelum dihitung pinjaman atau penjualan aset, dan arus kas negatif ini berarti penjualan harian belum cukup menutup ongkos produksi dan operasional perusahaan. Selisihnya ditambal dengan menjual aset tetap senilai Rp16,40 miliar dan menambah utang ke pihak berelasi Rp13,83 miliar, dua cara yang sifatnya sementara dan tidak bisa diandalkan setiap periode. Ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham, ikut tergerus dari Rp327,31 miliar menjadi Rp317,35 miliar akibat rugi yang terus terkumpul. Yang perlu dipantau berikutnya adalah laporan kuartal IV 2026 dan laporan tahunan auditan untuk tahun buku 2026, yang akan menentukan apakah kenaikan penjualan ini akhirnya bisa menutup biaya operasional atau tekanan arus kas dan rugi ini berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "harga-emas-antam-turun-lagi-jadi-rp2-526-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Lagi Jadi Rp2.526.000/Gram",
@@ -27,6 +132,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah hari ini cukup sederhana: harga jual emas Antam turun Rp20.000 jadi Rp2.526.000 per gram, dan harga buyback ikut turun ke Rp2.276.000 per gram, sudah dua hari beruntun sejak 29 Oktober. Yang langsung kena dampaknya adalah pemilik emas batangan yang berencana menjualnya kembali, karena uang yang mereka terima makin kecil, sementara calon pembeli baru justru mendapat harga sedikit lebih murah. Data yang tersedia belum cukup untuk membaca apakah ini awal tren penurunan yang lebih panjang atau sekadar koreksi sesaat, sebab tidak ada informasi soal harga emas dunia atau nilai tukar dolar yang biasanya menjadi acuan pergerakan harga emas domestik. Yang perlu dipantau adalah harga emas Antam pada hari-hari berikutnya serta pergerakan harga emas global, karena baru dari situ bisa terlihat apakah penurunan dua hari ini berlanjut atau berbalik.",
   "imageV": "mvvuts2i"
+ },
+ {
+  "slug": "rugi-pssi-balik-rugi-liabilitas-melonjak-34",
+  "category": "Aksi Korporasi",
+  "title": "[Rugi] PSSI Balik Rugi, Liabilitas Melonjak 34%",
+  "deck": "Laba PT IMC Pelita Logistik Tbk (PSSI) berbalik jadi rugi pada sembilan bulan pertama 2026 seiring pendapatan turun dan utang bank bertambah 34 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T09:24:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031093819-65155-0/FinancialStatement-2026-III-PSSI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "laporan keuangan",
+   "liabilitas",
+   "logistik laut"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) melaporkan rugi bersih US$821.988 untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari laba bersih US$1,56 juta pada periode yang sama tahun lalu. Pendapatan perusahaan turun dari US$44,5 juta menjadi US$35,1 juta, sementara laba bruto susut dari US$5,3 juta menjadi US$3,6 juta. Rugi per saham tercatat US$0,0002, berbalik dari laba per saham US$0,0003 pada periode yang sama tahun sebelumnya.",
+   "Dari sisi posisi keuangan, jumlah aset naik sedikit menjadi US$176,8 juta dari US$172,8 juta pada akhir 2025, didorong penambahan aset tetap menjadi US$80,1 juta setelah belanja modal US$15,5 juta sepanjang periode. Namun kas dan setara kas menyusut dari US$55,7 juta menjadi US$49,4 juta. Jumlah liabilitas melonjak 34 persen, dari US$19,27 juta pada akhir 2025 menjadi US$25,87 juta, sementara ekuitas sedikit turun dari US$153,48 juta menjadi US$150,94 juta setelah perusahaan membagikan dividen US$1,41 juta.",
+   "Dalam surat tertanggal 29 Oktober 2026 kepada Bursa Efek Indonesia, manajemen menjelaskan kenaikan liabilitas tersebut sesuai ketentuan keterbukaan informasi untuk perubahan pos lebih dari 20 persen. Perseroan menyebut kenaikan itu terutama berasal dari tambahan pinjaman Bank CIMB Niaga ke induk usaha dan Bank Multiarta Sentosa ke anak usaha PT Pelita Samudera Sreeya, dengan total nilai Rp81,5 miliar atau setara US$4,01 juta. Surat pernyataan direksi atas laporan keuangan ini ditandatangani oleh Yolanda Watulo selaku Direktur Utama dan Basuki Setiogroho selaku Direktur Keuangan."
+  ],
+  "fotoAdegan": "Tugboat towing a loaded cargo barge along a busy Indonesian shipping channel, port cranes in the hazy background, early morning light",
+  "takeaway": "Catatan ini condong negatif karena Perseroan berbalik dari untung bersih US$1,56 juta pada sembilan bulan pertama 2025 menjadi rugi bersih US$821.988 pada periode yang sama tahun ini, dipicu pendapatan yang turun lebih dari seperlima sementara utang justru bertambah lewat pinjaman bank baru. Pos yang paling kena dampak adalah laba per saham, yang berubah dari positif 0,0003 dolar AS menjadi negatif 0,0002 dolar AS, serta jumlah liabilitas yang melonjak 34 persen karena tambahan pinjaman dari dua bank senilai setara US$4 juta, pos ini dipantau investor karena menunjukkan seberapa besar perusahaan bergantung pada utang untuk membiayai operasi dan ekspansi asetnya. Kas perusahaan juga menyusut dari US$55,7 juta menjadi US$49,4 juta, meski rasio lancar 560 persen, yaitu perbandingan aset lancar terhadap utang jangka pendek, masih jauh di atas batas aman sehingga risiko gagal bayar jangka pendek belum mengkhawatirkan. Yang perlu dipantau berikutnya adalah apakah belanja aset tetap senilai US$15,5 juta yang dibiayai sebagian dari utang baru ini mampu mendongkrak pendapatan pada laporan keuangan tahunan yang akan terbit setelah tutup buku 31 Desember 2026.",
+  "sentimen": "negatif"
  },
  {
   "slug": "laba-wbsa-turun-55-di-kuartal-iii-2026-pendapatan-naik-31",
@@ -1547,6 +1678,110 @@ var ARTICLES = [
   "fotoAdegan": "Construction workers on a large elevated toll road project in Jakarta, cranes and steel beams against an overcast sky.",
   "takeaway": "Hasil rapat ini negatif bagi WIKA karena untuk kesekian kalinya pemegang sukuk menolak permintaan perusahaan mengatur ulang syarat pembayaran utangnya, kali ini untuk sukuk senilai Rp500 miliar dengan suara setuju yang sangat rendah, hanya 38 persen untuk usulan penundaan bagi hasil dan cuma 2,8 persen untuk tiga usulan lainnya. Yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena dengan ditolaknya penundaan ini WIKA tetap harus menyiapkan dana untuk membayar bagi hasil ke-23 sesuai jadwal semula, padahal usulan itu diajukan justru karena perusahaan diperkirakan kesulitan membayar tepat waktu. Beban yang harus dibayar ke pemegang sukuk juga tidak berubah karena usulan mengubah besaran bagi hasil dan nisbah ikut ditolak, sehingga kewajiban WIKA ke pemegang sukuk tetap sama seperti kontrak awal. Yang perlu dipantau berikutnya adalah apakah WIKA akan menggelar RUPSU ulang untuk mengajukan usulan serupa, dan yang lebih mendesak, apakah perusahaan benar-benar bisa membayar pendapatan bagi hasil ke-23 sesuai jadwal awal yang kini wajib dipenuhi setelah usulan penundaannya kandas.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "meds-catat-laba-tapi-liabilitas-melonjak-60-persen",
+  "category": "Aksi Korporasi",
+  "title": "MEDS Catat Laba, tapi Liabilitas [Melonjak] 60 Persen",
+  "deck": "Pendapatan Hetzer Medical (MEDS) naik lebih dari empat kali lipat pada kuartal III 2026 dan berbalik untung, sementara utang ke pihak berelasi melonjak untuk membiayai pembelian mesin CNC.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:08:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030202208-64822-0/FinancialStatement-2026-III-MEDS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDS",
+  "tags": [
+   "MEDS",
+   "laporan keuangan",
+   "Hetzer Medical Indonesia",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Hetzer Medical Indonesia Tbk (MEDS) melaporkan kinerja keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan penjualan tercatat Rp21,54 miliar, naik dari Rp4,95 miliar pada periode yang sama tahun 2025, atau lebih dari empat kali lipat. Lonjakan pendapatan ini mengangkat laba kotor menjadi Rp8,52 miliar dari sebelumnya hanya Rp539,09 juta, sementara laba usaha tercatat Rp2,60 miliar, berbalik dari rugi usaha Rp5,49 miliar pada periode yang sama tahun lalu. Pada akhirnya, perusahaan mencetak laba bersih Rp1,97 miliar untuk sembilan bulan pertama 2026, berbalik dari rugi bersih Rp5,72 miliar pada periode yang sama tahun 2025. Laba per saham pun berbalik positif menjadi Rp1,27 dari rugi per saham Rp3,66 setahun sebelumnya.",
+   "Di sisi posisi keuangan, jumlah aset perusahaan naik menjadi Rp71,90 miliar per 30 September 2026 dari Rp61,77 miliar pada akhir 2025, didorong oleh kenaikan piutang usaha pihak ketiga menjadi Rp5,52 miliar dari Rp942,21 juta dan persediaan menjadi Rp14,85 miliar dari Rp12,25 miliar. Namun, jumlah liabilitas melonjak 60,39 persen menjadi Rp21,61 miliar dari Rp13,47 miliar, naik Rp8,14 miliar. Dalam surat terpisah kepada BEI, manajemen menjelaskan kenaikan ini terutama berasal dari utang lain-lain kepada pihak berelasi yang naik menjadi Rp9,22 miliar dari Rp2,29 miliar, serta utang kepada pihak ketiga yang turut membesar untuk pembelian mesin CNC. Jumlah ekuitas tetap naik menjadi Rp50,29 miliar dari Rp48,30 miliar, ditopang oleh laba bersih periode ini.",
+   "Laporan arus kas menunjukkan kas yang digunakan untuk aktivitas operasi masih negatif Rp493,13 juta, meski membaik dari pemakaian kas Rp2,79 miliar pada periode yang sama tahun lalu. Aktivitas investasi menyedot kas Rp1,96 miliar, terutama untuk uang muka pembelian aset Rp1,63 miliar dan perolehan aset tetap Rp545,14 juta. Sementara itu, aktivitas pendanaan menyumbang kas masuk Rp3,13 miliar, sebagian besar dari penerimaan utang pihak berelasi senilai Rp6,93 miliar, meski perusahaan juga membayar utang bank Rp1,96 miliar dan utang pembelian mesin serta peralatan Rp1,13 miliar. Dokumen ini juga mencatat bahwa sejak 22 Juni 2026 perusahaan memperluas lini usahanya ke jasa machining logam (KBLI 25999), yang disahkan Kementerian Hukum dan HAM pada 10 Juli 2026, menambah bisnis inti perdagangan masker dan alat kesehatan."
+  ],
+  "fotoAdegan": "A technician monitoring a CNC metal lathe shaping a steel part inside a small Indonesian manufacturing workshop, bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi Hetzer Medical, karena perusahaan berhasil berbalik dari rugi menjadi laba berkat pendapatan yang melonjak lebih dari empat kali lipat dalam sembilan bulan pertama 2026. Yang tersentuh di sini adalah laba per saham, yang berbalik dari rugi Rp3,66 menjadi laba Rp1,27, angka yang menunjukkan seberapa besar keuntungan yang didapat pemegang saham dari setiap lembar sahamnya, serta jumlah liabilitas yang melonjak 60 persen karena utang ke pihak berelasi dan pembelian mesin CNC, yang berarti perusahaan kini lebih mengandalkan utang, termasuk ke pihak terafiliasi, untuk membiayai ekspansinya. Arus kas operasi yang masih negatif Rp493 juta juga patut dicatat, sebab itu berarti laba di atas kertas belum sepenuhnya berubah jadi uang tunai di tangan perusahaan. Yang perlu dipantau selanjutnya adalah apakah utang kepada pihak berelasi senilai Rp9,22 miliar ini mulai dicicil atau malah terus membesar di laporan tahunan 2026, serta apakah arus kas operasi bisa berbalik positif menyusul pertumbuhan penjualan dari lini usaha machining yang baru ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "imas-alihkan-100-saham-wit-dalam-restrukturisasi-internal",
+  "category": "Aksi Korporasi",
+  "title": "IMAS Alihkan 100% Saham WIT dalam [Restrukturisasi] Internal",
+  "deck": "Indomobil memindahkan seluruh saham anak usaha Wahana Indo Trada ke dua entitas lain dalam grup yang sama-sama dikuasainya, tanpa mengubah pengendalian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:05:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b5328c571e_9ad2e645dd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IMAS",
+  "tags": [
+   "IMAS",
+   "Indomobil",
+   "Wahana Indo Trada",
+   "restrukturisasi"
+  ],
+  "body": [
+   "PT Indomobil Sukses Internasional Tbk (IMAS) melaporkan pengalihan seluruh saham PT Wahana Indo Trada (WIT) pada 30 Oktober 2026. PT Wahana Wirawan (WW) dan PT IMG Sejahtera Langgeng (IMGSL), dua pemegang saham WIT, melepas seluruh 201.000 saham atau 100 persen kepemilikan mereka di WIT setelah mendapat persetujuan dari instansi berwenang pada tanggal yang sama. Saham tersebut dialihkan kepada PT Central Sole Agency (CSA) dan PT Autoparts Indomobil Indonesia (AII).",
+   "Menurut surat yang ditandatangani Direktur Utama Indomobil, Jusak Kertowidjojo, CSA dan AII adalah dua perusahaan yang berada di bawah pengendalian yang sama, dengan masing-masing sahamnya secara efektif dimiliki 100 persen oleh Indomobil. Karena itu, perusahaan menegaskan transaksi ini hanya menata ulang struktur kepemilikan di dalam grup usaha Indomobil dan tidak mengubah pengendalian atas WIT di tingkat grup. Dokumen tidak menyebutkan nilai transaksi atau harga pengalihan saham tersebut.",
+   "Indomobil menyebut langkah ini sebagai bagian dari perluasan portofolio dan kolaborasi strategis yang pada akhirnya diharapkan meningkatkan kinerja usaha Indomobil Group, tanpa merinci lebih jauh bentuk kolaborasi atau target operasionalnya."
+  ],
+  "fotoAdegan": "Rows of new cars parked in a dealership storage yard at dusk, reflections glinting on polished bodywork",
+  "takeaway": "Laporan ini netral bagi fundamental Indomobil, karena pengalihan saham WIT terjadi antara dua entitas yang sama-sama sudah dikuasai penuh oleh perusahaan induk, jadi tidak ada perubahan pengendalian maupun indikasi dana segar yang masuk atau keluar grup. Pos yang tersentuh hanya struktur kepemilikan di bawah Indomobil, bukan ekuitas konsolidasi grup secara keseluruhan, karena WIT tetap berada dalam genggaman penuh Indomobil, hanya berpindah dari satu anak usaha ke anak usaha lain yang juga dimiliki penuh. Yang perlu dipantau berikutnya adalah apakah Indomobil akan merinci lebih jauh bentuk konkret dari restrukturisasi ini, misalnya bagaimana bisnis WIT nantinya dijalankan di bawah CSA dan AII, karena laporan ini belum menyebut nilai transaksi maupun jadwal lanjutan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mbma-rencana-tambah-saham-baru-dilusi-hingga-10",
+  "category": "Aksi Korporasi",
+  "title": "MBMA Rencana Tambah Saham Baru, [Dilusi] hingga 10%",
+  "deck": "MBMA berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu sebanyak-banyaknya 10,8 miliar lembar atau 10 persen dari modal disetor, menunggu persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:02:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a07390d2be_6d051b2378.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBMA",
+  "tags": [
+   "MBMA",
+   "Private Placement",
+   "Dilusi Saham",
+   "RUPS"
+  ],
+  "body": [
+   "PT Merdeka Battery Materials Tbk (MBMA) mengumumkan rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu (PMTHMETD) kedua, dengan jumlah saham baru sebanyak-banyaknya 10.799.541.990 lembar. Jumlah itu setara maksimal 10 persen dari total saham yang sudah ditempatkan dan disetor penuh perseroan, yakni 107.995.419.900 saham dengan nilai nominal Rp100 per saham. Pengumuman ditandatangani Teddy Nuryanto Oetomo selaku Presiden Direktur sekaligus Sekretaris Perusahaan pada 30 Oktober 2026.",
+   "Karena skemanya tanpa hak memesan efek terlebih dahulu, pemegang saham lama tidak otomatis mendapat kesempatan membeli lebih dulu saham baru tersebut untuk menjaga proporsi kepemilikan mereka. Perseroan menyebut rencana ini mengacu pada Peraturan OJK No. 14/POJK.04/2019, yang mewajibkan persetujuan Rapat Umum Pemegang Saham Luar Biasa sebelum pelaksanaan, dengan pengumuman rencana ini dilakukan bersamaan dengan pengumuman RUPS tersebut. Perseroan juga menyatakan akan mengikuti Surat Keputusan Direksi BEI No. Kep-00152/BEI/10-2026 tentang pencatatan saham serta Undang-Undang No. 40 Tahun 2007 tentang Perseroan Terbatas.",
+   "Dokumen keterbukaan ini belum merinci harga pelaksanaan, calon pembeli saham baru, maupun tujuan penggunaan dananya. MBMA sendiri merupakan perusahaan induk grup usaha pertambangan nikel dan mineral lain yang terintegrasi secara vertikal, awalnya didirikan pada 2019 dengan nama PT Hamparan Logistik Nusantara sebelum berganti menjadi entitas induk bisnis baterai dan nikel yang sekarang tercatat di Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting conveyor belts at a nickel ore processing plant, industrial machinery, overcast sky",
+  "takeaway": "Rencana ini condong negatif bagi pemegang saham lama, karena menambah saham beredar hingga 10 persen tanpa memberi mereka kesempatan membeli lebih dulu, sementara dokumen ini belum menyebut untuk apa dana itu dipakai atau siapa yang akan membeli saham barunya. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab laba perusahaan yang sama nantinya dibagi ke lebih banyak lembar saham kalau penambahan ini benar terlaksana penuh, sehingga bagian laba untuk setiap pemegang saham lama bisa mengecil. Pelaku pasar biasanya baru bisa menilai dampak sebenarnya setelah tahu harga saham baru dan siapa pembelinya, karena itu yang menentukan apakah dilusi ini sepadan dengan manfaat yang didapat perseroan. Yang perlu dipantau selanjutnya adalah RUPS Luar Biasa yang akan diumumkan bersamaan dengan rencana ini untuk meminta persetujuan pemegang saham, serta rincian harga dan penggunaan dana yang biasanya baru diumumkan menjelang RUPS tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lsip-laba-9m26-melonjak-40-jadi-rp1-75-triliun",
+  "category": "Aksi Korporasi",
+  "title": "LSIP: [Laba] 9M26 Melonjak 40% Jadi Rp1,75 Triliun",
+  "deck": "PP London Sumatra mencatat laba 9 bulan 2026 naik 40 persen ditopang produksi dan harga jual sawit yang sama-sama membaik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:01:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73afc3e8f5_f43028ff2b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LSIP",
+  "tags": [
+   "LSIP",
+   "kinerja keuangan",
+   "CPO",
+   "perkebunan sawit"
+  ],
+  "body": [
+   "PT PP London Sumatra Indonesia Tbk (LSIP) melaporkan kinerja keuangan periode Januari sampai September 2026 dengan penjualan naik 9 persen secara tahunan menjadi Rp4,33 triliun, didorong oleh kenaikan volume penjualan dan harga jual rata-rata produk sawit. Laba bruto perusahaan tumbuh lebih cepat, yakni 21 persen menjadi Rp1,79 triliun, sementara laba usaha melonjak 44 persen menjadi Rp1,86 triliun. Laba periode berjalan yang menjadi hak pemegang saham perusahaan naik 40 persen menjadi Rp1,75 triliun, dengan laba per saham naik dari Rp183 menjadi Rp256.",
+   "Dari sisi produksi, panen tandan buah segar dari kebun milik sendiri naik 7 persen menjadi 850 ribu ton, sedangkan pasokan dari kebun plasma dan pihak ketiga naik 18 persen menjadi 166 ribu ton. Produksi minyak sawit mentah atau CPO ikut naik 12 persen menjadi 227 ribu ton, dengan tingkat ekstraksi CPO naik dari 21,8 persen menjadi 22,4 persen, yang berarti setiap ton tandan buah segar yang diolah menghasilkan lebih banyak minyak sawit dibanding tahun lalu. Volume penjualan CPO sendiri naik 7 persen menjadi 222 ribu ton, sementara penjualan produk inti sawit nyaris tak berubah.",
+   "Pada sisi posisi keuangan per 30 September 2026, total aset perusahaan naik menjadi Rp16,77 triliun dari Rp15,54 triliun pada akhir 2025. Kas dan setara kas bertambah dari Rp7,60 triliun menjadi Rp8,52 triliun, sementara total liabilitas hanya naik tipis dari Rp1,54 triliun menjadi Rp1,60 triliun. Total ekuitas perusahaan naik dari Rp14,00 triliun menjadi Rp15,17 triliun."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested palm fruit bunches onto a trailer at an oil palm plantation, tropical morning light",
+  "takeaway": "Laporan ini positif bagi Lonsum, karena kenaikan laba bukan hasil sulap akuntansi, melainkan ditopang oleh dua hal sekaligus, produksi sawit sendiri yang naik dan harga jual yang membaik. Yang perlu diperhatikan pemegang saham adalah margin laba usaha yang melebar dari 33 persen jadi 43 persen, ekuitas atau modal perusahaan yang membesar dari Rp14,00 triliun menjadi Rp15,17 triliun karena laba ditahan menumpuk tanpa banyak tambahan utang, serta laba per saham yang naik dari Rp183 jadi Rp256, artinya porsi laba untuk setiap lembar saham ikut membesar tanpa ada pengenceran dari penambahan jumlah saham. Kas perusahaan juga menebal dari Rp7,60 triliun menjadi Rp8,52 triliun, bantalan yang berguna kalau harga komoditas sawit berbalik turun. Yang perlu dipantau selanjutnya adalah apakah tren kenaikan harga jual dan produksi ini masih berlanjut di kuartal keempat 2026, karena cuaca panen dan harga CPO di pasar global biasanya berubah cepat dan akan terlihat jelas saat laporan keuangan tahunan dirilis.",
+  "sentimen": "positif"
  },
  {
   "slug": "pendapatan-vktr-tumbuh-49-jadi-rp1-06-triliun-di-9m26",

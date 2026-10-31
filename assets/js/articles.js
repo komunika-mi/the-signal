@@ -3,6 +3,112 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "laba-wbsa-turun-55-di-kuartal-iii-2026-pendapatan-naik-31",
+  "category": "Aksi Korporasi",
+  "title": "[Laba] WBSA Turun 55% di Kuartal III 2026, Pendapatan Naik 31%",
+  "deck": "Pendapatan WBSA naik 31% menjadi Rp2,9 triliun pada kuartal III 2026, tapi laba bersih turun 55% menjadi Rp13,48 miliar akibat kenaikan beban dan biaya keuangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T09:02:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031091411-65443-0/FinancialStatement-2026-III-WBSA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WBSA",
+  "tags": [
+   "WBSA",
+   "laporan keuangan",
+   "laba bersih",
+   "logistik"
+  ],
+  "body": [
+   "PT BSA Logistics Indonesia Tbk (WBSA) menyampaikan laporan keuangan konsolidasian interim yang belum diaudit untuk periode sembilan bulan berakhir 30 September 2026, ditandatangani Direktur Utama Edwin Wibowo pada 29 Oktober 2026. Pendapatan neto perusahaan logistik ini naik 31 persen menjadi Rp2,9 triliun, dari Rp2,21 triliun pada periode yang sama tahun lalu. Namun laba bersih justru turun 55 persen menjadi Rp13,48 miliar, dari Rp30,22 miliar, karena kenaikan beban pokok pendapatan dan beban keuangan menggerus margin. Laba usaha ikut turun 24 persen menjadi Rp64,05 miliar, sementara laba per saham dasar merosot dari Rp8,6 menjadi Rp1,7, akibat kombinasi laba yang lebih kecil dan jumlah saham beredar yang lebih banyak.",
+   "Di sisi permodalan, jumlah saham beredar WBSA bertambah dari 6,875 miliar menjadi 8,675 miliar lembar dengan nilai nominal Rp40 per saham, menambah modal saham sebesar Rp72 miliar menjadi Rp347 miliar. Tambahan modal disetor melonjak dari Rp1,14 miliar menjadi Rp176,05 miliar, sejalan dengan penerbitan saham baru tersebut. Namun ekuitas perusahaan juga tergerus Rp215 miliar akibat penyesuaian nilai transaksi restrukturisasi entitas sepengendali, yakni penggabungan nilai ekuitas entitas yang sebelumnya bergabung ke dalam struktur WBSA. Setelah memperhitungkan seluruh perubahan itu, total ekuitas perusahaan tetap naik 17 persen menjadi Rp630,56 miliar, dari Rp538,68 miliar pada akhir 2025.",
+   "Struktur utang WBSA juga berubah signifikan. Pinjaman bank jangka pendek turun tajam dari Rp146,97 miliar menjadi Rp13,18 miliar, sementara perusahaan mengambil pinjaman bank jangka panjang baru senilai Rp133,43 miliar yang sebelumnya tidak ada. Medium-term notes senilai Rp30 miliar tidak berubah. Total aset perusahaan naik 6,3 persen menjadi Rp1,70 triliun, dari Rp1,60 triliun pada akhir 2025, sementara total liabilitas relatif stabil di kisaran Rp1,07 triliun."
+  ],
+  "fotoAdegan": "Stacked shipping containers at a busy Indonesian port terminal, a gantry crane lifting cargo under hazy morning light",
+  "takeaway": "Laporan ini condong negatif bagi WBSA, sebab meski pendapatannya tumbuh 31 persen, laba bersihnya longsor 55 persen dan laba per saham makin terdilusi oleh penerbitan saham baru, tanda bahwa kenaikan penjualan belum berhasil diterjemahkan menjadi keuntungan yang lebih besar untuk pemegang saham. Yang tersentuh adalah laba per saham, yaitu bagian laba yang secara teori jadi milik setiap lembar saham: angka ini anjlok dari Rp8,6 menjadi Rp1,7 karena laba mengecil sementara jumlah saham beredar membesar dari 6,875 miliar menjadi 8,675 miliar lembar. Ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi utang, tetap naik 17 persen berkat suntikan modal baru meski sebagian tergerus penyesuaian akuntansi dari penggabungan entitas sepengendali senilai Rp215 miliar, dan struktur utangnya pun membaik karena pinjaman bank jangka pendek yang rawan jatuh tempo mendadak sudah digeser jadi pinjaman jangka panjang. Yang perlu dipantau berikutnya adalah laporan keuangan akhir tahun yang sudah diaudit, sebab laporan kuartal III ini masih berstatus tidak diaudit dan angkanya bisa berubah setelah diperiksa akuntan publik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "gtra-tambah-733-truk-laba-bersih-melonjak-96-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "GTRA Tambah 733 Truk, Laba Bersih [Melonjak] 96% di Kuartal III",
+  "deck": "Laba bersih GTRA naik 96 persen menjadi Rp87,84 miliar pada sembilan bulan 2026, ditopang penambahan 733 truk baru yang dibiayai utang bank dan pembiayaan konsumen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T08:51:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031090358-65590-0/FinancialStatement-2026-III-GTRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTRA",
+  "tags": [
+   "GTRA",
+   "laporan keuangan",
+   "logistik",
+   "ekspansi truk"
+  ],
+  "body": [
+   "PT Grahaprima Suksesmandiri Tbk (GTRA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan logistik angkutan darat ini naik dari Rp454,67 miliar pada sembilan bulan 2025 menjadi Rp689,53 miliar pada periode yang sama tahun ini, atau tumbuh sekitar 52 persen. Laba bruto naik dari Rp154,62 miliar menjadi Rp259,62 miliar, sementara laba bersih yang bisa dinikmati pemegang saham melonjak dari Rp44,85 miliar menjadi Rp87,84 miliar, hampir dua kali lipat. Laba per saham dasar pun naik dari Rp23,64 menjadi Rp46,14.",
+   "Dalam surat terpisah kepada Bursa Efek Indonesia, Direktur Utama GTRA Ronny Senjaya menjelaskan lonjakan lebih dari 20 persen pada total aset dan liabilitas perusahaan. Total aset naik Rp833,27 miliar atau 67 persen, dari Rp1,24 triliun pada akhir 2025 menjadi Rp2,08 triliun pada akhir September 2026, terutama karena aset tetap bertambah Rp694,74 miliar atau 73 persen seiring pembelian kendaraan baru. Total liabilitas naik lebih tajam lagi, yakni Rp745,42 miliar atau 87 persen menjadi Rp1,60 triliun, didorong tambahan pinjaman bank senilai Rp317,94 miliar dari PT Bank Shinhan Indonesia dan PT Bank Central Asia Tbk untuk membeli 250 unit truk, serta utang pembiayaan konsumen yang naik Rp392,30 miliar untuk membiayai pembelian 483 unit truk lainnya dari beberapa perusahaan pembiayaan. Dengan demikian, GTRA menambah total 733 truk baru dalam periode ini.",
+   "Dari sisi kas, arus kas dari aktivitas operasi tercatat Rp28,32 miliar, lebih rendah dibanding Rp46,74 miliar pada sembilan bulan 2025. Perusahaan mencatat arus kas investasi positif Rp88,26 miliar, terutama dari penjualan aset tetap senilai Rp73,17 miliar, sementara aktivitas pendanaan mencatat arus kas keluar neto Rp100,37 miliar, termasuk pembayaran utang pembiayaan konsumen Rp82,27 miliar dan pelunasan pinjaman bank Rp31,51 miliar. Kas dan setara kas perusahaan naik Rp16,21 miliar menjadi Rp35,91 miliar pada akhir September 2026. Total ekuitas tumbuh dari Rp386,55 miliar menjadi Rp474,40 miliar, didorong laba berjalan yang ditahan, tanpa pembagian dividen pada periode ini."
+  ],
+  "fotoAdegan": "Rows of heavy cargo trucks parked in a logistics yard at dawn, drivers checking tires, warm morning light",
+  "takeaway": "Laporan ini condong positif bagi GTRA karena pendapatan sembilan bulan tumbuh sekitar 52 persen dan laba bersih hampir dua kali lipat, seiring penambahan 733 truk baru yang langsung menambah kapasitas angkut dan pendapatan. Yang perlu dicermati adalah beban keuangan, yaitu bunga dan biaya yang dibayar perusahaan atas pinjamannya, yang melonjak 65 persen menjadi Rp56,22 miliar karena utang bank dan utang pembiayaan konsumen untuk truk-truk itu membesar drastis. Arus kas dari kegiatan operasi, yakni uang tunai yang benar-benar diterima dari bisnis sehari-hari di luar pinjaman, justru turun dari Rp46,74 miliar menjadi Rp28,32 miliar walau laba di atas kertas naik, karena uang perusahaan banyak tertahan di piutang pelanggan yang ikut membengkak. Dengan total utang kini sekitar 3,4 kali modal sendiri perusahaan, naik dari 2,2 kali pada akhir 2025, yang perlu dipantau berikutnya adalah apakah pendapatan dari truk-truk baru ini cukup menutup cicilan utang, serta bagaimana arus kas operasi berkembang pada laporan kuartal IV 2026 mendatang.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hits-laba-turun-39-di-kuartal-iii-meski-pendapatan-naik",
+  "category": "Aksi Korporasi",
+  "title": "HITS: Laba [Turun] 39% di Kuartal III Meski Pendapatan Naik",
+  "deck": "Pendapatan HITS naik 5 persen jadi US$105,3 juta pada sembilan bulan 2026, tetapi laba bersih turun 39 persen akibat beban bunga dan biaya pokok yang naik lebih cepat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T08:43:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031085014-65570-0/FinancialStatement-2026-III-HITS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HITS",
+  "tags": [
+   "HITS",
+   "laporan keuangan",
+   "laba bersih",
+   "pelayaran"
+  ],
+  "body": [
+   "PT Humpuss Intermoda Transportasi Tbk (HITS) menyampaikan laporan keuangan konsolidasian tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Direktur Utama Djoko Wiseno pada 30 Oktober 2026. Pendapatan usaha perseroan tercatat US$105,30 juta, naik dari US$100,27 juta pada periode yang sama tahun lalu. Namun beban pokok pendapatan melonjak menjadi US$88,01 juta dari US$75,51 juta, sehingga laba kotor justru turun dari US$24,76 juta menjadi US$17,30 juta.",
+   "Beban keuangan, yaitu biaya bunga atas pinjaman bank, naik dari US$6,31 juta menjadi US$8,34 juta sepanjang sembilan bulan ini. Kombinasi biaya pokok dan bunga yang naik membuat laba bersih perseroan turun 39 persen, dari US$3,17 juta pada Januari-September 2025 menjadi US$1,93 juta pada periode yang sama tahun ini. Laba per saham dasar pun merosot dari US$0,00039 menjadi US$0,00012.",
+   "Dari sisi posisi keuangan, total aset perseroan per 30 September 2026 tercatat US$333,11 juta, sedikit turun dari US$335,52 juta di akhir 2025, sementara total liabilitas turun dari US$231,87 juta menjadi US$225,66 juta. Total ekuitas naik dari US$103,65 juta menjadi US$107,44 juta. Aset tetap, yang mencakup kapal dan sarana operasional, bertambah dari US$165,83 juta menjadi US$184,37 juta, dibarengi kenaikan pinjaman bank jangka panjang dari US$49,75 juta menjadi US$56,53 juta. Perseroan juga menegaskan kepada BEI bahwa tidak ada perubahan lebih dari 20 persen pada total aset maupun total liabilitas dibandingkan laporan tahunan 2025, sesuai Peraturan Bursa Nomor I-E.",
+   "Perseroan mengoperasikan tiga anak usaha yang seluruhnya dimiliki penuh: PT Humpuss Transportasi Kimia di bidang transportasi laut yang beroperasi sejak 2004, PT Humpuss Maritim Internasional yang menyediakan jasa keagenan awak kapal sejak 2016, dan PT LIS Internasional yang menyewakan kapal sejak 2017."
+  ],
+  "fotoAdegan": "A chemical tanker docked at an Indonesian port, crew hosing the deck, cranes and pipelines in the background, late afternoon light.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham karena meski pendapatan naik sekitar 5 persen, laba bersih justru anjlok 39 persen dan laba per saham turun hampir 70 persen akibat biaya pokok dan bunga pinjaman yang naik lebih cepat dari penjualan. Yang tersentuh di sini adalah beban bunga, yakni biaya yang harus dibayar perseroan atas pinjaman banknya, dan laba per saham, yaitu bagian laba yang secara teori menjadi hak setiap lembar saham yang dipegang investor, dua pos yang dipakai pelaku pasar untuk menilai apakah ekspansi aset perseroan benar-benar menghasilkan laba yang sepadan. Kenaikan aset tetap dan pinjaman bank jangka panjang menunjukkan perseroan sedang menambah kapasitas armada dengan utang, yang untuk sementara menekan margin lewat beban bunga yang lebih besar. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit yang wajib disampaikan sesuai POJK No. 14/POJK.04/2022, untuk melihat apakah tren kenaikan beban bunga dan tekanan laba ini berlanjut atau mulai mereda.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smfp-resmi-catatkan-obligasi-dan-sukuk-senilai-rp3-09-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SMFP resmi catatkan obligasi dan sukuk senilai [Rp3,09 triliun]",
+  "deck": "BEI mencatatkan empat obligasi dan sukuk baru SMF (SMFP) senilai total Rp3,09 triliun mulai 30 Oktober 2026, bagian dari program obligasi berkelanjutan VIII.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T07:15:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4f8ee1de49_06148c49bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMFP",
+  "tags": [
+   "SMFP",
+   "obligasi korporasi",
+   "sukuk musyarakah",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatatkan empat instrumen utang baru milik PT Sarana Multigriya Finansial atau SMF (kode emiten SMFP) mulai 30 Oktober 2026. Keempatnya adalah Obligasi Berkelanjutan VIII Tahap IV Tahun 2026, Sukuk Musyarakah Berkelanjutan II Tahap III, Obligasi Berwawasan Sosial Berkelanjutan II Tahap III, dan Sukuk Musyarakah Berwawasan Sosial Berkelanjutan II Tahap II. Total dana yang dihimpun dari keempat instrumen ini sekitar Rp3,09 triliun, dengan wali amanat PT Bank Rakyat Indonesia (Persero) Tbk. untuk seluruh seri.",
+   "Obligasi Berkelanjutan VIII Tahap IV bernilai Rp1,53 triliun dan terbagi tiga seri. Seri A senilai Rp1,08 triliun berbunga 7,10 persen per tahun jatuh tempo 9 November 2027, seri B senilai Rp132,5 miliar berbunga 7,20 persen jatuh tempo 29 Oktober 2028, dan seri C senilai Rp318,25 miliar berbunga 7,35 persen jatuh tempo 29 Oktober 2029. Pembayaran bunga pertama untuk ketiga seri ini dijadwalkan 29 Januari 2027, dan pelunasan pokok dilakukan sekaligus di akhir periode masing-masing seri.",
+   "Di sisi syariah, Sukuk Musyarakah Berkelanjutan II Tahap III senilai Rp513,54 miliar menawarkan nisbah bagi hasil 90,43 persen bagi pemegang sukuk, dengan indikasi imbal hasil setara 7,10 persen per tahun dan jatuh tempo 9 November 2027. Adapun dua instrumen berlabel sosial, Obligasi Berwawasan Sosial Tahap III senilai Rp762,6 miliar dan Sukuk Musyarakah Berwawasan Sosial Tahap II senilai Rp266,6 miliar, keduanya berjangka lima tahun hingga jatuh tempo 29 Oktober 2031 dengan tingkat imbal hasil 7,70 persen per tahun. Pefindo memberi rating idAAA untuk obligasi dan idAAAsy untuk sukuk, rating tertinggi yang menunjukkan risiko gagal bayar sangat rendah.",
+   "Seluruh obligasi dan sukuk ini tidak dijamin dengan aset tertentu, tetapi dijamin dengan seluruh harta kekayaan SMF sesuai Kitab Undang-Undang Hukum Perdata, dengan kedudukan setara dengan kreditur lain perusahaan. SMF baru berhak membeli kembali sebagian atau seluruh surat utang ini satu tahun setelah tanggal penjatahan, yaitu mulai 28 Oktober 2027. Penerbitan ini merupakan tahap keempat dari program Obligasi Berkelanjutan VIII bertarget total Rp24 triliun, sementara tahap selanjutnya dari masing-masing program akan ditentukan kemudian."
+  ],
+  "fotoAdegan": "Aerial view of a new suburban housing complex under construction on the outskirts of an Indonesian city, rows of unfinished houses, midday light",
+  "takeaway": "Laporan ini saya nilai netral bagi SMF, karena ini kelanjutan rutin dari program penawaran umum berkelanjutan yang sudah efektif sejak Juni 2025, bukan langkah darurat mencari dana segar di luar rencana. Yang tersentuh adalah beban bunga, yaitu kewajiban membayar bunga 7,10 sampai 7,70 persen per tahun atas tambahan utang Rp3,09 triliun ini, serta arus kas pendanaan karena dana yang masuk akan disalurkan sebagai pembiayaan sekunder perumahan, bisnis inti SMF. Bagi perusahaan pembiayaan seperti SMF, menerbitkan obligasi untuk mendanai penyaluran kredit adalah model bisnis biasa, bukan sinyal kesulitan keuangan, dan rating AAA dari Pefindo menunjukkan pasar masih menilai risiko gagal bayarnya sangat kecil. Yang perlu dipantau berikutnya adalah pembayaran bunga pertama pada 29 Januari 2027 untuk keempat instrumen ini, serta jatuh tempo seri tercepat, yaitu obligasi seri A dan sukuk musyarakah, pada 9 November 2027.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "boss-tanpa-penjualan-di-2024-defisiensi-modal-membesar",
   "category": "Aksi Korporasi",
   "title": "BOSS Tanpa Penjualan di 2024, [Defisiensi Modal] Membesar",
@@ -1182,6 +1288,84 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "coco-raih-rp1-28-triliun-dari-rights-issue-ekuitas-melesat",
+  "category": "Aksi Korporasi",
+  "title": "COCO Raih Rp1,28 Triliun dari [Rights Issue], Ekuitas Melesat",
+  "deck": "COCO menambah modal Rp1,28 triliun lewat rights issue, membuat ekuitas melonjak lebih dari 10 kali lipat dan rugi bersih menyempit pada kuartal III 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:31:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030204455-65539-0/FinancialStatement-2026-III-COCO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "COCO",
+  "tags": [
+   "COCO",
+   "rights issue",
+   "ekuitas",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Wahana Interfood Nusantara Tbk (COCO) menyampaikan laporan keuangan interim periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit, sekaligus surat keterbukaan informasi karena ada perubahan lebih dari 20 persen pada pos total aset dan ekuitas. Perubahan ini berasal dari penambahan modal lewat Penawaran Umum Terbatas dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD) tahap III, yaitu rights issue yang memberi pemegang saham lama hak membeli saham baru lebih dulu. Perseroan menerbitkan 10.678.367.772 lembar saham baru dengan total nilai nominal Rp1,28 triliun, sehingga jumlah saham beredar naik dari 3.559.455.924 lembar menjadi 14.237.823.696 lembar.",
+   "Dampaknya langsung terlihat di posisi keuangan. Total aset melonjak 214,85 persen dari Rp542,27 miliar per akhir 2025 menjadi Rp1,71 triliun per 30 September 2026, terutama karena kas dan bank bertambah dari Rp88,84 miliar menjadi Rp905,78 miliar, ditambah penempatan baru di deposito Rp250 miliar dan aset keuangan lancar lain Rp155 miliar. Total ekuitas naik jauh lebih tajam, 1.097,88 persen, dari Rp112,79 miliar menjadi Rp1,35 triliun. Sebagian dana segar itu juga dipakai untuk melunasi sebagian utang bank jangka pendek, yang turun dari Rp184,86 miliar menjadi Rp111,86 miliar.",
+   "Dari sisi operasional, penjualan sembilan bulan 2026 tercatat Rp121,08 miliar, naik dari Rp111,46 miliar pada periode yang sama tahun lalu. Rugi usaha menyempit dari Rp86,45 miliar menjadi Rp30,92 miliar, dan rugi bersih periode berjalan turun dari Rp103,62 miliar menjadi Rp38,05 miliar. Rugi per saham dasar ikut mengecil dari Rp115,27 menjadi Rp2,67, karena penyusutan rugi jauh lebih besar dibanding penambahan jumlah saham beredar. Surat keterbukaan informasi ini ditandatangani Direktur Utama Sugianto Soenario dan disampaikan ke Bursa Efek Indonesia pada 30 Oktober 2026 sesuai Peraturan Nomor I-E tentang Kewajiban Penyampaian Informasi."
+  ],
+  "fotoAdegan": "Workers sorting raw cocoa beans on a conveyor belt inside a small processing facility, warm indoor lighting, Indonesia industrial setting",
+  "takeaway": "Laporan ini condong positif bagi fundamental Wahana Interfood, karena suntikan modal besar dari rights issue memperkuat posisi keuangan perusahaan sekaligus membantu rugi usaha dan rugi bersih menyusut tajam dibanding tahun lalu. Pos yang paling tersentuh adalah ekuitas, yaitu dana milik pemegang saham yang tertanam di perusahaan, yang melonjak karena modal baru masuk, bukan karena perusahaan mulai mencetak laba. Jumlah saham beredar yang naik empat kali lipat berarti setiap lembar saham lama kini mewakili porsi kepemilikan yang lebih kecil, meski rugi per saham justru mengecil karena total rugi menyusut lebih cepat daripada penambahan jumlah sahamnya. Yang perlu dipantau berikutnya adalah ke mana dana segar Rp1,28 triliun ini benar benar dibelanjakan, karena sebagian besar untuk saat ini masih diparkir dalam bentuk deposito dan aset keuangan lancar lain, belum terlihat dipakai untuk menambah kapasitas usaha, dan laporan keuangan tahunan 2026 yang sudah diaudit akan jadi pembanding penting berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ssms-cetak-laba-rp1-75-triliun-utang-bank-melonjak-tajam",
+  "category": "Aksi Korporasi",
+  "title": "SSMS Cetak [Laba] Rp1,75 Triliun, Utang Bank Melonjak Tajam",
+  "deck": "Laba bersih sembilan bulan SSMS naik 71 persen menjadi Rp1,75 triliun, tapi utang bank jangka pendek melonjak hampir 3,5 kali menjadi Rp5,92 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:25:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030203705-65453-0/FinancialStatement-2026-III-SSMS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SSMS",
+  "tags": [
+   "SSMS",
+   "laporan keuangan",
+   "kelapa sawit",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Sawit Sumbermas Sarana Tbk (SSMS) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 ke Bursa Efek Indonesia pada 30 Oktober 2026. Pendapatan dari kontrak dengan pelanggan tercatat Rp14,83 triliun, naik dari Rp10,99 triliun pada periode yang sama tahun lalu. Laba bruto naik dari Rp3,77 triliun menjadi Rp5,95 triliun. Laba periode berjalan melonjak 71 persen, dari Rp1,02 triliun menjadi Rp1,75 triliun, dengan bagian yang menjadi milik pemegang saham entitas induk sebesar Rp1,59 triliun, naik dari Rp1,00 triliun. Laba per saham naik dari Rp105,13 menjadi Rp166,55.",
+   "Di sisi lain, total liabilitas perusahaan melonjak 41,9 persen, dari Rp10,64 triliun pada akhir 2025 menjadi Rp15,10 triliun pada akhir September 2026. Kenaikan terbesar berasal dari utang bank jangka pendek yang naik hampir 3,5 kali lipat, dari Rp1,70 triliun menjadi Rp5,92 triliun. Total aset perusahaan ikut naik dari Rp13,58 triliun menjadi Rp18,71 triliun, salah satunya didorong oleh munculnya pos baru berupa dana di bank yang dibatasi penggunaannya sebesar Rp3,30 triliun, yang sebelumnya tidak tercatat di laporan akhir 2025. Total ekuitas naik dari Rp2,94 triliun menjadi Rp3,61 triliun.",
+   "Dalam periode sembilan bulan ini, perseroan juga membagikan dividen tunai sebesar Rp800 miliar kepada pemegang saham entitas induk, serta Rp299,11 miliar kepada pemegang saham non-pengendali di anak usaha. Laporan ini masih berstatus tidak diaudit, dengan surat pernyataan direksi bertanggal 30 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested palm oil fruit bunches onto a truck at a rural plantation collection yard, overcast morning light",
+  "takeaway": "Laporan ini condong positif bagi SSMS, karena pendapatan dan laba bersih tumbuh signifikan dalam sembilan bulan terakhir, meski lonjakan utang bank jangka pendek perlu dicermati. Pos yang paling tersentuh adalah laba per saham, yang naik dari Rp105,13 menjadi Rp166,55, ukuran yang dipakai pasar untuk melihat apakah pertumbuhan laba benar-benar dinikmati tiap pemegang saham, bukan sekadar angka laba total yang membesar. Beban bunga pinjaman juga naik dari Rp431,46 miliar menjadi Rp521,30 miliar, sejalan dengan membengkaknya utang bank, yang berarti porsi laba yang harus dipakai membayar bunga ikut membesar. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit 2026, karena laporan ini masih tidak diaudit, serta apakah lonjakan utang bank jangka pendek dari Rp1,70 triliun ke Rp5,92 triliun dan munculnya dana Rp3,30 triliun yang dibatasi penggunaannya ini bersifat sementara atau menetap pada laporan kuartal berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "nisp-laba-bersih-naik-7-2-ke-rp4-22-triliun-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "NISP: Laba Bersih Naik [7,2%] ke Rp4,22 Triliun di Kuartal III",
+  "deck": "Laba bersih Bank OCBC NISP naik menjadi Rp4,22 triliun pada sembilan bulan pertama 2026, ditopang pertumbuhan kredit dan pendapatan bunga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:18:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030202510-65346-0/FinancialStatement-2026-III-NISP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NISP",
+  "tags": [
+   "NISP",
+   "OCBC NISP",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank OCBC NISP Tbk (NISP) melaporkan laba bersih konsolidasian sebesar Rp4,22 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 7,2 persen dari Rp3,94 triliun pada periode yang sama tahun sebelumnya. Dari jumlah itu, Rp4,03 triliun menjadi bagian pemilik entitas induk, sehingga laba bersih per saham dasar dan dilusian naik dari Rp166,68 menjadi Rp175,76 per saham. Laporan keuangan interim yang belum diaudit ini disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 30 Oktober 2026 sesuai kewajiban pelaporan berkala emiten.",
+   "Pendapatan bunga dan syariah bersih bank naik dari Rp8,14 triliun menjadi Rp8,78 triliun, ditopang penyaluran kredit pihak ketiga yang bertambah dari Rp173,23 triliun menjadi Rp190,70 triliun. Total aset perusahaan tercatat Rp350,46 triliun per akhir September 2026, naik dari Rp324,89 triliun pada akhir 2025. Di sisi pendanaan, giro nasabah justru menyusut dari Rp84,24 triliun menjadi Rp74,61 triliun, sementara tabungan naik menjadi Rp59,93 triliun dan deposito berjangka naik menjadi Rp109,63 triliun. Bank juga menambah kepemilikan obligasi pemerintah dari Rp39,85 triliun menjadi Rp65,68 triliun, sambil mengurangi portofolio efek-efek dari Rp89,47 triliun menjadi Rp70,29 triliun.",
+   "Total ekuitas perusahaan naik dari Rp45,72 triliun menjadi Rp47,31 triliun, antara lain setelah bank membayarkan dividen tunai Rp1,03 triliun pada periode berjalan. Pos cadangan kerugian penurunan nilai yang dibentuk untuk aset keuangan melonjak dari Rp31 miliar pada sembilan bulan pertama 2025 menjadi Rp615,95 miliar pada periode yang sama tahun ini, sementara cadangan kerugian atas pinjaman yang diberikan naik dari Rp7,50 triliun menjadi Rp7,86 triliun. Laporan ini juga mencantumkan tiga entitas anak utama, yaitu PT OCBC NISP Ventura yang dimiliki 99,9 persen dengan aset Rp245,95 miliar, PT OCBC Sekuritas Indonesia yang dimiliki 99,9999 persen dengan aset Rp1,05 triliun, dan PT Great Eastern Life Indonesia yang dimiliki 20,0 persen dengan aset Rp17,07 triliun."
+  ],
+  "fotoAdegan": "Customers queuing at a modern bank teller counter inside a busy branch lobby in Jakarta, soft morning light, gentle motion blur",
+  "takeaway": "Laporan ini secara keseluruhan condong positif bagi NISP karena laba bersih, penyaluran kredit, dan ekuitas sama-sama tumbuh dalam sembilan bulan pertama 2026, meski ada satu sinyal yang perlu diwaspadai. Yang perlu dicermati adalah lonjakan tajam cadangan kerugian penurunan nilai aset keuangan, yaitu dana yang disisihkan bank untuk menutup kemungkinan kredit macet, yang melonjak dari Rp31 miliar menjadi Rp615,95 miliar dalam setahun. Kenaikan itu biasanya dibaca pasar sebagai tanda bank mengantisipasi risiko kredit yang lebih tinggi dari portofolio pinjamannya yang memang membesar, meski jumlahnya masih kecil dibandingkan laba sebelum pajak Rp5,22 triliun. Ekuitas yang naik ke Rp47,31 triliun juga layak dicermati karena itu modal penyangga bank kalau terjadi kerugian, sementara laba per saham yang naik ke Rp175,76 menunjukkan porsi laba yang lebih besar untuk setiap lembar saham yang beredar. Yang perlu dipantau berikutnya adalah laporan keuangan audit untuk tahun penuh 2026 serta tren cadangan kerugian pada kuartal selanjutnya, untuk memastikan apakah kenaikan provisi kali ini bersifat sementara atau menjadi tren berkelanjutan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "simp-cetak-laba-rp2-05-triliun-di-9m2026-naik-45",
   "category": "Aksi Korporasi",
   "title": "SIMP Cetak Laba [Rp2,05 Triliun] di 9M2026, Naik 45%",
@@ -1232,6 +1416,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers inspecting rows of packaged instant noodles moving along a conveyor belt inside a bright food factory.",
   "takeaway": "Laporan ini condong positif bagi Indofood karena penjualan dan laba usaha tumbuh dua digit dengan marjin yang menebal, pertanda bisnis inti berjalan baik di tengah tahun ini. Yang pelaku pasar perlu cermati adalah bedanya core profit, yaitu laba yang disaring dari pos-pos nonoperasional dan dianggap mencerminkan kekuatan bisnis sesungguhnya, dengan laba bersih yang dilaporkan apa adanya. Core profit naik 11% ke Rp9,37 triliun, tapi laba bersih tertahan karena rugi kurs yang belum terealisasi dari utang obligasi dolar AS milik ICBP, yakni catatan akuntansi akibat pelemahan rupiah yang belum tentu berarti ada uang kas yang benar-benar hilang. Yang perlu dipantau selanjutnya adalah pergerakan rupiah terhadap dolar AS pada kuartal keempat, karena arahnya akan menentukan apakah beban kurs ini membesar atau justru berbalik menguntungkan pada laporan tahunan nanti.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "jihd-liabilitas-naik-26-usai-tarik-pinjaman-rp475-m",
+  "category": "Aksi Korporasi",
+  "title": "JIHD: Liabilitas Naik 26% Usai Tarik [Pinjaman] Rp475 M",
+  "deck": "Total liabilitas JIHD naik Rp506,4 miliar menjadi Rp2,43 triliun per akhir September, dipicu pinjaman bank baru Rp475 miliar untuk anak usaha Danayasa Arthatama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T20:13:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030202900-65204-0/FinancialStatement-2026-III-JIHD.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JIHD",
+  "tags": [
+   "JIHD",
+   "liabilitas",
+   "pinjaman bank",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Jakarta International Hotels & Development Tbk (JIHD) menyampaikan laporan keuangan interim per 30 September 2026 sekaligus surat penjelasan resmi ke Bursa Efek Indonesia terkait kenaikan total liabilitas lebih dari 20 persen, sesuai Peraturan Bursa Nomor I-E. Total liabilitas konsolidasian perusahaan tercatat Rp2,43 triliun per akhir September 2026, naik Rp506,4 miliar atau 26,29 persen dari Rp1,93 triliun pada akhir Desember 2025.",
+   "Kenaikan ini utamanya didorong oleh fasilitas pinjaman term loan baru senilai Rp475 miliar yang diperoleh PT Danayasa Arthatama, entitas anak JIHD di bidang real estat dengan porsi kepemilikan 82,41 persen, dari PT Bank Mandiri (Persero) Tbk. Jangka waktu pinjaman maksimal tujuh tahun terhitung sejak tanggal penandatanganan perjanjian kredit, dan dana tersebut digunakan untuk kebutuhan umum perusahaan. Surat penjelasan ini ditandatangani Direktur JIHD, Lanny Pujilestari Liga, dan disampaikan ke bursa pada 30 Oktober 2026.",
+   "Di sisi lain, total aset JIHD ikut naik dari Rp6,46 triliun menjadi Rp7,50 triliun pada periode yang sama. Kas dan setara kas bertambah dari Rp562,65 miliar menjadi Rp780,01 miliar, sementara nilai investasi perusahaan pada entitas asosiasi melonjak dari Rp745,78 miliar menjadi Rp1,10 triliun. Utang bank jangka pendek yang sebelumnya tercatat Rp56,53 miliar sudah tidak ada lagi di pembukuan per akhir September 2026."
+  ],
+  "fotoAdegan": "Modern high-rise office and hotel towers in a busy Jakarta business district, construction cranes in the distance, late afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental JIHD: liabilitas memang melonjak signifikan, tapi pemicunya pinjaman bank bertenor panjang untuk kebutuhan umum perusahaan, bukan tanda tekanan keuangan, sementara kas perusahaan justru bertambah dan utang bank jangka pendeknya sudah lunas. Pos yang tersentuh di sini adalah liabilitas, yaitu seluruh utang perusahaan, karena utang yang lebih besar berarti beban bunga ke depan juga bertambah dan itu bisa menggerus laba bersih kalau pendapatan perusahaan tidak ikut tumbuh. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal IV 2026, untuk melihat apakah beban bunga dari pinjaman baru ini mulai terasa dan bagaimana dana tersebut benar-benar dipakai oleh Danayasa Arthatama.",
+  "sentimen": "netral"
  },
  {
   "slug": "wika-tunda-pembayaran-bunga-obligasi-dan-sukuk-mudharabah",

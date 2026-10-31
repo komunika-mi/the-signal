@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "laba-wbsa-turun-55-di-kuartal-iii-2026-pendapatan-naik-31",
+  "category": "Aksi Korporasi",
+  "title": "[Laba] WBSA Turun 55% di Kuartal III 2026, Pendapatan Naik 31%",
+  "deck": "Pendapatan WBSA naik 31% menjadi Rp2,9 triliun pada kuartal III 2026, tapi laba bersih turun 55% menjadi Rp13,48 miliar akibat kenaikan beban dan biaya keuangan.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WBSA",
+   "laporan keuangan",
+   "laba bersih",
+   "logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031091411-65443-0/FinancialStatement-2026-III-WBSA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gtra-tambah-733-truk-laba-bersih-melonjak-96-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "GTRA Tambah 733 Truk, Laba Bersih [Melonjak] 96% di Kuartal III",
+  "deck": "Laba bersih GTRA naik 96 persen menjadi Rp87,84 miliar pada sembilan bulan 2026, ditopang penambahan 733 truk baru yang dibiayai utang bank dan pembiayaan konsumen.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTRA",
+   "laporan keuangan",
+   "logistik",
+   "ekspansi truk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031090358-65590-0/FinancialStatement-2026-III-GTRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hits-laba-turun-39-di-kuartal-iii-meski-pendapatan-naik",
+  "category": "Aksi Korporasi",
+  "title": "HITS: Laba [Turun] 39% di Kuartal III Meski Pendapatan Naik",
+  "deck": "Pendapatan HITS naik 5 persen jadi US$105,3 juta pada sembilan bulan 2026, tetapi laba bersih turun 39 persen akibat beban bunga dan biaya pokok yang naik lebih cepat.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HITS",
+   "laporan keuangan",
+   "laba bersih",
+   "pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031085014-65570-0/FinancialStatement-2026-III-HITS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smfp-resmi-catatkan-obligasi-dan-sukuk-senilai-rp3-09-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SMFP resmi catatkan obligasi dan sukuk senilai [Rp3,09 triliun]",
+  "deck": "BEI mencatatkan empat obligasi dan sukuk baru SMF (SMFP) senilai total Rp3,09 triliun mulai 30 Oktober 2026, bagian dari program obligasi berkelanjutan VIII.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMFP",
+   "obligasi korporasi",
+   "sukuk musyarakah",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4f8ee1de49_06148c49bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "boss-tanpa-penjualan-di-2024-defisiensi-modal-membesar",
   "category": "Aksi Korporasi",
   "title": "BOSS Tanpa Penjualan di 2024, [Defisiensi Modal] Membesar",
@@ -729,6 +793,54 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "coco-raih-rp1-28-triliun-dari-rights-issue-ekuitas-melesat",
+  "category": "Aksi Korporasi",
+  "title": "COCO Raih Rp1,28 Triliun dari [Rights Issue], Ekuitas Melesat",
+  "deck": "COCO menambah modal Rp1,28 triliun lewat rights issue, membuat ekuitas melonjak lebih dari 10 kali lipat dan rugi bersih menyempit pada kuartal III 2026.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "COCO",
+   "rights issue",
+   "ekuitas",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030204455-65539-0/FinancialStatement-2026-III-COCO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ssms-cetak-laba-rp1-75-triliun-utang-bank-melonjak-tajam",
+  "category": "Aksi Korporasi",
+  "title": "SSMS Cetak [Laba] Rp1,75 Triliun, Utang Bank Melonjak Tajam",
+  "deck": "Laba bersih sembilan bulan SSMS naik 71 persen menjadi Rp1,75 triliun, tapi utang bank jangka pendek melonjak hampir 3,5 kali menjadi Rp5,92 triliun.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SSMS",
+   "laporan keuangan",
+   "kelapa sawit",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030203705-65453-0/FinancialStatement-2026-III-SSMS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nisp-laba-bersih-naik-7-2-ke-rp4-22-triliun-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "NISP: Laba Bersih Naik [7,2%] ke Rp4,22 Triliun di Kuartal III",
+  "deck": "Laba bersih Bank OCBC NISP naik menjadi Rp4,22 triliun pada sembilan bulan pertama 2026, ditopang pertumbuhan kredit dan pendapatan bunga.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NISP",
+   "OCBC NISP",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030202510-65346-0/FinancialStatement-2026-III-NISP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "simp-cetak-laba-rp2-05-triliun-di-9m2026-naik-45",
   "category": "Aksi Korporasi",
   "title": "SIMP Cetak Laba [Rp2,05 Triliun] di 9M2026, Naik 45%",
@@ -758,6 +870,22 @@ var ARTICLES = [
    "laporan kuartalan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f3caf9f173_1c248574ec.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jihd-liabilitas-naik-26-usai-tarik-pinjaman-rp475-m",
+  "category": "Aksi Korporasi",
+  "title": "JIHD: Liabilitas Naik 26% Usai Tarik [Pinjaman] Rp475 M",
+  "deck": "Total liabilitas JIHD naik Rp506,4 miliar menjadi Rp2,43 triliun per akhir September, dipicu pinjaman bank baru Rp475 miliar untuk anak usaha Danayasa Arthatama.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JIHD",
+   "liabilitas",
+   "pinjaman bank",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030202900-65204-0/FinancialStatement-2026-III-JIHD.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6351,134 +6479,6 @@ var ARTICLES = [
    "likuiditas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026150727-64734-0/FinancialStatement-2026-III-HDIT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppro-lengkapi-direksi-rombak-jabatan-lewat-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "PPRO Lengkapi Direksi, [Rombak] Jabatan Lewat RUPSLB",
-  "deck": "RUPSLB PPRO menyetujui pengangkatan Adi Suryolaksono sebagai direktur baru dan mengubah nama dua jabatan direksi, sementara Nurjaman diberhentikan dengan hormat.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRO",
-   "direksi",
-   "RUPSLB",
-   "PP Properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7324bc473c_fe254fef7d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pdpp-gelar-rupslb-2-desember-batas-usul-agenda-2-november",
-  "category": "Aksi Korporasi",
-  "title": "PDPP Gelar [RUPSLB] 2 Desember, Batas Usul Agenda 2 November",
-  "deck": "Primadaya Plastisindo menjadwalkan RUPSLB pada 2 Desember 2026, dengan daftar pemegang saham berhak hadir dicatat 9 November dan usulan agenda ditutup 2 November 2026.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PDPP",
-   "RUPSLB",
-   "Primadaya Plastisindo",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9851e231b4_9d49d18688.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ikpm-cetak-laba-rp3-74-miliar-keluar-dari-rugi-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "IKPM Cetak Laba Rp3,74 Miliar, Keluar dari [Rugi] Kuartal III 2026",
-  "deck": "Ikapharmindo Putramas (IKPM) membalik rugi Rp31,95 miliar jadi laba Rp3,74 miliar pada sembilan bulan 2026 seiring penjualan naik 19,6 persen, meski arus kas operasional berbalik negatif.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IKPM",
-   "laporan keuangan",
-   "farmasi",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026145405-64580-0/FinancialStatement-2026-III-IKPM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gema-panggil-rupslb-agendakan-perubahan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "GEMA Panggil RUPSLB, Agendakan [Perubahan] Komisaris",
-  "deck": "Gema Grahasarana (GEMA) menggelar RUPSLB pada 17 November 2026 untuk membahas perubahan susunan Dewan Komisaris dan penyesuaian pasal anggaran dasar sesuai KBLI 2025.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GEMA",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Gema Grahasarana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5920c6247d_1352afbd87.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbss-teken-kontrak-angkutan-material-5-tahun-dengan-gel",
-  "category": "Aksi Korporasi",
-  "title": "MBSS Teken [Kontrak] Angkutan Material 5 Tahun dengan GEL",
-  "deck": "Mitrabahtera Segara Sejati menandatangani perjanjian payung lima tahun dengan PT Global Energi Lestari untuk mengangkut material hingga 500.000 ton per bulan.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBSS",
-   "kontrak pelayaran",
-   "Global Energi Lestari",
-   "angkutan material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/922c76d31e_ad44c44ebf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbni-rampungkan-buyback-22-95-juta-saham-periode-juli-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BBNI Rampungkan [Buyback] 22,95 Juta Saham Periode Juli-Oktober",
-  "deck": "Bank BNI menutup periode pembelian kembali saham yang berjalan sejak 27 Juli hingga 26 Oktober 2026, dengan total 22,95 juta saham dibeli kembali dari anggaran maksimal Rp627 miliar.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBNI",
-   "buyback saham",
-   "bank BUMN",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/03e2c1daef_0287d60d1d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-bles-melonjak-484-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "Laba [BLES] Melonjak 484% di Kuartal III 2026",
-  "deck": "Penjualan BLES tumbuh 31% secara tahunan menjadi Rp1,4 triliun, didorong permintaan bata ringan dan utilisasi pabrik yang naik ke 69%.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLES",
-   "laporan keuangan",
-   "bata ringan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5907879ed2_fef3f84229.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bina-berhentikan-kepala-audit-internal-tunjuk-pjs-baru",
-  "category": "Aksi Korporasi",
-  "title": "BINA [Berhentikan] Kepala Audit Internal, Tunjuk Pjs Baru",
-  "deck": "Bank Ina Perdana memberhentikan Romy Yulianto Santoso dari Kepala Divisi Internal Audit dan menunjuk Tjong Lily Inawati sebagai pejabat sementara.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BINA",
-   "internal audit",
-   "perbankan",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/61ec89a037_e258bc676e.pdf",
   "sourceLabel": "IDX"
  }
 ];

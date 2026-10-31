@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "I3PTDpqIlzs",
+  "title": "Insentif Fiskal Rp1 Triliun untuk Daerah Berkinerja Baik",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Wakil Menteri Dalam Negeri Bima Arya Sugiarto menegaskan insentif fiskal Rp1 triliun untuk daerah berkinerja baik bukan dana khusus program Makan Bergizi Gratis.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut kejelasan skema insentif fiskal dan alokasi anggaran daerah dari pemerintah pusat."
+ },
+ {
+  "id": "OPb1eQGui74",
+  "title": "Italia Dilanda Demo Besar Akibat Biaya Hidup Tinggi",
+  "category": "Global",
+  "program": "Onenews Update",
+  "summary": "Puluhan ribu pelajar dan pekerja turun ke jalan di berbagai wilayah Italia pada Jumat (30/10) sebagai respons atas tekanan biaya hidup yang terus meningkat.",
+  "takeaway": "Menunjukkan dampak sosial dari tekanan inflasi dan biaya hidup, isu yang juga relevan bagi pembaca ekonomi global."
+ },
+ {
   "id": "esz4Qyy2oAE",
   "title": "Hashim Ingatkan Risiko Rupiah Tembus Rp22.000 per Dolar AS",
   "category": "Moneter",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Apa Kabar Indonesia Pagi",
   "summary": "Menteri ESDM Bahlil Lahadalia menanggapi pernyataan PM Singapura Lawrence Wong soal pemangkasan ekspor gas Indonesia, dan menegaskan pengurangan pasokan masih sesuai batas kontrak minimum.",
   "takeaway": "Penting bagi pembaca karena menyangkut kebijakan ekspor energi dan hubungan dagang gas antara Indonesia dan Singapura."
- },
- {
-  "id": "15K0rDdofMs",
-  "title": "Warga Malaysia Boikot Produk Indonesia Imbas Asap Karhutla",
-  "category": "Bisnis",
-  "program": "OneNews Update",
-  "summary": "Sejumlah warga Malaysia dilaporkan memboikot produk asal Indonesia sebagai respons atas kabut asap yang menyelimuti negara itu akibat kebakaran hutan dan lahan di beberapa wilayah Indonesia.",
-  "takeaway": "Boikot konsumen lintas negara ini layak dipantau karena berpotensi menekan kinerja ekspor produk Indonesia ke pasar Malaysia."
- },
- {
-  "id": "06V0vNDBTjo",
-  "title": "Menteri Bahlil Pangkas Ekspor Gas Demi Kebutuhan Domestik",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Menteri ESDM Bahlil Lahadalia menanggapi pernyataan Perdana Menteri Singapura Lawrence Wong terkait kebijakan Indonesia memangkas ekspor gas bumi untuk memenuhi kebutuhan domestik.",
-  "takeaway": "Kebijakan ini penting dipantau karena menyangkut keseimbangan antara pasokan energi domestik dan komitmen ekspor ke mitra dagang."
  }
 ];

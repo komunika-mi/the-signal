@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "I3PTDpqIlzs",
+  "title": "Insentif Fiskal Rp1 Triliun untuk Daerah Berkinerja Baik",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Wakil Menteri Dalam Negeri Bima Arya Sugiarto menegaskan insentif fiskal Rp1 triliun untuk daerah berkinerja baik bukan dana khusus program Makan Bergizi Gratis.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut kejelasan skema insentif fiskal dan alokasi anggaran daerah dari pemerintah pusat.",
+  "terbit": "2026-10-31T13:32:46+00:00"
+ },
+ {
+  "id": "OPb1eQGui74",
+  "title": "Italia Dilanda Demo Besar Akibat Biaya Hidup Tinggi",
+  "category": "Global",
+  "program": "Onenews Update",
+  "summary": "Puluhan ribu pelajar dan pekerja turun ke jalan di berbagai wilayah Italia pada Jumat (30/10) sebagai respons atas tekanan biaya hidup yang terus meningkat.",
+  "takeaway": "Menunjukkan dampak sosial dari tekanan inflasi dan biaya hidup, isu yang juga relevan bagi pembaca ekonomi global.",
+  "terbit": "2026-10-31T13:00:14+00:00"
+ },
+ {
   "id": "esz4Qyy2oAE",
   "title": "Hashim Ingatkan Risiko Rupiah Tembus Rp22.000 per Dolar AS",
   "category": "Moneter",

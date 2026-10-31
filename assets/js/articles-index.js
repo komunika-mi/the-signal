@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "majalengka-jadi-pemda-teraktif-dukung-desa-wisata-ojk",
+  "category": "Perbankan",
+  "title": "Majalengka Jadi Pemda [Teraktif] Dukung Desa Wisata OJK",
+  "deck": "Pemkab Majalengka menerima penghargaan OJK Cirebon sebagai pemda paling aktif mendukung program Desa Ekosistem Keuangan Inklusif sektor wisata tahun 2026.",
+  "date": "1 November 2026",
+  "image": "assets/img/majalengka-jadi-pemda-teraktif-dukung-desa-wisata-ojk.jpg",
+  "imageV": "mvws2vt3",
+  "tags": [
+   "ojk",
+   "umkm",
+   "finexpo",
+   "desa wisata"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475990-top-pemkab-majalengka-raih-penghargaan-ojk-cirebon-sebagai-pemda-teraktif-program-desa-eki-sektor-wisata-2026"
+ },
+ {
   "slug": "voks-balik-untung-kuartal-iii-utang-melonjak-63-7",
   "category": "Aksi Korporasi",
   "title": "VOKS Balik Untung Kuartal III, [Utang] Melonjak 63,7%",
@@ -19,6 +36,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101000955-65633-0/FinancialStatement-2026-III-VOKS.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "usu-deli-serdang-tanam-10-000-pohon-bekal-karier-digital",
+  "category": "Bisnis",
+  "title": "USU Deli Serdang Tanam 10.000 [Pohon], Bekal Karier Digital",
+  "deck": "Linknet dan Pertamina Foundation menanam 10.000 pohon di Kampus 2 USU sekaligus membekali ratusan mahasiswa dengan wawasan karier ekonomi digital.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/usu-deli-serdang-tanam-10-000-pohon-bekal-karier-digital.jpg",
+  "imageV": "mvws2w6s",
+  "tags": [
+   "Linknet",
+   "Pertamina Foundation",
+   "USU",
+   "Penghijauan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475988-enggak-cuma-tanam-10000-pohon-mahasiswa-di-deli-serdang-kini-dibekali-tips-karier-di-era-digital"
  },
  {
   "slug": "pipa-ganti-nama-jadi-oxala-energy-laba-9-bulan-susut-53",
@@ -6455,38 +6489,6 @@ var ARTICLES = [
    "pertambangan batu bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/db6bba2fa2_c72ee69838.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smii-koreksi-laporan-keuangan-laba-semester-i-naik-16",
-  "category": "Aksi Korporasi",
-  "title": "SMII Koreksi Laporan Keuangan, Laba Semester I Naik [16%]",
-  "deck": "SMII mengoreksi laporan keuangan semester I 2026 usai pemeriksaan OJK, dampaknya kecil, sementara laba bersih perseroan naik 16,13 persen menjadi Rp1,36 triliun.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMII",
-   "laporan keuangan",
-   "OJK",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026191429-64939-0/FinancialStatement-2026-II-SMII.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmri-laba-bank-mandiri-melonjak-20-7-ke-rp45-5-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BMRI: Laba Bank Mandiri [Melonjak] 20,7% ke Rp45,5 Triliun",
-  "deck": "Bank Mandiri catat laba bersih Rp45,5 triliun hingga kuartal III 2026, kredit dan dana pihak ketiga tumbuh dua digit, kualitas aset justru membaik.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMRI",
-   "Bank Mandiri",
-   "laba bersih",
-   "kinerja kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/40e52a8ced_70b5eb50bd.pdf",
   "sourceLabel": "IDX"
  }
 ];

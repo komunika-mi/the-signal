@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "majalengka-jadi-pemda-teraktif-dukung-desa-wisata-ojk",
+  "category": "Perbankan",
+  "title": "Majalengka Jadi Pemda [Teraktif] Dukung Desa Wisata OJK",
+  "deck": "Pemkab Majalengka menerima penghargaan OJK Cirebon sebagai pemda paling aktif mendukung program Desa Ekosistem Keuangan Inklusif sektor wisata tahun 2026.",
+  "image": "assets/img/majalengka-jadi-pemda-teraktif-dukung-desa-wisata-ojk.jpg",
+  "date": "1 November 2026",
+  "isoDate": "2026-11-01T01:01:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475990-top-pemkab-majalengka-raih-penghargaan-ojk-cirebon-sebagai-pemda-teraktif-program-desa-eki-sektor-wisata-2026",
+  "tags": [
+   "ojk",
+   "umkm",
+   "finexpo",
+   "desa wisata"
+  ],
+  "body": [
+   "Pemerintah Kabupaten Majalengka menerima penghargaan dari Otoritas Jasa Keuangan (OJK) Cirebon sebagai pemerintah daerah paling aktif mendukung Program Desa Ekosistem Keuangan Inklusif (EKI) Sektor Wisata se-wilayah Ciayumajakuning untuk tahun 2026. Trofi diserahkan dalam acara Financial Expo (FinExpo) 2026 di Grage Mall Cirebon, Sabtu, 31 Oktober 2026, yang digelar sebagai bagian dari peringatan Bulan Inklusi Keuangan 2026.",
+   "FinExpo 2026 mengusung tema 'Akses Keuangan Merata, Ekonomi Berdaya, Masyarakat Sejahtera'. Lewat program Desa EKI, OJK bersama pemerintah daerah dan lembaga jasa keuangan berupaya memperluas layanan keuangan formal, seperti tabungan, kredit, dan asuransi, sampai ke desa-desa yang punya potensi wisata.",
+   "Penghargaan ini diberikan sebagai pengakuan atas peran Majalengka dalam mendorong warga dan pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) di kawasan wisata agar lebih memahami dan memanfaatkan layanan keuangan resmi. Harapannya, literasi keuangan yang lebih baik membuat pelaku usaha lokal makin mandiri dan tidak bergantung pada pembiayaan informal.",
+   "Pemkab Majalengka menyatakan akan melanjutkan kolaborasi dengan OJK dan pelaku industri pariwisata untuk memperluas akses keuangan hingga ke tingkat desa. Tujuannya agar pertumbuhan sektor wisata daerah berjalan berkelanjutan dan dampaknya bisa langsung dirasakan warga setempat."
+  ],
+  "fotoAdegan": "Small vendors arranging local snacks and handwoven souvenirs at a rural tourism village stall, hills in the background, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/31/6ae6151f27ac1-pemkab-majalengka-raih-penghargaan-ojk-teraktif-dukung-program-desa-ekosistem-keuangan-inklusif-sektor-wisata-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah status pengakuan, bukan kebijakan atau dana baru: Majalengka dinobatkan sebagai pemda paling aktif dalam program Desa Ekosistem Keuangan Inklusif sektor wisata se-Ciayumajakuning, bukan soal besaran anggaran atau aturan konkret. Yang paling terkait dengan penghargaan ini adalah warga dan pelaku UMKM di desa-desa wisata Majalengka, karena program ini memang menyasar perluasan akses mereka ke layanan bank dan lembaga keuangan formal. Beritanya belum menyebut berapa desa wisata yang sudah ikut program, berapa pelaku usaha yang terdaftar, atau berapa pembiayaan yang sudah tersalur, jadi belum bisa dipastikan apakah penghargaan ini sejalan dengan hasil nyata di lapangan. Yang perlu dipantau adalah data cakupan program Desa EKI di Majalengka ke depan, termasuk jumlah desa dan pelaku usaha yang benar-benar sudah terhubung ke layanan keuangan formal.",
+  "imageV": "mvws2vt3"
+ },
+ {
   "slug": "voks-balik-untung-kuartal-iii-utang-melonjak-63-7",
   "category": "Aksi Korporasi",
   "title": "VOKS Balik Untung Kuartal III, [Utang] Melonjak 63,7%",
@@ -27,6 +54,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers checking large spools of insulated copper cable inside an industrial manufacturing warehouse, overhead crane in soft morning light",
   "takeaway": "Laporan ini netral bagi fundamental VOKS: kinerja operasional memang membaik nyata, laba usaha hampir berlipat dan laba bersih berbalik dari rugi, tetapi perbaikan itu dibayangi utang yang tumbuh jauh lebih cepat daripada modal sendiri perusahaan. Yang perlu diperhatikan adalah ekuitas, yaitu modal milik pemegang saham, yang cuma naik 2,5 persen sementara utang naik 63,7 persen, sehingga perusahaan kini jauh lebih bergantung pada pinjaman, termasuk pinjaman dalam mata uang yuan yang membuat beban bunga naik 35 persen dan membuat perusahaan rawan rugi kurs kalau rupiah melemah lagi. Karena laporan ini belum diaudit, konfirmasi akhir atas angka laba dan utang tersebut baru akan terlihat pada laporan keuangan tahunan auditan 2026 yang biasanya terbit awal tahun berikutnya, dan arah kerugian kurs serta kenaikan utang pihak berelasi pada kuartal keempat juga patut dipantau.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "usu-deli-serdang-tanam-10-000-pohon-bekal-karier-digital",
+  "category": "Bisnis",
+  "title": "USU Deli Serdang Tanam 10.000 [Pohon], Bekal Karier Digital",
+  "deck": "Linknet dan Pertamina Foundation menanam 10.000 pohon di Kampus 2 USU sekaligus membekali ratusan mahasiswa dengan wawasan karier ekonomi digital.",
+  "image": "assets/img/usu-deli-serdang-tanam-10-000-pohon-bekal-karier-digital.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T23:08:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475988-enggak-cuma-tanam-10000-pohon-mahasiswa-di-deli-serdang-kini-dibekali-tips-karier-di-era-digital",
+  "tags": [
+   "Linknet",
+   "Pertamina Foundation",
+   "USU",
+   "Penghijauan"
+  ],
+  "body": [
+   "Linknet bersama Pertamina Foundation menanam 10.000 bibit pohon jenis Multi-Purpose Tree Species di lahan seluas 5 hektare, Kampus 2 Universitas Sumatera Utara (USU), Kwala Bekala, Deli Serdang, Kamis (29/10). Kegiatan bertema \"Connecting Future Talent, Growing a Greener Nation\" ini digelar bertepatan dengan peringatan Hari Sumpah Pemuda ke-98, dan menggabungkan aksi penghijauan dengan program pengembangan sumber daya manusia bernama Linknet Goes to Campus di Kampus 1 USU.",
+   "CEO dan Presiden Direktur PT Link Net Tbk, Kanishka Wickrama, menyebut program bertajuk \"New Home-Pass, New Tree\" ini sebagai bentuk tanggung jawab lingkungan yang diselaraskan dengan pertumbuhan bisnis perusahaan. Ia menyatakan setiap perluasan jaringan Linknet ke rumah-rumah baru ingin diimbangi aksi nyata bagi lingkungan. Sejak dimulai pada 2025, program ini telah menanam puluhan ribu pohon di berbagai wilayah Indonesia, dan pada 2026 targetnya naik menjadi 50.000 pohon yang tersebar di delapan lokasi.",
+   "Presiden Direktur Pertamina Foundation, Agus Mashud S. Asngari, menilai kunci program ini adalah kolaborasi lintas sektor dan keterlibatan generasi muda, sementara Wakil Bupati Deli Serdang, Lom Lom Suwondo, menyebutnya langkah strategis bagi daerah. Rangkaian acara ditutup dengan diskusi panel bertema \"Connecting Future Talent for Indonesia's Digital Economy\" yang mempertemukan praktisi industri dan akademisi untuk membekali lebih dari 200 mahasiswa dengan wawasan karier di bidang ekonomi digital."
+  ],
+  "fotoAdegan": "University students planting young tree saplings on cleared reddish soil near a campus field, overcast tropical sky.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/31/6ae6114d56651-ilustrasi-penanaman-pohon_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Inti program ini adalah tautan antara ekspansi bisnis dan penghijauan, setiap perluasan jaringan Linknet ke rumah-rumah baru diimbangi penanaman pohon, dan tahun ini jumlahnya 10.000 pohon hanya di satu lokasi, Kampus 2 USU. Yang terdampak langsung adalah lahan dan lingkungan sekitar kampus di Deli Serdang, serta lebih dari 200 mahasiswa USU yang mendapat pembekalan karier di bidang ekonomi digital. Program baru dimulai 2025, dan tahun depan targetnya melonjak lebih dari lima kali lipat menjadi 50.000 pohon di delapan lokasi, sehingga arahnya adalah memperbesar skala CSR seiring perluasan jaringan perusahaan, bukan sekadar seremoni sekali jalan. Yang akan membuktikan konsistensi klaim ini adalah apakah target delapan lokasi dan 50.000 pohon itu benar terealisasi sepanjang 2026.",
+  "imageV": "mvws2w6s"
  },
  {
   "slug": "pipa-ganti-nama-jadi-oxala-energy-laba-9-bulan-susut-53",

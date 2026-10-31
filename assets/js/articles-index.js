@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "voks-balik-untung-kuartal-iii-utang-melonjak-63-7",
+  "category": "Aksi Korporasi",
+  "title": "VOKS Balik Untung Kuartal III, [Utang] Melonjak 63,7%",
+  "deck": "Voksel Electric berbalik untung Rp14,66 miliar pada sembilan bulan 2026, tapi utangnya melonjak 63,7 persen karena pinjaman baru dari bank China dan utang ke pihak berelasi.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VOKS",
+   "Voksel Electric",
+   "laporan keuangan",
+   "utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101000955-65633-0/FinancialStatement-2026-III-VOKS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pipa-ganti-nama-jadi-oxala-energy-laba-9-bulan-susut-53",
+  "category": "Aksi Korporasi",
+  "title": "PIPA ganti nama jadi [Oxala Energy], laba 9 bulan susut 53%",
+  "deck": "Oxala Energy International (PIPA) mengganti nama dan domisili ke Jakarta Selatan, sementara laba bersih sembilan bulan turun ke Rp1,26 miliar dari Rp2,66 miliar tahun sebelumnya.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIPA",
+   "Oxala Energy International",
+   "laporan keuangan interim",
+   "ganti nama perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031230241-65526-0/FinancialStatement-2026-III-PIPA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pabrik-sepatu-kek-batang-pekerjakan-174-difabel",
   "category": "Ketenagakerjaan",
   "title": "Pabrik Sepatu KEK Batang Pekerjakan 174 [Difabel]",
@@ -6455,38 +6487,6 @@ var ARTICLES = [
    "kinerja kuartal III 2026"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/40e52a8ced_70b5eb50bd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-evaluasi-indeks-idx30-isat-ptba-masuk-pgeo-unvr-keluar",
-  "category": "Aksi Korporasi",
-  "title": "BEI Evaluasi Indeks: [IDX30], ISAT-PTBA Masuk, PGEO-UNVR Keluar",
-  "deck": "BEI mengumumkan hasil evaluasi berkala sembilan indeks saham efektif 2 November 2026, dengan ISAT dan PTBA masuk IDX30 serta PGEO dan UNVR keluar.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IDX30",
-   "LQ45",
-   "IDX80",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Evaluasi Indeks 26 Okt 2026-No. Peng-00204BEI.POP10-2026.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mhki-jelaskan-volatilitas-transaksi-klaim-tak-ada-info-baru",
-  "category": "Aksi Korporasi",
-  "title": "MHKI [Jelaskan] Volatilitas Transaksi, Klaim Tak Ada Info Baru",
-  "deck": "MHKI menyatakan ke BEI tidak ada informasi material atau rencana tindakan korporasi di balik volatilitas harga sahamnya, termasuk dari pemegang saham utama.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MHKI",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dc0a703da0_dc9a49a58e.pdf",
   "sourceLabel": "IDX"
  }
 ];

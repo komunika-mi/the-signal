@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "voks-balik-untung-kuartal-iii-utang-melonjak-63-7",
+  "category": "Aksi Korporasi",
+  "title": "VOKS Balik Untung Kuartal III, [Utang] Melonjak 63,7%",
+  "deck": "Voksel Electric berbalik untung Rp14,66 miliar pada sembilan bulan 2026, tapi utangnya melonjak 63,7 persen karena pinjaman baru dari bank China dan utang ke pihak berelasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T23:59:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101000955-65633-0/FinancialStatement-2026-III-VOKS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VOKS",
+  "tags": [
+   "VOKS",
+   "Voksel Electric",
+   "laporan keuangan",
+   "utang"
+  ],
+  "body": [
+   "PT Voksel Electric Tbk (VOKS) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan, sesuai Peraturan Bursa Nomor I-E dan POJK Nomor 14/POJK.04/2022. Produsen kabel listrik ini mencatat pendapatan usaha Rp1.949,72 miliar, naik 20,6 persen dari Rp1.616,23 miliar pada periode yang sama tahun lalu. Laba usaha melonjak dari Rp34,03 miliar menjadi Rp84,59 miliar, dan perusahaan berbalik mencetak laba periode berjalan Rp14,66 miliar, dibandingkan rugi Rp18,36 miliar pada sembilan bulan 2025. Laba per saham ikut berbalik dari rugi Rp4,42 menjadi laba Rp3,53 per saham.",
+   "Dalam surat terpisah kepada BEI, manajemen menjelaskan bahwa total aset Perseroan naik Rp820,15 miliar atau 44,51 persen menjadi Rp2.662,64 miliar, terutama didorong kenaikan kas dan setara kas sebesar 37,26 persen menjadi Rp471,92 miliar, piutang usaha pihak ketiga yang naik dari Rp291,15 miliar menjadi Rp592,25 miliar, dan persediaan yang naik 63,66 persen menjadi Rp755,30 miliar seiring kebutuhan bahan baku dan proyek yang berjalan.",
+   "Di sisi liabilitas, total utang Perseroan naik lebih cepat, yaitu 63,71 persen menjadi Rp2.069,70 miliar. Utang bank jangka pendek naik 36,63 persen menjadi Rp789,28 miliar setelah Perseroan menarik fasilitas pinjaman modal kerja baru dari China CITIC Bank International sebesar CNY100 juta dan China Development Bank sebesar CNY36,3 juta sepanjang 2026. Utang usaha kepada pihak berelasi melonjak dari Rp140,23 miliar menjadi Rp481,23 miliar, utang usaha ke pihak ketiga naik menjadi Rp290,46 miliar, dan liabilitas kontrak berupa uang muka pelanggan naik 127,3 persen menjadi Rp141,27 miliar. Sementara itu ekuitas hanya naik tipis dari Rp578,27 miliar menjadi Rp592,94 miliar, dan beban bunga naik 35 persen menjadi Rp38,44 miliar. Kerugian selisih kurs mata uang asing juga melonjak lebih dari empat kali lipat menjadi Rp79,36 miliar, yang sebagian tertutup oleh keuntungan perubahan nilai wajar instrumen derivatif sebesar Rp51,48 miliar."
+  ],
+  "fotoAdegan": "Workers checking large spools of insulated copper cable inside an industrial manufacturing warehouse, overhead crane in soft morning light",
+  "takeaway": "Laporan ini netral bagi fundamental VOKS: kinerja operasional memang membaik nyata, laba usaha hampir berlipat dan laba bersih berbalik dari rugi, tetapi perbaikan itu dibayangi utang yang tumbuh jauh lebih cepat daripada modal sendiri perusahaan. Yang perlu diperhatikan adalah ekuitas, yaitu modal milik pemegang saham, yang cuma naik 2,5 persen sementara utang naik 63,7 persen, sehingga perusahaan kini jauh lebih bergantung pada pinjaman, termasuk pinjaman dalam mata uang yuan yang membuat beban bunga naik 35 persen dan membuat perusahaan rawan rugi kurs kalau rupiah melemah lagi. Karena laporan ini belum diaudit, konfirmasi akhir atas angka laba dan utang tersebut baru akan terlihat pada laporan keuangan tahunan auditan 2026 yang biasanya terbit awal tahun berikutnya, dan arah kerugian kurs serta kenaikan utang pihak berelasi pada kuartal keempat juga patut dipantau.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pipa-ganti-nama-jadi-oxala-energy-laba-9-bulan-susut-53",
+  "category": "Aksi Korporasi",
+  "title": "PIPA ganti nama jadi [Oxala Energy], laba 9 bulan susut 53%",
+  "deck": "Oxala Energy International (PIPA) mengganti nama dan domisili ke Jakarta Selatan, sementara laba bersih sembilan bulan turun ke Rp1,26 miliar dari Rp2,66 miliar tahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T22:52:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031230241-65526-0/FinancialStatement-2026-III-PIPA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIPA",
+  "tags": [
+   "PIPA",
+   "Oxala Energy International",
+   "laporan keuangan interim",
+   "ganti nama perusahaan"
+  ],
+  "body": [
+   "PT Oxala Energy International Tbk (PIPA), yang sebelumnya bernama PT Multi Makmur Lemindo Tbk, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perubahan nama perusahaan beserta kedudukannya disahkan lewat Akta Nomor 38 tanggal 8 Juli 2026 dan disetujui Menteri Hukum melalui Surat Keputusan AHU-0052377.AH.01.02.TAHUN 2026 tanggal 14 Juli 2026. Kantor pusat perseroan ikut berpindah dari Kota Tangerang ke Jalan Iskandarsyah 1 Nomor 10, Melawai, Kebayoran Baru, Jakarta Selatan, dan modal dasar perusahaan dinaikkan menjadi Rp274 miliar. Pemegang saham pengendali per akhir September 2026 adalah PT Morris Capital Indonesia dengan kepemilikan 49,92 persen.",
+   "Dari sisi kinerja usaha, penjualan neto perseroan turun menjadi Rp15,97 miliar pada sembilan bulan pertama 2026, dari Rp25,89 miliar pada periode yang sama tahun sebelumnya. Meski penjualan susut, laba kotor justru naik ke Rp7,84 miliar dari Rp5,66 miliar karena beban pokok penjualan turun lebih dalam, ke Rp8,13 miliar dari Rp20,23 miliar. Hasilnya, laba usaha berbalik menjadi untung Rp1,61 miliar, dari rugi usaha Rp1,63 miliar pada periode yang sama tahun lalu. Namun karena tidak ada lagi pendapatan lain-lain sebesar Rp5,48 miliar yang tercatat pada 2025, laba bersih periode berjalan justru turun menjadi Rp1,26 miliar dari Rp2,66 miliar, dengan laba per saham merosot ke Rp0,37 dari Rp0,90.",
+   "Di sisi arus kas dan posisi keuangan, kas dan setara kas perseroan turun tajam menjadi Rp501,17 juta per 30 September 2026, dari Rp12,61 miliar pada akhir 2025. Penurunan ini terutama berasal dari aktivitas pendanaan, antara lain pembayaran utang kepada pemegang saham sebesar Rp9,06 miliar dan pelunasan utang bank. Total liabilitas perseroan ikut menyusut menjadi Rp27,02 miliar dari Rp35,09 miliar, sementara total ekuitas naik tipis menjadi Rp65,88 miliar dari Rp64,62 miliar, sehingga total aset tercatat Rp92,9 miliar, turun dari Rp99,7 miliar pada akhir tahun lalu."
+  ],
+  "fotoAdegan": "Workers stacking plastic PVC pipes and building fixtures on pallets inside a warehouse, forklift nearby, industrial daylight",
+  "takeaway": "Laporan ini condong netral bagi pemegang saham karena sinyalnya bercampur: usaha inti perseroan justru membaik dari rugi usaha menjadi untung, tetapi laba bersih dan laba per saham tetap turun karena tahun lalu ada pendapatan lain-lain sekali waktu senilai Rp5,48 miliar yang tidak berulang tahun ini. Yang tersentuh adalah laba per saham, yakni bagian laba bersih untuk setiap lembar saham yang beredar, yang turun dari Rp0,90 jadi Rp0,37, serta arus kas, yaitu aliran uang tunai keluar masuk perusahaan, yang anjlok karena dipakai melunasi utang ke pemegang saham dan bank, bukan karena bisnis kehabisan uang untuk operasional. Di sisi lain ekuitas, yakni total modal yang menjadi hak pemegang saham, justru naik tipis seiring berkurangnya utang. Pergantian nama dan pemindahan kedudukan ke Jakarta Selatan yang baru disahkan Juli 2026 menandakan ancang-ancang perubahan arah bisnis, tetapi dokumen ini belum menyebut bisnis barunya secara konkret. Yang perlu dipantau berikutnya adalah apakah kenaikan modal dasar menjadi Rp274 miliar ini diikuti penambahan modal disetor lewat penerbitan saham baru, serta apakah pembalikan laba usaha ini berlanjut pada laporan keuangan tahun penuh 2026 yang akan diaudit.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pabrik-sepatu-kek-batang-pekerjakan-174-difabel",
   "category": "Ketenagakerjaan",
   "title": "Pabrik Sepatu KEK Batang Pekerjakan 174 [Difabel]",

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-lagi-jadi-rp2-526-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Lagi Jadi Rp2.526.000/Gram",
+  "deck": "Harga emas Antam turun Rp20.000 per gram untuk hari kedua beruntun pada 31 Oktober 2026, kini Rp2.526.000 per gram. Harga buyback ikut turun ke Rp2.276.000 per gram.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/harga-emas-antam-turun-lagi-jadi-rp2-526-000-gram.jpg",
+  "imageV": "mvvuts2i",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475873-harga-emas-antam-hari-ini-31-oktober-2026-lagi-lagi-menurun-kini-jadi-rp2526000-per-gram"
+ },
+ {
   "slug": "laba-wbsa-turun-55-di-kuartal-iii-2026-pendapatan-naik-31",
   "category": "Aksi Korporasi",
   "title": "[Laba] WBSA Turun 55% di Kuartal III 2026, Pendapatan Naik 31%",
@@ -341,6 +358,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030232058-65233-0/FinancialStatement-2026-III-IGAR.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bank-mandiri-luncurkan-livin-food-untuk-umkm-kuliner",
+  "category": "UMKM",
+  "title": "Bank Mandiri Luncurkan Livin' Food untuk [UMKM] Kuliner",
+  "deck": "Lewat fitur Livin' Food di aplikasi Livin' by Mandiri, Bank Mandiri membuka akses pasar hingga puluhan juta pengguna bagi pelaku UMKM kuliner untuk memperluas penjualan secara digital.",
+  "date": "30 Oktober 2026",
+  "image": "assets/img/bank-mandiri-luncurkan-livin-food-untuk-umkm-kuliner.jpg",
+  "imageV": "mvvutsig",
+  "tags": [
+   "UMKM kuliner",
+   "Livin Food",
+   "Bank Mandiri",
+   "ekonomi digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475837-dorong-pertumbuhan-umkm-dan-ekonomi-kerakyatan-bank-mandiri-hadirkan-livin-food"
  },
  {
   "slug": "umkm-kuliner-bisa-jangkau-42-6-juta-pengguna-lewat-livin-food",
@@ -6447,38 +6481,6 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-4163-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sstm-cetak-laba-bersih-naik-tapi-rugi-usaha-inti-berlanjut",
-  "category": "Aksi Korporasi",
-  "title": "SSTM Cetak Laba Bersih Naik, tapi [Rugi] Usaha Inti Berlanjut",
-  "deck": "Penjualan SSTM naik 16 persen pada sembilan bulan pertama 2026, tapi perusahaan rugi dari usaha inti dan laba bersihnya ditopang pendapatan lain-lain, bukan dari bisnis tekstil.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SSTM",
-   "laporan keuangan",
-   "tekstil",
-   "rugi usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026221918-65028-0/FinancialStatement-2026-III-SSTM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hdit-pendapatan-ambruk-98-rugi-bersih-rp17-m",
-  "category": "Aksi Korporasi",
-  "title": "HDIT: Pendapatan [Ambruk] 98%, Rugi Bersih Rp17 M",
-  "deck": "Pendapatan Hensel Davest Indonesia turun 98,6 persen jadi Rp263 juta pada kuartal III 2026, rugi bersih melebar ke Rp16,97 miliar, dan kas tersisa Rp2 juta.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HDIT",
-   "laporan keuangan",
-   "kinerja emiten",
-   "likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261026150727-64734-0/FinancialStatement-2026-III-HDIT.pdf",
   "sourceLabel": "IDX"
  }
 ];

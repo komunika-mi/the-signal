@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-lagi-jadi-rp2-526-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Lagi Jadi Rp2.526.000/Gram",
+  "deck": "Harga emas Antam turun Rp20.000 per gram untuk hari kedua beruntun pada 31 Oktober 2026, kini Rp2.526.000 per gram. Harga buyback ikut turun ke Rp2.276.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-lagi-jadi-rp2-526-000-gram.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T09:42:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475873-harga-emas-antam-hari-ini-31-oktober-2026-lagi-lagi-menurun-kini-jadi-rp2526000-per-gram",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam kembali turun pada 31 Oktober 2026, melanjutkan tren penurunan yang sudah berlangsung sejak 29 Oktober. Berdasarkan pantauan di laman resmi Logam Mulia, harga per gram kini berada di Rp2.526.000, turun Rp20.000 dari Rp2.546.000 pada hari sebelumnya.",
+   "Penurunan serupa juga terjadi pada harga beli kembali atau buyback, yang kini berada di Rp2.276.000 per gram. Buyback adalah harga yang dibayar Antam saat masyarakat menjual kembali emas batangannya, sehingga penurunan ini berarti nilai uang yang didapat pemegang emas saat mencairkan emasnya ikut berkurang.",
+   "Perlu dicatat, harga emas Antam bisa berubah sewaktu-waktu mengikuti pergerakan pasar. Ada juga ketentuan pajak yang menyertai transaksi ini, yaitu PPh Pasal 22 sebesar 1,5 persen untuk setiap transaksi buyback di atas Rp10.000.000, serta PPh sebesar 0,25 persen dari harga dasar saat membeli emas."
+  ],
+  "fotoAdegan": "A customer examining small gold bars at a precious metals counter inside a jewelry store, warm indoor lighting, engravings blurred",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini cukup sederhana: harga jual emas Antam turun Rp20.000 jadi Rp2.526.000 per gram, dan harga buyback ikut turun ke Rp2.276.000 per gram, sudah dua hari beruntun sejak 29 Oktober. Yang langsung kena dampaknya adalah pemilik emas batangan yang berencana menjualnya kembali, karena uang yang mereka terima makin kecil, sementara calon pembeli baru justru mendapat harga sedikit lebih murah. Data yang tersedia belum cukup untuk membaca apakah ini awal tren penurunan yang lebih panjang atau sekadar koreksi sesaat, sebab tidak ada informasi soal harga emas dunia atau nilai tukar dolar yang biasanya menjadi acuan pergerakan harga emas domestik. Yang perlu dipantau adalah harga emas Antam pada hari-hari berikutnya serta pergerakan harga emas global, karena baru dari situ bisa terlihat apakah penurunan dua hari ini berlanjut atau berbalik.",
+  "imageV": "mvvuts2i"
+ },
+ {
   "slug": "laba-wbsa-turun-55-di-kuartal-iii-2026-pendapatan-naik-31",
   "category": "Aksi Korporasi",
   "title": "[Laba] WBSA Turun 55% di Kuartal III 2026, Pendapatan Naik 31%",
@@ -554,6 +580,33 @@ var ARTICLES = [
   "fotoAdegan": "Workers checking stacks of molded plastic packaging containers on an industrial production line, overhead factory lighting",
   "takeaway": "Laporan ini condong positif bagi IGAR, karena pendapatan dan laba bersihnya tumbuh double digit dalam sembilan bulan pertama 2026, dan bukan sekadar laporan rutin sebab disertai penjelasan resmi ke bursa soal lonjakan kewajiban. Yang perlu dicermati adalah arus kas dari operasi, yaitu uang tunai yang benar-benar diterima dari kegiatan bisnis sehari-hari, bukan sekadar angka laba di atas kertas. Arus kas ini justru turun hampir separuh karena persediaan barang dan piutang dari pelanggan tumbuh lebih cepat daripada penjualan, artinya sebagian laba belum berubah jadi uang kas yang bisa dipakai perusahaan. Laba per saham, yaitu laba bersih dibagi jumlah saham yang beredar, naik ke Rp71 dari Rp49,65, ukuran yang biasa dipakai investor untuk menilai seberapa besar bagian laba yang jadi hak setiap lembar saham. Yang perlu dipantau berikutnya adalah laporan keuangan audit tahun buku 2026, yang akan menunjukkan apakah penumpukan persediaan dan piutang ini mereda sesuai klaim manajemen atau justru berlanjut ke kuartal berikutnya.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "bank-mandiri-luncurkan-livin-food-untuk-umkm-kuliner",
+  "category": "UMKM",
+  "title": "Bank Mandiri Luncurkan Livin' Food untuk [UMKM] Kuliner",
+  "deck": "Lewat fitur Livin' Food di aplikasi Livin' by Mandiri, Bank Mandiri membuka akses pasar hingga puluhan juta pengguna bagi pelaku UMKM kuliner untuk memperluas penjualan secara digital.",
+  "image": "assets/img/bank-mandiri-luncurkan-livin-food-untuk-umkm-kuliner.jpg",
+  "date": "30 Oktober 2026",
+  "isoDate": "2026-10-30T23:05:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/475837-dorong-pertumbuhan-umkm-dan-ekonomi-kerakyatan-bank-mandiri-hadirkan-livin-food",
+  "tags": [
+   "UMKM kuliner",
+   "Livin Food",
+   "Bank Mandiri",
+   "ekonomi digital"
+  ],
+  "body": [
+   "Bank Mandiri memperkenalkan Livin' Food, fitur pemesanan makanan yang kini menyatu dengan aplikasi super app Livin' by Mandiri. Lewat fitur ini, nasabah bisa mencari, memesan, dan membayar makanan dari berbagai merchant kuliner tanpa harus berpindah aplikasi, sementara pelaku usaha mendapat jalur baru untuk dikenal pembeli yang lebih luas.",
+   "Langkah ini merespons perubahan kebiasaan konsumen yang makin mengandalkan pemesanan daring, bukan hanya datang langsung ke lokasi usaha. Selama ini, salah satu kendala terbesar UMKM kuliner adalah keterbatasan pemasaran, produk yang sebenarnya enak bisa saja tetap sepi pembeli kalau hanya mengandalkan pelanggan di sekitar tempat usaha. Livin' Food dirancang untuk mempertemukan merchant, dari skala UMKM hingga merek yang sudah besar, dengan calon pembeli baru di luar lingkaran itu.",
+   "Direktur Network & Retail Funding Bank Mandiri, Jan Winston Tambunan, menyebut layanan ini sebagai bagian dari dukungan perusahaan terhadap ekonomi kerakyatan, dengan mempertemukan pelaku usaha dan konsumen lewat ekosistem digital. \"Kami melihat digitalisasi sebagai sarana bagi pelaku UMKM untuk menjangkau pasar yang lebih luas dan mengembangkan usahanya. Melalui Livin' Food, kami ingin memudahkan nasabah memesan makanan sekaligus membantu merchant memperkenalkan produk kepada lebih banyak konsumen,\" ujarnya, Jumat (30/10).",
+   "Nilai tawar utama bagi merchant terletak pada besarnya basis pengguna yang bisa diakses, Livin' by Mandiri tercatat memiliki lebih dari 42 juta pengguna, dengan ringkasan awal menyebut angka 42,6 juta. Jumlah sebesar itu membuka peluang bagi pelaku usaha kuliner untuk menambah eksposur produknya tanpa harus bergantung sepenuhnya pada cara promosi konvensional seperti spanduk atau mulut ke mulut."
+  ],
+  "fotoAdegan": "A small food stall vendor plating a dish at a bustling street cart while a delivery rider waits nearby with an insulated backpack, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/30/6ae4bfa3b9726-ilustrasi-umkm-kuliner-punya-peluang-jangkau-42-juta-konsumen-ini-strategi-bank-mandiri-lewat-livin-food_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah Bank Mandiri menambahkan fitur pesan-antar makanan ke dalam aplikasi Livin' by Mandiri, sehingga pedagang kuliner kecil bisa tampil dan dipesan langsung dari aplikasi perbankan yang penggunanya sudah di atas 42 juta orang. Yang terdampak jelas adalah pelaku UMKM kuliner yang selama ini sulit dikenal di luar lingkungan tokonya, karena mereka bisa ikut terdaftar sebagai pedagang digital tanpa harus lebih dulu masuk ke aplikasi pesan-antar makanan yang sudah mapan. Yang masih kurang untuk membaca arah layanan ini adalah berapa besar potongan biaya yang dikenakan ke pedagang, berapa banyak merchant yang sudah benar-benar bergabung, dan apakah layanan ini baru tersedia di kota besar atau sudah menyebar ke daerah lain. Tanpa angka-angka itu, belum bisa dipastikan apakah Livin' Food akan jadi pesaing serius bagi aplikasi pesan-antar makanan yang sudah ada atau sekadar fitur pelengkap di aplikasi perbankan. Data jumlah merchant dan transaksi yang biasanya diumumkan beberapa bulan setelah peluncuran fitur semacam ini akan jadi penanda arah sebenarnya.",
+  "imageV": "mvvutsig"
  },
  {
   "slug": "umkm-kuliner-bisa-jangkau-42-6-juta-pengguna-lewat-livin-food",

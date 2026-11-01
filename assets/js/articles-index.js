@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pege-optimus-vision-tambah-kepemilikan-saham-ke-6-39",
+  "category": "Aksi Korporasi",
+  "title": "PEGE: Optimus Vision Tambah [Kepemilikan] Saham ke 6,39%",
+  "deck": "Optimus Vision Global Pte Ltd membeli 15 juta lembar saham PEGE secara tidak langsung pada 30 Oktober 2026, menaikkan kepemilikannya dari 6,00% menjadi 6,39%.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PEGE",
+   "kepemilikan saham",
+   "Optimus Vision Global",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02112026-1984-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pege-optimus-vision-tambah-saham-ke-6-00-hak-suara",
+  "category": "Aksi Korporasi",
+  "title": "PEGE: Optimus Vision [Tambah] Saham ke 6,00% Hak Suara",
+  "deck": "Optimus Vision Global menambah 4,87 juta saham PEGE lewat delapan transaksi akhir Oktober, mengangkat hak suaranya dari 5,87 persen jadi 6,00 persen.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PEGE",
+   "kepemilikan saham",
+   "Optimus Vision",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02112026-0088-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "boss-baru-lapor-lk-semester-i-2024-defisit-modal-melebar",
   "category": "Aksi Korporasi",
   "title": "BOSS Baru Lapor LK Semester I/2024, [Defisit] Modal Melebar",
@@ -6455,38 +6487,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/076342a0ef_d625849c1f.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "elsa-laba-elnusa-tumbuh-29-jadi-rp681-55-miliar-di-q3",
-  "category": "Aksi Korporasi",
-  "title": "ELSA: [Laba] Elnusa Tumbuh 29% jadi Rp681,55 Miliar di Q3",
-  "deck": "Elnusa membukukan pendapatan Rp12,13 triliun dan laba bersih Rp681,55 miliar pada sembilan bulan 2026, naik dibanding periode sama tahun lalu, sementara kas perusahaan menyusut Rp568,9 miliar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ELSA",
-   "Elnusa",
-   "laporan keuangan",
-   "BUMN energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027092058-64847-0/FinancialStatement-2026-III-ELSA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-periksa-kebun-sawit-diduga-nyambi-tambang",
-  "category": "Energi",
-  "title": "ESDM Periksa Kebun Sawit Diduga Nyambi [Tambang]",
-  "deck": "Kementerian ESDM akan mengawasi dan memeriksa kebun kelapa sawit yang diduga merangkap usaha tambang tanpa izin, dengan sejumlah perusahaan asing jadi sorotan.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/esdm-periksa-kebun-sawit-diduga-nyambi-tambang.jpg",
-  "imageV": "mvpp32wt",
-  "tags": [
-   "ESDM",
-   "sawit",
-   "tambang ilegal",
-   "Bahlil Lahadalia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475126-ditengarai-libatkan-perusahaan-asing-kementerian-esdm-periksa-kebun-sawit-yang-jalankan-usaha-tambang"
  }
 ];

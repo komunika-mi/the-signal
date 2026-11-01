@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pege-optimus-vision-tambah-kepemilikan-saham-ke-6-39",
+  "category": "Aksi Korporasi",
+  "title": "PEGE: Optimus Vision Tambah [Kepemilikan] Saham ke 6,39%",
+  "deck": "Optimus Vision Global Pte Ltd membeli 15 juta lembar saham PEGE secara tidak langsung pada 30 Oktober 2026, menaikkan kepemilikannya dari 6,00% menjadi 6,39%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T04:46:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02112026-1984-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PEGE",
+  "tags": [
+   "PEGE",
+   "kepemilikan saham",
+   "Optimus Vision Global",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Panca Global Kapital Tbk (PEGE) melaporkan perubahan kepemilikan saham dari Optimus Vision Global Pte. Ltd., pemegang saham berstatus warga negara asing yang bukan anggota direksi maupun dewan komisaris perseroan. Berdasarkan laporan ke Otoritas Jasa Keuangan tertanggal 2 November 2026, kepemilikan Optimus Vision naik dari 226.515.874 lembar saham menjadi 241.515.974 lembar, atau bertambah 15.000.100 lembar. Dengan penambahan itu, hak suaranya di PEGE naik dari 6,00 persen menjadi 6,39 persen.",
+   "Penambahan saham dilakukan secara tidak langsung melalui transaksi berjenis Repurchase Agreement pada 30 Oktober 2026, dengan tujuan transaksi yang dicatat sebagai pembelian. Pembelian dilakukan dalam sembilan batch dengan harga berbeda-beda, mulai dari Rp112 hingga Rp120 per saham. Rinciannya: 300.000 lembar di harga Rp112, 95.500 lembar di Rp113, 233.000 lembar di Rp114, 1.128.500 lembar di Rp115, 2.936.800 lembar di Rp116, 837.200 lembar di Rp117, 1.769.100 lembar di Rp118, 1.239.300 lembar di Rp119, dan 6.460.700 lembar di Rp120, sehingga totalnya mencapai 15.000.100 lembar.",
+   "Penambahan ini membuat porsi kepemilikan Optimus Vision di PEGE bertambah sekitar 6,62 persen dari jumlah saham yang sudah dipegangnya sebelumnya. Laporan ini diwajibkan berdasarkan Pasal 3 Ayat 4 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Wide view of a quiet financial district street in Jakarta at early morning, glass office towers reflecting soft sunlight, light pedestrian traffic",
+  "takeaway": "Laporan ini netral bagi fundamental PEGE, karena transaksinya murni jual beli saham di pasar sekunder antara Optimus Vision dan pihak lain, bukan dana segar yang masuk ke kas perusahaan. Yang tersentuh hanya struktur pemegang saham dan hak suara, bukan ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham perseroan, karena jumlah total saham PEGE yang beredar tidak berubah sama sekali akibat transaksi ini. Kenaikan hak suara dari 6,00 persen ke 6,39 persen juga masih jauh dari ambang batas yang bisa mengubah status pengendalian perusahaan. Yang perlu dipantau selanjutnya adalah apakah Optimus Vision akan terus menambah porsinya, sebab setiap perubahan kepemilikan lanjutan wajib dilaporkan kembali ke OJK sesuai POJK 4/2024, sehingga pergerakan sahamnya tetap bisa diikuti dari laporan-laporan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pege-optimus-vision-tambah-saham-ke-6-00-hak-suara",
+  "category": "Aksi Korporasi",
+  "title": "PEGE: Optimus Vision [Tambah] Saham ke 6,00% Hak Suara",
+  "deck": "Optimus Vision Global menambah 4,87 juta saham PEGE lewat delapan transaksi akhir Oktober, mengangkat hak suaranya dari 5,87 persen jadi 6,00 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T04:34:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02112026-0088-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PEGE",
+  "tags": [
+   "PEGE",
+   "kepemilikan saham",
+   "Optimus Vision",
+   "pasar modal"
+  ],
+  "body": [
+   "Optimus Vision Global Pte. Ltd., pemegang saham warga negara asing PT Panca Global Kapital Tbk (PEGE) yang bukan anggota direksi atau komisaris dan bukan pengendali perusahaan, melaporkan penambahan kepemilikan sahamnya ke Otoritas Jasa Keuangan pada 2 November 2026. Jumlah saham yang dipegangnya naik dari 221.644.974 lembar menjadi 226.515.874 lembar, bertambah 4.870.900 lembar. Dengan tambahan itu, hak suaranya di PEGE naik dari 5,87 persen menjadi 6,00 persen.",
+   "Penambahan ini berasal dari delapan transaksi pembelian tidak langsung yang semuanya terjadi pada 29 Oktober 2026, dengan tujuan pembelian biasa. Rinciannya: 133.400 saham di harga Rp112, 300 saham di Rp109, 2.400 saham di Rp110, 3.000.000 saham di Rp115, 505.700 saham di Rp113, 50.000 saham di Rp107, 1.000.000 saham di Rp114, dan 179.100 saham di Rp111 per lembar.",
+   "Dalam laporan ini, Optimus Vision menyatakan dirinya bukan pihak pengendali PEGE dan tidak berencana mempertahankan status pengendalian, karena memang belum berstatus pengendali."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, afternoon light reflecting off the facade, street traffic below",
+  "takeaway": "Laporan ini netral bagi fundamental PEGE, karena kenaikan kepemilikan sebesar 2,1976 persen dari saham yang sudah dipegang Optimus Vision ini tergolong kecil dan tidak mengubah status pengendalian emiten. Yang tersentuh di sini cuma struktur pemegang saham dan hak suara, bukan kas atau utang perusahaan, sebab transaksi ini jual beli saham antarpemegang saham di pasar sekunder, bukan dana segar yang masuk ke rekening PEGE. Hak suara tetap dipantau pelaku pasar karena menunjukkan seberapa besar pengaruh satu pihak dalam menentukan keputusan di rapat pemegang saham. Yang perlu dipantau berikutnya adalah apakah Optimus Vision terus menambah porsinya lewat laporan-laporan serupa, mengingat pembelian kali ini dilakukan bertahap dalam delapan transaksi kecil pada 29 Oktober 2026, serta apakah akumulasi itu pada akhirnya mengubah statusnya dari sekadar pemegang saham menjadi pengendali.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "boss-baru-lapor-lk-semester-i-2024-defisit-modal-melebar",
   "category": "Aksi Korporasi",
   "title": "BOSS Baru Lapor LK Semester I/2024, [Defisit] Modal Melebar",

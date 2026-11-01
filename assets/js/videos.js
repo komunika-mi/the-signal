@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "MWhh4s9pcHY",
+  "title": "OJK Perkuat Penegakan Hukum di Pasar Modal",
+  "category": "Pasar Modal",
+  "program": "Kabar Siang",
+  "summary": "Otoritas Jasa Keuangan menegaskan komitmennya memperkuat penegakan hukum di sektor pasar modal lewat sanksi yang tegas, konsisten, dan proporsional untuk melindungi investor.",
+  "takeaway": "Penegakan hukum yang konsisten di pasar modal menjadi indikator penting bagi kepercayaan investor dan kesehatan pasar keuangan domestik.",
+  "terbit": "2026-11-01T06:00:52+00:00"
+ },
+ {
+  "id": "oC5j8dANeMI",
+  "title": "Perjalanan Bisnis Puspo Wardoyo dari Warung ke Tanah Suci",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Puspo Wardoyo membangun usahanya dari warung sederhana hingga menjadi Wong Solo Group, dan kini mengembangkan lini bisnis baru bernama MakanKu melalui PT Halalan Thayyiban Indonesia.",
+  "takeaway": "Kisah ekspansi usaha ini relevan sebagai contoh perjalanan bisnis kuliner dari skala UMKM menjadi grup usaha yang lebih besar.",
+  "terbit": "2026-11-01T07:00:03+00:00"
+ },
+ {
   "id": "8b2t24V2BH4",
   "title": "PT Xaviera Global Synergy Ubah Sampah Jadi Energi",
   "category": "Energi",

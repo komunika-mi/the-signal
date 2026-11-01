@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "MWhh4s9pcHY",
+  "title": "OJK Perkuat Penegakan Hukum di Pasar Modal",
+  "category": "Pasar Modal",
+  "program": "Kabar Siang",
+  "summary": "Otoritas Jasa Keuangan menegaskan komitmennya memperkuat penegakan hukum di sektor pasar modal lewat sanksi yang tegas, konsisten, dan proporsional untuk melindungi investor.",
+  "takeaway": "Penegakan hukum yang konsisten di pasar modal menjadi indikator penting bagi kepercayaan investor dan kesehatan pasar keuangan domestik."
+ },
+ {
+  "id": "oC5j8dANeMI",
+  "title": "Perjalanan Bisnis Puspo Wardoyo dari Warung ke Tanah Suci",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Puspo Wardoyo membangun usahanya dari warung sederhana hingga menjadi Wong Solo Group, dan kini mengembangkan lini bisnis baru bernama MakanKu melalui PT Halalan Thayyiban Indonesia.",
+  "takeaway": "Kisah ekspansi usaha ini relevan sebagai contoh perjalanan bisnis kuliner dari skala UMKM menjadi grup usaha yang lebih besar."
+ },
+ {
   "id": "8b2t24V2BH4",
   "title": "PT Xaviera Global Synergy Ubah Sampah Jadi Energi",
   "category": "Energi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pemerintah mendorong penguatan perlindungan hak dan kesejahteraan pekerja dalam Forum Regional Serikat Buruh Asia Pasifik di Jakarta, yang juga membahas kerja sama antarnegara.",
   "takeaway": "Forum ini relevan bagi pembaca ekonomi karena menyangkut arah kebijakan ketenagakerjaan dan daya saing tenaga kerja Indonesia di kawasan Asia Pasifik."
- },
- {
-  "id": "h8tG5jT-JxQ",
-  "title": "Perpres 27/2026 Beri Perlindungan Bagi Pengemudi Ojol",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah resmi menerbitkan Peraturan Presiden Nomor 27 Tahun 2026 yang memberikan kepastian hukum, perlindungan sosial, dan kesejahteraan bagi pengemudi ojek online.",
-  "takeaway": "Regulasi ini penting bagi pembaca ekonomi karena mengatur skema kerja dan jaminan sosial bagi jutaan pekerja di sektor transportasi daring."
- },
- {
-  "id": "kpXH9Xxx7NE",
-  "title": "Kementan Dorong Kemitraan Koperasi Petani Jagung Pakan",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Kementerian Pertanian memfasilitasi pembentukan koperasi bagi peternak dan petani jagung guna memperkuat ekosistem pakan mandiri.",
-  "takeaway": "Langkah ini relevan bagi pembaca ekonomi karena berkaitan dengan upaya menekan ketergantungan impor pakan ternak dan menjaga harga di tingkat petani."
  }
 ];

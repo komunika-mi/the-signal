@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ayam-balik-laba-rp17-6-miliar-utang-bank-jangka-pendek-lunas",
+  "category": "Aksi Korporasi",
+  "title": "AYAM Balik Laba Rp17,6 Miliar, Utang Bank Jangka Pendek [Lunas]",
+  "deck": "Laporan kuartal III 2026 menunjukkan laba bersih AYAM berbalik positif Rp17,59 miliar dan utang bank jangka pendek lunas, tapi arus kas operasi justru negatif Rp20,34 miliar.",
+  "date": "1 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AYAM",
+   "laporan keuangan",
+   "emiten unggas",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101125340-65645-0/FinancialStatement-2026-III-AYAM.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "laba-bess-anjlok-95-di-laporan-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "[Laba] BESS Anjlok 95% di Laporan Kuartal III 2026",
@@ -6473,22 +6489,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2307db6b75_30dd2e7fe4.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-gelar-undian-badai-emas-2026-lewat-aplikasi-tring",
-  "category": "BUMN",
-  "title": "Pegadaian Gelar Undian [Badai Emas] 2026 Lewat Aplikasi Tring",
-  "deck": "PT Pegadaian meluncurkan program undian berhadiah saldo Tabungan Emas bagi nasabah yang bertransaksi lewat aplikasi Tring, berlangsung hingga akhir tahun.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/pegadaian-gelar-undian-badai-emas-2026-lewat-aplikasi-tring.jpg",
-  "imageV": "mvpio0ox",
-  "tags": [
-   "pegadaian",
-   "badai emas 2026",
-   "tabungan emas",
-   "tring"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475084-siap-siap-bawa-pulang-emas-pegadaian-tebar-hadiah-spesial-188-kg-lewat-badai-emas-2026"
  }
 ];

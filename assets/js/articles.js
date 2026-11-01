@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ayam-balik-laba-rp17-6-miliar-utang-bank-jangka-pendek-lunas",
+  "category": "Aksi Korporasi",
+  "title": "AYAM Balik Laba Rp17,6 Miliar, Utang Bank Jangka Pendek [Lunas]",
+  "deck": "Laporan kuartal III 2026 menunjukkan laba bersih AYAM berbalik positif Rp17,59 miliar dan utang bank jangka pendek lunas, tapi arus kas operasi justru negatif Rp20,34 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 November 2026",
+  "isoDate": "2026-11-01T12:44:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101125340-65645-0/FinancialStatement-2026-III-AYAM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AYAM",
+  "tags": [
+   "AYAM",
+   "laporan keuangan",
+   "emiten unggas",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Janu Putra Sejahtera Tbk (AYAM) melaporkan laba bersih Rp17,59 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari rugi bersih Rp16,74 miliar pada periode yang sama tahun lalu. Penjualan perusahaan peternakan dan rumah potong ayam ini justru turun 9,8 persen, dari Rp225,42 miliar menjadi Rp203,28 miliar. Namun beban pokok penjualan turun lebih tajam, dari Rp233,94 miliar menjadi Rp192,66 miliar, sehingga laba kotor berbalik dari rugi Rp8,52 miliar menjadi untung Rp10,62 miliar, dan rugi usaha menyusut dari Rp18,70 miliar menjadi Rp806,66 juta.",
+   "Pendorong utama laba bersih periode ini adalah penghasilan lain-lain neto yang melonjak dari Rp5,04 miliar menjadi Rp24,59 miliar. Laporan arus kas menunjukkan sumbernya: perusahaan menerima Rp55,85 miliar dari penjualan aset tetap, jauh lebih besar dari belanja aset tetap baru sebesar Rp20,75 miliar. Laba per saham dasar tercatat Rp4,40, berbalik dari rugi Rp4,19 per saham pada periode yang sama tahun lalu, dengan jumlah saham beredar tetap di angka 4 miliar lembar.",
+   "Di sisi lain, arus kas dari aktivitas operasi, yaitu uang tunai yang mengalir dari kegiatan jual beli sehari-hari, justru mencatat kas keluar neto Rp20,34 miliar, berbalik dari kas masuk neto Rp3,23 miliar pada periode yang sama tahun lalu. Total aset perusahaan turun 2,8 persen menjadi Rp496,30 miliar, sementara total liabilitas turun lebih besar yaitu 10,5 persen menjadi Rp269,92 miliar, karena utang bank jangka pendek Rp23,92 miliar yang tercatat akhir 2025 kini lunas seluruhnya. Ekuitas pemegang saham naik dari Rp208,80 miliar menjadi Rp226,38 miliar, dan kas perusahaan bertambah dari Rp2,13 miliar menjadi Rp8,31 miliar.",
+   "Dalam surat terpisah kepada Bursa Efek Indonesia tertanggal 30 Oktober 2026, Direktur Utama AYAM, Sri Mulyani, menyatakan tidak ada perubahan lebih dari 20 persen pada pos jumlah aset maupun jumlah liabilitas yang memerlukan penjelasan khusus ke bursa. Perseroan juga mencatat bahwa Rapat Umum Pemegang Saham Tahunan pada 30 Juli 2026 mengangkat Gilman Pradana Nugraha sebagai Komisaris Independen baru, menggantikan Arsad Idrus."
+  ],
+  "fotoAdegan": "Workers in rubber boots and aprons moving crates near a poultry processing facility in Central Java, early morning light, steam rising.",
+  "takeaway": "Secara keseluruhan laporan ini netral: laba bersih memang berbalik dari rugi, tapi lonjakan itu banyak ditopang keuntungan sekali pakai dari penjualan aset tetap, bukan dari bisnis inti penjualan ayam yang penjualannya justru turun 9,8 persen. Yang patut dicermati adalah arus kas operasi, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan jual beli sehari-hari, yang berubah dari positif Rp3,23 miliar menjadi negatif Rp20,34 miliar, tanda bahwa laba di atas kertas belum tentu diikuti kas di tangan. Di sisi lain ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi utang, naik dari Rp208,8 miliar menjadi Rp226,4 miliar, dan utang bank jangka pendek yang tadinya Rp23,9 miliar kini lunas sepenuhnya sehingga beban utang mengecil. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk tahun penuh 2026, yang biasanya terbit sekitar akhir Maret 2027, untuk melihat apakah arus kas operasi kembali positif dan apakah penjualan ayam pulih setelah tertekan sepanjang sembilan bulan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "laba-bess-anjlok-95-di-laporan-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "[Laba] BESS Anjlok 95% di Laporan Kuartal III 2026",

@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indonesia-teken-pakta-pajak-global-tukar-data-mulai-2027",
+  "category": "Makroekonomi",
+  "title": "Indonesia Teken Pakta Pajak Global, Tukar Data Mulai [2027]",
+  "deck": "Dirjen Pajak menandatangani kesepakatan tukar-data pajak internasional di Montenegro, menjadikan Indonesia negara ke-41 yang bergabung untuk mengawasi Pajak Minimum Global perusahaan multinasional.",
+  "image": "assets/img/indonesia-teken-pakta-pajak-global-tukar-data-mulai-2027.jpg",
+  "date": "1 November 2026",
+  "isoDate": "2026-11-01T10:08:55.166Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/indonesia-perkuat-kerja-sama-pajak-global-dirjen-pajak-tandatangani-gir-mcaa",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "Pajak",
+   "DJP",
+   "Pajak Minimum Global",
+   "Kerja Sama Internasional"
+  ],
+  "body": [
+   "Direktorat Jenderal Pajak (DJP) menandatangani Multilateral Competent Authority Agreement on the Exchange of GloBE Information, atau GIR MCAA, dalam konferensi otoritas pajak internasional di Kotor, Montenegro, pada 27-29 Oktober 2026. Dengan penandatanganan ini, Indonesia menjadi negara ke-41 yang bergabung dalam skema pertukaran data pajak otomatis antarnegara, berdasarkan daftar OECD per 1 Oktober 2026. Kesepakatan ini penting karena memberi otoritas pajak akses ke data keuangan grup perusahaan multinasional yang beroperasi di berbagai negara, termasuk yang berbisnis di Indonesia.",
+   "Data yang dipertukarkan disebut GIR, laporan standar yang memuat informasi penerapan Pajak Minimum Global atau GloBE di setiap negara tempat sebuah grup usaha beroperasi. Aturan ini hanya berlaku bagi grup perusahaan multinasional dengan pendapatan gabungan global minimal 750 juta euro per tahun. Pertukaran data secara otomatis dijadwalkan mulai 2027, dan baru berjalan untuk tiap pasangan negara setelah masing-masing memenuhi syarat notifikasi serta saling mencantumkan diri sebagai pengirim dan penerima data. Skema ini juga memungkinkan pelaporan terpusat, artinya satu grup perusahaan cukup melapor lewat satu negara saja tanpa harus mengulang laporan di setiap negara tempat mereka beroperasi.",
+   "Dalam konferensi yang sama, Dirjen Pajak juga menjadi pembicara utama dalam sesi yang membahas perluasan bantuan penagihan pajak lintas negara, yakni kerja sama antarotoritas pajak untuk menagih kewajiban pajak ketika aset atau pihak yang berutang pajak berada di luar negeri. Indonesia mengajak negara mitra yang masih punya pengecualian atas aturan bantuan penagihan pajak dalam Konvensi MAAC untuk mencabut pengecualian itu atau membuat kesepakatan bilateral. Langkah ini merujuk pada Peraturan Presiden Nomor 56 Tahun 2024 dan Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan.",
+   "Konferensi yang digelar Global Forum on Transparency and Exchange of Information for Tax Purposes bersama otoritas pajak Montenegro ini diikuti perwakilan 90 negara, termasuk Inggris, Amerika Serikat, Prancis, Jepang, dan Korea Selatan. Salah satu pembahasan utama forum menekankan bahwa keberhasilan pertukaran data pajak tidak cukup diukur dari banyaknya data yang berpindah tangan, tetapi dari seberapa jauh data itu benar-benar dipakai untuk mengawasi kepatuhan pajak."
+  ],
+  "fotoAdegan": "Tax administration officers reviewing documents and laptops at a modern government office, soft morning light through large windows",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah secara konkret: Indonesia resmi menjadi negara ke-41 yang menandatangani kesepakatan tukar-menukar data pajak perusahaan multinasional raksasa, dengan jadwal pertukaran data mulai 2027. Yang kena dampak langsung adalah perusahaan multinasional besar, yaitu yang pendapatan gabungan globalnya di atas 750 juta euro setahun, karena data keuangan mereka kini bisa diminta otoritas pajak di negara tempat mereka beroperasi, termasuk Indonesia. Ini bagian dari rangkaian aturan yang sudah disiapkan sejak 2024 lewat Peraturan Menteri Keuangan dan Peraturan Presiden, jadi arahnya mengarah ke penguatan alat pengawasan pajak lintas negara secara bertahap, bukan satu langkah final. Yang akan membuktikan apakah pengawasan ini benar-benar berjalan adalah aktivasi hubungan tukar-data per negara mulai 2027, karena kesepakatan ini baru berfungsi kalau tiap negara mitra memenuhi syarat teknis dan benar-benar mengaktifkannya satu per satu.",
+  "imageV": "mvxo9gzk"
+ },
+ {
+  "slug": "muhaimin-beri-penghargaan-jkn-ke-80-firma-8-pemda",
+  "category": "Ketenagakerjaan",
+  "title": "Muhaimin Beri [Penghargaan] JKN ke 80 Firma, 8 Pemda",
+  "deck": "Satya JKN Awards 2026 mengapresiasi 80 badan usaha swasta dan 8 pemerintah daerah yang dinilai patuh mendukung program Jaminan Kesehatan Nasional.",
+  "image": "assets/img/muhaimin-beri-penghargaan-jkn-ke-80-firma-8-pemda.jpg",
+  "date": "1 November 2026",
+  "isoDate": "2026-11-01T16:15:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476055-menko-muhaimin-beri-penghargaan-atas-kepatuhan-badan-usaha-dan-pemda-dalam-program-jkn",
+  "tags": [
+   "JKN",
+   "Satya JKN Awards",
+   "Kemenko PM",
+   "BPJS Kesehatan"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Pemberdayaan Masyarakat Muhaimin Iskandar menyerahkan penghargaan Satya JKN Awards 2026 di Jakarta, Jumat (30/10/2026), kepada 80 badan usaha swasta dan 8 pemerintah daerah. Penghargaan ini diberikan atas kepatuhan mereka mendukung pelaksanaan Jaminan Kesehatan Nasional (JKN), program yang menurut Muhaimin keberlanjutannya bergantung pada keterlibatan banyak pihak, bukan hanya pemerintah pusat.",
+   "Dalam sambutannya, Muhaimin menyebut kontribusi badan usaha dan komitmen pemerintah daerah sebagai bentuk gotong royong yang perlu terus dijaga. Ia menegaskan bahwa Anggaran Pendapatan dan Belanja Negara (APBN) punya keterbatasan dan tidak bisa menjadi satu-satunya penopang program ini, sehingga perlu berfungsi sebagai perangsang agar badan usaha dan lembaga lain ikut tumbuh dan berperan.",
+   "Muhaimin menambahkan bahwa JKN bukan sekadar jaminan saat sakit, tetapi juga pelindung agar keluarga tidak jatuh miskin akibat biaya pengobatan. Tanpa jaminan kesehatan, seseorang yang sakit berisiko kehilangan penghasilan, menghabiskan tabungan, bahkan menjual aset untuk membiayai perawatan.",
+   "Hingga 30 September 2025, JKN telah menjangkau 284,7 juta jiwa atau 98,14 persen penduduk Indonesia. Muhaimin menyebut besarnya cakupan ini sebagai bukti JKN merupakan investasi bagi produktivitas bangsa, karena mencegah pekerja kehilangan kesempatan berkarya akibat sakit."
+  ],
+  "fotoAdegan": "Patients and clinic staff moving through a busy community health center lobby in an Indonesian city, soft morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/01/6ae6ffb5635ab-menko-muhaimin-apresiasi-kepatuhan-badan-usaha-dan-pemda-dalam-pelaksanaan-jkn_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan penegasan arah pembiayaan JKN: pemerintah secara terbuka menyebut APBN hanya berfungsi sebagai perangsang, bukan sumber utama, sehingga penghargaan untuk 80 badan usaha dan 8 pemerintah daerah ini menjadi penanda bahwa beban pembiayaan kesehatan nasional makin digeser ke kepatuhan pihak di luar pemerintah pusat. Yang terdampak adalah perusahaan yang wajib mendaftarkan dan membayar iuran JKN pekerjanya, pemerintah daerah yang harus mengintegrasikan jaminan kesehatan lokal ke JKN, serta masyarakat penerima manfaat yang jumlahnya sudah mencapai 284,7 juta jiwa atau 98,14 persen penduduk per akhir September 2025. Arah ini mengarah ke skema pembiayaan campuran yang makin bersandar pada kepatuhan badan usaha dan pemerintah daerah, bukan pada kenaikan alokasi APBN untuk kesehatan. Yang akan memastikan benar tidaknya arah ini adalah besaran alokasi JKN dalam APBN tahun depan dan data kepesertaan JKN pada periode berikutnya, yang akan menunjukkan apakah porsi kontribusi non-APBN benar-benar naik.",
+  "imageV": "mvxo9hfs"
+ },
+ {
   "slug": "ayam-balik-laba-rp17-6-miliar-utang-bank-jangka-pendek-lunas",
   "category": "Aksi Korporasi",
   "title": "AYAM Balik Laba Rp17,6 Miliar, Utang Bank Jangka Pendek [Lunas]",

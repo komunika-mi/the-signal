@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-teken-pakta-pajak-global-tukar-data-mulai-2027",
+  "category": "Makroekonomi",
+  "title": "Indonesia Teken Pakta Pajak Global, Tukar Data Mulai [2027]",
+  "deck": "Dirjen Pajak menandatangani kesepakatan tukar-data pajak internasional di Montenegro, menjadikan Indonesia negara ke-41 yang bergabung untuk mengawasi Pajak Minimum Global perusahaan multinasional.",
+  "date": "1 November 2026",
+  "image": "assets/img/indonesia-teken-pakta-pajak-global-tukar-data-mulai-2027.jpg",
+  "imageV": "mvxo9gzk",
+  "tags": [
+   "Pajak",
+   "DJP",
+   "Pajak Minimum Global",
+   "Kerja Sama Internasional"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/indonesia-perkuat-kerja-sama-pajak-global-dirjen-pajak-tandatangani-gir-mcaa",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "muhaimin-beri-penghargaan-jkn-ke-80-firma-8-pemda",
+  "category": "Ketenagakerjaan",
+  "title": "Muhaimin Beri [Penghargaan] JKN ke 80 Firma, 8 Pemda",
+  "deck": "Satya JKN Awards 2026 mengapresiasi 80 badan usaha swasta dan 8 pemerintah daerah yang dinilai patuh mendukung program Jaminan Kesehatan Nasional.",
+  "date": "1 November 2026",
+  "image": "assets/img/muhaimin-beri-penghargaan-jkn-ke-80-firma-8-pemda.jpg",
+  "imageV": "mvxo9hfs",
+  "tags": [
+   "JKN",
+   "Satya JKN Awards",
+   "Kemenko PM",
+   "BPJS Kesehatan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476055-menko-muhaimin-beri-penghargaan-atas-kepatuhan-badan-usaha-dan-pemda-dalam-program-jkn"
+ },
+ {
   "slug": "ayam-balik-laba-rp17-6-miliar-utang-bank-jangka-pendek-lunas",
   "category": "Aksi Korporasi",
   "title": "AYAM Balik Laba Rp17,6 Miliar, Utang Bank Jangka Pendek [Lunas]",
@@ -6456,38 +6491,6 @@ var ARTICLES = [
    "akuisisi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-1415-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "area-minta-pemegang-saham-warkat-konversi-ke-bentuk-elektronik",
-  "category": "Aksi Korporasi",
-  "title": "AREA Minta Pemegang Saham [Warkat] Konversi ke Bentuk Elektronik",
-  "deck": "PT Dunia Virtual Online Tbk (AREA) mewajibkan pemegang saham pemilik surat kolektif saham fisik mengurus konversi ke bentuk elektronik sebelum 6 Mei 2030.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AREA",
-   "dematerialisasi saham",
-   "OJK",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/230c5b2dc4_0a3fe87e77.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bach-naikkan-fasilitas-pinjaman-ke-rp350-miliar-dari-smbc",
-  "category": "Aksi Korporasi",
-  "title": "BACH Naikkan Fasilitas Pinjaman ke [Rp350 Miliar] dari SMBC",
-  "deck": "Bach Multi Global dan anak usahanya menambah fasilitas pinjaman dari Bank SMBC Indonesia sebesar Rp100 miliar, sehingga total fasilitas naik menjadi Rp350 miliar dengan tenor sampai Oktober 2027.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BACH",
-   "transaksi material",
-   "fasilitas pinjaman",
-   "SMBC Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2307db6b75_30dd2e7fe4.pdf",
   "sourceLabel": "IDX"
  }
 ];

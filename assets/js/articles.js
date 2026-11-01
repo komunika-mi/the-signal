@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "laba-bess-anjlok-95-di-laporan-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "[Laba] BESS Anjlok 95% di Laporan Kuartal III 2026",
+  "deck": "Laba bersih sembilan bulan BESS tergerus jadi Rp3,1 miliar dari Rp61,9 miliar, sementara utangnya turun 40 persen setelah dilunasi ke pemasok dan bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 November 2026",
+  "isoDate": "2026-11-01T10:10:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101102050-65553-0/FinancialStatement-2026-III-BESS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BESS",
+  "tags": [
+   "BESS",
+   "laporan keuangan",
+   "batu bara",
+   "emiten tambang"
+  ],
+  "body": [
+   "PT Batulicin Nusantara Maritim Tbk (BESS) menyampaikan laporan keuangan interim konsolidasian untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit, ditandatangani Direktur Utama Sarman Simanjorang dan Direktur Yuliana pada 30 Oktober 2026. Pendapatan perusahaan distribusi batu bara ini turun dari Rp261,69 miliar pada periode yang sama tahun lalu menjadi Rp204,91 miliar, sementara laba kotor merosot dari Rp109,17 miliar menjadi Rp38,22 miliar. Akibatnya, kegiatan usaha utama BESS berbalik dari untung operasi Rp65,61 miliar pada 2025 menjadi rugi usaha Rp1,80 miliar pada 2026. Laba bersih yang bisa dibawa pulang investor pun longsor dari Rp61,92 miliar menjadi Rp3,14 miliar, membuat laba per saham turun dari Rp17,99 menjadi Rp0,93.",
+   "Di sisi liabilitas, BESS memangkas total utangnya dari Rp69,77 miliar pada akhir Desember 2025 menjadi Rp41,67 miliar pada akhir September 2026, turun Rp28,10 miliar atau 40,28 persen. Dalam surat terpisah ke Bursa Efek Indonesia, perseroan menjelaskan penurunan ini karena pembayaran sebagian utang usaha kepada pemasok, yang turun dari Rp32,41 miliar menjadi Rp10,59 miliar, serta pelunasan sebagian utang bank, dari Rp11,83 miliar menjadi Rp3,79 miliar untuk porsi jangka pendek. Kas dan setara kas perusahaan ikut berkurang dari Rp184,79 miliar menjadi Rp137,38 miliar, sejalan dengan pembayaran-pembayaran tersebut.",
+   "Dari sisi ekuitas, BESS membagikan dividen tunai Rp15 miliar sepanjang 2026 yang membuat total ekuitas turun dari Rp660,61 miliar menjadi Rp648,26 miliar, meski ada tambahan laba berjalan dan pencadangan laba ditahan sebesar Rp100 juta. Jumlah aset perusahaan juga menyusut dari Rp730,38 miliar menjadi Rp689,92 miliar, terutama karena aset tetap yang menurun dari Rp439,40 miliar menjadi Rp415,01 miliar."
+  ],
+  "fotoAdegan": "Workers guiding a coal barge alongside a riverside loading dock in South Kalimantan, overcast sky, tugboat nearby",
+  "takeaway": "Laporan ini condong negatif bagi BESS karena laba bersih sembilan bulan anjlok 95 persen dari Rp61,9 miliar menjadi hanya Rp3,1 miliar, sementara pendapatan turun 21,8 persen dan usaha inti malah merugi Rp1,8 miliar dibanding untung Rp65,6 miliar tahun lalu. Pos yang paling tersentuh adalah laba per saham, yakni laba bersih dibagi jumlah saham beredar, yang ikut longsor dari Rp17,99 menjadi Rp0,93, angka yang biasa dipakai investor untuk menilai seberapa produktif modal mereka diputar perusahaan. Di sisi lain, perseroan juga melunasi sebagian utang usaha dan utang bank sehingga total liabilitas turun 40,3 persen menjadi Rp41,7 miliar, yang bisa mengurangi beban bunga ke depan meski ekuitas sedikit terkikis oleh pembagian dividen tunai Rp15 miliar. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang biasanya terbit akhir Maret atau awal April 2027, untuk melihat apakah pelemahan laba kuartal III ini berlanjut ke kuartal IV atau mulai membaik.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "majalengka-jadi-pemda-teraktif-dukung-desa-wisata-ojk",
   "category": "Perbankan",
   "title": "Majalengka Jadi Pemda [Teraktif] Dukung Desa Wisata OJK",

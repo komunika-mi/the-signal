@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "laba-bess-anjlok-95-di-laporan-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "[Laba] BESS Anjlok 95% di Laporan Kuartal III 2026",
+  "deck": "Laba bersih sembilan bulan BESS tergerus jadi Rp3,1 miliar dari Rp61,9 miliar, sementara utangnya turun 40 persen setelah dilunasi ke pemasok dan bank.",
+  "date": "1 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BESS",
+   "laporan keuangan",
+   "batu bara",
+   "emiten tambang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101102050-65553-0/FinancialStatement-2026-III-BESS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "majalengka-jadi-pemda-teraktif-dukung-desa-wisata-ojk",
   "category": "Perbankan",
   "title": "Majalengka Jadi Pemda [Teraktif] Dukung Desa Wisata OJK",
@@ -6474,21 +6490,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475084-siap-siap-bawa-pulang-emas-pegadaian-tebar-hadiah-spesial-188-kg-lewat-badai-emas-2026"
- },
- {
-  "slug": "materi-public-expose-lapd-ungkap-ekuitas-negatif-rp2-65-m",
-  "category": "Aksi Korporasi",
-  "title": "Materi Public Expose LAPD Ungkap [Ekuitas Negatif] Rp2,65 M",
-  "deck": "Materi public expose tahunan LAPD membeberkan ekuitas negatif Rp2,65 miliar per Juni 2026, serta rencana rights issue Rp60 miliar untuk akuisisi kontraktor tambang BSS senilai Rp38,85 miliar.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "rights issue",
-   "ekuitas negatif",
-   "pertambangan batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/db6bba2fa2_c72ee69838.pdf",
-  "sourceLabel": "IDX"
  }
 ];

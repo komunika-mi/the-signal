@@ -37,6 +37,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pertamina-gelar-smexpo-bekasi-bidik-transaksi-rp2-5-m",
+  "category": "UMKM",
+  "title": "Pertamina Gelar SMEXPO Bekasi, Bidik Transaksi [Rp2,5 M]",
+  "deck": "Pertamina Foundation menggelar SMEXPO Regional Bekasi 2026 dengan konsep ritel modern, menampilkan 50 UMKM terpilih dari 8.000 pendaftar dan target transaksi Rp2,5 miliar.",
+  "date": "1 November 2026",
+  "image": "assets/img/pertamina-gelar-smexpo-bekasi-bidik-transaksi-rp2-5-m.jpg",
+  "imageV": "mvxzz90d",
+  "tags": [
+   "Pertamina",
+   "UMKM",
+   "Bekasi",
+   "SMEXPO"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476081-bukan-sekadar-pameran-pertamina-smexpo-2026-di-bekasi-hadirkan-konsep-belanja-ala-ritel-modern-bagi-umkm"
+ },
+ {
   "slug": "indonesia-teken-pakta-pajak-global-tukar-data-mulai-2027",
   "category": "Makroekonomi",
   "title": "Indonesia Teken Pakta Pajak Global, Tukar Data Mulai [2027]",
@@ -6475,22 +6492,6 @@ var ARTICLES = [
    "pengendali baru"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-5417-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "andi-pjs-jadi-pengendali-baru-lewat-akuisisi-33-saham-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "ANDI: PJS Jadi Pengendali Baru Lewat Akuisisi 33% Saham [pengendali]",
-  "deck": "PT Puncak Jaya Sejahtera membeli total 33% saham Andira Agro senilai Rp92,57 miliar dari dua pemegang saham lama, menjadikannya pengendali baru perusahaan perkebunan ini.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANDI",
-   "Andira Agro",
-   "pengambilalihan",
-   "pemegang saham pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b36a8387c6_a0c4112f0c.pdf",
   "sourceLabel": "IDX"
  }
 ];

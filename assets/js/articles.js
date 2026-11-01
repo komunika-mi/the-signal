@@ -55,6 +55,33 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "pertamina-gelar-smexpo-bekasi-bidik-transaksi-rp2-5-m",
+  "category": "UMKM",
+  "title": "Pertamina Gelar SMEXPO Bekasi, Bidik Transaksi [Rp2,5 M]",
+  "deck": "Pertamina Foundation menggelar SMEXPO Regional Bekasi 2026 dengan konsep ritel modern, menampilkan 50 UMKM terpilih dari 8.000 pendaftar dan target transaksi Rp2,5 miliar.",
+  "image": "assets/img/pertamina-gelar-smexpo-bekasi-bidik-transaksi-rp2-5-m.jpg",
+  "date": "1 November 2026",
+  "isoDate": "2026-11-01T20:22:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476081-bukan-sekadar-pameran-pertamina-smexpo-2026-di-bekasi-hadirkan-konsep-belanja-ala-ritel-modern-bagi-umkm",
+  "tags": [
+   "Pertamina",
+   "UMKM",
+   "Bekasi",
+   "SMEXPO"
+  ],
+  "body": [
+   "PT Pertamina (Persero) bersama Pertamina Foundation menggelar Pertamina SMEXPO Regional Bekasi 2026 di Pakuwon Mall, Bekasi, pada 30 Oktober hingga 1 November 2026. Acara ini merupakan bagian dari program pembinaan usaha kecil milik Pertamina, dengan format yang tahun ini dibuat menyerupai pengalaman belanja di ritel modern.",
+   "Mengusung tema 'Lokal Jadi Vokal', pameran ini menampilkan 50 UMKM terpilih dari Jawa Barat, DKI Jakarta, Banten, dan Aceh, hasil kurasi dari sekitar 8.000 pendaftar. Direktur Operasi Pertamina Foundation, Gusman Adiwardhana, menyebut ajang ini untuk menjembatani UMKM dengan konsumen secara langsung dan membuka peluang kemitraan bisnis, sembari menyinggung tantangan klasik UMKM mulai dari akses pembiayaan, pemasaran, hingga kualitas produk. Pertamina menetapkan target transaksi minimal Rp2,5 miliar dari rangkaian acara ini.",
+   "Inovasi utama tahun ini adalah konsep Tenant dan Mart yang membuat stan UMKM tertata seperti gerai ritel, dilengkapi peluncuran Katalog Digital PFpreneur untuk membantu pelaku usaha memasarkan produk secara daring. Rangkaian acara juga mencakup business matching, workshop, dan berbagai kegiatan hiburan untuk menarik pengunjung.",
+   "Di luar sisi bisnis, acara ini menyediakan 'Pojok Sayang Aceh', ruang khusus bagi UMKM asal Aceh yang terdampak bencana agar usahanya tetap bisa berjalan. Corporate Secretary Pertamina, Arya Dwi Paramita, menegaskan bahwa tujuan acara adalah memberi kesempatan bagi UMKM mitra binaan Pertamina untuk bertemu langsung dengan pasarnya."
+  ],
+  "fotoAdegan": "Vendors arranging handicraft and food products on modern retail-style stalls inside a busy shopping mall atrium, soft overhead lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/01/6ae73c6c84e45-pt-pertamina-persero-bersama-pertamina-foundation-menggelar-pertamina-smexpo-regional-bekasi-2026-di-pakuwon-mall-bekasi-pada-30-oktober-hingga-1-november-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar lokasi pameran, melainkan formatnya: tahun ini Pertamina mengubah stan UMKM menjadi gaya 'Tenant dan Mart' seperti toko ritel modern, dilengkapi katalog belanja daring bernama PFpreneur, dengan target transaksi minimal Rp2,5 miliar dari 50 pelaku usaha yang disaring dari sekitar 8.000 pendaftar. Yang terdampak langsung adalah UMKM mitra binaan Pertamina, termasuk pelaku usaha asal Aceh yang mendapat ruang khusus karena usahanya terganggu bencana. Seleksi yang sangat ketat ini, hanya sekitar 1 dari 160 pendaftar yang lolos, dan penyebutan 'Regional Bekasi' mengindikasikan Pertamina kemungkinan menjalankan rangkaian serupa di kota lain dengan standar kurasi dan format ritel yang sama. Karena pameran ini baru ditutup hari ini, belum ada angka hasil transaksi riil yang bisa dicek. Yang akan menunjukkan apakah format ritel dan katalog digital ini benar menambah daya jual UMKM adalah apakah target Rp2,5 miliar tercapai saat acara selesai, dan apakah konsep Tenant dan Mart ini dipakai lagi di edisi SMEXPO daerah berikutnya.",
+  "imageV": "mvxzz90d"
+ },
+ {
   "slug": "indonesia-teken-pakta-pajak-global-tukar-data-mulai-2027",
   "category": "Makroekonomi",
   "title": "Indonesia Teken Pakta Pajak Global, Tukar Data Mulai [2027]",

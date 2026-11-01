@@ -1,56 +1,51 @@
 // Signal Mingguan. Dibuat otomatis oleh scripts/signal-pekanan.mjs.
 var PEKANAN = {
- "tanggal": "2026-10-25",
+ "tanggal": "2026-11-02",
  "rentang": {
-  "mulai": "2026-10-19",
-  "selesai": "2026-10-25"
+  "mulai": "2026-10-27",
+  "selesai": "2026-11-02"
  },
- "rentangLabel": "19 Oktober - 25 Oktober 2026",
- "judul": "Buyback Jadi Rutin, Dilusi Melebar, Utang Karya Memburuk",
- "ringkas": "Pekan ini IHSG berbalik dari anjlok 3,64 persen pada Senin menjadi menguat beruntun hingga 5.439,26 pada Jumat, tetapi di baliknya tiga pola berjalan beriringan: buyback yang mula-mula darurat kini jadi kebiasaan kas korporasi, dilusi saham non-proporsional yang terus melebar meski OJK baru menjatuhkan denda Rp2,52 triliun, dan tekanan utang BUMN karya yang makin dalam lewat rangkaian RUPSU yang gagal serta gagal bayar kupon. Ketiganya menunjukkan arah yang konsisten dari hari ke hari, bukan kejadian satu kali.",
+ "rentangLabel": "27 Oktober - 2 November 2026",
+ "judul": "Tekanan Utang Mengeras Jadi Gagal Bayar dan Ekuitas Negatif",
+ "ringkas": "Laba kuartal III 2026 tumbuh di banyak sektor, tetapi di balik angka itu arus kas menipis dan beban bunga membesar, berujung pada insiden gagal bayar yang makin konkret menjelang akhir pekan. Di sisi lain, sokongan harga komoditas yang menebalkan laba awal pekan mulai mengecil begitu kuartal IV dimulai, sementara sejumlah lonjakan laba lain ternyata bersandar pada pos sekali waktu, bukan bisnis inti.",
  "pola": [
   {
-   "judul": "Buyback bergeser dari darurat jadi kebiasaan",
-   "isi": "Gelombang buyback muncul pertama kali Senin, saat TPIA, BREN, BRPT, DSSA, CUAN, dan PBSA menyiapkan total Rp4,6 triliun persis ketika IHSG anjlok 3,64 persen, memakai aturan OJK untuk kondisi pasar bergejolak. Pola ini terus menjalar, Selasa BTN mempertimbangkan opsi serupa, Rabu Jasa Marga membuka opsi buyback dan MBSS merealisasikan Rp200 miliar saat IHSG justru menguat 0,94 persen, lalu Kamis AMMN dan BBRI masing-masing menyiapkan hingga Rp1 triliun ketika indeks naik 1,12 persen. Puncaknya Jumat, Indofood, Indofood CBP, dan London Sumatra menyiapkan buyback Rp750 miliar untuk periode 26 Oktober sampai 31 Desember, pada hari IHSG justru menguat 0,95 persen ke 5.439,26, bukan kondisi jatuh tajam yang biasanya memicu aturan ini. Arahnya bergerak dari respons darurat menjadi cara baku memakai kas perusahaan besar, terlepas dari arah indeks harian. Yang akan menegaskan atau menghentikan pola ini adalah realisasi nyata buyback INDF, ICBP, dan LSIP yang mulai berjalan 26 Oktober, serta apakah OJK memperpanjang kelonggaran aturan buyback tanpa RUPS ini menjelang akhir tahun."
+   "judul": "Tekanan Utang Mengeras dari Insiden ke Ekuitas Negatif",
+   "isi": "Sepanjang pekan, tanda tekanan utang yang awalnya terlihat di satu dua kasus meluas jadi pola yang berulang. Selasa, Fitch menurunkan peringkat obligasi Pos Indonesia ke D(idn), level yang berarti gagal bayar, sementara PTPP memanggil RUPS sukuk untuk menunda bagi hasil ke 2027. Rabu, laporan kuartal III menunjukkan kas operasi menipis di tengah laba yang tumbuh, arus kas KEJU turun tajam dari Rp224 miliar tahun lalu dan AXIO berbalik negatif Rp97,82 miliar, sementara utang jangka pendek VICI melonjak dari Rp3 miliar ke Rp100 miliar. Jumat, beban bunga mulai memotong laba secara langsung, BSDE anjlok 38 persen ke Rp844,7 miliar dan KIJA longsor 78 persen, sementara WIKA dua kali gagal mendapat restu pemegang obligasi untuk menunda bayar bunga. Memasuki akhir pekan, tandanya makin konkret, CBRE mencatat ekuitas negatif Rp144,86 miliar dan SMKL melaporkan kas operasi negatif Rp166 miliar. Arahnya sudah jelas bergerak dari sekadar pembiayaan utang menjadi insiden gagal bayar yang nyata dan meluas lintas sektor. Yang akan mengujinya adalah hasil RUPS pemegang sukuk PTPP pada 10 November serta rangkaian lima tanggal jatuh tempo bunga obligasi WIKA mulai 3 November."
   },
   {
-   "judul": "Dilusi non-proporsional terus melebar",
-   "isi": "Dilusi lewat penambahan modal tanpa hak memesan efek terlebih dahulu mulai terlihat Selasa lewat VISI, APEX, EMAS, dan NAYZ, yang membiayai akuisisi Bangkok Tellink senilai Rp448,3 miliar lewat rights issue meski kas perusahaan per Juni hanya Rp6,1 miliar. Rabu polanya melebar dengan angka lebih besar, NINE mengonfirmasi dilusi hingga 53,11 persen, LAPD hingga 50,42 persen, dan INPS mencatat dilusi 192 persen untuk menambal ekuitas negatif. Kamis, NAYZ merevisi nilai akuisisi itu menjadi Rp2,24 triliun, setara 80,4 kali ekuitas target yang hanya Rp27,9 miliar. Jumat, di hari yang sama OJK mengumumkan total denda pelanggaran pasar modal Rp2,52 triliun, VIVA mengonfirmasi dilusi 72,35 persen ke pihak afiliasi pengendali yang menekan free float publik ke 15,04 persen, UVCR merevisi rencana serupa, dan UNSP mendilusi pemegang saham lama sampai 13 kali lipat. Arahnya konsisten melebar sepanjang pekan, bukan insiden tunggal, dan berjalan terus meski pengawasan pasar modal sedang disorot. Yang akan menentukan kelanjutannya adalah hasil RUPSLB UVCR pada 27 Oktober serta rangkaian RUPSLB dilusi lain seperti NINE dan LAPD dalam pekan-pekan mendatang."
+   "judul": "Sokongan Harga Komoditas Mulai Berbalik Turun",
+   "isi": "Di awal pekan, komoditas masih jadi sumber laba utama, ANTM naik 46 persen jadi Rp9,66 triliun dan AALI naik 77,6 persen jadi Rp1,98 triliun, dibarengi harga emas Antam yang naik tipis ke Rp2.550.000 per gram pada Selasa. Namun arah itu berbalik menjelang akhir pekan, Jumat Kementerian Perdagangan memangkas harga referensi CPO November sebesar 6 persen, mengecilkan bea keluar sawit yang sebelumnya menopang laba SIMP dan GZCO. Harga emas Antam pun turun dua hari beruntun sejak 29 Oktober hingga Rp2.526.000 per gram pada Sabtu, selaras dengan harga emas spot yang tercatat turun 2,9 persen pekan ini. Pola ini menunjukkan sokongan harga yang menebalkan laba kuartal III mulai mengecil begitu kuartal IV dimulai. Arahnya mengarah ke pertumbuhan laba komoditas berikutnya yang lebih bergantung pada volume dan efisiensi ketimbang harga jual. Yang akan memastikannya adalah penetapan harga referensi CPO Desember oleh Kemendag serta pergerakan harga emas pekan depan."
   },
   {
-   "judul": "Tekanan utang BUMN karya makin dalam",
-   "isi": "Tekanan utang di BUMN karya terlihat memburuk dalam dua hari terakhir pekan ini. Kamis, WIKA gagal mendapat kuorum penyelesaian gagal bayar sukuk mudharabah setelah 71,7 persen pemegang suara menolak usulannya. Jumat, WIKA kembali gagal dua kali dalam RUPSU, suara setuju penyelesaian bagi hasil ke-14 dan ke-15 hanya 48,2 persen, lalu usulan penjadwalan ulang bagi hasil ke-22 dan ke-23 ditolak 71,4 persen suara, keduanya jauh dari syarat 75 persen. Di hari yang sama, PTPP sudah gagal membayar bunga obligasi dan bagi hasil sukuk yang jatuh tempo 22 Oktober, sehingga BEI melanjutkan suspensi sahamnya dengan alasan eksplisit soal kelangsungan usaha, sementara ADHI mencatat laba bersih melonjak tiga kali lipat tapi arus kas operasinya berbalik negatif dan kasnya menyusut separuh. Arahnya sudah jelas memburuk, bukan membaik, dengan rangkaian kegagalan yang terjadi berturut-turut dalam waktu singkat. Yang akan menegaskan arah ini adalah RUPSU baru WIKA pada 28 Oktober dan panggilan RUPSU PTPP pada 27 Oktober, yang menunjukkan apakah jalan keluar mulai ditemukan atau rentetan gagal bayar terus bertambah panjang."
+   "judul": "Laba Besar, tapi Kerap Disokong Pos Sekali Waktu",
+   "isi": "Sejak Jumat, laporan kuartal III memperlihatkan sejumlah lonjakan laba yang sumbernya bukan bisnis inti, CANI berbalik untung terutama dari penjualan delapan kapal, sementara rugi TOBA menyempit karena hilangnya rugi pelepasan anak usaha senilai US$96,9 juta yang membebani tahun lalu. Pola yang sama berulang di laporan akhir pekan, AYAM berbalik laba Rp17,6 miliar namun banyak ditopang keuntungan sekali pakai dari penjualan aset tetap, sementara laba usaha BNBR melonjak 2.157 persen dan laba IDPR melonjak 727 persen tanpa diikuti uang tunai yang sepadan masuk ke kas. Pola ini muncul di sektor yang berbeda-beda, dari pelayaran sampai peternakan dan logistik, tanda yang sama bekerja di banyak tempat sekaligus. Arahnya menunjukkan angka laba di permukaan perlu dibaca lebih dalam untuk memisahkan hasil bisnis inti dari pos nonoperasional. Salah satu penanda yang akan mengujinya adalah audit penuh laporan keuangan interim Unilever Indonesia yang disetor paling lambat 31 Desember 2026, serta apakah pola serupa muncul lagi pada laporan kuartal IV."
   }
  ],
  "menanti": [
   {
-   "tanggal": "2026-10-26",
-   "apa": "Buyback INDF, ICBP, dan LSIP resmi mulai berjalan, masing-masing hingga Rp750 miliar",
-   "kenapa": "Ini uji pertama apakah pola buyback yang melebar sepanjang pekan benar dipakai penuh sebagai alat rutin, atau cuma janji di atas kertas yang tidak terserap."
+   "tanggal": "2026-11-03",
+   "apa": "WIKA mulai jatuh tempo bunga obligasi dan sukuk",
+   "kenapa": "Ini tanggal pertama dari rangkaian lima jatuh tempo sampai Desember, jadi penanda apakah tekanan utang WIKA berhenti di negosiasi atau terus berlanjut tanpa restu kreditor."
   },
   {
-   "tanggal": "2026-10-26",
-   "apa": "Kupon Sukuk Ijarah ADCP jatuh tempo, PEFINDO sudah ingatkan risiko gagal bayar",
-   "kenapa": "Kalau ADCP benar gagal bayar, itu menambah daftar emiten di luar BUMN karya yang bermasalah dengan utang, bukan lagi kasus per kasus."
+   "tanggal": "2026-11-03",
+   "apa": "POST panggil RUPO-RUPSI bahas gagal bayar obligasi dan sukuk",
+   "kenapa": "Pemanggilan resmi ini menjadi penanda apakah pola gagal bayar BUMN meluas melewati kelompok karya konstruksi ke sektor logistik milik negara."
   },
   {
-   "tanggal": "2026-10-27",
-   "apa": "RUPSLB UVCR memutuskan rincian dana PMTHMETD dan rencana penerbitan saham baru",
-   "kenapa": "Hasilnya menentukan apakah dilusi non-proporsional yang sudah melebar sepekan ini mendapat restu pemegang saham independen atau mulai dibatasi."
+   "tanggal": "2026-11-05 (perkiraan)",
+   "apa": "Rilis PDB Triwulan III dan inflasi Oktober dari BPS",
+   "kenapa": "Angka ini menguji langsung pembacaan arah pekan lalu bahwa konsumsi, lapangan kerja, dan ekspor sama-sama menguat, sebelum pelaku usaha menyusun rencana kuartal IV."
   },
   {
-   "tanggal": "2026-10-27",
-   "apa": "PTPP memanggil RUPSU ke-4 untuk sukuk mudharabah Seri B",
-   "kenapa": "Perusahaan ini sudah gagal bayar kupon pada 22 Oktober dan sahamnya disuspensi BEI, sehingga rapat ini jadi penanda apakah jalan keluar mulai ditemukan atau rentetan kegagalan berlanjut."
-  },
-  {
-   "tanggal": "2026-10-28",
-   "apa": "WIKA memanggil RUPSU baru, minta penundaan bagi hasil sukuk",
-   "kenapa": "Ini upaya baru WIKA setelah dua RUPSU sebelumnya gagal kuorum dalam sepekan, sehingga hasilnya jadi acuan apakah tekanan utang BUMN karya mulai mereda atau terus memburuk."
+   "tanggal": "2026-11-10",
+   "apa": "Hasil RUPS pemegang sukuk PTPP soal penundaan bagi hasil",
+   "kenapa": "Keputusan ini menentukan apakah kreditor menyetujui penundaan ke 2027 atau PTPP menyusul WIKA gagal mendapat restu, sinyal penting bagi mitra dan pemasok BUMN karya."
   }
  ],
- "penutup": "Yang paling menentukan arah pekan depan adalah apakah RUPSU baru WIKA dan panggilan RUPSU PTPP akhirnya menemukan jalan keluar, atau justru menambah daftar emiten pelat merah yang masalah utangnya dibiarkan berlarut.",
- "jumlahEdisi": 5,
- "jumlahBerita": 387,
- "dibuat": "2026-10-25T16:37:04.082Z"
+ "penutup": "Arah pekan depan paling ditentukan oleh apakah kreditor PTPP dan WIKA bersedia menyetujui penundaan pembayaran utang, karena itu yang membedakan tekanan utang berhenti di negosiasi atau benar-benar meluas jadi gagal bayar di lebih banyak emiten.",
+ "jumlahEdisi": 3,
+ "jumlahBerita": 392,
+ "dibuat": "2026-11-01T18:01:20.117Z"
 };

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "boss-baru-lapor-lk-semester-i-2024-defisit-modal-melebar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Baru Lapor LK Semester I/2024, [Defisit] Modal Melebar",
+  "deck": "Laporan keuangan semester I 2024 yang baru disetor ke bursa dua tahun kemudian menunjukkan BOSS masih tanpa penjualan dan arus kas operasional makin boros.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 November 2026",
+  "isoDate": "2026-11-01T23:18:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261101232859-65658-0/FinancialStatement-2024-II-BOSS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "defisiensi modal",
+   "laporan keuangan interim",
+   "arus kas"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan laporan keuangan interim tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2024, ditandatangani Direktur Utama Freddy Tedjasasmita dan Direktur Widodo Nurly Sumady pada 1 November 2026. Artinya laporan untuk semester pertama 2024 ini baru disetor ke Bursa Efek Indonesia lebih dari dua tahun setelah periode tersebut berakhir, sejalan dengan rangkaian keterlambatan pelaporan BOSS yang sudah berulang kali diberitakan pekan ini.",
+   "Secara angka, BOSS kembali tidak membukukan penjualan bersih sama sekali pada semester I 2024, dibandingkan Rp121,83 miliar pada semester I 2023. Rugi bersih memang menyusut menjadi Rp17,76 miliar dari Rp74,09 miliar, tetapi penyusutan ini semata karena hampir tidak ada beban pokok penjualan maupun beban penjualan yang tercatat, bukan tanda perbaikan bisnis. Jumlah aset turun menjadi Rp589,43 miliar dari Rp596,64 miliar pada akhir 2023, sementara jumlah liabilitas naik menjadi Rp809,08 miliar dari Rp798,48 miliar, membuat defisiensi modal, yaitu kondisi utang sudah melebihi aset, melebar menjadi Rp219,64 miliar dari Rp201,83 miliar.",
+   "Dari sisi arus kas, kas bersih yang terpakai untuk kegiatan operasi melonjak menjadi Rp135,47 miliar dari Rp33,63 miliar pada semester I 2023. Salah satu penyebabnya, BOSS harus mengembalikan Rp94,61 miliar uang muka penjualan yang sebelumnya sudah diterima dari pelanggan, sehingga pos uang muka penjualan di neraca turun ke nol dari Rp94,61 miliar pada akhir 2023. Lubang kas ini ditambal dari aktivitas pendanaan sebesar Rp135,35 miliar, sebagian besar berasal dari penerimaan utang pihak ketiga baru senilai Rp127,17 miliar, yang membuat pos utang lainnya kepada pihak ketiga di neraca melonjak dari Rp111,13 miliar menjadi Rp238,30 miliar. Kas dan setara kas BOSS di akhir periode hanya tersisa Rp842,69 juta, turun dari Rp998,86 juta pada awal periode.",
+   "Dari empat anak usaha yang disebut dalam laporan, tiga masih berstatus pra-operasi, yaitu PT Pratama Bersama, PT Pratama Prime Resource, dan PT Pratama Natural Resource, dengan hanya PT Bangun Olah Sarana Sukses di Kalimantan yang benar-benar beroperasi."
+  ],
+  "fotoAdegan": "Idle excavator and silent conveyor belts at a quiet open-pit coal mine, overcast sky, no workers in sight",
+  "takeaway": "Laporan ini negatif bagi BOSS, karena kas yang terpakai untuk kegiatan usaha melonjak empat kali lipat sementara penjualan masih nihil, dan lubang itu ditutup dengan utang baru, bukan pendapatan. Dua pos kinerja yang tersentuh adalah ekuitas, yaitu selisih aset dan utang yang jadi hak pemegang saham, yang makin dalam minus menjadi Rp219,64 miliar, dan arus kas operasional, yaitu uang tunai yang benar-benar keluar masuk dari kegiatan usaha sehari-hari, yang membengkak jadi minus Rp135,47 miliar karena perusahaan harus mengembalikan uang muka pelanggan. Pelaku pasar mencermati pos ini karena ekuitas negatif berarti aset yang tersisa tidak cukup menutup utang, sementara arus kas operasional negatif menandakan bisnis utama belum bisa membiayai dirinya sendiri dan bergantung pada utang baru. Yang perlu dipantau berikutnya adalah RUPS tahunan dan luar biasa BOSS yang sudah ditunda ke 4 November 2026, serta apakah laporan keuangan periode-periode berikutnya bisa disetor tanpa jeda dua tahun seperti laporan semester I 2024 ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "asha-cetak-rugi-rp10-4-miliar-di-kuartal-iii-2026-ekuitas-susut",
   "category": "Aksi Korporasi",
   "title": "ASHA Cetak [Rugi] Rp10,4 Miliar di Kuartal III 2026, Ekuitas Susut",
@@ -319,6 +346,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Dari 6.131 karyawan di pabrik ini, 174 orang atau 2,8 persen adalah penyandang disabilitas, dan penempatan posisi kerjanya ditentukan lewat pemeriksaan kondisi fisik masing-masing sebelum mereka mulai bekerja. Pihak yang jelas terdampak adalah para pekerja difabel itu sendiri, juga calon pekerja baru, karena perusahaan membuka jalur rekrutmen lewat Dinas Tenaga Kerja dan Sekolah Luar Biasa di Batang. Arahnya tampak menuju perluasan berkelanjutan, bukan sekadar angka yang berhenti di satu titik, karena kerja sama dengan SLB dan Disnaker itu memang dirancang untuk terus menjaring talenta difabel baru. Yang akan membuktikan apakah arah ini benar-benar berlanjut adalah apakah angka 174 orang ini bertambah pada laporan ketenagakerjaan perusahaan berikutnya, sebab berita ini tidak menyebutkan data pembanding dari periode-periode sebelumnya.",
   "imageV": "mvwlmqe8"
+ },
+ {
+  "slug": "visi-atlas-raya-abadi-tambah-saham-lewat-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "VISI: Atlas Raya Abadi Tambah Saham Lewat [PMTHMETD]",
+  "deck": "PT Atlas Raya Abadi menambah 24,14 juta saham VISI senilai sekitar Rp24 miliar lewat penambahan modal tanpa hak memesan efek terlebih dahulu, hak suaranya naik ke 10,53%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T21:53:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-31102026-7721-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "kepemilikan saham",
+   "PMTHMETD",
+   "Atlas Raya Abadi"
+  ],
+  "body": [
+   "PT Atlas Raya Abadi melaporkan penambahan kepemilikan sahamnya di PT Satu Visi Putra Tbk (VISI) kepada Otoritas Jasa Keuangan dalam laporan bertanggal 31 Oktober 2026. Jumlah saham Atlas Raya Abadi di VISI naik dari 312.420.000 lembar menjadi 336.564.900 lembar, bertambah 24.144.900 lembar atau setara 7,73 persen dari kepemilikannya sebelumnya. Seiring penambahan itu, hak suaranya di VISI naik dari 10,15 persen menjadi 10,53 persen.",
+   "Penambahan saham tersebut berasal dari transaksi pada 22 Oktober 2026 dengan harga Rp994 per saham, melalui mekanisme Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), yaitu penerbitan saham baru oleh VISI yang tidak ditawarkan lebih dulu kepada seluruh pemegang saham lama. Dokumen mencatat seluruh 336.564.900 lembar saham tersebut sebagai saham biasa yang dimiliki langsung oleh Atlas Raya Abadi, dan tidak ada efek bersifat ekuitas lain yang masih harus dilaksanakan dari transaksi ini.",
+   "Laporan ini muncul dalam pekan yang sama dengan dua kabar korporasi VISI lainnya, yakni penarikan pinjaman modal kerja Rp45 miliar dari Bank Ina dan pembelian saham oleh direksi VISI senilai sekitar Rp200 juta, menambah rangkaian aktivitas pendanaan dan kepemilikan di emiten ini dalam sepekan terakhir."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's financial district reflecting late afternoon light, busy street traffic in the foreground",
+  "takeaway": "Laporan ini cenderung positif bagi VISI karena penambahan saham terjadi lewat penerbitan saham baru senilai sekitar Rp24 miliar yang masuk ke perusahaan, dan porsi kepemilikan Atlas Raya Abadi malah naik, tanda pemegang saham ini menyerap lebih banyak saham baru ketimbang sekadar mempertahankan porsi lamanya. Pos yang tersentuh adalah ekuitas perusahaan, karena dana dari penerbitan saham baru menambah modal yang tercatat di buku VISI, sekaligus menambah jumlah saham beredar yang membuat laba per saham ke depan bisa terdilusi kalau laba perusahaan tidak tumbuh seimbang dengan tambahan saham itu. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana hasil penambahan modal ini ke bursa, serta apakah porsi pemegang saham publik lain berubah akibat penerbitan saham baru tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "visi-harmoni-semesta-tambah-saham-rp72-miliar-lewat-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "VISI: Harmoni Semesta [Tambah] Saham Rp72 Miliar Lewat PMTHMETD",
+  "deck": "PT Harmoni Semesta Investama menambah kepemilikan di VISI lewat penerbitan saham baru senilai sekitar Rp72 miliar, namun hak suaranya justru turun tipis ke 61,77 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T21:38:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-31102026-4857-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "PMTHMETD",
+   "Harmoni Semesta Investama",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Harmoni Semesta Investama, pemegang saham utama PT Satu Visi Putra Tbk (VISI), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di VISI bertambah dari 1.901.580.000 lembar menjadi 1.974.014.600 lembar, atau naik 72.434.600 lembar saham biasa. Transaksi ini tercatat pada 22 Oktober 2026 dengan harga Rp994 per saham, lewat mekanisme penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD), yaitu penerbitan saham baru yang tidak ditawarkan lebih dulu secara proporsional kepada seluruh pemegang saham lama. Dengan harga tersebut, dana yang disetor Harmoni Semesta Investama untuk saham baru ini mencapai sekitar Rp72 miliar.",
+   "Meski jumlah sahamnya bertambah, hak suara Harmoni Semesta Investama di VISI justru turun tipis dari 61,85 persen menjadi 61,77 persen. Ini terjadi karena PMTHMETD menambah jumlah total saham VISI yang beredar di pasar, sehingga porsi kepemilikan setiap pemegang saham ikut terkoreksi kecuali ia menambah saham dalam proporsi yang sama besar atau lebih. Meski begitu, dengan hak suara mendekati 62 persen, posisi Harmoni Semesta Investama sebagai pemegang saham pengendali VISI tidak berubah.",
+   "Laporan ini terbit sehari setelah VISI juga melaporkan penambahan saham oleh Atlas Raya Abadi lewat skema PMTHMETD yang sama, senilai sekitar Rp24 miliar. Dengan tambahan setoran dari Harmoni Semesta Investama, total dana segar yang masuk ke VISI dari dua laporan penambahan modal ini mencapai sekitar Rp96 miliar."
+  ],
+  "fotoAdegan": "Wide shot of a modern office tower in Jakarta's financial district, glass facade reflecting daylight, pedestrians crossing nearby street",
+  "takeaway": "Laporan ini positif bagi VISI karena dana sekitar Rp72 miliar yang disetor Harmoni Semesta Investama lewat saham baru ini masuk langsung sebagai modal segar ke kas perusahaan, melengkapi setoran serupa dari Atlas Raya Abadi sehari sebelumnya senilai sekitar Rp24 miliar, sehingga total dana yang terkumpul dari dua laporan ini sekitar Rp96 miliar. Penambahan modal semacam ini memperbesar modal sendiri atau ekuitas perusahaan, tapi juga menambah jumlah saham yang beredar di pasar, dan kalau jumlah saham bertambah sementara laba belum ikut naik, jatah laba untuk setiap lembar saham bisa menyusut, dampak yang biasa disebut dilusi. Hak suara Harmoni Semesta sendiri malah turun tipis dari 61,85 persen menjadi 61,77 persen meski jumlah sahamnya bertambah, tanda bahwa saham baru yang beredar di luar porsinya tumbuh lebih cepat, meski posisinya sebagai pemegang saham pengendali tidak tergoyang. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana hasil PMTHMETD ini, yang wajib disampaikan VISI ke bursa untuk memastikan dana segar tersebut benar terpakai sesuai rencana, serta kemungkinan laporan serupa dari pemegang saham lain yang turut menambah porsi dalam program yang sama.",
+  "sentimen": "positif"
  },
  {
   "slug": "pajak-ekonomi-digital-tembus-rp58-75-triliun-per-september",
@@ -978,6 +1057,32 @@ var ARTICLES = [
   "imageV": "mvvuts2i"
  },
  {
+  "slug": "agii-komisaris-utama-heyzer-harsono-wafat",
+  "category": "Aksi Korporasi",
+  "title": "AGII: Komisaris Utama [Heyzer Harsono] Wafat",
+  "deck": "Komisaris Utama AGII, Heyzer Harsono, meninggal dunia pada 30 Oktober 2026. Perusahaan menyatakan tidak ada dampak material terhadap operasional atau keuangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T09:25:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da74c3c626_2a56601544.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGII",
+  "tags": [
+   "AGII",
+   "Komisaris Utama",
+   "Pergantian Pengurus",
+   "Keterbukaan Informasi"
+  ],
+  "body": [
+   "PT Samator Indo Gas Tbk (AGII) melaporkan ke Bursa Efek Indonesia dan OJK bahwa Komisaris Utama perusahaan, Heyzer Harsono, meninggal dunia pada Jumat, 30 Oktober 2026. Laporan disampaikan sebagai keterbukaan informasi fakta material sesuai POJK No. 31/POJK.04/2015 dan Peraturan BEI No. I-E, ditandatangani oleh Wakil Direktur Utama yang juga menjabat Corporate Secretary, Imelda Mulyani Harsono.",
+   "Manajemen menegaskan kejadian ini tidak berdampak pada kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan. Komposisi dan jumlah anggota Dewan Komisaris saat ini, menurut perusahaan, masih memenuhi ketentuan POJK No. 33/POJK.04/2014, baik dari sisi jumlah minimum anggota maupun proporsi Komisaris Independen, sehingga fungsi pengawasan tetap dijalankan secara kolegial oleh anggota Dewan Komisaris yang tersisa sesuai Anggaran Dasar perusahaan.",
+   "Soal pengisian definitif kursi Komisaris Utama yang kosong, perusahaan belum menyebutkan nama calon pengganti maupun jadwal pastinya. Perusahaan hanya menyatakan proses tersebut akan diputuskan dan ditindaklanjuti sesuai mekanisme Anggaran Dasar dan ketentuan perundang-undangan yang berlaku."
+  ],
+  "fotoAdegan": "Rows of industrial gas cylinders stacked in a factory storage yard, a forklift operator working in the background, overcast sky",
+  "takeaway": "Laporan ini netral bagi fundamental Samator Indo Gas, karena intinya soal pergantian kepengurusan akibat wafatnya Komisaris Utama, bukan soal kinerja usaha atau keuangan perusahaan. Kejadian ini tidak menyentuh pos-pos yang biasa dipantau pelaku pasar seperti modal pemegang saham, arus kas, beban bunga, atau laba per saham, sebab sifatnya administratif terkait struktur pengawasan, bukan transaksi keuangan. Yang perlu dipantau berikutnya adalah kapan dan melalui mekanisme apa pemegang saham mengisi definitif kursi Komisaris Utama tersebut, karena laporan ini tidak menyebutkan tenggat waktu maupun nama calon pengganti. Selama kursi itu kosong, pengawasan terhadap manajemen tetap berjalan secara kolektif oleh anggota Dewan Komisaris yang ada, dan perusahaan mengklaim komposisi dewan masih memenuhi batas minimum serta proporsi komisaris independen yang disyaratkan regulator.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "rugi-pssi-balik-rugi-liabilitas-melonjak-34",
   "category": "Aksi Korporasi",
   "title": "[Rugi] PSSI Balik Rugi, Liabilitas Melonjak 34%",
@@ -1081,6 +1186,31 @@ var ARTICLES = [
   "fotoAdegan": "A chemical tanker docked at an Indonesian port, crew hosing the deck, cranes and pipelines in the background, late afternoon light.",
   "takeaway": "Laporan ini condong negatif bagi pemegang saham karena meski pendapatan naik sekitar 5 persen, laba bersih justru anjlok 39 persen dan laba per saham turun hampir 70 persen akibat biaya pokok dan bunga pinjaman yang naik lebih cepat dari penjualan. Yang tersentuh di sini adalah beban bunga, yakni biaya yang harus dibayar perseroan atas pinjaman banknya, dan laba per saham, yaitu bagian laba yang secara teori menjadi hak setiap lembar saham yang dipegang investor, dua pos yang dipakai pelaku pasar untuk menilai apakah ekspansi aset perseroan benar-benar menghasilkan laba yang sepadan. Kenaikan aset tetap dan pinjaman bank jangka panjang menunjukkan perseroan sedang menambah kapasitas armada dengan utang, yang untuk sementara menekan margin lewat beban bunga yang lebih besar. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit yang wajib disampaikan sesuai POJK No. 14/POJK.04/2022, untuk melihat apakah tren kenaikan beban bunga dan tekanan laba ini berlanjut atau mulai mereda.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "xgld-unit-etf-emas-susut-4-juta-via-penebusan",
+  "category": "Aksi Korporasi",
+  "title": "XGLD: Unit ETF Emas Susut 4 Juta via [Penebusan]",
+  "deck": "Jumlah unit penyertaan ETF emas syariah XGLD berkurang dari 84 juta menjadi 80 juta unit, efektif tercatat dengan jumlah baru mulai 2 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T07:18:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e4c8548145_3b12a20580.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XGLD",
+  "tags": [
+   "XGLD",
+   "ETF emas",
+   "reksa dana syariah",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan penyesuaian pencatatan unit penyertaan reksa dana berbentuk Kontrak Investasi Kolektif (KIK) bernama RD Syariah Premier ETF Gold Sharia Indonesia dengan kode XGLD, melalui surat No. Peng-P-01075/BEI.PP3/10-2026 tertanggal 31 Oktober 2026. Dalam pengumuman itu, sebanyak 4.000.000 unit dihapus dari pencatatan dan tidak ada unit baru yang ditambahkan, sehingga total unit yang tercatat di papan reksa dana KIK menjadi 80.000.000 unit. Pencatatan dan perdagangan dengan jumlah unit baru ini mulai berlaku efektif pada 2 November 2026. Pengumuman ditandatangani oleh Pande Made Kusuma Ari A selaku Kadiv Pengaturan dan Operasional Perdagangan, serta Lidia M. Panjaitan selaku Kadiv Penilaian Perusahaan 3.",
+   "Penyesuaian ini merujuk pada laporan yang sebelumnya disampaikan pengelola dana melalui surat No. 1491/IPIM-RD/X/2026 tertanggal 30 Oktober 2026, ditandatangani Mita Darmawan dengan jabatan Fund Settlement. Laporan itu mencatat jumlah unit penyertaan XGLD yang beredar sebelumnya sebanyak 84.000.000 unit, tanpa ada penambahan unit baru, namun berkurang 4.000.000 unit akibat penebusan, sehingga jumlah unit beredar setelah perubahan menjadi 80.000.000 unit."
+  ],
+  "fotoAdegan": "Technician in a secure vault inspecting neatly stacked small gold bars on metal shelving under cool white light",
+  "takeaway": "Laporan ini netral bagi pengelola dana, karena pengurangan unit terjadi lewat mekanisme penebusan yang rutin pada produk ETF, bukan tanda masalah pada emas yang menjadi aset dasarnya. Yang tersentuh di sini adalah jumlah unit penyertaan beredar, yang perannya mirip jumlah saham beredar pada emiten biasa: makin besar jumlahnya, makin besar pula dana kelolaan dan likuiditas perdagangan di bursa. Turunnya jumlah unit dari 84 juta menjadi 80 juta berarti dana kelolaan ETF ini mengecil sekitar 4,76 persen dalam periode pelaporan, yang biasa terjadi saat investor menukar kembali unitnya, misalnya untuk mengambil untung dari pergerakan harga emas. Yang perlu dipantau selanjutnya adalah apakah tren penebusan ini berlanjut pada laporan jumlah unit periode berikutnya, serta bagaimana jumlah unit beredar bergerak setelah pencatatan dengan jumlah baru berlaku efektif pada 2 November 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "smfp-resmi-catatkan-obligasi-dan-sukuk-senilai-rp3-09-triliun",
@@ -1320,6 +1450,83 @@ var ARTICLES = [
   "fotoAdegan": "Workers tending large outdoor fish ponds at a tropical aquaculture farm, nets and aerators visible, overcast daylight",
   "takeaway": "Laporan ini condong negatif bagi IIKP, karena penjualan yang nyaris hilang dan rugi yang terus melebar menunjukkan bisnis inti penangkaran arowana belum menemukan jalan untuk pulih, meski ada sisi yang lebih baik berupa kas operasional yang terpakai jauh lebih sedikit dibanding tahun lalu. Pos yang paling tersentuh adalah ekuitas, yaitu kekayaan bersih yang tersisa untuk pemegang saham setelah dikurangi semua utang, yang terus menyusut karena rugi menumpuk setiap periode, serta laba (dalam hal ini rugi) per saham yang menunjukkan beban rugi yang ditanggung setiap lembar saham milik investor. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan 2026 yang telah diaudit, untuk melihat apakah penurunan penjualan yang drastis ini berlanjut atau hanya sementara, dan apakah ada langkah konkret menghidupkan kembali dua anak usaha yang kini tidak aktif.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "xdes-tambah-2-1-juta-unit-etf-emas-bri-mi-syariah",
+  "category": "Aksi Korporasi",
+  "title": "XDES Tambah [2,1 Juta] Unit ETF Emas BRI MI Syariah",
+  "deck": "BEI mencatat tambahan 2,1 juta unit penyertaan Reksa Dana Syariah BRI MI Gold ETF Syariah (XDES), total unit beredar naik jadi 6,6 juta efektif 2 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T00:34:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/826262c5fc_95beebb13b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XDES",
+  "tags": [
+   "XDES",
+   "ETF emas",
+   "BRI MI",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan tambahan unit penyertaan untuk Reksa Dana Syariah BRI MI Gold ETF Syariah dengan kode KIK XDES. Berdasarkan laporan manajer investasi BRI Manajemen Investasi (BRI-MI), jumlah unit penyertaan yang beredar bertambah 2.100.000 unit, dari sebelumnya 4.500.000 unit menjadi 6.600.000 unit per 29 Oktober 2026. Tidak ada unit yang dihapus dalam penyesuaian kali ini, sehingga seluruh perubahan berasal dari penambahan murni. Pencatatan dan perdagangan atas unit tambahan tersebut mulai berlaku 2 November 2026.",
+   "Laporan mengenai perubahan jumlah unit ini disampaikan oleh Luthfi Azizul Hakim selaku IT & Operations Division Head BRI-MI melalui surat nomor S-35/2066/BRI-MI/ITO tertanggal 29 Oktober 2026. Menindaklanjuti laporan tersebut, BEI menerbitkan pengumuman resmi bernomor Peng-P-01190/BEI.PP2/10-2026, yang ditandatangani oleh Kadiv Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A serta Kadiv Penilaian Perusahaan 2 Adi Pratomo Aryanto."
+  ],
+  "fotoAdegan": "Stacks of gold bullion bars inside a bank vault, soft overhead lighting reflecting off the metal surfaces",
+  "takeaway": "Penambahan unit ini condong positif bagi reksa dana ini, karena mencerminkan masuknya dana segar dari investor yang menukar aset ke dalam ETF, bukan penarikan dana keluar. Yang tersentuh adalah jumlah unit penyertaan beredar, setara dengan jumlah saham beredar pada saham biasa, yang naik 46,7 persen dari 4,5 juta menjadi 6,6 juta unit dalam satu periode pencatatan. Pelaku pasar memperhatikan pos ini karena lonjakan unit beredar yang cukup besar dalam waktu singkat biasanya menandakan dana kelolaan produk ini ikut membesar, menunjukkan minat investor yang menguat terhadap ETF emas syariah ini. Yang perlu dipantau berikutnya adalah realisasi perdagangan atas unit tambahan ini begitu mulai tercatat pada 2 November 2026, serta apakah tren penambahan unit ini berlanjut pada periode pencatatan selanjutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "buva-catat-83-juta-saham-baru-dari-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Catat 83 Juta Saham Baru dari [HMETD]",
+  "deck": "BEI mencatatkan 83,07 juta saham baru BUVA hasil exercise rights issue per 2 November 2026, total saham beredar BUVA naik jadi 30,08 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T00:28:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dea8defad6_7f55b4c37e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "rights issue",
+   "HMETD",
+   "pencatatan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatatkan 83.066.103 saham baru PT Bukit Uluwatu Villa Tbk (BUVA) di Papan Pencatatan Pengembangan, hasil dari pelaksanaan Hak Memesan Efek Terlebih Dahulu (HMETD) atau rights issue. Dengan penambahan ini, jumlah saham BUVA yang tercatat di bursa naik dari 29.994.600.049 saham menjadi 30.077.666.152 saham. Tanggal pencatatan saham baru ini ditetapkan 2 November 2026, sesuai pengumuman resmi BEI bernomor Peng-RI-00061/BEI.PP2/10-2026.",
+   "Surat dari PT Electronic Data Interchange Indonesia (EDI Indonesia), selaku biro administrasi efek BUVA, menyebutkan bahwa exercise HMETD tersebut dilakukan pada 29 Oktober 2026. Setelah penambahan ini, masih ada 693.652.150 lembar HMETD BUVA yang tercatat di BEI namun belum dieksekusi oleh pemegangnya.",
+   "Pencatatan ini merupakan bagian dari proses penambahan modal lewat rights issue (PMHMETD II) yang sebelumnya diberitakan berpotensi mendilusi kepemilikan pemegang saham lama hingga 203,11 persen. Jumlah saham yang baru tercatat kali ini relatif kecil dibandingkan total saham BUVA yang sudah beredar, namun sisa hak yang belum dieksekusi menunjukkan proses rights issue ini masih berjalan dan berpotensi menambah saham beredar lagi ke depan."
+  ],
+  "fotoAdegan": "A tropical villa resort with thatched roofs and an infinity pool overlooking cliffs in Bali, early morning light",
+  "takeaway": "Laporan ini netral bagi BUVA, karena penambahan 83,07 juta saham hanya setara 0,28 persen dari total saham yang sudah beredar, jadi efeknya ke pemegang saham lama masih sangat kecil untuk tahap ini. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, yakni keuntungan bersih perusahaan yang dibagi rata ke setiap lembar saham, karena makin banyak saham baru beredar, makin kecil porsi laba yang jatuh ke setiap lembar meski labanya sendiri tidak berubah. Yang perlu dipantau selanjutnya adalah nasib 693,65 juta lembar HMETD yang masih belum dieksekusi, karena jika seluruhnya dipakai pemegangnya, total saham beredar BUVA akan bertambah lagi dan dilusi dari aksi rights issue PMHMETD II ini bisa berlanjut sampai periode pelaksanaannya selesai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pack-catatkan-1-15-juta-saham-baru-dari-konversi-owk",
+  "category": "Aksi Korporasi",
+  "title": "PACK catatkan [1,15 juta] saham baru dari konversi OWK",
+  "deck": "Dua kali konversi obligasi wajib konversi PACK pada akhir Oktober menambah 1.152.680 saham baru, saham beredar emiten jadi 34,14 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Oktober 2026",
+  "isoDate": "2026-10-31T00:23:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4def9b8759_ad40218e39.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "obligasi wajib konversi",
+   "pencatatan saham",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan tambahan saham PT Abadi Nusantara Hijau Investama Tbk (PACK) yang berasal dari pelaksanaan konversi Obligasi Wajib Konversi (OWK) berkode PACK-01-CB. Saham baru sebanyak 1.152.680 lembar akan resmi tercatat di bursa pada 2 November 2026, membuat total saham PACK yang tercatat naik dari 34.138.935.631 menjadi 34.140.088.311 lembar.",
+   "Penambahan ini berasal dari dua kali konversi berturut-turut. Pertama, pemegang OWK melaksanakan konversi pada 27 Oktober dan sahamnya diterbitkan 29 Oktober 2026, mengubah 304.140 unit OWK senilai nominal Rp30,41 juta menjadi 304.140 saham baru. Kedua, konversi berikutnya dilaksanakan 28 Oktober dan diterbitkan 30 Oktober 2026, mengubah 848.540 unit OWK senilai nominal Rp84,85 juta menjadi 848.540 saham baru.",
+   "Dengan dua konversi tersebut, sisa OWK PACK yang belum dikonversi menjadi saham turun dari nilai nominal Rp4,54 miliar menjadi Rp4,43 miliar, atau setara 44.250.033 unit OWK yang masih beredar dan berpotensi dikonversi menjadi saham di kemudian hari."
+  ],
+  "fotoAdegan": "Wide exterior view of modern office towers in Jakarta's financial district at late afternoon, light traffic on the street below",
+  "takeaway": "Perubahan ini netral bagi fundamental PACK karena penambahan 1.152.680 saham baru hanya setara sekitar 0,0034 persen dari total 34,14 miliar saham yang sudah beredar, jadi dampaknya ke pemegang saham lama praktis tidak terasa. Yang tersentuh di sini adalah jumlah saham beredar dan sisa utang obligasi wajib konversi, yakni surat utang yang wajib dilunasi dalam bentuk saham bukan uang tunai, sehingga setiap konversi otomatis mengurangi beban utang perusahaan tanpa mengeluarkan kas sepeser pun, meski di sisi lain menambah jumlah saham yang bisa sedikit mengecilkan laba per saham di masa depan. Yang perlu dipantau selanjutnya adalah sisa OWK senilai Rp4,43 miliar atau 44,25 juta unit yang belum dikonversi, sebab jika seluruhnya dikonversi secara bertahap, dampak kumulatifnya terhadap jumlah saham beredar bisa menjadi lebih terasa. Saham hasil dua konversi ini dijadwalkan resmi tercatat di Bursa Efek Indonesia pada 2 November 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "bola-rugi-rp105-6-miliar-9-bulan-ekuitas-turun-13",

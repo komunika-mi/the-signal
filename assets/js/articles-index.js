@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "boss-baru-lapor-lk-semester-i-2024-defisit-modal-melebar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Baru Lapor LK Semester I/2024, [Defisit] Modal Melebar",
+  "deck": "Laporan keuangan semester I 2024 yang baru disetor ke bursa dua tahun kemudian menunjukkan BOSS masih tanpa penjualan dan arus kas operasional makin boros.",
+  "date": "1 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "defisiensi modal",
+   "laporan keuangan interim",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261101232859-65658-0/FinancialStatement-2024-II-BOSS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "asha-cetak-rugi-rp10-4-miliar-di-kuartal-iii-2026-ekuitas-susut",
   "category": "Aksi Korporasi",
   "title": "ASHA Cetak [Rugi] Rp10,4 Miliar di Kuartal III 2026, Ekuitas Susut",
@@ -202,6 +218,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475986-kisah-dari-batang-mengubah-stigma-lewat-peluang-kerja-inklusif-bagi-penyandang-disabilitas"
+ },
+ {
+  "slug": "visi-atlas-raya-abadi-tambah-saham-lewat-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "VISI: Atlas Raya Abadi Tambah Saham Lewat [PMTHMETD]",
+  "deck": "PT Atlas Raya Abadi menambah 24,14 juta saham VISI senilai sekitar Rp24 miliar lewat penambahan modal tanpa hak memesan efek terlebih dahulu, hak suaranya naik ke 10,53%.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "kepemilikan saham",
+   "PMTHMETD",
+   "Atlas Raya Abadi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-31102026-7721-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-harmoni-semesta-tambah-saham-rp72-miliar-lewat-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "VISI: Harmoni Semesta [Tambah] Saham Rp72 Miliar Lewat PMTHMETD",
+  "deck": "PT Harmoni Semesta Investama menambah kepemilikan di VISI lewat penerbitan saham baru senilai sekitar Rp72 miliar, namun hak suaranya justru turun tipis ke 61,77 persen.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "PMTHMETD",
+   "Harmoni Semesta Investama",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-31102026-4857-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pajak-ekonomi-digital-tembus-rp58-75-triliun-per-september",
@@ -611,6 +659,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475873-harga-emas-antam-hari-ini-31-oktober-2026-lagi-lagi-menurun-kini-jadi-rp2526000-per-gram"
  },
  {
+  "slug": "agii-komisaris-utama-heyzer-harsono-wafat",
+  "category": "Aksi Korporasi",
+  "title": "AGII: Komisaris Utama [Heyzer Harsono] Wafat",
+  "deck": "Komisaris Utama AGII, Heyzer Harsono, meninggal dunia pada 30 Oktober 2026. Perusahaan menyatakan tidak ada dampak material terhadap operasional atau keuangan.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGII",
+   "Komisaris Utama",
+   "Pergantian Pengurus",
+   "Keterbukaan Informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da74c3c626_2a56601544.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rugi-pssi-balik-rugi-liabilitas-melonjak-34",
   "category": "Aksi Korporasi",
   "title": "[Rugi] PSSI Balik Rugi, Liabilitas Melonjak 34%",
@@ -672,6 +736,22 @@ var ARTICLES = [
    "pelayaran"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031085014-65570-0/FinancialStatement-2026-III-HITS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xgld-unit-etf-emas-susut-4-juta-via-penebusan",
+  "category": "Aksi Korporasi",
+  "title": "XGLD: Unit ETF Emas Susut 4 Juta via [Penebusan]",
+  "deck": "Jumlah unit penyertaan ETF emas syariah XGLD berkurang dari 84 juta menjadi 80 juta unit, efektif tercatat dengan jumlah baru mulai 2 November 2026.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XGLD",
+   "ETF emas",
+   "reksa dana syariah",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e4c8548145_3b12a20580.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -817,6 +897,54 @@ var ARTICLES = [
    "rugi bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031004505-65611-0/FinancialStatement-2026-III-IIKP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xdes-tambah-2-1-juta-unit-etf-emas-bri-mi-syariah",
+  "category": "Aksi Korporasi",
+  "title": "XDES Tambah [2,1 Juta] Unit ETF Emas BRI MI Syariah",
+  "deck": "BEI mencatat tambahan 2,1 juta unit penyertaan Reksa Dana Syariah BRI MI Gold ETF Syariah (XDES), total unit beredar naik jadi 6,6 juta efektif 2 November 2026.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XDES",
+   "ETF emas",
+   "BRI MI",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/826262c5fc_95beebb13b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-catat-83-juta-saham-baru-dari-hmetd",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Catat 83 Juta Saham Baru dari [HMETD]",
+  "deck": "BEI mencatatkan 83,07 juta saham baru BUVA hasil exercise rights issue per 2 November 2026, total saham beredar BUVA naik jadi 30,08 miliar lembar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "rights issue",
+   "HMETD",
+   "pencatatan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dea8defad6_7f55b4c37e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-catatkan-1-15-juta-saham-baru-dari-konversi-owk",
+  "category": "Aksi Korporasi",
+  "title": "PACK catatkan [1,15 juta] saham baru dari konversi OWK",
+  "deck": "Dua kali konversi obligasi wajib konversi PACK pada akhir Oktober menambah 1.152.680 saham baru, saham beredar emiten jadi 34,14 miliar lembar.",
+  "date": "31 Oktober 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "obligasi wajib konversi",
+   "pencatatan saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4def9b8759_ad40218e39.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6360,138 +6488,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475126-ditengarai-libatkan-perusahaan-asing-kementerian-esdm-periksa-kebun-sawit-yang-jalankan-usaha-tambang"
- },
- {
-  "slug": "esdm-selidiki-kebun-sawit-yang-diduga-rangkap-usaha-tambang",
-  "category": "Energi",
-  "title": "ESDM [Selidiki] Kebun Sawit yang Diduga Rangkap Usaha Tambang",
-  "deck": "Kementerian ESDM akan memeriksa kebun kelapa sawit yang diduga ikut menjalankan usaha tambang tanpa izin tambahan, dengan sejumlah perusahaan asing disebut turut didalami.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/esdm-selidiki-kebun-sawit-yang-diduga-rangkap-usaha-tambang.jpg",
-  "imageV": "mvpinxrd",
-  "tags": [
-   "ESDM",
-   "Kelapa Sawit",
-   "Tambang Ilegal",
-   "Bahlil Lahadalia"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/ditengarai-libatkan-perusahaan-asing-esdm-dalami-kebun-sawit-yang-jalankan-usaha-tambang",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "ekspor-gas-pipa-dipotong-8-diprioritaskan-untuk-pln",
-  "category": "Energi",
-  "title": "Ekspor Gas Pipa Dipotong [8%], Diprioritaskan untuk PLN",
-  "deck": "Pemerintah memangkas ekspor gas pipa ke negara tetangga sekitar 8 persen untuk mengamankan pasokan PLN dan industri, masih dalam batas kontrak menurut Menteri ESDM.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/ekspor-gas-pipa-dipotong-8-diprioritaskan-untuk-pln.jpg",
-  "imageV": "mvpinzkn",
-  "tags": [
-   "ekspor gas",
-   "ESDM",
-   "PLN",
-   "industri"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pangkas-ekspor-gas-8-persen-bahlil-tak-ada-kontrak-yang-dilanggar",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "program-mbg-serap-100-ribu-pekerja-di-bogor",
-  "category": "Ketenagakerjaan",
-  "title": "Program MBG Serap [100 Ribu] Pekerja di Bogor",
-  "deck": "KPPG Bogor mengklaim program Makan Bergizi Gratis membuka hampir 100 ribu lapangan kerja baru di tujuh wilayah penyangga, dari Cianjur hingga Purwakarta.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/program-mbg-serap-100-ribu-pekerja-di-bogor.jpg",
-  "imageV": "mvpio01l",
-  "tags": [
-   "MBG",
-   "Ketenagakerjaan",
-   "Bogor",
-   "Dapur Gizi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475121-program-mbg-buka-lapangan-kerja-baru-100-ribu-pekerja-diserap-kppg-bogor"
- },
- {
-  "slug": "viva-panggil-rups-konversi-utang-rp1-72-t-jadi-saham-17-nov",
-  "category": "Aksi Korporasi",
-  "title": "VIVA Panggil RUPS, [Konversi] Utang Rp1,72 T Jadi Saham 17 Nov",
-  "deck": "RUPST dan RUPSLB VIVA digelar 17 November 2026, membahas pengesahan laporan tahunan 2025 serta rencana mengubah utang PKPU Rp1,72 triliun menjadi saham baru Seri C.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VIVA",
-   "RUPS",
-   "PMTHMETD",
-   "PKPU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11e333be53_e9fce125c9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-tahap-vi-dan-us-25-juta",
-  "category": "Aksi Korporasi",
-  "title": "OPPM Tawarkan Obligasi [Rp3,33 Triliun] Tahap VI dan US$25 Juta",
-  "deck": "OPPM membuka masa penawaran obligasi rupiah hingga Rp3,33 triliun dan obligasi dolar AS hingga US$25 juta, tahap keenam dan kelima dari program obligasi berkelanjutan senilai Rp12 triliun.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OPPM",
-   "obligasi",
-   "pulp dan kertas",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c429a4ba3b_3fb9f87e66.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "andi-aps-lepas-seluruh-699-97-juta-saham-hak-suara-ke-0",
-  "category": "Aksi Korporasi",
-  "title": "ANDI: APS [Lepas] Seluruh 699,97 Juta Saham, Hak Suara ke 0%",
-  "deck": "Anugerah Perkasa Semesta menjual seluruh 699,97 juta saham ANDI, setara 7,486% hak suara, seharga Rp30 per lembar pada 26 Oktober 2026 untuk tujuan divestasi.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANDI",
-   "Andira Agro",
-   "kepemilikan saham",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-9671-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mmix-mengky-mangarek-tambah-saham-ke-6-02",
-  "category": "Aksi Korporasi",
-  "title": "MMIX: Mengky Mangarek [Tambah] Saham ke 6,02%",
-  "deck": "Pemegang saham MMIX, Mengky Mangarek, menambah kepemilikan 1 juta lembar saham pada 23 Oktober 2026, menaikkan porsinya dari 6,00 persen menjadi 6,02 persen.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MMIX",
-   "kepemilikan saham",
-   "insider",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f48cf3c465_591c460512.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "andi-cep-lepas-2-38-miliar-saham-hak-suara-ke-24-22",
-  "category": "Aksi Korporasi",
-  "title": "ANDI: CEP Lepas 2,38 Miliar Saham, Hak Suara ke [24,22%]",
-  "deck": "Central Energi Pratama melepas 2,385 miliar saham Andira Agro lewat skema repurchase agreement pada 26 Oktober 2026, menurunkan hak suaranya dari 49,73% menjadi 24,22%.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANDI",
-   "Andira Agro",
-   "perubahan pemegang saham",
-   "pengendali baru"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-5417-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

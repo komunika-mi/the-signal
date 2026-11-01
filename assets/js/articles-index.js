@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "asha-cetak-rugi-rp10-4-miliar-di-kuartal-iii-2026-ekuitas-susut",
+  "category": "Aksi Korporasi",
+  "title": "ASHA Cetak [Rugi] Rp10,4 Miliar di Kuartal III 2026, Ekuitas Susut",
+  "deck": "Rugi bersih ASHA melebar jadi Rp10,39 miliar pada sembilan bulan 2026 meski penjualan naik 69 persen, sementara ekuitas turun dan kas operasi masih minus.",
+  "date": "1 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASHA",
+   "laporan keuangan",
+   "industri perikanan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101215039-65652-0/FinancialStatement-2026-III-ASHA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indr-bukukan-laba-us-12-7-juta-berbalik-dari-rugi-tahun-lalu",
   "category": "Aksi Korporasi",
   "title": "INDR Bukukan Laba US$12,7 Juta, [Berbalik] dari Rugi Tahun Lalu",
@@ -6475,22 +6491,6 @@ var ARTICLES = [
    "pemegang saham pengendali"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b36a8387c6_a0c4112f0c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "swid-tarik-pinjaman-rp70-miliar-dari-bank-raya-untuk-hotel-alana",
-  "category": "Aksi Korporasi",
-  "title": "SWID Tarik [Pinjaman] Rp70 Miliar dari Bank Raya untuk Hotel Alana",
-  "deck": "Saraswanti Indoland (SWID) menarik pinjaman Rp70 miliar dari PT Bank Raya Indonesia untuk membiayai operasional Hotel The Royal Alana Yogyakarta, setara 25,43 persen dari ekuitas perseroan.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SWID",
-   "pinjaman bank",
-   "properti",
-   "perhotelan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e76cce9115_376a0315c8.pdf",
   "sourceLabel": "IDX"
  }
 ];

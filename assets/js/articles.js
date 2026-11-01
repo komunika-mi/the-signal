@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "asha-cetak-rugi-rp10-4-miliar-di-kuartal-iii-2026-ekuitas-susut",
+  "category": "Aksi Korporasi",
+  "title": "ASHA Cetak [Rugi] Rp10,4 Miliar di Kuartal III 2026, Ekuitas Susut",
+  "deck": "Rugi bersih ASHA melebar jadi Rp10,39 miliar pada sembilan bulan 2026 meski penjualan naik 69 persen, sementara ekuitas turun dan kas operasi masih minus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 November 2026",
+  "isoDate": "2026-11-01T21:35:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101215039-65652-0/FinancialStatement-2026-III-ASHA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASHA",
+  "tags": [
+   "ASHA",
+   "laporan keuangan",
+   "industri perikanan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Cilacap Samudera Fishing Industry Tbk (ASHA) melaporkan rugi bersih Rp10,39 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, melebar dari rugi Rp6,75 miliar pada periode yang sama tahun 2025. Kerugian tetap melebar meski penjualan justru naik jadi Rp187,57 miliar dari Rp110,79 miliar, dan laba kotor nyaris dua kali lipat menjadi Rp8,92 miliar dari Rp4,72 miliar. Penyebabnya, pendapatan lain-lain perusahaan anjlok drastis dari Rp6,30 miliar menjadi hanya Rp402 juta, sementara beban umum dan administrasi masih tinggi di Rp14,49 miliar. Rugi per saham dasar melebar menjadi Rp2,08 dari Rp1,35 pada periode sebelumnya.",
+   "Dari sisi posisi keuangan, total aset nyaris tidak berubah di Rp126,41 miliar, tapi total liabilitas melonjak 57,26 persen menjadi Rp28,78 miliar dari Rp18,30 miliar akhir 2025. Kenaikan ini terutama didorong utang usaha ke pihak ketiga yang naik 137,36 persen menjadi Rp18,87 miliar karena pembelian kredit yang bertambah dan tagihan pemasok yang belum dibayar. Piutang usaha ke pihak ketiga juga naik 108,98 persen menjadi Rp48,59 miliar seiring penjualan kredit yang meningkat, dan persediaan naik 62,15 persen menjadi Rp22,38 miliar untuk menjaga stok. Sebaliknya, piutang lain-lain dari pihak berelasi senilai Rp21 miliar yang tercatat akhir 2025 sudah lunas seluruhnya pada periode ini. Akibat rugi yang berlanjut, ekuitas perusahaan turun dari Rp108,02 miliar menjadi Rp97,63 miliar.",
+   "Dari laporan arus kas, kegiatan operasional perusahaan masih membutuhkan kas Rp27,62 miliar karena pembayaran ke pemasok dan karyawan lebih besar dari penerimaan dari pelanggan. Kekurangan ini ditutup dari aktivitas pendanaan, terutama penerimaan dana dari pihak berelasi sebesar Rp22,32 miliar, serta dari aktivitas investasi berupa hasil penjualan aset tetap Rp5,91 miliar. Direksi menyatakan laporan ini bersifat interim dan belum diaudit, disampaikan sesuai kewajiban pelaporan berkala serta keterbukaan atas perubahan pos aset dan liabilitas yang melampaui 20 persen."
+  ],
+  "fotoAdegan": "Fishing boats docked at a busy Indonesian harbor, workers unloading crates of fresh catch at dawn, overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi fundamental ASHA karena rugi bersih justru melebar menjadi Rp10,39 miliar meski penjualan tumbuh 69 persen dibanding periode yang sama tahun lalu. Pos yang paling tersentuh adalah ekuitas, yaitu modal yang menjadi hak pemegang saham, yang turun dari Rp108,02 miliar menjadi Rp97,63 miliar karena rugi yang terus menggerus saldo laba perusahaan. Arus kas dari kegiatan usaha sehari-hari juga masih defisit Rp27,62 miliar, sehingga kebutuhan kas perusahaan ditutup dari pinjaman pihak berelasi senilai Rp22,32 miliar, bukan dari hasil operasi sendiri. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang akan diaudit, karena angka di laporan ini masih berstatus tidak diaudit dan bisa berubah setelah pemeriksaan akuntan publik, termasuk apakah ketergantungan pada dana pihak berelasi ini masih berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "indr-bukukan-laba-us-12-7-juta-berbalik-dari-rugi-tahun-lalu",
   "category": "Aksi Korporasi",
   "title": "INDR Bukukan Laba US$12,7 Juta, [Berbalik] dari Rugi Tahun Lalu",

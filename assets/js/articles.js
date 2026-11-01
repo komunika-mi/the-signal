@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indr-bukukan-laba-us-12-7-juta-berbalik-dari-rugi-tahun-lalu",
+  "category": "Aksi Korporasi",
+  "title": "INDR Bukukan Laba US$12,7 Juta, [Berbalik] dari Rugi Tahun Lalu",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan Indo-Rama Synthetics membalik rugi US$10,5 juta tahun lalu menjadi laba US$12,7 juta, didorong lonjakan laba kotor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 November 2026",
+  "isoDate": "2026-11-01T20:38:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101205125-65609-0/FinancialStatement-2026-III-INDR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDR",
+  "tags": [
+   "INDR",
+   "laporan keuangan",
+   "tekstil",
+   "laba kuartalan"
+  ],
+  "body": [
+   "PT Indo-Rama Synthetics Tbk (INDR) menyampaikan laporan keuangan interim untuk sembilan bulan pertama 2026, dengan periode berakhir 30 September 2026, yang masih berstatus tidak diaudit. Pendapatan perusahaan tekstil ini naik menjadi US$652,1 juta dari US$557,2 juta pada periode yang sama tahun lalu. Yang lebih mencolok, laba kotor melonjak dari US$4,5 juta menjadi US$37,2 juta, tanda bahwa selisih antara harga jual dan biaya produksi melebar jauh dibanding tahun sebelumnya.",
+   "Perbaikan margin ini membawa Indo-Rama Synthetics berbalik dari posisi rugi menjadi laba. Pada sembilan bulan pertama 2025 perusahaan mencatat rugi bersih US$10,5 juta, sementara periode yang sama tahun ini membukukan laba bersih US$12,7 juta, atau laba per saham dasar US$0,0162, berbanding rugi per saham US$0,0243 setahun sebelumnya. Dari sisi utang, pinjaman bank jangka pendek turun dari US$36,1 juta menjadi US$23,2 juta, dan pinjaman bank jangka panjang turun dari US$77,1 juta menjadi US$68,4 juta. Kas dan setara kas naik dari US$18,8 juta menjadi US$27,8 juta, didukung arus kas dari aktivitas operasi sebesar US$46,3 juta, naik dari US$36,7 juta pada periode yang sama tahun lalu.",
+   "Total aset perusahaan naik menjadi US$790,8 juta dari US$778,5 juta pada akhir 2025, sementara total ekuitas bertambah menjadi US$392,8 juta dari US$383,5 juta. Laporan ini juga mencantumkan daftar sembilan anak usaha, termasuk PT TDM Minerals Trading yang baru berdiri tahun 2026 dengan kepemilikan 51,05 persen di bidang perdagangan batu bara, melengkapi anak usaha tambang batu bara PT Tigadaya Minergy yang sudah beroperasi sejak 2007. Laporan ini ditandatangani oleh Presiden Direktur Vishnu Swaroop Baldwa pada 30 Oktober 2026, yang menyatakan bertanggung jawab atas kelengkapan dan kebenaran informasi di dalamnya."
+  ],
+  "fotoAdegan": "Workers tending rows of yarn spinning machines in a large textile factory, spools of thread, industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi Indo-Rama Synthetics, karena perusahaan berhasil membalik rugi bersih US$10,5 juta tahun lalu menjadi laba US$12,7 juta pada periode yang sama tahun ini, didorong oleh melebarnya selisih antara harga jual dan biaya produksi. Yang paling bergerak adalah laba kotor, yang berlipat lebih dari delapan kali dari US$4,5 juta menjadi US$37,2 juta, dan dampaknya langsung terasa di laba per saham yang berbalik dari rugi 0,0243 dolar menjadi untung 0,0162 dolar per saham, angka yang jadi acuan pasar untuk menilai berapa bagian laba yang jatuh ke setiap pemegang saham. Penurunan pinjaman bank jangka pendek dan jangka panjang juga berarti beban bunga ke depan berpotensi lebih ringan, sementara kas di tangan perusahaan bertambah seiring arus kas operasi yang lebih kuat. Karena laporan ini masih berstatus tidak diaudit, yang perlu dipantau selanjutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, yang akan menjadi konfirmasi independen atas angka-angka yang disampaikan Perseroan kali ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "indonesia-teken-pakta-pajak-global-tukar-data-mulai-2027",
   "category": "Makroekonomi",
   "title": "Indonesia Teken Pakta Pajak Global, Tukar Data Mulai [2027]",

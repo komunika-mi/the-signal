@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indr-bukukan-laba-us-12-7-juta-berbalik-dari-rugi-tahun-lalu",
+  "category": "Aksi Korporasi",
+  "title": "INDR Bukukan Laba US$12,7 Juta, [Berbalik] dari Rugi Tahun Lalu",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan Indo-Rama Synthetics membalik rugi US$10,5 juta tahun lalu menjadi laba US$12,7 juta, didorong lonjakan laba kotor.",
+  "date": "1 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDR",
+   "laporan keuangan",
+   "tekstil",
+   "laba kuartalan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101205125-65609-0/FinancialStatement-2026-III-INDR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-teken-pakta-pajak-global-tukar-data-mulai-2027",
   "category": "Makroekonomi",
   "title": "Indonesia Teken Pakta Pajak Global, Tukar Data Mulai [2027]",
@@ -6475,22 +6491,6 @@ var ARTICLES = [
    "perhotelan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e76cce9115_376a0315c8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "andi-pjs-beli-3-08-miliar-saham-rp30-lembar-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "ANDI: PJS Beli 3,08 Miliar Saham Rp30/Lembar [Pengendali]",
-  "deck": "PT Puncak Jaya Sejahtera resmi membeli 3.085.500.000 saham ANDI seharga Rp30 per lembar, mengangkat hak suaranya dari 0% jadi 33% dan menjadikannya pengendali baru.",
-  "date": "26 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANDI",
-   "Andira Agro",
-   "pengendali saham",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26102026-1415-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -289,7 +289,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Dari tiga data ini, titik yang perlu dicermati adalah inflasi pangan bergejolak yang justru naik ke 5,81 persen, berlawanan arah dengan inflasi inti yang melandai ke 2,56 persen, dan ini didorong harga cabai serta tomat akibat kemarau panjang El Nino. Yang paling terdampak adalah konsumen rumah tangga, sementara eksportir komoditas seperti batu bara, sawit, dan karet justru diuntungkan oleh surplus dagang yang berlanjut tiga bulan beruntun. Pemerintah sendiri mengakui risiko ini dengan menyiapkan langkah antisipasi pasokan pangan menjelang Natal dan Tahun Baru, tanda bahwa kekhawatiran belum reda meski inflasi keseluruhan masih di rentang sasaran. Klaim bahwa turunnya impor migas disebabkan program biodiesel B50 juga perlu dicatat sebagai versi pemerintah, bukan angka yang sudah diverifikasi independen. Yang akan menunjukkan apakah tekanan harga pangan ini mereda atau membesar adalah data inflasi November, terutama komponen volatile food, yang biasanya dirilis awal Desember.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "hari-ritel-nasional-2026-dimulai-umkm-didorong-masuk-ritel",
@@ -843,7 +843,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret dari data ini ada dua arah yang berlawanan: inflasi pangan bergejolak tahunan naik dari 5,03 jadi 5,81 persen karena harga cabai melonjak akibat produksi turun di daerah sentra, sementara tiket pesawat ikut naik karena maskapai mulai mengenakan biaya tambahan bahan bakar 40 persen untuk penerbangan domestik kelas ekonomi. Yang terdampak langsung adalah rumah tangga yang berbelanja cabai dan bumbu dapur, petani cabai di daerah yang produksinya turun, serta penumpang pesawat domestik kelas ekonomi yang kini membayar lebih mahal. Pola ini mengarah ke pergeseran sumber tekanan harga, dari inflasi inti yang justru melambat ke inflasi pangan dan tarif transportasi yang naik, bukan perlambatan inflasi yang merata di semua sektor. Yang akan memastikan arah ini adalah data inflasi November 2026 yang biasa dirilis awal Desember, terutama apakah harga cabai mulai turun seiring panen baru atau kenaikan tarif pesawat mulai merambat lebih luas menjelang musim libur akhir tahun.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "surplus-dagang-ri-berlanjut-tapi-tipis-ke-us-3-36-miliar",
@@ -870,7 +871,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Surplus dagang memang berlanjut, tapi nilainya menyusut dari US$3,55 miliar pada Agustus menjadi US$3,36 miliar pada September, jadi bukan tren yang terus menguat. Penopang utamanya tetap ekspor barang nonmigas, yakni barang selain minyak dan gas, seperti minyak sawit, perhiasan dari logam mulia, mesin listrik, dan besi baja, dengan Tiongkok, Amerika Serikat, dan India sebagai pembeli terbesar. Yang perlu dicermati adalah penyempitan defisit dagang minyak dan gas, yang terjadi bukan karena ekspor migas naik, melainkan karena impor migas turun lebih cepat daripada ekspornya, pola yang bisa berarti permintaan bahan bakar dan energi di dalam negeri sedang melambat. Pihak yang paling terdampak adalah eksportir komoditas dan manufaktur di atas, serta industri yang bergantung pasokan energi impor. Kepastian soal pelemahan permintaan domestik ini baru akan terlihat dari data impor migas Oktober 2026 yang akan dirilis BPS dan BI bulan depan, apakah penurunannya berlanjut atau cuma sementara.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "dmmx-berbalik-rugi-rp9-58-miliar-utang-bank-melonjak-27",

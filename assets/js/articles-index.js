@@ -199,6 +199,70 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "indf-tanggapi-bei-soal-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "INDF Tanggapi BEI soal [Penyelidikan] Karhutla Singapura",
+  "deck": "Indofood menjelaskan ke BEI bahwa anak usahanya, Indofood Agri Resources, dipanggil otoritas Singapura terkait penyelidikan karhutla, dan prosesnya masih berjalan.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDF",
+   "karhutla",
+   "Singapura",
+   "SIMP"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a108e94d68_ce6e3a80b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "simp-tanggapi-bursa-sebut-induk-usaha-disoal-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "SIMP Tanggapi Bursa, Sebut Induk Usaha Disoal [Karhutla] Singapura",
+  "deck": "SIMP menjelaskan ke Bursa Efek Indonesia bahwa pihak yang dipanggil otoritas Singapura terkait isu karhutla adalah induk usahanya, Indofood Agri Resources Ltd, bukan perseroan secara langsung.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SIMP",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "Indofood Agri Resources"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c9f745ba39_13a914c846.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lsip-tanggapi-bursa-induk-tak-langsung-disebut-soal-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "LSIP Tanggapi Bursa, Induk Tak Langsung Disebut Soal [Karhutla]",
+  "deck": "Lonsum menjawab permintaan penjelasan Bursa Efek Indonesia soal pemanggilan otoritas Singapura ke induk usaha tidak langsungnya, Indofood Agri Resources, terkait isu kebakaran hutan.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LSIP",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "Singapura"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/06bbf61851_c910241271.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kras-komisaris-adityo-haryo-bimo-mundur",
+  "category": "Aksi Korporasi",
+  "title": "KRAS: Komisaris Adityo Haryo Bimo [Mundur]",
+  "deck": "Krakatau Steel melaporkan pengunduran diri Adityo Haryo Bimo dari Dewan Komisaris per 1 November 2026, disebut tidak berdampak material bagi operasional perusahaan.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KRAS",
+   "Krakatau Steel",
+   "Dewan Komisaris",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d44b52c2c2_54eb509f1b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "irsx-jawab-bei-soal-koreksi-laporan-keuangan-kuartal-i-2026",
   "category": "Aksi Korporasi",
   "title": "IRSX Jawab BEI soal [Koreksi] Laporan Keuangan Kuartal I 2026",
@@ -360,6 +424,70 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bmhs-catat-laba-anjlok-95-meski-pendapatan-naik",
+  "category": "Aksi Korporasi",
+  "title": "BMHS Catat Laba [Anjlok] 95% Meski Pendapatan Naik",
+  "deck": "Laba bersih Bundamedik (BMHS) turun 95 persen jadi Rp1,05 miliar pada sembilan bulan 2026 meski pendapatan naik ke Rp1,19 triliun, akibat beban usaha dan bunga yang naik lebih cepat.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMHS",
+   "Bundamedik",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204657-65464-0/FinancialStatement-2026-III-BMHS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suri-catat-laba-bersih-rp11-3-miliar-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "SURI Catat [Laba] Bersih Rp11,3 Miliar per September 2026",
+  "deck": "Produsen sarung tangan medis PT Maja Agung Latexindo Tbk membalik rugi jadi laba Rp11,3 miliar dalam sembilan bulan 2026, didukung penjualan dan kas operasional yang menguat.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SURI",
+   "laporan keuangan",
+   "sarung tangan medis",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204650-65471-0/FinancialStatement-2026-III-SURI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kpig-laba-bersih-turun-42-saham-baru-picu-dilusi",
+  "category": "Aksi Korporasi",
+  "title": "KPIG: Laba Bersih Turun 42%, Saham Baru Picu [Dilusi]",
+  "deck": "Laba bersih KPIG turun 42 persen jadi Rp361 miliar pada sembilan bulan 2026, sementara penerbitan saham baru tanpa hak memesan terlebih dahulu menambah saham beredar hampir 8 persen.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KPIG",
+   "MNC Tourism",
+   "laporan keuangan",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204210-65002-0/FinancialStatement-2026-III-KPIG.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbap-laba-9-bulan-melonjak-ke-us-16-8-juta-kas-operasi-positif",
+  "category": "Aksi Korporasi",
+  "title": "MBAP: [Laba] 9 Bulan Melonjak ke US$16,8 Juta, Kas Operasi Positif",
+  "deck": "Laba bersih Mitrabara Adiperdana melonjak ke US$16,8 juta pada sembilan bulan 2026, dari US$293.905 setahun sebelumnya, ditopang pendapatan naik 29 persen dan kas operasi berbalik positif.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBAP",
+   "laporan keuangan",
+   "batu bara",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204710-65072-0/FinancialStatement-2026-III-MBAP.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-turki-jajaki-pta-target-dagang-us-10-miliar",
   "category": "Global",
   "title": "Indonesia-Turki Jajaki [PTA], Target Dagang US$10 Miliar",
@@ -406,6 +534,70 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823926.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "dmmx-berbalik-rugi-rp9-58-miliar-utang-bank-melonjak-27",
+  "category": "Aksi Korporasi",
+  "title": "DMMX Berbalik [Rugi] Rp9,58 Miliar, Utang Bank Melonjak 27%",
+  "deck": "Pendapatan sembilan bulan DMMX turun lebih dari 60 persen dan laba berbalik jadi rugi Rp9,58 miliar, sementara utang bank melonjak 27,82 persen jadi Rp226,53 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMMX",
+   "laporan keuangan",
+   "utang bank",
+   "emiten teknologi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102195234-64977-0/FinancialStatement-2026-III-DMMX.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ceka-jelaskan-ke-bei-bukan-subjek-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "CEKA Jelaskan ke BEI, Bukan Subjek Penyelidikan [Karhutla] Singapura",
+  "deck": "CEKA menyatakan tidak menjadi subjek penyelidikan karhutla Singapura. Yang diperiksa adalah Wilmar International, pemegang saham pengendali tidak langsungnya.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CEKA",
+   "karhutla",
+   "Wilmar International",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d1fc48c36d_9d122e871e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmri-jelaskan-ke-bursa-soal-penerbitan-obligasi-at1",
+  "category": "Aksi Korporasi",
+  "title": "BMRI Jelaskan ke Bursa Soal Penerbitan Obligasi [AT1]",
+  "deck": "Bank Mandiri menjawab permintaan penjelasan Bursa Efek Indonesia tentang obligasi perpetual AT1 bertingkat bunga awal 7,35 persen, termasuk peran anak usahanya sebagai salah satu penjamin emisi.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMRI",
+   "AT1",
+   "obligasi perpetual",
+   "Bank Mandiri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d24697bb8e_9eba2c9eeb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-tguk-balik-untung-rp3-08-miliar-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "[Laba] TGUK Balik Untung Rp3,08 Miliar Kuartal III 2026",
+  "deck": "Setelah rugi Rp18,17 miliar tahun lalu, TGUK cetak laba Rp3,08 miliar pada sembilan bulan 2026, didukung efisiensi gerai dan utang baru terkait rencana pengambilalihan.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGUK",
+   "laporan keuangan",
+   "rencana pengambilalihan",
+   "Teguk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204604-65439-0/FinancialStatement-2026-III-TGUK.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "aadi-tegaskan-daftar-pengendali-sejak-ipo-ke-ojk",
@@ -6282,200 +6474,6 @@ var ARTICLES = [
    "tata kelola perusahaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b39a7a8bd4_8f480433e0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bptr-laba-bersih-melonjak-170-persen-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "BPTR: Laba Bersih [Melonjak] 170 Persen di Kuartal III 2026",
-  "deck": "Laba bersih BPTR naik hampir tiga kali lipat jadi Rp35,5 miliar dalam sembilan bulan 2026, ditopang pendapatan yang tumbuh 20 persen dan pelunasan utang jangka pendek.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BPTR",
-   "laporan keuangan",
-   "transportasi",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028140022-64970-0/FinancialStatement-2026-III-BPTR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hatm-beli-kapal-rp457-miliar-transaksi-material-tanpa-rups",
-  "category": "Aksi Korporasi",
-  "title": "HATM Beli Kapal Rp457 Miliar, [Transaksi Material] Tanpa RUPS",
-  "deck": "Habco Trans Maritima membeli kapal bulk carrier senilai Rp457,1 miliar dari Coastline Shipping Limited, setara 27,92 persen ekuitas, tanpa perlu persetujuan RUPS.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HATM",
-   "transaksi material",
-   "kapal bulk carrier",
-   "ekspansi armada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e9cf13f826_c09cd34ce3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asha-gelar-rupslb-ratifikasi-keterlambatan-pengangkatan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "ASHA Gelar RUPSLB, Ratifikasi [Keterlambatan] Pengangkatan Direksi",
-  "deck": "RUPSLB ASHA pada 19 November 2026 akan membahas dispensasi keterlambatan pengangkatan direksi dan komisaris, pergantian susunan pengurus, serta penyesuaian klasifikasi usaha perseroan.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASHA",
-   "RUPSLB",
-   "Direksi",
-   "Tata Kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a5dfe6863b_9b3b769ff9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bkpm-cabut-izin-tambang-emas-di-nabire-papua",
-  "category": "Industri",
-  "title": "BKPM [Cabut] Izin Tambang Emas di Nabire, Papua",
-  "deck": "BKPM mencabut izin usaha pertambangan emas PT Kristalin Ekalestari di Nabire, Papua Tengah, setelah perusahaan terbukti menambang di kawasan hutan tanpa izin.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/bkpm-cabut-izin-tambang-emas-di-nabire-papua.jpg",
-  "imageV": "mvrowb3m",
-  "tags": [
-   "BKPM",
-   "Tambang",
-   "Papua",
-   "Kehutanan"
-  ],
-  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/keminveshil-bkpm-resmi-cabut-izin-usaha-pertambangan-iup-pt-kristalin-ekalestari-di-papua",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "11-dari-14-provinsi-sulampua-catat-inflasi-di-atas-target",
-  "category": "Makroekonomi",
-  "title": "11 dari 14 Provinsi Sulampua Catat [Inflasi] di Atas Target",
-  "deck": "Pemerintah menggelar rapat koordinasi pengendalian inflasi di Sulawesi, Maluku, dan Papua setelah 11 dari 14 provinsi mencatat inflasi tahunan di atas ambang batas nasional pada September 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/petani-sawah.jpg",
-  "tags": [
-   "Inflasi",
-   "Sulampua",
-   "Ketahanan Pangan",
-   "TPIP-TPID"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7189/sinergi-tpip-dan-tpid-wilayah-sulampua-perkuat-konektivitas-dan-efisiensi-rantai-pasok-untuk-mendukung-ketahanan-pangan",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "zyrx-rugi-rp21-8-miliar-di-kuartal-iii-2026-penjualan-turun-20",
-  "category": "Aksi Korporasi",
-  "title": "ZYRX [Rugi] Rp21,8 Miliar di Kuartal III 2026, Penjualan Turun 20%",
-  "deck": "Produsen komputer ZYRX membalik laba jadi rugi bersih Rp21,8 miliar pada sembilan bulan 2026, seiring penjualan turun dan beban bunga melonjak.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZYRX",
-   "Zyrexindo",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028122343-64474-0/FinancialStatement-2026-III-ZYRX.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jpfa-bagi-dividen-interim-rp90-per-saham-capai-rp1-05-triliun",
-  "category": "Aksi Korporasi",
-  "title": "JPFA Bagi [Dividen] Interim Rp90 per Saham, Capai Rp1,05 Triliun",
-  "deck": "JAPFA Comfeed membagikan dividen interim tunai Rp90 per saham, total Rp1,05 triliun, dengan pembayaran dijadwalkan 12 November 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JPFA",
-   "dividen interim",
-   "JAPFA Comfeed",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4658e9dfdf_264ceb7088.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "midi-laba-alfamidi-tumbuh-19-ke-rp705-6-miliar-di-9-bulan",
-  "category": "Aksi Korporasi",
-  "title": "MIDI: [Laba] Alfamidi Tumbuh 19% ke Rp705,6 Miliar di 9 Bulan",
-  "deck": "Laba bersih Alfamidi naik 19,4 persen jadi Rp705,6 miliar pada sembilan bulan 2026, ditopang kenaikan pendapatan 9,2 persen meski kas menyusut akibat ekspansi gerai dan dividen.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MIDI",
-   "Alfamidi",
-   "laporan keuangan",
-   "ritel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028120909-64725-0/FinancialStatement-2026-III-MIDI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "padi-berbalik-rugi-kuartal-iii-ekuitas-terdongkrak-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "PADI Berbalik Rugi Kuartal III, [Ekuitas] Terdongkrak Rights Issue",
-  "deck": "PADI mencatat rugi neto Rp1,1 miliar pada sembilan bulan 2026, berbalik dari laba Rp24,7 miliar setahun lalu, setelah menggelar rights issue Rp113 miliar dan melunasi utang bank serta subordinasi.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PADI",
-   "rugi kuartalan",
-   "rights issue",
-   "sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028115502-65147-0/FinancialStatement-2026-III-PADI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-rampungkan-mesop-tahap-2-25-79-juta-opsi-dieksekusi",
-  "category": "Aksi Korporasi",
-  "title": "ERAA Rampungkan [MESOP] Tahap 2, 25,79 Juta Opsi Dieksekusi",
-  "deck": "Erajaya Swasembada menyelesaikan pelaksanaan opsi saham karyawan tahap kedua, menutup seluruh 51,54 juta opsi program MESOP tanpa sisa yang belum dieksekusi.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "MESOP",
-   "Erajaya Swasembada",
-   "opsi saham karyawan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3be6a30b5c_a3d3895552.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "spre-laba-bersih-turun-62-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "SPRE: Laba Bersih [Turun] 62% di Kuartal III 2026",
-  "deck": "Laba bersih Soraya Berjaya Indonesia (SPRE) turun 62 persen menjadi Rp663,57 juta pada sembilan bulan 2026, sementara total liabilitas malah turun 29 persen setelah pelunasan utang usaha dan bank.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SPRE",
-   "laporan keuangan",
-   "tekstil",
-   "kinerja emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028115937-64907-0/FinancialStatement-2026-III-SPRE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "koci-laba-9m-turun-41-uang-muka-penjualan-naik-162",
-  "category": "Aksi Korporasi",
-  "title": "KOCI: Laba 9M Turun 41%, [Uang Muka] Penjualan Naik 162%",
-  "deck": "Laporan keuangan interim kuartal III 2026 KOCI mencatat laba bersih turun 41 persen secara tahunan, sementara uang muka penjualan rumah melonjak 162 persen dari akhir 2025.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOCI",
-   "laporan keuangan",
-   "properti",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028112018-64929-0/FinancialStatement-2026-III-KOCI.pdf",
   "sourceLabel": "IDX"
  }
 ];

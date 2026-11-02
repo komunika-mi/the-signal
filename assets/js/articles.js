@@ -320,6 +320,111 @@ var ARTICLES = [
   "imageV": "mvzfi0z2"
  },
  {
+  "slug": "indf-tanggapi-bei-soal-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "INDF Tanggapi BEI soal [Penyelidikan] Karhutla Singapura",
+  "deck": "Indofood menjelaskan ke BEI bahwa anak usahanya, Indofood Agri Resources, dipanggil otoritas Singapura terkait penyelidikan karhutla, dan prosesnya masih berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T22:24:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a108e94d68_ce6e3a80b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDF",
+  "tags": [
+   "INDF",
+   "karhutla",
+   "Singapura",
+   "SIMP"
+  ],
+  "body": [
+   "PT Indofood Sukses Makmur Tbk (INDF) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI nomor S-13502/BEI.PP2/10-2026 tanggal 29 Oktober 2026. BEI meminta Indofood mengklarifikasi pemberitaan bahwa perseroan, entitas anak, atau afiliasinya menjadi subjek penyelidikan otoritas Pemerintah Singapura terkait kebakaran hutan dan lahan. Jawaban Indofood dikirim lewat surat nomor 046/ISM/CS/XI/26 tanggal 2 November 2026, ditandatangani Corporate Secretary Victor Suhendra.",
+   "Dalam jawabannya, Indofood mengonfirmasi bahwa salah satu pihak yang dipanggil dan menghadiri pertemuan dengan otoritas Singapura adalah entitas anaknya, Indofood Agri Resources Ltd (IFAR). Proses ini disebut masih berjalan dan IFAR masih menunggu arahan lebih lanjut dari otoritas Singapura. IFAR menyatakan akan bekerja sama dengan otoritas tersebut sambil tetap mematuhi aturan di Singapura maupun Indonesia, mengingat kegiatan perkebunan sebenarnya dijalankan oleh entitas anak IFAR, yaitu PT Salim Ivomas Pratama Tbk (SIMP), perusahaan yang berbadan hukum Indonesia.",
+   "Indofood merujuk pada keterbukaan informasi SIMP tanggal 15 Oktober 2026 yang menjawab surat BEI lain, nomor S-13053/BEI.PP2/10-2026 tertanggal 13 Oktober 2026. SIMP menjelaskan bahwa lahan perkebunannya tersebar di Jawa, Sumatra, Kalimantan, dan Sulawesi, sesuai Laporan Tahunan 2025 halaman 106-107. SIMP menyebut karhutla 2026 meningkat signifikan akibat musim kemarau panjang, curah hujan mendekati nol, dan fenomena El Nino berkepanjangan, ditambah faktor pembukaan lahan dengan cara membakar oleh pihak lain. Sebagai mitigasi, SIMP menerapkan kebijakan larangan pembakaran (zero burning), pembersihan lahan secara mekanis, pemantauan titik api lewat data satelit NOAA dan NASA yang dicocokkan dengan peta konsesi, serta menyediakan kendaraan dan peralatan pemadam kebakaran di setiap perkebunan.",
+   "Indofood dan SIMP menegaskan bahwa sampai saat ini belum ada dampak material terhadap kegiatan usaha atau kelangsungan usaha perseroan, dan belum ada kewajiban kontinjensi atau provisi yang perlu diakui dalam laporan keuangan terkait isu karhutla ini. BEI sebelumnya juga menanyakan dampak rencana Pemerintah Singapura mengamendemen Transboundary Haze Pollution Act, yang akan mengkategorikan ketidakkooperatifan perusahaan dalam penyelidikan sebagai tindak pidana, namun jawaban Indofood hanya menegaskan komitmen kepatuhan pada regulasi kedua negara tanpa merinci dampak spesifik dari rencana amendemen tersebut."
+  ],
+  "fotoAdegan": "Plantation workers patrolling an oil palm estate edge near hazy smoke, carrying firefighting gear under an overcast tropical sky",
+  "takeaway": "Laporan ini condong negatif bagi Indofood karena memperlihatkan anak usahanya, IFAR lewat SIMP, masih berstatus diperiksa otoritas Singapura terkait karhutla, dengan risiko hukum yang bisa membesar jika rencana amendemen undang-undang haze Singapura benar mengkriminalisasi ketidakkooperatifan perusahaan. Pos yang perlu diperhatikan investor adalah potensi kewajiban kontinjensi, yaitu beban keuangan yang baru tercatat di laporan keuangan kalau proses hukum atau sanksi benar-benar terjadi, dan untuk saat ini Indofood maupun SIMP menegaskan belum ada yang perlu diakui. Yang perlu dipantau berikutnya adalah arahan lanjutan dari otoritas Singapura kepada IFAR yang belum punya tenggat waktu pasti, serta kelanjutan rencana amendemen Transboundary Haze Pollution Act yang bisa mengubah tingkat risiko hukum bagi grup usaha ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "simp-tanggapi-bursa-sebut-induk-usaha-disoal-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "SIMP Tanggapi Bursa, Sebut Induk Usaha Disoal [Karhutla] Singapura",
+  "deck": "SIMP menjelaskan ke Bursa Efek Indonesia bahwa pihak yang dipanggil otoritas Singapura terkait isu karhutla adalah induk usahanya, Indofood Agri Resources Ltd, bukan perseroan secara langsung.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T22:18:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c9f745ba39_13a914c846.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SIMP",
+  "tags": [
+   "SIMP",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "Indofood Agri Resources"
+  ],
+  "body": [
+   "Salim Ivomas Pratama Tbk (SIMP) menjawab permintaan penjelasan dari Bursa Efek Indonesia nomor S-13500/BEI.PP2/10-2026 tanggal 29 Oktober 2026. Bursa meminta SIMP menjelaskan pemberitaan mengenai pemanggilan oleh otoritas Singapura terkait isu kebakaran hutan dan lahan (karhutla), termasuk rencana Singapura mengamendemen Transboundary Haze Pollution Act agar ketidakkooperatifan perusahaan dalam penyelidikan bisa dikenai pidana. Jawaban SIMP disampaikan lewat surat bernomor SIMP/030/CS/EXT/XI/26 tanggal 2 November 2026 yang ditandatangani Corporate Secretary Meyke Ayuningrum.",
+   "Dalam tanggapannya, SIMP menyatakan bahwa berdasarkan informasi media, pihak yang menerima pemanggilan dan menghadiri pertemuan dengan otoritas Singapura adalah entitas induk perseroan, yaitu Indofood Agri Resources Ltd, bukan SIMP secara langsung. Sampai surat itu dikirim, SIMP mengaku belum menerima klarifikasi apa pun dari induk usahanya mengenai kelanjutan pemanggilan tersebut. Merujuk keterbukaan informasi sebelumnya pada 15 Oktober 2026, SIMP menegaskan tetap menjalankan kebijakan larangan pembakaran (zero burning policy), memantau titik api di area perkebunan, melengkapi lokasi dengan kendaraan dan peralatan pemadam kebakaran, melatih karyawan secara rutin, serta melaporkan dampak lingkungan bulanan ke Kementerian Lingkungan Hidup dan Kehutanan dan ke kepolisian bila ada kebakaran.",
+   "SIMP menyatakan kegiatan usahanya, mulai dari perkebunan hingga operasional pabrik, berjalan normal tanpa gangguan atau dampak material akibat isu karhutla ini. Karena itu, perseroan menilai belum ada kewajiban kontinjensi, provisi, atau informasi material lain yang perlu diakui maupun diungkapkan dalam laporan keuangan maupun keterbukaan informasi terkait isu ini, dan tidak ada fakta material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers in protective gear checking a water pump truck beside a palm oil plantation under a hazy grey sky",
+  "takeaway": "Laporan ini kami nilai netral bagi SIMP: tidak ada kabar keuangan baru yang memburuk, tapi urusan pemanggilan otoritas Singapura ke induk usahanya belum tuntas karena SIMP sendiri mengaku belum mendapat klarifikasi dari Indofood Agri Resources Ltd. Yang tersentuh adalah pos kewajiban kontinjensi, yaitu potensi beban atau denda yang baru akan tercatat di laporan keuangan kalau penyelidikan nanti terbukti menemukan kesalahan, dan pelaku pasar mengamatinya karena bila pembeli minyak sawit global mulai mempersoalkan rekam jejak lingkungan grup usaha, permintaan dan harga jual produk SIMP bisa ikut tertekan. Yang perlu dipantau berikutnya adalah apakah Indofood Agri Resources Ltd akhirnya memberi klarifikasi resmi ke SIMP soal hasil pertemuannya dengan otoritas Singapura, serta kelanjutan rencana amendemen Transboundary Haze Pollution Act yang bisa menjadikan ketidakkooperatifan perusahaan sebagai tindak pidana di Singapura.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lsip-tanggapi-bursa-induk-tak-langsung-disebut-soal-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "LSIP Tanggapi Bursa, Induk Tak Langsung Disebut Soal [Karhutla]",
+  "deck": "Lonsum menjawab permintaan penjelasan Bursa Efek Indonesia soal pemanggilan otoritas Singapura ke induk usaha tidak langsungnya, Indofood Agri Resources, terkait isu kebakaran hutan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T22:14:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/06bbf61851_c910241271.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LSIP",
+  "tags": [
+   "LSIP",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "Singapura"
+  ],
+  "body": [
+   "PT PP London Sumatra Indonesia Tbk (LSIP) menyampaikan tanggapan resmi atas permintaan penjelasan dari Bursa Efek Indonesia (BEI) melalui surat bernomor S-13501/BEI.PP2/10-2026 tanggal 29 Oktober 2026. Bursa meminta Lonsum menjelaskan pemberitaan yang menyebut adanya pemanggilan dan permintaan informasi dari otoritas Pemerintah Singapura terkait isu kebakaran hutan dan lahan (karhutla). Tanggapan itu disampaikan melalui surat bernomor CS-57/LSIP/XI/2026 tanggal 2 November 2026 yang ditandatangani Fajar Triadi selaku Corporate Secretary.",
+   "Dalam suratnya, Lonsum menjelaskan bahwa berdasarkan informasi media, pihak yang menerima pemanggilan dan menghadiri pertemuan dengan otoritas Singapura adalah Indofood Agri Resources Ltd, entitas induk tidak langsung perusahaan, bukan Lonsum sendiri. Sampai saat ini Lonsum mengaku belum mendapat informasi atau klarifikasi dari induk usaha tersebut mengenai kelanjutan proses itu. Permintaan penjelasan Bursa juga menyinggung rencana Pemerintah Singapura mengamendemen Transboundary Haze Pollution Act sehingga ketidakkooperatifan perusahaan dalam penyelidikan bisa dikategorikan sebagai tindak pidana.",
+   "Lonsum menegaskan kembali kebijakan larangan pembakaran (zero burning policy) yang sudah disampaikan dalam keterbukaan informasi sebelumnya pada 15 Oktober 2026. Perusahaan mengklaim rutin memantau titik api di area perkebunan dan sekitarnya, melengkapi kebun dengan kendaraan dan peralatan pemadam kebakaran, mewajibkan pelatihan tanggap darurat bagi karyawan, serta berkolaborasi dengan masyarakat sekitar untuk pencegahan kebakaran. Perusahaan juga wajib melapor bulanan secara daring ke Kementerian Lingkungan Hidup dan Kehutanan, dan melaporkan setiap kejadian kebakaran ke kepolisian setempat.",
+   "Lonsum menyatakan kegiatan usahanya tetap berjalan normal tanpa gangguan atau dampak material pada operasional perkebunan maupun pabrik. Karena itu, perusahaan menilai belum ada kewajiban kontinjensi, provisi, atau informasi material lain yang perlu diakui maupun diungkapkan dalam laporan keuangan atau keterbukaan informasi terkait isu karhutla ini. Lonsum juga menyatakan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan kepada publik."
+  ],
+  "fotoAdegan": "Workers in boots patrolling the edge of an oil palm plantation checking for smoke under a hazy tropical sky",
+  "takeaway": "Catatan saya: laporan ini netral karena Lonsum menegaskan belum ada dampak finansial langsung dan operasinya tetap normal, meski ketidakpastian soal induk usahanya belum selesai. Yang disinggung di sini adalah potensi kewajiban kontinjensi, yaitu kewajiban yang baru akan tercatat di laporan keuangan kalau risiko tertentu benar-benar terjadi, misalnya jika penyelidikan di Singapura berkembang jadi tuntutan hukum atau pembeli minyak sawit mengurangi pembelian dari grup usaha ini. Sampai saat laporan ini terbit, Lonsum sendiri mengaku belum mendapat klarifikasi dari induk usaha tidak langsungnya, Indofood Agri Resources Ltd, soal bagaimana pemanggilan oleh otoritas Singapura itu berlanjut. Yang perlu dipantau selanjutnya adalah apakah Singapura benar mengesahkan amendemen Transboundary Haze Pollution Act yang bisa menjerat pidana perusahaan yang tidak kooperatif dalam penyelidikan, dan apakah Lonsum menerbitkan keterbukaan informasi baru begitu mendapat kejelasan dari induk usahanya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kras-komisaris-adityo-haryo-bimo-mundur",
+  "category": "Aksi Korporasi",
+  "title": "KRAS: Komisaris Adityo Haryo Bimo [Mundur]",
+  "deck": "Krakatau Steel melaporkan pengunduran diri Adityo Haryo Bimo dari Dewan Komisaris per 1 November 2026, disebut tidak berdampak material bagi operasional perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T22:07:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d44b52c2c2_54eb509f1b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KRAS",
+  "tags": [
+   "KRAS",
+   "Krakatau Steel",
+   "Dewan Komisaris",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "Krakatau Steel (Persero) Tbk melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa pada 1 November 2026 perusahaan menerima surat pengunduran diri dari Adityo Haryo Bimo, yang menjabat sebagai anggota Dewan Komisaris Perseroan. Laporan ini disampaikan oleh Corporate Secretary KRAS, Rariya Budi Harta, pada 2 November 2026, sesuai ketentuan keterbukaan informasi berdasarkan POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Efek Indonesia Nomor I-E.",
+   "Dalam dokumen yang sama, manajemen Krakatau Steel menyatakan bahwa pengunduran diri Adityo tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan. Dokumen tidak menjelaskan alasan di balik pengunduran diri tersebut, dan tidak ada keterangan tambahan mengenai siapa yang akan mengisi posisi yang ditinggalkan di jajaran komisaris."
+  ],
+  "fotoAdegan": "Wide view of a large integrated steel plant with blast furnace towers and pipe networks under hazy industrial sky in Cilegon",
+  "takeaway": "Laporan ini netral bagi Krakatau Steel, sebab yang mundur hanya satu dari beberapa anggota Dewan Komisaris dan dokumen tidak menyebut indikasi konflik atau masalah keuangan di baliknya. Dewan Komisaris bertugas mengawasi kinerja direksi, bukan menjalankan operasional harian perusahaan, sehingga pergantian di level ini biasanya tidak langsung mengubah ekuitas, arus kas, atau laba per saham, kecuali kalau pengunduran diri terkait temuan tata kelola yang lebih serius, yang tidak disebutkan di sini. Yang perlu dipantau berikutnya adalah proses pengisian kekosongan kursi komisaris ini, yang umumnya baru resmi lewat Rapat Umum Pemegang Saham Luar Biasa, serta apakah perusahaan akan mengungkap alasan pengunduran diri yang belum dijelaskan dalam laporan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "irsx-jawab-bei-soal-koreksi-laporan-keuangan-kuartal-i-2026",
   "category": "Aksi Korporasi",
   "title": "IRSX Jawab BEI soal [Koreksi] Laporan Keuangan Kuartal I 2026",
@@ -582,6 +687,110 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "bmhs-catat-laba-anjlok-95-meski-pendapatan-naik",
+  "category": "Aksi Korporasi",
+  "title": "BMHS Catat Laba [Anjlok] 95% Meski Pendapatan Naik",
+  "deck": "Laba bersih Bundamedik (BMHS) turun 95 persen jadi Rp1,05 miliar pada sembilan bulan 2026 meski pendapatan naik ke Rp1,19 triliun, akibat beban usaha dan bunga yang naik lebih cepat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T20:25:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204657-65464-0/FinancialStatement-2026-III-BMHS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMHS",
+  "tags": [
+   "BMHS",
+   "Bundamedik",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Bundamedik Tbk (BMHS) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK dan Bursa Efek Indonesia pada 2 November 2026, ditandatangani oleh Direktur Utama Agus Heru Darjono dan Direktur Cuncun Wijaya. Pendapatan neto perusahaan naik 2,8 persen, dari Rp1,15 triliun pada sembilan bulan pertama 2025 menjadi Rp1,19 triliun pada periode yang sama tahun ini. Namun laba sebelum pajak justru ambruk dari Rp26,13 miliar menjadi hanya Rp1,36 miliar, sehingga laba bersih periode berjalan turun dari Rp20,01 miliar menjadi Rp1,05 miliar, sekitar 95 persen lebih rendah dibanding tahun sebelumnya.",
+   "Penurunan laba ini terjadi karena beban usaha naik 5,4 persen menjadi Rp494,04 miliar, beban keuangan naik dari Rp50,48 miliar menjadi Rp53,04 miliar, dan beban operasi lain tercatat Rp15,74 miliar, hampir dua kali lipat dari Rp8,11 miliar pada periode sebelumnya. Laba bersih yang menjadi hak pemegang saham induk turun dari Rp12,25 miliar menjadi Rp4,67 miliar, sementara bagian kepentingan nonpengendali, yaitu pemegang saham minoritas di anak usaha, justru mencatat rugi Rp3,62 miliar dibanding untung Rp7,76 miliar pada tahun sebelumnya. Laba per saham dasar tercatat Rp0,5, turun dari Rp1,4 pada periode yang sama tahun lalu.",
+   "Dari sisi arus kas, kas bersih dari aktivitas operasi turun dari Rp50,98 miliar menjadi Rp16,51 miliar, sementara belanja modal untuk perolehan aset tetap melonjak dari Rp102,65 miliar menjadi Rp240,06 miliar. Untuk membiayainya, perusahaan menarik pinjaman bank baru senilai Rp171,76 miliar dan menerima suntikan modal Rp33,63 miliar dari pihak ketiga ke salah satu anak usahanya, sehingga saldo kas pada akhir September 2026 turun menjadi Rp751,07 miliar dari Rp826,58 miliar pada akhir 2025. Perusahaan juga membagikan dividen tunai Rp8,86 miliar kepada pemegang saham induk dan Rp11,96 miliar dari anak usaha kepada pemegang saham minoritasnya, sementara total ekuitas naik tipis menjadi Rp2,40 triliun dan total liabilitas naik 6,5 persen menjadi Rp1,73 triliun, terutama karena pinjaman bank jangka panjang bertambah menjadi Rp895,39 miliar."
+  ],
+  "fotoAdegan": "Nurses pushing a medical equipment cart through a quiet hospital corridor, soft morning light through large windows",
+  "takeaway": "Laporan kuartal ketiga ini condong negatif bagi Bundamedik, karena laba bersihnya anjlok tajam meski pendapatan usahanya justru naik, tanda bahwa biaya operasional dan beban bunga tumbuh lebih cepat daripada pemasukan. Yang tersentuh adalah laba per saham, yaitu bagian laba yang menjadi hak tiap lembar saham, yang turun dari Rp1,4 ke Rp0,5, serta arus kas dari kegiatan operasi, yakni uang tunai yang benar-benar masuk dari bisnis sehari-hari, yang susut dari Rp51 miliar ke Rp16,5 miliar sementara belanja modal untuk pembangunan aset melonjak dua kali lipat jadi Rp240 miliar. Beban bunga naik seiring pinjaman bank jangka panjang yang bertambah dari Rp721,9 miliar ke Rp895,4 miliar, sehingga porsi utang dalam struktur modal perusahaan ikut membesar. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk tahun penuh 2026, yang akan menunjukkan apakah tekanan laba di kuartal ketiga ini berlanjut atau mereda.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "suri-catat-laba-bersih-rp11-3-miliar-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "SURI Catat [Laba] Bersih Rp11,3 Miliar per September 2026",
+  "deck": "Produsen sarung tangan medis PT Maja Agung Latexindo Tbk membalik rugi jadi laba Rp11,3 miliar dalam sembilan bulan 2026, didukung penjualan dan kas operasional yang menguat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T20:23:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204650-65471-0/FinancialStatement-2026-III-SURI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SURI",
+  "tags": [
+   "SURI",
+   "laporan keuangan",
+   "sarung tangan medis",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Maja Agung Latexindo Tbk (SURI), produsen sarung tangan medis asal Deli Serdang, Sumatera Utara, melaporkan laba bersih Rp11,29 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari rugi bersih Rp5,44 miliar pada periode yang sama tahun sebelumnya. Penjualan bersih naik dari Rp113,05 miliar menjadi Rp121,98 miliar, sementara laba kotor melonjak dari Rp4,2 miliar menjadi Rp20,74 miliar seiring turunnya beban pokok penjualan. Laba per saham dasar dan dilusian berubah dari rugi Rp0,86 per saham menjadi laba Rp1,78 per saham.",
+   "Di sisi keuangan, kas dan setara kas perusahaan melonjak dari Rp672,69 juta pada akhir 2025 menjadi Rp60,97 miliar pada akhir September 2026, kenaikan yang hampir seluruhnya berasal dari arus kas operasi sebesar Rp61,09 miliar. Dalam surat terpisah kepada BEI yang ditandatangani Direktur Utama Imelda Lin, manajemen menjelaskan bahwa total aset naik 7,28 persen menjadi Rp414,63 miliar, didorong kenaikan kas tersebut, piutang usaha yang naik 4,74 persen menjadi Rp46,86 miliar, dan persediaan yang naik 43,9 persen menjadi Rp79,07 miliar. Sebaliknya, uang muka kepada pemasok turun 69,99 persen atau Rp54,84 miliar karena dana muka tersebut berubah menjadi persediaan jadi.",
+   "Total liabilitas perusahaan naik lebih tajam, 36,55 persen menjadi Rp62,87 miliar, dengan utang usaha pihak ketiga melonjak 54,31 persen menjadi Rp24,16 miliar dan utang pajak naik 77,81 persen menjadi Rp5,53 miliar. Kenaikan liabilitas di atas 20 persen inilah yang mewajibkan perusahaan menyampaikan surat penjelasan resmi kepada BEI sesuai Peraturan Bursa No. I-E. Jumlah ekuitas pada akhir September 2026 tercatat Rp351,75 miliar, naik dari Rp340,46 miliar pada akhir 2025, dengan susunan direksi yang masih dipimpin Imelda Lin sebagai Direktur Utama, didampingi Henry Patunru sebagai Direktur Keuangan."
+  ],
+  "fotoAdegan": "Workers sorting rows of pale latex medical gloves on a factory conveyor line under bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi SURI karena perusahaan membalik rugi bersih Rp5,44 miliar pada sembilan bulan 2025 menjadi laba Rp11,3 miliar pada periode yang sama tahun ini, dengan margin kotor yang ikut membaik tajam. Pos yang paling tersentuh adalah ekuitas dan laba per saham, karena laba yang mengalir ke saldo laba membuat jumlah ekuitas naik dari Rp340,46 miliar menjadi Rp351,75 miliar, sementara laba per saham, yaitu bagian laba yang jatuh ke setiap lembar saham, berubah dari rugi Rp0,86 menjadi laba Rp1,78, ukuran yang biasa dipakai investor untuk menilai seberapa produktif modal mereka dikelola. Arus kas dari kegiatan operasi juga melonjak menjadi Rp61,09 miliar dari sebelumnya hanya Rp2,62 miliar, menandakan laba di atas benar-benar berubah jadi uang tunai, bukan sekadar catatan akuntansi. Di sisi lain, kenaikan utang usaha 54,31 persen dan utang pajak 77,81 persen yang memicu surat penjelasan wajib ke BEI perlu terus dipantau agar tidak membebani arus kas pada kuartal mendatang, terutama menjelang penyampaian laporan keuangan audit tahun buku 2026 yang biasanya wajib disampaikan akhir April 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "kpig-laba-bersih-turun-42-saham-baru-picu-dilusi",
+  "category": "Aksi Korporasi",
+  "title": "KPIG: Laba Bersih Turun 42%, Saham Baru Picu [Dilusi]",
+  "deck": "Laba bersih KPIG turun 42 persen jadi Rp361 miliar pada sembilan bulan 2026, sementara penerbitan saham baru tanpa hak memesan terlebih dahulu menambah saham beredar hampir 8 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T20:20:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204210-65002-0/FinancialStatement-2026-III-KPIG.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KPIG",
+  "tags": [
+   "KPIG",
+   "MNC Tourism",
+   "laporan keuangan",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT MNC Tourism Indonesia Tbk (KPIG) melaporkan pendapatan neto Rp1,66 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, turun 20,5 persen dari Rp2,09 triliun pada periode yang sama tahun lalu. Laba bruto tergerus lebih dalam, dari Rp1,02 triliun menjadi Rp467,80 miliar. Setelah dikurangi beban penjualan, beban umum dan administrasi, beban keuangan, serta pajak, laba bersih perseroan tercatat Rp361,09 miliar, turun 42,3 persen dibanding Rp625,95 miliar pada sembilan bulan 2025. Dari jumlah itu, Rp355,03 miliar menjadi bagian pemilik entitas induk, sehingga laba per saham dasar turun dari Rp6,27 menjadi Rp3,46 per saham. Laporan keuangan interim ini tidak diaudit dan surat pernyataan direksinya diteken pada 30 Oktober 2026.",
+   "Dari sisi neraca, total aset KPIG naik tipis menjadi Rp36,90 triliun per 30 September 2026 dari Rp35,99 triliun di akhir 2025, didorong kenaikan kas dan setara kas menjadi Rp179,05 miliar serta properti investasi yang naik menjadi Rp7,30 triliun. Total liabilitas justru turun menjadi Rp6,95 triliun dari Rp7,23 triliun, terutama karena penurunan total utang bank dan pinjaman lain yang jatuh tempo. Kenaikan ekuitas menjadi Rp29,95 triliun dari Rp28,77 triliun sebagian besar berasal dari penerbitan 7,97 miliar saham baru tanpa hak memesan terlebih dahulu, yang menambah modal saham dan tambahan modal disetor senilai total Rp824,28 miliar setelah dipotong biaya emisi saham Rp460,07 juta. Dengan penerbitan ini, jumlah saham beredar KPIG bertambah dari 99,34 miliar menjadi 107,31 miliar saham.",
+   "Lampiran laporan juga mencantumkan daftar 12 entitas anak yang dikonsolidasikan. Dua yang asetnya terbesar adalah PT MNC Land Lido, yang mengelola resor dan lapangan golf di kawasan Lido dengan total aset Rp14,96 triliun, dan PT MNC Land Bali dengan aset Rp8,23 triliun. Dua entitas anak lain, PT MNC Development Bali (pengembang properti) dan PT Kios Ria Kreasi (hotel dan taman rekreasi di Bali), masih berstatus belum beroperasi dengan aset masing-masing Rp163,10 miliar dan Rp213,45 miliar."
+  ],
+  "fotoAdegan": "Groundskeepers trimming a tropical golf course lawn at a seaside resort complex, palm trees swaying, early morning light",
+  "takeaway": "Laporan ini condong negatif bagi KPIG, karena laba bersih anjlok 42,3 persen dan laba per saham turun hampir separuh dari Rp6,27 menjadi Rp3,46, sementara penerbitan saham baru tanpa hak memesan terlebih dahulu membuat porsi kepemilikan pemegang saham lama otomatis mengecil. Pos yang tersentuh adalah laba per saham, yakni laba bersih dibagi jumlah saham yang beredar, dan ini jadi acuan utama investor menilai kinerja per lembar saham yang mereka pegang; penambahan hampir 8 miliar saham baru membuat angka ini makin kecil meski labanya sama. Sisi positifnya, posisi utang membaik, total liabilitas turun jadi Rp6,95 triliun dari Rp7,23 triliun dan kas perusahaan naik jadi Rp179,05 miliar, tapi kenaikan modal sebesar Rp824,28 miliar lebih banyak berasal dari dana setoran pemegang saham baru ketimbang dari hasil usaha perseroan sendiri. Yang perlu dipantau berikutnya adalah laporan keuangan audit untuk tahun penuh 2026, serta apakah pendapatan dan laba bisa membaik di kuartal terakhir setelah tertekan selama tiga kuartal berturut-turut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mbap-laba-9-bulan-melonjak-ke-us-16-8-juta-kas-operasi-positif",
+  "category": "Aksi Korporasi",
+  "title": "MBAP: [Laba] 9 Bulan Melonjak ke US$16,8 Juta, Kas Operasi Positif",
+  "deck": "Laba bersih Mitrabara Adiperdana melonjak ke US$16,8 juta pada sembilan bulan 2026, dari US$293.905 setahun sebelumnya, ditopang pendapatan naik 29 persen dan kas operasi berbalik positif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T20:17:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204710-65072-0/FinancialStatement-2026-III-MBAP.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBAP",
+  "tags": [
+   "MBAP",
+   "laporan keuangan",
+   "batu bara",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Mitrabara Adiperdana Tbk (MBAP) melaporkan laba bersih konsolidasian sebesar US$16,8 juta untuk periode sembilan bulan yang berakhir 30 September 2026, melonjak dari hanya US$293.905 pada periode yang sama tahun 2025. Dari laporan keuangan interim yang belum diaudit itu, pendapatan perusahaan tambang batu bara ini naik 29 persen menjadi US$151,1 juta dari US$117,2 juta, sementara beban pokok pendapatan hampir tidak bergerak di kisaran US$106 juta. Akibatnya laba kotor melonjak hampir empat kali lipat menjadi US$45,2 juta dari US$11,6 juta, dan laba usaha melompat dari hampir nol, US$54.757, menjadi US$25,1 juta. Laba per saham dasar tercatat US$0,0139, naik dari US$0,0004 pada periode sebelumnya.",
+   "Dari sisi arus kas, aktivitas operasi menghasilkan kas bersih US$33,1 juta pada sembilan bulan 2026, berbalik dari yang justru menyedot kas US$11,6 juta pada periode sebelumnya. Belanja modal untuk aset tetap turun menjadi US$11,6 juta dari US$24,9 juta tahun lalu, sementara perusahaan mencatat pengeluaran kas US$5,5 juta untuk akuisisi entitas anak baru selama periode ini. Berbeda dengan sembilan bulan 2025 yang membagikan dividen tunai US$2,77 juta kepada pemegang saham, periode berjalan tahun ini tidak mencatat pembayaran dividen. Perusahaan juga menarik pinjaman bank baru sebesar US$6,1 juta dan membayar kembali US$0,7 juta, sehingga saldo utang bank jangka panjang naik menjadi US$34,1 juta per 30 September 2026 dari US$28 juta per akhir 2025.",
+   "Total aset Grup tercatat US$267,9 juta per 30 September 2026, naik dari US$252,2 juta per akhir 2025, sementara total ekuitas naik menjadi US$199,5 juta dari US$184,2 juta. Total liabilitas relatif stabil di US$68,4 juta. Laporan ini ditandatangani Direktur Utama Khoirudin dan Direktur Yulius Leonardo pada 30 Oktober 2026, dengan Corporate Secretary Meliana Gunawan sebagai penyampai ke Bursa Efek Indonesia dan OJK. Selain tambang batu bara di Malinau, Kalimantan Utara, Grup kini juga memiliki sejumlah entitas anak baru di bidang pembangkit listrik biomassa, pertambakan udang, dan penyewaan peralatan tenaga surya, yang sebagian masih berstatus pengembangan."
+  ],
+  "fotoAdegan": "Coal haul trucks moving along a dusty laterite road through an open-pit mine, forested hills in the background, overcast sky",
+  "takeaway": "Laporan ini condong positif bagi MBAP, karena lonjakan laba lebih dari 50 kali lipat ditopang kenaikan pendapatan riil dan perbaikan margin kotor, bukan dari pos satu kali seperti penjualan aset. Pos yang paling terlihat adalah laba per saham, yaitu bagian laba yang secara hitungan jatuh ke setiap lembar saham, yang melompat dari US$0,0004 menjadi US$0,0139, serta arus kas dari kegiatan operasi, yang berbalik dari minus US$11,6 juta menjadi plus US$33,1 juta, artinya bisnis inti perusahaan kini benar-benar menghasilkan uang tunai, bukan sekadar laba di atas kertas. Catatan kehati-hatian, perusahaan menambah utang bank jangka panjang sekitar US$6 juta dan tidak membagikan dividen pada periode ini, berbeda dari tahun lalu. Yang perlu dipantau berikutnya adalah laporan tahunan auditan untuk tahun buku 2026 yang baru jatuh tempo sekitar akhir Maret 2027, serta apakah tren kenaikan laba ini berlanjut dan apakah perusahaan kembali membagikan dividen setelah kekosongan pada periode ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "indonesia-turki-jajaki-pta-target-dagang-us-10-miliar",
   "category": "Global",
   "title": "Indonesia-Turki Jajaki [PTA], Target Dagang US$10 Miliar",
@@ -662,6 +871,110 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Surplus dagang memang berlanjut, tapi nilainya menyusut dari US$3,55 miliar pada Agustus menjadi US$3,36 miliar pada September, jadi bukan tren yang terus menguat. Penopang utamanya tetap ekspor barang nonmigas, yakni barang selain minyak dan gas, seperti minyak sawit, perhiasan dari logam mulia, mesin listrik, dan besi baja, dengan Tiongkok, Amerika Serikat, dan India sebagai pembeli terbesar. Yang perlu dicermati adalah penyempitan defisit dagang minyak dan gas, yang terjadi bukan karena ekspor migas naik, melainkan karena impor migas turun lebih cepat daripada ekspornya, pola yang bisa berarti permintaan bahan bakar dan energi di dalam negeri sedang melambat. Pihak yang paling terdampak adalah eksportir komoditas dan manufaktur di atas, serta industri yang bergantung pasokan energi impor. Kepastian soal pelemahan permintaan domestik ini baru akan terlihat dari data impor migas Oktober 2026 yang akan dirilis BPS dan BI bulan depan, apakah penurunannya berlanjut atau cuma sementara.",
   "fotoGagal": 4
+ },
+ {
+  "slug": "dmmx-berbalik-rugi-rp9-58-miliar-utang-bank-melonjak-27",
+  "category": "Aksi Korporasi",
+  "title": "DMMX Berbalik [Rugi] Rp9,58 Miliar, Utang Bank Melonjak 27%",
+  "deck": "Pendapatan sembilan bulan DMMX turun lebih dari 60 persen dan laba berbalik jadi rugi Rp9,58 miliar, sementara utang bank melonjak 27,82 persen jadi Rp226,53 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T19:41:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102195234-64977-0/FinancialStatement-2026-III-DMMX.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMMX",
+  "tags": [
+   "DMMX",
+   "laporan keuangan",
+   "utang bank",
+   "emiten teknologi"
+  ],
+  "body": [
+   "Pendapatan neto konsolidasian PT Digital Mediatama Maxima Tbk (DMMX) untuk periode sembilan bulan yang berakhir 30 September 2026 tercatat Rp182,95 miliar, turun dari Rp492,01 miliar pada periode yang sama tahun 2025. Laba bruto turun menjadi Rp59,38 miliar dari Rp69,03 miliar, sementara laba usaha susut tajam menjadi Rp7,39 miliar dari Rp28,57 miliar. Akibatnya, perusahaan membukukan rugi neto periode berjalan Rp11,43 miliar, berbalik dari laba neto Rp28,49 miliar pada periode yang sama tahun sebelumnya. Rugi yang dapat diatribusikan kepada pemilik perusahaan sebesar Rp9,58 miliar, membuat rugi per saham Rp1,32, dibandingkan laba per saham Rp3,95 pada periode sebelumnya.",
+   "Total liabilitas perusahaan per 30 September 2026 naik 27,82 persen menjadi Rp226,53 miliar dari Rp177,23 miliar pada akhir 2025, kenaikan senilai Rp50 miliar. Dalam surat bernomor 080/CORP-DMMX/X/2026 tertanggal 30 Oktober 2026 kepada Direktur Penilaian Usaha Bursa Efek Indonesia, manajemen DMMX menjelaskan bahwa kenaikan tersebut sepenuhnya didorong oleh pertambahan utang bank. Berdasarkan rincian laporan, bagian utang bank jangka panjang yang jatuh tempo dalam satu tahun melonjak dari Rp116 juta menjadi Rp33,87 miliar, dan utang bank jangka panjang naik dari Rp232 juta menjadi Rp22,33 miliar.",
+   "Kas dan setara kas perusahaan turun dari Rp93,25 miliar menjadi Rp51,18 miliar dalam sembilan bulan tersebut. Total ekuitas juga menyusut dari Rp688,50 miliar menjadi Rp641,72 miliar, dengan saldo laba yang belum ditentukan penggunaannya anjlok dari Rp55,50 miliar menjadi Rp6,21 miliar. Laporan yang disampaikan ini berstatus laporan keuangan interim kuartal III 2026 yang tidak diaudit."
+  ],
+  "fotoAdegan": "Technicians checking blinking server racks in a dim data center aisle inside a modern Jakarta office tower",
+  "takeaway": "Laporan ini condong negatif bagi DMMX karena pendapatan sembilan bulan susut lebih dari 60 persen dan laba tahun lalu berbalik jadi rugi, sementara utang bank bertambah besar dalam waktu singkat. Pos yang paling tersentuh adalah ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi semua utang, yang susut sekitar Rp47 miliar karena rugi periode ini langsung memotong saldo laba ditahan, dan laba per saham berbalik dari untung jadi rugi, ukuran yang dicermati investor karena menunjukkan bagian keuntungan yang sebenarnya jadi hak setiap lembar saham. Kas perusahaan berkurang hampir separuh jadi Rp51,18 miliar, sementara utang bank yang harus dibayar dalam waktu dekat melonjak dari ratusan juta rupiah menjadi Rp33,87 miliar, kombinasi yang membuat beban pelunasan ke depan lebih berat. Yang perlu dicermati selanjutnya adalah laporan keuangan tahunan teraudit 2026, karena laporan kuartal III ini belum diaudit dan akan menentukan apakah tren rugi serta kenaikan utang bank ini berlanjut atau cuma sementara.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ceka-jelaskan-ke-bei-bukan-subjek-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "CEKA Jelaskan ke BEI, Bukan Subjek Penyelidikan [Karhutla] Singapura",
+  "deck": "CEKA menyatakan tidak menjadi subjek penyelidikan karhutla Singapura. Yang diperiksa adalah Wilmar International, pemegang saham pengendali tidak langsungnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T19:38:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d1fc48c36d_9d122e871e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CEKA",
+  "tags": [
+   "CEKA",
+   "karhutla",
+   "Wilmar International",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Wilmar Cahaya Indonesia Tbk (CEKA) menjawab permintaan penjelasan Bursa Efek Indonesia tertanggal 29 Oktober 2026, yang terbit setelah ada pemberitaan bahwa Pemerintah Singapura memanggil dan bertemu dengan pimpinan sejumlah grup usaha perkebunan dan agribisnis, termasuk grup yang terafiliasi dengan CEKA, pada 28 Oktober 2026 terkait penyelidikan kebakaran hutan dan lahan. Dalam suratnya yang dikirim 2 November 2026, CEKA menegaskan tidak memiliki entitas anak, tidak menerima panggilan, pemberitahuan, maupun permintaan informasi dari Pemerintah Singapura atau badan lingkungan NEA, dan tidak menjadi subjek pembahasan dalam pertemuan tersebut.",
+   "CEKA menjelaskan bahwa pihak yang benar-benar menerima pemberitahuan dari NEA berdasarkan Transboundary Haze Pollution Act dan menghadiri pertemuan itu adalah Wilmar International Limited (WIL), perusahaan tercatat di Bursa Efek Singapura yang merupakan pemegang saham pengendali tidak langsung CEKA. CEKA sendiri bergerak di pengolahan minyak nabati dan lemak khusus, dan tidak memiliki maupun mengelola lahan atau konsesi perkebunan kelapa sawit. WIL meminta data profil perusahaan CEKA, termasuk alamat, susunan pengurus, komposisi pemegang saham, serta data pemasok dan pelanggan, untuk mengecek apakah CEKA punya hubungan usaha dengan 10 perusahaan Indonesia yang menerima notice preventive measures dari NEA. Setelah ditelaah, CEKA menyatakan tidak ada transaksi jual beli dengan ke-10 perusahaan tersebut. Pada 29 Oktober 2026, WIL mengumumkan akan menunjuk firma investigasi dan firma hukum secara sukarela dari panel asesor yang dibentuk Pemerintah Singapura.",
+   "Menyoal rencana Singapura mengamendemen Transboundary Haze Pollution Act agar ketidakkooperatifan perusahaan dalam penyelidikan dikategorikan tindak pidana, CEKA menilai aturan itu tidak berdampak langsung karena perseroan adalah badan hukum Indonesia tanpa kegiatan usaha di Singapura. Perseroan hanya memperkirakan kemungkinan permintaan data ketertelusuran bahan baku yang lebih rinci dari pembeli, yang disebut bisa dipenuhi lewat sistem ketertelusuran yang sudah dimiliki. CEKA juga menegaskan belum menerima temuan, teguran, atau sanksi dari otoritas mana pun terkait karhutla, tidak melihat risiko material terhadap hubungan dengan pelanggan, pemasok, kreditur, atau investor, tidak memiliki perjanjian pinjaman dengan klausul terkait karhutla, dan tidak perlu mencatat kewajiban kontinjensi atau provisi baru di laporan keuangannya. Langkah mitigasi yang disebutkan meliputi pemantauan ketertelusuran bahan baku hingga ke pabrik kelapa sawit pemasok, penelaahan dan engagement dengan pemasok, menjaga sertifikasi keberlanjutan, komunikasi terbuka dengan pelanggan, serta koordinasi dengan Grup Wilmar."
+  ],
+  "fotoAdegan": "Workers monitoring stacked palm oil drums and piping at an edible oil processing plant, daylight, Indonesia",
+  "takeaway": "Catatan ini netral: laporan sebatas klarifikasi tanpa angka keuangan baru, dan CEKA konsisten menegaskan tidak ada dampak material ke operasional, keuangan, atau perjanjian utangnya, meski perseroan berada satu grup dengan Wilmar International yang kini diperiksa otoritas Singapura soal kebakaran hutan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh langsung, karena CEKA memastikan tidak ada kewajiban kontinjensi atau provisi baru maupun klausul utang yang terkait isu ini; yang sebenarnya dipertaruhkan adalah reputasi dan hubungan dagang, sebab pembeli produk minyak nabati biasanya makin ketat meminta bukti ketertelusuran bahan baku begitu nama grup usahanya disebut dalam isu kebakaran hutan. Yang perlu dipantau selanjutnya adalah hasil kerja firma investigasi dan firma hukum independen yang diumumkan WIL pada 29 Oktober 2026, serta arah amendemen Transboundary Haze Pollution Act di Parlemen Singapura yang akan menentukan apakah muncul kewajiban hukum baru bagi perusahaan terkait. CEKA sendiri berjanji akan menyampaikan keterbukaan informasi susulan apabila ada perkembangan yang material.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bmri-jelaskan-ke-bursa-soal-penerbitan-obligasi-at1",
+  "category": "Aksi Korporasi",
+  "title": "BMRI Jelaskan ke Bursa Soal Penerbitan Obligasi [AT1]",
+  "deck": "Bank Mandiri menjawab permintaan penjelasan Bursa Efek Indonesia tentang obligasi perpetual AT1 bertingkat bunga awal 7,35 persen, termasuk peran anak usahanya sebagai salah satu penjamin emisi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T19:36:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d24697bb8e_9eba2c9eeb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "AT1",
+   "obligasi perpetual",
+   "Bank Mandiri"
+  ],
+  "body": [
+   "PT Bank Mandiri (Persero) Tbk menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bursa bernomor S-13445/BEI.PP1/10-2026 tertanggal 28 Oktober 2026. Permintaan itu merujuk pada dua laporan fakta material sebelumnya dari Bank Mandiri pada 10 September dan 30 September 2026 terkait penerbitan instrumen Additional Tier 1 (AT1) dalam bentuk obligasi perpetual. Bank Mandiri menjelaskan, penerbitan ini merupakan bagian dari rencana penguatan permodalan yang sudah tercantum dalam Rencana Bisnis Bank periode 2026-2028 yang diserahkan ke Otoritas Jasa Keuangan pada 2025. Berbeda dari penerbitan saham baru, instrumen AT1 menambah modal inti tambahan bank tanpa menambah jumlah saham beredar, sehingga tidak mendilusi kepemilikan pemegang saham yang ada. OJK sendiri telah menyetujui pengakuan hasil penerbitan ini sebagai komponen modal inti tambahan Bank Mandiri.",
+   "Soal harga, Bank Mandiri menjelaskan tingkat distribusi awal sebesar 7,35 persen per tahun ditetapkan lewat proses bookbuilding dengan investor internasional pada 3 September 2026. Angka itu setara imbal hasil obligasi Pemerintah Amerika Serikat tenor 5 tahun sebesar 4,48 persen ditambah premi risiko (pricing spread) 287 basis poin. Bank Mandiri menyebut premi risiko tersebut masih sejalan dengan kisaran penerbitan AT1 bank-bank Asia lain sepanjang 2026, yaitu 239 hingga 330 basis poin di atas acuan yang sama. Sebagai pembanding, pada saat penetapan harga, obligasi dolar Pemerintah Indonesia tenor 5 tahun memberi imbal hasil 5,13 persen, sementara obligasi senior dolar Bank Mandiri sendiri memberi imbal hasil 5,51 persen. Selisih ini, menurut perseroan, wajar karena AT1 berstatus subordinasi, tidak berjangka waktu tetap, dan punya mekanisme penyerapan kerugian yang membuat risikonya lebih tinggi dibanding obligasi senior biasa.",
+   "Bank Mandiri juga menegaskan tanggal 10 September 2031 adalah First Reset Date, yakni saat tingkat bunga disesuaikan ulang, bukan tanggal jatuh tempo atau kewajiban pelunasan, karena instrumen ini bersifat perpetual. Bank memiliki hak, bukan kewajiban, melunasi lewat opsi beli dengan mempertimbangkan kondisi pasar, biaya pendanaan, dan kebutuhan modal saat itu, dengan persetujuan OJK. Dalam proses penerbitan, Mandiri Securities Pte. Ltd. (MSPL), anak usaha Bank Mandiri, bertindak sebagai salah satu Joint Lead Manager bersama HSBC, J.P. Morgan, dan Standard Chartered, menangani penyusunan struktur, pemasaran ke investor, bookbuilding, hingga distribusi instrumen. Bookbuilding selesai 3 September 2026 dan penyelesaian transaksi (settlement) dilakukan 10 September 2026 dengan dana diterima penuh oleh Bank Mandiri. Karena Bank Mandiri menguasai saham MSPL setidaknya 99 persen, penggunaan jasa MSPL ini dikategorikan transaksi afiliasi yang dikecualikan dari prosedur khusus berdasarkan POJK No. 42/POJK.04/2020, dan kewajiban pelaporannya ke OJK telah dipenuhi pada 7 September 2026."
+  ],
+  "fotoAdegan": "Glass-fronted bank office towers in Jakarta's financial district reflecting golden afternoon light, aerial street view",
+  "takeaway": "Laporan ini netral bagi Bank Mandiri karena sifatnya hanya menjelaskan ulang transaksi yang sudah tuntas sejak awal September, bukan kabar baru yang mengubah kondisi keuangan bank saat ini. Yang tersentuh adalah modal inti tambahan bank, yang naik tanpa menambah jumlah saham beredar sehingga tidak mendilusi pemegang saham lama, tapi di sisi lain beban bunga bank juga ikut naik karena Bank Mandiri wajib membayar distribusi 7,35 persen per tahun terus-menerus selama obligasi ini belum dilunasi, lebih mahal dibanding bunga obligasi senior dolar bank yang 5,51 persen. Pelaku pasar perlu mencermati 10 September 2031, yaitu First Reset Date, saat bunga obligasi ini disesuaikan ulang berdasarkan acuan yield baru, serta keputusan Bank Mandiri nanti apakah akan melunasi lewat opsi beli atau membiarkan obligasi ini tetap berjalan dengan bunga baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "laba-tguk-balik-untung-rp3-08-miliar-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "[Laba] TGUK Balik Untung Rp3,08 Miliar Kuartal III 2026",
+  "deck": "Setelah rugi Rp18,17 miliar tahun lalu, TGUK cetak laba Rp3,08 miliar pada sembilan bulan 2026, didukung efisiensi gerai dan utang baru terkait rencana pengambilalihan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T19:31:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204604-65439-0/FinancialStatement-2026-III-TGUK.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGUK",
+  "tags": [
+   "TGUK",
+   "laporan keuangan",
+   "rencana pengambilalihan",
+   "Teguk"
+  ],
+  "body": [
+   "PT Platinum Wahab Nusantara Tbk (TGUK), pemilik merek kedai minuman dan makanan Teguk, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Perseroan membalik rugi bersih Rp18,17 miliar pada periode yang sama tahun 2025 menjadi laba bersih Rp3,08 miliar, dengan laba per saham berubah dari rugi Rp7,27 menjadi laba Rp1,23 per saham. Laba usaha juga berbalik dari rugi Rp17,90 miliar menjadi laba Rp7,53 miliar. Laporan dan surat pernyataan direksi ditandatangani Direktur Utama Agus Suhada pada 30 Oktober 2026.",
+   "Kas dan bank naik sekitar 11,9 kali lipat menjadi Rp2,83 miliar dari Rp238,37 juta per akhir 2025, didorong arus kas operasi positif Rp2,99 miliar, hasil penerimaan dari pelanggan Rp458,02 miliar setelah dikurangi pembayaran ke pemasok, karyawan, dan beban operasional lain. Jumlah aset naik tipis menjadi Rp129,71 miliar dari Rp127,65 miliar, jumlah liabilitas turun menjadi Rp52,79 miliar dari Rp53,81 miliar, dan ekuitas naik menjadi Rp76,93 miliar dari Rp73,85 miliar. Perseroan juga mengurangi jumlah gerai sewa dari 25 menjadi 13 gerai, membuat nilai aset hak guna turun 35,52 persen menjadi Rp445,42 juta.",
+   "Dokumen ini juga mengungkap utang kepada pihak ketiga, yaitu Tn. Edie, sebesar Rp10,46 miliar yang sebelumnya tercatat sebagai liabilitas jangka pendek, kini seluruhnya direklasifikasi menjadi utang jangka panjang berdasarkan perjanjian pinjam meminjam tertanggal 6 Agustus 2026 dengan tenor 10 tahun dan bunga 10 persen per tahun. Perseroan menambah pinjaman baru Rp4,06 miliar dari pihak yang sama, sehingga total utang jangka panjang ke pihak ketiga menjadi Rp14,52 miliar. Perseroan menyatakan fasilitas ini untuk mendukung operasional usaha dan terkait rencana pengambilalihan (perubahan pengendalian) Perseroan, tanpa merinci pihak yang akan mengambil alih atau jadwalnya."
+  ],
+  "fotoAdegan": "A barista pouring iced tea into cups at a compact beverage kiosk counter in a busy Indonesian mall hallway, afternoon light.",
+  "takeaway": "Laporan ini condong positif bagi TGUK karena performa inti membaik signifikan, dari rugi bersih Rp18,17 miliar menjadi laba bersih Rp3,08 miliar hanya dalam sembilan bulan, seiring efisiensi menutup hampir separuh gerai sewanya dari 25 menjadi 13. Yang tersentuh di sini adalah ekuitas, yaitu kekayaan bersih pemegang saham, yang naik dari Rp73,85 miliar menjadi Rp76,93 miliar karena laba ditahan membesar, serta laba per saham yang mengukur berapa rupiah keuntungan yang menjadi bagian setiap lembar saham, kini positif Rp1,23 dari sebelumnya rugi Rp7,27 per saham. Arus kas operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan bisnis sehari-hari bukan dari pinjaman atau investasi, juga berbalik positif Rp2,99 miliar, menandakan bisnis intinya kini menghasilkan uang sungguhan. Yang perlu dipantau berikutnya adalah rencana pengambilalihan yang disebut dalam dokumen ini sebagai alasan penarikan pinjaman baru Rp4,06 miliar dari perseorangan berbunga 10 persen per tahun, karena dokumen ini tidak merinci siapa yang akan mengambil alih kendali Perseroan maupun jadwalnya, sehingga keterbukaan informasi lanjutan soal rencana ini layak ditunggu.",
+  "sentimen": "positif"
  },
  {
   "slug": "aadi-tegaskan-daftar-pengendali-sejak-ipo-ke-ojk",

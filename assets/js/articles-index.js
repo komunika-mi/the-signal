@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tfco-gelar-public-expose-usai-saham-sentuh-ara-3-hari",
+  "category": "Aksi Korporasi",
+  "title": "TFCO Gelar Public Expose Usai Saham Sentuh [ARA] 3 Hari",
+  "deck": "TFCO menggelar public expose insidentil Selasa, 3 November 2026, usai saham disuspensi BEI dan melonjak 94,55 persen dalam tiga hari.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TFCO",
+   "Tifico Fiber Indonesia",
+   "Suspensi BEI",
+   "Public Expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/441891e2cf_e7fc9d6b71.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mlpt-jawab-permintaan-bei-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "MLPT Jawab Permintaan BEI soal [Volatilitas] Saham",
+  "deck": "Multipolar Technology menegaskan tidak ada informasi material atau rencana aksi korporasi di balik pergerakan harga sahamnya, menanggapi permintaan penjelasan dari BEI.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MLPT",
+   "Multipolar Technology",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0e4e6d4503_cf1ab1c9d3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-catat-ekuitas-negatif-rp4-64-m-penjualan-ambruk-99",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Catat [Ekuitas] Negatif Rp4,64 M, Penjualan Ambruk 99%",
+  "deck": "Leyand International (LAPD) mencatat ekuitas negatif Rp4,64 miliar per akhir September 2026, setelah penjualan sembilan bulan ambruk ke Rp2,04 miliar dari Rp211,39 miliar tahun sebelumnya.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "Leyand International",
+   "ekuitas negatif",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102145915-65634-0/FinancialStatement-2026-III-LAPD.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zata-bukukan-rugi-rp77-8-miliar-usai-jual-aset-gedung",
+  "category": "Aksi Korporasi",
+  "title": "ZATA Bukukan [Rugi] Rp77,8 Miliar Usai Jual Aset Gedung",
+  "deck": "ZATA merugi Rp77,8 miliar pada kuartal III 2026, berbalik dari laba tahun sebelumnya, setelah membebankan Rp78,1 miliar biaya lain-lain terkait pelepasan aset gedung senilai Rp75 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZATA",
+   "laporan keuangan",
+   "rugi bersih",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102145005-65049-0/FinancialStatement-2026-III-ZATA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gmfi-pendapatan-naik-34-6-laba-bersih-stagnan",
+  "category": "Aksi Korporasi",
+  "title": "GMFI: Pendapatan Naik 34,6%, Laba Bersih [Stagnan]",
+  "deck": "Pendapatan GMF naik 34,6 persen jadi US$413,4 juta pada kuartal III 2026, tapi laba bersih nyaris stagnan akibat beban material yang melonjak hampir dua kali lipat.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "laporan keuangan interim",
+   "kuasi reorganisasi",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102143415-64503-0/FinancialStatement-2026-III-GMFI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "okupansi-hotel-bintang-turun-jadi-51-75-di-september",
   "category": "Bisnis",
   "title": "Okupansi Hotel Bintang [Turun] Jadi 51,75% di September",
@@ -37,6 +117,22 @@ var ARTICLES = [
   "sourceLabel": "Badan Pusat Statistik"
  },
  {
+  "slug": "fitt-rombak-bisnis-jadi-tambang-laba-9-bulan-berbalik-untung",
+  "category": "Aksi Korporasi",
+  "title": "FITT rombak bisnis jadi tambang, laba 9 bulan [berbalik] untung",
+  "deck": "FITT, bekas PT Hotel Fitra International, melepas anak usaha hotel dan mengambil 50% anak usaha tambang baru. Aset naik 76%, laba sembilan bulan berbalik dari rugi jadi untung.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FITT",
+   "laporan keuangan interim",
+   "akuisisi tambang",
+   "restrukturisasi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102143018-65355-0/FinancialStatement-2026-III-FITT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "inflasi-oktober-melambat-ke-0-22-persen",
   "category": "Makroekonomi",
   "title": "Inflasi Oktober Melambat ke [0,22 Persen]",
@@ -51,6 +147,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
   "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "part-gelar-rupslb-9-desember-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "PART Gelar [RUPSLB] 9 Desember, Agenda Belum Diumumkan",
+  "deck": "Direksi PT Cipta Perdana Lancar Tbk menjadwalkan RUPSLB pada 9 Desember 2026. Undangan resmi berisi agenda rapat baru akan terbit 17 November 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PART",
+   "RUPSLB",
+   "Cipta Perdana Lancar",
+   "jadwal rapat pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9a25afd0c9_0ae3f9119b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aces-laba-kuartal-iii-naik-25-7-skor-tata-kelola-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "ACES: Laba Kuartal III Naik 25,7%, Skor Tata Kelola [Melonjak]",
+  "deck": "Penjualan ACES naik 8,3% menjadi Rp6,9 triliun dan laba ke pemegang saham naik 25,7% jadi Rp604,7 miliar di sembilan bulan 2026, sejalan dengan kenaikan skor tata kelola perusahaan.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ACES",
+   "ritel",
+   "kinerja keuangan",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eafccf446e_2d02cb0b61.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hope-liabilitas-naik-67-ekuitas-susut-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "[HOPE] Liabilitas Naik 67%, Ekuitas Susut Kuartal III",
+  "deck": "Total liabilitas Harapan Duta Pertiwi melonjak 67 persen dalam sembilan bulan karena pinjaman bank baru di anak usaha, sementara ekuitas perusahaan menyusut hampir 19 persen.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HOPE",
+   "laporan keuangan interim",
+   "utang bank",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102133924-65228-0/FinancialStatement-2026-III-HOPE.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "daaz-laba-turun-43-jadi-rp157-m-kas-susut-ke-rp317-m",
@@ -6334,153 +6478,6 @@ var ARTICLES = [
    "Pelindo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027135055-64986-0/FinancialStatement-2026-III-IPCM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ltls-laba-9-bulan-melonjak-jadi-rp276-miliar",
-  "category": "Aksi Korporasi",
-  "title": "LTLS: Laba 9 Bulan [Melonjak] Jadi Rp276 Miliar",
-  "deck": "Lautan Luas mencatat laba periode berjalan Rp276,1 miliar pada sembilan bulan pertama 2026, naik dari Rp141,3 miliar, ditopang pendapatan yang tumbuh 27,6 persen.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LTLS",
-   "laporan keuangan",
-   "industri kimia",
-   "emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027135956-64494-0/FinancialStatement-2026-III-LTLS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "drma-catat-laba-rp487-6-miliar-kuartal-iii-naik-13-9",
-  "category": "Aksi Korporasi",
-  "title": "DRMA Catat Laba [Rp487,6 Miliar] Kuartal III, Naik 13,9%",
-  "deck": "Penjualan neto Dharma Polimetal naik 16 persen jadi Rp5,10 triliun dalam sembilan bulan 2026, laba bersih naik 13,9 persen menjadi Rp487,63 miliar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DRMA",
-   "Dharma Polimetal",
-   "laporan keuangan",
-   "otomotif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027135042-64985-0/FinancialStatement-2026-III-DRMA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "intp-jadwalkan-rupslb-3-desember-agenda-belum-diumumkan",
-  "category": "Aksi Korporasi",
-  "title": "INTP Jadwalkan [RUPSLB] 3 Desember, Agenda Belum Diumumkan",
-  "deck": "Indocement memberitahukan rencana RUPSLB pada 3 Desember 2026, tapi agenda resminya baru akan diumumkan 11 November 2026 lewat panggilan rapat.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INTP",
-   "RUPSLB",
-   "Indocement",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a4956f8705_6f74be3c6d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hmsp-catat-laba-melonjak-44-jadi-rp6-51-triliun",
-  "category": "Aksi Korporasi",
-  "title": "HMSP Catat Laba [Melonjak] 44% Jadi Rp6,51 Triliun",
-  "deck": "Laba bersih HM Sampoerna naik dari Rp4,51 triliun menjadi Rp6,51 triliun pada sembilan bulan 2026, ditopang pendapatan yang tumbuh dan arus kas operasi yang menguat.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HMSP",
-   "laporan keuangan",
-   "laba bersih",
-   "rokok"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027130331-65016-0/FinancialStatement-2026-III-HMSP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekspor-pakaian-jadi-ri-naik-2-8-persen-incar-pasar-global",
-  "category": "Industri",
-  "title": "Ekspor Pakaian Jadi RI Naik 2,8 Persen, Incar Pasar [Global]",
-  "deck": "Wamendag Roro mendorong desainer dan UMKM fesyen memperluas ekspor saat membuka FashionLink JFW 2027, di tengah ekspor pakaian jadi RI yang hanya naik 2,8 persen pada Januari-Agustus 2026.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/ekspor-pakaian-jadi-ri-naik-2-8-persen-incar-pasar-global.jpg",
-  "imageV": "mvq9e7ef",
-  "tags": [
-   "ekspor fesyen",
-   "tekstil",
-   "JFW 2027",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perluas-akses-pasar-wamendag-roro-dorong-fashionlink-jfw-2027-jadi-jembatan-fesyen-lokal-ke-pasar-global",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "jecx-laba-bersih-turun-38-meski-rampungkan-ipo-rp377-m",
-  "category": "Aksi Korporasi",
-  "title": "JECX: Laba Bersih [Turun] 38% Meski Rampungkan IPO Rp377 M",
-  "deck": "Laporan interim kuartal III 2026 JECX menunjukkan laba bersih turun 38 persen dan laba per saham longsor 48 persen, meski dana IPO Rp377 miliar memperkuat ekuitas dan memangkas utang bank.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "laporan keuangan",
-   "IPO",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027120655-64697-0/FinancialStatement-2026-III-JECX.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-sediakan-daycare-mini-untuk-nasabah-umkm-pontianak",
-  "category": "UMKM",
-  "title": "PNM Sediakan [Daycare] Mini untuk Nasabah UMKM Pontianak",
-  "deck": "PNM menggelar acara pengembangan usaha bertema lingkungan di Pontianak, dilengkapi penitipan anak sementara, cek kesehatan gratis, dan klinik konsultasi usaha bagi nasabah perempuan.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/pnm-sediakan-daycare-mini-untuk-nasabah-umkm-pontianak.jpg",
-  "imageV": "mvq9e7y1",
-  "tags": [
-   "PNM",
-   "UMKM Perempuan",
-   "Pontianak",
-   "Pemberdayaan Usaha"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475189-dari-ruang-belajar-hingga-potensi-lokal-pnm-dukung-perempuan-pontianak-kembangkan-usaha"
- },
- {
-  "slug": "ceka-laba-bersih-naik-52-jadi-rp243-7-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "CEKA: Laba Bersih Naik [52%] jadi Rp243,7 Miliar di Kuartal III",
-  "deck": "Laba bersih Wilmar Cahaya Indonesia (CEKA) melonjak 52 persen jadi Rp243,7 miliar pada sembilan bulan 2026, didukung kenaikan pendapatan 19 persen, meski kas perusahaan menyusut tajam.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CEKA",
-   "Wilmar Cahaya Indonesia",
-   "laporan keuangan kuartal III",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027115734-64518-0/FinancialStatement-2026-III-CEKA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "koni-bukukan-laba-rp10-6-miliar-utang-usaha-nyaris-lunas",
-  "category": "Aksi Korporasi",
-  "title": "KONI Bukukan [Laba] Rp10,6 Miliar, Utang Usaha Nyaris Lunas",
-  "deck": "Laba bersih KONI naik 41 persen menjadi Rp10,65 miliar pada kuartal III 2026, sementara total liabilitas turun lebih dari separuh setelah utang usaha nyaris lunas.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KONI",
-   "laporan keuangan",
-   "laba bersih",
-   "utang usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027115457-65032-0/FinancialStatement-2026-III-KONI.pdf",
   "sourceLabel": "IDX"
  }
 ];

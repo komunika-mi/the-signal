@@ -3,6 +3,138 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tfco-gelar-public-expose-usai-saham-sentuh-ara-3-hari",
+  "category": "Aksi Korporasi",
+  "title": "TFCO Gelar Public Expose Usai Saham Sentuh [ARA] 3 Hari",
+  "deck": "TFCO menggelar public expose insidentil Selasa, 3 November 2026, usai saham disuspensi BEI dan melonjak 94,55 persen dalam tiga hari.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T15:02:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/441891e2cf_e7fc9d6b71.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TFCO",
+  "tags": [
+   "TFCO",
+   "Tifico Fiber Indonesia",
+   "Suspensi BEI",
+   "Public Expose"
+  ],
+  "body": [
+   "Perseroan menggelar Public Expose Insidentil berdasarkan permintaan Bursa Efek Indonesia (BEI) yang disampaikan melalui surat elektronik pada 13 Oktober 2026. Permintaan ini menyusul rangkaian penghentian sementara perdagangan saham TFCO: suspensi cooling down pertama berlaku sejak 14 Oktober 2026 (Surat No. Peng-SPT-00211/BEI.WAS/10-2026), dibuka kembali sehari kemudian pada 15 Oktober 2026 (Peng-UPT-00218/BEI.WAS/10-2026), lalu disuspensi lagi sejak 16 Oktober 2026 (Peng-SPT-00212/BEI.WAS/10-2026). Public expose akan digelar secara daring melalui Google Meet pada Selasa, 3 November 2026, pukul 14.00 sampai 15.00 WIB, dengan tautan registrasi yang disebar lewat formulir online.",
+   "Materi yang dipaparkan mencantumkan histori harga penutupan saham TFCO sepanjang 8 sampai 13 Oktober 2026: dari Rp825 per saham naik jadi Rp1.030, lalu Rp1.285, dan Rp1.605, atau melonjak kumulatif 94,55 persen hanya dalam tiga hari perdagangan. Dalam periode itu saham TFCO tiga hari berturut-turut menyentuh auto reject atas (ARA), batas kenaikan harga maksimum yang diizinkan bursa dalam sehari. Perseroan menegaskan pergerakan harga itu murni dinamika pasar dan di luar kendali perusahaan.",
+   "Dari sisi kinerja keuangan, pendapatan Perseroan pada semester I 2026 tercatat US$97,33 juta, naik dari US$92,55 juta pada semester I 2025. Namun laba bruto turun dari US$4,49 juta menjadi US$4,35 juta, laba operasi turun dari US$2,42 juta menjadi US$2,24 juta, dan laba komprehensif enam bulan turun dari US$3,44 juta menjadi US$3,27 juta. Pada posisi keuangan per 30 Juni 2026, total aset Perseroan tercatat US$344,03 juta dan ekuitas US$315,25 juta, masing-masing naik tipis dari US$341,24 juta dan US$311,98 juta per akhir 2025, sementara total liabilitas turun dari US$29,26 juta menjadi US$28,78 juta.",
+   "Perseroan menyatakan hingga pelaksanaan public expose ini tidak ada informasi atau fakta material lain yang belum diungkapkan ke publik dan dapat memengaruhi kegiatan usaha, kondisi keuangan, atau kelangsungan usaha. Ke depan, Perseroan akan melanjutkan bisnis utama di industri polyester dengan fokus pada keberlangsungan operasional, efisiensi, pengendalian biaya, dan pemeliharaan kualitas produk, sambil terus mencermati perkembangan industri polyester global."
+  ],
+  "fotoAdegan": "Workers inspecting rolls of synthetic polyester fiber on an industrial production line inside a large textile factory in Indonesia",
+  "takeaway": "Laporan ini netral bagi TFCO: pendapatan semester pertama naik dari US$92,55 juta jadi US$97,33 juta, tapi laba bruto, laba operasi, dan laba komprehensif enam bulan sama-sama turun, jadi kenaikan penjualan belum berhasil menambah keuntungan bersih. Yang perlu dicermati investor adalah margin laba yang menyusut meski omzet naik, sementara di sisi lain ekuitas perseroan masih naik tipis dan utangnya justru berkurang, jadi fondasi keuangan belum memburuk. Lonjakan harga saham 94,55 persen dalam tiga hari yang membuat saham berulang kali menyentuh ARA, batas kenaikan harga maksimum harian yang kalau tercapai memicu suspensi otomatis oleh bursa, patut diwaspadai karena perseroan sendiri menegaskan tidak ada kabar bisnis baru yang melatarinya, artinya lonjakan itu murni gejolak pasar, bukan perbaikan kinerja. Yang perlu dipantau berikutnya adalah pemaparan publik daring yang digelar Selasa, 3 November 2026 pukul 14.00 sampai 15.00 WIB, serta apakah harga saham kembali stabil setelah dua kali dibuka dan ditutup suspensi sepanjang Oktober.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mlpt-jawab-permintaan-bei-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "MLPT Jawab Permintaan BEI soal [Volatilitas] Saham",
+  "deck": "Multipolar Technology menegaskan tidak ada informasi material atau rencana aksi korporasi di balik pergerakan harga sahamnya, menanggapi permintaan penjelasan dari BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T14:47:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0e4e6d4503_cf1ab1c9d3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MLPT",
+  "tags": [
+   "MLPT",
+   "Multipolar Technology",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Multipolar Technology Tbk (MLPT) memberikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan nomor S-13482/BEI.PP2/10-2026 tanggal 29 Oktober 2026, yang meminta perseroan menjelaskan volatilitas transaksi efeknya. Tanggapan itu disampaikan lewat surat nomor 061/MLPT/PDC/XI/2026 tertanggal 2 November 2026, ditandatangani oleh Natalie Lie selaku Sekretaris Perusahaan.",
+   "Dalam suratnya, MLPT menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat mempengaruhi nilai efek maupun keputusan investasi pemodal sesuai POJK Nomor 31/2015, serta tidak mengetahui fakta material yang dapat mempengaruhi harga saham sesuai ketentuan III.2.1 Peraturan Nomor I-E BEI. Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta memastikan belum ada rencana aksi korporasi yang bersifat pasti dalam tiga bulan mendatang, termasuk yang dapat berakibat pada status pencatatan sahamnya di bursa.",
+   "Poin tambahan yang disampaikan MLPT adalah hasil konfirmasi kepada pemegang saham mayoritasnya, yang menyatakan belum ada rencana transaksi tertentu terkait kepemilikan sahamnya di perseroan sampai tanggal surat ini terbit."
+  ],
+  "fotoAdegan": "Blurred, distant electronic stock ticker boards above a busy Jakarta exchange floor, traders walking quickly, afternoon light.",
+  "takeaway": "Tanggapan ini netral, sebab isinya murni bantahan rutin dan tidak membawa data keuangan baru yang mengubah kondisi emiten. Surat semacam ini biasa diminta bursa ketika harga saham suatu emiten bergerak di luar kebiasaan, semacam pengecekan apakah ada pihak yang sudah lebih dulu tahu rencana besar sebelum diumumkan ke publik, sehingga karena MLPT dan pemegang saham mayoritasnya sama-sama membantah ada rencana semacam itu, pos kinerja seperti ekuitas, arus kas, atau laba per saham tidak tersentuh oleh pernyataan ini. Yang perlu dipantau pembaca adalah apakah dalam tiga bulan ke depan, yakni sampai awal Februari 2027, muncul keterbukaan informasi mendadak dari MLPT soal aksi korporasi, karena itu akan berarti situasi berubah dari yang dinyatakan dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lapd-catat-ekuitas-negatif-rp4-64-m-penjualan-ambruk-99",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Catat [Ekuitas] Negatif Rp4,64 M, Penjualan Ambruk 99%",
+  "deck": "Leyand International (LAPD) mencatat ekuitas negatif Rp4,64 miliar per akhir September 2026, setelah penjualan sembilan bulan ambruk ke Rp2,04 miliar dari Rp211,39 miliar tahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T14:43:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102145915-65634-0/FinancialStatement-2026-III-LAPD.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "Leyand International",
+   "ekuitas negatif",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Leyand International Tbk (LAPD) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset perusahaan tercatat Rp99,12 miliar, turun Rp42,55 miliar atau 30,03 persen dibandingkan posisi akhir Desember 2025 sebesar Rp141,67 miliar. Total liabilitas mencapai Rp103,77 miliar, sehingga jumlah ekuitas perusahaan berbalik menjadi negatif Rp4,64 miliar, dari sebelumnya positif Rp21,27 miliar per akhir 2025.",
+   "Dari sisi laba rugi, penjualan sembilan bulan 2026 hanya Rp2,04 miliar, anjlok dari Rp211,39 miliar pada periode yang sama tahun 2025. Beban pokok penjualan yang lebih besar daripada penjualan membuat perusahaan mencatat rugi bruto Rp1,62 miliar. Setelah ditambah beban umum dan administrasi, beban bunga, serta beban lain-lain bersih Rp18,44 miliar, rugi periode berjalan melebar menjadi Rp25,99 miliar, dari rugi Rp1,67 miliar pada sembilan bulan 2025. Rugi per saham tercatat Rp3,56, dibandingkan Rp0,31 pada periode sebelumnya.",
+   "Dalam surat terpisah tertanggal 30 Oktober 2026 kepada Bursa Efek Indonesia, manajemen menjelaskan penyebab penurunan aset lebih dari 20 persen tersebut. Kas yang dibatasi penggunaannya, yang merupakan jaminan bank garansi di Bank Panin, turun dari Rp6,64 miliar menjadi nihil setelah bank garansi tersebut ditutup dan seluruh deposito berjangka dicairkan pada 15 Mei 2026. Piutang lain-lain dari pihak ketiga turun 100 persen atau Rp11,13 miliar karena pembayaran yang masuk dan pembentukan cadangan kerugian piutang Rp5,63 miliar. Persediaan turun 91,61 persen atau Rp16,67 miliar, terutama karena pembentukan cadangan kerugian nilai persediaan sebesar Rp13,25 miliar.",
+   "Catatan laporan juga menyebutkan jumlah karyawan Leyand menyusut dari 94 orang per akhir 2025 menjadi 18 orang per 30 September 2026, terdiri dari 4 karyawan tetap dan 14 karyawan kontrak. Perubahan ini terjadi setelah pemegang saham pengendali perusahaan beralih menjadi PT JSI Sinergi Mas berdasarkan akta tanggal 22 Juni 2026."
+  ],
+  "fotoAdegan": "Rows of mostly empty steel warehouse shelving in a food distribution facility, a forklift parked near open loading bay doors, dim overhead lighting",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham LAPD, karena untuk pertama kalinya kondisi ekuitas negatif yang sebelumnya hanya muncul di materi public expose kini tercatat resmi dalam laporan keuangan interim. Pos yang tersentuh adalah ekuitas, yaitu selisih aset dan utang yang menjadi hak pemegang saham: dari positif Rp21,27 miliar per akhir 2025 kini menjadi negatif Rp4,64 miliar, artinya utang perusahaan sudah lebih besar daripada seluruh asetnya. Arus kas dari kegiatan usaha sehari-hari masih minus Rp9,19 miliar dalam sembilan bulan, dan ditambal lewat utang baru ke pihak berelasi serta bank, bukan dari hasil penjualan. Pencadangan kerugian piutang dan persediaan senilai total sekitar Rp18,89 miliar menjadi penyumbang utama melebarnya rugi tahun ini, sehingga perlu dicermati apakah penyusutan nilai aset semacam ini masih berlanjut di laporan tahunan auditan 2026. Yang juga perlu dipantau adalah realisasi penambahan 2 miliar saham baru dari aset tambang yang disetujui lewat perubahan pengendali ke PT JSI Sinergi Mas, karena dari sanalah ekuitas negatif ini punya jalan untuk membalik posisi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "zata-bukukan-rugi-rp77-8-miliar-usai-jual-aset-gedung",
+  "category": "Aksi Korporasi",
+  "title": "ZATA Bukukan [Rugi] Rp77,8 Miliar Usai Jual Aset Gedung",
+  "deck": "ZATA merugi Rp77,8 miliar pada kuartal III 2026, berbalik dari laba tahun sebelumnya, setelah membebankan Rp78,1 miliar biaya lain-lain terkait pelepasan aset gedung senilai Rp75 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T14:40:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102145005-65049-0/FinancialStatement-2026-III-ZATA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZATA",
+  "tags": [
+   "ZATA",
+   "laporan keuangan",
+   "rugi bersih",
+   "ekuitas"
+  ],
+  "body": [
+   "PT Bersama Zatta Jaya Tbk (ZATA) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Direktur Utama Hj. Elidawati dan Wakil Direktur Ronny Soleh Pahlevi pada 27 Oktober 2026. Perusahaan mencatat rugi bersih Rp77,77 miliar, berbalik dari laba bersih Rp1,93 miliar pada periode yang sama tahun 2025. Laba per saham ikut berbalik dari positif Rp0,23 menjadi negatif Rp9,15. Total ekuitas turun dari Rp359,64 miliar menjadi Rp281,87 miliar, sementara total aset menyusut dari Rp580,58 miliar menjadi Rp422,82 miliar.",
+   "Penyebab utama kerugian bukan dari operasional inti, sebab laba usaha justru stabil di Rp6,82 miliar, hampir sama dengan periode sebelumnya. Yang menggerus laba adalah pos pendapatan (beban) lain-lain yang tercatat minus Rp78,1 miliar, padahal periode sebelumnya nol. Angka ini muncul bersamaan dengan anjloknya nilai aset tetap neto sebesar 86,61 persen, dari Rp168,48 miliar menjadi Rp22,57 miliar, yang menurut perseroan disebabkan oleh pelepasan aset gedung dan penyusutan. Laporan arus kas mencatat penerimaan Rp75 miliar dari penjualan aset tetap, jauh di bawah nilai buku aset yang dilepas.",
+   "Dalam surat penjelasan perubahan pos neraca di atas 20 persen kepada Bursa Efek Indonesia, ZATA merinci sejumlah perubahan lain: kas dan setara kas turun 41,74 persen menjadi Rp4,42 miliar karena pembayaran aset hak-guna, utang dagang, dan persiapan bahan baku untuk musim Lebaran 2027. Piutang usaha pihak ketiga turun 38,41 persen karena pelunasan dari mitra, sementara biaya dibayar di muka melonjak 509,55 persen. Piutang non-usaha pihak ketiga tidak lancar melonjak 1.505,11 persen akibat konversi piutang mitra tidak aktif dengan jaminan aset tetap. Di sisi liabilitas, utang usaha pihak ketiga turun 22,05 persen, utang non-usaha pihak berelasi turun 40,33 persen karena novasi utang bank, dan utang bank turun 57,90 persen setelah pembayaran fasilitas pinjaman OCBC NISP. Dua anak usaha yang dikonsolidasi adalah PT Bersama Dauky Mulya di Bandung dengan aset Rp47,92 miliar dan PT Bersama Zatta Mulya di Bandung dengan aset Rp307,15 miliar, masing-masing dimiliki 99 persen."
+  ],
+  "fotoAdegan": "Workers arranging folded modest clothing on shelves inside a garment warehouse, stacked fabric rolls, Bandung afternoon light",
+  "takeaway": "Laporan ini NEGATIF bagi ZATA karena perusahaan berbalik dari laba menjadi rugi bersih Rp77,8 miliar hanya dalam sembilan bulan, dipicu beban lain-lain Rp78,1 miliar yang muncul bersamaan dengan pelepasan aset gedung senilai buku jauh lebih besar dari Rp75 miliar kas yang diterima. Pos yang tersentuh adalah ekuitas dan laba per saham, dua ukuran yang jadi acuan pemegang saham untuk menilai berapa bagian kekayaan perusahaan yang jadi hak mereka per lembar saham: ekuitas turun dari Rp359,6 miliar menjadi Rp281,9 miliar, dan laba per saham berbalik dari positif 0,23 menjadi negatif 9,15. Kabar baiknya, arus kas dari operasi harian masih positif Rp1,78 miliar dan sebagian utang bank berhasil dilunasi, jadi kerugian ini berasal dari pos non-operasional yang besar, bukan dari bisnis inti yang kolaps. Yang perlu dipantau berikutnya adalah apakah beban lain-lain sebesar Rp78,1 miliar ini bersifat satu kali akibat pelepasan gedung atau bisa berulang, serta laporan keuangan tahunan yang telah diaudit yang biasanya terbit awal tahun berikutnya untuk memastikan konsistensi angka tidak diaudit ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "gmfi-pendapatan-naik-34-6-laba-bersih-stagnan",
+  "category": "Aksi Korporasi",
+  "title": "GMFI: Pendapatan Naik 34,6%, Laba Bersih [Stagnan]",
+  "deck": "Pendapatan GMF naik 34,6 persen jadi US$413,4 juta pada kuartal III 2026, tapi laba bersih nyaris stagnan akibat beban material yang melonjak hampir dua kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T14:26:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102143415-64503-0/FinancialStatement-2026-III-GMFI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GMFI",
+  "tags": [
+   "GMFI",
+   "laporan keuangan interim",
+   "kuasi reorganisasi",
+   "rights issue"
+  ],
+  "body": [
+   "PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) mencatat pendapatan sebesar US$413,4 juta untuk periode sembilan bulan yang berakhir 30 September 2026, naik 34,6 persen dibanding US$307,1 juta pada periode yang sama tahun lalu, menurut laporan keuangan interim tidak diaudit yang disampaikan perseroan ke Bursa Efek Indonesia pada 2 November 2026. Kenaikan pendapatan ini tidak banyak terasa di laba bersih: laba periode berjalan tercatat US$22,14 juta, nyaris sama dengan US$22,33 juta pada periode yang sama 2025, karena beban material melonjak dari US$85,53 juta menjadi US$170,66 juta dan beban pegawai naik dari US$89,11 juta menjadi US$95,91 juta. Laba sebelum pajak malah turun tipis dari US$27,25 juta menjadi US$26,36 juta, sementara beban keuangan mengecil dari US$14,85 juta menjadi US$11,61 juta seiring penurunan saldo pinjaman jangka panjang.",
+   "Total aset GMF naik dari US$812,98 juta pada akhir 2025 menjadi US$832,56 juta pada akhir September 2026, sementara total liabilitas turun dari US$698,41 juta menjadi US$676,80 juta. Perubahan paling mencolok ada di pos ekuitas, yang melonjak dari US$114,57 juta menjadi US$155,76 juta setelah perseroan menjalankan kuasi reorganisasi pada 31 Januari 2026, yaitu penghapusan akumulasi kerugian lama sebesar US$512,87 juta terhadap modal disetor. Lewat proses ini, nilai nominal saham berubah dari Rp100 per saham seri A dan Rp25 per saham seri B menjadi seragam Rp19 per saham, dan saldo laba yang sebelumnya defisit kini tercatat positif US$11,97 juta.",
+   "Jumlah saham seri B yang beredar juga bertambah dari 91,79 miliar lembar pada akhir 2025 menjadi 96,60 miliar lembar pada akhir September 2026, seiring penerbitan saham baru senilai US$19,46 juta yang tercatat dalam laporan perubahan ekuitas periode berjalan. Penambahan jumlah saham ini membuat laba bersih per saham dasar dan dilusian turun dari US$0,00060 pada September 2025 menjadi US$0,00018 pada September 2026, meski laba bersih total relatif stabil."
+  ],
+  "fotoAdegan": "Technicians in overalls inspecting a commercial jet engine inside a brightly lit aircraft maintenance hangar, tools laid out nearby",
+  "takeaway": "Laporan ini saya baca netral bagi fundamental GMF: pendapatan memang melesat 34,6 persen dibanding periode yang sama tahun lalu, tapi laba bersihnya nyaris tidak bergerak karena biaya bahan dan suku cadang naik hampir dua kali lipat, sehingga kenaikan penjualan belum sepenuhnya menetes ke laba. Yang berubah signifikan justru pos ekuitas dan laba per saham. Ekuitas GMF melonjak dari US$114,57 juta jadi US$155,76 juta setelah perusahaan menjalankan kuasi reorganisasi akhir Januari 2026, yaitu langkah akuntansi menghapus akumulasi kerugian lama senilai US$512,87 juta sehingga neraca tampak lebih bersih dan membuka peluang pembagian dividen di masa depan. Namun laba per saham, yaitu porsi laba yang menjadi hak tiap lembar saham, justru anjlok dari US$0,00060 jadi US$0,00018 karena jumlah saham beredar bertambah selama periode berjalan sehingga laba yang sama kini dibagi ke lebih banyak lembar. Yang perlu dipantau berikutnya adalah realisasi rencana rights issue 22 miliar saham baru yang baru direstui pemegang saham lewat RUPSLB 28 Oktober 2026, karena laporan kuartal ini belum mencerminkan dampaknya dan penambahan saham lebih lanjut berpotensi mendilusi laba per saham lagi.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "okupansi-hotel-bintang-turun-jadi-51-75-di-september",
   "category": "Bisnis",
   "title": "Okupansi Hotel Bintang [Turun] Jadi 51,75% di September",
@@ -57,6 +189,32 @@ var ARTICLES = [
   "bpsIndikator": "wisman"
  },
  {
+  "slug": "fitt-rombak-bisnis-jadi-tambang-laba-9-bulan-berbalik-untung",
+  "category": "Aksi Korporasi",
+  "title": "FITT rombak bisnis jadi tambang, laba 9 bulan [berbalik] untung",
+  "deck": "FITT, bekas PT Hotel Fitra International, melepas anak usaha hotel dan mengambil 50% anak usaha tambang baru. Aset naik 76%, laba sembilan bulan berbalik dari rugi jadi untung.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T14:21:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102143018-65355-0/FinancialStatement-2026-III-FITT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FITT",
+  "tags": [
+   "FITT",
+   "laporan keuangan interim",
+   "akuisisi tambang",
+   "restrukturisasi korporasi"
+  ],
+  "body": [
+   "PT Fortune Resources Investment Tbk (FITT), yang sebelumnya bernama PT Hotel Fitra International Tbk, menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 29 Oktober 2026. Perubahan nama perusahaan disahkan melalui akta notaris tertanggal 24 Juli 2026 dan disetujui Kementerian Hukum dan Hak Asasi Manusia pada 4 Agustus 2026, bersamaan dengan pindahnya domisili kantor dari Majalengka, Jawa Barat, ke gedung Noble House di kawasan Mega Kuningan, Jakarta Selatan. Dalam akta yang sama, bidang usaha utama perseroan juga diubah dari perhotelan menjadi perusahaan induk (holding) dan jasa konsultasi manajemen.",
+   "Perubahan arah bisnis ini diikuti pelepasan dua anak usaha di sektor perhotelan, yaitu PT Bumi Majalengka Permai dan PT Fitra Amanah Wisata, serta masuknya anak usaha baru, PT Venturi Tambang Perkasa, yang 50 persen sahamnya kini dimiliki FITT. Anak usaha baru ini berkantor di Kamal Muara, Penjaringan, Jakarta Utara, dan bergerak di aktivitas penunjang pertambangan serta perdagangan besar mesin dan peralatan industri, dengan total aset tercatat Rp177,98 miliar per akhir September 2026. Dalam surat penjelasan ke BEI, manajemen FITT menyebut aset dan liabilitas anak usaha tambang ini jauh lebih besar dibanding dua anak usaha hotel yang dilepas, sehingga memicu lonjakan pada laporan posisi keuangan konsolidasian perseroan.",
+   "Akibat masuknya anak usaha baru, total aset FITT melonjak 76 persen dari Rp128,06 miliar pada akhir 2025 menjadi Rp224,75 miliar pada akhir September 2026, terutama karena kas dan setara kas naik lebih dari tiga kali lipat menjadi Rp108,66 miliar. Total liabilitas ikut naik 61 persen menjadi Rp81,42 miliar. Pendapatan sembilan bulan tercatat Rp45,90 miliar, naik tajam dari Rp6,36 miliar pada periode yang sama tahun lalu, dan laba bersih berbalik dari rugi Rp5,66 miliar menjadi untung Rp29,41 miliar. Dari laba tersebut, Rp16,32 miliar menjadi bagian pemegang saham FITT dan Rp13,08 miliar menjadi bagian pemegang saham minoritas di anak usaha baru."
+  ],
+  "fotoAdegan": "Heavy mining support equipment and spare parts stacked in an industrial yard, workers inspecting machinery under overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi FITT, sebab pendapatan dan laba sembilan bulan melonjak tajam begitu anak usaha tambang baru mulai dikonsolidasi, dan kas perusahaan ikut menebal. Yang perlu dicermati adalah pos kepentingan non-pengendali, yaitu bagian kepemilikan pihak lain di anak usaha yang bukan milik FITT langsung, yang melonjak dari hampir nol menjadi Rp49,55 miliar, sehingga sekitar sepertiga dari total ekuitas perseroan sekarang bukan milik pemegang saham FITT. Arus kas dari aktivitas investasi juga tercatat positif Rp56,58 miliar, berbeda dari kebiasaan perusahaan yang biasanya memakai kas untuk investasi, menandakan ada penerimaan kas besar terkait pelepasan anak usaha hotel. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan 2026 yang telah diaudit, untuk memastikan kinerja anak usaha tambang ini bukan sekadar lonjakan satu periode akibat konsolidasi akuntansi, serta kelanjutan dua anak usaha hotel yang telah dilepas.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "inflasi-oktober-melambat-ke-0-22-persen",
   "category": "Makroekonomi",
   "title": "Inflasi Oktober Melambat ke [0,22 Persen]",
@@ -82,6 +240,84 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Bagi masyarakat, angka ini berarti kenaikan harga barang dan jasa pada Oktober sedikit lebih terkendali dibanding bulan sebelumnya.",
   "bpsIndikator": "inflasi"
+ },
+ {
+  "slug": "part-gelar-rupslb-9-desember-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "PART Gelar [RUPSLB] 9 Desember, Agenda Belum Diumumkan",
+  "deck": "Direksi PT Cipta Perdana Lancar Tbk menjadwalkan RUPSLB pada 9 Desember 2026. Undangan resmi berisi agenda rapat baru akan terbit 17 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T14:05:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9a25afd0c9_0ae3f9119b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PART",
+  "tags": [
+   "PART",
+   "RUPSLB",
+   "Cipta Perdana Lancar",
+   "jadwal rapat pemegang saham"
+  ],
+  "body": [
+   "Direksi PT Cipta Perdana Lancar Tbk (PART) mengumumkan bahwa perseroan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 9 Desember 2026, pukul 10:00 WIB. Lokasi penyelenggaraan masih akan ditentukan kemudian. Pengumuman ini merujuk pada surat sebelumnya bernomor S-171/PART-DIRUT/10-2026 dan ditandatangani oleh Direktur Tjoeng Rino Saputra pada 2 November 2026.",
+   "Perseroan menetapkan Senin, 16 November 2026 sebagai tanggal pencatatan Daftar Pemegang Saham (DPS) yang berhak hadir dalam rapat. Surat pemanggilan resmi yang memuat agenda lengkap RUPSLB baru akan dipublikasikan sehari setelahnya, yaitu Selasa, 17 November 2026, melalui situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs resmi PART dalam Bahasa Indonesia dan Inggris. Pemegang saham yang ingin mengusulkan mata acara rapat harus mewakili minimal 1/20 atau 5 persen dari total saham dengan hak suara, dan mengajukan usulan paling lambat tujuh hari sebelum tanggal pemanggilan tersebut, dengan syarat usulan diajukan dengan itikad baik, memperhatikan kepentingan perseroan, memerlukan keputusan rapat, dilengkapi alasan dan bahan pendukung, serta tidak bertentangan dengan peraturan dan anggaran dasar perseroan.",
+   "Untuk pemberian kuasa dan pemungutan suara, perseroan menyediakan fasilitas elektronik eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang memberi atau mengubah kuasa, termasuk pilihan suara secara elektronik, harus melakukannya paling lambat satu hari kerja sebelum rapat, yaitu Selasa, 8 Desember 2026. Dokumen pemberitahuan ini belum mengungkap agenda atau keputusan yang akan dibawa ke RUPSLB."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with rows of chairs facing a long table, soft morning light through large windows",
+  "takeaway": "Penilaian saya netral untuk laporan ini, karena isinya baru sebatas jadwal dan mekanisme teknis RUPSLB, belum mengungkap apa yang akan diputuskan dalam rapat tersebut. RUPSLB biasanya dipakai emiten untuk memutuskan hal-hal yang bisa mengubah struktur modal, seperti penambahan jumlah saham beredar, pergantian direksi atau komisaris, atau aksi korporasi lain yang berpengaruh ke ekuitas pemegang saham, sehingga pasar baru bisa menakar dampaknya begitu agenda resmi keluar. Yang perlu dipantau pemegang saham PART adalah terbitnya surat pemanggilan resmi berisi agenda lengkap pada 17 November 2026, tenggat pengajuan usul mata acara sekitar 10 November 2026, serta pelaksanaan RUPSLB itu sendiri pada 9 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aces-laba-kuartal-iii-naik-25-7-skor-tata-kelola-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "ACES: Laba Kuartal III Naik 25,7%, Skor Tata Kelola [Melonjak]",
+  "deck": "Penjualan ACES naik 8,3% menjadi Rp6,9 triliun dan laba ke pemegang saham naik 25,7% jadi Rp604,7 miliar di sembilan bulan 2026, sejalan dengan kenaikan skor tata kelola perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T13:55:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eafccf446e_2d02cb0b61.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ACES",
+  "tags": [
+   "ACES",
+   "ritel",
+   "kinerja keuangan",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Aspirasi Hidup Indonesia Tbk (ACES), induk merek AZKO, ATARU, Pendopo, dan NEKA, serta anak usaha Toys Kingdom, melaporkan penjualan bersih Rp6,9 triliun untuk periode sembilan bulan hingga 30 September 2026, naik 8,3 persen dari periode yang sama tahun sebelumnya. Laba periode berjalan yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp604,7 miliar, naik 25,7 persen. Pertumbuhan penjualan di toko yang sudah beroperasi minimal setahun (Same Store Sales Growth atau SSSG) tercatat 2,4 persen, didukung kinerja wilayah Jakarta dan perbaikan di luar Jawa, sementara Jawa di luar Jakarta relatif stabil.",
+   "Hingga akhir September 2026, jaringan AZKO mencapai 282 toko setelah menambah 19 gerai baru sepanjang sembilan bulan pertama tahun ini, termasuk lima lokasi baru pada kuartal ketiga yaitu Tomohon, Baubau, Bengkalis, Jepara, dan Mamuju. Jaringan NEKA bertambah menjadi 31 toko, termasuk 21 toko baru yang dibuka sepanjang tahun ini. Realisasi belanja modal atau CapEx Perseroan mencapai Rp144,8 miliar, setara 32 hingga 36 persen dari total anggaran CapEx 2026, yang dipakai untuk ekspansi jaringan toko dan pembaruan konsep gerai AZKO.",
+   "Di sisi tata kelola, skor Perseroan dalam ASEAN Corporate Governance Scorecard (ACGS) naik dari 85,85 menjadi 95,76, mengangkat predikatnya dari \"Good\" ke \"Very Good\". ACES juga menerima penghargaan Best Responsibility of the Board kategori Mid Cap dari Indonesian Institute for Corporate Directorship (IICD) pada 2026, dan menjadi satu-satunya emiten ritel yang mendapat penghargaan dalam ajang tersebut. Direktur ACES, Gregory S. Widjaja, menyebut pertumbuhan kinerja didukung oleh produktivitas toko eksisting, efisiensi operasional, dan program pemasaran berbasis komunitas, serta rencana ekspansi lanjutan jaringan AZKO dan NEKA ke kota-kota baru."
+  ],
+  "fotoAdegan": "Customers browsing wide shelves of home improvement tools and household goods inside a brightly lit retail store aisle",
+  "takeaway": "Laporan ini condong positif bagi ACES karena laba yang mengalir ke pemegang saham tumbuh jauh lebih cepat, 25,7 persen, dibanding penjualan yang naik 8,3 persen, tanda margin keuntungan membaik, ditambah penambahan 40 toko baru AZKO dan NEKA yang memperbesar kapasitas penjualan ke depan. Pos yang tersentuh di sini adalah laba bersih dan belanja modal: laba lebih tinggi berarti makin banyak dana yang bisa dipakai perusahaan untuk ekspansi sendiri, sementara realisasi CapEx yang baru mencapai sekitar sepertiga anggaran tahun ini menunjukkan sebagian besar belanja ekspansi masih akan terjadi di kuartal terakhir. Skor tata kelola ACGS yang melonjak dari 85,85 ke 95,76 juga relevan karena skor semacam ini dipakai sejumlah investor institusi, termasuk dana asing, sebagai salah satu pertimbangan masuk portofolio mereka. Yang perlu dipantau berikutnya adalah laporan kinerja penuh tahun 2026, untuk melihat apakah realisasi CapEx benar-benar mencapai target anggaran dan apakah rencana ekspansi ke kota-kota baru yang disebut Direktur Gregory S. Widjaja terwujud sesuai jadwal.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hope-liabilitas-naik-67-ekuitas-susut-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "[HOPE] Liabilitas Naik 67%, Ekuitas Susut Kuartal III",
+  "deck": "Total liabilitas Harapan Duta Pertiwi melonjak 67 persen dalam sembilan bulan karena pinjaman bank baru di anak usaha, sementara ekuitas perusahaan menyusut hampir 19 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T13:29:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102133924-65228-0/FinancialStatement-2026-III-HOPE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HOPE",
+  "tags": [
+   "HOPE",
+   "laporan keuangan interim",
+   "utang bank",
+   "ekuitas"
+  ],
+  "body": [
+   "PT Harapan Duta Pertiwi Tbk (HOPE) menyampaikan laporan keuangan interim tidak diaudit per 30 September 2026, disertai surat penjelasan kepada Bursa Efek Indonesia karena perubahan pos total aset dan total liabilitas melampaui 20 persen dibanding akhir 2025. Total aset perusahaan naik 38 persen dari Rp407,78 miliar menjadi Rp563,95 miliar, sedangkan total liabilitas melonjak lebih tajam, 67 persen, dari Rp270,57 miliar menjadi Rp452,57 miliar.",
+   "Manajemen menjelaskan kenaikan liabilitas terutama berasal dari pencairan pinjaman bank di anak usaha. Pinjaman bank jangka pendek naik dari Rp6,47 miliar menjadi Rp67,49 miliar, sementara pinjaman bank jangka panjang melonjak dari Rp3,69 miliar menjadi Rp152,53 miliar, naik lebih dari 40 kali lipat. Dana pinjaman itu ikut mendorong kas dan setara kas naik 141 persen menjadi Rp151,10 miliar serta uang muka dan biaya dibayar di muka naik 297 persen menjadi Rp76,16 miliar untuk pembelian aset tetap. Di sisi lain, liabilitas sewa jangka pendek turun 50 persen dan pembiayaan konsumen jangka pendek turun 44 persen karena perusahaan mengalihkan sebagian pembiayaan konsumennya menjadi pinjaman bank.",
+   "Laporan ini juga memuat catatan konsolidasi anak usaha PT Tambang Meranti Mulia Sejahtera (TMMS). Perusahaan hanya memiliki 4,30 persen saham TMMS senilai Rp9 miliar untuk 150 juta saham yang dibeli pada 30 Juli 2025, namun sejak 12 Desember 2025 seluruh pemegang saham TMMS sepakat memberi Direktur Utama HOPE, Kevin Jong, kewenangan mengarahkan kebijakan keuangan dan operasional TMMS tanpa mengubah persentase kepemilikan. Karena itu, aset dan kinerja TMMS dikonsolidasikan ke laporan keuangan HOPE sejak tanggal tersebut, dan sejak diakuisisi TMMS menyumbang pendapatan Rp13,13 miliar serta laba Rp2,67 miliar ke laporan konsolidasian."
+  ],
+  "fotoAdegan": "Workers welding a steel trailer chassis frame on an industrial factory floor, sparks flying, overhead cranes in the background",
+  "takeaway": "Laporan ini condong negatif bagi fundamental HOPE, karena pertumbuhan aset yang terlihat besar ternyata ditopang penuh oleh utang baru di anak usaha, bukan oleh laba usaha sendiri. Ekuitas, yaitu selisih antara total aset dan total liabilitas yang mencerminkan modal milik pemegang saham, justru turun dari sekitar Rp137,21 miliar menjadi sekitar Rp111,38 miliar dalam sembilan bulan, sementara pinjaman bank jangka panjang melonjak lebih dari 40 kali lipat. Pelaku pasar mencermati rasio utang terhadap modal semacam ini karena beban bunga ke depan akan lebih berat dan ruang perusahaan menyerap kerugian makin tipis jika proyek anak usaha tidak berjalan sesuai rencana. Kabar baiknya, sebagian dana utang itu sudah terpakai untuk aset tetap dan anak usaha tambang yang baru dikonsolidasi, TMMS, sudah mulai menyumbang laba. Yang perlu dipantau berikutnya adalah laporan keuangan auditan penuh per 31 Desember 2026, yang akan menunjukkan apakah kenaikan utang ini diikuti kenaikan laba usaha atau justru membebani beban bunga perusahaan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "daaz-laba-turun-43-jadi-rp157-m-kas-susut-ke-rp317-m",

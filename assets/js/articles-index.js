@@ -761,6 +761,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "gjtl-cetak-laba-rp964-9-miliar-naik-22-di-9m2026",
+  "category": "Aksi Korporasi",
+  "title": "GJTL Cetak Laba Rp964,9 Miliar, [Naik] 22% di 9M2026",
+  "deck": "Laba bersih Gajah Tunggal naik 22,2 persen jadi Rp964,9 miliar dalam sembilan bulan 2026, ditopang penjualan yang tumbuh 9,2 persen, meski utang bank jangka pendek melonjak dua kali lipat.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GJTL",
+   "Gajah Tunggal",
+   "laporan keuangan",
+   "ban"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204626-65691-0/FinancialStatement-2026-III-GJTL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bata-catat-defisiensi-modal-makin-dalam-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "BATA catat [defisiensi modal] makin dalam di kuartal III 2026",
@@ -822,6 +838,54 @@ var ARTICLES = [
    "public expose"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7de281fd1c_ea30cf02ff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbyb-laba-neo-commerce-turun-7-jadi-rp431-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BBYB: [Laba] Neo Commerce Turun 7% Jadi Rp431 Miliar",
+  "deck": "Laba bersih Bank Neo Commerce turun 7,1 persen menjadi Rp431 miliar dalam sembilan bulan 2026, sementara simpanan nasabah susut 15,4 persen menjadi Rp11,86 triliun.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBYB",
+   "Bank Neo Commerce",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102174846-65404-0/FinancialStatement-2026-III-BBYB.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kbli-liabilitas-naik-116-jadi-rp960-3-miliar-per-september",
+  "category": "Aksi Korporasi",
+  "title": "KBLI: Liabilitas Naik [116%] Jadi Rp960,3 Miliar per September",
+  "deck": "Total liabilitas KMI Wire and Cable melonjak 116,38 persen menjadi Rp960,3 miliar per akhir September 2026, dipicu utang bank, utang dagang, dan uang muka penjualan yang membesar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KBLI",
+   "KMI Wire and Cable",
+   "liabilitas",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102175139-65203-0/FinancialStatement-2026-III-KBLI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "itmg-bagikan-dividen-interim-us-74-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "ITMG Bagikan Dividen Interim [US$74,2 Juta]",
+  "deck": "ITMG akan membagikan dividen tunai interim US$74,2 juta untuk tahun buku 2026, dengan pencatatan pemegang saham 12 November dan pembayaran 18 November 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ITMG",
+   "dividen interim",
+   "Indo Tambangraya Megah",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d1cf060b9_c4653114fd.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -904,6 +968,86 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
   "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "bwpt-koreksi-jadwal-dividen-interim-rp31-1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Koreksi Jadwal [Dividen] Interim Rp31,1 Miliar",
+  "deck": "Eagle High Plantations (BWPT) mengoreksi jadwal dividen interim Rp1 per saham senilai Rp31,12 miliar, dengan recording date 12 November dan pembayaran 25 November 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "dividen interim",
+   "Eagle High Plantations",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/51e6638467_41d5b2fa57.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rmko-rampungkan-rights-issue-rp114-3-m-laba-bersih-balik-positif",
+  "category": "Aksi Korporasi",
+  "title": "RMKO Rampungkan [Rights Issue] Rp114,3 M, Laba Bersih Balik Positif",
+  "deck": "RMKO merampungkan rights issue Rp114,3 miliar dan membalik laba bersih sembilan bulan 2026 menjadi positif, ditopang penurunan drastis rasio utang.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RMKO",
+   "Rights Issue",
+   "Kinerja Keuangan",
+   "Batu Bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/55638068ae_0878ddb887.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-lapor-lk-kuartal-i-2024-defisit-modal-melebar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Lapor LK Kuartal I/2024, [Defisit Modal] Melebar",
+  "deck": "BOSS baru menyerahkan laporan keuangan kuartal I 2024, dua tahun setelah periode itu berakhir, dengan penjualan nihil dan defisit modal melebar jadi Rp206,61 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "defisit modal",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261102172155-65678-0/FinancialStatement-2024-I-BOSS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnba-dana-nasabah-turun-30-laba-bersih-naik-dua-kali",
+  "category": "Aksi Korporasi",
+  "title": "BNBA: Dana Nasabah [Turun] 30%, Laba Bersih Naik Dua Kali",
+  "deck": "Simpanan nasabah Bank Bumi Arta turun Rp1,58 triliun dalam sembilan bulan karena nasabah pindah ke bank pesaing berbunga lebih tinggi, meski laba bersihnya naik dua kali lipat.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNBA",
+   "Bank Bumi Arta",
+   "simpanan nasabah",
+   "laporan keuangan interim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102171905-65331-0/FinancialStatement-2026-III-BNBA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-pertahankan-suspensi-saham-menn-dan-soul",
+  "category": "Aksi Korporasi",
+  "title": "BEI Pertahankan [Suspensi] Saham MENN dan SOUL",
+  "deck": "BEI tetap menghentikan sementara perdagangan saham MENN dan SOUL karena belum menyerahkan laporan keuangan interim per 30 Juni 2026 hingga 31 Oktober 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MENN",
+   "SOUL",
+   "suspensi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8ec620540d_dd032b771c.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bumi-perpanjang-target-akuisisi-laman-mining-ke-januari-2027",
@@ -6330,150 +6474,6 @@ var ARTICLES = [
    "utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028155217-65129-0/FinancialStatement-2026-III-MTDL.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dmas-koreksi-jadwal-dividen-interim-rp29-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "DMAS koreksi jadwal [dividen] interim Rp29 per saham",
-  "deck": "Puradelta Lestari (DMAS) mengoreksi jadwal dividen interim tunai Rp29 per saham senilai Rp1,4 triliun, dengan recording date 30 Oktober dan pembayaran 16 November 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMAS",
-   "dividen interim",
-   "Puradelta Lestari",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e2f3becce8_a4a138cab2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gmfi-gelar-rupslb-bahas-rights-issue-22-miliar-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "GMFI Gelar RUPSLB, Bahas [Rights Issue] 22 Miliar Saham Baru",
-  "deck": "GMFI mengundang pemegang saham ke RUPSLB 19 November 2026 untuk menyetujui rencana penerbitan hingga 22,03 miliar saham baru lewat mekanisme hak memesan efek terlebih dahulu.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GMFI",
-   "RUPSLB",
-   "rights issue",
-   "PMHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3f1efa9b6d_09bb6d5480.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-catat-laba-bersih-naik-30-persen-ke-us-72-8-juta-per-9m26",
-  "category": "Aksi Korporasi",
-  "title": "ENRG Catat Laba Bersih [Naik] 30 Persen ke US$72,8 Juta per 9M26",
-  "deck": "Energi Mega Persada (ENRG) melaporkan laba bersih sembilan bulan 2026 naik 30 persen jadi US$72,8 juta, didukung kas yang berlipat dan pinjaman bank yang menyusut.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "Energi Mega Persada",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028152059-65127-0/FinancialStatement-2026-III-ENRG.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpow-cetak-rugi-melonjak-jadi-rp11-6-miliar-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "MPOW Cetak Rugi [Melonjak] jadi Rp11,6 Miliar Kuartal III 2026",
-  "deck": "Pendapatan MPOW susut hampir separuh jadi Rp10,9 miliar pada sembilan bulan 2026, sementara rugi bersih melonjak ke Rp11,6 miliar dan ekuitas tergerus jadi Rp92,5 miliar.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPOW",
-   "laporan keuangan",
-   "rugi bersih",
-   "utilitas listrik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028152018-65084-0/FinancialStatement-2026-III-MPOW.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-laba-bersih-melonjak-31-ke-rp3-64-triliun",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Laba Bersih [Melonjak] 31% ke Rp3,64 Triliun",
-  "deck": "Laba bersih TAPG naik 31 persen menjadi Rp3,64 triliun pada sembilan bulan pertama 2026, ditopang kontribusi ventura bersama dan kas yang bertambah.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "laba bersih",
-   "laporan keuangan kuartal III",
-   "sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028152218-65240-0/FinancialStatement-2026-III-TAPG.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "myor-laba-bersih-9-bulan-naik-31-ke-rp2-47-triliun",
-  "category": "Aksi Korporasi",
-  "title": "MYOR: [Laba] Bersih 9 Bulan Naik 31% ke Rp2,47 Triliun",
-  "deck": "Laba bersih Mayora Indah naik 31 persen jadi Rp2,47 triliun pada sembilan bulan pertama 2026, didorong perbaikan arus kas operasi dan penurunan utang bank jangka pendek.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MYOR",
-   "laporan keuangan",
-   "laba bersih",
-   "mayora indah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028151410-65119-0/FinancialStatement-2026-III-MYOR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cnko-bukukan-laba-rp165-m-ekuitas-tetap-negatif-rp899-m",
-  "category": "Aksi Korporasi",
-  "title": "CNKO Bukukan Laba Rp165 M, [Ekuitas] Tetap Negatif Rp899 M",
-  "deck": "Laba sembilan bulan CNKO naik 12,5 persen jadi Rp165,39 miliar, didorong pendapatan di luar usaha, sementara ekuitas perseroan masih defisit Rp898,99 miliar per akhir September 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CNKO",
-   "laporan keuangan kuartal III",
-   "batu bara",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028151622-64562-0/FinancialStatement-2026-III-CNKO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gdyr-panggil-rupslb-ubah-susunan-komisaris-19-november",
-  "category": "Aksi Korporasi",
-  "title": "GDYR Panggil RUPSLB, Ubah Susunan [Komisaris] 19 November",
-  "deck": "Goodyear Indonesia menggelar RUPSLB pada 19 November 2026 untuk menyetujui perubahan susunan Dewan Komisaris dan penyesuaian anggaran dasar sesuai klasifikasi usaha baru BPS.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GDYR",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Goodyear Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1d2ac81fcc_8958c12336.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "roti-direktur-arief-alfanto-ajukan-pengunduran-diri",
-  "category": "Aksi Korporasi",
-  "title": "ROTI: Direktur Arief Alfanto Ajukan [Pengunduran Diri]",
-  "deck": "Direktur Arief Alfanto mengajukan pengunduran diri dari jabatannya di Nippon Indosari Corpindo karena alasan pribadi, menunggu persetujuan RUPS.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ROTI",
-   "direksi",
-   "pengunduran diri",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b39a7a8bd4_8f480433e0.pdf",
   "sourceLabel": "IDX"
  }
 ];

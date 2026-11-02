@@ -1238,6 +1238,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "gjtl-cetak-laba-rp964-9-miliar-naik-22-di-9m2026",
+  "category": "Aksi Korporasi",
+  "title": "GJTL Cetak Laba Rp964,9 Miliar, [Naik] 22% di 9M2026",
+  "deck": "Laba bersih Gajah Tunggal naik 22,2 persen jadi Rp964,9 miliar dalam sembilan bulan 2026, ditopang penjualan yang tumbuh 9,2 persen, meski utang bank jangka pendek melonjak dua kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T18:21:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204626-65691-0/FinancialStatement-2026-III-GJTL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GJTL",
+  "tags": [
+   "GJTL",
+   "Gajah Tunggal",
+   "laporan keuangan",
+   "ban"
+  ],
+  "body": [
+   "PT Gajah Tunggal Tbk (GJTL) menyampaikan koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Presiden Direktur Suryo Pratomo dan Direktur Kisyuwono pada 29 Oktober 2026. Penjualan bersih tercatat Rp14,32 triliun, naik dari Rp13,12 triliun pada periode yang sama tahun lalu. Laba bersih melonjak 22,2 persen menjadi Rp964,9 miliar dari Rp789,7 miliar, didorong oleh beban keuangan yang justru mengecil menjadi Rp300 miliar dari Rp355,9 miliar serta keuntungan selisih kurs Rp150 miliar. Laba per saham naik ke Rp276,9 dari Rp226,6 setahun sebelumnya.",
+   "Dari sisi posisi keuangan, total aset perseroan per 30 September 2026 tercatat Rp24,83 triliun, naik dari Rp21,67 triliun di akhir 2025, terutama karena aset tetap bertambah menjadi Rp11,82 triliun dari Rp10,56 triliun dan uang muka pembelian aset tetap senilai Rp1,15 triliun, menandakan perluasan kapasitas produksi masih berjalan. Total liabilitas naik lebih cepat, menjadi Rp13,67 triliun dari Rp11,21 triliun, dengan utang bank jangka pendek melonjak lebih dari dua kali lipat menjadi Rp1,25 triliun dari Rp574,8 miliar, sementara utang bank jangka panjang justru sedikit turun menjadi Rp3,89 triliun. Ekuitas tumbuh menjadi Rp11,17 triliun dari Rp10,46 triliun, setelah perseroan membagikan dividen tunai Rp277,7 miliar sepanjang periode.",
+   "Pada laporan arus kas, kas dan setara kas turun menjadi Rp827,8 miliar dari Rp925,2 miliar di akhir tahun lalu. Arus kas dari aktivitas operasi naik menjadi Rp1,19 triliun dari Rp1,09 triliun, sementara arus kas untuk investasi membesar menjadi negatif Rp1,61 triliun, terutama untuk uang muka pembelian aset tetap Rp892,3 miliar dan perolehan aset tetap Rp746,4 miliar. Berbeda dari tahun lalu yang melunasi utang obligasi senilai Rp2,82 triliun, pada periode ini perseroan tidak membayar utang obligasi dan justru menerima pinjaman bank jangka panjang baru Rp464,6 miliar."
+  ],
+  "fotoAdegan": "Workers inspecting freshly molded rubber tires stacked on pallets inside a large tire manufacturing plant, overhead industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi Gajah Tunggal, sebab laba bersih tumbuh 22,2 persen ditopang penjualan yang naik dan beban bunga yang justru mengecil. Yang pantas dicermati adalah utang bank jangka pendek yang melonjak lebih dari dua kali lipat menjadi Rp1,25 triliun, utang yang harus dilunasi dalam waktu dekat, sehingga total utang perseroan tumbuh 21,9 persen, jauh lebih cepat dari modal sendiri pemegang saham yang hanya naik 6,8 persen. Meski begitu, uang tunai yang benar-benar dihasilkan dari bisnis inti, bukan dari pinjaman, tetap naik ke Rp1,19 triliun, tanda operasional perseroan masih sehat di tengah belanja pabrik yang terus bertambah. Yang perlu dipantau selanjutnya adalah apakah lonjakan utang bank jangka pendek ini sekadar pembiayaan modal kerja musiman seiring naiknya persediaan dan piutang usaha, atau tren yang berlanjut, yang akan terlihat jelas pada laporan keuangan tahunan 2026 yang sudah diaudit.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bata-catat-defisiensi-modal-makin-dalam-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
   "title": "BATA catat [defisiensi modal] makin dalam di kuartal III 2026",
@@ -1341,6 +1367,84 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An insurance adjuster inspecting a dented car bumper inside a vehicle repair garage, overcast afternoon light",
   "takeaway": "Laporan ini condong positif bagi AMAG karena pertumbuhan laba bersih dan ekuitas jauh melampaui pertumbuhan aset, menandakan efisiensi usaha yang membaik meski ada satu catatan pada rasio kesehatan modal. Yang perlu diperhatikan investor adalah ekuitas, yaitu selisih antara total aset dan utang yang menjadi hak pemegang saham, karena kenaikannya 4,17% berarti nilai buku perusahaan membesar, sementara laba bersih yang melonjak 43,86% langsung memengaruhi laba per saham dan potensi dividen ke depan. Rasio solvabilitas atau RBC, yaitu bantalan modal yang menunjukkan kemampuan perusahaan membayar klaim nasabah, memang turun dari 332% menjadi 294% secara tahunan, tapi levelnya masih sangat tinggi sehingga belum perlu dikhawatirkan. Yang perlu dipantau selanjutnya adalah paparan publik elektronik pada 6 November 2026 pukul 15.00 WIB, saat manajemen biasanya membuka sesi tanya jawab dengan investor, serta rencana OJK meluncurkan metode penghitungan RBC baru pada kuartal pertama 2027 yang bisa mengubah cara rasio solvabilitas ini dilaporkan ke depan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bbyb-laba-neo-commerce-turun-7-jadi-rp431-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BBYB: [Laba] Neo Commerce Turun 7% Jadi Rp431 Miliar",
+  "deck": "Laba bersih Bank Neo Commerce turun 7,1 persen menjadi Rp431 miliar dalam sembilan bulan 2026, sementara simpanan nasabah susut 15,4 persen menjadi Rp11,86 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T17:41:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102174846-65404-0/FinancialStatement-2026-III-BBYB.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBYB",
+  "tags": [
+   "BBYB",
+   "Bank Neo Commerce",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Neo Commerce Tbk (BBYB) menyampaikan laporan keuangan interim yang belum diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia melalui surat bernomor 295/SET/BNC/X/2026 tertanggal 30 Oktober 2026. Penyampaian ini merupakan kewajiban rutin emiten berdasarkan Peraturan OJK Nomor 14/POJK.04/2022 tentang Penyampaian Laporan Keuangan Berkala Emiten. Direksi menyatakan laporan ini telah sesuai dengan aturan OJK Nomor 75/POJK.04/2017 tentang tanggung jawab direksi atas laporan keuangan.",
+   "Dari sisi posisi keuangan, total aset BBYB tercatat Rp17,19 triliun per akhir September 2026, turun Rp1,79 triliun atau 9,4 persen dari posisi akhir 2025 yang sebesar Rp18,97 triliun. Penyusutan aset ini sejalan dengan turunnya total liabilitas menjadi Rp12,63 triliun dari sebelumnya Rp14,74 triliun, terutama didorong simpanan nasabah yang menyusut 15,4 persen menjadi Rp11,86 triliun dari Rp14,03 triliun. Simpanan berjangka pihak ketiga, komponen terbesar dana nasabah, turun dari Rp9,85 triliun menjadi Rp7,92 triliun, sementara tabungan pihak ketiga turun dari Rp3,44 triliun menjadi Rp3,26 triliun. Di sisi kredit, kredit yang diberikan sebelum pencadangan turun menjadi Rp6,73 triliun dari Rp7,18 triliun, sementara cadangan kerugian penurunan nilai atas kredit berkurang menjadi Rp469,37 miliar dari Rp515,06 miliar. Sebaliknya, jumlah ekuitas naik 7,6 persen menjadi Rp4,55 triliun dari Rp4,23 triliun, didorong laba periode berjalan yang mengecilkan akumulasi kerugian dari Rp1,73 triliun menjadi Rp1,30 triliun.",
+   "Dari sisi laba rugi, pendapatan bunga BBYB tercatat Rp2,22 triliun selama sembilan bulan 2026, turun dari Rp2,38 triliun pada periode yang sama tahun lalu, sementara beban bunga ikut turun menjadi Rp534,69 miliar dari Rp588,59 miliar. Pendapatan bunga bersih turun 5,7 persen menjadi Rp1,69 triliun dari Rp1,79 triliun. Beban kerugian penurunan nilai aset keuangan dan non-keuangan, pos beban operasional terbesar bank ini, tercatat Rp904,39 miliar, sedikit lebih rendah dari Rp972,74 miliar pada periode sebelumnya. Dengan laba operasional Rp460,92 miliar dan beban non-operasional bersih Rp32,44 miliar, laba bersih BBYB untuk sembilan bulan 2026 tercatat Rp430,98 miliar, turun 7,1 persen dari Rp464 miliar pada periode yang sama tahun 2025. Laba per saham dasar dan dilusian ikut turun dari Rp34,76 menjadi Rp32,28, dengan jumlah saham beredar tetap di 13.350.482.346 lembar bernilai nominal Rp100 per saham."
+  ],
+  "fotoAdegan": "Young professional holding a smartphone while walking through a busy Jakarta financial district, modern office towers in the background, midday light.",
+  "takeaway": "Laporan ini membawa sinyal yang condong negatif bagi BBYB, karena penyusutan simpanan nasabah dan kredit jauh lebih besar dibanding perbaikan ekuitas, menunjukkan bank ini sedang menyusutkan skala bisnisnya, bukan sekadar memperbaiki kualitas aset. Pos yang paling terdampak adalah dana pihak ketiga, yaitu simpanan nasabah yang jadi sumber utama bank untuk menyalurkan kredit, serta laba per saham, yaitu bagian laba yang bisa diklaim setiap lembar saham, yang turun dari Rp34,76 menjadi Rp32,28 karena laba bersih mengecil sementara jumlah saham beredar tidak berubah. Di sisi lain, ekuitas tetap tumbuh karena laba sembilan bulan ini menambah saldo laba dan mengecilkan akumulasi kerugian lama bank yang masih tersisa Rp1,3 triliun, jadi proses pemulihan modal belum selesai. Yang perlu dipantau berikutnya adalah apakah tren penyusutan simpanan dan kredit ini berbalik arah pada laporan keuangan tahunan penuh 2026, sebab basis dana yang terus mengecil bisa membatasi kemampuan bank menyalurkan kredit baru pada kuartal-kuartal mendatang.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kbli-liabilitas-naik-116-jadi-rp960-3-miliar-per-september",
+  "category": "Aksi Korporasi",
+  "title": "KBLI: Liabilitas Naik [116%] Jadi Rp960,3 Miliar per September",
+  "deck": "Total liabilitas KMI Wire and Cable melonjak 116,38 persen menjadi Rp960,3 miliar per akhir September 2026, dipicu utang bank, utang dagang, dan uang muka penjualan yang membesar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T17:40:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102175139-65203-0/FinancialStatement-2026-III-KBLI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KBLI",
+  "tags": [
+   "KBLI",
+   "KMI Wire and Cable",
+   "liabilitas",
+   "laporan keuangan"
+  ],
+  "body": [
+   "KMI Wire and Cable Tbk (KBLI) menyampaikan penjelasan tertulis ke Bursa Efek Indonesia karena jumlah liabilitasnya naik lebih dari 20 persen, sesuai aturan Peraturan Bursa No. I.E. Jumlah liabilitas perusahaan tercatat Rp960,3 miliar pada 30 September 2026, naik Rp516,5 miliar atau 116,38 persen dari Rp443,8 miliar pada 31 Desember 2025. Perusahaan menjelaskan kenaikan itu terutama berasal dari utang bank yang bertambah Rp301,1 miliar, utang dagang Rp120,3 miliar, dan uang muka penjualan Rp98,4 miliar, sebagai dampak kenaikan harga bahan baku utama yang mengerek nilai persediaan, serta kenaikan piutang usaha seiring penjualan yang meningkat. Surat penjelasan ini diteken oleh Wakil Presiden Direktur Faisal Dharma Setiawan.",
+   "Kenaikan liabilitas tersebut mengubah sejumlah rasio keuangan perusahaan. Rasio aset lancar terhadap liabilitas lancar turun 51,7 persen, dari 7,82 kali pada akhir 2025 menjadi 3,77 kali pada akhir September 2026. Rasio jumlah liabilitas terhadap jumlah aset naik 80,7 persen dari 0,13 menjadi 0,24, sementara rasio liabilitas terhadap ekuitas naik 106 persen dari 0,15 menjadi 0,31.",
+   "Dari sisi kinerja, pendapatan sembilan bulan 2026 tercatat Rp3.551,67 miliar, naik dari Rp2.694,39 miliar pada periode yang sama tahun lalu, dengan laba bersih naik dari Rp142,29 miliar menjadi Rp166,69 miliar dan laba per saham dasar naik dari Rp35,52 menjadi Rp40,58. Namun arus kas dari aktivitas operasi berbalik menjadi negatif Rp185,37 miliar, dari sebelumnya positif Rp162,39 miliar pada sembilan bulan 2025, karena pembayaran kepada pemasok dan karyawan melebihi penerimaan dari pelanggan. Kekurangan kas operasional itu ditutup dengan penarikan utang bank baru senilai Rp597,91 miliar, sehingga kas dan setara kas akhir periode tercatat Rp154,82 miliar, turun dari Rp224,01 miliar pada akhir 2025."
+  ],
+  "fotoAdegan": "Workers in safety vests monitoring large copper wire spooling machines inside an industrial cable manufacturing plant, overhead lighting",
+  "takeaway": "Laporan ini netral bagi KBLI: penjualan dan laba bersih tumbuh dua digit, tapi pertumbuhan itu dibiayai utang baru karena kas yang benar-benar dihasilkan dari kegiatan usaha sehari-hari justru negatif, jadi belum ada sinyal searah yang jelas. Arus kas operasi berbeda dari laba akuntansi, karena laba bisa tercatat tinggi meski uangnya belum diterima tunai, dan di sinilah KBLI justru mengalami kekurangan kas. Rasio lancar yang turun dari 7,82 jadi 3,77 kali berarti bantalan kas untuk membayar utang jangka pendek menipis, meski masih berada di level yang tergolong aman, sementara rasio utang terhadap modal sendiri yang naik dari 0,15 ke 0,31 menunjukkan porsi pembiayaan dari utang membesar meski levelnya masih rendah. Yang perlu dipantau berikutnya adalah apakah arus kas operasi kembali positif pada laporan keuangan kuartal IV atau laporan tahunan 2026, dan apakah lonjakan persediaan akibat harga bahan baku mulai mereda setelah terserap penjualan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "itmg-bagikan-dividen-interim-us-74-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "ITMG Bagikan Dividen Interim [US$74,2 Juta]",
+  "deck": "ITMG akan membagikan dividen tunai interim US$74,2 juta untuk tahun buku 2026, dengan pencatatan pemegang saham 12 November dan pembayaran 18 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T17:38:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d1cf060b9_c4653114fd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ITMG",
+  "tags": [
+   "ITMG",
+   "dividen interim",
+   "Indo Tambangraya Megah",
+   "batu bara"
+  ],
+  "body": [
+   "Indo Tambangraya Megah Tbk (ITMG) mengumumkan rencana pembagian dividen tunai interim untuk tahun buku 2026 dengan total nilai US$74,2 juta. Keputusan ini diambil Direksi pada 27 Oktober 2026 dan telah disetujui Dewan Komisaris pada 30 Oktober 2026.",
+   "Jadwal pembagiannya sebagai berikut: cum dividen di pasar reguler dan negosiasi jatuh pada 10 November 2026, dengan ex dividen sehari setelahnya pada 11 November 2026. Di pasar tunai, cum dividen berlaku 12 November 2026 dan ex dividen 13 November 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per 12 November 2026 pukul 16.00 WIB berhak menerima dividen ini. Pembayaran akan dilakukan paling lambat 18 November 2026, disalurkan melalui KSEI ke rekening dana nasabah bagi saham dalam penitipan kolektif, atau ditransfer langsung bagi saham di luar penitipan kolektif.",
+   "Berdasarkan data keuangan per 30 Juni 2026 yang menjadi dasar pembagian dividen ini, laba bersih yang diatribusikan kepada entitas induk tercatat US$105,99 juta, saldo laba ditahan yang tidak dibatasi penggunaannya US$1,51 miliar, dan total ekuitas perusahaan US$1,91 miliar. Perseroan juga menjelaskan aturan pajaknya: dividen ke pemegang saham badan dalam negeri dikecualikan dari pajak, dividen ke pemegang saham perorangan dalam negeri bebas pajak jika diinvestasikan kembali di Indonesia, dan bagi pemegang saham asing yang tidak menyerahkan dokumen DGT/SKD, dividen akan dipotong pajak 20 persen sesuai Pasal 26."
+  ],
+  "fotoAdegan": "Large haul trucks carrying coal down a terraced open-pit mine road, dust rising, overcast tropical sky",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham ITMG, karena perusahaan mampu membagikan dividen interim US$74,2 juta, setara sekitar 70 persen dari laba bersih semester pertama 2026 yang mencapai US$105,99 juta, menandakan kas operasional yang masih kuat. Yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan utang perusahaan, yang akan berkurang sebesar nilai dividen begitu dibayarkan, serta arus kas, yakni aliran uang masuk dan keluar perusahaan, yang akan tercatat keluar sekitar US$74,2 juta pada pertengahan November. Meski demikian, saldo laba ditahan yang tidak dibatasi penggunaannya masih tersisa US$1,51 miliar dari total ekuitas US$1,91 miliar, sehingga pembagian ini tampak masih sebanding dengan kemampuan permodalan perusahaan. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 12 November 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran paling lambat 18 November 2026.",
   "sentimen": "positif"
  },
  {
@@ -1477,6 +1581,137 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Kenaikan nilai ekspor menandakan lebih banyak uang dari luar negeri yang masuk ke Indonesia lewat penjualan barang, yang biasanya ikut menopang nilai tukar rupiah dan aktivitas industri dalam negeri.",
   "bpsIndikator": "ekspor"
+ },
+ {
+  "slug": "bwpt-koreksi-jadwal-dividen-interim-rp31-1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Koreksi Jadwal [Dividen] Interim Rp31,1 Miliar",
+  "deck": "Eagle High Plantations (BWPT) mengoreksi jadwal dividen interim Rp1 per saham senilai Rp31,12 miliar, dengan recording date 12 November dan pembayaran 25 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T17:20:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/51e6638467_41d5b2fa57.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BWPT",
+  "tags": [
+   "BWPT",
+   "dividen interim",
+   "Eagle High Plantations",
+   "dividen tunai"
+  ],
+  "body": [
+   "Eagle High Plantations Tbk (BWPT) menerbitkan koreksi atas surat jadwal dividen interim yang dikirimkan pada hari yang sama, 2 November 2026. Isi pokoknya tidak berubah: sesuai keputusan Direksi yang disetujui Dewan Komisaris pada 30 Oktober 2026, perusahaan akan membagikan dividen tunai interim untuk tahun buku 2026 dengan total nilai Rp31.122.368.200, atau Rp1 per saham.",
+   "Jadwal pembagian ditetapkan sebagai berikut: cum dividen di pasar reguler dan negosiasi pada 10 November 2026, lalu ex dividen pada 11 November 2026. Di pasar tunai, cum dividen jatuh pada 12 November 2026 dan ex dividen pada 13 November 2026. Tanggal pencatatan pemegang saham yang berhak atas dividen (recording date) ditetapkan 12 November 2026 pukul 16.00, dan pembayaran dilakukan pada 25 November 2026 melalui KSEI bagi saham yang berada dalam penitipan kolektif. Pemegang saham yang sahamnya tidak dititipkan di KSEI akan menerima cek yang dikirim ke alamat yang wajib dilaporkan ke perusahaan paling lambat 12 November 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 September 2026, dengan laba bersih yang diatribusikan kepada entitas induk sebesar Rp363,36 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya sebesar jumlah yang sama, dan total ekuitas Rp3,20 triliun. Perusahaan juga menjelaskan bahwa dividen ini dapat bebas pajak jika diterima pemegang saham badan dalam negeri, dan bebas pajak bagi pemegang saham perorangan dalam negeri sepanjang dananya diinvestasikan kembali di Indonesia sesuai PP No. 9/2021 dan PMK 18/2021. Pemegang saham luar negeri yang ingin memakai tarif pajak berdasarkan perjanjian penghindaran pajak berganda wajib menyerahkan dokumen domisili pajak ke KSEI, atau akan dikenakan PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Workers harvesting bright orange oil palm fruit bunches onto a truck in a tropical plantation, midday light",
+  "takeaway": "Laporan ini condong positif bagi BWPT karena menunjukkan perusahaan mencatat laba bersih Rp363,36 miliar dalam sembilan bulan 2026 dan memiliki kas yang cukup untuk dibagikan ke pemegang saham, meski porsi yang dibagikan, Rp31,12 miliar, hanya sekitar 8,6 persen dari laba tersebut sehingga tidak menguras keuangan perusahaan. Pos yang tersentuh adalah ekuitas, yaitu total kekayaan bersih perusahaan setelah dikurangi utang, yang akan berkurang tipis begitu dividen dibayarkan dari posisi Rp3,20 triliun saat ini, sementara laba ditahan memang sengaja dicairkan sebagian untuk pemegang saham alih-alih seluruhnya disimpan di perusahaan. Yang perlu dipantau pemegang saham adalah tenggat ex dividen di pasar reguler pada 11 November 2026, karena pembeli saham sesudah tanggal itu tidak lagi berhak atas dividen ini, serta tanggal pembayaran pada 25 November 2026 sebagai konfirmasi dana benar-benar cair ke rekening.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "rmko-rampungkan-rights-issue-rp114-3-m-laba-bersih-balik-positif",
+  "category": "Aksi Korporasi",
+  "title": "RMKO Rampungkan [Rights Issue] Rp114,3 M, Laba Bersih Balik Positif",
+  "deck": "RMKO merampungkan rights issue Rp114,3 miliar dan membalik laba bersih sembilan bulan 2026 menjadi positif, ditopang penurunan drastis rasio utang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T17:17:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/55638068ae_0878ddb887.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RMKO",
+  "tags": [
+   "RMKO",
+   "Rights Issue",
+   "Kinerja Keuangan",
+   "Batu Bara"
+  ],
+  "body": [
+   "PT Royaltama Mulia Kontraktorindo Tbk (RMKO) menyampaikan bahwa rights issue pertamanya telah rampung dengan total dana terkumpul Rp114,3 miliar. Pemegang saham utama, PT RMK Investama (RMKI), melaksanakan seluruh haknya dengan menyerap 308.564.114 saham baru senilai Rp108,0 miliar, sementara publik menyerap sisanya senilai Rp6,3 miliar. Total saham baru yang diterbitkan sebanyak 326.720.595 lembar dengan harga pelaksanaan Rp350 per saham. Setelah aksi korporasi ini, susunan pemegang saham RMKO menjadi RMKI 73,082 persen, Komisaris Utama Vincent Saputra 0,002 persen, dan publik 26,916 persen. Perusahaan menyebut dana segar ini untuk memperkuat likuiditas guna mendukung operasional dan permintaan jasa pertambangan terintegrasi yang terus naik.",
+   "Dalam laporan kinerja sembilan bulan 2026 yang disampaikan bersamaan, pendapatan usaha RMKO tercatat Rp345,3 miliar, naik 57,4 persen dibanding periode sama tahun lalu, namun baru mencapai 62,4 persen dari target tahunan Rp553,1 miliar. Laba bersih berbalik positif menjadi Rp1,2 miliar, naik 102,4 persen secara tahunan, sementara EBITDA (laba usaha sebelum bunga, pajak, dan penyusutan) melonjak 738,1 persen menjadi Rp59,4 miliar. Khusus kuartal ketiga 2026, laba bersih melesat 1.034 persen secara tahunan menjadi Rp48,6 miliar, didorong bertambahnya jumlah tambang pihak ketiga yang dilayani jasa hauling dan Train Loading System (TLS), serta selesainya proyek konstruksi fasilitas penunjang grup. Dari sisi segmen, pendapatan konstruksi naik paling tinggi yakni 130,9 persen menjadi Rp143,7 miliar, disusul rental naik 50,1 persen menjadi Rp98,8 miliar, dan jasa pertambangan naik 12,5 persen menjadi Rp102,8 miliar.",
+   "Posisi keuangan RMKO ikut menguat. Total ekuitas naik 63,4 persen menjadi Rp291,1 miliar pada akhir September 2026, sementara total liabilitas turun 14,2 persen menjadi Rp325,1 miliar setelah perusahaan melunasi utang berbunga sebesar 40,6 persen. Rasio utang berbunga terhadap ekuitas (DER) turun tajam dari 0,54 kali pada akhir 2025 menjadi 0,19 kali, jauh di bawah batas kovenan kredit 2,5 kali. Secara operasional, volume hauling batu bara sembilan bulan 2026 naik 122,4 persen menjadi 1,1 juta ton, dan volume Train Loading System naik 155,9 persen menjadi 2,3 juta ton, seiring bertambahnya tambang pihak ketiga yang memakai jalan hauling sepanjang 38 kilometer milik grup RMKE. Perusahaan juga melaporkan progres pembangunan TLS 2 di Gunung Megang yang telah mencapai 60 persen dan ditargetkan beroperasi pada 2027, serta pengerasan jalan hauling model chip seal yang baru mencapai 26 persen."
+  ],
+  "fotoAdegan": "Heavy dump trucks hauling coal along a wide unpaved mining road through hilly terrain, dusty morning light in South Sumatra",
+  "takeaway": "Laporan ini condong positif bagi RMKO karena rights issue berhasil menambah modal dan laba bersih berbalik dari rugi menjadi untung, meski pencapaian terhadap target laba tahunan masih tipis. Pos yang paling tersentuh adalah ekuitas dan rasio utang terhadap modal atau DER: ekuitas melonjak 63,4 persen karena ada modal segar dari rights issue, sementara DER yang turun dari 0,54 kali menjadi 0,19 kali menunjukkan utang berbunga perusahaan kini jauh lebih kecil dibanding modal sendirinya, sinyal bahwa RMKO punya ruang lebih aman menghadapi kondisi sulit atau menambah pinjaman baru. Investor juga perlu mencermati bahwa setelah sembilan bulan, laba bersih RMKO baru mencapai 28,5 persen dari target setahun, sehingga kuartal keempat harus menanggung beban pertumbuhan berat agar target tahunan tercapai. Yang perlu dipantau berikutnya adalah penyelesaian fasilitas Train Loading System kedua di Gunung Megang yang ditargetkan mulai beroperasi pada 2027, karena dari situ kapasitas angkutan batu bara RMKO akan berlipat menjadi 8 sampai 10 juta ton per tahun.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "boss-lapor-lk-kuartal-i-2024-defisit-modal-melebar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Lapor LK Kuartal I/2024, [Defisit Modal] Melebar",
+  "deck": "BOSS baru menyerahkan laporan keuangan kuartal I 2024, dua tahun setelah periode itu berakhir, dengan penjualan nihil dan defisit modal melebar jadi Rp206,61 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T17:12:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261102172155-65678-0/FinancialStatement-2024-I-BOSS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "defisit modal",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode tiga bulan yang berakhir 31 Maret 2024, lewat surat bernomor 12.206a/SL.e/Dir/BOSS/X/2026 tertanggal 2 November 2026. Surat pernyataan direksi ditandatangani Direktur Utama Freddy Tedjasasmita dan Direktur Widodo Nurly Sumady, yang menyatakan bertanggung jawab atas kelengkapan dan kebenaran laporan tersebut.",
+   "Pada kuartal I 2024, BOSS kembali tidak membukukan penjualan sama sekali, berbeda dari kuartal I 2023 yang masih mencatat penjualan bersih Rp44,18 miliar. Rugi bersih periode ini tercatat Rp4,26 miliar, jauh lebih kecil dari rugi Rp95,78 miliar pada kuartal I 2023, sehingga rugi per saham dasar turun dari Rp68 menjadi Rp3. Beban yang tersisa hanya beban umum dan administrasi Rp4,09 miliar serta beban keuangan Rp37,74 juta, karena praktis tidak ada lagi aktivitas usaha.",
+   "Dari sisi posisi keuangan, total aset BOSS per 31 Maret 2024 tercatat Rp592,82 miliar, turun dari Rp596,64 miliar pada akhir 2023, dengan kas perusahaan tergerus dari Rp998,86 juta menjadi Rp962,97 juta. Total liabilitas mencapai Rp799,43 miliar, membuat defisiensi modal yang dapat diatribusikan kepada pemilik entitas induk melebar dari Rp201,83 miliar menjadi Rp206,61 miliar dalam tiga bulan. Arus kas dari aktivitas operasi tercatat negatif Rp30,09 miliar, ditutupi oleh aktivitas pendanaan berupa penerimaan utang pihak ketiga Rp32,03 miliar dan pelunasan utang bank jangka pendek Rp2,61 miliar.",
+   "Laporan ini juga memuat struktur anak usaha BOSS per akhir 2023: Pratama Natural Resource (PNR) bergerak di perdagangan dan masih pra-operasi, PT Bangun Olahsarana Sukses (BOS) dan PT Pratama Bersama (PB) adalah dua entitas tambang yang berstatus operasi, sementara PT Pratama Buana Sentosa (PBS) dan PT Pratama Prime Resource (PPR) masih pra-operasi. Hanya dua dari lima anak usaha itu yang berstatus beroperasi, namun grup secara konsolidasi tetap tanpa penjualan sepanjang periode."
+  ],
+  "fotoAdegan": "Idle excavators beside an empty coal stockpile at a quiet open-pit mine, overcast sky, tall grass overtaking parked machinery",
+  "takeaway": "Laporan ini negatif bagi BOSS, karena rugi yang mengecil bukan tanda perbaikan, melainkan cermin perusahaan yang nyaris tidak beraktivitas sama sekali, sementara defisit modal justru terus membesar dan kasnya tinggal di bawah Rp1 miliar. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, yang sudah negatif Rp206,61 miliar, artinya utang BOSS sudah melebihi seluruh nilai asetnya. Arus kas dari kegiatan usaha sehari hari juga negatif Rp30,09 miliar, yang berarti operasional perusahaan menyedot kas bukan menghasilkannya, dan lubang itu ditutup dengan utang baru dari pihak ketiga. Jumlah saham beredar tidak berubah di 1,4 miliar lembar, sehingga penurunan rugi per saham hanya mengikuti mengecilnya rugi total, bukan sinyal kinerja membaik. Yang perlu dipantau selanjutnya adalah apakah BOSS bisa mengejar ketertinggalan pelaporan, karena laporan kuartal I 2024 ini baru terbit pada November 2026, serta bagaimana kelanjutan status pemantauan khusus di bursa dan proses hukum anak usaha tambangnya yang sudah berulang kali disebut pailit dalam laporan-laporan sebelumnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bnba-dana-nasabah-turun-30-laba-bersih-naik-dua-kali",
+  "category": "Aksi Korporasi",
+  "title": "BNBA: Dana Nasabah [Turun] 30%, Laba Bersih Naik Dua Kali",
+  "deck": "Simpanan nasabah Bank Bumi Arta turun Rp1,58 triliun dalam sembilan bulan karena nasabah pindah ke bank pesaing berbunga lebih tinggi, meski laba bersihnya naik dua kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T17:11:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102171905-65331-0/FinancialStatement-2026-III-BNBA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNBA",
+  "tags": [
+   "BNBA",
+   "Bank Bumi Arta",
+   "simpanan nasabah",
+   "laporan keuangan interim"
+  ],
+  "body": [
+   "PT Bank Bumi Arta Tbk (BNBA) menyampaikan laporan keuangan interim per 30 September 2026 sekaligus surat penjelasan khusus ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, karena total aset dan total liabilitasnya berubah lebih dari 20 persen dibandingkan akhir 2025, sesuai aturan keterbukaan Peraturan I-E. Total aset tercatat Rp6,99 triliun per akhir September 2026, turun 18,16 persen atau Rp1,55 triliun dari Rp8,55 triliun per 31 Desember 2025. Total liabilitas turun lebih tajam, 29,88 persen atau sekitar Rp1,59 triliun, dari Rp5,32 triliun menjadi Rp3,73 triliun.",
+   "Menurut surat yang diteken Wakil Komisaris/Komisaris Independen Daniel Budi Dharma dan Komisaris I Gusti Agung Rai Wirajaya, penyebab utama penyusutan itu adalah simpanan nasabah yang turun Rp1,58 triliun atau 30,68 persen, dari Rp5,14 triliun menjadi Rp3,56 triliun. Rinciannya, deposito berjangka turun Rp1,37 triliun atau 35,82 persen, giro turun Rp156,13 miliar atau 16,44 persen, dan tabungan turun Rp53,33 miliar atau 14,20 persen. Bank menyebut dana nasabah, terutama deposito, berpindah ke bank kompetitor yang menawarkan suku bunga jauh lebih tinggi, dan manajemen mengaku tetap mengelola bunga simpanan secara selektif sambil menjaga margin bunga bersihnya.",
+   "Di sisi laba rugi, kondisinya justru berbalik arah. Laba bersih sembilan bulan 2026 tercatat Rp37,43 miliar, naik lebih dari dua kali lipat dari Rp17,84 miliar pada periode sama tahun lalu, dengan laba per saham naik dari Rp5,27 menjadi Rp11,05. Kenaikan laba ini ditopang oleh pembalikan cadangan kerugian penurunan nilai sebesar Rp11,49 miliar, berbanding penyisihan beban Rp15,05 miliar pada tahun sebelumnya, serta beban operasional lain yang turun dari Rp217,65 miliar menjadi Rp208,71 miliar. Ekuitas bank naik tipis dari Rp3,23 triliun menjadi Rp3,27 triliun, sementara arus kas dari aktivitas operasi justru defisit Rp644,18 miliar, jauh lebih besar dari defisit Rp52,83 miliar tahun lalu, terutama karena bank harus membayarkan dana nasabah yang ditarik."
+  ],
+  "fotoAdegan": "Interior of a modest Indonesian bank branch with customers queuing calmly at teller counters, soft afternoon light",
+  "takeaway": "Laporan ini campur tapi secara keseluruhan condong negatif bagi fundamental BNBA, karena hilangnya hampir sepertiga simpanan nasabah dalam sembilan bulan adalah persoalan struktural, bank kehilangan basis pendanaan ke kompetitor yang membayar bunga lebih tinggi, sementara lonjakan laba bersihnya lebih banyak ditopang pembalikan cadangan kerugian dan penghematan beban ketimbang pertumbuhan bisnis inti. Yang tersentuh adalah arus kas operasional, yang berbalik defisit besar karena bank harus mencairkan dana untuk nasabah yang menarik simpanannya, dan margin bunga bersih, yaitu selisih antara bunga yang diterima bank dari kredit dan bunga yang dibayarkan ke nasabah, yang menurut manajemen tetap dijaga meski basis dananya menyusut. Laba per saham naik karena laba bersihnya yang melonjak, bukan karena jumlah saham beredar berkurang. Yang perlu dipantau berikutnya adalah apakah tren penarikan simpanan ini berlanjut atau justru terhenti pada laporan kuartal IV 2026 mendatang, dan apakah bank akhirnya perlu menaikkan bunga simpanan untuk menahan nasabahnya, yang bila terjadi akan menekan kembali margin bunga bersih yang saat ini masih terjaga.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-pertahankan-suspensi-saham-menn-dan-soul",
+  "category": "Aksi Korporasi",
+  "title": "BEI Pertahankan [Suspensi] Saham MENN dan SOUL",
+  "deck": "BEI tetap menghentikan sementara perdagangan saham MENN dan SOUL karena belum menyerahkan laporan keuangan interim per 30 Juni 2026 hingga 31 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T17:10:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8ec620540d_dd032b771c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "MENN",
+   "SOUL",
+   "suspensi",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan tetap melanjutkan penghentian sementara atau suspensi perdagangan saham dua perusahaan tercatat di Papan Akselerasi, yaitu PT Menn Teknologi Indonesia Tbk (MENN) dan PT Mitra Tirta Buwana Tbk (SOUL). Alasannya, keduanya belum menyampaikan Laporan Keuangan Interim per 30 Juni 2026 yang tidak disertai laporan akuntan publik. Berdasarkan pemantauan BEI hingga 31 Oktober 2026, saham MENN disuspensi di seluruh pasar, sementara saham SOUL hanya disuspensi di pasar reguler dan tunai, artinya transaksi negosiasi untuk SOUL masih memungkinkan.",
+   "Dasar aturannya adalah Ketentuan VIII.2.2 dan IX.3.4 Peraturan Bursa Nomor I-V tentang Ketentuan Khusus Pencatatan Saham di Papan Akselerasi. Aturan itu mengacu pada batas waktu penyampaian laporan keuangan tengah tahunan sesuai POJK Nomor 14/POJK.04/2022, dan mewajibkan BEI mengenakan suspensi apabila sampai awal bulan keempat sejak batas waktu tersebut, perusahaan tercatat masih belum menyerahkan laporannya. Karena masa itu sudah lewat dan MENN maupun SOUL tetap belum menyampaikan laporan, BEI memutuskan mempertahankan suspensi yang sudah berjalan, bukan mengenakan sanksi baru.",
+   "Pengumuman bernomor Peng-S-00035/BEI.PLP/11-2026 ini ditandatangani oleh Bima Ruditya Surya, Pejabat Sementara Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat, bersama Pande Made Kusuma Ari A., Kepala Divisi Pengaturan dan Operasional Perdagangan, pada 2 November 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs and switched off computer monitors on a quiet trading floor inside a modern office building, afternoon light",
+  "takeaway": "Ini sinyal negatif bagi pemegang saham MENN dan SOUL, sebab suspensi membuat saham keduanya tidak bisa diperjualbelikan secara normal selama kewajiban pelaporan belum dipenuhi. Yang langsung tersentuh adalah likuiditas saham investor, karena dana yang tertanam di MENN dan SOUL praktis terkunci selama suspensi berlangsung, sementara keterlambatan laporan keuangan interim juga membuat publik belum bisa menilai kinerja riil kedua perusahaan pada semester pertama 2026. Yang perlu dipantau berikutnya adalah kapan MENN dan SOUL akhirnya menyerahkan laporan keuangan interim mereka ke BEI, karena status suspensi baru bisa dicabut setelah itu. Kalau penundaan terus berlanjut, BEI berpotensi menjatuhkan sanksi tambahan yang lebih berat terhadap dua emiten papan akselerasi ini.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bumi-perpanjang-target-akuisisi-laman-mining-ke-januari-2027",

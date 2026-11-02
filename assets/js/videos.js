@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "HEBrnjMEN3U",
+  "title": "KADIN Dorong Perempuan Pengusaha Perkuat Ekonomi",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Kamar Dagang dan Industri Indonesia menyatakan dukungan terhadap Musyawarah Nasional X Ikatan Wanita Pengusaha Indonesia sebagai upaya mendorong peran pengusaha perempuan dalam penguatan ekonomi nasional.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran pengusaha perempuan dan UMKM dalam mendukung pertumbuhan ekonomi nasional.",
+  "terbit": "2026-11-02T09:34:51+00:00"
+ },
+ {
   "id": "MWhh4s9pcHY",
   "title": "OJK Perkuat Penegakan Hukum di Pasar Modal",
   "category": "Pasar Modal",

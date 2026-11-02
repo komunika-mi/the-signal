@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penumpang-ka-september-tembus-48-55-juta-orang",
+  "category": "Bisnis",
+  "title": "Penumpang KA September Tembus [48,55 Juta Orang]",
+  "deck": "Jumlah penumpang kereta api naik tipis 0,47% dibanding Agustus, namun melonjak 7,83% dibanding September tahun lalu.",
+  "date": "2 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "kereta api",
+   "bps",
+   "transportasi",
+   "penumpang"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "surplus-dagang-ri-turun-jadi-us-3-36-miliar",
+  "category": "Perdagangan",
+  "title": "Surplus Dagang RI Turun Jadi [US$3,36 Miliar]",
+  "deck": "Neraca dagang Indonesia September 2026 surplus US$3,36 miliar, mengecil dibanding US$3,55 miliar pada Agustus 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/pasar-modal.jpg",
+  "tags": [
+   "neraca dagang",
+   "bps",
+   "ekspor-impor",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "impor-ri-september-naik-18-41-jadi-us-24-2-miliar",
+  "category": "Perdagangan",
+  "title": "Impor RI September [naik 18,41%] jadi US$24,2 miliar",
+  "deck": "Nilai impor Indonesia naik dibanding Agustus maupun dibanding September tahun lalu, setelah sempat turun bulan sebelumnya",
+  "date": "2 November 2026",
+  "image": "assets/img/moneter-bi.jpg",
+  "tags": [
+   "impor",
+   "bps",
+   "perdagangan",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "ekspor-september-tembus-27-6-miliar-us",
+  "category": "Perdagangan",
+  "title": "Ekspor September Tembus [27,6 Miliar US$]",
+  "deck": "Nilai ekspor Indonesia naik ke level tertinggi dalam enam bulan terakhir, melanjutkan tren kenaikan sejak Juni 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "ekspor",
+   "bps",
+   "neraca dagang",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
   "slug": "bumi-perpanjang-target-akuisisi-laman-mining-ke-januari-2027",
   "category": "Aksi Korporasi",
   "title": "BUMI Perpanjang Target Akuisisi [Laman Mining] ke Januari 2027",
@@ -213,6 +277,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "unsp-catat-penjualan-rp2-2-triliun-ekuitas-positif-lagi",
+  "category": "Pasar Modal",
+  "title": "UNSP Catat Penjualan Rp2,2 Triliun, Ekuitas [Positif] Lagi",
+  "deck": "Bakrie Sumatera Plantations (UNSP) membukukan ekuitas positif Rp2,77 triliun pada kuartal III 2026, berbalik dari negatif, lewat konversi utang jadi saham dan revaluasi aset, meski masih rugi.",
+  "date": "2 November 2026",
+  "image": "assets/img/unsp-catat-penjualan-rp2-2-triliun-ekuitas-positif-lagi.jpg",
+  "imageV": "mvz459m7",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "ekuitas",
+   "sawit"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476205-unsp-bukukan-penjualan-rp-22-triliun-lonjakan-ekuitas-rp-8-triliun-dan-targetkan-rp-3-triliun-pada-2026"
+ },
+ {
   "slug": "tfco-gelar-public-expose-usai-saham-sentuh-ara-3-hari",
   "category": "Aksi Korporasi",
   "title": "TFCO Gelar Public Expose Usai Saham Sentuh [ARA] 3 Hari",
@@ -298,7 +379,7 @@ var ARTICLES = [
   "title": "Okupansi Hotel Bintang [Turun] Jadi 51,75% di September",
   "deck": "Setelah naik tiga bulan beruntun sejak April, tingkat keterisian kamar hotel bintang nasional melambat pada September 2026.",
   "date": "2 November 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "bps",
    "hotel",
@@ -314,7 +395,7 @@ var ARTICLES = [
   "title": "Wisatawan Asing September [Turun ke 1,43 Juta]",
   "deck": "Setelah naik empat bulan beruntun, kunjungan turis asing ke Indonesia turun 10,79% dari Agustus ke September 2026.",
   "date": "2 November 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "bps",
    "wisatawan asing",
@@ -6114,7 +6195,7 @@ var ARTICLES = [
   "title": "RI Kejar [Reformasi] Pasar Modal Sebelum Tenggat MSCI 2027",
   "deck": "Pemerintah menaikkan syarat free float jadi 15 persen dan memperkuat keterbukaan pemilik saham menjelang tenggat evaluasi MSCI pada 30 April 2027.",
   "date": "27 Oktober 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "tags": [
    "MSCI",
    "pasar modal",
@@ -6398,86 +6479,6 @@ var ARTICLES = [
    "perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027164104-65005-0/FinancialStatement-2026-III-BBCA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jpfa-capex-2026-diproyeksi-tembus-rp4-triliun",
-  "category": "Aksi Korporasi",
-  "title": "JPFA: Capex 2026 Diproyeksi Tembus [Rp4 Triliun]",
-  "deck": "Dalam public expose tahunan 22 Oktober 2026, manajemen JPFA membahas realisasi buyback, divestasi Vaksindo, dan capex semester I yang sudah Rp2,16 triliun.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JPFA",
-   "Japfa Comfeed",
-   "Public Expose",
-   "Capex"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/be7b2e0891_c116145e96.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jarr-catat-laba-melonjak-56-ke-rp349-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "JARR Catat Laba [Melonjak] 56% ke Rp349 Miliar di Kuartal III 2026",
-  "deck": "Laba bersih JARR naik 56 persen jadi Rp349,27 miliar pada kuartal III 2026, didorong penjualan yang tumbuh 14 persen menjadi Rp3,53 triliun.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JARR",
-   "laporan keuangan",
-   "laba bersih",
-   "kelapa sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027163459-64935-0/FinancialStatement-2026-III-JARR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sgro-pangkas-utang-rp2-triliun-liabilitas-turun-30",
-  "category": "Aksi Korporasi",
-  "title": "SGRO Pangkas [Utang] Rp2 Triliun, Liabilitas Turun 30%",
-  "deck": "SGRO melaporkan keuangan interim kuartal III 2026 sekaligus menjelaskan ke bursa bahwa total utangnya turun 30 persen setelah melunasi pinjaman bank dan obligasi senilai sekitar Rp2 triliun.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SGRO",
-   "laporan keuangan",
-   "utang",
-   "kelapa sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027163338-65017-0/FinancialStatement-2026-III-SGRO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-sewakan-lahan-riau-ke-arara-abadi-transaksi-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "INKP Sewakan Lahan Riau ke Arara Abadi, Transaksi [Afiliasi]",
-  "deck": "INKP menyewakan lahan 47.526 meter persegi di Siak, Riau kepada PT Arara Abadi, pemasok bahan baku yang terafiliasi, dengan harga Rp190 juta per tahun selama 20 tahun.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "transaksi afiliasi",
-   "Arara Abadi",
-   "sewa lahan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/de7922af34_07d18031f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-koreksi-data-akuisisi-pne-bum-rp1-t-dana-rk-mandek",
-  "category": "Aksi Korporasi",
-  "title": "BIKE [Koreksi] Data Akuisisi PNE-BUM, Rp1 T Dana RK Mandek",
-  "deck": "Dalam surat koreksi ke Bursa, BIKE merinci keuangan PNE dan BUM serta mengonfirmasi dana akuisisi RK Rp1 triliun dari PMJ belum cair.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/992593f2b7_d6a76dcc36.pdf",
   "sourceLabel": "IDX"
  }
 ];

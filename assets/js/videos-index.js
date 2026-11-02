@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "HEBrnjMEN3U",
+  "title": "KADIN Dorong Perempuan Pengusaha Perkuat Ekonomi",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Kamar Dagang dan Industri Indonesia menyatakan dukungan terhadap Musyawarah Nasional X Ikatan Wanita Pengusaha Indonesia sebagai upaya mendorong peran pengusaha perempuan dalam penguatan ekonomi nasional.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran pengusaha perempuan dan UMKM dalam mendukung pertumbuhan ekonomi nasional."
+ },
+ {
   "id": "MWhh4s9pcHY",
   "title": "OJK Perkuat Penegakan Hukum di Pasar Modal",
   "category": "Pasar Modal",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Kamar Dagang dan Industri Indonesia (Kadin) mendorong penguatan industri elektronik dalam negeri untuk memperkuat posisi Indonesia dalam rantai pasok global.",
   "takeaway": "Penting bagi pembaca ekonomi karena menyangkut daya saing industri manufaktur dan posisi Indonesia dalam rantai pasok elektronik dunia."
- },
- {
-  "id": "rcaFbRiyHm8",
-  "title": "Pemerintah Perkuat Perlindungan dan Kesejahteraan Buruh",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah mendorong penguatan perlindungan hak dan kesejahteraan pekerja dalam Forum Regional Serikat Buruh Asia Pasifik di Jakarta, yang juga membahas kerja sama antarnegara.",
-  "takeaway": "Forum ini relevan bagi pembaca ekonomi karena menyangkut arah kebijakan ketenagakerjaan dan daya saing tenaga kerja Indonesia di kawasan Asia Pasifik."
  }
 ];

@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "boss-jadwalkan-public-expose-suspensi-saham-masih-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Jadwalkan Public Expose, [Suspensi] Saham Masih Berlanjut",
+  "deck": "BOSS menjadwalkan ulang public expose tahunan ke 4 November 2026, sementara suspensi saham sejak April 2024 dan nihilnya produksi batubara di 2025 masih berlanjut.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "public expose",
+   "suspensi saham",
+   "batubara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b1495fb253_6fe934136e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-koreksi-jadwal-public-expose-tambang-mangkrak",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Koreksi Jadwal Public Expose, Tambang [Mangkrak]",
+  "deck": "BOSS mengoreksi jadwal public expose tahunan untuk tahun buku 2023 menjadi 4 November 2026, sementara anak usaha tambangnya masih pailit dan belum berproduksi.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "public expose",
+   "suspensi saham",
+   "tambang batubara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8bcaa2a0b7_6045772ef0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pyfa-rugi-rp338-7-miliar-utang-jangka-pendek-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "PYFA Rugi Rp338,7 Miliar, [Utang] Jangka Pendek Melonjak",
+  "deck": "Pendapatan PYFA naik 17 persen jadi Rp2,41 triliun dalam sembilan bulan 2026, namun utang jangka pendek membengkak dan ekuitas pemegang saham menyusut.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PYFA",
+   "laporan keuangan",
+   "utang",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103000316-65305-0/FinancialStatement-2026-III-PYFA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asmi-rugi-rp115-36-miliar-di-sembilan-bulan-2026-ekuitas-susut-30",
+  "category": "Aksi Korporasi",
+  "title": "ASMI Rugi [Rp115,36 Miliar] di Sembilan Bulan 2026, Ekuitas Susut 30%",
+  "deck": "Laporan keuangan interim kuartal III 2026 ASMI berbalik rugi akibat kerugian wajar investasi, meski hasil bisnis asuransi intinya justru membaik.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASMI",
+   "asuransi",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102234934-65690-0/FinancialStatement-2026-III-ASMI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tris-penjualan-9-bulan-naik-12-laba-pemegang-saham-turun",
+  "category": "Aksi Korporasi",
+  "title": "TRIS: Penjualan 9 Bulan Naik 12%, Laba Pemegang Saham [Turun]",
+  "deck": "Penjualan Trisula International naik 12 persen dalam sembilan bulan, tapi bagian laba untuk pemegang saham justru turun karena pertumbuhan terbesar dinikmati pemegang saham minoritas anak usaha.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIS",
+   "laporan keuangan",
+   "Trisula International",
+   "kinerja emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102234455-65585-0/FinancialStatement-2026-III-TRIS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "admr-beber-ke-bursa-utang-bank-melonjak-ke-us-1-16-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ADMR Beber ke Bursa, Utang Bank Melonjak ke [US$1,16 Miliar]",
+  "deck": "ADMR menjelaskan ke BEI bahwa utang bank naik ke US$1,16 miliar dan liabilitas sewa ke US$691,59 juta untuk membiayai smelter aluminium KAI, sementara arus kas operasi masih negatif.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMR",
+   "smelter aluminium",
+   "utang bank",
+   "royalti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bcea9a4434_3c20b63673.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cent-rombak-utang-rp12-48-t-ekuitas-masih-negatif",
+  "category": "Aksi Korporasi",
+  "title": "CENT Rombak Utang Rp12,48 T, [Ekuitas] Masih Negatif",
+  "deck": "CENT menjelaskan ke BEI soal refinancing utang Rp12,48 triliun, setara 510 persen ekuitas, sementara ekuitas perusahaan masih negatif Rp1,94 triliun setelah transaksi.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CENT",
+   "refinancing",
+   "utang korporasi",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f6fe81475_fcf27968a9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "swid-laba-turun-21-utang-melonjak-36",
+  "category": "Aksi Korporasi",
+  "title": "SWID: Laba Turun 21%, [Utang] Melonjak 36%",
+  "deck": "Laba bersih SWID turun 21 persen jadi Rp23,02 miliar dalam sembilan bulan, sementara total liabilitas melonjak 36 persen menjadi Rp311,29 miliar akibat utang ke pihak berelasi dan pemasok.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SWID",
+   "laporan keuangan",
+   "liabilitas",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102232655-65642-0/FinancialStatement-2026-III-SWID.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpw-laba-kuartal-iii-turun-8-pendapatan-susut-11",
+  "category": "Aksi Korporasi",
+  "title": "PTPW: Laba Kuartal III [Turun] 8%, Pendapatan Susut 11%",
+  "deck": "Pendapatan dan laba bersih Pratama Widya turun pada sembilan bulan pertama 2026, meski ekuitas naik ditopang suntikan modal mitra di anak usaha baru.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPW",
+   "laporan keuangan",
+   "konstruksi",
+   "kinerja emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102230753-65670-0/FinancialStatement-2026-III-PTPW.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bipp-pembeli-saham-baru-punya-hubungan-keluarga-dengan-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "BIPP: Pembeli Saham Baru Punya [Hubungan Keluarga] dengan Pengendali",
+  "deck": "BIPP menjawab permintaan Bursa soal PMTHMETD: PT Gratamulia Pratama, penerima 494,4 juta saham baru, berelasi keluarga dengan pengendali, sementara free float turun ke 15,99 persen.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "Gratamulia Pratama",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3eac401b77_edf4ed54a5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "inflasi-terjaga-dagang-surplus-manufaktur-ri-ekspansi",
   "category": "Makroekonomi",
   "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",
@@ -6316,167 +6476,6 @@ var ARTICLES = [
    "kuartal III 2026"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028112018-64929-0/FinancialStatement-2026-III-KOCI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cakk-pangkas-rugi-89-persen-di-kuartal-iii-tapi-utang-naik-tajam",
-  "category": "Aksi Korporasi",
-  "title": "CAKK Pangkas [Rugi] 89 Persen di Kuartal III, tapi Utang Naik Tajam",
-  "deck": "Pendapatan CAKK naik dua kali lipat jadi Rp505,4 miliar dalam sembilan bulan 2026, rugi menyusut jadi Rp3,4 miliar, tapi utang bank dan piutang usaha melonjak.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CAKK",
-   "laporan keuangan",
-   "keramik",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028112201-65111-0/FinancialStatement-2026-III-CAKK.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menn-jadwalkan-public-expose-tahunan-pada-10-november",
-  "category": "Aksi Korporasi",
-  "title": "MENN Jadwalkan [Public Expose] Tahunan pada 10 November",
-  "deck": "Menn Teknologi Indonesia mengoreksi jadwal public expose tahunan dan akan menggelarnya secara online pada 10 November 2026 pukul 15.00 WIB.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MENN",
-   "public expose",
-   "paparan publik tahunan",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6c1e3d477d_a3d2e8e3f1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-naik-jadi-rp2-570-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Naik] Jadi Rp2.570.000/Gram",
-  "deck": "Harga emas Antam naik Rp20.000 jadi Rp2.570.000 per gram pada 28 Oktober 2026, harga buyback ikut terkerek ke Rp2.365.000 per gram.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-naik-jadi-rp2-570-000-gram.jpg",
-  "imageV": "mvrowbxu",
-  "tags": [
-   "emas antam",
-   "harga emas",
-   "logam mulia",
-   "buyback emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475376-harga-emas-antam-hari-ini-28-oktober-2026-naik-jadi-rp2570000-per-gram-hitung-hitung-jika-mau-jual"
- },
- {
-  "slug": "truk-masih-rugi-rp3-59-miliar-ekuitas-menyusut",
-  "category": "Aksi Korporasi",
-  "title": "TRUK Masih [Rugi] Rp3,59 Miliar, Ekuitas Menyusut",
-  "deck": "Laporan keuangan interim kuartal III 2026 PT Guna Timur Raya Tbk menunjukkan rugi bersih menyusut 21 persen, tapi ekuitas terus tergerus akumulasi kerugian.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUK",
-   "laporan keuangan",
-   "logistik",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028104438-64864-0/FinancialStatement-2026-III-TRUK.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aslc-laba-turun-longsor-75-di-kuartal-iii-pendapatan-naik-35",
-  "category": "Aksi Korporasi",
-  "title": "ASLC: Laba Turun [Longsor] 75% di Kuartal III, Pendapatan Naik 35%",
-  "deck": "Pendapatan ASLC naik 35 persen jadi Rp964,84 miliar pada sembilan bulan pertama 2026, tetapi laba bersih turun 75 persen menjadi Rp8,50 miliar akibat kenaikan beban pokok dan operasional.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASLC",
-   "laporan keuangan",
-   "laba bersih",
-   "otomotif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028101141-64604-0/FinancialStatement-2026-III-ASLC.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtel-mulai-periode-pelaksanaan-mesop-tahap-iii-rp582-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "MTEL Mulai Periode Pelaksanaan [MESOP] Tahap III, Rp582 per Saham",
-  "deck": "Mitratel membuka periode pelaksanaan opsi saham karyawan Tahap III pada 1-22 November 2026 dengan harga Rp582 per saham, maksimal 26,67 juta saham.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTEL",
-   "MESOP",
-   "Mitratel",
-   "opsi saham karyawan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a369e38bc8_de19506ca3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "doid-jelaskan-selisih-pendapatan-konsolidasi-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "DOID Jelaskan [Selisih] Pendapatan Konsolidasi ke Bursa",
-  "deck": "BUMA Internasional Grup menjawab permintaan Bursa soal selisih pendapatan ACG, BMM, dan total konsolidasian semester I 2026, menegaskan tidak ada tumpang tindih pencatatan.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOID",
-   "BUMA Internasional",
-   "Bursa Efek Indonesia",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e8397967a6_cb48eef97f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptmp-balik-untung-laba-rp13-2-miliar-di-sembilan-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "PTMP Balik Untung, Laba [Rp13,2 Miliar] di Sembilan Bulan 2026",
-  "deck": "Mitra Pack mencatat laba bersih Rp13,2 miliar untuk sembilan bulan 2026, berbalik dari rugi Rp41,9 miliar setahun sebelumnya, didorong efisiensi beban administrasi.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTMP",
-   "Mitra Pack",
-   "laporan keuangan",
-   "laba kuartal III"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028094822-64579-0/FinancialStatement-2026-III-PTMP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "soci-laba-naik-ke-us-32-3-juta-aset-tumbuh-20-6",
-  "category": "Aksi Korporasi",
-  "title": "SOCI: Laba Naik ke [US$32,3 Juta], Aset Tumbuh 20,6%",
-  "deck": "Soechi Lines mencatat laba bersih sembilan bulan 2026 naik ke US$32,3 juta dari US$12,1 juta tahun lalu, ditopang penambahan kapal tanker yang juga menaikkan utang bank 47 persen.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOCI",
-   "Soechi Lines",
-   "laporan keuangan",
-   "pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028094308-64919-0/FinancialStatement-2026-III-SOCI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ikbi-laba-turun-59-utang-bank-jangka-pendek-melonjak-52",
-  "category": "Aksi Korporasi",
-  "title": "IKBI: Laba Turun 59%, [Utang] Bank Jangka Pendek Melonjak 52%",
-  "deck": "Laba bersih Sumi Indo Kabel turun 59 persen pada semester I tahun fiskal 2027 meski penjualan naik 36 persen, sementara utang bank jangka pendek baru membengkakkan total liabilitas 55 persen.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IKBI",
-   "laporan keuangan",
-   "industri kabel",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028091141-64534-0/FinancialStatement-2026-II-IKBI.pdf",
   "sourceLabel": "IDX"
  }
 ];

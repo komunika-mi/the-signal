@@ -3,6 +3,267 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "boss-jadwalkan-public-expose-suspensi-saham-masih-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Jadwalkan Public Expose, [Suspensi] Saham Masih Berlanjut",
+  "deck": "BOSS menjadwalkan ulang public expose tahunan ke 4 November 2026, sementara suspensi saham sejak April 2024 dan nihilnya produksi batubara di 2025 masih berlanjut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T23:58:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b1495fb253_6fe934136e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "public expose",
+   "suspensi saham",
+   "batubara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk. (BOSS) mengoreksi surat sebelumnya tertanggal 20 Oktober 2026 dan menetapkan jadwal baru public expose tahunan untuk tahun buku 2025 pada 4 November 2026 pukul 11.30 WIB, bertempat di Wisma 77 Tower 1 Lantai 8, Slipi, Jakarta Barat. Surat ditandatangani oleh Direktur Widodo Nurly Sumady, dengan materi presentasi dilampirkan dalam dokumen berjudul BOSS PUBEX TH2025.pdf.",
+   "Materi yang dilampirkan menyebutkan suspensi saham BOSS masih berlangsung sejak April 2024, akibat belum terpenuhinya kewajiban penyampaian laporan keuangan auditan untuk tahun buku 2023, 2024, dan 2025, serta dampak kepailitan salah satu entitas anak perusahaan. Perseroan juga mengonfirmasi tidak membukukan produksi maupun penjualan batubara sama sekali sepanjang 2025, persis seperti tahun 2024 sebelumnya. Manajemen menyebut fokusnya saat ini pada efisiensi biaya di tingkat holding, minimalisasi risiko hukum, dan mitigasi risiko dari utang ke pihak-pihak terkait yang belum terselesaikan. Dana jaminan reklamasi lingkungan pascatambang disebut belum dapat direalisasikan.",
+   "Untuk 2026, perseroan menyatakan sedang menjajaki dan bernegosiasi secara selektif dengan calon mitra strategis guna menghidupkan kembali operasional tambang di konsesi PT Pratama Bersama (PB), sekaligus mengurus perpanjangan izin PT Bangun Olah Sarana Sukses (BOS) yang berstatus dalam pailit. Target lainnya adalah menyelesaikan audit laporan keuangan tahun buku 2023, 2024, dan 2025, sekaligus menjadwalkan RUPS tahun buku terkait dan RUPSLB, yang menurut perseroan menjadi syarat penyelesaian suspensi saham BOSS. Dokumen juga mencatat entitas anak PB pernah memperoleh dukungan pendanaan eksplorasi dari Japan Organization for Metals and Energy Security (JOGMEC) hingga senilai US$3.000.000.",
+   "Sebagai konteks pasar, materi menyebutkan produksi batubara nasional 2025 mencapai sekitar 817,48 juta ton, terdiri dari ekspor 523,35 juta ton dan pemenuhan domestik (DMO) 246,88 juta ton. Harga acuan batubara kalori 6.322 kcal/kg GAR tertekan hingga sekitar US$98 per ton pada Desember 2025, sebelum kembali menguat ke kisaran US$122 hingga US$132 per ton pada Juni-Oktober 2026."
+  ],
+  "fotoAdegan": "Idle excavators and empty haul trucks parked at a quiet open-pit coal mine, overgrown access road, overcast tropical sky",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena materi public expose menegaskan perusahaan tetap tanpa produksi maupun penjualan batubara sepanjang 2025, sama seperti 2024, sementara suspensi sahamnya sudah berjalan lebih dari dua tahun tanpa kepastian pencabutan. Yang tersentuh adalah arus kas dan ekuitas perusahaan, karena tanpa pendapatan sama sekali, biaya operasional dan utang ke pihak-pihak terkait yang belum dibayar terus menggerus modal, ditambah kewajiban dana jaminan reklamasi lingkungan yang belum bisa dipenuhi. Satu titik yang disebut agak positif adalah penjajakan mitra strategis untuk menghidupkan kembali tambang di konsesi Pratama Bersama, tetapi ini baru tahap negosiasi, belum kesepakatan. Yang perlu dipantau adalah pelaksanaan public expose pada 4 November 2026 pukul 11.30 WIB, serta progres penyelesaian audit laporan keuangan tahun buku 2023 hingga 2025 dan penjadwalan RUPS serta RUPSLB yang disebut perseroan sendiri sebagai syarat untuk mencabut suspensi saham.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "boss-koreksi-jadwal-public-expose-tambang-mangkrak",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Koreksi Jadwal Public Expose, Tambang [Mangkrak]",
+  "deck": "BOSS mengoreksi jadwal public expose tahunan untuk tahun buku 2023 menjadi 4 November 2026, sementara anak usaha tambangnya masih pailit dan belum berproduksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T23:57:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8bcaa2a0b7_6045772ef0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "public expose",
+   "suspensi saham",
+   "tambang batubara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) mengoreksi surat sebelumnya bernomor 12.185/SL.e/Corsec/BOSS/X/2026 tertanggal 20 Oktober 2026 perihal rencana public expose tahunan. Lewat surat koreksi yang ditandatangani Direktur Widodo Nurly S, perseroan menetapkan public expose untuk tahun buku 2023 akan digelar pada 4 November 2026 pukul 11.30 WIB, bertempat di Wisma 77 Tower 1 Lantai 8, Jalan Letjend S. Parman Kav. 77, Slipi, Jakarta Barat.",
+   "Materi paparan yang dilampirkan menjelaskan profil usaha BOSS sebagai perusahaan tambang batubara dengan dua wilayah konsesi seluas total 5.335 hektare di Kutai Barat, Kalimantan Timur, melalui anak usaha PT Pratama Bersama dan PT Bangun Olah Sarana Sukses (BOS, yang saat ini berstatus pailit). Berdasarkan laporan cadangan JORC 2012 per Agustus 2018, total cadangan batubara terbukti dan terkira tercatat 15,3 juta ton, terdiri dari 10,8 juta ton milik Pratama Bersama dan 4,4 juta ton milik BOS, dengan nilai kalori tinggi 6.300 Kkal/kg serta kadar sulfur 0,3 persen dan abu 5 persen.",
+   "Dokumen itu juga mengulas rencana pemulihan kondisi yang membuat saham BOSS disuspensi: seluruh kegiatan penambangan anak usaha berhenti sejak banjir dan longsor sekitar Juli 2023, dan perseroan masih mencari mitra strategis untuk menyuntik modal kerja. Kementerian ESDM telah menyetujui RKAB 2024-2026 untuk Pratama Bersama dengan kuota produksi maksimal 600.000 ton per tahun atau total 1,8 juta ton selama tiga tahun, sementara kurator BOS, sesuai penetapan Pengadilan Niaga Jakarta Pusat Nomor 44/Pdt.Sus-Pembatalan Perdamaian/2022 tertanggal 21 Maret 2024, masih membuka peluang kerja sama untuk melanjutkan operasional tambang yang pailit itu."
+  ],
+  "fotoAdegan": "Excavator loading coal onto a haul truck at a rain-soaked open-pit mine site, overcast sky, dense tropical hills in the background",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena materi public expose yang disampaikan, meski untuk tahun buku 2023, menegaskan status perseroan belum berubah: anak usaha tambang PT Bangun Olah Sarana Sukses masih dalam proses pailit dan produksi batubara masih terhenti sejak bencana banjir dan longsor pada 2023, sementara pencarian mitra strategis untuk modal kerja masih berjalan tanpa kepastian. Pos yang tersentuh adalah arus kas dan ekuitas, karena tanpa produksi dan penjualan perseroan tidak punya pemasukan untuk menutup biaya operasional dan membayar utang, sehingga modal perseroan terus tergerus meski cadangan batubara yang dimiliki, sekitar 15,3 juta ton, sebetulnya cukup besar untuk mendukung produksi kalau bisa dipulihkan. Yang perlu dipantau berikutnya adalah pelaksanaan public expose pada 4 November 2026 pukul 11.30 WIB di Jakarta Barat, serta apakah negosiasi dengan mitra strategis dan proses kurator PT Bangun Olah Sarana Sukses membawa kemajuan konkret setelah tanggal itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pyfa-rugi-rp338-7-miliar-utang-jangka-pendek-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "PYFA Rugi Rp338,7 Miliar, [Utang] Jangka Pendek Melonjak",
+  "deck": "Pendapatan PYFA naik 17 persen jadi Rp2,41 triliun dalam sembilan bulan 2026, namun utang jangka pendek membengkak dan ekuitas pemegang saham menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T23:52:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103000316-65305-0/FinancialStatement-2026-III-PYFA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PYFA",
+  "tags": [
+   "PYFA",
+   "laporan keuangan",
+   "utang",
+   "ekuitas"
+  ],
+  "body": [
+   "PT Pyridam Farma Tbk (PYFA) membukukan pendapatan neto Rp2,41 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 17,2 persen dari Rp2,06 triliun pada periode yang sama tahun sebelumnya, berdasarkan laporan keuangan interim yang tidak diaudit. Laba bruto perusahaan naik dari Rp417,86 miliar menjadi Rp542,76 miliar. Perusahaan masih mencatat rugi usaha Rp12,81 miliar, tetapi itu membaik dibandingkan rugi usaha Rp150,70 miliar pada periode yang sama tahun lalu. Setelah memperhitungkan beban keuangan yang melonjak dari Rp239,01 miliar menjadi Rp322,43 miliar, rugi bersih periode berjalan tercatat Rp338,70 miliar, sedikit mengecil dari rugi Rp365,82 miliar pada sembilan bulan 2025. Rugi per saham dasar turun menjadi Rp30,14 dari Rp32,56.",
+   "Di sisi ekuitas, total ekuitas perusahaan turun dari Rp985,18 miliar pada akhir 2025 menjadi Rp760,68 miliar pada akhir September 2026. Ekuitas yang dapat diatribusikan kepada pemilik entitas induk menyusut dari Rp766,99 miliar menjadi Rp545,59 miliar, seiring defisit yang belum ditentukan penggunaannya membesar dari Rp424,47 miliar menjadi Rp763,17 miliar akibat akumulasi rugi. Total aset perusahaan justru naik dari Rp6,77 triliun menjadi Rp7,35 triliun, sementara total liabilitas naik dari Rp5,79 triliun menjadi Rp6,59 triliun.",
+   "Struktur utang perusahaan berubah signifikan pada periode ini. Liabilitas jangka panjang atas utang bank yang jatuh tempo dalam satu tahun melonjak dari Rp184,86 miliar menjadi Rp737,73 miliar, dan utang obligasi senilai Rp399,75 miliar yang sebelumnya tercatat sebagai liabilitas jangka panjang kini masuk kategori jatuh tempo dalam satu tahun. Akibatnya, total liabilitas jangka pendek melonjak dari Rp1,15 triliun menjadi Rp2,29 triliun, sementara total aset lancar perusahaan hanya Rp1,54 triliun. Kas dan setara kas tercatat Rp126,06 miliar per akhir September 2026, naik dari Rp101,79 miliar pada akhir 2025, antara lain ditopang penerimaan utang bank baru senilai Rp524,37 miliar selama periode ini."
+  ],
+  "fotoAdegan": "Pharmaceutical factory workers in sterile uniforms inspecting rows of medicine bottles on a production line, bright industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi PYFA karena meski pendapatan naik dan rugi bersih mengecil, kenaikan kas perusahaan ternyata berasal dari utang baru, bukan dari operasional yang justru masih menghabiskan kas Rp335,90 miliar dalam sembilan bulan ini, hampir sama besar dengan periode tahun lalu. Yang perlu diperhatikan pemegang saham adalah ekuitas, yaitu selisih antara aset dan utang yang jadi hak milik pemegang saham, yang tergerus dari Rp985 miliar menjadi Rp760 miliar karena rugi yang terus terakumulasi, sementara beban bunga naik sekitar 35 persen menjadi Rp322 miliar seiring bertambahnya pinjaman bank. Kondisi makin ketat karena utang jangka pendek, yakni utang yang harus dibayar dalam waktu satu tahun, melonjak jadi Rp2,29 triliun sementara aset lancar perusahaan cuma Rp1,54 triliun, artinya perusahaan perlu mencari dana tambahan untuk menutup selisihnya. Yang perlu dipantau selanjutnya adalah bagaimana PYFA melunasi atau mendapatkan pinjaman baru untuk menutup utang obligasi Rp399,75 miliar dan utang bank Rp737,73 miliar yang kini harus dibayar dalam setahun ke depan, sebab laporan ini tidak menyebutkan rencana konkret untuk itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "asmi-rugi-rp115-36-miliar-di-sembilan-bulan-2026-ekuitas-susut-30",
+  "category": "Aksi Korporasi",
+  "title": "ASMI Rugi [Rp115,36 Miliar] di Sembilan Bulan 2026, Ekuitas Susut 30%",
+  "deck": "Laporan keuangan interim kuartal III 2026 ASMI berbalik rugi akibat kerugian wajar investasi, meski hasil bisnis asuransi intinya justru membaik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T23:48:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102234934-65690-0/FinancialStatement-2026-III-ASMI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASMI",
+  "tags": [
+   "ASMI",
+   "asuransi",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Asuransi Maximus Graha Persada Tbk (ASMI) mencatat rugi bersih Rp115,36 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari laba Rp9,66 miliar pada periode yang sama tahun lalu. Akibatnya, ekuitas perusahaan turun 30,3 persen dari Rp384,51 miliar pada akhir Desember 2025 menjadi Rp268,07 miliar. Rugi bersih per saham dasar tercatat negatif Rp12,88, berbalik dari laba Rp1,08 per saham pada September 2025, dihitung dari 8.958.380.460 lembar saham beredar dengan nilai nominal Rp20 per saham. Laporan ini tidak diaudit dan ditandatangani oleh Presiden Direktur Jemmy Atmadja dan Direktur Norvin Osel pada 30 Oktober 2026.",
+   "Penyebab utama kerugian bukan dari bisnis asuransi itu sendiri. Hasil jasa asuransi neto, yaitu selisih antara pendapatan premi dengan beban klaim dan reasuransi, justru naik dari Rp18,59 miliar menjadi Rp53,97 miliar, ditopang beban klaim yang turun dari Rp284,09 miliar menjadi Rp233,21 miliar. Yang menyeret perusahaan ke zona merah adalah hasil investasi yang berbalik rugi Rp110,85 miliar dari sebelumnya untung Rp76,74 miliar, terutama karena portofolio efek dan reksadana yang dicatat pada nilai wajar melalui laba rugi mencatat kerugian belum terealisasi Rp119,37 miliar, berbanding keuntungan Rp69,32 miliar pada periode sebelumnya. Dengan tambahan beban umum dan administrasi Rp49,56 miliar, perusahaan akhirnya rugi sebelum pajak Rp116,07 miliar, sedikit tertolong manfaat pajak tangguhan Rp705,2 juta.",
+   "Dari sisi posisi keuangan, total aset ASMI turun 26 persen dari Rp1,37 triliun menjadi Rp1,02 triliun, sejalan dengan turunnya aset reasuransi dari Rp583,36 miliar menjadi Rp382,36 miliar. Total liabilitas juga turun dari Rp988,51 miliar menjadi Rp747,76 miliar, didorong oleh penyusutan liabilitas premi yang belum menjadi pendapatan dari Rp856,08 miliar menjadi Rp668,36 miliar. Di sisi lain, kas dan setara kas justru naik lebih dari dua kali lipat, dari Rp36,06 miliar menjadi Rp86,74 miliar, dengan arus kas operasi positif Rp77,22 miliar dibandingkan arus kas negatif pada periode yang sama tahun lalu."
+  ],
+  "fotoAdegan": "A clerk sorting insurance claim folders in a filing room of a modern Jakarta office tower, soft morning daylight through windows",
+  "takeaway": "Laporan ini condong negatif bagi ASMI, karena ekuitas perusahaan tergerus 30 persen hanya dalam sembilan bulan akibat kerugian besar, meski bisnis inti asuransinya sendiri justru membaik. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang perusahaan yang jadi bantalan modal pemegang saham, serta laba per saham yang jadi ukuran berapa untung atau rugi yang jadi bagian setiap lembar saham; keduanya anjlok karena nilai portofolio investasi di efek dan reksadana turun di atas kertas, bukan karena klaim asuransi membengkak atau premi seret. Pelaku pasar perlu membedakan rugi dari valuasi investasi yang bisa berbalik arah dengan rugi dari operasional yang lebih permanen. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, yang akan memastikan apakah kerugian wajar investasi ini terkoreksi saat portofolio dinilai ulang di akhir tahun atau justru menetap, sekaligus menjadi acuan resmi menggantikan laporan interim yang tidak diaudit ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tris-penjualan-9-bulan-naik-12-laba-pemegang-saham-turun",
+  "category": "Aksi Korporasi",
+  "title": "TRIS: Penjualan 9 Bulan Naik 12%, Laba Pemegang Saham [Turun]",
+  "deck": "Penjualan Trisula International naik 12 persen dalam sembilan bulan, tapi bagian laba untuk pemegang saham justru turun karena pertumbuhan terbesar dinikmati pemegang saham minoritas anak usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T23:36:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102234455-65585-0/FinancialStatement-2026-III-TRIS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIS",
+  "tags": [
+   "TRIS",
+   "laporan keuangan",
+   "Trisula International",
+   "kinerja emiten"
+  ],
+  "body": [
+   "Trisula International Tbk (TRIS) menyampaikan laporan keuangan konsolidasian tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 ke Otoritas Jasa Keuangan pada 30 Oktober 2026. Penjualan bersih perseroan dan entitas anaknya tercatat Rp1,33 triliun, naik 12,2 persen dari Rp1,19 triliun pada periode yang sama tahun lalu. Laba kotor naik tipis menjadi Rp305,57 miliar dari Rp295,29 miliar, tetapi beban umum dan administrasi melonjak 18,4 persen menjadi Rp116,82 miliar dari Rp98,65 miliar, sehingga laba usaha hanya naik sedikit menjadi Rp107,88 miliar dari Rp106,81 miliar.",
+   "Secara total, laba bersih grup naik 3,1 persen menjadi Rp82,75 miliar dari Rp80,23 miliar. Namun porsi yang mengalir ke pemegang saham Trisula International sendiri justru turun 22,6 persen, dari Rp42,92 miliar menjadi Rp33,23 miliar. Sebaliknya, bagian laba untuk pemegang saham minoritas di entitas anak melonjak dari Rp37,31 miliar menjadi Rp49,52 miliar. Artinya, pertumbuhan laba grup pada periode ini lebih banyak dinikmati pemegang saham di luar Trisula International, kemungkinan karena entitas anak dengan porsi kepemilikan minoritas besar, seperti PT Trisula Textile Industries Tbk yang 78,35 persen sahamnya dipegang TRIS, mencatat kinerja lebih baik dibanding entitas yang sepenuhnya dikuasai perseroan.",
+   "Di sisi posisi keuangan, kas dan setara kas perseroan naik menjadi Rp167,38 miliar dari Rp132,55 miliar pada akhir 2025. Pinjaman bank jangka pendek turun menjadi Rp151,26 miliar dari Rp161,43 miliar, sehingga total liabilitas grup menyusut menjadi Rp492,60 miliar dari Rp518,14 miliar. Total ekuitas naik menjadi Rp873,61 miliar dari Rp841,10 miliar, sementara total aset relatif stabil di Rp1,37 triliun."
+  ],
+  "fotoAdegan": "Workers operating rows of industrial sewing machines on a garment factory production line, fluorescent lighting, fabric rolls nearby",
+  "takeaway": "Laporan ini netral cenderung positif untuk fundamental Trisula International karena penjualan tumbuh dua digit, utang bank jangka pendek menyusut, dan kas perseroan bertambah, tetapi ada catatan penting karena laba yang benar-benar menjadi hak pemegang saham publik perseroan justru mengecil, bukan membesar seperti laba konsolidasi grup secara keseluruhan. Pos yang paling perlu diperhatikan adalah laba yang bisa diatribusikan ke pemilik perusahaan, karena angka inilah basis penghitungan laba per saham yang biasa dipakai investor untuk menilai kinerja saham, bukan laba gabungan seluruh grup yang juga memasukkan porsi pemegang saham minoritas di anak usaha. Ekuitas atau modal sendiri perseroan juga naik menjadi Rp873,61 miliar, tanda kekayaan bersih grup bertambah, sementara beban bunga pinjaman relatif tertahan karena utang bank jangka pendek berkurang. Yang perlu dipantau selanjutnya adalah laporan keuangan audited untuk tahun buku 2026 penuh, karena laporan kuartal ketiga ini belum diaudit dan komposisi laba antara pemilik perusahaan dengan pemegang saham minoritas anak usaha masih bisa bergeser sebelum tutup tahun.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "admr-beber-ke-bursa-utang-bank-melonjak-ke-us-1-16-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ADMR Beber ke Bursa, Utang Bank Melonjak ke [US$1,16 Miliar]",
+  "deck": "ADMR menjelaskan ke BEI bahwa utang bank naik ke US$1,16 miliar dan liabilitas sewa ke US$691,59 juta untuk membiayai smelter aluminium KAI, sementara arus kas operasi masih negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T23:33:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bcea9a4434_3c20b63673.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADMR",
+  "tags": [
+   "ADMR",
+   "smelter aluminium",
+   "utang bank",
+   "royalti"
+  ],
+  "body": [
+   "PT Alamtri Minerals Indonesia Tbk (ADMR) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-13478/BEI.PP2/10-2026 tertanggal 29 Oktober 2026, yang menyoroti proyek smelter aluminium dan sejumlah pos dalam laporan keuangan per 30 Juni 2026. Perseroan menjelaskan bahwa smelter aluminium yang dibangun anak usahanya, PT Kalimantan Aluminium Industry (KAI), telah memulai proses komisioning sejak akhir 2025 dan kini sedang menguji konsistensi kapasitas produksi optimal. Pada kuartal III 2026, KAI sudah menjual sebagian volume produksi dari proses peningkatan kapasitas tersebut, dengan target kapasitas terpasang 500 ribu ton aluminium per tahun. Perseroan menyatakan belum ada kendala utama yang mengganggu jadwal proyek, dan karena lokasinya berada di kawasan industri Kalimantan Utara yang masuk Proyek Strategis Nasional, KAI memperoleh kemudahan perizinan serta pembebasan bea masuk untuk mesin dan barang modal impor.",
+   "Di sisi keuangan, kas dan setara kas ADMR naik dari US$369,09 juta pada akhir 2025 menjadi US$491,55 juta pada akhir Juni 2026, meski arus kas dari aktivitas operasi tercatat negatif US$173,67 juta pada periode yang sama. Perseroan menjelaskan kenaikan kas itu ditutup dari kas internal anak usaha, tambahan penarikan pinjaman bank, serta penerbitan obligasi oleh anak usaha. Persediaan melonjak tajam dari US$89,26 juta menjadi US$478,18 juta, terdiri dari persediaan aluminium US$319,92 juta dan batu bara US$85,98 juta, yang menurut perseroan seluruhnya sudah terikat kontrak penjualan untuk satu sampai dua bulan ke depan. Investasi lain-lain milik perseroan justru turun dari US$128,06 juta menjadi US$107,49 juta, dipicu penurunan harga pasar saham yang dipegang perseroan di bursa efek sehingga membukukan rugi nilai wajar US$12,46 juta, namun perseroan menyatakan masih berniat mempertahankan investasi itu karena porsinya tidak material.",
+   "Beban dan utang perseroan ikut melonjak seiring ekspansi smelter. Liabilitas sewa naik drastis dari US$1,52 juta menjadi US$691,59 juta, mayoritas berasal dari sewa lahan, bangunan, dan fasilitas peralatan senilai US$690,65 juta dari PT Kaltara Power Indonesia untuk mendukung operasional smelter KAI, dengan jangka waktu sewa tujuh tahun sejak tanggal efektif. Utang bank juga melonjak dari US$713,02 juta menjadi US$1,16 miliar, sebagian berasal dari penarikan fasilitas pinjaman baru oleh KAI senilai US$323,10 juta. Untuk mengelola risiko harga, KAI memegang kontrak forward komoditas dengan DBS Bank Ltd atas harga aluminium di London Metal Exchange dengan volume nosional 60.675 metrik ton untuk periode Juli-September 2026, yang per 30 Juni 2026 menghasilkan aset derivatif senilai US$26,98 juta. Terkait kewajiban ke pemerintah, utang royalti naik dari US$31,87 juta menjadi US$33,27 juta, dengan audit royalti periode 2020-2022 di salah satu anak usaha sudah dituntaskan pada 2025, sementara audit periode 2023-2025 masih dalam proses pengajuan ke Direktorat Jenderal Mineral dan Batubara Kementerian ESDM."
+  ],
+  "fotoAdegan": "Workers in hard hats and protective gear observing molten metal flow near an aluminum smelter furnace, industrial plant interior",
+  "takeaway": "Laporan ini condong negatif bagi ADMR karena memperlihatkan lonjakan utang bank dan liabilitas sewa yang sangat besar dalam waktu singkat, dibarengi arus kas operasi yang masih negatif, meski perusahaan menjelaskan ini bagian dari pembiayaan proyek smelter yang sudah mulai menghasilkan penjualan. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan sehari-hari perusahaan, serta beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjaman dan sewa jangka panjangnya. Pelaku pasar memperhatikan kedua pos ini karena arus kas operasi yang masih negatif berarti penjualan rutin belum cukup menutup biaya operasional, sehingga perusahaan bergantung pada pinjaman baru, dan utang yang membesar akan menambah beban bunga yang bisa menggerus laba bersih jika smelter belum beroperasi penuh. Yang perlu dipantau berikutnya adalah realisasi rencana produksi dan penjualan aluminium KAI hingga akhir 2026 sesuai target yang disebutkan perusahaan, serta hasil proses audit royalti periode 2023-2025 yang masih berjalan di Direktorat Jenderal Mineral dan Batubara Kementerian ESDM.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cent-rombak-utang-rp12-48-t-ekuitas-masih-negatif",
+  "category": "Aksi Korporasi",
+  "title": "CENT Rombak Utang Rp12,48 T, [Ekuitas] Masih Negatif",
+  "deck": "CENT menjelaskan ke BEI soal refinancing utang Rp12,48 triliun, setara 510 persen ekuitas, sementara ekuitas perusahaan masih negatif Rp1,94 triliun setelah transaksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T23:32:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f6fe81475_fcf27968a9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CENT",
+  "tags": [
+   "CENT",
+   "refinancing",
+   "utang korporasi",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Centratama Telekomunikasi Indonesia Tbk (CENT) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-13479/BEI.PP2/10-2026 yang diterima perseroan pada 29 Oktober 2026. Tanggapan yang diteken Corporate Secretary Daniel Pradipta dan disampaikan pada 2 November 2026 ini menjelaskan transaksi pembiayaan ulang (refinancing) utang perseroan dan tiga anak usahanya, yaitu PT Network Quality Indonesia, PT Centratama Menara Indonesia, dan PT MAC Sarana Djaya. Seluruh saldo utang berdasarkan Perjanjian Fasilitas Lama tertanggal 8 Maret 2022, yakni US$223,4 juta dan Rp8,05 triliun, dilunasi penuh dan diganti dengan Perjanjian Fasilitas Baru yang turut melibatkan debitur tambahan, PT EPID Menara Assetco.",
+   "Struktur pinjaman disederhanakan dari empat jenis fasilitas menjadi dua, yaitu Fasilitas A dalam rupiah senilai Rp2,99 triliun dan Fasilitas B dalam dolar Amerika senilai US$527,25 juta, dengan total komitmen mencapai Rp12,48 triliun menggunakan kurs Rp18.140 per dolar. Jumlah ini setara 510,09 persen dari total ekuitas perseroan per 30 Juni 2026. Tenor kedua fasilitas sama-sama 60 bulan sejak tanggal penarikan awal yang baru, lebih panjang dibanding Fasilitas B pada perjanjian lama yang hanya 36 bulan. Beberapa kreditur lama seperti CIMB Bank Berhad, DBS Bank, ING Bank Singapura, Natixis Singapura, Bank CIMB Niaga, Bank DBS Indonesia, MUFG Jakarta, Bank Danamon, dan Bank Permata tetap bergabung di fasilitas baru, sementara Bank Central Asia, Bank Negara Indonesia, Bank Mandiri, Bank CTBC Indonesia, Bank OCBC NISP, Bank BTPN, dan Bank Digital BCA keluar dari daftar kreditur. Sebagai gantinya masuk kreditur baru yakni Banco Santander Hong Kong, Credit Agricole Singapura, Societe Generale, Deutsche Bank Singapura, dan Bank KB Indonesia. Jaminan yang diberikan tidak berubah, mencakup gadai rekening bank, gadai saham, hak tanggungan tanah di Batam dan Jakarta, fidusia atas aset bergerak, klaim asuransi, serta corporate guarantee dari perseroan dan anak-anak usahanya.",
+   "Perseroan juga memaparkan dampak transaksi terhadap posisi keuangan proforma per 30 September 2026. Total aset naik Rp118,4 miliar menjadi Rp27,95 triliun dan total liabilitas bertambah Rp173,5 miliar menjadi Rp26,01 triliun. Total ekuitas membaik Rp55,1 miliar dari minus Rp1,99 triliun menjadi minus Rp1,94 triliun, namun tetap berada di posisi negatif. Laba periode berjalan tercatat turun Rp515,7 miliar, dari Rp1,81 triliun menjadi Rp1,29 triliun, akibat dampak transaksi refinancing. Perjanjian Fasilitas Baru juga mensyaratkan tiga rasio keuangan yang diuji setiap triwulan, yaitu Cashflow Cover Ratio minimal 1,10 kali, Net Leverage Ratio maksimal 5,50 kali, dan kekayaan bersih (net worth) yang tidak boleh kurang dari nol pada setiap tanggal pengujian tahunan, dimulai 31 Desember 2026. Hingga tanggal surat ini, penarikan dana dari fasilitas baru belum terjadi sehingga belum ada saldo pokok terutang."
+  ],
+  "fotoAdegan": "Telecommunication towers and fiber cables seen from below against a cloudy Jakarta skyline, wide angle, daytime",
+  "takeaway": "Laporan ini condong NEGATIF bagi fundamental CENT, karena utang baru senilai Rp12,48 triliun setara lebih dari lima kali ekuitas perseroan, sementara ekuitas perusahaan sendiri masih minus Rp1,94 triliun setelah transaksi, bukan positif. Ekuitas adalah selisih antara total aset dan total utang, jadi kalau angkanya negatif berarti secara akuntansi utang perusahaan sudah melebihi semua aset yang dimilikinya, dan pelaku pasar memperhatikan rasio utang terhadap ekuitas yang sangat tinggi seperti ini karena menunjukkan beban bunga dan risiko gagal bayar yang besar dibanding kemampuan perusahaan menanggungnya. Yang membuat posisi ini perlu dicermati lebih jauh adalah salah satu syarat dalam perjanjian pinjaman baru, yaitu kekayaan bersih (net worth) perseroan tidak boleh kurang dari nol pada tanggal pengujian tahunan yang dimulai 31 Desember 2026, padahal saat ini ekuitas perseroan masih negatif triliunan rupiah, sehingga perlu dipantau apakah perseroan bisa memenuhi syarat itu sebelum tenggat tersebut. Poin lain yang perlu diikuti adalah realisasi penarikan dana dari fasilitas baru, yang menurut dokumen ini belum terjadi sampai 2 November 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "swid-laba-turun-21-utang-melonjak-36",
+  "category": "Aksi Korporasi",
+  "title": "SWID: Laba Turun 21%, [Utang] Melonjak 36%",
+  "deck": "Laba bersih SWID turun 21 persen jadi Rp23,02 miliar dalam sembilan bulan, sementara total liabilitas melonjak 36 persen menjadi Rp311,29 miliar akibat utang ke pihak berelasi dan pemasok.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T23:15:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102232655-65642-0/FinancialStatement-2026-III-SWID.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SWID",
+  "tags": [
+   "SWID",
+   "laporan keuangan",
+   "liabilitas",
+   "properti"
+  ],
+  "body": [
+   "PT Saraswanti Indoland Development Tbk (SWID) menyampaikan laporan keuangan interim sembilan bulan yang tidak diaudit, untuk periode yang berakhir 30 September 2026, kepada OJK dan Bursa Efek Indonesia. Laba bersih perusahaan turun 20,7 persen menjadi Rp23,02 miliar, dari Rp29,04 miliar pada periode yang sama tahun lalu. Pendapatan usaha juga turun 2,4 persen menjadi Rp121,20 miliar dari Rp124,16 miliar, sementara laba usaha turun 10,9 persen menjadi Rp36,05 miliar. Laba per saham ikut turun dari Rp5,39 menjadi Rp4,28.",
+   "Total aset SWID tercatat Rp597,48 miliar per 30 September 2026, naik 18,5 persen dari Rp504,13 miliar di akhir 2025. Namun total liabilitas melonjak lebih tajam, yaitu 36 persen atau bertambah Rp82,40 miliar, dari Rp228,89 miliar menjadi Rp311,29 miliar. Karena kenaikan ini melewati ambang 20 persen, perusahaan wajib mengirim surat penjelasan terpisah ke OJK dan BEI pada 2 November 2026 yang merinci penyebabnya: utang usaha ke pihak ketiga naik menjadi Rp75,08 miliar dari Rp27,92 miliar, utang lain-lain ke pihak berelasi senilai Rp20,30 miliar yang berasal dari pinjaman dengan PT Saraswanti Utama yang sudah diumumkan sejak 5 Mei 2026, utang lain-lain ke pihak ketiga naik menjadi Rp20,30 miliar dari Rp8,95 miliar yang terdiri dari utang dividen ke pemegang saham dan utang bagi hasil kepemilikan kondotel ke pemilik unit, serta deposit pelanggan yang naik menjadi Rp8,94 miliar dari Rp4,03 miliar.",
+   "Ekuitas perusahaan naik tipis 4 persen menjadi Rp286,19 miliar, setelah SWID membagikan dividen senilai Rp12,07 miliar, dengan Rp7,67 miliar sudah dibayar tunai dan sisanya tercatat sebagai utang dividen. Di sisi lain, kas dan setara kas justru menyusut 43 persen menjadi Rp5,06 miliar dari Rp8,83 miliar, terutama karena belanja modal Rp88,66 miliar untuk aset tetap, jauh lebih besar dari Rp8,04 miliar tahun lalu, serta uang muka pembelian tanah Rp25,81 miliar. Belanja ini sebagian didanai dari pencairan pinjaman bank jangka panjang baru senilai Rp26,5 miliar, sehingga saldo utang bank jangka panjang naik menjadi Rp154,65 miliar dari Rp128,15 miliar, dan dari arus kas operasi yang melonjak menjadi Rp97,23 miliar dari hanya Rp3,76 miliar pada periode sebelumnya."
+  ],
+  "fotoAdegan": "Construction workers applying finishing plaster on a hotel building facade with scaffolding, Yogyakarta, morning light",
+  "takeaway": "Laporan ini condong negatif bagi SWID karena laba bersih turun 21 persen dalam sembilan bulan, sementara total utang melonjak 36 persen, kombinasi yang menambah beban keuangan meski sebagian dipakai membangun aset hotel. Yang tersentuh di sini laba per saham, yaitu bagian laba yang menjadi hak setiap lembar saham yang dipegang investor, turun dari Rp5,39 menjadi Rp4,28 karena laba mengecil sementara jumlah saham tidak berubah. Kas tunai perusahaan, yang menunjukkan uang yang benar-benar bisa dipakai kapan saja, menyusut hampir separuh menjadi Rp5,06 miliar karena dipakai membiayai pembangunan aset tetap, dan utang bank jangka panjang bertambah menjadi Rp154,65 miliar sehingga beban bunga ke depan berpotensi naik. Yang perlu dipantau berikutnya adalah apakah laba kuartal IV 2026 bisa membalikkan tren penurunan ini, serta kelanjutan pembangunan aset hotel yang dibiayai dari utang dan dari arus kas operasi yang baru saja melonjak tajam.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ptpw-laba-kuartal-iii-turun-8-pendapatan-susut-11",
+  "category": "Aksi Korporasi",
+  "title": "PTPW: Laba Kuartal III [Turun] 8%, Pendapatan Susut 11%",
+  "deck": "Pendapatan dan laba bersih Pratama Widya turun pada sembilan bulan pertama 2026, meski ekuitas naik ditopang suntikan modal mitra di anak usaha baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T22:54:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102230753-65670-0/FinancialStatement-2026-III-PTPW.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPW",
+  "tags": [
+   "PTPW",
+   "laporan keuangan",
+   "konstruksi",
+   "kinerja emiten"
+  ],
+  "body": [
+   "PT Pratama Widya Tbk (PTPW) melaporkan pendapatan konsolidasian Rp225,46 miliar untuk sembilan bulan pertama 2026, turun 11,1 persen dari Rp253,70 miliar pada periode sama tahun lalu. Laba bersih perusahaan konstruksi ini ikut menyusut 8 persen menjadi Rp38,54 miliar dari Rp41,89 miliar, sehingga laba per saham turun dari Rp46,75 menjadi Rp44,07. Laporan keuangan interim kuartal III yang belum diaudit ini disampaikan ke Otoritas Jasa Keuangan pada 2 November 2026, ditandatangani Direktur Utama Widhatama Kurniawan.",
+   "Meski kinerja operasional melemah, posisi keuangan PTPW justru menguat. Total aset naik menjadi Rp785,47 miliar dari Rp736,47 miliar pada akhir 2025, sementara ekuitas bertambah menjadi Rp702,99 miliar dari Rp659,48 miliar. Kenaikan ekuitas ini sebagian besar datang dari kepentingan nonpengendali yang melonjak dari Rp12,07 miliar menjadi Rp21,87 miliar. Dalam laporan perubahan ekuitas tercatat tambahan Rp9,4 miliar dari pendirian entitas anak baru dan Rp560 juta dari akuisisi entitas anak, yakni bagian yang disuntikkan mitra di luar PTPW, bukan dari laba usaha perusahaan sendiri. Perusahaan kini memiliki enam anak usaha, tiga di antaranya baru tercatat dengan tahun komersial 2026, yaitu PT Pratama Orient Energi, PT Pratama Karya Prima, dan PT Wacana Krida Perkasa, dengan dua yang pertama masih berstatus belum aktif. Perusahaan tetap membayar dividen tunai Rp5 miliar kepada pemegang saham, sama seperti tahun sebelumnya.",
+   "Dari sisi arus kas, kas yang dihasilkan dari aktivitas operasi turun menjadi Rp53,65 miliar dari Rp55,41 miliar pada periode sama tahun lalu, sejalan dengan pendapatan yang lebih kecil. Di sisi lain, belanja investasi membesar: dana untuk pembelian aset tetap naik 21,5 persen menjadi Rp35,65 miliar, dan dana untuk akuisisi anak usaha mencapai Rp7,02 miliar, jauh lebih besar dari Rp1,18 miliar pada periode sama 2025. Akibatnya, meski perusahaan membayar dividen tunai dan mencicil utang bank, kas dan setara kas di akhir September 2026 hanya naik tipis Rp2,11 miliar menjadi Rp107,14 miliar dibanding posisi awal tahun."
+  ],
+  "fotoAdegan": "Construction workers guiding a pile driving rig at a building foundation site, dusty afternoon light, hazy city skyline in the distance",
+  "takeaway": "Laporan ini condong negatif, sebab pendapatan dan laba bersih sama-sama turun dibanding periode sama tahun lalu, sinyal bahwa proyek konstruksi yang digarap PTPW mengecil, bukan sekadar fluktuasi biaya. Ada dua pos yang perlu diperhatikan pemegang saham: laba per saham, yakni bagian laba bersih yang menjadi hak setiap lembar saham, yang turun dari Rp46,75 ke Rp44,07, dan kepentingan nonpengendali, yaitu porsi ekuitas anak usaha yang dimiliki pihak luar PTPW, yang melonjak karena mitra menyuntik modal ke anak usaha baru, bukan karena perusahaan menghasilkan laba lebih besar. Investor perlu membedakan dua sumber pertumbuhan ekuitas ini agar tidak salah membaca penguatan total aset sebagai perbaikan kinerja inti. Yang layak dipantau berikutnya adalah apakah dua anak usaha yang masih berstatus belum aktif, PT Pratama Orient Energi dan PT Pratama Karya Prima, mulai beroperasi dan menyumbang pendapatan pada laporan tahunan auditan 2026 yang biasanya terbit sekitar akhir Maret 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bipp-pembeli-saham-baru-punya-hubungan-keluarga-dengan-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "BIPP: Pembeli Saham Baru Punya [Hubungan Keluarga] dengan Pengendali",
+  "deck": "BIPP menjawab permintaan Bursa soal PMTHMETD: PT Gratamulia Pratama, penerima 494,4 juta saham baru, berelasi keluarga dengan pengendali, sementara free float turun ke 15,99 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T22:49:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3eac401b77_edf4ed54a5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "Gratamulia Pratama",
+   "free float"
+  ],
+  "body": [
+   "Bhuwanatala Indah Permai Tbk (BIPP) menyampaikan jawaban resmi atas tujuh pertanyaan Bursa Efek Indonesia terkait rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD). Bursa meminta jawaban ini dengan mendesak, paling lambat pagi Selasa, 3 November 2026, karena terkait urgensi pencatatan saham baru. Per 31 Oktober 2026, susunan pemegang saham BIPP terdiri dari Safire Capital Ltd dengan 3.098.530.195 saham atau 61,62 persen, PT Victoria Investama Tbk dengan 370.267.000 saham atau 7,36 persen, dan publik dengan 1.599.872.181 saham atau 31,02 persen, dari total 5.028.669.376 saham. Free float Oktober tercatat 884.276.726 saham atau 17,58 persen, naik dari 15,73 persen pada September.",
+   "BIPP merinci bahwa PMTHMETD akan menerbitkan total 502.866.937 saham baru, dibagi untuk Safire Capital Pte. Ltd. sebanyak 8.400.000 saham dan PT Gratamulia Pratama sebanyak 494.466.937 saham. Setelah transaksi, total saham BIPP membengkak menjadi 5.531.536.313 lembar, dengan kepemilikan Safire naik menjadi 56,17 persen, Victoria Investama turun menjadi 6,69 persen, Gratamulia Pratama masuk sebagai pemegang baru dengan 8,94 persen, dan porsi publik tergerus dari 31,02 persen menjadi 28,20 persen. Karena jumlah saham free float tetap di 884.276.726 lembar sementara basis total saham membesar, persentase free float ikut turun dari 17,58 persen menjadi 15,99 persen.",
+   "Menjawab pertanyaan Bursa soal afiliasi, BIPP menyatakan bahwa pemegang saham pengendali PT Gratamulia Pratama memiliki hubungan keluarga dengan pengendali BIPP, sehingga keduanya tergolong pihak terafiliasi sesuai ketentuan I.6 Peraturan Nomor I-A. BIPP tidak menyebut adanya informasi atau fakta material lain yang belum disampaikan ke publik terkait rencana ini."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in a Jakarta business district, street traffic below, soft late afternoon light",
+  "takeaway": "Penjelasan ini condong negatif bagi pemegang saham publik, karena mengonfirmasi bahwa seluruh 502,8 juta saham baru mengalir ke Safire Capital dan PT Gratamulia Pratama, yang pengendalinya punya hubungan keluarga dengan pengendali BIPP, sementara porsi kepemilikan publik tergerus dari 31,02 persen menjadi 28,20 persen. Yang tersentuh adalah jumlah saham beredar dan free float, yakni porsi saham yang benar-benar diperjualbelikan bebas oleh publik di luar kelompok pengendali, dua ukuran yang dipantau pelaku pasar karena free float yang menyusut dari 17,58 persen menjadi 15,99 persen berarti saham makin terkonsentrasi di kelompok pengendali dan makin tipis diperdagangkan publik, sementara tambahan saham baru juga berpotensi mengecilkan laba per saham milik pemegang saham lama karena laba perusahaan harus dibagi ke jumlah saham yang lebih banyak. Yang perlu dipantau berikutnya adalah proses pencatatan resmi 502,8 juta saham baru tersebut di BEI, yang menurut surat Bursa sendiri bersifat mendesak, serta apakah penjelasan soal hubungan afiliasi ini diterima Bursa sebagai dasar yang cukup untuk melanjutkan pencatatan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "inflasi-terjaga-dagang-surplus-manufaktur-ri-ekspansi",
   "category": "Makroekonomi",
   "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",

@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "inflasi-terjaga-dagang-surplus-manufaktur-ri-ekspansi",
+  "category": "Makroekonomi",
+  "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",
+  "deck": "Inflasi Oktober 2026 terjaga di 3,23 persen, neraca dagang September surplus US$3,36 miliar tiga bulan beruntun, dan PMI manufaktur naik ke 54,0, ekspansi tertinggi sejak Maret 2024.",
+  "date": "2 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "inflasi",
+   "neraca dagang",
+   "PMI manufaktur",
+   "ekspor"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7195/ekonomi-indonesia-semakin-tangguh-inflasi-terjaga-manufaktur-terus-ekspansi-surplus-neraca-dagang-berlanjut",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "hari-ritel-nasional-2026-dimulai-umkm-didorong-masuk-ritel",
+  "category": "UMKM",
+  "title": "Hari Ritel Nasional 2026 [Dimulai], UMKM Didorong Masuk Ritel",
+  "deck": "Kemendag membuka Hari Ritel Nasional 2026 di Bandung pada 2-11 November, mengajak UMKM memperluas pemasaran lewat jaringan ritel modern.",
+  "date": "2 November 2026",
+  "image": "assets/img/hari-ritel-nasional-2026-dimulai-umkm-didorong-masuk-ritel.jpg",
+  "imageV": "mvzfi0z2",
+  "tags": [
+   "UMKM",
+   "ritel",
+   "Kemendag",
+   "APRINDO"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-hari-ritel-nasional-2026-mendag-busan-ajak-umkm-gencar-masuk-ritel",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "irsx-jawab-bei-soal-koreksi-laporan-keuangan-kuartal-i-2026",
   "category": "Aksi Korporasi",
   "title": "IRSX Jawab BEI soal [Koreksi] Laporan Keuangan Kuartal I 2026",
@@ -67,6 +101,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ca27f6707a_663692afeb.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppom-dorong-bakso-tasikmalaya-perkuat-ekosistem-halal",
+  "category": "UMKM",
+  "title": "LPPOM Dorong Bakso Tasikmalaya Perkuat Ekosistem [Halal]",
+  "deck": "LPPOM menggelar forum Halal Connect di Tasikmalaya, mendorong pelaku usaha bakso membangun rantai pasok halal, bukan sekadar sertifikasi produk akhir.",
+  "date": "2 November 2026",
+  "image": "assets/img/lppom-dorong-bakso-tasikmalaya-perkuat-ekosistem-halal.jpg",
+  "imageV": "mvzfi1g2",
+  "tags": [
+   "bakso",
+   "halal",
+   "LPPOM",
+   "Tasikmalaya"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476241-bawa-bakso-naik-kelas-lppom-dorong-penguatan-ekosistem-halal"
  },
  {
   "slug": "diva-catat-rugi-rp34-2-miliar-pada-kuartal-iii-2026",
@@ -170,7 +221,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober [Melandai], Tiket Pesawat Naik",
   "deck": "Inflasi tahunan Oktober 2026 turun jadi 3,23 persen, tapi harga cabai dan tarif pesawat domestik kelas ekonomi justru naik.",
   "date": "2 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "inflasi",
    "harga pangan",
@@ -186,7 +237,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI [Berlanjut] tapi Tipis ke US$3,36 Miliar",
   "deck": "Neraca dagang Indonesia surplus US$3,36 miliar pada September 2026, melanjutkan tren positif Agustus meski nilainya mengecil dari US$3,55 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "neraca dagang",
    "ekspor",
@@ -1264,7 +1315,7 @@ var ARTICLES = [
   "title": "Ekspor Naik, tapi Surplus Dagang RI Makin [Menyempit]",
   "deck": "Ekspor September 2026 naik 11,87 persen jadi US$27,59 miliar, tapi impor tumbuh lebih cepat 18,41 persen sehingga surplus dagang kumulatif menyempit jadi US$10,61 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "ekspor",
    "impor",
@@ -6145,7 +6196,7 @@ var ARTICLES = [
   "title": "11 dari 14 Provinsi Sulampua Catat [Inflasi] di Atas Target",
   "deck": "Pemerintah menggelar rapat koordinasi pengendalian inflasi di Sulawesi, Maluku, dan Papua setelah 11 dari 14 provinsi mencatat inflasi tahunan di atas ambang batas nasional pada September 2026.",
   "date": "28 Oktober 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "Inflasi",
    "Sulampua",
@@ -6427,54 +6478,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028091141-64534-0/FinancialStatement-2026-II-IKBI.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-bersih-pbid-melonjak-131-ke-rp695-8-miliar-per-september",
-  "category": "Aksi Korporasi",
-  "title": "Laba Bersih PBID [Melonjak] 131% ke Rp695,8 Miliar per September",
-  "deck": "PBID mencatat laba bersih Rp695,78 miliar pada sembilan bulan 2026, naik 131,7 persen dari Rp300,28 miliar tahun lalu, didorong penjualan naik 27,4 persen dan margin yang menebal.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PBID",
-   "laporan keuangan",
-   "kemasan plastik",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028091848-64920-0/FinancialStatement-2026-III-PBID.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-koreksi-jadwal-dividen-interim-rp430-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Koreksi Jadwal Dividen Interim, [Rp430] per Saham",
-  "deck": "United Tractors mengoreksi jadwal dividen interim 2026, memastikan dividen Rp430 per saham dengan total hingga Rp1,48 triliun, dibayar 23 November 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "dividen",
-   "United Tractors",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/68428e7480_6a23576b8e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menperin-minta-gula-impor-tak-bocor-ke-pasar-konsumen",
-  "category": "Industri",
-  "title": "Menperin Minta Gula [Impor] Tak Bocor ke Pasar Konsumen",
-  "deck": "Menperin Sarmuji minta AGRI memastikan gula rafinasi untuk industri tidak merembes jadi gula konsumsi, demi melindungi petani tebu dan konsumen.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/menperin-minta-gula-impor-tak-bocor-ke-pasar-konsumen.jpg",
-  "imageV": "mvr7n9fh",
-  "tags": [
-   "gula rafinasi",
-   "impor gula",
-   "petani tebu",
-   "Kemenperin"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475323-menperin-sarmuji-minta-produsen-jaga-gula-rafinasi-agar-tak-rembes-ke-pasaran"
  }
 ];

@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "okupansi-hotel-bintang-turun-jadi-51-75-di-september",
+  "category": "Bisnis",
+  "title": "Okupansi Hotel Bintang [Turun] Jadi 51,75% di September",
+  "deck": "Setelah naik tiga bulan beruntun sejak April, tingkat keterisian kamar hotel bintang nasional melambat pada September 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "bps",
+   "hotel",
+   "pariwisata",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "wisatawan-asing-september-turun-ke-1-43-juta",
+  "category": "Bisnis",
+  "title": "Wisatawan Asing September [Turun ke 1,43 Juta]",
+  "deck": "Setelah naik empat bulan beruntun, kunjungan turis asing ke Indonesia turun 10,79% dari Agustus ke September 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/warung-makan.jpg",
+  "tags": [
+   "bps",
+   "wisatawan asing",
+   "pariwisata",
+   "statistik"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "inflasi-oktober-melambat-ke-0-22-persen",
+  "category": "Makroekonomi",
+  "title": "Inflasi Oktober Melambat ke [0,22 Persen]",
+  "deck": "Kenaikan harga bulanan pada Oktober 2026 lebih rendah dibanding September, dan juga lebih rendah dari Oktober tahun lalu.",
+  "date": "2 November 2026",
+  "image": "assets/img/pasar-ikan.jpg",
+  "tags": [
+   "inflasi",
+   "bps",
+   "ekonomi",
+   "harga"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
   "slug": "daaz-laba-turun-43-jadi-rp157-m-kas-susut-ke-rp317-m",
   "category": "Aksi Korporasi",
   "title": "DAAZ: Laba Turun 43% Jadi Rp157 M, [Kas] Susut ke Rp317 M",
@@ -326,6 +374,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02112026-0088-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "penumpang-pesawat-turun-barang-kapal-laut-makin-padat",
+  "category": "Makroekonomi",
+  "title": "Penumpang Pesawat [Turun], Barang Kapal Laut Makin Padat",
+  "deck": "BPS mencatat penumpang pesawat domestik turun 12,8 persen pada September 2026, sementara volume barang yang diangkut kapal laut naik 1,1 persen di bulan yang sama.",
+  "date": "2 November 2026",
+  "image": "assets/img/jalan-raya-padat.jpg",
+  "tags": [
+   "BPS",
+   "Angkutan Udara",
+   "Angkutan Laut",
+   "Statistik Transportasi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/171596",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "ekspor-naik-tapi-surplus-dagang-ri-makin-menyempit",
+  "category": "Makroekonomi",
+  "title": "Ekspor Naik, tapi Surplus Dagang RI Makin [Menyempit]",
+  "deck": "Ekspor September 2026 naik 11,87 persen jadi US$27,59 miliar, tapi impor tumbuh lebih cepat 18,41 persen sehingga surplus dagang kumulatif menyempit jadi US$10,61 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "ekspor",
+   "impor",
+   "neraca dagang",
+   "BPS"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/171218",
+  "sourceLabel": "Badan Pusat Statistik"
  },
  {
   "slug": "boss-baru-lapor-lk-semester-i-2024-defisit-modal-melebar",
@@ -2504,7 +2584,7 @@ var ARTICLES = [
   "title": "Kredit Program Pemerintah Capai Rp2.440 Triliun, NPL [2,13%]",
   "deck": "Penyaluran kredit program pemerintah sejak 2015 kumulatif capai Rp2.440 triliun lewat 58,1 juta akad, dengan NPL tetap rendah di 2,13 persen per akhir September 2026.",
   "date": "30 Oktober 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "tags": [
    "KUR",
    "UMKM",
@@ -5198,7 +5278,7 @@ var ARTICLES = [
   "title": "11 dari 14 Provinsi Sulampua Catat [Inflasi] di Atas Target",
   "deck": "Pemerintah menggelar rapat koordinasi pengendalian inflasi di Sulawesi, Maluku, dan Papua setelah 11 dari 14 provinsi mencatat inflasi tahunan di atas ambang batas nasional pada September 2026.",
   "date": "28 Oktober 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "Inflasi",
    "Sulampua",
@@ -6401,86 +6481,6 @@ var ARTICLES = [
    "utang usaha"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027115457-65032-0/FinancialStatement-2026-III-KONI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wmuu-audit-kuartal-iii-untuk-siapkan-aksi-korporasi",
-  "category": "Aksi Korporasi",
-  "title": "WMUU Audit Kuartal III untuk Siapkan [Aksi Korporasi]",
-  "deck": "Widodo Makmur Unggas akan mengaudit laporan keuangan interim per 30 September 2026 untuk mendukung rencana aksi korporasi yang masih disusun bersama konsultan.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WMUU",
-   "Widodo Makmur Unggas",
-   "aksi korporasi",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dd45fb1acd_6af6946bbb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trus-laba-turun-23-persen-dividen-jumbo-gerus-ekuitas",
-  "category": "Aksi Korporasi",
-  "title": "TRUS: [Laba] turun 23 persen, dividen jumbo gerus ekuitas",
-  "deck": "Laba bersih TRUS turun 23 persen di kuartal III 2026, sementara dividen Rp48 miliar yang dibagikan melampaui laba periode ini dan menggerus ekuitas.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUS",
-   "Trust Finance Indonesia",
-   "laporan keuangan",
-   "multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027113801-64672-0/FinancialStatement-2026-III-TRUS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-flmc-bahas-rencana-anak-usaha-dan-ganti-domisili",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB FLMC Bahas Rencana [Anak Usaha] dan Ganti Domisili",
-  "deck": "FLMC memanggil RUPSLB 18 November 2026 untuk membahas penyesuaian KBLI, penambahan KBLI holding terkait rencana anak usaha, dan perubahan domisili Perseroan.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FLMC",
-   "RUPSLB",
-   "KBLI",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dc9a3dccc5_b3c9c1e7c4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mcol-bukukan-laba-bersih-melonjak-55-di-sembilan-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "MCOL Bukukan Laba Bersih [Melonjak] 55% di Sembilan Bulan 2026",
-  "deck": "PT Prima Andalan Mandiri (MCOL) mencatat pendapatan US$542,2 juta dan laba bersih US$58,0 juta untuk sembilan bulan 2026, naik dibanding periode sama tahun lalu.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MCOL",
-   "batu bara",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027110503-64838-0/FinancialStatement-2026-III-MCOL.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ibfn-catat-laba-rp7-37-miliar-ekuitas-masih-negatif-rp766-m",
-  "category": "Aksi Korporasi",
-  "title": "IBFN Catat Laba Rp7,37 Miliar, [Ekuitas] Masih Negatif Rp766 M",
-  "deck": "Laporan keuangan interim kuartal III 2026 PT Intan Baru Prana Tbk menunjukkan laba bersih berbalik dari rugi, namun defisiensi modal perusahaan masih sangat besar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IBFN",
-   "laporan keuangan",
-   "defisiensi modal",
-   "watchlist"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027110144-64615-0/FinancialStatement-2026-III-IBFN.pdf",
   "sourceLabel": "IDX"
  }
 ];

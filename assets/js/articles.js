@@ -3,6 +3,346 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "aadi-tegaskan-daftar-pengendali-sejak-ipo-ke-ojk",
+  "category": "Aksi Korporasi",
+  "title": "AADI Tegaskan Daftar [Pengendali] Sejak IPO ke OJK",
+  "deck": "AADI menegaskan ke OJK bahwa pengendali perseroan sejak IPO adalah keluarga Thohir, Subianto, Rachmat, dan Edwin Soeryadjaya, menyelaraskan seluruh keterbukaan informasi sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T19:28:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e59894b53c_576c02f8b2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AADI",
+  "tags": [
+   "AADI",
+   "pengendali saham",
+   "keterbukaan informasi",
+   "Adaro Andalan Indonesia"
+  ],
+  "body": [
+   "PT Adaro Andalan Indonesia Tbk (AADI) menyampaikan keterbukaan informasi kepada Otoritas Jasa Keuangan (OJK) pada 2 November 2026, menegaskan siapa saja yang menjadi pengendali perseroan sejak penawaran umum saham perdana. Penyampaian ini merupakan tindak lanjut atas surat OJK Nomor S-2551/PM.222/2026 tertanggal 30 Oktober 2026, serta mengacu pada Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi atau fakta material dan Peraturan Bursa Efek Indonesia Nomor I-E tentang kewajiban penyampaian informasi.",
+   "Berdasarkan struktur kepemilikan saham berjenjang sampai mata rantai terakhir dalam grup perseroan, AADI menegaskan bahwa pemilik manfaat yang juga merupakan pengendali tingkat individu perseroan adalah Garibaldi Thohir, Edna Thohir, Hireka Vitaya, dan Erick Thohir dari Keluarga Thohir; Meity Subianto, Arini Saraswaty Subianto, Armeilia Widayanti Subianto, dan Ardiani Kartika Sari Subianto dari Keluarga Subianto; Ny. T.P. Rachmat L.R. Imanto dan Christian Ariano Rachmat dari Keluarga Rachmat; serta Edwin Soeryadjaya. Perseroan mengacu pada definisi pengendali dalam Peraturan OJK Nomor 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka, yaitu pihak yang memiliki lebih dari 50 persen saham berhak suara, atau punya kemampuan menentukan pengelolaan dan kebijakan perusahaan baik langsung maupun tidak langsung.",
+   "AADI menyatakan keterbukaan informasi ini berfungsi menyelaraskan dan meluruskan seluruh pengungkapan terkait pengendali perseroan yang pernah disampaikan dalam laporan-laporan sebelumnya kepada publik. Perseroan juga menegaskan bahwa langkah ini tidak membawa dampak apa pun terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ditandatangani secara elektronik oleh Ray Aryaputra selaku Sekretaris Perusahaan AADI."
+  ],
+  "fotoAdegan": "Aerial view of a palm oil plantation with rows of trees stretching to a hazy horizon, a service road cutting through, midday light",
+  "takeaway": "Secara fundamental laporan ini netral karena isinya hanya meluruskan siapa saja yang sudah menjadi pengendali AADI sejak perusahaan ini melantai di bursa, bukan mengubah struktur kepemilikan, menambah saham baru, atau mengalihkan kendali ke pihak lain. Yang disentuh di sini adalah transparansi struktur kendali perusahaan, bukan pos keuangan seperti ekuitas atau laba per saham, tapi tetap penting bagi pemegang saham publik karena menunjukkan pihak mana yang sebenarnya punya kuasa menentukan arah bisnis dan kebijakan strategis AADI. Penegasan ini sendiri lahir sebagai respons atas surat OJK tertanggal 30 Oktober 2026, sehingga yang perlu dipantau selanjutnya adalah apakah OJK meminta langkah lanjutan lagi dan apakah laporan bulanan kepemilikan saham AADI ke depan konsisten dengan daftar nama pengendali yang baru ditegaskan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "admr-tegaskan-pengendali-thohir-subianto-rachmat-soeryadjaya",
+  "category": "Aksi Korporasi",
+  "title": "ADMR Tegaskan [Pengendali]: Thohir, Subianto, Rachmat, Soeryadjaya",
+  "deck": "Emiten tambang ADMR menegaskan Keluarga Thohir, Subianto, Rachmat, dan Edwin Soeryadjaya sebagai pengendali dan pemilik manfaat sejak IPO, meluruskan seluruh keterbukaan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T19:17:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/01c9d6b0d6_bb586500c0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADMR",
+  "tags": [
+   "ADMR",
+   "Alamtri Minerals",
+   "pengendali perusahaan",
+   "pemilik manfaat"
+  ],
+  "body": [
+   "PT Alamtri Minerals Indonesia Tbk (ADMR) menyampaikan laporan keterbukaan informasi kepada Otoritas Jasa Keuangan (OJK) pada 2 November 2026 berupa penegasan mengenai siapa pengendali perusahaan. Laporan ini merupakan tindak lanjut atas surat OJK Nomor S-2552/PM.222/2026 tertanggal 30 Oktober 2026, dan mengacu pada Peraturan OJK Nomor 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka serta Peraturan Presiden Nomor 13 Tahun 2018 tentang pemilik manfaat korporasi.",
+   "Berdasarkan struktur kepemilikan saham berjenjang sampai mata rantai terakhir di dalam grup perusahaan, ADMR menegaskan bahwa pemilik manfaat yang juga merupakan pengendali tingkat individu perseroan sejak penawaran umum saham perdana adalah: Garibaldi Thohir, Edna Thohir, Hireka Vitaya, dan Erick Thohir dari Keluarga Thohir; Meity Subianto, Arini Saraswaty Subianto, Armeilia Widayanti Subianto, dan Ardiani Kartika Sari Subianto dari Keluarga Subianto; Ny. T.P. Rachmat L.R. Imanto dan Christian Ariano Rachmat dari Keluarga Rachmat; serta Edwin Soeryadjaya.",
+   "Perusahaan menyebut keterbukaan ini bertujuan menyelaraskan dan meluruskan seluruh pengungkapan terkait pengendali perseroan yang selama ini telah disampaikan dalam berbagai keterbukaan informasi dan laporan kepada publik. ADMR menyatakan tidak ada dampak dari penegasan ini terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving across a large open-pit coal mine under a hazy tropical sky, distant excavators visible",
+  "takeaway": "Laporan ini netral bagi ADMR, karena sifatnya hanya meluruskan dan menegaskan ulang siapa pengendali serta pemilik manfaat perusahaan yang sebenarnya sudah dikenal sejak IPO, tanpa mengubah jumlah saham, hak suara, atau kondisi keuangan perseroan. Tidak ada pos kinerja yang tersentuh langsung sebab ini bukan transaksi jual beli saham atau suntikan modal, melainkan klarifikasi identitas pengendali tingkat individu, yang tetap penting bagi investor karena menentukan pihak mana yang sesungguhnya mengambil keputusan strategis dan berpotensi terlibat transaksi dengan pihak terafiliasi. Yang perlu dipantau selanjutnya adalah apakah OJK, lewat surat Nomor S-2552/PM.222/2026 tanggal 30 Oktober 2026 yang melatari penegasan ini, meminta tindak lanjut lain dari ADMR, serta apakah daftar pengendali ini konsisten dengan laporan kepemilikan saham bulanan yang rutin disampaikan perusahaan ke bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adro-tegaskan-thohir-subianto-rachmat-jadi-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "ADRO Tegaskan Thohir, Subianto, Rachmat Jadi [Pengendali]",
+  "deck": "Alamtri Resources menegaskan pengendali dan pemilik manfaat perseroan sejak IPO adalah Keluarga Thohir, Subianto, Rachmat, dan Edwin Soeryadjaya, menyelaraskan pengungkapan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T19:16:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1d19fa374f_16a65b7d34.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADRO",
+  "tags": [
+   "ADRO",
+   "Alamtri Resources",
+   "pengendali perseroan",
+   "OJK"
+  ],
+  "body": [
+   "PT Alamtri Resources Indonesia Tbk (ADRO) menyampaikan keterbukaan informasi kepada Otoritas Jasa Keuangan pada 2 November 2026, menyusul surat OJK Nomor S-2553/PM.222/2026 tanggal 30 Oktober 2026. Dalam surat bernomor ALAM/088/XI-26/corsec itu, perseroan menegaskan bahwa berdasarkan struktur kepemilikan saham berjenjang sampai mata rantai terakhir di dalam grup, pemilik manfaat yang juga merupakan pengendali tingkat individu perseroan sejak penawaran umum saham perdana adalah Garibaldi Thohir, Edna Thohir, Hireka Vitaya, dan Erick Thohir (Keluarga Thohir), Meity Subianto, Arini Saraswaty Subianto, Armeilia Widayanti Subianto, dan Ardiani Kartika Sari Subianto (Keluarga Subianto), Ny. T.P. Rachmat L.R. Imanto dan Christian Ariano Rachmat (Keluarga Rachmat), serta Edwin Soeryadjaya.",
+   "Perseroan merujuk tiga dasar aturan sekaligus: POJK Nomor 9/2018 tentang Pengambilalihan Perusahaan Terbuka yang mendefinisikan pengendali sebagai pihak yang memiliki lebih dari 50 persen saham berhak suara atau mampu menentukan pengelolaan dan kebijakan perseroan, Perpres Nomor 13/2018 tentang pemilik manfaat korporasi, dan Peraturan Bursa Efek Indonesia I-E yang diperbarui lewat SK Kep-00052/BEI/04-2026 tentang laporan bulanan registrasi kepemilikan saham, berlaku sejak 1 April 2026. Berdasarkan aturan terakhir itu, pemilik manfaat disamakan dengan pengendali tingkat individu. Perseroan menyatakan keterbukaan informasi ini menyelaraskan dan meluruskan seluruh pengungkapan soal pengendali perseroan yang pernah disampaikan sebelumnya kepada publik.",
+   "Dalam dokumen yang ditandatangani Sekretaris Perusahaan Maharani Cindy Opssedha itu, ADRO menyatakan tidak ada dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan dari penegasan ini. Tidak ada perubahan jumlah saham, transaksi, atau nilai kepemilikan yang disebutkan dalam laporan tersebut."
+  ],
+  "fotoAdegan": "Aerial view of a large open-pit coal mine with haul trucks on terraced access roads, tropical hills in the distance, hazy morning light",
+  "takeaway": "Laporan ini netral bagi fundamental Alamtri, karena isinya hanya menegaskan ulang siapa pengendali dan pemilik manfaat perseroan sejak IPO, tanpa ada transaksi, dana, atau perubahan jumlah saham yang disebutkan. Pos yang disentuh bukan laporan keuangan seperti ekuitas atau laba per saham, melainkan tata kelola: status pengendali menentukan siapa yang terikat aturan pengambilalihan dan transaksi dengan pihak afiliasi, serta siapa yang wajib tercatat sebagai pemilik manfaat sesuai aturan antipencucian uang, jadi kejelasan ini penting untuk kepatuhan meski tidak mengubah angka di laporan keuangan. Klarifikasi ini terbit setelah OJK mengirim surat ke perseroan pada 30 Oktober 2026 yang meminta penegasan soal pengendali, jadi yang perlu dipantau adalah apakah OJK menindaklanjuti lagi dan apakah laporan bulanan registrasi kepemilikan saham Alamtri berikutnya, yang wajib memuat data pemilik manfaat sesuai aturan BEI sejak 1 April 2026, konsisten dengan nama-nama yang disebut di sini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mcas-liabilitas-naik-26-6-saat-pendapatan-susut-40",
+  "category": "Aksi Korporasi",
+  "title": "MCAS: [Liabilitas] Naik 26,6% Saat Pendapatan Susut 40%",
+  "deck": "Laporan keuangan interim Kuartal III 2026 MCAS menunjukkan pendapatan turun ke Rp2,13 triliun dari Rp3,59 triliun, sementara total liabilitas melonjak jadi Rp948 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T19:04:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102191931-65646-0/FinancialStatement-2026-III-MCAS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MCAS",
+  "tags": [
+   "MCAS",
+   "laporan keuangan",
+   "liabilitas",
+   "pendapatan"
+  ],
+  "body": [
+   "PT M Cash Integrasi Tbk (MCAS) menyampaikan laporan keuangan konsolidasian interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan neto perseroan turun menjadi Rp2,13 triliun dari Rp3,59 triliun pada periode yang sama tahun sebelumnya, atau tergerus sekitar 40,6 persen. Meski pendapatan anjlok, rugi usaha justru mengecil dari Rp11,59 miliar menjadi Rp9,07 miliar, dan rugi neto periode berjalan tercatat Rp53,81 miliar, hampir sama dengan rugi Rp53,56 miliar pada periode yang sama tahun lalu.",
+   "Total aset perseroan naik dari Rp1.837,42 miliar pada akhir Desember 2025 menjadi Rp1.960,66 miliar pada akhir September 2026. Namun total liabilitas melonjak 26,6 persen, naik Rp199,06 miliar dari Rp748,96 miliar menjadi Rp948,02 miliar, terutama didorong kenaikan utang usaha sebesar 28,3 persen dari Rp222,42 miliar menjadi Rp285,35 miliar. Kenaikan di atas 20 persen ini membuat manajemen wajib mengirim surat penjelasan tertulis ke Bursa Efek Indonesia sesuai Peraturan I-E. Di sisi lain, total ekuitas turun dari Rp1.088,45 miliar menjadi Rp1.012,63 miliar, dengan porsi kepentingan pemegang saham minoritas di anak usaha ikut turun dari Rp924,77 miliar menjadi Rp868,14 miliar.",
+   "Kas dan setara kas perseroan tercatat Rp143,51 miliar per 30 September 2026, turun dari Rp163,97 miliar di akhir 2025. Di pos liabilitas jangka pendek, surat utang konversi, yaitu obligasi yang bisa ditukar menjadi saham, tercatat Rp240,90 miliar, naik dari Rp224,63 miliar, dan seluruhnya masuk kategori jatuh tempo dalam waktu satu tahun. Jumlah saham perseroan tidak berubah, tetap 867.933.300 saham dengan nilai nominal Rp100 per saham. Laporan keuangan ditandatangani Direktur Utama Martin Suharlie dan Direktur Suryandy Jahja pada 30 Oktober 2026, sementara surat penjelasan kenaikan liabilitas ke bursa ditandatangani Direktur Utama Stanley Tjiandra pada 2 November 2026."
+  ],
+  "fotoAdegan": "Warehouse workers scanning barcodes on small electronics boxes stacked on pallets, forklift moving nearby, industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi MCAS, karena pendapatan sembilan bulan tergerus 40 persen sementara utang perseroan melonjak dan ekuitas ikut menyusut, meski rugi usaha sedikit mengecil dibanding tahun lalu. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang mencerminkan kekayaan bersih pemegang saham, yang mengecil karena kerugian berjalan dan turunnya nilai kepentingan pemegang saham minoritas di anak usaha, sementara beban bunga ikut naik seiring utang bank dan surat utang konversi yang membesar, dan jumlah saham beredar yang tidak berubah membuat rugi per saham relatif stabil. Yang perlu dipantau adalah surat utang konversi senilai Rp240,90 miliar yang tercatat sebagai utang jangka pendek jatuh tempo dalam setahun, padahal kas perseroan hanya Rp143,51 miliar, sehingga penting dilihat apakah instrumen ini akan dikonversi menjadi saham baru atau harus dibayar tunai, serta apakah tren penurunan pendapatan ini masih berlanjut pada laporan tahunan berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tris-rencanakan-buyback-saham-hingga-rp10-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TRIS Rencanakan [Buyback] Saham hingga Rp10 Miliar",
+  "deck": "Trisula International akan membeli kembali maksimal 62 juta saham atau 2% modal disetor dengan harga tertinggi Rp165 per saham, mulai 3 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T19:03:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b00fb9cd82_5e16c35741.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIS",
+  "tags": [
+   "TRIS",
+   "buyback saham",
+   "Trisula International",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Trisula International Tbk (TRIS) mengumumkan rencana pembelian kembali (buyback) sahamnya sendiri dengan mengacu pada POJK No. 13 Tahun 2023 tentang kebijakan menjaga stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan. Perseroan menyiapkan dana paling banyak Rp10 miliar, termasuk biaya perantara efek, untuk membeli kembali saham sebanyak-banyaknya 2 persen dari modal disetor atau maksimum 62 juta lembar saham. Periode pembelian berlangsung tiga bulan, dari 3 November 2026 sampai 2 Februari 2027, dengan batas harga beli maksimum Rp165 per saham.",
+   "Pembelian akan dilakukan baik melalui mekanisme Bursa Efek Indonesia maupun di luar bursa, dengan PT Phillip Sekuritas Indonesia ditunjuk sebagai anggota bursa pelaksana. Manajemen menyatakan tidak memperkirakan ada penurunan pendapatan akibat buyback ini, karena perseroan dinilai memiliki modal kerja yang cukup untuk kegiatan usahanya. Surat ditandatangani oleh Widjaya Djohan selaku Direktur Utama Trisula International.",
+   "Dalam proforma per 30 September 2026, laba tahun berjalan tercatat Rp33.232.816.142. Tanpa buyback, jumlah saham beredar setelah dikurangi treasury stock sebesar 3.091.400.331 lembar menghasilkan laba per saham Rp10,75. Jika buyback dilaksanakan penuh, jumlah saham beredar turun menjadi 3.029.400.331 lembar dan laba per saham naik menjadi Rp10,97."
+  ],
+  "fotoAdegan": "Workers operating sewing machines on a garment factory production line, stacks of folded fabric nearby, industrial fluorescent lighting",
+  "takeaway": "Laporan ini condong positif bagi Trisula, karena perseroan bersedia mengalokasikan dana untuk menopang sahamnya di tengah volatilitas pasar, dan secara hitungan proforma laba per saham justru naik, bukan turun, meski perlu diingat ini masih sebatas rencana dengan batas maksimum, bukan kepastian pembelian penuh. Pos kinerja yang tersentuh adalah jumlah saham beredar dan laba per saham: begitu saham yang dibeli kembali disimpan sebagai saham treasuri dan dikeluarkan dari hitungan saham beredar, laba bersih yang sama terbagi ke saham yang lebih sedikit, sehingga laba per saham naik dari Rp10,75 menjadi Rp10,97 menurut proforma per 30 September 2026, inilah salah satu ukuran yang dipantau investor untuk menilai seberapa besar bagian laba yang jadi hak tiap lembar saham. Yang perlu dipantau berikutnya adalah realisasi pembelian sepanjang periode 3 November 2026 sampai 2 Februari 2027, termasuk apakah perseroan benar-benar merealisasikan hingga batas 62 juta saham dan pada harga mendekati batas atas Rp165 per saham, serta laporan realisasi yang wajib disampaikan Trisula setelah periode buyback berakhir.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bhit-laba-bersih-kuartal-iii-anjlok-89-kas-operasi-minus",
+  "category": "Aksi Korporasi",
+  "title": "BHIT: Laba Bersih Kuartal III Anjlok [89%], Kas Operasi Minus",
+  "deck": "Laba bersih BHIT yang menjadi hak pemegang saham induk turun 89 persen jadi Rp24,7 miliar pada sembilan bulan 2026, sementara arus kas operasi berbalik minus Rp1,38 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T18:59:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102191011-65616-0/FinancialStatement-2026-III-BHIT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BHIT",
+  "tags": [
+   "BHIT",
+   "MNC Asia Holding",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT MNC Asia Holding Tbk (BHIT) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Direktur Utama Hary Tanoesoedibjo dan Direktur Tien pada 30 Oktober 2026. Pendapatan bersih konsolidasian turun dari Rp11,01 triliun pada periode yang sama tahun lalu menjadi Rp9,41 triliun. Penurunan terbesar datang dari segmen media, dari Rp6,87 triliun menjadi Rp5,79 triliun, dan segmen pertambangan yang anjlok dari Rp825,4 miliar menjadi Rp553,2 miliar. Segmen lembaga keuangan justru naik tipis dari Rp2,87 triliun menjadi Rp2,90 triliun.",
+   "Di sisi laba, perusahaan mencatat laba sebelum pajak hanya Rp182 miliar, turun tajam dari Rp707,2 miliar pada September 2025. Laba bersih periode berjalan turun dari Rp695,1 miliar menjadi Rp240,1 miliar. Dari jumlah itu, bagian yang menjadi hak pemegang saham pengendali BHIT sendiri (bukan pemegang saham di anak usaha) hanya Rp24,7 miliar, turun 89 persen dari Rp223,3 miliar tahun lalu, sehingga laba per saham merosot dari Rp2,67 menjadi Rp0,30.",
+   "Pada sisi posisi keuangan, total aset turun dari Rp73,73 triliun menjadi Rp68,42 triliun, sejalan dengan kas dan setara kas yang menyusut dari Rp3,81 triliun menjadi Rp1,62 triliun. Arus kas dari aktivitas operasi berbalik menjadi minus Rp1,38 triliun, dari sebelumnya surplus Rp2,11 triliun, akibat kenaikan beban dan penurunan simpanan nasabah di unit lembaga keuangan. Total ekuitas perusahaan turun dari Rp40,41 triliun menjadi Rp38,81 triliun. Dokumen juga mencantumkan dua anak usaha utama, PT MNC Kapital Indonesia Tbk (MKAP) dengan kepemilikan 50,48 persen dan aset Rp26,86 triliun, serta PT MNC Global Mediacom Tbk (MCOM) dengan kepemilikan 45,75 persen dan aset Rp34,61 triliun."
+  ],
+  "fotoAdegan": "A coal loading conveyor extending over a cargo ship at a busy Indonesian port, dusty industrial scene under an overcast sky.",
+  "takeaway": "Laporan ini condong negatif bagi BHIT, karena laba yang menjadi hak pemegang saham pengendali anjlok 89 persen sementara bisnis utamanya justru menyedot kas, bukan menghasilkan kas. Pos yang paling tersentuh adalah laba per saham, yakni besaran keuntungan yang jatuh ke setiap lembar saham, yang turun dari Rp2,67 menjadi Rp0,30 karena laba bersihnya menyusut tajam, bukan karena jumlah saham beredar bertambah. Arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar keluar masuk dari kegiatan sehari-hari perusahaan, berbalik dari surplus Rp2,11 triliun menjadi defisit Rp1,38 triliun, dan ini yang membuat kas perusahaan terkikis dari Rp3,81 triliun menjadi Rp1,62 triliun hanya dalam sembilan bulan. Karena laporan ini belum diaudit, yang perlu dipantau pemegang saham adalah laporan keuangan auditan untuk tahun buku 2026 penuh yang biasanya terbit awal 2027, untuk melihat apakah pelemahan pendapatan di segmen media dan pertambangan ini berlanjut atau membalik arah pada kuartal terakhir.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nfcx-catat-rugi-membesar-liabilitas-naik-27-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "NFCX catat rugi membesar, [liabilitas] naik 27% di Kuartal III 2026",
+  "deck": "Laporan kuartal III 2026 NFCX: pendapatan turun hampir separuh, rugi bersih melebar tiga kali lipat, dan utang naik 27 persen dibanding akhir 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T18:56:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102190811-65222-0/FinancialStatement-2026-III-NFCX.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NFCX",
+  "tags": [
+   "NFCX",
+   "laporan keuangan",
+   "rugi bersih",
+   "utang"
+  ],
+  "body": [
+   "PT NFC Indonesia Tbk (NFCX) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada OJK dan Bursa Efek Indonesia pada 2 November 2026. Pendapatan neto perseroan tercatat Rp1,69 triliun, turun dari Rp3,07 triliun pada periode yang sama tahun 2025, atau anjlok sekitar 45 persen. Meski pendapatan merosot tajam, laba kotor relatif tertahan di Rp93,81 miliar, hampir sama dengan Rp94,06 miliar setahun sebelumnya, karena beban pokok pendapatan ikut menyusut seiring turunnya penjualan. Namun rugi neto periode berjalan justru melebar menjadi Rp56,44 miliar, dari Rp17,72 miliar pada sembilan bulan 2025, terutama dipicu rugi selisih kurs neto Rp21,71 miliar dan rugi investasi lain yang belum terealisasi Rp17,22 miliar.",
+   "Dari sisi posisi keuangan, total aset naik tipis menjadi Rp1,47 triliun per 30 September 2026 dari Rp1,38 triliun di akhir 2025. Tetapi total liabilitas melonjak 27 persen menjadi Rp794,76 miliar dari Rp625,59 miliar, sehingga NFCX wajib mengirim surat penjelasan tertulis ke Direktur Penilaian Perusahaan BEI tertanggal 2 November 2026, sesuai Peraturan Bursa I-E yang mewajibkan penjelasan untuk perubahan lebih dari 20 persen pada total aset atau liabilitas. Dalam surat itu disebutkan kenaikan utang usaha sebesar Rp65,76 miliar atau 38 persen, dari Rp172,92 miliar menjadi Rp238,68 miliar, sebagai penyebab utama. Selain itu, persediaan melonjak 49 persen menjadi Rp322,49 miliar dari Rp215,97 miliar, kas dan setara kas turun 21 persen menjadi Rp114,99 miliar dari Rp145,76 miliar, dan utang bank jangka pendek melonjak dari Rp116 juta menjadi Rp56,34 miliar. Akibat rangkaian ini, total ekuitas turun 10,5 persen menjadi Rp671,47 miliar dari Rp750,62 miliar. Laporan ini juga mencatat bahwa anak usaha PT Semolis Maju Bersama telah dilepas kepemilikannya pada 31 Juli 2026 sehingga tidak lagi masuk konsolidasi per akhir September 2026.",
+   "Surat pernyataan direksi yang menyertai laporan ini ditandatangani Direktur Utama Abraham Theofilus dan Direktur Niko Navea Aquino pada 30 Oktober 2026. Keduanya menyatakan bertanggung jawab penuh atas penyusunan laporan keuangan tersebut, memastikan tidak ada informasi material yang disembunyikan, serta bertanggung jawab atas sistem pengendalian internal perseroan."
+  ],
+  "fotoAdegan": "Software developers working at desks with multiple monitors in a modern open-plan tech office, soft daylight through windows",
+  "takeaway": "Laporan ini condong negatif bagi NFCX, karena pendapatan yang anjlok hampir separuh dibarengi rugi bersih yang melebar tiga kali lipat, ditambah kenaikan utang 27 persen yang sampai harus dijelaskan khusus ke bursa. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang menjadi hak pemegang saham, yang turun 10,5 persen karena rugi terus menggerus saldo laba, sementara kenaikan utang usaha dan utang bank menambah beban bunga ke depan dan bisa mempersempit ruang gerak kas perusahaan. Pelaku pasar biasanya mencermati kombinasi ini karena bantalan keuangan yang menyusut bersamaan dengan pendapatan inti yang melemah tajam menandakan tekanan bisnis yang belum tertangani. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang wajib disampaikan NFCX paling lambat akhir Maret 2027, untuk melihat apakah tren rugi dan kenaikan utang pada kuartal ketiga ini berlanjut atau mulai membalik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wins-beri-jaminan-perusahaan-rp129-36-miliar-ke-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "WINS Beri [Jaminan Perusahaan] Rp129,36 Miliar ke Anak Usaha",
+  "deck": "WINS menjamin fasilitas kredit baru senilai Rp130 miliar dari Bank Nano Syariah untuk anak usahanya, PT Sentosasegara Mulia Shipping, guna refinancing kapal dan modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T18:29:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f99a073052_39129f8e29.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINS",
+  "tags": [
+   "WINS",
+   "jaminan perusahaan",
+   "transaksi afiliasi",
+   "anak usaha"
+  ],
+  "body": [
+   "PT Wintermar Offshore Marine Tbk (WINS) melaporkan kepada Otoritas Jasa Keuangan bahwa pada 29 Oktober 2026 perusahaan memberikan jaminan perusahaan dengan nilai maksimal Rp129.355.200.000 kepada PT Bank Nano Syariah. Jaminan ini menjadi syarat bagi PT Bank Nano Syariah untuk mengucurkan fasilitas kredit baru senilai Rp130 miliar kepada PT Sentosasegara Mulia Shipping (SMS), anak usaha WINS yang sahamnya dikuasai lebih dari 99 persen. Laporan ditandatangani secara elektronik oleh Corporate Secretary WINS, Nely Layanto.",
+   "Dana dari fasilitas tersebut akan dipakai SMS untuk pembiayaan kembali (refinancing) kapal-kapal yang dimilikinya, serta untuk memenuhi kebutuhan modal kerja. Transaksi ini digolongkan sebagai transaksi afiliasi berdasarkan Peraturan OJK No. 42/2020 karena tiga alasan: WINS dan SMS memiliki satu direktur yang sama, SMS adalah anak usaha yang dikendalikan WINS, dan WINS merupakan pemegang saham utama SMS.",
+   "Perusahaan menyatakan transaksi pemberian jaminan ke bank seperti ini dikecualikan dari kewajiban menggunakan penilaian independen Kantor Jasa Penilai Publik, sesuai Pasal 6 Ayat (1) huruf e POJK 42/2020. WINS juga menegaskan transaksi ini tidak mengandung benturan kepentingan dan seluruh informasi material telah diungkapkan secara lengkap."
+  ],
+  "fotoAdegan": "Workers checking mooring lines on an offshore support vessel docked at an Indonesian port, early morning haze",
+  "takeaway": "Laporan ini netral bagi WINS: jaminan yang diberikan ditujukan untuk mendukung pembiayaan kembali kapal dan modal kerja anak usaha yang sudah dikuasai lebih dari 99 persen, bukan ekspansi utang baru yang berisiko tinggi, meski WINS kini menanggung kewajiban potensial hingga Rp129,36 miliar kalau SMS gagal membayar fasilitas tersebut ke bank. Jaminan perusahaan seperti ini tidak langsung muncul sebagai utang di laporan keuangan WINS, tapi menjadi beban tersembunyi yang baru terasa pada kas dan rasio utang grup kalau anak usaha benar-benar gagal bayar, sehingga pelaku pasar biasanya tetap mencatatnya sebagai risiko di luar neraca. Yang perlu dipantau selanjutnya adalah realisasi pencairan fasilitas Rp130 miliar oleh Bank Nano Syariah kepada SMS dan kelancaran pembayarannya ke depan, karena dokumen ini tidak mencantumkan tenggat lain selain tanggal transaksi 29 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptdu-pkpu-setelah-gugatan-utang-rp1-miliar-dari-pemasok",
+  "category": "Aksi Korporasi",
+  "title": "PTDU [PKPU] Setelah Gugatan Utang Rp1 Miliar dari Pemasok",
+  "deck": "Pengadilan Niaga Jakarta Pusat mengabulkan PKPU sementara 45 hari bagi Djasa Ubersakti atas tagihan Rp1 miliar dari pemasok CV. Titan, rencana perdamaian dibahas 8 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T18:26:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fcc8a3aa9b_d12a27bbc1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTDU",
+  "tags": [
+   "PTDU",
+   "PKPU",
+   "pengadilan niaga",
+   "utang"
+  ],
+  "body": [
+   "Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat mengabulkan permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) terhadap PT Djasa Ubersakti Tbk (PTDU) melalui putusan Nomor 269/Pdt.Sus-PKPU/2026/PN.Niaga.Jkt.Pst tanggal 28 Oktober 2026. Permohonan itu diajukan oleh CV. Titan, pemasok yang mengklaim tagihan sebesar Rp1 miliar sejak 2 Oktober 2025. Dalam keterbukaan informasi ini, manajemen PTDU menyebut alasan tidak terpenuhinya pembayaran adalah kondisi keuangan perseroan, dengan pinjaman yang digunakan untuk kebutuhan operasional berjangka waktu 60 hari.",
+   "Putusan tersebut menyatakan PTDU berada dalam status PKPU Sementara selama 45 hari sejak putusan diucapkan. Pengadilan menunjuk Dr. Sriti Hesti Astiti, S.H., M.H. sebagai Hakim Pengawas, serta Muhammad Rizky Maulana, S.H. dan Saghara Luthfillah Fazari, S.H., M.H. sebagai Tim Pengurus yang bertugas mengurus proses ini. Akibatnya, penagihan dan pembayaran utang PTDU kepada kreditur konkuren untuk sementara ditangguhkan dan harus diselesaikan lewat mekanisme PKPU, sementara biaya pengurusan dan imbalan jasa Tim Pengurus baru akan ditetapkan setelah proses ini selesai.",
+   "Berdasarkan penetapan Hakim Pengawas tanggal 30 Oktober 2026, sejumlah agenda telah dijadwalkan: Rapat Kreditur Pertama pada Jumat, 6 November 2026 pukul 10.00 WIB di Pengadilan Niaga Jakarta Pusat; batas akhir pengajuan tagihan oleh kreditur pada Kamis, 12 November 2026 pukul 17.00 WIB di kantor sekretariat Tim Pengurus, Sidabukke & Partners, Jakarta Pusat; Rapat Pencocokan Piutang atau Verifikasi pada Kamis, 26 November 2026 pukul 10.00 WIB; Rapat Pembahasan dan atau Pemungutan Suara atas Rencana Perdamaian atau Perpanjangan PKPU pada Selasa, 8 Desember 2026 pukul 10.00 WIB; serta Sidang Rapat Permusyawaratan Hakim pada Senin, 14 Desember 2026, semuanya di Pengadilan Niaga Jakarta Pusat. Manajemen PTDU menyatakan sedang menyiapkan rencana perdamaian untuk diajukan kepada para kreditur dan dibahas pada rapat 8 Desember 2026 tersebut."
+  ],
+  "fotoAdegan": "Wide exterior view of a commercial court building facade in Jakarta, people walking up concrete steps, overcast midday light, signage distant and blurred",
+  "takeaway": "Putusan PKPU ini condong negatif bagi Djasa Ubersakti, karena pengadilan niaga resmi menyatakan perusahaan tidak mampu membayar utang ke pemasoknya tepat waktu, status hukum yang kalau tidak terselesaikan lewat rencana perdamaian bisa berujung pailit. Yang tersentuh adalah arus kas dan kemampuan membayar kewajiban utang perseroan, sebab selama masa PKPU ini seluruh penagihan dan pembayaran ke kreditur biasa, yaitu kreditur tanpa jaminan khusus, dihentikan sementara sampai ada kesepakatan. Nilai tagihan yang menjadi pemicu kasus ini relatif kecil, Rp1 miliar dari satu pemasok yaitu CV. Titan, tetapi munculnya status PKPU biasanya menandakan ada tekanan likuiditas yang lebih luas di balik satu tagihan tersebut. Yang perlu dipantau berikutnya adalah Rapat Kreditur Pertama pada 6 November 2026, tenggat pengajuan tagihan oleh kreditur lain pada 12 November 2026, dan yang paling krusial adalah rapat pemungutan suara atas rencana perdamaian pada 8 Desember 2026, karena hasilnya akan menentukan apakah PTDU berhasil keluar dari status PKPU atau justru terancam pailit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bata-catat-defisiensi-modal-makin-dalam-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "BATA catat [defisiensi modal] makin dalam di kuartal III 2026",
+  "deck": "Rugi Sepatu Bata melebar jadi Rp61,58 miliar di sembilan bulan 2026, defisiensi modal makin dalam, dan kas tergerus ke Rp9,02 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T18:12:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102182238-65650-0/FinancialStatement-2026-III-BATA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BATA",
+  "tags": [
+   "BATA",
+   "laporan keuangan",
+   "defisiensi modal",
+   "rugi bersih"
+  ],
+  "body": [
+   "Sepatu Bata Tbk (BATA) menyampaikan laporan keuangan interim kuartal III 2026 yang tidak diaudit. Untuk periode sembilan bulan hingga 30 September 2026, perusahaan mencatat rugi periode berjalan Rp61,58 miliar, melebar dari rugi Rp52,12 miliar pada periode yang sama tahun lalu. Rugi per saham dasar ikut membesar dari Rp39,99 menjadi Rp47,18. Total aset turun dari Rp282,56 miliar menjadi Rp256,94 miliar, sementara total liabilitas naik dari Rp414,21 miliar menjadi Rp450,14 miliar, sehingga total ekuitas tercatat defisiensi modal Rp193,19 miliar, melebar dari defisiensi Rp131,65 miliar per akhir 2025.",
+   "Penjualan neto sedikit turun menjadi Rp234,26 miliar dari Rp236,93 miliar, namun laba bruto justru naik menjadi Rp100,22 miliar dari Rp90,04 miliar karena beban pokok penjualan berkurang. Meski begitu, beban penjualan dan pemasaran melonjak ke Rp114,07 miliar dari Rp100,63 miliar, dan beban umum serta administrasi naik hampir dua kali lipat menjadi Rp48,59 miliar dari Rp30,15 miliar. Akibatnya rugi usaha melebar ke Rp54,26 miliar dari Rp44,18 miliar pada periode yang sama tahun lalu.",
+   "Kas perusahaan di bank turun tajam dari Rp29,88 miliar menjadi Rp9,02 miliar dalam sembilan bulan. Pinjaman jangka pendek berkurang dari Rp104 miliar menjadi sekitar Rp70,63 miliar, tetapi perusahaan menarik pinjaman jangka panjang baru senilai Rp36,47 miliar yang sebelumnya nihil. Utang usaha kepada pihak berelasi, yakni sesama anggota Bata Shoe Organization yang berkantor pusat di Lausanne, Swiss, naik dari Rp188,34 miliar menjadi Rp232,16 miliar, sementara utang pajak melonjak dari Rp1,48 miliar menjadi Rp7,79 miliar.",
+   "Laporan ditandatangani Presiden Direktur Amitav Nandy dan Direktur Jan Duncan Mcnab Cowe pada 31 Oktober 2026. Entitas induk BATA adalah Bafin (Nederland) B.V., dengan entitas induk terakhir Compass Holdco Limited yang berbasis di Bermuda. Saham BATA sendiri saat ini tercatat di papan Pemantauan Khusus (Watchlist) Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Pairs of shoes lined up on display shelves inside a retail store, a customer browsing quietly under soft indoor lighting",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham, karena rugi periode berjalan melebar dan ekuitas perusahaan bukan sekadar menipis, tapi sudah negatif dan makin dalam, dari defisit Rp131,65 miliar menjadi Rp193,19 miliar hanya dalam sembilan bulan. Pos yang paling perlu diperhatikan adalah ekuitas, yaitu selisih antara total aset dan total utang; kalau sudah negatif berarti utang perusahaan sudah melebihi semua aset yang dimilikinya, bukan cuma modal yang menipis. Arus kas perusahaan juga ikut tergerus, menyisakan kas di bank hanya Rp9,02 miliar per akhir September, turun drastis dari Rp29,88 miliar di awal tahun, sehingga ruang gerak keuangannya makin sempit. Rugi per saham yang membesar dari Rp39,99 menjadi Rp47,18 menunjukkan setiap lembar saham menanggung beban kerugian yang lebih besar dibanding tahun lalu. Yang perlu dipantau selanjutnya adalah apakah tren rugi dan defisiensi modal ini masih berlanjut di laporan keuangan periode penuh 2026, serta apakah pemegang saham pengendali di Belanda dan Bermuda bersedia menyuntik modal baru untuk menutup defisiensi tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "auto-catat-laba-rp1-8-triliun-tumbuh-14-7-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "AUTO Catat [Laba] Rp1,8 Triliun, Tumbuh 14,7% di 9M 2026",
+  "deck": "Astra Otoparts memaparkan kinerja sembilan bulan 2026 dengan laba bersih Rp1,8 triliun, naik 14,7 persen, menjelang paparan publik 5 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T18:03:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/827008e0c1_c64f63be9c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AUTO",
+  "tags": [
+   "AUTO",
+   "Astra Otoparts",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Astra Otoparts Tbk (AUTO) menyampaikan materi Paparan Publik (Public Expose) tahunan 2026 kepada Bursa Efek Indonesia melalui surat bernomor 17/EXT/Corcomm-AOP/XI/2026 tertanggal 2 November 2026, yang diteken Corporate Secretary Sophie Handili. Paparan publik akan digelar secara daring lewat Zoom Webinar pada 5 November 2026 pukul 10.00 WIB, dengan agenda utama pemaparan kinerja kuartal ketiga 2026 perseroan.",
+   "Dalam materi yang dilampirkan, AUTO melaporkan pendapatan bersih sembilan bulan pertama 2026 sebesar Rp17,02 triliun, naik 15 persen dibandingkan periode yang sama tahun sebelumnya yang tercatat Rp14,81 triliun. Laba bersih tumbuh 14,7 persen menjadi Rp1,8 triliun dari sebelumnya Rp1,57 triliun, sehingga laba per saham naik menjadi Rp373. Total aset perseroan per September 2026 tercatat Rp25,18 triliun, naik 11,3 persen dibanding akhir 2025, sementara total liabilitas melonjak 28,9 persen menjadi Rp7,29 triliun dan total ekuitas tumbuh lebih lambat, 5,5 persen, menjadi Rp17,89 triliun.",
+   "Dari sisi segmen usaha, kontribusi pendapatan masih didominasi manufaktur sebesar 54 persen dan perdagangan 46 persen dari total pendapatan Rp17,02 triliun. Di lini manufaktur, komponen roda dua dan roda empat masing-masing menyumbang 48 persen dari pendapatan segmen itu. Segmen trading senilai Rp7,84 triliun ditopang penjualan domestik 70 persen, ritel modern 17 persen, dan ekspor 13 persen. Perseroan juga mencatat jaringan ritelnya mencapai 673 gerai per September 2026, serta mengoperasikan 71 stasiun pengisian kendaraan listrik di seluruh Indonesia hingga akhir September 2026, termasuk kerja sama dengan PLN untuk pengisi daya tiang pantau di Jawa Barat dan Sumatera Barat."
+  ],
+  "fotoAdegan": "Technician restocking shelves of motorcycle spare parts inside a busy retail auto parts store, fluorescent lighting",
+  "takeaway": "Laporan ini condong positif bagi AUTO karena pendapatan dan laba bersih sembilan bulan pertama 2026 sama-sama tumbuh di atas 14 persen, didorong permintaan domestik dan ekspor yang stabil. Yang perlu dicermati, liabilitas atau total utang perseroan tumbuh 28,9 persen, jauh lebih cepat dari ekuitas atau modal pemegang saham yang hanya naik 5,5 persen, sehingga porsi utang dalam struktur permodalan membesar meski laba per saham, yakni bagian laba bersih untuk setiap lembar saham, tetap naik 14,7 persen menjadi Rp373. Kenaikan laba per saham ini penting bagi pemegang saham karena mencerminkan nilai keuntungan yang benar-benar mereka terima per lembar, tanpa terpengaruh penambahan jumlah saham beredar. Gambaran lebih rinci soal arah bisnis AUTO akan terkuak pada paparan publik via Zoom Webinar pada 5 November 2026 pukul 10.00 WIB, saat manajemen membahas kinerja kuartal ketiga secara langsung.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tfas-rugi-melebar-ke-rp4-5-miliar-liabilitas-naik-28-93",
+  "category": "Aksi Korporasi",
+  "title": "TFAS Rugi Melebar ke Rp4,5 Miliar, [Liabilitas] Naik 28,93%",
+  "deck": "Penjualan TFAS naik 30 persen dalam sembilan bulan 2026, tapi rugi bersih melebar ke Rp4,53 miliar seiring liabilitas naik 28,93% akibat pergeseran utang bank ke utang pihak berelasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T17:57:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102181029-65308-0/FinancialStatement-2026-III-TFAS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TFAS",
+  "tags": [
+   "TFAS",
+   "laporan keuangan",
+   "liabilitas",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Telefast Indonesia Tbk (TFAS) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk sembilan bulan yang berakhir 30 September 2026. Penjualan neto perusahaan naik menjadi Rp304,98 miliar, dari Rp233,82 miliar pada periode yang sama tahun 2025. Namun kenaikan penjualan itu tidak diikuti laba. Laba kotor justru turun dari Rp7,37 miliar menjadi Rp6,51 miliar karena beban pokok penjualan tumbuh lebih cepat dari penjualan. Rugi usaha melebar dari Rp1,34 miliar menjadi Rp1,91 miliar, dan rugi bersih yang dapat diatribusikan kepada pemilik perusahaan membesar dari Rp2,45 miliar menjadi Rp4,53 miliar. Rugi per saham ikut melebar dari Rp1,44 menjadi Rp2,58 per lembar.",
+   "Di sisi neraca, total liabilitas perusahaan naik 28,93 persen, dari Rp42,65 miliar pada 31 Desember 2025 menjadi Rp54,99 miliar pada 30 September 2026. Kenaikan ini melewati ambang 20 persen sehingga Direktur Utama Setiawan Parikesit Kencana secara terpisah mengirim surat penjelasan kepada Direktur Penilaian Perusahaan BEI I Gede Nyoman Yetna, tertanggal 30 Oktober 2026. Dalam surat itu disebutkan kenaikan liabilitas terutama berasal dari penambahan utang kepada pihak berelasi yang dipakai untuk membayar utang bank jangka pendek dan menambah modal kerja. Data neraca menunjukkan utang bank jangka pendek turun tajam dari Rp11,91 miliar menjadi Rp2,16 miliar, sementara utang kepada pihak berelasi melonjak dari Rp27,68 miliar menjadi Rp50,20 miliar. Akibat rugi berjalan, total ekuitas perusahaan ikut tergerus dari Rp169,01 miliar menjadi Rp165,64 miliar.",
+   "Laporan ini ditandatangani oleh Direktur Utama Setiawan Parikesit Kencana dan Direktur Tati Ramawati, dengan surat pernyataan direksi bertanggal 30 Oktober 2026. Dokumen juga mencantumkan empat anak perusahaan TFAS yang seluruhnya bergerak di bidang penyedia jasa produk digital: PT Emitama Wahana Mandiri dengan kepemilikan 70 persen, PT Bilik Sinergi Indonesia 51 persen, PT TFAS Digital Indonesia 51 persen yang masih belum beroperasi, dan PT Anugerah Aset Digital, dahulu bernama PT Sicepat Aset Digital, dengan kepemilikan 41 persen."
+  ],
+  "fotoAdegan": "Rows of server racks with blinking status lights in a small dim data center, blue ambient lighting",
+  "takeaway": "Laporan ini condong negatif, sebab rugi bersih TFAS melebar hampir dua kali lipat meski penjualan tumbuh, dan kenaikan liabilitas 28,93 persen itu berasal dari pergeseran utang bank menjadi utang ke pihak berelasi, bukan dari ekspansi usaha yang menghasilkan pendapatan baru. Pos yang tersentuh adalah ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi semua utang, yang turun dari Rp169,01 miliar menjadi Rp165,64 miliar karena tergerus rugi berjalan, serta laba atau rugi per saham yang melebar dari Rp1,44 menjadi Rp2,58 per lembar, artinya kerugian yang ditanggung setiap pemegang saham makin besar walau jumlah saham beredar tidak bertambah. Beban bunga memang turun dari Rp5,16 miliar menjadi Rp3,02 miliar, tapi besarannya masih cukup untuk membuat perusahaan tetap merugi di tingkat operasional. Yang perlu dipantau pembaca adalah laporan keuangan kuartal berikutnya dan laporan tahunan auditan untuk periode penuh 2026, untuk melihat apakah ketergantungan pada utang pihak berelasi ini terus membesar atau mulai dikurangi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "amag-catat-laba-bersih-naik-44-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "AMAG Catat [Laba Bersih] Naik 44% per September 2026",
+  "deck": "Materi public expose 2026 AMAG menunjukkan laba bersih naik 43,86% dan ekuitas naik 4,17% per September 2026, meski rasio solvabilitas turun dari 332% menjadi 294%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T17:44:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7de281fd1c_ea30cf02ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMAG",
+  "tags": [
+   "AMAG",
+   "asuransi",
+   "laba bersih",
+   "public expose"
+  ],
+  "body": [
+   "Dalam materi public expose tahunan yang disampaikan ke Bursa Efek Indonesia, PT Asuransi Multi Artha Guna Tbk (AMAG) memaparkan kinerja keuangan per September 2026 yang belum diaudit. Total aset perusahaan tercatat Rp5,77 triliun, naik 0,34% dari Rp5,75 triliun pada akhir Desember 2025. Di sisi lain, total liabilitas turun 1,98% menjadi Rp3,51 triliun, sementara ekuitas tumbuh 4,17% menjadi Rp2,26 triliun. Pendapatan jasa asuransi sembilan bulan pertama 2026 naik 13,39% secara tahunan menjadi Rp2,38 triliun, sedangkan beban jasa asuransi justru turun 24,61% menjadi Rp951,30 miliar dari Rp1,26 triliun pada periode yang sama tahun lalu. Kombinasi pendapatan naik dan beban turun ini mendorong laba bersih melonjak 43,86% dari Rp145,90 miliar menjadi Rp209,89 miliar.",
+   "Perusahaan juga melaporkan hasil investasi naik 27,47% menjadi Rp134,26 miliar, ditopang total investasi yang bertambah 7,14% menjadi Rp3,30 triliun. Pada 26 Mei 2026, AMAG membagikan dividen tunai senilai Rp148,37 miliar atau Rp30 per lembar saham. Rasio solvabilitas atau tingkat kecukupan modal berbasis risiko (RBC) tercatat 294% per September 2026, turun dari 332% pada periode yang sama tahun sebelumnya, meski rasio akhir tahun lalu, yaitu Desember 2025, justru naik menjadi 371% dari 366% pada Desember 2024. Perusahaan menyebut Otoritas Jasa Keuangan sedang mengkaji metode penghitungan RBC yang baru dan akan meluncurkannya secara resmi pada kuartal pertama 2027.",
+   "Dari sisi pemegang saham, per 30 September 2026 struktur kepemilikan AMAG masih dikuasai Fairfax Asia Limited dengan 4.001.242.013 lembar saham atau 80% dari total saham beredar. PT Bank Pan Indonesia Tbk memegang 388.000.000 lembar (7,76%), publik memegang 556.504.403 lembar (11,12%), dan sisanya 55.806.100 lembar (1,12%) berstatus saham treasuri. Dari sisi lini bisnis, kontribusi terbesar pendapatan jasa asuransi per September 2026 berasal dari asuransi kebakaran sebesar 28%, disusul kendaraan bermotor 19%, kategori lainnya 27%, asuransi kapal 16%, dan asuransi kesehatan 10%.",
+   "Paparan publik tahunan AMAG akan digelar secara elektronik pada Jumat, 6 November 2026 pukul 15.00 WIB, sebagai pemenuhan ketentuan Peraturan Bursa Efek Indonesia Nomor I-E. Materi ini disampaikan ke bursa oleh Direktur AMAG, Dinesh Ramu, pada 2 November 2026."
+  ],
+  "fotoAdegan": "An insurance adjuster inspecting a dented car bumper inside a vehicle repair garage, overcast afternoon light",
+  "takeaway": "Laporan ini condong positif bagi AMAG karena pertumbuhan laba bersih dan ekuitas jauh melampaui pertumbuhan aset, menandakan efisiensi usaha yang membaik meski ada satu catatan pada rasio kesehatan modal. Yang perlu diperhatikan investor adalah ekuitas, yaitu selisih antara total aset dan utang yang menjadi hak pemegang saham, karena kenaikannya 4,17% berarti nilai buku perusahaan membesar, sementara laba bersih yang melonjak 43,86% langsung memengaruhi laba per saham dan potensi dividen ke depan. Rasio solvabilitas atau RBC, yaitu bantalan modal yang menunjukkan kemampuan perusahaan membayar klaim nasabah, memang turun dari 332% menjadi 294% secara tahunan, tapi levelnya masih sangat tinggi sehingga belum perlu dikhawatirkan. Yang perlu dipantau selanjutnya adalah paparan publik elektronik pada 6 November 2026 pukul 15.00 WIB, saat manajemen biasanya membuka sesi tanya jawab dengan investor, serta rencana OJK meluncurkan metode penghitungan RBC baru pada kuartal pertama 2027 yang bisa mengubah cara rasio solvabilitas ini dilaporkan ke depan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "penumpang-ka-september-tembus-48-55-juta-orang",
   "category": "Bisnis",
   "title": "Penumpang KA September Tembus [48,55 Juta Orang]",

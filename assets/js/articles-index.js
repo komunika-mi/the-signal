@@ -5,6 +5,214 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "aadi-tegaskan-daftar-pengendali-sejak-ipo-ke-ojk",
+  "category": "Aksi Korporasi",
+  "title": "AADI Tegaskan Daftar [Pengendali] Sejak IPO ke OJK",
+  "deck": "AADI menegaskan ke OJK bahwa pengendali perseroan sejak IPO adalah keluarga Thohir, Subianto, Rachmat, dan Edwin Soeryadjaya, menyelaraskan seluruh keterbukaan informasi sebelumnya.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AADI",
+   "pengendali saham",
+   "keterbukaan informasi",
+   "Adaro Andalan Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e59894b53c_576c02f8b2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "admr-tegaskan-pengendali-thohir-subianto-rachmat-soeryadjaya",
+  "category": "Aksi Korporasi",
+  "title": "ADMR Tegaskan [Pengendali]: Thohir, Subianto, Rachmat, Soeryadjaya",
+  "deck": "Emiten tambang ADMR menegaskan Keluarga Thohir, Subianto, Rachmat, dan Edwin Soeryadjaya sebagai pengendali dan pemilik manfaat sejak IPO, meluruskan seluruh keterbukaan sebelumnya.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMR",
+   "Alamtri Minerals",
+   "pengendali perusahaan",
+   "pemilik manfaat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/01c9d6b0d6_bb586500c0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adro-tegaskan-thohir-subianto-rachmat-jadi-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "ADRO Tegaskan Thohir, Subianto, Rachmat Jadi [Pengendali]",
+  "deck": "Alamtri Resources menegaskan pengendali dan pemilik manfaat perseroan sejak IPO adalah Keluarga Thohir, Subianto, Rachmat, dan Edwin Soeryadjaya, menyelaraskan pengungkapan sebelumnya.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADRO",
+   "Alamtri Resources",
+   "pengendali perseroan",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1d19fa374f_16a65b7d34.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mcas-liabilitas-naik-26-6-saat-pendapatan-susut-40",
+  "category": "Aksi Korporasi",
+  "title": "MCAS: [Liabilitas] Naik 26,6% Saat Pendapatan Susut 40%",
+  "deck": "Laporan keuangan interim Kuartal III 2026 MCAS menunjukkan pendapatan turun ke Rp2,13 triliun dari Rp3,59 triliun, sementara total liabilitas melonjak jadi Rp948 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MCAS",
+   "laporan keuangan",
+   "liabilitas",
+   "pendapatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102191931-65646-0/FinancialStatement-2026-III-MCAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tris-rencanakan-buyback-saham-hingga-rp10-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TRIS Rencanakan [Buyback] Saham hingga Rp10 Miliar",
+  "deck": "Trisula International akan membeli kembali maksimal 62 juta saham atau 2% modal disetor dengan harga tertinggi Rp165 per saham, mulai 3 November 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIS",
+   "buyback saham",
+   "Trisula International",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b00fb9cd82_5e16c35741.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bhit-laba-bersih-kuartal-iii-anjlok-89-kas-operasi-minus",
+  "category": "Aksi Korporasi",
+  "title": "BHIT: Laba Bersih Kuartal III Anjlok [89%], Kas Operasi Minus",
+  "deck": "Laba bersih BHIT yang menjadi hak pemegang saham induk turun 89 persen jadi Rp24,7 miliar pada sembilan bulan 2026, sementara arus kas operasi berbalik minus Rp1,38 triliun.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BHIT",
+   "MNC Asia Holding",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102191011-65616-0/FinancialStatement-2026-III-BHIT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nfcx-catat-rugi-membesar-liabilitas-naik-27-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "NFCX catat rugi membesar, [liabilitas] naik 27% di Kuartal III 2026",
+  "deck": "Laporan kuartal III 2026 NFCX: pendapatan turun hampir separuh, rugi bersih melebar tiga kali lipat, dan utang naik 27 persen dibanding akhir 2025.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NFCX",
+   "laporan keuangan",
+   "rugi bersih",
+   "utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102190811-65222-0/FinancialStatement-2026-III-NFCX.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wins-beri-jaminan-perusahaan-rp129-36-miliar-ke-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "WINS Beri [Jaminan Perusahaan] Rp129,36 Miliar ke Anak Usaha",
+  "deck": "WINS menjamin fasilitas kredit baru senilai Rp130 miliar dari Bank Nano Syariah untuk anak usahanya, PT Sentosasegara Mulia Shipping, guna refinancing kapal dan modal kerja.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINS",
+   "jaminan perusahaan",
+   "transaksi afiliasi",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f99a073052_39129f8e29.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptdu-pkpu-setelah-gugatan-utang-rp1-miliar-dari-pemasok",
+  "category": "Aksi Korporasi",
+  "title": "PTDU [PKPU] Setelah Gugatan Utang Rp1 Miliar dari Pemasok",
+  "deck": "Pengadilan Niaga Jakarta Pusat mengabulkan PKPU sementara 45 hari bagi Djasa Ubersakti atas tagihan Rp1 miliar dari pemasok CV. Titan, rencana perdamaian dibahas 8 Desember 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTDU",
+   "PKPU",
+   "pengadilan niaga",
+   "utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fcc8a3aa9b_d12a27bbc1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bata-catat-defisiensi-modal-makin-dalam-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "BATA catat [defisiensi modal] makin dalam di kuartal III 2026",
+  "deck": "Rugi Sepatu Bata melebar jadi Rp61,58 miliar di sembilan bulan 2026, defisiensi modal makin dalam, dan kas tergerus ke Rp9,02 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BATA",
+   "laporan keuangan",
+   "defisiensi modal",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102182238-65650-0/FinancialStatement-2026-III-BATA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "auto-catat-laba-rp1-8-triliun-tumbuh-14-7-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "AUTO Catat [Laba] Rp1,8 Triliun, Tumbuh 14,7% di 9M 2026",
+  "deck": "Astra Otoparts memaparkan kinerja sembilan bulan 2026 dengan laba bersih Rp1,8 triliun, naik 14,7 persen, menjelang paparan publik 5 November.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AUTO",
+   "Astra Otoparts",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/827008e0c1_c64f63be9c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tfas-rugi-melebar-ke-rp4-5-miliar-liabilitas-naik-28-93",
+  "category": "Aksi Korporasi",
+  "title": "TFAS Rugi Melebar ke Rp4,5 Miliar, [Liabilitas] Naik 28,93%",
+  "deck": "Penjualan TFAS naik 30 persen dalam sembilan bulan 2026, tapi rugi bersih melebar ke Rp4,53 miliar seiring liabilitas naik 28,93% akibat pergeseran utang bank ke utang pihak berelasi.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TFAS",
+   "laporan keuangan",
+   "liabilitas",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102181029-65308-0/FinancialStatement-2026-III-TFAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amag-catat-laba-bersih-naik-44-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "AMAG Catat [Laba Bersih] Naik 44% per September 2026",
+  "deck": "Materi public expose 2026 AMAG menunjukkan laba bersih naik 43,86% dan ekuitas naik 4,17% per September 2026, meski rasio solvabilitas turun dari 332% menjadi 294%.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMAG",
+   "asuransi",
+   "laba bersih",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7de281fd1c_ea30cf02ff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penumpang-ka-september-tembus-48-55-juta-orang",
   "category": "Bisnis",
   "title": "Penumpang KA September Tembus [48,55 Juta Orang]",
@@ -6271,214 +6479,6 @@ var ARTICLES = [
    "komisaris independen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/39c1f811b1_b0668e2b24.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgl-jadwalkan-saham-bonus-distribusi-25-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Jadwalkan [Saham Bonus], Distribusi 25 November 2026",
-  "deck": "RUPSLB setujui pembagian 514,1 juta saham bonus rasio 6:4 dari agio saham IPO 2020, saham beredar PPGL naik jadi maksimal 1,28 miliar lembar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "saham bonus",
-   "aksi korporasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4925bb1607_dcb3b7db02.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-of-india-indonesia-bswd-laba-naik-ldr-tembus-144",
-  "category": "Aksi Korporasi",
-  "title": "Bank of India Indonesia (BSWD): Laba Naik, [LDR] Tembus 144%",
-  "deck": "BSWD menjelaskan ke Bursa bahwa laba bersihnya naik 74,95% per Agustus 2026, tapi dana nasabah turun 10,58% dan rasio kredit terhadap simpanan melonjak ke 144,15%.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSWD",
-   "LDR",
-   "perbankan",
-   "likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/48ed7f923f_8a5f86b480.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nine-panggil-rupslb-bahas-rights-issue-2-44-miliar-saham",
-  "category": "Aksi Korporasi",
-  "title": "NINE Panggil RUPSLB, Bahas [Rights Issue] 2,44 Miliar Saham",
-  "deck": "Techno9 Indonesia mengundang RUPSLB 18 November 2026, agendakan pergantian direksi-komisaris, rights issue hingga 2,44 miliar saham, dan penerbitan surat utang baru.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NINE",
-   "RUPSLB",
-   "Rights Issue",
-   "Techno9 Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e34b21dc76_7b183d18a5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msin-paparkan-strategi-v-short-dan-integrasi-rcti-vision",
-  "category": "Aksi Korporasi",
-  "title": "MSIN Paparkan Strategi [V+Short] dan Integrasi RCTI+-Vision+",
-  "deck": "Dalam public expose insidentil atas permintaan BEI, manajemen MSIN memaparkan rencana integrasi RCTI+ dan Vision+ serta target pertumbuhan platform V+Short di pasar global.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSIN",
-   "Public Expose",
-   "V+Short",
-   "RCTI+"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0e3cdecedd_8d2253b24b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "maha-laba-bersih-9m-melonjak-122-liabilitas-susut-28",
-  "category": "Aksi Korporasi",
-  "title": "MAHA: Laba Bersih 9M Melonjak 122%, [Liabilitas] Susut 28%",
-  "deck": "Laba bersih sembilan bulan MAHA melonjak 122 persen menjadi Rp167,9 miliar, ditopang turunnya kerugian investasi saham, sementara liabilitas turun 27,8 persen.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAHA",
-   "laporan keuangan",
-   "laba bersih",
-   "liabilitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027173315-64492-0/FinancialStatement-2026-III-MAHA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtps-panggil-rupslb-ketiga-soal-penjualan-gedung-kantor",
-  "category": "Aksi Korporasi",
-  "title": "MTPS Panggil RUPSLB [Ketiga] Soal Penjualan Gedung Kantor",
-  "deck": "RUPSLB Independen ketiga MTPS digelar 3 November 2026 setelah dua rapat sebelumnya gagal kuorum, membahas penjualan gedung kantor seluas 4.802 m2 di Jakarta Timur.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTPS",
-   "RUPSLB",
-   "penjualan aset",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/cc5c5835fd_65cac54cfb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inco-panggil-rupslb-bahas-pengunduran-direktur-dan-revisi-ad",
-  "category": "Aksi Korporasi",
-  "title": "INCO Panggil RUPSLB, Bahas [Pengunduran] Direktur dan Revisi AD",
-  "deck": "Vale Indonesia memanggil RUPSLB pada 18 November 2026 untuk meratifikasi pengunduran diri seorang direktur dan menyesuaikan anggaran dasar dengan KBLI 2025.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INCO",
-   "RUPSLB",
-   "Vale Indonesia",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f2ef8b3f5a_edaab30bbf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asgr-laba-bersih-naik-15-jadi-rp209-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "ASGR: [Laba Bersih] Naik 15% Jadi Rp209 Miliar di Kuartal III 2026",
-  "deck": "Astra Graphia mencatat pendapatan Rp2,35 triliun dan laba bersih Rp209 miliar untuk sembilan bulan 2026, meski ekuitas turun karena dividen final 2025 senilai Rp284,6 miliar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASGR",
-   "Astra Graphia",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027172333-64816-0/FinancialStatement-2026-III-ASGR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "andi-utang-ke-bank-permata-pindah-ke-pjs-lewat-cessie",
-  "category": "Aksi Korporasi",
-  "title": "ANDI: Utang ke Bank Permata Pindah ke PJS Lewat [Cessie]",
-  "deck": "Andira Agro menjelaskan ke BEI bahwa utang banknya kini beralih dari Bank Permata ke PT Puncak Jaya Sejahtera, pengendali baru yang juga baru mengambil alih 33% saham pengendali.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANDI",
-   "Andira Agro",
-   "cessie",
-   "Puncak Jaya Sejahtera"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/99503b7da0_92a18e0ed1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "city-bukukan-laba-rp17-8-miliar-naik-49-6-di-9-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "CITY Bukukan Laba Rp17,8 Miliar, [Naik] 49,6% di 9 Bulan 2026",
-  "deck": "Laporan keuangan interim kuartal III 2026 Natura City Developments menunjukkan laba sembilan bulan naik 49,6% menjadi Rp17,83 miliar, sementara total aset tumbuh jadi Rp1,14 triliun.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CITY",
-   "laporan keuangan",
-   "properti",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027100931-64407-0/FinancialStatement-2026-III-CITY.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-fitch-turunkan-peringkat-obligasi-ke-gagal-bayar",
-  "category": "Aksi Korporasi",
-  "title": "POST: Fitch Turunkan Peringkat Obligasi ke [Gagal Bayar]",
-  "deck": "Fitch Ratings Indonesia menurunkan peringkat Obligasi I Pos Indonesia Tahun 2022 dari C(idn) menjadi D(idn), level yang menurut metodologi Fitch berarti status gagal bayar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "Pos Indonesia",
-   "Obligasi",
-   "Fitch Ratings"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/70ff8c3864_d5b9d5de1c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "imfi-siapkan-dana-rp593-54-miliar-lunasi-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "IMFI Siapkan Dana Rp593,54 Miliar [Lunasi] Obligasi",
-  "deck": "Indomobil Finance menyatakan telah menyiapkan dana Rp593,54 miliar untuk melunasi pokok dan bunga ke-20 obligasi seri C yang jatuh tempo 19 November 2026.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMFI",
-   "obligasi",
-   "Indomobil Finance",
-   "pelunasan obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9a1764e45a_b168b532b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbca-catat-laba-bersih-rp45-2-triliun-per-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "BBCA Catat Laba Bersih [Rp45,2 Triliun] per September 2026",
-  "deck": "BBCA mencetak laba bersih Rp45,24 triliun pada sembilan bulan 2026, naik 4,2 persen, didukung pertumbuhan kredit dan simpanan nasabah.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBCA",
-   "laporan keuangan",
-   "laba bersih",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027164104-65005-0/FinancialStatement-2026-III-BBCA.pdf",
   "sourceLabel": "IDX"
  }
 ];

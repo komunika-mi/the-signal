@@ -3,6 +3,189 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jecx-komisaris-beli-49-000-saham-tetap-hak-suara-0-39",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Komisaris Beli 49.000 Saham [Tetap] Hak Suara 0,39%",
+  "deck": "Dewan Komisaris JECX, DR. Admar Anwar, membeli 49.000 saham perusahaan senilai sekitar Rp50,7 juta pada 30 Oktober 2026, kepemilikannya naik jadi 12,78 juta lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T08:31:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02112026-8392-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "komisaris",
+   "kepemilikan saham",
+   "transaksi insider"
+  ],
+  "body": [
+   "Dewan Komisaris PT Nitrasanata Dharma Tbk (JECX), DR. Admar Anwar, melaporkan pembelian 49.000 lembar saham biasa perusahaan melalui transaksi tidak langsung. Transaksi tercatat pada 30 Oktober 2026 dengan harga Rp1.035 per lembar, sehingga nilainya sekitar Rp50,7 juta. Laporan disampaikan kepada Otoritas Jasa Keuangan pada 2 November 2026 dengan tujuan transaksi tertulis sebagai investasi.",
+   "Dengan pembelian ini, jumlah saham yang dimiliki Admar Anwar bertambah dari 12.728.000 lembar menjadi 12.777.000 lembar. Kenaikan itu setara 0,39 persen dari jumlah saham yang sudah dipegangnya sebelum transaksi. Meski jumlah lembarnya bertambah, persentase hak suaranya di JECX tidak berubah, tetap tercatat 0,39 persen baik sebelum maupun sesudah transaksi."
+  ],
+  "fotoAdegan": "A businessman's hand signing a share transfer form on a desk, the paper angled and slightly blurred, modern Jakarta office light streaming in",
+  "takeaway": "Laporan ini netral bagi JECX, sebab pembelian 49.000 lembar hanya menambah 0,39 persen dari saham yang sudah dimiliki komisarisnya sendiri, terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran terhadap prospek perusahaan. Pos yang tersentuh di sini cuma kepemilikan pribadi sang komisaris, bukan ekuitas atau jumlah saham beredar perusahaan, karena ini jual beli di pasar sekunder antar pemegang saham, bukan penerbitan saham baru oleh JECX. Hak suaranya pun tetap di 0,39 persen sebelum dan sesudah transaksi, jadi posisinya dalam pengambilan keputusan tidak bergeser sedikit pun. Yang perlu dipantau berikutnya adalah apakah pembelian kecil ini jadi awal akumulasi bertahap lewat laporan kepemilikan berikutnya atau berhenti di transaksi tunggal 30 Oktober 2026 ini, terutama setelah JECX baru melaporkan laba bersih yang turun 38 persen pekan lalu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "igar-rencanakan-go-private-dan-delisting-dari-bei",
+  "category": "Aksi Korporasi",
+  "title": "IGAR Rencanakan [Go Private] dan Delisting dari BEI",
+  "deck": "Champion Pacific Indonesia (IGAR) menggelar RUPSLB 9 Desember 2026 untuk meminta restu pemegang saham independen atas rencana go private dan delisting dari bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T08:29:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/075dac88fd_1d16946a90.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IGAR",
+  "tags": [
+   "IGAR",
+   "go private",
+   "delisting",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Champion Pacific Indonesia Tbk (IGAR) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 9 Desember 2026 pukul 10.00 WIB, di Mitsui House, Jalan Pangeran Diponegoro No. 42, Menteng, Jakarta Pusat. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per Senin, 16 November 2026.",
+   "Agenda utama rapat adalah persetujuan rencana go private dan delisting, yang mencakup empat hal: pembatalan pencatatan (delisting) saham IGAR dari Bursa Efek Indonesia, perubahan status Perseroan dari perusahaan terbuka menjadi tertutup, pelaksanaan pembelian kembali saham sebagai bagian dari pelaksanaan rencana tersebut, dan pemberian kewenangan kepada Direksi untuk mengambil segala tindakan yang diperlukan termasuk eksekusi pembelian kembali saham. Agenda kedua, yang baru berlaku jika agenda pertama disetujui, adalah perubahan seluruh Anggaran Dasar Perseroan untuk menyesuaikan status badan hukum dari terbuka menjadi tertutup.",
+   "Dua agenda ini punya syarat kelulusan yang berbeda. Agenda pertama hanya sah jika dihadiri Pemegang Saham Independen yang mewakili lebih dari separuh total saham independen berhak suara, dan disetujui oleh lebih dari separuh suara independen yang hadir, pengendali tidak ikut menentukan. Agenda kedua soal perubahan anggaran dasar tidak memerlukan persetujuan independen itu, tapi tetap mensyaratkan kehadiran minimal dua pertiga dari seluruh saham berhak suara dan persetujuan lebih dari dua pertiga suara yang hadir. Perseroan juga membuka kesempatan bagi pemegang saham dengan minimal 1/20 saham berhak suara untuk mengusulkan agenda tambahan, dengan tenggat pengajuan paling lambat Selasa, 10 November 2026, sementara pemanggilan resmi RUPSLB akan diumumkan Selasa, 17 November 2026 lewat situs BEI, sistem eASY.KSEI, dan situs web Perseroan."
+  ],
+  "fotoAdegan": "Empty formal meeting hall with rows of chairs facing a podium, elegant Jakarta hotel ballroom, soft morning light",
+  "takeaway": "Rencana go private dan delisting ini condong negatif bagi pemegang saham publik IGAR, sebab ujungnya saham Perseroan tidak lagi bisa diperdagangkan bebas di bursa dan pemegang saham minoritas pada akhirnya harus melepas kepemilikannya lewat mekanisme pembelian kembali yang harga dan skemanya belum diumumkan dalam dokumen ini. Yang tersentuh langsung adalah jumlah saham beredar di tangan publik, karena pembelian kembali saham akan menariknya dari pasar sampai porsi publik berkurang drastis, sekaligus mengubah status Perseroan dari perusahaan terbuka menjadi tertutup sehingga lepas dari kewajiban keterbukaan informasi berkala ke publik. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPSLB pada 17 November 2026, yang biasanya memuat rincian skema dan harga pembelian kembali saham, serta hasil pemungutan suara Pemegang Saham Independen pada RUPSLB 9 Desember 2026 itu sendiri, karena agenda go private ini hanya lolos bila disetujui pemegang saham independen, bukan pemegang saham pengendali.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nayz-dirikan-anak-usaha-baru-rambah-bisnis-laundry",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Dirikan [Anak Usaha] Baru, Rambah Bisnis Laundry",
+  "deck": "Hassana Boga Sejahtera (NAYZ) mendirikan anak usaha baru, PT Integrasi Sistem Digital, yang bergerak di peralatan listrik rumah tangga dan jasa laundry, di luar bisnis inti makanan bayi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T08:26:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e71606cf04_e8044def6d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "anak usaha",
+   "diversifikasi usaha",
+   "Hassana Boga Sejahtera"
+  ],
+  "body": [
+   "PT Hassana Boga Sejahtera Tbk (NAYZ) mendirikan anak usaha baru bernama PT Integrasi Sistem Digital (ISD) pada 30 Oktober 2026. Pendirian ini tertuang dalam Akta Pendirian Perseroan Terbatas No. 141 yang dibuat di hadapan Notaris Panji Kresna, S.H., M.Kn. di Kota Bekasi, dan telah mendapat pengesahan dari Menteri Hukum Republik Indonesia melalui Surat Keputusan No. AHU-0087600.AH.01.01.TAHUN 2026 tertanggal 31 Oktober 2026. Laporan resmi disampaikan ke Otoritas Jasa Keuangan pada 2 November 2026 dan ditandatangani Direktur Utama NAYZ, Dody Arifianto.",
+   "ISD bergerak di bidang usaha yang sama sekali berbeda dari bisnis inti NAYZ selama ini, yaitu industri dan perdagangan peralatan listrik rumah tangga, termasuk mesin cuci dan mesin pengering untuk keperluan niaga, serta jasa pencucian dan pembersihan produk tekstil atau laundry. Modal yang ditempatkan di ISD berjumlah 2.500 lembar saham, dengan NAYZ menguasai 2.490 lembar atau 99,60 persen, sementara sisanya 10 lembar atau 0,40 persen dipegang oleh individu bernama Sawin Laosethakul.",
+   "Dalam dokumennya, manajemen NAYZ menyebut pembentukan ISD diharapkan membuka peluang usaha baru, memperluas pangsa pasar, dan memberi kontribusi positif terhadap pendapatan serta kinerja keuangan konsolidasi perusahaan di masa depan. Namun dokumen ini tidak menyebutkan nilai nominal modal yang disetor maupun target pendapatan dari lini bisnis baru tersebut."
+  ],
+  "fotoAdegan": "Rows of large industrial washing machines in a commercial laundry facility, workers sorting folded textiles under fluorescent lighting",
+  "takeaway": "Laporan ini kami nilai netral bagi NAYZ karena skala anak usaha barunya masih sangat kecil, modal ditempatkan hanya 2.500 lembar saham tanpa nilai nominal yang diungkap, sehingga belum bisa diukur dampaknya terhadap keuangan perusahaan. Pos yang berpotensi tersentuh adalah ekuitas konsolidasian NAYZ, yaitu total kekayaan bersih perusahaan setelah digabung dengan anak usahanya, yang nilainya baru akan terlihat jelas begitu ISD mulai beroperasi dan membukukan aset atau pendapatan sendiri. Yang menarik dicatat, bisnis ISD, yaitu peralatan listrik rumah tangga dan jasa laundry, tidak ada hubungannya dengan bisnis inti NAYZ di industri makanan bayi, sehingga ini merupakan langkah diversifikasi ke sektor yang sama sekali baru bagi perusahaan. Dokumen ini tidak mencantumkan tenggat atau agenda RUPS lanjutan terkait ISD, sehingga yang perlu dipantau pemegang saham adalah laporan keuangan konsolidasi NAYZ ke depan, untuk melihat apakah lini bisnis baru ini benar-benar mulai beroperasi dan menyumbang pendapatan seperti yang diharapkan manajemen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smbr-teken-perjanjian-gabung-anak-usaha-bmu-merger",
+  "category": "Aksi Korporasi",
+  "title": "SMBR Teken Perjanjian Gabung Anak Usaha BMU [Merger]",
+  "deck": "SMBR menandatangani perjanjian bersyarat untuk melebur anak usahanya, BMU, ke dalam perusahaan induk sebagai bagian dari perampingan struktur menjelang integrasi dengan SIG.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T08:06:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9b3111a309_9976207f67.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMBR",
+  "tags": [
+   "SMBR",
+   "merger",
+   "Semen Baturaja",
+   "BMU"
+  ],
+  "body": [
+   "PT Semen Baturaja (Persero) Tbk (SMBR) menandatangani Perjanjian Penggabungan Bersyarat atau Conditional Merger Agreement (CMA) pada 30 Oktober 2026 dengan anak usahanya, PT Baturaja Multi Usaha (BMU). SMBR saat ini menguasai 99,94 persen modal ditempatkan BMU, sehingga rencana ini pada dasarnya menyatukan dua badan hukum yang sahamnya sudah hampir seluruhnya dipegang oleh induk yang sama. Perseroan menyebut langkah ini sebagai bagian dari rencana streamlining atau upstream merger, yakni penyederhanaan struktur perusahaan di dalam grup.",
+   "Berdasarkan perjanjian itu, setelah penggabungan resmi berlaku, SMBR akan menjadi entitas yang menerima penggabungan atau surviving entity, sementara BMU akan berakhir demi hukum tanpa melalui proses likuidasi. Namun penggabungan ini belum otomatis berjalan. Dokumen menyebut transaksi baru akan efektif setelah seluruh persyaratan terpenuhi dan persetujuan dari para pihak serta otoritas berwenang diperoleh, dengan tetap mengacu pada anggaran dasar masing-masing perusahaan dan ketentuan perundang-undangan yang berlaku.",
+   "Dalam laporan keterbukaan informasi ke Bursa Efek Indonesia dan Otoritas Jasa Keuangan, Corporate Secretary SMBR Hari Liandu menyatakan transaksi ini tidak memiliki dampak material terhadap kelangsungan usaha perseroan. Laporan ini muncul tak lama setelah SMBR sebelumnya memberi sinyal akan ada aksi korporasi menyusul persiapan audit laporan keuangan kuartal III, dan CMA ini tampak menjadi salah satu wujud dari rencana tersebut."
+  ],
+  "fotoAdegan": "Industrial cement plant with tall silos and conveyor structures under an overcast sky in rural South Sumatra, workers in hard hats inspecting equipment",
+  "takeaway": "Penilaian kami netral, karena ini murni penyederhanaan struktur badan hukum di dalam grup, bukan transaksi yang mendatangkan dana segar, mengubah utang, atau menggeser kendali pemegang saham. Pos yang tersentuh terutama struktur konsolidasi, karena BMU yang sahamnya sudah 99,94 persen dimiliki SMBR dan selama ini sudah masuk dalam laporan keuangan konsolidasi, sehingga setelah merger efektif entitas anak ini akan lenyap dari daftar perusahaan tanpa banyak mengubah ekuitas atau arus kas gabungan. Yang perlu dipantau selanjutnya adalah tanggal efektif penggabungan, karena dokumen ini menyebut proses baru berlaku setelah seluruh persyaratan dan persetujuan dari pihak serta otoritas berwenang terpenuhi, sementara tanggal pastinya belum diumumkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "true-rugi-melebar-ke-rp28-2-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "TRUE: Rugi [Melebar] ke Rp28,2 Miliar di Kuartal III 2026",
+  "deck": "Rugi bersih Triniti Dinamik (TRUE) melebar 64 persen jadi Rp28,2 miliar dalam sembilan bulan 2026, sementara penjualan turun 42 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T07:53:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102080318-65661-0/FinancialStatement-2026-III-TRUE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUE",
+  "tags": [
+   "TRUE",
+   "Properti",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Triniti Dinamik Tbk (TRUE) mencatat rugi bersih konsolidasian Rp28,21 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, melebar 64 persen dibanding rugi Rp17,22 miliar pada periode yang sama tahun sebelumnya. Pelebaran rugi ini terjadi di tengah penjualan yang turun tajam, dari Rp35,81 miliar menjadi Rp20,75 miliar, sementara beban penjualan dan pemasaran justru melonjak dari Rp5,45 miliar menjadi Rp14,24 miliar.",
+   "Akibat rugi yang terus berlanjut, saldo laba perusahaan yang belum ditentukan penggunaannya kian dalam negatif, dari defisit Rp77,17 miliar pada akhir 2025 menjadi defisit Rp105,13 miliar pada September 2026. Total ekuitas perusahaan ikut tergerus dari Rp223,90 miliar menjadi Rp195,98 miliar, sementara total liabilitas justru naik dari Rp469,96 miliar menjadi Rp536,35 miliar, terutama karena utang usaha kepada pihak ketiga yang bertambah dari Rp56,13 miliar menjadi Rp81,40 miliar dan utang kepada pihak berelasi jangka panjang yang naik dari Rp49,96 miliar menjadi Rp67,60 miliar. Rugi per saham dasar yang dapat diatribusikan kepada pemilik entitas induk melebar dari Rp1 menjadi Rp3,73 per lembar.",
+   "Di sisi lain, uang muka penjualan dari pembeli properti naik dari Rp112,99 miliar menjadi Rp159,57 miliar, menunjukkan ada transaksi penjualan unit yang sudah menerima pembayaran muka meski pendapatannya belum sepenuhnya diakui dalam laporan laba rugi. Kas dan setara kas perusahaan juga naik tipis dari Rp8,73 miliar menjadi Rp9,14 miliar. Laporan keuangan interim kuartal ketiga 2026 ini belum diaudit dan disampaikan Triniti Dinamik kepada Bursa Efek Indonesia melalui surat bernomor 175/TD/X/2026."
+  ],
+  "fotoAdegan": "Rows of half-finished townhouses on a suburban Indonesian housing development site, construction workers in hard hats in the distance, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi Triniti Dinamik, karena rugi bersihnya melebar 64 persen sementara pendapatan penjualan menyusut hampir separuh, pertanda bisnis propertinya belum membaik meski beban pemasaran dinaikkan. Pos yang paling tersentuh adalah ekuitas, yaitu bagian modal milik pemegang saham setelah dikurangi semua utang perusahaan, yang terus menipis karena rugi tahun ini langsung mengurangi saldo laba. Rugi per saham, yakni porsi kerugian yang ditanggung oleh setiap lembar saham yang beredar, juga melonjak dari Rp1 menjadi Rp3,73, sehingga makin besar kerugian yang mewakili tiap lembar saham publik. Karena laporan ini masih berstatus tidak diaudit, yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan setelah tutup tahun 2026, untuk melihat apakah pelebaran rugi ini berlanjut atau justru tertahan oleh uang muka penjualan yang sudah terkumpul Rp159,57 miliar dari pembeli.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cybr-laba-bersih-naik-tapi-laba-usaha-minus-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Laba Bersih Naik, tapi [Laba Usaha] Minus di Kuartal III",
+  "deck": "Pendapatan ITSEC Asia (CYBR) hampir stagnan pada sembilan bulan 2026, tapi margin kotor tergerus dan laba usaha berbalik rugi. Laba bersih tetap naik karena ditopang manfaat pajak besar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T07:43:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102075520-65551-0/FinancialStatement-2026-III-CYBR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT ITSEC Asia Tbk (CYBR) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan melalui surat nomor 267/ADMKEU/ITSECASIA/X/2026 tertanggal 29 Oktober 2026, sesuai ketentuan POJK Nomor 14/POJK.04/2022. Surat tersebut ditandatangani Presiden Direktur Patrick Rudolf Dannacher dan Direktur Doni Mora. Perusahaan mengonsolidasikan empat entitas anak, yaitu ITSEC Services Asia Pte. Ltd. di Singapura dan ITSEC Australia Pty. Ltd. yang sudah beroperasi sejak 2018, serta PT ITSEC Cyber Academy dan ITSEC Cyber Solutions Africa Ltd. yang baru beroperasi sejak 2025, dengan kepemilikan 100 persen kecuali Cyber Academy yang 99 persen.",
+   "Pendapatan bersih sembilan bulan 2026 tercatat Rp294,01 miliar, turun tipis dari Rp297,24 miliar pada periode yang sama tahun sebelumnya. Namun beban pokok pendapatan melonjak dari Rp159,46 miliar menjadi Rp194,68 miliar, sehingga laba kotor merosot dari Rp137,78 miliar menjadi Rp99,32 miliar. Setelah beban umum dan administrasi naik menjadi Rp124,31 miliar, perusahaan mencatat rugi usaha Rp9,70 miliar, berbalik dari laba usaha Rp12,13 miliar pada 2025. Rugi sebelum pajak tercatat Rp10,38 miliar, tetapi perusahaan memperoleh manfaat pajak penghasilan sebesar Rp32,94 miliar, jauh lebih besar dari Rp429,17 juta pada tahun sebelumnya, sehingga laba bersih periode berjalan justru naik menjadi Rp22,55 miliar dari Rp11,50 miliar. Laba per saham dasar tercatat Rp1,65, dari sebelumnya Rp0,87.",
+   "Dari sisi posisi keuangan, jumlah aset naik dari Rp416,50 miliar pada akhir 2025 menjadi Rp469,51 miliar per 30 September 2026, sementara jumlah liabilitas naik dari Rp160,27 miliar menjadi Rp165,37 miliar. Jumlah ekuitas bertambah dari Rp256,23 miliar menjadi Rp304,14 miliar. Perusahaan juga melakukan pemecahan nilai nominal saham dari Rp25 menjadi Rp12,5 per saham, yang membuat jumlah saham beredar melonjak dari 6,68 miliar menjadi sekitar 13,49 miliar lembar. Selain dari pemecahan saham, penambahan itu juga berasal dari pelaksanaan waran sepanjang sembilan bulan 2026 yang menyuntik modal disetor dan tambahan modal disetor senilai total Rp27,10 miliar, lebih kecil dibanding Rp78,74 miliar pada periode sembilan bulan 2025.",
+   "Dari laporan arus kas, kegiatan operasi menghasilkan kas bersih Rp8,98 miliar pada 2026, berbalik dari pemakaian kas bersih Rp25,44 miliar pada 2025. Namun aktivitas investasi menyedot kas Rp36,68 miliar, terutama untuk pembelian aset tetap Rp19,59 miliar dan aset takberwujud Rp17,04 miliar. Akibatnya, saldo kas dan bank perusahaan justru turun dari Rp17,86 miliar menjadi Rp12,23 miliar. Laporan ini belum diaudit, sementara laporan tahunan 2025 sebelumnya diaudit oleh Kantor Akuntan Publik Morhan dan Rekan dengan opini wajar tanpa pengecualian."
+  ],
+  "fotoAdegan": "Technicians monitoring server racks in a dim data center, tangled cables and blinking status lights, late evening shift",
+  "takeaway": "Laporan ini condong negatif bagi kesehatan bisnis inti ITSEC Asia, karena di balik laba bersih yang melonjak, usaha pokoknya justru berbalik rugi. Margin kotor yang anjlok dari sekitar 46 persen menjadi 34 persen, ditambah balik arah dari laba usaha ke rugi usaha, berarti ongkos produksi dan operasional tumbuh lebih cepat dari pendapatan, bukan sekadar fluktuasi musiman, dan ini yang dipantau pelaku pasar karena mencerminkan daya saing bisnis sehari-hari, berbeda dari laba bersih yang tahun ini justru terbantu manfaat pajak sebesar Rp32,94 miliar, bukan dari penjualan yang membaik. Jumlah saham beredar pun melonjak akibat pemecahan saham dan pelaksanaan waran, yang berarti laba per saham ke depan harus dibagi ke basis saham yang jauh lebih besar. Yang perlu dipantau berikutnya adalah apakah rugi usaha ini berlanjut atau cuma sementara pada laporan kuartal IV dan laporan tahunan auditan 2026, mengingat laba bersih tahun ini sangat bergantung pada manfaat pajak yang sifatnya tidak selalu berulang.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pwon-laba-9-bulan-turun-16-jadi-rp1-78-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PWON: [Laba] 9 Bulan Turun 16% jadi Rp1,78 Triliun",
+  "deck": "Pakuwon Jati melaporkan laba bersih sembilan bulan 2026 turun 16 persen jadi Rp1,78 triliun, sementara arus kas operasi dan ekuitas justru naik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T06:45:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102065554-65657-0/FinancialStatement-2026-III-PWON.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PWON",
+  "tags": [
+   "PWON",
+   "laporan keuangan",
+   "properti",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Pakuwon Jati Tbk (PWON) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, sesuai surat pernyataan direksi bertanggal 30 Oktober 2026. Pendapatan perusahaan properti ini naik tipis menjadi Rp5,21 triliun dari Rp5,12 triliun pada periode yang sama tahun lalu, namun laba bersih turun 16 persen menjadi Rp1,78 triliun dari Rp2,12 triliun. Bagian laba yang menjadi hak pemegang saham pengendali turun lebih dalam, 19,3 persen, dari Rp1,73 triliun menjadi Rp1,39 triliun, sehingga laba per saham dasar turun dari Rp35,85 menjadi Rp28,93.",
+   "Penurunan laba sebagian besar berasal dari pos di luar bisnis inti. Tahun lalu Pakuwon mencatat untung Rp30,4 miliar dari penawaran tender pembelian kembali obligasi yang tidak berulang tahun ini, sementara pos lain-lain bersih berbalik dari untung Rp238,2 miliar pada 2025 menjadi rugi Rp327,7 miliar pada 2026. Beban umum dan administrasi juga naik dari Rp423,5 miliar menjadi Rp466,3 miliar. Di sisi lain, rugi selisih kurs mengecil dari Rp157 miliar menjadi Rp44,9 miliar dan untung dari instrumen keuangan derivatif naik dari Rp1,3 miliar menjadi Rp72,4 miliar.",
+   "Di sisi keuangan, total aset perusahaan naik menjadi Rp37,73 triliun dari Rp36,47 triliun, dan ekuitas naik menjadi Rp27,41 triliun dari Rp26,62 triliun. Kas dan setara kas justru menyusut menjadi Rp4,54 triliun dari Rp5,19 triliun, terutama karena perusahaan menempatkan Rp1,85 triliun dananya ke investasi reksadana baru, jauh lebih besar dibanding penempatan investasi obligasi yang hanya Rp82,5 miliar. Kas yang dihasilkan dari kegiatan operasi sehari-hari justru membesar, dari Rp2,06 triliun menjadi Rp2,56 triliun, dan saldo utang obligasi perusahaan naik dari Rp5,58 triliun menjadi Rp5,99 triliun.",
+   "Perusahaan membagikan dividen tunai sekitar Rp625 miliar kepada pemegang saham, jumlahnya relatif sama dengan periode sembilan bulan tahun lalu. Yang melonjak adalah dividen yang dibagikan anak-anak usaha Pakuwon kepada mitra pemegang saham minoritas di level anak usaha, dari Rp37,5 miliar pada sembilan bulan 2025 menjadi Rp350,3 miliar pada sembilan bulan 2026."
+  ],
+  "fotoAdegan": "Wide atrium of a modern Jakarta shopping mall with escalators and shoppers walking under a glass skylight, bright daylight",
+  "takeaway": "Laporan ini netral bagi fundamental Pakuwon Jati: pendapatan inti masih naik tipis dan kas dari kegiatan operasi malah membesar, tapi laba bersih turun 16 persen terutama karena faktor tidak berulang tahun lalu, bukan karena bisnis intinya melemah. Yang tersentuh adalah laba per saham, yaitu bagian laba yang menjadi hak tiap lembar saham, yang turun dari Rp35,85 menjadi Rp28,93 karena laba untuk pemegang saham pengendali mengecil sementara jumlah saham beredar tetap. Ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, justru naik dari Rp26,62 triliun menjadi Rp27,41 triliun, menandakan modal sendiri perusahaan masih bertambah. Penyusutan kas dari Rp5,19 triliun menjadi Rp4,54 triliun juga bukan tanda bisnis seret, melainkan karena Rp1,85 triliun di antaranya dipindahkan ke investasi reksadana baru. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk seluruh 2026, karena laporan kali ini baru versi sembilan bulan yang belum diaudit.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pege-optimus-vision-tambah-kepemilikan-saham-ke-6-39",
   "category": "Aksi Korporasi",
   "title": "PEGE: Optimus Vision Tambah [Kepemilikan] Saham ke 6,39%",

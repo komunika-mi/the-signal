@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jecx-komisaris-beli-49-000-saham-tetap-hak-suara-0-39",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Komisaris Beli 49.000 Saham [Tetap] Hak Suara 0,39%",
+  "deck": "Dewan Komisaris JECX, DR. Admar Anwar, membeli 49.000 saham perusahaan senilai sekitar Rp50,7 juta pada 30 Oktober 2026, kepemilikannya naik jadi 12,78 juta lembar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "komisaris",
+   "kepemilikan saham",
+   "transaksi insider"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02112026-8392-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "igar-rencanakan-go-private-dan-delisting-dari-bei",
+  "category": "Aksi Korporasi",
+  "title": "IGAR Rencanakan [Go Private] dan Delisting dari BEI",
+  "deck": "Champion Pacific Indonesia (IGAR) menggelar RUPSLB 9 Desember 2026 untuk meminta restu pemegang saham independen atas rencana go private dan delisting dari bursa.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IGAR",
+   "go private",
+   "delisting",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/075dac88fd_1d16946a90.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nayz-dirikan-anak-usaha-baru-rambah-bisnis-laundry",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Dirikan [Anak Usaha] Baru, Rambah Bisnis Laundry",
+  "deck": "Hassana Boga Sejahtera (NAYZ) mendirikan anak usaha baru, PT Integrasi Sistem Digital, yang bergerak di peralatan listrik rumah tangga dan jasa laundry, di luar bisnis inti makanan bayi.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NAYZ",
+   "anak usaha",
+   "diversifikasi usaha",
+   "Hassana Boga Sejahtera"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e71606cf04_e8044def6d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smbr-teken-perjanjian-gabung-anak-usaha-bmu-merger",
+  "category": "Aksi Korporasi",
+  "title": "SMBR Teken Perjanjian Gabung Anak Usaha BMU [Merger]",
+  "deck": "SMBR menandatangani perjanjian bersyarat untuk melebur anak usahanya, BMU, ke dalam perusahaan induk sebagai bagian dari perampingan struktur menjelang integrasi dengan SIG.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMBR",
+   "merger",
+   "Semen Baturaja",
+   "BMU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9b3111a309_9976207f67.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "true-rugi-melebar-ke-rp28-2-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "TRUE: Rugi [Melebar] ke Rp28,2 Miliar di Kuartal III 2026",
+  "deck": "Rugi bersih Triniti Dinamik (TRUE) melebar 64 persen jadi Rp28,2 miliar dalam sembilan bulan 2026, sementara penjualan turun 42 persen.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "Properti",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102080318-65661-0/FinancialStatement-2026-III-TRUE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-laba-bersih-naik-tapi-laba-usaha-minus-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Laba Bersih Naik, tapi [Laba Usaha] Minus di Kuartal III",
+  "deck": "Pendapatan ITSEC Asia (CYBR) hampir stagnan pada sembilan bulan 2026, tapi margin kotor tergerus dan laba usaha berbalik rugi. Laba bersih tetap naik karena ditopang manfaat pajak besar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "laporan keuangan",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102075520-65551-0/FinancialStatement-2026-III-CYBR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pwon-laba-9-bulan-turun-16-jadi-rp1-78-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PWON: [Laba] 9 Bulan Turun 16% jadi Rp1,78 Triliun",
+  "deck": "Pakuwon Jati melaporkan laba bersih sembilan bulan 2026 turun 16 persen jadi Rp1,78 triliun, sementara arus kas operasi dan ekuitas justru naik.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PWON",
+   "laporan keuangan",
+   "properti",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102065554-65657-0/FinancialStatement-2026-III-PWON.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pege-optimus-vision-tambah-kepemilikan-saham-ke-6-39",
   "category": "Aksi Korporasi",
   "title": "PEGE: Optimus Vision Tambah [Kepemilikan] Saham ke 6,39%",
@@ -6371,121 +6483,5 @@ var ARTICLES = [
   "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
   "sourceUrl": "https://www.gaikindo.or.id/whole-sales-januari-september-2026-toyota-teratas-byd-masuk-lima-besar/",
   "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "penjualan-mobil-ri-byd-atto-1-nyaris-salip-gran-max",
-  "category": "Industri",
-  "title": "Penjualan Mobil RI: BYD Atto 1 [Nyaris] Salip Gran Max",
-  "deck": "BYD Atto 1 terjual 4.840 unit pada September 2026, tipis di bawah Daihatsu Gran Max yang memimpin lewat kendaraan niaga, sekaligus jadi mobil listrik terlaris.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penjualan-mobil-ri-byd-atto-1-nyaris-salip-gran-max.jpg",
-  "imageV": "mvpyb91t",
-  "tags": [
-   "GAIKINDO",
-   "penjualan mobil",
-   "mobil listrik",
-   "BYD Atto 1"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/20-model-mobil-terlaris-september-2026-atto-1-menempel-gran-max/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "buva-jelaskan-volatilitas-tegaskan-dilusi-rights-issue-203",
-  "category": "Aksi Korporasi",
-  "title": "BUVA Jelaskan Volatilitas, Tegaskan Dilusi [Rights Issue] 203%",
-  "deck": "BUVA menjawab permintaan BEI soal volatilitas transaksi dan menegaskan tidak ada info material baru, kecuali rights issue yang bisa menambah saham hingga 203 persen.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "rights issue",
-   "PMHMETD II",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3d3813f435_149ed8e2ff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "labs-laba-bersih-anjlok-40-kas-perusahaan-susut-tajam",
-  "category": "Aksi Korporasi",
-  "title": "LABS: Laba Bersih Anjlok 40%, Kas Perusahaan [Susut] Tajam",
-  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih LABS turun hampir 40 persen secara tahunan, sementara kas perusahaan menyusut dari Rp41,16 miliar menjadi Rp3,67 miliar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LABS",
-   "laporan keuangan",
-   "arus kas",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027054427-64794-0/FinancialStatement-2026-III-LABS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpro-rugi-menyempit-jadi-rp33-08-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "MPRO: Rugi [Menyempit] Jadi Rp33,08 Miliar di Kuartal III 2026",
-  "deck": "Pendapatan MPRO naik 45 persen dan rugi bersih menyempit jadi Rp33,08 miliar pada sembilan bulan pertama 2026, tapi arus kas operasi makin negatif dan utang jangka pendek bertambah.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPRO",
-   "laporan keuangan",
-   "properti",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027041013-64698-0/FinancialStatement-2026-III-MPRO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "71-000-rumah-subsidi-diakadkan-serentak-di-malang",
-  "category": "Bisnis",
-  "title": "71.000 Rumah Subsidi Diakadkan Serentak di [Malang]",
-  "deck": "Kementerian PKP menjadwalkan akad massal 71.000 rumah subsidi se-Indonesia dipusatkan di Malang pada Desember 2026, dengan undangan khusus untuk Presiden Prabowo Subianto.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/71-000-rumah-subsidi-diakadkan-serentak-di-malang.jpg",
-  "imageV": "mvpptvt7",
-  "tags": [
-   "rumah subsidi",
-   "FLPP",
-   "Malang",
-   "Kementerian PKP"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475132-menteri-maruarar-ungkap-71000-rumah-subsidi-siap-diakadkan-serentak-akhir-tahun-ini"
- },
- {
-  "slug": "mahasiswa-pelajar-tangerang-didorong-kembangkan-pangan-lokal",
-  "category": "Industri",
-  "title": "Mahasiswa-Pelajar Tangerang Didorong Kembangkan [Pangan] Lokal",
-  "deck": "Pemkab Tangerang, Swiss German University, dan Hokkaido University berkolaborasi riset pangan lokal, sekaligus melibatkan pelajar SMA dan mahasiswa lewat workshop dan pameran.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/mahasiswa-pelajar-tangerang-didorong-kembangkan-pangan-lokal.jpg",
-  "imageV": "mvpp31z4",
-  "tags": [
-   "Tangerang",
-   "Pangan",
-   "Pendidikan",
-   "Pertanian"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475131-mahasiswa-dan-pelajar-di-tangerang-didorong-ikut-kembangkan-sektor-pangan-dan-pertanian"
- },
- {
-  "slug": "ptpp-panggil-rups-sukuk-ajukan-penundaan-bagi-hasil-ke-2027",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Panggil RUPS Sukuk, Ajukan [Penundaan] Bagi Hasil ke 2027",
-  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Tahap II 2022 ke RUPSu 10 November 2026 untuk memutuskan penundaan atau pemotongan bagi hasil sampai jatuh tempo 2027, menyusul gagal bayar sebelumnya.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "sukuk",
-   "restrukturisasi utang",
-   "RUPSu"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/076342a0ef_d625849c1f.pdf",
-  "sourceLabel": "IDX"
  }
 ];

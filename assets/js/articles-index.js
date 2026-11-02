@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bike-koreksi-lagi-jawaban-bursa-akui-fbm-libatkan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Koreksi Lagi Jawaban Bursa, Akui FBM Libatkan [Direksi]",
+  "deck": "BIKE merevisi jawabannya ke BEI dan mengonfirmasi akuisisi FBM senilai Rp10,89 miliar melibatkan direksinya sendiri, sementara tiga akuisisi senilai total Rp21,85 miliar masih belum dibayar lunas.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "transaksi afiliasi",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0528c2519d_1861bb0e23.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "csmi-jelaskan-utang-rp25-miliar-ke-csm-kas-cuma-rp237-juta",
+  "category": "Aksi Korporasi",
+  "title": "CSMI jelaskan utang Rp25 miliar ke CSM, [kas] cuma Rp237 juta",
+  "deck": "CSMI menanggapi permintaan penjelasan Bursa soal rencana 2027, pinjaman Rp25 miliar dari pihak terkait, dan penutupan dua outlet NWS Chicken.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSMI",
+   "likuiditas",
+   "pinjaman pihak berelasi",
+   "outlet"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c540c26b07_52d3ce69f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "boss-jadwalkan-public-expose-suspensi-saham-masih-berlanjut",
   "category": "Aksi Korporasi",
   "title": "BOSS Jadwalkan Public Expose, [Suspensi] Saham Masih Berlanjut",
@@ -1050,6 +1082,54 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "wins-akuisisi-fos-kerek-aset-54-laba-naik-83",
+  "category": "Aksi Korporasi",
+  "title": "WINS: [Akuisisi] FOS Kerek Aset 54%, Laba Naik 83%",
+  "deck": "Akuisisi Fast Offshore Supply mendorong total aset WINS naik 54% dan liabilitas naik 249% pada kuartal III 2026, sementara laba bersih melonjak 83% dibanding tahun lalu.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINS",
+   "akuisisi",
+   "laporan keuangan",
+   "pelayaran lepas pantai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102170828-65685-0/FinancialStatement-2026-III-WINS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppi-bantah-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "LPPI bantah terlibat penyelidikan karhutla [Singapura]",
+  "deck": "LPPI menjawab permintaan BEI soal pemanggilan Singapura terkait karhutla, menegaskan bukan dirinya melainkan pemegang saham tidak langsungnya, APP Co Ltd, yang dipanggil.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI",
+   "karhutla",
+   "APP Co Ltd",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/84223d3682_d5c079a7bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-bukan-subjek-pemanggilan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "INKP: Bukan Subjek Pemanggilan [Karhutla] Singapura",
+  "deck": "INKP menjawab permintaan Bursa bahwa bukan Perseroan atau anak usahanya, melainkan pemegang saham tak langsung APP Co Ltd, yang dipanggil Pemerintah Singapura soal investigasi karhutla.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "karhutla",
+   "Singapura",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a586f88113_d4f027d7ce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bumi-perpanjang-target-akuisisi-laman-mining-ke-januari-2027",
   "category": "Aksi Korporasi",
   "title": "BUMI Perpanjang Target Akuisisi [Laman Mining] ke Januari 2027",
@@ -1082,6 +1162,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "atla-laba-bersih-anjlok-73-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Laba Bersih [Anjlok] 73% di Kuartal III 2026",
+  "deck": "Pendapatan PT Atlantis Subsea Indonesia turun 41,5 persen dan laba bersih anjlok ke Rp697,6 juta pada sembilan bulan 2026, kas perusahaan menyusut tajam.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATLA",
+   "laporan keuangan",
+   "kinerja emiten",
+   "sektor energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102170314-65620-0/FinancialStatement-2026-III-ATLA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "zp-sesuaikan-waran-tapg-usai-dividen-rp70-saham",
   "category": "Aksi Korporasi",
   "title": "ZP Sesuaikan Waran [TAPG] usai Dividen Rp70/Saham",
@@ -1095,6 +1191,22 @@ var ARTICLES = [
    "dividen interim"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f838a00c8a_d85aace92c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "brrc-laba-bersih-turun-58-persen-kas-tersisa-rp70-juta",
+  "category": "Aksi Korporasi",
+  "title": "BRRC: [Laba Bersih] Turun 58 Persen, Kas Tersisa Rp70 Juta",
+  "deck": "Laba bersih sembilan bulan PT Raja Roti Cemerlang turun hampir 58 persen dibanding tahun lalu, sementara kas perusahaan menyusut tajam menjadi hanya Rp70,5 juta per akhir September 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRRC",
+   "laporan keuangan",
+   "laba bersih",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102174843-65615-0/FinancialStatement-2026-III-BRRC.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6362,118 +6474,6 @@ var ARTICLES = [
    "perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028162451-65202-0/FinancialStatement-2026-III-ARTO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vins-laba-9-bulan-naik-55-arus-kas-operasi-justru-menyusut",
-  "category": "Aksi Korporasi",
-  "title": "VINS: Laba 9 Bulan Naik 55%, [Arus Kas] Operasi Justru Menyusut",
-  "deck": "Laba bersih PT Victoria Insurance naik ke Rp17,83 miliar pada kuartal III 2026, tapi kas dari operasi menyusut tajam dan nilai investasi obligasi tergerus kerugian belum terealisasi.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VINS",
-   "laporan keuangan",
-   "asuransi",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028161624-64649-0/FinancialStatement-2026-III-VINS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smsm-kantongi-dividen-rp2-98-miliar-dari-tokyo-radiator",
-  "category": "Aksi Korporasi",
-  "title": "SMSM Kantongi Dividen [Rp2,98 Miliar] dari Tokyo Radiator",
-  "deck": "Selamat Sempurna (SMSM) melaporkan pendapatan dividen Rp2,98 miliar dari entitas asosiasi PT Tokyo Radiator Selamat Sempurna pada 28 Oktober 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMSM",
-   "dividen",
-   "Selamat Sempurna",
-   "entitas asosiasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0853c4eebd_04e5a301a3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asii-laba-astra-turun-20-jadi-rp24-1-triliun-di-9-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "ASII: Laba Astra [Turun] 20% Jadi Rp24,1 Triliun di 9 Bulan 2026",
-  "deck": "Laba bersih Astra International turun 20,1 persen menjadi Rp24,07 triliun pada sembilan bulan pertama 2026, meski pendapatan nyaris stagnan di Rp243,87 triliun.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASII",
-   "Astra International",
-   "laba bersih",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028161458-64480-0/FinancialStatement-2026-III-ASII.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-eraa-melonjak-47-persen-jadi-rp1-25-triliun-di-9m-2026",
-  "category": "Aksi Korporasi",
-  "title": "Laba ERAA [Melonjak] 47 Persen Jadi Rp1,25 Triliun di 9M-2026",
-  "deck": "Erajaya Swasembada melaporkan laba bersih naik 47 persen dan pendapatan tumbuh 22 persen pada sembilan bulan 2026, sembari melunasi obligasi dan menambah saham treasuri.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "Erajaya Swasembada",
-   "laporan keuangan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028160926-64867-0/FinancialStatement-2026-III-ERAA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-sesuaikan-waran-jpfa-usai-dividen-interim-rp90-saham",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan [Waran] JPFA usai Dividen Interim Rp90/Saham",
-  "deck": "Maybank Sekuritas Indonesia (ZP) menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur JPFAZPCF7A menyusul dividen interim JPFA Rp90 per saham.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "JPFA",
-   "waran terstruktur",
-   "dividen interim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/72c1fc3af4_78abb556f9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-sesuaikan-waran-untr-usai-dividen-interim-rp430-saham",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan [Waran] UNTR usai Dividen Interim Rp430/Saham",
-  "deck": "Maybank Sekuritas (ZP) menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A karena UNTR membagi dividen interim Rp430 per saham.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "UNTR",
-   "waran terstruktur",
-   "dividen interim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/11d3a4895f_1d85afcf93.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtdl-laba-per-saham-turun-meski-pendapatan-naik-17-5",
-  "category": "Aksi Korporasi",
-  "title": "MTDL: Laba Per Saham Turun Meski Pendapatan Naik [17,5%]",
-  "deck": "Pendapatan Metrodata naik 17,5 persen dalam sembilan bulan 2026, tapi laba bersih untuk pemegang saham utama turun dan utang jangka pendek melonjak 230 persen untuk membiayai lonjakan persediaan.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTDL",
-   "laporan keuangan",
-   "arus kas",
-   "utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028155217-65129-0/FinancialStatement-2026-III-MTDL.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bike-koreksi-lagi-jawaban-bursa-akui-fbm-libatkan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Koreksi Lagi Jawaban Bursa, Akui FBM Libatkan [Direksi]",
+  "deck": "BIKE merevisi jawabannya ke BEI dan mengonfirmasi akuisisi FBM senilai Rp10,89 miliar melibatkan direksinya sendiri, sementara tiga akuisisi senilai total Rp21,85 miliar masih belum dibayar lunas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T05:41:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0528c2519d_1861bb0e23.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "transaksi afiliasi",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mengoreksi surat jawabannya kepada Bursa Efek Indonesia yang sebelumnya dikirim pada 2 November 2026. Surat revisi bernomor 2026/286R/XI/BIKE/MK yang terbit 3 November 2026 ini merespons permintaan penjelasan lanjutan dari BEI bernomor S-13601/BEI.PP3/10-2026 tertanggal 30 Oktober 2026, terkait tiga transaksi akuisisi perusahaan yang hingga kini belum dikonsolidasikan ke dalam laporan keuangan BIKE.",
+   "Dalam jawabannya, BIKE menjelaskan bahwa pembelian saham PT Mega Teknologi Investama (MTI) dari Vitria, untuk mengakuisisi secara tidak langsung PT Ratu Karya, bernilai Rp10,89 miliar dan efektif secara administrasi sejak 16 Juli 2026 berdasarkan akta notaris Meissie Pholuan. Nilai ini setara 16,62 persen dari total ekuitas konsolidasian BIKE yang tercatat Rp65,52 miliar, sehingga di bawah ambang 20 persen dan tidak masuk kategori Transaksi Material. Perseroan menegaskan Vitria bukan pihak terafiliasi. Pola serupa terjadi pada pembelian saham PT Fahreza Bumi Megah (FBM) senilai Rp10,89 miliar dari Nadila Syafira untuk mengakuisisi PT Prambanan Nusantara Energi, efektif sejak 15 Juli 2026 berdasarkan akta notaris Linda Lamora Harahap, dengan materialitas yang sama 16,62 persen. Bedanya, kali ini BIKE mengonfirmasi Nadila Syafira menjabat sebagai Direktur Perseroan, sehingga transaksi ini dikategorikan sebagai Transaksi Afiliasi yang harus mengikuti prosedur keterbukaan informasi pihak berelasi.",
+   "Transaksi ketiga adalah pembelian 72 dari 100 lembar saham, atau 72 persen kepemilikan, PT Berau Usaha Mandiri oleh anak usaha BIKE, PT Prambanan Nusantara Energi, dari empat pemegang saham lama yakni PT Anindhita Kaharya Anugrah, Bambang Nindianto, Joinerri Kahar, dan Muharna Deserian. Transaksi senilai Rp72 juta ini efektif sejak 7 Oktober 2026 di hadapan notaris Elvie Sahdalena, dengan materialitas hanya 0,11 persen dari ekuitas BIKE sehingga juga bukan Transaksi Material maupun Transaksi Afiliasi. Ketiga akuisisi, dengan total nilai Rp21,85 miliar, sama-sama belum dikonsolidasikan ke laporan keuangan BIKE karena pembayarannya belum direalisasikan. Perseroan beralasan dana berasal dari fasilitas pinjaman PT Penajam Makmur Jaya, pemegang saham pengendali BIKE, yang menurut perseroan sudah diteken secara notaris dan dananya sudah masuk ke rekening BIKE, namun masih menunggu kelengkapan dokumen penilaian dari KJPP dan pelaksanaan RUPSLB untuk merapikan administrasi."
+  ],
+  "fotoAdegan": "Aerial view of a dusty coal mine haul road in East Kalimantan with heavy trucks and excavators under overcast sky",
+  "takeaway": "Laporan koreksi ini condong negatif bagi BIKE, sebab untuk kedua kalinya dalam sepekan perseroan harus merevisi jawabannya ke bursa, dan kali ini mengonfirmasi bahwa transaksi FBM senilai Rp10,89 miliar justru melibatkan direksinya sendiri sebagai penjual, bukan pihak independen. Yang tersentuh adalah ekuitas dan utang perseroan: ketiga akuisisi ini bernilai gabungan Rp21,85 miliar, setara sepertiga dari ekuitas BIKE yang hanya Rp65,52 miliar, dan karena pembayarannya belum lunas, nilai itu tercatat sebagai utang yang menggantung sampai pinjaman dari pengendali PMJ benar-benar cair, bukan sebagai kas yang sudah berpindah tangan. Pemegang saham publik perlu tahu soal ekuitas karena itu modal bersih yang menjadi penyangga perusahaan kalau terjadi kerugian, dan utang yang menumpuk tanpa kepastian pencairan dana menambah risiko likuiditas perusahaan. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB yang disebut perseroan sendiri sebagai syarat merapikan administrasi pinjaman PMJ, serta apakah BEI akan melayangkan permintaan penjelasan lanjutan lagi mengingat ini sudah surat koreksi kedua soal transaksi yang sama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "csmi-jelaskan-utang-rp25-miliar-ke-csm-kas-cuma-rp237-juta",
+  "category": "Aksi Korporasi",
+  "title": "CSMI jelaskan utang Rp25 miliar ke CSM, [kas] cuma Rp237 juta",
+  "deck": "CSMI menanggapi permintaan penjelasan Bursa soal rencana 2027, pinjaman Rp25 miliar dari pihak terkait, dan penutupan dua outlet NWS Chicken.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T04:49:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c540c26b07_52d3ce69f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSMI",
+  "tags": [
+   "CSMI",
+   "likuiditas",
+   "pinjaman pihak berelasi",
+   "outlet"
+  ],
+  "body": [
+   "PT Cipta Selera Murni Tbk. (CSMI) menyampaikan tanggapan tertulis atas permintaan penjelasan Bursa Efek Indonesia nomor S-13517/BEI.PP2/10-2026 tertanggal 29 Oktober 2026. Surat itu menindaklanjuti dengar pendapat sebelumnya di mana manajemen menyebut adanya rencana strategis untuk tahun 2027. Direktur Utama Radino Miharjo menjelaskan bahwa fokus 2027 adalah mengoptimalkan outlet NWS Chicken yang sudah berjalan, menekan biaya, dan hanya membuka outlet baru secara selektif sesuai kemampuan dana, bukan ekspansi besar-besaran.",
+   "Bagian paling krusial dari tanggapan ini menyangkut pinjaman Rp25 miliar dari PT Cipta Swadaya Murni (CSM), pihak terkait perusahaan. Pinjaman ini diikat dalam Perjanjian Pinjaman No. 001/CSM/PK/DIR/VII/2018 tertanggal 4 Juli 2018, untuk modal kerja dan penyelesaian restoran, dengan bunga 0 persen dan awalnya tanpa tanggal jatuh tempo pasti, karena pelunasan baru dilakukan ketika kas perusahaan longgar. CSMI kini menetapkan target pelunasan pada akhir 2027, padahal kas dan setara kas per 30 Juni 2026 hanya Rp237 juta. Perusahaan mengaku strategi pelunasannya bertumpu pada akumulasi kas operasional dan opsi pendanaan ulang, serta berencana membahas skema penjadwalan ulang atau pembayaran bertahap dengan CSM sebelum akhir 2027 jika dana belum cukup.",
+   "Soal jaringan outlet, CSMI merinci empat outlet yang masih beroperasi, yaitu Pondok Kopi di Jakarta Timur yang dibuka November 2023, Galaxy di Bekasi yang dibuka Desember 2025, Tambun yang dibuka Oktober 2025, dan Pekanbaru yang beroperasi sejak Agustus 2023 namun akan berpindah lokasi karena Mall Ciputra Pekanbaru, tempatnya berada, dijadwalkan tutup pada 2026. Perusahaan juga mengonfirmasi dua outlet yang sudah ditutup, yaitu outlet Cirebon yang hanya beroperasi April hingga Juni 2025 karena penjualan tidak cukup menutup biaya operasional, dan outlet Manado yang beroperasi dari kuartal pertama 2023 hingga Desember 2023, ditutup karena lokasinya terlalu jauh dari pusat pengelolaan sehingga menyulitkan pengawasan tenaga kerja dan standar operasional."
+  ],
+  "fotoAdegan": "Kitchen staff frying chicken pieces at a modest fast food stall counter, stainless steel equipment, warm morning light",
+  "takeaway": "Laporan ini condong negatif karena kas perusahaan per 30 Juni 2026 hanya Rp237 juta, jauh dari cukup untuk melunasi pinjaman Rp25 miliar yang ditargetkan tuntas akhir 2027, sementara perusahaan sendiri mengakui pendanaan tambahan belum di tangan. Yang tersentuh di sini adalah arus kas, yakni uang tunai yang benar-benar tersedia untuk operasional dan bayar utang, bukan sekadar laba di atas kertas, dan ini penting karena pinjaman berasal dari pihak terkait, PT Cipta Swadaya Murni, sehingga negosiasi ulang jika terlambat bayar berpotensi menimbulkan benturan kepentingan. Riwayat dua outlet yang ditutup, Cirebon dan Manado, menambah catatan bahwa sebagian ekspansi sebelumnya belum berhasil, meski manajemen kini mengarahkan strategi 2027 ke efisiensi ketimbang buka outlet baru secara agresif. Yang perlu dipantau berikutnya adalah pembahasan skema pelunasan dengan CSM yang dijadwalkan sebelum akhir 2027, apakah berujung penjadwalan ulang, pembayaran bertahap, atau pendanaan baru, karena dari hasil itu akan terlihat apakah perusahaan punya jalan keluar nyata atau sekadar menunda masalah likuiditasnya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "boss-jadwalkan-public-expose-suspensi-saham-masih-berlanjut",
   "category": "Aksi Korporasi",
   "title": "BOSS Jadwalkan Public Expose, [Suspensi] Saham Masih Berlanjut",
@@ -1716,6 +1768,84 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "wins-akuisisi-fos-kerek-aset-54-laba-naik-83",
+  "category": "Aksi Korporasi",
+  "title": "WINS: [Akuisisi] FOS Kerek Aset 54%, Laba Naik 83%",
+  "deck": "Akuisisi Fast Offshore Supply mendorong total aset WINS naik 54% dan liabilitas naik 249% pada kuartal III 2026, sementara laba bersih melonjak 83% dibanding tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:57:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102170828-65685-0/FinancialStatement-2026-III-WINS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINS",
+  "tags": [
+   "WINS",
+   "akuisisi",
+   "laporan keuangan",
+   "pelayaran lepas pantai"
+  ],
+  "body": [
+   "PT Wintermar Offshore Marine Tbk (WINS) menyampaikan koreksi atas laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan naik menjadi US$75,99 juta dari US$58,47 juta pada periode yang sama tahun sebelumnya. Laba periode berjalan melonjak menjadi US$26,44 juta dari US$14,41 juta, dengan bagian yang dapat diatribusikan kepada pemilik entitas induk naik dari US$9,23 juta menjadi US$17,71 juta. Laba per saham dasar tercatat 0,391 sen dolar AS, naik dari 0,207 sen dolar AS pada September 2025.",
+   "Dalam surat penjelasan kepada Otoritas Jasa Keuangan tertanggal 30 Oktober 2026, Direktur WINS Janto Lili menjelaskan bahwa total aset perusahaan melonjak 54 persen menjadi US$429,74 juta dari US$279,83 juta pada akhir 2025. Kenaikan ini terutama berasal dari akuisisi perusahaan pelayaran lepas pantai Fast Offshore Supply (FOS), yang menambah aset tetap berupa kapal dan perlengkapan senilai US$83,3 juta, ditambah belanja aset tetap kelompok usaha sepanjang Januari hingga September 2026 senilai US$51,4 juta. Di sisi liabilitas, total utang perusahaan naik 249 persen menjadi US$191,87 juta dari US$54,97 juta, didorong oleh pendapatan diterima di muka atas pembangunan kapal di FOS senilai US$57,4 juta dan penambahan pinjaman bank kelompok usaha senilai US$71,8 juta.",
+   "Total ekuitas WINS naik menjadi US$237,87 juta dari US$224,86 juta, dengan kas dan setara kas bertambah menjadi US$48,36 juta dari US$43,68 juta. Jumlah saham beredar bertambah menjadi 4.523.065.893 saham dari 4.460.988.262 saham akibat pembagian dividen saham. Dalam laporan arus kas, kegiatan operasi menghasilkan kas bersih US$33,80 juta, sedangkan kegiatan investasi menyedot kas bersih US$111,79 juta akibat tambahan penyertaan pada entitas anak senilai US$33 juta dan perolehan aset tetap senilai US$64,70 juta, yang ditutup dengan penerimaan pinjaman bank baru senilai US$71,88 juta dari kegiatan pendanaan. Koreksi laporan ini juga memperbarui daftar entitas anak yang dikonsolidasikan, termasuk entitas baru di bawah grup FOS seperti FOS Shipyard Pte Ltd dan FOS Management Services Pte Ltd yang kini dikuasai penuh oleh WINS."
+  ],
+  "fotoAdegan": "Offshore supply vessel docked alongside a shipyard crane, stacked cargo containers nearby, overcast daylight at an Indonesian port",
+  "takeaway": "Laporan ini condong positif bagi WINS karena pendapatan naik sekitar 30 persen dan laba bersih melonjak 83 persen pada sembilan bulan pertama 2026, didorong ekspansi armada lewat akuisisi FOS. Yang perlu dicermati adalah kenaikan liabilitas 249 persen, sebagian dari pinjaman bank baru US$71,8 juta yang menaikkan beban bunga, yaitu biaya yang harus dibayar perusahaan atas utangnya, dari US$1,6 juta menjadi US$2,3 juta, sehingga rasio utang terhadap modal sendiri (ekuitas) naik dari sekitar 0,24 kali menjadi 0,81 kali; arus kas dari kegiatan investasi pun negatif US$111,8 juta karena belanja kapal dan penyertaan di anak usaha, membuat kas perusahaan sempat berkurang US$22,7 juta sebelum disokong kas anak usaha baru yang masuk konsolidasi. Yang perlu dipantau berikutnya adalah realisasi pembangunan kapal senilai US$57,4 juta yang sudah dibayar di muka oleh pelanggan FOS, serta kelanjutan tren rasio utang ini pada laporan kuartal IV 2026 mendatang.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "lppi-bantah-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "LPPI bantah terlibat penyelidikan karhutla [Singapura]",
+  "deck": "LPPI menjawab permintaan BEI soal pemanggilan Singapura terkait karhutla, menegaskan bukan dirinya melainkan pemegang saham tidak langsungnya, APP Co Ltd, yang dipanggil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:56:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/84223d3682_d5c079a7bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "karhutla",
+   "APP Co Ltd",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Lontar Papyrus Pulp & Paper Industry (LPPI) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan lanjutan BEI bernomor S-13507/BEI.PP2/10-2026 tertanggal 29 Oktober 2026. Surat itu terkait pemberitaan soal pemanggilan dan pertemuan Pemerintah Singapura dengan pimpinan sejumlah grup usaha perkebunan dan agribisnis pada 28 Oktober 2026, dalam rangka penyelidikan kebakaran hutan dan lahan (karhutla). Tanggapan ditandatangani Direktur LPPI, Kosim Sutiono, dan disampaikan pada 2 November 2026, sesuai tenggat dua hari bursa yang diminta BEI berdasarkan Peraturan I-E.",
+   "Dalam jawabannya, LPPI menegaskan bahwa dirinya maupun entitas anaknya tidak menjadi subjek pembahasan, permintaan informasi, pemanggilan, maupun penelusuran fakta oleh Pemerintah Singapura sebagaimana dimaksud dalam pemberitaan. Yang dipanggil, menurut LPPI, adalah Asia Pulp & Paper Company Ltd (APP Co Ltd), pemegang saham tidak langsung LPPI yang memiliki kepemilikan 0,04 persen di PT APP Purinusa Ekapersada, pemegang saham pengendali LPPI. LPPI menyebut APP Co Ltd sebagai badan hukum terpisah sehingga tidak punya kewenangan maupun informasi memadai untuk menjelaskan proses yang melibatkan entitas itu, termasuk soal arahan, temuan, atau hasil pemeriksaan otoritas Singapura terhadap APP Co Ltd.",
+   "LPPI juga merespons soal rencana Pemerintah Singapura mengamendemen Transboundary Haze Pollution Act agar ketidakkooperatifan perusahaan dalam penyelidikan bisa dipidana. Perseroan menyatakan belum mengidentifikasi dampak material dari rencana amendemen itu maupun dari pemanggilan terhadap APP Co Ltd, sehingga tidak ada langkah mitigasi khusus yang disiapkan saat ini. LPPI juga menegaskan tidak ada kewajiban kontinjensi, provisi, atau informasi material lain yang perlu diungkapkan dalam laporan keuangan maupun keterbukaan informasi terkait isu karhutla ini, sembari menyatakan terus memantau perkembangan regulasi yang relevan."
+  ],
+  "fotoAdegan": "A logging truck loaded with timber driving down a dirt road through a vast pulpwood plantation under a hazy sky",
+  "takeaway": "Laporan ini netral bagi LPPI: perusahaan membantah terlibat langsung, dan pihak yang dipanggil otoritas Singapura, APP Co Ltd, hanya memegang 0,04 persen saham di pengendali LPPI, sehingga rantai kepemilikannya tipis dan tidak mengubah hak suara atau struktur pengendalian LPPI. Yang disentuh di sini adalah potensi kewajiban kontinjensi, yaitu kewajiban yang baru benar-benar muncul kalau tuduhan hukum atau denda terbukti di kemudian hari, dan LPPI menyatakan belum ada yang perlu diakui dalam laporan keuangannya saat ini. Perlu diingat ini adalah klaim sepihak LPPI yang belum diverifikasi otoritas manapun, jadi risiko reputasi dari keterkaitan dengan grup Sinar Mas belum sepenuhnya hilang. Yang perlu dipantau selanjutnya adalah apakah penyelidikan Pemerintah Singapura meluas hingga menyentuh LPPI atau anak usahanya secara langsung, dan bagaimana nasib rencana amendemen Transboundary Haze Pollution Act yang bisa menambah risiko hukum bagi perusahaan terafiliasi jika disahkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inkp-bukan-subjek-pemanggilan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "INKP: Bukan Subjek Pemanggilan [Karhutla] Singapura",
+  "deck": "INKP menjawab permintaan Bursa bahwa bukan Perseroan atau anak usahanya, melainkan pemegang saham tak langsung APP Co Ltd, yang dipanggil Pemerintah Singapura soal investigasi karhutla.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:55:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a586f88113_d4f027d7ce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "karhutla",
+   "Singapura",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia melalui surat No. 072/CRP/IK/XI/2026 tertanggal 2 November 2026, yang ditandatangani Corporate Secretary Heri Santoso. Surat ini merupakan balasan atas permintaan penjelasan lanjutan dari BEI No. S-13504/BEI.PP2/10-2026 tertanggal 29 Oktober 2026, yang muncul setelah ada pemberitaan tentang pemanggilan dan pertemuan antara Pemerintah Singapura dengan pimpinan sejumlah grup usaha perkebunan dan agribisnis, termasuk grup yang terafiliasi dengan INKP, pada 28 Oktober 2026 terkait penyelidikan kebakaran hutan dan lahan (karhutla).",
+   "Dalam tanggapannya, INKP menegaskan bahwa Perseroan maupun seluruh entitas anaknya tidak menjadi subjek pembahasan, permintaan informasi, pemanggilan, atau penelusuran fakta oleh Pemerintah Singapura. Yang dipanggil dalam proses tersebut adalah Asia Pulp & Paper Company Ltd (APP Co Ltd), pemegang saham tidak langsung INKP yang memiliki 0,04 persen saham di PT APP Purinusa Ekapersada, pemegang saham pengendali INKP. Karena APP Co Ltd berstatus badan hukum terpisah, INKP menyatakan tidak memiliki kewenangan maupun informasi memadai untuk menjelaskan lebih jauh proses yang dijalani entitas itu. INKP juga menyebut tidak menerima temuan, teguran, atau hasil pemeriksaan apa pun dari otoritas Singapura maupun instansi terkait, dan tidak mengidentifikasi risiko material terhadap hubungan dengan pelanggan, pemasok, kreditur, atau investor akibat isu ini.",
+   "Soal rencana Pemerintah Singapura mengamendemen Transboundary Haze Pollution Act agar ketidakkooperatifan perusahaan dalam penyelidikan bisa dikenai pidana, INKP menyatakan belum mengidentifikasi dampak material terhadap kegiatan usaha, aspek hukum, maupun hubungan dengan pembeli, dan akan terus memantau perkembangan aturan tersebut. Perseroan juga menegaskan tidak ada kewajiban kontinjensi, provisi, atau informasi material lain yang perlu diakui dalam laporan keuangan maupun diungkapkan ke publik sehubungan dengan isu karhutla ini."
+  ],
+  "fotoAdegan": "Rows of young pulpwood plantation trees under a hazy grey sky, a worker checking seedlings near a dirt access road",
+  "takeaway": "Laporan ini netral bagi INKP. Pokok soal yang diungkap adalah pemanggilan otoritas Singapura terhadap APP Co Ltd, pemegang saham tak langsung yang porsinya hanya 0,04 persen di PT APP Purinusa Ekapersada selaku pengendali INKP, bukan terhadap Perseroan atau anak usahanya, dan perusahaan menegaskan tidak ada temuan, teguran, maupun kewajiban kontinjensi (utang yang baru berlaku kalau suatu kejadian di masa depan benar terjadi) yang perlu diakui dalam laporan keuangan. Karena itu belum ada pos kinerja INKP yang tersentuh, baik ekuitas, arus kas, maupun jumlah saham beredar, sebab perusahaan menyatakan belum ada dampak material dari isu ini sampai tanggal tanggapan dibuat. Yang perlu dipantau selanjutnya adalah perkembangan penyelidikan Pemerintah Singapura terhadap APP Co Ltd dan nasib rencana amendemen Transboundary Haze Pollution Act yang bisa menjadikan ketidakkooperatifan perusahaan sebagai tindak pidana, sebab tekanan terhadap grup usaha pengendali berpotensi ikut mempengaruhi reputasi INKP meski keduanya berbeda badan hukum.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bumi-perpanjang-target-akuisisi-laman-mining-ke-januari-2027",
   "category": "Aksi Korporasi",
   "title": "BUMI Perpanjang Target Akuisisi [Laman Mining] ke Januari 2027",
@@ -1769,6 +1899,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "atla-laba-bersih-anjlok-73-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Laba Bersih [Anjlok] 73% di Kuartal III 2026",
+  "deck": "Pendapatan PT Atlantis Subsea Indonesia turun 41,5 persen dan laba bersih anjlok ke Rp697,6 juta pada sembilan bulan 2026, kas perusahaan menyusut tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:51:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102170314-65620-0/FinancialStatement-2026-III-ATLA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATLA",
+  "tags": [
+   "ATLA",
+   "laporan keuangan",
+   "kinerja emiten",
+   "sektor energi"
+  ],
+  "body": [
+   "PT Atlantis Subsea Indonesia Tbk (ATLA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan, sesuai kewajiban pelaporan berkala emiten. Dalam laporan yang ditandatangani Direktur Keuangan Andreas Setiawan itu, perusahaan survei dan jasa teknik untuk perusahaan energi ini mencatat pendapatan Rp37,12 miliar sepanjang sembilan bulan pertama 2026, turun 41,5 persen dibandingkan Rp63,40 miliar pada periode yang sama tahun lalu. Setelah beban pokok pendapatan dan beban umum serta administrasi yang ikut turun menjadi Rp7,03 miliar, laba usaha tergerus dari Rp3,49 miliar menjadi Rp1,38 miliar. Laba bersih tahun berjalan turun dari Rp2,60 miliar menjadi Rp697,6 juta, membuat laba per saham ikut turun dari Rp0,42 menjadi Rp0,11.",
+   "Dari sisi neraca, total aset perusahaan turun tipis dari Rp174,73 miliar pada akhir 2025 menjadi Rp172,03 miliar per 30 September 2026. Penurunan paling mencolok ada pada kas dan setara kas, yang anjlok dari Rp14,57 miliar menjadi Rp2,78 miliar, berkurang Rp11,79 miliar hanya dalam sembilan bulan. Di sisi lain, pos uang muka lancar lainnya justru naik dari Rp43,13 miliar menjadi Rp57,58 miliar, sementara total liabilitas jangka pendek turun tajam dari Rp5,00 miliar menjadi Rp759,1 juta seiring pelunasan utang usaha pihak ketiga dari Rp2,75 miliar menjadi Rp279,4 juta. Selama periode berjalan, perseroan juga membagikan dividen tunai Rp3,5 miliar kepada pemegang saham, sehingga ekuitas tercatat Rp166,23 miliar per akhir September 2026.",
+   "Perusahaan yang bergerak di bidang survei bawah laut dan jasa teknik untuk industri energi ini tercatat memiliki 30 karyawan tetap per 30 September 2026, bertambah dari 26 orang pada periode yang sama tahun sebelumnya. Dalam catatan atas laporan keuangan disebutkan pemilik manfaat akhir (ultimate beneficial owner) perusahaan adalah Rudi Reksa Sutantra."
+  ],
+  "fotoAdegan": "Technicians in work vests inspecting underwater survey cables and winches on a vessel deck at an Indonesian harbor, overcast morning light.",
+  "takeaway": "Laporan ini condong negatif bagi ATLA, sebab pendapatan turun 41,5 persen dan laba bersih anjlok 73 persen dibandingkan sembilan bulan pertama 2025, sementara kas perusahaan menyusut hampir Rp12 miliar hanya dalam sembilan bulan. Penurunan laba langsung menekan laba per saham dari Rp0,42 menjadi Rp0,11, yaitu ukuran keuntungan yang didapat pemegang saham dari setiap lembar saham yang mereka pegang, sehingga daya hasil perusahaan di mata investor mengecil. Kas yang menipis juga berarti ruang gerak perusahaan untuk membiayai operasional sehari-hari atau belanja modal baru tanpa menambah utang jadi lebih sempit, apalagi perseroan masih sempat membagikan dividen Rp3,5 miliar di tengah penurunan kinerja ini. Yang perlu dipantau selanjutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, karena angka pada laporan interim ini belum diaudit dan bisa berubah, sekaligus jadi penentu apakah pelemahan pendapatan di kuartal III berlanjut atau mulai membaik.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "zp-sesuaikan-waran-tapg-usai-dividen-rp70-saham",
   "category": "Aksi Korporasi",
   "title": "ZP Sesuaikan Waran [TAPG] usai Dividen Rp70/Saham",
@@ -1793,6 +1949,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of oil palm fruit bunches stacked at a rural plantation loading dock, trucks waiting, tropical morning light",
   "takeaway": "Laporan ini netral bagi TAPG maupun Maybank Sekuritas, karena penyesuaian harga pelaksanaan dan rasio konversi murni konsekuensi rumus baku yang sudah disepakati sejak waran ini diterbitkan, bukan keputusan baru yang mencerminkan sikap manajemen terhadap bisnis TAPG. Yang tersentuh bukan laporan keuangan TAPG, melainkan nilai waran terstruktur itu sendiri, yaitu instrumen yang memberi pemegangnya hak menebus saham TAPG di harga dan rasio tertentu, sehingga penyesuaian ini memastikan hak itu tidak otomatis berkurang nilainya hanya karena harga saham turun akibat dividen. Yang perlu dipantau adalah dua tanggal efektif yang disebut dokumen ini, 11 November 2026 untuk pasar reguler dan negosiasi serta 13 November 2026 untuk pasar tunai, dan apakah Maybank Sekuritas benar menerapkan rumus tersebut karena dokumen membuka kemungkinan penerbit memutuskan tidak melakukan penyesuaian sama sekali.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "brrc-laba-bersih-turun-58-persen-kas-tersisa-rp70-juta",
+  "category": "Aksi Korporasi",
+  "title": "BRRC: [Laba Bersih] Turun 58 Persen, Kas Tersisa Rp70 Juta",
+  "deck": "Laba bersih sembilan bulan PT Raja Roti Cemerlang turun hampir 58 persen dibanding tahun lalu, sementara kas perusahaan menyusut tajam menjadi hanya Rp70,5 juta per akhir September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:44:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102174843-65615-0/FinancialStatement-2026-III-BRRC.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRRC",
+  "tags": [
+   "BRRC",
+   "laporan keuangan",
+   "laba bersih",
+   "arus kas"
+  ],
+  "body": [
+   "PT Raja Roti Cemerlang Tbk (BRRC) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan tercatat Rp80,20 miliar, turun dari Rp83,71 miliar pada periode yang sama tahun lalu. Beban pokok penjualan justru naik dari Rp67,35 miliar menjadi Rp73,43 miliar, sehingga laba bruto ambruk dari Rp16,36 miliar menjadi Rp6,77 miliar. Laba usaha hanya turun tipis dari Rp2,98 miliar menjadi Rp2,49 miliar karena tertolong oleh penghasilan usaha lain-lain yang melonjak dari Rp1,08 miliar menjadi Rp7,04 miliar. Pada akhirnya laba bersih periode berjalan turun dari Rp1,10 miliar menjadi Rp464,6 juta, dan laba per saham dasar turun dari Rp1,14 menjadi Rp0,47.",
+   "Posisi kas perusahaan menyusut tajam. Kas dan setara kas di akhir September 2026 hanya tersisa Rp70,54 juta, turun dari Rp7,90 miliar pada akhir Desember 2025, atau berkurang Rp7,83 miliar sepanjang sembilan bulan. Arus kas dari aktivitas operasi masih negatif Rp3,98 miliar, meski defisitnya mengecil dibanding negatif Rp39,29 miliar pada periode yang sama tahun lalu. Perusahaan mengeluarkan Rp17,13 miliar untuk membeli aset tetap, namun menerima Rp12,95 miliar dari penjualan aset tetap, sehingga arus kas investasi tercatat negatif Rp7,62 miliar. Dari aktivitas pendanaan, perusahaan memperoleh Rp4,84 miliar dari konversi waran dan Rp3,88 miliar dari transaksi pembiayaan sale and leaseback, dikurangi pembayaran utang pembiayaan konsumen Rp4,45 miliar serta pembayaran utang bank dan sewa lainnya.",
+   "Dari sisi permodalan, jumlah saham yang ditempatkan dan disetor penuh bertambah dari 971.536.826 lembar menjadi 994.603.036 lembar, atau tambahan 23.066.210 lembar saham baru hasil konversi waran, yang menambah ekuitas Rp4,84 miliar. Penambahan modal ini tercatat dalam akta notaris tertanggal 19 September 2026 yang telah diterima dan dicatat Kementerian Hukum dan Hak Asasi Manusia. Total ekuitas perusahaan naik dari Rp79,73 miliar menjadi Rp85,04 miliar, sementara total liabilitas justru turun dari Rp43,76 miliar menjadi Rp41,68 miliar."
+  ],
+  "fotoAdegan": "Workers inspecting trays of breadcrumbs on a conveyor belt inside an industrial bakery factory, fluorescent lighting overhead",
+  "takeaway": "Laporan ini condong negatif bagi BRRC karena mesin bisnis utamanya melemah, laba bruto ambruk 58 persen dan laba bersih ikut tergerus hampir 58 persen, sementara kenaikan laba usaha hanya tertolong oleh pos pendapatan lain-lain yang melonjak, bukan dari penjualan roti itu sendiri. Yang paling layak dicermati adalah arus kas, yakni uang tunai yang benar-benar masuk dan keluar dari kas perusahaan: BRRC masih mencatat arus kas negatif dari kegiatan operasional sehari-hari, dan kas yang tersisa di kantong perusahaan tinggal Rp70,5 juta, sangat tipis dibanding Rp7,9 miliar di akhir tahun lalu. Laba per saham, yaitu bagian laba bersih yang secara teoritis jadi hak tiap lembar saham, ikut turun dari Rp1,14 menjadi Rp0,47 karena laba yang mengecil dibagi ke jumlah saham yang justru bertambah lewat konversi waran. Investor perlu menunggu laporan keuangan tahunan 2026 yang sudah diaudit untuk memastikan apakah tren pelemahan laba dan penipisan kas ini berlanjut atau hanya tekanan musiman kuartal ketiga, sekaligus mencermati apakah posisi kas yang kini amat tipis bisa terisi kembali pada kuartal berikutnya.",
+  "sentimen": "negatif"
  },
  {
   "slug": "true-dan-swat-masuk-pemantauan-khusus-bei-per-3-november",

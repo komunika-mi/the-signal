@@ -5,6 +5,214 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bumi-perpanjang-target-akuisisi-laman-mining-ke-januari-2027",
+  "category": "Aksi Korporasi",
+  "title": "BUMI Perpanjang Target Akuisisi [Laman Mining] ke Januari 2027",
+  "deck": "Bumi Resources mengundur realisasi dana Rp333,6 miliar untuk akuisisi PT Laman Mining dari 30 Oktober 2026 menjadi 31 Januari 2027 karena sejumlah syarat transaksi belum terpenuhi.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUMI",
+   "Bumi Resources",
+   "akuisisi tambang",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a82a03e877_b4131aa916.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tkim-bantah-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "TKIM Bantah Terlibat Penyelidikan [Karhutla] Singapura",
+  "deck": "TKIM menjawab permintaan penjelasan BEI soal pemanggilan Pemerintah Singapura ke grup agribisnis terkait karhutla, menegaskan perseroan tak jadi subjek pemeriksaan.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TKIM",
+   "karhutla",
+   "Singapura",
+   "APP Co Ltd"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4680f505a5_37a81d0042.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-tapg-usai-dividen-rp70-saham",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Waran [TAPG] usai Dividen Rp70/Saham",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur TAPGZPCH7A menyusul dividen interim TAPG Rp70 per saham, efektif 11 November 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "TAPG",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f838a00c8a_d85aace92c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "true-dan-swat-masuk-pemantauan-khusus-bei-per-3-november",
+  "category": "Aksi Korporasi",
+  "title": "TRUE dan SWAT Masuk [Pemantauan Khusus] BEI per 3 November",
+  "deck": "Bursa Efek Indonesia menempatkan saham TRUE dan SWAT ke papan pemantauan khusus mulai 3 November 2026, masing-masing karena pendapatan mandek dan ekuitas negatif.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "SWAT",
+   "BEI",
+   "pemantauan khusus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9080cbb6d9_c97f4238bf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pidl-bantah-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Bantah Terlibat Penyelidikan [Karhutla] Singapura",
+  "deck": "PIDL menegaskan tidak jadi subjek penyelidikan karhutla Singapura, yang menyasar APP Co Ltd, pemegang saham tak langsung dengan 0,04% saham di pengendali Perseroan.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIDL",
+   "karhutla",
+   "Singapura",
+   "pulp dan paper"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b65f59a000_de029f703a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mrat-laba-bersih-melonjak-15-kali-di-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "MRAT: Laba Bersih [Melonjak] 15 Kali di 9 Bulan 2026",
+  "deck": "Penjualan Mustika Ratu naik 68 persen dan laba bersih melonjak jadi Rp6,45 miliar pada sembilan bulan 2026, tapi arus kas operasi turun dan utang bank jangka pendek bertambah.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MRAT",
+   "Mustika Ratu",
+   "laporan keuangan",
+   "kosmetik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102165016-65460-0/FinancialStatement-2026-III-MRAT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "msin-kas-anjlok-81-arus-kas-operasi-negatif-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "MSIN: Kas Anjlok 81%, [Arus Kas] Operasi Negatif Kuartal III",
+  "deck": "Laporan keuangan interim kuartal III 2026 MSIN menunjukkan kas turun dari Rp689 miliar jadi Rp129 miliar, sementara arus kas dari operasi berbalik jadi negatif Rp156 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSIN",
+   "laporan keuangan",
+   "arus kas",
+   "MNC Digital Entertainment"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102164209-65328-0/FinancialStatement-2026-III-MSIN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "futr-catat-rugi-bersih-rp7-75-miliar-pendapatan-susut-64",
+  "category": "Aksi Korporasi",
+  "title": "FUTR Catat [Rugi] Bersih Rp7,75 Miliar, Pendapatan Susut 64%",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan Futura Energi Global berbalik rugi Rp7,75 miliar setelah pendapatannya turun 64 persen dibanding periode sama tahun lalu.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FUTR",
+   "laporan keuangan",
+   "rugi bersih",
+   "kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102164424-65663-0/FinancialStatement-2026-III-FUTR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-waran-terstruktur-tapg-disesuaikan-usai-dividen-rp70",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran Terstruktur TAPG Disesuaikan Usai [Dividen] Rp70",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan Waran Terstruktur TAPG menyusul rencana dividen tunai Rp1,39 triliun dari Triputra Agro Persada.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "TAPG",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/30314c53e4_b06dd68374.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-rhb-sesuaikan-waran-terstruktur-medc-ikuti-dividen",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Sesuaikan Waran Terstruktur [MEDC] Ikuti Dividen",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur MEDC menyusul dividen tunai US$30 juta yang dibayar 2 Desember 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "MEDC",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b51c60fb03_c16e5d4d25.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mncn-laba-bersih-anjlok-48-jadi-rp385-miliar-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "MNCN: Laba Bersih [Anjlok] 48% Jadi Rp385 Miliar di 9M26",
+  "deck": "Laporan keuangan interim MNCN per September 2026 menunjukkan pendapatan turun 16,7 persen dan laba bersih tergerus hampir separuh dibanding periode sama tahun lalu.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MNCN",
+   "laporan keuangan",
+   "media",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102164218-64941-0/FinancialStatement-2026-III-MNCN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptsp-catat-laba-naik-14-jelang-public-expose-3-november",
+  "category": "Aksi Korporasi",
+  "title": "PTSP Catat Laba Naik 14% Jelang [Public Expose] 3 November",
+  "deck": "Pioneerindo Gourmet International (PTSP) merilis materi public expose insidentil berisi kinerja keuangan September 2026 dan rencana bisnis 2026 menjelang paparan publik.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTSP",
+   "Pioneerindo Gourmet",
+   "Public Expose",
+   "CFC Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/12c65ef24b_fe53158fbe.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "defi-rugi-melonjak-jadi-rp21-4-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "DEFI: Rugi [Melonjak] Jadi Rp21,4 Miliar di Kuartal III 2026",
+  "deck": "Rugi bersih Danasupra Erapacific melonjak hampir lima kali lipat dalam sembilan bulan 2026, sementara ekuitas dan laba ditahan ikut tergerus.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEFI",
+   "laporan keuangan",
+   "rugi bersih",
+   "holding company"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162838-64451-0/FinancialStatement-2026-III-DEFI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tfco-gelar-public-expose-usai-saham-sentuh-ara-3-hari",
   "category": "Aksi Korporasi",
   "title": "TFCO Gelar Public Expose Usai Saham Sentuh [ARA] 3 Hari",
@@ -6270,214 +6478,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/992593f2b7_d6a76dcc36.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inta-catat-defisiensi-modal-rp2-17-triliun-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "INTA Catat [Defisiensi Modal] Rp2,17 Triliun di Kuartal III 2026",
-  "deck": "Ekuitas Intraco Penta kian negatif menjadi Rp2,17 triliun per September 2026, pendapatan turun 11 persen, dan rugi untuk pemegang saham induk justru membesar dari tahun lalu.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INTA",
-   "Intraco Penta",
-   "defisiensi modal",
-   "laporan keuangan kuartalan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027155941-64669-0/FinancialStatement-2026-III-INTA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impc-laba-naik-39-borong-saham-treasuri-rp451-66-miliar",
-  "category": "Aksi Korporasi",
-  "title": "IMPC Laba Naik 39%, Borong [Saham Treasuri] Rp451,66 Miliar",
-  "deck": "Pendapatan dan laba bersih Impack Pratama Industri tumbuh dua digit pada sembilan bulan pertama 2026, sementara perseroan membeli kembali sahamnya sendiri senilai Rp451,66 miliar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMPC",
-   "laporan keuangan",
-   "laba bersih",
-   "saham treasuri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027155415-65161-0/FinancialStatement-2026-III-IMPC.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xcid-bagikan-dividen-tunai-rp601-6-juta-ke-pemegang-unit",
-  "category": "Aksi Korporasi",
-  "title": "XCID Bagikan [Dividen] Tunai Rp601,6 Juta ke Pemegang Unit",
-  "deck": "DIRE Ciptadana Properti Ritel Indonesia (XCID) menjadwalkan dividen tunai final hingga Rp0,1504 per unit penyertaan, dibayar 20 November 2026.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XCID",
-   "dividen",
-   "DIRE",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/bf8dc68bbe_3a52c3e430.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wirg-rombak-total-direksi-anak-usaha-horeca-akar-mimpi",
-  "category": "Aksi Korporasi",
-  "title": "WIRG Rombak Total [Direksi] Anak Usaha Horeca Akar Mimpi",
-  "deck": "PT WIR ASIA Tbk mengganti seluruh komisaris dan direksi anak usahanya, PT Horeca Akar Mimpi, efektif 14 Oktober 2026.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIRG",
-   "Horeca Akar Mimpi",
-   "direksi",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/96bdd90b74_c531fbd9ae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bina-jadwalkan-pelaksanaan-pmthmetd-3-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "BINA Jadwalkan Pelaksanaan [PMTHMETD] 3 November 2026",
-  "deck": "Bank Ina Perdana akan menerbitkan hingga 80 juta saham baru tanpa hak memesan efek terlebih dahulu pada 3 November 2026, mengacu keputusan RUPS Independen Juni 2026.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BINA",
-   "PMTHMETD",
-   "Bank Ina Perdana",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2924462aed_9d41ecd6fa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fuji-total-kewajiban-turun-47-laba-kuartal-iii-susut",
-  "category": "Aksi Korporasi",
-  "title": "FUJI: Total Kewajiban [Turun] 47%, Laba Kuartal III Susut",
-  "deck": "Total kewajiban FUJI turun hampir separuh dalam sembilan bulan 2026, tapi pendapatan dari pembiayaan konsumen anjlok dan laba bersih ikut tergerus 23 persen dibanding tahun lalu.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FUJI",
-   "laporan keuangan",
-   "pembiayaan konsumen",
-   "kewajiban"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027145201-64591-0/FinancialStatement-2026-III-FUJI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bukk-tanggapi-bursa-pemegang-saham-fokus-penuhi-free-float",
-  "category": "Aksi Korporasi",
-  "title": "BUKK Tanggapi Bursa, Pemegang Saham Fokus Penuhi [Free Float]",
-  "deck": "BUKK menjawab permintaan penjelasan BEI atas volatilitas sahamnya, menegaskan tak ada aksi korporasi dekat ini dan pemegang saham utama fokus memenuhi syarat free float.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUKK",
-   "volatilitas saham",
-   "free float",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2c16ea3994_2e00e08120.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-aset-naik-212-usai-akuisisi-blok-madura-laba-dobel",
-  "category": "Aksi Korporasi",
-  "title": "RATU: Aset Naik [212%] Usai Akuisisi Blok Madura, Laba Dobel",
-  "deck": "Akuisisi 20 persen saham di Blok Madura mendorong aset RATU melonjak 212 persen dan laba sembilan bulan naik hampir dua kali lipat, dibiayai obligasi, sukuk, dan pinjaman bank baru.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "akuisisi",
-   "migas",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027144752-64789-0/FinancialStatement-2026-III-RATU.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnmp-tegaskan-direksi-baru-usai-lolos-uji-kepatutan-ojk",
-  "category": "Aksi Korporasi",
-  "title": "PNMP Tegaskan Direksi Baru Usai Lolos [Uji Kepatutan] OJK",
-  "deck": "PT Permodalan Nasional Madani (PNMP) menyampaikan akta penegasan RUPS yang mengukuhkan direktur utama dan komisaris baru usai lolos uji kepatutan OJK.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNMP",
-   "Permodalan Nasional Madani",
-   "RUPS",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/98ffe836a5_0b8bad15a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kaii-tawarkan-obligasi-dan-sukuk-ijarah-rp1-1-triliun",
-  "category": "Aksi Korporasi",
-  "title": "KAII Tawarkan [Obligasi] dan Sukuk Ijarah Rp1,1 Triliun",
-  "deck": "KAI menerbitkan obligasi dan sukuk ijarah tahap I senilai total Rp1,1 triliun untuk pemodal profesional, bagian dari program Rp4,1 triliun, dengan rating AAA dari Pefindo.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KAII",
-   "obligasi",
-   "sukuk ijarah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6fe517c3db_5a20405aec.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-jadwalkan-rupslb-3-desember-dps-10-november",
-  "category": "Aksi Korporasi",
-  "title": "RLCO Jadwalkan [RUPSLB] 3 Desember, DPS 10 November",
-  "deck": "RLCO akan menggelar Rapat Umum Pemegang Saham Luar Biasa pada 3 Desember 2026, dengan pencatatan pemegang saham pada 10 November 2026.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "RUPSLB",
-   "pasar modal",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/71c9b893b2_14b711959e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-bantah-info-material-soal-lonjakan-saham-gelar-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "RLCO Bantah Info Material soal Lonjakan Saham, Gelar [RUPSLB]",
-  "deck": "RLCO menjawab permintaan penjelasan Bursa atas lonjakan harga dan transaksi sahamnya pada 22 Oktober 2026, sambil mengonfirmasi RUPSLB 3 Desember untuk ganti direksi dan sesuaikan KBLI.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "RUPSLB",
-   "volatilitas saham",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/9e6994069d_90aa00b484.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ipcm-laba-bersih-turun-33-jadi-rp94-1-miliar-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "IPCM: Laba Bersih [Turun] 33% Jadi Rp94,1 Miliar Kuartal III",
-  "deck": "Laba bersih Jasa Armada Indonesia turun 33 persen menjadi Rp94,1 miliar dalam sembilan bulan 2026, tertekan kenaikan beban pokok pendapatan yang lebih cepat dari penjualan.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPCM",
-   "laba bersih",
-   "laporan keuangan",
-   "Pelindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027135055-64986-0/FinancialStatement-2026-III-IPCM.pdf",
   "sourceLabel": "IDX"
  }
 ];

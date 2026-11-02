@@ -3,6 +3,345 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bumi-perpanjang-target-akuisisi-laman-mining-ke-januari-2027",
+  "category": "Aksi Korporasi",
+  "title": "BUMI Perpanjang Target Akuisisi [Laman Mining] ke Januari 2027",
+  "deck": "Bumi Resources mengundur realisasi dana Rp333,6 miliar untuk akuisisi PT Laman Mining dari 30 Oktober 2026 menjadi 31 Januari 2027 karena sejumlah syarat transaksi belum terpenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:54:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a82a03e877_b4131aa916.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUMI",
+  "tags": [
+   "BUMI",
+   "Bumi Resources",
+   "akuisisi tambang",
+   "obligasi"
+  ],
+  "body": [
+   "PT Bumi Resources Tbk (BUMI) melaporkan perubahan target waktu realisasi penggunaan dana hasil Penawaran Umum Berkelanjutan Obligasi Berkelanjutan I BUMI Tahap III yang diterbitkan 11 Desember 2025. Dana sebesar Rp333,6 miliar yang dialokasikan untuk biaya akuisisi PT Laman Mining (LM), semula ditargetkan cair pada 30 Oktober 2026, kini diundur menjadi 31 Januari 2027.",
+   "Menurut keterbukaan informasi yang diteken Direktur BUMI, Ara Sri Dharmayanti, penyelesaian akuisisi LM bergantung pada terpenuhinya sejumlah persyaratan pendahuluan. Karena belum semua syarat itu terpenuhi hingga batas akhir yang ditetapkan sebelumnya pada 30 Oktober 2026, BUMI selaku pembeli dan PT Supreme Global Investment selaku penjual sepakat memperpanjang batas akhir pemenuhan syarat tersebut sampai dengan 31 Januari 2027. Akibatnya, target waktu penggunaan dana obligasi untuk akuisisi ini ikut bergeser ke tanggal yang sama.",
+   "Dalam suratnya, BUMI menyatakan penyesuaian target waktu ini tidak memberikan dampak negatif material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Perusahaan menyebut pelaporan ini sebagai bentuk kepatuhan terhadap Pasal 12 ayat (2) POJK No. 40/2025 tentang Penggunaan Dana Hasil Penawaran Umum, dan tembusan surat disampaikan kepada wali amanat obligasi, PT Bank Rakyat Indonesia (Persero) Tbk."
+  ],
+  "fotoAdegan": "Heavy excavator loading coal onto trucks at an open-pit mine in Kalimantan, dusty haze, overcast morning light",
+  "takeaway": "Laporan ini netral bagi BUMI: penundaan bukan pembatalan, dan perseroan sendiri menegaskan tidak ada dampak negatif material terhadap operasionalnya. Yang tersentuh di sini adalah rencana belanja dari dana obligasi, karena duit hasil penerbitan surat utang itu belum bisa dipakai untuk menambah aset tambang baru lewat akuisisi Laman Mining, sehingga manfaat dari akuisisi itu pada kinerja perusahaan juga ikut mundur. Molornya proses biasanya terjadi karena ada klausul dalam perjanjian jual beli yang belum semua dipenuhi oleh salah satu atau kedua pihak, bukan berarti transaksinya batal. Yang perlu dipantau pembaca adalah batas waktu baru pada 31 Januari 2027, karena jika syarat-syarat itu masih belum terpenuhi sampai tanggal tersebut, publik perlu melihat apakah BUMI dan Supreme Global Investment memperpanjang lagi kesepakatan atau justru akuisisi ini batal.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tkim-bantah-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "TKIM Bantah Terlibat Penyelidikan [Karhutla] Singapura",
+  "deck": "TKIM menjawab permintaan penjelasan BEI soal pemanggilan Pemerintah Singapura ke grup agribisnis terkait karhutla, menegaskan perseroan tak jadi subjek pemeriksaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:54:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4680f505a5_37a81d0042.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TKIM",
+  "tags": [
+   "TKIM",
+   "karhutla",
+   "Singapura",
+   "APP Co Ltd"
+  ],
+  "body": [
+   "Pabrik Kertas Tjiwi Kimia Tbk (TKIM) mengirim surat tanggapan bernomor 039/CRP/TK/XI/2026 pada 2 November 2026, ditandatangani Direktur Agustian R Partawidjaja, sebagai jawaban atas surat Bursa Efek Indonesia No. S-13505/BEI.PP2/10-2026 tertanggal 29 Oktober 2026. Surat BEI itu muncul setelah ada pemberitaan bahwa Pemerintah Singapura memanggil pimpinan sejumlah grup usaha perkebunan dan agribisnis, termasuk grup yang terafiliasi dengan TKIM, pada 28 Oktober 2026 terkait penyelidikan kebakaran hutan dan lahan atau karhutla.",
+   "Dalam jawabannya, TKIM menegaskan bahwa perseroan dan seluruh entitas anaknya tidak menjadi subjek pembahasan, permintaan informasi, pemanggilan, maupun penelusuran fakta oleh Pemerintah Singapura. Perseroan mengakui bahwa yang dipanggil adalah Asia Pulp & Paper Company Ltd (APP Co Ltd), pemegang saham tidak langsung TKIM yang memiliki kepemilikan 0,04 persen di PT APP Purinusa Ekapersada, yakni pemegang saham pengendali TKIM. Karena APP Co Ltd berstatus badan hukum terpisah, TKIM menyatakan tidak punya kewenangan maupun informasi memadai untuk menjelaskan lebih jauh proses yang dihadapi entitas tersebut.",
+   "Untuk enam rincian yang diminta Bursa, TKIM menjawab tidak ada arahan atau permintaan data dari induk usaha, tidak ada evaluasi khusus yang dilakukan karena perseroan bukan subjek penyelidikan, tidak ada temuan atau teguran resmi yang diterima, serta tidak teridentifikasi risiko material terhadap hubungan dengan pelanggan, pemasok, kreditur, atau investor. Soal rencana Singapura mengamendemen Transboundary Haze Pollution Act agar ketidakkooperatifan perusahaan dalam penyelidikan menjadi tindak pidana, TKIM menyatakan belum melihat dampak material terhadap operasional maupun aspek hukumnya, dan hanya akan terus memantau perkembangan aturan tersebut.",
+   "Menjawab poin terakhir soal kewajiban keuangan, TKIM menyatakan tidak ada kewajiban kontinjensi, provisi, atau informasi material lain yang perlu diakui maupun diungkapkan dalam laporan keuangan maupun keterbukaan informasi terkait isu karhutla ini, karena perseroan dan entitas anaknya tidak menjadi subjek pemanggilan atau penyelidikan yang dimaksud dalam pemberitaan."
+  ],
+  "fotoAdegan": "Haze drifting low over a tropical peat forest edge near a pulp tree plantation, muted hazy light, no people visible",
+  "takeaway": "Penjelasan ini netral bagi TKIM karena perseroan menegaskan dirinya dan seluruh entitas anaknya bukan pihak yang dipanggil atau diperiksa Pemerintah Singapura, sehingga tidak ada dampak finansial langsung yang harus diungkap saat ini. Yang tersentuh di sini adalah kewajiban kontinjensi, yaitu potensi beban atau tuntutan yang baru akan muncul kalau suatu peristiwa hukum benar-benar terjadi, dan TKIM menyatakan belum perlu mencatat provisi apa pun karena belum ada temuan atau teguran resmi soal karhutla. Pasar tetap perlu mencermati bahwa APP Co Ltd, pemegang saham tidak langsung TKIM yang punya 0,04 persen saham di PT APP Purinusa Ekapersada selaku pengendali TKIM, tetap berstatus dipanggil otoritas Singapura, sehingga risiko reputasi di tingkat grup usaha belum sepenuhnya hilang meski TKIM sendiri mengklaim tidak terdampak. Yang perlu dipantau berikutnya adalah perkembangan rencana amendemen Transboundary Haze Pollution Act di Singapura yang bisa menjadikan ketidakkooperatifan perusahaan sebagai tindak pidana, serta apakah Bursa akan meminta penjelasan lanjutan jika proses hukum terhadap APP Co Ltd atau grup afiliasi TKIM berkembang lebih jauh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-tapg-usai-dividen-rp70-saham",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Waran [TAPG] usai Dividen Rp70/Saham",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur TAPGZPCH7A menyusul dividen interim TAPG Rp70 per saham, efektif 11 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:51:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f838a00c8a_d85aace92c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "TAPG",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, selaku penerbit waran terstruktur TAPGZPCH7A, mengumumkan penyesuaian syarat dan ketentuan waran tersebut menyusul rencana PT Triputra Agro Persada Tbk (TAPG) membagikan dividen interim tahun buku 2026 sebesar Rp70 per saham. Pengumuman dividen TAPG itu sendiri disampaikan pada 2 November 2026, dan karena pembagian dividen membuat harga saham TAPG turun sebesar nilai dividen pada tanggal pencatatan, syarat waran harus diubah agar nilainya tidak ikut tergerus begitu saja.",
+   "Penyesuaian ini mengikuti rumus baku yang sudah diatur sejak penerbitan waran, tertulis di Bagian 3.8 Prospektus TAPGZPCH7A tertanggal 11 April 2025. Harga pelaksanaan baru dihitung dengan mengalikan harga pelaksanaan lama dengan selisih antara harga perdagangan terakhir TAPG pada cum-date dan nilai dividen Rp70, dibagi harga perdagangan terakhir itu. Rasio konversi baru dihitung dengan rumus serupa terhadap rasio konversi lama. Penyesuaian berlaku efektif 11 November 2026 untuk transaksi di pasar reguler dan negosiasi, serta 13 November 2026 untuk pasar tunai.",
+   "Dokumen juga mencantumkan klausul bahwa Maybank Sekuritas sebagai penerbit berhak, atas kebijakannya sendiri dan tanpa kewajiban apa pun kepada pemegang waran, memutuskan tidak melakukan penyesuaian sama sekali apabila dianggap tidak tepat."
+  ],
+  "fotoAdegan": "Rows of oil palm fruit bunches stacked at a rural plantation loading dock, trucks waiting, tropical morning light",
+  "takeaway": "Laporan ini netral bagi TAPG maupun Maybank Sekuritas, karena penyesuaian harga pelaksanaan dan rasio konversi murni konsekuensi rumus baku yang sudah disepakati sejak waran ini diterbitkan, bukan keputusan baru yang mencerminkan sikap manajemen terhadap bisnis TAPG. Yang tersentuh bukan laporan keuangan TAPG, melainkan nilai waran terstruktur itu sendiri, yaitu instrumen yang memberi pemegangnya hak menebus saham TAPG di harga dan rasio tertentu, sehingga penyesuaian ini memastikan hak itu tidak otomatis berkurang nilainya hanya karena harga saham turun akibat dividen. Yang perlu dipantau adalah dua tanggal efektif yang disebut dokumen ini, 11 November 2026 untuk pasar reguler dan negosiasi serta 13 November 2026 untuk pasar tunai, dan apakah Maybank Sekuritas benar menerapkan rumus tersebut karena dokumen membuka kemungkinan penerbit memutuskan tidak melakukan penyesuaian sama sekali.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "true-dan-swat-masuk-pemantauan-khusus-bei-per-3-november",
+  "category": "Aksi Korporasi",
+  "title": "TRUE dan SWAT Masuk [Pemantauan Khusus] BEI per 3 November",
+  "deck": "Bursa Efek Indonesia menempatkan saham TRUE dan SWAT ke papan pemantauan khusus mulai 3 November 2026, masing-masing karena pendapatan mandek dan ekuitas negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:44:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9080cbb6d9_c97f4238bf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "TRUE",
+   "SWAT",
+   "BEI",
+   "pemantauan khusus"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi memasukkan dua saham, TRUE milik PT Triniti Dinamik Tbk dan SWAT milik PT Sriwahana Adityakarta Tbk, ke dalam papan pemantauan khusus melalui pengumuman No. Peng-PK-00074/BEI.PLP/11-2026. Papan ini berisi daftar saham yang diawasi lebih ketat oleh Bursa karena kondisi keuangan atau kinerjanya dianggap berisiko tinggi bagi investor, dan biasanya diikuti dengan perubahan mekanisme perdagangan agar harganya tidak mudah bergerak liar. Perubahan status kedua saham ini berlaku efektif sejak 3 November 2026, dan keduanya tercatat sebagai 'Masuk' ke daftar, bukan keluar dari daftar tersebut.",
+   "TRUE, yang tercatat di papan pengembangan, masuk daftar karena memenuhi kriteria nomor 3 dalam aturan Bursa, yaitu tidak membukukan pendapatan atau tidak ada perubahan pendapatan pada laporan keuangan terakhir dibandingkan dengan laporan keuangan sebelumnya. Status saham dengan hak suara multipel milik TRUE tercatat 'Tidak', artinya perusahaan ini tidak menerapkan skema saham dengan hak suara berbeda.",
+   "SWAT, yang juga tercatat di papan pengembangan, masuk daftar karena memenuhi kriteria nomor 5, yaitu memiliki ekuitas negatif pada laporan keuangan terakhirnya. Ekuitas negatif berarti total utang perusahaan sudah lebih besar daripada total hartanya. Bursa menyebut pengumuman lengkap soal daftar efek dalam pemantauan khusus ini dapat dilihat di situs resmi idx.co.id."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower reflecting a cloudy sky in a busy Jakarta financial district, pedestrians at street level",
+  "takeaway": "Ini sinyal negatif bagi kedua emiten, karena masuknya ke papan pemantauan khusus langsung dipicu oleh kondisi fundamental yang lemah, bukan hal teknis semata. Yang tersentuh pada TRUE adalah pendapatan, yakni hasil penjualan yang tercatat nihil atau tidak bertumbuh dari periode sebelumnya, sementara pada SWAT adalah ekuitas, yaitu selisih antara total harta dan total utang perusahaan yang sudah berbalik menjadi negatif, tanda utangnya melampaui asetnya. Pelaku pasar memperhatikan dua pos ini karena keduanya mencerminkan kemampuan perusahaan menghasilkan uang dan menahan beban utang, dua hal yang menentukan kelangsungan usaha ke depan. Yang perlu dipantau berikutnya adalah laporan keuangan periode mendatang dari TRUE dan SWAT, untuk melihat apakah pendapatan dan ekuitas mereka membaik setelah status pemantauan khusus ini berlaku efektif pada 3 November 2026. Investor juga perlu mencermati kemungkinan perubahan mekanisme perdagangan saham yang biasanya menyertai status ini, yang dapat membuat saham lebih sulit diperjualbelikan seperti biasa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pidl-bantah-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "PIDL Bantah Terlibat Penyelidikan [Karhutla] Singapura",
+  "deck": "PIDL menegaskan tidak jadi subjek penyelidikan karhutla Singapura, yang menyasar APP Co Ltd, pemegang saham tak langsung dengan 0,04% saham di pengendali Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:38:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b65f59a000_de029f703a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIDL",
+  "tags": [
+   "PIDL",
+   "karhutla",
+   "Singapura",
+   "pulp dan paper"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia meminta penjelasan kepada PT Pindo Deli Pulp And Paper Mills (PIDL) menyusul pemberitaan tentang pemanggilan dan pertemuan antara Pemerintah Singapura dengan pimpinan sejumlah grup usaha perkebunan dan agribisnis, termasuk grup yang terafiliasi dengan PIDL, pada 28 Oktober 2026 terkait penyelidikan kebakaran hutan dan lahan atau karhutla. Lewat surat bernomor 023/CRP./PD/XI/2026 tertanggal 2 November 2026, Direktur PIDL Kosim Sutiono menjawab surat permintaan penjelasan lanjutan BEI Nomor S-13506/BEI.PP2/10-2026 tertanggal 29 Oktober 2026.",
+   "PIDL menegaskan bahwa perusahaan dan seluruh entitas anaknya tidak menjadi subjek pembahasan, permintaan informasi, pemanggilan, maupun penelusuran fakta oleh Pemerintah Singapura sebagaimana dimaksud dalam pemberitaan. Yang dipanggil adalah Asia Pulp & Paper Company Ltd (APP Co Ltd), pemegang saham tidak langsung PIDL yang memiliki 0,04 persen saham di PT APP Purinusa Ekapersada, pemegang saham pengendali PIDL. Karena APP Co Ltd berstatus badan hukum terpisah, PIDL menyatakan tidak memiliki kewenangan maupun informasi memadai untuk menjelaskan proses yang dijalani entitas tersebut, termasuk arahan, temuan, atau hasil pemeriksaan apa pun yang mungkin diterima APP Co Ltd.",
+   "Soal risiko ke depan, PIDL menyatakan belum mengidentifikasi dampak material terhadap kegiatan usaha, aspek hukum, kondisi keuangan, maupun hubungan dengan pelanggan, pemasok, kreditur, atau investor akibat pemanggilan tersebut. Ini termasuk terhadap rencana Pemerintah Singapura mengamendemen Transboundary Haze Pollution Act yang akan menjadikan ketidakkooperatifan perusahaan dalam penyelidikan sebagai tindak pidana. Perusahaan juga menyatakan tidak ada kewajiban kontinjensi, provisi, atau informasi material lain yang perlu diungkapkan sehubungan isu ini, dan diwajibkan menyampaikan tanggapan ke BEI melalui sistem IDXnet paling lambat dua hari bursa setelah permintaan penjelasan diterima."
+  ],
+  "fotoAdegan": "Haze drifting low over a tropical plantation with distant mill smokestacks under an overcast grey sky, no people visible",
+  "takeaway": "Laporan ini netral bagi PIDL karena isinya murni bantahan dan penegasan tidak ada dampak material, tanpa satu pun angka keuangan yang berubah dari posisi perusahaan sebelumnya. Tidak ada pos kinerja seperti ekuitas, arus kas, atau beban bunga yang tersentuh di sini, karena memang tidak ada transaksi atau kewajiban baru yang diungkapkan, hanya penjelasan status hukum perusahaan di tengah isu yang menyeret grup usahanya. Yang perlu dicermati pelaku pasar adalah risiko reputasi yang menempel pada grup pengendali PIDL, sebab penyelidikan karhutla di Singapura menyasar Asia Pulp & Paper Company Ltd, pemilik saham tidak langsung di pengendali Perseroan, dan isu lingkungan semacam ini bisa memengaruhi hubungan dagang dengan pembeli yang sensitif terhadap standar keberlanjutan meski PIDL sendiri belum melihat dampak langsung. Yang perlu dipantau berikutnya adalah perkembangan rencana amendemen Transboundary Haze Pollution Act di parlemen Singapura serta kemungkinan BEI meminta penjelasan tambahan jika proses hukum terhadap APP Co Ltd berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mrat-laba-bersih-melonjak-15-kali-di-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "MRAT: Laba Bersih [Melonjak] 15 Kali di 9 Bulan 2026",
+  "deck": "Penjualan Mustika Ratu naik 68 persen dan laba bersih melonjak jadi Rp6,45 miliar pada sembilan bulan 2026, tapi arus kas operasi turun dan utang bank jangka pendek bertambah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:37:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102165016-65460-0/FinancialStatement-2026-III-MRAT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MRAT",
+  "tags": [
+   "MRAT",
+   "Mustika Ratu",
+   "laporan keuangan",
+   "kosmetik"
+  ],
+  "body": [
+   "PT Mustika Ratu Tbk (MRAT) membukukan penjualan bersih Rp436,31 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik dari Rp259,16 miliar pada periode yang sama tahun sebelumnya. Setelah dikurangi beban pokok penjualan, beban penjualan, dan beban umum serta administrasi, laba usaha tercatat Rp17,05 miliar, naik dari Rp7,61 miliar. Laba bersih tahun berjalan melonjak menjadi Rp6,45 miliar dari Rp425,47 juta pada periode yang sama tahun 2025, dengan Rp7,43 miliar dari jumlah itu menjadi bagian pemegang saham induk perusahaan. Kepentingan non-pengendali, yaitu bagian laba atau rugi milik pemegang saham minoritas di anak usaha, justru mencatat rugi Rp975,9 juta, melebar dari rugi Rp7,5 juta pada periode sebelumnya. Laba per saham dasar naik dari Rp0,99 menjadi Rp15,08.",
+   "Dari sisi posisi keuangan, total aset Mustika Ratu per 30 September 2026 tercatat Rp892,64 miliar, naik dari Rp878,78 miliar pada akhir 2025. Total ekuitas naik tipis menjadi Rp638,04 miliar dari Rp631,65 miliar, sementara total liabilitas bertambah menjadi Rp254,60 miliar dari Rp247,13 miliar. Kenaikan liabilitas ini antara lain didorong utang bank jangka pendek yang naik dari Rp106,51 miliar menjadi Rp115,49 miliar, dan utang usaha kepada pemasok pihak ketiga yang melonjak dari Rp17,80 miliar menjadi Rp31,81 miliar. Kas dan setara kas perusahaan hampir tidak berubah, dari Rp175,04 miliar menjadi Rp174,65 miliar.",
+   "Arus kas bersih dari aktivitas operasi turun menjadi Rp6,45 miliar dari Rp9,87 miliar pada periode yang sama tahun lalu, meski laba yang dilaporkan lebih tinggi, karena sebagian dana tertahan dalam bentuk persediaan dan piutang usaha yang bertambah. Perseroan juga mencatat penambahan anak usaha baru, PT Mustika Ratu SUGI, yang berdiri sejak 2025 dengan kepemilikan saham 51 persen dan nilai aset Rp57,76 miliar, bergerak di bidang distribusi dan perdagangan."
+  ],
+  "fotoAdegan": "Workers in white coats inspecting glass cosmetic bottles on a factory conveyor belt under bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi Mustika Ratu, karena penjualan sembilan bulan tumbuh 68 persen dan laba bersih melesat dari Rp425 juta menjadi Rp6,45 miliar, jauh melampaui kenaikan biaya produksi. Kenaikan ini langsung mendongkrak laba per saham, yaitu bagian laba yang secara hitungan jadi milik setiap satu lembar saham investor, dari Rp0,99 menjadi Rp15,08. Yang perlu dicermati, uang kas yang benar-benar masuk dari kegiatan usaha sehari-hari justru turun 35 persen jadi Rp6,45 miliar, karena persediaan dan utang ke pemasok membengkak, sementara utang bank jangka pendek naik 8 persen menjadi Rp115,49 miliar, tanda sebagian pertumbuhan ini ditopang utang, bukan kas tunai. Yang layak dipantau berikutnya adalah laporan keuangan tahunan teraudit yang akan menggantikan laporan interim tidak diaudit ini, serta apakah kenaikan utang bank jangka pendek dan utang usaha berlanjut di kuartal penutup tahun 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "msin-kas-anjlok-81-arus-kas-operasi-negatif-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "MSIN: Kas Anjlok 81%, [Arus Kas] Operasi Negatif Kuartal III",
+  "deck": "Laporan keuangan interim kuartal III 2026 MSIN menunjukkan kas turun dari Rp689 miliar jadi Rp129 miliar, sementara arus kas dari operasi berbalik jadi negatif Rp156 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:32:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102164209-65328-0/FinancialStatement-2026-III-MSIN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSIN",
+  "tags": [
+   "MSIN",
+   "laporan keuangan",
+   "arus kas",
+   "MNC Digital Entertainment"
+  ],
+  "body": [
+   "PT MNC Digital Entertainment Tbk (MSIN) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan pada 30 Oktober 2026. Surat pernyataan direksi ditandatangani oleh Direktur Utama Angela Herliani Tanoesoedibjo dan Direktur Rudy Hidayat, yang menyatakan laporan ini sudah lengkap dan benar. Pendapatan perusahaan tercatat Rp2,66 triliun, hanya naik tipis dari Rp2,64 triliun pada periode yang sama tahun lalu. Laba bersih yang menjadi hak pemegang saham induk Rp306,1 miliar, hampir sama dengan Rp306 miliar setahun sebelumnya, sehingga laba per saham tetap di Rp5,04.",
+   "Yang berubah signifikan ada di laporan arus kas. Kas yang dihasilkan dari kegiatan operasional sehari hari justru negatif Rp156,2 miliar pada sembilan bulan ini, berbalik dari positif Rp285,8 miliar pada periode yang sama tahun lalu. Perusahaan juga membelanjakan Rp389,6 miliar untuk aktivitas investasi, termasuk Rp223,2 miliar untuk aset tak berwujud dan Rp147,7 miliar untuk aset konten, sementara dari aktivitas pendanaan kas yang keluar Rp14,2 miliar untuk membayar utang bank, jauh berbeda dari tahun lalu yang masih menerima pinjaman bank baru Rp100 miliar dan suntikan modal Rp50 miliar dari pemegang saham anak usaha. Akibatnya, kas dan setara kas MSIN merosot dari Rp689,1 miliar pada akhir 2025 menjadi Rp129,2 miliar pada akhir September 2026.",
+   "Di sisi aset, piutang usaha dari pihak ketiga melonjak dari Rp284,6 miliar menjadi Rp588,3 miliar, sementara piutang dari pihak berelasi turun dari Rp1,14 triliun menjadi Rp942,8 miliar. Total aset perusahaan naik jadi Rp8,63 triliun dari Rp8,43 triliun, dan total ekuitas naik jadi Rp7,08 triliun dari Rp6,85 triliun, ditopang saldo laba yang belum ditentukan penggunaannya yang bertambah jadi Rp2,84 triliun. Total liabilitas justru sedikit menurun menjadi Rp1,55 triliun dari Rp1,58 triliun, dengan sisa utang bank jangka panjang Rp251,6 miliar dan utang bank jatuh tempo dalam satu tahun Rp8,3 miliar."
+  ],
+  "fotoAdegan": "Television production crew adjusting camera and lighting equipment on a studio soundstage, cables across the floor, warm stage lights",
+  "takeaway": "Laporan ini condong negatif bagi MSIN, karena arus kas dari aktivitas operasi berbalik menjadi negatif Rp156 miliar pada sembilan bulan ini dari positif Rp286 miliar setahun sebelumnya, padahal penjualan dan laba inti perusahaan nyaris tidak bergerak. Arus kas operasi berbeda dari laba di atas kertas, ia menunjukkan apakah bisnis sehari hari benar benar menghasilkan uang tunai atau malah menyedotnya, dan kalau negatif perusahaan harus mengandalkan kas cadangan atau pinjaman untuk menutup operasinya, yang terlihat dari kas MSIN yang susut dari Rp689 miliar jadi Rp129 miliar dalam sembilan bulan. Piutang usaha dari pelanggan pihak ketiga, bukan dari perusahaan terafiliasi, juga naik dua kali lipat menjadi Rp588 miliar, sinyal perusahaan makin lambat menagih uang dari pelanggan di luar grup MNC. Ekuitas pemegang saham tetap naik jadi Rp7,08 triliun dan laba per saham bertahan di Rp5,04, jadi fundamental belum merosot, tapi tekanan di kas patut dicermati. Yang perlu dipantau berikutnya adalah apakah rencana penerbitan saham baru di bursa Hong Kong yang sudah diungkap MSIN tetap berjalan di tengah kas yang menipis, serta apakah arus kas operasi kembali positif pada laporan tahunan auditan yang terbit setelah tutup buku 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "futr-catat-rugi-bersih-rp7-75-miliar-pendapatan-susut-64",
+  "category": "Aksi Korporasi",
+  "title": "FUTR Catat [Rugi] Bersih Rp7,75 Miliar, Pendapatan Susut 64%",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan Futura Energi Global berbalik rugi Rp7,75 miliar setelah pendapatannya turun 64 persen dibanding periode sama tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:31:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102164424-65663-0/FinancialStatement-2026-III-FUTR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FUTR",
+  "tags": [
+   "FUTR",
+   "laporan keuangan",
+   "rugi bersih",
+   "kuartal III 2026"
+  ],
+  "body": [
+   "PT Futura Energi Global Tbk (FUTR) melaporkan rugi bersih Rp7,75 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari laba Rp3,70 miliar pada periode yang sama tahun sebelumnya. Pendapatan perusahaan turun 64,2 persen, dari Rp33,94 miliar menjadi Rp12,14 miliar, sementara laba bruto susut dari Rp11,78 miliar menjadi Rp5,16 miliar. Beban umum dan administrasi justru naik dari Rp8,13 miliar menjadi Rp13,00 miliar, sehingga perusahaan yang semula membukukan laba usaha Rp3,64 miliar kini merugi usaha Rp7,83 miliar. Laba per saham ikut berbalik dari Rp0,58 menjadi rugi Rp1,17 per saham.",
+   "Di sisi liabilitas, Futura mencatat utang baru kepada pihak berelasi, PT Amartya Inti Investama, senilai Rp7,24 miliar yang sebelumnya tidak ada di akhir 2025. Perusahaan juga menerima uang muka pelanggan Rp1,05 miliar atas proyek yang belum selesai, seiring nilai proyek dalam pelaksanaan yang naik 170,5 persen menjadi Rp3,25 miliar. Total ekuitas turun dari Rp176,59 miliar menjadi Rp168,84 miliar, sejalan dengan kerugian periode berjalan, sementara total aset relatif stabil di kisaran Rp202,91 miliar, didukung penempatan deposito baru senilai sekitar Rp33,6 miliar pada pos aset lancar lainnya.",
+   "Dari sisi kas, kegiatan operasional menyedot kas neto Rp25,88 miliar, lebih besar dibanding Rp16,16 miliar pada periode sembilan bulan 2025. Kekurangan ini tertutup oleh aktivitas pendanaan yang menyumbang kas masuk Rp25,84 miliar, terutama dari pengembalian uang muka senilai Rp25 miliar dan penerimaan utang pihak berelasi Rp4,39 miliar, sehingga posisi kas akhir periode relatif terjaga di Rp30,66 miliar, hampir sama dengan posisi akhir 2025. Perusahaan, yang sebelumnya bernama PT Lini Imaji Kreasi Ekosistem Tbk, memiliki dua entitas anak, yakni PT Futura Energi Prima di bidang informasi dan komunikasi dengan aset Rp11,62 miliar, serta PT Hexa Putra Mekanikal yang bergerak di jasa instalasi dan konstruksi dengan aset Rp41,63 miliar."
+  ],
+  "fotoAdegan": "Technicians installing industrial piping equipment at a construction site in Jakarta, overcast afternoon light, no signage visible",
+  "takeaway": "Laporan ini negatif bagi Futura Energi Global karena pendapatan sembilan bulan turun 64 persen menjadi Rp12,14 miliar dan perusahaan berbalik dari untung Rp3,70 miliar menjadi rugi Rp7,75 miliar, tanda bisnis intinya menyusut, bukan sekadar fluktuasi musiman. Yang tersentuh adalah ekuitas, yaitu total kekayaan bersih yang jadi hak pemegang saham, yang turun dari Rp176,59 miliar menjadi Rp168,84 miliar karena kerugian langsung mengurangi saldo laba, serta laba per saham yang berbalik dari positif Rp0,58 menjadi negatif Rp1,17, dan pelaku pasar memperhatikannya karena itu ukuran langsung keuntungan yang jadi bagian tiap lembar saham mereka. Arus kas dari kegiatan sehari-hari juga makin negatif, dari minus Rp16,16 miliar menjadi minus Rp25,88 miliar, artinya operasional makin menyedot kas, dan kekurangan itu baru tertutup oleh pengembalian uang muka Rp25 miliar serta pinjaman baru Rp7,24 miliar dari pihak berelasi PT Amartya Inti Investama. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit untuk tahun buku 2026, karena laporan kuartal ketiga ini masih berstatus tidak diaudit dengan surat pernyataan tanggung jawab direksi baru diteken pada 30 Oktober 2026, sehingga angka-angka ini masih bisa bergeser setelah proses audit selesai.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dr-waran-terstruktur-tapg-disesuaikan-usai-dividen-rp70",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran Terstruktur TAPG Disesuaikan Usai [Dividen] Rp70",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan Waran Terstruktur TAPG menyusul rencana dividen tunai Rp1,39 triliun dari Triputra Agro Persada.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:31:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/30314c53e4_b06dd68374.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "TAPG",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia mengumumkan penyesuaian syarat dan ketentuan Waran Terstruktur dengan saham acuan TAPG, menyusul keputusan Direksi TAPG yang disetujui Dewan Komisaris pada 30 Oktober 2026 untuk membagikan dividen tunai tahun buku 2026. Total dividen yang dibagikan senilai Rp1.389.677.800.000, setara Rp70 per saham, dan jumlahnya sudah final.",
+   "Jadwal pembagian dividen diatur sebagai berikut: tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 10 November 2026, disusul tanggal ex dividen pada 11 November 2026. Di pasar tunai, cum dividen berlaku 12 November 2026 dan ex dividen 13 November 2026. Daftar pemegang saham yang berhak menerima dividen ditetapkan pada 12 November 2026 pukul 16.00, dengan pembayaran paling lambat 27 November 2026.",
+   "Sesuai Term Sheet dan Prospektus Waran Terstruktur, rasio pelaksanaan dan harga pelaksanaan waran akan disesuaikan memakai formula E x (P-D)/P untuk rasio, dan X x (P-D)/P untuk harga. P adalah harga penutupan saham TAPG pada hari bursa terakhir diperdagangkan secara cum-entitlement, D adalah dividen per saham, sedangkan X dan E adalah harga serta rasio pelaksanaan yang berlaku tepat sebelum tanggal ex-date. RHB Sekuritas juga menyebut bahwa penyesuaian ini bisa saja tidak dilakukan jika menurut kebijakannya sendiri dianggap tidak diperlukan, tanpa ada kewajiban apa pun kepada pemegang waran."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested palm oil fruit bunches onto a truck at a rural plantation collection point under bright tropical daylight",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental TAPG maupun RHB Sekuritas, karena isinya hanya menjalankan mekanisme baku yang otomatis berlaku setiap kali saham acuan sebuah waran terstruktur membagikan dividen. Yang tersentuh di sini adalah rasio pelaksanaan dan harga pelaksanaan waran, dua angka yang menentukan berapa lembar saham TAPG yang bisa ditebus pemegang waran dan di harga berapa, dan penyesuaian ini perlu dilakukan agar nilai waran tidak otomatis tergerus saat harga saham turun akibat pembagian dividen. Yang perlu dipantau berikutnya adalah harga penutupan saham TAPG pada hari bursa terakhir cum dividen, 10 November 2026, karena itu jadi acuan hitungan dalam formula penyesuaian, serta kepastian pembayaran dividen pada 27 November 2026, mengingat RHB tetap berhak tidak melakukan penyesuaian ini kalau dianggap tidak perlu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-rhb-sesuaikan-waran-terstruktur-medc-ikuti-dividen",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Sesuaikan Waran Terstruktur [MEDC] Ikuti Dividen",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur MEDC menyusul dividen tunai US$30 juta yang dibayar 2 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:31:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b51c60fb03_c16e5d4d25.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "MEDC",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia, penerbit waran terstruktur dengan kode emiten DR, mengumumkan penyesuaian syarat dan ketentuan waran terstruktur yang sahamnya mengacu pada PT Medco Energi Internasional Tbk (MEDC). Penyesuaian ini dipicu oleh keputusan direksi MEDC pada 29 Oktober 2026 yang telah disetujui dewan komisaris, untuk membagikan dividen tunai tahun buku 2026 senilai total US$30 juta.",
+   "Jadwal pembagian dividen MEDC yang menjadi dasar penyesuaian adalah sebagai berikut: tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 10 November 2026, dengan tanggal ex dividen sehari setelahnya pada 11 November 2026. Di pasar tunai, cum dividen berlaku 12 November 2026 dan ex dividen 13 November 2026. Daftar pemegang saham yang berhak menerima dividen ditetapkan pada 12 November 2026 pukul 16.00, sementara dividen akan dibayarkan paling lambat pada 2 Desember 2026.",
+   "Sesuai term sheet dan prospektus waran terstruktur, rasio pelaksanaan dan harga pelaksanaan waran MEDC akan dihitung ulang memakai rumus yang memperhitungkan harga penutupan saham MEDC pada hari bursa terakhir saat diperdagangkan secara cum-entitlement, dikurangi nilai dividen per saham, lalu dibagi harga penutupan tersebut. RHB Sekuritas selaku penerbit mencantumkan klausul bahwa penyesuaian ini bisa saja tidak dilakukan jika menurut kebijakannya sendiri dianggap tidak diperlukan, tanpa ada kewajiban apa pun kepada pemegang waran."
+  ],
+  "fotoAdegan": "Onshore oil and gas facility pipelines and storage tanks under a bright midday sky in Indonesia, no visible text",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental MEDC maupun RHB Sekuritas, karena isinya hanya menjalankan mekanisme baku yang otomatis berlaku setiap kali saham acuan sebuah waran terstruktur membagikan dividen. Yang tersentuh adalah rasio pelaksanaan dan harga pelaksanaan waran, yaitu syarat tukar yang menentukan berapa banyak saham MEDC yang bisa diperoleh pemegang waran dan di harga berapa, sehingga penyesuaian ini menjaga agar nilai waran tidak otomatis tergerus ketika harga saham acuan turun akibat pembagian dividen. Dividen MEDC sendiri, senilai US$30 juta, mencerminkan posisi kas perusahaan tapi bukan bagian dari laporan ini sehingga tidak dinilai di sini. Yang perlu dipantau pemegang waran adalah apakah RHB benar benar menjalankan rumus penyesuaian tersebut atau memilih tidak menyesuaikannya sesuai klausul diskresi yang dicantumkan, serta tanggal pembayaran dividen MEDC pada 2 Desember 2026 yang jadi acuan kapan penyesuaian final berlaku.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mncn-laba-bersih-anjlok-48-jadi-rp385-miliar-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "MNCN: Laba Bersih [Anjlok] 48% Jadi Rp385 Miliar di 9M26",
+  "deck": "Laporan keuangan interim MNCN per September 2026 menunjukkan pendapatan turun 16,7 persen dan laba bersih tergerus hampir separuh dibanding periode sama tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:30:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102164218-64941-0/FinancialStatement-2026-III-MNCN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MNCN",
+  "tags": [
+   "MNCN",
+   "laporan keuangan",
+   "media",
+   "laba bersih"
+  ],
+  "body": [
+   "Media Nusantara Citra Tbk (MNCN) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan pada 30 Oktober 2026. Laporan bernomor 169/CFO-MNC/X/2026 itu ditandatangani oleh Direktur Utama Noersing dan Direktur Ruby Panjaitan, yang menyatakan bertanggung jawab penuh atas kelengkapan dan kebenaran informasi di dalamnya.",
+   "Pendapatan perseroan tercatat Rp4,71 triliun selama sembilan bulan pertama 2026, turun 16,7 persen dari Rp5,65 triliun pada periode yang sama tahun 2025. Laba kotor ikut tergerus dari Rp2,55 triliun menjadi Rp1,82 triliun. Laba bersih yang menjadi hak pemegang saham induk merosot hampir separuh, dari Rp658,7 miliar menjadi Rp342,1 miliar, sehingga laba bersih per saham turun dari Rp49,80 menjadi Rp25,87. Di sisi lain, beban keuangan justru mengecil dari Rp246,1 miliar menjadi Rp138,9 miliar karena perseroan terus mencicil utang bank, baik utang bank jangka pendek yang turun dari Rp785,3 miliar menjadi Rp667,6 miliar maupun utang bank jangka panjang yang turun dari Rp388,6 miliar menjadi Rp251,6 miliar.",
+   "Posisi kas perseroan menyusut tajam, dari Rp1,08 triliun pada awal tahun menjadi Rp169 miliar pada akhir September 2026. Kas bersih dari aktivitas operasi turun dari Rp455,5 miliar menjadi Rp283 miliar, sementara aktivitas investasi menyedot kas lebih besar, dari Rp487,4 miliar menjadi Rp901,1 miliar, terutama untuk penambahan aset keuangan tidak lancar, aset konten, dan aset takberwujud. Meski laba turun, total ekuitas perseroan naik tipis dari Rp23,02 triliun menjadi Rp23,33 triliun dan total aset naik dari Rp24,89 triliun menjadi Rp25,07 triliun, ditopang oleh laba ditahan yang terus terakumulasi serta total liabilitas yang justru turun dari Rp1,87 triliun menjadi Rp1,74 triliun."
+  ],
+  "fotoAdegan": "Camera operators adjusting a large television studio camera on an empty soundstage, bright overhead studio lighting, cables on the floor",
+  "takeaway": "Laporan ini condong negatif karena pendapatan sembilan bulan turun 16,7 persen dan laba bersih yang jadi hak pemegang saham susut hampir separuh, dari Rp658,7 miliar menjadi Rp342,1 miliar. Pos yang paling tersentuh adalah laba per saham, yaitu bagian laba bersih yang jadi milik setiap lembar saham, yang turun dari Rp49,80 menjadi Rp25,87, serta arus kas operasi, yakni uang tunai yang benar-benar masuk dari kegiatan bisnis sehari-hari, yang mengecil sehingga kas di kas perusahaan anjlok dari Rp1,08 triliun menjadi Rp169 miliar dalam sembilan bulan. Ada juga sisi yang meringankan, beban bunga pinjaman bank turun dari Rp246,1 miliar menjadi Rp138,9 miliar karena perseroan terus mencicil utangnya, sehingga tekanan dari sisi utang mengecil meski laba operasionalnya melemah. Yang perlu dipantau berikutnya adalah kinerja kuartal keempat dan laporan keuangan tahunan teraudit yang biasanya terbit pada awal tahun berikutnya, untuk melihat apakah tekanan pada pendapatan iklan dan laba ini masih berlanjut atau mulai mereda.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ptsp-catat-laba-naik-14-jelang-public-expose-3-november",
+  "category": "Aksi Korporasi",
+  "title": "PTSP Catat Laba Naik 14% Jelang [Public Expose] 3 November",
+  "deck": "Pioneerindo Gourmet International (PTSP) merilis materi public expose insidentil berisi kinerja keuangan September 2026 dan rencana bisnis 2026 menjelang paparan publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:26:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/12c65ef24b_fe53158fbe.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTSP",
+  "tags": [
+   "PTSP",
+   "Pioneerindo Gourmet",
+   "Public Expose",
+   "CFC Indonesia"
+  ],
+  "body": [
+   "Pioneerindo Gourmet International Tbk (PTSP) menyampaikan materi Public Expose Insidentil kepada Bursa Efek Indonesia melalui surat bernomor 228/PGI/Dir-MGMT/XI/2026 yang diteken Direktur Teh Kian Kun pada 2 November 2026. Paparan publik akan digelar Selasa, 3 November 2026 pukul 10.00 WIB melalui video conference, merujuk pada surat pengumuman Bursa Nomor Peng-SPT-00222/BEI.WAS/10-2026. Agendanya mencakup kinerja keuangan dan kondisi bisnis terkini perseroan, rencana bisnis ke depan, serta informasi atau fakta material lain yang belum pernah diumumkan.",
+   "Dalam materi yang dilampirkan, PTSP membandingkan kinerja keuangan per September 2026 dengan periode yang sama tahun sebelumnya. Pendapatan usaha bersih naik Rp22,6 miliar atau sekitar 4,2 persen, sementara laba tahun berjalan naik Rp2,1 miliar atau sekitar 14 persen. Total aset bertambah Rp25,9 miliar atau sekitar 7,3 persen, ekuitas atau modal pemegang saham naik Rp17,4 miliar atau 9,5 persen, dan total utang justru turun Rp8,5 miliar atau sekitar 5 persen.",
+   "Untuk rencana kerja 2026, perseroan menargetkan kenaikan penjualan sebesar 5 persen dan berencana membuka 20 gerai baru. Belanja modal atau capex akan dibiayai dari kas internal, bukan dari utang baru. Perusahaan juga menyebut rencana memaksimalkan utilisasi aset yang sudah ada serta meluncurkan produk-produk baru yang terjangkau bagi masyarakat."
+  ],
+  "fotoAdegan": "Kitchen staff plating fried chicken pieces at a fast food restaurant counter during a busy lunch hour, Jakarta",
+  "takeaway": "Laporan ini condong positif karena hampir semua indikator bergerak searah yang baik, pendapatan, laba, aset, dan ekuitas sama-sama naik, sementara utang malah berkurang. Pos yang tersentuh adalah ekuitas, yakni modal milik pemegang saham yang membesar karena sebagian laba ditahan di perusahaan, dan beban bunga, yakni biaya yang harus dibayar perseroan atas pinjamannya, yang berpotensi mengecil setelah utang turun Rp8,5 miliar. Rencana membiayai belanja modal 2026 dari kas internal, bukan utang baru, juga sejalan dengan arus kas yang tampak sehat dari kombinasi aset bertambah dan utang berkurang. Yang perlu dipantau berikutnya adalah paparan publik pada 3 November 2026 pukul 10.00 WIB, karena di sesi itu manajemen akan menjelaskan lebih rinci apakah target penjualan naik 5 persen dan pembukaan 20 gerai baru sepanjang 2026 berjalan sesuai rencana.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "defi-rugi-melonjak-jadi-rp21-4-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "DEFI: Rugi [Melonjak] Jadi Rp21,4 Miliar di Kuartal III 2026",
+  "deck": "Rugi bersih Danasupra Erapacific melonjak hampir lima kali lipat dalam sembilan bulan 2026, sementara ekuitas dan laba ditahan ikut tergerus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:18:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162838-64451-0/FinancialStatement-2026-III-DEFI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEFI",
+  "tags": [
+   "DEFI",
+   "laporan keuangan",
+   "rugi bersih",
+   "holding company"
+  ],
+  "body": [
+   "PT Danasupra Erapacific Tbk (DEFI) melaporkan rugi bersih Rp21,39 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, melonjak dari rugi Rp4,63 miliar pada periode yang sama tahun lalu. Pendapatan perusahaan turun dari Rp5,37 miliar menjadi Rp1,81 miliar, dan laba bruto ikut tergerus dari Rp1,62 miliar menjadi Rp554,88 juta. Rugi usaha sedikit mengecil dari Rp3,73 miliar menjadi Rp3,01 miliar, tetapi pos beban lain-lain bersih melonjak dari Rp903,58 juta menjadi Rp18,38 miliar, yang menjadi penyebab utama membengkaknya rugi sebelum pajak menjadi Rp21,39 miliar. Rugi per saham dasar naik dari Rp6,85 menjadi Rp31,64.",
+   "Dari sisi posisi keuangan, total aset perusahaan turun dari Rp31,42 miliar pada akhir 2025 menjadi Rp27,66 miliar pada akhir September 2026. Kas dan setara kas menyusut dari Rp671,06 juta menjadi Rp148,54 juta. Jumlah ekuitas turun dari Rp28,31 miliar menjadi Rp24,60 miliar, dengan saldo laba yang belum ditentukan penggunaannya berbalik dari positif Rp14,73 miliar menjadi defisit Rp6,31 miliar. Total liabilitas relatif stabil, dari Rp3,12 miliar menjadi Rp3,06 miliar.",
+   "Danasupra Erapacific berstatus perusahaan induk dengan dua anak usaha: PT Bangun Multikreasi Indonesia, dimiliki 62,5 persen, bergerak di produksi dan distribusi film serta desain grafis di BSD City dengan total aset Rp3,93 miliar, dan PT Ramajaya Mitra Karya, dimiliki 99,99 persen, bergerak di bidang holding dan konsultasi manajemen di SCBD Jakarta dengan total aset Rp5,13 miliar. Dari aktivitas operasi, perusahaan masih memakai kas neto Rp1,64 miliar selama sembilan bulan, membaik dari pemakaian kas Rp3,38 miliar pada periode yang sama tahun lalu, sementara tidak ada arus kas dari aktivitas pendanaan tahun ini dibanding penerimaan Rp1,23 miliar pada tahun sebelumnya."
+  ],
+  "fotoAdegan": "Film production crew adjusting lighting and camera equipment on a soundstage set, Jakarta studio, overcast interior light",
+  "takeaway": "Laporan ini condong negatif bagi Danasupra Erapacific karena rugi bersih periode sembilan bulan 2026 melonjak hampir lima kali lipat dibanding periode sama tahun lalu, didorong oleh pembengkakan beban lain-lain yang naik lebih dari dua puluh kali lipat. Pos yang paling tersentuh adalah ekuitas dan laba per saham: ekuitas perusahaan, yaitu modal yang menjadi hak pemegang saham setelah dikurangi semua utang, susut dari Rp28,31 miliar menjadi Rp24,60 miliar dalam sembilan bulan, sementara rugi per saham naik dari Rp6,85 menjadi Rp31,64, tanda bahwa setiap lembar saham menanggung beban rugi yang jauh lebih besar. Pemegang saham juga perlu memperhatikan bahwa saldo laba ditahan perusahaan, yaitu akumulasi keuntungan dari tahun-tahun sebelumnya yang biasa jadi penyangga permodalan, kini berbalik menjadi defisit Rp6,31 miliar setelah sebelumnya masih positif Rp14,73 miliar. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan 2026 yang biasanya disampaikan ke bursa pada awal tahun depan, karena itu akan mengonfirmasi apakah pembengkakan beban lain-lain pada kuartal ketiga ini bersifat satu kali atau berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "tfco-gelar-public-expose-usai-saham-sentuh-ara-3-hari",
   "category": "Aksi Korporasi",
   "title": "TFCO Gelar Public Expose Usai Saham Sentuh [ARA] 3 Hari",

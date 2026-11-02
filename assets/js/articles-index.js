@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "giias-makassar-2026-dibuka-pamerkan-14-merek-mobil-dan-motor",
+  "category": "Industri",
+  "title": "GIIAS Makassar 2026 Dibuka, Pamerkan [14] Merek Mobil dan Motor",
+  "deck": "GIIAS Makassar 2026 dibuka 28 Oktober di SMMCC dengan 14 merek mobil, empat merek motor, dan 24 merek industri pendukung, termasuk enam merek baru.",
+  "date": "2 November 2026",
+  "image": "assets/img/giias-makassar-2026-dibuka-pamerkan-14-merek-mobil-dan-motor.jpg",
+  "imageV": "mvyqt0xj",
+  "tags": [
+   "GIIAS Makassar",
+   "GAIKINDO",
+   "otomotif",
+   "Sulawesi Selatan"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/giias-makassar-2026-berpeluang-ikut-mendorong-ekonomi-indonesia-timur/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
+  "slug": "harga-emas-antam-naik-rp5-000-jadi-rp2-531-juta-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] Rp5.000, jadi Rp2,531 Juta/Gram",
+  "deck": "Harga emas batangan Antam naik Rp5.000 menjadi Rp2.531.000 per gram pada Senin, sementara harga buyback juga naik ke Rp2.286.000 per gram.",
+  "date": "2 November 2026",
+  "image": "assets/img/harga-emas-antam-naik-rp5-000-jadi-rp2-531-juta-gram.jpg",
+  "imageV": "mvyqt1g7",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "investasi emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476160-harga-emas-antam-hari-ini-naik-rp5000-tembus-rp2531-juta-per-gram"
+ },
+ {
   "slug": "jecx-komisaris-beli-49-000-saham-tetap-hak-suara-0-39",
   "category": "Aksi Korporasi",
   "title": "JECX: Komisaris Beli 49.000 Saham [Tetap] Hak Suara 0,39%",
@@ -6449,39 +6484,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027021350-65003-0/FinancialStatement-2026-III-FASW.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bbni-laba-naik-6-jadi-rp16-15-triliun-car-turun-ke-19-2",
-  "category": "Aksi Korporasi",
-  "title": "BBNI: Laba [Naik] 6% Jadi Rp16,15 Triliun, CAR Turun ke 19,2%",
-  "deck": "Laba bersih BNI naik 6 persen jadi Rp16,15 triliun dalam sembilan bulan 2026, tapi rasio kecukupan modal turun ke 19,20 persen dan laba komprehensif tergerus kerugian nilai obligasi.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBNI",
-   "laba bersih",
-   "rasio kecukupan modal",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027083910-64972-0/FinancialStatement-2026-III-BBNI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toyota-teratas-byd-masuk-lima-besar-penjualan-mobil-2026",
-  "category": "Industri",
-  "title": "Toyota Teratas, BYD Masuk [Lima Besar] Penjualan Mobil 2026",
-  "deck": "Distribusi mobil dari pabrikan ke dealer naik 21 persen secara tahunan hingga September 2026, dengan Toyota memimpin dan BYD menembus lima besar berkat pabrik barunya di Subang.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/toyota-teratas-byd-masuk-lima-besar-penjualan-mobil-2026.jpg",
-  "imageV": "mvpyb7o7",
-  "tags": [
-   "Otomotif",
-   "BYD",
-   "Toyota",
-   "GAIKINDO"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/whole-sales-januari-september-2026-toyota-teratas-byd-masuk-lima-besar/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
  }
 ];

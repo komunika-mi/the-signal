@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "giias-makassar-2026-dibuka-pamerkan-14-merek-mobil-dan-motor",
+  "category": "Industri",
+  "title": "GIIAS Makassar 2026 Dibuka, Pamerkan [14] Merek Mobil dan Motor",
+  "deck": "GIIAS Makassar 2026 dibuka 28 Oktober di SMMCC dengan 14 merek mobil, empat merek motor, dan 24 merek industri pendukung, termasuk enam merek baru.",
+  "image": "assets/img/giias-makassar-2026-dibuka-pamerkan-14-merek-mobil-dan-motor.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T04:10:44.598Z",
+  "sourceUrl": "https://www.gaikindo.or.id/giias-makassar-2026-berpeluang-ikut-mendorong-ekonomi-indonesia-timur/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GIIAS Makassar",
+   "GAIKINDO",
+   "otomotif",
+   "Sulawesi Selatan"
+  ],
+  "body": [
+   "Pameran otomotif tahunan GAIKINDO Indonesia International Auto Show (GIIAS) resmi dibuka di Makassar, Sulawesi Selatan, pada 28 Oktober 2026. Acara digelar di Summarecon Mutiara Makassar Convention Center dan menjadi salah satu ajang pamer produk otomotif berskala nasional di luar Jawa, sehingga relevan bagi konsumen dan pelaku usaha kendaraan di kawasan timur Indonesia yang selama ini jarang jadi lokasi pameran semacam ini.",
+   "Pembukaan dihadiri Direktur Jenderal Industri Logam, Mesin, Alat Transportasi, dan Elektronika Kementerian Perindustrian Setia Diarta, perwakilan Pemerintah Provinsi Sulawesi Selatan, perwakilan Pemerintah Kota Makassar, serta jajaran pengurus GAIKINDO termasuk Ketua Umum Putu Juli Ardika. Tahun ini GIIAS Makassar menampilkan 14 merek mobil penumpang, yaitu BAIC, BYD, Chery, Geely, Honda, Jetour, KIA, Mazda, Mitsubishi Motors, Jaecoo, Suzuki, Toyota, Vinfast, dan Wuling, ditambah empat merek sepeda motor yakni Aprilia, Moto Guzzi, Piaggio, dan Vespa.",
+   "Pameran juga diikuti 24 merek industri pendukung otomotif, dengan enam merek yang baru pertama kali berpartisipasi dan dua merek yang kembali tampil setelah sebelumnya absen. Setia Diarta menyebut Kementerian Perindustrian berkomitmen menjadi mitra industri otomotif dan berharap pameran ini membuka ruang investasi serta peluang usaha baru, sementara GAIKINDO menyatakan ragam teknologi yang ditampilkan makin lengkap dibanding penyelenggaraan sebelumnya. Klaim soal dampaknya terhadap ekonomi Sulawesi Selatan dan Indonesia Timur tersebut merupakan harapan dari penyelenggara dan pemerintah, bukan hasil pengukuran yang sudah terverifikasi."
+  ],
+  "fotoAdegan": "Rows of new passenger cars displayed under bright lights inside a spacious convention hall, visitors walking between exhibition booths",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/10/eximtrendsep26-1280x853.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Yang berubah konkret dari pameran ini adalah jumlah dan komposisi peserta: 14 merek mobil penumpang, empat merek motor, dan 24 merek industri pendukung tampil di Makassar, dengan enam merek baru ikut serta. Yang terdampak langsung adalah konsumen dan dealer kendaraan di Sulawesi Selatan serta kawasan timur Indonesia, karena mereka mendapat akses ke merek yang biasanya hanya dipamerkan di Jakarta atau kota besar Jawa. Dari daftar merek yang tampil, beberapa di antaranya berasal dari Cina, seperti BAIC, BYD, Chery, Geely, Jetour, dan Jaecoo, sejalan dengan tren masuknya merek mobil Cina ke pasar Indonesia yang selama ini lebih terlihat di kota-kota besar. Yang belum bisa dipastikan dari siaran pers ini adalah apakah perluasan pameran ke Makassar benar-benar menambah penjualan di kawasan timur Indonesia, sebab GAIKINDO dan Kemenperin baru menyampaikan harapan, bukan angka pengunjung atau transaksi. Data yang perlu ditunggu adalah jumlah pengunjung dan nilai transaksi yang biasanya dirilis GAIKINDO setelah pameran berakhir.",
+  "imageV": "mvyqt0xj"
+ },
+ {
+  "slug": "harga-emas-antam-naik-rp5-000-jadi-rp2-531-juta-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] Rp5.000, jadi Rp2,531 Juta/Gram",
+  "deck": "Harga emas batangan Antam naik Rp5.000 menjadi Rp2.531.000 per gram pada Senin, sementara harga buyback juga naik ke Rp2.286.000 per gram.",
+  "image": "assets/img/harga-emas-antam-naik-rp5-000-jadi-rp2-531-juta-gram.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T09:51:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476160-harga-emas-antam-hari-ini-naik-rp5000-tembus-rp2531-juta-per-gram",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "investasi emas"
+  ],
+  "body": [
+   "Harga emas batangan produksi PT Aneka Tambang (Antam) naik Rp5.000 pada perdagangan Senin, menjadi Rp2.531.000 per gram. Kenaikan ini tercatat di laman resmi Logam Mulia. Bagi masyarakat yang menyimpan emas sebagai aset investasi, naik turunnya harga harian seperti ini biasa dipakai sebagai acuan waktu membeli atau menjual.",
+   "Sebelumnya harga emas Antam berada di Rp2.526.000 per gram, sehingga kenaikan kali ini setara sekitar 0,2 persen. Harga buyback, yaitu harga saat Antam membeli kembali emas dari nasabah, juga naik menjadi Rp2.286.000 per gram. Dengan begitu, selisih antara harga jual dan harga buyback saat ini sekitar Rp245.000 per gram.",
+   "Ada pajak yang menyertai setiap transaksi emas batangan ini. Saat membeli, konsumen dikenakan Pajak Penghasilan (PPh) Pasal 22 sebesar 0,25 persen dari harga dasar. Sementara saat menjual kembali atau buyback dengan nilai di atas Rp10.000.000, pajak yang dipotong langsung dari nilai transaksi sebesar 1,5 persen.",
+   "Antam mengingatkan bahwa harga emas batangan ini dapat berubah sewaktu-waktu mengikuti perkembangan pasar, sehingga angka yang berlaku adalah yang tercatat pada hari transaksi berlangsung."
+  ],
+  "fotoAdegan": "A jeweler's gloved hand placing a small gold bar onto a velvet tray under soft spotlight at a precious metals counter",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/12/18/67623d269a0f5-ilustrasi-emas-antam_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Kenaikan Rp5.000 ini membuat harga emas Antam naik dari Rp2.526.000 menjadi Rp2.531.000 per gram, sementara harga buyback atau jual kembali ikut naik ke Rp2.286.000 per gram. Yang langsung kena dampaknya adalah pembeli emas batangan dan nasabah yang berencana menjual kembali emasnya, terutama yang nilai transaksinya di atas Rp10 juta karena kena pajak 1,5 persen saat dicairkan. Kenaikan sekitar 0,2 persen dalam satu hari masih terlalu kecil untuk disebut tren, bisa saja ini cuma koreksi harian mengikuti harga emas dunia. Yang perlu dipantau adalah pergerakan harga beberapa hari ke depan, karena dari situ baru bisa terlihat apakah ini awal kenaikan yang berlanjut atau sekadar fluktuasi biasa.",
+  "imageV": "mvyqt1g7"
+ },
+ {
   "slug": "jecx-komisaris-beli-49-000-saham-tetap-hak-suara-0-39",
   "category": "Aksi Korporasi",
   "title": "JECX: Komisaris Beli 49.000 Saham [Tetap] Hak Suara 0,39%",

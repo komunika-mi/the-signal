@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-turki-jajaki-pta-target-dagang-us-10-miliar",
+  "category": "Global",
+  "title": "Indonesia-Turki Jajaki [PTA], Target Dagang US$10 Miliar",
+  "deck": "Indonesia dan Turki mulai menjajaki perjanjian dagang preferensial (PTA) untuk mendorong nilai perdagangan bilateral menuju US$10 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "Indonesia-Turki",
+   "PTA",
+   "Perdagangan Bilateral",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-dorong-penjajakan-pta-untuk-perkuat-perdagangan-indonesia-turki",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "inflasi-oktober-melandai-tiket-pesawat-naik",
+  "category": "Makroekonomi",
+  "title": "Inflasi Oktober [Melandai], Tiket Pesawat Naik",
+  "deck": "Inflasi tahunan Oktober 2026 turun jadi 3,23 persen, tapi harga cabai dan tarif pesawat domestik kelas ekonomi justru naik.",
+  "date": "2 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "inflasi",
+   "harga pangan",
+   "Bank Indonesia",
+   "tarif pesawat"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823826.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "surplus-dagang-ri-berlanjut-tapi-tipis-ke-us-3-36-miliar",
+  "category": "Makroekonomi",
+  "title": "Surplus Dagang RI [Berlanjut] tapi Tipis ke US$3,36 Miliar",
+  "deck": "Neraca dagang Indonesia surplus US$3,36 miliar pada September 2026, melanjutkan tren positif Agustus meski nilainya mengecil dari US$3,55 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "tags": [
+   "neraca dagang",
+   "ekspor",
+   "impor",
+   "Bank Indonesia"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823926.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "aadi-tegaskan-daftar-pengendali-sejak-ipo-ke-ojk",
   "category": "Aksi Korporasi",
   "title": "AADI Tegaskan Daftar [Pengendali] Sejak IPO ke OJK",
@@ -51,6 +99,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1d19fa374f_16a65b7d34.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sektor-kelautan-mulai-jadi-pilar-ekonomi-ri",
+  "category": "Makroekonomi",
+  "title": "Sektor Kelautan Mulai Jadi [Pilar] Ekonomi RI",
+  "deck": "Pengamat menilai Presiden Prabowo Subianto mulai menempatkan sektor kelautan dan perikanan sebagai pilar ekonomi, lewat program Kampung Nelayan Merah Putih hingga swasembada garam.",
+  "date": "2 November 2026",
+  "image": "assets/img/sektor-kelautan-mulai-jadi-pilar-ekonomi-ri.jpg",
+  "imageV": "mvza7abz",
+  "tags": [
+   "kelautan",
+   "perikanan",
+   "maritim",
+   "KKP"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476229-tak-lagi-jadi-pelengkap-presiden-prabowo-dinilai-mulai-jadikan-sektor-kelautan-pilar-ekonomi-ri"
  },
  {
   "slug": "mcas-liabilitas-naik-26-6-saat-pendapatan-susut-40",
@@ -211,6 +276,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7de281fd1c_ea30cf02ff.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "umkm-binaan-pertamina-tembus-pasar-internasional-di-bali",
+  "category": "UMKM",
+  "title": "UMKM Binaan Pertamina [Tembus] Pasar Internasional di Bali",
+  "deck": "Lima UMKM binaan Pertamina meraih transaksi ratusan juta rupiah dan jejaring bisnis baru dalam forum ASCOPE 2026 di Bali, memperluas akses pasar produk lokal ke kancah internasional.",
+  "date": "2 November 2026",
+  "image": "assets/img/umkm-binaan-pertamina-tembus-pasar-internasional-di-bali.jpg",
+  "imageV": "mvza7aw5",
+  "tags": [
+   "pertamina",
+   "umkm",
+   "bali",
+   "ascope"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476218-tembus-pasar-internasional-umkm-pertamina-unjuk-gigi-di-kancah-global"
  },
  {
   "slug": "penumpang-ka-september-tembus-48-55-juta-orang",
@@ -1038,7 +1120,7 @@ var ARTICLES = [
   "title": "Ekspor Naik, tapi Surplus Dagang RI Makin [Menyempit]",
   "deck": "Ekspor September 2026 naik 11,87 persen jadi US$27,59 miliar, tapi impor tumbuh lebih cepat 18,41 persen sehingga surplus dagang kumulatif menyempit jadi US$10,61 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "ekspor",
    "impor",
@@ -5919,7 +6001,7 @@ var ARTICLES = [
   "title": "11 dari 14 Provinsi Sulampua Catat [Inflasi] di Atas Target",
   "deck": "Pemerintah menggelar rapat koordinasi pengendalian inflasi di Sulawesi, Maluku, dan Papua setelah 11 dari 14 provinsi mencatat inflasi tahunan di atas ambang batas nasional pada September 2026.",
   "date": "28 Oktober 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "Inflasi",
    "Sulampua",
@@ -6291,7 +6373,7 @@ var ARTICLES = [
   "title": "Dagang RI-AS [Tembus] US$32,34 Miliar, Investasi AS Naik",
   "deck": "Menko Airlangga dan US-ASEAN Business Council membahas penguatan dagang dan investasi RI-AS, dengan nilai perdagangan naik 11,82 persen dan investasi AS tembus US$3,4 miliar.",
   "date": "27 Oktober 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "perdagangan RI-AS",
    "investasi asing",
@@ -6395,90 +6477,6 @@ var ARTICLES = [
    "Transaksi Afiliasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2caa95deda_65489187d2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-kejar-reformasi-pasar-modal-sebelum-tenggat-msci-2027",
-  "category": "Pasar Modal",
-  "title": "RI Kejar [Reformasi] Pasar Modal Sebelum Tenggat MSCI 2027",
-  "deck": "Pemerintah menaikkan syarat free float jadi 15 persen dan memperkuat keterbukaan pemilik saham menjelang tenggat evaluasi MSCI pada 30 April 2027.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/bursa-layar.jpg",
-  "tags": [
-   "MSCI",
-   "pasar modal",
-   "free float",
-   "OJK"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7186/reformasi-tata-kelola-pasar-modal-berikan-manfaat-nyata-bagi-masyarakat",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "aali-laba-bersih-kuartal-iii-melonjak-77-ke-rp1-98-triliun",
-  "category": "Aksi Korporasi",
-  "title": "AALI: Laba Bersih Kuartal III [Melonjak] 77% ke Rp1,98 Triliun",
-  "deck": "Astra Agro Lestari mencatat laba bersih Rp1,98 triliun dan kas dua kali lipat, tapi liabilitas juga naik 79% akibat tagihan pupuk dan asuransi yang belum dibayar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AALI",
-   "laporan keuangan",
-   "laba bersih",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027200626-64754-0/FinancialStatement-2026-III-AALI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "perpres-baru-permudah-distribusi-pupuk-subsidi-ke-petani",
-  "category": "BUMN",
-  "title": "Perpres Baru Permudah Distribusi [Pupuk] Subsidi ke Petani",
-  "deck": "Pupuk Indonesia memantau stok dan penebusan pupuk subsidi secara real-time untuk musim tanam, didukung penyederhanaan distribusi lewat Perpres Nomor 113 Tahun 2025.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/perpres-baru-permudah-distribusi-pupuk-subsidi-ke-petani.jpg",
-  "imageV": "mvqm8rf6",
-  "tags": [
-   "Pupuk Indonesia",
-   "pupuk subsidi",
-   "musim tanam",
-   "Perpres 113/2025"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/895/pupuk-indonesia-siap-penuhi-kebutuhan-pupuk-saat-musim-tanam",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "cara-petani-kenali-pupuk-subsidi-asli-di-kios-resmi",
-  "category": "BUMN",
-  "title": "Cara Petani Kenali Pupuk Subsidi [Asli] di Kios Resmi",
-  "deck": "Pupuk Indonesia mengimbau petani menebus pupuk bersubsidi hanya lewat kios resmi atau PPTS, serta memeriksa kemasan agar terhindar dari pupuk tiruan.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/cara-petani-kenali-pupuk-subsidi-asli-di-kios-resmi.jpg",
-  "imageV": "mvqm8sod",
-  "tags": [
-   "Pupuk Indonesia",
-   "Pupuk Subsidi",
-   "PPTS",
-   "Pupuk Palsu"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/896/membeli-pupuk-subsidi-di-kios-resmi-lebih-aman",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "gtbo-rombak-direksi-dan-komisaris-rupst-18-november",
-  "category": "Aksi Korporasi",
-  "title": "GTBO Rombak [Direksi] dan Komisaris, RUPST 18 November",
-  "deck": "RUPST Garda Tujuh Buana (GTBO) pada 18 November 2026 akan mengesahkan laporan keuangan 2025 dan mengganti sejumlah direksi serta komisaris, termasuk satu komisaris independen baru.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTBO",
-   "RUPST",
-   "pergantian direksi",
-   "komisaris independen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/39c1f811b1_b0668e2b24.pdf",
   "sourceLabel": "IDX"
  }
 ];

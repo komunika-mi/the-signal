@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "OK2y12-bjTs",
+  "title": "Presiden Prabowo Pimpin Ratas Bahas Perkembangan Ekonomi",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto memimpin rapat terbatas bidang ekonomi di Istana Merdeka, Jakarta, Senin, 2 November 2026, dengan dihadiri sejumlah menteri dan kepala badan.",
+  "takeaway": "Rapat ini layak disimak karena bisa memberi gambaran arah kebijakan ekonomi pemerintah dalam waktu dekat.",
+  "terbit": "2026-11-02T12:09:29+00:00"
+ },
+ {
   "id": "HEBrnjMEN3U",
   "title": "KADIN Dorong Perempuan Pengusaha Perkuat Ekonomi",
   "category": "Bisnis",

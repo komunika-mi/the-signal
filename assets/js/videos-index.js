@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "OK2y12-bjTs",
+  "title": "Presiden Prabowo Pimpin Ratas Bahas Perkembangan Ekonomi",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto memimpin rapat terbatas bidang ekonomi di Istana Merdeka, Jakarta, Senin, 2 November 2026, dengan dihadiri sejumlah menteri dan kepala badan.",
+  "takeaway": "Rapat ini layak disimak karena bisa memberi gambaran arah kebijakan ekonomi pemerintah dalam waktu dekat."
+ },
+ {
   "id": "HEBrnjMEN3U",
   "title": "KADIN Dorong Perempuan Pengusaha Perkuat Ekonomi",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Presiden Prabowo Subianto menyebut Indonesia kini masuk 10 besar ekonomi dunia, berada di posisi ketujuh dan melampaui Brasil serta Inggris berdasarkan data yang dipaparkannya.",
   "takeaway": "Klaim posisi ekonomi nasional ini penting untuk memahami narasi pemerintah soal daya saing Indonesia di kancah global."
- },
- {
-  "id": "OhscHHfWkOA",
-  "title": "Kadin Dorong Penguatan Industri Elektronik Nasional",
-  "category": "Industri",
-  "program": "Kabar Utama",
-  "summary": "Kamar Dagang dan Industri Indonesia (Kadin) mendorong penguatan industri elektronik dalam negeri untuk memperkuat posisi Indonesia dalam rantai pasok global.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut daya saing industri manufaktur dan posisi Indonesia dalam rantai pasok elektronik dunia."
  }
 ];

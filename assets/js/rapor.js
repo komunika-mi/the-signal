@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-10-31T02:39:20.862+07:00",
+ "diperbarui": "2026-11-03T05:55:46.491+07:00",
  "entri": [
+  {
+   "id": "2026-11-02-3",
+   "edisi": "2026-11-02",
+   "benang": "Impor tumbuh lebih cepat dari ekspor, surplus menipis",
+   "klaim": "Penguatan aktivitas manufaktur (PMI Oktober 2026 naik ke 54,0) akan terus mendorong kebutuhan bahan baku dan barang modal dari luar negeri sehingga surplus dagang Indonesia terus menipis meski ekspor juga tumbuh.",
+   "penanda": "komposisi data impor Oktober yang dirilis BPS, khususnya apakah kenaikannya didominasi bahan baku dan barang modal industri bukan barang konsumsi",
+   "tenggat": "2026-12-05",
+   "tenggatLabel": "data impor Oktober yang dirilis BPS awal Desember",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-02-2",
+   "edisi": "2026-11-02",
+   "benang": "Investigasi karhutla Singapura melebar di grup agribisnis",
+   "klaim": "Investigasi karhutla Singapura terhadap tujuh emiten agribisnis (INDF, SIMP, LSIP, ANJT, CEKA, TKIM, PIDL) lebih condong berhenti di tahap administratif tanpa menyentuh laporan keuangan perusahaan tercatat, kecuali rencana amendemen undang-undang haze Singapura benar mengkriminalisasi ketidakkooperatifan korporasi sehingga tekanan membesar.",
+   "penanda": "klarifikasi resmi dari Indofood Agri Resources Ltd kepada SIMP dan Lonsum, serta kejelasan amendemen undang-undang haze Singapura",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-02-1",
+   "edisi": "2026-11-02",
+   "benang": "Utang naik lebih cepat dari kas yang masuk",
+   "klaim": "Kenaikan pendapatan dan laba sejumlah emiten (NPGF, KBLI, ADMR, SICO) pada kuartal III 2026 makin ditopang oleh utang baru ketimbang kas dari bisnis inti, sehingga gejala arus kas operasi negatif meluas ke berbagai sektor setelah sebelumnya beban bunga mulai menggerus laba.",
+   "penanda": "arus kas operasional dan rasio utang bank emiten pada laporan kuartal berikutnya",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-10-30-3",
    "edisi": "2026-10-30",
@@ -1744,7 +1777,7 @@ var RAPOR = {
    "penanda": "Hasil pemungutan suara RUPSLB PTPP atas Master Restructuring Agreement",
    "tenggat": "2026-09-15",
    "tenggatLabel": "RUPSLB PTPP pada 15 September 2026",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {

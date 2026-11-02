@@ -14,6 +14,15 @@
   <url><loc>https://the-signal.id/kontak.html</loc><lastmod>2026-11-02</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/privasi.html</loc><lastmod>2026-11-02</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/pedoman-media-siber.html</loc><lastmod>2026-11-02</lastmod><priority>0.3</priority></url>
+  <url><loc>https://the-signal.id/berita/irsx-jawab-bei-soal-koreksi-laporan-keuangan-kuartal-i-2026.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/lrna-catat-rugi-rp20-97-miliar-dalam-9-bulan-2026.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/pura-laba-naik-86-kas-susut-tajam-kuartal-iii-2026.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/anjt-jawab-bei-soal-karhutla-klaim-belum-ada-sanksi.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/diva-catat-rugi-rp34-2-miliar-pada-kuartal-iii-2026.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/part-catat-pendapatan-naik-23-laba-bersih-stagnan.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/part-rencanakan-rights-issue-1-miliar-saham-baru-rupslb-9-desember.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/aset-data-melonjak-29-utang-bank-pendek-menyusut.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/npgf-bukukan-laba-naik-tapi-utang-bank-melonjak-87-9.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/indonesia-turki-jajaki-pta-target-dagang-us-10-miliar.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/inflasi-oktober-melandai-tiket-pesawat-naik.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/surplus-dagang-ri-berlanjut-tapi-tipis-ke-us-3-36-miliar.html</loc><lastmod>2026-11-02</lastmod><priority>0.8</priority></url>
@@ -488,7 +497,7 @@
   <url><loc>https://the-signal.id/berita/ekspor-gas-pipa-dipotong-8-diprioritaskan-untuk-pln.html</loc><lastmod>2026-10-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/program-mbg-serap-100-ribu-pekerja-di-bogor.html</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/viva-panggil-rups-konversi-utang-rp1-72-t-jadi-saham-17-nov.html</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
-  <url><loc>https://the-signal.id/berita/oppm-tawarkan-obligasi-rp3-33-triliun-tahap-vi-dan-us-25-juta.html</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/oppm-tawarkan-obligasi-rp3-33-triliun-tahap-vi-dan-us-25-juta.html</loc><lastmod>2026-10-26</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/andi-aps-lepas-seluruh-699-97-juta-saham-hak-suara-ke-0.html</loc><lastmod>2026-10-26</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/mmix-mengky-mangarek-tambah-saham-ke-6-02.html</loc><lastmod>2026-10-26</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/andi-cep-lepas-2-38-miliar-saham-hak-suara-ke-24-22.html</loc><lastmod>2026-10-26</lastmod><priority>0.6</priority></url>
@@ -5167,6 +5176,7 @@
   <url><loc>https://the-signal.id/emiten/BKSL.html</loc><lastmod>2026-10-05</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/SILO.html</loc><lastmod>2026-09-23</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/HEAL.html</loc><lastmod>2026-09-15</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/emiten/IRSX.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/SWAT.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/INET.html</loc><lastmod>2026-10-31</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/CANI.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
@@ -5192,6 +5202,7 @@
   <url><loc>https://the-signal.id/emiten/MICE.html</loc><lastmod>2026-10-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/GOTO.html</loc><lastmod>2026-10-01</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/UANG.html</loc><lastmod>2026-09-28</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/emiten/PART.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/MSIN.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/PIPA.html</loc><lastmod>2026-10-31</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/PTBA.html</loc><lastmod>2026-10-31</lastmod><priority>0.6</priority></url>
@@ -5228,7 +5239,6 @@
   <url><loc>https://the-signal.id/emiten/BJBR.html</loc><lastmod>2026-10-16</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/MDLN.html</loc><lastmod>2026-10-14</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/PSAB.html</loc><lastmod>2026-10-12</lastmod><priority>0.6</priority></url>
-  <url><loc>https://the-signal.id/emiten/IRSX.html</loc><lastmod>2026-10-10</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/PPRI.html</loc><lastmod>2026-10-09</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/MPIX.html</loc><lastmod>2026-10-07</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/DGWG.html</loc><lastmod>2026-10-01</lastmod><priority>0.6</priority></url>
@@ -5297,7 +5307,6 @@
   <url><loc>https://the-signal.id/emiten/MRAT.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/MNCN.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/TFCO.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
-  <url><loc>https://the-signal.id/emiten/PART.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/ACES.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/DAAZ.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/SMBR.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
@@ -5375,6 +5384,9 @@
   <url><loc>https://the-signal.id/emiten/RAJA.html</loc><lastmod>2026-09-15</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/WTON.html</loc><lastmod>2026-09-11</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/TAMA.html</loc><lastmod>2026-09-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/emiten/PURA.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/emiten/ANJT.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/emiten/DIVA.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/ADMR.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/ADRO.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/TRIS.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
@@ -5484,6 +5496,9 @@
   <url><loc>https://the-signal.id/emiten/BPII.html</loc><lastmod>2026-08-27</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/WEGE.html</loc><lastmod>2026-08-26</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/SMMF.html</loc><lastmod>2026-08-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/emiten/LRNA.html</loc><lastmod>2026-11-02</lastmod><priority>0.3</priority></url>
+  <url><loc>https://the-signal.id/emiten/DATA.html</loc><lastmod>2026-11-02</lastmod><priority>0.3</priority></url>
+  <url><loc>https://the-signal.id/emiten/NPGF.html</loc><lastmod>2026-11-02</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/BHIT.html</loc><lastmod>2026-11-02</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/NFCX.html</loc><lastmod>2026-11-02</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/TFAS.html</loc><lastmod>2026-11-02</lastmod><priority>0.3</priority></url>
@@ -5560,7 +5575,6 @@
   <url><loc>https://the-signal.id/emiten/ACST.html</loc><lastmod>2026-10-26</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/PSKT.html</loc><lastmod>2026-10-26</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/BANK.html</loc><lastmod>2026-10-26</lastmod><priority>0.3</priority></url>
-  <url><loc>https://the-signal.id/emiten/PURA.html</loc><lastmod>2026-10-23</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/XMES.html</loc><lastmod>2026-10-23</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/SPMA.html</loc><lastmod>2026-10-23</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/XMSK.html</loc><lastmod>2026-10-23</lastmod><priority>0.3</priority></url>
@@ -5576,7 +5590,6 @@
   <url><loc>https://the-signal.id/emiten/ARTA.html</loc><lastmod>2026-10-19</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/MSIE.html</loc><lastmod>2026-10-19</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/SULI.html</loc><lastmod>2026-10-16</lastmod><priority>0.3</priority></url>
-  <url><loc>https://the-signal.id/emiten/ANJT.html</loc><lastmod>2026-10-16</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/ITIC.html</loc><lastmod>2026-10-16</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/MKTR.html</loc><lastmod>2026-10-15</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/CNAF.html</loc><lastmod>2026-10-15</lastmod><priority>0.3</priority></url>
@@ -5632,7 +5645,6 @@
   <url><loc>https://the-signal.id/emiten/INTD.html</loc><lastmod>2026-09-14</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/ITMG.html</loc><lastmod>2026-09-14</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/GRIA.html</loc><lastmod>2026-09-12</lastmod><priority>0.3</priority></url>
-  <url><loc>https://the-signal.id/emiten/DIVA.html</loc><lastmod>2026-09-11</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/ASSA.html</loc><lastmod>2026-09-11</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/INRU.html</loc><lastmod>2026-09-11</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/ABDA.html</loc><lastmod>2026-09-11</lastmod><priority>0.3</priority></url>
@@ -5751,15 +5763,15 @@
   <url><loc>https://the-signal.id/topik/penggunaan-dana.html</loc><lastmod>2026-10-21</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/dividen-interim.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/tata-kelola-perusahaan.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/restrukturisasi-utang.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/karhutla.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/restrukturisasi-utang.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/obligasi-korporasi.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/investasi.html</loc><lastmod>2026-10-29</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/bps.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/emas.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/rugi-bersih.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/rupiah.html</loc><lastmod>2026-10-29</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/hmetd.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/hmetd.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/dilusi-saham.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/penambahan-modal.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/wika.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
@@ -5768,11 +5780,11 @@
   <url><loc>https://the-signal.id/topik/divestasi.html</loc><lastmod>2026-10-26</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/harga-emas.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/pefindo.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/pergantian-direksi.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/kuartal-iii-2026.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/pergantian-direksi.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/arus-kas.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/antam.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/transaksi-material.html</loc><lastmod>2026-10-28</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/arus-kas.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/bank-mandiri.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/telkom.html</loc><lastmod>2026-10-12</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/batu-bara.html</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
@@ -5799,6 +5811,7 @@
   <url><loc>https://the-signal.id/topik/rupsu.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/nsss.html</loc><lastmod>2026-10-23</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/dooh.html</loc><lastmod>2026-10-16</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/utang-bank.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/bri.html</loc><lastmod>2026-09-14</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/zp.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/kelapa-sawit.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
@@ -5815,7 +5828,6 @@
   <url><loc>https://the-signal.id/topik/mglv.html</loc><lastmod>2026-10-28</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/mesop.html</loc><lastmod>2026-10-28</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/inflasi.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/utang-bank.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/pnm.html</loc><lastmod>2026-10-29</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/asii.html</loc><lastmod>2026-10-28</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/dolar-as.html</loc><lastmod>2026-10-02</lastmod><priority>0.7</priority></url>
@@ -5832,6 +5844,7 @@
   <url><loc>https://the-signal.id/topik/sukuk-ijarah.html</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/peringkat-kredit.html</loc><lastmod>2026-10-26</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/arkora-hydro.html</loc><lastmod>2026-10-26</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/logistik.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/tapg.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/sawit.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/bahlil-lahadalia.html</loc><lastmod>2026-10-29</lastmod><priority>0.7</priority></url>
@@ -5840,7 +5853,6 @@
   <url><loc>https://the-signal.id/topik/komite-audit.html</loc><lastmod>2026-10-19</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/purbaya-yudhi-sadewa.html</loc><lastmod>2026-09-22</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/pelayaran.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/logistik.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/restrukturisasi.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/kementerian-perdagangan.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/pertumbuhan-ekonomi.html</loc><lastmod>2026-10-29</lastmod><priority>0.7</priority></url>
@@ -5959,6 +5971,7 @@
   <url><loc>https://the-signal.id/topik/rhb-sekuritas.html</loc><lastmod>2026-10-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/pihps.html</loc><lastmod>2026-09-28</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/gempa-ntt.html</loc><lastmod>2026-09-04</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/laporan-keuangan-kuartal-iii.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/defisiensi-modal.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/unsp.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/kinerja-emiten.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
@@ -6000,7 +6013,6 @@
   <url><loc>https://the-signal.id/topik/medc.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/gaikindo.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/perkebunan.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/laporan-keuangan-kuartal-iii.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/cani.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/stock-split.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/beras.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
@@ -6029,6 +6041,7 @@
   <url><loc>https://the-signal.id/topik/asbi.html</loc><lastmod>2026-10-05</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/mice.html</loc><lastmod>2026-10-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/ntt.html</loc><lastmod>2026-09-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/part.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/swat.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/pidl.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/jpfa.html</loc><lastmod>2026-11-02</lastmod><priority>0.7</priority></url>
@@ -6084,9 +6097,9 @@
   <url><loc>https://the-signal.id/arsip/16.html</loc><lastmod>2026-09-11</lastmod><priority>0.5</priority></url>
   <url><loc>https://the-signal.id/arsip/17.html</loc><lastmod>2026-09-08</lastmod><priority>0.5</priority></url>
   <url><loc>https://the-signal.id/arsip/18.html</loc><lastmod>2026-09-04</lastmod><priority>0.5</priority></url>
-  <url><loc>https://the-signal.id/arsip/19.html</loc><lastmod>2026-09-01</lastmod><priority>0.5</priority></url>
-  <url><loc>https://the-signal.id/arsip/20.html</loc><lastmod>2026-08-27</lastmod><priority>0.5</priority></url>
-  <url><loc>https://the-signal.id/arsip/21.html</loc><lastmod>2026-08-21</lastmod><priority>0.5</priority></url>
+  <url><loc>https://the-signal.id/arsip/19.html</loc><lastmod>2026-09-02</lastmod><priority>0.5</priority></url>
+  <url><loc>https://the-signal.id/arsip/20.html</loc><lastmod>2026-08-28</lastmod><priority>0.5</priority></url>
+  <url><loc>https://the-signal.id/arsip/21.html</loc><lastmod>2026-08-22</lastmod><priority>0.5</priority></url>
   <url><loc>https://the-signal.id/arsip/22.html</loc><lastmod>2026-08-18</lastmod><priority>0.5</priority></url>
   <url><loc>https://the-signal.id/arsip/23.html</loc><lastmod>2026-08-12</lastmod><priority>0.5</priority></url>
   <url><loc>https://the-signal.id/arsip-tayangan/2.html</loc><priority>0.4</priority></url>

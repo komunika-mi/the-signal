@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "irsx-jawab-bei-soal-koreksi-laporan-keuangan-kuartal-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Jawab BEI soal [Koreksi] Laporan Keuangan Kuartal I 2026",
+  "deck": "Folago Global Nusantara menjelaskan ke BEI sejumlah koreksi laporan keuangan kuartal I 2026, termasuk reklasifikasi piutang pemegang saham dan status pihak berelasi atas piutang Rp111,76 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IRSX",
+   "laporan keuangan",
+   "BEI",
+   "pihak berelasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9b3707cea_93ba597a0f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lrna-catat-rugi-rp20-97-miliar-dalam-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "LRNA Catat [Rugi] Rp20,97 Miliar dalam 9 Bulan 2026",
+  "deck": "Pendapatan Lorena Transport turun 23 persen dan kas menipis, sementara rugi bersih sembilan bulan tercatat Rp20,97 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LRNA",
+   "laporan keuangan",
+   "rugi bersih",
+   "transportasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102215553-65250-0/FinancialStatement-2026-III-LRNA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pura-laba-naik-86-kas-susut-tajam-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "PURA: Laba Naik 86%, [Kas] Susut Tajam Kuartal III 2026",
+  "deck": "Laba bersih PT Putra Rajawali Kencana melonjak 86 persen jadi Rp8,16 miliar di kuartal III 2026, tapi kas perusahaan susut dari Rp21,8 miliar menjadi Rp915 juta.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PURA",
+   "laporan keuangan",
+   "arus kas",
+   "logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102213031-65567-0/FinancialStatement-2026-III-PURA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "anjt-jawab-bei-soal-karhutla-klaim-belum-ada-sanksi",
+  "category": "Aksi Korporasi",
+  "title": "ANJT Jawab BEI soal [Karhutla], Klaim Belum Ada Sanksi",
+  "deck": "ANJT menanggapi permintaan penjelasan lanjutan BEI soal kebakaran hutan di Kalimantan Barat dan penyelidikan otoritas Singapura terhadap First Resources Limited.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANJT",
+   "Karhutla",
+   "BEI",
+   "NEA Singapura"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ca27f6707a_663692afeb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "diva-catat-rugi-rp34-2-miliar-pada-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "DIVA Catat [Rugi] Rp34,2 Miliar pada Kuartal III 2026",
+  "deck": "Distribusi Voucher Nusantara membukukan rugi bersih Rp34,2 miliar untuk sembilan bulan 2026, berbalik dari laba Rp22,25 miliar tahun lalu, dipicu rugi investasi dan penjualan yang turun.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DIVA",
+   "laporan keuangan kuartal III",
+   "rugi bersih",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102211648-65512-0/FinancialStatement-2026-III-DIVA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "part-catat-pendapatan-naik-23-laba-bersih-stagnan",
+  "category": "Aksi Korporasi",
+  "title": "PART Catat Pendapatan Naik 23%, Laba Bersih [Stagnan]",
+  "deck": "Pendapatan PT Cipta Perdana Lancar Tbk tumbuh 23 persen di sembilan bulan 2026, tapi laba bersih hanya naik 2,6 persen karena beban bunga melonjak dan saham beredar bertambah.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PART",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102211838-65665-0/FinancialStatement-2026-III-PART.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "part-rencanakan-rights-issue-1-miliar-saham-baru-rupslb-9-desember",
+  "category": "Aksi Korporasi",
+  "title": "PART Rencanakan Rights Issue [1 Miliar] Saham Baru, RUPSLB 9 Desember",
+  "deck": "Cipta Perdana Lancar berencana menerbitkan hingga 1 miliar saham baru lewat rights issue untuk modal kerja, menunggu persetujuan RUPSLB 9 Desember 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PART",
+   "rights issue",
+   "HMETD",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b81aeaf29c_c9fb307054.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aset-data-melonjak-29-utang-bank-pendek-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "[Aset] DATA Melonjak 29%, Utang Bank Pendek Menyusut",
+  "deck": "Total aset Remala Abadi naik 29% dalam sembilan bulan jadi Rp1,3 triliun, sementara utang bank jangka pendek turun hampir separuh, memicu keterbukaan informasi wajib ke bursa.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DATA",
+   "laporan keuangan",
+   "telekomunikasi",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102210029-65677-0/FinancialStatement-2026-III-DATA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "npgf-bukukan-laba-naik-tapi-utang-bank-melonjak-87-9",
+  "category": "Aksi Korporasi",
+  "title": "NPGF Bukukan Laba Naik, tapi [Utang Bank] Melonjak 87,9%",
+  "deck": "Produsen pupuk NPGF membukukan kenaikan penjualan dan laba pada sembilan bulan 2026, namun utang bank jangka pendek melonjak 87,9% dan arus kas operasionalnya negatif Rp88,54 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NPGF",
+   "laporan keuangan",
+   "utang bank",
+   "pupuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102205358-65698-0/FinancialStatement-2026-III-NPGF.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-turki-jajaki-pta-target-dagang-us-10-miliar",
   "category": "Global",
   "title": "Indonesia-Turki Jajaki [PTA], Target Dagang US$10 Miliar",
@@ -6332,151 +6476,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475323-menperin-sarmuji-minta-produsen-jaga-gula-rafinasi-agar-tak-rembes-ke-pasaran"
- },
- {
-  "slug": "honda-hr-v-teratas-di-penjualan-suv-ringkas-2026",
-  "category": "Industri",
-  "title": "Honda HR-V [Teratas] di Penjualan SUV Ringkas 2026",
-  "deck": "Honda HR-V memimpin penjualan SUV ringkas Januari-September 2026 dengan 4.736 unit atau 24,1 persen pasar, disusul ketat oleh Xforce, Creta, Yaris Cross, dan Tiggo Cross.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/honda-hr-v-teratas-di-penjualan-suv-ringkas-2026.jpg",
-  "imageV": "mvqvzzkq",
-  "tags": [
-   "GAIKINDO",
-   "Honda HR-V",
-   "SUV ringkas",
-   "hybrid"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/penjualan-suv-ringkas-september-2026-hr-v-dan-xforce-di-atas/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "konsumsi-ri-tumbuh-5-pemerintah-soroti-lonjakan-belanja-online",
-  "category": "Makroekonomi",
-  "title": "Konsumsi RI Tumbuh 5%, Pemerintah Soroti Lonjakan Belanja [Online]",
-  "deck": "Pemerintah menyebut konsumsi rumah tangga tumbuh di atas 5 persen pada kuartal II 2026, didorong pergeseran belanja ke platform online dan pemerataan pertumbuhan di 17 provinsi.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/keranjang-belanja-ibu.jpg",
-  "tags": [
-   "konsumsi rumah tangga",
-   "belanja online",
-   "pertumbuhan ekonomi daerah",
-   "inflasi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7187/pemerintah-perkuat-daya-beli-masyarakat-dan-jaga-stabilitas-ekonomi-di-tengah-dinamika-global",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "dagang-ri-as-tembus-us-32-34-miliar-investasi-as-naik",
-  "category": "Global",
-  "title": "Dagang RI-AS [Tembus] US$32,34 Miliar, Investasi AS Naik",
-  "deck": "Menko Airlangga dan US-ASEAN Business Council membahas penguatan dagang dan investasi RI-AS, dengan nilai perdagangan naik 11,82 persen dan investasi AS tembus US$3,4 miliar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/kapal-batubara.jpg",
-  "tags": [
-   "perdagangan RI-AS",
-   "investasi asing",
-   "Kemenko Perekonomian",
-   "Section 301"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7188/indonesia-as-perkuat-kemitraan-ekonomi-menko-airlangga-dorong-investasi-bernilai-tambah",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "bi-dan-apuvindo-susun-empat-prioritas-pasar-uang-valas-2027",
-  "category": "Moneter",
-  "title": "BI dan APUVINDO Susun [Empat] Prioritas Pasar Uang-Valas 2027",
-  "deck": "Bank Indonesia, OJK, dan APUVINDO menyusun empat prioritas pengembangan pasar uang dan valas menjelang 2027, termasuk bank kliring Renminbi dan akses lindung nilai investor asing.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/konpers-bank.jpg",
-  "tags": [
-   "Bank Indonesia",
-   "APUVINDO",
-   "Pasar Uang",
-   "Renminbi"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823726.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "lapd-terbitkan-2-miliar-saham-baru-dibayar-saham-tambang-inbreng",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Terbitkan 2 Miliar Saham Baru, Dibayar Saham Tambang [Inbreng]",
-  "deck": "LAPD akan menerbitkan hingga 2 miliar saham baru lewat rights issue; pengendali JSI membayar hak sahamnya pakai saham tambang batu bara, bukan uang tunai.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "rights issue",
-   "HMETD",
-   "tambang batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4621dcab4a_79929ad8d2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "antm-laba-bersih-9m26-tumbuh-46-jadi-rp9-66-triliun",
-  "category": "Aksi Korporasi",
-  "title": "ANTM: Laba Bersih 9M26 [Tumbuh] 46% Jadi Rp9,66 Triliun",
-  "deck": "PT ANTAM membukukan laba bersih Rp9,66 triliun pada sembilan bulan pertama 2026, naik 46%, ditopang penjualan emas dan nikel yang tumbuh dua digit.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANTM",
-   "laba bersih",
-   "pertambangan",
-   "emas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4f2ed157e5_2d4734d3b5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bach-aset-naik-88-usai-ipo-arus-kas-operasi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "BACH: Aset Naik 88% Usai IPO, Arus Kas Operasi [Negatif]",
-  "deck": "Total aset BACH melonjak 88,41 persen jadi Rp2,32 triliun pascapenambahan utang bank dan IPO, sementara arus kas operasi tercatat negatif Rp400,13 miliar.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BACH",
-   "laporan keuangan",
-   "IPO",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027215533-65099-0/FinancialStatement-2026-III-BACH.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asli-catat-laba-rp5-8-miliar-aset-naik-47-per-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "ASLI Catat [Laba] Rp5,8 Miliar, Aset Naik 47% per September 2026",
-  "deck": "Laporan kuartal III 2026 Asri Karya Lestari menunjukkan laba berbalik dari rugi, ditopang proyek baru, meski liabilitas ikut melonjak tajam.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASLI",
-   "laporan keuangan",
-   "konstruksi",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027210115-64662-0/FinancialStatement-2026-III-ASLI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-terbitkan-502-8-juta-saham-baru-ke-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "BIPP Terbitkan 502,8 Juta Saham Baru ke [Afiliasi]",
-  "deck": "BIPP menerbitkan 502.866.937 saham baru seharga Rp200 per saham kepada dua pihak terafiliasi, menghimpun dana Rp100,57 miliar tanpa mengubah pengendalian perusahaan.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "PMTHMETD",
-   "Dilusi Saham",
-   "Transaksi Afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2caa95deda_65489187d2.pdf",
-  "sourceLabel": "IDX"
  }
 ];

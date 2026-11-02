@@ -3,6 +3,242 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "irsx-jawab-bei-soal-koreksi-laporan-keuangan-kuartal-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Jawab BEI soal [Koreksi] Laporan Keuangan Kuartal I 2026",
+  "deck": "Folago Global Nusantara menjelaskan ke BEI sejumlah koreksi laporan keuangan kuartal I 2026, termasuk reklasifikasi piutang pemegang saham dan status pihak berelasi atas piutang Rp111,76 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T21:35:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9b3707cea_93ba597a0f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRSX",
+  "tags": [
+   "IRSX",
+   "laporan keuangan",
+   "BEI",
+   "pihak berelasi"
+  ],
+  "body": [
+   "PT Folago Global Nusantara Tbk (IRSX) menjawab permintaan penjelasan Bursa Efek Indonesia atas surat nomor S-13462/BEI.PP2/10-2026 tertanggal 28 Oktober 2026, melalui surat balasan nomor 159/IRSX-BEI/XI/2026 pada 2 November 2026. Perseroan mengoreksi dua pos dalam laporan keuangan per 31 Maret 2026. Pertama, biaya sebesar Rp1.767.575.000 yang sebelumnya dicatat sebagai pengurang Tambahan Modal Disetor dipindahkan menjadi Biaya Emisi Ditangguhkan, karena rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I, sering disebut rights issue) belum mendapat izin efektif dari OJK sehingga belum ada saham baru yang terbit. Akibatnya, saldo Biaya Emisi Ditangguhkan naik dari Rp205 juta menjadi Rp1,97 miliar, sementara Tambahan Modal Disetor kembali ke Rp177,38 miliar, sama seperti posisi akhir 2025. Perseroan menegaskan koreksi ini tidak mengubah laba rugi maupun jumlah kas. Kedua, dana Rp9.583.743.947 yang diterima dari pelanggan PT Media Kreasi Agency pada kuartal I 2026 ternyata salah dibukukan sebagai Utang Pemegang Saham, padahal seharusnya menjadi pelunasan piutang usaha. Setelah dikoreksi, Utang Pemegang Saham kembali ke Rp550 juta dan penerimaan kas dari pelanggan pada laporan arus kas naik dari Rp54,1 miliar menjadi Rp63,68 miliar.",
+   "Bursa juga mempertanyakan status piutang Rp111.759.457.964 dari PT Sinergi Aplikasi Akurat (SAA), yang disajikan sebagai piutang pihak ketiga meski SAA merupakan anak usaha PT Solusi Sinergi Digital Tbk (WIFI), yang salah satu komisarisnya, Fadel Muhammad, menjabat sebagai advisor Folago. Perseroan berargumen Fadel Muhammad bukan anggota direksi atau komisaris Folago, tidak memiliki saham Folago maupun pemegang saham pengendalinya, PT Matra Tri Abadi, sehingga posisinya tidak memenuhi definisi pihak berelasi menurut PSAK 224 maupun definisi afiliasi dalam POJK 42/2020. Perseroan menambahkan bahwa saldo piutang SAA per 30 Juni 2026 sebesar Rp108.211.374.116 telah dilunasi seluruhnya pada 23 Juli 2026.",
+   "Perseroan juga meralat jawaban sebelumnya terkait uang muka pembelian aset tetap sebesar Rp33,2 miliar, yang sempat tersertai rincian persediaan akibat kesalahan pengetikan. Rincian yang benar meliputi tiga transaksi: uang muka Rp7 miliar dari total kontrak Rp14 miliar untuk perangkat studio ke PT Lintas Daya Andalan, uang muka Rp25 miliar dari kontrak Rp50 miliar untuk perangkat live streaming ke PT Berkat Anugerah Investindo, dan deposit Rp1,2 miliar untuk perangkat education device ke PT Hidayah Insan Mulia yang berstatus pihak berelasi. Saldo ini belum berubah sejak akhir 2025 karena belum ada aset yang diserahterimakan vendor. Perseroan menargetkan seluruh aset tetap ini diterima dan transaksi selesai paling lambat akhir 2026, dengan kendala berupa penyesuaian spesifikasi dan jadwal produksi di pihak vendor.",
+   "Selain itu, Perseroan mengakui masih ada perbedaan pencatatan beban pokok pendapatan segmen Peranti Lunak IRS antara dua catatan laporan keuangan, yakni Rp8.589.260.657 berbanding Rp8.554.384.919, akibat perbedaan pengelompokan biaya amortisasi aset takberwujud. Setelah direklasifikasi, total beban pokok pendapatan di kedua catatan tetap sama, yaitu Rp152,13 miliar, dengan rincian segmen produk digital Rp103,77 miliar, peranti lunak IRS Rp8,59 miliar, dan pemasaran digital Rp39,77 miliar. Perseroan juga mengakui adanya ketidaksesuaian angka antara versi bahasa Indonesia dan Inggris pada bagian penyusutan aset tetap, yang disebabkan versi bahasa Inggris belum diperbarui dari laporan keuangan akhir 2025."
+  ],
+  "fotoAdegan": "Technicians installing camera rigs and lighting equipment inside a modern live-streaming production studio, daytime interior lighting, cables neatly organized.",
+  "takeaway": "Rangkaian jawaban ini condong negatif bagi Folago, bukan karena nilai uangnya mengguncang kas atau laba, melainkan karena berulangnya kesalahan pencatatan dalam waktu singkat, dari salah membukukan penerimaan pelanggan sebagai utang pemegang saham, kesalahan pengetikan pada jawaban sebelumnya, sampai angka yang tidak konsisten antar catatan laporan keuangan. Yang tersentuh adalah pos ekuitas, yaitu Tambahan Modal Disetor atau dana tambahan dari pemegang saham di luar modal dasar yang sempat keliru berkurang sebelum dikembalikan ke posisi semula, serta pos arus kas dari kegiatan usaha sehari-hari yang naik akibat reklasifikasi penerimaan pelanggan. Pasar memperhatikan dua pos ini karena mencerminkan seberapa kuat modal dan kas yang benar-benar dihasilkan dari operasi perusahaan, bukan dari utang atau suntikan dana lain. Yang perlu dipantau selanjutnya adalah apakah OJK memberi pernyataan efektif untuk rencana rights issue PMHMETD I, karena biaya yang ditangguhkan saat ini baru akan mengurangi modal bila penerbitan saham baru benar terjadi, serta apakah Folago benar-benar menuntaskan pembelian tiga perangkat studio dan live streaming senilai total Rp64 miliar itu sebelum akhir 2026 seperti yang dijanjikan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lrna-catat-rugi-rp20-97-miliar-dalam-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "LRNA Catat [Rugi] Rp20,97 Miliar dalam 9 Bulan 2026",
+  "deck": "Pendapatan Lorena Transport turun 23 persen dan kas menipis, sementara rugi bersih sembilan bulan tercatat Rp20,97 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T21:29:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102215553-65250-0/FinancialStatement-2026-III-LRNA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LRNA",
+  "tags": [
+   "LRNA",
+   "laporan keuangan",
+   "rugi bersih",
+   "transportasi"
+  ],
+  "body": [
+   "PT Eka Sari Lorena Transport Tbk (LRNA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 2 November 2026. Laporan ditandatangani Direktur Utama Soerbakti G.T. dan Direktur Dwi Rianta Soerbakti, dengan surat pernyataan direksi bertanggal 29 Oktober 2026.",
+   "Pendapatan perusahaan bus antar kota ini tercatat Rp36,36 miliar sepanjang sembilan bulan 2026, turun dari Rp47,42 miliar pada periode yang sama tahun lalu, penurunan sekitar 23 persen. Meski demikian, rugi bersih justru menyempit menjadi Rp20,97 miliar dari Rp22,49 miliar tahun sebelumnya, karena beban pendapatan langsung turun lebih dalam dibanding pendapatan. Rugi per saham tercatat Rp59,93, dari sebelumnya Rp64,25 per saham.",
+   "Dari sisi kas, posisi kas dan bank perusahaan turun menjadi Rp384,89 juta pada akhir September 2026 dari Rp609,05 juta pada akhir 2025. Arus kas yang terpakai untuk kegiatan operasi melebar hampir dua kali lipat menjadi Rp12,48 miliar dari Rp6,50 miliar, dan kekurangan itu ditambal dengan penerimaan dari pihak berelasi sebesar Rp12,62 miliar. Total ekuitas perusahaan ikut tergerus menjadi Rp245,77 miliar dari Rp266,74 miliar pada akhir 2025, sejalan dengan akumulasi rugi yang terus bertambah."
+  ],
+  "fotoAdegan": "Several intercity buses parked at a terminal at dawn, drivers checking tires and luggage compartments, soft morning mist",
+  "takeaway": "Laporan ini condong negatif bagi LRNA karena pendapatan turun tajam, kas perusahaan menipis, dan kebutuhan kas operasional justru ditutup dengan suntikan dari pihak berelasi, bukan dari hasil usaha sendiri. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang perusahaan yang jadi milik pemegang saham, yang terus mengecil karena rugi yang berulang menggerus modal dari tahun ke tahun. Arus kas operasi, yaitu uang yang benar-benar masuk dan keluar dari aktivitas bisnis sehari-hari, juga memburuk karena defisitnya melebar hampir dua kali lipat dibanding periode yang sama tahun lalu. Satu sisi baiknya, rugi bersih sebenarnya sedikit menyempit dibanding tahun lalu karena perusahaan berhasil memangkas beban langsung. Yang perlu dipantau berikutnya adalah apakah tren pendapatan yang menyusut ini berlanjut di laporan tahunan auditan 2026, dan apakah pasokan dana dari pihak berelasi tetap tersedia untuk menambal kas operasional yang terus menipis.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pura-laba-naik-86-kas-susut-tajam-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "PURA: Laba Naik 86%, [Kas] Susut Tajam Kuartal III 2026",
+  "deck": "Laba bersih PT Putra Rajawali Kencana melonjak 86 persen jadi Rp8,16 miliar di kuartal III 2026, tapi kas perusahaan susut dari Rp21,8 miliar menjadi Rp915 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T21:23:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102213031-65567-0/FinancialStatement-2026-III-PURA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PURA",
+  "tags": [
+   "PURA",
+   "laporan keuangan",
+   "arus kas",
+   "logistik"
+  ],
+  "body": [
+   "PT Putra Rajawali Kencana Tbk (PURA) menyampaikan laporan keuangan interim tidak diaudit untuk sembilan bulan yang berakhir 30 September 2026. Pendapatan neto naik 6,8 persen menjadi Rp306,47 miliar dari Rp286,92 miliar pada periode yang sama tahun lalu. Laba bersih melonjak 86 persen, dari Rp4,37 miliar menjadi Rp8,16 miliar, sehingga laba per saham naik dari Rp0,69 menjadi Rp1,29. Beban bunga ikut turun dari Rp14,87 miliar menjadi Rp9,20 miliar, yang ikut mendorong laba.",
+   "Di balik kenaikan laba itu, kas dan bank perusahaan justru menyusut drastis dari Rp21,81 miliar pada akhir 2025 menjadi hanya Rp914,76 juta pada akhir September 2026. Penyebabnya, arus kas dari aktivitas operasi berbalik menjadi negatif Rp31,34 miliar, dari sebelumnya positif Rp22,44 miliar. Uang kas yang benar-benar diterima dari pelanggan pun turun, dari Rp271,44 miliar menjadi Rp232,14 miliar, meski pendapatan di atas kertas naik. Dalam surat penjelasan kepada Bursa Efek Indonesia yang ditandatangani Direktur Utama Ariel Wibisono tanggal 31 Oktober 2026, perseroan mengungkapkan piutang usaha pihak ketiga naik Rp74,33 miliar atau 42,99 persen menjadi Rp247,22 miliar, yang menurut perseroan merupakan hasil kegiatan operasional. Persediaan suku cadang juga naik 354,78 persen, meski nilainya kecil, dari Rp139,93 juta menjadi Rp636,35 juta.",
+   "Di sisi liabilitas, utang usaha kepada pemasok pihak ketiga turun 28,58 persen atau Rp98,46 juta menjadi Rp246,07 juta karena perseroan melunasi pembayaran ke pemasok. Sebaliknya, perseroan menambah utang pembiayaan baru senilai total Rp8,54 miliar, naik 100 persen dari nol, berupa fasilitas pembiayaan dari lembaga keuangan non-bank sesuai Catatan 13 laporan keuangan. Utang bank jangka pendek naik tipis menjadi Rp103,5 miliar dari Rp101 miliar. Jumlah ekuitas naik menjadi Rp518,11 miliar dari Rp509,95 miliar, dengan jumlah saham beredar tetap 6,30 miliar lembar tanpa penambahan saham baru."
+  ],
+  "fotoAdegan": "Rows of delivery trucks being loaded with palletized cargo at a logistics warehouse dock at dawn, workers checking shipments",
+  "takeaway": "Laporan ini condong negatif, karena laba yang terlihat besar di atas kertas tidak dibarengi uang kas yang benar-benar masuk ke kas perusahaan. Yang paling tersentuh adalah arus kas operasional, yaitu selisih uang tunai yang betul-betul diterima dan dikeluarkan dari kegiatan usaha sehari-hari, yang berbalik dari positif menjadi negatif Rp31,34 miliar karena makin banyak penjualan yang belum dibayar pelanggan dan masih mengendap sebagai piutang usaha. Sisi baiknya, beban bunga pinjaman turun dan jumlah saham beredar tidak bertambah sehingga kenaikan laba per saham tidak terdilusi. Yang perlu dipantau adalah laporan keuangan kuartal berikutnya, yakni laporan tahun penuh 2026 yang biasanya terbit akhir Februari 2027, untuk melihat apakah arus kas operasional kembali positif atau perseroan harus terus menambah utang pembiayaan untuk menambal kas yang menipis.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "anjt-jawab-bei-soal-karhutla-klaim-belum-ada-sanksi",
+  "category": "Aksi Korporasi",
+  "title": "ANJT Jawab BEI soal [Karhutla], Klaim Belum Ada Sanksi",
+  "deck": "ANJT menanggapi permintaan penjelasan lanjutan BEI soal kebakaran hutan di Kalimantan Barat dan penyelidikan otoritas Singapura terhadap First Resources Limited.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T21:21:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ca27f6707a_663692afeb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANJT",
+  "tags": [
+   "ANJT",
+   "Karhutla",
+   "BEI",
+   "NEA Singapura"
+  ],
+  "body": [
+   "PT Austindo Nusantara Jaya Tbk (ANJT) menyampaikan tanggapan atas surat lanjutan Bursa Efek Indonesia Nomor S-13494/BEI.PP1/10-2026 perihal permintaan penjelasan terkait kebakaran hutan dan lahan (Karhutla). Dalam surat bernomor 064-11/CS/ANJ/2026 itu, ANJT menjelaskan bahwa National Environment Agency (NEA) Singapura mengirimkan pemberitahuan kepada First Resources Limited (FRL) pada 23 Oktober 2026, meminta dokumen dan informasi berdasarkan Pasal 10 ayat 1 Transboundary Haze Pollution Act 2014. Perseroan menegaskan pemberitahuan tersebut ditujukan langsung kepada FRL, bukan kepada ANJT atau anak usahanya, namun Perseroan berkoordinasi dengan FRL untuk menyediakan dokumen dan informasi yang relevan dengan permintaan NEA tersebut.",
+   "Terkait kejadian Karhutla di Kalimantan Barat, ANJT menyebut salah satu anak usahanya telah bekerja sama dengan instansi pemerintah yang berwenang dalam memberikan keterangan dan data lapangan. Sampai tanggal surat ini disampaikan, Perseroan menyatakan belum ada sanksi atau denda yang dikenakan kepada ANJT maupun anak usahanya sehubungan dengan kejadian tersebut, dan belum ada risiko material yang teridentifikasi terhadap hubungan komersial maupun kegiatan usaha Perseroan.",
+   "Soal rencana amendemen Transboundary Haze Pollution Act di Singapura, ANJT menyatakan masih memantau pembahasan tersebut karena perubahan aturannya belum final. Dampaknya terhadap kegiatan usaha, aspek hukum, dan hubungan dengan pembeli akan dievaluasi setelah substansi akhir aturan tersebut berlaku. Perseroan juga menyatakan sampai saat ini belum ada kewajiban kontinjensi material yang perlu diungkapkan, provisi yang perlu diakui, maupun fakta material lain terkait isu Karhutla yang perlu disampaikan ke publik."
+  ],
+  "fotoAdegan": "Haze drifting over a palm oil plantation bordering cleared peatland in Kalimantan, workers checking drainage canals, overcast light",
+  "takeaway": "Laporan ini netral bagi ANJT, karena Perseroan menegaskan belum ada sanksi, denda, atau risiko material yang teridentifikasi dari penyelidikan otoritas Singapura, meski isu ini sudah dua kali ditanyakan BEI dalam waktu berdekatan. Pos yang tersentuh di sini adalah kewajiban kontinjensi dan provisi, yaitu cadangan dana yang baru wajib dicatat perusahaan kalau suatu saat benar ada denda atau tuntutan hukum yang terbukti; selama belum ada keputusan resmi dari otoritas, pos ini tetap nihil di laporan keuangan ANJT. Isu ini juga menyentuh hubungan dengan pembeli, sebab aturan pencemaran asap lintas batas yang lebih ketat bisa membuat pembeli produk sawit yang sensitif terhadap isu lingkungan lebih berhati hati. Yang perlu dipantau berikutnya adalah hasil penyelidikan NEA terhadap First Resources Limited serta bentuk final amendemen Transboundary Haze Pollution Act Singapura, karena keduanya menentukan apakah risiko ini tetap nihil atau berubah jadi beban nyata bagi ANJT. Mengingat BEI sudah mengajukan permintaan penjelasan untuk kedua kalinya soal isu yang sama, kemungkinan otoritas bursa masih belum puas dan bisa kembali meminta klarifikasi lanjutan di kemudian hari.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "diva-catat-rugi-rp34-2-miliar-pada-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "DIVA Catat [Rugi] Rp34,2 Miliar pada Kuartal III 2026",
+  "deck": "Distribusi Voucher Nusantara membukukan rugi bersih Rp34,2 miliar untuk sembilan bulan 2026, berbalik dari laba Rp22,25 miliar tahun lalu, dipicu rugi investasi dan penjualan yang turun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T21:07:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102211648-65512-0/FinancialStatement-2026-III-DIVA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DIVA",
+  "tags": [
+   "DIVA",
+   "laporan keuangan kuartal III",
+   "rugi bersih",
+   "utang bank"
+  ],
+  "body": [
+   "PT Distribusi Voucher Nusantara Tbk (DIVA) melaporkan rugi bersih Rp34,2 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari laba bersih Rp22,25 miliar pada periode yang sama tahun lalu. Penjualan neto perusahaan turun dari Rp2,61 triliun menjadi Rp2,12 triliun, sementara laba kotor relatif stabil di Rp115,1 miliar. Laba usaha anjlok dari Rp13,9 miliar menjadi Rp5,4 miliar karena beban penjualan naik dari Rp5,6 miliar menjadi Rp8,2 miliar, sedangkan beban umum dan administrasi relatif tetap di kisaran Rp100 miliar hingga Rp101,5 miliar.",
+   "Penyebab utama rugi periode ini bukan dari operasional, melainkan dari pos investasi. DIVA membukukan rugi investasi lainnya sebesar Rp40,9 miliar, berbalik dari untung Rp10,6 miliar pada periode yang sama tahun lalu, yang membuat total penghasilan lain-lain perusahaan berubah dari untung Rp13,1 miliar menjadi rugi Rp35,9 miliar. Setelah dikurangi pajak Rp3,7 miliar, rugi bersih yang dapat diatribusikan kepada pemilik entitas induk mencapai Rp36 miliar, membuat rugi per saham tercatat Rp25,74, berbalik dari laba per saham Rp11,60 pada periode sebelumnya.",
+   "Di sisi laporan posisi keuangan, total aset DIVA turun dari Rp737,76 miliar pada akhir 2025 menjadi Rp714,07 miliar pada akhir September 2026. Total ekuitas ikut turun dari Rp703,92 miliar menjadi Rp669,93 miliar seiring rugi yang tercatat, sehingga defisit saldo laba melebar dari Rp25,12 miliar menjadi Rp61,16 miliar. Sebaliknya, total liabilitas melonjak 30,4 persen dari Rp33,84 miliar menjadi Rp44,13 miliar, yang menurut penjelasan resmi perusahaan ke OJK terutama disebabkan oleh kenaikan utang bank jangka pendek dari Rp2,47 miliar menjadi Rp12,17 miliar."
+  ],
+  "fotoAdegan": "Warehouse workers scanning barcodes on small retail packaging boxes moving along a conveyor belt, forklift passing under warehouse lighting",
+  "takeaway": "Laporan ini condong negatif bagi DIVA, karena kinerjanya berbalik dari laba menjadi rugi dalam sembilan bulan, didorong penjualan yang menyusut dan rugi investasi Rp40,9 miliar, bukan sekadar koreksi kecil yang bisa diabaikan. Pos yang paling tersentuh adalah ekuitas, yang turun dari Rp703,9 miliar menjadi Rp669,9 miliar karena rugi bersih langsung memotong modal pemegang saham, dan laba per saham yang berbalik dari untung Rp11,60 menjadi rugi Rp25,74 per saham, ukuran yang dipakai investor untuk membandingkan profitabilitas antar periode. Total utang perusahaan juga melonjak 30,4 persen karena pinjaman bank jangka pendek naik hampir lima kali lipat, sampai Perseroan wajib mengirim surat penjelasan terpisah ke OJK karena aturan bursa mewajibkan keterangan kalau ada pos laporan keuangan yang berubah lebih dari 20 persen. Yang perlu dipantau berikutnya adalah apakah pinjaman bank jangka pendek ini terus bertambah atau mulai dilunasi pada laporan kuartal mendatang, serta apakah rugi investasi yang jadi penyebab utama kerugian periode ini bersifat sementara atau berulang.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "part-catat-pendapatan-naik-23-laba-bersih-stagnan",
+  "category": "Aksi Korporasi",
+  "title": "PART Catat Pendapatan Naik 23%, Laba Bersih [Stagnan]",
+  "deck": "Pendapatan PT Cipta Perdana Lancar Tbk tumbuh 23 persen di sembilan bulan 2026, tapi laba bersih hanya naik 2,6 persen karena beban bunga melonjak dan saham beredar bertambah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T21:07:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102211838-65665-0/FinancialStatement-2026-III-PART.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PART",
+  "tags": [
+   "PART",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "utang bank"
+  ],
+  "body": [
+   "PT Cipta Perdana Lancar Tbk (PART) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan produsen komponen otomotif ini tercatat Rp275,33 miliar, naik 23,07 persen dari Rp223,72 miliar pada periode yang sama tahun 2025. Laba usaha naik 16,5 persen menjadi Rp28,20 miliar dan EBITDA melonjak 33,4 persen menjadi Rp56,24 miliar. Namun laba bersih hanya naik 2,61 persen menjadi Rp17,29 miliar dari Rp16,85 miliar, karena beban keuangan membengkak 41,4 persen menjadi Rp11,94 miliar akibat penambahan utang bank jangka panjang. Laba per saham dasar nyaris tidak berubah, dari Rp6,19 menjadi Rp6,20.",
+   "Total aset perusahaan per 30 September 2026 mencapai Rp422,51 miliar, naik 25,85 persen dari Rp335,71 miliar pada akhir 2025. Sementara itu, total liabilitas melonjak 42,17 persen menjadi Rp214,48 miliar dari Rp150,86 miliar. Dalam surat penjelasan kepada Otoritas Jasa Keuangan tertanggal 30 Oktober 2026 yang ditandatangani Direktur Utama Hamim, manajemen menyebut kenaikan aset didorong oleh bertambahnya piutang usaha seiring pertumbuhan penjualan serta penambahan mesin produksi baru, sementara kenaikan liabilitas berasal dari tambahan pinjaman bank jangka panjang, yang saldonya naik dari Rp99,15 miliar menjadi Rp145,61 miliar, untuk membiayai pembelian mesin tersebut. Selama sembilan bulan, perusahaan mencairkan pinjaman bank jangka panjang baru senilai Rp89,65 miliar dan membelanjakan Rp91,10 miliar untuk perolehan aset tetap, naik dari Rp73,31 miliar pada periode yang sama tahun lalu.",
+   "Di sisi ekuitas, jumlah saham beredar bertambah dari 2.742.123.779 menjadi 2.850.594.054 lembar setelah pemegang Waran Seri I mengeksekusi haknya, menyuntik modal baru Rp11,93 miliar ke perusahaan dan membuat total ekuitas naik 12,54 persen menjadi Rp208,04 miliar. Dalam periode yang sama, perusahaan membagikan dividen Rp6,04 miliar, naik dari Rp4,65 miliar tahun sebelumnya. Arus kas dari aktivitas operasi tercatat positif Rp22,81 miliar, naik dari Rp18,11 miliar, sementara posisi kas dan bank di akhir periode mencapai Rp4,57 miliar."
+  ],
+  "fotoAdegan": "Factory workers operating metal-stamping machinery on an automotive components production line, sparks and industrial lighting inside the plant.",
+  "takeaway": "Catatan saya netral untuk laporan ini: pertumbuhan pendapatan dan EBITDA Cipta Perdana Lancar cukup kuat, tapi laba bersihnya nyaris tidak bergerak karena beban bunga melonjak 41 persen akibat tambahan utang bank jangka panjang, sementara jumlah saham beredar juga bertambah lewat pelaksanaan waran. Dua pos yang perlu diperhatikan pemegang saham: beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjamannya, yang naik signifikan karena perusahaan menambah utang bank untuk membeli mesin produksi baru, dan laba per saham, yang nyaris stagnan dari Rp6,19 menjadi Rp6,20 karena jumlah saham beredar bertambah 108,5 juta lembar, sehingga keuntungan perusahaan kini terbagi ke lebih banyak lembar saham. Yang perlu dipantau berikutnya adalah apakah tambahan kapasitas produksi dari mesin baru ini bisa mendorong penjualan lebih tinggi di kuartal berikutnya sehingga mengimbangi kenaikan beban bunga, dan agenda RUPSLB yang akan digelar perusahaan pada 9 Desember 2026, yang hingga kini belum diumumkan isinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "part-rencanakan-rights-issue-1-miliar-saham-baru-rupslb-9-desember",
+  "category": "Aksi Korporasi",
+  "title": "PART Rencanakan Rights Issue [1 Miliar] Saham Baru, RUPSLB 9 Desember",
+  "deck": "Cipta Perdana Lancar berencana menerbitkan hingga 1 miliar saham baru lewat rights issue untuk modal kerja, menunggu persetujuan RUPSLB 9 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T21:05:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b81aeaf29c_c9fb307054.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PART",
+  "tags": [
+   "PART",
+   "rights issue",
+   "HMETD",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Cipta Perdana Lancar Tbk (PART) menyampaikan keterbukaan informasi, koreksi atas surat sebelumnya, mengenai rencana penambahan modal dengan memberikan hak memesan efek terlebih dahulu (HMETD) atau rights issue tahap pertama (PMHMETD I). Perseroan berencana menerbitkan maksimal 1 miliar saham baru dengan nilai nominal Rp25 per saham. Jumlah itu adalah batas maksimum saham dalam portepel sesuai modal dasar perusahaan per 31 Agustus 2026, sementara jumlah final saham yang diterbitkan, rasio HMETD, dan harga pelaksanaannya masih akan ditentukan kemudian dan baru diumumkan dalam prospektus.",
+   "Rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada 9 Desember 2026. Setelah mendapat restu RUPSLB, perseroan akan mengajukan pernyataan pendaftaran ke OJK, dengan batas waktu maksimal 12 bulan sejak tanggal persetujuan RUPSLB hingga pernyataan itu efektif. Berdasarkan laporan registrasi pemegang saham per 31 Agustus 2026, struktur kepemilikan PART saat ini adalah PT Cipta Investama Lancar 52,48 persen, Hamim selaku Direktur Utama 9,54 persen, Nenden Widiastuti selaku Komisaris 7,63 persen, Syamsiah selaku Komisaris Utama 1,91 persen, dan publik 28,44 persen, dari total 2.850.594.054 saham yang telah diterbitkan dan disetor penuh.",
+   "Seluruh dana yang diperoleh dari rights issue ini rencananya dipakai sebagai modal kerja, terutama untuk pembelian bahan baku, pembayaran kepada pemasok, biaya tenaga kerja, biaya produksi, dan distribusi. Perseroan menyebut penambahan modal ini diharapkan memperkuat struktur permodalan dan likuiditas serta mendukung kelangsungan produksi dan pemenuhan permintaan pelanggan. Bagi pemegang saham yang tidak melaksanakan haknya, kepemilikan mereka akan terdilusi karena jumlah saham beredar bertambah."
+  ],
+  "fotoAdegan": "Workers assembling small metal automotive components on an industrial production line, machinery and parts bins in the background",
+  "takeaway": "Catatan saya netral untuk rencana ini: suntikan modal kerja memang bisa membantu Cipta Perdana Lancar yang belakangan menanggung beban bunga yang melonjak, tapi penerbitan saham baru sampai 1 miliar lembar, atau sekitar 35 persen dari total saham yang sudah beredar, bisa menggerus porsi kepemilikan pemegang saham lama yang tidak ikut menebus haknya, sementara harga dan rasio pembagian hak belum ditetapkan sehingga besar dilusi sebenarnya belum bisa dipastikan. Yang tersentuh di sini adalah jumlah saham beredar, yang kalau bertambah sementara labanya tidak naik sebanding bisa membuat laba per saham mengecil, sedangkan di sisi lain dana segar ini juga menambah ekuitas dan likuiditas perusahaan sehingga kemampuan membiayai operasional dari kas sendiri, bukan dari utang berbunga, ikut membesar. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 9 Desember 2026, karena di situlah pemegang saham akan menyetujui atau menolak rencana ini, serta penerbitan prospektus setelahnya yang baru akan memuat harga pelaksanaan dan rasio HMETD yang pasti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aset-data-melonjak-29-utang-bank-pendek-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "[Aset] DATA Melonjak 29%, Utang Bank Pendek Menyusut",
+  "deck": "Total aset Remala Abadi naik 29% dalam sembilan bulan jadi Rp1,3 triliun, sementara utang bank jangka pendek turun hampir separuh, memicu keterbukaan informasi wajib ke bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T20:49:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102210029-65677-0/FinancialStatement-2026-III-DATA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DATA",
+  "tags": [
+   "DATA",
+   "laporan keuangan",
+   "telekomunikasi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Remala Abadi Tbk (DATA) menyampaikan koreksi laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Penyampaian ini disertai surat keterbukaan informasi bertanggal 29 Oktober 2026 yang ditandatangani Direktur Utama Agus Setiono, menjelaskan perubahan pos total aset dan total liabilitas perseroan yang melampaui 20 persen, ambang batas yang mewajibkan emiten memberi penjelasan resmi ke Bursa Efek Indonesia.",
+   "Total aset perseroan naik dari Rp1,007 triliun pada akhir 2025 menjadi Rp1,302 triliun pada 30 September 2026, bertambah sekitar Rp295 miliar atau 29,3 persen. Kenaikan terbesar berasal dari aset tetap yang naik dari Rp588,4 miliar menjadi Rp811,1 miliar, bertambah Rp222,7 miliar, sejalan dengan bisnis utama grup di infrastruktur telekomunikasi dan jaringan fiber. Piutang usaha pihak ketiga juga melonjak dari Rp17,65 miliar menjadi Rp51,27 miliar, sementara kas dan setara kas naik dari Rp24,26 miliar menjadi Rp31,47 miliar.",
+   "Di sisi liabilitas, utang bank jangka pendek turun dari Rp426,14 miliar menjadi Rp226,50 miliar, berkurang Rp199,64 miliar atau 46,9 persen. Utang usaha pihak ketiga juga turun dari Rp55,38 miliar menjadi Rp30,68 miliar, dan uang muka pelanggan jangka pendek merosot tajam dari Rp42,26 miliar menjadi hanya Rp4,67 miliar. Sebaliknya, utang pajak naik dari Rp14,52 miliar menjadi Rp18,83 miliar.",
+   "Dokumen ini juga memuat daftar tujuh anak usaha Remala Abadi, mayoritas bergerak di jasa telekomunikasi dan jaringan, dengan kepemilikan berkisar 51 persen hingga 99 persen. Dua di antaranya, PT Solusi Aplikasi Andalan Semesta dan PT Clara Dinamika Abadi, tercatat belum beroperasi secara komersial per laporan ini."
+  ],
+  "fotoAdegan": "Technicians installing fiber optic cables on utility poles along a busy Jakarta street in the afternoon",
+  "takeaway": "Laporan ini condong positif bagi Remala Abadi karena lonjakan total aset justru didominasi aset tetap yang produktif seperti infrastruktur jaringan, sementara utang bank jangka pendek yang harus segera dibayar malah menyusut hampir separuh. Pos yang tersentuh di sini adalah aset tetap dan piutang usaha, dua indikator yang dipakai pelaku pasar untuk menilai apakah ekspansi perusahaan benar-benar menghasilkan kapasitas produksi baru atau sekadar menumpuk tagihan yang belum terbayar, sementara turunnya utang bank jangka pendek berarti beban yang wajib dilunasi dalam waktu dekat berkurang sehingga risiko gagal bayar mendadak mengecil. Yang perlu dipantau berikutnya adalah laporan lengkap triwulan ini, termasuk rincian total liabilitas dan ekuitas yang belum tercakup dalam dokumen yang beredar, serta dari mana sebenarnya dana ekspansi aset sebesar Rp295 miliar ini berasal kalau bukan dari utang bank jangka pendek. Investor juga sebaiknya membandingkan angka koreksi ini dengan laporan interim yang pertama kali terbit akhir Oktober untuk melihat bagian mana yang direvisi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "npgf-bukukan-laba-naik-tapi-utang-bank-melonjak-87-9",
+  "category": "Aksi Korporasi",
+  "title": "NPGF Bukukan Laba Naik, tapi [Utang Bank] Melonjak 87,9%",
+  "deck": "Produsen pupuk NPGF membukukan kenaikan penjualan dan laba pada sembilan bulan 2026, namun utang bank jangka pendek melonjak 87,9% dan arus kas operasionalnya negatif Rp88,54 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T20:44:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102205358-65698-0/FinancialStatement-2026-III-NPGF.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NPGF",
+  "tags": [
+   "NPGF",
+   "laporan keuangan",
+   "utang bank",
+   "pupuk"
+  ],
+  "body": [
+   "PT Nusa Palapa Gemilang Tbk (NPGF), produsen pupuk majemuk berbasis di Gresik, menyampaikan koreksi laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan perusahaan naik dari Rp131,89 miliar menjadi Rp241,72 miliar dibanding periode yang sama tahun lalu, sementara laba bersih naik dari Rp4,04 miliar menjadi Rp4,51 miliar, dengan laba per saham naik dari Rp1,25 menjadi Rp1,39. Laporan ini juga memuat surat penjelasan resmi kepada OJK dan BEI karena total aset dan liabilitas perusahaan berubah lebih dari 20 persen dibanding akhir 2025, sehingga wajib dijelaskan sebabnya sesuai aturan bursa.",
+   "Total aset NPGF naik 31,5 persen menjadi Rp482,19 miliar, terutama didorong oleh piutang usaha pihak ketiga yang naik dari Rp159,32 miliar menjadi Rp215,66 miliar lewat pemanfaatan fasilitas Supply Chain Financing, yaitu skema pembiayaan piutang dari PT Bank Sinarmas Tbk, serta persediaan yang naik dari Rp84,28 miliar menjadi Rp169,07 miliar sebagai langkah mengantisipasi gejolak harga bahan baku. Di sisi lain, total liabilitas melonjak 87,9 persen menjadi Rp239,64 miliar, terutama karena penambahan fasilitas pinjaman bank jangka pendek dari Bank Sinarmas dengan plafon Rp213,02 miliar, ditambah utang usaha yang melompat dari Rp2,64 miliar menjadi Rp32,12 miliar.",
+   "Kas dan setara kas perusahaan justru menyusut dari Rp13,62 miliar menjadi Rp4,06 miliar pada akhir September 2026. Arus kas dari aktivitas operasional tercatat negatif Rp88,54 miliar, melebar jauh dari negatif Rp5,31 miliar pada periode yang sama tahun lalu, akibat pembayaran ke pemasok yang mencapai Rp255,60 miliar. Untuk menutup kebutuhan kas tersebut, perusahaan menarik tambahan pinjaman bank bersih Rp82,72 miliar dan tetap membayarkan dividen Rp972,04 juta kepada pemegang saham. Beban keuangan alias beban bunga ikut naik dari Rp4,86 miliar menjadi Rp9,62 miliar seiring membesarnya utang bank. Laporan ditandatangani Direktur Utama Ujang Suparman dan Direktur Prim Galawira Atmaja pada 30 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers bagging granular fertilizer on a conveyor line inside an industrial plant in East Java, overcast indoor lighting",
+  "takeaway": "Laporan ini condong negatif karena pertumbuhan penjualan dan laba NPGF ternyata ditopang oleh lonjakan utang bank jangka pendek hingga 87,9 persen, sementara kegiatan usahanya sendiri justru menyedot kas, bukan menghasilkan kas. Yang perlu dicermati adalah arus kas dari aktivitas operasional, yaitu selisih uang yang benar-benar masuk dan keluar dari kegiatan inti jual beli pupuk: pos ini negatif Rp88,54 miliar pada sembilan bulan 2026, melebar jauh dari negatif Rp5,31 miliar setahun sebelumnya, karena uang perusahaan tertahan di piutang dan persediaan yang belum berubah jadi uang tunai. Beban bunga juga naik dari Rp4,86 miliar menjadi Rp9,62 miliar karena pinjaman bank membesar, artinya porsi laba usaha yang terpakai untuk membayar bunga makin besar. Yang perlu dipantau pada laporan kuartal berikutnya adalah apakah fasilitas pinjaman baru dari PT Bank Sinarmas Tbk senilai Rp213,02 miliar itu cukup menutup kebutuhan modal kerja tanpa menambah utang lagi, serta apakah piutang usaha yang dibiayai lewat skema pembiayaan piutang tersebut tertagih sesuai jadwal.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "indonesia-turki-jajaki-pta-target-dagang-us-10-miliar",
   "category": "Global",
   "title": "Indonesia-Turki Jajaki [PTA], Target Dagang US$10 Miliar",

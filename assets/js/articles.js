@@ -3,6 +3,162 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "daaz-laba-turun-43-jadi-rp157-m-kas-susut-ke-rp317-m",
+  "category": "Aksi Korporasi",
+  "title": "DAAZ: Laba Turun 43% Jadi Rp157 M, [Kas] Susut ke Rp317 M",
+  "deck": "Pendapatan DAAZ naik 22 persen jadi Rp12,05 triliun pada kuartal III 2026, tapi laba bersih konsolidasi turun 43 persen dan kas perusahaan susut hampir separuh dari akhir 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T11:49:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102120118-65605-0/FinancialStatement-2026-III-DAAZ.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DAAZ",
+  "tags": [
+   "DAAZ",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "kinerja emiten"
+  ],
+  "body": [
+   "PT Daaz Bara Lestari Tbk (DAAZ) menyampaikan versi koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan tercatat Rp12,05 triliun, naik 22,2 persen dari Rp9,86 triliun pada periode yang sama tahun 2025. Namun laba bersih konsolidasian justru turun 43,3 persen, dari Rp277,13 miliar menjadi Rp157,03 miliar. Kas dan setara kas perusahaan pada akhir September 2026 tercatat Rp317,49 miliar, susut 62,3 persen dari Rp841,92 miliar pada akhir Desember 2025.",
+   "Penurunan laba terjadi meski laba kotor nyaris tidak bergerak, dari Rp599,30 miliar menjadi Rp603,45 miliar, sehingga margin kotor terhadap pendapatan justru menyusut dari 6,08 persen menjadi 5,01 persen. Beban usaha melonjak 32,6 persen menjadi Rp168,79 miliar dari Rp127,34 miliar, sementara beban bunga naik menjadi Rp165,35 miliar dari Rp149,05 miliar. Laba sebelum pajak turun menjadi Rp243,27 miliar dari Rp312,86 miliar, dan beban pajak yang ditanggung perusahaan melonjak lebih dari dua kali lipat menjadi Rp86,24 miliar dari Rp35,74 miliar.",
+   "Meski laba bersih konsolidasian turun, laba per saham dasar justru naik dari Rp92 menjadi Rp112, karena porsi laba untuk pemegang saham pengendali naik 21,7 persen menjadi Rp224,48 miliar, sementara porsi untuk pemegang saham nonpengendali di anak usaha berbalik menjadi rugi Rp67,45 miliar dari sebelumnya untung Rp92,72 miliar. Dari sisi arus kas, kegiatan operasional perusahaan membukukan arus kas keluar bersih Rp122,40 miliar, berbalik dari arus kas masuk Rp6,89 miliar pada periode yang sama tahun lalu. Utang bank jangka pendek naik menjadi Rp885,58 miliar dari Rp591,87 miliar, sementara perusahaan melunasi obligasi jangka pendek senilai Rp150 miliar dan membayar dividen tunai Rp77,88 miliar pada periode ini. Rasio lancar turun dari 172 persen menjadi 141 persen, ROE turun dari 16 persen menjadi 6,96 persen, dan ROA turun dari 5,63 persen menjadi 2,37 persen."
+  ],
+  "fotoAdegan": "A heavily loaded coal barge drifting down a wide brown river under overcast skies, a tugboat pushing from behind.",
+  "takeaway": "Laporan ini condong negatif bagi DAAZ, karena di balik laba per saham yang terlihat naik, kinerja perusahaan secara keseluruhan justru memburuk: laba bersih konsolidasi turun 43 persen, arus kas dari kegiatan operasional berbalik negatif, dan kas perusahaan susut lebih dari separuh dalam sembilan bulan. Yang membuat laba per saham tetap naik adalah pembagian untung dengan pemegang saham minoritas di anak usaha, yang kali ini menanggung rugi sekitar Rp67 miliar, sehingga porsi untuk pemegang saham utama bertambah meski perusahaan secara total menghasilkan uang lebih sedikit. Arus kas operasional, yaitu uang tunai yang benar-benar masuk dari penjualan dan kegiatan bisnis sehari-hari, biasanya jadi ukuran kesehatan yang lebih tajam dibanding laba di atas kertas, dan angka negatif di sini berarti perusahaan harus menombok dari pinjaman bank dan tabungan kasnya untuk menutup biaya operasi. Beban pajak yang melonjak lebih dari dua kali lipat turut menggerus laba sebelum sempat dibagi ke pemegang saham. Yang perlu dipantau berikutnya adalah apakah arus kas operasional kembali positif pada laporan tahunan 2026, serta bagian mana dari laporan sebelumnya yang sebenarnya diperbaiki lewat versi koreksi ini, karena dokumen yang tersedia tidak merinci perubahannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "akpi-laba-bersih-melonjak-35-kali-lipat-jadi-rp110-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Laba Bersih [Melonjak] 35 Kali Lipat jadi Rp110,7 Miliar",
+  "deck": "Laba bersih AKPI sembilan bulan 2026 naik dari Rp3,16 miliar jadi Rp110,75 miliar, penjualan tumbuh 24 persen, tapi arus kas operasi justru menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T11:42:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102115647-65477-0/FinancialStatement-2026-III-AKPI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "laporan keuangan",
+   "laba bersih",
+   "emiten kimia"
+  ],
+  "body": [
+   "PT Argha Karya Prima Industry Tbk (AKPI) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia. Produsen kemasan plastik dan bahan kimia khusus ini mencatat penjualan neto Rp2,77 triliun, naik 24 persen dari Rp2,23 triliun pada periode yang sama tahun 2025. Setelah dikurangi beban pokok penjualan sebesar Rp2,4 triliun, laba bruto perusahaan melonjak hampir 60 persen menjadi Rp371,07 miliar dari sebelumnya Rp232,75 miliar.",
+   "Laba usaha naik lebih dari tiga kali lipat, dari Rp62,99 miliar menjadi Rp208,48 miliar. Setelah dikurangi beban keuangan yang naik menjadi Rp62,42 miliar dari Rp51,9 miliar serta beban pajak penghasilan Rp35,7 miliar, laba bersih yang dapat diatribusikan kepada pemilik entitas induk melonjak dari Rp3,16 miliar pada sembilan bulan 2025 menjadi Rp110,75 miliar pada sembilan bulan 2026. Laba per saham dasar ikut naik dari Rp5 menjadi Rp181 per saham.",
+   "Dari sisi posisi keuangan, total aset perusahaan per 30 September 2026 tercatat Rp4,07 triliun, naik dari Rp3,64 triliun pada akhir 2025, dengan kas dan setara kas naik dari Rp62,15 miliar menjadi Rp92,25 miliar. Namun piutang usaha dari pihak ketiga melonjak dari Rp638,46 miliar menjadi Rp958,62 miliar, dan pinjaman bank jangka pendek naik dari Rp786,85 miliar menjadi Rp911,84 miliar. Arus kas neto dari aktivitas operasi justru turun dari Rp146,97 miliar menjadi Rp43,47 miliar meski laba bersih meningkat tajam. Ekuitas neto naik dari Rp1,78 triliun menjadi Rp1,99 triliun, antara lain disumbang keuntungan selisih kurs penjabaran laporan keuangan senilai Rp103,25 miliar. Perseroan juga membagikan dividen senilai Rp5,06 miliar selama periode berjalan."
+  ],
+  "fotoAdegan": "Workers checking large rolls of plastic packaging film on an industrial production line inside a chemical manufacturing plant, overhead lighting",
+  "takeaway": "Laporan ini condong positif bagi AKPI, karena laba usaha yang naik tiga kali lipat dan laba bersih yang melonjak 35 kali lipat menunjukkan bisnis inti perusahaan benar-benar membaik, bukan sekadar untung di atas kertas. Yang perlu dicermati adalah arus kas dari kegiatan operasi, yaitu uang tunai yang benar-benar masuk dari penjualan sehari-hari, yang justru turun dari Rp146,97 miliar menjadi Rp43,47 miliar karena piutang dari pelanggan menumpuk, sehingga sebagian laba itu belum berubah jadi uang kas di tangan perusahaan. Kenaikan ekuitas, yaitu nilai kekayaan bersih pemegang saham, juga sebagian berasal dari keuntungan selisih kurs akibat penjabaran laporan anak usaha ke rupiah, bukan murni dari hasil operasi, sehingga besarannya bisa berbalik kalau kurs bergerak sebaliknya. Yang perlu dipantau berikutnya adalah apakah penagihan piutang pada kuartal IV 2026 memperbaiki arus kas operasi, serta bagaimana beban bunga pinjaman bank yang terus naik akan membebani laba periode berikutnya, mengingat pinjaman bank jangka pendek maupun jangka panjang sama-sama bertambah dibanding akhir 2025.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "sico-laba-turun-26-kuartal-iii-utang-bank-melonjak-151",
+  "category": "Aksi Korporasi",
+  "title": "SICO Laba Turun 26% Kuartal III, Utang Bank [Melonjak] 151%",
+  "deck": "Laba bersih SICO turun 26 persen jadi Rp8,56 miliar dalam sembilan bulan 2026, sementara total utang bank melonjak 151 persen menjadi Rp28,13 miliar per akhir September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T11:24:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102113402-65675-0/FinancialStatement-2026-III-SICO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SICO",
+  "tags": [
+   "SICO",
+   "laporan keuangan",
+   "utang bank",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Sigma Energy Compressindo Tbk (SICO) menyampaikan koreksi atas laporan keuangan interim kuartal III 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 2 November 2026. Koreksi ini melengkapi lampiran penjelasan wajib soal kenaikan total liabilitas perusahaan yang melampaui 20 persen, sesuai Peraturan Bursa Nomor I-E, yang sebelumnya disampaikan lewat surat bernomor 042/SICO-CS/X/2026 tanggal 29 Oktober 2026. Penjelasan tersebut ditandatangani Direktur Keuangan dan Kepatuhan Vita Diani Satiadhi.",
+   "Berdasarkan laporan keuangan konsolidasian per 30 September 2026, total liabilitas SICO mencapai Rp45,66 miliar, naik Rp14,16 miliar atau 44,9 persen dibandingkan posisi akhir 2025 sebesar Rp31,5 miliar. Perusahaan menyebut kenaikan ini terutama didorong oleh dua pos: utang usaha kepada pihak ketiga yang melonjak dari Rp317,47 juta menjadi Rp1,08 miliar, naik 242 persen, dan total utang bank yang bertambah dari Rp11,19 miliar menjadi Rp28,13 miliar, naik 151 persen. Dalam rinciannya, utang bank jangka panjang melonjak dari Rp3,02 miliar menjadi Rp25,26 miliar, sementara porsi yang jatuh tempo dalam setahun justru menyusut dari Rp8,17 miliar menjadi Rp2,88 miliar, menunjukkan perusahaan beralih ke pinjaman berjangka lebih panjang.",
+   "Sepanjang sembilan bulan 2026, SICO membelanjakan Rp16,94 miliar untuk pembelian aset tetap, sehingga nilai aset tetap bersihnya naik dari Rp64,67 miliar menjadi Rp76,16 miliar. Pada saat yang sama, arus kas bersih dari aktivitas operasi, yaitu uang tunai yang benar-benar dihasilkan dari kegiatan usaha sehari-hari, turun dari Rp13,55 miliar menjadi Rp5,22 miliar. Pendapatan usaha turun dari Rp117,81 miliar menjadi Rp111,13 miliar, dan laba tahun berjalan turun 26 persen dari Rp11,63 miliar menjadi Rp8,56 miliar, dengan laba bersih per saham dasar turun dari Rp11,09 menjadi Rp9,36. Ekuitas perusahaan tetap bertambah dari Rp133,44 miliar menjadi Rp140,18 miliar, setelah perusahaan membagikan dividen kas Rp1,82 miliar sepanjang periode ini."
+  ],
+  "fotoAdegan": "Technicians in coveralls inspecting an industrial gas compressor unit at an oil field facility, overcast sky, pipework in background",
+  "takeaway": "Laporan ini condong negatif bagi SICO: laba bersihnya turun 26 persen dan uang tunai dari kegiatan usaha hariannya susut hampir separuh, sementara utang bank melonjak tajam dalam sembilan bulan terakhir. Pos yang tersentuh adalah beban bunga, yaitu biaya yang wajib dibayar perusahaan atas pinjamannya, yang naik dari Rp838 juta menjadi Rp1,36 miliar sejalan dengan tambahan utang bank, dan arus kas operasi, yaitu uang tunai yang benar-benar masuk dari bisnis inti setelah dikurangi biaya operasional, yang dipantau pelaku pasar karena menunjukkan apakah perusahaan masih bisa membiayai dirinya sendiri tanpa terus menambah utang. Laba per saham, yakni bagian laba tahunan yang jatuh ke setiap lembar saham beredar, juga turun dari Rp11,09 menjadi Rp9,36, sehingga pemegang saham mendapat jatah laba lebih kecil dibanding tahun lalu. Yang perlu dipantau berikutnya adalah laporan keuangan audit tahun penuh 2026, yang akan menunjukkan apakah tambahan pinjaman bank jangka panjang ini mulai menghasilkan pendapatan baru atau justru hanya menambah beban bunga ke depan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dr-waran-terstruktur-jpfa-disesuaikan-ikuti-dividen",
+  "category": "Aksi Korporasi",
+  "title": "DR: [Waran] Terstruktur JPFA Disesuaikan Ikuti Dividen",
+  "deck": "RHB Sekuritas menyesuaikan syarat waran terstruktur JPFA (DR) menyusul dividen tunai Rp90 per saham senilai total Rp1,05 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T11:18:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c7b0b43ad3_b8f202685b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "JPFA",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia, penerbit waran terstruktur berkode DR dengan saham PT Japfa Comfeed Indonesia Tbk (JPFA) sebagai aset dasarnya, mengumumkan penyesuaian syarat dan ketentuan waran tersebut menyusul rencana JPFA membagikan dividen tunai untuk tahun buku 2026. Direksi JPFA telah memutuskan dan disetujui komisaris pada 27 Oktober 2026 untuk membagikan dividen senilai total Rp1.052.780.364.090, atau setara Rp90 per saham.",
+   "Jadwalnya, saham JPFA masih membawa hak dividen hingga 5 November 2026 di pasar reguler dan negosiasi, lalu masuk periode tanpa hak dividen mulai 6 November 2026. Di pasar tunai, batas hak dividen jatuh pada 9 November 2026 dan mulai tanpa hak dividen sehari setelahnya. Pemegang saham yang namanya tercatat dalam daftar pemegang saham pada 9 November 2026 pukul 16.00 berhak menerima dividen, yang akan dibayarkan JPFA paling lambat 12 November 2026.",
+   "Karena pembagian dividen membuat harga saham JPFA otomatis terkoreksi sebesar nilai dividen begitu masuk periode tanpa hak dividen, rasio pelaksanaan dan harga pelaksanaan waran terstruktur DR ikut disesuaikan dengan formula proporsional terhadap penurunan harga tersebut, sesuai term sheet dan prospektus waran. RHB Sekuritas Indonesia juga mencantumkan syarat bahwa penyesuaian ini bisa saja tidak dilakukan jika berdasarkan kebijakan penerbit sendiri dianggap tidak perlu, tanpa kewajiban apa pun kepada pemegang waran."
+  ],
+  "fotoAdegan": "Workers inspecting large grain silos at an animal feed mill, conveyor belts and steel piping, overcast daylight",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental JPFA maupun RHB Sekuritas, karena isinya cuma menjalankan mekanisme standar yang otomatis berlaku kalau saham yang jadi dasar sebuah waran membagi dividen. Pos yang tersentuh adalah harga pelaksanaan dan rasio pelaksanaan waran terstruktur DR, yakni syarat harga dan jumlah saham JPFA yang bisa diperoleh pemegang waran kalau haknya digunakan, dan keduanya diturunkan sebanding dengan dividen Rp90 per saham agar nilai waran tidak ikut tergerus hanya karena JPFA membagi kas ke pemegang sahamnya. Yang perlu dipantau adalah rangkaian tanggal pembagian dividen JPFA, yaitu mulai tanpa hak dividen pada 6 November 2026 di pasar reguler, pencatatan pemegang saham pada 9 November pukul 16.00, dan pembayaran dividen paling lambat 12 November 2026, karena penyesuaian waran baru benar-benar berlaku setelah harga saham JPFA bergerak melewati tanggal tanpa hak dividen itu. Perlu dicatat juga bahwa RHB Sekuritas berhak memutuskan sendiri untuk tidak melakukan penyesuaian ini, jadi pemegang waran sebaiknya mengecek pengumuman lanjutan dari penerbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-rhb-sesuaikan-waran-terstruktur-untr-ikuti-dividen-rp430",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Sesuaikan [Waran] Terstruktur UNTR Ikuti Dividen Rp430",
+  "deck": "RHB Sekuritas (DR) menyesuaikan rasio dan harga pelaksanaan waran terstruktur UNTR menyusul dividen tunai Rp430 per saham yang dibayar 23 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T11:17:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b4f379b292_1b453e5641.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "UNTR",
+   "Waran Terstruktur",
+   "Dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia, penerbit waran terstruktur dengan kode emiten DR, mengumumkan penyesuaian syarat dan ketentuan waran terstruktur yang sahamnya mengacu pada PT United Tractors Tbk (UNTR). Penyesuaian ini dilakukan karena UNTR berencana membagikan dividen tunai untuk tahun buku 2026 senilai total Rp1.451.467.071.521, atau setara Rp430 per saham, sesuai keputusan direksi UNTR yang disetujui Dewan Komisaris pada 27 Oktober 2026.",
+   "Jadwal pembagian dividen UNTR yang menjadi acuan penyesuaian adalah sebagai berikut: tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 5 November 2026, dengan tanggal ex dividen sehari setelahnya pada 6 November 2026. Di pasar tunai, cum dividen berlaku 9 November 2026 dan ex dividen 10 November 2026. Daftar pemegang saham yang berhak menerima dividen (recording date) ditetapkan pada 9 November 2026 pukul 16.00 WIB, dan dividen akan dibayarkan paling lambat pada 23 November 2026.",
+   "Rasio pelaksanaan dan harga pelaksanaan waran terstruktur UNTR akan disesuaikan menggunakan formula standar yang mengacu pada harga penutupan saham UNTR pada hari bursa terakhir saat diperdagangkan dengan hak dividen (cum-entitlement), dikurangi nilai dividen per saham, dibagi harga penutupan tersebut. RHB Sekuritas menegaskan bahwa penyesuaian ini sepenuhnya mengikuti Term Sheet dan Prospektus Waran Terstruktur, namun penerbit berhak untuk tidak melakukan penyesuaian berdasarkan kebijakannya sendiri, tanpa ada kewajiban apa pun kepada pemegang waran."
+  ],
+  "fotoAdegan": "Rows of yellow heavy equipment excavators and dump trucks parked at an industrial equipment yard, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental UNTR maupun RHB Sekuritas, karena isinya hanya menjalankan mekanisme otomatis yang berlaku setiap kali saham acuan sebuah waran terstruktur membagikan dividen, bukan keputusan bisnis baru dari kedua pihak. Yang tersentuh di sini adalah harga pelaksanaan dan rasio pelaksanaan waran, yakni patokan harga dan jumlah saham yang dipakai kalau pemegang waran mau menukarkan waran itu jadi saham UNTR; keduanya perlu disesuaikan turun karena setelah dividen dibagikan, harga saham UNTR biasanya ikut turun sebesar nilai dividen yang dibagikan, sehingga nilai waran perlu diseimbangkan agar pemegangnya tidak otomatis rugi. Yang perlu dipantau berikutnya adalah tanggal daftar pemegang saham pada 9 November 2026 pukul 16.00 yang menentukan siapa berhak atas dividen, serta tanggal ex dividen 6 November 2026 di pasar reguler yang menjadi titik mulai berlakunya formula penyesuaian, sebelum dividen dibayarkan tuntas pada 23 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-waran-t-24-icbp-indf-berakhir-19-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran [T-24] ICBP-INDF Berakhir 19 November 2026",
+  "deck": "RHB Sekuritas mengumumkan jadwal jatuh tempo waran terstruktur penerbitan ke-24 atas ICBP dan INDF, dengan pelaksanaan otomatis 19 November 2026 dan delisting sehari setelahnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T11:17:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d7f81d9a7_0d544090f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "ICBP",
+   "INDF",
+   "waran terstruktur"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia menerbitkan pemberitahuan kepada pemegang waran terstruktur penerbitan ke-24, yang tercatat sejak 19 November 2025, dengan dua seri warran yang mendasari saham ICBP berkode ICBPDRCX6B dan saham INDF berkode INDFDRCX6B. Kedua waran ini berjenis Call Warrant dengan penyelesaian tunai, artinya pemegangnya berhak atas uang tunai jika harga saham dasar di akhir periode lebih tinggi dari harga pelaksanaan yang sudah ditetapkan.",
+   "RHB menetapkan hari perdagangan terakhir waran pada Senin, 16 November 2026 pukul 16.00 WIB, disusul penghentian perdagangan mulai Selasa, 17 November 2026. Tanggal Pelaksanaan, yaitu saat waran berakhir dan dieksekusi secara otomatis, jatuh pada Kamis, 19 November 2026 pukul 09.00 WIB, dan sehari setelahnya, Jumat 20 November 2026 pukul 09.00 WIB, kedua waran resmi dicabut dari daftar efek bursa. Harga pelaksanaan dan rasio pelaksanaan untuk waran ICBPDRCX6B ditetapkan Rp11.733 dengan rasio 24,0433, sementara waran INDFDRCX6B ditetapkan Rp9.173 dengan rasio 23,9493.",
+   "Nilai yang diterima pemegang waran dihitung dari jumlah waran yang dipegang dikali selisih antara harga penyelesaian saham dasar dan harga pelaksanaan, lalu dibagi rasio pelaksanaan. Jika hasilnya positif, pelaksanaan berjalan otomatis tanpa perlu pemberitahuan dari pemegang waran, dan dananya akan disalurkan KSEI ke rekening partisipan paling lambat tiga hari bursa setelah Tanggal Pelaksanaan. Sebaliknya, jika hasil hitungannya nol atau negatif, waran langsung berakhir tanpa nilai dan pemegangnya tidak diwajibkan membayar apa pun."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's SCBD financial district, overcast sky, pedestrians walking past at street level",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental ICBP maupun INDF, karena isinya hanya menjalankan mekanisme baku yang berlaku otomatis ketika waran terstruktur mencapai tanggal jatuh temponya, bukan tindakan korporasi dari kedua emiten saham dasar itu sendiri. Waran terstruktur bukan saham ICBP atau INDF, melainkan produk turunan terbitan RHB Sekuritas yang hanya memberi hak atas selisih tunai kepada pemegangnya, sehingga berakhirnya waran ini tidak mengubah ekuitas, arus kas, maupun jumlah saham beredar kedua emiten, dan dampaknya hanya dirasakan oleh pemegang waran itu sendiri. Yang menentukan apakah pemegang waran menerima uang tunai atau warannya berakhir tanpa nilai adalah harga penyelesaian saham ICBP dan INDF pada Tanggal Pelaksanaan, Kamis 19 November 2026 pukul 09.00 WIB, dengan pencairan dana lewat KSEI paling lambat tiga hari bursa sesudahnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "giias-makassar-2026-dibuka-pamerkan-14-merek-mobil-dan-motor",
   "category": "Industri",
   "title": "GIIAS Makassar 2026 Dibuka, Pamerkan [14] Merek Mobil dan Motor",
@@ -28,6 +184,85 @@ var ARTICLES = [
   "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
   "takeaway": "Yang berubah konkret dari pameran ini adalah jumlah dan komposisi peserta: 14 merek mobil penumpang, empat merek motor, dan 24 merek industri pendukung tampil di Makassar, dengan enam merek baru ikut serta. Yang terdampak langsung adalah konsumen dan dealer kendaraan di Sulawesi Selatan serta kawasan timur Indonesia, karena mereka mendapat akses ke merek yang biasanya hanya dipamerkan di Jakarta atau kota besar Jawa. Dari daftar merek yang tampil, beberapa di antaranya berasal dari Cina, seperti BAIC, BYD, Chery, Geely, Jetour, dan Jaecoo, sejalan dengan tren masuknya merek mobil Cina ke pasar Indonesia yang selama ini lebih terlihat di kota-kota besar. Yang belum bisa dipastikan dari siaran pers ini adalah apakah perluasan pameran ke Makassar benar-benar menambah penjualan di kawasan timur Indonesia, sebab GAIKINDO dan Kemenperin baru menyampaikan harapan, bukan angka pengunjung atau transaksi. Data yang perlu ditunggu adalah jumlah pengunjung dan nilai transaksi yang biasanya dirilis GAIKINDO setelah pameran berakhir.",
   "imageV": "mvyqt0xj"
+ },
+ {
+  "slug": "swat-catat-ekuitas-negatif-rp1-8-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "SWAT Catat [Ekuitas] Negatif Rp1,8 Miliar di Semester I 2026",
+  "deck": "Penjualan produsen kertas ini anjlok ke Rp305 juta dari Rp44,75 miliar, sementara total ekuitas berbalik negatif Rp1,83 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T11:06:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102111307-65532-0/FinancialStatement-2026-II-SWAT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SWAT",
+  "tags": [
+   "SWAT",
+   "ekuitas negatif",
+   "laporan keuangan interim",
+   "industri kertas"
+  ],
+  "body": [
+   "PT Sriwahana Adityakarta Tbk (SWAT) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode Januari hingga Juni 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, ditandatangani Direktur Utama Shio Alim Susanto. Dalam laporan itu, penjualan perusahaan kertas asal Boyolali ini tercatat hanya Rp305,48 juta untuk semester pertama 2026. Jumlah itu jauh lebih kecil dibanding penjualan periode yang sama tahun 2025 yang mencapai Rp44,75 miliar, atau susut hampir seluruhnya dalam setahun.",
+   "Meski beban pokok penjualan juga ikut turun tajam menjadi Rp14,99 miliar dari Rp60,36 miliar, penurunan penjualan yang lebih besar membuat perusahaan tetap mencatat rugi kotor Rp14,69 miliar, sedikit lebih baik dibanding rugi kotor Rp15,60 miliar pada semester satu 2025. Setelah dikurangi beban operasional dan ditambah pendapatan usaha lainnya, rugi usaha tercatat Rp14,18 miliar dan rugi bersih mencapai Rp14,30 miliar. Angka ini sebenarnya menyusut dibanding rugi bersih Rp27,18 miliar pada periode yang sama tahun lalu, sehingga rugi per saham juga mengecil dari Rp8,99 menjadi Rp4,73 per saham.",
+   "Dari sisi posisi keuangan, total aset SWAT per 30 Juni 2026 tercatat Rp376,88 miliar, turun dari Rp394,64 miliar pada akhir 2025. Total liabilitas yang mencapai Rp378,72 miliar, sebagian besar berupa utang bank jangka panjang Rp346,34 miliar, kini lebih besar daripada total aset tersebut. Akibatnya, total ekuitas perusahaan berbalik menjadi negatif Rp1,83 miliar, dari sebelumnya positif Rp12,46 miliar pada akhir 2025.",
+   "Di sisi arus kas, kas bersih dari aktivitas operasi berbalik positif Rp9,67 miliar, dari sebelumnya minus Rp84,93 juta pada semester satu 2025. Namun pada periode ini SWAT juga melunasi utang kepada pemegang saham senilai Rp9,06 miliar dan membayar cicilan utang bank Rp2,08 miliar, sehingga kas di akhir periode tetap turun tipis menjadi Rp2,23 miliar dari Rp2,37 miliar pada akhir 2025."
+  ],
+  "fotoAdegan": "Rolls of brown paper stacked on pallets inside a dim industrial paper mill warehouse, forklift parked nearby, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi SWAT, sebab ekuitas perusahaan yang semula positif Rp12,46 miliar pada akhir 2025 kini berbalik menjadi negatif Rp1,83 miliar, artinya total utang perusahaan sudah melebihi total asetnya. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang mencerminkan kekayaan bersih yang tersisa untuk pemegang saham; begitu angka ini negatif, secara akuntansi pemegang saham tidak punya nilai buku yang tersisa di perusahaan. Pemicu utamanya adalah penjualan yang anjlok dari Rp44,75 miliar menjadi hanya Rp305 juta dalam setahun, meski arus kas operasional sempat positif pada periode ini. Yang perlu dipantau berikutnya adalah apakah Bursa Efek Indonesia memberikan notasi khusus pada saham SWAT menyusul ekuitas negatif ini, serta apakah tren penjualan membaik pada laporan kuartal III 2026 yang wajib disampaikan sesuai POJK No. 14/POJK.04/2022 yang disebut dalam surat pengantar laporan ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ranc-gelar-rupslb-9-desember-bahas-perubahan-kegiatan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "RANC Gelar RUPSLB 9 Desember, Bahas [Perubahan] Kegiatan Usaha",
+  "deck": "Supra Boga Lestari (RANC) menjadwalkan RUPSLB pada 9 Desember 2026 untuk membahas perubahan kegiatan usaha dan amendemen Pasal 3 anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T11:06:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9d9595079b_87dd58b237.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RANC",
+  "tags": [
+   "RANC",
+   "RUPSLB",
+   "Supra Boga Lestari",
+   "perubahan kegiatan usaha"
+  ],
+  "body": [
+   "PT Supra Boga Lestari Tbk (RANC), pemilik jaringan supermarket Ranch Market dan Farmers Market, mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 9 Desember 2026 pukul 09.30 WIB. Rapat akan berlangsung di SBL Academy, Farmers Market Pondok Kopi Lantai 2, Jalan Robusta Raya No. 1, Duren Sawit, Jakarta Timur, serta bisa diikuti secara elektronik lewat sistem eASY.KSEI. RUPSLB ini diselenggarakan atas permintaan Dewan Komisaris Perseroan sesuai surat No. 172/CORSEC-SBL/X/2026 tertanggal 19 Oktober 2026, bukan inisiatif direksi.",
+   "Agenda utama yang disebutkan dalam surat adalah perubahan kegiatan usaha Perseroan, termasuk rancangan perubahan Pasal 3 anggaran dasar, yaitu pasal yang mengatur ruang lingkup bisnis resmi perusahaan. Untuk mendukung agenda ini, perusahaan wajib menyediakan dokumen Keterbukaan Informasi dan Laporan Studi Kelayakan, semacam kajian yang menilai apakah rencana bisnis baru itu layak dijalankan, sesuai ketentuan POJK No. 17/POJK.04/2020 tentang transaksi material dan perubahan kegiatan usaha. Kedua dokumen itu baru akan tersedia dan bisa diunduh di situs ranchmarket.co.id mulai tanggal pengumuman resmi RUPSLB, yaitu 17 November 2026, sampai hari pelaksanaan rapat.",
+   "Dari sisi administrasi, pemegang saham yang berhak hadir adalah mereka yang namanya tercatat di Daftar Pemegang Saham pada 16 November 2026, sehari sebelum pemanggilan resmi, atau pemegang saham di sub rekening KSEI pada tanggal yang sama hingga penutupan perdagangan di pasar reguler. Pemegang saham yang ingin mengusulkan mata acara tambahan harus mewakili minimal 1/20 dari total saham berhak suara dan mengajukannya paling lambat 10 November 2026. Pemberian kuasa elektronik (e-Proxy) lewat eASY.KSEI dibuka sejak tanggal pemanggilan hingga 8 Desember 2026."
+  ],
+  "fotoAdegan": "Shoppers browsing fresh produce aisles in a modern Indonesian supermarket, bright overhead lighting, stocked shelves in soft focus",
+  "takeaway": "Laporan ini netral bagi RANC karena isinya baru sebatas jadwal dan mekanisme RUPSLB, belum memuat rincian bisnis baru apa yang akan dimasukkan ke Pasal 3 anggaran dasar, sehingga dampaknya terhadap kinerja perusahaan belum bisa dinilai arahnya. Perubahan kegiatan usaha menyentuh ruang lingkup pendapatan perusahaan ke depan, karena menambah atau mengganti lini bisnis resmi yang boleh dijalankan, yang pada akhirnya bisa mempengaruhi laba per saham jika bisnis baru itu berjalan; itu sebabnya regulator mewajibkan ada Laporan Studi Kelayakan, semacam kajian kelayakan proyek, sebelum pemegang saham memutuskan. Yang perlu dipantau pemegang saham RANC adalah publikasi Keterbukaan Informasi dan Laporan Studi Kelayakan pada 17 November 2026, karena di situlah baru akan terlihat bisnis apa yang hendak dimasuki Perseroan, serta hasil pemungutan suara pada RUPSLB tanggal 9 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "indo-laba-kuartal-iii-naik-49-jadi-rp36-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "INDO: [Laba] Kuartal III Naik 49% Jadi Rp36,7 Miliar",
+  "deck": "Laba bersih sembilan bulan INDO melonjak 49 persen jadi Rp36,68 miliar, sementara liabilitas naik 28 persen seiring anak usaha gula mulai berproduksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T10:49:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102105650-65674-0/FinancialStatement-2026-III-INDO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDO",
+  "tags": [
+   "INDO",
+   "laporan keuangan",
+   "laba bersih",
+   "properti"
+  ],
+  "body": [
+   "PT Royalindo Investa Wijaya Tbk (INDO) menyampaikan koreksi laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit, melalui surat bernomor 079/DIR-RIW/XI/2026 yang diteken Direktur Utama Leslie Soemedi pada 28 Oktober 2026. Laba periode berjalan tercatat Rp36,68 miliar, naik 49,3 persen dari Rp24,58 miliar pada periode yang sama tahun 2025. Dari jumlah itu, Rp37,34 miliar menjadi bagian pemegang saham induk, sementara kepentingan nonpengendali di anak usaha justru menanggung rugi Rp659 juta. Laba per saham dasar naik dari Rp5,53 menjadi Rp8,34.",
+   "Pendapatan perusahaan tumbuh 27,8 persen menjadi Rp28,36 miliar dari Rp22,19 miliar, dengan laba bruto Rp17,51 miliar. Kenaikan laba bersih banyak ditopang penghasilan usaha lain-lain neto yang melonjak jadi Rp32,75 miliar dari Rp17,27 miliar setahun sebelumnya. Total aset per akhir September 2026 mencapai Rp1,19 triliun, naik dari Rp1,14 triliun di akhir 2025, dan ekuitas ikut naik menjadi Rp1,18 triliun dari Rp1,14 triliun. Namun kas dan setara kas justru menyusut jadi Rp267,05 miliar dari Rp280,43 miliar, karena arus kas dari aktivitas operasi berbalik menjadi negatif Rp1,28 miliar, dibanding positif Rp12,57 miliar pada periode yang sama tahun lalu.",
+   "Liabilitas perusahaan naik 28 persen, dari Rp7,31 miliar menjadi Rp9,37 miliar, terutama didorong utang usaha pihak ketiga yang melonjak dari Rp4,25 juta menjadi Rp4,16 miliar. Dalam surat penjelasan yang juga diteken Leslie Soemedi, manajemen menyebut kenaikan liabilitas ini seiring mulai beroperasinya kegiatan produksi anak usaha PT Ratu Gula Asia, perusahaan perkebunan tebu dan gula pasir yang 71,68 persen sahamnya dimiliki INDO. Meski demikian, daftar entitas anak yang dilampirkan dalam laporan yang sama masih mencantumkan status operasi PT Ratu Gula Asia sebagai 'belum beroperasi' dengan tahun komersial tercatat nol."
+  ],
+  "fotoAdegan": "Workers harvesting sugarcane stalks in a green plantation field under bright daylight, a truck waiting nearby for loading",
+  "takeaway": "Laporan ini condong positif bagi INDO karena laba bersihnya melonjak 49 persen jadi Rp36,68 miliar dan laba per saham naik dari Rp5,53 jadi Rp8,34, tanda bisnisnya makin menguntungkan dalam sembilan bulan terakhir. Yang ikut terdongkrak adalah ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, yang naik dari Rp1,14 triliun menjadi Rp1,18 triliun karena laba ditahan terus menumpuk, tapi arus kas dari kegiatan usaha sehari-hari, yakni uang tunai yang benar-benar keluar masuk dari bisnis inti, justru berbalik jadi minus Rp1,28 miliar padahal tahun lalu masih positif Rp12,57 miliar, artinya laba di atas kertas belum sepenuhnya diikuti kas yang benar-benar masuk ke kas perusahaan. Yang perlu dipantau berikutnya adalah penjelasan manajemen bahwa lonjakan utang usaha yang mendorong liabilitas naik 28 persen ini terkait mulai berproduksinya anak usaha gula PT Ratu Gula Asia, sebab daftar entitas anak di lampiran lain malah masih mencatat status perusahaan itu belum beroperasi. Investor juga perlu menunggu apakah arus kas operasi kembali positif pada laporan berikutnya.",
+  "sentimen": "positif"
  },
  {
   "slug": "harga-emas-antam-naik-rp5-000-jadi-rp2-531-juta-gram",

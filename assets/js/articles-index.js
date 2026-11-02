@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "daaz-laba-turun-43-jadi-rp157-m-kas-susut-ke-rp317-m",
+  "category": "Aksi Korporasi",
+  "title": "DAAZ: Laba Turun 43% Jadi Rp157 M, [Kas] Susut ke Rp317 M",
+  "deck": "Pendapatan DAAZ naik 22 persen jadi Rp12,05 triliun pada kuartal III 2026, tapi laba bersih konsolidasi turun 43 persen dan kas perusahaan susut hampir separuh dari akhir 2025.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DAAZ",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "kinerja emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102120118-65605-0/FinancialStatement-2026-III-DAAZ.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-laba-bersih-melonjak-35-kali-lipat-jadi-rp110-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Laba Bersih [Melonjak] 35 Kali Lipat jadi Rp110,7 Miliar",
+  "deck": "Laba bersih AKPI sembilan bulan 2026 naik dari Rp3,16 miliar jadi Rp110,75 miliar, penjualan tumbuh 24 persen, tapi arus kas operasi justru menyusut.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "laporan keuangan",
+   "laba bersih",
+   "emiten kimia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102115647-65477-0/FinancialStatement-2026-III-AKPI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sico-laba-turun-26-kuartal-iii-utang-bank-melonjak-151",
+  "category": "Aksi Korporasi",
+  "title": "SICO Laba Turun 26% Kuartal III, Utang Bank [Melonjak] 151%",
+  "deck": "Laba bersih SICO turun 26 persen jadi Rp8,56 miliar dalam sembilan bulan 2026, sementara total utang bank melonjak 151 persen menjadi Rp28,13 miliar per akhir September.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SICO",
+   "laporan keuangan",
+   "utang bank",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102113402-65675-0/FinancialStatement-2026-III-SICO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-waran-terstruktur-jpfa-disesuaikan-ikuti-dividen",
+  "category": "Aksi Korporasi",
+  "title": "DR: [Waran] Terstruktur JPFA Disesuaikan Ikuti Dividen",
+  "deck": "RHB Sekuritas menyesuaikan syarat waran terstruktur JPFA (DR) menyusul dividen tunai Rp90 per saham senilai total Rp1,05 triliun.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "JPFA",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c7b0b43ad3_b8f202685b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-rhb-sesuaikan-waran-terstruktur-untr-ikuti-dividen-rp430",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Sesuaikan [Waran] Terstruktur UNTR Ikuti Dividen Rp430",
+  "deck": "RHB Sekuritas (DR) menyesuaikan rasio dan harga pelaksanaan waran terstruktur UNTR menyusul dividen tunai Rp430 per saham yang dibayar 23 November 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "UNTR",
+   "Waran Terstruktur",
+   "Dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b4f379b292_1b453e5641.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-waran-t-24-icbp-indf-berakhir-19-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran [T-24] ICBP-INDF Berakhir 19 November 2026",
+  "deck": "RHB Sekuritas mengumumkan jadwal jatuh tempo waran terstruktur penerbitan ke-24 atas ICBP dan INDF, dengan pelaksanaan otomatis 19 November 2026 dan delisting sehari setelahnya.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "ICBP",
+   "INDF",
+   "waran terstruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d7f81d9a7_0d544090f8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "giias-makassar-2026-dibuka-pamerkan-14-merek-mobil-dan-motor",
   "category": "Industri",
   "title": "GIIAS Makassar 2026 Dibuka, Pamerkan [14] Merek Mobil dan Motor",
@@ -21,6 +117,54 @@ var ARTICLES = [
   "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
   "sourceUrl": "https://www.gaikindo.or.id/giias-makassar-2026-berpeluang-ikut-mendorong-ekonomi-indonesia-timur/",
   "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
+  "slug": "swat-catat-ekuitas-negatif-rp1-8-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "SWAT Catat [Ekuitas] Negatif Rp1,8 Miliar di Semester I 2026",
+  "deck": "Penjualan produsen kertas ini anjlok ke Rp305 juta dari Rp44,75 miliar, sementara total ekuitas berbalik negatif Rp1,83 miliar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SWAT",
+   "ekuitas negatif",
+   "laporan keuangan interim",
+   "industri kertas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102111307-65532-0/FinancialStatement-2026-II-SWAT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ranc-gelar-rupslb-9-desember-bahas-perubahan-kegiatan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "RANC Gelar RUPSLB 9 Desember, Bahas [Perubahan] Kegiatan Usaha",
+  "deck": "Supra Boga Lestari (RANC) menjadwalkan RUPSLB pada 9 Desember 2026 untuk membahas perubahan kegiatan usaha dan amendemen Pasal 3 anggaran dasar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RANC",
+   "RUPSLB",
+   "Supra Boga Lestari",
+   "perubahan kegiatan usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9d9595079b_87dd58b237.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indo-laba-kuartal-iii-naik-49-jadi-rp36-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "INDO: [Laba] Kuartal III Naik 49% Jadi Rp36,7 Miliar",
+  "deck": "Laba bersih sembilan bulan INDO melonjak 49 persen jadi Rp36,68 miliar, sementara liabilitas naik 28 persen seiring anak usaha gula mulai berproduksi.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDO",
+   "laporan keuangan",
+   "laba bersih",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102105650-65674-0/FinancialStatement-2026-III-INDO.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-emas-antam-naik-rp5-000-jadi-rp2-531-juta-gram",
@@ -6337,152 +6481,6 @@ var ARTICLES = [
    "watchlist"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027110144-64615-0/FinancialStatement-2026-III-IBFN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mmlp-bukukan-rugi-rp94-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "MMLP Bukukan [Rugi] Rp94 Miliar di Kuartal III 2026",
-  "deck": "Mega Manunggal Property mencatat rugi Rp94,03 miliar pada sembilan bulan pertama 2026, terbalik dari laba tahun lalu, akibat kerugian besar dari penjualan saham di entitas asosiasi.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MMLP",
-   "properti logistik",
-   "laporan keuangan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027033909-64632-0/FinancialStatement-2026-III-MMLP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tingkat-pengangguran-indonesia-turun-ke-4-65-terendah-sejak-1994",
-  "category": "Ketenagakerjaan",
-  "title": "Tingkat Pengangguran Indonesia [Turun] ke 4,65%, Terendah Sejak 1994",
-  "deck": "BPS mencatat tingkat pengangguran terbuka nasional turun ke 4,65% pada 2026, mendekati level terendah sejak 1994, saat angkatan kerja hampir dua kali lipat dibanding era 1990-an.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/bursa-kerja.jpg",
-  "tags": [
-   "pengangguran",
-   "ketenagakerjaan",
-   "BPS",
-   "pasar kerja"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7182/capai-tingkatan-pengangguran-mendekati-level-terendah-sejak-1994-di-tengah-lonjakan-penciptaan-lapangan-kerja-baru-hingga-dua-kali-lipat",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "idrus-marham-ekonomi-ri-jangan-gantung-ke-indeks-msci",
-  "category": "Pasar Modal",
-  "title": "Idrus Marham: Ekonomi RI Jangan Gantung ke Indeks [MSCI]",
-  "deck": "Idrus Marham mendukung pernyataan Dasco soal MSCI, menilai kemandirian ekonomi RI, dari pangan, energi, hingga pasar modal, lebih penting ketimbang penilaian indeks global.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/idrus-marham-ekonomi-ri-jangan-gantung-ke-indeks-msci.jpg",
-  "imageV": "mvq42qdl",
-  "tags": [
-   "MSCI",
-   "pasar modal",
-   "Idrus Marham",
-   "Sufmi Dasco Ahmad"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475170-idrus-marham-dukung-pernyataan-dasco-soal-msci-sebut-masa-depan-ekonomi-indonesia-tak-boleh-bergantung-pada-indeks-global"
- },
- {
-  "slug": "nick-nyaris-rugi-di-kuartal-iii-2026-ekspansi-ev-berlanjut",
-  "category": "Aksi Korporasi",
-  "title": "NICK Nyaris [Rugi] di Kuartal III 2026, Ekspansi EV Berlanjut",
-  "deck": "Laba Charnic Capital anjlok jadi rugi tipis Rp332 juta akibat kerugian portofolio efek, sementara utang melonjak untuk membiayai ekspansi sewa kendaraan listrik.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICK",
-   "Charnic Capital",
-   "laporan keuangan",
-   "kendaraan listrik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027101405-64949-0/FinancialStatement-2026-III-NICK.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kota-cetak-laba-rp51-67-miliar-di-sembilan-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "KOTA Cetak [Laba] Rp51,67 Miliar di Sembilan Bulan 2026",
-  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan pendapatan KOTA melonjak ke Rp125,05 miliar dan laba bersih Rp51,67 miliar, berbalik dari rugi Rp21,54 miliar setahun sebelumnya.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOTA",
-   "laporan keuangan",
-   "properti",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027171127-64882-0/FinancialStatement-2026-III-KOTA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-naik-tipis-ke-rp2-550-000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Naik] Tipis ke Rp2.550.000 per Gram",
-  "deck": "Harga emas Antam naik Rp10.000 menjadi Rp2.550.000 per gram pada 27 Oktober 2026, buyback ikut naik ke Rp2.345.000 per gram.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-naik-tipis-ke-rp2-550-000-per-gram.jpg",
-  "imageV": "mvq42r8n",
-  "tags": [
-   "emas antam",
-   "harga emas",
-   "logam mulia",
-   "investasi emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475168-harga-emas-antam-hari-ini-27-oktober-2026-naik-tipis-jadi-rp2550000-per-gram-buyback-ikut-melonjak"
- },
- {
-  "slug": "eral-catat-laba-bersih-rp192-5-miliar-naik-54-di-9-bulan",
-  "category": "Aksi Korporasi",
-  "title": "ERAL Catat Laba Bersih [Rp192,5 Miliar], Naik 54% di 9 Bulan",
-  "deck": "Penjualan PT Sinar Eka Selaras Tbk naik 44,7 persen jadi Rp6,21 triliun dalam sembilan bulan 2026, mendorong laba bersih tumbuh ke Rp192,51 miliar dari Rp124,60 miliar setahun sebelumnya.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAL",
-   "laporan keuangan",
-   "kinerja kuartal III",
-   "emiten ritel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027092526-64849-0/FinancialStatement-2026-III-ERAL.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sido-laba-9-bulan-turun-24-jadi-rp619-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SIDO: Laba 9 Bulan [Turun] 24% jadi Rp619 Miliar",
-  "deck": "Penjualan dan laba Sido Muncul menyusut dalam sembilan bulan 2026, meski kas naik hampir dua kali lipat dan utang turun sepertiga.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SIDO",
-   "laporan keuangan",
-   "laba bersih",
-   "Sido Muncul"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027091931-64843-0/FinancialStatement-2026-III-SIDO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fasw-catat-laba-rp230-miliar-tahun-lalu-rugi-rp731-m",
-  "category": "Aksi Korporasi",
-  "title": "FASW Catat [Laba] Rp230 Miliar, Tahun Lalu Rugi Rp731 M",
-  "deck": "FASW melaporkan laba bersih Rp230,4 miliar untuk sembilan bulan 2026, berbalik dari rugi Rp731,6 miliar pada periode sama tahun lalu, didorong penjualan yang naik 15,6 persen.",
-  "date": "27 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FASW",
-   "Fajar Surya Wisesa",
-   "laporan keuangan",
-   "kertas kemasan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261027021350-65003-0/FinancialStatement-2026-III-FASW.pdf",
   "sourceLabel": "IDX"
  }
 ];

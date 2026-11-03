@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-sda-lewat-singapura-diperketat-bisa-tambah-penerimaan-negara",
+  "category": "Energi",
+  "title": "Ekspor SDA Lewat Singapura Diperketat, Bisa [Tambah] Penerimaan Negara",
+  "deck": "Ekonom CORE Indonesia menilai larangan ekspor SDA lewat negara perantara seperti Singapura bisa menambah penerimaan negara hingga Rp3 triliun per tahun dari pajak dan royalti batu bara.",
+  "date": "4 November 2026",
+  "image": "assets/img/ekspor-sda-lewat-singapura-diperketat-bisa-tambah-penerimaan-negara.jpg",
+  "imageV": "mw17rsy2",
+  "tags": [
+   "Bahlil Lahadalia",
+   "ekspor batu bara",
+   "Singapura",
+   "penerimaan negara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476496-soal-kebijakan-menteri-bahlil-tertibkan-ekspor-sda-berpotensi-tambah-penerimaan-negara-hingga-triliun-rupiah"
+ },
+ {
   "slug": "surplus-perdagangan-ri-september-menyusut-ke-us-3-36-miliar",
   "category": "Makroekonomi",
   "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
@@ -6463,23 +6480,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029131114-65259-0/FinancialStatement-2026-III-TALF.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "as-sumbang-surplus-dagang-ri-us-12-47-miliar-hingga-agustus",
-  "category": "Global",
-  "title": "AS Sumbang [Surplus] Dagang RI US$12,47 Miliar hingga Agustus",
-  "deck": "Mendag Budi Santoso bertemu petinggi US-ABC membahas kerja sama dagang RI-AS, yang hingga Agustus 2026 masih menyumbang surplus terbesar bagi neraca dagang Indonesia.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/as-sumbang-surplus-dagang-ri-us-12-47-miliar-hingga-agustus.jpg",
-  "imageV": "mvt49sgg",
-  "tags": [
-   "perdagangan",
-   "Indonesia-AS",
-   "US-ABC",
-   "ekspor impor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-dunia-usaha-as-perkuat-kerja-sama-dengan-indonesia",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

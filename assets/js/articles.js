@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekspor-sda-lewat-singapura-diperketat-bisa-tambah-penerimaan-negara",
+  "category": "Energi",
+  "title": "Ekspor SDA Lewat Singapura Diperketat, Bisa [Tambah] Penerimaan Negara",
+  "deck": "Ekonom CORE Indonesia menilai larangan ekspor SDA lewat negara perantara seperti Singapura bisa menambah penerimaan negara hingga Rp3 triliun per tahun dari pajak dan royalti batu bara.",
+  "image": "assets/img/ekspor-sda-lewat-singapura-diperketat-bisa-tambah-penerimaan-negara.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T03:35:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476496-soal-kebijakan-menteri-bahlil-tertibkan-ekspor-sda-berpotensi-tambah-penerimaan-negara-hingga-triliun-rupiah",
+  "tags": [
+   "Bahlil Lahadalia",
+   "ekspor batu bara",
+   "Singapura",
+   "penerimaan negara"
+  ],
+  "body": [
+   "Pemerintah melalui Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga Menteri ESDM, Bahlil Lahadalia, melarang ekspor sumber daya alam, terutama batu bara, yang transaksinya dicatat lewat negara perantara seperti Singapura. Kebijakan ini menyasar praktik pencatatan kontrak dan laba di luar negeri, yang selama ini membuat sebagian nilai tambah dari penjualan sumber daya Indonesia tidak tercatat sebagai pendapatan dalam negeri.",
+   "Ekonom Center of Reform on Economics (CORE) Indonesia, Yusuf Rendy Manilet, menjelaskan bahwa dalam perdagangan batu bara, kapal pengangkut biasanya berlayar langsung dari Indonesia ke negara pembeli seperti China dan India, tanpa transit fisik di Singapura. Namun kontrak, faktur, dan margin dagang justru banyak tercatat lewat perusahaan yang berkantor di sana, sehingga nilai tambahnya tidak masuk pembukuan domestik meski barangnya tidak pernah singgah ke Singapura.",
+   "Yusuf memperkirakan nilai transaksi batu bara yang selama ini tercatat di luar negeri mencapai hampir US$4 miliar, atau sekitar Rp75 triliun, dengan asumsi volume dagang 55 juta ton dan harga rata-rata US$75 per ton. Jika transaksi itu dialihkan tercatat di Indonesia, tambahan nilai dagang yang masuk diperkirakan Rp1 triliun hingga Rp7 triliun per tahun, dengan potensi tambahan penerimaan negara dari pajak dan royalti sekitar Rp0,5 triliun hingga Rp3 triliun per tahun.",
+   "Yusuf menilai kebijakan ini bisa memperkuat transparansi perdagangan komoditas energi sekaligus menjaga kedaulatan ekonomi, meski ia mengingatkan tambahan penerimaan itu tetap berarti namun tidak sampai puluhan triliun rupiah. Ia juga menyebut pemerintah perlu mencocokkan data ekspor Indonesia dengan data impor negara tujuan untuk memastikan potensi manfaat ekonomi itu benar terealisasi."
+  ],
+  "fotoAdegan": "Workers guiding a conveyor belt loading coal onto a large bulk carrier at an Indonesian port terminal, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/04/6aea419b023d8-menteri-koordinator-hilirisasi-dan-transisi-energimenteri-energi-dan-sumber-daya-mineral-esdm-bahlil-lahadalia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan rute pengiriman batu baranya, melainkan tempat keuntungan dagangnya dicatat. Selama ini kontrak dan margin dagang banyak tercatat lewat perusahaan di Singapura, padahal kapalnya tetap berlayar langsung dari Indonesia ke pembeli seperti China dan India, dan dengan aturan baru ini pencatatan itu diarahkan masuk ke Indonesia sehingga uang pajak dan royalti, yakni bagian hasil tambang yang wajib disetor ke negara, bisa ikut bertambah. Yang kena dampak langsung adalah perusahaan trading batu bara yang memakai skema pencatatan lewat Singapura, sementara pembeli di luar negeri tidak terganggu karena pasokan fisiknya tidak berubah. Arahnya mengarah ke pengetatan kontrol atas pencatatan nilai ekspor sumber daya alam sebagai bagian dari agenda hilirisasi, bukan larangan ekspor itu sendiri. Besaran manfaatnya, yang diperkirakan Rp0,5 triliun sampai Rp3 triliun per tahun, baru akan jelas setelah pemerintah merampungkan satu langkah yang disebut Yusuf sendiri, yaitu mencocokkan data ekspor Indonesia dengan data impor negara tujuan.",
+  "imageV": "mw17rsy2"
+ },
+ {
   "slug": "surplus-perdagangan-ri-september-menyusut-ke-us-3-36-miliar",
   "category": "Makroekonomi",
   "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
@@ -188,7 +215,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang disampaikan di sini bukan aturan baru, melainkan imbauan Wakil Menteri Koordinator Perekonomian saat tampil di podcast, agar investor tidak hanya mengikuti penilaian lembaga pemeringkat indeks asing seperti MSCI atau FTSE Russell saat memutuskan membeli atau menjual saham. Pihak yang berpotensi terdampak adalah investor ritel dan domestik di pasar modal, sekaligus emiten yang kinerjanya jadi acuan penilaian lembaga-lembaga itu. Siaran pers ini tidak menyebutkan penilaian spesifik apa dari MSCI atau FTSE Russell yang memicu pernyataan tersebut, maupun bentuk konkret dari rencana memperkuat keterbukaan kepemilikan saham yang disebut Dradjad. Yang perlu dipantau adalah apakah pernyataan ini akan diikuti aturan turunan soal transparansi pasar modal, atau berhenti sebagai pernyataan sikap tanpa tindak lanjut kebijakan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "harga-acuan-batu-bara-turun-tipis-kalori-rendah-naik",

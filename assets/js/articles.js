@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "yelo-panggil-rupslb-kedua-modal-dasar-naik-ke-rp765-miliar",
+  "category": "Aksi Korporasi",
+  "title": "YELO Panggil RUPSLB Kedua, [Modal Dasar] Naik ke Rp765 Miliar",
+  "deck": "RUPSLB pertama gagal kuorum, YELO panggil rapat kedua pada 10 November 2026 untuk menyetujui kenaikan modal dasar dari Rp275,2 miliar menjadi Rp765,1 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T19:14:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/31a22283e0_1228f1eb67.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YELO",
+  "tags": [
+   "YELO",
+   "RUPSLB",
+   "modal dasar",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Yelooo Integra Datanet Tbk (YELO) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua setelah RUPSLB pertama pada 26 Oktober 2026 gagal mengambil keputusan karena kehadiran pemegang saham tidak memenuhi kuorum sesuai Anggaran Dasar Perseroan dan POJK Nomor 15/POJK.04/2020. Rapat kedua dijadwalkan Selasa, 10 November 2026 pukul 14.00 WIB di Ruang Jawa Axa Tower Lantai 42, Jalan Prof Dr Satrio Kav. 18, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan Bursa pada Senin, 2 November 2026.",
+   "Agenda tunggal rapat ini adalah persetujuan perubahan Pasal 4 Anggaran Dasar terkait peningkatan modal dasar Perseroan, dari semula Rp275.200.000.000 yang terbagi atas 2.752.000.000 saham, menjadi Rp765.109.762.000 yang terbagi atas 7.651.097.620 saham. Dengan kata lain, pagar maksimum saham yang boleh diterbitkan Perseroan naik hampir tiga kali lipat dari posisi sekarang.",
+   "Pemanggilan ditandatangani Corporate Secretary YELO, Rosi Diani, pada 3 November 2026. Pemegang saham dapat hadir secara fisik atau elektronik melalui aplikasi eASY.KSEI, dengan batas waktu pemberian kuasa dan suara elektronik pukul 12.00 WIB satu hari kerja sebelum rapat. Bagi yang memberi kuasa manual, pertanyaan atas agenda rapat bisa disampaikan lewat email ke corsec@passpod.com dengan tembusan ke ficomindo_br@yahoo.com, dan jawabannya akan dikirim paling lambat tiga hari kerja setelah rapat."
+  ],
+  "fotoAdegan": "Modern glass office high-rise exterior in Jakarta's business district, street-level view, midday light reflecting off windows",
+  "takeaway": "Kami menilai rencana ini netral untuk saat ini, sebab menaikkan modal dasar hanya membuka pagar maksimum saham yang boleh diterbitkan, belum berarti saham baru benar-benar dicetak dan dijual ke publik. Yang perlu diwaspadai adalah jumlah saham beredar: pagar modal dasar naik dari 2,75 miliar menjadi 7,65 miliar lembar, hampir tiga kali lipat, sehingga kalau Perseroan benar-benar menerbitkan saham baru sampai batas itu nanti, laba per saham bagi pemegang saham lama bisa tergerus karena keuntungan dibagi ke lebih banyak lembar. Sinyal ini perlu dibaca bersama kinerja YELO yang sedang tertekan, yakni rugi Rp643 juta dan pendapatan turun 41 persen di kuartal III 2026, sehingga ruang modal yang lebih besar ini kemungkinan disiapkan untuk mencari dana segar. Yang perlu dipantau berikutnya adalah hasil RUPSLB kedua pada 10 November 2026, karena RUPSLB pertama pada 26 Oktober 2026 batal mengambil keputusan akibat kuorum tidak tercapai, dan bila rapat kedua ini kembali menemui kendala kehadiran, agenda peningkatan modal dasar bisa tertunda lagi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "foru-tanggapi-bursa-ungkap-rencana-transaksi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "FORU Tanggapi Bursa, Ungkap Rencana [Transaksi Afiliasi]",
+  "deck": "Fortune Indonesia menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, dan mengonfirmasi rencana transaksi afiliasi dan/atau material dalam waktu dekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T18:28:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/98c517121b_00442ad4f7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "volatilitas transaksi",
+   "transaksi afiliasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia meminta penjelasan kepada Fortune Indonesia Tbk (FORU) melalui surat nomor S-13695/BEI.PP1/11-2026 yang diterima perusahaan pada 2 November 2026, terkait volatilitas transaksi efek saham FORU. Dalam tanggapan bernomor 088/FORU-CS/XI/2026 tertanggal 3 November 2026 pukul 18.28 WIB yang diteken Hadi Pranggono, Direktur dan Sekretaris Perusahaan, FORU menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat mempengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perusahaan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024 tentang kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "Soal rencana aksi korporasi, FORU mengonfirmasi memiliki rencana melakukan transaksi afiliasi dan/atau transaksi material dalam waktu dekat. Rencana ini merujuk pada keterbukaan informasi yang sudah disampaikan sebelumnya lewat surat nomor 085/FORU-CS/X/2026 tanggal 27 Oktober 2026, mengenai rencana penyampaian laporan keuangan kuartal III 2026 yang ditelaah secara terbatas. Di luar itu, perusahaan menegaskan belum ada rencana aksi korporasi lain yang akan berdampak pada status pencatatan sahamnya di bursa dalam tiga bulan mendatang, dan tidak ada informasi material lain yang belum diungkapkan ke publik.",
+   "Pada poin terakhir, Sekretaris Perusahaan menyatakan sudah mengonfirmasi langsung kepada pemegang saham utama FORU, dan hasilnya pemegang saham utama tidak memiliki rencana apa pun terkait kepemilikan sahamnya di perusahaan untuk saat ini."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's business district at dusk, pedestrians and taxis passing below, soft lighting",
+  "takeaway": "Tanggapan ini condong netral bagi FORU, karena isinya murni konfirmasi rutin atas permintaan bursa, tanpa kabar buruk konkret seperti pelepasan saham pemegang saham utama, tapi juga tanpa kabar baik baru di luar yang sudah pernah diumumkan. Satu-satunya hal yang menyentuh kinerja ke depan adalah rencana transaksi afiliasi dan/atau material, yaitu transaksi dengan pihak yang punya hubungan kepemilikan atau pengurus yang sama dengan FORU. Transaksi semacam ini layak dicermati karena harganya bisa saja tidak terbentuk dari tawar menawar pasar bebas, sehingga berpotensi mempengaruhi ekuitas atau arus kas perusahaan tergantung skema dan nilainya, namun dokumen ini belum merinci pihak maupun nilai transaksinya. Yang perlu dipantau selanjutnya adalah keterbukaan informasi rinci soal transaksi afiliasi dan/atau material tersebut begitu terealisasi, serta penyampaian laporan keuangan kuartal III 2026 yang ditelaah secara terbatas yang rencananya sudah diumumkan sejak 27 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ri-jadi-ketua-d-8-bidik-optimalkan-pakta-dagang-preferensial",
   "category": "Global",
   "title": "RI Jadi Ketua D-8, Bidik Optimalkan Pakta Dagang [Preferensial]",
@@ -59,6 +111,85 @@ var ARTICLES = [
   "imageV": "mw0ktvws"
  },
  {
+  "slug": "boga-akuisisi-distributor-chery-senilai-rp4-85-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BOGA Akuisisi Distributor [Chery] Senilai Rp4,85 Miliar",
+  "deck": "Dua entitas anak BOGA membeli seluruh saham PT Pradipta Cakra Buana, pemegang kontrak distributor resmi Chery, senilai total Rp4,85 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T17:25:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4e55151c4d_2a9ca7ee6f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOGA",
+  "tags": [
+   "BOGA",
+   "akuisisi",
+   "otomotif",
+   "Chery"
+  ],
+  "body": [
+   "PT Apollo Global Interactive Tbk (BOGA), emiten yang sebelumnya bernama PT Bintang Oto Global Tbk, mengumumkan akuisisi saham PT Pradipta Cakra Buana (PCB) pada 30 Oktober 2026. Transaksi dilakukan oleh dua entitas anak langsung BOGA, yaitu PT Bintang Digital Utama (BDU) dan PT Bintang Mitra Dana (BMD), yang bersama-sama membeli seluruh 48.500 lembar saham PCB dari dua pemegang saham sebelumnya, PT Arung Mitra Bersama (AMB) dan PT Bira Jaya Sehati (BJS).",
+   "BDU membeli 24.250 lembar saham PCB yang sebelumnya dimiliki AMB senilai Rp2,425 miliar, serta 24.240 lembar saham PCB yang sebelumnya dimiliki BJS senilai Rp2,424 miliar. Sisanya, 10 lembar saham PCB milik BJS, dibeli oleh BMD senilai Rp1 juta. Secara keseluruhan, BOGA merogoh Rp4,85 miliar untuk menguasai seluruh saham PCB, perusahaan yang berdomisili di Jakarta Selatan dan berdiri pada 14 Agustus 2023 dengan lini usaha perdagangan umum dan jasa.",
+   "Manajemen BOGA menyebut alasan akuisisi ini adalah diversifikasi lini usaha, karena PCB memegang kontrak kerja sama dengan distributor resmi produk Chery yang meliputi kendaraan, suku cadang, dan lini produk lainnya. Perseroan menyatakan transaksi ini diharapkan memberi dampak positif dan berkelanjutan terhadap kinerja operasionalnya ke depan. Keterbukaan informasi ini disampaikan sesuai Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan atas Informasi atau Fakta Material."
+  ],
+  "fotoAdegan": "Rows of new sedans parked at a car dealership lot in Indonesia, workers polishing vehicle hoods under bright daylight",
+  "takeaway": "Akuisisi ini condong positif bagi BOGA karena menambah lini bisnis baru di sektor otomotif tanpa menerbitkan saham baru, meski nilainya yang hanya Rp4,85 miliar membuat dampaknya terhadap kinerja keseluruhan perseroan masih terbatas untuk saat ini. Transaksi ini akan tercermin di arus kas, yaitu catatan uang tunai yang benar-benar masuk dan keluar dari kas perusahaan, karena dua entitas anak BOGA mengeluarkan dana segar untuk membeli saham PCB. Pelaku pasar biasanya mencermati arus kas semacam ini untuk melihat apakah ekspansi dibiayai dari kas internal atau utang baru, sesuatu yang tidak dijelaskan dalam dokumen ini. Yang perlu dipantau selanjutnya adalah laporan keuangan konsolidasi BOGA pada kuartal mendatang, yang akan menunjukkan apakah kontrak distribusi resmi Chery yang dipegang PCB benar-benar menyumbang pendapatan baru seperti yang diharapkan manajemen.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pipa-pangkas-liabilitas-23-tapi-kas-tergerus-jadi-rp501-juta",
+  "category": "Aksi Korporasi",
+  "title": "PIPA pangkas liabilitas 23%, tapi kas [tergerus] jadi Rp501 juta",
+  "deck": "Oxala Energy International (PIPA) menjelaskan ke OJK dan BEI penurunan liabilitas 22,99%, tapi kas perusahaan anjlok dari Rp12,6 miliar jadi hanya Rp501 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T17:24:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103173347-65723-0/FinancialStatement-2026-III-PIPA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIPA",
+  "tags": [
+   "PIPA",
+   "Oxala Energy International",
+   "liabilitas",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Oxala Energy International Tbk (PIPA), dulu bernama PT Multi Makmur Lemindo Tbk, menyampaikan surat penjelasan koreksi kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia terkait penurunan total liabilitas lebih dari 20% pada laporan keuangan interim per 30 September 2026. Total liabilitas perseroan tercatat Rp27,02 miliar, turun Rp8,07 miliar atau 22,99% dibandingkan posisi akhir 2025 yang sebesar Rp35,09 miliar. Penurunan ini berasal dari liabilitas jangka pendek yang turun dari Rp31,67 miliar menjadi Rp20,69 miliar, sementara liabilitas jangka panjang justru naik dari Rp3,42 miliar menjadi Rp6,34 miliar.",
+   "Sebagian penurunan itu hanya soal pencatatan, bukan pelunasan riil. Utang bank jangka pendek yang tercatat turun dari Rp3,99 miliar menjadi Rp754,87 juta sebenarnya hanya dipindahkan ke pos utang bank jangka panjang, yang naik dari Rp415,34 juta menjadi Rp4,03 miliar, akibat perseroan beralih ke sistem akuntansi baru bernama Accurate. Yang benar-benar pelunasan nyata adalah utang usaha ke pemasok yang turun dari Rp5,41 miliar menjadi Rp4,54 miliar, utang pajak yang turun dari Rp2,21 miliar menjadi Rp1,45 miliar, dan yang paling besar, utang kepada pemegang saham atau pihak berelasi yang turun dari Rp18,47 miliar menjadi Rp14,13 miliar, atau berkurang Rp4,33 miliar. Perseroan menyebut pelunasan utang afiliasi ini sebagai bagian dari penyelesaian tanggung jawab pemegang saham pengendali sebelumnya.",
+   "Pelunasan utang-utang tersebut menguras kas perusahaan. Kas dan setara kas anjlok dari Rp12,61 miliar pada akhir 2025 menjadi hanya Rp501,17 juta pada akhir September 2026, turun sekitar Rp12,11 miliar. Penyebabnya antara lain pembayaran utang bank sebesar Rp9,06 miliar dan pembelian aset tetap sebesar Rp8,84 miliar. Di sisi laba, perseroan mencatat laba bersih sembilan bulan sebesar Rp1,26 miliar, turun dari Rp2,66 miliar pada periode yang sama tahun sebelumnya, sehingga laba per saham ikut turun dari Rp0,90 menjadi Rp0,37.",
+   "Perubahan nama dan penurunan liabilitas ini berjalan bersamaan dengan pemindahan domisili perseroan dari Tangerang ke Jakarta Selatan berdasarkan akta tanggal 8 Juli 2026. Pemegang saham pengendali langsung PIPA saat ini adalah PT Morris Capital Indonesia dengan kepemilikan 49,92%. Surat koreksi ini ditandatangani oleh Sekretaris Perusahaan Haerul Maelani pada 3 November 2026."
+  ],
+  "fotoAdegan": "Factory workers inspecting rows of white PVC pipes stacked on a warehouse floor, forklift nearby, overcast industrial daylight.",
+  "takeaway": "Laporan ini netral bagi pemegang saham karena dua sinyalnya saling menetralkan: utang memang berkurang secara nyata, termasuk ke pemegang saham lama, tapi pelunasannya menghabiskan hampir seluruh kas perusahaan. Yang perlu diperhatikan adalah pos kas dan ekuitas: kas tunai yang tersisa hanya Rp501 juta membuat perseroan punya sedikit sekali bantalan dana cair kalau tiba-tiba butuh bayar kewajiban mendadak, sementara laba per saham, yaitu bagian laba yang secara matematis menjadi milik setiap satu lembar saham, turun lebih dari separuh menjadi Rp0,37. Yang perlu dipantau selanjutnya adalah laporan keuangan audit tahun buku 2026 yang biasanya terbit awal 2027, untuk melihat apakah kas perusahaan terisi kembali dari hasil operasi, serta apakah perseroan benar menuntaskan penyelarasan akun pembiayaan konsumen yang disebutnya sendiri masih tumpang tindih antara pos jangka pendek dan jangka panjang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bcic-dirut-ritsuo-fukadai-mundur-tunggu-restu-ojk-rups",
+  "category": "Aksi Korporasi",
+  "title": "BCIC: Dirut Ritsuo Fukadai [Mundur], Tunggu Restu OJK-RUPS",
+  "deck": "Direktur Utama Bank JTrust Indonesia, Ritsuo Fukadai, mengajukan surat pengunduran diri pada 30 Oktober 2026, efektif setelah mendapat persetujuan OJK dan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T17:23:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/898a11532f_b1e96cce19.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BCIC",
+  "tags": [
+   "BCIC",
+   "Bank JTrust Indonesia",
+   "pergantian direksi",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank JTrust Indonesia Tbk (BCIC) melaporkan ke Bursa Efek Indonesia bahwa Direktur Utama atau Presiden Direktur (CEO) perusahaan, Ritsuo Fukadai, mengajukan surat pengunduran diri pada 30 Oktober 2026. Surat itu ditujukan kepada para pemegang saham dan Dewan Komisaris. Perusahaan menegaskan pengunduran diri ini baru berlaku efektif setelah mendapat persetujuan dari Otoritas Jasa Keuangan (OJK) dan disetujui dalam Rapat Umum Pemegang Saham (RUPS), sesuai Anggaran Dasar bank dan aturan yang berlaku.",
+   "Dalam suratnya, Fukadai menyebut telah menjabat sebagai CEO Bank JTrust Indonesia sejak 2019, sehingga genap tujuh tahun memimpin perusahaan. Ia menyampaikan terima kasih kepada pemegang saham dan jajaran komisaris atas kepercayaan selama masa jabatannya, serta menyebut pengalaman tersebut sebagai bagian penting dari perkembangan profesional dan pribadinya. Surat tersebut ditembuskan kepada jajaran Direksi PT Bank JTrust Indonesia Tbk.",
+   "Dalam laporan keterbukaan informasi yang disampaikan ke bursa, perusahaan menyatakan peristiwa ini tidak berdampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha. Laporan ditandatangani secara elektronik oleh Hendy Deiny Wong, Kepala Divisi Sekretaris Perusahaan (Corporate Secretary Division Head) Bank JTrust Indonesia, pada 3 November 2026."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, wide angle, soft morning light, light street traffic below",
+  "takeaway": "Laporan ini cenderung netral karena pengunduran diri berjalan melalui prosedur resmi, tanpa indikasi konflik atau masalah hukum yang disebut dalam dokumen, namun tetap menyisakan ketidakpastian arah kepemimpinan sampai ada pengganti. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan stabilitas tata kelola, sebab pelaku pasar biasanya mencermati siapa yang akan meneruskan strategi bank setelah pucuk pimpinan berganti, apalagi setelah tujuh tahun masa jabatan yang sama. Perusahaan sendiri menyatakan tidak ada dampak material terhadap operasional maupun kondisi keuangan, sehingga risikonya lebih ke soal kesinambungan manajemen ketimbang angka di laporan keuangan. Yang perlu dipantau selanjutnya adalah dua syarat yang disebut dalam surat ini sendiri, yaitu persetujuan dari OJK dan keputusan RUPS, karena pengunduran diri Fukadai baru efektif setelah keduanya terpenuhi, termasuk siapa yang akan diajukan sebagai pengganti Direktur Utama.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bike-koreksi-jawaban-bursa-rp21-85-m-akuisisi-belum-dibayar",
   "category": "Aksi Korporasi",
   "title": "BIKE Koreksi Jawaban Bursa, Rp21,85 M Akuisisi Belum [Dibayar]",
@@ -83,6 +214,32 @@ var ARTICLES = [
   "fotoAdegan": "Gas-fired power plant turbines and steel piping under an overcast sky, workers in hard hats inspecting equipment at a distance",
   "takeaway": "Laporan ini condong negatif bagi BIKE, karena koreksi kedua dalam sehari ini menegaskan satu dari tiga akuisisi, yaitu FBM, memang transaksi dengan direksi perusahaan sendiri, sementara total Rp21,85 miliar nilai tiga akuisisi masih belum dibayar dan tiga anak usaha belum masuk laporan keuangan konsolidasian BIKE. Pos yang tersentuh adalah ekuitas, karena ambang batas transaksi material dihitung dari ekuitas BIKE yang hanya Rp65,52 miliar, dan status konsolidasi, yakni apakah aset serta pendapatan anak usaha baru ikut dihitung dalam laporan keuangan induk, sebab selama belum dikonsolidasi investor tidak melihat kinerja riil anak usaha tersebut di buku BIKE. Yang perlu dipantau selanjutnya adalah realisasi penuh pencairan pinjaman dari PMJ dan pelaksanaan RUPSLB yang disebut perseroan untuk merapikan administrasi akuisisi, meski BIKE belum menyebut tanggal pastinya, serta kemungkinan permintaan penjelasan lanjutan dari Bursa menyusul inkonsistensi nama pihak penjual dalam dokumen ini.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "rhb-sesuaikan-waran-terstruktur-itmg-ikuti-dividen-us-74-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "RHB Sesuaikan Waran Terstruktur [ITMG] Ikuti Dividen US$74,2 Juta",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan Waran Terstruktur ITMG mengikuti dividen tunai US$74,2 juta dari PT Indo Tambangraya Megah, dibayarkan 18 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:51:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a3c1716e9_66b3e94ce8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "ITMG",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia (DR) mengumumkan penyesuaian syarat dan ketentuan Waran Terstruktur dengan saham acuan PT Indo Tambangraya Megah Tbk (ITMG). Penyesuaian ini mengikuti keterbukaan informasi ITMG tanggal 2 November 2026 tentang pembagian dividen tunai untuk tahun buku 2026, setelah keputusan Direksi yang disetujui Dewan Komisaris ITMG pada 30 Oktober 2026. Total nilai dividen yang akan dibagikan sudah ditentukan sebesar US$74,2 juta.",
+   "Jadwal pembagian dividen ITMG berjalan sebagai berikut: tanggal efektif 30 Oktober 2026, cum dividen di pasar reguler dan negosiasi pada 10 November 2026, lalu ex dividen pada 11 November 2026. Di pasar tunai, cum dividen jatuh pada 12 November 2026 dan ex dividen pada 13 November 2026. Investor yang namanya tercatat sebagai pemegang saham pada 12 November 2026 pukul 16.00 berhak menerima dividen, dengan pembayaran dilakukan paling lambat pada 18 November 2026.",
+   "Karena saham ITMG menjadi acuan Waran Terstruktur yang diterbitkan RHB, pembagian dividen itu membuat rasio pelaksanaan dan harga pelaksanaan waran ikut disesuaikan, sesuai formula dalam Term Sheet dan Prospektus Waran Terstruktur. Penyesuaian ini memperhitungkan harga penutupan saham ITMG pada hari terakhir diperdagangkan secara cum-dividen, besaran dividen per saham, serta harga dan rasio pelaksanaan waran yang berlaku sebelumnya. RHB juga menyebutkan bahwa penyesuaian ini bisa saja tidak dilakukan jika menurut kebijakan diskresioner penerbit dianggap tidak diperlukan, tanpa ada kewajiban apa pun kepada pemegang waran."
+  ],
+  "fotoAdegan": "Loaded coal haul trucks moving along a dusty road at an open-pit mine, heavy machinery and overcast sky in the background",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental ITMG maupun RHB Sekuritas, karena isinya hanya menjalankan mekanisme baku yang otomatis berlaku setiap kali saham acuan sebuah waran terstruktur membagikan dividen. Yang tersentuh adalah harga dan rasio pelaksanaan instrumen derivatif waran itu sendiri, bukan ekuitas, arus kas, atau laba per saham ITMG, sehingga penyesuaian ini sekadar menjaga nilai wajar waran agar tidak berubah akibat dividen pada saham acuannya. Pelaku pasar yang memegang waran terstruktur ITMG perlu memperhatikan dua hal konkret: tanggal pembayaran dividen pada 18 November 2026, dan kemungkinan RHB memutuskan tidak melakukan penyesuaian sama sekali sesuai kebijakan diskresioner yang disebut dalam dokumen ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "inco-laba-melonjak-3-kali-lipat-jadi-us-147-juta-di-9m26",
@@ -479,6 +636,111 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of a glass-clad high-rise bank tower in Jakarta's Mampang business district, afternoon light, cars passing on the street below.",
   "takeaway": "Laporan ini netral bagi kinerja Allo Bank, karena nilainya kecil, hanya 0,54 persen dari modal disetor, dan sifatnya rutin yaitu memperpanjang sewa ruang kantor yang memang sudah ditempati Perseroan di gedung milik kelompok usaha Bank Mega. Yang tersentuh hanya beban operasional, yaitu biaya sewa yang akan tercatat sebagai pengeluaran rutin di laporan laba rugi, bukan ekuitas, arus kas investasi, atau jumlah saham beredar, sehingga dampaknya ke laba bersih sangat terbatas dibanding ukuran bank ini. Yang perlu dipantau adalah apakah ada perpanjangan setelah masa sewa berakhir pada 30 April 2027, karena nilai sewa bisa berubah pada negosiasi berikutnya, serta konsistensi pelaporan transaksi afiliasi serupa ke depan sebagai bagian transparansi hubungan Allo Bank dengan Bank Mega.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "mpix-ganti-komisaris-independen-sepakati-laba-rp7-9-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MPIX Ganti Komisaris [Independen], Sepakati Laba Rp7,9 Miliar",
+  "deck": "RUPST dan RUPSLB MPIX menetapkan Dr. Nurfaizi sebagai komisaris independen baru dan membagi laba bersih Rp7,92 miliar tahun 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T15:23:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f6c9e49b76_ac75d8bb64.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPIX",
+  "tags": [
+   "MPIX",
+   "RUPST",
+   "komisaris independen",
+   "waran seri I"
+  ],
+  "body": [
+   "PT Mitra Pedagang Indonesia Tbk (MPIX) melaporkan perubahan pengurus berupa penggantian komisaris independen. Wijanarko, SE, Ak diberhentikan dengan hormat dan diganti oleh Dr. Nurfaizi, MM, sesuai keputusan rapat pemegang saham dengan tanggal pengangkatan 29 Juni 2026. Susunan pengurus lain tidak berubah: Sahrul Akbariyansyah tetap komisaris utama, sementara Abdul Muidz tetap direktur utama didampingi Hendra Setiawan, Rio Adetya Rizky, dan Hadiantono sebagai direktur, semuanya menjabat sejak 17 Oktober 2023. Masa jabatan Dr. Nurfaizi berlaku sampai penutupan RUPST tahun 2028.",
+   "Dalam Rapat Umum Pemegang Saham Tahunan yang dihadiri pemegang 1.150.047.000 saham atau 73,59 persen dari total 1.562.574.308 saham berhak suara, seluruh agenda disetujui bulat tanpa suara menolak atau abstain. Perseroan menetapkan laba bersih tahun buku 2025 sebesar Rp7.921.881.262, dengan Rp2 miliar disisihkan sebagai cadangan dan sisanya Rp5.921.881.262 dicatat sebagai saldo laba belum dibagikan, tanpa ada pembagian dividen kepada pemegang saham. Rapat juga melimpahkan kewenangan penunjukan akuntan publik untuk audit tahun buku 2026 kepada dewan komisaris, serta menerima laporan realisasi penambahan modal disetor dari pelaksanaan penukaran Waran Seri I, meski laporan ini sifatnya hanya pemberitahuan tanpa pemungutan suara.",
+   "Pada hari yang sama, Rapat Umum Pemegang Saham Luar Biasa yang dihadiri pemegang 1.147.806.600 saham atau 73,45 persen dari total saham berhak suara menyetujui penyesuaian kode klasifikasi baku lapangan usaha (KBLI) perseroan dari versi 2020 ke versi 2025, sekaligus penambahan sejumlah bidang usaha baru. Penyesuaian ini meliputi rincian kode perdagangan eceran untuk makanan, minuman, farmasi, dan kosmetik, perdagangan eceran berbagai barang lain, jasa telekomunikasi, pengembangan aplikasi e-commerce, hingga platform perantara digital untuk listrik, gas, logistik, akomodasi, dan penerbitan perangkat lunak. Agenda ini disetujui dengan 1.147.806.500 suara setuju berbanding 100 suara tidak setuju."
+  ],
+  "fotoAdegan": "Narrow aisles of a small Indonesian convenience store stocked with packaged goods, a customer browsing shelves, soft morning light through the storefront window.",
+  "takeaway": "Laporan ini netral: penggantian komisaris independen dan penyesuaian kode usaha bersifat rutin, sementara dari laba bersih Rp7,92 miliar tahun 2025 perseroan menahan hampir semuanya sebagai cadangan dan saldo laba tanpa membagikan dividen, sehingga tidak ada dampak langsung ke kas pemegang saham. Yang tersentuh di sini adalah ekuitas dan jumlah saham beredar, karena dana yang ditahan menambah modal sendiri perusahaan, sementara laporan realisasi penukaran waran menandakan ada saham baru yang terbit sehingga laba per saham bagi pemegang saham lama berpotensi terbagi ke lebih banyak pihak. Yang perlu dipantau berikutnya adalah rincian lanjutan realisasi penambahan modal dari pelaksanaan waran tersebut, termasuk jumlah saham baru dan harganya, serta kinerja komisaris independen baru yang masa jabatannya berlaku sampai penutupan RUPST tahun 2028.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ssia-catat-laba-bersih-rp344-4-miliar-properti-jadi-pendorong",
+  "category": "Aksi Korporasi",
+  "title": "SSIA Catat Laba Bersih Rp344,4 Miliar, [Properti] Jadi Pendorong",
+  "deck": "Pendapatan sembilan bulan SSIA naik 44,7 persen menjadi Rp4,8 triliun, didorong lonjakan segmen properti dan perhotelan, sementara konstruksi melambat dan kas menyusut akibat ekspansi lahan Subang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T15:19:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f907d058a_c02509e2eb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SSIA",
+  "tags": [
+   "SSIA",
+   "kinerja keuangan",
+   "properti",
+   "konstruksi"
+  ],
+  "body": [
+   "PT Surya Semesta Internusa Tbk (SSIA) membukukan pendapatan konsolidasian sebesar Rp4.808,8 miliar pada sembilan bulan pertama 2026, tumbuh 44,7 persen dari Rp3.323,4 miliar pada periode yang sama tahun sebelumnya. Segmen properti menjadi penopang utama pertumbuhan dengan pendapatan Rp1.483,5 miliar, melonjak 172,2 persen dari Rp545,0 miliar, didorong penjualan lahan industri di Subang Smartpolitan dan Suryacipta City of Industry Karawang senilai Rp1.150,5 miliar. Segmen perhotelan juga tumbuh kuat menjadi Rp940,9 miliar, naik 161,2 persen dari Rp360,2 miliar, sementara segmen konstruksi justru melambat menjadi Rp2.507,1 miliar dari Rp2.649,2 miliar karena perolehan kontrak baru yang lebih sedikit dibandingkan tahun lalu.",
+   "Laba kotor perusahaan naik 113,9 persen menjadi Rp1.581,7 miliar, dan EBITDA melonjak dari Rp256,7 miliar menjadi Rp951,5 miliar, sehingga margin EBITDA membaik dari 7,7 persen menjadi 19,8 persen. Laba bersih SSIA melonjak dari Rp6,5 miliar pada sembilan bulan 2025 menjadi Rp344,4 miliar pada periode yang sama tahun ini. Segmen properti menyumbang laba bersih Rp525,5 miliar, naik 330,7 persen, dan segmen konstruksi menyumbang Rp133,4 miliar meski turun 14,9 persen. Segmen perhotelan masih mencatat rugi bersih Rp34,9 miliar, tetapi kerugian itu sudah menyusut 74,5 persen dibandingkan tahun sebelumnya, terutama karena okupansi dan tarif kamar yang tinggi di hotel-hotel SSIA di Bali seperti Paradisus by Meliá dan Umana Bali pada kuartal ketiga 2026.",
+   "Di unit konstruksi, PT Nusa Raya Cipta Tbk mencatat pendapatan konsolidasian Rp2.514,4 miliar pada sembilan bulan 2026, turun dari Rp2.655,2 miliar, dengan perolehan kontrak baru senilai Rp2.320,0 miliar atau turun 10,1 persen dari Rp2.579,5 miliar tahun lalu. Posisi kas SSIA tercatat Rp928,9 miliar pada akhir September 2026, turun 15,0 persen dari Rp1.093,0 miliar pada semester pertama, karena dipakai untuk akuisisi dan pengembangan lahan di Subang Smartpolitan. Utang berbunga perusahaan tercatat Rp2.242,1 miliar, turun 1,2 persen dari Rp2.269,1 miliar pada semester pertama, dengan rasio utang terhadap ekuitas sebesar 26,0 persen."
+  ],
+  "fotoAdegan": "Aerial view of a cleared industrial estate with access roads and land plots under development, construction machinery visible, daylight.",
+  "takeaway": "Laporan kinerja sembilan bulan ini condong positif bagi SSIA, karena laba bersih melonjak dari Rp6,5 miliar menjadi Rp344,4 miliar dan margin EBITDA naik dari 7,7 persen menjadi 19,8 persen, meski segmen konstruksi melambat dan segmen perhotelan masih merugi. Yang tersentuh di sini adalah laba bersih dan margin EBITDA, yaitu porsi pendapatan yang benar-benar tersisa jadi keuntungan setelah dikurangi biaya operasional, sehingga kenaikannya menandakan efisiensi usaha yang lebih baik, bukan sekadar penjualan yang membesar. Posisi kas juga tersentuh, turun 15 persen dalam tiga bulan karena dipakai membeli dan mengembangkan lahan di Subang Smartpolitan, sementara utang berbunga justru sedikit menyusut sehingga rasio utang terhadap modal sendiri tetap terjaga di 26 persen. Yang perlu dipantau berikutnya adalah realisasi tambahan pemesanan lahan industri pada kuartal keempat 2026 yang disebut sendiri oleh perseroan, serta dampak kontrak baru unit konstruksi NRCA yang turun 10,1 persen menjadi Rp2.320 miliar terhadap pendapatan konstruksi tahun berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "apia-alihkan-seluruh-saham-gmf-rp5-66-triliun-ke-induk-injourney",
+  "category": "Aksi Korporasi",
+  "title": "APIA Alihkan Seluruh Saham GMF Rp5,66 Triliun ke Induk [InJourney]",
+  "deck": "APIA mengalihkan seluruh 82,1 miliar lembar sahamnya di GMF Aero Asia, senilai Rp5,66 triliun, ke induk usaha PT Aviasi Pariwisata Indonesia (Persero) lewat skema dividen in specie.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T15:11:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a6ff82e788_2af2e6e5a4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APIA",
+  "tags": [
+   "APIA",
+   "GMF",
+   "InJourney",
+   "dividen in specie"
+  ],
+  "body": [
+   "PT Angkasa Pura Indonesia (Persero) atau APIA melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa perusahaan telah mengalihkan seluruh hak atas sahamnya di PT Garuda Maintenance Facility Aero Asia Tbk (GMF) kepada induk usahanya, PT Aviasi Pariwisata Indonesia (Persero). Pengalihan dilakukan melalui mekanisme pembagian dividen in specie, yaitu dividen yang dibayarkan bukan dalam bentuk uang tunai, melainkan dalam bentuk aset, dalam hal ini saham GMF. Transaksi tercatat pada 2 November 2026 berdasarkan Akta Pemindahan Hak Atas Saham Nomor 01 yang dibuat di hadapan notaris Desman, S.H., M.Hum., di Jakarta Utara.",
+   "Sebelum transaksi, APIA memegang 82.100.173.900 lembar saham GMF, setara 65,77 persen hak suara di perusahaan perawatan pesawat tersebut. Setelah pengalihan, kepemilikan dan hak suara APIA di GMF menjadi nol. Seluruh saham itu, berjenis saham biasa dan dimiliki secara langsung oleh APIA, dialihkan dengan nilai Rp5,66 triliun, tepatnya Rp5.664.912.000.000. Dalam formulir pelaporan ke OJK dan BEI, APIA menyatakan transaksi ini bukan transaksi jual beli kembali atau repurchase agreement, dan menyatakan dirinya tidak berstatus sebagai pihak pengendali GMF.",
+   "Tujuan transaksi yang dicantumkan dalam dokumen adalah pembagian dividen in specie kepada PT Aviasi Pariwisata Indonesia (Persero), holding BUMN yang menaungi bisnis aviasi dan pariwisata termasuk APIA. Dengan pengalihan ini, kepemilikan saham GMF yang sebelumnya berada di tangan APIA kini berpindah langsung ke tingkat perusahaan induk."
+  ],
+  "fotoAdegan": "Wide shot of a commercial aircraft undergoing maintenance inside a large hangar, technicians working near the engine, workshop lighting",
+  "takeaway": "Laporan ini kami nilai netral bagi fundamental APIA, karena pengalihan saham GMF ini adalah restrukturisasi internal di dalam grup BUMN penerbangan dan pariwisata, bukan penjualan ke pihak luar yang mendatangkan uang tunai baru. Pos yang tersentuh adalah ekuitas APIA, sebab dividen dibayarkan dalam bentuk aset bukan uang tunai, sehingga nilai investasi di GMF senilai Rp5,66 triliun akan keluar dari pembukuan APIA sebagai pengurang ekuitas atau laba ditahan, tanpa ada kas yang benar-benar masuk ke kas perusahaan. Yang perlu dipantau selanjutnya adalah apakah GMF Aero Asia Tbk sendiri, yang kini pengendali langsungnya berubah dari APIA menjadi PT Aviasi Pariwisata Indonesia (Persero), akan menerbitkan keterbukaan informasi serupa ke bursa terkait perubahan pengendali tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "omed-bukukan-laba-rp336-miliar-target-pendapatan-2026-direvisi",
+  "category": "Aksi Korporasi",
+  "title": "OMED Bukukan Laba Rp336 Miliar, Target Pendapatan 2026 [Direvisi]",
+  "deck": "Pendapatan OMED naik 26,1 persen menjadi Rp1,85 triliun pada sembilan bulan pertama 2026, dan perseroan menaikkan target pendapatan setahun penuh menjadi sekitar Rp2,5 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T15:08:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e2b9a53219_36e42e3038.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OMED",
+  "tags": [
+   "OMED",
+   "Jayamas Medica Industri",
+   "kinerja kuartal III 2026",
+   "alat kesehatan"
+  ],
+  "body": [
+   "PT Jayamas Medica Industri Tbk (OMED) melaporkan pendapatan sembilan bulan pertama 2026 (9M2026) sebesar Rp1,853 triliun, naik 26,1 persen dari Rp1,470 triliun pada periode sama tahun lalu, didorong kenaikan volume penjualan 28,6 persen. Margin kotor naik dari 33,9 persen menjadi 35,5 persen. EBITDA tumbuh 34,0 persen menjadi Rp426 miliar dengan margin 23,0 persen, sementara laba periode naik 31,6 persen menjadi Rp336 miliar dengan margin bersih 18,2 persen. Laba per saham dasar naik 30,7 persen menjadi Rp12,29 dari Rp9,4. Data keuangan ini belum diaudit.",
+   "Dari sisi neraca, total aset perseroan tercatat Rp3,50 triliun, total liabilitas Rp514 miliar, dan total ekuitas Rp2,98 triliun. Rasio lancar berada di 9,5 kali dan rasio utang berbunga terhadap ekuitas hanya 0,01 kali. Siklus konversi kas membaik dari 207 hari menjadi 179 hari, ditopang penagihan piutang yang lebih cepat (47 hari dari 53 hari) dan hari persediaan yang lebih rendah (166 hari dari 181 hari).",
+   "Perseroan menaikkan target pendapatan tahun penuh 2026 menjadi sekitar Rp2,5 triliun dari target sebelumnya Rp2,3 triliun, atau pertumbuhan sekitar 21 persen dibanding 2025. Target baru ini disangga empat inisiatif: peluncuran lensa intraokular (IOL) produksi lokal pada kuartal IV 2026 untuk pasar katarak yang masih kurang terlayani di Indonesia, dengan kapasitas mesin produksi 5.000 unit per bulan; penjualan ekspor yang tumbuh 328 persen dipimpin Amerika Serikat dan penjualan pertama ke Filipina; penjualan ritel yang tumbuh 32,0 persen menjadi Rp218 miliar lewat jaringan OneMed Medicom; serta pusat distribusi nasional baru di Pulo Gadung, Jakarta (sekitar 5.000 meter persegi) yang melengkapi pusat distribusi di Gresik, Jawa Timur (sekitar 30.000 meter persegi, beroperasi sejak 2007).",
+   "Berdasarkan profil pelanggan, pendapatan dari segmen swasta naik 21 persen menjadi Rp1.229 miliar (66,3 persen dari total), segmen pemerintah naik 34 persen menjadi Rp600 miliar (32,4 persen), dan ekspor naik 328 persen menjadi Rp23,6 miliar (1,3 persen). Per 30 September 2026, struktur pemegang saham OMED terdiri dari PT Intisumber Hasilsempurna 83,3 persen, Yacobus Jemmy Hartanto 0,96 persen, Siane Soetanto 0,90 persen, saham treasuri 0,13 persen, dan publik 14,66 persen. Per 2 November 2026, saham OMED ditutup di Rp185 dengan 27,06 miliar saham beredar dan kapitalisasi pasar Rp5,00 triliun."
+  ],
+  "fotoAdegan": "Workers in white coats assembling disposable medical syringes on an automated production line inside a factory in East Java",
+  "takeaway": "Laporan ini condong positif bagi OMED, karena kenaikan pendapatan dan laba yang dua digit terjadi bersamaan dengan membaiknya margin dan posisi kas yang nyaris tanpa utang berbunga, bukan sekadar laba yang naik di atas penjualan yang stagnan. Yang perlu diperhatikan investor adalah ekuitas, yaitu modal milik pemegang saham setelah dikurangi utang, yang naik menjadi Rp2,98 triliun, serta laba per saham yang naik ke Rp12,29, yakni bagian laba yang secara teoritis menjadi hak setiap satu lembar saham. Beban bunga perusahaan praktis minim karena rasio utang berbunga terhadap ekuitas hanya 0,01 kali, dan siklus konversi kas, yaitu lama waktu uang perusahaan tertahan di persediaan dan piutang sebelum kembali jadi uang tunai, memendek dari 207 hari menjadi 179 hari, tanda perputaran bisnis yang makin efisien. Yang perlu dipantau selanjutnya adalah realisasi peluncuran lensa intraokular pada kuartal IV 2026 dan apakah pendapatan setahun penuh benar mencapai target baru sekitar Rp2,5 triliun, yang baru akan terkonfirmasi lewat laporan keuangan auditan tahun buku 2026.",
+  "sentimen": "positif"
  },
  {
   "slug": "wika-disuspensi-bursa-usai-gagal-bayar-kupon-obligasi",

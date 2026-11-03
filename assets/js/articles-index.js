@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "yelo-panggil-rupslb-kedua-modal-dasar-naik-ke-rp765-miliar",
+  "category": "Aksi Korporasi",
+  "title": "YELO Panggil RUPSLB Kedua, [Modal Dasar] Naik ke Rp765 Miliar",
+  "deck": "RUPSLB pertama gagal kuorum, YELO panggil rapat kedua pada 10 November 2026 untuk menyetujui kenaikan modal dasar dari Rp275,2 miliar menjadi Rp765,1 miliar.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YELO",
+   "RUPSLB",
+   "modal dasar",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/31a22283e0_1228f1eb67.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-tanggapi-bursa-ungkap-rencana-transaksi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "FORU Tanggapi Bursa, Ungkap Rencana [Transaksi Afiliasi]",
+  "deck": "Fortune Indonesia menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, dan mengonfirmasi rencana transaksi afiliasi dan/atau material dalam waktu dekat.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "volatilitas transaksi",
+   "transaksi afiliasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/98c517121b_00442ad4f7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-jadi-ketua-d-8-bidik-optimalkan-pakta-dagang-preferensial",
   "category": "Global",
   "title": "RI Jadi Ketua D-8, Bidik Optimalkan Pakta Dagang [Preferensial]",
@@ -41,6 +73,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "boga-akuisisi-distributor-chery-senilai-rp4-85-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BOGA Akuisisi Distributor [Chery] Senilai Rp4,85 Miliar",
+  "deck": "Dua entitas anak BOGA membeli seluruh saham PT Pradipta Cakra Buana, pemegang kontrak distributor resmi Chery, senilai total Rp4,85 miliar.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOGA",
+   "akuisisi",
+   "otomotif",
+   "Chery"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4e55151c4d_2a9ca7ee6f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pipa-pangkas-liabilitas-23-tapi-kas-tergerus-jadi-rp501-juta",
+  "category": "Aksi Korporasi",
+  "title": "PIPA pangkas liabilitas 23%, tapi kas [tergerus] jadi Rp501 juta",
+  "deck": "Oxala Energy International (PIPA) menjelaskan ke OJK dan BEI penurunan liabilitas 22,99%, tapi kas perusahaan anjlok dari Rp12,6 miliar jadi hanya Rp501 juta.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIPA",
+   "Oxala Energy International",
+   "liabilitas",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103173347-65723-0/FinancialStatement-2026-III-PIPA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bcic-dirut-ritsuo-fukadai-mundur-tunggu-restu-ojk-rups",
+  "category": "Aksi Korporasi",
+  "title": "BCIC: Dirut Ritsuo Fukadai [Mundur], Tunggu Restu OJK-RUPS",
+  "deck": "Direktur Utama Bank JTrust Indonesia, Ritsuo Fukadai, mengajukan surat pengunduran diri pada 30 Oktober 2026, efektif setelah mendapat persetujuan OJK dan RUPS.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BCIC",
+   "Bank JTrust Indonesia",
+   "pergantian direksi",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/898a11532f_b1e96cce19.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bike-koreksi-jawaban-bursa-rp21-85-m-akuisisi-belum-dibayar",
   "category": "Aksi Korporasi",
   "title": "BIKE Koreksi Jawaban Bursa, Rp21,85 M Akuisisi Belum [Dibayar]",
@@ -54,6 +134,22 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4f59af71f6_17cba0183c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rhb-sesuaikan-waran-terstruktur-itmg-ikuti-dividen-us-74-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "RHB Sesuaikan Waran Terstruktur [ITMG] Ikuti Dividen US$74,2 Juta",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan Waran Terstruktur ITMG mengikuti dividen tunai US$74,2 juta dari PT Indo Tambangraya Megah, dibayarkan 18 November 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "ITMG",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a3c1716e9_66b3e94ce8.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -299,6 +395,70 @@ var ARTICLES = [
    "perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a42a6017ed_82a24a8f07.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpix-ganti-komisaris-independen-sepakati-laba-rp7-9-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MPIX Ganti Komisaris [Independen], Sepakati Laba Rp7,9 Miliar",
+  "deck": "RUPST dan RUPSLB MPIX menetapkan Dr. Nurfaizi sebagai komisaris independen baru dan membagi laba bersih Rp7,92 miliar tahun 2025.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPIX",
+   "RUPST",
+   "komisaris independen",
+   "waran seri I"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f6c9e49b76_ac75d8bb64.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ssia-catat-laba-bersih-rp344-4-miliar-properti-jadi-pendorong",
+  "category": "Aksi Korporasi",
+  "title": "SSIA Catat Laba Bersih Rp344,4 Miliar, [Properti] Jadi Pendorong",
+  "deck": "Pendapatan sembilan bulan SSIA naik 44,7 persen menjadi Rp4,8 triliun, didorong lonjakan segmen properti dan perhotelan, sementara konstruksi melambat dan kas menyusut akibat ekspansi lahan Subang.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SSIA",
+   "kinerja keuangan",
+   "properti",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f907d058a_c02509e2eb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apia-alihkan-seluruh-saham-gmf-rp5-66-triliun-ke-induk-injourney",
+  "category": "Aksi Korporasi",
+  "title": "APIA Alihkan Seluruh Saham GMF Rp5,66 Triliun ke Induk [InJourney]",
+  "deck": "APIA mengalihkan seluruh 82,1 miliar lembar sahamnya di GMF Aero Asia, senilai Rp5,66 triliun, ke induk usaha PT Aviasi Pariwisata Indonesia (Persero) lewat skema dividen in specie.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APIA",
+   "GMF",
+   "InJourney",
+   "dividen in specie"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a6ff82e788_2af2e6e5a4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "omed-bukukan-laba-rp336-miliar-target-pendapatan-2026-direvisi",
+  "category": "Aksi Korporasi",
+  "title": "OMED Bukukan Laba Rp336 Miliar, Target Pendapatan 2026 [Direvisi]",
+  "deck": "Pendapatan OMED naik 26,1 persen menjadi Rp1,85 triliun pada sembilan bulan pertama 2026, dan perseroan menaikkan target pendapatan setahun penuh menjadi sekitar Rp2,5 triliun.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OMED",
+   "Jayamas Medica Industri",
+   "kinerja kuartal III 2026",
+   "alat kesehatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e2b9a53219_36e42e3038.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6320,169 +6480,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475563-saatnya-beli-harga-emas-antam-hari-ini-29-oktober-2026-turun-jadi-rp2559000-per-gram"
- },
- {
-  "slug": "bike-akui-akuisisi-pne-terafiliasi-dengan-direksi-sendiri",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Akui Akuisisi PNE [Terafiliasi] dengan Direksi Sendiri",
-  "deck": "BIKE mengoreksi lagi tanggapan ke Bursa soal akuisisi PNE, mengakui penjual sahamnya adalah direksi BIKE sendiri, bukan pihak independen seperti disebut sebelumnya.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi",
-   "afiliasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a3f667d1b0_1c334cf599.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-siapkan-buyback-rp2-triliun-batasi-harga-rp3-000",
-  "category": "Aksi Korporasi",
-  "title": "TPIA Siapkan Buyback [Rp2 Triliun], Batasi Harga Rp3.000",
-  "deck": "Chandra Asri mengalokasikan dana hingga Rp2 triliun untuk membeli kembali maksimal 1,84 persen sahamnya dengan harga tertinggi Rp3.000 per lembar, periode 29 Oktober 2026 hingga 28 Januari 2027.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "buyback",
-   "Chandra Asri",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1b5bd0dbdd_bbeeb161cd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pcar-cetak-laba-rp6-1-miliar-penjualan-melonjak-123-persen",
-  "category": "Aksi Korporasi",
-  "title": "PCAR Cetak Laba Rp6,1 Miliar, Penjualan [Melonjak] 123 Persen",
-  "deck": "Laporan keuangan interim kuartal III 2026 PCAR menunjukkan perusahaan berbalik untung setelah penjualan tumbuh dari Rp166,9 miliar menjadi Rp372,3 miliar dalam sembilan bulan.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PCAR",
-   "laporan keuangan",
-   "kuartal III 2026",
-   "emiten konsumer"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029071024-64836-0/FinancialStatement-2026-III-PCAR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mentan-amran-desak-polisi-bongkar-mafia-beras-sphp",
-  "category": "Bisnis",
-  "title": "Mentan Amran Desak Polisi Bongkar [Mafia] Beras SPHP",
-  "deck": "Mentan Amran Sulaiman minta polisi bongkar tuntas jaringan mafia beras subsidi SPHP setelah temuan dugaan 600 ton beras dioplos jadi premium di Jakarta Timur.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/mentan-amran-desak-polisi-bongkar-mafia-beras-sphp.jpg",
-  "imageV": "mvsn6s1n",
-  "tags": [
-   "beras",
-   "mafia pangan",
-   "amran sulaiman",
-   "jakarta"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475534-skandal-beras-sphp-di-jakarta-timur-mentan-amran-memohon-polisi-sikat-habis-jaringan-mafia"
- },
- {
-  "slug": "mentan-amran-oplos-beras-subsidi-itu-amoral",
-  "category": "Bisnis",
-  "title": "Mentan Amran: Oplos Beras Subsidi Itu [Amoral]",
-  "deck": "Sidak di Jakarta Timur menemukan dugaan 600 ton beras subsidi SPHP dioplos jadi premium dan dijual Rp17.000 per kg, jauh dari harga resmi Rp12.500 per kg.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/mentan-amran-oplos-beras-subsidi-itu-amoral.jpg",
-  "imageV": "mvsjvv9n",
-  "tags": [
-   "beras",
-   "mafia pangan",
-   "Amran Sulaiman",
-   "Jakarta Timur"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475533-temukan-beras-sphp-dioplos-jadi-premium-mentan-amran-ini-perbuatan-amoral-tak-ada-kemanusiaan"
- },
- {
-  "slug": "ekonomi-jatim-tumbuh-5-72-persen-dagang-defisit-us-3-52-m",
-  "category": "Makroekonomi",
-  "title": "Ekonomi Jatim Tumbuh 5,72 Persen, Dagang [Defisit] US$3,52 M",
-  "deck": "Ekonomi Jawa Timur tumbuh 5,72 persen pada triwulan II 2026, tertinggi di Jawa, tapi defisit dagang melebar ke US$3,52 miliar karena impor naik lebih cepat dari ekspor.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/ekonomi-jatim-tumbuh-5-72-persen-dagang-defisit-us-3-52-m.jpg",
-  "imageV": "mvsjvvtz",
-  "tags": [
-   "Jawa Timur",
-   "pertumbuhan ekonomi",
-   "neraca dagang",
-   "APBN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475531-ekonomi-jatim-tumbuh-572-persen-neraca-perdagangan-defisit-usd-352-miliar"
- },
- {
-  "slug": "towr-perpanjang-fasilitas-kredit-rp2-triliun-ke-2027",
-  "category": "Aksi Korporasi",
-  "title": "TOWR Perpanjang [Fasilitas] Kredit Rp2 Triliun ke 2027",
-  "deck": "Protelindo, Iforte, SUPR, dan IBST memperpanjang fasilitas kredit Rp2 triliun dari CIMB Niaga sampai 31 Oktober 2027, dijamin Protelindo dan Iforte.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "SUPR",
-   "IBST",
-   "kredit perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1d25b86173_0f79a86aac.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ibst-perpanjang-fasilitas-kredit-rp2-triliun-ke-2027",
-  "category": "Aksi Korporasi",
-  "title": "IBST Perpanjang [Fasilitas] Kredit Rp2 Triliun ke 2027",
-  "deck": "IBST bersama Protelindo, Iforte, dan SUPR memperpanjang fasilitas kredit Rp2 triliun dari CIMB Niaga sampai Oktober 2027, dengan jaminan dari perusahaan induk.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IBST",
-   "transaksi material",
-   "kredit bank",
-   "Protelindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/527d61b41a_294b192742.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-foundation-berdayakan-wirausaha-muda-lewat-pfmuda",
-  "category": "UMKM",
-  "title": "Pertamina Foundation [Berdayakan] Wirausaha Muda Lewat PFmuda",
-  "deck": "Bertepatan Hari Sumpah Pemuda, Pertamina Foundation memaparkan capaian program PFmuda yang telah membina 362 kelompok wirausaha sosial muda di seluruh Indonesia.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/pertamina-foundation-berdayakan-wirausaha-muda-lewat-pfmuda.jpg",
-  "imageV": "mvsduvvo",
-  "tags": [
-   "pertamina foundation",
-   "umkm",
-   "sumpah pemuda",
-   "sociopreneur"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475526-refleksi-sumpah-pemuda-memberdayakan-kreativitas-anak-bangsa-dalam-pembangunan-nasional"
- },
- {
-  "slug": "hajj-konversi-piutang-rp49-9-miliar-jadi-modal-anak-usaha-di-saudi",
-  "category": "Aksi Korporasi",
-  "title": "HAJJ Konversi Piutang Rp49,9 Miliar Jadi Modal Anak Usaha di [Saudi]",
-  "deck": "HAJJ mengonversi piutangnya ke anak usaha ABT LLC di Arab Saudi menjadi modal senilai Rp49,9 miliar, setara 24,44% ekuitas perusahaan per akhir September 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HAJJ",
-   "transaksi afiliasi",
-   "anak usaha",
-   "Arab Saudi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8411bb9d86_0dc091bd97.pdf",
-  "sourceLabel": "IDX"
  }
 ];

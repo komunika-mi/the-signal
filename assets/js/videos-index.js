@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "iBtuz4dEwjc",
+  "title": "DJP Tanggapi Isu Pajak Transfer Bank per 9 November 2026",
+  "category": "Perbankan",
+  "program": "OneNews Update",
+  "summary": "Ditjen Pajak Kementerian Keuangan buka suara menanggapi ramainya isu transfer bank yang disebut akan dikenai pajak pertambahan nilai mulai 9 November 2026.",
+  "takeaway": "Penting bagi nasabah perbankan dan pelaku usaha agar mendapat kepastian soal aturan pajak atas transaksi transfer bank mereka."
+ },
+ {
   "id": "mjPzauhmRtY",
   "title": "PAM JAYA Raih Penghargaan Inovasi Membangun Negeri 2026",
   "category": "BUMN",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "IBF",
   "summary": "Rapimnas Kadin 2026 menyoroti UMKM yang belum naik kelas dan daya beli yang melemah sebagai faktor utama yang mengancam Indonesia terjebak dalam middle income trap.",
   "takeaway": "Penting bagi pembaca ekonomi karena menyoroti akar masalah struktural yang menghambat Indonesia keluar dari jebakan kelas menengah."
- },
- {
-  "id": "yNkAI3HPHg0",
-  "title": "Ekonomi Kerakyatan untuk Indonesia Mendunia",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Rapimnas Kadin 2026 digelar pada 29-30 Oktober sebagai forum sinergi pemerintah dan dunia usaha untuk merumuskan arah kebijakan ekonomi serta program prioritas nasional.",
-  "takeaway": "Forum ini layak disimak karena memberi gambaran arah kebijakan ekonomi yang disepakati bersama antara pemerintah dan pelaku usaha."
  }
 ];

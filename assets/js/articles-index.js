@@ -5,6 +5,73 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "surplus-perdagangan-ri-september-menyusut-ke-us-3-36-miliar",
+  "category": "Makroekonomi",
+  "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
+  "deck": "Surplus dagang Indonesia September 2026 menyusut tipis ke US$3,36 miliar akibat defisit migas melebar, sementara ekspor dan impor sama-sama tumbuh dua digit secara tahunan.",
+  "date": "3 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "neraca dagang",
+   "ekspor impor",
+   "Kemendag",
+   "PMI manufaktur"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tren-positif-perdagangan-luar-negeri-hingga-september-2026-tunjukkan-ketahanan-eksternal-indonesia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "dari-patin-ke-gula-sawit-sumatera-unjuk-inovasi-iga-2026",
+  "category": "UMKM",
+  "title": "Dari Patin ke Gula Sawit, Sumatera [Unjuk] Inovasi IGA 2026",
+  "deck": "Sepuluh pemerintah daerah di Sumatera masuk nominasi Innovative Government Award 2026, dari budidaya ikan patin di Sumatera Selatan hingga pengolahan batang sawit jadi gula merah di Sumatera Barat.",
+  "date": "3 November 2026",
+  "image": "assets/img/dari-patin-ke-gula-sawit-sumatera-unjuk-inovasi-iga-2026.jpg",
+  "imageV": "mw0w3hm2",
+  "tags": [
+   "IGA 2026",
+   "Kemendagri",
+   "Sumatera Selatan",
+   "Sumatera Barat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476471-gebrakan-inovasi-daerah-di-iga-2026-dari-patin-jadi-lumbung-pangan-hingga-batang-sawit-jadi-gula"
+ },
+ {
+  "slug": "mypertamina-fair-2026-digelar-poin-direset-awal-2027",
+  "category": "BUMN",
+  "title": "MyPertamina Fair 2026 Digelar, Poin [Direset] Awal 2027",
+  "deck": "Pertamina membuka program penukaran poin MyPertamina Fair 2026 selama dua bulan, sebelum seluruh saldo poin direset ke nol pada 1 Januari 2027.",
+  "date": "3 November 2026",
+  "image": "assets/img/mypertamina-fair-2026-digelar-poin-direset-awal-2027.jpg",
+  "imageV": "mw0w3i3w",
+  "tags": [
+   "pertamina",
+   "mypertamina",
+   "konsumen",
+   "poin loyalitas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476465-mypertamina-fair-2026-dimulai-pertamina-beri-apresiasi-bagi-konsumen-setia"
+ },
+ {
+  "slug": "arus-peti-kemas-pelindo-tembus-10-3-juta-teus",
+  "category": "BUMN",
+  "title": "Arus Peti Kemas Pelindo [Tembus] 10,3 Juta TEUs",
+  "deck": "Volume peti kemas Pelindo naik 5,80 persen jadi 10,31 juta TEUs dalam sembilan bulan 2026, didorong lonjakan arus perdagangan internasional.",
+  "date": "3 November 2026",
+  "image": "assets/img/arus-peti-kemas-pelindo-tembus-10-3-juta-teus.jpg",
+  "imageV": "mw0w3jap",
+  "tags": [
+   "pelindo",
+   "peti kemas",
+   "pelabuhan",
+   "logistik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476458-perdagangan-internasional-tumbuh-pesat-arus-peti-kemas-pelindo-tembus-103-juta-teus"
+ },
+ {
   "slug": "sqmi-kendali-tak-langsung-bisa-berubah-usai-induk-raih-us-70-juta",
   "category": "Aksi Korporasi",
   "title": "SQMI: Kendali Tak Langsung Bisa Berubah Usai Induk Raih [US$70 Juta]",
@@ -1338,7 +1405,7 @@ var ARTICLES = [
   "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",
   "deck": "Inflasi Oktober 2026 terjaga di 3,23 persen, neraca dagang September surplus US$3,36 miliar tiga bulan beruntun, dan PMI manufaktur naik ke 54,0, ekspansi tertinggi sejak Maret 2024.",
   "date": "2 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "inflasi",
    "neraca dagang",
@@ -1677,7 +1744,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober [Melandai], Tiket Pesawat Naik",
   "deck": "Inflasi tahunan Oktober 2026 turun jadi 3,23 persen, tapi harga cabai dan tarif pesawat domestik kelas ekonomi justru naik.",
   "date": "2 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "inflasi",
    "harga pangan",
@@ -1693,7 +1760,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI [Berlanjut] tapi Tipis ke US$3,36 Miliar",
   "deck": "Neraca dagang Indonesia surplus US$3,36 miliar pada September 2026, melanjutkan tren positif Agustus meski nilainya mengecil dari US$3,55 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "neraca dagang",
    "ekspor",
@@ -3155,7 +3222,7 @@ var ARTICLES = [
   "title": "Ekspor Naik, tapi Surplus Dagang RI Makin [Menyempit]",
   "deck": "Ekspor September 2026 naik 11,87 persen jadi US$27,59 miliar, tapi impor tumbuh lebih cepat 18,41 persen sehingga surplus dagang kumulatif menyempit jadi US$10,61 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "ekspor",
    "impor",
@@ -6414,69 +6481,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-dunia-usaha-as-perkuat-kerja-sama-dengan-indonesia",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "boss-bukukan-defisiensi-modal-rp189-miliar-di-lk-2023",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Bukukan [Defisiensi] Modal Rp189 Miliar di LK 2023",
-  "deck": "Laporan keuangan 2023 PT Borneo Olah Sarana Sukses Tbk (BOSS) yang baru terbit mencatat opini wajar dengan pengecualian, anak usaha tambang pailit, dan defisiensi modal Rp188,9 miliar.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "laporan keuangan",
-   "opini audit",
-   "pailit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202310/20261029123115-64945-0/FinancialStatement-2023-Tahunan-BOSS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kopi-laba-bersih-melonjak-174-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "KOPI: Laba Bersih [Melonjak] 174% di Kuartal III 2026",
-  "deck": "Laba bersih Mitra Energi Persada naik dari Rp3,80 miliar menjadi Rp10,41 miliar pada sembilan bulan 2026, sementara total utang menyusut dan kas meningkat tajam.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOPI",
-   "laporan keuangan",
-   "laba bersih",
-   "energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029122559-64684-0/FinancialStatement-2026-III-KOPI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csra-laba-bersih-melonjak-43-persen-di-sembilan-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "CSRA: Laba Bersih [Melonjak] 43 Persen di Sembilan Bulan 2026",
-  "deck": "Laporan keuangan interim kuartal III 2026 Cisadane Sawit Raya menunjukkan penjualan naik 55 persen dan utang bank turun, sementara utang ke pihak berelasi melompat Rp180 miliar.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSRA",
-   "laporan keuangan",
-   "sawit",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029121554-64938-0/FinancialStatement-2026-III-CSRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptba-laba-bersih-melonjak-215-jadi-rp4-42-triliun-di-9m2026",
-  "category": "Aksi Korporasi",
-  "title": "PTBA: Laba Bersih [Melonjak] 215% Jadi Rp4,42 Triliun di 9M2026",
-  "deck": "Laporan keuangan interim kuartal III 2026 PTBA menunjukkan laba bersih naik dari Rp1,40 triliun jadi Rp4,42 triliun, didorong membaiknya margin usaha batu bara.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTBA",
-   "laba bersih",
-   "laporan keuangan",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029121443-65121-0/FinancialStatement-2026-III-PTBA.pdf",
-  "sourceLabel": "IDX"
  }
 ];

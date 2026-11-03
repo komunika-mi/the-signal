@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "iBtuz4dEwjc",
+  "title": "DJP Tanggapi Isu Pajak Transfer Bank per 9 November 2026",
+  "category": "Perbankan",
+  "program": "OneNews Update",
+  "summary": "Ditjen Pajak Kementerian Keuangan buka suara menanggapi ramainya isu transfer bank yang disebut akan dikenai pajak pertambahan nilai mulai 9 November 2026.",
+  "takeaway": "Penting bagi nasabah perbankan dan pelaku usaha agar mendapat kepastian soal aturan pajak atas transaksi transfer bank mereka.",
+  "terbit": "2026-11-03T15:55:42+00:00"
+ },
+ {
   "id": "mjPzauhmRtY",
   "title": "PAM JAYA Raih Penghargaan Inovasi Membangun Negeri 2026",
   "category": "BUMN",

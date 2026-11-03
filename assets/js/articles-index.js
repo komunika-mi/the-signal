@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wamenko-ajak-investor-cermati-data-tak-ikut-indeks-asing",
+  "category": "Pasar Modal",
+  "title": "Wamenko Ajak Investor [Cermati] Data, Tak Ikut Indeks Asing",
+  "deck": "Wamenko Dradjad Hari Wibowo meminta investor tidak sekadar mengikuti penilaian lembaga indeks asing seperti MSCI, melainkan menganalisis sendiri data emiten dan ekonomi nasional.",
+  "date": "3 November 2026",
+  "image": "assets/img/pasar-modal.jpg",
+  "tags": [
+   "pasar modal",
+   "investor",
+   "MSCI",
+   "pertumbuhan ekonomi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7196/jaga-kepercayaan-di-tengah-dinamika-pasar-modal-wamenko-dradjad-ajak-investor-utamakan-data-dan-analisis",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "harga-acuan-batu-bara-turun-tipis-kalori-rendah-naik",
+  "category": "Energi",
+  "title": "Harga Acuan Batu Bara [Turun] Tipis, Kalori Rendah Naik",
+  "deck": "Harga acuan batu bara kalori tinggi turun tipis ke US$125,60 per ton untuk pertengahan November, sementara batu bara kalori menengah dan rendah naik 2,4 sampai 4,8 persen.",
+  "date": "3 November 2026",
+  "image": "assets/img/harga-acuan-batu-bara-turun-tipis-kalori-rendah-naik.jpg",
+  "imageV": "mw0qpo1k",
+  "tags": [
+   "Batu Bara",
+   "HBA",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hba-november-turun-tipis-harga-batu-bara-kalori-rendah-justru-naik",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "pemerintah-siapkan-storage-minyak-impor-60-hari",
+  "category": "Energi",
+  "title": "Pemerintah Siapkan [Storage] Minyak Impor 60 Hari",
+  "deck": "Pemerintah membangun storage minyak impor di Sumatra untuk stok 60 hari, sambil melanjutkan mandatori B50 dan menyiapkan peta jalan bioetanol E20-E50.",
+  "date": "3 November 2026",
+  "image": "assets/img/pemerintah-siapkan-storage-minyak-impor-60-hari.jpg",
+  "imageV": "mw0qppaz",
+  "tags": [
+   "Energi",
+   "ESDM",
+   "Storage Minyak",
+   "Bioetanol"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/perkuat-ketahanan-energi-pemerintah-siapkan-storage-minyak-hingga-60-hari-dan-bioetanol-e20",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "pemerintah-siapkan-transisi-bbm-e20-ke-e50",
+  "category": "Energi",
+  "title": "Pemerintah Siapkan Transisi BBM E20 ke [E50]",
+  "deck": "Presiden Prabowo Subianto minta ESDM dan Kementan siapkan peta jalan transisi bahan bakar etanol dari E20 ke E50, sembari mempertahankan biodiesel B50.",
+  "date": "3 November 2026",
+  "image": "assets/img/pemerintah-siapkan-transisi-bbm-e20-ke-e50.jpg",
+  "imageV": "mw0qppum",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476431-perkuat-ketahanan-energi-pemerintah-bersiap-implementasikan-bahan-bakar-e20-hingga-e50"
+ },
+ {
+  "slug": "pnm-tanam-5-850-bibit-pohon-di-tujuh-wilayah",
+  "category": "BUMN",
+  "title": "PNM [Tanam] 5.850 Bibit Pohon di Tujuh Wilayah",
+  "deck": "PNM Peduli menanam 5.850 bibit pohon endemik di tujuh wilayah lewat program Green Impact, memadukan penghijauan dengan pemberdayaan UMKM lokal.",
+  "date": "3 November 2026",
+  "image": "assets/img/pnm-tanam-5-850-bibit-pohon-di-tujuh-wilayah.jpg",
+  "imageV": "mw0qpqgh",
+  "tags": [
+   "PNM",
+   "Green Impact",
+   "penghijauan",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476436-perluas-penghijauan-di-tujuh-wilayah-pnm-tanam-5850-bibit-pohon-endemik"
+ },
+ {
   "slug": "yelo-panggil-rupslb-kedua-modal-dasar-naik-ke-rp765-miliar",
   "category": "Aksi Korporasi",
   "title": "YELO Panggil RUPSLB Kedua, [Modal Dasar] Naik ke Rp765 Miliar",
@@ -1903,7 +1983,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI Turun Jadi [US$3,36 Miliar]",
   "deck": "Neraca dagang Indonesia September 2026 surplus US$3,36 miliar, mengecil dibanding US$3,55 miliar pada Agustus 2026.",
   "date": "2 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "neraca dagang",
    "bps",
@@ -1919,7 +1999,7 @@ var ARTICLES = [
   "title": "Impor RI September [naik 18,41%] jadi US$24,2 miliar",
   "deck": "Nilai impor Indonesia naik dibanding Agustus maupun dibanding September tahun lalu, setelah sempat turun bulan sebelumnya",
   "date": "2 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "impor",
    "bps",
@@ -1935,7 +2015,7 @@ var ARTICLES = [
   "title": "Ekspor September Tembus [27,6 Miliar US$]",
   "deck": "Nilai ekspor Indonesia naik ke level tertinggi dalam enam bulan terakhir, melanjutkan tren kenaikan sejak Juni 2026.",
   "date": "2 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "ekspor",
    "bps",
@@ -2528,7 +2608,7 @@ var ARTICLES = [
   "title": "Wisatawan Asing September [Turun ke 1,43 Juta]",
   "deck": "Setelah naik empat bulan beruntun, kunjungan turis asing ke Indonesia turun 10,79% dari Agustus ke September 2026.",
   "date": "2 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "bps",
    "wisatawan asing",
@@ -6399,86 +6479,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029104948-64862-0/FinancialStatement-2026-III-SOLA.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "glob-laba-kuartal-iii-anjlok-96-ekuitas-masih-negatif",
-  "category": "Aksi Korporasi",
-  "title": "GLOB: [Laba] Kuartal III Anjlok 96%, Ekuitas Masih Negatif",
-  "deck": "Laba GLOB turun 96% jadi Rp53 juta pada sembilan bulan 2026, dari Rp1,34 miliar setahun sebelumnya, sementara ekuitas perusahaan masih minus Rp1,2 triliun.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GLOB",
-   "laporan keuangan",
-   "ekuitas negatif",
-   "watchlist"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029103751-65293-0/FinancialStatement-2026-III-GLOB.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cdia-bukukan-pendapatan-us-122-juta-ebitda-naik-65",
-  "category": "Aksi Korporasi",
-  "title": "CDIA Bukukan Pendapatan US$122 Juta, [EBITDA] Naik 65%",
-  "deck": "Pendapatan CDI tumbuh 16% dan EBITDA 65% secara tahunan pada 9M2026, didukung aset baru di segmen air, pelabuhan, dan logistik serta dividen interim US$10 juta.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CDIA",
-   "Chandra Daya Investasi",
-   "kinerja keuangan",
-   "infrastruktur maritim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/050780058b_ccaf1844b2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tifa-laba-bersih-turun-3-9-jadi-rp41-8-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "TIFA: Laba Bersih [Turun] 3,9% Jadi Rp41,8 Miliar di Kuartal III",
-  "deck": "Laba bersih KDB Tifa Finance turun 3,9% jadi Rp41,78 miliar pada sembilan bulan 2026, sementara pinjaman yang ditarik perusahaan melonjak signifikan.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TIFA",
-   "KDB Tifa Finance",
-   "laporan keuangan",
-   "pembiayaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029101801-64955-0/FinancialStatement-2026-III-TIFA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csis-kantongi-rp198-7-miliar-dari-rights-issue-laba-naik-24",
-  "category": "Aksi Korporasi",
-  "title": "CSIS Kantongi Rp198,7 Miliar dari [Rights Issue], Laba Naik 24%",
-  "deck": "Kas CSIS melonjak hampir 19 kali lipat dalam sembilan bulan setelah perseroan menerima dana rights issue Rp198,7 miliar, sementara laba bersih naik 24 persen menjadi Rp30,6 miliar.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSIS",
-   "rights issue",
-   "laporan keuangan",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029101554-64781-0/FinancialStatement-2026-III-CSIS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-jadi-rp2-559-000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Jadi Rp2.559.000 per Gram",
-  "deck": "Harga emas batangan Antam turun Rp11.000 menjadi Rp2.559.000 per gram pada 29 Oktober 2026, sementara harga buyback ikut turun ke Rp2.354.000 per gram.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-559-000-per-gram.jpg",
-  "imageV": "mvt49tk9",
-  "tags": [
-   "emas",
-   "antam",
-   "harga emas",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475563-saatnya-beli-harga-emas-antam-hari-ini-29-oktober-2026-turun-jadi-rp2559000-per-gram"
  }
 ];

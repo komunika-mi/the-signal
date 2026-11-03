@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-03T05:55:46.491+07:00",
+ "diperbarui": "2026-11-04T03:40:15.766+07:00",
  "entri": [
+  {
+   "id": "2026-11-03-3",
+   "edisi": "2026-11-03",
+   "benang": "Tekanan utang BUMN karya berubah jadi kejadian nyata",
+   "klaim": "Tekanan utang di emiten BUMN karya yang sebelumnya cuma terlihat di rasio keuangan kini muncul sebagai kejadian konkret, berupa gagal bayar dan penurunan peringkat.",
+   "penanda": "Hasil audit Pos Indonesia dan langkah OJK atau BEI selanjutnya terhadap WIKA.",
+   "tenggat": null,
+   "tenggatLabel": "hasil audit Pos Indonesia dan langkah OJK atau BEI selanjutnya terhadap WIKA",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-03-2",
+   "edisi": "2026-11-03",
+   "benang": "Tambang direm, izin dialihkan ke pengusaha daerah",
+   "klaim": "Pemerintah memegang kendali lebih besar atas siapa yang boleh berproduksi dan berapa banyak, baik di hulu tambang maupun di smelter.",
+   "penanda": "Aturan final soal kewajiban smelter produk akhir dan realisasi jatah RKAB 2027.",
+   "tenggat": null,
+   "tenggatLabel": "aturan final soal kewajiban smelter produk akhir dan realisasi jatah RKAB 2027",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-03-1",
+   "edisi": "2026-11-03",
+   "benang": "Defisit migas melebar, pemerintah genjot cadangan energi",
+   "klaim": "Pemerintah memperkuat lapis pertahanan energi domestik sebagai respons atas tekanan impor migas, bukan menunggu neraca dagang membaik sendiri.",
+   "penanda": "Realisasi peninjauan lokasi storage minyak di Sumatra yang dijadwalkan akhir tahun ini, serta data neraca dagang Oktober dari BPS.",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "peninjauan lokasi storage dijadwalkan akhir tahun ini; data neraca dagang Oktober dari BPS biasanya terbit awal bulan berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-02-3",
    "edisi": "2026-11-02",
@@ -1560,8 +1593,13 @@ var RAPOR = {
    "penanda": "Data ekspor-impor Agustus dari BPS",
    "tenggat": "2026-10-05",
    "tenggatLabel": "awal Oktober",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "surplus-perdagangan-ri-september-menyusut-ke-us-3-36-miliar",
+    "judul": "Surplus Perdagangan RI September Menyusut ke US$3,36 Miliar",
+    "tanggal": "3 November 2026",
+    "alasan": "Artikel ini melaporkan defisit migas melebar ke US$2,31 miliar sehingga menggerus surplus dagang, menunjukkan tekanan defisit migas terhadap neraca dagang memang masih berlanjut."
+   }
   },
   {
    "id": "2026-09-01-1",

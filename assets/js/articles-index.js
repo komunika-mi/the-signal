@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bike-koreksi-jawaban-bursa-rp21-85-m-akuisisi-belum-dibayar",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Koreksi Jawaban Bursa, Rp21,85 M Akuisisi Belum [Dibayar]",
+  "deck": "BIKE merinci jawaban ke BEI soal tiga akuisisi, MTI, FBM, dan BUM senilai total sekitar Rp21,85 miliar, yang pembayarannya masih menunggu pinjaman dari pengendali PMJ.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4f59af71f6_17cba0183c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inco-laba-melonjak-3-kali-lipat-jadi-us-147-juta-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "INCO: Laba [Melonjak] 3 Kali Lipat jadi US$147 Juta di 9M26",
+  "deck": "Vale Indonesia mencatat laba bersih US$147 juta pada 9 bulan 2026, naik hampir tiga kali lipat, sementara total liabilitas melonjak 36 persen akibat pinjaman bank baru US$175 juta.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INCO",
+   "Vale Indonesia",
+   "laba bersih",
+   "nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103164905-65722-0/FinancialStatement-2026-III-INCO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-tambah-kriteria-di-papan-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Tambah Kriteria di Papan [Pemantauan Khusus] BEI",
+  "deck": "BEI menambahkan kriteria tidak ada pendapatan ke daftar masalah saham BOSS yang sudah berstatus pemantauan khusus akibat ekuitas negatif dan anak usaha bermasalah, efektif 4 November 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "Pemantauan Khusus",
+   "BEI",
+   "saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/21b5fc18db_3e4c5c3238.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kgi-hd-sesuaikan-waran-terstruktur-medc-usai-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "KGI (HD) Sesuaikan Waran [Terstruktur] MEDC usai Dividen Tunai",
+  "deck": "Harga dan rasio pelaksanaan waran MEDCHDCX6A serta MEDCHDCH7A disesuaikan menyusul dividen tunai MEDC, efektif 11 November 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HD",
+   "MEDC",
+   "waran terstruktur",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/807b3211ee_f6667efeb8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asdf-lunasi-obligasi-seri-a-rp300-miliar-lepas-dari-bei-4-november",
+  "category": "Aksi Korporasi",
+  "title": "ASDF Lunasi Obligasi [Seri A] Rp300 Miliar, Lepas dari BEI 4 November",
+  "deck": "Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap II Seri A senilai Rp300 miliar jatuh tempo dan dihapus dari pencatatan BEI mulai 4 November 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASDF",
+   "obligasi",
+   "pasar modal",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e023079799_ef2059214f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-rugi-rp9-01-miliar-kuartal-iii-2025-defisit-modal-melebar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Rugi Rp9,01 Miliar Kuartal III/2025, [Defisit] Modal Melebar",
+  "deck": "Laporan interim kuartal III 2025 BOSS mencatat rugi bersih Rp9,01 miliar dan defisiensi modal melebar jadi Rp232,66 miliar, sementara penjualan tetap nihil dan kas menyusut tajam.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "laporan keuangan",
+   "defisit modal",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/20261103163544-65720-0/FinancialStatement-2025-III-BOSS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-dan-cbre-masuk-pemantauan-khusus-bei-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "LAPD dan CBRE Masuk [Pemantauan] Khusus BEI, Ekuitas Negatif",
+  "deck": "BEI menetapkan saham LAPD dan CBRE masuk daftar pemantauan khusus efektif 4 November 2026 karena ekuitas keduanya negatif di laporan keuangan terakhir.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "CBRE",
+   "pemantauan khusus",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e587e5a483_e10ff8d515.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smelter-menjamur-esdm-kaji-pembatasan-produk-setengah-jadi",
   "category": "Industri",
   "title": "Smelter Menjamur, ESDM Kaji [Pembatasan] Produk Setengah Jadi",
@@ -41,6 +153,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  },
  {
+  "slug": "zp-sesuaikan-waran-itmg-usai-dividen-tunai-us-74-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan [Waran] ITMG usai Dividen Tunai US$74,2 Juta",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi dua waran terstruktur ITMG, menyusul dividen tunai ITMG senilai US$74,2 juta.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "ITMG",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4f91843363_999286f54b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-medc-usai-dividen-interim-us-30-juta",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan [Waran] MEDC usai Dividen Interim US$30 Juta",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran MEDCZPCF7A dan MEDCZPCN7A menyusul dividen interim MEDC senilai US$30 juta, efektif 11 November 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "MEDC",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dc733e3ea5_8e3c05510e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-targetkan-produksi-listrik-naik-49-5-di-2027",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Targetkan Produksi Listrik Naik [49,5%] di 2027",
+  "deck": "Dalam public expose insidentil, manajemen ARKO memaparkan produksi listrik yang tetap tumbuh di tengah El Nino dan proyeksi lonjakan produksi pada 2027.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "public expose",
+   "energi terbarukan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/46ecccf054_8f944823b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-cabai-melonjak-ke-rp124-ribu-mendag-sebut-faktor-cuaca",
   "category": "Makroekonomi",
   "title": "Harga Cabai [Melonjak] ke Rp124 Ribu, Mendag Sebut Faktor Cuaca",
@@ -56,6 +216,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476392-harga-cabai-merah-melonjak-tembus-rp124-ribu-mendag-faktor-cuaca"
+ },
+ {
+  "slug": "meta-bagi-dividen-interim-rp3-50-per-saham-bayar-3-desember",
+  "category": "Aksi Korporasi",
+  "title": "META Bagi [Dividen Interim] Rp3,50 per Saham, Bayar 3 Desember",
+  "deck": "Nusantara Infrastructure (META) membagikan dividen interim Rp60,6 miliar atau Rp3,50 per saham untuk tahun buku 2026, dengan pembayaran dijadwalkan 3 Desember 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "META",
+   "dividen interim",
+   "Nusantara Infrastructure",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/67f29e3b9c_436c0fa8d2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meta-tetapkan-jadwal-dividen-interim-rp3-50-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "META Tetapkan [Jadwal] Dividen Interim Rp3,50 per Saham",
+  "deck": "Nusantara Infrastructure menetapkan recording date 11 November dan tanggal pembayaran dividen interim Rp3,50 per saham pada 3 Desember 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "META",
+   "dividen interim",
+   "Nusantara Infrastructure",
+   "KSEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf13f672dc_6918e3d24d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbhi-sewa-ruang-kantor-dari-bank-mega-rp3-18-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BBHI Sewa Ruang Kantor dari [Bank Mega] Rp3,18 Miliar",
+  "deck": "Allo Bank menyewa ruang lantai 5 dan 6 Menara Bank Mega senilai Rp3,18 miliar untuk enam bulan, transaksi afiliasi dengan sesama anak usaha kelompok Bank Mega.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBHI",
+   "transaksi afiliasi",
+   "Bank Mega",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a42a6017ed_82a24a8f07.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "wika-disuspensi-bursa-usai-gagal-bayar-kupon-obligasi",
@@ -6273,214 +6481,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475524-indonesia-malyasia-perkuat-kerjasama-strategis-ekonomi-di-kawasan-perbatasan"
- },
- {
-  "slug": "trja-laba-naik-92-meski-pendapatan-turun-15-8",
-  "category": "Aksi Korporasi",
-  "title": "TRJA: [Laba] Naik 92% Meski Pendapatan Turun 15,8%",
-  "deck": "Laba bersih Transkon Jaya naik jadi Rp9,52 miliar pada sembilan bulan 2026, didorong penjualan aset tetap, sementara pendapatan usaha turun ke Rp327,6 miliar.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRJA",
-   "Transkon Jaya",
-   "laporan keuangan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028232551-65367-0/FinancialStatement-2026-III-TRJA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "coin-berbalik-rugi-rp40-8-miliar-pada-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "COIN Berbalik [Rugi] Rp40,8 Miliar pada Semester I 2026",
-  "deck": "PT Indokripto Koin Semesta Tbk membalik laba Rp25,5 miliar tahun lalu menjadi rugi Rp40,8 miliar pada semester I 2026, seiring pendapatan yang anjlok hampir 35 persen.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "COIN",
-   "laporan keuangan",
-   "aset kripto",
-   "emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028222353-65338-0/FinancialStatement-2026-II-COIN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dssa-beli-tanah-rp3-1-triliun-dari-afiliasi-untuk-pusat-data",
-  "category": "Aksi Korporasi",
-  "title": "DSSA Beli Tanah Rp3,1 Triliun dari [Afiliasi] untuk Pusat Data",
-  "deck": "Anak usaha DSSA, SMCCG, membeli lahan 166.261 m2 di BSD City senilai Rp3,1 triliun dari PT Surya Inter Wisesa, pihak terafiliasi karena hubungan keluarga pemilik manfaat akhir.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DSSA",
-   "transaksi afiliasi",
-   "pusat data",
-   "BSD City"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/441c0f4c0a_225666c4b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-bukukan-laba-bersih-us-126-62-juta-sembilan-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Bukukan [Laba] Bersih US$126,62 Juta Sembilan Bulan 2026",
-  "deck": "Materi public expose tahunan PGEO: pendapatan US$352,20 juta, laba bersih US$126,62 juta untuk 9M2026, dan tenggat free float 12,5 persen sebelum Maret 2027.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "Pertamina Geothermal Energy",
-   "public expose",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/02d01566ce_df489eec30.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "astra-umumkan-pemenang-satu-indonesia-awards-2026",
-  "category": "Bisnis",
-  "title": "Astra Umumkan [Pemenang] SATU Indonesia Awards 2026",
-  "deck": "Astra menobatkan lima penggerak muda di SATU Indonesia Awards 2026 dan memulai Program Kontribusi Sosial 70 Tahun menjelang ulang tahun ke-70 pada Februari 2027.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/astra-umumkan-pemenang-satu-indonesia-awards-2026.jpg",
-  "imageV": "mvs95n3l",
-  "tags": [
-   "Astra",
-   "SATU Indonesia Awards",
-   "CSR",
-   "Sumpah Pemuda"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475501-peringati-sumpah-pemuda-astra-rilis-pemenang-17th-satu-indonesia-awards-2026-dan-kick-off-kontribusi-sosial-70-tahun"
- },
- {
-  "slug": "soho-cetak-laba-bersih-naik-27-jadi-rp558-75-miliar-di-9m26",
-  "category": "Aksi Korporasi",
-  "title": "SOHO Cetak Laba Bersih [Naik 27%] jadi Rp558,75 Miliar di 9M26",
-  "deck": "Laba bersih Soho Global Health naik 27 persen menjadi Rp558,75 miliar pada sembilan bulan 2026, ditopang kenaikan pendapatan, sementara kas perusahaan menyusut akibat dividen besar.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOHO",
-   "laporan keuangan",
-   "farmasi",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028215323-65216-0/FinancialStatement-2026-III-SOHO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mmix-jawab-permintaan-bei-klaim-tak-ada-informasi-material",
-  "category": "Aksi Korporasi",
-  "title": "MMIX Jawab Permintaan BEI, Klaim Tak Ada [Informasi Material]",
-  "deck": "Merespons surat BEI soal lonjakan volatilitas transaksi, MMIX menyatakan tidak ada informasi material dan pengendali tidak berencana mengubah kepemilikan sahamnya.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MMIX",
-   "volatilitas transaksi",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4a4e2510e1_13a51a6222.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "keju-laba-naik-9-tapi-arus-kas-operasi-turun-tajam",
-  "category": "Aksi Korporasi",
-  "title": "KEJU: Laba Naik 9%, tapi [Arus Kas Operasi] Turun Tajam",
-  "deck": "Laba bersih KEJU naik 9,2 persen jadi Rp161,54 miliar pada sembilan bulan 2026, tapi utang bank baru dan kas yang menyusut separuh mengiringi ekspansi pabriknya.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KEJU",
-   "laporan keuangan",
-   "arus kas",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028213557-64643-0/FinancialStatement-2026-III-KEJU.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vici-laba-turun-26-utang-bank-jangka-pendek-meroket",
-  "category": "Aksi Korporasi",
-  "title": "VICI: Laba Turun 26%, Utang Bank Jangka Pendek [Meroket]",
-  "deck": "Laba bersih Victoria Care turun 26 persen jadi Rp87,7 miliar pada sembilan bulan 2026, sementara utang bank jangka pendek melonjak jadi Rp100 miliar dari sebelumnya Rp3 miliar.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICI",
-   "laporan keuangan",
-   "utang bank",
-   "consumer goods"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028212348-64925-0/FinancialStatement-2026-III-VICI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "airasia-indonesia-cmpp-catat-rugi-rp1-74-triliun-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "AirAsia Indonesia (CMPP) Catat [Rugi] Rp1,74 Triliun di Kuartal III",
-  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan rugi bersih AirAsia Indonesia melonjak ke Rp1,74 triliun, sementara defisit ekuitas membesar menjadi Rp12,47 triliun.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CMPP",
-   "AirAsia Indonesia",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028211848-65264-0/FinancialStatement-2026-III-CMPP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mcor-laba-kuartal-iii-turun-5-8-jadi-rp217-44-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MCOR: Laba Kuartal III [Turun] 5,8% jadi Rp217,44 Miliar",
-  "deck": "MCOR membukukan laba bersih Rp217,44 miliar pada 9 bulan 2026, turun dari Rp230,88 miliar, seiring dana nasabah bergeser ke pembiayaan repo.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MCOR",
-   "perbankan",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028203333-64803-0/FinancialStatement-2026-III-MCOR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnbs-laba-9-bulan-naik-69-8-rasio-modal-turun-ke-16-6",
-  "category": "Aksi Korporasi",
-  "title": "PNBS: Laba 9 Bulan Naik 69,8%, Rasio [Modal] Turun ke 16,6%",
-  "deck": "Laba bersih Bank Panin Dubai Syariah naik 69,8 persen jadi Rp73,38 miliar dalam sembilan bulan 2026, sementara rasio kecukupan modal turun dari 19,11 persen jadi 16,61 persen.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNBS",
-   "Bank Panin Dubai Syariah",
-   "laporan keuangan",
-   "rasio kecukupan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028203327-64760-0/FinancialStatement-2026-III-PNBS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmri-divestasi-lepas-20-saham-inhealth-rp570-m",
-  "category": "Aksi Korporasi",
-  "title": "BMRI [Divestasi] Lepas 20% Saham Inhealth Rp570 M",
-  "deck": "Bank Mandiri menjual 20 persen sahamnya di Inhealth senilai Rp570 miliar kepada IFG Life, bagian dari konsolidasi asuransi BUMN.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMRI",
-   "Transaksi Afiliasi",
-   "Inhealth",
-   "IFG Life"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2ad8ce9128_32fc52d4cc.pdf",
-  "sourceLabel": "IDX"
  }
 ];

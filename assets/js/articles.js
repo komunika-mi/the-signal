@@ -3,6 +3,187 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bike-koreksi-jawaban-bursa-rp21-85-m-akuisisi-belum-dibayar",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Koreksi Jawaban Bursa, Rp21,85 M Akuisisi Belum [Dibayar]",
+  "deck": "BIKE merinci jawaban ke BEI soal tiga akuisisi, MTI, FBM, dan BUM senilai total sekitar Rp21,85 miliar, yang pembayarannya masih menunggu pinjaman dari pengendali PMJ.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:51:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4f59af71f6_17cba0183c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) kembali mengoreksi surat jawabannya ke Bursa Efek Indonesia, kali ini surat bernomor 2026/286R1 yang mengoreksi surat sebelumnya, 2026/286R, keduanya terbit pada tanggal yang sama, 3 November 2026. Koreksi ini berisi lembar jawaban rinci atas permintaan penjelasan lanjutan Bursa No. S-13601/BEI.PP3/10-2026 tanggal 30 Oktober 2026, yang meminta BIKE menyampaikan jawaban dalam format baku yang ditentukan bursa.",
+   "Dalam lembar jawaban itu, BIKE merinci tiga akuisisi tidak langsung yang sudah efektif secara administrasi namun belum dibayar tunai. Pertama, pembelian saham PT Mega Teknologi Investama (MTI) dari Vitria senilai Rp10,89 miliar, efektif 16 Juli 2026, dengan materialitas 16,62 persen dari ekuitas BIKE sehingga tidak masuk kategori transaksi material. Dokumen jawaban ini sendiri menyebut nama penjual MTI secara berbeda di dua bagian, yakni Vitria dan Nadila Syafira, tanpa penjelasan tambahan. Kedua, pembelian saham PT Fahreza Bumi Megah (FBM) dari Nadila Syafira senilai Rp10,89 miliar, efektif 15 Juli 2026, dengan materialitas yang sama 16,62 persen. BIKE mengonfirmasi Nadila Syafira adalah Direktur Perseroan sendiri, sehingga transaksi ini masuk kategori Transaksi Afiliasi sesuai POJK No. 42/POJK.04/2020. Ketiga, pembelian 72 dari 100 lembar saham atau 72 persen PT Berau Usaha Mandiri (BUM) oleh anak usaha PNE dari empat penjual, senilai Rp72 juta, efektif 7 Oktober 2026, dengan materialitas hanya 0,11 persen dan dinyatakan bukan transaksi afiliasi.",
+   "Ketiga pembayaran itu belum direalisasikan karena dananya bersumber dari fasilitas pinjaman PT Penajam Makmur Jaya (PMJ), pemegang saham pengendali BIKE, yang menurut perusahaan sudah mengikat secara notariil dan dananya sudah masuk rekening BIKE, namun pencairannya dilakukan bertahap sesuai kebutuhan operasional. Karena pembayaran belum tuntas, BIKE menyatakan hak suara substantif dan kendali atas MTI, FBM, serta anak usaha masing-masing, RK dan PNE, belum beralih sepenuhnya, sehingga ketiganya belum dikonsolidasikan ke laporan keuangan BIKE, dengan rujukan PSAK 65 paragraf 07 dan B80. Ekuitas konsolidasian BIKE pada laporan keuangan auditan terkini tercatat Rp65,52 miliar, yang menjadi basis perhitungan materialitas ketiga transaksi tersebut."
+  ],
+  "fotoAdegan": "Gas-fired power plant turbines and steel piping under an overcast sky, workers in hard hats inspecting equipment at a distance",
+  "takeaway": "Laporan ini condong negatif bagi BIKE, karena koreksi kedua dalam sehari ini menegaskan satu dari tiga akuisisi, yaitu FBM, memang transaksi dengan direksi perusahaan sendiri, sementara total Rp21,85 miliar nilai tiga akuisisi masih belum dibayar dan tiga anak usaha belum masuk laporan keuangan konsolidasian BIKE. Pos yang tersentuh adalah ekuitas, karena ambang batas transaksi material dihitung dari ekuitas BIKE yang hanya Rp65,52 miliar, dan status konsolidasi, yakni apakah aset serta pendapatan anak usaha baru ikut dihitung dalam laporan keuangan induk, sebab selama belum dikonsolidasi investor tidak melihat kinerja riil anak usaha tersebut di buku BIKE. Yang perlu dipantau selanjutnya adalah realisasi penuh pencairan pinjaman dari PMJ dan pelaksanaan RUPSLB yang disebut perseroan untuk merapikan administrasi akuisisi, meski BIKE belum menyebut tanggal pastinya, serta kemungkinan permintaan penjelasan lanjutan dari Bursa menyusul inkonsistensi nama pihak penjual dalam dokumen ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inco-laba-melonjak-3-kali-lipat-jadi-us-147-juta-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "INCO: Laba [Melonjak] 3 Kali Lipat jadi US$147 Juta di 9M26",
+  "deck": "Vale Indonesia mencatat laba bersih US$147 juta pada 9 bulan 2026, naik hampir tiga kali lipat, sementara total liabilitas melonjak 36 persen akibat pinjaman bank baru US$175 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:38:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103164905-65722-0/FinancialStatement-2026-III-INCO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INCO",
+  "tags": [
+   "INCO",
+   "Vale Indonesia",
+   "laba bersih",
+   "nikel"
+  ],
+  "body": [
+   "PT Vale Indonesia Tbk (INCO) melaporkan laba bersih senilai US$147,1 juta untuk periode sembilan bulan yang berakhir 30 September 2026, naik hampir tiga kali lipat dibandingkan US$52,4 juta pada periode yang sama tahun lalu. Kenaikan ini ditopang oleh pendapatan yang tumbuh dari US$705,4 juta menjadi US$896,1 juta, sementara laba kotor melonjak dari US$73,5 juta menjadi US$221,4 juta karena beban pokok pendapatan tidak naik secepat pendapatan. Laba per saham dasar dan dilusian naik dari US$0,0050 menjadi US$0,0140. Total aset perusahaan per akhir September 2026 tercatat US$3,65 miliar, naik dari US$3,35 miliar pada akhir 2025, dengan total ekuitas naik dari US$2,78 miliar menjadi US$2,87 miliar setelah perusahaan membayar dividen US$45,6 juta pada periode ini.",
+   "Meski laba naik, kas dan setara kas perusahaan justru turun dari US$376,4 juta menjadi US$247,3 juta. Arus kas bersih dari aktivitas operasi turun dari US$188,5 juta menjadi US$104 juta, salah satunya karena perusahaan membayar royalti dan retribusi lebih besar, dari US$53,1 juta menjadi US$101,6 juta, serta menempatkan jaminan keuangan baru senilai US$53,7 juta yang belum ada pada periode sebelumnya. Di sisi investasi, Vale Indonesia membayar US$350,2 juta untuk pembelian aset tetap, naik dari US$331,4 juta, mencerminkan belanja modal yang tetap besar. Untuk mendanai kebutuhan ini, perusahaan menarik pinjaman bank jangka panjang baru senilai US$175 juta, sehingga arus kas dari aktivitas pendanaan berbalik positif US$123,1 juta, dari sebelumnya negatif US$34,9 juta.",
+   "Dalam surat terpisah kepada Otoritas Jasa Keuangan, Sekretaris Perusahaan Vale Indonesia, Ranty Astari Rachman, menjelaskan bahwa total liabilitas perseroan naik 36 persen dari US$570,8 juta menjadi US$778,7 juta, sesuai aturan Bursa yang mewajibkan penjelasan jika perubahan aset atau liabilitas melebihi 20 persen. Liabilitas jangka pendek naik 14 persen atau US$49,1 juta menjadi US$411,5 juta, terutama karena kontrak liabilitas bertambah US$26 juta dari uang muka pelanggan dan utang pajak penghasilan badan naik US$8,8 juta akibat laba kena pajak yang lebih tinggi. Liabilitas jangka panjang melonjak 76 persen menjadi US$367,2 juta, didorong penarikan pinjaman bank jangka panjang US$175 juta dan penambahan liabilitas sewa sebesar US$9 juta dari kontrak sewa baru berjangka lebih dari satu tahun."
+  ],
+  "fotoAdegan": "Haul trucks carrying reddish nickel ore along a dusty mine road in Sulawesi, misty green hills in the background, overcast morning light",
+  "takeaway": "Laporan ini condong positif karena laba bersih Vale Indonesia melonjak hampir tiga kali lipat dan margin laba kotor melebar tajam, tanda kenaikan harga jual dan volume nikel benar-benar sampai ke bawah laporan keuangan. Yang perlu dicermati ada pada tiga pos: laba per saham naik dari 0,005 dolar jadi 0,014 dolar yang berarti bagian keuntungan untuk tiap lembar saham membesar, arus kas dari kegiatan operasional justru turun dari US$188,5 juta jadi US$104 juta karena perusahaan membayar lebih banyak royalti dan jaminan keuangan, dan utang jangka panjang melonjak 76 persen setelah perusahaan menarik pinjaman bank baru US$175 juta yang berpotensi menambah beban bunga ke depan. Yang perlu dipantau berikutnya adalah bagaimana dana pinjaman US$175 juta itu dipakai untuk membiayai belanja modal yang sudah mencapai US$350 juta dalam sembilan bulan, serta apakah arus kas operasi bisa menguat lagi pada kuartal keempat 2026 setelah periode ini tertekan oleh pembayaran royalti dan jaminan keuangan yang besar.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "boss-tambah-kriteria-di-papan-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Tambah Kriteria di Papan [Pemantauan Khusus] BEI",
+  "deck": "BEI menambahkan kriteria tidak ada pendapatan ke daftar masalah saham BOSS yang sudah berstatus pemantauan khusus akibat ekuitas negatif dan anak usaha bermasalah, efektif 4 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:27:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/21b5fc18db_3e4c5c3238.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "BOSS",
+   "Pemantauan Khusus",
+   "BEI",
+   "saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan penambahan kriteria pemantauan khusus untuk saham PT Borneo Olah Sarana Sukses Tbk. (BOSS). Dalam pengumuman bernomor Peng-UK-00044/BEI.PLP/11-2026, BEI menambahkan kriteria nomor 3, yaitu perusahaan tidak membukukan pendapatan atau tidak ada perubahan pendapatan pada laporan keuangan terakhir dibandingkan laporan sebelumnya. Perubahan ini berlaku efektif mulai 4 November 2026.",
+   "Dengan tambahan ini, saham BOSS kini tercatat memenuhi tiga kriteria pemantauan khusus sekaligus, yaitu kriteria 3 yang baru ditambahkan, kriteria 5 soal ekuitas negatif pada laporan keuangan terakhir, dan kriteria 9 soal anak perusahaan yang kontribusi pendapatannya material bagi BOSS namun sedang dalam kondisi dimohonkan penundaan pembayaran utang (PKPU) atau pailit. Dalam kolom status penghapusan dari pemantauan khusus (SDHSM), BOSS masih tercatat 'Tidak', artinya saham ini belum keluar dari daftar pemantauan khusus dan kini malah bertambah alasannya.",
+   "Papan pencatatan BOSS sendiri tercatat di Papan Pengembangan sebelum terkena status pemantauan khusus ini. BEI menyebut rincian lengkap daftar efek dalam pemantauan khusus dapat dilihat di situs resmi BEI dengan kata kunci 'Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus'. Pengumuman ditandatangani oleh Bima Ruditya Surya selaku Pjs Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's central business district reflecting afternoon sunlight, light traffic below",
+  "takeaway": "Penambahan kriteria ini negatif bagi BOSS, karena menunjukkan kondisi keuangan perusahaan memburuk, bukan membaik, sejak pertama kali masuk pemantauan khusus. Yang tersentuh di sini adalah pendapatan usaha dan ekuitas, modal bersih perusahaan setelah dikurangi utang, keduanya jadi tolok ukur utama pelaku pasar menilai apakah perusahaan masih punya fondasi bisnis yang sehat untuk menghasilkan uang dan membayar kewajibannya. Kombinasi tidak ada pendapatan, ekuitas negatif, dan anak usaha yang terancam pailit menggambarkan tekanan yang menumpuk dari beberapa sisi sekaligus, bukan satu masalah tunggal. Yang perlu dipantau berikutnya adalah laporan keuangan periode mendatang untuk melihat apakah pendapatan dan ekuitas BOSS mulai pulih, serta perkembangan proses PKPU atau pailit di anak usahanya, karena status pemantauan khusus ini mulai berlaku sejak 4 November 2026 dan baru bisa dicabut kalau kriteria-kriteria tersebut tidak lagi terpenuhi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kgi-hd-sesuaikan-waran-terstruktur-medc-usai-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "KGI (HD) Sesuaikan Waran [Terstruktur] MEDC usai Dividen Tunai",
+  "deck": "Harga dan rasio pelaksanaan waran MEDCHDCX6A serta MEDCHDCH7A disesuaikan menyusul dividen tunai MEDC, efektif 11 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:27:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/807b3211ee_f6667efeb8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HD",
+  "tags": [
+   "HD",
+   "MEDC",
+   "waran terstruktur",
+   "dividen tunai"
+  ],
+  "body": [
+   "KGI Sekuritas Indonesia, penerbit produk waran terstruktur dengan kode emiten HD, mengumumkan penyesuaian harga pelaksanaan dan rasio pelaksanaan untuk dua seri warannya, MEDCHDCX6A dan MEDCHDCH7A, yang keduanya berbasis saham MEDC. Penyesuaian ini dipicu oleh aksi korporasi dividen tunai yang dibagikan MEDC. Rumus penyesuaian diumumkan pada 2 November 2026, dengan cum date pada 10 November 2026 dan tanggal efektif penyesuaian pada 11 November 2026. Dokumen ditandatangani oleh Jabintang Borneo Senja selaku Head of Compliance KGI Sekuritas Indonesia.",
+   "Sebelum penyesuaian, waran MEDCHDCX6A memiliki harga pelaksanaan Rp1.922 dengan rasio pelaksanaan 4,86789 Call Waran Terstruktur berbanding 1 Saham MEDC. Sementara itu, waran MEDCHDCH7A memiliki harga pelaksanaan Rp1.394 dengan rasio pelaksanaan 10 Call Waran Terstruktur berbanding 1 Saham MEDC.",
+   "KGI belum mengungkapkan harga pelaksanaan dan rasio pelaksanaan baru untuk kedua seri waran tersebut. Angka pasti itu baru akan dihitung dan diumumkan setelah penutupan pasar pada cum date 10 November 2026, dengan mengacu pada rumus yang sudah ditetapkan dalam term sheet masing-masing waran, yang memperhitungkan harga penutupan saham MEDC pada tanggal itu."
+  ],
+  "fotoAdegan": "Exterior view of a modern office tower housing a securities brokerage, Jakarta skyline, late afternoon light",
+  "takeaway": "Laporan ini netral bagi MEDC karena yang terjadi hanyalah penyesuaian teknis pada instrumen derivatif warannya, bukan perubahan pada kinerja atau struktur permodalan perusahaan itu sendiri. Pemicunya adalah pembagian dividen tunai oleh MEDC, yang membuat harga sahamnya terkoreksi otomatis begitu cum date lewat, sehingga waran terstruktur, yaitu instrumen yang memberi hak membeli saham MEDC pada harga dan rasio tertentu dari penerbitnya, perlu disesuaikan agar nilai ekonomisnya bagi pemegang waran tidak berubah akibat dividen itu. Pos yang tersentuh bukan ekuitas atau laba MEDC, melainkan harga pelaksanaan dan rasio konversi pada produk waran KGI Sekuritas, yang menentukan berapa saham MEDC bisa diperoleh pemegang waran dan pada harga berapa. Yang perlu dipantau adalah angka pasti harga pelaksanaan dan rasio baru, yang baru diumumkan setelah penutupan pasar pada cum date 10 November 2026, dengan tanggal efektif penyesuaian pada 11 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asdf-lunasi-obligasi-seri-a-rp300-miliar-lepas-dari-bei-4-november",
+  "category": "Aksi Korporasi",
+  "title": "ASDF Lunasi Obligasi [Seri A] Rp300 Miliar, Lepas dari BEI 4 November",
+  "deck": "Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap II Seri A senilai Rp300 miliar jatuh tempo dan dihapus dari pencatatan BEI mulai 4 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:26:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e023079799_ef2059214f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASDF",
+  "tags": [
+   "ASDF",
+   "obligasi",
+   "pasar modal",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa mulai 4 November 2026, obligasi berkode ASDF07ACN2 milik PT Astra Sedaya Finance tidak lagi tercatat dan tidak dapat diperdagangkan di bursa. Obligasi ini adalah Seri A dari Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap II Tahun 2025, dengan nilai pokok Rp300 miliar. Surat utang ini diterbitkan pada 24 Oktober 2025 dengan bunga tetap 5,40 persen per tahun dan jangka waktu 370 hari kalender, sehingga pembayaran bunga terakhir sekaligus pelunasan seluruh pokok utang jatuh pada 4 November 2026, tepat sesuai jadwal yang sudah ditetapkan sejak penerbitan.",
+   "Seri A ini merupakan satu dari tiga seri di Tahap II yang total nilainya Rp2 triliun. Dua seri lain masih tercatat dan belum jatuh tempo, yaitu Seri B senilai Rp1,1 triliun dengan bunga 5,65 persen per tahun yang baru jatuh tempo 24 Oktober 2028, dan Seri C senilai Rp600 miliar dengan bunga 5,90 persen per tahun yang jatuh tempo 24 Oktober 2030. Tahap II sendiri adalah bagian dari program Obligasi Berkelanjutan VII dengan target total penghimpunan dana Rp12 triliun, setelah Tahap I senilai Rp1 triliun diterbitkan lebih dulu. Obligasi ini mendapat peringkat idAAA dari Pefindo, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat."
+  ],
+  "fotoAdegan": "Loan officer handing car keys to a customer inside a vehicle financing office, blurred paperwork on the counter, soft daylight",
+  "takeaway": "Laporan ini netral bagi emiten, karena pelunasan Seri A memang sudah terjadwal sejak obligasi ini diterbitkan setahun lalu dengan tenor 370 hari, bukan kejadian mendadak atau sinyal tekanan keuangan baru. Pos yang tersentuh adalah utang dan beban bunga perusahaan: begitu Rp300 miliar ini lunas, kewajiban bunga tahunan ASDF ikut berkurang sebesar kupon 5,40 persen dari nilai itu, meski porsinya kecil dibanding sisa Rp1,7 triliun obligasi Seri B dan Seri C yang masih berjalan. Pelunasan tepat waktu juga menunjukkan perusahaan tidak mengalami gangguan arus kas untuk membayar jatuh tempo ini. Yang perlu dipantau selanjutnya adalah jatuh tempo Seri B pada 24 Oktober 2028 senilai Rp1,1 triliun dan Seri C pada 24 Oktober 2030 senilai Rp600 miliar, serta kemungkinan penerbitan Tahap III dari sisa kuota program Rp12 triliun yang jadwalnya belum ditentukan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "boss-rugi-rp9-01-miliar-kuartal-iii-2025-defisit-modal-melebar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Rugi Rp9,01 Miliar Kuartal III/2025, [Defisit] Modal Melebar",
+  "deck": "Laporan interim kuartal III 2025 BOSS mencatat rugi bersih Rp9,01 miliar dan defisiensi modal melebar jadi Rp232,66 miliar, sementara penjualan tetap nihil dan kas menyusut tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:26:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/20261103163544-65720-0/FinancialStatement-2025-III-BOSS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "laporan keuangan",
+   "defisit modal",
+   "batu bara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2025 kepada Bursa Efek Indonesia, melalui surat bernomor 12.209a/SL.e/Dir/BOSS/X/2026 tertanggal 2 November 2026. Laporan ditandatangani oleh Direktur Utama Freddy Tedjasasmita dan Direktur Widodo Nurly Sumady, yang menyatakan bertanggung jawab atas penyusunan dan kelengkapan laporan tersebut.",
+   "Secara konsolidasi, BOSS kembali tidak membukukan penjualan bersih maupun beban pokok penjualan sepanjang Januari-September 2025, sama seperti periode yang sama tahun sebelumnya. Rugi bersih tercatat Rp9,01 miliar, mengecil dari rugi Rp13,33 miliar pada sembilan bulan 2024, terutama karena beban umum dan administrasi turun dari Rp12,86 miliar menjadi Rp8,61 miliar. Meski rugi mengecil, defisiensi modal, yaitu selisih ketika utang perusahaan sudah melampaui asetnya, justru melebar dari Rp224,12 miliar pada akhir 2024 menjadi Rp232,66 miliar per 30 September 2025. Jumlah aset turun dari Rp588,05 miliar menjadi Rp577,94 miliar, jumlah liabilitas sedikit menyusut dari Rp812,16 miliar menjadi Rp810,60 miliar, dan kas serta setara kas merosot dari Rp2,45 miliar menjadi Rp836,54 juta.",
+   "Arus kas dari aktivitas operasi masih negatif Rp74,40 miliar dalam sembilan bulan 2025, membaik dari minus Rp105,80 miliar pada periode yang sama 2024, dan ditutupi lewat penerimaan utang pihak ketiga serta utang pihak berelasi dalam aktivitas pendanaan. Dokumen juga memuat rincian anak usaha BOSS: PT Bangun Olahsarana Sukses (kepemilikan 41,72 persen) dan PT Pratama Bersama (38,03 persen) yang sudah berstatus Operasi, sementara Pratama Natural Resource (22,43 persen), PT Pratama Buana Sentosa (0,92 persen), dan PT Pratama Prime Resource (1,03 persen) masih berstatus Pra-Operasi. Jumlah modal disetor BOSS tidak berubah, yakni 1,4 miliar lembar saham dengan nilai nominal Rp100 per lembar, dan saham perseroan masih tercatat di papan Pemantauan Khusus bursa."
+  ],
+  "fotoAdegan": "Idle excavators and conveyor structures standing silent at an open-pit coal mine in Kalimantan, overcast afternoon light",
+  "takeaway": "Laporan ini tetap condong negatif bagi BOSS, karena defisiensi modal yang terus melebar dan kas yang merosot tajam menunjukkan utang perusahaan kian jauh melampaui asetnya, meski nominal rugi mengecil dibanding tahun lalu. Pos yang tersentuh adalah ekuitas, yaitu selisih aset dikurangi utang yang kini negatif Rp232,66 miliar, serta arus kas operasi yang masih menyedot Rp74,40 miliar meski perusahaan tidak punya penjualan untuk menutupinya. Pelaku pasar mencermati pos ini karena ekuitas negatif berarti kalau perusahaan dibubarkan hari ini, asetnya tidak cukup untuk melunasi semua utang ke kreditur, apalagi mengembalikan modal ke pemegang saham. Yang perlu dipantau berikutnya adalah apakah tiga anak usaha yang masih berstatus pra-operasi, yaitu PNR, PBS, dan PPR, mulai bergerak ke tahap produksi, serta apakah laporan keuangan tahunan 2025 yang diaudit nanti mengonfirmasi pola nihil penjualan yang sama seperti laporan interim ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lapd-dan-cbre-masuk-pemantauan-khusus-bei-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "LAPD dan CBRE Masuk [Pemantauan] Khusus BEI, Ekuitas Negatif",
+  "deck": "BEI menetapkan saham LAPD dan CBRE masuk daftar pemantauan khusus efektif 4 November 2026 karena ekuitas keduanya negatif di laporan keuangan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:19:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e587e5a483_e10ff8d515.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "LAPD",
+   "CBRE",
+   "pemantauan khusus",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan dua saham papan pengembangan resmi masuk daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus, yaitu LAPD (Leyand International Tbk) dan CBRE (PT Cakra Buana Resources Energi Tbk). Berdasarkan pengumuman bernomor Peng-PK-00075/BEI.PLP/11-2026 yang terbit 3 November 2026, status ini efektif berlaku mulai 4 November 2026 dan keterangan untuk kedua saham tercatat sebagai 'Masuk' atau Enter ke dalam daftar tersebut, bukan dihapus dari daftar.",
+   "Alasan keduanya masuk pemantauan khusus adalah kriteria nomor 5 dari sebelas kriteria yang ditetapkan BEI, yakni memiliki ekuitas negatif pada laporan keuangan terakhir. Dari daftar kriteria yang disertakan dalam pengumuman, sejumlah kriteria lain sudah tidak berlaku lagi alias dihapus, seperti kriteria 1, 6, 7, dan 10. Selain ekuitas negatif, kriteria lain yang masih berlaku di antaranya opini disclaimer dari auditor, tidak ada pendapatan atau tidak ada perubahan pendapatan, serta kondisi perusahaan atau anak usahanya yang dimohonkan PKPU atau pailit, namun pengumuman ini secara spesifik hanya mencantumkan kriteria ekuitas negatif untuk LAPD dan CBRE.",
+   "BEI menyebutkan pengumuman lengkap dapat diakses melalui laman resmi idx.co.id dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus. Dokumen ditandatangani secara elektronik oleh Bima Ruditya Surya selaku Pjs Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI."
+  ],
+  "fotoAdegan": "Wide shot of a Jakarta financial district skyline with glass office towers rising under an overcast grey sky, distant traffic below.",
+  "takeaway": "Masuknya LAPD dan CBRE ke papan pemantauan khusus ini negatif bagi keduanya, karena pemicunya ekuitas negatif, tanda bahwa modal pemegang saham sudah terkuras dan total kewajiban perusahaan melebihi total aset yang dimiliki. Ekuitas yang minus berarti kalau seandainya perusahaan membayar semua utangnya sekarang dengan menjual seluruh asetnya, uangnya tidak akan cukup, apalagi menyisakan sesuatu untuk dikembalikan ke pemegang saham. Pos ekuitas ini jadi perhatian pelaku pasar karena mencerminkan daya tahan keuangan jangka panjang perusahaan, bukan sekadar untung atau rugi dalam satu periode saja. Status pemantauan khusus ini efektif berlaku 4 November 2026, dan yang perlu dipantau berikutnya adalah apakah LAPD dan CBRE mampu membalikkan posisi ekuitasnya menjadi positif pada laporan keuangan mendatang agar bisa keluar dari daftar ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "smelter-menjamur-esdm-kaji-pembatasan-produk-setengah-jadi",
   "category": "Industri",
   "title": "Smelter Menjamur, ESDM Kaji [Pembatasan] Produk Setengah Jadi",
@@ -59,6 +240,85 @@ var ARTICLES = [
   "imageV": "mw0h12pr"
  },
  {
+  "slug": "zp-sesuaikan-waran-itmg-usai-dividen-tunai-us-74-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan [Waran] ITMG usai Dividen Tunai US$74,2 Juta",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi dua waran terstruktur ITMG, menyusul dividen tunai ITMG senilai US$74,2 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:07:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4f91843363_999286f54b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "ITMG",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, selaku penerbit waran terstruktur ITMGZPCZ6A dan ITMGZPCG7A yang mengacu pada saham PT Indo Tambangraya Megah Tbk (ITMG), mengumumkan penyesuaian harga pelaksanaan dan rasio konversi kedua produk tersebut. Penyesuaian ini dilakukan menyusul pengumuman ITMG pada 2 November 2026 soal pembagian dividen tunai untuk tahun buku 2026 senilai US$74,2 juta.",
+   "Sesuai Bagian 3.8 prospektus bertanggal 11 April 2025 dan term sheet kedua waran, harga pelaksanaan baru dihitung dengan mengalikan harga pelaksanaan lama dengan selisih harga perdagangan terakhir ITMG pada cum-date dikurangi nilai dividen per saham, lalu dibagi harga perdagangan terakhir itu sendiri. Rasio konversi baru dihitung dengan rumus yang sama, dikalikan rasio konversi lama. Penyesuaian ini berlaku efektif pada tanggal ex-dividen, yaitu 11 November 2026 untuk pasar reguler dan negosiasi, serta 13 November 2026 untuk pasar tunai.",
+   "Maybank Sekuritas juga mencantumkan klausul bahwa penyesuaian bisa saja tidak dilakukan apabila penerbit, atas kebijakannya sendiri dan tanpa kewajiban apa pun kepada pemegang waran terstruktur, menilai penyesuaian tidak diperlukan."
+  ],
+  "fotoAdegan": "Coal conveyor loading dark coal onto a bulk carrier at an Indonesian port terminal, overcast sky, workers in hard hats nearby",
+  "takeaway": "Laporan ini netral, baik bagi ITMG maupun Maybank Sekuritas selaku penerbit waran, karena penyesuaian harga pelaksanaan dan rasio konversi murni konsekuensi rumus baku yang sudah disepakati sejak waran ini diterbitkan, bukan keputusan baru yang mencerminkan kondisi keuangan ITMG. Harga pelaksanaan adalah harga yang dibayar pemegang waran untuk menebus saham ITMG, sementara rasio konversi menentukan berapa saham yang didapat per waran, dan keduanya disesuaikan agar nilai ekonomis waran tidak otomatis tergerus saat harga saham ITMG turun akibat pembagian dividen pada tanggal cum-date. Yang perlu dipantau adalah apakah penyesuaian benar berlaku sesuai jadwal pada 11 November 2026 di pasar reguler dan negosiasi serta 13 November 2026 di pasar tunai, atau justru Maybank memakai klausul diskresinya untuk tidak melakukan penyesuaian sama sekali.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-sesuaikan-waran-medc-usai-dividen-interim-us-30-juta",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan [Waran] MEDC usai Dividen Interim US$30 Juta",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran MEDCZPCF7A dan MEDCZPCN7A menyusul dividen interim MEDC senilai US$30 juta, efektif 11 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:06:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dc733e3ea5_8e3c05510e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "MEDC",
+   "waran terstruktur",
+   "dividen interim"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, penerbit waran terstruktur dengan kode ZP, mengumumkan penyesuaian syarat dan ketentuan dua produknya, MEDCZPCF7A dan MEDCZPCN7A, yang keduanya menggunakan saham PT Medco Energi Internasional Tbk (MEDC) sebagai acuan. Penyesuaian ini dipicu oleh pengumuman MEDC pada 2 November 2026 tentang pembagian dividen interim tahun buku 2026 senilai US$30 juta.",
+   "Sesuai Bagian 3.8 Prospektus waran tertanggal 11 April 2025, harga pelaksanaan dan rasio konversi kedua waran akan dihitung ulang memakai rumus yang memperhitungkan harga penutupan saham MEDC pada cum-date serta nilai dividen tunai per saham. Penyesuaian ini berlaku efektif pada tanggal ex-dividen, yaitu 11 November 2026 untuk transaksi di Pasar Reguler dan Pasar Negosiasi, dan 13 November 2026 untuk transaksi di Pasar Tunai.",
+   "Maybank juga mencantumkan klausul bahwa penyesuaian tersebut bisa saja tidak dilakukan apabila, berdasarkan kebijakan penerbit dan tanpa batasan, perubahan itu dianggap tidak diperlukan, tanpa ada kewajiban apa pun kepada pemegang waran terstruktur."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting pipework at an onshore oil and gas processing facility, hazy tropical sky",
+  "takeaway": "Laporan ini netral bagi MEDC maupun Maybank Sekuritas selaku penerbit waran, karena penyesuaian harga pelaksanaan dan rasio konversi murni konsekuensi rumus baku yang sudah disepakati sejak waran MEDCZPCF7A dan MEDCZPCN7A diterbitkan, bukan keputusan baru yang mencerminkan pandangan Maybank terhadap MEDC. Yang tersentuh di sini bukan laporan keuangan MEDC, melainkan nilai ekonomis waran terstruktur, yaitu kontrak yang memberi hak membeli saham MEDC pada harga dan rasio tertentu, sehingga pembagian dividen otomatis mengubah kalkulasi itu agar nilai waran tetap wajar bagi pemegangnya. Yang perlu dipantau adalah tanggal cum-dividen, yakni 11 November 2026 untuk Pasar Reguler dan Negosiasi serta 13 November 2026 untuk Pasar Tunai, karena harga penutupan MEDC pada tanggal itu menjadi variabel penentu harga pelaksanaan dan rasio konversi yang baru. Kepastian angka akhirnya baru terlihat setelah cum-date berlalu, mengingat Maybank tetap punya opsi untuk tidak melakukan penyesuaian jika dianggap tidak diperlukan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arko-targetkan-produksi-listrik-naik-49-5-di-2027",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Targetkan Produksi Listrik Naik [49,5%] di 2027",
+  "deck": "Dalam public expose insidentil, manajemen ARKO memaparkan produksi listrik yang tetap tumbuh di tengah El Nino dan proyeksi lonjakan produksi pada 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:04:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/46ecccf054_8f944823b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "public expose",
+   "energi terbarukan"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) menggelar Public Expose Insidentil 2026 secara daring melalui Zoom pada 2 November 2026, dihadiri 17 peserta di luar jajaran manajemen dan karyawan perseroan, terdiri dari pemegang saham publik, media, dan analis sekuritas. Acara dibuka dan ditutup oleh Direktur Utama Aldo Artoko bersama Direktur Ricky Hartono dan Direktur Terry Tando, dengan Head of Investor Relations Nicko Yosafat sebagai pembawa acara. Materi yang dipaparkan meliputi kondisi dan rencana bisnis, kinerja keuangan, serta analisis manajemen terkait pergerakan harga saham perseroan.",
+   "Menjawab pertanyaan soal dampak El Nino, manajemen mengakui fenomena ini menurunkan curah hujan dan debit air sehingga produksi listrik di sejumlah lokasi pembangkit sempat tertekan. Namun secara keseluruhan produksi listrik ARKO pada Januari-September 2026 masih tumbuh 13,56 persen dibandingkan periode sama tahun sebelumnya, didukung kontribusi Proyek Kukusan yang beroperasi sejak Februari 2026. Sebagai mitigasi, perseroan memanfaatkan musim kering untuk pemeliharaan pembangkit, mengakselerasi pembangunan Proyek Tomoni dan Pongbembe, serta mendiversifikasi sumber energi lewat akuisisi dan pengembangan pembangkit listrik tenaga surya (PLTS).",
+   "Untuk katalis 2027, manajemen menyebut Proyek Tomoni ditargetkan beroperasi pada kuartal I 2027 dengan tambahan produksi sekitar 56 GWh, atau sekitar 24 persen dari proyeksi total produksi listrik tahun itu. Dengan kontribusi tersebut, total produksi listrik diproyeksikan naik 49,5 persen dari estimasi 155,1 GWh pada 2026 menjadi 231,8 GWh pada 2027, meski pencapaiannya tetap bergantung pada jadwal operasional Tomoni dan kondisi hidrologi. Proyek Pongbembe, yang ditargetkan selesai pada 2030, juga diharapkan menyumbang pendapatan konstruksi yang meningkat seiring progres pembangunannya.",
+   "Soal ekspansi energi surya, ARKO saat ini mengoperasikan dua PLTS di Kepulauan Riau dengan total kapasitas 21,3 MWp, dan merencanakan tiga PLTS tambahan berkapasitas 34 MWp yang dilengkapi sistem penyimpanan baterai (BESS) 28,3 MWh, sehingga total kapasitas PLTS yang telah dikontrak mencapai 55,3 MWp. Perseroan juga memiliki pipeline pengembangan energi terbarukan lebih dari 300 MW, namun akan dikembangkan secara selektif dan bertahap dengan mempertimbangkan kelayakan teknis, finansial, perizinan, pendanaan, serta jadwal tender PLN."
+  ],
+  "fotoAdegan": "Small hydroelectric dam spillway releasing water into a forested river valley, technicians inspecting turbine equipment nearby, overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi ARKO karena menunjukkan produksi listrik yang tetap tumbuh dua digit meski diterpa El Nino, ditambah proyeksi lonjakan produksi hampir 50 persen pada 2027 begitu Proyek Tomoni beroperasi. Pos yang tersentuh terutama arus kas operasional, yakni uang tunai yang masuk dari penjualan listrik, karena makin banyak listrik yang terjual biasanya makin besar pula pendapatan dan kas yang diterima perseroan. Perlu dicermati juga bahwa ekspansi Tomoni, Pongbembe, dan deretan proyek PLTS baru butuh modal besar, yang kalau dibiayai lewat utang bisa menambah beban bunga perseroan ke depan. Yang perlu dipantau selanjutnya adalah kepastian Proyek Tomoni mulai beroperasi pada kuartal I 2027 seperti ditargetkan, sebab proyek inilah yang menjadi penopang utama proyeksi pertumbuhan produksi tahun depan.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "harga-cabai-melonjak-ke-rp124-ribu-mendag-sebut-faktor-cuaca",
   "category": "Makroekonomi",
   "title": "Harga Cabai [Melonjak] ke Rp124 Ribu, Mendag Sebut Faktor Cuaca",
@@ -84,6 +344,85 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah bukan jumlah pasokan cabai secara nasional, melainkan pemerataannya: Kemendag menyebut stok keseluruhan aman, tapi daerah seperti Halmahera kekurangan sehingga pemerintah mengirim 7 ton cabai dari Jawa Timur untuk menambal kekosongan itu. Yang paling terasa dari lonjakan ini adalah konsumen rumah tangga dan pedagang warung makan, terutama di daerah yang pasokannya tipis, karena harga cabai rawit merah sudah lebih dari dua kali lipat harga acuan pemerintah. Pola pengiriman titik ke titik seperti ini, 7 ton untuk satu wilayah, menunjukkan pemerintah masih menambal masalah distribusi per kasus ketimbang membangun jalur logistik tetap antara sentra produksi dan daerah yang rutin kekurangan pasokan. Arah ke depannya akan lebih jelas dari data harga pangan mingguan Kemendag atau Badan Pangan Nasional pada pekan-pekan berikutnya, serta dari prakiraan BMKG soal kapan kemarau di sentra produksi cabai akan berakhir.",
   "imageV": "mw0h135r"
+ },
+ {
+  "slug": "meta-bagi-dividen-interim-rp3-50-per-saham-bayar-3-desember",
+  "category": "Aksi Korporasi",
+  "title": "META Bagi [Dividen Interim] Rp3,50 per Saham, Bayar 3 Desember",
+  "deck": "Nusantara Infrastructure (META) membagikan dividen interim Rp60,6 miliar atau Rp3,50 per saham untuk tahun buku 2026, dengan pembayaran dijadwalkan 3 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T15:57:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/67f29e3b9c_436c0fa8d2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "META",
+  "tags": [
+   "META",
+   "dividen interim",
+   "Nusantara Infrastructure",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Nusantara Infrastructure Tbk (META) akan membagikan dividen interim tahun buku 2026 senilai total Rp60.638.386.179, atau setara Rp3,50 per saham, kepada para pemegang sahamnya. Keputusan ini diambil melalui keputusan sirkuler Direksi tertanggal 30 Oktober 2026 yang telah mendapat persetujuan Dewan Komisaris pada tanggal yang sama. Pengumuman resmi disampaikan oleh Sekretaris Perusahaan, Dahlia Evawani, kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 3 November 2026.",
+   "Jadwal pembagiannya diatur ketat. Perdagangan saham dengan status cum dividen interim di pasar reguler dan negosiasi berakhir pada 9 November 2026, sementara di pasar tunai berakhir sehari lebih lambat, yaitu 11 November 2026. Saham yang diperdagangkan mulai 10 November 2026 di pasar reguler dan negosiasi, atau 12 November 2026 di pasar tunai, sudah tidak lagi membawa hak atas dividen ini. Tanggal pencatatan pemegang saham yang berhak menerima dividen ditetapkan pada 11 November 2026 pukul 16.00 WIB, dan dividen dibayarkan pada 3 Desember 2026 melalui Rekening Dana Nasabah di perusahaan efek atau bank kustodian masing-masing pemegang saham.",
+   "Perseroan juga mengingatkan soal pajak. Pemegang saham wajib pajak dalam negeri, baik badan hukum maupun perorangan, harus menyerahkan Nomor Pokok Wajib Pajak paling lambat 11 November 2026 pukul 16.00 WIB kepada KSEI lewat perusahaan efek atau bank kustodian tempat mereka membuka rekening. Pemegang saham asing dari negara yang punya perjanjian penghindaran pajak berganda dengan Indonesia harus menyerahkan Surat Keterangan Domisili yang masih berlaku dengan tenggat yang sama agar mendapat keringanan tarif pajak. Jika surat itu terlambat atau tidak diserahkan, pajak dividen bagi pemegang saham asing dipotong penuh 20 persen. Perseroan menyatakan pembagian dividen interim ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Aerial view of an elevated toll highway with light traffic flowing under an overcast Jakarta sky",
+  "takeaway": "Laporan ini condong positif bagi META karena perseroan memilih membagi dividen interim sebelum tahun buku 2026 berakhir, biasanya pertanda arus kas perusahaan dinilai cukup kuat untuk membagikan kas ke pemegang saham tanpa menunggu rapat tahunan. Pos yang tersentuh adalah kas dan ekuitas, yaitu modal pemegang saham yang tercatat di buku perusahaan, karena dana Rp60,6 miliar itu akan keluar dari kas dan mengurangi ekuitas, sehingga pelaku pasar biasanya memeriksa apakah arus kas operasional masih cukup menutup kebutuhan investasi dan utang setelah dividen ini dibayarkan. Dokumen ini sendiri menyebut tidak ada dampak material terhadap operasional, hukum, atau kondisi keuangan perseroan, yang menguatkan kesan bahwa ini kebijakan rutin, bukan tanda ada masalah. Yang perlu dipantau berikutnya adalah batas pencatatan pemegang saham pada 11 November 2026 pukul 16.00 WIB dan tanggal pembayaran pada 3 Desember 2026, karena di situlah proses pembagian dividen ini benar-benar tuntas.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "meta-tetapkan-jadwal-dividen-interim-rp3-50-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "META Tetapkan [Jadwal] Dividen Interim Rp3,50 per Saham",
+  "deck": "Nusantara Infrastructure menetapkan recording date 11 November dan tanggal pembayaran dividen interim Rp3,50 per saham pada 3 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T15:56:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf13f672dc_6918e3d24d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "META",
+  "tags": [
+   "META",
+   "dividen interim",
+   "Nusantara Infrastructure",
+   "KSEI"
+  ],
+  "body": [
+   "PT Nusantara Infrastructure Tbk (META) menetapkan jadwal resmi pembagian dividen interim tahun buku 2026 senilai total Rp60.638.386.179, atau Rp3,50 per saham, setelah keputusan Direksi disetujui Dewan Komisaris pada 30 Oktober 2026. Dividen ini dibayarkan dalam bentuk tunai, bukan efek ekuitas, dan jumlah per sahamnya sudah final. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada 11 November 2026 pukul 16.00 WIB berhak menerima dividen tersebut, yang akan dicairkan paling lambat 3 Desember 2026 melalui KSEI ke rekening dana nasabah di perusahaan efek atau bank kustodian masing-masing pemegang saham.",
+   "Jadwal perdagangan saham terkait dividen ini cukup rapat. Di pasar reguler dan negosiasi, batas akhir perdagangan dengan hak dividen (cum dividen) adalah 9 November 2026, sehingga mulai 10 November 2026 saham META sudah diperdagangkan tanpa hak dividen tersebut (ex dividen). Di pasar tunai, batas cum dividen jatuh pada 11 November 2026 dan status ex dividen berlaku sehari setelahnya, 12 November 2026.",
+   "Perseroan juga mengingatkan soal pemotongan pajak. Pemegang saham wajib pajak dalam negeri harus menyerahkan NPWP paling lambat 11 November 2026 pukul 16.00 WIB melalui perusahaan efek atau bank kustodiannya. Pemegang saham wajib pajak luar negeri yang ingin memakai tarif pajak berganda (tax treaty) harus melengkapi dokumen Form DGT atau Certificate of Residence dengan tenggat yang sama, kalau tidak, dividen mereka dipotong PPh Pasal 26 dengan tarif tertinggi 20 persen.",
+   "Dokumen ini juga menyertakan data keuangan per 30 September 2026 yang mendasari pembagian dividen: laba bersih yang diatribusikan kepada entitas induk sebesar Rp66,19 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp751,75 miliar, dan total ekuitas Rp4,118 triliun."
+  ],
+  "fotoAdegan": "Aerial view of vehicles flowing along an elevated toll road interchange at dusk, city skyline faint in the distance",
+  "takeaway": "Laporan ini condong netral ke positif bagi META, karena dividen senilai Rp60,64 miliar itu dibiayai dari saldo laba ditahan yang jauh lebih besar, Rp751,75 miliar, dan hanya memangkas sekitar 1,5 persen dari total ekuitas perseroan sehingga modal usaha tidak tergerus signifikan. Yang perlu dicermati pemegang saham adalah bahwa nilai dividen ini hampir menyamai 92 persen dari laba bersih sembilan bulan perseroan, Rp66,19 miliar, jadi porsi kas yang dibagikan relatif besar dibanding laba periode berjalan, meski masih tertutup oleh cadangan laba ditahan yang tebal. Saldo laba ditahan sendiri adalah akumulasi keuntungan tahun-tahun sebelumnya yang belum dibagikan, jadi menjadi bantalan utama pembayaran dividen kali ini. Yang perlu dipantau selanjutnya adalah apakah pembayaran benar terealisasi sesuai jadwal pada 3 Desember 2026, dan bagaimana laporan keuangan audit tahun buku 2026 penuh nantinya menunjukkan dampak pembagian ini terhadap kas dan ekuitas perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbhi-sewa-ruang-kantor-dari-bank-mega-rp3-18-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BBHI Sewa Ruang Kantor dari [Bank Mega] Rp3,18 Miliar",
+  "deck": "Allo Bank menyewa ruang lantai 5 dan 6 Menara Bank Mega senilai Rp3,18 miliar untuk enam bulan, transaksi afiliasi dengan sesama anak usaha kelompok Bank Mega.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T15:46:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a42a6017ed_82a24a8f07.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBHI",
+  "tags": [
+   "BBHI",
+   "transaksi afiliasi",
+   "Bank Mega",
+   "perbankan"
+  ],
+  "body": [
+   "PT Allo Bank Indonesia Tbk (BBHI) melaporkan transaksi afiliasi berupa perjanjian sewa menyewa ruang kantor dengan PT Bank Mega Tbk, yang diteken pada 30 Oktober 2026. Perjanjian bernomor 013/PRGS-FM/2026 dan 020/PKS/X/26 ini mengatur sewa ruang di lantai 5 dan lantai 6 Menara Bank Mega, Jalan Kapten P. Tendean No. 12-14A, Jakarta Selatan, untuk jangka waktu enam bulan terhitung 1 November 2026 sampai 30 April 2027.",
+   "Nilai total transaksi tercatat Rp3.180.933.000 di luar PPN. Rinciannya, sewa ruang lantai 5 seluas 1.154,9 meter persegi senilai Rp1.697.703.000 dan ruang lantai 6 seluas 1.009 meter persegi senilai Rp1.483.230.000, masing-masing dihitung dari tarif Rp245.000 per meter persegi per bulan. Dibandingkan modal disetor Perseroan per 30 September 2026 yang tercatat Rp2.173.025.644.200, nilai transaksi ini hanya setara 0,54 persen, sehingga masih di bawah ambang batas Rp5 miliar yang diatur POJK 42/2020. Karena itu, Allo Bank hanya wajib melaporkan transaksi ini ke OJK paling lambat dua hari kerja setelah transaksi, tanpa perlu persetujuan pemegang saham.",
+   "Allo Bank dan Bank Mega dikategorikan sebagai pihak afiliasi karena keduanya dikendalikan secara langsung oleh perusahaan yang sama, PT Mega Corpora, yang berada di bawah kelompok usaha Chairul Tanjung. Perseroan menyebut sewa ruang kantor di gedung yang sama dengan Bank Mega memberi sinergi dan efisiensi pelayanan terpadu dalam satu atap, serta dinilai memberi manfaat finansial yang tidak akan didapat seandainya sewa dilakukan dengan pihak yang tidak terafiliasi."
+  ],
+  "fotoAdegan": "Wide shot of a glass-clad high-rise bank tower in Jakarta's Mampang business district, afternoon light, cars passing on the street below.",
+  "takeaway": "Laporan ini netral bagi kinerja Allo Bank, karena nilainya kecil, hanya 0,54 persen dari modal disetor, dan sifatnya rutin yaitu memperpanjang sewa ruang kantor yang memang sudah ditempati Perseroan di gedung milik kelompok usaha Bank Mega. Yang tersentuh hanya beban operasional, yaitu biaya sewa yang akan tercatat sebagai pengeluaran rutin di laporan laba rugi, bukan ekuitas, arus kas investasi, atau jumlah saham beredar, sehingga dampaknya ke laba bersih sangat terbatas dibanding ukuran bank ini. Yang perlu dipantau adalah apakah ada perpanjangan setelah masa sewa berakhir pada 30 April 2027, karena nilai sewa bisa berubah pada negosiasi berikutnya, serta konsistensi pelaporan transaksi afiliasi serupa ke depan sebagai bagian transparansi hubungan Allo Bank dengan Bank Mega.",
+  "sentimen": "netral"
  },
  {
   "slug": "wika-disuspensi-bursa-usai-gagal-bayar-kupon-obligasi",

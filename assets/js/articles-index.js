@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "midi-tebar-dividen-interim-rp127-miliar-rp3-8-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "MIDI Tebar [Dividen] Interim Rp127 Miliar, Rp3,8 per Saham",
+  "deck": "Midi Utama Indonesia (MIDI) membagikan dividen interim tahun buku 2026 senilai Rp127,05 miliar atau Rp3,8 per saham, dibayarkan paling lambat 1 Desember 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MIDI",
+   "dividen",
+   "Alfamidi",
+   "emiten ritel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/077bcc19d7_e1b05951d4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ifii-bagikan-dividen-interim-kedua-rp47-06-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IFII bagikan dividen interim kedua [Rp47,06 miliar]",
+  "deck": "Direksi IFII memutuskan dividen interim kedua tahun buku 2026 sebesar Rp5 per saham, total Rp47,06 miliar, dibayar 26 November 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IFII",
+   "dividen interim",
+   "dividen tunai",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c0095caf0_e634068ee4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hill-catat-ekuitas-negatif-rp412-7-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "HILL catat ekuitas [negatif] Rp412,7 miliar di kuartal III 2026",
+  "deck": "Ekuitas Hillcon (HILL) minus Rp412,7 miliar usai pendapatan anjlok hampir 85 persen dan rugi bersih membengkak jadi Rp832,1 miliar pada sembilan bulan pertama 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HILL",
+   "Hillcon",
+   "laporan keuangan",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103072610-65684-0/FinancialStatement-2026-III-HILL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bike-koreksi-lagi-jawaban-bursa-akui-fbm-libatkan-direksi",
   "category": "Aksi Korporasi",
   "title": "BIKE Koreksi Lagi Jawaban Bursa, Akui FBM Libatkan [Direksi]",
@@ -1082,6 +1130,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "oppm-bantah-jadi-subjek-penyelidikan-singapura-soal-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "OPPM Bantah Jadi Subjek [Penyelidikan] Singapura soal Karhutla",
+  "deck": "OPPM menyatakan perusahaan dan anak usahanya tidak menjadi subjek penyelidikan Pemerintah Singapura soal karhutla, meski pemegang saham tidak langsungnya, APP Co Ltd, dipanggil dalam proses itu.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OPPM",
+   "karhutla",
+   "Singapura",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4fa8f07fb9_ec4690873c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wins-akuisisi-fos-kerek-aset-54-laba-naik-83",
   "category": "Aksi Korporasi",
   "title": "WINS: [Akuisisi] FOS Kerek Aset 54%, Laba Naik 83%",
@@ -1367,6 +1431,86 @@ var ARTICLES = [
    "holding company"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162838-64451-0/FinancialStatement-2026-III-DEFI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lpps-catat-rugi-rp230-9-miliar-aset-susut-42-9",
+  "category": "Aksi Korporasi",
+  "title": "LPPS Catat [Rugi] Rp230,9 Miliar, Aset Susut 42,9%",
+  "deck": "Ekuitas PT Lenox Pasifik Investama (LPPS) tergerus hampir separuh jadi Rp591,6 miliar akibat kerugian besar dari investasi pada entitas asosiasi dan penurunan nilai portofolio efek.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPS",
+   "laporan keuangan interim",
+   "rugi bersih",
+   "holding investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162655-65229-0/FinancialStatement-2026-III-LPPS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "liabilitas-spma-naik-33-dipicu-beli-lahan-dan-utang-bank",
+  "category": "Aksi Korporasi",
+  "title": "Liabilitas [SPMA] Naik 33%, Dipicu Beli Lahan dan Utang Bank",
+  "deck": "Suparma Tbk menjelaskan kenaikan liabilitas 33 persen akibat pinjaman pihak berelasi untuk beli lahan, kenaikan utang bank BRI, dan pelemahan rupiah yang membebani utang dolar.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SPMA",
+   "liabilitas",
+   "Suparma Tbk",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1d82c304ad_e5a7e976f6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dlta-catat-laba-naik-5-9-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "DLTA Catat Laba [Naik] 5,9% di Sembilan Bulan 2026",
+  "deck": "Penjualan Delta Djakarta naik 16,6 persen dan laba bersih naik 5,9 persen dalam sembilan bulan 2026, sementara dividen besar menekan ekuitas dan kas perusahaan.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DLTA",
+   "Delta Djakarta",
+   "laporan keuangan",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162526-65538-0/FinancialStatement-2026-III-DLTA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ssms-bagikan-dividen-interim-rp52-49-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "SSMS Bagikan [Dividen] Interim Rp52,49 per Saham",
+  "deck": "SSMS akan membagikan dividen interim Rp500 miliar atau Rp52,49 per saham, dengan recording date 12 November dan pembayaran 2 Desember 2026.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SSMS",
+   "dividen",
+   "pasar modal",
+   "emiten sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/01d2b4b0cb_780be6a086.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nice-perpanjang-fasilitas-kredit-citibank-rp100-miliar",
+  "category": "Aksi Korporasi",
+  "title": "NICE Perpanjang Fasilitas Kredit [Citibank] Rp100 Miliar",
+  "deck": "Adhi Kartiko Pratama memperpanjang fasilitas kredit Rp100 miliar dari Citibank N.A. satu tahun lagi, dengan suku bunga baru mengacu INDONIA plus 1,25 persen per tahun.",
+  "date": "2 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICE",
+   "transaksi material",
+   "Citibank",
+   "fasilitas kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/efa72323dc_4b65cfabb4.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6330,150 +6474,6 @@ var ARTICLES = [
    "kuartal III 2026"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028170408-65015-0/FinancialStatement-2026-III-INPP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fore-kebocoran-data-pribadi-5-7-juta-pengguna-aplikasi",
-  "category": "Aksi Korporasi",
-  "title": "FORE: [Kebocoran] Data Pribadi 5,7 Juta Pengguna Aplikasi",
-  "deck": "Investigasi internal FORE menemukan akses tanpa izin ke platform pengolah data yang membocorkan data pribadi sekitar 5,7 juta pengguna aplikasinya.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORE",
-   "kebocoran data",
-   "keamanan siber",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c1b2070983_cf9ec34ae1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zinc-ekuitas-susut-separuh-di-kuartal-iii-2026-rugi-melebar",
-  "category": "Aksi Korporasi",
-  "title": "ZINC: Ekuitas [Susut] Separuh di Kuartal III 2026, Rugi Melebar",
-  "deck": "Ekuitas ZINC turun hampir separuh jadi Rp175,49 miliar dalam sembilan bulan 2026, rugi melebar ke Rp186,44 miliar, dan beban bunga meroket lebih dari dua kali lipat.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZINC",
-   "Kapuas Prima Coal",
-   "laporan keuangan kuartal III",
-   "watchlist BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028165716-64902-0/FinancialStatement-2026-III-ZINC.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inpp-komisaris-independen-tiffany-mediana-mundur",
-  "category": "Aksi Korporasi",
-  "title": "INPP: Komisaris Independen Tiffany Mediana [Mundur]",
-  "deck": "Tiffany Mediana mengundurkan diri dari jabatan Komisaris Independen INPP sejak 26 Oktober 2026, menunggu pengesahan RUPS.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPP",
-   "komisaris independen",
-   "tata kelola perusahaan",
-   "Indonesian Paradise Property"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/5acffcf383_0cce3c041a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtdl-raup-penjualan-rp22-1-t-mesin-tumbuh-dari-distribusi-bermargin-tipis",
-  "category": "Aksi Korporasi",
-  "title": "MTDL Raup Penjualan Rp22,1 T, Mesin Tumbuh dari [Distribusi] Bermargin Tipis",
-  "deck": "Penjualan Metrodata Electronics naik 17,5% jadi Rp22,1 triliun pada kuartal III 2026, ditopang lonjakan penjualan smartphone, PC, dan notebook di unit distribusi.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTDL",
-   "Metrodata Electronics",
-   "kinerja kuartal III",
-   "distribusi TIK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7307c9f9a9_e7771a59e7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buah-catat-penjualan-naik-18-tapi-laba-turun-8-8-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "BUAH Catat Penjualan Naik 18%, tapi [Laba] Turun 8,8% di Kuartal III",
-  "deck": "Laporan interim kuartal III 2026 Segar Kumala Indonesia menunjukkan penjualan naik jadi Rp2,82 triliun, tapi laba bersih turun ke Rp45,02 miliar karena beban umum dan administrasi melonjak.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUAH",
-   "laporan keuangan kuartal III",
-   "Segar Kumala Indonesia",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028164512-65235-0/FinancialStatement-2026-III-BUAH.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tmas-laba-bersih-melonjak-111-ke-rp859-5-miliar-di-q3",
-  "category": "Aksi Korporasi",
-  "title": "TMAS: Laba Bersih [Melonjak] 111% ke Rp859,5 Miliar di Q3",
-  "deck": "Laba bersih Temas Tbk naik lebih dari dua kali lipat jadi Rp859,5 miliar pada sembilan bulan 2026, didorong lonjakan pendapatan jasa pelayaran dan penambahan kapal baru.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TMAS",
-   "laba bersih",
-   "pelayaran",
-   "belanja modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028164435-65115-0/FinancialStatement-2026-III-TMAS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "psgo-lunasi-utang-bank-mandiri-laba-9-bulan-naik-7-7",
-  "category": "Aksi Korporasi",
-  "title": "PSGO [Lunasi] Utang Bank Mandiri, Laba 9 Bulan Naik 7,7%",
-  "deck": "Palma Serasih melunasi seluruh utang bank jangka panjang ke Bank Mandiri sekitar Rp846,5 miliar menggunakan kas, sementara laba periode sembilan bulan naik jadi Rp312,8 miliar.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSGO",
-   "Palma Serasih",
-   "laporan keuangan",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028162910-64969-0/FinancialStatement-2026-III-PSGO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tirt-cetak-laba-rp19-5-miliar-usai-pindah-ke-angkutan-laut",
-  "category": "Aksi Korporasi",
-  "title": "TIRT Cetak Laba Rp19,5 Miliar Usai Pindah ke [Angkutan Laut]",
-  "deck": "Setelah resmi beralih dari bisnis kayu lapis ke angkutan laut, Tirta Mahakam Resources membalik rugi jadi laba Rp19,52 miliar pada sembilan bulan pertama 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TIRT",
-   "laporan keuangan",
-   "angkutan laut",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028162714-64475-0/FinancialStatement-2026-III-TIRT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-jago-arto-catat-laba-rp298-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "Bank Jago (ARTO) Catat Laba [Rp298 Miliar] di Kuartal III 2026",
-  "deck": "Laba bersih Bank Jago (ARTO) naik 49,7 persen menjadi Rp298,1 miliar dalam sembilan bulan pertama 2026, ditopang pertumbuhan dana nasabah, meski rasio kredit bermasalah turut naik.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARTO",
-   "Bank Jago",
-   "laporan keuangan",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028162451-65202-0/FinancialStatement-2026-III-ARTO.pdf",
   "sourceLabel": "IDX"
  }
 ];

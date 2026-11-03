@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "midi-tebar-dividen-interim-rp127-miliar-rp3-8-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "MIDI Tebar [Dividen] Interim Rp127 Miliar, Rp3,8 per Saham",
+  "deck": "Midi Utama Indonesia (MIDI) membagikan dividen interim tahun buku 2026 senilai Rp127,05 miliar atau Rp3,8 per saham, dibayarkan paling lambat 1 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T08:23:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/077bcc19d7_e1b05951d4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MIDI",
+  "tags": [
+   "MIDI",
+   "dividen",
+   "Alfamidi",
+   "emiten ritel"
+  ],
+  "body": [
+   "PT Midi Utama Indonesia Tbk (MIDI), pengelola jaringan minimarket Alfamidi, akan membagikan dividen tunai interim untuk tahun buku 2026 senilai Rp127.054.120.240, atau setara Rp3,8 per saham. Rencana ini diputuskan Direksi pada 27 Oktober 2026 dan disetujui Dewan Komisaris pada 2 November 2026, sebagaimana disampaikan Corporate Secretary MIDI, Suantopo Po, dalam keterbukaan informasi ke Bursa Efek Indonesia pada 3 November 2026.",
+   "Jadwal pembagiannya dimulai dengan cum dividen di pasar reguler dan negosiasi pada 11 November 2026, diikuti ex dividen pada 12 November 2026. Pemegang saham yang berhak menerima dividen adalah yang namanya tercatat dalam Daftar Pemegang Saham per 13 November 2026 pukul 16.00 WIB, dan dividen akan dibayarkan paling lambat 1 Desember 2026. Pemegang saham asing yang ingin memakai tarif pajak sesuai perjanjian penghindaran pajak berganda harus menyerahkan dokumen pendukungnya ke KSEI atau biro administrasi efek paling lambat 18 November 2026 pukul 16.00 WIB, atau dividen mereka akan dikenai pajak penghasilan 20 persen.",
+   "Dividen ini didasarkan pada data keuangan per 30 September 2026, saat laba bersih yang diatribusikan ke pemilik perusahaan tercatat Rp705,57 miliar, sejalan dengan kinerja sembilan bulan MIDI yang sebelumnya dilaporkan tumbuh 19 persen. Saldo laba ditahan yang tidak dibatasi penggunaannya mencapai Rp3,22 triliun, sementara total ekuitas perusahaan sebesar Rp4,85 triliun. Dengan demikian, dividen Rp127,05 miliar yang akan dibagikan hanya mengambil porsi kecil dari kekayaan bersih maupun cadangan laba perusahaan."
+  ],
+  "fotoAdegan": "Bright convenience store aisle stocked with packaged snacks and drinks, a cashier counter in soft focus, late afternoon light",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi Midi Utama Indonesia, karena nilainya hanya sekitar 2,6 persen dari total ekuitas dan didanai dari laba yang memang sedang tumbuh, bukan dari kas cadangan yang terpaksa dikeluarkan. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara total aset dan utang perusahaan, yang akan berkurang sekitar Rp127 miliar setelah dividen dibayar, serta laba ditahan, yaitu akumulasi laba tahun-tahun sebelumnya yang belum dibagikan dan kini dipakai sebagai sumber pembayaran ini. Arus kas perusahaan, yakni uang tunai yang keluar masuk dari kegiatan usaha, juga akan mencatat pengeluaran sekitar Rp127 miliar pada awal Desember, tapi jumlah itu tergolong kecil dibanding saldo laba ditahan yang masih tersisa Rp3,22 triliun. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 13 November 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, dan tanggal pembayaran pada 1 Desember 2026 sebagai bukti realisasi komitmen ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ifii-bagikan-dividen-interim-kedua-rp47-06-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IFII bagikan dividen interim kedua [Rp47,06 miliar]",
+  "deck": "Direksi IFII memutuskan dividen interim kedua tahun buku 2026 sebesar Rp5 per saham, total Rp47,06 miliar, dibayar 26 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T08:22:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c0095caf0_e634068ee4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IFII",
+  "tags": [
+   "IFII",
+   "dividen interim",
+   "dividen tunai",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "Direksi PT Indonesia Fibreboard Industry Tbk (IFII), yakni Direktur Utama Heffy Hartono bersama Direktur Setiawan Tjutju, Ang Andri Pribadi, dan Hideaki Okubo, pada 30 Oktober 2026 memutuskan membagikan dividen interim kedua untuk tahun buku 2026 dengan persetujuan Dewan Komisaris. Nilai dividen ditetapkan Rp5 per saham dengan total Rp47.060.000.000.",
+   "Jadwalnya, saham IFII diperdagangkan dengan hak dividen (cum dividen) di pasar reguler dan negosiasi hingga 11 November 2026, lalu masuk status tanpa hak dividen (ex dividen) mulai 12 November 2026. Di pasar tunai, cum dividen berlaku hingga 13 November 2026 dan ex dividen mulai 16 November 2026. Pemegang saham yang berhak menerima dividen adalah yang namanya tercatat dalam Daftar Pemegang Saham pada 13 November 2026, dengan pembayaran dilakukan 26 November 2026 melalui KSEI bagi saham dalam penitipan kolektif, sementara pemegang saham di luar penitipan kolektif akan menerima cek yang dikirim ke alamat masing-masing. Perseroan juga menetapkan tenggat 13 November 2026 pukul 16.00 WIB bagi pemegang saham yang ingin mengurus dokumen pajak seperti NPWP atau Surat Keterangan Domisili agar mendapat tarif pemotongan pajak dividen yang lebih rendah.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 September 2026, dengan laba periode berjalan Rp158.725.323.148, saldo laba yang belum ditentukan penggunaannya Rp487.267.052.033, dan total ekuitas Rp1.440.299.965.841. Perseroan menyatakan pembagian ini mengacu pada Pasal 22 ayat 4 Anggaran Dasar Perseroan dan Pasal 72 Undang-Undang Perseroan Terbatas, serta akan diperhitungkan dengan dividen yang akan diputuskan dalam Rapat Umum Pemegang Saham Tahunan berikutnya."
+  ],
+  "fotoAdegan": "Workers stacking fibreboard panels in a timber processing warehouse, forklift moving pallets, industrial lighting",
+  "takeaway": "Pembagian dividen interim kedua ini condong positif bagi pemegang saham IFII, sebab perusahaan kembali membagikan sebagian labanya secara tunai di tahun yang sama, pertanda arus kas dari operasional masih memadai untuk itu. Total dividen Rp47,06 miliar setara sekitar 3 persen dari total ekuitas, yaitu modal bersih perusahaan setelah dikurangi utang, sehingga pembayarannya tidak menggerus permodalan secara berarti, apalagi laba periode berjalan sembilan bulan pertama saja sudah mencapai Rp158,7 miliar, jauh di atas nilai dividen yang dibagikan. Yang perlu diperhatikan pemegang saham, dividen ini sifatnya sementara dan akan diperhitungkan ulang dengan dividen final yang baru ditetapkan RUPS Tahunan berikutnya, sehingga jumlah total dividen untuk tahun buku 2026 belum final. Tenggat 13 November 2026 pukul 16.00 WIB juga penting bagi pemegang saham asing atau badan yang ingin memanfaatkan keringanan pajak sebelum dividen dicairkan pada 26 November 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hill-catat-ekuitas-negatif-rp412-7-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "HILL catat ekuitas [negatif] Rp412,7 miliar di kuartal III 2026",
+  "deck": "Ekuitas Hillcon (HILL) minus Rp412,7 miliar usai pendapatan anjlok hampir 85 persen dan rugi bersih membengkak jadi Rp832,1 miliar pada sembilan bulan pertama 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T07:14:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103072610-65684-0/FinancialStatement-2026-III-HILL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HILL",
+  "tags": [
+   "HILL",
+   "Hillcon",
+   "laporan keuangan",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Hillcon Tbk (HILL) menyampaikan koreksi laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026. Total ekuitas perusahaan berbalik menjadi minus Rp412,7 miliar, dari sebelumnya positif Rp419,4 miliar pada akhir Desember 2025. Ekuitas yang dapat diatribusikan kepada pemegang saham induk juga minus Rp240,7 miliar, dari sebelumnya Rp425 miliar, sementara bagian kepentingan non-pengendali minus Rp172 miliar.",
+   "Pendapatan usaha Hillcon anjlok menjadi Rp423,9 miliar pada sembilan bulan pertama 2026, turun tajam dari Rp2,79 triliun pada periode yang sama tahun lalu. Dengan beban pokok pendapatan yang lebih besar dari pendapatannya, perseroan mencatat rugi kotor Rp588,3 miliar, rugi usaha Rp668 miliar, dan rugi bersih Rp832,1 miliar, melebar dari rugi Rp134,2 miliar pada sembilan bulan pertama 2025. Rugi yang menjadi bagian pemegang saham induk mencapai Rp665,7 miliar, sehingga rugi per saham dasar tercatat Rp45,16, dari Rp7,28 pada periode sebelumnya. Jumlah saham beredar yang menjadi penyebut hitungan itu juga naik lima kali lipat menjadi 14,74 miliar lembar dengan nilai nominal baru Rp20 per saham, dari sebelumnya 2,94 miliar lembar bernilai nominal Rp100.",
+   "Total aset perseroan turun 21,5 persen menjadi Rp4,16 triliun per 30 September 2026, dari Rp5,3 triliun pada akhir 2025, terutama karena piutang usaha yang menyusut dari Rp249,4 miliar menjadi Rp15,2 miliar dan aset tetap bersih yang berkurang Rp854,2 miliar. Total liabilitas juga turun 6,31 persen menjadi Rp4,57 triliun, didorong oleh pelunasan utang bank sekitar Rp258,6 miliar dan berkurangnya pendapatan diterima di muka sebesar Rp98,5 miliar. Penjelasan perubahan lebih dari 20 persen pada pos aset dan liabilitas ini disampaikan manajemen kepada Bursa Efek Indonesia lewat surat tertanggal 30 Oktober 2026 yang ditandatangani Direktur Utama Hersan Qiu, sesuai kewajiban Peraturan Bursa Nomor I-E. Arus kas bersih dari aktivitas operasi tercatat negatif Rp389,4 miliar pada periode ini, dari sebelumnya negatif Rp17,3 miliar, sementara saham HILL sendiri saat ini berada di papan Pemantauan Khusus Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Rows of heavy mining excavators and dump trucks parked at a dusty coal mining site under an overcast sky, no people",
+  "takeaway": "Laporan ini jelas bernada negatif bagi Hillcon: pendapatan yang anjlok hampir 85 persen membuat perusahaan merugi besar dan membuat modal sendiri perusahaan justru berbalik menjadi minus, bukan sekadar menipis. Ekuitas negatif berarti total utang perusahaan sudah melebihi total asetnya, sinyal yang biasanya membuat bank dan pemasok lebih hati-hati memberi pinjaman atau tenggat pembayaran baru. Arus kas dari kegiatan usaha sehari-hari pun minus Rp389,4 miliar, artinya operasional perusahaan belum menghasilkan uang tunai, bukan cuma rugi di atas kertas. Rugi yang melebar juga mendorong rugi per saham naik dari Rp7,28 menjadi Rp45,16, meski sebagian kenaikan angka itu disebabkan jumlah saham beredar yang bertambah lima kali lipat setelah nilai nominal saham dipecah. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang diaudit serta sikap Bursa Efek Indonesia atas kondisi ekuitas negatif ini, mengingat saham HILL sudah berada di papan Pemantauan Khusus.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bike-koreksi-lagi-jawaban-bursa-akui-fbm-libatkan-direksi",
   "category": "Aksi Korporasi",
   "title": "BIKE Koreksi Lagi Jawaban Bursa, Akui FBM Libatkan [Direksi]",
@@ -1769,6 +1847,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "oppm-bantah-jadi-subjek-penyelidikan-singapura-soal-karhutla",
+  "category": "Aksi Korporasi",
+  "title": "OPPM Bantah Jadi Subjek [Penyelidikan] Singapura soal Karhutla",
+  "deck": "OPPM menyatakan perusahaan dan anak usahanya tidak menjadi subjek penyelidikan Pemerintah Singapura soal karhutla, meski pemegang saham tidak langsungnya, APP Co Ltd, dipanggil dalam proses itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:58:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4fa8f07fb9_ec4690873c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OPPM",
+  "tags": [
+   "OPPM",
+   "karhutla",
+   "Singapura",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT OKI Pulp & Paper Mills (OPPM) menyampaikan tanggapan tertanggal 2 November 2026 kepada Bursa Efek Indonesia, menjawab surat permintaan penjelasan lanjutan Bursa nomor S-13497/BEI.PP3/10-2026 tertanggal 29 Oktober 2026. Surat itu menyoal pemberitaan tentang penyelidikan Pemerintah Singapura terkait kebakaran hutan dan lahan (karhutla). OPPM menegaskan bahwa perusahaan dan seluruh entitas anaknya tidak menjadi subjek pembahasan, permintaan informasi, pemanggilan, maupun penelusuran fakta oleh otoritas Singapura sebagaimana dimaksud dalam pemberitaan tersebut.",
+   "Dalam jawabannya, OPPM mengungkapkan bahwa pihak yang dipanggil sehubungan dengan proses itu adalah Asia Pulp & Paper Company Ltd (APP Co Ltd), pemegang saham tidak langsung OPPM yang memiliki 0,04 persen saham di PT APP Purinusa Ekapersada, pemegang saham pengendali OPPM. Karena APP Co Ltd berstatus badan hukum terpisah, OPPM menyatakan tidak punya kewenangan maupun informasi yang cukup untuk menjelaskan lebih jauh proses tersebut, termasuk soal arahan dari grup usaha, hasil pemeriksaan otoritas Singapura, atau tindak lanjut lainnya yang menyangkut APP Co Ltd.",
+   "OPPM juga diminta menjelaskan dampak rencana Singapura mengamendemen Transboundary Haze Pollution Act, yang akan menjadikan ketidakkooperatifan perusahaan dalam penyelidikan sebagai tindak pidana. Perusahaan menjawab belum mengidentifikasi dampak material dari rencana amendemen itu, dari pemanggilan APP Co Ltd, atau dari isu karhutla ini secara keseluruhan terhadap kegiatan usaha, kondisi keuangan, aspek hukum, maupun hubungan dengan pelanggan, pemasok, kreditur, dan investor. OPPM menyatakan tidak ada kewajiban kontinjensi atau informasi material lain yang perlu diakui maupun diungkapkan dalam laporan keuangan sehubungan dengan isu ini."
+  ],
+  "fotoAdegan": "Aerial view of a pulp and paper mill beside a wide river, log stacks and smoke stacks under a hazy sky, overcast morning light",
+  "takeaway": "Laporan ini condong netral bagi OPPM: perusahaan membantah tegas keterlibatan langsung, dan porsi 0,04 persen saham APP Co Ltd di pemegang saham pengendali memang terlalu kecil untuk otomatis membuat penyelidikan itu berdampak ke OPPM, sehingga klaim tidak material masuk akal dari segi ukuran. Yang pantas diawasi bukan laporan keuangan OPPM saat ini, melainkan kewajiban kontinjensi, yaitu potensi beban yang baru tercatat kalau suatu kejadian hukum di masa depan benar terjadi, serta risiko hubungan dengan pembeli pulp di pasar yang sensitif terhadap isu lingkungan, karena isu karhutla ini menyangkut citra grup Sinar Mas/APP tempat OPPM berinduk, bukan cuma entitas yang resmi dipanggil. Yang perlu dipantau berikutnya adalah perkembangan proses hukum terhadap APP Co Ltd di Singapura, nasib rencana amendemen Transboundary Haze Pollution Act, dan apakah Bursa akan mengajukan permintaan penjelasan lanjutan lagi kepada OPPM seperti yang sudah dua kali terjadi dalam kasus ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wins-akuisisi-fos-kerek-aset-54-laba-naik-83",
   "category": "Aksi Korporasi",
   "title": "WINS: [Akuisisi] FOS Kerek Aset 54%, Laba Naik 83%",
@@ -2236,6 +2340,137 @@ var ARTICLES = [
   "fotoAdegan": "Film production crew adjusting lighting and camera equipment on a soundstage set, Jakarta studio, overcast interior light",
   "takeaway": "Laporan ini condong negatif bagi Danasupra Erapacific karena rugi bersih periode sembilan bulan 2026 melonjak hampir lima kali lipat dibanding periode sama tahun lalu, didorong oleh pembengkakan beban lain-lain yang naik lebih dari dua puluh kali lipat. Pos yang paling tersentuh adalah ekuitas dan laba per saham: ekuitas perusahaan, yaitu modal yang menjadi hak pemegang saham setelah dikurangi semua utang, susut dari Rp28,31 miliar menjadi Rp24,60 miliar dalam sembilan bulan, sementara rugi per saham naik dari Rp6,85 menjadi Rp31,64, tanda bahwa setiap lembar saham menanggung beban rugi yang jauh lebih besar. Pemegang saham juga perlu memperhatikan bahwa saldo laba ditahan perusahaan, yaitu akumulasi keuntungan dari tahun-tahun sebelumnya yang biasa jadi penyangga permodalan, kini berbalik menjadi defisit Rp6,31 miliar setelah sebelumnya masih positif Rp14,73 miliar. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan 2026 yang biasanya disampaikan ke bursa pada awal tahun depan, karena itu akan mengonfirmasi apakah pembengkakan beban lain-lain pada kuartal ketiga ini bersifat satu kali atau berlanjut.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "lpps-catat-rugi-rp230-9-miliar-aset-susut-42-9",
+  "category": "Aksi Korporasi",
+  "title": "LPPS Catat [Rugi] Rp230,9 Miliar, Aset Susut 42,9%",
+  "deck": "Ekuitas PT Lenox Pasifik Investama (LPPS) tergerus hampir separuh jadi Rp591,6 miliar akibat kerugian besar dari investasi pada entitas asosiasi dan penurunan nilai portofolio efek.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:18:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162655-65229-0/FinancialStatement-2026-III-LPPS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPS",
+  "tags": [
+   "LPPS",
+   "laporan keuangan interim",
+   "rugi bersih",
+   "holding investasi"
+  ],
+  "body": [
+   "PT Lenox Pasifik Investama Tbk (LPPS) melaporkan rugi bersih Rp230,86 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari laba Rp20,26 miliar pada periode yang sama tahun sebelumnya. Jika penghasilan komprehensif lain turut dihitung, total rugi komprehensif perusahaan mencapai Rp444,82 miliar, dibandingkan laba komprehensif Rp28,40 miliar pada September 2025. Rugi per saham tercatat Rp89,20, berbalik dari laba Rp7,83 per saham pada periode sebelumnya.",
+   "Penyebab utama kerugian adalah bagian rugi dari entitas asosiasi sebesar Rp234,77 miliar, berbalik dari keuntungan Rp3,90 miliar pada periode yang sama tahun lalu. Nilai investasi pada entitas asosiasi di laporan posisi keuangan pun ikut turun, dari Rp550,33 miliar pada akhir 2025 menjadi Rp315,55 miliar pada akhir September 2026. Selain itu, perusahaan mencatat rugi belum terealisasi atas efek yang diukur pada nilai wajar melalui penghasilan komprehensif lain sebesar Rp213,95 miliar, berbalik dari keuntungan Rp8,14 miliar setahun sebelumnya, seiring investasi jangka panjang lainnya yang menyusut dari Rp353,86 miliar menjadi Rp149,91 miliar.",
+   "Akibat perubahan ini, total aset perusahaan turun 42,92 persen, dari Rp1,04 triliun pada akhir 2025 menjadi Rp591,70 miliar pada akhir September 2026, selisih Rp444,89 miliar. Total liabilitas juga turun 34,23 persen, dari Rp219,34 juta menjadi Rp144,26 juta, meski secara nominal jumlahnya kecil dibanding skala aset perusahaan. Dalam surat keterbukaan terpisah kepada Bursa Efek Indonesia tertanggal 2 November 2026, yang wajib disampaikan karena perubahan pos aset dan liabilitas melampaui 20 persen, Corporate Secretary LPPS Aditya Budi Kurniawan menjelaskan penurunan total aset terutama disebabkan oleh berkurangnya saldo investasi jangka panjang lainnya, sementara penurunan total liabilitas terutama berasal dari berkurangnya biaya yang masih harus dibayar.",
+   "Ekuitas perusahaan ikut tergerus dari Rp1,04 triliun menjadi Rp591,55 miliar dalam sembilan bulan. Posisi kas dan setara kas LPPS per akhir September 2026 tercatat Rp111,59 miliar, turun dari Rp128,76 miliar pada akhir 2025. Pendapatan usaha perusahaan yang kini berfokus sebagai perusahaan holding dan konsultasi manajemen tercatat tipis, hanya Rp195 juta untuk sembilan bulan, mencerminkan model bisnisnya yang bergantung pada penghasilan bunga dan dividen dari portofolio investasi, bukan dari penjualan barang atau jasa dalam skala besar."
+  ],
+  "fotoAdegan": "Modern office park building exterior with a palm-lined driveway in a suburban Jakarta business district, midday sun.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham LPPS, karena kerugian yang dicatat bukan rugi kecil: ekuitas perusahaan tergerus hampir separuh hanya dalam sembilan bulan, dari Rp1,04 triliun jadi Rp591,55 miliar. Dua pos yang paling tersentuh adalah ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi utang, dan laba per saham, yaitu bagian laba atau rugi yang jatuh ke setiap lembar saham. Pelaku pasar memperhatikan ekuitas karena itu jadi ukuran seberapa besar bantalan perusahaan menghadapi kerugian lanjutan, sementara kerugian di sini sebagian berasal dari bagian rugi atas entitas asosiasi, yakni porsi kerugian perusahaan lain yang sahamnya dimiliki LPPS tapi tidak dikendalikan penuh, dan sebagian lagi dari penurunan nilai pasar portofolio efek yang belum dijual sehingga belum jadi kerugian tunai tapi sudah mengurangi kekayaan bersih di atas kertas. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang akan memastikan apakah kerugian dari entitas asosiasi dan penurunan nilai portofolio efek ini bersifat sementara atau berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "liabilitas-spma-naik-33-dipicu-beli-lahan-dan-utang-bank",
+  "category": "Aksi Korporasi",
+  "title": "Liabilitas [SPMA] Naik 33%, Dipicu Beli Lahan dan Utang Bank",
+  "deck": "Suparma Tbk menjelaskan kenaikan liabilitas 33 persen akibat pinjaman pihak berelasi untuk beli lahan, kenaikan utang bank BRI, dan pelemahan rupiah yang membebani utang dolar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:14:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1d82c304ad_e5a7e976f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SPMA",
+  "tags": [
+   "SPMA",
+   "liabilitas",
+   "Suparma Tbk",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Suparma Tbk (SPMA) menyampaikan penjelasan resmi ke Bursa Efek Indonesia atas kenaikan jumlah liabilitas lebih dari 20 persen, sesuai aturan keterbukaan informasi BEI. Total liabilitas perusahaan naik dari Rp1,17 triliun per 31 Desember 2025 menjadi Rp1,56 triliun per 30 September 2026, atau naik 33 persen dalam sembilan bulan. Perusahaan menyebut tiga sebab utama di balik lonjakan ini.",
+   "Sebab pertama, pada 26 Juni 2026 Suparma menerima pinjaman dari pihak berelasi senilai Rp73,6 miliar untuk membeli tanah seluas 57.895 meter persegi milik Bpk. Welly di Kelurahan Warugunung, Kecamatan Karangpilang, Surabaya, sebagai bagian rencana ekspansi usaha. Sebab kedua, saldo utang bank ke PT Bank Rakyat Indonesia (Persero) Tbk membengkak karena penggunaan kredit modal kerja naik dari US$10,34 juta pada akhir 2025 menjadi US$20,25 juta pada akhir September 2026, hampir dua kali lipat, untuk membeli bahan baku menjelang pengoperasian mesin kertas baru, Mesin Kertas No. 11, yang mulai berjalan pada 15 Oktober 2026.",
+   "Sebab ketiga adalah pelemahan rupiah terhadap dolar Amerika Serikat sekitar 8 persen, dari Rp16.782 menjadi Rp17.998 per dolar, yang menambah nilai liabilitas berdenominasi asing seperti utang bank jangka panjang, surat utang jangka menengah, dan liabilitas sewa. Dari sisi laba, Suparma mencatat penjualan bersih naik dari Rp1,99 triliun menjadi Rp2,20 triliun, namun laba periode berjalan justru turun dari Rp68,43 miliar menjadi Rp63,37 miliar, terutama karena rugi selisih kurs yang melonjak dari Rp19,64 miliar menjadi Rp54,69 miliar. Jumlah saham beredar juga bertambah dari 4,10 miliar menjadi 5,33 miliar lembar akibat pembagian dividen saham senilai Rp492,04 miliar, sehingga laba per saham dasar turun dari Rp13 menjadi Rp12."
+  ],
+  "fotoAdegan": "Large rolls of industrial paper stacked in a paper mill warehouse, workers in uniform inspecting machinery, overhead lighting.",
+  "takeaway": "Laporan ini condong negatif bagi Suparma karena kenaikan liabilitas 33 persen dalam sembilan bulan lebih banyak ditutup dengan utang baru ketimbang modal sendiri, sementara beban bunga dan rugi kurs ikut membesar hingga menggerus laba periode berjalan sebesar 7,4 persen. Pos yang tersentuh antara lain beban keuangan, yaitu biaya bunga yang dibayar perusahaan ke bank dan pemegang surat utang, yang naik dari Rp33,1 miliar jadi Rp38,57 miliar karena pinjaman membengkak, serta laba per saham, yaitu bagian laba yang menjadi hak setiap lembar saham, yang turun dari Rp13 menjadi Rp12 karena jumlah saham beredar bertambah lewat dividen saham dari 4,1 miliar menjadi 5,33 miliar lembar. Arus kas dari kegiatan operasional masih positif di kisaran Rp399,72 miliar, menandakan bisnis inti masih menghasilkan uang tunai meski ekspansinya banyak dibiayai utang. Yang perlu dipantau selanjutnya adalah laporan keuangan audit tahun buku 2026, yang akan menunjukkan apakah tambahan kapasitas dari Mesin Kertas No. 11 yang beroperasi sejak 15 Oktober 2026 benar mengerek penjualan dan laba, sekaligus apakah pelemahan rupiah terus membebani utang dolar Suparma.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dlta-catat-laba-naik-5-9-di-sembilan-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "DLTA Catat Laba [Naik] 5,9% di Sembilan Bulan 2026",
+  "deck": "Penjualan Delta Djakarta naik 16,6 persen dan laba bersih naik 5,9 persen dalam sembilan bulan 2026, sementara dividen besar menekan ekuitas dan kas perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:12:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162526-65538-0/FinancialStatement-2026-III-DLTA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DLTA",
+  "tags": [
+   "DLTA",
+   "Delta Djakarta",
+   "laporan keuangan",
+   "dividen"
+  ],
+  "body": [
+   "Delta Djakarta Tbk (DLTA) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Penjualan neto tercatat Rp564,59 miliar, naik 16,6 persen dari Rp484,19 miliar pada periode yang sama tahun lalu. Laba bersih periode berjalan naik 5,9 persen menjadi Rp107,23 miliar dari Rp101,29 miliar, sehingga laba bersih per saham naik dari Rp126 menjadi Rp134.",
+   "Di sisi lain, total ekuitas perusahaan turun menjadi Rp720,71 miliar per akhir September 2026 dari Rp756,46 miliar per akhir Desember 2025. Penyebab utamanya adalah pembayaran dividen tunai sebesar Rp144,92 miliar tahun ini, naik dari Rp137,71 miliar pada periode yang sama tahun lalu. Kas dan setara kas juga turun menjadi Rp620,50 miliar dari Rp646,02 miliar. Total liabilitas naik menjadi Rp430,50 miliar dari Rp370,03 miliar, didorong kenaikan utang usaha pihak ketiga menjadi Rp56,61 miliar dari Rp38,95 miliar, utang pajak menjadi Rp24,58 miliar dari Rp15,35 miliar, dan beban akrual menjadi Rp115,77 miliar dari Rp96,63 miliar.",
+   "Belanja modal untuk perolehan aset tetap melonjak menjadi Rp49,59 miliar dari Rp20,34 miliar tahun sebelumnya, sejalan dengan kenaikan persediaan menjadi Rp46,70 miliar dari Rp28,75 miliar. Kas dari aktivitas operasi tetap positif dan sedikit meningkat menjadi Rp172,04 miliar dari Rp170,67 miliar. Laporan ini ditandatangani melalui surat pernyataan direksi tertanggal 30 Oktober 2026 dan belum melalui proses audit."
+  ],
+  "fotoAdegan": "Workers inspecting glass bottles on a conveyor belt inside a beverage bottling factory, industrial lighting, Indonesia",
+  "takeaway": "Laporan kuartal ketiga ini condong positif bagi Delta Djakarta, karena penjualan naik 16,6 persen dan laba bersih naik 5,9 persen dibanding periode yang sama tahun lalu, sementara penurunan ekuitas dan kas lebih disebabkan oleh pembayaran dividen besar dan kenaikan belanja modal, bukan oleh memburuknya kinerja usaha. Ekuitas adalah selisih antara total aset dan total utang perusahaan, semacam kekayaan bersih pemilik saham, dan pelaku pasar memperhatikannya karena penurunan yang tajam biasanya menandakan kerugian, bukan sekadar dividen yang dibagikan ke kantong pemegang saham. Laba per saham, yaitu bagian laba yang secara hitungan jatuh ke setiap lembar saham, juga naik dari Rp126 menjadi Rp134, sejalan dengan kenaikan laba bersih. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan yang telah diaudit untuk tahun buku 2026, yang biasanya wajib disampaikan paling lambat akhir Maret 2027 dan akan mengonfirmasi apakah tren kenaikan penjualan serta belanja modal yang lebih besar ini benar-benar berlanjut hingga akhir tahun.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ssms-bagikan-dividen-interim-rp52-49-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "SSMS Bagikan [Dividen] Interim Rp52,49 per Saham",
+  "deck": "SSMS akan membagikan dividen interim Rp500 miliar atau Rp52,49 per saham, dengan recording date 12 November dan pembayaran 2 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:11:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/01d2b4b0cb_780be6a086.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SSMS",
+  "tags": [
+   "SSMS",
+   "dividen",
+   "pasar modal",
+   "emiten sawit"
+  ],
+  "body": [
+   "PT Sawit Sumbermas Sarana Tbk (SSMS) akan membagikan dividen interim untuk tahun buku 2026 sebesar Rp52,49 per saham, dengan total nilai dividen Rp500 miliar. Nilai minimum dan maksimum dividen yang ditetapkan sama, yakni Rp500 miliar, sehingga jumlahnya sudah final dan tidak akan berubah. Keputusan ini diambil Direksi dan disetujui Dewan Komisaris pada 29 Oktober 2026, mengacu pada Laporan Keuangan Konsolidasian Interim per 30 September 2026.",
+   "Jadwal pembagian dividen sebagai berikut: cum dividen di pasar reguler dan negosiasi berakhir 10 November 2026, disusul ex dividen pada 11 November 2026. Di pasar tunai, cum dividen jatuh pada 12 November 2026 dan ex dividen pada 13 November 2026. Tanggal pencatatan pemegang saham yang berhak atas dividen (recording date) ditetapkan 12 November 2026 pukul 16.00 WIB, dan pembayaran dijadwalkan paling lambat 2 Desember 2026.",
+   "Berdasarkan data keuangan per 30 September 2026, laba bersih yang diatribusikan ke entitas induk tercatat Rp1,586 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp3,046 triliun, dan total ekuitas perusahaan Rp3,611 triliun. Bagi pemegang saham dengan saham fisik (warkat), pembayaran dilakukan lewat transfer bank setelah menyampaikan data rekening ke biro administrasi efek PT Datindo Entrycom paling lambat 12 November 2026 pukul 16.00 WIB, sementara pemegang saham di penitipan kolektif KSEI menerima dividen lewat perantara rekening masing-masing. Pemegang saham wajib pajak dalam negeri juga perlu menyerahkan NPWP sebelum tenggat yang sama agar tidak dikenakan pajak dengan tarif lebih tinggi yang berlaku untuk wajib pajak tanpa NPWP."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested oil palm fruit bunches onto a truck at a rural plantation collection point, tropical daylight",
+  "takeaway": "Laporan ini condong positif bagi SSMS, karena pembagian dividen interim menunjukkan perusahaan percaya kasnya cukup kuat untuk mengembalikan sebagian laba ke pemegang saham di tengah tahun buku, bukan menunggu RUPS tahunan. Yang tersentuh adalah ekuitas dan arus kas, total ekuitas Rp3,61 triliun akan berkurang sekitar Rp500 miliar begitu dividen dibayarkan, dan uang tunai sebesar itu akan keluar dari kas perusahaan pada awal Desember, pengeluaran yang pantas dicermati karena laporan keuangan SSMS pekan lalu juga menunjukkan utang bank jangka pendek melonjak tajam. Porsinya sendiri terhitung moderat, sekitar sepertiga dari laba bersih sembilan bulan Rp1,58 triliun, sehingga mayoritas laba masih ditahan perusahaan untuk kebutuhan lain. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 12 November 2026 pukul 16.00 WIB yang menentukan siapa berhak atas dividen, serta realisasi pembayaran pada 2 Desember 2026 sebagai konfirmasi akhir bahwa jadwal ini benar dijalankan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "nice-perpanjang-fasilitas-kredit-citibank-rp100-miliar",
+  "category": "Aksi Korporasi",
+  "title": "NICE Perpanjang Fasilitas Kredit [Citibank] Rp100 Miliar",
+  "deck": "Adhi Kartiko Pratama memperpanjang fasilitas kredit Rp100 miliar dari Citibank N.A. satu tahun lagi, dengan suku bunga baru mengacu INDONIA plus 1,25 persen per tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 November 2026",
+  "isoDate": "2026-11-02T16:09:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/efa72323dc_4b65cfabb4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICE",
+  "tags": [
+   "NICE",
+   "transaksi material",
+   "Citibank",
+   "fasilitas kredit"
+  ],
+  "body": [
+   "PT Adhi Kartiko Pratama Tbk (NICE) memperpanjang Perjanjian Fasilitas Kredit dengan Citibank N.A., efektif sejak 29 Oktober 2026 untuk satu tahun berikutnya. Jumlah fasilitas pinjaman tetap sebesar Rp100 miliar, tidak berubah dari perjanjian sebelumnya yang keterbukaan informasinya pernah disampaikan perusahaan lewat surat tanggal 31 Oktober 2024.",
+   "Yang berubah dalam perpanjangan ini adalah suku bunga, yang kini mengacu pada INDONIA (Indonesia Overnight Index Average) tenor 1 bulan ditambah 1,25 persen per tahun. Perseroan menjelaskan fasilitas ini dipakai sebagai opsi pembiayaan modal kerja dalam bentuk cerukan atau overdraft, dan berdasarkan penelaahan internal, tidak ada dampak material terhadap kondisi keuangan perusahaan.",
+   "Transaksi ini masuk kategori Transaksi Material menurut POJK 17/2020 karena nilainya setara 31,43 persen dari ekuitas perusahaan per laporan keuangan 30 Juni 2026. Namun karena berbentuk pinjaman langsung dari bank, transaksi ini dikecualikan dari kewajiban memakai jasa penilai independen dan memperoleh persetujuan RUPS, sesuai Pasal 11 POJK 17/2020. Direksi juga menegaskan bahwa transaksi dengan Citibank N.A. ini tidak mengandung hubungan afiliasi maupun benturan kepentingan."
+  ],
+  "fotoAdegan": "Aerial view of an open-pit nickel mine with haul trucks and loading machinery working under a cloudy tropical sky",
+  "takeaway": "Laporan ini condong netral karena sifatnya perpanjangan fasilitas yang sudah berjalan, bukan penambahan utang baru, sehingga tidak mengubah struktur permodalan perusahaan secara mendasar. Pos yang tersentuh adalah beban bunga, sebab suku bunga pinjaman kini mengacu ke INDONIA, yakni acuan suku bunga pinjaman antar bank semalam yang bergerak harian, ditambah 1,25 persen per tahun, sehingga biaya bunga yang ditanggung perusahaan bisa naik turun mengikuti pergerakan acuan itu. Angka 31,43 persen dari ekuitas yang tercantum dalam laporan hanya dipakai untuk menentukan apakah transaksi ini wajib diumumkan ke bursa, bukan indikasi lonjakan utang, karena nilai pinjamannya tetap Rp100 miliar seperti sebelumnya. Yang perlu dipantau berikutnya adalah laporan keuangan kuartalan mendatang untuk melihat apakah beban bunga perusahaan berubah signifikan akibat suku bunga baru ini, serta nasib fasilitas pada akhir periode perpanjangan satu tahun mendatang.",
+  "sentimen": "netral"
  },
  {
   "slug": "unsp-catat-penjualan-rp2-2-triliun-ekuitas-positif-lagi",

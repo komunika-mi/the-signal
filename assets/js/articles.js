@@ -29,6 +29,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "bahlil-ubah-aturan-izin-tambang-prioritaskan-pengusaha-daerah",
+  "category": "Energi",
+  "title": "Bahlil Ubah Aturan Izin Tambang, [Prioritaskan] Pengusaha Daerah",
+  "deck": "Kementerian ESDM mengganti skema tender izin tambang dengan prioritas untuk UMKM, koperasi, dan BUMD agar pengusaha daerah lebih mudah mengelola tambang di wilayahnya.",
+  "image": "assets/img/bahlil-ubah-aturan-izin-tambang-prioritaskan-pengusaha-daerah.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T11:48:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476341-bahlil-ubah-aturan-izin-tambang-pengusaha-daerah-kini-dapat-prioritas",
+  "tags": [
+   "izin tambang",
+   "Bahlil Lahadalia",
+   "UMKM",
+   "BUMD"
+  ],
+  "body": [
+   "Pemerintah mengubah aturan pemberian izin usaha pertambangan agar pengusaha daerah, usaha mikro kecil menengah, koperasi, dan badan usaha milik daerah mendapat kesempatan lebih besar mengelola tambang di wilayahnya sendiri. Perubahan ini penting karena selama ini mekanisme tender membuat pelaku usaha lokal kalah bersaing dengan perusahaan besar yang kebanyakan berkantor di Jakarta, sehingga kekayaan alam daerah dinikmati pihak luar.",
+   "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga Menteri ESDM, Bahlil Lahadalia, menyampaikan perubahan ini saat membuka Minerba Convex 2026 di JIExpo Kemayoran, Jakarta, Senin (2/11). Ia menjelaskan aturan baru di subsektor mineral dan batu bara ini menggeser skema pemberian izin dari tender terbuka menjadi skema yang memberi prioritas kepada UMKM, koperasi, dan BUMD.",
+   "Selain soal izin usaha, pemerintah juga mendorong pengusaha lokal dilibatkan lebih luas dalam pekerjaan kontraktor pertambangan, bukan hanya dikuasai kelompok usaha tertentu. Bahlil mengakui kebijakan ini mendapat kritik dari sejumlah pengusaha besar, namun pemerintah tetap memilih jalan ini dengan alasan pemerataan manfaat sumber daya alam bagi masyarakat di daerah penghasil tambang.",
+   "Dalam acara yang sama, Direktur Jenderal Mineral dan Batubara Tri Winarno menyebut Minerba Convex 2026 mengusung tema Membangun Bangsa, Memberdayakan Masyarakat, yang menurutnya menegaskan bahwa pengelolaan sumber daya alam harus sejalan dengan amanat Pasal 33 UUD 1945."
+  ],
+  "fotoAdegan": "Small excavators and dump trucks working an open pit mine on a hillside, workers in hard hats nearby, overcast daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/03/6ae9666f048bb-menteri-esdm-bahlil-lahadalia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahannya konkret, mekanisme pemberian izin tambang bergeser dari tender terbuka ke skema yang memberi prioritas kepada UMKM, koperasi, dan BUMD, termasuk pada pekerjaan kontraktor tambang. Yang terdampak ada di dua sisi, pengusaha daerah yang selama ini kalah bersaing di tender, dan pengusaha besar yang menurut Bahlil sudah mengkritik kebijakan ini. Namun berita ini belum menyebut nomor atau nama aturan resminya, kapan aturan itu mulai berlaku, atau berapa porsi wilayah tambang yang akan dialihkan ke skema prioritas ini. Yang perlu dipantau adalah penerbitan aturan resmi dari Kementerian ESDM beserta rincian mekanisme seleksinya, karena itu yang akan menentukan apakah prioritas ini benar-benar mengubah peta penguasaan tambang daerah atau baru sebatas pernyataan arah.",
+  "imageV": "mw0ahixs"
+ },
+ {
   "slug": "asmi-jelaskan-ke-bei-aset-susut-26-akibat-investasi-saham-anjlok",
   "category": "Aksi Korporasi",
   "title": "ASMI Jelaskan ke BEI, Aset Susut 26% akibat [Investasi] Saham Anjlok",

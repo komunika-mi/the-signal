@@ -21,6 +21,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bahlil-ubah-aturan-izin-tambang-prioritaskan-pengusaha-daerah",
+  "category": "Energi",
+  "title": "Bahlil Ubah Aturan Izin Tambang, [Prioritaskan] Pengusaha Daerah",
+  "deck": "Kementerian ESDM mengganti skema tender izin tambang dengan prioritas untuk UMKM, koperasi, dan BUMD agar pengusaha daerah lebih mudah mengelola tambang di wilayahnya.",
+  "date": "3 November 2026",
+  "image": "assets/img/bahlil-ubah-aturan-izin-tambang-prioritaskan-pengusaha-daerah.jpg",
+  "imageV": "mw0ahixs",
+  "tags": [
+   "izin tambang",
+   "Bahlil Lahadalia",
+   "UMKM",
+   "BUMD"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476341-bahlil-ubah-aturan-izin-tambang-pengusaha-daerah-kini-dapat-prioritas"
+ },
+ {
   "slug": "asmi-jelaskan-ke-bei-aset-susut-26-akibat-investasi-saham-anjlok",
   "category": "Aksi Korporasi",
   "title": "ASMI Jelaskan ke BEI, Aset Susut 26% akibat [Investasi] Saham Anjlok",
@@ -6463,22 +6480,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028190004-64557-0/FinancialStatement-2026-III-BRMS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vrna-berbalik-laba-rp2-49-miliar-di-sembilan-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "VRNA Berbalik [Laba] Rp2,49 Miliar di Sembilan Bulan 2026",
-  "deck": "Mizuho Leasing Indonesia (VRNA) berbalik dari rugi jadi laba Rp2,49 miliar pada sembilan bulan 2026, tapi arus kas dari operasinya anjlok lebih dari 80 persen.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VRNA",
-   "Mizuho Leasing Indonesia",
-   "laporan keuangan",
-   "pembiayaan konsumen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028184937-64947-0/FinancialStatement-2026-III-VRNA.pdf",
   "sourceLabel": "IDX"
  }
 ];

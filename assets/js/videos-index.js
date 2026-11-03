@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "OgQuAkgo640",
+  "title": "Anindya Bakrie: UMKM Kunci Keluar dari Middle Income Trap",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Ketua Umum Kadin Indonesia, Anindya Bakrie, menyatakan penguatan dan naik kelasnya UMKM menjadi kunci utama bagi Indonesia untuk keluar dari jebakan kelas menengah.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan penguatan UMKM yang berkontribusi besar terhadap struktur ekonomi domestik."
+ },
+ {
   "id": "iBtuz4dEwjc",
   "title": "DJP Tanggapi Isu Pajak Transfer Bank per 9 November 2026",
   "category": "Perbankan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "IBF",
   "summary": "Ekonom Aviliani menyebut Kadin mendorong KDMP berperan membantu UMKM di daerah, bukan menjadi pesaing minimarket, menjelang Rapimnas Kadin 2026 pada 29-30 Oktober yang membahas arah kebijakan ekonomi.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah dukungan kebijakan untuk UMKM dan peran koperasi desa dalam ekosistem ritel lokal."
- },
- {
-  "id": "3bZGQvm9Evs",
-  "title": "UMKM Belum Naik Kelas, Daya Beli Lemah Picu Middle Income Trap",
-  "category": "Makroekonomi",
-  "program": "IBF",
-  "summary": "Rapimnas Kadin 2026 menyoroti UMKM yang belum naik kelas dan daya beli yang melemah sebagai faktor utama yang mengancam Indonesia terjebak dalam middle income trap.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menyoroti akar masalah struktural yang menghambat Indonesia keluar dari jebakan kelas menengah."
  }
 ];

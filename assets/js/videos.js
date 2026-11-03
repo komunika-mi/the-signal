@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "OgQuAkgo640",
+  "title": "Anindya Bakrie: UMKM Kunci Keluar dari Middle Income Trap",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Ketua Umum Kadin Indonesia, Anindya Bakrie, menyatakan penguatan dan naik kelasnya UMKM menjadi kunci utama bagi Indonesia untuk keluar dari jebakan kelas menengah.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan penguatan UMKM yang berkontribusi besar terhadap struktur ekonomi domestik.",
+  "terbit": "2026-11-03T16:45:53+00:00"
+ },
+ {
   "id": "iBtuz4dEwjc",
   "title": "DJP Tanggapi Isu Pajak Transfer Bank per 9 November 2026",
   "category": "Perbankan",

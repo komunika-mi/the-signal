@@ -188,7 +188,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang disampaikan di sini bukan aturan baru, melainkan imbauan Wakil Menteri Koordinator Perekonomian saat tampil di podcast, agar investor tidak hanya mengikuti penilaian lembaga pemeringkat indeks asing seperti MSCI atau FTSE Russell saat memutuskan membeli atau menjual saham. Pihak yang berpotensi terdampak adalah investor ritel dan domestik di pasar modal, sekaligus emiten yang kinerjanya jadi acuan penilaian lembaga-lembaga itu. Siaran pers ini tidak menyebutkan penilaian spesifik apa dari MSCI atau FTSE Russell yang memicu pernyataan tersebut, maupun bentuk konkret dari rencana memperkuat keterbukaan kepemilikan saham yang disebut Dradjad. Yang perlu dipantau adalah apakah pernyataan ini akan diikuti aturan turunan soal transparansi pasar modal, atau berhenti sebagai pernyataan sikap tanpa tindak lanjut kebijakan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "harga-acuan-batu-bara-turun-tipis-kalori-rendah-naik",

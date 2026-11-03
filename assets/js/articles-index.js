@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wika-disuspensi-bursa-usai-gagal-bayar-kupon-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Disuspensi] Bursa Usai Gagal Bayar Kupon Obligasi",
+  "deck": "Bursa Efek Indonesia melanjutkan penghentian perdagangan saham WIKA di seluruh pasar sejak 3 November 2026 setelah perseroan gagal membayar bunga obligasi dan bagi hasil sukuk yang jatuh tempo hari itu.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "suspensi saham",
+   "obligasi korporasi",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7c70c4483e_86677c0685.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtfn-rugi-rp31-8-m-di-2025-marjin-kotor-naik-ke-5-6",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Rugi Rp31,8 M di 2025, [Marjin] Kotor Naik ke 5,6%",
+  "deck": "Capitalinc Investment (MTFN) membukukan rugi bersih Rp31,8 miliar pada 2025 dengan pendapatan Rp519,4 miliar, meski marjin kotor naik dari 2,4 menjadi 5,6 persen.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTFN",
+   "Capitalinc Investment",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dbb065d28f_334acb28dc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baik-panggil-rupslb-susunan-komisaris-berpotensi-berubah",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Panggil RUPSLB, Susunan [Komisaris] Berpotensi Berubah",
+  "deck": "RUPSLB PT Bersama Mencapai Puncak Tbk (BAIK) digelar 25 November 2026 di Malang, agendanya persetujuan perubahan susunan Dewan Komisaris Perseroan.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAIK",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Tata Kelola Perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2e0d554f47_7d537d33f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-lapor-lk-triwulan-iii-2024-defisit-modal-melebar",
+  "category": "Aksi Korporasi",
+  "title": "[BOSS] Lapor LK Triwulan III/2024, Defisit Modal Melebar",
+  "deck": "Laporan kuartal III 2024 yang baru disampaikan ke BEI awal November 2026 ini menunjukkan penjualan nihil dan defisiensi modal membesar jadi Rp215,22 miliar.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "defisit modal",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261103142547-65715-0/FinancialStatement-2024-III-BOSS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unsp-konversi-utang-jadi-saham-ekuitas-berbalik-positif",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Konversi Utang Jadi Saham, [Ekuitas] Berbalik Positif",
+  "deck": "Bakrie Sumatera Plantations (UNSP) mencatat aset naik 114,72% dan liabilitas turun 46,14% per September 2026, setelah mengonversi utang senilai Rp4,04 triliun menjadi saham baru.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "restrukturisasi utang",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/42385f9285_3221d7537e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbto-catat-laba-rp19-41-miliar-balik-dari-rugi-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "MBTO Catat [Laba] Rp19,41 Miliar, Balik dari Rugi 9 Bulan 2026",
+  "deck": "Penjualan neto Martina Berto naik 29 persen jadi Rp379,99 miliar pada sembilan bulan 2026, membawa laba neto Rp19,41 miliar setelah rugi Rp18,82 miliar pada periode sama tahun lalu.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBTO",
+   "Martina Berto",
+   "laporan keuangan",
+   "kosmetik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103135822-65717-0/FinancialStatement-2026-III-MBTO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-ungkap-akuisisi-tambang-lewat-rights-issue-ii",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Ungkap Akuisisi Tambang Lewat [Rights Issue] II",
+  "deck": "Dalam public expose tahunan, manajemen Leyand International mengakui ekuitas negatif dan pendapatan merosot, sekaligus memastikan akuisisi BSS lewat rights issue kedua berjalan bertahap hingga 2027.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "Leyand International",
+   "Public Expose",
+   "akuisisi tambang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2c4f0d70cc_eed683064b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iotf-laba-bersih-turun-57-kas-menyusut-91-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "IOTF: Laba Bersih Turun 57%, [Kas] Menyusut 91% di Kuartal III",
+  "deck": "Laporan keuangan interim Sumber Sinergi Makmur per September 2026 menunjukkan laba bersih turun separuh dan arus kas operasi berbalik negatif, meski utang bank jangka pendek sudah lunas.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IOTF",
+   "laporan keuangan",
+   "arus kas",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103125732-65694-0/FinancialStatement-2026-III-IOTF.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ptpp-kantongi-kontrak-epc-rp400-miliar-dari-pupuk-kaltim",
   "category": "Aksi Korporasi",
   "title": "PTPP Kantongi Kontrak EPC [Rp400 Miliar] dari Pupuk Kaltim",
@@ -6348,138 +6476,6 @@ var ARTICLES = [
    "pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/190c8e52bc_94063318a9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-tunda-rups-tahunan-dan-luar-biasa-ke-4-november",
-  "category": "Aksi Korporasi",
-  "title": "BOSS [Tunda] RUPS Tahunan dan Luar Biasa ke 4 November",
-  "deck": "Rapat yang semula digelar 29 Oktober diundur ke 4 November 2026, agenda mencakup ratifikasi keterlambatan RUPS tiga tahun buku sekaligus.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "RUPS Tahunan",
-   "Penundaan RUPS",
-   "Emiten Batu Bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0ecb04e1a6_2348638e8b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impor-migas-kini-lewat-lemigas-bahlil-pastikan-tanpa-apbn",
-  "category": "Energi",
-  "title": "Impor Migas Kini Lewat Lemigas, Bahlil Pastikan [Tanpa] APBN",
-  "deck": "Pemerintah mengalihkan sebagian pengadaan impor migas dari Pertamina ke Lemigas tanpa memakai APBN, tapi penerapannya masih menunggu konsolidasi dengan Pertamina.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/impor-migas-kini-lewat-lemigas-bahlil-pastikan-tanpa-apbn.jpg",
-  "imageV": "mvs3v23p",
-  "tags": [
-   "Lemigas",
-   "impor migas",
-   "Bahlil Lahadalia",
-   "Pertamina"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/impor-migas-lewat-lemigas-masih-transisi-bahlil-pastikan-tak-pakai-apbn",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "ruu-migas-rancang-izin-hulu-satu-pintu-lewat-buk",
-  "category": "Energi",
-  "title": "RUU Migas Rancang Izin Hulu [Satu Pintu] Lewat BUK",
-  "deck": "Pemerintah mengusulkan Badan Usaha Khusus sebagai pintu tunggal izin hulu migas dan keringanan pajak saat eksplorasi dalam draf RUU Migas yang pembahasannya sudah 90 persen.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/ruu-migas-rancang-izin-hulu-satu-pintu-lewat-buk.jpg",
-  "imageV": "mvs3v3u5",
-  "tags": [
-   "RUU Migas",
-   "BUK",
-   "Hulu Migas",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tak-perlu-lagi-keliling-kementerian-izin-hulu-migas-bakal-cukup-di-satu-pintu",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "hrme-rugi-bersih-sembilan-bulan-melebar-jadi-rp15-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "HRME: [Rugi] Bersih Sembilan Bulan Melebar jadi Rp15,8 Miliar",
-  "deck": "Pendapatan hotel Hermitage milik HRME turun 12 persen dalam sembilan bulan, kas perusahaan susut hampir 40 persen jadi Rp50,2 miliar, sementara rugi bersih melebar jadi Rp15,8 miliar.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRME",
-   "laporan keuangan",
-   "rugi bersih",
-   "perhotelan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028194029-64727-0/FinancialStatement-2026-III-HRME.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pdpp-laba-bersih-naik-127-ke-rp59-9-miliar-laba",
-  "category": "Aksi Korporasi",
-  "title": "PDPP: Laba Bersih Naik 127% ke Rp59,9 Miliar [laba]",
-  "deck": "Primadaya Plastisindo (PDPP) membukukan laba bersih Rp59,9 miliar pada sembilan bulan 2026, naik 127 persen, didorong kenaikan penjualan dan harga bahan baku.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PDPP",
-   "laporan keuangan",
-   "laba bersih",
-   "industri kemasan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028193738-65163-0/FinancialStatement-2026-III-PDPP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbni-siapkan-buyback-baru-rp547-miliar-saat-pasar-bergejolak",
-  "category": "Aksi Korporasi",
-  "title": "BBNI Siapkan Buyback [Baru] Rp547 Miliar Saat Pasar Bergejolak",
-  "deck": "BNI akan membeli kembali saham maksimal Rp547 miliar lewat bursa dalam tiga bulan untuk merespons fluktuasi pasar yang signifikan.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBNI",
-   "buyback",
-   "saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1e504f11aa_dae985e0b0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pool-siapkan-jual-30-saham-pola-target-audit-rampung-desember",
-  "category": "Aksi Korporasi",
-  "title": "POOL Siapkan Jual 30% Saham [POLA], Target Audit Rampung Desember",
-  "deck": "Direksi baru POOL paparkan tiga pilar pemulihan: audit tiga tahun yang tertunda, rencana jual 30% saham POLA, dan rugi semester I yang menyusut tajam.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POOL",
-   "POLA",
-   "Public Expose",
-   "restrukturisasi perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3073962564_169039a274.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brms-tarik-pinjaman-sindikasi-us-128-juta-laba-turun-37",
-  "category": "Aksi Korporasi",
-  "title": "BRMS Tarik Pinjaman [Sindikasi] US$128 Juta, Laba Turun 37%",
-  "deck": "Bumi Resources Minerals mencairkan pinjaman sindikasi US$128 juta untuk mendanai ekspansi tambang, tapi beban bunga melonjak dan laba sembilan bulan turun 37 persen dibanding tahun lalu.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRMS",
-   "Bumi Resources Minerals",
-   "pinjaman sindikasi",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028190004-64557-0/FinancialStatement-2026-III-BRMS.pdf",
   "sourceLabel": "IDX"
  }
 ];

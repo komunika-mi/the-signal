@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wika-disuspensi-bursa-usai-gagal-bayar-kupon-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Disuspensi] Bursa Usai Gagal Bayar Kupon Obligasi",
+  "deck": "Bursa Efek Indonesia melanjutkan penghentian perdagangan saham WIKA di seluruh pasar sejak 3 November 2026 setelah perseroan gagal membayar bunga obligasi dan bagi hasil sukuk yang jatuh tempo hari itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T15:02:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7c70c4483e_86677c0685.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "suspensi saham",
+   "obligasi korporasi",
+   "gagal bayar"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) melanjutkan suspensi perdagangan saham PT Wijaya Karya (Persero) Tbk (WIKA) di seluruh pasar mulai sesi pertama perdagangan, 3 November 2026. Alasan yang dicantumkan bursa adalah tidak dibayarnya kupon bunga. Keputusan ini merujuk pada surat WIKA tertanggal 30 Oktober 2026 dan surat PT Kustodian Sentral Efek Indonesia (KSEI) tertanggal 2 November 2026 yang menyatakan perseroan menunda pembayaran kewajibannya.",
+   "Ada enam pembayaran yang tertunda, semuanya sebenarnya berjadwal cair pada 3 November 2026. Rinciannya adalah bunga ke-16 untuk tiga seri Obligasi Berkelanjutan III Wijaya Karya Tahap I Tahun 2022, yaitu Seri A (WIKA03ACN1), Seri B (WIKA03BCN1), dan Seri C (WIKA03CCN1). Selain itu ada bagi hasil Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022, yakni bagi hasil ke-15 Seri A (SMWIKA03ACN1) serta bagi hasil ke-16 Seri B (SMWIKA03BCN1) dan Seri C (SMWIKA03CCN1).",
+   "Bursa secara tegas menyebut penundaan pembayaran ini mengindikasikan adanya permasalahan pada kelangsungan usaha WIKA. Saham WIKA saat ini tercatat di papan pemantauan khusus, dan suspensi akan berlaku hingga ada pengumuman lanjutan dari bursa. Pengumuman ditandatangani Kepala Divisi Penilaian Perusahaan 2 Adi Pratomo Aryanto dan Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A."
+  ],
+  "fotoAdegan": "Idle construction site at dusk with stationary tower cranes and stacked rebar, quiet unfinished concrete building in Jakarta",
+  "takeaway": "Ini jelas sinyal negatif, bukan sekadar administratif, karena bursa sendiri menyebut penundaan bayar kupon ini mengindikasikan masalah kelangsungan usaha perseroan. Yang tersentuh adalah arus kas, yaitu kemampuan perusahaan membayar kewajiban yang jatuh tempo tepat waktu, dan gagal bayar seperti ini biasanya memicu klausul yang membuat utang lain perusahaan juga bisa ditagih lebih cepat, sehingga bebannya bisa membesar. Ini juga sejalan dengan rangkaian sebelumnya, setelah pada akhir Oktober pemegang obligasi dan sukuk menolak permintaan WIKA untuk mengatur ulang syarat pembayaran, termasuk penolakan restrukturisasi sukuk tahap II senilai Rp500 miliar. Yang perlu dipantau adalah dua hal, pembayaran yang masih tertunda ini bisa dilunasi dalam masa tenggat yang ada di perjanjian wali amanat, dan kapan bursa mengumumkan pencabutan suspensi karena saat ini belum ada tanggal pasti, hanya disebut berlaku hingga pengumuman lebih lanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mtfn-rugi-rp31-8-m-di-2025-marjin-kotor-naik-ke-5-6",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Rugi Rp31,8 M di 2025, [Marjin] Kotor Naik ke 5,6%",
+  "deck": "Capitalinc Investment (MTFN) membukukan rugi bersih Rp31,8 miliar pada 2025 dengan pendapatan Rp519,4 miliar, meski marjin kotor naik dari 2,4 menjadi 5,6 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T14:47:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dbb065d28f_334acb28dc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTFN",
+  "tags": [
+   "MTFN",
+   "Capitalinc Investment",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "Capitalinc Investment Tbk (MTFN) menyampaikan materi public expose tahunan yang akan digelar pada Jumat, 6 November 2026, merujuk pada surat pemberitahuan sebelumnya tertanggal 23 Oktober 2026. Materi yang diunggah ke sistem keterbukaan informasi Bursa Efek Indonesia itu memuat ringkasan kinerja keuangan dan operasional perusahaan sepanjang 2025, serta rencana bisnis ke depan.",
+   "Dalam materi tersebut, Capitalinc Investment mencatat pendapatan neto sebesar Rp519,4 miliar sepanjang 2025, namun masih menanggung rugi bersih Rp31,8 miliar. Total aset perusahaan tercatat Rp382,9 miliar. Perusahaan menyebut marjin kotor membaik dari 2,4 persen menjadi 5,6 persen, yang menurut materi itu didorong oleh efisiensi pengadaan gas bumi, optimalisasi rute distribusi, serta rasionalisasi beban pemasaran dan overhead.",
+   "Agenda public expose juga mencakup pemaparan prioritas dan tantangan bisnis utama perusahaan untuk tahun mendatang, serta sesi tanya jawab dengan pemegang saham dan analis. Namun, materi yang diserahkan ke bursa tidak merinci lebih lanjut isi dari bagian prioritas dan tantangan tersebut selain judul agendanya."
+  ],
+  "fotoAdegan": "Technicians checking valves on an industrial natural gas pipeline network at a distribution yard, overcast daylight",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental MTFN, karena membawa dua sinyal yang berlawanan arah: perusahaan masih merugi tapi efisiensi operasionalnya nyata membaik. Yang tersentuh di sini adalah marjin kotor, yaitu selisih antara pendapatan dan biaya langsung untuk menghasilkan produk atau jasa, sebelum dikurangi beban lain seperti bunga dan pajak; kenaikannya dari 2,4 menjadi 5,6 persen berarti setiap rupiah pendapatan kini menyisakan lebih banyak untuk menutup biaya lain, meski rugi bersih Rp31,8 miliar menunjukkan biaya-biaya itu masih lebih besar dari yang bisa ditutup. Pelaku pasar biasanya mencermati tren marjin seperti ini sebagai indikator apakah perbaikan operasional bisa berlanjut menjadi laba, bukan sekadar perbaikan sesaat. Yang perlu dipantau berikutnya adalah pemaparan langsung dalam public expose pada Jumat, 6 November 2026, khususnya sesi tanya jawab yang berpotensi mengungkap target dan strategi konkret perusahaan untuk keluar dari posisi rugi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baik-panggil-rupslb-susunan-komisaris-berpotensi-berubah",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Panggil RUPSLB, Susunan [Komisaris] Berpotensi Berubah",
+  "deck": "RUPSLB PT Bersama Mencapai Puncak Tbk (BAIK) digelar 25 November 2026 di Malang, agendanya persetujuan perubahan susunan Dewan Komisaris Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T14:34:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2e0d554f47_7d537d33f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAIK",
+  "tags": [
+   "BAIK",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Tata Kelola Perusahaan"
+  ],
+  "body": [
+   "PT Bersama Mencapai Puncak Tbk (BAIK) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 25 November 2026, pukul 10.00 WIB di Meeting Room Bersama, Jalan Ruko Soekarno Hatta Indah A18 Mojolangu, Kecamatan Lowokwaru, Kota Malang. Agenda rapat hanya satu, yaitu persetujuan pengangkatan kembali atau perubahan susunan anggota Dewan Komisaris Perseroan. Perusahaan menyebut dasar hukumnya adalah Pasal 23 POJK Nomor 33/POJK.04.2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik, serta Pasal 19 ayat 2 huruf d Anggaran Dasar Perseroan, yang mewajibkan perubahan susunan komisaris ditetapkan melalui RUPS. Dokumen pemanggilan ini tidak menyebutkan nama calon komisaris yang akan diangkat atau diberhentikan.",
+   "Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat di Daftar Pemegang Saham pada penutupan perdagangan Bursa Efek Indonesia, Senin, 2 November 2026 pukul 16.00 WIB. Kehadiran bisa dilakukan secara fisik di lokasi rapat atau secara elektronik melalui aplikasi eASY.KSEI pada tautan akses.ksei.co.id, termasuk untuk menunjuk kuasa dan menyampaikan suara. Bahan-bahan mata acara rapat sudah tersedia di situs web perusahaan sejak tanggal pemanggilan ini diumumkan, yaitu 3 November 2026.",
+   "Pemanggilan ini merupakan kelanjutan dari surat pemberitahuan rencana RUPS yang sebelumnya disampaikan Perseroan pada 19 Oktober 2026. Surat ditandatangani oleh Direktur Utama Nanang Suherman dan disampaikan kepada Otoritas Jasa Keuangan serta Bursa Efek Indonesia pada 3 November 2026."
+  ],
+  "fotoAdegan": "Empty formal meeting room with rows of chairs facing a small stage, soft morning light, modest office building interior in a provincial Indonesian city",
+  "takeaway": "Laporan ini netral bagi BAIK karena hanya memanggil rapat prosedural tanpa mengungkap nama calon komisaris, nilai transaksi, atau angka keuangan apa pun yang bisa dinilai arahnya. Yang tersentuh di sini adalah tata kelola perusahaan, yakni siapa yang mengisi Dewan Komisaris, lembaga yang bertugas mengawasi kinerja direksi, bukan laba atau arus kas secara langsung, tapi pasar tetap memperhatikannya karena komposisi pengawas bisa mempengaruhi arah kebijakan strategis perusahaan ke depan. Yang perlu dipantau adalah hasil RUPSLB pada 25 November 2026, terutama siapa saja yang akhirnya diangkat atau diberhentikan dari Dewan Komisaris, karena nama dan rekam jejak mereka baru akan terungkap setelah rapat berlangsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "boss-lapor-lk-triwulan-iii-2024-defisit-modal-melebar",
+  "category": "Aksi Korporasi",
+  "title": "[BOSS] Lapor LK Triwulan III/2024, Defisit Modal Melebar",
+  "deck": "Laporan kuartal III 2024 yang baru disampaikan ke BEI awal November 2026 ini menunjukkan penjualan nihil dan defisiensi modal membesar jadi Rp215,22 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T14:15:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261103142547-65715-0/FinancialStatement-2024-III-BOSS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "defisit modal",
+   "laporan keuangan",
+   "batu bara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2024 kepada Bursa Efek Indonesia pada 2 November 2026, melalui surat bernomor 12.207a/SL.e/Dir/BOSS/X/2026 yang ditandatangani Direktur Utama Freddy Tedjasasmita dan Direktur Widodo Nurly Sumady. Laporan untuk periode yang berakhir dua tahun lalu ini baru disampaikan sekarang, menambah daftar laporan keuangan BOSS yang disetor jauh dari jadwal semestinya.",
+   "Dalam laporan tersebut, BOSS mencatat penjualan bersih nihil sepanjang Januari-September 2024, berbanding dengan penjualan Rp142,49 miliar pada periode yang sama tahun 2023. Rugi bersih tercatat Rp13,33 miliar, memang lebih kecil dibanding rugi Rp128,59 miliar pada sembilan bulan 2023, tetapi itu terjadi karena praktis tidak ada aktivitas produksi maupun penjualan sama sekali, bukan tanda perbaikan kinerja usaha. Rugi per saham dasar ikut menyusut menjadi Rp10 per lembar dari Rp92 pada periode sebelumnya.",
+   "Defisiensi modal, yaitu kondisi ketika total utang sudah melampaui total aset perusahaan, membesar menjadi Rp215,22 miliar per 30 September 2024 dari Rp201,84 miliar per akhir 2023. Total aset turun menjadi Rp585,14 miliar dari Rp596,64 miliar, sementara total liabilitas naik tipis menjadi Rp800,36 miliar dari Rp798,48 miliar. Kas dan setara kas berkurang menjadi Rp856,95 juta dari Rp998,86 juta di akhir 2023. Arus kas dari aktivitas operasi tercatat negatif Rp105,8 miliar, berbanding positif Rp20,75 miliar pada periode yang sama 2023, dan untuk menutup kekurangan kas itu perusahaan menerima utang baru dari pihak ketiga senilai Rp104,86 miliar.",
+   "Dari lima entitas anak yang dilaporkan, hanya PT Bangun Olahsarana Sukses dan PT Pratama Bersama, yang masing-masing bergerak di pertambangan di Kalimantan Timur dan Jakarta, yang berstatus Operasi. Tiga entitas anak lain, Pratama Natural Resource, PT Pratama Buana Sentosa, dan PT Pratama Prime Resource, masih berstatus Pra-Operasi."
+  ],
+  "fotoAdegan": "Abandoned coal mining pit with idle excavator machinery overgrown by vegetation under a cloudy sky in Kalimantan",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena meski kerugian mengecil secara nominal, itu terjadi akibat perusahaan nihil penjualan dan nihil produksi, sementara defisiensi modal terus melebar. Yang tersentuh adalah ekuitas, yang sudah minus Rp215,22 miliar alias utang sudah melampaui aset, dan arus kas operasi yang negatif Rp105,8 miliar sehingga ditutup dengan utang baru dari pihak ketiga senilai hampir sebesar itu, tanda perusahaan mengandalkan pinjaman untuk menutup biaya operasional meski tidak berproduksi. Investor perlu mengawasi apakah dua entitas anak yang masih berstatus operasi, BOS dan PB, benar-benar kembali membukukan penjualan pada laporan kuartal berikutnya. Keterlambatan penyampaian laporan ini sampai dua tahun dari periode pelaporannya juga perlu dicermati, terutama bagaimana perseroan menjelaskannya ke bursa mengingat sahamnya masih berstatus papan pemantauan khusus.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "unsp-konversi-utang-jadi-saham-ekuitas-berbalik-positif",
+  "category": "Aksi Korporasi",
+  "title": "UNSP Konversi Utang Jadi Saham, [Ekuitas] Berbalik Positif",
+  "deck": "Bakrie Sumatera Plantations (UNSP) mencatat aset naik 114,72% dan liabilitas turun 46,14% per September 2026, setelah mengonversi utang senilai Rp4,04 triliun menjadi saham baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T13:58:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/42385f9285_3221d7537e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNSP",
+  "tags": [
+   "UNSP",
+   "Bakrie Sumatera Plantations",
+   "restrukturisasi utang",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Bakrie Sumatera Plantations Tbk (UNSP) melaporkan perubahan besar pada laporan keuangan konsolidasian per 30 September 2026. Total aset perusahaan tercatat Rp7.489,30 miliar, melonjak 114,72 persen atau bertambah Rp4.001,32 miliar dibandingkan posisi akhir 2025 yang sebesar Rp3.487,98 miliar. Kenaikan terbesar berasal dari aset tetap bersih yang naik Rp3.896,92 miliar atau 197,94 persen, akibat kenaikan nilai wajar tanah dan tanaman produktif setelah perusahaan mengubah kebijakan akuntansinya. Persediaan juga naik Rp74,00 miliar karena stok produk kelapa sawit jadi bertambah, dan aset biologis naik Rp76,88 miliar karena perkiraan produksi tandan buah segar yang belum dipanen direvisi lebih tinggi.",
+   "Di sisi lain, total liabilitas perusahaan justru turun Rp4.041,28 miliar atau 46,14 persen, dari Rp8.758,59 miliar pada akhir 2025 menjadi Rp4.717,32 miliar pada September 2026. Penurunan ini terutama berasal dari pinjaman jangka panjang yang berkurang Rp3.950,80 miliar atau 84,76 persen, utang lain-lain yang berkurang Rp170,64 miliar atau 67,77 persen, dan liabilitas jangka panjang ke pihak berelasi yang berkurang Rp92,96 miliar atau 57,04 persen. Ketiganya turun karena alasan yang sama: utang tersebut diselesaikan dengan cara dikonversi menjadi saham baru melalui mekanisme penambahan modal tanpa memberikan hak memesan efek terlebih dahulu, yaitu penerbitan saham baru langsung kepada kreditur tanpa ditawarkan dulu ke pemegang saham lama.",
+   "Dalam laporan yang ditandatangani Corporate Secretary Aditya Indrajati dan disampaikan ke Bursa Efek Indonesia pada 3 November 2026 ini, perusahaan menyatakan perubahan tersebut tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya. Laporan keuangan yang menjadi dasar perubahan ini masih berstatus belum diaudit."
+  ],
+  "fotoAdegan": "Workers loading fresh palm fruit bunches onto a truck at a plantation collection yard, tropical morning light, Indonesia",
+  "takeaway": "Laporan ini condong positif bagi UNSP, karena kombinasi konversi utang menjadi saham dan revaluasi aset membuat posisi keuangan perusahaan berbalik dari sebelumnya defisit, aset Rp3.487,98 miliar kalah jauh dari utang Rp8.758,59 miliar, menjadi surplus, aset Rp7.489,30 miliar melampaui utang Rp4.717,32 miliar. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara total aset dan total utang yang jadi ukuran kekayaan bersih pemegang saham, dan jumlah saham beredar, karena saham baru yang diterbitkan untuk membayar utang itu memperbesar jumlah saham sehingga kepemilikan pemegang saham lama otomatis mengecil persentasenya. Catatan pentingnya, sebagian besar kenaikan aset berasal dari revaluasi tanah dan tanaman akibat perubahan kebijakan akuntansi, bukan dari kas atau laba usaha, jadi perbaikan ini sifatnya di atas kertas, bukan tambahan uang tunai. Yang perlu dipantau selanjutnya adalah laporan keuangan auditan tahun buku 2026 untuk memastikan angka ini konsisten setelah diperiksa auditor independen, serta keterbukaan lanjutan soal berapa banyak saham baru yang resmi terbit dari program konversi utang tersebut, yang belum dirinci dalam dokumen ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mbto-catat-laba-rp19-41-miliar-balik-dari-rugi-9-bulan-2026",
+  "category": "Aksi Korporasi",
+  "title": "MBTO Catat [Laba] Rp19,41 Miliar, Balik dari Rugi 9 Bulan 2026",
+  "deck": "Penjualan neto Martina Berto naik 29 persen jadi Rp379,99 miliar pada sembilan bulan 2026, membawa laba neto Rp19,41 miliar setelah rugi Rp18,82 miliar pada periode sama tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T13:47:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103135822-65717-0/FinancialStatement-2026-III-MBTO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBTO",
+  "tags": [
+   "MBTO",
+   "Martina Berto",
+   "laporan keuangan",
+   "kosmetik"
+  ],
+  "body": [
+   "PT Martina Berto Tbk (MBTO) menyampaikan koreksi laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, dengan nomor surat 045 REV/OL/MBTO/X/2026. Penjualan neto perseroan tercatat Rp379,99 miliar, naik dari Rp294,32 miliar pada periode yang sama tahun sebelumnya, atau tumbuh sekitar 29 persen. Laba bruto naik dari Rp116,58 miliar menjadi Rp146,11 miliar, sementara laba usaha berbalik dari rugi usaha Rp3,52 miliar pada kuartal III 2025 menjadi laba usaha Rp38,08 miliar pada kuartal III 2026.",
+   "Setelah memperhitungkan pendapatan dan beban keuangan serta pajak, Martina Berto mencatat laba neto Rp19,41 miliar untuk sembilan bulan 2026, berbalik dari rugi neto Rp18,82 miliar pada periode yang sama tahun lalu. Arus kas dari aktivitas operasi juga berubah dari defisit Rp10,46 miliar menjadi positif Rp15,12 miliar. Kas dan setara kas perusahaan naik dari Rp4,82 miliar pada akhir 2025 menjadi Rp11,33 miliar pada akhir September 2026, sementara utang bank jangka pendek turun dari Rp154,19 miliar menjadi Rp146,87 miliar.",
+   "Total aset perseroan per 30 September 2026 tercatat Rp676,22 miliar, naik dari Rp640,32 miliar pada akhir 2025, sedangkan total ekuitas naik dari Rp339,59 miliar menjadi sekitar Rp359 miliar. Meski berbalik untung, saldo rugi yang belum ditentukan penggunaannya masih tercatat defisit Rp351,16 miliar, membaik dari defisit Rp370,57 miliar pada akhir 2025. Laporan ditandatangani oleh Direktur Utama Bryan David Emil dan Direktur Kilala Tilaar pada 29 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers in a cosmetics factory checking bottling lines and packaging personal care products under bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi Martina Berto karena kinerjanya berbalik dari rugi menjadi laba hanya dalam setahun, didorong kenaikan penjualan hampir 30 persen. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan sehari-hari perusahaan, bukan sekadar angka di atas kertas; arus kas operasi yang berubah dari minus menjadi plus berarti perusahaan kini menghasilkan uang tunai dari bisnisnya sendiri, bukan cuma mengandalkan pinjaman bank. Meski begitu, saldo rugi yang terkumpul dari tahun-tahun sebelumnya masih minus Rp351 miliar, jadi perbaikan ini belum menutup seluruh luka keuangan lama perusahaan yang tercatat di papan pengembangan, kategori Bursa untuk emiten yang memerlukan pemantauan lebih ketat. Yang perlu dipantau selanjutnya adalah apakah tren laba ini bertahan di laporan keuangan tahun penuh 2026, yang biasanya terbit sekitar akhir Maret 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "lapd-ungkap-akuisisi-tambang-lewat-rights-issue-ii",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Ungkap Akuisisi Tambang Lewat [Rights Issue] II",
+  "deck": "Dalam public expose tahunan, manajemen Leyand International mengakui ekuitas negatif dan pendapatan merosot, sekaligus memastikan akuisisi BSS lewat rights issue kedua berjalan bertahap hingga 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T12:58:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2c4f0d70cc_eed683064b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "Leyand International",
+   "Public Expose",
+   "akuisisi tambang"
+  ],
+  "body": [
+   "PT Leyand International Tbk (LAPD) menggelar Paparan Publik Tahunan pada Kamis, 29 Oktober 2026, pukul 15.00 sampai 15.40 WIB di Meeting Room Hotel Maia, Jalan Kebon Kacang Raya, Tanah Abang, Jakarta Pusat. Acara dihadiri 20 peserta dari luar manajemen dan karyawan perseroan, dengan jajaran yang hadir dari pihak perusahaan adalah Direktur Utama Jamal Abdul Nasir Bamadhaj, Direktur Achmad Rifky, Komisaris Utama Sayid Muhammad Riyadh, dan Corporate Secretary Handayani Rahayu.",
+   "Dalam sesi tanya jawab, media menyoroti komitmen PT JSI Sinergi Mas sebagai pemegang saham pengendali baru sejak 2025. Manajemen menjawab bahwa langkah konkretnya adalah mengakuisisi PT Bersaudara Sinergi Sejahtera (BSS), perusahaan jasa kontraktor pertambangan yang beroperasi terutama di Kalimantan. Perseroan menilai bisnis ini menarik karena mengandalkan kontrak jasa berulang, yang menurut manajemen memberi kepastian pendapatan lebih baik dibanding bisnis distribusi FMCG yang dijalankan perseroan saat ini.",
+   "Saat ditanya soal kondisi keuangan, manajemen secara terbuka mengakui perseroan masih menghadapi penurunan pendapatan, keterbatasan likuiditas, dan posisi ekuitas yang negatif. Rencana yang disiapkan meliputi restrukturisasi usaha, divestasi bisnis yang tidak lagi sejalan dengan arah baru, serta akuisisi BSS yang dijalankan melalui mekanisme PMHMETD II atau penambahan modal dengan hak memesan efek terlebih dahulu tahap kedua. Manajemen menargetkan proses restrukturisasi ini berjalan bertahap hingga tahun 2027."
+  ],
+  "fotoAdegan": "Heavy mining support trucks and excavators parked at a contractor yard in Kalimantan, overcast afternoon light",
+  "takeaway": "Laporan ini netral bagi pemegang saham, karena isinya lebih banyak klarifikasi dan rencana ke depan ketimbang data baru yang mengubah gambaran keuangan perseroan. Yang disinggung di sini adalah ekuitas, yaitu selisih antara aset dan utang perseroan yang sudah negatif, serta likuiditas alias ketersediaan uang tunai untuk operasional, dua pos yang memang jadi perhatian investor karena menentukan kemampuan perusahaan membayar kewajiban jangka pendek. Jumlah saham beredar juga relevan karena akuisisi BSS dibiayai lewat rights issue kedua, bukan dengan kas segar dari pengendali baru, sehingga porsi kepemilikan pemegang saham lama berpotensi makin terdilusi. Yang perlu dipantau selanjutnya adalah realisasi penggabungan bisnis BSS ke dalam perseroan dan progres restrukturisasi serta divestasi unit usaha lama, yang menurut manajemen baru akan selesai bertahap hingga 2027, sebuah target yang masih panjang dan belum disertai tonggak waktu antara yang jelas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "iotf-laba-bersih-turun-57-kas-menyusut-91-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "IOTF: Laba Bersih Turun 57%, [Kas] Menyusut 91% di Kuartal III",
+  "deck": "Laporan keuangan interim Sumber Sinergi Makmur per September 2026 menunjukkan laba bersih turun separuh dan arus kas operasi berbalik negatif, meski utang bank jangka pendek sudah lunas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T12:47:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103125732-65694-0/FinancialStatement-2026-III-IOTF.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IOTF",
+  "tags": [
+   "IOTF",
+   "laporan keuangan",
+   "arus kas",
+   "utang bank"
+  ],
+  "body": [
+   "PT Sumber Sinergi Makmur Tbk (IOTF) menyampaikan koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit. Total aset perusahaan tercatat Rp162,81 miliar, turun dari Rp179,87 miliar pada akhir Desember 2025. Penjualan sembilan bulan naik 16 persen menjadi Rp52,52 miliar dari Rp45,31 miliar pada periode yang sama tahun lalu, dan laba kotor naik menjadi Rp21,51 miliar dari Rp18,37 miliar. Namun laba bersih justru turun hampir separuh, dari Rp244,65 juta menjadi Rp104,42 juta, karena beban usaha melonjak dari Rp16,50 miliar menjadi Rp20,56 miliar sehingga menggerus laba usaha dari Rp1,87 miliar menjadi Rp952,24 juta.",
+   "Kas dan setara kas perusahaan susut tajam dari Rp30,66 miliar pada akhir 2025 menjadi Rp2,6 miliar pada akhir September 2026. Arus kas dari aktivitas operasi berbalik dari positif Rp26,87 miliar pada sembilan bulan 2025 menjadi negatif Rp12,4 miliar pada periode yang sama tahun ini, sementara aktivitas pendanaan mencatat kas keluar bersih Rp15,67 miliar, terutama untuk membayar utang bank. Akibatnya total liabilitas turun drastis dari Rp23,11 miliar menjadi Rp5,95 miliar, dan utang bank jangka pendek yang sebelumnya Rp14,28 miliar kini menjadi nol.",
+   "Dalam surat terpisah bertanggal 2 November 2026 kepada Direktur Penilaian Perusahaan Bursa Efek Indonesia, Direktur Utama IOTF Alamsyah menjelaskan penurunan liabilitas jangka pendek lebih dari 20 persen itu terjadi karena perusahaan memindahkan kasnya ke rekening KRK, yaitu rekening pinjaman jangka pendek yang bunganya dihitung dari saldo bersih sehingga beban bunga perusahaan menjadi lebih kecil. Beban bunga memang turun dari Rp1,2 miliar menjadi Rp394,98 juta. Surat pernyataan tanggung jawab atas laporan keuangan ini ditandatangani pada 27 Oktober 2026 oleh Alamsyah selaku Direktur Utama dan Tommy Indra Anggara selaku Direktur, sementara ekuitas perusahaan relatif tetap di kisaran Rp156,86 miliar, naik tipis dari Rp156,76 miliar pada akhir 2025."
+  ],
+  "fotoAdegan": "Technicians assembling small electronic tracking devices on a factory line, circuit boards under bright assembly lighting, Jakarta industrial workshop",
+  "takeaway": "Laporan ini condong negatif bagi IOTF karena performa inti melemah tajam meski utang berkurang. Kas perusahaan yang merupakan uang tunai siap pakai turun dari Rp30,66 miliar menjadi Rp2,6 miliar dalam sembilan bulan, dan arus kas dari kegiatan usaha, yaitu uang yang benar-benar masuk dari operasional sehari-hari, berbalik dari positif Rp26,87 miliar menjadi negatif Rp12,4 miliar, pertanda perusahaan membakar kas lebih cepat dari yang dihasilkan bisnisnya. Laba bersih turun hampir separuh menjadi Rp104,42 juta, membuat laba per saham tergerus dari Rp0,005 menjadi Rp0,002 per lembar. Manajemen memang berhasil melunasi pinjaman bank jangka pendek Rp14,28 miliar dengan memindahkan kas ke rekening KRK sehingga beban bunga turun dari Rp1,2 miliar menjadi Rp395 juta, tapi penghematan bunga ini tidak menutup pelemahan laba usaha yang turun hampir separuh akibat beban operasional yang naik lebih cepat dari pendapatan. Yang perlu dipantau pada laporan tahun penuh 2026 nanti adalah apakah arus kas operasi kembali positif, sebab arus kas negatif disertai kas yang terus menipis bisa menekan kemampuan perusahaan membiayai operasionalnya sendiri.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ptpp-kantongi-kontrak-epc-rp400-miliar-dari-pupuk-kaltim",
   "category": "Aksi Korporasi",
   "title": "PTPP Kantongi Kontrak EPC [Rp400 Miliar] dari Pupuk Kaltim",

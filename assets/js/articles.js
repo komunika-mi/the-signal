@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sqmi-kendali-tak-langsung-bisa-berubah-usai-induk-raih-us-70-juta",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: Kendali Tak Langsung Bisa Berubah Usai Induk Raih [US$70 Juta]",
+  "deck": "Induk usaha SQMI menjual saham dan obligasi konversi senilai sekitar US$70 juta ke Maxglory Capital, transaksi yang bisa mengubah kendali tidak langsung emiten ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T21:24:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9abb7c3fc7_9f6533ce27.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SQMI",
+  "tags": [
+   "SQMI",
+   "Wilton Makmur Indonesia",
+   "Ciemas Gold Project",
+   "perubahan kendali"
+  ],
+  "body": [
+   "PT Wilton Makmur Indonesia Tbk (SQMI) menyampaikan materi public expose tahunan yang dijadwalkan pada 6 November 2026, memuat sejumlah informasi penting bagi pemegang saham. Dalam materi tersebut, perseroan mengonfirmasi pengunduran diri Direktur Utama Oktavia Budi Raharjo yang akan berlaku efektif 30 November 2026, sesuai keputusan Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2025 yang digelar 4 September 2026 dan tercatat dalam Akta Notaris No. 56. Dari sisi operasional, perseroan menyatakan Grup masih melakukan pekerjaan pemeliharaan di Fasilitas Pengolahan tambang emas Ciemas untuk memastikan pasokan listrik stabil, dengan tujuan memungkinkan operasi kembali berjalan secara aman saat dibutuhkan, yang mengindikasikan fasilitas tersebut belum beroperasi penuh.",
+   "Materi itu juga mengulang keterbukaan informasi material yang sudah diumumkan perseroan pada 15 Oktober 2026 terkait induk usaha utamanya, Wilton Resources Corporation Limited (WRC), yang tercatat di Bursa Efek Singapura dengan kode 5F7. WRC menandatangani dua perjanjian dengan Maxglory Capital Limited (MCL) pada 9 Oktober 2026: Perjanjian Penempatan Saham senilai US$9.283.028 (sekitar S$11,78 juta) untuk 1.071.767.735 saham baru, dan Perjanjian Pemesanan Obligasi Konversi senilai US$60.629.921 (sekitar S$77 juta) yang akan menerbitkan 7.000.000.000 saham baru WRC saat dikonversi. Total dana sekitar US$69,9 juta itu rencananya dipakai WRC untuk melunasi sebagian liabilitasnya, membiayai pengembangan Ciemas Gold Project, dan menambah modal kerja Grup, termasuk SQMI. Perseroan menyebut rampungnya kedua perjanjian ini diperkirakan akan mengubah kendali tidak langsung atas SQMI, karena WRC berada di puncak rantai kepemilikan saham perseroan.",
+   "Untuk menjaga kelangsungan usaha, Grup juga telah memperoleh surat dukungan dari WRC dan entitas induk langsungnya, Wilton Resources Holdings Pte Ltd (WRH), yang menyatakan tidak akan menagih liabilitas yang masih terutang per 31 Desember 2025 setidaknya hingga 22 Mei 2027. Pemasok utama Grup, Wilzilindo, memberikan komitmen serupa untuk liabilitas yang sama hingga setidaknya 31 Mei 2027. Perseroan menambahkan bahwa ke depan Grup akan berupaya menyediakan dana operasional yang cukup, menekan biaya operasional termasuk menjaga struktur tenaga kerja yang efisien, serta akan menarik dana dari Perjanjian Pinjaman Modal Kerja dengan Fandy Hartanto bila diperlukan."
+  ],
+  "fotoAdegan": "Weathered gold ore processing equipment and conveyor belts standing idle at a tropical mine site, green hillside behind, overcast light.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham SQMI karena mengonfirmasi tekanan keuangan yang cukup serius, fasilitas pengolahan emas belum beroperasi normal dan perseroan sampai perlu meminta surat dukungan dari induk usaha serta pemasok utama agar utang yang jatuh tempo per akhir 2025 tidak ditagih dalam waktu dekat. Pos yang tersentuh adalah likuiditas dan utang usaha, yaitu kemampuan perseroan membayar kewajiban jangka pendeknya, sebab penangguhan penagihan ini pada dasarnya menunda masalah kas, bukan menyelesaikannya. Suntikan dana sekitar US$70 juta yang akan diperoleh induk usaha WRC dari penjualan saham dan obligasi konversi ke Maxglory Capital memang sebagian dialokasikan untuk modal kerja Grup, tetapi dananya masuk lewat rantai kepemilikan di Singapura dan justru akan mengubah siapa pengendali tidak langsung SQMI, sehingga manfaatnya bagi pemegang saham minoritas belum pasti. Yang perlu dipantau berikutnya adalah efektifnya pengunduran diri Direktur Utama Oktavia Budi Raharjo pada 30 November 2026, batas penangguhan penagihan utang dari WRC dan WRH pada 22 Mei 2027 serta dari pemasok Wilzilindo pada 31 Mei 2027, dan kapan penyelesaian perjanjian penempatan serta obligasi konversi yang akan menggeser kendali perusahaan benar-benar rampung.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "gpso-jelaskan-lonjakan-aset-62-76-ke-bursa-imbas-suntikan-modal",
+  "category": "Aksi Korporasi",
+  "title": "GPSO Jelaskan Lonjakan [Aset] 62,76% ke Bursa, Imbas Suntikan Modal",
+  "deck": "GPSO melaporkan ke BEI, aset naik 62,76% dan liabilitas naik 63,59% per September 2026, didorong penerbitan 66,67 juta saham baru dan pembelian mesin secara kredit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T21:00:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103211339-65725-0/FinancialStatement-2026-III-GPSO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GPSO",
+  "tags": [
+   "GPSO",
+   "laporan keuangan",
+   "penambahan modal",
+   "BEI"
+  ],
+  "body": [
+   "PT Geoprima Solusi Tbk (GPSO) mengirim surat penjelasan kepada Bursa Efek Indonesia terkait kenaikan lebih dari 20 persen pada pos total aset dan total liabilitas di laporan keuangan per 30 September 2026, sesuai aturan Bursa yang mewajibkan penjelasan tertulis untuk perubahan sebesar itu. Total aset perusahaan naik 62,76 persen, dari Rp48,89 miliar pada akhir 2025 menjadi Rp79,58 miliar. Total liabilitas naik 63,59 persen, dari Rp6,22 miliar menjadi Rp10,17 miliar. Ekuitas ikut naik, dari Rp42,67 miliar menjadi Rp69,41 miliar.",
+   "Menurut surat yang ditandatangani Direktur Utama Dionysius Tjokro, kenaikan ekuitas berasal dari penambahan modal lewat penerbitan 66.674.000 saham baru kepada PT PIMSF Pulogadung tanpa menawarkannya dulu ke pemegang saham lama. Penerbitan ini sudah disetujui Bursa lewat surat Nomor S-07859/BEI.PP3/07-2026 tanggal 1 Juli 2026, mengacu pada keputusan rapat pemegang saham luar biasa 22 Juni 2026. Perubahan modal itu dituangkan dalam akta notaris Rudy Siswanto Nomor 29 tanggal 14 Juli 2026 dan tercatat di Kementerian Hukum pada 16 Juli 2026. Perseroan menyebut dana itu, ditambah rencana fasilitas pinjaman bank yang masih dalam proses persetujuan, dipakai untuk membeli mesin dan alat produksi, yang untuk sementara dibukukan sebagai uang muka pembelian senilai Rp29,35 miliar.",
+   "Di sisi liabilitas, kenaikan terutama datang dari utang usaha ke pemasok pihak ketiga yang melonjak dari Rp534,99 juta menjadi Rp2,34 miliar, serta utang kepada pihak berelasi yang naik dari Rp769,05 juta menjadi Rp4,52 miliar. Perseroan menjelaskan ini akibat meningkatnya pembelian persediaan barang dagangan secara kredit dari pemasok, sejalan dengan perluasan aktivitas jual beli alat-alat industri. Piutang usaha dari pihak berelasi yang sebelumnya nihil juga tercatat Rp9,09 miliar, menandakan ada penjualan barang dagangan ke pihak terafiliasi dalam periode ini."
+  ],
+  "fotoAdegan": "Workers unloading heavy industrial machinery parts from a cargo truck at a warehouse loading dock, forklift nearby, daylight",
+  "takeaway": "Laporan ini netral bagi GPSO, karena kenaikan aset dan liabilitas yang besar ini lebih merupakan konsekuensi dari ekspansi usaha dan suntikan modal yang memang sudah direncanakan lewat rapat pemegang saham pertengahan tahun, bukan sinyal baru yang mengubah arah fundamental perusahaan. Yang perlu dicermati adalah ekuitas perusahaan, yaitu modal sendiri yang jadi penyangga kalau terjadi kerugian, memang bertambah besar karena dana segar masuk, tapi jumlah saham beredar juga bertambah 66,67 juta lembar sehingga porsi laba per saham ke depan akan dibagi ke basis saham yang lebih besar. Di sisi lain, perusahaan kini lebih banyak mengandalkan utang ke pemasok untuk membiayai pembelian barang, yang berarti kemampuan arus kasnya membayar tagihan itu tepat waktu jadi hal yang layak dipantau. Yang perlu ditunggu selanjutnya adalah kepastian fasilitas pinjaman bank yang menurut perseroan masih dalam proses persetujuan, serta laporan keuangan tahunan 2026 yang akan menunjukkan apakah ekspansi aset dan modal kerja ini benar-benar mendongkrak pendapatan atau hanya menambah beban.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wamenko-ajak-investor-cermati-data-tak-ikut-indeks-asing",
   "category": "Pasar Modal",
   "title": "Wamenko Ajak Investor [Cermati] Data, Tak Ikut Indeks Asing",
@@ -86,6 +138,110 @@ var ARTICLES = [
   "imageV": "mw0qppaz"
  },
  {
+  "slug": "fire-balik-untung-rp2-4-miliar-utang-bank-naik-12-kali",
+  "category": "Aksi Korporasi",
+  "title": "FIRE Balik Untung Rp2,4 Miliar, [Utang] Bank Naik 12 Kali",
+  "deck": "Laporan kuartal III 2026 FIRE menunjukkan laba bersih Rp2,4 miliar, berbalik dari rugi, tapi ditopang utang bank baru Rp35 miliar sementara kas menyusut tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T20:23:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103203142-65727-0/FinancialStatement-2026-III-FIRE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FIRE",
+  "tags": [
+   "FIRE",
+   "laporan keuangan",
+   "batu bara",
+   "utang bank"
+  ],
+  "body": [
+   "PT Alfa Energi Investama Tbk (FIRE), emiten distribusi batu bara, menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan bersih Perseroan turun menjadi Rp218,20 miliar dari Rp230,39 miliar pada periode yang sama tahun sebelumnya. Meski beban pokok pendapatan naik dari Rp176,67 miliar menjadi Rp189,79 miliar sehingga laba bruto tergerus dari Rp53,72 miliar menjadi Rp28,41 miliar, Perseroan berhasil membalik posisi laba bersihnya. Setelah memangkas beban penjualan dari Rp23,65 miliar menjadi hanya Rp2,46 miliar, laba bersih yang diatribusikan kepada pemilik entitas induk tercatat Rp2,43 miliar, berbalik dari rugi Rp8,34 miliar pada periode yang sama tahun lalu. Laba per saham dasar pun berbalik dari minus Rp5,65 menjadi positif Rp1,65.",
+   "Perseroan juga menyampaikan surat penjelasan kepada Bursa Efek Indonesia terkait kenaikan liabilitas yang melebihi 20%. Total liabilitas naik 39,6% dari Rp94,85 miliar per akhir Desember 2025 menjadi Rp132,40 miliar per 30 September 2026, atau bertambah Rp37,55 miliar. Kenaikan itu terutama berasal dari pinjaman bank jangka pendek baru senilai Rp35,06 miliar, yaitu Rp28,11 miliar dari PT Bank Mandiri (Persero) Tbk berupa fasilitas pemanfaatan dana devisa hasil ekspor sumber daya alam, dan Rp6,95 miliar dari PT Bank Central Asia Tbk berupa fasilitas kredit rekening koran dan time loan revolving. Akibatnya, saldo utang bank jangka pendek di laporan posisi keuangan melonjak dari Rp3,19 miliar menjadi Rp38,25 miliar, dan utang usaha pihak ketiga turut naik Rp4,07 miliar dibandingkan akhir 2025.",
+   "Di sisi lain, posisi kas Perseroan menyusut tajam dari Rp11,09 miliar pada akhir 2025 menjadi Rp3,37 miliar pada akhir September 2026. Arus kas dari aktivitas operasi masih negatif Rp9,49 miliar, meski membaik dibandingkan negatif Rp24,46 miliar pada periode yang sama tahun lalu, sementara arus kas dari aktivitas investasi tercatat negatif Rp31,74 miliar, terutama karena kenaikan aset keuangan lancar lainnya sebesar Rp27,93 miliar. Kekurangan kas itu ditutup dari arus kas pendanaan yang positif Rp33,38 miliar, didominasi penarikan pinjaman bank jangka pendek. Total aset Perseroan naik menjadi Rp374,77 miliar dari Rp334,66 miliar, dan total ekuitas naik tipis menjadi Rp242,37 miliar dari Rp239,81 miliar."
+  ],
+  "fotoAdegan": "Workers loading coal from a stockpile onto a cargo barge at a river port, cranes in the background, hazy afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental FIRE karena sinyalnya bercampur: laba memang berbalik dari rugi, tapi perbaikan itu datang dari pemangkasan beban penjualan yang drastis di tengah pendapatan yang justru turun, bukan dari bisnis yang benar-benar tumbuh. Pos yang perlu diperhatikan adalah arus kas dan utang. Arus kas dari kegiatan operasional Perseroan masih minus Rp9,49 miliar, artinya uang yang masuk dari penjualan belum cukup menutup biaya operasional sehari-hari, sehingga kekurangannya ditambal dengan pinjaman bank baru Rp35 miliar, dan kas di tangan Perseroan menyusut dari Rp11,09 miliar menjadi Rp3,37 miliar hanya dalam sembilan bulan. Pelaku pasar biasanya mencermati kombinasi kas yang menipis dengan utang jangka pendek yang melonjak hampir 12 kali lipat ini, karena kalau berlanjut bisa membuat Perseroan makin bergantung pada pinjaman baru untuk membiayai operasinya. Yang perlu dipantau berikutnya adalah apakah tren ini berbalik pada laporan keuangan tahunan teraudit yang biasanya disampaikan sekitar akhir Maret tahun berikutnya, serta apakah pinjaman dari Bank Mandiri dan BCA itu cukup menutup kebutuhan modal kerja Perseroan hingga akhir tahun.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "folk-catat-laba-rp17-3-m-usai-rights-issue-dan-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "FOLK Catat [Laba] Rp17,3 M Usai Rights Issue dan Akuisisi",
+  "deck": "Multi Garam Utama (FOLK) membalik rugi jadi laba Rp17,3 miliar pada kuartal III 2026, ditopang rights issue dan akuisisi PT Traya Multi Investama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T20:18:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103202859-65427-0/FinancialStatement-2026-III-FOLK.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FOLK",
+  "tags": [
+   "FOLK",
+   "laporan keuangan",
+   "rights issue",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Multi Garam Utama Tbk (FOLK) melaporkan laba bersih konsolidasian Rp17,31 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, berbalik dari rugi Rp10,51 miliar pada periode yang sama tahun 2025. Laba yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp18,40 miliar, membuat laba per saham berbalik dari rugi Rp2,10 menjadi laba Rp4,51 per saham. Namun pendapatan usaha hanya naik tipis dari Rp14,06 miliar menjadi Rp14,45 miliar, sementara lonjakan laba terutama berasal dari pos penghasilan lain-lain yang melonjak dari beban Rp1,19 miliar menjadi penghasilan Rp26,67 miliar, yang menurut perseroan berasal dari keuntungan perubahan nilai wajar atas investasi saham di perusahaan tercatat lain.",
+   "Total aset perusahaan melonjak 99,44 persen, dari Rp76,21 miliar per akhir Desember 2025 menjadi Rp151,99 miliar per 30 September 2026. Dalam surat resmi ke Bursa Efek Indonesia yang ditandatangani Direktur Utama Danny Sutradewa pada 3 November 2026, perseroan menjelaskan kenaikan ini didorong oleh penambahan investasi saham perusahaan terbuka lewat Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD I) dan pembelian di pasar, kenaikan uang muka investasi, bertambahnya kas, serta konsolidasi persediaan dari akuisisi PT Traya Multi Investama (TMI) yang membuat FOLK kini menguasai 99,96 persen saham TMI. Jumlah saham beredar bertambah dari 3,95 miliar menjadi 4,09 miliar lembar lewat PMTHMETD I tersebut, menambah modal disetor dan agio saham perseroan menjadi total Rp93,86 miliar dari sebelumnya Rp39,86 miliar. Total ekuitas ikut naik lebih dari dua kali lipat, dari Rp66,12 miliar menjadi Rp140,46 miliar, sementara total liabilitas hanya naik dari Rp10,09 miliar menjadi Rp11,52 miliar.",
+   "Di sisi arus kas, kas dan setara kas perseroan naik dari Rp1,25 miliar menjadi Rp9,94 miliar. Kas dari aktivitas pendanaan tercatat positif Rp57,40 miliar, terutama dari setoran modal Rp2,86 miliar dan agio saham Rp54,14 miliar hasil PMTHMETD I. Sebaliknya, arus kas dari aktivitas operasi justru negatif Rp8,19 miliar, memburuk dibanding negatif Rp339,54 juta pada periode yang sama tahun lalu, sementara arus kas investasi negatif Rp40,52 miliar akibat pembelian investasi saham senilai Rp68,85 miliar yang sebagian diimbangi penerimaan dari penjualan investasi lain Rp36,59 miliar dan dividen Rp1,25 miliar."
+  ],
+  "fotoAdegan": "Modern high-rise office towers in Jakarta's SCBD business district viewed from street level at midday, traffic passing below",
+  "takeaway": "Laporan ini netral bagi fundamental FOLK, karena kabar baiknya (modal dan kas yang jauh lebih tebal) berimbang dengan tanda tanya soal kualitas labanya. Yang tersentuh adalah ekuitas, yang melonjak lebih dari dua kali lipat berkat dana segar dari penerbitan saham baru, serta laba per saham yang berbalik positif, tapi lonjakan laba bersih ini lebih banyak disumbang oleh keuntungan dari jual beli saham perusahaan lain ketimbang bisnis inti perusahaan yang pendapatannya hampir tidak bergerak, sementara arus kas dari operasional sehari-hari malah makin negatif. Pelaku pasar biasanya mewaspadai laba semacam ini karena sifatnya bisa naik turun ikut harga saham yang dipegang, berbeda dengan laba dari penjualan produk yang lebih stabil. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan teraudit periode 2026, karena laporan kuartal III ini belum diaudit, sehingga perlu dilihat apakah kenaikan laba dan nilai investasi saham tersebut masih bertahan setelah melalui audit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tgra-rugi-rp25-3-miliar-auditor-soroti-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Rugi Rp25,3 Miliar, Auditor Soroti [Kelangsungan] Usaha",
+  "deck": "TGRA mencatat rugi Rp25,29 miliar pada kuartal III 2026, saldo defisit tembus Rp293 miliar, dan auditor menyoroti ketidakpastian soal kelangsungan usaha perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T20:12:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103201859-64823-0/FinancialStatement-2026-III-TGRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGRA",
+  "tags": [
+   "TGRA",
+   "going concern",
+   "PLTMH",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Terregra Asia Energy Tbk (TGRA) membukukan rugi bersih Rp25,29 miliar untuk sembilan bulan pertama 2026, menurut laporan keuangan interim yang diaudit oleh KAP Irwanto dan Rekan dengan partner audit Nino Berlianto. Auditor memberikan opini wajar tanpa modifikasian, tetapi menambahkan paragraf khusus yang menyebut adanya ketidakpastian material atas kemampuan perusahaan melanjutkan usahanya. Sepanjang periode ini TGRA belum mencatat pendapatan sama sekali, kondisi yang juga terjadi pada 2025 dan 2024. Akibatnya saldo defisit perusahaan membengkak dari Rp272,41 miliar pada akhir 2025 menjadi Rp293,10 miliar pada akhir September 2026, dan liabilitas jangka pendek sudah melampaui aset lancar sebesar Rp157,43 miliar.",
+   "Hal audit utama yang disorot auditor adalah aset dalam pembangunan senilai Rp159,92 miliar, atau 84,8 persen dari total aset Grup, yang seluruhnya berupa tanah untuk proyek pembangkit listrik tenaga mini hidro (PLTMH) dan pembangkit listrik tenaga air (PLTA) dengan total kapasitas hingga 510,8 megawatt di beberapa daerah. Lima proyek PLTMH sudah memiliki perjanjian jual beli listrik dengan pihak ketiga, dan dua proyek PLTA sudah mendapat izin prinsip serta izin lokasi, tetapi perusahaan masih mencari sumber pembiayaan dari pihak ketiga, baik berupa pinjaman maupun investasi, dan belum memperolehnya sampai akhir September 2026. Jika pembangunan PLTMH dan PLTA dihentikan, sebagian biaya yang sudah dikapitalisasi menjadi aset tersebut akan berubah jadi kerugian investasi. Pada tahun ini perusahaan sudah mencatat penurunan nilai sebesar Rp17,79 miliar atas aset dalam pembangunan tersebut, yang membebani laporan laba rugi sembilan bulan ini.",
+   "Dari sisi posisi keuangan, total aset TGRA turun dari Rp206,45 miliar pada akhir 2025 menjadi Rp188,57 miliar pada akhir September 2026, sementara total liabilitas naik dari Rp155,04 miliar menjadi Rp161,71 miliar. Kenaikan liabilitas terutama berasal dari utang kepada pihak berelasi jangka pendek yang bertambah dari Rp98,84 miliar menjadi Rp105,02 miliar. Kas perusahaan hanya Rp151,98 juta, sementara total ekuitas merosot hampir separuh dari Rp51,42 miliar menjadi Rp26,86 miliar dalam sembilan bulan. Rugi per saham tercatat Rp9 untuk periode ini, dibandingkan Rp94,29 untuk sepanjang tahun 2025. Saham TGRA sendiri saat ini diperdagangkan di papan pemantauan khusus alias watchlist Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Workers inspecting construction machinery at a hillside mini hydro dam site in rural Sumatra, overcast morning light",
+  "takeaway": "Laporan ini condong negatif bagi TGRA karena auditor sendiri meragukan kelangsungan usahanya, perusahaan belum punya pendapatan sama sekali selama beberapa tahun terakhir, dan kekayaan bersih pemegang saham justru menyusut tajam. Pos yang paling tersentuh adalah ekuitas, yaitu selisih antara total aset dan total utang yang menggambarkan kekayaan bersih milik pemegang saham, yang di sini turun hampir separuh dalam sembilan bulan karena rugi terus menumpuk sementara utang ke pihak berelasi justru bertambah. Rasio lancar yang hanya 0,12 persen juga penting dicermati karena itu ukuran seberapa mampu perusahaan membayar utang jangka pendek dengan aset yang mudah dicairkan, dan angka ini menunjukkan TGRA praktis tidak punya bantalan kas untuk kebutuhan mendesak. Yang perlu dipantau selanjutnya adalah apakah TGRA berhasil mendapatkan pembiayaan dari pihak ketiga untuk proyek PLTMH dan PLTA senilai Rp159,92 miliar itu, sebab dokumen ini sendiri menyebut proyek itu bisa berubah jadi kerugian investasi kalau pembangunannya terhenti karena dananya tak kunjung didapat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "btek-ganti-pencatatan-ubo-pengendali-golden-harvest-tetap",
+  "category": "Aksi Korporasi",
+  "title": "BTEK Ganti Pencatatan [UBO], Pengendali Golden Harvest Tetap",
+  "deck": "BTEK memperbarui nama pemilik manfaat akhir di sistem Kemenkumham dari Lee Chi Kuen ke Komisaris Utama Anne Patricia Sutanto, tanpa mengubah pemegang saham pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T20:09:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fce08b39a0_f000ecee70.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTEK",
+  "tags": [
+   "BTEK",
+   "UBO",
+   "Golden Harvest",
+   "Tata Kelola Perusahaan"
+  ],
+  "body": [
+   "PT Bumi Teknokultura Unggul Tbk (BTEK) melaporkan perubahan pencatatan penerima manfaat akhir atau Ultimate Beneficiary Owner (UBO) kepada Otoritas Jasa Keuangan pada 3 November 2026. Per 30 Oktober 2026, nama yang tercatat sebagai UBO di Aplikasi BO pada sistem AHU Kementerian Hukum RI berganti dari Lee Chi Kuen menjadi Anne Patricia Sutanto. UBO adalah status yang menandai siapa yang sebenarnya menikmati manfaat ekonomi dan mengendalikan perusahaan di balik lapisan badan hukum, bukan sekadar pemegang saham yang tercatat di atas kertas.",
+   "Sebelumnya, Lee Chi Kuen tercatat sebagai UBO karena menjabat Direktur di Berkshire Investment Limited, perusahaan induk dari PT Golden Harvest selaku pemegang saham pengendali BTEK dengan 19.247.528.400 saham atau 41,59 persen dari seluruh saham BTEK yang diterbitkan. Pencatatan itu diganti karena masa tugas Lee Chi Kuen di Berkshire Investment Limited akan berakhir. Sebagai penggantinya, induk perusahaan menunjuk Anne Patricia Sutanto, yang menjabat Komisaris Utama BTEK, untuk dicatat sebagai UBO yang baru.",
+   "Dalam suratnya, Direktur Utama BTEK Dhanny Cahyadi menegaskan bahwa perubahan pencatatan ini tidak mengubah susunan pemegang saham pengendali sebagaimana diatur dalam POJK 9/2018 tentang Pengambilalihan Perusahaan Terbuka. Karena yang berganti hanya nama yang dicatat sebagai penerima manfaat akhir dan status Anne Patricia Sutanto sendiri adalah pejabat internal BTEK, perusahaan menyatakan tidak ada dampak terhadap kondisi keuangan maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Workers sorting raw cocoa beans on a conveyor belt inside an industrial processing facility, warm ambient lighting",
+  "takeaway": "Laporan ini netral bagi fundamental BTEK, karena yang berubah hanya nama yang tercatat sebagai pemilik manfaat akhir di basis data Kementerian Hukum, sementara susunan pengendali tetap sama. Tidak ada pos kinerja yang tersentuh: jumlah saham beredar BTEK tidak bertambah atau berkurang, porsi 41,59 persen milik PT Golden Harvest juga tidak bergeser, sehingga laba per saham investor publik tidak ikut terdilusi atau terdongkrak oleh urusan administratif ini. Pelaku pasar biasanya tetap memperhatikan laporan UBO karena ini satu-satunya cara publik tahu siapa yang sesungguhnya duduk di belakang struktur holding berlapis seperti Berkshire Investment Limited dan PT Golden Harvest. Yang perlu dipantau selanjutnya adalah apakah ada langkah lanjutan dari Berkshire Investment Limited atau PT Golden Harvest menyusul pergantian pejabat di tingkat induk usaha, sebab perubahan UBO kali ini murni dipicu oleh berakhirnya masa tugas Lee Chi Kuen, bukan oleh transaksi jual beli saham. Sejauh ini BTEK menyatakan tidak ada agenda korporasi lanjutan terkait perubahan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pemerintah-siapkan-transisi-bbm-e20-ke-e50",
   "category": "Energi",
   "title": "Pemerintah Siapkan Transisi BBM E20 ke [E50]",
@@ -105,6 +261,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret ada tiga: target campuran etanol pada bensin dinaikkan dari 20 menjadi 50 persen, campuran biodiesel 50 persen pada solar tetap dipertahankan, dan pemerintah berencana membangun fasilitas penyimpanan minyak mentah di Sumatra agar cadangan energi bisa bertahan 60 hari. Pihak yang langsung terdampak adalah sektor pertanian yang diminta memasok bahan baku etanol lewat Kementan, industri pengolah bahan bakar yang harus menyesuaikan proses pencampuran, serta daerah di Sumatra yang akan jadi lokasi fasilitas penyimpanan. Pola yang terlihat mengarah ke strategi memperbanyak sumber energi dari dalam negeri dan memperbesar stok cadangan, ketimbang buru-buru mengganti bahan bakar yang dipakai sehari-hari, karena biodiesel yang sudah berjalan justru dipertahankan, tidak digeser. Bukti yang ada masih berupa rencana strategis antar kementerian, belum disertai target waktu atau aturan resmi, sehingga yang perlu ditunggu adalah detail renstra ESDM-Kementan atau aturan turunan yang menyebut kapan dan dengan bahan baku apa E50 mulai diuji coba.",
   "imageV": "mw0qppum"
+ },
+ {
+  "slug": "arko-naikkan-pinjaman-ke-anak-usaha-jadi-rp110-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Naikkan [Pinjaman] ke Anak Usaha Jadi Rp110 Miliar",
+  "deck": "Arkora Hydro menambah plafon pinjaman ke anak usahanya, PT Arkora Hydro Malili, dari Rp75 miliar menjadi Rp110 miliar, senilai 21 persen ekuitas perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T19:46:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eff4975a1e_dabb826858.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "transaksi afiliasi",
+   "pinjaman pemegang saham"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) menandatangani Addendum Ketiga atas Perjanjian Pinjaman Pemegang Saham dengan anak usahanya, PT Arkora Hydro Malili (AHM), pada 30 Oktober 2026. Melalui addendum ini, batas maksimal pinjaman yang diberikan Arkora Hydro kepada AHM naik dari Rp75 miliar menjadi Rp110 miliar, bertambah Rp35 miliar. Nilai transaksi ini setara 21 persen dari ekuitas Arkora Hydro berdasarkan laporan keuangan konsolidasian per 31 Desember 2025, sehingga tergolong transaksi material menurut aturan Otoritas Jasa Keuangan.",
+   "Meski tergolong material, transaksi ini dikecualikan dari kewajiban memakai jasa penilai independen dan meminta persetujuan Rapat Umum Pemegang Saham. Pengecualian ini berlaku karena AHM adalah perusahaan terkendali yang sahamnya dimiliki Arkora Hydro secara tidak langsung lebih dari 99 persen, melalui PT Arkora Tomoni Hydro dan PT Arjuna Hidro. Transaksi ini juga tergolong transaksi afiliasi karena Arkora Hydro dan AHM memiliki kesamaan manajemen: Aldo Artoko menjabat Direktur Utama di Arkora Hydro dan Komisaris di AHM, sementara Ricky Hartono menjabat Direktur di kedua perusahaan.",
+   "Manajemen beralasan transaksi dengan pihak terafiliasi ini memudahkan koordinasi dan menjaga kerahasiaan strategi bisnis dibandingkan jika dilakukan dengan pihak luar grup. Dalam keterbukaan informasi yang disampaikan ke OJK pada 3 November 2026, Direksi dan Dewan Komisaris Arkora Hydro menyatakan transaksi ini tidak berdampak signifikan terhadap kondisi keuangan perseroan."
+  ],
+  "fotoAdegan": "Wide shot of a hydroelectric dam spillway releasing water through turbines, lush green hills in the background, overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi Arkora Hydro karena dana yang bertambah cuma berpindah dari kantong induk ke kantong anak usaha yang sudah dimiliki lebih dari 99 persen, bukan dana segar dari luar yang mengubah ekuitas atau hak suara pemegang saham. Yang tersentuh adalah arus kas perseroan: kas Arkora Hydro yang dipinjamkan ke AHM bertambah Rp35 miliar, tapi karena laporan keuangan keduanya dikonsolidasikan, uang ini tetap tercatat sebagai aset grup, hanya berpindah pos dari kas induk menjadi piutang kepada anak usaha. Investor patut mencermati untuk apa tambahan pinjaman ini dipakai, mengingat Arkora Hydro belum lama ini menargetkan kenaikan produksi listrik 49,5 persen pada 2027, sehingga dana ke AHM bisa jadi terkait pembangunan atau perluasan pembangkit. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang untuk melihat realisasi penggunaan dana tambahan ini di AHM.",
+  "sentimen": "netral"
  },
  {
   "slug": "pnm-tanam-5-850-bibit-pohon-di-tujuh-wilayah",

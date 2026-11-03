@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sqmi-kendali-tak-langsung-bisa-berubah-usai-induk-raih-us-70-juta",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: Kendali Tak Langsung Bisa Berubah Usai Induk Raih [US$70 Juta]",
+  "deck": "Induk usaha SQMI menjual saham dan obligasi konversi senilai sekitar US$70 juta ke Maxglory Capital, transaksi yang bisa mengubah kendali tidak langsung emiten ini.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SQMI",
+   "Wilton Makmur Indonesia",
+   "Ciemas Gold Project",
+   "perubahan kendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9abb7c3fc7_9f6533ce27.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gpso-jelaskan-lonjakan-aset-62-76-ke-bursa-imbas-suntikan-modal",
+  "category": "Aksi Korporasi",
+  "title": "GPSO Jelaskan Lonjakan [Aset] 62,76% ke Bursa, Imbas Suntikan Modal",
+  "deck": "GPSO melaporkan ke BEI, aset naik 62,76% dan liabilitas naik 63,59% per September 2026, didorong penerbitan 66,67 juta saham baru dan pembelian mesin secara kredit.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GPSO",
+   "laporan keuangan",
+   "penambahan modal",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103211339-65725-0/FinancialStatement-2026-III-GPSO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wamenko-ajak-investor-cermati-data-tak-ikut-indeks-asing",
   "category": "Pasar Modal",
   "title": "Wamenko Ajak Investor [Cermati] Data, Tak Ikut Indeks Asing",
@@ -56,6 +88,70 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  },
  {
+  "slug": "fire-balik-untung-rp2-4-miliar-utang-bank-naik-12-kali",
+  "category": "Aksi Korporasi",
+  "title": "FIRE Balik Untung Rp2,4 Miliar, [Utang] Bank Naik 12 Kali",
+  "deck": "Laporan kuartal III 2026 FIRE menunjukkan laba bersih Rp2,4 miliar, berbalik dari rugi, tapi ditopang utang bank baru Rp35 miliar sementara kas menyusut tajam.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FIRE",
+   "laporan keuangan",
+   "batu bara",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103203142-65727-0/FinancialStatement-2026-III-FIRE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "folk-catat-laba-rp17-3-m-usai-rights-issue-dan-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "FOLK Catat [Laba] Rp17,3 M Usai Rights Issue dan Akuisisi",
+  "deck": "Multi Garam Utama (FOLK) membalik rugi jadi laba Rp17,3 miliar pada kuartal III 2026, ditopang rights issue dan akuisisi PT Traya Multi Investama.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FOLK",
+   "laporan keuangan",
+   "rights issue",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103202859-65427-0/FinancialStatement-2026-III-FOLK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgra-rugi-rp25-3-miliar-auditor-soroti-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Rugi Rp25,3 Miliar, Auditor Soroti [Kelangsungan] Usaha",
+  "deck": "TGRA mencatat rugi Rp25,29 miliar pada kuartal III 2026, saldo defisit tembus Rp293 miliar, dan auditor menyoroti ketidakpastian soal kelangsungan usaha perusahaan.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "going concern",
+   "PLTMH",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103201859-64823-0/FinancialStatement-2026-III-TGRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btek-ganti-pencatatan-ubo-pengendali-golden-harvest-tetap",
+  "category": "Aksi Korporasi",
+  "title": "BTEK Ganti Pencatatan [UBO], Pengendali Golden Harvest Tetap",
+  "deck": "BTEK memperbarui nama pemilik manfaat akhir di sistem Kemenkumham dari Lee Chi Kuen ke Komisaris Utama Anne Patricia Sutanto, tanpa mengubah pemegang saham pengendali.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTEK",
+   "UBO",
+   "Golden Harvest",
+   "Tata Kelola Perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fce08b39a0_f000ecee70.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-siapkan-transisi-bbm-e20-ke-e50",
   "category": "Energi",
   "title": "Pemerintah Siapkan Transisi BBM E20 ke [E50]",
@@ -66,6 +162,22 @@ var ARTICLES = [
   "tags": [],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476431-perkuat-ketahanan-energi-pemerintah-bersiap-implementasikan-bahan-bakar-e20-hingga-e50"
+ },
+ {
+  "slug": "arko-naikkan-pinjaman-ke-anak-usaha-jadi-rp110-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Naikkan [Pinjaman] ke Anak Usaha Jadi Rp110 Miliar",
+  "deck": "Arkora Hydro menambah plafon pinjaman ke anak usahanya, PT Arkora Hydro Malili, dari Rp75 miliar menjadi Rp110 miliar, senilai 21 persen ekuitas perseroan.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "transaksi afiliasi",
+   "pinjaman pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eff4975a1e_dabb826858.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnm-tanam-5-850-bibit-pohon-di-tujuh-wilayah",
@@ -6365,119 +6477,6 @@ var ARTICLES = [
    "batu bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029121443-65121-0/FinancialStatement-2026-III-PTBA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lead-catat-rugi-us-2-9-juta-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "LEAD Catat [Rugi] US$2,9 Juta di Kuartal III 2026",
-  "deck": "Pendapatan Logindo turun 18 persen jadi US$24,1 juta pada sembilan bulan 2026, laba berbalik jadi rugi US$2,9 juta, meski utang perusahaan menyusut tajam.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LEAD",
-   "laporan keuangan",
-   "rugi bersih",
-   "Logindo Samudramakmur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029121155-64818-0/FinancialStatement-2026-III-LEAD.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cars-catat-laba-rp164-8-miliar-di-kuartal-iii-2026-naik-13-7",
-  "category": "Aksi Korporasi",
-  "title": "CARS Catat [Laba] Rp164,8 Miliar di Kuartal III 2026, Naik 13,7%",
-  "deck": "Laba bersih CARS naik 13,7 persen menjadi Rp164,8 miliar pada sembilan bulan pertama 2026, didorong penjualan otomotif dan bunga pinjaman yang lebih ringan.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CARS",
-   "laporan keuangan",
-   "laba bersih",
-   "otomotif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029120850-64336-0/FinancialStatement-2026-III-CARS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "avia-catat-laba-bersih-tumbuh-16-4-ke-rp1-38-triliun",
-  "category": "Aksi Korporasi",
-  "title": "AVIA Catat Laba Bersih [Tumbuh] 16,4% ke Rp1,38 Triliun",
-  "deck": "Penjualan neto AVIA naik 16,7 persen jadi Rp6,92 triliun dalam sembilan bulan 2026, laba bersih naik 16,4 persen, sementara liabilitas naik 28,24 persen karena utang usaha dan beban pemasaran.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "laporan keuangan",
-   "laba bersih",
-   "industri cat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029120237-64922-0/FinancialStatement-2026-III-AVIA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bahlil-siapkan-izin-terpusat-untuk-hulu-migas",
-  "category": "Energi",
-  "title": "Bahlil Siapkan Izin [Terpusat] untuk Hulu Migas",
-  "deck": "Pemerintah mengusulkan pemusatan izin hulu migas lewat Badan Usaha Khusus Migas dalam RUU Migas, agar kontraktor tak lagi bolak-balik mengurus izin ke berbagai kementerian.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/bahlil-siapkan-izin-terpusat-untuk-hulu-migas.jpg",
-  "imageV": "mvt49sxv",
-  "tags": [
-   "RUU Migas",
-   "Bahlil Lahadalia",
-   "BUK Migas",
-   "Hulu Migas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475572-tak-perlu-lagi-ribet-urus-izin-bahlil-siapkan-terobosan-besar-untuk-industri-migas-ri"
- },
- {
-  "slug": "suni-laba-bersih-turun-19-jadi-rp117-7-miliar-di-9m26",
-  "category": "Aksi Korporasi",
-  "title": "SUNI: Laba Bersih [Turun] 19% Jadi Rp117,7 Miliar di 9M26",
-  "deck": "Penjualan dan laba bersih Sunindo Pratama (SUNI) turun dua digit pada sembilan bulan 2026, meski arus kas operasional dan ekuitas perusahaan justru menguat.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUNI",
-   "laporan keuangan",
-   "kinerja kuartalan",
-   "pipa baja"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029112938-65000-0/FinancialStatement-2026-III-SUNI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gtsi-pastikan-tak-ada-aksi-korporasi-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "GTSI Pastikan Tak Ada Aksi Korporasi di Balik [Volatilitas] Saham",
-  "deck": "BEI meminta penjelasan GTSI atas volatilitas transaksi sahamnya. Perseroan menjawab tidak ada informasi material maupun rencana aksi korporasi dalam waktu dekat.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTSI",
-   "volatilitas transaksi",
-   "BEI",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/c6561a962d_f3e783c4e9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-sola-anjlok-90-di-kuartal-iii-2026-kas-menipis",
-  "category": "Aksi Korporasi",
-  "title": "Laba [SOLA] Anjlok 90% di Kuartal III 2026, Kas Menipis",
-  "deck": "Pendapatan Xolare RCR Energy turun 40 persen dan arus kas operasi berbalik negatif, meski total utang perusahaan ikut turun hampir 30 persen.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOLA",
-   "laporan keuangan",
-   "konstruksi",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029104948-64862-0/FinancialStatement-2026-III-SOLA.pdf",
   "sourceLabel": "IDX"
  }
 ];

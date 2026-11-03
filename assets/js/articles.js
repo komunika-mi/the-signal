@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "idea-teken-pjbs-nawasena-ambil-alih-66-58-saham",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Teken PJBS, Nawasena Ambil Alih [66,58%] Saham",
+  "deck": "Nawasena Nugra Investama menandatangani perjanjian bersyarat untuk mengambil alih 707,3 juta saham IDEA, setara 66,58% kepemilikan, dari Eko Desriyanto dan PT Idea Asia Investama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T06:32:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7b3c9810ad_8bbc6bc43e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDEA",
+  "tags": [
+   "IDEA",
+   "akuisisi",
+   "Nawasena Nugra Investama",
+   "pengendali baru"
+  ],
+  "body": [
+   "PT Idea Indonesia Akademi Tbk (IDEA) menyampaikan perkembangan terbaru dari rencana pengambilalihan perusahaan oleh PT Nawasena Nugra Investama (Nawasena). Berdasarkan surat Nawasena tertanggal 4 November 2026, proses negosiasi antara Nawasena sebagai calon pengendali baru dan para pemegang saham penjual, yaitu Eko Desriyanto yang juga menjabat Direktur Utama IDEA dan PT Idea Asia Investama, telah mencapai tahap penandatanganan Perjanjian Jual Beli Saham Bersyarat pada Senin, 2 November 2026.",
+   "Perjanjian tersebut mengatur pengambilalihan 707.322.700 saham IDEA milik para penjual, yang setara 66,58 persen dari total modal ditempatkan dan disetor penuh perseroan, kepada Nawasena. Dengan porsi sebesar itu, Nawasena akan menjadi pemegang saham pengendali baru begitu transaksi selesai. Dokumen tidak mencantumkan nilai transaksi dalam rupiah maupun tenggat waktu penyelesaian, dan penyelesaiannya tetap tunduk pada syarat dan ketentuan yang diatur dalam perjanjian itu.",
+   "Rencana pengambilalihan ini pertama kali diumumkan melalui surat Nawasena tertanggal 16 September 2026, sesuai ketentuan Pasal 5 ayat (1) POJK Nomor 9/2018 tentang Pengambilalihan Perusahaan Terbuka. IDEA sendiri bergerak di bidang akademi pendidikan dan pelatihan perhotelan, kapal pesiar, tata boga, dan restoran berbasis industri. Manajemen menyatakan informasi ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Culinary students in white uniforms practicing plating technique in a vocational training kitchen, overhead lighting, Jakarta",
+  "takeaway": "Perubahan kendali sebesar ini pantas disebut netral untuk fundamental IDEA sejauh ini, karena yang berpindah tangan adalah saham milik pemegang saham lama kepada investor baru, bukan dana segar yang masuk ke kas perusahaan, sehingga aset dan utang perseroan tidak berubah oleh transaksi ini sendiri. Yang tersentuh adalah hak suara, yaitu porsi kendali atas keputusan strategis perusahaan: begitu 66,58 persen saham pindah ke Nawasena, pihak itu otomatis menjadi pemegang saham pengendali baru dan berwenang menentukan arah manajemen serta susunan direksi berikutnya, termasuk nasib Eko Desriyanto sendiri yang menjual sahamnya sambil masih menjabat Direktur Utama. Yang perlu dipantau berikutnya adalah penyelesaian transaksi, yang menurut dokumen ini masih bergantung pada syarat dan ketentuan dalam Perjanjian Jual Beli Saham Bersyarat tanpa tenggat waktu yang disebutkan, serta kemungkinan penawaran tender wajib, yaitu kewajiban pembelian saham dari pemegang saham publik lain yang biasanya menyertai pergantian pengendali sesuai aturan OJK.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "suspensi-bei-lanjutkan-setop-saham-menn-dan-soul",
+  "category": "Aksi Korporasi",
+  "title": "[Suspensi] BEI Lanjutkan Setop Saham MENN dan SOUL",
+  "deck": "BEI memperpanjang penghentian perdagangan saham MENN dan SOUL karena keduanya belum menyampaikan laporan keuangan interim 2026 dan/atau melunasi denda terkait.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T06:10:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ac3d8e6f5a_036de73c31.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "MENN",
+   "SOUL",
+   "suspensi saham",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) tetap menangguhkan perdagangan saham dua emiten Papan Akselerasi, MENN (PT Menn Teknologi Indonesia Tbk) dan SOUL (PT Mitra Tirta Buwana Tbk), sejak sesi I tanggal 2 November 2026. Penyebabnya sama untuk keduanya, yaitu belum menyampaikan Laporan Keuangan Tengah Tahunan (LKTT) per 30 Juni 2026 dan/atau belum membayar denda yang terkait dengan keterlambatan itu. Saham MENN disetop total di seluruh pasar, sementara saham SOUL hanya disetop di pasar reguler dan tunai.",
+   "Dasar aturannya adalah Peraturan OJK Nomor 14/POJK.04/2022 tentang batas waktu penyampaian laporan keuangan berkala, serta Ketentuan IX.3.4 Peraturan Bursa Nomor I-V yang mengatur bahwa bursa akan mengenakan suspensi apabila sampai awal bulan keempat sejak batas waktu penyampaian laporan keuangan, perusahaan tercatat tetap tidak memenuhi kewajiban itu. Berdasarkan pemantauan BEI per 31 Oktober 2026, MENN dan SOUL termasuk dalam dua perusahaan tercatat Papan Akselerasi yang belum menyampaikan laporan keuangan interim tersebut, sehingga bursa memutuskan untuk tetap melanjutkan suspensi atas keduanya.",
+   "Pengumuman ini ditandatangani oleh Bima Ruditya Surya selaku Pejabat Sementara Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat, bersama Pande Made Kusuma Ari A selaku Kepala Divisi Pengaturan dan Operasional Perdagangan, pada 2 November 2026."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district reflecting a cloudy afternoon sky, street level view",
+  "takeaway": "Laporan ini negatif bagi kedua emiten, karena suspensi yang berlanjut menunjukkan MENN dan SOUL masih gagal memenuhi kewajiban dasar pelaporan keuangan kepada publik. Yang tersentuh bukan laba atau arus kas perusahaan secara langsung, melainkan akses investor terhadap informasi kinerja perusahaan serta likuiditas saham itu sendiri, sebab saham yang disuspensi tidak bisa diperjualbelikan sampai syaratnya dipenuhi. Yang perlu dipantau berikutnya adalah apakah MENN dan SOUL akhirnya menyampaikan Laporan Keuangan Tengah Tahunan 2026 dan melunasi denda terkait, karena pelunasan dan penyampaian laporan itu menjadi syarat utama bagi BEI untuk mencabut status suspensi ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ekspor-sda-lewat-singapura-diperketat-bisa-tambah-penerimaan-negara",
   "category": "Energi",
   "title": "Ekspor SDA Lewat Singapura Diperketat, Bisa [Tambah] Penerimaan Negara",

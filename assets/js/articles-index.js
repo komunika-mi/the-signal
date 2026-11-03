@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "idea-teken-pjbs-nawasena-ambil-alih-66-58-saham",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Teken PJBS, Nawasena Ambil Alih [66,58%] Saham",
+  "deck": "Nawasena Nugra Investama menandatangani perjanjian bersyarat untuk mengambil alih 707,3 juta saham IDEA, setara 66,58% kepemilikan, dari Eko Desriyanto dan PT Idea Asia Investama.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDEA",
+   "akuisisi",
+   "Nawasena Nugra Investama",
+   "pengendali baru"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7b3c9810ad_8bbc6bc43e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suspensi-bei-lanjutkan-setop-saham-menn-dan-soul",
+  "category": "Aksi Korporasi",
+  "title": "[Suspensi] BEI Lanjutkan Setop Saham MENN dan SOUL",
+  "deck": "BEI memperpanjang penghentian perdagangan saham MENN dan SOUL karena keduanya belum menyampaikan laporan keuangan interim 2026 dan/atau melunasi denda terkait.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MENN",
+   "SOUL",
+   "suspensi saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ac3d8e6f5a_036de73c31.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-sda-lewat-singapura-diperketat-bisa-tambah-penerimaan-negara",
   "category": "Energi",
   "title": "Ekspor SDA Lewat Singapura Diperketat, Bisa [Tambah] Penerimaan Negara",
@@ -6447,38 +6479,6 @@ var ARTICLES = [
    "industri rokok"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150334-65247-0/FinancialStatement-2026-III-WIIM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdsi-liabilitas-melonjak-34-5-imbas-pinjaman-bank-baru",
-  "category": "Aksi Korporasi",
-  "title": "KDSI: Liabilitas Melonjak 34,5% Imbas [Pinjaman] Bank Baru",
-  "deck": "Total liabilitas KDSI naik 34,5 persen jadi Rp561,3 miliar dalam sembilan bulan, didorong pembelian bahan baku dan pinjaman bank baru.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDSI",
-   "laporan keuangan",
-   "liabilitas",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029131557-64511-0/FinancialStatement-2026-III-KDSI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "talf-cetak-laba-melonjak-74-persen-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "TALF Cetak Laba [Melonjak] 74 Persen di Kuartal III 2026",
-  "deck": "Laba bersih TALF naik 74 persen jadi Rp52,2 miliar dalam sembilan bulan 2026 seiring penjualan yang tumbuh dan beban bunga yang turun, sementara dividen tunai naik tiga kali lipat.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TALF",
-   "laporan keuangan",
-   "kemasan",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029131114-65259-0/FinancialStatement-2026-III-TALF.pdf",
   "sourceLabel": "IDX"
  }
 ];

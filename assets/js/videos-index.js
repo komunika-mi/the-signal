@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "mjPzauhmRtY",
+  "title": "PAM JAYA Raih Penghargaan Inovasi Membangun Negeri 2026",
+  "category": "BUMN",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "PAM JAYA menerima penghargaan Inovasi Membangun Negeri 2026 atas upaya transformasi layanan air bersih yang dinilai berhasil meningkatkan kualitas layanan kepada warga Jakarta.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyoroti kinerja dan inovasi badan usaha milik daerah dalam penyediaan layanan publik."
+ },
+ {
+  "id": "Do5w-Cz4uP4",
+  "title": "Kementerian PKP Catat Realisasi Anggaran Rp8,6 Triliun",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Perumahan dan Kawasan Permukiman melaporkan realisasi anggaran sebesar Rp8,6 triliun sebagai bagian dari pelaksanaan program dan kegiatan kementerian.",
+  "takeaway": "Angka realisasi anggaran ini relevan bagi pembaca untuk memantau kinerja belanja pemerintah di sektor perumahan dan permukiman."
+ },
+ {
   "id": "YXhNqgtVbmU",
   "title": "KKP Matangkan Kampung Nelayan Merah Putih untuk Dorong Ekonomi Nelayan",
   "category": "UMKM",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Rapimnas Kadin 2026 digelar pada 29-30 Oktober sebagai forum sinergi pemerintah dan dunia usaha untuk merumuskan arah kebijakan ekonomi serta program prioritas nasional.",
   "takeaway": "Forum ini layak disimak karena memberi gambaran arah kebijakan ekonomi yang disepakati bersama antara pemerintah dan pelaku usaha."
- },
- {
-  "id": "n3mhLIPKU4o",
-  "title": "Inovasi Cyber Waste Dorong Ekonomi Sirkular Pengelolaan Sampah",
-  "category": "Industri",
-  "program": "Inspirasi Pagi",
-  "summary": "Inovasi Cyber Waste mengubah pola pengelolaan sampah dari sistem linear, yaitu ambil, buat, buang, menjadi model ekonomi sirkular yang lebih berkelanjutan.",
-  "takeaway": "Pergeseran ke ekonomi sirkular ini relevan bagi pembaca karena membuka peluang model bisnis baru di sektor pengelolaan limbah."
- },
- {
-  "id": "UUGOuxFiB5s",
-  "title": "Bawang Putih Ditanam Perdana di Kertajati untuk Ketahanan Pangan",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah memulai penanaman perdana bawang putih di kawasan Kertajati, Majalengka, Jawa Barat, sebagai bagian dari program ketahanan pangan. Produksi bawang putih nasional saat ini baru sekitar 5 ribu ton.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya pemerintah menekan impor bawang putih lewat peningkatan produksi dalam negeri."
  }
 ];

@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-jadi-ketua-d-8-bidik-optimalkan-pakta-dagang-preferensial",
+  "category": "Global",
+  "title": "RI Jadi Ketua D-8, Bidik Optimalkan Pakta Dagang [Preferensial]",
+  "deck": "Sebagai Ketua Developing-8 2026-2027, Indonesia mendorong pemanfaatan pakta dagang preferensial D-8 yang baru menopang ekspor US$40,26 juta dari total dagang US$40,95 miliar pada 2025.",
+  "date": "3 November 2026",
+  "image": "assets/img/ri-jadi-ketua-d-8-bidik-optimalkan-pakta-dagang-preferensial.jpg",
+  "imageV": "mw0kttsa",
+  "tags": [
+   "D-8",
+   "Pakta Dagang",
+   "Ekonomi Halal",
+   "Ekspor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-optimalisasi-kerja-sama-perdagangan-intra-d-8",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "nilai-dagang-ri-yaman-naik-5-6-persen-jadi-us-150-juta",
+  "category": "Global",
+  "title": "Nilai Dagang RI-Yaman [Naik] 5,6 Persen Jadi US$150 Juta",
+  "deck": "Wamendag Roro dan Wakil Menteri Perdagangan Yaman bertemu di Istanbul membahas penguatan kemitraan dagang, saat nilai perdagangan kedua negara capai US$150,1 juta pada 2025.",
+  "date": "3 November 2026",
+  "image": "assets/img/nilai-dagang-ri-yaman-naik-5-6-persen-jadi-us-150-juta.jpg",
+  "imageV": "mw0ktvws",
+  "tags": [
+   "Yaman",
+   "Kementerian Perdagangan",
+   "Perdagangan Bilateral",
+   "Produk Halal"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-dorong-kemitraan-dunia-usaha-untuk-perkuat-perdagangan-indonesia-yaman",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "bike-koreksi-jawaban-bursa-rp21-85-m-akuisisi-belum-dibayar",
   "category": "Aksi Korporasi",
   "title": "BIKE Koreksi Jawaban Bursa, Rp21,85 M Akuisisi Belum [Dibayar]",
@@ -6448,38 +6484,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/8411bb9d86_0dc091bd97.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "supr-perpanjang-kredit-rp2-triliun-ke-oktober-2027",
-  "category": "Aksi Korporasi",
-  "title": "SUPR [Perpanjang] Kredit Rp2 Triliun ke Oktober 2027",
-  "deck": "Solusi Tunas Pratama memperpanjang fasilitas kredit Rp2 triliun dari Bank CIMB Niaga hingga 31 Oktober 2027, dijamin oleh induk usahanya, Protelindo dan Iforte.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUPR",
-   "transaksi material",
-   "kredit bank",
-   "Protelindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/895597405e_7cee1c6ed8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-malaysia-rancang-visa-proyek-untuk-pekerja-perbatasan",
-  "category": "Ketenagakerjaan",
-  "title": "RI-Malaysia Rancang [Visa Proyek] untuk Pekerja Perbatasan",
-  "deck": "Indonesia dan Malaysia membahas pilot project visa kerja musiman khusus di Kepulauan Meranti dan Karimun, serta pos lintas batas baru Kalbar-Sarawak, dalam pertemuan Sosek Malindo di Bandung.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/ri-malaysia-rancang-visa-proyek-untuk-pekerja-perbatasan.jpg",
-  "imageV": "mvsduwce",
-  "tags": [
-   "Indonesia-Malaysia",
-   "Perbatasan",
-   "Visa by Project",
-   "Sosek Malindo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475524-indonesia-malyasia-perkuat-kerjasama-strategis-ekonomi-di-kawasan-perbatasan"
  }
 ];

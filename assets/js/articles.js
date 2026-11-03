@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-jadi-ketua-d-8-bidik-optimalkan-pakta-dagang-preferensial",
+  "category": "Global",
+  "title": "RI Jadi Ketua D-8, Bidik Optimalkan Pakta Dagang [Preferensial]",
+  "deck": "Sebagai Ketua Developing-8 2026-2027, Indonesia mendorong pemanfaatan pakta dagang preferensial D-8 yang baru menopang ekspor US$40,26 juta dari total dagang US$40,95 miliar pada 2025.",
+  "image": "assets/img/ri-jadi-ketua-d-8-bidik-optimalkan-pakta-dagang-preferensial.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T10:54:15.918Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-optimalisasi-kerja-sama-perdagangan-intra-d-8",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "D-8",
+   "Pakta Dagang",
+   "Ekonomi Halal",
+   "Ekspor"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri bertemu dengan Sekretaris Jenderal Developing-8 (D-8) Duta Besar Sohail Mahmood di Istanbul, Turki, Senin (2/11), untuk membahas agenda Indonesia selama memegang kursi Ketua D-8 periode 2026-2027. Dalam pertemuan itu, Indonesia menegaskan tiga fokus utama, yaitu memperkuat integrasi ekonomi di antara sembilan negara anggota, mendorong pemanfaatan Perjanjian Perdagangan Preferensial D-8 atau D-8 PTA, dan mengembangkan ekosistem ekonomi halal di kawasan. Peran sebagai ketua ini penting karena Indonesia yang akan menentukan agenda dan jadwal pertemuan dagang kelompok tersebut selama dua tahun ke depan.",
+   "Menurut Wamendag Roro, total perdagangan Indonesia dengan sesama anggota D-8 pada 2025 mencapai US$40,95 miliar, dengan Indonesia membukukan surplus US$10,51 miliar dan pertumbuhan ekspor 13,4 persen dibandingkan tahun sebelumnya. Namun dari total itu, pemanfaatan jalur bebas bea lewat D-8 PTA masih kecil. Sejak mulai berlaku 1 Juni 2024 hingga Mei 2026, baru 716 surat keterangan asal yang diterbitkan, dengan nilai ekspor yang memakai fasilitas ini hanya US$40,26 juta.",
+   "Selama masa kepemimpinannya, Indonesia mengusung tema \"Navigating Global Shifts: Strengthening Equality, Solidarity, and Cooperation for Shared Prosperity\" dengan lima area prioritas, yaitu integrasi ekonomi dan perdagangan, pengembangan ekonomi halal, ekonomi biru dan transisi hijau, konektivitas digital, serta penguatan kelembagaan. Kementerian Perdagangan berencana menjadi tuan rumah pertemuan Supervisory Committee ke-10 dan Dewan Menteri Dagang D-8 (TMC) kelima pada semester II 2027, serta menggelar kembali pameran produk halal setelah D-8 Halal Expo Indonesia di Jakarta pada 8-12 Juli 2026. Indonesia juga menjabat Wakil Ketua kelompok kerja ahli (Expert Working Group) bersama Bangladesh, di bawah kepemimpinan Mesir, yang sedang mengkaji perluasan D-8 PTA.",
+   "Sembilan negara anggota D-8 yang terlibat dalam kerja sama ini adalah Azerbaijan, Bangladesh, Mesir, Indonesia, Iran, Malaysia, Nigeria, Pakistan, dan Turki. Wamendag Roro menyampaikan harapan agar Sekretariat D-8 dan seluruh negara anggota memperkuat harmonisasi standar produk halal serta mempermudah perdagangan lintas batas di antara mereka."
+  ],
+  "fotoAdegan": "Workers stacking plain cardboard boxes of packaged food products onto pallets in a bright export warehouse, forklift waiting nearby",
+  "fotoSumber": "https://www.kemendag.go.id/albums/rOKfMaIZP5KUBh3JRAacfPw1tcW7Ked9EZUjN42H.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah secara konkret ada di angka pemanfaatan pakta dagang preferensial D-8, bukan di pertemuan diplomatiknya. Sejak berlaku Juni 2024 sampai Mei 2026, baru 716 surat keterangan asal, yaitu dokumen yang dibutuhkan agar barang ekspor mendapat keringanan bea masuk, diterbitkan dengan nilai ekspor US$40,26 juta, jauh lebih kecil dibandingkan total perdagangan Indonesia dengan sembilan negara D-8 yang mencapai US$40,95 miliar pada 2025. Artinya, hampir seluruh dagang antarnegara ini masih lewat jalur tarif biasa, bukan jalur bebas bea yang sudah tersedia. Yang terdampak adalah eksportir Indonesia yang berpotensi dapat keringanan bea di pasar seperti Pakistan, Mesir, atau Malaysia tapi belum mengurus dokumennya, mungkin karena belum tahu caranya. Dengan Indonesia memegang kursi ketua dua tahun ke depan dan ikut mengkaji perluasan perjanjian ini, arahnya lebih ke mendorong pelaku usaha memakai fasilitas yang sudah ada ketimbang membuat perjanjian baru, dan yang akan memastikan arah ini adalah hasil kajian perluasan D-8 PTA serta jumlah surat keterangan asal pada laporan berikutnya menjelang pertemuan Dewan Menteri Dagang D-8 yang dijadwalkan semester II 2027.",
+  "imageV": "mw0kttsa"
+ },
+ {
+  "slug": "nilai-dagang-ri-yaman-naik-5-6-persen-jadi-us-150-juta",
+  "category": "Global",
+  "title": "Nilai Dagang RI-Yaman [Naik] 5,6 Persen Jadi US$150 Juta",
+  "deck": "Wamendag Roro dan Wakil Menteri Perdagangan Yaman bertemu di Istanbul membahas penguatan kemitraan dagang, saat nilai perdagangan kedua negara capai US$150,1 juta pada 2025.",
+  "image": "assets/img/nilai-dagang-ri-yaman-naik-5-6-persen-jadi-us-150-juta.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T10:54:03.839Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-dorong-kemitraan-dunia-usaha-untuk-perkuat-perdagangan-indonesia-yaman",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Yaman",
+   "Kementerian Perdagangan",
+   "Perdagangan Bilateral",
+   "Produk Halal"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan RI Dyah Roro Esti Widya Putri bertemu Wakil Menteri Perindustrian dan Perdagangan Yaman Salem Mohammed Ahmed Salman di Istanbul, Turki, Senin (2/11), di sela Sidang Menteri ke-42 Komite Tetap Kerja Sama Ekonomi dan Komersial Organisasi Kerja Sama Islam (COMCEC). Dalam pertemuan itu, kedua pihak membahas cara memperluas perdagangan antara Indonesia dan Yaman, termasuk lewat promosi produk unggulan, pertukaran informasi pasar, dan fasilitasi pertemuan langsung antarpengusaha kedua negara.",
+   "Berdasarkan data Badan Pusat Statistik, total nilai perdagangan Indonesia dan Yaman pada 2025 tercatat US$150,1 juta, naik 5,6 persen dibandingkan tahun sebelumnya. Ekspor utama Indonesia ke Yaman berupa minyak kelapa sawit, papan serat kayu, dan benang serat stapel sintetis, sementara impor dari Yaman didominasi poliester dan kulit domba. Kedua negara juga telah menandatangani nota kesepahaman kerja sama jaminan produk halal pada 30 Juli 2026 di Jakarta, yang disebut sebagai landasan untuk memperluas kerja sama perdagangan produk halal.",
+   "Dalam pertemuan ini, kedua pihak menjajaki sejumlah rencana lanjutan, antara lain mengaktifkan kembali Joint Business Council yang sempat terhenti, mengundang Yaman kembali berpartisipasi dalam Trade Expo Indonesia, serta menjajaki kerja sama perdagangan digital terutama untuk pelaku usaha kecil dan menengah. Indonesia menyatakan siap berbagi pengalaman soal regulasi perdagangan elektronik, sistem pembayaran digital, dan perlindungan konsumen, serta membuka opsi pelatihan dan bantuan teknis bagi Yaman dalam kesiapan ekspor dan pemenuhan standar pasar tujuan.",
+   "Kedua pihak juga sepakat memperkuat komunikasi antarkementerian, termasuk kemungkinan menunjuk narahubung teknis untuk mengawal tindak lanjut pembahasan. Namun, belum ada kesepakatan baru yang diteken maupun target waktu yang ditetapkan dalam pertemuan ini, sehingga realisasi berbagai rencana tersebut masih bergantung pada langkah konkret berikutnya dari kedua negara."
+  ],
+  "fotoAdegan": "Workers loading palm oil drums onto a cargo ship at a busy Indonesian port, cranes overhead, midday light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/fVSAz6AIes2IWEHWaeVpuYbXa4jR0fKioFyLpkDD.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Pertemuan di Istanbul ini sendiri tidak melahirkan kesepakatan baru, hanya pembicaraan awal. Yang sudah pasti baru nilai dagang Indonesia-Yaman tahun 2025 sebesar US$150,1 juta, naik 5,6 persen dari tahun sebelumnya, dan MoU kerja sama produk halal yang sudah diteken sejak Juli 2026. Pihak yang berpotensi terdampak adalah eksportir sawit, papan serat kayu, dan serat sintetis ke Yaman, serta pelaku usaha produk halal yang disebut jadi fokus kerja sama lanjutan. Rencana mengaktifkan kembali Joint Business Council dan mengundang Yaman ikut Trade Expo Indonesia masih berupa wacana tanpa tanggal pasti, sehingga belum bisa dipastikan apakah ini akan berlanjut jadi kerja sama nyata. Yang perlu dipantau adalah apakah dewan bisnis itu benar diaktifkan kembali dan apakah Yaman benar hadir di penyelenggaraan TEI mendatang.",
+  "imageV": "mw0ktvws"
+ },
+ {
   "slug": "bike-koreksi-jawaban-bursa-rp21-85-m-akuisisi-belum-dibayar",
   "category": "Aksi Korporasi",
   "title": "BIKE Koreksi Jawaban Bursa, Rp21,85 M Akuisisi Belum [Dibayar]",

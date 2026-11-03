@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "mjPzauhmRtY",
+  "title": "PAM JAYA Raih Penghargaan Inovasi Membangun Negeri 2026",
+  "category": "BUMN",
+  "program": "Inovasi Membangun Negeri",
+  "summary": "PAM JAYA menerima penghargaan Inovasi Membangun Negeri 2026 atas upaya transformasi layanan air bersih yang dinilai berhasil meningkatkan kualitas layanan kepada warga Jakarta.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyoroti kinerja dan inovasi badan usaha milik daerah dalam penyediaan layanan publik.",
+  "terbit": "2026-11-03T10:10:28+00:00"
+ },
+ {
+  "id": "Do5w-Cz4uP4",
+  "title": "Kementerian PKP Catat Realisasi Anggaran Rp8,6 Triliun",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Perumahan dan Kawasan Permukiman melaporkan realisasi anggaran sebesar Rp8,6 triliun sebagai bagian dari pelaksanaan program dan kegiatan kementerian.",
+  "takeaway": "Angka realisasi anggaran ini relevan bagi pembaca untuk memantau kinerja belanja pemerintah di sektor perumahan dan permukiman.",
+  "terbit": "2026-11-03T09:21:56+00:00"
+ },
+ {
   "id": "YXhNqgtVbmU",
   "title": "KKP Matangkan Kampung Nelayan Merah Putih untuk Dorong Ekonomi Nelayan",
   "category": "UMKM",

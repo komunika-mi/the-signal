@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ptpp-kantongi-kontrak-epc-rp400-miliar-dari-pupuk-kaltim",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Kantongi Kontrak EPC [Rp400 Miliar] dari Pupuk Kaltim",
+  "deck": "PTPP meraih kontrak EPC Dermaga 11 senilai Rp400 miliar dari Pupuk Kaltim di Bontang, proyek berdurasi 570 hari untuk mendukung distribusi material industri pupuk.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "kontrak konstruksi",
+   "Pupuk Kaltim",
+   "EPC"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/528cda06ab_56623820a7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asmi-jelaskan-ke-bei-aset-susut-26-akibat-investasi-saham-anjlok",
+  "category": "Aksi Korporasi",
+  "title": "ASMI Jelaskan ke BEI, Aset Susut 26% akibat [Investasi] Saham Anjlok",
+  "deck": "Perseroan menjelaskan ke BEI penurunan total aset 26 persen dan liabilitas 24 persen per September 2026, dipicu turunnya nilai investasi saham dan premi asuransi.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASMI",
+   "asuransi",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103114915-65710-0/FinancialStatement-2026-III-ASMI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtsm-bukukan-laba-kuartal-iii-tapi-ekuitas-susut-21-6-persen",
+  "category": "Aksi Korporasi",
+  "title": "MTSM Bukukan Laba Kuartal III, tapi [Ekuitas] Susut 21,6 Persen",
+  "deck": "Laporan keuangan interim kuartal III 2026 MTSM mencatat laba bersih Rp465,65 juta, namun ekuitas tergerus koreksi saldo laba Rp6,58 miliar dan utang naik 45 persen.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTSM",
+   "laporan keuangan",
+   "properti",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103115020-65704-0/FinancialStatement-2026-III-MTSM.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jsmr-panggil-rupslb-setujui-penggabungan-lmj-tol-ke-jtt",
+  "category": "Aksi Korporasi",
+  "title": "JSMR Panggil RUPSLB, Setujui [Penggabungan] LMJ-TOL ke JTT",
+  "deck": "Jasa Marga memanggil RUPSLB pada 25 November 2026 untuk membahas penggabungan anak usaha tol LMJ dan TOL ke JTT, perubahan anggaran dasar, dan perubahan susunan pengurus.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JSMR",
+   "RUPSLB",
+   "Jasa Marga",
+   "Merger anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1d7d6d9184_b144769848.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-lapor-lk-kuartal-i-2025-defisit-modal-melebar-lagi",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Lapor LK Kuartal I/2025, [Defisit] Modal Melebar Lagi",
+  "deck": "Laporan keuangan interim Kuartal I/2025 BOSS, baru disampaikan ke bursa 2 November 2026, menunjukkan rugi berlipat dan defisit modal melebar jadi Rp232,61 miliar.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "defisiensi modal",
+   "laporan keuangan interim",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/20261103112441-65705-0/FinancialStatement-2025-I-BOSS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fimp-seluruh-piutang-usaha-macet-lebih-dari-120-hari",
+  "category": "Aksi Korporasi",
+  "title": "FIMP: Seluruh [Piutang] Usaha Macet Lebih dari 120 Hari",
+  "deck": "BEI meminta FIMP menjelaskan sejumlah kejanggalan laporan keuangan, dari piutang usaha yang seluruhnya macet lebih dari 120 hari hingga arus kas operasional yang berbalik negatif.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FIMP",
+   "piutang usaha",
+   "arus kas",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/94a86437fa_a4e63d5a2e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fapa-tegaskan-tak-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "FAPA Tegaskan Tak Terlibat [Penyelidikan] Karhutla Singapura",
+  "deck": "FAP Agri menjawab permintaan penjelasan lanjutan Bursa soal pemanggilan grup afiliasinya oleh Pemerintah Singapura terkait penyelidikan karhutla, dan menyatakan tidak ada dampak material bagi perseroan.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FAPA",
+   "karhutla",
+   "keterbukaan informasi",
+   "Singapura"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3db7fe5433_3fe720e260.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bhit-anak-usaha-bcap-catat-laba-naik-18-6-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "BHIT: Anak Usaha [BCAP] Catat Laba Naik 18,6% di 9M-2026",
+  "deck": "PT MNC Kapital Indonesia Tbk (BCAP), anak usaha BHIT, membukukan laba bersih Rp182,28 miliar pada 9M-2026, naik 18,6% yoy meski pendapatan total turun tipis.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BHIT",
+   "BCAP",
+   "MNC Kapital",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/87691525dd_434a659425.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "keen-tegaskan-tak-terlibat-investigasi-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "KEEN Tegaskan Tak Terlibat Investigasi [Karhutla] Singapura",
+  "deck": "PT Kencana Energi Lestari Tbk menjawab permintaan penjelasan BEI soal investigasi karhutla yang menyeret afiliasinya, Kencana Agri, dan menegaskan tidak ada keterlibatan langsung.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KEEN",
+   "Karhutla",
+   "Kencana Agri",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ae7e0ca793_f92a24e6ed.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "live-laba-bersih-anjlok-73-jadi-rp2-83-miliar",
+  "category": "Aksi Korporasi",
+  "title": "LIVE: Laba Bersih [Anjlok] 73% Jadi Rp2,83 Miliar",
+  "deck": "Pendapatan Homeco Victoria Makmur turun 36 persen jadi Rp131,2 miliar dalam sembilan bulan 2026, menggerus laba bersih ke Rp2,83 miliar.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LIVE",
+   "laporan keuangan",
+   "consumer cyclicals",
+   "household goods"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103104807-65624-0/FinancialStatement-2026-III-LIVE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "halo-jadwalkan-rupslb-pada-10-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "HALO Jadwalkan [RUPSLB] pada 10 Desember 2026",
+  "deck": "Haloni Jane Tbk akan menggelar rapat pemegang saham luar biasa 10 Desember 2026, dengan tanggal pencatatan pemegang saham pada 17 November 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HALO",
+   "RUPSLB",
+   "Haloni Jane",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f92c3d1c8d_4806463437.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "esdm-ubah-aturan-tambang-prioritaskan-pengusaha-daerah",
   "category": "Energi",
   "title": "ESDM [Ubah] Aturan Tambang, Prioritaskan Pengusaha Daerah",
@@ -39,6 +215,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasok-hampir-separuh-pasar-dunia-tapi-dijual-murah-bahlil-kendalikan-produksi-batu-bara",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "bcap-laba-bersih-naik-18-6-pendapatan-turun-tipis-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "BCAP: Laba Bersih Naik 18,6%, [Pendapatan] Turun Tipis di 9M-2026",
+  "deck": "Laba bersih BCAP naik 18,6% jadi Rp182,28 miliar pada 9M-2026, tapi pendapatan konsolidasi turun tipis dan aset perusahaan menyusut dibanding akhir 2025.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BCAP",
+   "MNC Kapital",
+   "laba bersih",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a4e3a30f7_4b9a8b12b2.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-emas-antam-naik-rp10-000-jadi-rp2-541-000-gram",
@@ -6288,198 +6480,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028184937-64947-0/FinancialStatement-2026-III-VRNA.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bltz-laba-ambruk-97-persen-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "BLTZ: Laba [Ambruk] 97 Persen di Kuartal III 2026",
-  "deck": "Laba bersih CGV Cinemas (BLTZ) longsor ke Rp919 juta pada sembilan bulan 2026 akibat beban pajak tinggi, meski utang bank berhasil dipangkas dari Rp486 miliar menjadi Rp370 miliar.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLTZ",
-   "laporan keuangan",
-   "CGV Cinemas",
-   "laba turun"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183613-65270-0/FinancialStatement-2026-III-BLTZ.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "axio-catat-laba-9-bulan-naik-74-eps-jadi-rp10-45",
-  "category": "Aksi Korporasi",
-  "title": "AXIO Catat Laba 9 Bulan Naik 74%, [EPS] Jadi Rp10,45",
-  "deck": "Laba bersih Tera Data Indonusa naik 74 persen jadi Rp61,08 miliar dalam sembilan bulan, namun arus kas operasional berbalik negatif Rp97,82 miliar seiring piutang usaha melonjak 126 persen.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AXIO",
-   "laporan keuangan",
-   "laba bersih",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183854-65310-0/FinancialStatement-2026-III-AXIO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mina-balik-untung-rp1-28-miliar-utang-susut-77-persen-di-q3",
-  "category": "Aksi Korporasi",
-  "title": "MINA balik [untung] Rp1,28 miliar, utang susut 77 persen di Q3",
-  "deck": "Laba bersih MINA berbalik positif pada kuartal III 2026, didorong penghasilan keuangan, sementara total utang perusahaan turun 77 persen setelah melunasi pinjaman ke pihak ketiga.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MINA",
-   "laporan keuangan",
-   "properti",
-   "Sanurhasta Mitra"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183427-64544-0/FinancialStatement-2026-III-MINA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "supa-laba-melonjak-ke-rp299-9-miliar-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "SUPA: Laba [Melonjak] ke Rp299,9 Miliar Kuartal III 2026",
-  "deck": "Laba bersih Super Bank Indonesia naik hampir lima kali lipat jadi Rp299,9 miliar pada sembilan bulan 2026, didorong lonjakan kredit dan simpanan nasabah.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUPA",
-   "perbankan",
-   "laporan keuangan",
-   "Super Bank Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028183143-64715-0/FinancialStatement-2026-III-SUPA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ipcm-laba-bersih-tergerus-meski-pendapatan-naik-5-33",
-  "category": "Aksi Korporasi",
-  "title": "IPCM: Laba Bersih [Tergerus] Meski Pendapatan Naik 5,33%",
-  "deck": "Pendapatan sembilan bulan IPCM naik 5,33% jadi Rp1,15 triliun, tapi laba bersih turun 33% menjadi Rp94,13 miliar akibat kenaikan harga bahan bakar.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPCM",
-   "laporan keuangan",
-   "Pelindo Group",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/95e0ff397e_e1e377544c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mlia-rugi-rp162-8-miliar-di-kuartal-iii-2026-kas-susut-tajam",
-  "category": "Aksi Korporasi",
-  "title": "[MLIA] Rugi Rp162,8 Miliar di Kuartal III 2026, Kas Susut Tajam",
-  "deck": "Mulia Industrindo (MLIA) membukukan rugi Rp162,8 miliar pada sembilan bulan 2026, berbalik dari laba tahun sebelumnya, seiring laba kotor yang anjlok dan kas yang menyusut tajam.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MLIA",
-   "laporan keuangan",
-   "rugi bersih",
-   "Mulia Industrindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028182422-65134-0/FinancialStatement-2026-III-MLIA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amar-laba-bersih-melonjak-30-ke-rp227-7-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "AMAR: Laba Bersih [Melonjak] 30% ke Rp227,7 Miliar di Kuartal III",
-  "deck": "Laba bersih Bank Amar Indonesia naik sekitar 30 persen menjadi Rp227,7 miliar pada kuartal III 2026, didorong pertumbuhan kredit yang pesat meski arus kas operasional makin negatif.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMAR",
-   "Bank Amar Indonesia",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028180001-65056-0/FinancialStatement-2026-III-AMAR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apli-cetak-laba-rp7-46-miliar-bagi-dividen-rp60-miliar",
-  "category": "Aksi Korporasi",
-  "title": "APLI Cetak Laba Rp7,46 Miliar, Bagi [Dividen] Rp60 Miliar",
-  "deck": "APLI berbalik untung Rp7,46 miliar pada sembilan bulan pertama 2026, setelah bagi dividen Rp59,99 miliar dan belanja modal naik tajam.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APLI",
-   "laporan keuangan",
-   "dividen",
-   "kinerja emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028174607-64937-0/FinancialStatement-2026-III-APLI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-terbitkan-right-issue-rp2-54-triliun-dilusi-13-04",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Terbitkan Right Issue Rp2,54 Triliun, Dilusi [13,04%]",
-  "deck": "NexAI Digital Infrastruktur (MGLV) menawarkan right issue hingga 285,7 juta saham baru seharga Rp8.880, dananya untuk bayar utang ke NDC dan bangun dua pusat data.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "rights issue",
-   "data center",
-   "NDC"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/0620f58f90_2d73692757.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bexi-siapkan-rp112-miliar-lunasi-obligasi-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "BEXI Siapkan Rp112 Miliar [Lunasi] Obligasi Jatuh Tempo",
-  "deck": "Indonesia Eximbank (BEXI) menyiapkan dana Rp112 miliar untuk melunasi pokok obligasi BEXI04DCN7 yang jatuh tempo 29 Oktober 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEXI",
-   "obligasi",
-   "LPEI",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/07c9ad4b5b_6f8825ba11.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smbr-siapkan-audit-lk-kuartal-iii-isyarat-aksi-korporasi",
-  "category": "Aksi Korporasi",
-  "title": "SMBR Siapkan Audit LK Kuartal III, Isyarat [Aksi Korporasi]",
-  "deck": "SMBR akan mengaudit laporan keuangan interim per 30 September 2026 karena ada rencana aksi korporasi, dengan tenggat penyampaian ke BEI dan OJK paling lambat 31 Desember 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMBR",
-   "Semen Baturaja",
-   "aksi korporasi",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/891a0d3db6_5112459509.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-raih-penghargaan-transformasi-digital-2026",
-  "category": "BUMN",
-  "title": "Pegadaian Raih Penghargaan [Transformasi Digital] 2026",
-  "deck": "Pegadaian meraih The Finance Special Award 2026 kategori The Most Innovative Digital Transformation atas inovasi layanan digital gadai.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/pegadaian-raih-penghargaan-transformasi-digital-2026.jpg",
-  "imageV": "mvs3v48k",
-  "tags": [
-   "pegadaian",
-   "bumn",
-   "transformasi digital",
-   "penghargaan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475452-pegadaian-raih-the-finance-special-award-2026-berkat-inovasi-transformasi-digital"
  }
 ];

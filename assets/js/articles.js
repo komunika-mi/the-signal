@@ -3,6 +3,293 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ptpp-kantongi-kontrak-epc-rp400-miliar-dari-pupuk-kaltim",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Kantongi Kontrak EPC [Rp400 Miliar] dari Pupuk Kaltim",
+  "deck": "PTPP meraih kontrak EPC Dermaga 11 senilai Rp400 miliar dari Pupuk Kaltim di Bontang, proyek berdurasi 570 hari untuk mendukung distribusi material industri pupuk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T11:52:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/528cda06ab_56623820a7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "kontrak konstruksi",
+   "Pupuk Kaltim",
+   "EPC"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk (PTPP) mengumumkan perolehan kontrak baru dari PT Pupuk Kalimantan Timur (Pupuk Kaltim) untuk mengerjakan proyek Engineering, Procurement, and Construction (EPC) Dermaga 11 senilai Rp400 miliar. Proyek ini berlokasi di sisi timur Dermaga Tursina, kawasan industri Pupuk Kaltim di Bontang, Kalimantan Timur, dengan masa pelaksanaan 570 hari kalender terhitung sejak 18 September 2026.",
+   "Pekerjaan EPC mencakup pembangunan dermaga multiguna, struktur pendukung, sistem conveyor atau ban berjalan pengangkut material, serta pemasangan mobile ship loader, yaitu alat pemuat material ke kapal yang bisa dipindahkan. Dermaga ini dirancang untuk melayani kapal pengangkut material curah padat berkapasitas hingga 40.000 Deadweight Tonnage (DWT), ukuran yang menunjukkan daya angkut maksimal kapal, guna mendukung distribusi material serta kebutuhan bahan baku soda ash di kawasan tersebut. Sebagai tanda komitmen pelaksanaan, PTPP dan Pupuk Kaltim menggelar acara Project Commitment pada 19 Oktober 2026 di Batam Marriott Hotel Harbour Bay, dihadiri Direktur Operasi Bidang Infrastruktur PTPP, Yul Ari Pramuraharjo, yang diakhiri penandatanganan dokumen komitmen proyek oleh perwakilan kedua perusahaan.",
+   "Sekretaris Perusahaan PTPP, Joko Raharjo, mengatakan perolehan proyek ini mencerminkan kepercayaan Pupuk Kaltim terhadap kapabilitas PTPP di bidang infrastruktur industri. Ia menyebut perusahaan menerapkan strategi Back to Core, yakni memprioritaskan proyek yang sesuai dengan kompetensi inti, kualitas, dan profil risiko yang terukur, sejalan dengan upaya menjaga fundamental dan keberlanjutan usaha perseroan."
+  ],
+  "fotoAdegan": "Workers assembling steel structures at a riverside industrial dock under construction, cranes overhead, overcast tropical sky",
+  "takeaway": "Kabar kontrak baru ini netral bagi PTPP: nilainya Rp400 miliar memang menambah daftar pekerjaan perusahaan, tetapi muncul hanya beberapa hari setelah lembaga pemeringkat menurunkan peringkat utang PTPP ke status gagal bayar terpilih, sehingga satu kontrak baru belum cukup mengubah gambaran besar soal tekanan keuangan yang sedang dihadapi. Yang tersentuh di sini adalah order book, yaitu daftar pekerjaan yang sudah terjamin untuk direalisasikan jadi pendapatan ke depan, pos yang biasa dipantau investor konstruksi karena menunjukkan keberlangsungan bisnis, meski bertambahnya order book tidak otomatis berarti kas untuk membayar kewajiban jangka pendek ikut bertambah. Yang perlu dipantau berikutnya adalah bagaimana PTPP mendanai dan menuntaskan proyek berdurasi 570 hari kalender yang sudah berjalan sejak 18 September 2026 ini, di tengah status gagal bayar yang masih melekat pada peringkat utangnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asmi-jelaskan-ke-bei-aset-susut-26-akibat-investasi-saham-anjlok",
+  "category": "Aksi Korporasi",
+  "title": "ASMI Jelaskan ke BEI, Aset Susut 26% akibat [Investasi] Saham Anjlok",
+  "deck": "Perseroan menjelaskan ke BEI penurunan total aset 26 persen dan liabilitas 24 persen per September 2026, dipicu turunnya nilai investasi saham dan premi asuransi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T11:47:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103114915-65710-0/FinancialStatement-2026-III-ASMI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASMI",
+  "tags": [
+   "ASMI",
+   "asuransi",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "body": [
+   "PT Asuransi Maximus Graha Persada Tbk (ASMI) menyampaikan koreksi laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, disertai surat penjelasan kepada Bursa Efek Indonesia tertanggal 2 November 2026. Surat ini wajib disampaikan karena total aset dan total liabilitas perusahaan berubah lebih dari 20 persen, sesuai aturan BEI Nomor I-E. Total aset ASMI tercatat Rp1,02 triliun per akhir September 2026, turun 26,01 persen atau Rp357,19 miliar dari Rp1,37 triliun pada akhir 2025. Total liabilitas turun 24,36 persen atau Rp240,75 miliar, dari Rp988,51 miliar menjadi Rp747,76 miliar.",
+   "Manajemen merinci penyebab penurunan aset tersebut. Kontributor terbesar adalah aset reasuransi yang turun Rp200,99 miliar, yaitu klaim yang masih bisa ditagih perusahaan ke perusahaan reasuransi mitranya. Investasi perusahaan juga turun Rp122,94 miliar, yang menurut perusahaan disebabkan oleh turunnya nilai pasar portofolio investasi, terutama saham yang dipegang ASMI. Di sisi liabilitas, penurunan terbesar berasal dari liabilitas kontrak asuransi atau kewajiban kepada pemegang polis yang turun Rp187,71 miliar, dan biaya masih harus dibayar yang turun Rp62,65 miliar. Manajemen menyebut penurunan aset dan liabilitas kontrak asuransi ini terjadi seiring dengan turunnya pendapatan premi bruto sepanjang 2026.",
+   "Penjelasan ini melengkapi laporan keuangan yang menunjukkan ASMI rugi bersih Rp115,36 miliar pada sembilan bulan 2026, berbalik dari laba Rp9,66 miliar pada periode yang sama tahun sebelumnya. Rugi per saham tercatat Rp12,88, dibanding laba per saham Rp1,08 setahun sebelumnya. Akibatnya, ekuitas perusahaan turun dari Rp384,51 miliar menjadi Rp268,07 miliar. Surat kepada BEI ditandatangani Direktur Utama Jemmy Atmadja dan Direktur Norvin Osel, yang menyatakan bahwa perubahan pos aset dan liabilitas ini tidak berdampak terhadap kinerja keuangan perseroan pada tahun berjalan."
+  ],
+  "fotoAdegan": "Wide exterior view of a modern glass office tower in Jakarta's business district at dusk, blurred traffic in foreground",
+  "takeaway": "Laporan ini condong negatif bagi ASMI, karena penjelasan resmi ke bursa justru mengonfirmasi bahwa penyusutan aset dan modal perusahaan berasal dari dua sumber yang sama-sama melemah, yaitu nilai investasi saham yang anjlok dan bisnis premi asuransi yang mengecil. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang yang jadi milik pemegang saham, yang berfungsi sebagai penyangga keuangan perusahaan asuransi. Nilai investasi juga relevan karena ASMI mencatat sebagian portofolionya pada harga pasar, sehingga begitu harga saham turun, kerugiannya langsung masuk ke laporan laba rugi, bukan cuma catatan di atas kertas. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan 2026 yang sudah diaudit, untuk melihat apakah tren penurunan premi bruto dan nilai investasi ini berlanjut atau justru membalik di kuartal keempat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mtsm-bukukan-laba-kuartal-iii-tapi-ekuitas-susut-21-6-persen",
+  "category": "Aksi Korporasi",
+  "title": "MTSM Bukukan Laba Kuartal III, tapi [Ekuitas] Susut 21,6 Persen",
+  "deck": "Laporan keuangan interim kuartal III 2026 MTSM mencatat laba bersih Rp465,65 juta, namun ekuitas tergerus koreksi saldo laba Rp6,58 miliar dan utang naik 45 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T11:43:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103115020-65704-0/FinancialStatement-2026-III-MTSM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTSM",
+  "tags": [
+   "MTSM",
+   "laporan keuangan",
+   "properti",
+   "ekuitas"
+  ],
+  "body": [
+   "PT Metro Realty Tbk (MTSM) menyampaikan laporan keuangan interim konsolidasian yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, dengan surat pernyataan direksi bertanggal 27 Oktober 2026. Perusahaan properti ini masih tercatat di papan pemantauan khusus (watchlist) Bursa Efek Indonesia. Pendapatan perusahaan turun dari Rp32,84 miliar pada sembilan bulan 2025 menjadi Rp24,93 miliar pada periode yang sama tahun ini, sementara beban pokok pendapatan ikut turun dari Rp23,36 miliar menjadi Rp16,21 miliar, sehingga laba kotor tercatat Rp8,71 miliar, sedikit lebih rendah dari Rp9,47 miliar tahun sebelumnya.",
+   "Setelah dikurangi beban usaha dan beban di luar usaha, MTSM membalikkan kerugian bersih Rp59,97 juta pada sembilan bulan 2025 menjadi laba bersih Rp465,65 juta pada periode berjalan tahun ini. Laba per saham dasar pun berubah dari rugi Rp0,25 menjadi laba Rp2,00 per saham. Namun kas dan setara kas perusahaan menyusut dari Rp6,05 miliar pada akhir 2025 menjadi Rp3,21 miliar pada akhir September 2026, seiring arus kas operasi yang masih negatif Rp96,86 juta dan belanja aset tetap serta aset tidak lancar lain sekitar Rp2,44 miliar.",
+   "Di sisi posisi keuangan, total ekuitas MTSM turun dari Rp28,19 miliar pada akhir 2025 menjadi Rp22,09 miliar pada akhir September 2026. Penyebab utamanya adalah koreksi saldo laba sebesar Rp6,58 miliar yang dibukukan sepanjang periode ini, jauh lebih besar dari tambahan laba bersih kuartal berjalan. Di sisi liabilitas, total utang perusahaan naik 45 persen dari Rp17,51 miliar menjadi Rp25,35 miliar, antara lain karena munculnya utang usaha pihak ketiga Rp3,32 miliar, utang lainnya yang naik dari Rp2,72 miliar menjadi Rp5,59 miliar, dan uang jaminan pelanggan jangka panjang yang naik dari Rp2,73 miliar menjadi Rp4,70 miliar."
+  ],
+  "fotoAdegan": "Aging multi-story commercial building facade with balconies in a dense older Jakarta commercial district, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi MTSM karena ekuitas turun 21,6 persen, dan penyebab utamanya bukan kinerja operasional kuartal ini yang justru membaik, melainkan koreksi saldo laba Rp6,58 miliar yang dibukukan pada periode ini. Ekuitas adalah modal bersih perusahaan setelah dikurangi semua utang, jadi penyusutannya berarti bantalan keuangan MTSM menipis, sementara total utang malah naik 45 persen dalam sembilan bulan menjadi Rp25,35 miliar. Laba per saham memang berbalik dari rugi menjadi untung Rp2,00, tapi nilainya jauh lebih kecil dibanding koreksi saldo laba yang menggerus modal, jadi belum bisa dibaca sebagai perbaikan fundamental. Koreksi saldo laba semacam ini biasanya muncul karena ada pembetulan pencatatan periode sebelumnya, dan kemunculannya berbarengan dengan proses MTSM membenahi laporan keuangan setelah sahamnya disuspensi bursa. Yang perlu dipantau berikutnya adalah apakah laporan keuangan tahunan teraudit nanti mengonfirmasi angka koreksi ini, serta kelanjutan permintaan MTSM kepada BEI untuk mencabut suspensi sahamnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "jsmr-panggil-rupslb-setujui-penggabungan-lmj-tol-ke-jtt",
+  "category": "Aksi Korporasi",
+  "title": "JSMR Panggil RUPSLB, Setujui [Penggabungan] LMJ-TOL ke JTT",
+  "deck": "Jasa Marga memanggil RUPSLB pada 25 November 2026 untuk membahas penggabungan anak usaha tol LMJ dan TOL ke JTT, perubahan anggaran dasar, dan perubahan susunan pengurus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T11:37:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1d7d6d9184_b144769848.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JSMR",
+  "tags": [
+   "JSMR",
+   "RUPSLB",
+   "Jasa Marga",
+   "Merger anak usaha"
+  ],
+  "body": [
+   "PT Jasa Marga (Persero) Tbk memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 25 November 2026 pukul 13:30 WIB. Rapat dilaksanakan secara elektronik melalui fasilitas eASY.KSEI, dengan Pemimpin Rapat, notaris, dan lembaga profesi penunjang berkoordinasi fisik di Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 2 November 2026 pukul 16:15 WIB, atau pemilik saldo rekening efek di KSEI pada penutupan perdagangan tanggal yang sama.",
+   "Agenda pertama rapat adalah persetujuan penggabungan PT Lintas Marga Jawa (LMJ) dan PT Trans Optima Luhur (TOL) ke dalam PT Jasamarga Transjawa Tol (JTT), yang juga merupakan anak usaha Jasa Marga. Perseroan menyatakan rencana penggabungan ini bukan transaksi material yang memerlukan persetujuan RUPS berdasarkan POJK 17/2020, serta dikecualikan dari kewajiban memakai jasa penilai, mengumumkan keterbukaan informasi ke publik dan OJK, maupun memperoleh persetujuan RUPS independen. Alasannya, transaksi ini terjadi antara JTT selaku perusahaan terkendali Jasa Marga dan LMJ serta TOL yang sahamnya dikuasai paling sedikit 99 persen oleh perusahaan terkendali tersebut, sesuai ketentuan POJK 42/2020 tentang transaksi afiliasi. Dasar agenda ini antara lain surat Dewan Komisaris Jasa Marga tertanggal 21 Juli 2026 dan surat PT Danantara Asset Management tertanggal 30 Maret 2026 soal penetapan batas kewenangan sesuai anggaran dasar.",
+   "Dua agenda lain yang dibahas adalah perubahan anggaran dasar Perseroan, yang salah satu dasarnya adalah penyesuaian terhadap klasifikasi baku lapangan usaha Indonesia versi 2025 dari Badan Pusat Statistik, serta perubahan susunan pengurus Perseroan yang merujuk pada aturan Undang-Undang Perseroan Terbatas, Undang-Undang BUMN, dan Peraturan Pemerintah No. 38 Tahun 2026 tentang Pengelolaan BUMN. Jasa Marga tidak mengirimkan undangan tersendiri karena pemanggilan ini sudah berlaku sebagai undangan resmi, dan pemegang saham dapat memberikan atau mencabut kuasa suara melalui eASY.KSEI sejak tanggal pemanggilan hingga paling lambat satu hari kerja sebelum rapat, pukul 12:00 WIB. Bahan rapat sudah tersedia di situs web Perseroan sejak tanggal pemanggilan, dan Perseroan menegaskan tidak menyediakan makanan, minuman, atau cindera mata bagi peserta rapat."
+  ],
+  "fotoAdegan": "Aerial view of an elevated Indonesian toll road with cars and trucks flowing between concrete barriers, late afternoon light",
+  "takeaway": "Laporan ini netral bagi Jasa Marga karena penggabungan Lintas Marga Jawa dan Trans Optima Luhur ke dalam Jasamarga Transjawa Tol murni menata ulang struktur anak usaha yang sahamnya sudah dikuasai lebih dari 99 persen oleh grup, bukan transaksi yang membawa dana segar atau mengubah kendali Jasa Marga atas ruas tolnya. Karena ketiga entitas itu sudah masuk dalam laporan keuangan konsolidasian Jasa Marga, penggabungan ini tidak langsung mengubah ekuitas, arus kas, atau laba per saham perusahaan induk, dampaknya lebih pada penyederhanaan struktur hukum dan kemungkinan efisiensi biaya administrasi antar entitas yang kini menjadi satu. Dua agenda lain, perubahan anggaran dasar dan susunan pengurus, juga bersifat tata kelola yang dipicu oleh perubahan klasifikasi usaha dan aturan kementerian BUMN, bukan sinyal soal kinerja operasional perusahaan. Yang perlu dipantau adalah hasil pemungutan suara di RUPSLB pada 25 November 2026, terutama agenda perubahan susunan direksi dan komisaris yang bisa mengubah arah kebijakan perusahaan ke depan, serta nama-nama yang masuk dan keluar begitu diumumkan setelah rapat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "boss-lapor-lk-kuartal-i-2025-defisit-modal-melebar-lagi",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Lapor LK Kuartal I/2025, [Defisit] Modal Melebar Lagi",
+  "deck": "Laporan keuangan interim Kuartal I/2025 BOSS, baru disampaikan ke bursa 2 November 2026, menunjukkan rugi berlipat dan defisit modal melebar jadi Rp232,61 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T11:16:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/20261103112441-65705-0/FinancialStatement-2025-I-BOSS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "defisiensi modal",
+   "laporan keuangan interim",
+   "batu bara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan laporan keuangan interim tidak diaudit untuk periode tiga bulan yang berakhir 31 Maret 2025 kepada Bursa Efek Indonesia. Surat pernyataan direksi ditandatangani Direktur Utama Freddy Tedjasasmita dan Direktur Widodo Nurly Sumady pada 2 November 2026, artinya laporan untuk kuartal yang berakhir lebih dari setahun lalu baru disampaikan sekarang. Saham BOSS sendiri masih tercatat di papan pemantauan khusus bursa. Dalam lampiran laporan, dua anak usaha tambang, PT Bangun Olahsarana Sukses di Kalimantan Timur (kepemilikan 41,72 persen) dan PT Pratama Bersama di Jakarta (38,03 persen), tercatat berstatus operasi sejak 2023, namun penjualan bersih kelompok usaha tetap nihil pada kuartal ini, sama seperti kuartal I 2024.",
+   "Rugi bersih periode berjalan tercatat Rp8,46 miliar, naik dua kali lipat dari Rp4,26 miliar pada kuartal I 2024. Total aset turun dari Rp588,05 miliar pada akhir 2024 menjadi Rp579,47 miliar pada 31 Maret 2025. Total liabilitas relatif stabil di Rp812,07 miliar. Akibatnya, defisiensi modal, yaitu kondisi ketika total utang perusahaan sudah melampaui total asetnya, melebar dari minus Rp224,12 miliar menjadi minus Rp232,61 miliar hanya dalam tiga bulan.",
+   "Kas dan setara kas perusahaan turun dari Rp2,45 miliar menjadi Rp836,8 juta, atau susut sekitar 66 persen. Arus kas dari kegiatan usaha sehari-hari tercatat minus Rp53,18 miliar, membesar dari minus Rp30,09 miliar pada periode yang sama tahun lalu. Kekurangan kas itu ditutup lewat pendanaan baru, terutama penambahan utang pihak ketiga senilai Rp71,46 miliar dan utang pihak berelasi Rp2,60 miliar, sehingga arus kas dari aktivitas pendanaan berbalik positif Rp70,77 miliar dibanding minus Rp34,45 miliar setahun sebelumnya."
+  ],
+  "fotoAdegan": "An idle open-pit coal mine with a motionless excavator and empty haul road, overcast grey sky, no people",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena rugi berlipat jadi Rp8,46 miliar, defisit modal melebar jadi Rp232,61 miliar, dan kas menipis 66 persen, sementara penjualan tetap nihil, meneruskan tren buruk yang sudah berlangsung bertahun-tahun. Pos yang tersentuh adalah ekuitas dan arus kas: defisiensi modal berarti utang perusahaan sudah melampaui nilai asetnya sehingga bantalan keuangannya sudah habis, sedangkan arus kas operasi yang minus berarti kegiatan usaha sehari-hari menyedot kas, bukan menghasilkannya, dan lubang itu ditutup dengan utang baru bukan pendapatan sehingga beban ke depan makin menumpuk. Yang perlu dicermati berikutnya adalah apakah BOSS bisa segera menyusulkan laporan-laporan periode setelah kuartal I 2025 yang masih tertunggak, mengingat laporan ini baru disampaikan 2 November 2026, serta apakah status pemantauan khusus sahamnya di bursa bisa berubah bila kondisi keuangan tidak membaik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "fimp-seluruh-piutang-usaha-macet-lebih-dari-120-hari",
+  "category": "Aksi Korporasi",
+  "title": "FIMP: Seluruh [Piutang] Usaha Macet Lebih dari 120 Hari",
+  "deck": "BEI meminta FIMP menjelaskan sejumlah kejanggalan laporan keuangan, dari piutang usaha yang seluruhnya macet lebih dari 120 hari hingga arus kas operasional yang berbalik negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T11:15:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/94a86437fa_a4e63d5a2e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FIMP",
+  "tags": [
+   "FIMP",
+   "piutang usaha",
+   "arus kas",
+   "BEI"
+  ],
+  "body": [
+   "PT Fimperkasa Utama Tbk (FIMP) menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-06898/BEI.PP3/06-2026 tertanggal 12 Juni 2026 soal laporan keuangan perusahaan untuk periode 31 Desember 2024, 30 Juni 2025, dan 31 Desember 2025. Jawaban disampaikan lewat surat nomor 060/FIMPU/Dir/X/2026 tanggal 6 Oktober 2026 yang diteruskan ke bursa pada 3 November 2026, ditandatangani Direktur Utama Mohamad Mulky Thalib.",
+   "Perseroan menjelaskan, pendapatan diakui berdasarkan progres pengerjaan proyek yang didukung kontrak, dokumen progres, berita acara serah terima, dan invoice ke pelanggan. Pendapatan periode 31 Desember 2024 tercatat Rp5,866 miliar, sementara periode 30 Juni 2025 dan 31 Desember 2025 sama-sama Rp4 miliar, berasal dari kontrak dengan PT Sarana Jasa Konstruksi (SJK) senilai Rp20 miliar tertanggal 17 April 2023. FIMP mengakui tidak ada tambahan pendapatan sepanjang paruh kedua 2025 karena tidak ada transaksi baru yang memenuhi kriteria pengakuan pendapatan pada periode itu.",
+   "Bursa juga menyoroti sejumlah selisih angka antara rekening koran dan laporan keuangan. FIMP mengakui ada selisih Rp345 juta pada pembayaran piutang dari SJK sepanjang 2024, antara yang dilaporkan perseroan (Rp854 juta) dan rekening koran (Rp1,2 miliar), serta selisih Rp5,3 juta pada total pembayaran piutang usaha 2024. Untuk periode 2025, ada selisih Rp0,27 miliar antara penerimaan kas di rekening koran (Rp7,47 miliar) dan laporan arus kas (Rp7,2 miliar), ditambah transaksi Rp0,96 miliar periode Februari hingga Mei 2025 yang tidak disajikan terpisah sebagai penerimaan kas dari pelanggan di laporan per 30 Juni 2025. Semua selisih itu disebut perseroan akibat perbedaan periode pencatatan dan klasifikasi, bukan kesalahan nilai.",
+   "Yang lebih mendasar, FIMP mengonfirmasi bahwa seluruh piutang usaha yang belum tertagih per 31 Desember 2025 sudah berumur lebih dari 120 hari, dan perseroan mengklaim terus memonitor serta menagih lewat invoice dan koordinasi dengan pelanggan. Perseroan juga membukukan cadangan kerugian penurunan nilai Rp6,4 miliar atas seluruh tagihan bruto proyek Ciangsana Residence dengan pihak berelasi, meski pihak berelasi itu disebut telah melunasi piutang usahanya pada periode tersebut. Arus kas dari aktivitas operasional pada 31 Desember 2025 berbalik negatif dari periode sebelumnya, yang menurut perseroan disebabkan kebutuhan modal kerja yang naik, terutama pembayaran ke pemasok dan kenaikan pembayaran kas ke karyawan berupa gaji dan tunjangan."
+  ],
+  "fotoAdegan": "Construction workers plastering an exterior wall of an unfinished residential building, scaffolding and ladders, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi FIMP, karena jawaban ke bursa ini justru menyingkap bahwa seluruh piutang usaha perusahaan per akhir 2025 sudah menunggak lebih dari 120 hari, padahal pendapatannya stagnan dan arus kas dari operasional berbalik jadi negatif. Piutang usaha adalah uang yang sudah diakui sebagai pendapatan tapi belum benar-benar masuk ke kas, jadi kalau seluruhnya macet lebih dari empat bulan, itu sinyal pelanggan FIMP, termasuk pihak berelasi, kesulitan atau menunda bayar. Arus kas operasional yang negatif berarti uang yang keluar untuk membayar pemasok dan karyawan lebih besar daripada uang yang masuk dari bisnis inti, sehingga perusahaan harus menambal selisihnya dari sumber lain. Cadangan kerugian penurunan nilai, yaitu dana cadangan untuk piutang yang berisiko tidak tertagih, dibukukan Rp6,4 miliar untuk proyek Ciangsana Residence dengan pihak berelasi meski pihak itu disebut sudah melunasi piutangnya, yang menimbulkan pertanyaan soal konsistensi penilaian risiko. Yang perlu dipantau selanjutnya adalah laporan keuangan periode berikutnya, apakah piutang yang sudah menunggak itu akhirnya tertagih atau malah dihapusbukukan, dan apakah arus kas operasional kembali positif.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "fapa-tegaskan-tak-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "FAPA Tegaskan Tak Terlibat [Penyelidikan] Karhutla Singapura",
+  "deck": "FAP Agri menjawab permintaan penjelasan lanjutan Bursa soal pemanggilan grup afiliasinya oleh Pemerintah Singapura terkait penyelidikan karhutla, dan menyatakan tidak ada dampak material bagi perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T10:58:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3db7fe5433_3fe720e260.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FAPA",
+  "tags": [
+   "FAPA",
+   "karhutla",
+   "keterbukaan informasi",
+   "Singapura"
+  ],
+  "body": [
+   "PT FAP Agri Tbk (FAPA) menyampaikan surat tanggapan bernomor 046/XI-CORSEC/2026 tertanggal 3 November 2026 kepada Bursa Efek Indonesia, menjawab surat permintaan penjelasan lanjutan Bursa nomor S-13498/BEI.PP3/10-2026 tanggal 29 Oktober 2026. Permintaan Bursa itu muncul setelah beredar pemberitaan soal pemanggilan dan pertemuan antara Pemerintah Singapura dengan pimpinan sejumlah grup usaha perkebunan dan agribisnis, termasuk satu grup yang terafiliasi dengan FAPA, pada 28 Oktober 2026 terkait penyelidikan kebakaran hutan dan lahan atau karhutla. Surat ini melengkapi tanggapan sebelumnya yang dikirim FAPA pada 15 Oktober 2026.",
+   "Dalam tanggapannya, FAPA menegaskan bahwa perseroan dan entitas anaknya tidak pernah menerima informasi keterlibatan dalam pembahasan, permintaan data, atau penelusuran fakta oleh Pemerintah Singapura. Berdasarkan informasi di situs Bursa Efek Singapura (SGX) pada 30 Oktober 2026, grup afiliasi yang disebut dalam pemberitaan hanya diminta memberikan penjelasan dan informasi, bukan menjadi tersangka. FAPA juga menyebutkan sistem pemantauan titik api yang dijalankannya sepanjang 2026: pemantauan satelit NASA FIRMS dan SIPONGI, peringatan dini BMKG, patroli lapangan, serta radius pemantauan 5 kilometer dari batas konsesi. Perseroan mencatat ada titik api di dalam dan sekitar areal konsesinya pada musim kering Agustus hingga Oktober 2026, namun belum menerima teguran, sanksi, atau hasil pemeriksaan dari instansi berwenang terkait kejadian itu.",
+   "Soal risiko ke depan, FAPA menyebut kemungkinan pembeli melakukan verifikasi tambahan atau bahkan menunda pembelian akibat pemberitaan ini, meski sampai saat surat diterbitkan belum ada pembeli yang menunda atau membatalkan transaksi. Perseroan juga menyinggung rencana Pemerintah Singapura mengamendemen Transboundary Haze Pollution Act agar ketidakkooperatifan perusahaan dalam penyelidikan bisa dikenai pidana. FAPA menyatakan belum mempelajari teks rancangan amendemen tersebut, namun menilai dampak hukum langsung terbatas karena berbadan hukum Indonesia dan tidak terdaftar di Singapura, meski dampak tidak langsung mungkin muncul lewat grup afiliasi atau mitra bisnis. Sebagai mitigasi, FAPA membentuk tim lintas fungsi internal, menyiapkan data room terverifikasi, protokol reviu hukum, serta memantau perkembangan legislasi dan berkomunikasi dengan pembeli utama. Perseroan menegaskan tidak ada kewajiban kontinjensi atau provisi yang perlu diakui dalam laporan keuangan terkait isu ini."
+  ],
+  "fotoAdegan": "A plantation worker walking along a cleared firebreak path at the edge of dense tropical forest, hazy morning light",
+  "takeaway": "Laporan ini netral bagi FAPA: perseroan membantah keterlibatan langsung dalam penyelidikan Singapura dan menegaskan belum ada dampak pada pendapatan, laba, aset, maupun arus kas, sementara belum ada pembeli yang membatalkan pesanan atau kreditur yang mempermasalahkan isu ini. Arus kas dan kewajiban kontinjensi disebut eksplisit dalam surat karena itu dua pos yang biasanya pertama kali bergerak kalau sebuah isu lingkungan berubah jadi sanksi atau tuntutan hukum, dan keduanya diklaim masih aman untuk saat ini. Yang perlu diawasi adalah risiko reputasi dan volatilitas harga saham akibat pemberitaan yang mengaitkan FAPA dengan grup terafiliasi, sebab hubungan dagang dengan pembeli ekspor sangat bergantung pada persepsi soal praktik lingkungan. Pemicu berikutnya adalah pembahasan amendemen Transboundary Haze Pollution Act di sidang Parlemen Singapura, yang kalau disahkan bisa memperluas kewajiban kepatuhan ke mitra bisnis perusahaan terdaftar Singapura, termasuk kemungkinan menyentuh grup afiliasi FAPA secara tidak langsung. FAPA sendiri berjanji akan menerbitkan keterbukaan informasi baru kalau ada perkembangan material dari isu ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bhit-anak-usaha-bcap-catat-laba-naik-18-6-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "BHIT: Anak Usaha [BCAP] Catat Laba Naik 18,6% di 9M-2026",
+  "deck": "PT MNC Kapital Indonesia Tbk (BCAP), anak usaha BHIT, membukukan laba bersih Rp182,28 miliar pada 9M-2026, naik 18,6% yoy meski pendapatan total turun tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T10:55:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/87691525dd_434a659425.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BHIT",
+  "tags": [
+   "BHIT",
+   "BCAP",
+   "MNC Kapital",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT MNC Asia Holding Tbk (BHIT) menyampaikan business update terkait anak usahanya, PT MNC Kapital Indonesia Tbk (BCAP), yang mencatat laba bersih konsolidasian Rp182,28 miliar untuk sembilan bulan pertama 2026 (9M-2026), naik 18,6 persen dibandingkan Rp153,71 miliar pada periode yang sama tahun sebelumnya. Kenaikan laba ini terjadi di tengah total pendapatan yang justru turun tipis 0,3 persen yoy menjadi Rp2,91 triliun dari Rp2,92 triliun. Kinerja BCAP ini berbeda arah dengan BHIT sendiri sebagai induk usaha, yang sehari sebelumnya melaporkan laba bersih kuartal III anjlok 89 persen dengan arus kas operasi minus.",
+   "Pendapatan bunga dan dividen tetap jadi penyumbang terbesar dengan kontribusi 54,9 persen atau Rp1,60 triliun, naik 2,1 persen yoy. Pendapatan jasa asuransi menyusul dengan kontribusi 31,7 persen atau Rp923,79 miliar, naik 10,7 persen yoy. Sebaliknya, pendapatan dari lini digital turun dari Rp284,43 miliar menjadi Rp205,94 miliar, dan pendapatan pasar modal turun dari Rp173,17 miliar menjadi Rp117,13 miliar. Laba sebelum pajak naik dari Rp154,36 miliar menjadi Rp191,85 miliar. Di sisi posisi keuangan, total aset BCAP turun dari Rp29,04 triliun pada akhir 2025 menjadi Rp26,86 triliun, liabilitas turun dari Rp23,62 triliun menjadi Rp21,50 triliun, sementara ekuitas turun tipis dari Rp5,42 triliun menjadi Rp5,36 triliun.",
+   "Di segmen perbankan, MNC Bank mencatat pendapatan bunga Rp1,16 triliun dengan rasio kecukupan modal (KPMM) 20,68 persen, serta meluncurkan tiga kartu kredit baru bersama JCB International dan PT Kawasaki Motor Indonesia. Di asuransi, premi MNC Life naik 9,5 persen yoy dan premi bruto MNC Insurance naik 10 persen yoy. Lini pembiayaan, MNC Finance dan MNC Leasing, mencatat aset gabungan Rp2,31 triliun dengan rasio pembiayaan bermasalah (NPF) terjaga di 2,49 persen dan pendapatan Rp305,84 miliar. Di pasar modal, MNC Sekuritas berada di peringkat ke-20 dari 90 perusahaan sekuritas berdasarkan volume transaksi, menambah jaringan menjadi 185 titik penjualan, dan meresmikan 23 Galeri Investasi BEI secara serentak pada kuartal III-2026 yang tercatat sebagai rekor MURI."
+  ],
+  "fotoAdegan": "Interior of a modern Jakarta bank branch with teller counters and customers waiting under soft overhead lighting",
+  "takeaway": "Laporan ini condong positif bagi kelompok usaha BHIT, karena anak usahanya BCAP membukukan kenaikan laba bersih dua digit sekaligus menurunkan utangnya, berbeda arah dari hasil BHIT sendiri yang baru sehari sebelumnya anjlok tajam. Yang perlu digarisbawahi, kenaikan laba ini terjadi walau pendapatan totalnya nyaris stagnan dan ekuitas, yaitu modal bersih milik pemegang saham setelah dikurangi utang, justru menyusut tipis dari Rp5,42 triliun menjadi Rp5,36 triliun, jadi labanya naik bukan karena bisnis utamanya membesar. Total aset dan liabilitas BCAP yang sama-sama turun menandakan perusahaan sedang menyusut skala pembiayaannya, bukan berekspansi. Yang layak dipantau selanjutnya adalah rencana inisiatif penguatan modal yang disebut perusahaan untuk mendukung ekspansi bisnis, karena opsi seperti penambahan modal baru lazim menambah jumlah saham BCAP yang beredar dan bisa mengecilkan porsi laba per saham bagi pemegang saham lama, sementara BCAP sendiri belum mengungkap skema atau tanggal pastinya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "keen-tegaskan-tak-terlibat-investigasi-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "KEEN Tegaskan Tak Terlibat Investigasi [Karhutla] Singapura",
+  "deck": "PT Kencana Energi Lestari Tbk menjawab permintaan penjelasan BEI soal investigasi karhutla yang menyeret afiliasinya, Kencana Agri, dan menegaskan tidak ada keterlibatan langsung.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T10:54:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ae7e0ca793_f92a24e6ed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KEEN",
+  "tags": [
+   "KEEN",
+   "Karhutla",
+   "Kencana Agri",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Kencana Energi Lestari Tbk (KEEN) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan lanjutan tertanggal 29 Oktober 2026, menyusul surat BEI No. S-13602/BEI.PP2/10-2026 terkait pemberitaan soal kebakaran hutan dan lahan (karhutla) yang melibatkan Kencana Agri Limited, perusahaan yang berafiliasi dengan KEEN. Dalam suratnya, KEEN menegaskan bahwa perseroan adalah entitas yang terpisah secara hukum dan operasional dari Kencana Agri, tanpa kesamaan proyek, kegiatan usaha, maupun karyawan. Hubungan afiliasi kedua perusahaan hanya terletak pada kesamaan pemegang saham pengendali dan rangkap jabatan Albert Maknawi, yang menjabat Presiden Komisaris KEEN sekaligus Chief Executive Officer Kencana Agri.",
+   "KEEN menjelaskan bahwa kehadiran Albert Maknawi dalam pertemuan dengan Pemerintah Singapura pada 28 Oktober 2026 dilakukan dalam kapasitasnya sebagai pimpinan Kencana Agri, bukan mewakili KEEN. Perseroan menyatakan tidak pernah menerima pemanggilan, permintaan data, klarifikasi, teguran, maupun hasil pemeriksaan dari Pemerintah Singapura atau otoritas lain terkait investigasi karhutla tersebut, baik untuk KEEN maupun entitas anaknya. KEEN juga menegaskan bahwa bisnis utamanya adalah pembangkit listrik energi terbarukan, bukan perkebunan atau agribisnis, sehingga rencana amendemen Transboundary Haze Pollution Act dinilai tidak berdampak langsung secara hukum maupun operasional terhadap perseroan, termasuk terhadap hubungan dengan para pembeli listriknya.",
+   "Terkait sisi keuangan, KEEN menyatakan belum mengidentifikasi adanya kewajiban kini, kewajiban kontinjensi, atau kebutuhan pencatatan provisi khusus dalam laporan keuangannya sehubungan dengan isu karhutla ini, dengan alasan tidak ada hubungan keuangan atau jaminan antara KEEN dan Kencana Agri. Perseroan menyatakan belum memandang perlu mengambil langkah mitigasi khusus, namun berkomitmen akan terus memantau perkembangan isu ini dan segera mengungkapkan apabila muncul informasi atau fakta material baru di kemudian hari."
+  ],
+  "fotoAdegan": "Small hydroelectric power station beside a forested river in rural Indonesia, workers in hard hats inspecting turbine machinery, overcast daylight",
+  "takeaway": "Laporan ini condong netral bagi KEEN, karena isinya adalah bantahan keterlibatan langsung, bukan kabar baik atau buruk baru soal kinerja perseroan. Pos yang disentuh adalah kewajiban kontinjensi dan provisi, yaitu potensi beban atau tanggungan hukum yang seharusnya dicatat di laporan keuangan kalau ada risiko nyata; KEEN menyatakan belum menemukan dasar untuk mencatatnya karena tidak ada ikatan keuangan dengan Kencana Agri. Pelaku pasar memperhatikan pos ini karena kalau nanti KEEN ternyata ikut terseret secara hukum, biaya tak terduga bisa muncul dan menggerus laba. Yang perlu dipantau selanjutnya adalah perkembangan investigasi Pemerintah Singapura terhadap Kencana Agri, karena surat ini sendiri tidak mencantumkan tenggat baru, hanya komitmen KEEN untuk mengungkapkan secara terbuka kalau muncul fakta material baru. Rangkap jabatan Albert Maknawi di dua perusahaan tetap jadi titik yang layak diawasi meski KEEN menyebut operasionalnya terpisah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "live-laba-bersih-anjlok-73-jadi-rp2-83-miliar",
+  "category": "Aksi Korporasi",
+  "title": "LIVE: Laba Bersih [Anjlok] 73% Jadi Rp2,83 Miliar",
+  "deck": "Pendapatan Homeco Victoria Makmur turun 36 persen jadi Rp131,2 miliar dalam sembilan bulan 2026, menggerus laba bersih ke Rp2,83 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T10:34:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103104807-65624-0/FinancialStatement-2026-III-LIVE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LIVE",
+  "tags": [
+   "LIVE",
+   "laporan keuangan",
+   "consumer cyclicals",
+   "household goods"
+  ],
+  "body": [
+   "PT Homeco Victoria Makmur Tbk (LIVE) membukukan pendapatan Rp131,22 miliar untuk sembilan bulan pertama 2026, turun 36 persen dibandingkan Rp204,97 miliar pada periode yang sama tahun lalu. Penurunan pendapatan ini menggerus laba kotor emiten produsen barang rumah tangga berbahan plastik ini menjadi Rp56,55 miliar, dari sebelumnya Rp84,26 miliar. Setelah dikurangi beban usaha dan beban bunga pinjaman bank sebesar Rp10,34 miliar, laba bersih perusahaan anjlok 73 persen menjadi Rp2,83 miliar, dari Rp10,31 miliar pada sembilan bulan pertama 2025.",
+   "Di sisi laporan posisi keuangan per akhir September 2026, total aset LIVE tercatat Rp516,93 miliar, turun tipis dari Rp526,71 miliar pada akhir 2025. Total liabilitas turun 6,6 persen menjadi Rp179,49 miliar, salah satunya karena cicilan utang bank jangka pendek yang jatuh tempo dalam setahun berkurang dari Rp155,01 miliar menjadi Rp142,28 miliar. Ekuitas perusahaan justru naik tipis menjadi Rp337,44 miliar. Kas dan setara kas perusahaan naik hampir dua kali lipat, dari Rp2,66 miliar menjadi Rp5,12 miliar, ditopang arus kas dari aktivitas operasi yang berbalik menjadi positif Rp7,46 miliar, dari sebelumnya negatif Rp16,13 miliar pada periode yang sama tahun lalu.",
+   "Laporan ini juga mencantumkan informasi anak usaha, PT Trisinar Indopratama, yang bergerak di industri barang plastik untuk pengemasan, mainan anak-anak, serta perlengkapan rumah tangga di Tangerang dan telah beroperasi komersial sejak 1995. LIVE menguasai 99,92 persen saham perusahaan tersebut, dengan total aset anak usaha itu tercatat Rp230,96 miliar. Laporan keuangan kuartal III 2026 ini disampaikan dalam bentuk tidak diaudit, dengan surat pernyataan direksi bertanggal 2 November 2026."
+  ],
+  "fotoAdegan": "Workers monitoring an automated plastic injection molding line producing household containers in an Indonesian factory, daytime shift.",
+  "takeaway": "Laporan ini condong negatif bagi LIVE, karena penurunan pendapatan dan laba bersih yang tajam menunjukkan tekanan nyata pada bisnis inti perusahaan, meski ada secercah perbaikan di sisi kas. Pos yang paling tersentuh adalah laba bersih dan arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan jual beli sehari-hari perusahaan, bukan dari pinjaman atau suntikan modal pemegang saham. Arus kas operasi yang berbalik menjadi positif berarti perusahaan kini bisa membiayai kegiatan usahanya dari hasil penjualan sendiri, bukan lagi menombok dari kas cadangan seperti setahun sebelumnya, sinyal yang sedikit meredam kekhawatiran dari merosotnya laba. Yang perlu dipantau pelaku pasar selanjutnya adalah laporan keuangan tahun penuh 2026, untuk melihat apakah penurunan pendapatan di kuartal ketiga ini berlanjut atau membaik, serta kemampuan perusahaan melunasi cicilan utang bank jangka pendek senilai Rp142,28 miliar yang jatuh tempo dalam setahun ke depan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "halo-jadwalkan-rupslb-pada-10-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "HALO Jadwalkan [RUPSLB] pada 10 Desember 2026",
+  "deck": "Haloni Jane Tbk akan menggelar rapat pemegang saham luar biasa 10 Desember 2026, dengan tanggal pencatatan pemegang saham pada 17 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T10:01:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f92c3d1c8d_4806463437.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HALO",
+  "tags": [
+   "HALO",
+   "RUPSLB",
+   "Haloni Jane",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Haloni Jane Tbk (HALO) menyampaikan kepada Otoritas Jasa Keuangan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada Kamis, 10 Desember 2026 pukul 10.00 WIB di Gedung Shamrock, eks Gedung Soman, Lantai 3, Jalan Angkasa 35, Gunung Sahari. Pemberitahuan ini merujuk pada surat sebelumnya bernomor 634/HJ-Tbk/X/2026 dan ditandatangani oleh Direktur Perseroan, Juliana, pada 3 November 2026.",
+   "Perseroan menetapkan 17 November 2026 pukul 16.00 WIB sebagai batas waktu pencatatan nama pemegang saham di Daftar Pemegang Saham. Hanya pemegang saham yang namanya sudah tercatat sampai tanggal dan jam tersebut yang berhak hadir dan memberikan suara dalam rapat. Pemanggilan resmi berisi agenda lengkap rapat baru akan diumumkan melalui situs web PT Kustodian Sentral Efek Indonesia, situs Bursa Efek Indonesia, dan situs resmi Haloni Jane pada Rabu, 18 November 2026.",
+   "Dokumen ini juga mengingatkan hak pemegang saham minoritas. Satu pemegang saham atau lebih yang bersama-sama memegang minimal 1/20 atau 5 persen dari seluruh saham berhak suara dapat mengusulkan mata acara rapat secara tertulis kepada Direksi, paling lambat tujuh hari sebelum tanggal pemanggilan resmi, yaitu sekitar 11 November 2026. Usulan itu harus diajukan dengan itikad baik, mempertimbangkan kepentingan Perseroan, menyertakan alasan dan bahan pendukung, serta tidak melanggar aturan yang berlaku."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs facing a podium in a quiet corporate meeting hall, soft morning light through tall windows",
+  "takeaway": "Penilaian saya netral, karena dokumen ini baru memberitahukan jadwal dan tata cara rapat, sementara agenda sesungguhnya yang akan diputuskan belum diungkap sama sekali. RUPSLB semacam ini biasanya dipakai emiten untuk memutuskan hal yang bisa menyentuh ekuitas, yaitu modal bersih perusahaan, atau jumlah saham beredar, misalnya lewat penambahan modal atau perubahan susunan pengurus, tapi tanpa agenda yang jelas pasar belum punya dasar untuk menilai dampaknya ke Haloni Jane. Yang perlu dipantau adalah pemanggilan resmi berisi agenda lengkap pada 18 November 2026, serta tenggat pencatatan pemegang saham pada 17 November 2026 bagi yang ingin tetap punya hak suara saat rapat berlangsung pada 10 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "esdm-ubah-aturan-tambang-prioritaskan-pengusaha-daerah",
   "category": "Energi",
   "title": "ESDM [Ubah] Aturan Tambang, Prioritaskan Pengusaha Daerah",
@@ -57,6 +344,33 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Perubahan konkretnya ada di cara pemerintah membagi jatah produksi: lewat RKAB, semacam izin rencana kerja dan anggaran tahunan tambang, Kementerian ESDM sengaja menahan volume produksi batu bara agar harganya tidak jatuh. Yang menarik, jumlah perusahaan pemegang jatah ini justru naik dari sekitar 500 pada 2025 menjadi 650 pada 2026, artinya kuota yang dibatasi itu dibagi ke makin banyak pemain, bukan dipegang segelintir perusahaan besar saja. Pihak yang langsung terdampak adalah perusahaan tambang batu bara yang harus menyesuaikan target produksinya dengan jatah baru itu, sementara penerimaan negara dari sektor ini, yang menurut Kementerian ESDM sudah Rp141 triliun per awal Oktober 2026 dan diproyeksikan Rp160-165 triliun di akhir tahun, ikut jadi taruhannya. Arahnya terlihat menuju pengaturan pasokan lewat kuota tahunan yang makin terukur, bukan patokan harga langsung, setelah upaya menaikkan Harga Batubara Acuan lewat aturan sebelumnya disebut tidak dipatuhi pelaku usaha. Yang akan menunjukkan apakah pendekatan ini bertahan adalah apakah proyeksi penerimaan Rp160-165 triliun itu benar tercapai di akhir 2026, dan apakah harga batu bara bertahan di kisaran US$154 ketika jatah RKAB 2027 disusun.",
   "imageV": "mw03sxpl"
+ },
+ {
+  "slug": "bcap-laba-bersih-naik-18-6-pendapatan-turun-tipis-di-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "BCAP: Laba Bersih Naik 18,6%, [Pendapatan] Turun Tipis di 9M-2026",
+  "deck": "Laba bersih BCAP naik 18,6% jadi Rp182,28 miliar pada 9M-2026, tapi pendapatan konsolidasi turun tipis dan aset perusahaan menyusut dibanding akhir 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T09:52:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a4e3a30f7_4b9a8b12b2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BCAP",
+  "tags": [
+   "BCAP",
+   "MNC Kapital",
+   "laba bersih",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT MNC Kapital Indonesia Tbk (BCAP) mencatat laba bersih konsolidasi Rp182,28 miliar untuk sembilan bulan pertama 2026 (9M-2026), naik 18,6% dibandingkan Rp153,71 miliar pada periode yang sama tahun lalu. Laba sebelum pajak naik lebih tajam lagi, 24,3%, dari Rp154,36 miliar menjadi Rp191,85 miliar. Kenaikan laba ini terjadi di tengah total pendapatan konsolidasi yang justru turun 0,3% menjadi Rp2,91 triliun, dari sebelumnya Rp2,92 triliun.",
+   "Dari sisi pendapatan, kontributor terbesar tetap bunga dan dividen senilai Rp1,60 triliun atau 54,9% dari total pendapatan, naik 2,1% dibanding tahun lalu. Pendapatan jasa asuransi menyumbang Rp923,79 miliar atau 31,7%, tumbuh 10,7%. Namun dua lini lainnya tercatat turun: pendapatan digital anjlok dari Rp284,43 miliar menjadi Rp205,94 miliar, sementara pendapatan pasar modal turun dari Rp173,17 miliar menjadi Rp117,13 miliar. Di sisi neraca, total aset konsolidasi BCAP menyusut dari Rp29,04 triliun pada akhir 2025 menjadi Rp26,86 triliun per September 2026, liabilitas turun dari Rp23,62 triliun menjadi Rp21,50 triliun, dan ekuitas turun dari Rp5,42 triliun menjadi Rp5,36 triliun.",
+   "Di segmen perbankan, MNC Bank membukukan pendapatan bunga Rp1,16 triliun dengan rasio kewajiban penyediaan modal minimum (KPMM) di level 20,68%, serta meluncurkan tiga kartu kredit baru bekerja sama dengan JCB International dan PT Kawasaki Motor Indonesia. Di segmen asuransi, premi MNC Life tumbuh 9,5% dan premi MNC Insurance tumbuh 10%. Segmen pembiayaan mencatat total aset MNC Finance dan MNC Leasing sebesar Rp2,31 triliun dengan rasio kredit bermasalah (NPF) 2,49% dan pendapatan Rp305,84 miliar. Di pasar modal, MNC Sekuritas berada di peringkat ke-20 dari 90 perusahaan sekuritas berdasarkan volume transaksi, memperluas jaringan menjadi 185 titik penjualan, dan meresmikan 23 Galeri Investasi BEI secara serentak pada kuartal III 2026 yang tercatat sebagai rekor MURI.",
+   "BCAP menyatakan akan memprioritaskan pertumbuhan yang disiplin, transformasi digital, dan kemitraan strategis ke depan, termasuk rencana inisiatif penguatan modal untuk mendukung ekspansi bisnis. Perusahaan belum merinci skema atau jadwal pelaksanaan rencana penguatan modal tersebut dalam siaran pers ini."
+  ],
+  "fotoAdegan": "Bank customer service counters inside a modern Jakarta branch, clerks assisting clients under soft overhead lighting",
+  "takeaway": "Laporan ini netral: laba bersih BCAP memang melesat 18,6%, tapi kenaikan itu tidak ditopang pertumbuhan bisnis inti karena total pendapatan konsolidasi malah turun tipis 0,3%, dan dua lini usaha, pendapatan digital serta pasar modal, masing-masing anjlok sekitar 28% dan 32% dibanding tahun lalu. Yang perlu dicermati investor adalah ekuitas, yaitu modal sendiri perusahaan setelah dikurangi utang, yang justru menyusut dari Rp5,42 triliun menjadi Rp5,36 triliun, sejalan dengan total aset yang turun dari Rp29,04 triliun menjadi Rp26,86 triliun dibanding akhir 2025. Penyusutan aset dan ekuitas yang berbarengan dengan kenaikan laba biasanya menandakan efisiensi biaya atau penyusutan portofolio, bukan ekspansi bisnis baru. BCAP sendiri menyebut rencana inisiatif penguatan modal untuk mendukung ekspansi ke depan, tapi belum merinci skema atau tanggalnya, sehingga pengumuman detail rencana itu yang perlu ditunggu publik selanjutnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "harga-emas-antam-naik-rp10-000-jadi-rp2-541-000-gram",

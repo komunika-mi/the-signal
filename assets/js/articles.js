@@ -3,6 +3,57 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "post-batalkan-rupo-dan-rupsi-tunggu-audit-kelar",
+  "category": "Aksi Korporasi",
+  "title": "POST Batalkan RUPO dan RUPSI, Tunggu [Audit] Kelar",
+  "deck": "PT Pos Indonesia membatalkan RUPO Obligasi 2022 dan dua RUPSI karena audit laporan keuangan belum tuntas, menyusul downgrade Fitch ke status gagal bayar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T09:25:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e8f16fe0d6_c9fb50ede8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "obligasi",
+   "sukuk",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Pos Indonesia (Persero) membatalkan rencana penyelenggaraan tiga rapat pemegang surat utang yang sedianya berlangsung pada Selasa, 17 November 2026. Ketiganya adalah Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi I Pos Indonesia Tahun 2022, serta dua Rapat Umum Pemegang Sukuk Ijarah (RUPSI) untuk Sukuk Ijarah Berkelanjutan I Tahap I Tahun 2024 dan Tahap II Tahun 2025. Pembatalan disampaikan oleh wali amanat, PT Bank Tabungan Negara (Persero) Tbk, melalui tiga pengumuman terpisah pada 3 November 2026, dan dikonfirmasi lewat surat resmi perseroan bernomor 247/TreasuryandTax/11/2026 yang ditandatangani Corporate Secretary Iwan Gunawan.",
+   "Alasan yang disampaikan sama untuk ketiga rapat, yaitu perseroan masih dalam proses finalisasi audit laporan keuangan. Penyelesaian audit itu disebut diperlukan agar tersedia informasi keuangan yang akurat dan memadai sebagai dasar pembahasan serta pengambilan keputusan oleh pemegang obligasi maupun pemegang sukuk ijarah. Sebagai konsekuensinya, pengumuman RUPO dan RUPSI yang sebelumnya telah dimuat di surat kabar Media Indonesia pada 20 Oktober 2026 juga ikut dibatalkan, dan sampai saat ini perseroan belum mengumumkan jadwal pengganti untuk ketiga rapat tersebut."
+  ],
+  "fotoAdegan": "Exterior of a postal logistics depot with delivery trucks lined up, overcast afternoon light, no visible signage text",
+  "takeaway": "Laporan ini negatif bagi Pos Indonesia, sebab pembatalan tiga rapat pemegang utang sekaligus karena audit yang belum kelar muncul persis sepekan setelah Fitch menurunkan peringkat obligasi perseroan ke status gagal bayar. RUPO dan RUPSI adalah forum di mana pemegang obligasi dan sukuk ijarah mengambil keputusan soal nasib pembayaran utang mereka, termasuk kemungkinan restrukturisasi, jadi tertundanya rapat berarti kepastian bagi kreditor ikut tertunda, sementara audit yang belum selesai bisa menandakan ada pos keuangan yang masih dibenahi. Yang perlu dipantau selanjutnya adalah kapan audit laporan keuangan itu rampung dan jadwal baru RUPO serta RUPSI ditetapkan, karena perseroan belum menyebut tanggal pengganti setelah pembatalan 17 November 2026 ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "boss-semester-i-2026-masih-nihil-penjualan-defisit-melebar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Semester I/2026: Masih Nihil Penjualan, [Defisit] Melebar",
+  "deck": "Defisiensi modal BOSS melebar jadi Rp265,81 miliar per Juni 2026, dari Rp260,16 miliar akhir 2025, sementara penjualan bersih tetap nol sepanjang semester pertama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T09:00:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103091006-65703-0/FinancialStatement-2026-II-BOSS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "defisiensi modal",
+   "laporan keuangan interim",
+   "batu bara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Bursa Efek Indonesia. Surat Pernyataan Direksi ditandatangani Direktur Utama Freddy Tedjasasmita dan Direktur Widodo Nurly Sumady pada 3 November 2026. Sama seperti periode yang sama tahun lalu, perusahaan tidak mencatat penjualan bersih sama sekali selama enam bulan tersebut, sehingga laba kotor pun nihil.",
+   "Rugi bersih periode berjalan tercatat Rp6,13 miliar, menyusut dari Rp7,56 miliar pada semester I 2025. Namun penyusutan rugi ini tidak membuat defisiensi modal, alias ekuitas negatif perusahaan, ikut mengecil. Defisiensi modal justru melebar menjadi Rp265,81 miliar per 30 Juni 2026, dari Rp260,16 miliar per akhir Desember 2025, selisih sekitar Rp5,65 miliar. Total aset turun menjadi Rp553,50 miliar dari Rp559,16 miliar, sementara total liabilitas relatif stagnan di Rp819,31 miliar. Rugi per saham dasar tercatat Rp4,38, membaik dari Rp5,40 pada semester I 2025.",
+   "Dari sisi kas, arus kas operasi yang terpakai mengecil tajam menjadi Rp9,83 miliar dari Rp91,93 miliar pada semester I 2025, terutama karena perusahaan tidak lagi membayar dalam jumlah besar ke pemasok. Kekurangan kas itu ditutup dari aktivitas pendanaan sebesar Rp8,07 miliar, sebagian besar berupa penerimaan utang pihak ketiga Rp7,89 miliar. Saldo kas akhir periode hanya Rp731,62 juta. Perseroan, yang sahamnya berada di papan Pemantauan Khusus (Watchlist) bursa, memiliki lima entitas anak di bidang pertambangan dan perdagangan batu bara, dua di antaranya masih berstatus pra-operasi sejak 2023."
+  ],
+  "fotoAdegan": "Idle coal mining excavator parked on a muddy pit road under an overcast sky, no workers in sight, wide documentary shot",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena defisiensi modal yang terus melebar menunjukkan utang perusahaan sudah jauh melampaui asetnya, sementara penjualan tetap nihil selama enam bulan berturut-turut tanpa tanda produksi batu bara berjalan. Pos yang tersentuh adalah ekuitas, yakni modal pemegang saham yang sudah negatif sehingga secara akuntansi aset perusahaan tak cukup menutup utangnya, serta arus kas operasi, yang menunjukkan seberapa cepat kas perusahaan terkuras untuk kegiatan sehari-hari. Satu catatan positif kecil, kas yang terpakai untuk operasi jauh lebih sedikit dibanding setahun lalu, tetapi ini lebih mencerminkan minimnya aktivitas sama sekali ketimbang perbaikan kinerja usaha. Yang perlu dipantau berikutnya adalah apakah laporan keuangan audit tahun buku 2026, yang biasanya terbit pada awal tahun berikutnya, mengonfirmasi angka interim ini, serta apakah dua anak usaha tambang yang sudah berstatus operasi, PT Bangun Olahsarana Sukses dan PT Pratama Bersama, akhirnya mulai mencatat penjualan setelah bertahun-tahun nihil.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "midi-tebar-dividen-interim-rp127-miliar-rp3-8-per-saham",
   "category": "Aksi Korporasi",
   "title": "MIDI Tebar [Dividen] Interim Rp127 Miliar, Rp3,8 per Saham",

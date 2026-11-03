@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "post-batalkan-rupo-dan-rupsi-tunggu-audit-kelar",
+  "category": "Aksi Korporasi",
+  "title": "POST Batalkan RUPO dan RUPSI, Tunggu [Audit] Kelar",
+  "deck": "PT Pos Indonesia membatalkan RUPO Obligasi 2022 dan dua RUPSI karena audit laporan keuangan belum tuntas, menyusul downgrade Fitch ke status gagal bayar.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "obligasi",
+   "sukuk",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e8f16fe0d6_c9fb50ede8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-semester-i-2026-masih-nihil-penjualan-defisit-melebar",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Semester I/2026: Masih Nihil Penjualan, [Defisit] Melebar",
+  "deck": "Defisiensi modal BOSS melebar jadi Rp265,81 miliar per Juni 2026, dari Rp260,16 miliar akhir 2025, sementara penjualan bersih tetap nol sepanjang semester pertama.",
+  "date": "3 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "defisiensi modal",
+   "laporan keuangan interim",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103091006-65703-0/FinancialStatement-2026-II-BOSS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "midi-tebar-dividen-interim-rp127-miliar-rp3-8-per-saham",
   "category": "Aksi Korporasi",
   "title": "MIDI Tebar [Dividen] Interim Rp127 Miliar, Rp3,8 per Saham",
@@ -6442,38 +6474,6 @@ var ARTICLES = [
    "Chandra Asri"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1d73a13419_029036c795.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bgtg-rombak-direksi-dan-komisaris-tiga-wajah-baru",
-  "category": "Aksi Korporasi",
-  "title": "BGTG [Rombak] Direksi dan Komisaris, Tiga Wajah Baru",
-  "deck": "Bank Ganesha mengangkat dua direktur baru dan satu komisaris baru efektif 21 Oktober 2026, sementara jajaran pimpinan utama tidak berubah.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BGTG",
-   "Bank Ganesha",
-   "direksi",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/16e1cb20b5_38f77c63b3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inpp-cetak-laba-rp170-6-miliar-berbalik-dari-rugi-tahun-lalu",
-  "category": "Aksi Korporasi",
-  "title": "INPP Cetak Laba Rp170,6 Miliar, Berbalik dari [Rugi] Tahun Lalu",
-  "deck": "Laporan keuangan interim INPP per September 2026 menunjukkan laba bersih Rp170,6 miliar, berbalik dari rugi Rp21,4 miliar tahun lalu, didorong arus kas operasi yang melonjak.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPP",
-   "laporan keuangan",
-   "properti",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028170408-65015-0/FinancialStatement-2026-III-INPP.pdf",
   "sourceLabel": "IDX"
  }
 ];

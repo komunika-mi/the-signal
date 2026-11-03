@@ -5,6 +5,59 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smelter-menjamur-esdm-kaji-pembatasan-produk-setengah-jadi",
+  "category": "Industri",
+  "title": "Smelter Menjamur, ESDM Kaji [Pembatasan] Produk Setengah Jadi",
+  "deck": "Pemerintah mengkaji apakah smelter yang baru menghasilkan produk setengah jadi masih bisa terus dibangun bebas, atau wajib diarahkan sampai produk akhir.",
+  "date": "3 November 2026",
+  "image": "assets/img/smelter-menjamur-esdm-kaji-pembatasan-produk-setengah-jadi.jpg",
+  "imageV": "mw0h115x",
+  "tags": [
+   "smelter",
+   "hilirisasi",
+   "nikel",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/smelter-membludak-produknya-masih-setengah-jadi-pemerintah-siapkan-kajian",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "harga-nikel-melorot-pemerintah-perketat-izin-produksi",
+  "category": "Energi",
+  "title": "Harga Nikel Melorot, Pemerintah [Perketat] Izin Produksi",
+  "deck": "Kelebihan pasokan nikel hampir 800 ribu ton membuat harga turun ke bawah US$16.000 per ton; pemerintah akan mengetatkan RKAB untuk menahan produksi.",
+  "date": "3 November 2026",
+  "image": "assets/img/harga-nikel-melorot-pemerintah-perketat-izin-produksi.jpg",
+  "imageV": "mw0h12pr",
+  "tags": [
+   "nikel",
+   "RKAB",
+   "ESDM",
+   "Bahlil Lahadalia"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasokan-nikel-berlebih-bahlil-siapkan-pengetatan-rkab-untuk-jaga-harga",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "harga-cabai-melonjak-ke-rp124-ribu-mendag-sebut-faktor-cuaca",
+  "category": "Makroekonomi",
+  "title": "Harga Cabai [Melonjak] ke Rp124 Ribu, Mendag Sebut Faktor Cuaca",
+  "deck": "Harga cabai rawit merah tembus Rp124.400 per kg akibat kemarau panjang, pemerintah kirim stok antar daerah untuk menambal kekurangan pasokan.",
+  "date": "3 November 2026",
+  "image": "assets/img/harga-cabai-melonjak-ke-rp124-ribu-mendag-sebut-faktor-cuaca.jpg",
+  "imageV": "mw0h135r",
+  "tags": [
+   "harga cabai",
+   "cuaca ekstrem",
+   "Kemendag",
+   "pasokan pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476392-harga-cabai-merah-melonjak-tembus-rp124-ribu-mendag-faktor-cuaca"
+ },
+ {
   "slug": "wika-disuspensi-bursa-usai-gagal-bayar-kupon-obligasi",
   "category": "Aksi Korporasi",
   "title": "WIKA [Disuspensi] Bursa Usai Gagal Bayar Kupon Obligasi",
@@ -6428,54 +6481,6 @@ var ARTICLES = [
    "IFG Life"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2ad8ce9128_32fc52d4cc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msin-jelaskan-ke-bei-piutang-naik-rencana-saham-baru-di-hkex",
-  "category": "Aksi Korporasi",
-  "title": "MSIN Jelaskan ke BEI: Piutang Naik, Rencana [Saham Baru] di HKEX",
-  "deck": "MSIN menjawab permintaan Bursa soal piutang yang melonjak dan rencana penerbitan saham baru hingga 10 persen untuk pencatatan sekunder di Hong Kong.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSIN",
-   "HKEX",
-   "piutang usaha",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/29940a5879_8035011885.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbmf-gelar-rupst-4-desember-akui-telat-laporan-tahunan",
-  "category": "Aksi Korporasi",
-  "title": "CBMF Gelar RUPST 4 Desember, Akui [Telat] Laporan Tahunan",
-  "deck": "CBMF memanggil RUPST pada 4 Desember 2026, salah satu agendanya meminta persetujuan pemegang saham atas keterlambatan penyampaian laporan tahunan 2025.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBMF",
-   "RUPST",
-   "Laporan Tahunan",
-   "Tata Kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1ca17d38fa_5da90647dd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbmf-ubah-jadwal-rupst-catat-dps-27-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "CBMF Ubah Jadwal RUPST, Catat [DPS] 27 Oktober 2026",
-  "deck": "Cahaya Bintang Medan menetapkan RUPST tahun buku 2025 digelar Jumat, 4 Desember 2026 di Jakarta Selatan, dengan pemegang saham per 27 Oktober 2026 yang berhak hadir.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBMF",
-   "RUPST",
-   "jadwal rapat",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/190c8e52bc_94063318a9.pdf",
   "sourceLabel": "IDX"
  }
 ];

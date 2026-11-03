@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "YXhNqgtVbmU",
+  "title": "KKP Matangkan Kampung Nelayan Merah Putih untuk Dorong Ekonomi Nelayan",
+  "category": "UMKM",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Kelautan dan Perikanan terus mematangkan Program Kampung Nelayan Merah Putih sebagai upaya mendorong peningkatan ekonomi masyarakat nelayan.",
+  "takeaway": "Menunjukkan arah kebijakan pemerintah dalam memberdayakan ekonomi sektor perikanan dan masyarakat pesisir.",
+  "terbit": "2026-11-03T09:02:25+00:00"
+ },
+ {
+  "id": "JvZFTOm8e4s",
+  "title": "Presiden Prabowo Gelar Ratas Bahas Kondisi Ekonomi di Istana",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Presiden Prabowo Subianto memimpin rapat terbatas bidang ekonomi bersama sejumlah menteri kabinet dan kepala lembaga di Istana Kepresidenan, Jakarta.",
+  "takeaway": "Rapat tingkat tinggi ini penting diikuti karena berpotensi menjadi acuan arah kebijakan ekonomi pemerintah ke depan.",
+  "terbit": "2026-11-03T08:29:48+00:00"
+ },
+ {
+  "id": "hhmATb2CzUQ",
+  "title": "Wapres Gibran Rakabuming Raka Dialog dengan Petani Kakao di Mamuju",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Wakil Presiden Gibran Rakabuming Raka berdialog dengan para petani kakao di Mamuju, Sulawesi Barat, membahas sejumlah hal terkait komoditas kakao.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut nasib petani dan komoditas kakao yang menjadi salah satu andalan ekspor Indonesia.",
+  "terbit": "2026-11-03T08:22:40+00:00"
+ },
+ {
   "id": "OK2y12-bjTs",
   "title": "Presiden Prabowo Pimpin Ratas Bahas Perkembangan Ekonomi",
   "category": "Makroekonomi",

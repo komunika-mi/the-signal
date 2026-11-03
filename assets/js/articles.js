@@ -3,6 +3,89 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smelter-menjamur-esdm-kaji-pembatasan-produk-setengah-jadi",
+  "category": "Industri",
+  "title": "Smelter Menjamur, ESDM Kaji [Pembatasan] Produk Setengah Jadi",
+  "deck": "Pemerintah mengkaji apakah smelter yang baru menghasilkan produk setengah jadi masih bisa terus dibangun bebas, atau wajib diarahkan sampai produk akhir.",
+  "image": "assets/img/smelter-menjamur-esdm-kaji-pembatasan-produk-setengah-jadi.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T09:07:40.522Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/smelter-membludak-produknya-masih-setengah-jadi-pemerintah-siapkan-kajian",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "smelter",
+   "hilirisasi",
+   "nikel",
+   "ESDM"
+  ],
+  "body": [
+   "Pemerintah sedang mengkaji ulang arah pembangunan smelter mineral setelah menemukan bahwa mayoritas pabrik yang sudah berdiri ternyata hanya menghasilkan produk setengah jadi. Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga Menteri ESDM, Bahlil Lahadalia, menyebut jumlah smelter terus bertambah pesat, tetapi produknya masih berhenti di tahap pengolahan sekitar 50 sampai 60 persen. Hal ini penting bagi pembaca karena menyangkut apakah nilai tambah dari sumber daya mineral Indonesia benar-benar dinikmati di dalam negeri atau sebagian besar masih mengalir keluar dalam bentuk bahan antara.",
+   "Pernyataan itu disampaikan Bahlil saat membuka Mineral dan Batubara Convention-Expo (Minerba Convex) 2026 di JIExpo Kemayoran, Jakarta, Senin (2/11). Ia meminta dilakukan kajian untuk menimbang apakah pembangunan smelter yang hanya menghasilkan produk antara masih perlu dibuka seluas sekarang, atau diarahkan agar pelakunya melanjutkan produksi sampai produk akhir. Tujuannya, kata Bahlil, agar bahan baku setengah jadi tidak semuanya diekspor dan Indonesia mendapat manfaat ekonomi yang lebih utuh.",
+   "Bahlil menjadikan pengalaman hilirisasi nikel sebagai acuan. Pada periode 2017-2019, nilai ekspor nikel Indonesia hanya sekitar US$3,3 miliar. Setelah pemerintah menyetop ekspor bijih nikel mentah dan mendorong pembangunan industri pengolahan di dalam negeri, nilai ekspornya melonjak menjadi sekitar US$34 miliar. Ia juga menyinggung ekosistem baterai kendaraan listrik yang kini terintegrasi dari tambang, smelter, prekursor, katoda, hingga baterai, dengan tiga pabrik baterai sudah berdiri termasuk satu di Karawang yang diresmikan pada 2024, dan Amerika Serikat kini memperoleh bahan baku prekursor serta katoda dari Indonesia.",
+   "Direktur Jenderal Mineral dan Batubara Tri Winarno menambahkan, langkah berikutnya adalah memperdalam rantai industri menuju produk dengan nilai tambah lebih tinggi, termasuk bahan antara dan komponen untuk industri baterai. Kajian ini menjadi penanda bahwa fokus kebijakan hilirisasi mulai bergeser dari sekadar melarang ekspor bahan mentah, menjadi memastikan pengolahan berlanjut sampai produk akhir."
+  ],
+  "fotoAdegan": "Workers in heat-resistant gear monitoring a glowing metal smelting furnace inside an industrial plant hall",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-smelter-membludak-produknya-masih-setengah-jadi-pemerintah-siapkan-kajian-q67o6t1.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini belum berupa aturan, melainkan sinyal bahwa pemerintah mulai menimbang apakah smelter yang cuma menghasilkan barang setengah jadi, seperti produk olahan nikel yang belum sampai bentuk akhir, akan tetap bebas dibangun atau ke depan wajib dilanjutkan sampai produk jadi seperti katoda dan baterai. Kalau kajian ini berlanjut jadi aturan, yang paling terasa dampaknya adalah pengusaha dan investor yang sudah membangun atau berencana membangun smelter sebatas produk antara, karena mereka bisa diminta menambah investasi ke tahap hilir atau menghadapi batasan baru pada produk setengah jadi. Sampai saat ini baru ada dua kemungkinan arah: pemerintah akhirnya menerbitkan aturan yang mewajibkan integrasi sampai produk akhir, mengikuti pola yang sudah dipakai pada ekosistem baterai kendaraan listrik, atau kajian ini berhenti jadi wacana karena menyangkut investasi besar yang sudah berjalan di banyak smelter. Yang akan menentukan arah mana yang terjadi adalah hasil kajian itu sendiri, termasuk apakah Kementerian ESDM atau Kementerian Koordinator Hilirisasi mengeluarkan aturan turunan soal pembatasan smelter produk antara dalam waktu dekat.",
+  "imageV": "mw0h115x"
+ },
+ {
+  "slug": "harga-nikel-melorot-pemerintah-perketat-izin-produksi",
+  "category": "Energi",
+  "title": "Harga Nikel Melorot, Pemerintah [Perketat] Izin Produksi",
+  "deck": "Kelebihan pasokan nikel hampir 800 ribu ton membuat harga turun ke bawah US$16.000 per ton; pemerintah akan mengetatkan RKAB untuk menahan produksi.",
+  "image": "assets/img/harga-nikel-melorot-pemerintah-perketat-izin-produksi.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T09:07:39.626Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasokan-nikel-berlebih-bahlil-siapkan-pengetatan-rkab-untuk-jaga-harga",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "nikel",
+   "RKAB",
+   "ESDM",
+   "Bahlil Lahadalia"
+  ],
+  "body": [
+   "Harga nikel dunia tertekan akibat membanjirnya produksi dari Indonesia, pemegang cadangan nikel terbesar global. Pemerintah, melalui Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga Menteri ESDM Bahlil Lahadalia, menyiapkan pengetatan Rencana Kerja dan Anggaran Biaya (RKAB) sebagai instrumen untuk membatasi produksi perusahaan tambang. Langkah ini penting bagi pelaku usaha nikel karena menyangkut kuota produksi yang bisa dipangkas demi menjaga harga jual.",
+   "Bahlil menyebut harga nikel saat ini berada di kisaran US$15.800 per ton, turun dari ambang US$16.000 per ton, akibat pasokan yang melebihi kebutuhan pasar. Menurut hitungannya, konsumsi nikel dunia hanya sekitar 3,5 juta ton per tahun, sementara pasokan saat ini melampaui kebutuhan itu hampir 800 ribu ton. Ia memperingatkan bahwa produksi berlebih berisiko membuat nikel Indonesia dibeli murah oleh negara tertentu, ditimbun, lalu dijual kembali ketika harga sudah naik.",
+   "Bahlil mengakui rencana pengetatan RKAB bakal menuai protes dari pengusaha tambang, namun ia berpegang pada argumen bahwa mineral adalah sumber daya tak terbarukan yang berbeda dari komoditas seperti sawit yang bisa ditanam ulang. Ia menyinggung pendekatan serupa yang sudah diterapkan pada batu bara, di mana pembatasan produksi lewat RKAB membuat volume produksi turun tetapi harga dan pendapatan negara dari batu bara justru naik.",
+   "Selain membatasi produksi, pemerintah juga mengkaji perluasan hilirisasi nikel agar industri tidak berhenti pada produk setengah jadi, melainkan bergerak ke produk akhir. Dengan kombinasi pembatasan produksi dan pendalaman hilirisasi, pemerintah berharap harga nikel tetap terjaga dan cadangan nikel Indonesia memberi manfaat lebih lama bagi penerimaan negara."
+  ],
+  "fotoAdegan": "Red laterite nickel mine landscape with excavators loading ore onto large dump trucks under hazy sky, Sulawesi highlands",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-pasokan-nikel-berlebih-bahlil-siapkan-pengetatan-rkab-untuk-jaga-harga-lbbrckj.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah adalah sinyal kebijakan, bukan aturan final: pemerintah berencana memperketat RKAB, yakni dokumen rencana produksi tahunan yang jadi syarat perusahaan tambang boleh beroperasi, karena pasokan nikel dunia kelebihan hampir 800 ribu ton dari kebutuhan sekitar 3,5 juta ton per tahun. Pihak yang langsung terdampak adalah perusahaan tambang dan pabrik pengolahan nikel yang kuota produksinya bisa dipangkas, dan lewat rantai pasok dampaknya bisa menjalar ke industri baterai serta baja tahan karat yang memakai nikel Indonesia. Pemerintah punya contoh sebelumnya di batu bara, pengetatan kuota lewat RKAB di sana membuat volume produksi turun tetapi harga dan penerimaan negara naik, sehingga pola serupa kemungkinan dicoba diulang untuk nikel. Yang masih kurang adalah angka pasti, kuota RKAB nikel yang baru beserta kapan mulai berlaku belum diumumkan, dan itu yang akan menentukan apakah pengetatan ini benar-benar terjadi atau berhenti sebagai rencana.",
+  "imageV": "mw0h12pr"
+ },
+ {
+  "slug": "harga-cabai-melonjak-ke-rp124-ribu-mendag-sebut-faktor-cuaca",
+  "category": "Makroekonomi",
+  "title": "Harga Cabai [Melonjak] ke Rp124 Ribu, Mendag Sebut Faktor Cuaca",
+  "deck": "Harga cabai rawit merah tembus Rp124.400 per kg akibat kemarau panjang, pemerintah kirim stok antar daerah untuk menambal kekurangan pasokan.",
+  "image": "assets/img/harga-cabai-melonjak-ke-rp124-ribu-mendag-sebut-faktor-cuaca.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T16:01:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476392-harga-cabai-merah-melonjak-tembus-rp124-ribu-mendag-faktor-cuaca",
+  "tags": [
+   "harga cabai",
+   "cuaca ekstrem",
+   "Kemendag",
+   "pasokan pangan"
+  ],
+  "body": [
+   "Harga cabai rawit merah melonjak tajam ke Rp124.400 per kilogram pada awal November 2026, naik 23,72 persen dan lebih dari dua kali lipat Harga Acuan Pemerintah yang ditetapkan Rp57.000 per kilogram. Menteri Perdagangan Budi Santoso mengatakan penyebab utamanya adalah cuaca ekstrem, yakni kemarau panjang yang menekan produktivitas petani cabai. Kenaikan ini langsung terasa di dapur rumah tangga dan warung makan yang mengandalkan cabai sebagai bahan baku harian.",
+   "Selain cabai rawit merah, cabai merah keriting juga naik 21,17 persen ke kisaran Rp101.900 hingga Rp105.600 per kilogram, sementara cabai merah besar berada di level Rp91.250 per kilogram. Berbeda dari jenis lainnya, harga cabai rawit hijau justru turun tipis ke Rp52.500 per kilogram, menunjukkan lonjakan harga tidak merata di semua jenis cabai.",
+   "Budi menegaskan bahwa secara nasional, pasokan cabai sebenarnya masih relatif stabil. Masalah utamanya ada di distribusi yang belum merata ke seluruh daerah, sehingga ada wilayah yang surplus sementara wilayah lain kekurangan stok. Untuk mengatasinya, Kementerian Perdagangan menjalankan skema subsidi silang pasokan, yaitu mengirim stok cabai dari daerah yang surplus ke daerah yang kekurangan.",
+   "Sebagai contoh konkret, Kemendag telah mengirim 7 ton cabai dari Jawa Timur ke Halmahera untuk menambal kekurangan pasokan di wilayah tersebut. Langkah ini disampaikan Budi saat ditemui di Kantor Kementerian Koordinator Bidang Perekonomian, Jakarta, Selasa (3/11)."
+  ],
+  "fotoAdegan": "Workers loading crates of fresh red chili peppers onto a truck at a traditional market loading dock, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/03/6ae995ea02b29-ilustrasi-pedagang-cabai-merah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan jumlah pasokan cabai secara nasional, melainkan pemerataannya: Kemendag menyebut stok keseluruhan aman, tapi daerah seperti Halmahera kekurangan sehingga pemerintah mengirim 7 ton cabai dari Jawa Timur untuk menambal kekosongan itu. Yang paling terasa dari lonjakan ini adalah konsumen rumah tangga dan pedagang warung makan, terutama di daerah yang pasokannya tipis, karena harga cabai rawit merah sudah lebih dari dua kali lipat harga acuan pemerintah. Pola pengiriman titik ke titik seperti ini, 7 ton untuk satu wilayah, menunjukkan pemerintah masih menambal masalah distribusi per kasus ketimbang membangun jalur logistik tetap antara sentra produksi dan daerah yang rutin kekurangan pasokan. Arah ke depannya akan lebih jelas dari data harga pangan mingguan Kemendag atau Badan Pangan Nasional pada pekan-pekan berikutnya, serta dari prakiraan BMKG soal kapan kemarau di sentra produksi cabai akan berakhir.",
+  "imageV": "mw0h135r"
+ },
+ {
   "slug": "wika-disuspensi-bursa-usai-gagal-bayar-kupon-obligasi",
   "category": "Aksi Korporasi",
   "title": "WIKA [Disuspensi] Bursa Usai Gagal Bayar Kupon Obligasi",

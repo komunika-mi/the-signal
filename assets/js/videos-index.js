@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "YXhNqgtVbmU",
+  "title": "KKP Matangkan Kampung Nelayan Merah Putih untuk Dorong Ekonomi Nelayan",
+  "category": "UMKM",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Kelautan dan Perikanan terus mematangkan Program Kampung Nelayan Merah Putih sebagai upaya mendorong peningkatan ekonomi masyarakat nelayan.",
+  "takeaway": "Menunjukkan arah kebijakan pemerintah dalam memberdayakan ekonomi sektor perikanan dan masyarakat pesisir."
+ },
+ {
+  "id": "JvZFTOm8e4s",
+  "title": "Presiden Prabowo Gelar Ratas Bahas Kondisi Ekonomi di Istana",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Presiden Prabowo Subianto memimpin rapat terbatas bidang ekonomi bersama sejumlah menteri kabinet dan kepala lembaga di Istana Kepresidenan, Jakarta.",
+  "takeaway": "Rapat tingkat tinggi ini penting diikuti karena berpotensi menjadi acuan arah kebijakan ekonomi pemerintah ke depan."
+ },
+ {
+  "id": "hhmATb2CzUQ",
+  "title": "Wapres Gibran Rakabuming Raka Dialog dengan Petani Kakao di Mamuju",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Wakil Presiden Gibran Rakabuming Raka berdialog dengan para petani kakao di Mamuju, Sulawesi Barat, membahas sejumlah hal terkait komoditas kakao.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut nasib petani dan komoditas kakao yang menjadi salah satu andalan ekspor Indonesia."
+ },
+ {
   "id": "OK2y12-bjTs",
   "title": "Presiden Prabowo Pimpin Ratas Bahas Perkembangan Ekonomi",
   "category": "Makroekonomi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pemerintah memulai penanaman perdana bawang putih di kawasan Kertajati, Majalengka, Jawa Barat, sebagai bagian dari program ketahanan pangan. Produksi bawang putih nasional saat ini baru sekitar 5 ribu ton.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya pemerintah menekan impor bawang putih lewat peningkatan produksi dalam negeri."
- },
- {
-  "id": "Qmle2aEAdAg",
-  "title": "Mentan Soroti Dugaan Mafia Beras di Pasar Cipinang",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Pertanian Andi Amran Sulaiman melakukan sidak ke Pasar Induk Cipinang menyusul dugaan mafia beras SPHP dan meminta aparat mengusut jaringan dari pemasok hingga penjual.",
-  "takeaway": "Dugaan permainan harga dan distribusi beras bersubsidi berdampak langsung pada stabilitas harga pangan yang menjadi perhatian pembaca ekonomi."
- },
- {
-  "id": "o0uEC60fpGw",
-  "title": "Mentan Sidak Toko Beras Kayumanis, Duga Beras Dioplos",
-  "category": "Bisnis",
-  "program": "AKIS tvOne",
-  "summary": "Menteri Pertanian Andi Amran Sulaiman mendapati toko beras di Kayu Manis, Jakarta Timur, diduga mengoplos beras SPHP seharga Rp12.500 per kilogram dan menjualnya sebagai beras premium.",
-  "takeaway": "Praktik pengoplosan beras bersubsidi menyangkut tata niaga pangan dan perlindungan konsumen yang relevan bagi pembaca ekonomi."
- },
- {
-  "id": "PF_6cvIhA-E",
-  "title": "Presiden Prabowo: Ekonomi Indonesia Salip Brasil dan Inggris",
-  "category": "Makroekonomi",
-  "program": "OneNews Update",
-  "summary": "Presiden Prabowo Subianto menyebut Indonesia kini masuk 10 besar ekonomi dunia, berada di posisi ketujuh dan melampaui Brasil serta Inggris berdasarkan data yang dipaparkannya.",
-  "takeaway": "Klaim posisi ekonomi nasional ini penting untuk memahami narasi pemerintah soal daya saing Indonesia di kancah global."
  }
 ];

@@ -5,6 +5,76 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-ubah-aturan-tambang-prioritaskan-pengusaha-daerah",
+  "category": "Energi",
+  "title": "ESDM [Ubah] Aturan Tambang, Prioritaskan Pengusaha Daerah",
+  "deck": "Kementerian ESDM mengubah aturan izin tambang mineral dan batu bara agar UMKM, koperasi, dan BUMD mendapat prioritas, karena selama ini izin lebih banyak dikuasai pengusaha besar berkantor di Jakarta.",
+  "date": "3 November 2026",
+  "image": "assets/img/esdm-ubah-aturan-tambang-prioritaskan-pengusaha-daerah.jpg",
+  "imageV": "mw03svkg",
+  "tags": [
+   "ESDM",
+   "Tambang",
+   "UMKM",
+   "Minerba"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tambangnya-di-daerah-izinnya-di-jakarta-bahlil-ubah-aturan-agar-orang-daerah-kebagian",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "ri-pasok-43-batu-bara-dunia-produksi-kini-direm-pemerintah",
+  "category": "Energi",
+  "title": "RI Pasok 43% Batu Bara Dunia, Produksi Kini [Direm] Pemerintah",
+  "deck": "Pemerintah mengendalikan produksi batu bara lewat jatah RKAB agar harga tidak jatuh, sembari mengklaim penerimaan negara terus naik hingga 2026.",
+  "date": "3 November 2026",
+  "image": "assets/img/ri-pasok-43-batu-bara-dunia-produksi-kini-direm-pemerintah.jpg",
+  "imageV": "mw03sxpl",
+  "tags": [
+   "batu bara",
+   "RKAB",
+   "ESDM",
+   "penerimaan negara"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasok-hampir-separuh-pasar-dunia-tapi-dijual-murah-bahlil-kendalikan-produksi-batu-bara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "harga-emas-antam-naik-rp10-000-jadi-rp2-541-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas [Antam] Naik Rp10.000 Jadi Rp2.541.000/Gram",
+  "deck": "Harga emas batangan Antam naik Rp10.000 menjadi Rp2.541.000 per gram pada Selasa, 3 November 2026, dengan harga buyback Rp2.311.000 per gram.",
+  "date": "3 November 2026",
+  "image": "assets/img/harga-emas-antam-naik-rp10-000-jadi-rp2-541-000-gram.jpg",
+  "imageV": "mw03sy7q",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476322-harga-emas-antam-hari-ini-3-november-2026-naik-jadi-rp2541000-per-gram-pertimbangkan-jika-mau-menjual"
+ },
+ {
+  "slug": "swasembada-gula-dikejar-2-tahun-ratoon-tebu-digenjot",
+  "category": "Industri",
+  "title": "Swasembada Gula Dikejar 2 Tahun, [Ratoon] Tebu Digenjot",
+  "deck": "Pemerintah memangkas target swasembada gula dari empat tahun jadi dua tahun lewat peremajaan tanaman tebu sistem ratoon yang kini diperluas ke Jawa Timur dan Jawa Tengah, termasuk Klaten.",
+  "date": "3 November 2026",
+  "image": "assets/img/swasembada-gula-dikejar-2-tahun-ratoon-tebu-digenjot.jpg",
+  "imageV": "mw03syq4",
+  "tags": [
+   "gula",
+   "ratoon tebu",
+   "swasembada",
+   "Klaten"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476320-kejar-target-swasembada-gula-dua-tahun-peremajaan-sistem-ratoon-tebu-diperluas-ke-jatimjateng"
+ },
+ {
   "slug": "post-batalkan-rupo-dan-rupsi-tunggu-audit-kelar",
   "category": "Aksi Korporasi",
   "title": "POST Batalkan RUPO dan RUPSI, Tunggu [Audit] Kelar",
@@ -6411,69 +6481,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475452-pegadaian-raih-the-finance-special-award-2026-berkat-inovasi-transformasi-digital"
- },
- {
-  "slug": "dvla-laba-turun-13-arus-kas-operasi-anjlok-36",
-  "category": "Aksi Korporasi",
-  "title": "DVLA: Laba Turun 13%, Arus Kas Operasi [Anjlok] 36%",
-  "deck": "Pendapatan Darya-Varia naik 13,5% jadi Rp1,85 triliun pada 9 bulan 2026, tapi laba bersih turun 13,2% jadi Rp142,7 miliar karena beban melonjak dan kas operasional menyusut tajam.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DVLA",
-   "laporan keuangan",
-   "farmasi",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261028172612-64905-0/FinancialStatement-2026-III-DVLA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pidl-catatkan-obligasi-dan-sukuk-rp2-28-triliun-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "PIDL [Catatkan] Obligasi dan Sukuk Rp2,28 Triliun di BEI",
-  "deck": "Obligasi dan sukuk PIDL senilai total Rp2,28 triliun resmi tercatat di Bursa Efek Indonesia mulai 29 Oktober 2026, bagian dari program berkelanjutan senilai Rp12,5 triliun.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIDL",
-   "obligasi",
-   "sukuk",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/15930f1ab7_b7baa3c443.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-hentikan-buyback-lama-siapkan-periode-baru",
-  "category": "Aksi Korporasi",
-  "title": "TPIA [Hentikan] Buyback Lama, Siapkan Periode Baru",
-  "deck": "Chandra Asri Pacific menghentikan periode buyback saham yang semula berakhir 31 Desember 2026, lebih cepat menjadi 28 Oktober 2026, untuk memulai program buyback baru dengan dana yang disesuaikan.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "buyback saham",
-   "Chandra Asri Pacific",
-   "petrokimia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7337fa550c_04bbac874a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "obligasi-tpia-senilai-rp266-95-miliar-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "Obligasi TPIA Senilai Rp266,95 Miliar [Jatuh Tempo]",
-  "deck": "Obligasi Seri A TPIA senilai Rp266,95 miliar resmi jatuh tempo dan tidak lagi diperdagangkan di Bursa Efek Indonesia mulai 29 Oktober 2026.",
-  "date": "28 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TPIA",
-   "obligasi",
-   "jatuh tempo",
-   "Chandra Asri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/1d73a13419_029036c795.pdf",
-  "sourceLabel": "IDX"
  }
 ];

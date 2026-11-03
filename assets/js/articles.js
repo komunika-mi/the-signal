@@ -3,6 +3,115 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-ubah-aturan-tambang-prioritaskan-pengusaha-daerah",
+  "category": "Energi",
+  "title": "ESDM [Ubah] Aturan Tambang, Prioritaskan Pengusaha Daerah",
+  "deck": "Kementerian ESDM mengubah aturan izin tambang mineral dan batu bara agar UMKM, koperasi, dan BUMD mendapat prioritas, karena selama ini izin lebih banyak dikuasai pengusaha besar berkantor di Jakarta.",
+  "image": "assets/img/esdm-ubah-aturan-tambang-prioritaskan-pengusaha-daerah.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T02:58:34.810Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tambangnya-di-daerah-izinnya-di-jakarta-bahlil-ubah-aturan-agar-orang-daerah-kebagian",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Tambang",
+   "UMKM",
+   "Minerba"
+  ],
+  "body": [
+   "Pemerintah mengubah aturan perizinan usaha pertambangan mineral dan batu bara agar pengusaha daerah ikut kebagian jatah izin usaha pertambangan (IUP), yang selama ini lebih banyak dipegang perusahaan besar berkantor di Jakarta meski lokasi tambangnya tersebar di Sulawesi, Maluku, Sumatera, dan Kalimantan. Menteri ESDM Bahlil Lahadalia menyampaikan perubahan ini saat membuka Minerba Convex 2026 di JIExpo Kemayoran, Jakarta, Senin (2/11).",
+   "Menurut Bahlil, pola lama membagikan IUP lewat sistem tender yang sulit dijangkau pengusaha kecil di daerah. Aturan baru memberi prioritas kepada usaha mikro, kecil, dan menengah (UMKM), koperasi, serta badan usaha milik daerah (BUMD) untuk mendapat izin tambang. Pemerintah juga mengatur agar pekerjaan kontraktor di sektor pertambangan tidak dimonopoli segelintir perusahaan besar, melainkan melibatkan pengusaha daerah.",
+   "Bahlil mengakui kebijakan ini menuai keberatan dari sejumlah pengusaha besar, namun ia menyatakan tetap memprioritaskan kepentingan masyarakat yang jumlahnya lebih banyak. Direktur Jenderal Mineral dan Batubara Tri Winarno menambahkan, saat ini terdapat lebih dari 2.587 UMKM yang menjadi binaan badan usaha pertambangan mineral dan batu bara, melalui program pemberdayaan masyarakat yang mencakup delapan bidang, antara lain pendidikan, kesehatan, pendapatan, dan kemandirian ekonomi.",
+   "Tri menyebut perusahaan tambang juga didorong memperkuat akses UMKM terhadap pembiayaan, pasar, dan rantai pasok perusahaan, serta wajib menyiapkan sumber penghidupan bagi masyarakat sekitar agar tetap bisa bertahan setelah kegiatan tambang berakhir."
+  ],
+  "fotoAdegan": "Workers guiding a loaded ore truck down a dirt haul road at a mineral mining site, forested hills in the background, midday light",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-tambangnya-di-daerah-izinnya-di-jakarta-bahlil-ubah-aturan-agar-orang-daerah-kebagian-osl8ygn.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini adalah cara pemberian izin usaha pertambangan (IUP) untuk mineral dan batu bara, dari sistem tender yang menurut Bahlil sulit dijangkau pengusaha kecil, menjadi sistem yang memberi prioritas kepada UMKM, koperasi, dan badan usaha milik daerah. Pekerjaan kontraktor tambang juga diatur agar melibatkan pengusaha daerah, bukan dikuasai segelintir perusahaan besar yang kebanyakan berkantor di Jakarta. Pihak yang berpotensi terdampak adalah pengusaha kecil di daerah penghasil tambang seperti Sulawesi, Maluku, Sumatera, dan Kalimantan di satu sisi, serta pemegang izin dan kontraktor besar yang sebelumnya dominan di sisi lain, dan Bahlil sendiri mengakui kebijakan ini sudah mendapat keberatan dari kalangan pengusaha besar. Yang belum jelas dari pernyataan ini adalah bentuk hukum aturannya, apakah sudah terbit sebagai peraturan resmi atau baru arahan kebijakan, berapa porsi izin yang dijamin untuk UMKM dan BUMD, serta kapan aturan itu mulai berlaku, sehingga arah kebijakan ini baru bisa dibaca penuh setelah teks aturannya benar-benar terbit.",
+  "imageV": "mw03svkg"
+ },
+ {
+  "slug": "ri-pasok-43-batu-bara-dunia-produksi-kini-direm-pemerintah",
+  "category": "Energi",
+  "title": "RI Pasok 43% Batu Bara Dunia, Produksi Kini [Direm] Pemerintah",
+  "deck": "Pemerintah mengendalikan produksi batu bara lewat jatah RKAB agar harga tidak jatuh, sembari mengklaim penerimaan negara terus naik hingga 2026.",
+  "image": "assets/img/ri-pasok-43-batu-bara-dunia-produksi-kini-direm-pemerintah.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T02:58:33.811Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasok-hampir-separuh-pasar-dunia-tapi-dijual-murah-bahlil-kendalikan-produksi-batu-bara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "batu bara",
+   "RKAB",
+   "ESDM",
+   "penerimaan negara"
+  ],
+  "body": [
+   "Pemerintah melalui Kementerian ESDM mulai mengendalikan volume produksi batu bara lewat jatah Rencana Kerja dan Anggaran Biaya (RKAB), setelah Indonesia yang menjadi pemasok besar batu bara dunia justru menghadapi harga jual yang jatuh ke titik terendah tahun lalu. Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga Menteri ESDM, Bahlil Lahadalia, menyampaikan hal ini saat membuka Mineral dan Batubara Convention-Expo (Minerba Convex) 2026 di JIExpo Kemayoran, Jakarta, Senin (2/11). Menurutnya, langkah ini membuat produksi turun tapi justru mendongkrak pendapatan, karena batu bara tidak lagi dijual dengan harga murah.",
+   "Bahlil menyebut konsumsi batu bara dunia mencapai sekitar 8,9 miliar ton per tahun, sementara yang diperdagangkan antarnegara hanya sekitar 1,3 miliar ton. Pada 2025, Indonesia menyumbang sekitar 540 juta ton dari volume perdagangan itu, yang menurut klaimnya setara 43 persen pasokan dunia. Namun besarnya pasokan itu, menurut Bahlil, tidak sebanding dengan keuntungan karena pembukaan lahan tambang yang berlebihan membuat batu bara Indonesia dijual dengan harga rendah.",
+   "Pemerintah sempat membuat aturan untuk menaikkan Harga Batubara Acuan (HBA), patokan harga jual batu bara yang ditetapkan negara, namun menurut Bahlil aturan itu tidak dipatuhi pelaku usaha. Pemerintah lalu beralih mengatur keseimbangan pasokan dan permintaan lewat jatah RKAB, dan menurut Bahlil, harga batu bara tahun ini bisa mencapai US$154 per ton. Jumlah perusahaan yang mengajukan RKAB pun naik dari sekitar 500 perusahaan pada 2025 menjadi 650 perusahaan pada 2026, meski Bahlil meminta pembagian jatah itu tetap adil antarpengusaha dan tidak saling berebut produksi saat harga sedang turun.",
+   "Bahlil mengaitkan strategi ini dengan penerimaan negara bukan pajak dari sektor pertambangan, yakni uang yang masuk ke kas negara dari sektor ini selain pajak, yang disebutnya berada di kisaran Rp130-135 triliun pada 2025. Per 1 Oktober 2026, penerimaan itu disebut telah menembus Rp141 triliun, dan diproyeksikan mencapai Rp160-165 triliun hingga akhir tahun. Dengan pengendalian produksi ini, pemerintah menyatakan ingin memastikan batu bara Indonesia tidak lagi dijual murah sekaligus menjaga cadangan untuk generasi mendatang."
+  ],
+  "fotoAdegan": "Wide shot of a heavily loaded coal barge moving down a wide brown river, tugboat alongside, overcast sky and distant hills.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-pasok-hampir-separuh-pasar-dunia-tapi-dijual-murah-bahlil-kendalikan-produksi-batu-bara-sltlvgg.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Perubahan konkretnya ada di cara pemerintah membagi jatah produksi: lewat RKAB, semacam izin rencana kerja dan anggaran tahunan tambang, Kementerian ESDM sengaja menahan volume produksi batu bara agar harganya tidak jatuh. Yang menarik, jumlah perusahaan pemegang jatah ini justru naik dari sekitar 500 pada 2025 menjadi 650 pada 2026, artinya kuota yang dibatasi itu dibagi ke makin banyak pemain, bukan dipegang segelintir perusahaan besar saja. Pihak yang langsung terdampak adalah perusahaan tambang batu bara yang harus menyesuaikan target produksinya dengan jatah baru itu, sementara penerimaan negara dari sektor ini, yang menurut Kementerian ESDM sudah Rp141 triliun per awal Oktober 2026 dan diproyeksikan Rp160-165 triliun di akhir tahun, ikut jadi taruhannya. Arahnya terlihat menuju pengaturan pasokan lewat kuota tahunan yang makin terukur, bukan patokan harga langsung, setelah upaya menaikkan Harga Batubara Acuan lewat aturan sebelumnya disebut tidak dipatuhi pelaku usaha. Yang akan menunjukkan apakah pendekatan ini bertahan adalah apakah proyeksi penerimaan Rp160-165 triliun itu benar tercapai di akhir 2026, dan apakah harga batu bara bertahan di kisaran US$154 ketika jatah RKAB 2027 disusun.",
+  "imageV": "mw03sxpl"
+ },
+ {
+  "slug": "harga-emas-antam-naik-rp10-000-jadi-rp2-541-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas [Antam] Naik Rp10.000 Jadi Rp2.541.000/Gram",
+  "deck": "Harga emas batangan Antam naik Rp10.000 menjadi Rp2.541.000 per gram pada Selasa, 3 November 2026, dengan harga buyback Rp2.311.000 per gram.",
+  "image": "assets/img/harga-emas-antam-naik-rp10-000-jadi-rp2-541-000-gram.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T09:50:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476322-harga-emas-antam-hari-ini-3-november-2026-naik-jadi-rp2541000-per-gram-pertimbangkan-jika-mau-menjual",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam naik Rp10.000 pada Selasa, 3 November 2026, menjadi Rp2.541.000 per gram. Kenaikan ini relevan bagi masyarakat yang berencana membeli atau menjual emas batangan hari ini, karena memengaruhi hitungan untung rugi transaksi pada hari yang sama.",
+   "Sehari sebelumnya, harga emas Antam tercatat Rp2.531.000 per gram, dengan harga buyback atau harga beli kembali oleh Antam dari masyarakat sebesar Rp2.311.000 per gram. Selisih sekitar Rp220.000 per gram antara harga jual dan harga buyback itu berarti siapa pun yang membeli emas batangan lalu langsung menjualnya kembali ke Antam akan menanggung selisih tersebut, bukan karena harga emas turun, melainkan karena mekanisme harga jual dan beli yang memang berbeda.",
+   "Logam Mulia, laman resmi milik PT Aneka Tambang, mengingatkan bahwa harga emas batangan bisa berubah sewaktu-waktu mengikuti pergerakan pasar. Karena itu, keputusan membeli atau menjual emas sebaiknya mempertimbangkan pergerakan harga dalam beberapa hari, bukan hanya patokan harga pada satu hari tertentu."
+  ],
+  "fotoAdegan": "Close-up of small gold bullion bars arranged on a velvet tray inside a jewelry display counter, soft lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Kenaikan Rp10.000 ini tergolong kecil, hanya sekitar 0,4 persen dari harga sehari sebelumnya, jadi lebih mencerminkan fluktuasi harian ketimbang perubahan tren harga emas. Yang terdampak langsung adalah masyarakat yang bertransaksi emas Antam hari ini, baik yang membeli untuk investasi maupun yang berencana menjual kembali dan perlu memperhitungkan selisih antara harga jual dan harga buyback. Data satu hari ini belum cukup untuk membaca ke arah mana harga emas Antam akan bergerak dalam beberapa pekan ke depan. Yang perlu dipantau adalah rangkaian harga sepekan ke depan serta pergerakan harga emas dunia, yang biasanya menjadi acuan utama penyesuaian harga emas Antam di dalam negeri.",
+  "imageV": "mw03sy7q"
+ },
+ {
+  "slug": "swasembada-gula-dikejar-2-tahun-ratoon-tebu-digenjot",
+  "category": "Industri",
+  "title": "Swasembada Gula Dikejar 2 Tahun, [Ratoon] Tebu Digenjot",
+  "deck": "Pemerintah memangkas target swasembada gula dari empat tahun jadi dua tahun lewat peremajaan tanaman tebu sistem ratoon yang kini diperluas ke Jawa Timur dan Jawa Tengah, termasuk Klaten.",
+  "image": "assets/img/swasembada-gula-dikejar-2-tahun-ratoon-tebu-digenjot.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T09:36:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476320-kejar-target-swasembada-gula-dua-tahun-peremajaan-sistem-ratoon-tebu-diperluas-ke-jatimjateng",
+  "tags": [
+   "gula",
+   "ratoon tebu",
+   "swasembada",
+   "Klaten"
+  ],
+  "body": [
+   "Pemerintah, atas arahan Presiden Prabowo Subianto, mempercepat target swasembada gula nasional dari semula empat tahun menjadi dua tahun. Salah satu langkah utamanya adalah memperluas program peremajaan tanaman tebu dengan sistem ratoon ke sentra produksi di Jawa Timur dan Jawa Tengah, dengan pelaksanaan terbaru di Kabupaten Klaten.",
+   "Ratoon adalah tunas tebu yang tumbuh kembali dari sisa batang setelah panen. Jika dibiarkan tumbuh berulang tahun demi tahun, kualitas dan jumlah hasil panennya terus menurun. Lewat program bernama Bongkar Ratoon, tanaman tebu tua yang sudah kurang produktif diganti dengan varietas unggul yang lebih tahan hama dan menghasilkan gula lebih banyak per batang, dengan tujuan menaikkan pasokan bahan baku sekaligus kesejahteraan petani.",
+   "Klaten dipilih karena dulu menjadi salah satu pusat gula terbesar di Jawa Tengah dengan sembilan pabrik gula yang beroperasi, namun produktivitasnya menyusut seiring waktu. Direktur Jenderal Perkebunan Kementerian Pertanian, Heru Tri Widarto, menyebut peremajaan perkebunan sebagai kunci memulihkan industri gula nasional. \"Dahulu, di Klaten terdapat sembilan pabrik gula dan wilayah ini pernah menjadi salah satu pusat produksi gula terbesar di Indonesia. Namun seiring berjalannya waktu, kejayaan tersebut perlahan memudar. Karena itu mari kita bersama-sama mengembalikan kejayaan gula Klaten,\" ujarnya.",
+   "Di lapangan, sejumlah petani mengeluhkan hasil panen yang terus turun meski luas lahan yang digarap tidak berubah. Melalui program ini, petani mendapat pendampingan budi daya dan penggantian varietas unggul agar hasil panen dan pendapatan mereka naik. Program serupa juga berjalan di beberapa daerah sentra tebu Jawa Timur, dan menurut pengamat industri gula, perbaikan sistem ratoon di wilayah-wilayah ini jadi langkah penting untuk menekan ketergantungan pada gula impor."
+  ],
+  "fotoAdegan": "Workers planting young sugarcane shoots in a sunlit field with irrigation channels, rural Central Java landscape, overcast morning.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/24/6ab546206f0c6-truk-mengangkut-tebu_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah jangka waktu target swasembada gula dipangkas dari empat tahun menjadi dua tahun, dengan cara mengganti tanaman tebu tua lewat sistem ratoon, yaitu tunas yang tumbuh dari sisa batang bekas panen, yang kalau dibiarkan terus-menerus membuat jumlah gula yang bisa diperas dari setiap batang makin sedikit. Yang kena dampak langsung adalah petani tebu di Jawa Timur dan Jawa Tengah, khususnya Klaten yang dulu punya sembilan pabrik gula tapi produksinya sudah lama menyusut, karena merekalah yang akan mengganti tanaman lama lewat program Bongkar Ratoon. Kalau produktivitas benar naik, manfaatnya bisa sampai ke konsumen lewat berkurangnya kebutuhan impor gula, tetapi berita ini belum menyebut berapa luas lahan yang sudah diganti atau berapa target produksi gula tahun ini dibanding tahun lalu. Tanpa angka produksi itu, belum bisa dinilai apakah target dua tahun ini seiring dengan kenyataan di lapangan atau baru sebatas target di atas kertas. Yang perlu ditunggu adalah data produksi gula nasional dan luas areal yang sudah diremajakan pada musim tanam berikutnya, untuk melihat apakah perluasan program ini benar-benar mengejar target baru tersebut.",
+  "imageV": "mw03syq4"
+ },
+ {
   "slug": "post-batalkan-rupo-dan-rupsi-tunggu-audit-kelar",
   "category": "Aksi Korporasi",
   "title": "POST Batalkan RUPO dan RUPSI, Tunggu [Audit] Kelar",

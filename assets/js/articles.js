@@ -341,7 +341,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Dari tiga data ini, titik yang perlu dicermati adalah inflasi pangan bergejolak yang justru naik ke 5,81 persen, berlawanan arah dengan inflasi inti yang melandai ke 2,56 persen, dan ini didorong harga cabai serta tomat akibat kemarau panjang El Nino. Yang paling terdampak adalah konsumen rumah tangga, sementara eksportir komoditas seperti batu bara, sawit, dan karet justru diuntungkan oleh surplus dagang yang berlanjut tiga bulan beruntun. Pemerintah sendiri mengakui risiko ini dengan menyiapkan langkah antisipasi pasokan pangan menjelang Natal dan Tahun Baru, tanda bahwa kekhawatiran belum reda meski inflasi keseluruhan masih di rentang sasaran. Klaim bahwa turunnya impor migas disebabkan program biodiesel B50 juga perlu dicatat sebagai versi pemerintah, bukan angka yang sudah diverifikasi independen. Yang akan menunjukkan apakah tekanan harga pangan ini mereda atau membesar adalah data inflasi November, terutama komponen volatile food, yang biasanya dirilis awal Desember.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "hari-ritel-nasional-2026-dimulai-umkm-didorong-masuk-ritel",

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-jadi-rp2-537-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.537.000 per Gram",
+  "deck": "Harga emas batangan Antam hari ini turun Rp4.000 menjadi Rp2.537.000 per gram, sementara harga buyback ikut turun ke Rp2.307.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-537-000-per-gram.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T09:53:15+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476541-harga-emas-antam-hari-ini-4-november-2026-turun-jadi-rp2537000-per-gram-saatnya-beli",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "emas batangan"
+  ],
+  "body": [
+   "Harga emas batangan Antam hari ini, 4 November 2026, turun menjadi Rp2.537.000 per gram. Pergerakan harga ini penting dipantau karena logam mulia produksi Antam menjadi acuan harga emas fisik yang banyak dipakai masyarakat sebagai simpanan aset.",
+   "Berdasarkan data dari laman resmi Logam Mulia, harga emas Antam hari ini turun Rp4.000 dari posisi sebelumnya di Rp2.541.000 per gram. Harga beli kembali atau buyback, yaitu harga yang diterima konsumen bila menjual kembali emasnya ke Antam, juga ikut turun menjadi Rp2.307.000 per gram.",
+   "Selisih antara harga jual dan harga buyback saat ini sekitar Rp230.000 per gram, angka yang menunjukkan biaya yang ditanggung konsumen bila membeli lalu menjual kembali emasnya dalam waktu singkat. Antam sendiri mengingatkan bahwa harga emas batangan ini bisa berubah sewaktu-waktu sesuai kondisi pasar."
+  ],
+  "fotoAdegan": "Close-up of small gold bullion bars stacked on a velvet tray inside a jewelry counter, soft warm lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini hanya angka harian, harga jual turun Rp4.000 menjadi Rp2.537.000 per gram dan harga buyback turun ke Rp2.307.000 per gram. Yang terdampak adalah masyarakat yang membeli atau menjual emas batangan secara ritel, karena selisih sekitar Rp230.000 per gram itulah yang menentukan rugi atau untungnya kalau emas dijual kembali dalam waktu dekat. Penurunan Rp4.000 ini terlalu kecil, kurang dari 0,2 persen, untuk disimpulkan sebagai tren turun atau sekadar koreksi harian biasa. Yang perlu dipantau adalah pergerakan harga emas Antam dalam beberapa hari ke depan serta harga emas dunia, supaya terlihat apakah penurunan ini berlanjut atau justru berbalik naik.",
+  "imageV": "mw1kkqwh"
+ },
+ {
   "slug": "idea-teken-pjbs-nawasena-ambil-alih-66-58-saham",
   "category": "Aksi Korporasi",
   "title": "IDEA Teken PJBS, Nawasena Ambil Alih [66,58%] Saham",

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-jadi-rp2-537-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.537.000 per Gram",
+  "deck": "Harga emas batangan Antam hari ini turun Rp4.000 menjadi Rp2.537.000 per gram, sementara harga buyback ikut turun ke Rp2.307.000 per gram.",
+  "date": "4 November 2026",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-537-000-per-gram.jpg",
+  "imageV": "mw1kkqwh",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "emas batangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476541-harga-emas-antam-hari-ini-4-november-2026-turun-jadi-rp2537000-per-gram-saatnya-beli"
+ },
+ {
   "slug": "idea-teken-pjbs-nawasena-ambil-alih-66-58-saham",
   "category": "Aksi Korporasi",
   "title": "IDEA Teken PJBS, Nawasena Ambil Alih [66,58%] Saham",
@@ -6463,22 +6480,6 @@ var ARTICLES = [
    "emiten furnitur"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150818-65029-0/FinancialStatement-2026-III-GEMA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wiim-laba-bersih-melonjak-74-jadi-rp496-miliar-di-q3-2026",
-  "category": "Aksi Korporasi",
-  "title": "WIIM: Laba Bersih [Melonjak] 74% jadi Rp496 Miliar di Q3 2026",
-  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih WIIM naik 74 persen menjadi Rp496,22 miliar, didorong efisiensi beban usaha dan turunnya beban bunga.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIIM",
-   "laporan keuangan",
-   "kinerja emiten",
-   "industri rokok"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150334-65247-0/FinancialStatement-2026-III-WIIM.pdf",
   "sourceLabel": "IDX"
  }
 ];

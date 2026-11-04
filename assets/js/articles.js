@@ -3,6 +3,242 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "toba-jelaskan-ke-bursa-soal-pendanaan-us-429-juta-ke-sbth",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Jelaskan ke Bursa Soal Pendanaan [US$429 Juta] ke SBTH",
+  "deck": "TOBA menjelaskan ke BEI soal reorganisasi bisnis limbah dan investasi hingga US$429 juta ke anak usaha SBTH, yang perlu persetujuan RUPSLB 27 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T18:35:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/be1b6765c1_0c7b577669.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "transaksi material",
+   "RUPSLB",
+   "pengelolaan limbah"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) menyampaikan tanggapan resmi ke Bursa Efek Indonesia menyusul surat BEI Nomor S-13619/BEI.PP3/10-2026 tanggal 30 Oktober 2026 yang diterima perseroan pada 2 November 2026. Surat itu meminta penjelasan atas dua keterbukaan informasi transaksi material dan afiliasi pada 20 dan 21 Oktober 2026, serta rencana penyelenggaraan RUPSLB. Tanggapan ditandatangani oleh Direktur Alvin Firman Suanda dan Direktur Juli Oktarina, dan disampaikan ke bursa oleh Corporate Secretary Pingkan Ratna Melati pada 4 November 2026.",
+   "Transaksi pertama terjadi pada 16 Oktober 2026, berupa reorganisasi internal struktur bisnis pengelolaan limbah di bawah grup TOBA yang melibatkan PT SBT, SBTI, SBTH, dan SBTG. Perseroan menjelaskan transaksi ini dilakukan secara in-kind atau tukar aset tanpa ada pembayaran tunai antar pihak, dengan tujuan memberi fleksibilitas bagi perseroan untuk bernegosiasi dengan calon mitra usaha, investor, dan lembaga pembiayaan. TOBA menegaskan reorganisasi ini tidak berdampak material pada operasional, dan perseroan tetap memegang kepemilikan serta pengendalian penuh atas entitas anak yang menjalankan bisnis limbah tersebut.",
+   "Transaksi kedua, yang baru akan dimintakan persetujuan RUPSLB pada 27 November 2026, bernilai jauh lebih besar: komitmen investasi dari investor ke anak usaha SBTH hingga SGD555 juta atau setara US$429 juta, menggunakan kurs Bloomberg USD/SGD 1,2938 per 30 Juni 2026. Dana itu akan masuk lewat tiga tahap, yaitu aggregate subscription sebesar US$96,6 juta yang dibayar saat penyelesaian transaksi, primary tranche hingga US$100,5 juta, dan incremental primary tranche hingga US$231,9 juta yang keduanya dapat ditarik SBTH secara bertahap sesuai perjanjian pemegang saham. Perseroan menegaskan investor hanya akan memegang saham preferen dan synthetic warrant tanpa hak suara, sehingga tidak ada perubahan kepemilikan saham biasa bersuara di PT SBT, SBTI, maupun SBTH, dan TOBA secara efektif tetap menguasai 100 persen saham bersuara di PT SBT.",
+   "TOBA menyebut dana dari transaksi ini akan digunakan untuk mendukung strategi transisi bisnis ke sektor berkelanjutan, yaitu pengelolaan limbah, energi terbarukan, dan ekosistem kendaraan listrik, baik lewat akuisisi, kerja sama dengan mitra strategis, maupun pengembangan mandiri. Perseroan juga menjelaskan bahwa seluruh persetujuan internal dari direksi dan dewan komisaris masing-masing entitas sudah diperoleh, dan satu-satunya persetujuan yang masih dibutuhkan adalah dari RUPS pemegang saham TOBA sebelum transaksi dapat dijalankan."
+  ],
+  "fotoAdegan": "Workers sorting recyclable waste materials on a conveyor belt inside a large industrial waste management facility, overcast daylight from skylights",
+  "takeaway": "Penjelasan ini condong positif bagi TOBA karena perseroan berpotensi mendapat dana hingga US$429 juta dari investor tanpa kehilangan hak suara di anak usaha pengelolaan limbahnya, sebab investor hanya memegang instrumen tanpa hak suara. Dana sebesar itu bakal tercatat sebagai arus kas masuk dari pendanaan dan menambah ekuitas perseroan, karena bentuknya saham preferen dan warrant sintetis bukan utang biasa, meski ke depan bisa membawa beban semacam dividen preferen yang perlu dicermati investor. Reorganisasi internal yang menyertainya dilakukan secara non-tunai sehingga tidak membebani kas perseroan saat ini dan tidak mengubah siapa yang mengendalikan anak usahanya. Yang perlu dipantau selanjutnya adalah RUPSLB pada 27 November 2026, sebab persetujuan pemegang saham di forum itu menjadi syarat terakhir sebelum SBTH benar-benar bisa menarik dana tersebut secara bertahap.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "rupslb-hero-26-nov-calon-presdir-berafiliasi-pemegang-saham-utama",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB HERO 26 Nov, Calon Presdir [Berafiliasi] Pemegang Saham Utama",
+  "deck": "HERO memanggil RUPSLB pada 26 November 2026 untuk menyetujui perubahan susunan direksi, termasuk calon presiden direktur baru yang berafiliasi dengan pemegang saham utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T18:14:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d440aca953_a8bf96c659.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HERO",
+  "tags": [
+   "HERO",
+   "RUPSLB",
+   "Direksi",
+   "Tata Kelola"
+  ],
+  "body": [
+   "PT DFI Retail Nusantara Tbk (HERO) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 26 November 2026, pukul 14.00 WIB di Indy Bintaro Office Park, Tangerang Selatan, dengan opsi hadir fisik maupun elektronik melalui sistem eASY.KSEI. Agenda tunggal rapat ini adalah persetujuan perubahan susunan pengurus perseroan. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham sampai Selasa, 3 November 2026 pukul 16.00 WIB, berhak hadir atau diwakili dalam rapat.",
+   "Dalam materi RUPSLB, perseroan membuka profil calon presiden direktur baru, Fraser Joseph Macisaac, warga negara Kanada berusia 38 tahun yang berdomisili di Jakarta. Ia meniti karier di PwC Calgary sejak 2011, naik dari associate hingga senior manager, sebelum pindah ke PwC Hong Kong pada 2019-2022. Di DFI Retail Group, ia menjabat Head of Finance untuk divisi Supply Chain, Technology, Facilities, dan Procurement sejak Maret 2022, lalu sejak Juli 2025 menjadi Director of Finance DFI IKEA yang mengurus operasional keuangan IKEA di Hong Kong, Taiwan, Macau, dan Indonesia. Dokumen menyebutkan ia tidak berafiliasi dengan anggota direksi atau komisaris Perseroan lainnya, tetapi memiliki hubungan afiliasi dengan salah satu pemegang saham utama Perseroan. Sejak November 2026 ia juga tercatat sebagai Presiden Direktur PT Rumah Mebel Nusantara dan PT Archipelago Property Development, serta Direktur PT Distribusi Mebel Nusantara.",
+   "Bagi pemegang saham yang tidak hadir langsung, perseroan mendorong pemberian kuasa elektronik (e-Proxy) melalui eASY.KSEI kepada PT Electronic Data Interchange Indonesia selaku pihak independen, dengan proses yang harus diselesaikan paling lambat Rabu, 25 November 2026 pukul 12.00 WIB. Alternatifnya, surat kuasa tertulis harus diserahkan ke kantor Biro Administrasi Efek, PT EDI Indonesia di Wisma SMR, Jakarta, dengan tenggat yang sama pada 25 November 2026."
+  ],
+  "fotoAdegan": "Supermarket aisle with neatly stocked shelves and a staff member in uniform checking inventory under bright store lighting",
+  "takeaway": "Penilaian saya netral: pergantian direksi ini adalah proses tata kelola rutin, tapi profil calon presiden direktur yang berafiliasi dengan salah satu pemegang saham utama HERO patut dicermati karena berpotensi mengurangi independensi direksi terhadap pemegang saham tersebut. Pergantian pengurus semacam ini tidak langsung mengubah pos-pos di laporan keuangan seperti ekuitas atau laba per saham, tetapi arah kebijakan ke depan, termasuk soal arus kas (uang tunai yang keluar masuk perusahaan) yang sempat turun tajam di kuartal III, akan banyak dipengaruhi oleh siapa yang memegang kendali di kursi direksi. Yang perlu dipantau adalah hasil pemungutan suara di RUPSLB pada 26 November 2026, apakah pemegang saham benar-benar menyetujui susunan direksi baru ini, serta tenggat pemberian kuasa elektronik pada 25 November 2026 pukul 12.00 WIB bagi pemegang saham yang tidak hadir langsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-resmi-delisting-etf-xnve-efektif-5-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BEI Resmi [Delisting] ETF XNVE Efektif 5 November 2026",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan ETF XNVE, Reksa Dana Indeks Nusadana IDX Value30, efektif 5 November 2026 setelah OJK mencabut pernyataan efektifnya akibat likuidasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T17:57:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/581dec033a_2857aac0c3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XNVE",
+  "tags": [
+   "XNVE",
+   "delisting",
+   "reksa dana",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan (delisting) Reksa Dana Indeks Nusadana ETF IDX Value30 dengan kode XNVE dari papan perdagangan, efektif 5 November 2026. Keputusan ini tertuang dalam pengumuman bernomor Peng-DEL-00004/BEI.PP2/11-2026 yang diteken Kepala Divisi Penilaian Perusahaan 2 Adi Pratomo Aryanto dan Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A, tertanggal 4 November 2026.",
+   "Delisting ini didasarkan pada surat Otoritas Jasa Keuangan (OJK) Nomor S-506/PM.11/2026 tanggal 19 Oktober 2026, yang menanggapi laporan hasil pembubaran dan likuidasi reksa dana tersebut, serta surat permohonan delisting dari manajer investasinya, PT Nusadana Investama Indonesia, tertanggal 29 Oktober 2026 dan diterima BEI pada tanggal yang sama. Dengan tidak berlakunya lagi pernyataan efektif OJK atas XNVE, bursa mencatat penghapusan ini sebagai konsekuensi langsung dari proses pembubaran dana tersebut.",
+   "Perdagangan XNVE sebenarnya sudah dihentikan sementara sejak 24 September 2024. Dalam dokumen pengumuman, jumlah unit penyertaan yang tercatat di bursa kini nol, dan setelah delisting berlaku, PT Nusadana Investama Indonesia tidak lagi memiliki kewajiban kepada BEI selaku manajer investasi ETF ini."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district under an overcast sky, street traffic passing below",
+  "takeaway": "Laporan ini netral bagi pasar karena hanya menutup secara resmi proses yang sudah berjalan sejak 2024, bukan kabar baru soal kondisi keuangan siapa pun. Berbeda dari saham perusahaan, yang dipertaruhkan di sini bukan ekuitas atau laba per saham emiten, melainkan dana milik pemegang unit reksa dana yang sudah dibubarkan dan dilikuidasi, dengan jumlah unit tercatat di bursa kini nol, artinya tidak ada lagi dana publik yang tersisa di produk ini. Delisting formal ini sekaligus membebaskan PT Nusadana Investama Indonesia dari kewajiban sebagai manajer investasi kepada bursa. Yang perlu dicatat adalah tanggal efektif delisting pada 5 November 2026, yang menandai berakhirnya riwayat XNVE di Bursa Efek Indonesia, dan dokumen ini tidak menyebut agenda lanjutan apa pun setelahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-tender-wajib-berakhir-nihil-saham-terjual",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Tender Wajib Berakhir, [Nihil] Saham Terjual",
+  "deck": "Tender wajib PT Sinergi Internasional Investama atas saham DOOH berakhir tanpa satu pun pemegang saham publik yang menjual sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T17:42:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/299ce6c3ed_69f15070cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "tender wajib",
+   "pengendali baru",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Sinergi Internasional Investama, selaku pengendali baru PT Era Media Sejahtera Tbk (DOOH), menuntaskan penawaran tender wajib atas maksimal 2.624.548.624 saham DOOH atau 33,91 persen dari total saham yang beredar, yakni saham milik publik di luar Sinergi dan PT Prambanan Investasi Sukses. Harga penawaran ditetapkan Rp148 per saham, dengan nilai total maksimal Rp388,43 miliar. Periode penawaran berlangsung 30 hari, dari 5 Oktober sampai 3 November 2026, dan penyelesaian transaksi dijadwalkan pada 9 November 2026.",
+   "Berdasarkan laporan PT Ficomindo Buana Registrar selaku biro administrasi efek DOOH tertanggal 4 November 2026, tidak ada satu pun pemegang saham publik yang ikut menjual sahamnya dalam penawaran tender ini. Jumlah saham yang terjual nihil atau 0 persen, sehingga tidak ada saham yang dibeli oleh Sinergi Internasional Investama dan tidak ada transaksi yang perlu diselesaikan pada tanggal 9 November yang sebelumnya dijadwalkan.",
+   "Dokumen ini juga mengonfirmasi susunan pemegang saham DOOH setelah proses tersebut. PT Sinergi Internasional Investama tetap menguasai 51 persen atau 3.946.835.000 saham, tidak berubah dari posisi sebelum tender. Yang berganti adalah pemegang 15,09 persen saham, sebanyak 1.167.507.412 saham, yang sebelumnya tercatat atas nama PT Prambanan Investasi Sukses kini beralih ke PT Beruntung Berkat Sejahtera dengan jumlah saham yang sama. Porsi publik tetap 33,91 persen atau 2.624.548.624 saham karena tidak ada yang melepas kepemilikannya."
+  ],
+  "fotoAdegan": "Technicians on a cherry-picker truck installing a large outdoor advertising screen above a busy Jakarta street, screen blank and out of focus, late afternoon light",
+  "takeaway": "Laporan ini netral bagi DOOH karena tidak ada dana yang masuk atau keluar dari kas perusahaan, dan emiten sendiri menyatakan tidak ada dampak terhadap operasional, hukum, maupun kondisi keuangannya. Pos yang tersentuh hanya susunan pemegang saham besar: jatah 15,09 persen yang tadinya di tangan PT Prambanan Investasi Sukses kini beralih ke PT Beruntung Berkat Sejahtera, sementara kepemilikan pengendali Sinergi Internasional Investama tetap 51 persen dan porsi publik tetap 33,91 persen, sehingga jumlah saham beredar dan hak suara pemegang saham publik tidak tergerus sama sekali. Pergantian nama pemegang saham besar ini layak dicermati karena laporan tidak menjelaskan apakah itu jual beli biasa atau pengalihan internal satu kelompok usaha, dan nilainya tidak diungkap. Yang perlu dipantau berikutnya adalah apakah ada keterbukaan informasi lanjutan dari Sinergi Internasional Investama atau BEI yang menjelaskan latar belakang peralihan saham ke PT Beruntung Berkat Sejahtera, mengingat tenggat pembayaran tender yang sebelumnya dijadwalkan 9 November 2026 kini tidak berlaku karena nihilnya saham yang terjual.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "itmg-siapkan-buyback-saham-senilai-rp2-31-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ITMG Siapkan [Buyback] Saham Senilai Rp2,31 Triliun",
+  "deck": "Indo Tambangraya Megah akan membeli kembali saham senilai maksimal Rp2,31 triliun dari kas internal, berlaku 5 November 2026 hingga 4 Februari 2027, sesuai aturan OJK untuk pasar bergejolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T17:39:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d10c605d0b_5464cccc88.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ITMG",
+  "tags": [
+   "ITMG",
+   "buyback",
+   "pasar modal",
+   "OJK"
+  ],
+  "body": [
+   "Indo Tambangraya Megah Tbk (ITMG) mengumumkan rencana pembelian kembali saham atau buyback dengan nilai maksimal Rp2,31 triliun, yang akan dijalankan mulai 5 November 2026 hingga 4 Februari 2027. Dana buyback berasal dari kas internal perusahaan dan sudah termasuk biaya perantara pedagang efek serta biaya lain yang terkait. Program ini merujuk pada aturan OJK No. 13 dan No. 29 Tahun 2023 tentang pembelian kembali saham dalam kondisi pasar yang berfluktuasi signifikan, serta dua surat Kepala Eksekutif Pengawas Pasar Modal OJK tertanggal 9 September 2026 dan 25 Oktober 2026. Jumlah saham yang dibeli, kalau digabung dengan sisa saham hasil buyback program sebelumnya yang masih dipegang perusahaan, dibatasi maksimal 20 persen dari modal disetor ITMG.",
+   "Dalam dokumen keterbukaan informasi, ITMG menyertakan simulasi dampak buyback terhadap laporan keuangan per 30 Juni 2026 jika seluruh dana maksimal terpakai. Total aset diperkirakan turun dari US$2,42 miliar menjadi US$2,29 miliar, dan total ekuitas turun dengan jumlah yang sama, yakni sekitar US$127,3 juta. Laba periode berjalan tidak berubah di angka US$105,99 juta, tetapi jumlah saham beredar di luar saham treasuri menyusut dari 1.114,8 juta lembar menjadi 1.026 juta lembar. Akibatnya, laba per saham naik dari US$0,095 menjadi US$0,103, dan rasio imbal hasil atas ekuitas atau return on equity naik dari 11,1 persen menjadi 11,9 persen. Perhitungan ini menggunakan kurs JISDOR 2 November 2026 sebesar Rp18.161 per dolar AS.",
+   "Buyback akan dilaksanakan di pasar reguler Bursa Efek Indonesia melalui satu perusahaan efek yang akan ditunjuk ITMG, dengan harga yang dianggap wajar oleh perusahaan. Program bisa dihentikan lebih cepat kalau dana yang terpakai sudah mencapai Rp2,31 triliun atau atas keputusan perusahaan sendiri. Selama periode buyback, anggota dewan komisaris, direksi, karyawan, dan pemegang saham utama ITMG dilarang bertransaksi atas saham perusahaan pada hari yang sama dengan penjualan saham hasil buyback. Saham yang dibeli kembali akan menjadi saham treasuri yang tidak memiliki hak suara, tidak dihitung dalam kuorum RUPS, dan tidak berhak menerima dividen, sampai dialihkan kembali secara bertahap sesuai aturan OJK."
+  ],
+  "fotoAdegan": "Coal conveyor loading dark coal onto a bulk carrier at an Indonesian port, workers in safety vests, hazy afternoon light",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham ITMG, karena buyback didanai penuh dari kas internal tanpa menggerus laba periode berjalan, sementara jumlah saham yang beredar justru berkurang. Pos yang tersentuh adalah ekuitas dan jumlah saham beredar: ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, diperkirakan turun sekitar US$127,3 juta kalau seluruh dana buyback terpakai karena uang itu keluar untuk membeli saham sendiri, sementara saham beredar susut dari 1,11 miliar menjadi 1,03 miliar lembar sehingga laba per saham naik dari US$0,095 menjadi US$0,103 karena laba yang sama kini dibagi untuk lebih sedikit lembar saham. Pelaku pasar memperhatikan laba per saham karena angka itu jadi salah satu acuan menilai kewajaran harga saham suatu perusahaan. Yang perlu dipantau berikutnya adalah realisasi pembelian hingga periode berakhir pada 4 Februari 2027, atau lebih cepat kalau dana Rp2,31 triliun sudah habis terpakai, karena simulasi di atas baru skenario penggunaan dana maksimal, bukan hasil yang sudah pasti terjadi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "flmc-siapkan-anak-usaha-distribusi-ekuitas-jadi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Siapkan Anak Usaha [Distribusi], Ekuitas Jadi Negatif",
+  "deck": "FLMC berencana menambah KBLI Aktivitas Perusahaan Induk untuk membentuk anak usaha distribusi, sementara laporan yang sama menunjukkan ekuitas perseroan berbalik negatif per Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T17:27:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a1ff78252e_5f200904e2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "KBLI",
+   "ekuitas negatif",
+   "anak usaha distribusi"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) menyampaikan keterbukaan informasi mengenai rencana penambahan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 64210, yaitu Aktivitas Perusahaan Induk, ke dalam anggaran dasar perseroan. Rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada 18 November 2026. Perseroan menyatakan tidak memerlukan izin dari kreditur, pihak ketiga, atau instansi berwenang lain untuk perubahan ini.",
+   "Dengan status sebagai perusahaan induk, FLMC berencana mendirikan anak usaha yang bergerak di bidang perdagangan dan distribusi produk perseroan, mencakup penjualan ke pelanggan industri, distributor, jaringan modern trade, dan toko retail, sekaligus mengembangkan merek sendiri (house brand) serta produk private label. Dana yang akan disetor ke anak usaha tersebut diperkirakan Rp4 miliar, bersumber dari kas internal perseroan, dan baru akan direalisasikan setelah RUPSLB menyetujui penambahan kegiatan usaha ini.",
+   "Di tengah rencana ekspansi tersebut, laporan yang sama memuat data keuangan per 30 Juni 2026 yang menunjukkan ekuitas perseroan berbalik menjadi negatif Rp2,59 miliar, dari posisi positif Rp20,66 miliar pada akhir 2025. Jumlah liabilitas perseroan sebesar Rp39,73 miliar sudah melampaui total aset Rp37,14 miliar. Kerugian usaha pada semester I 2026 melebar menjadi Rp11,46 miliar, dari Rp2,88 miliar pada periode yang sama tahun lalu, sementara rugi sebelum pajak membesar dari Rp3,05 miliar menjadi Rp22,65 miliar.",
+   "Dokumen ini juga mencatat adanya gugatan perdata yang masih berproses di Pengadilan Negeri Jakarta Selatan dengan nomor perkara 1418/Pdt.G/2025/PN.Jkt.Sel, yang menyeret perseroan, Direktur Utama Rosalina Indra Wirawati, dan Komisaris Utama Theresia Indrawirawan sebagai pihak tergugat, diajukan oleh Michael Rusli dan belum memperoleh putusan. Dari sisi pemegang saham, posisi Falmaco Pte Ltd per 30 Oktober 2026 turun menjadi 2,89 persen dari sebelumnya 4,99 persen, sementara nama baru, Hans Putra, tercatat memegang 7,88 persen saham. Theresia Indrawirawan tetap menjadi pemegang saham pengendali dan pemilik manfaat akhir perseroan dengan kepemilikan 39,48 persen."
+  ],
+  "fotoAdegan": "Workers stacking rolls of nonwoven fabric and wet tissue packs onto pallets in a bright warehouse, forklift nearby, morning light through skylights.",
+  "takeaway": "Laporan ini condong negatif bagi FLMC karena data keuangan yang disertakan menunjukkan ekuitas perseroan jatuh ke angka minus dan kerugian usaha melebar tajam dalam enam bulan, jauh lebih berat ketimbang manfaat strategis dari penambahan KBLI itu sendiri. Ekuitas adalah selisih antara seluruh aset dan utang perusahaan, semacam kekayaan bersih yang jadi milik pemegang saham, dan begitu angkanya negatif artinya utang perseroan sudah lebih besar daripada semua yang dimilikinya, sinyal yang biasa membuat investor dan kreditur lebih berhati-hati. Rencana membentuk anak usaha distribusi dengan modal Rp4 miliar memang bisa membuka sumber pendapatan baru, tetapi nilainya kecil dibandingkan kerugian usaha semester pertama yang sudah mencapai Rp11,46 miliar. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 18 November 2026 yang menentukan apakah penambahan kegiatan usaha ini disetujui, serta perkembangan gugatan perdata di Pengadilan Negeri Jakarta Selatan yang masih menanti putusan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "zp-rilis-8-waran-terstruktur-baru-mulai-tercatat-9-november",
+  "category": "Aksi Korporasi",
+  "title": "ZP Rilis 8 Waran [Terstruktur] Baru, Mulai Tercatat 9 November",
+  "deck": "Maybank Sekuritas (ZP) menawarkan 8 call waran baru bersandar saham INCO, MAPA, PTBA, PWON, RATU, SMGR, SMRA, dan TLKM, mulai dicatatkan di BEI 9 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T17:26:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bb6f47d434_b543a45941.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "call warrant",
+   "Maybank Sekuritas"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, dengan kode penerbit ZP, menyampaikan term sheet penawaran umum atas delapan seri waran terstruktur tipe call baru dengan masa berlaku 10 bulan sejak pencatatan. Kedelapan waran ini memakai saham PT Vale Indonesia (INCO), PT Map Aktif Adiperkasa (MAPA), PT Bukit Asam (PTBA), PT Pakuwon Jati (PWON), PT Raharja Energi Cepu (RATU), PT Semen Indonesia (SMGR), PT Summarecon Agung (SMRA), dan PT Telkom Indonesia (TLKM) sebagai acuan harga. Masing-masing waran mencatatkan 500 juta unit di Bursa Efek Indonesia pada 9 November 2026, dengan opsi tambahan penerbitan hingga 500 juta unit lagi untuk kebutuhan Maybank Sekuritas sendiri selaku penyedia likuiditas.",
+   "Harga penawaran dan harga pelaksanaan setiap waran berbeda-beda. Waran INCOZPCQ7A ditawarkan Rp26 dengan harga pelaksanaan Rp3.000 dan rasio konversi 40 waran untuk 1 saham INCO. Waran MAPAZPCQ7A ditawarkan Rp19, harga pelaksanaan Rp650, rasio 7 banding 1. Waran PTBAZPCQ7A ditawarkan Rp36 dengan harga pelaksanaan Rp3.500. Waran PWONZPCQ7A ditawarkan Rp15, harga pelaksanaan Rp300, rasio 3 banding 1. Waran RATUZPCQ7A ditawarkan Rp17, harga pelaksanaan Rp1.800, rasio 40 banding 1. Waran SMGRZPCQ7A ditawarkan Rp29, harga pelaksanaan Rp1.300, rasio 15 banding 1. Waran SMRAZPCQ7A ditawarkan Rp17, harga pelaksanaan Rp300, rasio 3 banding 1. Waran TLKMZPCQ7A ditawarkan Rp43, harga pelaksanaan Rp1.800, rasio 14 banding 1.",
+   "Masa penawaran kedelapan waran ditutup pada 4 November 2026, bertepatan dengan tanggal penetapan harga. Penjatahan rampung sehari setelahnya, 5 November 2026, dan jika ada sisa pemesanan yang dikembalikan, uangnya cair paling lambat 6 November 2026. Seluruh waran diperdagangkan di bursa mulai 9 November 2026 sampai 26 Agustus 2027, dengan tanggal pelaksanaan pada 31 Agustus 2027. Penyelesaiannya tunai dan otomatis jika pada tanggal itu posisi waran masih untung, dihitung dari selisih rata-rata harga penutupan saham acuan lima hari bursa sebelum tanggal pelaksanaan dengan harga pelaksanaan, dibagi rasio konversi. Jika hasil hitungan itu nol atau negatif, seluruh waran berakhir tanpa pembayaran apa pun kepada pemegangnya."
+  ],
+  "fotoAdegan": "Wide exterior shot of the Indonesia Stock Exchange building in Jakarta with pedestrians and taxis passing by at midday",
+  "takeaway": "Laporan ini netral, baik bagi Maybank Sekuritas selaku penerbit maupun bagi kedelapan saham acuan mulai INCO sampai TLKM, karena ini murni produk investasi derivatif baru yang ditawarkan ke publik, bukan aksi korporasi dari saham-saham yang dijadikan acuan. Waran terstruktur semacam ini cuma kontrak yang nilainya mengikuti selisih harga saham acuan dengan harga pelaksanaan yang disepakati di awal, sehingga tidak mengubah jumlah saham beredar, ekuitas, maupun laba per saham dari kedelapan emiten acuan tersebut. Yang menanggung risiko hanya pembeli waran ini sendiri, karena jika harga saham acuan tidak pernah melewati harga pelaksanaan sampai jatuh tempo, seluruh investasi mereka di waran itu hilang tanpa sisa. Yang perlu dipantau selanjutnya adalah tanggal pencatatan di bursa pada 9 November 2026 saat kedelapan waran mulai diperdagangkan, dan tanggal pelaksanaan pada 31 Agustus 2027 saat penyelesaian tunai otomatis dihitung dari rata-rata harga penutupan saham acuan lima hari sebelumnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-rilis-10-waran-terstruktur-baru-tercatat-9-november",
+  "category": "Aksi Korporasi",
+  "title": "ZP Rilis 10 Waran [Terstruktur] Baru, Tercatat 9 November",
+  "deck": "Maybank Sekuritas menerbitkan 10 waran terstruktur call baru berbasis ACES, ADMR, ANTM, BBNI, BBTN, BFIN, BMRI, ERAA, ESSA, dan HEAL, mulai tercatat di BEI 9 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T17:26:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f4c4ea1dc_b4e1591e69.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "Maybank Sekuritas",
+   "BEI"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, dengan kode penerbit ZP, menyampaikan term sheet penawaran umum untuk 10 waran terstruktur tipe call baru bergaya Eropa dengan penyelesaian tunai. Kesepuluh waran ini berbasis saham ACES, ADMR, ANTM, BBNI, BBTN, BFIN, BMRI, ERAA, ESSA, dan HEAL. Setiap waran mencatatkan 500 juta unit di Bursa Efek Indonesia, dengan rencana penerbitan tambahan hingga 500 juta unit lagi untuk memfasilitasi Liquidity Provider. Seluruh waran berlaku 10 bulan dengan tanggal pelaksanaan pada 31 Agustus 2027.",
+   "Dari tujuh waran yang rinciannya tercantum lengkap, harga penawaran dan harga pelaksanaan bervariasi sesuai saham acuan. ADMRZPCQ7A ditawarkan Rp33 dengan harga pelaksanaan Rp1.400 dan rasio konversi 12 waran berbanding 1 saham ADMR. ANTMZPCQ7A ditawarkan Rp29, pelaksanaan Rp2.700, rasio 25:1. BBNIZPCQ7A ditawarkan Rp35, pelaksanaan Rp3.500, rasio 20:1. BFINZPCQ7A ditawarkan Rp22, pelaksanaan Rp900, rasio 8:1. ERAAZPCQ7A ditawarkan Rp24, pelaksanaan Rp450, rasio 7:1. ESSAZPCQ7A ditawarkan Rp18, pelaksanaan Rp575, rasio 8:1. HEALZPCQ7A ditawarkan Rp21, pelaksanaan Rp440, rasio 7:1. Rincian harga untuk ACESZPCQ7A, BBTNZPCQ7A, dan BMRIZPCQ7A tidak tercantum dalam dokumen yang diterima.",
+   "Jadwal penawaran untuk seluruh waran sama: batas masa penawaran dan penetapan harga pada 4 November 2026, akhir penjatahan 5 November, dan pengembalian uang pemesanan jika terjadi kelebihan pemesanan pada 6 November. Pencatatan di BEI dijadwalkan 9 November 2026, dengan periode perdagangan berlangsung sampai 26 Agustus 2027. Penyelesaian dilakukan otomatis secara tunai pada tanggal pelaksanaan, dihitung dari selisih rata-rata harga penutupan saham acuan selama 5 hari bursa terakhir dikurangi harga pelaksanaan, lalu dibagi rasio konversi. Jika hasilnya nol atau negatif, waran berakhir tanpa pembayaran kepada pemegangnya."
+  ],
+  "fotoAdegan": "Glass facade of a modern stock exchange tower in Jakarta's financial district reflecting a bright midday sky, busy street below.",
+  "takeaway": "Laporan ini netral, baik bagi kesepuluh saham acuan maupun bagi Maybank Sekuritas selaku penerbit, karena ini murni peluncuran produk derivatif baru, bukan tindakan korporasi yang mengubah kondisi keuangan perusahaan-perusahaan acuan. Penerbitan waran ini tidak menambah jumlah saham beredar maupun mengubah ekuitas ACES, ADMR, ANTM, BBNI, BBTN, BFIN, BMRI, ERAA, ESSA, atau HEAL, sebab waran diterbitkan dan dijamin sendiri oleh Maybank Sekuritas, bukan oleh emiten yang sahamnya dijadikan acuan, dan yang bertambah hanyalah pilihan instrumen spekulasi harga dengan modal kecil bagi investor. Yang perlu dipantau adalah tanggal pencatatan di BEI pada 9 November 2026, serta tenggat pengembalian uang pemesanan pada 6 November 2026 jika terjadi kelebihan pemesanan pada masa penawaran yang berakhir 4 November.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smar-bagikan-dividen-interim-rp490-saham-total-rp1-41-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Bagikan Dividen Interim [Rp490]/Saham, Total Rp1,41 Triliun",
+  "deck": "Direksi SMAR menetapkan dividen interim tahun buku 2026 sebesar Rp490 per saham, total Rp1,41 triliun, dibayarkan 26 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T17:09:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aebb8de4b7_ed6a22dca6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMAR",
+  "tags": [
+   "SMAR",
+   "dividen interim",
+   "agribisnis",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Sinar Mas Agro Resources and Technology Tbk (SMAR) menetapkan pembagian dividen tunai interim untuk tahun buku 2026 sebesar Rp490 per saham. Keputusan ini diambil Direksi dan disetujui Dewan Komisaris pada 3 November 2026, dengan total dividen yang dibagikan mencapai Rp1.407.374.749.340, atau sekitar Rp1,41 triliun. Berdasarkan pembagian nilai total dengan dividen per saham, jumlah saham beredar SMAR saat ini sekitar 2,87 miliar lembar.",
+   "Perusahaan menetapkan 16 November 2026 pukul 16.00 WIB sebagai tanggal daftar pemegang saham (recording date) yang berhak menerima dividen ini. Bagi investor yang bertransaksi di pasar reguler dan negosiasi, batas akhir membeli saham untuk masih mendapat dividen (cum dividen) adalah 12 November 2026, dengan tanggal mulai tidak lagi membawa hak dividen (ex dividen) pada 13 November 2026. Untuk pasar tunai, cum dividen jatuh pada 16 November dan ex dividen pada 17 November 2026. Pembayaran dividen dijadwalkan pada 26 November 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan SMAR per 30 September 2026, yakni laba bersih yang diatribusikan ke entitas induk sebesar Rp4,06 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp22,73 triliun, dan total ekuitas Rp25,87 triliun. Dengan demikian, dividen yang dibagikan setara sekitar 34,6 persen dari laba bersih sembilan bulan tersebut. Perseroan juga mengumumkan bahwa dividen tunai dikecualikan dari pajak bagi pemegang saham badan dalam negeri, serta bagi pemegang saham orang pribadi dalam negeri sepanjang dividen diinvestasikan kembali di Indonesia. Pemegang saham yang masih memegang saham dalam bentuk warkat (fisik) diminta melaporkan nomor rekening banknya ke biro administrasi efek PT Sinartama Gunita paling lambat 19 November 2026."
+  ],
+  "fotoAdegan": "Workers loading fresh palm fruit bunches onto a truck at a plantation collection point, early morning light",
+  "takeaway": "Laporan ini condong positif bagi SMAR karena perusahaan membagikan dividen dari posisi laba yang sehat, hanya sekitar 34,6 persen dari laba bersih sembilan bulan terakhir, sehingga masih menyisakan saldo laba ditahan yang besar untuk ekspansi atau penyangga di masa depan. Pos yang tersentuh adalah ekuitas dan arus kas, karena saat dividen dibayarkan pada 26 November 2026, kas perusahaan akan berkurang sekitar Rp1,41 triliun dan saldo laba ditahan ikut terpotong sebesar itu, meski porsinya cuma sekitar 6 persen dari total laba ditahan Rp22,73 triliun sehingga dampaknya terbatas. Pembagian ini tidak melibatkan penerbitan saham baru sehingga tidak ada risiko pengenceran jumlah saham beredar maupun laba per saham. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 16 November 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta realisasi pembayaran pada 26 November 2026 sebagai konfirmasi bahwa rencana ini benar-benar terlaksana sesuai jadwal.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "djp-tawarkan-potongan-sanksi-pajak-100-hingga-akhir-2026",
   "category": "Makroekonomi",
   "title": "DJP Tawarkan Potongan Sanksi Pajak [100]% hingga Akhir 2026",
@@ -29,6 +265,111 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "takeaway": "Yang berubah adalah besaran potongan sanksi administratif pajaknya dibuat menurun bertahap: bisa sampai 100 persen kalau wajib pajak menuntaskan kewajibannya sebelum akhir Desember 2026, lalu turun menjadi 50 persen pada awal 2027 dan 25 persen pada pertengahan 2027, meski masa pengajuan resminya sendiri masih dibuka sampai Oktober 2028. Yang terdampak adalah wajib pajak, baik perorangan maupun pelaku usaha, yang telat melaporkan pajak tahunannya, sedang ditegur lewat surat klarifikasi dari kantor pajak, atau punya tunggakan pajak, dengan ajakan kali ini ditujukan khusus ke wajib pajak di Papua, Papua Barat, dan Maluku. Skema potongan yang mengecil seiring waktu ini membaca arah yang cukup jelas, yaitu pemerintah ingin mendorong wajib pajak membayar lebih cepat, kemungkinan untuk mengamankan penerimaan negara sebelum tutup tahun anggaran 2026. Penting diingat, potongan ini hanya mengurangi sanksinya, bukan pokok pajak yang tetap harus dibayar penuh. Yang akan menunjukkan apakah dorongan ini berhasil adalah data realisasi penerimaan pajak kuartal keempat yang biasanya diumumkan Kementerian Keuangan pada awal tahun berikutnya.",
   "imageV": "mw1yldw3"
+ },
+ {
+  "slug": "ptsp-realisasi-17-gerai-baru-laba-tumbuh-12-ke-rp15-48-m",
+  "category": "Aksi Korporasi",
+  "title": "PTSP Realisasi 17 Gerai Baru, [Laba] Tumbuh 12% ke Rp15,48 M",
+  "deck": "Dalam public expose insidentil, manajemen CFC melaporkan laba bersih kuartal III 2026 naik 12 persen menjadi Rp15,48 miliar, dengan realisasi 17 dari target 20 gerai baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T16:51:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/50fde83d7c_b444487cbc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTSP",
+  "tags": [
+   "PTSP",
+   "CFC",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Pioneerindo Gourmet International Tbk (PTSP), pengelola jaringan restoran cepat saji California Fried Chicken (CFC), menggelar public expose insidentil secara virtual melalui aplikasi Zoom pada Selasa, 3 November 2026, pukul 10.00 hingga 10.30 WIB. Acara dibuka oleh karyawan perseroan, Erikson Pandiangan, selaku moderator, dengan pemaparan materi oleh Direktur PTSP Teh Kian Kun, dilanjutkan sesi tanya jawab bersama Wakil Direktur Utama Edi Triyento. Tiga reporter media, dari Investor Daily, Kontan, dan Bisnis Indonesia, hadir secara virtual dalam sesi tersebut.",
+   "Manajemen menyebut pendapatan usaha bersih perseroan hingga September 2026 tumbuh 4,2 persen secara tahunan menjadi Rp556,3 miliar, dari sebelumnya Rp533 miliar. Laba tahun berjalan yang dapat diatribusikan kepada pemilik entitas induk naik 12 persen menjadi Rp15,48 miliar dari Rp13,82 miliar pada periode yang sama tahun lalu. Manajemen optimistis target pertumbuhan pendapatan 5 persen dan laba bersih 10 sampai 15 persen sepanjang 2026 dapat tercapai. Dari sisi neraca, total aset naik Rp25,9 miliar atau 7,3 persen, ekuitas bertambah Rp17,4 miliar atau 9,5 persen, sementara total liabilitas justru turun sekitar Rp8,5 miliar atau 5 persen.",
+   "Dari target pembukaan 20 gerai baru sepanjang 2026, perseroan telah merealisasikan 17 gerai hingga kuartal III, dengan belanja modal sekitar Rp7 miliar hingga Rp8 miliar yang seluruhnya dibiayai dari kas internal. Beberapa gerai tambahan masih dalam proses pembangunan sehingga manajemen yakin sisa tiga gerai dapat selesai sebelum akhir tahun. Dari sisi portofolio merek, CFC masih menyumbang sekitar 97 persen pendapatan perseroan, sementara tiga merek lain, Sapo Oriental, CalDonat, dan Sugakiya, menyumbang sisanya sekitar 3 persen. Untuk menjaga penjualan, perseroan mengandalkan strategi produk musiman limited time offer yang diperbarui setiap tiga sampai empat bulan, dengan ayam goreng rasa mala sebagai peluncuran terbaru yang disebut mendapat respons penjualan cukup baik. Manajemen menegaskan belum ada penyesuaian harga jual produk meski ada tekanan biaya bahan baku, kemasan, dan tenaga kerja, dan menjaga margin lewat negosiasi biaya sewa dengan vendor serta efisiensi penggunaan air, listrik, dan gas.",
+   "Menjawab pertanyaan wartawan, manajemen memastikan tidak ada rencana aksi korporasi dalam waktu dekat di luar rencana kerja yang sudah ditetapkan. Untuk 2027, manajemen memperkirakan persaingan industri restoran cepat saji masih akan berlangsung ketat, sehingga inovasi produk dan pengendalian biaya tetap menjadi fokus strategi perseroan."
+  ],
+  "fotoAdegan": "Kitchen staff frying chicken pieces in large steel fryers at a busy fast-food restaurant counter, stainless surfaces, warm lighting",
+  "takeaway": "Laporan ini condong positif karena hampir semua indikator bergerak ke arah yang baik, pendapatan dan laba sama-sama tumbuh, ekuitas membesar, dan utang malah mengecil, sementara ekspansi gerai berjalan sesuai rencana tanpa tambahan pinjaman atau saham baru. Pos yang tersentuh ada tiga: ekuitas, yaitu modal milik pemegang saham, naik Rp17,4 miliar karena ditambah dari laba yang ditahan bukan dari suntikan dana luar; beban utang yang justru turun Rp8,5 miliar sehingga perseroan makin tidak bergantung pada pinjaman; dan belanja modal Rp7 miliar hingga Rp8 miliar untuk gerai baru yang dibiayai penuh dari kas sendiri sehingga ekspansi ini tidak menambah risiko keuangan. Yang perlu dipantau berikutnya adalah realisasi tiga gerai sisa dari target 20 gerai hingga akhir Desember 2026, serta apakah pertumbuhan laba bisa mencapai batas atas target manajemen sebesar 15 persen saat laporan keuangan tahun penuh 2026 terbit, mengingat realisasi pertumbuhan pendapatan baru 4,2 persen dari target 5 persen.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "wico-review-keuangan-kuartal-iii-untuk-rencana-jual-aset",
+  "category": "Aksi Korporasi",
+  "title": "WICO Review Keuangan Kuartal III untuk Rencana [Jual] Aset",
+  "deck": "WICO memberitahu BEI rencana penelaahan terbatas laporan keuangan interim Kuartal III 2026 guna mendukung rencana penjualan salah satu asetnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T16:39:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1b385c81ec_38a0be20a9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WICO",
+  "tags": [
+   "WICO",
+   "limited review",
+   "penjualan aset",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Wicaksana Overseas International Tbk (WICO) menyampaikan kepada Bursa Efek Indonesia rencana melakukan penelaahan terbatas (limited review) atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Surat bernomor 002/WICO/Corsec/XI/2026 ini ditandatangani Direktur WICO, Andika Laksmana Putra, dan tertanggal 4 November 2026 di Jakarta.",
+   "Dalam surat itu, perseroan menjelaskan bahwa penelaahan terbatas tersebut dilakukan untuk memperoleh laporan keuangan interim yang disertai laporan dari akuntan publik, dan laporan ini dimaksudkan untuk mendukung proses rencana penjualan salah satu aset perusahaan. Dokumen tidak merinci aset mana yang dimaksud, berapa nilainya, atau siapa calon pembelinya.",
+   "Perseroan menyebut masih memproses penunjukan Kantor Akuntan Publik (KAP) yang akan melaksanakan penelaahan tersebut, dan hingga tanggal surat ini proses penunjukan belum difinalisasi. WICO berjanji akan menyampaikan informasi mengenai KAP dan akuntan publik yang ditunjuk setelah proses selesai, serta perkembangan material lain jika ada perubahan dari informasi yang disampaikan dalam surat ini."
+  ],
+  "fotoAdegan": "Workers loading boxes onto a delivery truck at a logistics warehouse loading dock, daylight",
+  "takeaway": "Laporan ini netral bagi pemegang saham karena belum ada rincian soal aset yang akan dijual, nilai transaksinya, atau dampaknya terhadap keuangan perusahaan, jadi masih terlalu dini untuk disebut sinyal positif atau negatif. Pos yang tersentuh di sini adalah arus kas, yaitu aliran uang tunai masuk dan keluar dari kegiatan perusahaan, karena penjualan aset biasanya mendatangkan dana segar yang bisa dipakai untuk membayar utang atau menambah modal kerja, dan laporan keuangan yang ditelaah akuntan publik independen juga membuat angka asetnya lebih bisa dipercaya oleh calon pembeli. Yang perlu dipantau berikutnya adalah pengumuman nama KAP yang akhirnya ditunjuk serta detail aset yang dijual, termasuk nilai dan pembelinya, yang menurut surat ini akan disampaikan begitu proses penunjukan dan transaksi berjalan lebih jauh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bipp-rampungkan-pmthmetd-saham-baru-ke-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Rampungkan PMTHMETD, Saham Baru ke [Afiliasi]",
+  "deck": "BIPP merampungkan penambahan modal tanpa HMETD senilai Rp100,57 miliar, seluruh 502,8 juta saham baru diserap dua pihak terafiliasi dengan harga Rp200 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T16:38:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f5b435a51d_2a0f01a604.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "dilusi saham",
+   "pihak terafiliasi"
+  ],
+  "body": [
+   "PT Bhuwanatala Indah Permai Tbk (BIPP) menyelesaikan pelaksanaan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) sesuai persetujuan Rapat Umum Pemegang Saham Luar Biasa Independen pada 16 Oktober 2026. Total saham baru yang diterbitkan sebanyak 502.866.937 lembar dengan harga pelaksanaan Rp200 per saham. Pelaksanaan dan distribusi saham dilakukan pada 4 November 2026, dengan rencana pencatatan saham tambahan di Bursa Efek Indonesia pada 5 November 2026.",
+   "Seluruh saham baru diserap oleh dua pihak yang berstatus terafiliasi dengan Perseroan. Safire Capital Pte. Ltd mengambil 8.400.000 saham senilai Rp1,68 miliar, sementara PT Gratamulia Pratama mengambil porsi jauh lebih besar, yakni 494.466.937 saham senilai Rp98,89 miliar. Total dana yang masuk ke kas Perseroan dari aksi ini sekitar Rp100,57 miliar.",
+   "Modal ditempatkan dan disetor Perseroan sebelum transaksi berjumlah 5.028.669.376 saham, dan setelah penambahan modal ini menjadi 5.531.536.313 saham, naik sekitar 10 persen. Perseroan menyatakan dana hasil PMTHMETD, setelah dikurangi biaya, akan dipakai untuk memperkuat struktur permodalan serta memenuhi kebutuhan modal kerja dan belanja modal Perseroan maupun anak usahanya."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's financial district reflecting afternoon sunlight, street level view, no visible signage",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik karena seluruh tambahan 502,8 juta saham, setara sekitar 10 persen dari saham yang sudah beredar, jatuh ke dua pihak yang sama-sama berstatus terafiliasi dengan pengendali Perseroan, sementara publik tidak diberi jatah untuk ikut menyerap. Yang tersentuh adalah jumlah saham beredar dan ekuitas: karena penambahan modal ini dilakukan tanpa hak memesan efek terlebih dahulu alias tanpa HMETD, pemegang saham lama tidak diberi kesempatan membeli saham baru lebih dulu sehingga porsi kepemilikan dan laba per saham mereka otomatis tergerus begitu jumlah saham beredar bertambah, meski di sisi lain ekuitas Perseroan bertambah karena ada dana segar sekitar Rp100,57 miliar yang masuk. Yang perlu dipantau berikutnya adalah pencatatan resmi saham tambahan ini di Bursa Efek Indonesia pada 5 November 2026, serta laporan realisasi penggunaan dana PMTHMETD yang biasanya wajib disampaikan Perseroan secara berkala untuk memastikan dana itu benar dipakai sesuai rencana, yakni modal kerja dan belanja modal.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "icon-laba-bersih-9m26-ambruk-82-jadi-rp367-juta",
+  "category": "Aksi Korporasi",
+  "title": "ICON: Laba Bersih 9M26 [Ambruk] 82% Jadi Rp367 Juta",
+  "deck": "Laba bersih ICON sembilan bulan 2026 turun 82 persen jadi Rp367 juta, sementara perusahaan menarik utang bank baru Rp21,9 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T16:35:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104164732-65586-0/FinancialStatement-2026-III-ICON.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ICON",
+  "tags": [
+   "ICON",
+   "laporan keuangan",
+   "laba bersih",
+   "utang bank"
+  ],
+  "body": [
+   "Island Concepts Indonesia Tbk (ICON) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, dibandingkan dengan posisi akhir Desember 2025 dan laba rugi periode yang sama tahun 2025. Laporan ditandatangani Presiden Direktur Putu Agung Prianta dan Direktur Keuangan R. Iskandar Hidayat pada 29 Oktober 2026, dengan pernyataan bahwa seluruh informasi dalam laporan telah disajikan lengkap dan benar.",
+   "Laba bersih perusahaan untuk sembilan bulan 2026 tercatat Rp367,2 juta, turun 82 persen dari Rp2,05 miliar pada periode yang sama tahun 2025. Dari sisi aset, total aset naik menjadi Rp397,32 miliar per akhir September 2026 dari Rp368,38 miliar di akhir 2025, terutama didorong kenaikan piutang sewa pembiayaan lancar dari Rp70,67 miliar menjadi Rp95,09 miliar. Kas dan setara kas ikut naik menjadi Rp7,84 miliar dari Rp6,44 miliar.",
+   "Di sisi liabilitas, ICON mencatat utang bank jangka pendek baru senilai Rp21,9 miliar yang sebelumnya nihil di akhir 2025, sehingga total liabilitas melonjak menjadi Rp173,85 miliar dari Rp144,46 miliar, naik sekitar 20 persen. Ekuitas pemegang saham relatif stabil di Rp223,47 miliar, hampir sama dengan Rp223,92 miliar di akhir tahun lalu, sehingga kenaikan aset dan liabilitas tersebut sebagian besar dibiayai dari utang baru, bukan dari tambahan modal pemegang saham."
+  ],
+  "fotoAdegan": "Modern low-rise office building with glass windows surrounded by palm trees on a quiet street in Bali, overcast morning light",
+  "takeaway": "Laporan ini condong negatif bagi ICON karena laba bersih sembilan bulan ambruk 82 persen menjadi Rp367,2 juta dari Rp2,05 miliar tahun lalu, sementara perusahaan baru menarik utang bank jangka pendek Rp21,9 miliar yang sebelumnya tidak ada. Dua pos yang tersentuh adalah laba bersih dan utang berbunga: laba yang menyusut berarti ruang gerak keuangan perusahaan menyempit, sementara utang bank baru menambah beban bunga yang harus dibayar ke depan sehingga mengurangi kas yang tersisa untuk operasional. Di sisi lain, ekuitas atau modal pemegang saham masih relatif stabil di kisaran Rp223 miliar, jadi belum ada penggerusan modal yang parah. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV dan tahun penuh 2026 yang biasanya terbit sekitar akhir April, untuk melihat apakah penurunan laba ini berlanjut dan bagaimana utang bank baru tersebut akan dilunasi.",
+  "sentimen": "negatif"
  },
  {
   "slug": "msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham",

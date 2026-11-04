@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "toba-jelaskan-ke-bursa-soal-pendanaan-us-429-juta-ke-sbth",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Jelaskan ke Bursa Soal Pendanaan [US$429 Juta] ke SBTH",
+  "deck": "TOBA menjelaskan ke BEI soal reorganisasi bisnis limbah dan investasi hingga US$429 juta ke anak usaha SBTH, yang perlu persetujuan RUPSLB 27 November 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "transaksi material",
+   "RUPSLB",
+   "pengelolaan limbah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/be1b6765c1_0c7b577669.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-hero-26-nov-calon-presdir-berafiliasi-pemegang-saham-utama",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB HERO 26 Nov, Calon Presdir [Berafiliasi] Pemegang Saham Utama",
+  "deck": "HERO memanggil RUPSLB pada 26 November 2026 untuk menyetujui perubahan susunan direksi, termasuk calon presiden direktur baru yang berafiliasi dengan pemegang saham utama.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HERO",
+   "RUPSLB",
+   "Direksi",
+   "Tata Kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d440aca953_a8bf96c659.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-resmi-delisting-etf-xnve-efektif-5-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BEI Resmi [Delisting] ETF XNVE Efektif 5 November 2026",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan ETF XNVE, Reksa Dana Indeks Nusadana IDX Value30, efektif 5 November 2026 setelah OJK mencabut pernyataan efektifnya akibat likuidasi.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XNVE",
+   "delisting",
+   "reksa dana",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/581dec033a_2857aac0c3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-tender-wajib-berakhir-nihil-saham-terjual",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: Tender Wajib Berakhir, [Nihil] Saham Terjual",
+  "deck": "Tender wajib PT Sinergi Internasional Investama atas saham DOOH berakhir tanpa satu pun pemegang saham publik yang menjual sahamnya.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "tender wajib",
+   "pengendali baru",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/299ce6c3ed_69f15070cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "itmg-siapkan-buyback-saham-senilai-rp2-31-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ITMG Siapkan [Buyback] Saham Senilai Rp2,31 Triliun",
+  "deck": "Indo Tambangraya Megah akan membeli kembali saham senilai maksimal Rp2,31 triliun dari kas internal, berlaku 5 November 2026 hingga 4 Februari 2027, sesuai aturan OJK untuk pasar bergejolak.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ITMG",
+   "buyback",
+   "pasar modal",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d10c605d0b_5464cccc88.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "flmc-siapkan-anak-usaha-distribusi-ekuitas-jadi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Siapkan Anak Usaha [Distribusi], Ekuitas Jadi Negatif",
+  "deck": "FLMC berencana menambah KBLI Aktivitas Perusahaan Induk untuk membentuk anak usaha distribusi, sementara laporan yang sama menunjukkan ekuitas perseroan berbalik negatif per Juni 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "KBLI",
+   "ekuitas negatif",
+   "anak usaha distribusi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a1ff78252e_5f200904e2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-rilis-8-waran-terstruktur-baru-mulai-tercatat-9-november",
+  "category": "Aksi Korporasi",
+  "title": "ZP Rilis 8 Waran [Terstruktur] Baru, Mulai Tercatat 9 November",
+  "deck": "Maybank Sekuritas (ZP) menawarkan 8 call waran baru bersandar saham INCO, MAPA, PTBA, PWON, RATU, SMGR, SMRA, dan TLKM, mulai dicatatkan di BEI 9 November 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "call warrant",
+   "Maybank Sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bb6f47d434_b543a45941.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-rilis-10-waran-terstruktur-baru-tercatat-9-november",
+  "category": "Aksi Korporasi",
+  "title": "ZP Rilis 10 Waran [Terstruktur] Baru, Tercatat 9 November",
+  "deck": "Maybank Sekuritas menerbitkan 10 waran terstruktur call baru berbasis ACES, ADMR, ANTM, BBNI, BBTN, BFIN, BMRI, ERAA, ESSA, dan HEAL, mulai tercatat di BEI 9 November 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "Maybank Sekuritas",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f4c4ea1dc_b4e1591e69.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smar-bagikan-dividen-interim-rp490-saham-total-rp1-41-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SMAR Bagikan Dividen Interim [Rp490]/Saham, Total Rp1,41 Triliun",
+  "deck": "Direksi SMAR menetapkan dividen interim tahun buku 2026 sebesar Rp490 per saham, total Rp1,41 triliun, dibayarkan 26 November 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMAR",
+   "dividen interim",
+   "agribisnis",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aebb8de4b7_ed6a22dca6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "djp-tawarkan-potongan-sanksi-pajak-100-hingga-akhir-2026",
   "category": "Makroekonomi",
   "title": "DJP Tawarkan Potongan Sanksi Pajak [100]% hingga Akhir 2026",
@@ -21,6 +165,70 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/sanksi-pajak-bisa-dikurangi-hingga-100-djp-papabrama-ajak-wajib-pajak-manfaatkan",
   "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "ptsp-realisasi-17-gerai-baru-laba-tumbuh-12-ke-rp15-48-m",
+  "category": "Aksi Korporasi",
+  "title": "PTSP Realisasi 17 Gerai Baru, [Laba] Tumbuh 12% ke Rp15,48 M",
+  "deck": "Dalam public expose insidentil, manajemen CFC melaporkan laba bersih kuartal III 2026 naik 12 persen menjadi Rp15,48 miliar, dengan realisasi 17 dari target 20 gerai baru.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTSP",
+   "CFC",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/50fde83d7c_b444487cbc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wico-review-keuangan-kuartal-iii-untuk-rencana-jual-aset",
+  "category": "Aksi Korporasi",
+  "title": "WICO Review Keuangan Kuartal III untuk Rencana [Jual] Aset",
+  "deck": "WICO memberitahu BEI rencana penelaahan terbatas laporan keuangan interim Kuartal III 2026 guna mendukung rencana penjualan salah satu asetnya.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WICO",
+   "limited review",
+   "penjualan aset",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1b385c81ec_38a0be20a9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bipp-rampungkan-pmthmetd-saham-baru-ke-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Rampungkan PMTHMETD, Saham Baru ke [Afiliasi]",
+  "deck": "BIPP merampungkan penambahan modal tanpa HMETD senilai Rp100,57 miliar, seluruh 502,8 juta saham baru diserap dua pihak terafiliasi dengan harga Rp200 per saham.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "dilusi saham",
+   "pihak terafiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f5b435a51d_2a0f01a604.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "icon-laba-bersih-9m26-ambruk-82-jadi-rp367-juta",
+  "category": "Aksi Korporasi",
+  "title": "ICON: Laba Bersih 9M26 [Ambruk] 82% Jadi Rp367 Juta",
+  "deck": "Laba bersih ICON sembilan bulan 2026 turun 82 persen jadi Rp367 juta, sementara perusahaan menarik utang bank baru Rp21,9 miliar.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ICON",
+   "laporan keuangan",
+   "laba bersih",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104164732-65586-0/FinancialStatement-2026-III-ICON.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham",
@@ -6260,224 +6468,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030094727-65395-0/FinancialStatement-2026-III-HAIS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beras-sphp-dioplos-mentan-amran-usul-hukuman-mati",
-  "category": "Bisnis",
-  "title": "Beras SPHP [Dioplos], Mentan Amran Usul Hukuman Mati",
-  "deck": "Menteri Pertanian Andi Amran Sulaiman geram atas praktik pengoplosan beras subsidi SPHP jadi beras premium, menyebut pelakunya pantas dihukum mati jika memungkinkan.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/beras-sphp-dioplos-mentan-amran-usul-hukuman-mati.jpg",
-  "imageV": "mvuiw06s",
-  "tags": [
-   "beras",
-   "SPHP",
-   "Bulog",
-   "pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475706-mentan-amran-murka-sebut-pelaku-oplos-beras-sphp-pantas-dihukum-mati"
- },
- {
-  "slug": "hekrafnas-2026-transaksi-umkm-tembus-rp6-miliar-sehari",
-  "category": "UMKM",
-  "title": "Hekrafnas 2026: Transaksi [UMKM] Tembus Rp6 Miliar Sehari",
-  "deck": "Perayaan Hari Ekonomi Kreatif Nasional 2026 melibatkan 680 UMKM di enam provinsi dengan transaksi harian sekitar Rp6 miliar, dari Papua hingga Sumatera Utara.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/hekrafnas-2026-transaksi-umkm-tembus-rp6-miliar-sehari.jpg",
-  "imageV": "mvuiw0l8",
-  "tags": [
-   "ekonomi kreatif",
-   "umkm",
-   "gekrafs",
-   "papua"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475710-hari-ekonomi-kreatif-nasional-2026-catat-perputaran-transaksi-capai-rp6-miliar-dalam-sehari-ratusan-umkm-terlibat"
- },
- {
-  "slug": "perumnas-btn-luncurkan-nabung-dp-untuk-rumah-pemuda",
-  "category": "Perbankan",
-  "title": "Perumnas-BTN Luncurkan [Nabung DP] untuk Rumah Pemuda",
-  "deck": "Perumnas dan BTN meluncurkan program tabungan uang muka rumah Nabung DP lewat Festival Hunian Pemuda di Jakarta, menyasar generasi muda calon pembeli rumah pertama.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/perumnas-btn-luncurkan-nabung-dp-untuk-rumah-pemuda.jpg",
-  "imageV": "mvuiw165",
-  "tags": [
-   "perumnas",
-   "btn",
-   "nabung dp",
-   "hunian pemuda"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475707-momentum-sumpah-pemuda-generasi-muda-tanah-air-didorong-miliki-hunian-lewat-inovasi-pembiayaan"
- },
- {
-  "slug": "hashim-warga-17-tahun-dapat-rekening-bank-gratis",
-  "category": "Makroekonomi",
-  "title": "Hashim: Warga 17 Tahun Dapat [Rekening Bank] Gratis",
-  "deck": "Hashim Djojohadikusumo mengungkap pemerintah akan memberi rekening bank gratis bagi warga usia 17 tahun ke atas agar bansos bisa ditransfer langsung tanpa perantara.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/hashim-warga-17-tahun-dapat-rekening-bank-gratis.jpg",
-  "imageV": "mvuiw1su",
-  "tags": [
-   "bansos",
-   "rekening bank",
-   "kadin indonesia",
-   "hashim djojohadikusumo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475696-hashim-ungkap-pemerintah-berencana-beri-rekening-bank-gratis-untuk-warga-usia-17-tahun-ke-atas-bansos-langsung-ditransfer"
- },
- {
-  "slug": "djp-sulselbartra-ganjar-penghargaan-wajib-pajak-patuh",
-  "category": "Makroekonomi",
-  "title": "DJP Sulselbartra [Ganjar] Penghargaan Wajib Pajak Patuh",
-  "deck": "Kanwil DJP Sulselbartra memberi penghargaan kepatuhan pajak kepada perusahaan tambang nikel PT Ceria Nugraha Indotama dalam ajang Tax Gathering 2026.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/djp-sulselbartra-ganjar-penghargaan-wajib-pajak-patuh.jpg",
-  "imageV": "mvuiw26m",
-  "tags": [
-   "pajak",
-   "DJP",
-   "pertambangan nikel",
-   "Sulawesi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475686-perusahaan-tergolong-patuh-penuhi-pembayaran-pajak-kanwil-djp-sulselbartra-akan-ganjar-penghargaan"
- },
- {
-  "slug": "transaksi-qris-tembus-15-miliar-per-juli-2026",
-  "category": "Perbankan",
-  "title": "Transaksi [QRIS] Tembus 15 Miliar per Juli 2026",
-  "deck": "Bank Indonesia mencatat 67,51 juta pengguna QRIS aktif dan 45,46 juta pedagang yang menerimanya, seiring makin banyak warung dan minimarket melayani pembayaran lewat aplikasi seperti GoPay.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/transaksi-qris-tembus-15-miliar-per-juli-2026.jpg",
-  "imageV": "mvuiw2kq",
-  "tags": [
-   "QRIS",
-   "GoPay",
-   "pembayaran digital",
-   "Bank Indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475673-tinggal-scan-qris-di-mana-aja-belanja-kebutuhan-harian-sekarang-makin-sat-set-pakai-gopay"
- },
- {
-  "slug": "investasi-ri-tembus-rp3-923-t-di-era-presiden-prabowo",
-  "category": "Makroekonomi",
-  "title": "Investasi RI [Tembus] Rp3.923 T di Era Presiden Prabowo",
-  "deck": "Rosan Roeslani melaporkan realisasi investasi RI tembus Rp3.923,2 triliun dalam dua tahun pertama Presiden Prabowo, dengan hilirisasi nikel di luar Jawa jadi penyumbang utama.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/investasi-ri-tembus-rp3-923-t-di-era-presiden-prabowo.jpg",
-  "imageV": "mvuiw2z4",
-  "tags": [
-   "investasi",
-   "hilirisasi",
-   "bkpm",
-   "nikel"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475661-dua-tahun-prabowo-rosan-roeslani-hilirisasi-luar-jawa-tembus-78-persen-investasi-tembus-hampir-rp4000-triliun"
- },
- {
-  "slug": "hashim-rp10-000-triliun-ekonomi-ri-tak-masuk-pdb",
-  "category": "Makroekonomi",
-  "title": "Hashim: Rp10.000 Triliun Ekonomi RI Tak Masuk [PDB]",
-  "deck": "Hashim Djojohadikusumo menyebut Rp10.000 triliun transaksi ekonomi RI tak tercatat, sementara penerimaan negara cuma 12 persen dari PDB, di bawah Kamboja, India, dan Afrika.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/hashim-rp10-000-triliun-ekonomi-ri-tak-masuk-pdb.jpg",
-  "imageV": "mvuiw3lj",
-  "tags": [
-   "kadin",
-   "hashim djojohadikusumo",
-   "pdb",
-   "apbd"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475659-hashim-sebut-ekonomi-ri-10000-triliun-tak-tercatat-penerimaan-negara-cuma-12-persen-di-bawah-kamboja"
- },
- {
-  "slug": "pnm-sabet-juara-grand-genba-champion-bri-group",
-  "category": "BUMN",
-  "title": "PNM Sabet [Juara] Grand Genba Champion BRI Group",
-  "deck": "PNM meraih peringkat pertama di ajang Grand Genba Champion BRI Group berkat aplikasi Diary AO yang merapikan kerja harian petugas lapangan pembiayaan ultra mikro.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/pnm-sabet-juara-grand-genba-champion-bri-group.jpg",
-  "imageV": "mvtjbeiq",
-  "tags": [
-   "PNM",
-   "BRI Group",
-   "ultra mikro",
-   "Diary AO"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475642-pnm-raih-juara-1-grand-genba-champion-lewat-inovasi-pelayanan-perluas-manfaat-bagi-nasabah"
- },
- {
-  "slug": "investasi-ri-tembus-rp3-923-triliun-serap-5-4-juta-pekerja",
-  "category": "Makroekonomi",
-  "title": "Investasi RI Tembus Rp3.923 Triliun, Serap [5,4] Juta Pekerja",
-  "deck": "Realisasi investasi dua tahun pemerintahan Presiden Prabowo Subianto mencapai Rp3.923,2 triliun dan menyerap 5,48 juta tenaga kerja hingga triwulan III 2026.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/investasi-ri-tembus-rp3-923-triliun-serap-5-4-juta-pekerja.jpg",
-  "imageV": "mvtjbey8",
-  "tags": [
-   "investasi",
-   "BKPM",
-   "hilirisasi",
-   "lapangan kerja"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475641-dua-tahun-prabowo-memimpin-investasi-indonesia-capai-rp3923-triliun-dan-serap-54-juta-pekerja"
- },
- {
-  "slug": "vern-laba-bersih-longsor-88-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "VERN: Laba Bersih [Longsor] 88% di Kuartal III 2026",
-  "deck": "Penjualan VERN turun 69 persen dan laba bersih kuartal III 2026 anjlok 88 persen menjadi Rp1,05 miliar dibanding periode sama tahun lalu.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VERN",
-   "laporan keuangan",
-   "laba bersih",
-   "industri film"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029183142-65207-0/FinancialStatement-2026-III-VERN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sdmu-cetak-laba-ekuitas-naik-4x-usai-konversi-utang-jadi-modal",
-  "category": "Aksi Korporasi",
-  "title": "SDMU Cetak Laba, Ekuitas Naik 4x Usai [Konversi] Utang Jadi Modal",
-  "deck": "Sidomulyo Selaras balik untung pada kuartal III 2026 setelah mengonversi utang pemegang saham senilai puluhan miliar rupiah menjadi modal perusahaan.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SDMU",
-   "Sidomulyo Selaras",
-   "laporan keuangan",
-   "konversi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029182313-64481-0/FinancialStatement-2026-III-SDMU.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trim-laba-9-bulan-naik-31-jadi-rp488-66-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TRIM: Laba 9 Bulan [Naik] 31% jadi Rp488,66 Miliar",
-  "deck": "Trimegah Sekuritas membukukan laba bersih Rp488,66 miliar dalam sembilan bulan 2026, naik 31 persen, sementara total aset melonjak 36 persen akibat pembelian portofolio obligasi dan tambahan pinjaman bank.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIM",
-   "Trimegah Sekuritas",
-   "laporan keuangan",
-   "sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181143-64844-0/FinancialStatement-2026-III-TRIM.pdf",
   "sourceLabel": "IDX"
  }
 ];

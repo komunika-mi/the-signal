@@ -397,7 +397,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah sikap pemerintah dalam merespons ancaman downgrade dari MSCI, penyedia indeks saham global yang mempertimbangkan menurunkan status pasar modal Indonesia dari kategori pasar berkembang ke pasar mandiri atau standalone. Pemerintah memilih jalur perbaikan tata kelola, antara lain mewajibkan keterbukaan pemegang saham dengan kepemilikan di atas 1 persen dan memperkuat pengawasan OJK terhadap manipulasi saham, ketimbang sekadar membantah penilaian itu. Yang terdampak langsung adalah emiten dan pemegang saham besar yang harus lebih terbuka soal kepemilikannya, serta investor ritel yang diminta tidak panik merespons isu downgrade ini. Siaran pers ini belum menyebutkan kapan MSCI akan mengumumkan keputusan akhirnya atau bagaimana aturan keterbukaan 1 persen itu akan diterapkan secara teknis, jadi arah pastinya baru akan terlihat setelah kajian MSCI berikutnya atau aturan turunan dari OJK terbit.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "assa-bagi-dividen-interim-rp20-per-saham-dibayar-20-november",

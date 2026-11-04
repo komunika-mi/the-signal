@@ -12,8 +12,55 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-04T03:40:15.766+07:00",
+ "diperbarui": "2026-11-05T03:58:21.159+07:00",
  "entri": [
+  {
+   "id": "2026-11-04-3",
+   "edisi": "2026-11-04",
+   "benang": "Laba Kuartal III Konsumen Tumbuh, Sejalan Ekonomi",
+   "klaim": "Kenaikan laba kuat sejumlah perusahaan konsumen pada kuartal III 2026 menunjuk ke arah permintaan domestik yang masih terjaga sejalan dengan tren pertumbuhan ekonomi yang naik.",
+   "penanda": "Rilis pertumbuhan ekonomi kuartal III 2026 dari BPS",
+   "tenggat": "2026-11-10",
+   "tenggatLabel": "rilis pertumbuhan ekonomi kuartal III 2026 dari BPS yang biasanya keluar awal November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-04-2",
+   "edisi": "2026-11-04",
+   "benang": "Tekanan Utang Menjalar ke Emiten Menengah",
+   "klaim": "Tekanan utang yang menjalar dari BUMN karya ke emiten berbagai sektor ini masih berlanjut, dan yang paling menentukan adalah apakah BUMA mampu membayar obligasinya yang jatuh tempo Desember 2026 tanpa perlu relaksasi tambahan.",
+   "penanda": "Pembayaran Obligasi III BUMA senilai Rp503,15 miliar yang jatuh tempo",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "obligasi lain yang jatuh tempo Desember 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-04-1",
+   "edisi": "2026-11-04",
+   "benang": "Pengendali Memperbesar Porsi, Publik Tergerus",
+   "klaim": "Pola penambahan modal yang mengalihkan kendali ke pengendali atau pihak terafiliasi ini menunjukkan arah menuju konsolidasi kendali yang makin terpusat dengan porsi publik yang makin tergerus.",
+   "penanda": "Hasil rangkaian RUPS Independen BIKE, BINA, dan PKPK serta HERO dan EMAS, yang mensyaratkan restu pemegang saham non-afiliasi",
+   "tenggat": "2026-12-11",
+   "tenggatLabel": "RUPS Independen BIKE, BINA, dan PKPK pada 11 Desember serta HERO dan EMAS pada 26 November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "arah-danantara-2026-11-06",
+   "edisi": null,
+   "isu": "danantara",
+   "isuNama": "Langkah Danantara",
+   "benang": "Apakah penambahan modal yang diumumkan untuk BUMN benar-benar disetujui dan cair, bukan berhenti di rencana?",
+   "cabang": "Disetujui dan cair",
+   "klaim": "RUPSLB Garuda Indonesia pada 6 November 2026 menyetujui penambahan modal lewat setoran saham GMF AeroAsia dari Danantara dan prosesnya berjalan sesuai jadwal yang diumumkan, tanpa penundaan atau perubahan skema.",
+   "penanda": "Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 6 November 2026, termasuk rincian jumlah dan harga saham baru yang biasanya baru diumumkan setelah rapat menyetujui rencana ini, serta batas akhir pemegang saham menyampaikan…",
+   "tenggat": "2026-11-06",
+   "tenggatLabel": "6 November 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-03-3",
    "edisi": "2026-11-03",
@@ -187,8 +234,13 @@ var RAPOR = {
    "penanda": "Ada atau tidaknya emiten besar baru yang mengajukan buyback skala besar, atau berhenti di tiga nama kecil ini",
    "tenggat": "2026-11-02",
    "tenggatLabel": "dalam sepekan mendatang",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "itmg-siapkan-buyback-saham-senilai-rp2-31-triliun",
+    "judul": "ITMG Siapkan Buyback Saham Senilai Rp2,31 Triliun",
+    "tanggal": "4 November 2026",
+    "alasan": "ITMG mengajukan buyback baru senilai Rp2,31 triliun, menunjukkan ada emiten besar baru dengan buyback skala besar, bukan sekadar administratif bernilai kecil seperti klaim."
+   }
   },
   {
    "id": "2026-10-26-2",

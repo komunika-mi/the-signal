@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "djp-tawarkan-potongan-sanksi-pajak-100-hingga-akhir-2026",
+  "category": "Makroekonomi",
+  "title": "DJP Tawarkan Potongan Sanksi Pajak [100]% hingga Akhir 2026",
+  "deck": "Pemerintah membuka keringanan sanksi administratif pajak hingga 100 persen bagi wajib pajak yang menuntaskan kewajibannya sampai akhir 2026, sebelum besarannya turun bertahap pada 2027.",
+  "image": "assets/img/djp-tawarkan-potongan-sanksi-pajak-100-hingga-akhir-2026.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T10:08:08.777Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/sanksi-pajak-bisa-dikurangi-hingga-100-djp-papabrama-ajak-wajib-pajak-manfaatkan",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "pajak",
+   "sanksi pajak",
+   "DJP",
+   "Papua"
+  ],
+  "body": [
+   "Direktorat Jenderal Pajak membuka kembali program Pengurangan atau Penghapusan Sanksi Administratif (PSA) yang memberi keringanan sanksi pajak hingga 100 persen bagi wajib pajak yang menyelesaikan kewajibannya sampai 31 Desember 2026. Kebijakan ini penting bagi wajib pajak yang menunda pelaporan atau pembayaran karena merasa sanksinya sudah membengkak, sebab besaran potongan akan mengecil begitu memasuki tahun berikutnya.",
+   "Program ini berjalan berdasarkan Peraturan Menteri Keuangan Nomor 71 Tahun 2026 dan Keputusan Direktur Jenderal Pajak Nomor KEP-239/PJ/2026. Untuk kategori sanksi tertentu, potongan 100 persen berlaku bagi wajib pajak yang memenuhi syarat pada periode 8 Oktober hingga 31 Desember 2026, kemudian turun menjadi 50 persen pada Januari-Maret 2027 dan 25 persen pada April-Juni 2027. Fasilitas ini terbuka bagi wajib pajak yang terlambat melaporkan atau membetulkan Surat Pemberitahuan (SPT) tahunan, termasuk yang sedang menindaklanjuti surat klarifikasi dari kantor pajak (SP2DK), serta wajib pajak yang memiliki ketetapan, tagihan, atau utang pajak tertentu.",
+   "Kantor Wilayah DJP Papua, Papua Barat, dan Maluku (Papabrama) secara khusus mengimbau wajib pajak di wilayahnya untuk memanfaatkan program ini, termasuk melalui sosialisasi di radio RRI Jayapura. DJP menegaskan bahwa PSA hanya meringankan sanksi, bukan menghapus pokok pajak, dan setiap pembayaran yang masuk akan dipakai lebih dulu untuk melunasi pokok pajak sesuai PMK 71/2026. Masa pengajuan permohonan sendiri masih dibuka sampai 1 Oktober 2028, namun waktu wajib pajak memenuhi persyaratan itulah yang menentukan seberapa besar potongan yang diperoleh.",
+   "Wajib pajak yang ingin memanfaatkan fasilitas ini disarankan memeriksa kembali status kewajiban perpajakannya dan berkonsultasi ke Kantor Pelayanan Pajak (KPP) atau Kantor Pelayanan, Penyuluhan, dan Konsultasi Perpajakan (KP2KP) terdekat. Informasi lebih lanjut tersedia di laman www.pajak.go.id/id/psa atau layanan Kring Pajak di nomor 1500200."
+  ],
+  "fotoAdegan": "Clerks assisting visitors at a quiet public tax service counter, folders and stamps on the desk, fluorescent office lighting",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2026-11/WhatsApp%20Image%202026-11-03%20at%2011.48.29.jpeg?itok=Vl6vGcJy",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah adalah besaran potongan sanksi administratif pajaknya dibuat menurun bertahap: bisa sampai 100 persen kalau wajib pajak menuntaskan kewajibannya sebelum akhir Desember 2026, lalu turun menjadi 50 persen pada awal 2027 dan 25 persen pada pertengahan 2027, meski masa pengajuan resminya sendiri masih dibuka sampai Oktober 2028. Yang terdampak adalah wajib pajak, baik perorangan maupun pelaku usaha, yang telat melaporkan pajak tahunannya, sedang ditegur lewat surat klarifikasi dari kantor pajak, atau punya tunggakan pajak, dengan ajakan kali ini ditujukan khusus ke wajib pajak di Papua, Papua Barat, dan Maluku. Skema potongan yang mengecil seiring waktu ini membaca arah yang cukup jelas, yaitu pemerintah ingin mendorong wajib pajak membayar lebih cepat, kemungkinan untuk mengamankan penerimaan negara sebelum tutup tahun anggaran 2026. Penting diingat, potongan ini hanya mengurangi sanksinya, bukan pokok pajak yang tetap harus dibayar penuh. Yang akan menunjukkan apakah dorongan ini berhasil adalah data realisasi penerimaan pajak kuartal keempat yang biasanya diumumkan Kementerian Keuangan pada awal tahun berikutnya.",
+  "imageV": "mw1yldw3"
+ },
+ {
   "slug": "msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham",
   "category": "Pasar Modal",
   "title": "MSCI Ancam Turunkan Status RI, Pemerintah Genjot [Transparansi] Saham",
@@ -28,7 +56,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah sikap pemerintah dalam merespons ancaman downgrade dari MSCI, penyedia indeks saham global yang mempertimbangkan menurunkan status pasar modal Indonesia dari kategori pasar berkembang ke pasar mandiri atau standalone. Pemerintah memilih jalur perbaikan tata kelola, antara lain mewajibkan keterbukaan pemegang saham dengan kepemilikan di atas 1 persen dan memperkuat pengawasan OJK terhadap manipulasi saham, ketimbang sekadar membantah penilaian itu. Yang terdampak langsung adalah emiten dan pemegang saham besar yang harus lebih terbuka soal kepemilikannya, serta investor ritel yang diminta tidak panik merespons isu downgrade ini. Siaran pers ini belum menyebutkan kapan MSCI akan mengumumkan keputusan akhirnya atau bagaimana aturan keterbukaan 1 persen itu akan diterapkan secara teknis, jadi arah pastinya baru akan terlihat setelah kajian MSCI berikutnya atau aturan turunan dari OJK terbit.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "assa-bagi-dividen-interim-rp20-per-saham-dibayar-20-november",

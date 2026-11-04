@@ -319,6 +319,11 @@
   "tanggal": "2026-09-24",
   "kali": 1
  },
+ "https://pajak.go.id/id/siaran-pers/tax-gathering-2026-kanwil-djp-jakarta-pusat-perkuat-sinergi-dan-kemitraan-dengan-wajib": {
+  "sebab": "seremonial",
+  "tanggal": "2026-11-04",
+  "kali": 1
+ },
  "https://pajak.go.id/id/siaran-pers/tax-goes-campus-djp-banten-tingkatkan-kesadaran-pajak-generasi-muda-universitas-pelita": {
   "sebab": "seremonial",
   "tanggal": "2026-10-05",
@@ -6027,6 +6032,11 @@
  "https://www.tvonenews.com/ekonomi/476210-siap-tempur-di-dunia-industri-mahasiswa-kini-wajib-paham-pemanfaatan-ai": {
   "sebab": "editor menolak",
   "tanggal": "2026-11-02",
+  "kali": 1
+ },
+ "https://www.tvonenews.com/ekonomi/476595-2kb-dynasty-resmi-dinobatkan-sebagai-juara-pbnc-xvii-usai-laga-final-yang-dramatis": {
+  "sebab": "editor menolak",
+  "tanggal": "2026-11-04",
   "kali": 1
  }
 }

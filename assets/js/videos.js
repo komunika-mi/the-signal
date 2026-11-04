@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "F_2b1F8muIk",
+  "title": "Menkeu Pastikan Stabilitas Keuangan Indonesia Tetap Terjaga",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Keuangan Suahasil Nazara menyatakan stabilitas sistem keuangan Indonesia tetap terjaga hingga triwulan III 2026, meski tekanan sempat meningkat pada Oktober akibat konflik geopolitik global.",
+  "takeaway": "Pernyataan otoritas fiskal ini penting bagi pembaca untuk menilai ketahanan sistem keuangan nasional di tengah gejolak global.",
+  "terbit": "2026-11-04T09:29:17+00:00"
+ },
+ {
+  "id": "dmw__wvtWog",
+  "title": "Pemerintah Minta Seluruh Kementerian Jaga Efisiensi Belanja APBN",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Keuangan Suahasil Nazara menyebut inflasi Indonesia sebesar 3,23 persen masih sesuai sasaran pemerintah, sekaligus meminta seluruh kementerian menjaga efisiensi belanja APBN.",
+  "takeaway": "Data inflasi dan arahan efisiensi anggaran ini relevan bagi pembaca yang memantau kesehatan fiskal dan daya beli masyarakat.",
+  "terbit": "2026-11-04T08:58:32+00:00"
+ },
+ {
+  "id": "UmxcA1Kp7Rs",
+  "title": "PT Pupuk Indonesia Bangun Ammonia Hub di Batam",
+  "category": "BUMN",
+  "program": "Kabar Merah Putih",
+  "summary": "PT Pupuk Indonesia menjajaki pembangunan pusat industri amonia di Batam dengan memanfaatkan gas alam dari Natuna dan Gresik untuk memperkuat hilirisasi.",
+  "takeaway": "Proyek ini menunjukkan langkah BUMN memperkuat hilirisasi industri kimia berbasis gas alam domestik.",
+  "terbit": "2026-11-04T08:58:09+00:00"
+ },
+ {
   "id": "OgQuAkgo640",
   "title": "Anindya Bakrie: UMKM Kunci Keluar dari Middle Income Trap",
   "category": "UMKM",

@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "F_2b1F8muIk",
+  "title": "Menkeu Pastikan Stabilitas Keuangan Indonesia Tetap Terjaga",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Keuangan Suahasil Nazara menyatakan stabilitas sistem keuangan Indonesia tetap terjaga hingga triwulan III 2026, meski tekanan sempat meningkat pada Oktober akibat konflik geopolitik global.",
+  "takeaway": "Pernyataan otoritas fiskal ini penting bagi pembaca untuk menilai ketahanan sistem keuangan nasional di tengah gejolak global."
+ },
+ {
+  "id": "dmw__wvtWog",
+  "title": "Pemerintah Minta Seluruh Kementerian Jaga Efisiensi Belanja APBN",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Keuangan Suahasil Nazara menyebut inflasi Indonesia sebesar 3,23 persen masih sesuai sasaran pemerintah, sekaligus meminta seluruh kementerian menjaga efisiensi belanja APBN.",
+  "takeaway": "Data inflasi dan arahan efisiensi anggaran ini relevan bagi pembaca yang memantau kesehatan fiskal dan daya beli masyarakat."
+ },
+ {
+  "id": "UmxcA1Kp7Rs",
+  "title": "PT Pupuk Indonesia Bangun Ammonia Hub di Batam",
+  "category": "BUMN",
+  "program": "Kabar Merah Putih",
+  "summary": "PT Pupuk Indonesia menjajaki pembangunan pusat industri amonia di Batam dengan memanfaatkan gas alam dari Natuna dan Gresik untuk memperkuat hilirisasi.",
+  "takeaway": "Proyek ini menunjukkan langkah BUMN memperkuat hilirisasi industri kimia berbasis gas alam domestik."
+ },
+ {
   "id": "OgQuAkgo640",
   "title": "Anindya Bakrie: UMKM Kunci Keluar dari Middle Income Trap",
   "category": "UMKM",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Diskusi dalam Indonesia Business Forum mengangkat tema ekonomi kerakyatan sebagai modal Indonesia bersaing di kancah global, bagian dari rangkaian Rapimnas Kadin 2026 pada 29-30 Oktober.",
   "takeaway": "Memberi konteks arah kebijakan ekonomi nasional yang akan dirumuskan dalam Rapimnas Kadin."
- },
- {
-  "id": "VG1DY_DEtgI",
-  "title": "Dunia Usaha Masih Hadapi 4 Masalah dari Hulu hingga Hilir",
-  "category": "Bisnis",
-  "program": "Indonesia Business Forum",
-  "summary": "Pelaku usaha disebut masih menghadapi empat masalah utama dari hulu hingga hilir, topik yang diangkat menjelang Rapimnas Kadin 2026 pada 29-30 Oktober.",
-  "takeaway": "Menyoroti kendala struktural dunia usaha yang penting bagi perumusan kebijakan ekonomi mendatang."
- },
- {
-  "id": "c8O6DfZZVyk",
-  "title": "Rasio Kewirausahaan RI Rendah, Kadin Minta Hilangkan Ego Sektoral",
-  "category": "UMKM",
-  "program": "Indonesia Business Forum",
-  "summary": "Raden Teddy menyoroti rasio kewirausahaan Indonesia yang masih jauh di bawah negara lain dan mendorong kolaborasi lintas pihak tanpa ego sektoral, dibahas dalam rangkaian Rapimnas Kadin 2026.",
-  "takeaway": "Menggambarkan tantangan mendasar peningkatan jumlah wirausaha yang berdampak pada pertumbuhan ekonomi."
- },
- {
-  "id": "gKLB0btZ9wo",
-  "title": "Kadin Dorong KDMP Bantu UMKM, Bukan Saingi Minimarket",
-  "category": "UMKM",
-  "program": "IBF",
-  "summary": "Ekonom Aviliani menyebut Kadin mendorong KDMP berperan membantu UMKM di daerah, bukan menjadi pesaing minimarket, menjelang Rapimnas Kadin 2026 pada 29-30 Oktober yang membahas arah kebijakan ekonomi.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah dukungan kebijakan untuk UMKM dan peran koperasi desa dalam ekosistem ritel lokal."
  }
 ];

@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "djp-tawarkan-potongan-sanksi-pajak-100-hingga-akhir-2026",
+  "category": "Makroekonomi",
+  "title": "DJP Tawarkan Potongan Sanksi Pajak [100]% hingga Akhir 2026",
+  "deck": "Pemerintah membuka keringanan sanksi administratif pajak hingga 100 persen bagi wajib pajak yang menuntaskan kewajibannya sampai akhir 2026, sebelum besarannya turun bertahap pada 2027.",
+  "date": "4 November 2026",
+  "image": "assets/img/djp-tawarkan-potongan-sanksi-pajak-100-hingga-akhir-2026.jpg",
+  "imageV": "mw1yldw3",
+  "tags": [
+   "pajak",
+   "sanksi pajak",
+   "DJP",
+   "Papua"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/sanksi-pajak-bisa-dikurangi-hingga-100-djp-papabrama-ajak-wajib-pajak-manfaatkan",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
   "slug": "msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham",
   "category": "Pasar Modal",
   "title": "MSCI Ancam Turunkan Status RI, Pemerintah Genjot [Transparansi] Saham",
@@ -6460,22 +6478,6 @@ var ARTICLES = [
    "sekuritas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181143-64844-0/FinancialStatement-2026-III-TRIM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tbms-cetak-laba-naik-42-arus-kas-operasi-minus-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "TBMS Cetak Laba Naik 42%, [Arus Kas] Operasi Minus Kuartal III",
-  "deck": "Laba bersih TBMS naik 42 persen jadi US$7,4 juta di sembilan bulan 2026, tapi arus kas operasi berbalik negatif US$18,8 juta.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TBMS",
-   "laporan keuangan",
-   "arus kas",
-   "kawat tembaga"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181705-65124-0/FinancialStatement-2026-III-TBMS.pdf",
   "sourceLabel": "IDX"
  }
 ];

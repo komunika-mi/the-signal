@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham",
+  "category": "Pasar Modal",
+  "title": "MSCI Ancam Turunkan Status RI, Pemerintah Genjot [Transparansi] Saham",
+  "deck": "Pemerintah mendorong keterbukaan pemilik saham di atas 1 persen menyusul ancaman penurunan status pasar modal Indonesia oleh penyedia indeks MSCI.",
+  "image": "assets/img/pasar-modal.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T06:38:07.599Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7197/hadapi-dinamika-pasar-modal-dan-rupiah-wamenko-dradjad-tekankan-pentingnya-mencermati-fundamental-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "MSCI",
+   "pasar modal",
+   "rupiah",
+   "OJK"
+  ],
+  "body": [
+   "Wakil Menteri Koordinator Bidang Perekonomian Dradjad Hari Wibowo menegaskan bahwa dinamika pasar modal dan nilai tukar rupiah belakangan ini perlu dibaca dari sisi fundamental ekonomi, bukan sekadar fluktuasi harian. Pernyataan itu disampaikannya dalam forum Business Talk Kompas TV di Jakarta, Selasa (3/11). Menurut Dradjad, Presiden Prabowo Subianto dalam rapat kabinet paripurna telah meminta jajarannya melakukan perbaikan mendasar terhadap pasar modal Indonesia, respons yang relevan di tengah ancaman penurunan status pasar modal RI oleh lembaga pemeringkat indeks global MSCI.",
+   "MSCI tengah mempertimbangkan mengubah klasifikasi Indonesia dari kategori pasar berkembang (emerging market) menjadi pasar mandiri (standalone market), status yang biasanya disematkan ke pasar yang dianggap kurang likuid atau belum cukup terbuka bagi investor asing. Sebagai respons, pemerintah mendorong emiten untuk lebih terbuka soal struktur kepemilikan saham, termasuk mewajibkan pengungkapan identitas pemegang saham dengan porsi di atas 1 persen. Langkah ini digabung dengan penguatan pengawasan Otoritas Jasa Keuangan terhadap praktik manipulasi harga saham, yang di kalangan investor dikenal dengan istilah goreng-gorengan. Dradjad menyebut penilaian MSCI tetap perlu dilihat secara proporsional, mengingat reformasi pasar modal di Indonesia sedang berjalan dan penyedia indeks lain belum menurunkan status Indonesia.",
+   "Soal nilai tukar, Dradjad mengingatkan bahwa sejumlah proyeksi pelemahan rupiah yang pernah beredar tidak terbukti, seperti perkiraan rupiah menembus Rp20.000 per dolar AS pada Oktober 2025 dan mencapai Rp25.000 per dolar AS pada semester pertama 2026. Ia menilai penilaian risiko kurs mestinya didasarkan pada perkembangan fundamental ekonomi secara keseluruhan, bukan proyeksi sepihak. Untuk menjaga ketahanan nilai tukar, pemerintah menyebut sumber devisa dari sektor pariwisata dan kiriman uang pekerja migran Indonesia sebagai dua andalan yang perlu terus diperkuat.",
+   "Dradjad juga menyoroti pergeseran pola belanja masyarakat dari toko fisik ke platform daring pada sejumlah kategori barang, tren yang menurutnya ikut mempengaruhi aktivitas ekonomi domestik dan daya saing produk dalam negeri. Ia meminta investor ritel tidak mengambil keputusan secara terburu-buru merespons isu downgrade MSCI, melainkan mempertimbangkan fundamental dan prospek jangka panjang perusahaan. Dradjad menambahkan bahwa penyedia indeks lain di luar MSCI belum mengubah status pasar modal Indonesia, sehingga menurutnya sikap tenang dan rasional dari investor akan membuat pasar tidak mudah bergejolak."
+  ],
+  "fotoAdegan": "Stockbrokers in a busy Jakarta trading floor glancing toward distant blurred monitor screens, soft morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah adalah sikap pemerintah dalam merespons ancaman downgrade dari MSCI, penyedia indeks saham global yang mempertimbangkan menurunkan status pasar modal Indonesia dari kategori pasar berkembang ke pasar mandiri atau standalone. Pemerintah memilih jalur perbaikan tata kelola, antara lain mewajibkan keterbukaan pemegang saham dengan kepemilikan di atas 1 persen dan memperkuat pengawasan OJK terhadap manipulasi saham, ketimbang sekadar membantah penilaian itu. Yang terdampak langsung adalah emiten dan pemegang saham besar yang harus lebih terbuka soal kepemilikannya, serta investor ritel yang diminta tidak panik merespons isu downgrade ini. Siaran pers ini belum menyebutkan kapan MSCI akan mengumumkan keputusan akhirnya atau bagaimana aturan keterbukaan 1 persen itu akan diterapkan secara teknis, jadi arah pastinya baru akan terlihat setelah kajian MSCI berikutnya atau aturan turunan dari OJK terbit.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "sdra-panggil-rupslb-agendakan-pergantian-direksi-komisaris",
   "category": "Aksi Korporasi",
   "title": "SDRA Panggil RUPSLB, Agendakan [Pergantian] Direksi-Komisaris",
@@ -27,6 +55,32 @@ var ARTICLES = [
   "fotoAdegan": "Empty modern boardroom with rows of leather chairs around a long table, floor-to-ceiling windows overlooking Jakarta skyline, soft morning light",
   "takeaway": "Laporan ini netral bagi SDRA karena isinya baru sebatas pemanggilan rapat dan dasar hukum penggantian pengurus, belum ada nama direksi atau komisaris yang akan masuk maupun keluar sehingga dampaknya ke bisnis bank belum bisa dinilai. Pergantian direksi dan komisaris memang tidak langsung mengubah pos keuangan seperti ekuitas atau laba per saham, tapi pelaku pasar tetap mengamatinya karena susunan pengurus menentukan arah kebijakan kredit, manajemen risiko, dan strategi bisnis bank ke depan. Yang perlu dipantau adalah hasil RUPSLB pada 26 November 2026, terutama siapa saja yang diangkat atau diberhentikan dan apakah ada perubahan arah strategi yang menyertainya. Tenggat pemberian kuasa bagi pemegang saham yang tidak hadir langsung juga jatuh pada 25 November 2026 pukul 12.00 WIB.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pelindo-luncurkan-dashboard-acs-untuk-transparansi-bayar",
+  "category": "BUMN",
+  "title": "Pelindo Luncurkan Dashboard [ACS] untuk Transparansi Bayar",
+  "deck": "Pelindo menghadirkan Dashboard ACS agar pengguna jasa pelabuhan bisa memantau status pembayaran kepelabuhanan secara langsung dan lebih transparan.",
+  "image": "assets/img/pelindo-luncurkan-dashboard-acs-untuk-transparansi-bayar.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T11:24:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476554-pelindo-hadirkan-dashboard-acs-transaksi-kepelabuhanan-kini-lebih-transparan-dan-mudah",
+  "tags": [
+   "Pelindo",
+   "Dashboard ACS",
+   "Transaksi Pelabuhan",
+   "Digitalisasi BUMN"
+  ],
+  "body": [
+   "PT Pelabuhan Indonesia (Pelindo) meluncurkan Dashboard Auto Collection System (ACS), platform digital yang memungkinkan pengguna jasa pelabuhan memantau status pembayaran layanan kepelabuhanan secara langsung dalam satu sistem terpadu. Langkah ini penting karena pengecekan pembayaran kepelabuhanan selama ini kerap dilakukan secara manual dan kurang transparan, sehingga rawan selisih pencatatan antara Pelindo dan mitra bisnisnya. Dengan dashboard baru ini, pengguna jasa maupun Pelindo bisa melihat perkembangan transaksi tanpa harus menunggu konfirmasi manual satu per satu.",
+   "Dashboard ACS membagi status pembayaran menjadi tiga kategori, yaitu dana yang sudah terbayar, dana yang masih ditahan, dan dana yang sudah dirilis sesuai proses dan ketentuan yang berlaku. Sistem ini juga menyediakan data pendukung yang bisa dipakai pengguna jasa untuk mencocokkan transaksi mereka dengan catatan keuangan internal, sehingga proses rekonsiliasi pembukuan menjadi lebih cepat dan minim selisih.",
+   "Direktur Keuangan Pelindo, Bachtiar Soeria Atmadja, menyebut pengembangan sistem pembayaran digital ini sebagai bagian dari upaya memperbaiki tata kelola transaksi perusahaan. Menurut dia, kejelasan informasi transaksi yang bisa dipantau bersama akan memperkuat akurasi pencatatan serta mempermudah proses rekonsiliasi, baik bagi pengguna jasa maupun bagi Pelindo sendiri dalam mengelola penerimaan perusahaan."
+  ],
+  "fotoAdegan": "Container cranes loading ships at a busy Indonesian port terminal, trucks queued below, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/04/6aeab1e1366cf-pelindo-tingkatkan-transparansi-dan-kemudahan-transaksi-kepelabuhanan-lewat-dashboard-acs_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah cara pengguna jasa pelabuhan memantau pembayaran: Dashboard ACS menampilkan status dana secara langsung dalam tiga tahap, terbayar, ditahan, dan dirilis, menggantikan pengecekan manual yang sebelumnya kurang transparan. Pihak yang langsung terdampak adalah perusahaan pelayaran, importir, eksportir, dan agen kapal yang rutin bertransaksi dengan Pelindo, karena merekalah yang akan memakai dashboard ini untuk mencocokkan pembayaran dengan catatan keuangan sendiri. Namun keterangan resmi ini tidak menyebut sejak kapan sistem ini berjalan, berapa banyak cabang pelabuhan yang sudah memakainya, atau seberapa jauh integrasinya dengan sistem pembayaran bank yang disinggung sepintas. Tanpa data skala pemakaian atau jadwal perluasan ke pelabuhan lain, belum bisa dipastikan apakah ini sudah berlaku menyeluruh atau baru tahap awal, sehingga yang perlu ditunggu adalah laporan lanjutan Pelindo soal jumlah pelabuhan yang sudah terhubung ke sistem ini.",
+  "imageV": "mw1r3f6v"
  },
  {
   "slug": "wmpp-catat-laba-bersih-rp92-9-miliar-naik-154-di-kuartal-iii",
@@ -532,7 +586,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Wamenko Ajak Investor [Cermati] Data, Tak Ikut Indeks Asing",
   "deck": "Wamenko Dradjad Hari Wibowo meminta investor tidak sekadar mengikuti penilaian lembaga indeks asing seperti MSCI, melainkan menganalisis sendiri data emiten dan ekonomi nasional.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "date": "3 November 2026",
   "isoDate": "2026-11-03T13:38:34.680Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7196/jaga-kepercayaan-di-tengah-dinamika-pasar-modal-wamenko-dradjad-ajak-investor-utamakan-data-dan-analisis",
@@ -104033,7 +104087,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:58:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz",
@@ -104086,7 +104140,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam Hari Ini [Turun] Rp27.000 per Gram",
   "deck": "Harga jual emas batangan Antam turun ke Rp2.723.000 per gram pada 27 Agustus 2026, harga buyback ikut melemah ke Rp2.583.000 per gram.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:40:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462860-harga-emas-antam-hari-ini-27-agustus-2026-merosot-rp27000-buyback-ikut-turun",
@@ -105336,7 +105390,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/seminar-investasi.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:02:51+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",
@@ -105468,7 +105522,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
-  "image": "assets/img/seminar-investasi.jpg",
+  "image": "assets/img/layar-indeks-jauh.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T09:24:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram",

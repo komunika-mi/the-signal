@@ -7,12 +7,28 @@
   <language>id-ID</language>
   <atom:link href="https://the-signal.id/berita-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>MSCI Ancam Turunkan Status RI, Pemerintah Genjot Transparansi Saham</title>
+    <link>https://the-signal.id/berita/msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham.html</link>
+    <guid isPermaLink="true">https://the-signal.id/berita/msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:38:07 GMT</pubDate>
+    <category>Pasar Modal</category>
+    <description><![CDATA[Pemerintah mendorong keterbukaan pemilik saham di atas 1 persen menyusul ancaman penurunan status pasar modal Indonesia oleh penyedia indeks MSCI.]]></description>
+  </item>
+  <item>
     <title>SDRA Panggil RUPSLB, Agendakan Pergantian Direksi-Komisaris</title>
     <link>https://the-signal.id/berita/sdra-panggil-rupslb-agendakan-pergantian-direksi-komisaris.html</link>
     <guid isPermaLink="true">https://the-signal.id/berita/sdra-panggil-rupslb-agendakan-pergantian-direksi-komisaris.html</guid>
     <pubDate>Wed, 04 Nov 2026 05:20:50 GMT</pubDate>
     <category>Aksi Korporasi</category>
     <description><![CDATA[Bank Woori Saudara (SDRA) memanggil RUPSLB pada 26 November 2026 di Jakarta untuk membahas perubahan susunan direksi dan komisaris perseroan.]]></description>
+  </item>
+  <item>
+    <title>Pelindo Luncurkan Dashboard ACS untuk Transparansi Bayar</title>
+    <link>https://the-signal.id/berita/pelindo-luncurkan-dashboard-acs-untuk-transparansi-bayar.html</link>
+    <guid isPermaLink="true">https://the-signal.id/berita/pelindo-luncurkan-dashboard-acs-untuk-transparansi-bayar.html</guid>
+    <pubDate>Wed, 04 Nov 2026 04:24:05 GMT</pubDate>
+    <category>BUMN</category>
+    <description><![CDATA[Pelindo menghadirkan Dashboard ACS agar pengguna jasa pelabuhan bisa memantau status pembayaran kepelabuhanan secara langsung dan lebih transparan.]]></description>
   </item>
   <item>
     <title>WMPP Catat Laba Bersih Rp92,9 Miliar, Naik 154% di Kuartal III</title>
@@ -389,22 +405,6 @@
     <pubDate>Tue, 03 Nov 2026 09:07:08 GMT</pubDate>
     <category>Aksi Korporasi</category>
     <description><![CDATA[Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi dua waran terstruktur ITMG, menyusul dividen tunai ITMG senilai US$74,2 juta.]]></description>
-  </item>
-  <item>
-    <title>ZP Sesuaikan Waran MEDC usai Dividen Interim US$30 Juta</title>
-    <link>https://the-signal.id/berita/zp-sesuaikan-waran-medc-usai-dividen-interim-us-30-juta.html</link>
-    <guid isPermaLink="true">https://the-signal.id/berita/zp-sesuaikan-waran-medc-usai-dividen-interim-us-30-juta.html</guid>
-    <pubDate>Tue, 03 Nov 2026 09:06:39 GMT</pubDate>
-    <category>Aksi Korporasi</category>
-    <description><![CDATA[Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran MEDCZPCF7A dan MEDCZPCN7A menyusul dividen interim MEDC senilai US$30 juta, efektif 11 November 2026.]]></description>
-  </item>
-  <item>
-    <title>ARKO Targetkan Produksi Listrik Naik 49,5% di 2027</title>
-    <link>https://the-signal.id/berita/arko-targetkan-produksi-listrik-naik-49-5-di-2027.html</link>
-    <guid isPermaLink="true">https://the-signal.id/berita/arko-targetkan-produksi-listrik-naik-49-5-di-2027.html</guid>
-    <pubDate>Tue, 03 Nov 2026 09:04:21 GMT</pubDate>
-    <category>Aksi Korporasi</category>
-    <description><![CDATA[Dalam public expose insidentil, manajemen ARKO memaparkan produksi listrik yang tetap tumbuh di tengah El Nino dan proyeksi lonjakan produksi pada 2027.]]></description>
   </item>
 </channel>
 </rss>

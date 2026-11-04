@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham",
+  "category": "Pasar Modal",
+  "title": "MSCI Ancam Turunkan Status RI, Pemerintah Genjot [Transparansi] Saham",
+  "deck": "Pemerintah mendorong keterbukaan pemilik saham di atas 1 persen menyusul ancaman penurunan status pasar modal Indonesia oleh penyedia indeks MSCI.",
+  "date": "4 November 2026",
+  "image": "assets/img/pasar-modal.jpg",
+  "tags": [
+   "MSCI",
+   "pasar modal",
+   "rupiah",
+   "OJK"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7197/hadapi-dinamika-pasar-modal-dan-rupiah-wamenko-dradjad-tekankan-pentingnya-mencermati-fundamental-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "sdra-panggil-rupslb-agendakan-pergantian-direksi-komisaris",
   "category": "Aksi Korporasi",
   "title": "SDRA Panggil RUPSLB, Agendakan [Pergantian] Direksi-Komisaris",
@@ -19,6 +35,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1b0751531f_285da0d420.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pelindo-luncurkan-dashboard-acs-untuk-transparansi-bayar",
+  "category": "BUMN",
+  "title": "Pelindo Luncurkan Dashboard [ACS] untuk Transparansi Bayar",
+  "deck": "Pelindo menghadirkan Dashboard ACS agar pengguna jasa pelabuhan bisa memantau status pembayaran kepelabuhanan secara langsung dan lebih transparan.",
+  "date": "4 November 2026",
+  "image": "assets/img/pelindo-luncurkan-dashboard-acs-untuk-transparansi-bayar.jpg",
+  "imageV": "mw1r3f6v",
+  "tags": [
+   "Pelindo",
+   "Dashboard ACS",
+   "Transaksi Pelabuhan",
+   "Digitalisasi BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476554-pelindo-hadirkan-dashboard-acs-transaksi-kepelabuhanan-kini-lebih-transparan-dan-mudah"
  },
  {
   "slug": "wmpp-catat-laba-bersih-rp92-9-miliar-naik-154-di-kuartal-iii",
@@ -335,7 +368,7 @@ var ARTICLES = [
   "title": "Wamenko Ajak Investor [Cermati] Data, Tak Ikut Indeks Asing",
   "deck": "Wamenko Dradjad Hari Wibowo meminta investor tidak sekadar mengikuti penilaian lembaga indeks asing seperti MSCI, melainkan menganalisis sendiri data emiten dan ekonomi nasional.",
   "date": "3 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "tags": [
    "pasar modal",
    "investor",
@@ -6443,38 +6476,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e3bd442c7_f73f56f15f.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "daya-laba-watsons-naik-65-ke-rp85-8-miliar-di-9-bulan",
-  "category": "Aksi Korporasi",
-  "title": "DAYA: Laba Watsons Naik 65% ke [Rp85,8 Miliar] di 9 Bulan",
-  "deck": "Laporan keuangan interim kuartal III 2026 Duta Intidaya (DAYA) menunjukkan laba bersih naik 65 persen dan ekuitas membesar, meski kas perusahaan menyusut hampir 70 persen.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DAYA",
-   "Watsons",
-   "laporan keuangan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029175021-64850-0/FinancialStatement-2026-III-DAYA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hashim-goreng-saham-bisa-bikin-rupiah-tembus-rp22-000",
-  "category": "Pasar Modal",
-  "title": "Hashim: Goreng Saham Bisa Bikin Rupiah [Tembus] Rp22.000",
-  "deck": "Ketua Dewan Penasihat Kadin Hashim Djojohadikusumo memperingatkan praktik goreng saham bisa membuat MSCI men-downgrade bursa RI dan rupiah melemah jika investor asing hengkang.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/hashim-goreng-saham-bisa-bikin-rupiah-tembus-rp22-000.jpg",
-  "imageV": "mvtjbfdd",
-  "tags": [
-   "goreng saham",
-   "rupiah",
-   "Kadin",
-   "MSCI"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475636-hashim-soroti-praktik-goreng-saham-rupiah-bisa-tembus-rp22000-jika-asing-cabut-dari-bursa"
  }
 ];

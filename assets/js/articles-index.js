@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ultj-ambil-alih-frisian-flag-kendali-ke-frieslandcampina",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Ambil Alih [Frisian Flag], Kendali ke FrieslandCampina",
+  "deck": "ULTJ akan mengambil alih 100 persen saham Frisian Flag Indonesia lewat tukar saham non-tunai, sehingga pengendali perusahaan beralih dari keluarga Prawirawidjaja ke FrieslandCampina.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "Frisian Flag Indonesia",
+   "FrieslandCampina",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/999581bae2_58adf38a1c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unvr-panggil-rupslb-tarik-168-8-juta-saham-treasuri",
+  "category": "Aksi Korporasi",
+  "title": "UNVR Panggil RUPSLB, Tarik [168,8 Juta] Saham Treasuri",
+  "deck": "Unilever Indonesia memanggil RUPSLB 26 November 2026 untuk meminta persetujuan menarik seluruh 168,8 juta saham treasuri hasil buyback 2025, setara 0,44% modal disetor.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNVR",
+   "RUPSLB",
+   "saham treasuri",
+   "pengurangan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6da8ff3383_dcb938ef74.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "giaa-rampungkan-alih-saham-gmfi-ke-danantara-jelang-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Rampungkan Alih Saham GMFI ke Danantara Jelang [Rights Issue]",
+  "deck": "Garuda Indonesia merampungkan peralihan 82,1 miliar saham GMFI dari Angkasa Pura ke Danantara Asset Management, yang akan disetor Danantara sebagai pengganti uang tunai dalam rights issue Garuda.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GIAA",
+   "rights issue",
+   "Danantara",
+   "GMFI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/56b51c5d6a_923f532942.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bold-akui-telat-lapor-kesiapan-dana-obligasi-soroti-likuiditas",
+  "category": "Aksi Korporasi",
+  "title": "BOLD Akui Telat Lapor Kesiapan Dana Obligasi, Soroti [Likuiditas]",
+  "deck": "BUMA (BOLD) menjelaskan ke Bursa keterlambatan lapor kesiapan dana Obligasi III Rp503,15 miliar, di tengah tekanan likuiditas dan obligasi lain yang jatuh tempo Desember 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "BUMA",
+   "obligasi",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/68a1a66ba8_dfea5cdbed.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-ajukan-pinjaman-rp1-1-triliun-dari-pengendali-pmj",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Ajukan Pinjaman [Rp1,1 Triliun] dari Pengendali PMJ",
+  "deck": "BIKE mengajukan pinjaman Standby Loan hingga Rp1,1 triliun dari pengendali PMJ, sekaligus menambah tujuh KBLI baru, untuk disetujui RUPSLB 11 Desember 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "transaksi afiliasi",
+   "standby loan",
+   "diversifikasi usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d797142f88_b04c5d1d0f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-lanjutkan-suspensi-saham-menn-dan-soul",
+  "category": "Aksi Korporasi",
+  "title": "BEI Lanjutkan [Suspensi] Saham MENN dan SOUL",
+  "deck": "BEI menegaskan dua emiten Papan Akselerasi, MENN dan SOUL, tetap disuspensi karena belum menyampaikan laporan keuangan interim Juni 2026 dan/atau belum membayar denda.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MENN",
+   "SOUL",
+   "Suspensi Saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ebe915b202_06bcb9fbc6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-lanjutkan-suspensi-62-saham-akibat-telat-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "BEI Lanjutkan [Suspensi] 62 Saham Akibat Telat Laporan Keuangan",
+  "deck": "Bursa Efek Indonesia mempertahankan suspensi perdagangan 62 saham karena belum menyerahkan laporan keuangan interim Juni 2026 dan/atau belum membayar denda Rp150 juta sejak 30 Oktober 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "suspensi saham",
+   "BEI",
+   "SRIL",
+   "BTEL"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/19083cc232_96785c4af2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "emas-panggil-rups-independen-soal-pmthmetd-10",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Panggil RUPS Independen soal [PMTHMETD] 10%",
+  "deck": "RUPS pemegang saham independen EMAS pada 26 November 2026 akan memutuskan rencana penambahan modal tanpa hak memesan efek terlebih dahulu sebanyak-banyaknya 10 persen saham baru.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "RUPS",
+   "PMTHMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6030cd0056_db96ad1d67.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tbi-entikong-didorong-jadi-pintu-ekspor-impor-perbatasan",
   "category": "Bisnis",
   "title": "TBI Entikong Didorong Jadi Pintu [Ekspor-Impor] Perbatasan",
@@ -487,6 +615,86 @@ var ARTICLES = [
    "KSEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2302cd2bd5_1cbab9708a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meta-panggil-rupslb-26-november-bahas-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "META Panggil RUPSLB 26 November, Bahas Susunan [Direksi]",
+  "deck": "Nusantara Infrastructure menggelar RUPSLB pada 26 November 2026 dengan agenda tunggal persetujuan perubahan susunan direksi perseroan.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "META",
+   "RUPSLB",
+   "Direksi",
+   "Nusantara Infrastructure"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f16bd84ce_eb964f5858.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kgi-hd-sesuaikan-itmghdcz6a-usai-dividen-tunai-itmg",
+  "category": "Aksi Korporasi",
+  "title": "KGI (HD) Sesuaikan [ITMGHDCZ6A] usai Dividen Tunai ITMG",
+  "deck": "KGI Sekuritas menyesuaikan harga pelaksanaan dan rasio waran terstruktur ITMGHDCZ6A menyusul dividen tunai ITMG, efektif 11 November 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HD",
+   "ITMG",
+   "waran terstruktur",
+   "KGI Sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ad7d84fd1c_45fdf6e3b1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iiff-tawarkan-obligasi-rp1-7-triliun-bunga-7-2-7-6-persen",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Tawarkan [Obligasi] Rp1,7 Triliun, Bunga 7,2-7,6 Persen",
+  "deck": "IIFF merilis Obligasi Berkelanjutan III Tahap II senilai Rp1,7 triliun dalam tiga seri, ditawarkan 4-5 November dan tercatat di BEI pada 11 November 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IIFF",
+   "obligasi",
+   "pasar modal",
+   "infrastruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f177628a8_061eddb6bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Tegaskan Tak Ada Info [Material] di Balik Volatilitas Saham",
+  "deck": "Merespons permintaan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, Energi Mega Persada menyatakan tidak ada info material tersembunyi atau rencana aksi korporasi dalam waktu dekat.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "Energi Mega Persada",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e126e2f00b_3b5fd654d8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unvr-laba-bersih-naik-26-jadi-rp4-2-triliun-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "UNVR: Laba Bersih [Naik] 26% jadi Rp4,2 Triliun Kuartal III",
+  "deck": "Laba bersih Unilever Indonesia naik 26 persen jadi Rp4,2 triliun di kuartal III 2026, didorong penjualan tumbuh dan untung penjualan unit usaha yang dihentikan.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNVR",
+   "Unilever Indonesia",
+   "laporan keuangan",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104152117-65732-0/FinancialStatement-2026-III-UNVR.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6260,216 +6468,6 @@ var ARTICLES = [
    "rugi bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030131438-64887-0/FinancialStatement-2026-III-POLA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tbla-laba-turun-ke-rp591-miliar-pendapatan-naik-17",
-  "category": "Aksi Korporasi",
-  "title": "TBLA: Laba Turun ke Rp591 Miliar, [Pendapatan] Naik 17%",
-  "deck": "Pendapatan sembilan bulan TBLA naik 17 persen jadi Rp19,18 triliun, tapi laba bersih turun 6 persen akibat beban bunga yang lebih berat.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TBLA",
-   "Tunas Baru Lampung",
-   "laporan keuangan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030132216-64798-0/FinancialStatement-2026-III-TBLA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tnca-rugi-kuartal-iii-liabilitas-naik-158",
-  "category": "Aksi Korporasi",
-  "title": "TNCA Rugi Kuartal III, Liabilitas Naik [158%]",
-  "deck": "TNCA berbalik rugi Rp81 juta pada sembilan bulan 2026 dan arus kas operasinya negatif, sementara liabilitasnya melonjak 158% setahun karena utang usaha dan utang lain-lain yang membesar tajam.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TNCA",
-   "laporan keuangan",
-   "logistik",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030131550-65187-0/FinancialStatement-2026-III-TNCA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pudp-cetak-rugi-rp7-2-miliar-di-sembilan-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "PUDP Cetak [Rugi] Rp7,2 Miliar di Sembilan Bulan 2026",
-  "deck": "Pudjiadi Prestige (PUDP) berbalik rugi Rp7,2 miliar pada sembilan bulan 2026, dari laba Rp1,6 miliar setahun sebelumnya, seiring kas tergerus pembiayaan proyek baru di Lebak Bulus.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PUDP",
-   "properti",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030131332-64861-0/FinancialStatement-2026-III-PUDP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unvr-rencanakan-audit-lk-interim-kuartal-iii-sebut-strategis",
-  "category": "Aksi Korporasi",
-  "title": "UNVR Rencanakan Audit LK Interim Kuartal III, Sebut [Strategis]",
-  "deck": "Unilever Indonesia akan mengaudit penuh laporan keuangan interim kuartal III 2026 terkait rencana strategis mendatang, disetor paling lambat 31 Desember 2026.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNVR",
-   "Unilever Indonesia",
-   "audit",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f05897c06e_d2cafaa5a7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tins-catat-laba-bersih-rp4-12-triliun-di-9m-2026-naik-584",
-  "category": "Aksi Korporasi",
-  "title": "TINS Catat [Laba Bersih] Rp4,12 Triliun di 9M 2026, Naik 584%",
-  "deck": "PT Timah membukukan laba bersih Rp4,12 triliun pada sembilan bulan 2026, melonjak 584% ditopang harga timah global tinggi dan kenaikan produksi serta penjualan.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TINS",
-   "laba bersih",
-   "timah",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/055eb7320c_1f0251cffd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-belum-bayar-utang-rp82-miliar-lk-2024-beropini-pengecualian",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Belum Bayar Utang Rp82 Miliar, LK 2024 Beropini [Pengecualian]",
-  "deck": "Laporan keuangan tahunan 2024 BOSS mendapat opini wajar dengan pengecualian setelah anak usaha tambangnya dinyatakan pailit dan dua utang besar belum terbayar.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "laporan keuangan tahunan",
-   "opini wajar dengan pengecualian",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202410/20261030125700-65522-0/FinancialStatement-2024-Tahunan-BOSS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sraj-kas-turun-23-saat-ekspansi-rs-jakarta-timur-rampung",
-  "category": "Aksi Korporasi",
-  "title": "SRAJ: Kas Turun 23% Saat Ekspansi [RS Jakarta Timur] Rampung",
-  "deck": "Kas SRAJ turun 23 persen jadi Rp1,40 triliun dalam sembilan bulan 2026, seiring aset tetap naik saat rumah sakit baru di Jakarta Timur mulai beroperasi komersial.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRAJ",
-   "rumah sakit",
-   "Mayapada Healthcare Group",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030123113-65299-0/FinancialStatement-2026-III-SRAJ.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemendag-kirim-7-ton-cabai-rawit-ke-halmahera-utara",
-  "category": "Makroekonomi",
-  "title": "Kemendag Kirim [7 Ton] Cabai Rawit ke Halmahera Utara",
-  "deck": "Kementerian Perdagangan mengirim 7 ton cabai rawit dari Probolinggo ke Halmahera Utara untuk menekan harga yang sempat mencapai Rp150.000 per kilogram menjelang Natal dan Tahun Baru.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/kemendag-kirim-7-ton-cabai-rawit-ke-halmahera-utara.jpg",
-  "imageV": "mvuivzcm",
-  "tags": [
-   "cabai rawit",
-   "Kemendag",
-   "Halmahera Utara",
-   "Nataru"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tekan-disparitas-harga-jelang-nataru-kemendag-fasilitasi-pengiriman-7-ton-cabai-rawit-ke-halmahera-utara",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "rans-catat-lonjakan-aset-86-usai-ipo-utang-bank-lunas",
-  "category": "Aksi Korporasi",
-  "title": "RANS Catat Lonjakan Aset 86% Usai [IPO], Utang Bank Lunas",
-  "deck": "Setelah dana IPO masuk Juli 2026, total aset RANS naik 86% jadi Rp855,73 miliar dan utang bank lunas, sementara laba sembilan bulan naik jadi Rp37,97 miliar.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RANS",
-   "IPO",
-   "Laporan Keuangan",
-   "Media dan Hiburan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030122202-65531-0/FinancialStatement-2026-III-RANS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nely-catat-rugi-rp9-2-miliar-pendapatan-turun-29-persen",
-  "category": "Aksi Korporasi",
-  "title": "NELY catat [rugi] Rp9,2 miliar, pendapatan turun 29 persen",
-  "deck": "Pelayaran Nelly Dwi Putri membukukan rugi bersih Rp9,2 miliar pada sembilan bulan pertama 2026, berbalik dari laba Rp47,6 miliar tahun sebelumnya, seiring pendapatan yang turun 29 persen.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NELY",
-   "laporan keuangan",
-   "pelayaran",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121957-65220-0/FinancialStatement-2026-III-NELY.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smdm-balik-untung-liabilitas-melonjak-56-dalam-9-bulan",
-  "category": "Aksi Korporasi",
-  "title": "SMDM Balik Untung, [Liabilitas] Melonjak 56% dalam 9 Bulan",
-  "deck": "Laba bersih SMDM berbalik positif pada sembilan bulan pertama 2026, tapi total liabilitas naik 56 persen dipicu lonjakan uang muka pembeli properti.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMDM",
-   "properti",
-   "laporan keuangan",
-   "liabilitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030122033-64521-0/FinancialStatement-2026-III-SMDM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "powr-laba-melonjak-24-jadi-us-70-9-juta-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "POWR: laba [melonjak] 24% jadi US$70,9 juta di kuartal III",
-  "deck": "Cikarang Listrindo (POWR) membukukan laba bersih US$70,9 juta pada sembilan bulan pertama 2026, naik 24 persen dibanding tahun lalu, didorong turunnya beban bunga.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POWR",
-   "Cikarang Listrindo",
-   "laba bersih",
-   "laporan keuangan kuartal III"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030122010-65409-0/FinancialStatement-2026-III-POWR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "duti-laba-bersih-melonjak-149-jadi-rp482-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "DUTI: Laba Bersih [Melonjak] 149% jadi Rp482,8 Miliar",
-  "deck": "Laba bersih Duta Pertiwi melonjak 149 persen menjadi Rp482,8 miliar pada sembilan bulan pertama 2026, didorong pendapatan naik 26 persen dan diiringi pembagian dividen Rp1,09 triliun.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DUTI",
-   "Duta Pertiwi",
-   "laporan keuangan",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121727-64519-0/FinancialStatement-2026-III-DUTI.pdf",
   "sourceLabel": "IDX"
  }
 ];

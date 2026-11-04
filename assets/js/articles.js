@@ -3,6 +3,216 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ultj-ambil-alih-frisian-flag-kendali-ke-frieslandcampina",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Ambil Alih [Frisian Flag], Kendali ke FrieslandCampina",
+  "deck": "ULTJ akan mengambil alih 100 persen saham Frisian Flag Indonesia lewat tukar saham non-tunai, sehingga pengendali perusahaan beralih dari keluarga Prawirawidjaja ke FrieslandCampina.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T23:19:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/999581bae2_58adf38a1c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "Frisian Flag Indonesia",
+   "FrieslandCampina",
+   "transaksi material"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) menerbitkan tambahan keterbukaan informasi yang memperbarui rencana besar yang pertama kali diumumkan 18 September 2026, yaitu penambahan modal dengan hak memesan efek terlebih dahulu tahap keempat (PMHMETD IV) yang digabung dengan transaksi material. Dana dari penerbitan saham baru, maksimal 7.878.669.985 lembar dengan nilai nominal Rp50 dan harga pelaksanaan Rp2.150 per saham, akan dipakai untuk mengambil alih seluruh saham PT Frisian Flag Indonesia (FFI). Pengambilalihan dilakukan lewat skema inbreng, yaitu saham FFI disetor sebagai modal ke ULTJ, bukan dibayar dengan uang tunai. Tiga pemegang saham FFI yang melepas sahamnya adalah FrieslandCampina International Holding B.V. (FCIH) dengan 19.084 saham atau 78,09 persen, Blue Waves Group Ventures Pte Ltd dengan 4.134 saham atau 16,91 persen, dan PT Bahtera Wiraniaga Internusa dengan 1.222 saham atau 5,00 persen dari seluruh saham FFI.",
+   "Transaksi ini akan mengubah pengendali ULTJ. Begitu rencana inbreng selesai, Sabana Prawirawidjaja (SPW) yang saat ini menjadi pemegang saham pengendali akan kehilangan status itu, dan FCIH akan menjadi pengendali baru karena berhak menominasikan 4 dari 7 anggota direksi dan 4 dari 8 anggota dewan komisaris ULTJ. Peralihan ini didukung surat pernyataan bersama SPW dan FCIH tertanggal 28 Oktober 2026, yang juga menegaskan keduanya tidak akan mengendalikan perusahaan secara bersama-sama. Setelah transaksi selesai, FCIH wajib melakukan penawaran tender wajib atas sisa saham ULTJ yang dipegang publik, sesuai aturan pengambilalihan perusahaan terbuka.",
+   "Beberapa syarat sudah dipenuhi untuk melanjutkan rencana ini. ULTJ telah mendapat persetujuan dari PT Bank Central Asia Tbk tertanggal 13 Oktober 2026 dan PT Bank Mandiri (Persero) Tbk tertanggal 16 Oktober 2026 terkait rencana right issue. FFI juga sudah memperoleh persetujuan perubahan kepemilikan dari PT Bank HSBC Indonesia pada 1 Oktober 2026 dan telah memberitahu JPMorgan Chase Bank N.A. Indonesia pada 18 September 2026. Penilai independen KJPP Rengganis, Hamid dan Rekan akan menyusun laporan penilaian dan pendapat kewajaran atas rencana ini sebelum disahkan dalam RUPSLB yang dijadwalkan Jumat, 6 November 2026. FCIH juga wajib melaporkan pengambilalihan ini ke Komisi Pengawas Persaingan Usaha (KPPU) dalam waktu 30 hari kerja setelah rencana inbreng berlaku efektif."
+  ],
+  "fotoAdegan": "Workers in blue uniforms inspecting rows of milk cartons on a factory conveyor belt under bright industrial lighting",
+  "takeaway": "Laporan ini netral karena kabar baik dan risikonya saling mengimbangi: ULTJ memperbesar bisnis dengan menguasai penuh Frisian Flag Indonesia, tapi harus menerbitkan saham baru sampai 7,88 miliar lembar yang membuat pengendali perusahaan berpindah dari keluarga Prawirawidjaja ke FrieslandCampina. Jumlah saham beredar yang melonjak drastis ini penting dipantau karena bisa menekan laba per saham dalam jangka pendek, sebelum pendapatan Frisian Flag ikut masuk ke laporan keuangan gabungan ULTJ. Hak suara pemegang saham lama juga otomatis mengecil karena FrieslandCampina akan berhak menunjuk mayoritas direksi dan komisaris begitu transaksi ini selesai. Yang perlu dipantau berikutnya adalah hasil RUPSLB Jumat, 6 November 2026, karena rencana ini baru sah kalau disetujui pemegang saham di rapat itu, serta tenggat 30 hari kerja bagi FrieslandCampina untuk melapor ke KPPU setelah transaksi efektif. Setelah itu, pemegang saham publik yang tidak setuju masih punya jalan keluar lewat tender offer wajib yang harus digelar FrieslandCampina.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "unvr-panggil-rupslb-tarik-168-8-juta-saham-treasuri",
+  "category": "Aksi Korporasi",
+  "title": "UNVR Panggil RUPSLB, Tarik [168,8 Juta] Saham Treasuri",
+  "deck": "Unilever Indonesia memanggil RUPSLB 26 November 2026 untuk meminta persetujuan menarik seluruh 168,8 juta saham treasuri hasil buyback 2025, setara 0,44% modal disetor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T23:15:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6da8ff3383_dcb938ef74.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNVR",
+  "tags": [
+   "UNVR",
+   "RUPSLB",
+   "saham treasuri",
+   "pengurangan modal"
+  ],
+  "body": [
+   "Unilever Indonesia Tbk (UNVR) mengundang pemegang saham menghadiri Rapat Umum Pemegang Saham Luar Biasa pada Kamis, 26 November 2026, pukul 10.30 WIB. Rapat digelar di Grha Unilever, Green Office Park Kav. 3, BSD City, Kabupaten Tangerang, dan berlangsung secara elektronik melalui fasilitas eASY.KSEI. Agenda tunggal rapat ini adalah persetujuan rencana pengurangan modal perseroan dengan cara menarik kembali seluruh saham treasuri sebanyak 168.766.700 lembar, atau 100 persen dari saham treasuri yang dimiliki perseroan, setara dengan 0,44 persen dari modal ditempatkan dan disetor perseroan. Saham treasuri ini berasal dari program pembelian kembali saham (buyback) yang dijalankan UNVR sepanjang 31 Juli sampai 30 Oktober 2025.",
+   "Dalam penjelasannya, perseroan menyebut keputusan menarik saham treasuri ini mempertimbangkan kondisi ekonomi dan pasar serta manfaat optimal bagi seluruh pemegang saham. Mengacu pada Pasal 21 huruf b POJK Nomor 29 Tahun 2023 tentang Pembelian Kembali Saham, saham hasil buyback dapat dialihkan dengan cara ditarik kembali melalui pengurangan modal ditempatkan dan disetor, dan tindakan ini wajib mendapat persetujuan pemegang saham lebih dulu. Jika disetujui, Direksi memperoleh kewenangan mengubah Pasal 4 ayat 2 Anggaran Dasar perseroan untuk mencerminkan angka modal ditempatkan dan disetor yang baru setelah pengurangan modal.",
+   "Pemegang saham yang berhak hadir atau memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 3 November 2026 pukul 16.00 WIB. Deklarasi kehadiran elektronik dan pemberian suara melalui eASY.KSEI dibuka sejak tanggal pemanggilan ini hingga Rabu, 25 November 2026 pukul 12.00 WIB. Bagi yang memberi kuasa secara konvensional, surat kuasa harus disampaikan ke Biro Administrasi Efek, PT Sharestar Indonesia, paling lambat Senin, 23 November 2026 pukul 16.00 WIB. Pemanggilan ini ditandatangani Corporate Secretary UNVR, Mario Abdi Amrillah, pada 4 November 2026."
+  ],
+  "fotoAdegan": "Modern glass corporate office building exterior in a planned business park, BSD City Tangerang, daytime sky, wide street view",
+  "takeaway": "Laporan ini netral bagi kinerja Unilever Indonesia, karena isinya cuma menuntaskan secara administratif program buyback yang sudah berjalan sejak pertengahan 2025, dan porsi saham yang ditarik jauh di bawah 1 persen dari modal disetor sehingga dampaknya tidak material. Yang tersentuh adalah jumlah saham beredar dan modal disetor perseroan, karena begitu 168,8 juta saham treasuri ini resmi ditarik, jumlah saham yang beredar di pasar berkurang sedikit sehingga laba per saham, yaitu laba bersih dibagi jumlah saham, bisa naik tipis karena pembaginya mengecil. Modal ditempatkan dan disetor perseroan juga akan disesuaikan turun mengikuti pengurangan saham ini, sesuai perubahan Pasal 4 ayat 2 Anggaran Dasar yang akan dilakukan Direksi setelah rapat. Yang perlu dipantau adalah hasil RUPSLB pada 26 November 2026, karena persetujuan pemegang saham memang disyaratkan lebih dulu sebelum pengurangan modal ini bisa benar-benar dieksekusi, dengan tenggat deklarasi kehadiran elektronik pada 25 November 2026 pukul 12.00 WIB bagi pemegang saham yang ingin ikut memberi suara.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "giaa-rampungkan-alih-saham-gmfi-ke-danantara-jelang-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Rampungkan Alih Saham GMFI ke Danantara Jelang [Rights Issue]",
+  "deck": "Garuda Indonesia merampungkan peralihan 82,1 miliar saham GMFI dari Angkasa Pura ke Danantara Asset Management, yang akan disetor Danantara sebagai pengganti uang tunai dalam rights issue Garuda.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T23:00:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/56b51c5d6a_923f532942.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "rights issue",
+   "Danantara",
+   "GMFI"
+  ],
+  "body": [
+   "PT Garuda Indonesia (Persero) Tbk (GIAA) menerbitkan perubahan dan tambahan atas keterbukaan informasi tanggal 30 September 2026 mengenai rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD) ketiga. Dalam dokumen bertanggal 4 November 2026 ini, Garuda melaporkan bahwa seluruh rangkaian peralihan saham PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) sudah tuntas, berdasarkan dua akta pemindahan hak atas saham yang dibuat pada 2 November 2026 di hadapan notaris Desman, S.H., M.H. di Jakarta Utara.",
+   "Saham yang beralih adalah 82.100.173.900 saham Seri B GMFI, setara 65,77 persen dari modal ditempatkan dan disetor GMFI. Saham ini awalnya dibagikan PT Angkasa Pura Indonesia (API) sebagai dividen non tunai senilai Rp5,66 triliun kepada PT Aviasi Pariwisata Indonesia (InJourney), sesuai persetujuan RUPS API pada 26 Juni 2026. InJourney kemudian meneruskan saham itu kepada PT Danantara Asset Management (DAM) juga lewat dividen non tunai, sesuai persetujuan RUPS InJourney pada 29 Juni 2026. Dengan rampungnya kedua akta pada 2 November 2026, DAM kini resmi tercatat sebagai pemilik saham GMFI tersebut.",
+   "Langkah ini menjadi dasar bagi tahap berikutnya: dalam rencana penambahan modal Garuda, DAM berniat melaksanakan haknya bukan dengan uang tunai, melainkan dengan menyetorkan saham GMFI yang baru diperolehnya itu sebagai modal (disebut Rencana Inbreng), sementara pemegang HMETD lain tetap menyetor secara tunai. Karena DAM adalah pemegang saham utama Garuda, transaksi ini pada dasarnya tergolong transaksi afiliasi. Namun Garuda dikecualikan dari kewajiban tambahan terkait transaksi afiliasi karena skema ini merupakan bagian dari rencana restrukturisasi keuangan 2025-2029 yang telah disetujui Menteri BUMN dan dijalankan melalui penawaran umum, sehingga hanya tunduk pada aturan OJK soal penambahan modal dengan HMETD. Garuda tetap wajib menunjuk penilai independen untuk menentukan nilai wajar saham GMFI yang disetor DAM dan menyusun opini kewajaran atas transaksi ini.",
+   "Dokumen juga memuat struktur permodalan Garuda terbaru: dari total 407,09 miliar saham yang beredar, DAM menguasai 91,11 persen gabungan dari saham Seri B, C, dan D, Negara Republik Indonesia memegang 0,92 persen lewat satu saham Seri A Dwiwarna, dan publik memegang 7,97 persen. Sejumlah direksi dan komisaris tercatat memiliki saham dalam jumlah kecil, antara lain Komisaris Chairal Tanjung dengan 6.424.259 saham Seri C serta Direktur Operasi Eric Ferdinand Sofyal dengan kombinasi saham Seri B dan C, namun ini sekadar data kepemilikan dalam daftar pemegang saham, bukan transaksi jual beli baru."
+  ],
+  "fotoAdegan": "Technicians inspecting a wide-body aircraft engine inside a large maintenance hangar, work lights on, early morning",
+  "takeaway": "Laporan ini netral bagi fundamental Garuda, karena sejauh ini baru memindahkan kepemilikan saham GMFI antar entitas negara, dari Angkasa Pura ke InJourney lalu ke Danantara, dan belum ada uang tunai baru yang masuk ke kas Garuda atau hak suara publik yang berubah. Yang tersentuh adalah pos ekuitas dan jumlah saham beredar Garuda ke depan: begitu rights issue benar-benar berjalan dan Danantara menyetor saham GMFI senilai triliunan rupiah sebagai pengganti uang tunai, modal disetor Garuda bertambah tanpa menambah utang baru, tetapi jumlah saham yang beredar juga bertambah sehingga laba per saham pemegang saham publik yang tidak ikut menyetor berisiko terdilusi. Yang perlu dipantau berikutnya adalah RUPSLB yang akan mengesahkan Rencana Inbreng ini serta hasil penilaian nilai wajar dari penilai independen atas saham GMFI yang disetor Danantara, karena dari sanalah baru bisa dihitung harga pelaksanaan HMETD dan seberapa besar dilusi yang sesungguhnya dihadapi pemegang saham publik.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bold-akui-telat-lapor-kesiapan-dana-obligasi-soroti-likuiditas",
+  "category": "Aksi Korporasi",
+  "title": "BOLD Akui Telat Lapor Kesiapan Dana Obligasi, Soroti [Likuiditas]",
+  "deck": "BUMA (BOLD) menjelaskan ke Bursa keterlambatan lapor kesiapan dana Obligasi III Rp503,15 miliar, di tengah tekanan likuiditas dan obligasi lain yang jatuh tempo Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T22:43:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/68a1a66ba8_dfea5cdbed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "BUMA",
+   "obligasi",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Bukit Makmur Mandiri Utama (BUMA, kode saham BOLD) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI tertanggal 28 Oktober 2026. Dalam suratnya bernomor BUMA/DIR/2026/XI/0835/SKLR yang ditandatangani Corporate Secretary Riska Aurisna Febriane, perusahaan mengakui terlambat menyampaikan Laporan Kesiapan Dana untuk Obligasi III BUMA Tahun 2025 Seri A senilai Rp503,15 miliar yang jatuh tempo 20 Oktober 2026. Laporan itu seharusnya disampaikan paling lambat 29 September 2026, namun BUMA baru memastikannya pada pertengahan Oktober karena masih menunggu kepastian posisi kas, akibat tekanan likuiditas serta terbatasnya aktivitas usaha salah satu pelanggan utama perusahaan pada Agustus dan September 2026.",
+   "Terkait kondisi keuangannya, BUMA menyatakan pembayaran Obligasi III Seri A mengurangi kas perusahaan dalam jangka pendek, namun operasional tetap berjalan melalui pengendalian belanja, percepatan penagihan piutang, dan pengaturan ulang jadwal pembayaran. Perusahaan juga mengungkapkan bahwa sebelumnya sempat melanggar dua syarat (covenant) dalam perjanjian obligasi dan sukuknya, yaitu batas rasio utang bersih terhadap EBITDA dan rasio kemampuan menutup beban tetap, untuk periode uji per 31 Desember 2025. Pengesampingan (waiver) atas pelanggaran itu baru disetujui pemegang obligasi dan sukuk ijarah melalui rapat umum pada Maret 2026. BUMA menegaskan tidak menyelenggarakan dana cadangan khusus (sinking fund) untuk kewajiban obligasi dan sukuknya, dan sebagai gantinya mengandalkan pencadangan kas serta pemantauan arus kas rutin menjelang setiap jatuh tempo.",
+   "Soal kewajiban yang akan datang, BUMA menyebut tengah menjajaki sejumlah langkah, antara lain rencana pembiayaan kembali (refinancing) atas utang Rupiah yang jatuh tempo, penguatan fasilitas perbankan, dan optimalisasi modal kerja. Perhatian utama tertuju pada Obligasi I BUMA Tahun 2023 Seri B yang jatuh tempo 28 Desember 2026. Perusahaan menyatakan berkomitmen memenuhi kewajiban itu sesuai Perjanjian Perwaliamanatan, namun masih menjajaki berbagai sumber pendanaan dan belum mengambil keputusan definitif soal kemungkinan restrukturisasi obligasi maupun sukuk yang masih beredar. BUMA berjanji akan mengungkapkan setiap perkembangan material kepada Bursa, OJK, dan wali amanat sesuai ketentuan keterbukaan informasi yang berlaku."
+  ],
+  "fotoAdegan": "Heavy mining dump trucks hauling coal on a dusty open-pit road at a Kalimantan mine, early morning light.",
+  "takeaway": "Laporan ini condong negatif bagi BUMA karena bukan sekadar soal administratif, melainkan bukti nyata tekanan likuiditas: perusahaan sampai terlambat melapor kesiapan dana untuk obligasi yang sudah jatuh tempo, dan sebelumnya harus meminta pengesampingan dari pemegang obligasi karena dua rasio keuangannya melewati batas yang disyaratkan. Rasio yang dilanggar itu adalah perbandingan utang bersih terhadap laba operasional (EBITDA) dan kemampuan menutup beban tetap, dua ukuran yang jadi acuan kreditur untuk menilai apakah perusahaan masih sanggup menanggung utangnya, sehingga kalau rasio ini terus memburuk biaya pinjaman BUMA ke depan bisa makin mahal. Perusahaan juga mengandalkan arus kas operasi untuk membayar utang, padahal arus kas itu sendiri sedang tertekan karena salah satu pelanggan utamanya mengurangi aktivitas usaha pada Agustus-September 2026. Yang paling perlu dipantau adalah kemampuan BUMA membayar Obligasi I BUMA Tahun 2023 Seri B yang jatuh tempo 28 Desember 2026, sebab perusahaan sendiri mengakui belum memiliki sumber dana pasti dan masih menjajaki opsi pendanaan maupun kemungkinan restrukturisasi bersama wali amanat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bike-ajukan-pinjaman-rp1-1-triliun-dari-pengendali-pmj",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Ajukan Pinjaman [Rp1,1 Triliun] dari Pengendali PMJ",
+  "deck": "BIKE mengajukan pinjaman Standby Loan hingga Rp1,1 triliun dari pengendali PMJ, sekaligus menambah tujuh KBLI baru, untuk disetujui RUPSLB 11 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T22:41:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d797142f88_b04c5d1d0f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "transaksi afiliasi",
+   "standby loan",
+   "diversifikasi usaha"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mengumumkan dua rencana besar sekaligus dalam satu keterbukaan informasi, 4 November 2026. Pertama, penambahan tujuh Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) baru yaitu pembangkit tenaga listrik, pembangkit-transmisi-distribusi listrik terintegrasi, e-commerce, infrastruktur komputasi dan hosting, fasilitas lapangan, kawasan industri, serta aktivitas perusahaan induk. Kedua, rencana menerima fasilitas pinjaman Standby Loan senilai maksimum Rp1,1 triliun dari PT Penajam Makmur Jaya (PMJ), pemegang saham pengendali BIKE yang menguasai 74,90 persen saham perusahaan. Kedua rencana ini wajib mendapat persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan Jumat, 11 Desember 2026.",
+   "Pinjaman dari PMJ ini berbunga tetap 8 persen per tahun, tanpa jaminan, dengan jangka waktu tujuh tahun terhitung dari tanggal perjanjian pinjaman 8 Agustus 2026 hingga jatuh tempo 8 Agustus 2033. Dana bisa ditarik bertahap sesuai kebutuhan, pokok pinjaman dibayar melalui mekanisme revenue sweep atau penyisihan 10 persen dari pendapatan kotor proyek, dan BIKE boleh melunasi lebih cepat sewaktu-waktu tanpa denda dengan pemberitahuan tertulis 30 hari sebelumnya. Karena PMJ adalah pengendali, transaksi ini tergolong transaksi afiliasi sekaligus transaksi material, dan penilai independen KJPP Febriman Siregar dan Rekan menyatakan transaksi ini wajar dalam laporan bertanggal 4 November 2026.",
+   "Dampaknya ke laporan keuangan tidak kecil. Ekuitas BIKE per 31 Desember 2025 hanya tercatat Rp84,7 miliar, sehingga nilai pinjaman Rp1,1 triliun setara 1.298,68 persen dari ekuitas tersebut. Berdasarkan proforma per 31 Juli 2026, bila seluruh fasilitas ditarik, total liabilitas perusahaan akan melonjak menjadi sekitar Rp1,1 triliun dan rasio utang terhadap ekuitas naik dari 0,37 kali menjadi 83,9 kali. Beban bunga yang harus ditanggung mencapai Rp88 miliar per tahun, atau total Rp616 miliar selama tujuh tahun masa pinjaman, dan dokumen menyebut sumber pembayarannya adalah arus kas dari bisnis-bisnis baru yang baru akan dibangun.",
+   "Rencana penambahan KBLI ini didasari studi kelayakan KJPP Tobing Panuturi Dan Rekan tertanggal 14 Oktober 2026 yang menyimpulkan proyek layak dijalankan, mencakup empat proyek utama. BIKE berencana menjadi kontraktor EPC Pembangkit Listrik Tenaga Gas dan Uap (PLTGU) Bali berkapasitas 200 MW selama 48 bulan, data center modular di Pulomas dengan kapasitas awal 10 MW dalam 24 bulan konstruksi, Kawasan Industri Hijau Indramayu di lahan 1.300 hektare dengan PLTS 200 MW dan sistem penyimpanan baterai 613 MWh, serta lapangan golf internasional di Mandalika seluas 127,3 hektare. Proyeksi kelayakan keuangan masing-masing proyek bervariasi, dengan periode balik modal terpanjang di Kawasan Industri Indramayu, yaitu 11 tahun 4 bulan."
+  ],
+  "fotoAdegan": "Steel framework and cranes at a gas-fired power plant construction site under a hazy afternoon sky, workers in hard hats in the distance",
+  "takeaway": "Laporan ini condong negatif bagi BIKE, karena nilai pinjaman yang diajukan jauh melampaui kemampuan modal sendiri perusahaan, sementara dana itu akan dipakai membiayai bisnis-bisnis baru yang belum punya jejak operasi, dari pembangkit listrik sampai lapangan golf. Yang tersentuh di sini adalah ekuitas, yaitu modal bersih milik pemegang saham, dan rasio utang terhadap ekuitas yang mengukur berapa kali utang perusahaan dibanding modalnya sendiri, rasio ini akan melonjak dari 0,37 kali menjadi 83,9 kali jika seluruh pinjaman ditarik, jauh di atas kebiasaan perusahaan sehat yang umumnya di bawah dua kali. Pinjaman ini juga berasal dari pemegang saham pengendali sendiri, PT Penajam Makmur Jaya, sehingga tergolong transaksi afiliasi yang rawan konflik kepentingan meski sudah dinyatakan wajar oleh penilai independen. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 11 Desember 2026, sebab tanpa persetujuan itu dana belum bisa ditarik sama sekali, dan setelah itu kemampuan bisnis baru BIKE menghasilkan arus kas untuk menutup bunga Rp88 miliar per tahun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-lanjutkan-suspensi-saham-menn-dan-soul",
+  "category": "Aksi Korporasi",
+  "title": "BEI Lanjutkan [Suspensi] Saham MENN dan SOUL",
+  "deck": "BEI menegaskan dua emiten Papan Akselerasi, MENN dan SOUL, tetap disuspensi karena belum menyampaikan laporan keuangan interim Juni 2026 dan/atau belum membayar denda.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T22:36:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ebe915b202_06bcb9fbc6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "MENN",
+   "SOUL",
+   "Suspensi Saham",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengoreksi pengumuman sebelumnya bernomor Peng-S-00035/BEI.PLP/10-2026 tanggal 4 November 2026, dan menegaskan bahwa perdagangan saham dua perusahaan tercatat di Papan Akselerasi tetap dihentikan sementara. Dua emiten itu adalah PT Menn Teknologi Indonesia Tbk (MENN) dan PT Mitra Tirta Buwana Tbk (SOUL). Penyebabnya sama, yakni keduanya belum menyampaikan Laporan Keuangan Interim per 30 Juni 2026 dan/atau belum membayar denda yang terkait dengan keterlambatan itu.",
+   "Cakupan suspensi berbeda untuk masing-masing saham. MENN disetop di seluruh pasar, sedangkan SOUL hanya disetop di pasar reguler dan pasar tunai. Suspensi ini bukan hal baru, melainkan kelanjutan dari penghentian yang sudah berlaku sejak sesi I perdagangan tanggal 2 November 2026. Berdasarkan pemantauan BEI per 31 Oktober 2026, kedua perusahaan itu masih belum memenuhi kewajiban pelaporan tersebut sehingga suspensi diperpanjang.",
+   "BEI menjelaskan dasar aturannya, yaitu Ketentuan VIII.2.2 dan IX.3.4 Peraturan Bursa Nomor I-V tentang Ketentuan Khusus Pencatatan Saham di Papan Akselerasi, serta Peraturan OJK Nomor 14/POJK.04/2022 tentang Penyampaian Laporan Keuangan Berkala. Intinya, begitu masuk awal bulan keempat sejak batas waktu pelaporan terlewati tanpa laporan keuangan diserahkan, bursa wajib menghentikan perdagangan saham perusahaan itu. Pengumuman ini ditandatangani oleh Bima Ruditya Surya selaku Pjs. Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat, bersama Pande Made Kusuma Ari A. selaku Kepala Divisi Pengaturan dan Operasional Perdagangan, tertanggal 4 November 2026."
+  ],
+  "fotoAdegan": "Rows of empty stockbroker desks with blurred monitor screens in a quiet brokerage office, afternoon light through blinds",
+  "takeaway": "Laporan ini negatif bagi MENN dan SOUL karena memperlihatkan kegagalan berulang memenuhi kewajiban paling dasar sebagai perusahaan tercatat, yaitu melaporkan kondisi keuangan secara tepat waktu ke publik. Yang langsung tersentuh adalah likuiditas saham, yakni kemampuan pemegang saham untuk menjual atau membeli saham ini di bursa, karena selama suspensi berlangsung saham tersebut praktis tidak bisa diperdagangkan sama sekali atau hanya terbatas di sebagian pasar. Investor yang sudah memegang saham MENN atau SOUL otomatis terkunci dan tidak punya jalur keluar normal lewat bursa selama status ini belum dicabut. Yang perlu dipantau berikutnya adalah kapan kedua perusahaan benar-benar menyerahkan laporan keuangan interim per 30 Juni 2026 dan melunasi denda yang masih tertunggak, sebab itulah dua syarat yang menentukan kapan BEI akan membuka kembali perdagangan saham mereka.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-lanjutkan-suspensi-62-saham-akibat-telat-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "BEI Lanjutkan [Suspensi] 62 Saham Akibat Telat Laporan Keuangan",
+  "deck": "Bursa Efek Indonesia mempertahankan suspensi perdagangan 62 saham karena belum menyerahkan laporan keuangan interim Juni 2026 dan/atau belum membayar denda Rp150 juta sejak 30 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T22:35:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/19083cc232_96785c4af2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "suspensi saham",
+   "BEI",
+   "SRIL",
+   "BTEL"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan tetap memberlakukan suspensi perdagangan terhadap 62 perusahaan tercatat yang hingga pemantauan bursa per 29 Oktober 2026 belum menyerahkan laporan keuangan interim per 30 Juni 2026 dan/atau belum membayar denda keterlambatan. Berdasarkan Ketentuan II.6.3 Peraturan Bursa Nomor I-H tentang Sanksi, seluruh perusahaan itu sebelumnya sudah menerima Peringatan Tertulis III beserta denda Rp150 juta. Karena pelanggaran berlanjut melewati hari kalender ke-91 sejak tenggat penyampaian laporan, bursa menjatuhkan suspensi sesuai Ketentuan II.6.4, berlaku sejak sesi pertama perdagangan 30 Oktober 2026. Empat di antaranya, yaitu ARTI, HITS, LCKM, dan TGRA, sebenarnya sudah menyerahkan laporan keuangannya tapi belum membayar denda tersebut, sementara MREI tercatat belum menyerahkan laporan keuangan interimnya sama sekali.",
+   "Sebanyak 50 saham disuspensi penuh di seluruh pasar, artinya tidak bisa diperdagangkan sama sekali di pasar reguler, tunai, maupun negosiasi. Daftarnya: ARMY (Armidian Karyatama), ARTI (Ratu Prabu Energi), BIKA (Binakarya Jaya Abadi), BOSS (Borneo Olah Sarana Sukses), BTEL (Bakrie Telecom), CBMF (Cahaya Bintang Medan), COAL (Black Diamond Resources), COWL (Cowell Development), DEAL (Dewata Freightinternational), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), ETWA (Eterindo Wahanatama), GAMA (Aksara Global Development), GOLL (Golden Plantation), HITS (Humpuss Intermoda Transportasi), HKMU (HK Metals Utama), HOME (Hotel Mandarine Regency), HOTL (Saraswati Griya Lestari), INCF (Indo Komoditi Korpora), IPPE (Indo Pureco Pratama), JSKY (Sky Energy Indonesia), KAYU (Darmi Bersaudara), KBRI (Kertas Basuki Rachmat Indonesia), LCGP (Eureka Prima Jakarta), LCKM (LCK Global Kedaton), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MAGP (Multi Agro Gemilang Plantation), MTRA (Mitra Pemuda), NUSA (Sinergi Megah Internusa), PLAS (Polaris Investama), POOL (Pool Advista Indonesia), PTDU (Djasa Ubersakti), PURE (Trinitan Metals and Minerals), RIMO (Rimo International Lestari), SBAT (Sejahtera Bintang Abadi Textile), SIMA (Siwani Makmur), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TECH (Indosterling Technomedia), TELE (Omni Inovasi Indonesia), TGRA (Terregra Asia Energy), TOPS (Totalindo Eka Persada), TOYS (Sunindo Adipersada), TRAM (Trada Alam Minera), TRIL (Triwira Insanlestari), UNIT (Nusantara Inti Corpora), dan ZBRA (Dosni Roha Indonesia).",
+   "Sisanya, 12 saham, hanya disuspensi di pasar reguler dan tunai sehingga masih bisa berpindah tangan lewat pasar negosiasi. Daftarnya: ALTO (Tri Banyan Tirta), ARKA (Arkha Jayanti Persada), BEBS (Berkah Beton Sadaya), BHAT (Bhakti Multi Artha), CPRI (Capri Nusa Satu Properti), INDX (Tanah Laut), JMAS (Asuransi Jiwa Syariah Jasa Mitra Abadi), MREI (Maskapai Reasuransi Indonesia), PMMP (Panca Mitra Multiperdana), RAFI (Sari Kreasi Boga), SWAT (Sriwahana Adityakarta), dan TAYS (Jaya Swarasa Agung)."
+  ],
+  "fotoAdegan": "A distant, angled view of a glowing red and green stock ticker board blurred behind glass in a Jakarta office lobby, early morning",
+  "takeaway": "Ini sinyal negatif, sebab suspensi memutus akses jual beli normal bagi pemegang saham dari 62 perusahaan ini, dan daftarnya didominasi emiten yang berulang kali gagal memenuhi kewajiban pelaporan. Pos yang tersentuh bukan laba atau aset perusahaan, melainkan likuiditas sahamnya, kemampuan pemegang saham untuk keluar atau masuk lewat pasar, yang bagi 50 saham di antaranya praktis tertutup total karena suspensi berlaku di seluruh jenis pasar. Keterlambatan lapor keuangan berulang seperti ini juga sering jadi indikasi awal masalah tata kelola atau kondisi keuangan internal yang lebih dalam, bukan sekadar urusan administratif. Yang perlu dipantau berikutnya adalah kapan masing-masing dari 62 emiten ini menuntaskan kewajibannya, menyerahkan laporan keuangan dan melunasi denda Rp150 juta, karena pencabutan suspensi baru akan diumumkan BEI per kode saham begitu syarat itu terpenuhi, tidak serentak untuk semuanya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "emas-panggil-rups-independen-soal-pmthmetd-10",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Panggil RUPS Independen soal [PMTHMETD] 10%",
+  "deck": "RUPS pemegang saham independen EMAS pada 26 November 2026 akan memutuskan rencana penambahan modal tanpa hak memesan efek terlebih dahulu sebanyak-banyaknya 10 persen saham baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T22:19:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6030cd0056_db96ad1d67.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "RUPS",
+   "PMTHMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS), yang sahamnya juga tercatat di Hong Kong Exchanges and Clearing Limited dengan kode 6228, mengirimkan pemanggilan Rapat Umum Pemegang Saham Independen kepada para pemegang sahamnya. Rapat akan digelar secara elektronik pada Kamis, 26 November 2026 pukul 14.00 WIB melalui sistem eASY.KSEI di tautan akses.ksei.co.id. Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per 3 November 2026.",
+   "Agenda tunggal rapat ini adalah persetujuan rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu I (PMTHMETD I). Perseroan mengajukan penerbitan saham baru sebanyak-banyaknya 1.473.136.606 lembar, atau setara paling banyak 10 persen dari total saham yang sudah diterbitkan dan disetor penuh perseroan saat ini yang berjumlah 14.731.366.060 lembar, dengan nilai nominal Rp150 per saham. Karena mekanismenya tanpa hak memesan efek terlebih dahulu, pemegang saham lama tidak otomatis mendapat kesempatan membeli saham baru secara proporsional sesuai porsi kepemilikannya, sehingga agenda ini butuh persetujuan khusus dari pemegang saham independen, yakni mereka yang tidak berafiliasi dengan direksi, komisaris, pemegang saham utama, atau pengendali perseroan.",
+   "Jika disetujui, rapat juga memberi kuasa kepada Dewan Komisaris untuk menetapkan realisasi penerbitan saham, mengubah Pasal 4 Anggaran Dasar sesuai jumlah saham yang benar benar terbit, serta kepada Direksi untuk menegosiasikan perjanjian pengambilan bagian saham, menentukan harga pelaksanaan akhir dengan persetujuan komisaris, dan mencatatkan saham baru di Bursa Efek Indonesia. Keputusan atas agenda ini sah jika dihadiri lebih dari separuh total saham dengan hak suara milik pemegang saham independen, dan disetujui oleh lebih dari separuh suara yang hadir dari kalangan pemegang saham independen tersebut. Dokumen belum menyebutkan harga pelaksanaan final maupun pihak yang akan menyerap saham baru tersebut."
+  ],
+  "fotoAdegan": "Workers inspecting rock core samples at an open pit gold mine site in Indonesia, haul trucks in the distance, daylight",
+  "takeaway": "Laporan ini cenderung negatif bagi pemegang saham lama karena rencana penambahan modal tanpa hak memesan efek terlebih dahulu bisa menambah jumlah saham beredar hingga 10 persen tanpa memberi kesempatan proporsional kepada pemegang saham eksisting untuk ikut membeli. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru terbit, laba perusahaan yang sama akan terbagi ke lebih banyak lembar saham sehingga nilai laba per saham berpotensi mengecil, kecuali dana yang masuk nantinya mendorong kinerja perusahaan naik sebanding. Dokumen ini belum menyebutkan siapa calon pembeli saham baru atau untuk apa dana itu akan dipakai, jadi dampak sebenarnya baru akan jelas setelah harga dan pihak penyerap ditentukan. Yang perlu dipantau adalah hasil RUPS pada 26 November 2026, termasuk apakah kuorum pemegang saham independen terpenuhi dan apakah mayoritas dari mereka menyetujui rencana ini, serta pengumuman harga pelaksanaan final yang akan ditetapkan direksi bersama komisaris setelah rapat.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "tbi-entikong-didorong-jadi-pintu-ekspor-impor-perbatasan",
   "category": "Bisnis",
   "title": "TBI Entikong Didorong Jadi Pintu [Ekspor-Impor] Perbatasan",
@@ -793,6 +1003,136 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty formal chairs facing a small stage in a corporate conference hall, soft morning light, no visible signage.",
   "takeaway": "Laporan ini netral bagi BIKE, karena isinya sebatas jadwal dan mekanisme administratif rapat, belum memuat agenda atau angka transaksi yang bisa dinilai dampaknya terhadap kinerja perseroan. Pos yang disentuh di sini adalah hak suara pemegang saham, sebab RUPS Independen secara khusus digelar untuk transaksi yang mengandung benturan kepentingan, di mana suara pemegang saham yang berafiliasi dengan pihak terkait dalam transaksi itu tidak dihitung. Ini relevan karena BIKE belakangan mengoreksi tiga pengumuman akuisisi, yaitu FBM, PNE, dan BUM, dan mengakui ketiganya melibatkan direksi perseroan sendiri. Yang perlu dipantau adalah isi surat pemanggilan resmi yang terbit 19 November 2026, karena di situlah agenda rapat, termasuk apakah menyangkut persetujuan atas akuisisi-akuisisi tersebut, baru akan diungkap. Tenggat lain yang perlu diingat pemegang saham adalah batas pemberian kuasa elektronik pada 10 Desember 2026, sehari sebelum rapat digelar pada 11 Desember 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "meta-panggil-rupslb-26-november-bahas-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "META Panggil RUPSLB 26 November, Bahas Susunan [Direksi]",
+  "deck": "Nusantara Infrastructure menggelar RUPSLB pada 26 November 2026 dengan agenda tunggal persetujuan perubahan susunan direksi perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T15:33:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f16bd84ce_eb964f5858.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "META",
+  "tags": [
+   "META",
+   "RUPSLB",
+   "Direksi",
+   "Nusantara Infrastructure"
+  ],
+  "body": [
+   "PT Nusantara Infrastructure Tbk (META) resmi memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan berlangsung Kamis, 26 November 2026 pukul 10.00 WIB di Equity Tower Lantai 38, SCBD Lot 9, Jakarta Selatan. Pemanggilan ini merupakan kelanjutan dari surat pemberitahuan rencana RUPS sebelumnya bernomor 033/NI-CORSEC/X/26 tertanggal 20 Oktober 2026. Agenda rapat hanya satu, yaitu persetujuan atas perubahan susunan anggota direksi perseroan, yang menurut penjelasan resmi perusahaan didasarkan pada Pasal 15 ayat 11, 13, dan 17c Anggaran Dasar Perseroan serta Pasal 94 Undang-Undang Perseroan Terbatas, yang mengatur bahwa perubahan susunan direksi harus ditetapkan lewat RUPS. Dokumen pemanggilan belum menyebutkan nama direktur yang akan diganti atau diangkat.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 3 November 2026 pukul 16.00 WIB, atau pemilik saham yang tersimpan di sub rekening efek KSEI pada tanggal yang sama. Kehadiran bisa dilakukan secara fisik atau elektronik lewat fasilitas eASY.KSEI, termasuk memberi suara dari jarak jauh. Bagi yang tidak bisa hadir langsung, perseroan menunjuk PT Adimitra Jasa Korpora sebagai biro administrasi efek yang bertindak sebagai pihak independen penerima kuasa elektronik (e-proxy), dengan batas waktu pengubahan kuasa paling lambat Rabu, 25 November 2026 pukul 16.00 WIB. Kuasa tertulis asli juga harus diterima paling lambat pada tanggal dan jam yang sama. Kapasitas ruang rapat fisik dibatasi maksimal 15 orang dengan mekanisme first come first served, sehingga pemegang saham yang tidak tertampung tetap bisa menitipkan haknya lewat kuasa kepada pihak independen tersebut.",
+   "Surat pemanggilan ditandatangani oleh Dahlia Evawani selaku Corporate Secretary Nusantara Infrastructure, yang juga menjadi penerima tembusan bersama notaris Humberg Lie dan jajaran direksi perseroan."
+  ],
+  "fotoAdegan": "Elevated toll road interchange with light traffic flowing under an overcast sky in a Jakarta business district, wide angle",
+  "takeaway": "Laporan ini netral bagi META karena isinya sebatas undangan prosedural RUPSLB, belum ada nama direktur yang akan masuk atau keluar sehingga dampaknya terhadap arah perusahaan belum bisa dinilai. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan susunan kepemimpinan, karena direksi adalah pihak yang menjalankan keputusan operasional dan strategi bisnis sehari-hari, sehingga pasar biasanya mencermati siapa yang masuk atau keluar. Yang perlu dipantau adalah hasil RUPSLB pada 26 November 2026, saat nama-nama direksi baru atau yang dipertahankan baru akan diumumkan secara resmi, serta tenggat pemberian kuasa elektronik pada 25 November 2026 pukul 16.00 WIB bagi pemegang saham yang tidak hadir langsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kgi-hd-sesuaikan-itmghdcz6a-usai-dividen-tunai-itmg",
+  "category": "Aksi Korporasi",
+  "title": "KGI (HD) Sesuaikan [ITMGHDCZ6A] usai Dividen Tunai ITMG",
+  "deck": "KGI Sekuritas menyesuaikan harga pelaksanaan dan rasio waran terstruktur ITMGHDCZ6A menyusul dividen tunai ITMG, efektif 11 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T15:33:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ad7d84fd1c_45fdf6e3b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HD",
+  "tags": [
+   "HD",
+   "ITMG",
+   "waran terstruktur",
+   "KGI Sekuritas"
+  ],
+  "body": [
+   "PT KGI Sekuritas Indonesia, selaku penerbit waran terstruktur berkode HD, menyampaikan keterbukaan informasi soal penyesuaian waran terstruktur ITMGHDCZ6A yang mengacu pada saham ITMG. Dokumen yang ditandatangani Jabintang Borneo Senja, Head of Compliance KGI Sekuritas, pada 4 November 2026 pukul 15.33 WIB ini menjelaskan bahwa penyesuaian dipicu oleh aksi korporasi dividen tunai yang dibagikan ITMG, dengan rate yang tercatat dalam dokumen sebesar Rp1.040.",
+   "Sebelum penyesuaian, harga pelaksanaan ITMGHDCZ6A ditetapkan Rp31.433 dengan rasio pelaksanaan 44,21992 waran terstruktur berbanding 1 saham ITMG. Informasi harga dan rasio baru itu sendiri sudah diumumkan sejak 3 November 2026, namun angka pastinya belum final. KGI menyebut harga pelaksanaan dan rasio setelah penyesuaian baru akan diumumkan setelah penutupan pasar pada cum date 10 November 2026, dengan tanggal efektif penyesuaian jatuh pada 11 November 2026.",
+   "Dalam lampiran rumus penyesuaian, KGI mencantumkan sejumlah variabel acuan seperti harga penutupan ITMG pada cum date, pengali penyesuaian, dan penyesuaian harga pasar, yang semuanya akan dipakai untuk menghitung harga dan rasio final begitu data cum date tersedia. Sampai dokumen ini terbit, kolom harga pelaksanaan dan rasio pelaksanaan setelah penyesuaian masih kosong karena memang menunggu harga penutupan ITMG pada 10 November 2026."
+  ],
+  "fotoAdegan": "Coal loader pouring coal onto a large stockpile at a mining port, dust in the air, overcast sky, barges waiting offshore",
+  "takeaway": "Penilaian redaksi netral, karena yang disesuaikan adalah instrumen derivatif pihak ketiga, bukan aksi korporasi ITMG sendiri atau perubahan posisi keuangannya. Waran terstruktur adalah produk yang diterbitkan sekuritas, dalam hal ini KGI, bukan efek yang diterbitkan ITMG, sehingga penyesuaian harga dan rasio pelaksanaannya hanya menjaga nilai ekonomis pemegang waran agar tidak dirugikan setelah ITMG membagikan dividen tunai, tanpa menyentuh ekuitas, arus kas, jumlah saham beredar, atau laba per saham ITMG. Yang perlu dipantau adalah penutupan pasar pada cum date 10 November 2026, saat KGI akan mengumumkan angka final harga pelaksanaan dan rasio baru, sebelum penyesuaian itu berlaku efektif pada 11 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "iiff-tawarkan-obligasi-rp1-7-triliun-bunga-7-2-7-6-persen",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Tawarkan [Obligasi] Rp1,7 Triliun, Bunga 7,2-7,6 Persen",
+  "deck": "IIFF merilis Obligasi Berkelanjutan III Tahap II senilai Rp1,7 triliun dalam tiga seri, ditawarkan 4-5 November dan tercatat di BEI pada 11 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T15:20:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f177628a8_061eddb6bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IIFF",
+  "tags": [
+   "IIFF",
+   "obligasi",
+   "pasar modal",
+   "infrastruktur"
+  ],
+  "body": [
+   "PT Indonesia Infrastructure Finance (IIFF) menyampaikan perbaikan dan/atau penambahan informasi atas Informasi Tambahan Ringkas terkait Obligasi Berkelanjutan III Tahap II Tahun 2026. Surat ini ditandatangani Eri Wibowo, Direktur Keuangan dan Direktur Investasi Sementara, dan disampaikan oleh Milla Klarissa, Corporate Secretary and General Counsel. Obligasi tahap II ini bernilai pokok Rp1,7 triliun, bagian dari program Penawaran Umum Berkelanjutan III dengan target total Rp6 triliun, setelah pada tahap pertama perseroan sudah menerbitkan Rp432,585 miliar.",
+   "Obligasi tahap II terbagi tiga seri. Seri A senilai Rp1,180965 triliun berbunga tetap 7,20 persen per tahun dengan jangka waktu 370 hari kalender. Seri B senilai Rp157,105 miliar berbunga 7,40 persen untuk tenor tiga tahun. Seri C senilai Rp361,93 miliar berbunga 7,60 persen untuk tenor lima tahun. Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 10 Februari 2027 dan pelunasan pokok masing-masing seri pada 20 November 2027 (Seri A), 10 November 2029 (Seri B), dan 10 November 2031 (Seri C). PT Fitch Ratings Indonesia memberi peringkat AAA(idn) untuk obligasi ini, dengan PT Bank CIMB Niaga Tbk sebagai wali amanat dan delapan sekuritas sebagai penjamin pelaksana emisi, termasuk BNI Sekuritas dan Mandiri Sekuritas yang berstatus terafiliasi dengan perseroan.",
+   "Jadwal penawaran mencatat masa penawaran umum berlangsung 4-5 November 2026, penjatahan pada 6 November, distribusi obligasi secara elektronik atau tanggal emisi pada 10 November, dan pencatatan di Bursa Efek Indonesia pada 11 November 2026. Obligasi ini tidak dijamin dengan jaminan khusus, melainkan dengan seluruh harta kekayaan perseroan, dengan hak pemegang obligasi bersifat pari passu tanpa hak preferen terhadap kreditur lain. Perseroan juga terikat menjaga current ratio minimal 100 persen dan gearing ratio maksimal 10 kali selama obligasi belum lunas, serta tidak menyisihkan dana pelunasan khusus (sinking fund) agar dana hasil penawaran bisa dipakai optimal sesuai rencana penggunaannya."
+  ],
+  "fotoAdegan": "Elevated toll road under construction with cranes and workers in safety vests, late afternoon light, Indonesia",
+  "takeaway": "Penerbitan obligasi ini tergolong netral bagi kondisi keuangan IIFF, karena ini adalah aktivitas pendanaan rutin bagi perusahaan pembiayaan infrastruktur yang memang mengandalkan dana obligasi untuk disalurkan sebagai pembiayaan, bukan tanda adanya tekanan keuangan. Pos yang tersentuh adalah total utang dan beban bunga perseroan, karena tambahan pokok Rp1,7 triliun ini menambah kewajiban bunga yang harus dibayar setiap tiga bulan, sehingga pelaku pasar biasanya mengecek apakah rasio utang terhadap modal (gearing ratio) perseroan tetap di bawah batas 10 kali yang disyaratkan dalam perjanjian dengan wali amanat. Peringkat AAA dari Fitch menunjukkan risiko gagal bayar perseroan dinilai sangat rendah, yang biasanya memudahkan perseroan mendapat bunga pinjaman yang relatif murah. Yang perlu dipantau berikutnya adalah tanggal distribusi obligasi pada 10 November 2026 dan pencatatan resminya di Bursa Efek Indonesia pada 11 November 2026, karena di titik itulah dana Rp1,7 triliun benar-benar cair ke kas perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "enrg-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Tegaskan Tak Ada Info [Material] di Balik Volatilitas Saham",
+  "deck": "Merespons permintaan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, Energi Mega Persada menyatakan tidak ada info material tersembunyi atau rencana aksi korporasi dalam waktu dekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T15:18:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e126e2f00b_3b5fd654d8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "Energi Mega Persada",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Energi Mega Persada Tbk (ENRG) menjawab surat Bursa Efek Indonesia nomor S-13696/BEI.PP1/11-2026 tanggal 2 November 2026 yang meminta penjelasan atas volatilitas transaksi efek perusahaan. Tanggapan resmi bernomor 374/EMP.DIR/1070/11-26/E itu disampaikan pada 4 November 2026, ditandatangani oleh Wakil Direktur Utama Edoardus Ardianto dan Direktur Riri Hosniari Harahap yang juga menjabat Corporate Secretary.",
+   "Dalam suratnya, direksi ENRG menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa mempengaruhi nilai saham maupun keputusan investasi pemodal sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E, kecuali yang sudah pernah diumumkan sebelumnya. Perusahaan juga menegaskan tidak mengetahui aktivitas pemegang saham tertentu yang dapat mempengaruhi nilai sahamnya, dan belum memiliki rencana aksi korporasi dalam tiga bulan mendatang yang berdampak pada status pencatatan sahamnya di bursa.",
+   "Soal rencana pemegang saham utama, ENRG menyampaikan bahwa berdasarkan informasi yang diterima dari PT Shima Global Kapital dan PT Bakrie Kalila Investment, kedua pemegang saham tersebut saat ini tidak memiliki rencana terkait kepemilikan sahamnya di perusahaan. ENRG menambahkan bahwa pihaknya akan segera menyampaikan ke bursa apabila di kemudian hari muncul informasi atau fakta material baru yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Wide shot of an oil and gas storage facility with pipelines and steel tanks under a hazy tropical sky, no people close to camera",
+  "takeaway": "Isi surat ini netral bagi fundamental ENRG, karena intinya hanya membantah adanya informasi tersembunyi dan tidak mengubah apa pun dari sisi bisnis atau keuangan perusahaan saat ini. Permintaan penjelasan dari bursa semacam ini dipicu oleh pergerakan harga atau volume transaksi saham yang dianggap tidak biasa, bukan oleh aksi korporasi, sehingga tidak menyentuh pos-pos kinerja seperti ekuitas, arus kas, atau laba per saham, yang baru akan terdampak kalau nanti memang ada aksi korporasi seperti penerbitan saham baru atau pinjaman besar. Yang perlu dipantau adalah apakah dalam tiga bulan ke depan, yakni hingga awal Februari 2027, ENRG benar-benar tidak mengumumkan aksi korporasi seperti disebutkan dalam suratnya, serta apakah pemegang saham utama PT Shima Global Kapital dan PT Bakrie Kalila Investment konsisten dengan pernyataan tidak berencana mengubah kepemilikannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "unvr-laba-bersih-naik-26-jadi-rp4-2-triliun-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "UNVR: Laba Bersih [Naik] 26% jadi Rp4,2 Triliun Kuartal III",
+  "deck": "Laba bersih Unilever Indonesia naik 26 persen jadi Rp4,2 triliun di kuartal III 2026, didorong penjualan tumbuh dan untung penjualan unit usaha yang dihentikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T15:13:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104152117-65732-0/FinancialStatement-2026-III-UNVR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNVR",
+  "tags": [
+   "UNVR",
+   "Unilever Indonesia",
+   "laporan keuangan",
+   "dividen"
+  ],
+  "body": [
+   "PT Unilever Indonesia Tbk (UNVR) menyampaikan laporan keuangan interim kuartal ketiga 2026 yang telah diaudit, sebagai koreksi atas laporan sebelumnya, pada 4 November 2026. Untuk periode sembilan bulan yang berakhir 30 September 2026, penjualan bersih dari operasi yang masih berjalan tercatat Rp25,75 triliun, naik dari Rp24,03 triliun pada periode yang sama tahun lalu. Laba usaha naik menjadi Rp4,09 triliun dari Rp4 triliun, sementara laba dari operasi yang dilanjutkan setelah pajak mencapai Rp3,31 triliun, naik 10,6 persen dari Rp3 triliun. Ditambah kontribusi dari operasi yang dihentikan, termasuk keuntungan penjualan unit usaha sebesar Rp870,27 miliar, laba bersih periode berjalan mencapai Rp4,2 triliun, naik 26 persen dari Rp3,34 triliun tahun sebelumnya. Laba per saham dasar naik dari Rp88 menjadi Rp110.",
+   "Dalam laporan arus kas, Unilever mencatat penerimaan kas Rp1,5 triliun dari penjualan operasi yang dihentikan, setelah membayar pajak terkait transaksi itu sebesar Rp935 miliar. Perusahaan juga membayar dividen tunai Rp4,33 triliun kepada pemegang saham, jauh lebih besar dari Rp1,79 triliun pada periode yang sama tahun lalu. Akibatnya, kas dan setara kas perusahaan turun dari Rp5,71 triliun pada akhir 2025 menjadi Rp2,03 triliun pada akhir September 2026, meski sebagian dana juga ditempatkan di deposito berjangka pendek senilai Rp875 miliar. Ekuitas perusahaan ikut turun dari Rp4,48 triliun menjadi Rp4,21 triliun karena dividen yang dibagikan melebihi laba komprehensif periode tersebut.",
+   "Laporan ini diaudit oleh KAP Siddharta Widjaja & Rekan dengan partner penandatangan Kartika Singodimejo, yang memberikan opini wajar tanpa modifikasian pada 3 November 2026. Auditor mengidentifikasi lima hal audit utama dalam pemeriksaan laporan ini, meski rinciannya tidak dijelaskan dalam ikhtisar yang disampaikan ke Bursa Efek Indonesia. Rasio lancar, yaitu perbandingan antara aset yang mudah dicairkan dengan utang jangka pendek, tercatat 68 persen, turun dari 74 persen pada akhir 2025."
+  ],
+  "fotoAdegan": "Workers moving stacked boxes of consumer goods on pallets inside a brightly lit Indonesian distribution warehouse",
+  "takeaway": "Laporan ini condong positif bagi kinerja Unilever Indonesia, karena laba bersih kuartal ketiga naik 26 persen menjadi Rp4,2 triliun dan laba dari operasi yang masih berjalan pun naik 10,6 persen, jadi bukan cuma didongkrak untung sekali dari penjualan unit usaha. Yang perlu diperhatikan adalah ekuitas, yaitu total kekayaan bersih pemegang saham di perusahaan, yang turun dari Rp4,48 triliun menjadi Rp4,21 triliun bukan karena rugi, melainkan karena perusahaan membagikan dividen tunai Rp4,33 triliun, jauh lebih besar dari dividen tahun lalu yang Rp1,79 triliun. Kas perusahaan ikut menyusut tajam dari Rp5,71 triliun menjadi Rp2,03 triliun akibat pembayaran dividen itu serta belanja modal yang naik lebih dari dua kali lipat, sehingga rasio lancar, atau perbandingan aset yang mudah dicairkan dengan utang jangka pendek, turun dari 74 persen menjadi 68 persen. Yang perlu dipantau berikutnya adalah apakah arus kas operasi pada kuartal mendatang bisa mengisi kembali kas yang terpakai untuk dividen tersebut, sementara Unilever juga sedang menjalankan agenda RUPSLB untuk menarik saham treasuri yang diumumkan pada hari yang sama dengan laporan ini.",
+  "sentimen": "positif"
  },
  {
   "slug": "msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham",

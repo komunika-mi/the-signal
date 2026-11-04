@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pyfa-terbitkan-obligasi-rp650-miliar-di-tengah-rugi-besar",
+  "category": "Aksi Korporasi",
+  "title": "PYFA Terbitkan [Obligasi] Rp650 Miliar di Tengah Rugi Besar",
+  "deck": "PYFA melanjutkan program obligasi Rp1,5 triliun lewat tahap II senilai hingga Rp650 miliar berbunga 10-10,5 persen per tahun, menambah utang saat perusahaan baru melaporkan rugi besar.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PYFA",
+   "obligasi korporasi",
+   "pasar modal",
+   "utang korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ced0d1a968_22c6011ff4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pakar-ri-perlu-perkuat-cadangan-energi-ala-jepang",
   "category": "Energi",
   "title": "Pakar: RI Perlu Perkuat [Cadangan] Energi ala Jepang",
@@ -746,6 +762,102 @@ var ARTICLES = [
    "dividen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104152117-65732-0/FinancialStatement-2026-III-UNVR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dsfi-laba-bersih-naik-51-ke-rp20-miliar-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "DSFI: [Laba] Bersih Naik 51% ke Rp20 Miliar per September 2026",
+  "deck": "Laba bersih DSFI naik 51 persen menjadi Rp20,04 miliar pada sembilan bulan pertama 2026, didorong kenaikan penjualan, meski utang bank jangka pendek juga melonjak.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DSFI",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "industri perikanan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104144928-65734-0/FinancialStatement-2026-III-DSFI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtps-nihil-pendapatan-rugi-melebar-ke-rp6-77-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MTPS Nihil Pendapatan, [Rugi] Melebar ke Rp6,77 Miliar",
+  "deck": "Emiten konstruksi berstatus pemantauan khusus ini tak mencatat pendapatan selama sembilan bulan berturut-turut, sementara kerugian membesar dan ekuitas terus menyusut.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTPS",
+   "laporan keuangan interim",
+   "konstruksi",
+   "pemantauan khusus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104144918-65701-0/FinancialStatement-2026-III-MTPS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oasa-rombak-rencana-pakai-dana-rights-issue-rp469-5-miliar",
+  "category": "Aksi Korporasi",
+  "title": "OASA [Rombak] Rencana Pakai Dana Rights Issue Rp469,5 Miliar",
+  "deck": "RUPSLB 11 Desember 2026 akan memutuskan realokasi dana rights issue OASA senilai sekitar Rp469,5 miliar dari proyek IKN dan PSEL Semarang menjadi modal kerja grup.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OASA",
+   "RUPSLB",
+   "rights issue",
+   "Maharaksa Biru Energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0c960d91b3_d382f81c71.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bq-sesuaikan-rasio-waran-terstruktur-medcbqcz6a-usai-dividen-medc",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan Rasio [Waran Terstruktur] MEDCBQCZ6A Usai Dividen MEDC",
+  "deck": "Penerbit waran terstruktur MEDCBQCZ6A menyesuaikan rasio dan harga pelaksanaan setelah MEDC membagikan dividen tunai US$30 juta, dengan pembayaran dijadwalkan 2 Desember 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BQ",
+   "MEDC",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cf464eef1f_933a7bacaa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bq-sesuaikan-waran-tapgbqcz6a-usai-dividen-tapg",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan [Waran] TAPGBQCZ6A Usai Dividen TAPG",
+  "deck": "Korea Investment Sekuritas Indonesia (BQ) menyesuaikan rasio dan harga pelaksanaan waran terstruktur TAPGBQCZ6A menyusul dividen tunai Rp70 per saham TAPG yang efektif 11 November 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BQ",
+   "TAPG",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/62340a6bd8_898774b88a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "skbm-laba-bersih-melonjak-120-ke-rp120-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SKBM: Laba Bersih [Melonjak] 120% ke Rp120,2 Miliar",
+  "deck": "Penjualan Sekar Bumi (SKBM) naik 29,7 persen dan laba bersih melonjak 120,8 persen pada sembilan bulan pertama 2026, didukung arus kas operasi yang berbalik positif.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SKBM",
+   "Sekar Bumi",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104140415-65731-0/FinancialStatement-2026-III-SKBM.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6358,117 +6470,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030155228-65589-0/FinancialStatement-2026-III-DEWI.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "klbf-laba-9-bulan-naik-jadi-rp2-84-triliun",
-  "category": "Aksi Korporasi",
-  "title": "KLBF: [Laba] 9 Bulan Naik Jadi Rp2,84 Triliun",
-  "deck": "Penjualan Kalbe Farma naik ke Rp28,97 triliun dan laba bersih ke Rp2,74 triliun dalam sembilan bulan 2026, arus kas operasi ikut menguat.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KLBF",
-   "laporan keuangan",
-   "farmasi",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160050-65581-0/FinancialStatement-2026-III-KLBF.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wmuu-rugi-berkurang-jadi-rp17-08-miliar-usai-restrukturisasi-pkpu",
-  "category": "Aksi Korporasi",
-  "title": "WMUU Rugi Berkurang Jadi Rp17,08 Miliar usai Restrukturisasi [PKPU]",
-  "deck": "Liabilitas WMUU turun 20,24 persen jadi Rp1,24 triliun lewat restrukturisasi utang PKPU, sementara rugi bersih sembilan bulan menyusut ke Rp17,08 miliar dari Rp69,57 miliar sebelumnya.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WMUU",
-   "PKPU",
-   "restrukturisasi utang",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160025-65268-0/FinancialStatement-2026-III-WMUU.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "yelo-catat-rugi-rp643-juta-di-kuartal-iii-pendapatan-turun-41",
-  "category": "Aksi Korporasi",
-  "title": "YELO Catat [Rugi] Rp643 Juta di Kuartal III, Pendapatan Turun 41%",
-  "deck": "Laporan keuangan interim sembilan bulan 2026 menunjukkan pendapatan YELO turun 41 persen jadi Rp31,7 miliar, sementara rugi bersih melebar tiga kali lipat menjadi Rp643,2 juta.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YELO",
-   "laporan keuangan",
-   "rugi bersih",
-   "pendapatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030155445-64801-0/FinancialStatement-2026-III-YELO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "data-catat-laba-bersih-naik-42-ekspansi-didanai-utang",
-  "category": "Aksi Korporasi",
-  "title": "DATA Catat Laba Bersih Naik 42%, Ekspansi Didanai [Utang]",
-  "deck": "Laba bersih PT Remala Abadi Tbk (DATA) naik 41,7 persen pada sembilan bulan pertama 2026, namun ekspansi jaringan fiber optik banyak dibiayai utang bank baru.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DATA",
-   "Remala Abadi",
-   "laporan keuangan",
-   "telekomunikasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160020-65506-0/FinancialStatement-2026-III-DATA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kija-laba-turun-78-obligasi-rp3-1-triliun-dilunasi",
-  "category": "Aksi Korporasi",
-  "title": "KIJA: Laba Turun 78%, [Obligasi] Rp3,1 Triliun Dilunasi",
-  "deck": "Laba bersih KIJA kuartal III 2026 turun 78 persen jadi Rp60,45 miliar meski pendapatan naik, obligasi Rp3,1 triliun dilunasi dan diganti pinjaman bank.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KIJA",
-   "laporan keuangan",
-   "properti",
-   "kawasan industri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030155735-64852-0/FinancialStatement-2026-III-KIJA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kios-catat-kas-menipis-jadi-rp81-juta-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "KIOS Catat Kas [Menipis] jadi Rp81 Juta di Kuartal III 2026",
-  "deck": "Pendapatan Kioson Komersial susut lebih dari separuh dalam sembilan bulan 2026, sementara kas perusahaan tergerus hingga tersisa Rp81,1 juta.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KIOS",
-   "Kioson Komersial",
-   "laporan keuangan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030154219-64736-0/FinancialStatement-2026-III-KIOS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penyaluran-kredit-program-tembus-rp294-6-triliun",
-  "category": "UMKM",
-  "title": "Penyaluran Kredit Program Tembus [Rp294,6] Triliun",
-  "deck": "Hingga akhir Oktober 2026, penyaluran kredit program pemerintah mencapai Rp294,6 triliun kepada 4,24 juta debitur, melampaui total penyaluran sepanjang 2025 dengan sisa dua bulan.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/batik-umkm.jpg",
-  "tags": [
-   "KUR",
-   "Kredit Program",
-   "UMKM",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7191/kredit-program-tembus-rp2946-triliun-menko-airlangga-keberhasilan-terlihat-dari-usaha-yang-tumbuh-dan-keluarga-yang-sejahtera",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

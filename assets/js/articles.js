@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pyfa-terbitkan-obligasi-rp650-miliar-di-tengah-rugi-besar",
+  "category": "Aksi Korporasi",
+  "title": "PYFA Terbitkan [Obligasi] Rp650 Miliar di Tengah Rugi Besar",
+  "deck": "PYFA melanjutkan program obligasi Rp1,5 triliun lewat tahap II senilai hingga Rp650 miliar berbunga 10-10,5 persen per tahun, menambah utang saat perusahaan baru melaporkan rugi besar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T23:47:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ced0d1a968_22c6011ff4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PYFA",
+  "tags": [
+   "PYFA",
+   "obligasi korporasi",
+   "pasar modal",
+   "utang korporasi"
+  ],
+  "body": [
+   "PT Pyridam Farma Tbk (PYFA) menyampaikan Informasi Tambahan Ringkas atas Obligasi Berkelanjutan II Pyridam Farma Tahap II Tahun 2026. Penerbitan ini merupakan lanjutan dari program obligasi berkelanjutan senilai total Rp1,5 triliun, setelah Tahap I sebesar Rp420 miliar diterbitkan pada 2025. Pada tahap kedua ini, PYFA akan menawarkan obligasi dengan jumlah pokok sebanyak-banyaknya Rp650 miliar.",
+   "Dari jumlah tersebut, Rp518 miliar dijamin dengan skema kesanggupan penuh, terbagi dalam dua seri. Seri A senilai Rp418 miliar berbunga tetap 10,00 persen per tahun dengan tenor tiga tahun, jatuh tempo 1 Desember 2029. Seri B senilai Rp100 miliar berbunga tetap 10,50 persen per tahun dengan tenor lima tahun, jatuh tempo 1 Desember 2031. Sisa Rp132 miliar dijamin dengan skema kesanggupan terbaik, artinya jika porsi ini tidak terjual seluruhnya, PYFA tidak wajib menerbitkannya. Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 1 Maret 2027, dan pelunasan pokok dilakukan sekaligus di akhir tenor masing-masing seri (bullet payment).",
+   "Obligasi ini tidak dijamin dengan aset tertentu, melainkan dengan seluruh harta kekayaan perusahaan sesuai ketentuan umum hukum perdata, dengan kedudukan setara kreditur lain tanpa hak didahulukan. PT Kredit Rating Indonesia memberi peringkat irA- (Single A Minus) untuk obligasi ini. Penjamin pelaksana emisi adalah PT Aldiracita Sekuritas Indonesia dan PT Sinarmas Sekuritas, dengan PT Bank KB Indonesia Tbk sebagai wali amanat. Masa penawaran umum dijadwalkan 23 hingga 26 November 2026, tanggal penjatahan 27 November 2026, tanggal emisi dan distribusi elektronik 1 Desember 2026, serta pencatatan di Bursa Efek Indonesia pada 2 Desember 2026."
+  ],
+  "fotoAdegan": "Pharmaceutical factory workers in blue uniforms inspecting rows of medicine vials on a production line, bright industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi PYFA karena diterbitkan tak lama setelah perusahaan melaporkan rugi Rp338,7 miliar dengan kenaikan kas yang ternyata berasal dari utang baru, bukan dari operasional, sehingga obligasi hingga Rp650 miliar ini menambah beban utang di saat kinerja operasional belum pulih. Pos yang tersentuh adalah beban bunga dan total utang perusahaan, sebab bunga tetap 10 persen untuk seri bertenor tiga tahun dan 10,5 persen untuk seri bertenor lima tahun berarti PYFA wajib membayar bunga setiap tiga bulan selama bertahun tahun, menjadi beban tetap yang harus ditanggung dari pendapatan perusahaan apa pun kondisi labanya. Yang perlu dipantau berikutnya adalah masa penawaran pada 23 sampai 26 November 2026, tanggal penjatahan pada 27 November 2026, dan tanggal pencatatan di bursa pada 2 Desember 2026, termasuk apakah porsi Rp132 miliar yang hanya dijamin dengan skema upaya terbaik benar benar terjual penuh atau justru membuat dana yang terhimpun lebih kecil dari target.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pakar-ri-perlu-perkuat-cadangan-energi-ala-jepang",
   "category": "Energi",
   "title": "Pakar: RI Perlu Perkuat [Cadangan] Energi ala Jepang",
@@ -1213,6 +1239,164 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers moving stacked boxes of consumer goods on pallets inside a brightly lit Indonesian distribution warehouse",
   "takeaway": "Laporan ini condong positif bagi kinerja Unilever Indonesia, karena laba bersih kuartal ketiga naik 26 persen menjadi Rp4,2 triliun dan laba dari operasi yang masih berjalan pun naik 10,6 persen, jadi bukan cuma didongkrak untung sekali dari penjualan unit usaha. Yang perlu diperhatikan adalah ekuitas, yaitu total kekayaan bersih pemegang saham di perusahaan, yang turun dari Rp4,48 triliun menjadi Rp4,21 triliun bukan karena rugi, melainkan karena perusahaan membagikan dividen tunai Rp4,33 triliun, jauh lebih besar dari dividen tahun lalu yang Rp1,79 triliun. Kas perusahaan ikut menyusut tajam dari Rp5,71 triliun menjadi Rp2,03 triliun akibat pembayaran dividen itu serta belanja modal yang naik lebih dari dua kali lipat, sehingga rasio lancar, atau perbandingan aset yang mudah dicairkan dengan utang jangka pendek, turun dari 74 persen menjadi 68 persen. Yang perlu dipantau berikutnya adalah apakah arus kas operasi pada kuartal mendatang bisa mengisi kembali kas yang terpakai untuk dividen tersebut, sementara Unilever juga sedang menjalankan agenda RUPSLB untuk menarik saham treasuri yang diumumkan pada hari yang sama dengan laporan ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "dsfi-laba-bersih-naik-51-ke-rp20-miliar-per-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "DSFI: [Laba] Bersih Naik 51% ke Rp20 Miliar per September 2026",
+  "deck": "Laba bersih DSFI naik 51 persen menjadi Rp20,04 miliar pada sembilan bulan pertama 2026, didorong kenaikan penjualan, meski utang bank jangka pendek juga melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T14:41:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104144928-65734-0/FinancialStatement-2026-III-DSFI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DSFI",
+  "tags": [
+   "DSFI",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "industri perikanan"
+  ],
+  "body": [
+   "PT Dharma Samudera Fishing Industries Tbk (DSFI) menyampaikan koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, yang tidak diaudit. Surat pernyataan direksi atas laporan ini ditandatangani pada 30 Oktober 2026 oleh Direktur Utama Ewijaya dan Direktur Cynthia Handyoko. Bersamaan dengan laporan ini, perusahaan juga mengirim surat penjelasan kepada Bursa Efek Indonesia karena total aset dan total liabilitasnya berubah lebih dari 20 persen dibandingkan akhir tahun 2025, sebagaimana diwajibkan Peraturan BEI Nomor I-E.",
+   "Total aset DSFI tercatat Rp527,58 miliar per 30 September 2026, naik Rp87,43 miliar atau 20 persen dari Rp440,15 miliar pada akhir 2025. Kenaikan ini terutama berasal dari kas dan setara kas yang melonjak ke Rp102,98 miliar dari Rp31,66 miliar, serta piutang usaha pihak ketiga yang naik ke Rp142,45 miliar dari Rp91,23 miliar seiring pertumbuhan penjualan. Di sisi liabilitas, total utang perusahaan naik Rp67,39 miliar atau 44 persen menjadi Rp221,01 miliar, didominasi kenaikan utang bank jangka pendek untuk modal kerja dari Rp81,89 miliar menjadi Rp123,32 miliar, serta utang usaha pihak ketiga yang naik dari Rp36,93 miliar menjadi Rp61,43 miliar.",
+   "Dari sisi laba rugi, penjualan DSFI pada sembilan bulan pertama 2026 mencapai Rp572,68 miliar, naik dari Rp489,08 miliar pada periode yang sama tahun 2025. Laba kotor naik menjadi Rp94,20 miliar dari Rp72,51 miliar, laba usaha menjadi Rp29,44 miliar dari Rp20,72 miliar, dan laba bersih periode berjalan menjadi Rp20,04 miliar dari Rp13,25 miliar, naik 51 persen. Laba per saham dasar naik dari Rp7,13 menjadi Rp10,79. Saldo laba ditahan yang sebelumnya defisit Rp17,83 miliar per akhir 2025 kini berbalik menjadi positif Rp2,21 miliar, sehingga jumlah ekuitas perusahaan naik menjadi Rp306,58 miliar dari Rp286,53 miliar.",
+   "Dalam surat penjelasannya ke BEI, manajemen menyebut kenaikan liabilitas terjadi dalam kegiatan usaha normal, akibat perbedaan waktu antara penerimaan dari pelanggan dan pembayaran fasilitas pinjaman bank yang menyebabkan akumulasi saldo kas. Berdasarkan kinerja sembilan bulan ini, manajemen menyatakan mengantisipasi pertumbuhan kinerja keuangan yang positif untuk tahun buku 2026 dibandingkan 2025."
+  ],
+  "fotoAdegan": "Fishing boats docked at a bustling Jakarta port, workers unloading crates of fresh fish under early morning light.",
+  "takeaway": "Laporan ini condong positif bagi DSFI, karena laba bersih melonjak 51 persen dan penjualan tumbuh dua digit, jauh melampaui kenaikan utang bank jangka pendek yang membiayai modal kerja. Pos yang tersentuh di sini adalah ekuitas atau kekayaan bersih perusahaan, arus kas, dan laba per saham. Ekuitas naik jadi Rp306,6 miliar karena saldo rugi yang menumpuk sejak tahun-tahun sebelumnya akhirnya berbalik jadi laba ditahan positif, tanda perusahaan sudah menutup kerugian masa lalunya, sementara laba per saham, yaitu bagian laba yang secara teoritis jadi hak tiap lembar saham, naik dari Rp7,13 jadi Rp10,79. Yang perlu dipantau berikutnya adalah apakah kenaikan pinjaman bank jangka pendek ini akan terus membesar pada kuartal keempat, dan apakah proyeksi manajemen soal pertumbuhan kinerja positif sepanjang 2026 terbukti saat laporan tahunan auditan terbit awal 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mtps-nihil-pendapatan-rugi-melebar-ke-rp6-77-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MTPS Nihil Pendapatan, [Rugi] Melebar ke Rp6,77 Miliar",
+  "deck": "Emiten konstruksi berstatus pemantauan khusus ini tak mencatat pendapatan selama sembilan bulan berturut-turut, sementara kerugian membesar dan ekuitas terus menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T14:40:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104144918-65701-0/FinancialStatement-2026-III-MTPS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTPS",
+  "tags": [
+   "MTPS",
+   "laporan keuangan interim",
+   "konstruksi",
+   "pemantauan khusus"
+  ],
+  "body": [
+   "PT Meta Epsi Tbk (MTPS) menyampaikan laporan keuangan interim (koreksi) untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit. Perusahaan konstruksi dan EPC ini tidak mencatat pendapatan bersih sama sekali, sama seperti periode yang sama tahun lalu. Rugi usaha melebar menjadi Rp6,73 miliar dari Rp6,07 miliar, dan rugi bersih tahun berjalan membesar menjadi Rp6,77 miliar dari Rp4,53 miliar pada periode yang sama tahun sebelumnya. Rugi per saham naik menjadi Rp3,25 dari Rp2,17.",
+   "Total aset MTPS naik menjadi Rp79,66 miliar dari Rp72,21 miliar, tetapi kenaikan itu dibayangi oleh melonjaknya total liabilitas menjadi Rp45,32 miliar dari Rp31,10 miliar, naik Rp14,22 miliar atau 45,7 persen. Karena kenaikan ini melewati 20 persen, sesuai aturan Bursa Efek Indonesia, direksi perseroan mengirim surat penjelasan resmi tertanggal 28 Oktober 2026. Perseroan menyebut penyebab utamanya adalah pendapatan diterima dimuka senilai Rp12,5 miliar yang terkait perjanjian pendahuluan jual beli tanah, bangunan, dan perlengkapannya antara MTPS dan PT Ketrosden Tiasmitra Tbk tertanggal 13 Februari 2026, yang kemudian diamendemen pada 15 April 2026 dan 30 April 2026. Selain itu, pinjaman bank jangka panjang senilai Rp30,64 miliar kini direklasifikasi menjadi utang yang harus dibayar dalam satu tahun, naik tajam dari Rp15,32 miliar pada akhir 2025.",
+   "Di sisi modal, ekuitas MTPS justru turun menjadi Rp34,34 miliar dari Rp41,11 miliar karena akumulasi kerugian yang terus bertambah. Jumlah karyawan tetap perseroan juga berkurang menjadi 6 orang dari 7 orang. Manajemen menyebut dampak transaksi jual beli tanah ini bersifat transisional namun positif dan disebut memperkuat struktur modal, meski data pada periode yang sama menunjukkan ekuitas tetap menyusut dibandingkan akhir tahun lalu. Saham MTPS saat ini berada di papan pemantauan khusus Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Deserted construction site with idle cranes and stacked steel beams under a cloudy Jakarta sky, no workers present",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham MTPS, karena perusahaan tidak membukukan pendapatan sama sekali selama sembilan bulan, dua tahun berturut-turut, sementara kerugian justru membesar. Pos yang tersentuh adalah ekuitas, yaitu kekayaan bersih milik pemegang saham setelah dikurangi semua utang, yang turun dari Rp41,1 miliar menjadi Rp34,3 miliar karena kerugian berjalan terus menambah defisit; pelaku pasar memperhatikan angka ini karena ekuitas yang menyusut berarti bantalan perusahaan terhadap utang makin tipis. Reklasifikasi pinjaman bank senilai Rp30,64 miliar menjadi utang jangka pendek juga penting disoroti, sebab artinya tekanan pembayaran utang MTPS akan datang lebih cepat dari sebelumnya. Klaim manajemen bahwa transaksi jual beli tanah dengan PT Ketrosden Tiasmitra ‘memperkuat struktur modal’ perlu dibandingkan dengan kenyataan bahwa ekuitas perusahaan justru turun pada periode yang sama. Yang perlu dipantau berikutnya adalah realisasi penuh transaksi jual beli tanah tersebut serta jatuh tempo pinjaman bank yang kini berstatus jangka pendek, karena keduanya akan menentukan likuiditas MTPS ke depan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "oasa-rombak-rencana-pakai-dana-rights-issue-rp469-5-miliar",
+  "category": "Aksi Korporasi",
+  "title": "OASA [Rombak] Rencana Pakai Dana Rights Issue Rp469,5 Miliar",
+  "deck": "RUPSLB 11 Desember 2026 akan memutuskan realokasi dana rights issue OASA senilai sekitar Rp469,5 miliar dari proyek IKN dan PSEL Semarang menjadi modal kerja grup.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T14:06:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0c960d91b3_d382f81c71.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OASA",
+  "tags": [
+   "OASA",
+   "RUPSLB",
+   "rights issue",
+   "Maharaksa Biru Energi"
+  ],
+  "body": [
+   "PT Maharaksa Biru Energi Tbk (OASA) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 11 Desember 2026, pukul 14.00 hingga 15.00 WIB, secara hybrid di Treasury Tower, District 8 SCBD, Jakarta. Agenda rapat adalah persetujuan perubahan rencana penggunaan dana hasil Penambahan Modal Dengan Hak Memesan Efek Terlebih Dahulu I, sesuai POJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum.",
+   "Ada empat pos dana yang diubah peruntukannya. Dana sekitar Rp69 miliar tetap disalurkan berjenjang lewat PT Indoplas Makmur Lestari ke PT Indoplas Karya Energi sebagai modal kerja persiapan proyek Fasilitas Pengolahan Sampah Antara (FPSA) DKI Jakarta Wilayah Layanan Barat, namun kini ditambah penggunaannya untuk modal kerja operasional Maharaksa Biru Energi dan seluruh anak usahanya. Dana sekitar Rp340,5 miliar yang semula disetor ke PT Telesys Indonesia untuk trading Bio Propylene Glycol, proyek Wood Pellet di Bangka Belitung, serta pengembangan biomassa, biogas, dan pembangkit energi baru terbarukan di berbagai wilayah, kini disederhanakan hanya untuk pembangunan atau pembelian Pembangkit Listrik Tenaga Mesin Gas dan Pembangkit Listrik Tenaga Diesel di Indonesia bagian Barat dan Tengah, ditambah modal kerja grup.",
+   "Dua pos lainnya mengalami perubahan tujuan yang lebih mencolok. Dana sekitar Rp40 miliar yang semula untuk membiayai operasional proyek pengadaan peralatan dan manajemen sistem di Ibu Kota Nusantara (IKN), kini dialihkan untuk modal kerja anak usaha terkait proyek FPSA DKI Jakarta, biaya pembangunan pabrik Wood Chip milik PT Mentari Biru Energi di Bangka Belitung, dan modal kerja grup. Dana sekitar Rp20 miliar yang semula untuk operasional proyek Pengelolaan Sampah menjadi Energi Listrik (PSEL) di Semarang, kini sepenuhnya dialihkan untuk biaya pembangunan pabrik Wood Chip tersebut dan modal kerja grup.",
+   "Perseroan menetapkan Rabu, 18 November 2026 sebagai tanggal pencatatan pemegang saham yang berhak hadir dalam RUPSLB, baik yang tercatat di daftar pemegang saham perusahaan maupun yang memegang saham lewat Kustodian Sentral Efek Indonesia. Undangan resmi rapat akan disebar Kamis, 19 November 2026, dan usulan agenda dari pemegang saham harus diterima perusahaan paling lambat tujuh hari sebelum tanggal undangan tersebut. Pemberian suara jarak jauh dapat dilakukan lewat sistem eASY.KSEI dengan kuasa kepada biro administrasi efek, PT Sinartama Gunita."
+  ],
+  "fotoAdegan": "A front loader stacking wood chips at an open-air biomass processing yard, hazy industrial afternoon light, no readable signage",
+  "takeaway": "Perubahan ini condong negatif bagi pemegang saham, karena total dana sekitar Rp469,5 miliar yang semula dikaitkan dengan proyek-proyek bernama jelas, yaitu proyek pengadaan di IKN dan proyek pengolahan sampah jadi listrik di Semarang, kini dialihkan menjadi modal kerja umum grup dan proyek pembangkit listrik yang berbeda dari rencana awal. Yang tersentuh adalah alokasi modal, yaitu cara perusahaan memutuskan ke mana uang hasil rights issue itu mengalir, dan pelaku pasar biasa mencermatinya karena perubahan dari proyek spesifik ke modal kerja umum membuat lebih sulit menilai apakah proyek IKN dan PSEL Semarang itu masih berjalan atau justru tertunda. Di sisi lain perusahaan tetap menyebutkan rencana konkret baru, yaitu pembangunan pabrik Wood Chip di Bangka Belitung dan pembangkit listrik tenaga gas serta diesel, sehingga dana tidak sepenuhnya kehilangan arah proyek. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPSLB pada 11 Desember 2026, yang menentukan apakah perubahan ini disetujui, dengan catatan hanya pemegang saham yang tercatat per 18 November 2026 yang berhak memberikan suara dan usulan agenda tambahan harus masuk sebelum 12 November 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bq-sesuaikan-rasio-waran-terstruktur-medcbqcz6a-usai-dividen-medc",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan Rasio [Waran Terstruktur] MEDCBQCZ6A Usai Dividen MEDC",
+  "deck": "Penerbit waran terstruktur MEDCBQCZ6A menyesuaikan rasio dan harga pelaksanaan setelah MEDC membagikan dividen tunai US$30 juta, dengan pembayaran dijadwalkan 2 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T14:06:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cf464eef1f_933a7bacaa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "MEDC",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia (BQ) menyampaikan keterbukaan informasi mengenai penyesuaian syarat dan ketentuan waran terstruktur MEDCBQCZ6A. Penyesuaian ini mengacu pada aksi korporasi dividen tunai PT Medco Energi Internasional Tbk (MEDC) yang diumumkan pada 2 November 2026, setelah keputusan Direksi MEDC disetujui Dewan Komisaris pada 29 Oktober 2026. Total nilai dividen yang akan dibagikan MEDC ditetapkan sebesar US$30 juta.",
+   "Jadwal pembagian dividen MEDC yang menjadi dasar penyesuaian ini meliputi tanggal cum dividen di pasar reguler dan negosiasi pada 10 November 2026, tanggal ex dividen di pasar yang sama pada 11 November 2026, cum dividen di pasar tunai pada 12 November 2026, dan ex dividen di pasar tunai pada 13 November 2026. Daftar pemegang saham yang berhak menerima dividen ditetapkan per 12 November 2026, sementara pembayaran dividen dijadwalkan pada 2 Desember 2026.",
+   "Sesuai term sheet dan Bagian 3.9 Prospektus Waran Terstruktur, rasio pelaksanaan dan harga pelaksanaan MEDCBQCZ6A akan dihitung ulang dengan rumus yang melibatkan harga penutupan saham MEDC pada hari bursa terakhir sebelum ex date (P), besaran dividen per saham acuan (D), serta harga dan rasio pelaksanaan yang berlaku sebelumnya (X dan E). BQ selaku penerbit mencantumkan catatan bahwa penyesuaian ini bisa saja tidak dilakukan apabila, berdasarkan kebijakan penerbit, dianggap tidak diperlukan, tanpa ada kewajiban apa pun kepada pemegang waran terstruktur."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting pipelines at an onshore oil and gas facility, hazy afternoon light",
+  "takeaway": "Laporan ini netral bagi BQ karena sifatnya murni mekanis, menyesuaikan angka produk waran yang diterbitkannya akibat aksi dividen emiten lain, MEDC, bukan sinyal apa pun soal kondisi keuangan BQ sendiri. Yang disesuaikan adalah rasio pelaksanaan dan harga pelaksanaan waran MEDCBQCZ6A, yakni angka yang menentukan berapa banyak saham MEDC yang bisa ditukar pemegang waran dan pada harga berapa; penyesuaian ini lazim dilakukan karena pembagian dividen membuat harga saham turun begitu masuk periode tanpa dividen, sehingga nilai waran perlu dikoreksi agar pemegangnya tidak dirugikan. Perlu dicatat, BQ sendiri menyebut penyesuaian bisa saja tidak dilakukan jika menurut kebijakannya dianggap tidak perlu, sehingga hasil akhirnya belum final. Yang perlu dipantau berikutnya adalah tanggal ex dividen MEDC di pasar reguler pada 11 November 2026, karena harga penutupan saham MEDC pada hari bursa terakhir sebelum tanggal itu menjadi dasar rumus penyesuaian, serta tanggal pembayaran dividen pada 2 Desember 2026 sebagai kepastian akhir realisasi dividen US$30 juta tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bq-sesuaikan-waran-tapgbqcz6a-usai-dividen-tapg",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan [Waran] TAPGBQCZ6A Usai Dividen TAPG",
+  "deck": "Korea Investment Sekuritas Indonesia (BQ) menyesuaikan rasio dan harga pelaksanaan waran terstruktur TAPGBQCZ6A menyusul dividen tunai Rp70 per saham TAPG yang efektif 11 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T14:05:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/62340a6bd8_898774b88a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "TAPG",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia (BQ) mengumumkan penyesuaian syarat dan ketentuan waran terstruktur TAPGBQCZ6A, produk yang mengacu pada saham PT Triputra Agro Persada Tbk (TAPG). Penyesuaian ini dilakukan menyusul aksi korporasi dividen tunai TAPG senilai total Rp1.389.677.800.000, atau Rp70 per saham, yang keputusannya diambil Direksi TAPG dan disetujui Dewan Komisaris pada 30 Oktober 2026.",
+   "Jadwal pembagian dividen TAPG yang menjadi dasar penyesuaian ini adalah sebagai berikut: tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 10 November 2026, dengan tanggal ex dividen pada 11 November 2026. Di pasar tunai, cum dividen berlaku 12 November 2026 dan ex dividen 13 November 2026. Pemegang saham TAPG yang berhak menerima dividen ditetapkan berdasarkan Daftar Pemegang Saham per 12 November 2026, sementara dividen baru akan dibayarkan pada 27 November 2026.",
+   "Sesuai Term Sheet dan Bagian 3.9 Prospektus Waran Terstruktur, rasio pelaksanaan dan harga pelaksanaan TAPGBQCZ6A akan dihitung ulang dengan rumus yang mengurangkan nilai dividen per saham dari harga penutupan saham TAPG pada hari bursa terakhir sebelum ex-date, lalu membandingkannya dengan harga penutupan itu sendiri. Dokumen ini juga mencantumkan klausul bahwa PT Korea Investment and Sekuritas Indonesia selaku penerbit waran dapat memutuskan untuk tidak melakukan penyesuaian sama sekali, berdasarkan kebijaksanaannya sendiri dan tanpa kewajiban apa pun kepada pemegang waran."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fresh fruit bunches on a plantation, loading bunches onto a truck, overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi BQ karena sifatnya murni mekanis, yaitu menyesuaikan angka produk waran terstruktur yang diterbitkannya akibat aksi dividen emiten lain, TAPG, bukan cerminan kondisi keuangan BQ sendiri. Yang tersentuh adalah harga pelaksanaan dan rasio pelaksanaan waran, yaitu harga dan jumlah saham acuan yang dipakai saat pemegang waran menukarkan haknya nanti, sehingga pemegang TAPGBQCZ6A perlu tahu angka barunya agar tidak salah hitung potensi keuntungan. Pelaku pasar waran perlu mencermati tanggal ex dividen TAPG pada 11 November 2026 di pasar reguler sebagai pemicu berlakunya penyesuaian, sekaligus mewaspadai klausul bahwa penerbit berhak memutuskan sendiri untuk tidak menyesuaikan sama sekali tanpa kewajiban kepada pemegang waran.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "skbm-laba-bersih-melonjak-120-ke-rp120-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SKBM: Laba Bersih [Melonjak] 120% ke Rp120,2 Miliar",
+  "deck": "Penjualan Sekar Bumi (SKBM) naik 29,7 persen dan laba bersih melonjak 120,8 persen pada sembilan bulan pertama 2026, didukung arus kas operasi yang berbalik positif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T13:47:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104140415-65731-0/FinancialStatement-2026-III-SKBM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SKBM",
+  "tags": [
+   "SKBM",
+   "Sekar Bumi",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "Sekar Bumi Tbk (SKBM) menyampaikan koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, melalui surat bernomor SKB-CRP-100.IM.X.2026. Dalam laporan yang belum diaudit itu, penjualan neto konsolidasian tercatat Rp2,81 triliun, naik 29,7 persen dari Rp2,17 triliun pada periode yang sama tahun lalu. Laba bruto naik lebih cepat, 40,2 persen menjadi Rp732,89 miliar, sementara laba usaha melonjak 86,4 persen menjadi Rp195,21 miliar.",
+   "Laba bersih yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp120,24 miliar, naik 120,8 persen dari Rp54,46 miliar pada sembilan bulan pertama 2025. Kenaikan ini membuat laba per saham naik dari Rp31,48 menjadi Rp69,50. Di sisi aset, jumlah aset perseroan turun 7,7 persen menjadi Rp2,15 triliun dibanding akhir 2025, seiring turunnya persediaan dan piutang usaha, sementara jumlah liabilitas turun 16,7 persen menjadi Rp1,06 triliun, didorong pelunasan sebagian utang bank jangka pendek dan utang usaha.",
+   "Perseroan juga mencatat perubahan struktur kepemilikan anak usaha. Selama sembilan bulan pertama 2026, SKBM mengeluarkan dana Rp51,92 miliar untuk menambah porsi kepemilikannya di anak usaha, sehingga nilai kepentingan non-pengendali, yaitu porsi kepemilikan pihak lain di anak usaha, turun dari Rp58,45 miliar menjadi Rp16,79 miliar. Pemegang saham minoritas anak usaha juga menarik modalnya senilai Rp37,08 miliar pada periode ini. Di sisi arus kas, kegiatan operasi membalik dari defisit Rp66,13 miliar pada sembilan bulan pertama 2025 menjadi surplus Rp126,49 miliar, sehingga kas dan setara kas perseroan pada akhir September 2026 tercatat Rp337,29 miliar."
+  ],
+  "fotoAdegan": "Factory workers in hairnets and gloves packing frozen shrimp into boxes on a conveyor belt, cold storage lighting",
+  "takeaway": "Laporan ini condong positif bagi SKBM karena hampir seluruh lini kinerja membaik serentak, penjualan naik, margin menebal, dan laba bersih lebih dari dua kali lipat, bukan sekadar untung dari pos nonoperasional. Yang perlu dicermati pelaku pasar adalah laba per saham dan arus kas operasi. Laba per saham penting karena menunjukkan porsi keuntungan yang sebenarnya jadi hak setiap lembar saham publik, dan di sini angkanya naik lebih dari dua kali lipat. Arus kas operasi sama pentingnya, sebab ini uang tunai yang benar-benar masuk dari bisnis inti, bukan sekadar laba di atas kertas, dan di SKBM arus kas ini berbalik dari minus jadi plus, sementara kepentingan non-pengendali, yaitu porsi saham anak usaha yang dipegang pihak luar, menyusut karena perseroan membeli balik saham minoritas senilai puluhan miliar rupiah. Karena dokumen ini adalah versi koreksi dari laporan interim yang sebelumnya sudah disampaikan ke bursa, pasar perlu menunggu penjelasan resmi perseroan soal apa yang direvisi, serta memastikan perbaikan arus kas dan margin ini berlanjut di laporan kuartal keempat nanti.",
   "sentimen": "positif"
  },
  {

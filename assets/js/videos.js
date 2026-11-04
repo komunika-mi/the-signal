@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "FN-TTLQAQ4c",
+  "title": "Polemik PPN 11 Persen pada Pembalut Wanita",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Pengenaan Pajak Pertambahan Nilai efektif 11 persen pada pembalut wanita menjadi sorotan karena dianggap membebani kebutuhan biologis esensial perempuan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kebijakan fiskal atas barang kena pajak dan dampaknya pada daya beli masyarakat.",
+  "terbit": "2026-11-04T16:22:40+00:00"
+ },
+ {
+  "id": "XFGTRurXsB0",
+  "title": "Komnas Perempuan Usul Revisi Aturan PPN Pembalut",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Komnas Perempuan mendorong revisi kebijakan PPN atas pembalut wanita yang dinilai memberatkan karena menyasar kebutuhan dasar perempuan.",
+  "takeaway": "Menunjukkan arah wacana kebijakan fiskal yang mulai mempertimbangkan aspek keadilan sosial dalam penetapan tarif pajak.",
+  "terbit": "2026-11-04T15:15:25+00:00"
+ },
+ {
+  "id": "fubdwcxSZmU",
+  "title": "Tanggapan Mahasiswi soal Polemik Pajak Pembalut",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Kalangan mahasiswi menyuarakan keberatan atas PPN efektif 11 persen pada pembalut wanita yang dinilai memberatkan kebutuhan harian.",
+  "takeaway": "Memberi gambaran reaksi publik sebagai konsumen terhadap kebijakan pajak yang berdampak langsung pada pengeluaran rumah tangga.",
+  "terbit": "2026-11-04T15:14:33+00:00"
+ },
+ {
   "id": "1V1MWTXVp8Y",
   "title": "Polemik PPN 11 Persen pada Pembalut Wanita",
   "category": "Makroekonomi",

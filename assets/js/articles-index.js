@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pakar-ri-perlu-perkuat-cadangan-energi-ala-jepang",
+  "category": "Energi",
+  "title": "Pakar: RI Perlu Perkuat [Cadangan] Energi ala Jepang",
+  "deck": "Pakar kebijakan energi Jun Arima menyarankan Indonesia membangun cadangan energi strategis dan menggarap mineral kritis seperti yang dilakukan Jepang sejak 1970-an.",
+  "date": "4 November 2026",
+  "image": "assets/img/pakar-ri-perlu-perkuat-cadangan-energi-ala-jepang.jpg",
+  "imageV": "mw2dxhgj",
+  "tags": [
+   "energi",
+   "cadangan minyak",
+   "Jepang",
+   "mineral kritis"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476671-indonesia-dinilai-perlu-terus-perkuat-ketahanan-energi-belajar-strategi-cadangan-minyak-dari-jepang"
+ },
+ {
   "slug": "ultj-ambil-alih-frisian-flag-kendali-ke-frieslandcampina",
   "category": "Aksi Korporasi",
   "title": "ULTJ Ambil Alih [Frisian Flag], Kendali ke FrieslandCampina",
@@ -51,6 +68,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/56b51c5d6a_923f532942.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bukan-cuma-sertifikat-lppom-dorong-umkm-naik-kelas",
+  "category": "UMKM",
+  "title": "Bukan Cuma Sertifikat, LPPOM Dorong UMKM [Naik Kelas]",
+  "deck": "LPPOM gelar Halal Connect 2026 di Jakarta, kumpulkan sekitar 100 pelaku usaha untuk membangun jejaring bisnis halal, bukan sekadar urus sertifikat.",
+  "date": "4 November 2026",
+  "image": "assets/img/bukan-cuma-sertifikat-lppom-dorong-umkm-naik-kelas.jpg",
+  "imageV": "mw2dxhvp",
+  "tags": [
+   "umkm",
+   "halal",
+   "lppom",
+   "jakarta"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476666-bukan-cuma-label-halal-begini-cara-pelaku-umkm-dapat-naik-kelas"
  },
  {
   "slug": "bold-akui-telat-lapor-kesiapan-dana-obligasi-soroti-likuiditas",
@@ -131,6 +165,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6030cd0056_db96ad1d67.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bri-salurkan-tunjangan-guru-non-asn-rp921-6-miliar",
+  "category": "Perbankan",
+  "title": "BRI Salurkan [Tunjangan] Guru Non-ASN Rp921,6 Miliar",
+  "deck": "BRI menyalurkan Rp921,6 miliar tunjangan profesi guru non-ASN triwulan III 2026 kepada sekitar 507 ribu guru honorer, masing-masing menerima Rp6 juta untuk periode Juli-September.",
+  "date": "4 November 2026",
+  "image": "assets/img/bri-salurkan-tunjangan-guru-non-asn-rp921-6-miliar.jpg",
+  "imageV": "mw2dxidu",
+  "tags": [
+   "BRI",
+   "Tunjangan Guru",
+   "Guru Non-ASN",
+   "Kemendikdasmen"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476661-bri-salurkan-tunjangan-profesi-guru-non-asn-seniliai-rp9216-miliar-kepada-lebih-dari-507-ribu-penerima"
  },
  {
   "slug": "tbi-entikong-didorong-jadi-pintu-ekspor-impor-perbatasan",
@@ -6419,55 +6470,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7191/kredit-program-tembus-rp2946-triliun-menko-airlangga-keberhasilan-terlihat-dari-usaha-yang-tumbuh-dan-keluarga-yang-sejahtera",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kredit-program-pemerintah-capai-rp2-440-triliun-npl-2-13",
-  "category": "UMKM",
-  "title": "Kredit Program Pemerintah Capai Rp2.440 Triliun, NPL [2,13%]",
-  "deck": "Penyaluran kredit program pemerintah sejak 2015 kumulatif capai Rp2.440 triliun lewat 58,1 juta akad, dengan NPL tetap rendah di 2,13 persen per akhir September 2026.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/kopi-roasting.jpg",
-  "tags": [
-   "KUR",
-   "UMKM",
-   "Kemenko Perekonomian",
-   "Kredit Program"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7192/indonesia-bagikan-praktik-baik-kredit-program-untuk-memperluas-peluang-pembiayaan-umkm",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ekspor-alat-musik-ri-tembus-rp6-2-triliun-di-2026",
-  "category": "Industri",
-  "title": "Ekspor Alat Musik RI Tembus [Rp6,2 Triliun] di 2026",
-  "deck": "Kemendag mencatat ekspor alat musik Indonesia capai US$397,14 juta dalam delapan bulan 2026, sementara ekspansi ke sektor jasa musik seperti lisensi masih tahap awal.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/ekspor-alat-musik-ri-tembus-rp6-2-triliun-di-2026.jpg",
-  "imageV": "mvun5kn6",
-  "tags": [
-   "industri musik",
-   "ekspor",
-   "Kementerian Perdagangan",
-   "KMI 2026"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-optimistis-talenta-musik-indonesia-bersaing-di-pasar-global",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "pola-catat-rugi-rp1-68-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "POLA Catat [Rugi] Rp1,68 Miliar di Kuartal III 2026",
-  "deck": "PT Pool Advista Finance Tbk membalik untung jadi rugi Rp1,68 miliar pada sembilan bulan 2026 setelah pendapatan pembiayaan turun hampir separuh dari tahun sebelumnya.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POLA",
-   "laporan keuangan",
-   "multifinance",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030131438-64887-0/FinancialStatement-2026-III-POLA.pdf",
-  "sourceLabel": "IDX"
  }
 ];

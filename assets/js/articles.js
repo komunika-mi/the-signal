@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pakar-ri-perlu-perkuat-cadangan-energi-ala-jepang",
+  "category": "Energi",
+  "title": "Pakar: RI Perlu Perkuat [Cadangan] Energi ala Jepang",
+  "deck": "Pakar kebijakan energi Jun Arima menyarankan Indonesia membangun cadangan energi strategis dan menggarap mineral kritis seperti yang dilakukan Jepang sejak 1970-an.",
+  "image": "assets/img/pakar-ri-perlu-perkuat-cadangan-energi-ala-jepang.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T23:35:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476671-indonesia-dinilai-perlu-terus-perkuat-ketahanan-energi-belajar-strategi-cadangan-minyak-dari-jepang",
+  "tags": [
+   "energi",
+   "cadangan minyak",
+   "Jepang",
+   "mineral kritis"
+  ],
+  "body": [
+   "Indonesia didorong untuk memperkuat ketahanan energi nasional di tengah guncangan geopolitik yang mengganggu rantai pasok energi dunia. Dorongan itu disampaikan pakar kebijakan energi asal Jepang, Prof. Jun Arima, dalam konferensi ADIPEC 2026 di Abu Dhabi, Rabu (4/11). Menurutnya, ketergantungan Indonesia pada energi impor membuat negara ini rawan terdampak gejolak internasional, apalagi kebutuhan energi di dalam negeri terus naik seiring pertumbuhan ekonomi.",
+   "Arima menyarankan Indonesia belajar dari Jepang, yang sudah membangun sistem cadangan energi strategis sejak dekade 1970-an untuk mengantisipasi krisis pasokan. Ia menilai Indonesia perlu memperbesar kapasitas penyimpanan energi, memperkuat lembaga yang mengurusnya, dan menjalin kerja sama dengan negara-negara tetangga di kawasan. \"Indonesia perlu memperkuat kapasitas penyimpanan energi, mengembangkan sumber daya domestik, dan membangun mekanisme kolaborasi dengan negara-negara lain di kawasan,\" ujar Arima.",
+   "Sebagai langkah konkret, Arima mendorong Indonesia mengoptimalkan potensi gas alam, panas bumi, dan mineral kritis yang dimiliki. Ia menekankan pentingnya hilirisasi, yakni mengolah mineral kritis di dalam negeri agar nilai tambahnya dinikmati Indonesia sendiri, bukan sekadar mengekspor bahan mentah.",
+   "Arima memandang kemitraan dengan Jepang sebagai peluang untuk memadukan kekayaan sumber daya alam Indonesia dengan teknologi lingkungan dan industri Jepang. Kombinasi ini, menurutnya, bisa memperkuat infrastruktur energi kedua negara sekaligus mempercepat transisi menuju ekonomi rendah karbon secara lebih realistis. Ia menyimpulkan bahwa ketahanan energi Indonesia ke depan tidak cukup hanya mengandalkan kekayaan sumber daya, tetapi juga butuh investasi teknologi, kesiapan infrastruktur, dan kerja sama regional yang lebih erat."
+  ],
+  "fotoAdegan": "Workers inspecting large fuel storage tanks and connecting pipelines at an industrial oil depot near a harbor, overcast light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/04/6aeb5e0062b26-ilustrasi-pengeboran-minyak_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan resmi, melainkan sebuah saran. Seorang pakar kebijakan energi asal Jepang mendorong Indonesia membangun cadangan minyak strategis seperti yang Jepang lakukan sejak era 1970-an, plus menggarap serius gas alam, panas bumi, dan mineral kritis agar diolah di dalam negeri, bukan dijual mentah. Kalau saran ini diambil, yang kena dampak adalah pemerintah yang harus menyiapkan tempat penyimpanan dan lembaga baru, pelaku industri mineral kritis yang perlu membangun fasilitas pengolahan, serta konsumen energi yang saat ini bergantung pada pasokan impor. Yang masih kurang untuk membaca ke mana arah ini sebenarnya bergerak adalah respons resmi dari pemerintah Indonesia, karena berita ini belum menyebut target volume cadangan, anggaran, atau tenggat waktu konkret. Yang perlu dipantau adalah apakah muncul kelanjutan nyata, misalnya aturan turunan soal ketahanan energi atau kesepakatan kerja sama resmi dengan Jepang setelah ADIPEC 2026 ini.",
+  "imageV": "mw2dxhgj"
+ },
+ {
   "slug": "ultj-ambil-alih-frisian-flag-kendali-ke-frieslandcampina",
   "category": "Aksi Korporasi",
   "title": "ULTJ Ambil Alih [Frisian Flag], Kendali ke FrieslandCampina",
@@ -80,6 +107,33 @@ var ARTICLES = [
   "fotoAdegan": "Technicians inspecting a wide-body aircraft engine inside a large maintenance hangar, work lights on, early morning",
   "takeaway": "Laporan ini netral bagi fundamental Garuda, karena sejauh ini baru memindahkan kepemilikan saham GMFI antar entitas negara, dari Angkasa Pura ke InJourney lalu ke Danantara, dan belum ada uang tunai baru yang masuk ke kas Garuda atau hak suara publik yang berubah. Yang tersentuh adalah pos ekuitas dan jumlah saham beredar Garuda ke depan: begitu rights issue benar-benar berjalan dan Danantara menyetor saham GMFI senilai triliunan rupiah sebagai pengganti uang tunai, modal disetor Garuda bertambah tanpa menambah utang baru, tetapi jumlah saham yang beredar juga bertambah sehingga laba per saham pemegang saham publik yang tidak ikut menyetor berisiko terdilusi. Yang perlu dipantau berikutnya adalah RUPSLB yang akan mengesahkan Rencana Inbreng ini serta hasil penilaian nilai wajar dari penilai independen atas saham GMFI yang disetor Danantara, karena dari sanalah baru bisa dihitung harga pelaksanaan HMETD dan seberapa besar dilusi yang sesungguhnya dihadapi pemegang saham publik.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bukan-cuma-sertifikat-lppom-dorong-umkm-naik-kelas",
+  "category": "UMKM",
+  "title": "Bukan Cuma Sertifikat, LPPOM Dorong UMKM [Naik Kelas]",
+  "deck": "LPPOM gelar Halal Connect 2026 di Jakarta, kumpulkan sekitar 100 pelaku usaha untuk membangun jejaring bisnis halal, bukan sekadar urus sertifikat.",
+  "image": "assets/img/bukan-cuma-sertifikat-lppom-dorong-umkm-naik-kelas.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T22:44:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476666-bukan-cuma-label-halal-begini-cara-pelaku-umkm-dapat-naik-kelas",
+  "tags": [
+   "umkm",
+   "halal",
+   "lppom",
+   "jakarta"
+  ],
+  "body": [
+   "Lembaga Pengkajian Pangan, Obat-obatan, dan Kosmetika (LPPOM) menggelar forum Halal Connect 2026 di Jakarta, Selasa (3/11), mempertemukan sekitar 100 pelaku usaha dari skala UMKM sampai ritel. Forum ini dirancang bukan sekadar seremoni pengurusan sertifikat halal, melainkan ajang membangun jaringan bisnis antar pelaku di industri halal. Ini penting karena banyak UMKM yang sudah mengantongi label halal tapi belum tentu tahu cara memanfaatkannya untuk memperluas pasar.",
+   "Direktur LPPOM DKI Jakarta, Deden Edi S, mengatakan forum ini sengaja mempertemukan pelaku usaha, pemasok bahan baku, pengusaha ritel, lembaga pembiayaan, hingga instansi pemerintah dalam satu forum agar menghasilkan hubungan bisnis yang saling menguntungkan, bukan cuma silaturahmi. Direktur Utama LPPOM, Muti Arintawati, menambahkan bahwa tugas lembaganya tidak selesai begitu sertifikat halal terbit. Menurutnya, pelaku usaha juga perlu dibantu menjaga konsistensi kualitas produk agar bisa naik kelas dan memperluas bisnis.",
+   "Dalam acara itu, LPPOM bersama mitra perbankan dan institusi terkait menyerahkan dukungan sertifikasi halal untuk lebih dari 1.000 pelaku usaha. Bantuan lain juga diberikan, seperti sertifikat halal untuk pelopor batik Betawi serta bantuan sarana usaha bagi UMKM yang tinggal di rusunawa. Ketua Umum MUI DKI Jakarta, KH. M. Faiz Sykron Makmun, dan Ketua DPRD DKI Jakarta, Suhud Alynudin, turut mendukung inisiatif ini sebagai langkah memperkuat posisi produk lokal di pasar domestik maupun global.",
+   "Acara ditutup dengan sesi diskusi dan business matching, yang diharapkan mendorong pelaku usaha untuk terus berinovasi dan meningkatkan daya saing di pasar yang lebih luas."
+  ],
+  "fotoAdegan": "A small food stall vendor arranging packaged snacks on a wooden cart in a busy Jakarta neighborhood market, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/04/6aeb521191968-direktur-utama-lppom-muti-arintawati-dalam-gelaran-halal-connect-2026-di-jakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret dari acara ini adalah dukungan sertifikasi halal untuk lebih dari 1.000 pelaku usaha yang digarap bersama bank mitra, ditambah bantuan sarana usaha untuk UMKM di rusunawa dan sertifikat halal untuk pelopor batik Betawi. Yang kena dampak langsung adalah pelaku usaha kecil dan menengah di Jakarta, terutama yang selama ini belum punya label halal karena biaya atau rumitnya proses pengurusan. Namun berita ini belum menyebut berapa dari 1.000 pelaku usaha itu yang sudah benar-benar mengantongi sertifikat, bagaimana skema pembiayaan dari bank mitra bekerja, atau apakah Halal Connect ini akan jadi acara tahunan. Yang perlu ditunggu adalah laporan realisasi sertifikasi tersebut dan apakah sesi business matching yang baru ditutup benar-benar menghasilkan kerja sama bisnis konkret, bukan sekadar pertemuan seremonial.",
+  "imageV": "mw2dxhvp"
  },
  {
   "slug": "bold-akui-telat-lapor-kesiapan-dana-obligasi-soroti-likuiditas",
@@ -211,6 +265,33 @@ var ARTICLES = [
   "fotoAdegan": "Workers inspecting rock core samples at an open pit gold mine site in Indonesia, haul trucks in the distance, daylight",
   "takeaway": "Laporan ini cenderung negatif bagi pemegang saham lama karena rencana penambahan modal tanpa hak memesan efek terlebih dahulu bisa menambah jumlah saham beredar hingga 10 persen tanpa memberi kesempatan proporsional kepada pemegang saham eksisting untuk ikut membeli. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru terbit, laba perusahaan yang sama akan terbagi ke lebih banyak lembar saham sehingga nilai laba per saham berpotensi mengecil, kecuali dana yang masuk nantinya mendorong kinerja perusahaan naik sebanding. Dokumen ini belum menyebutkan siapa calon pembeli saham baru atau untuk apa dana itu akan dipakai, jadi dampak sebenarnya baru akan jelas setelah harga dan pihak penyerap ditentukan. Yang perlu dipantau adalah hasil RUPS pada 26 November 2026, termasuk apakah kuorum pemegang saham independen terpenuhi dan apakah mayoritas dari mereka menyetujui rencana ini, serta pengumuman harga pelaksanaan final yang akan ditetapkan direksi bersama komisaris setelah rapat.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "bri-salurkan-tunjangan-guru-non-asn-rp921-6-miliar",
+  "category": "Perbankan",
+  "title": "BRI Salurkan [Tunjangan] Guru Non-ASN Rp921,6 Miliar",
+  "deck": "BRI menyalurkan Rp921,6 miliar tunjangan profesi guru non-ASN triwulan III 2026 kepada sekitar 507 ribu guru honorer, masing-masing menerima Rp6 juta untuk periode Juli-September.",
+  "image": "assets/img/bri-salurkan-tunjangan-guru-non-asn-rp921-6-miliar.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T22:17:00+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476661-bri-salurkan-tunjangan-profesi-guru-non-asn-seniliai-rp9216-miliar-kepada-lebih-dari-507-ribu-penerima",
+  "tags": [
+   "BRI",
+   "Tunjangan Guru",
+   "Guru Non-ASN",
+   "Kemendikdasmen"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk atau BRI dipercaya pemerintah menyalurkan Tunjangan Profesi Guru (TPG) non-ASN untuk triwulan III 2026. Total dana yang dicairkan mencapai Rp921,6 miliar kepada sekitar 507 ribu guru honorer di berbagai daerah di Indonesia. Pencairan ini penting karena menyangkut penghasilan guru berstatus honorer, yang selama ini kerap bergantung pada tunjangan tiga bulanan semacam ini.",
+   "Menteri Pendidikan Dasar dan Menengah Abdul Mu'ti menjelaskan bahwa dana tersebut merupakan akumulasi pembayaran untuk tiga bulan, yakni Juli, Agustus, dan September 2026. Dengan begitu, setiap guru honorer yang berhak menerima Rp6 juta sekaligus dalam satu kali pencairan. Penerima adalah guru non-ASN yang sudah memenuhi persyaratan dan lolos proses validasi data, dan mereka diminta segera memeriksa rekening masing-masing untuk memastikan dana sudah masuk.",
+   "Dalam proses ini, BRI berperan sebagai bank penyalur yang menjalankan pencairan sesuai instruksi dari Kementerian Pendidikan Dasar dan Menengah. Kewenangan menentukan siapa yang berhak menerima, berapa besar tunjangannya, dan kapan dicairkan tetap berada di tangan pemerintah, bukan di BRI. Untuk menjangkau penerima hingga ke pelosok, BRI mengandalkan jaringan lebih dari 7 ribu unit kerja dan 1,06 juta agen layanan perbankan yang tersebar di seluruh Indonesia.",
+   "Corporate Secretary BRI Dhanny menyebut penyaluran TPG ini sebagai bagian dari peran perseroan mendukung program pemerintah yang berdampak langsung ke masyarakat, termasuk kesejahteraan guru sebagai fondasi dunia pendidikan."
+  ],
+  "fotoAdegan": "A banking agent assisting a visitor with a transaction at a small kiosk in a rural Indonesian village, morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/04/6aeb4b9d3629c-bri-salurkan-tunjangan-profesi-guru-non-asn-seniliai-rp9216-miliar-kepada-lebih-dari-507-ribu-penerima_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pencairan rutin, bukan kebijakan baru: dana Rp921,6 miliar untuk periode Juli sampai September 2026 masuk ke rekening sekitar 507 ribu guru honorer, masing-masing menerima Rp6 juta sekaligus. Yang terdampak jelas guru non-ASN atau guru honorer, kelompok yang penghasilannya biasanya lebih kecil dan tidak tetap dibanding guru berstatus pegawai negeri, sehingga tunjangan tiga bulanan ini sering jadi andalan menutup kebutuhan yang tertunda. Pola penyaluran lewat bank milik negara setiap tiga bulan ini mengikuti jalur yang sama seperti triwulan-triwulan sebelumnya, bukan perubahan mekanisme. Yang akan menunjukkan apakah pola ini tetap konsisten adalah pencairan triwulan IV 2026 untuk periode Oktober-Desember, termasuk apakah jumlah penerima dan nilai totalnya berubah seiring proses validasi data guru honorer baru.",
+  "imageV": "mw2dxidu"
  },
  {
   "slug": "tbi-entikong-didorong-jadi-pintu-ekspor-impor-perbatasan",

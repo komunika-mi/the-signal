@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "FN-TTLQAQ4c",
+  "title": "Polemik PPN 11 Persen pada Pembalut Wanita",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Pengenaan Pajak Pertambahan Nilai efektif 11 persen pada pembalut wanita menjadi sorotan karena dianggap membebani kebutuhan biologis esensial perempuan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kebijakan fiskal atas barang kena pajak dan dampaknya pada daya beli masyarakat."
+ },
+ {
+  "id": "XFGTRurXsB0",
+  "title": "Komnas Perempuan Usul Revisi Aturan PPN Pembalut",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Komnas Perempuan mendorong revisi kebijakan PPN atas pembalut wanita yang dinilai memberatkan karena menyasar kebutuhan dasar perempuan.",
+  "takeaway": "Menunjukkan arah wacana kebijakan fiskal yang mulai mempertimbangkan aspek keadilan sosial dalam penetapan tarif pajak."
+ },
+ {
+  "id": "fubdwcxSZmU",
+  "title": "Tanggapan Mahasiswi soal Polemik Pajak Pembalut",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Kalangan mahasiswi menyuarakan keberatan atas PPN efektif 11 persen pada pembalut wanita yang dinilai memberatkan kebutuhan harian.",
+  "takeaway": "Memberi gambaran reaksi publik sebagai konsumen terhadap kebijakan pajak yang berdampak langsung pada pengeluaran rumah tangga."
+ },
+ {
   "id": "1V1MWTXVp8Y",
   "title": "Polemik PPN 11 Persen pada Pembalut Wanita",
   "category": "Makroekonomi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Dalam Rapimnas Kadin 2026, Hashim Djojohadikusumo menyinggung kondisi pasar saham Indonesia dan posisi dalam indeks MSCI.",
   "takeaway": "Komentar tokoh bisnis soal pasar modal dan indeks global penting untuk memantau sentimen investor terhadap pasar Indonesia."
- },
- {
-  "id": "hGWFbukanxw",
-  "title": "Buntut Beras Oplosan, Mentan Copot Delapan Pejabat Bulog",
-  "category": "BUMN",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Pertanian Andi Amran Sulaiman mencopot delapan pejabat Bulog dan Bapanas menyusul kasus beras oplosan.",
-  "takeaway": "Pergantian pejabat di BUMN pangan ini berdampak pada tata kelola stok dan distribusi beras yang memengaruhi stabilitas harga pangan."
- },
- {
-  "id": "sUI4BAVufMs",
-  "title": "Hashim: Rp10.000 Triliun Ekonomi Indonesia Tak Tercatat",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Hashim Djojohadikusumo menyebut potensi ekonomi senilai Rp10.000 triliun belum tercatat dalam data resmi, mengemuka di Rapimnas Kadin 2026.",
-  "takeaway": "Klaim soal ekonomi bawah tanah ini relevan karena menyangkut akurasi data PDB dan basis kebijakan fiskal pemerintah."
- },
- {
-  "id": "4Y9IIX7vKpw",
-  "title": "Rapat Pimpinan Nasional Kadin 2026",
-  "category": "Bisnis",
-  "program": "tvOneNews",
-  "summary": "Rapimnas Kadin 2026 menjadi forum konsolidasi tahunan antara pemerintah dan dunia usaha untuk merumuskan arah kebijakan ekonomi dan program kerja ke depan.",
-  "takeaway": "Forum ini relevan bagi pembaca ekonomi karena memperlihatkan arah kebijakan dan prioritas yang disepakati pemerintah bersama pelaku usaha, yang berpotensi memengaruhi iklim bisnis nasional."
  }
 ];

@@ -31,6 +31,85 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "assa-bagi-dividen-interim-rp20-per-saham-dibayar-20-november",
+  "category": "Aksi Korporasi",
+  "title": "ASSA Bagi [Dividen] Interim Rp20 per Saham, Dibayar 20 November",
+  "deck": "ASSA menetapkan dividen interim tahun buku 2026 sebesar Rp20 per saham, total Rp73,82 miliar, dengan pembayaran dijadwalkan 20 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T13:19:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e566145cd_b96c5d5ee8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASSA",
+  "tags": [
+   "ASSA",
+   "dividen interim",
+   "dividen tunai",
+   "BEI"
+  ],
+  "body": [
+   "PT Adi Sarana Armada Tbk (ASSA) akan membagikan dividen tunai interim untuk tahun buku 2026 sebesar Rp20 per saham, dengan total nilai Rp73.822.750.340. Keputusan ini diambil Direksi pada 2 November 2026 melalui Surat Keputusan No.003/SK/BOD/ASSA/XI/2026, dan telah disetujui Dewan Komisaris pada tanggal yang sama melalui Keputusan No. 011/SPKOM/LGL/ASSA/XI/2026. Dokumen ditandatangani oleh Jerry Fandy Tunjungan selaku Direktur Keuangan.",
+   "Perseroan menetapkan jadwal pembagian sebagai berikut: cum dividen di pasar reguler dan negosiasi pada 12 November 2026, lalu ex dividen pada 13 November 2026. Di pasar tunai, cum dividen jatuh pada 16 November 2026 dan ex dividen pada 17 November 2026. Daftar pemegang saham yang berhak menerima dividen (recording date) ditetapkan pada 16 November 2026 pukul 16.00 WIB, dengan pembayaran dilakukan paling lambat pada 20 November 2026 melalui KSEI bagi saham dalam penitipan kolektif, atau transfer langsung ke rekening bank bagi pemegang saham di luar KSEI.",
+   "Dasar pembagian dividen ini adalah laporan keuangan per 30 September 2026, yang mencatat laba bersih yang diatribusikan ke entitas induk sebesar Rp292.306.721.600, saldo laba ditahan yang tidak dibatasi penggunaannya Rp1.429.014.107.715, dan total ekuitas Rp3.513.169.605.899. Dividen untuk pemegang saham Wajib Pajak Dalam Negeri tidak dipotong Pajak Penghasilan, sementara untuk Wajib Pajak Luar Negeri dikenakan pemotongan PPh Pasal 26 sesuai aturan yang berlaku, dengan kemungkinan tarif lebih rendah bagi yang berasal dari negara yang punya perjanjian penghindaran pajak berganda dengan Indonesia dan melengkapi dokumen domisili yang disyaratkan KSEI."
+  ],
+  "fotoAdegan": "Rows of white rental sedans parked in an orderly fleet yard, Jakarta skyline faintly visible in the background, midday light",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi ASSA karena dibiayai dari laba yang memang sudah diperoleh perusahaan, bukan dari utang atau dengan menguras kas inti operasional. Pos yang tersentuh adalah ekuitas dan arus kas, dividen sebesar Rp73,82 miliar ini akan keluar dari kas perusahaan dan sedikit mengurangi ekuitas, tapi jumlahnya hanya sekitar 2 persen dari total ekuitas Rp3,51 triliun sehingga dampaknya ke kesehatan keuangan perusahaan tergolong kecil. Investor perlu mencatat bahwa untuk berhak atas dividen ini, saham harus sudah dimiliki sebelum tanggal cum dividen 12 November 2026 di pasar reguler dan negosiasi, karena pembeli setelah tanggal itu tidak lagi mendapat jatah dividen. Yang perlu dipantau selanjutnya adalah apakah pembayaran benar terlaksana pada 20 November 2026 sesuai jadwal, serta bagaimana pola pembagian dividen final nanti dari laba setahun penuh dibandingkan dengan dividen interim ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bina-himpun-rp50-miliar-lewat-penerbitan-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "BINA Himpun [Rp50 Miliar] Lewat Penerbitan Saham Baru",
+  "deck": "Bank Ina Perdana menerbitkan 13,8 juta saham baru senilai Rp50 miliar kepada PT Indoperkasa Suksesjaya Reasuransi untuk memperkuat modal inti bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T13:08:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f7106c8e1d_41dc4a9f96.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BINA",
+  "tags": [
+   "BINA",
+   "PMTHMETD",
+   "Bank Ina Perdana",
+   "modal inti"
+  ],
+  "body": [
+   "PT Bank Ina Perdana Tbk (BINA) mengumumkan hasil penerbitan saham baru tanpa menawarkannya dulu ke pemegang saham lama, mekanisme yang di bursa disebut PMTHMETD. Bank menerbitkan 13.812.155 saham baru dengan nilai nominal Rp100 per saham, dilepas dengan harga pelaksanaan Rp3.620 per saham. Seluruh saham baru itu diambil oleh satu pembeli, PT Indoperkasa Suksesjaya Reasuransi, dengan total dana yang masuk ke kas bank sebesar Rp50.000.001.100. Saham baru ini resmi diterbitkan dan tercatat di bursa pada 3 November 2026.",
+   "Dengan tambahan saham ini, jumlah saham beredar BINA naik dari 6.134.716.665 menjadi 6.148.528.820 saham, atau bertambah sekitar 0,23 persen. Bank menyebut dana segar ini akan dipakai untuk memperkuat struktur permodalan, termasuk membantu memenuhi syarat modal inti yang ditetapkan regulator perbankan.",
+   "Penerbitan saham ini sudah mendapat restu pemegang saham independen dalam rapat umum pemegang saham pada 5 Juni 2026, serta persetujuan pencatatan dari Bursa Efek Indonesia tertanggal 28 Oktober 2026. Rencana penerbitan ini sendiri lebih dulu diumumkan pada 27 Oktober 2026 sebelum akhirnya direalisasikan pekan ini."
+  ],
+  "fotoAdegan": "Interior of a modern Indonesian bank branch with teller counters and waiting customers, soft afternoon light through glass windows",
+  "takeaway": "Laporan ini condong positif bagi Bank Ina karena bank mendapat dana segar Rp50 miliar untuk memperkuat permodalan, sementara saham baru yang diterbitkan hanya sekitar 0,23 persen dari saham yang sudah beredar sehingga hak suara pemegang saham lama praktis tidak tergerus. Dana ini masuk ke pos ekuitas, yaitu kekayaan bersih bank setelah dikurangi utang, dan secara khusus menambah modal inti, penyangga keuangan yang disyaratkan regulator agar bank mampu menyerap kerugian atau kredit macet tanpa mengganggu operasionalnya. Pelaku pasar memperhatikan pos ini karena bank dengan modal inti tipis bisa dibatasi ekspansi kreditnya oleh OJK. Yang perlu dipantau berikutnya adalah apakah suntikan modal ini cukup mengimbangi penurunan ekuitas 8,9 persen yang sempat dilaporkan akhir Oktober lalu, serta laporan realisasi penggunaan dana yang wajib disampaikan bank secara berkala kepada OJK dan bursa sebagai bukti dana benar dipakai sesuai rencana.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bina-jadwalkan-rupslb-dan-rups-independen-11-desember",
+  "category": "Aksi Korporasi",
+  "title": "BINA Jadwalkan RUPSLB dan RUPS [Independen] 11 Desember",
+  "deck": "Bank Ina mengumumkan rencana RUPSLB sekaligus RUPS Independen pada 11 Desember 2026, tanda ada transaksi yang perlu restu pemegang saham non-afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T13:07:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6be09f686e_6cafb91ba1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BINA",
+  "tags": [
+   "BINA",
+   "RUPSLB",
+   "RUPS Independen",
+   "Bank Ina Perdana"
+  ],
+  "body": [
+   "PT Bank Ina Perdana Tbk (BINA) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sekaligus Rapat Umum Pemegang Saham Independen (RUPS Independen) secara bersamaan pada Jumat, 11 Desember 2026 pukul 10.00. Pemegang saham yang berhak hadir dan memberi suara adalah yang tercatat dalam Daftar Pemegang Saham per Rabu, 18 November 2026, sampai penutupan perdagangan saham hari itu. Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan pada Kamis, 19 November 2026 lewat situs Bursa Efek Indonesia, sistem eASY.KSEI, dan situs resmi Bank Ina.",
+   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, asalkan diajukan bersama oleh pemegang saham yang mewakili minimal 1/20 atau 5 persen dari total saham berhak suara. Usulan tertulis itu wajib diterima direksi paling lambat tujuh hari kalender sebelum pemanggilan, yaitu Kamis, 12 November 2026, dan harus disertai alasan serta bahan pendukung.",
+   "Untuk RUPS Independen, hanya pemegang saham yang tidak punya kepentingan ekonomis pribadi atas transaksi tertentu dan bukan merupakan direksi, komisaris, pemegang saham utama, pengendali, atau pihak terafiliasi mereka yang berhak hadir dan memberi suara. Kuorum kehadirannya berjenjang: rapat pertama sah jika dihadiri lebih dari separuh saham berhak suara milik pemegang saham independen dan keputusan disetujui oleh lebih dari separuh yang hadir. Jika kuorum tidak tercapai, digelar rapat kedua dengan ambang yang sama, dan jika masih gagal, rapat ketiga dengan kuorum yang ditetapkan OJK atas permohonan perseroan, dengan keputusan sah bila disetujui lebih dari 50 persen saham independen yang hadir.",
+   "Rapat juga dapat diikuti secara elektronik lewat eASY.KSEI yang dikelola KSEI, atau pemegang saham bisa memberi kuasa lewat formulir di situs perseroan kepada PT Raya Saham Registra sebagai pihak independen yang ditunjuk Bank Ina."
+  ],
+  "fotoAdegan": "Rows of empty boardroom chairs around a long table in a glass-walled Jakarta office tower, soft afternoon light",
+  "takeaway": "Pengumuman ini kami nilai netral, karena isinya baru sebatas jadwal dan mekanisme rapat, belum mengungkap agenda atau transaksi yang sesungguhnya dibahas. Yang tersentuh di sini adalah hak suara pemegang saham: aturan RUPS Independen mewajibkan transaksi yang melibatkan kepentingan direksi, komisaris, pemegang saham utama, atau pihak terafiliasi mereka mendapat restu khusus dari pemegang saham yang tidak punya kepentingan pribadi dalam transaksi itu, supaya keputusan tidak dikendalikan oleh pihak yang justru diuntungkan. Keberadaan agenda RUPS Independen ini sendiri menjadi sinyal bahwa ada transaksi berpotensi mengandung kepentingan terafiliasi yang sedang disiapkan perseroan. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 19 November 2026, karena di situlah agenda dan rincian transaksi baru akan diungkap secara lengkap, serta hasil keputusan dalam rapat itu sendiri pada 11 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "sdra-panggil-rupslb-agendakan-pergantian-direksi-komisaris",
   "category": "Aksi Korporasi",
   "title": "SDRA Panggil RUPSLB, Agendakan [Pergantian] Direksi-Komisaris",

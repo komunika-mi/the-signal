@@ -21,6 +21,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "assa-bagi-dividen-interim-rp20-per-saham-dibayar-20-november",
+  "category": "Aksi Korporasi",
+  "title": "ASSA Bagi [Dividen] Interim Rp20 per Saham, Dibayar 20 November",
+  "deck": "ASSA menetapkan dividen interim tahun buku 2026 sebesar Rp20 per saham, total Rp73,82 miliar, dengan pembayaran dijadwalkan 20 November 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASSA",
+   "dividen interim",
+   "dividen tunai",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e566145cd_b96c5d5ee8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bina-himpun-rp50-miliar-lewat-penerbitan-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "BINA Himpun [Rp50 Miliar] Lewat Penerbitan Saham Baru",
+  "deck": "Bank Ina Perdana menerbitkan 13,8 juta saham baru senilai Rp50 miliar kepada PT Indoperkasa Suksesjaya Reasuransi untuk memperkuat modal inti bank.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BINA",
+   "PMTHMETD",
+   "Bank Ina Perdana",
+   "modal inti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f7106c8e1d_41dc4a9f96.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bina-jadwalkan-rupslb-dan-rups-independen-11-desember",
+  "category": "Aksi Korporasi",
+  "title": "BINA Jadwalkan RUPSLB dan RUPS [Independen] 11 Desember",
+  "deck": "Bank Ina mengumumkan rencana RUPSLB sekaligus RUPS Independen pada 11 Desember 2026, tanda ada transaksi yang perlu restu pemegang saham non-afiliasi.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BINA",
+   "RUPSLB",
+   "RUPS Independen",
+   "Bank Ina Perdana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6be09f686e_6cafb91ba1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sdra-panggil-rupslb-agendakan-pergantian-direksi-komisaris",
   "category": "Aksi Korporasi",
   "title": "SDRA Panggil RUPSLB, Agendakan [Pergantian] Direksi-Komisaris",
@@ -6427,54 +6475,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181311-64575-0/FinancialStatement-2026-III-JAST.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hero-catat-laba-rp91-3-miliar-kas-turun-tajam-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "HERO Catat [Laba] Rp91,3 Miliar, Kas Turun Tajam di Kuartal III",
-  "deck": "Pendapatan sembilan bulan 2026 naik 15,8 persen dan laba bersih naik ke Rp91,3 miliar, tapi kas perusahaan turun 45 persen menjadi Rp25,7 miliar.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HERO",
-   "laporan keuangan",
-   "ritel",
-   "kinerja emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029180930-64645-0/FinancialStatement-2026-III-HERO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tmpo-rugi-melebar-kas-tersisa-rp5-8-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "TMPO: [Rugi] Melebar, Kas Tersisa Rp5,8 Miliar di Kuartal III",
-  "deck": "Pendapatan TMPO turun 5 persen dan kas perusahaan susut dari Rp25,2 miliar menjadi Rp5,8 miliar dalam sembilan bulan, sementara rugi bersih melebar ke Rp6,1 miliar.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TMPO",
-   "laporan keuangan",
-   "Tempo Inti Media",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029180435-65035-0/FinancialStatement-2026-III-TMPO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-beli-anak-usaha-energi-rp2-miliar-dari-komisaris-utama",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Beli Anak Usaha Energi [Rp2 Miliar] dari Komisaris Utama",
-  "deck": "RUM, anak usaha MKNT, membeli 100% saham ALE dan RSA dari Komisaris Utama Handoyo Setiawan dan mitranya senilai total sekitar Rp2 miliar.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "akuisisi",
-   "transaksi afiliasi",
-   "energi terbarukan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3e3bd442c7_f73f56f15f.pdf",
   "sourceLabel": "IDX"
  }
 ];

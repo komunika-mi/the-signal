@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah sikap pemerintah dalam merespons ancaman downgrade dari MSCI, penyedia indeks saham global yang mempertimbangkan menurunkan status pasar modal Indonesia dari kategori pasar berkembang ke pasar mandiri atau standalone. Pemerintah memilih jalur perbaikan tata kelola, antara lain mewajibkan keterbukaan pemegang saham dengan kepemilikan di atas 1 persen dan memperkuat pengawasan OJK terhadap manipulasi saham, ketimbang sekadar membantah penilaian itu. Yang terdampak langsung adalah emiten dan pemegang saham besar yang harus lebih terbuka soal kepemilikannya, serta investor ritel yang diminta tidak panik merespons isu downgrade ini. Siaran pers ini belum menyebutkan kapan MSCI akan mengumumkan keputusan akhirnya atau bagaimana aturan keterbukaan 1 persen itu akan diterapkan secara teknis, jadi arah pastinya baru akan terlihat setelah kajian MSCI berikutnya atau aturan turunan dari OJK terbit.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "assa-bagi-dividen-interim-rp20-per-saham-dibayar-20-november",
@@ -580,6 +580,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah dari sisi konsumen sederhana: poin MyPertamina yang terkumpul sepanjang 2026 harus ditukar sebelum 31 Desember, karena per 1 Januari 2027 saldo itu otomatis kembali ke nol. Pengguna poin, jadi istilah lainnya, adalah penukaran koin reward di aplikasi yang didapat dari membeli BBM atau produk Pertamina lain dengan voucher atau hadiah. Yang kena dampak langsung adalah pengguna aktif aplikasi MyPertamina yang rutin bertransaksi tapi belum sempat menukarkan poinnya. Berita ini belum menyebut berapa total poin yang beredar atau berapa banyak pengguna yang punya saldo besar, sehingga belum bisa dinilai apakah program ini benar-benar mendorong transaksi baru atau sekadar memaksa orang menghabiskan poin yang sudah ada sebelum hangus.",
   "imageV": "mw0w3i3w"
+ },
+ {
+  "slug": "arus-peti-kemas-tumbuh-5-8-persen-ke-10-31-juta-teus",
+  "category": "BUMN",
+  "title": "Arus Peti Kemas [Tumbuh] 5,8 Persen ke 10,31 Juta TEUs",
+  "deck": "Arus peti kemas Pelindo Terminal Petikemas tembus 10,31 juta TEUs sepanjang Januari-September 2026, tumbuh 5,8 persen didorong kenaikan perdagangan internasional.",
+  "image": "assets/img/arus-peti-kemas-tumbuh-5-8-persen-ke-10-31-juta-teus.jpg",
+  "date": "3 November 2026",
+  "isoDate": "2026-11-03T21:52:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476458-perdagangan-meningkat-pesat-arus-peti-kemas-pelindo-tembus-103-juta-teus",
+  "tags": [
+   "pelindo",
+   "peti kemas",
+   "pelabuhan",
+   "perdagangan internasional"
+  ],
+  "body": [
+   "PT Pelindo Terminal Petikemas mencatat arus peti kemas sepanjang Januari-September 2026 mencapai 10,31 juta TEUs, satuan standar yang menyamakan ukuran peti kemas berbagai jenis ke setara kontainer 20 kaki. Angka ini tumbuh 5,8 persen dibandingkan periode yang sama tahun sebelumnya, menandakan arus barang yang masuk dan keluar pelabuhan di bawah Pelindo masih terus menguat.",
+   "Kenaikan arus internasional menjadi penggerak utama, tumbuh 10,34 persen, jauh melampaui pertumbuhan arus domestik yang hanya 3,57 persen. Secara volume, peti kemas internasional mencapai 3,54 juta TEUs sementara domestik 6,77 juta TEUs. Corporate Secretary PT Pelindo Terminal Petikemas, Fajar Setyono, mengatakan kenaikan ini ditopang aktivitas kapal internasional yang lebih padat, penambahan rute pelayaran baru, serta optimalisasi fasilitas dan operasional terminal.",
+   "Terminal Teluk Lamong di Surabaya mencatat pertumbuhan tertinggi, yakni 23,12 persen. Fajar menyebut hingga September 2026 terminal ini melayani 25 kunjungan kapal internasional nonreguler atau ad hoc call, dengan total muatan 16.014 TEUs. Pertumbuhan itu juga didukung dua layanan pelayaran baru, yaitu CSE Service hasil kerja sama COSCO Shipping Lines dan OOCL, serta SCJX/SIX Service hasil kerja sama Gold Star Line dan X-Press Feeders, yang masing-masing rata-rata membongkar dan memuat sekitar 1.100 TEUs setiap kunjungan kapal.",
+   "Untuk mengimbangi kenaikan arus barang ini, Pelindo Terminal Petikemas menambah alat bongkar muat di beberapa pelabuhan sepanjang 2026. Di Terminal Petikemas Surabaya, perusahaan menambah empat unit Quay Container Crane atau QCC, yakni alat pengangkat peti kemas di dermaga, dan 14 unit E-RTG, alat angkut peti kemas bertenaga listrik di area penumpukan. Penambahan serupa juga dilakukan di TPK Semarang, TPK Belawan, dan TPK Banjarmasin, sementara dua unit QCC di TPK Perawang ditargetkan rampung pada Desember 2026."
+  ],
+  "fotoAdegan": "Container cranes lifting stacked shipping containers onto cargo ships at a busy Indonesian port terminal, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/03/6ae9f3a89b57f-perdagangan-internasional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pendorong utama kenaikan arus peti kemas ini bukan perdagangan dalam negeri, melainkan arus internasional yang naik 10,34 persen, hampir tiga kali lipat kenaikan arus domestik yang cuma 3,57 persen. Artinya makin banyak kapal asing yang singgah dan membongkar muat di pelabuhan Indonesia, bukan sekadar perpindahan barang antarwilayah di dalam negeri. Pihak yang paling terasa dampaknya adalah operator pelabuhan seperti Terminal Teluk Lamong, yang tumbuh 23 persen berkat dua rute pelayaran asing baru, serta eksportir dan importir yang bergantung pada konektivitas itu. Pelindo meresponsnya dengan menambah alat bongkar muat di sejumlah pelabuhan sepanjang tahun ini, termasuk dua crane baru di Perawang yang ditargetkan selesai Desember 2026, sebuah tanda bahwa perusahaan memperkirakan kenaikan arus barang internasional ini berlanjut dan bukan sekadar lonjakan sesaat. Yang akan memastikan dugaan itu benar adalah data arus peti kemas kuartal keempat 2026, terutama apakah porsi arus internasional tetap tumbuh lebih cepat dibandingkan arus domestik.",
+  "imageV": "mw1sy64q"
  },
  {
   "slug": "arus-peti-kemas-pelindo-tembus-10-3-juta-teus",

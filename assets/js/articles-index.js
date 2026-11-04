@@ -362,6 +362,23 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476465-mypertamina-fair-2026-dimulai-pertamina-beri-apresiasi-bagi-konsumen-setia"
  },
  {
+  "slug": "arus-peti-kemas-tumbuh-5-8-persen-ke-10-31-juta-teus",
+  "category": "BUMN",
+  "title": "Arus Peti Kemas [Tumbuh] 5,8 Persen ke 10,31 Juta TEUs",
+  "deck": "Arus peti kemas Pelindo Terminal Petikemas tembus 10,31 juta TEUs sepanjang Januari-September 2026, tumbuh 5,8 persen didorong kenaikan perdagangan internasional.",
+  "date": "3 November 2026",
+  "image": "assets/img/arus-peti-kemas-tumbuh-5-8-persen-ke-10-31-juta-teus.jpg",
+  "imageV": "mw1sy64q",
+  "tags": [
+   "pelindo",
+   "peti kemas",
+   "pelabuhan",
+   "perdagangan internasional"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476458-perdagangan-meningkat-pesat-arus-peti-kemas-pelindo-tembus-103-juta-teus"
+ },
+ {
   "slug": "arus-peti-kemas-pelindo-tembus-10-3-juta-teus",
   "category": "BUMN",
   "title": "Arus Peti Kemas Pelindo [Tembus] 10,3 Juta TEUs",
@@ -6459,22 +6476,6 @@ var ARTICLES = [
    "kawat tembaga"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181705-65124-0/FinancialStatement-2026-III-TBMS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jast-jelaskan-liabilitas-naik-21-49-induk-rugi-rp399-juta",
-  "category": "Aksi Korporasi",
-  "title": "JAST Jelaskan Liabilitas Naik 21,49%, Induk [Rugi] Rp399 Juta",
-  "deck": "Liabilitas Jasnita Telekomindo naik 21,49% dalam sembilan bulan akibat utang usaha anak usaha CCX Platform, sementara bagian laba untuk pemegang saham induk berbalik rugi Rp398,8 juta.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JAST",
-   "liabilitas",
-   "laporan keuangan kuartalan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029181311-64575-0/FinancialStatement-2026-III-JAST.pdf",
   "sourceLabel": "IDX"
  }
 ];

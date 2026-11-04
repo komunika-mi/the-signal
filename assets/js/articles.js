@@ -3,6 +3,138 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kija-pendapatan-9m26-naik-16-laba-bersih-turun-38",
+  "category": "Aksi Korporasi",
+  "title": "KIJA: Pendapatan 9M26 [Naik] 16%, Laba Bersih Turun 38%",
+  "deck": "Jababeka membukukan pendapatan Rp4,25 triliun pada 9M26, naik 16 persen, tapi laba bersih turun 38 persen akibat biaya refinancing obligasi dolar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T20:45:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a3c6bb392_c89012585d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KIJA",
+  "tags": [
+   "KIJA",
+   "Jababeka",
+   "kinerja keuangan",
+   "kawasan industri"
+  ],
+  "body": [
+   "Kawasan Industri Jababeka Tbk (KIJA) mencatat pendapatan konsolidasian Rp4.254,9 miliar untuk sembilan bulan pertama 2026, naik 16 persen dari Rp3.674,7 miliar pada periode yang sama tahun 2025. Laba bruto naik 7 persen menjadi Rp1.577,8 miliar, tapi margin laba bruto justru turun dari 40 persen menjadi 37 persen. Laba bersih perusahaan tercatat Rp391,7 miliar, turun 38 persen dari Rp634,6 miliar tahun lalu, sementara EBITDA naik 4 persen menjadi Rp1.362,4 miliar dan kas konsolidasi perusahaan ada di Rp3.153,7 miliar.",
+   "Dari tiga pilar bisnisnya, Pengembangan Lahan dan Properti menyumbang Rp1.914,8 miliar, naik 17 persen, dengan Rp939,9 miliar di antaranya diakui hanya pada kuartal III 2026, hampir menyamai total semester pertama yang Rp974,9 miliar. Penjualan tanah matang mencapai Rp1.629,5 miliar dari sebelumnya Rp1.433,2 miliar, penjualan tanah dan bangunan pabrik melonjak 291 persen menjadi Rp126,0 miliar dari Rp32,2 miliar, dan penjualan tanah dan rumah naik 18 persen menjadi Rp77,8 miliar. Pilar Infrastruktur tumbuh 15 persen menjadi Rp2.242,5 miliar, disumbang segmen ketenagalistrikan Rp1.505,2 miliar, Jasa dan Pemeliharaan yang tumbuh 33 persen menjadi Rp525,6 miliar, serta Cikarang Dry Port yang naik menjadi Rp211,8 miliar dari Rp174,6 miliar karena kenaikan volume peti kemas. Pendapatan berulang dari pilar Infrastruktur ini menyumbang 53 persen dari total pendapatan perusahaan. Pilar Leisure dan Hospitality menyumbang Rp97,6 miliar, dengan bisnis golf menyumbang sekitar 65 persen dari pilar ini.",
+   "Perusahaan menjelaskan penurunan laba bersih disebabkan beban non-operasional satu kali terkait refinancing obligasi Senior Notes berdenominasi dolar AS menjadi pinjaman bank berdenominasi rupiah, yang meliputi rugi selisih kurs, biaya penghentian instrumen hedging, dan beban amortisasi dipercepat untuk Senior Notes yang jatuh tempo 2027. Marketing sales dari pilar Pengembangan Lahan dan Properti mencapai sekitar Rp1,52 triliun, didukung penjualan lahan di Cikarang dan sekitarnya sebesar 3 hektare ke perusahaan tekstil Indonesia, 1 hektare ke perusahaan ketenagalistrikan, dan 0,7 hektare ke importir bahan bangunan asal Tiongkok, serta di Kendal sebesar 7 hektare ke produsen baterai Tiongkok, 6 hektare ke produsen kulit sintetis Tiongkok, dan 9,7 hektare ke produsen peralatan rumah tangga Indonesia. Perusahaan akan menyampaikan panduan resmi target marketing sales 2027 pada awal tahun 2027."
+  ],
+  "fotoAdegan": "Wide shot of an industrial estate access road lined with warehouses and power lines, cargo trucks passing, hazy late afternoon light",
+  "takeaway": "Laporan ini netral bagi KIJA karena bisnis inti sebenarnya tumbuh sehat, pendapatan naik 16 persen dan EBITDA naik 4 persen, tapi laba bersih yang jadi hak pemegang saham tertekan 38 persen oleh biaya refinancing yang bersifat sekali terjadi, bukan oleh pelemahan operasional. Yang perlu diperhatikan adalah margin laba bruto, yaitu persentase pendapatan yang tersisa setelah biaya produksi langsung, yang turun dari 40 ke 37 persen karena melemahnya margin segmen ketenagalistrikan akibat faktor operasional yang belum dijelaskan rinci, dan ini langsung memengaruhi laba per saham pemegang saham. Refinancing utang dolar menjadi pinjaman rupiah juga mengubah struktur beban bunga perusahaan ke depan, sesuatu yang biasa dicermati pasar karena memengaruhi risiko kurs jangka panjang. Yang perlu dipantau berikutnya adalah apakah margin segmen ketenagalistrikan membaik pada kuartal mendatang, serta panduan resmi target marketing sales 2027 yang dijanjikan perusahaan akan diumumkan pada awal tahun 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bike-koreksi-kedua-ke-bursa-rincian-akuisisi-bum",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Koreksi Kedua ke Bursa, Rincian Akuisisi [BUM]",
+  "deck": "Koreksi kedua jawaban BIKE ke Bursa mengungkap akuisisi 72% saham BUM senilai Rp72 juta, menambah daftar transaksi yang pembayarannya masih tertunda menanti pinjaman pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T20:06:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43841d172b_aef1884f84.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) kembali mengoreksi jawabannya ke Bursa Efek Indonesia, kali ini untuk kedua kalinya dalam dua hari, menanggapi surat permintaan penjelasan lanjutan Bursa bernomor S-13601/BEI.PP3/10-2026 tertanggal 30 Oktober 2026. Surat yang ditandatangani Direktur Winston Mulyadi ini merinci tiga akuisisi yang sudah efektif secara administrasi tapi belum dibayar tunai oleh perseroan. Dua di antaranya sudah dibahas BIKE sebelumnya, yakni pembelian saham PT Mega Teknologi Investama (MTI) dari Ibu Vitria senilai Rp10,89 miliar untuk mengakuisisi PT Ratu Karya secara tidak langsung (efektif 16 Juli 2026, akta notaris nomor 127), dan pembelian saham PT Fahreza Bumi Megah (FBM) dari Nadila Syafira senilai Rp10,89 miliar untuk mengakuisisi PT Prambanan Nusantara Energi atau PNE (efektif 15 Juli 2026, akta notaris nomor 04).",
+   "Yang baru dalam koreksi kali ini adalah rincian akuisisi ketiga: anak usaha BIKE, PNE, membeli 72 dari 100 lembar saham atau 72 persen kepemilikan PT Berau Usaha Mandiri (BUM) dari empat pihak, yaitu PT Anindhita Kaharya Anugrah, Bambang Nindianto, Joinerri Kahar, dan Muharna Deserian. Transaksi ini bernilai Rp72 juta dan sudah efektif secara administrasi sejak 7 Oktober 2026 di hadapan Notaris Elvie Sahdalena. Sama seperti dua transaksi sebelumnya, pembayaran ke pemegang saham lama BUM belum direalisasikan karena menunggu pencairan pinjaman dari PT Penajam Makmur Jaya (PMJ), pemegang saham pengendali BIKE, sehingga BUM maupun FBM dan MTI belum dikonsolidasikan ke laporan keuangan perseroan. Dibandingkan dengan total ekuitas konsolidasian BIKE sebesar Rp65,52 miliar, materialitas transaksi MTI dan FBM masing-masing tercatat 16,62 persen, sedangkan BUM hanya 0,11 persen, semuanya di bawah ambang batas 20 persen sehingga tidak mewajibkan penilai independen atau persetujuan RUPS. Perseroan juga menegaskan transaksi FBM dengan Nadila Syafira, yang menjabat Direktur BIKE, dikategorikan sebagai transaksi afiliasi sesuai POJK 42/2020, sementara transaksi dengan Ibu Vitria dan pemegang saham lama BUM dinyatakan bukan pihak terafiliasi.",
+   "BIKE menjelaskan bahwa pinjaman dari PMJ sudah berjalan, dengan tahap awal senilai Rp125 miliar efektif masuk ke rekening perseroan pada 10 September 2026. Dana ini disebut khusus dipakai untuk menutup biaya administrasi aksi korporasi dan kebutuhan operasional mendesak selama proses penyusunan dokumen Fairness Opinion dari KJPP, bukan untuk pelunasan ketiga akuisisi tersebut. Perseroan menyebut akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) untuk merapikan administrasi transaksi ini sesuai ketentuan pasar modal. Secara akuntansi, utang pembelian saham ke MTI dan FBM diakui sebagai liabilitas keuangan berdasarkan PSAK 22, sementara konsolidasi MTI, FBM, dan BUM ditangguhkan berdasarkan PSAK 65 paragraf 07 dan B80, sampai BIKE benar-benar memperoleh kendali penuh secara hukum dan faktual atas ketiga entitas tersebut."
+  ],
+  "fotoAdegan": "Technicians in safety vests inspecting pipeline valves at a small gas power plant site, overcast sky, East Kalimantan landscape",
+  "takeaway": "Laporan ini condong negatif bagi BIKE, karena koreksi kedua dalam dua hari ini menambah satu lagi akuisisi, yaitu BUM, ke daftar transaksi yang sudah efektif secara hukum tapi belum dibayar tunai, sambil menegaskan bahwa pembiayaannya bergantung pada pinjaman dari pemegang saham pengendali sendiri. Pos yang tersentuh adalah ekuitas, yang jadi acuan uji materialitas transaksi, dan arus kas, karena utang ke tiga pihak penjual saham ini baru akan keluar kas setelah pinjaman PMJ benar-benar cair sepenuhnya, bukan sekaligus seperti tahap pertama Rp125 miliar yang justru dipakai untuk biaya administrasi, bukan pelunasan akuisisi. Pemegang saham perlu memantau pelaksanaan RUPSLB yang disebut perseroan untuk merapikan administrasi transaksi ini, serta tahap pencairan pinjaman PMJ berikutnya, karena baru setelah pembayaran tuntas MTI, FBM, dan BUM bisa masuk ke laporan keuangan konsolidasian BIKE.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bina-ajukan-pmthmetd-ii-rencana-tambah-350-juta-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "BINA Ajukan [PMTHMETD] II, Rencana Tambah 350 Juta Saham Baru",
+  "deck": "Bank Ina berencana menerbitkan hingga 350 juta saham baru tanpa hak memesan terlebih dahulu untuk memperkuat modal, menunggu persetujuan RUPS Independen 11 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T19:42:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/55cd553953_ddd26d6ed2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BINA",
+  "tags": [
+   "BINA",
+   "Bank Ina Perdana",
+   "PMTHMETD",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Bank Ina Perdana Tbk (BINA) mengajukan rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu (PMTHMETD) II, yakni menerbitkan sebanyak-banyaknya 350.000.000 saham biasa baru dengan nilai nominal Rp100 per saham, atau setara maksimal 5,69 persen dari seluruh saham yang telah disetor penuh. Karena tanpa hak memesan efek terlebih dahulu, pemegang saham lama tidak otomatis mendapat jatah membeli saham baru ini. Pembayaran atas saham baru dilakukan tunai, dan rencana ini masih memerlukan persetujuan pemegang saham independen dalam RUPS Independen yang dijadwalkan Jumat, 11 Desember 2026.",
+   "Perseroan menyatakan dana hasil PMTHMETD II akan dipakai seluruhnya sebagai modal kerja untuk penyaluran kredit, sekaligus untuk memenuhi kewajiban modal inti minimum bank. Per 30 September 2026, modal inti Bank Ina tercatat Rp2,64 triliun. Pelaksanaan bisa dilakukan sekaligus atau bertahap dalam dua tahun sejak RUPS Independen menyetujuinya. Perseroan wajib mengumumkan rencana pelaksanaan kepada OJK dan publik paling lambat lima hari kerja sebelum eksekusi, lalu melaporkan hasilnya, termasuk pihak penyetor, jumlah, dan harga saham, paling lambat dua hari kerja setelahnya.",
+   "Rencana ini menyusul PMTHMETD I yang baru rampung: dari jatah maksimal 80.000.000 saham (1,30 persen) yang disetujui pemegang saham independen pada Juni 2026, Bank Ina akhirnya menerbitkan 13.812.155 saham baru dengan harga pelaksanaan Rp3.620 per saham pada 3 November 2026. Karena PMTHMETD I sudah selesai, perseroan berhak mengajukan PMTHMETD II hingga 10 persen saham, namun memilih mengajukan maksimal 5,69 persen. Susunan pemegang saham per 3 November 2026 menunjukkan PT Indolife Pensiontama sebagai pengendali menguasai 22,78 persen, PT Samudra Biru 18,12 persen, PT Gaya Hidup Masa Kini 11,81 persen, dan publik 47,29 persen, dengan free float 20,63 persen. Secara keuangan, total aset Bank Ina naik menjadi Rp31,3 triliun pada akhir 2025 dari Rp24,4 triliun setahun sebelumnya, tetapi total ekuitas justru turun menjadi Rp3,31 triliun dari Rp3,61 triliun."
+  ],
+  "fotoAdegan": "Teller counter inside a modern Indonesian bank branch, customers waiting on benches, soft afternoon light through glass facade",
+  "takeaway": "Kami menilai rencana ini netral, karena manfaat penguatan modal berimbang dengan risiko penambahan jumlah saham beredar yang bisa menggerus porsi kepemilikan pemegang saham publik. Yang tersentuh adalah permodalan bank dan jumlah saham beredar: suntikan dana baru menambah bantalan modal yang dibutuhkan bank untuk menyalurkan kredit, tapi karena penerbitan ini tanpa hak memesan efek terlebih dahulu, pemegang saham lama tidak otomatis kebagian jatah dan porsinya bisa tergerus hingga 5,69 persen, yang pada gilirannya bisa membuat laba per saham terdilusi karena laba yang sama kini dibagi untuk jumlah saham yang lebih banyak. Perlu dicatat juga bahwa ekuitas Bank Ina memang sudah turun 8,9 persen sepanjang 2025, sehingga suntikan modal baru ini datang di saat permodalan sedang melemah. Yang perlu dipantau selanjutnya adalah hasil RUPS Independen pada Jumat, 11 Desember 2026, serta pengumuman harga dan jumlah saham final yang wajib disampaikan Bank Ina paling lambat dua hari kerja setelah pelaksanaan PMTHMETD II.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "true-akui-human-error-berulang-di-laporan-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "TRUE Akui [Human Error] Berulang di Laporan Kuartal III 2026",
+  "deck": "Menjawab permintaan penjelasan BEI, Triniti Dinamik mengakui laporan kuartal III 2026 keliru di banyak pos dan masih menunggak ke Bank Panin.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T19:35:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1684a6945d_11b5ee85cd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUE",
+  "tags": [
+   "TRUE",
+   "Triniti Dinamik",
+   "BEI",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Triniti Dinamik Tbk (TRUE) menyampaikan tanggapan resmi atas permintaan penjelasan dari Bursa Efek Indonesia tertanggal 2 November 2026, terkait laporan keuangan interim per 30 September 2026 yang diserahkan tidak lengkap. BEI mencatat perseroan hanya menyerahkan laporan posisi keuangan dan laporan laba rugi komprehensif sepanjang tiga halaman, tanpa surat pernyataan direksi, laporan perubahan ekuitas, laporan arus kas, maupun catatan atas laporan keuangan. Dalam surat bernomor 181/TD/XI/2026 yang diteken Direktur Utama Yohanes Eddy Christianto pada 4 November 2026, perseroan mengaku kelalaian itu disebabkan kesalahan manusia atau human error dalam penyajian data internal, dan berjanji melengkapi laporan tersebut lewat portal SPEIDXNet.",
+   "BEI juga mempertanyakan data yang menunjukkan penjualan kuartal III 2026 seolah negatif Rp4,02 miliar, karena penjualan sembilan bulan tercatat Rp20,75 miliar, lebih rendah dari penjualan enam bulan yang sudah Rp24,77 miliar. Triniti Dinamik membantah ada penurunan penjualan atau pembatalan unit yang sudah diserahterimakan pada kuartal tersebut, dan menyebut angka yang disajikan sebelumnya keliru akibat kesalahan teknis penarikan data. Perseroan memberikan rincian penjualan per kuartal: segmen The Smith mencatat Rp4,06 miliar di kuartal I, Rp7,48 miliar di kuartal II, dan Rp17,71 miliar di kuartal III, sementara segmen pengelolaan gedung mencatat Rp8,71 miliar, Rp17,29 miliar, dan Rp26,05 miliar pada tiga kuartal yang sama. Yang mencolok, dalam tabel beban pokok penjualan yang disertakan, biaya untuk segmen The Smith di kuartal III justru tertulis sama persis dengan angka penjualannya sendiri, Rp17,71 miliar, menambah daftar ketidakcermatan dalam laporan perseroan.",
+   "Selain itu, BEI menyoroti pergerakan tajam pada sejumlah pos neraca sepanjang kuartal III 2026: piutang lain-lain turun dari Rp76,75 miliar menjadi Rp5,62 miliar, uang muka proyek melonjak dari Rp97,54 miliar menjadi Rp278,55 miliar, persediaan aset real estat turun dari Rp409,04 miliar menjadi Rp348,24 miliar, uang muka penjualan naik dari Rp84,27 miliar menjadi Rp159,57 miliar, dan utang usaha melompat dari Rp12,56 miliar menjadi Rp81,40 miliar. Utang kepada tiga pihak berelasi, PT Agung Perkasa Investindo, PT Panca Agung Gemilang, dan PT Valtos Globalindo, senilai total Rp67,60 miliar yang tercatat per 30 Juni 2026 juga hilang dari laporan per 30 September 2026. Untuk seluruh pertanyaan rinci ini, jawaban perseroan tetap sama, yakni mengakui human error dan berjanji mengoreksi lewat SPEIDXNet, tanpa menjelaskan rincian mutasi atau penyelesaian utang yang diminta bursa.",
+   "Secara kinerja, rugi bersih Triniti Dinamik melebar 63,82 persen menjadi Rp28,21 miliar sepanjang sembilan bulan 2026 dari Rp17,22 miliar pada periode sama tahun lalu, dengan ekuitas turun menjadi Rp195,98 miliar, liabilitas jangka pendek naik menjadi Rp313,65 miliar, dan kas hanya Rp9,14 miliar. Perseroan mengakui masih menunggak pembayaran pokok dan bunga ke Bank Panin atas pinjaman jangka pendek Rp64,64 miliar, sementara pembayaran ke Bank BTN atas pinjaman Rp218,66 miliar berjalan lancar tanpa tunggakan, dengan jatuh tempo yang dikoreksi dari semula tertulis 22 Agustus 2027 menjadi 22 Agustus 2030. Dukungan pendanaan dari pemegang saham pengendali disebut masih sebatas komunikasi dan koordinasi tanpa bentuk atau kepastian konkret, dan rencana penambahan modal tanpa hak memesan efek terlebih dahulu masih dalam pembahasan internal. Di luar itu, BEI juga menemukan laporan versi PDF dan versi XBRL yang diserahkan bersamaan saling berbeda, misalnya total aset Rp732,33 miliar di PDF berbanding Rp675,65 miliar di XBRL dan kas Rp9,14 miliar berbanding Rp7,17 miliar, bahkan laporan arus kas XBRL untuk sembilan bulan ternyata identik dengan laporan arus kas enam bulan sebelumnya, serta saldo komparatif akhir 2025 yang juga berbeda dari laporan auditan tanpa rencana penyajian kembali."
+  ],
+  "fotoAdegan": "Unfinished residential tower under construction with scaffolding and cranes against a cloudy Jakarta skyline, workers visible at ground level",
+  "takeaway": "Laporan ini jelas negatif bagi Triniti Dinamik, karena bukan cuma soal rugi yang melebar, tapi pola berulang mengakui human error pada hampir semua angka penting, termasuk utang yang menunggak ke Bank Panin dan laporan PDF-XBRL yang tidak sinkron, pertanda lemahnya pengendalian internal perseroan dalam mengelola dan melaporkan keuangannya. Yang tersentuh ada di tiga pos utama: ekuitas atau modal bersih perseroan yang menyusut menjadi Rp195,98 miliar, kas yang menipis hanya Rp9,14 miliar padahal liabilitas jangka pendek membengkak ke Rp313,65 miliar, dan beban bunga ke Bank Panin yang menunggak, tiga sinyal yang biasa dipantau pelaku pasar untuk mengukur apakah perusahaan masih mampu membayar kewajiban dalam waktu dekat. Yang perlu dipantau selanjutnya adalah apakah Triniti Dinamik benar-benar menyampaikan laporan keuangan interim kuartal III 2026 yang sudah lengkap dan terkoreksi lewat portal SPEIDXNet seperti yang dijanjikan, bagaimana progres rencana penambahan modal tanpa hak memesan efek terlebih dahulu yang masih di tahap pembahasan internal, serta apakah tunggakan ke Bank Panin bisa diselesaikan sebelum memicu masalah yang lebih luas.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mmlp-laba-inti-melonjak-114-5-saham-masih-anjlok-60",
+  "category": "Aksi Korporasi",
+  "title": "MMLP: Laba Inti [Melonjak] 114,5%, Saham Masih Anjlok 60%",
+  "deck": "Dalam public expose tahunan, manajemen MMLP mengungkap laba inti naik 114,5% menjadi Rp108,1 miliar, pelepasan anak usaha yang berujung rugi, dan tenggat free float baru di 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T19:21:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/924acc625e_bd1fe96aee.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MMLP",
+  "tags": [
+   "MMLP",
+   "public expose",
+   "free float",
+   "laba inti"
+  ],
+  "body": [
+   "PT Mega Manunggal Property Tbk (MMLP) menggelar paparan publik tahunan secara daring melalui Microsoft Teams pada Jumat, 30 Oktober 2026, pukul 14.00 WIB. Perseroan diwakili oleh Presiden Direktur Max Sunarcia, Direktur Lia Prilianty, Direktur Susan Samantha, dan Sekretaris Perusahaan Lophiga Surbakti. Acara ini dihadiri 13 peserta dari luar manajemen dan karyawan Perseroan, enam di antaranya mengajukan pertanyaan seputar kinerja keuangan, pelepasan anak usaha, harga saham, dan kepatuhan free float.",
+   "Dalam sesi tanya jawab, manajemen mengungkap bahwa laba bersih di luar pos non-recurring, yang mencerminkan kesehatan operasional inti bisnis pergudangan, melonjak 114,5 persen menjadi Rp108,1 miliar. Di sisi lain, Perseroan mengonfirmasi telah melepas seluruh saham di anak usahanya, PT Mega Jaya Lestari, yang berujung pada kerugian. Manajemen menyebut penjualan itu sebagai langkah merampingkan portofolio lahan non-produktif dan menyebut kerugiannya bersifat satu kali, tidak berkaitan dengan kinerja operasional utama.",
+   "Sejumlah investor, yakni Saha, Amran, Hans, dan Rinaldi, menyoroti harga saham MMLP yang sudah turun sekitar 60 persen dari harga tender offer wajib Rp580 per saham saat Grup Astra mengambil alih mayoritas saham MMLP, serta menanyakan kemungkinan pembelian kembali saham (buyback). Manajemen hanya menjawab akan terus memperkuat fundamental dan kinerja operasional, tanpa memberi rencana atau anggaran buyback yang konkret. Soal kepatuhan free float, yakni porsi saham yang beredar di tangan publik di luar pemegang saham pengendali, manajemen menyebut Perseroan mendapat kelonggaran waktu hingga 31 Maret 2029 karena kapitalisasi pasarnya saat ini di bawah Rp5 triliun, sembari menyatakan masih mengevaluasi langkah yang bisa ditempuh.",
+   "Terkait ekspansi, manajemen menyebut telah meresmikan proyek gudang baru di Blok H, Cibitung, pada September 2026, namun tidak merinci rencana penambahan kapasitas lain untuk 2026-2027. Soal dividen, Perseroan menyatakan keputusannya akan bergantung pada persetujuan pemegang saham dalam RUPS mendatang, dengan mempertimbangkan laba bersih, likuiditas, dan belanja modal."
+  ],
+  "fotoAdegan": "Rows of modern logistics warehouses with loading docks and parked trucks in an industrial park, late afternoon light",
+  "takeaway": "Laporan ini netral bagi pemegang saham: ada sinyal positif dari laba inti yang melonjak, tapi diimbangi kerugian dari pelepasan anak usaha dan tidak adanya rencana buyback yang jelas di tengah harga saham yang anjlok 60 persen dari harga tender offer. Pos yang tersentuh adalah laba bersih periode ini, karena kerugian pelepasan saham di PT Mega Jaya Lestari bakal muncul sebagai pos luar usaha yang menggerus laba, meski manajemen bilang bisnis gudang sewa yang jadi inti usahanya tumbuh sehat dengan laba inti naik 114,5 persen menjadi Rp108,1 miliar. Free float, yaitu porsi saham yang dipegang publik di luar pemegang saham pengendali, juga jadi sorotan karena belum memenuhi batas minimum yang disyaratkan bursa, meski Perseroan mendapat kelonggaran waktu sampai 31 Maret 2029 akibat kapitalisasi pasarnya yang di bawah Rp5 triliun. Yang perlu dipantau selanjutnya adalah apakah Perseroan benar merealisasikan langkah konkret soal buyback atau pemenuhan free float sebelum tenggat itu, serta keputusan RUPS mendatang soal pembagian dividen yang kini masih digantung.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "toba-jelaskan-ke-bursa-soal-pendanaan-us-429-juta-ke-sbth",
   "category": "Aksi Korporasi",
   "title": "TOBA Jelaskan ke Bursa Soal Pendanaan [US$429 Juta] ke SBTH",
@@ -370,6 +502,217 @@ var ARTICLES = [
   "fotoAdegan": "Modern low-rise office building with glass windows surrounded by palm trees on a quiet street in Bali, overcast morning light",
   "takeaway": "Laporan ini condong negatif bagi ICON karena laba bersih sembilan bulan ambruk 82 persen menjadi Rp367,2 juta dari Rp2,05 miliar tahun lalu, sementara perusahaan baru menarik utang bank jangka pendek Rp21,9 miliar yang sebelumnya tidak ada. Dua pos yang tersentuh adalah laba bersih dan utang berbunga: laba yang menyusut berarti ruang gerak keuangan perusahaan menyempit, sementara utang bank baru menambah beban bunga yang harus dibayar ke depan sehingga mengurangi kas yang tersisa untuk operasional. Di sisi lain, ekuitas atau modal pemegang saham masih relatif stabil di kisaran Rp223 miliar, jadi belum ada penggerusan modal yang parah. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV dan tahun penuh 2026 yang biasanya terbit sekitar akhir April, untuk melihat apakah penurunan laba ini berlanjut dan bagaimana utang bank baru tersebut akan dilunasi.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "city-laba-bersih-naik-49-6-jelang-public-expose-tahunan",
+  "category": "Aksi Korporasi",
+  "title": "CITY: laba bersih [naik] 49,6% jelang public expose tahunan",
+  "deck": "Materi public expose tahunan CITY menunjukkan pendapatan naik ke Rp125,3 miliar dan laba bersih ke Rp17,8 miliar pada sembilan bulan 2026, tanpa penambahan saham baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T16:30:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fa05aa1fbf_684f68ab80.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CITY",
+  "tags": [
+   "CITY",
+   "public expose",
+   "properti",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Natura City Developments Tbk (CITY) menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia pada 4 November 2026, menyusul surat rencana penyelenggaraan yang sudah disampaikan sejak 26 Oktober 2026. Surat ditandatangani oleh Rio Tinto Sirait selaku Corporate Secretary, yang juga menjabat sebagai salah satu Direktur perusahaan.",
+   "Materi tersebut memuat kinerja keuangan tidak diaudit untuk sembilan bulan pertama 2026. Pendapatan bersih tercatat Rp125,3 miliar, naik dari Rp104,8 miliar pada periode yang sama tahun 2025. Laba bersih melonjak ke Rp17,8 miliar dari Rp11,9 miliar, sementara laba bersih per saham naik dari Rp2,2 menjadi Rp3,3. Di sisi neraca per 30 September 2026, total aset Rp1,14 triliun, total utang Rp239,6 miliar, dan ekuitas Rp902,8 miliar, naik dari Rp884,9 miliar pada akhir 2025.",
+   "Perusahaan menegaskan tidak melakukan aksi korporasi sepanjang 2026, sehingga jumlah saham beredar tetap 5.405.188.966 lembar. Pemegang saham di atas 5 persen adalah PT Sakti Generasi Perdana (20,63 persen), PT Tunas Tumbuh Berkembang (9,89 persen), Golden Capital Foundation Limited (9,44 persen), dan PT Karya Cakrawala Perdana (5,81 persen), sementara publik memegang 54,23 persen. Untuk proyek Serpong Natura City per 30 September 2026, dari total 2.105 unit yang dikembangkan, 1.780 unit sudah terjual namun baru 1.038 unit yang tuntas proses akta jual belinya (AJB), dengan 800 unit sudah berpenghuni."
+  ],
+  "fotoAdegan": "Workers laying roof tiles on rows of unfinished suburban houses in a large housing complex, afternoon light",
+  "takeaway": "Laporan ini condong positif bagi CITY karena pendapatan dan laba bersihnya tumbuh dua digit dalam sembilan bulan, tanpa menambah utang besar atau menerbitkan saham baru yang bisa mengecilkan bagian setiap pemegang saham. Pos yang tersentuh adalah ekuitas, yakni total kekayaan bersih perusahaan setelah dikurangi utang, yang naik dari Rp884,9 miliar menjadi Rp902,8 miliar, serta laba per saham, yaitu porsi laba bersih yang menjadi hak setiap satu lembar saham, yang naik dari Rp2,2 menjadi Rp3,3. Kedua pos ini yang biasanya dicermati pelaku pasar karena menunjukkan apakah keuntungan perusahaan benar mengalir ke pemegang saham, bukan sekadar tumbuh di atas kertas. Catatan yang perlu digarisbawahi, dari 1.780 unit yang sudah terjual di Serpong Natura City, baru 1.038 unit yang tuntas proses akta jual belinya, jadi masih ada selisih penjualan yang belum sepenuhnya terealisasi menjadi pendapatan tercatat. Yang perlu dipantau berikutnya adalah sesi public expose pada 9 November 2026, khususnya jawaban manajemen pada sesi tanya jawab soal rencana penyelesaian unit yang masih indent maupun yang belum AJB.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tguk-akui-belum-ada-sinergi-konkret-dengan-pengendali-baru-vcg",
+  "category": "Aksi Korporasi",
+  "title": "TGUK Akui Belum Ada [Sinergi] Konkret dengan Pengendali Baru VCG",
+  "deck": "TGUK menjelaskan ke BEI strategi usaha pasca pengambilalihan oleh Visionary Capital Global, namun sinergi operasional dengan pengendali baru itu belum terwujud secara konkret.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T16:26:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b8337b658_da43bfbeb5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGUK",
+  "tags": [
+   "TGUK",
+   "akuisisi",
+   "Visionary Capital Global",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Platinum Wahab Nusantara Tbk (TGUK) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-13620/BEI.PP3/10-2026 tertanggal 30 Oktober 2026, yang diterima perseroan pada 2 November 2026. Lewat surat bernomor 236/PWN/DIR/XI/2026 yang ditandatangani Direktur Agus Suhada, perseroan menjelaskan arah pengembangan usaha setelah terjadinya perubahan pengendali perusahaan.",
+   "Perseroan memaparkan lima arah strategi: penguatan bisnis daging beku atau frozen meat, pengembangan food processing, optimalisasi bisnis food and beverage, penguatan rantai pasok, serta perbaikan tata kelola dan pengendalian internal. Lini daging beku disebut sudah berjalan sejak kuartal IV 2025 dengan penjualan perdana pada Desember 2025 dan menunjukkan pertumbuhan penjualan pada kuartal I 2026. Seluruh lini usaha ditargetkan berjalan bertahap hingga kuartal III atau IV 2027, dengan rencana waktu yang disebut masih bisa berubah menyesuaikan kondisi pasar dan ketersediaan dana. Perseroan juga memetakan lima risiko utama yaitu fluktuasi harga bahan baku, kualitas operasional, persaingan pasar, likuiditas modal kerja, dan kepatuhan perizinan, masing-masing dengan langkah mitigasi seperti diversifikasi pemasok dan pengendalian biaya.",
+   "Poin yang paling mencolok dalam tanggapan ini adalah pengakuan bahwa sampai tanggal surat terbit, belum ada sinergi operasional konkret yang terwujud antara TGUK dan Visionary Capital Global Pte Ltd (VCG), pengendali baru perseroan, baik dalam bentuk transfer teknologi, akses pasar, integrasi rantai pasok, maupun kerja sama komersial. Perseroan menyatakan sejumlah pihak yang berafiliasi dengan VCG memang telah terlibat dalam kepengurusan sebelum perubahan pengendali efektif, namun itu disebut sebagai bagian dari proses transisi, bukan bentuk sinergi usaha. Perseroan juga menegaskan belum memiliki rencana yang diputuskan untuk mengakuisisi entitas anak baru, serta tengah mengevaluasi kebutuhan kompetensi sumber daya manusia di bidang pengelolaan daging beku, rantai pasok, dan sistem informasi."
+  ],
+  "fotoAdegan": "Workers stacking boxes of frozen meat into a cold storage warehouse, forklift nearby, pallets of packaged goods, industrial lighting",
+  "takeaway": "Laporan ini condong netral: pengakuan bahwa sinergi dengan Visionary Capital Global belum terwujud konkret menahan optimisme atas tujuan akuisisi, tapi lini daging beku yang dipaparkan di sini justru sudah mencatat penjualan sejak Desember 2025 dan ikut menopang pemulihan kinerja TGUK. Pos yang tersentuh adalah laba per saham, yaitu porsi laba perusahaan untuk setiap lembar saham, karena keberlanjutan laba TGUK ke depan bergantung pada apakah lini usaha baru seperti daging beku, makanan olahan, dan F&B ini benar tumbuh sesuai linimasa yang disebutkan, bukan pada sinergi dengan pengendali baru yang justru belum terbukti. Yang perlu dipantau berikutnya adalah apakah TGUK akhirnya mewujudkan kerja sama nyata dengan VCG seperti transfer teknologi atau akses pasar, dan apakah muncul rencana akuisisi entitas anak baru, karena sampai surat ini terbit keduanya masih berstatus wacana tanpa kepastian waktu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "true-gelar-public-expose-tahunan-18-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "TRUE Gelar [Public Expose] Tahunan 18 November 2026",
+  "deck": "Triniti Dinamik Tbk menjadwalkan Public Expose Tahunan tahun buku 2025 secara daring pada 18 November 2026, pendaftaran ditutup sehari sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T16:12:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f208274417_80427e241f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUE",
+  "tags": [
+   "TRUE",
+   "Triniti Dinamik",
+   "Public Expose",
+   "Properti"
+  ],
+  "body": [
+   "PT Triniti Dinamik Tbk (TRUE) akan menggelar Public Expose Tahunan untuk tahun buku yang berakhir pada 2025. Acara ini dijadwalkan pada Rabu, 18 November 2026, pukul 11.15 WIB sampai selesai, digelar secara daring melalui aplikasi Zoom Meeting. Agendanya adalah presentasi kinerja perusahaan oleh jajaran direksi, dilanjutkan sesi tanya jawab dengan peserta.",
+   "Perusahaan mewajibkan seluruh peserta mendaftar lebih dulu melalui formulir registrasi resmi, dengan tenggat waktu paling lambat 17 November 2026 pukul 17.00 WIB. Materi presentasi Public Expose akan dirilis pada 13 November 2026 dan bisa diunduh di situs resmi Triniti Dinamik maupun situs Bursa Efek Indonesia.",
+   "Rencana ini disampaikan ke otoritas bursa melalui surat bernomor 178/TD/XI/2026 yang ditandatangani Direktur Utama Yohanes E. Christianto, mengacu pada Keputusan Direksi BEI Nomor Kep-00087/BEI/12-2025 tentang kewajiban penyampaian informasi. Public Expose ini berlangsung tak lama setelah Triniti Dinamik melaporkan rugi bersih yang melebar di kuartal III 2026 serta mengakui adanya kesalahan berulang dalam penyusunan laporan keuangannya."
+  ],
+  "fotoAdegan": "Workers inspecting construction progress on a mid-rise residential building, cranes visible, late afternoon light in a Tangerang suburb.",
+  "takeaway": "Pengumuman jadwal Public Expose ini sendiri netral, karena cuma menjalankan kewajiban rutin tahunan ke bursa dan belum membawa angka kinerja baru. Yang membuatnya relevan adalah waktunya datang tepat setelah Triniti Dinamik melaporkan rugi bersih yang melebar ke Rp28,2 miliar dan mengakui kesalahan berulang pada angka utang dan arus kasnya, yaitu catatan uang yang benar-benar masuk dan keluar dari kas perusahaan, bukan sekadar angka di atas kertas. Sesi tanya jawab pada acara ini jadi kesempatan bagi investor meminta manajemen menjelaskan langsung soal keakuratan laporan tersebut. Yang perlu dipantau berikutnya adalah tenggat pendaftaran pada 17 November 2026 pukul 17.00 WIB, rilis materi presentasi pada 13 November 2026, dan acara utamanya pada Rabu, 18 November 2026 pukul 11.15 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "army-gelar-rupslb-kedua-audit-keuangan-2021-2022-masih-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "ARMY Gelar RUPSLB Kedua, Audit Keuangan 2021-2022 Masih [Tertunda]",
+  "deck": "RUPSLB pertama Armidian Karyatama gagal kuorum, RUPSLB kedua digelar 13 November 2026 membahas pergantian direksi dan keterlambatan audit laporan keuangan 2021-2022.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T16:12:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c0f4fb49ea_880f76a384.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARMY",
+  "tags": [
+   "ARMY",
+   "RUPSLB",
+   "Armidian Karyatama",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Armidian Karyatama Tbk (ARMY) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua yang akan digelar Jumat, 13 November 2026 pukul 09.00 hingga 11.00 WIB di Apartemen Ambassade Residences, Jalan Denpasar Raya Kav. 5-7, Karet Kuningan, Setiabudi, Jakarta Selatan. RUPSLB kedua ini dilakukan karena RUPSLB pertama pada 30 Oktober 2026 tidak mencapai kuorum kehadiran pemegang saham yang disyaratkan. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per Selasa, 3 November 2026 pukul 16.00 WIB. Untuk agenda pertama hingga keempat, rapat sah jika dihadiri pemegang saham yang mewakili minimal sepertiga total saham berhak suara, sementara untuk agenda kelima yang menyangkut perubahan anggaran dasar, syaratnya naik menjadi minimal tiga per lima.",
+   "Agenda pertama dan kedua rapat adalah persetujuan perubahan susunan direksi dan dewan komisaris, baik pemberhentian maupun pengangkatan anggota baru, serta penetapan remunerasi direksi dan komisaris untuk tahun buku berjalan. Perseroan menyebut perubahan susunan direksi ini dimaksudkan untuk memberi mandat kepada manajemen baru agar bertanggung jawab menyelesaikan keterlambatan penyampaian laporan keuangan perusahaan. Dewan komisaris akan mengusulkan calon direksi dan komisaris, dan rapat juga diminta melimpahkan kewenangan penetapan remunerasi direksi kepada dewan komisaris.",
+   "Agenda ketiga memuat penjelasan soal keterlambatan proses audit laporan keuangan tahun buku 2021 dan 2022 serta kondisi terkini perusahaan, termasuk laporan status pelaksanaan debt to equity swap atau konversi utang menjadi saham yang sudah disetujui pemegang saham sejak RUPSLB 24 Agustus 2021. Dalam agenda ini, perusahaan juga meminta persetujuan pemegang saham untuk memperpanjang lagi waktu audit laporan keuangan 2021 dan 2022. Agenda keempat meminta persetujuan penunjukan kantor akuntan publik atau akuntan publik terdaftar untuk mengaudit laporan keuangan tahun buku 2023, 2024, dan 2025.",
+   "Agenda kelima adalah persetujuan penyesuaian maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, khususnya kelompok usaha real estat milik sendiri atau disewa, beserta perubahan Pasal 3 anggaran dasar. Pemegang saham yang ingin memberi, mengubah, atau mencabut kuasa secara elektronik melalui eASY.KSEI dapat melakukannya sejak tanggal pemanggilan hingga paling lambat Kamis, 12 November 2026 pukul 12.00 WIB. Surat pemanggilan ditandatangani Direktur Utama ARMY, Firdaus, dan ditembuskan antara lain ke Bursa Efek Indonesia, PT Kustodian Sentral Efek Indonesia, serta biro administrasi efek perseroan, PT Ficomindo Buana Registrar."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a modern apartment building function hall in Jakarta, soft morning light through large windows",
+  "takeaway": "Laporan ini condong negatif bagi ARMY, karena permintaan perpanjangan waktu audit untuk laporan keuangan tahun buku 2021 dan 2022 berarti lebih dari empat tahun setelah periode itu berakhir perusahaan masih belum punya laporan keuangan teraudit yang lengkap, ditambah RUPSLB pertamanya pada 30 Oktober 2026 gagal mencapai kuorum kehadiran pemegang saham. Tanpa laporan keuangan teraudit, pemegang saham tidak punya pegangan pasti soal ekuitas atau arus kas perusahaan, dan rencana debt to equity swap, yakni mengubah utang perusahaan menjadi saham baru, yang sudah disetujui sejak RUPSLB 24 Agustus 2021 baru akan dilaporkan statusnya sekarang, padahal itu langsung menambah jumlah saham beredar dan bisa menggerus laba per saham pemegang saham lama. Pergantian susunan direksi dan komisaris yang diajukan disebut sebagai bagian dari upaya menuntaskan keterlambatan ini, sehingga hasilnya bergantung pada siapa yang akhirnya terpilih. Yang perlu dipantau adalah apakah RUPSLB kedua pada 13 November 2026 pukul 09.00 WIB kali ini berhasil mencapai kuorum, dengan batas pemberian atau pencabutan kuasa elektronik melalui eASY.KSEI paling lambat 12 November 2026 pukul 12.00 WIB.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inps-gigp-kuasai-88-32-lewat-penempatan-terbatas-rp125-m",
+  "category": "Aksi Korporasi",
+  "title": "INPS: GIGP Kuasai [88,32%] Lewat Penempatan Terbatas Rp125 M",
+  "deck": "RUPSLB 6 November akan memutuskan penerbitan hingga 1,25 miliar saham baru INPS tanpa hak memesan efek terlebih dahulu, seluruhnya diambil pengendali GIGP.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T16:06:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/60a89dbfce_957ea9d35d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "private placement",
+   "PMTHMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) menerbitkan keterbukaan informasi ketiga terkait rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD), setelah pengumuman awal pada 25 September 2026 diubah dua kali pada 21 Oktober dan 29 Oktober 2026. Dalam dokumen bertanggal 3 November 2026 ini, perseroan memaparkan kondisi keuangannya per 30 September 2026: ekuitas negatif Rp36,54 miliar, modal kerja bersih negatif Rp26,17 miliar, dan total liabilitas Rp207,88 miliar yang setara 121,34 persen dari total aset Rp171,34 miliar. Kondisi inilah yang membuat perseroan memenuhi syarat Pasal 8B POJK 14/2019 untuk menambah modal tanpa memberi hak memesan efek lebih dulu kepada pemegang saham lama. Rapat Umum Pemegang Saham Luar Biasa yang akan memutuskan rencana ini sendiri diundur dari semula 3 November menjadi Jumat, 6 November 2026 pukul 14.00 WIB, menyusul ralat pemanggilan rapat pada 30 Oktober 2026.",
+   "Perseroan berencana menerbitkan saham baru sebanyak-banyaknya 1,25 miliar lembar dengan nilai nominal Rp100 per saham, pada harga pelaksanaan yang sama yaitu Rp100 per saham, sehingga dana yang masuk bisa mencapai Rp125 miliar. Seluruh saham baru itu akan diambil oleh PT Graha Inti Guna Persada (GIGP), pemegang saham pengendali yang juga tercatat sebagai pihak terafiliasi perseroan. Dari dana tersebut, sekitar Rp33,55 miliar atau 26,8 persen dipakai untuk melunasi utang perseroan, sedangkan sisanya, sekitar Rp91,45 miliar atau 73,2 persen, disuntikkan sebagai penyertaan modal ke entitas anak PT Tri Satria Indah Motor untuk belanja modal dan modal kerja.",
+   "Perubahan struktur kepemilikan tergolong besar. Saham GIGP naik dari 428.058.000 lembar (65,86 persen) menjadi 1.678.058.000 lembar (88,32 persen), bertambah tepat sebanyak jumlah saham baru yang diterbitkan. Pemegang saham lain tidak melepas satu lembar pun, tapi porsinya tergerus karena basis saham beredar membesar dari 650 juta menjadi 1,9 miliar lembar: saham Andry Hakim tetap 65.132.000 lembar namun porsinya turun dari 10,02 persen menjadi 3,43 persen, saham publik yang masing-masing di bawah 5 persen tetap 156.809.000 lembar tapi porsinya turun dari 24,12 persen menjadi 8,25 persen, sementara saham Gloria Jaya dan Jerry Erfansyah masing-masing tetap 500 lembar dengan porsi di bawah 0,1 persen.",
+   "Harga pelaksanaan Rp100 per saham itu lebih tinggi dari indikasi nilai wajar yang dihitung penilai independen KJPP Ferdinand, Danar, Ichsan dan Rekan, yakni Rp91,22 per saham berdasarkan laporan keuangan per 30 Juni 2026. Saham INPS sendiri saat ini masih disuspensi di seluruh pasar oleh BEI. Bursa telah menyatakan pencatatan saham baru tetap bisa dilakukan, tetapi perdagangannya baru berjalan setelah suspensi dicabut. Jika RUPSLB menyetujui, penyetoran dana dan penerbitan saham baru direncanakan berlangsung 18 November 2026, dengan batas akhir pelaksanaan 31 Desember 2026."
+  ],
+  "fotoAdegan": "Workers inspecting rows of LPG gas cylinders at an industrial bulk filling depot, overcast morning light, Jakarta outskirts",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik INPS, karena seluruh suntikan modal Rp125 miliar diserap pengendali GIGP sehingga kepemilikannya melonjak dari 65,86 persen menjadi 88,32 persen, sementara porsi publik tergerus dari 24,12 persen menjadi 8,25 persen tanpa mereka melepas satu lembar saham pun. Yang tersentuh adalah ekuitas dan jumlah saham beredar: dana ini memang menambal ekuitas yang negatif Rp36,5 miliar dan menurunkan rasio utang terhadap aset dari 121 persen, tapi jumlah saham beredar melonjak hampir tiga kali lipat dari 650 juta menjadi 1,9 miliar lembar, sehingga laba perseroan ke depan harus dibagi ke basis saham yang jauh lebih besar dan laba per saham bisa terdilusi signifikan. Yang perlu dipantau adalah hasil RUPSLB pada 6 November 2026 yang akan mengesahkan rencana ini, serta realisasi penyetoran dan penerbitan saham yang ditargetkan 18 November 2026 dan paling lambat 31 Desember 2026, mengingat saham INPS masih disuspensi di seluruh pasar sehingga publik belum bisa memperdagangkannya sampai suspensi dicabut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tfco-harga-saham-naik-tanpa-diketahui-dividen-masih-ditahan",
+  "category": "Aksi Korporasi",
+  "title": "TFCO: Harga Saham Naik Tanpa Diketahui, [Dividen] Masih Ditahan",
+  "deck": "Dalam public expose insidentil, manajemen TFCO mengaku tidak tahu penyebab lonjakan harga saham dan menjelaskan dividen belum bisa dibagikan karena cadangan wajib belum terpenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T15:53:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/94e82800f1_d33611c190.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TFCO",
+  "tags": [
+   "TFCO",
+   "Public Expose",
+   "Dividen",
+   "Tifico Fiber Indonesia"
+  ],
+  "body": [
+   "PT Tifico Fiber Indonesia Tbk menggelar public expose insidentil secara daring melalui Google Meeting pada Selasa, 3 November 2026, pukul 14.00 sampai 14.30 WIB. Acara dihadiri jajaran komisaris dan direksi Perseroan, yaitu Presiden Komisaris Anton Wiratama, Presiden Direktur Sugito Budiono, Wakil Presiden Direktur sekaligus Direktur Marketing Nio I.T, Direktur HRD Johan Wirjanata, Direktur Finance & Accounting Silvia Wiratama, Direktur Procurement Diana Budiman, dan Direktur Produksi Wuryanto. Peserta eksternal yang hadir hanya tiga orang: analis Daniel dari Private Equity Holdings, Tatu Hudia dari media Periskop.id, dan Davy Rizqy Akbar yang mewakili Bursa Efek Indonesia.",
+   "Dalam sesi tanya jawab, analis Daniel menanyakan apakah Perseroan mengetahui ada komunikasi atau perubahan pemegang saham yang bisa menjelaskan lonjakan harga saham TFCO sebesar 94,55 persen dalam tiga hari, padahal laba Perseroan justru turun. Manajemen menjawab tidak mengetahui penyebab kenaikan tersebut dan menegaskan tidak ada rencana, kesepakatan, atau transaksi investor tertentu yang diketahui Perseroan sebagai pemicunya.",
+   "Soal kinerja, manajemen menjelaskan pendapatan semester pertama 2026 naik 5,2 persen, tetapi laba bruto turun 3,1 persen dan laba operasi turun 7,4 persen. Penyebabnya adalah kenaikan harga bahan baku akibat konflik di kawasan Timur Tengah pada kuartal II 2026, yang tidak bisa diteruskan seluruhnya ke harga jual ke pelanggan. Perseroan juga mencatat rugi selisih kurs sekitar US$109 ribu pada Januari-Juni 2026 akibat pelemahan rupiah, serta pendapatan bunga yang turun 6 persen dari US$1,4 juta menjadi US$1,3 juta. Secara keseluruhan, laba operasi turun sekitar US$200 ribu dibandingkan periode yang sama tahun sebelumnya, sementara laba komprehensif enam bulan tercatat US$3,27 juta.",
+   "Mengenai rencana penggunaan dana, manajemen menyatakan tidak ada rencana investasi baru tahun ini dan Perseroan akan fokus melakukan efisiensi di seluruh sektor. Untuk dividen, manajemen menjelaskan bahwa sesuai UUPT 40/2007, Perseroan wajib menyisihkan sebagian laba bersih tiap tahun buku untuk cadangan wajib hingga mencapai minimal 20 persen dari modal ditempatkan dan disetor. Karena posisi cadangan wajib Perseroan saat ini belum mencapai batas tersebut, Perseroan belum dapat membagikan dividen untuk saat ini."
+  ],
+  "fotoAdegan": "Workers inspecting rows of synthetic polyester fiber spools on a textile factory production line, industrial lighting",
+  "takeaway": "Laporan ini netral bagi TFCO karena isinya klarifikasi manajemen menjawab pertanyaan analis dan media, bukan informasi baru yang mengubah arah kinerja Perseroan, meski ada konfirmasi bahwa dividen belum bisa dibagikan tahun ini. Yang tersentuh adalah margin laba dan dividen, margin yaitu selisih antara harga jual dan biaya produksi yang tertekan karena kenaikan harga bahan baku akibat konflik di Timur Tengah tidak bisa diteruskan penuh ke harga jual produk, sementara dividen tertahan karena Perseroan wajib menyisihkan laba untuk cadangan wajib, semacam tabungan wajib perusahaan yang diatur undang-undang, sampai mencapai 20 persen dari modal disetor, dan TFCO belum mencapai batas itu. Yang perlu dipantau berikutnya adalah kinerja semester II 2026, apakah tekanan harga bahan baku mereda dan posisi cadangan wajib Perseroan bertambah sehingga dividen bisa mulai dibagikan. Pergerakan harga saham juga masih layak diawasi karena manajemen sendiri mengaku tidak mengetahui penyebab kenaikan 94,55 persen dalam tiga hari itu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dgik-alihkan-400-2-juta-saham-treasuri-ke-pengendali-gdk",
+  "category": "Aksi Korporasi",
+  "title": "DGIK Alihkan 400,2 Juta Saham Treasuri ke [Pengendali] GDK",
+  "deck": "Nusa Konstruksi Enjiniring (DGIK) akan menjual seluruh 400,2 juta saham treasurinya ke pengendali, PT Global Dinamika Kencana, mulai 11 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T15:47:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43d93146f0_7a537fe88d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGIK",
+  "tags": [
+   "DGIK",
+   "saham treasuri",
+   "buyback",
+   "GDK"
+  ],
+  "body": [
+   "PT Nusa Konstruksi Enjiniring Tbk (DGIK) menyampaikan keterbukaan informasi soal rencana penjualan saham hasil pembelian kembali (saham treasuri) yang selama ini disimpan perusahaan. Saham tersebut berasal dari program buyback yang dilakukan DGIK pada periode 7 Maret 2022 sampai 19 September 2023 sebanyak 400.214.500 lembar, berdasarkan aturan OJK soal pembelian kembali saham saat pasar berfluktuasi signifikan. Hingga saat ini seluruh saham itu masih tercatat sebagai saham treasuri milik perusahaan.",
+   "Perusahaan kini berencana menjual maksimum 400.214.500 saham treasuri tersebut, atau seluruhnya, kepada PT Global Dinamika Kencana (GDK). GDK adalah perusahaan induk investasi yang sekaligus merupakan pengendali DGIK, sehingga transaksi ini tergolong transaksi dengan pihak terafiliasi. Penjualan akan dilakukan di luar bursa melalui pasar negosiasi, bisa dalam satu tahap atau beberapa tahap, dimulai 11 November 2026 dan berlangsung hingga 31 Desember 2026. Harga jualnya sendiri belum diumumkan dan disebut akan mengacu pada peraturan perundang-undangan yang berlaku.",
+   "Keterbukaan ini disampaikan DGIK untuk memenuhi Pasal 35 POJK No. 29/2023, yang mewajibkan perusahaan mengumumkan rencana penjualan saham treasuri serta menyerahkan bukti pengumumannya ke OJK paling lambat lima hari kerja sebelum transaksi dilaksanakan."
+  ],
+  "fotoAdegan": "Construction workers and cranes at a high-rise building site in a Jakarta business district, overcast afternoon light.",
+  "takeaway": "Laporan ini netral karena saham yang dialihkan tidak dijual ke investor baru, melainkan ke PT Global Dinamika Kencana yang sudah menjadi pengendali DGIK, dan harga jualnya belum diungkap sehingga belum bisa dinilai apakah menguntungkan kas perusahaan. Yang tersentuh adalah jumlah saham beredar: saham treasuri yang selama ini disimpan dan tidak dihitung dalam laba per saham akan kembali beredar sebanyak-banyaknya 400,2 juta lembar, sehingga laba per saham bisa terdilusi kalau laba perusahaan tidak ikut naik seiring bertambahnya saham. Di sisi lain, kalau penjualan ini benar terlaksana, DGIK akan menerima uang tunai dari GDK sebagai pembayaran saham, yang berarti ada tambahan arus kas masuk bagi perusahaan. Transaksi ini juga sejalan dengan proses GDK menjual 25 persen saham DGIK ke Tokyu Construction yang baru diteken pada hari yang sama, sehingga pengalihan saham treasuri ini kemungkinan menjadi bagian dari penataan kepemilikan sebelum porsi tersebut beralih ke Tokyu. Yang perlu dipantau adalah pelaksanaan penjualan yang dijadwalkan berlangsung mulai 11 November 2026 sampai 31 Desember 2026, serta pengumuman harga transaksi yang hingga kini belum diungkap.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bike-jadwalkan-rupsi-dan-rupslb-11-desember",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jadwalkan [RUPSI] dan RUPSLB 11 Desember",
+  "deck": "BIKE akan menggelar RUPSLB dan RUPSI pada 11 Desember 2026, dengan pemegang saham tercatat per 18 November 2026 yang berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T15:43:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2302cd2bd5_1cbab9708a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "RUPSLB",
+   "RUPSI",
+   "KSEI"
+  ],
+  "body": [
+   "Direksi PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sekaligus Rapat Umum Pemegang Saham Independen (RUPSI) pada Jumat, 11 Desember 2026, pukul 14.00 WIB, di Jl. Prof Dr Soepomo No. 323, Tebet, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham, yaitu daftar resmi pemilik saham perseroan, per Rabu, 18 November 2026. Surat pemanggilan resmi yang memuat agenda rapat akan diterbitkan di situs penyedia layanan RUPS elektronik (e-RUPS), situs Bursa Efek Indonesia, dan situs perseroan, dalam bahasa Indonesia dan Inggris, pada Kamis, 19 November 2026.",
+   "Pemegang saham yang menguasai sedikitnya 1/20 atau 5 persen dari total saham dengan hak suara dapat mengusulkan tambahan mata acara rapat, paling lambat tujuh hari sebelum tanggal pemanggilan tersebut, yaitu sekitar 12 November 2026. Usulan itu harus diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, disertai alasan dan bahan pendukung, serta tidak bertentangan dengan anggaran dasar perseroan maupun aturan Otoritas Jasa Keuangan.",
+   "Bagi pemegang saham yang tidak hadir langsung, perseroan menyediakan pemberian kuasa dan pilihan suara secara elektronik melalui sistem eASY.KSEI, layanan rapat elektronik milik PT Kustodian Sentral Efek Indonesia selaku lembaga penyimpanan saham. Kuasa dan pilihan suara itu harus disampaikan paling lambat satu hari kerja sebelum rapat, yaitu Kamis, 10 Desember 2026."
+  ],
+  "fotoAdegan": "Rows of empty formal chairs facing a small stage in a corporate conference hall, soft morning light, no visible signage.",
+  "takeaway": "Laporan ini netral bagi BIKE, karena isinya sebatas jadwal dan mekanisme administratif rapat, belum memuat agenda atau angka transaksi yang bisa dinilai dampaknya terhadap kinerja perseroan. Pos yang disentuh di sini adalah hak suara pemegang saham, sebab RUPS Independen secara khusus digelar untuk transaksi yang mengandung benturan kepentingan, di mana suara pemegang saham yang berafiliasi dengan pihak terkait dalam transaksi itu tidak dihitung. Ini relevan karena BIKE belakangan mengoreksi tiga pengumuman akuisisi, yaitu FBM, PNE, dan BUM, dan mengakui ketiganya melibatkan direksi perseroan sendiri. Yang perlu dipantau adalah isi surat pemanggilan resmi yang terbit 19 November 2026, karena di situlah agenda rapat, termasuk apakah menyangkut persetujuan atas akuisisi-akuisisi tersebut, baru akan diungkap. Tenggat lain yang perlu diingat pemegang saham adalah batas pemberian kuasa elektronik pada 10 Desember 2026, sehari sebelum rapat digelar pada 11 Desember 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham",

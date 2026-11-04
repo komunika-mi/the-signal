@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kija-pendapatan-9m26-naik-16-laba-bersih-turun-38",
+  "category": "Aksi Korporasi",
+  "title": "KIJA: Pendapatan 9M26 [Naik] 16%, Laba Bersih Turun 38%",
+  "deck": "Jababeka membukukan pendapatan Rp4,25 triliun pada 9M26, naik 16 persen, tapi laba bersih turun 38 persen akibat biaya refinancing obligasi dolar.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KIJA",
+   "Jababeka",
+   "kinerja keuangan",
+   "kawasan industri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a3c6bb392_c89012585d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-koreksi-kedua-ke-bursa-rincian-akuisisi-bum",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Koreksi Kedua ke Bursa, Rincian Akuisisi [BUM]",
+  "deck": "Koreksi kedua jawaban BIKE ke Bursa mengungkap akuisisi 72% saham BUM senilai Rp72 juta, menambah daftar transaksi yang pembayarannya masih tertunda menanti pinjaman pengendali.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43841d172b_aef1884f84.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bina-ajukan-pmthmetd-ii-rencana-tambah-350-juta-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "BINA Ajukan [PMTHMETD] II, Rencana Tambah 350 Juta Saham Baru",
+  "deck": "Bank Ina berencana menerbitkan hingga 350 juta saham baru tanpa hak memesan terlebih dahulu untuk memperkuat modal, menunggu persetujuan RUPS Independen 11 Desember 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BINA",
+   "Bank Ina Perdana",
+   "PMTHMETD",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/55cd553953_ddd26d6ed2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "true-akui-human-error-berulang-di-laporan-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "TRUE Akui [Human Error] Berulang di Laporan Kuartal III 2026",
+  "deck": "Menjawab permintaan penjelasan BEI, Triniti Dinamik mengakui laporan kuartal III 2026 keliru di banyak pos dan masih menunggak ke Bank Panin.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "Triniti Dinamik",
+   "BEI",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1684a6945d_11b5ee85cd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mmlp-laba-inti-melonjak-114-5-saham-masih-anjlok-60",
+  "category": "Aksi Korporasi",
+  "title": "MMLP: Laba Inti [Melonjak] 114,5%, Saham Masih Anjlok 60%",
+  "deck": "Dalam public expose tahunan, manajemen MMLP mengungkap laba inti naik 114,5% menjadi Rp108,1 miliar, pelepasan anak usaha yang berujung rugi, dan tenggat free float baru di 2029.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MMLP",
+   "public expose",
+   "free float",
+   "laba inti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/924acc625e_bd1fe96aee.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "toba-jelaskan-ke-bursa-soal-pendanaan-us-429-juta-ke-sbth",
   "category": "Aksi Korporasi",
   "title": "TOBA Jelaskan ke Bursa Soal Pendanaan [US$429 Juta] ke SBTH",
@@ -228,6 +308,134 @@ var ARTICLES = [
    "utang bank"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104164732-65586-0/FinancialStatement-2026-III-ICON.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "city-laba-bersih-naik-49-6-jelang-public-expose-tahunan",
+  "category": "Aksi Korporasi",
+  "title": "CITY: laba bersih [naik] 49,6% jelang public expose tahunan",
+  "deck": "Materi public expose tahunan CITY menunjukkan pendapatan naik ke Rp125,3 miliar dan laba bersih ke Rp17,8 miliar pada sembilan bulan 2026, tanpa penambahan saham baru.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CITY",
+   "public expose",
+   "properti",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fa05aa1fbf_684f68ab80.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tguk-akui-belum-ada-sinergi-konkret-dengan-pengendali-baru-vcg",
+  "category": "Aksi Korporasi",
+  "title": "TGUK Akui Belum Ada [Sinergi] Konkret dengan Pengendali Baru VCG",
+  "deck": "TGUK menjelaskan ke BEI strategi usaha pasca pengambilalihan oleh Visionary Capital Global, namun sinergi operasional dengan pengendali baru itu belum terwujud secara konkret.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGUK",
+   "akuisisi",
+   "Visionary Capital Global",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b8337b658_da43bfbeb5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "true-gelar-public-expose-tahunan-18-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "TRUE Gelar [Public Expose] Tahunan 18 November 2026",
+  "deck": "Triniti Dinamik Tbk menjadwalkan Public Expose Tahunan tahun buku 2025 secara daring pada 18 November 2026, pendaftaran ditutup sehari sebelumnya.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "Triniti Dinamik",
+   "Public Expose",
+   "Properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f208274417_80427e241f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "army-gelar-rupslb-kedua-audit-keuangan-2021-2022-masih-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "ARMY Gelar RUPSLB Kedua, Audit Keuangan 2021-2022 Masih [Tertunda]",
+  "deck": "RUPSLB pertama Armidian Karyatama gagal kuorum, RUPSLB kedua digelar 13 November 2026 membahas pergantian direksi dan keterlambatan audit laporan keuangan 2021-2022.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARMY",
+   "RUPSLB",
+   "Armidian Karyatama",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c0f4fb49ea_880f76a384.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-gigp-kuasai-88-32-lewat-penempatan-terbatas-rp125-m",
+  "category": "Aksi Korporasi",
+  "title": "INPS: GIGP Kuasai [88,32%] Lewat Penempatan Terbatas Rp125 M",
+  "deck": "RUPSLB 6 November akan memutuskan penerbitan hingga 1,25 miliar saham baru INPS tanpa hak memesan efek terlebih dahulu, seluruhnya diambil pengendali GIGP.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "private placement",
+   "PMTHMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/60a89dbfce_957ea9d35d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tfco-harga-saham-naik-tanpa-diketahui-dividen-masih-ditahan",
+  "category": "Aksi Korporasi",
+  "title": "TFCO: Harga Saham Naik Tanpa Diketahui, [Dividen] Masih Ditahan",
+  "deck": "Dalam public expose insidentil, manajemen TFCO mengaku tidak tahu penyebab lonjakan harga saham dan menjelaskan dividen belum bisa dibagikan karena cadangan wajib belum terpenuhi.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TFCO",
+   "Public Expose",
+   "Dividen",
+   "Tifico Fiber Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/94e82800f1_d33611c190.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgik-alihkan-400-2-juta-saham-treasuri-ke-pengendali-gdk",
+  "category": "Aksi Korporasi",
+  "title": "DGIK Alihkan 400,2 Juta Saham Treasuri ke [Pengendali] GDK",
+  "deck": "Nusa Konstruksi Enjiniring (DGIK) akan menjual seluruh 400,2 juta saham treasurinya ke pengendali, PT Global Dinamika Kencana, mulai 11 November 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGIK",
+   "saham treasuri",
+   "buyback",
+   "GDK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43d93146f0_7a537fe88d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-jadwalkan-rupsi-dan-rupslb-11-desember",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jadwalkan [RUPSI] dan RUPSLB 11 Desember",
+  "deck": "BIKE akan menggelar RUPSLB dan RUPSI pada 11 Desember 2026, dengan pemegang saham tercatat per 18 November 2026 yang berhak hadir.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "RUPSLB",
+   "RUPSI",
+   "KSEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2302cd2bd5_1cbab9708a.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6259,215 +6467,6 @@ var ARTICLES = [
    "kuartal III 2026"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121330-65326-0/FinancialStatement-2026-III-DYAN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-cetak-rugi-us-35-4-juta-menyempit-dari-tahun-lalu",
-  "category": "Aksi Korporasi",
-  "title": "TOBA Cetak Rugi US$35,4 Juta, [Menyempit] dari Tahun Lalu",
-  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan rugi bersih TOBA menyempit ke US$35,4 juta, tapi penyebabnya hilangnya rugi pelepasan anak usaha tahun lalu, bukan perbaikan bisnis.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "TBS Energi Utama",
-   "laporan keuangan",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030120111-65066-0/FinancialStatement-2026-III-TOBA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aces-catat-laba-bersih-naik-28-jadi-rp612-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ACES Catat [Laba] Bersih Naik 28% Jadi Rp612 Miliar",
-  "deck": "Laba bersih ACES melonjak 28,5 persen ke Rp612,4 miliar pada kuartal III 2026, tapi arus kas dari aktivitas operasi justru anjlok 81,3 persen.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ACES",
-   "laporan keuangan",
-   "ritel",
-   "Kawan Lama Group"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030115227-64515-0/FinancialStatement-2026-III-ACES.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-ke-rp2-546-000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] ke Rp2.546.000 per Gram",
-  "deck": "Harga emas batangan Antam turun Rp13.000 menjadi Rp2.546.000 per gram, sementara harga buyback juga melemah ke Rp2.341.000 per gram.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-turun-ke-rp2-546-000-per-gram.jpg",
-  "imageV": "mvuivzs2",
-  "tags": [
-   "emas",
-   "harga emas antam",
-   "antam",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475731-harga-emas-antam-hari-ini-30-oktober-2026-turun-jadi-rp2546000-per-gram-saatnya-borong"
- },
- {
-  "slug": "pzza-caplok-dua-bisnis-bakeri-laba-bersih-naik-jadi-rp17-1-m",
-  "category": "Aksi Korporasi",
-  "title": "PZZA [Caplok] Dua Bisnis Bakeri, Laba Bersih Naik Jadi Rp17,1 M",
-  "deck": "Sarimelati Kencana (PZZA) melaporkan keuangan sembilan bulan 2026 sekaligus mengungkap akuisisi mayoritas saham dua perusahaan bakeri di Jakarta.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PZZA",
-   "Pizza Hut Indonesia",
-   "laporan keuangan",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095801-65376-0/FinancialStatement-2026-III-PZZA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jrpt-cetak-laba-rp1-03-triliun-per-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "JRPT Cetak [Laba] Rp1,03 Triliun per September 2026",
-  "deck": "Laba tahun berjalan JRPT naik 12,3 persen menjadi Rp1,03 triliun pada sembilan bulan pertama 2026, ditopang kenaikan pendapatan usaha dan penurunan total utang.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JRPT",
-   "laporan keuangan",
-   "properti",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095817-65349-0/FinancialStatement-2026-III-JRPT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bird-laba-kuartal-iii-turun-2-9-pendapatan-naik-10-9",
-  "category": "Aksi Korporasi",
-  "title": "BIRD: Laba Kuartal III [Turun] 2,9%, Pendapatan Naik 10,9%",
-  "deck": "Blue Bird mencatat pendapatan 9 bulan Rp4,57 triliun, naik dari tahun lalu, tapi laba bersih dan laba per saham turun karena beban bunga melonjak dan kas menyusut tajam.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIRD",
-   "Blue Bird",
-   "laporan keuangan interim",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095935-64678-0/FinancialStatement-2026-III-BIRD.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-panggil-rupslb-23-november-agenda-stock-split-1-5",
-  "category": "Aksi Korporasi",
-  "title": "PRDA Panggil RUPSLB 23 November, Agenda [Stock Split] 1:5",
-  "deck": "Prodia Widyahusada mengundang pemegang saham ke RUPSLB 23 November 2026 untuk menyetujui pemecahan saham rasio 1:5, nominal turun dari Rp100 menjadi Rp20 per saham.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "RUPSLB",
-   "stock split",
-   "Prodia Widyahusada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e0de553fdd_725cd62c1f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "moli-laba-9-bulan-melonjak-94-laba-per-saham-naik-ke-rp33-35",
-  "category": "Aksi Korporasi",
-  "title": "MOLI: Laba 9 Bulan Melonjak 94%, [Laba per Saham] Naik ke Rp33,35",
-  "deck": "Laba bersih MOLI naik 94 persen jadi Rp108,3 miliar dalam sembilan bulan 2026, ditopang margin kotor yang menebal, meski utang bank jangka pendek melonjak untuk uang muka bahan baku.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MOLI",
-   "laporan keuangan",
-   "laba bersih",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095709-65116-0/FinancialStatement-2026-III-MOLI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tfco-produksi-terhenti-dua-bulan-usai-mesin-rusak",
-  "category": "Aksi Korporasi",
-  "title": "TFCO: Produksi Terhenti [Dua Bulan] Usai Mesin Rusak",
-  "deck": "Mesin produksi TFCO rusak dan menghentikan produksi dua bulan pada Agustus-September 2026, menekan laba usaha dan membalik arus kas operasi jadi negatif.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TFCO",
-   "laporan keuangan",
-   "tekstil",
-   "gangguan produksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095551-65374-0/FinancialStatement-2026-III-TFCO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smil-catat-laba-rp84-57-miliar-kas-susut-48",
-  "category": "Aksi Korporasi",
-  "title": "SMIL Catat Laba Rp84,57 Miliar, Kas [Susut] 48%",
-  "deck": "Laba bersih SMIL naik 8,5 persen jadi Rp84,57 miliar pada sembilan bulan 2026, meski kas menyusut hampir separuh akibat belanja modal dan persediaan forklift.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMIL",
-   "laporan keuangan",
-   "laba kuartal III 2026",
-   "forklift"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030095227-65470-0/FinancialStatement-2026-III-SMIL.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inds-laba-turun-3-5-meski-penjualan-naik-15-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "INDS: Laba [Turun] 3,5% meski Penjualan Naik 15% di Kuartal III",
-  "deck": "Indospring membukukan penjualan neto Rp2,84 triliun pada sembilan bulan 2026, naik 15,3 persen, namun laba bersih turun 3,5 persen menjadi Rp68,2 miliar akibat kenaikan biaya dan beban bunga.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDS",
-   "Indospring",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030094520-65534-0/FinancialStatement-2026-III-INDS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dsng-laba-bersih-naik-9-8-jadi-rp1-44-triliun-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "DSNG: Laba [Bersih] Naik 9,8% Jadi Rp1,44 Triliun di Kuartal III",
-  "deck": "Laba bersih DSNG tumbuh 9,8% menjadi Rp1,44 triliun pada sembilan bulan pertama 2026, didukung penurunan beban bunga dan pelunasan utang bank jangka panjang.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DSNG",
-   "laba bersih",
-   "laporan keuangan",
-   "kelapa sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030093453-64797-0/FinancialStatement-2026-III-DSNG.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hais-laba-bersih-longsor-70-utang-naik-23",
-  "category": "Aksi Korporasi",
-  "title": "HAIS: Laba Bersih [Longsor] 70%, Utang Naik 23%",
-  "deck": "Laba bersih HAIS turun dari Rp68,6 miliar menjadi Rp20,4 miliar pada sembilan bulan 2026, sementara liabilitas melonjak 23 persen akibat tambahan pinjaman bank.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HAIS",
-   "laba bersih",
-   "utang",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030094727-65395-0/FinancialStatement-2026-III-HAIS.pdf",
   "sourceLabel": "IDX"
  }
 ];

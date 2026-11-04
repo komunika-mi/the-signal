@@ -3,6 +3,214 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sdra-panggil-rupslb-agendakan-pergantian-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "SDRA Panggil RUPSLB, Agendakan [Pergantian] Direksi-Komisaris",
+  "deck": "Bank Woori Saudara (SDRA) memanggil RUPSLB pada 26 November 2026 di Jakarta untuk membahas perubahan susunan direksi dan komisaris perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T12:20:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1b0751531f_285da0d420.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SDRA",
+  "tags": [
+   "SDRA",
+   "RUPSLB",
+   "Bank Woori Saudara",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Bank Woori Saudara Indonesia 1906 Tbk (SDRA) resmi memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 26 November 2026 pukul 10.00 WIB di Gedung Treasury Tower Lantai 38, kawasan SCBD, Jakarta Selatan. Satu-satunya agenda rapat ini adalah perubahan pengurus perseroan, yakni susunan direksi dan dewan komisaris. Perseroan menjelaskan bahwa dasar hukumnya adalah Pasal 15 ayat 9 dan Pasal 18 ayat 11 Anggaran Dasar, yang menyatakan bahwa anggota direksi dan komisaris diangkat maupun diberhentikan melalui RUPS. Dokumen pemanggilan ini merupakan kelanjutan dari surat pemberitahuan rencana RUPS yang sudah disampaikan perseroan pada 20 Oktober 2026.",
+   "Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham atau pemilik saldo rekening efek di KSEI pada penutupan perdagangan 3 November 2026 pukul 16.00 WIB. Perseroan tidak mengirimkan undangan terpisah karena pemanggilan ini dianggap sebagai undangan resmi. Kehadiran bisa dilakukan secara fisik, elektronik melalui aplikasi eASY.KSEI, atau diwakilkan lewat kuasa yang disampaikan secara elektronik maupun tertulis.",
+   "Bagi pemegang saham yang memberi kuasa secara tertulis, surat kuasa asli disertai fotokopi identitas harus diterima oleh biro administrasi efek, PT Sinartama Gunita, paling lambat Rabu, 25 November 2026 pukul 12.00 WIB. Jalur kuasa elektronik lewat eASY.KSEI juga ditutup pada tanggal yang sama. Surat pemanggilan ini turut disampaikan kepada Otoritas Jasa Keuangan sesuai ketentuan Pasal 17 POJK No. 15/POJK.04/2020 tentang penyelenggaraan RUPS perusahaan terbuka."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of leather chairs around a long table, floor-to-ceiling windows overlooking Jakarta skyline, soft morning light",
+  "takeaway": "Laporan ini netral bagi SDRA karena isinya baru sebatas pemanggilan rapat dan dasar hukum penggantian pengurus, belum ada nama direksi atau komisaris yang akan masuk maupun keluar sehingga dampaknya ke bisnis bank belum bisa dinilai. Pergantian direksi dan komisaris memang tidak langsung mengubah pos keuangan seperti ekuitas atau laba per saham, tapi pelaku pasar tetap mengamatinya karena susunan pengurus menentukan arah kebijakan kredit, manajemen risiko, dan strategi bisnis bank ke depan. Yang perlu dipantau adalah hasil RUPSLB pada 26 November 2026, terutama siapa saja yang diangkat atau diberhentikan dan apakah ada perubahan arah strategi yang menyertainya. Tenggat pemberian kuasa bagi pemegang saham yang tidak hadir langsung juga jatuh pada 25 November 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wmpp-catat-laba-bersih-rp92-9-miliar-naik-154-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "WMPP Catat Laba Bersih [Rp92,9 Miliar], Naik 154% di Kuartal III",
+  "deck": "Pendapatan WMPP naik 40 persen menjadi Rp961,9 miliar di kuartal III 2026, didorong penjualan karkas ayam yang melonjak 70 persen YoY.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T11:14:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/790bd62824_56f7fb6530.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WMPP",
+  "tags": [
+   "WMPP",
+   "laba bersih",
+   "kinerja keuangan",
+   "industri pangan"
+  ],
+  "body": [
+   "PT Widodo Makmur Perkasa Tbk (WMPP) membukukan pendapatan konsolidasi Rp961,9 miliar sampai kuartal III 2026, naik 40 persen dibanding periode yang sama tahun sebelumnya. Laba kotor perusahaan tercatat Rp20,1 miliar, melonjak 252 persen secara tahunan, sementara laba bersih mencapai Rp92,9 miliar, naik 154 persen dari tahun lalu.",
+   "Segmen karkas ayam menjadi penyumbang terbesar pendapatan dengan nilai penjualan Rp750,3 miliar, tumbuh 70 persen secara tahunan. Segmen daging sapi dan produk olahan menyumbang Rp112,3 miliar, disusul segmen telur sebesar Rp47,4 miliar, serta kontribusi dari lini produk lainnya.",
+   "Rasio lancar perusahaan tercatat 1,6 kali per kuartal III 2026, menandakan aset jangka pendek yang tersedia untuk membayar utang jangka pendek. CEO WMPP, Tumiyono, mengatakan perseroan menargetkan pendapatan tumbuh hingga 50 persen pada akhir 2026 dibandingkan tahun 2025, seiring efisiensi dan optimalisasi utilisasi fasilitas produksi. Manajemen menegaskan seluruh angka kinerja dalam rilis ini masih berupa angka manajemen yang belum diaudit, dan target yang disampaikan merupakan estimasi yang dapat berubah."
+  ],
+  "fotoAdegan": "Workers in hairnets inspecting rows of processed chicken carcasses on a stainless steel conveyor inside an Indonesian poultry plant",
+  "takeaway": "Laporan ini condong positif bagi WMPP, karena pendapatan naik 40 persen dan laba bersih tumbuh 154 persen secara tahunan, ditopang lonjakan penjualan karkas ayam. Namun perlu dicermati bahwa laba kotor cuma Rp20,1 miliar, jauh lebih kecil dari laba bersih Rp92,9 miliar, yang berarti sebagian besar kenaikan laba kemungkinan berasal dari pos di luar kegiatan inti usaha, bukan murni dari efisiensi produksi. Pos lain yang membaik adalah rasio lancar, naik ke 1,6 kali, tanda aset jangka pendek perusahaan kini lebih besar dari utang jangka pendeknya sehingga kemampuan bayar utang dekat makin aman. Yang perlu dipantau berikutnya adalah laporan keuangan resmi teraudit yang akan menyusul, sebab angka di rilis ini masih versi manajemen, serta apakah target pertumbuhan pendapatan 50 persen hingga akhir 2026 yang disampaikan CEO Tumiyono bisa tercapai.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "kblv-jadwalkan-rupslb-pada-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "KBLV Jadwalkan [RUPSLB] pada 11 Desember 2026",
+  "deck": "First Media (KBLV) akan menggelar RUPSLB pada 11 Desember 2026, dengan pemegang saham berhak hadir dicatat per 18 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T11:08:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c18432f60a_61eed8df61.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KBLV",
+  "tags": [
+   "KBLV",
+   "First Media",
+   "RUPSLB",
+   "pasar modal"
+  ],
+  "body": [
+   "First Media Tbk (KBLV) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 11 Desember 2026 pukul 10.00 WIB. Rapat akan digelar secara fisik dan elektronik di Hotel Aryaduta, Jalan Prajurit KKO Usman dan Harun Nomor 44-48, Gambir, Jakarta. Pengumuman ini merujuk pada surat perusahaan ke OJK bernomor SB-031/FM/OJK/X/2026 dan ditandatangani oleh Corporate Secretary First Media, Harianda Noerlan, pada 4 November 2026.",
+   "Pemegang saham yang berhak hadir dan memberikan suara dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Rabu, 18 November 2026 pukul 16.00 WIB. Mata acara rapat sendiri belum diumumkan dalam dokumen ini. Undangan resmi beserta daftar agenda baru akan diunggah ke situs web First Media, situs Bursa Efek Indonesia, dan situs Kustodian Sentral Efek Indonesia (KSEI) pada Kamis, 19 November 2026.",
+   "Perusahaan mengimbau pemegang saham yang tidak hadir langsung untuk memberikan kuasa secara elektronik melalui fasilitas eASY.KSEI di akses.ksei.co.id, atau mengunduh formulir kuasa di situs perusahaan, dengan menunjuk Biro Administrasi Efek PT Sharestar Indonesia sebagai penerima kuasa. Pemegang saham yang ingin mengusulkan mata acara tambahan harus menyampaikannya ke Direksi paling lambat tujuh hari sebelum tanggal pemanggilan rapat, yakni sekitar 12 November 2026, sesuai Pasal 16 POJK Nomor 15 Tahun 2020."
+  ],
+  "fotoAdegan": "Hotel ballroom staff arranging rows of chairs facing an empty stage before a formal corporate meeting, soft morning light",
+  "takeaway": "Pemberitahuan ini netral bagi fundamental First Media, sebab isinya sebatas jadwal dan mekanisme rapat, belum memuat satu pun mata acara yang bisa dinilai dampaknya. RUPSLB lazim dipakai emiten untuk memutuskan hal-hal yang menyentuh langsung kepentingan pemegang saham, misalnya penambahan modal yang menambah jumlah saham beredar dan bisa mengecilkan laba per saham, atau pergantian direksi dan komisaris, sehingga pelaku pasar biasa menunggu isi agendanya sebelum menilai arah dampaknya. Yang perlu dipantau selanjutnya adalah terbitnya pemanggilan rapat lengkap dengan mata acara pada 19 November 2026 di situs IDX, KSEI, dan First Media, serta pelaksanaan RUPSLB itu sendiri pada 11 Desember 2026. Pemegang saham yang ingin mengusulkan agenda tambahan juga punya tenggat singkat, sekitar 12 November 2026, untuk mengirimkan usulannya ke Direksi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pkpk-lakukan-stock-split-1-10-saham-jadi-12-miliar-lembar",
+  "category": "Aksi Korporasi",
+  "title": "PKPK Lakukan [Stock Split] 1:10, Saham Jadi 12 Miliar Lembar",
+  "deck": "Paragon Karya Perkasa akan memecah saham dengan rasio 1:10, menambah jumlah saham beredar dari 1,2 miliar menjadi 12 miliar lembar, menunggu persetujuan RUPSLB pada 11 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T10:46:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7edad59dde_f48ab96fe6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PKPK",
+  "tags": [
+   "PKPK",
+   "stock split",
+   "RUPSLB",
+   "BEI"
+  ],
+  "body": [
+   "PT Paragon Karya Perkasa Tbk (PKPK) mengumumkan rencana pemecahan nilai nominal saham atau stock split dengan rasio 1 banding 10. Jumlah saham Perseroan akan bertambah dari 1.200.000.000 lembar menjadi 12.000.000.000 lembar, sementara nilai nominal per saham turun dari Rp200 menjadi Rp20. Perubahan ini tidak mengubah modal dasar, modal ditempatkan, maupun modal disetor Perseroan dalam rupiah, karena yang berubah hanya nilai nominal dan jumlah lembar saham. Perseroan menyebut tiga alasan: harga saham saat ini dinilai relatif tinggi sehingga perlu diturunkan agar terjangkau investor ritel, menambah likuiditas perdagangan, dan memperluas basis pemegang saham.",
+   "Karena saham PKPK pernah dihentikan sementara perdagangannya oleh Bursa Efek Indonesia (BEI) dalam rangka pengawasan pasar dalam 12 bulan terakhir sebelum pengajuan izin, Perseroan diwajibkan menyertakan laporan penilaian independen. Penilaian dilakukan oleh KJPP Ihot Dollar dan Raymond, dengan laporan ditandatangani Sulistyawati Sendjaja, bertanggal 12 Oktober 2026 dan tanggal pisah batas 31 Juli 2026. Dengan metode pendapatan (DCF) berbobot 70 persen dan metode pembanding perusahaan tercatat (GCM) berbobot 30 persen, nilai pasar 100 persen ekuitas Perseroan disimpulkan sebesar Rp5,89 triliun, atau setara Rp4.907 per saham berdasarkan jumlah saham sebelum pemecahan.",
+   "BEI telah memberikan persetujuan prinsip melalui surat No. S-13394/BEI.PP3/10-2026 tanggal 23 Oktober 2026, namun persetujuan ini batal demi hukum jika RUPSLB tidak menyetujui rencana stock split. RUPSLB dijadwalkan pada Jumat, 11 Desember 2026 di Sheraton Grand Jakarta Gandaria City Hotel, dengan tanggal pencatatan pemegang saham yang berhak hadir pada 18 November 2026. Jika disetujui, jadwal awal menyebutkan perdagangan dengan nilai nominal lama berakhir 28 Desember 2026, perdagangan nilai nominal baru dimulai 29 Desember 2026, recording date 30 Desember 2026, dan distribusi saham baru melalui KSEI pada 4 Januari 2027. Pelaksanaan stock split paling lambat dilakukan 11 Januari 2027, dan Perseroan menyatakan tidak ada rencana aksi korporasi lain yang mengubah jumlah saham atau permodalan dalam enam bulan setelah tanggal efektif."
+  ],
+  "fotoAdegan": "Workers on scaffolding at a mid-rise building construction site, cranes overhead, late afternoon light in Jakarta",
+  "takeaway": "Rencana stock split ini netral bagi fundamental Paragon Karya Perkasa, sebab yang berubah hanya jumlah dan nilai nominal saham, bukan jumlah modal, ekuitas, atau laba Perseroan. Pos yang tersentuh adalah jumlah saham beredar, yang bertambah sepuluh kali lipat menjadi 12 miliar lembar, sehingga laba per saham, yakni laba bersih dibagi jumlah saham, otomatis mengecil meski laba total dan persentase kepemilikan pemegang saham tidak berubah. Perlu dicatat juga bahwa laporan penilaian independen ini wajib disertakan karena saham PKPK pernah dihentikan sementara perdagangannya oleh BEI akibat pengawasan pasar dalam setahun terakhir, sebuah syarat tambahan dari aturan bursa, bukan indikasi soal rencana stock split itu sendiri. Yang perlu dipantau berikutnya adalah RUPSLB pada 11 Desember 2026, yang harus dihadiri minimal dua pertiga pemegang saham dan disetujui lebih dari dua pertiga suara yang hadir, karena jika gagal disetujui, persetujuan prinsip dari BEI otomatis batal dan rencana ini tidak bisa dilanjutkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pans-umumkan-rupslb-pemegang-saham-tercatat-18-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "PANS Umumkan RUPSLB, Pemegang Saham [Tercatat] 18 November 2026",
+  "deck": "Panin Sekuritas akan menggelar RUPSLB pada 11 Desember 2026. Pemegang saham yang tercatat pada 18 November 2026 berhak hadir dan memberi suara dalam rapat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T10:45:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aba0c64050_c0978a5404.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PANS",
+  "tags": [
+   "PANS",
+   "RUPSLB",
+   "Panin Sekuritas",
+   "pasar modal"
+  ],
+  "body": [
+   "Panin Sekuritas Tbk (PANS) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 11 Desember 2026 pukul 10.00 WIB di Panin Bank Building Lantai 4, Jalan Jenderal Sudirman, Senayan, Jakarta. Rapat akan berlangsung secara fisik sekaligus elektronik melalui aplikasi eASY.KSEI. Surat pemanggilan resmi yang memuat agenda rapat baru akan diterbitkan pada Kamis, 19 November 2026, lewat situs web KSEI, Bursa Efek Indonesia, dan situs perusahaan.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan dan atau pemilik saldo rekening efek di KSEI pada Rabu, 18 November 2026. Perseroan merinci, pembelian saham di pasar reguler yang masih berhak mengikuti rapat adalah sampai tanggal 16 November 2026, sementara pembelian di pasar tunai berlaku sampai 18 November 2026.",
+   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat mewakili minimal 1/20 dari total saham berhak suara dan diajukan secara tertulis kepada direksi paling lambat tujuh hari kalender sebelum pemanggilan rapat. Bagi yang tidak bisa hadir langsung, kuasa dapat diberikan secara elektronik lewat eASY.KSEI atau tertulis kepada PT Sinartama Gunita selaku Biro Administrasi Efek, dengan batas pemberian e-Proxy sampai 10 Desember 2026 pukul 11.00 WIB. Dokumen ini ditandatangani oleh Indra Christanto selaku Presiden Direktur dan disampaikan oleh Prama Nugraha selaku Corporate Secretary."
+  ],
+  "fotoAdegan": "A modern high-rise office building facade in Jakarta's financial district, pedestrians walking past the entrance in late afternoon light.",
+  "takeaway": "Catatan ini netral karena dokumen baru mengumumkan jadwal dan mekanisme RUPSLB, sementara agenda rapatnya sendiri belum diungkap sehingga dampaknya ke fundamental perseroan belum bisa dinilai. Pos yang tersentuh di sini sebetulnya bukan soal keuangan, melainkan hak suara pemegang saham, yaitu siapa yang berhak ikut menentukan keputusan perseroan, dan itu ditentukan oleh kepemilikan saham sampai tanggal pencatatan 18 November 2026. Pelaku pasar baru bisa menilai arah RUPSLB ini setelah tahu agendanya, entah itu soal permodalan, dividen, atau perubahan pengurus. Yang perlu dipantau berikutnya adalah surat pemanggilan resmi yang memuat agenda lengkap, terbit 19 November 2026, lalu pelaksanaan RUPSLB sendiri pada 11 Desember 2026 yang akan menentukan keputusan apa yang diambil pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mark-bagikan-dividen-interim-kedua-rp20-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "MARK Bagikan [Dividen] Interim Kedua Rp20 per Saham",
+  "deck": "Mark Dynamics Indonesia membagikan dividen tunai interim kedua tahun buku 2026 senilai Rp76 miliar atau Rp20 per saham, dibayar 4 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T10:36:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f2d5e59edb_eae722853e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MARK",
+  "tags": [
+   "MARK",
+   "dividen",
+   "pasar modal",
+   "emiten"
+  ],
+  "body": [
+   "PT Mark Dynamics Indonesia Tbk (MARK) akan membagikan dividen tunai interim kedua untuk tahun buku 2026 dengan total nilai Rp76.000.006.200, setara Rp20 per saham. Keputusan ini diambil Direksi pada 2 November 2026 dan disetujui Dewan Komisaris pada tanggal yang sama, sebagaimana tercantum dalam surat yang ditandatangani Presiden Direktur Ridwan dan Direktur Sutiyoso Bin Risman.",
+   "Jadwalnya, cum dividen di pasar reguler dan negosiasi jatuh pada 12 November 2026, disusul ex dividen pada 13 November 2026. Pemegang saham yang berhak menerima dividen ditentukan berdasarkan catatan di Daftar Pemegang Saham pada 16 November 2026 pukul 16.00 WIB, tanggal yang sama juga menjadi cum dividen di pasar tunai, dengan ex dividen di pasar tunai pada 17 November 2026. Pembayaran dijadwalkan pada 4 Desember 2026 melalui PT Kustodian Sentral Efek Indonesia (KSEI) ke rekening efek atau bank kustodian masing-masing pemegang saham. Pemegang saham dengan saham berbentuk warkat atau fisik yang ingin menerima pembayaran lewat transfer bank harus mendaftarkan nama dan nomor rekening ke Biro Administrasi Efek, PT Adimitra Jasa Korpora, paling lambat 16 November 2026 pukul 16.00 WIB.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 September 2026, di mana laba bersih yang diatribusikan ke entitas induk tercatat Rp290,34 miliar untuk sembilan bulan pertama tahun ini, saldo laba ditahan yang tidak dibatasi penggunaannya Rp768,55 miliar, dan total ekuitas perseroan Rp925,1 miliar. Perseroan juga mengingatkan bahwa pemegang saham asing yang ingin memakai tarif pajak sesuai perjanjian penghindaran pajak berganda wajib menyerahkan Formulir DGT yang sudah disahkan otoritas pajak negara asalnya ke KSEI atau PT Adimitra Jasa Korpora paling lambat 16 November 2026 pukul 16.00 WIB, kalau tidak dividen akan dipotong pajak penghasilan Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Workers inspecting rows of ceramic hand-shaped molds on a rubber glove factory production line, industrial lighting, Medan Indonesia",
+  "takeaway": "Pembagian dividen interim kedua ini condong positif bagi Mark Dynamics, sebab perusahaan berani membagikan kas kepada pemegang saham sebelum tahun buku 2026 bahkan selesai, tanda arus kas dan labanya berjalan cukup mantap. Nilai dividen Rp76 miliar itu hanya sekitar seperempat dari laba bersih sembilan bulan pertama perseroan yang mencapai Rp290,34 miliar, dan hanya sekitar delapan persen dari total modal atau ekuitas perusahaan yang berjumlah Rp925,1 miliar, jadi pembayarannya tidak sampai mengikis modal perusahaan secara berarti. Yang tersentuh langsung adalah kas perusahaan yang akan berkurang sebesar nilai dividen begitu dibayarkan, serta saldo laba ditahan, yaitu keuntungan masa lalu yang belum dibagikan dan biasa dipakai untuk ekspansi atau jaga-jaga, yang juga akan menyusut. Yang perlu dipantau pemegang saham adalah batas waktu 16 November 2026 pukul 16.00 WIB untuk pendaftaran rekening bank maupun dokumen pajak bagi investor asing, serta tanggal pembayaran dividen pada 4 Desember 2026 sebagai kepastian uang benar-benar cair.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "dgik-gdk-teken-cspa-tokyu-construction-bakal-pegang-25",
+  "category": "Aksi Korporasi",
+  "title": "DGIK: GDK Teken CSPA, Tokyu Construction Bakal Pegang [25%]",
+  "deck": "GDK, pemegang saham utama DGIK, menandatangani perjanjian bersyarat untuk mengalihkan sebagian sahamnya ke Tokyu Construction Co. Ltd. yang berpotensi menguasai 25 persen saham DGIK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T10:35:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c972abe159_a388f4d304.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGIK",
+  "tags": [
+   "DGIK",
+   "Tokyu Construction",
+   "CSPA",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Nusa Konstruksi Enjiniring Tbk (DGIK) menyampaikan bahwa pada 4 November 2026 perusahaan menerima surat pemberitahuan dari PT Global Dinamika Kencana (GDK), pemegang saham utamanya, perihal penandatanganan perjanjian jual beli saham bersyarat atau Conditional Share Purchase Agreement (CSPA) dengan Tokyu Construction Co. Ltd. Perjanjian itu menjadi dasar bagi rencana pengalihan sebagian saham DGIK yang saat ini dimiliki GDK kepada Tokyu Construction, perusahaan konstruksi asal Jepang.",
+   "Menurut keterbukaan informasi itu, penandatanganan CSPA baru merupakan bagian awal dari proses transaksi. Realisasi pengalihan saham, tanggal efektif transaksi, serta perubahan komposisi pemegang saham DGIK masih akan mengikuti syarat dan ketentuan yang disepakati dalam CSPA, termasuk kepatuhan terhadap aturan pasar modal yang berlaku. Jika seluruh syarat pendahuluan terpenuhi dan transaksi pengalihan saham diselesaikan, Tokyu Construction akan memiliki 25 persen saham DGIK.",
+   "Manajemen DGIK menyatakan bahwa sampai saat laporan ini disampaikan, rencana transaksi tersebut belum menimbulkan dampak negatif material terhadap kegiatan operasional, status hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan. Perseroan menegaskan akan terus memantau perkembangan transaksi ini dan menyampaikan keterbukaan informasi lanjutan sesuai ketentuan yang berlaku. Nilai transaksi maupun harga saham yang disepakati dalam CSPA tidak disebutkan dalam dokumen ini."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a high-rise building site in Jakarta, cranes against a hazy afternoon skyline",
+  "takeaway": "Laporan ini condong netral karena perubahan pemegang saham utama belum membawa dana segar ke kas DGIK, dan perjanjian ini masih bersifat kondisional sehingga belum tentu terealisasi penuh. Yang tersentuh di sini bukan laporan keuangan, melainkan komposisi pengendali dan hak suara perusahaan: investor asal Jepang, Tokyu Construction, berpotensi menguasai 25 persen saham DGIK setelah seluruh syarat CSPA terpenuhi, dan itu menentukan siapa yang punya kendali signifikan atas arah bisnis perusahaan ke depan. Pelaku pasar mencermati ini karena masuknya pemegang saham besar baru bisa membawa dukungan modal atau kerja sama proyek, tapi juga menggeser keseimbangan kendali yang sebelumnya dipegang GDK sendirian. Yang perlu dipantau selanjutnya adalah pemenuhan syarat-syarat pendahuluan dalam CSPA dan pengumuman tanggal efektif penyelesaian (completion) transaksi, karena baru pada titik itu perubahan komposisi pemegang saham DGIK benar-benar berlaku.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pkpk-beli-sisa-saham-dpal-rp722-miliar-ekuitas-turun-tajam",
+  "category": "Aksi Korporasi",
+  "title": "PKPK Beli Sisa Saham [DPAL] Rp722 Miliar, Ekuitas Turun Tajam",
+  "deck": "Paragon Karya Perkasa (PKPK) akan membeli 50,99% sisa saham anak usahanya, DPAL, senilai Rp722,2 miliar dari pihak terafiliasi untuk menuntaskan akuisisi 99,99%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T10:14:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c839e2aec_34633bfe1b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PKPK",
+  "tags": [
+   "PKPK",
+   "Transaksi Material",
+   "Akuisisi",
+   "DPAL"
+  ],
+  "body": [
+   "Paragon Karya Perkasa Tbk (PKPK) berencana membeli 677.999 saham Seri A PT Deli Pratama Angkutan Laut (DPAL) dari PT Deli Indonesia Raya (DIR), serta 42.375 saham Seri B dari PT Karya Niaga Gemilang (KNG). Totalnya 720.374 saham atau 50,99% dari seluruh saham DPAL, dengan nilai transaksi Rp722,2 miliar, rinciannya Rp679,7 miliar untuk saham milik DIR dan Rp42,48 miliar untuk saham milik KNG. Transaksi ini adalah tahap kedua dan sekaligus terakhir dari rencana pembelian 99,99% saham DPAL yang disepakati dalam perjanjian pengikatan jual beli tanggal 24 April 2026. Tahap pertama, pembelian saham milik Resources Global Development Limited, sudah selesai pada 17 Juli 2026. Setelah tahap kedua ini rampung, kepemilikan PKPK di saham Seri A DPAL yang berhak suara naik dari 50,52% menjadi 99,99%, sementara DIR tetap memegang 1 saham Seri A. DPAL bergerak di bidang angkutan laut lewat armada tug boat, tongkang, dan kapal kargo, dan sudah menjadi anak usaha PKPK sejak tahap pertama selesai.",
+   "Karena DIR adalah pihak yang terafiliasi dengan PKPK, transaksi ini digolongkan sebagai Transaksi Afiliasi berdasarkan POJK 42/2020, meski perusahaan menyatakan tidak ada benturan kepentingan. Nilainya mencapai 67,30% dari ekuitas PKPK per laporan keuangan 31 Juli 2026, sehingga transaksi ini juga masuk kategori Transaksi Material menurut POJK 17/2020. Itu artinya PKPK wajib mendapat persetujuan pemegang saham independen lewat Rapat Umum Pemegang Saham Luar Biasa yang direncanakan digelar pada 11 Desember 2026. Pembayaran ke DIR dan KNG tidak dikenakan bunga dan harus dilunasi paling lambat 12 bulan sejak akta jual beli saham diteken, dananya akan bersumber dari fasilitas pembiayaan milik Perseroan. Akta jual beli ditargetkan terbit paling lambat 7 hari kerja setelah seluruh prasyarat terpenuhi, dengan batas akhir keseluruhan proses pada 31 Desember 2026.",
+   "Dari sisi laporan keuangan, total aset konsolidasian PKPK tidak berubah karena DPAL sudah tercatat sebagai anak usaha sejak tahap pertama. Perubahan besar justru terjadi di struktur liabilitas dan ekuitas. Total liabilitas naik 44,83% menjadi Rp2,34 triliun, terutama karena munculnya utang baru Rp722,2 miliar kepada DIR dan KNG. Sebaliknya, total ekuitas turun 67,35% dari Rp1,073 triliun menjadi Rp350,34 triliun, didorong oleh berkurangnya kepentingan nonpengendali (porsi kepemilikan minoritas di DPAL) sebesar Rp763,43 miliar seiring saham itu dibeli oleh PKPK."
+  ],
+  "fotoAdegan": "Tugboat pulling a loaded coal barge through a calm harbor channel, overcast sky, distant port cranes",
+  "takeaway": "Laporan ini condong negatif bagi kesehatan keuangan Paragon, sebab rasio utang terhadap ekuitas melonjak dari sekitar 1,5 kali menjadi hampir 6,7 kali akibat transaksi ini, padahal total aset perusahaan sama sekali tidak bertambah. Yang bergeser adalah struktur permodalan: utang baru Rp722,2 miliar ke DIR dan KNG membuat beban liabilitas naik 44,83%, sementara ekuitas, yaitu modal sendiri yang jadi penyangga kalau bisnis memburuk, susut lebih dari separuh karena porsi kepemilikan minoritas di DPAL yang tadinya tercatat sebagai ekuitas sekarang berubah jadi utang yang wajib dibayar PKPK. Di sisi lain ada kompensasinya, porsi laba DPAL yang masuk ke PKPK naik signifikan karena kepemilikan bertambah dari 50,52% menjadi 99,99%, meski ini tidak langsung berupa uang tunai. Yang perlu dipantau pemegang saham adalah hasil Rapat Umum Pemegang Saham Luar Biasa pada 11 Desember 2026, karena persetujuan pemegang saham independen adalah syarat wajib sebelum transaksi ini bisa berjalan, dan juga tenggat pembayaran utang ke DIR dan KNG paling lambat 12 bulan sejak akta diteken, yang akan menguji kemampuan arus kas Perseroan ke depan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "harga-emas-antam-turun-jadi-rp2-537-000-per-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Jadi Rp2.537.000 per Gram",
@@ -27,6 +235,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah hari ini hanya angka harian, harga jual turun Rp4.000 menjadi Rp2.537.000 per gram dan harga buyback turun ke Rp2.307.000 per gram. Yang terdampak adalah masyarakat yang membeli atau menjual emas batangan secara ritel, karena selisih sekitar Rp230.000 per gram itulah yang menentukan rugi atau untungnya kalau emas dijual kembali dalam waktu dekat. Penurunan Rp4.000 ini terlalu kecil, kurang dari 0,2 persen, untuk disimpulkan sebagai tren turun atau sekadar koreksi harian biasa. Yang perlu dipantau adalah pergerakan harga emas Antam dalam beberapa hari ke depan serta harga emas dunia, supaya terlihat apakah penurunan ini berlanjut atau justru berbalik naik.",
   "imageV": "mw1kkqwh"
+ },
+ {
+  "slug": "pkpk-gelar-rupslb-dan-rups-independen-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "PKPK Gelar [RUPSLB] dan RUPS Independen 11 Desember 2026",
+  "deck": "Paragon Karya Perkasa menjadwalkan RUPSLB dan RUPS Independen pada 11 Desember 2026. Pemegang saham yang tercatat per 18 November 2026 berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T09:47:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/24551d67e7_0c60ddcfb7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PKPK",
+  "tags": [
+   "PKPK",
+   "RUPSLB",
+   "RUPS Independen",
+   "Paragon Karya Perkasa"
+  ],
+  "body": [
+   "Direksi Paragon Karya Perkasa Tbk (PKPK), melalui surat Nomor 061/DIR-PKPK/XI/2026 yang ditandatangani Corporate Secretary Fransiska Setiawan, mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sekaligus Rapat Umum Pemegang Saham Independen pada Jumat, 11 Desember 2026 pukul 09.00 WIB, di Sheraton Grand Jakarta Gandaria City Hotel. Dua rapat ini digelar bersamaan: RUPSLB untuk seluruh pemegang saham dan RUPS Independen khusus dihadiri pemegang saham independen Perseroan.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Rabu, 18 November 2026 sampai pukul 16.00 WIB. Surat panggilan resmi yang memuat mata acara rapat beserta penjelasannya baru akan diterbitkan pada Kamis, 19 November 2026, lewat situs web KSEI (aplikasi eASY.KSEI), situs Bursa Efek Indonesia, dan situs Perseroan sendiri. Pemegang saham yang ingin mengusulkan mata acara rapat harus menyampaikannya secara tertulis kepada Direksi paling lambat tujuh hari sebelum tanggal panggilan tersebut.",
+   "Rapat juga dapat diikuti secara elektronik lewat sistem e-RUPS milik KSEI. Perseroan mengimbau pemegang saham memberikan suara melalui aplikasi eASY.KSEI, yang akan dibuka sejak tanggal panggilan rapat hingga satu hari kerja sebelum rapat, yaitu Kamis, 10 Desember 2026 pukul 12.00 WIB. Dokumen pengumuman ini belum memuat agenda rapat, karena rincian mata acara baru akan diumumkan bersamaan dengan surat panggilan pada 19 November 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a stage inside a large hotel ballroom prepared for a corporate meeting, soft morning light",
+  "takeaway": "Dokumen ini sendiri netral bagi fundamental PKPK, sebab isinya baru jadwal dan mekanisme rapat, belum memuat agenda atau angka keuangan apa pun. Yang perlu digarisbawahi adalah digelarnya RUPS Independen bersamaan dengan RUPSLB, sebab format ini biasanya dipakai untuk transaksi yang berpotensi mengandung benturan kepentingan sehingga butuh persetujuan mayoritas pemegang saham independen, bukan pemegang saham biasa. Pos yang layak diawasi adalah ekuitas dan jumlah saham beredar, dua hal yang belakangan sudah bergerak lewat rencana stock split 1:10 dan akuisisi sisa saham DPAL senilai Rp722 miliar yang memangkas rasio ekuitas PKPK. Yang paling menentukan adalah surat panggilan resmi pada 19 November 2026, karena saat itulah agenda sebenarnya dari RUPSLB dan RUPS Independen ini baru akan terbuka ke publik. Pemegang saham yang ingin punya hak suara juga harus memastikan kepemilikannya sudah tercatat paling lambat 18 November 2026 pukul 16.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kmds-panggil-rupslb-26-november-ubah-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "KMDS Panggil RUPSLB 26 November, Ubah [Anggaran Dasar]",
+  "deck": "RUPSLB KMDS pada 26 November 2026 akan membahas penambahan klasifikasi KBLI ke anggaran dasar agar sesuai bidang usaha perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T09:36:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/55375643ff_0fc8bf38eb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KMDS",
+  "tags": [
+   "KMDS",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Kurniamitra Duta Sentosa Tbk (KMDS) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 26 November 2026, pukul 10.00 WIB di Menara Top Food, Jalan Jalur Sutera Barat No. 3, Alam Sutera, Tangerang. Pemegang saham yang berhak hadir adalah yang namanya tercatat di Daftar Pemegang Saham atau pemilik saham di sub rekening efek KSEI pada penutupan perdagangan Selasa, 3 November 2026 pukul 16.00 WIB.",
+   "Agenda tunggal rapat ini adalah persetujuan penambahan Pasal 3 Anggaran Dasar Perseroan tentang Klasifikasi Baku Lapangan Usaha (KBLI), yakni kode resmi yang menandai jenis usaha apa saja yang boleh dijalankan sebuah perusahaan. Perseroan ingin menambahkan kode KBLI pada kegiatan usaha utama maupun penunjang agar selaras dengan bidang usaha yang sebenarnya sudah dijalankan KMDS, tanpa mengubah modal, jumlah saham, maupun struktur kepemilikan.",
+   "Bahan rapat sudah tersedia di kantor Perseroan sejak tanggal pemanggilan ini sampai Jumat, 18 November 2026, dan bisa diminta tertulis atau diunduh di situs KMDS maupun situs Bursa Efek Indonesia. Perseroan mendorong pemegang saham memberi kuasa secara elektronik lewat eASY.KSEI kepada biro administrasi efek PT Adimitra Jasa Korpora atau pihak lain yang terdaftar di sistem itu. Bagi yang memilih memberi kuasa secara manual, surat kuasa harus sudah diterima kembali oleh PT Adimitra Jasa Korpora paling lambat Rabu, 25 November 2026 sebelum pukul 14.00 WIB. Surat pemanggilan ditandatangani Direktur Dion Amaury, sementara laporan ke otoritas disampaikan oleh Direktur Keuangan Dewi Irianty Wijaya."
+  ],
+  "fotoAdegan": "Rows of stacked pallets and metal racking inside a large logistics warehouse, forklift parked between aisles, soft morning light",
+  "takeaway": "Perubahan ini condong netral bagi KMDS karena sifatnya administratif, sekadar merapikan izin usaha agar sesuai bidang yang sudah dijalankan, bukan transaksi yang menggerakkan uang atau mengubah kepemilikan saham. Tidak ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh langsung oleh perubahan anggaran dasar ini, meski payung hukum usaha yang lebih sesuai bisa jadi dasar perusahaan menjalankan lini bisnis tambahan di kemudian hari. Yang perlu dipantau adalah hasil RUPSLB pada 26 November 2026, sekaligus tenggat pengembalian surat kuasa manual pada 25 November 2026 pukul 14.00 WIB bagi pemegang saham yang tidak hadir langsung.",
+  "sentimen": "netral"
  },
  {
   "slug": "idea-teken-pjbs-nawasena-ambil-alih-66-58-saham",

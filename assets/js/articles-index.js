@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sdra-panggil-rupslb-agendakan-pergantian-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "SDRA Panggil RUPSLB, Agendakan [Pergantian] Direksi-Komisaris",
+  "deck": "Bank Woori Saudara (SDRA) memanggil RUPSLB pada 26 November 2026 di Jakarta untuk membahas perubahan susunan direksi dan komisaris perseroan.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SDRA",
+   "RUPSLB",
+   "Bank Woori Saudara",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1b0751531f_285da0d420.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wmpp-catat-laba-bersih-rp92-9-miliar-naik-154-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "WMPP Catat Laba Bersih [Rp92,9 Miliar], Naik 154% di Kuartal III",
+  "deck": "Pendapatan WMPP naik 40 persen menjadi Rp961,9 miliar di kuartal III 2026, didorong penjualan karkas ayam yang melonjak 70 persen YoY.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WMPP",
+   "laba bersih",
+   "kinerja keuangan",
+   "industri pangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/790bd62824_56f7fb6530.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kblv-jadwalkan-rupslb-pada-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "KBLV Jadwalkan [RUPSLB] pada 11 Desember 2026",
+  "deck": "First Media (KBLV) akan menggelar RUPSLB pada 11 Desember 2026, dengan pemegang saham berhak hadir dicatat per 18 November 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KBLV",
+   "First Media",
+   "RUPSLB",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c18432f60a_61eed8df61.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pkpk-lakukan-stock-split-1-10-saham-jadi-12-miliar-lembar",
+  "category": "Aksi Korporasi",
+  "title": "PKPK Lakukan [Stock Split] 1:10, Saham Jadi 12 Miliar Lembar",
+  "deck": "Paragon Karya Perkasa akan memecah saham dengan rasio 1:10, menambah jumlah saham beredar dari 1,2 miliar menjadi 12 miliar lembar, menunggu persetujuan RUPSLB pada 11 Desember 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PKPK",
+   "stock split",
+   "RUPSLB",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7edad59dde_f48ab96fe6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pans-umumkan-rupslb-pemegang-saham-tercatat-18-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "PANS Umumkan RUPSLB, Pemegang Saham [Tercatat] 18 November 2026",
+  "deck": "Panin Sekuritas akan menggelar RUPSLB pada 11 Desember 2026. Pemegang saham yang tercatat pada 18 November 2026 berhak hadir dan memberi suara dalam rapat.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PANS",
+   "RUPSLB",
+   "Panin Sekuritas",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aba0c64050_c0978a5404.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mark-bagikan-dividen-interim-kedua-rp20-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "MARK Bagikan [Dividen] Interim Kedua Rp20 per Saham",
+  "deck": "Mark Dynamics Indonesia membagikan dividen tunai interim kedua tahun buku 2026 senilai Rp76 miliar atau Rp20 per saham, dibayar 4 Desember 2026.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MARK",
+   "dividen",
+   "pasar modal",
+   "emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f2d5e59edb_eae722853e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgik-gdk-teken-cspa-tokyu-construction-bakal-pegang-25",
+  "category": "Aksi Korporasi",
+  "title": "DGIK: GDK Teken CSPA, Tokyu Construction Bakal Pegang [25%]",
+  "deck": "GDK, pemegang saham utama DGIK, menandatangani perjanjian bersyarat untuk mengalihkan sebagian sahamnya ke Tokyu Construction Co. Ltd. yang berpotensi menguasai 25 persen saham DGIK.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGIK",
+   "Tokyu Construction",
+   "CSPA",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c972abe159_a388f4d304.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pkpk-beli-sisa-saham-dpal-rp722-miliar-ekuitas-turun-tajam",
+  "category": "Aksi Korporasi",
+  "title": "PKPK Beli Sisa Saham [DPAL] Rp722 Miliar, Ekuitas Turun Tajam",
+  "deck": "Paragon Karya Perkasa (PKPK) akan membeli 50,99% sisa saham anak usahanya, DPAL, senilai Rp722,2 miliar dari pihak terafiliasi untuk menuntaskan akuisisi 99,99%.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PKPK",
+   "Transaksi Material",
+   "Akuisisi",
+   "DPAL"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c839e2aec_34633bfe1b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-turun-jadi-rp2-537-000-per-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Jadi Rp2.537.000 per Gram",
@@ -20,6 +148,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476541-harga-emas-antam-hari-ini-4-november-2026-turun-jadi-rp2537000-per-gram-saatnya-beli"
+ },
+ {
+  "slug": "pkpk-gelar-rupslb-dan-rups-independen-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "PKPK Gelar [RUPSLB] dan RUPS Independen 11 Desember 2026",
+  "deck": "Paragon Karya Perkasa menjadwalkan RUPSLB dan RUPS Independen pada 11 Desember 2026. Pemegang saham yang tercatat per 18 November 2026 berhak hadir dan memberi suara.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PKPK",
+   "RUPSLB",
+   "RUPS Independen",
+   "Paragon Karya Perkasa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/24551d67e7_0c60ddcfb7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kmds-panggil-rupslb-26-november-ubah-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "KMDS Panggil RUPSLB 26 November, Ubah [Anggaran Dasar]",
+  "deck": "RUPSLB KMDS pada 26 November 2026 akan membahas penambahan klasifikasi KBLI ke anggaran dasar agar sesuai bidang usaha perseroan.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KMDS",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/55375643ff_0fc8bf38eb.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "idea-teken-pjbs-nawasena-ambil-alih-66-58-saham",
@@ -6316,170 +6476,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475636-hashim-soroti-praktik-goreng-saham-rupiah-bisa-tembus-rp22000-jika-asing-cabut-dari-bursa"
- },
- {
-  "slug": "kadin-ekonomi-ri-tumbuh-5-1-persen-tengah-gejolak-global",
-  "category": "Makroekonomi",
-  "title": "Kadin: Ekonomi RI [Tumbuh] 5,1 Persen Tengah Gejolak Global",
-  "deck": "Ketua Umum Kadin Anindya Novyan Bakrie menyebut fundamental ekonomi Indonesia tetap kuat meski pasar modal tertekan di tengah ketidakpastian global.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/kadin-ekonomi-ri-tumbuh-5-1-persen-tengah-gejolak-global.jpg",
-  "imageV": "mvtjbfs1",
-  "tags": [
-   "kadin",
-   "anindya novyan bakrie",
-   "pertumbuhan ekonomi",
-   "pasar modal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475634-ketua-umum-kadin-indonesia-fundamental-ekonomi-ri-kuat-tumbuh-51-persen-di-tengah-gejolak-global"
- },
- {
-  "slug": "pupuk-indonesia-rinci-26-634-titik-serah-jelang-musim-tanam",
-  "category": "BUMN",
-  "title": "Pupuk Indonesia Rinci [26.634] Titik Serah Jelang Musim Tanam",
-  "deck": "Menjelang musim tanam, Pupuk Indonesia memaparkan rincian jaringan gudang, pelabuhan, dan rute distribusi yang menyalurkan pupuk bersubsidi ke puluhan ribu titik di seluruh Indonesia.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/pupuk-indonesia-rinci-26-634-titik-serah-jelang-musim-tanam.jpg",
-  "imageV": "mvtdrq2q",
-  "tags": [
-   "Pupuk Indonesia",
-   "Musim Tanam",
-   "Distribusi Pupuk",
-   "BUMN"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/899/fasilitas-distribusi-pupuk-indonesia-dukung-pemenuhan-kebutuhan-pupuk-subsidi-saat-musim-tanam",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "kadin-bentuk-delapan-kelompok-kerja-di-rapimnas-2026",
-  "category": "Bisnis",
-  "title": "Kadin Bentuk [Delapan] Kelompok Kerja di Rapimnas 2026",
-  "deck": "Kadin Indonesia meluncurkan delapan kelompok kerja dalam Rapimnas 2026, dari penguatan UMKM hingga kedaulatan pangan, dengan evaluasi setiap tiga bulan.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/kadin-bentuk-delapan-kelompok-kerja-di-rapimnas-2026.jpg",
-  "imageV": "mvtdrqn7",
-  "tags": [
-   "kadin",
-   "anindya bakrie",
-   "rapimnas 2026",
-   "umkm"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475620-rapimnas-kadin-2026-anindya-bakrie-luncurkan-delapan-kelompok-kerja-pelaku-usaha-naik-kelas-kedaulatan-ketahanan-pangan"
- },
- {
-  "slug": "ptsn-laba-kuartal-iii-susut-40-meski-pendapatan-naik-56",
-  "category": "Aksi Korporasi",
-  "title": "PTSN: Laba Kuartal III Susut 40% Meski [Pendapatan] Naik 56%",
-  "deck": "Sat Nusapersada mencatat pendapatan 9 bulan naik ke US$277,6 juta, tapi laba bersih turun ke US$6,18 juta karena margin tergerus dan arus kas operasi menyusut.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTSN",
-   "laporan keuangan",
-   "laba bersih",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029153120-65322-0/FinancialStatement-2026-III-PTSN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kadin-sebut-ri-masih-bright-spot-ekonomi-dunia",
-  "category": "Makroekonomi",
-  "title": "Kadin Sebut RI Masih '[Bright Spot]' Ekonomi Dunia",
-  "deck": "Ketua Umum Kadin Anindya Novyan Bakrie memakai data IMF dan perbandingan pertumbuhan ekonomi untuk menegaskan Indonesia masih tangguh di tengah ketidakpastian global.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/kadin-sebut-ri-masih-bright-spot-ekonomi-dunia.jpg",
-  "imageV": "mvtdrr16",
-  "tags": [
-   "kadin",
-   "anindya bakrie",
-   "imf",
-   "ekonomi indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475612-anindya-bakrie-kutip-data-imf-indonesia-justru-jadi-bright-spot-di-tengah-ketidakpastian-global"
- },
- {
-  "slug": "mtwi-laba-9-bulan-ambruk-89-saat-beban-klaim-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "MTWI: Laba 9 Bulan Ambruk 89% Saat Beban [Klaim] Melonjak",
-  "deck": "Laba bersih MTWI turun dari Rp76,23 miliar menjadi Rp8,53 miliar dalam sembilan bulan 2026 akibat beban klaim yang melonjak tajam.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTWI",
-   "laporan keuangan",
-   "asuransi",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029151607-65288-0/FinancialStatement-2026-III-MTWI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptro-jelaskan-ke-bei-rencana-rights-issue-170-juta-saham-hmetd",
-  "category": "Aksi Korporasi",
-  "title": "PTRO Jelaskan ke BEI Rencana Rights Issue 170 Juta Saham [HMETD]",
-  "deck": "Petrosea menjawab permintaan penjelasan BEI soal rencana rights issue, memastikan dilusi maksimal 1,66% dengan pembeli siaga PT Kreasi Jaya Persada.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTRO",
-   "Petrosea",
-   "rights issue",
-   "HMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2928a4f32c_7d411e0f0e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "miti-catat-rugi-rp1-45-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "MITI Catat [Rugi] Rp1,45 Miliar di Kuartal III 2026",
-  "deck": "Laba bersih Mitra Investindo anjlok dari untung Rp7,5 miliar jadi rugi Rp1,45 miliar pada sembilan bulan pertama 2026, seiring pendapatan turun 11 persen.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MITI",
-   "Mitra Investindo",
-   "laporan keuangan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029151827-65040-0/FinancialStatement-2026-III-MITI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ypas-berbalik-untung-laba-bersih-rp31-6-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "YPAS Berbalik Untung, [Laba] Bersih Rp31,6 Miliar di Kuartal III",
-  "deck": "Yanaprima Hastapersada (YPAS) mencatat laba bersih Rp31,64 miliar pada sembilan bulan 2026, berbalik dari rugi Rp747,55 juta tahun sebelumnya, didorong lonjakan penjualan dan margin.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YPAS",
-   "laporan keuangan",
-   "kemasan plastik",
-   "kinerja emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150838-64815-0/FinancialStatement-2026-III-YPAS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gema-rugi-rp13-97-miliar-di-kuartal-iii-2026-eps-negatif",
-  "category": "Aksi Korporasi",
-  "title": "GEMA [Rugi] Rp13,97 Miliar di Kuartal III 2026, EPS Negatif",
-  "deck": "GEMA membukukan rugi bersih Rp13,97 miliar pada 9 bulan pertama 2026, berbalik dari laba Rp5,29 miliar tahun sebelumnya, akibat beban lain-lain dan bunga yang melonjak.",
-  "date": "29 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GEMA",
-   "laporan keuangan",
-   "rugi bersih",
-   "emiten furnitur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261029150818-65029-0/FinancialStatement-2026-III-GEMA.pdf",
-  "sourceLabel": "IDX"
  }
 ];

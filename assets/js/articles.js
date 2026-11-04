@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tbi-entikong-didorong-jadi-pintu-ekspor-impor-perbatasan",
+  "category": "Bisnis",
+  "title": "TBI Entikong Didorong Jadi Pintu [Ekspor-Impor] Perbatasan",
+  "deck": "BNPPDT menggelar forum lintas kementerian untuk membenahi kendala regulasi dan infrastruktur agar Terminal Barang Internasional Entikong bisa dipakai penuh untuk perdagangan lintas negara.",
+  "image": "assets/img/tbi-entikong-didorong-jadi-pintu-ekspor-impor-perbatasan.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T21:14:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476651-tbi-entikong-jadi-pintu-perdagangan-lintas-negara-bnppdt-genjot-percepatan-operasional",
+  "tags": [
+   "TBI Entikong",
+   "BNPPDT",
+   "perdagangan perbatasan",
+   "Kalimantan Barat"
+  ],
+  "body": [
+   "Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT) menggelar forum koordinasi lintas kementerian dan lembaga untuk mempercepat pengoperasian Terminal Barang Internasional (TBI) Entikong, yang berada di kawasan Pos Lintas Batas Negara (PLBN) Kalimantan Barat. Pertemuan ini digagas untuk membenahi kendala aturan, infrastruktur, dan tata kelola pelayanan yang selama ini membuat terminal tersebut belum berfungsi penuh sebagai pintu perdagangan dengan Malaysia. Langkah ini penting karena fasilitas yang sudah dibangun pemerintah berisiko sia-sia jika syarat operasionalnya tidak pernah dituntaskan.",
+   "Pelaksana Harian Sekretaris BNPPDT, Nurdin, menyebut forum ini sebagai momentum untuk mengidentifikasi sekaligus menyelesaikan hambatan yang masih menahan TBI Entikong, sejalan dengan instruksi Kepala BNPPDT agar fasilitas yang sudah ada segera dimanfaatkan. Ia menegaskan terminal ini tidak boleh berdiri sendiri. 'Terminal Barang Internasional bukan sekadar fasilitas yang dibangun di kawasan PLBN. Kita harus memastikan kawasan hinterland dan pusat-pusat produksi juga terhubung dengan pintu perdagangan internasional,' kata Nurdin di Jakarta, Rabu (4/11/2026).",
+   "Dari sisi kepabeanan, Nurdin menjelaskan bahwa kesiapan operasional mencakup penyusunan standar operasional prosedur serta ketentuan jenis barang yang boleh masuk dan keluar lewat TBI. Ia juga meminta Kementerian Perhubungan menyiapkan aturan teknis di lapangan, termasuk mekanisme pelayanan dan jenis kendaraan yang akan dipakai untuk kegiatan ekspor-impor. 'Kita ingin menjadikan PLBN tidak hanya sebagai pintu lintas orang, tetapi juga sebagai pintu ekspor dan impor,' ujarnya.",
+   "Dari sisi infrastruktur, Deputi Bidang Infrastruktur Kawasan Perbatasan Mayjen TNI Edi Nurhabad menyoroti perlunya kesepakatan antar kementerian dan lembaga soal fasilitas pendukung, termasuk jalur akses khusus atau dedicated lane untuk kendaraan pengangkut barang. Ia mengusulkan agar kebutuhan jalur khusus itu dibahas bersama, dan jika belum tersedia, dicarikan solusi sementara agar infrastruktur yang sudah ada tetap bisa dipakai untuk mendukung operasional TBI."
+  ],
+  "fotoAdegan": "Cargo trucks queued on a road at a forest-lined border crossing area, overcast tropical morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/04/6aeb3ce2641d6-bnppdt-genjot-operasionlisasi-tbi-entikong_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan forum koordinasi antar kementerian untuk mendorong Terminal Barang Internasional Entikong di perbatasan Kalimantan Barat agar benar-benar bisa dipakai mengirim dan menerima barang dari Malaysia, bukan sekadar tempat pemeriksaan orang yang melintas. Pihak yang langsung terdampak adalah pelaku usaha dan daerah penghasil barang di sekitar Entikong, karena merekalah yang akan memakai jalur ini begitu syarat bea cukai dan aturan kendaraan selesai disiapkan. Berita ini menyebut dua pekerjaan rumah yang belum tuntas, yaitu Kementerian Perhubungan diminta menyusun aturan jenis kendaraan dan mekanisme pelayanan, serta kebutuhan jalur khusus truk yang menurut Edi Nurhabad masih harus disepakati lintas lembaga. Belum ada tanggal pasti kapan TBI Entikong mulai beroperasi penuh atau hasil kesepakatan soal jalur khusus itu, jadi yang perlu ditunggu adalah keputusan dari forum koordinasi lanjutan atau aturan teknis Kementerian Perhubungan yang disebut akan menyusul.",
+  "imageV": "mw29dleq"
+ },
+ {
   "slug": "kija-pendapatan-9m26-naik-16-laba-bersih-turun-38",
   "category": "Aksi Korporasi",
   "title": "KIJA: Pendapatan 9M26 [Naik] 16%, Laba Bersih Turun 38%",
@@ -29,6 +56,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "presiden-prabowo-buka-akses-kredit-bagi-14-juta-ibu",
+  "category": "UMKM",
+  "title": "Presiden Prabowo Buka Akses Kredit bagi [14 Juta] Ibu",
+  "deck": "PNM dan Kementerian UMKM menandatangani kerja sama Kredit Perempuan Prasejahtera, mulai berjalan 9 November 2026 dengan target 1,7 juta nasabah hingga akhir tahun.",
+  "image": "assets/img/presiden-prabowo-buka-akses-kredit-bagi-14-juta-ibu.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T20:20:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476647-presiden-prabowo-bakal-buka-akses-modal-bagi-14-juta-ibu-ibu-di-seluruh-indonesia",
+  "tags": [
+   "UMKM",
+   "PNM",
+   "KPPS",
+   "Kredit Perempuan"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) dan Kementerian UMKM resmi menandatangani kerja sama pembiayaan untuk program Kredit Perempuan Prasejahtera (KPPS) di Ballroom Nareswara SMESCO, Jakarta Selatan, Rabu (4/11/2026). Program ini berupa kredit afirmatif, yakni pinjaman dengan syarat yang dipermudah, yang ditujukan bagi perempuan dari keluarga kurang mampu untuk memulai atau mengembangkan usaha kecil. Program ini penting bagi pembaca karena menyasar langsung permodalan di tingkat rumah tangga, segmen yang selama ini sering sulit mengakses kredit perbankan biasa.",
+   "Direktur Utama PNM, Kindaris, menyatakan penyaluran kredit ini akan dimulai serentak pada 9 November 2026, dengan target 1,7 juta perempuan penerima pinjaman sampai akhir tahun ini. Sebagai simbol peluncuran, PNM mengumpulkan 30.000 nasabah dari seluruh Indonesia, terdiri dari 10.000 orang yang hadir langsung di SMESCO dan 20.000 lainnya mengikuti secara daring. Penyaluran dilakukan melalui jaringan PNM Mekaar, yang sudah lebih dulu menyalurkan kredit mikro kepada kelompok perempuan prasejahtera di berbagai daerah.",
+   "Kindaris menambahkan bahwa nasabah program ini tidak hanya menerima pinjaman uang, tetapi juga pendampingan rutin, pelatihan mengelola keuangan, serta bantuan memperluas jejaring usaha. Menurutnya, penguatan modal bagi perempuan memberi dampak berganda yang besar bagi ekonomi keluarga, karena banyak usaha kecil, dari dapur rumah tangga sampai warung, dikelola oleh perempuan.",
+   "Menteri UMKM Maman Abdurrahman mengatakan program KPPS ini merupakan kelanjutan dari gagasan Presiden Prabowo Subianto, dan penandatanganan kerja sama ini menjadi langkah administratif untuk menjalankan program tersebut di lapangan."
+  ],
+  "fotoAdegan": "Women vendors arranging goods and snacks at a small neighborhood warung stall, soft morning sunlight, Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/12/6aa4a95918d76-presiden-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah tanggal kerja: penyaluran kredit untuk perempuan prasejahtera mulai dijalankan serempak pada 9 November 2026, dengan target 1,7 juta perempuan penerima pinjaman sampai akhir tahun ini. Yang langsung terdampak adalah perempuan pelaku usaha kecil, terutama nasabah PNM Mekaar yang berjualan di warung dan menjalankan usaha rumahan di berbagai daerah. Target 1,7 juta nasabah ini jauh lebih kecil dibandingkan ambisi menjangkau belasan juta perempuan yang disebutkan sebagai sasaran program, sehingga penandatanganan kerja sama ini tampak seperti tahap awal yang akan diperluas bertahap, bukan langsung menyasar semua sasaran sekaligus. Yang akan memastikan arah ini adalah laporan realisasi penyaluran pada akhir Desember 2026, yaitu apakah target 1,7 juta nasabah tercapai dan apakah ada perluasan tahap berikutnya pada 2027.",
+  "imageV": "mw29dlwg"
+ },
+ {
   "slug": "bike-koreksi-kedua-ke-bursa-rincian-akuisisi-bum",
   "category": "Aksi Korporasi",
   "title": "BIKE Koreksi Kedua ke Bursa, Rincian Akuisisi [BUM]",
@@ -53,6 +107,32 @@ var ARTICLES = [
   "fotoAdegan": "Technicians in safety vests inspecting pipeline valves at a small gas power plant site, overcast sky, East Kalimantan landscape",
   "takeaway": "Laporan ini condong negatif bagi BIKE, karena koreksi kedua dalam dua hari ini menambah satu lagi akuisisi, yaitu BUM, ke daftar transaksi yang sudah efektif secara hukum tapi belum dibayar tunai, sambil menegaskan bahwa pembiayaannya bergantung pada pinjaman dari pemegang saham pengendali sendiri. Pos yang tersentuh adalah ekuitas, yang jadi acuan uji materialitas transaksi, dan arus kas, karena utang ke tiga pihak penjual saham ini baru akan keluar kas setelah pinjaman PMJ benar-benar cair sepenuhnya, bukan sekaligus seperti tahap pertama Rp125 miliar yang justru dipakai untuk biaya administrasi, bukan pelunasan akuisisi. Pemegang saham perlu memantau pelaksanaan RUPSLB yang disebut perseroan untuk merapikan administrasi transaksi ini, serta tahap pencairan pinjaman PMJ berikutnya, karena baru setelah pembayaran tuntas MTI, FBM, dan BUM bisa masuk ke laporan keuangan konsolidasian BIKE.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "kredit-perempuan-prasejahtera-resmi-bunga-8-persen",
+  "category": "UMKM",
+  "title": "Kredit Perempuan Prasejahtera Resmi Bunga [8 Persen]",
+  "deck": "Kementerian UMKM dan PNM menyalurkan Kredit Perempuan Prasejahtera dengan bunga flat 8 persen per tahun, disubsidi pemerintah senilai Rp2,62 triliun.",
+  "image": "assets/img/kredit-perempuan-prasejahtera-resmi-bunga-8-persen.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T19:53:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476638-kementerian-umkm-dan-pnm-siap-salurkan-kredit-perempuan-prasejahtera-bunga-flat-8-persen-per-tahun",
+  "tags": [
+   "UMKM",
+   "PNM",
+   "Kredit Perempuan Prasejahtera",
+   "Subsidi Bunga"
+  ],
+  "body": [
+   "Kementerian UMKM dan PT Permodalan Nasional Madani (PNM) menandatangani kerja sama pembiayaan untuk program Kredit Perempuan Prasejahtera (KPPS) di Jakarta, Rabu, 4 November 2026. Program ini menyasar perempuan pengusaha ultra mikro yang selama ini kesulitan mendapat kredit dengan bunga wajar, karena pemerintah menanggung selisih bunga sehingga nasabah hanya membayar bunga tetap 8 persen per tahun.",
+   "Menteri UMKM Maman Abdurrahman menyebut program ini diinisiasi oleh Presiden Prabowo Subianto untuk memperluas akses pembiayaan produktif bagi kelompok prasejahtera. Pemerintah mengalokasikan anggaran subsidi bunga sebesar Rp2,62 triliun pada tahun anggaran 2026 untuk menopang skema ini. Selain modal, lembaga penyalur diwajibkan mendampingi nasabah lewat kunjungan rutin minimal setiap dua minggu, mencakup edukasi keuangan, pelatihan usaha, dan pemantauan bisnis nasabah.",
+   "Direktur Utama PNM Kindaris mengatakan perusahaannya menetapkan target menjangkau 1,7 juta nasabah KPPS hingga akhir 2026. Setelah penandatanganan, PNM berkoordinasi dengan Kementerian Keuangan untuk mengakses sistem host-to-host pada Sistem Informasi Kredit Program (SIKP), dan menyatakan siap menjalankan KPPS mulai 9 November 2026. Dengan jaringan kantor layanan PNM yang tersebar luas, penyaluran ini diharapkan menjangkau perempuan pengusaha sampai ke daerah terpencil."
+  ],
+  "fotoAdegan": "A field officer with a notebook talking to a woman tending a small home-based food stall in an Indonesian village street, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/04/6aeb28008246c-direktur-utama-pnm-kindaris-berbicara-dan-menteri-umkm-maman-abdurrahman-kemeja-putih-dalam-penandatanganan-perjanjian-kerja-sama-pembiayaan-kredit-program-perempuan-prasejahtera-kpps-rabu-4112026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah bunga kredit untuk perempuan prasejahtera dipatok flat 8 persen per tahun, dengan pemerintah menanggung selisihnya lewat anggaran subsidi Rp2,62 triliun tahun ini, dan penyalurnya wajib mendampingi nasabah setiap dua minggu. Yang terdampak langsung adalah perempuan pengusaha ultra mikro calon nasabah PNM, sementara PNM sendiri jadi pelaksana tunggal yang menanggung target besar. Pola ini menunjukkan pemerintah memperluas pembiayaan sosial lewat BUMN dengan subsidi langsung dari APBN, bukan lewat skema kredit komersial biasa. Yang akan menentukan apakah skema ini berjalan sesuai rencana adalah realisasi penyaluran menjelang akhir 2026 dibandingkan target 1,7 juta nasabah yang dipatok PNM, serta kelancaran integrasi sistem host-to-host SIKP yang baru mulai dikoordinasikan dengan Kementerian Keuangan.",
+  "imageV": "mw29dmcn"
  },
  {
   "slug": "bina-ajukan-pmthmetd-ii-rencana-tambah-350-juta-saham-baru",
@@ -740,7 +820,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah sikap pemerintah dalam merespons ancaman downgrade dari MSCI, penyedia indeks saham global yang mempertimbangkan menurunkan status pasar modal Indonesia dari kategori pasar berkembang ke pasar mandiri atau standalone. Pemerintah memilih jalur perbaikan tata kelola, antara lain mewajibkan keterbukaan pemegang saham dengan kepemilikan di atas 1 persen dan memperkuat pengawasan OJK terhadap manipulasi saham, ketimbang sekadar membantah penilaian itu. Yang terdampak langsung adalah emiten dan pemegang saham besar yang harus lebih terbuka soal kepemilikannya, serta investor ritel yang diminta tidak panik merespons isu downgrade ini. Siaran pers ini belum menyebutkan kapan MSCI akan mengumumkan keputusan akhirnya atau bagaimana aturan keterbukaan 1 persen itu akan diterapkan secara teknis, jadi arah pastinya baru akan terlihat setelah kajian MSCI berikutnya atau aturan turunan dari OJK terbit.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "assa-bagi-dividen-interim-rp20-per-saham-dibayar-20-november",

@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "1V1MWTXVp8Y",
+  "title": "Polemik PPN 11 Persen pada Pembalut Wanita",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Pengenaan Pajak Pertambahan Nilai efektif 11 persen pada pembalut wanita menjadi sorotan publik karena dinilai membebani kebutuhan biologis esensial perempuan.",
+  "takeaway": "Menyoroti dampak kebijakan pajak konsumsi terhadap daya beli dan kesetaraan akses kebutuhan dasar."
+ },
+ {
+  "id": "HOu6QhLazRo",
+  "title": "Bakom RI: PPN Pembalut Akan Dikaji Ulang",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Di tengah perdebatan publik soal PPN 11 persen pada pembalut wanita, otoritas terkait menyatakan kebijakan tersebut akan ditinjau kembali.",
+  "takeaway": "Perkembangan rencana evaluasi kebijakan pajak ini relevan bagi pembaca yang mengikuti arah kebijakan fiskal pemerintah."
+ },
+ {
+  "id": "MyeOqJ2zRuo",
+  "title": "Ekonom: Inflasi Penyebab Kenaikan Harga Pembalut",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Prof. Telisa menjelaskan bahwa inflasi turut mendorong kenaikan harga pembalut, di tengah polemik PPN 11 persen yang dinilai memberatkan kebutuhan biologis perempuan.",
+  "takeaway": "Memberi konteks makroekonomi, yakni inflasi, terhadap kenaikan harga barang kebutuhan dasar yang sedang ramai dibahas."
+ },
+ {
   "id": "F_2b1F8muIk",
   "title": "Menkeu Pastikan Stabilitas Keuangan Indonesia Tetap Terjaga",
   "category": "Makroekonomi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Rapimnas Kadin 2026 menjadi forum konsolidasi tahunan antara pemerintah dan dunia usaha untuk merumuskan arah kebijakan ekonomi dan program kerja ke depan.",
   "takeaway": "Forum ini relevan bagi pembaca ekonomi karena memperlihatkan arah kebijakan dan prioritas yang disepakati pemerintah bersama pelaku usaha, yang berpotensi memengaruhi iklim bisnis nasional."
- },
- {
-  "id": "LYfSvqm5b6I",
-  "title": "Moody's Peringatkan Utang Prancis Bengkak Nyaris Rp72.000 Triliun",
-  "category": "Global",
-  "program": "OneNews Update",
-  "summary": "Lembaga pemeringkat Moody's menyoroti pelebaran utang pemerintah Prancis yang nyaris mencapai Rp72.000 triliun, sinyal tekanan fiskal bagi ekonomi terbesar kedua di Eropa.",
-  "takeaway": "Tekanan fiskal di Prancis relevan diikuti karena dapat memengaruhi stabilitas ekonomi kawasan Eropa, salah satu mitra dagang utama Indonesia."
- },
- {
-  "id": "RVHkfzpCQ4A",
-  "title": "Kadin Dorong KDMP Jadi Mitra UMKM, Bukan Pesaing Minimarket",
-  "category": "UMKM",
-  "program": "Indonesia Business Forum",
-  "summary": "Kadin akan mendorong program KDMP sebagai mitra penguatan UMKM, bukan pesaing minimarket, dibahas menjelang Rapimnas Kadin 2026 pada 29-30 Oktober yang merumuskan arah kebijakan ekonomi lintas kementerian.",
-  "takeaway": "Relevan karena menyangkut upaya pemberdayaan UMKM melalui sinergi koperasi desa dan ritel modern."
- },
- {
-  "id": "aV0r0Ns1gLA",
-  "title": "Ekonomi Kerakyatan untuk Indonesia Mendunia",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Diskusi dalam Indonesia Business Forum mengangkat tema ekonomi kerakyatan sebagai modal Indonesia bersaing di kancah global, bagian dari rangkaian Rapimnas Kadin 2026 pada 29-30 Oktober.",
-  "takeaway": "Memberi konteks arah kebijakan ekonomi nasional yang akan dirumuskan dalam Rapimnas Kadin."
  }
 ];

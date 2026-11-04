@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "1V1MWTXVp8Y",
+  "title": "Polemik PPN 11 Persen pada Pembalut Wanita",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Pengenaan Pajak Pertambahan Nilai efektif 11 persen pada pembalut wanita menjadi sorotan publik karena dinilai membebani kebutuhan biologis esensial perempuan.",
+  "takeaway": "Menyoroti dampak kebijakan pajak konsumsi terhadap daya beli dan kesetaraan akses kebutuhan dasar.",
+  "terbit": "2026-11-04T15:03:48+00:00"
+ },
+ {
+  "id": "HOu6QhLazRo",
+  "title": "Bakom RI: PPN Pembalut Akan Dikaji Ulang",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Di tengah perdebatan publik soal PPN 11 persen pada pembalut wanita, otoritas terkait menyatakan kebijakan tersebut akan ditinjau kembali.",
+  "takeaway": "Perkembangan rencana evaluasi kebijakan pajak ini relevan bagi pembaca yang mengikuti arah kebijakan fiskal pemerintah.",
+  "terbit": "2026-11-04T14:57:40+00:00"
+ },
+ {
+  "id": "MyeOqJ2zRuo",
+  "title": "Ekonom: Inflasi Penyebab Kenaikan Harga Pembalut",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Prof. Telisa menjelaskan bahwa inflasi turut mendorong kenaikan harga pembalut, di tengah polemik PPN 11 persen yang dinilai memberatkan kebutuhan biologis perempuan.",
+  "takeaway": "Memberi konteks makroekonomi, yakni inflasi, terhadap kenaikan harga barang kebutuhan dasar yang sedang ramai dibahas.",
+  "terbit": "2026-11-04T14:43:24+00:00"
+ },
+ {
   "id": "F_2b1F8muIk",
   "title": "Menkeu Pastikan Stabilitas Keuangan Indonesia Tetap Terjaga",
   "category": "Makroekonomi",

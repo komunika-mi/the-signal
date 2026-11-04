@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tbi-entikong-didorong-jadi-pintu-ekspor-impor-perbatasan",
+  "category": "Bisnis",
+  "title": "TBI Entikong Didorong Jadi Pintu [Ekspor-Impor] Perbatasan",
+  "deck": "BNPPDT menggelar forum lintas kementerian untuk membenahi kendala regulasi dan infrastruktur agar Terminal Barang Internasional Entikong bisa dipakai penuh untuk perdagangan lintas negara.",
+  "date": "4 November 2026",
+  "image": "assets/img/tbi-entikong-didorong-jadi-pintu-ekspor-impor-perbatasan.jpg",
+  "imageV": "mw29dleq",
+  "tags": [
+   "TBI Entikong",
+   "BNPPDT",
+   "perdagangan perbatasan",
+   "Kalimantan Barat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476651-tbi-entikong-jadi-pintu-perdagangan-lintas-negara-bnppdt-genjot-percepatan-operasional"
+ },
+ {
   "slug": "kija-pendapatan-9m26-naik-16-laba-bersih-turun-38",
   "category": "Aksi Korporasi",
   "title": "KIJA: Pendapatan 9M26 [Naik] 16%, Laba Bersih Turun 38%",
@@ -21,6 +38,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "presiden-prabowo-buka-akses-kredit-bagi-14-juta-ibu",
+  "category": "UMKM",
+  "title": "Presiden Prabowo Buka Akses Kredit bagi [14 Juta] Ibu",
+  "deck": "PNM dan Kementerian UMKM menandatangani kerja sama Kredit Perempuan Prasejahtera, mulai berjalan 9 November 2026 dengan target 1,7 juta nasabah hingga akhir tahun.",
+  "date": "4 November 2026",
+  "image": "assets/img/presiden-prabowo-buka-akses-kredit-bagi-14-juta-ibu.jpg",
+  "imageV": "mw29dlwg",
+  "tags": [
+   "UMKM",
+   "PNM",
+   "KPPS",
+   "Kredit Perempuan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476647-presiden-prabowo-bakal-buka-akses-modal-bagi-14-juta-ibu-ibu-di-seluruh-indonesia"
+ },
+ {
   "slug": "bike-koreksi-kedua-ke-bursa-rincian-akuisisi-bum",
   "category": "Aksi Korporasi",
   "title": "BIKE Koreksi Kedua ke Bursa, Rincian Akuisisi [BUM]",
@@ -35,6 +69,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43841d172b_aef1884f84.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kredit-perempuan-prasejahtera-resmi-bunga-8-persen",
+  "category": "UMKM",
+  "title": "Kredit Perempuan Prasejahtera Resmi Bunga [8 Persen]",
+  "deck": "Kementerian UMKM dan PNM menyalurkan Kredit Perempuan Prasejahtera dengan bunga flat 8 persen per tahun, disubsidi pemerintah senilai Rp2,62 triliun.",
+  "date": "4 November 2026",
+  "image": "assets/img/kredit-perempuan-prasejahtera-resmi-bunga-8-persen.jpg",
+  "imageV": "mw29dmcn",
+  "tags": [
+   "UMKM",
+   "PNM",
+   "Kredit Perempuan Prasejahtera",
+   "Subsidi Bunga"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476638-kementerian-umkm-dan-pnm-siap-salurkan-kredit-perempuan-prasejahtera-bunga-flat-8-persen-per-tahun"
  },
  {
   "slug": "bina-ajukan-pmthmetd-ii-rencana-tambah-350-juta-saham-baru",
@@ -6419,54 +6470,6 @@ var ARTICLES = [
    "properti"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121727-64519-0/FinancialStatement-2026-III-DUTI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fmii-rugi-rp1-86-miliar-penjualan-anjlok-68-di-9-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "FMII Rugi Rp1,86 Miliar, [Penjualan] Anjlok 68% di 9 Bulan 2026",
-  "deck": "Fortune Mate Indonesia (FMII) berbalik rugi Rp1,86 miliar pada sembilan bulan 2026 dari laba Rp15,4 miliar setahun sebelumnya, seiring penjualan yang turun hampir 68 persen.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FMII",
-   "properti",
-   "laporan keuangan",
-   "rugi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121507-64934-0/FinancialStatement-2026-III-FMII.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bsde-laba-bersih-turun-38-ke-rp844-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "BSDE: Laba Bersih [Turun] 38% ke Rp844 Miliar di Kuartal III",
-  "deck": "Laba bersih BSDE anjlok 38 persen menjadi Rp844,7 miliar pada sembilan bulan pertama 2026, seiring pendapatan yang turun dan beban bunga yang membengkak.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSDE",
-   "laporan keuangan",
-   "properti",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121720-64522-0/FinancialStatement-2026-III-BSDE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dyan-laba-bersih-pemegang-saham-turun-23-jadi-rp38-9-miliar",
-  "category": "Aksi Korporasi",
-  "title": "DYAN: Laba Bersih Pemegang Saham [Turun] 23% jadi Rp38,9 Miliar",
-  "deck": "Laba Dyandra Media naik tipis jadi Rp39,51 miliar pada sembilan bulan 2026, tapi laba untuk pemegang saham utama turun karena untung pelepasan anak usaha di 2025 tak terulang tahun ini.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DYAN",
-   "Dyandra Media",
-   "laporan keuangan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030121330-65326-0/FinancialStatement-2026-III-DYAN.pdf",
   "sourceLabel": "IDX"
  }
 ];

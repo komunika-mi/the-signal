@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekonomi-ri-tumbuh-5-47-persen-pada-triwulan-iii-2026",
+  "category": "Makroekonomi",
+  "title": "Ekonomi RI Tumbuh [5,47] Persen pada Triwulan III 2026",
+  "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada triwulan III 2026, naik dari 5,29 persen pada triwulan sebelumnya, didorong lonjakan belanja pemerintah dan konsumsi rumah tangga.",
+  "date": "5 November 2026",
+  "image": "assets/img/keranjang-belanja-ibu.jpg",
+  "tags": [
+   "Pertumbuhan Ekonomi",
+   "PDB Triwulan III",
+   "Investasi",
+   "Stimulus Akhir Tahun"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7201/ekonomi-indonesia-triwulan-iii-2026-tumbuh-547-fundamental-kuat-jaga-momentum-pertumbuhan",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "minyak-nilam-resmi-masuk-daftar-komoditas-srg",
+  "category": "Bisnis",
+  "title": "Minyak Nilam Resmi Masuk Daftar Komoditas [SRG]",
+  "deck": "Kementerian Perdagangan menjadikan minyak nilam komoditas ke-31 yang bisa disimpan dalam Sistem Resi Gudang, membuka jalur pembiayaan baru bagi petani dan penyuling.",
+  "date": "5 November 2026",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
+  "tags": [
+   "Sistem Resi Gudang",
+   "Minyak Nilam",
+   "Bappebti",
+   "Kementerian Perdagangan"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-perdagangan-komoditas-unggulan-indonesia-kemendag-menetapkan-minyak-nilam-menjadi-komoditas-srg",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "giaa-siapkan-rights-issue-danantara-bayar-pakai-saham-gmfi",
   "category": "Aksi Korporasi",
   "title": "GIAA Siapkan Rights Issue, Danantara Bayar Pakai Saham [GMFI]",
@@ -83,6 +115,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d03d0b2c4_7e0bd418c8.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tarif-listrik-tidak-naik-lonjakan-tagihan-karena-cuaca-panas",
+  "category": "Energi",
+  "title": "Tarif Listrik [Tidak] Naik, Lonjakan Tagihan karena Cuaca Panas",
+  "deck": "FKBI menegaskan tarif listrik Triwulan IV 2026 tidak naik. Tagihan yang terasa membesar dipicu cuaca panas yang mendorong pemakaian AC lebih banyak.",
+  "date": "5 November 2026",
+  "image": "assets/img/tarif-listrik-tidak-naik-lonjakan-tagihan-karena-cuaca-panas.jpg",
+  "imageV": "mw3ji4o1",
+  "tags": [
+   "tarif listrik",
+   "PLN",
+   "cuaca panas",
+   "konsumen"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476820-tarif-listrik-tidak-naik-masyarakat-diminta-bijak-kelola-pemakaian"
  },
  {
   "slug": "vico-ganti-dirut-dan-komisaris-utama-tunggu-restu-ojk",
@@ -179,6 +228,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105170710-65692-0/FinancialStatement-2026-III-ASBI.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pemuda-lampung-unjuk-karya-umkm-dapat-modal",
+  "category": "UMKM",
+  "title": "Pemuda Lampung Unjuk Karya, UMKM Dapat [Modal]",
+  "deck": "Ribuan pemuda Lampung berkumpul di Nusantara Youth Expo 2026, acara yang juga menyalurkan bantuan modal ke pelaku UMKM sambil membahas kesiapan ekonomi generasi muda menuju 2045.",
+  "date": "5 November 2026",
+  "image": "assets/img/pemuda-lampung-unjuk-karya-umkm-dapat-modal.jpg",
+  "imageV": "mw3ji53g",
+  "tags": [
+   "UMKM",
+   "Pemuda",
+   "Lampung",
+   "Indonesia Emas 2045"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476806-menjemput-indonesia-emas-2045-ribuan-pemuda-unjuk-kreativitas-dan-inovasi"
+ },
+ {
+  "slug": "pnm-dan-abpednas-dorong-literasi-keuangan-desa",
+  "category": "UMKM",
+  "title": "PNM dan ABPEDNAS Dorong [Literasi Keuangan] Desa",
+  "deck": "PNM dan ABPEDNAS teken MoU memperluas literasi keuangan dan pendampingan usaha desa, menyasar jaringan tiga asosiasi dengan 1,2 juta anggota.",
+  "date": "5 November 2026",
+  "image": "assets/img/pnm-dan-abpednas-dorong-literasi-keuangan-desa.jpg",
+  "imageV": "mw3ji5i5",
+  "tags": [
+   "PNM",
+   "ABPEDNAS",
+   "literasi keuangan",
+   "pemberdayaan desa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476805-literasi-keuangan-jadi-tantangan-ekonomi-desa-pnm-dan-abpednas-dorong-pendampingan"
  },
  {
   "slug": "kejaksaan-ikut-awasi-penyaluran-pupuk-subsidi-di-karo",
@@ -543,7 +626,7 @@ var ARTICLES = [
   "title": "Ekonomi Indonesia Tumbuh [5,47%] di Triwulan III-2026",
   "deck": "BPS mencatat produk domestik bruto RI naik 5,47 persen secara tahunan pada triwulan III-2026, ditopang belanja pemerintah dan ekspor.",
   "date": "5 November 2026",
-  "image": "assets/img/keranjang-belanja-ibu.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "PDB",
    "BPS",
@@ -1722,7 +1805,7 @@ var ARTICLES = [
   "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
   "deck": "Surplus dagang Indonesia September 2026 menyusut tipis ke US$3,36 miliar akibat defisit migas melebar, sementara ekspor dan impor sama-sama tumbuh dua digit secara tahunan.",
   "date": "3 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -3134,7 +3217,7 @@ var ARTICLES = [
   "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",
   "deck": "Inflasi Oktober 2026 terjaga di 3,23 persen, neraca dagang September surplus US$3,36 miliar tiga bulan beruntun, dan PMI manufaktur naik ke 54,0, ekspansi tertinggi sejak Maret 2024.",
   "date": "2 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "inflasi",
    "neraca dagang",
@@ -3473,7 +3556,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober [Melandai], Tiket Pesawat Naik",
   "deck": "Inflasi tahunan Oktober 2026 turun jadi 3,23 persen, tapi harga cabai dan tarif pesawat domestik kelas ekonomi justru naik.",
   "date": "2 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "inflasi",
    "harga pangan",
@@ -3489,7 +3572,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI [Berlanjut] tapi Tipis ke US$3,36 Miliar",
   "deck": "Neraca dagang Indonesia surplus US$3,36 miliar pada September 2026, melanjutkan tren positif Agustus meski nilainya mengecil dari US$3,55 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "neraca dagang",
    "ekspor",
@@ -4548,7 +4631,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober Melambat ke [0,22 Persen]",
   "deck": "Kenaikan harga bulanan pada Oktober 2026 lebih rendah dibanding September, dan juga lebih rendah dari Oktober tahun lalu.",
   "date": "2 November 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -4951,7 +5034,7 @@ var ARTICLES = [
   "title": "Ekspor Naik, tapi Surplus Dagang RI Makin [Menyempit]",
   "deck": "Ekspor September 2026 naik 11,87 persen jadi US$27,59 miliar, tapi impor tumbuh lebih cepat 18,41 persen sehingga surplus dagang kumulatif menyempit jadi US$10,61 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "ekspor",
    "impor",
@@ -6386,86 +6469,6 @@ var ARTICLES = [
    "panas bumi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6bd38b487a_dea2c162e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtsm-minta-bei-cabut-suspensi-saat-benahi-laporan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "MTSM Minta BEI Cabut [Suspensi] Saat Benahi Laporan Keuangan",
-  "deck": "MTSM mengoreksi jawabannya ke Bursa dan meminta pencabutan suspensi saham sambil membenahi laporan keuangan serta memenuhi syarat free float.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTSM",
-   "suspensi saham",
-   "free float",
-   "Metro Realty"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b4b65d2cc5_c57a28f50e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wows-cetak-rugi-rp6-87-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "WOWS Cetak [Rugi] Rp6,87 Miliar di Kuartal III 2026",
-  "deck": "Ginting Jaya Energi (WOWS) berbalik dari laba jadi rugi bersih Rp6,87 miliar pada kuartal III 2026, dengan kas menyusut hampir separuh dan utang pajak melonjak.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WOWS",
-   "Ginting Jaya Energi",
-   "laporan keuangan kuartal III",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030210343-65566-0/FinancialStatement-2026-III-WOWS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "roti-laba-bersih-anjlok-59-persen-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "ROTI: Laba Bersih [Anjlok] 59 Persen di Kuartal III 2026",
-  "deck": "Laba bersih Sari Roti turun hampir 60 persen jadi Rp55,27 miliar pada sembilan bulan pertama 2026, meski pendapatan nyaris stagnan.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ROTI",
-   "Sari Roti",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030211238-65046-0/FinancialStatement-2026-III-ROTI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "food-defisiensi-modal-melebar-ke-rp41-6-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "FOOD: Defisiensi Modal [Melebar] ke Rp41,6 Miliar di Kuartal III",
-  "deck": "Penjualan FOOD naik 11,5 persen pada sembilan bulan 2026, tapi rugi bersih dan ekuitas negatif perusahaan justru makin melebar.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FOOD",
-   "Sentra Food Indonesia",
-   "defisiensi modal",
-   "laporan keuangan kuartal III"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030211637-65050-0/FinancialStatement-2026-III-FOOD.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "awan-liabilitas-naik-28-97-kas-susut-ke-rp1-16-miliar",
-  "category": "Aksi Korporasi",
-  "title": "AWAN: Liabilitas Naik 28,97%, [Kas] Susut ke Rp1,16 Miliar",
-  "deck": "Aset AWAN naik 7,5 persen dalam sembilan bulan 2026, tetapi liabilitas melonjak 28,97 persen karena pinjaman bank dan utang usaha bertambah, sementara kas perusahaan justru menyusut.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AWAN",
-   "Era Digital Media",
-   "laporan keuangan interim",
-   "liabilitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030205905-65428-0/FinancialStatement-2026-III-AWAN.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret: dana sawit yang sebelumnya hanya untuk kelapa sawit kini, lewat Perpres 132/2024, juga bisa dipakai membantu petani kakao dan kelapa, misalnya untuk peremajaan tanaman dan pelatihan. Bersamaan dengan itu, sejak 1 Juni 2026 eksportir komoditas strategis wajib melaporkan data transaksinya lewat sistem digital DSI berdasar PP 24/2026, agar pemerintah bisa mengecek apakah harga ekspor yang dilaporkan memang sesuai harga sebenarnya atau sengaja dibuat lebih rendah supaya pajak dan devisa yang masuk ke negara berkurang. Yang terdampak langsung adalah petani sawit, kakao, dan kelapa yang jadi sasaran baru pendanaan itu, serta perusahaan eksportir yang kini diawasi lebih ketat. Digabung dengan kewajiban biodiesel B50 yang mulai berjalan Juli 2026, arahnya terlihat menuju penguatan kendali negara atas rantai komoditas perkebunan, dengan porsi sawit yang lebih besar diserap untuk kebutuhan domestik sementara ekspor dipantau lebih rapat. Yang akan menunjukkan apakah arah ini benar-benar berjalan adalah laporan realisasi penyaluran dana BPDP ke petani kakao dan kelapa, yang belum disebutkan angkanya dalam siaran ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "menn-penjualan-ambruk-91-saham-tetap-disuspensi",
@@ -399,7 +399,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah laju pertumbuhan naik dari 5,29 ke 5,47 persen, tetapi penopang utamanya bukan belanja masyarakat sendiri. Belanja pemerintah melompat 8,95 persen, jauh di atas belanja rumah tangga yang hanya naik 5,04 persen, karena ada pencairan gaji pegawai negeri dan program Makan Bergizi Gratis. Pihak yang paling terasa dampaknya adalah pegawai negeri yang menerima gaji dan tunjangan, pelaku usaha manufaktur, perdagangan, dan perhotelan yang menikmati permintaan domestik, serta daerah seperti Bali dan Nusa Tenggara yang tumbuh paling tinggi. Pola ini mengarah ke pertumbuhan yang masih banyak ditopang belanja negara ketimbang konsumsi rumah tangga yang berdiri sendiri, dan itu akan terlihat jelas dari data pertumbuhan triwulan IV 2026 yang biasanya dirilis awal Februari 2027, terutama apakah belanja pemerintah tetap tinggi atau kembali normal setelah pencairan gaji dan program tersebut selesai.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "wika-anak-usaha-wikon-digugat-pkpu-oleh-kreditur",
@@ -482,7 +482,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan paling konkret bukan cuma angka 5,47 persen itu sendiri, melainkan sumber pendorongnya: belanja pemerintah melonjak ke pertumbuhan 8,95 persen, jauh lebih tinggi dari 5,66 persen setahun sebelumnya, disalurkan lewat program seperti makan bergizi gratis dan koperasi desa. Pemerintah menambah dorongan serupa untuk kuartal keempat lewat paket akhir tahun yang menyasar kelompok spesifik, mulai dari tabungan awal Rp50 ribu untuk 25,16 juta orang berpenghasilan rendah, bantuan beras 10 kilogram per bulan untuk 33,24 juta keluarga, hingga subsidi upah Rp900 ribu untuk 13,3 juta pekerja bergaji di bawah Rp3,5 juta atau upah minimum daerah. Yang paling terdampak jelas kelompok berpenghasilan rendah dan pekerja upah minimum, karena merekalah sasaran utama seluruh program ini, bukan kelas menengah yang selama ini jadi andalan konsumsi. Pola dua kuartal berturut-turut ini mengarah ke pertumbuhan yang makin ditopang suntikan anggaran negara, bukan sekadar penguatan daya beli yang tumbuh sendiri dari pasar. Yang akan menentukan apakah pembacaan ini benar adalah data pertumbuhan kuartal IV 2026 yang baru terbit awal tahun depan, serta apakah realisasi bantuan Oktober-Desember ini benar-benar mencapai target yang dijanjikan pemerintah.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "minyak-nilam-resmi-masuk-daftar-komoditas-srg",

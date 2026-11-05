@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smcb-panggil-rupslb-bahas-aktivasi-bisnis-dagang-bahan-bangunan",
+  "category": "Aksi Korporasi",
+  "title": "SMCB Panggil RUPSLB, Bahas [Aktivasi] Bisnis Dagang Bahan Bangunan",
+  "deck": "RUPSLB SMCB digelar 27 November 2026, membahas aktivasi lini usaha dagang bahan konstruksi dan pendelegasian persetujuan RKAP 2027 ke komisaris.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMCB",
+   "RUPSLB",
+   "Solusi Bangun Indonesia",
+   "RKAP"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6ebb4764e5_908f0dcd2f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbkp-tuntaskan-divestasi-85-saham-kb-bukopin-finance-rp340-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Tuntaskan [Divestasi] 85% Saham KB Bukopin Finance Rp340 Miliar",
+  "deck": "KB Bank merampungkan penjualan 85% saham PT KB Bukopin Finance senilai Rp339,97 miliar kepada JB Woori Capital asal Korea Selatan, dan kini hanya menyisakan 14,24% kepemilikan.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBKP",
+   "divestasi",
+   "KB Bukopin Finance",
+   "JB Woori Capital"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8548bc5d61_8ca32cf227.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "issp-siapkan-buyback-rp150-miliar-batasi-harga-rp600",
+  "category": "Aksi Korporasi",
+  "title": "ISSP Siapkan Buyback [Rp150 Miliar], Batasi Harga Rp600",
+  "deck": "ISSP mengalokasikan Rp150 miliar kas internal untuk membeli kembali hingga 250 juta saham atau 3,48 persen saham beredar, harga maksimal Rp600 per saham, berlangsung hingga awal Februari 2027.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ISSP",
+   "buyback saham",
+   "pasar modal",
+   "aksi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/39a305aca5_c65ff71b46.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untd-laba-kotor-ambrol-jadi-rp1-2-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "UNTD: Laba Kotor [Ambrol] jadi Rp1,2 Miliar di Kuartal III",
+  "deck": "Laba kotor UNTD ambrol ke Rp1,2 miliar pada sembilan bulan 2026, dari Rp82,9 miliar setahun sebelumnya, seiring rugi usaha melebar jadi Rp42 miliar.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTD",
+   "Terang Dunia Internusa",
+   "kinerja keuangan",
+   "motor listrik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/38fe2a8da5_b05e134367.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pyfa-terbitkan-obligasi-rp650-miliar-di-tengah-rugi-besar",
   "category": "Aksi Korporasi",
   "title": "PYFA Terbitkan [Obligasi] Rp650 Miliar di Tengah Rugi Besar",
@@ -6406,69 +6470,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475790-menperin-sarmuji-bukan-deindustrialisasi-sektor-industri-indonesia-justru-tumbuh-532-persen-di-atas-ekonomi-nasional"
- },
- {
-  "slug": "amor-catat-laba-naik-17-di-fy2025-26-dividen-tumbuh-10",
-  "category": "Aksi Korporasi",
-  "title": "AMOR Catat [Laba] Naik 17% di FY2025/26, Dividen Tumbuh 10%",
-  "deck": "Ashmore Asset Management Indonesia (AMOR) merilis materi public expose tahunan: AuM naik 35% jadi Rp32,4 triliun, laba bersih tumbuh 17%, dan dividen Rp79 miliar.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "Ashmore Asset Management Indonesia",
-   "Public Expose",
-   "Reksa Dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/82c50b84c1_f8a2b3c33a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tbig-rencanakan-buyback-saham-senilai-rp106-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TBIG Rencanakan [Buyback] Saham Senilai Rp106 Miliar",
-  "deck": "Tower Bersama Infrastructure akan membeli kembali maksimal 52,8 juta saham atau 0,23% modal disetor dengan dana hingga Rp106 miliar, mengacu aturan OJK soal pasar berfluktuasi signifikan.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TBIG",
-   "buyback saham",
-   "pasar modal",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/abee16b9bb_f12a2e6e83.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gzco-laba-bersih-melonjak-94-jadi-rp80-1-miliar-di-9m-2026",
-  "category": "Aksi Korporasi",
-  "title": "GZCO: Laba Bersih [Melonjak] 94% Jadi Rp80,1 Miliar di 9M 2026",
-  "deck": "Laba bersih Gozco Plantations naik dari Rp41,4 miliar menjadi Rp80,1 miliar pada sembilan bulan pertama 2026, sementara penjualan justru sedikit turun.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GZCO",
-   "laporan keuangan",
-   "laba bersih",
-   "perkebunan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030160304-65073-0/FinancialStatement-2026-III-GZCO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-cetak-laba-rp3-93-m-di-kuartal-iii-utang-bank-naik-tajam",
-  "category": "Aksi Korporasi",
-  "title": "DEWI Cetak [Laba] Rp3,93 M di Kuartal III, Utang Bank Naik Tajam",
-  "deck": "Laporan keuangan kuartal III 2026 DEWI menunjukkan penjualan dan laba bersih tumbuh sekitar 20 persen, tetapi utang bank jangka pendek melonjak lima kali lipat dan kas menyusut hampir 40 persen.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "laporan keuangan",
-   "laba bersih",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030155228-65589-0/FinancialStatement-2026-III-DEWI.pdf",
-  "sourceLabel": "IDX"
  }
 ];

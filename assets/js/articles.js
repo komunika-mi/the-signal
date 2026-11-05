@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smcb-panggil-rupslb-bahas-aktivasi-bisnis-dagang-bahan-bangunan",
+  "category": "Aksi Korporasi",
+  "title": "SMCB Panggil RUPSLB, Bahas [Aktivasi] Bisnis Dagang Bahan Bangunan",
+  "deck": "RUPSLB SMCB digelar 27 November 2026, membahas aktivasi lini usaha dagang bahan konstruksi dan pendelegasian persetujuan RKAP 2027 ke komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T09:34:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6ebb4764e5_908f0dcd2f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMCB",
+  "tags": [
+   "SMCB",
+   "RUPSLB",
+   "Solusi Bangun Indonesia",
+   "RKAP"
+  ],
+  "body": [
+   "PT Solusi Bangun Indonesia Tbk (SMCB) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 27 November 2026 pukul 14.00 WIB. Rapat digelar secara fisik di Space Ballroom, Aloft Hotel TB Simatupang, Jakarta Selatan, sekaligus secara elektronik lewat sistem eASY.KSEI. Pemegang saham yang berhak hadir dan memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per 4 November 2026 saat penutupan perdagangan.",
+   "Agenda pertama adalah pembahasan dan persetujuan studi kelayakan untuk mengaktifkan kembali kegiatan usaha dengan kode KBLI 46733, yaitu perdagangan besar bahan konstruksi dari tanah liat, kapur, semen, atau kaca. Kode usaha ini sebenarnya sudah tercantum dalam Anggaran Dasar Perseroan, sehingga persetujuan ini tidak akan mengubah Pasal 3 Anggaran Dasar tentang maksud dan tujuan perusahaan. Langkah ini diajukan sebagai pemenuhan POJK No. 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha, yang mengharuskan persetujuan pemegang saham sebelum perusahaan terbuka mengaktifkan lini usaha baru.",
+   "Agenda kedua meminta persetujuan untuk mendelegasikan kewenangan pengesahan Rencana Kerja dan Anggaran Perusahaan (RKAP) tahun 2027, termasuk perubahannya, dari RUPS kepada Dewan Komisaris. Pendelegasian ini tetap mensyaratkan persetujuan Pemegang Saham Mayoritas terlebih dahulu, dan merujuk pada Pasal 64 UU Perseroan Terbatas serta Pasal 18 ayat (2) dan (3) Anggaran Dasar Perseroan. Kedua agenda memerlukan kuorum kehadiran lebih dari separuh total saham dengan hak suara yang sah agar rapat bisa mengambil keputusan.",
+   "Bagi pemegang saham yang memberi kuasa secara fisik, salinan surat kuasa harus diterima Perseroan paling lambat 24 November 2026 pukul 10.00 WIB melalui email, sementara aslinya wajib disampaikan ke Biro Administrasi Efek, PT Datindo Entrycom, paling lambat tiga hari kerja sebelum rapat atau pada tanggal yang sama. Untuk kuasa dan suara elektronik lewat eASY.KSEI, batas waktunya pukul 12.00 WIB satu hari kerja sebelum rapat."
+  ],
+  "fotoAdegan": "Forklift stacking cement sacks inside a large industrial warehouse, dusty light beams, workers in hard hats in the background",
+  "takeaway": "Laporan ini netral bagi SMCB karena belum ada angka transaksi, nilai investasi, atau target pendapatan yang diumumkan, sehingga pasar belum punya dasar untuk menilai untung atau rugi dari rencana ini. Yang tersentuh baru soal tata kelola: pengaktifan lini usaha dagang bahan konstruksi bisa membuka sumber pendapatan baru di luar bisnis semen jika benar direalisasikan, sementara pendelegasian persetujuan anggaran tahunan ke Dewan Komisaris adalah soal efisiensi birokrasi internal, bukan perubahan pada ekuitas, arus kas, atau laba per saham perusahaan saat ini. Keduanya baru berstatus usulan yang perlu disetujui pemegang saham, bukan keputusan final. Yang perlu dipantau adalah hasil pemungutan suara di RUPSLB pada 27 November 2026, termasuk apakah kuorum kehadiran lebih dari separuh saham berhak suara tercapai, serta langkah konkret SMCB setelahnya dalam menjalankan izin usaha dagang bahan konstruksi yang baru diaktifkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbkp-tuntaskan-divestasi-85-saham-kb-bukopin-finance-rp340-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Tuntaskan [Divestasi] 85% Saham KB Bukopin Finance Rp340 Miliar",
+  "deck": "KB Bank merampungkan penjualan 85% saham PT KB Bukopin Finance senilai Rp339,97 miliar kepada JB Woori Capital asal Korea Selatan, dan kini hanya menyisakan 14,24% kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T09:05:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8548bc5d61_8ca32cf227.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBKP",
+  "tags": [
+   "BBKP",
+   "divestasi",
+   "KB Bukopin Finance",
+   "JB Woori Capital"
+  ],
+  "body": [
+   "PT Bank KB Indonesia Tbk (BBKP) resmi merampungkan transaksi pengalihan 85 persen saham anak usahanya, PT KB Bukopin Finance (KBBF), kepada JB Woori Capital Co., Ltd., perusahaan jasa keuangan asal Korea Selatan yang merupakan anak usaha JB Financial Group. Transaksi diselesaikan pada 4 November 2026, ditandai dengan penandatanganan akta jual beli saham dan penerimaan pembayaran oleh KB Bank. Saham yang dialihkan sebanyak 135.529 lembar, mewakili 85 persen dari modal ditempatkan dan disetor KBBF, dengan nilai transaksi Rp339.966.645.860, atau sekitar Rp340 miliar.",
+   "Sebelum transaksi ini, KB Bank menggenggam 99,24 persen saham KBBF. Setelah pengalihan, KB Bank masih memegang 22.704 saham atau 14,24 persen di KBBF, sehingga kini berstatus pemegang saham minoritas di perusahaan multifinance tersebut. Rencana divestasi ini sebenarnya sudah diumumkan sejak 1 Juli 2025, dan baru bisa dieksekusi setelah Otoritas Jasa Keuangan menerbitkan persetujuan perubahan kepemilikan KBBF melalui surat bertanggal 28 Agustus 2026. KB Bank menegaskan transaksi ini bukan transaksi afiliasi maupun transaksi yang mengandung benturan kepentingan, karena JB Woori Capital tidak memiliki hubungan afiliasi dengan KB Bank maupun KB Financial Group.",
+   "Manajemen menyebut langkah ini sebagai upaya memperkuat fokus pada bisnis inti perbankan, mengoptimalkan alokasi permodalan, dan mendukung pertumbuhan usaha yang berkelanjutan. Perusahaan juga menyatakan transaksi ini memberi tambahan likuiditas dan tidak berdampak negatif terhadap kegiatan operasional, kondisi keuangan, maupun kelangsungan usaha KB Bank ke depan."
+  ],
+  "fotoAdegan": "Rows of parked motorcycles and small vehicles outside a multifinance branch office in an Indonesian city, customers waiting under an awning, midday light",
+  "takeaway": "Laporan ini condong positif bagi KB Bank, karena penjualan 85 persen saham anak usaha multifinance ini mendatangkan dana segar sekitar Rp340 miliar tanpa disebutkan dampak buruk pada operasional atau keuangan perseroan. Yang tersentuh di sini adalah likuiditas, yaitu dana tunai yang bisa langsung dipakai, serta alokasi permodalan bank, karena dana dari penjualan anak usaha ini bisa dipakai memperkuat bisnis inti perbankan seperti penyaluran kredit tanpa harus mencari pendanaan baru dari luar. Di sisi lain, KB Bank kini hanya menjadi pemegang saham minoritas di KBBF dengan porsi 14,24 persen, sehingga kendali dan potensi keuntungan dari bisnis multifinance itu beralih ke JB Woori Capital. Yang perlu dipantau selanjutnya adalah bagaimana pelepasan mayoritas saham KBBF ini tercermin dalam laporan keuangan KB Bank untuk kuartal keempat 2026, termasuk apakah ada pencatatan keuntungan atau kerugian dari pelepasan aset tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "issp-siapkan-buyback-rp150-miliar-batasi-harga-rp600",
+  "category": "Aksi Korporasi",
+  "title": "ISSP Siapkan Buyback [Rp150 Miliar], Batasi Harga Rp600",
+  "deck": "ISSP mengalokasikan Rp150 miliar kas internal untuk membeli kembali hingga 250 juta saham atau 3,48 persen saham beredar, harga maksimal Rp600 per saham, berlangsung hingga awal Februari 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T08:37:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/39a305aca5_c65ff71b46.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ISSP",
+  "tags": [
+   "ISSP",
+   "buyback saham",
+   "pasar modal",
+   "aksi korporasi"
+  ],
+  "body": [
+   "PT Steel Pipe Industry of Indonesia Tbk (ISSP) mengumumkan rencana pembelian kembali sahamnya (buyback) tanpa memerlukan persetujuan Rapat Umum Pemegang Saham, memanfaatkan Surat Edaran Otoritas Jasa Keuangan Nomor S-112/D.04/2026 tentang kebijakan buyback bagi perusahaan terbuka di tengah kondisi pasar yang berfluktuasi signifikan. Perseroan menyiapkan dana sekitar Rp150 miliar, belum termasuk biaya perantara pedagang efek, untuk membeli kembali sekitar 250 juta lembar saham atau 3,48 persen dari total saham yang diterbitkan. Harga pembelian dibatasi maksimal Rp600 per saham, dan transaksi akan dilakukan melalui Bursa Efek Indonesia dengan menunjuk PT MNC Sekuritas sebagai perantara. Periode pembelian berlangsung tiga bulan sejak 5 November 2026 hingga 5 Februari 2027.",
+   "Manajemen menyatakan alasan buyback ini adalah karena harga saham ISSP saat ini dinilai belum mencerminkan harga wajar berdasarkan kinerja perusahaan. Saham yang dibeli kembali akan disimpan sebagai saham treasuri dan baru bisa dialihkan paling cepat 30 hari setelah pembelian selesai atau periode buyback berakhir, melalui salah satu dari beberapa cara: dijual kembali dengan prioritas lewat Bursa, pengurangan modal, program kepemilikan saham karyawan atau direksi dan komisaris, pembayaran transaksi tertentu, konversi efek bersifat ekuitas, dibagikan proporsional ke pemegang saham, atau cara lain dengan izin OJK. Selama menjadi saham treasuri, saham tersebut tidak memiliki hak suara, tidak dihitung dalam kuorum rapat pemegang saham, dan tidak berhak atas dividen. Seluruh dana buyback berasal dari kas internal perusahaan, bukan dari dana hasil penawaran umum maupun pinjaman.",
+   "Dalam proforma laporan keuangan per 30 September 2026, rencana ini akan menekan jumlah saham beredar dari 7,03 miliar menjadi 6,78 miliar lembar, sementara kas dan setara kas turun dari sekitar Rp423,5 miliar menjadi Rp273,5 miliar. Laba bersih diperkirakan turun tipis dari Rp474,69 miliar menjadi Rp471,69 miliar, namun karena jumlah saham beredar berkurang, laba per saham justru naik dari Rp67,49 menjadi Rp69,53. Ekuitas perseroan turun dari Rp6,00 triliun menjadi Rp5,85 triliun, sedangkan rasio imbal hasil terhadap ekuitas (ROE) naik dari 10,55 persen menjadi 10,75 persen dan imbal hasil terhadap aset (ROA) naik dari 5,68 persen menjadi 5,72 persen."
+  ],
+  "fotoAdegan": "Workers stacking galvanized steel pipes in a warehouse, overhead crane moving in the background, industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi ISSP, karena perusahaan memakai kas sendiri tanpa menambah utang untuk mengurangi jumlah saham beredar, yang justru mendongkrak laba per saham dan rasio imbal hasil ke pemegang saham lama. Yang tersentuh adalah ekuitas dan kas perusahaan, yang masing-masing turun sekitar Rp150 miliar akibat dana buyback, serta laba per saham yang naik karena laba yang hampir sama kini dibagi untuk lebih sedikit lembar saham. Perlu dicermati juga bahwa dana yang dipakai setara hampir 35 persen dari kas dan setara kas perseroan saat ini, sehingga mengurangi bantalan likuiditas meski manajemen menyebut dampaknya tidak signifikan terhadap kemampuan membayar kewajiban. Yang perlu dipantau berikutnya adalah realisasi pembelian hingga batas waktu 5 Februari 2027, serta keputusan soal ke mana saham treasuri ini akan dialihkan nantinya, apakah dijual kembali, dibagikan ke pemegang saham, atau dipakai untuk program kepemilikan saham karyawan dan direksi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "untd-laba-kotor-ambrol-jadi-rp1-2-miliar-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "UNTD: Laba Kotor [Ambrol] jadi Rp1,2 Miliar di Kuartal III",
+  "deck": "Laba kotor UNTD ambrol ke Rp1,2 miliar pada sembilan bulan 2026, dari Rp82,9 miliar setahun sebelumnya, seiring rugi usaha melebar jadi Rp42 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T08:24:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/38fe2a8da5_b05e134367.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTD",
+  "tags": [
+   "UNTD",
+   "Terang Dunia Internusa",
+   "kinerja keuangan",
+   "motor listrik"
+  ],
+  "body": [
+   "PT Terang Dunia Internusa Tbk (UNTD), produsen sepeda dan motor listrik dengan merek United, menyampaikan materi public expose tahunan ke Bursa Efek Indonesia pada 5 November 2026, merujuk surat pemberitahuan rencana public expose bertanggal 24 September 2026. Materi bertajuk Public Expose 2026 itu, yang menurut sampulnya dipaparkan pada Oktober 2026, memuat profil perusahaan, lini produk, serta kinerja keuangan kuartal III 2026, yakni posisi sembilan bulan per 30 September 2026 yang belum diaudit, dibandingkan periode sama tahun 2025 dan tiga tahun buku terakhir.",
+   "Materi itu menunjukkan penjualan neto perusahaan pada sembilan bulan pertama 2026 nyaris stagnan di Rp340,4 miliar, turun tipis dari Rp346,8 miliar pada periode sama 2025. Namun beban pokok penjualan melonjak menjadi Rp339,2 miliar dari Rp263,9 miliar, sehingga hampir menghabiskan seluruh pendapatan dan membuat laba kotor ambrol menjadi hanya Rp1,2 miliar, dari Rp82,9 miliar setahun sebelumnya. Akibatnya, perusahaan membukukan rugi usaha Rp42,0 miliar, berbalik dari laba usaha Rp24,2 miliar pada kuartal III 2025, dan rugi komprehensif melebar menjadi Rp75,4 miliar dari Rp10,1 miliar.",
+   "Di sisi laporan posisi keuangan, ekuitas perusahaan per akhir September 2026 turun menjadi Rp486,1 miliar dari Rp584,4 miliar setahun sebelumnya, sementara rasio liabilitas terhadap ekuitas naik menjadi 1,30 kali dari 1,13 kali. Total aset juga menyusut menjadi Rp1,12 triliun dari Rp1,25 triliun pada periode yang sama. Materi yang sama memperkenalkan motor listrik baru United RX6000 berkapasitas puncak 6.000 watt dengan jarak tempuh hingga 120 kilometer per pengisian, serta memaparkan rencana ke depan berupa penyegaran lini sepeda, produk motor baru, dan sistem sewa baterai."
+  ],
+  "fotoAdegan": "Workers assembling electric motorcycle frames on an Indonesian factory line, bright industrial lighting, close-up on machinery",
+  "takeaway": "Materi public expose ini condong negatif bagi UNTD, sebab di balik penjualan yang relatif stabil, biaya produksi membengkak drastis hingga menggerus hampir seluruh laba kotor dan membuat perusahaan merugi lebih dalam dibanding periode sama tahun lalu. Yang paling tersentuh adalah beban pokok penjualan dan ekuitas: lonjakan biaya produksi memangkas margin kotor dari sekitar 24 persen penjualan menjadi hampir nol, sementara rugi yang terus terjadi menggerus ekuitas, yaitu modal milik pemegang saham yang jadi penyangga kalau perusahaan menanggung kerugian lebih lanjut, sehingga rasio utang terhadap ekuitas pun naik. Yang perlu dipantau berikutnya adalah laporan keuangan audit tahun buku 2026, untuk melihat apakah tekanan biaya produksi ini mereda pada kuartal terakhir, serta realisasi rencana motor listrik RX6000 dan sistem sewa baterai yang disebut perusahaan sebagai penggerak pertumbuhan ke depan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pyfa-terbitkan-obligasi-rp650-miliar-di-tengah-rugi-besar",
   "category": "Aksi Korporasi",
   "title": "PYFA Terbitkan [Obligasi] Rp650 Miliar di Tengah Rugi Besar",

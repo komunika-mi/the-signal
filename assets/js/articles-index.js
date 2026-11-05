@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "giaa-siapkan-rights-issue-danantara-bayar-pakai-saham-gmfi",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Siapkan Rights Issue, Danantara Bayar Pakai Saham [GMFI]",
+  "deck": "Garuda mengoreksi keterbukaan rights issue dan menegaskan Danantara akan membayar haknya dengan menyetor saham GMFI, bukan tunai, menyusul rampungnya pengalihan saham tersebut ke Danantara.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GIAA",
+   "GMFI",
+   "Danantara",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/050ad1ebf8_62f8eb6572.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toba-alihkan-rp46-39-miliar-dana-obligasi-minta-restu-rupo",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Alihkan Rp46,39 Miliar Dana Obligasi, Minta Restu [RUPO]",
+  "deck": "TOBA mengusulkan mengalihkan Rp46,39 miliar dana obligasi, yang semula untuk setoran modal ke anak usaha TMU, menjadi modal kerja perseroan. Keputusan diambil dalam RUPO 19 November 2026.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "RUPO",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a37c161719_602a6e4dcb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toba-alihkan-rp89-miliar-dana-obligasi-ke-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Alihkan Rp89 Miliar Dana Obligasi ke [Modal Kerja]",
+  "deck": "TBS Energi Utama (TOBA) mengalihkan Rp89 miliar dana obligasi dari rencana setoran modal ke anak usaha limbah AMES menjadi modal kerja, menunggu persetujuan RUPO 19 November 2026.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "RUPO",
+   "TBS Energi Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e502d09a24_10d3135235.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbtn-bayar-mandiri-sekuritas-rp16-miliar-untuk-rombak-bancassurance",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Bayar Mandiri Sekuritas [Rp16 Miliar] untuk Rombak Bancassurance",
+  "deck": "BBTN menunjuk Mandiri Sekuritas sebagai lead advisor penyusunan ulang kemitraan bancassurance senilai Rp16 miliar, tergolong transaksi afiliasi karena sama-sama dikendalikan negara.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBTN",
+   "transaksi afiliasi",
+   "Mandiri Sekuritas",
+   "bancassurance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec35d6f6b4_eecd4f5d05.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kota-panggil-ulang-rupslb-bahas-rights-issue-dan-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Panggil Ulang RUPSLB, Bahas [Rights Issue] dan Akuisisi",
+  "deck": "PT DMS Propertindo Tbk (KOTA) menjadwal ulang RUPSLB ke 27 November 2026, membahas rights issue, saham seri baru, dan akuisisi dua perusahaan.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "rights issue",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d03d0b2c4_7e0bd418c8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vico-ganti-dirut-dan-komisaris-utama-tunggu-restu-ojk",
+  "category": "Aksi Korporasi",
+  "title": "VICO Ganti [Dirut] dan Komisaris Utama, Tunggu Restu OJK",
+  "deck": "Direksi dan komisaris utama VICO berganti efektif 27 Oktober 2026 setelah OJK meloloskan uji kelayakan Untung Woenardi dan Sari Idayanti.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICO",
+   "pergantian direksi",
+   "OJK",
+   "konglomerasi keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c961aebd8_ea52a100fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jmas-laba-bersih-anjlok-86-jadi-rp398-juta-di-2025",
+  "category": "Aksi Korporasi",
+  "title": "JMAS: Laba Bersih [Anjlok] 86% Jadi Rp398 Juta di 2025",
+  "deck": "Laba bersih JMAS turun drastis dari Rp2,83 miliar menjadi Rp398 juta pada 2025, sementara liabilitas ke pemegang polis melonjak 160 persen.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JMAS",
+   "asuransi syariah",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/08a7c80688_033c92fe41.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kdtn-rencana-pengambilalihan-ruby-mining-dibatalkan",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Rencana Pengambilalihan Ruby Mining [Dibatalkan]",
+  "deck": "Rencana Ruby Mining Hongkong Limited mengambil alih 86 persen saham KDTN dari tiga pemegang saham lama resmi dibatalkan pada 5 November 2026.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "pengambilalihan",
+   "akuisisi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/37ea5a8fa2_7ab1db80af.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toba-gelar-rupslb-27-november-putuskan-transaksi-sbth",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Gelar RUPSLB 27 November, Putuskan Transaksi [SBTH]",
+  "deck": "RUPSLB TOBA digelar 27 November 2026 untuk menyetujui rencana investasi ke SBTH Asia Holdings, transaksi yang nilainya di atas separuh ekuitas perusahaan.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "RUPSLB",
+   "Transaksi Material",
+   "SBTH"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e0f7b8b69_72e8d0101a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pssi-koreksi-pengumuman-bagikan-saham-treasuri-ke-pemegang-saham",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Koreksi Pengumuman, Bagikan [Saham Treasuri] ke Pemegang Saham",
+  "deck": "Perseroan mengoreksi keterbukaan informasi sebelumnya: aksi korporasi ini bukan bonus saham dari laba, tapi distribusi saham treasuri ke pemegang saham dengan rasio 30:1.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "aksi korporasi",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/49cd74d7ef_c70c7233b1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asbi-catat-rugi-rp26-9-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Catat [Rugi] Rp26,9 Miliar di Kuartal III 2026",
+  "deck": "Asuransi Bintang membalik laba jadi rugi Rp26,9 miliar pada sembilan bulan 2026, seiring ekuitas turun 21,8 persen menjadi Rp360,1 miliar.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASBI",
+   "asuransi",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105170710-65692-0/FinancialStatement-2026-III-ASBI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kejaksaan-ikut-awasi-penyaluran-pupuk-subsidi-di-karo",
   "category": "BUMN",
   "title": "Kejaksaan Ikut [Awasi] Penyaluran Pupuk Subsidi di Karo",
@@ -6290,182 +6466,6 @@ var ARTICLES = [
    "liabilitas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030205905-65428-0/FinancialStatement-2026-III-AWAN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lpkr-laba-bersih-melonjak-tiga-kali-lipat-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "LPKR: Laba Bersih [Melonjak] Tiga Kali Lipat di Kuartal III",
-  "deck": "Laba bersih LPKR naik hampir tiga kali lipat jadi Rp1,24 triliun di sembilan bulan 2026, didorong pendapatan lain-lain, bukan penjualan inti yang justru turun 17 persen.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPKR",
-   "Lippo Karawaci",
-   "laporan keuangan",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030205424-64674-0/FinancialStatement-2026-III-LPKR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aali-jawab-bei-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "AALI Jawab BEI: Tak Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "AALI menjawab surat BEI soal volatilitas transaksi sahamnya, menegaskan tak ada informasi material baru dan pemegang saham utama tak berencana mengubah kepemilikan.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AALI",
-   "Astra Agro Lestari",
-   "Bursa Efek Indonesia",
-   "Volatilitas Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/3ca2d757ee_e41ae20478.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pngo-laba-9-bulan-naik-28-utang-turun-30-persen",
-  "category": "Aksi Korporasi",
-  "title": "PNGO: Laba 9 Bulan Naik 28%, [Utang] Turun 30 Persen",
-  "deck": "Laba bersih PT AEP Pinago Plantations Tbk naik 28 persen dalam sembilan bulan 2026, didukung pelunasan utang bank yang menekan beban bunga.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNGO",
-   "laporan keuangan",
-   "perkebunan",
-   "utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030205018-64785-0/FinancialStatement-2026-III-PNGO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "coco-raih-rp1-28-triliun-dari-rights-issue-ekuitas-melesat",
-  "category": "Aksi Korporasi",
-  "title": "COCO Raih Rp1,28 Triliun dari [Rights Issue], Ekuitas Melesat",
-  "deck": "COCO menambah modal Rp1,28 triliun lewat rights issue, membuat ekuitas melonjak lebih dari 10 kali lipat dan rugi bersih menyempit pada kuartal III 2026.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "COCO",
-   "rights issue",
-   "ekuitas",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030204455-65539-0/FinancialStatement-2026-III-COCO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ssms-cetak-laba-rp1-75-triliun-utang-bank-melonjak-tajam",
-  "category": "Aksi Korporasi",
-  "title": "SSMS Cetak [Laba] Rp1,75 Triliun, Utang Bank Melonjak Tajam",
-  "deck": "Laba bersih sembilan bulan SSMS naik 71 persen menjadi Rp1,75 triliun, tapi utang bank jangka pendek melonjak hampir 3,5 kali menjadi Rp5,92 triliun.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SSMS",
-   "laporan keuangan",
-   "kelapa sawit",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030203705-65453-0/FinancialStatement-2026-III-SSMS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nisp-laba-bersih-naik-7-2-ke-rp4-22-triliun-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "NISP: Laba Bersih Naik [7,2%] ke Rp4,22 Triliun di Kuartal III",
-  "deck": "Laba bersih Bank OCBC NISP naik menjadi Rp4,22 triliun pada sembilan bulan pertama 2026, ditopang pertumbuhan kredit dan pendapatan bunga.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NISP",
-   "OCBC NISP",
-   "laporan keuangan",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030202510-65346-0/FinancialStatement-2026-III-NISP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "simp-cetak-laba-rp2-05-triliun-di-9m2026-naik-45",
-  "category": "Aksi Korporasi",
-  "title": "SIMP Cetak Laba [Rp2,05 Triliun] di 9M2026, Naik 45%",
-  "deck": "Laba bersih Salim Ivomas Pratama naik 45 persen secara tahunan ditopang kenaikan harga jual sawit, sementara utang berbunga turun dan ekuitas bertambah.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SIMP",
-   "kinerja keuangan",
-   "CPO",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dd3443965e_572ff18ffe.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indf-core-profit-9m26-naik-11-jadi-rp9-37-triliun",
-  "category": "Aksi Korporasi",
-  "title": "INDF: [Core Profit] 9M26 Naik 11% jadi Rp9,37 Triliun",
-  "deck": "Penjualan neto Indofood tumbuh 12% jadi Rp101,49 triliun pada sembilan bulan pertama 2026, laba usaha naik 15% meski laba bersih tertahan rugi kurs.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDF",
-   "Indofood",
-   "kinerja keuangan",
-   "laporan kuartalan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f3caf9f173_1c248574ec.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jihd-liabilitas-naik-26-usai-tarik-pinjaman-rp475-m",
-  "category": "Aksi Korporasi",
-  "title": "JIHD: Liabilitas Naik 26% Usai Tarik [Pinjaman] Rp475 M",
-  "deck": "Total liabilitas JIHD naik Rp506,4 miliar menjadi Rp2,43 triliun per akhir September, dipicu pinjaman bank baru Rp475 miliar untuk anak usaha Danayasa Arthatama.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JIHD",
-   "liabilitas",
-   "pinjaman bank",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030202900-65204-0/FinancialStatement-2026-III-JIHD.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-tunda-pembayaran-bunga-obligasi-dan-sukuk-mudharabah",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Tunda] Pembayaran Bunga Obligasi dan Sukuk Mudharabah",
-  "deck": "Setelah RUPO dan RUPSU gagal kuorum pada akhir Oktober 2026, WIKA menunda pembayaran bunga obligasi dan bagi hasil sukuk mudharabah di seluruh seri yang jatuh tempo November-Desember 2026.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "obligasi",
-   "sukuk mudharabah",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dffb763c67_59979da3e6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-gagal-lagi-sukuk-tahap-ii-rp500-m-kandas",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Gagal Lagi, Sukuk Tahap II Rp500 M [Kandas]",
-  "deck": "Pemegang sukuk menolak empat usulan WIKA mengubah syarat Sukuk Mudharabah Tahap II Rp500 miliar, termasuk penundaan bagi hasil dan perubahan jatuh tempo.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "restrukturisasi utang",
-   "RUPSU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f329068f0b_22907d4915.pdf",
   "sourceLabel": "IDX"
  }
 ];

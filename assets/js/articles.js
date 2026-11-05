@@ -3,6 +3,293 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "giaa-siapkan-rights-issue-danantara-bayar-pakai-saham-gmfi",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Siapkan Rights Issue, Danantara Bayar Pakai Saham [GMFI]",
+  "deck": "Garuda mengoreksi keterbukaan rights issue dan menegaskan Danantara akan membayar haknya dengan menyetor saham GMFI, bukan tunai, menyusul rampungnya pengalihan saham tersebut ke Danantara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T18:24:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/050ad1ebf8_62f8eb6572.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "GMFI",
+   "Danantara",
+   "rights issue"
+  ],
+  "body": [
+   "PT Garuda Indonesia (Persero) Tbk (GIAA) menerbitkan koreksi atas keterbukaan informasi tanggal 4 November 2026 mengenai rencana penambahan modal dengan hak memesan efek terlebih dahulu atau rights issue tahap III. Dokumen ini merupakan kelanjutan dari rencana restrukturisasi keuangan Garuda periode 2025-2029 yang sudah disetujui Menteri BUMN pada 23 Juni 2025. Rights issue ini adalah tindak lanjut dari penyetoran lahan milik PT Angkasa Pura Indonesia (API) ke PT Garuda Maintenance Facility Aero Asia Tbk (GMFI), yang sempat membuat kepemilikan Garuda di GMFI terdilusi dan menjadikan API sebagai pemegang saham mayoritas GMFI. Garuda menegaskan tetap menjadi pemegang saham pengendali GMFI berdasarkan surat komitmen API tertanggal 10 Desember 2025.",
+   "Sesuai rencana restrukturisasi tersebut, saham GMFI yang dipegang API kemudian dialihkan berjenjang hingga akhirnya jatuh ke tangan PT Danantara Asset Management (DAM), induk investasi milik negara yang juga pemegang saham utama Garuda. Rapat umum pemegang saham API pada 26 Juni 2026 menyetujui pembagian dividen non tunai berupa 82.100.173.900 saham Seri B GMFI, atau 65,77 persen dari seluruh saham GMFI, kepada PT Aviasi Pariwisata Indonesia (InJourney) dengan nilai Rp5,66 triliun. Rapat pemegang saham InJourney pada 29 Juni 2026 kemudian menyetujui pengalihan saham yang sama ke DAM. Dalam dokumen ini, Garuda menyatakan seluruh rangkaian pengalihan itu sudah selesai per 2 November 2026 melalui dua akta pengalihan hak atas saham yang dibuat di hadapan notaris Desman di Jakarta Utara, sehingga DAM kini resmi tercatat sebagai pemilik saham GMFI tersebut.",
+   "Dengan saham GMFI itu di tangan, Danantara berencana memakainya untuk melunasi hak memesan efek terlebih dahulu yang dimilikinya dalam rights issue Garuda, bukan dengan uang tunai, melalui mekanisme penyetoran modal berupa barang atau inbreng. Pemegang HMETD lain tetap diminta membayar secara tunai sesuai aturan OJK. Karena Danantara adalah pemegang saham utama Garuda, penyetoran ini tergolong transaksi afiliasi menurut aturan OJK soal transaksi afiliasi, namun Garuda dibebaskan dari sejumlah kewajiban tambahan transaksi afiliasi karena rencana ini sudah masuk program restrukturisasi yang disetujui pemerintah dan dilakukan lewat penawaran umum. Kewajiban yang tetap berlaku, Garuda harus memakai jasa penilai independen untuk menentukan nilai wajar saham GMFI yang disetorkan serta menilai kewajaran rencana inbreng tersebut. Berdasarkan data pemegang saham per 9 Oktober 2026, Danantara sudah mengantongi 2,929 persen saham Seri B, 10,653 persen saham Seri C, dan 77,528 persen saham Seri D Garuda, sementara saham Seri A Dwiwarna atau saham dengan hak khusus tetap dipegang pemerintah melalui Badan Pengaturan BUMN sebesar 0,92 persen."
+  ],
+  "fotoAdegan": "Aircraft maintenance technicians working beneath a wide-body jet inside a spacious hangar at an airport facility, early morning light",
+  "takeaway": "Laporan koreksi ini netral bagi fundamental Garuda, karena isinya menegaskan pelaksanaan rencana restrukturisasi yang sudah disetujui pemerintah sejak 2025, bukan kabar baru yang mengubah prospek keuangan secara mendasar. Pos yang tersentuh adalah ekuitas dan jumlah saham beredar Garuda, karena Danantara membayar haknya dengan menyetor saham GMFI senilai Rp5,66 triliun bukan uang tunai, sehingga modal perusahaan bertambah tanpa ada dana segar yang masuk sementara jumlah saham beredar bertambah dan bisa mendilusi pemegang saham lain yang tidak ikut menebus haknya. Perlu dicatat juga transaksi ini melibatkan pemegang saham utama sendiri, dan Garuda dibebaskan dari sejumlah perlindungan tambahan yang biasanya berlaku untuk transaksi semacam itu karena sudah tercakup dalam program restrukturisasi yang disetujui pemerintah. Yang perlu dipantau selanjutnya adalah hasil penilaian independen atas nilai wajar saham GMFI oleh kantor jasa penilai publik, serta jadwal resmi pelaksanaan rights issue yang belum diumumkan dalam dokumen ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "toba-alihkan-rp46-39-miliar-dana-obligasi-minta-restu-rupo",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Alihkan Rp46,39 Miliar Dana Obligasi, Minta Restu [RUPO]",
+  "deck": "TOBA mengusulkan mengalihkan Rp46,39 miliar dana obligasi, yang semula untuk setoran modal ke anak usaha TMU, menjadi modal kerja perseroan. Keputusan diambil dalam RUPO 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T18:15:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a37c161719_602a6e4dcb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "RUPO",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) mengajukan usulan perubahan penggunaan sebagian dana hasil Obligasi Berkelanjutan I TBS Energi Utama Tahap II Tahun 2026 yang berpokok Rp500 miliar. Dari jumlah itu, Rp46,39 miliar yang semula direncanakan sebagai setoran modal kepada PT Trisensa Mineral Utama (TMU), anak usaha tambang batu bara yang 99,99 persen sahamnya dimiliki TOBA, diusulkan dialihkan menjadi modal kerja perseroan sendiri, mencakup gaji karyawan, sewa dan perawatan kantor, belanja modal, serta keperluan umum korporasi, dengan rencana penggunaan hingga 31 Desember 2027. Adapun Rp400,93 miliar yang sudah dipakai melunasi pokok Obligasi I TBS Energi Utama Tahun 2023 Seri A tidak mengalami perubahan.",
+   "Alasan perubahan ini adalah TMU sudah tidak lagi bekerja sama dengan kontraktor tambang CV Multindo Prima Teknik, yang sebelumnya menjalankan pekerjaan pengupasan lapisan penutup, pengambilan, dan pengangkutan batu bara sejak perjanjian jasa pertambangan diteken 1 Februari 2024. TMU kini dinilai punya kas sendiri yang cukup untuk mengerjakan hal tersebut tanpa perlu disokong setoran modal dari TOBA. Perseroan menyatakan belum ada perjanjian baru yang diteken terkait rencana penggunaan dana ini dan tidak mengidentifikasi adanya pihak berafiliasi dalam transaksi tersebut.",
+   "Usulan ini masih harus disetujui pemegang obligasi lewat Rapat Umum Pemegang Obligasi (RUPO) yang dijadwalkan Kamis, 19 November 2026 pukul 14.30 WIB di Hotel JS Luwansa, Jakarta Selatan. Selain persetujuan perubahan penggunaan dana pada Pasal 2 ayat 2.1 Perjanjian Perwaliamanatan, agenda RUPO juga mencakup persetujuan perubahan kewajiban rasio keuangan pada Pasal 7 ayat 7.3 huruf b perjanjian yang sama. RUPO dinyatakan sah bila dihadiri pemegang sedikitnya tiga perempat dari total obligasi yang belum lunas, dan keputusan mengikat jika disetujui sedikitnya tiga perempat dari obligasi yang hadir dalam rapat."
+  ],
+  "fotoAdegan": "Yellow excavators loading coal onto heavy haul trucks at an open-pit mine, dusty road, overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi TOBA, karena perusahaan tidak menambah atau menarik dana baru, hanya mengalihkan arah penggunaan Rp46,39 miliar, sekitar 9 persen dari total obligasi Rp500 miliar, setelah anak usahanya TMU ternyata bisa membiayai sendiri operasional tambangnya. Pos yang tersentuh adalah modal kerja dan arus kas perseroan, yakni uang tunai yang dipakai untuk membayar kebutuhan operasional sehari-hari, karena dana yang tadinya terkunci sebagai setoran modal ke anak usaha kini bisa dipakai langsung oleh induk untuk gaji, sewa kantor, atau belanja modal. Yang perlu dipantau adalah agenda kedua dalam RUPO 19 November 2026, yaitu usulan mengubah ketentuan rasio keuangan dalam perjanjian wali amanat, sebab perubahan semacam itu biasanya diajukan ketika emiten membutuhkan kelonggaran agar tidak melanggar syarat yang diminta pemegang obligasi, sehingga hasil pemungutan suara di rapat itu layak ditunggu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "toba-alihkan-rp89-miliar-dana-obligasi-ke-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Alihkan Rp89 Miliar Dana Obligasi ke [Modal Kerja]",
+  "deck": "TBS Energi Utama (TOBA) mengalihkan Rp89 miliar dana obligasi dari rencana setoran modal ke anak usaha limbah AMES menjadi modal kerja, menunggu persetujuan RUPO 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T18:13:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e502d09a24_10d3135235.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "RUPO",
+   "TBS Energi Utama"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) mengajukan perubahan penggunaan Rp89 miliar dari total Rp125 miliar dana hasil Obligasi Berkelanjutan I TBS Energi Utama Tahap I Tahun 2025. Dana sebesar itu semula direncanakan sebagai tambahan setoran modal kepada Asia Medical Enviro Services Pte Ltd (AMES), anak usaha pengelolaan limbah di Singapura, untuk membeli mesin insinerator baru beserta biaya konsultan mekanikal elektrikal, konsultan lingkungan, survei topografi, uji tanah, dan pajak pertambahan nilai. Perseroan kini mengusulkan dana itu dipakai untuk modal kerja sendiri, mencakup beban gaji, sewa dan perawatan kantor, belanja modal, serta keperluan umum korporasi, dengan jangka waktu pelaksanaan sampai 31 Desember 2027.",
+   "Alasan perubahan, menurut dokumen, karena AMES sudah berhasil memperoleh fasilitas pembiayaan modal kerja sendiri berupa Revolving Credit Facility (RCF). Dengan fasilitas itu, kebutuhan modal kerja AMES yang sebelumnya harus dipenuhi lewat setoran modal dari TOBA, yang rencananya disalurkan berjenjang melalui anak usaha PT Solusi Bersih TBS, SBT Invest, SBT Investment 1, hingga Taonga Holdings sebelum tiba di AMES, kini bisa dipenuhi AMES sendiri. Perseroan menyatakan tidak ada pihak terafiliasi yang teridentifikasi dalam rencana realokasi ini dan belum ada perjanjian baru yang diteken terkait penggunaan dana tersebut.",
+   "Porsi lain dari dana obligasi, yaitu Rp24,07 miliar untuk pelunasan sebagian pokok obligasi yang jatuh tempo pada 2026, tidak mengalami perubahan. Dana ini disebut sudah direalisasikan seluruhnya dan telah dilaporkan dalam Laporan Realisasi Penggunaan Dana periode yang berakhir 30 Juni 2026.",
+   "Karena perubahan ini melebihi 10 persen dari total dana obligasi, Perseroan wajib meminta persetujuan pemegang obligasi lewat Rapat Umum Pemegang Obligasi (RUPO) yang dijadwalkan Kamis, 19 November 2026, pukul 13.00 WIB di JS Luwansa Hotel, Jakarta Selatan. Selain persetujuan realokasi dana, agenda RUPO juga mencakup perubahan Pasal 7 ayat 7.3 huruf b Perjanjian Perwaliamanatan mengenai kewajiban rasio keuangan. Pemegang obligasi yang berhak hadir dan memberi suara adalah yang tercatat di PT Kustodian Sentral Efek Indonesia empat hari kerja sebelum RUPO, dengan PT Bank Mega Tbk sebagai wali amanat."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting large industrial waste incinerator machinery and steel pipes at a treatment plant, overcast daylight",
+  "takeaway": "Laporan ini netral bagi TOBA: perusahaan tidak menambah atau menarik dana segar, hanya mengalihkan arah penggunaan Rp89 miliar dari rencana suntikan modal ke AMES menjadi modal kerja sendiri, justru karena AMES sudah bisa membiayai kebutuhannya lewat fasilitas kredit sendiri tanpa bantuan induk. Yang tersentuh adalah arus kas pendanaan TOBA dan syarat kewajiban rasio keuangan dalam perjanjian obligasi, yaitu batas sehat tidaknya kondisi keuangan yang wajib dijaga perusahaan agar tidak dianggap lalai kepada pemegang obligasi, dan RUPO ini sekaligus akan mengubah syarat tersebut meski arah perubahannya belum dirinci dalam dokumen. Yang perlu dipantau adalah hasil RUPO pada 19 November 2026 pukul 13.00 WIB, karena persetujuan pemegang obligasi dibutuhkan baik untuk realokasi dana ini maupun perubahan kewajiban rasio keuangan, dan keduanya akan menentukan seberapa leluasa TOBA mengelola dananya ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbtn-bayar-mandiri-sekuritas-rp16-miliar-untuk-rombak-bancassurance",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Bayar Mandiri Sekuritas [Rp16 Miliar] untuk Rombak Bancassurance",
+  "deck": "BBTN menunjuk Mandiri Sekuritas sebagai lead advisor penyusunan ulang kemitraan bancassurance senilai Rp16 miliar, tergolong transaksi afiliasi karena sama-sama dikendalikan negara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T18:10:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec35d6f6b4_eecd4f5d05.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBTN",
+  "tags": [
+   "BBTN",
+   "transaksi afiliasi",
+   "Mandiri Sekuritas",
+   "bancassurance"
+  ],
+  "body": [
+   "PT Bank Tabungan Negara (Persero) Tbk menunjuk PT Mandiri Sekuritas sebagai Lead Advisor Konsultan Konsorsium untuk menyusun ulang kemitraan bancassurance perusahaan. Penunjukan ini tertuang dalam Perjanjian Kerja Sama No. 36/PKS/WMD/XI/2026 yang ditandatangani 3 November 2026, dengan nilai transaksi Rp16 miliar sudah termasuk PPN dan pajak lain yang berlaku. Di luar nilai tersebut, Mandiri Sekuritas juga berhak atas penggantian biaya operasional sesuai realisasi.",
+   "Transaksi ini digolongkan sebagai transaksi afiliasi karena BBTN dan Mandiri Sekuritas sama-sama dikendalikan oleh pihak yang sama, yaitu Negara Republik Indonesia. BBTN dikendalikan negara lewat saham Seri A Dwiwarna, sementara Mandiri Sekuritas dikendalikan negara secara tidak langsung lewat PT Bank Mandiri (Persero) Tbk yang menguasai 99,99% sahamnya. Perseroan menegaskan transaksi ini tidak mengandung benturan kepentingan dan bukan transaksi material. Penilai independen, KJPP Ruky, Safrudin & Rekan, menerbitkan pendapat kewajaran bertanggal 28 Oktober 2026 yang menyimpulkan rencana transaksi ini wajar.",
+   "Penunjukan ini merupakan bagian dari proyek internal bersandi Project Belfast, yaitu rencana BBTN menata ulang kemitraan bancassurance menuju kerja sama eksklusif jangka panjang, sekitar 10 sampai 15 tahun, dengan satu perusahaan asuransi mitra. Tujuannya meningkatkan pendapatan berbasis komisi dari penjualan produk asuransi lewat jaringan BBTN, memperkuat produk perlindungan bagi nasabah, dan memperbaiki tata kelola kanal distribusinya. Mandiri Sekuritas akan memimpin konsorsium penasihat yang terdiri dari bank investasi global, konsultan hukum, konsultan aktuaria, konsultan pajak, dan penyedia data room, mendampingi BBTN mulai dari persiapan transaksi, penjaringan penawaran dari calon mitra, hingga negosiasi akhir. Proses penunjukan ini sendiri melalui mekanisme pengadaan BUMN sesuai Peraturan Menteri BUMN No. PER-2/MBU/03/2023."
+  ],
+  "fotoAdegan": "Modern bank branch interior in Jakarta with customers queuing at teller counters, staff in uniform assisting, daylight through glass windows",
+  "takeaway": "Laporan ini netral bagi kinerja BTN karena nilai transaksinya, Rp16 miliar, kecil dibandingkan skala bank dan secara resmi dinyatakan bukan transaksi material, sehingga belum bisa dibaca sebagai sinyal kuat ke arah mana pun. Yang disentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan potensi pendapatan berbasis komisi, yaitu uang yang didapat bank dari menjual produk asuransi lewat jaringan cabangnya, bukan dari bunga kredit. Kalau Project Belfast berhasil mengikat mitra asuransi baru dengan kerja sama eksklusif 10 sampai 15 tahun, pendapatan jenis ini bisa tumbuh lebih stabil dalam jangka panjang, tapi hasilnya baru terlihat setelah proses seleksi dan negosiasi mitra tuntas, bukan dari penunjukan konsultan ini saja. Yang perlu dipantau berikutnya adalah tahap lanjutan Project Belfast, yaitu proses penjaringan penawaran dan negosiasi dengan calon mitra asuransi yang dipimpin Mandiri Sekuritas, karena dokumen ini belum menyebut tenggat waktu penyelesaiannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kota-panggil-ulang-rupslb-bahas-rights-issue-dan-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "KOTA Panggil Ulang RUPSLB, Bahas [Rights Issue] dan Akuisisi",
+  "deck": "PT DMS Propertindo Tbk (KOTA) menjadwal ulang RUPSLB ke 27 November 2026, membahas rights issue, saham seri baru, dan akuisisi dua perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T18:10:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d03d0b2c4_7e0bd418c8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "RUPSLB",
+   "rights issue",
+   "akuisisi"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) mengumumkan pemanggilan ulang Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) menyusul perubahan jadwal pelaksanaan. Rapat yang semula direncanakan pada 6 Oktober 2026 pukul 10.00 WIB kini dijadwalkan pada Jumat, 27 November 2026 pukul 13.30 WIB di Azana Suite Hotel Antasari, dan juga bisa diikuti secara elektronik melalui eASY.KSEI. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per Rabu, 4 November 2026 pukul 16.15 WIB.",
+   "Agenda utama rapat adalah persetujuan Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu I (PMHMETD I), yakni penawaran saham baru kepada pemegang saham lama. Untuk itu, Perseroan juga meminta persetujuan mengubah anggaran dasar guna menaikkan modal dasar, modal ditempatkan, dan modal disetor, sekaligus membentuk klasifikasi saham baru bernama saham Seri B yang akan diterbitkan dalam rangka PMHMETD I ini.",
+   "Dana yang terkumpul dari PMHMETD I rencananya dipakai untuk mengambil alih PT Art Design Indonesia dan PT Mandirinusa Grahaperkasa, yang oleh Perseroan dikategorikan sebagai transaksi material sesuai Peraturan OJK No. 17/2020 sehingga perlu mendapat restu pemegang saham. Dalam rapat yang sama, Perseroan juga meminta persetujuan mengubah penggunaan dana hasil penawaran umum perdana saham (IPO), dengan menambah porsi untuk pembelian lahan potensial dan mengurangi porsi yang tadinya dialokasikan untuk modal kerja. Agenda kelima lainnya adalah penyesuaian Pasal 3 anggaran dasar mengikuti Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025."
+  ],
+  "fotoAdegan": "Surveyors marking boundaries on an empty plot of land at the edge of a Jakarta suburb, morning light, construction stakes visible",
+  "takeaway": "Rapat ini sendiri netral bagi pemegang saham karena baru meminta izin melakukan rights issue dan akuisisi, sementara harga saham baru, rasio penawaran, dan nilai akuisisi dua perusahaan itu belum diungkap di dokumen ini. Yang perlu diperhatikan adalah jumlah saham beredar dan laba per saham, karena penerbitan saham Seri B baru lewat PMHMETD I otomatis menambah jumlah saham yang ada, dan kalau pemegang saham lama tidak ikut menyerap haknya, porsi kepemilikan serta laba yang didapat per lembar sahamnya bisa mengecil. Di sisi lain, pengalihan dana IPO dari modal kerja ke pembelian lahan menunjukkan Perseroan mengarahkan uang tunainya ke aset jangka panjang, yang memengaruhi arus kas dan kebutuhan modal kerja operasional ke depan. Yang perlu dipantau selanjutnya adalah jalannya RUPSLB pada 27 November 2026 pukul 13.30 WIB, serta tenggat pemberian kuasa elektronik lewat eASY.KSEI pada 26 November 2026 pukul 12.00 WIB, karena hasil rapat inilah yang akan menentukan jadi tidaknya rights issue, akuisisi, dan perubahan penggunaan dana IPO tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vico-ganti-dirut-dan-komisaris-utama-tunggu-restu-ojk",
+  "category": "Aksi Korporasi",
+  "title": "VICO Ganti [Dirut] dan Komisaris Utama, Tunggu Restu OJK",
+  "deck": "Direksi dan komisaris utama VICO berganti efektif 27 Oktober 2026 setelah OJK meloloskan uji kelayakan Untung Woenardi dan Sari Idayanti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T17:57:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c961aebd8_ea52a100fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICO",
+  "tags": [
+   "VICO",
+   "pergantian direksi",
+   "OJK",
+   "konglomerasi keuangan"
+  ],
+  "body": [
+   "PT Victoria Investama Tbk (VICO) resmi mengganti jajaran direksi dan dewan komisarisnya, efektif sejak 27 Oktober 2026. Untung Woenardi, yang sebelumnya menjabat Komisaris Utama, naik menjadi Direktur Utama menggantikan Aldo Jusuf Tjahaja yang mengundurkan diri. Sari Idayanti masuk sebagai direktur baru, sementara Ruly Dwi Rahayu tetap menjabat direktur sejak 26 Juni 2026. Posisi Komisaris Utama yang ditinggalkan Untung Woenardi akan diisi Herman Suwinta, namun pengangkatan ini baru berlaku efektif setelah Herman mendapat persetujuan Otoritas Jasa Keuangan (OJK) atas uji kemampuan dan kepatutan (fit and proper test). Retno Dwiyanti Widaningsih tetap menjabat Komisaris Independen.",
+   "Perubahan ini didasarkan pada surat OJK Nomor SR-180/KS.13/2026 tanggal 28 Oktober 2026, yang menyampaikan dua keputusan Dewan Komisioner OJK: KEPR-59/KS.1/2026 yang meloloskan Untung Woenardi sebagai Direktur Utama, dan KEPR-60/KS.1/2026 yang meloloskan Sari Idayanti sebagai Direktur. Susunan pengurus baru ini dikukuhkan lewat Akta Pernyataan Keputusan Rapat Nomor 29 tanggal 4 November 2026 di hadapan notaris Jimmy Tanal di Jakarta Selatan. Rapat yang menghasilkan akta itu juga memberikan pembebasan tanggung jawab kepada direksi lama atas laporan keuangan tahun buku 2025.",
+   "Dalam surat yang sama, OJK meminta VICO, yang berstatus Perusahaan Induk Konglomerasi Keuangan Nonoperasional, memastikan jumlah dan komposisi minimal anggota dewan komisaris sesuai Pasal 70 POJK Nomor 30 Tahun 2024 dipenuhi paling lama satu tahun sejak keputusan persetujuan status itu pada 19 Februari 2026. OJK juga meminta perseroan menyelesaikan komitmen terkait rangkap jabatan yang pernah diteken Untung Woenardi pada 26 Juni 2026 dan Sari Idayanti pada 29 Juni 2026."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long table, floor-to-ceiling windows overlooking a Jakarta office skyline, soft morning light",
+  "takeaway": "Perubahan pengurus ini netral bagi fundamental VICO, karena sifatnya administratif dan mengikuti proses persetujuan regulator, bukan keputusan strategis bisnis yang mengubah arah perusahaan. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba, melainkan tata kelola perusahaan, hal yang diperhatikan pasar karena VICO berstatus induk konglomerasi keuangan yang diawasi ketat OJK soal komposisi pengurus dan rangkap jabatan, dan ketidakpatuhan di area ini bisa berujung sanksi administratif dari regulator. Yang perlu dipantau selanjutnya adalah persetujuan OJK atas uji kelayakan Herman Suwinta sebagai Komisaris Utama baru, karena jabatan itu belum efektif sampai persetujuan itu keluar, serta tenggat pemenuhan komposisi minimal dewan komisaris yang jatuh sekitar pertengahan Februari 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jmas-laba-bersih-anjlok-86-jadi-rp398-juta-di-2025",
+  "category": "Aksi Korporasi",
+  "title": "JMAS: Laba Bersih [Anjlok] 86% Jadi Rp398 Juta di 2025",
+  "deck": "Laba bersih JMAS turun drastis dari Rp2,83 miliar menjadi Rp398 juta pada 2025, sementara liabilitas ke pemegang polis melonjak 160 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T17:55:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/08a7c80688_033c92fe41.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JMAS",
+  "tags": [
+   "JMAS",
+   "asuransi syariah",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk (JMAS) menyampaikan laporan keuangan tahunan teraudit untuk tahun buku yang berakhir 31 Desember 2025 kepada Bursa Efek Indonesia pada 5 November 2026. Laporan yang diaudit oleh Kantor Akuntan Publik Hendrawinata Hanny Erwin & Sumargo dengan partner penanggung jawab Zulbadri ini memperoleh opini wajar tanpa pengecualian. Pendapatan perusahaan tercatat Rp73,77 miliar pada 2025, turun dari Rp79,47 miliar pada 2024, sementara laba bersih periode berjalan merosot tajam dari Rp2,83 miliar menjadi hanya Rp398,42 juta. Laba komprehensif ikut turun dari Rp2,29 miliar menjadi Rp921,88 juta, dan laba per saham dasar anjlok dari Rp2,87 menjadi Rp0,40.",
+   "Dari sisi aset, total aset perusahaan naik 21,4 persen menjadi Rp371,56 miliar pada akhir 2025 dari Rp306,18 miliar setahun sebelumnya. Kenaikan ini terutama didorong oleh aset tidak lancar yang melonjak 58,6 persen menjadi Rp91,58 miliar, dengan aset reasuransi sebagai penyumbang utama karena naik 116 persen akibat meningkatnya kontribusi dari produk pembiayaan. Di sisi liabilitas, total kewajiban perusahaan naik lebih tinggi lagi, yakni 30,7 persen menjadi Rp302,64 miliar dari Rp231,47 miliar, dipicu oleh liabilitas jangka panjang yang melonjak 85,1 persen. Perusahaan menjelaskan ke bursa bahwa lonjakan itu berasal dari kenaikan 160 persen pada liabilitas manfaat polis masa depan dan kenaikan 34 persen pada penyisihan ujrah, sejalan dengan bertambahnya kontribusi dari produk pembiayaan.",
+   "Modal sendiri atau ekuitas perusahaan hanya bertambah tipis, dari Rp122,50 miliar menjadi Rp123,42 miliar. Rasio imbal hasil terhadap aset turun dari 0,93 persen menjadi 0,12 persen, dan imbal hasil terhadap ekuitas turun dari 2,33 persen menjadi 0,32 persen. Rasio EBITDA terhadap pendapatan juga menyusut dari 6,09 persen menjadi 2,93 persen. Laporan ini ditandatangani secara elektronik oleh Direktur Utama Basuki Agus dan disampaikan ke bursa oleh Corporate Secretary Mawar Arsiarni Djunaid."
+  ],
+  "fotoAdegan": "Insurance office clerks sorting stacks of paper policy files and using calculators at cluttered desks, afternoon light through office windows",
+  "takeaway": "Laporan ini condong negatif bagi JMAS karena laba bersihnya ambrol 86 persen dari Rp2,83 miliar menjadi Rp398 juta pada 2025, padahal pendapatan cuma turun tipis 7,2 persen, tanda ada tekanan besar di biaya atau kewajiban yang menggerus untung. Yang tersentuh adalah efisiensi modal sendiri: rasio laba terhadap ekuitas jatuh dari 2,33 persen jadi hanya 0,32 persen, dan laba per saham turun dari Rp2,87 jadi Rp0,40, dua ukuran yang biasa dipakai investor untuk menilai seberapa produktif modal pemegang saham dipakai mencari untung. Pelaku pasar juga perlu mencermati melonjaknya kewajiban ke pemegang polis sebesar 160 persen, karena ini berarti perusahaan punya tanggungan membayar klaim di masa depan yang jauh lebih besar dibanding tahun sebelumnya. Yang perlu dipantau berikutnya adalah laporan tahunan resmi yang menurut auditor baru tersedia setelah tanggal laporan audit ini, serta apakah kenaikan aset reasuransi 116 persen cukup menutupi lonjakan liabilitas tersebut pada laporan kuartal mendatang.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kdtn-rencana-pengambilalihan-ruby-mining-dibatalkan",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Rencana Pengambilalihan Ruby Mining [Dibatalkan]",
+  "deck": "Rencana Ruby Mining Hongkong Limited mengambil alih 86 persen saham KDTN dari tiga pemegang saham lama resmi dibatalkan pada 5 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T17:38:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/37ea5a8fa2_7ab1db80af.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "pengambilalihan",
+   "akuisisi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) mengumumkan bahwa rencana pengambilalihan perusahaan oleh Ruby Mining Hongkong Limited resmi dibatalkan. Pada 5 November 2026, Ruby Mining selaku calon pengendali baru bersama tiga pemegang saham, yaitu PT Putrasakti Mandiri, PT Intan Perdana Sukses, dan PT Cahayasakti Investindo Sukses Tbk yang bersama-sama disebut Calon Penjual, sepakat mengakhiri Perjanjian Jual Beli Bersyarat yang mereka tanda tangani pada 22 April 2026. Dalam perjanjian itu, Ruby Mining berencana membeli 1.075.000.000 saham KDTN milik ketiga pemegang saham tersebut, setara 86 persen dari seluruh saham yang telah ditempatkan dan disetor perusahaan.",
+   "Rencana ini sebenarnya sudah berjalan cukup lama. Negosiasi pertama kali diumumkan pada 21 November 2025, lalu perkembangannya diumumkan lagi pada 24 April 2026 bersamaan dengan penandatanganan perjanjian jual beli bersyarat. Pada 8 Oktober 2026, Perseroan sempat menyampaikan keterbukaan informasi mengenai penundaan rencana transaksi ini, sebelum akhirnya kedua pihak memutuskan untuk membatalkannya sepenuhnya pada 5 November 2026. Ruby Mining menyebut keputusan mengakhiri perjanjian ini diambil berdasarkan kesepakatan bersama, dengan mempertimbangkan perkembangan pelaksanaan transaksi sejak perjanjian ditandatangani, tanpa merinci alasan spesifik di balik pembatalan tersebut.",
+   "Baik Perseroan maupun Ruby Mining menyatakan bahwa pembatalan ini tidak membawa dampak material terhadap kegiatan operasional, hukum, maupun kondisi keuangan KDTN. Pengumuman pembatalan juga telah disampaikan Ruby Mining kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, serta dipublikasikan melalui surat kabar Harian Terbit pada 5 November 2026, sesuai ketentuan Peraturan OJK Nomor 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "A hillside hotel building surrounded by tropical gardens near Bogor, soft late afternoon light, no visible signage",
+  "takeaway": "Kami membaca pembatalan ini sebagai hal yang netral bagi KDTN, bukan sinyal positif maupun negatif terhadap kinerja perusahaan. Yang batal hanyalah rencana pemindahan hak suara mayoritas, yakni 86 persen saham dari tiga pemegang saham lama ke Ruby Mining, sementara ekuitas, arus kas, dan laba per saham Perseroan sama sekali tidak tersentuh karena transaksi ini murni jual beli saham antar pemegang saham, bukan penyuntikan modal baru ke kas perusahaan. Proses pengambilalihan ini sendiri sudah berjalan setahun, dari pengumuman negosiasi pada November 2025 hingga penandatanganan perjanjian April 2026, lalu sempat ditunda Oktober 2026, sebelum akhirnya dibatalkan tanpa alasan rinci yang diungkap ke publik. Yang perlu dipantau pemegang saham selanjutnya adalah apakah PT Putrasakti Mandiri, PT Intan Perdana Sukses, dan PT Cahayasakti Investindo Sukses Tbk akan mencari calon pembeli baru untuk 86 persen saham tersebut, karena dokumen ini tidak menyebut adanya rencana pengambilalihan pengganti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "toba-gelar-rupslb-27-november-putuskan-transaksi-sbth",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Gelar RUPSLB 27 November, Putuskan Transaksi [SBTH]",
+  "deck": "RUPSLB TOBA digelar 27 November 2026 untuk menyetujui rencana investasi ke SBTH Asia Holdings, transaksi yang nilainya di atas separuh ekuitas perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T17:18:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e0f7b8b69_72e8d0101a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "RUPSLB",
+   "Transaksi Material",
+   "SBTH"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) resmi memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 27 November 2026 pukul 09.00 WIB di Financial Hall, Graha CIMB Niaga Lantai 2, Jalan Jenderal Sudirman Kaveling 58, Jakarta. Rapat ini hanya membawa satu agenda, yaitu persetujuan transaksi material SBTH Asia Holdings Pte. Ltd., anak usaha terkendali TOBA, sehubungan dengan rencana investasi yang akan diterima SBTH. Perseroan menegaskan transaksi ini masuk kategori Transaksi Material menurut POJK Nomor 17/2020 karena nilainya melebihi 50 persen dari nilai ekuitas TOBA, sehingga wajib mendapat restu pemegang saham lebih dulu.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 4 November 2026 pukul 16.00 WIB. Kehadiran bisa dilakukan secara fisik, elektronik lewat aplikasi eASY.KSEI, atau lewat kuasa, baik kuasa elektronik maupun kuasa konvensional. Bagi yang memilih memberi kuasa, tenggatnya satu hari kerja sebelum rapat, yaitu 26 November 2026 pukul 12.00 WIB, dengan salinan surat kuasa dikirim ke kantor TOBA di Treasury Tower SCBD atau ke biro administrasi efek PT Datindo Entrycom di Jalan Hayam Wuruk Jakarta.",
+   "Soal kuorum, rapat pertama sah jika dihadiri lebih dari separuh total saham dengan hak suara, dan keputusan sah bila disetujui lebih dari separuh suara yang hadir. Jika kuorum itu tidak tercapai, rapat kedua bisa digelar dengan syarat kehadiran minimal sepertiga saham berhak suara. Pemanggilan ini merupakan kelanjutan dari pengumuman rencana RUPS yang sudah diterbitkan TOBA pada 21 Oktober 2026, yang sebelumnya juga terkait dengan rencana pendanaan hingga US$429 juta ke SBTH yang sudah dijelaskan perseroan ke bursa pada awal November."
+  ],
+  "fotoAdegan": "Modern corporate conference hall with rows of empty chairs facing a stage, large windows, soft daylight, Jakarta business tower visible outside",
+  "takeaway": "Pemanggilan ini netral bagi TOBA, karena isinya hanya menjalankan prosedur formal untuk meminta restu pemegang saham atas transaksi yang sudah diumumkan sebelumnya, bukan informasi keuangan baru yang mengubah gambaran kinerja perusahaan. Pos yang tersentuh adalah ekuitas, karena nilai transaksi SBTH yang akan dimintakan persetujuan melebihi separuh total ekuitas TOBA, sehingga aturan OJK mewajibkan suara pemegang saham sebelum transaksi itu bisa berjalan. Yang perlu dipantau berikutnya adalah hasil keputusan RUPSLB pada 27 November 2026, serta tenggat pemberian kuasa elektronik maupun konvensional pada 26 November 2026 pukul 12.00 WIB bagi pemegang saham yang tidak hadir langsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pssi-koreksi-pengumuman-bagikan-saham-treasuri-ke-pemegang-saham",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Koreksi Pengumuman, Bagikan [Saham Treasuri] ke Pemegang Saham",
+  "deck": "Perseroan mengoreksi keterbukaan informasi sebelumnya: aksi korporasi ini bukan bonus saham dari laba, tapi distribusi saham treasuri ke pemegang saham dengan rasio 30:1.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T17:15:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/49cd74d7ef_c70c7233b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "aksi korporasi",
+   "RUPS"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) mengoreksi suratnya sendiri, nomor 072/PLOG-Corsec/XI/2026 tanggal 5 November 2026, yang menyebut aksi korporasi perusahaan sebagai pembagian 'saham bonus'. Dalam surat koreksi nomor 073/PLOG-Corsec/XI/2026 yang ditandatangani Corporate Secretary Desi Femilinda Safitri, perusahaan menjelaskan bahwa yang sebenarnya terjadi adalah pengalihan saham treasuri secara proporsional kepada pemegang saham, berdasarkan Peraturan OJK Nomor 29 Tahun 2023 tentang Pembelian Kembali Saham yang Dikeluarkan oleh Perusahaan Terbuka. Perusahaan memakai formulir 'Saham Bonus' di sistem pelaporan elektronik Bursa (SPE IDXNet) semata karena sistem itu belum menyediakan formulir khusus untuk distribusi saham treasuri, dan menegaskan pengisian kolom-kolom di formulir itu tidak dimaksudkan untuk mengklasifikasikan aksi ini sebagai pembagian saham bonus dari laba perusahaan.",
+   "Sesuai hasil Rapat Umum Pemegang Saham tanggal 28 Oktober 2026, total nilai saham yang disetujui untuk dibagikan adalah Rp17.203.963.600, terdiri dari 172.039.636 lembar saham dengan nilai nominal Rp100 per saham. Rasio pembagiannya 30 berbanding 1, artinya setiap pemegang 30 saham lama akan menerima 1 saham tambahan secara gratis. Data keuangan per 30 Juni 2026 yang menjadi dasar aksi ini menunjukkan total ekuitas perseroan sebesar Rp2.674.557.049.536, atau sekitar Rp2,67 triliun.",
+   "Jadwalnya: tanggal cum (batas kepemilikan terakhir untuk berhak menerima saham tambahan) di pasar reguler dan negosiasi adalah 5 November 2026, dan di pasar tunai 6 November 2026. Tanggal ex (saham sudah tidak membawa hak tambahan) jatuh pada 9 November 2026 untuk pasar reguler dan negosiasi, serta 10 November 2026 untuk pasar tunai. Pencatatan daftar pemegang saham yang berhak dilakukan pada 9 November 2026 pukul 16.00, sementara pembagian dan tanggal efektifnya sama-sama jatuh pada 27 November 2026."
+  ],
+  "fotoAdegan": "Tugboat pushing a loaded barge along a wide brown river near a busy Indonesian cargo port at dawn",
+  "takeaway": "Catatan ini netral karena aksi ini pada dasarnya memindahkan saham treasuri yang sudah dimiliki perseroan ke tangan pemegang saham, bukan membagikan keuntungan baru dari laba atau menyuntik modal segar, sehingga total kekayaan pemegang saham tidak bertambah meski jumlah lembar sahamnya naik. Yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu keuntungan perusahaan dibagi jumlah lembar saham yang ada: begitu jumlah saham di pasar bertambah lewat rasio 30 banding 1, keuntungan yang sama akan terbagi ke lebih banyak lembar sehingga laba per saham bisa terdilusi secara matematis, mirip efek pemecahan saham. Perlu dicatat juga bahwa perusahaan secara tegas mengoreksi penyebutan 'saham bonus' karena aksi ini berbeda dasar hukumnya dari bonus saham biasa yang berasal dari kapitalisasi laba. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 9 November 2026 pukul 16.00 untuk menentukan siapa yang berhak, serta tanggal efektif dan pembagian pada 27 November 2026 saat saham tambahan benar-benar masuk ke rekening pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asbi-catat-rugi-rp26-9-miliar-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Catat [Rugi] Rp26,9 Miliar di Kuartal III 2026",
+  "deck": "Asuransi Bintang membalik laba jadi rugi Rp26,9 miliar pada sembilan bulan 2026, seiring ekuitas turun 21,8 persen menjadi Rp360,1 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T17:04:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105170710-65692-0/FinancialStatement-2026-III-ASBI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASBI",
+  "tags": [
+   "ASBI",
+   "asuransi",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Asuransi Bintang Tbk (ASBI) membukukan rugi bersih Rp26,94 miliar untuk sembilan bulan pertama 2026, berbalik dari laba Rp5,54 miliar pada periode yang sama tahun lalu. Rugi ini membuat laba per saham berbalik menjadi rugi sekitar Rp77 per saham, dari sebelumnya untung sekitar Rp15,88 per saham pada September 2025. Laporan keuangan interim yang belum diaudit ini disampaikan ke Bursa Efek Indonesia pada 2 November 2026 dan ditandatangani oleh Direktur Zafar Dinesh Idham serta Direktur Reniwati Darmakusumah.",
+   "Pendapatan dari premi asuransi perusahaan naik 22,9 persen menjadi Rp200,06 miliar dari Rp162,72 miliar setahun sebelumnya. Namun kenaikan ini tidak cukup menutup lonjakan premi yang dibagikan kepada perusahaan reasuransi, dari Rp93,40 miliar menjadi Rp268,57 miliar, serta munculnya premi retrosesi baru sebesar Rp95,93 miliar yang tidak tercatat pada periode sebelumnya. Beban umum dan administrasi juga melonjak hampir dua kali lipat, dari Rp39,81 miliar menjadi Rp75,35 miliar, sehingga perusahaan mencatat rugi sebelum pajak Rp31,17 miliar, berbalik dari laba Rp12,42 miliar pada September 2025.",
+   "Di sisi aset, total aset ASBI naik 14,7 persen menjadi Rp951,06 miliar per 30 September 2026 dari Rp829,48 miliar pada akhir 2025, tetapi total liabilitas melonjak 60,2 persen menjadi Rp590,95 miliar dari Rp368,88 miliar. Akibatnya, jumlah ekuitas perusahaan turun 21,8 persen menjadi Rp360,11 miliar dari Rp460,59 miliar, terutama karena saldo laba yang belum ditentukan penggunaannya tergerus dari Rp216,89 miliar menjadi Rp128,64 miliar. Perusahaan memiliki 374 karyawan per akhir September 2026, turun dari 383 karyawan pada akhir 2025, dan masih menguasai 99,83 persen saham anak usahanya, PT Bintang Graha Loka, yang bergerak di bisnis penyewaan gedung kantor dan kendaraan."
+  ],
+  "fotoAdegan": "Close-up of a claims adjuster inspecting a damaged car in a repair garage, work gloves, overcast daylight",
+  "takeaway": "Laporan ini condong negatif bagi ASBI karena perusahaan berbalik dari untung menjadi rugi dalam sembilan bulan, dan ekuitasnya ikut tergerus lebih dari seperlima. Pos yang paling tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang menjadi hak pemegang saham, yang turun dari Rp460,59 miliar menjadi Rp360,11 miliar seiring laba ditahan yang terpakai menanggung kerugian tahun ini. Laba per saham ikut berbalik dari untung sekitar Rp15,88 menjadi rugi sekitar Rp77 per saham, dengan beban administrasi yang hampir dua kali lipat dan premi yang dibagikan ke perusahaan reasuransi yang melonjak jadi dua pendorong utama kerugian ini. Yang perlu dipantau berikutnya adalah laporan keuangan audit tahunan nanti serta apakah lonjakan premi ke reasuransi ini mereda pada kuartal berikutnya, karena laporan yang disampaikan kali ini masih berstatus tidak diaudit.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "kejaksaan-ikut-awasi-penyaluran-pupuk-subsidi-di-karo",
   "category": "BUMN",
   "title": "Kejaksaan Ikut [Awasi] Penyaluran Pupuk Subsidi di Karo",

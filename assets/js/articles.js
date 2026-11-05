@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret: dana sawit yang sebelumnya hanya untuk kelapa sawit kini, lewat Perpres 132/2024, juga bisa dipakai membantu petani kakao dan kelapa, misalnya untuk peremajaan tanaman dan pelatihan. Bersamaan dengan itu, sejak 1 Juni 2026 eksportir komoditas strategis wajib melaporkan data transaksinya lewat sistem digital DSI berdasar PP 24/2026, agar pemerintah bisa mengecek apakah harga ekspor yang dilaporkan memang sesuai harga sebenarnya atau sengaja dibuat lebih rendah supaya pajak dan devisa yang masuk ke negara berkurang. Yang terdampak langsung adalah petani sawit, kakao, dan kelapa yang jadi sasaran baru pendanaan itu, serta perusahaan eksportir yang kini diawasi lebih ketat. Digabung dengan kewajiban biodiesel B50 yang mulai berjalan Juli 2026, arahnya terlihat menuju penguatan kendali negara atas rantai komoditas perkebunan, dengan porsi sawit yang lebih besar diserap untuk kebutuhan domestik sementara ekspor dipantau lebih rapat. Yang akan menunjukkan apakah arah ini benar-benar berjalan adalah laporan realisasi penyaluran dana BPDP ke petani kakao dan kelapa, yang belum disebutkan angkanya dalam siaran ini.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "menn-penjualan-ambruk-91-saham-tetap-disuspensi",
@@ -399,7 +399,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah laju pertumbuhan naik dari 5,29 ke 5,47 persen, tetapi penopang utamanya bukan belanja masyarakat sendiri. Belanja pemerintah melompat 8,95 persen, jauh di atas belanja rumah tangga yang hanya naik 5,04 persen, karena ada pencairan gaji pegawai negeri dan program Makan Bergizi Gratis. Pihak yang paling terasa dampaknya adalah pegawai negeri yang menerima gaji dan tunjangan, pelaku usaha manufaktur, perdagangan, dan perhotelan yang menikmati permintaan domestik, serta daerah seperti Bali dan Nusa Tenggara yang tumbuh paling tinggi. Pola ini mengarah ke pertumbuhan yang masih banyak ditopang belanja negara ketimbang konsumsi rumah tangga yang berdiri sendiri, dan itu akan terlihat jelas dari data pertumbuhan triwulan IV 2026 yang biasanya dirilis awal Februari 2027, terutama apakah belanja pemerintah tetap tinggi atau kembali normal setelah pencairan gaji dan program tersebut selesai.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "wika-anak-usaha-wikon-digugat-pkpu-oleh-kreditur",

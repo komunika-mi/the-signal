@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tujuh-produk-indonesia-menang-g-mark-2026-di-jepang",
+  "category": "Industri",
+  "title": "Tujuh Produk Indonesia [Menang] G-Mark 2026 di Jepang",
+  "deck": "Tujuh produk manufaktur Indonesia, dari motor listrik hingga kursi kayu, meraih penghargaan desain G-Mark 2026 di Jepang, menambah total jadi 67 produk sejak 2017.",
+  "date": "5 November 2026",
+  "image": "assets/img/tujuh-produk-indonesia-menang-g-mark-2026-di-jepang.jpg",
+  "imageV": "mw2zynzh",
+  "tags": [
+   "G-Mark",
+   "Desain Produk",
+   "Manufaktur",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tujuh-produk-indonesia-raih-g-mark-2026-bukti-kreativitas-manufaktur-indonesia-makin-diakui",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "smcb-panggil-rupslb-bahas-aktivasi-bisnis-dagang-bahan-bangunan",
   "category": "Aksi Korporasi",
   "title": "SMCB Panggil RUPSLB, Bahas [Aktivasi] Bisnis Dagang Bahan Bangunan",
@@ -6453,22 +6471,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475791-mendag-transaksi-program-umkm-bisa-ekspor-tembus-360-juta-dolar-as-per-september-2026"
- },
- {
-  "slug": "menperin-industri-ri-tumbuh-5-32-persen-bukan-deindustrialisasi",
-  "category": "Industri",
-  "title": "Menperin: Industri RI Tumbuh [5,32] Persen, Bukan Deindustrialisasi",
-  "deck": "Menteri Perindustrian Sarmuji membantah narasi deindustrialisasi, menyebut sektor industri tumbuh melebihi ekonomi nasional sejak akhir 2025.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/menperin-industri-ri-tumbuh-5-32-persen-bukan-deindustrialisasi.jpg",
-  "imageV": "mvute6vc",
-  "tags": [
-   "menteri perindustrian",
-   "sarmuji",
-   "kadin",
-   "ekonomi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475790-menperin-sarmuji-bukan-deindustrialisasi-sektor-industri-indonesia-justru-tumbuh-532-persen-di-atas-ekonomi-nasional"
  }
 ];

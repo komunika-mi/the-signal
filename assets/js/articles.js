@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tujuh-produk-indonesia-menang-g-mark-2026-di-jepang",
+  "category": "Industri",
+  "title": "Tujuh Produk Indonesia [Menang] G-Mark 2026 di Jepang",
+  "deck": "Tujuh produk manufaktur Indonesia, dari motor listrik hingga kursi kayu, meraih penghargaan desain G-Mark 2026 di Jepang, menambah total jadi 67 produk sejak 2017.",
+  "image": "assets/img/tujuh-produk-indonesia-menang-g-mark-2026-di-jepang.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T03:30:44.470Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tujuh-produk-indonesia-raih-g-mark-2026-bukti-kreativitas-manufaktur-indonesia-makin-diakui",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "G-Mark",
+   "Desain Produk",
+   "Manufaktur",
+   "Kemendag"
+  ],
+  "body": [
+   "Tujuh produk buatan Indonesia meraih Good Design Award atau G-Mark 2026, penghargaan desain produk yang diumumkan di NHK Hall, Tokyo, pada 4 November 2026. Dengan tambahan ini, jumlah produk Indonesia yang pernah meraih G-Mark sejak pertama kali ikut pada 2017 menjadi 67 produk. Ajang ini diselenggarakan oleh Japan Institute of Design Promotion dan dianggap sebagai salah satu tolok ukur desain produk industri yang diakui secara internasional.",
+   "Ketujuh produk tersebut berasal dari sektor yang berbeda-beda. Daftarnya meliputi sepeda motor listrik Polytron EV Fox 350 dari PT Hartono Istana Teknologi, kipas ventilasi Panasonic Seamless Architectural Concealed Ventilating Fan FV-24CDUL2 dari Panasonic Manufacturing Indonesia, sandal Re: Bumi Sandals dari PT Pijak Bumi International, produk Buttcollector dari Kickyourbutt Project, peralatan saji Samya Sami Server and Cup dari Pudak Oriental Indonesia, kursi Sela Chair, serta Stola Dining Chair and Stola Lounge Chair, keduanya dari PT Vivere Multi Kreasi.",
+   "Kementerian Perdagangan menyebut keikutsertaan produk-produk ini difasilitasi lewat program Good Design Indonesia (GDI) dan Indonesia Design Development Center, yang pada 2026 memasuki tahun kesepuluh penyelenggaraan. Dalam proses seleksi GDI 2026 yang berlangsung Maret sampai Juli, sebanyak 345 produk ikut dinilai juri lintas sektor dari dalam dan luar negeri, dan 45 di antaranya meraih penghargaan GDI. Sebanyak 10 dari 45 produk itu mendapat predikat Best Design dan difasilitasi untuk tampil di ajang internasional, termasuk Good Design Award di Jepang dan Golden Pin Design Award di Taiwan.",
+   "Produk-produk pemenang G-Mark 2026 dipamerkan dalam Good Design Exhibition 2026 di Tokyo Midtown, Roppongi, yang berlangsung 31 Oktober sampai 4 November 2026, sebagai etalase bagi pembeli dan pelaku industri global untuk melihat langsung produk Indonesia."
+  ],
+  "fotoAdegan": "Close-up of a small electric motorcycle and a wooden dining chair displayed side by side in a bright exhibition hall",
+  "fotoSumber": "https://www.kemendag.go.id/albums/9V36Ni0UDXAjqxrK57Y7OSe9WMT4n7yn8tHlN3Zq.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah secara konkret adalah tujuh produk Indonesia resmi meraih G-Mark 2026, hasil dari proses seleksi GDI yang menyaring 345 produk jadi 45 pemenang, dengan 10 produk terbaik difasilitasi tampil di ajang internasional di Jepang dan Taiwan. Yang terdampak langsung adalah produsen skala menengah di sektor kendaraan listrik, elektronik rumah tangga, alas kaki, dan mebel yang produknya terpilih, karena status pemenang desain ini membuka jalan pameran ke pembeli global, seperti yang terjadi di Tokyo Midtown pekan ini. Dari 10 produk unggulan yang dikirim tahun ini, baru hasil di Jepang yang diketahui yaitu 7 menang, sedangkan hasil di Golden Pin Design Award Taiwan belum disebutkan dalam siaran ini. Dengan program GDI yang kini masuk tahun kesepuluh dan konsisten menghasilkan belasan pemenang internasional setiap tahun, arahnya tampak sebagai penambahan bertahap jumlah produk Indonesia yang diakui desainnya, bukan lonjakan besar, dan yang akan memastikan itu adalah pengumuman hasil Golden Pin Taiwan serta jumlah peserta pada seleksi GDI edisi berikutnya.",
+  "imageV": "mw2zynzh"
+ },
+ {
   "slug": "smcb-panggil-rupslb-bahas-aktivasi-bisnis-dagang-bahan-bangunan",
   "category": "Aksi Korporasi",
   "title": "SMCB Panggil RUPSLB, Bahas [Aktivasi] Bisnis Dagang Bahan Bangunan",

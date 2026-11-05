@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "SXSTX6n-ypI",
+  "title": "Pajak PPN 11 Persen untuk Pembalut Picu Perdebatan Publik",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Pengenaan Pajak Pertambahan Nilai efektif 11 persen atas pembalut wanita menuai kritik publik karena produk ini dianggap kebutuhan biologis esensial, bukan barang mewah yang semestinya dikenai pajak tinggi.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kebijakan perpajakan yang berdampak langsung pada daya beli dan akses kebutuhan dasar perempuan.",
+  "terbit": "2026-11-05T13:00:35+00:00"
+ },
+ {
   "id": "ppbjweTb_JI",
   "title": "Pemerintah Siapkan Program Pembelian Telur untuk Peternak Mikro",
   "category": "UMKM",

@@ -5,12 +5,45 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekonomi-ri-triwulan-iii-tumbuh-5-47-persen",
+  "category": "Makroekonomi",
+  "title": "Ekonomi RI Triwulan III [Tumbuh] 5,47 Persen",
+  "deck": "Pertumbuhan ekonomi Indonesia triwulan III 2026 naik menjadi 5,47 persen, ditopang belanja pemerintah dan investasi yang menguat.",
+  "date": "5 November 2026",
+  "image": "assets/img/keranjang-belanja-ibu.jpg",
+  "tags": [
+   "pertumbuhan ekonomi",
+   "Bank Indonesia",
+   "PDB",
+   "triwulan III 2026"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824126.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pnm-hadirkan-ruang-pintar-untuk-52-anak-desa-sade",
+  "category": "BUMN",
+  "title": "PNM Hadirkan [Ruang Pintar] untuk 52 Anak Desa Sade",
+  "deck": "PNM membuka fasilitas belajar Ruang Pintar bagi 52 anak di Desa Sade, Lombok Tengah, sebagai bagian dari program tanggung jawab sosial sekaligus pemulihan pascakebakaran yang melanda desa itu.",
+  "date": "5 November 2026",
+  "image": "assets/img/pnm-hadirkan-ruang-pintar-untuk-52-anak-desa-sade.jpg",
+  "imageV": "mw3knfn1",
+  "tags": [
+   "PNM",
+   "Desa Sade",
+   "Lombok Tengah",
+   "TJSL"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476831-dari-kearifan-lokal-desa-sade-pnm-hadirkan-ruang-pintar-untuk-menumbuhkan-mimpi-dan-masa-depan-anak"
+ },
+ {
   "slug": "ekonomi-ri-tumbuh-5-47-persen-pada-triwulan-iii-2026",
   "category": "Makroekonomi",
   "title": "Ekonomi RI Tumbuh [5,47] Persen pada Triwulan III 2026",
   "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada triwulan III 2026, naik dari 5,29 persen pada triwulan sebelumnya, didorong lonjakan belanja pemerintah dan konsumsi rumah tangga.",
   "date": "5 November 2026",
-  "image": "assets/img/keranjang-belanja-ibu.jpg",
+  "image": "assets/img/sidang-dpr.jpg",
   "tags": [
    "Pertumbuhan Ekonomi",
    "PDB Triwulan III",
@@ -512,7 +545,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
   "deck": "BPS catat pertumbuhan ekonomi naik 0,18 poin dari triwulan sebelumnya dan jadi yang tertinggi kedua dalam setahun terakhir.",
   "date": "5 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "ekonomi",
    "bps",
@@ -722,7 +755,7 @@ var ARTICLES = [
   "title": "Ekonomi Indonesia Tumbuh [5,47%] di Triwulan III-2026",
   "deck": "BPS mencatat produk domestik bruto RI naik 5,47 persen secara tahunan pada triwulan III-2026, ditopang belanja pemerintah dan ekspor.",
   "date": "5 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "PDB",
    "BPS",
@@ -1901,7 +1934,7 @@ var ARTICLES = [
   "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
   "deck": "Surplus dagang Indonesia September 2026 menyusut tipis ke US$3,36 miliar akibat defisit migas melebar, sementara ekspor dan impor sama-sama tumbuh dua digit secara tahunan.",
   "date": "3 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -3313,7 +3346,7 @@ var ARTICLES = [
   "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",
   "deck": "Inflasi Oktober 2026 terjaga di 3,23 persen, neraca dagang September surplus US$3,36 miliar tiga bulan beruntun, dan PMI manufaktur naik ke 54,0, ekspansi tertinggi sejak Maret 2024.",
   "date": "2 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "inflasi",
    "neraca dagang",
@@ -3652,7 +3685,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober [Melandai], Tiket Pesawat Naik",
   "deck": "Inflasi tahunan Oktober 2026 turun jadi 3,23 persen, tapi harga cabai dan tarif pesawat domestik kelas ekonomi justru naik.",
   "date": "2 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "inflasi",
    "harga pangan",
@@ -3668,7 +3701,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI [Berlanjut] tapi Tipis ke US$3,36 Miliar",
   "deck": "Neraca dagang Indonesia surplus US$3,36 miliar pada September 2026, melanjutkan tren positif Agustus meski nilainya mengecil dari US$3,55 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "neraca dagang",
    "ekspor",
@@ -4727,7 +4760,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober Melambat ke [0,22 Persen]",
   "deck": "Kenaikan harga bulanan pada Oktober 2026 lebih rendah dibanding September, dan juga lebih rendah dari Oktober tahun lalu.",
   "date": "2 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -5130,7 +5163,7 @@ var ARTICLES = [
   "title": "Ekspor Naik, tapi Surplus Dagang RI Makin [Menyempit]",
   "deck": "Ekspor September 2026 naik 11,87 persen jadi US$27,59 miliar, tapi impor tumbuh lebih cepat 18,41 persen sehingga surplus dagang kumulatif menyempit jadi US$10,61 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "ekspor",
    "impor",
@@ -6437,38 +6470,6 @@ var ARTICLES = [
    "kuartal III 2026"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215539-65563-0/FinancialStatement-2026-III-SAGE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smru-catat-ekuitas-negatif-rp44-8-miliar-per-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "SMRU Catat Ekuitas [Negatif] Rp44,8 Miliar per September 2026",
-  "deck": "Ekuitas SMR Utama Tbk berbalik negatif Rp44,83 miliar akhir September 2026, setelah pendapatan sembilan bulan ambruk 98,6 persen dan rugi bersih melebar jadi Rp45,72 miliar.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMRU",
-   "SMR Utama",
-   "laporan keuangan",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215513-65508-0/FinancialStatement-2026-III-SMRU.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ggrp-catat-laba-us-1-6-juta-utang-lancar-melonjak-262",
-  "category": "Aksi Korporasi",
-  "title": "GGRP Catat Laba US$1,6 Juta, [Utang] Lancar Melonjak 262%",
-  "deck": "Laporan keuangan interim Kuartal III 2026 GGRP mencatat laba bersih US$1,6 juta setelah rugi besar tahun lalu, namun diikuti kenaikan utang jangka pendek dan arus kas operasi yang negatif.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GGRP",
-   "laporan keuangan",
-   "utang jangka pendek",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215101-65494-0/FinancialStatement-2026-III-GGRP.pdf",
   "sourceLabel": "IDX"
  }
 ];

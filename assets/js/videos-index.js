@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "SXSTX6n-ypI",
+  "title": "Pajak PPN 11 Persen untuk Pembalut Picu Perdebatan Publik",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Pengenaan Pajak Pertambahan Nilai efektif 11 persen atas pembalut wanita menuai kritik publik karena produk ini dianggap kebutuhan biologis esensial, bukan barang mewah yang semestinya dikenai pajak tinggi.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kebijakan perpajakan yang berdampak langsung pada daya beli dan akses kebutuhan dasar perempuan."
+ },
+ {
   "id": "ppbjweTb_JI",
   "title": "Pemerintah Siapkan Program Pembelian Telur untuk Peternak Mikro",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pemerintah memangkas harga pupuk bersubsidi sebesar 20 persen untuk memperkuat produksi pertanian dan menekan biaya usaha tani.",
   "takeaway": "Kebijakan ini penting bagi pembaca ekonomi karena menyangkut biaya produksi pertanian dan daya saing sektor pangan nasional."
- },
- {
-  "id": "YhOjiapiUVY",
-  "title": "Ketum Kadin Yakin Ekonomi Indonesia Punya Daya Tahan Baik",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Ketua Umum Kadin menyampaikan optimisme atas daya tahan ekonomi Indonesia dalam pembukaan Rapimnas Kadin 2026 di Jakarta.",
-  "takeaway": "Pandangan pelaku usaha dalam forum Kadin menjadi indikator sentimen dunia usaha terhadap prospek ekonomi nasional."
  }
 ];

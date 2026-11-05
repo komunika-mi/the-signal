@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bima-dirut-dan-wadirut-primarindo-mundur-bersamaan",
+  "category": "Aksi Korporasi",
+  "title": "BIMA: Dirut dan Wadirut Primarindo [Mundur] Bersamaan",
+  "deck": "Direktur Utama Bambang Setiyono dan Wakil Direktur Utama David Jahja mengajukan pengunduran diri efektif 1 Januari 2027, menunggu keputusan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T11:53:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e25cead8b0_6120a8e135.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIMA",
+  "tags": [
+   "BIMA",
+   "Primarindo Asia Infrastructure",
+   "pergantian direksi",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Primarindo Asia Infrastructure Tbk (BIMA), produsen sepatu yang berbasis di Bandung, mengumumkan bahwa pada 3 November 2026 perseroan menerima surat pengunduran diri dari dua pucuk pimpinannya sekaligus: Direktur Utama Bambang Setiyono dan Wakil Direktur Utama David Jahja. Dalam suratnya, David Jahja menyebut keputusan itu diambil atas pertimbangan pribadi, sementara surat Bambang Setiyono tidak mencantumkan alasan spesifik. Keduanya menyatakan pengunduran diri berlaku efektif per 1 Januari 2027.",
+   "Perseroan menegaskan bahwa kegiatan usaha dan operasional tetap berjalan normal meski kedua posisi puncak direksi kosong. Secara formal, permohonan pengunduran diri ini masih harus diputuskan dalam Rapat Umum Pemegang Saham (RUPS), yang menurut dokumen keterbukaan wajib digelar paling lambat 90 hari setelah surat pengunduran diri diterima, yakni sekitar awal Februari 2027. Dengan kata lain, status resmi kedua direktur ini baru akan final setelah RUPS tersebut digelar.",
+   "Pengumuman ini sendiri merupakan koreksi atas surat nomor 070/Corp-Sec/PAI/XI/2026 yang diterbitkan perseroan pada tanggal yang sama, 5 November 2026. Dokumen ditandatangani oleh Mohamad Al Hadi selaku Corporate Secretary Primarindo."
+  ],
+  "fotoAdegan": "Workers stitching shoe uppers at sewing machines inside an Indonesian footwear factory, rows of production lines, bright industrial lighting",
+  "takeaway": "Kabar ini condong netral ke arah yang perlu diwaspadai, bukan sinyal positif maupun krisis: perusahaan tidak melaporkan masalah keuangan atau operasional apa pun, tapi mundurnya dua pucuk pimpinan direksi secara bersamaan tetap menciptakan kekosongan kepemimpinan yang harus diisi. Yang tersentuh di sini bukan angka laporan keuangan seperti ekuitas atau laba, melainkan kesinambungan tata kelola, yakni siapa yang akan menjalankan strategi dan keputusan operasional sehari-hari begitu Direktur Utama dan Wakil Direktur Utama resmi lengser. Pelaku pasar biasanya mencermati pergantian pimpinan puncak karena ini bisa mengubah arah kebijakan perusahaan, terutama kalau pengganti belum jelas. Yang perlu dipantau selanjutnya adalah Rapat Umum Pemegang Saham yang wajib digelar paling lambat sekitar awal Februari 2027 untuk memutuskan permohonan ini secara resmi, serta siapa yang akan ditunjuk menggantikan kedua posisi tersebut sebelum efektif per 1 Januari 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ultj-koreksi-jadwal-rupslb-agenda-rights-issue-frisian-flag",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Koreksi Jadwal RUPSLB, Agenda [Rights Issue] Frisian Flag",
+  "deck": "RUPSLB ULTJ digelar Jumat, 6 November 2026, membahas rights issue, akuisisi penuh Frisian Flag Indonesia, pergantian direksi, dan dividen tambahan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T11:49:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/89c6af697e_aa9771dbeb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "RUPSLB",
+   "Frisian Flag",
+   "rights issue"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) mengoreksi surat pemberitahuan penjadwalan ulang Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya terbit 23 Oktober 2026. Rapat yang awalnya dijadwalkan 27 Oktober 2026 dipindah ke Jumat, 6 November 2026 pukul 10.00 WIB, karena Otoritas Jasa Keuangan melalui surat Nomor S-370/PM.212/2026 tanggal 15 Oktober 2026 meminta tambahan informasi dan klarifikasi atas rencana penambahan modal dan transaksi material yang akan dibahas. Rapat digelar di kantor perseroan, Jalan Raya Cimareme No 131, Bandung Barat, secara fisik maupun elektronik lewat aplikasi eASY.KSEI, dengan daftar pemegang saham yang berhak hadir dihitung per 2 Oktober 2026. Koreksi ditandatangani Corporate Secretary Helina Widayani pada 5 November 2026.",
+   "Agenda utama rapat adalah persetujuan penambahan modal dengan hak memesan efek terlebih dahulu tahap IV (rights issue IV atau PMHMETD IV), yang sebagian akan disetor bukan dalam bentuk uang tunai melainkan saham. Dana nontunai itu berupa pengambilalihan 24.440 lembar saham, atau 100 persen kepemilikan PT Frisian Flag Indonesia, dari FrieslandCampina International Holding B.V., Blue Waves Group Ventures Pte. Ltd., dan PT Bahtera Wiraniaga Internusa. Setelah transaksi ini, FrieslandCampina International Holding tidak lagi memegang Frisian Flag Indonesia secara langsung, melainkan secara tidak langsung lewat kepemilikan sahamnya di ULTJ.",
+   "Tiga agenda lain yang akan dimintakan persetujuan RUPSLB adalah perubahan susunan direksi dan dewan komisaris yang berlaku efektif sejak rencana pengambilalihan Frisian Flag selesai, penggunaan sebagian saldo laba ditahan per 31 Desember 2025 untuk dibagikan sebagai dividen tunai final tambahan, serta perubahan dan pernyataan kembali seluruh anggaran dasar perseroan untuk kepentingan tata kelola perusahaan."
+  ],
+  "fotoAdegan": "Stainless steel milk processing tanks and pipelines inside a dairy factory, workers in white uniforms checking gauges under bright industrial lighting",
+  "takeaway": "Laporan ini sendiri netral, sebab isinya cuma koreksi jadwal administratif, tetapi substansi RUPSLB yang dibawanya membawa dua kekuatan yang saling mengimbangi bagi ULTJ. Rights issue akan menambah jumlah saham beredar sehingga laba per saham ke depan bisa terdilusi, namun porsi yang disetor dari akuisisi Frisian Flag berupa saham, bukan uang tunai, sehingga menambah ekuitas perseroan tanpa menggerus kas, sementara dividen tambahan dari laba ditahan justru akan mengurangi kas dan saldo laba yang tersimpan. Yang perlu dipantau adalah hasil RUPSLB besok, 6 November 2026, khususnya apakah pemegang saham menyetujui kelima agenda sekaligus, termasuk harga pelaksanaan rights issue yang belum diumumkan dan tanggal pembayaran dividen tambahan setelah rapat berlangsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fwct-rugi-rp45-8-miliar-penjualan-anjlok-47-persen",
+  "category": "Aksi Korporasi",
+  "title": "FWCT Rugi Rp45,8 Miliar, Penjualan [Anjlok] 47 Persen",
+  "deck": "Laporan interim kuartal III 2026 FWCT menunjukkan penjualan turun hampir separuh, perusahaan berbalik rugi, arus kas operasional negatif, dan ekuitas menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T11:31:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105114229-65561-0/FinancialStatement-2026-III-FWCT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FWCT",
+  "tags": [
+   "FWCT",
+   "Wijaya Cahaya Timber",
+   "laporan keuangan",
+   "rugi"
+  ],
+  "body": [
+   "PT Wijaya Cahaya Timber Tbk (FWCT) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia pada 5 November 2026. Surat pengantar laporan ditandatangani oleh Direktur Utama Budi Tiahjadi, merujuk pada ketentuan Otoritas Jasa Keuangan tentang penyampaian laporan keuangan berkala emiten.",
+   "Penjualan Perseroan pada sembilan bulan pertama 2026 tercatat Rp601,66 miliar, turun 47,4 persen dari Rp1,14 triliun pada periode yang sama tahun sebelumnya. Laba bruto ikut merosot dari Rp138,96 miliar menjadi Rp26,89 miliar, dan setelah dikurangi beban usaha serta beban keuangan, Perseroan membukukan rugi periode berjalan sebesar Rp45,82 miliar, berbalik dari laba Rp45,96 miliar pada sembilan bulan pertama 2025. Akibatnya, rugi per saham dasar tercatat Rp23,34, dibandingkan laba per saham Rp23,40 pada periode sebelumnya, dengan jumlah saham beredar tetap 1.963.000.000 lembar.",
+   "Rugi tersebut membuat saldo laba ditahan turun dari Rp137,82 miliar menjadi Rp92,01 miliar, sehingga total ekuitas Perseroan susut dari Rp346,03 miliar menjadi Rp300,21 miliar per akhir September 2026. Kas dan setara kas juga menyusut dari Rp62,05 miliar menjadi Rp35,59 miliar, sementara arus kas dari aktivitas operasi berbalik negatif Rp54,29 miliar, dari sebelumnya positif Rp74,95 miliar pada periode yang sama tahun lalu. Di sisi pendanaan, Perseroan menarik pinjaman bank jangka panjang baru senilai Rp210,60 miliar, yang membuat saldo utang bank jangka panjangnya naik dari Rp90,17 miliar menjadi Rp171,06 miliar, sejalan dengan beban bunga yang naik dari Rp15,14 miliar menjadi Rp21,40 miliar."
+  ],
+  "fotoAdegan": "Workers stacking rows of plywood sheets inside a timber processing warehouse, forklift moving nearby, dim industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi FWCT karena penjualan anjlok hampir separuh dan perusahaan berbalik dari untung menjadi rugi dalam sembilan bulan, bukan sekadar koreksi musiman kecil. Pos yang paling tersentuh adalah ekuitas, yakni dana pemegang saham yang tertanam di perusahaan dan langsung terpotong rugi sekitar Rp45,8 miliar, arus kas operasional yang berbalik dari menghasilkan uang menjadi memakai kas, serta beban bunga atas pinjaman bank yang naik dari Rp15,14 miliar menjadi Rp21,40 miliar. Yang perlu dipantau berikutnya adalah apakah pinjaman bank jangka panjang baru senilai Rp210,60 miliar yang ditarik tahun ini benar menambah kapasitas usaha atau sekadar menambal arus kas yang sudah negatif, serta apakah tren rugi ini masih berlanjut saat laporan tahunan 2026 terbit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tama-rugi-rp97-2-miliar-ekuitas-tergerus-jadi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "TAMA rugi Rp97,2 miliar, ekuitas tergerus jadi [negatif]",
+  "deck": "Laporan keuangan interim TAMA per September 2026 menunjukkan rugi bersih melonjak dan ekuitas berbalik negatif akibat penurunan nilai properti investasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T10:35:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105104206-65736-0/FinancialStatement-2026-III-TAMA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAMA",
+  "tags": [
+   "TAMA",
+   "laporan keuangan",
+   "properti",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Lancartama Sejati Tbk (TAMA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan perusahaan turun hampir separuh menjadi Rp8,29 miliar dari Rp17,43 miliar pada periode yang sama tahun lalu, dan laba kotor ikut menyusut dari Rp6,92 miliar menjadi Rp3,67 miliar. Rugi bersih periode berjalan justru melonjak tajam menjadi Rp97,20 miliar, dari Rp8,20 miliar pada September 2025, sehingga rugi per saham melebar dari Rp3,63 menjadi Rp81 per saham.",
+   "Pemicu utama lonjakan rugi ini adalah pos pendapatan (beban) lain-lain bersih yang berbalik menjadi beban Rp91,64 miliar, dari sebelumnya pendapatan Rp470,8 juta setahun sebelumnya. Angka ini persis sama dengan susutnya nilai properti investasi dalam laporan posisi keuangan, dari Rp169,20 miliar pada akhir 2025 menjadi Rp77,56 miliar pada akhir September 2026. Akibatnya, total ekuitas Perseroan yang semula positif Rp34,66 miliar pada akhir 2025 berbalik menjadi negatif Rp62,54 miliar pada akhir September 2026.",
+   "Dari sisi pendanaan, TAMA melunasi utang bank jangka pendek sebesar Rp35,57 miliar dan utang bank jangka panjang sebesar Rp101,58 miliar, yang dibiayai dari penerimaan dana pihak berelasi senilai Rp142,23 miliar yang kini tercatat sebagai utang pemegang saham jangka panjang. Kas dan setara kas perusahaan naik menjadi Rp701,85 juta dari Rp197,04 juta pada akhir 2025. Saham TAMA saat ini masih berada di papan Pemantauan Khusus (Watchlist) Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Abandoned multi-story building site with rusted scaffolding and exposed concrete beams under an overcast Jakarta sky",
+  "takeaway": "Laporan ini jelas NEGATIF bagi TAMA, karena rugi bersihnya melonjak lebih dari 11 kali lipat dibanding tahun lalu dan modal perusahaan justru berbalik jadi minus, pertanda aset yang dimiliki sudah tidak cukup menutup utangnya. Pos yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan, yang turun dari positif Rp34,66 miliar menjadi negatif Rp62,54 miliar, sehingga secara hitungan utang perusahaan kini lebih besar dari asetnya. Penyebab utamanya bukan dari bisnis konstruksi yang memang sedang lesu, melainkan dari susutnya nilai properti investasi sekitar Rp91,6 miliar yang dibebankan sekaligus ke laporan laba rugi. Akibatnya rugi per saham, yaitu kerugian yang ditanggung oleh setiap lembar saham yang beredar, melebar dari Rp3,63 menjadi Rp81. Yang perlu dipantau berikutnya adalah penjelasan resmi manajemen soal penurunan nilai properti investasi ini, serta apakah laporan keuangan tahunan teraudit nanti akan mengonfirmasi posisi modal negatif ini, mengingat saham TAMA sudah berstatus Pemantauan Khusus di Bursa Efek Indonesia.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "tujuh-produk-indonesia-menang-g-mark-2026-di-jepang",
   "category": "Industri",
   "title": "Tujuh Produk Indonesia [Menang] G-Mark 2026 di Jepang",

@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bima-dirut-dan-wadirut-primarindo-mundur-bersamaan",
+  "category": "Aksi Korporasi",
+  "title": "BIMA: Dirut dan Wadirut Primarindo [Mundur] Bersamaan",
+  "deck": "Direktur Utama Bambang Setiyono dan Wakil Direktur Utama David Jahja mengajukan pengunduran diri efektif 1 Januari 2027, menunggu keputusan RUPS.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIMA",
+   "Primarindo Asia Infrastructure",
+   "pergantian direksi",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e25cead8b0_6120a8e135.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ultj-koreksi-jadwal-rupslb-agenda-rights-issue-frisian-flag",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Koreksi Jadwal RUPSLB, Agenda [Rights Issue] Frisian Flag",
+  "deck": "RUPSLB ULTJ digelar Jumat, 6 November 2026, membahas rights issue, akuisisi penuh Frisian Flag Indonesia, pergantian direksi, dan dividen tambahan.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "RUPSLB",
+   "Frisian Flag",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/89c6af697e_aa9771dbeb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fwct-rugi-rp45-8-miliar-penjualan-anjlok-47-persen",
+  "category": "Aksi Korporasi",
+  "title": "FWCT Rugi Rp45,8 Miliar, Penjualan [Anjlok] 47 Persen",
+  "deck": "Laporan interim kuartal III 2026 FWCT menunjukkan penjualan turun hampir separuh, perusahaan berbalik rugi, arus kas operasional negatif, dan ekuitas menyusut.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FWCT",
+   "Wijaya Cahaya Timber",
+   "laporan keuangan",
+   "rugi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105114229-65561-0/FinancialStatement-2026-III-FWCT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tama-rugi-rp97-2-miliar-ekuitas-tergerus-jadi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "TAMA rugi Rp97,2 miliar, ekuitas tergerus jadi [negatif]",
+  "deck": "Laporan keuangan interim TAMA per September 2026 menunjukkan rugi bersih melonjak dan ekuitas berbalik negatif akibat penurunan nilai properti investasi.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAMA",
+   "laporan keuangan",
+   "properti",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105104206-65736-0/FinancialStatement-2026-III-TAMA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tujuh-produk-indonesia-menang-g-mark-2026-di-jepang",
   "category": "Industri",
   "title": "Tujuh Produk Indonesia [Menang] G-Mark 2026 di Jepang",
@@ -6405,71 +6469,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030182344-64927-0/FinancialStatement-2026-III-MTLA.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "msky-pendapatan-anjlok-44-8-kas-menipis-ke-rp2-1-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MSKY: Pendapatan [Anjlok] 44,8%, Kas Menipis ke Rp2,1 Miliar",
-  "deck": "Pendapatan MNC Sky Vision turun 44,8 persen pada sembilan bulan pertama 2026, sementara kas perusahaan menyusut tajam menjadi hanya Rp2,1 miliar meski rugi bersihnya justru mengecil.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSKY",
-   "MNC Sky Vision",
-   "laporan keuangan",
-   "TV berbayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030182315-64973-0/FinancialStatement-2026-III-MSKY.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "coin-rugi-rp59-1-miliar-pendapatan-susut-nyaris-separuh",
-  "category": "Aksi Korporasi",
-  "title": "COIN Rugi Rp59,1 Miliar, [Pendapatan] Susut Nyaris Separuh",
-  "deck": "Pendapatan COIN turun hampir separuh jadi Rp105,2 miliar dalam sembilan bulan 2026, membuat laba operasional berbalik rugi Rp73,6 miliar.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "COIN",
-   "laporan keuangan interim",
-   "aset kripto",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030181603-65582-0/FinancialStatement-2026-III-COIN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "petani-hutan-bojonegoro-olah-limbah-jadi-ekonomi-baru",
-  "category": "UMKM",
-  "title": "Petani Hutan Bojonegoro Olah Limbah Jadi [Ekonomi] Baru",
-  "deck": "Petani hutan di Desa Bandungrejo, Bojonegoro, mengolah sisa jagung, jerami, dan kotoran ternak jadi pakan domba serta kompos lewat koperasi, didukung program pemberdayaan Pertamina EP Cepu.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/petani-hutan-bojonegoro-olah-limbah-jadi-ekonomi-baru.jpg",
-  "imageV": "mvuysx92",
-  "tags": [
-   "ekonomi sirkular",
-   "Bojonegoro",
-   "petani hutan",
-   "koperasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475799-dari-kebiasaan-membakar-ke-ekonomi-sirkular-kisah-petani-hutan-di-sekitar-lapangan-gas-jtb"
- },
- {
-  "slug": "transaksi-umkm-bisa-ekspor-tembus-us-360-juta-per-september",
-  "category": "UMKM",
-  "title": "Transaksi UMKM Bisa Ekspor [Tembus] US$360 Juta per September",
-  "deck": "Mendag Budi Santoso melaporkan nilai transaksi program UMKM Bisa Ekspor naik tajam dibanding capaian sepanjang 2024, lewat jaringan atase dan ITPC di 33 negara.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/transaksi-umkm-bisa-ekspor-tembus-us-360-juta-per-september.jpg",
-  "imageV": "mvute6hf",
-  "tags": [
-   "UMKM",
-   "ekspor",
-   "Kemendag",
-   "Kadin"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475791-mendag-transaksi-program-umkm-bisa-ekspor-tembus-360-juta-dolar-as-per-september-2026"
  }
 ];

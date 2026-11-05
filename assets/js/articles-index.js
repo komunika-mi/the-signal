@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dooh-akuisisi-29-88-saham-inet-senilai-rp2-triliun-utang",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Akuisisi 29,88% Saham INET Senilai Rp2 Triliun [Utang]",
+  "deck": "Anak usaha DOOH, CNI, membeli 6,685 miliar saham INET dari AKUN senilai Rp2 triliun yang dibiayai pinjaman dari pemegang saham mayoritas DOOH, PT Sinergi Internasional Investama (SII).",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "INET",
+   "akuisisi",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f407c51518_8fe1ea60f7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-alihkan-rp120-miliar-dana-ipo-ke-investasi-inet",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Alihkan [Rp120 Miliar] Dana IPO ke Investasi INET",
+  "deck": "DOOH minta persetujuan pemegang saham mengubah penggunaan sisa dana IPO, mengalihkan Rp120 miliar untuk suntikan modal ke anak usaha yang berinvestasi di saham INET.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "penggunaan dana IPO",
+   "INET",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/80d152d2df_77935d13ab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-rombak-jadi-holding-bisnis-iklan-pindah-ke-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Rombak Jadi [Holding], Bisnis Iklan Pindah ke Anak Usaha",
+  "deck": "DOOH menambah KBLI Aktivitas Perusahaan Induk untuk jadi holding company, mengalihkan bisnis iklan ke anak usaha MSS, dan butuh restu RUPSLB pemegang saham.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "RUPSLB",
+   "holding company",
+   "akuisisi INET"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/443dfe22eb_32f1bbc930.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-rencanakan-rights-issue-154-7-miliar-saham-rasio-20-1",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Rencanakan [Rights Issue] 154,7 Miliar Saham, Rasio 20:1",
+  "deck": "DOOH akan menerbitkan saham baru sebanyak-banyaknya 154,7 miliar lembar untuk melunasi utang Rp2 triliun ke pengendali SII dan membiayai ekspansi infrastruktur AI, dengan dilusi hingga 95,24 persen.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "rights issue",
+   "PMHMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e3e0f5adbc_f402220840.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "futr-jadwalkan-rupslb-14-desember-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "FUTR Jadwalkan [RUPSLB] 14 Desember, Agenda Belum Diumumkan",
+  "deck": "FUTR menjadwalkan RUPSLB elektronik pada 14 Desember 2026. Pemegang saham yang tercatat per 19 November berhak hadir, sementara agenda rapat belum diumumkan.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FUTR",
+   "RUPSLB",
+   "tata kelola",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a6c697149_1f96b3b66b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cita-tegaskan-tak-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "CITA Tegaskan Tak Terlibat [Penyelidikan] Karhutla Singapura",
+  "deck": "Cita Mineral Investindo menjawab permintaan penjelasan BEI soal pemanggilan Pemerintah Singapura ke grup usaha agribisnis terafiliasi terkait investigasi karhutla, dan menyatakan tidak terlibat.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CITA",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "Singapura"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b1ef77d120_7e37c66e82.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-raih-rating-ida-untuk-obligasi-rp1-25-triliun",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Raih Rating [idA] untuk Obligasi Rp1,25 Triliun",
+  "deck": "PEFINDO menetapkan rating idA (Single A) untuk tiga seri Obligasi Berkelanjutan I WIFI senilai total Rp1,25 triliun, berlaku 3 November 2026 hingga 1 November 2027.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "obligasi",
+   "PEFINDO",
+   "rating"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/758dbca71a_6201875009.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgjo-dirikan-anak-usaha-energi-lestari-cemerlang",
+  "category": "Aksi Korporasi",
+  "title": "PGJO Dirikan [Anak Usaha] Energi Lestari Cemerlang",
+  "deck": "PT Bahtera Bumi Raya Tbk mendirikan anak usaha baru, PT Energi Lestari Cemerlang, untuk masuk ke bisnis pengisian daya kendaraan listrik dan sewa alat berat senilai Rp500 juta.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGJO",
+   "anak usaha",
+   "transaksi afiliasi",
+   "kendaraan listrik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/771cc5e2c5_b48ee557b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekonomi-ri-triwulan-iii-tumbuh-5-47-persen",
   "category": "Makroekonomi",
   "title": "Ekonomi RI Triwulan III [Tumbuh] 5,47 Persen",
@@ -19,6 +147,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824126.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "wika-anak-usaha-wikon-digugat-pkpu-oleh-kreditur",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: Anak Usaha WIKON Digugat [PKPU] oleh Kreditur",
+  "deck": "WIKA melaporkan ke OJK bahwa anak usahanya, WIKON, menjadi pihak tergugat dalam permohonan PKPU yang diajukan PT Gajah Mas Tehnik di Pengadilan Niaga Jakarta Pusat.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "PKPU",
+   "WIKON",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d01f62a36_5d2cfa3b45.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnm-hadirkan-ruang-pintar-untuk-52-anak-desa-sade",
@@ -6325,151 +6469,6 @@ var ARTICLES = [
    "karoseri"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030231119-65621-0/FinancialStatement-2026-III-NTBK.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpdp-percepat-program-peremajaan-sawit-rakyat",
-  "category": "Industri",
-  "title": "BPDP Percepat Program [Peremajaan] Sawit Rakyat",
-  "deck": "BPDP memaparkan capaian program peremajaan sawit rakyat dalam forum IPOS 2026 di Medan, dengan bantuan dana Rp12,48 triliun bagi hampir 197 ribu petani sejak 2016.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/bpdp-percepat-program-peremajaan-sawit-rakyat.jpg",
-  "imageV": "mvv7fp4q",
-  "tags": [
-   "BPDP",
-   "sawit rakyat",
-   "PSR",
-   "perkebunan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475836-dorong-produktivitas-petani-bpdp-akselerasi-program-peremajaan-sawit-rakyat"
- },
- {
-  "slug": "depo-laba-bersih-naik-16-tapi-laba-usaha-susut-22",
-  "category": "Aksi Korporasi",
-  "title": "DEPO: Laba Bersih Naik 16% Tapi [Laba Usaha] Susut 22%",
-  "deck": "Laporan keuangan interim Kuartal III 2026 DEPO: laba bersih naik ditopang pendapatan lain-lain, sementara laba dari operasi toko menyusut dan pinjaman bank jangka pendek melonjak.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEPO",
-   "laporan keuangan",
-   "laba bersih",
-   "ritel bahan bangunan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030230701-64892-0/FinancialStatement-2026-III-DEPO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-aldo-melonjak-8-kali-lipat-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "Laba ALDO [Melonjak] 8 Kali Lipat di Kuartal III 2026",
-  "deck": "Laba bersih Alkindo Naratama naik dari Rp21,4 miliar menjadi Rp174,3 miliar dalam sembilan bulan 2026, sementara penjualan tumbuh 21 persen.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ALDO",
-   "Alkindo Naratama",
-   "laporan keuangan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030230010-65595-0/FinancialStatement-2026-III-ALDO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hajj-laba-anjlok-75-piutang-melonjak-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "HAJJ: [Laba] Anjlok 75%, Piutang Melonjak di Kuartal III 2026",
-  "deck": "Laporan kuartal III 2026 HAJJ menunjukkan laba bersih turun 75 persen secara tahunan, sementara piutang dan utang usaha melonjak drastis dalam tiga bulan terakhir.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HAJJ",
-   "laporan keuangan",
-   "laba bersih",
-   "piutang usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030225059-65052-0/FinancialStatement-2026-III-HAJJ.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "agro-laba-bank-raya-turun-separuh-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "AGRO: Laba Bank Raya [Turun Separuh] di Kuartal III 2026",
-  "deck": "Laba Bank Raya Indonesia turun 50 persen menjadi Rp21,01 miliar pada sembilan bulan 2026, tertekan kenaikan pencadangan kredit dan penarikan deposito nasabah.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGRO",
-   "Bank Raya Indonesia",
-   "laporan keuangan",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2d8f5870f0_52323d4eec.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-bersih-phapros-peha-melonjak-4-kali-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "[Laba Bersih] Phapros (PEHA) Melonjak 4 Kali di Kuartal III 2026",
-  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih Phapros melonjak dari Rp7,68 miliar menjadi Rp31,60 miliar, ditopang kenaikan pendapatan dan penurunan utang bank.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PEHA",
-   "Phapros",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030223608-64959-0/FinancialStatement-2026-III-PEHA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kias-tarik-cerukan-rp40-miliar-rugi-kuartal-iii-menyempit",
-  "category": "Aksi Korporasi",
-  "title": "KIAS tarik [cerukan] Rp40 miliar, rugi kuartal III menyempit",
-  "deck": "Keramika Indonesia Assosiasi (KIAS) menarik cerukan bank Rp40 miliar untuk modal kerja, membuat total liabilitas naik 29 persen, sementara rugi sembilan bulan menyempit menjadi Rp14,1 miliar.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KIAS",
-   "laporan keuangan",
-   "cerukan bank",
-   "keramik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030222635-65342-0/FinancialStatement-2026-III-KIAS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sdpc-catat-laba-melonjak-49-arus-kas-operasi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "SDPC catat laba [melonjak] 49%, arus kas operasi negatif",
-  "deck": "Laporan keuangan kuartal III 2026 menunjukkan laba bersih Millennium Pharmacon naik 49 persen dari tahun lalu, namun arus kas dari kegiatan usaha justru berbalik negatif.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SDPC",
-   "laporan keuangan",
-   "distribusi farmasi",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030220233-64417-0/FinancialStatement-2026-III-SDPC.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sage-berbalik-untung-rp461-juta-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "SAGE [Berbalik] Untung Rp461 Juta di Kuartal III 2026",
-  "deck": "Pendapatan SAGE melonjak empat kali lipat dalam sembilan bulan 2026, membawa perusahaan properti ini berbalik dari rugi Rp3,16 miliar jadi laba Rp461 juta.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAGE",
-   "properti",
-   "laporan keuangan",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215539-65563-0/FinancialStatement-2026-III-SAGE.pdf",
   "sourceLabel": "IDX"
  }
 ];

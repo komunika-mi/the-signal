@@ -3,6 +3,214 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dooh-akuisisi-29-88-saham-inet-senilai-rp2-triliun-utang",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Akuisisi 29,88% Saham INET Senilai Rp2 Triliun [Utang]",
+  "deck": "Anak usaha DOOH, CNI, membeli 6,685 miliar saham INET dari AKUN senilai Rp2 triliun yang dibiayai pinjaman dari pemegang saham mayoritas DOOH, PT Sinergi Internasional Investama (SII).",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T22:28:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f407c51518_8fe1ea60f7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "INET",
+   "akuisisi",
+   "transaksi material"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menyampaikan informasi tambahan atas rencana pengambilalihan saham PT Sinergi Inti Andalan Prima Tbk (INET) oleh anak usahanya, PT Cakrawala Nexus Investama (CNI), yang sahamnya 99,99 persen dimiliki DOOH. CNI akan membeli 6.685.000.000 lembar saham INET, setara 29,88 persen dari modal ditempatkan dan disetor INET, milik PT Abadi Kreasi Unggul Nusantara (AKUN) dengan harga Rp300 per saham. Total nilai transaksi mencapai Rp2,0055 triliun, setara 647,90 persen dari ekuitas DOOH per 30 Juni 2026 yang tercatat Rp309,54 miliar, sehingga transaksi ini masuk kategori Transaksi Material menurut aturan OJK dan wajib mendapat persetujuan rapat umum pemegang saham luar biasa (RUPSLB), baik dari pemegang saham CNI maupun DOOH selaku induk perusahaan. Penyelesaian transaksi, yang berlangsung di pasar negosiasi Bursa Efek Indonesia dan diselesaikan lewat sistem C-BEST milik Kustodian Sentral Efek Indonesia, wajib dilakukan paling lambat lima hari kerja setelah RUPSLB menyetujui.",
+   "Meski merogoh dana sebesar itu, DOOH lewat CNI tidak memperoleh kendali atas INET. Setelah transaksi, kepemilikan AKUN di INET turun dari 59,77 persen menjadi 29,89 persen atau 6.688.689.331 saham, sementara CNI masuk sebagai pemegang saham baru dengan 29,88 persen atau 6.685.000.000 saham. Perjanjian jual beli saham antara AKUN dan CNI secara tegas tidak memberikan hak kepada CNI untuk menunjuk direksi atau komisaris INET, dan AKUN tetap berstatus pengendali INET karena Muhammad Arif, komisaris AKUN yang juga memegang 26,15 persen saham AKUN, menjabat Direktur Utama INET. Status ini juga telah dikonfirmasi INET kepada Bursa Efek Indonesia, yang menyebut pemilik manfaat akhir INET tetap Adhie M. Massardi setelah transaksi.",
+   "Sumber dana pembelian ini turut menjadi perhatian. Laporan pendapat kewajaran dari KJPP Toha Okky Heru & Rekan menyebut transaksi ini sebagai transaksi afiliasi berdasarkan POJK 42/2020, karena dana pembelian berasal dari fasilitas pinjaman pemegang saham (shareholder loan) yang diberikan PT Sinergi Internasional Investama (SII), pemegang saham mayoritas DOOH, berbeda dengan keterbukaan informasi utama DOOH yang menyatakan transaksi ini bukan transaksi afiliasi. SII sendiri baru menjadi pengendali DOOH sejak 30 Juli 2026, saat mengambil alih 3.946.835.000 saham atau 51 persen saham DOOH dari PT Prambanan Investasi Sukses, yang turut mengubah pemilik manfaat akhir DOOH dari Faysal Deni Rahman menjadi Tinawati."
+  ],
+  "fotoAdegan": "Technicians checking cable connections and server racks inside a data center aisle, blue status lights glowing, Jakarta technology facility.",
+  "takeaway": "Laporan ini condong negatif bagi DOOH karena perusahaan menanggung utang sebesar Rp2 triliun, lebih dari enam kali ekuitasnya sendiri, untuk membeli saham minoritas di INET yang justru tidak memberinya kendali atau kursi direksi, sementara dana pembeliannya berasal dari pinjaman pemegang saham mayoritas sendiri, SII, bukan dari kas internal atau modal baru. Pos yang paling tersentuh adalah utang dan ekuitas DOOH: begitu transaksi berjalan, liabilitas DOOH melonjak drastis dibandingkan modal sendirinya karena dibiayai pinjaman, bukan kas, sehingga beban bunga ke depan berpotensi menekan laba bersih meski belum ada perubahan jumlah saham beredar. Yang perlu dipantau adalah hasil RUPSLB pemegang saham CNI dan DOOH yang menjadi syarat wajib sebelum transaksi bisa berjalan, serta tenggat penyelesaian lima hari kerja setelah RUPSLB itu disetujui, karena di situlah kepastian soal beban utang baru ini akan terkonfirmasi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dooh-alihkan-rp120-miliar-dana-ipo-ke-investasi-inet",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Alihkan [Rp120 Miliar] Dana IPO ke Investasi INET",
+  "deck": "DOOH minta persetujuan pemegang saham mengubah penggunaan sisa dana IPO, mengalihkan Rp120 miliar untuk suntikan modal ke anak usaha yang berinvestasi di saham INET.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T22:22:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/80d152d2df_77935d13ab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "penggunaan dana IPO",
+   "INET",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) mengajukan permintaan persetujuan pemegang saham untuk mengubah rencana penggunaan dana hasil penawaran umum perdana saham (PUPS) yang dilakukan pada Mei 2023. Saat itu perseroan meraih dana Rp154,75 miliar, atau Rp152,62 miliar setelah dipotong biaya emisi Rp2,13 miliar. Dalam prospektus, dana itu awalnya dijatah 7,07 persen untuk belanja modal pengadaan perangkat media iklan luar ruang, dan 92,93 persen untuk modal kerja operasional.",
+   "Realisasinya, DOOH telah memakai Rp12,99 miliar untuk belanja modal media iklan dan Rp9,12 miliar untuk modal kerja, setelah memperhitungkan pengembalian dana dari sejumlah vendor yang gagal memenuhi perjanjian layanan penayangan iklan. Sisa dana yang masih mengendap di rekening penampungan DOOH di Bank DKI per 31 Desember 2025 tercatat Rp130,50 miliar.",
+   "Dari sisa dana itu, DOOH mengusulkan Rp120 miliar dialihkan sebagai setoran modal kepada anak usahanya, PT Cakrawala Nexus Investama (CNI), yang akan dipakai untuk berinvestasi pada saham PT Sinergi Inti Andalan Prima Tbk (INET). Rencana ini sejalan dengan arah bisnis baru perseroan setelah pengendali baru, PT Sinergi Internasional Investama, menguasai 51 persen saham DOOH sejak 30 Juli 2026 dan mengarahkan perseroan ke bisnis data center AI, internet berkecepatan tinggi, kabel serat optik, kabel bawah laut, dan energi surya. Dengan pengalihan ini, sisa dana PUPS yang tersisa untuk modal kerja hanya Rp10,50 miliar, yang menurut perseroan direncanakan cukup dipakai sampai kuartal pertama 2027."
+  ],
+  "fotoAdegan": "Technicians installing underground fiber optic cable conduits at a construction site in Jakarta, cable spools nearby, daytime work light",
+  "takeaway": "Laporan ini condong negatif bagi DOOH karena hampir seluruh sisa kas hasil IPO, dari Rp130,5 miliar menjadi tinggal Rp10,5 miliar, dikeluarkan untuk menyuntik modal ke anak usaha yang membeli saham INET, sehingga bantalan kas operasional perseroan menipis drastis. Transaksi ini tidak langsung memengaruhi laba rugi karena tercatat sebagai penyertaan modal, namun kas dan setara kas akan berkurang dan investasi di INET akan dibukukan dengan metode ekuitas, yaitu cara mencatat kepemilikan di perusahaan lain berdasarkan porsi laba yang didapat, bukan nilai pasar sahamnya. Langkah ini juga melengkapi gambaran akuisisi 29,88 persen saham INET yang sebelumnya dibiayai dengan utang Rp2 triliun, yang berarti pendanaan ekspansi AI DOOH kini bertumpu baik pada utang besar maupun pengurasan kas sisa IPO. Yang perlu dipantau selanjutnya adalah hasil RUPSLB yang akan menyetujui atau menolak perubahan penggunaan dana ini, serta apakah sisa Rp10,5 miliar benar-benar cukup menutup modal kerja operasional hingga kuartal pertama 2027 seperti klaim perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dooh-rombak-jadi-holding-bisnis-iklan-pindah-ke-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Rombak Jadi [Holding], Bisnis Iklan Pindah ke Anak Usaha",
+  "deck": "DOOH menambah KBLI Aktivitas Perusahaan Induk untuk jadi holding company, mengalihkan bisnis iklan ke anak usaha MSS, dan butuh restu RUPSLB pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T22:19:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/443dfe22eb_32f1bbc930.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "RUPSLB",
+   "holding company",
+   "akuisisi INET"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) mengumumkan rencana menambah klasifikasi usaha baru, KBLI 64210 Aktivitas Perusahaan Induk, yang akan mengubah Pasal 3 Anggaran Dasar Perseroan. Rencana ini perlu disetujui pemegang saham lewat Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Jika disetujui, seluruh kegiatan operasional periklanan yang selama ini dijalankan langsung oleh Perseroan, termasuk tenaga kerjanya, akan dipindahkan ke anak usaha PT Media Sejahtera Selaras (MSS), yang sudah mengurus izin usaha untuk periklanan, konsultasi manajemen, serta penyelenggaraan MICE dan event. Perseroan sendiri akan berfungsi sebagai pengendali grup usaha, menetapkan arah strategis dan mengawasi anak usaha, termasuk rencana ekspansi ke ekosistem kecerdasan buatan yang dimulai dengan pengambilalihan 29,88% saham PT Indo Internet (INET) melalui anak usaha lain, PT Cakrawala Nexus Investama (CNI).",
+   "Dalam dokumen ini, Perseroan menegaskan bahwa begitu restrukturisasi ini berjalan, sumber pendapatan Perseroan hanya akan berupa dividen dari anak usaha, bukan lagi pendapatan operasional langsung. Studi kelayakan yang disusun KJPP Toha Okky Heru & Rekan menyimpulkan aspek pasar dari rencana ini layak, dengan mengutip data belanja iklan billboard konvensional dan digital nasional yang mencapai sekitar Rp6,34 triliun pada Januari-November 2025, naik 19,41% dari tahun sebelumnya. Pada 2025, Perseroan bersama anak usaha mencatat pendapatan konsolidasi Rp214,62 miliar. Selain persetujuan RUPSLB, pelaksanaan rencana ini juga membutuhkan persetujuan Menteri Hukum atas perubahan Anggaran Dasar dan pemutakhiran Nomor Induk Berusaha Perseroan di sistem OSS.",
+   "Dokumen ini juga memuat data terbaru susunan pemegang saham per 3 November 2026. PT Sinergi Internasional Investama (SII), yang mengambil alih kendali Perseroan sejak 30 Juli 2026, tetap memegang 51,00% atau 3.946.835.000 saham. PT Beruntung Berkat Sejahtera tercatat memiliki 1.167.507.412 saham atau 15,09%, sementara masyarakat memegang 33,91% atau 2.624.548.624 saham. Penawaran tender wajib yang berakhir 3 November 2026 tidak mendapat satu pun saham yang dijual, sehingga komposisi ini tidak berubah. Pemilik manfaat akhir Perseroan kini adalah Tinawati, menggantikan Faysal Deni Rahman, sejalan dengan beralihnya kendali ke SII."
+  ],
+  "fotoAdegan": "Technicians inspecting a large blank outdoor billboard steel frame on a city rooftop at dusk, skyline and cranes in the background",
+  "takeaway": "Laporan ini condong negatif bagi DOOH, karena restrukturisasi menjadi perusahaan induk ini justru menjadi payung hukum bagi akuisisi saham INET senilai Rp2 triliun berutang yang sudah lebih dulu dinilai berisiko, sementara dampaknya membuat induk usaha kehilangan pendapatan operasional sendiri. Setelah bisnis iklan dipindah ke anak usaha MSS, dokumen ini menegaskan pendapatan Perseroan hanya akan berasal dari dividen anak usaha, artinya kas induk jadi bergantung penuh pada seberapa besar laba yang mau dibagikan anak usahanya, bukan lagi dari hasil jualan iklan sendiri. Kalau anak usaha menahan laba untuk ekspansi atau justru merugi, induk usaha bisa kehabisan sumber kas sendiri. Yang perlu dipantau selanjutnya adalah tanggal pelaksanaan RUPSLB yang akan memutuskan perubahan Anggaran Dasar ini, serta proses pembaruan izin usaha Perseroan dan MSS di sistem OSS sebagai syarat resminya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dooh-rencanakan-rights-issue-154-7-miliar-saham-rasio-20-1",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Rencanakan [Rights Issue] 154,7 Miliar Saham, Rasio 20:1",
+  "deck": "DOOH akan menerbitkan saham baru sebanyak-banyaknya 154,7 miliar lembar untuk melunasi utang Rp2 triliun ke pengendali SII dan membiayai ekspansi infrastruktur AI, dengan dilusi hingga 95,24 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T22:17:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e3e0f5adbc_f402220840.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "rights issue",
+   "PMHMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menerbitkan informasi tambahan dan perubahan atas keterbukaan informasi penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I), menjelang Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan 9 November 2026. Perseroan berencana menawarkan sebanyak-banyaknya 154.777.820.720 saham biasa baru dengan nilai nominal Rp10 per saham, mewakili hingga 95,24 persen dari modal yang ditempatkan dan disetor setelah PMHMETD I. Rasionya 20 saham baru untuk setiap 1 saham lama, dan penerbitan ini akan disertai Waran Seri II yang jumlah serta rasionya baru akan diumumkan dalam prospektus.",
+   "Dana hasil rights issue, setelah dikurangi biaya emisi, diprioritaskan untuk melunasi utang Perseroan kepada PT Sinergi Internasional Investama (SII) selaku pemegang saham pengendali, berdasarkan perjanjian pinjaman pemegang saham tertanggal 1 September 2026 dengan plafon Rp5 triliun dan pencairan awal Rp2 triliun. Pelunasan ini bisa dilakukan secara tunai atau melalui konversi tagihan SII menjadi saham baru. Sisa dana akan dipakai untuk ekspansi ekosistem kecerdasan buatan (AI), yaitu pusat data AI, jaringan internet cepat, jaringan serat optik darat dan bawah laut, serta pembangkit listrik tenaga surya. Sebagai ilustrasi berdasarkan posisi keuangan 30 Juni 2026, jika seluruh pencairan awal Rp2 triliun dilunasi atau dikonversi, total liabilitas Perseroan turun dari Rp2.096,97 miliar menjadi Rp96,97 miliar, sementara total ekuitas naik dari Rp309,54 miliar menjadi Rp2.309,54 miliar, dan rasio utang terhadap ekuitas turun dari 6,77 kali menjadi 0,04 kali.",
+   "Soal struktur pemegang saham, SII baru menyelesaikan penawaran tender wajib atas sebanyak-banyaknya 2.624.548.624 saham publik (33,91 persen) pada periode 5 Oktober hingga 3 November 2026, namun tidak ada pemegang saham yang menjual. Sehingga sebelum PMHMETD I, kepemilikan tetap: SII 51 persen, PT Beruntung Berkat Sejahtera 15,09 persen, dan masyarakat 33,91 persen yang menjadi saham free float. Dalam simulasi Perseroan, jika hanya SII yang melaksanakan haknya dan mengambil seluruh sisa saham yang tidak diambil pemegang saham lain, kepemilikan SII bisa naik menjadi 97,67 persen sementara sisanya tinggal 2,33 persen. Perseroan belum menandatangani perjanjian dengan pihak mana pun untuk bertindak sebagai pembeli siaga, dan jika free float jatuh di bawah batas minimum setelah PMHMETD I, SII berkomitmen mengalihkan sebagian sahamnya ke publik atau melakukan tindakan korporasi lain."
+  ],
+  "fotoAdegan": "Technicians checking cable connections among rows of server racks in a dim data center, blue indicator lights glowing",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik DOOH, karena rencana penerbitan saham hingga 154,7 miliar lembar bisa mendilusi kepemilikan yang tidak ikut rights issue sampai 95,24 persen, dan sebagian besar dananya justru dipakai menutup utang Rp2 triliun yang sebelumnya dikritik karena dipakai membeli saham INET. Yang tersentuh langsung adalah pos ekuitas, yaitu modal perusahaan yang berasal dari pemegang saham, yang menurut ilustrasi perseroan bisa naik dari Rp309,54 miliar menjadi Rp2.309,54 miliar karena utang ke SII diubah jadi saham, sekaligus menurunkan rasio utang terhadap ekuitas dari 6,77 kali menjadi 0,04 kali, yaitu ukuran seberapa besar beban utang dibandingkan modal sendiri yang jadi perhatian kreditur dan investor. Jumlah saham beredar yang bertambah drastis juga berarti laba perusahaan nantinya harus dibagi ke jauh lebih banyak lembar saham, sehingga potensi laba per saham bisa terdilusi jika kinerja usaha tidak tumbuh seimbang. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 9 November 2026 yang akan menentukan apakah rencana ini disetujui, serta harga pelaksanaan final dan jumlah final saham baru yang baru akan diumumkan dalam prospektus setelah pernyataan efektif dari OJK.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "futr-jadwalkan-rupslb-14-desember-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "FUTR Jadwalkan [RUPSLB] 14 Desember, Agenda Belum Diumumkan",
+  "deck": "FUTR menjadwalkan RUPSLB elektronik pada 14 Desember 2026. Pemegang saham yang tercatat per 19 November berhak hadir, sementara agenda rapat belum diumumkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T21:55:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a6c697149_1f96b3b66b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FUTR",
+  "tags": [
+   "FUTR",
+   "RUPSLB",
+   "tata kelola",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Futura Energi Global Tbk (FUTR) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 14 Desember 2026 pukul 11:00 WIB. Rapat akan diadakan secara elektronik lewat Electronic General Meeting System milik PT Kustodian Sentral Efek Indonesia (eASY.KSEI), sesuai aturan OJK soal pelaksanaan RUPS perusahaan terbuka secara elektronik. Pemegang saham bisa hadir dan memberikan suara langsung secara daring atau melalui kuasa elektronik.",
+   "Perseroan menetapkan Kamis, 19 November 2026 pukul 16:00 WIB sebagai batas waktu pencatatan pemegang saham yang berhak hadir atau diwakili dalam rapat. Pemanggilan resmi yang memuat mata acara rapat baru akan diumumkan pada Jumat, 20 November 2026, lewat situs e-RUPS, situs Bursa Efek Indonesia, dan situs perusahaan. Dokumen ini sendiri belum menyebut satu pun agenda atau keputusan yang akan dibahas dalam RUPSLB tersebut.",
+   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara, dengan syarat usulan itu memenuhi Pasal 16 POJK No. 15/POJK.04/2020 dan disampaikan ke Direksi paling lambat tujuh hari sebelum tanggal pemanggilan resmi, yakni sekitar 13 November 2026. Surat pemberitahuan ini merujuk pada surat sebelumnya bernomor 091/FUTR-OJK/RUPS/X/2026, namun isi surat rujukan tersebut tidak disertakan dalam dokumen yang diterbitkan hari ini."
+  ],
+  "fotoAdegan": "Empty corporate boardroom in a Jakarta office tower with a video conferencing camera on the table and city skyline through large windows, soft morning light",
+  "takeaway": "Pengumuman ini netral bagi FUTR karena isinya baru soal jadwal dan mekanisme rapat, belum memuat agenda atau keputusan apa pun yang bisa dinilai dampaknya terhadap fundamental perusahaan. Karena mata acara belum dibuka, belum bisa dipastikan pos kinerja mana yang akan tersentuh, misalnya apakah nanti menyangkut penambahan jumlah saham beredar yang bisa mengecilkan laba per saham, atau justru soal permodalan yang menambah ekuitas; itu baru akan jelas begitu agendanya diumumkan. RUPSLB ini juga datang tidak lama setelah FUTR melaporkan rugi bersih Rp7,75 miliar dengan pendapatan yang susut 64 persen, sehingga pasar kemungkinan akan menyimak apakah agenda rapat nanti berkaitan dengan respons atas kinerja tersebut. Yang perlu dipantau selanjutnya adalah pemanggilan resmi berisi mata acara pada Jumat, 20 November 2026, serta batas pencatatan pemegang saham pada Kamis, 19 November 2026 pukul 16:00 WIB sebelum rapat digelar pada 14 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cita-tegaskan-tak-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "CITA Tegaskan Tak Terlibat [Penyelidikan] Karhutla Singapura",
+  "deck": "Cita Mineral Investindo menjawab permintaan penjelasan BEI soal pemanggilan Pemerintah Singapura ke grup usaha agribisnis terafiliasi terkait investigasi karhutla, dan menyatakan tidak terlibat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T20:27:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b1ef77d120_7e37c66e82.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CITA",
+  "tags": [
+   "CITA",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "Singapura"
+  ],
+  "body": [
+   "PT Cita Mineral Investindo Tbk (CITA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan lanjutan yang dikirim BEI pada 29 Oktober 2026, menyusul pemberitaan soal pemanggilan dan pertemuan antara Pemerintah Singapura dengan pimpinan sejumlah grup usaha perkebunan dan agribisnis pada 28 Oktober 2026. BEI menyebut grup yang terafiliasi dengan CITA termasuk di antara pihak yang dipanggil terkait penyelidikan atas peristiwa kebakaran hutan dan lahan. Surat tanggapan CITA bernomor 052/CITA/XI/2026 tertanggal 2 November 2026 itu ditandatangani Direktur Yusak Lumba Pardede dan diunggah ke sistem keterbukaan informasi BEI pada 5 November 2026 pukul 20.27 WIB.",
+   "Dalam jawabannya, CITA menegaskan bahwa perseroan maupun entitas anaknya bukan merupakan subjek pembahasan, pemanggilan, atau penelusuran fakta yang dilakukan Pemerintah Singapura. Perseroan juga menyatakan belum menerima arahan atau permintaan data terkait penyelidikan itu, baik dari induk usaha maupun grup, dan tidak mencatat adanya temuan, teguran, atau dampak operasional dari peristiwa karhutla tersebut. Soal rencana Pemerintah Singapura mengamendemen Transboundary Haze Pollution Act, yang akan mengategorikan ketidakkooperatifan perusahaan dalam penyelidikan sebagai tindak pidana, CITA menyatakan belum melihat potensi dampak terhadap kegiatan usaha, aspek hukum, maupun hubungan dengan pembelinya, namun berjanji akan memantau perkembangan rencana amendemen tersebut.",
+   "CITA juga menyatakan tidak ada dampak terhadap operasional dan kinerja perseroan maupun entitas anak akibat pemanggilan terhadap entitas afiliasi atau grup usahanya, serta tidak ada kewajiban kontinjensi, provisi, maupun informasi material lain yang perlu diungkapkan dalam laporan keuangan atau keterbukaan informasi terkait isu karhutla ini. Perseroan menutup tanggapannya dengan menyatakan tidak memiliki informasi atau fakta material lain yang belum diumumkan kepada publik selain yang sudah disampaikan sesuai aturan yang berlaku."
+  ],
+  "fotoAdegan": "Smoky haze drifting low over a tropical plantation at dusk, rows of trees fading into misty orange light",
+  "takeaway": "Tanggapan ini tergolong netral bagi CITA, karena isinya adalah bantahan keterlibatan langsung dan belum ada perubahan apa pun pada posisi keuangan atau operasional perseroan saat ini. Yang disentuh bukan laporan keuangan CITA, melainkan risiko reputasi dan hubungan dagang grup afiliasinya di sektor perkebunan dan agribisnis, karena isu karhutla bisa membuat pembeli internasional menahan pesanan dari grup yang dianggap bermasalah secara lingkungan, dan itu baru akan terasa di pendapatan atau arus kas kalau benar terjadi. Pelaku pasar memperhatikan ini karena CITA bagian dari grup usaha yang lebih besar, sehingga masalah di satu entitas afiliasi bisa ikut menyeret persepsi atas entitas lain dalam grup yang sama. Yang perlu dipantau berikutnya adalah kelanjutan rencana Pemerintah Singapura mengamendemen Transboundary Haze Pollution Act yang akan mengkriminalisasi ketidakkooperatifan perusahaan dalam investigasi karhutla, serta apakah ada pemanggilan lanjutan atau temuan resmi dari otoritas terhadap grup afiliasi CITA ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wifi-raih-rating-ida-untuk-obligasi-rp1-25-triliun",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Raih Rating [idA] untuk Obligasi Rp1,25 Triliun",
+  "deck": "PEFINDO menetapkan rating idA (Single A) untuk tiga seri Obligasi Berkelanjutan I WIFI senilai total Rp1,25 triliun, berlaku 3 November 2026 hingga 1 November 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T20:23:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/758dbca71a_6201875009.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "obligasi",
+   "PEFINDO",
+   "rating"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menetapkan peringkat idA (Single A) untuk Obligasi Berkelanjutan I Tahap I Tahun 2026 Seri A, B, dan C milik PT Solusi Sinergi Digital Tbk (WIFI) dengan total nilai Rp1,25 triliun. Keputusan ini diambil dalam rapat Panitia Pemeringkat PEFINDO pada Selasa, 3 November 2026, tertuang dalam surat nomor RC-1461/PEF-DIR/XI/2026 tertanggal 4 November 2026, dan diterima WIFI pada 5 November 2026. Masa berlaku peringkat ditetapkan sejak 3 November 2026 sampai 1 November 2027.",
+   "Rincian tiga seri obligasi yang dinilai: Seri A senilai Rp830,72 miliar jatuh tempo 6 Juli 2027, Seri B senilai Rp167,855 miliar jatuh tempo 26 Juni 2028, dan Seri C senilai Rp251,425 miliar jatuh tempo 26 Juni 2029. PEFINDO menyusun penilaian berdasarkan data dan informasi dari perusahaan, laporan keuangan tidak diaudit per 30 Juni 2026, serta laporan keuangan audit per 31 Desember 2025. Surat keputusan rating ditandatangani Direktur Utama PEFINDO Ignatius Girendroheru dan Direktur Hendro Utomo, sementara laporan keterbukaan informasi ke bursa ditandatangani Direktur Utama WIFI, Shannedy Ong, pada 5 November 2026 pukul 20.23.",
+   "Dalam suratnya, PEFINDO menjelaskan bahwa peringkat idA menunjukkan kemampuan WIFI memenuhi komitmen keuangan jangka panjang atas obligasi tersebut tergolong kuat dibanding emiten lain di Indonesia, meski lebih rentan terhadap perubahan buruk kondisi ekonomi dibanding emiten dengan peringkat lebih tinggi. PEFINDO juga menegaskan bahwa peringkat ini merupakan opini atas kemampuan membayar utang, bukan rekomendasi bagi investor untuk membeli, menjual, atau menahan efek tersebut."
+  ],
+  "fotoAdegan": "Technician inspecting fiber optic cable connections inside a telecommunications network cabinet, close focus, indoor lighting",
+  "takeaway": "Penilaian kami netral, karena dokumen ini sekadar mengonfirmasi peringkat idA untuk obligasi yang sudah beredar tanpa menyebut apakah ini naik, turun, atau sama dengan peringkat tahun sebelumnya. Yang tersentuh di sini adalah beban bunga dan arus kas perusahaan, sebab rating kredit semacam ini mencerminkan seberapa yakin lembaga pemeringkat bahwa WIFI bisa membayar bunga dan pokok utang senilai Rp1,25 triliun dari kas operasionalnya, dan rating ini pula yang menentukan seberapa mahal biaya utang baru bagi perusahaan ke depan. Yang perlu dipantau adalah jatuh tempo Seri A pada 6 Juli 2027 sebagai kewajiban pembayaran pertama yang jatuh dalam periode rating ini, serta pemeringkatan ulang berikutnya yang akan jatuh sekitar berakhirnya periode rating pada 1 November 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgjo-dirikan-anak-usaha-energi-lestari-cemerlang",
+  "category": "Aksi Korporasi",
+  "title": "PGJO Dirikan [Anak Usaha] Energi Lestari Cemerlang",
+  "deck": "PT Bahtera Bumi Raya Tbk mendirikan anak usaha baru, PT Energi Lestari Cemerlang, untuk masuk ke bisnis pengisian daya kendaraan listrik dan sewa alat berat senilai Rp500 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T20:20:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/771cc5e2c5_b48ee557b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGJO",
+  "tags": [
+   "PGJO",
+   "anak usaha",
+   "transaksi afiliasi",
+   "kendaraan listrik"
+  ],
+  "body": [
+   "PT Bahtera Bumi Raya Tbk (PGJO) resmi mendirikan anak usaha baru bernama PT Energi Lestari Cemerlang (ELC) yang berkedudukan di Jakarta Selatan. Pendirian ini dituangkan dalam Akta Pendirian No. 05 tanggal 3 November 2026 di hadapan Notaris Arief Yulianto, dan telah disahkan Menteri Hukum Republik Indonesia melalui Surat Keputusan No. AHU-0088791.AH.01.01 Tahun 2026 tertanggal 4 November 2026.",
+   "Modal dasar ELC ditetapkan Rp2 miliar yang terbagi atas 200.000 lembar saham, dengan modal ditempatkan dan disetor penuh sebesar Rp500 juta atau 50.000 lembar saham. Dari jumlah itu, PGJO menguasai 49.999 saham atau 99,998 persen, sementara 1 lembar saham sisanya atau 0,002 persen dipegang oleh individu bernama Willius Wijaya. Susunan pengurus ELC terdiri dari Wang Zhongbang sebagai Komisaris dan Hong Yi sebagai Direktur. Bidang usaha ELC mencakup empat lini: pengoperasian fasilitas atau stasiun pengisian daya kendaraan dan peralatan listrik, penyewaan mesin dan peralatan umum, penyewaan mesin dan peralatan pertambangan serta penggalian, dan pemasangan jaringan listrik.",
+   "Perseroan menjelaskan bahwa penyertaan modal senilai Rp500 juta ini bukan Transaksi Material menurut POJK No. 17/POJK.04/2020 karena nilainya tidak mencapai 20 persen dari total ekuitas Perseroan berdasarkan laporan keuangan per 30 Juni 2026. Namun transaksi ini tetap tergolong Transaksi Afiliasi sesuai POJK No. 42/POJK.04/2020 karena dilakukan antara PGJO dengan perusahaan terkendali yang sahamnya dimiliki hampir seluruhnya oleh PGJO. Karena kepemilikan saham sudah di atas 99 persen, transaksi ini tidak memerlukan persetujuan RUPS maupun jasa penilai independen."
+  ],
+  "fotoAdegan": "Technicians installing an electric vehicle charging post at a new roadside station in a South Jakarta business district, late afternoon light",
+  "takeaway": "Penilaian redaksi atas laporan ini netral: nilai penyertaan modal hanya Rp500 juta dan jauh dari ambang batas material terhadap ekuitas Perseroan, jadi langkah ini belum bisa dibaca sebagai sinyal besar bagi keuangan PGJO, meski membuka lini usaha baru di sektor pengisian daya kendaraan listrik yang sedang berkembang di Indonesia. Pos yang tersentuh adalah ekuitas Perseroan, karena dana Rp500 juta itu berpindah dari kas menjadi penyertaan di anak usaha, sementara arus kas dan laba belum tersentuh karena ELC baru berdiri dan belum punya kegiatan operasional maupun pendapatan. Yang perlu dipantau selanjutnya adalah apakah ELC benar-benar mulai mengoperasikan stasiun pengisian daya atau mendapat kontrak sewa alat berat dalam waktu dekat, sebab dokumen ini hanya mencatat pendirian badan hukumnya per 4 November 2026 tanpa rincian target operasional atau target pendapatan ke depan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ekonomi-ri-triwulan-iii-tumbuh-5-47-persen",
   "category": "Makroekonomi",
   "title": "Ekonomi RI Triwulan III [Tumbuh] 5,47 Persen",
@@ -29,6 +237,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah laju pertumbuhan naik dari 5,29 ke 5,47 persen, tetapi penopang utamanya bukan belanja masyarakat sendiri. Belanja pemerintah melompat 8,95 persen, jauh di atas belanja rumah tangga yang hanya naik 5,04 persen, karena ada pencairan gaji pegawai negeri dan program Makan Bergizi Gratis. Pihak yang paling terasa dampaknya adalah pegawai negeri yang menerima gaji dan tunjangan, pelaku usaha manufaktur, perdagangan, dan perhotelan yang menikmati permintaan domestik, serta daerah seperti Bali dan Nusa Tenggara yang tumbuh paling tinggi. Pola ini mengarah ke pertumbuhan yang masih banyak ditopang belanja negara ketimbang konsumsi rumah tangga yang berdiri sendiri, dan itu akan terlihat jelas dari data pertumbuhan triwulan IV 2026 yang biasanya dirilis awal Februari 2027, terutama apakah belanja pemerintah tetap tinggi atau kembali normal setelah pencairan gaji dan program tersebut selesai.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "wika-anak-usaha-wikon-digugat-pkpu-oleh-kreditur",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: Anak Usaha WIKON Digugat [PKPU] oleh Kreditur",
+  "deck": "WIKA melaporkan ke OJK bahwa anak usahanya, WIKON, menjadi pihak tergugat dalam permohonan PKPU yang diajukan PT Gajah Mas Tehnik di Pengadilan Niaga Jakarta Pusat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T20:03:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d01f62a36_5d2cfa3b45.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "PKPU",
+   "WIKON",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk melaporkan kepada Otoritas Jasa Keuangan bahwa anak usahanya, PT Wijaya Karya Industri & Konstruksi (WIKON), menjadi pihak yang dimohonkan Penundaan Kewajiban Pembayaran Utang (PKPU) oleh PT Gajah Mas Tehnik. Permohonan ini terdaftar di Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat dengan nomor perkara 329/Pdt.Sus-PKPU/2026/PN.Niaga.Jkt.Pst, dengan tanggal terbit di Sistem Informasi Penelusuran Perkara (SIPP) pada 3 November 2026. WIKA menyebut baru mengetahui dan mengakses informasi perkara tersebut dari SIPP pada 5 November 2026, dua hari setelah tanggal pendaftaran.",
+   "Dalam laporan yang ditandatangani Corporate Secretary WIKA, Ngatemin, perseroan menyatakan WIKON saat ini menunggu jadwal sidang dan relaas atau surat panggilan resmi dari Pengadilan Niaga Jakarta Pusat. WIKA menyampaikan bahwa permohonan PKPU ini, menurut penilaian perseroan sendiri, tidak memiliki dampak signifikan terhadap kinerja keuangan maupun kegiatan operasional perusahaan.",
+   "Laporan ini terbit hanya dua hari setelah saham WIKA disuspensi bursa akibat gagal bayar kupon obligasi, dan menyusul rangkaian kegagalan WIKA merestrukturisasi lima program obligasi dan sukuk berkelanjutannya pekan lalu, termasuk kandasnya persetujuan pemegang sukuk atas penjadwalan ulang pembayaran sukuk tahap II senilai Rp500 miliar."
+  ],
+  "fotoAdegan": "Construction workers in hard hats pausing near stacked steel rebar at a quiet building site, overcast sky, Jakarta skyline in the distance",
+  "takeaway": "Laporan ini negatif bagi WIKA karena menunjukkan tekanan utang yang sebelumnya terlihat di level induk usaha kini merembet ke anak usaha konstruksinya, WIKON, hanya dua hari setelah saham WIKA disuspensi akibat gagal bayar kupon obligasi. PKPU adalah proses hukum di pengadilan niaga yang memberi waktu bagi perusahaan yang kesulitan membayar utang untuk berunding ulang dengan krediturnya sebelum berujung pailit kalau negosiasi gagal, dan munculnya permohonan ini terhadap WIKON menunjukkan tekanan arus kas WIKA kini juga menyentuh pembayaran utang di level anak usaha, tidak hanya ke pemegang obligasi dan sukuk di induk perusahaan. Klaim WIKA bahwa perkara ini tidak berdampak signifikan perlu dibaca dengan hati hati, mengingat rangkaian gagal bayar dan restrukturisasi yang gagal dalam sepekan terakhir. Yang perlu dipantau selanjutnya adalah jadwal sidang dan relaas resmi dari Pengadilan Niaga Jakarta Pusat untuk perkara Nomor 329/Pdt.Sus-PKPU/2026/PN.Niaga.Jkt.Pst, yang akan menentukan apakah permohonan PKPU ini berlanjut ke tahap negosiasi utang secara formal atau berujung pada status pailit bagi WIKON.",
+  "sentimen": "negatif"
  },
  {
   "slug": "pnm-hadirkan-ruang-pintar-untuk-52-anak-desa-sade",

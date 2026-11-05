@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dana-perkebunan-sawit-meluas-ke-petani-kakao-dan-kelapa",
+  "category": "Industri",
+  "title": "Dana Perkebunan Sawit Meluas ke Petani [Kakao] dan Kelapa",
+  "deck": "Pemerintah memperluas mandat dana sawit ke petani kakao dan kelapa, mewajibkan pelaporan ekspor lewat sistem digital sejak Juni 2026, dan mendorong biodiesel B50 sejak Juli 2026.",
+  "date": "5 November 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "sawit",
+   "kakao",
+   "kelapa",
+   "BPDP"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7202/perkuat-tata-kelola-perkebunan-pemerintah-dorong-pendanaan-transparansi-dan-keberlanjutan-untuk-kesejahteraan-petani",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "dooh-akuisisi-29-88-saham-inet-senilai-rp2-triliun-utang",
   "category": "Aksi Korporasi",
   "title": "DOOH Akuisisi 29,88% Saham INET Senilai Rp2 Triliun [Utang]",
@@ -35,6 +51,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/80d152d2df_77935d13ab.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "realisasi-investasi-bekasi-tembus-rp9-7-triliun-di-semester-i",
+  "category": "Bisnis",
+  "title": "Realisasi [Investasi] Bekasi Tembus Rp9,7 Triliun di Semester I",
+  "deck": "Realisasi investasi Kota Bekasi mencapai Rp9,7 triliun, 81 persen dari target tahunan Rp12,2 triliun, dengan properti naik ke posisi kedua seiring ekspansi kawasan terpadu Summarecon.",
+  "date": "5 November 2026",
+  "image": "assets/img/realisasi-investasi-bekasi-tembus-rp9-7-triliun-di-semester-i.jpg",
+  "imageV": "mw3rzw9s",
+  "tags": [
+   "bekasi",
+   "investasi",
+   "properti",
+   "summarecon"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476860-realisasi-investasi-kota-bekasi-capai-rp97-triliun-sektor-properti-terus-tumbuh"
  },
  {
   "slug": "dooh-rombak-jadi-holding-bisnis-iklan-pindah-ke-anak-usaha",
@@ -69,6 +102,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cx-week-2026-soroti-customer-experience-bagi-umkm",
+  "category": "UMKM",
+  "title": "CX Week 2026 Soroti [Customer Experience] bagi UMKM",
+  "deck": "The Bridge Academy menggelar konferensi CX Week 2026 di Jakarta Selatan dan meluncurkan buku baru untuk mendorong pelaku UMKM hingga korporat memperbaiki layanan pelanggan.",
+  "date": "5 November 2026",
+  "image": "assets/img/cx-week-2026-soroti-customer-experience-bagi-umkm.jpg",
+  "imageV": "mw3rzwpo",
+  "tags": [
+   "UMKM",
+   "customer experience",
+   "pelayanan pelanggan",
+   "bisnis"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476858-mengupas-tuntas-pentingnya-interaksi-pelanggan-bagi-pelaku-usaha-umkm-hingga-korporat"
+ },
+ {
   "slug": "futr-jadwalkan-rupslb-14-desember-agenda-belum-diumumkan",
   "category": "Aksi Korporasi",
   "title": "FUTR Jadwalkan [RUPSLB] 14 Desember, Agenda Belum Diumumkan",
@@ -83,6 +133,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a6c697149_1f96b3b66b.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ahy-proyek-air-limbah-pluit-tekan-ekstraksi-air-tanah",
+  "category": "Makroekonomi",
+  "title": "AHY: Proyek Air Limbah Pluit [Tekan] Ekstraksi Air Tanah",
+  "deck": "Menko Infra AHY menyebut progres proyek pengolahan air limbah JSDP Zona 1 Pluit di Jakarta Utara sudah 76 persen, dengan target menekan penyedotan air tanah penyebab tanah ambles.",
+  "date": "5 November 2026",
+  "image": "assets/img/ahy-proyek-air-limbah-pluit-tekan-ekstraksi-air-tanah.jpg",
+  "imageV": "mw3rzx6o",
+  "tags": [
+   "AHY",
+   "Jakarta Utara",
+   "air tanah",
+   "IPAL Pluit"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476845-menko-ahy-sebut-proyek-pembangunan-jsdp-zona-1-pluit-oleh-kemen-pu-tekan-penggunaan-air-tanah"
  },
  {
   "slug": "cita-tegaskan-tak-terlibat-penyelidikan-karhutla-singapura",
@@ -6314,7 +6381,7 @@ var ARTICLES = [
   "title": "Harga Referensi CPO November [Turun] 6%, Kakao Susut 8%",
   "deck": "Kemendag menurunkan harga referensi CPO dan kakao untuk November 2026, sehingga bea keluar dan pungutan ekspor kedua komoditas ikut mengecil.",
   "date": "30 Oktober 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "CPO",
    "kakao",
@@ -6403,72 +6470,6 @@ var ARTICLES = [
    "arus kas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030232058-65233-0/FinancialStatement-2026-III-IGAR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-mandiri-luncurkan-livin-food-untuk-umkm-kuliner",
-  "category": "UMKM",
-  "title": "Bank Mandiri Luncurkan Livin' Food untuk [UMKM] Kuliner",
-  "deck": "Lewat fitur Livin' Food di aplikasi Livin' by Mandiri, Bank Mandiri membuka akses pasar hingga puluhan juta pengguna bagi pelaku UMKM kuliner untuk memperluas penjualan secara digital.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/bank-mandiri-luncurkan-livin-food-untuk-umkm-kuliner.jpg",
-  "imageV": "mvvutsig",
-  "tags": [
-   "UMKM kuliner",
-   "Livin Food",
-   "Bank Mandiri",
-   "ekonomi digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475837-dorong-pertumbuhan-umkm-dan-ekonomi-kerakyatan-bank-mandiri-hadirkan-livin-food"
- },
- {
-  "slug": "umkm-kuliner-bisa-jangkau-42-6-juta-pengguna-lewat-livin-food",
-  "category": "UMKM",
-  "title": "UMKM Kuliner Bisa Jangkau [42,6 Juta] Pengguna Lewat Livin' Food",
-  "deck": "Bank Mandiri membuka akses Livin' Food bagi UMKM kuliner untuk menjangkau 42,6 juta pengguna Livin' by Mandiri, memperluas pemasaran di luar lokasi usaha.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/umkm-kuliner-bisa-jangkau-42-6-juta-pengguna-lewat-livin-food.jpg",
-  "imageV": "mvv7fono",
-  "tags": [
-   "UMKM kuliner",
-   "Livin' Food",
-   "Bank Mandiri",
-   "ekonomi digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475837-umkm-kuliner-punya-peluang-jangkau-42-juta-konsumen-ini-strategi-bank-mandiri-lewat-livin-food"
- },
- {
-  "slug": "real-laba-tipis-naik-kas-menipis-usai-bayar-sanksi-ojk",
-  "category": "Aksi Korporasi",
-  "title": "[REAL] Laba Tipis Naik, Kas Menipis Usai Bayar Sanksi OJK",
-  "deck": "Laporan kuartal III 2026 Repower Asia Indonesia menunjukkan laba naik tipis, tapi kas tergerus pembayaran sanksi OJK dan dividen dipotong drastis.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "REAL",
-   "laporan keuangan",
-   "properti",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030231126-65587-0/FinancialStatement-2026-III-REAL.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ntbk-rugi-rp4-83-miliar-pendapatan-anjlok-51-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "NTBK rugi Rp4,83 miliar, pendapatan [anjlok] 51% di kuartal III",
-  "deck": "Pendapatan sembilan bulan NTBK turun hampir separuh dan perusahaan karoseri trailer ini berbalik rugi Rp4,83 miliar, dari untung tahun sebelumnya.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NTBK",
-   "laporan keuangan",
-   "rugi",
-   "karoseri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030231119-65621-0/FinancialStatement-2026-III-NTBK.pdf",
   "sourceLabel": "IDX"
  }
 ];

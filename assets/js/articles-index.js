@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekonomi-ri-tumbuh-5-47-di-triwulan-iii-2026",
+  "category": "Makroekonomi",
+  "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
+  "deck": "BPS catat pertumbuhan ekonomi naik 0,18 poin dari triwulan sebelumnya dan jadi yang tertinggi kedua dalam setahun terakhir.",
+  "date": "5 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "ekonomi",
+   "bps",
+   "pertumbuhan ekonomi",
+   "pdb"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
   "slug": "bima-dirut-dan-wadirut-primarindo-mundur-bersamaan",
   "category": "Aksi Korporasi",
   "title": "BIMA: Dirut dan Wadirut Primarindo [Mundur] Bersamaan",
@@ -149,6 +165,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/38fe2a8da5_b05e134367.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indeks-bisnis-manufaktur-ekspansi-di-triwulan-iii-2026",
+  "category": "Industri",
+  "title": "Indeks Bisnis Manufaktur [Ekspansi] di Triwulan III 2026",
+  "deck": "IKBM triwulan III 2026 mencapai 52,75, tanda ekspansi industri manufaktur didorong pesanan, produksi, tenaga kerja, dan stok, meski waktu kirim melambat.",
+  "date": "5 November 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "IKBM",
+   "Industri Manufaktur",
+   "BPS",
+   "Triwulan III 2026"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/181143",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "ekonomi-indonesia-tumbuh-5-47-di-triwulan-iii-2026",
+  "category": "Makroekonomi",
+  "title": "Ekonomi Indonesia Tumbuh [5,47%] di Triwulan III-2026",
+  "deck": "BPS mencatat produk domestik bruto RI naik 5,47 persen secara tahunan pada triwulan III-2026, ditopang belanja pemerintah dan ekspor.",
+  "date": "5 November 2026",
+  "image": "assets/img/keranjang-belanja-ibu.jpg",
+  "tags": [
+   "PDB",
+   "BPS",
+   "Pertumbuhan Ekonomi",
+   "Triwulan III 2026"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/169700",
+  "sourceLabel": "Badan Pusat Statistik"
  },
  {
   "slug": "pyfa-terbitkan-obligasi-rp650-miliar-di-tengah-rugi-besar",
@@ -1319,7 +1367,7 @@ var ARTICLES = [
   "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
   "deck": "Surplus dagang Indonesia September 2026 menyusut tipis ke US$3,36 miliar akibat defisit migas melebar, sementara ekspor dan impor sama-sama tumbuh dua digit secara tahunan.",
   "date": "3 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -2731,7 +2779,7 @@ var ARTICLES = [
   "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",
   "deck": "Inflasi Oktober 2026 terjaga di 3,23 persen, neraca dagang September surplus US$3,36 miliar tiga bulan beruntun, dan PMI manufaktur naik ke 54,0, ekspansi tertinggi sejak Maret 2024.",
   "date": "2 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "inflasi",
    "neraca dagang",
@@ -3070,7 +3118,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober [Melandai], Tiket Pesawat Naik",
   "deck": "Inflasi tahunan Oktober 2026 turun jadi 3,23 persen, tapi harga cabai dan tarif pesawat domestik kelas ekonomi justru naik.",
   "date": "2 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "inflasi",
    "harga pangan",
@@ -3086,7 +3134,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI [Berlanjut] tapi Tipis ke US$3,36 Miliar",
   "deck": "Neraca dagang Indonesia surplus US$3,36 miliar pada September 2026, melanjutkan tren positif Agustus meski nilainya mengecil dari US$3,55 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "neraca dagang",
    "ekspor",
@@ -3504,7 +3552,7 @@ var ARTICLES = [
   "title": "Impor RI September [naik 18,41%] jadi US$24,2 miliar",
   "deck": "Nilai impor Indonesia naik dibanding Agustus maupun dibanding September tahun lalu, setelah sempat turun bulan sebelumnya",
   "date": "2 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "impor",
    "bps",
@@ -3520,7 +3568,7 @@ var ARTICLES = [
   "title": "Ekspor September Tembus [27,6 Miliar US$]",
   "deck": "Nilai ekspor Indonesia naik ke level tertinggi dalam enam bulan terakhir, melanjutkan tren kenaikan sejak Juni 2026.",
   "date": "2 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "ekspor",
    "bps",
@@ -4548,7 +4596,7 @@ var ARTICLES = [
   "title": "Ekspor Naik, tapi Surplus Dagang RI Makin [Menyempit]",
   "deck": "Ekspor September 2026 naik 11,87 persen jadi US$27,59 miliar, tapi impor tumbuh lebih cepat 18,41 persen sehingga surplus dagang kumulatif menyempit jadi US$10,61 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "ekspor",
    "impor",
@@ -6419,55 +6467,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Kelautan dan Perikanan",
   "sourceUrl": "https://kkp.go.id/news/news-detail/hut-ke-27-kkp-salurkan-100-ribu-benih-lele-dukung-budidaya-perikanan-di-bantul-JN4o.html",
   "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "kkp-siapkan-76-lokasi-budi-daya-ikan-tematik-di-diy",
-  "category": "UMKM",
-  "title": "KKP Siapkan [76] Lokasi Budi Daya Ikan Tematik di DIY",
-  "deck": "KKP menyiapkan 76 lokasi budi daya ikan tematik di empat kabupaten DIY, bagian dari target nasional membangun 40.000 lokasi serupa hingga 2029.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/kkp-siapkan-76-lokasi-budi-daya-ikan-tematik-di-diy.jpg",
-  "imageV": "mvuyswqv",
-  "tags": [
-   "KKP",
-   "Yogyakarta",
-   "budi daya ikan",
-   "ketahanan pangan"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-siapkan-76-lokasi-budi-daya-ikan-tematik-di-diy-untuk-usaha-masyarakat-ketahanan-pangan-MJk3.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "iptv-cetak-rugi-rp166-miliar-kas-menyusut-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "IPTV Cetak [Rugi] Rp166 Miliar, Kas Menyusut di Kuartal III 2026",
-  "deck": "Laporan keuangan interim MNC Vision Networks (IPTV) per akhir September 2026 mencatat rugi bersih Rp166,2 miliar, kas tergerus ke Rp8,48 miliar, dan ekuitas turun jadi Rp5,6 triliun.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPTV",
-   "MNC Vision Networks",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030181558-65341-0/FinancialStatement-2026-III-IPTV.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtla-laba-bersih-turun-22-jadi-rp182-5-miliar-di-9m2026",
-  "category": "Aksi Korporasi",
-  "title": "MTLA: Laba Bersih [Turun] 22% Jadi Rp182,5 Miliar di 9M2026",
-  "deck": "Pendapatan Metropolitan Land naik tipis jadi Rp1,18 triliun dalam sembilan bulan 2026, tapi laba bersih turun 22 persen dan kas perusahaan menyusut Rp175,69 miliar.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTLA",
-   "properti",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030182344-64927-0/FinancialStatement-2026-III-MTLA.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-05T03:58:21.159+07:00",
+ "diperbarui": "2026-11-06T04:14:13.120+07:00",
  "entri": [
+  {
+   "id": "2026-11-05-3",
+   "edisi": "2026-11-05",
+   "benang": "Pengendali Perkuat Kendali Lewat Skema Nontunai",
+   "klaim": "Posisi pengendali di sejumlah emiten semakin menguat lewat instrumen saham dan aset, bukan dana tunai segar dari publik.",
+   "penanda": "Hasil RUPSLB DOOH dan LAPD mendatang, termasuk apakah pemegang saham publik menyetujui skema dilusi tersebut",
+   "tenggat": null,
+   "tenggatLabel": "RUPSLB DOOH dan LAPD mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-05-2",
+   "edisi": "2026-11-05",
+   "benang": "Tekanan Utang Melebar ke Emiten Kecil-Menengah",
+   "klaim": "Tekanan utang tidak lagi terbatas pada satu dua nama besar, melainkan melebar ke berbagai sektor dan skala perusahaan.",
+   "penanda": "Proses PKPU WIKON di pengadilan niaga dan RUPSLB DOOH akhir bulan ini yang menentukan rencana rights issue",
+   "tenggat": "2026-11-30",
+   "tenggatLabel": "RUPSLB DOOH akhir bulan ini",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-05-1",
+   "edisi": "2026-11-05",
+   "benang": "Belanja Pemerintah Jadi Mesin Utama Pertumbuhan",
+   "klaim": "Pertumbuhan ekonomi saat ini lebih ditopang suntikan dan intervensi negara di berbagai sektor ketimbang daya beli masyarakat sendiri.",
+   "penanda": "Data realisasi belanja APBN kuartal IV dan angka konsumsi rumah tangga berikutnya dari BPS",
+   "tenggat": null,
+   "tenggatLabel": "data realisasi belanja APBN kuartal IV dan angka konsumsi rumah tangga berikutnya dari BPS",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-04-3",
    "edisi": "2026-11-04",
@@ -223,8 +256,13 @@ var RAPOR = {
    "penanda": "Rilis pertumbuhan ekonomi kuartal III 2026 serta data inflasi Oktober dari BPS",
    "tenggat": "2026-11-05",
    "tenggatLabel": "rilis pertumbuhan ekonomi kuartal III 2026 serta data inflasi Oktober dari BPS awal November",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "ekonomi-ri-tumbuh-5-47-persen-pada-triwulan-iii-2026",
+    "judul": "Ekonomi RI Tumbuh 5,47 Persen pada Triwulan III 2026",
+    "tanggal": "5 November 2026",
+    "alasan": "Artikel ini menunjukkan penopang utama pertumbuhan 5,47% triwulan III 2026 adalah belanja pemerintah yang melonjak 8,95%, bukan konsumsi domestik/masyarakat seperti yang diklaim menguat bersamaan."
+   }
   },
   {
    "id": "2026-10-26-3",

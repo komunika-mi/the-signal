@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "ppbjweTb_JI",
+  "title": "Pemerintah Siapkan Program Pembelian Telur untuk Peternak Mikro",
+  "category": "UMKM",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah melalui Perum Bulog dan ID Food menyiapkan program pembelian telur ayam dari peternak mikro dan rakyat senilai total Rp30 miliar secara bertahap hingga Desember.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kebijakan stabilisasi harga pangan dan dukungan permodalan bagi pelaku usaha mikro di sektor peternakan.",
+  "terbit": "2026-11-05T08:59:04+00:00"
+ },
+ {
   "id": "FN-TTLQAQ4c",
   "title": "Polemik PPN 11 Persen pada Pembalut Wanita",
   "category": "Makroekonomi",

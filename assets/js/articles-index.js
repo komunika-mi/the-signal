@@ -5,6 +5,73 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kejaksaan-ikut-awasi-penyaluran-pupuk-subsidi-di-karo",
+  "category": "BUMN",
+  "title": "Kejaksaan Ikut [Awasi] Penyaluran Pupuk Subsidi di Karo",
+  "deck": "Kejaksaan Negeri Karo akan memantau langsung penyaluran pupuk bersubsidi sampai ke kios usai Pupuk Indonesia mensosialisasikan aturan teknis baru yang berlaku sejak September 2026.",
+  "date": "5 November 2026",
+  "image": "assets/img/kejaksaan-ikut-awasi-penyaluran-pupuk-subsidi-di-karo.jpg",
+  "imageV": "mw3d2ym0",
+  "tags": [
+   "Pupuk Indonesia",
+   "Pupuk Subsidi",
+   "Kejaksaan",
+   "Karo"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/901/pupuk-indonesia-bersama-kajari-sinergi-perbaiki-tata-kelola-penyaluran-pupuk-bersubsidi-di-karo",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "alokasi-npk-kakao-mamuju-bertambah-500-ton-jadi-5-670-ton",
+  "category": "BUMN",
+  "title": "Alokasi NPK Kakao Mamuju [Bertambah] 500 Ton Jadi 5.670 Ton",
+  "deck": "Pemda Mamuju menambah alokasi pupuk subsidi NPK Kakao 500 ton jadi 5.670 ton lewat realokasi kedua berlaku sejak 30 Oktober 2026; realisasi penyaluran sudah 82,4 persen.",
+  "date": "5 November 2026",
+  "image": "assets/img/alokasi-npk-kakao-mamuju-bertambah-500-ton-jadi-5-670-ton.jpg",
+  "imageV": "mw3d30tg",
+  "tags": [
+   "Pupuk Indonesia",
+   "NPK Kakao",
+   "Mamuju",
+   "pupuk subsidi"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/902/alokasi-bertambah-pupuk-indonesia-amankan-ketersediaan-dan-penyaluran-npk-kakao-di-mamuju",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "cabai-dan-telur-surplus-di-mataram-kemendag-pantau-jelang-nataru",
+  "category": "Makroekonomi",
+  "title": "Cabai dan Telur [Surplus] di Mataram, Kemendag Pantau Jelang Nataru",
+  "deck": "Menteri Perdagangan Budi Santoso mendapati harga cabai dan telur di Pasar Kebon Roek Mataram di bawah harga acuan, dengan surplus pasokan dialihkan ke daerah lain yang kekurangan jelang Nataru.",
+  "date": "5 November 2026",
+  "image": "assets/img/cabai-dan-telur-surplus-di-mataram-kemendag-pantau-jelang-nataru.jpg",
+  "imageV": "mw3d3adn",
+  "tags": [
+   "Kemendag",
+   "Harga Pangan",
+   "Nataru",
+   "Cabai"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-pantau-pasar-kebon-roek-mataram-cabai-dan-telur-ayam-surplus-jelang-nataru",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pasar-murah-di-mataram-beras-sphp-rp11-600-per-kg",
+  "category": "Bisnis",
+  "title": "Pasar Murah di Mataram, Beras SPHP [Rp11.600] per Kg",
+  "deck": "Kementerian Perdagangan menggelar pasar murah di Mataram, NTB, menjual beras, minyak goreng, gula, dan bumbu dapur di bawah harga eceran tertinggi.",
+  "date": "5 November 2026",
+  "image": "assets/img/pasar-murah-di-mataram-beras-sphp-rp11-600-per-kg.jpg",
+  "imageV": "mw3d3f3e",
+  "tags": [],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-sinergi-mendag-busan-buka-pasar-murah-di-mataram-jaga-harga-bapok",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "rony-balik-untung-kuartal-iii-arus-kas-operasi-justru-negatif",
   "category": "Aksi Korporasi",
   "title": "RONY Balik Untung Kuartal III, Arus Kas Operasi Justru [Negatif]",
@@ -261,6 +328,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/38fe2a8da5_b05e134367.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ipm-indonesia-2026-naik-jadi-76-59-didorong-semua-indikator",
+  "category": "Makroekonomi",
+  "title": "IPM Indonesia 2026 [Naik] jadi 76,59, Didorong Semua Indikator",
+  "deck": "Indeks Pembangunan Manusia Indonesia 2026 mencapai 76,59, naik 0,69 poin dari tahun sebelumnya, ditopang kenaikan di seluruh komponen penyusunnya.",
+  "date": "5 November 2026",
+  "image": "assets/img/pasar-ikan.jpg",
+  "tags": [
+   "IPM",
+   "BPS",
+   "Kesejahteraan",
+   "Pendidikan"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/171255",
+  "sourceLabel": "Badan Pusat Statistik"
  },
  {
   "slug": "indeks-bisnis-manufaktur-ekspansi-di-triwulan-iii-2026",
@@ -4289,7 +4372,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober Melambat ke [0,22 Persen]",
   "deck": "Kenaikan harga bulanan pada Oktober 2026 lebih rendah dibanding September, dan juga lebih rendah dari Oktober tahun lalu.",
   "date": "2 November 2026",
-  "image": "assets/img/pasar-ikan.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -4692,7 +4775,7 @@ var ARTICLES = [
   "title": "Ekspor Naik, tapi Surplus Dagang RI Makin [Menyempit]",
   "deck": "Ekspor September 2026 naik 11,87 persen jadi US$27,59 miliar, tapi impor tumbuh lebih cepat 18,41 persen sehingga surplus dagang kumulatif menyempit jadi US$10,61 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "ekspor",
    "impor",
@@ -6384,86 +6467,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f329068f0b_22907d4915.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "meds-catat-laba-tapi-liabilitas-melonjak-60-persen",
-  "category": "Aksi Korporasi",
-  "title": "MEDS Catat Laba, tapi Liabilitas [Melonjak] 60 Persen",
-  "deck": "Pendapatan Hetzer Medical (MEDS) naik lebih dari empat kali lipat pada kuartal III 2026 dan berbalik untung, sementara utang ke pihak berelasi melonjak untuk membiayai pembelian mesin CNC.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDS",
-   "laporan keuangan",
-   "Hetzer Medical Indonesia",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030202208-64822-0/FinancialStatement-2026-III-MEDS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "imas-alihkan-100-saham-wit-dalam-restrukturisasi-internal",
-  "category": "Aksi Korporasi",
-  "title": "IMAS Alihkan 100% Saham WIT dalam [Restrukturisasi] Internal",
-  "deck": "Indomobil memindahkan seluruh saham anak usaha Wahana Indo Trada ke dua entitas lain dalam grup yang sama-sama dikuasainya, tanpa mengubah pengendalian.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMAS",
-   "Indomobil",
-   "Wahana Indo Trada",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/b5328c571e_9ad2e645dd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbma-rencana-tambah-saham-baru-dilusi-hingga-10",
-  "category": "Aksi Korporasi",
-  "title": "MBMA Rencana Tambah Saham Baru, [Dilusi] hingga 10%",
-  "deck": "MBMA berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu sebanyak-banyaknya 10,8 miliar lembar atau 10 persen dari modal disetor, menunggu persetujuan RUPS.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBMA",
-   "Private Placement",
-   "Dilusi Saham",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/a07390d2be_6d051b2378.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lsip-laba-9m26-melonjak-40-jadi-rp1-75-triliun",
-  "category": "Aksi Korporasi",
-  "title": "LSIP: [Laba] 9M26 Melonjak 40% Jadi Rp1,75 Triliun",
-  "deck": "PP London Sumatra mencatat laba 9 bulan 2026 naik 40 persen ditopang produksi dan harga jual sawit yang sama-sama membaik.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LSIP",
-   "kinerja keuangan",
-   "CPO",
-   "perkebunan sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/73afc3e8f5_f43028ff2b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pendapatan-vktr-tumbuh-49-jadi-rp1-06-triliun-di-9m26",
-  "category": "Bisnis",
-  "title": "Pendapatan VKTR [Tumbuh] 49% jadi Rp1,06 Triliun di 9M26",
-  "deck": "Pendapatan VKTR naik 49% jadi Rp1,06 triliun pada 9M26, didorong penjualan kendaraan listrik yang melonjak 91% meski manufaktur suku cadang otomotif masih jadi penyumbang utama.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/pendapatan-vktr-tumbuh-49-jadi-rp1-06-triliun-di-9m26.jpg",
-  "imageV": "mvv21opn",
-  "tags": [
-   "VKTR",
-   "kendaraan listrik",
-   "Bakrie",
-   "emiten otomotif"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475817-pendapatan-vktr-tumbuh-49-pada-9m26-kontribusi-kendaraan-listrik-terus-meningkat"
  }
 ];

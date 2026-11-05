@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "ppbjweTb_JI",
+  "title": "Pemerintah Siapkan Program Pembelian Telur untuk Peternak Mikro",
+  "category": "UMKM",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah melalui Perum Bulog dan ID Food menyiapkan program pembelian telur ayam dari peternak mikro dan rakyat senilai total Rp30 miliar secara bertahap hingga Desember.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kebijakan stabilisasi harga pangan dan dukungan permodalan bagi pelaku usaha mikro di sektor peternakan."
+ },
+ {
   "id": "FN-TTLQAQ4c",
   "title": "Polemik PPN 11 Persen pada Pembalut Wanita",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Ketua Umum Kadin menyampaikan optimisme atas daya tahan ekonomi Indonesia dalam pembukaan Rapimnas Kadin 2026 di Jakarta.",
   "takeaway": "Pandangan pelaku usaha dalam forum Kadin menjadi indikator sentimen dunia usaha terhadap prospek ekonomi nasional."
- },
- {
-  "id": "GIQRECAMDvA",
-  "title": "Hashim Bicara Soal Pasar Saham hingga Status MSCI",
-  "category": "Pasar Modal",
-  "program": "tvOneNews",
-  "summary": "Dalam Rapimnas Kadin 2026, Hashim Djojohadikusumo menyinggung kondisi pasar saham Indonesia dan posisi dalam indeks MSCI.",
-  "takeaway": "Komentar tokoh bisnis soal pasar modal dan indeks global penting untuk memantau sentimen investor terhadap pasar Indonesia."
  }
 ];

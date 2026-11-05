@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rony-balik-untung-kuartal-iii-arus-kas-operasi-justru-negatif",
+  "category": "Aksi Korporasi",
+  "title": "RONY Balik Untung Kuartal III, Arus Kas Operasi Justru [Negatif]",
+  "deck": "Laba bersih RONY tembus Rp1,85 miliar pada sembilan bulan 2026 berkat lonjakan jasa truk listrik dan gasifikasi batu bara, tapi kas dari operasi minus dan utang ke induk usaha di luar negeri melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T15:28:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105153429-65742-0/FinancialStatement-2026-III-RONY.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RONY",
+  "tags": [
+   "RONY",
+   "laporan keuangan",
+   "arus kas",
+   "pinjaman pemegang saham"
+  ],
+  "body": [
+   "PT Aracord Nusantara Group Tbk (RONY), yang dulu bernama PT Aesler Grup Internasional Tbk, menyampaikan koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, ditandatangani Direktur Utama Chen Guang pada 30 Oktober 2026. Pendapatan perseroan melonjak menjadi Rp52,01 miliar, dari hanya Rp835,68 juta pada periode yang sama tahun lalu. Perseroan menjelaskan kenaikan ini didorong oleh kegiatan jasa operasi dan pemeliharaan truk listrik beserta suku cadangnya, serta jasa gasifikasi batu bara. Laba kotor naik menjadi Rp15,61 miliar dari Rp471,22 juta, dan laba usaha berbalik menjadi Rp6,15 miliar dari rugi usaha Rp3,39 miliar pada periode yang sama tahun sebelumnya.",
+   "Setelah dikurangi beban keuangan Rp1,82 miliar dan kerugian selisih kurs Rp2,69 miliar, laba sebelum pajak tersisa Rp1,85 miliar, dibanding rugi Rp3,95 miliar pada periode yang sama tahun lalu. Laba bersih tahun berjalan tercatat Rp1,85 miliar, berbalik dari rugi Rp4,03 miliar, dengan laba per saham dasar Rp1,48 dibanding rugi per saham Rp3,22 setahun sebelumnya. Dari sisi posisi keuangan, jumlah aset naik menjadi Rp83,88 miliar dari Rp59,24 miliar di akhir 2025, jumlah liabilitas naik menjadi Rp75,06 miliar dari Rp52,28 miliar, dan jumlah ekuitas naik menjadi Rp8,81 miliar dari Rp6,96 miliar. Perseroan menyebut kenaikan liabilitas lebih dari 20 persen itu berasal dari utang kepada pemasok dan kenaikan pinjaman dari perusahaan induk yang berkedudukan di luar negeri. Meski sudah membukukan laba, akumulasi rugi yang belum ditentukan penggunaannya masih tercatat negatif Rp26,24 miliar.",
+   "Dari laporan arus kas, kegiatan operasi justru mencatat kas keluar bersih Rp4,09 miliar, berbalik dari kas masuk bersih Rp3,21 miliar pada periode yang sama tahun lalu. Penerimaan kas dari pelanggan sebesar Rp39,43 miliar tidak cukup menutup pembayaran kepada pemasok Rp30,20 miliar, pembayaran kepada karyawan Rp4,90 miliar, biaya operasional Rp6,72 miliar, dan pajak penghasilan Rp1,66 miliar. Kekurangan itu ditambal dari aktivitas pendanaan, terutama penerimaan pinjaman baru dari pemegang saham sebesar Rp16,01 miliar, yang membuat saldo pinjaman jangka panjang dari pemegang saham naik menjadi Rp47,87 miliar dari Rp29,37 miliar di akhir 2025. Kas dan setara kas perseroan di akhir September 2026 tercatat Rp44,32 miliar, naik dari Rp33,88 miliar pada akhir 2025."
+  ],
+  "fotoAdegan": "Technicians inspecting an electric heavy truck's battery pack in an industrial workshop, tools scattered nearby, overcast daylight",
+  "takeaway": "Kami menilai laporan ini netral bagi fundamental RONY: pendapatan dan laba usaha memang melonjak tajam, tetapi kualitas laba itu masih dipertanyakan karena kas dari kegiatan operasi justru negatif dan sebagian labanya tergerus kerugian kurs serta beban bunga dari pinjaman pemegang saham asing. Yang perlu diperhatikan adalah arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan usaha sehari-hari, karena meski perseroan membukukan laba bersih Rp1,85 miliar, kas dari operasi minus Rp4,09 miliar, tanda bahwa laba di atas kertas itu belum berubah jadi uang tunai, salah satunya karena piutang usaha ikut membesar jadi Rp30,97 miliar. Kekurangan kas itu ditambal dengan utang baru dari pemegang saham pengendali di luar negeri, sehingga pinjaman itu melonjak jadi Rp47,87 miliar dan membuat RONY makin bergantung pada suntikan dana induk usahanya, sementara pelemahan kurs terhadap mata uang pinjaman tersebut ikut menggerus laba lewat kerugian kurs Rp2,69 miliar. Yang perlu dipantau berikutnya adalah apakah tren pembalikan laba ini bertahan dan apakah arus kas operasi bisa berbalik positif pada laporan keuangan tahun penuh 2026, mengingat laba kuartal ini masih jauh dari menutup akumulasi rugi Rp26,24 miliar yang belum terselesaikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kren-liabilitas-naik-26-ekuitas-induk-negatif",
+  "category": "Aksi Korporasi",
+  "title": "KREN: Liabilitas Naik 26%, Ekuitas Induk [Negatif]",
+  "deck": "Total liabilitas KREN naik 26,14 persen menjadi Rp956,2 miliar pada September 2026, sementara ekuitas yang jadi hak pemegang saham induk berbalik negatif Rp1,03 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T15:15:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105152615-64918-0/FinancialStatement-2026-III-KREN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KREN",
+  "tags": [
+   "KREN",
+   "laporan keuangan interim",
+   "liabilitas",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Quantum Clovera Investama Tbk (KREN) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, disertai surat penjelasan kepada Bursa Efek Indonesia karena ada perubahan lebih dari 20 persen pada pos liabilitas, sesuai Peraturan Bursa No. I-E. Total liabilitas perseroan dan entitas anak naik 26,14 persen, dari Rp758,3 miliar per akhir Desember 2025 menjadi Rp956,2 miliar per akhir September 2026. Kenaikan itu paling banyak disumbang oleh utang usaha yang membesar 28,3 persen, dari Rp222,4 miliar menjadi Rp285,4 miliar, dengan porsi utang kepada pihak berelasi (Rp195,1 miliar) jauh lebih besar dari utang ke pihak ketiga (Rp90,3 miliar).",
+   "Di sisi laba rugi, pendapatan neto KREN turun 39,1 persen, dari Rp3,46 triliun pada sembilan bulan pertama 2025 menjadi Rp2,11 triliun pada periode yang sama tahun ini. Meski pendapatan menyusut, rugi bersih konsolidasian justru menyempit hampir separuh, dari Rp177,4 miliar menjadi Rp86,6 miliar, sehingga rugi per saham dasar membaik dari Rp7,04 menjadi Rp1,95 per saham. Dari rugi bersih tersebut, Rp35,5 miliar menjadi beban pemilik entitas induk dan Rp51,1 miliar menjadi beban kepentingan nonpengendali, yaitu pemegang saham minoritas di anak usaha.",
+   "Perubahan paling mencolok ada di struktur ekuitas. Total ekuitas konsolidasian turun dari Rp1,85 triliun menjadi Rp1,74 triliun, namun porsi yang menjadi hak pemegang saham entitas induk berbalik dari positif Rp34,6 miliar per akhir 2025 menjadi negatif Rp1,03 miliar per akhir September 2026. Kepentingan nonpengendali, yang antara lain berasal dari anak usaha PT Graha Kreasi Sejahtera dengan kepemilikan 47,56 persen, tetap menyumbang ekuitas Rp1,74 triliun. Laporan ini juga mencantumkan daftar lima entitas anak, termasuk PT Kresna Sekuritas yang berstatus tidak aktif meski asetnya masih tercatat Rp49,3 miliar, serta PT Kresna Asset Management dan PT Kencana Usaha Kreatif yang masing-masing dimiliki 99,99 persen oleh perseroan."
+  ],
+  "fotoAdegan": "Modern office towers in Jakarta's SCBD business district reflecting the dusk sky, lights turning on in windows",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham entitas induk, karena bagian ekuitas yang menjadi hak mereka justru berbalik menjadi negatif Rp1,03 miliar dari sebelumnya positif Rp34,6 miliar, walau rugi bersih konsolidasian menyempit hampir separuh dibanding periode yang sama tahun lalu. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang menjadi hak pemegang saham; kalau angkanya negatif, secara akuntansi utang sudah melebihi aset yang bisa diklaim pemegang saham induk, meski perusahaan secara keseluruhan, termasuk hak pemegang saham minoritas di anak usaha, masih mencatat ekuitas positif Rp1,74 triliun. Kenaikan liabilitas 26,14 persen yang memicu surat penjelasan ke bursa ini sebagian besar datang dari utang usaha yang membesar 28,3 persen, tanda perusahaan makin mengandalkan pembayaran tertunda ke pemasok dan pihak berelasi untuk membiayai operasi di tengah pendapatan yang turun 39,1 persen. Yang perlu dipantau berikutnya adalah apakah tren rugi yang menyempit ini berlanjut di laporan tahunan auditan 2026, dan apakah ekuitas pemilik entitas induk bisa kembali positif, mengingat laporan interim ini sendiri belum diaudit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bmas-terima-pinjaman-us-10-juta-dari-pemegang-saham-kbank",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Terima [Pinjaman] US$10 Juta dari Pemegang Saham KBank",
+  "deck": "Bank Kasikorn Indonesia memperoleh fasilitas pinjaman bilateral US$10 juta dari induk usahanya di Thailand untuk menopang likuiditas jangka pendek dan penyaluran kredit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T15:14:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b5a4c6b64_1e00ea4c98.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "Bank Kasikorn Indonesia",
+   "pinjaman afiliasi",
+   "KBank"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) melaporkan transaksi afiliasi berupa pinjaman bilateral dari KASIKORNBANK PUBLIC COMPANY LIMITED (KBank) yang terjadi pada 5 November 2026. Fasilitas pinjaman ini memiliki limit sebesar US$10 juta, dengan tenor hingga enam bulan sejak tanggal penarikan dana, dan bunga mengacu pada SOFR ditambah margin sesuai kondisi pasar yang berlaku.",
+   "Perseroan menyatakan pinjaman ini digunakan untuk mendukung kebutuhan likuiditas jangka pendek serta menunjang penyaluran kredit kepada nasabah. KBank berstatus sebagai Ultimate Shareholder BMAS, yang dikuasainya lewat anak usaha KASIKORN VISION FINANCIAL COMPANY PTE. LTD. (KVF) dengan kepemilikan 86,03 persen, atau setara 89,48 persen dari total kepemilikan KASIKORNBANK Group di BMAS.",
+   "Dalam laporan resminya kepada Otoritas Jasa Keuangan, BMAS menegaskan transaksi ini tidak mengandung benturan kepentingan sebagaimana diatur dalam POJK Nomor 42/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan. Laporan ditandatangani oleh Kasemsri Charoensiddhi selaku Direktur Utama BMAS."
+  ],
+  "fotoAdegan": "Exterior view of a glass-fronted modern bank office tower in Jakarta's business district, soft afternoon light, light street traffic below",
+  "takeaway": "Transaksi ini netral bagi BMAS karena sifatnya rutin, yaitu pinjaman jangka pendek dari pemegang saham utama untuk menjaga likuiditas, bukan sinyal tekanan keuangan maupun ekspansi besar. Dampaknya terlihat pada arus kas, yakni masuknya dana segar US$10 juta yang bisa langsung disalurkan sebagai kredit ke nasabah, serta pada beban bunga karena BMAS harus membayar bunga mengikuti acuan SOFR ditambah margin pasar selama pinjaman berjalan. Yang perlu dipantau selanjutnya adalah jatuh tempo pinjaman ini, paling lambat enam bulan setelah setiap kali dana ditarik, untuk melihat apakah BMAS melunasi tepat waktu atau memperpanjang fasilitas tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lapd-rights-issue-rp59-5-m-lewat-inbreng-saham-tambang",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Rights Issue Rp59,5 M Lewat [Inbreng] Saham Tambang",
+  "deck": "Leyand International menawarkan saham baru lewat hak memesan efek terlebih dahulu senilai maksimal Rp59,5 miliar, dibayar lewat suntikan 87,5% saham tambang BSS oleh pemegang saham pengendali JSI Sinergi Mas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T14:11:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/280315e5a8_684037eb76.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "akuisisi tambang",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Leyand International Tbk (LAPD) akan menerbitkan saham baru Seri B sebanyak-banyaknya 1.983.175.069 lembar dengan nilai nominal Rp25 per saham lewat Penambahan Modal dengan Memberikan Hak Memesan Efek Terlebih Dahulu II (PMHMETD II). Setiap pemegang 2 saham lama berhak atas 1 hak memesan saham baru (HMETD), dan setiap 1 HMETD bisa ditukar dengan 1 saham baru di harga Rp30 per saham. Rencana ini sudah disetujui pemegang saham dalam RUPSLB 29 Oktober 2026, dengan total nilai penerbitan maksimal Rp59,49 miliar dan pernyataan efektif OJK ditargetkan 28 Desember 2026.",
+   "Bagian terbesar dari saham baru ini tidak dibayar tunai. PT JSI Sinergi Mas, pemegang 51 persen saham LAPD (2.022.838.500 lembar), akan melaksanakan seluruh haknya sebanyak 1.011.419.250 HMETD dengan menyetorkan 52.500 saham PT Bersaudara Sinergi Sejahtera (BSS), setara 87,5 persen kepemilikan BSS, yang menurut penilai independen KJPP Syarif, Endang & Rekan bernilai Rp38,85 miliar per 30 Juni 2026. Sisa nilai setoran saham BSS yang tidak tertampung dalam hak JSI, sebesar Rp8,5 miliar, akan diambil lewat perannya sebagai pembeli siaga atas sisa saham baru sebanyak-banyaknya 283.614.100 lembar. Dengan transaksi ini, BSS yang bergerak di jasa pertambangan dan sudah punya kontrak berjalan akan menjadi anak usaha LAPD dengan kepemilikan 87,5 persen, sementara dana tunai dari pemegang saham publik yang menebus haknya, maksimal Rp20,64 miliar, akan dipakai sebagai modal kerja BSS.",
+   "Perseroan menyebut dampak pro forma transaksi ini per 30 Juni 2026 cukup signifikan: ekuitas berubah dari negatif Rp2,65 miliar menjadi positif Rp56,95 miliar, pendapatan naik dari Rp1,92 miliar menjadi Rp22,50 miliar, dan margin laba bruto membaik dari minus 54,90 persen menjadi 22,65 persen. Pemegang saham yang namanya tercatat pada 12 Januari 2027 berhak atas HMETD, yang akan diperdagangkan dan dilaksanakan pada 13 sampai 20 Januari 2027. Bagi pemegang saham yang tidak menebus haknya, dilusi kepemilikan maksimal mencapai 33,33 persen."
+  ],
+  "fotoAdegan": "Heavy excavators loading ore onto mining trucks at an open pit mine in Indonesia, dusty afternoon haze",
+  "takeaway": "Transaksi ini condong positif bagi fondasi keuangan Leyand, karena menyuntikkan bisnis jasa tambang yang sudah punya kontrak berjalan dan langsung membalik ekuitas perusahaan dari negatif Rp2,65 miliar menjadi positif Rp56,95 miliar secara proforma, sekaligus menambah pendapatan lebih dari sepuluh kali lipat. Yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan utang perusahaan yang jadi ukuran dasar kesehatan keuangan, serta jumlah saham beredar yang akan membengkak dari 3,97 miliar menjadi hingga 5,95 miliar lembar sehingga porsi kepemilikan pemegang saham lama yang tidak ikut menebus haknya bisa terdilusi sampai 33,33 persen. Patut dicermati juga bahwa pembayaran mayoritas saham baru oleh pengendali JSI Sinergi Mas bukan berupa uang tunai, melainkan aset tambang senilai Rp38,85 miliar berdasarkan penilaian independen, sehingga kewajaran valuasi aset itu menjadi kunci apakah manfaatnya benar-benar sepadan bagi pemegang saham publik. Yang perlu dipantau berikutnya adalah tanggal efektif pernyataan pendaftaran yang ditargetkan 28 Desember 2026 dan batas akhir pelaksanaan HMETD pada 20 Januari 2027, karena baru pada saat itu terlihat apakah transaksi benar-benar tuntas dan seberapa besar dilusi yang sesungguhnya dialami pemegang saham publik yang tidak menebus haknya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "gjtl-jelaskan-lonjakan-liabilitas-21-9-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "GJTL Jelaskan Lonjakan [Liabilitas] 21,9% ke Bursa",
+  "deck": "Liabilitas Gajah Tunggal naik Rp2,45 triliun dalam sembilan bulan, didorong kenaikan utang usaha dan utang bank jangka pendek akibat harga bahan baku dan pelemahan rupiah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T13:50:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105135932-65738-0/FinancialStatement-2026-III-GJTL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GJTL",
+  "tags": [
+   "GJTL",
+   "Gajah Tunggal",
+   "laporan keuangan",
+   "utang"
+  ],
+  "body": [
+   "PT Gajah Tunggal Tbk (GJTL) menyampaikan surat penjelasan kepada Bursa Efek Indonesia terkait kenaikan jumlah liabilitas lebih dari 20 persen, sesuai aturan Bursa yang mewajibkan penjelasan tertulis kalau pos aset atau liabilitas berubah di atas batas itu. Per 30 September 2026, jumlah liabilitas perusahaan tercatat Rp13,67 triliun, naik Rp2,45 triliun atau 21,88 persen dari Rp11,21 triliun pada akhir Desember 2025.",
+   "Manajemen menyebut kenaikan ini terutama berasal dari utang usaha kepada pemasok pihak ketiga, yang naik dari Rp2,05 triliun menjadi Rp3,86 triliun, serta utang bank jangka pendek yang naik dari Rp574,8 miliar menjadi Rp1,25 triliun. Utang usaha membesar karena bahan baku yang dipakai GJTL sebagian besar terkait komoditas yang harganya mengikuti minyak bumi dalam dolar Amerika Serikat, dan perang di Timur Tengah ikut mengerek harga bahan baku itu, ditambah pelemahan rupiah. Sebagian utang usaha juga berasal dari pembelian mesin dan konstruksi bangunan untuk ekspansi fasilitas produksi ban jenis TBR (truck and bus radial). Kenaikan utang bank jangka pendek disebut untuk menutup kebutuhan modal kerja yang meningkat akibat harga bahan baku naik dan rupiah melemah, sekaligus mendukung pertumbuhan volume usaha.",
+   "Di luar soal liabilitas, laporan keuangan interim ini juga mencatat jumlah aset GJTL naik dari Rp21,67 triliun menjadi Rp24,83 triliun, dan ekuitas naik dari Rp10,46 triliun menjadi Rp11,17 triliun. Kas dan setara kas perusahaan justru turun dari Rp925,2 miliar menjadi Rp827,8 miliar, sementara arus kas bersih dari aktivitas operasi naik dari Rp1,09 triliun menjadi Rp1,19 triliun. Manajemen menyatakan kenaikan liabilitas ini tidak berdampak terhadap kinerja keuangan perusahaan pada tahun berjalan."
+  ],
+  "fotoAdegan": "Workers monitoring rows of black rubber tires moving along a conveyor inside a large tire factory, industrial lighting overhead",
+  "takeaway": "Laporan ini netral bagi Gajah Tunggal: lonjakan utang memang besar, tapi angkanya dipicu kebutuhan modal kerja dan biaya ekspansi, bukan tanda kesulitan membayar utang, dan ekuitas maupun laba perusahaan tetap tumbuh pada periode yang sama. Pos yang tersentuh di sini adalah ekuitas, yaitu modal milik pemegang saham, yang naik dari Rp10,46 triliun menjadi Rp11,17 triliun sehingga fondasi keuangan perusahaan tidak tergerus, serta beban bunga, yaitu biaya yang dibayar perusahaan atas pinjamannya, yang justru turun dari Rp355,9 miliar menjadi Rp300 miliar meski saldo utang bank jangka pendek naik lebih dari dua kali lipat. Pelaku pasar memperhatikan dua pos ini karena keduanya menunjukkan apakah kenaikan utang terkendali atau mulai menggerus kemampuan perusahaan membayar kewajibannya. Yang perlu dipantau berikutnya adalah tren harga bahan baku terkait minyak bumi dan nilai tukar rupiah, sebab manajemen sendiri menyebut dua faktor itu sebagai pemicu utama kenaikan utang usaha dan pinjaman bank jangka pendek sepanjang laporan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ekonomi-ri-tumbuh-5-47-di-triwulan-iii-2026",
   "category": "Makroekonomi",
   "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
@@ -28,6 +158,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Semakin tinggi angka pertumbuhan ekonomi ini, semakin besar aktivitas produksi dan belanja yang tercatat di seluruh negeri dibanding periode yang sama tahun sebelumnya.",
   "bpsIndikator": "pdb"
+ },
+ {
+  "slug": "truk-pukul-rata-kanan-tender-saham-incar-jadi-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Pukul Rata Kanan Tender Saham, Incar Jadi [Pengendali]",
+  "deck": "PT Pukul Rata Kanan menawar beli maksimal 65,25 juta saham TRUK atau 15 persen senilai Rp740 per saham, untuk menambah kepemilikannya menjadi 30 persen dan menjadi pengendali baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T13:29:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b5e477962e_6f37f7874f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUK",
+  "tags": [
+   "TRUK",
+   "tender offer",
+   "pengendali saham",
+   "Pukul Rata Kanan"
+  ],
+  "body": [
+   "PT Pukul Rata Kanan (PRK), perusahaan holding dan konsultasi manajemen berkedudukan di Surabaya, mengumumkan penawaran tender sukarela untuk membeli sebanyak-banyaknya 65.250.000 saham PT Guna Timur Raya Tbk (TRUK), setara 15 persen dari total saham beredar, dengan harga Rp740 per saham tunai. PRK saat ini sudah memegang 65.250.000 saham TRUK atau 15 persen. Jika seluruh saham yang ditawar terserap, kepemilikan PRK di TRUK naik menjadi 130.500.000 saham atau 30 persen, dan PRK berstatus sebagai pengendali baru perusahaan jasa freight forwarding itu. Berdasarkan Daftar Pemegang Saham per 31 Agustus 2026, porsi saham milik publik (free float) berpotensi turun dari 29,83 persen menjadi 14,83 persen, sementara pemegang saham lain seperti PT Guna Makmur Raya (25,17 persen) dan lima pemegang saham individu yang masing-masing menggenggam 5 persen, yaitu Budi Gunawan, Carolina Kusuma, Suminto Husin Giman, Suganto Gunawan, dan Suwito, tidak berubah.",
+   "Harga Rp740 ditetapkan sesuai formula harga minimum POJK 54/2015, yaitu rata-rata harga tertinggi perdagangan harian TRUK di BEI selama 90 hari sebelum pengumuman. Berdasarkan 53 hari perdagangan dalam periode itu, rata-rata harga tertinggi tercatat Rp735,15, sehingga harga tawaran PRK hanya sedikit di atas batas minimum tersebut. Catatan menarik dari tabel harga yang dilampirkan, saham TRUK sempat melonjak dalam beberapa hari sebelum pengumuman, dari sekitar Rp900 pada awal September menjadi Rp1.180 pada 16 September, lalu terus naik hingga Rp2.070 pada 24 September 2026, sehari sebelum pengumuman ini terbit. PRK telah menyiapkan dana lewat surat keterangan dari PT Trimegah Sekuritas Indonesia Tbk tertanggal 24 September 2026 yang menyatakan total aset PRK cukup untuk membayar penuh seluruh saham yang ditawar. PRK dikecualikan dari kewajiban penawaran tender wajib berdasarkan Pasal 23 huruf m POJK 9/2018, menunjuk PT Sucor Sekuritas sebagai perusahaan efek, dan menyatakan tidak berencana membawa TRUK keluar dari status perusahaan terbuka (go private).",
+   "Masa penawaran tender diperkirakan efektif pada 4 November 2026, dengan periode penawaran berlangsung 6 November hingga 7 Desember 2026 pukul 09.00 sampai 16.00 WIB setiap hari. Pemegang saham yang berminat menjual harus menyerahkan Formulir Penawaran Tender Sukarela ke biro administrasi efek, PT Adimitra Jasa Korpora, paling lambat pada tanggal penutupan 7 Desember 2026. Penjatahan diperkirakan berlangsung 10 Desember, pengembalian saham yang tidak terbeli pada 14 Desember, dan pembayaran tunai paling lambat 15 Desember 2026. PRK menyatakan tidak ada sengketa hukum yang memengaruhi transaksi ini, tidak ada rangkap jabatan direksi atau komisaris dengan TRUK, dan berkomitmen mendukung pengembangan usaha TRUK secara organik maupun anorganik ke depan."
+  ],
+  "fotoAdegan": "Rows of parked logistics trucks in a freight yard at dawn, warehouse buildings and shipping containers in the background",
+  "takeaway": "Penawaran tender ini condong netral bagi fundamental TRUK, karena transaksinya adalah jual beli saham lama antarpemegang saham, bukan dana segar yang masuk ke kas perusahaan, sehingga ekuitas, utang, dan jumlah saham beredar TRUK tidak berubah sama sekali. Yang benar-benar tersentuh adalah struktur pengendalian dan porsi saham yang bebas diperdagangkan publik, yang menurut diagram perseroan bisa menyusut dari 29,83 persen jadi 14,83 persen jika penawaran terserap penuh, dan free float yang lebih tipis biasanya membuat jual beli saham di pasar jadi kurang likuid karena lebih sedikit lembar yang beredar bebas. Harga tawaran Rp740 juga hanya tipis di atas batas minimum wajib Rp735,15, padahal harga saham TRUK sempat menyentuh Rp2.070 sehari sebelum pengumuman ini terbit, sehingga pemegang saham minoritas perlu mencermati sendiri gambaran harga pasar itu sebelum memutuskan ikut tender atau tidak. Yang perlu dipantau selanjutnya adalah berjalannya periode penawaran pada 6 November sampai 7 Desember 2026, serta tanggal penjatahan sekitar 10 Desember dan pembayaran paling lambat 15 Desember 2026, karena baru di titik itu akan terlihat berapa besar saham publik yang benar-benar berpindah tangan ke Pukul Rata Kanan.",
+  "sentimen": "netral"
  },
  {
   "slug": "bima-dirut-dan-wadirut-primarindo-mundur-bersamaan",

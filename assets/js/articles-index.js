@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rony-balik-untung-kuartal-iii-arus-kas-operasi-justru-negatif",
+  "category": "Aksi Korporasi",
+  "title": "RONY Balik Untung Kuartal III, Arus Kas Operasi Justru [Negatif]",
+  "deck": "Laba bersih RONY tembus Rp1,85 miliar pada sembilan bulan 2026 berkat lonjakan jasa truk listrik dan gasifikasi batu bara, tapi kas dari operasi minus dan utang ke induk usaha di luar negeri melonjak.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RONY",
+   "laporan keuangan",
+   "arus kas",
+   "pinjaman pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105153429-65742-0/FinancialStatement-2026-III-RONY.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kren-liabilitas-naik-26-ekuitas-induk-negatif",
+  "category": "Aksi Korporasi",
+  "title": "KREN: Liabilitas Naik 26%, Ekuitas Induk [Negatif]",
+  "deck": "Total liabilitas KREN naik 26,14 persen menjadi Rp956,2 miliar pada September 2026, sementara ekuitas yang jadi hak pemegang saham induk berbalik negatif Rp1,03 miliar.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KREN",
+   "laporan keuangan interim",
+   "liabilitas",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105152615-64918-0/FinancialStatement-2026-III-KREN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmas-terima-pinjaman-us-10-juta-dari-pemegang-saham-kbank",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Terima [Pinjaman] US$10 Juta dari Pemegang Saham KBank",
+  "deck": "Bank Kasikorn Indonesia memperoleh fasilitas pinjaman bilateral US$10 juta dari induk usahanya di Thailand untuk menopang likuiditas jangka pendek dan penyaluran kredit.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "Bank Kasikorn Indonesia",
+   "pinjaman afiliasi",
+   "KBank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b5a4c6b64_1e00ea4c98.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-rights-issue-rp59-5-m-lewat-inbreng-saham-tambang",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Rights Issue Rp59,5 M Lewat [Inbreng] Saham Tambang",
+  "deck": "Leyand International menawarkan saham baru lewat hak memesan efek terlebih dahulu senilai maksimal Rp59,5 miliar, dibayar lewat suntikan 87,5% saham tambang BSS oleh pemegang saham pengendali JSI Sinergi Mas.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "akuisisi tambang",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/280315e5a8_684037eb76.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gjtl-jelaskan-lonjakan-liabilitas-21-9-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "GJTL Jelaskan Lonjakan [Liabilitas] 21,9% ke Bursa",
+  "deck": "Liabilitas Gajah Tunggal naik Rp2,45 triliun dalam sembilan bulan, didorong kenaikan utang usaha dan utang bank jangka pendek akibat harga bahan baku dan pelemahan rupiah.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GJTL",
+   "Gajah Tunggal",
+   "laporan keuangan",
+   "utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105135932-65738-0/FinancialStatement-2026-III-GJTL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekonomi-ri-tumbuh-5-47-di-triwulan-iii-2026",
   "category": "Makroekonomi",
   "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
@@ -19,6 +99,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
   "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "truk-pukul-rata-kanan-tender-saham-incar-jadi-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Pukul Rata Kanan Tender Saham, Incar Jadi [Pengendali]",
+  "deck": "PT Pukul Rata Kanan menawar beli maksimal 65,25 juta saham TRUK atau 15 persen senilai Rp740 per saham, untuk menambah kepemilikannya menjadi 30 persen dan menjadi pengendali baru.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "tender offer",
+   "pengendali saham",
+   "Pukul Rata Kanan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b5e477962e_6f37f7874f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bima-dirut-dan-wadirut-primarindo-mundur-bersamaan",
@@ -6369,103 +6465,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/475817-pendapatan-vktr-tumbuh-49-pada-9m26-kontribusi-kendaraan-listrik-terus-meningkat"
- },
- {
-  "slug": "mmix-liabilitas-melonjak-ke-rp246-5-miliar-per-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "MMIX: [Liabilitas] Melonjak ke Rp246,5 Miliar per Kuartal III",
-  "deck": "MMIX melaporkan keuangan interim kuartal III 2026, liabilitas melonjak lima kali lipat dalam sembilan bulan sementara ekuitas nyaris stagnan dan laba per saham turun.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MMIX",
-   "laporan keuangan",
-   "liabilitas",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030200555-65043-0/FinancialStatement-2026-III-MMIX.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "icbp-penjualan-9m26-naik-15-marjin-tergerus-biaya",
-  "category": "Aksi Korporasi",
-  "title": "ICBP: Penjualan 9M26 Naik 15%, [Marjin] Tergerus Biaya",
-  "deck": "Penjualan sembilan bulan ICBP naik 15% menjadi Rp64,45 triliun, tapi marjin laba usaha turun ke 21,2% akibat kenaikan biaya bahan baku dan logistik.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ICBP",
-   "kinerja keuangan",
-   "consumer goods",
-   "Indofood CBP"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/387eaea864_387f2a6dfc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-pnse-melonjak-dari-penjualan-tanah-okupansi-turun",
-  "category": "Aksi Korporasi",
-  "title": "Laba PNSE [Melonjak] Dari Penjualan Tanah, Okupansi Turun",
-  "deck": "Laba bersih PNSE sembilan bulan 2026 melonjak ke Rp70,2 miliar karena penjualan tanah, namun laba usaha hotel turun 44 persen dan satu hotel di Flores tutup akibat gempa.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNSE",
-   "laporan keuangan",
-   "perhotelan",
-   "Pudjiadi & Sons"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030195922-65533-0/FinancialStatement-2026-III-PNSE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smra-laba-bersih-turun-26-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "SMRA: Laba Bersih [Turun] 26% di Kuartal III 2026",
-  "deck": "Pendapatan Summarecon turun tipis dalam sembilan bulan 2026, tapi laba bersih untuk pemegang saham induk anjlok 26,3 persen akibat beban bunga yang melonjak seiring utang jangka panjang membesar.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMRA",
-   "Summarecon Agung",
-   "laporan keuangan",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030195512-65391-0/FinancialStatement-2026-III-SMRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pdes-bukukan-pendapatan-rp412-miliar-laba-pemilik-turun-4",
-  "category": "Aksi Korporasi",
-  "title": "PDES Bukukan Pendapatan Rp412 Miliar, [Laba] Pemilik Turun 4%",
-  "deck": "Pendapatan PDES naik 7,5 persen di kuartal III 2026, tapi laba bersih untuk pemegang saham induk turun 4 persen karena beban operasional naik lebih cepat.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PDES",
-   "Laporan Keuangan",
-   "Pariwisata",
-   "Laba Bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030195227-65364-0/FinancialStatement-2026-III-PDES.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul",
-  "category": "UMKM",
-  "title": "KKP [Bagikan] 100 Ribu Benih Lele ke Pembudidaya Bantul",
-  "deck": "Kementerian Kelautan dan Perikanan menyalurkan 100.000 benih lele ke lima kelompok pembudidaya di Bantul, DIY, bertepatan dengan peringatan HUT ke-27 lembaga itu.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/kkp-bagikan-100-ribu-benih-lele-ke-pembudidaya-bantul.jpg",
-  "imageV": "mvuysv67",
-  "tags": [
-   "KKP",
-   "Benih Lele",
-   "Budidaya Perikanan",
-   "Bantul"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/hut-ke-27-kkp-salurkan-100-ribu-benih-lele-dukung-budidaya-perikanan-di-bantul-JN4o.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
  }
 ];

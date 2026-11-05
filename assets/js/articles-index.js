@@ -37,6 +37,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "sbat-jadi-sasaran-tender-saham-mbst-harga-rp2-per-lembar",
+  "category": "Aksi Korporasi",
+  "title": "SBAT Jadi Sasaran [Tender] Saham MBST, Harga Rp2 per Lembar",
+  "deck": "MBST menawar tender sukarela maksimal 51,52 persen saham SBAT seharga Rp2 per lembar, senilai hingga Rp4,9 miliar, dengan pembayaran dijadwalkan 18 Januari 2027.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SBAT",
+   "tender sukarela",
+   "MBST",
+   "aksi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d2d762a1e1_c8e7f48f50.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tirt-bantah-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "TIRT Bantah Terlibat Penyelidikan [Karhutla] Singapura",
+  "deck": "Tirta Mahakam Resources menegaskan ke BEI bahwa dirinya dan grupnya tidak menjadi subjek penyelidikan Pemerintah Singapura atas kebakaran hutan dan lahan.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TIRT",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "Singapura"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/52c13be528_cb03cffcbb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgeo-ungkap-risiko-msci-dan-target-free-float-15-di-pubex",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Ungkap Risiko [MSCI] dan Target Free Float 15% di Pubex",
+  "deck": "Dalam public expose 3 November 2026, manajemen PGEO membahas risiko penurunan klasifikasi pasar modal Indonesia oleh MSCI, rencana menaikkan free float ke 15%, serta progres proyek dan pembiayaan panas bumi.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGEO",
+   "public expose",
+   "MSCI",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/74d6d65924_a8e5a542c1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "giaa-siapkan-rights-issue-danantara-bayar-pakai-saham-gmfi",
   "category": "Aksi Korporasi",
   "title": "GIAA Siapkan Rights Issue, Danantara Bayar Pakai Saham [GMFI]",
@@ -230,6 +278,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pssi-bagikan-saham-treasuri-172-juta-lembar-bukan-bonus-laba",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Bagikan [Saham Treasuri] 172 Juta Lembar, Bukan Bonus Laba",
+  "deck": "IMC Pelita Logistik (PSSI) membagikan 172 juta saham treasuri ke pemegang saham dengan rasio 1:30, senilai Rp17,2 miliar, efektif 27 November 2026.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "aksi korporasi",
+   "IMC Pelita Logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3180369e5_21fbca31e8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemuda-lampung-unjuk-karya-umkm-dapat-modal",
   "category": "UMKM",
   "title": "Pemuda Lampung Unjuk Karya, UMKM Dapat [Modal]",
@@ -245,6 +309,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476806-menjemput-indonesia-emas-2045-ribuan-pemuda-unjuk-kreativitas-dan-inovasi"
+ },
+ {
+  "slug": "meta-koreksi-tanggal-cum-ex-dividen-interim-bayar-3-desember",
+  "category": "Aksi Korporasi",
+  "title": "META [Koreksi] Tanggal Cum-Ex Dividen Interim, Bayar 3 Desember",
+  "deck": "Nusantara Infrastructure mengoreksi tanggal cum dan ex dividen interim Rp3,50 per saham di tiga pasar, tanggal pembayaran tetap 3 Desember 2026.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "META",
+   "dividen interim",
+   "corporate action",
+   "KSEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b365a48dc4_cee8d0302e.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnm-dan-abpednas-dorong-literasi-keuangan-desa",
@@ -329,6 +409,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-sinergi-mendag-busan-buka-pasar-murah-di-mataram-jaga-harga-bapok",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "zp-waran-untr-tak-alami-penyesuaian-usai-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "ZP: Waran UNTR Tak Alami [Penyesuaian] usai Dividen Tunai",
+  "deck": "Maybank Sekuritas (ZP) menegaskan dua waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A tidak disesuaikan meski UNTR membagikan dividen tunai pada 28 Oktober 2026.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "UNTR",
+   "waran terstruktur",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d4975bdc9_d3fe23dc27.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rony-balik-untung-kuartal-iii-arus-kas-operasi-justru-negatif",
@@ -6373,102 +6469,6 @@ var ARTICLES = [
    "arus kas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030215101-65494-0/FinancialStatement-2026-III-GGRP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-alami-gagal-bayar-peringkat-turun-ke-selective-default",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Alami [Gagal Bayar], Peringkat Turun ke Selective Default",
-  "deck": "PEFINDO menurunkan peringkat PTPP jadi idSD dan obligasi/sukuknya jadi idD akibat gagal bayar, memicu restrukturisasi dan rapat pemegang surat utang pada 10-11 November 2026.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "PEFINDO",
-   "obligasi",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e0bf190988_7783af519f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gpso-ekuitas-naik-63-usai-suntikan-modal-rugi-menyusut",
-  "category": "Aksi Korporasi",
-  "title": "GPSO: [Ekuitas] Naik 63% Usai Suntikan Modal, Rugi Menyusut",
-  "deck": "Kuartal III 2026 GPSO: aset dan ekuitas naik lebih dari 60 persen setelah suntikan modal, tapi margin menipis dan kas operasi negatif.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GPSO",
-   "laporan keuangan",
-   "penambahan modal",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030214552-65330-0/FinancialStatement-2026-III-GPSO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "peve-utang-bank-naik-36-usai-tambah-fasilitas-bank-permata",
-  "category": "Aksi Korporasi",
-  "title": "PEVE: Utang Bank Naik 36% Usai Tambah Fasilitas [Bank Permata]",
-  "deck": "Total aset Penta Valent naik 9,4 persen menjadi Rp1,52 triliun per akhir September 2026, utang bank jangka pendek naik 36,5 persen usai menambah fasilitas dari Bank Permata.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PEVE",
-   "Penta Valent",
-   "laporan keuangan",
-   "Bank Permata"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030213757-65144-0/FinancialStatement-2026-III-PEVE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "visi-tarik-pinjaman-rp45-miliar-dari-bank-ina-untuk-modal-kerja",
-  "category": "Aksi Korporasi",
-  "title": "VISI Tarik Pinjaman [Rp45 Miliar] dari Bank Ina untuk Modal Kerja",
-  "deck": "PT Satu Visi Putra menandatangani fasilitas demand loan Rp45 miliar dengan Bank Ina Perdana untuk modal kerja, wajib lunas 28 Januari 2027.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "kredit perbankan",
-   "modal kerja",
-   "Bank Ina Perdana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6aae1f0e5e_e27aed5475.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "irra-kas-anjlok-76-utang-bank-melonjak-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "IRRA: Kas Anjlok 76%, [Utang Bank] Melonjak Kuartal III 2026",
-  "deck": "Laba bersih Itama Ranoraya naik tipis jadi Rp47,33 miliar, tapi arus kas operasi makin negatif dan utang bank jangka panjang melonjak lebih dari dua kali lipat.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IRRA",
-   "laporan keuangan",
-   "arus kas",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030212552-64913-0/FinancialStatement-2026-III-IRRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bren-catat-laba-bersih-us-161-juta-di-9m-2026-naik-21-8",
-  "category": "Aksi Korporasi",
-  "title": "BREN Catat [Laba Bersih] US$161 Juta di 9M 2026, Naik 21,8%",
-  "deck": "Barito Renewables membukukan pendapatan US$501 juta dan laba bersih US$161 juta untuk sembilan bulan 2026, sembari menurunkan rasio utangnya.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BREN",
-   "kinerja keuangan",
-   "energi terbarukan",
-   "panas bumi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/6bd38b487a_dea2c162e4.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -60,6 +60,84 @@ var ARTICLES = [
   "takeaway": "Yang berubah di sini baru status administratif: minyak nilam resmi masuk daftar komoditas Sistem Resi Gudang, sehingga totalnya kini 31 jenis barang, dari gabah sampai cengkih. Lewat skema ini, petani dan penyuling nilam bisa menyimpan minyaknya di gudang resmi, mendapat semacam surat bukti simpan, lalu memakai surat itu sebagai jaminan pinjaman ke bank tanpa harus menjual barangnya saat harga sedang rendah. Pihak yang paling terdampak adalah petani dan penyuling nilam di sentra produksi, karena merekalah yang selama ini kesulitan modal dan sering terpaksa jual cepat. Tapi penetapan ini belum berarti skemanya langsung berjalan, sebab pejabat Bappebti sendiri mengakui masih perlu membangun standar mutu, memperkuat kelembagaan, dan menyiapkan proyek percontohan di daerah sebelum SRG minyak nilam benar-benar dipakai. Arahnya baru akan terlihat jelas saat proyek percontohan itu terwujud atau ada laporan berapa banyak minyak nilam yang nyata-nyata disimpan lewat SRG, bukan sekadar status di atas kertas."
  },
  {
+  "slug": "sbat-jadi-sasaran-tender-saham-mbst-harga-rp2-per-lembar",
+  "category": "Aksi Korporasi",
+  "title": "SBAT Jadi Sasaran [Tender] Saham MBST, Harga Rp2 per Lembar",
+  "deck": "MBST menawar tender sukarela maksimal 51,52 persen saham SBAT seharga Rp2 per lembar, senilai hingga Rp4,9 miliar, dengan pembayaran dijadwalkan 18 Januari 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T19:34:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d2d762a1e1_c8e7f48f50.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SBAT",
+  "tags": [
+   "SBAT",
+   "tender sukarela",
+   "MBST",
+   "aksi korporasi"
+  ],
+  "body": [
+   "PT Mitra Bintang Sejahtera Trading (MBST) mengajukan penawaran tender sukarela untuk membeli saham PT Sejahtera Bintang Abadi Textile Tbk (SBAT) sebanyak-banyaknya 2.448.771.079 lembar, atau 51,52 persen dari seluruh saham yang telah ditempatkan dan disetor penuh di SBAT. Harga yang ditawarkan Rp2 per saham secara tunai, sehingga nilai total transaksi bisa mencapai Rp4.897.542.158. MBST menyatakan telah memiliki dana yang cukup untuk menyelesaikan transaksi ini, dan sampai saat pernyataan ini dibuat, MBST belum memiliki satu pun saham SBAT serta bukan merupakan afiliasi dari perusahaan tersebut.",
+   "Harga Rp2 per saham ditetapkan berdasarkan aturan dalam POJK Nomor 45/2024, yang mewajibkan harga tender diambil dari angka yang lebih tinggi antara rata-rata harga perdagangan tertinggi saham SBAT di bursa selama 30 hari sebelum pengumuman, yaitu Rp2 per saham, dengan nilai buku per saham perusahaan. Berdasarkan laporan keuangan audit per 31 Desember 2023, ekuitas SBAT tercatat minus Rp15.559.035.475 dengan jumlah saham beredar 4.752.982.378 lembar, sehingga nilai buku per saham berada di minus Rp3,27. Karena Rp2 lebih tinggi dari nilai buku yang negatif, harga tender ditetapkan Rp2 per saham.",
+   "Proses ini melibatkan PT Tuntun Sekuritas Indonesia sebagai perusahaan efek yang ditunjuk dan PT Ficomindo Buana Registrar sebagai biro administrasi efek yang mengelola daftar pemegang saham SBAT. Jadwal yang diumumkan mencakup perkiraan tanggal efektif dari OJK pada 10 Desember 2026, periode penawaran tender berlangsung 14 Desember 2026 sampai 13 Januari 2027, dan pembayaran kepada pemegang saham yang ikut serta dijadwalkan pada 18 Januari 2027. Masa penawaran ini masih dapat diperpanjang hingga maksimal 90 hari bila disetujui OJK."
+  ],
+  "fotoAdegan": "Textile mill workers monitoring rows of weaving looms producing fabric, industrial lighting, West Java factory floor",
+  "takeaway": "Laporan ini condong negatif bagi fundamental SBAT, sebab harga tender Rp2 per saham dipatok rendah bukan karena negosiasi harga wajar, melainkan karena kondisi keuangan perusahaan yang sudah lemah. Ekuitas, yaitu selisih antara aset dan utang perusahaan atau kekayaan bersih yang sebenarnya menjadi hak pemegang saham, tercatat minus Rp15,56 miliar per akhir 2023, setara nilai buku minus Rp3,27 untuk setiap lembar saham, artinya secara hitungan di atas kertas tidak ada nilai sisa aset bagi pemegang saham. Pasar memperhatikan ekuitas karena angka itu jadi penanda apakah perusahaan masih punya bantalan keuangan atau justru menanggung kerugian terakumulasi yang membebani keberlanjutan usaha. Yang perlu dipantau selanjutnya adalah tanggal efektif dari OJK yang diperkirakan 10 Desember 2026, periode penawaran pada 14 Desember 2026 sampai 13 Januari 2027, serta tanggal pembayaran pada 18 Januari 2027, yang menentukan apakah MBST benar-benar mengambil alih mayoritas saham SBAT.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tirt-bantah-terlibat-penyelidikan-karhutla-singapura",
+  "category": "Aksi Korporasi",
+  "title": "TIRT Bantah Terlibat Penyelidikan [Karhutla] Singapura",
+  "deck": "Tirta Mahakam Resources menegaskan ke BEI bahwa dirinya dan grupnya tidak menjadi subjek penyelidikan Pemerintah Singapura atas kebakaran hutan dan lahan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T19:30:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/52c13be528_cb03cffcbb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TIRT",
+  "tags": [
+   "TIRT",
+   "karhutla",
+   "Bursa Efek Indonesia",
+   "Singapura"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengirim surat permintaan penjelasan Nomor S-13493/BEI.PP1/10-2026 tanggal 29 Oktober 2026 kepada PT Tirta Mahakam Resources Tbk (TIRT). Surat itu menyoal pemberitaan tentang pertemuan dan pemanggilan oleh Pemerintah Singapura terhadap pimpinan sejumlah grup usaha perkebunan dan agribisnis pada 28 Oktober 2026, termasuk grup yang terafiliasi dengan TIRT, sehubungan dengan penyelidikan kebakaran hutan dan lahan atau karhutla.",
+   "Dalam surat balasan Nomor 129/TMR/XI/2026 tertanggal 2 November 2026 yang disampaikan ke bursa pada 5 November 2026 pukul 19.30 oleh Corporate Secretary Jackson Indrawan, TIRT menyatakan bahwa dirinya, entitas anak, maupun entitas afiliasinya bukan subjek pembahasan, permintaan informasi, atau penelusuran fakta yang dilakukan Pemerintah Singapura sebagaimana disebut dalam pemberitaan. Perusahaan juga menyatakan belum menerima arahan, permintaan data, atau klarifikasi apa pun terkait penyelidikan tersebut, dan tidak ada temuan, teguran, maupun dampak material yang tercatat sampai tanggal surat diterbitkan.",
+   "Terkait rencana Pemerintah Singapura mengamendemen Transboundary Haze Pollution Act, yakni aturan yang akan menjadikan ketidakkooperatifan perusahaan dalam penyelidikan sebagai tindak pidana, TIRT menilai rencana itu belum berdampak pada kegiatan usaha, aspek hukum, maupun hubungan dengan pembelinya, namun perseroan akan memantau perkembangannya. Perusahaan menambahkan, sekalipun pemanggilan itu ditujukan ke entitas afiliasi dalam grup yang sama bukan ke TIRT secara langsung, sampai saat ini tidak ada dampak operasional, hukum, atau kelangsungan usaha bagi perseroan, dan tidak ada kewajiban kontinjensi, provisi, atau informasi material lain yang perlu diakui dalam laporan keuangan maupun keterbukaan informasi terkait isu ini."
+  ],
+  "fotoAdegan": "Haze drifting low over a palm oil plantation at dawn, rows of palm trees fading into misty distance, rural Sumatra landscape",
+  "takeaway": "Penjelasan ini condong netral bagi TIRT karena perusahaan secara tegas membantah keterlibatan langsung dan menyatakan belum ada dampak hukum, operasional, atau keuangan apa pun sampai saat surat ini diterbitkan. Pos yang disinggung di sini adalah kewajiban kontinjensi, yaitu beban yang baru benar-benar dibukukan dan menggerus ekuitas perusahaan kalau nanti ada temuan atau sanksi dari penyelidikan tersebut, dan untuk saat ini TIRT menyatakan pos itu masih nihil. Pasar tetap mencermati isu ini karena grup yang terafiliasi dengan TIRT ikut disebut dalam pemanggilan otoritas Singapura, sehingga ada risiko reputasi yang menempel meski perusahaan sendiri mengaku tidak jadi subjek penyelidikan. Yang perlu dipantau berikutnya adalah rencana Pemerintah Singapura mengamendemen Transboundary Haze Pollution Act yang akan membuat ketidakkooperatifan perusahaan dalam penyelidikan karhutla menjadi tindak pidana, serta apakah ada keterbukaan informasi lanjutan dari TIRT jika status grup afiliasinya dalam penyelidikan itu berubah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgeo-ungkap-risiko-msci-dan-target-free-float-15-di-pubex",
+  "category": "Aksi Korporasi",
+  "title": "PGEO Ungkap Risiko [MSCI] dan Target Free Float 15% di Pubex",
+  "deck": "Dalam public expose 3 November 2026, manajemen PGEO membahas risiko penurunan klasifikasi pasar modal Indonesia oleh MSCI, rencana menaikkan free float ke 15%, serta progres proyek dan pembiayaan panas bumi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T18:44:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/74d6d65924_a8e5a542c1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGEO",
+  "tags": [
+   "PGEO",
+   "public expose",
+   "MSCI",
+   "free float"
+  ],
+  "body": [
+   "PT Pertamina Geothermal Energy Tbk (PGEO) menggelar public expose tahunan secara daring melalui Zoom pada Selasa, 3 November 2026, dengan agenda pemaparan kinerja 9 bulan pertama 2026. Acara dihadiri 417 peserta yang terdiri dari pemegang saham, analis, media, dan masyarakat, dipaparkan oleh Direktur Utama Ahmad Yani, Direktur Eksplorasi dan Pengembangan Edwil Suzandi, Direktur Operasi Andi Joko, dan Direktur Keuangan Fransetya Hutabarat, dengan moderator Ronald Hutagalung selaku Manager Investor Relation.",
+   "Salah satu sorotan tanya jawab adalah permintaan analis Reliance Sekuritas soal capacity factor pembangkit Lumut Balai yang tercatat 102,30 persen, melebihi kapasitas nominal namun menurut manajemen masih di bawah batas desain teknis sekitar 110 persen. Terkait target kapasitas terpasang 1 gigawatt, manajemen menyebut empat kendala utama: PLN sebagai pembeli tunggal listrik panas bumi, kerangka tarif dalam Peraturan Presiden No. 112 Tahun 2022 yang dinilai kurang menarik, akses pembiayaan, dan kompleksitas proyek. Untuk pembiayaan, PGEO telah mengamankan pinjaman lunak dari lembaga pembangunan lewat Green Book 2026, yaitu US$158,9 juta dari JICA untuk Lumut Balai Unit 2, US$149,0 juta dari JICA untuk Lumut Balai Unit 4, dan US$170,0 juta dari World Bank untuk Lahendong Unit 7-8. Perusahaan juga menyebut sedang menjalankan proyek percontohan elektrifikasi green data center berkapasitas 5 megawatt di Kamojang sebagai bagian dari strategi perluasan bisnis di luar listrik.",
+   "Menjawab pertanyaan soal potensi penurunan klasifikasi pasar modal Indonesia oleh MSCI dari Emerging Market menjadi Standalone Market, manajemen mengaku mencermati dampaknya terhadap likuiditas saham PGEO dan sedang mengkaji peningkatan porsi saham publik beredar (free float) dari sekitar 11,2 persen pada akhir Oktober 2026 menjadi 15 persen pada akhir Maret 2028, sesuai ketentuan BEI. Soal kinerja operasional, pendapatan dari wilayah kerja Ulubelu turun karena produksi susut 0,6 persen dibanding periode sama tahun lalu, akibat pemeliharaan terjadwal selama 19 hari pada September 2026 di pembangkit milik PLN Indonesia Power. Produksi total PGEO sepanjang Januari-September 2026 tetap mencapai 1.218 gigawatt jam, atau 75 persen dari target setahun penuh sebesar 1.618 gigawatt jam. Perusahaan juga melaporkan telah mengamankan perjanjian jual beli listrik (PPA) untuk total kapasitas 300 megawatt, mencakup Hululais Unit 1 dan 2 (110 MW), Kotamobagu Unit 1 dan 2 (64 MW), Lumut Balai Unit 3 (55 MW), Lumut Balai Unit 4 (55 MW), serta Kotamobagu Unit 3 dan 4 (16 MW). Untuk kebijakan dividen, manajemen menyebut rasio pembayaran bisa diusulkan hingga 50 persen dan diperkirakan sejalan dengan tahun sebelumnya, tetap tunduk pada persetujuan RUPS."
+  ],
+  "fotoAdegan": "Steam billowing from geothermal power plant cooling towers nestled in misty tropical highlands, pipelines running through dense green forest",
+  "takeaway": "Laporan ini condong netral bagi PGEO, karena memadukan kabar baik soal kepastian kontrak listrik 300 megawatt dan pembiayaan murah jangka panjang dengan sinyal hati hati soal penurunan produksi di Ulubelu dan ancaman turunnya klasifikasi pasar oleh MSCI. Yang tersentuh adalah beban bunga, karena pinjaman JICA dan World Bank senilai total sekitar US$477,9 juta punya bunga kompetitif dan tenor panjang sehingga tidak langsung memberatkan kas perusahaan, sementara rencana menaikkan free float dari 11,2 persen menjadi 15 persen berarti jumlah saham yang diperdagangkan bebas di pasar akan bertambah, yang biasanya membuat saham lebih mudah diperjualbelikan. Pendapatan dari Ulubelu juga tersentuh akibat pemeliharaan rutin, meski manajemen menegaskan ini sifatnya sementara dan produksi tahun ini sudah mencapai 75 persen dari target. Yang perlu dipantau selanjutnya adalah persetujuan RUPS atas dividen, potensi revisi Peraturan Presiden No. 112/2022 soal tarif panas bumi yang ditargetkan rampung akhir 2026, serta realisasi target free float 15 persen yang dipatok perusahaan paling lambat akhir Maret 2028.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "giaa-siapkan-rights-issue-danantara-bayar-pakai-saham-gmfi",
   "category": "Aksi Korporasi",
   "title": "GIAA Siapkan Rights Issue, Danantara Bayar Pakai Saham [GMFI]",
@@ -374,6 +452,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "pssi-bagikan-saham-treasuri-172-juta-lembar-bukan-bonus-laba",
+  "category": "Aksi Korporasi",
+  "title": "PSSI Bagikan [Saham Treasuri] 172 Juta Lembar, Bukan Bonus Laba",
+  "deck": "IMC Pelita Logistik (PSSI) membagikan 172 juta saham treasuri ke pemegang saham dengan rasio 1:30, senilai Rp17,2 miliar, efektif 27 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T17:01:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3180369e5_21fbca31e8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "saham treasuri",
+   "aksi korporasi",
+   "IMC Pelita Logistik"
+  ],
+  "body": [
+   "PT IMC Pelita Logistik Tbk (PSSI) menyampaikan keterbukaan informasi mengenai rencana pembagian saham kepada pemegang saham, hasil Rapat Umum Pemegang Saham tanggal 28 Oktober 2026. Total nilai saham yang disetujui RUPS adalah Rp17.203.963.843,33, dibagi menjadi 172.039.638 lembar saham dengan nilai nominal Rp100 per saham. Rasio pembagiannya 1:30, dan jumlah ini sama baik untuk batas tertinggi maupun terendah, artinya rasionya tetap, tidak berjenjang.",
+   "Dasar kapitalisasinya adalah modal disetor lainnya sebesar Rp2.674.557.049.536, bagian dari total ekuitas per 30 Juni 2026. Jadwalnya: periode cum (saham masih menyertakan hak) berlangsung hingga awal November, periode ex (tanpa hak) mulai 9 dan 10 November 2026, pencatatan pemegang saham yang berhak dilakukan 9 November 2026 pukul 16:00, dan tanggal efektif pembagian ditetapkan 27 November 2026.",
+   "Hal yang membedakan laporan ini dari pembagian saham bonus biasa ada di surat lampiran kedua, yang ditandatangani Corporate Secretary Desi Femilinda Safitri dan dikirim ke Bursa Efek Indonesia. Surat itu menjelaskan bahwa aksi korporasi sebenarnya adalah pengalihan saham treasuri secara proporsional kepada pemegang saham, sesuai Peraturan OJK Nomor 29 Tahun 2023 tentang Pembelian Kembali Saham. Perseroan memakai menu 'Keterbukaan Informasi Saham Bonus' di sistem pelaporan elektronik Bursa semata karena sistem itu belum punya formulir khusus untuk distribusi saham treasuri, dan secara tegas menyatakan pengisian formulir itu tidak dimaksudkan mengklasifikasikan aksi ini sebagai pembagian saham bonus dari laba."
+  ],
+  "fotoAdegan": "A tugboat towing a loaded cargo barge along a wide brown river in Kalimantan, overcast sky, forested riverbank in the distance",
+  "takeaway": "Catatan ini netral, karena yang dibagikan adalah saham treasuri yang sudah lebih dulu dimiliki Perseroan sendiri, dipindahkan secara proporsional ke semua pemegang saham, bukan saham baru yang dicetak dari laba atau modal segar, jadi persentase kepemilikan masing-masing pemegang saham tidak berubah. Yang tersentuh adalah jumlah saham beredar dan laba per saham: begitu 172 juta lembar saham treasuri itu efektif berpindah tangan, saham itu dihitung ulang sebagai saham beredar di pasar, sehingga pembagi dalam hitungan laba per saham membesar meski labanya sendiri tidak bertambah, dan ekuitas Perseroan juga tidak bertambah karena ini cuma reklasifikasi internal, bukan kas baru yang masuk. Yang perlu dipantau adalah tanggal efektif 27 November 2026, saat saham ini benar-benar masuk ke rekening pemegang saham, dan laporan keuangan kuartal berikutnya, mengingat Perseroan baru saja berbalik rugi bersih pada sembilan bulan pertama 2025 sehingga tambahan jumlah saham beredar ini pantas dicermati dampaknya pada laba per saham ke depan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pemuda-lampung-unjuk-karya-umkm-dapat-modal",
   "category": "UMKM",
   "title": "Pemuda Lampung Unjuk Karya, UMKM Dapat [Modal]",
@@ -399,6 +503,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah dari acara ini adalah munculnya penyaluran modal usaha untuk sejumlah pelaku UMKM muda di Lampung, meski beritanya tidak menyebut berapa rupiah yang dibagikan atau berapa UMKM yang menerima. Pihak yang jelas terdampak adalah pelaku usaha kecil tersebut dan pemuda dari 10 organisasi kepemudaan yang ikut dalam forum dan talkshow ekonomi. Keterlibatan Kadin Lampung dan pakar ekonomi syariah menunjukkan ada upaya menghubungkan agenda kepemudaan dengan jaringan dunia usaha di daerah, tapi belum jelas apakah ini program bantuan sekali jalan atau akan berlanjut secara rutin. Yang masih kurang untuk membaca arahnya adalah rincian nominal bantuan modal, jumlah UMKM penerima, dan apakah Kadin Lampung akan menindaklanjuti dengan program pembinaan usaha muda berikutnya.",
   "imageV": "mw3ji53g"
+ },
+ {
+  "slug": "meta-koreksi-tanggal-cum-ex-dividen-interim-bayar-3-desember",
+  "category": "Aksi Korporasi",
+  "title": "META [Koreksi] Tanggal Cum-Ex Dividen Interim, Bayar 3 Desember",
+  "deck": "Nusantara Infrastructure mengoreksi tanggal cum dan ex dividen interim Rp3,50 per saham di tiga pasar, tanggal pembayaran tetap 3 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T16:55:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b365a48dc4_cee8d0302e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "META",
+  "tags": [
+   "META",
+   "dividen interim",
+   "corporate action",
+   "KSEI"
+  ],
+  "body": [
+   "PT Nusantara Infrastructure Tbk (META) mengoreksi jadwal pembagian dividen interim tahun buku 2026 yang sebelumnya diumumkan pada 3 November 2026. Lewat surat nomor 046/NI-CORSEC/XI/26 tertanggal 5 November 2026, Corporate Secretary Dahlia Evawani menyampaikan koreksi atas tanggal cum dan ex dividen di Pasar Reguler, Pasar Negosiasi, dan Pasar Tunai. Nilai dividen interim tidak berubah, tetap sebesar Rp60.638.386.179 atau Rp3,50 per saham, sesuai keputusan sirkuler Direksi dan Dewan Komisaris pada 30 Oktober 2026.",
+   "Dalam jadwal yang dikoreksi, batas akhir perdagangan saham dengan status cum dividen di Pasar Reguler dan Negosiasi jatuh pada 11 November 2026, sehingga perdagangan ex dividen di dua pasar itu mulai berlaku 12 November 2026. Untuk Pasar Tunai, batas akhir cum dividen ditetapkan 13 November 2026 dan status ex dividen mulai 16 November 2026. Tanggal pencatatan pemegang saham yang berhak menerima dividen (recording date) adalah 13 November 2026 pukul 16.00 WIB, dengan pembayaran dilakukan 3 Desember 2026 melalui Rekening Dana Nasabah di perusahaan efek atau bank kustodian tempat pemegang saham membuka rekening, disalurkan lewat KSEI.",
+   "Perseroan juga mengingatkan syarat pajak terkait pembagian ini. Pemegang saham wajib pajak dalam negeri, baik badan hukum maupun perorangan, harus menyerahkan NPWP paling lambat 13 November 2026 pukul 16.00 WIB kepada KSEI. Sementara pemegang saham asing dari negara yang punya perjanjian penghindaran pajak berganda dengan Indonesia wajib menyerahkan Surat Keterangan Domisili asli yang masih berlaku per 11 November 2026, diserahkan paling lambat 13 November 2026 pukul 16.00 WIB, agar tarif pajak atas dividen lebih rendah. Keterlambatan atau tidak diserahkannya dokumen itu membuat dividen dipotong pajak sebesar 20 persen."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's SCBD business district reflecting afternoon light, pedestrians crossing a busy street below",
+  "takeaway": "Laporan ini netral bagi META karena isinya semata koreksi tanggal administratif atas cum dan ex dividen, bukan perubahan jumlah dividen atau kondisi keuangan perseroan. Yang tersentuh di sini adalah arus kas, karena pada 3 Desember 2026 perseroan akan mengeluarkan dana sekitar Rp60,64 miliar untuk membayar dividen ini, meski perseroan sendiri menyatakan dampaknya tidak material terhadap operasional maupun keuangan. Tanggal cum dan ex itu penting dipantau investor karena menentukan siapa yang masih berhak mendapat dividen kalau membeli saham sebelum batas waktu, dan siapa yang sudah tidak berhak sesudahnya. Yang perlu dipantau berikutnya adalah batas pencatatan pemegang saham pada 13 November 2026 pukul 16.00 WIB serta realisasi pembayaran pada 3 Desember 2026, selain RUPSLB 26 November 2026 yang sudah dijadwalkan sebelumnya untuk membahas susunan direksi.",
+  "sentimen": "netral"
  },
  {
   "slug": "pnm-dan-abpednas-dorong-literasi-keuangan-desa",
@@ -533,6 +663,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah di lapangan adalah harga sejumlah bahan pokok di Mataram untuk sehari itu, bukan kebijakan harga permanen: beras SPHP dipatok Rp11.600 per kilogram dan Minyakita Rp15.500 per liter, keduanya di bawah harga eceran tertinggi nasional. Yang terdampak langsung adalah warga Mataram berpenghasilan terbatas, sementara Bulog dan Rajawali Nusantara Indonesia berperan sebagai pemasok di sisi BUMN. Siaran pers ini tidak menyebutkan apakah pasar murah seperti ini akan digelar rutin atau hanya menyertai kunjungan kerja menteri kali ini, padahal warga yang diwawancarai justru meminta kepastian jadwal bulanan atau dua mingguan. Yang perlu dipantau adalah apakah Kementerian Perdagangan mengumumkan jadwal pasar murah lanjutan di NTB atau daerah lain, karena itu akan menentukan apakah ini langkah stabilisasi harga yang berkelanjutan atau kegiatan seremonial sekali jalan.",
   "imageV": "mw3d3f3e"
+ },
+ {
+  "slug": "zp-waran-untr-tak-alami-penyesuaian-usai-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "ZP: Waran UNTR Tak Alami [Penyesuaian] usai Dividen Tunai",
+  "deck": "Maybank Sekuritas (ZP) menegaskan dua waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A tidak disesuaikan meski UNTR membagikan dividen tunai pada 28 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T16:24:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d4975bdc9_d3fe23dc27.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "UNTR",
+   "waran terstruktur",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia (ZP) mengumumkan bahwa tidak akan ada penyesuaian terhadap dua waran terstruktur yang diterbitkannya, UNTRZPCZ6A dan UNTRZPCM7A, dengan saham acuan PT United Tractors Tbk (UNTR). Pengumuman ini merujuk pada pemberitahuan UNTR tertanggal 28 Oktober 2026 mengenai pembagian dividen tunai, serta pengumuman Maybank Sekuritas sendiri pada tanggal yang sama terkait hal tersebut.",
+   "Menurut Maybank Sekuritas, keputusan tidak menyesuaikan harga pelaksanaan maupun rasio konversi kedua waran ini didasarkan pada Bagian 3.8 Prospektus waran tertanggal 11 April 2025 serta Term Sheet UNTRZPCZ6A dan UNTRZPCM7A. Perusahaan menegaskan bahwa jika ada keraguan di kemudian hari, pemegang waran harus merujuk langsung ke Prospektus karena syarat dan ketentuan di dalamnya yang berlaku mengikat.",
+   "Pengumuman ini ditandatangani secara elektronik oleh Muhammad Hiksa Reisfansyah dari bagian Equity & Commodity Derivatives Maybank Sekuritas, pada 5 November 2026 pukul 16.24."
+  ],
+  "fotoAdegan": "Rows of large yellow heavy construction excavators and loaders parked in an open equipment storage yard, bright daylight",
+  "takeaway": "Laporan ini netral bagi pemegang waran UNTRZPCZ6A dan UNTRZPCM7A maupun bagi UNTR, karena tidak ada perubahan apa pun pada ketentuan waran, murni hasil penerapan rumus baku yang sudah disepakati sejak waran ini diterbitkan. Pos yang disentuh adalah harga pelaksanaan dan rasio konversi waran, yaitu harga dan jumlah saham yang berhak diperoleh pemegang waran kalau menukarkan waran menjadi saham UNTR. Karena keduanya tidak berubah, tidak ada dampak tambahan ke jumlah saham beredar UNTR maupun ke laba per saham. Yang perlu dipantau selanjutnya adalah apakah UNTR mengambil aksi korporasi lain, seperti pembagian dividen tambahan atau rights issue, yang bisa memicu penyesuaian di masa depan, karena ketentuan Prospektus 11 April 2025 itulah yang akan dijadikan rujukan setiap kali UNTR mengumumkan aksi korporasi baru.",
+  "sentimen": "netral"
  },
  {
   "slug": "rony-balik-untung-kuartal-iii-arus-kas-operasi-justru-negatif",

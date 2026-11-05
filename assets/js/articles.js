@@ -31,6 +31,60 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "menn-penjualan-ambruk-91-saham-tetap-disuspensi",
+  "category": "Aksi Korporasi",
+  "title": "MENN: Penjualan Ambruk 91%, Saham Tetap [Disuspensi]",
+  "deck": "Materi public expose MENN mengungkap penjualan 2025 ambruk ke Rp704 juta dari Rp8,05 miliar dan rugi Rp17,15 miliar, sementara sahamnya masih disuspensi BEI sejak 29 Oktober 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T23:29:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/231a76cc1e_373ac7748e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MENN",
+  "tags": [
+   "MENN",
+   "suspensi saham",
+   "laporan keuangan",
+   "perubahan pengendali"
+  ],
+  "body": [
+   "PT Menn Teknologi Indonesia Tbk (MENN) menyampaikan materi Public Expose Tahunan 2026 yang akan digelar pada 10 November 2026 pukul 15.00. Dalam materi itu, perusahaan mengungkapkan bahwa sahamnya masih berstatus suspensi perdagangan di Bursa Efek Indonesia sejak 29 Oktober 2025. Perusahaan menyebut sudah memenuhi kewajiban pelaporan keuangan auditan tahun 2025 sebagai salah satu syarat utama pengajuan pencabutan suspensi, dan saat ini masih melengkapi permohonan pembukaan suspensi ke BEI.",
+   "Materi tersebut juga memuat riwayat perubahan pengendali. Pada 19 Februari 2025 terjadi pengambilalihan 960.900.000 saham MENN, atau sekitar 67 persen, dari pemegang saham pengendali lama, yang membuat kendali perusahaan beralih ke pihak baru. Dalam surat tertanggal 21 Januari 2026, perusahaan menjelaskan bahwa entitas yang disebut PMJ merupakan perwakilan dari pengendali baru tersebut. Struktur pemegang saham dalam materi ini mencatat gabungan perusahaan pemegang saham pengendali menguasai 11,59 persen saham, sementara 88,41 persen sisanya dipegang publik. Susunan direksi saat ini terdiri dari Cahyadi sebagai Direktur Utama dan Rena Hikmawan sebagai Direktur, sedangkan dewan komisaris diisi Sarah Sartika Putri sebagai Komisaris Utama, Ardi sebagai Komisaris, dan Muhammad Reagy Sukmana sebagai Komisaris Independen.",
+   "Dari sisi keuangan, penjualan bersih Perseroan dan entitas anak anjlok dari Rp8,05 miliar pada 2024 menjadi hanya Rp704 juta pada 2025, sejalan dengan laba kotor yang menyusut dari Rp5,24 miliar menjadi Rp39 juta. Kondisi itu membuat MENN berbalik mencatatkan rugi tahun berjalan Rp17,15 miliar pada 2025, dari sebelumnya membukukan laba Rp411 juta pada 2024. Total ekuitas ikut tergerus dari Rp43 miliar menjadi Rp24,38 miliar, sementara kas dan setara kas menyusut tajam dari Rp4,09 miliar menjadi hanya Rp52 juta. Pada kuartal II 2026, Perseroan mencatat penjualan bersih nihil dengan rugi tahun berjalan Rp301,4 juta, total aset Rp43,62 miliar, total liabilitas Rp19,79 miliar, dan total ekuitas Rp23,83 miliar.",
+   "Untuk ke depan, manajemen memaparkan rencana mengubah haluan usaha dari bisnis instalasi CCTV, GPS tracking, dan penyimpanan server menjadi perusahaan induk investasi teknologi untuk periode 2026-2031. Rencana itu ditopang tiga anak usaha yang disiapkan, yaitu PT Transaksi Pembayaran Digital Indonesia (TPDI) untuk payment gateway, PT Token Merah Putih Indonesia (TMPI) untuk ekosistem token dan ekonomi digital, serta PT Sistem Pelayanan Kesehatan dan Data (SPKD) yang telah mendapat kontrak dengan BPJS, Badan Penyelenggara Jaminan Sosial, untuk membangun dan mengelola Sistem Informasi Manajemen Rumah Sakit. Perusahaan juga berencana menggelar RUPS untuk menyetujui perubahan arah strategi dan restrukturisasi pasca pengambilalihan, serta memusatkan fungsi pendukung seperti SDM, keuangan, legal, dan IT di tingkat holding guna menekan biaya."
+  ],
+  "fotoAdegan": "Technician installing a CCTV camera on an exterior warehouse wall, cables and tools nearby, overcast daylight",
+  "takeaway": "Laporan ini condong negatif bagi MENN, karena penjualan anjlok sekitar 91 persen dan perusahaan berbalik rugi Rp17,15 miliar pada 2025, sementara sahamnya masih tertahan tidak bisa diperdagangkan sejak akhir Oktober 2025. Yang paling terdampak adalah ekuitas, yaitu selisih antara seluruh harta dan utang perusahaan yang jadi bantalan kalau terjadi kerugian, yang menyusut dari Rp43 miliar menjadi Rp24,38 miliar hanya dalam setahun, sementara kas yang bisa langsung dipakai perusahaan tergerus dari Rp4,09 miliar menjadi tinggal Rp52 juta. Di sisi lain, pengambilalihan 67 persen saham oleh pengendali baru membawa rencana bisnis baru lewat tiga anak usaha di bidang pembayaran digital, aset kripto, dan sistem informasi rumah sakit, yang kalau berjalan bisa jadi sumber pendapatan pengganti bisnis lama yang sudah mengecil. Yang perlu dipantau berikutnya adalah pelaksanaan RUPS yang direncanakan untuk mengesahkan restrukturisasi dan perubahan arah usaha, serta progres permohonan pencabutan suspensi saham ke BEI yang menurut materi ini masih berjalan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dooh-rinci-pinjaman-sii-rp5-triliun-bunga-7-5-setahun",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Rinci Pinjaman SII Rp5 Triliun, Bunga [7,5%] Setahun",
+  "deck": "Keterbukaan tambahan DOOH merinci isi perjanjian pinjaman Rp5 triliun dari SII, opsi konversi jadi saham, dan pembaruan daftar pemegang saham perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 November 2026",
+  "isoDate": "2026-11-05T22:36:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/abcf02cd77_26ffc3e799.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "pinjaman pemegang saham",
+   "akuisisi INET",
+   "SII"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menerbitkan keterbukaan informasi tambahan pada 5 November 2026 yang merinci isi Perjanjian Pinjaman Pemegang Saham (Shareholder Loan Agreement) No. 022A/SLA/SII-EMS/IX/2026 tanggal 1 September 2026 antara PT Sinergi Internasional Investama (SII) sebagai pemberi pinjaman dan DOOH sebagai penerima. Plafon pinjaman mencapai Rp5 triliun, sifatnya non-revolving dan bisa ditarik bertahap, dengan bunga 7,5 persen per tahun dari saldo pokok yang sudah ditarik, dihitung harian dan dibayar setiap akhir tahun kalender, selama jangka waktu 10 tahun sejak perjanjian efektif. Pencairan awal sebesar Rp2 triliun dari plafon ini dikhususkan untuk mendanai akuisisi 29,88 persen saham PT Sinergi Inti Andalan Prima Tbk (INET) oleh anak usaha DOOH, PT Cakrawala Nexus Investama (CNI), dari PT Abadi Kreasi Unggul Nusantara seharga Rp300 per lembar.",
+   "Pencairan pertama pinjaman baru bisa dilakukan setelah DOOH memenuhi empat syarat: keterbukaan informasi ke OJK dan publik, laporan penilai independen termasuk pendapat kewajaran, persetujuan RUPS termasuk RUPS Independen, dan persetujuan korporasi internal. Jika syarat ini belum terpenuhi dalam enam bulan sejak tanggal efektif perjanjian, SII dan DOOH akan membahas ulang kelanjutannya, termasuk opsi perpanjangan atau pengakhiran tanpa kewajiban ganti rugi. Pelunasan dipercepat bisa dilakukan tanpa penalti dengan pemberitahuan tertulis 30 hari kalender sebelumnya, fasilitas ini tidak disertai jaminan kebendaan, dan sebagian atau seluruh pokok pinjaman dapat dikonversi menjadi saham baru melalui mekanisme rights issue dengan harga pelaksanaan yang akan ditentukan kemudian berdasarkan rasio harga saham terhadap nilai buku dan/atau rata-rata harga penutupan saham DOOH.",
+   "Dokumen ini juga memuat perhitungan materialitas berdasarkan ekuitas konsolidasian DOOH per 30 Juni 2026 sebesar Rp309,54 miliar. Plafon pinjaman Rp5 triliun setara 16,15 kali ekuitas DOOH, sementara gabungan nilai akuisisi INET dan plafon pinjaman mencapai 22,63 kali ekuitas perusahaan. Dari sisi perbandingan ukuran usaha, total aset INET sebesar Rp6,11 triliun setara 15,03 kali total aset DOOH yang hanya Rp406,51 miliar, dan pendapatan usaha INET sebesar Rp926,45 miliar setara 10,99 kali pendapatan usaha DOOH. Namun laba bersih INET sebesar Rp34,21 miliar justru hanya sekitar 54,06 persen dari laba bersih DOOH yang mencapai Rp63,28 miliar.",
+   "Laporan Pendapat Kewajaran yang menyertai transaksi ini juga direvisi menjadi No. 00113/2.0014-00/BS/06/0080/1/X/2026 tanggal 29 Oktober 2026, menggantikan versi sebelumnya No. 00109 tanggal 29 September 2026, oleh KJPP Toha Okky Heru & Rekan dengan penilai publik Okky Danuza. Revisi menambahkan penjelasan soal kejadian penting setelah tanggal penilaian, analisis proyeksi, rasio keuangan, serta analisis plafon dan penggunaan dana pinjaman, namun tidak mengubah kesimpulan laporan sebelumnya. Selain itu, berdasarkan Laporan Kepemilikan tanggal 13 Oktober 2026, PT Prambanan Investasi Sukses telah menjual seluruh sisa kepemilikannya sebanyak 388.417.412 saham (5,02 persen) pada 12 Oktober 2026 dan tidak lagi menjadi pemegang saham DOOH, sementara Daftar Pemegang Saham per 3 November 2026 mencatat PT Beruntung Berkat Sejahtera memegang 1.167.507.412 saham (15,09 persen). Penawaran Tender Wajib oleh SII yang berakhir 3 November 2026 di harga Rp148 per saham juga tercatat nihil peminat, sehingga SII tetap menguasai 51 persen saham DOOH."
+  ],
+  "fotoAdegan": "Wide-angle view of illuminated digital advertising screens along a busy Jakarta street at dusk, blurred and distant, traffic light trails below",
+  "takeaway": "Laporan tambahan ini condong negatif bagi DOOH, karena rincian yang baru diungkap memperlihatkan plafon pinjaman Rp5 triliun dari pengendalinya sendiri setara 16 kali ekuitas perusahaan, dan jika digabung dengan nilai akuisisi INET mencapai lebih dari 22 kali ekuitas, jauh melampaui kemampuan modal DOOH saat ini. Pos yang tersentuh adalah beban bunga, karena setiap saldo yang ditarik dikenai bunga 7,5 persen per tahun yang membebani laba, dan juga jumlah saham beredar, karena sebagian pokok pinjaman bisa diubah jadi saham baru lewat rights issue sehingga menambah jumlah saham di pasar dan mengecilkan porsi kepemilikan pemegang saham lama atas setiap lembar saham. Perbandingan ukuran usaha juga patut dicermati, sebab pendapatan INET sebelas kali lipat DOOH tetapi laba bersihnya cuma separuh dari laba DOOH, tanda bahwa bisnis yang dibeli ini kurang efisien menghasilkan untung dibanding ukurannya. Yang perlu dipantau berikutnya adalah tenggat enam bulan sejak perjanjian pinjaman efektif pada 1 September 2026, yakni sekitar awal Maret 2027, karena jika syarat pencairan seperti persetujuan RUPS belum terpenuhi sampai saat itu, SII dan DOOH harus membahas ulang kelanjutan perjanjian ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "dooh-akuisisi-29-88-saham-inet-senilai-rp2-triliun-utang",
   "category": "Aksi Korporasi",
   "title": "DOOH Akuisisi 29,88% Saham INET Senilai Rp2 Triliun [Utang]",

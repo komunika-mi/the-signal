@@ -21,6 +21,38 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "menn-penjualan-ambruk-91-saham-tetap-disuspensi",
+  "category": "Aksi Korporasi",
+  "title": "MENN: Penjualan Ambruk 91%, Saham Tetap [Disuspensi]",
+  "deck": "Materi public expose MENN mengungkap penjualan 2025 ambruk ke Rp704 juta dari Rp8,05 miliar dan rugi Rp17,15 miliar, sementara sahamnya masih disuspensi BEI sejak 29 Oktober 2025.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MENN",
+   "suspensi saham",
+   "laporan keuangan",
+   "perubahan pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/231a76cc1e_373ac7748e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-rinci-pinjaman-sii-rp5-triliun-bunga-7-5-setahun",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Rinci Pinjaman SII Rp5 Triliun, Bunga [7,5%] Setahun",
+  "deck": "Keterbukaan tambahan DOOH merinci isi perjanjian pinjaman Rp5 triliun dari SII, opsi konversi jadi saham, dan pembaruan daftar pemegang saham perusahaan.",
+  "date": "5 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "pinjaman pemegang saham",
+   "akuisisi INET",
+   "SII"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/abcf02cd77_26ffc3e799.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dooh-akuisisi-29-88-saham-inet-senilai-rp2-triliun-utang",
   "category": "Aksi Korporasi",
   "title": "DOOH Akuisisi 29,88% Saham INET Senilai Rp2 Triliun [Utang]",
@@ -6437,39 +6469,6 @@ var ARTICLES = [
    "batu bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030234008-65279-0/FinancialStatement-2026-III-INDY.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-gelar-minerba-convex-2026-buka-konsultasi-rkab",
-  "category": "Energi",
-  "title": "ESDM Gelar Minerba Convex 2026, Buka [Konsultasi] RKAB",
-  "deck": "Ditjen Minerba ESDM bersama 18 asosiasi tambang gelar Minerba Convex 2026 di Jakarta, 2-3 November 2026, lengkap dengan konsultasi RKAB untuk badan usaha.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/esdm-gelar-minerba-convex-2026-buka-konsultasi-rkab.jpg",
-  "imageV": "mvv7fo75",
-  "tags": [
-   "minerba",
-   "ESDM",
-   "RKAB",
-   "pertambangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475838-perkuat-sektor-tambang-ditjen-minerba-kementerian-esdm-gelar-minerba-convex-2026-ajang-edukasi-hingga-konsultasi-rkab"
- },
- {
-  "slug": "igar-laba-bersih-naik-40-jadi-rp94-2-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "IGAR: Laba Bersih [Naik] 40% Jadi Rp94,2 Miliar di Kuartal III",
-  "deck": "Produsen kemasan plastik IGAR membukukan laba bersih Rp94,2 miliar untuk sembilan bulan 2026, naik 40 persen, sementara total kewajiban melonjak 41 persen karena utang dagang membesar.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IGAR",
-   "laporan keuangan",
-   "kewajiban",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030232058-65233-0/FinancialStatement-2026-III-IGAR.pdf",
   "sourceLabel": "IDX"
  }
 ];

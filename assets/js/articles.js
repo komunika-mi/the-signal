@@ -28,7 +28,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret: dana sawit yang sebelumnya hanya untuk kelapa sawit kini, lewat Perpres 132/2024, juga bisa dipakai membantu petani kakao dan kelapa, misalnya untuk peremajaan tanaman dan pelatihan. Bersamaan dengan itu, sejak 1 Juni 2026 eksportir komoditas strategis wajib melaporkan data transaksinya lewat sistem digital DSI berdasar PP 24/2026, agar pemerintah bisa mengecek apakah harga ekspor yang dilaporkan memang sesuai harga sebenarnya atau sengaja dibuat lebih rendah supaya pajak dan devisa yang masuk ke negara berkurang. Yang terdampak langsung adalah petani sawit, kakao, dan kelapa yang jadi sasaran baru pendanaan itu, serta perusahaan eksportir yang kini diawasi lebih ketat. Digabung dengan kewajiban biodiesel B50 yang mulai berjalan Juli 2026, arahnya terlihat menuju penguatan kendali negara atas rantai komoditas perkebunan, dengan porsi sawit yang lebih besar diserap untuk kebutuhan domestik sementara ekspor dipantau lebih rapat. Yang akan menunjukkan apakah arah ini benar-benar berjalan adalah laporan realisasi penyaluran dana BPDP ke petani kakao dan kelapa, yang belum disebutkan angkanya dalam siaran ini.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "menn-penjualan-ambruk-91-saham-tetap-disuspensi",

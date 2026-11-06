@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "UEy6H7kTbfI",
+  "title": "KDMP Desa Kembang Dorong Pemberdayaan Petani Lokal",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Koperasi Desa Merah Putih di Desa Kembang, Kulonprogo, Yogyakarta, diharapkan menjadi solusi atas berbagai tantangan yang dihadapi petani setempat.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran koperasi desa dalam memperkuat pemberdayaan ekonomi dan daya saing petani di tingkat lokal."
+ },
+ {
   "id": "uaQVmk3NHFc",
   "title": "Pemerintah dan DPR Bahas Pengangkatan PPPK Penuh Waktu",
   "category": "Ketenagakerjaan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Presiden Prabowo Subianto memanggil Menteri Koordinator Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia untuk membahas hilirisasi industri nasional.",
   "takeaway": "Menyoroti arah kebijakan hilirisasi yang menjadi salah satu fokus ekonomi pemerintah saat ini."
- },
- {
-  "id": "wzu2AMYBpVY",
-  "title": "DPRD Surakarta Selesaikan Pembahasan APBD Perubahan 2026",
-  "category": "Makroekonomi",
-  "program": "Yogyakarta",
-  "summary": "DPRD Surakarta merampungkan pembahasan APBD Perubahan 2026 yang kini menunggu evaluasi dari provinsi. DPRD menyoroti kebiasaan pergantian kebijakan di awal tahun yang kerap menghambat proses anggaran daerah.",
-  "takeaway": "Pembahasan APBD Perubahan menggambarkan arah belanja dan prioritas fiskal daerah yang berdampak pada roda ekonomi lokal."
  }
 ];

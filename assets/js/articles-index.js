@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-tatarstan-jajaki-kerja-sama-kapal-dan-investasi",
+  "category": "Global",
+  "title": "Indonesia-Tatarstan [Jajaki] Kerja Sama Kapal dan Investasi",
+  "deck": "Menko Airlangga bertemu Kepala Republik Tatarstan Rusia membahas peluang investasi di perkapalan, otomotif, kedirgantaraan, farmasi, dan teknologi digital.",
+  "date": "6 November 2026",
+  "image": "assets/img/kapal-batubara.jpg",
+  "tags": [
+   "Rusia",
+   "Tatarstan",
+   "Investasi",
+   "Kawasan Ekonomi Khusus"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7205/terima-rais-kepala-republik-tatarstan-federasi-rusia-menko-airlangga-dorong-penguatan-investasi-dan-kerja-sama-industri-indonesia-tatarstan",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pertamina-gelar-final-lomba-masak-bright-gas-2026",
+  "category": "Energi",
+  "title": "Pertamina Gelar Final Lomba Masak [Bright Gas] 2026",
+  "deck": "Grand final Bright Gas Cooking Competition 2026 digelar di Tangerang Selatan, lengkap dengan promo tukar tambah gas melon ke Bright Gas.",
+  "date": "6 November 2026",
+  "image": "assets/img/pertamina-gelar-final-lomba-masak-bright-gas-2026.jpg",
+  "imageV": "mw56cg8g",
+  "tags": [
+   "Pertamina",
+   "Bright Gas",
+   "LPG subsidi",
+   "Kompetisi Masak"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477018-pertamina-patra-niaga-gelar-grand-final-bgcc-2026-perebutkan-kursus-masak-internasional"
+ },
+ {
+  "slug": "bpdp-perkuat-daya-saing-umkm-perkebunan-di-indovex",
+  "category": "UMKM",
+  "title": "BPDP Perkuat Daya Saing [UMKM] Perkebunan di INDOVEX",
+  "deck": "BPDP ikut pameran INDOVEX 2026 di Kota Batu untuk memperkuat pelatihan, inovasi produk, dan akses pasar bagi UMKM berbasis sawit, kelapa, dan kakao.",
+  "date": "6 November 2026",
+  "image": "assets/img/bpdp-perkuat-daya-saing-umkm-perkebunan-di-indovex.jpg",
+  "imageV": "mw56cgoo",
+  "tags": [
+   "BPDP",
+   "UMKM perkebunan",
+   "INDOVEX 2026",
+   "sawit kelapa kakao"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477011-bpdp-perkuat-daya-saing-umkm-perkebunan-lewat-inovasi-dan-akses-pasar"
+ },
+ {
   "slug": "indf-jelaskan-ke-bei-dana-buyback-rp750-m-setara-1-modal",
   "category": "Aksi Korporasi",
   "title": "INDF Jelaskan ke BEI, Dana [Buyback] Rp750 M Setara 1% Modal",
@@ -35,6 +85,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c6bc3959c2_84fd7547b0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pelindo-teken-mou-kerja-sama-dengan-pelabuhan-los-angeles",
+  "category": "BUMN",
+  "title": "Pelindo Teken [MoU] Kerja Sama dengan Pelabuhan Los Angeles",
+  "deck": "Pelindo dan Port of Los Angeles menandatangani MoU untuk memperluas kerja sama bisnis kepelabuhanan dan konektivitas pelayaran Indonesia-Amerika Serikat.",
+  "date": "6 November 2026",
+  "image": "assets/img/pelindo-teken-mou-kerja-sama-dengan-pelabuhan-los-angeles.jpg",
+  "imageV": "mw56ch66",
+  "tags": [
+   "Pelindo",
+   "Port of Los Angeles",
+   "Pelabuhan",
+   "Maritim"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477004-pelindo-perkuat-kerja-sama-bisnis-dan-konektivitas-maritim-dengan-port-of-los-angeles"
  },
  {
   "slug": "pefindo-tetapkan-rating-ida-untuk-obligasi-ijee-rp1-7-triliun",
@@ -6395,72 +6462,6 @@ var ARTICLES = [
    "utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101000955-65633-0/FinancialStatement-2026-III-VOKS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "usu-deli-serdang-tanam-10-000-pohon-bekal-karier-digital",
-  "category": "Bisnis",
-  "title": "USU Deli Serdang Tanam 10.000 [Pohon], Bekal Karier Digital",
-  "deck": "Linknet dan Pertamina Foundation menanam 10.000 pohon di Kampus 2 USU sekaligus membekali ratusan mahasiswa dengan wawasan karier ekonomi digital.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/usu-deli-serdang-tanam-10-000-pohon-bekal-karier-digital.jpg",
-  "imageV": "mvws2w6s",
-  "tags": [
-   "Linknet",
-   "Pertamina Foundation",
-   "USU",
-   "Penghijauan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475988-enggak-cuma-tanam-10000-pohon-mahasiswa-di-deli-serdang-kini-dibekali-tips-karier-di-era-digital"
- },
- {
-  "slug": "pipa-ganti-nama-jadi-oxala-energy-laba-9-bulan-susut-53",
-  "category": "Aksi Korporasi",
-  "title": "PIPA ganti nama jadi [Oxala Energy], laba 9 bulan susut 53%",
-  "deck": "Oxala Energy International (PIPA) mengganti nama dan domisili ke Jakarta Selatan, sementara laba bersih sembilan bulan turun ke Rp1,26 miliar dari Rp2,66 miliar tahun sebelumnya.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIPA",
-   "Oxala Energy International",
-   "laporan keuangan interim",
-   "ganti nama perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031230241-65526-0/FinancialStatement-2026-III-PIPA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pabrik-sepatu-kek-batang-pekerjakan-174-difabel",
-  "category": "Ketenagakerjaan",
-  "title": "Pabrik Sepatu KEK Batang Pekerjakan 174 [Difabel]",
-  "deck": "PT Yih Quan Footwear Indonesia di KEK Industropolis Batang mempekerjakan 174 penyandang disabilitas dari 6.131 karyawan, lewat asesmen klinis dan kerja sama dengan SLB.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/pabrik-sepatu-kek-batang-pekerjakan-174-difabel.jpg",
-  "imageV": "mvwlmqe8",
-  "tags": [
-   "difabel",
-   "KEK Industropolis Batang",
-   "ketenagakerjaan inklusif",
-   "industri sepatu"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475986-kisah-dari-batang-mengubah-stigma-lewat-peluang-kerja-inklusif-bagi-penyandang-disabilitas"
- },
- {
-  "slug": "visi-atlas-raya-abadi-tambah-saham-lewat-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "VISI: Atlas Raya Abadi Tambah Saham Lewat [PMTHMETD]",
-  "deck": "PT Atlas Raya Abadi menambah 24,14 juta saham VISI senilai sekitar Rp24 miliar lewat penambahan modal tanpa hak memesan efek terlebih dahulu, hak suaranya naik ke 10,53%.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "kepemilikan saham",
-   "PMTHMETD",
-   "Atlas Raya Abadi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-31102026-7721-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

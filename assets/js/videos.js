@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "UEy6H7kTbfI",
+  "title": "KDMP Desa Kembang Dorong Pemberdayaan Petani Lokal",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Koperasi Desa Merah Putih di Desa Kembang, Kulonprogo, Yogyakarta, diharapkan menjadi solusi atas berbagai tantangan yang dihadapi petani setempat.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran koperasi desa dalam memperkuat pemberdayaan ekonomi dan daya saing petani di tingkat lokal.",
+  "terbit": "2026-11-06T15:21:00+00:00"
+ },
+ {
   "id": "uaQVmk3NHFc",
   "title": "Pemerintah dan DPR Bahas Pengangkatan PPPK Penuh Waktu",
   "category": "Ketenagakerjaan",

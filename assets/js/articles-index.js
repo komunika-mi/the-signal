@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bmas-revisi-transaksi-afiliasi-pinjaman-kbank-capai-us-240-juta",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Revisi Transaksi [Afiliasi]: Pinjaman KBank Capai US$240 Juta",
+  "deck": "BMAS mengoreksi laporan transaksi afiliasi dan merinci penarikan pinjaman dari KASIKORNBANK yang telah mencapai US$240 juta dari limit fasilitas US$341 juta.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "Transaksi Afiliasi",
+   "KASIKORNBANK",
+   "Pinjaman Bilateral"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3c52f7619_979a3397ce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "avia-terima-dividen-rp3-33-miliar-dari-dextone-lemindo",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Terima [Dividen] Rp3,33 Miliar dari Dextone Lemindo",
+  "deck": "Avia Avian mengantongi dividen Rp3,33 miliar dari laba ditahan 2025 PT Dextone Lemindo, perusahaan asosiasi yang 16,67 persen sahamnya dimiliki Perseroan.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "dividen",
+   "Dextone Lemindo",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ecd3245bb_e102a555cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-sajikan-ulang-lk-2022-ekuitas-susut-48-restatement",
+  "category": "Aksi Korporasi",
+  "title": "CASH Sajikan Ulang LK 2022, Ekuitas Susut 48% [Restatement]",
+  "deck": "Cashlez mengoreksi penyajian aset takberwujud pada laporan keuangan 2022 sesuai PSAK 238, membuat ekuitas turun Rp88,4 miliar dan hasil komprehensif berubah dari untung jadi rugi.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "restatement laporan keuangan",
+   "PSAK 238",
+   "Cashlez"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f5fda78ec_7f38640e99.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bei-saham-mknt-terkonsentrasi-99-64-di-segelintir-investor",
   "category": "Aksi Korporasi",
   "title": "BEI: Saham MKNT [Terkonsentrasi] 99,64% di Segelintir Investor",
@@ -66,6 +114,22 @@ var ARTICLES = [
    "papan akselerasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/341e3ec4b8_e64a6066ed.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-sisa-dana-buyback-saham-tinggal-rp46-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Sisa Dana [Buyback] Saham Tinggal Rp46 Miliar",
+  "deck": "Prodia Widyahusada melaporkan hasil pembelian kembali saham sejak 20 Agustus hingga 6 November 2026, dengan sisa dana buyback tinggal Rp46,02 miliar.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/03d83386df_f68498cbe6.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6399,71 +6463,6 @@ var ARTICLES = [
    "rugi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031170746-64978-0/FinancialStatement-2026-III-ASJT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tyre-laba-bersih-susut-27-meski-penjualan-naik-9-8",
-  "category": "Aksi Korporasi",
-  "title": "TYRE: Laba Bersih [Susut] 27% Meski Penjualan Naik 9,8%",
-  "deck": "Laba bersih TYRE turun 26,7 persen jadi Rp14,32 miliar untuk sembilan bulan pertama 2026, meski penjualan naik 9,8 persen, karena beban lain-lain dan bunga pinjaman membesar.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TYRE",
-   "laporan keuangan",
-   "laba bersih",
-   "industri ban"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031171141-65606-0/FinancialStatement-2026-III-TYRE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bina-laba-interim-naik-jadi-rp72-8-miliar-ekuitas-turun-8-9",
-  "category": "Aksi Korporasi",
-  "title": "BINA: Laba Interim Naik Jadi Rp72,8 Miliar, [Ekuitas] Turun 8,9%",
-  "deck": "Bank Ina Perdana mencatat laba bersih sembilan bulan Rp72,8 miliar, naik lebih dari dua kali lipat, tapi ekuitasnya tergerus kerugian belum terealisasi dari portofolio surat berharga.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BINA",
-   "laporan keuangan",
-   "perbankan",
-   "ekuitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031170201-65565-0/FinancialStatement-2026-III-BINA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bri-peduli-kembangkan-brinita-di-bandung",
-  "category": "BUMN",
-  "title": "BRI Peduli Kembangkan [BRInita] di Bandung",
-  "deck": "BRI Peduli mengajak jurnalis Fellowship Journalism 2026 menanam langsung di program urban farming BRInita Buruan Sae Pajajaran Hegar, Kota Bandung.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/bri-peduli-kembangkan-brinita-di-bandung.jpg",
-  "imageV": "mvw7pc1y",
-  "tags": [
-   "BRI Peduli",
-   "BRInita",
-   "urban farming",
-   "Bandung"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475934-fellowship-journalism-menanam-di-brinita-buruan-sae-pajajaran-hegar-kota-bandung"
- },
- {
-  "slug": "dgns-rugi-melebar-ke-rp4-47-miliar-meski-pendapatan-naik-12",
-  "category": "Aksi Korporasi",
-  "title": "DGNS: Rugi [Melebar] ke Rp4,47 Miliar Meski Pendapatan Naik 12%",
-  "deck": "Laporan interim sembilan bulan DGNS mencatat pendapatan naik 12 persen, namun rugi bersih melebar jadi Rp4,47 miliar dan arus kas operasi berbalik negatif.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGNS",
-   "laporan keuangan",
-   "kesehatan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031164212-65578-0/FinancialStatement-2026-III-DGNS.pdf",
   "sourceLabel": "IDX"
  }
 ];

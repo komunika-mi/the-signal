@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bmas-revisi-transaksi-afiliasi-pinjaman-kbank-capai-us-240-juta",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Revisi Transaksi [Afiliasi]: Pinjaman KBank Capai US$240 Juta",
+  "deck": "BMAS mengoreksi laporan transaksi afiliasi dan merinci penarikan pinjaman dari KASIKORNBANK yang telah mencapai US$240 juta dari limit fasilitas US$341 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T19:21:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3c52f7619_979a3397ce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "Transaksi Afiliasi",
+   "KASIKORNBANK",
+   "Pinjaman Bilateral"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) mengoreksi laporan keterbukaan informasi sebelumnya tertanggal 20 Oktober 2026 dan menyampaikan ulang rincian transaksi afiliasi tertanggal 21 Oktober 2026. Transaksi ini berupa pinjaman bilateral dari KASIKORNBANK PUBLIC COMPANY LIMITED (KBank), pemegang saham pengendali tertinggi BMAS, dengan nilai transaksi yang dilaporkan sebesar US$185 juta.",
+   "Pinjaman ini merupakan bagian dari fasilitas bilateral dengan limit total US$341 juta, bertenor sampai dua tahun sejak masing-masing tanggal penarikan, dengan bunga mengikuti SOFR ditambah margin sesuai kondisi pasar. Dari total limit itu, US$235 juta sudah memiliki perjanjian underlying dengan KBank. Perseroan menyebut dana ini untuk mendukung likuiditas jangka panjang dan memperbesar kapasitas penyaluran kredit ke nasabah, dengan penarikan dilakukan bertahap.",
+   "Rinciannya, BMAS melakukan penarikan pertama US$55 juta pada 21 Agustus 2026. Penarikan berikutnya senilai CNH201 juta (setara US$30 juta) efektif pada 20 Oktober 2026, disusul dana ekuivalen dolar AS sebesar US$155 juta yang efektif pada 21 Oktober 2026. Dengan rangkaian itu, total penarikan fasilitas hingga 21 Oktober 2026 mencapai US$240 juta.",
+   "KBank menguasai BMAS secara tidak langsung melalui anak usahanya, KASIKORN VISION FINANCIAL COMPANY PTE. LTD. (KVF), dengan kepemilikan 86,03 persen, atau 89,48 persen bila dihitung total kepemilikan grup KASIKORNBANK. Perseroan menyatakan transaksi ini tidak mengandung benturan kepentingan sesuai POJK 42/2020, dan laporan ditandatangani oleh Presiden Direktur Kasemsri Charoensiddhi."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's central business district at dusk, lights turning on, traffic below",
+  "takeaway": "Laporan ini netral bagi BMAS karena pinjaman dari pemegang saham utama ini adalah pendanaan rutin dengan bunga mengikuti pasar, bukan sinyal tekanan keuangan maupun ekspansi luar biasa yang mengubah profil risiko bank secara drastis. Transaksi ini menambah beban bunga karena dikenakan SOFR plus margin, tapi di sisi lain menambah dana segar yang bisa disalurkan jadi kredit ke nasabah, sehingga dampak akhirnya ke laba tergantung seberapa produktif dana itu dipakai. Dari limit fasilitas US$341 juta, baru US$240 juta yang sudah ditarik dan US$235 juta yang sudah terikat perjanjian underlying, artinya masih ada sekitar US$101 juta sisa fasilitas yang bisa ditarik BMAS ke depan. Yang perlu dipantau berikutnya adalah realisasi penarikan sisa fasilitas itu serta perjanjian underlying untuk sisa sekitar US$106 juta yang belum terikat, karena itu akan menentukan seberapa besar utang BMAS kepada pemegang sahamnya bertambah dari sini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "avia-terima-dividen-rp3-33-miliar-dari-dextone-lemindo",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Terima [Dividen] Rp3,33 Miliar dari Dextone Lemindo",
+  "deck": "Avia Avian mengantongi dividen Rp3,33 miliar dari laba ditahan 2025 PT Dextone Lemindo, perusahaan asosiasi yang 16,67 persen sahamnya dimiliki Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T18:15:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ecd3245bb_e102a555cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "dividen",
+   "Dextone Lemindo",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa pada 6 November 2026 perusahaan menerima pendapatan dividen dari PT Dextone Lemindo (Dextone), perusahaan asosiasi yang 16,67 persen sahamnya dimiliki AVIA. Dividen tersebut berasal dari laba ditahan Dextone untuk tahun buku 2025, dengan nilai yang diterima AVIA sebesar Rp3.333.333.333.",
+   "Laporan ditandatangani oleh Direktur AVIA, Kurnia Hadi Sinanto, dan disampaikan secara resmi oleh Sekretaris Perusahaan, Hera Septi Astuti. Dalam dokumen tersebut, manajemen AVIA menegaskan bahwa penerimaan dividen ini tidak membawa dampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha Perseroan.",
+   "Perusahaan tidak merinci lebih jauh bagaimana dana dividen ini akan digunakan, dan tidak ada perubahan struktur kepemilikan AVIA di Dextone yang disebutkan dalam laporan."
+  ],
+  "fotoAdegan": "Workers moving stacked paint cans along a conveyor belt inside a brightly lit paint factory warehouse, blurred labels",
+  "takeaway": "Laporan ini netral bagi AVIA: dana sebesar Rp3,33 miliar memang masuk ke kas Perseroan, tapi nilainya kecil dibandingkan skala bisnis AVIA sehari-hari sehingga dampaknya terhadap kondisi keuangan perusahaan secara keseluruhan tipis, sesuai pengakuan manajemen sendiri. Pos yang tersentuh adalah pendapatan lain-lain dan arus kas masuk, karena dividen dari perusahaan asosiasi dicatat di luar pendapatan usaha utama tapi tetap menambah laba bersih dan kas yang dipegang AVIA. Pelaku pasar memperhatikan arus kas karena ini menunjukkan seberapa banyak uang tunai riil yang bisa dipakai perusahaan untuk investasi, bayar utang, atau bagi dividen ke pemegang sahamnya sendiri, bukan sekadar angka laba di atas kertas. Yang perlu dipantau selanjutnya adalah bagaimana pos pendapatan dari Dextone ini tercermin di laporan keuangan tahunan AVIA untuk periode 2026, yang biasanya dirilis pada awal tahun berikutnya, serta apakah Dextone kembali membagikan dividen dari laba tahun-tahun mendatang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cash-sajikan-ulang-lk-2022-ekuitas-susut-48-restatement",
+  "category": "Aksi Korporasi",
+  "title": "CASH Sajikan Ulang LK 2022, Ekuitas Susut 48% [Restatement]",
+  "deck": "Cashlez mengoreksi penyajian aset takberwujud pada laporan keuangan 2022 sesuai PSAK 238, membuat ekuitas turun Rp88,4 miliar dan hasil komprehensif berubah dari untung jadi rugi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T18:12:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f5fda78ec_7f38640e99.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "restatement laporan keuangan",
+   "PSAK 238",
+   "Cashlez"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan kembali laporan keuangan konsolidasian auditan posisi 31 Desember 2022, setelah manajemen mengoreksi cara penyajian aset takberwujud agar sesuai dengan standar akuntansi PSAK 238. Surat keterbukaan ditandatangani Presiden Direktur Willy Chandry pada 6 November 2026. Perusahaan menegaskan koreksi ini tidak mengubah rugi tahun berjalan 2022 yang tetap tercatat Rp9,8 miliar.",
+   "Dampak terbesar terlihat pada aset takberwujud, yang turun dari Rp101,8 miliar menjadi Rp13,4 miliar, atau susut Rp88,4 miliar setara 87 persen. Akibatnya, total aset Cashlez per akhir 2022 turun dari Rp225,5 miliar menjadi Rp137,1 miliar, turun 39 persen, dan seluruh penurunan itu berasal dari koreksi aset takberwujud tersebut.",
+   "Di sisi ekuitas, surplus revaluasi dalam pos penghasilan komprehensif lain turun dari Rp72,4 miliar menjadi Rp538 juta karena surplus revaluasi aset takberwujud senilai Rp88,4 miliar dihapus seluruhnya, sementara saldo kepentingan non-pengendali turun dari Rp23,9 miliar menjadi Rp7,3 miliar. Total ekuitas perusahaan merosot dari Rp184,5 miliar menjadi Rp96,2 miliar, turun 48 persen, dengan Rp71,8 miliar dari penurunan itu berasal dari ekuitas pemilik entitas induk dan Rp16,5 miliar dari kepentingan non-pengendali. Penghasilan komprehensif tahun 2022 yang sebelumnya tercatat untung Rp80,3 miliar kini menjadi rugi komprehensif Rp8,0 miliar.",
+   "Laporan auditor independen tetap memberikan opini wajar tanpa modifikasi, namun menyertakan penekanan suatu hal yang merujuk ke Catatan 40 soal penyajian kembali ini. Auditor juga menyoroti tiga hal audit utama, yaitu uji penurunan nilai goodwill Rp44,79 miliar dari akuisisi PT Softorb Technology Indonesia, revaluasi aset tetap senilai Rp19,47 miliar atau 14 persen dari total aset, serta cadangan kerugian piutang usaha Rp805 juta dari total piutang Rp12,73 miliar."
+  ],
+  "fotoAdegan": "A small shop cashier swiping a customer's card on a handheld payment terminal, soft indoor lighting, blurred products in background",
+  "takeaway": "Koreksi ini condong negatif bagi Cashlez, karena yang tadinya dilaporkan sebagai untung komprehensif Rp80,3 miliar pada 2022 kini berubah menjadi rugi komprehensif Rp8,0 miliar setelah surplus penilaian ulang aset takberwujud senilai Rp88,4 miliar dihapus. Pos yang paling tersentuh adalah ekuitas, yaitu total kekayaan bersih perusahaan setelah dikurangi utang, yang susut 48 persen dari Rp184,5 miliar menjadi Rp96,2 miliar, sehingga bantalan modal Cashlez untuk menyerap kerugian menjadi jauh lebih tipis dari yang selama ini terlihat di laporan. Penghasilan komprehensif lain, yaitu pos di ekuitas yang mencatat untung atau rugi yang belum terealisasi seperti penilaian ulang aset, juga turun drastis dari Rp90,2 miliar menjadi Rp1,8 miliar karena surplus dari aset takberwujud ternyata tidak memenuhi syarat untuk diakui menurut PSAK 238. Rugi bersih tahun berjalan 2022 sendiri tidak berubah, tetap Rp9,8 miliar, jadi koreksi ini murni soal cara mencatat kekayaan di atas kertas, bukan soal kas yang hilang. Yang perlu dipantau selanjutnya adalah apakah laporan keuangan periode-periode setelah 2022, termasuk laporan tahun berjalan 2026, ikut disesuaikan dengan basis baru ini, serta apakah ada tindak lanjut dari OJK atau BEI terkait kualitas penyajian laporan keuangan Cashlez selama ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bei-saham-mknt-terkonsentrasi-99-64-di-segelintir-investor",
   "category": "Aksi Korporasi",
   "title": "BEI: Saham MKNT [Terkonsentrasi] 99,64% di Segelintir Investor",
@@ -104,6 +184,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty desks with unlit computer monitors in a quiet technology office, soft morning light through windows",
   "takeaway": "Status ini negatif bagi MENN, sebab alasan pemantauan khususnya bukan sekadar urusan administratif melainkan ketidakmampuan membukukan pendapatan usaha yang tumbuh. Pos yang tersentuh adalah pendapatan, sumber utama kas perusahaan untuk membiayai operasional sehari hari, sehingga pelaku pasar akan mempertanyakan bagaimana MENN menutup beban tanpa pendapatan yang bertambah. Saham yang masuk pemantauan khusus biasanya juga berpindah ke mekanisme lelang berkala, bukan tawar menawar langsung seperti saham reguler, sehingga lebih sulit diperjualbelikan dengan cepat dibanding sebelumnya. Yang perlu dipantau berikutnya adalah tanggal efektif 9 November 2026 saat status ini mulai berlaku, serta laporan keuangan periode mendatang untuk melihat apakah pendapatan MENN mulai bergerak sehingga bisa keluar dari daftar ini.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "prda-sisa-dana-buyback-saham-tinggal-rp46-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Sisa Dana [Buyback] Saham Tinggal Rp46 Miliar",
+  "deck": "Prodia Widyahusada melaporkan hasil pembelian kembali saham sejak 20 Agustus hingga 6 November 2026, dengan sisa dana buyback tinggal Rp46,02 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:51:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/03d83386df_f68498cbe6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) melaporkan hasil pelaksanaan pembelian kembali saham per 6 November 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia. Laporan ini merujuk pada keterbukaan informasi 19 Agustus 2026 tentang rencana buyback saat kondisi pasar berfluktuasi signifikan, sesuai Pasal 12 ayat 1 POJK No. 13 Tahun 2023. Sejak transaksi pertama pada 20 Agustus 2026, Prodia telah membeli kembali saham hampir setiap hari perdagangan, dengan total akumulasi sekitar 33,8 juta saham atau sekitar 3,6 persen dari total saham yang tercatat di BEI.",
+   "Harga rata-rata pembelian bergerak naik sepanjang periode ini, dari Rp2.548 per saham pada transaksi pertama 20 Agustus menjadi Rp3.684 per saham pada transaksi terbaru 6 November 2026 sebanyak 412.900 saham. Pembelian terbesar dalam satu hari terjadi pada 7 September 2026 sejumlah 2.616.500 saham atau 0,28 persen dari total saham tercatat, dengan harga rata-rata Rp2.795. Sisa dana yang dialokasikan untuk program ini terus menyusut, dari Rp148,48 miliar setelah transaksi pertama menjadi tinggal Rp46,02 miliar pada 6 November 2026.",
+   "Dalam formulir laporan, Corporate Secretary Marina Eka Amalia menyatakan bahwa pelaksanaan buyback ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan. Laporan semacam ini wajib disampaikan secara berkala selama program buyback dalam kondisi pasar fluktuatif masih berjalan."
+  ],
+  "fotoAdegan": "Medical laboratory technicians processing rows of blood sample tubes on an automated analyzer under bright clinical lighting",
+  "takeaway": "Program buyback ini condong positif bagi Prodia, karena perusahaan konsisten menjalankan rencana yang diumumkan sejak 19 Agustus 2026 dan sudah menghabiskan sebagian besar dana yang dialokasikan, terlihat dari sisa dana yang menyusut dari Rp148,48 miliar di hari pertama menjadi Rp46,02 miliar pada 6 November. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu laba perusahaan dibagi jumlah lembar saham yang ada di pasar. Setiap saham yang dibeli balik oleh Prodia ditarik dari peredaran, sehingga jumlah lembarnya mengecil dan laba yang sama bisa terbagi ke lebih sedikit saham, yang membuat laba per saham berpotensi naik. Prodia juga tetap membeli meski harga rata-rata sudah naik dari Rp2.548 ke Rp3.684 sepanjang periode ini, menandakan perusahaan konsisten menjalankan programnya walau sahamnya sudah lebih mahal dari saat program dimulai. Yang perlu dipantau berikutnya adalah seberapa cepat sisa dana Rp46,02 miliar ini terpakai, sebab begitu dana itu habis program buyback otomatis berhenti dan investor perlu menunggu pengumuman resmi Prodia soal kelanjutan atau penghentian program ini.",
+  "sentimen": "positif"
  },
  {
   "slug": "cadangan-devisa-ri-naik-tipis-ke-us-146-8-miliar",

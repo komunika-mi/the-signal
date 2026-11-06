@@ -49,7 +49,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah lajunya, bukan arahnya: uang primer tetap tumbuh, tapi dari 9,3 persen ke 7,0 persen dalam sebulan, dengan uang tunai yang beredar justru makin cepat naik (11,5 persen) sementara simpanan bank di BI mengerut (2,4 persen). Data ini terutama relevan bagi perbankan dan pelaku pasar uang, karena jadi salah satu sinyal tentang kondisi likuiditas yang pada akhirnya memengaruhi seberapa longgar bank memberi kredit ke pelaku usaha. Ada dua kemungkinan arah dari sini: perlambatan ini cuma fluktuasi bulanan biasa, atau awal dari pengetatan likuiditas yang lebih bertahan. Kejelasannya baru bisa dibaca dari rilis uang primer November 2026 dan data uang beredar luas (M2) berikutnya, apakah tren uang kartal naik dan giro turun ini berlanjut atau berbalik.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pertumbuhan-harga-rumah-primer-melambat-di-triwulan-iii",
@@ -76,7 +76,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Dua indikator dalam survei ini bergerak ke arah yang sama: kenaikan harga rumah baru melambat untuk kuartal kedua berturut-turut, dan penjualannya justru makin terkontraksi dibanding setahun lalu. Yang paling kena dampak adalah pengembang, karena mereka harus menambal pembangunan dari kas sendiri saat penjualan melemah, dan calon pembeli yang mayoritas bergantung pada kredit KPR untuk bisa memiliki rumah. Arah ini mengarah ke pasar rumah primer yang masih lesu, bukan sekadar perlambatan sesaat, karena pelemahan harga dan penjualan terjadi bersamaan. Yang akan memastikan apakah tren ini berlanjut atau mulai berbalik adalah hasil SHPR triwulan IV 2026 dan perkembangan suku bunga kredit rumah, mengingat sebagian besar pembelian rumah bergantung pada KPR.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "totl-bagikan-dividen-interim-rp136-4-miliar-rp40-per-saham",

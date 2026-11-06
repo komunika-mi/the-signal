@@ -12,8 +12,30 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-06T04:14:13.120+07:00",
+ "diperbarui": "2026-11-07T03:34:49.367+07:00",
  "entri": [
+  {
+   "id": "2026-11-06-2",
+   "edisi": "2026-11-06",
+   "benang": "Likuiditas dan Properti Melambat, Devisa Ditopang Utang",
+   "klaim": "Likuiditas dan sektor riil domestik mengarah ke pendinginan sementara angka makro seperti cadangan devisa hanya dijaga lewat instrumen utang dan kebijakan devisa, bukan oleh ekspor.",
+   "penanda": "Data penyaluran KPR atau uang primer November dari Bank Indonesia",
+   "tenggat": null,
+   "tenggatLabel": "data penyaluran KPR atau uang primer November dari Bank Indonesia",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-06-1",
+   "edisi": "2026-11-06",
+   "benang": "Dari Tekanan Utang ke Gagal Bayar Resmi",
+   "klaim": "Arah kredit emiten kecil-menengah sudah bergerak dari tekanan menjadi realisasi risiko kredit dan kualitas pengungkapan yang memburuk, lewat status gagal bayar resmi WIKA, dan langkah selanjutnya akan menentukan apakah masalah ini berhenti di WIKA atau menjalar ke emiten lain.",
+   "penanda": "Langkah restrukturisasi atau standstill yang diumumkan WIKA pascastatus idD",
+   "tenggat": null,
+   "tenggatLabel": "pascastatus idD ini",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-05-3",
    "edisi": "2026-11-05",
@@ -1410,7 +1432,7 @@ var RAPOR = {
    "penanda": "Pernyataan atau kebijakan resmi pertama Suahasil Nazara soal asumsi harga minyak dan subsidi BBM, serta pergerakan harga minyak dunia",
    "tenggat": "2026-09-21",
    "tenggatLabel": "dalam sepekan ke depan",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {

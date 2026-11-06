@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "uaQVmk3NHFc",
+  "title": "Pemerintah dan DPR Bahas Pengangkatan PPPK Penuh Waktu",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "Pemerintah dan DPR menyepakati perubahan status pegawai P3K paruh waktu menjadi P3K penuh waktu, langkah yang berdampak pada anggaran negara dan kesejahteraan tenaga kerja di sektor pemerintahan.",
+  "takeaway": "Perubahan status kepegawaian ini relevan bagi pembaca karena menyangkut anggaran negara dan prospek kesejahteraan ribuan tenaga kerja sektor publik.",
+  "terbit": "2026-11-06T10:23:23+00:00"
+ },
+ {
   "id": "_-0MCUGj8HE",
   "title": "Ekonomi Indonesia Tumbuh 5,47 Persen di Kuartal III 2026",
   "category": "Makroekonomi",

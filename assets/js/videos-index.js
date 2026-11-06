@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "uaQVmk3NHFc",
+  "title": "Pemerintah dan DPR Bahas Pengangkatan PPPK Penuh Waktu",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "Pemerintah dan DPR menyepakati perubahan status pegawai P3K paruh waktu menjadi P3K penuh waktu, langkah yang berdampak pada anggaran negara dan kesejahteraan tenaga kerja di sektor pemerintahan.",
+  "takeaway": "Perubahan status kepegawaian ini relevan bagi pembaca karena menyangkut anggaran negara dan prospek kesejahteraan ribuan tenaga kerja sektor publik."
+ },
+ {
   "id": "_-0MCUGj8HE",
   "title": "Ekonomi Indonesia Tumbuh 5,47 Persen di Kuartal III 2026",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Yogyakarta",
   "summary": "DPRD Surakarta merampungkan pembahasan APBD Perubahan 2026 yang kini menunggu evaluasi dari provinsi. DPRD menyoroti kebiasaan pergantian kebijakan di awal tahun yang kerap menghambat proses anggaran daerah.",
   "takeaway": "Pembahasan APBD Perubahan menggambarkan arah belanja dan prioritas fiskal daerah yang berdampak pada roda ekonomi lokal."
- },
- {
-  "id": "_4AR5dvmMMo",
-  "title": "Pertamina Hadirkan Inovasi Energi Berkelanjutan",
-  "category": "Energi",
-  "program": "Bisnis Bareng Orang Hebat",
-  "summary": "Pertamina memperkenalkan sejumlah terobosan di bidang energi berkelanjutan sebagai bagian dari upaya menjaga ketahanan energi nasional.",
-  "takeaway": "Langkah inovasi energi dari BUMN sebesar Pertamina relevan bagi pembaca karena berkaitan dengan ketahanan energi dan daya saing industri nasional."
  }
 ];

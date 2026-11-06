@@ -106,6 +106,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "cadangan-devisa-ri-naik-tipis-ke-us-146-8-miliar",
+  "category": "Moneter",
+  "title": "Cadangan Devisa RI [Naik] Tipis ke US$146,8 Miliar",
+  "deck": "Bank Indonesia mencatat cadangan devisa Oktober 2026 naik jadi US$146,8 miliar, cukup membiayai 5,3 bulan impor, ditopang pinjaman pemerintah dan penerimaan pajak.",
+  "image": "assets/img/cadangan-devisa-ri-naik-tipis-ke-us-146-8-miliar.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:49:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476952-cadangan-devisa-indonesia-oktober-2026-tembus-us1468-miliar-bi-ungkap-faktor-penopang-rupiah",
+  "tags": [
+   "cadangan devisa",
+   "bank indonesia",
+   "rupiah",
+   "utang luar negeri"
+  ],
+  "body": [
+   "Bank Indonesia melaporkan posisi cadangan devisa negara pada akhir Oktober 2026 mencapai US$146,8 miliar, naik dari US$146,3 miliar pada September. Jumlah ini setara dengan kemampuan membiayai 5,3 bulan kebutuhan impor dan pembayaran utang luar negeri pemerintah, yang menjadi salah satu ukuran standar seberapa kuat Indonesia menahan gejolak di pasar keuangan global.",
+   "Direktur Eksekutif Departemen Komunikasi BI, Ramdan Denny Prakoso, menyebut kenaikan tersebut terutama berasal dari penarikan pinjaman luar negeri oleh pemerintah serta penerimaan dari pajak dan jasa. Di sisi lain, sebagian devisa juga terpakai untuk membayar utang luar negeri pemerintah yang jatuh tempo dan untuk membiayai langkah BI menjaga nilai tukar rupiah di pasar.",
+   "Dengan kata lain, kenaikan saldo cadangan devisa bulan ini bukan semata hasil dari surplus perdagangan atau derasnya dolar dari ekspor, melainkan juga ditopang oleh utang baru pemerintah dari luar negeri. Pada saat yang sama, BI tetap harus mengeluarkan sebagian cadangan untuk meredam tekanan terhadap rupiah, tanda bahwa pasar valuta asing belum sepenuhnya tenang."
+  ],
+  "fotoAdegan": "Wide view of a busy Indonesian seaport with container ships docked and cranes loading cargo under bright daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/06/6aeda2193a8bc-cadangan-devisa-indonesia-oktober-2026-tembus-us1468-miliar-bi-ungkap-faktor-penopang-rupiah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah cadangan devisa naik tipis sekitar US$500 juta, dari US$146,3 miliar menjadi US$146,8 miliar, dan BI menyebut pendorong utamanya adalah pinjaman baru pemerintah dari luar negeri serta penerimaan pajak dan jasa, bukan dari ekspor yang membesar. Pihak yang paling langsung terkait adalah pemerintah dan BI sendiri sebagai pengelola cadangan ini, sementara dampaknya menjalar ke pelaku usaha yang bergantung pada impor, karena bantalan 5,3 bulan impor berarti pasokan devisa masih relatif aman untuk sementara waktu. Arahnya terlihat ganda, di satu sisi saldo bertambah, tapi sebagian penambahnya adalah utang baru, sementara BI juga memakai sebagian cadangan untuk menahan rupiah lewat intervensi pasar, sehingga kenaikan ini lebih mencerminkan kombinasi pinjaman dan upaya stabilisasi ketimbang penguatan dari aktivitas ekonomi domestik. Yang akan memperjelas apakah kenaikan ini bisa berlanjut tanpa terus bergantung pada pinjaman baru adalah data cadangan devisa November 2026, yang biasanya diumumkan BI pada awal Desember.",
+  "imageV": "mw4v2y2p"
+ },
+ {
   "slug": "realisasi-investasi-rp3-923-2-triliun-topang-pergeseran-kerja",
   "category": "Makroekonomi",
   "title": "Realisasi [Investasi] Rp3.923,2 Triliun Topang Pergeseran Kerja",
@@ -131,7 +157,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini: insentif pajak penghasilan bagi pekerja bergaji di bawah Rp10 juta, yang saat ini hanya berlaku di sebagian sektor, dijanjikan meluas ke seluruh sektor pada 2027, dibarengi diskon separuh iuran asuransi kecelakaan kerja dan kematian. Yang terdampak jelas pekerja bergaji menengah ke bawah dan pekerja sektor tradisional seperti tekstil serta alas kaki yang disebut tertekan, sementara pekerja di sektor jasa seperti telekomunikasi dan perhotelan disebut tumbuh. Arahnya terlihat bahwa pemerintah tidak berusaha menahan pergeseran dari manufaktur ke jasa dan sektor informal, melainkan menopang pekerja yang terdampak lewat insentif pajak, pelatihan vokasi, dan iuran asuransi yang lebih murah, sambil mendorong investasi ke luar Jawa. Yang akan menunjukkan apakah langkah ini serius atau sekadar wacana adalah apakah perluasan insentif pajak ke seluruh sektor pada 2027 benar terealisasi, dan apakah target magang 150 ribu peserta serta vokasi 300 ribu peserta pada tahun yang sama tercapai.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "esdm-serahkan-137-hektare-lahan-tambang-ke-kopassus",
@@ -548,7 +574,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah lajunya, bukan arahnya: uang primer tetap tumbuh, tapi dari 9,3 persen ke 7,0 persen dalam sebulan, dengan uang tunai yang beredar justru makin cepat naik (11,5 persen) sementara simpanan bank di BI mengerut (2,4 persen). Data ini terutama relevan bagi perbankan dan pelaku pasar uang, karena jadi salah satu sinyal tentang kondisi likuiditas yang pada akhirnya memengaruhi seberapa longgar bank memberi kredit ke pelaku usaha. Ada dua kemungkinan arah dari sini: perlambatan ini cuma fluktuasi bulanan biasa, atau awal dari pengetatan likuiditas yang lebih bertahan. Kejelasannya baru bisa dibaca dari rilis uang primer November 2026 dan data uang beredar luas (M2) berikutnya, apakah tren uang kartal naik dan giro turun ini berlanjut atau berbalik.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "pertumbuhan-harga-rumah-primer-melambat-di-triwulan-iii",
@@ -575,7 +601,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Dua indikator dalam survei ini bergerak ke arah yang sama: kenaikan harga rumah baru melambat untuk kuartal kedua berturut-turut, dan penjualannya justru makin terkontraksi dibanding setahun lalu. Yang paling kena dampak adalah pengembang, karena mereka harus menambal pembangunan dari kas sendiri saat penjualan melemah, dan calon pembeli yang mayoritas bergantung pada kredit KPR untuk bisa memiliki rumah. Arah ini mengarah ke pasar rumah primer yang masih lesu, bukan sekadar perlambatan sesaat, karena pelemahan harga dan penjualan terjadi bersamaan. Yang akan memastikan apakah tren ini berlanjut atau mulai berbalik adalah hasil SHPR triwulan IV 2026 dan perkembangan suku bunga kredit rumah, mengingat sebagian besar pembelian rumah bergantung pada KPR.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "totl-bagikan-dividen-interim-rp136-4-miliar-rp40-per-saham",

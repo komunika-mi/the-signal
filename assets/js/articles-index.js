@@ -69,6 +69,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cadangan-devisa-ri-naik-tipis-ke-us-146-8-miliar",
+  "category": "Moneter",
+  "title": "Cadangan Devisa RI [Naik] Tipis ke US$146,8 Miliar",
+  "deck": "Bank Indonesia mencatat cadangan devisa Oktober 2026 naik jadi US$146,8 miliar, cukup membiayai 5,3 bulan impor, ditopang pinjaman pemerintah dan penerimaan pajak.",
+  "date": "6 November 2026",
+  "image": "assets/img/cadangan-devisa-ri-naik-tipis-ke-us-146-8-miliar.jpg",
+  "imageV": "mw4v2y2p",
+  "tags": [
+   "cadangan devisa",
+   "bank indonesia",
+   "rupiah",
+   "utang luar negeri"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476952-cadangan-devisa-indonesia-oktober-2026-tembus-us1468-miliar-bi-ungkap-faktor-penopang-rupiah"
+ },
+ {
   "slug": "realisasi-investasi-rp3-923-2-triliun-topang-pergeseran-kerja",
   "category": "Makroekonomi",
   "title": "Realisasi [Investasi] Rp3.923,2 Triliun Topang Pergeseran Kerja",
@@ -6447,22 +6464,6 @@ var ARTICLES = [
    "rugi bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031164212-65578-0/FinancialStatement-2026-III-DGNS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "luck-balik-untung-laba-rp1-7-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "LUCK Balik Untung, [Laba] Rp1,7 Miliar di Kuartal III 2026",
-  "deck": "Pendapatan Sentral Mitra Informatika naik 41 persen jadi Rp92,1 miliar dalam sembilan bulan 2026, mengantarkan laba bersih Rp1,7 miliar setelah rugi tahun lalu.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LUCK",
-   "laporan keuangan",
-   "kuartal III 2026",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031160750-64566-0/FinancialStatement-2026-III-LUCK.pdf",
   "sourceLabel": "IDX"
  }
 ];

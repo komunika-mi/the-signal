@@ -54,7 +54,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Sejauh ini yang konkret baru sebatas minat awal, bukan kesepakatan mengikat: Ak Bars Shipbuilding disebut tertarik bekerja sama dengan mitra kapal Indonesia, dan Tatarstan diajak memanfaatkan 25 Kawasan Ekonomi Khusus yang sudah menampung investasi Rp382,1 triliun. Pihak yang berpotensi terdampak adalah industri perkapalan nasional jika kerja sama dengan Ak Bars berlanjut jadi proyek nyata, serta pengelola KEK yang butuh investor baru. Pertemuan ini masih tahap penjajakan, jadi belum bisa disimpulkan apakah akan berlanjut jadi investasi sungguhan atau berhenti di level kunjungan diplomatik. Yang perlu dipantau adalah apakah pembicaraan ini benar-benar masuk agenda Sidang Komisi Bersama ke-15 Indonesia-Rusia pada 2027, dan apakah Ak Bars Shipbuilding menindaklanjuti minatnya dengan kesepakatan bisnis yang terukur.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "dooh-pis-keluar-total-beruntung-berkat-pegang-15-09-saham",

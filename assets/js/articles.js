@@ -3,6 +3,188 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "csis-akhiri-rencana-jual-saham-kdtn-ke-ruby-mining",
+  "category": "Aksi Korporasi",
+  "title": "CSIS Akhiri Rencana Jual Saham [KDTN] ke Ruby Mining",
+  "deck": "CSIS bersama dua mitranya dan Ruby Mining Hong Kong resmi membatalkan rencana penjualan 86 persen saham PT Puri Sentul Permai (KDTN) yang sudah dinegosiasikan sejak akhir 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T08:50:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e6a1faa9a2_136f920bb8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSIS",
+  "tags": [
+   "CSIS",
+   "KDTN",
+   "akuisisi",
+   "Ruby Mining"
+  ],
+  "body": [
+   "PT Cahayasakti Investindo Sukses Tbk (CSIS), bersama PT Putrasakti Mandiri dan PT Intan Perdana Sukses, mengumumkan kesepakatan dengan Ruby Mining (Hong Kong) Limited untuk mengakhiri Perjanjian Jual Beli Bersyarat tanggal 22 April 2026. Perjanjian itu sebelumnya menjadi dasar rencana Ruby Mining membeli 1.075.000.000 saham PT Puri Sentul Permai Tbk (KDTN) milik ketiga perusahaan tersebut, setara 86 persen dari seluruh saham KDTN yang telah ditempatkan dan disetor. Kesepakatan pengakhiran ini diteken pada 5 November 2026.",
+   "Rencana pengambilalihan KDTN oleh Ruby Mining ini sebenarnya sudah berjalan lebih dari setahun. Prosesnya diawali dengan pengumuman negosiasi pada 21 November 2025, dilanjutkan pengumuman perkembangan negosiasi pada 24 April 2026, lalu sempat ditunda berdasarkan keterbukaan informasi CSIS pada 8 Oktober 2026, sebelum akhirnya dibatalkan sepenuhnya pekan ini. Dalam dokumen pengumuman pengakhiran, Ruby Mining dan para penjual hanya menyebut alasannya sebagai pertimbangan atas perkembangan pelaksanaan transaksi sejak perjanjian awal diteken, tanpa merinci persoalan spesifiknya.",
+   "CSIS menyatakan pengakhiran rencana transaksi ini tidak berdampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Dengan batalnya transaksi ini, kepemilikan saham di KDTN oleh CSIS, PT Putrasakti Mandiri, dan PT Intan Perdana Sukses tetap seperti sebelumnya, dan rencana peralihan pengendali KDTN ke Ruby Mining resmi tidak dilanjutkan."
+  ],
+  "fotoAdegan": "Aerial view of a hillside housing estate under construction near Sentul, Bogor, with red roofs and green terrain, late afternoon light",
+  "takeaway": "Pembatalan rencana pengambilalihan ini condong netral bagi CSIS, karena perseroan sendiri menegaskan tidak ada dampak ke kondisi keuangannya dan sahamnya di KDTN memang belum pernah benar-benar berpindah tangan, jadi situasinya kembali ke posisi semula setelah negosiasi setahun terakhir tidak membawa hasil. Pos yang sebenarnya tersentuh di sini adalah arus kas dan modal sendiri (ekuitas) CSIS, sebab kalau penjualan 86 persen saham KDTN ini benar terjadi, perseroan akan menerima dana tunai dari pembeli yang menambah kas dan bisa mengubah nilai kekayaan bersihnya di buku. Karena transaksinya batal, dana segar itu tidak masuk, tapi di sisi lain CSIS juga tidak kehilangan aset berupa saham KDTN yang selama ini dimilikinya. Yang perlu dipantau selanjutnya adalah apakah CSIS, PT Putrasakti Mandiri, dan PT Intan Perdana Sukses akan mencari calon pembeli baru untuk saham KDTN tersebut, karena dokumen ini belum menyebut rencana transaksi pengganti atau tenggat waktu baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "roti-jadwalkan-rupslb-15-desember-catat-batas-pendaftaran",
+  "category": "Aksi Korporasi",
+  "title": "ROTI Jadwalkan [RUPSLB] 15 Desember, Catat Batas Pendaftaran",
+  "deck": "Nippon Indosari Corpindo mengumumkan rencana RUPSLB pada 15 Desember 2026, pemegang saham yang berhak hadir tercatat per 20 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T08:42:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de65d60bd2_eeee44fb2c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ROTI",
+  "tags": [
+   "ROTI",
+   "RUPSLB",
+   "Nippon Indosari Corpindo",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Nippon Indosari Corpindo Tbk (ROTI) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 15 Desember 2026 pukul 10.00 WIB, bertempat di Peony Tulip Room, Lantai 5, Hotel Mulia, Jalan Asia-Afrika, Senayan, Jakarta. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham hingga Jumat, 20 November 2026 pukul 16.00 WIB adalah yang berhak hadir dan memberikan suara dalam rapat ini. Pengumuman ini merupakan kelanjutan dari surat sebelumnya bernomor 059/FCS/L/X/2026.",
+   "Perseroan menyebutkan bahwa pemanggilan resmi berisi agenda rapat baru akan diterbitkan pada Senin, 23 November 2026, melalui situs perseroan, situs Bursa Efek Indonesia, dan situs penyedia e-RUPS, sesuai Anggaran Dasar Pasal 14 ayat (3) dan POJK 15/2020. Usulan mata acara dari pemegang saham akan dimasukkan ke agenda rapat jika diterima Direksi paling lambat tujuh hari sebelum tanggal pemanggilan tersebut, yakni sekitar 16 November 2026.",
+   "Karena rapat dibatasi secara fisik, perseroan mengimbau pemegang saham untuk hadir dan memberikan suara secara elektronik melalui fasilitas eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia, atau memberikan kuasa elektronik kepada PT Raya Saham Registra, biro administrasi efek perseroan yang ditunjuk sebagai pihak independen untuk mewakili pemegang saham dalam rapat."
+  ],
+  "fotoAdegan": "Workers packaging fresh bread loaves on a conveyor belt inside a bright industrial bakery facility",
+  "takeaway": "Pengumuman ini dinilai netral bagi ROTI, karena isinya baru sebatas undangan logistik rapat dan belum memuat agenda atau keputusan apa pun yang berdampak langsung ke kinerja perseroan. Dokumen ini belum menyentuh pos-pos kinerja seperti ekuitas, arus kas, atau laba per saham, sebab mata acara rapat memang belum diumumkan dan baru akan terbuka saat pemanggilan resmi terbit. Yang perlu dipantau pemegang saham adalah pemanggilan resmi pada Senin, 23 November 2026, yang akan memuat agenda rapat sekaligus kemungkinan menjelaskan latar belakang RUPSLB ini, terutama setelah laba bersih ROTI dilaporkan anjlok 59 persen pada kuartal III 2026. Pemegang saham yang ingin mengajukan usulan mata acara juga harus mengirimkannya ke Direksi paling lambat sekitar 16 November 2026, yakni tujuh hari sebelum tanggal pemanggilan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-dan-us-25-juta",
+  "category": "Aksi Korporasi",
+  "title": "OPPM Tawarkan [Obligasi] Rp3,33 Triliun dan US$25 Juta",
+  "deck": "OPPM menawarkan obligasi rupiah hingga Rp3,33 triliun dan obligasi dolar hingga US$25 juta pada 6-9 November 2026, melengkapi program utang Rp12 triliun yang hampir rampung.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T08:39:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/410bd1d4a4_f8d1ec664b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OPPM",
+  "tags": [
+   "OPPM",
+   "obligasi korporasi",
+   "pulp dan kertas",
+   "pasar modal"
+  ],
+  "body": [
+   "PT OKI Pulp & Paper Mills (OPPM) membuka penawaran dua obligasi baru pada 6 hingga 9 November 2026. Obligasi pertama adalah Obligasi Berkelanjutan II OKI Pulp & Paper Mills Tahap VI Tahun 2026 dalam mata uang rupiah, dengan jumlah pokok sebanyak-banyaknya Rp3,33 triliun. Obligasi kedua adalah Obligasi USD Berkelanjutan II OKI Pulp & Paper Mills Tahap V Tahun 2026, dengan jumlah pokok sebanyak-banyaknya US$25 juta. Penjatahan dijadwalkan pada 10 November 2026, distribusi elektronik pada 12 November 2026, dan pencatatan di Bursa Efek Indonesia pada 13 November 2026.",
+   "Obligasi rupiah dibagi dua seri. Seri A senilai Rp970,3 miliar berbunga tetap 10 persen per tahun dengan tenor tiga tahun, jatuh tempo 12 November 2029. Seri B senilai Rp117,39 miliar berbunga tetap 10,5 persen per tahun dengan tenor lima tahun, jatuh tempo 12 November 2031. Dari total pokok yang ditawarkan, hanya Rp1,09 triliun yang dijamin dengan kesanggupan penuh oleh penjamin emisi, sedangkan sisanya Rp2,24 triliun dijamin dengan kesanggupan terbaik, yang berarti jika tidak semuanya terjual, OPPM tidak wajib menerbitkan kekurangannya.",
+   "Pola serupa berlaku untuk obligasi dolar. Seri A senilai US$1,47 juta berbunga 6,75 persen per tahun bertenor tiga tahun, dan Seri B senilai US$1,02 juta berbunga 7,25 persen per tahun bertenor lima tahun, dengan jatuh tempo yang sama seperti obligasi rupiah. Dari target US$25 juta, hanya US$2,49 juta dijamin penuh, sementara sisa US$22,51 juta dijamin dengan kesanggupan terbaik. Kedua obligasi membayar bunga setiap tiga bulan, dengan pembayaran bunga pertama pada 12 Februari 2027.",
+   "Penerbitan ini merupakan tahap keenam dari program Obligasi Berkelanjutan II yang bertarget total Rp12 triliun dan sudah efektif sejak 19 Maret 2025. Lima tahap sebelumnya, sepanjang 2025 hingga 2026, telah menghimpun sekitar Rp8,67 triliun, sehingga tahap VI ini jika terserap penuh akan membawa program rupiah mendekati target. Untuk program dolar yang bertarget US$100 juta, empat tahap sebelumnya baru menghimpun sekitar US$49,2 juta. Obligasi ini mendapat peringkat idA+ dari Pefindo dan irAA- dari KRI, tidak dijamin dengan aset khusus, dan wali amanatnya adalah PT Bank KB Indonesia Tbk. Perseroan menyebut risiko utama yang dihadapinya adalah fluktuasi harga pulp."
+  ],
+  "fotoAdegan": "Stacked raw pulp bales near a riverside paper mill loading dock in South Sumatra under overcast sky",
+  "takeaway": "Penerbitan obligasi tahap VI dan obligasi dolar tahap V ini kami nilai netral bagi OPPM, karena ini sekadar kelanjutan program utang yang sudah disetujui regulator sejak Maret 2025, bukan kabar baru soal rencana bisnis atau perbaikan keuangan. Yang tersentuh langsung adalah beban bunga, yaitu biaya rutin yang harus dibayar perusahaan ke pemegang obligasi setiap tiga bulan, karena utang baru hingga Rp3,33 triliun dan US$25 juta ini menambah cicilan bunga OPPM selama tiga sampai lima tahun ke depan. Pelaku pasar mencermati pos ini sebab makin besar beban bunga, makin kecil laba bersih yang tersisa untuk pemegang saham, meski dampak sebenarnya juga tergantung untuk apa dana ini dipakai, yang tidak dirinci dalam dokumen ini. Yang perlu dipantau berikutnya adalah tanggal penjatahan 10 November 2026, untuk melihat apakah seluruh porsi kesanggupan terbaik senilai Rp2,24 triliun dan US$22,51 juta benar-benar terjual, sebab sisa yang tidak terjual tidak wajib diterbitkan OPPM.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cpri-panggil-rupst-26-november-bahas-realisasi-dana-ipo-2019",
+  "category": "Aksi Korporasi",
+  "title": "CPRI Panggil RUPST 26 November, Bahas [Realisasi] Dana IPO 2019",
+  "deck": "RUPS Tahunan CPRI digelar 26 November 2026 di Jakarta, membahas laporan keuangan 2025, penggunaan laba, auditor baru, realisasi dana IPO 2019, dan susunan direksi-komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T08:27:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/16a2c2021c_5b35522326.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CPRI",
+  "tags": [
+   "CPRI",
+   "RUPS Tahunan",
+   "properti",
+   "dana IPO"
+  ],
+  "body": [
+   "PT Capri Nusa Satu Properti Tbk (CPRI) mengumumkan pemanggilan Rapat Umum Pemegang Saham Tahunan yang akan digelar Kamis, 26 November 2026, pukul 09.00 WIB di Vasaka Hotel Cawang, Jl Letjen M.T. Haryono No 10A, Cawang, Jakarta Timur. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 3 November 2026 (recording date) berhak hadir atau mengirim kuasa. Surat pemanggilan ini diterbitkan 4 November 2026 oleh Direksi Perseroan dan ditandatangani Direktur Utama Jansen Surbakti, merujuk pada surat internal perseroan No 1016/S/DIR/X/2026 tertanggal 20 Oktober 2026.",
+   "Rapat akan membahas enam agenda. Pertama, persetujuan laporan tahunan dan pengesahan laporan keuangan untuk tahun buku 2025, termasuk pembebasan tanggung jawab penuh (acquit et de charge) bagi Direksi atas tindakan pengurusan dan Dewan Komisaris atas tindakan pengawasan selama tahun buku tersebut. Kedua, penetapan penggunaan laba bersih tahun buku 2025. Ketiga, pemberian wewenang kepada Dewan Komisaris untuk menunjuk Akuntan Publik Independen yang akan mengaudit laporan keuangan tahun buku 2026 beserta honorariumnya. Keempat, persetujuan laporan realisasi penggunaan dana hasil penawaran umum perdana saham yang dilakukan perseroan pada 2019. Kelima dan keenam, persetujuan pengangkatan kembali atau perubahan susunan Direksi dan Dewan Komisaris Perseroan.",
+   "Perseroan menetapkan sejumlah syarat administrasi untuk pemegang saham atau kuasanya, antara lain membawa fotokopi Surat Kolektif Saham dan KTP, serta bagi pemegang saham berbentuk badan hukum wajib membawa fotokopi Anggaran Dasar terbaru dan akta pengangkatan Direksi-Komisaris terakhir. Formulir surat kuasa dapat diperoleh di Biro Administrasi Efek, PT Ficomindo Buana Registrar di Jakarta Pusat, dan surat kuasa harus diterima paling lambat 3 hari kerja sebelum rapat. Peserta diminta tiba di lokasi paling lambat 30 menit sebelum rapat dimulai."
+  ],
+  "fotoAdegan": "Hotel ballroom set up with rows of empty chairs and round tables for a corporate meeting, soft morning light through windows",
+  "takeaway": "Laporan ini netral bagi CPRI karena isinya murni pemanggilan rapat tahunan rutin, tanpa angka realisasi dana atau nominal laba yang baru diumumkan di tahap ini. Dua pos yang pantas dipantau pemegang saham adalah penetapan penggunaan laba bersih tahun buku 2025, yang menentukan berapa bagian keuntungan dibagi sebagai dividen dan berapa yang ditahan sebagai modal perusahaan atau ekuitas, serta agenda laporan realisasi dana hasil penawaran umum perdana saham 2019, yang menunjukkan apakah dana yang dihimpun dari investor publik tujuh tahun lalu sudah terpakai sesuai rencana awal atau belum. Agenda pergantian susunan direksi dan komisaris juga berarti ada kemungkinan pergantian pucuk pimpinan, meski dokumen ini belum menyebut nama calon penggantinya. Yang perlu dipantau berikutnya adalah hasil keputusan RUPS pada 26 November 2026, termasuk besaran dividen yang disetujui, rincian realisasi dana IPO yang akan dipaparkan saat rapat, dan susunan direksi-komisaris definitif setelah rapat selesai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smii-dana-obligasi-tahap-ii-baru-terealisasi-36-29",
+  "category": "Aksi Korporasi",
+  "title": "SMII: Dana Obligasi Tahap II Baru Terealisasi [36,29%]",
+  "deck": "PT Sarana Multi Infrastruktur (SMII) melaporkan realisasi dana dua obligasi senilai Rp5,3 triliun ke OJK. Tahap I terpakai penuh, tahap II baru 36,29 persen, sisanya mengendap di deposito.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T08:09:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f7e8d01373_8f5b0e81b5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMII",
+  "tags": [
+   "SMII",
+   "obligasi korporasi",
+   "realisasi dana",
+   "pembiayaan infrastruktur"
+  ],
+  "body": [
+   "PT Sarana Multi Infrastruktur (Persero) atau SMII menyampaikan laporan realisasi penggunaan dana hasil penawaran umum dua seri Obligasi Berkelanjutan V kepada Otoritas Jasa Keuangan, tertanggal 3 November 2026 dan ditandatangani Direktur Utama Reynaldi Hermansjah. Laporan ini memenuhi kewajiban rutin sesuai Peraturan OJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum, mencakup periode Juli dan Oktober 2026.",
+   "Obligasi Tahap I yang efektif pada 7 Juli 2026 menghimpun dana Rp2 triliun dengan biaya penawaran Rp3,71 miliar, sehingga dana bersih yang diterima Rp1.996.286.998.992. Seluruh dana ini, alias 100 persen, sudah tersalur sebagai pinjaman pembiayaan infrastruktur, dengan rincian Rp995,36 miliar disalurkan pada Juli-Agustus 2026 (sudah dilaporkan lebih dulu lewat surat tanggal 7 September 2026) dan Rp1.000,93 miliar pada September-Oktober 2026. Praktis tidak ada sisa dana dari tahap ini.",
+   "Obligasi Tahap II yang baru efektif 13 Oktober 2026 menghimpun dana lebih besar, Rp3,3 triliun, dengan biaya penawaran Rp3,6 miliar sehingga dana bersih Rp3.296.399.689.200. Dari jumlah itu, baru Rp1.196.399.689.200 atau 36,29 persen yang terealisasi, terdiri dari pelunasan kewajiban utang jatuh tempo Rp945,25 miliar dan penyaluran pinjaman baru Rp251,15 miliar. Sisanya, Rp2,1 triliun atau 63,71 persen, untuk sementara ditempatkan sebagai deposito di tiga bank: Rp700 miliar di Bank Mantap berbunga 7,98 persen bertenor satu bulan, Rp600 miliar di Bank Jakarta berbunga 8 persen bertenor tiga bulan, keduanya pihak ketiga tanpa hubungan afiliasi, serta Rp800 miliar di Bank BNI berbunga 8 persen bertenor satu bulan yang berstatus afiliasi perusahaan. Dokumen menyebut target waktu penggunaan sisa dana ini paling lambat 31 Desember 2026."
+  ],
+  "fotoAdegan": "Construction workers operating heavy machinery at an elevated toll road construction site, cranes and steel beams, hazy midday light",
+  "takeaway": "Laporan ini netral bagi SMII karena isinya adalah kepatuhan pelaporan rutin, dan pola penggunaan dananya pun wajar untuk perusahaan pembiayaan infrastruktur: obligasi tahap I yang terbit Juli sudah 100 persen tersalur jadi pinjaman pembiayaan, sementara tahap II yang baru terbit pertengahan Oktober masih berproses, sebagian dipakai melunasi utang jatuh tempo Rp945,25 miliar dan sisanya disimpan dulu sebagai deposito. Yang perlu dicermati adalah dampaknya ke arus kas perusahaan, yaitu uang tunai yang benar-benar tersedia untuk dipakai sehari-hari, karena dana Rp2,1 triliun yang masih mengendap di deposito untuk sementara hanya menghasilkan bunga sekitar 8 persen, lebih kecil dari margin yang biasa didapat SMI dari pembiayaan infrastruktur. Satu rincian yang layak dicatat, dari tiga deposito itu, Rp800 miliar ditempatkan di bank yang berafiliasi dengan SMI, sementara dua lainnya di bank pihak ketiga. Yang perlu dipantau selanjutnya adalah realisasi penyaluran sisa dana Rp2,1 triliun tersebut, karena dokumen ini mematok batas waktu penggunaannya paling lambat 31 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tcid-jadwalkan-rupslb-15-desember-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "TCID Jadwalkan [RUPSLB] 15 Desember, Agenda Menyusul",
+  "deck": "Mandom Indonesia (TCID) akan menggelar RUPS Luar Biasa pada 15 Desember 2026. Pemegang saham per 20 November 2026 yang berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T07:52:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d136cc2dfc_b1beafd2c4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TCID",
+  "tags": [
+   "TCID",
+   "Mandom Indonesia",
+   "RUPSLB",
+   "korporasi"
+  ],
+  "body": [
+   "PT Mandom Indonesia Tbk (TCID) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 15 Desember 2026 pukul 10.00 WIB, bertempat di Factory 1, Kawasan Industri MM2100, Jalan Irian Blok PP, Bekasi. Rapat akan berlangsung secara fisik sekaligus elektronik melalui platform eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia (KSEI). Perseroan membatasi jumlah pemegang saham yang bisa hadir fisik di lokasi berdasarkan mekanisme siapa cepat dia dapat, karena kapasitas ruangan terbatas.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang tercatat dalam Daftar Pemegang Saham Perseroan, atau yang memegang saldo saham di sub rekening efek KSEI, pada penutupan perdagangan di Bursa Efek Indonesia tanggal 20 November 2026. Surat pemanggilan resmi yang memuat agenda lengkap rapat baru akan diterbitkan pada 23 November 2026 melalui situs web Bursa Efek Indonesia, KSEI, dan Mandom Indonesia sendiri. Pemegang saham yang ingin mengusulkan mata acara tambahan harus mengirimkan usulannya melalui surat tercatat dan diterima perseroan paling lambat 16 November 2026, sesuai Anggaran Dasar Perseroan dan POJK Nomor 15/POJK.04/2020.",
+   "Bagi pemegang saham yang berhalangan hadir langsung, perseroan menyediakan opsi pemberian kuasa secara elektronik melalui eASY.KSEI, atau mengunduh formulir surat kuasa di situs web perusahaan dan menyerahkannya ke PT Raya Saham Registra selaku biro administrasi efek Mandom Indonesia. Pengumuman ini ditandatangani oleh Corporate Secretary Mandom Indonesia, Alia Risyamaya Dewi, pada 6 November 2026, merujuk pada surat sebelumnya bernomor 136/SEKR/ad/X/26."
+  ],
+  "fotoAdegan": "Quiet tree-lined access road leading toward a cosmetics manufacturing plant in an industrial park, early morning light",
+  "takeaway": "Pengumuman ini sendiri netral bagi pemegang saham karena isinya baru soal jadwal dan mekanisme rapat, belum ada mata acara atau keputusan korporasi yang diungkap sama sekali. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh di dokumen ini, karena memang belum ada agenda yang diumumkan, jadi pelaku pasar belum punya dasar untuk menilai dampaknya ke keuangan perseroan. Yang membuat RUPSLB ini tetap perlu dicermati adalah sifatnya yang luar biasa, bukan rapat tahunan rutin, yang biasanya menandakan ada aksi korporasi tertentu yang akan dibahas. Yang perlu dipantau pemegang saham adalah surat pemanggilan resmi berisi agenda lengkap yang terbit 23 November 2026, serta tenggat pengajuan usulan mata acara pada 16 November 2026 kalau ada pemegang saham yang ingin menambahkan topik. Rapat itu sendiri akan digelar 15 Desember 2026, dan hasil keputusannya baru bisa dinilai dampaknya setelah agenda diketahui.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bexi-siapkan-dana-rp22-5-miliar-untuk-pelunasan-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "BEXI Siapkan Dana Rp22,5 Miliar untuk [Pelunasan] Obligasi",
+  "deck": "Indonesia Eximbank menyatakan telah menyiapkan dana Rp22,5 miliar untuk membayar pokok Obligasi Berkelanjutan IV Tahap VIII Seri C yang jatuh tempo 6 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T07:43:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9686603b8_140f2309ea.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEXI",
+  "tags": [
+   "BEXI",
+   "obligasi",
+   "LPEI",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Lembaga Pembiayaan Ekspor Indonesia atau Indonesia Eximbank (kode emiten obligasi BEXI) menyampaikan laporan kesiapan kepada Bursa Efek Indonesia pada 5 November 2026 terkait pembayaran pokok Obligasi Berkelanjutan Indonesia Eximbank IV Tahap VIII Tahun 2019 Seri C (BEXI04CCN8) yang jatuh tempo pada 6 Desember 2026 senilai Rp22,5 miliar. Perseroan menyatakan telah menyediakan dana sejumlah itu, dan dana tersebut ditempatkan pada berbagai instrumen keuangan yang likuid, di antaranya penempatan pada bank, sehingga siap dicairkan saat tanggal pelunasan tiba.",
+   "Laporan resmi ke bursa ditandatangani Dyza Rovina selaku Corporate Secretary Indonesia Eximbank. Surat pemberitahuan yang menyertainya ditandatangani Lianawaty Mihardja, Kepala Divisi Pendanaan dan Tresuri (nama dan jabatan ini berasal dari hasil pindaian dokumen sehingga perlu dibaca dengan hati-hati), dan ditembuskan kepada Otoritas Jasa Keuangan serta PT Bank Mandiri (Persero) Tbk selaku wali amanat obligasi ini. Manajemen menegaskan pemenuhan kewajiban keuangan secara tepat waktu dan tepat jumlah adalah komitmen perusahaan, dan menyatakan tidak ada dampak dari peristiwa ini terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Wide exterior view of modern office towers along Jakarta's Sudirman business district, morning light, pedestrians below",
+  "takeaway": "Laporan ini condong positif bagi LPEI karena menegaskan bahwa dana pembayaran utang sudah tersedia penuh, bukan sekadar rencana, sehingga risiko gagal bayar untuk obligasi seri ini mereda. Pos yang tersentuh adalah arus kas, yaitu uang tunai dan setara tunai yang benar-benar bisa dipakai perusahaan kapan saja, dan di sini LPEI menyebut dana itu sudah ditaruh di instrumen likuid seperti penempatan bank sehingga tinggal dicairkan saat jatuh tempo. Pelaku pasar memperhatikan arus kas semacam ini karena perusahaan bisa saja mencatat laba di atas kertas tapi tetap kesulitan membayar utang kalau uangnya tidak cair, sehingga konfirmasi kesiapan dana ini mengurangi ketidakpastian bagi pemegang obligasi. Yang perlu dipantau berikutnya adalah tanggal 6 Desember 2026, saat pokok Rp22,5 miliar itu harus benar-benar dibayarkan kepada pemegang obligasi melalui wali amanat, PT Bank Mandiri (Persero) Tbk.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "dana-perkebunan-sawit-meluas-ke-petani-kakao-dan-kelapa",
   "category": "Industri",
   "title": "Dana Perkebunan Sawit Meluas ke Petani [Kakao] dan Kelapa",

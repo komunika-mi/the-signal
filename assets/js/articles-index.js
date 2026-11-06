@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "csis-akhiri-rencana-jual-saham-kdtn-ke-ruby-mining",
+  "category": "Aksi Korporasi",
+  "title": "CSIS Akhiri Rencana Jual Saham [KDTN] ke Ruby Mining",
+  "deck": "CSIS bersama dua mitranya dan Ruby Mining Hong Kong resmi membatalkan rencana penjualan 86 persen saham PT Puri Sentul Permai (KDTN) yang sudah dinegosiasikan sejak akhir 2025.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSIS",
+   "KDTN",
+   "akuisisi",
+   "Ruby Mining"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e6a1faa9a2_136f920bb8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "roti-jadwalkan-rupslb-15-desember-catat-batas-pendaftaran",
+  "category": "Aksi Korporasi",
+  "title": "ROTI Jadwalkan [RUPSLB] 15 Desember, Catat Batas Pendaftaran",
+  "deck": "Nippon Indosari Corpindo mengumumkan rencana RUPSLB pada 15 Desember 2026, pemegang saham yang berhak hadir tercatat per 20 November 2026.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ROTI",
+   "RUPSLB",
+   "Nippon Indosari Corpindo",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de65d60bd2_eeee44fb2c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-dan-us-25-juta",
+  "category": "Aksi Korporasi",
+  "title": "OPPM Tawarkan [Obligasi] Rp3,33 Triliun dan US$25 Juta",
+  "deck": "OPPM menawarkan obligasi rupiah hingga Rp3,33 triliun dan obligasi dolar hingga US$25 juta pada 6-9 November 2026, melengkapi program utang Rp12 triliun yang hampir rampung.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OPPM",
+   "obligasi korporasi",
+   "pulp dan kertas",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/410bd1d4a4_f8d1ec664b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cpri-panggil-rupst-26-november-bahas-realisasi-dana-ipo-2019",
+  "category": "Aksi Korporasi",
+  "title": "CPRI Panggil RUPST 26 November, Bahas [Realisasi] Dana IPO 2019",
+  "deck": "RUPS Tahunan CPRI digelar 26 November 2026 di Jakarta, membahas laporan keuangan 2025, penggunaan laba, auditor baru, realisasi dana IPO 2019, dan susunan direksi-komisaris.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CPRI",
+   "RUPS Tahunan",
+   "properti",
+   "dana IPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/16a2c2021c_5b35522326.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smii-dana-obligasi-tahap-ii-baru-terealisasi-36-29",
+  "category": "Aksi Korporasi",
+  "title": "SMII: Dana Obligasi Tahap II Baru Terealisasi [36,29%]",
+  "deck": "PT Sarana Multi Infrastruktur (SMII) melaporkan realisasi dana dua obligasi senilai Rp5,3 triliun ke OJK. Tahap I terpakai penuh, tahap II baru 36,29 persen, sisanya mengendap di deposito.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMII",
+   "obligasi korporasi",
+   "realisasi dana",
+   "pembiayaan infrastruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f7e8d01373_8f5b0e81b5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tcid-jadwalkan-rupslb-15-desember-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "TCID Jadwalkan [RUPSLB] 15 Desember, Agenda Menyusul",
+  "deck": "Mandom Indonesia (TCID) akan menggelar RUPS Luar Biasa pada 15 Desember 2026. Pemegang saham per 20 November 2026 yang berhak hadir dan memberi suara.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TCID",
+   "Mandom Indonesia",
+   "RUPSLB",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d136cc2dfc_b1beafd2c4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bexi-siapkan-dana-rp22-5-miliar-untuk-pelunasan-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "BEXI Siapkan Dana Rp22,5 Miliar untuk [Pelunasan] Obligasi",
+  "deck": "Indonesia Eximbank menyatakan telah menyiapkan dana Rp22,5 miliar untuk membayar pokok Obligasi Berkelanjutan IV Tahap VIII Seri C yang jatuh tempo 6 Desember 2026.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEXI",
+   "obligasi",
+   "LPEI",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9686603b8_140f2309ea.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dana-perkebunan-sawit-meluas-ke-petani-kakao-dan-kelapa",
   "category": "Industri",
   "title": "Dana Perkebunan Sawit Meluas ke Petani [Kakao] dan Kelapa",
@@ -6357,118 +6469,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4def9b8759_ad40218e39.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bola-rugi-rp105-6-miliar-9-bulan-ekuitas-turun-13",
-  "category": "Aksi Korporasi",
-  "title": "BOLA Rugi Rp105,6 Miliar 9 Bulan, [Ekuitas] Turun 13%",
-  "deck": "Laporan keuangan interim kuartal III 2026 BOLA menunjukkan rugi bersih Rp105,59 miliar, berbalik dari laba tahun lalu, dipicu kerugian investasi saham dan beban operasi yang melonjak.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLA",
-   "Bali United",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031003904-65545-0/FinancialStatement-2026-III-BOLA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cani-untung-tipis-usai-jual-8-kapal-ekuitas-tetap-negatif",
-  "category": "Aksi Korporasi",
-  "title": "CANI [Untung] Tipis Usai Jual 8 Kapal, Ekuitas Tetap Negatif",
-  "deck": "CANI mencatat laba bersih US$311.490 pada kuartal I tahun buku 2026/2027, berbalik dari rugi, setelah menjual delapan kapal. Ekuitas perusahaan masih minus US$33,9 juta.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CANI",
-   "laporan keuangan",
-   "defisiensi modal",
-   "penjualan kapal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030235226-65576-0/FinancialStatement-2026-I-CANI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tlkm-cetak-laba-rp14-4-triliun-di-kuartal-iii-buyback-naik-tajam",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Cetak Laba Rp14,4 Triliun di Kuartal III, [Buyback] Naik Tajam",
-  "deck": "Pendapatan Telkom naik 3,5 persen jadi Rp113,5 triliun pada sembilan bulan 2026, tapi laba bersih turun 3,9 persen karena rugi investasi dan buyback saham senilai Rp1,75 triliun.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "Telkom Indonesia",
-   "laporan keuangan",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030234844-65294-0/FinancialStatement-2026-III-TLKM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-referensi-cpo-november-turun-6-kakao-susut-8",
-  "category": "Industri",
-  "title": "Harga Referensi CPO November [Turun] 6%, Kakao Susut 8%",
-  "deck": "Kemendag menurunkan harga referensi CPO dan kakao untuk November 2026, sehingga bea keluar dan pungutan ekspor kedua komoditas ikut mengecil.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/pabrik-gula.jpg",
-  "tags": [
-   "CPO",
-   "kakao",
-   "bea keluar",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/periode-november-2026-hr-cpo-dan-hpe-biji-kakao-terkoreksi-hpe-komoditas-lainnya-bervariasi",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "merk-penjualan-naik-21-5-laba-turun-kena-pajak-besar",
-  "category": "Aksi Korporasi",
-  "title": "MERK: Penjualan Naik 21,5%, [Laba] Turun Kena Pajak Besar",
-  "deck": "Merck Tbk mencatat penjualan Rp989,1 miliar pada sembilan bulan pertama 2026, naik 21,5 persen, namun laba bersih turun 5,3 persen menjadi Rp96,7 miliar akibat beban pajak yang melonjak.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MERK",
-   "laporan keuangan",
-   "farmasi",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030235912-65523-0/FinancialStatement-2026-III-MERK.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kpig-direktur-edi-yanto-ajukan-mundur-tunggu-rups",
-  "category": "Aksi Korporasi",
-  "title": "KPIG: Direktur [Edi Yanto] Ajukan Mundur, Tunggu RUPS",
-  "deck": "PT MNC Tourism Indonesia Tbk melaporkan pengunduran diri Direktur Edi Yanto per 28 Oktober 2026, yang baru sah setelah disetujui RUPS mendatang.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KPIG",
-   "MNC Tourism Indonesia",
-   "pergantian direksi",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/14bef66ef6_bc56ed78e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indy-laba-pemilik-melonjak-ke-us-20-2-juta-di-9-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "INDY: [Laba] Pemilik Melonjak ke US$20,2 Juta di 9 Bulan 2026",
-  "deck": "Pendapatan INDY naik 27,7 persen dan laba bersih ke pemilik melonjak jadi US$20,2 juta dalam sembilan bulan 2026, sementara utang obligasi juga naik signifikan.",
-  "date": "30 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDY",
-   "Indika Energy",
-   "laporan keuangan",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261030234008-65279-0/FinancialStatement-2026-III-INDY.pdf",
   "sourceLabel": "IDX"
  }
 ];

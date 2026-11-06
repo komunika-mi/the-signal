@@ -21,6 +21,70 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "dooh-pis-keluar-total-beruntung-berkat-pegang-15-09-saham",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: PIS Keluar Total, [Beruntung Berkat] Pegang 15,09% Saham",
+  "deck": "PT Prambanan Investasi Sukses resmi lepas semua sisa sahamnya di DOOH pada 12 Oktober 2026, digantikan PT Beruntung Berkat Sejahtera yang kini pegang 15,09% saham.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "pemegang saham",
+   "SII",
+   "INET"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c01dcd329b_da004943f6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-ungkap-dana-ipo-mengendap-vendor-kembalikan-dana",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Ungkap Dana IPO Mengendap, Vendor [Kembalikan] Dana",
+  "deck": "Laporan tambahan DOOH merinci realisasi dana IPO 2023 sampai akhir 2025, termasuk pengembalian dana dari vendor akibat ketidaksesuaian layanan iklan.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "penggunaan dana IPO",
+   "tender wajib",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/357962b6da_73ac27dc39.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-lepas-3-anak-usaha-kbli-baru-diklaim-topang-ekosistem-ai",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Lepas 3 Anak Usaha, KBLI Baru Diklaim Topang Ekosistem [AI]",
+  "deck": "Era Media Sejahtera (DOOH) melepas tiga anak usaha sepanjang 2026 dan mengaitkan penambahan KBLI perusahaan induk dengan rencana ekosistem AI, dalam dokumen tambahan menjelang RUPSLB.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "Era Media Sejahtera",
+   "KBLI 64210",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/feb5fdacb2_e43e067f81.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-rinci-pmhmetd-dilusi-hingga-95-24-rasio-20-1",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Rinci PMHMETD: Dilusi Hingga [95,24%], Rasio 20:1",
+  "deck": "Perseroan merinci rencana rights issue hingga 154,78 miliar saham baru berbanding 1 saham lama, dengan dana diutamakan melunasi utang ke pengendali SII dan memperbesar potensi kendalinya.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "rights issue",
+   "PMHMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5099e12567_64dacbc71c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-gelar-final-lomba-masak-bright-gas-2026",
   "category": "Energi",
   "title": "Pertamina Gelar Final Lomba Masak [Bright Gas] 2026",
@@ -36,6 +100,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477018-pertamina-patra-niaga-gelar-grand-final-bgcc-2026-perebutkan-kursus-masak-internasional"
+ },
+ {
+  "slug": "pefindo-turunkan-peringkat-obligasi-wika-ke-idd",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Turunkan Peringkat Obligasi WIKA ke [idD]",
+  "deck": "PEFINDO menurunkan peringkat tiga seri Obligasi Berkelanjutan WIKA senilai total Rp1,2 triliun dari idCCC menjadi idD, status gagal bayar, menyusul penundaan kupon jatuh tempo 3 November 2026.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "peringkat kredit",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d819fb20ff_3b96d8712f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bpdp-perkuat-daya-saing-umkm-perkebunan-di-indovex",
@@ -6381,87 +6461,5 @@ var ARTICLES = [
   "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/indonesia-perkuat-kerja-sama-pajak-global-dirjen-pajak-tandatangani-gir-mcaa",
   "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "muhaimin-beri-penghargaan-jkn-ke-80-firma-8-pemda",
-  "category": "Ketenagakerjaan",
-  "title": "Muhaimin Beri [Penghargaan] JKN ke 80 Firma, 8 Pemda",
-  "deck": "Satya JKN Awards 2026 mengapresiasi 80 badan usaha swasta dan 8 pemerintah daerah yang dinilai patuh mendukung program Jaminan Kesehatan Nasional.",
-  "date": "1 November 2026",
-  "image": "assets/img/muhaimin-beri-penghargaan-jkn-ke-80-firma-8-pemda.jpg",
-  "imageV": "mvxo9hfs",
-  "tags": [
-   "JKN",
-   "Satya JKN Awards",
-   "Kemenko PM",
-   "BPJS Kesehatan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476055-menko-muhaimin-beri-penghargaan-atas-kepatuhan-badan-usaha-dan-pemda-dalam-program-jkn"
- },
- {
-  "slug": "ayam-balik-laba-rp17-6-miliar-utang-bank-jangka-pendek-lunas",
-  "category": "Aksi Korporasi",
-  "title": "AYAM Balik Laba Rp17,6 Miliar, Utang Bank Jangka Pendek [Lunas]",
-  "deck": "Laporan kuartal III 2026 menunjukkan laba bersih AYAM berbalik positif Rp17,59 miliar dan utang bank jangka pendek lunas, tapi arus kas operasi justru negatif Rp20,34 miliar.",
-  "date": "1 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AYAM",
-   "laporan keuangan",
-   "emiten unggas",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101125340-65645-0/FinancialStatement-2026-III-AYAM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-bess-anjlok-95-di-laporan-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "[Laba] BESS Anjlok 95% di Laporan Kuartal III 2026",
-  "deck": "Laba bersih sembilan bulan BESS tergerus jadi Rp3,1 miliar dari Rp61,9 miliar, sementara utangnya turun 40 persen setelah dilunasi ke pemasok dan bank.",
-  "date": "1 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BESS",
-   "laporan keuangan",
-   "batu bara",
-   "emiten tambang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101102050-65553-0/FinancialStatement-2026-III-BESS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "majalengka-jadi-pemda-teraktif-dukung-desa-wisata-ojk",
-  "category": "Perbankan",
-  "title": "Majalengka Jadi Pemda [Teraktif] Dukung Desa Wisata OJK",
-  "deck": "Pemkab Majalengka menerima penghargaan OJK Cirebon sebagai pemda paling aktif mendukung program Desa Ekosistem Keuangan Inklusif sektor wisata tahun 2026.",
-  "date": "1 November 2026",
-  "image": "assets/img/majalengka-jadi-pemda-teraktif-dukung-desa-wisata-ojk.jpg",
-  "imageV": "mvws2vt3",
-  "tags": [
-   "ojk",
-   "umkm",
-   "finexpo",
-   "desa wisata"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475990-top-pemkab-majalengka-raih-penghargaan-ojk-cirebon-sebagai-pemda-teraktif-program-desa-eki-sektor-wisata-2026"
- },
- {
-  "slug": "voks-balik-untung-kuartal-iii-utang-melonjak-63-7",
-  "category": "Aksi Korporasi",
-  "title": "VOKS Balik Untung Kuartal III, [Utang] Melonjak 63,7%",
-  "deck": "Voksel Electric berbalik untung Rp14,66 miliar pada sembilan bulan 2026, tapi utangnya melonjak 63,7 persen karena pinjaman baru dari bank China dan utang ke pihak berelasi.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VOKS",
-   "Voksel Electric",
-   "laporan keuangan",
-   "utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101000955-65633-0/FinancialStatement-2026-III-VOKS.pdf",
-  "sourceLabel": "IDX"
  }
 ];

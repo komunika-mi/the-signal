@@ -31,6 +31,110 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "dooh-pis-keluar-total-beruntung-berkat-pegang-15-09-saham",
+  "category": "Aksi Korporasi",
+  "title": "DOOH: PIS Keluar Total, [Beruntung Berkat] Pegang 15,09% Saham",
+  "deck": "PT Prambanan Investasi Sukses resmi lepas semua sisa sahamnya di DOOH pada 12 Oktober 2026, digantikan PT Beruntung Berkat Sejahtera yang kini pegang 15,09% saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T22:38:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c01dcd329b_da004943f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "pemegang saham",
+   "SII",
+   "INET"
+  ],
+  "body": [
+   "Berdasarkan Daftar Pemegang Saham DOOH per 3 November 2026 yang diterbitkan PT Ficomindo Buana Registrar, serta Laporan Kepemilikan No. LK/13102026/0009/1 tanggal 13 Oktober 2026, PT Prambanan Investasi Sukses (PIS) telah menjual seluruh sisa kepemilikannya sebanyak 388.417.412 saham atau 5,02 persen pada 12 Oktober 2026, sehingga tidak lagi tercatat sebagai pemegang saham DOOH. PIS sebelumnya adalah pengendali DOOH dengan 51 persen saham sebelum melepas kendali itu ke PT Sinergi Internasional Investama (SII) pada 30 Juli 2026. Porsi yang dulu dipegang PIS, yakni 1.167.507.412 saham atau 15,09 persen, kini beralih ke PT Beruntung Berkat Sejahtera, menjadikannya pemegang saham terbesar kedua di DOOH. SII tetap menggenggam 51 persen atau 3.946.835.000 saham, sementara publik memegang 2.624.548.624 saham atau 33,91 persen.",
+   "Dokumen ini juga menegaskan hasil Penawaran Tender Wajib yang dilakukan SII sesuai POJK No. 9/POJK.04/2018 atas sebanyak-banyaknya 2.624.548.624 saham milik publik dengan harga Rp148 per saham, berlangsung sejak 5 Oktober hingga 3 November 2026 dengan tanggal pembayaran 9 November 2026. Sampai masa penawaran berakhir, tidak ada pemegang saham publik yang menjual sahamnya, sehingga porsi publik tetap 33,91 persen dan SII tetap memegang 51 persen. Perpindahan saham PIS ke Beruntung Berkat Sejahtera terjadi di luar mekanisme tender ini, melalui transaksi pasar yang dilaporkan tersendiri.",
+   "Laporan ini berstatus informasi tambahan dan perubahan atas keterbukaan informasi pinjaman pemegang saham yang sudah lebih dulu diumumkan, yaitu fasilitas pinjaman berplafon Rp5 triliun dari SII untuk mendanai akuisisi 29,88 persen saham PT Sinergi Inti Andalan Prima Tbk (INET) melalui anak usaha DOOH, PT Cakrawala Nexus Investama. Dokumen ini melampirkan revisi Laporan Pendapat Kewajaran dari KJPP Toha Okky Heru & Rekan yang menambahkan penjelasan soal kejadian penting setelah tanggal penilaian, analisis plafon pinjaman, dan penggunaan dananya, namun perusahaan menegaskan perubahan itu tidak mengubah kesimpulan kewajaran transaksi. Pencairan tahap pertama pinjaman tetap mensyaratkan persetujuan RUPS Independen dan laporan penilai independen sebelum dana benar-benar cair."
+  ],
+  "fotoAdegan": "Tall digital billboard screens along a busy Jakarta toll road at dusk, traffic light trails below, screens blurred and unreadable",
+  "takeaway": "Laporan ini netral bagi fundamental DOOH, karena pergantian pemegang saham dari PIS ke Beruntung Berkat Sejahtera dan hasil nihil tender wajib sama-sama tidak memindahkan kas, menambah utang, atau mengubah ekuitas perusahaan, hanya mengganti siapa yang memegang porsi non-pengendali 15,09 persen sementara SII tetap menguasai 51 persen. Secara langsung laporan ini tidak menyentuh pos keuangan DOOH, tapi relevan dipantau karena berjalan beriringan dengan pinjaman Rp5 triliun dari SII dan rencana rights issue hingga 154,7 miliar saham yang sudah diberitakan sebelumnya, yang bisa menambah jumlah saham beredar dan menekan laba per saham, yaitu porsi laba perusahaan yang jatuh ke tiap satu lembar saham, jika pemegang saham publik tidak menebus haknya. Yang perlu dipantau berikutnya adalah pembayaran hasil tender wajib pada 9 November 2026, serta RUPS Luar Biasa yang menjadi salah satu syarat wajib sebelum pencairan pertama pinjaman Rp2 triliun untuk akuisisi INET bisa dilakukan. Jika syarat pencairan itu belum terpenuhi dalam 6 bulan sejak perjanjian pinjaman efektif per 1 September 2026, sekitar awal Maret 2027, SII dan DOOH harus membahas ulang kelanjutan perjanjian tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-ungkap-dana-ipo-mengendap-vendor-kembalikan-dana",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Ungkap Dana IPO Mengendap, Vendor [Kembalikan] Dana",
+  "deck": "Laporan tambahan DOOH merinci realisasi dana IPO 2023 sampai akhir 2025, termasuk pengembalian dana dari vendor akibat ketidaksesuaian layanan iklan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T22:36:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/357962b6da_73ac27dc39.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "penggunaan dana IPO",
+   "tender wajib",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menyampaikan keterbukaan informasi tambahan pada 6 November 2026, melengkapi rencana perubahan penggunaan dana hasil Penawaran Umum Perdana Saham (PUPS) yang digelar Mei 2023. Dokumen ini merinci sejarah realisasi dana sejak IPO, sebelum perubahan besar yang sudah lebih dulu diumumkan, yaitu pengalihan Rp120 miliar untuk setoran modal ke PT Cakrawala Nexus Investama (CNI) guna membeli saham PT Sinergi Inti Andalan Prima Tbk (INET).",
+   "Dari dana IPO sebesar Rp154,75 miliar yang menyusut menjadi Rp152,62 miliar setelah biaya emisi, Perseroan baru merealisasikan belanja modal sebesar Rp12,99 miliar dan modal kerja sebesar Rp9,12 miliar hingga akhir 2025. Angka modal kerja ini sudah memperhitungkan pengembalian dana dari sejumlah vendor, yang dilaporkan Perseroan kepada OJK pada 17 Maret 2026 terjadi karena sebagian jasa penayangan iklan yang dipesan tidak sesuai dengan perjanjian tingkat layanan (SLA) yang disepakati. Dengan realisasi yang jauh di bawah rencana awal, sisa dana yang mengendap di rekening penampungan Bank DKI mencapai Rp130,5 miliar per akhir 2025, sebelum sebagian besarnya, yaitu Rp120 miliar, diusulkan dialihkan ke CNI, menyisakan hanya Rp10,5 miliar untuk modal kerja sampai kuartal pertama 2027.",
+   "Dokumen ini juga mengonfirmasi hasil Penawaran Tender Wajib yang dilakukan pengendali baru, PT Sinergi Internasional Investama (SII), atas saham publik DOOH sebanyak-banyaknya 2,62 miliar lembar (33,91%) dengan harga Rp148 per saham, berlangsung 5 Oktober sampai 3 November 2026 dengan pembayaran dijadwalkan 9 November 2026. Tidak ada pemegang saham publik yang melepas sahamnya dalam penawaran ini, sehingga struktur pemegang saham tetap: SII 51%, PT Beruntung Berkat Sejahtera 15,09% (1.167.507.412 saham), dan publik 33,91%. Selain itu, Perseroan mengungkapkan telah melepas tiga anak usahanya sepanjang 2026, yaitu PT Konsultan Strategi Penjualan, PT Triuslive Inovasi Indonesia, dan PT Era Maju Media, sehingga kini hanya menyisakan PT Media Sejahtera Selaras dan PT Cakrawala Nexus Investama sebagai entitas anak."
+  ],
+  "fotoAdegan": "Technician adjusting an outdoor advertising billboard frame on a city street at dusk, no visible text or screens, traffic lights blurred below",
+  "takeaway": "Laporan tambahan ini condong negatif bagi DOOH, karena data realisasi memperlihatkan dari Rp152,6 miliar dana hasil IPO 2023, Perseroan hanya benar-benar membelanjakan sekitar Rp22 miliar dalam dua setengah tahun, sementara sisanya mengendap di rekening bank sebelum akhirnya dialihkan dalam jumlah besar ke investasi berisiko di INET. Pengembalian dana dari vendor karena ketidaksesuaian layanan penayangan iklan juga menunjukkan ada bagian dari bisnis inti periklanan Perseroan yang tidak berjalan sesuai rencana, sinyal yang memengaruhi arus kas operasional, yaitu uang tunai yang sebenarnya masuk dan keluar dari kegiatan usaha sehari-hari. Pelepasan tiga anak usaha sepanjang 2026 juga menyusutkan jumlah lini bisnis Perseroan menjadi hanya dua, sejalan dengan arah barunya sebagai perusahaan induk investasi di bawah pengendali baru. Yang perlu dipantau berikutnya adalah tanggal pembayaran Penawaran Tender Wajib pada 9 November 2026, serta persetujuan pemegang saham dalam RUPSLB yang masih harus digelar sebelum perubahan penggunaan dana ini resmi berjalan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dooh-lepas-3-anak-usaha-kbli-baru-diklaim-topang-ekosistem-ai",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Lepas 3 Anak Usaha, KBLI Baru Diklaim Topang Ekosistem [AI]",
+  "deck": "Era Media Sejahtera (DOOH) melepas tiga anak usaha sepanjang 2026 dan mengaitkan penambahan KBLI perusahaan induk dengan rencana ekosistem AI, dalam dokumen tambahan menjelang RUPSLB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T22:32:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/feb5fdacb2_e43e067f81.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "Era Media Sejahtera",
+   "KBLI 64210",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) merilis dokumen tambahan dan perubahan atas keterbukaan informasi mengenai penambahan kegiatan usaha berupa KBLI 64210, Aktivitas Perusahaan Induk. Dalam dokumen itu, Perseroan menjelaskan bahwa penambahan KBLI baru ini dilakukan untuk mendukung pengembangan dan integrasi ekosistem usaha Perseroan di bidang kecerdasan buatan atau AI. Secara konkret, kegiatan usaha itu akan mencakup tiga hal, yakni penetapan arah strategis dan pengawasan kinerja anak usaha, pelaksanaan aksi korporasi berupa penyertaan atau akuisisi perusahaan yang sejalan dengan visi ekosistem AI, yang sudah diawali dengan pengambilalihan 29,88 persen saham INET melalui PT Cakrawala Nexus Investama (CNI), serta pengalihan bisnis periklanan Perseroan kepada anak usaha PT Media Sejahtera Selaras (MSS). Rencana ini mengubah Pasal 3 Anggaran Dasar Perseroan dan wajib lebih dulu mendapat persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa, sebelum diajukan ke Menteri Hukum dan diperbarui lewat sistem OSS.",
+   "Studi kelayakan atas rencana ini disusun oleh KJPP Toha Okky Heru & Rekan, dengan laporan bertanggal 4 November 2026 dan tanggal penilaian 30 Juni 2026. Dari aspek pasar, penilai mencatat belanja iklan billboard konvensional dan digital di Indonesia pada Januari-November 2025 mencapai sekitar Rp6,34 triliun, naik 19,41 persen dibandingkan 2024, sementara pendapatan konsolidasi Perseroan bersama anak usaha pada 2025 tercatat Rp214,62 miliar. Berdasarkan data itu, penilai menyimpulkan rencana penambahan KBLI 64210 layak dari aspek pasar, dengan catatan implementasinya harus menciptakan sinergi dan mendukung pertumbuhan usaha berkelanjutan.",
+   "Dokumen ini juga mengungkap bahwa sepanjang 2026 Perseroan telah melepas seluruh kepemilikannya di tiga anak usaha, yaitu PT Konsultan Strategi Penjualan pada 12 Maret 2026, PT Triuslive Inovasi Indonesia pada 4 Mei 2026, dan PT Era Maju Media pada 24 Juni 2026. Dengan pelepasan itu, anak usaha Perseroan yang tersisa kini hanya MSS dan CNI. Dari sisi pemegang saham, struktur permodalan Perseroan per 3 November 2026 tetap terdiri dari PT Sinergi Internasional Investama (SII) sebagai pengendali dengan 3.946.835.000 saham atau 51 persen, PT Beruntung Berkat Sejahtera dengan 1.167.507.412 saham atau 15,09 persen, dan publik dengan 2.624.548.624 saham atau 33,91 persen, dari total 7.738.891.036 saham beredar. Susunan ini tidak berubah karena tidak ada pemegang saham publik yang melepas saham dalam penawaran tender wajib SII di harga Rp148 per saham yang berakhir 3 November 2026."
+  ],
+  "fotoAdegan": "Workers installing a large blank outdoor billboard frame on scaffolding atop a Jakarta rooftop, overcast afternoon light",
+  "takeaway": "Catatan redaksi menilai dokumen tambahan ini netral bagi fundamental DOOH, karena isinya terutama menegaskan ulang rencana yang sudah diketahui pasar dan kesimpulan kelayakan yang memang disusun atas permintaan Perseroan sendiri, tanpa angka keuangan baru yang memperburuk atau memperbaiki kondisi Perseroan saat ini. Jumlah saham beredar dan komposisi pemegang saham tidak berubah karena tidak ada saham yang terjual dalam penawaran tender wajib, sehingga tidak ada dilusi atau pergeseran hak suara dari peristiwa ini, sementara pelepasan tiga anak usaha sepanjang 2026 memangkas portofolio usaha Perseroan tanpa penjelasan nilai transaksi, sehingga dampaknya terhadap arus kas belum bisa dinilai dari dokumen ini. Alasan ekosistem AI yang disematkan pada penambahan KBLI perusahaan induk juga masih berupa niat umum, belum ada rincian bisnis AI konkret yang akan dijalankan Perseroan maupun anak usahanya. Yang perlu dipantau selanjutnya adalah RUPSLB yang akan mengesahkan perubahan Pasal 3 Anggaran Dasar untuk KBLI baru ini, serta apakah Perseroan kemudian merinci rencana bisnis AI yang selama ini baru disebut sebagai arah strategis tanpa detail operasional.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-rinci-pmhmetd-dilusi-hingga-95-24-rasio-20-1",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Rinci PMHMETD: Dilusi Hingga [95,24%], Rasio 20:1",
+  "deck": "Perseroan merinci rencana rights issue hingga 154,78 miliar saham baru berbanding 1 saham lama, dengan dana diutamakan melunasi utang ke pengendali SII dan memperbesar potensi kendalinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T22:30:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5099e12567_64dacbc71c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "rights issue",
+   "PMHMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) merinci rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I) berupa penerbitan saham baru sebanyak-banyaknya 154.777.820.720 lembar bernilai nominal Rp10 per saham, dengan rasio 20 saham baru untuk setiap 1 saham lama. Jumlah ini mewakili sebanyak-banyaknya 95,24 persen dari modal disetor setelah pelaksanaan, sehingga pemegang saham yang tidak ikut menebus haknya akan mengalami penurunan porsi kepemilikan hingga sebesar itu. Pembayaran saham baru dilakukan secara tunai, kecuali bagi PT Sinergi Internasional Investama (SII) selaku pengendali, yang bisa membayar dengan mengonversi hak tagihnya atas Pinjaman Pemegang Saham senilai saldo pokok yang telah dicairkan, berdasarkan perjanjian tanggal 1 September 2026. Penerbitan ini juga disertai Waran Seri II yang jumlah dan rasionya baru akan diungkap dalam prospektus.",
+   "Dana hasil PMHMETD I, setelah dikurangi biaya emisi, akan diprioritaskan untuk melunasi utang kepada SII dengan plafon sebanyak-banyaknya Rp5 triliun, di mana pencairan awal sudah sebesar Rp2 triliun, baru sisanya dipakai untuk ekspansi ekosistem AI berupa data center AI, konektivitas kecepatan tinggi, kabel fiber optik darat dan bawah laut, serta energi hijau PLTS. Sebagai ilustrasi dampak keuangan berbasis posisi 30 Juni 2026, jika seluruh pencairan awal Rp2 triliun dilunasi atau dikonversi, total liabilitas Perseroan turun dari Rp2.096,97 miliar menjadi Rp96,97 miliar, sementara total ekuitas naik dari Rp309,54 miliar menjadi Rp2.309,54 miliar. Rasio utang terhadap ekuitas pun turun dari 6,77 kali menjadi 0,04 kali. Perseroan menegaskan angka ini hanya ilustrasi dan belum memperhitungkan bunga pinjaman 7,5 persen per tahun, biaya emisi, serta hasil usaha riil setelah Juni 2026.",
+   "Dari sisi struktur pemegang saham, posisi saat ini adalah SII 51 persen, PT Beruntung Berkat Sejahtera 15,09 persen, dan publik 33,91 persen yang menjadi basis free float. Jika seluruh pemegang saham menebus haknya, porsi itu tidak berubah, tetapi jika hanya SII yang menebus dan sisa saham tidak diambil pihak lain, kepemilikan SII bisa melonjak jadi 95,63 persen, dan jika SII juga mengambil seluruh sisa saham yang tidak ditebus, porsinya naik jadi 97,67 persen. Perseroan mengakui belum menandatangani perjanjian dengan pembeli siaga mana pun, dan jika saham publik jatuh di bawah batas minimum free float bursa, Perseroan dan SII berkomitmen memulihkannya antara lain lewat pengalihan sebagian saham SII ke publik. Rencana ini akan dimintakan persetujuan dalam RUPSLB pada 9 November 2026, dan pelaksanaannya paling lambat 12 bulan setelah RUPSLB menyetujui."
+  ],
+  "fotoAdegan": "Technicians checking server racks in a modern data center corridor, blinking status lights, cables bundled neatly, cool blue lighting",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham minoritas DOOH, karena skema pelunasan utang ke pengendali lewat konversi saham memang memperbaiki rasio utang perusahaan, tetapi caranya adalah dilusi yang sangat besar sampai 95,24 persen dan berpotensi mendorong kepemilikan SII naik sampai 97,67 persen. Transaksi ini menyentuh ekuitas karena utang pemegang saham diubah jadi modal sehingga rasio utang membaik di atas kertas, sekaligus menyentuh jumlah saham beredar yang melonjak sampai 20 kali lipat, artinya laba perusahaan ke depan akan terbagi ke jauh lebih banyak lembar saham per pemegang saham lama. Arus kas tunai yang benar benar masuk ke kas perusahaan juga tidak sebesar nilai transaksi di atas kertas, karena sebagian pelunasan utang SII dibayar lewat konversi non tunai, bukan uang segar. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 9 November 2026, harga pelaksanaan final dan rasio Waran Seri II yang baru akan diungkap dalam prospektus, serta langkah Perseroan menjaga saham publik tidak jatuh di bawah batas minimum free float bursa karena sampai saat ini belum ada pembeli siaga yang ditunjuk.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "pertamina-gelar-final-lomba-masak-bright-gas-2026",
   "category": "Energi",
   "title": "Pertamina Gelar Final Lomba Masak [Bright Gas] 2026",
@@ -56,6 +160,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Hal konkret di balik acara masak ini adalah promo tukar tambah: pengunjung bisa menukar tabung gas melon 3 kilogram, yakni gas yang harganya ditahan rendah oleh subsidi pemerintah, dengan Bright Gas 5,5 kilogram yang dijual dengan harga pasar tanpa subsidi, ditambah diskon kalau isi ulang lewat aplikasi MyPertamina. Yang kena dampak langsung adalah pengguna gas melon yang didekati untuk pindah ke tabung nonsubsidi, dan masyarakat di sekitar Bintaro yang menjadi sasaran acara ini. Langkah ini sejalan dengan upaya Pertamina selama ini mendorong konsumen bergeser dari gas bersubsidi ke produk komersial, tapi berita ini tidak menyebut berapa banyak tabung yang ditargetkan tertukar atau seberapa besar porsi acara promosi semacam ini dalam program konversi secara keseluruhan. Yang perlu dicermati adalah apakah Pertamina atau pemerintah merilis data jumlah perpindahan gas melon ke Bright Gas secara nasional, karena itu yang akan menunjukkan apakah langkah seperti ini berdampak nyata atau sekadar acara promosi di satu lokasi.",
   "imageV": "mw56cg8g"
+ },
+ {
+  "slug": "pefindo-turunkan-peringkat-obligasi-wika-ke-idd",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Turunkan Peringkat Obligasi WIKA ke [idD]",
+  "deck": "PEFINDO menurunkan peringkat tiga seri Obligasi Berkelanjutan WIKA senilai total Rp1,2 triliun dari idCCC menjadi idD, status gagal bayar, menyusul penundaan kupon jatuh tempo 3 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T22:08:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d819fb20ff_3b96d8712f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "peringkat kredit",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk melaporkan bahwa lembaga pemeringkat PEFINDO menurunkan peringkat kredit tiga seri obligasinya menjadi idD, dari sebelumnya idCCC. Tiga seri yang terdampak adalah Obligasi Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 Seri A senilai Rp479,8 miliar, Seri B senilai Rp275,23 miliar, dan Seri C senilai Rp449,85 miliar, sehingga total nilai obligasi yang diturunkan peringkatnya mencapai sekitar Rp1,2 triliun. Hasil pemeringkatan ini tertuang dalam surat PEFINDO Nomor RC-1470/PEF-DIR/XI/2026 tertanggal 3 November 2026, diterima WIKA pada 6 November 2026, dengan masa berlaku peringkat sampai 1 Juli 2027.",
+   "Dalam surat kepada Otoritas Jasa Keuangan yang ditandatangani Corporate Secretary Ngatemin, WIKA menjelaskan bahwa penurunan peringkat ini merupakan hasil pemantauan khusus (special review) PEFINDO yang menindaklanjuti penangguhan pembayaran kupon atas obligasi yang jatuh tempo pada 3 November 2026. Penundaan pembayaran kupon tersebut sebelumnya sudah diumumkan WIKA kepada publik melalui keterbukaan informasi Nomor SE.01.00/A.CORSEC.00357/2026 pada 30 Oktober 2026. Perusahaan menyatakan menerima keputusan PEFINDO tersebut sebagai kewenangan penuh lembaga pemeringkat.",
+   "WIKA menegaskan akan terus berkomunikasi secara intensif dengan wali amanat dan pemegang obligasi maupun sukuk untuk mencari kesepakatan penyelesaian kewajiban yang dapat mengakomodasi kepentingan semua pihak. Laporan ini disampaikan sebagai pemenuhan ketentuan Peraturan OJK Nomor 49/POJK.04/2020 tentang Pemeringkatan Efek Bersifat Utang dan/atau Sukuk."
+  ],
+  "fotoAdegan": "Idle construction site at dusk with stacked rebar and concrete pillars, no workers visible, quiet atmosphere",
+  "takeaway": "PEFINDO resmi menurunkan peringkat obligasi WIKA menjadi idD, level yang menandakan gagal bayar, sehingga laporan ini negatif bagi emiten dan memperkuat rangkaian sinyal kredit buruk yang sudah terjadi sejak akhir Oktober. Yang tersentuh adalah beban bunga dan arus kas perusahaan, karena peringkat idD berarti lembaga pemeringkat menilai WIKA sudah tidak mampu membayar bunga tepat waktu untuk tiga seri obligasi senilai total Rp1,2 triliun, yang membuat biaya pinjaman ke depan berpotensi lebih mahal dan ruang gerak kas untuk membayar utang makin sempit. Yang perlu dipantau berikutnya adalah hasil komunikasi WIKA dengan wali amanat dan pemegang obligasi untuk mencari kesepakatan penyelesaian kewajiban, serta masa berlaku peringkat idD ini yang ditetapkan hingga 1 Juli 2027.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bpdp-perkuat-daya-saing-umkm-perkebunan-di-indovex",

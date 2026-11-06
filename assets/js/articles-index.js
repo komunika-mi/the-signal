@@ -5,6 +5,100 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tpt-agustus-2026-4-75-naik-dari-februari",
+  "category": "Makroekonomi",
+  "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
+  "deck": "Tingkat pengangguran terbuka naik tipis dari Februari 2026, tapi masih lebih rendah dibanding Agustus tahun lalu",
+  "date": "6 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "bps",
+   "ketenagakerjaan",
+   "pengangguran",
+   "tpt"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "pertumbuhan-uang-primer-bi-oktober-melambat-jadi-7-0-persen",
+  "category": "Moneter",
+  "title": "Pertumbuhan Uang Primer BI Oktober [Melambat] jadi 7,0 Persen",
+  "deck": "Bank Indonesia melaporkan uang primer adjusted Oktober 2026 tumbuh 7,0 persen dari setahun lalu, melambat dari 9,3 persen pada September.",
+  "date": "6 November 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824326.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pertumbuhan-harga-rumah-primer-melambat-di-triwulan-iii",
+  "category": "Makroekonomi",
+  "title": "Pertumbuhan Harga Rumah Primer [Melambat] di Triwulan III",
+  "deck": "Pertumbuhan harga rumah baru melambat ke 0,58 persen dibanding setahun lalu pada triwulan III 2026, sementara penjualan turun 8,43 persen di seluruh tipe rumah.",
+  "date": "6 November 2026",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "tags": [
+   "properti residensial",
+   "harga rumah",
+   "penjualan rumah",
+   "KPR"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824426.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "bri-peduli-kenalkan-urban-farming-lewat-brinita",
+  "category": "BUMN",
+  "title": "BRI Peduli Kenalkan Urban Farming Lewat [BRInita]",
+  "deck": "BRI Peduli memperkenalkan program urban farming berbasis komunitas BRInita di Bandung, mengajak 35 jurnalis menanam dan memanen langsung di lahan warga.",
+  "date": "6 November 2026",
+  "image": "assets/img/bri-peduli-kenalkan-urban-farming-lewat-brinita.jpg",
+  "imageV": "mw4hp8gb",
+  "tags": [
+   "BRI Peduli",
+   "BRInita",
+   "urban farming",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476910-bri-peduli-kenalkan-urban-farming-berbasis-komunitas-lewat-brinita-ajak-jurnalis-turun-langsung-bertani-di-kota"
+ },
+ {
+  "slug": "gcc-gresik-beroperasi-umkm-lokal-incar-pasar-baru",
+  "category": "UMKM",
+  "title": "GCC Gresik [Beroperasi], UMKM Lokal Incar Pasar Baru",
+  "deck": "Gresik Convention Center resmi beroperasi sejak 4 November 2026, membuka peluang bisnis bagi UMKM katering, dekorasi, dan event organizer di sekitar kawasan industri Gresik.",
+  "date": "6 November 2026",
+  "image": "assets/img/gcc-gresik-beroperasi-umkm-lokal-incar-pasar-baru.jpg",
+  "imageV": "mw4hp8ul",
+  "tags": [
+   "GCC",
+   "Gresik",
+   "UMKM",
+   "ekonomi lokal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476908-gresik-convention-center-mulai-beroperasi-umkm-lokal-berpeluang-dapat-pasar-baru"
+ },
+ {
+  "slug": "harga-emas-antam-naik-jadi-rp2-565-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] Jadi Rp2.565.000 per Gram",
+  "deck": "Harga emas batangan Antam naik Rp8 ribu per gram pada 6 November 2026, sementara harga buyback juga ikut terkerek naik.",
+  "date": "6 November 2026",
+  "image": "assets/img/harga-emas-antam-naik-jadi-rp2-565-000-per-gram.jpg",
+  "imageV": "mw4hp9gz",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "buyback emas",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/476903-harga-emas-antam-hari-ini-6-november-2026-naik-jadi-rp2565000-per-gram-buyback-ikut-melonjak"
+ },
+ {
   "slug": "csis-akhiri-rencana-jual-saham-kdtn-ke-ruby-mining",
   "category": "Aksi Korporasi",
   "title": "CSIS Akhiri Rencana Jual Saham [KDTN] ke Ruby Mining",
@@ -398,7 +492,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47] Persen pada Triwulan III 2026",
   "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada triwulan III 2026, naik dari 5,29 persen pada triwulan sebelumnya, didorong lonjakan belanja pemerintah dan konsumsi rumah tangga.",
   "date": "5 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "Pertumbuhan Ekonomi",
    "PDB Triwulan III",
@@ -900,7 +994,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
   "deck": "BPS catat pertumbuhan ekonomi naik 0,18 poin dari triwulan sebelumnya dan jadi yang tertinggi kedua dalam setahun terakhir.",
   "date": "5 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "ekonomi",
    "bps",
@@ -1110,7 +1204,7 @@ var ARTICLES = [
   "title": "Ekonomi Indonesia Tumbuh [5,47%] di Triwulan III-2026",
   "deck": "BPS mencatat produk domestik bruto RI naik 5,47 persen secara tahunan pada triwulan III-2026, ditopang belanja pemerintah dan ekspor.",
   "date": "5 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "PDB",
    "BPS",
@@ -2289,7 +2383,7 @@ var ARTICLES = [
   "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
   "deck": "Surplus dagang Indonesia September 2026 menyusut tipis ke US$3,36 miliar akibat defisit migas melebar, sementara ekspor dan impor sama-sama tumbuh dua digit secara tahunan.",
   "date": "3 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -3701,7 +3795,7 @@ var ARTICLES = [
   "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",
   "deck": "Inflasi Oktober 2026 terjaga di 3,23 persen, neraca dagang September surplus US$3,36 miliar tiga bulan beruntun, dan PMI manufaktur naik ke 54,0, ekspansi tertinggi sejak Maret 2024.",
   "date": "2 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "inflasi",
    "neraca dagang",
@@ -4040,7 +4134,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober [Melandai], Tiket Pesawat Naik",
   "deck": "Inflasi tahunan Oktober 2026 turun jadi 3,23 persen, tapi harga cabai dan tarif pesawat domestik kelas ekonomi justru naik.",
   "date": "2 November 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "inflasi",
    "harga pangan",
@@ -4056,7 +4150,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI [Berlanjut] tapi Tipis ke US$3,36 Miliar",
   "deck": "Neraca dagang Indonesia surplus US$3,36 miliar pada September 2026, melanjutkan tren positif Agustus meski nilainya mengecil dari US$3,55 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "neraca dagang",
    "ekspor",
@@ -5115,7 +5209,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober Melambat ke [0,22 Persen]",
   "deck": "Kenaikan harga bulanan pada Oktober 2026 lebih rendah dibanding September, dan juga lebih rendah dari Oktober tahun lalu.",
   "date": "2 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/timbangan-pasar.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -5518,7 +5612,7 @@ var ARTICLES = [
   "title": "Ekspor Naik, tapi Surplus Dagang RI Makin [Menyempit]",
   "deck": "Ekspor September 2026 naik 11,87 persen jadi US$27,59 miliar, tapi impor tumbuh lebih cepat 18,41 persen sehingga surplus dagang kumulatif menyempit jadi US$10,61 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
+  "image": "assets/img/bongkar-muat-truk.jpg",
   "tags": [
    "ekspor",
    "impor",
@@ -6373,102 +6467,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202510/20261031031229-65608-0/FinancialStatement-2025-Tahunan-BOSS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-bersih-jkon-melonjak-13-kali-lipat-jadi-rp237-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "Laba Bersih [JKON] Melonjak 13 Kali Lipat Jadi Rp237,8 Miliar",
-  "deck": "Laba periode sembilan bulan JKON melonjak drastis dari Rp17,87 miliar jadi Rp237,81 miliar, didorong pendapatan yang naik 51 persen.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JKON",
-   "laporan keuangan",
-   "laba bersih",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031015442-65402-0/FinancialStatement-2026-III-JKON.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inet-bukukan-kas-rp3-95-triliun-usai-rights-issue-rp3-2-triliun",
-  "category": "Aksi Korporasi",
-  "title": "INET Bukukan Kas Rp3,95 Triliun Usai [Rights Issue] Rp3,2 Triliun",
-  "deck": "Laporan keuangan interim Kuartal III 2026 INET menunjukkan kas naik 878 persen setelah rights issue Rp3,2 triliun dan akuisisi sejumlah anak usaha baru.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INET",
-   "rights issue",
-   "akuisisi",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031011428-65499-0/FinancialStatement-2026-III-INET.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iikp-penjualan-ambrol-99-rugi-sembilan-bulan-melebar",
-  "category": "Aksi Korporasi",
-  "title": "IIKP: Penjualan [Ambrol] 99%, Rugi Sembilan Bulan Melebar",
-  "deck": "Penjualan Inti Agri Resources turun drastis dari Rp9,72 miliar jadi Rp77 juta dalam sembilan bulan 2026, sementara rugi bersih melebar jadi Rp8,36 miliar.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IIKP",
-   "laporan keuangan",
-   "arowana",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031004505-65611-0/FinancialStatement-2026-III-IIKP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xdes-tambah-2-1-juta-unit-etf-emas-bri-mi-syariah",
-  "category": "Aksi Korporasi",
-  "title": "XDES Tambah [2,1 Juta] Unit ETF Emas BRI MI Syariah",
-  "deck": "BEI mencatat tambahan 2,1 juta unit penyertaan Reksa Dana Syariah BRI MI Gold ETF Syariah (XDES), total unit beredar naik jadi 6,6 juta efektif 2 November 2026.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XDES",
-   "ETF emas",
-   "BRI MI",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/826262c5fc_95beebb13b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-catat-83-juta-saham-baru-dari-hmetd",
-  "category": "Aksi Korporasi",
-  "title": "BUVA Catat 83 Juta Saham Baru dari [HMETD]",
-  "deck": "BEI mencatatkan 83,07 juta saham baru BUVA hasil exercise rights issue per 2 November 2026, total saham beredar BUVA naik jadi 30,08 miliar lembar.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "rights issue",
-   "HMETD",
-   "pencatatan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/dea8defad6_7f55b4c37e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-catatkan-1-15-juta-saham-baru-dari-konversi-owk",
-  "category": "Aksi Korporasi",
-  "title": "PACK catatkan [1,15 juta] saham baru dari konversi OWK",
-  "deck": "Dua kali konversi obligasi wajib konversi PACK pada akhir Oktober menambah 1.152.680 saham baru, saham beredar emiten jadi 34,14 miliar lembar.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "obligasi wajib konversi",
-   "pencatatan saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4def9b8759_ad40218e39.pdf",
   "sourceLabel": "IDX"
  }
 ];

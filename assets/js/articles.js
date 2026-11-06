@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Sejauh ini yang konkret baru sebatas minat awal, bukan kesepakatan mengikat: Ak Bars Shipbuilding disebut tertarik bekerja sama dengan mitra kapal Indonesia, dan Tatarstan diajak memanfaatkan 25 Kawasan Ekonomi Khusus yang sudah menampung investasi Rp382,1 triliun. Pihak yang berpotensi terdampak adalah industri perkapalan nasional jika kerja sama dengan Ak Bars berlanjut jadi proyek nyata, serta pengelola KEK yang butuh investor baru. Pertemuan ini masih tahap penjajakan, jadi belum bisa disimpulkan apakah akan berlanjut jadi investasi sungguhan atau berhenti di level kunjungan diplomatik. Yang perlu dipantau adalah apakah pembicaraan ini benar-benar masuk agenda Sidang Komisi Bersama ke-15 Indonesia-Rusia pada 2027, dan apakah Ak Bars Shipbuilding menindaklanjuti minatnya dengan kesepakatan bisnis yang terukur.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "dooh-pis-keluar-total-beruntung-berkat-pegang-15-09-saham",
@@ -345,7 +345,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret ada dua hal: daftar negara mitra untuk fasilitas keringanan penempatan dolar ekspor bertambah dari empat menjadi tujuh, dengan tambahan Korea Selatan, Jepang, dan Uni Eropa, dan bank yang bisa menerima titipan dolar itu naik dari 15 jadi 16 dengan masuknya Bank OCBC NISP, sementara pemerintah juga sedang menyiapkan aturan baru soal pelonggaran porsi dolar ekspor yang wajib ditukar ke rupiah. Yang langsung terdampak adalah eksportir tambang yang berdagang dengan negara-negara mitra itu, karena mereka cukup menyimpan 30 persen dolar ekspornya selama tiga bulan dan sisanya bebas dipakai, jauh lebih ringan dibanding aturan umum yang mewajibkan hampir semua dolar ekspor nonmigas mengendap setahun penuh. Di sisi lain, eksportir batu bara, sawit, dan feroaloi justru mendapat lapisan pengawasan baru lewat Portal DSI yang bakal wajib dipakai penuh mulai 1 Januari 2027, jadi arah kebijakan ini sebetulnya bergerak dua arah sekaligus, melonggarkan sisi penggunaan dolar ekspor sambil memperketat sisi pemantauan datanya. Yang akan memastikan ke mana bobot kebijakan ini sebenarnya condong adalah isi revisi aturan konversi ke rupiah yang detailnya belum diumumkan, serta apakah Portal DSI benar-benar berjalan penuh begitu masa transisi berakhir pada 31 Desember 2026.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "wamendag-tinjau-batik-keris-bidik-ekspor-ke-asia-tenggara",
@@ -689,7 +689,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini: insentif pajak penghasilan bagi pekerja bergaji di bawah Rp10 juta, yang saat ini hanya berlaku di sebagian sektor, dijanjikan meluas ke seluruh sektor pada 2027, dibarengi diskon separuh iuran asuransi kecelakaan kerja dan kematian. Yang terdampak jelas pekerja bergaji menengah ke bawah dan pekerja sektor tradisional seperti tekstil serta alas kaki yang disebut tertekan, sementara pekerja di sektor jasa seperti telekomunikasi dan perhotelan disebut tumbuh. Arahnya terlihat bahwa pemerintah tidak berusaha menahan pergeseran dari manufaktur ke jasa dan sektor informal, melainkan menopang pekerja yang terdampak lewat insentif pajak, pelatihan vokasi, dan iuran asuransi yang lebih murah, sambil mendorong investasi ke luar Jawa. Yang akan menunjukkan apakah langkah ini serius atau sekadar wacana adalah apakah perluasan insentif pajak ke seluruh sektor pada 2027 benar terealisasi, dan apakah target magang 150 ribu peserta serta vokasi 300 ribu peserta pada tahun yang sama tercapai.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "esdm-serahkan-137-hektare-lahan-tambang-ke-kopassus",

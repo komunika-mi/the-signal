@@ -79,6 +79,56 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "totl-bagikan-dividen-interim-rp136-4-miliar-rp40-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "TOTL Bagikan [Dividen] Interim Rp136,4 Miliar, Rp40 per Saham",
+  "deck": "Total Bangun Persada menetapkan dividen interim tunai Rp40 per saham atau total Rp136,4 miliar, dengan pembayaran pada 4 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T11:25:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/09e8345e2d_45c5369d28.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOTL",
+  "tags": [
+   "TOTL",
+   "dividen interim",
+   "konstruksi",
+   "BEI"
+  ],
+  "body": [
+   "Direksi Total Bangun Persada Tbk (TOTL) memutuskan membagikan dividen interim tunai untuk tahun buku 2026 sebesar Rp136,4 miliar, atau Rp40 per saham. Keputusan ini tertuang dalam surat Direksi Nomor 162/A.4-06/X/2026 tanggal 27 Oktober 2026 dan telah disetujui Dewan Komisaris melalui surat Nomor 163/A.4-07/XI/2026 tanggal 4 November 2026. Dasar pembagian dividen ini adalah laporan keuangan interim perseroan per 30 September 2026.",
+   "Soal jadwal, saham TOTL masih diperdagangkan dengan hak dividen (cum dividen) di pasar reguler dan negosiasi hingga 16 November 2026, lalu berubah menjadi tanpa hak dividen (ex dividen) mulai 17 November 2026. Di pasar tunai, status cum dividen berlaku sampai 18 November 2026 dan ex dividen mulai 19 November 2026. Daftar pemegang saham yang berhak menerima dividen ditetapkan pada 18 November 2026 pukul 16.00 WIB, dan dividen akan dibayarkan paling lambat pada 4 Desember 2026.",
+   "Bagi pemegang saham yang sahamnya tercatat dalam penitipan kolektif PT Kustodian Sentral Efek Indonesia (KSEI), dividen akan disalurkan melalui KSEI ke anggota bursa atau bank kustodian masing-masing. Pemegang saham yang sahamnya masih berbentuk warkat atau belum masuk penitipan kolektif wajib menyerahkan nama bank dan nomor rekening ke biro administrasi efek perseroan, PT Adimitra Jasa Korpora, paling lambat 18 November 2026 pukul 16.00 WIB. Dividen ini akan dikenakan pajak sesuai aturan yang berlaku, termasuk pemotongan sesuai tarif perjanjian penghindaran pajak berganda bagi pemegang saham wajib pajak luar negeri yang memenuhi persyaratan.",
+   "Berdasarkan laporan keuangan per 30 September 2026, laba bersih yang diatribusikan kepada pemilik perseroan tercatat Rp448,6 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp1.022,4 miliar, dan total ekuitas perseroan Rp1.404,7 miliar."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete on a high-rise building site in Jakarta, tower cranes in the background, late afternoon light",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi TOTL, karena nilainya proporsional, Rp136,4 miliar hanya sekitar 13 persen dari cadangan laba yang belum dibagikan dan di bawah 10 persen dari total modal perusahaan, sehingga tidak menguras kas secara berlebihan. Pos yang tersentuh adalah ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi semua utang, yang akan berkurang sejumlah nilai dividen begitu dibayarkan. Pelaku pasar memperhatikan ini karena ekuitas yang masih tebal, sekitar Rp1,4 triliun, menunjukkan perusahaan tetap punya bantalan modal meski membagikan sebagian labanya, sementara laba bersih sembilan bulan pertama tahun ini sebesar Rp448,6 miliar menunjukkan bisnis masih menghasilkan uang lebih dari cukup untuk menutup dividen tersebut. Yang perlu dipantau berikutnya adalah tanggal pembayaran pada 4 Desember 2026, serta batas akhir 18 November 2026 pukul 16.00 WIB bagi pemegang saham yang sahamnya masih berbentuk fisik atau belum tercatat di penitipan kolektif KSEI untuk menyerahkan data rekening bank, karena keterlambatan bisa menunda pencairan dividen mereka.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "lppi-rampungkan-realisasi-dana-obligasi-sukuk-rp2-74-triliun",
+  "category": "Aksi Korporasi",
+  "title": "LPPI rampungkan [realisasi] dana obligasi-sukuk Rp2,74 triliun",
+  "deck": "LPPI melaporkan penggunaan dana dari empat obligasi dan sukuk berkelanjutan senilai total Rp2,74 triliun, mayoritas untuk membayar utang, dengan sisa Rp42,06 miliar masih mengendap di deposito.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T11:10:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b94791b0eb_e9173d36e3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI"
+  ],
+  "body": [
+   "Emiten berkode LPPI menyampaikan laporan realisasi penggunaan dana hasil penawaran umum dari empat instrumen obligasi dan sukuk berkelanjutan yang efektif sejak 2 Desember 2025, untuk periode pelaporan sampai dengan 31 Oktober 2026. Total dana kotor yang terkumpul dari Obligasi Berkelanjutan IV Tahap III, Sukuk Mudharabah Berkelanjutan II Tahap III, Obligasi Berkelanjutan IV Tahap IV, dan Sukuk Mudharabah Berkelanjutan II Tahap IV mencapai sekitar Rp2,75 triliun. Setelah dipotong biaya penerbitan sekitar Rp11,61 miliar untuk jasa penjaminan, penyelenggaraan, penjualan, wali amanat, dan pemeringkatan, dana bersih yang tersedia untuk digunakan sekitar Rp2,74 triliun.",
+   "Untuk Obligasi Tahap III dengan dana bersih Rp797,21 miliar, sebanyak 71 persen atau Rp564,86 miliar sudah dipakai membayar pokok, cicilan, dan bunga utang, sementara 29 persen atau Rp232,35 miliar dipakai sebagai modal kerja, sehingga seluruh dana tahap ini sudah terserap habis. Pola serupa terjadi pada Sukuk Tahap III dengan dana bersih Rp270,71 miliar, yakni 79 persen atau Rp213,04 miliar untuk membayar utang dan 21 persen atau Rp57,67 miliar untuk modal kerja, juga tanpa sisa dana.",
+   "Pada Obligasi Tahap IV dengan dana bersih Rp996,10 miliar, rencana awal adalah 78 persen atau Rp780 miliar untuk membayar utang dan 22 persen atau Rp216,10 miliar untuk modal kerja. Realisasi pembayaran utang sudah sesuai rencana, tetapi modal kerja baru terserap 17 persen atau Rp174,05 miliar, sehingga masih ada sisa Rp42,06 miliar yang untuk sementara ditempatkan sebagai deposito berjangka di PT Bank Negara Indonesia (Persero) Tbk dengan bunga 7 persen per tahun. Sementara itu, Sukuk Tahap IV dengan dana bersih Rp673,93 miliar sudah hampir seluruhnya terserap, yakni 99,76 persen atau Rp673,77 miliar untuk membayar utang dan 0,24 persen atau Rp1,63 miliar untuk modal kerja. Laporan ini ditandatangani Direktur LPPI, Kosim Sutiono, dan disampaikan ke Otoritas Jasa Keuangan serta PT Bursa Efek Indonesia sesuai POJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Laporan ini condong netral bagi LPPI, karena hampir seluruh dana obligasi dan sukuk sudah dipakai sesuai rencana yang dijanjikan ke investor saat penerbitan, mayoritas untuk membayar utang lama dan sisanya modal kerja. Pos yang tersentuh di sini adalah arus kas perusahaan, sebab dana dipakai melunasi pokok dan bunga utang sehingga mengurangi beban utang jangka pendek, bukan menambah ekuitas atau jumlah saham beredar. Satu-satunya dana yang belum terpakai, Rp42,06 miliar dari Obligasi Tahap IV, untuk sementara disimpan di deposito berbunga 7 persen per tahun di bank, sehingga tidak sepenuhnya menganggur sambil menunggu dipakai untuk modal kerja. Yang perlu dipantau berikutnya adalah laporan realisasi periode selanjutnya, yang wajib disampaikan LPPI ke OJK dan BEI sampai seluruh sisa dana tersebut benar-benar terserap sesuai rencana di prospektus.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bri-peduli-kenalkan-urban-farming-lewat-brinita",
   "category": "BUMN",
   "title": "BRI Peduli Kenalkan Urban Farming Lewat [BRInita]",
@@ -157,6 +207,109 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah hari ini hanya satu titik data, harga emas Antam naik Rp8.000 jadi Rp2.565.000 per gram dan harga buyback naik ke Rp2.370.000 per gram. Yang terdampak langsung adalah pembeli ritel emas batangan, termasuk yang sedang mempertimbangkan menjual kembali emasnya ke Antam. Data ini belum cukup untuk membaca apakah kenaikan ini awal dari tren naik yang berlanjut atau sekadar fluktuasi harian, karena tidak ada pembanding harga emas dunia maupun pergerakan beberapa hari sebelumnya di informasi ini. Yang perlu dipantau adalah harga emas Antam pada hari-hari berikutnya serta pergerakan harga emas global, karena harga emas Antam biasanya mengikuti arah harga emas dunia.",
   "imageV": "mw4hp9gz"
+ },
+ {
+  "slug": "mknt-pastikan-tak-ada-info-baru-pengendali-tetap-kunci-saham-uma",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Pastikan Tak Ada Info Baru, Pengendali Tetap Kunci Saham [UMA]",
+  "deck": "MKNT, kini bernama PT Remitra Global International, menegaskan tidak ada info material baru menyusul surat permintaan penjelasan BEI atas volatilitas transaksi sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T10:22:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f95f1659e_5db40b0f2c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "volatilitas saham",
+   "Remitra Global International",
+   "Headwell Bintang Energi Hijau"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk, yang kini resmi berganti nama menjadi PT Remitra Global International Tbk, menanggapi surat Bursa Efek Indonesia nomor S-13822/BEI.PP1/11-2026 tanggal 4 November 2026 yang meminta penjelasan atas volatilitas transaksi efek MKNT. Tanggapan dikirim melalui surat nomor 043/MKNT/EXT/BEI/XI/2026 tertanggal 6 November 2026, ditandatangani Direktur Utama Santoso Widjojo.",
+   "Dalam suratnya, perseroan menyatakan tidak mengetahui ada informasi atau fakta material yang belum diungkapkan ke publik, di luar rangkaian aksi korporasi yang sudah pernah diumumkan: RUPSLB tanggal 14 September 2026, pelaksanaan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD), efektifnya perubahan anggaran dasar, perubahan susunan direksi dan komisaris, peningkatan modal anak usaha, serta pengambilalihan saham oleh anak usaha. Perseroan juga menegaskan tidak menerima laporan aktivitas pemegang saham tertentu sesuai POJK No. 4/2024, tidak terlibat transaksi beli kembali saham, dan tidak punya rencana aksi korporasi yang akan mempengaruhi status pencatatan sahamnya dalam tiga bulan mendatang.",
+   "Soal rencana pemegang saham pengendali, PT Headwell Bintang Energi Hijau mengonfirmasi ke perseroan bahwa pihaknya tidak berencana mengalihkan, menjaminkan, menambah, atau mengurangi kepemilikan sahamnya di MKNT. Pernyataan ini sejalan dengan komitmen sebelumnya untuk tidak mengalihkan saham perseroan selama tiga tahun sejak terjadinya perubahan pengendalian."
+  ],
+  "fotoAdegan": "Exterior view of a glass office tower in downtown Jakarta, pedestrians crossing below, hazy midday light",
+  "takeaway": "Surat ini condong netral bagi investor, sebab isinya konfirmasi rutin bahwa tidak ada informasi baru di balik pergerakan saham, dan komitmen pengendali PT Headwell Bintang Energi Hijau untuk tidak melepas sahamnya sebenarnya sudah diumumkan sejak awal perubahan pengendalian, bukan kabar segar. Yang tersentuh di sini adalah jumlah saham beredar, karena penambahan modal tanpa hak memesan efek terlebih dahulu yang disebut dalam surat ini menambah saham baru tanpa menawarkannya dulu ke pemegang saham lama, sehingga porsi kepemilikan dan laba per saham pemegang lama berpotensi tergerus. Struktur pengendalian juga relevan dipantau karena pengendali menegaskan tidak berencana menambah, mengurangi, atau menjaminkan sahamnya, yang berarti peta kekuasaan di perseroan untuk sementara tidak berubah. Yang perlu dipantau berikutnya adalah apakah pernyataan bahwa tidak ada aksi korporasi baru dalam tiga bulan ke depan tetap berlaku, mengingat rangkaian RUPSLB, pergantian direksi dan komisaris, serta perubahan nama perseroan baru saja rampung pada tahun ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pthk-siapkan-rp1-triliun-untuk-pelunasan-obligasi-2016",
+  "category": "Aksi Korporasi",
+  "title": "PTHK Siapkan Rp1 Triliun untuk [Pelunasan] Obligasi 2016",
+  "deck": "Hutama Karya (PTHK) menyatakan telah menyediakan dana Rp1 triliun di rekening bank untuk membayar pokok Obligasi Berkelanjutan I Tahap I 2016 yang jatuh tempo 21 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T10:06:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e8c7f01090_ebd6b96871.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTHK",
+  "tags": [
+   "PTHK",
+   "Hutama Karya",
+   "obligasi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Hutama Karya (Persero) menyampaikan kesiapan dana untuk membayar pokok Obligasi Berkelanjutan I Hutama Karya Tahap I Tahun 2016 dengan kode efek PTHK01CN1. Obligasi ini akan jatuh tempo pada 21 Desember 2026 dengan nilai pokok Rp1 triliun. Dalam suratnya ke Bursa Efek Indonesia tertanggal 6 November 2026, perusahaan menegaskan sudah menyiapkan dana sebesar nilai pokok tersebut secara penuh.",
+   "Dana pembayaran itu saat ini ditempatkan pada rekening bank milik Hutama Karya sendiri. Laporan ini merujuk pada Peraturan Bursa Efek Indonesia Nomor I-E tentang Kewajiban Penyampaian Informasi dan Surat Edaran Bursa No. SE-00006/BEI/10-2019, yang mewajibkan emiten melaporkan kesiapan dana pelunasan obligasi menjelang jatuh tempo. Laporan ditandatangani oleh Eka Setya Adrianto selaku Direktur Keuangan dan Manajemen Risiko, dan perusahaan menyatakan tidak ada dampak khusus dari langkah ini terhadap kegiatan operasional, hukum, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Elevated toll road construction site with concrete pillars and a crane, workers in safety vests, overcast afternoon light",
+  "takeaway": "Laporan ini positif bagi Hutama Karya, karena menegaskan perusahaan sudah memegang dana tunai Rp1 triliun yang siap dipakai melunasi pokok obligasi, lebih dari sebulan sebelum jatuh tempo pada 21 Desember 2026. Ini menyangkut arus kas perusahaan, yaitu uang tunai yang benar-benar tersedia untuk membayar kewajiban, bukan sekadar angka di atas kertas dalam laporan keuangan. Pelunasan pokok utang ini juga akan menghentikan beban bunga yang selama ini ditanggung Hutama Karya atas obligasi tersebut, sehingga pos utang perusahaan berkurang. Pemegang obligasi dan investor perlu memantau apakah pembayaran benar-benar terealisasi pada tanggal jatuh tempo, 21 Desember 2026, karena baru di titik itu kesiapan dana yang diklaim sekarang benar-benar teruji.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ppln-lepas-direktur-distribusi-ke-kursi-dirjen-esdm",
+  "category": "Aksi Korporasi",
+  "title": "PPLN Lepas Direktur Distribusi ke Kursi [Dirjen] ESDM",
+  "deck": "Direktur Distribusi PLN Arsyadany G. Akmalaputri diangkat jadi Dirjen Ketenagalistrikan ESDM, posisinya untuk sementara dirangkap Direktur Niaga M. Fahrur Rozy sambil menunggu RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T10:02:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/61cd8fc5f0_7b3604b9a7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPLN",
+  "tags": [
+   "PPLN",
+   "Direksi PLN",
+   "Dirjen ESDM",
+   "Pergantian Direktur"
+  ],
+  "body": [
+   "Pada 2 November 2026, Arsyadany G. Akmalaputri yang menjabat Direktur Distribusi PT Perusahaan Listrik Negara (Persero) atau PLN diangkat sebagai Direktur Jenderal Ketenagalistrikan Kementerian Energi dan Sumber Daya Mineral. PLN menyampaikan keterbukaan informasi ini ke Bursa Efek Indonesia dan Otoritas Jasa Keuangan pada 6 November 2026. Berdasarkan Undang-Undang BUMN dan aturan turunannya, direksi badan usaha milik negara dilarang merangkap jabatan struktural di instansi pemerintah pusat, sehingga jabatan Arsyadany sebagai Direktur Distribusi otomatis berakhir sejak tanggal pengangkatannya di Kementerian ESDM.",
+   "Untuk mengisi kekosongan itu, Dewan Komisaris PLN menerbitkan surat nomor 207/DK-PLN/2026 tertanggal 3 November 2026 yang menunjuk M. Fahrur Rozy sebagai Pelaksana Tugas atau Plt Direktur Distribusi. Fahrur Rozy sebelumnya dan masih menjabat Direktur Retail dan Niaga, sehingga ia kini merangkap dua kursi direksi sekaligus. Penunjukan ini bersifat sementara dan berlaku sampai Rapat Umum Pemegang Saham menetapkan direktur distribusi definitif.",
+   "PLN menegaskan perubahan ini tidak membawa dampak material terhadap operasional perusahaan. Dengan perubahan tersebut, susunan direksi PLN saat ini terdiri dari Suroso Isnandar sebagai Direktur Utama yang juga merangkap Plt Direktur Manajemen Proyek dan Energi Baru Terbarukan, Yusuf Didi Setiarto sebagai Wakil Direktur Utama, Nurlely Aman sebagai Direktur Legal dan Manajemen Human Capital, Sulistyo Biantoro sebagai Direktur Keuangan, Rakhmad Dewanto Haris J. sebagai Direktur Perencanaan Korporat dan Pengembangan Bisnis, Edwin Nugraha Putra sebagai Direktur Teknologi, Engineering, dan Keberlanjutan, M. Fahrur Rozy sebagai Direktur Retail dan Niaga sekaligus Plt Direktur Distribusi, Denny Triyanto sebagai Direktur Manajemen Risiko, Daniel Karmel Fernando Tampubolon sebagai Direktur Transmisi dan Perencanaan Sistem, serta Rizal Calvary Marimbo sebagai Direktur Manajemen Pembangkitan."
+  ],
+  "fotoAdegan": "Utility workers inspecting electrical transmission towers and power lines in rural Java at dusk, hard hats and safety vests visible",
+  "takeaway": "Perubahan pengurus ini condong netral bagi fundamental PLN, karena murni soal pergantian personel dan perusahaan sendiri menyatakan tidak ada dampak material terhadap operasionalnya. Tidak ada pos keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh oleh pergantian ini, yang perlu diperhatikan justru kontinuitas manajemen, sebab posisi Direktur Distribusi untuk sementara dipegang rangkap oleh M. Fahrur Rozy yang juga menjabat Direktur Retail dan Niaga, sehingga satu orang mengurus dua portofolio besar sekaligus. Yang perlu dipantau berikutnya adalah kapan Rapat Umum Pemegang Saham PLN menetapkan direktur distribusi definitif, sebab dokumen ini tidak menyebut tanggal RUPS tersebut, sekaligus seberapa lama rangkap jabatan Fahrur Rozy berlangsung sebelum ada kejelasan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "agrs-gelar-rupslb-ganti-direktur-utama-dan-status-pma",
+  "category": "Aksi Korporasi",
+  "title": "AGRS Gelar RUPSLB, [Ganti] Direktur Utama dan Status PMA",
+  "deck": "Bank IBK Indonesia mengundang RUPSLB 30 November 2026 untuk mengganti direksi dan menegaskan status penanaman modal asing.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T09:57:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5a8ad22415_55c9f4bf39.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGRS",
+  "tags": [
+   "AGRS",
+   "RUPSLB",
+   "Bank IBK Indonesia",
+   "Direksi"
+  ],
+  "body": [
+   "PT Bank IBK Indonesia Tbk (AGRS) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 30 November 2026 pukul 13.30 WIB di Tiara 1-2 Ballroom, Mangkuluhur Artotel Suites, Jakarta. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per 5 November 2026 pukul 16.00 WIB. Rapat digelar secara elektronik lewat aplikasi eASY.KSEI, dengan batas pemberian kuasa konvensional pada 27 November 2026 pukul 16.00 WIB dan kuasa elektronik (e-proxy) pada tanggal yang sama.",
+   "Agenda pertama RUPSLB adalah persetujuan perubahan susunan direksi. Dokumen melampirkan riwayat hidup dua calon direksi, yaitu Jang Ji Kyu sebagai calon Direktur Utama, menggantikan Oh In Taek yang telah mengundurkan diri sejak 31 Agustus 2026, dan R Martin Tandya Nugraha Setjadiningrat sebagai calon direktur. Jang Ji Kyu sebelumnya menjabat General Manager Global Business Department di KB Kookmin Bank, Korea Selatan, sementara Martin kini Business Banking Advisor di Bank IBK Indonesia setelah berkarier di Bank Permata, Bank QNB Indonesia, dan Bank Maybank Indonesia.",
+   "Agenda kedua adalah perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Perseroan menyebut ini sebagai penyesuaian administratif, bukan perubahan kegiatan usaha. Agenda ketiga adalah penegasan jenis penanaman modal perseroan dari Penanaman Modal Dalam Negeri (PMDN) menjadi Penanaman Modal Asing (PMA). Sesuai dokumen, pemegang saham mayoritas AGRS saat ini adalah Industrial Bank of Korea dengan 91,49 persen, sementara publik memegang 8,51 persen."
+  ],
+  "fotoAdegan": "Exterior of a modern office tower along a busy Jakarta business district avenue, taxis passing, late afternoon light",
+  "takeaway": "RUPSLB ini condong netral bagi performa AGRS karena intinya administratif: mengisi kursi direktur utama yang kosong sejak Oh In Taek mundur Agustus lalu, merapikan klasifikasi usaha sesuai KBLI baru, dan menegaskan status penanaman modal asing yang sebenarnya sudah sesuai kenyataan karena pemegang saham mayoritas, Industrial Bank of Korea, menguasai 91,49 persen saham. Perubahan direksi dan status PMA ini tidak mengubah ekuitas, arus kas, atau jumlah saham beredar perseroan, jadi pelaku pasar biasanya tidak langsung mengaitkannya dengan laba per saham; yang lebih relevan dipantau justru apakah manajemen baru membawa perubahan arah bisnis bank. Yang perlu dicermati berikutnya adalah hasil RUPSLB pada 30 November 2026, terutama apakah kuorum agenda perubahan anggaran dasar yang mensyaratkan kehadiran minimal dua pertiga saham berhak suara tercapai, serta siapa yang akhirnya disahkan sebagai direktur utama definitif AGRS.",
+  "sentimen": "netral"
  },
  {
   "slug": "csis-akhiri-rencana-jual-saham-kdtn-ke-ruby-mining",

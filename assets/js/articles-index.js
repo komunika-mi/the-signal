@@ -48,6 +48,35 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "totl-bagikan-dividen-interim-rp136-4-miliar-rp40-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "TOTL Bagikan [Dividen] Interim Rp136,4 Miliar, Rp40 per Saham",
+  "deck": "Total Bangun Persada menetapkan dividen interim tunai Rp40 per saham atau total Rp136,4 miliar, dengan pembayaran pada 4 Desember 2026.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOTL",
+   "dividen interim",
+   "konstruksi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/09e8345e2d_45c5369d28.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppi-rampungkan-realisasi-dana-obligasi-sukuk-rp2-74-triliun",
+  "category": "Aksi Korporasi",
+  "title": "LPPI rampungkan [realisasi] dana obligasi-sukuk Rp2,74 triliun",
+  "deck": "LPPI melaporkan penggunaan dana dari empat obligasi dan sukuk berkelanjutan senilai total Rp2,74 triliun, mayoritas untuk membayar utang, dengan sisa Rp42,06 miliar masih mengendap di deposito.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b94791b0eb_e9173d36e3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bri-peduli-kenalkan-urban-farming-lewat-brinita",
   "category": "BUMN",
   "title": "BRI Peduli Kenalkan Urban Farming Lewat [BRInita]",
@@ -97,6 +126,70 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476903-harga-emas-antam-hari-ini-6-november-2026-naik-jadi-rp2565000-per-gram-buyback-ikut-melonjak"
+ },
+ {
+  "slug": "mknt-pastikan-tak-ada-info-baru-pengendali-tetap-kunci-saham-uma",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Pastikan Tak Ada Info Baru, Pengendali Tetap Kunci Saham [UMA]",
+  "deck": "MKNT, kini bernama PT Remitra Global International, menegaskan tidak ada info material baru menyusul surat permintaan penjelasan BEI atas volatilitas transaksi sahamnya.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "volatilitas saham",
+   "Remitra Global International",
+   "Headwell Bintang Energi Hijau"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f95f1659e_5db40b0f2c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pthk-siapkan-rp1-triliun-untuk-pelunasan-obligasi-2016",
+  "category": "Aksi Korporasi",
+  "title": "PTHK Siapkan Rp1 Triliun untuk [Pelunasan] Obligasi 2016",
+  "deck": "Hutama Karya (PTHK) menyatakan telah menyediakan dana Rp1 triliun di rekening bank untuk membayar pokok Obligasi Berkelanjutan I Tahap I 2016 yang jatuh tempo 21 Desember 2026.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTHK",
+   "Hutama Karya",
+   "obligasi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e8c7f01090_ebd6b96871.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppln-lepas-direktur-distribusi-ke-kursi-dirjen-esdm",
+  "category": "Aksi Korporasi",
+  "title": "PPLN Lepas Direktur Distribusi ke Kursi [Dirjen] ESDM",
+  "deck": "Direktur Distribusi PLN Arsyadany G. Akmalaputri diangkat jadi Dirjen Ketenagalistrikan ESDM, posisinya untuk sementara dirangkap Direktur Niaga M. Fahrur Rozy sambil menunggu RUPS.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPLN",
+   "Direksi PLN",
+   "Dirjen ESDM",
+   "Pergantian Direktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/61cd8fc5f0_7b3604b9a7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "agrs-gelar-rupslb-ganti-direktur-utama-dan-status-pma",
+  "category": "Aksi Korporasi",
+  "title": "AGRS Gelar RUPSLB, [Ganti] Direktur Utama dan Status PMA",
+  "deck": "Bank IBK Indonesia mengundang RUPSLB 30 November 2026 untuk mengganti direksi dan menegaskan status penanaman modal asing.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGRS",
+   "RUPSLB",
+   "Bank IBK Indonesia",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5a8ad22415_55c9f4bf39.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "csis-akhiri-rencana-jual-saham-kdtn-ke-ruby-mining",
@@ -6370,103 +6463,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e4c8548145_3b12a20580.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smfp-resmi-catatkan-obligasi-dan-sukuk-senilai-rp3-09-triliun",
-  "category": "Aksi Korporasi",
-  "title": "SMFP resmi catatkan obligasi dan sukuk senilai [Rp3,09 triliun]",
-  "deck": "BEI mencatatkan empat obligasi dan sukuk baru SMF (SMFP) senilai total Rp3,09 triliun mulai 30 Oktober 2026, bagian dari program obligasi berkelanjutan VIII.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMFP",
-   "obligasi korporasi",
-   "sukuk musyarakah",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/4f8ee1de49_06148c49bc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-tanpa-penjualan-di-2024-defisiensi-modal-membesar",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Tanpa Penjualan di 2024, [Defisiensi Modal] Membesar",
-  "deck": "Laporan keuangan tahunan 2024 BOSS menunjukkan nol penjualan, rugi bersih Rp22,2 miliar, dan defisiensi modal yang melebar menjadi Rp224,1 miliar, di tengah pailit anak usaha tambangnya.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "pailit",
-   "opini wajar dengan pengecualian",
-   "defisiensi modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/2106899c86_ce18c95e35.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-anak-usaha-tambang-kantongi-izin-going-concern",
-  "category": "Aksi Korporasi",
-  "title": "BOSS: Anak Usaha Tambang Kantongi Izin [Going Concern]",
-  "deck": "Hakim Pengawas mengizinkan anak usaha BOSS, PT Bangun Olahsarana Sukses, melanjutkan operasi tambang batu bara meski masih berstatus pailit.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "going concern",
-   "pailit",
-   "tambang batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e8853a2cf8_5229c7dff5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kadin-rumuskan-tiga-strategi-jaga-bisnis-dan-ekspor",
-  "category": "Makroekonomi",
-  "title": "Kadin Rumuskan [Tiga] Strategi Jaga Bisnis dan Ekspor",
-  "deck": "Kadin Indonesia mengusulkan tiga langkah menjaga daya beli, pasokan bahan baku, dan kepastian berusaha di tengah ekonomi global yang makin tidak menentu.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/kadin-rumuskan-tiga-strategi-jaga-bisnis-dan-ekspor.jpg",
-  "imageV": "mvvl6yuz",
-  "tags": [
-   "Kadin Indonesia",
-   "ekspor",
-   "ekonomi global",
-   "daya saing usaha"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475851-ekonomi-global-makin-menantang-kadin-ungkap-3-strategi-agar-bisnis-indonesia-tetap-bertahan-dan-ekspor-tumbuh"
- },
- {
-  "slug": "smma-catat-laba-turun-25-jadi-rp2-33-triliun-per-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "SMMA Catat [Laba] Turun 25% jadi Rp2,33 Triliun per September 2026",
-  "deck": "Laba bersih Sinar Mas Multiartha turun 24,6 persen jadi Rp2,33 triliun dalam sembilan bulan 2026, terutama karena hilangnya keuntungan satu kali dari penjualan saham tahun lalu.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMA",
-   "laporan keuangan",
-   "laba bersih",
-   "Sinar Mas Multiartha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031041335-65626-0/FinancialStatement-2026-III-SMMA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-raih-opini-pengecualian-kas-tersisa-rp721-juta",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Raih Opini [Pengecualian], Kas Tersisa Rp721 Juta",
-  "deck": "Laporan keuangan tahunan 2025 BOSS kembali beropini wajar dengan pengecualian akibat pailitnya anak usaha tambang, kas perusahaan susut tajam dari Rp2,45 miliar menjadi Rp721 juta.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "opini pengecualian",
-   "pailit",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202510/20261031031229-65608-0/FinancialStatement-2025-Tahunan-BOSS.pdf",
   "sourceLabel": "IDX"
  }
 ];

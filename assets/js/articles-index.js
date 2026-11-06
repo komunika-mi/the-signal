@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sbat-dinyatakan-pailit-auditor-beri-opini-disclaimer",
+  "category": "Aksi Korporasi",
+  "title": "SBAT Dinyatakan Pailit, Auditor Beri Opini [Disclaimer]",
+  "deck": "Laporan keuangan audit 2023 SBAT mencatat ekuitas negatif Rp15,56 miliar dan opini disclaimer, menyusul keputusan pailit pengadilan niaga pada Agustus 2025.",
+  "date": "7 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SBAT",
+   "kepailitan",
+   "tender saham",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c03d9d9782_ffb99ca34c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-tatarstan-jajaki-kerja-sama-kapal-dan-investasi",
   "category": "Global",
   "title": "Indonesia-Tatarstan [Jajaki] Kerja Sama Kapal dan Investasi",
@@ -6443,23 +6459,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476081-bukan-sekadar-pameran-pertamina-smexpo-2026-di-bekasi-hadirkan-konsep-belanja-ala-ritel-modern-bagi-umkm"
- },
- {
-  "slug": "indonesia-teken-pakta-pajak-global-tukar-data-mulai-2027",
-  "category": "Makroekonomi",
-  "title": "Indonesia Teken Pakta Pajak Global, Tukar Data Mulai [2027]",
-  "deck": "Dirjen Pajak menandatangani kesepakatan tukar-data pajak internasional di Montenegro, menjadikan Indonesia negara ke-41 yang bergabung untuk mengawasi Pajak Minimum Global perusahaan multinasional.",
-  "date": "1 November 2026",
-  "image": "assets/img/indonesia-teken-pakta-pajak-global-tukar-data-mulai-2027.jpg",
-  "imageV": "mvxo9gzk",
-  "tags": [
-   "Pajak",
-   "DJP",
-   "Pajak Minimum Global",
-   "Kerja Sama Internasional"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/indonesia-perkuat-kerja-sama-pajak-global-dirjen-pajak-tandatangani-gir-mcaa",
-  "sourceLabel": "Direktorat Jenderal Pajak"
  }
 ];

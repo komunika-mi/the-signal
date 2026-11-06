@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sbat-dinyatakan-pailit-auditor-beri-opini-disclaimer",
+  "category": "Aksi Korporasi",
+  "title": "SBAT Dinyatakan Pailit, Auditor Beri Opini [Disclaimer]",
+  "deck": "Laporan keuangan audit 2023 SBAT mencatat ekuitas negatif Rp15,56 miliar dan opini disclaimer, menyusul keputusan pailit pengadilan niaga pada Agustus 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 November 2026",
+  "isoDate": "2026-11-07T03:07:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c03d9d9782_ffb99ca34c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SBAT",
+  "tags": [
+   "SBAT",
+   "kepailitan",
+   "tender saham",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Sejahtera Bintang Abadi Textile Tbk (SBAT) menyampaikan laporan keuangan konsolidasian teraudit untuk tahun buku 2023 kepada Otoritas Jasa Keuangan. Kantor Akuntan Publik Djoko, Sidik dan Indra, melalui akuntan publik Yansyafrin, memberikan opini tidak menyatakan pendapat alias disclaimer atas laporan tersebut. Auditor menyebut tidak bisa memperoleh bukti audit yang cukup karena pada 29 Agustus 2025 SBAT telah diputus pailit oleh Pengadilan Niaga di Pengadilan Negeri Jakarta Pusat, setelah sebelumnya pada Juli 2024 perusahaan menghentikan kegiatan operasional dan mengurangi jumlah karyawan.",
+   "Dampaknya terlihat jelas di angka. Ekuitas, yaitu selisih antara aset dan utang SBAT, berbalik menjadi minus Rp15,56 miliar pada akhir 2023, dari sebelumnya positif Rp171,40 miliar setahun sebelumnya. Penjualan bersih ambruk dari Rp111,99 miliar pada 2022 menjadi hanya Rp14,36 miliar pada 2023, selisih minus Rp97,63 miliar. Rugi bersih tahun berjalan melebar menjadi Rp186,96 miliar, lebih dari dua kali lipat dibanding rugi Rp87,62 miliar pada 2022. Total aset turun dari Rp657,66 miliar menjadi Rp517,11 miliar, sementara total liabilitas naik dari Rp486,25 miliar menjadi Rp532,67 miliar, dan defisit akumulasi membengkak dari Rp133,62 miliar menjadi Rp320,58 miliar.",
+   "Dalam berkas yang sama, SBAT juga menyampaikan revisi dokumen keterbukaan informasi penawaran tender sukarela oleh PT Mitra Bintang Sejahtera Trading (MBST). MBST menawarkan membeli maksimal 2.448.771.079 saham, atau 51,52 persen dari seluruh saham SBAT yang telah disetor penuh, dengan harga Rp2 per saham, sehingga nilai transaksi maksimal mencapai sekitar Rp4,9 miliar. Harga tersebut mengikuti aturan OJK yang mewajibkan penggunaan harga tertinggi antara rata-rata harga pasar 30 hari terakhir, yang juga sebesar Rp2 per saham, dan nilai buku per saham yang kini sudah negatif Rp3,27 karena ekuitas perusahaan minus. Pernyataan efektif dari OJK diperkirakan terbit 10 Desember 2026, masa penawaran berlangsung 14 Desember 2026 sampai 13 Januari 2027, dan pembayaran kepada pemegang saham yang ikut dijadwalkan 18 Januari 2027."
+  ],
+  "fotoAdegan": "Idle textile weaving machines standing silent in a dim factory hall, dust on the equipment, soft light through high windows",
+  "takeaway": "Laporan ini jelas negatif bagi SBAT, sebab auditor menyatakan tidak bisa memberi opini sama sekali atas laporan keuangan 2023, bukan sekadar catatan minor, melainkan akibat perusahaan sudah diputus pailit oleh pengadilan niaga. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, yang kini berbalik negatif Rp15,56 miliar, artinya kewajiban SBAT sudah melebihi semua yang dimilikinya. Rugi bersih tahun ini juga melebar lebih dari dua kali lipat, dan pendapatan merosot tajam karena pabrik sudah berhenti beroperasi sejak Juli 2024, dua sinyal yang biasa dipantau investor untuk menilai apakah perusahaan masih sanggup membayar utang dan beroperasi. Harga tender Rp2 per saham yang ditawarkan MBST pun mengikuti aturan OJK karena nilai buku sahamnya sendiri sudah negatif, bukan hasil negosiasi harga wajar. Yang perlu dipantau berikutnya adalah proses kepailitan yang kini ditangani kurator, serta jadwal tender saham, yaitu pernyataan efektif OJK yang diperkirakan 10 Desember 2026, masa penawaran 14 Desember 2026 sampai 13 Januari 2027, dan pembayaran pada 18 Januari 2027.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "indonesia-tatarstan-jajaki-kerja-sama-kapal-dan-investasi",
   "category": "Global",
   "title": "Indonesia-Tatarstan [Jajaki] Kerja Sama Kapal dan Investasi",

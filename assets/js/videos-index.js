@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "_-0MCUGj8HE",
+  "title": "Ekonomi Indonesia Tumbuh 5,47 Persen di Kuartal III 2026",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pertumbuhan ekonomi Indonesia pada kuartal III 2026 tercatat 5,47 persen secara tahunan, naik dari 5,29 persen pada kuartal sebelumnya.",
+  "takeaway": "Data pertumbuhan domestik bruto ini menjadi acuan utama untuk menilai arah kebijakan ekonomi makro pemerintah di sisa tahun."
+ },
+ {
+  "id": "lEwdsTC0dSo",
+  "title": "Pemerintah Percepat Pembangunan Kawasan Swasembada Pangan dan Energi",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah mempercepat penyusunan rencana induk Kawasan Swasembada Pangan, Energi, dan Air Nasional di empat provinsi.",
+  "takeaway": "Proyek strategis ini relevan bagi pembaca karena menyangkut arah investasi dan ketahanan pangan serta energi nasional."
+ },
+ {
   "id": "SXSTX6n-ypI",
   "title": "Pajak PPN 11 Persen untuk Pembalut Picu Perdebatan Publik",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Bisnis Bareng Orang Hebat",
   "summary": "Pertamina memperkenalkan sejumlah terobosan di bidang energi berkelanjutan sebagai bagian dari upaya menjaga ketahanan energi nasional.",
   "takeaway": "Langkah inovasi energi dari BUMN sebesar Pertamina relevan bagi pembaca karena berkaitan dengan ketahanan energi dan daya saing industri nasional."
- },
- {
-  "id": "KB5IaQ1zUCI",
-  "title": "Indonesia-Malaysia Perkuat Kerja Sama Ekonomi Bilateral",
-  "category": "Global",
-  "program": "Kabar Merah Putih",
-  "summary": "Indonesia dan Malaysia menggelar Persidangan Ke-41 Sosek Malindo di Jakarta untuk membahas penguatan kerja sama ekonomi dan sosial kedua negara.",
-  "takeaway": "Forum bilateral ini relevan karena menyangkut arah kerja sama ekonomi regional yang berdampak pada perdagangan dan investasi kedua negara."
- },
- {
-  "id": "oNagPc9aa6w",
-  "title": "Pemerintah Turunkan Harga Pupuk Subsidi hingga 20 Persen",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah memangkas harga pupuk bersubsidi sebesar 20 persen untuk memperkuat produksi pertanian dan menekan biaya usaha tani.",
-  "takeaway": "Kebijakan ini penting bagi pembaca ekonomi karena menyangkut biaya produksi pertanian dan daya saing sektor pangan nasional."
  }
 ];

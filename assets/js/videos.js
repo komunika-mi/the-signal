@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "_-0MCUGj8HE",
+  "title": "Ekonomi Indonesia Tumbuh 5,47 Persen di Kuartal III 2026",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pertumbuhan ekonomi Indonesia pada kuartal III 2026 tercatat 5,47 persen secara tahunan, naik dari 5,29 persen pada kuartal sebelumnya.",
+  "takeaway": "Data pertumbuhan domestik bruto ini menjadi acuan utama untuk menilai arah kebijakan ekonomi makro pemerintah di sisa tahun.",
+  "terbit": "2026-11-06T08:42:49+00:00"
+ },
+ {
+  "id": "lEwdsTC0dSo",
+  "title": "Pemerintah Percepat Pembangunan Kawasan Swasembada Pangan dan Energi",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah mempercepat penyusunan rencana induk Kawasan Swasembada Pangan, Energi, dan Air Nasional di empat provinsi.",
+  "takeaway": "Proyek strategis ini relevan bagi pembaca karena menyangkut arah investasi dan ketahanan pangan serta energi nasional.",
+  "terbit": "2026-11-06T08:41:05+00:00"
+ },
+ {
   "id": "SXSTX6n-ypI",
   "title": "Pajak PPN 11 Persen untuk Pembalut Picu Perdebatan Publik",
   "category": "Makroekonomi",

@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "realisasi-investasi-rp3-923-2-triliun-topang-pergeseran-kerja",
+  "category": "Makroekonomi",
+  "title": "Realisasi [Investasi] Rp3.923,2 Triliun Topang Pergeseran Kerja",
+  "deck": "Pemerintah mencatat investasi dua tahun terakhir tembus Rp3.923,2 triliun dan menyerap 5,49 juta pekerja, di tengah pergeseran pola kerja akibat transformasi ekonomi.",
+  "date": "6 November 2026",
+  "image": "assets/img/terminal-bus.jpg",
+  "tags": [
+   "transformasi ekonomi",
+   "investasi",
+   "tenaga kerja",
+   "indeks industri"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7203/transformasi-struktur-ekonomi-buka-peluang-baru-pemerintah-perkuat-investasi-dan-kesiapan-tenaga-kerja",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "esdm-serahkan-137-hektare-lahan-tambang-ke-kopassus",
+  "category": "Energi",
+  "title": "ESDM Serahkan [137] Hektare Lahan Tambang ke Kopassus",
+  "deck": "Kementerian ESDM mengalihkan status 137,1 hektare lahan eks tambang batu bara di Kutai Kartanegara kepada Kemhan untuk mendukung operasional Kopassus.",
+  "date": "6 November 2026",
+  "image": "assets/img/esdm-serahkan-137-hektare-lahan-tambang-ke-kopassus.jpg",
+  "imageV": "mw4secuj",
+  "tags": [
+   "ESDM",
+   "Kopassus",
+   "Kementerian Pertahanan",
+   "lahan tambang"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-serahkan-137-hektare-lahan-eks-tambang-kepada-kemhan-untuk-dukung-kopassus",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "ayls-panggil-rupslb-ganti-direktur-utama-30-november",
   "category": "Aksi Korporasi",
   "title": "AYLS panggil RUPSLB, ganti [Direktur Utama] 30 November",
@@ -6430,38 +6464,6 @@ var ARTICLES = [
    "kuartal III 2026"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031115317-65573-0/FinancialStatement-2026-III-MERI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-anak-usaha-raih-kontrak-epc-pltmg-pln-rp3-8-t",
-  "category": "Aksi Korporasi",
-  "title": "BIKE: Anak Usaha Raih [Kontrak] EPC PLTMG PLN Rp3,8 T",
-  "deck": "Anak usaha BIKE, PT Karya Bersinar Indonesia, mendapat kontrak EPC PLTMG 2x100 MW senilai Rp3,8 triliun dari PLN Indonesia Power.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "kontrak PLN",
-   "EPC PLTMG",
-   "energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/f8e66ad747_efd7b7f434.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "slis-rugi-melebar-9-bulan-kas-operasi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "SLIS Rugi Melebar 9 Bulan, Kas Operasi [Negatif]",
-  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan rugi bersih SLIS melebar menjadi Rp9,67 miliar, sementara arus kas dari kegiatan usaha berbalik negatif Rp15,68 miliar.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SLIS",
-   "laporan keuangan",
-   "rugi bersih",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031105118-65528-0/FinancialStatement-2026-III-SLIS.pdf",
   "sourceLabel": "IDX"
  }
 ];

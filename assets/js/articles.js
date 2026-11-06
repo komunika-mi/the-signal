@@ -3,6 +3,90 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "fasilitas-devisa-ekspor-sda-diperluas-portal-dsi-siap-2027",
+  "category": "Moneter",
+  "title": "Fasilitas Devisa Ekspor SDA [Diperluas], Portal DSI Siap 2027",
+  "deck": "Pemerintah memperluas fasilitas penempatan devisa hasil ekspor SDA ke tujuh negara dan 16 bank, sekaligus menyiapkan Portal DSI yang wajib dipakai eksportir batu bara, sawit, dan feroaloi mulai 2027.",
+  "image": "assets/img/konpers-bank.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T13:36:39.659Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7204/perluas-fleksibilitas-dhe-sda-dan-siapkan-go-live-portal-dsi-pemerintah-pastikan-ekspor-tetap-lancar",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "DHE SDA",
+   "Portal DSI",
+   "Ekspor SDA",
+   "Danantara"
+  ],
+  "body": [
+   "Pemerintah memperluas aturan soal penyimpanan uang hasil ekspor sumber daya alam dan sekaligus menyiapkan sistem pengawasan baru untuk ekspor tiga komoditas strategis, batu bara, sawit, dan feroaloi, yaitu campuran besi dengan logam lain untuk bahan baku industri. Kementerian Koordinator Bidang Perekonomian mengumumkan perluasan fasilitas devisa hasil ekspor sumber daya alam (DHE SDA) ke tujuh negara dan kawasan mitra dagang, serta memastikan Portal DSI milik BUMN ekspor PT Danantara Sumberdaya Indonesia siap beroperasi penuh mulai 1 Januari 2027. Kedua kebijakan ini penting bagi pelaku usaha karena menentukan berapa lama dan di bank mana uang hasil ekspor mereka wajib disimpan, sekaligus menambah satu lapisan pemeriksaan dokumen baru sebelum barang boleh dikirim ke luar negeri.",
+   "Berdasarkan aturan dasarnya, eksportir di sektor tambang, perkebunan, kehutanan, dan perikanan wajib memasukkan seluruh uang hasil ekspornya ke rekening khusus di bank dalam negeri. Untuk ekspor nonmigas, seluruh dana itu wajib mengendap minimal 12 bulan, sedangkan untuk ekspor minyak dan gas cukup 30 persen yang mengendap minimal tiga bulan, dan keduanya harus ditempatkan di bank milik negara. Menko Perekonomian Airlangga Hartarto menegaskan dana tersebut tidak dibekukan, karena selama masa mengendap itu masih bisa dipakai eksportir untuk menukar ke rupiah maksimal separuhnya, membayar pajak, membagikan dividen, membeli barang dan jasa, hingga membayar pinjaman, selama uangnya tetap tercatat di rekening valuta asing tadi.",
+   "Pengecualian berlaku bagi eksportir tambang yang terikat perjanjian dagang bilateral dengan negara tertentu. Lewat Pasal 18A PP 21/2026, mereka cukup menyimpan 30 persen dana ekspor selama tiga bulan, sedangkan 70 persen sisanya bebas digunakan, dan boleh ditempatkan di bank swasta yang ditunjuk, bukan hanya bank negara. Daftar negara mitra untuk fasilitas ini baru saja diperluas dari empat menjadi tujuh, dengan tambahan Korea Selatan, Jepang, dan Uni Eropa, sementara jumlah bank penempatannya naik dari 15 menjadi 16 seiring masuknya Bank OCBC NISP. Pemerintah juga sedang menyiapkan revisi aturan yang akan memperbesar porsi dana ekspor yang boleh ditukar ke rupiah, serta memperluas definisi eksportir yang berhak memakai fasilitas ini kepada perusahaan dengan kepemilikan tidak langsung melalui pemilik manfaat akhir, atau yang disebut UBO.",
+   "Pada pilar kedua, PP 24/2026 mewajibkan ekspor tiga komoditas strategis, batu bara, kelapa sawit, dan feroaloi, melalui satu pintu pemeriksaan tambahan di Portal DSI. Ketiga komoditas itu bersama-sama menyumbang sekitar US$66,13 miliar atau 23,4 persen dari total nilai ekspor nasional pada 2025, menurut data yang dipaparkan Kemenko Perekonomian. Kebijakan ini berlaku sejak 1 Juni 2026 dengan masa transisi sampai 31 Desember 2026, sebelum Portal DSI wajib dipakai penuh mulai awal 2027.",
+   "Negosiasi harga dan transaksi tetap berlangsung langsung antara eksportir dan pembeli. DSI hanya memeriksa dokumen kontrak dan menyetujui draf dokumen pemberitahuan ekspor sebelum diteruskan ke sistem bea cukai yang sudah biasa dipakai eksportir, sehingga menurut Kemenko Perekonomian prosedur ekspor sehari-hari tidak berubah. Direktur Utama DSI Luke Mahony menyebutkan Portal DSI, yang disebut NADI, sudah diuji coba oleh sekitar 100 eksportir yang mewakili sekitar separuh nilai ekspor ketiga komoditas tersebut dengan sekitar 340 kontrak, dan setelah ekspor berjalan DSI akan memeriksa ulang data berdasarkan metodologi pasar independen serta meminta penjelasan eksportir jika ada selisih data."
+  ],
+  "fotoAdegan": "Workers monitoring a conveyor belt loading coal onto a cargo ship at a busy Indonesian export terminal, overcast afternoon light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah konkret ada dua hal: daftar negara mitra untuk fasilitas keringanan penempatan dolar ekspor bertambah dari empat menjadi tujuh, dengan tambahan Korea Selatan, Jepang, dan Uni Eropa, dan bank yang bisa menerima titipan dolar itu naik dari 15 jadi 16 dengan masuknya Bank OCBC NISP, sementara pemerintah juga sedang menyiapkan aturan baru soal pelonggaran porsi dolar ekspor yang wajib ditukar ke rupiah. Yang langsung terdampak adalah eksportir tambang yang berdagang dengan negara-negara mitra itu, karena mereka cukup menyimpan 30 persen dolar ekspornya selama tiga bulan dan sisanya bebas dipakai, jauh lebih ringan dibanding aturan umum yang mewajibkan hampir semua dolar ekspor nonmigas mengendap setahun penuh. Di sisi lain, eksportir batu bara, sawit, dan feroaloi justru mendapat lapisan pengawasan baru lewat Portal DSI yang bakal wajib dipakai penuh mulai 1 Januari 2027, jadi arah kebijakan ini sebetulnya bergerak dua arah sekaligus, melonggarkan sisi penggunaan dolar ekspor sambil memperketat sisi pemantauan datanya. Yang akan memastikan ke mana bobot kebijakan ini sebenarnya condong adalah isi revisi aturan konversi ke rupiah yang detailnya belum diumumkan, serta apakah Portal DSI benar-benar berjalan penuh begitu masa transisi berakhir pada 31 Desember 2026.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "wamendag-tinjau-batik-keris-bidik-ekspor-ke-asia-tenggara",
+  "category": "Industri",
+  "title": "Wamendag Tinjau Batik Keris, Bidik [Ekspor] ke Asia Tenggara",
+  "deck": "Wamendag Dyah Roro Esti meninjau pabrik Batik Keris di Sukoharjo untuk memetakan potensi ekspor batik ke Asia Tenggara, saat ekspor batik nasional tumbuh 13 persen pada 2025.",
+  "image": "assets/img/wamendag-tinjau-batik-keris-bidik-ekspor-ke-asia-tenggara.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T13:36:29.489Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tinjau-pabrik-batik-keris-wamendag-roro-dorong-batik-tembus-pasar-ekspor",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "batik",
+   "ekspor",
+   "Kemendag",
+   "UMKM"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri meninjau proses produksi Batik Keris di Kabupaten Sukoharjo, Jawa Tengah, pada Jumat, 6 November 2026. Kunjungan ini bagian dari upaya pemerintah memetakan potensi UMKM batik untuk menembus pasar ekspor, terutama ke kawasan Asia Tenggara yang dinilai memiliki kedekatan sejarah dan budaya dengan Indonesia. Kemendag juga ingin melihat langsung dampak penyerapan tenaga kerja dari industri batik di daerah tersebut.",
+   "Batik Keris berdiri sejak 1947 dan kini mempekerjakan 435 tenaga kerja dengan 311 unit mesin produksi, menghasilkan sekitar 60 ribu potong pakaian per bulan berupa kemeja, blus, rok, pakaian luar, dan busana anak. Secara nasional, nilai ekspor batik Indonesia pada 2025 tercatat US$30,62 juta, tumbuh 13,03 persen dari US$26,63 juta pada 2024, menurut data Badan Pusat Statistik. Namun pada semester I 2026, nilai ekspor batik baru mencapai US$4,39 juta, jauh di bawah separuh capaian tahun sebelumnya.",
+   "Untuk memperluas pasar, Kemendag mendorong pelaku usaha batik berkomunikasi dengan 46 perwakilan perdagangan Indonesia di 33 negara agar bisa dipertemukan dengan calon pembeli lewat agenda penjajakan bisnis. Kemendag juga menyiapkan pembinaan, promosi periklanan, dan ajang peragaan busana sebagai sarana memperkenalkan batik ke mancanegara. CEO Batik Keris Andy Rusli menyatakan perusahaannya berminat mengikuti Trade Expo Indonesia mendatang untuk menjaring pembeli, tetapi untuk saat ini masih memprioritaskan pemenuhan permintaan dalam negeri sembari membina perajin batik baru.",
+   "Dalam kunjungan itu, Wamendag Roro juga menyoroti program kaderisasi pembatik lintas generasi yang dijalankan Batik Keris, di mana pekerja senior yang telah mengabdi belasan hingga puluhan tahun mendampingi pekerja junior. Turut hadir dalam kunjungan tersebut Plt. Direktur Pengembangan Ekspor Jasa dan Produk Kreatif Kemendag Deden M. Fajar Siddiq serta Kepala Dinas Koperasi, UKM, dan Perdagangan Kabupaten Sukoharjo Sumarno."
+  ],
+  "fotoAdegan": "Workers in a batik workshop applying wax patterns with traditional canting tools onto fabric, stacked cloth bolts nearby, warm factory daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/0xkKTHmxVCDW4tx7zPkx5WhPP6fouUnjZ202A4HU.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari kunjungan ini bukan aturan baru, melainkan sinyal bahwa pemerintah mulai memetakan batik sebagai komoditas ekspor lewat jaringan 46 perwakilan dagang di 33 negara, bukan sekadar lewat promosi budaya. Yang langsung terdampak adalah pekerja Batik Keris, termasuk pembatik senior dan junior dalam program kaderisasi, serta pelaku UMKM batik lain yang didorong memanfaatkan jaringan perwadag itu. Data yang disebut justru menunjukkan dua arah berbeda: ekspor batik nasional tumbuh 13,03 persen sepanjang 2025 menjadi US$30,62 juta, tapi realisasi semester I 2026 baru US$4,39 juta, jauh di bawah separuh capaian tahun sebelumnya. Itu bisa berarti momentum 2025 belum berlanjut di 2026, meski bisa juga semata pola musiman ekspor batik. Yang akan memastikan arahnya adalah data ekspor batik semester II 2026 dan apakah Batik Keris benar jadi peserta Trade Expo Indonesia seperti disampaikan CEO-nya, sebab perusahaan ini sendiri mengaku untuk saat ini masih memprioritaskan pasar domestik.",
+  "imageV": "mw510uwk"
+ },
+ {
+  "slug": "bappebti-rilis-peringkat-69-pialang-berjangka-kuartal-iii",
+  "category": "Pasar Modal",
+  "title": "Bappebti Rilis [Peringkat] 69 Pialang Berjangka Kuartal III",
+  "deck": "Bappebti merilis hasil penilaian berkala terhadap 69 pialang berjangka aktif periode Juli-September 2026, dengan PT PG Berjangka di peringkat teratas.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T13:36:28.006Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tingkatkan-kualitas-pelaku-usaha-pbk-bappebti-umumkan-rating-pialang-berjangka-triwulan-iii-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Bappebti",
+   "Pialang Berjangka",
+   "Kementerian Perdagangan",
+   "Perdagangan Berjangka Komoditi"
+  ],
+  "body": [
+   "Badan Pengawas Perdagangan Berjangka Komoditi (Bappebti) di bawah Kementerian Perdagangan mengumumkan hasil penilaian berkala terhadap pialang berjangka untuk periode Juli-September 2026. Penilaian ini mencakup 69 perusahaan pialang berjangka yang masih aktif beroperasi. Bagi masyarakat yang berencana bertransaksi di perdagangan berjangka komoditi, hasil ini bisa menjadi salah satu acuan untuk memilih perusahaan yang tercatat patuh aturan.",
+   "Penilaian berkala ini wajib dilakukan Bappebti setiap tiga bulan sesuai Peraturan Bappebti Nomor 6 Tahun 2023 tentang Sistem Perdagangan Alternatif. Prosesnya disusun oleh Biro Pengawasan dan Penindakan PBK, Sistem Resi Gudang, dan Pasar Lelang Komoditas yang dipimpin Muhammad Suaib Sulaiman, berdasarkan tiga indikator utama. Indikator itu meliputi kinerja perusahaan seperti kondisi keuangan, kepatuhan aturan, transaksi, dan penerapan aturan anti pencucian uang serta pendanaan terorisme, nilai pengurang dari jumlah pengaduan nasabah dan sanksi, dan nilai penambah bagi perusahaan yang berkontribusi pada likuiditas pasar.",
+   "Berdasarkan penilaian ini, PT PG Berjangka menempati peringkat pertama. Peringkat kedua diisi lima perusahaan, yaitu PT Didi Max Berjangka, PT Inter Pan Pasifik Futures, PT Java Global Futures, PT MRG Mega Berjangka, dan PT XTB Indonesia Berjangka, sementara peringkat ketiga ditempati PT Quickpro Berjangka Indonesia. Peringkat keempat diraih PT Argodana Futures, PT Premier Equity Futures, dan PT Straits Futures Indonesia, dan peringkat kelima diisi PT Esandar Arthamas Berjangka serta PT Finex Bisnis Solusi Futures.",
+   "Data yang dipakai dalam penilaian berasal dari laporan rutin pialang berjangka ke Bappebti, mencakup laporan kondisi keuangan, kepatuhan, transaksi, serta hasil pemeriksaan langsung ke lapangan selama triwulan III 2026. Sesuai aturan, seluruh hasil pemeringkatan ini dipublikasikan melalui situs web resmi Bappebti setiap tiga bulan."
+  ],
+  "fotoAdegan": "Office employees reviewing stacks of financial documents and charts at a busy Jakarta brokerage firm desk, blurred papers, soft daylight",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini adalah publikasi rutin: Bappebti merilis ulang hasil pemeringkatan untuk 69 pialang berjangka aktif periode Juli-September 2026, dengan PT PG Berjangka naik ke posisi teratas dan sebelas perusahaan lain mengisi empat peringkat berikutnya. Yang terdampak langsung adalah calon nasabah yang memakai daftar ini sebagai acuan memilih pialang, serta 69 perusahaan pialang itu sendiri karena reputasi mereka dipertaruhkan di depan publik setiap tiga bulan. Siaran pers ini tidak menyertakan hasil triwulan sebelumnya, sehingga belum bisa dipastikan apakah susunan lima besar ini stabil atau berganti-ganti dari periode ke periode. Yang perlu ditunggu adalah rilis pemeringkatan triwulan IV-2026, yang menurut aturan wajib dipublikasikan paling lambat tiga bulan setelah periode penilaian berakhir, untuk melihat apakah nama-nama yang sama bertahan di posisi atas."
+ },
+ {
   "slug": "bmas-revisi-transaksi-afiliasi-pinjaman-kbank-capai-us-240-juta",
   "category": "Aksi Korporasi",
   "title": "BMAS Revisi Transaksi [Afiliasi]: Pinjaman KBank Capai US$240 Juta",
@@ -263,7 +347,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini: insentif pajak penghasilan bagi pekerja bergaji di bawah Rp10 juta, yang saat ini hanya berlaku di sebagian sektor, dijanjikan meluas ke seluruh sektor pada 2027, dibarengi diskon separuh iuran asuransi kecelakaan kerja dan kematian. Yang terdampak jelas pekerja bergaji menengah ke bawah dan pekerja sektor tradisional seperti tekstil serta alas kaki yang disebut tertekan, sementara pekerja di sektor jasa seperti telekomunikasi dan perhotelan disebut tumbuh. Arahnya terlihat bahwa pemerintah tidak berusaha menahan pergeseran dari manufaktur ke jasa dan sektor informal, melainkan menopang pekerja yang terdampak lewat insentif pajak, pelatihan vokasi, dan iuran asuransi yang lebih murah, sambil mendorong investasi ke luar Jawa. Yang akan menunjukkan apakah langkah ini serius atau sekadar wacana adalah apakah perluasan insentif pajak ke seluruh sektor pada 2027 benar terealisasi, dan apakah target magang 150 ribu peserta serta vokasi 300 ribu peserta pada tahun yang sama tercapai.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "esdm-serahkan-137-hektare-lahan-tambang-ke-kopassus",
@@ -665,7 +749,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Pertumbuhan Uang Primer BI Oktober [Melambat] jadi 7,0 Persen",
   "deck": "Bank Indonesia melaporkan uang primer adjusted Oktober 2026 tumbuh 7,0 persen dari setahun lalu, melambat dari 9,3 persen pada September.",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/brankas-uang-sentral.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T04:38:38.771Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824326.aspx",
@@ -680,7 +764,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah lajunya, bukan arahnya: uang primer tetap tumbuh, tapi dari 9,3 persen ke 7,0 persen dalam sebulan, dengan uang tunai yang beredar justru makin cepat naik (11,5 persen) sementara simpanan bank di BI mengerut (2,4 persen). Data ini terutama relevan bagi perbankan dan pelaku pasar uang, karena jadi salah satu sinyal tentang kondisi likuiditas yang pada akhirnya memengaruhi seberapa longgar bank memberi kredit ke pelaku usaha. Ada dua kemungkinan arah dari sini: perlambatan ini cuma fluktuasi bulanan biasa, atau awal dari pengetatan likuiditas yang lebih bertahan. Kejelasannya baru bisa dibaca dari rilis uang primer November 2026 dan data uang beredar luas (M2) berikutnya, apakah tren uang kartal naik dan giro turun ini berlanjut atau berbalik.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "pertumbuhan-harga-rumah-primer-melambat-di-triwulan-iii",
@@ -707,7 +792,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Dua indikator dalam survei ini bergerak ke arah yang sama: kenaikan harga rumah baru melambat untuk kuartal kedua berturut-turut, dan penjualannya justru makin terkontraksi dibanding setahun lalu. Yang paling kena dampak adalah pengembang, karena mereka harus menambal pembangunan dari kas sendiri saat penjualan melemah, dan calon pembeli yang mayoritas bergantung pada kredit KPR untuk bisa memiliki rumah. Arah ini mengarah ke pasar rumah primer yang masih lesu, bukan sekadar perlambatan sesaat, karena pelemahan harga dan penjualan terjadi bersamaan. Yang akan memastikan apakah tren ini berlanjut atau mulai berbalik adalah hasil SHPR triwulan IV 2026 dan perkembangan suku bunga kredit rumah, mengingat sebagian besar pembelian rumah bergantung pada KPR.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "totl-bagikan-dividen-interim-rp136-4-miliar-rp40-per-saham",
@@ -18507,7 +18593,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "BI dan APUVINDO Susun [Empat] Prioritas Pasar Uang-Valas 2027",
   "deck": "Bank Indonesia, OJK, dan APUVINDO menyusun empat prioritas pengembangan pasar uang dan valas menjelang 2027, termasuk bank kliring Renminbi dan akses lindung nilai investor asing.",
-  "image": "assets/img/brankas-uang-sentral.jpg",
+  "image": "assets/img/layar-pasar-jauh.jpg",
   "date": "27 Oktober 2026",
   "isoDate": "2026-10-27T16:06:31.993Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823726.aspx",
@@ -18667,7 +18753,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "RI Kejar [Reformasi] Pasar Modal Sebelum Tenggat MSCI 2027",
   "deck": "Pemerintah menaikkan syarat free float jadi 15 persen dan memperkuat keterbukaan pemilik saham menjelang tenggat evaluasi MSCI pada 30 April 2027.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "27 Oktober 2026",
   "isoDate": "2026-10-27T13:13:34.952Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7186/reformasi-tata-kelola-pasar-modal-berikan-manfaat-nyata-bagi-masyarakat",
@@ -108381,7 +108467,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:58:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz",
@@ -108434,7 +108520,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam Hari Ini [Turun] Rp27.000 per Gram",
   "deck": "Harga jual emas batangan Antam turun ke Rp2.723.000 per gram pada 27 Agustus 2026, harga buyback ikut melemah ke Rp2.583.000 per gram.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/seminar-investasi.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:40:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462860-harga-emas-antam-hari-ini-27-agustus-2026-merosot-rp27000-buyback-ikut-turun",
@@ -109684,7 +109770,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "image": "assets/img/seminar-investasi.jpg",
+  "image": "assets/img/layar-indeks-jauh.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:02:51+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",
@@ -109816,7 +109902,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
-  "image": "assets/img/layar-indeks-jauh.jpg",
+  "image": "assets/img/rapat-manajer-investasi.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T09:24:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram",

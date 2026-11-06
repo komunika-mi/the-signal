@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "fasilitas-devisa-ekspor-sda-diperluas-portal-dsi-siap-2027",
+  "category": "Moneter",
+  "title": "Fasilitas Devisa Ekspor SDA [Diperluas], Portal DSI Siap 2027",
+  "deck": "Pemerintah memperluas fasilitas penempatan devisa hasil ekspor SDA ke tujuh negara dan 16 bank, sekaligus menyiapkan Portal DSI yang wajib dipakai eksportir batu bara, sawit, dan feroaloi mulai 2027.",
+  "date": "6 November 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "DHE SDA",
+   "Portal DSI",
+   "Ekspor SDA",
+   "Danantara"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7204/perluas-fleksibilitas-dhe-sda-dan-siapkan-go-live-portal-dsi-pemerintah-pastikan-ekspor-tetap-lancar",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "wamendag-tinjau-batik-keris-bidik-ekspor-ke-asia-tenggara",
+  "category": "Industri",
+  "title": "Wamendag Tinjau Batik Keris, Bidik [Ekspor] ke Asia Tenggara",
+  "deck": "Wamendag Dyah Roro Esti meninjau pabrik Batik Keris di Sukoharjo untuk memetakan potensi ekspor batik ke Asia Tenggara, saat ekspor batik nasional tumbuh 13 persen pada 2025.",
+  "date": "6 November 2026",
+  "image": "assets/img/wamendag-tinjau-batik-keris-bidik-ekspor-ke-asia-tenggara.jpg",
+  "imageV": "mw510uwk",
+  "tags": [
+   "batik",
+   "ekspor",
+   "Kemendag",
+   "UMKM"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tinjau-pabrik-batik-keris-wamendag-roro-dorong-batik-tembus-pasar-ekspor",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bappebti-rilis-peringkat-69-pialang-berjangka-kuartal-iii",
+  "category": "Pasar Modal",
+  "title": "Bappebti Rilis [Peringkat] 69 Pialang Berjangka Kuartal III",
+  "deck": "Bappebti merilis hasil penilaian berkala terhadap 69 pialang berjangka aktif periode Juli-September 2026, dengan PT PG Berjangka di peringkat teratas.",
+  "date": "6 November 2026",
+  "image": "assets/img/bursa-layar.jpg",
+  "tags": [
+   "Bappebti",
+   "Pialang Berjangka",
+   "Kementerian Perdagangan",
+   "Perdagangan Berjangka Komoditi"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tingkatkan-kualitas-pelaku-usaha-pbk-bappebti-umumkan-rating-pialang-berjangka-triwulan-iii-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "bmas-revisi-transaksi-afiliasi-pinjaman-kbank-capai-us-240-juta",
   "category": "Aksi Korporasi",
   "title": "BMAS Revisi Transaksi [Afiliasi]: Pinjaman KBank Capai US$240 Juta",
@@ -413,7 +463,7 @@ var ARTICLES = [
   "title": "Pertumbuhan Uang Primer BI Oktober [Melambat] jadi 7,0 Persen",
   "deck": "Bank Indonesia melaporkan uang primer adjusted Oktober 2026 tumbuh 7,0 persen dari setahun lalu, melambat dari 9,3 persen pada September.",
   "date": "6 November 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/brankas-uang-sentral.jpg",
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824326.aspx",
   "sourceLabel": "Bank Indonesia"
@@ -6415,54 +6465,6 @@ var ARTICLES = [
    "rugi kurs"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031184703-65053-0/FinancialStatement-2026-III-CBRE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptba-bubarkan-anak-usaha-bukit-multi-properti-likuidasi",
-  "category": "Aksi Korporasi",
-  "title": "PTBA Bubarkan Anak Usaha Bukit Multi Properti [Likuidasi]",
-  "deck": "PTBA melikuidasi anak usaha tak langsungnya, PT Bukit Multi Properti, sebagai bagian dari program penataan anak usaha BUMN oleh Danantara dan MIND ID.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTBA",
-   "likuidasi",
-   "MIND ID",
-   "BUMN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/7b8b6e21a7_8591097080.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beef-laba-bersih-anjlok-75-jadi-rp24-9-miliar-di-9-bulan",
-  "category": "Aksi Korporasi",
-  "title": "BEEF: Laba Bersih [Anjlok] 75% jadi Rp24,9 Miliar di 9 Bulan",
-  "deck": "Laba bersih sembilan bulan BEEF turun dari Rp98,96 miliar menjadi Rp24,89 miliar, seiring pendapatan yang susut 27 persen dan perseroan membeli kembali saham senilai Rp46,86 miliar.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEEF",
-   "laporan keuangan",
-   "laba bersih",
-   "buyback saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031175758-65641-0/FinancialStatement-2026-III-BEEF.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asjt-catat-rugi-rp5-6-miliar-di-sembilan-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "ASJT Catat [Rugi] Rp5,6 Miliar di Sembilan Bulan 2026",
-  "deck": "Laba sembilan bulan ASJT berbalik jadi rugi Rp5,62 miliar akibat beban klaim yang melonjak hampir dua kali lipat, sementara ekuitas perseroan menyusut dari Rp321,6 miliar menjadi Rp309,8 miliar.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASJT",
-   "asuransi",
-   "laporan keuangan",
-   "rugi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031170746-64978-0/FinancialStatement-2026-III-ASJT.pdf",
   "sourceLabel": "IDX"
  }
 ];

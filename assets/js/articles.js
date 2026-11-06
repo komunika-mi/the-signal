@@ -3,6 +3,109 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bei-saham-mknt-terkonsentrasi-99-64-di-segelintir-investor",
+  "category": "Aksi Korporasi",
+  "title": "BEI: Saham MKNT [Terkonsentrasi] 99,64% di Segelintir Investor",
+  "deck": "Bursa Efek Indonesia mencatat 99,64% saham MKNT dikuasai sejumlah terbatas pemegang saham per 5 November 2026, menyusul status Unusual Market Activity pada saham ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T17:12:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d396738a24_c24aff7724.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "BEI",
+   "kepemilikan saham",
+   "UMA"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) menerbitkan pengumuman Kepemilikan Saham Terkonsentrasi Tinggi untuk PT Mitra Komunikasi Nusantara Tbk (MKNT), tertanggal 6 November 2026, dengan nomor Peng-HSC-00087/BEI.WAS/11-2026 dan Peng-00030/PWS/KSEI/1126. Berdasarkan metodologi penentuan konsentrasi kepemilikan atas struktur saham dalam bentuk warkat atau sertifikat fisik dan tanpa warkat atau elektronik, per 5 November 2026 saham MKNT dikuasai oleh sejumlah tertentu pemegang saham yang secara agregat menguasai 99,64 persen dari total saham perseroan.",
+   "Dengan kata lain, hanya tersisa sekitar 0,36 persen saham MKNT yang berada di luar genggaman kelompok pemegang saham tersebut. BEI menegaskan bahwa pengumuman ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan dan ketentuan yang berlaku di bidang pasar modal. Dokumen ditandatangani oleh Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy.",
+   "Pengumuman ini terbit di hari yang sama dengan keterbukaan informasi MKNT yang menyatakan tidak ada informasi baru di balik pergerakan sahamnya dan memastikan pengendali, PT Headwell Bintang Energi, tetap memegang sahamnya, menyusul status Unusual Market Activity (UMA) yang disematkan bursa pada saham ini."
+  ],
+  "fotoAdegan": "Wide shot of a modern glass office tower in Jakarta's financial district at dusk, city lights beginning to glow",
+  "takeaway": "Laporan ini netral bagi fundamental MKNT, sebab isinya bukan tindakan korporasi yang mengubah kinerja perusahaan, melainkan catatan pengawasan bursa atas struktur kepemilikan saham. Yang tersentuh di sini adalah jumlah saham beredar bebas di publik, bukan laba atau ekuitas, karena bila 99,64 persen saham dikuasai segelintir pihak, saham yang benar-benar diperjualbelikan bebas di pasar tersisa sangat sedikit sehingga harga mudah bergerak tajam hanya dengan transaksi kecil. Pelaku pasar memperhatikan ini karena kepemilikan yang sangat terkonsentrasi biasa jadi salah satu faktor di balik lonjakan harga tidak wajar seperti status UMA yang sudah disematkan pada saham MKNT. Yang perlu dipantau berikutnya adalah apakah BEI atau OJK meminta penjelasan lebih lanjut dari pengendali soal komposisi kepemilikan ini, serta apakah status UMA pada saham MKNT berubah dalam beberapa hari mendatang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "yupi-bagikan-dividen-interim-rp14-83-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "YUPI Bagikan [Dividen] Interim Rp14,83 per Saham",
+  "deck": "Yupi Indo Jelly Gum membagikan dividen interim Rp126,76 miliar dari laba sembilan bulan 2026, dibayar 26 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T17:05:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/77ca9fa432_188701019d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YUPI",
+  "tags": [
+   "YUPI",
+   "dividen interim",
+   "pasar modal",
+   "emiten konsumer"
+  ],
+  "body": [
+   "PT Yupi Indo Jelly Gum Tbk (YUPI) memutuskan membagikan dividen interim untuk tahun buku 2026 setelah keputusan Direksi disetujui Dewan Komisaris pada 5 November 2026. Total dividen yang dibagikan senilai Rp126.755.265.197, setara Rp14,8347396372 atau dibulatkan Rp14,83 per saham. Dividen ini diambil dari laba bersih Perseroan selama periode sembilan bulan yang berakhir 30 September 2026.",
+   "Perseroan menetapkan 16 November 2026 sebagai hari terakhir perdagangan saham dengan hak dividen (cum dividen) di pasar reguler dan negosiasi, dengan periode tanpa hak dividen (ex dividen) mulai 17 November 2026. Untuk pasar tunai, cum dividen berlaku sampai 18 November dan ex dividen mulai 19 November 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada 18 November 2026 pukul 16.00 WIB berhak menerima dividen, yang akan dibayarkan pada 26 November 2026 melalui KSEI ke rekening dana nasabah masing-masing investor.",
+   "Berdasarkan data keuangan per 30 September 2026, laba bersih yang diatribusikan kepada entitas induk tercatat Rp449,16 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp588,08 miliar, dan total ekuitas Perseroan Rp1,72 triliun. Dengan demikian, dividen interim yang dibagikan setara sekitar 28 persen dari laba bersih sembilan bulan tersebut. Perseroan juga menjelaskan bahwa dividen ini akan dikecualikan dari pajak bagi pemegang saham wajib pajak badan dalam negeri dan wajib pajak orang pribadi dalam negeri yang menginvestasikan kembali dividennya di Indonesia, sementara pemegang saham asing tanpa dokumen DGT/SKD akan dikenakan PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Workers inspecting colorful gummy candies moving along a factory conveyor belt under bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi YUPI karena perusahaan membagikan sebagian labanya secara tunai kepada pemegang saham, dengan porsi sekitar 28 persen dari laba bersih sembilan bulan, angka yang terbilang wajar dan tidak menguras kas secara berlebihan. Yang tersentuh di sini adalah arus kas, karena perusahaan akan mengeluarkan uang tunai Rp126,76 miliar pada tanggal pembayaran, dan ekuitas, yang akan sedikit berkurang setelah dividen dibayarkan karena sebagian laba ditahan dipakai untuk membayar pemegang saham. Pelaku pasar biasanya mencermati rasio pembagian dividen terhadap laba karena rasio yang terlalu tinggi bisa menandakan perusahaan kurang menyisakan dana untuk ekspansi, sementara rasio yang masih di kisaran seperempat laba seperti ini umumnya dianggap berkelanjutan. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 18 November 2026 pukul 16.00 WIB dan realisasi pembayaran pada 26 November 2026, serta apakah Perseroan masih akan membagikan dividen final tambahan setelah tahun buku 2026 ditutup karena ini baru dividen interim.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ppgl-gelar-public-expose-insidentil-usai-diminta-bursa",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Gelar Public Expose [Insidentil] Usai Diminta Bursa",
+  "deck": "Diminta Bursa Efek Indonesia, PPGL akan memaparkan kinerja dan penjelasan soal pergerakan harga sahamnya pada 10 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T17:02:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/06d4ca1176_2527dd6dce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "Prima Globalindo Logistik"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) akan menggelar Public Expose Insidentil secara daring melalui Zoom Meeting pada Selasa, 10 November 2026 pukul 11.00 WIB. Berbeda dari public expose rutin, acara ini digelar bukan atas inisiatif perusahaan, melainkan atas permintaan Bursa Efek Indonesia, sesuai surat referensi Peng-SPT-00167/BEI.WAS/09-2026. Keterbukaan ini disampaikan lewat surat resmi bernomor 003/PGL/XI/2026 tertanggal 6 November 2026, yang ditandatangani Direktur Utama PPGL, Darmawan Suryadi SM.",
+   "Perseroan menyebut tiga agenda dalam paparan tersebut: kinerja keuangan dan kondisi bisnis terkini perseroan, rencana aksi korporasi dan bisnis ke depan, serta analisis manajemen soal pergerakan harga saham PPGL sendiri. Agenda ketiga ini yang membuat acara ini disebut insidentil dan diminta langsung oleh bursa, bukan sekadar paparan publik berkala.",
+   "Pendaftaran peserta sama sekali tidak dipungut biaya dan harus dilakukan paling lambat Senin, 9 November 2026 pukul 17.00 WIB melalui tautan Google Spreadsheet yang disediakan perseroan. Tautan Zoom Meeting untuk mengikuti acara akan dikirimkan sebelum acara berlangsung melalui alamat email atau nomor telepon yang didaftarkan peserta saat registrasi."
+  ],
+  "fotoAdegan": "Warehouse workers moving pallets with forklifts inside a large logistics distribution center, morning light through skylights",
+  "takeaway": "Laporan ini netral bagi fundamental PPGL, sebab isinya hanya undangan rapat, bukan perubahan angka keuangan atau struktur kepemilikan saham. Yang justru menarik perhatian adalah sebabnya, acara ini digelar atas permintaan Bursa Efek Indonesia, bukan inisiatif perusahaan, dan salah satu agendanya secara eksplisit membahas pergerakan harga saham PPGL sendiri, pola yang biasa muncul ketika bursa menilai ada aktivitas perdagangan yang tidak biasa pada suatu saham. Pos yang akan disorot nanti adalah kinerja keuangan dan arus kas perusahaan, karena manajemen dijadwalkan memaparkan kondisi bisnis terkini serta rencana aksi korporasi, hal yang bisa mengubah persepsi investor meski belum ada angka baru di dokumen ini. Yang perlu dipantau adalah paparan itu sendiri pada Selasa, 10 November 2026 pukul 11.00 WIB, serta batas registrasi Senin, 9 November 2026 pukul 17.00 WIB, karena di sanalah publik akan mendapat penjelasan langsung dari direksi soal apa yang mendorong pergerakan harga sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "menn-masuk-papan-pemantauan-khusus-bei-9-november",
+  "category": "Aksi Korporasi",
+  "title": "MENN Masuk Papan [Pemantauan Khusus] BEI 9 November",
+  "deck": "BEI memasukkan saham MENN ke papan pemantauan khusus mulai 9 November 2026 karena emiten tidak membukukan pendapatan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:57:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/341e3ec4b8_e64a6066ed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "MENN",
+   "pemantauan khusus",
+   "BEI",
+   "papan akselerasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan PT Menn Teknologi Indonesia Tbk. (MENN) masuk ke dalam daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus, efektif mulai 9 November 2026. Saham MENN yang tercatat di papan Akselerasi ini dikenai status tersebut berdasarkan kriteria nomor 3 dalam aturan Bursa, yaitu emiten tidak membukukan pendapatan atau tidak terdapat perubahan pendapatan pada laporan keuangan terakhir dibandingkan laporan keuangan sebelumnya.",
+   "Pengumuman bernomor Peng-PK-00076/BEI.PLP/11-2026 ini diteken secara elektronik oleh Bima Ruditya Surya, Pjs Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI, pada 6 November 2026. Status MENN ditandai 'Masuk' atau Enter, yang berarti perusahaan ini baru pertama kali dikenai status pemantauan khusus, bukan perpanjangan dari pemantauan periode sebelumnya. Bursa mencantumkan sebelas kriteria pemantauan khusus dalam aturannya, mulai dari opini disclaimer pada laporan auditor, ekuitas negatif, hingga kondisi perusahaan yang dimohonkan pailit atau PKPU, namun MENN dikenai status ini khusus karena kriteria ketiga soal pendapatan."
+  ],
+  "fotoAdegan": "Rows of empty desks with unlit computer monitors in a quiet technology office, soft morning light through windows",
+  "takeaway": "Status ini negatif bagi MENN, sebab alasan pemantauan khususnya bukan sekadar urusan administratif melainkan ketidakmampuan membukukan pendapatan usaha yang tumbuh. Pos yang tersentuh adalah pendapatan, sumber utama kas perusahaan untuk membiayai operasional sehari hari, sehingga pelaku pasar akan mempertanyakan bagaimana MENN menutup beban tanpa pendapatan yang bertambah. Saham yang masuk pemantauan khusus biasanya juga berpindah ke mekanisme lelang berkala, bukan tawar menawar langsung seperti saham reguler, sehingga lebih sulit diperjualbelikan dengan cepat dibanding sebelumnya. Yang perlu dipantau berikutnya adalah tanggal efektif 9 November 2026 saat status ini mulai berlaku, serta laporan keuangan periode mendatang untuk melihat apakah pendapatan MENN mulai bergerak sehingga bisa keluar dari daftar ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "realisasi-investasi-rp3-923-2-triliun-topang-pergeseran-kerja",
   "category": "Makroekonomi",
   "title": "Realisasi [Investasi] Rp3.923,2 Triliun Topang Pergeseran Kerja",
@@ -57,6 +160,188 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Yang berubah di sini bukan sekadar seremoni serah terima, melainkan pengalihan status aset negara senilai Rp70,68 miliar dari bekas konsesi tambang batu bara PT Multi Harapan Utama menjadi lahan di bawah kendali Kementerian Pertahanan dan Kopassus. Pihak yang langsung terdampak adalah pengelolaan lahan di Desa Jembayan, Kutai Kartanegara, yang berubah fungsi dari kawasan bekas tambang komersial menjadi kawasan militer. ESDM sendiri menyebut langkah ini sebagai bagian dari kebijakan yang lebih luas untuk mengalihkan aset bekas tambang ke kepentingan strategis non-energi, bukan kasus tunggal yang berdiri sendiri. Kalau pola ini memang berkelanjutan, akan makin banyak lahan dari kontrak tambang lama yang sudah atau akan berakhir dialihkan ke kementerian atau lembaga lain, ketimbang dilelang ulang untuk usaha tambang baru. Yang akan memastikan arah ini adalah apakah ESDM mengumumkan transfer serupa untuk lahan bekas tambang lain dalam waktu dekat.",
   "imageV": "mw4secuj"
+ },
+ {
+  "slug": "medc-terbitkan-obligasi-us-300-juta-jatuh-tempo-2032",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Terbitkan [Obligasi] US$300 Juta Jatuh Tempo 2032",
+  "deck": "Anak usaha MEDC, Medco Redwood Tree Limited, menerbitkan obligasi US$300 juta berkupon 8,875 persen, jatuh tempo 2032, untuk melunasi utang lama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:37:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e835801307_919e7a3795.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "obligasi",
+   "refinancing",
+   "Medco Energi"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk (MEDC) mengumumkan bahwa anak usahanya, Medco Redwood Tree Limited, berhasil menerbitkan obligasi senilai US$300 juta yang jatuh tempo pada 2032. Obligasi ini dijamin langsung oleh Medco Energi sebagai perusahaan induk, dan diterbitkan melalui mekanisme penawaran Rule 144A/Reg S, jalur yang umum dipakai perusahaan dari negara berkembang untuk menjaring investor institusi internasional tanpa harus mendaftarkan obligasinya secara penuh di Amerika Serikat.",
+   "Obligasi tersebut membawa kupon, yaitu bunga tahunan yang harus dibayar Medco kepada pemegang obligasi, sebesar 8,875 persen. Obligasi ini memperoleh peringkat BB- dari Fitch, BB- dari S&P Global, serta Ba3 dari Moody's, yang semuanya berada di kategori non-investment grade alias peringkat yang menandakan risiko gagal bayar lebih tinggi dibanding emiten berperingkat layak investasi. Dana bersih dari penerbitan ini akan dipakai Medco untuk membiayai kembali atau melunasi utang yang sudah ada, bukan untuk membiayai proyek atau ekspansi baru.",
+   "CEO MedcoEnergi, Ronald Gunawan, mengatakan penerbitan obligasi ini mempertegas komitmen perusahaan terhadap pengelolaan liabilitas yang proaktif dan disiplin keuangan, serta mendukung upaya menjaga profil jatuh tempo utang yang terkelola dengan baik. Dokumen keterbukaan ini tidak merinci instrumen utang mana secara spesifik yang akan dilunasi dengan dana hasil penerbitan tersebut."
+  ],
+  "fotoAdegan": "Offshore oil platform workers checking pipeline valves against a golden sunset over calm sea waters",
+  "takeaway": "Laporan ini netral bagi fundamental Medco Energi, karena obligasi US$300 juta ini dipakai untuk membiayai kembali utang lama, bukan menambah beban utang baru untuk ekspansi usaha. Yang tersentuh adalah beban bunga, yaitu biaya tahunan yang harus dibayar Medco ke pemegang obligasi, sebab kupon 8,875 persen ini tergolong tinggi dan sejalan dengan peringkat BB- serta Ba3 yang di bawah level layak investasi, sehingga biaya pinjaman Medco lebih mahal dibanding emiten dengan peringkat lebih baik. Arus kas perusahaan, yaitu aliran uang masuk dan keluar dari kas perusahaan, juga ikut terpengaruh karena dana segar dari obligasi ini langsung dipakai melunasi utang lama, bukan menambah kas untuk kegiatan operasional. Yang perlu dipantau berikutnya adalah utang lama mana saja yang benar-benar dilunasi dengan dana ini, serta apakah bunga 8,875 persen tersebut lebih mahal atau lebih murah dibanding utang yang digantikan, informasi yang biasanya baru terlihat jelas di laporan keuangan Medco pada periode mendatang karena dokumen ini tidak merincikannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "laba-panggil-rupslb-agendakan-perombakan-direksi-dan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "LABA panggil RUPSLB, agendakan [perombakan] direksi dan komisaris",
+  "deck": "RUPSLB akan digelar 30 November 2026 untuk membahas pergantian susunan direksi dan dewan komisaris Green Power Group, dengan pemegang saham per 5 November 2026 berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:36:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9145a88c72_715df8bcd0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LABA",
+  "tags": [
+   "LABA",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "PT Green Power Group Tbk (LABA) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) lewat surat Nomor 065/GPG-OJK/XI/2026, merujuk pemberitahuan rencana rapat yang sebelumnya disampaikan pada 22 Oktober 2026. Rapat dijadwalkan pada Senin, 30 November 2026 pukul 10.00 WIB, bertempat di Axa Tower, Jalan Prof. Dr. Satrio, Jakarta Selatan, serta dapat diikuti secara daring lewat platform Easy KSEI. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan Bursa Efek Indonesia pada 5 November 2026 yang berhak hadir atau mengirim wakil ke rapat ini.",
+   "Mata acara rapat hanya satu, yaitu persetujuan pengangkatan kembali atau perubahan susunan Direksi dan/atau Dewan Komisaris perseroan, dengan rujukan pada Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik. Dokumen pemanggilan ini tidak mencantumkan nama kandidat yang diusulkan untuk duduk di direksi atau komisaris baru. Bahan terkait agenda tersebut baru dapat diakses pemegang saham di kantor perseroan sejak tanggal pemanggilan, 6 November 2026, sampai hari rapat pada 30 November 2026.",
+   "Bagi pemegang saham yang ingin memberikan suara lewat Easy KSEI, deklarasi kehadiran, kuasa, dan pilihan suara harus disampaikan paling lambat pukul 12.00 WIB satu hari kerja sebelum rapat. Pemegang saham atau kuasanya yang tidak menyampaikan pilihan suara sampai sesi pemungutan suara per mata acara ditutup akan otomatis dihitung sebagai abstain. Surat pemanggilan ini diteken oleh Direktur Utama Chen Xiaoxiao."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with a long table, leather chairs, and city skyline visible through floor to ceiling windows, soft morning light",
+  "takeaway": "Pemanggilan ini tergolong netral karena isinya baru sebatas undangan rapat, belum memastikan siapa yang akan masuk atau keluar dari direksi dan komisaris Green Power Group. Yang tersentuh di sini bukan pos keuangan seperti modal atau laba per saham, melainkan susunan kepemimpinan perusahaan, yang tetap penting dipantau karena pergantian direksi atau komisaris bisa mengubah arah strategi dan kebijakan operasional perseroan ke depan. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 30 November 2026, termasuk nama-nama yang diusulkan menggantikan atau mempertahankan posisi di direksi dan dewan komisaris, karena dokumen pemanggilan ini sendiri belum mengungkap kandidatnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "amor-bagikan-dividen-tunai-rp23-saham-total-rp50-46-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Bagikan [Dividen] Tunai Rp23/Saham, Total Rp50,46 Miliar",
+  "deck": "RUPST AMOR menyetujui dividen tunai Rp23 per saham untuk tahun buku berakhir Juni 2026, total Rp50,46 miliar, cair 24 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:15:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2964fb570a_1b8636a313.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "dividen tunai",
+   "Ashmore Asset Management",
+   "RUPST"
+  ],
+  "body": [
+   "PT Ashmore Asset Management Indonesia Tbk (AMOR) menetapkan pembagian dividen tunai sebesar Rp23 per saham untuk tahun buku yang berakhir 30 Juni 2026, sesuai hasil Rapat Umum Pemegang Saham Tahunan (RUPST) pada 4 November 2026. Total dividen yang dibagikan mencapai Rp50.458.559.292, dengan nilai minimum dan maksimum yang sama, yang berarti jumlah yang akan dibayarkan sudah pasti dan tidak bergantung pada variabel lain.",
+   "Dividen ini diambil dari kinerja keuangan AMOR per 30 Juni 2026, yakni laba bersih yang diatribusikan ke pemegang saham induk sebesar Rp84,53 miliar dan saldo laba ditahan yang tidak dibatasi penggunaannya sebesar Rp66,12 miliar, sementara total ekuitas perusahaan tercatat Rp293,69 miliar. Dengan demikian, dana yang dibagikan ke pemegang saham setara sekitar 60 persen dari laba bersih periode tersebut.",
+   "Jadwalnya, perdagangan saham dengan hak dividen (cum dividen) di pasar reguler dan negosiasi berakhir 12 November 2026, disusul periode tanpa hak dividen (ex dividen) mulai 13 November 2026. Untuk pasar tunai, cum dividen berakhir 16 November 2026 dan ex dividen mulai 17 November 2026. Daftar pemegang saham yang berhak menerima dividen (recording date) ditutup pada 16 November 2026 pukul 16:00, dan pembayaran dilakukan selambat-lambatnya pada 24 November 2026. Bagi pemegang saham asing yang ingin memanfaatkan tarif pajak lebih rendah berdasarkan perjanjian penghindaran pajak berganda, dokumen DGT/SKD wajib diserahkan ke KSEI atau biro administrasi efek; tanpa dokumen itu, dividen otomatis dipotong Pajak Penghasilan Pasal 26 sebesar 20 persen. Laporan ditandatangani oleh Arief Wana selaku Sekretaris Perusahaan AMOR."
+  ],
+  "fotoAdegan": "Exterior of glass-walled high-rise office towers in Jakarta's SCBD business district, soft afternoon light, wide street-level view",
+  "takeaway": "Laporan ini condong positif bagi AMOR, karena dividen tunai Rp50,46 miliar itu setara sekitar 60 persen dari laba bersih perusahaan pada periode yang berakhir Juni 2026, menunjukkan perusahaan tetap mengembalikan porsi besar labanya ke pemegang saham, sejalan dengan tren kenaikan dividen yang sudah diberitakan sebelumnya. Pembayaran ini akan menggerus ekuitas dan kas perusahaan, karena dananya diambil dari saldo laba ditahan dan akan keluar dari rekening kas AMOR begitu dibayarkan, sehingga pelaku pasar biasanya mencermati apakah bantalan modal perusahaan masih cukup tebal setelah pembagian ini. Yang perlu dipantau berikutnya adalah tanggal pembayaran dividen pada 24 November 2026, serta tenggat bagi pemegang saham asing untuk menyerahkan dokumen bebas pajak berganda, sebab tanpa dokumen itu dividen mereka otomatis dipotong pajak 20 persen.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ipcc-laba-bersih-turun-6-9-meski-masih-bebas-utang",
+  "category": "Aksi Korporasi",
+  "title": "IPCC: Laba Bersih [Turun] 6,9% Meski Masih Bebas Utang",
+  "deck": "Dalam Public Expose Tahunan, IPCC melaporkan pendapatan dan laba bersih kuartal III 2026 turun dibanding tahun lalu, sementara perusahaan tetap tidak memiliki utang bank maupun obligasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:07:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/17bdb956c4_28aacb74b1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPCC",
+  "tags": [
+   "IPCC",
+   "public expose",
+   "kinerja keuangan",
+   "terminal kendaraan"
+  ],
+  "body": [
+   "PT Indonesia Kendaraan Terminal Tbk (IPCC) menggelar Public Expose Tahunan pada Senin, 3 November 2026, secara hybrid di Innovation Room kantor perusahaan di Cilincing, Jakarta Utara, dan melalui Zoom. Acara dihadiri 64 peserta eksternal, terdiri dari 29 peserta offline dan 35 peserta online dari kalangan investor, sekuritas, dan media. Perusahaan juga mengonfirmasi susunan direksi baru hasil RUPSLB September 2026, yakni Wing Megantoro sebagai Direktur Utama, Donny Yuniarto sebagai Direktur Operasi dan Teknik, serta Bagus Dwipoyono sebagai Direktur Keuangan, SDM, dan Manajemen Risiko. Mayoritas saham IPCC saat ini dipegang PT Pelindo Multi Terminal sebesar 71,3%, PT Multi Terminal Indonesia 0,7%, dan sisanya 28% oleh publik.",
+   "Dalam pemaparan kinerja keuangan sembilan bulan pertama 2026, IPCC membukukan pendapatan usaha Rp645,48 miliar, turun 2,24% dibandingkan periode yang sama tahun 2025, akibat penurunan volume impor kendaraan listrik seiring berakhirnya insentif pemerintah. Di sisi lain, beban usaha naik 2,77% menjadi Rp446,92 miliar, sehingga laba bersih tercatat Rp177,18 miliar, turun 6,89% dari tahun sebelumnya. EBITDA perusahaan juga turun 8,49% menjadi Rp272,44 miliar, yang menurut manajemen dipengaruhi tambahan beban aktuaria, kenaikan Upah Minimum Provinsi, dan biaya sharing.",
+   "Dari sisi neraca per 30 September 2026, total aset IPCC tercatat Rp1,9 triliun, naik 2,55% dari tahun sebelumnya, dengan kas dan setara kas sebesar Rp1 triliun serta ekuitas Rp1,3 triliun. Current ratio perusahaan tercatat 663,19% dan cash ratio 605,67%, sementara Return on Equity (ROE) sebesar 12,84%. Perusahaan menegaskan tidak memiliki pinjaman bank maupun obligasi alias debt-free. Realisasi investasi sampai September 2026 hanya Rp730 juta, jauh lebih kecil dibandingkan Rp5,4 miliar pada periode yang sama tahun lalu, karena tiga proyek, yaitu lahan eks PUMA, jaring penahan overspray, dan gedung parkir Car Storage Building, masih menunggu izin AMDAL.",
+   "Secara operasional, pangsa pasar ekspor-impor kendaraan IPCC naik 1% menjadi 78%, ditopang merek Toyota yang menguasai 46% pasar ekspor dan 50% pasar impor. Volume bongkar muat kendaraan CBU di terminal internasional turun 12% akibat melemahnya impor kendaraan listrik dan terhentinya pengiriman ke Timur Tengah akibat konflik di Selat Hormuz, sementara terminal domestik naik 13% dan terminal satelit naik 20%. Manajemen juga menyoroti risiko tarif dagang 50% yang diberlakukan Meksiko pada 2026, mengingat negara itu menyumbang 17% dari total ekspor kendaraan IPCC sepanjang 2025."
+  ],
+  "fotoAdegan": "Rows of imported sedans parked in neat lines on a vehicle terminal yard near a harbor, cranes in the background, late afternoon light",
+  "takeaway": "Laporan ini condong negatif karena tiga indikator utama, pendapatan, laba bersih, dan EBITDA, sama-sama turun dibandingkan periode yang sama tahun lalu, sementara realisasi belanja investasi malah menyusut tajam dari Rp5,4 miliar menjadi hanya Rp730 juta. Yang tersentuh adalah laba bersih, yaitu sisa untung perusahaan setelah semua beban dibayar, yang mengecil karena pendapatan dari jasa bongkar muat kendaraan turun sementara ongkos seperti tunjangan pensiun karyawan dan kenaikan upah minimum justru naik. Kabar baiknya, IPCC tetap tidak punya utang bank atau obligasi dan kasnya jauh lebih besar dari utang jangka pendeknya, jadi ruang keuangan perusahaan masih longgar meski labanya mengecil. Yang perlu dipantau selanjutnya adalah apakah kapal tambahan yang disebut mulai beroperasi pada November 2026 benar mendongkrak volume impor, serta progres izin AMDAL untuk proyek lahan eks PUMA dan gedung parkir Car Storage Building yang selama ini menahan realisasi investasi perusahaan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pack-panggil-rupslb-rencanakan-ubah-bisnis-dan-akuisisi-nikel",
+  "category": "Aksi Korporasi",
+  "title": "PACK Panggil RUPSLB, Rencanakan Ubah Bisnis dan [Akuisisi] Nikel",
+  "deck": "PACK memanggil RUPSLB dan RUPS Independen 30 November 2026 untuk membahas perubahan bisnis, akuisisi saham PT Bukit Makmur Istindo Nikeltama, dan rencana penerbitan saham baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:02:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f91345f2bc_b9f69a0a0a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "RUPSLB",
+   "rights issue",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sekaligus Rapat Umum Pemegang Saham Independen pada Senin, 30 November 2026, pukul 10.00 WIB di Ruang Kulintang, Ascott Sudirman Jakarta. Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam daftar pemegang saham per Kamis, 5 November 2026, pukul 16.00 WIB.",
+   "Dalam RUPSLB, Direksi meminta persetujuan pemegang saham atas tiga agenda. Pertama, perubahan kegiatan usaha Perseroan beserta Laporan Studi Kelayakan dan perubahan Pasal 3 Anggaran Dasar, sehubungan dengan ketentuan POJK No. 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Kedua, transaksi akuisisi saham PT Bukit Makmur Istindo Nikeltama, sekaligus pemberian kuasa kepada Direksi untuk melaksanakan segala tindakan terkait transaksi itu. Ketiga, rencana menaikkan modal dasar serta modal ditempatkan dan disetor Perseroan lewat penerbitan Hak Memesan Efek Terlebih Dahulu (PMHMETD), yakni penawaran saham baru yang ditawarkan dulu ke pemegang saham lama, termasuk perubahan anggaran dasar yang menyertainya.",
+   "Secara terpisah, dalam RUPS Independen, Perseroan meminta persetujuan khusus dari pemegang saham independen untuk rencana pembelian saham Denway Development Limited. Dokumen pemanggilan ini belum mencantumkan nilai transaksi akuisisi PT Bukit Makmur Istindo Nikeltama maupun pembelian saham Denway Development Limited, berapa saham baru yang akan diterbitkan lewat PMHMETD, atau harganya. Pemegang saham yang ingin hadir atau memberi kuasa elektronik lewat aplikasi eASY.KSEI wajib mendaftar paling lambat 27 November 2026 pukul 12.00 WIB, sementara surat kuasa tertulis harus diserahkan ke BAE Perseroan, PT Adimitra Jasa Korpora, paling lambat pada hari yang sama pukul 16.00 WIB."
+  ],
+  "fotoAdegan": "Workers at a nickel ore stockyard guiding excavators loading red lateritic soil onto trucks, overcast tropical sky",
+  "takeaway": "Penilaian kami netral untuk sekarang, bukan karena rencananya kecil, tapi karena pemanggilan ini belum memuat satu pun angka penentu: nilai akuisisi PT Bukit Makmur Istindo Nikeltama, nilai pembelian saham Denway Development Limited, atau berapa saham baru yang akan dilepas lewat rights issue. Yang jelas tersentuh adalah jumlah saham beredar, karena PMHMETD berarti Perseroan menjual saham baru lebih dulu ke pemegang saham lama. Kalau saham baru itu jumlahnya besar dibanding saham yang sudah ada, laba per saham bisa tergerus karena keuntungan yang sama harus dibagi ke lebih banyak lembar saham. Perlu dicermati juga bahwa pembelian saham Denway Development Limited butuh persetujuan khusus dari pemegang saham independen, mekanisme yang biasanya dipakai ketika transaksi menyangkut pihak yang punya keterkaitan dengan Perseroan, sehingga layak ditunggu keterbukaan rincian hubungan afiliasinya. Yang perlu dipantau adalah hasil RUPSLB dan RUPS Independen pada 30 November 2026, serta keterbukaan nilai dan rasio pasti dari akuisisi maupun rights issue yang biasanya baru diumumkan menjelang atau setelah rapat itu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "live-jawab-permintaan-bei-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "LIVE Jawab Permintaan BEI soal [Volatilitas] Saham",
+  "deck": "PT Homeco Victoria Makmur Tbk menanggapi permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum terbuka ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T15:23:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/17ff4699e5_2300f5d4e9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LIVE",
+  "tags": [
+   "LIVE",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Homeco Victoria Makmur Tbk (LIVE) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan atas volatilitas transaksi efeknya. Permintaan itu tertuang dalam surat BEI nomor S-13858/BEI.PP2/11-2026 tertanggal 5 November 2026, yang meminta perseroan menjelaskan apakah ada informasi atau fakta material yang belum terbuka ke publik di balik pergerakan harga atau volume saham LIVE yang tidak biasa. Melalui surat nomor 01/HVM-CORPSEC/LIVE/XI/2026 tertanggal 6 November 2026 yang ditandatangani Muhammad Rizal selaku Corporate Secretary, perseroan menegaskan sepanjang pengetahuannya tidak ada informasi semacam itu yang belum diungkapkan, sesuai POJK Nomor 31/POJK.04/2015 dan Pasal 52 POJK Nomor 45 Tahun 2024.",
+   "Dalam surat yang sama, perseroan juga menjawab empat poin lain yang diminta bursa. LIVE menyatakan tidak mengetahui adanya fakta material terkait perseroan maupun anak usahanya yang laporan keuangannya dikonsolidasikan sebagaimana diatur dalam ketentuan III.2.1 Peraturan Bursa Nomor I-E. Terkait aktivitas pemegang saham sesuai POJK Nomor 4 Tahun 2024, perseroan menyatakan tidak mengetahui transaksi tertentu yang berkaitan dengan volatilitas saham dan menegaskan dirinya sendiri tidak terlibat dalam jual beli saham LIVE di pasar sekunder. Perseroan juga memastikan tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang dapat berakibat pada status pencatatan sahamnya di bursa, serta tidak ada informasi atau kejadian penting lain yang material bagi harga saham maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Stock exchange trading floor with brokers in motion, blurred distant monitors, afternoon light in Jakarta.",
+  "takeaway": "Surat ini netral bagi penilaian fundamental LIVE, karena isinya hanya penyangkalan baku dan tidak membawa data keuangan atau rencana baru apa pun. Permintaan bursa semacam ini lahir ketika harga atau volume perdagangan suatu saham bergerak di luar kebiasaan, sehingga otoritas bursa meminta klarifikasi apakah ada aksi korporasi tersembunyi di baliknya, bukan pertanda ada masalah baru di laporan keuangan. Penjelasan ini terbit tiga hari setelah LIVE melaporkan laba bersihnya anjlok 73 persen, sehingga volatilitas sahamnya bisa jadi sekadar reaksi pasar atas kabar itu, bukan indikasi ada informasi lain yang disembunyikan. Yang perlu dipantau selanjutnya adalah apakah pernyataan perseroan soal tidak adanya rencana aksi korporasi dalam tiga bulan ke depan, kira-kira sampai awal Februari 2027, benar-benar bertahan, serta bagaimana pergerakan harga sahamnya setelah surat ini terbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "acst-jadwalkan-rupslb-15-desember-cut-off-20-november",
+  "category": "Aksi Korporasi",
+  "title": "ACST Jadwalkan [RUPSLB] 15 Desember, Cut-off 20 November",
+  "deck": "Acset Indonusa mengumumkan rencana RUPSLB pada 15 Desember 2026, dengan pemegang saham per 20 November 2026 berhak hadir dan usul agenda dibuka hingga 16 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T15:16:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7527b9b5b6_157274e9d5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ACST",
+  "tags": [
+   "ACST",
+   "RUPSLB",
+   "Acset Indonusa",
+   "korporasi"
+  ],
+  "body": [
+   "PT Acset Indonusa Tbk (ACST) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 15 Desember 2026, pukul 13.30 WIB di United Tractors Grand Ballroom, Jalan Raya Bekasi Km 22, Cakung Barat, Jakarta Timur. Perseroan akan mengirimkan pemanggilan resmi berisi agenda rapat pada 23 November 2026 melalui situs web perusahaan, situs Bursa Efek Indonesia, dan penyedia e-RUPS. Pemegang saham yang berhak hadir dan memberi suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 20 November 2026 pukul 16.00 WIB.",
+   "Perseroan membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat. Usulan harus diajukan secara tertulis kepada Direksi oleh satu atau lebih pemegang saham yang bersama-sama mewakili sekurang-kurangnya 5 persen dari total saham dengan hak suara sah, dan diterima paling lambat 16 November 2026 pukul 16.00 WIB. Usulan itu juga harus diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, berupa mata acara yang membutuhkan keputusan rapat, dilengkapi alasan dan bahan pendukung, serta tidak bertentangan dengan anggaran dasar maupun peraturan yang berlaku.",
+   "Acset berencana menggelar rapat secara elektronik menggunakan fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, yang memungkinkan pemegang saham memberi kuasa lewat e-Proxy atau memberikan suara lewat e-Voting, sesuai POJK Nomor 14 Tahun 2025 tentang pelaksanaan rapat umum pemegang saham secara elektronik. Rincian mekanisme pemberian kuasa, tata cara voting, dan prosedur kehadiran akan disampaikan dalam pemanggilan resmi. Dokumen pengumuman ini belum memuat agenda atau materi yang akan dibahas dalam RUPSLB tersebut."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged facing a stage in a large hotel ballroom, chandeliers overhead, soft morning light, no visible text",
+  "takeaway": "Laporan ini netral bagi Acset Indonusa karena baru memuat jadwal dan syarat administratif RUPSLB, belum mengungkap agenda atau keputusan yang akan diambil, sehingga belum ada dampak finansial yang bisa dinilai. RUPSLB biasanya dipakai emiten untuk keputusan strategis seperti perubahan struktur modal atau pergantian pengurus, yang bisa menggeser jumlah saham beredar atau ekuitas perusahaan, karena itu pasar baru bisa menilai dampaknya begitu agenda resmi diumumkan. Pemegang saham yang namanya tercatat per 20 November 2026 pukul 16.00 WIB yang berhak hadir dan memberi suara dalam rapat. Yang perlu dipantau adalah pemanggilan resmi RUPSLB pada 23 November 2026, karena di situlah agenda rapat baru akan diumumkan, sebelum rapat itu sendiri digelar pada 15 Desember 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "ayls-panggil-rupslb-ganti-direktur-utama-30-november",

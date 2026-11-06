@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indf-jelaskan-ke-bei-dana-buyback-rp750-m-setara-1-modal",
+  "category": "Aksi Korporasi",
+  "title": "INDF Jelaskan ke BEI, Dana [Buyback] Rp750 M Setara 1% Modal",
+  "deck": "Indofood menjawab permintaan penjelasan BEI atas rencana pembelian kembali saham, menyebut dana Rp750 miliar hanya sekitar 1 persen dari modal disetor.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDF",
+   "buyback",
+   "BEI",
+   "Indofood"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e82e653ba3_91413102a7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "icbp-jawab-bursa-buyback-rp750-miliar-cuma-1-modal",
+  "category": "Aksi Korporasi",
+  "title": "ICBP Jawab Bursa: Buyback Rp750 Miliar Cuma [1%] Modal",
+  "deck": "ICBP menjelaskan ke BEI bahwa dana buyback Rp750 miliar hanya sekitar 1 persen dari modal disetor dan dilakukan tanpa penilai independen.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ICBP",
+   "buyback",
+   "BEI",
+   "Indofood CBP"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c6bc3959c2_84fd7547b0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pefindo-tetapkan-rating-ida-untuk-obligasi-ijee-rp1-7-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Tetapkan Rating [idA] untuk Obligasi IJEE Rp1,7 Triliun",
+  "deck": "PEFINDO menetapkan peringkat idA (Single A) untuk empat obligasi IJEE senilai total Rp1,71 triliun, berlaku 3 November 2026 hingga 1 November 2027.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IJEE",
+   "obligasi",
+   "PEFINDO",
+   "rating kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f8b8fb6a82_3abd787738.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "fasilitas-devisa-ekspor-sda-diperluas-portal-dsi-siap-2027",
   "category": "Moneter",
   "title": "Fasilitas Devisa Ekspor SDA [Diperluas], Portal DSI Siap 2027",
@@ -53,6 +101,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tingkatkan-kualitas-pelaku-usaha-pbk-bappebti-umumkan-rating-pialang-berjangka-triwulan-iii-2026",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "vtny-akui-transaksi-cessie-rp147-miliar-belum-diungkap",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Akui Transaksi [Cessie] Rp147 Miliar Belum Diungkap",
+  "deck": "VTNY menanggapi permintaan penjelasan Bursa soal opini wajar dengan pengecualian, dan mengakui pengalihan piutang Rp147 miliar serta obligasi anak usaha belum diungkap sebagai transaksi material.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "opini audit",
+   "transaksi material",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d41b306f52_3c44142603.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bmas-revisi-transaksi-afiliasi-pinjaman-kbank-capai-us-240-juta",
@@ -6397,74 +6461,6 @@ var ARTICLES = [
    "Atlas Raya Abadi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-31102026-7721-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "visi-harmoni-semesta-tambah-saham-rp72-miliar-lewat-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "VISI: Harmoni Semesta [Tambah] Saham Rp72 Miliar Lewat PMTHMETD",
-  "deck": "PT Harmoni Semesta Investama menambah kepemilikan di VISI lewat penerbitan saham baru senilai sekitar Rp72 miliar, namun hak suaranya justru turun tipis ke 61,77 persen.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "PMTHMETD",
-   "Harmoni Semesta Investama",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-31102026-4857-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pajak-ekonomi-digital-tembus-rp58-75-triliun-per-september",
-  "category": "Makroekonomi",
-  "title": "Pajak Ekonomi Digital [Tembus] Rp58,75 Triliun per September",
-  "deck": "DJP mencatat penerimaan pajak ekonomi digital Rp58,75 triliun hingga September 2026, dengan pajak dagang elektronik lintas negara sebagai penyumbang terbesar.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/pajak-ekonomi-digital-tembus-rp58-75-triliun-per-september.jpg",
-  "imageV": "mvwd4821",
-  "tags": [
-   "pajak digital",
-   "DJP",
-   "PMSE",
-   "pajak kripto"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/pajak-ekonomi-digital-tembus-rp5875-triliun-hingga-september-2026",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "kemendag-latih-mahasiswa-ipb-jadi-eksportir-lewat-campuspreneur",
-  "category": "UMKM",
-  "title": "Kemendag Latih Mahasiswa IPB Jadi [Eksportir] Lewat Campuspreneur",
-  "deck": "Kemendag mengajak mahasiswa IPB mengembangkan usaha lewat program Campuspreneur, bagian dari strategi memperluas basis eksportir muda dari kampus ke pasar global.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/kemendag-latih-mahasiswa-ipb-jadi-eksportir-lewat-campuspreneur.jpg",
-  "imageV": "mvwd4hmd",
-  "tags": [
-   "Campuspreneur",
-   "Kemendag",
-   "Ekspor UMKM",
-   "IPB University"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/intensifkan-campuspreneur-kemendag-ajak-mahasiswa-ipb-jadi-eksportir-muda",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "cbre-catat-ekuitas-negatif-rp144-86-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "CBRE catat [ekuitas] negatif Rp144,86 miliar di kuartal III",
-  "deck": "Ekuitas CBRE berbalik negatif Rp144,86 miliar pada September 2026, setelah rugi kurs Rp117 miliar mendorong rugi bersih sembilan bulan jadi Rp191,77 miliar.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBRE",
-   "laporan keuangan",
-   "ekuitas negatif",
-   "rugi kurs"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031184703-65053-0/FinancialStatement-2026-III-CBRE.pdf",
   "sourceLabel": "IDX"
  }
 ];

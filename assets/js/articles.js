@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indf-jelaskan-ke-bei-dana-buyback-rp750-m-setara-1-modal",
+  "category": "Aksi Korporasi",
+  "title": "INDF Jelaskan ke BEI, Dana [Buyback] Rp750 M Setara 1% Modal",
+  "deck": "Indofood menjawab permintaan penjelasan BEI atas rencana pembelian kembali saham, menyebut dana Rp750 miliar hanya sekitar 1 persen dari modal disetor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T21:24:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e82e653ba3_91413102a7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDF",
+  "tags": [
+   "INDF",
+   "buyback",
+   "BEI",
+   "Indofood"
+  ],
+  "body": [
+   "PT Indofood Sukses Makmur Tbk (INDF) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) menyusul surat permintaan penjelasan dan pengingat bernomor S-13820/BEI.PP2/11-2026 tanggal 4 November 2026 terkait rencana pembelian kembali saham (buyback) perseroan. Tanggapan bernomor 048/ISM/CS/XI/26 ini disampaikan pada 6 November 2026 dan ditandatangani oleh Corporate Secretary Victor Suhendra, ditujukan kepada Direktur Utama BEI Jeffrey Hendrik dan Kepala Divisi Penilaian Perusahaan 2 Adi Pratomo Aryanto.",
+   "Dalam suratnya, Indofood menegaskan dana maksimum yang dialokasikan untuk buyback sebesar Rp750 miliar, yang menurut simulasi perseroan hanya merepresentasikan sekitar 1 persen dari nilai kapitalisasi pasar dibandingkan modal ditempatkan dan disetor penuh. Jumlah saham yang akan dibeli serta kisaran harganya belum bisa dipastikan sejak awal karena realisasinya mengikuti harga dan kondisi pasar, yang saat ini ditetapkan Otoritas Jasa Keuangan sebagai kondisi berfluktuasi signifikan. Pembelian akan dilakukan langsung melalui mekanisme perdagangan di BEI, tanpa menggunakan jasa penilai independen, dengan tetap mengikuti aturan pembatasan harga di POJK Nomor 29/2023.",
+   "Indofood juga menyatakan tidak ada perkara hukum material dari pihak ketiga, kreditur, maupun pemasok yang dapat memengaruhi kinerja usaha secara signifikan, serta tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik. Perseroan mengklaim memiliki permodalan dan arus kas yang memadai sehingga buyback tidak akan mengganggu operasional maupun program pengembangan usaha, dan porsi kepemilikan publik (free float) diperkirakan tetap memenuhi ketentuan minimum karena ukuran dana buyback yang relatif kecil."
+  ],
+  "fotoAdegan": "Exterior view of a tall glass office tower in Jakarta's business district, busy street traffic below, late afternoon light",
+  "takeaway": "Laporan ini netral bagi Indofood, sebab isinya hanya menjawab pertanyaan rutin BEI tanpa membawa angka atau fakta baru yang mengubah gambaran keuangan perseroan secara berarti. Dana Rp750 miliar untuk buyback ini akan mengurangi kas dan ekuitas perusahaan begitu dibelanjakan, sementara jumlah saham yang beredar di pasar nantinya sedikit berkurang, yang secara hitungan bisa menaikkan laba per saham karena laba yang sama dibagi ke lebih sedikit lembar. Pelaku pasar memperhatikan pos ini karena buyback memindahkan dana tunai dari potensi ekspansi usaha ke pembelian saham sendiri, sehingga investor ingin memastikan kas yang dipakai benar-benar surplus, bukan mengurangi ruang gerak keuangan perseroan. Indofood juga menegaskan tidak ada perkara hukum material maupun informasi penting lain yang belum diungkap, sehingga tidak ada risiko tersembunyi dari sisi hukum yang terungkap lewat surat ini. Yang perlu dipantau selanjutnya adalah laporan realisasi pembelian kembali saham, yaitu jumlah lembar dan harga riil yang benar-benar dibeli Indofood di pasar, karena dokumen ini sendiri belum menyebut target harga maupun jumlah lembar pasti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "icbp-jawab-bursa-buyback-rp750-miliar-cuma-1-modal",
+  "category": "Aksi Korporasi",
+  "title": "ICBP Jawab Bursa: Buyback Rp750 Miliar Cuma [1%] Modal",
+  "deck": "ICBP menjelaskan ke BEI bahwa dana buyback Rp750 miliar hanya sekitar 1 persen dari modal disetor dan dilakukan tanpa penilai independen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T21:21:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c6bc3959c2_84fd7547b0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ICBP",
+  "tags": [
+   "ICBP",
+   "buyback",
+   "BEI",
+   "Indofood CBP"
+  ],
+  "body": [
+   "PT Indofood CBP Sukses Makmur Tbk (ICBP) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) atas permintaan penjelasan dan pengingat terkait rencana pembelian kembali saham (buyback) yang dikirim BEI melalui surat elektronik bernomor S-13819/BEI.PP2/11-2026 tertanggal 4 November 2026. Surat tanggapan bernomor 047/ICBP/CS/XI/26 itu diteken Corporate Secretary ICBP, Gideon Ariprastomo Putro, pada 6 November 2026.",
+   "Dalam tanggapannya, ICBP menjelaskan bahwa rencana buyback diambil sebagai langkah menghadapi kondisi pasar yang berfluktuasi signifikan, tanpa mengorbankan pengembangan usaha. Perseroan mengklaim memiliki permodalan dan arus kas yang cukup untuk membiayai buyback sekaligus tetap menjalankan program operasional dan inovasi. Jumlah pasti saham yang akan dibeli dan kisaran harganya belum bisa ditentukan karena bergantung pada kondisi pasar saat transaksi berlangsung. Namun, simulasi perhitungan dana maksimum Rp750 miliar yang dialokasikan untuk buyback ini, dibandingkan dengan nilai kapitalisasi pasar ICBP, setara dengan sekitar 1 persen dari modal ditempatkan dan disetor penuh perusahaan.",
+   "ICBP juga menegaskan bahwa buyback akan dilakukan langsung lewat mekanisme perdagangan di Bursa tanpa menggunakan jasa penilai independen, dengan tetap mengacu pada aturan pembatasan harga dalam POJK No. 29/2023. Karena porsi dana buyback hanya sekitar 1 persen dari modal disetor, perusahaan menyatakan porsi kepemilikan saham publik (free float) tetap akan memenuhi ketentuan minimum yang berlaku. Perseroan juga menyatakan tidak memiliki perkara hukum material dari pihak ketiga, kreditur, maupun pemasok, serta tidak ada informasi penting lain yang belum diungkapkan ke publik dan berpotensi memengaruhi harga saham atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Modern office towers in Jakarta's central business district reflecting afternoon light, light traffic moving along a wide avenue below.",
+  "takeaway": "Laporan ini netral bagi ICBP karena isinya cuma menjawab pertanyaan rutin bursa soal buyback yang sudah diumumkan, tanpa kabar baru yang mengubah gambaran keuangan perusahaan secara berarti. Dana buyback Rp750 miliar memang memakai kas perusahaan dan akan sedikit mengurangi jumlah saham beredar setelah saham yang dibeli ditarik dari pasar, tapi karena porsinya cuma sekitar 1 persen dari modal disetor, efeknya ke arus kas, ekuitas, dan laba per saham praktis tidak terasa. Yang perlu dipantau selanjutnya adalah laporan realisasi pembelian kembali saham yang wajib disampaikan ICBP ke bursa setelah periode buybacknya berjalan, karena di situlah baru akan terlihat berapa saham yang benar-benar dibeli dan di harga berapa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pefindo-tetapkan-rating-ida-untuk-obligasi-ijee-rp1-7-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Tetapkan Rating [idA] untuk Obligasi IJEE Rp1,7 Triliun",
+  "deck": "PEFINDO menetapkan peringkat idA (Single A) untuk empat obligasi IJEE senilai total Rp1,71 triliun, berlaku 3 November 2026 hingga 1 November 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T20:54:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f8b8fb6a82_3abd787738.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IJEE",
+  "tags": [
+   "IJEE",
+   "obligasi",
+   "PEFINDO",
+   "rating kredit"
+  ],
+  "body": [
+   "PT Integrasi Jaringan Ekosistem Tbk (IJEE) menerima hasil pemeringkatan tahunan dari PT Pemeringkat Efek Indonesia (PEFINDO) untuk empat seri obligasi yang diterbitkannya. Berdasarkan rapat komite pemeringkat yang digelar Selasa, 3 November 2026, PEFINDO menetapkan peringkat idA (Single A) untuk Obligasi II Tahun 2025 Seri B senilai Rp456,56 miliar yang jatuh tempo 8 Juli 2028, Obligasi III Tahun 2026 Seri A senilai Rp806,9 miliar jatuh tempo 19 April 2027, Seri B senilai Rp99,9 miliar jatuh tempo 9 April 2028, dan Seri C senilai Rp343,2 miliar jatuh tempo 9 April 2029. Total nilai obligasi yang mendapat peringkat ini mencapai Rp1.706.560.000.000 atau sekitar Rp1,71 triliun.",
+   "Peringkat idA tersebut berlaku untuk periode 3 November 2026 sampai 1 November 2027, dan disusun berdasarkan data serta laporan keuangan audit IJEE per 30 Juni 2026. Hasil pemeringkatan ini diterbitkan PEFINDO melalui surat bernomor RC-1467/PEF-DIR/XI/2026 tertanggal 4 November 2026, ditandatangani Direktur Utama PEFINDO Ignatius Girendroheru dan Direktur Hendro Utomo, lalu disampaikan kepada Direktur Utama IJEE, Hendrik Tee. Keterbukaan informasi ke bursa sendiri dikirim perusahaan pada 6 November 2026 pukul 20.54.",
+   "Dalam suratnya, PEFINDO menjelaskan bahwa peringkat idA menunjukkan kemampuan IJEE memenuhi komitmen keuangan jangka panjang atas obligasi tersebut tergolong kuat dibandingkan emiten lain di Indonesia. Namun PEFINDO juga mencatat bahwa kemampuan ini bisa lebih mudah terpengaruh oleh perubahan buruk kondisi ekonomi dibandingkan emiten yang peringkatnya lebih tinggi."
+  ],
+  "fotoAdegan": "Technicians inspecting rows of server racks and fiber optic cables in a dim data center aisle, blue indicator lights glowing",
+  "takeaway": "Laporan ini netral bagi IJEE karena sifatnya adalah pemantauan rutin tahunan, tanpa indikasi rating naik atau turun dibanding periode sebelumnya, sehingga belum ada sinyal baru soal arah risiko keuangan perusahaan. Pos yang tersentuh di sini adalah beban bunga utang, karena rating kredit seperti idA ini pada dasarnya adalah nilai kelayakan bayar utang yang dibuat lembaga pemeringkat, dan makin tinggi nilainya biasanya makin murah bunga yang harus dibayar perusahaan saat menerbitkan obligasi baru. Yang perlu dicermati investor pemegang obligasi ini adalah jadwal jatuh tempo masing masing seri, dengan Obligasi III Seri A senilai Rp806,9 miliar menjadi yang pertama harus dibayar pada 19 April 2027, sebelum periode rating saat ini berakhir pada 1 November 2027 dan PEFINDO kembali melakukan evaluasi tahunan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "fasilitas-devisa-ekspor-sda-diperluas-portal-dsi-siap-2027",
   "category": "Moneter",
   "title": "Fasilitas Devisa Ekspor SDA [Diperluas], Portal DSI Siap 2027",
@@ -85,6 +163,32 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah publikasi rutin: Bappebti merilis ulang hasil pemeringkatan untuk 69 pialang berjangka aktif periode Juli-September 2026, dengan PT PG Berjangka naik ke posisi teratas dan sebelas perusahaan lain mengisi empat peringkat berikutnya. Yang terdampak langsung adalah calon nasabah yang memakai daftar ini sebagai acuan memilih pialang, serta 69 perusahaan pialang itu sendiri karena reputasi mereka dipertaruhkan di depan publik setiap tiga bulan. Siaran pers ini tidak menyertakan hasil triwulan sebelumnya, sehingga belum bisa dipastikan apakah susunan lima besar ini stabil atau berganti-ganti dari periode ke periode. Yang perlu ditunggu adalah rilis pemeringkatan triwulan IV-2026, yang menurut aturan wajib dipublikasikan paling lambat tiga bulan setelah periode penilaian berakhir, untuk melihat apakah nama-nama yang sama bertahan di posisi atas."
+ },
+ {
+  "slug": "vtny-akui-transaksi-cessie-rp147-miliar-belum-diungkap",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Akui Transaksi [Cessie] Rp147 Miliar Belum Diungkap",
+  "deck": "VTNY menanggapi permintaan penjelasan Bursa soal opini wajar dengan pengecualian, dan mengakui pengalihan piutang Rp147 miliar serta obligasi anak usaha belum diungkap sebagai transaksi material.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T20:11:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d41b306f52_3c44142603.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "opini audit",
+   "transaksi material",
+   "obligasi"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia tertanggal 4 November 2026, menyusul opini Wajar Dengan Pengecualian (WDP) yang diberikan KAP Andi Ruswandi Wisnu dan Rekan atas laporan keuangan tahun 2025. Jawaban resmi ditandatangani Direktur Kaleb Solaiman pada 6 November 2026. Opini WDP muncul karena dua anak usaha, Venteny Pte. Ltd. (VEN) di Singapura dan Venteny GK (VGK) di Jepang, tidak diaudit oleh auditor independen setempat. Per 30 Juni 2026, aset gabungan VEN dan VGK hanya Rp35,3 miliar atau 2,37 persen dari total aset konsolidasi, tetapi liabilitas keduanya mencapai Rp756,4 miliar, setara 70,66 persen dari total liabilitas grup, sebuah proporsi yang oleh auditor sendiri dinyatakan material.",
+   "VEN dan VGK berfungsi sebagai penghimpun dana dari luar negeri yang kemudian disalurkan lewat pinjaman antar-perusahaan ke entitas operasional di Indonesia untuk membiayai debitur UMKM. VEN tercatat menerbitkan obligasi senilai JP¥200 juta berbunga 10 persen per tahun pada Agustus 2023, sementara VGK menerbitkan obligasi JP¥5,94 miliar (setara Rp638,97 miliar) pada 2025 dan JP¥5,9 miliar (setara Rp650,95 miliar) pada 2026. Perseroan menyebut sudah ada kesepakatan perpanjangan pembayaran dengan mayoritas kreditur, dan dana digunakan untuk menambah penyaluran pembiayaan dan pendapatan. Namun baik auditor maupun manajemen mengakui penerbitan obligasi VGK ini belum pernah disampaikan sebagai keterbukaan informasi transaksi material sesuai POJK 17/2020, dan Perseroan menyatakan sedang berkoordinasi dengan tim hukum untuk menyusun keterbukaan informasi perbaikan.",
+   "Pada bagian lain, Perseroan mengungkap bahwa piutang usaha senilai Rp147 miliar dari penjualan sistem manajemen berbasis AI telah dialihkan ke satu pihak ketiga independen melalui skema cessie, dengan identitas pembeli dirahasiakan karena ada perjanjian kerahasiaan (NDA). Karena nilai pengalihan ini melebihi 20 persen dari total ekuitas Perseroan, transaksi tersebut seharusnya juga diumumkan sebagai transaksi material, namun belum dilakukan, dan Perseroan kembali menyatakan sedang menyiapkan keterbukaan informasi susulan. Auditor juga mengungkap bahwa setelah peninjauan ulang, besarnya porsi liabilitas yang tidak teraudit membuat opini WDP yang sudah terbit berpotensi perlu diterbitkan ulang sesuai standar audit SA 705. Perseroan menambahkan bahwa sejumlah pihak ketiga pada piutang penjualan sistem belum terdaftar di Ditjen AHU dan tidak memiliki pendaftaran pemilik manfaat akhir, sementara auditor menyatakan tidak melakukan pengujian substantif atas hal itu."
+  ],
+  "fotoAdegan": "Small market vendors in Indonesia completing a digital payment on a smartphone at a modest storefront, busy afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi VTNY karena perusahaan sendiri mengakui dua transaksi besar, pengalihan piutang Rp147 miliar dan obligasi anak usaha VGK senilai lebih dari Rp650 miliar, belum pernah diungkapkan ke publik meski nilainya melewati ambang batas transaksi material, dan auditor bahkan menyinggung kemungkinan menerbitkan ulang opini auditnya. Yang tersentuh adalah pos utang dan ekuitas: anak usaha VEN dan VGK yang tidak diaudit independen menyumbang 70,66 persen dari total utang grup, jauh di atas porsi asetnya yang cuma 2,37 persen, sehingga risiko pendanaan luar negeri yang sulit diverifikasi ikut menumpuk di neraca konsolidasi, sementara nilai pengalihan piutang yang melebihi 20 persen ekuitas berarti dampaknya ke modal pemegang saham bukan jumlah kecil. Yang perlu dipantau berikutnya adalah apakah VTNY benar-benar menyampaikan keterbukaan informasi perbaikan ke Bursa seperti yang dijanjikan dalam surat ini, serta apakah auditor jadi menerbitkan ulang laporan opininya sesuai SA 705 seperti disebutkan dalam jawaban mereka.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bmas-revisi-transaksi-afiliasi-pinjaman-kbank-capai-us-240-juta",

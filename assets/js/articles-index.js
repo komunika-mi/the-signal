@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ayls-panggil-rupslb-ganti-direktur-utama-30-november",
+  "category": "Aksi Korporasi",
+  "title": "AYLS panggil RUPSLB, ganti [Direktur Utama] 30 November",
+  "deck": "AYLS mengundang pemegang saham ke RUPSLB 30 November 2026 untuk membahas pergantian Direktur Utama, penyesuaian KBLI, dan perubahan Anggaran Dasar.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AYLS",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c6162af180_e8bfb2ed01.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tguk-vcg-tawar-tender-wajib-rp56-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "TGUK: VCG Tawar [Tender] Wajib Rp56 per Saham",
+  "deck": "VCG menawar beli maksimal 766,7 juta saham publik TGUK senilai Rp42,9 miliar pada Rp56 per saham, periode 9 November-8 Desember 2026, menyusul alih kendali dari DKI.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGUK",
+   "tender wajib",
+   "akuisisi",
+   "VCG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d1042613f4_e8ce916a9c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "port-jadwalkan-pembayaran-dividen-interim-rp35-6-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "PORT Jadwalkan Pembayaran [Dividen] Interim Rp35,6 per Saham",
+  "deck": "PORT menjadwalkan dividen interim tunai Rp100,25 miliar atau Rp35,6 per saham, dengan recording date 18 November dan pembayaran 3 Desember 2026.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PORT",
+   "dividen interim",
+   "pelabuhan",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c160b4f28d_920009977f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "koka-pastikan-tak-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "KOKA Pastikan Tak Ada Informasi Material di Balik [Volatilitas] Saham",
+  "deck": "Merespons permintaan penjelasan Bursa Efek Indonesia, manajemen KOKA menyatakan tidak ada fakta material maupun rencana korporasi yang memicu pergerakan harga sahamnya.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOKA",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/34d9d14204_7061310335.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nfcx-rencanakan-buyback-saham-senilai-rp87-miliar",
+  "category": "Aksi Korporasi",
+  "title": "NFCX Rencanakan [Buyback] Saham Senilai Rp87 Miliar",
+  "deck": "NFC Indonesia (NFCX) akan membeli kembali maksimal 49 juta saham atau 7,35 persen modal disetor senilai hingga Rp87 miliar, periode 9 November 2026 sampai 8 Februari 2027.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NFCX",
+   "buyback saham",
+   "pembelian kembali saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/457224eb51_8ce264e69e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "plas-dibuka-sementara-untuk-transaksi-buyback-jelang-delisting",
+  "category": "Aksi Korporasi",
+  "title": "PLAS Dibuka Sementara untuk Transaksi [Buyback] Jelang Delisting",
+  "deck": "BEI mencabut sementara suspensi saham PLAS khusus di pasar negosiasi Jumat ini, hanya untuk transaksi crossing buyback saham jelang delisting perseroan.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PLAS",
+   "delisting",
+   "suspensi saham",
+   "buyback"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/82e3cd9185_09850bbb43.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tpt-agustus-2026-4-75-naik-dari-februari",
   "category": "Makroekonomi",
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
@@ -1435,6 +1531,22 @@ var ARTICLES = [
    "diversifikasi usaha"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d797142f88_b04c5d1d0f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-lanjutkan-suspensi-saham-menn-dan-soul-akibat-telat-lapor-lk",
+  "category": "Aksi Korporasi",
+  "title": "BEI Lanjutkan [Suspensi] Saham MENN dan SOUL Akibat Telat Lapor LK",
+  "deck": "BEI mengoreksi pengumuman sebelumnya dan menegaskan perdagangan saham MENN serta SOUL masih dihentikan karena belum menyampaikan laporan keuangan interim per Juni 2026 dan/atau belum membayar denda.",
+  "date": "4 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MENN",
+   "SOUL",
+   "suspensi saham",
+   "Papan Akselerasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/07c61d5d45_2b726dfb08.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6350,119 +6462,6 @@ var ARTICLES = [
    "arus kas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031105118-65528-0/FinancialStatement-2026-III-SLIS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-lagi-jadi-rp2-526-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Lagi Jadi Rp2.526.000/Gram",
-  "deck": "Harga emas Antam turun Rp20.000 per gram untuk hari kedua beruntun pada 31 Oktober 2026, kini Rp2.526.000 per gram. Harga buyback ikut turun ke Rp2.276.000 per gram.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/harga-emas-antam-turun-lagi-jadi-rp2-526-000-gram.jpg",
-  "imageV": "mvvuts2i",
-  "tags": [
-   "emas",
-   "antam",
-   "harga emas",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/475873-harga-emas-antam-hari-ini-31-oktober-2026-lagi-lagi-menurun-kini-jadi-rp2526000-per-gram"
- },
- {
-  "slug": "agii-komisaris-utama-heyzer-harsono-wafat",
-  "category": "Aksi Korporasi",
-  "title": "AGII: Komisaris Utama [Heyzer Harsono] Wafat",
-  "deck": "Komisaris Utama AGII, Heyzer Harsono, meninggal dunia pada 30 Oktober 2026. Perusahaan menyatakan tidak ada dampak material terhadap operasional atau keuangan.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGII",
-   "Komisaris Utama",
-   "Pergantian Pengurus",
-   "Keterbukaan Informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/da74c3c626_2a56601544.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rugi-pssi-balik-rugi-liabilitas-melonjak-34",
-  "category": "Aksi Korporasi",
-  "title": "[Rugi] PSSI Balik Rugi, Liabilitas Melonjak 34%",
-  "deck": "Laba PT IMC Pelita Logistik Tbk (PSSI) berbalik jadi rugi pada sembilan bulan pertama 2026 seiring pendapatan turun dan utang bank bertambah 34 persen.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "laporan keuangan",
-   "liabilitas",
-   "logistik laut"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031093819-65155-0/FinancialStatement-2026-III-PSSI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-wbsa-turun-55-di-kuartal-iii-2026-pendapatan-naik-31",
-  "category": "Aksi Korporasi",
-  "title": "[Laba] WBSA Turun 55% di Kuartal III 2026, Pendapatan Naik 31%",
-  "deck": "Pendapatan WBSA naik 31% menjadi Rp2,9 triliun pada kuartal III 2026, tapi laba bersih turun 55% menjadi Rp13,48 miliar akibat kenaikan beban dan biaya keuangan.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WBSA",
-   "laporan keuangan",
-   "laba bersih",
-   "logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031091411-65443-0/FinancialStatement-2026-III-WBSA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gtra-tambah-733-truk-laba-bersih-melonjak-96-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "GTRA Tambah 733 Truk, Laba Bersih [Melonjak] 96% di Kuartal III",
-  "deck": "Laba bersih GTRA naik 96 persen menjadi Rp87,84 miliar pada sembilan bulan 2026, ditopang penambahan 733 truk baru yang dibiayai utang bank dan pembiayaan konsumen.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTRA",
-   "laporan keuangan",
-   "logistik",
-   "ekspansi truk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031090358-65590-0/FinancialStatement-2026-III-GTRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hits-laba-turun-39-di-kuartal-iii-meski-pendapatan-naik",
-  "category": "Aksi Korporasi",
-  "title": "HITS: Laba [Turun] 39% di Kuartal III Meski Pendapatan Naik",
-  "deck": "Pendapatan HITS naik 5 persen jadi US$105,3 juta pada sembilan bulan 2026, tetapi laba bersih turun 39 persen akibat beban bunga dan biaya pokok yang naik lebih cepat.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HITS",
-   "laporan keuangan",
-   "laba bersih",
-   "pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/20261031085014-65570-0/FinancialStatement-2026-III-HITS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xgld-unit-etf-emas-susut-4-juta-via-penebusan",
-  "category": "Aksi Korporasi",
-  "title": "XGLD: Unit ETF Emas Susut 4 Juta via [Penebusan]",
-  "deck": "Jumlah unit penyertaan ETF emas syariah XGLD berkurang dari 84 juta menjadi 80 juta unit, efektif tercatat dengan jumlah baru mulai 2 November 2026.",
-  "date": "31 Oktober 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XGLD",
-   "ETF emas",
-   "reksa dana syariah",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/e4c8548145_3b12a20580.pdf",
   "sourceLabel": "IDX"
  }
 ];

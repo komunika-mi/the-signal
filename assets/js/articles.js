@@ -3,6 +3,164 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ayls-panggil-rupslb-ganti-direktur-utama-30-november",
+  "category": "Aksi Korporasi",
+  "title": "AYLS panggil RUPSLB, ganti [Direktur Utama] 30 November",
+  "deck": "AYLS mengundang pemegang saham ke RUPSLB 30 November 2026 untuk membahas pergantian Direktur Utama, penyesuaian KBLI, dan perubahan Anggaran Dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T14:52:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c6162af180_e8bfb2ed01.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AYLS",
+  "tags": [
+   "AYLS",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Arkayana Lestari Grup Tbk (AYLS) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 30 November 2026, pukul 10.00 WIB di Menara Global Lantai 15 Suite CD, Jalan Jenderal Gatot Subroto Kavling 27, Kuningan Timur, Setiabudi, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 5 November 2026 pukul 16.00 WIB.",
+   "Rapat akan membahas tiga agenda. Pertama, penyesuaian klasifikasi kegiatan usaha perseroan dari KBLI 2017 ke KBLI 2025 sesuai Peraturan BPS Nomor 7 Tahun 2025, yang mengubah tiga kode usaha AYLS: kode 46639 untuk perdagangan besar bahan konstruksi lainnya menjadi 46739, kode 46699 untuk perdagangan besar produk lainnya menjadi 46799, sementara kode 46319 untuk perdagangan besar bahan makanan dan minuman hasil pertanian tetap sama. Kedua, perseroan mengusulkan pergantian Direktur Utama. Yang Chuan mengundurkan diri dari jabatan itu lewat surat tertanggal 12 Oktober 2026, dan perseroan mengajukan Tony Muhammad Pahlevi, yang saat ini menjabat Direktur, untuk menggantikannya hingga sisa masa jabatan berakhir.",
+   "Agenda ketiga adalah perubahan Anggaran Dasar pada tujuh pasal. Perubahan itu antara lain menghapus syarat pengumuman RUPS lewat surat kabar cetak sehingga pemanggilan cukup lewat situs Bursa Efek dan situs perseroan, melonggarkan aturan rangkap jabatan direksi menjadi boleh merangkap sebagai direktur di maksimal satu emiten lain, komisaris di maksimal tiga emiten lain, dan anggota komite di maksimal lima komite, mengizinkan rapat direksi dan komisaris digelar lewat telekonferensi, serta memperpendek tenggat pemanggilan rapat komisaris dari 14 hari menjadi 7 hari dan dari 3 hari menjadi 1 hari untuk rapat yang mendesak.",
+   "Perseroan tidak mengirim undangan terpisah kepada pemegang saham sehingga pemanggilan ini berlaku sebagai undangan resmi. Pemegang saham yang tidak dapat hadir bisa diwakilkan lewat eProxy KSEI atau surat kuasa konvensional yang diserahkan ke biro administrasi efek, PT Adimitra Jasa Korpora, paling lambat satu jam sebelum rapat dimulai. Pemungutan suara dilakukan secara elektronik dan dapat diberikan sejak 6 November 2026 hingga pembukaan masing-masing agenda yang memerlukan voting."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of chairs around a long table, large windows and soft daylight in a Jakarta office tower",
+  "takeaway": "Laporan ini netral bagi AYLS, pergantian Direktur Utama di sini adalah suksesi internal dari direktur yang sudah menjabat, bukan pergantian mendadak, dan perubahan Anggaran Dasar sebagian besar berupa penyesuaian tata kelola mengikuti aturan terbaru, jadi belum ada sinyal yang mengubah prospek bisnis perseroan. Yang tersentuh bukan pos keuangan seperti ekuitas atau arus kas, melainkan struktur pengambilan keputusan direksi dan komisaris, karena direksi baru diizinkan merangkap jabatan di perusahaan lain dan rapat bisa digelar lewat video, hal yang perlu dicermati karena rangkap jabatan berpotensi memunculkan benturan kepentingan meski batasnya sudah diatur jelas. Yang perlu dipantau adalah hasil RUPSLB pada 30 November 2026, terutama apakah pemegang saham menyetujui pengangkatan Tony Muhammad Pahlevi sebagai Direktur Utama definitif dan bagaimana tanggapan mereka terhadap pelonggaran aturan rangkap jabatan tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tguk-vcg-tawar-tender-wajib-rp56-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "TGUK: VCG Tawar [Tender] Wajib Rp56 per Saham",
+  "deck": "VCG menawar beli maksimal 766,7 juta saham publik TGUK senilai Rp42,9 miliar pada Rp56 per saham, periode 9 November-8 Desember 2026, menyusul alih kendali dari DKI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T14:18:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d1042613f4_e8ce916a9c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGUK",
+  "tags": [
+   "TGUK",
+   "tender wajib",
+   "akuisisi",
+   "VCG"
+  ],
+  "body": [
+   "PT Platinum Wahab Nusantara Tbk (TGUK) menyampaikan keterbukaan informasi soal penawaran tender wajib menyusul perubahan pengendali perusahaan. Pada 2 Oktober 2026, Visionary Capital Global Pte. Ltd. (VCG) membeli 2.030.032.377 saham TGUK, setara 56,84 persen, dari PT Dinasti Kreatif Indonesia (DKI) selaku pengendali lama, dengan harga Rp20 per saham atau total Rp40.600.647.540. Transaksi ini membuat VCG menjadi pengendali baru dan, sesuai aturan OJK soal pengambilalihan perusahaan terbuka, mewajibkan VCG menawar beli saham milik pemegang saham publik lainnya.",
+   "VCG menunjuk anak usahanya, PT Artha Global Trikanaka Investama (AGTI), untuk melaksanakan penawaran tender ini. AGTI akan membeli sebanyak-banyaknya 766.735.515 saham atau 21,47 persen dari total saham TGUK, dengan harga Rp56 per saham, sehingga nilai maksimal transaksi mencapai Rp42.937.188.840. Harga ini ditetapkan dengan membandingkan harga akuisisi (Rp20) dengan rata-rata harga tertinggi perdagangan harian saham TGUK di bursa selama 12 bulan sebelum sahamnya disuspensi, yaitu Rp55,21 yang dibulatkan menjadi Rp56, dan yang lebih tinggi di antara keduanya yang dipakai. Periode penawaran berlangsung 9 November sampai 8 Desember 2026, dengan pembayaran kepada pemegang saham yang ikut menjual dijadwalkan pada 14 Desember 2026.",
+   "Tidak semua pemegang saham wajib ikut serta. DKI dikecualikan karena sudah menjadi pihak penjual dalam transaksi akuisisi. Selain itu, lima pihak, yaitu Janni, Antonius Bobby Siswanto, Edie, Maulana Hakim, dan Najib Wahab Mauluddin, telah menyatakan tidak akan melepas saham mereka dalam tender ini, dengan total kepemilikan gabungan 328.466.300 saham atau 9,20 persen dari modal TGUK. Dokumen juga mengungkap rangkap jabatan di balik transaksi ini, Janni adalah pemilik 85 persen saham VCG dan juga pemegang saham TGUK, Antonius Bobby Siswanto adalah Direktur dan pemegang saham VCG sekaligus Komisaris Utama TGUK, dan Agus Suhada adalah pemegang saham VCG sekaligus Direktur Utama TGUK.",
+   "Jika seluruh pemegang saham publik yang berhak ikut menjual sahamnya, kepemilikan VCG di TGUK bisa naik menjadi 2.796.767.892 saham atau 78,31 persen. Karena angka itu masih di bawah ambang 80 persen, VCG tidak wajib menjual kembali sebagian sahamnya ke publik sebagaimana diatur POJK 9/2018, meski perusahaan menyatakan tetap akan menjaga jumlah saham beredar bebas sesuai aturan BEI. TGUK dan AGTI juga menegaskan tidak ada rencana menghapus pencatatan saham dari bursa, mengubah status menjadi perusahaan tertutup, melikuidasi perusahaan, atau mengubah kebijakan dividen."
+  ],
+  "fotoAdegan": "Workers arranging crates of packaged frozen food inside a refrigerated cold storage warehouse, forklift nearby, industrial lighting",
+  "takeaway": "Laporan ini netral bagi TGUK karena transaksinya murni perpindahan saham antar pemegang saham, tidak ada dana segar yang masuk ke kas perusahaan maupun perubahan jumlah saham beredar perusahaan. Yang menarik, harga tawar untuk pemegang saham publik dipatok Rp56 per saham, jauh di atas Rp20 per saham yang dibayar VCG saat mengambil alih dari DKI, sehingga pemegang saham minoritas yang ikut menjual justru mendapat harga lebih baik dibanding yang diterima pengendali lama. Perlu dicermati bahwa lima pihak terafiliasi dengan manajemen, termasuk Komisaris Utama Antonius Bobby Siswanto dan pemilik mayoritas VCG, Janni, memilih tidak melepas saham mereka, yang bisa dibaca sebagai sinyal mereka masih mempertahankan posisi di TGUK. Kalau mayoritas pemegang saham publik lain ikut menjual, kepemilikan VCG bisa naik mendekati 78,31 persen, membuat jumlah saham yang beredar bebas di pasar berpotensi menyusut dan perlu dipantau dampaknya pada likuiditas perdagangan saham TGUK ke depan. Yang perlu dipantau berikutnya adalah penutupan periode penawaran pada 8 Desember 2026 dan tanggal pembayaran hasil tender pada 14 Desember 2026, karena baru saat itu akan terlihat berapa besar porsi publik yang benar-benar beralih ke tangan pengendali baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "port-jadwalkan-pembayaran-dividen-interim-rp35-6-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "PORT Jadwalkan Pembayaran [Dividen] Interim Rp35,6 per Saham",
+  "deck": "PORT menjadwalkan dividen interim tunai Rp100,25 miliar atau Rp35,6 per saham, dengan recording date 18 November dan pembayaran 3 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T14:06:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c160b4f28d_920009977f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PORT",
+  "tags": [
+   "PORT",
+   "dividen interim",
+   "pelabuhan",
+   "BEI"
+  ],
+  "body": [
+   "PT Nusantara Pelabuhan Handal Tbk (PORT) akan membagikan dividen interim tunai untuk tahun buku 2026 senilai Rp100.250.350.000, atau Rp35,6 per saham. Rencana ini diajukan Direksi melalui Surat Keputusan Direksi Nomor SK_DIR-004/DIR/NPH/X/2026 tertanggal 27 Oktober 2026, dan disetujui Dewan Komisaris yang diketuai Presiden Komisaris Kang Haihua pada 5 November 2026. Direktur Utama Chen Yao menandatangani usulan tersebut, yang kemudian disahkan lewat surat Corporate Secretary Sony Sutanto pada 6 November 2026.",
+   "Jadwalnya cukup rapat. Cum dividen di pasar reguler dan negosiasi jatuh pada 16 November 2026, disusul ex dividen pada 17 November 2026. Di pasar tunai, cum dividen berlaku 18 November 2026 dan ex dividen 19 November 2026. Tanggal pencatatan pemegang saham yang berhak menerima dividen (recording date) ditetapkan 18 November 2026 pukul 16.00 WIB, dan dana akan dibayarkan paling lambat 3 Desember 2026, yaitu 10 hari bursa setelah recording date.",
+   "Dividen ini sebagian bersumber dari setoran dividen dua anak usaha pelabuhan milik PORT. PT Mustika Alam Lestari menyetor Rp115 miliar sesuai porsi kepemilikan PORT sebesar 99,998 persen, sementara PT PBM Adi Purusa Lestari menyetor Rp45 miliar sesuai porsi kepemilikan 83,34 persen. Keputusan Direksi juga menyebut bahwa per 30 September 2026, NPH Group memiliki simpanan deposito sekitar Rp440,7 miliar, sementara laba bersih yang bisa diatribusikan ke induk perusahaan tercatat Rp1,39 triliun dan saldo laba ditahan yang tidak dibatasi penggunaannya Rp740,67 miliar."
+  ],
+  "fotoAdegan": "Cargo cranes loading shipping containers onto a vessel at a busy Indonesian seaport, late afternoon light",
+  "takeaway": "Laporan ini condong positif karena dividen dibayarkan dari laba riil perusahaan dan dari setoran dividen dua anak usaha pelabuhan, bukan dari kas yang dipaksakan, sementara simpanan deposito perusahaan masih tersisa sekitar Rp440,7 miliar setelah pembagian ini dihitung. Pos yang tersentuh adalah saldo laba ditahan, yaitu bagian keuntungan yang selama ini disimpan perusahaan dan kini sebagian dibagikan ke pemegang saham, serta arus kas keluar sekitar Rp100,25 miliar saat pembayaran nanti dilakukan. Jumlah saham beredar dan laba per saham tidak berubah oleh aksi ini karena bukan penerbitan saham baru, sehingga porsi kepemilikan tiap pemegang saham tetap sama seperti sebelumnya. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 18 November 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran pada 3 Desember 2026 sebagai batas realisasi dana ke rekening pemegang saham.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "koka-pastikan-tak-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "KOKA Pastikan Tak Ada Informasi Material di Balik [Volatilitas] Saham",
+  "deck": "Merespons permintaan penjelasan Bursa Efek Indonesia, manajemen KOKA menyatakan tidak ada fakta material maupun rencana korporasi yang memicu pergerakan harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T13:58:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/34d9d14204_7061310335.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOKA",
+  "tags": [
+   "KOKA",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Koka Indonesia Tbk (KOKA) memberikan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan nomor S-13481/BEI.PP1/10-2026 terkait volatilitas transaksi saham perseroan. Surat tanggapan bernomor 005.011/BOD/KOKA-IND/XI/2026 ditandatangani Direktur Utama Gao Jing dan disampaikan pada 6 November 2026.",
+   "Dalam enam poin jawaban, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efek perseroan, baik yang diatur dalam POJK Nomor 31/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan I-E Bursa. Perseroan juga mengaku belum mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024 tentang perubahan kepemilikan saham, dan belum memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang bisa berdampak pada status pencatatan sahamnya di bursa.",
+   "Terkait rencana pemegang saham utama, corporate secretary perseroan telah menanyakan langsung kepada pemegang saham utama, dan jawabannya menyatakan belum ada rencana apa pun terhadap kepemilikan sahamnya di KOKA. Perseroan menutup surat dengan menegaskan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Wide shot of a stock exchange trading floor in Jakarta, traders walking past distant blurred screens, afternoon light through tall windows.",
+  "takeaway": "Tanggapan ini netral bagi KOKA, karena isinya sebatas bantahan standar tanpa ada angka atau peristiwa baru yang mengubah gambaran bisnis perseroan. Yang disinggung di sini sebenarnya adalah struktur pemegang saham dan potensi tindakan korporasi, dua hal yang biasa dipantau pelaku pasar karena bisa mengubah siapa yang mengendalikan perusahaan atau menambah jumlah saham beredar yang akhirnya menggerus laba per saham pemegang lama. Karena perseroan menyatakan tidak ada rencana semacam itu dalam tiga bulan ke depan, pergerakan harga saham KOKA sejauh ini belum punya penjelasan fundamental dari dalam perusahaan sendiri. Yang perlu dipantau berikutnya adalah apakah Bursa Efek Indonesia menindaklanjuti dengan status pengawasan tambahan atau permintaan penjelasan lanjutan jika volatilitas transaksi berlanjut setelah 6 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nfcx-rencanakan-buyback-saham-senilai-rp87-miliar",
+  "category": "Aksi Korporasi",
+  "title": "NFCX Rencanakan [Buyback] Saham Senilai Rp87 Miliar",
+  "deck": "NFC Indonesia (NFCX) akan membeli kembali maksimal 49 juta saham atau 7,35 persen modal disetor senilai hingga Rp87 miliar, periode 9 November 2026 sampai 8 Februari 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T13:55:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/457224eb51_8ce264e69e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NFCX",
+  "tags": [
+   "NFCX",
+   "buyback saham",
+   "pembelian kembali saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT NFC Indonesia Tbk (NFCX) menyampaikan keterbukaan informasi rencana pembelian kembali saham pada 6 November 2026. Perseroan berencana membeli maksimal 49.000.000 lembar saham, setara 7,35 persen dari modal ditempatkan dan disetor penuh, dengan estimasi harga Rp1.775 per saham sehingga nilai total maksimal mencapai Rp86.975.000.000. Pembelian dilakukan bertahap melalui Bursa Efek Indonesia selama periode 9 November 2026 sampai 8 Februari 2027, dengan PT Panca Global Sekuritas ditunjuk sebagai perantara pedagang efek. Perseroan memakai kewenangan khusus dari POJK No. 13/2023 dan surat OJK No. S-112/D.04/2026 tentang kebijakan buyback pada kondisi pasar yang berfluktuasi signifikan, sehingga transaksi ini tidak memerlukan persetujuan rapat umum pemegang saham terlebih dulu.",
+   "Perseroan menyatakan dana pembelian berasal dari kas internal hasil laba ditahan, dan diklaim tidak akan menurunkan pendapatan maupun menambah beban pembiayaan. Dalam simulasi proforma manajemen, jumlah saham beredar rata-rata akan turun dari 662.412.300 lembar menjadi 613.412.300 lembar, atau turun 7,40 persen, sementara laba bersih yang diatribusikan ke pemilik entitas induk tetap di angka Rp5.646 juta. Dengan jumlah saham yang mengecil itu, laba bersih per saham dasar proforma naik dari Rp8,52 menjadi Rp9,20, atau naik 7,99 persen, meski laba perusahaan itu sendiri tidak berubah.",
+   "Saham yang dibeli kembali akan disimpan sebagai saham treasuri sesuai POJK No. 13/2023 dan POJK No. 29/2023, dan baru dapat dialihkan paling cepat 30 hari setelah periode pembelian berakhir. Selama periode buyback, komisaris, direksi, pegawai, dan pemegang saham utama perseroan, serta pihak yang memiliki akses informasi orang dalam, dilarang bertransaksi atas saham perseroan pada hari yang sama dengan transaksi buyback yang dilakukan perseroan di bursa."
+  ],
+  "fotoAdegan": "Technicians inspecting blinking server racks in a dim data center, blue indicator lights glowing, modern glass office windows in background",
+  "takeaway": "Rencana buyback ini sebaiknya dibaca dengan hati-hati, bukan otomatis sebagai sinyal percaya diri manajemen. Nilainya cukup besar, sampai Rp87 miliar dari kas internal, justru muncul tak lama setelah NFCX melaporkan rugi yang melebar dan liabilitas naik 27 persen pada kuartal III 2026, sehingga mengalirkan dana ke pembelian saham sendiri di tengah tekanan keuangan pantas dipertanyakan prioritasnya. Yang tersentuh langsung adalah jumlah saham beredar, yang menurut simulasi perusahaan akan menyusut 7,40 persen dari 662,4 juta menjadi 613,4 juta lembar, sehingga laba per saham naik di atas kertas dari Rp8,52 ke Rp9,20 padahal laba bersihnya sendiri tidak membesar, jadi kenaikan itu murni efek pembagi yang mengecil, bukan perbaikan kinerja usaha. Yang perlu dipantau berikutnya adalah realisasi pembelian selama periode 9 November 2026 sampai 8 Februari 2027, apakah perseroan benar-benar menyerap penuh kuota 49 juta saham, serta keputusan atas saham treasuri itu setelah masa tunggu 30 hari pasca periode berakhir, yakni sekitar awal Maret 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "plas-dibuka-sementara-untuk-transaksi-buyback-jelang-delisting",
+  "category": "Aksi Korporasi",
+  "title": "PLAS Dibuka Sementara untuk Transaksi [Buyback] Jelang Delisting",
+  "deck": "BEI mencabut sementara suspensi saham PLAS khusus di pasar negosiasi Jumat ini, hanya untuk transaksi crossing buyback saham jelang delisting perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T13:50:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/82e3cd9185_09850bbb43.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PLAS",
+  "tags": [
+   "PLAS",
+   "delisting",
+   "suspensi saham",
+   "buyback"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencabutan sementara penghentian perdagangan (suspensi) saham PT Polaris Investama Tbk (PLAS) khusus di Pasar Negosiasi, berlaku mulai Sesi II Pasar Negosiasi pada Jumat, 6 November 2026, pukul 14.00 WIB. Pembukaan ini semata untuk memfasilitasi transaksi crossing saham hasil pembelian kembali (buyback) yang dilakukan perseroan dalam rangka proses pembatalan pencatatan (delisting) sahamnya dari bursa. Transaksi tersebut dilaksanakan oleh PT Pilarmas Investindo Sekuritas, perusahaan efek yang ditunjuk oleh Polaris Investama.",
+   "Permohonan pembukaan suspensi ini diajukan Polaris Investama lewat surat bernomor 006/PI/XI/2026 tertanggal 4 November 2026. Saham PLAS sendiri sudah disuspensi oleh bursa sejak 27 Desember 2018, sehingga hampir delapan tahun tidak bisa diperdagangkan publik secara normal. Bursa menegaskan bahwa selama periode pembukaan ini, tidak ada transaksi lain yang diperbolehkan selain crossing saham buyback tersebut.",
+   "Setelah proses pengalihan saham rampung, bursa akan langsung menutup kembali perdagangan saham PLAS di seluruh pasar pada Sesi II Pasar Negosiasi hari yang sama, Jumat 6 November 2026. Dengan demikian, jendela perdagangan ini hanya berlaku dalam hitungan jam dan khusus untuk pelaksanaan buyback yang menjadi bagian dari proses delisting Polaris Investama dari Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Glass office towers in Jakarta's financial district reflecting afternoon light, busy street intersection in the foreground",
+  "takeaway": "Langkah ini netral bagi fundamental Polaris Investama karena sekadar pelaksanaan teknis dari proses delisting yang sudah berjalan sejak suspensi 2018, tapi penting bagi pemegang saham minoritas yang selama ini terjebak karena akhirnya mendapat jalur untuk mencairkan sahamnya lewat buyback. Transaksi ini menyentuh jumlah saham PLAS yang beredar di publik, sebab saham yang dibeli balik oleh perusahaan biasanya ditarik dari peredaran, sehingga porsi kepemilikan pemegang saham yang tersisa ikut berubah. Yang perlu dipantau berikutnya adalah penutupan kembali perdagangan di seluruh pasar pada Sesi II hari ini, Jumat 6 November 2026, serta kelanjutan resmi proses pembatalan pencatatan (delisting) saham PLAS dari Bursa Efek Indonesia.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tpt-agustus-2026-4-75-naik-dari-februari",
   "category": "Makroekonomi",
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
@@ -2345,6 +2503,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Steel framework and cranes at a gas-fired power plant construction site under a hazy afternoon sky, workers in hard hats in the distance",
   "takeaway": "Laporan ini condong negatif bagi BIKE, karena nilai pinjaman yang diajukan jauh melampaui kemampuan modal sendiri perusahaan, sementara dana itu akan dipakai membiayai bisnis-bisnis baru yang belum punya jejak operasi, dari pembangkit listrik sampai lapangan golf. Yang tersentuh di sini adalah ekuitas, yaitu modal bersih milik pemegang saham, dan rasio utang terhadap ekuitas yang mengukur berapa kali utang perusahaan dibanding modalnya sendiri, rasio ini akan melonjak dari 0,37 kali menjadi 83,9 kali jika seluruh pinjaman ditarik, jauh di atas kebiasaan perusahaan sehat yang umumnya di bawah dua kali. Pinjaman ini juga berasal dari pemegang saham pengendali sendiri, PT Penajam Makmur Jaya, sehingga tergolong transaksi afiliasi yang rawan konflik kepentingan meski sudah dinyatakan wajar oleh penilai independen. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 11 Desember 2026, sebab tanpa persetujuan itu dana belum bisa ditarik sama sekali, dan setelah itu kemampuan bisnis baru BIKE menghasilkan arus kas untuk menutup bunga Rp88 miliar per tahun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-lanjutkan-suspensi-saham-menn-dan-soul-akibat-telat-lapor-lk",
+  "category": "Aksi Korporasi",
+  "title": "BEI Lanjutkan [Suspensi] Saham MENN dan SOUL Akibat Telat Lapor LK",
+  "deck": "BEI mengoreksi pengumuman sebelumnya dan menegaskan perdagangan saham MENN serta SOUL masih dihentikan karena belum menyampaikan laporan keuangan interim per Juni 2026 dan/atau belum membayar denda.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 November 2026",
+  "isoDate": "2026-11-04T22:36:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/07c61d5d45_2b726dfb08.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "MENN",
+   "SOUL",
+   "suspensi saham",
+   "Papan Akselerasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menerbitkan koreksi atas pengumuman nomor Peng-S-00035/BEI.PLP/10-2026 tanggal 4 November 2026, dan menegaskan bahwa penghentian sementara perdagangan efek untuk dua perusahaan tercatat di Papan Akselerasi masih berlaku. PT Menn Teknologi Indonesia Tbk (MENN) disuspensi di seluruh pasar, sementara PT Mitra Tirta Buwana Tbk (SOUL) disuspensi di pasar reguler dan tunai. Suspensi berlaku sejak sesi pertama perdagangan pada 2 November 2026.",
+   "Penyebabnya, menurut dokumen bursa, kedua perusahaan belum menyampaikan Laporan Keuangan Interim per 30 Juni 2026 yang tidak disertai laporan akuntan publik, dan/atau belum membayar denda atas keterlambatan tersebut. Berdasarkan pemantauan bursa hingga 31 Oktober 2026, MENN dan SOUL tercatat sebagai dua perusahaan Papan Akselerasi yang belum memenuhi kewajiban itu. BEI merujuk pada Ketentuan VIII.2.2 Peraturan Bursa Nomor I-V, yang mewajibkan perusahaan tercatat menyampaikan laporan keuangan tengah tahunan sesuai batas waktu dalam Peraturan OJK Nomor 14/POJK.04/2022, serta Ketentuan IX.3.4 yang mewajibkan bursa mengenakan suspensi apabila hingga awal bulan keempat sejak batas waktu pelaporan, perusahaan masih belum menyampaikan laporan keuangannya.",
+   "Pengumuman ditandatangani oleh Bima Ruditya Surya selaku Pejabat Sementara Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat, bersama Pande Made Kusuma Ari A selaku Kepala Divisi Pengaturan dan Operasional Perdagangan Efek."
+  ],
+  "fotoAdegan": "Reflections of modern glass office towers in Jakarta's financial district under an overcast afternoon sky, quiet street below",
+  "takeaway": "Perkembangan ini negatif bagi MENN dan SOUL, sebab suspensi yang berlanjut menunjukkan kewajiban pelaporan keuangan yang masih belum tuntas lebih dari sebulan setelah tenggatnya lewat, bukan sekadar keterlambatan administratif sesaat. Pos yang tersentuh langsung adalah keterbukaan kondisi keuangan perusahaan, karena tanpa laporan keuangan interim yang lengkap, publik tidak bisa menilai perkembangan ekuitas, arus kas, maupun beban yang ditanggung kedua perusahaan sejak akhir 2025, sementara pemegang saham sama sekali tidak bisa memperjualbelikan sahamnya selama suspensi berlangsung. Yang perlu dipantau berikutnya adalah kapan MENN dan SOUL akhirnya menyampaikan laporan keuangan interim per 30 Juni 2026 dan melunasi denda terkait, karena pencabutan suspensi baru bisa terjadi setelah dua syarat itu dipenuhi, dan bursa akan terus memperbarui status ini lewat pemantauan berkala.",
   "sentimen": "negatif"
  },
  {

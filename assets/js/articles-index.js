@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-dan-skk-migas-diganjar-penghargaan-atas-hilirisasi-dan-migas",
+  "category": "Energi",
+  "title": "ESDM dan SKK Migas Diganjar Penghargaan atas [Hilirisasi] dan Migas",
+  "deck": "Kementerian ESDM dan SKK Migas meraih CNN Indonesia Awards 2026 atas capaian hilirisasi senilai Rp180 triliun dan percepatan FEED proyek LNG Masela senilai US$22 miliar.",
+  "date": "7 November 2026",
+  "image": "assets/img/esdm-dan-skk-migas-diganjar-penghargaan-atas-hilirisasi-dan-migas.jpg",
+  "imageV": "mw62n0ap",
+  "tags": [
+   "Hilirisasi",
+   "SKK Migas",
+   "LNG Masela",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-dan-skk-migas-raih-cnn-indonesia-awards-2026",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "petrokimia-gresik-perkuat-koordinasi-dengan-bin-jatim",
+  "category": "BUMN",
+  "title": "Petrokimia Gresik Perkuat [Koordinasi] dengan BIN Jatim",
+  "deck": "Petrokimia Gresik menerima kunjungan Kabinda Jatim untuk memperkuat komunikasi antarlembaga demi menjaga kelangsungan industri pupuk nasional.",
+  "date": "7 November 2026",
+  "image": "assets/img/petrokimia-gresik-perkuat-koordinasi-dengan-bin-jatim.jpg",
+  "imageV": "mw62n0nz",
+  "tags": [
+   "pupuk",
+   "ketahanan pangan",
+   "Petrokimia Gresik",
+   "BIN Jatim"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477089-jaga-keberlanjutan-industri-pupuk-petrokimia-gresik-perkuat-koordinasi-dengan-bin-jatim"
+ },
+ {
   "slug": "aspr-jelaskan-kenaikan-liabilitas-21-jadi-rp182-miliar",
   "category": "Aksi Korporasi",
   "title": "ASPR Jelaskan [Kenaikan] Liabilitas 21% Jadi Rp182 Miliar",
@@ -6428,37 +6463,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/171596",
   "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "ekspor-naik-tapi-surplus-dagang-ri-makin-menyempit",
-  "category": "Makroekonomi",
-  "title": "Ekspor Naik, tapi Surplus Dagang RI Makin [Menyempit]",
-  "deck": "Ekspor September 2026 naik 11,87 persen jadi US$27,59 miliar, tapi impor tumbuh lebih cepat 18,41 persen sehingga surplus dagang kumulatif menyempit jadi US$10,61 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/bongkar-muat-truk.jpg",
-  "tags": [
-   "ekspor",
-   "impor",
-   "neraca dagang",
-   "BPS"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/171218",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "boss-baru-lapor-lk-semester-i-2024-defisit-modal-melebar",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Baru Lapor LK Semester I/2024, [Defisit] Modal Melebar",
-  "deck": "Laporan keuangan semester I 2024 yang baru disetor ke bursa dua tahun kemudian menunjukkan BOSS masih tanpa penjualan dan arus kas operasional makin boros.",
-  "date": "1 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "defisiensi modal",
-   "laporan keuangan interim",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261101232859-65658-0/FinancialStatement-2024-II-BOSS.pdf",
-  "sourceLabel": "IDX"
  }
 ];

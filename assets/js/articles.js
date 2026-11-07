@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-dan-skk-migas-diganjar-penghargaan-atas-hilirisasi-dan-migas",
+  "category": "Energi",
+  "title": "ESDM dan SKK Migas Diganjar Penghargaan atas [Hilirisasi] dan Migas",
+  "deck": "Kementerian ESDM dan SKK Migas meraih CNN Indonesia Awards 2026 atas capaian hilirisasi senilai Rp180 triliun dan percepatan FEED proyek LNG Masela senilai US$22 miliar.",
+  "image": "assets/img/esdm-dan-skk-migas-diganjar-penghargaan-atas-hilirisasi-dan-migas.jpg",
+  "date": "7 November 2026",
+  "isoDate": "2026-11-07T07:13:04.540Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-dan-skk-migas-raih-cnn-indonesia-awards-2026",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Hilirisasi",
+   "SKK Migas",
+   "LNG Masela",
+   "ESDM"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral (ESDM) serta SKK Migas menerima penghargaan dari CNN Indonesia Awards 2026 di Jakarta, Jumat (6/11). Bahlil Lahadalia, yang merangkap Menteri Koordinator Bidang Hilirisasi dan Transisi Energi sekaligus Menteri ESDM, mendapat kategori Strategic Leadership in High-Value Downstreaming & Energy Transition, sementara SKK Migas mendapat kategori Excellence in Upstream Oil and Gas Project Acceleration. Menurut Kementerian ESDM, penghargaan ini diberikan atas capaian hilirisasi dan percepatan proyek migas yang mereka jalankan sepanjang tahun ini.",
+   "Salah satu capaian yang disebut Kementerian ESDM adalah peluncuran 11 proyek hilirisasi senilai sekitar Rp180 triliun pada Oktober 2026. Proyek-proyek itu disebut sebagai bagian dari upaya mengarahkan hilirisasi agar tidak berhenti pada komoditas setengah jadi, melainkan berkembang menjadi industri bernilai tambah tinggi yang terhubung dengan agenda transisi energi.",
+   "Di sisi hulu migas, SKK Migas mengawal proyek LNG Abadi Masela yang nilainya sekitar US$22 miliar. Tahap desain awal atau FEED (Front End Engineering Design) proyek ini rampung pada Oktober 2026, sekitar tiga bulan lebih cepat dari target semula. SKK Migas juga mendukung pengembangan Lapangan Maha dan optimalisasi Sumur Jangkrik North-East-6 (JNE#6) di Kalimantan Timur, yang jika beroperasi penuh diproyeksikan menambah pasokan gas nasional hingga 290 juta kaki kubik per hari.",
+   "CNN Indonesia Awards merupakan penghargaan tahunan yang diberikan kepada kementerian, pemerintah daerah, BUMN, BUMD, perusahaan swasta, dan individu yang dinilai menjalankan program bermanfaat bagi masyarakat. Tahun ini merupakan penyelenggaraan ketiga sejak pertama kali digelar pada 2024."
+  ],
+  "fotoAdegan": "Steel pipelines and flare stacks at a coastal natural gas processing facility, technicians in hard hats inspecting valves under an overcast tropical sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-kementerian-esdm-dan-skk-migas-raih-cnn-indonesia-awards-2026-1psfv0h.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang konkret dari siaran ini bukan soal penghargaannya, melainkan dua kabar kemajuan proyek yang disebut sebagai dasar penghargaan itu: 11 proyek hilirisasi senilai sekitar Rp180 triliun sudah resmi berjalan sejak Oktober, dan desain awal proyek LNG Abadi Masela senilai US$22 miliar selesai tiga bulan lebih cepat dari rencana. Yang terdampak adalah pelaku industri hilirisasi mineral yang terlibat di proyek-proyek itu, serta pekerja dan operator di Blok Masela dan di Lapangan Maha serta Sumur JNE#6 di Kalimantan Timur, karena dua proyek di Kaltim itu dijanjikan menambah pasokan gas domestik hingga 290 juta kaki kubik per hari kalau sudah beroperasi penuh. Rampungnya desain awal Masela lebih cepat dari target menunjukkan proyek ini sedang bergerak ke tahap berikutnya, yaitu keputusan investasi final, tetapi siaran ini tidak menyebut kapan keputusan itu akan diambil. Yang perlu dipantau berikutnya adalah pengumuman tanggal keputusan investasi final Masela serta progres fisik Lapangan Maha dan JNE#6, karena baru di tahap itu klaim percepatan ini akan teruji benar-benar menambah pasokan gas, bukan sekadar target di atas kertas.",
+  "imageV": "mw62n0ap"
+ },
+ {
+  "slug": "petrokimia-gresik-perkuat-koordinasi-dengan-bin-jatim",
+  "category": "BUMN",
+  "title": "Petrokimia Gresik Perkuat [Koordinasi] dengan BIN Jatim",
+  "deck": "Petrokimia Gresik menerima kunjungan Kabinda Jatim untuk memperkuat komunikasi antarlembaga demi menjaga kelangsungan industri pupuk nasional.",
+  "image": "assets/img/petrokimia-gresik-perkuat-koordinasi-dengan-bin-jatim.jpg",
+  "date": "7 November 2026",
+  "isoDate": "2026-11-07T13:49:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477089-jaga-keberlanjutan-industri-pupuk-petrokimia-gresik-perkuat-koordinasi-dengan-bin-jatim",
+  "tags": [
+   "pupuk",
+   "ketahanan pangan",
+   "Petrokimia Gresik",
+   "BIN Jatim"
+  ],
+  "body": [
+   "PT Petrokimia Gresik menerima kunjungan Kepala Badan Intelijen Negara Daerah Jawa Timur, Brigjen TNI Murbianto Adhi Wibowo, di Gresik pada Senin, 2 November 2026. Pertemuan ini disebut sebagai bagian dari komunikasi antarlembaga untuk menjaga kelangsungan industri strategis nasional, termasuk sektor pupuk yang menjadi penopang ketahanan pangan dalam negeri.",
+   "Direktur Utama Petrokimia Gresik, Daconi Khotob, langsung menyambut kunjungan tersebut. Ia menyatakan bahwa keberlangsungan operasional perusahaan tidak hanya bergantung pada kesiapan fasilitas produksi, tetapi juga pada hubungan kelembagaan yang baik dengan berbagai pihak, termasuk aparat keamanan negara di tingkat daerah.",
+   "Daconi menegaskan bahwa Petrokimia Gresik memikul tanggung jawab menjaga ketersediaan pupuk bagi sektor pertanian. Karena itu, perusahaan terus berupaya menjaga keandalan operasional sembari memperluas komunikasi dengan berbagai pemangku kepentingan agar manfaatnya bisa dirasakan petani, masyarakat, dan negara.",
+   "Melalui pertemuan ini, Petrokimia Gresik berharap komunikasi dengan BIN Daerah Jawa Timur dapat terus berlanjut sebagai bagian dari upaya menjaga kelancaran industri pupuk nasional."
+  ],
+  "fotoAdegan": "Fertilizer plant storage silos and loading docks in an industrial complex, trucks waiting nearby, overcast morning light in Gresik.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/07/6aeec868e36b9-pt-petrokimia-gresik-menerima-kunjungan-kepala-badan-intelijen-negara-daerah-kabinda-jawa-timur-brigjen-tni-murbianto-adhi-wibowo_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Berita ini belum memuat perubahan kebijakan atau angka konkret, isinya sebatas pertemuan koordinasi antara manajemen Petrokimia Gresik dan kepala BIN Daerah Jawa Timur. Pihak yang relevan di sini adalah rantai pasok pupuk nasional, termasuk petani yang bergantung pada kelancaran produksi dan distribusi pupuk bersubsidi maupun nonsubsidi dari Gresik. Yang belum terjawab dari rilis ini adalah isu spesifik apa, jika ada, yang mendorong pertemuan tersebut terjadi sekarang, apakah ini agenda rutin BIN Daerah ke objek vital nasional atau respons atas kondisi tertentu seperti gangguan pasokan gas industri atau pengamanan jalur distribusi pupuk. Untuk membaca apakah pertemuan ini punya arti lebih dari seremoni kelembagaan, perlu ditunggu apakah ada tindak lanjut konkret yang diumumkan, misalnya nota kesepahaman atau langkah pengamanan operasional yang dikaitkan dengan pertemuan ini.",
+  "imageV": "mw62n0nz"
+ },
+ {
   "slug": "aspr-jelaskan-kenaikan-liabilitas-21-jadi-rp182-miliar",
   "category": "Aksi Korporasi",
   "title": "ASPR Jelaskan [Kenaikan] Liabilitas 21% Jadi Rp182 Miliar",

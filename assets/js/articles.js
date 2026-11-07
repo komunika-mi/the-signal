@@ -3,6 +3,31 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "aspr-jelaskan-kenaikan-liabilitas-21-jadi-rp182-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ASPR Jelaskan [Kenaikan] Liabilitas 21% Jadi Rp182 Miliar",
+  "deck": "PT Asia Pramulia Tbk melaporkan total liabilitas naik 21,02 persen menjadi Rp182,17 miliar per September 2026, didorong tambahan utang bank dan utang usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 November 2026",
+  "isoDate": "2026-11-07T11:54:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/925c6f91a0_9c00908818.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASPR",
+  "tags": [
+   "ASPR",
+   "liabilitas",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Asia Pramulia Tbk (ASPR), emiten produsen kemasan plastik, menyampaikan penjelasan resmi ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia terkait kenaikan total liabilitas lebih dari 20 persen pada laporan keuangan konsolidasi per 30 September 2026. Berdasarkan dokumen yang ditandatangani Direktur Arif dan disampaikan 7 November 2026, total liabilitas perseroan dan entitas anak tercatat Rp182.167.392.315 per akhir September 2026, naik dari Rp150.522.192.004 per 31 Desember 2025. Selisihnya mencapai Rp31.645.200.311 atau setara kenaikan 21,02 persen, melewati ambang batas 20 persen yang mewajibkan perusahaan tercatat memberi penjelasan sesuai Peraturan BEI Nomor I-E butir 11.1.1.4.",
+   "Perseroan merinci dua penyebab kenaikan tersebut. Pertama, penambahan pada pos utang bank, yang menurut penjelasan perusahaan terjadi karena pemanfaatan fasilitas kredit untuk mendukung kegiatan operasional. Kedua, penambahan pada pos utang usaha, yaitu kewajiban kepada pemasok yang naik seiring peningkatan pembelian sepanjang tahun berjalan. Laporan ini tidak menyertakan angka pembanding untuk pos aset atau ekuitas, sehingga belum terlihat apakah kenaikan liabilitas tersebut diimbangi oleh pertumbuhan di sisi lain neraca perusahaan."
+  ],
+  "fotoAdegan": "Workers monitoring a plastic packaging production line inside a manufacturing plant, machinery and conveyor belts, industrial lighting",
+  "takeaway": "Laporan ini netral bagi fundamental ASPR: kenaikan utang menambah beban bunga ke depan, tapi penyebabnya, pembiayaan operasional lewat fasilitas kredit dan peningkatan pembelian dari pemasok, bisa juga mencerminkan aktivitas bisnis yang sedang tumbuh, sehingga belum bisa dibaca sebagai sinyal searah tanpa melihat laba dan modal sendiri perusahaan secara utuh. Pos yang tersentuh di sini adalah total liabilitas dan utang bank, dua angka yang biasa dipantau pelaku pasar karena semakin besar utang dibanding modal sendiri perusahaan, semakin besar pula beban bunga yang harus dibayar setiap periode, dan itu bisa menggerus laba bersih kalau tidak diimbangi kenaikan pendapatan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang, untuk melihat apakah kenaikan utang bank dan utang usaha ini akhirnya diikuti kenaikan penjualan dan laba, sebab dokumen keterbukaan ini sendiri tidak menyertakan data tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "harga-emas-antam-turun-jadi-rp2-545-000-per-gram",
   "category": "Bisnis",
   "title": "Harga Emas Antam [Turun] Jadi Rp2.545.000 per Gram",

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "aspr-jelaskan-kenaikan-liabilitas-21-jadi-rp182-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ASPR Jelaskan [Kenaikan] Liabilitas 21% Jadi Rp182 Miliar",
+  "deck": "PT Asia Pramulia Tbk melaporkan total liabilitas naik 21,02 persen menjadi Rp182,17 miliar per September 2026, didorong tambahan utang bank dan utang usaha.",
+  "date": "7 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASPR",
+   "liabilitas",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/925c6f91a0_9c00908818.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-turun-jadi-rp2-545-000-per-gram",
   "category": "Bisnis",
   "title": "Harga Emas Antam [Turun] Jadi Rp2.545.000 per Gram",
@@ -6443,22 +6459,6 @@ var ARTICLES = [
    "arus kas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261101232859-65658-0/FinancialStatement-2024-II-BOSS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asha-cetak-rugi-rp10-4-miliar-di-kuartal-iii-2026-ekuitas-susut",
-  "category": "Aksi Korporasi",
-  "title": "ASHA Cetak [Rugi] Rp10,4 Miliar di Kuartal III 2026, Ekuitas Susut",
-  "deck": "Rugi bersih ASHA melebar jadi Rp10,39 miliar pada sembilan bulan 2026 meski penjualan naik 69 persen, sementara ekuitas turun dan kas operasi masih minus.",
-  "date": "1 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASHA",
-   "laporan keuangan",
-   "industri perikanan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101215039-65652-0/FinancialStatement-2026-III-ASHA.pdf",
   "sourceLabel": "IDX"
  }
 ];

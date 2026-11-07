@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026",
+  "category": "UMKM",
+  "title": "857 UMK Binaan Pertamina [Lolos] ke Tahap Nasional 2026",
+  "deck": "Dari lebih 1.500 pendaftar, 857 UMK binaan Pertamina lolos ke tahap nasional UMK Academy 2026 untuk dibina lebih lanjut hingga Desember.",
+  "image": "assets/img/857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026.jpg",
+  "date": "7 November 2026",
+  "isoDate": "2026-11-07T23:25:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477177-mendorong-umk-naik-kelas-fokus-pertamina-perkuat-manajemen-usaha-lokal",
+  "tags": [
+   "UMKM",
+   "Pertamina",
+   "CSR",
+   "UMK Academy"
+  ],
+  "body": [
+   "Pertamina mengumumkan 857 usaha mikro dan kecil binaan perusahaan lolos ke tahap nasional program Pertamina UMK Academy 2026. Jumlah ini disaring dari lebih 1.500 UMK yang mendaftar dan mengikuti rangkaian pembinaan regional sejak September lalu. Program ini menyasar bukan hanya kualitas produk, tetapi juga kemampuan mengelola usaha secara lebih profesional agar UMK makin siap bersaing.",
+   "Selama tahap regional, Pertamina menggelar 43 sesi pelatihan dan lebih dari 600 kali pendampingan langsung ke pelaku usaha di berbagai daerah, melampaui target yang ditetapkan sebelumnya. Rangkaian pembinaan itu mencakup pelatihan, pendampingan rutin, hingga pameran produk sebagai uji coba pasar.",
+   "Dari 857 UMK yang lolos ke tahap nasional, sektor makanan dan minuman paling banyak, mencapai 56,4 persen dari total peserta. Sisanya tersebar di sektor fesyen, kerajinan, agribisnis, dan jasa.",
+   "Tahap nasional berlangsung hingga Desember 2026, dengan penilaian pada enam aspek, yaitu pemasaran, keuangan, operasional, legalitas, digitalisasi, dan uji pasar langsung ke konsumen. Hasil penilaian itu nantinya mengelompokkan peserta ke dalam empat kelas pembinaan lanjutan, yaitu Go Modern, Go Digital, Go Online, dan Go Global, sesuai tingkat kesiapan usaha masing-masing. Vice President CSR & SMEPP Management Pertamina Rudi Ariffianto menyebut program ini dirancang agar UMK binaan memiliki manajemen bisnis yang lebih baik, tidak hanya dari sisi produk. VP Corporate Communication Pertamina Muhammad Baron menambahkan bahwa penguatan UMK ini diharapkan membuat mitra Pertamina juga menjadi penggerak ekonomi di daerah masing-masing."
+  ],
+  "fotoAdegan": "A street food vendor arranging fresh ingredients at a small stall in a bustling Indonesian market, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/07/6aef505f317a3-mendorong-umk-naik-kelas-fokus-pertamina-perkuat-manajemen-usaha-lokal_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: dari lebih 1.500 UMK binaan Pertamina yang ikut pembinaan sejak September, hanya 857 yang lolos saringan ke tahap nasional, sekitar 57 persen. Yang terdampak adalah UMK mitra Pertamina sendiri, terutama usaha makanan dan minuman karena sektor itu mendominasi lebih dari separuh peserta yang lolos. Pembinaannya bukan cuma soal produk, tapi juga cara mengatur usaha secara lebih rapi, mulai dari pemasaran sampai legalitas dan jualan daring, dan hasil penilaiannya menentukan UMK itu masuk kelompok mana, dari yang baru dibenahi manajemennya sampai yang dianggap siap menembus pasar luar negeri. Arah programnya terlihat dari skala pembinaan yang diperbesar, jumlah sesi pelatihan dan pendampingan sampai melampaui target awal, dan kepastian soal seberapa jauh UMK ini benar-benar naik kelas baru akan terlihat Desember 2026 saat hasil evaluasi dan pembagian kelas diumumkan.",
+  "imageV": "mw6mt2jg"
+ },
+ {
+  "slug": "summarecon-gelar-pameran-properti-dan-hiburan-di-bekasi",
+  "category": "Bisnis",
+  "title": "Summarecon Gelar Pameran [Properti] dan Hiburan di Bekasi",
+  "deck": "Summarecon Expo 2026 digelar di Summarecon Mall Bekasi pada 6-15 November, memadukan pameran properti dari sembilan kawasan pengembangan dengan pertunjukan akrobat internasional dan aktivitas keluarga.",
+  "image": "assets/img/summarecon-gelar-pameran-properti-dan-hiburan-di-bekasi.jpg",
+  "date": "7 November 2026",
+  "isoDate": "2026-11-07T22:37:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477164-seni-pertunjukan-dan-edukasi-keluarga-jadi-magnet-pameran-di-bekasi",
+  "tags": [
+   "properti",
+   "bekasi",
+   "summarecon",
+   "pameran"
+  ],
+  "body": [
+   "Summarecon Mall Bekasi menjadi lokasi terbaru gelaran Summarecon Expo 2026, yang berlangsung pada 6 hingga 15 November 2026. Berbeda dari pameran properti biasa, acara ini menggabungkan pameran hunian dari sembilan kawasan pengembangan Summarecon dengan rangkaian hiburan dan edukasi untuk keluarga, sehingga pengunjung tidak hanya datang untuk melihat rumah contoh.",
+   "Daya tarik utamanya adalah International Show Spectacular, pertunjukan akrobat dari penampil asal China, Amerika Serikat, dan Chili yang membawakan atraksi keseimbangan fisik seperti Clown High Chair dan Persch Pole. Anngela Burt, salah satu akrobator asal Amerika Serikat, mengatakan tampil di tengah pengunjung yang bisa menonton dari berbagai sudut memberi pengalaman berbeda dibanding tampil di teater atau arena besar seperti biasanya.",
+   "Selain pertunjukan akrobatik, anak-anak dan generasi muda mendapat ruang tampil lewat pertunjukan musik dan seni dari berbagai sekolah dan lembaga pendidikan. Pengunjung juga bisa mengikuti kegiatan edukatif lain, dari pengenalan satwa di Animal Corner, kelas kecantikan, hingga pemeriksaan kesehatan gratis dari fasilitas kesehatan setempat. Di sisi properti, pengunjung diberi akses informasi mengenai pilihan rumah dan properti komersial di sembilan kawasan pengembangan Summarecon, lengkap dengan penawaran khusus dan program hadiah selama acara berlangsung.",
+   "Rangkaian pameran ini akan berpindah ke Summarecon Mall Serpong pada 27 November hingga 6 Desember 2026, melanjutkan format serupa yang memadukan pameran properti dengan hiburan keluarga."
+  ],
+  "fotoAdegan": "Wide mall atrium set up for an exhibition, miniature house models on display tables, families strolling past booths under bright lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/07/6aef4514df87a-summarecon-expo-2026-kembali-digelar-kali-ini-berlokasi-di-summarecon-mall-bekasi-pada-615-november-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini sebenarnya cuma lokasi dan kemasan acara, bukan kebijakan baru: Summarecon memindahkan pameran serupa dari mal ke mal, setelah Bekasi pada 6-15 November, giliran berikutnya di Serpong akhir November sampai awal Desember. Yang kena dampak langsung adalah calon pembeli rumah dan properti komersial di sembilan kawasan pengembangan Summarecon, juga pengunjung mal yang disasar lewat hiburan keluarga sebagai pemancing kunjungan. Pola pindah-mal ini menunjukkan pengembang mengandalkan acara hiburan untuk menarik orang datang lebih dulu, baru ditawari properti sambil jalan, tapi berita ini tidak menyebut berapa unit atau berapa nilai transaksi yang biasanya terjual dari rangkaian pameran semacam ini. Tanpa angka hasil penjualan dari edisi-edisi sebelumnya atau target yang dipasang Summarecon untuk seri Bekasi-Serpong kali ini, belum bisa dibaca apakah strategi pameran berpindah ini benar mendongkrak penjualan properti atau sekadar menjaga kunjungan mal tetap ramai.",
+  "imageV": "mw6mt2zf"
+ },
+ {
+  "slug": "pertamina-gelar-smexpo-cilacap-libatkan-50-umkm",
+  "category": "UMKM",
+  "title": "Pertamina Gelar SMEXPO Cilacap, Libatkan 50 [UMKM]",
+  "deck": "Pertamina Patra Niaga menggelar pameran UMKM selama tiga hari di Cilacap, melibatkan lebih dari 50 pelaku usaha lokal untuk promosi produk dan temu bisnis.",
+  "image": "assets/img/pertamina-gelar-smexpo-cilacap-libatkan-50-umkm.jpg",
+  "date": "7 November 2026",
+  "isoDate": "2026-11-07T21:57:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477155-strategi-pertamina-dorong-umkm-jadi-penggerak-ekonomi-daerah-gelar-pertamina-smexpo-cilacap-2026",
+  "tags": [
+   "pertamina",
+   "umkm",
+   "cilacap",
+   "smexpo"
+  ],
+  "body": [
+   "Pertamina Patra Niaga, anak usaha PT Pertamina, menggelar pameran usaha kecil bertajuk SMEXPO Cilacap 2026 di Alun-Alun Kabupaten Cilacap selama tiga hari, mulai 6 hingga 8 November 2026. Ini penyelenggaraan pertama acara tersebut di Cilacap, dengan lebih dari 50 pelaku usaha mikro, kecil, dan menengah ikut memamerkan produk sekaligus mencari pembeli atau mitra baru. Acara seperti ini relevan bagi pembaca karena menyasar langsung pelaku usaha kecil di daerah, kelompok yang kerap kesulitan menembus pasar yang lebih luas.",
+   "Mengangkat tema Lokal Menjadi Vokal, rangkaian acara mencakup sesi business matching, yakni pertemuan antara pelaku UMKM dengan calon pembeli atau distributor, diskusi seputar UMKM, serta sesi berbagi wawasan untuk anak muda. VP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, menyebut UMKM sebagai penggerak ekonomi nasional yang butuh dukungan bukan hanya lewat pembinaan, tapi juga jalan masuk ke pasar. Corporate Secretary Pertamina Patra Niaga, Roberth MV Dumatubun, menambahkan bahwa kerja sama antara perusahaan dan pemerintah daerah menjadi kunci memperkuat ekosistem usaha kecil tersebut.",
+   "Pemerintah Kabupaten Cilacap menyambut penyelenggaraan perdana ini sebagai langkah memperkenalkan potensi ekonomi lokal ke pasar yang lebih luas. Pertamina memposisikan SMEXPO sejalan dengan agenda pembangunan nasional, yaitu membuka lapangan kerja dan meratakan pertumbuhan ekonomi hingga ke tingkat daerah, bukan hanya terpusat di kota besar."
+  ],
+  "fotoAdegan": "Vendors arranging handmade crafts and local snacks on wooden stalls at an outdoor town square market, visitors browsing in morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/07/6aef3bb3bfaa7-pt-pertamina-patra-niaga-resmi-menyelenggarakan-pertamina-smexpo-cilacap-2026-di-alun-alun-kabupaten-cilacap-pada-68-november-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini sebenarnya kecil: Pertamina Patra Niaga untuk pertama kali membawa SMEXPO ke Cilacap, mengumpulkan lebih dari 50 UMKM selama tiga hari dengan agenda business matching dan talkshow. Yang terdampak jelas pelaku usaha kecil Cilacap dan pemerintah daerah yang berharap acara ini mendongkrak ekonomi lokal. Beritanya belum menyebut target konkret, misalnya nilai transaksi yang diharapkan dari business matching atau berapa UMKM yang sebelumnya ikut SMEXPO di kota lain dan berhasil naik kelas, jadi belum bisa disimpulkan apakah acara ini benar menambah omzet pelaku usaha secara berkelanjutan atau sekadar kegiatan promosi tahunan. Yang perlu dipantau adalah laporan hasil business matching atau data penjualan peserta setelah acara ini selesai pada 8 November, karena itu baru akan menunjukkan dampak nyatanya.",
+  "imageV": "mw6mt3or"
+ },
+ {
   "slug": "esdm-dan-skk-migas-diganjar-penghargaan-atas-hilirisasi-dan-migas",
   "category": "Energi",
   "title": "ESDM dan SKK Migas Diganjar Penghargaan atas [Hilirisasi] dan Migas",

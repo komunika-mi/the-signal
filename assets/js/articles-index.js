@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026",
+  "category": "UMKM",
+  "title": "857 UMK Binaan Pertamina [Lolos] ke Tahap Nasional 2026",
+  "deck": "Dari lebih 1.500 pendaftar, 857 UMK binaan Pertamina lolos ke tahap nasional UMK Academy 2026 untuk dibina lebih lanjut hingga Desember.",
+  "date": "7 November 2026",
+  "image": "assets/img/857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026.jpg",
+  "imageV": "mw6mt2jg",
+  "tags": [
+   "UMKM",
+   "Pertamina",
+   "CSR",
+   "UMK Academy"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477177-mendorong-umk-naik-kelas-fokus-pertamina-perkuat-manajemen-usaha-lokal"
+ },
+ {
+  "slug": "summarecon-gelar-pameran-properti-dan-hiburan-di-bekasi",
+  "category": "Bisnis",
+  "title": "Summarecon Gelar Pameran [Properti] dan Hiburan di Bekasi",
+  "deck": "Summarecon Expo 2026 digelar di Summarecon Mall Bekasi pada 6-15 November, memadukan pameran properti dari sembilan kawasan pengembangan dengan pertunjukan akrobat internasional dan aktivitas keluarga.",
+  "date": "7 November 2026",
+  "image": "assets/img/summarecon-gelar-pameran-properti-dan-hiburan-di-bekasi.jpg",
+  "imageV": "mw6mt2zf",
+  "tags": [
+   "properti",
+   "bekasi",
+   "summarecon",
+   "pameran"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477164-seni-pertunjukan-dan-edukasi-keluarga-jadi-magnet-pameran-di-bekasi"
+ },
+ {
+  "slug": "pertamina-gelar-smexpo-cilacap-libatkan-50-umkm",
+  "category": "UMKM",
+  "title": "Pertamina Gelar SMEXPO Cilacap, Libatkan 50 [UMKM]",
+  "deck": "Pertamina Patra Niaga menggelar pameran UMKM selama tiga hari di Cilacap, melibatkan lebih dari 50 pelaku usaha lokal untuk promosi produk dan temu bisnis.",
+  "date": "7 November 2026",
+  "image": "assets/img/pertamina-gelar-smexpo-cilacap-libatkan-50-umkm.jpg",
+  "imageV": "mw6mt3or",
+  "tags": [
+   "pertamina",
+   "umkm",
+   "cilacap",
+   "smexpo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477155-strategi-pertamina-dorong-umkm-jadi-penggerak-ekonomi-daerah-gelar-pertamina-smexpo-cilacap-2026"
+ },
+ {
   "slug": "esdm-dan-skk-migas-diganjar-penghargaan-atas-hilirisasi-dan-migas",
   "category": "Energi",
   "title": "ESDM dan SKK Migas Diganjar Penghargaan atas [Hilirisasi] dan Migas",
@@ -6415,53 +6466,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102065554-65657-0/FinancialStatement-2026-III-PWON.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pege-optimus-vision-tambah-kepemilikan-saham-ke-6-39",
-  "category": "Aksi Korporasi",
-  "title": "PEGE: Optimus Vision Tambah [Kepemilikan] Saham ke 6,39%",
-  "deck": "Optimus Vision Global Pte Ltd membeli 15 juta lembar saham PEGE secara tidak langsung pada 30 Oktober 2026, menaikkan kepemilikannya dari 6,00% menjadi 6,39%.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PEGE",
-   "kepemilikan saham",
-   "Optimus Vision Global",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02112026-1984-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pege-optimus-vision-tambah-saham-ke-6-00-hak-suara",
-  "category": "Aksi Korporasi",
-  "title": "PEGE: Optimus Vision [Tambah] Saham ke 6,00% Hak Suara",
-  "deck": "Optimus Vision Global menambah 4,87 juta saham PEGE lewat delapan transaksi akhir Oktober, mengangkat hak suaranya dari 5,87 persen jadi 6,00 persen.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PEGE",
-   "kepemilikan saham",
-   "Optimus Vision",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-02112026-0088-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penumpang-pesawat-turun-barang-kapal-laut-makin-padat",
-  "category": "Makroekonomi",
-  "title": "Penumpang Pesawat [Turun], Barang Kapal Laut Makin Padat",
-  "deck": "BPS mencatat penumpang pesawat domestik turun 12,8 persen pada September 2026, sementara volume barang yang diangkut kapal laut naik 1,1 persen di bulan yang sama.",
-  "date": "2 November 2026",
-  "image": "assets/img/jalan-raya-padat.jpg",
-  "tags": [
-   "BPS",
-   "Angkutan Udara",
-   "Angkutan Laut",
-   "Statistik Transportasi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/171596",
-  "sourceLabel": "Badan Pusat Statistik"
  }
 ];

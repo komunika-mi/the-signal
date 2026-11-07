@@ -434,6 +434,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "mine-rombak-direksi-jaminkan-aset-untuk-pinjaman-sindikasi",
+  "category": "Aksi Korporasi",
+  "title": "MINE Rombak Direksi, Jaminkan [Aset] untuk Pinjaman Sindikasi",
+  "deck": "RUPSLB MINE menyetujui direktur baru, perubahan kode usaha KBLI, dan penjaminan aset di atas 50% kekayaan bersih untuk pinjaman sindikasi dari dua bank.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MINE",
+   "RUPSLB",
+   "Pinjaman Sindikasi",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d119d29c30_95bd4ef529.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "vtny-akui-transaksi-cessie-rp147-miliar-belum-diungkap",
   "category": "Aksi Korporasi",
   "title": "VTNY Akui Transaksi [Cessie] Rp147 Miliar Belum Diungkap",
@@ -450,6 +466,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rans-bantah-putus-kerja-sama-dengan-d-masiv-untuk-tur-asia",
+  "category": "Aksi Korporasi",
+  "title": "RANS Bantah Putus Kerja Sama dengan [D'MASIV] untuk Tur Asia",
+  "deck": "RANS menjawab permintaan penjelasan BEI soal kabar putusnya kerja sama dengan D'MASIV di tur konser Asia yang sebagian didanai dana hasil IPO.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RANS",
+   "D'MASIV",
+   "IPO",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ab1d566f9a_8e81f08b1c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bmas-revisi-transaksi-afiliasi-pinjaman-kbank-capai-us-240-juta",
   "category": "Aksi Korporasi",
   "title": "BMAS Revisi Transaksi [Afiliasi]: Pinjaman KBank Capai US$240 Juta",
@@ -463,6 +495,22 @@ var ARTICLES = [
    "Pinjaman Bilateral"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3c52f7619_979a3397ce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cmnt-ganti-direksi-pt-karsa-primapermata-nusa",
+  "category": "Aksi Korporasi",
+  "title": "CMNT Ganti [Direksi] PT Karsa Primapermata Nusa",
+  "deck": "Cemindo Gemilang mengumumkan susunan baru direksi dan komisaris anak usahanya, PT Karsa Primapermata Nusa, lewat akta notaris 6 November 2026.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMNT",
+   "Cemindo Gemilang",
+   "Karsa Primapermata Nusa",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/37c99d47d8_708956acab.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -674,6 +722,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bipp-akui-mengendalikan-mgna-dalam-satu-grup-usaha",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Akui [Mengendalikan] MGNA dalam Satu Grup Usaha",
+  "deck": "BIPP melaporkan ke Bursa Efek Indonesia bahwa perusahaannya satu grup dengan Magna Investama Mandiri (MGNA), karena BIPP pengendali MGNA dan direksinya rangkap jabatan di dua emiten itu.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "MGNA",
+   "grup perusahaan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b7bacc4757_9aa99193f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "prda-sisa-dana-buyback-saham-tinggal-rp46-miliar",
   "category": "Aksi Korporasi",
   "title": "PRDA Sisa Dana [Buyback] Saham Tinggal Rp46 Miliar",
@@ -853,6 +917,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "roti-tarik-514-juta-saham-treasuri-via-pengurangan-modal",
+  "category": "Aksi Korporasi",
+  "title": "ROTI Tarik 514 Juta Saham Treasuri via [Pengurangan Modal]",
+  "deck": "ROTI berencana menarik 514.213.400 saham treasuri (8,31% dari modal) lewat pengurangan modal, keputusan dimintakan di RUPSLB 15 Desember 2026.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ROTI",
+   "pengurangan modal",
+   "saham treasuri",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8c93c47851_6c49693924.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "amor-bagikan-dividen-tunai-rp23-saham-total-rp50-46-miliar",
   "category": "Aksi Korporasi",
   "title": "AMOR Bagikan [Dividen] Tunai Rp23/Saham, Total Rp50,46 Miliar",
@@ -866,6 +946,22 @@ var ARTICLES = [
    "RUPST"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2964fb570a_1b8636a313.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mgna-satu-grup-dengan-bhuwanatala-indah-permai-rangkap-jabatan",
+  "category": "Aksi Korporasi",
+  "title": "MGNA Satu Grup dengan Bhuwanatala Indah Permai [Rangkap Jabatan]",
+  "deck": "MGNA menyatakan masuk kriteria satu grup perusahaan dengan PT Bhuwanatala Indah Permai Tbk karena ada direksi, komisaris, atau pejabat eksekutif yang merangkap jabatan di kedua emiten.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGNA",
+   "Bhuwanatala Indah Permai",
+   "keterbukaan informasi",
+   "rangkap jabatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fdad6923dd_1aaea41195.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -981,6 +1077,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bris-terbitkan-sukuk-mudharabah-rp2-triliun-tahap-iii",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Terbitkan [Sukuk] Mudharabah Rp2 Triliun Tahap III",
+  "deck": "BSI menerbitkan sukuk mudharabah senilai Rp2 triliun dalam tiga seri dengan bagi hasil setara 7,00 sampai 7,20 persen per tahun, bagian dari program berkelanjutan senilai Rp10 triliun.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIS",
+   "sukuk",
+   "obligasi syariah",
+   "pendanaan bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/36b03ef8e4_e250761669.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "live-jawab-permintaan-bei-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "LIVE Jawab Permintaan BEI soal [Volatilitas] Saham",
@@ -1026,6 +1138,22 @@ var ARTICLES = [
    "Anggaran Dasar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c6162af180_e8bfb2ed01.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-kepemilikan-cgs-international-susut-lewat-reverse-repo",
+  "category": "Aksi Korporasi",
+  "title": "ENRG: Kepemilikan CGS International Susut Lewat [Reverse REPO]",
+  "deck": "CGS International Sekuritas Indonesia melaporkan kepemilikan sahamnya di ENRG turun dari 7,78% menjadi 6,89% melalui transaksi reverse repo pada 3 November 2026.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "kepemilikan saham",
+   "CGS International",
+   "reverse repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-5111-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1109,6 +1237,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "avia-direksi-beli-10-juta-saham-rp2-93-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AVIA: Direksi [Beli] 10 Juta Saham Rp2,93 Miliar",
+  "deck": "Robert Christian Tanoko, direksi Avia Avian, menambah 10 juta saham lewat dua transaksi pada 4 November 2026 senilai total Rp2,93 miliar.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "kepemilikan saham",
+   "direksi",
+   "insider trading"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-2087-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tpt-agustus-2026-4-75-naik-dari-februari",
   "category": "Makroekonomi",
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
@@ -1150,6 +1294,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824426.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "bipp-direksi-safire-tambah-8-4-juta-saham-hak-suara-turun",
+  "category": "Aksi Korporasi",
+  "title": "BIPP: Direksi Safire Tambah [8,4 Juta] Saham, Hak Suara Turun",
+  "deck": "Safire Capital, direksi asing BIPP, membeli tambahan 8,4 juta saham lewat repurchase agreement, tapi hak suaranya turun ke 56,17% karena basis saham perusahaan membesar.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "kepemilikan saham",
+   "Safire Capital",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-1429-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-pemegang-saham-lepas-6-7-juta-saham-hak-suara-ke-7-7",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Pemegang saham [lepas] 6,7 juta saham, hak suara ke 7,7%",
+  "deck": "Sujito Ngatiman menjual 6,7 juta saham DEWI senilai sekitar Rp1,55 miliar, sehingga hak suaranya turun dari 8,00% menjadi 7,70%.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "pemegang saham",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-6545-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "totl-bagikan-dividen-interim-rp136-4-miliar-rp40-per-saham",
@@ -1245,6 +1421,22 @@ var ARTICLES = [
    "Headwell Bintang Energi Hijau"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f95f1659e_5db40b0f2c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-350-000-lembar-saham",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 350.000 Lembar Saham",
+  "deck": "Komisaris AKPI Henry Liem melepas 350.000 saham pada 5 November 2026, mengurangi kepemilikannya dari 3,22 juta menjadi 2,87 juta lembar dan hak suara dari 0,526% menjadi 0,469%.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-3961-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6269,199 +6461,6 @@ var ARTICLES = [
    "fasilitas kredit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/efa72323dc_4b65cfabb4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unsp-catat-penjualan-rp2-2-triliun-ekuitas-positif-lagi",
-  "category": "Pasar Modal",
-  "title": "UNSP Catat Penjualan Rp2,2 Triliun, Ekuitas [Positif] Lagi",
-  "deck": "Bakrie Sumatera Plantations (UNSP) membukukan ekuitas positif Rp2,77 triliun pada kuartal III 2026, berbalik dari negatif, lewat konversi utang jadi saham dan revaluasi aset, meski masih rugi.",
-  "date": "2 November 2026",
-  "image": "assets/img/unsp-catat-penjualan-rp2-2-triliun-ekuitas-positif-lagi.jpg",
-  "imageV": "mvz459m7",
-  "tags": [
-   "UNSP",
-   "Bakrie Sumatera Plantations",
-   "ekuitas",
-   "sawit"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476205-unsp-bukukan-penjualan-rp-22-triliun-lonjakan-ekuitas-rp-8-triliun-dan-targetkan-rp-3-triliun-pada-2026"
- },
- {
-  "slug": "tfco-gelar-public-expose-usai-saham-sentuh-ara-3-hari",
-  "category": "Aksi Korporasi",
-  "title": "TFCO Gelar Public Expose Usai Saham Sentuh [ARA] 3 Hari",
-  "deck": "TFCO menggelar public expose insidentil Selasa, 3 November 2026, usai saham disuspensi BEI dan melonjak 94,55 persen dalam tiga hari.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TFCO",
-   "Tifico Fiber Indonesia",
-   "Suspensi BEI",
-   "Public Expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/441891e2cf_e7fc9d6b71.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mlpt-jawab-permintaan-bei-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "MLPT Jawab Permintaan BEI soal [Volatilitas] Saham",
-  "deck": "Multipolar Technology menegaskan tidak ada informasi material atau rencana aksi korporasi di balik pergerakan harga sahamnya, menanggapi permintaan penjelasan dari BEI.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MLPT",
-   "Multipolar Technology",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0e4e6d4503_cf1ab1c9d3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-catat-ekuitas-negatif-rp4-64-m-penjualan-ambruk-99",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Catat [Ekuitas] Negatif Rp4,64 M, Penjualan Ambruk 99%",
-  "deck": "Leyand International (LAPD) mencatat ekuitas negatif Rp4,64 miliar per akhir September 2026, setelah penjualan sembilan bulan ambruk ke Rp2,04 miliar dari Rp211,39 miliar tahun sebelumnya.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "Leyand International",
-   "ekuitas negatif",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102145915-65634-0/FinancialStatement-2026-III-LAPD.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zata-bukukan-rugi-rp77-8-miliar-usai-jual-aset-gedung",
-  "category": "Aksi Korporasi",
-  "title": "ZATA Bukukan [Rugi] Rp77,8 Miliar Usai Jual Aset Gedung",
-  "deck": "ZATA merugi Rp77,8 miliar pada kuartal III 2026, berbalik dari laba tahun sebelumnya, setelah membebankan Rp78,1 miliar biaya lain-lain terkait pelepasan aset gedung senilai Rp75 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZATA",
-   "laporan keuangan",
-   "rugi bersih",
-   "ekuitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102145005-65049-0/FinancialStatement-2026-III-ZATA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gmfi-pendapatan-naik-34-6-laba-bersih-stagnan",
-  "category": "Aksi Korporasi",
-  "title": "GMFI: Pendapatan Naik 34,6%, Laba Bersih [Stagnan]",
-  "deck": "Pendapatan GMF naik 34,6 persen jadi US$413,4 juta pada kuartal III 2026, tapi laba bersih nyaris stagnan akibat beban material yang melonjak hampir dua kali lipat.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GMFI",
-   "laporan keuangan interim",
-   "kuasi reorganisasi",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102143415-64503-0/FinancialStatement-2026-III-GMFI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "okupansi-hotel-bintang-turun-jadi-51-75-di-september",
-  "category": "Bisnis",
-  "title": "Okupansi Hotel Bintang [Turun] Jadi 51,75% di September",
-  "deck": "Setelah naik tiga bulan beruntun sejak April, tingkat keterisian kamar hotel bintang nasional melambat pada September 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/warung-makan.jpg",
-  "tags": [
-   "bps",
-   "hotel",
-   "pariwisata",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "wisatawan-asing-september-turun-ke-1-43-juta",
-  "category": "Bisnis",
-  "title": "Wisatawan Asing September [Turun ke 1,43 Juta]",
-  "deck": "Setelah naik empat bulan beruntun, kunjungan turis asing ke Indonesia turun 10,79% dari Agustus ke September 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
-  "tags": [
-   "bps",
-   "wisatawan asing",
-   "pariwisata",
-   "statistik"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "fitt-rombak-bisnis-jadi-tambang-laba-9-bulan-berbalik-untung",
-  "category": "Aksi Korporasi",
-  "title": "FITT rombak bisnis jadi tambang, laba 9 bulan [berbalik] untung",
-  "deck": "FITT, bekas PT Hotel Fitra International, melepas anak usaha hotel dan mengambil 50% anak usaha tambang baru. Aset naik 76%, laba sembilan bulan berbalik dari rugi jadi untung.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FITT",
-   "laporan keuangan interim",
-   "akuisisi tambang",
-   "restrukturisasi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102143018-65355-0/FinancialStatement-2026-III-FITT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inflasi-oktober-melambat-ke-0-22-persen",
-  "category": "Makroekonomi",
-  "title": "Inflasi Oktober Melambat ke [0,22 Persen]",
-  "deck": "Kenaikan harga bulanan pada Oktober 2026 lebih rendah dibanding September, dan juga lebih rendah dari Oktober tahun lalu.",
-  "date": "2 November 2026",
-  "image": "assets/img/timbangan-pasar.jpg",
-  "tags": [
-   "inflasi",
-   "bps",
-   "ekonomi",
-   "harga"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "part-gelar-rupslb-9-desember-agenda-belum-diumumkan",
-  "category": "Aksi Korporasi",
-  "title": "PART Gelar [RUPSLB] 9 Desember, Agenda Belum Diumumkan",
-  "deck": "Direksi PT Cipta Perdana Lancar Tbk menjadwalkan RUPSLB pada 9 Desember 2026. Undangan resmi berisi agenda rapat baru akan terbit 17 November 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PART",
-   "RUPSLB",
-   "Cipta Perdana Lancar",
-   "jadwal rapat pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9a25afd0c9_0ae3f9119b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aces-laba-kuartal-iii-naik-25-7-skor-tata-kelola-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "ACES: Laba Kuartal III Naik 25,7%, Skor Tata Kelola [Melonjak]",
-  "deck": "Penjualan ACES naik 8,3% menjadi Rp6,9 triliun dan laba ke pemegang saham naik 25,7% jadi Rp604,7 miliar di sembilan bulan 2026, sejalan dengan kenaikan skor tata kelola perusahaan.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ACES",
-   "ritel",
-   "kinerja keuangan",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eafccf446e_2d02cb0b61.pdf",
   "sourceLabel": "IDX"
  }
 ];

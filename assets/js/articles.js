@@ -695,6 +695,32 @@ var ARTICLES = [
   "takeaway": "Yang berubah di sini adalah publikasi rutin: Bappebti merilis ulang hasil pemeringkatan untuk 69 pialang berjangka aktif periode Juli-September 2026, dengan PT PG Berjangka naik ke posisi teratas dan sebelas perusahaan lain mengisi empat peringkat berikutnya. Yang terdampak langsung adalah calon nasabah yang memakai daftar ini sebagai acuan memilih pialang, serta 69 perusahaan pialang itu sendiri karena reputasi mereka dipertaruhkan di depan publik setiap tiga bulan. Siaran pers ini tidak menyertakan hasil triwulan sebelumnya, sehingga belum bisa dipastikan apakah susunan lima besar ini stabil atau berganti-ganti dari periode ke periode. Yang perlu ditunggu adalah rilis pemeringkatan triwulan IV-2026, yang menurut aturan wajib dipublikasikan paling lambat tiga bulan setelah periode penilaian berakhir, untuk melihat apakah nama-nama yang sama bertahan di posisi atas."
  },
  {
+  "slug": "mine-rombak-direksi-jaminkan-aset-untuk-pinjaman-sindikasi",
+  "category": "Aksi Korporasi",
+  "title": "MINE Rombak Direksi, Jaminkan [Aset] untuk Pinjaman Sindikasi",
+  "deck": "RUPSLB MINE menyetujui direktur baru, perubahan kode usaha KBLI, dan penjaminan aset di atas 50% kekayaan bersih untuk pinjaman sindikasi dari dua bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T20:20:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d119d29c30_95bd4ef529.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MINE",
+  "tags": [
+   "MINE",
+   "RUPSLB",
+   "Pinjaman Sindikasi",
+   "Direksi"
+  ],
+  "body": [
+   "PT Sinar Terang Mandiri Tbk (MINE) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 4 November 2026 di Jakarta Selatan. Rapat yang berlangsung sekitar 26 menit itu dihadiri pemegang saham yang mewakili 3,47 miliar saham atau 85,04 persen dari total 4,08 miliar saham yang beredar, sehingga kuorum terpenuhi. Tiga agenda diajukan dan semuanya disetujui, yaitu perubahan susunan direksi, penyesuaian kode klasifikasi usaha, dan persetujuan penjaminan aset perseroan untuk pinjaman sindikasi.",
+   "Pada agenda pertama, pemegang saham menyetujui pengangkatan Holmes Siringoringo sebagai direktur baru, efektif sejak rapat ditutup, untuk mengisi sisa masa jabatan direksi yang berlaku sampai RUPS Tahunan 2029. Susunan direksi dan dewan komisaris yang baru menjadi: Ivo Wangarry sebagai direktur utama, Arabella Engelita Sumendap dan Ade Irawan sebagai direktur, serta Holmes Siringoringo sebagai direktur baru. Di jajaran komisaris, Sinjo Jefry Sumendap menjabat komisaris utama dan Hendra Susanto sebagai komisaris independen. Agenda ini disetujui 99,99 persen dari saham yang hadir, dengan 195.700 saham abstain dan tidak ada yang menolak.",
+   "Agenda kedua menyetujui perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan kode kegiatan usaha perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025, juga disetujui 99,99 persen suara dengan 1.000 saham abstain. Agenda ketiga, yang bobotnya lebih besar bagi pemegang saham, menyetujui penjaminan aset perseroan dengan nilai lebih dari 50 persen kekayaan bersih perseroan untuk memperoleh fasilitas pinjaman sindikasi dari PT Bank KB Indonesia Tbk dan PT Bank SMBC Indonesia Tbk. Rapat juga memberi kuasa kepada direksi untuk menentukan sendiri jenis, komposisi, dan nilai aset yang akan dijaminkan sesuai kebutuhan fasilitas dan syarat dari kedua bank tersebut. Dokumen ini tidak menyebutkan nilai total pinjaman sindikasi maupun tujuan penggunaan dananya."
+  ],
+  "fotoAdegan": "Modern glass office tower exterior in Jakarta's business district, taxis passing on the street below, late afternoon light",
+  "takeaway": "Laporan ini saya nilai netral dengan catatan yang perlu dicermati: perubahan direksi dan penyesuaian kode usaha bersifat administratif, tetapi persetujuan menjaminkan aset di atas separuh kekayaan bersih perseroan untuk pinjaman sindikasi bukan hal kecil. Penjaminan aset berarti dua bank krediturnya, Bank KB Indonesia dan Bank SMBC Indonesia, punya klaim lebih dulu atas aset itu kalau perseroan kesulitan membayar, sehingga fleksibilitas keuangan perseroan berkurang dan utang baru ini nantinya menambah beban bunga yang memotong laba. Karena dokumen ini tidak menyebut nilai pinjaman maupun rencana penggunaannya, belum bisa dipastikan apakah dampaknya ke laba dan ekuitas perseroan akan menguntungkan atau membebani. Yang perlu dipantau selanjutnya adalah pengumuman realisasi pencairan pinjaman sindikasi ini beserta rincian aset yang akhirnya dijaminkan, karena RUPS hanya memberi wewenang kepada direksi untuk memutuskannya kemudian.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "vtny-akui-transaksi-cessie-rp147-miliar-belum-diungkap",
   "category": "Aksi Korporasi",
   "title": "VTNY Akui Transaksi [Cessie] Rp147 Miliar Belum Diungkap",
@@ -718,6 +744,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Small market vendors in Indonesia completing a digital payment on a smartphone at a modest storefront, busy afternoon light",
   "takeaway": "Laporan ini condong negatif bagi VTNY karena perusahaan sendiri mengakui dua transaksi besar, pengalihan piutang Rp147 miliar dan obligasi anak usaha VGK senilai lebih dari Rp650 miliar, belum pernah diungkapkan ke publik meski nilainya melewati ambang batas transaksi material, dan auditor bahkan menyinggung kemungkinan menerbitkan ulang opini auditnya. Yang tersentuh adalah pos utang dan ekuitas: anak usaha VEN dan VGK yang tidak diaudit independen menyumbang 70,66 persen dari total utang grup, jauh di atas porsi asetnya yang cuma 2,37 persen, sehingga risiko pendanaan luar negeri yang sulit diverifikasi ikut menumpuk di neraca konsolidasi, sementara nilai pengalihan piutang yang melebihi 20 persen ekuitas berarti dampaknya ke modal pemegang saham bukan jumlah kecil. Yang perlu dipantau berikutnya adalah apakah VTNY benar-benar menyampaikan keterbukaan informasi perbaikan ke Bursa seperti yang dijanjikan dalam surat ini, serta apakah auditor jadi menerbitkan ulang laporan opininya sesuai SA 705 seperti disebutkan dalam jawaban mereka.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rans-bantah-putus-kerja-sama-dengan-d-masiv-untuk-tur-asia",
+  "category": "Aksi Korporasi",
+  "title": "RANS Bantah Putus Kerja Sama dengan [D'MASIV] untuk Tur Asia",
+  "deck": "RANS menjawab permintaan penjelasan BEI soal kabar putusnya kerja sama dengan D'MASIV di tur konser Asia yang sebagian didanai dana hasil IPO.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T19:36:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ab1d566f9a_8e81f08b1c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RANS",
+  "tags": [
+   "RANS",
+   "D'MASIV",
+   "IPO",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Rans Entertainmen Indonesia Tbk (RANS) membantah kabar putusnya kerja sama dengan grup band D'MASIV dalam penyelenggaraan tur konser Asia. Bantahan ini disampaikan melalui surat nomor 059/CORSEC/REI/XI/2026 tertanggal 6 November 2026, sebagai jawaban atas permintaan penjelasan Bursa Efek Indonesia nomor S-13853/BEI.PP2/11-2026 tertanggal 5 November 2026. Permintaan itu muncul setelah Kompas.com memberitakan pada 4 November 2026 bahwa D'MASIV memutus kerja sama dengan RANS Entertainment untuk tur tersebut. Dalam suratnya, RANS menegaskan bahwa sampai saat tanggapan diberikan, belum ada perubahan kerja sama antara para pihak yang terlibat dalam tur konser itu.",
+   "Bursa secara rinci meminta RANS menjelaskan status Term Sheet Kerja Sama Penyelenggaraan Event Konser D'MASIV yang diteken pada 4 Mei 2026 antara RANS dan PT Ruang Antara Suara, karena perjanjian ini tercatat dalam prospektus sebagai salah satu rencana penggunaan dana hasil penawaran umum perdana saham (IPO) untuk belanja operasional konser. RANS menjawab bahwa Term Sheet tersebut berlaku enam bulan sejak penandatanganan, yang berarti masa berlakunya berakhir tepat di sekitar tanggal munculnya pemberitaan media tersebut. Soal hak, kewajiban, dan potensi konsekuensi finansial dari kerja sama itu, RANS hanya menjawab bahwa perusahaan masih melakukan rekonsiliasi atas penerimaan, pengeluaran, dan pembagian hasil kegiatan.",
+   "Mengenai status realisasi dana IPO untuk kegiatan ini, RANS menyatakan pengeluaran dan komitmen terkait penyelenggaraan konser sudah tercatat dalam pembukuan perusahaan, namun masih dalam proses verifikasi dan rekonsiliasi. Dana yang belum digunakan disebut tetap mengacu pada rencana penggunaan dana sebagaimana tercantum dalam prospektus. Surat ini ditandatangani oleh Corporate Secretary Chintami Maranata Sihombing dan tanggapan resmi kepada Bursa disampaikan oleh Finance Director Rumunggu Yokonapita, yang menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik dan dapat memengaruhi harga saham maupun kelangsungan usaha perusahaan."
+  ],
+  "fotoAdegan": "Stage crew adjusting lighting rigs and speaker stacks on an empty concert stage before a show, dim evening light",
+  "takeaway": "Laporan ini condong negatif, bukan karena RANS mengakui putusnya kerja sama, melainkan karena jawabannya justru menunjukkan ada yang belum tuntas: Term Sheet dengan D'MASIV disebut sendiri oleh RANS berakhir enam bulan dari 4 Mei 2026, pas di sekitar tanggal berita itu muncul, dan perusahaan mengaku rekonsiliasi dana belum selesai meski diminta menjelaskan secara rinci oleh Bursa. Yang tersentuh di sini adalah arus kas dan realisasi dana hasil IPO, yaitu uang yang terkumpul dari penjualan saham perdana dan punya rencana penggunaan yang diawasi publik dan regulator, sehingga belum selesainya pencatatan pemakaian dana untuk konser ini membuat investor belum bisa tahu persis berapa yang sudah terpakai dan untuk apa. Yang perlu dipantau berikutnya adalah apakah RANS menerbitkan laporan lanjutan begitu proses verifikasi dan rekonsiliasi dana ini selesai, serta apakah kerja sama dengan D'MASIV diperpanjang, diubah, atau benar-benar berakhir setelah masa enam bulan Term Sheet itu lewat.",
   "sentimen": "negatif"
  },
  {
@@ -745,6 +797,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Modern glass office towers in Jakarta's central business district at dusk, lights turning on, traffic below",
   "takeaway": "Laporan ini netral bagi BMAS karena pinjaman dari pemegang saham utama ini adalah pendanaan rutin dengan bunga mengikuti pasar, bukan sinyal tekanan keuangan maupun ekspansi luar biasa yang mengubah profil risiko bank secara drastis. Transaksi ini menambah beban bunga karena dikenakan SOFR plus margin, tapi di sisi lain menambah dana segar yang bisa disalurkan jadi kredit ke nasabah, sehingga dampak akhirnya ke laba tergantung seberapa produktif dana itu dipakai. Dari limit fasilitas US$341 juta, baru US$240 juta yang sudah ditarik dan US$235 juta yang sudah terikat perjanjian underlying, artinya masih ada sekitar US$101 juta sisa fasilitas yang bisa ditarik BMAS ke depan. Yang perlu dipantau berikutnya adalah realisasi penarikan sisa fasilitas itu serta perjanjian underlying untuk sisa sekitar US$106 juta yang belum terikat, karena itu akan menentukan seberapa besar utang BMAS kepada pemegang sahamnya bertambah dari sini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cmnt-ganti-direksi-pt-karsa-primapermata-nusa",
+  "category": "Aksi Korporasi",
+  "title": "CMNT Ganti [Direksi] PT Karsa Primapermata Nusa",
+  "deck": "Cemindo Gemilang mengumumkan susunan baru direksi dan komisaris anak usahanya, PT Karsa Primapermata Nusa, lewat akta notaris 6 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T18:27:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/37c99d47d8_708956acab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMNT",
+  "tags": [
+   "CMNT",
+   "Cemindo Gemilang",
+   "Karsa Primapermata Nusa",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Cemindo Gemilang Tbk (CMNT) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia adanya perubahan susunan pengurus anak usahanya, PT Karsa Primapermata Nusa, dalam keterbukaan informasi bertanggal 6 November 2026. Perubahan ini dituangkan dalam Akta Notaris Nomor 2 tanggal 6 November 2026 yang dibuat di hadapan Aryanti Artisari, S.H., M.Kn, notaris di Jakarta Selatan.",
+   "Berdasarkan akta tersebut, susunan direksi dan dewan komisaris PT Karsa Primapermata Nusa yang baru adalah Felix Vincent Ang sebagai Direktur Utama, Clement Zichri Ang sebagai Direktur, dan Lian Pongoh sebagai Komisaris. Dokumen yang diserahkan CMNT tidak merinci susunan pengurus sebelumnya maupun lini usaha spesifik dari PT Karsa Primapermata Nusa di dalam grup perusahaan.",
+   "Cemindo Gemilang menyatakan perubahan susunan pengurus anak usaha ini tidak membawa dampak material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan. Surat keterbukaan ini ditandatangani oleh Presiden Direktur CMNT Surindro Kalbu Adi dan Direktur Ameesh Anand."
+  ],
+  "fotoAdegan": "Limestone quarry excavator loading rock onto a hauling truck near a cement plant, dusty daylight",
+  "takeaway": "Laporan ini netral bagi pemegang saham CMNT karena isinya murni pergantian personel di level anak usaha, dan perseroan sendiri menegaskan tidak ada dampak keuangan atau operasional yang menyertainya. Pos kinerja utama seperti ekuitas, arus kas, atau beban bunga Cemindo Gemilang tidak tersentuh oleh pergantian ini, sebab yang berubah hanya siapa yang mengisi kursi direksi dan komisaris di entitas anak, bukan struktur permodalan atau operasional bisnis semen induknya. Investor sebaiknya memantau apakah CMNT akan merinci lebih jauh peran dan kontribusi PT Karsa Primapermata Nusa terhadap bisnis utamanya, karena dokumen kali ini tidak menjelaskan lini usaha anak perusahaan tersebut maupun agenda lanjutan seperti rapat umum pemegang saham atau tenggat pelaporan berikutnya.",
   "sentimen": "netral"
  },
  {
@@ -1082,6 +1160,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "bipp-akui-mengendalikan-mgna-dalam-satu-grup-usaha",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Akui [Mengendalikan] MGNA dalam Satu Grup Usaha",
+  "deck": "BIPP melaporkan ke Bursa Efek Indonesia bahwa perusahaannya satu grup dengan Magna Investama Mandiri (MGNA), karena BIPP pengendali MGNA dan direksinya rangkap jabatan di dua emiten itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:53:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b7bacc4757_9aa99193f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "MGNA",
+   "grup perusahaan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Bhuwanatala Indah Permai Tbk (BIPP) mengirim surat konfirmasi bernomor 128/BIPP-BEI/XI-2026 kepada Bursa Efek Indonesia pada 6 November 2026 pukul 16.53. Lewat surat yang ditandatangani Corporate Secretary Arianto Sjarief itu, BIPP menyatakan perusahaannya termasuk dalam kriteria satu grup perusahaan bersama emiten tercatat lain, sesuai aturan Bursa Efek Indonesia Nomor Kep-00403/BEI/12-2012 tentang keterbukaan informasi kelompok usaha.",
+   "Dalam lampirannya, BIPP merinci dua kriteria yang terpenuhi. Pertama, BIPP berstatus sebagai pengendali dari PT Magna Investama Mandiri Tbk (MGNA), emiten lain yang juga tercatat di bursa. Kedua, sejumlah direktur, komisaris, dan pejabat eksekutif BIPP juga menduduki kursi direktur dan/atau komisaris di MGNA, sehingga ada rangkap jabatan pengurus antara dua perusahaan terbuka tersebut.",
+   "Surat ini tidak memuat angka transaksi atau rencana aksi korporasi baru. Isinya murni pernyataan struktur kelompok usaha yang wajib disampaikan setiap emiten ke bursa, dan BIPP menegaskan laporan tersebut lengkap dan menjadi tanggung jawabnya."
+  ],
+  "fotoAdegan": "A modern glass office tower in central Jakarta's business district, photographed from street level under bright midday sunlight.",
+  "takeaway": "Laporan ini netral bagi fundamental BIPP karena sifatnya administratif, sekadar memenuhi kewajiban lapor struktur grup ke bursa, dan tidak mengubah ekuitas, arus kas, atau laba per saham BIPP saat ini. Yang relevan bukan angka laporan keuangan, melainkan fakta bahwa BIPP adalah pengendali MGNA sekaligus berbagi jajaran direksi dan komisaris dengan perusahaan itu, sehingga keputusan bisnis di satu entitas bisa dipengaruhi kepentingan yang sama di entitas lain, hal yang perlu dicermati pemegang saham publik di kedua emiten karena berpotensi memunculkan transaksi antar-pihak terkait. Dokumen ini sendiri tidak menyebut tenggat atau agenda lanjutan, tetapi mengingat BIPP baru saja merampungkan penambahan 502,8 juta saham baru yang seluruhnya mengalir ke Safire Capital dan PT Gratamulia Pratama, pihak yang berhubungan keluarga dengan pengendali, pembaca perlu memantau apakah ke depan muncul transaksi serupa antara BIPP dan MGNA yang melibatkan pihak-pihak yang sama.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "prda-sisa-dana-buyback-saham-tinggal-rp46-miliar",
   "category": "Aksi Korporasi",
   "title": "PRDA Sisa Dana [Buyback] Saham Tinggal Rp46 Miliar",
@@ -1369,6 +1473,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "roti-tarik-514-juta-saham-treasuri-via-pengurangan-modal",
+  "category": "Aksi Korporasi",
+  "title": "ROTI Tarik 514 Juta Saham Treasuri via [Pengurangan Modal]",
+  "deck": "ROTI berencana menarik 514.213.400 saham treasuri (8,31% dari modal) lewat pengurangan modal, keputusan dimintakan di RUPSLB 15 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:16:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8c93c47851_6c49693924.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ROTI",
+  "tags": [
+   "ROTI",
+   "pengurangan modal",
+   "saham treasuri",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Nippon Indosari Corpindo Tbk (ROTI) mengajukan rencana penarikan 514.213.400 lembar saham, atau 8,31 persen dari seluruh modal ditempatkan dan disetor perusahaan, melalui pengurangan modal. Saham yang akan ditarik ini berasal dari program pembelian kembali saham (buyback) yang dijalankan perusahaan dalam tujuh periode sejak 19 April 2021 hingga 5 Agustus 2025, dengan total realisasi 564.213.400 saham atau 9,12 persen dari modal. Dari jumlah itu, RUPSLB 18 November 2025 sudah lebih dulu mengalokasikan 50.000.000 saham untuk Program Insentif Jangka Panjang 2026-2030 bagi manajemen dan direksi, sehingga sisa 514.213.400 saham itulah yang kini diajukan untuk ditarik dan dihapus dari modal perusahaan.",
+   "Jika disetujui, jumlah saham beredar ROTI akan turun dari 6.186.488.388 menjadi 5.672.275.488 lembar. Karena saham yang dihapus adalah saham treasuri milik perusahaan sendiri, bukan milik pemegang saham lain, porsi kepemilikan setiap pemegang saham yang ada justru naik tanpa mereka menambah modal. Porsi PT Indoritel Makmur Internasional Tbk naik dari 25,77 persen menjadi 28,11 persen, Demeter Indo Investment Pte. Ltd. dari 22,16 persen menjadi 24,17 persen, Bonlight Investments Limited dari 20,79 persen menjadi 22,67 persen, Pasco Shikishima Corporation dari 8,50 persen menjadi 9,27 persen, Lief Holdings Pte. Ltd. dari 6,06 persen menjadi 6,61 persen, dan saham milik masyarakat dengan kepemilikan di bawah 5 persen naik dari 7,60 persen menjadi 8,29 persen.",
+   "Perusahaan menyebut langkah ini sebagai upaya menjaga stabilitas perdagangan saham, meningkatkan kepercayaan investor, dan menjadi langkah awal menambah porsi saham yang beredar bebas di publik (free float). Rencana ini akan dimintakan persetujuan pemegang saham dalam RUPSLB pada Selasa, 15 Desember 2026, dengan jadwal pendukung berupa pemberitahuan agenda ke OJK pada 30 Oktober 2026, pengumuman RUPSLB pada 6 November 2026, penetapan daftar pemegang saham yang berhak hadir pada 20 November 2026, dan panggilan rapat pada 23 November 2026. Setelah RUPSLB, perusahaan masih harus memasang pengumuman koran soal pengurangan modal, dan memberi waktu 60 hari kalender bagi kreditor yang keberatan sebelum Kementerian Hukum menerbitkan surat keputusan resmi."
+  ],
+  "fotoAdegan": "Workers packaging sliced bread loaves on a conveyor belt inside a modern bakery factory, bright industrial lighting",
+  "takeaway": "Rencana ini condong positif bagi pemegang saham ROTI, karena penghapusan 514.213.400 saham treasuri mengurangi jumlah saham beredar tanpa mengurangi kepemilikan siapa pun, sehingga porsi kepemilikan setiap pemegang saham lama otomatis naik. Pos yang tersentuh adalah jumlah saham beredar, yang turun dari 6,19 miliar menjadi 5,67 miliar lembar; karena laba perusahaan nantinya dibagi dengan jumlah saham yang lebih kecil, laba per saham berpotensi naik, dan porsi saham publik yang beredar bebas (free float) ikut naik dari 7,60 persen menjadi 8,29 persen, yang dipantau pasar karena mempengaruhi likuiditas perdagangan saham. Yang perlu dipantau berikutnya adalah persetujuan pemegang saham dalam RUPSLB pada 15 Desember 2026, serta masa sanggah kreditor selama 60 hari kalender setelah pengumuman koran, sebelum Kementerian Hukum menerbitkan surat keputusan resmi yang mengesahkan pengurangan modal ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "amor-bagikan-dividen-tunai-rp23-saham-total-rp50-46-miliar",
   "category": "Aksi Korporasi",
   "title": "AMOR Bagikan [Dividen] Tunai Rp23/Saham, Total Rp50,46 Miliar",
@@ -1393,6 +1523,32 @@ var ARTICLES = [
   "fotoAdegan": "Exterior of glass-walled high-rise office towers in Jakarta's SCBD business district, soft afternoon light, wide street-level view",
   "takeaway": "Laporan ini condong positif bagi AMOR, karena dividen tunai Rp50,46 miliar itu setara sekitar 60 persen dari laba bersih perusahaan pada periode yang berakhir Juni 2026, menunjukkan perusahaan tetap mengembalikan porsi besar labanya ke pemegang saham, sejalan dengan tren kenaikan dividen yang sudah diberitakan sebelumnya. Pembayaran ini akan menggerus ekuitas dan kas perusahaan, karena dananya diambil dari saldo laba ditahan dan akan keluar dari rekening kas AMOR begitu dibayarkan, sehingga pelaku pasar biasanya mencermati apakah bantalan modal perusahaan masih cukup tebal setelah pembagian ini. Yang perlu dipantau berikutnya adalah tanggal pembayaran dividen pada 24 November 2026, serta tenggat bagi pemegang saham asing untuk menyerahkan dokumen bebas pajak berganda, sebab tanpa dokumen itu dividen mereka otomatis dipotong pajak 20 persen.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "mgna-satu-grup-dengan-bhuwanatala-indah-permai-rangkap-jabatan",
+  "category": "Aksi Korporasi",
+  "title": "MGNA Satu Grup dengan Bhuwanatala Indah Permai [Rangkap Jabatan]",
+  "deck": "MGNA menyatakan masuk kriteria satu grup perusahaan dengan PT Bhuwanatala Indah Permai Tbk karena ada direksi, komisaris, atau pejabat eksekutif yang merangkap jabatan di kedua emiten.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T16:13:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fdad6923dd_1aaea41195.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGNA",
+  "tags": [
+   "MGNA",
+   "Bhuwanatala Indah Permai",
+   "keterbukaan informasi",
+   "rangkap jabatan"
+  ],
+  "body": [
+   "PT Magna Investama Mandiri Tbk (MGNA) menyampaikan surat Nomor 133/MGNA-BEI/XI-2026 tertanggal 6 November 2026 kepada Bursa Efek Indonesia, yang ditandatangani oleh Direktur Utama Arianto Sjarief. Dalam surat itu, MGNA menyatakan bahwa perusahaannya saat ini termasuk dalam kriteria 'satu grup perusahaan' dengan PT Bhuwanatala Indah Permai, Tbk, sesuai aturan BEI dalam Surat Keputusan Direksi Nomor Kep-00403/BEI/12-2012.",
+   "Dari lima kriteria yang diatur BEI untuk menentukan status satu grup, yang terpenuhi dalam kasus ini adalah kriteria kelima, yaitu adanya direktur, komisaris, dan/atau pejabat eksekutif MGNA yang juga menjabat sebagai direktur dan/atau komisaris di PT Bhuwanatala Indah Permai, Tbk. Dokumen tidak menyebutkan nama spesifik pengurus yang merangkap jabatan tersebut, maupun sejak kapan rangkap jabatan itu berlaku. Empat kriteria lain, yakni hubungan pengendalian, pengendali yang sama, ketergantungan keuangan, dan penerbitan jaminan utang, dinyatakan tidak terpenuhi dalam laporan ini.",
+   "MGNA menegaskan bahwa informasi yang disampaikan dalam laporan ini lengkap dan benar, serta menjadi tanggung jawab perusahaan sepenuhnya sesuai aturan keterbukaan informasi BEI."
+  ],
+  "fotoAdegan": "Exterior view of a mid-rise office building facade in central Jakarta, glass windows reflecting cloudy afternoon sky, street traffic below",
+  "takeaway": "Laporan ini netral bagi fundamental MGNA, karena isinya semata status keterkaitan pengurus dengan emiten lain, bukan transaksi, bukan suntikan atau penarikan dana, dan tidak mengubah angka di laporan keuangan. Pos yang disentuh bukan ekuitas atau laba per saham, melainkan soal tata kelola, yakni potensi konflik kepentingan ketika pengurus yang sama duduk di dua emiten sekaligus, sehingga transaksi antara MGNA dan Bhuwanatala Indah Permai ke depan masuk kategori transaksi dengan pihak terafiliasi yang wajib diungkap terbuka ke publik dan bursa. Yang perlu dipantau selanjutnya adalah apakah muncul transaksi semacam itu antara kedua perusahaan, karena status satu grup ini membuat transaksi tersebut harus dijelaskan detailnya kepada pemegang saham, bukan sekadar dicatat sebagai transaksi rutin.",
+  "sentimen": "netral"
  },
  {
   "slug": "ipcc-laba-bersih-turun-6-9-meski-masih-bebas-utang",
@@ -1574,6 +1730,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "bris-terbitkan-sukuk-mudharabah-rp2-triliun-tahap-iii",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Terbitkan [Sukuk] Mudharabah Rp2 Triliun Tahap III",
+  "deck": "BSI menerbitkan sukuk mudharabah senilai Rp2 triliun dalam tiga seri dengan bagi hasil setara 7,00 sampai 7,20 persen per tahun, bagian dari program berkelanjutan senilai Rp10 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T15:31:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/36b03ef8e4_e250761669.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "sukuk",
+   "obligasi syariah",
+   "pendanaan bank"
+  ],
+  "body": [
+   "PT Bank Syariah Indonesia (Persero) Tbk (BRIS) resmi menawarkan Sukuk Mudharabah Berlandaskan Keberlanjutan Tahap III Tahun 2026 senilai Rp2 triliun, bagian dari program Sukuk Mudharabah Berkelanjutan I Bank BSI yang mengincar total dana Rp10 triliun. Sukuk ini terbagi dalam tiga seri. Seri A senilai Rp900 miliar bertenor 370 hari kalender dengan nisbah untuk pemegang sukuk 83,43 persen dari proyeksi pendapatan yang dibagihasilkan, setara imbal hasil 7,00 persen per tahun. Seri B senilai Rp230 miliar bertenor dua tahun dengan nisbah 84,03 persen, setara 7,05 persen per tahun. Seri C senilai Rp870 miliar bertenor tiga tahun dengan nisbah 85,82 persen, setara 7,20 persen per tahun.",
+   "Penawaran umum berlangsung mulai 6 November 2026, dengan tanggal penjatahan pada 9 November 2026, distribusi sukuk secara elektronik pada 11 November 2026, dan pencatatan di Bursa Efek Indonesia pada 12 November 2026. Bagi hasil dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 11 Februari 2027. Sukuk Seri A jatuh tempo pada 21 November 2027, Seri B pada 11 November 2028, dan Seri C pada 11 November 2029, masing-masing dilunasi sekaligus di tanggal jatuh tempo.",
+   "Dana yang terkumpul akan digunakan untuk membiayai portofolio pembiayaan syariah baru maupun eksisting yang masuk kategori Kegiatan Usaha Berwawasan Lingkungan seperti energi terbarukan dan bangunan ramah lingkungan, serta Kegiatan Usaha Berwawasan Sosial seperti perumahan terjangkau dan penciptaan lapangan kerja, sesuai aturan OJK soal efek berlandaskan keberlanjutan. Sukuk ini mendapat peringkat idAAA(sy) dari Pefindo, dijamin penuh oleh BNI Sekuritas, BRI Danareksa Sekuritas, Mandiri Sekuritas, dan Mega Capital Sekuritas selaku penjamin pelaksana emisi, dengan Bank Tabungan Negara sebagai wali amanat. Sukuk tidak memiliki jaminan khusus, tetapi dijamin dengan seluruh harta kekayaan perseroan, dan baru bisa dibeli kembali oleh BSI satu tahun setelah tanggal penjatahan."
+  ],
+  "fotoAdegan": "Workers installing rooftop solar panels on a row of housing complex roofs under bright midday sun, Indonesia",
+  "takeaway": "Penerbitan sukuk ini netral bagi fundamental BSI, karena merupakan transaksi pendanaan rutin dalam program yang sudah direncanakan sejak 2024, bukan sinyal darurat soal kebutuhan kas perseroan. Pos yang tersentuh adalah arus kas dan beban bagi hasil, dana Rp2 triliun akan masuk ke kas BSI untuk membiayai portofolio pembiayaan, tetapi sebagai gantinya perseroan terikat membayar bagi hasil setara 7,00 sampai 7,20 persen per tahun kepada pemegang sukuk setiap tiga bulan selama masa berlaku sukuk, sebuah kewajiban yang bekerja mirip bunga pada obligasi biasa dan akan membebani biaya dana BSI ke depan. Yang perlu dipantau berikutnya adalah tanggal penjatahan pada 9 November 2026, pencatatan di Bursa Efek Indonesia pada 12 November 2026, dan pembayaran bagi hasil pertama pada 11 Februari 2027 sebagai indikasi awal kelancaran kewajiban ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "live-jawab-permintaan-bei-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "LIVE Jawab Permintaan BEI soal [Volatilitas] Saham",
@@ -1649,6 +1831,31 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Empty modern boardroom with rows of chairs around a long table, large windows and soft daylight in a Jakarta office tower",
   "takeaway": "Laporan ini netral bagi AYLS, pergantian Direktur Utama di sini adalah suksesi internal dari direktur yang sudah menjabat, bukan pergantian mendadak, dan perubahan Anggaran Dasar sebagian besar berupa penyesuaian tata kelola mengikuti aturan terbaru, jadi belum ada sinyal yang mengubah prospek bisnis perseroan. Yang tersentuh bukan pos keuangan seperti ekuitas atau arus kas, melainkan struktur pengambilan keputusan direksi dan komisaris, karena direksi baru diizinkan merangkap jabatan di perusahaan lain dan rapat bisa digelar lewat video, hal yang perlu dicermati karena rangkap jabatan berpotensi memunculkan benturan kepentingan meski batasnya sudah diatur jelas. Yang perlu dipantau adalah hasil RUPSLB pada 30 November 2026, terutama apakah pemegang saham menyetujui pengangkatan Tony Muhammad Pahlevi sebagai Direktur Utama definitif dan bagaimana tanggapan mereka terhadap pelonggaran aturan rangkap jabatan tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "enrg-kepemilikan-cgs-international-susut-lewat-reverse-repo",
+  "category": "Aksi Korporasi",
+  "title": "ENRG: Kepemilikan CGS International Susut Lewat [Reverse REPO]",
+  "deck": "CGS International Sekuritas Indonesia melaporkan kepemilikan sahamnya di ENRG turun dari 7,78% menjadi 6,89% melalui transaksi reverse repo pada 3 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T14:51:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-5111-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "kepemilikan saham",
+   "CGS International",
+   "reverse repo"
+  ],
+  "body": [
+   "CGS International Sekuritas Indonesia melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di PT Energi Mega Persada Tbk (ENRG) berkurang dari 3.100.545.614 lembar menjadi 2.746.144.447 lembar, atau turun 354.401.167 lembar. Akibat perubahan ini, hak suara CGS International di ENRG ikut turun dari 7,78 persen menjadi 6,89 persen. Laporan ini tertanggal 6 November 2026 dan disampaikan sesuai aturan OJK yang mewajibkan pemegang saham dengan kepemilikan signifikan melaporkan setiap perubahan kepemilikannya.",
+   "Dalam dokumen yang sama, transaksi ini dicatat sebagai Repurchase Agreement dengan keterangan tujuan reverse repo, dieksekusi langsung pada 3 November 2026 dengan harga Rp625 per saham. Repo adalah transaksi di mana saham dipindahkan sementara sebagai jaminan dalam perjanjian pembiayaan, bukan penjualan permanen seperti transaksi jual beli biasa di pasar. Dokumen tidak mencantumkan nilai total transaksi dalam rupiah maupun identitas pihak lawan dalam perjanjian repo tersebut, dan status kepemilikan saham ini tercatat langsung atas nama CGS International."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's financial district reflecting afternoon light, busy street with taxis below",
+  "takeaway": "Laporan ini cenderung netral bagi ENRG, karena penyusutan kepemilikan terjadi lewat mekanisme repo, yakni saham dipindahkan sementara sebagai jaminan pembiayaan, bukan pelepasan karena perubahan pandangan atas bisnis perusahaan, dan CGS International masih memegang hak suara di atas 5 persen setelah transaksi. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan pos keuangan seperti ekuitas atau laba perusahaan, tetapi pelaku pasar tetap memantaunya karena perubahan kepemilikan pemegang saham besar bisa memengaruhi likuiditas perdagangan saham ENRG. Yang perlu dicermati selanjutnya adalah apakah kepemilikan CGS International terus menyusut hingga di bawah ambang wajib lapor 5 persen, serta apakah akan muncul laporan susulan begitu transaksi reverse repo ini jatuh tempo atau diselesaikan.",
   "sentimen": "netral"
  },
  {
@@ -1783,6 +1990,31 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "avia-direksi-beli-10-juta-saham-rp2-93-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AVIA: Direksi [Beli] 10 Juta Saham Rp2,93 Miliar",
+  "deck": "Robert Christian Tanoko, direksi Avia Avian, menambah 10 juta saham lewat dua transaksi pada 4 November 2026 senilai total Rp2,93 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T13:10:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-2087-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "kepemilikan saham",
+   "direksi",
+   "insider trading"
+  ],
+  "body": [
+   "Robert Christian Tanoko, anggota Direksi PT Avia Avian Tbk (AVIA), melaporkan penambahan kepemilikan saham perusahaan ke Otoritas Jasa Keuangan pada 6 November 2026. Sebelum transaksi ia memegang 1.457.224.800 lembar saham AVIA, dan setelah transaksi jumlahnya naik menjadi 1.467.224.800 lembar, bertambah 10 juta lembar. Hak suaranya di perusahaan ikut naik tipis dari 2,3521 persen menjadi 2,3683 persen.",
+   "Penambahan saham ini terjadi lewat dua transaksi pembelian tidak langsung pada 4 November 2026, masing-masing 5 juta lembar saham biasa. Transaksi pertama dilakukan di harga Rp294 per saham dan transaksi kedua di harga Rp292 per saham, sehingga total nilai pembelian sekitar Rp2,93 miliar. Dalam laporan resminya, Robert mencantumkan tujuan transaksi sebagai investasi."
+  ],
+  "fotoAdegan": "Workers stacking rows of paint cans on wooden pallets inside a brightly lit warehouse, forklift parked nearby",
+  "takeaway": "Laporan ini netral bagi AVIA, karena pembelian 10 juta saham ini hanya sekitar 0,69 persen dari saham yang sudah dimiliki Robert, dan hak suaranya nyaris tidak bergeser dari 2,3521 persen ke 2,3683 persen, jadi belum bisa dibaca sebagai pernyataan sikap yang kuat dari jajaran direksi. Yang tersentuh di sini cuma komposisi kepemilikan dan hak suara perseorangan, bukan ekuitas, arus kas, atau laba per saham perusahaan, sebab ini transaksi jual beli di pasar sekunder antar pemegang saham, bukan penerbitan saham baru oleh AVIA. Yang perlu dipantau selanjutnya adalah apakah pembelian semacam ini berlanjut di laporan kepemilikan berikutnya, karena pola akumulasi bertahap oleh direksi baru akan terlihat jelas jika muncul berulang dalam beberapa laporan ke depan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tpt-agustus-2026-4-75-naik-dari-februari",
   "category": "Makroekonomi",
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
@@ -1859,6 +2091,58 @@ var ARTICLES = [
   "takeaway": "Dua indikator dalam survei ini bergerak ke arah yang sama: kenaikan harga rumah baru melambat untuk kuartal kedua berturut-turut, dan penjualannya justru makin terkontraksi dibanding setahun lalu. Yang paling kena dampak adalah pengembang, karena mereka harus menambal pembangunan dari kas sendiri saat penjualan melemah, dan calon pembeli yang mayoritas bergantung pada kredit KPR untuk bisa memiliki rumah. Arah ini mengarah ke pasar rumah primer yang masih lesu, bukan sekadar perlambatan sesaat, karena pelemahan harga dan penjualan terjadi bersamaan. Yang akan memastikan apakah tren ini berlanjut atau mulai berbalik adalah hasil SHPR triwulan IV 2026 dan perkembangan suku bunga kredit rumah, mengingat sebagian besar pembelian rumah bergantung pada KPR.",
   "fotoGagal": 5,
   "fotoDitolak": true
+ },
+ {
+  "slug": "bipp-direksi-safire-tambah-8-4-juta-saham-hak-suara-turun",
+  "category": "Aksi Korporasi",
+  "title": "BIPP: Direksi Safire Tambah [8,4 Juta] Saham, Hak Suara Turun",
+  "deck": "Safire Capital, direksi asing BIPP, membeli tambahan 8,4 juta saham lewat repurchase agreement, tapi hak suaranya turun ke 56,17% karena basis saham perusahaan membesar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T11:31:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-1429-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "kepemilikan saham",
+   "Safire Capital",
+   "dilusi saham"
+  ],
+  "body": [
+   "Safire Capital Pte. Ltd., anggota direksi PT Bhuwanatala Indah Permai Tbk (BIPP) yang berkewarganegaraan asing, melaporkan kepada Otoritas Jasa Keuangan bahwa pada 4 November 2026 pihaknya menambah kepemilikan 8.400.000 lembar saham BIPP di harga Rp200 per saham, dengan tujuan investasi. Transaksi dilakukan lewat mekanisme repurchase agreement dan tercatat sebagai kepemilikan tidak langsung, artinya saham tersebut dipegang melalui pihak lain, bukan dibeli langsung di pasar atas nama Safire sendiri.",
+   "Dengan penambahan itu, jumlah saham BIPP yang dikuasai Safire Capital naik dari 3.098.530.195 lembar menjadi 3.106.930.195 lembar. Namun persentase hak suaranya justru turun dari 61,62 persen menjadi 56,17 persen. Penurunan ini bukan karena Safire melepas saham, melainkan karena jumlah total saham BIPP yang beredar membengkak signifikan setelah perusahaan merampungkan penambahan modal tanpa hak memesan efek terlebih dahulu (private placement) awal November ini, yang menerbitkan ratusan juta saham baru untuk Safire Capital dan PT Gratamulia Pratama.",
+   "Dibandingkan dengan total saham yang sudah dipegang Safire sebelumnya, pembelian tambahan 8,4 juta lembar ini hanya setara 0,27 persen, porsi yang kecil dan tidak mengubah posisi Safire sebagai pemegang saham mayoritas di BIPP."
+  ],
+  "fotoAdegan": "Quiet tropical resort villas and a swimming pool overlooking the sea in Bali at early morning, empty loungers, soft light",
+  "takeaway": "Transaksi ini sendiri bersifat netral: tambahan 8,4 juta saham hanya 0,27 persen dari kepemilikan Safire, jadi bukan sinyal baru soal arah sikap direksi terhadap BIPP. Yang justru relevan adalah mengapa hak suaranya turun meski jumlah sahamnya bertambah, yaitu karena jumlah saham beredar BIPP melonjak akibat private placement yang baru rampung, sehingga porsi kepemilikan lama otomatis mengecil, inilah yang disebut dilusi, dan ini penting dipantau karena semakin besar basis saham, semakin kecil pula bagian laba yang jatuh ke setiap lembar saham milik pemegang saham publik. Yang perlu dicermati selanjutnya adalah apakah PT Gratamulia Pratama, pihak terafiliasi lain yang juga menerima saham dari private placement tersebut, akan menyusulkan laporan kepemilikan serupa, serta bagaimana BIPP akan menjelaskan penggunaan dana dari penambahan modal itu kepada bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dewi-pemegang-saham-lepas-6-7-juta-saham-hak-suara-ke-7-7",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Pemegang saham [lepas] 6,7 juta saham, hak suara ke 7,7%",
+  "deck": "Sujito Ngatiman menjual 6,7 juta saham DEWI senilai sekitar Rp1,55 miliar, sehingga hak suaranya turun dari 8,00% menjadi 7,70%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T11:29:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-6545-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "kepemilikan saham",
+   "pemegang saham",
+   "OJK"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) melaporkan perubahan kepemilikan saham dari Sujito Ngatiman, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perseroan. Dalam laporan ke Otoritas Jasa Keuangan tertanggal 6 November 2026, Sujito tercatat menjual 6.700.000 saham DEWI pada 5 November 2026 dengan harga Rp231 per saham, sehingga nilai transaksinya sekitar Rp1,55 miliar.",
+   "Dengan penjualan ini, jumlah saham Sujito di DEWI berkurang dari 161.782.300 lembar menjadi 155.082.300 lembar, atau turun sekitar 4,14 persen dari kepemilikannya sebelumnya. Akibatnya, persentase hak suaranya di perseroan ikut turun dari 8,00% menjadi 7,70%. Laporan menyebutkan status kepemilikan saham ini langsung, dengan tujuan transaksi tercatat sebagai penjualan dan batas akhir periode pelaksanaan pada 6 November 2026.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan pemegang saham signifikan melaporkan setiap perubahan kepemilikannya ke OJK."
+  ],
+  "fotoAdegan": "Exterior view of Jakarta's financial district skyscrapers at dusk, office lights switching on, wide street-level angle",
+  "takeaway": "Laporan ini netral bagi DEWI, karena saham yang dilepas hanya sekitar 4,14 persen dari kepemilikan Sujito sendiri dan bukan transaksi oleh direksi atau komisaris perseroan. Yang tersentuh di sini adalah hak suara, yaitu persentase kepemilikan atas total saham beredar yang menentukan kekuatan seseorang saat memberikan suara dalam rapat pemegang saham, dan di sini hanya bergeser tipis dari 8,00% menjadi 7,70% tanpa mengubah jumlah total saham beredar perseroan. Karena transaksi ini antar pemilik di pasar, bukan penerbitan saham baru oleh DEWI, tidak ada dampak langsung ke ekuitas atau laba per saham perusahaan. Yang perlu dipantau selanjutnya adalah apakah Sujito mengajukan laporan susulan, sebab POJK 4/2024 mewajibkan pelaporan ulang setiap kali kepemilikannya berubah lagi, sehingga pola penjualan lanjutan atau pembelian balik akan terlihat dari laporan-laporan berikutnya ke OJK.",
+  "sentimen": "netral"
  },
  {
   "slug": "totl-bagikan-dividen-interim-rp136-4-miliar-rp40-per-saham",
@@ -2014,6 +2298,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Exterior view of a glass office tower in downtown Jakarta, pedestrians crossing below, hazy midday light",
   "takeaway": "Surat ini condong netral bagi investor, sebab isinya konfirmasi rutin bahwa tidak ada informasi baru di balik pergerakan saham, dan komitmen pengendali PT Headwell Bintang Energi Hijau untuk tidak melepas sahamnya sebenarnya sudah diumumkan sejak awal perubahan pengendalian, bukan kabar segar. Yang tersentuh di sini adalah jumlah saham beredar, karena penambahan modal tanpa hak memesan efek terlebih dahulu yang disebut dalam surat ini menambah saham baru tanpa menawarkannya dulu ke pemegang saham lama, sehingga porsi kepemilikan dan laba per saham pemegang lama berpotensi tergerus. Struktur pengendalian juga relevan dipantau karena pengendali menegaskan tidak berencana menambah, mengurangi, atau menjaminkan sahamnya, yang berarti peta kekuasaan di perseroan untuk sementara tidak berubah. Yang perlu dipantau berikutnya adalah apakah pernyataan bahwa tidak ada aksi korporasi baru dalam tiga bulan ke depan tetap berlaku, mengingat rangkaian RUPSLB, pergantian direksi dan komisaris, serta perubahan nama perseroan baru saja rampung pada tahun ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-350-000-lembar-saham",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 350.000 Lembar Saham",
+  "deck": "Komisaris AKPI Henry Liem melepas 350.000 saham pada 5 November 2026, mengurangi kepemilikannya dari 3,22 juta menjadi 2,87 juta lembar dan hak suara dari 0,526% menjadi 0,469%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T10:16:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-3961-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Henry Liem, anggota Dewan Komisaris PT Argha Karya Prima Industry Tbk (AKPI), melaporkan kepada Otoritas Jasa Keuangan pada 6 November 2026 bahwa ia telah menjual sebagian saham AKPI yang dimilikinya. Penjualan dilakukan dalam dua transaksi pada tanggal yang sama, 5 November 2026, masing masing sebanyak 250.000 lembar saham biasa dengan harga Rp610 per lembar dan 100.000 lembar dengan harga Rp605 per lembar. Dokumen mencantumkan status kepemilikan tidak langsung dan tujuan transaksi tercatat sebagai jual saham, dengan jenis transaksi berupa Repurchase Agreement.",
+   "Dari dua transaksi tersebut, total saham yang dilepas Henry Liem berjumlah 350.000 lembar dengan nilai transaksi sekitar Rp213 juta. Sebelum transaksi, jumlah saham AKPI yang ia pegang tercatat 3.221.659 lembar atau setara 0,5262 persen hak suara perusahaan. Setelah transaksi, kepemilikannya turun menjadi 2.871.659 lembar, setara 0,469 persen hak suara.",
+   "Berdasarkan perhitungan dari data yang dilaporkan, jumlah saham yang dijual setara sekitar 10,86 persen dari total saham yang sebelumnya dipegang Henry Liem. Laporan ini disampaikan sesuai Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap perubahan kepemilikan saham oleh direksi atau komisaris dilaporkan ke OJK."
+  ],
+  "fotoAdegan": "Rolls of clear plastic packaging film stacked in an industrial warehouse, forklift moving pallets under fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi AKPI karena transaksi hanya memindahkan kepemilikan pribadi seorang komisaris, bukan aksi korporasi yang mengubah struktur modal atau arus kas perusahaan. Yang tersentuh di sini adalah jumlah saham beredar yang dipegang insider dan hak suaranya, yakni persentase suara seseorang dalam rapat pemegang saham, yang di sini turun dari 0,526 persen menjadi 0,469 persen, tetap kecil secara keseluruhan meski berarti Henry Liem melepas sekitar 10,9 persen dari saham yang sebelumnya ia pegang sendiri. Pelepasan sebesar ini tidak mengubah status pengendali maupun kekuatan suara AKPI secara material karena porsinya di perusahaan memang sudah di bawah satu persen sejak awal. Yang perlu dipantau selanjutnya adalah apakah Henry Liem atau komisaris dan direksi AKPI lain melaporkan transaksi serupa dalam waktu dekat, karena pola penjualan berulang oleh beberapa insider sekaligus baru akan jadi sinyal yang lebih berarti ketimbang satu laporan tunggal ini.",
   "sentimen": "netral"
  },
  {

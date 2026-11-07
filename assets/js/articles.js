@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-jadi-rp2-545-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.545.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp20.000 menjadi Rp2.545.000 per gram pada Jumat, sementara harga buyback juga turun ke Rp2.350.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-545-000-per-gram.jpg",
+  "date": "7 November 2026",
+  "isoDate": "2026-11-07T09:26:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477066-saatnya-beli-untuk-investasi-harga-emas-antam-hari-ini-7-november-2026-turun-jadi-rp2545000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "antam",
+   "buyback emas"
+  ],
+  "body": [
+   "Harga emas batangan Antam turun pada Jumat, 7 November 2026. Berdasarkan laman resmi Logam Mulia, harga emas Antam bergerak dari Rp2.565.000 menjadi Rp2.545.000 per gram, atau turun Rp20.000. Pergerakan harga harian seperti ini jadi acuan bagi masyarakat yang menyimpan emas sebagai aset ketika memutuskan waktu membeli atau menjualnya.",
+   "Selain harga jual, harga buyback atau harga beli kembali yang ditetapkan Antam juga ikut turun menjadi Rp2.350.000 per gram. Buyback adalah harga yang akan diterima pemilik emas batangan jika menjualnya kembali ke Antam, sehingga penurunan ini berarti nilai tukar emas simpanan menjadi uang tunai saat ini sedikit lebih kecil dibanding sebelumnya.",
+   "Antam mengingatkan bahwa harga emas batangan ini sifatnya dapat berubah sewaktu-waktu mengikuti kondisi pasar. Dengan demikian, angka Rp2.545.000 per gram dan buyback Rp2.350.000 per gram tersebut hanya berlaku untuk transaksi pada hari yang sama."
+  ],
+  "fotoAdegan": "Close-up of small stacked gold bullion bars on a velvet display tray inside a jewelry counter, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/03/20/67dbcd5e179d5-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini hanya dua angka, yaitu harga jual emas Antam turun Rp20.000 menjadi Rp2.545.000 per gram, dan harga buyback turun ke Rp2.350.000 per gram. Yang terdampak langsung adalah pemilik emas batangan Antam yang sedang mempertimbangkan menjual, karena uang yang mereka terima hari ini lebih kecil dibanding hari-hari sebelumnya, serta calon pembeli yang mendapat harga sedikit lebih murah. Data ini belum cukup untuk membaca ke arah mana harga emas akan bergerak dalam beberapa hari ke depan, karena tidak ada informasi soal harga emas dunia, nilai tukar rupiah, atau tren harga Antam sepanjang pekan ini. Yang perlu dipantau adalah harga Antam pada hari-hari berikutnya, untuk melihat apakah penurunan ini berlanjut atau hanya koreksi sehari.",
+  "imageV": "mw5sry8a"
+ },
+ {
+  "slug": "shopeepay-gelar-promo-11-11-kfc-rp11-ribu-hingga-saldo-kaget",
+  "category": "Teknologi",
+  "title": "ShopeePay Gelar Promo [11.11], KFC Rp11 Ribu hingga Saldo Kaget",
+  "deck": "ShopeePay membuka kampanye diskon 11.11 pada 6-15 November 2026, mencakup paket ayam goreng Rp11.000, potongan 60 persen lewat SPayLater, dan saldo kejutan harian.",
+  "image": "assets/img/shopeepay-gelar-promo-11-11-kfc-rp11-ribu-hingga-saldo-kaget.jpg",
+  "date": "7 November 2026",
+  "isoDate": "2026-11-07T08:00:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477052-siap-siap-berburu-promo-di-aplikasi-shopeepay-1111-kfc-rp11-ribu-hingga-saldo-kaget-setiap-hari-menanti",
+  "tags": [
+   "ShopeePay",
+   "11.11",
+   "SPayLater",
+   "promo"
+  ],
+  "body": [
+   "ShopeePay kembali menggelar kampanye promo tahunan bertajuk 11.11 yang berlangsung mulai 6 hingga 15 November 2026. Selama periode itu, pengguna aplikasi dompet digital ini bisa memanfaatkan berbagai potongan harga, mulai dari paket makan ayam goreng seharga Rp11.000 hingga fitur saldo kejutan yang dibagikan setiap hari selama kampanye berlangsung.",
+   "Salah satu promo andalan adalah voucher makan Rp11.000 untuk paket ayam goreng ukuran besar, yang bisa diklaim mulai 6 November melalui halaman kampanye di aplikasi. Penukaran voucher dibuka dalam dua sesi, yaitu 11 November pukul 14.00 WIB dan 14 November pukul 11.00 WIB. Promo ini ditujukan bagi pengguna yang belum kebagian voucher serupa pada periode sebelumnya, dan secara khusus disediakan kuota 40.000 voucher yang dipastikan didapat oleh pengguna yang belum pernah memakai SPayLater, yaitu fitur bayar belakangan dari ShopeePay, di luar aplikasi Shopee.",
+   "Selain voucher makan, ShopeePay juga menawarkan potongan harga 60 persen untuk transaksi QRIS, yakni metode pembayaran dengan kode batang yang dipakai di banyak toko, selama pembayarannya memakai SPayLater sebagai sumber dana. Diskon ini berlaku di sejumlah gerai seperti Alfamart, Indomaret, Boost Juice, MR DIY, dan SPBU Vivo. Di luar itu, tersedia pula potongan harga sampai 90 persen untuk kebutuhan harian dan layanan lain yang dijual di aplikasi.",
+   "President Director ShopeePay Indonesia, Eka Nilam Dari, menyatakan kampanye ini dirancang agar penawarannya sesuai dengan kebutuhan sehari-hari masyarakat, sekaligus memberi nilai tambah dari setiap transaksi yang dilakukan lewat aplikasi."
+  ],
+  "fotoAdegan": "A customer scanning a small QR payment code with a smartphone at a convenience store checkout counter, blurred shelves in the background",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/07/6aee70552f9b1-aplikasi-shopeepay-menghadirkan-banjir-promo-menarik-melalui-kampanye-tanggal-kembar-1111_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar diskon musiman biasa, melainkan sasaran yang dipersempit: dari 40.000 kuota voucher KFC, yang pasti kebagian hanya pengguna yang belum pernah memakai SPayLater, fitur bayar belakangan ShopeePay, di luar aplikasi Shopee. Pola ini menunjukkan kampanye 11.11 dipakai juga untuk menarik pengguna baru layanan paylater tersebut, bukan cuma mempertahankan pengguna lama. Yang kena dampak langsung adalah pengguna ShopeePay dan merchant mitra seperti Alfamart, Indomaret, MR DIY, SPBU Vivo, serta gerai ayam goreng yang jadi mitra voucher. Berita ini belum menyebutkan angka pengguna SPayLater sebelumnya atau target pertumbuhan dari kampanye ini, jadi belum bisa dipastikan seberapa besar strategi ini mendongkrak basis penggunanya. Yang perlu dicermati adalah apakah ShopeePay merilis data transaksi atau pertumbuhan pengguna baru setelah kampanye ini tutup pada 15 November 2026.",
+  "imageV": "mw5sryny"
+ },
+ {
   "slug": "sbat-dinyatakan-pailit-auditor-beri-opini-disclaimer",
   "category": "Aksi Korporasi",
   "title": "SBAT Dinyatakan Pailit, Auditor Beri Opini [Disclaimer]",

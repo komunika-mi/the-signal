@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-jadi-rp2-545-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.545.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp20.000 menjadi Rp2.545.000 per gram pada Jumat, sementara harga buyback juga turun ke Rp2.350.000 per gram.",
+  "date": "7 November 2026",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-545-000-per-gram.jpg",
+  "imageV": "mw5sry8a",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "antam",
+   "buyback emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477066-saatnya-beli-untuk-investasi-harga-emas-antam-hari-ini-7-november-2026-turun-jadi-rp2545000-per-gram"
+ },
+ {
+  "slug": "shopeepay-gelar-promo-11-11-kfc-rp11-ribu-hingga-saldo-kaget",
+  "category": "Teknologi",
+  "title": "ShopeePay Gelar Promo [11.11], KFC Rp11 Ribu hingga Saldo Kaget",
+  "deck": "ShopeePay membuka kampanye diskon 11.11 pada 6-15 November 2026, mencakup paket ayam goreng Rp11.000, potongan 60 persen lewat SPayLater, dan saldo kejutan harian.",
+  "date": "7 November 2026",
+  "image": "assets/img/shopeepay-gelar-promo-11-11-kfc-rp11-ribu-hingga-saldo-kaget.jpg",
+  "imageV": "mw5sryny",
+  "tags": [
+   "ShopeePay",
+   "11.11",
+   "SPayLater",
+   "promo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477052-siap-siap-berburu-promo-di-aplikasi-shopeepay-1111-kfc-rp11-ribu-hingga-saldo-kaget-setiap-hari-menanti"
+ },
+ {
   "slug": "sbat-dinyatakan-pailit-auditor-beri-opini-disclaimer",
   "category": "Aksi Korporasi",
   "title": "SBAT Dinyatakan Pailit, Auditor Beri Opini [Disclaimer]",
@@ -6426,38 +6460,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101215039-65652-0/FinancialStatement-2026-III-ASHA.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "indr-bukukan-laba-us-12-7-juta-berbalik-dari-rugi-tahun-lalu",
-  "category": "Aksi Korporasi",
-  "title": "INDR Bukukan Laba US$12,7 Juta, [Berbalik] dari Rugi Tahun Lalu",
-  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan Indo-Rama Synthetics membalik rugi US$10,5 juta tahun lalu menjadi laba US$12,7 juta, didorong lonjakan laba kotor.",
-  "date": "1 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDR",
-   "laporan keuangan",
-   "tekstil",
-   "laba kuartalan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261101205125-65609-0/FinancialStatement-2026-III-INDR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-gelar-smexpo-bekasi-bidik-transaksi-rp2-5-m",
-  "category": "UMKM",
-  "title": "Pertamina Gelar SMEXPO Bekasi, Bidik Transaksi [Rp2,5 M]",
-  "deck": "Pertamina Foundation menggelar SMEXPO Regional Bekasi 2026 dengan konsep ritel modern, menampilkan 50 UMKM terpilih dari 8.000 pendaftar dan target transaksi Rp2,5 miliar.",
-  "date": "1 November 2026",
-  "image": "assets/img/pertamina-gelar-smexpo-bekasi-bidik-transaksi-rp2-5-m.jpg",
-  "imageV": "mvxzz90d",
-  "tags": [
-   "Pertamina",
-   "UMKM",
-   "Bekasi",
-   "SMEXPO"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476081-bukan-sekadar-pameran-pertamina-smexpo-2026-di-bekasi-hadirkan-konsep-belanja-ala-ritel-modern-bagi-umkm"
  }
 ];

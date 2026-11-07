@@ -1093,6 +1093,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "amor-setujui-rencana-refloat-5-08-juta-saham-buyback",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Setujui Rencana [Refloat] 5,08 Juta Saham Buyback",
+  "deck": "RUPST AMOR menyetujui pengalihan maksimal 5.084.827 saham hasil buyback secara bertahap dari 10 November 2026 hingga 31 Oktober 2027.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMOR",
+   "RUPST",
+   "buyback saham",
+   "Ashmore Asset Management"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a1b28714a_21fb2a4176.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "live-jawab-permintaan-bei-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "LIVE Jawab Permintaan BEI soal [Volatilitas] Saham",
@@ -1237,6 +1253,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rdtx-setujui-stock-split-1-20-saham-beredar-ke-5-37-miliar",
+  "category": "Aksi Korporasi",
+  "title": "RDTX Setujui [Stock Split] 1:20, Saham Beredar ke 5,37 Miliar",
+  "deck": "RUPSLB Roda Vivatex pada 4 November 2026 menyetujui pemecahan saham 1 banding 20, nilai nominal turun dari Rp500 menjadi Rp25 per saham.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RDTX",
+   "stock split",
+   "RUPSLB",
+   "Roda Vivatex"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eb116e33a7_46472931c7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "scco-ganti-anggota-komite-audit-ketua-tetap-dewan-nyoman",
+  "category": "Aksi Korporasi",
+  "title": "SCCO Ganti [Anggota] Komite Audit, Ketua Tetap Dewan Nyoman",
+  "deck": "Efektif 5 November 2026, Supreme Cable Manufacturing & Commerce mengganti satu anggota komite audit, sementara ketua komite tidak berubah.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SCCO",
+   "komite audit",
+   "tata kelola perusahaan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ece1035318_c20415c47e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "avia-direksi-beli-10-juta-saham-rp2-93-miliar",
   "category": "Aksi Korporasi",
   "title": "AVIA: Direksi [Beli] 10 Juta Saham Rp2,93 Miliar",
@@ -1267,6 +1315,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
   "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "kebakaran-landa-menara-pendingin-pabrik-oppm-tak-ganggu-produksi",
+  "category": "Aksi Korporasi",
+  "title": "Kebakaran Landa [Menara Pendingin] Pabrik OPPM, Tak Ganggu Produksi",
+  "deck": "Kebakaran terjadi di sebagian unit menara pendingin pabrik OPPM pada 3 November 2026, berhasil dikendalikan dalam dua jam tanpa korban jiwa.",
+  "date": "6 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OPPM",
+   "kebakaran pabrik",
+   "pulp dan kertas",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d5e82e18fc_5609fe8ccd.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pertumbuhan-uang-primer-bi-oktober-melambat-jadi-7-0-persen",
@@ -6397,70 +6461,6 @@ var ARTICLES = [
    "holding investasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162655-65229-0/FinancialStatement-2026-III-LPPS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "liabilitas-spma-naik-33-dipicu-beli-lahan-dan-utang-bank",
-  "category": "Aksi Korporasi",
-  "title": "Liabilitas [SPMA] Naik 33%, Dipicu Beli Lahan dan Utang Bank",
-  "deck": "Suparma Tbk menjelaskan kenaikan liabilitas 33 persen akibat pinjaman pihak berelasi untuk beli lahan, kenaikan utang bank BRI, dan pelemahan rupiah yang membebani utang dolar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SPMA",
-   "liabilitas",
-   "Suparma Tbk",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1d82c304ad_e5a7e976f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dlta-catat-laba-naik-5-9-di-sembilan-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "DLTA Catat Laba [Naik] 5,9% di Sembilan Bulan 2026",
-  "deck": "Penjualan Delta Djakarta naik 16,6 persen dan laba bersih naik 5,9 persen dalam sembilan bulan 2026, sementara dividen besar menekan ekuitas dan kas perusahaan.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DLTA",
-   "Delta Djakarta",
-   "laporan keuangan",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162526-65538-0/FinancialStatement-2026-III-DLTA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ssms-bagikan-dividen-interim-rp52-49-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "SSMS Bagikan [Dividen] Interim Rp52,49 per Saham",
-  "deck": "SSMS akan membagikan dividen interim Rp500 miliar atau Rp52,49 per saham, dengan recording date 12 November dan pembayaran 2 Desember 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SSMS",
-   "dividen",
-   "pasar modal",
-   "emiten sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/01d2b4b0cb_780be6a086.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nice-perpanjang-fasilitas-kredit-citibank-rp100-miliar",
-  "category": "Aksi Korporasi",
-  "title": "NICE Perpanjang Fasilitas Kredit [Citibank] Rp100 Miliar",
-  "deck": "Adhi Kartiko Pratama memperpanjang fasilitas kredit Rp100 miliar dari Citibank N.A. satu tahun lagi, dengan suku bunga baru mengacu INDONIA plus 1,25 persen per tahun.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICE",
-   "transaksi material",
-   "Citibank",
-   "fasilitas kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/efa72323dc_4b65cfabb4.pdf",
   "sourceLabel": "IDX"
  }
 ];

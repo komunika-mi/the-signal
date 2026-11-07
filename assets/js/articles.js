@@ -1756,6 +1756,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "amor-setujui-rencana-refloat-5-08-juta-saham-buyback",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Setujui Rencana [Refloat] 5,08 Juta Saham Buyback",
+  "deck": "RUPST AMOR menyetujui pengalihan maksimal 5.084.827 saham hasil buyback secara bertahap dari 10 November 2026 hingga 31 Oktober 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T15:24:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a1b28714a_21fb2a4176.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "RUPST",
+   "buyback saham",
+   "Ashmore Asset Management"
+  ],
+  "body": [
+   "PT Ashmore Asset Management Indonesia Tbk (AMOR) menggelar Rapat Umum Pemegang Saham Tahunan pada Rabu, 4 November 2026, secara virtual lewat sistem eASY.KSEI. Rapat dihadiri pemegang saham yang mewakili 2.022.815.000 saham atau 92,2 persen dari seluruh saham dengan hak suara yang sah. Tidak ada pertanyaan atau pendapat yang diajukan pemegang saham selama rapat berlangsung.",
+   "Pemegang saham menyetujui laporan tahunan dan laporan keuangan untuk tahun buku yang berakhir 30 Juni 2026, sekaligus memberikan pembebasan tanggung jawab penuh kepada jajaran direksi dan komisaris atas tindakan pengurusan selama periode tersebut. RUPST juga menunjuk kembali Kantor Akuntan Publik Purwanto, Susanti dan Surja (Ernst & Young) sebagai auditor untuk tahun buku 2026/2027, serta mendelegasikan penetapan gaji dan tunjangan direksi dan komisaris tahun buku 2027 kepada Dewan Komisaris. Pada agenda delegasi remunerasi ini, 300 saham menyatakan tidak setuju dari total suara yang hadir.",
+   "Agenda yang lebih konkret bagi struktur pemegang saham adalah persetujuan rencana pengalihan saham hasil pembelian kembali (buyback), dengan jumlah maksimal 5.084.827 lembar saham. Pengalihan atau refloat ini akan dilakukan secara bertahap mulai 10 November 2026 hingga berakhir 31 Oktober 2027, mengacu pada POJK 29/2023 tentang Pembelian Kembali Saham yang Dikeluarkan oleh Perusahaan Terbuka. Sama seperti agenda remunerasi, agenda ini juga mendapat 300 suara tidak setuju dari total suara yang hadir, sementara sisanya menyatakan setuju.",
+   "RUPST turut menyetujui perubahan Pasal 3 anggaran dasar perseroan untuk menyesuaikan klasifikasi bidang usaha (KBLI) AMOR dengan KBLI tahun 2025, yaitu menjadi KBLI 66301 untuk manajemen investasi konvensional di pasar keuangan dan KBLI 66151 untuk aktivitas advisori investasi. Susunan direksi dan dewan komisaris perseroan tidak berubah, dengan masa jabatan seluruh anggota berlaku hingga 17 Oktober 2029."
+  ],
+  "fotoAdegan": "Modern office towers in Jakarta's SCBD financial district under soft evening light, busy street traffic below",
+  "takeaway": "Hasil RUPST ini netral bagi AMOR, karena seluruh agenda rutin disetujui dengan suara mayoritas mutlak dan rencana pelepasan kembali saham treasury porsinya kecil sehingga tidak mengubah fundamental perusahaan secara berarti. Yang tersentuh adalah jumlah saham beredar, sebab saham yang akan dialihkan berasal dari treasury stock, yaitu saham yang sebelumnya dibeli balik AMOR dan disimpan tanpa hak suara, sehingga begitu dijual lagi ke pasar jumlah saham beredar bertambah dan laba per saham tiap pemegang saham bisa sedikit terdilusi, meski dari sekitar 5,08 juta lembar berbanding total saham AMOR yang berkisar 2,19 miliar lembar, efeknya tipis. Yang perlu dipantau berikutnya adalah pelaksanaan refloat bertahap ini, yang menurut dokumen berjalan sejak 10 November 2026 sampai tenggat 31 Oktober 2027, karena harga dan waktu pelepasan rincinya belum diumumkan dalam ringkasan risalah ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "live-jawab-permintaan-bei-soal-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "LIVE Jawab Permintaan BEI soal [Volatilitas] Saham",
@@ -1990,6 +2017,57 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "rdtx-setujui-stock-split-1-20-saham-beredar-ke-5-37-miliar",
+  "category": "Aksi Korporasi",
+  "title": "RDTX Setujui [Stock Split] 1:20, Saham Beredar ke 5,37 Miliar",
+  "deck": "RUPSLB Roda Vivatex pada 4 November 2026 menyetujui pemecahan saham 1 banding 20, nilai nominal turun dari Rp500 menjadi Rp25 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T13:36:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eb116e33a7_46472931c7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RDTX",
+  "tags": [
+   "RDTX",
+   "stock split",
+   "RUPSLB",
+   "Roda Vivatex"
+  ],
+  "body": [
+   "Roda Vivatex Tbk (RDTX) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 4 November 2026 yang dihadiri pemegang saham mewakili 202.308.705 saham, atau 75,2637 persen dari total saham dengan hak suara sah. Rapat secara bulat menyetujui pemecahan nilai nominal saham (stock split) dengan rasio 1 banding 20, tanpa ada suara menolak maupun abstain. Nilai nominal saham turun dari Rp500 menjadi Rp25 per saham.",
+   "Dengan stock split ini, jumlah saham dalam modal dasar perseroan naik dari 560.000.000 saham menjadi 11.200.000.000 saham, namun total nilai modal dasar tetap Rp280 miliar. Adapun saham yang telah diterbitkan dan disetor penuh bertambah dari 268.800.000 saham menjadi 5.376.000.000 saham, dengan total nilai nominal yang juga tetap, yakni Rp134,4 miliar. Perubahan ini sekaligus mengubah Pasal 4 ayat 1 dan 2 Anggaran Dasar perseroan mengenai struktur modal. Direksi diberi kuasa untuk mengatur tata cara dan jadwal pelaksanaan stock split serta melaporkannya ke instansi berwenang.",
+   "Rapat tidak mengubah susunan Direksi dan Dewan Komisaris. Wiriady Widjaja tetap menjabat Direktur Utama dan Karta Widjaja sebagai Direktur, sementara Herrijanto Widjaja tetap Komisaris Utama, Lilik Erika sebagai Komisaris, dan Irene Kusumo sebagai Komisaris Independen. Seluruh jabatan tersebut berlaku hingga 24 Juni 2029."
+  ],
+  "fotoAdegan": "Rolls of woven textile fabric stacked on racks inside a large industrial weaving mill, workers checking machinery",
+  "takeaway": "Aksi ini netral bagi fundamental RDTX, karena stock split hanya memecah unit saham tanpa menambah modal baru atau mengubah nilai total ekuitas perseroan. Pos yang tersentuh adalah jumlah saham beredar, yang melonjak 20 kali lipat dari 268,8 juta menjadi 5,376 miliar saham, dan otomatis membuat laba per saham terlihat lebih kecil secara nominal meski porsi kepemilikan setiap pemegang saham tidak berubah. Tujuan umum langkah semacam ini biasanya untuk membuat harga per saham lebih terjangkau sehingga transaksi di pasar bisa lebih ramai. Yang perlu dipantau selanjutnya adalah jadwal pelaksanaan stock split yang akan ditetapkan Direksi, termasuk tanggal efektif pencatatan saham baru di Bursa Efek Indonesia, karena dokumen ini belum menyebutkan tanggalnya secara pasti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "scco-ganti-anggota-komite-audit-ketua-tetap-dewan-nyoman",
+  "category": "Aksi Korporasi",
+  "title": "SCCO Ganti [Anggota] Komite Audit, Ketua Tetap Dewan Nyoman",
+  "deck": "Efektif 5 November 2026, Supreme Cable Manufacturing & Commerce mengganti satu anggota komite audit, sementara ketua komite tidak berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T13:21:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ece1035318_c20415c47e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SCCO",
+  "tags": [
+   "SCCO",
+   "komite audit",
+   "tata kelola perusahaan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Supreme Cable Manufacturing & Commerce Tbk (SCCO) menyampaikan keterbukaan informasi mengenai perubahan susunan Komite Audit yang berlaku efektif 5 November 2026. Berdasarkan surat bernomor 043/CS-OJK/XI/2026 yang ditandatangani Corporate Secretary Risti Saka pada 6 November 2026, jabatan Ketua Komite Audit tetap dipegang Prof. Dr. Ir. Dewan Nyoman Adnyana, yang menjalani periode pertamanya di posisi tersebut.",
+   "Perubahan terjadi di kursi anggota. Neny Mustika Suseno tidak lagi tercatat sebagai anggota komite audit, dan posisinya diisi oleh Adiwinata. Sementara itu, kursi anggota yang sebelumnya dijabat Adiwinata kini diisi oleh Efrinal. Dengan susunan baru ini, Komite Audit SCCO beranggotakan Dewan Nyoman Adnyana sebagai ketua, serta Adiwinata dan Efrinal sebagai anggota, masing-masing memasuki periode jabatan pertama mereka."
+  ],
+  "fotoAdegan": "Workers inspecting large spools of industrial cable on a factory floor, overhead cranes, bright industrial lighting",
+  "takeaway": "Perubahan ini netral bagi SCCO karena hanya mengganti satu dari dua kursi anggota, sementara ketua komite tidak berubah sehingga tidak ada indikasi gejolak tata kelola. Komite audit adalah organ yang bertugas mengawasi proses audit dan kewajaran laporan keuangan perusahaan sebelum disampaikan ke publik, sehingga pergantian anggotanya diperhatikan pasar sebagai bagian dari kualitas pengawasan, meski tidak langsung menyentuh pos keuangan seperti ekuitas atau laba per saham. Yang perlu dipantau selanjutnya adalah apakah susunan baru ini akan diratifikasi dalam RUPS mendatang dan bagaimana opini komite audit terhadap laporan keuangan interim atau tahunan SCCO berikutnya, sebagai uji pertama kinerja anggota baru.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "avia-direksi-beli-10-juta-saham-rp2-93-miliar",
   "category": "Aksi Korporasi",
   "title": "AVIA: Direksi [Beli] 10 Juta Saham Rp2,93 Miliar",
@@ -2040,6 +2118,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Secara tahunan jumlah pencari kerja relatif terhadap angkatan kerja sedikit berkurang, meski dalam setengah tahun terakhir sedikit naik.",
   "bpsIndikator": "pengangguran"
+ },
+ {
+  "slug": "kebakaran-landa-menara-pendingin-pabrik-oppm-tak-ganggu-produksi",
+  "category": "Aksi Korporasi",
+  "title": "Kebakaran Landa [Menara Pendingin] Pabrik OPPM, Tak Ganggu Produksi",
+  "deck": "Kebakaran terjadi di sebagian unit menara pendingin pabrik OPPM pada 3 November 2026, berhasil dikendalikan dalam dua jam tanpa korban jiwa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 November 2026",
+  "isoDate": "2026-11-06T11:40:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d5e82e18fc_5609fe8ccd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OPPM",
+  "tags": [
+   "OPPM",
+   "kebakaran pabrik",
+   "pulp dan kertas",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT OKI Pulp & Paper Mills (OPPM) melaporkan kebakaran pada sebagian unit menara pendingin (cooling tower) di fasilitas pabriknya pada Selasa, 3 November 2026, sekitar pukul 20.00 WIB. Tim pemadam kebakaran internal perusahaan bersama karyawan segera menangani kejadian tersebut, dan api berhasil dikendalikan sekitar pukul 22.00 WIB, sekitar dua jam setelah kebakaran muncul. Tidak ada korban jiwa maupun luka-luka dalam insiden ini.",
+   "Saat kebakaran terjadi, pabrik sedang dalam kondisi berhenti beroperasi sementara untuk kegiatan perawatan terjadwal, sehingga insiden ini tidak mengganggu jadwal produksi perseroan. Penyebab kebakaran masih dalam penelusuran. Perseroan menyatakan sedang menyiapkan unit menara pendingin cadangan agar operasional pabrik dapat kembali normal setelah kegiatan perawatan selesai.",
+   "Besarnya kerugian akibat kebakaran ini belum diketahui secara pasti. Perseroan menyebutkan bahwa pabrik dan seluruh asetnya telah diasuransikan, dan klaim saat ini masih dalam proses penanganan oleh pihak asuransi terkait. Dalam laporan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia yang ditandatangani Direktur Arman Dwiartono, perseroan menyatakan insiden ini tidak berdampak signifikan terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Industrial cooling towers at a large pulp and paper mill, faint steam rising against an overcast sky, perimeter fencing in the foreground",
+  "takeaway": "Kami menilai laporan ini netral bagi OPPM, karena kebakarannya memang nyata tapi dampaknya tampak terbatas: tidak ada korban, bertepatan dengan jadwal perawatan pabrik yang sudah ditutup sementara, dan asetnya sudah diasuransikan. Yang tersentuh di sini adalah beban pemeliharaan aset pabrik dan kemungkinan arus kas masuk dari klaim asuransi, sebab kalau klaim disetujui, sebagian biaya perbaikan bisa tertutup tanpa menggerus kas perusahaan sendiri. Tapi ada juga risiko biaya tambahan di luar rencana kalau pemasangan unit menara pendingin cadangan butuh dana yang tidak sepenuhnya ditanggung asuransi. Yang perlu dipantau selanjutnya adalah hasil penyelidikan soal penyebab kebakaran dan kelanjutan proses klaim asuransi, karena perseroan belum memberi tenggat waktu pasti kapan unit cadangan itu akan terpasang dan pabrik kembali beroperasi penuh.",
+  "sentimen": "netral"
  },
  {
   "slug": "pertumbuhan-uang-primer-bi-oktober-melambat-jadi-7-0-persen",

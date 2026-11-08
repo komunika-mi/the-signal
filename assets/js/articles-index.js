@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-buka-diskon-tiket-transportasi-nataru-2026-2027",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Buka Diskon Tiket Transportasi [Nataru] 2026/2027",
+  "deck": "Diskon tarif kereta api, kapal laut, penyeberangan, dan pesawat untuk libur Nataru 2026/2027 resmi berjalan, berdasarkan SKB tiga menteri dan aturan PPN ditanggung pemerintah untuk tiket pesawat.",
+  "date": "8 November 2026",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "tags": [
+   "Diskon Transportasi",
+   "Nataru 2026",
+   "BUMN Transportasi",
+   "PPN DTP"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7206/sambut-libur-natal-dan-tahun-baru-pemerintah-luncurkan-stimulus-diskon-transportasi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026",
   "category": "UMKM",
   "title": "857 UMK Binaan Pertamina [Lolos] ke Tahap Nasional 2026",
@@ -3852,7 +3868,7 @@ var ARTICLES = [
   "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
   "deck": "Surplus dagang Indonesia September 2026 menyusut tipis ke US$3,36 miliar akibat defisit migas melebar, sementara ekspor dan impor sama-sama tumbuh dua digit secara tahunan.",
   "date": "3 November 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -5264,7 +5280,7 @@ var ARTICLES = [
   "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",
   "deck": "Inflasi Oktober 2026 terjaga di 3,23 persen, neraca dagang September surplus US$3,36 miliar tiga bulan beruntun, dan PMI manufaktur naik ke 54,0, ekspansi tertinggi sejak Maret 2024.",
   "date": "2 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "inflasi",
    "neraca dagang",
@@ -5603,7 +5619,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober [Melandai], Tiket Pesawat Naik",
   "deck": "Inflasi tahunan Oktober 2026 turun jadi 3,23 persen, tapi harga cabai dan tarif pesawat domestik kelas ekonomi justru naik.",
   "date": "2 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "inflasi",
    "harga pangan",
@@ -5619,7 +5635,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI [Berlanjut] tapi Tipis ke US$3,36 Miliar",
   "deck": "Neraca dagang Indonesia surplus US$3,36 miliar pada September 2026, melanjutkan tren positif Agustus meski nilainya mengecil dari US$3,55 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
+  "image": "assets/img/timbangan-pasar.jpg",
   "tags": [
    "neraca dagang",
    "ekspor",
@@ -6445,22 +6461,6 @@ var ARTICLES = [
    "holding company"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162838-64451-0/FinancialStatement-2026-III-DEFI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lpps-catat-rugi-rp230-9-miliar-aset-susut-42-9",
-  "category": "Aksi Korporasi",
-  "title": "LPPS Catat [Rugi] Rp230,9 Miliar, Aset Susut 42,9%",
-  "deck": "Ekuitas PT Lenox Pasifik Investama (LPPS) tergerus hampir separuh jadi Rp591,6 miliar akibat kerugian besar dari investasi pada entitas asosiasi dan penurunan nilai portofolio efek.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPS",
-   "laporan keuangan interim",
-   "rugi bersih",
-   "holding investasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162655-65229-0/FinancialStatement-2026-III-LPPS.pdf",
   "sourceLabel": "IDX"
  }
 ];

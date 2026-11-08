@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "raja-akuisisi-90-saham-knj-rambah-bisnis-kapal-gas",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Akuisisi 90% Saham KNJ, Rambah Bisnis [Kapal Gas]",
+  "deck": "Anak usaha RAJA, PT Banawa Rezeki Optima, mengambil alih 90 persen saham PT Kapalindo Nusantara Jaya yang memegang saham di perusahaan pemilik kapal LNG Carrier dan VLGC.",
+  "date": "8 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAJA",
+   "akuisisi",
+   "kapal gas",
+   "diversifikasi usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7911b01de1_9d1f8b195b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "raja-raih-fasilitas-pembiayaan-syariah-rp250-m-dari-maybank",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Raih [Fasilitas] Pembiayaan Syariah Rp250 M dari Maybank",
+  "deck": "Rukun Raharja dan enam anak usahanya menandatangani perjanjian fasilitas pembiayaan musyarakah dengan Bank Maybank Indonesia senilai Rp250 miliar, berlaku 12 bulan.",
+  "date": "8 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAJA",
+   "Rukun Raharja",
+   "Maybank Indonesia",
+   "pembiayaan syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/42e556a12d_0c7749b632.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "endri-supriatna-juara-kompetisi-memasak-bright-gas-2026",
   "category": "BUMN",
   "title": "Endri Supriatna [Juara] Kompetisi Memasak Bright Gas 2026",
@@ -6434,38 +6466,6 @@ var ARTICLES = [
    "kosmetik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102165016-65460-0/FinancialStatement-2026-III-MRAT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msin-kas-anjlok-81-arus-kas-operasi-negatif-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "MSIN: Kas Anjlok 81%, [Arus Kas] Operasi Negatif Kuartal III",
-  "deck": "Laporan keuangan interim kuartal III 2026 MSIN menunjukkan kas turun dari Rp689 miliar jadi Rp129 miliar, sementara arus kas dari operasi berbalik jadi negatif Rp156 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSIN",
-   "laporan keuangan",
-   "arus kas",
-   "MNC Digital Entertainment"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102164209-65328-0/FinancialStatement-2026-III-MSIN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "futr-catat-rugi-bersih-rp7-75-miliar-pendapatan-susut-64",
-  "category": "Aksi Korporasi",
-  "title": "FUTR Catat [Rugi] Bersih Rp7,75 Miliar, Pendapatan Susut 64%",
-  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan Futura Energi Global berbalik rugi Rp7,75 miliar setelah pendapatannya turun 64 persen dibanding periode sama tahun lalu.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FUTR",
-   "laporan keuangan",
-   "rugi bersih",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102164424-65663-0/FinancialStatement-2026-III-FUTR.pdf",
   "sourceLabel": "IDX"
  }
 ];

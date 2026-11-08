@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "raja-akuisisi-90-saham-knj-rambah-bisnis-kapal-gas",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Akuisisi 90% Saham KNJ, Rambah Bisnis [Kapal Gas]",
+  "deck": "Anak usaha RAJA, PT Banawa Rezeki Optima, mengambil alih 90 persen saham PT Kapalindo Nusantara Jaya yang memegang saham di perusahaan pemilik kapal LNG Carrier dan VLGC.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 November 2026",
+  "isoDate": "2026-11-08T23:13:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7911b01de1_9d1f8b195b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAJA",
+  "tags": [
+   "RAJA",
+   "akuisisi",
+   "kapal gas",
+   "diversifikasi usaha"
+  ],
+  "body": [
+   "PT Rukun Raharja Tbk (RAJA) melaporkan bahwa anak usahanya, PT Banawa Rezeki Optima (BRO), yang dimiliki 99,99 persen oleh perseroan, mengambil alih 90 persen saham PT Kapalindo Nusantara Jaya (KNJ) pada 4 November 2026. Saham itu dibeli dari dua pemegang saham KNJ, yaitu Abdul Rahmad Bahmid dan Aqib Bachmid, melalui dua akta jual beli saham nomor 5 dan nomor 6 yang diteken di hadapan notaris Rini Yulianti pada tanggal yang sama. Dengan transaksi ini, BRO kini menguasai 90 persen dari seluruh modal ditempatkan dan disetor KNJ.",
+   "KNJ sendiri memiliki 25 persen saham di PT Golden Prima Maritim (GPM), perusahaan yang mengoperasikan satu unit kapal LNG Carrier dan satu unit kapal Very Large Gas Carrier (VLGC), yaitu kapal tanker raksasa pengangkut gas alam cair. Lewat rangkaian kepemilikan BRO di KNJ dan KNJ di GPM ini, RAJA memperoleh jalur kepemilikan tidak langsung ke bisnis pengangkutan gas melalui dua kapal tersebut. Perseroan menegaskan tidak memiliki hubungan afiliasi dengan Abdul Rahmad Bahmid maupun Aqib Bachmid selaku penjual saham KNJ, dan menyebut transaksi ini sebagai bagian dari pengembangan bisnis, kemitraan strategis, serta rencana diversifikasi usaha perseroan ke industri infrastruktur minyak dan gas bumi.",
+   "Nilai transaksi pembelian saham KNJ tidak diungkapkan dalam laporan keterbukaan informasi ini. RAJA menyatakan akuisisi tersebut tidak menimbulkan dampak signifikan terhadap kondisi keuangan maupun kegiatan usaha perseroan."
+  ],
+  "fotoAdegan": "Large LNG carrier ship docked at an industrial port terminal, cranes and pipelines in the background, overcast daylight",
+  "takeaway": "Kami menilai laporan ini netral bagi RAJA, karena nilai transaksinya tidak diungkap dan perseroan sendiri menegaskan tidak ada dampak signifikan terhadap kondisi keuangannya. Yang tersentuh adalah arus kas perseroan, sebab pembelian 90 persen saham KNJ oleh anak usaha BRO tetap memerlukan dana tunai meski jumlahnya tidak disebut, dan uang yang dipakai untuk akuisisi berarti tidak tersedia untuk kebutuhan lain seperti ekspansi bisnis inti atau pembayaran utang. Perlu dicatat juga bahwa jalur kepemilikan RAJA ke kapal LNG Carrier dan Very Large Gas Carrier milik Golden Prima Maritim ini tidak langsung, karena KNJ sendiri hanya memegang 25 persen saham di perusahaan kapal tersebut, sehingga kontribusinya ke pendapatan RAJA kemungkinan masih kecil. Yang perlu dipantau berikutnya adalah apakah RAJA akan membuka nilai transaksi pembelian saham KNJ ini atau menjelaskan dampaknya secara lebih rinci, sebab laporan kali ini tidak menyebut nilai rupiah sama sekali dan tidak mencantumkan tenggat waktu tindak lanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "raja-raih-fasilitas-pembiayaan-syariah-rp250-m-dari-maybank",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Raih [Fasilitas] Pembiayaan Syariah Rp250 M dari Maybank",
+  "deck": "Rukun Raharja dan enam anak usahanya menandatangani perjanjian fasilitas pembiayaan musyarakah dengan Bank Maybank Indonesia senilai Rp250 miliar, berlaku 12 bulan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 November 2026",
+  "isoDate": "2026-11-08T23:05:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/42e556a12d_0c7749b632.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAJA",
+  "tags": [
+   "RAJA",
+   "Rukun Raharja",
+   "Maybank Indonesia",
+   "pembiayaan syariah"
+  ],
+  "body": [
+   "PT Rukun Raharja Tbk (RAJA) bersama enam anak usahanya menandatangani Akad Line Fasilitas Pembiayaan Musyarakah iB No. 3 pada 3 November 2026 dengan PT Bank Maybank Indonesia Tbk. Perjanjian dibuat di hadapan notaris Raden Roro Yuliana Tutiek Setia Murni di Jakarta. Enam anak usaha yang ikut menjadi debitur adalah PT Petrotech Penta Nusa, PT Triguna Internusa Pratama, PT Trimitra Cipta Mandiri, PT Artifisial Teknologi Persada, PT Majuko Utama Indonesia, dan PT Artha Prima Energy.",
+   "Berdasarkan perjanjian itu, Maybank menyediakan fasilitas pembiayaan musyarakah iB dengan limit maksimum Rp250 miliar. Musyarakah iB adalah skema pembiayaan syariah berbasis bagi hasil, bukan bunga seperti kredit bank konvensional. Fasilitas ini berlaku efektif sejak tanggal penandatanganan untuk jangka waktu 12 bulan, dan dapat diperpanjang berdasarkan peninjauan tahunan serta persetujuan Maybank.",
+   "RAJA menjelaskan transaksi ini tergolong transaksi afiliasi karena perseroan merupakan pemegang saham, baik langsung maupun tidak langsung, di keenam anak usaha tersebut. Namun perseroan menegaskan tidak memiliki hubungan afiliasi dengan Maybank, sehingga transaksi ini masuk kategori transaksi afiliasi yang dikecualikan sesuai Pasal 6 ayat (2) POJK No. 42/2020, yang berarti tidak memerlukan persetujuan terbuka dari pemegang saham independen. Perseroan menyatakan transaksi ini tidak menimbulkan dampak negatif material terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Technicians inspecting pipeline valves at an industrial gas distribution yard in Jakarta, early morning light",
+  "takeaway": "Kami menilai laporan ini netral bagi RAJA, karena yang ditandatangani baru plafon atau line fasilitas senilai Rp250 miliar, bukan dana yang sudah cair dan masuk ke kas perusahaan. Yang tersentuh baru potensi utang dan beban bagi hasil syariah, bukan beban bunga konvensional, dan keduanya baru benar-benar berpengaruh ke laporan keuangan kalau fasilitas ini nantinya ditarik dan digunakan oleh salah satu atau beberapa anak usaha. Investor perlu membedakan antara memiliki akses pembiayaan dengan benar-benar berutang, karena limit yang tidak dicairkan tidak menambah kewajiban di buku perusahaan. Yang perlu dipantau selanjutnya adalah laporan keuangan RAJA pada kuartal mendatang untuk melihat apakah fasilitas ini mulai ditarik oleh salah satu dari enam anak usaha, serta status perpanjangannya menjelang berakhirnya masa 12 bulan sekitar awal November 2027.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "endri-supriatna-juara-kompetisi-memasak-bright-gas-2026",
   "category": "BUMN",
   "title": "Endri Supriatna [Juara] Kompetisi Memasak Bright Gas 2026",

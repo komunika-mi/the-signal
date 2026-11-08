@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bayan-pastikan-penjualan-saham-ke-haji-isam-bersih",
+  "category": "Pasar Modal",
+  "title": "Bayan Pastikan Penjualan Saham ke [Haji Isam] Bersih",
+  "deck": "Direksi Bayan Resources menegaskan pengalihan lebih dari 10 miliar saham ke perusahaan Haji Isam murni bisnis, sesuai perjanjian yang diteken September 2026.",
+  "image": "assets/img/bayan-pastikan-penjualan-saham-ke-haji-isam-bersih.jpg",
+  "date": "8 November 2026",
+  "isoDate": "2026-11-08T13:01:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477228-bayan-resources-pastikan-penjualan-saham-ke-haji-isam-tanpa-tekanan",
+  "tags": [
+   "Bayan Resources",
+   "Haji Isam",
+   "BYAN",
+   "Jhonlin Baratama"
+  ],
+  "body": [
+   "Direksi PT Bayan Resources Tbk menegaskan bahwa pengalihan saham perusahaan kepada PT Jhonlin Baratama, milik pengusaha tambang Andi Syamsuddin Arsyad atau yang dikenal sebagai Haji Isam, murni transaksi bisnis biasa. Penegasan ini disampaikan Direktur Bayan, Merlin, yang mewakili pendiri sekaligus Direktur Utama Bayan, Low Tuck Kwong, dalam acara lari amal BayRun for Charity di kawasan Gelora Bung Karno, Jakarta, Minggu (8/11/2026). Pernyataan ini relevan karena menjawab pertanyaan publik soal latar belakang pelepasan saham dalam jumlah besar oleh salah satu pengusaha tambang batu bara paling senior di Indonesia kepada kelompok usaha Jhonlin.",
+   "Menurut Merlin, Low Tuck Kwong membenarkan bahwa penjualan saham tersebut berlangsung transparan dan tanpa tekanan dari pihak mana pun. Ia menambahkan, baik Low Tuck Kwong maupun Haji Isam memiliki harapan yang sama untuk terus memberikan kontribusi positif bagi Indonesia lewat kerja sama bisnis yang terjalin. Merlin juga menyebut Low Tuck Kwong sudah lama mengenal reputasi Haji Isam di sektor pertambangan dan memandang positif rekam jejaknya sebagai mitra bisnis.",
+   "Rencana pengalihan saham ini pertama kali diumumkan Bayan melalui keterbukaan informasi di Bursa Efek Indonesia pada 17 September 2026. Dalam pengumuman itu, manajemen menyebut Low Tuck Kwong bersama anaknya, Elaine Low, telah menandatangani Perjanjian Jual Beli Saham Bersyarat dengan PT Jhonlin Baratama pada 16 September 2026. Perjanjian tersebut mencakup rencana pengalihan 10.000.000.500 saham biasa BYAN, dan penyelesaian transaksinya masih bergantung pada pemenuhan sejumlah persyaratan pendahuluan yang belum dirinci ke publik."
+  ],
+  "fotoAdegan": "Bulk carrier being loaded with coal at an Indonesian port via conveyor belt, workers in hard hats, hazy humid morning",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/01/6a6d0ba0d7e69-ilustrasi-saham_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang baru di sini sebenarnya bukan transaksinya, melainkan pembelaannya: direksi Bayan sampai perlu menegaskan tidak ada tekanan, dua bulan setelah perjanjian jual beli 10.000.000.500 saham BYAN ke perusahaan Haji Isam diteken pada 16 September 2026. Jumlah saham itu sangat besar, jadi kalau transaksi ini tuntas, kendali atas salah satu perusahaan tambang batu bara terbesar Indonesia akan berpindah tangan, dan itu menyangkut langsung pemegang saham publik BYAN serta arah bisnis perusahaan ke depan. Sampai sekarang perjanjian itu masih berstatus bersyarat, artinya belum pasti terlaksana, karena sejumlah persyaratan pendahuluan belum dipenuhi dan rinciannya pun belum diungkap ke publik. Yang perlu ditunggu pembaca adalah pengumuman resmi Bayan di Bursa Efek Indonesia soal pemenuhan syarat-syarat itu dan tanggal penyelesaian transaksi, karena baru di titik itu akan jelas apakah pengalihan kendali benar-benar terjadi.",
+  "imageV": "mw7idfoe"
+ },
+ {
   "slug": "pemerintah-buka-diskon-tiket-transportasi-nataru-2026-2027",
   "category": "Makroekonomi",
   "title": "Pemerintah Buka Diskon Tiket Transportasi [Nataru] 2026/2027",
@@ -28,7 +54,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar wacana, melainkan status program ini yang sudah berjalan dengan payung hukum lengkap: SKB tiga menteri untuk kereta api, kapal, dan penyeberangan, serta aturan pajak khusus untuk tiket pesawat, dengan penjualan tiket yang sudah dibuka sejak akhir Oktober. Yang terdampak adalah masyarakat yang berencana bepergian saat libur Natal dan Tahun Baru, serta perusahaan transportasi milik negara seperti KAI, PELNI, ASDP, Garuda Indonesia, Citilink, dan Pelita Air yang menjalankan diskon tersebut. Penyebutan bahwa program ini disiapkan sejak pertengahan tahun, bersamaan dengan diskon untuk libur sekolah, mengarah ke satu pola: pemerintah mulai menjadikan diskon tarif transportasi sebagai alat rutin menjaga daya beli di setiap periode liburan panjang, bukan kebijakan yang hanya sekali dipakai. Yang masih kurang dari rilis ini adalah angka pastinya, besaran persentase diskon dan target jumlah penumpang untuk setiap moda tidak disebutkan, sehingga belum bisa dinilai seberapa besar insentif ini dibanding periode Nataru sebelumnya. Itu baru akan terlihat begitu Kementerian Perhubungan atau operator BUMN merilis rincian tarif per moda atau laporan realisasi jumlah penumpang setelah musim libur berakhir.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026",

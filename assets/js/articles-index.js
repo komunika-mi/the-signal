@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bayan-pastikan-penjualan-saham-ke-haji-isam-bersih",
+  "category": "Pasar Modal",
+  "title": "Bayan Pastikan Penjualan Saham ke [Haji Isam] Bersih",
+  "deck": "Direksi Bayan Resources menegaskan pengalihan lebih dari 10 miliar saham ke perusahaan Haji Isam murni bisnis, sesuai perjanjian yang diteken September 2026.",
+  "date": "8 November 2026",
+  "image": "assets/img/bayan-pastikan-penjualan-saham-ke-haji-isam-bersih.jpg",
+  "imageV": "mw7idfoe",
+  "tags": [
+   "Bayan Resources",
+   "Haji Isam",
+   "BYAN",
+   "Jhonlin Baratama"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477228-bayan-resources-pastikan-penjualan-saham-ke-haji-isam-tanpa-tekanan"
+ },
+ {
   "slug": "pemerintah-buka-diskon-tiket-transportasi-nataru-2026-2027",
   "category": "Makroekonomi",
   "title": "Pemerintah Buka Diskon Tiket Transportasi [Nataru] 2026/2027",
@@ -6445,22 +6462,6 @@ var ARTICLES = [
    "CFC Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/12c65ef24b_fe53158fbe.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "defi-rugi-melonjak-jadi-rp21-4-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "DEFI: Rugi [Melonjak] Jadi Rp21,4 Miliar di Kuartal III 2026",
-  "deck": "Rugi bersih Danasupra Erapacific melonjak hampir lima kali lipat dalam sembilan bulan 2026, sementara ekuitas dan laba ditahan ikut tergerus.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEFI",
-   "laporan keuangan",
-   "rugi bersih",
-   "holding company"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102162838-64451-0/FinancialStatement-2026-III-DEFI.pdf",
   "sourceLabel": "IDX"
  }
 ];

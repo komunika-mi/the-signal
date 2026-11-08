@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "25K-cm2npaw",
+  "title": "Aturan Baru BSU 2026: Pekerja Gaji Atas Rp3,5 Juta Bisa Dapat Subsidi",
+  "category": "Ketenagakerjaan",
+  "program": "OneNews Update",
+  "summary": "Pekerja dengan gaji di atas Rp3,5 juta disebut masih berpeluang memenuhi syarat sebagai penerima Bantuan Subsidi Upah atau BSU 2026 berdasarkan aturan terbaru dari pemerintah.",
+  "takeaway": "Informasi ini relevan bagi pekerja yang ingin memastikan kelayakan mereka menerima subsidi upah tahun depan.",
+  "terbit": "2026-11-08T09:30:07+00:00"
+ },
+ {
+  "id": "zh2MBG9HTj0",
+  "title": "Pemerintah Luncurkan Program Gentengisasi dan Kredit Rumah",
+  "category": "Bisnis",
+  "program": "AKAP tvOne",
+  "summary": "Kementerian Perumahan dan Kawasan Permukiman memulai program gentengisasi dengan mengirim 2,4 juta genteng ke sejumlah daerah, disertai skema kredit rumah bagi masyarakat.",
+  "takeaway": "Program ini menyangkut kebijakan pembiayaan perumahan yang berdampak pada sektor perbankan dan industri material bangunan.",
+  "terbit": "2026-11-08T09:29:21+00:00"
+ },
+ {
   "id": "UEy6H7kTbfI",
   "title": "KDMP Desa Kembang Dorong Pemberdayaan Petani Lokal",
   "category": "UMKM",

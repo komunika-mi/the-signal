@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-didorong-ambil-peran-strategis-jelang-ktt-apec-2026",
+  "category": "Global",
+  "title": "RI Didorong Ambil Peran [Strategis] Jelang KTT APEC 2026",
+  "deck": "Forum diskusi Indonesia-Tiongkok mendorong RI tak sekadar jadi penerima investasi, tapi ikut merancang kerja sama ekonomi menjelang KTT APEC 2026 di Shenzhen.",
+  "image": "assets/img/ri-didorong-ambil-peran-strategis-jelang-ktt-apec-2026.jpg",
+  "date": "8 November 2026",
+  "isoDate": "2026-11-08T15:26:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477242-indonesia-didorong-ambil-peran-ekonomi-strategis-jelang-ktt-apec-2026",
+  "tags": [
+   "APEC 2026",
+   "Indonesia-Tiongkok",
+   "Shenzhen",
+   "nikel"
+  ],
+  "body": [
+   "Sejumlah akademisi dan pelaku usaha menilai Indonesia perlu mengambil posisi yang lebih aktif dalam merancang arah kerja sama ekonomi kawasan, bukan hanya menjadi penonton di tengah ketatnya persaingan global. Pandangan ini disampaikan dalam diskusi bertajuk hubungan Indonesia-Tiongkok yang digelar Sino-Nusantara Institute bersama The Indonesia Friends of Silk Road Club, menjelang Konferensi Tingkat Tinggi APEC yang akan berlangsung di Shenzhen, Tiongkok, pada 18-19 November 2026.",
+   "Direktur Sino-Nusantara Institute, Ahmad Syaifuddin Zuhri, memaparkan gagasan utama yang muncul dari forum tersebut, yaitu pendekatan yang disebut co-creation. Intinya, Indonesia didorong tidak sekadar menerima aliran investasi dari Tiongkok, tetapi turut dilibatkan dalam proses menciptakan teknologi dan nilai tambah ekonominya sendiri. Salah satu wujud konkretnya adalah penjajakan kerja sama antara sejumlah perguruan tinggi di Semarang dengan industri Tiongkok untuk membuka pusat pelatihan tenaga kerja, dengan skema pelatihan selama tiga sampai enam bulan.",
+   "Diskusi ini melibatkan sekitar 30 peserta, mulai dari kalangan akademisi, Pengusaha Indonesia Tionghoa Jawa Tengah, Perserikatan Organisasi Indonesia Tionghoa, hingga perwakilan Dinas Perindustrian dan Perdagangan Provinsi Jawa Tengah serta Dinas Perdagangan Kota Semarang. Zuhri mengatakan masukan dari forum ini diharapkan dirumuskan menjadi bahan rekomendasi kebijakan bagi pemerintah Indonesia dalam menghadapi KTT APEC 2026.",
+   "Dalam forum yang sama, peneliti Badan Riset dan Inovasi Nasional, Saiful Hakam, membahas posisi tawar Indonesia serta potensi industri nikel dan kendaraan listrik sebagai salah satu modal strategis di tengah hubungan dagang dengan Tiongkok."
+  ],
+  "fotoAdegan": "Vocational trainees in matching overalls practicing machine assembly inside an industrial training workshop in Central Java, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/08/6af0319d645f9-focus-group-discussion-fgd-bertema-apec-2026-shenzhen-dan-masa-depan-indonesiationgkok-menavigasi-peluang-di-tengah-ketidakpastian-global-di-semarang-jumat-611_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang benar-benar konkret dari forum ini baru dua hal, yakni gagasan supaya Indonesia tidak sekadar menerima investasi Tiongkok tetapi juga ikut menciptakan teknologi dan nilai tambahnya sendiri, dan rencana kerja sama kampus di Semarang dengan industri Tiongkok untuk membuka pusat pelatihan kerja selama tiga sampai enam bulan. Pihak yang berpotensi terdampak adalah kampus dan calon tenaga kerja di Semarang yang bisa mengikuti pelatihan itu, pengusaha keturunan Tionghoa di Jawa Tengah, serta sektor nikel dan kendaraan listrik yang disebut jadi salah satu kartu tawar Indonesia ke Tiongkok. Yang masih kurang untuk bisa menilai ke mana ini bergerak adalah apakah masukan forum ini benar-benar diadopsi jadi sikap resmi pemerintah menjelang KTT APEC di Shenzhen pada 18-19 November 2026, dan apakah rencana pusat pelatihan di Semarang itu naik ke tahap kesepakatan konkret dengan industri Tiongkok, bukan sekadar wacana dalam satu forum diskusi.",
+  "imageV": "mw7obzpz"
+ },
+ {
+  "slug": "ri-klaim-dua-tahun-tanpa-impor-beras-di-krisis-pangan-global",
+  "category": "Makroekonomi",
+  "title": "RI Klaim [Dua] Tahun Tanpa Impor Beras di Krisis Pangan Global",
+  "deck": "Mentan Andi Amran Sulaiman menyebut Indonesia tak impor beras dua tahun berturut-turut, di tengah krisis pangan dan energi global serta proteksionisme sejumlah negara.",
+  "image": "assets/img/ri-klaim-dua-tahun-tanpa-impor-beras-di-krisis-pangan-global.jpg",
+  "date": "8 November 2026",
+  "isoDate": "2026-11-08T15:25:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477241-dua-tahun-tanpa-impor-beras-mentan-amran-sebut-ketahanan-pangan-indonesia-terjaga-di-tengah-krisis-global",
+  "tags": [
+   "beras",
+   "pangan",
+   "impor",
+   "pertanian"
+  ],
+  "body": [
+   "Menteri Pertanian Andi Amran Sulaiman mengklaim Indonesia memasuki tahun kedua tanpa impor beras, di saat situasi pangan dunia sedang tidak baik akibat krisis pangan, krisis energi, dan tekanan geopolitik yang meningkat. Klaim ini penting karena menyangkut kemampuan negara menjaga pasokan beras bagi 286 juta penduduk tanpa bergantung pada pasokan luar negeri.",
+   "Amran menyebut ada 33 negara yang kini menerapkan kebijakan menahan stok pangan domestik mereka sendiri, sebagai antisipasi atas gangguan rantai pasok dan distribusi akibat memanasnya situasi geopolitik global. Ia menyampaikan hal itu usai melakukan kunjungan kerja ke Beijing, di mana ia bertemu dengan Menteri Pertanian China untuk membahas kerja sama menghadapi ketidakpastian ekonomi global, meski rincian hasil konkret dari pertemuan tersebut belum dijelaskan.",
+   "Di dalam negeri, Amran menyebut jajaran Kementerian Pertanian terus melakukan rapat koordinasi lintas sektor, termasuk pada hari Minggu dan dini hari, untuk memastikan ketersediaan pangan tetap terjaga. Ia menegaskan bahwa pencapaian dua tahun tanpa impor beras ini berlangsung di bawah pemerintahan Presiden Prabowo Subianto."
+  ],
+  "fotoAdegan": "Farmers harvesting rice in a green paddy field, carrying full grain sacks across muddy embankments, overcast morning sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/08/6af0306837265-menteri-pertanian-mentan-andi-amran-sulaiman-tengah-didampingi-pejabat-lainnya-memberi-keterangan-kepada-awak-media-di-jakarta-minggu-811_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini sebenarnya bukan data baru, melainkan klaim lisan Mentan bahwa Indonesia sudah dua tahun tidak impor beras, disampaikan berbarengan dengan sebutan 33 negara yang kini menahan stok pangannya sendiri. Yang berkepentingan atas klaim ini jelas: konsumen beras dalam negeri yang ingin harga dan pasokan stabil, petani padi yang produksinya jadi tumpuan klaim tersebut, serta posisi Indonesia dalam kerja sama pangan dengan China yang baru dibahas di Beijing. Yang masih kurang untuk bisa menilai ke mana arah ketahanan pangan ini sebenarnya bergerak adalah angka konkret, seperti data stok beras nasional dari Bulog atau angka produksi dari BPS, karena berita ini hanya memuat pernyataan menteri tanpa satu pun figur independen. Patut ditunggu apakah klaim ini akan dikonfirmasi lewat rilis data stok dan produksi beras resmi menjelang akhir tahun, serta hasil konkret apa yang keluar dari pembahasan dengan Menteri Pertanian China tersebut.",
+  "imageV": "mw7oc05g"
+ },
+ {
+  "slug": "bri-dorong-ekonomi-petani-alpukat-sumberejo",
+  "category": "UMKM",
+  "title": "BRI [Dorong] Ekonomi Petani Alpukat Sumberejo",
+  "deck": "Lewat program Klasterku Hidupku, BRI membantu petani alpukat di Sumberejo, Lampung, membangun jaringan pemasaran bersama hingga ke pasar induk.",
+  "image": "assets/img/bri-dorong-ekonomi-petani-alpukat-sumberejo.jpg",
+  "date": "8 November 2026",
+  "isoDate": "2026-11-08T14:30:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477236-lewat-klasterku-hidupku-bri-dorong-peningkatan-ekonomi-petani-alpukat-di-sumberejo",
+  "tags": [
+   "BRI",
+   "Klasterku Hidupku",
+   "petani alpukat",
+   "Lampung"
+  ],
+  "body": [
+   "Kebun alpukat di Kecamatan Sumberejo, Kabupaten Tanggamus, Lampung, mulai mendapat dukungan pemasaran lewat program Klasterku Hidupku milik BRI. Program ini menyasar petani alpukat setempat yang selama ini kesulitan menjual hasil panen dalam jumlah besar, terutama saat musim panen raya tiba bersamaan di banyak kebun.",
+   "Alpukat Sumberejo dikenal punya daging buah lembut dan rasa yang kaya, sehingga diminati pembeli. Masalahnya, ketika panen raya terjadi, hasil dari berbagai kebun melimpah dalam waktu yang sama, dan petani butuh jaringan pembeli yang lebih luas agar seluruh hasil panen bisa terserap pasar, bukan menumpuk tanpa pembeli.",
+   "Prayitno, salah satu penggerak kelompok tani di sana, menjadi contoh bagaimana persoalan itu diatasi dari bawah. Ia mengumpulkan hasil panen dari petani-petani di sekitarnya, lalu mendistribusikannya ke pasar induk agar menjangkau lebih banyak pembeli. \"Saya berangkat dari petani, jadi paham betul tantangannya. Petani sudah menanam, merawat, lalu ketika panen yang dipikirkan berikutnya ya bagaimana hasil ini bisa terjual dengan baik,\" katanya.",
+   "Upaya perseorangan itu kini berkembang menjadi jaringan usaha bersama antarpetani, dengan BRI memberi dukungan lewat program pemberdayaan klaster usahanya."
+  ],
+  "fotoAdegan": "Farmers sorting freshly harvested avocados into wooden crates on a hillside orchard under shade trees in Lampung",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/08/6af023fba7df3-komoditas-alpukat-angkat-taraf-hidup-petani-di-kecamatan-sumberejo_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara petani alpukat Sumberejo menjual hasil panen, dari masing-masing sendiri menjadi dikumpulkan bersama lalu didistribusikan ke pasar induk, dengan BRI masuk lewat program pembinaan klaster bernama Klasterku Hidupku. Yang terdampak jelas petani alpukat di kecamatan itu, terutama yang kesulitan menjual hasil panen saat musim panen raya karena pasokan menumpuk bersamaan. Berita ini belum menyebut berapa petani yang tergabung dalam klaster, berapa besar dukungan pembiayaan atau dana yang dikucurkan BRI, atau berapa pertumbuhan penjualan yang dicapai setelah program berjalan, padahal ringkasan awal berita menyinggung ada pertumbuhan penjualan. Tanpa angka-angka itu, belum bisa dipastikan apakah dampaknya sudah terasa luas atau masih terbatas pada satu kelompok tani. Yang perlu ditunggu adalah data resmi BRI soal jumlah klaster UMKM binaan dan hasil usahanya, biasanya dirilis lewat laporan kinerja pemberdayaan UMKM perseroan.",
+  "imageV": "mw7oc0jw"
+ },
+ {
   "slug": "bayan-pastikan-penjualan-saham-ke-haji-isam-bersih",
   "category": "Pasar Modal",
   "title": "Bayan Pastikan Penjualan Saham ke [Haji Isam] Bersih",
@@ -54,7 +134,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar wacana, melainkan status program ini yang sudah berjalan dengan payung hukum lengkap: SKB tiga menteri untuk kereta api, kapal, dan penyeberangan, serta aturan pajak khusus untuk tiket pesawat, dengan penjualan tiket yang sudah dibuka sejak akhir Oktober. Yang terdampak adalah masyarakat yang berencana bepergian saat libur Natal dan Tahun Baru, serta perusahaan transportasi milik negara seperti KAI, PELNI, ASDP, Garuda Indonesia, Citilink, dan Pelita Air yang menjalankan diskon tersebut. Penyebutan bahwa program ini disiapkan sejak pertengahan tahun, bersamaan dengan diskon untuk libur sekolah, mengarah ke satu pola: pemerintah mulai menjadikan diskon tarif transportasi sebagai alat rutin menjaga daya beli di setiap periode liburan panjang, bukan kebijakan yang hanya sekali dipakai. Yang masih kurang dari rilis ini adalah angka pastinya, besaran persentase diskon dan target jumlah penumpang untuk setiap moda tidak disebutkan, sehingga belum bisa dinilai seberapa besar insentif ini dibanding periode Nataru sebelumnya. Itu baru akan terlihat begitu Kementerian Perhubungan atau operator BUMN merilis rincian tarif per moda atau laporan realisasi jumlah penumpang setelah musim libur berakhir.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026",

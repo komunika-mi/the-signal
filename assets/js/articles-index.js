@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-didorong-ambil-peran-strategis-jelang-ktt-apec-2026",
+  "category": "Global",
+  "title": "RI Didorong Ambil Peran [Strategis] Jelang KTT APEC 2026",
+  "deck": "Forum diskusi Indonesia-Tiongkok mendorong RI tak sekadar jadi penerima investasi, tapi ikut merancang kerja sama ekonomi menjelang KTT APEC 2026 di Shenzhen.",
+  "date": "8 November 2026",
+  "image": "assets/img/ri-didorong-ambil-peran-strategis-jelang-ktt-apec-2026.jpg",
+  "imageV": "mw7obzpz",
+  "tags": [
+   "APEC 2026",
+   "Indonesia-Tiongkok",
+   "Shenzhen",
+   "nikel"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477242-indonesia-didorong-ambil-peran-ekonomi-strategis-jelang-ktt-apec-2026"
+ },
+ {
+  "slug": "ri-klaim-dua-tahun-tanpa-impor-beras-di-krisis-pangan-global",
+  "category": "Makroekonomi",
+  "title": "RI Klaim [Dua] Tahun Tanpa Impor Beras di Krisis Pangan Global",
+  "deck": "Mentan Andi Amran Sulaiman menyebut Indonesia tak impor beras dua tahun berturut-turut, di tengah krisis pangan dan energi global serta proteksionisme sejumlah negara.",
+  "date": "8 November 2026",
+  "image": "assets/img/ri-klaim-dua-tahun-tanpa-impor-beras-di-krisis-pangan-global.jpg",
+  "imageV": "mw7oc05g",
+  "tags": [
+   "beras",
+   "pangan",
+   "impor",
+   "pertanian"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477241-dua-tahun-tanpa-impor-beras-mentan-amran-sebut-ketahanan-pangan-indonesia-terjaga-di-tengah-krisis-global"
+ },
+ {
+  "slug": "bri-dorong-ekonomi-petani-alpukat-sumberejo",
+  "category": "UMKM",
+  "title": "BRI [Dorong] Ekonomi Petani Alpukat Sumberejo",
+  "deck": "Lewat program Klasterku Hidupku, BRI membantu petani alpukat di Sumberejo, Lampung, membangun jaringan pemasaran bersama hingga ke pasar induk.",
+  "date": "8 November 2026",
+  "image": "assets/img/bri-dorong-ekonomi-petani-alpukat-sumberejo.jpg",
+  "imageV": "mw7oc0jw",
+  "tags": [
+   "BRI",
+   "Klasterku Hidupku",
+   "petani alpukat",
+   "Lampung"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477236-lewat-klasterku-hidupku-bri-dorong-peningkatan-ekonomi-petani-alpukat-di-sumberejo"
+ },
+ {
   "slug": "bayan-pastikan-penjualan-saham-ke-haji-isam-bersih",
   "category": "Pasar Modal",
   "title": "Bayan Pastikan Penjualan Saham ke [Haji Isam] Bersih",
@@ -6414,54 +6465,6 @@ var ARTICLES = [
    "dividen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/30314c53e4_b06dd68374.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-rhb-sesuaikan-waran-terstruktur-medc-ikuti-dividen",
-  "category": "Aksi Korporasi",
-  "title": "DR: RHB Sesuaikan Waran Terstruktur [MEDC] Ikuti Dividen",
-  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur MEDC menyusul dividen tunai US$30 juta yang dibayar 2 Desember 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "MEDC",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b51c60fb03_c16e5d4d25.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mncn-laba-bersih-anjlok-48-jadi-rp385-miliar-di-9m26",
-  "category": "Aksi Korporasi",
-  "title": "MNCN: Laba Bersih [Anjlok] 48% Jadi Rp385 Miliar di 9M26",
-  "deck": "Laporan keuangan interim MNCN per September 2026 menunjukkan pendapatan turun 16,7 persen dan laba bersih tergerus hampir separuh dibanding periode sama tahun lalu.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MNCN",
-   "laporan keuangan",
-   "media",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102164218-64941-0/FinancialStatement-2026-III-MNCN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptsp-catat-laba-naik-14-jelang-public-expose-3-november",
-  "category": "Aksi Korporasi",
-  "title": "PTSP Catat Laba Naik 14% Jelang [Public Expose] 3 November",
-  "deck": "Pioneerindo Gourmet International (PTSP) merilis materi public expose insidentil berisi kinerja keuangan September 2026 dan rencana bisnis 2026 menjelang paparan publik.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTSP",
-   "Pioneerindo Gourmet",
-   "Public Expose",
-   "CFC Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/12c65ef24b_fe53158fbe.pdf",
   "sourceLabel": "IDX"
  }
 ];

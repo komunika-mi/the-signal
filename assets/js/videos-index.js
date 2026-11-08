@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "25K-cm2npaw",
+  "title": "Aturan Baru BSU 2026: Pekerja Gaji Atas Rp3,5 Juta Bisa Dapat Subsidi",
+  "category": "Ketenagakerjaan",
+  "program": "OneNews Update",
+  "summary": "Pekerja dengan gaji di atas Rp3,5 juta disebut masih berpeluang memenuhi syarat sebagai penerima Bantuan Subsidi Upah atau BSU 2026 berdasarkan aturan terbaru dari pemerintah.",
+  "takeaway": "Informasi ini relevan bagi pekerja yang ingin memastikan kelayakan mereka menerima subsidi upah tahun depan."
+ },
+ {
+  "id": "zh2MBG9HTj0",
+  "title": "Pemerintah Luncurkan Program Gentengisasi dan Kredit Rumah",
+  "category": "Bisnis",
+  "program": "AKAP tvOne",
+  "summary": "Kementerian Perumahan dan Kawasan Permukiman memulai program gentengisasi dengan mengirim 2,4 juta genteng ke sejumlah daerah, disertai skema kredit rumah bagi masyarakat.",
+  "takeaway": "Program ini menyangkut kebijakan pembiayaan perumahan yang berdampak pada sektor perbankan dan industri material bangunan."
+ },
+ {
   "id": "UEy6H7kTbfI",
   "title": "KDMP Desa Kembang Dorong Pemberdayaan Petani Lokal",
   "category": "UMKM",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pemerintah Indonesia memangkas ekspor gas bumi ke Singapura sebesar 31 juta kaki kubik standar per hari mulai 24 Oktober 2026.",
   "takeaway": "Berdampak pada hubungan dagang energi regional dan pendapatan ekspor gas nasional."
- },
- {
-  "id": "_24EX98CgXY",
-  "title": "Kadin Bahas Sejumlah Isu Penting Ekonomi di Rapimnas 2026",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Kadin Indonesia menggelar Rapat Pimpinan Nasional 2026 pada 29-30 Oktober di Jakarta untuk membahas penguatan ekonomi dan kerja sama dunia usaha.",
-  "takeaway": "Menjadi indikator arah kolaborasi pemerintah dan pelaku usaha dalam penguatan ekonomi nasional."
- },
- {
-  "id": "ojlE5oMRsTU",
-  "title": "Menteri Bahlil Dipanggil Presiden Prabowo Bahas Hilirisasi Industri",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Presiden Prabowo Subianto memanggil Menteri Koordinator Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia untuk membahas hilirisasi industri nasional.",
-  "takeaway": "Menyoroti arah kebijakan hilirisasi yang menjadi salah satu fokus ekonomi pemerintah saat ini."
  }
 ];

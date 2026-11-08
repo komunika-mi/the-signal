@@ -161,7 +161,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar wacana, melainkan status program ini yang sudah berjalan dengan payung hukum lengkap: SKB tiga menteri untuk kereta api, kapal, dan penyeberangan, serta aturan pajak khusus untuk tiket pesawat, dengan penjualan tiket yang sudah dibuka sejak akhir Oktober. Yang terdampak adalah masyarakat yang berencana bepergian saat libur Natal dan Tahun Baru, serta perusahaan transportasi milik negara seperti KAI, PELNI, ASDP, Garuda Indonesia, Citilink, dan Pelita Air yang menjalankan diskon tersebut. Penyebutan bahwa program ini disiapkan sejak pertengahan tahun, bersamaan dengan diskon untuk libur sekolah, mengarah ke satu pola: pemerintah mulai menjadikan diskon tarif transportasi sebagai alat rutin menjaga daya beli di setiap periode liburan panjang, bukan kebijakan yang hanya sekali dipakai. Yang masih kurang dari rilis ini adalah angka pastinya, besaran persentase diskon dan target jumlah penumpang untuk setiap moda tidak disebutkan, sehingga belum bisa dinilai seberapa besar insentif ini dibanding periode Nataru sebelumnya. Itu baru akan terlihat begitu Kementerian Perhubungan atau operator BUMN merilis rincian tarif per moda atau laporan realisasi jumlah penumpang setelah musim libur berakhir.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026",

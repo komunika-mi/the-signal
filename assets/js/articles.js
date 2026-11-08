@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "endri-supriatna-juara-kompetisi-memasak-bright-gas-2026",
+  "category": "BUMN",
+  "title": "Endri Supriatna [Juara] Kompetisi Memasak Bright Gas 2026",
+  "deck": "Endri Supriatna meraih juara pertama Bright Gas Cooking Competition 2026 Pertamina dengan kreasi kuliner nusantara di Tangerang Selatan.",
+  "image": "assets/img/endri-supriatna-juara-kompetisi-memasak-bright-gas-2026.jpg",
+  "date": "8 November 2026",
+  "isoDate": "2026-11-08T17:20:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477253-kompetisi-memasak-pertamina-bgcc-2026-tuntaskan-babak-final-angkat-tema-kuliner-nusantara",
+  "tags": [
+   "Pertamina",
+   "Bright Gas",
+   "Kuliner Nusantara",
+   "BGCC 2026"
+  ],
+  "body": [
+   "Pertamina Patra Niaga menuntaskan babak final Bright Gas Cooking Competition (BGCC) 2026 di Tangerang Selatan, Banten, pada Sabtu (7/11). Endri Supriatna keluar sebagai juara pertama, mengalahkan peserta lain yang bersaing membawakan hidangan bertema kuliner nusantara.",
+   "Tahun ini merupakan penyelenggaraan kelima BGCC, mengangkat tema \"Warisan Rasa Nusantara dari Hati\". Sebanyak 2.891 peserta mengikuti seleksi berjenjang di tiga kota, yakni Tegal, Palembang, dan Yogyakarta, sebelum menyisakan finalis yang bertanding di Tangerang Selatan. Endri, yang sebelumnya hanya menempati posisi ketiga pada babak semifinal di Palembang, tampil di final dengan hidangan yang memadukan gulai taboh dan burgo khas Palembang bersama sambal goang asal Jawa Barat.",
+   "Posisi juara kedua diraih Muhammad Azwar asal Medan, Sumatera Utara, sementara juara ketiga jatuh ke tangan Felly Sitta Mayasari asal Cikarang, Jawa Barat. Penjurian final melibatkan Chef Yudha Bustara, Chef Firhan Ashari, dan kreator konten kuliner Magdalena Fridawati, yang menilai kreativitas, teknik, serta karakter sajian peserta.",
+   "Direktur Pemasaran Ritel Pertamina Patra Niaga, Eko Ricky Susanto, menjelaskan bahwa ajang ini dirancang sebagai wadah bagi masyarakat lintas profesi, mulai dari ibu rumah tangga hingga pekerja kantoran, untuk menyalurkan hobi memasak dan mengembangkan bakat kuliner mereka."
+  ],
+  "fotoAdegan": "Several home cooks plating traditional Indonesian dishes at portable gas stoves inside a busy competition kitchen hall",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/08/6af04c41b5320-pt-pertamina-patra-niaga-mengumumkan-pemenang-kompetisi-memasak-bright-gas-cooking-competition-bgcc-2026-dalam-grand-final-di-tangerang-selatan-banten-sabtu-711_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini hanya hasil sebuah kompetisi memasak, bukan kebijakan atau angka bisnis Pertamina. BGCC adalah program milik Pertamina Patra Niaga untuk mempromosikan Bright Gas, produk gas rumah tangga non-subsidi perusahaan, dan pesertanya memang disasar dari rumah tangga serta pekerja yang hobi memasak. Berita ini tidak memuat data penjualan Bright Gas, jumlah pelanggan, atau nilai promosi ajang ini, sehingga belum bisa dibaca apakah program yang sudah lima tahun berjalan ini benar menambah pemakai gas non-subsidi Pertamina atau sekadar acara tahunan untuk mengenalkan merek. Yang perlu ditunggu bukan hasil kompetisi berikutnya, melainkan data penjualan atau pangsa pasar Bright Gas yang biasa diumumkan Pertamina Patra Niaga dalam laporan kinerja ritelnya.",
+  "imageV": "mw7tmfce"
+ },
+ {
   "slug": "ri-didorong-ambil-peran-strategis-jelang-ktt-apec-2026",
   "category": "Global",
   "title": "RI Didorong Ambil Peran [Strategis] Jelang KTT APEC 2026",
@@ -134,7 +161,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar wacana, melainkan status program ini yang sudah berjalan dengan payung hukum lengkap: SKB tiga menteri untuk kereta api, kapal, dan penyeberangan, serta aturan pajak khusus untuk tiket pesawat, dengan penjualan tiket yang sudah dibuka sejak akhir Oktober. Yang terdampak adalah masyarakat yang berencana bepergian saat libur Natal dan Tahun Baru, serta perusahaan transportasi milik negara seperti KAI, PELNI, ASDP, Garuda Indonesia, Citilink, dan Pelita Air yang menjalankan diskon tersebut. Penyebutan bahwa program ini disiapkan sejak pertengahan tahun, bersamaan dengan diskon untuk libur sekolah, mengarah ke satu pola: pemerintah mulai menjadikan diskon tarif transportasi sebagai alat rutin menjaga daya beli di setiap periode liburan panjang, bukan kebijakan yang hanya sekali dipakai. Yang masih kurang dari rilis ini adalah angka pastinya, besaran persentase diskon dan target jumlah penumpang untuk setiap moda tidak disebutkan, sehingga belum bisa dinilai seberapa besar insentif ini dibanding periode Nataru sebelumnya. Itu baru akan terlihat begitu Kementerian Perhubungan atau operator BUMN merilis rincian tarif per moda atau laporan realisasi jumlah penumpang setelah musim libur berakhir.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026",

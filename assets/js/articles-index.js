@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "endri-supriatna-juara-kompetisi-memasak-bright-gas-2026",
+  "category": "BUMN",
+  "title": "Endri Supriatna [Juara] Kompetisi Memasak Bright Gas 2026",
+  "deck": "Endri Supriatna meraih juara pertama Bright Gas Cooking Competition 2026 Pertamina dengan kreasi kuliner nusantara di Tangerang Selatan.",
+  "date": "8 November 2026",
+  "image": "assets/img/endri-supriatna-juara-kompetisi-memasak-bright-gas-2026.jpg",
+  "imageV": "mw7tmfce",
+  "tags": [
+   "Pertamina",
+   "Bright Gas",
+   "Kuliner Nusantara",
+   "BGCC 2026"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477253-kompetisi-memasak-pertamina-bgcc-2026-tuntaskan-babak-final-angkat-tema-kuliner-nusantara"
+ },
+ {
   "slug": "ri-didorong-ambil-peran-strategis-jelang-ktt-apec-2026",
   "category": "Global",
   "title": "RI Didorong Ambil Peran [Strategis] Jelang KTT APEC 2026",
@@ -6449,22 +6466,6 @@ var ARTICLES = [
    "kuartal III 2026"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102164424-65663-0/FinancialStatement-2026-III-FUTR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-waran-terstruktur-tapg-disesuaikan-usai-dividen-rp70",
-  "category": "Aksi Korporasi",
-  "title": "DR: Waran Terstruktur TAPG Disesuaikan Usai [Dividen] Rp70",
-  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan Waran Terstruktur TAPG menyusul rencana dividen tunai Rp1,39 triliun dari Triputra Agro Persada.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "TAPG",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/30314c53e4_b06dd68374.pdf",
   "sourceLabel": "IDX"
  }
 ];

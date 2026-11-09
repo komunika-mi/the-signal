@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bei-resmi-delisting-saham-sril-mulai-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BEI Resmi [Delisting] Saham SRIL Mulai 10 November 2026",
+  "deck": "Bursa Efek Indonesia mencabut status tercatat Sri Rejeki Isman (SRIL) efektif 10 November 2026 karena forced delisting dan go private.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T23:18:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3456c61142_27d261efb9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRIL",
+  "tags": [
+   "SRIL",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi mencabut status PT Sri Rejeki Isman Tbk (SRIL) sebagai perusahaan tercatat, efektif 10 November 2026. Dalam pengumuman bernomor Peng-DEL-00004/BEI.PP3/11-2026 yang diterbitkan 9 November 2026, BEI menyebut penyebab delisting SRIL adalah forced delisting dan go private. Keputusan ini merujuk pada pengumuman sebelumnya tanggal 10 April 2026 yang sudah mengawali proses ini, serta Peraturan Bursa Nomor I-N tentang Pembatalan Pencatatan dan Pencatatan Kembali.",
+   "SRIL tidak sendirian. Dalam pengumuman yang sama, BEI men-delisting total 18 emiten sekaligus, yaitu COWL, DUCK, ENVY, GOLL, LCGP, LMAS, MABA, MTRA, PLAS, SBAT, SKYB, SRIL, SUGI, TDPM, TELE, TOYS, TRIL, dan UNIT. Dasar hukumnya adalah Peraturan Bursa I-N, yang membolehkan BEI mencabut pencatatan emiten jika perusahaan mengalami kondisi signifikan yang merugikan kelangsungan usaha tanpa indikasi pemulihan, tidak memenuhi syarat pencatatan, atau sahamnya disuspensi di seluruh pasar sedikitnya 24 bulan berturut-turut.",
+   "BEI menegaskan delisting ini juga mencakup penghapusan pencatatan surat utang dan sukuk yang pernah diterbitkan Sri Rejeki Isman. Namun kewajiban membayar bunga dan pokok kepada pemegang surat utang itu tetap berlaku sesuai perjanjian perwaliamanatan. Selama masih berstatus perusahaan publik, Sri Rejeki Isman tetap wajib menjaga kepentingan pemegang saham publik dan mematuhi aturan keterbukaan informasi ke OJK, dan jika suatu saat ingin mencatatkan sahamnya kembali di bursa, prosesnya bisa dilakukan sesuai ketentuan relisting yang berlaku."
+  ],
+  "fotoAdegan": "Rows of large industrial weaving looms standing idle in a dim textile factory hall, afternoon light through high windows",
+  "takeaway": "Delisting paksa ini jelas merugikan pemegang saham publik Sri Rejeki Isman, karena begitu efektif pada 10 November 2026, saham mereka tidak lagi bisa diperjualbelikan di bursa dan nilainya praktis terkunci tanpa pasar resmi untuk menjualnya. Status delisting ini tidak menghapus kewajiban keuangan perusahaan, surat utang dan sukuk yang pernah diterbitkan Sri Rejeki Isman tetap harus dibayar bunga dan pokoknya kepada pemegangnya sesuai perjanjian perwaliamanatan, jadi beban utang perusahaan tidak otomatis lenyap hanya karena sahamnya dicabut dari bursa. Yang perlu dipantau selanjutnya adalah bagaimana proses go private ini berjalan, apakah manajemen akan menawarkan pembelian saham milik publik, dan bagaimana OJK mengawasi kepentingan pemegang saham publik yang tetap wajib dilindungi perusahaan meski statusnya tidak lagi tercatat di bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cowl-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "COWL Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "BEI resmi delisting saham COWL efektif 10 November 2026 karena forced delisting dan go private, bersama 17 emiten lain yang juga dihapus dari pencatatan bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T23:17:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ba108abcd6_e35993ed32.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "COWL",
+  "tags": [
+   "COWL",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia resmi menghapus pencatatan saham PT Cowell Development Tbk (COWL), efektif 10 November 2026. Dalam pengumuman bernomor Peng-DEL-00004/BEI.PP3/11-2026-COWL yang diteken Kepala Divisi Penilaian Perusahaan 3 BEI, Lidia M. Panjaitan, pada 9 November 2026, alasan yang dicatat adalah forced delisting dan go private. Keputusan ini menegaskan pengumuman sebelumnya pada 10 April 2026 yang sudah menyatakan rencana pencabutan status tercatat COWL.",
+   "Delisting COWL berlangsung bersamaan dengan 17 emiten lain yang dihapus pencatatannya pada tanggal efektif yang sama: DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora). Bursa menyebut dasar pencabutan ini mengacu pada Peraturan Bursa Nomor I-N, yang membolehkan delisting paksa kalau perusahaan tercatat mengalami kondisi yang berdampak negatif signifikan terhadap kelangsungan usahanya tanpa indikasi pemulihan, gagal memenuhi persyaratan pencatatan, atau sahamnya disuspensi di seluruh pasar sekurang-kurangnya 24 bulan terakhir.",
+   "Setelah delisting berlaku, COWL tidak lagi terikat kewajiban sebagai perusahaan tercatat dan namanya dihapus dari daftar BEI, meski perseroan tetap bisa mencatatkan kembali sahamnya di kemudian hari sesuai aturan yang berlaku. Penghapusan ini juga mencakup efek bersifat utang atau sukuk yang diterbitkan COWL, tetapi BEI menegaskan kewajiban membayar bunga dan pokok kepada pemegang efek utang tersebut tetap berjalan sesuai perjanjian perwaliamanatan. Selama masih berstatus perusahaan publik, COWL tetap wajib memperhatikan kepentingan pemegang saham publik serta memenuhi aturan keterbukaan informasi dan pelaporan ke Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Unfinished residential apartment towers with idle construction cranes, overcast sky, empty scaffolding on a quiet site",
+  "takeaway": "Delisting paksa seperti ini negatif bagi pemegang saham publik COWL, karena sahamnya kehilangan pasar resmi untuk diperjualbelikan, dan status go private menutup jalur keluar lewat bursa pada saat alasan pencabutannya sendiri, yaitu gangguan keberlangsungan usaha, gagal memenuhi syarat pencatatan, atau suspensi panjang, menandakan kondisi perusahaan memang sudah bermasalah. Delisting ini sendiri tidak otomatis mengubah ekuitas atau arus kas COWL di atas kertas, tapi dampak nyatanya ada pada likuiditas saham, yakni kemudahan pemegang saham mengubah kepemilikannya jadi uang tunai, yang kini nyaris hilang. Yang perlu dipantau berikutnya adalah bagaimana pemegang saham publik COWL bisa keluar dari posisinya setelah tanggal efektif 10 November 2026, termasuk kemungkinan mekanisme pembelian saham dari pihak pengendali dalam skema go private, serta bagaimana kewajiban pembayaran bunga dan pokok kepada pemegang efek utang atau sukuk COWL tetap dipenuhi meski pencatatannya sudah dihapus.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lcgp-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "LCGP Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "Bursa Efek Indonesia mencabut status tercatat PT Eureka Prima Jakarta Tbk (LCGP) akibat forced delisting dan go private, bersama 17 emiten lain dalam satu pengumuman.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T23:09:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/80bc8cc31f_d1176fe971.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LCGP",
+  "tags": [
+   "LCGP",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Eureka Prima Jakarta Tbk (LCGP) dari papan Pencatatan Pengembangan, efektif 10 November 2026. Dalam pengumuman bernomor Peng-DEL-00004/BEI.PP3/11-2026, BEI mencantumkan penyebab delisting LCGP sebagai 'Forced Delisting dan Go Private', merujuk pada Peraturan Bursa Nomor I-N tentang Pembatalan Pencatatan dan Pencatatan Kembali serta pengumuman sebelumnya pada 10 April 2026.",
+   "LCGP bukan satu-satunya yang terkena dampak pada tanggal yang sama. Total ada 18 perusahaan tercatat yang didelisting serentak per 10 November 2026, yaitu COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora). BEI menyebut delisting dapat dipicu oleh kondisi yang berdampak negatif signifikan terhadap kelangsungan usaha, gagal memenuhi syarat pencatatan, atau suspensi perdagangan yang berlangsung minimal 24 bulan berturut-turut.",
+   "BEI menegaskan bahwa delisting ini juga menghapus pencatatan efek bersifat utang atau sukuk yang mungkin diterbitkan LCGP, namun kewajiban perusahaan membayar bunga dan pokok kepada pemegang efek utang tersebut tetap berlaku sesuai perjanjian perwaliamanatan. Selama LCGP masih berstatus perusahaan publik, perusahaan tetap wajib memperhatikan kepentingan pemegang saham publik dan mematuhi aturan keterbukaan informasi kepada Otoritas Jasa Keuangan (OJK). Jika suatu saat ingin tercatat kembali di bursa, LCGP harus melalui proses pencatatan sesuai ketentuan yang berlaku layaknya perusahaan baru."
+  ],
+  "fotoAdegan": "Exterior view of a modern Jakarta financial district office tower at dusk, overcast sky, light traffic on the street below",
+  "takeaway": "Laporan ini negatif bagi pemegang saham publik LCGP karena sahamnya tidak lagi bisa diperjualbelikan di pasar terbuka bursa, sehingga mereka kehilangan jalur keluar yang likuid untuk menjual kepemilikannya. Pos yang tersentuh adalah beban bunga, karena meski pencatatan sahamnya dihapus, kewajiban LCGP membayar bunga dan pokok kepada pemegang efek utang atau sukuknya tidak ikut hilang dan tetap harus dipenuhi sesuai perjanjian. Yang perlu dipantau selanjutnya adalah bagaimana LCGP menindaklanjuti statusnya sebagai perusahaan publik yang tersisa, termasuk kemungkinan mekanisme pembelian kembali atau penawaran kepada pemegang saham minoritas, karena dokumen BEI menegaskan kewajiban menjaga kepentingan pemegang saham publik tetap berlaku selama status itu belum dicabut secara resmi oleh OJK.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "plas-resmi-delisting-dari-bei-gabung-17-emiten-lain",
+  "category": "Aksi Korporasi",
+  "title": "PLAS Resmi [Delisting] dari BEI, Gabung 17 Emiten Lain",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan saham PLAS efektif 10 November 2026 karena forced delisting dan go private, bersama 17 emiten lain yang disuspensi lama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T23:00:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/913d831c50_17870684c5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PLAS",
+  "tags": [
+   "PLAS",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Polaris Investama Tbk (PLAS) dari papan pencatatan pengembangan, efektif 10 November 2026. Dalam pengumuman bernomor Peng-DEL-00004/BEI.PP3/11-2026-PLAS yang ditandatangani Kepala Divisi Penilaian Perusahaan 3 BEI, Lidia M. Panjaitan, penyebab delisting dicatat sebagai Forced Delisting dan Go Private.",
+   "PLAS bukan satu-satunya. BEI secara bersamaan mendelisting 18 perusahaan tercatat per tanggal yang sama, yaitu COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora). BEI merujuk Peraturan Bursa Nomor I-N, yang memungkinkan delisting jika perusahaan mengalami kondisi yang berdampak negatif signifikan pada kelangsungan usaha tanpa indikasi pemulihan, gagal memenuhi syarat pencatatan, atau sahamnya disuspensi di pasar reguler dan tunai sekurangnya 24 bulan terakhir.",
+   "Dengan dicabutnya status sebagai perusahaan tercatat, PLAS tidak lagi punya kewajiban sebagai perusahaan tercatat dan namanya dihapus dari daftar BEI. Delisting ini juga mencakup penghapusan pencatatan efek bersifat utang dan/atau sukuk yang diterbitkan PLAS, namun penghapusan itu tidak menghilangkan kewajiban perusahaan membayar bunga dan pokok kepada pemegang efek tersebut sesuai perjanjian perwaliamanatan. Selama PLAS masih berstatus perusahaan publik, BEI menegaskan perusahaan tetap wajib memperhatikan kepentingan pemegang saham publik serta mematuhi aturan keterbukaan informasi dan pelaporan ke Otoritas Jasa Keuangan (OJK)."
+  ],
+  "fotoAdegan": "Office tower facade in Jakarta's financial district reflecting an overcast sky, pedestrians crossing the street below",
+  "takeaway": "Penghapusan pencatatan ini condong negatif bagi pemegang saham publik PLAS, karena begitu efektif 10 November 2026 saham perusahaan tidak lagi bisa diperjualbelikan lewat mekanisme bursa, meski proses ini adalah ujung dari suspensi perdagangan yang sudah berlangsung sejak 2018. Yang tersentuh adalah likuiditas saham, yaitu kemudahan investor menjual atau membeli di pasar terbuka, yang kini hilang sepenuhnya, sementara akses PLAS untuk mencari dana lewat penerbitan saham atau obligasi tercatat di bursa juga ikut tertutup. Kewajiban membayar bunga dan pokok surat utang atau sukuk yang sudah diterbitkan PLAS tetap berjalan sesuai perjanjian perwaliamanatan meski pencatatannya dihapus, jadi pemegang surat utang itu tidak dirugikan langsung oleh delisting ini. Yang perlu dipantau berikutnya adalah bagaimana PLAS memenuhi kewajiban keterbukaan informasi ke OJK selama masih berstatus perusahaan publik, serta kejelasan nasib pemegang saham publik yang belum ikut transaksi buyback sebelum delisting resmi berlaku.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "toys-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "TOYS Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "BEI mencabut status tercatat saham TOYS efektif 10 November 2026 akibat forced delisting dan go private, bagian dari 18 emiten yang didelisting bersamaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T23:00:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2f8586cd52_a9fc19b056.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOYS",
+  "tags": [
+   "TOYS",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan penghapusan pencatatan (delisting) saham PT Sunindo Adipersada Tbk dengan kode TOYS, efektif berlaku 10 November 2026. Alasan yang dicatat bursa adalah forced delisting dan go private. Pengumuman bernomor Peng-DEL-00004/BEI.PP3/11-2026 ini ditandatangani oleh Kepala Divisi Penilaian Perusahaan 3 BEI, Lidia M. Panjaitan, pada 9 November 2026.",
+   "TOYS bukan satu-satunya yang kena delisting pada tanggal yang sama. BEI sekaligus mencabut status tercatat 18 perusahaan, yaitu COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora).",
+   "Bursa menjelaskan, delisting dijatuhkan jika perusahaan tercatat mengalami kondisi yang berdampak negatif signifikan terhadap kelangsungan usahanya tanpa indikasi pemulihan yang memadai, tidak lagi memenuhi persyaratan pencatatan, dan atau sahamnya sudah disuspensi di pasar reguler maupun pasar tunai selama sedikitnya 24 bulan terakhir. Dokumen ini merujuk pada pengumuman serupa yang sudah diterbitkan BEI sejak 10 April 2026, yang berarti proses delisting TOYS sudah diperingatkan sejak tujuh bulan lalu dan baru dieksekusi sekarang.",
+   "Dengan dicabutnya status tercatat, TOYS tidak lagi memiliki kewajiban sebagai perusahaan tercatat dan namanya akan dihapus dari daftar emiten BEI. Jika suatu saat perusahaan ingin mencatatkan sahamnya kembali, prosesnya harus mengikuti aturan pencatatan yang berlaku layaknya perusahaan baru. BEI juga menegaskan, selama TOYS masih berstatus perusahaan publik, perseroan tetap wajib memperhatikan kepentingan pemegang saham publik dan mematuhi aturan keterbukaan informasi serta pelaporan ke Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Rows of shelved cardboard boxes in a dim, half-empty toy warehouse, a worker pushing an empty cart past idle assembly lines",
+  "takeaway": "Delisting paksa ini negatif bagi pemegang saham publik TOYS, karena begitu status tercatat dicabut pada 10 November 2026, mereka kehilangan jalur resmi di bursa untuk menjual sahamnya. Delisting semacam ini biasanya dipicu oleh suspensi perdagangan yang berkepanjangan atau kondisi keuangan perusahaan yang tak kunjung membaik, bukan oleh satu peristiwa tunggal. Jumlah saham beredar dan struktur modal TOYS sendiri tidak berubah oleh keputusan administratif ini, yang benar-benar terdampak adalah likuiditas, yaitu kemudahan pemegang saham mencairkan sahamnya, karena pintu jual beli di pasar reguler BEI akan tertutup. Yang perlu dipantau berikutnya adalah apakah ada mekanisme pembelian kembali saham publik dalam proses go private ini, serta kepatuhan TOYS pada kewajiban keterbukaan informasi ke OJK selama masih berstatus perusahaan publik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "unit-resmi-delisting-dari-bei-mulai-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "UNIT resmi [delisting] dari BEI mulai 10 November 2026",
+  "deck": "Bursa Efek Indonesia mencabut status PT Nusantara Inti Corpora Tbk (UNIT) sebagai perusahaan tercatat akibat forced delisting dan go private.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:58:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/033391f130_4c2c82add7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNIT",
+  "tags": [
+   "UNIT",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Nusantara Inti Corpora Tbk dengan kode UNIT dari Papan Pencatatan Pengembangan, efektif 10 November 2026. Keputusan ini tertuang dalam pengumuman bernomor Peng-DEL-00004/BEI.PP3/11-2026 yang ditandatangani Kepala Divisi Penilaian Perusahaan 3 BEI, Lidia M. Panjaitan, dengan alasan yang tercatat adalah forced delisting dan go private.",
+   "Pencabutan ini merupakan bagian dari kebijakan Bursa terhadap 18 perusahaan tercatat sekaligus, mengacu pada pengumuman sebelumnya tanggal 10 April 2026 dan Peraturan Bursa Nomor I-N tentang Delisting dan Relisting. Selain UNIT, perusahaan lain yang delisting pada tanggal yang sama adalah COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), dan TRIL (Triwira Insanlestari). Bursa berwenang melakukan delisting paksa jika perusahaan mengalami kondisi yang berdampak negatif signifikan terhadap kelangsungan usahanya tanpa indikasi pemulihan, tidak lagi memenuhi persyaratan pencatatan, atau sahamnya disuspensi di Pasar Reguler dan Pasar Tunai selama minimal 24 bulan terakhir.",
+   "Dengan dicabutnya status sebagai perusahaan tercatat, UNIT tidak lagi memiliki kewajiban sebagai perusahaan tercatat dan namanya dihapus dari daftar BEI, meski proses pencatatan kembali tetap terbuka di kemudian hari sesuai ketentuan yang berlaku. Delisting ini juga mencakup efek bersifat utang dan sukuk yang pernah diterbitkan perseroan, namun kewajiban membayar bunga dan pokoknya kepada pemegang efek tersebut tetap berlaku sesuai perjanjian perwaliamanatan. Selama masih berstatus perusahaan publik, UNIT tetap wajib memperhatikan kepentingan pemegang saham publik dan memenuhi ketentuan keterbukaan informasi kepada Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Distant exterior view of Jakarta's financial district skyscrapers at dusk, light reflecting off glass facades, no readable signage",
+  "takeaway": "Laporan ini negatif bagi pemegang saham publik UNIT, karena forced delisting dan go private memutus akses resmi untuk memperjualbelikan sahamnya lewat bursa. Yang tersentuh adalah likuiditas saham, yakni kemudahan mengubah saham jadi uang tunai di pasar terbuka; begitu dicabut dari papan pencatatan, pemegang saham minoritas kehilangan mekanisme jual beli yang diawasi bursa dan harus mengandalkan jalur di luar bursa bila ingin melepas kepemilikannya. Efek utang atau sukuk yang pernah diterbitkan perseroan juga ikut dihapus pencatatannya, tapi kewajiban membayar bunga dan pokok ke pemegangnya tidak hilang dan tetap mengikuti perjanjian perwaliamanatan yang sudah ada. Yang perlu dipantau adalah tanggal efektif delisting itu sendiri, 10 November 2026, serta apakah manajemen UNIT ke depan membuka jalur bagi pemegang saham publik untuk keluar atau memilih mencatatkan kembali sahamnya di bursa sesuai ketentuan yang berlaku.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lmas-kena-delisting-paksa-bei-efektif-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "LMAS Kena [Delisting] Paksa BEI, Efektif 10 November 2026",
+  "deck": "BEI resmi mencabut status perusahaan tercatat LMAS beserta 17 emiten lain, efektif 10 November 2026, setelah saham disuspensi lebih dari 24 bulan tanpa tanda pemulihan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:58:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9bab99186e_cd4c8e15bd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LMAS",
+  "tags": [
+   "LMAS",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) melalui pengumuman resmi bertanggal 9 November 2026 memutuskan menghapus pencatatan saham (delisting) PT Limas Indonesia Makmur Tbk (LMAS), efektif 10 November 2026. Penyebab yang dicantumkan BEI adalah forced delisting dan go private, mengacu pada Peraturan Bursa Nomor I-N yang mengatur tiga kemungkinan alasan delisting paksa: kondisi signifikan yang berdampak negatif terhadap kelangsungan usaha tanpa indikasi pemulihan memadai, tidak terpenuhinya syarat pencatatan di bursa, dan/atau saham yang disuspensi di Pasar Reguler maupun Pasar Tunai selama sedikitnya 24 bulan terakhir.",
+   "LMAS bukan satu-satunya yang terkena keputusan ini. Dalam pengumuman yang sama, BEI juga mendelisting 17 emiten lain secara bersamaan per tanggal efektif yang sama, yaitu COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora). Keputusan ini meneruskan pengumuman awal BEI tanggal 10 April 2026 yang sudah menyebut rencana delisting kelompok emiten yang sama.",
+   "Dengan dicabutnya status sebagai perusahaan tercatat, LMAS tidak lagi memiliki kewajiban sebagai emiten di BEI, dan bursa akan menghapus namanya dari daftar perusahaan tercatat. Bila perseroan suatu saat ingin mencatatkan sahamnya kembali, prosesnya harus mengikuti ketentuan pencatatan yang berlaku layaknya perusahaan baru. Delisting ini juga mencakup penghapusan pencatatan Efek Bersifat Utang dan/atau Sukuk (EBUS) milik perseroan, namun BEI menegaskan kewajiban membayar bunga dan pokok EBUS kepada pemegang EBUS tetap berlaku sesuai Perjanjian Perwaliamanatan. Selama LMAS masih berstatus perusahaan publik, perseroan tetap wajib memperhatikan kepentingan pemegang saham publik dan memenuhi ketentuan keterbukaan informasi serta pelaporan kepada Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district at dusk, lights switching off floor by floor",
+  "takeaway": "Delisting paksa ini jelas bernada negatif bagi pemegang saham LMAS, sebab ini bukan langkah sukarela melainkan sanksi bursa akibat saham disuspensi lebih dari 24 bulan tanpa tanda perbaikan kondisi usaha. Dampak paling nyata ada pada likuiditas, yaitu kemampuan pemegang saham untuk menjual kembali sahamnya secara mudah, karena setelah 10 November 2026 saham LMAS tidak lagi bisa diperdagangkan di BEI dan pemilik saham publik harus mencari jalur di luar bursa bila ingin melepas kepemilikannya. Kalau LMAS juga memiliki obligasi atau sukuk tercatat, instrumen utang itu ikut dihapus dari bursa, tetapi kewajiban membayar bunga dan pokoknya kepada pemegang obligasi tidak hilang begitu saja karena tetap diatur dalam perjanjian dengan wali amanat. Yang perlu dipantau berikutnya adalah bagaimana LMAS menjalankan kewajiban sebagai perusahaan publik nonbursa, termasuk keterbukaan informasi ke OJK, serta apakah perseroan akan menempuh proses pembelian kembali saham dari pemegang saham publik sebagai bagian dari rencana go private.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tril-didelisting-bei-efektif-10-november-jadi-go-private",
+  "category": "Aksi Korporasi",
+  "title": "TRIL Didelisting BEI, Efektif 10 November jadi [Go Private]",
+  "deck": "Bursa Efek Indonesia mencabut status TRIL sebagai perusahaan tercatat mulai 10 November 2026, bagian dari forced delisting dan go private atas 18 emiten sekaligus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:55:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b693f70da1_e4cc622b76.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIL",
+  "tags": [
+   "TRIL",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan penghapusan pencatatan (delisting) saham Triwira Insanlestari Tbk (TRIL) efektif 10 November 2026, dengan alasan yang tertulis di surat resmi adalah \"Forced Delisting dan Go Private\". Keputusan ini tertuang dalam surat bernomor Peng-DEL-00004/BEI.PP3/11-2026-TRIL yang ditandatangani Lidia M. Panjaitan, Kepala Divisi Penilaian Perusahaan 3 BEI, pada 9 November 2026 pukul 22.55 WIB.",
+   "Delisting TRIL bukan kasus tunggal, melainkan bagian dari keputusan serentak terhadap 18 perusahaan tercatat yang merujuk pada Peraturan Bursa Nomor I-N tentang Delisting dan Relisting. Bursa berwenang mencabut pencatatan saham jika emiten mengalami kondisi yang berdampak negatif signifikan pada kelangsungan usahanya tanpa indikasi pemulihan yang memadai, tidak lagi memenuhi persyaratan pencatatan, atau sahamnya telah disuspensi sedikitnya 24 bulan berturut-turut di seluruh pasar. Selain TRIL, perusahaan yang didelisting pada tanggal efektif yang sama adalah COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), dan UNIT (Nusantara Inti Corpora).",
+   "Dengan pencabutan status sebagai perusahaan tercatat, TRIL tidak lagi memiliki kewajiban sebagai perusahaan tercatat dan namanya dihapus dari daftar perusahaan yang sahamnya diperdagangkan di BEI. Delisting ini juga mencakup penghapusan pencatatan efek bersifat utang dan/atau sukuk yang diterbitkan TRIL, tetapi penghapusan itu tidak menghapus kewajiban perusahaan membayar bunga dan/atau pokok kepada pemegang efek tersebut sesuai perjanjian perwaliamanatan. Selama TRIL masih berstatus perusahaan publik, perusahaan tetap wajib memperhatikan kepentingan pemegang saham publik dan mematuhi ketentuan keterbukaan informasi serta pelaporan kepada Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's Sudirman business district, overcast sky, pedestrians crossing below",
+  "takeaway": "Ini sinyal negatif bagi pemegang saham publik TRIL, karena ini bukan delisting sukarela dengan skema pembelian saham yang sudah jelas, melainkan delisting paksa oleh bursa setelah saham lama tidak bisa diperdagangkan dan tidak menunjukkan tanda pemulihan. Yang langsung tersentuh adalah likuiditas saham, yaitu kemudahan pemegang saham untuk menjual kembali kepemilikannya; begitu dicabut dari pencatatan, transaksi jual beli di bursa otomatis berhenti dan saham cuma bisa berpindah tangan lewat jalur di luar bursa yang jauh lebih sulit. Dokumen ini tidak menyebutkan mekanisme atau harga pembelian saham publik dalam proses go private tersebut, jadi yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan dari TRIL atau OJK soal nasib saham milik pemegang saham publik. Kalau TRIL punya efek utang atau sukuk yang masih beredar, kewajiban bayar bunga dan pokoknya tetap berjalan sesuai perjanjian perwaliamanatan meski pencatatan sahamnya sudah dihapus.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "lppom-mui-ajak-4-525-pelajar-kenal-ekosistem-halal",
   "category": "Bisnis",
   "title": "LPPOM MUI [Ajak] 4.525 Pelajar Kenal Ekosistem Halal",
@@ -27,6 +236,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah skala sosialisasinya, dari edukasi yang biasanya menyasar orang dewasa menjadi kompetisi tahunan yang menjaring 4.525 pelajar SMA, SMK, dan MA, termasuk peserta non-Muslim. Yang langsung kena dampaknya adalah pelajar peserta dan lingkungan sekitar mereka, karena LPPOM MUI berharap mereka menularkan pemahaman soal halal ke keluarga dan daerah asalnya, sementara dampak lanjutannya menyasar pelaku usaha yang butuh konsumen yang lebih sadar label halal. Berita ini belum menyebutkan apakah Gen Halal Championship akan berlanjut dengan skala lebih besar tahun depan, atau apakah materinya akan masuk ke jalur pendidikan formal lewat kurikulum sekolah, jadi belum bisa disimpulkan apakah ini sekadar acara tahunan atau awal program yang lebih permanen. Yang perlu dipantau adalah penyelenggaraan edisi berikutnya dan ada tidaknya kerja sama LPPOM MUI dengan instansi pendidikan untuk memasukkan materi ekosistem halal ke sekolah.",
   "imageV": "mw9gmc8i"
+ },
+ {
+  "slug": "wmuu-minta-pemegang-saham-fisik-tukar-sks-ke-elektronik-sebelum-2030",
+  "category": "Aksi Korporasi",
+  "title": "WMUU Minta Pemegang Saham Fisik Tukar SKS ke [Elektronik] Sebelum 2030",
+  "deck": "WMUU mengumumkan proses dematerialisasi saham fisik. Pemegang Surat Kolektif Saham diminta menukarkan sertifikat ke Datindo Entrycom sebelum 6 Mei 2030.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:38:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dde1082a54_06eef4bdf2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WMUU",
+  "tags": [
+   "WMUU",
+   "dematerialisasi saham",
+   "pemegang saham",
+   "OJK"
+  ],
+  "body": [
+   "PT Widodo Makmur Unggas Tbk (WMUU) melalui surat bernomor 500/WMU-CS/XI/2026 yang ditandatangani Direktur Wahyu Andi Susilo mengumumkan pelaksanaan dematerialisasi saham, yakni konversi saham dari bentuk sertifikat fisik atau Surat Kolektif Saham (SKS) menjadi catatan elektronik, sesuai Peraturan OJK No. 9 Tahun 2025 yang berlaku sejak 6 Mei 2025. Pemegang saham yang masih memegang SKS diminta memperbarui data dan menyerahkan sertifikat tersebut ke Biro Administrasi Efek (BAE) perseroan, PT Datindo Entrycom, di Jalan Hayam Wuruk No. 28 Lantai 2, Jakarta, pada hari kerja pukul 09.00 hingga 15.00 WIB.",
+   "Bagi pemegang saham yang sudah memiliki sub rekening efek di perusahaan sekuritas atau bank kustodian, konversi dapat dilakukan lewat sistem C-BEST milik KSEI dengan biaya konversi sesuai jumlah saham. Bagi yang belum memiliki sub rekening, dokumen yang harus disiapkan meliputi SKS asli, kopi KTP dengan NIK terbaru atau paspor untuk pemegang saham asing, kopi NPWP, akta pendirian dan susunan pengurus terbaru untuk badan hukum, serta alamat email dan nomor telepon aktif. Setelah dokumen lengkap diterima, BAE akan menerbitkan Single Investor Identification (SID) dan konfirmasi kepemilikan saham dalam waktu dua hari kerja, dengan saham ditempatkan di rekening penampungan (Custody Account).",
+   "Proses dematerialisasi ini wajib selesai dalam lima tahun sejak 6 Mei 2025, atau paling lambat 6 Mei 2030. Jika lewat tenggat itu pemegang saham belum memperbarui data, saham fisiknya akan dinyatakan tidak berlaku dan dipindahkan ke rekening penampungan yang dikelola pihak yang ditunjuk OJK, berstatus sebagai 'aset tak bertuan' (unclaimed assets), serta tidak dapat diperdagangkan baik di bursa maupun di luar bursa sampai proses dematerialisasi dituntaskan. Dokumen menyebut pemegang saham tetap berhak mengajukan klaim kepemilikan lewat Datindo Entrycom, dengan jendela klaim yang dijelaskan berlaku mulai 6 Mei 2035 hingga 6 Mei 2065. Perseroan menyatakan langkah ini tidak berdampak material terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Administrative clerk sorting stacks of aged paper certificates into archive folders inside a financial office, certificates blurred, soft overhead light",
+  "takeaway": "Pengumuman ini netral bagi fundamental WMUU karena hanya mengubah bentuk saham dari sertifikat fisik menjadi elektronik, tanpa mengubah modal, utang, atau jumlah saham beredar perseroan. Yang berubah hanya cara pencatatan kepemilikan, dari surat kolektif saham di tangan pemegang saham menjadi saldo di rekening efek, sehingga tidak menyentuh ekuitas, arus kas, beban bunga, atau laba per saham perseroan. Yang perlu dipantau terutama oleh pemegang saham yang masih memegang sertifikat fisik adalah tenggat 6 Mei 2030, sebab saham yang belum dikonversi setelah tanggal itu berisiko dibekukan sebagai aset tak bertuan dan tidak bisa diperdagangkan sampai proses dematerialisasinya selesai.",
+  "sentimen": "netral"
  },
  {
   "slug": "goll-resmi-delisting-dari-bei-efektif-10-november-2026",
@@ -184,6 +419,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of idle textile looms covered in dust inside a dim, quiet factory hall, afternoon light through high windows",
   "takeaway": "Delisting paksa ini negatif bagi pemegang saham publik SBAT, karena ini menjadi penutup dari rangkaian masalah yang sudah terlihat sejak perusahaan dinyatakan pailit dengan opini disclaimer dari auditor dan tender wajib di harga rendah Rp2 per saham. Pos yang tersentuh di sini adalah arus kas, yakni kemampuan perusahaan membayar kewajiban secara tunai, sebab meski sahamnya dihapus dari bursa, SBAT tetap wajib membayar bunga dan pokok efek utang atau sukuk yang pernah diterbitkannya sesuai perjanjian perwaliamanatan, padahal kondisi keuangannya sendiri sudah dinyatakan tidak sehat oleh auditor. Pelaku pasar memperhatikan pos ini karena setelah delisting, perusahaan kehilangan akses mudah ke pendanaan publik lewat pasar modal, sehingga kemampuannya menutup kewajiban utang makin bergantung pada kas internal yang terbatas. Yang perlu dipantau selanjutnya adalah bagaimana proses go private dijalankan setelah tanggal efektif 10 November 2026, termasuk apakah ada mekanisme lanjutan bagi pemegang saham publik yang tersisa untuk melepas kepemilikannya.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "bata-rombak-direksi-raymond-chew-jadi-presiden-direktur",
+  "category": "Aksi Korporasi",
+  "title": "BATA Rombak Direksi, [Raymond Chew] Jadi Presiden Direktur",
+  "deck": "RUPSLB Sepatu Bata menyetujui pengunduran dua presiden direktur dan mengangkat Raymond Chew sebagai Presiden Direktur baru bersama Anibal Juan Torres Alvarez sebagai direktur.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T21:54:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/48eb46970d_af2f1bd3dd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BATA",
+  "tags": [
+   "BATA",
+   "RUPSLB",
+   "Direksi",
+   "Raymond Chew"
+  ],
+  "body": [
+   "Sepatu Bata Tbk (BATA) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Kamis, 5 November 2026, di Gedung Ventura, Jakarta Selatan. Rapat dihadiri pemegang saham yang mewakili 1.066.199.900 saham atau 82,0154 persen dari total 1.300.000.000 saham perseroan, sehingga kuorum terpenuhi. Agenda tunggal rapat adalah persetujuan perubahan susunan direksi perseroan.",
+   "Rapat menyetujui pengunduran diri Amitav Nandy dari jabatan Presiden Direktur berdasarkan surat tertanggal 23 September 2026, serta pengunduran diri Ian Duncan McNab Cowe dari jabatan yang sama berdasarkan surat tertanggal 30 September 2026. Keduanya mundur karena penugasan organisasi dan berlaku efektif sejak rapat ditutup. Sebagai gantinya, rapat mengangkat Raymond Chew sebagai Presiden Direktur baru dan Anibal Juan Torres Alvarez sebagai Direktur baru, keduanya menjabat sejak 5 November 2026 hingga 30 Juni 2028. Dengan perubahan ini, susunan direksi BATA menjadi Raymond Chew sebagai Presiden Direktur, Anibal Juan Torres Alvarez dan Prima Andhika Irawati sebagai Direktur, sementara jajaran komisaris tetap diisi Shaibal Sinha sebagai Presiden Komisaris dan Agus Nurudin sebagai Komisaris Independen.",
+   "Keputusan ini diambil dengan dukungan hampir bulat, yakni 1.066.187.800 suara setuju berbanding 100 suara tidak setuju dari total 1.066.199.900 suara yang sah dalam rapat. Dokumen rapat juga mencatat bahwa pemegang saham mayoritas, Bafin (Nederland) B.V., hadir mewakili 1.066.171.200 saham atau sekitar 82 persen dari total saham perseroan, sementara publik yang hadir dalam rapat hanya mewakili 28.700 saham. Direksi juga diberi kuasa oleh pemegang saham untuk melaporkan perubahan susunan direksi ini kepada Menteri Hukum Republik Indonesia."
+  ],
+  "fotoAdegan": "Rows of leather shoes moving along a factory conveyor belt, workers in aprons inspecting stitching under bright industrial lighting",
+  "takeaway": "Pergantian direksi ini kami nilai netral bagi BATA karena murni rotasi kepemimpinan akibat penugasan organisasi dua presiden direktur sebelumnya ke posisi lain di jaringan Bata global, bukan dipicu oleh kinerja buruk atau konflik, dan disetujui hampir bulat oleh pemegang saham. Pergantian pucuk pimpinan semacam ini tidak langsung mengubah pos keuangan seperti ekuitas atau arus kas perusahaan, tapi tetap dipantau pasar karena arah strategi bisa berubah di bawah direktur baru, terutama karena perusahaan dikendalikan ketat oleh satu pemegang saham mayoritas, Bafin (Nederland) B.V., yang menguasai sekitar 82 persen saham BATA. Yang perlu dipantau berikutnya adalah langkah awal Raymond Chew setelah resmi menjabat sejak penutupan rapat pada 5 November 2026, serta proses pelaporan perubahan susunan direksi ini ke Menteri Hukum Republik Indonesia yang telah dikuasakan dalam rapat.",
+  "sentimen": "netral"
  },
  {
   "slug": "wbsa-catat-laba-9m26-turun-55-meski-pendapatan-naik-31",
@@ -817,6 +1078,32 @@ var ARTICLES = [
   "imageV": "mw94wtap"
  },
  {
+  "slug": "rlco-direksi-tambah-11-56-juta-saham-via-top-up-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Tambah 11,56 Juta Saham via [Top Up] Repo",
+  "deck": "Direksi RLCO, Samuel Sekuritas Indonesia, menambah kepemilikan saham lewat mekanisme top up perjanjian repo pada 9 November 2026, menaikkan hak suara dari 11,85% menjadi 12,22%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T17:35:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-8276-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "repo",
+   "direksi",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "PT Abadi Lestari Indonesia Tbk (RLCO) melaporkan ke Otoritas Jasa Keuangan bahwa Samuel Sekuritas Indonesia, yang menjabat sebagai anggota direksi perusahaan, menambah kepemilikan sahamnya sebanyak 11.563.600 lembar pada 9 November 2026. Dengan transaksi ini, jumlah saham yang dipegang naik dari 370.406.700 lembar menjadi 381.970.300 lembar, sementara hak suaranya di perusahaan bertambah dari 11,85 persen menjadi 12,22 persen. Transaksi dilakukan pada harga Rp2.180 per saham, sehingga nilainya sekitar Rp25,2 miliar, dan dicatat dengan tujuan top up repo, yaitu penambahan jumlah saham dalam perjanjian pembelian kembali (repurchase agreement) yang sedang berjalan.",
+   "Dalam perjanjian repo, saham dijadikan jaminan untuk memperoleh dana tunai, dengan kewajiban pihak yang menjaminkan untuk membeli kembali saham tersebut di kemudian hari sesuai kesepakatan. Penambahan jumlah saham dalam perjanjian semacam ini biasanya berarti ada penambahan jaminan untuk pendanaan yang sudah berjalan, dan tidak sama dengan pembelian saham langsung di pasar terbuka oleh direksi.",
+   "Laporan ini terbit tiga hari setelah RLCO melaporkan pencairan repo sebanyak 18,3 juta saham oleh direksi pada 6 November 2026. Dengan kata lain, dalam waktu singkat tercatat dua pergerakan pada posisi saham yang terkait perjanjian repo di perusahaan ini, yakni pelepasan pada awal pekan dan penambahan pada laporan kali ini."
+  ],
+  "fotoAdegan": "Interior of a bank vault with rows of safe deposit boxes, a teller's hand turning a key, dim metallic lighting, Jakarta financial district",
+  "takeaway": "Kami nilai laporan ini netral bagi RLCO, karena penambahan 11,56 juta saham ini terjadi lewat mekanisme perjanjian repo, bukan pembelian terbuka di pasar yang biasanya mencerminkan keyakinan direksi atas harga saham ke depan. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pelapor, yang naik tipis dari 11,85 persen menjadi 12,22 persen, sementara jumlah saham beredar RLCO secara keseluruhan tidak berubah karena ini bukan penerbitan saham baru. Pelaku pasar biasanya mencermati perubahan hak suara semacam ini karena bisa menggeser kendali pemegang saham besar, tapi kenaikan 0,37 poin persentase di sini tergolong kecil untuk dibaca sebagai pergeseran kendali. Yang perlu dipantau selanjutnya adalah apakah ada laporan lanjutan soal jatuh tempo atau penyelesaian perjanjian repo ini, mengingat tiga hari sebelumnya RLCO juga melaporkan pencairan repo 18,3 juta saham oleh direksi, yang menunjukkan posisi repo di perusahaan ini masih aktif bergerak.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ultj-bagi-dividen-tunai-tambahan-rp100-per-saham",
   "category": "Aksi Korporasi",
   "title": "ULTJ Bagi [Dividen] Tunai Tambahan Rp100 per Saham",
@@ -895,6 +1182,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "nsss-direksi-tambah-saham-via-repo-hak-suara-ke-5-58",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Tambah Saham via Repo, [Hak Suara] ke 5,58%",
+  "deck": "Direksi NSSS, Mitra Agro Dharma Unggul, membeli 626,9 juta saham lewat repo senilai sekitar Rp285,2 miliar, mengangkat hak suaranya dari 2,95% menjadi 5,58%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:41:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-5417-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "body": [
+   "Mitra Agro Dharma Unggul, yang menjabat sebagai direksi PT Nusantara Sawit Sejahtera Tbk (NSSS), melaporkan penambahan kepemilikan saham perusahaan melalui mekanisme repurchase agreement atau repo pada 6 November 2026. Jumlah saham yang dipegangnya naik dari 702.495.400 lembar menjadi 1.329.374.700 lembar, bertambah 626.879.300 lembar, dengan harga pembelian Rp455 per lembar atau senilai sekitar Rp285,2 miliar. Transaksi ini dicatat sebagai pembelian tidak langsung dengan tujuan investasi.",
+   "Dengan penambahan tersebut, hak suara pelapor di NSSS melonjak dari 2,95% menjadi 5,58%, hampir dua kali lipat dari posisi sebelumnya. Laporan disampaikan ke Otoritas Jasa Keuangan sesuai POJK Nomor 4/2024 tentang pelaporan kepemilikan saham perusahaan terbuka, dengan nomor surat LK/09112026/0011/1 tertanggal 9 November 2026.",
+   "Laporan ini melengkapi rangkaian transaksi serupa di NSSS dalam sepekan terakhir. Pada 6 November 2026, direksi lain tercatat menambah kepemilikan neto 522,7 juta lembar hingga hak suaranya mencapai 38,07%, sementara seorang komisaris justru melepas seluruh sahamnya senilai Rp12,2 miliar. Sehari berikutnya, direksi lain lagi melaporkan penambahan 972,3 juta lembar yang mengangkat hak suaranya ke 42,16%."
+  ],
+  "fotoAdegan": "Rows of oil palm fruit bunches being loaded onto a truck at a plantation collection point, workers in the background, bright midday light",
+  "takeaway": "Saya menilai laporan ini positif bagi NSSS, karena direksi menambah kepemilikan dalam porsi besar, bukan melepasnya, dan hak suaranya melonjak hampir dua kali lipat dari 2,95% menjadi 5,58%. Transaksi lewat skema repo ini tidak menambah jumlah saham beredar perusahaan maupun mengubah pos laporan keuangan seperti ekuitas atau laba per saham, karena sahamnya hanya berpindah tangan, bukan hasil penerbitan baru, tetapi pasar tetap memperhatikannya karena menunjukkan peta kendali dan kepercayaan internal direksi terhadap perusahaan. Yang perlu dipantau berikutnya adalah RUPSLB NSSS pada 1 Desember 2026 yang membahas pergantian susunan komisaris, sebab rangkaian penambahan hak suara oleh beberapa direksi lewat repo dalam sepekan terakhir ini bisa mempengaruhi arah pemungutan suara di rapat tersebut.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital",
   "category": "Teknologi",
   "title": "Kemendagri Minta Pemda Percepat [Registrasi] Perlinsos Digital",
@@ -945,6 +1258,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Office workers in business attire walking through a modern glass high-rise lobby in Jakarta's financial district, midday light",
   "takeaway": "Laporan ini condong positif bagi AMOR, karena di balik kenaikan beban distribusi, pertumbuhan pendapatan bersih 17 persen tetap selaras dengan pertumbuhan dana kelolaan dan margin keuntungan terjaga. Yang tersentuh di sini adalah beban operasional dan margin EBITDA, yakni perbandingan keuntungan usaha terhadap pendapatan, yang jadi ukuran apakah perusahaan masih untung meski biaya naik, dan di sisi lain rasio dividen yang dihitung dari laba inti berkelanjutan sehingga mencerminkan kemampuan bayar dividen yang lebih stabil, bukan laba yang terdongkrak untung kurs sesaat. Rencana buyback, jika benar dijalankan dalam skala kecil seperti disebut manajemen, berpotensi sedikit mengurangi jumlah saham beredar sehingga laba per saham bisa sedikit terangkat, meski perseroan sendiri menyebut jumlahnya tidak besar dibanding total kas. Yang perlu dipantau selanjutnya adalah apakah tren pergeseran ke produk fixed income bermargin rendah lewat distributor terus berlanjut di laporan keuangan kuartal mendatang, serta realisasi aktual pembelian kembali saham yang baru disetujui dalam RUPST pada hari yang sama, 4 November 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bvic-victoria-investama-tambah-saham-hak-suara-ke-64-23",
+  "category": "Aksi Korporasi",
+  "title": "BVIC: Victoria Investama [Tambah] Saham, Hak Suara ke 64,23%",
+  "deck": "Victoria Investama Tbk membeli 749,6 juta saham BVIC via repo senilai sekitar Rp60 miliar, mengangkat hak suaranya di Bank Victoria dari 60,17 persen menjadi 64,23 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:29:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-2734-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BVIC",
+  "tags": [
+   "BVIC",
+   "Victoria Investama",
+   "Bank Victoria",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Victoria Investama Tbk, pemegang saham pengendali Bank Victoria International Tbk (BVIC), melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya membeli tambahan 749.634.400 saham BVIC pada 9 November 2026. Pembelian dilakukan secara tidak langsung lewat perjanjian pembelian kembali atau repo, dengan harga Rp80 per saham, sehingga nilai transaksinya sekitar Rp59,97 miliar. Dalam laporan tersebut, Victoria Investama menyebut tujuan transaksi ini adalah untuk meningkatkan penyertaan modal pada entitas anak.",
+   "Dengan tambahan itu, jumlah saham BVIC yang dipegang Victoria Investama naik dari 11.082.071.942 lembar menjadi 11.831.706.342 lembar, atau bertambah 6,76 persen dari kepemilikannya sebelum transaksi. Kenaikan jumlah saham ini turut mengubah persentase hak suara Victoria Investama di BVIC, dari sebelumnya 60,17 persen menjadi 64,23 persen, naik sekitar 4 poin persentase.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka dan Aktivitas Menjaminkan Saham Perusahaan Terbuka, yang mewajibkan setiap perubahan kepemilikan saham oleh pemegang saham utama atau pengendali dilaporkan ke OJK melalui sistem KSEI."
+  ],
+  "fotoAdegan": "Bank teller counter inside a busy branch office in Jakarta, customers waiting in line, soft fluorescent lighting",
+  "takeaway": "Laporan ini condong positif bagi Bank Victoria karena pemegang saham pengendalinya menambah kepemilikan dalam porsi yang cukup besar, naik sekitar 4 poin persentase hak suara dengan nilai transaksi mendekati Rp60 miliar, bukan sekadar transaksi kecil yang bisa diabaikan. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, yaitu porsi kendali atas keputusan penting perusahaan seperti pengangkatan direksi atau persetujuan aksi korporasi, dan pelaku pasar memperhatikannya karena kenaikan hak suara pengendali biasanya dibaca sebagai bentuk komitmen pemegang saham utama terhadap perusahaan. Perlu dicatat juga bahwa transaksi ini berbentuk perjanjian pembelian kembali atau repo, semacam pembelian saham dengan opsi jual kembali di kemudian hari, sehingga sifatnya bisa jadi lebih mirip pembiayaan berjangka ketimbang pembelian permanen. Yang perlu dipantau selanjutnya adalah keterbukaan lanjutan dari Bank Victoria atau Victoria Investama yang merinci entitas anak mana yang menerima suntikan modal dari transaksi ini, serta apakah ada laporan tambahan soal pembelian serupa yang bisa terus mengubah komposisi hak suara di BVIC.",
   "sentimen": "positif"
  },
  {
@@ -1264,6 +1603,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "issp-pemegang-saham-mayoritas-tambah-1-8-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "ISSP: Pemegang Saham [Mayoritas] Tambah 1,8 Juta Saham",
+  "deck": "Cakra Bhakti Para Putra, pemegang 57,77% hak suara ISSP, membeli 1.822.500 saham lewat tiga transaksi awal November, menaikkan hak suaranya ke 57,80%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T14:49:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-4792-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ISSP",
+  "tags": [
+   "ISSP",
+   "kepemilikan saham",
+   "pemegang saham",
+   "Steel Pipe Industry"
+  ],
+  "body": [
+   "PT Steel Pipe Industry of Indonesia Tbk (ISSP) menyampaikan laporan perubahan kepemilikan saham dari Cakra Bhakti Para Putra, pemegang saham dengan hak suara 57,77% sebelum transaksi. Berdasarkan laporan yang diterima pada 9 November 2026, jumlah saham yang dimiliki bertambah dari 4.151.644.730 lembar menjadi 4.153.467.230 lembar, atau naik 1.822.500 lembar. Kenaikan ini mendorong hak suara Cakra Bhakti Para Putra di ISSP naik tipis menjadi 57,80%.",
+   "Penambahan saham ini berasal dari tiga transaksi pembelian di pasar pada awal November 2026. Pada 2 November, sebanyak 660.000 saham dibeli secara tidak langsung dengan harga Rp415 per saham. Sehari kemudian, 507.500 saham dibeli secara langsung di harga Rp395 per saham, dan pada 5 November sebanyak 655.000 saham dibeli langsung di harga Rp378 per saham. Seluruh transaksi tercatat dengan tujuan investasi.",
+   "Kenaikan kepemilikan ini hanya menambah sekitar 0,04 persen dari total saham yang sebelumnya dimiliki Cakra Bhakti Para Putra di ISSP, dan tidak mengubah posisinya sebagai pemegang saham mayoritas dengan hak suara di atas 57 persen."
+  ],
+  "fotoAdegan": "Stacks of steel pipes in an industrial yard, a worker in a hard hat inspecting welds under overcast morning light",
+  "takeaway": "Laporan ini netral bagi ISSP karena penambahan 1.822.500 saham hanya setara 0,04 persen dari kepemilikan Cakra Bhakti Para Putra sebelumnya, terlalu kecil untuk dibaca sebagai sinyal keyakinan baru meski arahnya pembelian, bukan pelepasan. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, sebab pelaku pasar memantau apakah pemegang mayoritas menambah atau mengurangi kendalinya, dan di laporan ini hak suara Cakra Bhakti Para Putra hanya bergerak dari 57,77% menjadi 57,80%, sehingga tidak ada perubahan berarti pada kendali perusahaan. Yang perlu dipantau berikutnya adalah apakah pembelian serupa berlanjut di laporan-laporan mendatang, serta bagaimana ini berjalan beriringan dengan program buyback saham ISSP senilai Rp150 miliar dengan batas harga Rp600 yang baru diumumkan pekan ini, mengingat harga pembelian Cakra Bhakti Para Putra di kisaran Rp378 sampai Rp415 jauh di bawah batas tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "cbre-umumkan-rupslb-16-desember-agenda-menyusul",
   "category": "Aksi Korporasi",
   "title": "CBRE Umumkan [RUPSLB] 16 Desember, Agenda Menyusul",
@@ -1287,6 +1652,57 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Hotel ballroom staff arranging rows of empty chairs and a small stage for a formal corporate meeting under chandelier lighting",
   "takeaway": "Laporan ini netral karena isinya baru pemberitahuan rencana rapat, belum membuka agenda apa yang akan diputuskan, sehingga belum ada dampak keuangan yang bisa dinilai. Pos kinerja yang berpotensi tersentuh baru akan terlihat begitu agenda terbit, apalagi CBRE hari ini juga melaporkan rencana rights issue untuk mengonversi utang Rp858,6 miliar jadi saham baru, yang bila disahkan lewat RUPS akan menambah jumlah saham beredar dan ekuitas perusahaan sekaligus mengubah porsi hak suara pemegang saham lama. Dokumen ini sendiri tidak menyatakan RUPSLB ini membahas konversi utang tersebut, jadi keterkaitannya belum pasti. Yang perlu dipantau adalah pemanggilan resmi berisi agenda lengkap pada 24 November 2026, tenggat usulan mata acara dari pemegang saham sekitar 17 November 2026, dan pelaksanaan rapat sendiri pada 16 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mrat-direksi-tambah-saham-jadi-148-800-lembar",
+  "category": "Aksi Korporasi",
+  "title": "MRAT: Direksi [Tambah] Saham Jadi 148.800 Lembar",
+  "deck": "Direktur Mustika Ratu, Jodi Andrea Suryo Kusumo, membeli 9.700 saham MRAT pada 4-5 November 2026, menambah kepemilikannya jadi 148.800 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T14:28:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-7959-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MRAT",
+  "tags": [
+   "MRAT",
+   "Mustika Ratu",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Jodi Andrea Suryo Kusumo, Direksi PT Mustika Ratu Tbk (MRAT), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan secara tidak langsung dalam dua transaksi berturutan. Pembelian pertama sebanyak 7.300 lembar saham biasa dilakukan pada 4 November 2026, disusul 2.400 lembar pada 5 November 2026. Kedua transaksi dieksekusi pada harga yang sama, Rp386 per saham, dengan tujuan yang tercatat sebagai investasi.",
+   "Dengan tambahan 9.700 lembar itu, kepemilikan saham Jodi di MRAT naik dari 139.100 lembar menjadi 148.800 lembar. Porsi hak suaranya di perusahaan ikut naik, meski tipis, dari 0,033 persen menjadi 0,035 persen dari total saham beredar. Laporan ini disampaikan pada 9 November 2026, mengacu pada Peraturan OJK Nomor 4/2024 yang mewajibkan direksi dan komisaris perusahaan terbuka melaporkan setiap perubahan kepemilikan saham mereka."
+  ],
+  "fotoAdegan": "Close-up of hands arranging small glass bottles of herbal cosmetic products on a factory conveyor line, soft industrial lighting",
+  "takeaway": "Transaksi ini netral bagi Mustika Ratu karena ukurannya sangat kecil, nilai total pembelian hanya sekitar Rp3,7 juta dan porsi hak suara Jodi di perusahaan nyaris tidak bergeser, dari 0,033 persen menjadi 0,035 persen. Pembelian saham oleh direksi lewat pasar sekunder seperti ini tidak menambah jumlah saham beredar perusahaan maupun mengubah ekuitas, karena uangnya berpindah antar pemegang saham, bukan masuk ke kas perusahaan, sehingga laba per saham pun tidak terpengaruh. Yang perlu dicermati berikutnya adalah apakah pembelian kecil semacam ini berulang di laporan-laporan mendatang, karena pola berulang dari beberapa anggota direksi baru pantas disebut sebagai sinyal akumulasi, bukan transaksi tunggal seperti ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lopi-direksi-tambah-kepemilikan-saham-via-repurchase",
+  "category": "Aksi Korporasi",
+  "title": "LOPI: Direksi Tambah [Kepemilikan] Saham via Repurchase",
+  "deck": "Direktur LOPI Wahyu Dwi Jatmiko membeli 100.000 saham tambahan seharga Rp29 per lembar pada 6 November 2026, menambah hak suaranya jadi 0,191%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T14:26:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-2135-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LOPI",
+  "tags": [
+   "LOPI",
+   "kepemilikan saham",
+   "direksi",
+   "repurchase agreement"
+  ],
+  "body": [
+   "PT Logisticsplus International Tbk (LOPI) melaporkan perubahan kepemilikan saham oleh salah satu direksinya, Wahyu Dwi Jatmiko, kepada Otoritas Jasa Keuangan pada 9 November 2026. Dalam laporan bernomor LK/09112026/0007/1, Wahyu tercatat membeli 100.000 saham biasa LOPI secara tidak langsung melalui mekanisme repurchase agreement dengan harga Rp29 per lembar. Transaksi berlangsung pada 6 November 2026 dengan tujuan yang disebut sebagai strategi investasi, dan batas akhir periode pelaksanaannya pada 10 November 2026.",
+   "Dengan transaksi ini, jumlah saham yang dimiliki Wahyu bertambah dari 2.000.060 lembar menjadi 2.100.060 lembar, naik 100.000 lembar atau sekitar 5 persen dari kepemilikannya sebelumnya. Porsi hak suaranya di LOPI pun naik dari 0,182 persen menjadi 0,191 persen dari total saham beredar perusahaan.",
+   "Transaksi ini melanjutkan tren akumulasi saham oleh Wahyu dalam sepekan terakhir. Pada 6 November 2026, ia sebelumnya dilaporkan membeli saham secara tidak langsung yang membawa kepemilikannya ke sekitar 2 juta lembar, sebelum bertambah lagi lewat transaksi repurchase agreement kali ini."
+  ],
+  "fotoAdegan": "Workers loading cardboard boxes onto a delivery truck at a logistics warehouse loading dock, early morning light",
+  "takeaway": "Laporan ini netral bagi LOPI karena meski merupakan pembelian lanjutan oleh direksi, ukurannya masih sangat kecil dan tidak mengubah struktur pengendalian perusahaan secara berarti. Transaksi ini menyentuh hak suara, yaitu proporsi suara yang dimiliki seorang pemegang saham dibanding total saham beredar perusahaan, yang di sini hanya naik dari 0,182 persen menjadi 0,191 persen, sehingga pengaruhnya terhadap siapa yang mengendalikan LOPI praktis tidak berubah. Nilai transaksinya pun kecil, sekitar Rp2,9 juta untuk 100.000 saham dengan harga Rp29 per lembar. Yang perlu dipantau adalah batas akhir periode pelaksanaan transaksi pada 10 November 2026, serta apakah Wahyu akan terus menambah kepemilikannya setelah dua transaksi pembelian dalam waktu kurang dari sepekan ini.",
   "sentimen": "netral"
  },
  {

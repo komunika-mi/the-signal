@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bei-resmi-delisting-saham-sril-mulai-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BEI Resmi [Delisting] Saham SRIL Mulai 10 November 2026",
+  "deck": "Bursa Efek Indonesia mencabut status tercatat Sri Rejeki Isman (SRIL) efektif 10 November 2026 karena forced delisting dan go private.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRIL",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3456c61142_27d261efb9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cowl-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "COWL Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "BEI resmi delisting saham COWL efektif 10 November 2026 karena forced delisting dan go private, bersama 17 emiten lain yang juga dihapus dari pencatatan bursa.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "COWL",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ba108abcd6_e35993ed32.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lcgp-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "LCGP Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "Bursa Efek Indonesia mencabut status tercatat PT Eureka Prima Jakarta Tbk (LCGP) akibat forced delisting dan go private, bersama 17 emiten lain dalam satu pengumuman.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LCGP",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/80bc8cc31f_d1176fe971.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "plas-resmi-delisting-dari-bei-gabung-17-emiten-lain",
+  "category": "Aksi Korporasi",
+  "title": "PLAS Resmi [Delisting] dari BEI, Gabung 17 Emiten Lain",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan saham PLAS efektif 10 November 2026 karena forced delisting dan go private, bersama 17 emiten lain yang disuspensi lama.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PLAS",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/913d831c50_17870684c5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "toys-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "TOYS Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "BEI mencabut status tercatat saham TOYS efektif 10 November 2026 akibat forced delisting dan go private, bagian dari 18 emiten yang didelisting bersamaan.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOYS",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2f8586cd52_a9fc19b056.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unit-resmi-delisting-dari-bei-mulai-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "UNIT resmi [delisting] dari BEI mulai 10 November 2026",
+  "deck": "Bursa Efek Indonesia mencabut status PT Nusantara Inti Corpora Tbk (UNIT) sebagai perusahaan tercatat akibat forced delisting dan go private.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNIT",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/033391f130_4c2c82add7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lmas-kena-delisting-paksa-bei-efektif-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "LMAS Kena [Delisting] Paksa BEI, Efektif 10 November 2026",
+  "deck": "BEI resmi mencabut status perusahaan tercatat LMAS beserta 17 emiten lain, efektif 10 November 2026, setelah saham disuspensi lebih dari 24 bulan tanpa tanda pemulihan.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LMAS",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9bab99186e_cd4c8e15bd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tril-didelisting-bei-efektif-10-november-jadi-go-private",
+  "category": "Aksi Korporasi",
+  "title": "TRIL Didelisting BEI, Efektif 10 November jadi [Go Private]",
+  "deck": "Bursa Efek Indonesia mencabut status TRIL sebagai perusahaan tercatat mulai 10 November 2026, bagian dari forced delisting dan go private atas 18 emiten sekaligus.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIL",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b693f70da1_e4cc622b76.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "lppom-mui-ajak-4-525-pelajar-kenal-ekosistem-halal",
   "category": "Bisnis",
   "title": "LPPOM MUI [Ajak] 4.525 Pelajar Kenal Ekosistem Halal",
@@ -20,6 +148,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477448-edukasi-halal-tak-cukup-untuk-orang-dewasa-lppom-mui-sasar-ribuan-pelajar-lewat-kompetisi-berbasis-nasional"
+ },
+ {
+  "slug": "wmuu-minta-pemegang-saham-fisik-tukar-sks-ke-elektronik-sebelum-2030",
+  "category": "Aksi Korporasi",
+  "title": "WMUU Minta Pemegang Saham Fisik Tukar SKS ke [Elektronik] Sebelum 2030",
+  "deck": "WMUU mengumumkan proses dematerialisasi saham fisik. Pemegang Surat Kolektif Saham diminta menukarkan sertifikat ke Datindo Entrycom sebelum 6 Mei 2030.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WMUU",
+   "dematerialisasi saham",
+   "pemegang saham",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dde1082a54_06eef4bdf2.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "goll-resmi-delisting-dari-bei-efektif-10-november-2026",
@@ -115,6 +259,22 @@ var ARTICLES = [
    "go private"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/269b59ba05_4f2bed2560.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bata-rombak-direksi-raymond-chew-jadi-presiden-direktur",
+  "category": "Aksi Korporasi",
+  "title": "BATA Rombak Direksi, [Raymond Chew] Jadi Presiden Direktur",
+  "deck": "RUPSLB Sepatu Bata menyetujui pengunduran dua presiden direktur dan mengangkat Raymond Chew sebagai Presiden Direktur baru bersama Anibal Juan Torres Alvarez sebagai direktur.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BATA",
+   "RUPSLB",
+   "Direksi",
+   "Raymond Chew"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/48eb46970d_af2f1bd3dd.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -509,6 +669,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "rlco-direksi-tambah-11-56-juta-saham-via-top-up-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Tambah 11,56 Juta Saham via [Top Up] Repo",
+  "deck": "Direksi RLCO, Samuel Sekuritas Indonesia, menambah kepemilikan saham lewat mekanisme top up perjanjian repo pada 9 November 2026, menaikkan hak suara dari 11,85% menjadi 12,22%.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "repo",
+   "direksi",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-8276-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ultj-bagi-dividen-tunai-tambahan-rp100-per-saham",
   "category": "Aksi Korporasi",
   "title": "ULTJ Bagi [Dividen] Tunai Tambahan Rp100 per Saham",
@@ -557,6 +733,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "nsss-direksi-tambah-saham-via-repo-hak-suara-ke-5-58",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Tambah Saham via Repo, [Hak Suara] ke 5,58%",
+  "deck": "Direksi NSSS, Mitra Agro Dharma Unggul, membeli 626,9 juta saham lewat repo senilai sekitar Rp285,2 miliar, mengangkat hak suaranya dari 2,95% menjadi 5,58%.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-5417-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital",
   "category": "Teknologi",
   "title": "Kemendagri Minta Pemda Percepat [Registrasi] Perlinsos Digital",
@@ -587,6 +779,22 @@ var ARTICLES = [
    "Dividen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/96088336af_ecccab5edc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bvic-victoria-investama-tambah-saham-hak-suara-ke-64-23",
+  "category": "Aksi Korporasi",
+  "title": "BVIC: Victoria Investama [Tambah] Saham, Hak Suara ke 64,23%",
+  "deck": "Victoria Investama Tbk membeli 749,6 juta saham BVIC via repo senilai sekitar Rp60 miliar, mengangkat hak suaranya di Bank Victoria dari 60,17 persen menjadi 64,23 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BVIC",
+   "Victoria Investama",
+   "Bank Victoria",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-2734-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -783,6 +991,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "issp-pemegang-saham-mayoritas-tambah-1-8-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "ISSP: Pemegang Saham [Mayoritas] Tambah 1,8 Juta Saham",
+  "deck": "Cakra Bhakti Para Putra, pemegang 57,77% hak suara ISSP, membeli 1.822.500 saham lewat tiga transaksi awal November, menaikkan hak suaranya ke 57,80%.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ISSP",
+   "kepemilikan saham",
+   "pemegang saham",
+   "Steel Pipe Industry"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-4792-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cbre-umumkan-rupslb-16-desember-agenda-menyusul",
   "category": "Aksi Korporasi",
   "title": "CBRE Umumkan [RUPSLB] 16 Desember, Agenda Menyusul",
@@ -796,6 +1020,38 @@ var ARTICLES = [
    "Cakra Buana Resources Energi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f5daceb6d1_30106a9e27.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mrat-direksi-tambah-saham-jadi-148-800-lembar",
+  "category": "Aksi Korporasi",
+  "title": "MRAT: Direksi [Tambah] Saham Jadi 148.800 Lembar",
+  "deck": "Direktur Mustika Ratu, Jodi Andrea Suryo Kusumo, membeli 9.700 saham MRAT pada 4-5 November 2026, menambah kepemilikannya jadi 148.800 lembar.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MRAT",
+   "Mustika Ratu",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-7959-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lopi-direksi-tambah-kepemilikan-saham-via-repurchase",
+  "category": "Aksi Korporasi",
+  "title": "LOPI: Direksi Tambah [Kepemilikan] Saham via Repurchase",
+  "deck": "Direktur LOPI Wahyu Dwi Jatmiko membeli 100.000 saham tambahan seharga Rp29 per lembar pada 6 November 2026, menambah hak suaranya jadi 0,191%.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LOPI",
+   "kepemilikan saham",
+   "direksi",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-2135-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6206,268 +6462,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103114915-65710-0/FinancialStatement-2026-III-ASMI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtsm-bukukan-laba-kuartal-iii-tapi-ekuitas-susut-21-6-persen",
-  "category": "Aksi Korporasi",
-  "title": "MTSM Bukukan Laba Kuartal III, tapi [Ekuitas] Susut 21,6 Persen",
-  "deck": "Laporan keuangan interim kuartal III 2026 MTSM mencatat laba bersih Rp465,65 juta, namun ekuitas tergerus koreksi saldo laba Rp6,58 miliar dan utang naik 45 persen.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTSM",
-   "laporan keuangan",
-   "properti",
-   "ekuitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103115020-65704-0/FinancialStatement-2026-III-MTSM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jsmr-panggil-rupslb-setujui-penggabungan-lmj-tol-ke-jtt",
-  "category": "Aksi Korporasi",
-  "title": "JSMR Panggil RUPSLB, Setujui [Penggabungan] LMJ-TOL ke JTT",
-  "deck": "Jasa Marga memanggil RUPSLB pada 25 November 2026 untuk membahas penggabungan anak usaha tol LMJ dan TOL ke JTT, perubahan anggaran dasar, dan perubahan susunan pengurus.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JSMR",
-   "RUPSLB",
-   "Jasa Marga",
-   "Merger anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1d7d6d9184_b144769848.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-lapor-lk-kuartal-i-2025-defisit-modal-melebar-lagi",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Lapor LK Kuartal I/2025, [Defisit] Modal Melebar Lagi",
-  "deck": "Laporan keuangan interim Kuartal I/2025 BOSS, baru disampaikan ke bursa 2 November 2026, menunjukkan rugi berlipat dan defisit modal melebar jadi Rp232,61 miliar.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "defisiensi modal",
-   "laporan keuangan interim",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/20261103112441-65705-0/FinancialStatement-2025-I-BOSS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fimp-seluruh-piutang-usaha-macet-lebih-dari-120-hari",
-  "category": "Aksi Korporasi",
-  "title": "FIMP: Seluruh [Piutang] Usaha Macet Lebih dari 120 Hari",
-  "deck": "BEI meminta FIMP menjelaskan sejumlah kejanggalan laporan keuangan, dari piutang usaha yang seluruhnya macet lebih dari 120 hari hingga arus kas operasional yang berbalik negatif.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FIMP",
-   "piutang usaha",
-   "arus kas",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/94a86437fa_a4e63d5a2e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fapa-tegaskan-tak-terlibat-penyelidikan-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "FAPA Tegaskan Tak Terlibat [Penyelidikan] Karhutla Singapura",
-  "deck": "FAP Agri menjawab permintaan penjelasan lanjutan Bursa soal pemanggilan grup afiliasinya oleh Pemerintah Singapura terkait penyelidikan karhutla, dan menyatakan tidak ada dampak material bagi perseroan.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FAPA",
-   "karhutla",
-   "keterbukaan informasi",
-   "Singapura"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3db7fe5433_3fe720e260.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bhit-anak-usaha-bcap-catat-laba-naik-18-6-di-9m-2026",
-  "category": "Aksi Korporasi",
-  "title": "BHIT: Anak Usaha [BCAP] Catat Laba Naik 18,6% di 9M-2026",
-  "deck": "PT MNC Kapital Indonesia Tbk (BCAP), anak usaha BHIT, membukukan laba bersih Rp182,28 miliar pada 9M-2026, naik 18,6% yoy meski pendapatan total turun tipis.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BHIT",
-   "BCAP",
-   "MNC Kapital",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/87691525dd_434a659425.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "keen-tegaskan-tak-terlibat-investigasi-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "KEEN Tegaskan Tak Terlibat Investigasi [Karhutla] Singapura",
-  "deck": "PT Kencana Energi Lestari Tbk menjawab permintaan penjelasan BEI soal investigasi karhutla yang menyeret afiliasinya, Kencana Agri, dan menegaskan tidak ada keterlibatan langsung.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KEEN",
-   "Karhutla",
-   "Kencana Agri",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ae7e0ca793_f92a24e6ed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "live-laba-bersih-anjlok-73-jadi-rp2-83-miliar",
-  "category": "Aksi Korporasi",
-  "title": "LIVE: Laba Bersih [Anjlok] 73% Jadi Rp2,83 Miliar",
-  "deck": "Pendapatan Homeco Victoria Makmur turun 36 persen jadi Rp131,2 miliar dalam sembilan bulan 2026, menggerus laba bersih ke Rp2,83 miliar.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LIVE",
-   "laporan keuangan",
-   "consumer cyclicals",
-   "household goods"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103104807-65624-0/FinancialStatement-2026-III-LIVE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "halo-jadwalkan-rupslb-pada-10-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "HALO Jadwalkan [RUPSLB] pada 10 Desember 2026",
-  "deck": "Haloni Jane Tbk akan menggelar rapat pemegang saham luar biasa 10 Desember 2026, dengan tanggal pencatatan pemegang saham pada 17 November 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HALO",
-   "RUPSLB",
-   "Haloni Jane",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f92c3d1c8d_4806463437.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-ubah-aturan-tambang-prioritaskan-pengusaha-daerah",
-  "category": "Energi",
-  "title": "ESDM [Ubah] Aturan Tambang, Prioritaskan Pengusaha Daerah",
-  "deck": "Kementerian ESDM mengubah aturan izin tambang mineral dan batu bara agar UMKM, koperasi, dan BUMD mendapat prioritas, karena selama ini izin lebih banyak dikuasai pengusaha besar berkantor di Jakarta.",
-  "date": "3 November 2026",
-  "image": "assets/img/esdm-ubah-aturan-tambang-prioritaskan-pengusaha-daerah.jpg",
-  "imageV": "mw03svkg",
-  "tags": [
-   "ESDM",
-   "Tambang",
-   "UMKM",
-   "Minerba"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tambangnya-di-daerah-izinnya-di-jakarta-bahlil-ubah-aturan-agar-orang-daerah-kebagian",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "ri-pasok-43-batu-bara-dunia-produksi-kini-direm-pemerintah",
-  "category": "Energi",
-  "title": "RI Pasok 43% Batu Bara Dunia, Produksi Kini [Direm] Pemerintah",
-  "deck": "Pemerintah mengendalikan produksi batu bara lewat jatah RKAB agar harga tidak jatuh, sembari mengklaim penerimaan negara terus naik hingga 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/ri-pasok-43-batu-bara-dunia-produksi-kini-direm-pemerintah.jpg",
-  "imageV": "mw03sxpl",
-  "tags": [
-   "batu bara",
-   "RKAB",
-   "ESDM",
-   "penerimaan negara"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasok-hampir-separuh-pasar-dunia-tapi-dijual-murah-bahlil-kendalikan-produksi-batu-bara",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "bcap-laba-bersih-naik-18-6-pendapatan-turun-tipis-di-9m-2026",
-  "category": "Aksi Korporasi",
-  "title": "BCAP: Laba Bersih Naik 18,6%, [Pendapatan] Turun Tipis di 9M-2026",
-  "deck": "Laba bersih BCAP naik 18,6% jadi Rp182,28 miliar pada 9M-2026, tapi pendapatan konsolidasi turun tipis dan aset perusahaan menyusut dibanding akhir 2025.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BCAP",
-   "MNC Kapital",
-   "laba bersih",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a4e3a30f7_4b9a8b12b2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-naik-rp10-000-jadi-rp2-541-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas [Antam] Naik Rp10.000 Jadi Rp2.541.000/Gram",
-  "deck": "Harga emas batangan Antam naik Rp10.000 menjadi Rp2.541.000 per gram pada Selasa, 3 November 2026, dengan harga buyback Rp2.311.000 per gram.",
-  "date": "3 November 2026",
-  "image": "assets/img/harga-emas-antam-naik-rp10-000-jadi-rp2-541-000-gram.jpg",
-  "imageV": "mw03sy7q",
-  "tags": [
-   "emas",
-   "antam",
-   "harga emas",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476322-harga-emas-antam-hari-ini-3-november-2026-naik-jadi-rp2541000-per-gram-pertimbangkan-jika-mau-menjual"
- },
- {
-  "slug": "swasembada-gula-dikejar-2-tahun-ratoon-tebu-digenjot",
-  "category": "Industri",
-  "title": "Swasembada Gula Dikejar 2 Tahun, [Ratoon] Tebu Digenjot",
-  "deck": "Pemerintah memangkas target swasembada gula dari empat tahun jadi dua tahun lewat peremajaan tanaman tebu sistem ratoon yang kini diperluas ke Jawa Timur dan Jawa Tengah, termasuk Klaten.",
-  "date": "3 November 2026",
-  "image": "assets/img/swasembada-gula-dikejar-2-tahun-ratoon-tebu-digenjot.jpg",
-  "imageV": "mw03syq4",
-  "tags": [
-   "gula",
-   "ratoon tebu",
-   "swasembada",
-   "Klaten"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476320-kejar-target-swasembada-gula-dua-tahun-peremajaan-sistem-ratoon-tebu-diperluas-ke-jatimjateng"
- },
- {
-  "slug": "post-batalkan-rupo-dan-rupsi-tunggu-audit-kelar",
-  "category": "Aksi Korporasi",
-  "title": "POST Batalkan RUPO dan RUPSI, Tunggu [Audit] Kelar",
-  "deck": "PT Pos Indonesia membatalkan RUPO Obligasi 2022 dan dua RUPSI karena audit laporan keuangan belum tuntas, menyusul downgrade Fitch ke status gagal bayar.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "obligasi",
-   "sukuk",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e8f16fe0d6_c9fb50ede8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-semester-i-2026-masih-nihil-penjualan-defisit-melebar",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Semester I/2026: Masih Nihil Penjualan, [Defisit] Melebar",
-  "deck": "Defisiensi modal BOSS melebar jadi Rp265,81 miliar per Juni 2026, dari Rp260,16 miliar akhir 2025, sementara penjualan bersih tetap nol sepanjang semester pertama.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "defisiensi modal",
-   "laporan keuangan interim",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103091006-65703-0/FinancialStatement-2026-II-BOSS.pdf",
   "sourceLabel": "IDX"
  }
 ];

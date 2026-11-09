@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "nFT0pcs-bTE",
+  "title": "Harga Tepung Naik, Penjual Kue Terpaksa Naikkan Harga Jual",
+  "category": "UMKM",
+  "program": "Apa Kabar Indonesia Siang",
+  "summary": "Kenaikan harga tepung terigu dan tapioka di berbagai daerah membebani pelaku UMKM kuliner, khususnya perajin kue, hingga memaksa mereka menaikkan harga jual produknya.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan bagaimana lonjakan harga bahan baku langsung menekan daya tahan usaha mikro dan kecil.",
+  "terbit": "2026-11-09T07:25:58+00:00"
+ },
+ {
+  "id": "O4xlNS1SI50",
+  "title": "BPS Jelaskan Alasan Bekerja 1 Jam Sepekan Tetap Dihitung",
+  "category": "Ketenagakerjaan",
+  "program": "OneNews Update",
+  "summary": "Badan Pusat Statistik menjelaskan metodologi di balik definisi penduduk bekerja, termasuk alasan seseorang yang hanya bekerja satu jam dalam sepekan tetap masuk kategori tersebut.",
+  "takeaway": "Penting bagi pembaca yang ingin memahami cara membaca data ketenagakerjaan dan tingkat pengangguran yang rutin dirilis BPS.",
+  "terbit": "2026-11-09T07:12:18+00:00"
+ },
+ {
   "id": "25K-cm2npaw",
   "title": "Aturan Baru BSU 2026: Pekerja Gaji Atas Rp3,5 Juta Bisa Dapat Subsidi",
   "category": "Ketenagakerjaan",

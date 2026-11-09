@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "nFT0pcs-bTE",
+  "title": "Harga Tepung Naik, Penjual Kue Terpaksa Naikkan Harga Jual",
+  "category": "UMKM",
+  "program": "Apa Kabar Indonesia Siang",
+  "summary": "Kenaikan harga tepung terigu dan tapioka di berbagai daerah membebani pelaku UMKM kuliner, khususnya perajin kue, hingga memaksa mereka menaikkan harga jual produknya.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan bagaimana lonjakan harga bahan baku langsung menekan daya tahan usaha mikro dan kecil."
+ },
+ {
+  "id": "O4xlNS1SI50",
+  "title": "BPS Jelaskan Alasan Bekerja 1 Jam Sepekan Tetap Dihitung",
+  "category": "Ketenagakerjaan",
+  "program": "OneNews Update",
+  "summary": "Badan Pusat Statistik menjelaskan metodologi di balik definisi penduduk bekerja, termasuk alasan seseorang yang hanya bekerja satu jam dalam sepekan tetap masuk kategori tersebut.",
+  "takeaway": "Penting bagi pembaca yang ingin memahami cara membaca data ketenagakerjaan dan tingkat pengangguran yang rutin dirilis BPS."
+ },
+ {
   "id": "25K-cm2npaw",
   "title": "Aturan Baru BSU 2026: Pekerja Gaji Atas Rp3,5 Juta Bisa Dapat Subsidi",
   "category": "Ketenagakerjaan",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Bisnis Bareng Orang Hebat",
   "summary": "BTN merilis aplikasi bale by BTN yang menyatukan berbagai layanan perbankan dalam satu platform digital sebagai bagian dari transformasi digital perseroan.",
   "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan transformasi digital di sektor perbankan nasional."
- },
- {
-  "id": "eGCQvlRbAyg",
-  "title": "Rapimnas Kadin 2026: Paparan Menteri Perdagangan dan Perindustrian",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Menteri Perdagangan dan Menteri Perindustrian memaparkan arah kebijakan perdagangan dan industri dalam forum Rapat Pimpinan Nasional Kadin 2026 di Jakarta.",
-  "takeaway": "Memberi gambaran arah kebijakan perdagangan dan industri pemerintah ke depan."
- },
- {
-  "id": "9QQau7Ck1FA",
-  "title": "Indonesia Pangkas Pasokan Gas ke Singapura",
-  "category": "Energi",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah Indonesia memangkas ekspor gas bumi ke Singapura sebesar 31 juta kaki kubik standar per hari mulai 24 Oktober 2026.",
-  "takeaway": "Berdampak pada hubungan dagang energi regional dan pendapatan ekspor gas nasional."
  }
 ];

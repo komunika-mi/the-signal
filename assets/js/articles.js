@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bbni-tutup-layanan-bni-mobile-banking-pindah-ke-wondr",
+  "category": "Aksi Korporasi",
+  "title": "BBNI Tutup Layanan [BNI Mobile Banking], Pindah ke Wondr",
+  "deck": "BNI menutup akses BNI Mobile Banking secara bertahap hingga 30 November 2026 dan sepenuhnya pada 21 Desember 2026, mengalihkan nasabah ke aplikasi wondr by BNI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T14:06:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ed5c7783bd_137f346595.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBNI",
+  "tags": [
+   "BBNI",
+   "wondr by BNI",
+   "perbankan digital",
+   "BNI Mobile Banking"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk mengumumkan akan menutup akses pengguna layanan BNI Mobile Banking secara bertahap hingga 30 November 2026, dan menghentikan layanan tersebut secara keseluruhan pada 21 Desember 2026. Dalam keterbukaan informasi yang ditandatangani Corporate Secretary Okki Rushartomo Budiprabowo tersebut, BNI mengimbau nasabah untuk memindahkan transaksi perbankan mereka ke aplikasi wondr by BNI, yang disebut sebagai kanal digital andalan perseroan untuk kebutuhan transaksi harian dan pengelolaan keuangan nasabah individu.",
+   "BNI menjelaskan bahwa rencana penutupan ini bukan hal baru. Informasi mengenai penghentian layanan BNI Mobile Banking sudah diumumkan kepada nasabah sejak 2 Juni 2025 dan diperbarui terakhir pada 20 Oktober 2026 melalui situs resmi bni.co.id, sesuai ketentuan pemberitahuan konsumen dalam aturan OJK tentang pelindungan konsumen di sektor jasa keuangan. Perseroan juga menegaskan bahwa proses penutupan tetap memperhatikan persetujuan regulator serta peraturan perundangan yang berlaku.",
+   "Dalam laporan tersebut, BNI menyatakan bahwa penutupan BNI Mobile Banking merupakan bagian dari strategi optimalisasi layanan digital perseroan, dengan tetap memastikan keberlanjutan transaksi nasabah melalui wondr by BNI. Perseroan menegaskan langkah ini tidak memberikan dampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Woman using a mobile banking app on her smartphone while waiting in a bank queue, Jakarta, screen out of focus, soft morning light",
+  "takeaway": "Laporan ini netral bagi BNI, sebab penutupan BNI Mobile Banking sudah direncanakan jauh hari dan diumumkan ke nasabah sejak Juni 2025, sehingga bukan kejutan, dan perseroan sendiri menegaskan tidak ada dampak ke keuangan atau operasionalnya. Yang tersentuh di sini bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, melainkan basis nasabah digital bank, karena memindahkan jutaan pengguna dari satu aplikasi ke aplikasi lain selalu mengandung risiko operasional kalau sebagian nasabah gagal beralih tepat waktu dan sempat kehilangan akses perbankannya. Yang perlu dipantau berikutnya adalah dua tanggal yang disebut BNI sendiri, penutupan akses secara bertahap hingga 30 November 2026 dan penghentian total layanan pada 21 Desember 2026, yang keduanya masih bergantung pada persetujuan regulator.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "plas-buka-suspensi-sesaat-untuk-crossing-buyback-delisting",
+  "category": "Aksi Korporasi",
+  "title": "PLAS Buka Suspensi Sesaat untuk [Crossing] Buyback Delisting",
+  "deck": "Bursa membuka sementara perdagangan PLAS khusus di Pasar Negosiasi pada 9 November 2026 untuk transaksi crossing buyback saham terkait delisting, lalu menyuspensinya lagi setelah transaksi selesai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T13:58:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0b0f8c438f_6145c08d11.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PLAS",
+  "tags": [
+   "PLAS",
+   "delisting",
+   "buyback saham",
+   "suspensi saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencabut sementara penghentian perdagangan (suspensi) saham PT Polaris Investama Tbk (PLAS), tapi hanya di Pasar Negosiasi, berlaku sejak Sesi II perdagangan Senin, 9 November 2026 pukul 13.30 WIB. Pembukaan ini semata untuk memfasilitasi transaksi crossing, yaitu transaksi jual beli saham yang harga dan jumlahnya sudah disepakati lebih dulu oleh kedua pihak lalu dicatatkan di bursa, dalam rangka pengalihan saham hasil pembelian kembali (buyback) yang dilakukan Polaris Investama. Transaksi tersebut akan dieksekusi oleh PT Pilarmas Investindo Sekuritas selaku perusahaan efek yang ditunjuk oleh Polaris Investama.",
+   "Pembukaan sementara ini merujuk pada dua dokumen: pengumuman suspensi awal Bursa tertanggal 27 Desember 2018, dan surat permohonan Polaris Investama Nomor 006/PI/XI/2026 tanggal 4 November 2026 yang meminta pembukaan sementara suspensi demi menuntaskan buyback saham sebagai bagian dari proses pembatalan pencatatan (delisting) sahamnya dari bursa. Saham PLAS sendiri sudah tidak bisa diperdagangkan sejak suspensi 2018 tersebut.",
+   "Bursa menegaskan bahwa begitu transaksi pengalihan saham itu selesai, perdagangan saham PLAS akan kembali disuspensi di seluruh pasar pada sesi yang sama, yaitu Sesi II Pasar Negosiasi, Senin 9 November 2026. Selama jendela pembukaan sementara itu, Bursa melarang transaksi lain selain crossing buyback yang dimaksud. Pengumuman ditandatangani Kepala Divisi Penilaian Perusahaan 3 Lidia M. Panjaitan dan Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A."
+  ],
+  "fotoAdegan": "Brokerage staff making phone calls to negotiate a block trade inside a Jakarta securities firm office, late afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental Polaris Investama, karena isinya sekadar mekanisme teknis pelaksanaan buyback yang memang disyaratkan dalam proses delisting yang sudah berjalan sejak 2018, bukan transaksi baru yang mengubah kinerja perusahaan. Yang tersentuh di sini adalah jumlah saham beredar yang dipegang publik, sebab pembelian kembali saham oleh Polaris Investama mengurangi porsi saham yang beredar di luar perusahaan sebelum sahamnya resmi dihapus dari pencatatan bursa, dan transaksi ini sengaja lewat Pasar Negosiasi, jalur harga sudah disepakati di muka, bukan pasar reguler yang terbuka untuk umum. Yang perlu dipantau berikutnya adalah apakah transaksi crossing pada Sesi II, 9 November 2026 ini benar-benar rampung sesuai rencana, sebab begitu selesai Bursa langsung menyuspensi saham PLAS kembali di seluruh pasar, dan proses delisting resmi kemungkinan akan segera menyusul setelahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bafi-siapkan-dana-pelunasan-obligasi-rp100-miliar-29-november",
+  "category": "Aksi Korporasi",
+  "title": "BAFI Siapkan Dana [Pelunasan] Obligasi Rp100 Miliar 29 November",
+  "deck": "BAFI menyiapkan dana Rp100 miliar untuk melunasi pokok dan bunga terakhir obligasi yang jatuh tempo 29 November 2026, dana dikirim ke KSEI 27 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T13:54:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7cb13aa4ed_1ed4753d96.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAFI",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "Bussan Auto Finance",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Bussan Auto Finance (BAFI) menyampaikan rencana pelunasan pokok dan bunga terakhir dari Obligasi Berkelanjutan III Tahap IV Tahun 2025 melalui keterbukaan informasi ke Bursa Efek Indonesia tertanggal 9 November 2026. Perseroan menyatakan telah menyiapkan dana untuk membayar pokok senilai Rp100 miliar dan bunga sebesar Rp1,39 miliar.",
+   "Obligasi tersebut jatuh tempo pada 29 November 2026. BAFI berencana mengirimkan dana pelunasan itu ke agen pembayaran, PT Kustodian Sentral Efek Indonesia (KSEI), pada 27 November 2026, dua hari sebelum tanggal jatuh tempo. Surat keterbukaan informasi ini ditandatangani oleh Sigit Sembodo, Wakil Presiden Direktur BAFI, dengan merujuk pada Peraturan BEI Nomor I-E tentang Kewajiban Penyampaian Informasi.",
+   "Surat ini juga ditembuskan kepada KSEI, PT Bank Mandiri (Persero) Tbk selaku wali amanat obligasi, serta dua lembaga pemeringkat yaitu Fitch Ratings Indonesia dan PT Pemeringkat Efek Indonesia (Pefindo). Perseroan menyatakan bahwa pelunasan ini tidak membawa dampak signifikan terhadap kegiatan operasional, kondisi hukum, keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Customers test-riding motorcycles at a busy dealership showroom in Jakarta, salespeople assisting nearby, bright daylight",
+  "takeaway": "Rencana pelunasan ini condong positif bagi BAFI, karena perseroan menunjukkan kesiapan dana jauh sebelum jatuh tempo tanpa tanda kesulitan likuiditas untuk menutup kewajiban obligasinya. Pos yang tersentuh adalah total utang dan arus kas, begitu pokok Rp100 miliar dan bunga Rp1,39 miliar dibayarkan, beban utang obligasi BAFI berkurang sejumlah itu sementara kasnya keluar dalam jumlah yang sama, dan beban bunga rutin untuk obligasi ini pun berhenti karena surat utangnya resmi lunas. Yang perlu dipantau selanjutnya adalah apakah dana benar benar terkirim ke KSEI selaku agen pembayaran pada 27 November 2026, dua hari sebelum tanggal jatuh tempo 29 November 2026, serta konfirmasi pelunasan penuh setelah tanggal tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "nsss-panggil-rupslb-bahas-pergantian-komisaris-1-desember",
+  "category": "Aksi Korporasi",
+  "title": "NSSS Panggil RUPSLB, Bahas [Pergantian] Komisaris 1 Desember",
+  "deck": "PT Nusantara Sawit Sejahtera Tbk memanggil RUPSLB 1 Desember 2026 untuk menyetujui perubahan susunan Dewan Komisaris dan penyesuaian kode KBLI dalam anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T13:52:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f9a9517b43_d9605c7de3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Nusantara Sawit Sejahtera"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 1 Desember 2026, pukul 10.00 WIB. Rapat berlokasi di Jakarta Selatan dan dapat diikuti secara elektronik melalui sistem eASY.KSEI pada tautan akses.ksei.co.id. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 6 November 2026.",
+   "Rapat ini membawa dua agenda. Pertama, persetujuan dan pengesahan perubahan susunan Dewan Komisaris Perseroan, yang menurut perseroan wajib melalui persetujuan RUPS sesuai Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas dan Peraturan OJK Nomor 33/POJK.04/2014. Kedua, persetujuan perubahan Pasal 3 Anggaran Dasar Perseroan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025, menyusul terbitnya Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 yang mewajibkan penyesuaian kode usaha perusahaan.",
+   "Perseroan membuka registrasi elektronik sejak tanggal pemanggilan ini hingga ditutup paling lambat 30 menit sebelum rapat, yakni pukul 09.30 WIB. Bagi pemegang saham yang ingin memberi kuasa kepada perwakilan independen yang disediakan perseroan, batas waktu pendaftaran kuasa dan suara melalui aplikasi eASY.KSEI adalah 30 November 2026 pukul 12.00 WIB, atau satu hari kerja sebelum rapat. Materi rapat sudah dapat diunduh di situs resmi perseroan sejak tanggal pemanggilan, dan karena rapat digelar secara elektronik, perseroan tidak menyediakan makanan, suvenir, atau materi fisik di lokasi."
+  ],
+  "fotoAdegan": "Rows of oil palm trees along a plantation road with a worker inspecting fresh fruit bunches, early morning light",
+  "takeaway": "Pemanggilan rapat ini saya nilai netral bagi fundamental NSSS, karena dua agenda yang diajukan, pergantian susunan komisaris dan penyesuaian kode usaha, bersifat administratif dan belum mengubah kondisi keuangan perusahaan, meski agenda pergantian komisaris ini patut dicermati karena muncul tak lama setelah laporan seorang komisaris NSSS yang melepas seluruh kepemilikan sahamnya pekan lalu. Agenda ini tidak langsung menyentuh pos seperti ekuitas, arus kas, atau laba per saham, tetapi pergantian komisaris memengaruhi kualitas pengawasan terhadap manajemen perusahaan, sementara penyesuaian kode KBLI murni mengikuti aturan klasifikasi usaha baru dari BPS tanpa dampak operasional. Yang perlu dipantau adalah hasil pemungutan suara pada RUPSLB 1 Desember 2026, termasuk siapa yang diajukan mengisi kursi komisaris, serta batas akhir pendaftaran kuasa elektronik pada 30 November 2026 pukul 12.00 WIB bagi pemegang saham yang tidak hadir langsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bsde-lunasi-utang-bank-rp1-24-triliun-lebih-awal-dari-dana-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "BSDE Lunasi Utang Bank Rp1,24 Triliun [Lebih Awal] dari Dana Obligasi",
+  "deck": "BSDE mengoreksi laporan realisasi dana obligasi dan sukuk Rp2,73 triliun, yang terpakai untuk infrastruktur BSD City, modal kerja, dan pelunasan dini pinjaman bank BTN serta Bank Permata.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T13:36:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d92293b02c_5792d007c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSDE",
+  "tags": [
+   "BSDE",
+   "obligasi korporasi",
+   "pelunasan utang bank",
+   "BSD City"
+  ],
+  "body": [
+   "PT Bumi Serpong Damai Tbk (BSDE) mengoreksi laporan realisasi penggunaan dana hasil penawaran umum yang sebelumnya disampaikan pada 15 Juli 2026. Melalui surat bernomor 103/IRCS/BSD/XI/2026 tertanggal 9 November 2026, perseroan menegaskan kembali realisasi penggunaan dana dari empat instrumen surat utang yang efektif pada 15 September 2025: Obligasi Berkelanjutan IV Tahap I senilai Rp500 miliar, Sukuk Ijarah Berkelanjutan II Tahap I senilai Rp500 miliar, Obligasi Berkelanjutan IV Tahap II senilai Rp1,25087 triliun, dan Sukuk Ijarah Berkelanjutan II Tahap II senilai Rp500 miliar. Setelah dipotong biaya penawaran sekitar Rp24,04 miliar, total dana bersih yang diterima BSDE dari keempat instrumen itu mencapai sekitar Rp2,73 triliun, dan seluruhnya sudah terpakai sesuai rencana sehingga sisa dana tercatat nol.",
+   "Untuk Obligasi Tahap I dan Sukuk Ijarah Tahap I, sekitar 88 persen dana, masing-masing Rp433,767 miliar dan Rp434,288 miliar, digunakan untuk pengembangan infrastruktur kota di BSD City. Sisanya, sekitar 12 persen atau Rp59,15 miliar dan Rp59,221 miliar, dipakai sebagai modal kerja perseroan.",
+   "Dana dari Obligasi Tahap II senilai Rp1.243,728 miliar dipakai untuk membayar lebih awal sebagian pokok pinjaman (term loan) ke Bank BTN senilai Rp1.056,228 miliar atau sekitar 84,92 persen, serta melunasi lebih awal sisa pokok pinjaman ke Bank Permata senilai Rp187,5 miliar atau 15,08 persen. Sementara seluruh dana Sukuk Ijarah Tahap II senilai Rp496,68 miliar dipakai sebagai modal kerja. Laporan realisasi ini mencakup periode hingga 30 Juni 2026 dan ditandatangani Direktur BSDE Hermawan Wijaya di Tangerang pada 6 November 2026."
+  ],
+  "fotoAdegan": "Construction crew paving a wide boulevard inside a large suburban township development, cranes and unfinished buildings in the background, late afternoon light",
+  "takeaway": "Laporan ini condong positif bagi BSDE karena dana obligasi dan sukuk senilai total Rp2,73 triliun telah habis terpakai sesuai rencana, termasuk untuk melunasi lebih awal pinjaman bank ke BTN dan Bank Permata senilai gabungan Rp1,24 triliun. Pos yang tersentuh di sini adalah utang berbunga atau pinjaman bank perseroan, karena pelunasan lebih cepat ini biasanya mengurangi beban bunga yang harus dibayar BSDE ke depan dan memperbaiki rasio utang terhadap modalnya. Dokumen ini sendiri hanya mengoreksi laporan sebelumnya yang terbit 15 Juli 2026 tanpa menjelaskan rincian apa yang diperbaiki, jadi publik belum bisa menilai seberapa besar revisinya. Yang perlu dipantau selanjutnya adalah laporan realisasi penggunaan dana untuk periode berikutnya, yang wajib disampaikan BSDE kepada OJK sesuai Peraturan OJK Nomor 40 Tahun 2025, untuk memastikan tidak ada koreksi berulang pada data yang sama.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "kino-bagikan-dividen-interim-rp52-per-saham",
   "category": "Aksi Korporasi",
   "title": "KINO Bagikan [Dividen] Interim Rp52 per Saham",
@@ -107,6 +237,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pjhb-catat-tambahan-saham-dari-konversi-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "PJHB catat tambahan saham dari konversi [waran] Seri I",
+  "deck": "Bursa mencatat 10.355 saham baru hasil konversi Waran Seri I PJHB, sehingga total saham beredar naik menjadi 1.921.346.333 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T11:39:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/13e81cc6e2_8e01cdd2b0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PJHB",
+  "tags": [
+   "PJHB",
+   "waran",
+   "pencatatan saham",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan 10.355 saham baru PT Pelayaran Jaya Hidup Baru Tbk (PJHB) yang berasal dari konversi Waran Seri I. Saham tersebut mulai tercatat dan dapat diperdagangkan pada 9 November 2026 di Papan Pencatatan Pengembangan. Dengan tambahan ini, total saham PJHB yang beredar menjadi 1.921.346.333 lembar.",
+   "Berdasarkan surat Biro Administrasi Efek PT Sinartama Gunita yang ditandatangani Manager Operasional Hartono kepada Bursa, pemegang waran melaksanakan haknya pada 5 November 2026, dan saham hasil konversi itu diterbitkan sehari setelahnya, pada 6 November 2026. Sinartama Gunita meminta Bursa mengumumkan saham baru tersebut di lantai perdagangan agar bisa langsung ditransaksikan investor. Surat itu juga ditembuskan ke Corporate Secretary PJHB.",
+   "Setelah konversi ini, sisa Waran Seri I yang masih belum dilaksanakan dan beredar di pasar tercatat 238.653.667 unit. Artinya, masih ada potensi penambahan saham PJHB lebih lanjut ke depan setiap kali pemegang waran lain memilih menukarnya menjadi saham."
+  ],
+  "fotoAdegan": "Cargo ship docked at a busy Indonesian port, containers being loaded by a crane under midday sun.",
+  "takeaway": "Laporan ini netral bagi PJHB karena saham baru yang tercatat hanya 10.355 lembar, setara kurang dari 0,001 persen dari total 1,92 miliar saham yang sudah beredar, sehingga dampaknya ke kinerja perusahaan praktis tidak terasa. Yang tersentuh di sini adalah jumlah saham beredar, yaitu total lembar saham milik investor di pasar; semakin banyak lembarnya, porsi laba bersih yang jatuh ke setiap lembar saham makin terbagi kecil, tapi karena tambahan kali ini sangat tipis, pengaruhnya ke laba per saham nyaris tidak ada. Yang perlu dipantau selanjutnya adalah sisa 238.653.667 Waran Seri I yang belum dikonversi, sebab setiap kali pemegangnya melaksanakan hak itu, jumlah saham PJHB yang beredar akan terus bertambah secara bertahap dan berpotensi mengulang dilusi kecil seperti ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vtny-dirut-wadirut-dan-komut-mundur-bersamaan",
+  "category": "Aksi Korporasi",
+  "title": "VTNY: Dirut, Wadirut, dan Komut [Mundur] Bersamaan",
+  "deck": "Direktur Utama, Wakil Direktur Utama, dan Komisaris Utama VTNY mengajukan pengunduran diri pada 5 November 2026, keputusan final menunggu persetujuan RUPSLB pada 23 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T11:39:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d6fd453474_25faeb8853.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "pengunduran diri direksi",
+   "tata kelola perusahaan",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) mengumumkan bahwa perseroan menerima surat pengunduran diri dari tiga pejabat puncaknya sekaligus pada 5 November 2026. Ketiganya adalah Junichiro Waide yang mengundurkan diri dari jabatan Direktur Utama, Drs. Hosea Sanjaya dari jabatan Wakil Direktur Utama, dan Katsuya Kitano dari jabatan Komisaris Utama. Keterbukaan informasi ini disampaikan perusahaan pada 9 November 2026 dengan mengacu pada Pasal 9 dan Pasal 27 Peraturan OJK No. 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik.",
+   "Permohonan pengunduran diri ketiganya belum final. Sesuai anggaran dasar perseroan, keputusannya baru akan diambil dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada Senin, 23 November 2026, dan baru berlaku efektif setelah mendapat persetujuan dari RUPSLB tersebut. Perseroan menegaskan bahwa pengunduran diri ini tidak berdampak material terhadap kegiatan operasional, kondisi hukum, kondisi keuangan, maupun kelangsungan usahanya, dan menyatakan kegiatan operasional tetap berjalan normal.",
+   "Dokumen ini melengkapi keterbukaan informasi lain yang terbit pada hari yang sama soal pemanggilan RUPSLB dengan agenda pergantian direksi dan komisaris, yang sebelumnya belum menyebut nama calon yang akan diganti. Surat pengunduran diri ini juga diterima sehari sebelum perseroan, dalam laporan terpisah pada 6 November 2026, mengakui adanya transaksi pengalihan piutang (cessie) senilai Rp147 miliar dan obligasi anak usaha VGK senilai lebih dari Rp650 miliar yang belum diungkap ke publik, sehingga pergantian pucuk pimpinan ini terjadi di tengah periode sorotan tata kelola perusahaan."
+  ],
+  "fotoAdegan": "Exterior of a modern glass corporate office tower in Jakarta's business district at dusk, reflections on the facade, empty plaza below",
+  "takeaway": "Catatan ini menilai kabar ini negatif, karena mundurnya Direktur Utama, Wakil Direktur Utama, dan Komisaris Utama secara bersamaan terjadi persis di sekitar waktu perseroan mengakui belum mengungkap dua transaksi besar ke publik, sehingga kekosongan di pucuk pimpinan berisiko memperlambat penyelesaian masalah tata kelola yang sedang disorot itu. Yang perlu dicermati pelaku pasar adalah arus kas dan posisi piutang perusahaan, sebab transaksi pengalihan piutang senilai Rp147 miliar yang sempat diakui belum tuntas itu bisa makin lama kejelasannya kalau pimpinan baru butuh waktu untuk memahami duduk perkaranya. Pergantian pimpinan sendiri tidak langsung mengubah jumlah saham beredar atau ekuitas perusahaan, tapi kestabilan di kursi direksi dan komisaris biasanya jadi acuan investor soal seberapa cepat masalah keuangan yang belum jelas bisa diselesaikan. Yang harus dipantau berikutnya adalah RUPSLB pada Senin, 23 November 2026, karena rapat itu akan menentukan apakah pengunduran diri ketiganya disetujui, siapa pengganti mereka, dan bisa jadi momentum bagi perseroan untuk akhirnya memberi kejelasan soal transaksi yang sempat diakui belum diungkap tersebut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "vtny-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
   "category": "Aksi Korporasi",
   "title": "VTNY Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",
@@ -130,6 +312,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rows of empty chairs arranged in a modern corporate meeting hall, soft morning light through large windows, Jakarta office interior",
   "takeaway": "Laporan ini bersifat netral bagi VTNY karena isinya baru sebatas undangan rapat, bukan keputusan, dan dokumen belum menyebut nama calon anggota Direksi maupun Dewan Komisaris yang akan diganti atau diangkat kembali. Yang disentuh di sini adalah susunan pengurus perseroan, yakni Direksi yang menjalankan operasional sehari hari dan Dewan Komisaris yang mengawasi kerja Direksi, sehingga pelaku pasar biasanya mencermati pergantian ini karena pengurus baru bisa membawa perubahan arah strategi atau pengawasan, termasuk terhadap transaksi besar yang belum lama ini diakui perseroan belum diungkap ke publik. Dampak nyata terhadap kinerja VTNY baru bisa dinilai setelah nama dan rencana kerja pengurus baru benar benar disahkan, bukan dari sekadar undangan rapatnya. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 23 November 2026 pukul 10.00 WIB, termasuk siapa saja yang akhirnya disetujui mengisi kursi Direksi dan Komisaris, serta batas waktu deklarasi kehadiran elektronik pada 20 November 2026 pukul 12.00 WIB bagi pemegang saham yang ingin memberikan suara.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "scco-koreksi-komite-audit-dua-kursi-berganti",
+  "category": "Aksi Korporasi",
+  "title": "SCCO Koreksi Komite Audit, Dua Kursi [Berganti]",
+  "deck": "Koreksi atas laporan 6 November menyebut dua dari tiga anggota Komite Audit SCCO sebenarnya berganti untuk periode baru lima tahun, bukan hanya satu seperti versi sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T11:17:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b508b1727a_16fe879e9a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SCCO",
+  "tags": [
+   "SCCO",
+   "komite audit",
+   "tata kelola",
+   "koreksi"
+  ],
+  "body": [
+   "PT Supreme Cable Manufacturing & Commerce Tbk (SCCO) menerbitkan surat koreksi nomor 044/CS-OJK/XI/2026 tertanggal 9 November 2026, membetulkan laporan sebelumnya nomor 043/CS-OJK/XI/2026 tertanggal 6 November 2026 tentang perubahan Komite Audit. Perubahan berlaku efektif sejak 5 November 2026. Berdasarkan tabel yang diperbarui, kursi ketua komite audit tetap dijabat Prof. Dr. Ir. Dewa Nyoman Adnyana. Untuk kursi anggota, Adiwinata, CA, Ak. menggantikan Neny Mustika Suseno, dan satu kursi anggota lainnya kini diisi Efrinal, yang pada tabel koreksi ini tidak mencantumkan nama penggantinya sebelumnya.",
+   "Dasar perubahan ini adalah Keputusan Dewan Komisaris SCCO tertanggal 5 November 2026. Dalam dokumen itu disebutkan masa jabatan seluruh anggota Komite Audit berakhir pada 2026, sehingga Dewan Komisaris mengangkat susunan baru untuk masa jabatan lima tahun: Dewa Nyoman Adnyana sebagai ketua, serta Adiwinata dan Efrinal sebagai anggota. Keputusan ini ditandatangani oleh Presiden Komisaris Elly Soepono, Komisaris Independen Dewa Nyoman Adnyana, dan Komisaris Surya Adiwijaya Soepono, yang juga memberi kuasa kepada direksi dan Corporate Secretary Risti Saka untuk melaporkan perubahan ini ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia.",
+   "Koreksi ini mengubah gambaran yang sebelumnya diberitakan. Laporan 6 November menyebut hanya satu dari dua kursi anggota yang berganti dengan ketua tetap, sedangkan versi koreksi menunjukkan komite audit sebenarnya beranggotakan tiga orang dan dua kursi anggotanya diisi orang baru, bersamaan dengan dimulainya periode jabatan baru selama lima tahun untuk seluruh komite, termasuk ketua yang orangnya tidak berubah."
+  ],
+  "fotoAdegan": "Empty wood-paneled boardroom table with high-back leather chairs, large windows showing a hazy Jakarta skyline, soft morning light",
+  "takeaway": "Secara fundamental laporan ini netral bagi SCCO karena pergantian susunan komite audit tidak memengaruhi kas, utang, atau laba perusahaan, dan intinya hanya membetulkan data administratif yang salah diumumkan tiga hari sebelumnya. Komite audit sendiri tidak masuk pos keuangan seperti ekuitas atau laba per saham, tapi tetap dicermati pelaku pasar karena perannya mengawasi independensi dan kualitas laporan keuangan perusahaan sebelum sampai ke pemegang saham. Yang baru dari koreksi ini adalah fakta bahwa dua dari tiga kursi komite audit berganti orang untuk masa jabatan lima tahun yang baru, bukan cuma satu kursi seperti versi awal, meski kursi ketua tetap dipegang orang yang sama. Yang perlu dipantau berikutnya adalah apakah SCCO akan menerbitkan koreksi lanjutan, karena dua pengumuman berbeda untuk satu perubahan dalam waktu kurang dari seminggu menunjukkan proses pelaporan internal yang masih perlu dirapikan.",
   "sentimen": "netral"
  },
  {

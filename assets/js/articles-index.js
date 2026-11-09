@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bbni-tutup-layanan-bni-mobile-banking-pindah-ke-wondr",
+  "category": "Aksi Korporasi",
+  "title": "BBNI Tutup Layanan [BNI Mobile Banking], Pindah ke Wondr",
+  "deck": "BNI menutup akses BNI Mobile Banking secara bertahap hingga 30 November 2026 dan sepenuhnya pada 21 Desember 2026, mengalihkan nasabah ke aplikasi wondr by BNI.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBNI",
+   "wondr by BNI",
+   "perbankan digital",
+   "BNI Mobile Banking"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ed5c7783bd_137f346595.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "plas-buka-suspensi-sesaat-untuk-crossing-buyback-delisting",
+  "category": "Aksi Korporasi",
+  "title": "PLAS Buka Suspensi Sesaat untuk [Crossing] Buyback Delisting",
+  "deck": "Bursa membuka sementara perdagangan PLAS khusus di Pasar Negosiasi pada 9 November 2026 untuk transaksi crossing buyback saham terkait delisting, lalu menyuspensinya lagi setelah transaksi selesai.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PLAS",
+   "delisting",
+   "buyback saham",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0b0f8c438f_6145c08d11.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bafi-siapkan-dana-pelunasan-obligasi-rp100-miliar-29-november",
+  "category": "Aksi Korporasi",
+  "title": "BAFI Siapkan Dana [Pelunasan] Obligasi Rp100 Miliar 29 November",
+  "deck": "BAFI menyiapkan dana Rp100 miliar untuk melunasi pokok dan bunga terakhir obligasi yang jatuh tempo 29 November 2026, dana dikirim ke KSEI 27 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "Bussan Auto Finance",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7cb13aa4ed_1ed4753d96.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-panggil-rupslb-bahas-pergantian-komisaris-1-desember",
+  "category": "Aksi Korporasi",
+  "title": "NSSS Panggil RUPSLB, Bahas [Pergantian] Komisaris 1 Desember",
+  "deck": "PT Nusantara Sawit Sejahtera Tbk memanggil RUPSLB 1 Desember 2026 untuk menyetujui perubahan susunan Dewan Komisaris dan penyesuaian kode KBLI dalam anggaran dasar.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Nusantara Sawit Sejahtera"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f9a9517b43_d9605c7de3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bsde-lunasi-utang-bank-rp1-24-triliun-lebih-awal-dari-dana-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "BSDE Lunasi Utang Bank Rp1,24 Triliun [Lebih Awal] dari Dana Obligasi",
+  "deck": "BSDE mengoreksi laporan realisasi dana obligasi dan sukuk Rp2,73 triliun, yang terpakai untuk infrastruktur BSD City, modal kerja, dan pelunasan dini pinjaman bank BTN serta Bank Permata.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSDE",
+   "obligasi korporasi",
+   "pelunasan utang bank",
+   "BSD City"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d92293b02c_5792d007c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kino-bagikan-dividen-interim-rp52-per-saham",
   "category": "Aksi Korporasi",
   "title": "KINO Bagikan [Dividen] Interim Rp52 per Saham",
@@ -69,6 +149,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pjhb-catat-tambahan-saham-dari-konversi-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "PJHB catat tambahan saham dari konversi [waran] Seri I",
+  "deck": "Bursa mencatat 10.355 saham baru hasil konversi Waran Seri I PJHB, sehingga total saham beredar naik menjadi 1.921.346.333 lembar.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PJHB",
+   "waran",
+   "pencatatan saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/13e81cc6e2_8e01cdd2b0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vtny-dirut-wadirut-dan-komut-mundur-bersamaan",
+  "category": "Aksi Korporasi",
+  "title": "VTNY: Dirut, Wadirut, dan Komut [Mundur] Bersamaan",
+  "deck": "Direktur Utama, Wakil Direktur Utama, dan Komisaris Utama VTNY mengajukan pengunduran diri pada 5 November 2026, keputusan final menunggu persetujuan RUPSLB pada 23 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "pengunduran diri direksi",
+   "tata kelola perusahaan",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d6fd453474_25faeb8853.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "vtny-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
   "category": "Aksi Korporasi",
   "title": "VTNY Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",
@@ -82,6 +194,22 @@ var ARTICLES = [
    "Dewan Komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a4500b13c_e7721d1c2a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "scco-koreksi-komite-audit-dua-kursi-berganti",
+  "category": "Aksi Korporasi",
+  "title": "SCCO Koreksi Komite Audit, Dua Kursi [Berganti]",
+  "deck": "Koreksi atas laporan 6 November menyebut dua dari tiga anggota Komite Audit SCCO sebenarnya berganti untuk periode baru lima tahun, bukan hanya satu seperti versi sebelumnya.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SCCO",
+   "komite audit",
+   "tata kelola",
+   "koreksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b508b1727a_16fe879e9a.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6334,134 +6462,6 @@ var ARTICLES = [
    "utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fcc8a3aa9b_d12a27bbc1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gjtl-cetak-laba-rp964-9-miliar-naik-22-di-9m2026",
-  "category": "Aksi Korporasi",
-  "title": "GJTL Cetak Laba Rp964,9 Miliar, [Naik] 22% di 9M2026",
-  "deck": "Laba bersih Gajah Tunggal naik 22,2 persen jadi Rp964,9 miliar dalam sembilan bulan 2026, ditopang penjualan yang tumbuh 9,2 persen, meski utang bank jangka pendek melonjak dua kali lipat.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GJTL",
-   "Gajah Tunggal",
-   "laporan keuangan",
-   "ban"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204626-65691-0/FinancialStatement-2026-III-GJTL.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bata-catat-defisiensi-modal-makin-dalam-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "BATA catat [defisiensi modal] makin dalam di kuartal III 2026",
-  "deck": "Rugi Sepatu Bata melebar jadi Rp61,58 miliar di sembilan bulan 2026, defisiensi modal makin dalam, dan kas tergerus ke Rp9,02 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BATA",
-   "laporan keuangan",
-   "defisiensi modal",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102182238-65650-0/FinancialStatement-2026-III-BATA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "auto-catat-laba-rp1-8-triliun-tumbuh-14-7-di-9m-2026",
-  "category": "Aksi Korporasi",
-  "title": "AUTO Catat [Laba] Rp1,8 Triliun, Tumbuh 14,7% di 9M 2026",
-  "deck": "Astra Otoparts memaparkan kinerja sembilan bulan 2026 dengan laba bersih Rp1,8 triliun, naik 14,7 persen, menjelang paparan publik 5 November.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AUTO",
-   "Astra Otoparts",
-   "public expose",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/827008e0c1_c64f63be9c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tfas-rugi-melebar-ke-rp4-5-miliar-liabilitas-naik-28-93",
-  "category": "Aksi Korporasi",
-  "title": "TFAS Rugi Melebar ke Rp4,5 Miliar, [Liabilitas] Naik 28,93%",
-  "deck": "Penjualan TFAS naik 30 persen dalam sembilan bulan 2026, tapi rugi bersih melebar ke Rp4,53 miliar seiring liabilitas naik 28,93% akibat pergeseran utang bank ke utang pihak berelasi.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TFAS",
-   "laporan keuangan",
-   "liabilitas",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102181029-65308-0/FinancialStatement-2026-III-TFAS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amag-catat-laba-bersih-naik-44-per-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "AMAG Catat [Laba Bersih] Naik 44% per September 2026",
-  "deck": "Materi public expose 2026 AMAG menunjukkan laba bersih naik 43,86% dan ekuitas naik 4,17% per September 2026, meski rasio solvabilitas turun dari 332% menjadi 294%.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMAG",
-   "asuransi",
-   "laba bersih",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7de281fd1c_ea30cf02ff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbyb-laba-neo-commerce-turun-7-jadi-rp431-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BBYB: [Laba] Neo Commerce Turun 7% Jadi Rp431 Miliar",
-  "deck": "Laba bersih Bank Neo Commerce turun 7,1 persen menjadi Rp431 miliar dalam sembilan bulan 2026, sementara simpanan nasabah susut 15,4 persen menjadi Rp11,86 triliun.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBYB",
-   "Bank Neo Commerce",
-   "laporan keuangan",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102174846-65404-0/FinancialStatement-2026-III-BBYB.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kbli-liabilitas-naik-116-jadi-rp960-3-miliar-per-september",
-  "category": "Aksi Korporasi",
-  "title": "KBLI: Liabilitas Naik [116%] Jadi Rp960,3 Miliar per September",
-  "deck": "Total liabilitas KMI Wire and Cable melonjak 116,38 persen menjadi Rp960,3 miliar per akhir September 2026, dipicu utang bank, utang dagang, dan uang muka penjualan yang membesar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KBLI",
-   "KMI Wire and Cable",
-   "liabilitas",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102175139-65203-0/FinancialStatement-2026-III-KBLI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "itmg-bagikan-dividen-interim-us-74-2-juta",
-  "category": "Aksi Korporasi",
-  "title": "ITMG Bagikan Dividen Interim [US$74,2 Juta]",
-  "deck": "ITMG akan membagikan dividen tunai interim US$74,2 juta untuk tahun buku 2026, dengan pencatatan pemegang saham 12 November dan pembayaran 18 November 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ITMG",
-   "dividen interim",
-   "Indo Tambangraya Megah",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d1cf060b9_c4653114fd.pdf",
   "sourceLabel": "IDX"
  }
 ];

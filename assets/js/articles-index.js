@@ -5,6 +5,246 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "srtg-jadwalkan-rupslb-virtual-pada-16-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "SRTG Jadwalkan [RUPSLB] Virtual pada 16 Desember 2026",
+  "deck": "Saratoga Investama Sedaya akan menggelar RUPSLB secara virtual lewat eASY.KSEI pada 16 Desember 2026, dengan batas pencatatan pemegang saham 23 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "RUPSLB",
+   "Saratoga Investama Sedaya",
+   "KSEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3a6964be8e_317ebc2d6f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bcic-komisaris-independen-mundur-disiapkan-jadi-dirut",
+  "category": "Aksi Korporasi",
+  "title": "BCIC: Komisaris Independen Mundur, Disiapkan Jadi [Dirut]",
+  "deck": "Abdullah Firman Wibowo mundur dari kursi Komisaris Independen Bank JTrust Indonesia untuk disiapkan menjadi Direktur Utama, menyusul pengunduran diri Dirut sebelumnya pekan lalu.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BCIC",
+   "Bank JTrust Indonesia",
+   "pergantian direksi",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/71d3f6d0af_b019015b3f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amor-rinci-dividen-99-dan-rencana-buyback-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Rinci Dividen 99% dan Rencana Buyback di [Public Expose]",
+  "deck": "Dalam public expose tahunan 4 November 2026, manajemen AMOR memaparkan alasan kenaikan beban distribusi, dasar hitung dividen payout 99%, dan pertimbangan buyback saham.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMOR",
+   "Ashmore Asset Management",
+   "Public Expose",
+   "Dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/96088336af_ecccab5edc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "part-jawab-bursa-rights-issue-1-miliar-saham-dilusi-25-97",
+  "category": "Aksi Korporasi",
+  "title": "PART Jawab Bursa: Rights Issue 1 Miliar Saham, Dilusi [25,97%]",
+  "deck": "Cipta Perdana Lancar menjelaskan ke BEI rencana rights issue Rp200 miliar: maksimal 1 miliar saham baru, dilusi hingga 25,97% bagi pemegang saham yang tidak ambil HMETD.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PART",
+   "rights issue",
+   "PMHMETD",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5a132515a2_3716b9b132.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-waran-terstruktur-penerbitan-ke-2-berakhir-26-nov",
+  "category": "Aksi Korporasi",
+  "title": "DR: [Waran] Terstruktur Penerbitan ke-2 Berakhir 26 Nov",
+  "deck": "Delapan seri waran terstruktur RHB Sekuritas berbasis saham ASII, BBCA, BBNI, BBRI, BMRI, ICBP, INDF, dan TLKM berhenti diperdagangkan 23 November dan dieksekusi otomatis 26 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/116f24fb30_60e993fd03.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jati-lanjutkan-buyback-tahap-iii-sisa-28-1-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "JATI Lanjutkan [Buyback] Tahap III, Sisa 28,1 Juta Saham",
+  "deck": "PT Informasi Teknologi Indonesia Tbk membeli kembali hingga 28,1 juta saham lagi senilai maksimal Rp3,38 miliar untuk menutup sisa program buyback 5 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JATI",
+   "buyback saham",
+   "saham treasuri",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ab8b342ce7_7b2b718adc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-rhb-akhiri-waran-terstruktur-seri-ke-28-pada-26-november",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Akhiri [Waran Terstruktur] Seri ke-28 pada 26 November",
+  "deck": "RHB Sekuritas mengumumkan jadwal berakhirnya waran terstruktur Penerbitan ke-28 dengan saham acuan BBNI, DSNG, UNTR, dan UNVR, efektif 26 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "RHB Sekuritas",
+   "Waran Terstruktur",
+   "UNTR"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/506042e8ca_211d1120ab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-rhb-akhiri-waran-terstruktur-seri-ke-40-pada-26-november",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB [Akhiri] Waran Terstruktur Seri ke-40 pada 26 November",
+  "deck": "RHB Sekuritas mengakhiri waran terstruktur seri ke-40 beracuan BRMS, CUAN, ENRG, MDKA, dan TPIA pada 26 November 2026, sesuai jadwal baku pelaksanaan otomatis.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "pasar derivatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4a620c9efc_f2c5b21a5a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tops-masuk-daftar-kriteria-baru-pkpu-pemantauan-khusus",
+  "category": "Aksi Korporasi",
+  "title": "TOPS Masuk Daftar Kriteria Baru [PKPU] Pemantauan Khusus",
+  "deck": "BEI menambahkan kriteria PKPU dan potensi pailit ke status pemantauan khusus saham TOPS, PT Totalindo Eka Persada Tbk, efektif 10 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOPS",
+   "pemantauan khusus",
+   "PKPU",
+   "pailit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4010e939e3_a8514b375e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "abmm-cipta-kridatama-raih-kontrak-tambang-batu-bara-5-tahun",
+  "category": "Aksi Korporasi",
+  "title": "ABMM: Cipta Kridatama Raih [Kontrak] Tambang Batu Bara 5 Tahun",
+  "deck": "Anak usaha ABM Investama, Cipta Kridatama, menandatangani kontrak jasa tambang batu bara dengan dua perusahaan tambang hingga akhir 2031, mencakup volume ratusan juta bcm dan puluhan juta ton batu bara.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ABMM",
+   "Cipta Kridatama",
+   "kontrak tambang",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eacf9f0c9f_b2af1a6780.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptro-laba-bersih-melonjak-613-kantongi-kontrak-rp9-3-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PTRO: Laba Bersih [Melonjak] 613%, Kantongi Kontrak Rp9,3 Triliun",
+  "deck": "Materi public expose Petrosea menunjukkan pendapatan 1H2026 naik 60 persen dan laba bersih melonjak ke US$9 juta, didukung kontrak tambang dan EPC baru senilai triliunan rupiah.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTRO",
+   "Petrosea",
+   "kontrak tambang",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a05c9ad1f_31f51ac272.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "acst-catat-rugi-bersih-melonjak-155-pada-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "ACST Catat Rugi Bersih [Melonjak] 155% pada Kuartal III 2026",
+  "deck": "Materi public expose ACST mengungkap rugi bersih kuartal III 2026 melonjak ke Rp266,8 miliar meski pendapatan turun dan margin kotor justru naik tipis.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ACST",
+   "Acset Indonusa",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/21f4b2a23d_75b0c9f399.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbre-rights-issue-konversi-utang-rp858-6-miliar-ke-saham",
+  "category": "Aksi Korporasi",
+  "title": "CBRE [Rights Issue] Konversi Utang Rp858,6 Miliar ke Saham",
+  "deck": "CBRE berencana menerbitkan maksimal 48 miliar saham baru lewat HMETD, sebagian untuk mengonversi utang promissory note Rp858,6 miliar kepada empat kreditur.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBRE",
+   "rights issue",
+   "konversi utang",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ebc1e532ea_a40d335ecc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbre-umumkan-rupslb-16-desember-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "CBRE Umumkan [RUPSLB] 16 Desember, Agenda Menyusul",
+  "deck": "CBRE akan menggelar RUPSLB pada 16 Desember 2026 di Jakarta. Pemegang saham per 23 November 2026 berhak hadir, agenda resmi baru terbit lewat pemanggilan 24 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBRE",
+   "RUPSLB",
+   "pasar modal",
+   "Cakra Buana Resources Energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f5daceb6d1_30106a9e27.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rups-boss-gagal-kuorum-panggilan-kedua-16-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPS BOSS Gagal Kuorum, Panggilan [Kedua] 16 November",
+  "deck": "RUPST dan RUPSLB BOSS pada 4 November gagal kuorum. Perseroan memanggil rapat kedua pada 16 November 2026 untuk mengesahkan laporan keuangan tiga tahun yang tertunda.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "kuorum",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a078337837_1901f91fdf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bbni-tutup-layanan-bni-mobile-banking-pindah-ke-wondr",
   "category": "Aksi Korporasi",
   "title": "BBNI Tutup Layanan [BNI Mobile Banking], Pindah ke Wondr",
@@ -6222,246 +6462,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823826.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "surplus-dagang-ri-berlanjut-tapi-tipis-ke-us-3-36-miliar",
-  "category": "Makroekonomi",
-  "title": "Surplus Dagang RI [Berlanjut] tapi Tipis ke US$3,36 Miliar",
-  "deck": "Neraca dagang Indonesia surplus US$3,36 miliar pada September 2026, melanjutkan tren positif Agustus meski nilainya mengecil dari US$3,55 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/bongkar-muat-truk.jpg",
-  "tags": [
-   "neraca dagang",
-   "ekspor",
-   "impor",
-   "Bank Indonesia"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823926.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "dmmx-berbalik-rugi-rp9-58-miliar-utang-bank-melonjak-27",
-  "category": "Aksi Korporasi",
-  "title": "DMMX Berbalik [Rugi] Rp9,58 Miliar, Utang Bank Melonjak 27%",
-  "deck": "Pendapatan sembilan bulan DMMX turun lebih dari 60 persen dan laba berbalik jadi rugi Rp9,58 miliar, sementara utang bank melonjak 27,82 persen jadi Rp226,53 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMMX",
-   "laporan keuangan",
-   "utang bank",
-   "emiten teknologi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102195234-64977-0/FinancialStatement-2026-III-DMMX.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ceka-jelaskan-ke-bei-bukan-subjek-penyelidikan-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "CEKA Jelaskan ke BEI, Bukan Subjek Penyelidikan [Karhutla] Singapura",
-  "deck": "CEKA menyatakan tidak menjadi subjek penyelidikan karhutla Singapura. Yang diperiksa adalah Wilmar International, pemegang saham pengendali tidak langsungnya.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CEKA",
-   "karhutla",
-   "Wilmar International",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d1fc48c36d_9d122e871e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmri-jelaskan-ke-bursa-soal-penerbitan-obligasi-at1",
-  "category": "Aksi Korporasi",
-  "title": "BMRI Jelaskan ke Bursa Soal Penerbitan Obligasi [AT1]",
-  "deck": "Bank Mandiri menjawab permintaan penjelasan Bursa Efek Indonesia tentang obligasi perpetual AT1 bertingkat bunga awal 7,35 persen, termasuk peran anak usahanya sebagai salah satu penjamin emisi.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMRI",
-   "AT1",
-   "obligasi perpetual",
-   "Bank Mandiri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d24697bb8e_9eba2c9eeb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-tguk-balik-untung-rp3-08-miliar-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "[Laba] TGUK Balik Untung Rp3,08 Miliar Kuartal III 2026",
-  "deck": "Setelah rugi Rp18,17 miliar tahun lalu, TGUK cetak laba Rp3,08 miliar pada sembilan bulan 2026, didukung efisiensi gerai dan utang baru terkait rencana pengambilalihan.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGUK",
-   "laporan keuangan",
-   "rencana pengambilalihan",
-   "Teguk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204604-65439-0/FinancialStatement-2026-III-TGUK.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-tegaskan-daftar-pengendali-sejak-ipo-ke-ojk",
-  "category": "Aksi Korporasi",
-  "title": "AADI Tegaskan Daftar [Pengendali] Sejak IPO ke OJK",
-  "deck": "AADI menegaskan ke OJK bahwa pengendali perseroan sejak IPO adalah keluarga Thohir, Subianto, Rachmat, dan Edwin Soeryadjaya, menyelaraskan seluruh keterbukaan informasi sebelumnya.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AADI",
-   "pengendali saham",
-   "keterbukaan informasi",
-   "Adaro Andalan Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e59894b53c_576c02f8b2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "admr-tegaskan-pengendali-thohir-subianto-rachmat-soeryadjaya",
-  "category": "Aksi Korporasi",
-  "title": "ADMR Tegaskan [Pengendali]: Thohir, Subianto, Rachmat, Soeryadjaya",
-  "deck": "Emiten tambang ADMR menegaskan Keluarga Thohir, Subianto, Rachmat, dan Edwin Soeryadjaya sebagai pengendali dan pemilik manfaat sejak IPO, meluruskan seluruh keterbukaan sebelumnya.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMR",
-   "Alamtri Minerals",
-   "pengendali perusahaan",
-   "pemilik manfaat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/01c9d6b0d6_bb586500c0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adro-tegaskan-thohir-subianto-rachmat-jadi-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "ADRO Tegaskan Thohir, Subianto, Rachmat Jadi [Pengendali]",
-  "deck": "Alamtri Resources menegaskan pengendali dan pemilik manfaat perseroan sejak IPO adalah Keluarga Thohir, Subianto, Rachmat, dan Edwin Soeryadjaya, menyelaraskan pengungkapan sebelumnya.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADRO",
-   "Alamtri Resources",
-   "pengendali perseroan",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1d19fa374f_16a65b7d34.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sektor-kelautan-mulai-jadi-pilar-ekonomi-ri",
-  "category": "Makroekonomi",
-  "title": "Sektor Kelautan Mulai Jadi [Pilar] Ekonomi RI",
-  "deck": "Pengamat menilai Presiden Prabowo Subianto mulai menempatkan sektor kelautan dan perikanan sebagai pilar ekonomi, lewat program Kampung Nelayan Merah Putih hingga swasembada garam.",
-  "date": "2 November 2026",
-  "image": "assets/img/sektor-kelautan-mulai-jadi-pilar-ekonomi-ri.jpg",
-  "imageV": "mvza7abz",
-  "tags": [
-   "kelautan",
-   "perikanan",
-   "maritim",
-   "KKP"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476229-tak-lagi-jadi-pelengkap-presiden-prabowo-dinilai-mulai-jadikan-sektor-kelautan-pilar-ekonomi-ri"
- },
- {
-  "slug": "mcas-liabilitas-naik-26-6-saat-pendapatan-susut-40",
-  "category": "Aksi Korporasi",
-  "title": "MCAS: [Liabilitas] Naik 26,6% Saat Pendapatan Susut 40%",
-  "deck": "Laporan keuangan interim Kuartal III 2026 MCAS menunjukkan pendapatan turun ke Rp2,13 triliun dari Rp3,59 triliun, sementara total liabilitas melonjak jadi Rp948 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MCAS",
-   "laporan keuangan",
-   "liabilitas",
-   "pendapatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102191931-65646-0/FinancialStatement-2026-III-MCAS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tris-rencanakan-buyback-saham-hingga-rp10-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TRIS Rencanakan [Buyback] Saham hingga Rp10 Miliar",
-  "deck": "Trisula International akan membeli kembali maksimal 62 juta saham atau 2% modal disetor dengan harga tertinggi Rp165 per saham, mulai 3 November 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIS",
-   "buyback saham",
-   "Trisula International",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b00fb9cd82_5e16c35741.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bhit-laba-bersih-kuartal-iii-anjlok-89-kas-operasi-minus",
-  "category": "Aksi Korporasi",
-  "title": "BHIT: Laba Bersih Kuartal III Anjlok [89%], Kas Operasi Minus",
-  "deck": "Laba bersih BHIT yang menjadi hak pemegang saham induk turun 89 persen jadi Rp24,7 miliar pada sembilan bulan 2026, sementara arus kas operasi berbalik minus Rp1,38 triliun.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BHIT",
-   "MNC Asia Holding",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102191011-65616-0/FinancialStatement-2026-III-BHIT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nfcx-catat-rugi-membesar-liabilitas-naik-27-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "NFCX catat rugi membesar, [liabilitas] naik 27% di Kuartal III 2026",
-  "deck": "Laporan kuartal III 2026 NFCX: pendapatan turun hampir separuh, rugi bersih melebar tiga kali lipat, dan utang naik 27 persen dibanding akhir 2025.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NFCX",
-   "laporan keuangan",
-   "rugi bersih",
-   "utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102190811-65222-0/FinancialStatement-2026-III-NFCX.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wins-beri-jaminan-perusahaan-rp129-36-miliar-ke-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "WINS Beri [Jaminan Perusahaan] Rp129,36 Miliar ke Anak Usaha",
-  "deck": "WINS menjamin fasilitas kredit baru senilai Rp130 miliar dari Bank Nano Syariah untuk anak usahanya, PT Sentosasegara Mulia Shipping, guna refinancing kapal dan modal kerja.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINS",
-   "jaminan perusahaan",
-   "transaksi afiliasi",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f99a073052_39129f8e29.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptdu-pkpu-setelah-gugatan-utang-rp1-miliar-dari-pemasok",
-  "category": "Aksi Korporasi",
-  "title": "PTDU [PKPU] Setelah Gugatan Utang Rp1 Miliar dari Pemasok",
-  "deck": "Pengadilan Niaga Jakarta Pusat mengabulkan PKPU sementara 45 hari bagi Djasa Ubersakti atas tagihan Rp1 miliar dari pemasok CV. Titan, rencana perdamaian dibahas 8 Desember 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTDU",
-   "PKPU",
-   "pengadilan niaga",
-   "utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fcc8a3aa9b_d12a27bbc1.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,399 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "srtg-jadwalkan-rupslb-virtual-pada-16-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "SRTG Jadwalkan [RUPSLB] Virtual pada 16 Desember 2026",
+  "deck": "Saratoga Investama Sedaya akan menggelar RUPSLB secara virtual lewat eASY.KSEI pada 16 Desember 2026, dengan batas pencatatan pemegang saham 23 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:50:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3a6964be8e_317ebc2d6f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "RUPSLB",
+   "Saratoga Investama Sedaya",
+   "KSEI"
+  ],
+  "body": [
+   "PT Saratoga Investama Sedaya Tbk. (SRTG) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 16 Desember 2026 pukul 15:00. Rapat akan digelar secara elektronik melalui fasilitas Electronic General Meeting System milik PT Kustodian Sentral Efek Indonesia (KSEI), yang dikenal sebagai eASY.KSEI. Tempat penyelenggaraan serta mata acara rapat belum dibuka dalam pengumuman ini dan baru akan disampaikan melalui pemanggilan resmi pada Selasa, 24 November 2026, lewat situs web Bursa Efek Indonesia, situs resmi perusahaan, dan platform eASY.KSEI.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per Senin, 23 November 2026, atau pemilik saldo rekening efek di Penitipan Kolektif KSEI pada penutupan perdagangan hari itu. Tanggal ini menjadi batas pencatatan yang menentukan siapa yang punya hak suara dalam rapat tersebut.",
+   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara tambahan. Usulan harus diajukan secara tertulis oleh satu atau lebih pemegang saham yang bersama-sama memegang minimal 1/20 atau lima persen dari seluruh saham berhak suara, dan sudah harus diterima Direksi paling lambat Selasa, 17 November 2026, yakni tujuh hari sebelum tanggal pemanggilan. Usulan itu disyaratkan diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, menyertakan alasan dan bahan pendukung, serta tidak melanggar aturan perundang-undangan maupun anggaran dasar perusahaan."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with rows of chairs facing a blank podium, soft afternoon light through tall windows",
+  "takeaway": "Laporan ini netral bagi SRTG karena isinya baru pemberitahuan jadwal rapat, bukan rincian agenda yang akan diputuskan, sehingga dampaknya pada kinerja perusahaan belum bisa dinilai. Belum ada pos seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh langsung oleh pengumuman ini, sebab mata acara rapat belum dibuka ke publik. Pelaku pasar biasanya mencermati RUPSLB karena dari rapat semacam ini kerap muncul keputusan yang mengubah pos-pos tersebut, misalnya penerbitan saham baru yang menambah jumlah saham beredar dan bisa mengecilkan laba per saham, atau pembagian dividen yang memengaruhi arus kas perusahaan. Yang perlu dipantau berikutnya adalah pemanggilan resmi berisi agenda lengkap yang akan diumumkan pada 24 November 2026, serta tenggat 17 November 2026 bagi pemegang saham yang ingin mengusulkan mata acara tambahan. RUPSLB sendiri dijadwalkan berlangsung secara virtual pada 16 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bcic-komisaris-independen-mundur-disiapkan-jadi-dirut",
+  "category": "Aksi Korporasi",
+  "title": "BCIC: Komisaris Independen Mundur, Disiapkan Jadi [Dirut]",
+  "deck": "Abdullah Firman Wibowo mundur dari kursi Komisaris Independen Bank JTrust Indonesia untuk disiapkan menjadi Direktur Utama, menyusul pengunduran diri Dirut sebelumnya pekan lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:47:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/71d3f6d0af_b019015b3f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BCIC",
+  "tags": [
+   "BCIC",
+   "Bank JTrust Indonesia",
+   "pergantian direksi",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank JTrust Indonesia Tbk (BCIC) melaporkan bahwa Abdullah Firman Wibowo mengajukan pengunduran diri dari jabatan Komisaris Independen pada 5 November 2026. Dalam suratnya, Abdullah menyatakan langkah ini diambil untuk mempersiapkan dirinya menjelang pengangkatannya sebagai Direktur Utama perseroan yang baru. Perusahaan menegaskan baik pengunduran diri dari kursi komisaris maupun pengangkatannya sebagai Dirut baru akan berlaku efektif setelah mendapat persetujuan Otoritas Jasa Keuangan dan keputusan Rapat Umum Pemegang Saham.",
+   "Abdullah menjabat sebagai Komisaris Independen sejak 2025, dengan tugas pengawasan yang menurut suratnya difokuskan pada penguatan manajemen risiko perseroan. Laporan ini disampaikan ke Bursa Efek Indonesia oleh Hendy Deiny Wong selaku Corsec Division Head, dan perusahaan menyatakan peristiwa ini tidak berdampak material terhadap operasional maupun kondisi keuangan BCIC.",
+   "Perubahan ini terjadi tidak lama setelah BCIC pada 3 November 2026 melaporkan pengunduran diri Direktur Utama sebelumnya, Ritsuo Fukadai, yang juga masih menunggu restu OJK dan RUPS. Dengan rencana pengangkatan Abdullah sebagai Dirut, posisi yang ditinggalkan Ritsuo Fukadai berpotensi diisi dari dalam jajaran komisaris, sementara kursi Komisaris Independen yang ia tinggalkan belum disebutkan akan diisi oleh siapa."
+  ],
+  "fotoAdegan": "Exterior of a modern glass high-rise bank office tower in Jakarta's business district at dusk, reflecting the skyline.",
+  "takeaway": "Laporan ini netral bagi fundamental BCIC: ini transisi kepemimpinan internal yang berjalan sesuai prosedur, tanpa indikasi konflik, dan belum final karena masih menunggu dua persetujuan sekaligus. Yang tersentuh bukan angka keuangan seperti ekuitas atau laba, melainkan tata kelola, karena posisi Komisaris Independen bertugas mengawasi manajemen risiko secara bebas dari kepentingan manajemen, dan independensi itu otomatis hilang begitu orangnya pindah ke kursi eksekutif sebagai Direktur Utama. Pelaku pasar perlu mencermati siapa yang akan mengisi kursi Komisaris Independen yang kosong, karena bank wajib menjaga jumlah minimum komisaris independen sesuai aturan OJK. Yang perlu dipantau berikutnya adalah keputusan RUPS dan persetujuan OJK yang menentukan efektif atau tidaknya pengangkatan Abdullah sebagai Direktur Utama, menyusul kekosongan kursi Dirut sejak pengunduran diri Ritsuo Fukadai awal November ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "amor-rinci-dividen-99-dan-rencana-buyback-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Rinci Dividen 99% dan Rencana Buyback di [Public Expose]",
+  "deck": "Dalam public expose tahunan 4 November 2026, manajemen AMOR memaparkan alasan kenaikan beban distribusi, dasar hitung dividen payout 99%, dan pertimbangan buyback saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:32:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/96088336af_ecccab5edc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "Ashmore Asset Management",
+   "Public Expose",
+   "Dividen"
+  ],
+  "body": [
+   "PT Ashmore Asset Management Indonesia Tbk (AMOR) menggelar Public Expose Tahunan 2026 pada Rabu, 4 November 2026, pukul 17.00 sampai 17.42 WIB, digelar secara hybrid di kantor Pacific Century Place SCBD dan lewat Zoom. Acara ini dihadiri sekitar 19 peserta di luar jajaran manajemen dan karyawan perseroan, terdiri dari pemegang saham publik dan perwakilan media. Hadir langsung empat direktur perseroan, yaitu Presiden Direktur Ronaldus Gandahusada, serta Direktur Arief Wana, FX Eddy Hartanto, dan Steven Yudha. Materi yang dipaparkan mencakup kinerja perseroan 2025/2026, kinerja investasi, strategi dan risiko pertumbuhan, beban operasional, serta kondisi neraca, dividen, dan buyback.",
+   "Dalam sesi tanya jawab, Direktur Arief Wana menjelaskan kenaikan signifikan beban distribusi. Sekitar 90 persen pertumbuhan dana kelolaan (AUM) sepanjang 2025 hingga 2026 berasal dari penjualan lewat distributor, dengan kontribusi distributor terhadap total penjualan naik dari kisaran 30 sampai 35 persen menjadi 55 persen. Karena mayoritas produk yang dijual lewat distributor adalah reksa dana fixed income bermargin lebih rendah, biaya distribusi naik lebih cepat dibanding pendapatan kotor. Meski begitu, manajemen menegaskan net management fee tetap naik tipis ke sekitar 65 basis poin dan margin EBITDA dipertahankan di kisaran 46 persen, sementara pertumbuhan pendapatan bersih 17 persen masih selaras dengan pertumbuhan rata-rata AUM sebesar 16 sampai 17 persen.",
+   "Soal dividen, manajemen menjelaskan rasio pembagian dividen sebesar 99 persen dihitung dari core net profit, yakni laba dari bisnis utama yang berkelanjutan, tanpa memasukkan untung rugi kurs maupun gain on investment yang bersifat tidak rutin. Perubahan posisi kurs dari rugi menjadi untung disebut tidak ikut dihitung dalam penentuan dividen, dan kebijakan ini konsisten dengan praktik sejak AMOR melantai di bursa. Untuk buyback saham, manajemen menyebut sedang mempertimbangkan penggunaan kas untuk membeli kembali saham AMOR yang dinilai murah dengan potensi imbal hasil lebih tinggi dari deposito bank yang berkisar 6 sampai 7 persen, namun dilakukan hati-hati dan dalam jumlah relatif kecil dibanding total kas perseroan. Direktur Steven Yudha menambahkan, reksa dana saham AMOR mencatat rata-rata outperformance 11,4 persen dalam setahun terakhir berkat strategi aktif yang memungkinkan alokasi saham berbeda dari indeks acuan, sementara lebih dari 90 persen dana masuk bersih setahun terakhir berasal dari kanal distribusi bank yang dikategorikan sebagai investasi domestik dan ritel."
+  ],
+  "fotoAdegan": "Office workers in business attire walking through a modern glass high-rise lobby in Jakarta's financial district, midday light",
+  "takeaway": "Laporan ini condong positif bagi AMOR, karena di balik kenaikan beban distribusi, pertumbuhan pendapatan bersih 17 persen tetap selaras dengan pertumbuhan dana kelolaan dan margin keuntungan terjaga. Yang tersentuh di sini adalah beban operasional dan margin EBITDA, yakni perbandingan keuntungan usaha terhadap pendapatan, yang jadi ukuran apakah perusahaan masih untung meski biaya naik, dan di sisi lain rasio dividen yang dihitung dari laba inti berkelanjutan sehingga mencerminkan kemampuan bayar dividen yang lebih stabil, bukan laba yang terdongkrak untung kurs sesaat. Rencana buyback, jika benar dijalankan dalam skala kecil seperti disebut manajemen, berpotensi sedikit mengurangi jumlah saham beredar sehingga laba per saham bisa sedikit terangkat, meski perseroan sendiri menyebut jumlahnya tidak besar dibanding total kas. Yang perlu dipantau selanjutnya adalah apakah tren pergeseran ke produk fixed income bermargin rendah lewat distributor terus berlanjut di laporan keuangan kuartal mendatang, serta realisasi aktual pembelian kembali saham yang baru disetujui dalam RUPST pada hari yang sama, 4 November 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "part-jawab-bursa-rights-issue-1-miliar-saham-dilusi-25-97",
+  "category": "Aksi Korporasi",
+  "title": "PART Jawab Bursa: Rights Issue 1 Miliar Saham, Dilusi [25,97%]",
+  "deck": "Cipta Perdana Lancar menjelaskan ke BEI rencana rights issue Rp200 miliar: maksimal 1 miliar saham baru, dilusi hingga 25,97% bagi pemegang saham yang tidak ambil HMETD.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:27:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5a132515a2_3716b9b132.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PART",
+  "tags": [
+   "PART",
+   "rights issue",
+   "PMHMETD",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Cipta Perdana Lancar Tbk (PART) menjawab surat permintaan penjelasan dan pengingat dari Bursa Efek Indonesia tertanggal 5 November 2026 terkait rencana penambahan modal dengan hak memesan efek terlebih dahulu (rights issue). Dalam surat tanggapan bernomor S-180/PART-DIRUT/11-2026 tertanggal 9 November 2026, Perseroan menegaskan jumlah saham baru yang akan diterbitkan adalah sebanyak-banyaknya 1.000.000.000 lembar, bukan 8.000.000.000 lembar seperti yang sempat tertulis di salah satu versi dokumen sebelumnya. Perseroan berjanji menyelaraskan informasi di semua dokumen ke angka 1 miliar lembar itu.",
+   "Dengan modal disetor saat ini sebanyak 2.850.594.054 lembar saham, penerbitan maksimal 1 miliar saham baru itu akan membuat dilusi mencapai 25,97% bagi pemegang saham yang tidak ikut menyerap haknya. Harga pelaksanaan dan rasio HMETD belum ditetapkan dan akan diumumkan dalam Prospektus. RUPSLB dijadwalkan 9 Desember 2026, dengan pelaksanaan rights issue ditargetkan kuartal I 2027, menunggu persetujuan rapat tersebut dan efektifnya pernyataan pendaftaran dari OJK. Indikasi dana yang ingin dihimpun sebesar Rp200 miliar, untuk modal kerja seperti pembelian bahan baku, pembayaran pemasok, tenaga kerja, produksi, dan distribusi, dengan penggunaan bertahap paling lambat 12 bulan setelah dana diterima.",
+   "Perseroan juga menjelaskan rights issue ini tidak disertai penerbitan waran baru, karena masa pelaksanaan Waran Seri I sudah berakhir 3 Juli 2026, dan penyetoran saham hanya dalam bentuk uang, bukan aset lain. Belum ada pihak yang ditetapkan sebagai pembeli siaga (standby buyer); sisa saham yang tidak terserap akan ditawarkan lewat mekanisme pemesanan tambahan. Perseroan dan pemegang saham pengendali berkomitmen bahwa aksi ini tidak akan mengubah pihak pengendali, serta menyatakan tidak memiliki perkara hukum pajak, somasi, gugatan, PKPU, atau pailit, maupun rencana aksi korporasi lain dalam 12 bulan setelah rights issue.",
+   "Simulasi struktur pemegang saham menunjukkan, jika seluruh pemegang saham melaksanakan haknya secara proporsional, porsi saham publik tetap sekitar 28,44%. Namun jika pemegang saham publik sama sekali tidak ambil bagian, porsinya turun menjadi 21,05%, masih di atas batas minimum free float 15% sesuai Peraturan BEI Nomor I-A. Dalam skenario itu, kepemilikan pemegang saham pengendali, PT Cipta Investama Lancar, naik dari 1.496.000.000 lembar menjadi 2.305.162.585 lembar atau 59,87% dari modal yang membesar, dibandingkan 52,48% jika semua pihak ikut proporsional."
+  ],
+  "fotoAdegan": "Workers assembling small automotive metal components on a factory production line under bright industrial lighting",
+  "takeaway": "Penilaian saya netral untuk laporan ini, karena dampaknya dua arah: di satu sisi rights issue memperkuat permodalan Perseroan tanpa menambah utang berbunga baru, padahal beban bunganya sendiri sempat melonjak 41 persen seperti pernah saya catat sebelumnya; di sisi lain dilusi hingga 25,97% bagi pemegang saham publik yang tidak ikut menyerap haknya bukan angka remah, dan itu bisa membuat bagian laba per saham mereka menyusut karena laba yang sama harus dibagi ke lebih banyak lembar saham. Pos yang tersentuh adalah ekuitas, karena dana segar langsung menambah modal disetor, serta jumlah saham beredar yang membesar dari 2,85 miliar menjadi maksimal 3,85 miliar lembar. Yang perlu dipantau berikutnya adalah RUPSLB pada 9 Desember 2026 yang akan mengesahkan rencana ini, dan penerbitan Prospektus yang memuat harga pelaksanaan serta rasio HMETD final, sebab dua angka itulah yang nantinya menentukan seberapa besar dilusi yang benar-benar dialami pemegang saham publik.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-waran-terstruktur-penerbitan-ke-2-berakhir-26-nov",
+  "category": "Aksi Korporasi",
+  "title": "DR: [Waran] Terstruktur Penerbitan ke-2 Berakhir 26 Nov",
+  "deck": "Delapan seri waran terstruktur RHB Sekuritas berbasis saham ASII, BBCA, BBNI, BBRI, BMRI, ICBP, INDF, dan TLKM berhenti diperdagangkan 23 November dan dieksekusi otomatis 26 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:20:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/116f24fb30_60e993fd03.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "delisting"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia mengumumkan jadwal berakhirnya delapan seri waran terstruktur (call warrant) penerbitan kedua yang diterbitkannya, dengan saham acuan ASII, BBCA, BBNI, BBRI, BMRI, ICBP, INDF, dan TLKM. Perdagangan waran-waran ini berhenti pada Senin, 23 November 2026 pukul 16.00 WIB, lalu masuk masa suspensi mulai 24 November 2026 sampai tanggal pelaksanaan pada Kamis, 26 November 2026 pukul 09.00 WIB. Seluruh seri waran ini akan dihapus dari daftar efek Bursa pada Jumat, 27 November 2026 pukul 09.00 WIB.",
+   "Rincian harga pelaksanaan dan rasio pelaksanaan masing-masing seri adalah: ASIIDRCX6A harga 2.576 rasio 0,8734; BBCADRCX6A harga 5.577 rasio 0,9294; BBNIDRCX6A harga 2.408 rasio 0,8447; BBRIDRCX6A harga 2.153 rasio 0,8280; BMRIDRCX6A harga 3.088 rasio 0,8346; ICBPDRCX6A harga 6.668 rasio 0,9391; INDFDRCX6A harga 4.256 rasio 0,9253; dan TLKMDRCX6A harga 1.458 rasio 0,8574.",
+   "Penyelesaian seluruh waran ini dilakukan secara tunai, bukan dengan penyerahan saham. Pada tanggal pelaksanaan, jika selisih antara harga pasar saham acuan dan harga pelaksanaan (dibagi rasio pelaksanaan) menghasilkan nilai positif, waran otomatis dieksekusi dan pemegangnya menerima dana. Jika selisihnya nol atau negatif, waran langsung berakhir tanpa nilai dan pemegang tidak perlu membayar apa pun. RHB menyatakan dana penyelesaian akan disalurkan lewat KSEI dalam tiga hari bursa sejak tanggal pelaksanaan."
+  ],
+  "fotoAdegan": "Blurred rows of digital ticker boards glowing above an empty stock exchange trading floor at dusk, long exposure",
+  "takeaway": "Laporan ini netral bagi penilaian RHB Sekuritas maupun delapan saham acuannya, karena isinya cuma menjalankan jadwal baku yang sudah ditetapkan sejak waran ini diterbitkan, bukan keputusan baru. Yang tersentuh hanya kewajiban pembayaran RHB sebagai penerbit waran ke pemegangnya, bukan ekuitas, arus kas, atau jumlah saham beredar ASII, BBCA, BBNI, BBRI, BMRI, ICBP, INDF, maupun TLKM, karena waran terstruktur ini instrumen turunan RHB sendiri, bukan produk dari delapan emiten itu. Nilai cair yang diterima pemegang waran bergantung sepenuhnya pada posisi harga saham acuan dibanding harga pelaksanaan yang sudah terkunci di atas, jadi pelaku pasar waran perlu menimbang posisi itu sebelum tanggal pelaksanaan. Yang perlu dipantau adalah Kamis, 26 November 2026 pukul 09.00 WIB, saat ditentukan apakah jumlah penyelesaian tunai positif atau nol, serta pencairan dana oleh KSEI dalam tiga hari bursa setelahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jati-lanjutkan-buyback-tahap-iii-sisa-28-1-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "JATI Lanjutkan [Buyback] Tahap III, Sisa 28,1 Juta Saham",
+  "deck": "PT Informasi Teknologi Indonesia Tbk membeli kembali hingga 28,1 juta saham lagi senilai maksimal Rp3,38 miliar untuk menutup sisa program buyback 5 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:20:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ab8b342ce7_7b2b718adc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JATI",
+  "tags": [
+   "JATI",
+   "buyback saham",
+   "saham treasuri",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Informasi Teknologi Indonesia Tbk (JATI) mengumumkan rencana pembelian kembali saham atau buyback Tahap III yang akan berlangsung mulai 10 November 2026 hingga 9 Februari 2027 melalui PT Sucor Sekuritas sebagai perantara di bursa. Perseroan berencana membeli kembali sebanyak-banyaknya 28.147.405 saham dengan dana maksimum Rp3.377.688.600 di luar biaya transaksi, serta harga pembelian maksimum Rp120 per saham.",
+   "Buyback Tahap III ini adalah kelanjutan dari program yang sama sejak awal tahun. Tahap I berlangsung 9 Maret sampai 8 Juni 2026 dengan realisasi 86.540.200 saham atau 53,05 persen dari target maksimum. Tahap II berlangsung 26 Juni sampai 25 September 2026 dengan realisasi 48.438.400 saham atau 29,69 persen. Secara kumulatif, Perseroan sudah membeli kembali 134.978.600 saham atau 82,74 persen dari rencana maksimum 163.126.005 saham, yang setara 5 persen dari modal ditempatkan dan disetor penuh. Sisa 28.147.405 saham atau 17,26 persen itulah yang menjadi target Tahap III.",
+   "Jika seluruh dana Tahap III terpakai, total aset Perseroan diperkirakan turun dari Rp641,49 miliar menjadi Rp638,11 miliar, dan total ekuitas turun dari Rp177,34 miliar menjadi Rp173,97 miliar, masing-masing berkurang Rp3,38 miliar. Laba bersih periode enam bulan tetap di angka Rp8,77 miliar, namun karena jumlah saham beredar berkurang, laba per saham diperkirakan naik dari Rp2,80 menjadi Rp2,83. Dana buyback berasal dari kas internal Perseroan, bukan dari pinjaman maupun dari dana hasil penawaran umum. Sebagai gambaran struktur pemegang saham, porsi publik dengan kepemilikan di bawah 5 persen akan turun dari 517.541.506 saham (15,86 persen) menjadi 489.394.101 saham (15,00 persen), sementara porsi dua pemegang saham utama, PT Jati Piranti Solusindo (64 persen) dan PT Amanah Ayah Anak (16 persen), tidak berubah.",
+   "Saham hasil buyback akan menjadi saham treasuri yang wajib dialihkan kembali paling lambat tiga tahun sejak buyback selesai, dengan pengalihan paling cepat 30 hari setelah pembelian tuntas dan harga jual tidak lebih rendah dari harga rata-rata pembelian."
+  ],
+  "fotoAdegan": "Employees working quietly at laptops in a modern software office, Jakarta skyline visible through large windows, soft daylight",
+  "takeaway": "Buyback Tahap III ini condong netral bagi fundamental JATI, karena nilainya hanya sekitar 0,5 persen dari total aset Perseroan dan sekadar meneruskan program yang sudah diumumkan sejak awal tahun, bukan sinyal baru yang mengubah arah bisnis. Pos yang tersentuh adalah ekuitas, yaitu modal milik pemegang saham yang diperkirakan turun dari Rp177,34 miliar menjadi Rp173,97 miliar karena kas dipakai membeli saham sendiri, serta laba per saham yang naik tipis dari Rp2,80 menjadi Rp2,83 semata karena jumlah saham beredar berkurang, bukan karena laba perusahaan membesar. Dana dipastikan datang dari kas internal, bukan utang, sehingga tidak menambah beban bunga Perseroan. Yang perlu dipantau berikutnya adalah realisasi pembelian hingga batas waktu 9 Februari 2027, karena bila tuntas penuh, saham treasuri JATI akan menyentuh batas maksimum 5 persen dan wajib dilepas kembali ke pasar paling lambat tiga tahun setelah buyback berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-rhb-akhiri-waran-terstruktur-seri-ke-28-pada-26-november",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Akhiri [Waran Terstruktur] Seri ke-28 pada 26 November",
+  "deck": "RHB Sekuritas mengumumkan jadwal berakhirnya waran terstruktur Penerbitan ke-28 dengan saham acuan BBNI, DSNG, UNTR, dan UNVR, efektif 26 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:20:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/506042e8ca_211d1120ab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "RHB Sekuritas",
+   "Waran Terstruktur",
+   "UNTR"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia mengumumkan jadwal berakhirnya waran terstruktur (structured warrant) Penerbitan ke-28, yang tercatat sejak 20 Januari 2026. Waran ini mencakup empat saham acuan sekaligus, yaitu BBNI, DSNG, UNTR, dan UNVR, masing-masing dengan kode waran BBNIDRCX6B, DSNGDRCX6A, UNTRDRCX6A, dan UNVRDRCX6A.",
+   "Sesuai jadwal, hari terakhir perdagangan waran ini adalah Senin, 23 November 2026 pukul 16.00 WIB. Perdagangan dihentikan mulai Selasa, 24 November 2026, dan waran akan dilaksanakan secara otomatis pada Tanggal Pelaksanaan, Kamis 26 November 2026 pukul 09.00 WIB, sebelum resmi dicabut dari pencatatan Bursa pada Jumat, 27 November 2026 pukul 09.00 WIB.",
+   "Harga pelaksanaan dan rasio pelaksanaan untuk tiap saham acuan berbeda: BBNI di harga 5.614 dengan rasio 4,6020, DSNG di harga 1.948 dengan rasio 2,3991, UNTR di harga 45.624 dengan rasio 19,3118, dan UNVR di harga 3.242 dengan rasio 4,6577. Penyelesaian seluruhnya dilakukan secara tunai dalam tiga hari bursa sejak Tanggal Pelaksanaan. Karena ini waran jenis call, pemegang berhak atas selisih antara harga penyelesaian dan harga pelaksanaan dibagi rasio pelaksanaan, tapi hanya jika selisih itu positif. Jika hasilnya nol atau negatif, waran berakhir tanpa nilai dan pemegang tidak perlu membayar apa pun."
+  ],
+  "fotoAdegan": "Jakarta's SCBD financial district skyscrapers reflecting late afternoon light, busy street traffic below",
+  "takeaway": "Laporan ini netral baik bagi RHB Sekuritas maupun bagi keempat emiten acuannya, karena isinya cuma menjalankan jadwal baku akhir siklus waran yang sudah ditetapkan sejak penerbitannya, bukan keputusan baru yang mengubah kondisi keuangan siapa pun. Waran terstruktur semacam ini adalah produk turunan yang diterbitkan RHB sendiri, bukan saham baru dari BBNI, DSNG, UNTR, atau UNVR, sehingga tidak menambah jumlah saham beredar maupun mengubah laba per saham keempat emiten itu. Yang perlu dipantau adalah Tanggal Pelaksanaan pada 26 November 2026 pukul 09.00 WIB, karena saat itulah ditentukan apakah selisih harga saham acuan terhadap harga pelaksanaan membuat pemegang waran menerima dana tunai atau justru waran berakhir tanpa nilai, dengan pembayaran lewat KSEI menyusul dalam tiga hari bursa setelahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-rhb-akhiri-waran-terstruktur-seri-ke-40-pada-26-november",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB [Akhiri] Waran Terstruktur Seri ke-40 pada 26 November",
+  "deck": "RHB Sekuritas mengakhiri waran terstruktur seri ke-40 beracuan BRMS, CUAN, ENRG, MDKA, dan TPIA pada 26 November 2026, sesuai jadwal baku pelaksanaan otomatis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:20:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4a620c9efc_f2c5b21a5a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "pasar derivatif"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia mengumumkan jadwal pelaksanaan dan berakhirnya waran terstruktur penerbitan ke-40 yang pertama kali tercatat di bursa pada 27 Juli 2026. Perdagangan waran ini akan berhenti pada Senin, 23 November 2026 pukul 16.00 WIB, dilanjutkan masa suspensi mulai Selasa, 24 November 2026. Tanggal pelaksanaan jatuh pada Kamis, 26 November 2026 pukul 09.00 WIB, dan waran ini resmi dihapus dari daftar efek bursa (delisting) pada Jumat, 27 November 2026 pukul 09.00 WIB.",
+   "Waran terstruktur seri ke-40 ini mengacu pada lima saham dengan harga dan rasio pelaksanaan yang berbeda. Kode BRMSDRCX6A beracuan saham BRMS memiliki harga pelaksanaan Rp660 dengan rasio 7, CUANDRCX6A beracuan CUAN seharga Rp1.100 dengan rasio 25, ENRGDRCX6A beracuan ENRG seharga Rp1.300 dengan rasio 6,6458, MDKADRCX6A beracuan MDKA seharga Rp3.300 dengan rasio 13, dan TPIADRCX6A beracuan TPIA seharga Rp3.150 dengan rasio 50. Seluruh waran ini berjenis Call Warrant yang hanya diselesaikan secara tunai, bukan dengan penyerahan saham.",
+   "Dokumen tersebut menjelaskan bahwa pada tanggal pelaksanaan, waran akan otomatis dieksekusi jika selisih antara harga penyelesaian saham acuan dan harga pelaksanaan bernilai positif, tanpa perlu pemberitahuan dari pemegang maupun penerbit. Jika selisih tersebut nol atau negatif, waran langsung berakhir tanpa nilai pada pukul 09.00 WIB di tanggal yang sama dan pemegang tidak perlu membayar apa pun. Jika ada pembayaran, KSEI akan mendistribusikan dana dari KPEI ke rekening pemegang dalam tiga hari bursa setelah tanggal pelaksanaan."
+  ],
+  "fotoAdegan": "Wide shot of a quiet brokerage office floor with blurred stock ticker monitors in the background, employee working at a desk, late afternoon light",
+  "takeaway": "Laporan ini netral, karena yang terjadi hanyalah penerapan jadwal baku yang sudah ditetapkan sejak waran ini diterbitkan pada Juli 2026, bukan keputusan baru dari RHB Sekuritas maupun tindakan korporasi dari BRMS, CUAN, ENRG, MDKA, atau TPIA. Waran terstruktur adalah produk derivatif yang diterbitkan RHB sendiri dan diselesaikan tunai, bukan saham baru, sehingga berakhirnya waran ini tidak menambah jumlah saham beredar, tidak mengubah ekuitas, dan tidak menyentuh laba per saham kelima emiten acuannya sama sekali. Yang perlu dipantau pemegang waran adalah harga saham acuan menjelang tanggal pelaksanaan pada Kamis, 26 November 2026 pukul 09.00 WIB, karena dari situ ditentukan apakah mereka menerima pembayaran tunai atau waran berakhir tanpa nilai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tops-masuk-daftar-kriteria-baru-pkpu-pemantauan-khusus",
+  "category": "Aksi Korporasi",
+  "title": "TOPS Masuk Daftar Kriteria Baru [PKPU] Pemantauan Khusus",
+  "deck": "BEI menambahkan kriteria PKPU dan potensi pailit ke status pemantauan khusus saham TOPS, PT Totalindo Eka Persada Tbk, efektif 10 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:11:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4010e939e3_a8514b375e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "TOPS",
+   "pemantauan khusus",
+   "PKPU",
+   "pailit"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan perubahan status efek bersifat ekuitas dalam pemantauan khusus untuk saham TOPS, kode emiten PT Totalindo Eka Persada Tbk., melalui pengumuman bernomor Peng-UK-00045/BEI.PLP/11-2026 tertanggal 9 November 2026. Bursa menambahkan kriteria baru nomor 8 ke status pemantauan khusus saham ini, yaitu kondisi perusahaan tercatat yang sedang dimohonkan penundaan kewajiban pembayaran utang (PKPU), pailit, atau pembatalan perdamaian. Perubahan ini berlaku efektif mulai 10 November 2026.",
+   "Sebelum penambahan ini, TOPS sudah tercatat dalam pemantauan khusus dengan kriteria nomor 3, yaitu tidak membukukan pendapatan atau tidak ada perubahan pendapatan pada laporan keuangan terakhir dibandingkan laporan sebelumnya. Dengan tambahan kriteria nomor 8, mulai 10 November 2026 saham TOPS tercatat dengan dua kriteria sekaligus, nomor 3 dan nomor 8. Bursa mencatat saham ini tidak dikenakan mekanisme perdagangan khusus tambahan (SDHSM) dan papan pencatatannya tetap di Papan Utama.",
+   "Bursa menyebut daftar lengkap efek dalam pemantauan khusus dapat dilihat melalui situs idx.co.id pada bagian pengumuman, dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus. Pengumuman ini ditandatangani secara elektronik oleh Bima Ruditya Surya selaku Pjs Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI."
+  ],
+  "fotoAdegan": "A quiet construction site with idle cranes and stacked rebar under a cloudy sky, no workers in sight",
+  "takeaway": "Penambahan kriteria PKPU dan potensi pailit ke status pemantauan khusus TOPS adalah sinyal negatif bagi emiten, karena menunjukkan otoritas bursa menilai ada risiko serius terhadap kelangsungan usaha perusahaan. PKPU sendiri adalah proses hukum di pengadilan niaga ketika perusahaan yang tidak sanggup membayar utang meminta waktu untuk merundingkan ulang utangnya dengan para kreditor, dan kalau gagal mencapai kesepakatan, prosesnya bisa berujung pailit, yang berpotensi menggerus ekuitas pemegang saham jika aset perusahaan akhirnya harus dijual untuk melunasi utang. Pelaku pasar perlu mencermati ini karena perusahaan dengan kriteria PKPU biasanya mengalami masalah arus kas, yaitu ketidakseimbangan antara uang yang benar benar masuk dan keluar dari kas perusahaan, bukan sekadar catatan laba di atas kertas. Yang perlu dipantau selanjutnya adalah bagaimana proses PKPU ini berjalan di pengadilan niaga, apakah berakhir dengan kesepakatan perdamaian utang atau justru pailit, serta apakah status pemantauan khusus TOPS yang efektif mulai 10 November 2026 ini berlanjut ke notasi atau mekanisme perdagangan yang lebih ketat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "abmm-cipta-kridatama-raih-kontrak-tambang-batu-bara-5-tahun",
+  "category": "Aksi Korporasi",
+  "title": "ABMM: Cipta Kridatama Raih [Kontrak] Tambang Batu Bara 5 Tahun",
+  "deck": "Anak usaha ABM Investama, Cipta Kridatama, menandatangani kontrak jasa tambang batu bara dengan dua perusahaan tambang hingga akhir 2031, mencakup volume ratusan juta bcm dan puluhan juta ton batu bara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T15:54:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eacf9f0c9f_b2af1a6780.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ABMM",
+  "tags": [
+   "ABMM",
+   "Cipta Kridatama",
+   "kontrak tambang",
+   "batu bara"
+  ],
+  "body": [
+   "Pada 5 November 2026, PT Cipta Kridatama (CK), anak usaha ABM Investama Tbk (ABMM) yang dimiliki secara langsung dan tidak langsung sebesar 99,997 persen, menandatangani perjanjian jasa pertambangan dengan PT Damai Bintang Abadi dan PT Grand Anugrah Jaya. Lewat kontrak ini, CK akan mengerjakan dua jenis pekerjaan utama, yaitu mengupas lapisan tanah penutup (overburden removal) dan menggali batu bara (coal getting) di lokasi tambang milik kedua mitra tersebut.",
+   "Kontrak ditandatangani pada 5 November 2026, tetapi berlaku efektif mundur sejak 1 November 2026, dan akan berjalan hingga 31 Desember 2031, atau sekitar lima tahun ke depan. Total volume pekerjaan yang diperkirakan mencapai 500,2 juta meter kubik tanah (bcm) untuk pengupasan lapisan penutup dan 80,5 juta ton untuk penggalian batu bara selama masa kontrak tersebut.",
+   "ABM Investama menyebut kontrak ini sejalan dengan bisnis utama CK sebagai penyedia jasa pertambangan, dan diperkirakan memberi kontribusi positif terhadap kelangsungan usaha CK serta kinerja operasional dan keuangan grup ABMM selama periode kontrak berjalan. Dokumen tidak menyebutkan nilai kontrak dalam rupiah atau dolar, maupun rincian lokasi tambang kedua mitra tersebut."
+  ],
+  "fotoAdegan": "Heavy excavators and dump trucks moving earth at a vast open-pit coal mine, dusty haul road, overcast tropical sky",
+  "takeaway": "Laporan ini condong positif bagi ABMM karena anak usahanya mendapat kontrak jasa tambang multi-tahun dengan volume besar, yang menambah kepastian pekerjaan dan pendapatan bagi Cipta Kridatama hingga akhir 2031, meski nilai kontrak dalam rupiah tidak diungkapkan dalam dokumen ini. Yang tersentuh di sini adalah arus kas dan pendapatan operasional grup ABMM, sebab kontrak jasa tambang biasanya dibayar berdasarkan volume pekerjaan yang diselesaikan, seperti ongkos per ton batu bara atau per meter kubik tanah yang dikupas, bukan dibayar sekali di muka. Pelaku pasar memperhatikan jenis kontrak seperti ini karena durasi lima tahun memberi kejelasan pendapatan jangka panjang, berbeda dari kontrak jasa jangka pendek yang rawan tidak diperpanjang. Yang perlu dipantau berikutnya adalah apakah ABMM nantinya mengungkapkan nilai kontrak dalam rupiah atau estimasi kontribusi pendapatan tahunan, serta realisasi volume pengupasan dan penggalian dibanding target 500,2 juta bcm dan 80,5 juta ton sampai kontrak berakhir pada 31 Desember 2031.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ptro-laba-bersih-melonjak-613-kantongi-kontrak-rp9-3-triliun",
+  "category": "Aksi Korporasi",
+  "title": "PTRO: Laba Bersih [Melonjak] 613%, Kantongi Kontrak Rp9,3 Triliun",
+  "deck": "Materi public expose Petrosea menunjukkan pendapatan 1H2026 naik 60 persen dan laba bersih melonjak ke US$9 juta, didukung kontrak tambang dan EPC baru senilai triliunan rupiah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T15:54:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a05c9ad1f_31f51ac272.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTRO",
+  "tags": [
+   "PTRO",
+   "Petrosea",
+   "kontrak tambang",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Petrosea Tbk menyampaikan materi public expose tahunan bertanggal 12 November 2026 kepada OJK dan BEI. Dalam materi itu, perseroan mencatatkan pendapatan semester I 2026 sebesar US$544 juta, naik 60 persen dibandingkan US$341 juta pada semester I 2025. Laba bersih melonjak dari US$1 juta menjadi US$9 juta, naik 613 persen secara tahunan. Namun laba kotor justru turun tipis dari US$48 juta menjadi US$47 juta, dengan margin laba kotor merosot dari 14 persen menjadi 9 persen. Perseroan menyebut penurunan margin ini disebabkan penundaan beberapa proyek besar akibat perkembangan RKAB, yakni rencana kerja dan anggaran tambang yang perlu disetujui pemerintah setiap tahun, dan diperkirakan membaik setelah proyek-proyek itu berjalan kembali.",
+   "Materi paparan juga merinci sejumlah kontrak baru dan amandemen kontrak sepanjang 2026. Petrosea mendapat kontrak jasa pertambangan senilai Rp9,3 triliun dengan durasi selama umur tambang dari PT Cakrawala Bara Persada dan PT Pesona Bara Cakrawala. Anak usahanya juga meneken kontrak EPC dengan INPEX Masela Ltd senilai Rp989 miliar untuk proyek OLNG Perimeter Construction Works yang berjalan hingga Maret 2029, ditandatangani 2 Maret 2026. Selain itu ada amandemen kontrak EPC dengan PT Freeport Indonesia senilai Rp2,4 triliun untuk proyek Levee Stockpile Project Extension hingga Juni 2030, serta amandemen kontrak jasa pertambangan dengan PT Multi Tambangjaya Utama senilai Rp3,1 triliun hingga Desember 2032. Total backlog proyek perseroan per Juni 2026 tercatat naik 24 persen secara tahunan.",
+   "Dari sisi keuangan, Petrosea mencatat kas US$80 juta per Juni 2026 dengan rasio utang terhadap modal (debt to equity) 2,6 kali, rasio lancar 1,5 kali, dan rasio kemampuan membayar utang (DSCR) 194 persen. Kapitalisasi pasar perseroan tercatat Rp37,6 triliun per Juni 2026 dengan peringkat kredit idA+ berprospek stabil untuk perseroan, Obligasi Berkelanjutan I, dan Sukuk Ijarah Berkelanjutan I. Jumlah karyawan naik menjadi 11.058 orang per Juni 2026 dari 9.369 orang setahun sebelumnya. Materi itu juga menyebut proyek emas dan tembaga Tolukuma di Papua Nugini, tempat Petrosea memegang saham minoritas di pemiliknya, Tolu Minerals Limited yang tercatat di Bursa Efek Australia, dengan target produksi emas perdana pada kuartal pertama 2027."
+  ],
+  "fotoAdegan": "Heavy mining excavator loading overburden onto a large haul truck at an open-pit coal mine, dusty golden morning light",
+  "takeaway": "Paparan publik ini condong positif bagi Petrosea, karena pendapatan dan laba bersih tumbuh tajam secara tahunan dan perseroan mengamankan rangkaian kontrak serta amandemen kontrak baru senilai total belasan triliun rupiah, meski ada titik lemah yang perlu dicermati. Titik lemah itu adalah margin laba kotor yang turun dari 14 persen jadi 9 persen, yang berarti porsi pendapatan yang berubah jadi laba sebelum biaya lain menyusut karena ongkos proyek tidak ikut turun saat sejumlah proyek besar molor akibat urusan izin RKAB. Rasio utang terhadap modal 2,6 kali menunjukkan porsi pendanaan dari utang cukup besar dibanding modal sendiri milik perseroan, sehingga pasar mencermati kemampuan bayar bunga dan cicilannya, yang tercermin dari DSCR 194 persen alias arus kas operasional hampir dua kali lipat kewajiban utang yang jatuh tempo. Yang perlu dipantau berikutnya adalah target produksi emas perdana di tambang Tolukuma pada kuartal pertama 2027, serta apakah margin laba kotor Petrosea kembali naik di laporan keuangan berikutnya setelah proyek-proyek yang tertunda akibat RKAB berjalan normal lagi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "acst-catat-rugi-bersih-melonjak-155-pada-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "ACST Catat Rugi Bersih [Melonjak] 155% pada Kuartal III 2026",
+  "deck": "Materi public expose ACST mengungkap rugi bersih kuartal III 2026 melonjak ke Rp266,8 miliar meski pendapatan turun dan margin kotor justru naik tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T15:42:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/21f4b2a23d_75b0c9f399.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ACST",
+  "tags": [
+   "ACST",
+   "Acset Indonusa",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Acset Indonusa Tbk (ACST) menyampaikan materi public expose tahunan yang akan digelar pada Kamis, 12 November 2026, sesuai jadwal yang sebelumnya diumumkan lewat surat tanggal 29 Oktober 2026. Materi yang diserahkan ke Bursa Efek Indonesia itu memuat profil perusahaan sekaligus kinerja keuangan kuartal III 2026 dibandingkan periode yang sama tahun lalu.",
+   "Dari sisi keuangan, pendapatan ACST pada kuartal III 2026 tercatat Rp1.388,8 miliar, turun 23,7 persen dari Rp1.819,8 miliar pada kuartal III 2025. Perusahaan menyebut pendapatan ditopang segmen struktur, terutama proyek data center, sementara segmen infrastruktur melemah karena sejumlah proyek yang sedang berjalan mendekati penyelesaian. Laba bruto ikut turun 19,9 persen menjadi Rp114,07 miliar, meski marginnya justru naik 0,39 poin persentase menjadi 8,21 persen yang menurut perusahaan didorong efisiensi biaya konstruksi. Rugi usaha mengecil 68 persen menjadi Rp4,59 miliar dari Rp14,34 miliar, seiring beban operasional yang turun 24 persen menjadi Rp118,7 miliar berkat program efisiensi dan turunnya penyisihan kerugian nilai aset keuangan.",
+   "Namun di baris akhir, rugi bersih ACST justru melebar tajam menjadi Rp266,8 miliar, naik 155,6 persen dibandingkan rugi Rp104,4 miliar pada kuartal III 2025. Rugi per saham ikut melebar dari Rp7 menjadi Rp15. Perusahaan menyebut kenaikan beban keuangan dipicu oleh meningkatnya biaya pendanaan proyek yang masih berjalan. Materi tersebut juga memuat profil perusahaan, dengan kapitalisasi pasar Rp1,5 triliun, 406 karyawan per kuartal III 2026, serta komposisi pemegang saham yang terdiri dari PT Karya Supra Perkasa sebesar 91,17 persen dan publik 8,83 persen."
+  ],
+  "fotoAdegan": "Construction workers assembling steel rebar framework at a high-rise building site, tower cranes in the background, late afternoon light in Jakarta",
+  "takeaway": "Laporan ini condong negatif bagi Acset Indonusa karena rugi bersih kuartal III 2026 melonjak 155,6 persen menjadi Rp266,8 miliar, padahal pendapatan perusahaan justru turun dan semestinya menekan beban, bukan menambahnya. Pos yang tersentuh adalah laba bersih dan rugi per saham, yakni kerugian yang dibagi rata ke setiap lembar saham beredar, yang melebar dari Rp7 menjadi Rp15, pertanda beban di luar kegiatan usaha inti, dalam hal ini biaya pendanaan proyek yang disebut perusahaan sendiri naik, menggerus hasil yang sebenarnya mulai membaik di level operasional. Sisi baiknya, margin laba kotor naik tipis dan rugi usaha mengecil 68 persen karena efisiensi biaya, tapi perbaikan itu kalah oleh pembengkakan beban keuangan. Yang perlu dipantau pemegang saham selanjutnya adalah paparan publik pada 12 November 2026, saat manajemen biasanya menjelaskan langsung penyebab kenaikan beban pendanaan dan proyeksi kinerja sisa tahun ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cbre-rights-issue-konversi-utang-rp858-6-miliar-ke-saham",
+  "category": "Aksi Korporasi",
+  "title": "CBRE [Rights Issue] Konversi Utang Rp858,6 Miliar ke Saham",
+  "deck": "CBRE berencana menerbitkan maksimal 48 miliar saham baru lewat HMETD, sebagian untuk mengonversi utang promissory note Rp858,6 miliar kepada empat kreditur.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T14:59:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ebc1e532ea_a40d335ecc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBRE",
+  "tags": [
+   "CBRE",
+   "rights issue",
+   "konversi utang",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Cakra Buana Resources Energi Tbk (CBRE) mengumumkan rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD atau rights issue) dengan jumlah saham baru maksimal 48.000.000.000 lembar, bernilai nominal Rp25 per saham sama seperti saham CBRE yang sudah beredar. Rencana ini akan dimintakan persetujuan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 16 Desember 2026. Dana hasil rights issue, setelah dipotong biaya emisi, akan dipakai untuk dua hal: mengonversi utang Perseroan menjadi saham, dan sisanya untuk modal kerja. Harga pelaksanaan dan jumlah final saham yang benar-benar diterbitkan baru akan diumumkan dalam prospektus PMHMETD.",
+   "Bagian konversi utang ini bernilai total Rp858.595.500.000, setara US$48,5 juta dengan kurs Rp17.703 per dolar sesuai kurs JISDOR 28 Agustus 2026. Utang ini berasal dari perjanjian promissory note tertanggal 31 Oktober 2025 yang akan dikonversi menjadi modal disetor untuk empat pihak: PT Garuda Nusantara Mineral senilai US$20 juta (sekitar Rp354,06 miliar), Hilong Shipping Holding Limited senilai US$5 juta (sekitar Rp88,515 miliar), Yafin Tandiono Tan senilai US$11 juta (sekitar Rp194,733 miliar), dan PT Saga Investama Sedaya senilai US$12,5 juta (sekitar Rp221,2875 miliar). Sebagian hak tagih yang kini dipegang Garuda Nusantara Mineral sebelumnya berasal dari Hilong Shipping, yang dialihkan lewat perjanjian cessie pada 8 Juli 2026.",
+   "CBRE juga menyebut bahwa PT Superkrane Mitra Utama Tbk (SKRN), yang sebelumnya diumumkan pada 10 November 2025 berencana mengonversi hak tagihnya senilai US$6,5 juta, telah sepakat membatalkan rencana konversi tersebut lewat kesepakatan pembatalan tertanggal 30 Juni 2026. Akibatnya, utang kepada SKRN tidak masuk dalam skema rights issue ini dan akan tetap dilunasi CBRE menggunakan arus kas internal atau sumber pembiayaan lain.",
+   "Soal jadwal, pengumuman RUPSLB dilakukan 9 November 2026, pemanggilan resmi menyusul pada 24 November 2026, dengan daftar pemegang saham yang berhak hadir dihitung dari posisi penutupan perdagangan di BEI pada 23 November 2026. Setelah RUPSLB menyetujui rencana ini, pernyataan pendaftaran ke OJK harus menjadi efektif paling lambat 12 bulan dari tanggal RUPSLB."
+  ],
+  "fotoAdegan": "Cargo ship docked at a busy Indonesian port, workers checking mooring lines near container cranes, late afternoon light",
+  "takeaway": "Laporan ini netral karena dua sisi besarnya saling mengimbangi: utang Rp858,6 miliar kepada empat kreditur hilang dari buku Perseroan, tapi gantinya adalah penerbitan saham baru sampai 48 miliar lembar yang harga dan jumlah pastinya belum diumumkan. Konversi utang ini menambah modal pemegang saham (ekuitas) dan mengurangi beban bunga yang selama ini dibayar CBRE ke empat kreditur tersebut, tapi di sisi lain jumlah saham beredar yang membengkak bisa menggerus laba per saham kalau labanya tidak ikut naik sebanding. Batalnya rencana konversi utang US$6,5 juta dari PT Superkrane Mitra Utama Tbk juga berarti sebagian utang itu tetap harus dibayar tunai oleh CBRE, jadi bukan otomatis mengurangi seluruh beban kas Perseroan. Yang perlu dipantau adalah hasil RUPSLB pada 16 Desember 2026 yang akan mengesahkan rencana ini, serta Prospektus PMHMETD yang baru akan mengumumkan harga pelaksanaan dan jumlah final saham yang diterbitkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cbre-umumkan-rupslb-16-desember-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "CBRE Umumkan [RUPSLB] 16 Desember, Agenda Menyusul",
+  "deck": "CBRE akan menggelar RUPSLB pada 16 Desember 2026 di Jakarta. Pemegang saham per 23 November 2026 berhak hadir, agenda resmi baru terbit lewat pemanggilan 24 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T14:34:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f5daceb6d1_30106a9e27.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBRE",
+  "tags": [
+   "CBRE",
+   "RUPSLB",
+   "pasar modal",
+   "Cakra Buana Resources Energi"
+  ],
+  "body": [
+   "PT Cakra Buana Resources Energi Tbk (CBRE) mengumumkan rencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) 2026 pada Rabu, 16 Desember 2026, pukul 14.00 WIB. Lokasi yang dicantumkan adalah Four Points By Sheraton di Jalan MH Thamrin, Gondangdia, Menteng, Jakarta, meski Perseroan menyebut lokasi ini masih bisa berubah sesuai iklan resmi nanti. Surat pemberitahuan bernomor 0059/CS-CBRE/JKT/XI/2026 ini ditandatangani Direktur Utama Suminto Husin Giman pada 9 November 2026, merujuk pada surat sebelumnya nomor 0058 yang belum merinci agenda rapat.",
+   "Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan dan/atau pemilik saham di sub rekening efek KSEI per penutupan perdagangan Senin, 23 November 2026, pukul 16.00 WIB. Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan Selasa, 24 November 2026, lewat situs e-RUPS, situs Bursa Efek Indonesia, dan situs Perseroan. Pemegang saham yang mewakili minimal 1/20 dari seluruh jumlah saham bisa mengusulkan mata acara rapat secara tertulis, dengan tenggat paling lambat 7 hari sebelum tanggal pemanggilan tersebut, yakni sekitar 17 November 2026.",
+   "Karena kapasitas ruang rapat terbatas, Perseroan mendorong pemegang saham hadir secara elektronik lewat fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, termasuk opsi memberi kuasa konvensional maupun e-Proxy. Fasilitas e-Proxy tersedia sejak tanggal pemanggilan sampai satu hari kerja sebelum rapat, yaitu Selasa, 15 Desember 2026. Kehadiran fisik di lokasi dibatasi hanya untuk 25 orang dan diatur berdasarkan urutan kedatangan di hari pelaksanaan."
+  ],
+  "fotoAdegan": "Hotel ballroom staff arranging rows of empty chairs and a small stage for a formal corporate meeting under chandelier lighting",
+  "takeaway": "Laporan ini netral karena isinya baru pemberitahuan rencana rapat, belum membuka agenda apa yang akan diputuskan, sehingga belum ada dampak keuangan yang bisa dinilai. Pos kinerja yang berpotensi tersentuh baru akan terlihat begitu agenda terbit, apalagi CBRE hari ini juga melaporkan rencana rights issue untuk mengonversi utang Rp858,6 miliar jadi saham baru, yang bila disahkan lewat RUPS akan menambah jumlah saham beredar dan ekuitas perusahaan sekaligus mengubah porsi hak suara pemegang saham lama. Dokumen ini sendiri tidak menyatakan RUPSLB ini membahas konversi utang tersebut, jadi keterkaitannya belum pasti. Yang perlu dipantau adalah pemanggilan resmi berisi agenda lengkap pada 24 November 2026, tenggat usulan mata acara dari pemegang saham sekitar 17 November 2026, dan pelaksanaan rapat sendiri pada 16 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rups-boss-gagal-kuorum-panggilan-kedua-16-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPS BOSS Gagal Kuorum, Panggilan [Kedua] 16 November",
+  "deck": "RUPST dan RUPSLB BOSS pada 4 November gagal kuorum. Perseroan memanggil rapat kedua pada 16 November 2026 untuk mengesahkan laporan keuangan tiga tahun yang tertunda.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T14:17:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a078337837_1901f91fdf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "kuorum",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) memanggil kembali Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku 2023, 2024, dan 2025 sekaligus Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), setelah rapat pertama yang digelar Rabu, 4 November 2026 di Wisma 77 Tower 1, Jakarta Barat, gagal mencapai kuorum kehadiran. Rapat kedua dijadwalkan Senin, 16 November 2026 pukul 10.00 WIB di lokasi yang sama, dengan daftar pemegang saham yang berhak hadir dihitung per Jumat, 6 November 2026.",
+   "Pada RUPST pertama, pemegang saham atau kuasanya yang hadir hanya mewakili 466.566.386 saham, atau 33,33 persen dari total 1.400.000.000 saham beredar. Aturan Pasal 41 ayat 1 huruf a POJK 15/2020 mensyaratkan kehadiran lebih dari separuh saham agar RUPST sah, sehingga rapat yang dibuka pukul 10.25 WIB dan ditutup pukul 10.52 WIB itu dinyatakan tidak sah dan tidak dapat mengambil keputusan. Agenda yang gagal diputuskan meliputi ratifikasi keterlambatan pelaksanaan RUPST tiga tahun buku tersebut, pengesahan laporan tahunan dan laporan keuangan 2023-2025 beserta pembebasan tanggung jawab bagi Dewan Komisaris dan Direksi, penetapan penggunaan laba, penunjukan akuntan publik untuk audit tahun buku 2026, serta penetapan honorarium dan tunjangan bagi pengurus. Rapat dihadiri jajaran pengurus yakni Komisaris Utama Johannes Halim, Direktur Utama Freddy Tedjasasmita, dan Direktur Widodo Nurly Sumady.",
+   "RUPSLB yang digelar setelahnya, dibuka pukul 11.00 WIB dan ditutup pukul 11.10 WIB, juga tidak sah karena hanya dihadiri 503.312.586 saham atau 35,95 persen dari total saham beredar, di bawah syarat minimal 2/3 bagian sesuai Pasal 42 huruf a POJK 15/2020. Satu-satunya agenda RUPSLB, yaitu penyesuaian Pasal 3 Anggaran Dasar Perseroan mengikuti standar Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, juga belum dapat diputuskan. Dengan kedua rapat batal karena kuorum tidak terpenuhi, seluruh agenda tersebut akan diajukan kembali pada rapat kedua 16 November 2026."
+  ],
+  "fotoAdegan": "Abandoned open-pit coal mine with idle excavators and overgrown tracks under an overcast sky, no workers in sight",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena RUPST dan RUPSLB pertama sama-sama gagal kuorum, hanya 33,33 persen dan 35,95 persen saham yang hadir padahal syaratnya masing-masing lebih dari separuh dan sedikitnya dua pertiga, menandakan rendahnya partisipasi pemegang saham mayoritas. Agenda yang tertunda termasuk pengesahan laporan keuangan tiga tahun buku sekaligus dan pembebasan tanggung jawab direksi atau acquit et de charge, yakni persetujuan yang melepaskan pengurus dari tanggung jawab hukum atas kinerja masa itu, penting diperhatikan karena perusahaan ini sudah lama mencatat defisit modal dan nihil penjualan sehingga pertanggungjawaban pengurus jadi sorotan. Yang perlu dipantau adalah apakah rapat kedua pada 16 November 2026 berhasil mencapai kuorum, sebab jika kembali gagal, pengesahan laporan keuangan tiga tahun yang tertunda itu bisa makin berlarut dan Perseroan mungkin perlu menempuh jalur lain seperti permohonan ke pengadilan untuk mengesahkan rapat.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bbni-tutup-layanan-bni-mobile-banking-pindah-ke-wondr",
   "category": "Aksi Korporasi",
   "title": "BBNI Tutup Layanan [BNI Mobile Banking], Pindah ke Wondr",

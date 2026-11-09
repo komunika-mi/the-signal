@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lppom-mui-ajak-4-525-pelajar-kenal-ekosistem-halal",
+  "category": "Bisnis",
+  "title": "LPPOM MUI [Ajak] 4.525 Pelajar Kenal Ekosistem Halal",
+  "deck": "LPPOM MUI menggelar Gen Halal Championship 2026 yang diikuti 4.525 pelajar SMA/SMK/MA, termasuk non-Muslim, untuk mengenalkan ekosistem halal sejak dini.",
+  "date": "9 November 2026",
+  "image": "assets/img/lppom-mui-ajak-4-525-pelajar-kenal-ekosistem-halal.jpg",
+  "imageV": "mw9gmc8i",
+  "tags": [
+   "halal",
+   "LPPOM MUI",
+   "Gen Halal Championship",
+   "ekonomi syariah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477448-edukasi-halal-tak-cukup-untuk-orang-dewasa-lppom-mui-sasar-ribuan-pelajar-lewat-kompetisi-berbasis-nasional"
+ },
+ {
   "slug": "goll-resmi-delisting-dari-bei-efektif-10-november-2026",
   "category": "Aksi Korporasi",
   "title": "GOLL Resmi [Delisting] dari BEI, Efektif 10 November 2026",
@@ -131,6 +148,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/70f5bbc030_67dfab99bb.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kemen-pu-genjot-jalur-pansela-di-blitar-untuk-ekonomi-pesisir",
+  "category": "Bisnis",
+  "title": "Kemen PU Genjot Jalur [Pansela] di Blitar untuk Ekonomi Pesisir",
+  "deck": "Kemen PU mempercepat pembangunan ruas Pansela Ringinrejo-Simpang Jolosutro sepanjang 7,9 km di Blitar untuk membuka akses wisata pantai dan ekonomi pesisir selatan Jatim.",
+  "date": "9 November 2026",
+  "image": "assets/img/kemen-pu-genjot-jalur-pansela-di-blitar-untuk-ekonomi-pesisir.jpg",
+  "imageV": "mw9gmcow",
+  "tags": [
+   "Pansela",
+   "Kementerian PU",
+   "Blitar",
+   "Jawa Timur"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477431-tingkatkan-ekonomi-pesisir-kemen-pu-genjot-pembangunan-jalan-pansela-jawa-timur"
  },
  {
   "slug": "ekspor-camilan-dua-kelinci-ke-australia-tembus-rp1-03-miliar",
@@ -6434,38 +6468,6 @@ var ARTICLES = [
    "batu bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103091006-65703-0/FinancialStatement-2026-II-BOSS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "midi-tebar-dividen-interim-rp127-miliar-rp3-8-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "MIDI Tebar [Dividen] Interim Rp127 Miliar, Rp3,8 per Saham",
-  "deck": "Midi Utama Indonesia (MIDI) membagikan dividen interim tahun buku 2026 senilai Rp127,05 miliar atau Rp3,8 per saham, dibayarkan paling lambat 1 Desember 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MIDI",
-   "dividen",
-   "Alfamidi",
-   "emiten ritel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/077bcc19d7_e1b05951d4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ifii-bagikan-dividen-interim-kedua-rp47-06-miliar",
-  "category": "Aksi Korporasi",
-  "title": "IFII bagikan dividen interim kedua [Rp47,06 miliar]",
-  "deck": "Direksi IFII memutuskan dividen interim kedua tahun buku 2026 sebesar Rp5 per saham, total Rp47,06 miliar, dibayar 26 November 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IFII",
-   "dividen interim",
-   "dividen tunai",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c0095caf0_e634068ee4.pdf",
   "sourceLabel": "IDX"
  }
 ];

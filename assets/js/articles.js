@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lppom-mui-ajak-4-525-pelajar-kenal-ekosistem-halal",
+  "category": "Bisnis",
+  "title": "LPPOM MUI [Ajak] 4.525 Pelajar Kenal Ekosistem Halal",
+  "deck": "LPPOM MUI menggelar Gen Halal Championship 2026 yang diikuti 4.525 pelajar SMA/SMK/MA, termasuk non-Muslim, untuk mengenalkan ekosistem halal sejak dini.",
+  "image": "assets/img/lppom-mui-ajak-4-525-pelajar-kenal-ekosistem-halal.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:54:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477448-edukasi-halal-tak-cukup-untuk-orang-dewasa-lppom-mui-sasar-ribuan-pelajar-lewat-kompetisi-berbasis-nasional",
+  "tags": [
+   "halal",
+   "LPPOM MUI",
+   "Gen Halal Championship",
+   "ekonomi syariah"
+  ],
+  "body": [
+   "Lembaga Pengkajian Pangan, Obat-obatan, dan Kosmetika Majelis Ulama Indonesia (LPPOM MUI) menggelar kompetisi Gen Halal Championship 2026 untuk mengenalkan ekosistem halal kepada pelajar SMA, SMK, dan MA sederajat di seluruh Indonesia. Ajang ini diikuti 4.525 pelajar, termasuk sejumlah peserta non-Muslim, dan berlangsung di Grand Orchardz Hotel Kemayoran, Jakarta Pusat, Senin (9/11/2026). Program ini penting karena menyasar generasi yang akan menjadi konsumen utama produk halal beberapa tahun ke depan, sementara pemahaman masyarakat soal pentingnya label halal dinilai masih rendah.",
+   "Direktur Utama LPPOM MUI, Muti Arintawati, menjelaskan bahwa kompetisi ini dirancang mengikuti karakter generasi muda agar materi soal ekosistem halal, termasuk ekonomi syariah, lebih mudah diterima dibanding edukasi konvensional untuk orang dewasa. Menurutnya, banyak orang masih menganggap produk berlabel halal tidak berbeda dengan produk tanpa label, sehingga penyadaran perlu dimulai sejak usia sekolah. Ia berharap peserta yang sudah mendapat materi ini bisa menularkan pemahamannya ke keluarga, teman, dan masyarakat di daerah asal masing-masing setelah kompetisi selesai.",
+   "Keikutsertaan pelajar non-Muslim dalam kompetisi ini menunjukkan LPPOM MUI mencoba memposisikan halal tidak hanya sebagai urusan keagamaan, tetapi juga sebagai standar kualitas produk yang relevan bagi semua kalangan. Sasaran akhirnya tetap konsumen, karena menurut Muti kesadaran soal kehalalan produk perlu tumbuh dari sisi permintaan, bukan hanya dari produsen yang mengurus sertifikasi."
+  ],
+  "fotoAdegan": "Teenage students in school uniforms concentrating during a quiz competition inside a hotel conference hall, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/09/6af1eb68995d7-direktur-utama-lembaga-pengkajian-pangan-obat-obatan-dan-kosmetika-majelis-ulama-indonesia-lppom-mui-muti-arintawati-dalam-kompetisi-gen-halal-championship-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah skala sosialisasinya, dari edukasi yang biasanya menyasar orang dewasa menjadi kompetisi tahunan yang menjaring 4.525 pelajar SMA, SMK, dan MA, termasuk peserta non-Muslim. Yang langsung kena dampaknya adalah pelajar peserta dan lingkungan sekitar mereka, karena LPPOM MUI berharap mereka menularkan pemahaman soal halal ke keluarga dan daerah asalnya, sementara dampak lanjutannya menyasar pelaku usaha yang butuh konsumen yang lebih sadar label halal. Berita ini belum menyebutkan apakah Gen Halal Championship akan berlanjut dengan skala lebih besar tahun depan, atau apakah materinya akan masuk ke jalur pendidikan formal lewat kurikulum sekolah, jadi belum bisa disimpulkan apakah ini sekadar acara tahunan atau awal program yang lebih permanen. Yang perlu dipantau adalah penyelenggaraan edisi berikutnya dan ada tidaknya kerja sama LPPOM MUI dengan instansi pendidikan untuk memasukkan materi ekosistem halal ke sekolah.",
+  "imageV": "mw9gmc8i"
+ },
+ {
   "slug": "goll-resmi-delisting-dari-bei-efektif-10-november-2026",
   "category": "Aksi Korporasi",
   "title": "GOLL Resmi [Delisting] dari BEI, Efektif 10 November 2026",
@@ -212,6 +238,32 @@ var ARTICLES = [
   "fotoAdegan": "A cable-laying ship deck with large spools of undersea fiber optic cable, crew working, open sea in the background",
   "takeaway": "Laporan ini netral bagi fundamental INET: lonjakan pendapatan yang terlihat spektakuler sebagian besar berasal dari masuknya anak usaha jasa alih daya tenaga kerja yang marginnya cuma 3,6 persen, bukan dari bisnis internet inti yang justru jauh lebih menguntungkan dengan margin 60,5 persen. Pos yang tersentuh adalah ekuitas, yaitu modal pemegang saham, yang melonjak sembilan kali lipat menjadi Rp3,95 triliun karena suntikan dana rights issue awal tahun, serta kas perusahaan yang menggembung karena dari total Rp4,195 triliun dana yang terkumpul dari rights issue, obligasi, dan sukuk, baru 6,35 persen yang benar-benar dibelanjakan hingga akhir Juni 2026. Artinya sebagian besar dana segar itu masih mengendap sebagai kas dan belum menghasilkan pendapatan baru bagi pemegang saham yang sudah terdilusi oleh rights issue tersebut. Yang perlu dipantau berikutnya adalah kelanjutan proyek kabel laut SGI-CS yang masih berstatus perencanaan serta pembangunan FTTH di Bali-Lombok dan Kalimantan Barat, dan yang lebih mendesak adalah jatuh tempo Seri A Obligasi dan Sukuk Ijarah pada Februari 2027 yang akan menguji kemampuan arus kas perusahaan membayar kembali investor.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "kemen-pu-genjot-jalur-pansela-di-blitar-untuk-ekonomi-pesisir",
+  "category": "Bisnis",
+  "title": "Kemen PU Genjot Jalur [Pansela] di Blitar untuk Ekonomi Pesisir",
+  "deck": "Kemen PU mempercepat pembangunan ruas Pansela Ringinrejo-Simpang Jolosutro sepanjang 7,9 km di Blitar untuk membuka akses wisata pantai dan ekonomi pesisir selatan Jatim.",
+  "image": "assets/img/kemen-pu-genjot-jalur-pansela-di-blitar-untuk-ekonomi-pesisir.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T20:40:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477431-tingkatkan-ekonomi-pesisir-kemen-pu-genjot-pembangunan-jalan-pansela-jawa-timur",
+  "tags": [
+   "Pansela",
+   "Kementerian PU",
+   "Blitar",
+   "Jawa Timur"
+  ],
+  "body": [
+   "Pemerintah lewat Kementerian Pekerjaan Umum mengebut pembangunan ruas jalan di pesisir selatan Blitar, Jawa Timur, sebagai bagian dari Jalur Lintas Selatan atau Pansela Jawa. Proyek ini disebut penting karena bertujuan membuka pusat pertumbuhan ekonomi baru di wilayah selatan Jawa sekaligus menjadi jalur alternatif agar beban lalu lintas di Pantura dan Tol Trans Jawa berkurang.",
+   "Ruas yang digarap bernama Lot 3A Ringinrejo-Simpang Jolosutro, sepanjang 7,9 kilometer, dikerjakan oleh PT PP (Persero) sejak Agustus 2026. Jalan dirancang dengan lebar badan 2 x 3,5 meter dan bahu jalan 2 meter, di mana hampir separuh pekerjaannya berupa pekerjaan tanah dan 30 persen lainnya struktur penahan tebing, mengingat kontur Blitar Selatan yang berbukit dan rawan longsor. Untuk mengatasi risiko itu, proyek menerapkan teknik penguatan lereng seperti soil nailing, shotcrete, dan lapisan geomatt pengendali erosi.",
+   "Dengan akses yang lebih baik, pemerintah berharap kunjungan wisatawan ke deretan pantai Blitar Selatan, yakni Pantai Serang, Gayasan, Pangi, Peh Pulo, Tambakrejo, hingga Jolosutro, bisa meningkat signifikan dan ikut menggerakkan ekonomi warga pesisir. Menteri PU Dody Hanggodo menyebut proyek ini sejalan dengan program kerja Kementerian PU bertajuk PU608 yang menyasar pemerataan infrastruktur dan pertumbuhan ekonomi daerah."
+  ],
+  "fotoAdegan": "Excavators carving a terraced road along a steep, forested hillside above a rural Indonesian coastline, overcast morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/09/6af1cc8d8ce9a-pemerintah-terus-melakukan-berbagai-upaya-dalam-menggerakkan-ekonomi-kawasan-pesisir-selatan-blitar-dan-sekitarnya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah pembangunan satu ruas Pansela sepanjang 7,9 kilometer di Blitar, dengan spesifikasi jalan dan teknologi penahan lereng yang sudah dirinci, dikerjakan PT PP sejak Agustus 2026. Yang terdampak jelas warga pesisir Blitar Selatan, pelaku wisata di sekitar enam pantai yang disebut, dan pengguna jalan yang kini punya alternatif selain Pantura. Tapi berita ini hanya membahas satu ruas bernama Lot 3A, yang menandakan ada ruas-ruas lain dalam proyek Pansela Jawa Timur yang progresnya tidak disebut di sini, begitu juga target tanggal selesai dan anggaran totalnya. Untuk bisa membaca ke mana arah proyek Pansela secara keseluruhan, yang masih ditunggu adalah jadwal penyelesaian ruas Lot 3A ini serta data progres ruas-ruas lain yang biasanya diumumkan Kementerian PU secara berkala.",
+  "imageV": "mw9gmcow"
  },
  {
   "slug": "ekspor-camilan-dua-kelinci-ke-australia-tembus-rp1-03-miliar",

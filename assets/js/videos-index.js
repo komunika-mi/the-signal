@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "6nBnM8ZBx4s",
+  "title": "Gentengisasi Dorong UMKM dan Ekonomi Bergerak",
+  "category": "UMKM",
+  "program": "AKIM",
+  "summary": "Program Gentengisasi yang digagas Presiden Prabowo Subianto melalui Kementerian Perumahan dan Kawasan Permukiman dinilai turut menggerakkan UMKM dan roda ekonomi di tingkat daerah.",
+  "takeaway": "Menarik bagi pembaca ekonomi karena menunjukkan bagaimana program perumahan pemerintah bisa berdampak langsung pada pertumbuhan UMKM."
+ },
+ {
   "id": "K34b2ZNITh4",
   "title": "Upaya BP Batam Modernisasi Terminal Peti Kemas",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Industri pengolahan tercatat menyumbang ekspor senilai US$159,55 miliar, dibahas dalam Rapimnas Kadin sebagai bagian perumusan arah kebijakan ekonomi bersama pemerintah.",
   "takeaway": "Angka ini menunjukkan peran sektor manufaktur sebagai andalan devisa ekspor."
- },
- {
-  "id": "gV5HIMYAyZM",
-  "title": "Kemendag Ungkap Strategi Dorong Produk Lokal Tembus Pasar Global",
-  "category": "Bisnis",
-  "program": "tvOneNews",
-  "summary": "Kementerian Perdagangan memaparkan strategi memperluas pasar produk lokal ke kancah global dalam forum Rapimnas Kadin, ajang konsolidasi pemerintah dan dunia usaha.",
-  "takeaway": "Relevan bagi pelaku usaha yang ingin memahami arah kebijakan ekspor pemerintah."
  }
 ];

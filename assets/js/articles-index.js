@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-camilan-dua-kelinci-ke-australia-tembus-rp1-03-miliar",
+  "category": "Industri",
+  "title": "Ekspor Camilan Dua Kelinci ke Australia Tembus [Rp1,03] Miliar",
+  "deck": "Menteri Perdagangan melepas ekspor lima kontainer camilan Dua Kelinci senilai Rp1,03 miliar ke Australia, sembari mendorong pelaku usaha memanfaatkan 25 perjanjian dagang Indonesia.",
+  "date": "9 November 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "ekspor",
+   "Dua Kelinci",
+   "perjanjian dagang",
+   "Kementerian Perdagangan"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/lepas-ekspor-pt-dua-kelinci-ke-negeri-kanguru-mendag-busan-terus-ajak-pelaku-usaha-manfaatkan-perjanjian-dagang",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bri-cetak-laba-rp48-2-triliun-di-triwulan-iii-2026",
+  "category": "Perbankan",
+  "title": "BRI Cetak Laba [Rp48,2 Triliun] di Triwulan III 2026",
+  "deck": "Laba bersih BRI tumbuh 16,8 persen secara tahunan menjadi Rp48,2 triliun pada triwulan III 2026, ditopang ekspansi kredit dan porsi UMKM yang tetap dominan.",
+  "date": "9 November 2026",
+  "image": "assets/img/bri-cetak-laba-rp48-2-triliun-di-triwulan-iii-2026.jpg",
+  "imageV": "mw9bbdmx",
+  "tags": [
+   "BRI",
+   "laba bank",
+   "kredit UMKM",
+   "kinerja keuangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477426-dukung-kemajuan-ekonomi-nasional-bri-cetak-laba-rp482-triliun-pada-triwulan-iii-2026"
+ },
+ {
   "slug": "rans-resmi-batalkan-kerja-sama-konser-d-masiv-tur-asia",
   "category": "Aksi Korporasi",
   "title": "RANS Resmi Batalkan Kerja Sama Konser [D'MASIV] Tur Asia",
@@ -147,6 +180,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/073b252e79_edf0c41802.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pemerintah-pastikan-tambah-kuota-pertalite-anggaran-cukup",
+  "category": "Energi",
+  "title": "Pemerintah Pastikan Tambah Kuota [Pertalite], Anggaran Cukup",
+  "deck": "Pemerintah menambah kuota Pertalite setelah konsumsi melonjak akibat kenaikan harga Pertamax, dan Menko Airlangga memastikan anggaran negara masih mencukupi.",
+  "date": "9 November 2026",
+  "image": "assets/img/pemerintah-pastikan-tambah-kuota-pertalite-anggaran-cukup.jpg",
+  "imageV": "mw9bbe2f",
+  "tags": [
+   "pertalite",
+   "bbm subsidi",
+   "airlangga hartarto",
+   "bph migas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477410-kuota-pertalite-bakal-ditambah-menko-airlangga-anggaran-masih-ada"
  },
  {
   "slug": "umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel",
@@ -2797,7 +2847,7 @@ var ARTICLES = [
   "title": "Dana Perkebunan Sawit Meluas ke Petani [Kakao] dan Kelapa",
   "deck": "Pemerintah memperluas mandat dana sawit ke petani kakao dan kelapa, mewajibkan pelaporan ekspor lewat sistem digital sejak Juni 2026, dan mendorong biodiesel B50 sejak Juli 2026.",
   "date": "5 November 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "sawit",
    "kakao",
@@ -6419,53 +6469,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-hari-ritel-nasional-2026-mendag-busan-ajak-umkm-gencar-masuk-ritel",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "indf-tanggapi-bei-soal-penyelidikan-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "INDF Tanggapi BEI soal [Penyelidikan] Karhutla Singapura",
-  "deck": "Indofood menjelaskan ke BEI bahwa anak usahanya, Indofood Agri Resources, dipanggil otoritas Singapura terkait penyelidikan karhutla, dan prosesnya masih berjalan.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDF",
-   "karhutla",
-   "Singapura",
-   "SIMP"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a108e94d68_ce6e3a80b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "simp-tanggapi-bursa-sebut-induk-usaha-disoal-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "SIMP Tanggapi Bursa, Sebut Induk Usaha Disoal [Karhutla] Singapura",
-  "deck": "SIMP menjelaskan ke Bursa Efek Indonesia bahwa pihak yang dipanggil otoritas Singapura terkait isu karhutla adalah induk usahanya, Indofood Agri Resources Ltd, bukan perseroan secara langsung.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SIMP",
-   "karhutla",
-   "Bursa Efek Indonesia",
-   "Indofood Agri Resources"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c9f745ba39_13a914c846.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lsip-tanggapi-bursa-induk-tak-langsung-disebut-soal-karhutla",
-  "category": "Aksi Korporasi",
-  "title": "LSIP Tanggapi Bursa, Induk Tak Langsung Disebut Soal [Karhutla]",
-  "deck": "Lonsum menjawab permintaan penjelasan Bursa Efek Indonesia soal pemanggilan otoritas Singapura ke induk usaha tidak langsungnya, Indofood Agri Resources, terkait isu kebakaran hutan.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LSIP",
-   "karhutla",
-   "Bursa Efek Indonesia",
-   "Singapura"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/06bbf61851_c910241271.pdf",
-  "sourceLabel": "IDX"
  }
 ];

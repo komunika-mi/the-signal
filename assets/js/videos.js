@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "6nBnM8ZBx4s",
+  "title": "Gentengisasi Dorong UMKM dan Ekonomi Bergerak",
+  "category": "UMKM",
+  "program": "AKIM",
+  "summary": "Program Gentengisasi yang digagas Presiden Prabowo Subianto melalui Kementerian Perumahan dan Kawasan Permukiman dinilai turut menggerakkan UMKM dan roda ekonomi di tingkat daerah.",
+  "takeaway": "Menarik bagi pembaca ekonomi karena menunjukkan bagaimana program perumahan pemerintah bisa berdampak langsung pada pertumbuhan UMKM.",
+  "terbit": "2026-11-09T12:56:01+00:00"
+ },
+ {
   "id": "K34b2ZNITh4",
   "title": "Upaya BP Batam Modernisasi Terminal Peti Kemas",
   "category": "Industri",

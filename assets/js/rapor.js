@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-07T03:34:49.367+07:00",
+ "diperbarui": "2026-11-10T06:35:40.136+07:00",
  "entri": [
+  {
+   "id": "2026-11-09-3",
+   "edisi": "2026-11-09",
+   "benang": "Harga Energi Naik, Daya Beli Belum Jelas Arahnya",
+   "klaim": "Daya beli masyarakat secara agregat lebih mungkin masih terjaga, dengan konsumen hanya berpindah ke BBM bersubsidi yang lebih murah tanpa mengurangi total belanja, selama Indeks Keyakinan Konsumen terus naik.",
+   "penanda": "data penjualan eceran dan konsumsi BBM bersubsidi bulan-bulan berikutnya, serta rilis Indeks Keyakinan Konsumen November oleh Bank Indonesia awal Desember 2026",
+   "tenggat": "2026-12-05",
+   "tenggatLabel": "rilis Indeks Keyakinan Konsumen November oleh Bank Indonesia awal Desember 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-09-2",
+   "edisi": "2026-11-09",
+   "benang": "Kredit Bank Tumbuh Sejalan Ekonomi yang Menguat",
+   "klaim": "Ekspansi kredit perbankan akan terus berlanjut selama ekonomi tumbuh, dengan pola kecepatan laba mendahului kredit seperti yang terjadi di BRI juga akan terjadi di bank-bank besar lain.",
+   "penanda": "laporan keuangan triwulan IV bank-bank besar lain awal tahun depan, yang akan menunjukkan apakah pola kecepatan laba mendahului kredit ini juga terjadi di luar BRI",
+   "tenggat": "2027-02-28",
+   "tenggatLabel": "laporan keuangan triwulan IV bank-bank besar lain awal tahun depan",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-09-1",
+   "edisi": "2026-11-09",
+   "benang": "Bursa Rampungkan Pembersihan Emiten Bermasalah",
+   "klaim": "Bursa terus menyempitkan ruang bagi emiten yang lama bermasalah secara keuangan dan tata kelola, sehingga proses pembersihan emiten bermasalah ini akan terus berlanjut.",
+   "penanda": "RUPSLB kedua BOSS pada 16 November dan RUPSLB VTNY pada 23 November, yang akan menunjukkan apakah masalah-masalah itu mulai terbuka atau makin tertutup",
+   "tenggat": "2026-11-23",
+   "tenggatLabel": "RUPSLB kedua BOSS pada 16 November dan RUPSLB VTNY pada 23 November",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-06-2",
    "edisi": "2026-11-06",

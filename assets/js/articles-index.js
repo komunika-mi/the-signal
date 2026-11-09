@@ -5,6 +5,182 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "depo-respons-bei-akui-diskusi-internal-tindakan-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "DEPO Respons BEI, Akui Diskusi Internal [Tindakan Korporasi]",
+  "deck": "Menanggapi permintaan BEI soal volatilitas transaksi, DEPO menyatakan tak ada info material baru, namun mengakui masih membahas internal alternatif tindakan korporasi tanpa keputusan final.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEPO",
+   "keterbukaan informasi",
+   "tindakan korporasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f17751f04b_ef7f6bbd0c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-lagi-250-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] Lagi 250.000 Saham",
+  "deck": "Henry Liem, Dewan Komisaris AKPI, melaporkan penjualan 250.000 saham pada 6 November 2026 lewat skema repurchase agreement, menyusul penjualan 350.000 saham pekan sebelumnya.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Komisaris",
+   "Transaksi Saham",
+   "Henry Liem"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-4359-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "elit-direksi-beli-106-300-saham-kepemilikan-jadi-208-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "ELIT: Direksi [Beli] 106.300 Saham, Kepemilikan Jadi 208.000 Lembar",
+  "deck": "Direktur ELIT, Ery Setyo Wibowo, membeli 106.300 saham perusahaan pada 29 Oktober 2026 seharga Rp188 per lembar, menggandakan kepemilikannya menjadi 208.000 lembar.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELIT",
+   "kepemilikan saham",
+   "direksi",
+   "insider buying"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-7380-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ultj-komisaris-suhendra-mundur-efektif-usai-inbreng-rampung",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ: Komisaris Suhendra [Mundur], Efektif Usai Inbreng Rampung",
+  "deck": "Komisaris ULTJ Suhendra Prawirawidjaja mengundurkan diri, tapi baru efektif setelah proses inbreng dalam rights issue PMHMETD IV selesai.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "Dewan Komisaris",
+   "Frisian Flag",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cc10d6a437_3ccc698700.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "direksi-mdla-beli-50-000-saham-senilai-rp9-3-juta",
+  "category": "Aksi Korporasi",
+  "title": "Direksi [MDLA] Beli 50.000 Saham Senilai Rp9,3 Juta",
+  "deck": "Edbert Orotodan, direksi Medela Potentia, membeli 50.000 saham MDLA seharga Rp186 per saham pada 3 November 2026, hak suaranya tetap 0,014 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLA",
+   "Medela Potentia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-1467-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tapg-direksi-beli-200-000-saham-senilai-rp375-juta",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi [Beli] 200.000 Saham Senilai Rp375 Juta",
+  "deck": "George Oetomo, direksi Triputra Agro Persada, menambah kepemilikan sahamnya di TAPG lewat pembelian tidak langsung pada 3 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "kepemilikan saham",
+   "direksi",
+   "insider trading"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-3792-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bram-kantongi-tambahan-klaim-asuransi-us-23-6-juta-banjir",
+  "category": "Aksi Korporasi",
+  "title": "BRAM Kantongi Tambahan [Klaim Asuransi] US$23,6 Juta Banjir",
+  "deck": "Indo Kordsa memperoleh persetujuan tambahan pendapatan asuransi US$23,6 juta atas klaim banjir Bogor 2025, total klaim kini US$48,6 juta.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRAM",
+   "Indo Kordsa",
+   "klaim asuransi",
+   "banjir Bogor"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a8d859dcae_7a532d4d2d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "avia-bagikan-dividen-interim-rp700-miliar-laba-naik-16-5",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Bagikan [Dividen Interim] Rp700 Miliar, Laba Naik 16,5%",
+  "deck": "Laba bersih sembilan bulan AVIA tumbuh 16,5% jadi Rp1,38 triliun, Avian Brands bagikan dividen interim Rp12 per saham senilai total Rp700 miliar.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "dividen interim",
+   "laba bersih",
+   "cat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/208ef9cff7_732a7a802c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akra-rampungkan-akuisisi-penuh-apr-senilai-us-14-22-juta",
+  "category": "Aksi Korporasi",
+  "title": "AKRA Rampungkan [Akuisisi] Penuh APR Senilai US$14,22 Juta",
+  "deck": "AKR Corporindo lewat dua anak usahanya membeli 49,9% saham PT Aneka Petroindo Raya dari BP Global Investments senilai US$14,22 juta, menaikkan kepemilikannya di APR menjadi 100%.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKRA",
+   "AKR Corporindo",
+   "akuisisi",
+   "Aneka Petroindo Raya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3dd514b6db_08b22f07c5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "east-bagikan-dividen-interim-iii-rp1-6-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "EAST Bagikan [Dividen] Interim III Rp1,6 per Saham",
+  "deck": "Eastparc Hotel menjadwalkan dividen tunai interim ketiga tahun buku 2026 sebesar Rp1,6 per saham, dibayar 30 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EAST",
+   "dividen interim",
+   "Eastparc Hotel",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bec463178c_0b6d8dc767.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bcap-direktur-mundur-henry-suparman-gantikan-aan-setiawandi",
+  "category": "Aksi Korporasi",
+  "title": "BCAP: Direktur Mundur, [Henry Suparman] Gantikan Aan Setiawandi",
+  "deck": "Direktur BCAP Aan Setiawandi mengajukan pengunduran diri efektif 6 November 2026, posisinya akan diisi Henry Suparman, eksekutif lama MNC Group.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BCAP",
+   "MNC Kapital Indonesia",
+   "Direksi",
+   "Pergantian Direktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d3bd1e3577_2d4ffca573.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "raja-akuisisi-90-saham-knj-rambah-bisnis-kapal-gas",
   "category": "Aksi Korporasi",
   "title": "RAJA Akuisisi 90% Saham KNJ, Rambah Bisnis [Kapal Gas]",
@@ -6290,182 +6466,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4fa8f07fb9_ec4690873c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wins-akuisisi-fos-kerek-aset-54-laba-naik-83",
-  "category": "Aksi Korporasi",
-  "title": "WINS: [Akuisisi] FOS Kerek Aset 54%, Laba Naik 83%",
-  "deck": "Akuisisi Fast Offshore Supply mendorong total aset WINS naik 54% dan liabilitas naik 249% pada kuartal III 2026, sementara laba bersih melonjak 83% dibanding tahun lalu.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINS",
-   "akuisisi",
-   "laporan keuangan",
-   "pelayaran lepas pantai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102170828-65685-0/FinancialStatement-2026-III-WINS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-bantah-terlibat-penyelidikan-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "LPPI bantah terlibat penyelidikan karhutla [Singapura]",
-  "deck": "LPPI menjawab permintaan BEI soal pemanggilan Singapura terkait karhutla, menegaskan bukan dirinya melainkan pemegang saham tidak langsungnya, APP Co Ltd, yang dipanggil.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI",
-   "karhutla",
-   "APP Co Ltd",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/84223d3682_d5c079a7bc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-bukan-subjek-pemanggilan-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "INKP: Bukan Subjek Pemanggilan [Karhutla] Singapura",
-  "deck": "INKP menjawab permintaan Bursa bahwa bukan Perseroan atau anak usahanya, melainkan pemegang saham tak langsung APP Co Ltd, yang dipanggil Pemerintah Singapura soal investigasi karhutla.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "karhutla",
-   "Singapura",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a586f88113_d4f027d7ce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bumi-perpanjang-target-akuisisi-laman-mining-ke-januari-2027",
-  "category": "Aksi Korporasi",
-  "title": "BUMI Perpanjang Target Akuisisi [Laman Mining] ke Januari 2027",
-  "deck": "Bumi Resources mengundur realisasi dana Rp333,6 miliar untuk akuisisi PT Laman Mining dari 30 Oktober 2026 menjadi 31 Januari 2027 karena sejumlah syarat transaksi belum terpenuhi.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUMI",
-   "Bumi Resources",
-   "akuisisi tambang",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a82a03e877_b4131aa916.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tkim-bantah-terlibat-penyelidikan-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "TKIM Bantah Terlibat Penyelidikan [Karhutla] Singapura",
-  "deck": "TKIM menjawab permintaan penjelasan BEI soal pemanggilan Pemerintah Singapura ke grup agribisnis terkait karhutla, menegaskan perseroan tak jadi subjek pemeriksaan.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TKIM",
-   "karhutla",
-   "Singapura",
-   "APP Co Ltd"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4680f505a5_37a81d0042.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atla-laba-bersih-anjlok-73-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "ATLA: Laba Bersih [Anjlok] 73% di Kuartal III 2026",
-  "deck": "Pendapatan PT Atlantis Subsea Indonesia turun 41,5 persen dan laba bersih anjlok ke Rp697,6 juta pada sembilan bulan 2026, kas perusahaan menyusut tajam.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATLA",
-   "laporan keuangan",
-   "kinerja emiten",
-   "sektor energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102170314-65620-0/FinancialStatement-2026-III-ATLA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-sesuaikan-waran-tapg-usai-dividen-rp70-saham",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan Waran [TAPG] usai Dividen Rp70/Saham",
-  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran terstruktur TAPGZPCH7A menyusul dividen interim TAPG Rp70 per saham, efektif 11 November 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "TAPG",
-   "waran terstruktur",
-   "dividen interim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f838a00c8a_d85aace92c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brrc-laba-bersih-turun-58-persen-kas-tersisa-rp70-juta",
-  "category": "Aksi Korporasi",
-  "title": "BRRC: [Laba Bersih] Turun 58 Persen, Kas Tersisa Rp70 Juta",
-  "deck": "Laba bersih sembilan bulan PT Raja Roti Cemerlang turun hampir 58 persen dibanding tahun lalu, sementara kas perusahaan menyusut tajam menjadi hanya Rp70,5 juta per akhir September 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRRC",
-   "laporan keuangan",
-   "laba bersih",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102174843-65615-0/FinancialStatement-2026-III-BRRC.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "true-dan-swat-masuk-pemantauan-khusus-bei-per-3-november",
-  "category": "Aksi Korporasi",
-  "title": "TRUE dan SWAT Masuk [Pemantauan Khusus] BEI per 3 November",
-  "deck": "Bursa Efek Indonesia menempatkan saham TRUE dan SWAT ke papan pemantauan khusus mulai 3 November 2026, masing-masing karena pendapatan mandek dan ekuitas negatif.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUE",
-   "SWAT",
-   "BEI",
-   "pemantauan khusus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9080cbb6d9_c97f4238bf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pidl-bantah-terlibat-penyelidikan-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "PIDL Bantah Terlibat Penyelidikan [Karhutla] Singapura",
-  "deck": "PIDL menegaskan tidak jadi subjek penyelidikan karhutla Singapura, yang menyasar APP Co Ltd, pemegang saham tak langsung dengan 0,04% saham di pengendali Perseroan.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIDL",
-   "karhutla",
-   "Singapura",
-   "pulp dan paper"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b65f59a000_de029f703a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mrat-laba-bersih-melonjak-15-kali-di-9-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "MRAT: Laba Bersih [Melonjak] 15 Kali di 9 Bulan 2026",
-  "deck": "Penjualan Mustika Ratu naik 68 persen dan laba bersih melonjak jadi Rp6,45 miliar pada sembilan bulan 2026, tapi arus kas operasi turun dan utang bank jangka pendek bertambah.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MRAT",
-   "Mustika Ratu",
-   "laporan keuangan",
-   "kosmetik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102165016-65460-0/FinancialStatement-2026-III-MRAT.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,288 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "depo-respons-bei-akui-diskusi-internal-tindakan-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "DEPO Respons BEI, Akui Diskusi Internal [Tindakan Korporasi]",
+  "deck": "Menanggapi permintaan BEI soal volatilitas transaksi, DEPO menyatakan tak ada info material baru, namun mengakui masih membahas internal alternatif tindakan korporasi tanpa keputusan final.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T10:02:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f17751f04b_ef7f6bbd0c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEPO",
+  "tags": [
+   "DEPO",
+   "keterbukaan informasi",
+   "tindakan korporasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Caturkarda Depo Bangunan Tbk (DEPO) menyampaikan tanggapan resmi atas permintaan penjelasan Bursa Efek Indonesia melalui surat nomor S-13826/BEI.PP1/11-2026 terkait volatilitas transaksi saham perseroan. Dalam surat bernomor 029/CORSEC/XI/2026 yang diteken Direktur Caroline Kettin pada 9 November 2026 pukul 10.02 WIB, perseroan menegaskan sampai tanggal surat tersebut tidak mengetahui adanya informasi atau fakta material yang bisa mempengaruhi nilai maupun harga efeknya, baik menurut POJK Nomor 31/2015 maupun Peraturan Bursa Nomor I-E.",
+   "Perseroan juga menyatakan tidak mengetahui adanya aktivitas perubahan kepemilikan saham atau penjaminan saham oleh pemegang saham tertentu yang belum dilaporkan sesuai POJK Nomor 4 Tahun 2024. Pemegang saham utama, setelah dikonfirmasi oleh corporate secretary, disebutkan tidak memiliki rencana mengubah kepemilikan sahamnya di DEPO.",
+   "Namun pada poin soal rencana tindakan korporasi dalam tiga bulan ke depan, DEPO tidak memberi jawaban tegas tidak ada seperti pada poin-poin lain. Perseroan menyebut masih melakukan pembahasan internal mengenai alternatif tindakan korporasi, tanpa menyebut bentuk atau skemanya, dan menegaskan belum ada keputusan final sampai tanggal surat ini diterbitkan."
+  ],
+  "fotoAdegan": "Wide aisles of a home improvement warehouse store with stacked tiles and paint cans, customers browsing in daylight",
+  "takeaway": "Laporan ini netral bagi DEPO karena tidak ada fakta material baru yang benar-benar diungkap, hanya konfirmasi bahwa ada pembahasan internal soal kemungkinan tindakan korporasi yang belum sampai pada keputusan apa pun. Pos yang perlu diperhatikan investor adalah jumlah saham beredar dan laba per saham, yaitu porsi keuntungan perusahaan yang jatuh ke setiap lembar saham, sebab jika pembahasan itu nanti mengarah ke penambahan saham baru, porsi keuntungan per lembar saham bisa tergerus. Sejauh ini belum ada angka, skema, atau jenis tindakan korporasi yang disebutkan, sehingga dampaknya belum bisa dinilai. Yang perlu dipantau berikutnya adalah apakah DEPO merilis keterbukaan informasi baru begitu pembahasan internal itu rampung dan menghasilkan keputusan final, karena pengakuan adanya diskusi ini mengindikasikan sesuatu bisa diumumkan dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-lagi-250-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] Lagi 250.000 Saham",
+  "deck": "Henry Liem, Dewan Komisaris AKPI, melaporkan penjualan 250.000 saham pada 6 November 2026 lewat skema repurchase agreement, menyusul penjualan 350.000 saham pekan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T09:55:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-4359-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Komisaris",
+   "Transaksi Saham",
+   "Henry Liem"
+  ],
+  "body": [
+   "Dewan Komisaris Argha Karya Prima Industry (AKPI), Henry Liem, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 250.000 lembar saham AKPI pada 6 November 2026 dengan harga Rp600 per saham. Transaksi itu tercatat berstatus tidak langsung dengan jenis repurchase agreement, dan tujuan transaksi yang dicantumkan dalam laporan adalah penjualan saham.",
+   "Dengan transaksi ini, kepemilikan Henry Liem di AKPI berkurang dari 2.871.659 lembar menjadi 2.621.659 lembar, atau turun 250.000 lembar yang setara sekitar 8,7 persen dari saham yang sebelumnya ia pegang. Hak suaranya di perusahaan ikut turun dari 0,469 persen menjadi 0,4282 persen. Dari harga dan jumlah yang tercatat, nilai transaksi ini sekitar Rp150 juta.",
+   "Laporan ini menyusul laporan serupa pada 6 November 2026 yang mencatat Henry Liem menjual 350.000 lembar saham AKPI. Jika digabung, komisaris tersebut telah melepas 600.000 lembar saham AKPI dalam pekan yang sama melalui dua laporan terpisah ke OJK, sesuai kewajiban pelaporan setiap perubahan kepemilikan berdasarkan POJK 4/2024."
+  ],
+  "fotoAdegan": "Stacks of clear plastic film rolls on pallets inside an industrial packaging warehouse, forklift nearby, fluorescent lighting",
+  "takeaway": "Laporan ini condong netral bagi AKPI, karena skema repurchase agreement biasanya dipakai sebagai cara mendanai kebutuhan pribadi dengan saham sebagai jaminan dan janji membeli balik, bukan pelepasan permanen yang mencerminkan hilangnya keyakinan pada perusahaan. Transaksi ini hanya memindahkan kepemilikan pribadi di pasar sekunder, jadi tidak mengubah jumlah saham beredar, arus kas, maupun ekuitas AKPI, meski pelaku pasar tetap memantau transaksi insider semacam ini karena pola jual oleh komisaris atau direksi kadang dibaca sebagai sinyal pandangan mereka sendiri terhadap prospek perusahaan. Hak suara Henry Liem di AKPI tetap kecil, dari 0,469 persen menjadi 0,4282 persen, sehingga tidak mengubah kendali atas perusahaan. Yang perlu dicermati adalah apakah pola pelepasan bertahap ini berlanjut, mengingat dalam pekan yang sama ia sudah dua kali melaporkan penjualan saham ke OJK, totalnya 600.000 lembar sejak laporan pertama pada 6 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "elit-direksi-beli-106-300-saham-kepemilikan-jadi-208-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "ELIT: Direksi [Beli] 106.300 Saham, Kepemilikan Jadi 208.000 Lembar",
+  "deck": "Direktur ELIT, Ery Setyo Wibowo, membeli 106.300 saham perusahaan pada 29 Oktober 2026 seharga Rp188 per lembar, menggandakan kepemilikannya menjadi 208.000 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T09:41:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-7380-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELIT",
+  "tags": [
+   "ELIT",
+   "kepemilikan saham",
+   "direksi",
+   "insider buying"
+  ],
+  "body": [
+   "Ery Setyo Wibowo, anggota Direksi PT Data Sinergitama Jaya Tbk (ELIT), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 106.300 lembar saham ELIT secara tidak langsung pada 29 Oktober 2026 dengan harga Rp188 per lembar. Transaksi ini membuat kepemilikannya bertambah dari 101.700 lembar menjadi 208.000 lembar, naik 104,52 persen dari jumlah sebelumnya. Dalam laporan ke KSEI, Ery menyatakan tujuan pembelian adalah investasi, dan saham yang dibeli termasuk klasifikasi saham dengan hak suara multiple, yaitu kelas saham khusus yang satu lembarnya membawa bobot suara lebih besar dari saham biasa dan umumnya dipegang jajaran pendiri atau manajemen agar tetap memegang kendali meski porsi kepemilikannya kecil.",
+   "Dengan harga Rp188 per lembar, nilai total pembelian ini sekitar Rp20 juta, tergolong kecil dibandingkan skala perusahaan. Meski jumlah sahamnya melonjak lebih dari dua kali lipat, persentase hak suara Ery di ELIT tercatat tidak berubah, tetap di angka 0,01 persen baik sebelum maupun sesudah transaksi. Pembelian ini dilakukan di pasar sekunder antar pemegang saham, sehingga tidak menambah jumlah saham beredar maupun mengalirkan dana segar ke kas perusahaan, karena uang pembelian jatuh ke pihak yang menjual saham, bukan ke ELIT."
+  ],
+  "fotoAdegan": "Rows of humming server racks with blinking status lights in a dim data center aisle, a technician walking between them, Jakarta.",
+  "takeaway": "Laporan ini netral bagi fundamental ELIT, karena meski kepemilikan pribadi Ery menggandakan dirinya sendiri, nilai transaksinya hanya sekitar Rp20 juta dan hak suaranya di perusahaan tetap 0,01 persen, sehingga tidak mengubah siapa yang mengendalikan ELIT maupun kinerja keuangannya. Transaksi semacam ini tidak menyentuh pos ekuitas, arus kas, atau laba per saham perusahaan, sebab sahamnya dibeli dari pemegang lama di pasar sekunder, bukan saham baru yang diterbitkan ELIT, jadi tidak menambah jumlah saham beredar maupun mengubah struktur modal perusahaan. Pelaku pasar biasanya tetap mencatat pembelian oleh direksi sebagai tanda keyakinan pribadi terhadap perusahaan, meski besarannya di sini terlalu kecil untuk dibaca sebagai sinyal kuat. Yang perlu dipantau berikutnya adalah apakah Ery atau direksi dan komisaris lain ELIT mengajukan laporan kepemilikan serupa dalam waktu dekat, karena pola pembelian berulang oleh jajaran insider biasanya lebih bermakna dibanding transaksi tunggal seperti ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ultj-komisaris-suhendra-mundur-efektif-usai-inbreng-rampung",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ: Komisaris Suhendra [Mundur], Efektif Usai Inbreng Rampung",
+  "deck": "Komisaris ULTJ Suhendra Prawirawidjaja mengundurkan diri, tapi baru efektif setelah proses inbreng dalam rights issue PMHMETD IV selesai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T09:32:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cc10d6a437_3ccc698700.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "Dewan Komisaris",
+   "Frisian Flag",
+   "rights issue"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) melaporkan pengunduran diri Suhendra Prawirawidjaja dari jabatan anggota Dewan Komisaris. Surat pengunduran diri diterima perseroan pada 6 November 2026, dengan alasan pribadi dan tanpa tekanan dari pihak mana pun, menurut suratnya. Pengunduran diri ini telah disetujui dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar pada hari yang sama, 6 November 2026.",
+   "Yang membedakan laporan ini dari pengunduran diri komisaris biasa adalah waktu berlakunya. Dalam suratnya, Suhendra menyebutkan bahwa pengunduran dirinya baru efektif sejak tanggal penyelesaian rencana penyetoran modal dalam bentuk lain selain uang, atau inbreng, dalam rangka Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD) IV. Dengan kata lain, jabatannya baru benar-benar berakhir setelah proses inbreng itu tuntas, bukan sejak surat ini diumumkan.",
+   "Perseroan menyatakan bahwa kejadian ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha ULTJ. Corporate Secretary Helina Widayani menandatangani laporan ini atas nama perseroan."
+  ],
+  "fotoAdegan": "Stainless steel milk processing tanks and pipes inside a dairy factory, workers in uniforms checking gauges, early morning light",
+  "takeaway": "Laporan ini netral, sebab yang terjadi hanya pergantian satu kursi komisaris dan perseroan sendiri menyatakan tidak ada dampak operasional atau keuangan langsung. Pos yang justru tersentuh adalah jumlah saham beredar, karena pengunduran diri Suhendra baru berlaku setelah proses inbreng, yakni penyetoran modal berupa aset bukan uang tunai, untuk rights issue PMHMETD IV itu rampung. Rights issue inilah yang dipakai ULTJ untuk mengambil alih penuh Frisian Flag Indonesia dari FrieslandCampina, sehingga jumlah saham ULTJ akan bertambah dan bisa menggerus laba per saham pemegang saham lama selagi prosesnya berjalan. Yang perlu dipantau berikutnya adalah tanggal resmi penyelesaian Rencana Inbreng tersebut, sebab itulah yang sekaligus memicu efektifnya pengunduran diri Suhendra dan menandai tahap akhir pengambilalihan Frisian Flag.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "direksi-mdla-beli-50-000-saham-senilai-rp9-3-juta",
+  "category": "Aksi Korporasi",
+  "title": "Direksi [MDLA] Beli 50.000 Saham Senilai Rp9,3 Juta",
+  "deck": "Edbert Orotodan, direksi Medela Potentia, membeli 50.000 saham MDLA seharga Rp186 per saham pada 3 November 2026, hak suaranya tetap 0,014 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T09:32:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-1467-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLA",
+  "tags": [
+   "MDLA",
+   "Medela Potentia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "PT Medela Potentia Tbk (MDLA) melaporkan kepada Otoritas Jasa Keuangan bahwa Edbert Orotodan, anggota direksi perusahaan, membeli 50.000 saham MDLA pada 3 November 2026. Transaksi dilakukan secara tidak langsung dengan harga Rp186 per saham untuk saham biasa, dengan tujuan investasi. Laporan disampaikan sesuai Peraturan OJK Nomor 4/2024 yang mewajibkan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan terbuka tempat mereka menjabat.",
+   "Dengan pembelian ini, jumlah saham MDLA yang dimiliki Edbert bertambah dari 1.942.400 lembar menjadi 1.992.400 lembar, naik 50.000 lembar atau sekitar 2,57 persen dari kepemilikannya sebelumnya. Nilai transaksi ini sekitar Rp9,3 juta berdasarkan harga per lembar yang tercatat. Meski jumlahnya bertambah, porsi hak suara Edbert di MDLA tidak berubah, tetap di 0,014 persen, karena tambahan saham tersebut sangat kecil dibandingkan total saham MDLA yang beredar."
+  ],
+  "fotoAdegan": "Jakarta financial district skyscrapers reflecting afternoon sunlight, busy street with pedestrians and taxis below",
+  "takeaway": "Laporan ini netral bagi fundamental MDLA, karena pembelian saham oleh direksi ini terlalu kecil untuk dibaca sebagai sinyal keyakinan maupun kekhawatiran terhadap perusahaan. Yang tersentuh di sini hanya struktur kepemilikan dan hak suara individual seorang direksi, bukan ekuitas atau kinerja perusahaan secara keseluruhan; pelaku pasar biasanya memperhatikan transaksi insider karena bisa mengisyaratkan pandangan orang dalam terhadap prospek perusahaan, tetapi nilai sekitar Rp9,3 juta ini jauh di bawah ambang yang biasanya dianggap berarti, dan hak suaranya pun tidak bergeser dari 0,014 persen. Yang perlu dipantau selanjutnya adalah apakah pembelian kecil ini diikuti transaksi serupa dalam laporan kepemilikan berikutnya, karena satu transaksi tunggal belum cukup menunjukkan pola akumulasi saham oleh direksi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tapg-direksi-beli-200-000-saham-senilai-rp375-juta",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi [Beli] 200.000 Saham Senilai Rp375 Juta",
+  "deck": "George Oetomo, direksi Triputra Agro Persada, menambah kepemilikan sahamnya di TAPG lewat pembelian tidak langsung pada 3 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T09:00:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-3792-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "kepemilikan saham",
+   "direksi",
+   "insider trading"
+  ],
+  "body": [
+   "George Oetomo, anggota direksi PT Triputra Agro Persada Tbk (TAPG), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 200.000 saham TAPG secara tidak langsung pada 3 November 2026. Transaksi dilakukan pada harga Rp1.875 per saham, atau senilai sekitar Rp375 juta, dengan tujuan transaksi yang tertulis sebagai investasi.",
+   "Setelah transaksi tersebut, jumlah saham TAPG yang dimiliki George Oetomo naik dari 52.256.100 lembar menjadi 52.456.100 lembar, bertambah 200.000 lembar. Persentase hak suaranya di perusahaan ikut bergeser, dari 0,2632 persen menjadi 0,2642 persen. Laporan ini disampaikan sebagai pemenuhan kewajiban keterbukaan informasi sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Rows of oil palm trees on a plantation with workers loading harvested fruit bunches onto a truck, overcast tropical sky",
+  "takeaway": "Transaksi ini netral bagi emiten, karena pembelian 200.000 saham hanya menambah sekitar 0,38 persen dari kepemilikan George Oetomo sendiri, dan hak suaranya di perusahaan nyaris tidak bergeser dari 0,2632 persen menjadi 0,2642 persen. Pos yang tersentuh adalah porsi saham yang dipegang jajaran direksi, yang biasa diperhatikan pasar sebagai sinyal keyakinan orang dalam terhadap perusahaannya sendiri, tetapi ukurannya di sini terlalu kecil untuk dibaca sebagai pernyataan sikap. Transaksi ini juga tidak mengubah jumlah total saham beredar perusahaan, karena yang terjadi adalah pembelian di pasar oleh pribadi, bukan penerbitan saham baru oleh perusahaan. Yang perlu dipantau berikutnya adalah apakah George Oetomo melanjutkan pembelian serupa pada laporan-laporan transaksi mendatang, karena satu transaksi kecil seperti ini belum cukup menunjukkan tren akumulasi yang berarti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bram-kantongi-tambahan-klaim-asuransi-us-23-6-juta-banjir",
+  "category": "Aksi Korporasi",
+  "title": "BRAM Kantongi Tambahan [Klaim Asuransi] US$23,6 Juta Banjir",
+  "deck": "Indo Kordsa memperoleh persetujuan tambahan pendapatan asuransi US$23,6 juta atas klaim banjir Bogor 2025, total klaim kini US$48,6 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T08:57:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a8d859dcae_7a532d4d2d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRAM",
+  "tags": [
+   "BRAM",
+   "Indo Kordsa",
+   "klaim asuransi",
+   "banjir Bogor"
+  ],
+  "body": [
+   "Indo Kordsa Tbk (BRAM) menyampaikan keterbukaan informasi terkait klaim asuransi atas kerugian akibat banjir yang melanda fasilitas operasionalnya di Citeureup, Bogor. Banjir tersebut terjadi pada 3 Maret 2025 dan sebelumnya sudah diumumkan perusahaan pada 4 Maret 2025. Atas kerugian itu, perusahaan mengajukan klaim asuransi untuk aset-aset yang terdampak.",
+   "Dari klaim tersebut, perusahaan mencatat pendapatan asuransi sebesar US$25 juta yang diterima bertahap sepanjang periode 2025 dan 2026. Pada 6 November 2026, perseroan memperoleh persetujuan tambahan pendapatan asuransi sebesar US$23,6 juta, sehingga total pendapatan asuransi terkait kejadian banjir tersebut naik menjadi US$48,6 juta.",
+   "Manajemen menyatakan persetujuan tambahan ini langsung meningkatkan total pendapatan asuransi perusahaan dari kejadian banjir tersebut. Laporan ditandatangani oleh Reyvia Fitri selaku Corporate Secretary Indo Kordsa dan disampaikan kepada OJK serta BEI pada 9 November 2026."
+  ],
+  "fotoAdegan": "Floodwater receding around a rural industrial plant compound, mud and debris along a perimeter fence, overcast sky",
+  "takeaway": "Laporan ini positif bagi Indo Kordsa karena menambah pendapatan tanpa membutuhkan dana atau kewajiban baru dari perusahaan, murni kompensasi atas kerugian banjir yang sudah terjadi sejak Maret 2025. Pos yang tersentuh adalah laba bersih periode berjalan, sebab pendapatan klaim asuransi biasanya dibukukan sebagai pendapatan lain-lain yang langsung menambah laba, berbeda dari pendapatan usaha yang berasal dari penjualan produk sehari-hari. Besarnya tambahan US$23,6 juta tetap perlu dilihat relatif terhadap skala bisnis Indo Kordsa sebagai produsen bahan penguat ban, karena dokumen ini tidak merinci berapa porsi yang sudah masuk kas dan berapa yang masih dalam proses pencairan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV 2026 perusahaan, untuk melihat bagaimana tambahan pendapatan asuransi ini tercermin pada laba periode tersebut, sebab dokumen ini tidak mencantumkan tanggal pasti pencairan sisa dananya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "avia-bagikan-dividen-interim-rp700-miliar-laba-naik-16-5",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Bagikan [Dividen Interim] Rp700 Miliar, Laba Naik 16,5%",
+  "deck": "Laba bersih sembilan bulan AVIA tumbuh 16,5% jadi Rp1,38 triliun, Avian Brands bagikan dividen interim Rp12 per saham senilai total Rp700 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T08:53:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/208ef9cff7_732a7a802c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "dividen interim",
+   "laba bersih",
+   "cat"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) mengumumkan rencana pembagian dividen interim tahun buku 2026 sebesar Rp12 per saham, dengan total nilai sekitar Rp700 miliar. Direksi menyebut besaran dividen ini sudah memperhitungkan kebutuhan modal kerja, belanja modal untuk pemeliharaan dan ekspansi, serta rencana pengembangan usaha ke depan.",
+   "Hingga akhir September 2026, perusahaan produsen cat Avian Brands ini membukukan penjualan konsolidasi Rp6,9 triliun, tumbuh 16,7% dari Rp5,9 triliun pada periode yang sama tahun sebelumnya. Kedua segmen usaha tumbuh dua digit, dengan segmen solusi arsitektur naik 16,4% dan segmen barang dagangan naik 17,7%. Laba bersih meningkat 16,5% menjadi Rp1,38 triliun, dengan marjin laba bersih terjaga di 20,0%.",
+   "Jadwal pembagian dividen interim ditetapkan sebagai berikut: cum dividen di pasar reguler dan negosiasi pada 10 November 2026, ex dividen pada 11 November 2026, cum dividen pasar tunai pada 12 November 2026, ex dividen pasar tunai pada 13 November 2026, tanggal pencatatan pemegang saham (record date) pada 12 November 2026, dan pembayaran dividen pada 19 November 2026. Perusahaan juga mencatat rasio imbal hasil aset (ROA) 15,7% dan imbal hasil ekuitas (ROE) 18,3% pada 2025, dengan rata-rata rasio pembayaran dividen sekitar 80% dari laba bersih tahunan selama lima tahun terakhir. Ke depan, Avian Brands berencana memperluas jaringan pusat distribusi milik sendiri dan menambah mesin pencampur warna (tinting) di toko ritel."
+  ],
+  "fotoAdegan": "Workers moving stacked paint cans along a conveyor line inside a decorative paint factory, bright industrial lighting",
+  "takeaway": "Laporan ini positif bagi AVIA karena laba bersih naik 16,5 persen dengan margin yang tetap tebal di 20 persen, sementara penjualan tumbuh dua digit di kedua segmen usahanya. Dividen interim Rp700 miliar ini akan mengurangi kas dan ekuitas perusahaan begitu dibayarkan, tapi besarnya sejalan dengan kebiasaan AVIA membagikan sekitar 80 persen laba bersihnya setiap tahun, jadi bukan tanda perusahaan memaksakan diri demi menjaga citra. Pemegang saham yang ingin mendapat dividen ini harus sudah memegang saham AVIA sebelum tanggal ex dividen 11 November 2026 di pasar reguler, karena pembeli sesudah tanggal itu tidak lagi berhak. Yang perlu dipantau selanjutnya adalah tanggal pembayaran pada 19 November 2026, saat dana benar-benar keluar dari kas perusahaan ke rekening pemegang saham yang tercatat pada record date 12 November 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "akra-rampungkan-akuisisi-penuh-apr-senilai-us-14-22-juta",
+  "category": "Aksi Korporasi",
+  "title": "AKRA Rampungkan [Akuisisi] Penuh APR Senilai US$14,22 Juta",
+  "deck": "AKR Corporindo lewat dua anak usahanya membeli 49,9% saham PT Aneka Petroindo Raya dari BP Global Investments senilai US$14,22 juta, menaikkan kepemilikannya di APR menjadi 100%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T08:53:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3dd514b6db_08b22f07c5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKRA",
+  "tags": [
+   "AKRA",
+   "AKR Corporindo",
+   "akuisisi",
+   "Aneka Petroindo Raya"
+  ],
+  "body": [
+   "PT AKR Corporindo Tbk (AKRA) melaporkan ke Bursa Efek Indonesia bahwa dua anak usahanya, PT Anugerah Krida Retailindo (AKRIDA) dan PT Andahanesa Abadi (ADH), pada 6 November 2026 bersama-sama membeli 11.444.565 saham PT Aneka Petroindo Raya (APR) milik BP Global Investments Limited, perusahaan asal Inggris. Saham yang dibeli itu setara 49,9 persen dari seluruh modal ditempatkan dan disetor APR, dengan harga pembelian US$14.221.500 atau sekitar US$14,22 juta. Transaksi dilaksanakan berdasarkan Perjanjian Jual Beli Saham yang ditandatangani para pihak.",
+   "Sebelum transaksi, AKRIDA sudah memegang 50,1 persen saham APR, sementara BP memegang sisanya sebesar 49,9 persen. Setelah penyelesaian transaksi, seluruh 22.935.000 saham APR beralih ke tangan Grup AKR, dengan AKRIDA memegang 22.934.999 saham atau 99,999996 persen dan ADH memegang 1 saham sisanya atau 0,000004 persen. Dengan susunan ini, kepemilikan Grup AKR Corporindo di APR naik dari 50,1 persen menjadi 100 persen, menjadikan APR anak usaha yang dimiliki sepenuhnya.",
+   "Perseroan menyebut tujuan transaksi ini adalah merealisasikan rencana divestasi BP atas 49,9 persen sahamnya di APR, sebagai bagian dari strategi BP menyederhanakan portofolio usahanya secara global. AKR Corporindo menegaskan transaksi ini tidak menimbulkan dampak negatif material terhadap operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usahanya, dan tidak tergolong sebagai Transaksi Material maupun Transaksi Afiliasi menurut aturan OJK, sehingga tidak memerlukan persetujuan RUPS."
+  ],
+  "fotoAdegan": "Fuel storage tanks and pipelines at an industrial port terminal, workers in safety vests checking valves, overcast sky",
+  "takeaway": "Laporan ini netral bagi AKR Corporindo, karena menambah kepemilikan di bisnis yang sebelumnya sudah mereka kendalikan secara mayoritas, dengan nilai transaksi US$14,22 juta yang relatif kecil dibanding skala usaha grup, dan perseroan sendiri menegaskan tidak ada dampak material terhadap keuangannya. Yang berubah adalah arus kas, karena AKRIDA dan ADH mengeluarkan dana tunai sebesar itu untuk membeli saham BP, serta pos kepentingan non pengendali, yaitu bagian laba APR yang sebelumnya harus dibagi ke BP sebagai pemilik minoritas 49,9 persen, yang kini hilang karena seluruh laba APR akan tercatat penuh milik Grup AKR setelah kepemilikannya menjadi 100 persen. Yang perlu dicermati selanjutnya adalah laporan keuangan konsolidasian AKR pada periode berikutnya, untuk melihat apakah hilangnya kepentingan non pengendali di APR ini benar-benar menambah laba bersih yang menjadi hak pemegang saham AKR, mengingat transaksi berdasarkan Perjanjian Jual Beli Saham yang sudah ditandatangani pada 6 November 2026 ini tidak memerlukan persetujuan RUPS lagi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "east-bagikan-dividen-interim-iii-rp1-6-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "EAST Bagikan [Dividen] Interim III Rp1,6 per Saham",
+  "deck": "Eastparc Hotel menjadwalkan dividen tunai interim ketiga tahun buku 2026 sebesar Rp1,6 per saham, dibayar 30 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T08:29:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bec463178c_0b6d8dc767.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EAST",
+  "tags": [
+   "EAST",
+   "dividen interim",
+   "Eastparc Hotel",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Eastparc Hotel Tbk (EAST) mengumumkan dividen tunai interim ketiga untuk tahun buku 2026 sebesar Rp1,6 per saham, dengan total nilai Rp6.602.248.537,6. Keputusan ini diambil dalam rapat Direksi bersama Dewan Komisaris pada 6 November 2026 melalui Surat Keputusan Direksi Nomor 0008/PT.EPH-Tbk/DIR-SK/XI/2026, dan dokumen pelaporannya ke OJK ditandatangani oleh Direktur Muhammad Anis.",
+   "Jadwal pembagian menetapkan tanggal cum dividen di pasar reguler dan negosiasi pada 17 November 2026, dengan ex dividen sehari setelahnya pada 18 November 2026. Di pasar tunai, cum dividen jatuh pada 19 November 2026 dan ex dividen pada 20 November 2026. Pemegang saham yang namanya tercatat dalam daftar pemegang saham pada 19 November 2026 pukul 16.00 WIB berhak menerima dividen ini, yang akan dibayarkan paling lambat 30 November 2026, disalurkan lewat KSEI ke rekening dana nasabah bagi saham dalam penitipan kolektif, atau ditransfer langsung bagi pemegang saham warkat.",
+   "Dasar pembagian dividen ini adalah laporan keuangan per 30 September 2026, yang mencatat laba bersih teratribusi ke entitas induk sebesar Rp22,79 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya sebesar Rp6,69 miliar, dan total ekuitas Rp456,32 miliar. Perseroan juga mengingatkan bahwa dividen ini kena pajak sesuai aturan yang berlaku: pemegang saham wajib pajak dalam negeri berbentuk badan hukum yang belum menyerahkan NPWP wajib menyampaikannya ke KSEI paling lambat 19 November 2026 pukul 16.00 WIB, sementara pemegang saham asing tanpa dokumen P3B/DGT akan dikenakan PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Hotel housekeeping staff pushing a cart past guest room doors in a modern hotel corridor, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham karena Eastparc kembali membagikan dividen tunai, kali ini yang ketiga sepanjang tahun buku 2026, dan jumlahnya didanai dari laba bersih sembilan bulan sebesar Rp22,79 miliar sehingga tidak membebani kas secara signifikan. Yang tersentuh adalah saldo laba ditahan yang tidak dibatasi penggunaannya, yaitu bagian keuntungan masa lalu yang memang disisihkan perseroan untuk dibagikan sebagai dividen: dari Rp6,69 miliar yang tersedia, hampir semuanya langsung terpakai untuk dividen kali ini, sehingga penyangga untuk pembagian berikutnya menjadi sangat tipis sampai laba baru masuk. Dibandingkan dengan total ekuitas perseroan yang mencapai Rp456,32 miliar, nilai dividen ini sendiri hanya sekitar 1,4 persen sehingga dampaknya terhadap permodalan perseroan kecil. Yang perlu dipantau selanjutnya adalah realisasi pembayaran pada 30 November 2026 dan bagaimana dividen interim ini nanti diperhitungkan dalam keputusan penggunaan laba tahun buku 2026 yang akan dibahas di Rapat Umum Pemegang Saham Tahunan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bcap-direktur-mundur-henry-suparman-gantikan-aan-setiawandi",
+  "category": "Aksi Korporasi",
+  "title": "BCAP: Direktur Mundur, [Henry Suparman] Gantikan Aan Setiawandi",
+  "deck": "Direktur BCAP Aan Setiawandi mengajukan pengunduran diri efektif 6 November 2026, posisinya akan diisi Henry Suparman, eksekutif lama MNC Group.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T07:06:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d3bd1e3577_2d4ffca573.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BCAP",
+  "tags": [
+   "BCAP",
+   "MNC Kapital Indonesia",
+   "Direksi",
+   "Pergantian Direktur"
+  ],
+  "body": [
+   "PT MNC Kapital Indonesia Tbk (BCAP) melaporkan ke Bursa Efek Indonesia bahwa perusahaan telah menerima permohonan pengunduran diri Aan Setiawandi dari jabatannya sebagai Direktur Perseroan. Tanggal kejadian tercatat 6 November 2026, dan laporan keterbukaan informasinya disampaikan pada 9 November 2026 pukul 07.06 WIB oleh Corporate Secretary BCAP, Steffi Elizabeth.",
+   "Posisi yang ditinggalkan Aan Setiawandi akan diisi oleh Henry Suparman, yang menurut keterangan perusahaan sudah berpengalaman menjabat berbagai posisi eksekutif di lingkungan MNC Group. Dalam dokumen yang sama, perusahaan menyatakan pergantian direktur ini tidak membawa dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha BCAP."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs and a long table in a Jakarta office tower, soft morning light through glass windows",
+  "takeaway": "Laporan ini saya nilai netral, karena yang terjadi adalah pergantian satu kursi direksi dengan pengganti dari internal MNC Group, sementara perusahaan sendiri menegaskan tidak ada dampak ke operasional atau keuangan. Pergantian direktur seperti ini menyentuh sisi tata kelola perusahaan, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, sehingga wajar kalau dampaknya ke angka-angka bisnis tidak langsung terasa, kecuali nantinya direktur baru membawa perubahan strategi. Yang perlu dipantau selanjutnya adalah kapan pengangkatan Henry Suparman sebagai direktur definitif disahkan, karena dokumen ini baru memuat pengunduran diri dan penggantinya, tanpa menyebut tanggal RUPS atau proses persetujuan resmi atas jabatan barunya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "raja-akuisisi-90-saham-knj-rambah-bisnis-kapal-gas",
   "category": "Aksi Korporasi",
   "title": "RAJA Akuisisi 90% Saham KNJ, Rambah Bisnis [Kapal Gas]",

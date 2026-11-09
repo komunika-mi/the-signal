@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kino-bagikan-dividen-interim-rp52-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "KINO Bagikan [Dividen] Interim Rp52 per Saham",
+  "deck": "Kino Indonesia menetapkan dividen interim Rp52 per saham senilai total Rp71,7 miliar, dengan recording date 19 November dan pembayaran 9 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T11:52:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c67ae4c0f4_6d50963de9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KINO",
+  "tags": [
+   "KINO",
+   "dividen interim",
+   "pemegang saham",
+   "IDX"
+  ],
+  "body": [
+   "PT Kino Indonesia Tbk (KINO) akan membagikan dividen tunai interim untuk tahun buku 2026 sebesar Rp52 per saham, dengan total nilai Rp71.698.582.800 atau sekitar Rp71,7 miliar. Keputusan ini diambil melalui keputusan sirkuler Direksi yang disetujui Dewan Komisaris pada 5 November 2026, dan diumumkan oleh Sekretaris Perusahaan Anggara Andrian Linanda.",
+   "Jadwalnya, perdagangan saham dengan hak dividen (cum dividend) di pasar reguler dan negosiasi berakhir 17 November 2026, sedangkan di pasar tunai berakhir 19 November 2026. Setelah itu saham berstatus tanpa hak dividen (ex dividend) mulai 18 November 2026 untuk pasar reguler dan negosiasi, serta 20 November 2026 untuk pasar tunai. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada 19 November 2026 pukul 16.00 WIB berhak menerima dividen, yang baru akan dibayarkan pada 9 Desember 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 September 2026, di mana Kino mencatat laba bersih yang diatribusikan ke pemegang saham induk sebesar Rp222,17 miliar, saldo laba ditahan yang bebas digunakan Rp634,69 miliar, dan total ekuitas Rp1,91 triliun. Soal pajak, dividen yang diterima pemegang saham badan dalam negeri tidak dipotong pajak, sedangkan pemegang saham perorangan dalam negeri bebas pajak hanya jika dividen diinvestasikan kembali di Indonesia dalam bentuk dan jangka waktu tertentu, atau terkena PPh final 10 persen jika tidak. Pemegang saham asing dikenakan tarif sesuai perjanjian penghindaran pajak berganda, atau 20 persen jika dokumen pendukungnya tidak diserahkan tepat waktu."
+  ],
+  "fotoAdegan": "Production line workers filling and capping small plastic bottles of personal care liquid at an Indonesian factory, bright industrial lighting",
+  "takeaway": "Pembagian dividen interim ini tergolong POSITIF bagi pemegang saham Kino Indonesia, karena nilainya hanya sekitar sepertiga dari laba bersih sembilan bulan 2026 dan tidak membebani keuangan perusahaan secara berlebihan. Pos yang tersentuh adalah ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, dan laba ditahan, yaitu keuntungan yang selama ini disimpan perusahaan: dari laba ditahan bebas Rp634,69 miliar, dividen Rp71,7 miliar ini hanya memangkas sekitar 11 persen, porsi yang masih wajar dan tidak mengganggu modal kerja atau rencana ekspansi perusahaan. Pelaku pasar biasanya memperhatikan perbandingan dividen dengan laba seperti ini untuk menilai apakah perusahaan membagi untung secara sehat atau justru mengorbankan kas yang semestinya dipakai untuk operasional. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 19 November 2026 pukul 16.00 WIB, karena hanya pemegang saham yang tercatat saat itu yang berhak menerima dividen, serta tanggal pembayaran pada 9 Desember 2026 sebagai konfirmasi bahwa rencana ini benar-benar terealisasi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bike-jawab-bursa-ekuitas-negatif-rp87-6-m-usai-revisi-lk",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jawab Bursa, Ekuitas [Negatif] Rp87,6 M usai Revisi LK",
+  "deck": "Revisi laporan keuangan interim BIKE membalik ekuitas perusahaan jadi negatif Rp87,6 miliar setelah mengakui utang pinjaman pemegang saham Rp125 miliar dari PMJ.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T11:50:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a84564e22_fe84a9dbc9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "ekuitas negatif",
+   "transaksi afiliasi",
+   "suspensi saham"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) menjawab Permintaan Penjelasan Lanjutan II dari Bursa Efek Indonesia bernomor S-13916/BEI.PP3/11-2026 tanggal 6 November 2026, terkait inkonsistensi penyajian laporan keuangan interim per 30 September 2026. Perseroan mengakui bahwa penerimaan pinjaman pemegang saham dari PT Penajam Makmur Jaya (PMJ), pemegang saham pengendali utama, sebesar Rp125 miliar belum tersaji penuh dalam laporan keuangan yang diotorisasi 30 Oktober 2026. Dana itu efektif masuk ke rekening perseroan pada 10 September 2026 dari plafon pinjaman hingga Rp1 triliun, berdasarkan akta perjanjian pinjaman notariil tanpa jaminan dengan bunga komersial. Setelah revisi, kas dan bank naik dari Rp14,6 juta menjadi Rp28,45 miliar, utang kepada PMJ sebesar Rp125 miliar baru tercatat sebagai liabilitas jangka pendek, dan saldo defisit bertambah dari Rp75,35 miliar menjadi Rp171,91 miliar karena Rp96,562 miliar dari pinjaman itu sudah dipakai untuk biaya operasional dan administrasi. Akibatnya, total ekuitas perseroan berbalik dari positif Rp8,98 miliar menjadi negatif Rp87,59 miliar, sementara total liabilitas melonjak dari Rp1,01 miliar menjadi Rp126,01 miliar.",
+   "Dalam surat yang sama, BIKE juga menjelaskan akuisisi PT Mega Teknologi Investama (MTI) dari Vitria dan PT Fahreza Bumi Megah (FBM) dari Nadila Syafira, masing-masing dengan nilai Rp0. Perseroan menyatakan seluruh aset dan utang MTI beserta anak usahanya PT Ratu Karya, serta FBM beserta anak usahanya PT Prambanan Nusantara Energi, menjadi tanggungan BIKE, namun belum dikonsolidasikan dalam laporan keuangan karena proses pengalihan saham dan pembayaran belum selesai. Bursa mempertanyakan status transaksi afiliasi dalam akuisisi FBM, sebab Nadila Syafira merupakan direktur perseroan sekaligus pihak yang menjual sahamnya sendiri ke BIKE, yang menyentuh aturan POJK Nomor 42/POJK.04/2020 tentang transaksi afiliasi dan benturan kepentingan. BIKE menjawab bahwa transaksi itu tidak dimaksudkan sebagai transaksi terafiliasi, dan Nadila Syafira akan dikeluarkan dari susunan direksi dan komisaris pada rapat umum pemegang saham mendatang.",
+   "Perseroan menyatakan akan segera menyampaikan laporan keuangan interim per 30 September 2026 hasil revisi kepada OJK dan BEI, serta berkomitmen terus berkoordinasi dengan PIC OJK terkait kepatuhan POJK 42/2020. Dalam surat ini, BIKE juga memohon Bursa membuka kembali suspensi perdagangan sahamnya dan menyatakan siap memenuhi undangan audiensi bila Bursa memerlukan penjelasan tambahan."
+  ],
+  "fotoAdegan": "Rows of glass office towers in Jakarta's business district seen from a quiet street at dusk, taxis passing below.",
+  "takeaway": "Laporan ini condong negatif bagi BIKE, sebab revisi laporan keuangan membalik ekuitas perusahaan dari positif Rp8,98 miliar menjadi negatif Rp87,59 miliar, tanda bahwa secara pembukuan utang BIKE sudah melebihi total asetnya. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang menjadi hak pemegang saham; kalau angka ini negatif, hasil penjualan seluruh aset perusahaan tidak akan cukup melunasi utangnya, apalagi menyisakan bagian untuk pemegang saham. Penambahan utang Rp125 miliar dari pengendali PMJ dan beban operasional Rp96,562 miliar yang dibebankan dari dana itu adalah penyebab utama pembengkakan defisit ini. Yang perlu dipantau adalah RUPSI dan RUPSLB yang dijadwalkan 11 Desember 2026, karena di sana status Nadila Syafira di jajaran direksi terkait transaksi FBM yang terafiliasi dengannya kemungkinan diputuskan, serta apakah Bursa akan mengabulkan permintaan BIKE untuk mencabut suspensi sahamnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tyro-catatkan-sukuk-ijarah-rp510-2-miliar-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "TYRO Catatkan [Sukuk] Ijarah Rp510,2 Miliar di BEI",
+  "deck": "PT Tamaris Hidro (TYRO) mencatatkan sukuk ijarah senilai Rp510,215 miliar dalam dua seri di Bursa Efek Indonesia mulai 9 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T11:46:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bdfbc9b79c_1ddf360451.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TYRO",
+  "tags": [
+   "TYRO",
+   "sukuk",
+   "obligasi korporasi",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatatkan Sukuk Ijarah Berkelanjutan I Tamaris Hydro Tahap II Tahun 2026 milik emiten berkode TYRO mulai 9 November 2026. Total nilai penerbitan mencapai Rp510,215 miliar, terbagi dalam dua seri, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat dan peringkat idAA(sy)(sf) dari Pefindo.",
+   "Seri A bernilai Rp241,57 miliar dengan imbal hasil 8,50 persen per tahun, berjangka waktu lima tahun sejak tanggal terbit 6 November 2026 hingga jatuh tempo 6 November 2031. Seri B bernilai Rp268,645 miliar dengan imbal hasil 9,00 persen per tahun, berjangka waktu tujuh tahun hingga jatuh tempo 6 November 2033. Cicilan imbalan dibayarkan setiap triwulan, dengan pembayaran pertama pada 6 Februari 2027, masing-masing sebesar Rp20,533 miliar per tahun untuk Seri A dan Rp24,178 miliar per tahun untuk Seri B.",
+   "Sukuk ini tidak memiliki jaminan khusus, melainkan dijamin dengan seluruh harta kekayaan perusahaan, baik barang bergerak maupun tidak bergerak. Perusahaan juga berhak membeli kembali (buyback) sukuk ini, namun baru bisa dilakukan satu tahun setelah tanggal penjatahan. Penjaminan emisi dipegang oleh PT BCA Sekuritas dengan porsi Rp264,4 miliar atau 51,82 persen, PT CIMB Niaga Sekuritas Rp135 miliar atau 26,46 persen, PT BNI Sekuritas Rp80,27 miliar atau 15,73 persen, dan PT Binaartha Sekuritas Rp30,545 miliar atau 5,99 persen."
+  ],
+  "fotoAdegan": "Wide view of a hydroelectric dam spillway releasing water through turbine channels in a lush Indonesian valley, misty morning light",
+  "takeaway": "Laporan ini netral bagi TYRO: perusahaan memang mengantongi dana segar Rp510,215 miliar dari penerbitan sukuk, tapi di sisi lain terikat kewajiban membayar imbalan tetap sekitar Rp44,7 miliar per tahun hingga bertahun-tahun ke depan. Dua pos yang tersentuh adalah arus kas, yaitu uang tunai yang masuk dan keluar dari kas perusahaan, karena ada dana besar masuk sekaligus beban cicilan rutin keluar setiap tiga bulan, serta beban imbalan ijarah yang berfungsi seperti bunga pinjaman dan akan mengurangi laba bersih perusahaan setiap tahun. Investor dan pemegang saham perlu memantau apakah dana hasil sukuk ini benar dipakai untuk memperbesar bisnis sehingga bisa menutup beban cicilannya sendiri. Yang perlu dicermati selanjutnya adalah pembayaran cicilan imbalan pertama pada 6 Februari 2027, lalu jatuh tempo pelunasan Seri A pada 6 November 2031 dan Seri B pada 6 November 2033.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bvic-lunasi-obligasi-subordinasi-rp150-miliar-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BVIC Lunasi [Obligasi] Subordinasi Rp150 Miliar Jatuh Tempo",
+  "deck": "Obligasi Subordinasi Berkelanjutan II Bank Victoria Tahap II Tahun 2019 senilai Rp150 miliar jatuh tempo 8 November 2026 dan delisting dari BEI mulai 9 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T11:41:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c22d2e603e_32b6aebf43.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BVIC",
+  "tags": [
+   "BVIC",
+   "obligasi subordinasi",
+   "perbankan",
+   "jatuh tempo obligasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Subordinasi Berkelanjutan II Bank Victoria Tahap II Tahun 2019 milik PT Bank Victoria International Tbk (BVIC), dengan kode seri BVIC02SBCN2 dan nilai pokok Rp150 miliar, resmi jatuh tempo pada 8 November 2026. Sejak 9 November 2026, efek ini tidak lagi tercatat dan tidak dapat diperdagangkan di bursa.",
+   "Dalam surat tertanggal 16 Oktober 2026 kepada BEI, Direktur Utama Bank Victoria, Achmad Friscantono, menyatakan perseroan telah menyiapkan dana untuk melunasi pokok obligasi sebesar Rp150 miliar beserta kupon bunga terakhir sebesar Rp4,22 miliar, tepatnya Rp4.218.750.000. Dana pelunasan itu saat ini ditempatkan pada instrumen Surat Berharga Negara yang dimiliki bank, sehingga bisa dicairkan untuk membayar pemegang obligasi begitu jatuh tempo tiba.",
+   "Obligasi ini merupakan bagian dari Penawaran Umum Berkelanjutan II Bank Victoria dengan target total dana himpunan Rp800 miliar. Perseroan sebelumnya sudah menerbitkan Tahap I senilai Rp250 miliar pada 2019, disusul Tahap II senilai Rp150 miliar yang kini jatuh tempo ini. Obligasi berbunga tetap 11,25 persen per tahun ini dibayar setiap tiga bulan sejak 8 Februari 2020, dengan wali amanat PT Bank Mega Tbk, peringkat idBBB dari Pefindo saat penerbitan, dan penjamin emisi oleh pihak terafiliasi, PT Victoria Sekuritas Indonesia."
+  ],
+  "fotoAdegan": "A modern glass-fronted bank office tower in Jakarta's financial district, photographed from street level on a bright morning with pedestrians passing by",
+  "takeaway": "Laporan ini netral bagi Bank Victoria: pelunasan obligasi Rp150 miliar ini sudah terjadwal sejak penerbitan tujuh tahun lalu, dan yang menenangkan, bank sudah menyiapkan dananya sehingga tidak ada risiko gagal bayar. Obligasi subordinasi seperti ini biasanya ikut dihitung sebagai modal pelengkap bank, semacam cadangan tambahan di luar modal inti yang dipakai regulator untuk menilai ketahanan bank menyerap kerugian, jadi begitu dilunasi, bantalan modal itu otomatis berkurang sebesar nilai obligasinya meski kasnya sudah disiapkan jauh hari sebelumnya. Yang perlu dipantau selanjutnya adalah konfirmasi bahwa dana Rp150 miliar pokok dan Rp4,22 miliar kupon itu benar-benar sudah diterima pemegang obligasi sesuai jatuh tempo 8 November 2026, serta apakah Bank Victoria akan melanjutkan penerbitan Tahap III dari program Rp800 miliar yang masih menyisakan kapasitas sekitar Rp400 miliar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vtny-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",
+  "deck": "VTNY mengoreksi panggilan RUPSLB 23 November 2026 yang mengagendakan persetujuan perubahan susunan Direksi dan Dewan Komisaris Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T11:39:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a4500b13c_e7721d1c2a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) mengoreksi surat panggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya diterbitkan pada 30 Oktober 2026. Melalui surat bernomor 060/VFI/CRSC/XI/2026 tertanggal 9 November 2026, Corporate Secretary VTNY Grand Yustitia Wirawan menegaskan bahwa RUPSLB tetap akan digelar pada Senin, 23 November 2026 pukul 10.00 WIB di Venteny Building, Jalan Sultan Agung Nomor 20, Guntur, Setiabudi, Jakarta Selatan. Agenda rapat ada dua, yaitu persetujuan atas pengangkatan kembali atau perubahan susunan Direksi, dan persetujuan atas pengangkatan kembali atau perubahan susunan Dewan Komisaris Perseroan.",
+   "Pemegang saham yang berhak hadir atau memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per 29 Oktober 2026 pukul 16.00 WIB. Perseroan menggelar rapat secara hibrida, pemegang saham bisa datang langsung atau mengikuti dan memberi kuasa secara elektronik melalui aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia (KSEI). Batas waktu deklarasi kehadiran dan pemungutan suara elektronik ditetapkan 20 November 2026 pukul 12.00 WIB, sementara surat kuasa tertulis bagi yang memilih memberi kuasa manual harus disampaikan ke Biro Administrasi Efek, PT Adimitra Jasa Korpora, paling lambat pada tanggal yang sama pukul 15.00 WIB.",
+   "Dokumen keterbukaan ini belum menyebut nama calon anggota Direksi atau Dewan Komisaris yang akan diajukan. Perseroan hanya menyatakan bahwa profil dan biodata kandidat dapat diakses lebih lanjut melalui situs web resmi perusahaan sebelum tanggal pelaksanaan rapat. Rencana penyelenggaraan RUPSLB ini sendiri sudah diumumkan sejak surat bernomor 054/VFI/CRSC/X/2026 tanggal 15 Oktober 2026, dan surat terbaru ini hanya mengoreksi pengumuman panggilan sebelumnya tanpa mengubah tanggal, agenda, maupun tempat penyelenggaraan."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a modern corporate meeting hall, soft morning light through large windows, Jakarta office interior",
+  "takeaway": "Laporan ini bersifat netral bagi VTNY karena isinya baru sebatas undangan rapat, bukan keputusan, dan dokumen belum menyebut nama calon anggota Direksi maupun Dewan Komisaris yang akan diganti atau diangkat kembali. Yang disentuh di sini adalah susunan pengurus perseroan, yakni Direksi yang menjalankan operasional sehari hari dan Dewan Komisaris yang mengawasi kerja Direksi, sehingga pelaku pasar biasanya mencermati pergantian ini karena pengurus baru bisa membawa perubahan arah strategi atau pengawasan, termasuk terhadap transaksi besar yang belum lama ini diakui perseroan belum diungkap ke publik. Dampak nyata terhadap kinerja VTNY baru bisa dinilai setelah nama dan rencana kerja pengurus baru benar benar disahkan, bukan dari sekadar undangan rapatnya. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 23 November 2026 pukul 10.00 WIB, termasuk siapa saja yang akhirnya disetujui mengisi kursi Direksi dan Komisaris, serta batas waktu deklarasi kehadiran elektronik pada 20 November 2026 pukul 12.00 WIB bagi pemegang saham yang ingin memberikan suara.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "keyakinan-konsumen-oktober-naik-ke-119-9",
   "category": "Makroekonomi",
   "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
@@ -23,6 +153,57 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Kenaikan IKK dari 118,1 ke 119,9 ini adalah data bulan kedua yang bisa dibandingkan dalam rilis ini, jadi belum cukup untuk memastikan apakah ini awal tren penguatan belanja masyarakat atau sekadar fluktuasi sesaat. Pihak yang paling berkepentingan dengan arah indeks ini adalah peritel dan produsen barang konsumsi, karena keyakinan konsumen biasa dipakai sebagai sinyal dini permintaan sebelum data belanja riil keluar. Yang masih kurang adalah data bulan-bulan sebelum September untuk melihat apakah kenaikan ini bagian dari pola naik bertahap. Itu akan mulai terjawab saat Bank Indonesia merilis Survei Konsumen November 2026, yang biasanya keluar awal bulan berikutnya.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "strk-jelaskan-ke-bursa-soal-pengambilalihan-saham-oleh-bbs",
+  "category": "Aksi Korporasi",
+  "title": "STRK Jelaskan ke Bursa Soal [Pengambilalihan] Saham oleh BBS",
+  "deck": "STRK menjelaskan ke Bursa konsistensi informasinya soal negosiasi pengambilalihan saham oleh PT Beruntung Berkat Sejahtera, ditargetkan tuntas paling lambat Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T11:03:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2fbfae19ee_c0604666c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "STRK",
+  "tags": [
+   "STRK",
+   "pengambilalihan saham",
+   "keterbukaan informasi",
+   "IDX"
+  ],
+  "body": [
+   "PT Lovina Beach Brewery Tbk (STRK) menyampaikan tanggapan atas permintaan penjelasan Bursa Efek Indonesia melalui surat Nomor S-13825/BEI.PP1/11-2026 tertanggal 5 November 2026. Bursa meminta klarifikasi atas dugaan inkonsistensi informasi, sebab pada 13 Oktober 2026 Perseroan menyatakan Pemegang Saham Utama tidak memiliki rencana apa pun terkait kepemilikan sahamnya, namun sembilan hari kemudian, pada 22 Oktober 2026, Perseroan justru mengumumkan adanya negosiasi pengambilalihan saham milik Pemegang Saham Utama yang penandatanganan Indikasi Syarat dan Ketentuan Jual Belinya sudah dilakukan sejak 21 Oktober 2026. Dalam jawaban tertanggal 9 November 2026, Direktur Utama Bona Budhisurya menyatakan bahwa jawaban pada 12 Oktober 2026 masih relevan karena penandatanganan tersebut adalah transaksi Pemegang Saham Utama yang tidak melibatkan Perseroan, dan prosesnya sendiri masih berupa tahap negosiasi yang belum final.",
+   "Calon pengendali baru, PT Beruntung Berkat Sejahtera (BBS), bergerak di bidang konsultasi manajemen dan bisnis. Perseroan menyatakan tidak ada hubungan afiliasi antara BBS dengan Perseroan maupun dengan pemegang saham utama saat ini, PT Barito Mas Sukses, tetapi mengaku belum memperoleh informasi soal susunan direksi, komisaris, struktur kepemilikan, maupun pemilik manfaat akhir BBS karena proses negosiasi antara BBS dan PT Barito Mas Sukses belum melibatkan Perseroan. Perkiraan harga per saham maupun total nilai transaksi juga belum tersedia. Negosiasi ditargetkan selesai paling lambat Desember 2026.",
+   "Komposisi pemegang saham Perseroan saat ini tercatat PT Barito Mas Sukses memegang 6.633.434.000 saham (61,87 persen), Phillip Securities Pte Ltd 1.705.942.700 saham (15,91 persen), dan publik 2.382.458.862 saham (22,22 persen), dari total 10.721.835.562 saham. Perseroan belum mengetahui susunan kepemilikan setelah transaksi selesai, namun menyatakan bahwa jika pengambilalihan terlaksana dan terjadi perubahan pemilik manfaat, pengendali baru berkomitmen menjalankan Penawaran Tender Wajib sesuai POJK 9/2018. Perseroan juga menyatakan yakin tidak ada rencana go private atau delisting dari Bursa Efek Indonesia sampai saat surat ini disampaikan."
+  ],
+  "fotoAdegan": "Workers checking stainless steel fermentation tanks inside a tropical craft brewery, soft morning light through windows",
+  "takeaway": "Laporan ini netral bagi STRK: belum ada harga atau kepastian transaksi yang bisa dinilai untung atau ruginya, tapi jawaban Perseroan juga belum menuntaskan pertanyaan Bursa soal kenapa pernyataan 13 Oktober dan pengumuman 22 Oktober terkesan bertentangan, sehingga soal konsistensi keterbukaan informasi ini masih mengganjal. Yang disentuh di sini adalah hak suara dan siapa pengendali Perseroan, bukan laporan keuangan, karena yang berpindah tangan adalah mayoritas saham (61,87 persen milik PT Barito Mas Sukses), bukan aksi korporasi yang langsung mengubah ekuitas atau laba per saham perusahaan. Yang perlu dipantau adalah target rampungnya negosiasi paling lambat Desember 2026, serta kewajiban Penawaran Tender Wajib dari pengendali baru begitu transaksi final, karena itulah titik ketika pemegang saham publik baru bisa tahu harga dan skema pembelian saham mereka.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ketr-gema-lintas-benua-tambah-saham-hak-suara-sentuh-10",
+  "category": "Aksi Korporasi",
+  "title": "KETR: Gema Lintas Benua Tambah Saham, Hak Suara Sentuh [10%]",
+  "deck": "Pemegang saham Gema Lintas Benua membeli 10,37 juta lembar saham KETR dalam empat transaksi akhir Oktober-awal November 2026, menaikkan hak suaranya dari 9,64% menjadi 10%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T10:42:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-1337-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "kepemilikan saham",
+   "Ketrosden Triasmitra",
+   "hak suara"
+  ],
+  "body": [
+   "Gema Lintas Benua, pemegang saham PT Ketrosden Triasmitra Tbk (KETR) yang bukan anggota direksi maupun dewan komisaris, melaporkan kepada Otoritas Jasa Keuangan pada 9 November 2026 bahwa pihaknya telah membeli saham KETR secara tidak langsung sebanyak 10.366.500 lembar melalui empat transaksi berturut-turut, dengan tujuan investasi. Rinciannya: 3.951.500 lembar pada 29 Oktober 2026 seharga Rp477 per saham, 6.237.900 lembar pada 30 Oktober 2026 seharga Rp464 per saham, 108.800 lembar pada 2 November 2026 seharga Rp476 per saham, dan 68.300 lembar pada 4 November 2026 seharga Rp442 per saham.",
+   "Dengan tambahan pembelian itu, jumlah saham KETR yang dikuasai Gema Lintas Benua naik dari 273.759.787 lembar menjadi 284.126.287 lembar. Hak suaranya di perusahaan ikut bertambah dari 9,64 persen menjadi tepat 10,00 persen, persis menyentuh ambang bulat yang biasa jadi perhatian pelaku pasar dalam struktur kepemilikan emiten."
+  ],
+  "fotoAdegan": "Technicians working on telecommunications network equipment inside an outdoor cable distribution cabinet, cloudy Jakarta sky",
+  "takeaway": "Laporan ini netral bagi emiten: meski hak suara Gema Lintas Benua naik hingga tepat menyentuh 10 persen, volume pembeliannya hanya sekitar 0,4 persen dari total saham KETR yang beredar, sehingga belum cukup besar untuk dibaca sebagai pernyataan sikap strategis terhadap emiten. Yang tersentuh di sini adalah hak suara pemegang saham tersebut, bukan jumlah saham beredar KETR secara keseluruhan, karena transaksi ini terjadi di pasar sekunder antar investor dan tidak membawa dana segar atau mengubah jumlah total saham perusahaan. Pelaku pasar tetap memperhatikan pergerakan hak suara semacam ini karena bisa jadi tanda awal konsolidasi kepemilikan sebelum pemegang saham tersebut mencapai ambang pelaporan yang lebih tinggi. Yang perlu dipantau berikutnya adalah apakah pola pembelian berturut-turut sejak 29 Oktober hingga 4 November 2026 ini akan berlanjut, karena jika hak suara Gema Lintas Benua terus naik melewati ambang berikutnya, keterbukaan serupa wajib dilaporkan lagi ke OJK.",
+  "sentimen": "netral"
  },
  {
   "slug": "pnm-perkuat-pembinaan-pengrajin-wayang-yogyakarta-lewat-klasterisasi",
@@ -50,6 +231,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret adalah jumlah anggota klaster kerajinan kulit Wukirsari, dari 25 nasabah saat dibentuk Juni 2023 menjadi 30 nasabah sekarang, dengan bentuk dukungannya berupa pelatihan dan pendampingan kelompok, bukan sekadar pinjaman. Yang terdampak jelas adalah pengrajin wayang dan suvenir kulit di Wukirsari yang statusnya nasabah pembiayaan ultra mikro Mekaar. Berita ini tidak menyebut data penjualan atau pendapatan anggota klaster sebelum dan sesudah program, dan juga tidak menyebut apakah model klaster semacam ini sudah diterapkan di sentra kerajinan lain. Tanpa angka dampak usaha atau perbandingan skala di tempat lain, belum bisa disimpulkan apakah ini sekadar sorotan musiman untuk Hari Wayang Nasional atau bagian dari strategi PNM yang lebih luas. Yang bisa dicek berikutnya adalah laporan kinerja Mekaar yang biasanya memuat jumlah total klaster dan nasabah ultra mikro secara nasional.",
   "imageV": "mw8qwfto"
+ },
+ {
+  "slug": "masb-direksi-fely-retnowati-tambah-saham-jadi-297-500-lembar",
+  "category": "Aksi Korporasi",
+  "title": "MASB: Direksi Fely Retnowati [tambah] saham jadi 297.500 lembar",
+  "deck": "Direksi MASB Fely Retnowati kembali membeli saham lewat empat transaksi kecil pada 6 November 2026, menambah kepemilikannya jadi 297.500 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T10:41:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-9555-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MASB",
+  "tags": [
+   "MASB",
+   "Bank Multiarta Sentosa",
+   "kepemilikan saham direksi",
+   "OJK"
+  ],
+  "body": [
+   "Direksi PT Bank Multiarta Sentosa Tbk (MASB), Fely Retnowati, melaporkan kepada Otoritas Jasa Keuangan bahwa ia kembali menambah kepemilikan sahamnya di bank tersebut. Jumlah sahamnya naik dari 294.400 lembar menjadi 297.500 lembar, bertambah 3.100 lembar, melalui empat transaksi pembelian tidak langsung yang semuanya terjadi pada 6 November 2026 dan baru dilaporkan ke OJK pada 9 November 2026.",
+   "Rinciannya, Fely membeli 1.000 lembar di harga Rp2.200 per saham, 100 lembar di Rp2.130, 1.000 lembar di Rp2.170, dan 1.000 lembar di Rp2.190. Seluruh transaksi dicatatkan dengan tujuan investasi. Meski kepemilikan sahamnya bertambah, hak suaranya di MASB tetap di angka 0,02 persen, tidak berubah dari sebelum transaksi, karena porsi tambahan ini masih sangat kecil dibanding total saham MASB yang beredar.",
+   "Ini merupakan pembelian kedua Fely dalam waktu sepekan. Pada laporan sebelumnya yang terbit 6 November 2026, ia sudah menambah 7.200 lembar sahamnya hingga mencapai 294.400 lembar. Dengan transaksi terbaru ini, total saham yang ia tambah dalam sepekan menjadi 10.300 lembar."
+  ],
+  "fotoAdegan": "Interior of a modern bank hall with teller counters and customers queuing, soft lighting, blurred signage in the background",
+  "takeaway": "Laporan ini netral bagi fundamental MASB, karena tambahan 3.100 lembar hanya setara 1,05 persen dari kepemilikan Fely Retnowati sendiri dan tidak mengubah hak suaranya yang tetap di 0,02 persen, jadi ukurannya terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi terhadap saham perseroan. Transaksi semacam ini adalah pembelian saham yang sudah beredar di pasar, bukan penerbitan saham baru, sehingga tidak menambah jumlah saham beredar MASB dan tidak mendilusi laba per saham pemegang saham lain, yang bergeser hanya sebagian kecil komposisi pemiliknya. Yang perlu dipantau adalah apakah Fely melanjutkan pola pembelian bertahap ini, sebab dalam sepekan terakhir ia sudah dua kali melaporkan penambahan saham dengan total 10.300 lembar, yang bisa menunjukkan akumulasi perlahan meski tiap laporan sendiri masih kecil.",
+  "sentimen": "netral"
  },
  {
   "slug": "harga-emas-antam-stabil-di-rp2-545-000-per-gram",

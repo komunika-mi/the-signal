@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kino-bagikan-dividen-interim-rp52-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "KINO Bagikan [Dividen] Interim Rp52 per Saham",
+  "deck": "Kino Indonesia menetapkan dividen interim Rp52 per saham senilai total Rp71,7 miliar, dengan recording date 19 November dan pembayaran 9 Desember 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KINO",
+   "dividen interim",
+   "pemegang saham",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c67ae4c0f4_6d50963de9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-jawab-bursa-ekuitas-negatif-rp87-6-m-usai-revisi-lk",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jawab Bursa, Ekuitas [Negatif] Rp87,6 M usai Revisi LK",
+  "deck": "Revisi laporan keuangan interim BIKE membalik ekuitas perusahaan jadi negatif Rp87,6 miliar setelah mengakui utang pinjaman pemegang saham Rp125 miliar dari PMJ.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "ekuitas negatif",
+   "transaksi afiliasi",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a84564e22_fe84a9dbc9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tyro-catatkan-sukuk-ijarah-rp510-2-miliar-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "TYRO Catatkan [Sukuk] Ijarah Rp510,2 Miliar di BEI",
+  "deck": "PT Tamaris Hidro (TYRO) mencatatkan sukuk ijarah senilai Rp510,215 miliar dalam dua seri di Bursa Efek Indonesia mulai 9 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TYRO",
+   "sukuk",
+   "obligasi korporasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bdfbc9b79c_1ddf360451.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bvic-lunasi-obligasi-subordinasi-rp150-miliar-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BVIC Lunasi [Obligasi] Subordinasi Rp150 Miliar Jatuh Tempo",
+  "deck": "Obligasi Subordinasi Berkelanjutan II Bank Victoria Tahap II Tahun 2019 senilai Rp150 miliar jatuh tempo 8 November 2026 dan delisting dari BEI mulai 9 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BVIC",
+   "obligasi subordinasi",
+   "perbankan",
+   "jatuh tempo obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c22d2e603e_32b6aebf43.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vtny-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",
+  "deck": "VTNY mengoreksi panggilan RUPSLB 23 November 2026 yang mengagendakan persetujuan perubahan susunan Direksi dan Dewan Komisaris Perseroan.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a4500b13c_e7721d1c2a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "keyakinan-konsumen-oktober-naik-ke-119-9",
   "category": "Makroekonomi",
   "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
@@ -14,6 +94,38 @@ var ARTICLES = [
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "strk-jelaskan-ke-bursa-soal-pengambilalihan-saham-oleh-bbs",
+  "category": "Aksi Korporasi",
+  "title": "STRK Jelaskan ke Bursa Soal [Pengambilalihan] Saham oleh BBS",
+  "deck": "STRK menjelaskan ke Bursa konsistensi informasinya soal negosiasi pengambilalihan saham oleh PT Beruntung Berkat Sejahtera, ditargetkan tuntas paling lambat Desember 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "STRK",
+   "pengambilalihan saham",
+   "keterbukaan informasi",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2fbfae19ee_c0604666c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ketr-gema-lintas-benua-tambah-saham-hak-suara-sentuh-10",
+  "category": "Aksi Korporasi",
+  "title": "KETR: Gema Lintas Benua Tambah Saham, Hak Suara Sentuh [10%]",
+  "deck": "Pemegang saham Gema Lintas Benua membeli 10,37 juta lembar saham KETR dalam empat transaksi akhir Oktober-awal November 2026, menaikkan hak suaranya dari 9,64% menjadi 10%.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "kepemilikan saham",
+   "Ketrosden Triasmitra",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-1337-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnm-perkuat-pembinaan-pengrajin-wayang-yogyakarta-lewat-klasterisasi",
@@ -31,6 +143,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477354-hari-wayang-nasional-pnm-perkuat-pembinaan-pengrajin-wayang-di-yogyakarta-lewat-klasterisasi"
+ },
+ {
+  "slug": "masb-direksi-fely-retnowati-tambah-saham-jadi-297-500-lembar",
+  "category": "Aksi Korporasi",
+  "title": "MASB: Direksi Fely Retnowati [tambah] saham jadi 297.500 lembar",
+  "deck": "Direksi MASB Fely Retnowati kembali membeli saham lewat empat transaksi kecil pada 6 November 2026, menambah kepemilikannya jadi 297.500 lembar.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MASB",
+   "Bank Multiarta Sentosa",
+   "kepemilikan saham direksi",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-9555-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-emas-antam-stabil-di-rp2-545-000-per-gram",
@@ -6334,135 +6462,6 @@ var ARTICLES = [
    "batu bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d1cf060b9_c4653114fd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "umkm-binaan-pertamina-tembus-pasar-internasional-di-bali",
-  "category": "UMKM",
-  "title": "UMKM Binaan Pertamina [Tembus] Pasar Internasional di Bali",
-  "deck": "Lima UMKM binaan Pertamina meraih transaksi ratusan juta rupiah dan jejaring bisnis baru dalam forum ASCOPE 2026 di Bali, memperluas akses pasar produk lokal ke kancah internasional.",
-  "date": "2 November 2026",
-  "image": "assets/img/umkm-binaan-pertamina-tembus-pasar-internasional-di-bali.jpg",
-  "imageV": "mvza7aw5",
-  "tags": [
-   "pertamina",
-   "umkm",
-   "bali",
-   "ascope"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476218-tembus-pasar-internasional-umkm-pertamina-unjuk-gigi-di-kancah-global"
- },
- {
-  "slug": "penumpang-ka-september-tembus-48-55-juta-orang",
-  "category": "Bisnis",
-  "title": "Penumpang KA September Tembus [48,55 Juta Orang]",
-  "deck": "Jumlah penumpang kereta api naik tipis 0,47% dibanding Agustus, namun melonjak 7,83% dibanding September tahun lalu.",
-  "date": "2 November 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
-  "tags": [
-   "kereta api",
-   "bps",
-   "transportasi",
-   "penumpang"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "surplus-dagang-ri-turun-jadi-us-3-36-miliar",
-  "category": "Perdagangan",
-  "title": "Surplus Dagang RI Turun Jadi [US$3,36 Miliar]",
-  "deck": "Neraca dagang Indonesia September 2026 surplus US$3,36 miliar, mengecil dibanding US$3,55 miliar pada Agustus 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
-  "tags": [
-   "neraca dagang",
-   "bps",
-   "ekspor-impor",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "impor-ri-september-naik-18-41-jadi-us-24-2-miliar",
-  "category": "Perdagangan",
-  "title": "Impor RI September [naik 18,41%] jadi US$24,2 miliar",
-  "deck": "Nilai impor Indonesia naik dibanding Agustus maupun dibanding September tahun lalu, setelah sempat turun bulan sebelumnya",
-  "date": "2 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
-  "tags": [
-   "impor",
-   "bps",
-   "perdagangan",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "ekspor-september-tembus-27-6-miliar-us",
-  "category": "Perdagangan",
-  "title": "Ekspor September Tembus [27,6 Miliar US$]",
-  "deck": "Nilai ekspor Indonesia naik ke level tertinggi dalam enam bulan terakhir, melanjutkan tren kenaikan sejak Juni 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
-  "tags": [
-   "ekspor",
-   "bps",
-   "neraca dagang",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "bwpt-koreksi-jadwal-dividen-interim-rp31-1-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BWPT Koreksi Jadwal [Dividen] Interim Rp31,1 Miliar",
-  "deck": "Eagle High Plantations (BWPT) mengoreksi jadwal dividen interim Rp1 per saham senilai Rp31,12 miliar, dengan recording date 12 November dan pembayaran 25 November 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BWPT",
-   "dividen interim",
-   "Eagle High Plantations",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/51e6638467_41d5b2fa57.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rmko-rampungkan-rights-issue-rp114-3-m-laba-bersih-balik-positif",
-  "category": "Aksi Korporasi",
-  "title": "RMKO Rampungkan [Rights Issue] Rp114,3 M, Laba Bersih Balik Positif",
-  "deck": "RMKO merampungkan rights issue Rp114,3 miliar dan membalik laba bersih sembilan bulan 2026 menjadi positif, ditopang penurunan drastis rasio utang.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RMKO",
-   "Rights Issue",
-   "Kinerja Keuangan",
-   "Batu Bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/55638068ae_0878ddb887.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-lapor-lk-kuartal-i-2024-defisit-modal-melebar",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Lapor LK Kuartal I/2024, [Defisit Modal] Melebar",
-  "deck": "BOSS baru menyerahkan laporan keuangan kuartal I 2024, dua tahun setelah periode itu berakhir, dengan penjualan nihil dan defisit modal melebar jadi Rp206,61 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "defisit modal",
-   "laporan keuangan",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261102172155-65678-0/FinancialStatement-2024-I-BOSS.pdf",
   "sourceLabel": "IDX"
  }
 ];

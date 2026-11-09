@@ -969,6 +969,58 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "inet-rupo-obligasi-gagal-kuorum-ganti-wali-amanat-molor",
+  "category": "Aksi Korporasi",
+  "title": "INET: RUPO Obligasi Gagal [Kuorum], Ganti Wali Amanat Molor",
+  "deck": "RUPO obligasi INET pada 5 November hanya dihadiri 66,79% pemegang obligasi, di bawah syarat kuorum 75%, sehingga rencana ganti wali amanat ke CIMB Niaga belum disetujui.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:21:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e3dd40f998_412093210d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "RUPO",
+   "obligasi",
+   "wali amanat"
+  ],
+  "body": [
+   "PT Sinergi Inti Andalan Prima Tbk (INET) menggelar Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi I Sinergi Inti Andalan Prima Tahun 2026 pada Kamis, 5 November 2026, pukul 15.20 WIB di Belgravia, The Langham, SCBD, Jakarta Selatan. Rapat membahas dua agenda, yaitu persetujuan penggantian wali amanat obligasi tersebut dari PT Bank KB Indonesia Tbk menjadi PT Bank CIMB Niaga Tbk, serta pemberian kewenangan kepada wali amanat baru untuk mengubah Perjanjian Perwaliamanatan dan menandatangani dokumen terkait.",
+   "Rapat hanya dihadiri atau diwakili pemegang obligasi senilai Rp333,95 miliar, atau 66,79% dari total pokok obligasi yang belum dilunasi sebesar Rp500 miliar. Jumlah ini tidak mencapai syarat kuorum kehadiran minimum 75% yang diatur dalam Pasal 10.6 ayat 1 huruf a Perjanjian Perwaliamanatan, sehingga RUPO dinyatakan tidak kuorum dan tidak dapat mengambil keputusan atas kedua agenda tersebut. Rapat turut dihadiri wali amanat lama, PT Bank KB Indonesia Tbk, yang diwakili Yuli Dharyanto, serta jajaran direksi dan komisaris INET, yaitu Direktur Saripudin, Direktur Septiawan, Direktur Fadzri Sentosa, Komisaris Utama Kemal Akbar, dan Komisaris Independen Cahyana Ahmad Jayadi.",
+   "Karena kuorum tidak terpenuhi, perseroan harus menggelar RUPO Kedua. Sesuai Pasal 10 ayat 5 huruf f Perjanjian Perwaliamanatan, RUPO Kedua wajib dilaksanakan paling cepat 14 hari dan paling lambat 21 hari kalender sejak RUPO pertama ini, yaitu sekitar 19 hingga 26 November 2026. Panggilan untuk RUPO Kedua sendiri harus disampaikan paling lambat 7 hari kalender sebelum rapat digelar. Berita acara rapat ini dicatat dalam akta Notaris Stephani Dwi Sari, S.H., M.Kn. Nomor 17 tertanggal 5 November 2026, dan dilaporkan ke publik oleh Senior Vice President Corporate Secretary INET, Arki Rifazka, pada 9 November 2026."
+  ],
+  "fotoAdegan": "Rows of empty formal meeting chairs and a long table set up in an upscale Jakarta hotel function room, soft morning light",
+  "takeaway": "Laporan ini netral bagi fundamental INET, karena gagal kuorum hanya menunda proses administratif pergantian wali amanat, bukan mengubah jumlah utang obligasi Rp500 miliar maupun kewajiban perseroan membayar kupon dan pokoknya. Wali amanat adalah pihak yang bertugas mengawasi kepatuhan emiten terhadap perjanjian obligasi demi melindungi pemegang obligasi, jadi yang molor di sini cuma soal siapa pengawasnya, bukan soal beban bunga, arus kas, atau kewajiban utang INET itu sendiri yang tetap sama. Yang perlu dipantau adalah RUPO Kedua yang wajib digelar dalam rentang 14 sampai 21 hari kalender sejak 5 November, atau sekitar 19 hingga 26 November 2026, dengan panggilan rapat paling lambat tujuh hari sebelumnya. Kalau kuorum di RUPO Kedua juga tidak tercapai, pergantian wali amanat ke CIMB Niaga bisa tertunda lebih lama lagi, meski hal itu tidak otomatis menambah risiko gagal bayar obligasi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bris-kantongi-restu-rupslb-untuk-rights-issue-ii",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Kantongi Restu RUPSLB untuk [Rights Issue] II",
+  "deck": "Pemegang saham BSI menyetujui penerbitan hingga 6,8 miliar saham baru lewat skema HMETD II, harga dan jadwal pasti masih menyusul.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:11:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ff8ea6819_02a75a2e93.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "rights issue",
+   "RUPSLB",
+   "PMHMETD"
+  ],
+  "body": [
+   "Pemegang saham PT Bank Syariah Indonesia (Persero) Tbk (BRIS) menyetujui rencana penambahan modal dengan memberikan hak memesan efek terlebih dahulu kedua (PMHMETD II) dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Jumat, 6 November 2026, pukul 10.34 hingga 10.58 WIB, melalui sistem elektronik eASY.KSEI. Rapat dihadiri pemegang saham yang mewakili 43.536.478.637 saham, atau 94,38 persen dari seluruh saham dengan hak suara yang beredar, sehingga kuorum terpenuhi. BSI mendapat restu untuk menerbitkan saham baru Seri B sebanyak-banyaknya 6,8 miliar lembar dengan nilai nominal Rp500 per saham, sesuai aturan Otoritas Jasa Keuangan soal penambahan modal dengan hak memesan efek terlebih dahulu.",
+   "Hasil pemungutan suara menunjukkan 99,6 persen suara yang hadir, atau 43.363.574.280 suara, menyatakan setuju. Sebanyak 172.339.164 suara atau 0,4 persen memilih abstain, dan hanya 565.193 suara atau sekitar 0,001 persen yang menolak. Pemegang saham juga menyetujui perubahan Pasal 4 ayat (2) dan (3) Anggaran Dasar Perseroan terkait modal ditempatkan dan disetor setelah PMHMETD II selesai, serta memberi kuasa kepada Direksi untuk menentukan sejumlah hal teknis penerbitan, yaitu jumlah pasti saham yang diterbitkan, harga pelaksanaan, tanggal daftar pemegang saham yang berhak, rasio hak memesan, ada atau tidaknya pembeli siaga, dan jadwal pelaksanaan. Keputusan soal jumlah saham dan harga tersebut tetap memerlukan persetujuan Dewan Komisaris setelah berkonsultasi dengan pemegang saham Seri A Dwiwarna, yaitu saham seri khusus milik pemerintah di bank milik negara ini.",
+   "Dalam sesi tanya jawab, pemegang saham bernama Almuharam Anwar Nahdi menanyakan bagaimana penambahan modal ini memberi kesempatan bagi investor ritel dan institusi publik untuk ikut berinvestasi di BRIS, serta mengusulkan agar dana hasil penerbitan saham dipakai memperkuat struktur permodalan dan teknologi informasi, supaya insiden tak terduga seperti serangan siber tidak terulang. Direktur Utama Anggoro Eko Cahyo menjawab bahwa karena penambahan modal dilakukan lewat hak memesan efek terlebih dahulu, kesempatan pertama membeli saham baru akan diberikan kepada seluruh pemegang saham lama, termasuk pemegang saham publik. Soal penggunaan dana, manajemen menyatakan hasil rights issue akan dipakai untuk memperkuat struktur permodalan, menambah kapasitas usaha, dan menunjang pertumbuhan bisnis, dengan komitmen pengelolaan yang prudent, transparan, dan akuntabel, tanpa merinci alokasi khusus untuk penguatan teknologi informasi seperti yang diusulkan pemegang saham tersebut."
+  ],
+  "fotoAdegan": "Exterior of a modern bank branch tower in Jakarta's business district, glass facade reflecting sunlight, pedestrians walking past at midday",
+  "takeaway": "RUPSLB ini saya nilai netral bagi fundamental BSI, karena baru menyetujui rencana penambahan modal secara umum, sementara detail yang menentukan dampaknya ke pemegang saham, yaitu harga saham baru dan rasio pembagian hak, belum ditetapkan. Yang tersentuh adalah jumlah saham beredar dan ekuitas, menerbitkan hingga 6,8 miliar saham baru menambah modal disetor sehingga permodalan bank lebih kuat, tapi kalau ada pemegang saham yang tidak menebus haknya, porsi kepemilikan dan laba per sahamnya ikut tergerus karena jumlah saham beredar bertambah. Dukungan pemegang saham sangat tinggi, 99,6 persen setuju dan hanya sekitar 0,001 persen menolak, namun keputusan harga dan jumlah pasti saham baru masih menunggu persetujuan Dewan Komisaris setelah berkonsultasi dengan pemegang saham Seri A Dwiwarna, saham khusus milik negara di bank BUMN ini. Yang perlu dipantau selanjutnya adalah pengumuman harga pelaksanaan dan jadwal rights issue, pengajuan pernyataan pendaftaran ke OJK, serta pencatatan saham baru di Bursa Efek Indonesia, karena baru di titik itu besaran dilusi sebenarnya bisa dihitung pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pemerintah-pastikan-tambah-kuota-pertalite-anggaran-cukup",
   "category": "Energi",
   "title": "Pemerintah Pastikan Tambah Kuota [Pertalite], Anggaran Cukup",

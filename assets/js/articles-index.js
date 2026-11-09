@@ -600,6 +600,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "inet-rupo-obligasi-gagal-kuorum-ganti-wali-amanat-molor",
+  "category": "Aksi Korporasi",
+  "title": "INET: RUPO Obligasi Gagal [Kuorum], Ganti Wali Amanat Molor",
+  "deck": "RUPO obligasi INET pada 5 November hanya dihadiri 66,79% pemegang obligasi, di bawah syarat kuorum 75%, sehingga rencana ganti wali amanat ke CIMB Niaga belum disetujui.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "RUPO",
+   "obligasi",
+   "wali amanat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e3dd40f998_412093210d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bris-kantongi-restu-rupslb-untuk-rights-issue-ii",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Kantongi Restu RUPSLB untuk [Rights Issue] II",
+  "deck": "Pemegang saham BSI menyetujui penerbitan hingga 6,8 miliar saham baru lewat skema HMETD II, harga dan jadwal pasti masih menyusul.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIS",
+   "rights issue",
+   "RUPSLB",
+   "PMHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ff8ea6819_02a75a2e93.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-pastikan-tambah-kuota-pertalite-anggaran-cukup",
   "category": "Energi",
   "title": "Pemerintah Pastikan Tambah Kuota [Pertalite], Anggaran Cukup",
@@ -6429,39 +6461,6 @@ var ARTICLES = [
    "EPC"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/528cda06ab_56623820a7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bahlil-ubah-aturan-izin-tambang-prioritaskan-pengusaha-daerah",
-  "category": "Energi",
-  "title": "Bahlil Ubah Aturan Izin Tambang, [Prioritaskan] Pengusaha Daerah",
-  "deck": "Kementerian ESDM mengganti skema tender izin tambang dengan prioritas untuk UMKM, koperasi, dan BUMD agar pengusaha daerah lebih mudah mengelola tambang di wilayahnya.",
-  "date": "3 November 2026",
-  "image": "assets/img/bahlil-ubah-aturan-izin-tambang-prioritaskan-pengusaha-daerah.jpg",
-  "imageV": "mw0ahixs",
-  "tags": [
-   "izin tambang",
-   "Bahlil Lahadalia",
-   "UMKM",
-   "BUMD"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476341-bahlil-ubah-aturan-izin-tambang-pengusaha-daerah-kini-dapat-prioritas"
- },
- {
-  "slug": "asmi-jelaskan-ke-bei-aset-susut-26-akibat-investasi-saham-anjlok",
-  "category": "Aksi Korporasi",
-  "title": "ASMI Jelaskan ke BEI, Aset Susut 26% akibat [Investasi] Saham Anjlok",
-  "deck": "Perseroan menjelaskan ke BEI penurunan total aset 26 persen dan liabilitas 24 persen per September 2026, dipicu turunnya nilai investasi saham dan premi asuransi.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASMI",
-   "asuransi",
-   "laporan keuangan",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103114915-65710-0/FinancialStatement-2026-III-ASMI.pdf",
   "sourceLabel": "IDX"
  }
 ];

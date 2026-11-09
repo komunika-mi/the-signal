@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel",
+  "category": "UMKM",
+  "title": "UMKM Kerajinan Difabel PUKA Teken [LoI] Ekspansi ke Ritel",
+  "deck": "Bisnis kerajinan tangan PUKA yang memberdayakan 22 pekerja disabilitas memperluas pasar lewat kerja sama awal dengan APRINDO dan tampil di Trade Expo Indonesia 2026.",
+  "image": "assets/img/umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T10:38:30.478Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ruang-inklusif-disabilitas-produk-hobi-puka",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "disabilitas",
+   "APRINDO",
+   "ekspor"
+  ],
+  "body": [
+   "PUKA, bisnis kerajinan tangan asal Bandung yang memberdayakan penyandang disabilitas, memperluas pasar setelah menandatangani kesepakatan awal dengan Asosiasi Pengusaha Ritel Indonesia (APRINDO) dan terpilih mengisi program kurasi Kementerian Perdagangan. Perkembangan ini penting karena membuka kemungkinan produk buatan penyandang disabilitas dijual lewat jaringan toko ritel modern, bukan sekadar lewat toko kecil atau pameran seperti sebelumnya.",
+   "Usaha ini dimulai Dessy Nur Anisa Rahma pada 2015 saat masih kuliah, dengan menjual tas laptop berbahan kain goni kepada teman-temannya. Permintaan yang terus bertambah membuatnya mencari mitra produksi pada 2016, dan pilihannya jatuh pada siswa Sekolah Luar Biasa (SLB) karena mereka sudah terbiasa dengan kegiatan kerajinan tangan seperti meronce dan menyulam. Dari sanalah lahir nama Pulas Katumbiri, disingkat PUKA.",
+   "Saat ini PUKA mempekerjakan 15 orang disabilitas sebagai karyawan tetap dan 7 orang sebagai pekerja lepas, mencakup disabilitas fisik seperti cerebral palsy dan tunadaksa, disabilitas intelektual seperti tunagrahita, sindrom Down, dan autisme, serta disabilitas sensorik seperti tuli. Produknya mencapai lebih dari 100 varian aksesori, mulai dari bando, gelang, tas, dompet, hingga tali ponsel, yang dijual lewat toko di Bandung, situs web, lokapasar daring, dan titip jual di sejumlah toko di berbagai kota di Indonesia serta di Singapura dan Malaysia.",
+   "Jangkauan PUKA makin terbuka setelah produknya lolos kurasi Program Product Placement Pilihan Busan Periode 2 Kementerian Perdagangan pada 2026 dan dipilih menjadi suvenir bagi pengunjung di Trade Expo Indonesia (TEI) 2026. PUKA juga menandatangani Letter of Intent dengan APRINDO untuk menjajaki penjualan lewat jaringan ritel dalam negeri, sebagai langkah awal sebelum kerja sama itu berlanjut ke kesepakatan dagang yang mengikat."
+  ],
+  "fotoAdegan": "Close-up of hands threading colorful beads and yarn onto a woven jute tote bag at a cluttered craft workshop table, soft daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/PafdIlG1LGpJujDnMrVwF0kXQoE6O21qQL3dtVhf.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang sebenarnya berubah di sini bukan sekadar kisah inspiratif, melainkan jalur pasarnya: PUKA yang sebelumnya hanya berjualan lewat toko sendiri dan titip jual di toko-toko kecil, sekarang membuka jalan ke jaringan ritel besar lewat perjanjian awal dengan asosiasi peritel APRINDO. Pihak yang langsung terdampak adalah 22 pekerja disabilitas di PUKA, 15 karyawan tetap dan 7 lepas, sebab kalau pesanan dari ritel benar-benar mengalir, kebutuhan produksi mereka ikut bertambah. Pola ini juga menunjukkan ke mana arah program Kementerian Perdagangan bergerak, yakni memakai jalur kurasi seperti Pilihan Busan untuk menyalurkan produk UMKM disabilitas ke pameran ekspor dan jaringan ritel, bukan cuma pameran seremonial. Namun kerja sama dengan APRINDO itu statusnya masih pernyataan niat, belum kontrak pembelian, sehingga yang perlu dipantau adalah apakah niat ini benar-benar berubah menjadi pesanan nyata dari toko-toko anggota APRINDO dalam beberapa bulan ke depan.",
+  "imageV": "mw94wq6j"
+ },
+ {
+  "slug": "ekspor-lampu-tenaga-surya-ri-tumbuh-20-91-persen-ke-as",
+  "category": "Industri",
+  "title": "Ekspor Lampu Tenaga Surya RI [Tumbuh] 20,91 Persen ke AS",
+  "deck": "Kemendag mendukung ekspor produk penerangan tenaga surya PT Synergy Infra Hijau, saat ekspor lampu Indonesia naik 20,91 persen dalam sembilan bulan pertama 2026.",
+  "image": "assets/img/ekspor-lampu-tenaga-surya-ri-tumbuh-20-91-persen-ke-as.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T10:38:25.825Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dukung-perluasan-ekspor-produsen-manufaktur-teknologi-pemanfaatan-energi-surya-mendag-busan-kunjungi-pt-synergy-infra-hijau",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ekspor",
+   "energi surya",
+   "Kemendag",
+   "manufaktur"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mengunjungi pabrik PT Synergy Infra Hijau (SIH) di Semarang, produsen perangkat penerangan bertenaga surya seperti lampu jalan dan pompa air untuk irigasi sawah. Kunjungan ini menjadi bagian dari dorongan pemerintah agar produsen produk energi terbarukan memperluas pasar ekspornya, sekaligus menyoroti data ekspor sektor penerangan yang sedang tumbuh.",
+   "Berdasarkan data Kementerian Perdagangan, ekspor lampu dan perlengkapan penerangan Indonesia dengan kode HS 9405 mencapai US$58,29 juta pada Januari-September 2026, naik 20,91 persen dibanding periode yang sama tahun 2025. Namun pasar ekspornya sangat terpusat: Amerika Serikat menyerap US$44,38 juta atau 76,15 persen dari total nilai itu, jauh di atas Singapura (5,15 persen), Jepang (4,36 persen), Jerman (1,76 persen), dan Belanda (1,67 persen).",
+   "Kementerian Perdagangan menyatakan akan membantu PT SIH mencari pembeli baru melalui jaringan 46 Atase Perdagangan dan Indonesia Trade Promotion Center yang tersebar di 33 negara, termasuk membuka akses ke pasar nontradisional. Perusahaan ini juga didorong untuk ikut serta dalam Trade Expo Indonesia 2027 yang dijadwalkan berlangsung pada 13-17 Oktober 2027 sebagai sarana memperkenalkan produk ke pembeli dari berbagai negara.",
+   "PT SIH merupakan perusahaan penanaman modal asing yang menjadi pintu masuk PMW Group asal Malaysia ke Indonesia, dengan fokus pada sistem penerangan jalan tenaga surya, lampu LED, dan teknologi pendukung kota pintar. Direktur Utama PT SIH, Mohd Hafeez, mengatakan perusahaannya berharap kunjungan ini membuka peluang kerja sama dan perluasan pasar ke luar negeri."
+  ],
+  "fotoAdegan": "Technicians assembling solar-powered street light fixtures on a factory assembly line, LED panels stacked on shelves nearby",
+  "fotoSumber": "https://www.kemendag.go.id/albums/r0H9OK4SHDNYeORtbbJ996FzUJn2Z4mnaBd5G4WQ.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret dari kunjungan ini adalah data ekspor: produk lampu dan penerangan Indonesia tumbuh 20,91 persen dalam sembilan bulan pertama 2026 menjadi US$58,29 juta, tapi sekitar 76 persen dari nilai itu bergantung pada satu pasar saja, yaitu Amerika Serikat. Ini berarti eksportir produk penerangan, termasuk yang bertenaga surya seperti PT SIH, cukup rentan kalau ada perubahan kebijakan dagang atau tarif di Amerika Serikat. Pemerintah sendiri tampak menyadari risiko konsentrasi pasar ini, karena mendorong perusahaan memanfaatkan jaringan 46 perwakilan dagang di 33 negara dan mengikuti pameran Trade Expo Indonesia pada Oktober 2027 untuk menjajaki pasar di luar AS. Arah yang bisa dibaca adalah upaya diversifikasi pasar ekspor penerangan, dan yang akan menunjukkan apakah upaya itu membawa hasil adalah apakah porsi ekspor ke Amerika Serikat mengecil pada data ekspor tahun 2027 mendatang.",
+  "imageV": "mw94wtap"
+ },
+ {
   "slug": "srtg-jadwalkan-rupslb-virtual-pada-16-desember-2026",
   "category": "Aksi Korporasi",
   "title": "SRTG Jadwalkan [RUPSLB] Virtual pada 16 Desember 2026",
@@ -53,6 +109,33 @@ var ARTICLES = [
   "fotoAdegan": "Exterior of a modern glass high-rise bank office tower in Jakarta's business district at dusk, reflecting the skyline.",
   "takeaway": "Laporan ini netral bagi fundamental BCIC: ini transisi kepemimpinan internal yang berjalan sesuai prosedur, tanpa indikasi konflik, dan belum final karena masih menunggu dua persetujuan sekaligus. Yang tersentuh bukan angka keuangan seperti ekuitas atau laba, melainkan tata kelola, karena posisi Komisaris Independen bertugas mengawasi manajemen risiko secara bebas dari kepentingan manajemen, dan independensi itu otomatis hilang begitu orangnya pindah ke kursi eksekutif sebagai Direktur Utama. Pelaku pasar perlu mencermati siapa yang akan mengisi kursi Komisaris Independen yang kosong, karena bank wajib menjaga jumlah minimum komisaris independen sesuai aturan OJK. Yang perlu dipantau berikutnya adalah keputusan RUPS dan persetujuan OJK yang menentukan efektif atau tidaknya pengangkatan Abdullah sebagai Direktur Utama, menyusul kekosongan kursi Dirut sejak pengunduran diri Ritsuo Fukadai awal November ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital",
+  "category": "Teknologi",
+  "title": "Kemendagri Minta Pemda Percepat [Registrasi] Perlinsos Digital",
+  "deck": "Kemendagri mendesak pemda mempercepat registrasi Perlinsos Digital agar data penerima bansos lebih akurat, sejalan dengan rencana satu identitas digital lintas layanan publik.",
+  "image": "assets/img/kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:37:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477401-upaya-penyaluran-bansos-tepat-sasaran-kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital",
+  "tags": [
+   "bansos",
+   "perlinsos digital",
+   "kemendagri",
+   "dukcapil"
+  ],
+  "body": [
+   "Kementerian Dalam Negeri mendesak seluruh pemerintah daerah untuk mempercepat proses registrasi Perlindungan Sosial atau Perlinsos Digital. Menteri Dalam Negeri Tito Karnavian menyebut langkah ini penting agar data penerima bantuan sosial lebih akurat dan penyalurannya tepat sasaran. Instruksi ini merupakan turunan dari arahan Presiden Prabowo Subianto mengenai digitalisasi pemerintahan dan penyatuan data lintas layanan publik.",
+   "Menurut Tito, Direktorat Jenderal Kependudukan dan Pencatatan Sipil Kemendagri berperan menyediakan basis data kependudukan yang sudah terhubung dengan data biometrik warga. Nomor Induk Kependudukan atau NIK difungsikan sebagai pengenal tunggal setiap warga saat mengakses layanan pemerintah, sementara verifikasi biometrik memastikan identitas yang dipakai benar-benar milik orang yang bersangkutan. Ke depan, sistem ini direncanakan terhubung dengan layanan Kementerian Kesehatan, pendidikan, kendaraan bermotor, hingga pertanahan di ATR/BPN melalui satu single sign-on dengan satu nomor identitas per warga.",
+   "Tito mengakui proses registrasi ini tidak bisa berjalan tanpa keterlibatan aktif pemerintah daerah, sebab tidak semua warga memiliki telepon pintar atau bisa mengoperasikan aplikasi pendaftaran secara mandiri. Karena itu, Kemendagri meminta tiap daerah menyediakan agen Perlinsos yang bertugas mendampingi warga, termasuk dalam proses registrasi dan verifikasi identitas. Tito juga meminta pemerintah daerah membentuk tim atau satuan tugas khusus Perlinsos untuk mengawal proses ini di lapangan.",
+   "Pernyataan ini disampaikan Tito kepada awak media di Jakarta, Senin, 9 November 2026. Ia menyebut digitalisasi Perlinsos pada akhirnya akan membantu kerja pemerintah daerah dalam menyalurkan bantuan sosial kepada warganya."
+  ],
+  "fotoAdegan": "A local government officer assisting an elderly woman with fingerprint scanning at a modest community service counter, soft daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/09/6af19341d275c-menteri-dalam-negeri-mendagri-muhammad-tito-karnavian_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah Kemendagri meminta pemda membentuk satuan tugas Perlinsos dan mempercepat registrasi warga ke sistem Perlinsos Digital, dengan NIK dan verifikasi biometrik sebagai kunci untuk memastikan penerima bansos benar orangnya. Yang langsung kena dampak adalah pemerintah daerah, yang harus menyiapkan agen pendamping bagi warga tanpa ponsel pintar, serta penerima bansos yang datanya akan diverifikasi ulang lewat sistem ini. Arah besarnya menuju satu identitas digital yang menyatukan data kependudukan dengan layanan kesehatan, pendidikan, kendaraan bermotor, dan pertanahan lewat satu single sign-on, tapi Kemendagri belum menyebut tenggat waktu, target jumlah daerah yang harus selesai, atau konsekuensi bagi daerah yang lambat. Yang masih perlu dipantau adalah kapan integrasi lintas kementerian ini mulai diuji coba dan daerah mana yang jadi contoh pertama, karena tanpa itu sulit mengukur seberapa cepat rencana satu identitas ini akan benar-benar berjalan.",
+  "imageV": "mw94wtq8"
  },
  {
   "slug": "amor-rinci-dividen-99-dan-rencana-buyback-di-public-expose",
@@ -289,6 +372,33 @@ var ARTICLES = [
   "fotoAdegan": "Heavy mining excavator loading overburden onto a large haul truck at an open-pit coal mine, dusty golden morning light",
   "takeaway": "Paparan publik ini condong positif bagi Petrosea, karena pendapatan dan laba bersih tumbuh tajam secara tahunan dan perseroan mengamankan rangkaian kontrak serta amandemen kontrak baru senilai total belasan triliun rupiah, meski ada titik lemah yang perlu dicermati. Titik lemah itu adalah margin laba kotor yang turun dari 14 persen jadi 9 persen, yang berarti porsi pendapatan yang berubah jadi laba sebelum biaya lain menyusut karena ongkos proyek tidak ikut turun saat sejumlah proyek besar molor akibat urusan izin RKAB. Rasio utang terhadap modal 2,6 kali menunjukkan porsi pendanaan dari utang cukup besar dibanding modal sendiri milik perseroan, sehingga pasar mencermati kemampuan bayar bunga dan cicilannya, yang tercermin dari DSCR 194 persen alias arus kas operasional hampir dua kali lipat kewajiban utang yang jatuh tempo. Yang perlu dipantau berikutnya adalah target produksi emas perdana di tambang Tolukuma pada kuartal pertama 2027, serta apakah margin laba kotor Petrosea kembali naik di laporan keuangan berikutnya setelah proyek-proyek yang tertunda akibat RKAB berjalan normal lagi.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "bahlil-dorong-umkm-dan-pengusaha-daerah-ikut-hilirisasi",
+  "category": "UMKM",
+  "title": "Bahlil Dorong UMKM dan Pengusaha Daerah Ikut [Hilirisasi]",
+  "deck": "Menko Hilirisasi Bahlil Lahadalia meminta UMKM dan pengusaha daerah dapat porsi lebih besar dalam proyek hilirisasi, agar tak dimonopoli perusahaan besar dari Jakarta.",
+  "image": "assets/img/bahlil-dorong-umkm-dan-pengusaha-daerah-ikut-hilirisasi.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T15:44:02+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477395-menko-bahlil-dorong-peran-aktif-umkm-dan-pengusaha-lokal-dalam-proyek-hilirisasi",
+  "tags": [
+   "hilirisasi",
+   "umkm",
+   "bahlil",
+   "pertambangan"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga menjabat Menteri ESDM, Bahlil Lahadalia, meminta pelaku UMKM dan pengusaha daerah mendapat porsi lebih besar dalam proyek-proyek hilirisasi sumber daya alam. Ia menilai keberhasilan hilirisasi semestinya tidak hanya diukur dari nilai tambah ekonomi, tapi juga dari seberapa luas manfaatnya dirasakan pengusaha lokal di wilayah tempat proyek itu berlangsung. Pernyataan itu disampaikan Bahlil kepada awak media di Jakarta, Senin (9/11).",
+   "Bahlil mencontohkan pengalamannya semasa menjadi Ketua Umum HIPMI, ketika perusahaan besar asal Jakarta membangun fasilitas hilirisasi di daerah namun tetap mengambil seluruh kebutuhan pengadaan dari Jakarta, mulai dari barang sekecil gunting kuku hingga jasa potong rambut. Menurutnya, pola semacam itu membuat pengusaha di daerah penghasil sumber daya alam tidak kebagian peran dalam rantai pasok proyek yang justru berdiri di wilayah mereka sendiri.",
+   "Untuk mengubah pola tersebut, Bahlil menyebut pemerintah telah menerbitkan keputusan menteri yang melarang penggunaan kontraktor yang terafiliasi dengan perusahaan induk proyek, sekaligus mewajibkan pelibatan pengusaha daerah dalam kegiatan pertambangan. Ia mengakui kebijakan ini banyak dikritik oleh kalangan pengusaha besar karena mengubah kebiasaan pengadaan yang selama ini berjalan.",
+   "Bahlil juga menyoroti ketimpangan dalam kepemilikan izin usaha pertambangan atau IUP, dengan menyinggung cadangan nikel di Sulawesi dan Maluku yang berada di wilayah masyarakat setempat, namun jumlah pengusaha asli daerah tersebut yang benar-benar memegang IUP masih sangat terbatas."
+  ],
+  "fotoAdegan": "Workers loading raw nickel ore onto a truck at an open-pit mine, misty hills in the background, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/09/6af18728393cb-menteri-koordinator-bidang-hilirisasi-dan-transisi-energi-sekaligus-menteri-energi-dan-sumber-daya-mineral-esdm-bahlil-lahadalia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah baru satu: keputusan menteri yang melarang kontraktor terafiliasi dan mewajibkan pelibatan pengusaha daerah di proyek tambang, tapi Bahlil tidak menyebut sejak kapan aturan ini berlaku atau apa sanksinya jika dilanggar. Yang jelas kena imbas adalah dua pihak yang bersinggungan, perusahaan besar asal Jakarta yang biasa memegang seluruh kontrak pengadaan, dan pengusaha daerah termasuk UMKM di wilayah tambang seperti Sulawesi dan Maluku yang selama ini jarang kebagian proyek atau izin usaha pertambangan. Yang masih kurang untuk membaca ke mana arah ini sebenarnya bergerak adalah data konkret, misalnya berapa persen proyek hilirisasi atau berapa banyak IUP yang sudah benar-benar beralih ke pengusaha daerah sejak aturan itu terbit, sebab tanpa angka itu sulit memastikan apakah dorongan Bahlil ini sudah berjalan di lapangan atau masih sebatas imbauan. Yang perlu dipantau adalah apakah Kementerian ESDM akan merilis data pelaksanaan aturan kontraktor tidak terafiliasi itu, karena itulah yang akan menunjukkan apakah ketimpangan yang disebut Bahlil benar mulai berkurang.",
+  "imageV": "mw94wu3t"
  },
  {
   "slug": "acst-catat-rugi-bersih-melonjak-155-pada-kuartal-iii-2026",
@@ -753,7 +863,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Kenaikan IKK dari 118,1 ke 119,9 ini adalah data bulan kedua yang bisa dibandingkan dalam rilis ini, jadi belum cukup untuk memastikan apakah ini awal tren penguatan belanja masyarakat atau sekadar fluktuasi sesaat. Pihak yang paling berkepentingan dengan arah indeks ini adalah peritel dan produsen barang konsumsi, karena keyakinan konsumen biasa dipakai sebagai sinyal dini permintaan sebelum data belanja riil keluar. Yang masih kurang adalah data bulan-bulan sebelum September untuk melihat apakah kenaikan ini bagian dari pola naik bertahap. Itu akan mulai terjawab saat Bank Indonesia merilis Survei Konsumen November 2026, yang biasanya keluar awal bulan berikutnya.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "strk-jelaskan-ke-bursa-soal-pengambilalihan-saham-oleh-bbs",

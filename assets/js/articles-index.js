@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel",
+  "category": "UMKM",
+  "title": "UMKM Kerajinan Difabel PUKA Teken [LoI] Ekspansi ke Ritel",
+  "deck": "Bisnis kerajinan tangan PUKA yang memberdayakan 22 pekerja disabilitas memperluas pasar lewat kerja sama awal dengan APRINDO dan tampil di Trade Expo Indonesia 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel.jpg",
+  "imageV": "mw94wq6j",
+  "tags": [
+   "UMKM",
+   "disabilitas",
+   "APRINDO",
+   "ekspor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ruang-inklusif-disabilitas-produk-hobi-puka",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ekspor-lampu-tenaga-surya-ri-tumbuh-20-91-persen-ke-as",
+  "category": "Industri",
+  "title": "Ekspor Lampu Tenaga Surya RI [Tumbuh] 20,91 Persen ke AS",
+  "deck": "Kemendag mendukung ekspor produk penerangan tenaga surya PT Synergy Infra Hijau, saat ekspor lampu Indonesia naik 20,91 persen dalam sembilan bulan pertama 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/ekspor-lampu-tenaga-surya-ri-tumbuh-20-91-persen-ke-as.jpg",
+  "imageV": "mw94wtap",
+  "tags": [
+   "ekspor",
+   "energi surya",
+   "Kemendag",
+   "manufaktur"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dukung-perluasan-ekspor-produsen-manufaktur-teknologi-pemanfaatan-energi-surya-mendag-busan-kunjungi-pt-synergy-infra-hijau",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "srtg-jadwalkan-rupslb-virtual-pada-16-desember-2026",
   "category": "Aksi Korporasi",
   "title": "SRTG Jadwalkan [RUPSLB] Virtual pada 16 Desember 2026",
@@ -35,6 +71,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/71d3f6d0af_b019015b3f.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital",
+  "category": "Teknologi",
+  "title": "Kemendagri Minta Pemda Percepat [Registrasi] Perlinsos Digital",
+  "deck": "Kemendagri mendesak pemda mempercepat registrasi Perlinsos Digital agar data penerima bansos lebih akurat, sejalan dengan rencana satu identitas digital lintas layanan publik.",
+  "date": "9 November 2026",
+  "image": "assets/img/kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital.jpg",
+  "imageV": "mw94wtq8",
+  "tags": [
+   "bansos",
+   "perlinsos digital",
+   "kemendagri",
+   "dukcapil"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477401-upaya-penyaluran-bansos-tepat-sasaran-kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital"
  },
  {
   "slug": "amor-rinci-dividen-99-dan-rencana-buyback-di-public-expose",
@@ -179,6 +232,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a05c9ad1f_31f51ac272.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bahlil-dorong-umkm-dan-pengusaha-daerah-ikut-hilirisasi",
+  "category": "UMKM",
+  "title": "Bahlil Dorong UMKM dan Pengusaha Daerah Ikut [Hilirisasi]",
+  "deck": "Menko Hilirisasi Bahlil Lahadalia meminta UMKM dan pengusaha daerah dapat porsi lebih besar dalam proyek hilirisasi, agar tak dimonopoli perusahaan besar dari Jakarta.",
+  "date": "9 November 2026",
+  "image": "assets/img/bahlil-dorong-umkm-dan-pengusaha-daerah-ikut-hilirisasi.jpg",
+  "imageV": "mw94wu3t",
+  "tags": [
+   "hilirisasi",
+   "umkm",
+   "bahlil",
+   "pertambangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477395-menko-bahlil-dorong-peran-aktif-umkm-dan-pengusaha-lokal-dalam-proyek-hilirisasi"
  },
  {
   "slug": "acst-catat-rugi-bersih-melonjak-155-pada-kuartal-iii-2026",
@@ -6398,69 +6468,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204650-65471-0/FinancialStatement-2026-III-SURI.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "kpig-laba-bersih-turun-42-saham-baru-picu-dilusi",
-  "category": "Aksi Korporasi",
-  "title": "KPIG: Laba Bersih Turun 42%, Saham Baru Picu [Dilusi]",
-  "deck": "Laba bersih KPIG turun 42 persen jadi Rp361 miliar pada sembilan bulan 2026, sementara penerbitan saham baru tanpa hak memesan terlebih dahulu menambah saham beredar hampir 8 persen.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KPIG",
-   "MNC Tourism",
-   "laporan keuangan",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204210-65002-0/FinancialStatement-2026-III-KPIG.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbap-laba-9-bulan-melonjak-ke-us-16-8-juta-kas-operasi-positif",
-  "category": "Aksi Korporasi",
-  "title": "MBAP: [Laba] 9 Bulan Melonjak ke US$16,8 Juta, Kas Operasi Positif",
-  "deck": "Laba bersih Mitrabara Adiperdana melonjak ke US$16,8 juta pada sembilan bulan 2026, dari US$293.905 setahun sebelumnya, ditopang pendapatan naik 29 persen dan kas operasi berbalik positif.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBAP",
-   "laporan keuangan",
-   "batu bara",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204710-65072-0/FinancialStatement-2026-III-MBAP.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indonesia-turki-jajaki-pta-target-dagang-us-10-miliar",
-  "category": "Global",
-  "title": "Indonesia-Turki Jajaki [PTA], Target Dagang US$10 Miliar",
-  "deck": "Indonesia dan Turki mulai menjajaki perjanjian dagang preferensial (PTA) untuk mendorong nilai perdagangan bilateral menuju US$10 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
-  "tags": [
-   "Indonesia-Turki",
-   "PTA",
-   "Perdagangan Bilateral",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-dorong-penjajakan-pta-untuk-perkuat-perdagangan-indonesia-turki",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "inflasi-oktober-melandai-tiket-pesawat-naik",
-  "category": "Makroekonomi",
-  "title": "Inflasi Oktober [Melandai], Tiket Pesawat Naik",
-  "deck": "Inflasi tahunan Oktober 2026 turun jadi 3,23 persen, tapi harga cabai dan tarif pesawat domestik kelas ekonomi justru naik.",
-  "date": "2 November 2026",
-  "image": "assets/img/timbangan-pasar.jpg",
-  "tags": [
-   "inflasi",
-   "harga pangan",
-   "Bank Indonesia",
-   "tarif pesawat"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823826.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

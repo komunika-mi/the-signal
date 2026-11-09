@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "K34b2ZNITh4",
+  "title": "Upaya BP Batam Modernisasi Terminal Peti Kemas",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "BP Batam mendapat penghargaan atas modernisasi Pelabuhan Batu Ampar dan inovasi layanan investasi, yang disebut meningkatkan efisiensi logistik di Batam.",
+  "takeaway": "Modernisasi pelabuhan ini relevan bagi pembaca ekonomi karena menyangkut efisiensi logistik dan daya saing investasi di kawasan Batam."
+ },
+ {
+  "id": "vbCeN7Z6pgU",
+  "title": "Harga Tepung Tapioka Naik Hampir 100 Persen",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Harga sejumlah bahan pangan melonjak di beberapa daerah, dengan harga tepung tapioka di Yogyakarta naik hampir 100 persen sehingga pedagang terpaksa memperkecil ukuran dagangan.",
+  "takeaway": "Lonjakan harga bahan pangan ini penting bagi pembaca ekonomi karena berkaitan langsung dengan inflasi dan daya beli masyarakat."
+ },
+ {
+  "id": "OlEMGlYVJ7M",
+  "title": "Bank Indonesia Gelar Capacity Building untuk Jurnalis",
+  "category": "Moneter",
+  "program": "Kabar Merah Putih",
+  "summary": "Bank Indonesia menggelar kegiatan capacity building bagi 41 jurnalis media nasional di Sabang, Aceh, yang membahas ekonomi regional dan potensi daerah tersebut.",
+  "takeaway": "Kegiatan ini relevan bagi pembaca ekonomi karena menyoroti upaya Bank Indonesia memperkuat pemahaman tentang ekonomi regional dan potensi daerah seperti Sabang."
+ },
+ {
   "id": "nFT0pcs-bTE",
   "title": "Harga Tepung Naik, Penjual Kue Terpaksa Naikkan Harga Jual",
   "category": "UMKM",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Kementerian Perdagangan memaparkan strategi memperluas pasar produk lokal ke kancah global dalam forum Rapimnas Kadin, ajang konsolidasi pemerintah dan dunia usaha.",
   "takeaway": "Relevan bagi pelaku usaha yang ingin memahami arah kebijakan ekspor pemerintah."
- },
- {
-  "id": "HXlXzYeHcqU",
-  "title": "Dorong Pertumbuhan Ekonomi, Kadin Siapkan Ekosistem UMKM Naik Kelas",
-  "category": "UMKM",
-  "program": "Kabar Petang",
-  "summary": "Rapimnas Kadin menyoroti tantangan ekonomi global dan mencatat 55 persen investasi di Indonesia berasal dari dalam negeri, sembari menyiapkan ekosistem bagi UMKM agar naik kelas.",
-  "takeaway": "Memberi gambaran soal komposisi investasi domestik dan dukungan bagi pelaku UMKM."
- },
- {
-  "id": "VXT2G6LpR1s",
-  "title": "Pasokan Gas Indonesia ke Singapura Dipangkas 31 MMSCFD",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Menko Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia menegaskan pengurangan ekspor gas pipa dari Indonesia ke Singapura sebesar 31 juta kaki kubik standar per hari.",
-  "takeaway": "Kebijakan ini berdampak pada arah ekspor energi dan hubungan dagang gas dengan Singapura."
- },
- {
-  "id": "101OL6VclgU",
-  "title": "BTN Luncurkan SuperApps Bale, Permudah Layanan Perbankan Digital",
-  "category": "Perbankan",
-  "program": "Bisnis Bareng Orang Hebat",
-  "summary": "BTN merilis aplikasi bale by BTN yang menyatukan berbagai layanan perbankan dalam satu platform digital sebagai bagian dari transformasi digital perseroan.",
-  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan transformasi digital di sektor perbankan nasional."
  }
 ];

@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "K34b2ZNITh4",
+  "title": "Upaya BP Batam Modernisasi Terminal Peti Kemas",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "BP Batam mendapat penghargaan atas modernisasi Pelabuhan Batu Ampar dan inovasi layanan investasi, yang disebut meningkatkan efisiensi logistik di Batam.",
+  "takeaway": "Modernisasi pelabuhan ini relevan bagi pembaca ekonomi karena menyangkut efisiensi logistik dan daya saing investasi di kawasan Batam.",
+  "terbit": "2026-11-09T09:38:51+00:00"
+ },
+ {
+  "id": "vbCeN7Z6pgU",
+  "title": "Harga Tepung Tapioka Naik Hampir 100 Persen",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Harga sejumlah bahan pangan melonjak di beberapa daerah, dengan harga tepung tapioka di Yogyakarta naik hampir 100 persen sehingga pedagang terpaksa memperkecil ukuran dagangan.",
+  "takeaway": "Lonjakan harga bahan pangan ini penting bagi pembaca ekonomi karena berkaitan langsung dengan inflasi dan daya beli masyarakat.",
+  "terbit": "2026-11-09T09:37:43+00:00"
+ },
+ {
+  "id": "OlEMGlYVJ7M",
+  "title": "Bank Indonesia Gelar Capacity Building untuk Jurnalis",
+  "category": "Moneter",
+  "program": "Kabar Merah Putih",
+  "summary": "Bank Indonesia menggelar kegiatan capacity building bagi 41 jurnalis media nasional di Sabang, Aceh, yang membahas ekonomi regional dan potensi daerah tersebut.",
+  "takeaway": "Kegiatan ini relevan bagi pembaca ekonomi karena menyoroti upaya Bank Indonesia memperkuat pemahaman tentang ekonomi regional dan potensi daerah seperti Sabang.",
+  "terbit": "2026-11-09T09:35:55+00:00"
+ },
+ {
   "id": "nFT0pcs-bTE",
   "title": "Harga Tepung Naik, Penjual Kue Terpaksa Naikkan Harga Jual",
   "category": "UMKM",

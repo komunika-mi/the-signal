@@ -152,7 +152,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Kenaikan IKK dari 118,1 ke 119,9 ini adalah data bulan kedua yang bisa dibandingkan dalam rilis ini, jadi belum cukup untuk memastikan apakah ini awal tren penguatan belanja masyarakat atau sekadar fluktuasi sesaat. Pihak yang paling berkepentingan dengan arah indeks ini adalah peritel dan produsen barang konsumsi, karena keyakinan konsumen biasa dipakai sebagai sinyal dini permintaan sebelum data belanja riil keluar. Yang masih kurang adalah data bulan-bulan sebelum September untuk melihat apakah kenaikan ini bagian dari pola naik bertahap. Itu akan mulai terjawab saat Bank Indonesia merilis Survei Konsumen November 2026, yang biasanya keluar awal bulan berikutnya.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "strk-jelaskan-ke-bursa-soal-pengambilalihan-saham-oleh-bbs",

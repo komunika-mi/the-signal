@@ -3,6 +3,217 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "goll-resmi-delisting-dari-bei-efektif-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "GOLL Resmi [Delisting] dari BEI, Efektif 10 November 2026",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan saham GOLL mulai 10 November 2026 karena forced delisting dan go private, bagian dari 18 emiten yang didelisting bersamaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:22:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/583b1aac8d_62c0b5de2e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GOLL",
+  "tags": [
+   "GOLL",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan penghapusan pencatatan (delisting) saham PT Golden Plantation Tbk dengan kode GOLL, efektif 10 November 2026. Alasan yang dicatat BEI adalah 'Forced Delisting dan Go Private'. Keputusan ini tertuang dalam surat Peng-DEL-00003/BEI.PP1/11-2026 yang diterbitkan Kepala Divisi Penilaian Perusahaan 1 BEI, Teuku Fahmi Ariandar, pada 9 November 2026.",
+   "GOLL bukan satu-satunya emiten yang terkena delisting pada tanggal ini. BEI mencatat total 18 perusahaan tercatat yang dihapus pencatatannya secara bersamaan per 10 November 2026, yaitu COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora). BEI merujuk pada pengumuman sebelumnya tanggal 10 April 2026 dan Peraturan Bursa Nomor I-N, yang memungkinkan delisting paksa bila emiten mengalami kondisi yang mengganggu kelangsungan usaha tanpa indikasi pemulihan, tidak memenuhi syarat pencatatan, atau sahamnya disuspensi di seluruh pasar selama minimal 24 bulan berturut-turut.",
+   "Dengan dicabutnya status sebagai perusahaan tercatat, GOLL tidak lagi memiliki kewajiban sebagai emiten di bursa dan namanya dihapus dari daftar perusahaan tercatat BEI. Delisting ini juga mencakup penghapusan pencatatan efek bersifat utang atau sukuk yang mungkin diterbitkan GOLL, namun hal itu tidak menghilangkan kewajiban perusahaan membayar bunga dan pokok kepada pemegang efek utang sesuai perjanjian wali amanat. Selama masih berstatus perusahaan publik, GOLL tetap wajib memperhatikan kepentingan pemegang saham publik serta mematuhi aturan keterbukaan informasi dan pelaporan ke Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Rows of oil palm trees in a plantation at dawn, workers collecting harvested fruit bunches, tropical mist in the background",
+  "takeaway": "Ini kabar negatif bagi pemegang saham publik GOLL, karena delisting paksa berarti saham mereka tidak lagi bisa diperjualbelikan lewat mekanisme bursa yang transparan dan ramai pembeli. Yang tersentuh di sini adalah likuiditas kepemilikan investor, setelah keluar dari bursa, menjual saham GOLL hanya bisa lewat transaksi negosiasi di luar pasar reguler, dengan calon pembeli dan acuan harga yang jauh lebih terbatas. Delisting ini juga menghapus pencatatan surat utang atau sukuk GOLL di bursa, meski perusahaan tetap wajib membayar bunga dan pokoknya ke pemegang surat utang sesuai perjanjian wali amanat, sehingga kewajiban itu tidak hilang. Yang perlu dipantau selanjutnya adalah apakah pengendali GOLL akan menggelar penawaran tender wajib untuk membeli saham milik pemegang saham publik sebagai bagian proses go private, karena dokumen BEI ini sendiri belum merinci langkah tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-resmi-delisting-saham-duck-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BEI Resmi [Delisting] Saham DUCK per 10 November 2026",
+  "deck": "Bursa Efek Indonesia mencabut status Perusahaan Tercatat DUCK (Jaya Bersama Indo) efektif 10 November 2026 akibat forced delisting dan go private, bersama 17 emiten lain.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:21:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0cd8491276_53b9b851f5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DUCK",
+  "tags": [
+   "DUCK",
+   "delisting",
+   "go private",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Jaya Bersama Indo Tbk (DUCK) dari Papan Pencatatan Pengembangan, efektif 10 November 2026. Dalam pengumuman bernomor Peng-DEL-00003/BEI.PP1/11-2026 yang diteken Teuku Fahmi Ariandar, Kepala Divisi Penilaian Perusahaan 1, penyebab yang dicantumkan adalah forced delisting dan go private.",
+   "Keputusan ini merujuk pada pengumuman awal BEI tanggal 10 April 2026 dan Peraturan Bursa Nomor I-N tentang Pembatalan Pencatatan (Delisting) dan Pencatatan Kembali (Relisting). Bursa dapat memaksa delisting bila emiten mengalami kondisi yang secara signifikan mengganggu kelangsungan usaha secara finansial atau hukum tanpa indikasi pemulihan yang memadai, tidak lagi memenuhi persyaratan pencatatan, dan/atau sahamnya disuspensi di Pasar Reguler dan Pasar Tunai selama minimal 24 bulan terakhir.",
+   "Dengan dicabutnya status sebagai Perusahaan Tercatat, Jaya Bersama Indo tidak lagi memiliki kewajiban pelaporan rutin ke bursa dan namanya dihapus dari daftar perusahaan tercatat. Delisting ini juga mencakup Efek Bersifat Utang dan/atau Sukuk yang pernah diterbitkan perseroan, namun kewajiban membayar bunga dan pokok kepada pemegang efek utang tersebut tetap berlaku sesuai Perjanjian Perwaliamanatan. Selama Jaya Bersama Indo masih berstatus Perusahaan Publik, perseroan tetap wajib memperhatikan kepentingan pemegang saham publik dan mematuhi aturan keterbukaan informasi ke Otoritas Jasa Keuangan.",
+   "Delisting DUCK berlangsung bersamaan dengan 17 perusahaan tercatat lain yang dihapus pencatatannya pada tanggal efektif yang sama, yaitu COWL (Cowell Development), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora)."
+  ],
+  "fotoAdegan": "Exterior facade of a modern glass office tower in Jakarta's business district at dusk, lights beginning to turn on",
+  "takeaway": "Pencabutan status perusahaan tercatat ini jelas negatif bagi pemegang saham publik DUCK, karena setelah delisting saham tidak lagi bisa diperjualbelikan di pasar reguler Bursa Efek Indonesia sehingga dana yang tertanam di saham ini kehilangan jalur keluar yang mudah. Yang tersentuh di sini adalah arus kas emiten, sebab meski sahamnya delisting, kewajiban membayar bunga dan pokok surat utang atau sukuk yang pernah diterbitkan Jaya Bersama Indo tetap harus dipenuhi sesuai perjanjian perwaliamanatan, artinya komitmen pembayaran ke pemegang obligasi tidak hilang hanya karena status tercatatnya dicabut. Yang perlu dipantau pemegang saham publik berikutnya adalah apakah Jaya Bersama Indo akan menggelar penawaran tender atau pembelian kembali saham sebagai bagian dari proses go private, serta apakah perseroan tetap memenuhi kewajiban keterbukaan informasi ke OJK selama statusnya masih sebagai Perusahaan Publik, karena penghapusan dari bursa tidak otomatis menghapus kewajiban tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "maba-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "MABA Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "Bursa mencabut pencatatan saham MABA bersama 17 emiten lain mulai 10 November 2026 akibat forced delisting dan go private.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:20:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4477de1d3d_5b4ab3c898.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MABA",
+  "tags": [
+   "MABA",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Marga Abhinaya Abadi Tbk (MABA) dari papan Pemantauan Khusus, efektif 10 November 2026. Dalam pengumuman bernomor Peng-DEL-00003/BEI.PP1/11-2026 yang ditandatangani Kepala Divisi Penilaian Perusahaan 1 Teuku Fahmi Ariandar, Bursa mencantumkan alasan delisting MABA sebagai 'Forced Delisting dan Go Private'. Keputusan ini meneruskan pengumuman awal Bursa pada 10 April 2026 yang sudah memulai proses delisting untuk emiten ini.",
+   "MABA bukan satu-satunya. Dalam dokumen yang sama, Bursa sekaligus mencabut pencatatan 17 emiten lain pada tanggal efektif yang identik, yaitu COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora). Bursa merujuk pada Peraturan Bursa Nomor I-N, yang memungkinkan delisting paksa bila emiten mengalami kondisi yang berdampak negatif signifikan pada kelangsungan usaha tanpa indikasi pemulihan, gagal memenuhi syarat pencatatan, atau sahamnya disuspensi di seluruh pasar selama minimal 24 bulan terakhir.",
+   "Bursa menegaskan bahwa jika MABA memiliki Efek Bersifat Utang dan/atau Sukuk (EBUS) yang tercatat, pencatatan instrumen itu juga ikut dihapus, namun kewajiban membayar bunga dan pokok kepada pemegang EBUS tetap berlaku sesuai Perjanjian Perwaliamanatan. Selama MABA masih berstatus perusahaan publik, perseroan tetap wajib memperhatikan kepentingan pemegang saham publik serta mematuhi aturan keterbukaan informasi dan pelaporan kepada Otoritas Jasa Keuangan. Bursa juga menyebutkan bahwa jika di kemudian hari MABA ingin kembali mencatatkan sahamnya di BEI, proses itu dapat dilakukan mengacu pada ketentuan pencatatan yang berlaku."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district, overcast sky, pedestrians walking past at street level",
+  "takeaway": "Ini kabar negatif bagi pemegang saham publik MABA, karena mulai 10 November 2026 saham mereka tidak lagi bisa diperdagangkan di pasar reguler BEI, dan status 'go private' yang disebut Bursa mengindikasikan perseroan memang berniat keluar dari status perusahaan terbuka. Delisting semacam ini tidak langsung mengubah ekuitas atau laba perusahaan di atas kertas, tapi yang benar-benar tersentuh adalah likuiditas, yaitu kemampuan pemegang saham mencairkan kepemilikannya karena pasar resmi untuk jual beli sahamnya hilang; kalau MABA juga punya surat utang atau sukuk yang tercatat, itu pun ikut dihapus dari bursa meski kewajiban membayar bunga dan pokoknya ke kreditor tetap jalan seperti biasa. Yang perlu dipantau selanjutnya adalah apakah MABA menjalankan proses lanjutan terkait status go private, misalnya penawaran pembelian kembali saham publik, serta apakah perseroan tetap memenuhi kewajiban lapor ke OJK selama statusnya sebagai perusahaan publik belum resmi dicabut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "envy-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "ENVY Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "Bursa menghapus pencatatan saham ENVY efektif 10 November 2026 karena forced delisting dan go private, bersamaan dengan 17 emiten lain.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:20:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d216df89b0_67ed67ef2a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENVY",
+  "tags": [
+   "ENVY",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Envy Technologies Indonesia Tbk (ENVY) dari papan perdagangan, efektif 10 November 2026. Dalam pengumuman yang ditandatangani Kepala Divisi Penilaian Perusahaan 1 BEI, Teuku Fahmi Ariandar, pada 9 November 2026, alasan yang tercatat adalah forced delisting dan go private, artinya penghapusan ini bukan permintaan sukarela dari perusahaan, melainkan keputusan bursa.",
+   "Keputusan ini merujuk pada pengumuman sebelumnya tanggal 10 April 2026 dan mengacu pada Peraturan Bursa Nomor I-N tentang Delisting dan Relisting. Bursa dapat mencoret saham sebuah perusahaan tercatat jika memenuhi salah satu atau lebih dari tiga kondisi: perusahaan mengalami gangguan signifikan terhadap kelangsungan usahanya baik secara finansial maupun hukum tanpa indikasi pemulihan yang memadai, perusahaan tidak lagi memenuhi persyaratan pencatatan di bursa, atau sahamnya telah disuspensi perdagangan di Pasar Reguler, Pasar Tunai, atau seluruh pasar selama paling sedikit 24 bulan terakhir. ENVY dicoret bersamaan dengan 17 emiten lain dalam satu paket pengumuman, yaitu COWL (Cowell Development), DUCK (Jaya Bersama Indo), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora).",
+   "Dokumen ini menjelaskan bahwa setelah status perusahaan tercatat dicabut, ENVY tidak lagi memiliki kewajiban yang berlaku bagi perusahaan tercatat dan BEI akan menghapus namanya dari daftar perusahaan yang sahamnya diperdagangkan di bursa. Jika suatu saat ENVY ingin mencatatkan sahamnya kembali, prosesnya harus mengikuti aturan pencatatan yang berlaku layaknya pencatatan baru. Delisting ini juga mencakup penghapusan efek bersifat utang dan atau sukuk yang diterbitkan ENVY, namun kewajiban membayar bunga dan pokok utang kepada pemegang efek tersebut tetap berjalan sesuai perjanjian wali amanat. Selama ENVY masih berstatus perusahaan publik, perseroan tetap diwajibkan memperhatikan kepentingan pemegang saham publik dan mematuhi aturan keterbukaan informasi serta pelaporan kepada OJK."
+  ],
+  "fotoAdegan": "Exterior facade of a tall Jakarta office tower under overcast sky, empty plaza in foreground, no visible signage",
+  "takeaway": "Laporan ini NEGATIF bagi pemegang saham publik ENVY, karena forced delisting berarti bursa menilai perusahaan gagal menunjukkan pemulihan yang memadai atau sahamnya sudah lama disuspensi, bukan pilihan sukarela dari manajemen. Pos yang langsung tersentuh adalah likuiditas saham, yaitu kemudahan pemegang saham mencairkan investasinya lewat jual beli di pasar terbuka, sebab begitu dicoret dari bursa, saham ENVY tidak lagi bisa diperdagangkan lewat sistem BEI. Dokumen ini juga menegaskan bahwa kewajiban membayar bunga dan pokok utang atau sukuk ENVY tetap berjalan sesuai perjanjian wali amanat, jadi pemegang surat utang tidak otomatis dirugikan. Yang perlu dipantau berikutnya adalah apakah ENVY, yang menurut dokumen ini tetap wajib memperhatikan kepentingan pemegang saham publik selama masih berstatus perusahaan publik, akan menjalankan mekanisme pembelian kembali saham milik investor publik sesuai aturan go private OJK.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mtra-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "MTRA Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "Bursa Efek Indonesia mencabut status perusahaan tercatat MTRA efektif 10 November 2026 karena forced delisting dan go private, bersama 17 emiten lain yang juga delisting bersamaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:19:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/29a361eaf3_6e7565bb82.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTRA",
+  "tags": [
+   "MTRA",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Mitra Pemuda Tbk (MTRA) dari papan pencatatan, efektif 10 November 2026. Dalam pengumuman bernomor Peng-DEL-00003/BEI.PP1/11-2026 yang diteken Kepala Divisi Penilaian Perusahaan 1 BEI, Teuku Fahmi Ariandar, penyebab delisting tertulis sebagai 'Forced Delisting dan Go Private'. Keputusan ini menindaklanjuti pengumuman bursa sebelumnya pada 10 April 2026 yang sudah memberi sinyal awal rencana pencabutan status perusahaan tercatat MTRA.",
+   "BEI menjelaskan, penghapusan paksa pencatatan saham dilakukan berdasarkan Peraturan Bursa Nomor I-N, yang memungkinkan delisting jika perusahaan mengalami kondisi yang berdampak negatif signifikan pada kelangsungan usaha tanpa indikasi pemulihan yang memadai, tidak lagi memenuhi syarat pencatatan di bursa, atau sahamnya disuspensi sekurang-kurangnya 24 bulan berturut-turut di pasar reguler, pasar tunai, atau seluruh pasar. MTRA bukan satu-satunya emiten yang terkena dampak pada keputusan ini. Dalam pengumuman yang sama, BEI juga mendelisting 17 emiten lain secara bersamaan, yaitu COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora).",
+   "Dengan status Perusahaan Tercatat dicabut, MTRA tidak lagi terikat kewajiban pelaporan dan keterbukaan informasi sebagai emiten di BEI, dan namanya dihapus dari daftar perusahaan yang sahamnya diperdagangkan di bursa. BEI menyebut delisting ini juga berlaku untuk efek bersifat utang dan sukuk yang pernah diterbitkan MTRA, meski penghapusan itu tidak menghilangkan kewajiban perusahaan membayar bunga dan pokok utang kepada pemegang efek tersebut sesuai perjanjian perwaliamanatan. BEI mengingatkan, selama MTRA masih berstatus perusahaan publik, perusahaan tetap wajib memperhatikan kepentingan pemegang saham publik serta mematuhi aturan keterbukaan informasi dan pelaporan kepada Otoritas Jasa Keuangan (OJK)."
+  ],
+  "fotoAdegan": "Workers welding steel truss structures at an outdoor fabrication yard in Indonesia, sparks flying under an overcast sky.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik MTRA, karena begitu delisting berlaku pada 10 November 2026, saham mereka tidak lagi bisa diperjualbelikan lewat mekanisme bursa yang transparan. Yang tersentuh di sini adalah likuiditas saham, yaitu kemudahan pemegang saham mengubah lembar sahamnya menjadi uang tunai. Begitu MTRA keluar dari bursa, harga sahamnya tidak lagi terbentuk lewat tawar menawar terbuka, sehingga investor minoritas harus mencari jalur lain, misalnya transaksi langsung di luar bursa, untuk melepas kepemilikannya. Yang perlu dipantau selanjutnya adalah apakah MTRA benar-benar menjalankan kewajiban yang disebut BEI untuk memperhatikan kepentingan pemegang saham publik, termasuk kemungkinan pembelian kembali saham dari investor minoritas, serta bagaimana perusahaan tetap melaporkan keterbukaan informasi ke OJK selama statusnya masih perusahaan publik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sbat-resmi-kena-delisting-paksa-dari-bei-efektif-10-november",
+  "category": "Aksi Korporasi",
+  "title": "SBAT Resmi Kena [Delisting] Paksa dari BEI, Efektif 10 November",
+  "deck": "Bursa menghapus pencatatan saham SBAT secara paksa efektif 10 November 2026, satu paket dengan 17 emiten lain yang juga didelisting hari itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:18:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/269b59ba05_4f2bed2560.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SBAT",
+  "tags": [
+   "SBAT",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Sejahtera Bintang Abadi Textile Tbk (SBAT) dari papan pemantauan khusus, efektif 10 November 2026, dengan alasan yang tertulis dalam pengumuman sebagai \"Forced Delisting dan Go Private\". Pengumuman bernomor Peng-DEL-00003/BEI.PP1/11-2026 ini ditandatangani Kepala Divisi Penilaian Perusahaan 1 BEI, Teuku Fahmi Ariandar, pada 9 November 2026. SBAT tidak sendirian, dalam pengumuman yang sama Bursa juga mendelisting 17 emiten lain pada tanggal efektif yang sama, yaitu COWL, DUCK, ENVY, GOLL, LCGP, LMAS, MABA, MTRA, PLAS, SKYB, SRIL, SUGI, TDPM, TELE, TOYS, TRIL, dan UNIT.",
+   "Dasar hukumnya adalah Peraturan Bursa Nomor I-N tentang Pembatalan Pencatatan (Delisting) dan Pencatatan Kembali (Relisting). Menurut aturan itu, Bursa bisa mendelisting paksa sebuah perusahaan tercatat bila memenuhi salah satu dari tiga kondisi: perusahaan mengalami kondisi atau peristiwa signifikan yang berdampak negatif pada kelangsungan usahanya, baik secara finansial maupun hukum, tanpa indikasi pemulihan yang memadai; perusahaan tidak lagi memenuhi persyaratan pencatatan di Bursa; atau sahamnya telah disuspensi perdagangan di Pasar Reguler dan Pasar Tunai, atau di seluruh pasar, selama minimal 24 bulan terakhir.",
+   "Dengan dicabutnya status sebagai perusahaan tercatat, SBAT tidak lagi memiliki kewajiban sebagai emiten di Bursa dan namanya akan dihapus dari daftar perusahaan tercatat. Delisting ini juga mencakup penghapusan pencatatan efek bersifat utang dan atau sukuk (EBUS) yang pernah diterbitkan Perseroan, namun penghapusan itu tidak menghilangkan kewajiban Perseroan untuk membayar bunga dan pokok EBUS kepada para pemegangnya sesuai perjanjian perwaliamanatan. Selama SBAT masih berstatus perusahaan publik, perusahaan tetap wajib memperhatikan kepentingan pemegang saham publik dan memenuhi ketentuan keterbukaan informasi serta pelaporan kepada Otoritas Jasa Keuangan (OJK)."
+  ],
+  "fotoAdegan": "Rows of idle textile looms covered in dust inside a dim, quiet factory hall, afternoon light through high windows",
+  "takeaway": "Delisting paksa ini negatif bagi pemegang saham publik SBAT, karena ini menjadi penutup dari rangkaian masalah yang sudah terlihat sejak perusahaan dinyatakan pailit dengan opini disclaimer dari auditor dan tender wajib di harga rendah Rp2 per saham. Pos yang tersentuh di sini adalah arus kas, yakni kemampuan perusahaan membayar kewajiban secara tunai, sebab meski sahamnya dihapus dari bursa, SBAT tetap wajib membayar bunga dan pokok efek utang atau sukuk yang pernah diterbitkannya sesuai perjanjian perwaliamanatan, padahal kondisi keuangannya sendiri sudah dinyatakan tidak sehat oleh auditor. Pelaku pasar memperhatikan pos ini karena setelah delisting, perusahaan kehilangan akses mudah ke pendanaan publik lewat pasar modal, sehingga kemampuannya menutup kewajiban utang makin bergantung pada kas internal yang terbatas. Yang perlu dipantau selanjutnya adalah bagaimana proses go private dijalankan setelah tanggal efektif 10 November 2026, termasuk apakah ada mekanisme lanjutan bagi pemegang saham publik yang tersisa untuk melepas kepemilikannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wbsa-catat-laba-9m26-turun-55-meski-pendapatan-naik-31",
+  "category": "Aksi Korporasi",
+  "title": "WBSA Catat [Laba] 9M26 Turun 55% Meski Pendapatan Naik 31%",
+  "deck": "Materi public expose WBSA mengungkap laba bersih sembilan bulan 2026 turun 55 persen menjadi Rp13 miliar, meski pendapatan naik 31 persen jadi Rp2,9 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T20:57:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b578c2dc1e_e7f4beb126.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WBSA",
+  "tags": [
+   "WBSA",
+   "logistik",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT BSA Logistics Indonesia Tbk (WBSA) akan menggelar Public Expose Tahunan 2026 pada Kamis, 12 November 2026, pukul 14.00 WIB sampai selesai, secara virtual melalui Google Meet. Surat yang ditandatangani Direktur Utama Edwin Wibowo ini merupakan kelanjutan dari pemberitahuan rencana acara pada 29 Oktober 2026. Calon peserta diminta mendaftar lebih dulu melalui tautan yang disediakan perseroan sebelum mengikuti paparan.",
+   "Materi presentasi yang disampaikan ke Bursa Efek Indonesia memuat kinerja keuangan sembilan bulan pertama 2026 (9M26). Pendapatan bersih naik 31,3 persen secara tahunan menjadi Rp2,899 triliun, dari Rp2,208 triliun pada 9M25. Namun laba bersih justru turun 55,4 persen menjadi Rp13 miliar dari Rp30 miliar, sementara laba kotor turun 13,2 persen menjadi Rp237 miliar dan laba operasional turun 23,7 persen menjadi Rp64 miliar. Margin laba kotor tergerus dari 12,4 persen menjadi 8,2 persen, margin operasional dari 3,8 persen menjadi 2,2 persen, dan margin laba bersih dari 1,4 persen menjadi 0,5 persen.",
+   "Dari sisi segmen, bisnis freight forwarding dan pelayaran menyumbang 56 persen pendapatan 9M26, disusul transportasi darat 37 persen dan pergudangan 7 persen. Dari sisi volume, jumlah perjalanan truk naik 9,0 persen menjadi 489,1 ribu trip dan volume freight naik 12,1 persen menjadi 6,1 juta ton, sementara volume pelayaran lewat anak usaha PT BIL turun 0,6 persen menjadi 5,4 juta ton. Perseroan mencatat rasio utang terhadap ekuitas turun dari 1,24 kali pada akhir 2025 menjadi 0,88 kali pada September 2026, dan rasio utang bersih terhadap ekuitas turun dari 0,87 kali menjadi 0,45 kali pada periode yang sama.",
+   "Materi juga memuat sejumlah milestone korporasi sepanjang 2025 dan 2026, antara lain perolehan peringkat kredit A dari KRI untuk penerbitan MTN senilai Rp30 miliar, pembukaan cabang Makassar dan gudang baru 4.900 meter persegi di Jakarta, pencatatan saham perdana di BEI, akuisisi perusahaan operator pelayaran, serta perluasan jaringan ke Papua."
+  ],
+  "fotoAdegan": "Trucks lined up at a logistics warehouse loading dock, workers checking cargo pallets, early morning light near a Jakarta port area.",
+  "takeaway": "Laporan ini condong negatif karena meski pendapatan sembilan bulan 2026 melonjak 31 persen menjadi Rp2,9 triliun, laba bersih justru anjlok 55 persen menjadi Rp13 miliar, tanda biaya operasional naik lebih cepat dari penjualan. Yang tersentuh adalah margin laba, yakni porsi pendapatan yang benar-benar menjadi keuntungan setelah semua biaya dikeluarkan: margin laba kotor WBSA turun dari 12,4 persen jadi 8,2 persen dan margin laba bersih dari 1,4 persen jadi 0,5 persen dalam setahun, berarti perusahaan harus menjual lebih banyak jasa logistik untuk menghasilkan untung yang sama. Satu sisi positif yang tetap perlu diperhitungkan adalah rasio utang terhadap ekuitas yang turun dari 1,24 kali di akhir 2025 menjadi 0,88 kali pada September 2026, menunjukkan beban utang perusahaan terhadap modalnya mengecil. Yang perlu dipantau berikutnya adalah paparan manajemen pada Public Expose Tahunan, Kamis 12 November 2026 pukul 14.00 WIB, yang kemungkinan akan menjelaskan sebab tergerusnya margin di tengah pertumbuhan pendapatan yang kuat ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inet-catat-laba-naik-dana-rights-issue-baru-6-35-terserap",
+  "category": "Aksi Korporasi",
+  "title": "INET Catat Laba Naik, Dana Rights Issue Baru [6,35%] Terserap",
+  "deck": "INET mengungkap pendapatan 9M 2026 melonjak akibat konsolidasi anak usaha baru, sementara dana rights issue, obligasi, dan sukuk senilai Rp4,19 triliun baru terserap 6,35 persen hingga Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T20:56:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/70f5bbc030_67dfab99bb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "public expose",
+   "realisasi dana",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Sinergi Inti Andalan Prima Tbk (INET) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia menjelang acara pemaparan yang akan digelar Kamis, 12 November 2026 pukul 14.00 WIB secara daring. Dalam materi itu, direksi memaparkan kinerja sembilan bulan pertama 2026 serta rencana bisnis ke depan, dengan Direktur Utama Muhammad Arif sebagai penandatangan surat pemberitahuan kepada bursa.",
+   "Pendapatan neto konsolidasian INET pada sembilan bulan pertama 2026 tercatat Rp1.546,55 miliar, melonjak dari Rp68,60 miliar pada periode yang sama tahun 2025. Laba periode berjalan naik dari Rp19,37 miliar menjadi Rp59,13 miliar, dan laba yang menjadi hak pemilik induk naik dari Rp19,37 miliar menjadi Rp58,06 miliar. Namun lonjakan pendapatan itu didominasi segmen jasa alih daya tenaga kerja senilai Rp1.264,60 miliar atau 81,8 persen dari total, dengan margin laba bruto hanya 3,6 persen. Segmen layanan internet yang jauh lebih kecil, Rp281,95 miliar atau 18,2 persen dari total, justru memiliki margin laba bruto 60,5 persen.",
+   "Dari sisi neraca, total ekuitas perusahaan melonjak dari Rp429,21 miliar pada akhir 2025 menjadi Rp3.949,64 miliar pada September 2026, sementara total aset naik dari Rp760,37 miliar menjadi Rp6.501,67 miliar. Lonjakan ini terutama berasal dari rangkaian aksi korporasi sepanjang 2026: penawaran umum terbatas (PMHMETD I) senilai Rp3,195 triliun pada Januari, penerbitan Obligasi I dan Sukuk Ijarah I senilai total Rp1 triliun yang tercatat di BEI pada 6 Februari 2026, bergabungnya PT Personel Alih Daya (53,57 persen) dan PT Trans Hybrid Communication (60 persen) pada semester pertama, konsolidasi PT Internusa Duta Makmur (99,76 persen melalui anak usaha GPI) pada Juni, serta akuisisi 60 persen saham PT Sarana Global Indonesia pada September.",
+   "Dari total dana bruto Rp4,195 triliun yang terkumpul dari rights issue, obligasi, dan sukuk tersebut, laporan realisasi penggunaan dana per 30 Juni 2026 mencatat baru Rp265,59 miliar atau 6,35 persen yang terpakai, dengan sisa Rp3.915,45 miliar. Perinciannya, dari dana bersih PMHMETD I Rp3.193,45 miliar baru terpakai Rp181,60 miliar (5,69 persen), dari Obligasi I Rp493,79 miliar terpakai Rp44,94 miliar (9,10 persen), dan dari Sukuk Ijarah I Rp493,80 miliar terpakai Rp39,05 miliar (7,91 persen). Perusahaan juga menyebutkan proyek kabel laut Sarana Global Indonesia Cable System sepanjang 6.837 kilometer dengan 14 titik pendaratan masih berstatus perencanaan, sementara ekspansi FTTH diarahkan ke Bali-Lombok dan Kalimantan Barat, dan Seri A Obligasi serta Sukuk akan jatuh tempo Februari 2027."
+  ],
+  "fotoAdegan": "A cable-laying ship deck with large spools of undersea fiber optic cable, crew working, open sea in the background",
+  "takeaway": "Laporan ini netral bagi fundamental INET: lonjakan pendapatan yang terlihat spektakuler sebagian besar berasal dari masuknya anak usaha jasa alih daya tenaga kerja yang marginnya cuma 3,6 persen, bukan dari bisnis internet inti yang justru jauh lebih menguntungkan dengan margin 60,5 persen. Pos yang tersentuh adalah ekuitas, yaitu modal pemegang saham, yang melonjak sembilan kali lipat menjadi Rp3,95 triliun karena suntikan dana rights issue awal tahun, serta kas perusahaan yang menggembung karena dari total Rp4,195 triliun dana yang terkumpul dari rights issue, obligasi, dan sukuk, baru 6,35 persen yang benar-benar dibelanjakan hingga akhir Juni 2026. Artinya sebagian besar dana segar itu masih mengendap sebagai kas dan belum menghasilkan pendapatan baru bagi pemegang saham yang sudah terdilusi oleh rights issue tersebut. Yang perlu dipantau berikutnya adalah kelanjutan proyek kabel laut SGI-CS yang masih berstatus perencanaan serta pembangunan FTTH di Bali-Lombok dan Kalimantan Barat, dan yang lebih mendesak adalah jatuh tempo Seri A Obligasi dan Sukuk Ijarah pada Februari 2027 yang akan menguji kemampuan arus kas perusahaan membayar kembali investor.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ekspor-camilan-dua-kelinci-ke-australia-tembus-rp1-03-miliar",
   "category": "Industri",
   "title": "Ekspor Camilan Dua Kelinci ke Australia Tembus [Rp1,03] Miliar",
@@ -55,6 +266,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang patut dicatat dari laporan ini adalah urutan kecepatan tumbuhnya: laba naik 16,8 persen, lebih cepat dari kredit yang naik 14,5 persen, dan keduanya lebih cepat dari aset yang hanya naik 10,1 persen. Pola seperti ini biasanya berarti bank mendapat untung lebih besar dari setiap rupiah kredit yang disalurkan, bukan sekadar membesar volumenya, meski rilis ini tidak merinci dari mana perbaikan margin itu berasal. Pihak yang paling berkaitan dengan angka ini adalah nasabah UMKM, karena mereka tetap menguasai 75,9 persen dari seluruh kredit BRI, sementara segmen konsumer yang disebut sebagai mesin pertumbuhan baru justru tumbuh lebih lambat, 9 persen, dibanding kredit secara keseluruhan. Yang masih kurang untuk memastikan apakah efisiensi ini benar tren atau sekadar momentum satu kuartal adalah data kualitas kredit, seperti berapa banyak kredit yang berisiko tidak terbayar, yang biasanya baru diungkap lengkap dalam laporan keuangan audit tahun buku 2026.",
   "imageV": "mw9bbdmx"
+ },
+ {
+  "slug": "oppm-terbitkan-obligasi-rp1-15-triliun-di-bawah-target-rp3-33-t",
+  "category": "Aksi Korporasi",
+  "title": "OPPM Terbitkan Obligasi [Rp1,15 Triliun], Di Bawah Target Rp3,33 T",
+  "deck": "Obligasi rupiah dan dolar OPPM tahap terbaru rampung diterbitkan dengan nilai jauh lebih kecil dari rencana awal, sementara bunga tetap dipatok 10 hingga 10,5 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T20:20:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f07fbf832b_934e281453.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OPPM",
+  "tags": [
+   "OPPM",
+   "obligasi korporasi",
+   "pasar modal",
+   "OKI Pulp Paper Mills"
+  ],
+  "body": [
+   "PT OKI Pulp & Paper Mills (OPPM) mengumumkan bahwa proses penawaran umum berkelanjutan Obligasi Berkelanjutan II Tahap VI Tahun 2026 dan Obligasi USD Berkelanjutan II Tahap V Tahun 2026 telah selesai pada 9 November 2026. Dari rencana awal menawarkan hingga Rp3,33 triliun, perusahaan akhirnya hanya menerbitkan obligasi rupiah senilai Rp1,1475 triliun, terbagi dalam dua seri. Untuk obligasi dolar, dari rencana hingga US$25 juta, yang benar benar terserap hanya US$3.203.500.",
+   "Obligasi rupiah Seri A senilai Rp1,02182 triliun membawa bunga tetap 10 persen per tahun dengan tenor tiga tahun, sementara Seri B senilai Rp125,73 miliar membawa bunga 10,5 persen per tahun dengan tenor lima tahun. Kedua seri memakai skema pembayaran pokok sekali penuh di akhir masa (bullet payment), dengan bunga dibayarkan setiap tiga bulan. Pembayaran bunga pertama dijadwalkan 12 Februari 2027, sedangkan pelunasan pokok sekaligus jatuh tempo masing masing pada 12 November 2029 untuk Seri A dan 12 November 2031 untuk Seri B.",
+   "Untuk obligasi dolar, Seri A senilai US$2,12 juta membawa bunga 6,75 persen per tahun bertenor tiga tahun, dan Seri B senilai US$1.083.500 membawa bunga 7,25 persen per tahun bertenor lima tahun, dengan jadwal bunga dan jatuh tempo yang sama seperti obligasi rupiah. Penjaminan emisi obligasi rupiah dipimpin oleh BCA Sekuritas yang mengambil porsi terbesar 26,77 persen, disusul Aldiracita Sekuritas 15,87 persen, sementara sisanya dibagi ke tujuh penjamin emisi lain. PT Bank KB Indonesia Tbk bertindak sebagai wali amanat untuk kedua obligasi, dan dokumen ditandatangani oleh Direktur OPPM, Arman Dwiartono."
+  ],
+  "fotoAdegan": "Workers monitoring large rolls of brown kraft paper stacked inside an industrial pulp mill warehouse, cranes overhead, dim morning light",
+  "takeaway": "Laporan ini kami nilai negatif bagi OPPM karena obligasi yang akhirnya terserap jauh lebih kecil dari rencana: hanya sekitar 34 persen dari target rupiah dan 13 persen dari target dolar, yang mengindikasikan minat investor terhadap surat utang ini lebih rendah dari perkiraan awal perusahaan. Yang tersentuh adalah beban bunga dan arus kas pendanaan: dengan bunga tetap 10 hingga 10,5 persen untuk obligasi rupiah dan 6,75 hingga 7,25 persen untuk obligasi dolar, OPPM akan menanggung kewajiban bunga setiap tiga bulan sampai obligasi lunas, sementara dana yang masuk dari penerbitan ini tercatat sebagai arus kas dari aktivitas pendanaan yang menambah utang perusahaan meski dalam jumlah lebih kecil dari target semula. Yang perlu dipantau selanjutnya adalah pembayaran bunga pertama pada 12 Februari 2027, serta jatuh tempo pelunasan pokok pada 12 November 2029 untuk Seri A dan 12 November 2031 untuk Seri B, baik untuk obligasi rupiah maupun dolar.",
+  "sentimen": "negatif"
  },
  {
   "slug": "rans-resmi-batalkan-kerja-sama-konser-d-masiv-tur-asia",
@@ -265,6 +502,82 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "buva-direksi-timothy-alamsyah-tambah-843-875-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Direksi Timothy Alamsyah [Tambah] 843.875 Saham",
+  "deck": "Direktur BUVA Timothy Eugene Alamsyah membeli 843.875 saham tidak langsung seharga Rp250 per saham, menambah kepemilikannya jadi 4,22 juta saham tanpa mengubah hak suaranya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:42:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-2010-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "kepemilikan saham",
+   "direksi",
+   "insider buying"
+  ],
+  "body": [
+   "PT Bukit Uluwatu Villa Tbk (BUVA) menyampaikan laporan kepemilikan saham dari Timothy Eugene Alamsyah, yang menjabat sebagai Direktur perseroan, kepada Otoritas Jasa Keuangan pada 9 November 2026. Dalam laporan itu, Timothy tercatat membeli 843.875 lembar saham BUVA secara tidak langsung pada 2 November 2026, dengan harga Rp250 per saham dan tujuan transaksi untuk investasi.",
+   "Sebelum transaksi, Timothy memegang 3.375.800 lembar saham BUVA. Setelah pembelian tersebut, kepemilikannya naik menjadi 4.219.675 lembar saham, atau bertambah sekitar 25 persen dari posisi sebelumnya. Meski jumlah sahamnya bertambah signifikan secara persentase pribadi, hak suaranya di perseroan tidak berubah, tetap berada di angka 0,01 persen, sehingga transaksi ini tidak mengubah peta kendali BUVA.",
+   "Laporan ini melanjutkan rangkaian transaksi pembelian saham oleh sejumlah direksi dan pemegang saham BUVA dalam sepekan terakhir, termasuk pembelian oleh direksi Cindy Budijono dan Satrio, serta penambahan oleh pemegang saham Hapsoro. Seluruh laporan tersebut tercatat sebagai pembelian, bukan pelepasan saham, dan tidak satu pun mengubah hak suara pelapor secara material."
+  ],
+  "fotoAdegan": "Cliffside villa resort with an infinity pool overlooking the ocean at Uluwatu, Bali, soft early morning light, no people visible",
+  "takeaway": "Laporan ini netral bagi BUVA, karena meski kepemilikan pribadi Timothy Eugene Alamsyah melonjak hampir 25 persen menjadi 4,22 juta saham, porsinya terhadap total saham BUVA tetap mini sehingga hak suaranya di rapat pemegang saham tidak bergerak dari 0,01 persen. Pos yang tersentuh di sini cuma struktur kepemilikan internal, bukan jumlah saham beredar BUVA secara keseluruhan, sebab pembelian ini terjadi di pasar sekunder antarpemegang saham, bukan penerbitan saham baru yang bisa menggerus laba per saham pemegang lain. Yang perlu dipantau adalah apakah pola pembelian oleh direksi dan pemegang saham BUVA yang muncul beruntun dalam sepekan terakhir ini masih berlanjut, karena rangkaian pembelian insider pada harga yang sama, Rp250 per saham, bisa dibaca pasar sebagai sinyal keyakinan terhadap valuasi perusahaan saat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "buva-komisaris-astini-tambah-750-000-saham-rp187-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Komisaris Astini [Tambah] 750.000 Saham Rp187,5 Juta",
+  "deck": "Komisaris BUVA, Astini Bernawati Oudang, membeli 750.000 saham tambahan senilai Rp187,5 juta, menaikkan kepemilikannya 15 persen meski hak suaranya tetap 0,02 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:38:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-8716-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "komisaris",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "body": [
+   "Astini Bernawati Oudang, anggota Dewan Komisaris PT Bukit Uluwatu Villa Tbk (BUVA), melaporkan kepada Otoritas Jasa Keuangan perubahan kepemilikan sahamnya di perusahaan. Sebelum transaksi, Astini memegang 5.000.000 lembar saham BUVA, setara 0,02 persen hak suara. Setelah transaksi, kepemilikannya naik menjadi 5.750.000 lembar, namun hak suaranya tidak berubah dari 0,02 persen.",
+   "Penambahan sebanyak 750.000 lembar saham biasa ini berasal dari pembelian tidak langsung pada 2 November 2026, dengan harga Rp250 per saham, sehingga total nilai transaksi mencapai Rp187,5 juta. Dalam laporannya ke OJK, tujuan transaksi dicatat sebagai investasi."
+  ],
+  "fotoAdegan": "Aerial view of cliffside villa rooftops and infinity pools in Bali, soft morning light, ocean in the background",
+  "takeaway": "Laporan ini netral bagi BUVA, sebab meski pembelian menambah kepemilikan pribadi Astini sebesar 15 persen menjadi 5,75 juta saham, porsinya terhadap total saham perusahaan tetap kecil sehingga hak suaranya tak bergeser dari 0,02 persen. Pos yang tersentuh hanya struktur kepemilikan internal, bukan jumlah saham beredar perusahaan maupun laba per saham, karena transaksi ini sekadar pemindahan saham yang sudah ada di pasar ke tangan komisaris, bukan penerbitan saham baru oleh perusahaan. Pelaku pasar biasanya mencermati transaksi insider semacam ini untuk membaca keyakinan pengurus terhadap kinerja perusahaan ke depan, tapi nilai Rp187,5 juta ini terlalu kecil untuk dibaca sebagai sinyal kuat. Yang perlu dipantau selanjutnya adalah apakah pembelian serupa oleh direksi dan komisaris BUVA berlanjut dalam laporan keterbukaan berikutnya ke OJK.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "buva-tirta-orisa-yasa-tambah-114-96-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Tirta Orisa Yasa [Tambah] 114,96 Juta Saham",
+  "deck": "PT Tirta Orisa Yasa membeli 114,96 juta saham BUVA secara tidak langsung senilai Rp250 per lembar pada 2 November 2026, namun hak suaranya tetap 1,87 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:32:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-7882-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "kepemilikan saham",
+   "pemegang saham",
+   "Bukit Uluwatu Villa"
+  ],
+  "body": [
+   "PT Tirta Orisa Yasa melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menambah kepemilikan saham PT Bukit Uluwatu Villa Tbk (BUVA) sebanyak 114.956.519 lembar melalui pembelian tidak langsung pada 2 November 2026. Dengan transaksi ini, jumlah saham BUVA yang dipegang Tirta Orisa Yasa naik dari 459.826.076 lembar menjadi 574.782.595 lembar, atau bertambah sekitar 25 persen dari kepemilikan sebelumnya. Transaksi dilakukan pada harga Rp250 per saham, sehingga nilai pembeliannya sekitar Rp28,74 miliar, dengan tujuan investasi.",
+   "Meski jumlah saham yang dipegang melonjak signifikan, hak suara Tirta Orisa Yasa di BUVA tidak berubah, tetap di angka 1,87 persen baik sebelum maupun sesudah transaksi. Laporan ini tercatat dengan nomor LK/09112026/0015/1 dan disampaikan sesuai Pasal 2 Ayat 2 POJK Nomor 4/2024 yang mewajibkan pemegang saham melaporkan setiap perubahan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Infinity pool overlooking the ocean at a hillside villa resort in Bali, palm trees swaying in early morning light",
+  "takeaway": "Catatan ini netral bagi BUVA, sebab meski jumlah saham yang dibeli Tirta Orisa Yasa melonjak 25 persen dari kepemilikan sebelumnya, hak suaranya di perusahaan tetap di 1,87 persen sehingga peta kendali BUVA tidak bergeser. Transaksi ini murni pemindahan saham yang sudah beredar di pasar sekunder, bukan penerbitan saham baru, sehingga tidak menambah jumlah saham beredar BUVA maupun mengubah pos ekuitas atau laba per saham perusahaan. Yang perlu dipantau adalah apakah Tirta Orisa Yasa akan terus menambah porsinya hingga menembus ambang 5 persen, sebab di titik itu aturan keterbukaan mewajibkan pelaporan yang lebih rinci dan bisa menandakan niat pengendalian yang lebih besar.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "hits-jadwalkan-rupst-rupslb-16-desember-bahas-modal-dasar",
   "category": "Aksi Korporasi",
   "title": "HITS Jadwalkan RUPST-RUPSLB 16 Desember, Bahas [Modal Dasar]",
@@ -288,6 +601,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Tugboats and cargo ships moored at a busy Jakarta port terminal, cranes in the background, soft morning light",
   "takeaway": "Laporan ini netral bagi fundamental HITS karena baru memuat rencana rapat, bukan keputusan final soal penambahan modal. Yang perlu dicermati adalah agenda RUPSLB soal peningkatan modal dasar, yaitu batas maksimum saham yang boleh diterbitkan perseroan ke depan; kalau batas itu dinaikkan dan kelak benar dipakai untuk menerbitkan saham baru, jumlah saham beredar bertambah dan laba per saham milik pemegang saham lama berisiko terdilusi karena keuntungan yang sama harus dibagi ke lebih banyak lembar saham. Sejauh ini dokumen belum menyebut berapa saham baru yang akan diterbitkan atau untuk tujuan apa, sehingga dampaknya masih potensial, bukan pasti. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPST/RUPSLB pada 24 November 2026 yang akan memuat detail usulan modal dasar, serta hasil keputusan RUPSLB itu sendiri pada 16 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "buva-nusantara-utama-investama-tambah-3-47-miliar-saham-rp868-m",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Nusantara Utama Investama Tambah 3,47 Miliar Saham [Rp868 M]",
+  "deck": "Nusantara Utama Investama menambah 3,47 miliar saham BUVA senilai Rp868,6 miliar pada 2 November 2026, meski hak suaranya sedikit menyusut jadi 60,15 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:27:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-6387-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "kepemilikan saham",
+   "pemegang saham mayoritas",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bukit Uluwatu Villa Tbk (BUVA) melaporkan perubahan kepemilikan saham dari Nusantara Utama Investama, pemegang saham utama perusahaan yang bukan anggota direksi maupun dewan komisaris. Dalam laporan ke Otoritas Jasa Keuangan tertanggal 9 November 2026, Nusantara Utama Investama mencatat pembelian saham secara tidak langsung sebanyak 3.474.507.943 saham biasa BUVA pada 2 November 2026, dengan harga Rp250 per saham dan tujuan investasi.",
+   "Sebelum transaksi ini, Nusantara Utama Investama memegang 15.034.031.772 saham BUVA, setara 61,07 persen hak suara perusahaan. Setelah pembelian tersebut, kepemilikannya naik menjadi 18.508.539.715 saham, bertambah 3.474.507.943 lembar atau naik 23,11 persen dari kepemilikan sebelumnya. Meski jumlah sahamnya melonjak besar, porsi hak suaranya justru sedikit turun dari 61,07 persen menjadi 60,15 persen, yang menunjukkan jumlah total saham beredar BUVA secara keseluruhan juga ikut bertambah sehingga kenaikan kepemilikan Nusantara Utama Investama tidak cukup untuk mengimbangi pertambahan saham BUVA secara keseluruhan.",
+   "Dengan harga Rp250 per saham, nilai transaksi ini mencapai sekitar Rp868,6 miliar. Status Nusantara Utama Investama sebagai pemegang saham mayoritas BUVA tetap terjaga karena hak suaranya masih di atas 60 persen setelah transaksi ini selesai."
+  ],
+  "fotoAdegan": "Infinity pool villas perched on a cliffside overlooking the ocean in Uluwatu, Bali, golden afternoon light",
+  "takeaway": "Catatan ini condong positif bagi BUVA, sebab pemegang saham utamanya justru menambah modal besar senilai Rp868,6 miliar ke saham perusahaan, bukan melepasnya, meski basis saham beredar BUVA yang ikut membesar membuat porsi hak suaranya sedikit menyusut dari 61,07 persen menjadi 60,15 persen. Pos yang tersentuh di sini adalah jumlah saham beredar dan hak suara pemegang saham mayoritas, dua hal yang dipantau pasar karena menentukan siapa yang memegang kendali atas keputusan strategis perusahaan dan seberapa terdilusi nantinya laba yang dibagi ke setiap saham. Suntikan dana sebesar ini dari pemegang saham utama bisa jadi sinyal keyakinan terhadap bisnis BUVA, meski laporan ini tidak merinci dari mana dana tersebut berasal atau dipakai untuk apa oleh perusahaan. Yang perlu dipantau berikutnya adalah apakah Nusantara Utama Investama terus menambah porsinya dalam waktu dekat, serta keterbukaan BUVA soal sumber pertambahan total saham beredar yang membuat hak suara pemegang saham mayoritas ikut tergerus.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "inet-ganti-wali-amanat-sukuk-ke-cimb-niaga",
+  "category": "Aksi Korporasi",
+  "title": "INET Ganti [Wali Amanat] Sukuk ke CIMB Niaga",
+  "deck": "RUPSI menyetujui pergantian wali amanat Sukuk Ijarah I INET senilai Rp500 miliar dari Bank KB Indonesia ke CIMB Niaga, disetujui 100 persen suara yang hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:22:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9d031c0f5_d2a7f1c7c7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "sukuk",
+   "wali amanat",
+   "RUPSI"
+  ],
+  "body": [
+   "PT Sinergi Inti Andalan Prima Tbk (INET) menggelar Rapat Umum Pemegang Sukuk Ijarah (RUPSI) pada 5 November 2026 di Belgravia, The Langham, Jakarta, untuk meminta persetujuan pergantian wali amanat Sukuk Ijarah I Sinergi Inti Andalan Prima Tahun 2026 dari PT Bank KB Indonesia Tbk kepada PT Bank CIMB Niaga Tbk. Rapat dihadiri pemegang sukuk yang mewakili pokok Rp429,5 miliar dari total Rp500 miliar sukuk yang belum dilunasi, atau 85,9 persen, melampaui kuorum minimum 75 persen yang disyaratkan Perjanjian Perwaliamanatan.",
+   "Seluruh 429,5 miliar suara yang hadir menyetujui usulan tanpa ada suara menolak maupun abstain. Rapat memutuskan memberhentikan PT Bank KB Indonesia Tbk sebagai wali amanat dengan pembebasan dan pelunasan tanggung jawab (acquit et de charge) atas tindakan yang telah sesuai perjanjian, sekaligus mengangkat PT Bank CIMB Niaga Tbk sebagai wali amanat pengganti. Rapat juga menyetujui perubahan Perjanjian Perwaliamanatan dan memberi kuasa dengan hak substitusi kepada CIMB Niaga untuk menandatangani dokumen perubahan, menghadap notaris, serta mengurus pemberitahuan dan pelaporan ke OJK, Bursa Efek Indonesia, dan KSEI.",
+   "Rapat dihadiri perwakilan wali amanat lama, Yuli Dharyanto, serta jajaran emiten yaitu Direktur Saripudin, Septiawan, dan Fadzri Sentosa, Komisaris Utama Kemal Akbar, dan Komisaris Independen Cahyana Ahmad Jayadi. Berdasarkan surat pernyataan emiten, tidak ada sukuk yang dimiliki INET atau afiliasinya, sehingga seluruh Rp500 miliar pokok sukuk dijadikan dasar perhitungan kuorum. Berita acara rapat tercatat dalam akta notaris Stephani Dwi Sari, S.H., M.Kn. Nomor 18 tanggal 5 November 2026, yang salinannya masih diselesaikan."
+  ],
+  "fotoAdegan": "Two business professionals shaking hands in a modern Jakarta office tower meeting room, skyline visible through tall windows, afternoon light.",
+  "takeaway": "Pergantian wali amanat ini condong netral bagi INET, sebab yang berubah hanya pihak yang mengawasi kepatuhan perusahaan terhadap perjanjian sukuk, bukan jumlah utang atau kewajiban pembayarannya. Yang tersentuh bukan laba atau ekuitas, melainkan pos pengawasan atas kewajiban sukuk ijarah Rp500 miliar itu sendiri, yaitu kewajiban membayar imbal hasil berkala kepada pemegang sukuk yang fungsinya mirip bunga pinjaman, yang kini diawasi CIMB Niaga menggantikan Bank KB Indonesia. Persetujuan bulat tanpa suara menolak atau abstain juga menunjukkan ini bukan sinyal ada masalah pembayaran, melainkan perubahan administratif yang disepakati bersama. Yang perlu dipantau berikutnya adalah penyelesaian salinan akta notaris Nomor 18 dan perubahan resmi Perjanjian Perwaliamanatan, serta pelaporan CIMB Niaga sebagai wali amanat baru ke OJK, BEI, dan KSEI setelah proses administratif ini tuntas.",
   "sentimen": "netral"
  },
  {
@@ -316,6 +681,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan sekadar menambah kuota, tapi pemicunya jelas, yakni sejak harga Pertamax naik dari Rp12.300 jadi Rp16.250 per liter pada Juni, banyak pengendara pindah ke Pertalite yang lebih murah karena disubsidi, sehingga konsumsinya melonjak 12,92 persen pada Juli. Yang terdampak langsung adalah konsumen yang beralih BBM, Pertamina yang harus menyalurkan lebih banyak Pertalite, dan anggaran negara yang menanggung subsidi tambahan itu. Pola ini menunjukkan pemerintah memilih menambah pasokan Pertalite ketimbang menaikkan harganya atau memperketat siapa yang boleh membeli, jadi arahnya adalah menyerap lonjakan permintaan lewat kuota, bukan lewat penyesuaian harga. Yang akan memastikan seberapa besar beban ini adalah angka pasti volume tambahan dan nilai anggarannya, yang sampai sekarang belum diumumkan oleh Airlangga.",
   "imageV": "mw9bbe2f"
+ },
+ {
+  "slug": "nsss-direksi-perkuat-hak-suara-ke-42-16-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Perkuat Hak Suara ke [42,16%] via Repo",
+  "deck": "Direksi Samuel Sekuritas Indonesia menambah 972,3 juta saham NSSS lewat repo senilai Rp447,24 miliar, mengangkat hak suaranya dari 38,07% jadi 42,16%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T17:38:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-5536-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "repo saham",
+   "kepemilikan direksi",
+   "hak suara"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) melaporkan penambahan kepemilikan saham oleh salah satu anggota direksinya, tercatat atas nama Samuel Sekuritas Indonesia, melalui mekanisme repurchase agreement atau repo pada 9 November 2026. Ada dua transaksi pembelian dengan harga sama, Rp460 per saham. Transaksi pertama sebanyak 560.356.200 saham dengan tujuan tertulis 'penempatan repo', dan transaksi kedua sebanyak 411.899.000 saham dengan tujuan 'top up repo'. Total saham yang dibeli 972.255.200 lembar, dengan nilai transaksi sekitar Rp447,24 miliar.",
+   "Dengan tambahan itu, kepemilikan direksi tersebut naik dari 9.062.373.400 lembar menjadi 10.034.628.600 lembar saham NSSS, atau bertambah 10,73 persen dari porsi sebelumnya. Hak suaranya di perusahaan ikut naik dari 38,07 persen menjadi 42,16 persen.",
+   "Penambahan ini merupakan lanjutan dari laporan serupa pada 6 November 2026, ketika direksi yang sama tercatat menambah kepemilikan hingga mencapai 38,07 persen. Dalam rentang kurang dari sepekan, porsi kepemilikannya kembali naik signifikan lewat skema repo, yakni saham dijaminkan dengan kesepakatan dibeli kembali oleh pemiliknya di kemudian hari."
+  ],
+  "fotoAdegan": "Workers loading palm oil fruit bunches onto a truck at a plantation collection point, tropical morning light",
+  "takeaway": "Penilaian saya tetap positif karena penambahan ini tergolong besar, 972,3 juta lembar atau naik 10,73 persen dari kepemilikan sebelumnya, dan arahnya menambah bukan melepas saham. Yang tersentuh di sini adalah konsentrasi hak suara, bukan laporan keuangan perusahaan, karena transaksi ini murni urusan pribadi direksi lewat mekanisme repo, yaitu menjaminkan saham dengan janji membeli kembali. Pelaku pasar memperhatikan hak suara karena makin besar porsi satu pihak, makin besar pula pengaruhnya saat pemegang saham mengambil keputusan di rapat umum. Yang perlu dipantau berikutnya adalah RUPSLB NSSS pada 1 Desember 2026 yang membahas pergantian komisaris, karena hak suara direksi ini yang kini mencapai 42,16 persen akan ikut menentukan hasil pemungutan suara.",
+  "sentimen": "positif"
  },
  {
   "slug": "umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel",

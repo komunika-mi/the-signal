@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "goll-resmi-delisting-dari-bei-efektif-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "GOLL Resmi [Delisting] dari BEI, Efektif 10 November 2026",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan saham GOLL mulai 10 November 2026 karena forced delisting dan go private, bagian dari 18 emiten yang didelisting bersamaan.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GOLL",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/583b1aac8d_62c0b5de2e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-resmi-delisting-saham-duck-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "BEI Resmi [Delisting] Saham DUCK per 10 November 2026",
+  "deck": "Bursa Efek Indonesia mencabut status Perusahaan Tercatat DUCK (Jaya Bersama Indo) efektif 10 November 2026 akibat forced delisting dan go private, bersama 17 emiten lain.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DUCK",
+   "delisting",
+   "go private",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0cd8491276_53b9b851f5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "maba-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "MABA Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "Bursa mencabut pencatatan saham MABA bersama 17 emiten lain mulai 10 November 2026 akibat forced delisting dan go private.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MABA",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4477de1d3d_5b4ab3c898.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "envy-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "ENVY Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "Bursa menghapus pencatatan saham ENVY efektif 10 November 2026 karena forced delisting dan go private, bersamaan dengan 17 emiten lain.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENVY",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d216df89b0_67ed67ef2a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtra-resmi-delisting-dari-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "MTRA Resmi [Delisting] dari BEI per 10 November 2026",
+  "deck": "Bursa Efek Indonesia mencabut status perusahaan tercatat MTRA efektif 10 November 2026 karena forced delisting dan go private, bersama 17 emiten lain yang juga delisting bersamaan.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTRA",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/29a361eaf3_6e7565bb82.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sbat-resmi-kena-delisting-paksa-dari-bei-efektif-10-november",
+  "category": "Aksi Korporasi",
+  "title": "SBAT Resmi Kena [Delisting] Paksa dari BEI, Efektif 10 November",
+  "deck": "Bursa menghapus pencatatan saham SBAT secara paksa efektif 10 November 2026, satu paket dengan 17 emiten lain yang juga didelisting hari itu.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SBAT",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/269b59ba05_4f2bed2560.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wbsa-catat-laba-9m26-turun-55-meski-pendapatan-naik-31",
+  "category": "Aksi Korporasi",
+  "title": "WBSA Catat [Laba] 9M26 Turun 55% Meski Pendapatan Naik 31%",
+  "deck": "Materi public expose WBSA mengungkap laba bersih sembilan bulan 2026 turun 55 persen menjadi Rp13 miliar, meski pendapatan naik 31 persen jadi Rp2,9 triliun.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WBSA",
+   "logistik",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b578c2dc1e_e7f4beb126.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inet-catat-laba-naik-dana-rights-issue-baru-6-35-terserap",
+  "category": "Aksi Korporasi",
+  "title": "INET Catat Laba Naik, Dana Rights Issue Baru [6,35%] Terserap",
+  "deck": "INET mengungkap pendapatan 9M 2026 melonjak akibat konsolidasi anak usaha baru, sementara dana rights issue, obligasi, dan sukuk senilai Rp4,19 triliun baru terserap 6,35 persen hingga Juni 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "public expose",
+   "realisasi dana",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/70f5bbc030_67dfab99bb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-camilan-dua-kelinci-ke-australia-tembus-rp1-03-miliar",
   "category": "Industri",
   "title": "Ekspor Camilan Dua Kelinci ke Australia Tembus [Rp1,03] Miliar",
@@ -36,6 +164,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477426-dukung-kemajuan-ekonomi-nasional-bri-cetak-laba-rp482-triliun-pada-triwulan-iii-2026"
+ },
+ {
+  "slug": "oppm-terbitkan-obligasi-rp1-15-triliun-di-bawah-target-rp3-33-t",
+  "category": "Aksi Korporasi",
+  "title": "OPPM Terbitkan Obligasi [Rp1,15 Triliun], Di Bawah Target Rp3,33 T",
+  "deck": "Obligasi rupiah dan dolar OPPM tahap terbaru rampung diterbitkan dengan nilai jauh lebih kecil dari rencana awal, sementara bunga tetap dipatok 10 hingga 10,5 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OPPM",
+   "obligasi korporasi",
+   "pasar modal",
+   "OKI Pulp Paper Mills"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f07fbf832b_934e281453.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rans-resmi-batalkan-kerja-sama-konser-d-masiv-tur-asia",
@@ -166,6 +310,54 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "buva-direksi-timothy-alamsyah-tambah-843-875-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Direksi Timothy Alamsyah [Tambah] 843.875 Saham",
+  "deck": "Direktur BUVA Timothy Eugene Alamsyah membeli 843.875 saham tidak langsung seharga Rp250 per saham, menambah kepemilikannya jadi 4,22 juta saham tanpa mengubah hak suaranya.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "kepemilikan saham",
+   "direksi",
+   "insider buying"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-2010-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-komisaris-astini-tambah-750-000-saham-rp187-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Komisaris Astini [Tambah] 750.000 Saham Rp187,5 Juta",
+  "deck": "Komisaris BUVA, Astini Bernawati Oudang, membeli 750.000 saham tambahan senilai Rp187,5 juta, menaikkan kepemilikannya 15 persen meski hak suaranya tetap 0,02 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "komisaris",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-8716-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-tirta-orisa-yasa-tambah-114-96-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Tirta Orisa Yasa [Tambah] 114,96 Juta Saham",
+  "deck": "PT Tirta Orisa Yasa membeli 114,96 juta saham BUVA secara tidak langsung senilai Rp250 per lembar pada 2 November 2026, namun hak suaranya tetap 1,87 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "kepemilikan saham",
+   "pemegang saham",
+   "Bukit Uluwatu Villa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-7882-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "hits-jadwalkan-rupst-rupslb-16-desember-bahas-modal-dasar",
   "category": "Aksi Korporasi",
   "title": "HITS Jadwalkan RUPST-RUPSLB 16 Desember, Bahas [Modal Dasar]",
@@ -179,6 +371,38 @@ var ARTICLES = [
    "modal dasar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/073b252e79_edf0c41802.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-nusantara-utama-investama-tambah-3-47-miliar-saham-rp868-m",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Nusantara Utama Investama Tambah 3,47 Miliar Saham [Rp868 M]",
+  "deck": "Nusantara Utama Investama menambah 3,47 miliar saham BUVA senilai Rp868,6 miliar pada 2 November 2026, meski hak suaranya sedikit menyusut jadi 60,15 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "kepemilikan saham",
+   "pemegang saham mayoritas",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-6387-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inet-ganti-wali-amanat-sukuk-ke-cimb-niaga",
+  "category": "Aksi Korporasi",
+  "title": "INET Ganti [Wali Amanat] Sukuk ke CIMB Niaga",
+  "deck": "RUPSI menyetujui pergantian wali amanat Sukuk Ijarah I INET senilai Rp500 miliar dari Bank KB Indonesia ke CIMB Niaga, disetujui 100 persen suara yang hadir.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "sukuk",
+   "wali amanat",
+   "RUPSI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9d031c0f5_d2a7f1c7c7.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -197,6 +421,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477410-kuota-pertalite-bakal-ditambah-menko-airlangga-anggaran-masih-ada"
+ },
+ {
+  "slug": "nsss-direksi-perkuat-hak-suara-ke-42-16-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Perkuat Hak Suara ke [42,16%] via Repo",
+  "deck": "Direksi Samuel Sekuritas Indonesia menambah 972,3 juta saham NSSS lewat repo senilai Rp447,24 miliar, mengangkat hak suaranya dari 38,07% jadi 42,16%.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "repo saham",
+   "kepemilikan direksi",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-5536-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel",
@@ -6227,247 +6467,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c0095caf0_e634068ee4.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "hill-catat-ekuitas-negatif-rp412-7-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "HILL catat ekuitas [negatif] Rp412,7 miliar di kuartal III 2026",
-  "deck": "Ekuitas Hillcon (HILL) minus Rp412,7 miliar usai pendapatan anjlok hampir 85 persen dan rugi bersih membengkak jadi Rp832,1 miliar pada sembilan bulan pertama 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HILL",
-   "Hillcon",
-   "laporan keuangan",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103072610-65684-0/FinancialStatement-2026-III-HILL.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-koreksi-lagi-jawaban-bursa-akui-fbm-libatkan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Koreksi Lagi Jawaban Bursa, Akui FBM Libatkan [Direksi]",
-  "deck": "BIKE merevisi jawabannya ke BEI dan mengonfirmasi akuisisi FBM senilai Rp10,89 miliar melibatkan direksinya sendiri, sementara tiga akuisisi senilai total Rp21,85 miliar masih belum dibayar lunas.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi",
-   "transaksi afiliasi",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0528c2519d_1861bb0e23.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csmi-jelaskan-utang-rp25-miliar-ke-csm-kas-cuma-rp237-juta",
-  "category": "Aksi Korporasi",
-  "title": "CSMI jelaskan utang Rp25 miliar ke CSM, [kas] cuma Rp237 juta",
-  "deck": "CSMI menanggapi permintaan penjelasan Bursa soal rencana 2027, pinjaman Rp25 miliar dari pihak terkait, dan penutupan dua outlet NWS Chicken.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSMI",
-   "likuiditas",
-   "pinjaman pihak berelasi",
-   "outlet"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c540c26b07_52d3ce69f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-jadwalkan-public-expose-suspensi-saham-masih-berlanjut",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Jadwalkan Public Expose, [Suspensi] Saham Masih Berlanjut",
-  "deck": "BOSS menjadwalkan ulang public expose tahunan ke 4 November 2026, sementara suspensi saham sejak April 2024 dan nihilnya produksi batubara di 2025 masih berlanjut.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "public expose",
-   "suspensi saham",
-   "batubara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b1495fb253_6fe934136e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-koreksi-jadwal-public-expose-tambang-mangkrak",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Koreksi Jadwal Public Expose, Tambang [Mangkrak]",
-  "deck": "BOSS mengoreksi jadwal public expose tahunan untuk tahun buku 2023 menjadi 4 November 2026, sementara anak usaha tambangnya masih pailit dan belum berproduksi.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "public expose",
-   "suspensi saham",
-   "tambang batubara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8bcaa2a0b7_6045772ef0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pyfa-rugi-rp338-7-miliar-utang-jangka-pendek-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "PYFA Rugi Rp338,7 Miliar, [Utang] Jangka Pendek Melonjak",
-  "deck": "Pendapatan PYFA naik 17 persen jadi Rp2,41 triliun dalam sembilan bulan 2026, namun utang jangka pendek membengkak dan ekuitas pemegang saham menyusut.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PYFA",
-   "laporan keuangan",
-   "utang",
-   "ekuitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103000316-65305-0/FinancialStatement-2026-III-PYFA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asmi-rugi-rp115-36-miliar-di-sembilan-bulan-2026-ekuitas-susut-30",
-  "category": "Aksi Korporasi",
-  "title": "ASMI Rugi [Rp115,36 Miliar] di Sembilan Bulan 2026, Ekuitas Susut 30%",
-  "deck": "Laporan keuangan interim kuartal III 2026 ASMI berbalik rugi akibat kerugian wajar investasi, meski hasil bisnis asuransi intinya justru membaik.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASMI",
-   "asuransi",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102234934-65690-0/FinancialStatement-2026-III-ASMI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tris-penjualan-9-bulan-naik-12-laba-pemegang-saham-turun",
-  "category": "Aksi Korporasi",
-  "title": "TRIS: Penjualan 9 Bulan Naik 12%, Laba Pemegang Saham [Turun]",
-  "deck": "Penjualan Trisula International naik 12 persen dalam sembilan bulan, tapi bagian laba untuk pemegang saham justru turun karena pertumbuhan terbesar dinikmati pemegang saham minoritas anak usaha.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIS",
-   "laporan keuangan",
-   "Trisula International",
-   "kinerja emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102234455-65585-0/FinancialStatement-2026-III-TRIS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "admr-beber-ke-bursa-utang-bank-melonjak-ke-us-1-16-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ADMR Beber ke Bursa, Utang Bank Melonjak ke [US$1,16 Miliar]",
-  "deck": "ADMR menjelaskan ke BEI bahwa utang bank naik ke US$1,16 miliar dan liabilitas sewa ke US$691,59 juta untuk membiayai smelter aluminium KAI, sementara arus kas operasi masih negatif.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMR",
-   "smelter aluminium",
-   "utang bank",
-   "royalti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bcea9a4434_3c20b63673.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cent-rombak-utang-rp12-48-t-ekuitas-masih-negatif",
-  "category": "Aksi Korporasi",
-  "title": "CENT Rombak Utang Rp12,48 T, [Ekuitas] Masih Negatif",
-  "deck": "CENT menjelaskan ke BEI soal refinancing utang Rp12,48 triliun, setara 510 persen ekuitas, sementara ekuitas perusahaan masih negatif Rp1,94 triliun setelah transaksi.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CENT",
-   "refinancing",
-   "utang korporasi",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f6fe81475_fcf27968a9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "swid-laba-turun-21-utang-melonjak-36",
-  "category": "Aksi Korporasi",
-  "title": "SWID: Laba Turun 21%, [Utang] Melonjak 36%",
-  "deck": "Laba bersih SWID turun 21 persen jadi Rp23,02 miliar dalam sembilan bulan, sementara total liabilitas melonjak 36 persen menjadi Rp311,29 miliar akibat utang ke pihak berelasi dan pemasok.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SWID",
-   "laporan keuangan",
-   "liabilitas",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102232655-65642-0/FinancialStatement-2026-III-SWID.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpw-laba-kuartal-iii-turun-8-pendapatan-susut-11",
-  "category": "Aksi Korporasi",
-  "title": "PTPW: Laba Kuartal III [Turun] 8%, Pendapatan Susut 11%",
-  "deck": "Pendapatan dan laba bersih Pratama Widya turun pada sembilan bulan pertama 2026, meski ekuitas naik ditopang suntikan modal mitra di anak usaha baru.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPW",
-   "laporan keuangan",
-   "konstruksi",
-   "kinerja emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102230753-65670-0/FinancialStatement-2026-III-PTPW.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-pembeli-saham-baru-punya-hubungan-keluarga-dengan-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "BIPP: Pembeli Saham Baru Punya [Hubungan Keluarga] dengan Pengendali",
-  "deck": "BIPP menjawab permintaan Bursa soal PMTHMETD: PT Gratamulia Pratama, penerima 494,4 juta saham baru, berelasi keluarga dengan pengendali, sementara free float turun ke 15,99 persen.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "PMTHMETD",
-   "Gratamulia Pratama",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3eac401b77_edf4ed54a5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inflasi-terjaga-dagang-surplus-manufaktur-ri-ekspansi",
-  "category": "Makroekonomi",
-  "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",
-  "deck": "Inflasi Oktober 2026 terjaga di 3,23 persen, neraca dagang September surplus US$3,36 miliar tiga bulan beruntun, dan PMI manufaktur naik ke 54,0, ekspansi tertinggi sejak Maret 2024.",
-  "date": "2 November 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
-  "tags": [
-   "inflasi",
-   "neraca dagang",
-   "PMI manufaktur",
-   "ekspor"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7195/ekonomi-indonesia-semakin-tangguh-inflasi-terjaga-manufaktur-terus-ekspansi-surplus-neraca-dagang-berlanjut",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "hari-ritel-nasional-2026-dimulai-umkm-didorong-masuk-ritel",
-  "category": "UMKM",
-  "title": "Hari Ritel Nasional 2026 [Dimulai], UMKM Didorong Masuk Ritel",
-  "deck": "Kemendag membuka Hari Ritel Nasional 2026 di Bandung pada 2-11 November, mengajak UMKM memperluas pemasaran lewat jaringan ritel modern.",
-  "date": "2 November 2026",
-  "image": "assets/img/hari-ritel-nasional-2026-dimulai-umkm-didorong-masuk-ritel.jpg",
-  "imageV": "mvzfi0z2",
-  "tags": [
-   "UMKM",
-   "ritel",
-   "Kemendag",
-   "APRINDO"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/buka-hari-ritel-nasional-2026-mendag-busan-ajak-umkm-gencar-masuk-ritel",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

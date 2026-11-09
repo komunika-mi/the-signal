@@ -5,6 +5,51 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "keyakinan-konsumen-oktober-naik-ke-119-9",
+  "category": "Makroekonomi",
+  "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
+  "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 119,9 pada Oktober 2026, dari 118,1 bulan sebelumnya, ditopang penilaian kondisi ekonomi saat ini dan ekspektasi ke depan yang menguat.",
+  "date": "9 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pnm-perkuat-pembinaan-pengrajin-wayang-yogyakarta-lewat-klasterisasi",
+  "category": "BUMN",
+  "title": "PNM Perkuat Pembinaan Pengrajin Wayang Yogyakarta Lewat [Klasterisasi]",
+  "deck": "Memperingati Hari Wayang Nasional 2026, PNM memperluas pembinaan klaster pengrajin wayang dan suvenir kulit di Wukirsari, Yogyakarta, dengan anggota yang kini mencapai 30 nasabah Mekaar.",
+  "date": "9 November 2026",
+  "image": "assets/img/pnm-perkuat-pembinaan-pengrajin-wayang-yogyakarta-lewat-klasterisasi.jpg",
+  "imageV": "mw8qwfto",
+  "tags": [
+   "PNM",
+   "Hari Wayang Nasional",
+   "Klasterisasi",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477354-hari-wayang-nasional-pnm-perkuat-pembinaan-pengrajin-wayang-di-yogyakarta-lewat-klasterisasi"
+ },
+ {
+  "slug": "harga-emas-antam-stabil-di-rp2-545-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Stabil] di Rp2.545.000 per Gram",
+  "deck": "Harga emas batangan Antam tidak berubah pada Senin, bertahan di Rp2.545.000 per gram, sementara harga buyback tercatat Rp2.350.000 per gram.",
+  "date": "9 November 2026",
+  "image": "assets/img/harga-emas-antam-stabil-di-rp2-545-000-per-gram.jpg",
+  "imageV": "mw8qwgby",
+  "tags": [
+   "emas",
+   "antam",
+   "logam mulia",
+   "harga emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477347-harga-emas-antam-stabil-di-rp25-jutaan-per-gram-pada-senin-berikut-daftar-lengkapnya"
+ },
+ {
   "slug": "depo-respons-bei-akui-diskusi-internal-tindakan-korporasi",
   "category": "Aksi Korporasi",
   "title": "DEPO Respons BEI, Akui Diskusi Internal [Tindakan Korporasi]",
@@ -1615,7 +1660,7 @@ var ARTICLES = [
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
   "deck": "Tingkat pengangguran terbuka naik tipis dari Februari 2026, tapi masih lebih rendah dibanding Agustus tahun lalu",
   "date": "6 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "bps",
    "ketenagakerjaan",
@@ -1658,7 +1703,7 @@ var ARTICLES = [
   "title": "Pertumbuhan Harga Rumah Primer [Melambat] di Triwulan III",
   "deck": "Pertumbuhan harga rumah baru melambat ke 0,58 persen dibanding setahun lalu pada triwulan III 2026, sementara penjualan turun 8,43 persen di seluruh tipe rumah.",
   "date": "6 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "properti residensial",
    "harga rumah",
@@ -2254,7 +2299,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47] Persen pada Triwulan III 2026",
   "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada triwulan III 2026, naik dari 5,29 persen pada triwulan sebelumnya, didorong lonjakan belanja pemerintah dan konsumsi rumah tangga.",
   "date": "5 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "Pertumbuhan Ekonomi",
    "PDB Triwulan III",
@@ -2756,7 +2801,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
   "deck": "BPS catat pertumbuhan ekonomi naik 0,18 poin dari triwulan sebelumnya dan jadi yang tertinggi kedua dalam setahun terakhir.",
   "date": "5 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "ekonomi",
    "bps",
@@ -2966,7 +3011,7 @@ var ARTICLES = [
   "title": "Ekonomi Indonesia Tumbuh [5,47%] di Triwulan III-2026",
   "deck": "BPS mencatat produk domestik bruto RI naik 5,47 persen secara tahunan pada triwulan III-2026, ditopang belanja pemerintah dan ekspor.",
   "date": "5 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "PDB",
    "BPS",
@@ -4161,7 +4206,7 @@ var ARTICLES = [
   "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
   "deck": "Surplus dagang Indonesia September 2026 menyusut tipis ke US$3,36 miliar akibat defisit migas melebar, sementara ekspor dan impor sama-sama tumbuh dua digit secara tahunan.",
   "date": "3 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -5573,7 +5618,7 @@ var ARTICLES = [
   "title": "Inflasi Terjaga, Dagang Surplus, Manufaktur RI [Ekspansi]",
   "deck": "Inflasi Oktober 2026 terjaga di 3,23 persen, neraca dagang September surplus US$3,36 miliar tiga bulan beruntun, dan PMI manufaktur naik ke 54,0, ekspansi tertinggi sejak Maret 2024.",
   "date": "2 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "inflasi",
    "neraca dagang",
@@ -5912,7 +5957,7 @@ var ARTICLES = [
   "title": "Inflasi Oktober [Melandai], Tiket Pesawat Naik",
   "deck": "Inflasi tahunan Oktober 2026 turun jadi 3,23 persen, tapi harga cabai dan tarif pesawat domestik kelas ekonomi justru naik.",
   "date": "2 November 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
+  "image": "assets/img/timbangan-pasar.jpg",
   "tags": [
    "inflasi",
    "harga pangan",
@@ -5928,7 +5973,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI [Berlanjut] tapi Tipis ke US$3,36 Miliar",
   "deck": "Neraca dagang Indonesia surplus US$3,36 miliar pada September 2026, melanjutkan tren positif Agustus meski nilainya mengecil dari US$3,55 miliar.",
   "date": "2 November 2026",
-  "image": "assets/img/timbangan-pasar.jpg",
+  "image": "assets/img/bongkar-muat-truk.jpg",
   "tags": [
    "neraca dagang",
    "ekspor",
@@ -6418,54 +6463,6 @@ var ARTICLES = [
    "batu bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261102172155-65678-0/FinancialStatement-2024-I-BOSS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bnba-dana-nasabah-turun-30-laba-bersih-naik-dua-kali",
-  "category": "Aksi Korporasi",
-  "title": "BNBA: Dana Nasabah [Turun] 30%, Laba Bersih Naik Dua Kali",
-  "deck": "Simpanan nasabah Bank Bumi Arta turun Rp1,58 triliun dalam sembilan bulan karena nasabah pindah ke bank pesaing berbunga lebih tinggi, meski laba bersihnya naik dua kali lipat.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BNBA",
-   "Bank Bumi Arta",
-   "simpanan nasabah",
-   "laporan keuangan interim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102171905-65331-0/FinancialStatement-2026-III-BNBA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-pertahankan-suspensi-saham-menn-dan-soul",
-  "category": "Aksi Korporasi",
-  "title": "BEI Pertahankan [Suspensi] Saham MENN dan SOUL",
-  "deck": "BEI tetap menghentikan sementara perdagangan saham MENN dan SOUL karena belum menyerahkan laporan keuangan interim per 30 Juni 2026 hingga 31 Oktober 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MENN",
-   "SOUL",
-   "suspensi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8ec620540d_dd032b771c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oppm-bantah-jadi-subjek-penyelidikan-singapura-soal-karhutla",
-  "category": "Aksi Korporasi",
-  "title": "OPPM Bantah Jadi Subjek [Penyelidikan] Singapura soal Karhutla",
-  "deck": "OPPM menyatakan perusahaan dan anak usahanya tidak menjadi subjek penyelidikan Pemerintah Singapura soal karhutla, meski pemegang saham tidak langsungnya, APP Co Ltd, dipanggil dalam proses itu.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OPPM",
-   "karhutla",
-   "Singapura",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4fa8f07fb9_ec4690873c.pdf",
   "sourceLabel": "IDX"
  }
 ];

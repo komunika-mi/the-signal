@@ -3,6 +3,240 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rans-resmi-batalkan-kerja-sama-konser-d-masiv-tur-asia",
+  "category": "Aksi Korporasi",
+  "title": "RANS Resmi Batalkan Kerja Sama Konser [D'MASIV] Tur Asia",
+  "deck": "RANS resmi membatalkan rencana kerja sama konser D'MASIV Asia Home Run Tour per 9 November 2026, tiga hari setelah membantah kabar serupa ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T19:59:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/365dad443c_5a414a455f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RANS",
+  "tags": [
+   "RANS",
+   "D'MASIV",
+   "IPO",
+   "konser musik"
+  ],
+  "body": [
+   "PT Rans Entertainmen Indonesia Tbk (RANS) menyampaikan keterbukaan informasi bahwa pada 9 November 2026 Perseroan memutuskan menghentikan rencana kerja sama dengan PT Ruang Antara Suara untuk penyelenggaraan rangkaian konser D'MASIV Asia Home Run Tour. Kerja sama itu sebelumnya berdasar Term Sheet tertanggal 4 Mei 2026 yang sudah diungkapkan dalam prospektus penawaran umum saham perdana RANS, dan sempat ditindaklanjuti dengan penyusunan rancangan perjanjian kerja sama definitif, namun tidak berlanjut ke tahap penandatanganan final.",
+   "Keputusan ini menyusul penjelasan yang sudah lebih dulu disampaikan Perseroan kepada Bursa Efek Indonesia pada 6 November 2026. Penjelasan tanggal itu adalah saat RANS membantah kabar putusnya kerja sama dengan D'MASIV untuk tur Asia tersebut. Tiga hari kemudian, RANS mengonfirmasi hal yang sebelumnya dibantah: kerja sama itu memang dihentikan, efektif sejak 9 November 2026.",
+   "Dalam dokumen yang ditandatangani Rumunggu Yokonapita selaku Finance Director dan Chintami Maranata Sihombing selaku Corporate Secretary, RANS menyatakan pengakhiran kerja sama ini tidak berdampak signifikan terhadap kondisi keuangan, kegiatan operasional, maupun kelangsungan usaha Perseroan. RANS juga menegaskan rencana dan alokasi penggunaan dana hasil penawaran umum perdana saham sesuai prospektus tidak berubah. Dana yang belum terpakai tetap dialokasikan untuk kegiatan penyelenggaraan konser musik, meski konser spesifik bersama D'MASIV yang sebelumnya direncanakan itu sendiri batal."
+  ],
+  "fotoAdegan": "Empty outdoor concert stage with lighting rigs and scaffolding being dismantled, technicians coiling cables, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi RANS, bukan karena pembatalan konsernya itu sendiri, melainkan karena jarak tiga hari antara bantahan ke bursa pada 6 November dan konfirmasi pembatalan pada 9 November menunjukkan komunikasi Perseroan ke publik dan investor belum konsisten. Yang tersentuh di sini adalah realisasi dana hasil penawaran umum saham, yaitu uang yang dikumpulkan RANS saat mencatatkan saham dan sudah dijanjikan ke investor lewat prospektus untuk dipakai menggelar konser musik; pasar memperhatikan ini karena kegagalan merealisasikan rencana sesuai prospektus biasanya dibaca sebagai sinyal rencana bisnis yang belum matang, meskipun RANS menegaskan dananya tetap dipakai untuk konser lain, bukan dikembalikan. Yang perlu dipantau selanjutnya adalah laporan realisasi penggunaan dana IPO berikutnya dan apakah RANS mengumumkan pengganti konkret untuk D'MASIV Asia Home Run Tour, karena tanpa pengganti yang jelas, dana yang sudah dialokasikan itu berisiko mengendap tanpa kepastian jadwal.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bwpt-tawarkan-obligasi-dan-sukuk-baru-rp550-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Tawarkan [Obligasi] dan Sukuk Baru Rp550 Miliar",
+  "deck": "Eagle High Plantations menerbitkan obligasi hingga Rp175 miliar dan sukuk mudharabah hingga Rp375 miliar tahap II, bunga 9,5-12 persen per tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T19:37:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4dc6155140_675d268461.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BWPT",
+  "tags": [
+   "BWPT",
+   "obligasi",
+   "sukuk",
+   "surat utang"
+  ],
+  "body": [
+   "Eagle High Plantations Tbk (BWPT) menyampaikan dokumen informasi tambahan ringkas untuk tahap kedua dari program penawaran umum berkelanjutan obligasi dan sukuk mudharabah yang sudah efektif sejak 29 Juni 2026. Program ini terdiri dari dua skema: Obligasi Berkelanjutan II dengan target total dana Rp1 triliun, dan Sukuk Mudharabah Berkelanjutan II dengan target total dana Rp1,5 triliun. Pada tahap pertama tahun ini, perusahaan telah menerbitkan obligasi senilai Rp100,845 miliar dan sukuk mudharabah senilai Rp42,1 miliar. Untuk tahap II kali ini, BWPT akan menawarkan obligasi sebanyak-banyaknya Rp175 miliar dan sukuk mudharabah sebanyak-banyaknya Rp375 miliar, sehingga total dana yang berpotensi masuk dari tahap ini mencapai Rp550 miliar.",
+   "Obligasi tahap II dibagi tiga seri. Seri A senilai Rp148,85 miliar berbunga tetap 9,5 persen per tahun dengan tenor 370 hari kalender. Seri B senilai Rp2,295 miliar berbunga 11 persen per tahun bertenor tiga tahun. Seri C senilai Rp2,145 miliar berbunga 12 persen per tahun bertenor lima tahun. Sisa sebesar Rp21,71 miliar dijamin secara best effort, artinya jika tidak terjual seluruhnya BWPT tidak wajib menerbitkannya. Pola serupa berlaku untuk sukuk mudharabah: seri A senilai Rp327,225 miliar dengan indikasi imbal hasil ekuivalen 9,5 persen per tahun, seri B senilai Rp21,725 miliar ekuivalen 11 persen, dan seri C senilai Rp1,355 miliar ekuivalen 12 persen, dengan sisa Rp24,695 miliar dijamin best effort. Bunga maupun bagi hasil dibayar setiap tiga bulan, dimulai 27 Februari 2027, hingga jatuh tempo masing-masing seri pada 7 Desember 2027 untuk seri A, 27 November 2029 untuk seri B, dan 27 November 2031 untuk seri C.",
+   "Lembaga pemeringkat PEFINDO memberi peringkat idA- untuk obligasi dan idA-(sy) untuk sukuk, sementara PT Kredit Rating Indonesia memberi peringkat irA dan irA(sy). Penjamin pelaksana emisi adalah PT Aldiracita Sekuritas Indonesia, PT BNI Sekuritas, PT BRI Danareksa Sekuritas, PT KB Valbury Sekuritas, dan PT Maybank Sekuritas Indonesia, dengan PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk sebagai wali amanat. Masa penawaran umum berlangsung 23-24 November 2026, penjatahan pada 25 November, distribusi elektronik dan pengembalian uang pemesanan pada 27 November, serta pencatatan di Bursa Efek Indonesia pada 30 November 2026. Dokumen ini juga menyebut risiko utama perusahaan adalah fluktuasi harga minyak sawit mentah yang dipengaruhi permintaan dan pasokan minyak nabati global, dan mencatat bahwa obligasi dan sukuk ini tidak dijamin aset khusus, hanya mengandalkan seluruh kekayaan perusahaan secara umum dan setara dengan kreditor lain."
+  ],
+  "fotoAdegan": "Workers harvesting fresh fruit bunches from oil palm trees and loading them onto a truck in a plantation, tropical daylight",
+  "takeaway": "Laporan ini netral bagi BWPT: perusahaan memang mendapat dana segar dari utang baru, tapi di sisi lain menambah beban bunga yang harus dibayar tiap tiga bulan selama tiga sampai lima tahun ke depan. Yang tersentuh adalah beban bunga dan arus kas perusahaan, karena kupon obligasi dipatok 9,5 sampai 12 persen setahun, angka yang cukup tinggi dan sejalan dengan peringkat utang BWPT di kelas A minus, bukan kelas utang paling aman. Pelaku pasar akan mengamati apakah arus kas dari perkebunan kelapa sawit BWPT cukup untuk menanggung kewajiban ini, apalagi pendapatan perusahaan sendiri bergantung pada harga CPO yang naik turun mengikuti pasar global. Yang perlu dipantau berikutnya adalah masa penawaran umum pada 23-24 November 2026, penjatahan pada 25 November, dan pencatatan resmi di Bursa Efek Indonesia pada 30 November 2026, karena di situ baru akan terlihat berapa dari target Rp550 miliar yang benar-benar terserap pasar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bwpt-rinci-bunga-obligasi-sukuk-12-senilai-rp550-m",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Rinci Bunga Obligasi-Sukuk [12%] Senilai Rp550 M",
+  "deck": "Eagle High Plantations merinci struktur tiga seri obligasi dan sukuk mudharabah tahap II senilai total Rp550 miliar, dengan bunga 9,5 sampai 12 persen dan masa penawaran 23-24 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T19:16:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/835d807fb5_29b2458347.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BWPT",
+  "tags": [
+   "BWPT",
+   "obligasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "body": [
+   "Eagle High Plantations Tbk (BWPT) menyampaikan informasi tambahan atas rencana penerbitan Obligasi Berkelanjutan II Tahap II dan Sukuk Mudharabah Berkelanjutan II Tahap II tahun 2026. Obligasi ditawarkan sebanyak-banyaknya Rp175 miliar dan sukuk mudharabah sebanyak-banyaknya Rp375 miliar, sehingga total dana yang dibidik tahap ini mencapai Rp550 miliar. Penerbitan ini merupakan lanjutan dari tahap I yang sudah diterbitkan perusahaan senilai Rp100,845 miliar untuk obligasi dan Rp42,1 miliar untuk sukuk.",
+   "Obligasi tahap II dibagi tiga seri. Seri A senilai Rp148,85 miliar berbunga tetap 9,5 persen per tahun dengan jangka waktu 370 hari kalender. Seri B senilai Rp2,295 miliar berbunga 11 persen per tahun selama tiga tahun, dan Seri C senilai Rp2,145 miliar berbunga 12 persen per tahun selama lima tahun. Ketiganya dibayar penuh sekali di akhir masa (bullet payment), dengan jatuh tempo berturut-turut 7 Desember 2027, 27 November 2029, dan 27 November 2031. Sisa Rp21,71 miliar dijamin secara best effort, artinya jika tidak terjual penuh, perusahaan tidak wajib menerbitkan sisa tersebut.",
+   "Sukuk mudharabah tahap II juga terbagi tiga seri dengan skema bagi hasil, bukan bunga tetap. Seri A senilai Rp327,225 miliar memberi nisbah 6,656 persen dari pendapatan yang dibagihasilkan, dengan indikasi imbal hasil setara 9,5 persen per tahun selama 370 hari. Seri B senilai Rp21,725 miliar bernisbah 7,707 persen, setara imbal hasil 11 persen selama tiga tahun, dan Seri C senilai Rp1,355 miliar bernisbah 8,407 persen, setara 12 persen selama lima tahun. Perseroan menegaskan tidak memotong zakat dari bagi hasil yang diterima pemegang sukuk. Lembaga pemeringkat Pefindo memberi rating idA- dan PT Kredit Rating Indonesia memberi irA untuk obligasi maupun sukuk ini.",
+   "Masa penawaran umum berlangsung 23-24 November 2026, dengan tanggal penjatahan 25 November, pengembalian uang pemesanan dan distribusi elektronik pada 27 November, serta pencatatan di Bursa Efek Indonesia pada 30 November 2026. Penjaminan emisi dilakukan secara kesanggupan penuh oleh lima perusahaan sekuritas, yakni Aldiracita Sekuritas Indonesia, BNI Sekuritas, BRI Danareksa Sekuritas, KB Valbury Sekuritas, dan Maybank Sekuritas Indonesia, dengan bank bjb bertindak sebagai wali amanat."
+  ],
+  "fotoAdegan": "Rows of oil palm fruit bunches stacked at a rural plantation collection point, workers loading a truck, overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi BWPT karena isinya memang detail teknis dari rencana utang yang sudah diketahui pasar sebelumnya, bukan perubahan arah baru. Yang tersentuh adalah arus kas perusahaan, sebab bunga dan bagi hasil wajib dibayar setiap tiga bulan mulai 27 Februari 2027 dan porsi terbesar, yakni seri A senilai Rp148,85 miliar plus Rp327,225 miliar, jatuh tempo sekaligus dalam waktu kurang dari 13 bulan sehingga perusahaan perlu menyiapkan kas besar atau menerbitkan utang baru untuk melunasinya. Dana segar dari obligasi dan sukuk ini bisa menambah modal kerja, tapi di sisi lain menambah beban bunga tetap yang mengurangi laba bersih ke depan. Yang perlu dipantau adalah hasil masa penawaran 23-24 November 2026, khususnya apakah porsi best effort senilai Rp21,71 miliar obligasi dan Rp24,695 miliar sukuk terjual penuh, serta pencatatan resmi di Bursa Efek Indonesia pada 30 November 2026 yang menandai efektifnya dana ini mengalir ke kas perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbri-cetak-laba-rp48-2-triliun-di-9-bulan-2026-naik-16-8",
+  "category": "Aksi Korporasi",
+  "title": "BBRI Cetak Laba [Rp48,2] Triliun di 9 Bulan 2026, Naik 16,8%",
+  "deck": "BRI melaporkan laba bersih Rp48,2 triliun pada sembilan bulan 2026, naik 16,8 persen, didorong kredit yang tumbuh 14,5 persen dan dana pihak ketiga naik 12 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T19:13:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d443245ae_ccf9c761d9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBRI",
+  "tags": [
+   "BBRI",
+   "kinerja keuangan",
+   "laba bersih",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk memaparkan kinerja keuangan kuartal III 2026 dalam acara di Jakarta pada 9 November 2026 yang dihadiri 106 peserta, terdiri dari analis dan investor. Narasumber dari perseroan adalah Group CEO Hery Gunardi, Direktur Finance & Strategy Achmad Royadi, Direktur Micro Akhmad Purwakajaya, dan Direktur Risk Management Ety Yuniarti.",
+   "Dari materi yang diserahkan ke Bursa Efek Indonesia, laba bersih BRI pada sembilan bulan 2026 tercatat Rp48,2 triliun, naik 16,8 persen dibandingkan periode yang sama tahun lalu sebesar Rp41,2 triliun. Laba operasional sebelum pencadangan atau PPOP tumbuh 10,9 persen menjadi Rp117,9 triliun, sementara pendapatan bunga bersih naik lebih moderat, 6,2 persen menjadi Rp96,1 triliun. Total aset perseroan naik 10,1 persen menjadi Rp2.337,6 triliun, kredit yang disalurkan naik 14,5 persen menjadi Rp1.647,1 triliun, dan dana pihak ketiga naik 12 persen menjadi Rp1.651,3 triliun. Margin bunga bersih turun dari 3,0 persen menjadi 2,6 persen, sementara rasio kecukupan modal turun dari 25,4 persen menjadi 23,0 persen.",
+   "Di segmen mikro, pertumbuhan kredit yang sempat negatif 2,2 persen pada semester I 2026 berbalik tumbuh 0,3 persen pada sembilan bulan 2026, dengan pembentukan kredit bermasalah baru turun dari 5,6 persen menjadi 4,1 persen dan biaya kredit mikro turun dari 4,4 persen menjadi 3,6 persen. Di segmen konsumer, penyaluran KPR tumbuh 9,9 persen dengan porsi nasabah prioritas naik dari 13,5 persen menjadi 24,1 persen dari total pencairan, sementara penjualan emas bersih melonjak 96 persen dan saldo gadai serta cicilan emas tumbuh 38,6 persen. Di segmen korporasi dan komersial, pinjaman ekosistem komersial tumbuh 51 persen dengan simpanan ekosistemnya melonjak 134,4 persen, sedangkan pengguna aktif bulanan aplikasi BRImo naik 13 persen menjadi 26 juta dengan nilai transaksi tumbuh 27,6 persen."
+  ],
+  "fotoAdegan": "A small grocery stall owner using a handheld card payment terminal to serve a customer at a busy Indonesian street market, daylight",
+  "takeaway": "Laporan ini condong positif bagi BRI karena laba bersih sembilan bulan 2026 tumbuh 16,8 persen menjadi Rp48,2 triliun, ditopang pertumbuhan kredit dan dana pihak ketiga yang masing-masing di atas 10 persen serta perbaikan kualitas kredit di segmen mikro. Yang perlu dicermati adalah margin bunga bersih, yaitu selisih antara bunga yang diterima bank dari kredit dan bunga yang dibayarkan ke nasabah, yang menyusut dari 3,0 persen menjadi 2,6 persen karena biaya dana masih tinggi. Rasio kecukupan modal, penyangga bank saat terjadi kerugian, juga turun dari 25,4 persen menjadi 23,0 persen, meski masih jauh di atas batas minimum regulator sehingga belum mengkhawatirkan. Pembaca sebaiknya memantau laporan kinerja penuh tahun 2026 yang biasanya terbit pada awal tahun berikutnya, untuk melihat apakah perbaikan kualitas kredit mikro berlanjut dan apakah tekanan margin bunga mulai mereda pada kuartal keempat.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "buva-direksi-cindy-budijono-beli-1-25-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Direksi Cindy Budijono Beli [1,25 Juta] Saham",
+  "deck": "Direktur BUVA, Cindy Budijono, menambah kepemilikan sahamnya 1,25 juta lembar pada 2 November 2026, tapi porsi hak suaranya di perseroan tetap 0,02 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:54:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-0704-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "Bukit Uluwatu Villa",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Cindy Budijono, anggota direksi PT Bukit Uluwatu Villa Tbk (BUVA), melaporkan ke Otoritas Jasa Keuangan bahwa ia membeli saham perseroan secara tidak langsung sebanyak 1.250.000 lembar saham biasa pada harga Rp250 per lembar. Transaksi tercatat pada 2 November 2026 dengan tujuan investasi, dan laporannya disampaikan ke OJK pada 9 November 2026.",
+   "Sebelum transaksi ini, Cindy memegang 5.000.000 lembar saham BUVA. Setelah pembelian, jumlahnya naik menjadi 6.250.000 lembar, atau bertambah 1.250.000 lembar, setara kenaikan 25 persen dari kepemilikannya sebelumnya. Dengan harga Rp250 per lembar, nilai transaksi ini sekitar Rp312,5 juta.",
+   "Meski kepemilikan pribadinya naik cukup besar secara persentase, porsi hak suara Cindy di BUVA tercatat tidak berubah, tetap di angka 0,02 persen baik sebelum maupun sesudah transaksi."
+  ],
+  "fotoAdegan": "Infinity pool deck of a cliffside Bali resort villa overlooking the ocean, palm trees swaying, soft late afternoon light",
+  "takeaway": "Laporan ini netral bagi BUVA, karena meski seorang direksi menambah kepemilikan pribadinya sebesar 25 persen, dampaknya terhadap peta kendali perusahaan nihil. Pos yang tersentuh di sini adalah hak suara, yaitu besar pengaruh seorang pemegang saham dalam keputusan di rapat pemegang saham, dan karena porsi Cindy tetap di bawah 1 persen baik sebelum maupun sesudah transaksi, pembelian ini tidak menggeser siapa yang punya kendali atas BUVA. Nilai transaksinya juga tergolong kecil, sekitar Rp312,5 juta, sehingga tidak mengubah kondisi keuangan perseroan. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris BUVA lain turut menambah kepemilikan dalam waktu dekat, karena pola pembelian serupa dari beberapa orang insider sekaligus baru akan punya arti sebagai sinyal kepercayaan manajemen terhadap perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "buva-pemegang-saham-hapsoro-tambah-10-9-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: [Pemegang Saham] Hapsoro Tambah 10,9 Juta Saham",
+  "deck": "Hapsoro membeli 10,96 juta saham BUVA secara tidak langsung senilai Rp250 per saham pada 2 November 2026, menambah kepemilikannya 25 persen namun hak suaranya tetap 0,18 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:51:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-0000-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "pemegang saham",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bukit Uluwatu Villa Tbk (BUVA) menerima laporan keterbukaan informasi dari Hapsoro, pemegang saham perusahaan yang bukan anggota direksi maupun dewan komisaris, mengenai penambahan kepemilikan sahamnya. Dalam laporan yang disampaikan ke Otoritas Jasa Keuangan pada 9 November 2026, Hapsoro mencatatkan pembelian 10.961.262 lembar saham BUVA secara tidak langsung pada 2 November 2026 dengan harga Rp250 per saham. Transaksi ini dilakukan dengan tujuan investasi.",
+   "Dengan transaksi tersebut, jumlah saham yang dimiliki Hapsoro bertambah dari 43.845.049 lembar menjadi 54.806.311 lembar, atau naik 25 persen dari kepemilikan sebelumnya. Meski begitu, porsi hak suaranya di BUVA tidak berubah, tetap di angka 0,18 persen baik sebelum maupun sesudah transaksi, karena kepemilikannya terhadap total saham BUVA yang beredar memang masih sangat kecil."
+  ],
+  "fotoAdegan": "Tropical cliffside villa resort with infinity pools and palm trees overlooking the ocean in Bali, soft morning light, no people",
+  "takeaway": "Laporan ini netral bagi BUVA, sebab pembelian oleh Hapsoro tidak mengubah hak suaranya yang tetap 0,18 persen, sehingga tidak menggeser peta kendali perusahaan meski kepemilikan pribadinya sendiri naik 25 persen. Pos yang tersentuh hanya struktur kepemilikan saham, bukan kas atau ekuitas BUVA, karena ini jual beli saham antar pemegang saham yang sudah ada di pasar sekunder, bukan penerbitan saham baru, sehingga jumlah saham BUVA yang beredar tidak bertambah. Yang perlu dipantau berikutnya adalah apakah Hapsoro dan pemegang saham lain terus menambah kepemilikan dalam laporan-laporan mendatang, mengingat pada hari yang sama BUVA juga melaporkan pembelian saham oleh direksi Cindy Budijono, yang bisa jadi indikasi pola akumulasi saham yang lebih luas jika berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "buva-direksi-satrio-tambah-3-66-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Direksi Satrio [Tambah] 3,66 Juta Saham",
+  "deck": "Direksi BUVA, Satrio, membeli 3,66 juta saham secara tidak langsung seharga Rp250 per saham, menaikkan kepemilikannya 26,4 persen meski hak suaranya tetap 0,06 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:47:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-5383-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "Kepemilikan saham",
+   "Insider trading",
+   "Direksi"
+  ],
+  "body": [
+   "Satrio, anggota Direksi PT Bukit Uluwatu Villa Tbk (BUVA), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 3.658.333 saham BUVA secara tidak langsung pada 2 November 2026 dengan harga Rp250 per saham. Tujuan transaksi tercatat sebagai investasi. Dengan pembelian ini, kepemilikan saham Satrio di BUVA naik dari 13.833.334 unit menjadi 17.491.667 unit, atau bertambah 26,44 persen dari posisi sebelumnya.",
+   "Meski jumlah saham yang dipegang Satrio bertambah signifikan secara persentase pribadi, hak suaranya di BUVA tercatat tidak berubah, tetap di angka 0,06 persen baik sebelum maupun sesudah transaksi. Laporan ini disampaikan sesuai POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan tempat mereka menjabat.",
+   "Laporan Satrio ini merupakan laporan kepemilikan insider ketiga dari BUVA dalam sepekan terakhir, setelah sebelumnya Direksi Cindy Budijono dan pemegang saham Hapsoro juga melaporkan penambahan kepemilikan saham mereka."
+  ],
+  "fotoAdegan": "Quiet cliffside villa resort pool area in Bali with palm trees swaying, a gardener trimming hedges in soft morning light",
+  "takeaway": "Laporan ini netral bagi BUVA, sebab meski porsi kepemilikan pribadi Satrio sebagai Direksi naik 26,44 persen menjadi 17,49 juta saham, hak suaranya di perusahaan tetap di angka 0,06 persen sehingga peta kendali tidak bergeser. Pos yang tersentuh hanya catatan kepemilikan insider, bukan struktur modal atau kinerja BUVA, karena ini pembelian saham yang sudah beredar di pasar, bukan penerbitan saham baru, sehingga tidak menambah jumlah saham beredar perusahaan maupun mengubah laba per saham. Yang perlu dicermati, ini adalah laporan insider ketiga BUVA dalam sepekan setelah Direksi Cindy Budijono dan pemegang saham Hapsoro juga menambah kepemilikan mereka, pola yang pantas dipantau meski masing-masing transaksi masih terlalu kecil untuk dibaca sebagai sinyal kuat. Transaksi Satrio sendiri terjadi pada 2 November 2026 lewat skema pembelian tidak langsung, dan dokumen ini tidak menyebutkan tenggat atau agenda RUPSLB baru yang perlu ditunggu selanjutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sini-deli-indonesia-raya-tambah-kepemilikan-1-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "SINI: Deli Indonesia Raya Tambah [Kepemilikan] 1 Juta Saham",
+  "deck": "PT Deli Indonesia Raya, pemegang saham pengendali SINI, menambah 1 juta lembar saham lewat pembelian bertahap pada 5-9 November 2026, menaikkan hak suaranya ke 7,56%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:46:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-9038-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SINI",
+  "tags": [
+   "SINI",
+   "kepemilikan saham",
+   "Singaraja Putra",
+   "Deli Indonesia Raya"
+  ],
+  "body": [
+   "PT Deli Indonesia Raya melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menambah kepemilikan saham di PT Singaraja Putra Tbk (SINI) dari 90.000.000 lembar menjadi 91.000.000 lembar, atau bertambah 1.000.000 lembar. Penambahan ini membuat hak suara Deli Indonesia Raya di SINI naik dari 7,48 persen menjadi 7,56 persen. Dalam laporan tersebut, Deli Indonesia Raya tercatat sebagai pemegang saham pengendali dan menyatakan akan tetap mempertahankan status pengendalinya.",
+   "Penambahan 1 juta lembar saham itu dilakukan melalui pembelian tidak langsung dalam 17 transaksi terpisah yang tersebar di tiga hari, yaitu 5, 6, dan 9 November 2026. Pada 5 November dibeli 200.000 lembar seharga Rp7.650 per saham. Pada 6 November, pembelian dipecah menjadi sembilan transaksi dengan total 238.600 lembar pada rentang harga Rp7.225 hingga Rp7.650 per saham. Pembelian terbesar terjadi pada 9 November dengan tujuh transaksi senilai total 561.400 lembar, pada rentang harga Rp7.575 hingga Rp7.725 per saham. Seluruh transaksi tercatat dengan tujuan investasi.",
+   "Laporan ini merupakan laporan kepemilikan saham wajib yang disampaikan setiap kali terjadi perubahan kepemilikan oleh pemegang saham pengendali atau pihak terafiliasi, sesuai POJK Nomor 4/2024."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in a Jakarta business district, reflecting afternoon sky, pedestrians walking below",
+  "takeaway": "Laporan ini netral bagi fundamental Singaraja Putra, karena pembelian dilakukan di pasar sekunder oleh pemegang saham pengendali dan tidak mengalirkan dana segar atau aset baru ke kas perusahaan. Pos yang tersentuh adalah hak suara pengendali, yang naik tipis dari 7,48 persen menjadi 7,56 persen, sebuah ukuran kekuatan suara dalam RUPS yang menentukan siapa yang bisa mengarahkan keputusan penting perusahaan, bukan arus kas atau laba. Kenaikan 0,08 poin persentase ini tergolong kecil dan belum mengubah peta kendali secara berarti. Yang perlu dipantau berikutnya adalah apakah pola pembelian bertahap ini berlanjut, mengingat laporan ini sendiri mencatat transaksi di tiga hari berbeda dalam rentang 5 sampai 9 November 2026, sehingga publik perlu mencermati laporan kepemilikan saham berikutnya dari Deli Indonesia Raya untuk melihat apakah akumulasi ini terus berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hits-jadwalkan-rupst-rupslb-16-desember-bahas-modal-dasar",
+  "category": "Aksi Korporasi",
+  "title": "HITS Jadwalkan RUPST-RUPSLB 16 Desember, Bahas [Modal Dasar]",
+  "deck": "HITS akan gelar RUPST dan RUPSLB pada 16 Desember 2026, dengan satu agenda RUPSLB soal rencana menaikkan modal dasar perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:30:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/073b252e79_edf0c41802.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HITS",
+  "tags": [
+   "HITS",
+   "RUPST",
+   "RUPSLB",
+   "modal dasar"
+  ],
+  "body": [
+   "PT Humpuss Intermoda Transportasi Tbk (HITS) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) dan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 16 Desember 2026, di Mangkuluhur City Tower One, Meeting Room Lantai 26, Jalan Jenderal Gatot Subroto, Jakarta. RUPST dijadwalkan pukul 10.00 WIB, dilanjutkan RUPSLB sekitar pukul 11.45 hingga 13.00 WIB. Pemegang saham yang berhak hadir dan memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 23 November 2026 pukul 16.00 WIB, sementara pemanggilan resmi berisi mata acara lengkap baru akan diumumkan pada Selasa, 24 November 2026.",
+   "Untuk RUPST, ada empat agenda yang akan dibahas: persetujuan laporan tahunan dan pengesahan laporan keuangan konsolidasi teraudit untuk tahun buku 2025, penetapan penggunaan laba bersih perseroan tahun buku 2025, penunjukan akuntan publik untuk tahun buku 2026, serta penetapan gaji dan tunjangan bagi Direksi dan Dewan Komisaris.",
+   "Sementara itu, RUPSLB hanya memuat satu agenda, yaitu peningkatan modal dasar perseroan. Berdasarkan data sistem eASY.KSEI, jumlah saham beredar HITS sekitar 7,1 miliar lembar, dengan kuorum minimum yang disyaratkan sekitar 3,55 miliar saham untuk agenda RUPST dan sekitar 4,73 miliar saham untuk agenda RUPSLB soal modal dasar tersebut. Perseroan juga mengimbau pemegang saham memberi kuasa secara elektronik melalui fasilitas e-Proxy eASY.KSEI yang disediakan KSEI. Surat pemberitahuan ke Otoritas Jasa Keuangan ditandatangani Direktur Utama Djoko Wiseno, sedangkan pengumuman kepada pemegang saham ditandatangani Corporate Secretary Setiawan T. Widjojo."
+  ],
+  "fotoAdegan": "Tugboats and cargo ships moored at a busy Jakarta port terminal, cranes in the background, soft morning light",
+  "takeaway": "Laporan ini netral bagi fundamental HITS karena baru memuat rencana rapat, bukan keputusan final soal penambahan modal. Yang perlu dicermati adalah agenda RUPSLB soal peningkatan modal dasar, yaitu batas maksimum saham yang boleh diterbitkan perseroan ke depan; kalau batas itu dinaikkan dan kelak benar dipakai untuk menerbitkan saham baru, jumlah saham beredar bertambah dan laba per saham milik pemegang saham lama berisiko terdilusi karena keuntungan yang sama harus dibagi ke lebih banyak lembar saham. Sejauh ini dokumen belum menyebut berapa saham baru yang akan diterbitkan atau untuk tujuan apa, sehingga dampaknya masih potensial, bukan pasti. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPST/RUPSLB pada 24 November 2026 yang akan memuat detail usulan modal dasar, serta hasil keputusan RUPSLB itu sendiri pada 16 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel",
   "category": "UMKM",
   "title": "UMKM Kerajinan Difabel PUKA Teken [LoI] Ekspansi ke Ritel",
@@ -57,6 +291,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang konkret dari kunjungan ini adalah data ekspor: produk lampu dan penerangan Indonesia tumbuh 20,91 persen dalam sembilan bulan pertama 2026 menjadi US$58,29 juta, tapi sekitar 76 persen dari nilai itu bergantung pada satu pasar saja, yaitu Amerika Serikat. Ini berarti eksportir produk penerangan, termasuk yang bertenaga surya seperti PT SIH, cukup rentan kalau ada perubahan kebijakan dagang atau tarif di Amerika Serikat. Pemerintah sendiri tampak menyadari risiko konsentrasi pasar ini, karena mendorong perusahaan memanfaatkan jaringan 46 perwakilan dagang di 33 negara dan mengikuti pameran Trade Expo Indonesia pada Oktober 2027 untuk menjajaki pasar di luar AS. Arah yang bisa dibaca adalah upaya diversifikasi pasar ekspor penerangan, dan yang akan menunjukkan apakah upaya itu membawa hasil adalah apakah porsi ekspor ke Amerika Serikat mengecil pada data ekspor tahun 2027 mendatang.",
   "imageV": "mw94wtap"
+ },
+ {
+  "slug": "ultj-bagi-dividen-tunai-tambahan-rp100-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Bagi [Dividen] Tunai Tambahan Rp100 per Saham",
+  "deck": "RUPSLB ULTJ menyetujui dividen tunai tambahan Rp100 per saham untuk tahun buku 2025, total Rp1,04 triliun, dibayarkan 9 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T17:28:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de48692ef4_3a956faf42.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "dividen tunai",
+   "RUPSLB",
+   "Ultrajaya"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) akan membagikan dividen tunai tambahan sebesar Rp100 per saham untuk tahun buku 2025, setelah disetujui dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 6 November 2026. Total dana yang dibagikan sebesar Rp1.039.817.520.000, yang diambil dari sebagian saldo laba ditahan yang belum ditentukan penggunaannya, tepatnya 13,8 persen dari saldo tersebut. Perusahaan menyebut dividen ini sebagai tambahan atas dividen final yang sudah diumumkan sebelumnya, sehingga total dividen tunai untuk tahun buku 2025 menjadi Rp230 per saham. Dasar pembagian ini merujuk pada laba bersih yang diatribusikan ke pemegang saham induk sebesar Rp1,35 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp7,53 triliun, dan total ekuitas Rp8,32 triliun per 31 Desember 2025.",
+   "Jadwal pembagiannya sudah ditetapkan. Tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 16 November 2026, dengan ex dividen sehari setelahnya pada 17 November 2026. Di pasar tunai, cum dividen berlaku 18 November 2026 dan ex dividen 19 November 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada 18 November 2026 pukul 16.00 WIB berhak menerima dividen ini, yang akan dibayarkan paling lambat pada 9 Desember 2026.",
+   "Keputusan ini merupakan salah satu dari lima agenda yang dibahas dalam RUPSLB yang sama, di mana 88,39 persen dari total saham beredar hadir atau diwakili. Khusus agenda dividen, persetujuan datang dari 98,71 persen suara yang hadir, sementara 1,17 persen menolak dan 0,12 persen abstain. RUPSLB tersebut juga menyetujui rencana penambahan modal dengan hak memesan efek terlebih dahulu serta akuisisi penuh PT Frisian Flag Indonesia, dua agenda besar yang sebelumnya sudah diberitakan tersendiri."
+  ],
+  "fotoAdegan": "Workers inspecting rows of sealed milk cartons moving along a packaging line conveyor inside a dairy factory",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham ULTJ, karena perusahaan benar benar mengembalikan uang tunai ke pemegang saham, Rp100 per saham atau total Rp1,04 triliun, dengan laba bersih Rp1,35 triliun dan saldo laba ditahan yang masih tersisa besar sehingga pembayaran ini tidak menggerus kesehatan keuangan perusahaan. Pos yang tersentuh adalah saldo laba ditahan, yaitu akumulasi keuntungan tahun-tahun sebelumnya yang belum dibagi, yang berkurang sejumlah nilai dividen, serta arus kas perusahaan yang akan keluar sebesar itu pada saat pembayaran; dividen tunai seperti ini tidak menambah jumlah saham beredar, jadi tidak ada dilusi laba per saham dari langkah ini sendiri. Yang perlu dipantau justru bukan dividen ini, melainkan proses penambahan modal lewat hak memesan efek terlebih dahulu yang disetujui dalam RUPSLB yang sama, yang bisa menerbitkan saham baru dalam jumlah besar untuk membiayai akuisisi Frisian Flag Indonesia, karena itu yang berpotensi mengubah jumlah saham beredar dan laba per saham ke depan. Tanggal pembayaran dividen sendiri sudah pasti, 9 Desember 2026.",
+  "sentimen": "positif"
  },
  {
   "slug": "srtg-jadwalkan-rupslb-virtual-pada-16-desember-2026",
@@ -322,6 +582,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "bmas-tarik-us-18-juta-lagi-dari-kbank-total-jadi-us-258-juta",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Tarik [US$18 Juta] Lagi dari KBank, Total Jadi US$258 Juta",
+  "deck": "BMAS mencairkan tambahan US$18 juta dari fasilitas pinjaman bilateral pemegang saham utamanya, KBank, sehingga total penarikan mencapai US$258 juta dari limit US$341 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:06:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/40326f8631_ab663ffc47.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "KBank",
+   "pinjaman afiliasi",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) kembali menarik dana dari fasilitas pinjaman bilateral yang diberikan oleh pemegang saham utamanya, KASIKORNBANK PUBLIC COMPANY LIMITED (KBank). Pada 9 November 2026, perusahaan menarik CNH 120,9 juta atau setara US$18 juta, sehingga total penarikan dari fasilitas ini sejak Agustus 2026 mencapai US$258 juta.",
+   "Fasilitas pinjaman bilateral ini memiliki limit total US$341 juta, dengan tenor hingga dua tahun sejak masing-masing tanggal penarikan dan bunga mengacu pada SOFR, yaitu suku bunga acuan dolar Amerika Serikat yang bergerak sesuai kondisi pasar, ditambah margin. Dari total limit tersebut, US$235 juta sudah terikat perjanjian turunan (underlying) dengan KBank. Perseroan menyebut pinjaman ini digunakan untuk menopang likuiditas jangka panjang dan mendukung penyaluran kredit kepada nasabah, dengan pencairan dilakukan bertahap.",
+   "Penarikan dimulai pada 21 Agustus 2026 sebesar US$55 juta, lalu dilanjutkan dengan penarikan dalam mata uang yuan lepas pantai (CNH) senilai CNH 201 juta atau setara US$30 juta yang efektif pada 20 Oktober 2026, dengan dana ekuivalen dolar sebesar US$155 juta efektif sehari setelahnya. KBank merupakan pemegang saham pengendali tertinggi (ultimate shareholder) BMAS melalui anak usahanya, Kasikorn Vision Financial Company Pte Ltd, yang menguasai 86,03 persen saham BMAS atau 89,48 persen bila dihitung bersama seluruh kepemilikan Grup KASIKORNBANK. Perseroan menyatakan transaksi ini tidak mengandung benturan kepentingan sesuai POJK 42/2020 tentang Transaksi Afiliasi."
+  ],
+  "fotoAdegan": "Exterior of a modern glass-clad bank office tower in Jakarta's central business district under afternoon light, pedestrians walking past entrance",
+  "takeaway": "Laporan ini netral bagi BMAS karena penarikan tambahan US$18 juta ini hanyalah kelanjutan bertahap dari fasilitas pinjaman yang sudah diumumkan sebelumnya, dengan bunga mengikuti pasar dan tanpa tanda tekanan likuiditas mendesak. Yang tersentuh adalah sisi utang dan beban bunga BMAS, sebab pinjaman berbunga SOFR plus margin ini menambah kewajiban bank kepada pihak berelasi dan akan menaikkan biaya dana, meski di sisi lain dana tersebut memperbesar amunisi BMAS untuk menyalurkan kredit baru ke nasabah. Yang perlu dipantau selanjutnya adalah sisa kapasitas fasilitas yang belum ditarik, sekitar US$83 juta dari limit US$341 juta, serta apakah BMAS akan mencairkannya lagi secara bertahap seperti pola penarikan sejak Agustus 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "abmm-cipta-kridatama-raih-kontrak-tambang-batu-bara-5-tahun",
   "category": "Aksi Korporasi",
   "title": "ABMM: Cipta Kridatama Raih [Kontrak] Tambang Batu Bara 5 Tahun",
@@ -504,6 +790,58 @@ var ARTICLES = [
   "fotoAdegan": "Abandoned open-pit coal mine with idle excavators and overgrown tracks under an overcast sky, no workers in sight",
   "takeaway": "Laporan ini condong negatif bagi BOSS, karena RUPST dan RUPSLB pertama sama-sama gagal kuorum, hanya 33,33 persen dan 35,95 persen saham yang hadir padahal syaratnya masing-masing lebih dari separuh dan sedikitnya dua pertiga, menandakan rendahnya partisipasi pemegang saham mayoritas. Agenda yang tertunda termasuk pengesahan laporan keuangan tiga tahun buku sekaligus dan pembebasan tanggung jawab direksi atau acquit et de charge, yakni persetujuan yang melepaskan pengurus dari tanggung jawab hukum atas kinerja masa itu, penting diperhatikan karena perusahaan ini sudah lama mencatat defisit modal dan nihil penjualan sehingga pertanggungjawaban pengurus jadi sorotan. Yang perlu dipantau adalah apakah rapat kedua pada 16 November 2026 berhasil mencapai kuorum, sebab jika kembali gagal, pengesahan laporan keuangan tiga tahun yang tertunda itu bisa makin berlarut dan Perseroan mungkin perlu menempuh jalur lain seperti permohonan ke pengadilan untuk mengesahkan rapat.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "boss-penuhi-public-expose-suspensi-saham-tetap-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Penuhi Public Expose, [Suspensi] Saham Tetap Berlanjut",
+  "deck": "BOSS menegaskan kewajiban Public Expose tahunan terpenuhi, namun materi yang dilampirkan menunjukkan tambang masih nihil produksi dan suspensi saham belum tuntas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T14:16:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9b50c8485a_d337625d68.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "suspensi saham",
+   "public expose",
+   "batubara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) menyampaikan surat Nomor 12.225/SL.e/Corsec/BOSS/XI/2026 tertanggal 9 November 2026 yang ditandatangani Direktur Widodo Nurly Sumady. Surat itu menyatakan Perseroan telah memenuhi kewajiban Public Expose Tahunan sesuai Peraturan Bursa I-E, merujuk pada Laporan Keuangan Tahunan yang sebelumnya disampaikan lewat surat No. 12.190a/SL.e/Dir/BOSS/X/2026 tanggal 29 Oktober 2026. Perseroan melampirkan materi Public Expose tahun 2023, 2024, dan 2025 sekaligus siaran pers bertanggal 4 November 2026.",
+   "Materi yang dilampirkan menegaskan suspensi saham BOSS masih berlangsung sejak April 2024, akibat keterlambatan laporan keuangan auditan tahun buku 2023 sampai 2025 serta dampak kepailitan anak usaha PT Bangun Olah Sarana Sukses (BOS). Sepanjang 2024 dan 2025, Perseroan tidak mencatatkan satu pun transaksi produksi maupun penjualan batubara, karena kegiatan tambang terhenti akibat banjir dan longsor serta keterbatasan modal kerja. Anak usaha lain, PT Pratama Bersama (PB), sudah mengantongi persetujuan Rencana Kerja dan Anggaran Biaya (RKAB) dari Kementerian ESDM untuk periode 2024-2026 dengan kuota produksi maksimal 600.000 ton per tahun atau total 1,8 juta ton selama tiga tahun. Sementara itu, BOS yang pailit sejak 2022 memperoleh izin going concern dari Pengadilan Niaga Jakarta Pusat pada 21 Maret 2024 agar tetap beroperasi di bawah kurator dan tetap dikonsolidasikan dalam laporan keuangan BOSS.",
+   "Dokumen juga menyebut cadangan batubara terbukti dan terkira sebesar 15,3 juta ton berdasarkan standar JORC 2012 per Agustus 2018, terdiri dari 10,8 juta ton di PB dan 4,4 juta ton di BOS. PB sebelumnya menerima dukungan pendanaan eksplorasi dari Pemerintah Jepang melalui Japan Organization for Metals and Energy Security (JOGMEC) hingga US$3 juta. Soal harga, Harga Batubara Acuan sempat tertekan turun hingga sekitar US$98 per ton pada Desember 2025, lalu menguat kembali ke kisaran US$122 sampai US$132 per ton pada Juni-Oktober 2026. Perseroan menyatakan masih menjajaki mitra strategis untuk modal kerja dan perbaikan infrastruktur pascabencana, sembari menuntaskan laporan keuangan auditan 2023-2025 dan penjadwalan RUPS serta RUPSLB sebagai syarat pencabutan suspensi."
+  ],
+  "fotoAdegan": "Idle open-pit coal mine with rusting excavators and empty haul trucks parked on a muddy access road, overcast tropical sky",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena di balik formalitas pemenuhan kewajiban Public Expose, materi yang dilampirkan justru menegaskan tambang masih nihil produksi dan penjualan selama dua tahun berturut-turut serta suspensi saham belum juga tuntas sejak April 2024. Nihilnya pemasukan kas dari operasional membuat Perseroan terus mengandalkan efisiensi biaya di tingkat holding, sementara kewajiban kepada kreditur dan entitas anak menumpuk, situasi yang selaras dengan defisit modal alias ekuitas negatif yang sudah dilaporkan melebar di kuartal-kuartal sebelumnya. Satu titik terang yang disebut dokumen ini adalah harga batubara acuan yang kembali menguat ke US$122-132 per ton pada Juni-Oktober 2026 setelah sempat jatuh ke US$98 per ton, tapi itu baru berarti kalau tambang PB benar-benar kembali beroperasi. Yang perlu dipantau berikutnya adalah hasil RUPS dan RUPSLB panggilan kedua pada 16 November 2026, serta kelanjutan negosiasi dengan mitra strategis yang menurut dokumen ini masih berjalan tanpa tenggat pasti.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cani-gelar-rupst-dan-rupslb-16-desember",
+  "category": "Aksi Korporasi",
+  "title": "CANI Gelar RUPST dan RUPSLB [16 Desember]",
+  "deck": "PT Capitol Nusantara Indonesia Tbk (CANI) menjadwalkan RUPST dan RUPSLB pada 16 Desember 2026, dengan tanggal pencatatan pemegang saham 23 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T14:13:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e33e4f4125_b875bb6034.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CANI",
+  "tags": [
+   "CANI",
+   "RUPST",
+   "RUPSLB",
+   "Capitol Nusantara Indonesia"
+  ],
+  "body": [
+   "PT Capitol Nusantara Indonesia Tbk (CANI) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku yang berakhir 30 Juni 2026, sekaligus Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Kedua rapat digelar bersamaan pada Rabu, 16 Desember 2026, pukul 13.30 WIB. Lokasi rapat belum diumumkan dan akan disampaikan menyusul. Rencana ini disampaikan sesuai pasal 21 ayat 4 Anggaran Dasar Perseroan juncto POJK Nomor 15/POJK.04/2020 tentang Rencana dan Penyelenggaraan RUPS Perusahaan Terbuka, dan ditandatangani Direktur Yanuar C. Wijaya di Jakarta pada 9 November 2026.",
+   "Pemanggilan resmi yang memuat agenda lengkap rapat akan diterbitkan melalui satu surat kabar harian berbahasa Indonesia berperedaran nasional pada 24 November 2026, serta dipublikasikan di situs web Bursa Efek Indonesia, situs KSEI (eASY.KSEI), dan situs perusahaan. Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada 23 November 2026 sampai pukul 16.00 WIB.",
+   "Perseroan juga membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat sesuai pasal 21 ayat 7 Anggaran Dasar Perseroan juncto pasal 16 POJK 15/2020. Usulan tersebut harus diterima Direksi paling lambat 7 hari sebelum tanggal pemanggilan rapat, yaitu sekitar 17 November 2026."
+  ],
+  "fotoAdegan": "A tugboat towing a loaded barge along a calm strait near a Batam port, workers on deck checking ropes, early morning light",
+  "takeaway": "Laporan ini netral bagi CANI karena isinya baru soal jadwal dan tata cara RUPST dan RUPSLB, belum ada keputusan atau agenda yang berdampak langsung ke kinerja keuangan. Yang perlu diperhatikan, RUPST dan RUPSLB biasanya memutuskan hal yang menyentuh pos keuangan penting, misalnya pembagian dividen yang mengurangi kas dan ekuitas perusahaan, atau perubahan susunan direksi dan aksi korporasi yang bisa mengubah jumlah saham beredar sehingga laba per saham ikut bergeser. Karena agenda rincinya belum diumumkan di dokumen ini, dampaknya belum bisa dinilai. Yang perlu dipantau selanjutnya adalah pemanggilan resmi berisi agenda lengkap yang dijadwalkan terbit 24 November 2026, serta pelaksanaan rapat itu sendiri pada 16 Desember 2026, saat substansi keputusannya baru akan terlihat.",
+  "sentimen": "netral"
  },
  {
   "slug": "bbni-tutup-layanan-bni-mobile-banking-pindah-ke-wondr",

@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rans-resmi-batalkan-kerja-sama-konser-d-masiv-tur-asia",
+  "category": "Aksi Korporasi",
+  "title": "RANS Resmi Batalkan Kerja Sama Konser [D'MASIV] Tur Asia",
+  "deck": "RANS resmi membatalkan rencana kerja sama konser D'MASIV Asia Home Run Tour per 9 November 2026, tiga hari setelah membantah kabar serupa ke publik.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RANS",
+   "D'MASIV",
+   "IPO",
+   "konser musik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/365dad443c_5a414a455f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bwpt-tawarkan-obligasi-dan-sukuk-baru-rp550-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Tawarkan [Obligasi] dan Sukuk Baru Rp550 Miliar",
+  "deck": "Eagle High Plantations menerbitkan obligasi hingga Rp175 miliar dan sukuk mudharabah hingga Rp375 miliar tahap II, bunga 9,5-12 persen per tahun.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "obligasi",
+   "sukuk",
+   "surat utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4dc6155140_675d268461.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bwpt-rinci-bunga-obligasi-sukuk-12-senilai-rp550-m",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Rinci Bunga Obligasi-Sukuk [12%] Senilai Rp550 M",
+  "deck": "Eagle High Plantations merinci struktur tiga seri obligasi dan sukuk mudharabah tahap II senilai total Rp550 miliar, dengan bunga 9,5 sampai 12 persen dan masa penawaran 23-24 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "obligasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/835d807fb5_29b2458347.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbri-cetak-laba-rp48-2-triliun-di-9-bulan-2026-naik-16-8",
+  "category": "Aksi Korporasi",
+  "title": "BBRI Cetak Laba [Rp48,2] Triliun di 9 Bulan 2026, Naik 16,8%",
+  "deck": "BRI melaporkan laba bersih Rp48,2 triliun pada sembilan bulan 2026, naik 16,8 persen, didorong kredit yang tumbuh 14,5 persen dan dana pihak ketiga naik 12 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBRI",
+   "kinerja keuangan",
+   "laba bersih",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d443245ae_ccf9c761d9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-direksi-cindy-budijono-beli-1-25-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Direksi Cindy Budijono Beli [1,25 Juta] Saham",
+  "deck": "Direktur BUVA, Cindy Budijono, menambah kepemilikan sahamnya 1,25 juta lembar pada 2 November 2026, tapi porsi hak suaranya di perseroan tetap 0,02 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "Bukit Uluwatu Villa",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-0704-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-pemegang-saham-hapsoro-tambah-10-9-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: [Pemegang Saham] Hapsoro Tambah 10,9 Juta Saham",
+  "deck": "Hapsoro membeli 10,96 juta saham BUVA secara tidak langsung senilai Rp250 per saham pada 2 November 2026, menambah kepemilikannya 25 persen namun hak suaranya tetap 0,18 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "pemegang saham",
+   "kepemilikan saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-0000-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-direksi-satrio-tambah-3-66-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Direksi Satrio [Tambah] 3,66 Juta Saham",
+  "deck": "Direksi BUVA, Satrio, membeli 3,66 juta saham secara tidak langsung seharga Rp250 per saham, menaikkan kepemilikannya 26,4 persen meski hak suaranya tetap 0,06 persen.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "Kepemilikan saham",
+   "Insider trading",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-5383-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sini-deli-indonesia-raya-tambah-kepemilikan-1-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "SINI: Deli Indonesia Raya Tambah [Kepemilikan] 1 Juta Saham",
+  "deck": "PT Deli Indonesia Raya, pemegang saham pengendali SINI, menambah 1 juta lembar saham lewat pembelian bertahap pada 5-9 November 2026, menaikkan hak suaranya ke 7,56%.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SINI",
+   "kepemilikan saham",
+   "Singaraja Putra",
+   "Deli Indonesia Raya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-9038-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hits-jadwalkan-rupst-rupslb-16-desember-bahas-modal-dasar",
+  "category": "Aksi Korporasi",
+  "title": "HITS Jadwalkan RUPST-RUPSLB 16 Desember, Bahas [Modal Dasar]",
+  "deck": "HITS akan gelar RUPST dan RUPSLB pada 16 Desember 2026, dengan satu agenda RUPSLB soal rencana menaikkan modal dasar perseroan.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HITS",
+   "RUPST",
+   "RUPSLB",
+   "modal dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/073b252e79_edf0c41802.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel",
   "category": "UMKM",
   "title": "UMKM Kerajinan Difabel PUKA Teken [LoI] Ekspansi ke Ritel",
@@ -39,6 +183,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dukung-perluasan-ekspor-produsen-manufaktur-teknologi-pemanfaatan-energi-surya-mendag-busan-kunjungi-pt-synergy-infra-hijau",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ultj-bagi-dividen-tunai-tambahan-rp100-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "ULTJ Bagi [Dividen] Tunai Tambahan Rp100 per Saham",
+  "deck": "RUPSLB ULTJ menyetujui dividen tunai tambahan Rp100 per saham untuk tahun buku 2025, total Rp1,04 triliun, dibayarkan 9 Desember 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "dividen tunai",
+   "RUPSLB",
+   "Ultrajaya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de48692ef4_3a956faf42.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "srtg-jadwalkan-rupslb-virtual-pada-16-desember-2026",
@@ -202,6 +362,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bmas-tarik-us-18-juta-lagi-dari-kbank-total-jadi-us-258-juta",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Tarik [US$18 Juta] Lagi dari KBank, Total Jadi US$258 Juta",
+  "deck": "BMAS mencairkan tambahan US$18 juta dari fasilitas pinjaman bilateral pemegang saham utamanya, KBank, sehingga total penarikan mencapai US$258 juta dari limit US$341 juta.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "KBank",
+   "pinjaman afiliasi",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/40326f8631_ab663ffc47.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "abmm-cipta-kridatama-raih-kontrak-tambang-batu-bara-5-tahun",
   "category": "Aksi Korporasi",
   "title": "ABMM: Cipta Kridatama Raih [Kontrak] Tambang Batu Bara 5 Tahun",
@@ -312,6 +488,38 @@ var ARTICLES = [
    "tata kelola"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a078337837_1901f91fdf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "boss-penuhi-public-expose-suspensi-saham-tetap-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Penuhi Public Expose, [Suspensi] Saham Tetap Berlanjut",
+  "deck": "BOSS menegaskan kewajiban Public Expose tahunan terpenuhi, namun materi yang dilampirkan menunjukkan tambang masih nihil produksi dan suspensi saham belum tuntas.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "suspensi saham",
+   "public expose",
+   "batubara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9b50c8485a_d337625d68.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cani-gelar-rupst-dan-rupslb-16-desember",
+  "category": "Aksi Korporasi",
+  "title": "CANI Gelar RUPST dan RUPSLB [16 Desember]",
+  "deck": "PT Capitol Nusantara Indonesia Tbk (CANI) menjadwalkan RUPST dan RUPSLB pada 16 Desember 2026, dengan tanggal pencatatan pemegang saham 23 November 2026.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CANI",
+   "RUPST",
+   "RUPSLB",
+   "Capitol Nusantara Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e33e4f4125_b875bb6034.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6258,215 +6466,6 @@ var ARTICLES = [
    "Singapura"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/06bbf61851_c910241271.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kras-komisaris-adityo-haryo-bimo-mundur",
-  "category": "Aksi Korporasi",
-  "title": "KRAS: Komisaris Adityo Haryo Bimo [Mundur]",
-  "deck": "Krakatau Steel melaporkan pengunduran diri Adityo Haryo Bimo dari Dewan Komisaris per 1 November 2026, disebut tidak berdampak material bagi operasional perusahaan.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KRAS",
-   "Krakatau Steel",
-   "Dewan Komisaris",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d44b52c2c2_54eb509f1b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "irsx-jawab-bei-soal-koreksi-laporan-keuangan-kuartal-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "IRSX Jawab BEI soal [Koreksi] Laporan Keuangan Kuartal I 2026",
-  "deck": "Folago Global Nusantara menjelaskan ke BEI sejumlah koreksi laporan keuangan kuartal I 2026, termasuk reklasifikasi piutang pemegang saham dan status pihak berelasi atas piutang Rp111,76 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IRSX",
-   "laporan keuangan",
-   "BEI",
-   "pihak berelasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9b3707cea_93ba597a0f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lrna-catat-rugi-rp20-97-miliar-dalam-9-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "LRNA Catat [Rugi] Rp20,97 Miliar dalam 9 Bulan 2026",
-  "deck": "Pendapatan Lorena Transport turun 23 persen dan kas menipis, sementara rugi bersih sembilan bulan tercatat Rp20,97 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LRNA",
-   "laporan keuangan",
-   "rugi bersih",
-   "transportasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102215553-65250-0/FinancialStatement-2026-III-LRNA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pura-laba-naik-86-kas-susut-tajam-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "PURA: Laba Naik 86%, [Kas] Susut Tajam Kuartal III 2026",
-  "deck": "Laba bersih PT Putra Rajawali Kencana melonjak 86 persen jadi Rp8,16 miliar di kuartal III 2026, tapi kas perusahaan susut dari Rp21,8 miliar menjadi Rp915 juta.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PURA",
-   "laporan keuangan",
-   "arus kas",
-   "logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102213031-65567-0/FinancialStatement-2026-III-PURA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "anjt-jawab-bei-soal-karhutla-klaim-belum-ada-sanksi",
-  "category": "Aksi Korporasi",
-  "title": "ANJT Jawab BEI soal [Karhutla], Klaim Belum Ada Sanksi",
-  "deck": "ANJT menanggapi permintaan penjelasan lanjutan BEI soal kebakaran hutan di Kalimantan Barat dan penyelidikan otoritas Singapura terhadap First Resources Limited.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANJT",
-   "Karhutla",
-   "BEI",
-   "NEA Singapura"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ca27f6707a_663692afeb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppom-dorong-bakso-tasikmalaya-perkuat-ekosistem-halal",
-  "category": "UMKM",
-  "title": "LPPOM Dorong Bakso Tasikmalaya Perkuat Ekosistem [Halal]",
-  "deck": "LPPOM menggelar forum Halal Connect di Tasikmalaya, mendorong pelaku usaha bakso membangun rantai pasok halal, bukan sekadar sertifikasi produk akhir.",
-  "date": "2 November 2026",
-  "image": "assets/img/lppom-dorong-bakso-tasikmalaya-perkuat-ekosistem-halal.jpg",
-  "imageV": "mvzfi1g2",
-  "tags": [
-   "bakso",
-   "halal",
-   "LPPOM",
-   "Tasikmalaya"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476241-bawa-bakso-naik-kelas-lppom-dorong-penguatan-ekosistem-halal"
- },
- {
-  "slug": "diva-catat-rugi-rp34-2-miliar-pada-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "DIVA Catat [Rugi] Rp34,2 Miliar pada Kuartal III 2026",
-  "deck": "Distribusi Voucher Nusantara membukukan rugi bersih Rp34,2 miliar untuk sembilan bulan 2026, berbalik dari laba Rp22,25 miliar tahun lalu, dipicu rugi investasi dan penjualan yang turun.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DIVA",
-   "laporan keuangan kuartal III",
-   "rugi bersih",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102211648-65512-0/FinancialStatement-2026-III-DIVA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "part-catat-pendapatan-naik-23-laba-bersih-stagnan",
-  "category": "Aksi Korporasi",
-  "title": "PART Catat Pendapatan Naik 23%, Laba Bersih [Stagnan]",
-  "deck": "Pendapatan PT Cipta Perdana Lancar Tbk tumbuh 23 persen di sembilan bulan 2026, tapi laba bersih hanya naik 2,6 persen karena beban bunga melonjak dan saham beredar bertambah.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PART",
-   "laporan keuangan",
-   "kuartal III 2026",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102211838-65665-0/FinancialStatement-2026-III-PART.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "part-rencanakan-rights-issue-1-miliar-saham-baru-rupslb-9-desember",
-  "category": "Aksi Korporasi",
-  "title": "PART Rencanakan Rights Issue [1 Miliar] Saham Baru, RUPSLB 9 Desember",
-  "deck": "Cipta Perdana Lancar berencana menerbitkan hingga 1 miliar saham baru lewat rights issue untuk modal kerja, menunggu persetujuan RUPSLB 9 Desember 2026.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PART",
-   "rights issue",
-   "HMETD",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b81aeaf29c_c9fb307054.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aset-data-melonjak-29-utang-bank-pendek-menyusut",
-  "category": "Aksi Korporasi",
-  "title": "[Aset] DATA Melonjak 29%, Utang Bank Pendek Menyusut",
-  "deck": "Total aset Remala Abadi naik 29% dalam sembilan bulan jadi Rp1,3 triliun, sementara utang bank jangka pendek turun hampir separuh, memicu keterbukaan informasi wajib ke bursa.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DATA",
-   "laporan keuangan",
-   "telekomunikasi",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102210029-65677-0/FinancialStatement-2026-III-DATA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "npgf-bukukan-laba-naik-tapi-utang-bank-melonjak-87-9",
-  "category": "Aksi Korporasi",
-  "title": "NPGF Bukukan Laba Naik, tapi [Utang Bank] Melonjak 87,9%",
-  "deck": "Produsen pupuk NPGF membukukan kenaikan penjualan dan laba pada sembilan bulan 2026, namun utang bank jangka pendek melonjak 87,9% dan arus kas operasionalnya negatif Rp88,54 miliar.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NPGF",
-   "laporan keuangan",
-   "utang bank",
-   "pupuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102205358-65698-0/FinancialStatement-2026-III-NPGF.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmhs-catat-laba-anjlok-95-meski-pendapatan-naik",
-  "category": "Aksi Korporasi",
-  "title": "BMHS Catat Laba [Anjlok] 95% Meski Pendapatan Naik",
-  "deck": "Laba bersih Bundamedik (BMHS) turun 95 persen jadi Rp1,05 miliar pada sembilan bulan 2026 meski pendapatan naik ke Rp1,19 triliun, akibat beban usaha dan bunga yang naik lebih cepat.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMHS",
-   "Bundamedik",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204657-65464-0/FinancialStatement-2026-III-BMHS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "suri-catat-laba-bersih-rp11-3-miliar-per-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "SURI Catat [Laba] Bersih Rp11,3 Miliar per September 2026",
-  "deck": "Produsen sarung tangan medis PT Maja Agung Latexindo Tbk membalik rugi jadi laba Rp11,3 miliar dalam sembilan bulan 2026, didukung penjualan dan kas operasional yang menguat.",
-  "date": "2 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SURI",
-   "laporan keuangan",
-   "sarung tangan medis",
-   "kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261102204650-65471-0/FinancialStatement-2026-III-SURI.pdf",
   "sourceLabel": "IDX"
  }
 ];

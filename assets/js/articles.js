@@ -3,6 +3,267 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "skbm-jadwalkan-pembayaran-dividen-interim-30-november",
+  "category": "Aksi Korporasi",
+  "title": "SKBM Jadwalkan Pembayaran [Dividen] Interim 30 November",
+  "deck": "Sekar Bumi akan membayar dividen interim Rp17,5 per saham pada 30 November 2026, dengan pemegang saham per 20 November sebagai penerima.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T17:37:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fc8593cdd1_27e906c64d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SKBM",
+  "tags": [
+   "SKBM",
+   "dividen interim",
+   "Sekar Bumi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Sekar Bumi Tbk (SKBM) menetapkan jadwal pembagian dividen tunai interim untuk tahun buku 2026 setelah keputusan Direksi disetujui Dewan Komisaris pada 9 November 2026. Total dividen yang dibagikan sebesar Rp30.276.806.297,5, atau setara Rp17,5 per saham. Surat keterbukaan ditandatangani Direktur Freddy Adam.",
+   "Jadwalnya berurutan cukup rapat. Saham mulai diperdagangkan tanpa hak dividen (ex dividend) di pasar reguler dan negosiasi pada 19 November 2026, sehari setelah cum dividen pada 18 November. Daftar pemegang saham yang berhak menerima dividen (recording date) ditutup 20 November 2026 pukul 16.00 WIB, dan pembayaran dilakukan 30 November 2026. Bagi pemegang saham dengan saham fisik (warkat), data rekening bank harus disampaikan ke biro administrasi efek PT EDI Indonesia atau Corporate Secretary SKBM paling lambat pada tanggal recording date tersebut.",
+   "Dasar pembagian dividen ini adalah laporan keuangan per 30 September 2026, dengan laba bersih yang diatribusikan ke pemegang saham induk sebesar Rp120,24 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp454,59 miliar, dan total ekuitas Rp1,09 triliun. Soal pajak, dividen dikecualikan dari pemotongan jika diterima wajib pajak badan dalam negeri, dan dikecualikan bagi wajib pajak orang pribadi dalam negeri sepanjang dananya diinvestasikan kembali di Indonesia. Pemegang saham asing yang tidak melengkapi dokumen domisili pajak (SKD/DGT) akan dikenai pajak final 20 persen."
+  ],
+  "fotoAdegan": "Workers in hairnets sorting fresh shrimp on a stainless steel conveyor inside a seafood processing plant, bright fluorescent light",
+  "takeaway": "Laporan ini condong positif bagi SKBM karena dividen Rp30,28 miliar ini hanya sekitar seperempat dari laba bersih Rp120,24 miliar yang baru saja dilaporkan perusahaan, artinya sebagian besar laba masih ditahan untuk modal kerja atau ekspansi sambil tetap membagi hasil ke pemegang saham. Yang tersentuh di sini adalah arus kas dan ekuitas perusahaan, karena pembayaran tunai ini akan mengurangi kas dan modal sendiri perseroan, tapi porsinya kecil, kurang dari 3 persen dari total ekuitas Rp1,09 triliun, sehingga dampaknya terhadap kesehatan keuangan perusahaan minim. Yang perlu dipantau pelaku pasar adalah tanggal 19 November 2026, saat saham mulai diperdagangkan tanpa hak dividen, karena pembeli sesudah tanggal itu tidak lagi berhak atas pembayaran Rp17,5 per saham yang jatuh pada 30 November 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pack-alihkan-sisa-dana-rp424-8-m-ke-anak-usaha-lewat-pinjaman",
+  "category": "Aksi Korporasi",
+  "title": "PACK Alihkan Sisa Dana Rp424,8 M ke [Anak Usaha] Lewat Pinjaman",
+  "deck": "PACK mengubah rencana penggunaan sisa dana rights issue Rp424,8 miliar, dari biaya operasional sendiri menjadi pinjaman tanpa bunga ke anak usaha di bisnis logam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T17:35:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/877f48cbd7_59df85c375.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "rights issue",
+   "penggunaan dana",
+   "anak usaha"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) melaporkan perubahan rencana penggunaan sisa dana hasil penawaran umum terbatas pertama (PMHMETD I) yang efektif 31 Desember 2025. Saat itu perseroan menerbitkan 32,58 miliar obligasi wajib konversi dengan harga Rp100 per unit, sehingga total dana yang terkumpul Rp3,25 triliun. Sesuai prospektus, 86,93 persen atau Rp2,82 triliun dialokasikan untuk suntikan modal dan pinjaman ke dua anak usaha, PT Adhi Prakarsa Raya dan PT Sumber Cahaya Raya, guna membeli saham PT Karyatama Konawe Utara dan PT Konutara Sejati. Sisanya, 13,07 persen, direncanakan untuk biaya operasional perseroan sendiri seperti gaji manajemen dan karyawan, sewa kantor, serta jasa profesional.",
+   "Berdasarkan laporan realisasi per Juni 2026, dana tersebut sudah terpakai Rp6,45 miliar untuk biaya emisi, Rp1,67 triliun disalurkan ke Adhi Prakarsa Raya untuk pembelian saham Karyatama Konawe Utara, dan Rp1,15 triliun ke Sumber Cahaya Raya untuk pembelian saham Konutara Sejati. Dana yang belum terpakai sebesar Rp424,83 miliar, yang sebelumnya dijatahkan untuk biaya operasional perseroan, kini dialihkan menjadi pinjaman kepada anak usaha lain, PT Awal Kemuliaan Indonesia (AKI). Perjanjian pinjaman diteken 9 November 2026 dengan nilai persis Rp424.835.666.197, tanpa bunga, jatuh tempo dua tahun sejak penarikan dan bisa diperpanjang, serta tanpa jaminan. Karena perubahan ini kurang dari 20 persen dari total dana penawaran umum, perseroan hanya wajib mengumumkan keterbukaan informasi ini kepada pemegang saham tanpa perlu persetujuan RUPSLB, sesuai Pasal 16 ayat (1) huruf b POJK 40/2025.",
+   "AKI adalah anak usaha yang 99 persen sahamnya dimiliki PACK, dengan sisa 1 persen dipegang PT Eco Energi Perkasa. Modal ditempatkan dan disetor penuh AKI sebesar Rp10,1 miliar yang terbagi dalam 101.000 saham. Perusahaan ini bergerak di perdagangan besar logam dan bijih logam, termasuk bijih besi, logam setengah jadi, serta emas dan logam mulia lain, dan telah mengantongi izin pengangkutan dan penjualan mineral dari Kementerian ESDM sejak Maret 2025. Susunan pengurusnya adalah Fiona Odelia Kartawinata sebagai Komisaris dan Lin Yun Hui sebagai Direktur. Perseroan menyatakan dana ini akan disalurkan untuk mendukung kebutuhan modal kerja AKI dalam rangka pertumbuhan bisnis."
+  ],
+  "fotoAdegan": "Workers using a forklift to stack metal ingots in an industrial warehouse yard, overcast daylight, Indonesia",
+  "takeaway": "Penilaian kami netral, karena ini bukan dana segar baru, melainkan sekadar memindahkan jatah dana yang sudah ada, sekitar 13 persen dari total dana rights issue, dari pos biaya operasional perseroan ke pos pinjaman untuk anak usaha. Yang tersentuh adalah arus kas internal grup, uang yang tadinya dipakai sendiri oleh PACK untuk gaji dan sewa kantor kini mengalir keluar sebagai pinjaman tanpa bunga, sehingga PACK sendiri harus mencari sumber lain untuk membiayai operasionalnya, sementara AKI mendapat modal kerja gratis tanpa beban bunga. Perseroan sendiri menyatakan perubahan ini tidak berdampak pada kondisi keuangan atau kelangsungan usahanya. Yang perlu dipantau adalah jatuh tempo pinjaman dua tahun sejak penarikan pada 9 November 2026, serta laporan realisasi penggunaan dana oleh AKI berikutnya, mengingat empat hari sebelumnya PACK juga mengumumkan rencana RUPSLB untuk mengubah lini bisnis dan mengakusisi perusahaan nikel, yang bisa jadi berkaitan dengan arah bisnis logam AKI ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-rhb-tak-sesuaikan-waran-medc-meski-ada-dividen",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Tak Sesuaikan Waran [MEDC] Meski Ada Dividen",
+  "deck": "RHB Sekuritas menegaskan tidak ada penyesuaian pada waran terstruktur MEDCDRCZ6A dan MEDCDRCH7A meski saham acuannya, MEDC, membagikan dividen tunai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T17:28:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b7e27bc214_ef52f24505.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "MEDC",
+   "waran terstruktur",
+   "RHB Sekuritas"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia (DR) menyampaikan keterbukaan informasi pada 10 November 2026 yang menyatakan tidak ada penyesuaian syarat dan ketentuan untuk dua waran terstruktur, MEDCDRCZ6A dan MEDCDRCH7A, yang menggunakan saham PT Medco Energi Internasional Tbk (MEDC) sebagai acuan. Keputusan ini merujuk pada term sheet dan Bagian 3 Prospektus Waran Terstruktur masing-masing produk.",
+   "Keputusan tersebut terkait dengan keterbukaan informasi MEDC pada 2 November 2026 tentang aksi korporasi pembagian dividen tunai. RHB menyatakan bahwa sesuai mekanisme yang diatur dalam prospektus, pembagian dividen tersebut tidak memicu kewajiban penyesuaian pada struktur kedua waran, sehingga syarat dan ketentuan yang berlaku sejak penerbitan tetap dipakai tanpa perubahan.",
+   "Dalam pengumuman itu, RHB juga menegaskan bahwa jika ada keraguan, Prospektus harus dijadikan rujukan utama dan syarat ketentuan di dalamnya yang berlaku. Dokumen ditandatangani oleh Tan Cheong Hong, Head of Trading RHB Sekuritas Indonesia, dan diterbitkan di Jakarta pada 10 November 2026."
+  ],
+  "fotoAdegan": "Offshore oil and gas platform silhouette at dusk with a small support vessel nearby, calm sea, overcast sky",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental MEDC maupun RHB Sekuritas, sebab RHB hanya menjalankan mekanisme baku di prospektus yang menyimpulkan dividen MEDC tidak memenuhi syarat untuk memicu penyesuaian, bukan keputusan bisnis baru dari kedua pihak. Yang tersentuh di sini bukan laporan keuangan MEDC, melainkan nilai wajar waran terstruktur itu sendiri, produk turunan yang harganya mengikuti gerak saham acuan. Biasanya ketika emiten acuan membagi dividen, harga sahamnya cenderung turun pada tanggal pencatatan dividen, sehingga penerbit waran lazim menyesuaikan harga pelaksanaan atau rasio konversi agar pemegang waran tidak dirugikan, tapi di sini RHB menilai dividen MEDC tidak cukup memenuhi ambang itu. Yang perlu dipantau pemegang waran berikutnya adalah apakah MEDC mengumumkan aksi korporasi lain, seperti dividen tambahan, pemecahan saham, atau penerbitan saham baru, yang menurut prospektus bisa memicu RHB melakukan penyesuaian pada MEDCDRCZ6A dan MEDCDRCH7A di kemudian hari.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rupslb-kdtn-direksi-lama-diangkat-ulang-komisaris-asing-batal",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB KDTN: Direksi Lama Diangkat Ulang, Komisaris Asing [Batal]",
+  "deck": "RUPSLB KDTN mempertahankan direksi dan komisaris utama yang sama, sementara rencana komisaris dan dua direktur baru dari luar negeri batal karena belum lolos uji kelayakan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T17:20:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/994ef21617_f3c8ad0f76.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "RUPSLB",
+   "Direksi Komisaris",
+   "Pemegang Saham"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) PT Puri Sentul Permai Tbk (KDTN) yang digelar pada 6 November 2026 dihadiri pemegang saham yang mewakili 1.001.178.300 saham atau 80,09 persen dari total 1.250.023.298 saham berhak suara. Rapat menyetujui pemberhentian dengan hormat seluruh direksi dan komisaris yang menjabat, lalu langsung mengangkat kembali orang yang sama: Irma Tjandra sebagai Komisaris Utama, Rudy Susanto sebagai Direktur Utama, serta Reza Lasmana dan Alfajrul Hadi sebagai Direktur, berlaku sejak penutupan rapat hingga penutupan RUPS Tahunan 2028 pada 2029. Liris Suryanto tetap menjabat Komisaris Independen sesuai masa jabatan yang sudah berjalan sejak 16 April 2025. Keputusan ini sekaligus membatalkan rencana sebelumnya untuk mengangkat Zheng Mengsha sebagai Komisaris serta Zhang Lei dan Shi Liru sebagai Direktur, karena rencana itu tidak memenuhi syarat Pasal 7 Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten.",
+   "Mata acara kedua menyetujui penyesuaian Pasal 3 Anggaran Dasar Perseroan agar sesuai Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025). Bidang usaha yang ditegaskan meliputi aktivitas hotel bintang satu hingga lima, penyediaan akomodasi jangka pendek, rumah makan tetap, jasa boga untuk acara tertentu, kafe, bar, apartemen hotel, serta pengembangan bangunan dan lahan hunian.",
+   "Mata acara ketiga menyetujui pembatalan mata acara kedua dari RUPSLB sebelumnya yang digelar 22 Juni 2026 di Jakarta, serta permohonan penyesuaian komposisi pemegang saham di sistem AHU agar sama dengan yang tercatat di bursa, berdasarkan surat keterangan Biro Administrasi Efek PT Datindo Entrycom tertanggal 27 Oktober 2026. Susunan pemegang saham yang diumumkan adalah PT Cahayasakti Investindo Sukses Tbk sebanyak 300.000.000 lembar saham senilai nominal Rp7,5 miliar, PT Intan Perdana Sukses sebanyak 300.000.000 lembar saham senilai Rp7,5 miliar, PT Putrasakti Mandiri sebanyak 400.000.000 lembar saham senilai Rp10 miliar, dan pemegang saham lain yang masing-masing memiliki di bawah 5 persen sebanyak 250.023.298 lembar saham senilai Rp6,25 miliar. Modal ditempatkan dan disetor penuh Perseroan tercatat 1.250.023.298 lembar saham dengan nilai nominal Rp31,25 miliar. Ketiga mata acara disetujui dengan suara setuju di atas 99,97 persen."
+  ],
+  "fotoAdegan": "Quiet resort hotel lobby with rows of empty rattan chairs and tropical plants, soft morning light in a Bogor highland town",
+  "takeaway": "Laporan ini kami nilai netral bagi KDTN karena pada akhirnya susunan direksi dan komisaris utama tidak berubah dari sebelumnya, sementara rencana membawa komisaris dan dua direktur baru dari luar negeri batal karena belum lolos uji kelayakan OJK sesuai Pasal 7 POJK 33/2014. Yang tersentuh di sini bukan laba atau arus kas perusahaan, melainkan stabilitas pengurus dan kejelasan siapa yang mengendalikan perusahaan, sesuatu yang diperhatikan investor karena pergantian pengurus biasanya menandakan arah strategi baru, dan di sini arah itu belum terjadi. Jumlah saham beredar Perseroan tetap di 1.250.023.298 lembar, sehingga tidak ada dilusi atau perubahan hak suara dari keputusan rapat ini. Yang perlu dipantau selanjutnya adalah apakah Perseroan mengajukan calon komisaris atau direktur pengganti yang memenuhi syarat Pasal 7 POJK 33/2014, serta proses persetujuan perubahan Pasal 3 Anggaran Dasar ke Kementerian Hukum dan penerbitan salinan akta resmi RUPSLB yang menurut notaris masih berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cash-sajikan-ulang-lk-2024-ekuitas-susut-55-jadi-rp54-9-m",
+  "category": "Aksi Korporasi",
+  "title": "CASH Sajikan Ulang LK 2024, Ekuitas [Susut] 55% jadi Rp54,9 M",
+  "deck": "Cashlez menerbitkan ulang laporan keuangan 2024 karena koreksi penyajian aset takberwujud, membuat total aset turun 28% dan ekuitas turun 55% dibanding versi sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T17:19:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261110173130-65765-0/FinancialStatement-2024-Tahunan-CASH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "Cashlez",
+   "restatement laporan keuangan",
+   "emiten teknologi"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menerbitkan ulang laporan keuangan konsolidasian tahun buku 2024 dalam bentuk koreksi. Penerbitan ulang ini dilakukan karena manajemen mengoreksi cara penyajian aset takberwujud agar sesuai dengan PSAK 238. Auditor dari KAP Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan Rekan, dengan partner penandatangan Heri Setianto, tetap memberikan opini wajar tanpa modifikasian atas laporan yang disajikan kembali ini.",
+   "Dampak koreksi ini signifikan pada neraca perusahaan. Aset takberwujud per 31 Desember 2024 turun menjadi Rp17,7 miliar, anjlok 79 persen dari Rp83,9 miliar yang sebelumnya dilaporkan. Akibatnya, jumlah aset Cashlez turun 28 persen, dari Rp233,6 miliar menjadi Rp167,4 miliar. Jumlah ekuitas ikut tergerus, turun 55 persen dari Rp121,1 miliar menjadi Rp54,9 miliar, karena surplus revaluasi aset takberwujud yang dulu tercatat kini dihapus sesuai aturan baru.",
+   "Di sisi laba rugi, koreksi ini justru membuat kinerja terlihat lebih baik dari yang dilaporkan sebelumnya. Beban pokok pendapatan 2024 turun 9 persen menjadi Rp108,2 miliar, sehingga laba bruto naik dari Rp19,0 miliar menjadi Rp30,1 miliar. Rugi tahun berjalan mengecil 32 persen, dari Rp34,8 miliar menjadi Rp23,7 miliar, dengan rugi per saham turun dari Rp23,57 menjadi Rp17,28.",
+   "Dalam surat terpisah kepada bursa, Presiden Direktur Cashlez Willy Chandry menjelaskan bahwa total liabilitas perusahaan naik 50 persen, dari Rp74,9 miliar pada akhir 2023 menjadi Rp112,5 miliar pada akhir 2024. Kenaikan ini terutama berasal dari pinjaman baru dari PT Bara Alam Utama dan biaya yang masih harus dibayar atas pembelian barang tahun 2023 kepada PT Putra Mandiri Informatika."
+  ],
+  "fotoAdegan": "A street vendor tapping a portable card payment terminal while a customer pays at a busy Jakarta market stall, late afternoon light",
+  "takeaway": "Koreksi ini negatif bagi Cashlez, bukan karena rugi 2024 yang justru mengecil, melainkan karena ini adalah koreksi kedua dalam waktu kurang dari sepekan setelah laporan 2022 juga direvisi, pertanda sistem pencatatan keuangan perusahaan masih rawan kesalahan material. Pos yang paling tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang jadi penyangga perusahaan saat rugi, yang susut lebih dari separuh menjadi Rp54,9 miliar karena surplus revaluasi aset takberwujud yang dulu tercatat ternyata harus dihapus. Rugi per saham, yaitu porsi rugi perusahaan yang dibagi ke tiap lembar saham beredar, ikut berubah dari Rp23,57 menjadi Rp17,28 akibat koreksi beban pokok pendapatan. Yang perlu dipantau selanjutnya adalah apakah OJK atau bursa meminta klarifikasi tambahan atas dua koreksi laporan keuangan yang terbit berdekatan ini, serta bagaimana Cashlez mengelola kenaikan liabilitas 50 persen yang sebagian berasal dari pinjaman baru dari PT Bara Alam Utama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nfcx-revisi-buyback-incar-49-juta-saham-hingga-februari-2027",
+  "category": "Aksi Korporasi",
+  "title": "NFCX Revisi Buyback, Incar [49 Juta] Saham hingga Februari 2027",
+  "deck": "PT NFC Indonesia Tbk mengoreksi pengumuman buyback 6 November, menegaskan rencana membeli kembali hingga 49 juta saham atau 7,35 persen modal disetor dalam tiga bulan mulai 9 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T17:19:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec83db80fc_9d8a9e09ad.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NFCX",
+  "tags": [
+   "NFCX",
+   "buyback saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "body": [
+   "PT NFC Indonesia Tbk (NFCX) menerbitkan koreksi atas keterbukaan informasi rencana pembelian kembali saham yang sebelumnya diumumkan pada 6 November 2026. Dalam dokumen terbaru yang diteken Corporate Secretary Inda Ayu Susanty, perseroan menegaskan akan membeli kembali sebanyak-banyaknya 49.000.000 lembar saham, setara 7,35 persen dari modal ditempatkan dan disetor penuh. Pembelian akan dilakukan bertahap melalui perdagangan di Bursa Efek Indonesia selama tiga bulan, mulai 9 November 2026 sampai 8 Februari 2027, dengan menunjuk PT Panca Global Sekuritas sebagai perantara. Buyback ini mengacu pada POJK No. 13/2023 tentang kebijakan pasar yang berfluktuasi signifikan, yang memungkinkan perseroan menjalankan buyback tanpa perlu persetujuan RUPS lebih dulu.",
+   "Perseroan menyatakan dana yang dipakai berasal dari kas internal hasil laba ditahan, sehingga tidak menurunkan pendapatan maupun menambah beban pembiayaan. Biaya transaksi diperkirakan maksimal 0,15 persen dari nilai saham yang dibeli kembali. Dalam proforma yang disertakan, jumlah saham beredar rata-rata turun dari 662.412.300 menjadi 613.412.300 lembar, atau berkurang 7,40 persen, sementara laba bersih yang diatribusikan ke pemilik entitas induk tetap Rp5,65 miliar. Dengan jumlah saham yang lebih sedikit, laba per saham dasar proforma naik dari Rp8,52 menjadi Rp9,20, atau meningkat 7,99 persen.",
+   "Selama periode buyback, komisaris, direktur, pegawai, dan pemegang saham utama perseroan, termasuk pihak yang memiliki akses informasi orang dalam, dilarang bertransaksi atas saham NFCX pada periode pembelian maupun pada hari yang sama dengan penjualan saham hasil buyback. Saham yang dibeli kembali akan disimpan sebagai saham treasuri sesuai POJK No. 13/2023 dan POJK No. 29/2023, dan baru bisa dialihkan setelah 30 hari sejak periode pembelian berakhir."
+  ],
+  "fotoAdegan": "Busy floor of a Jakarta securities brokerage office, staff seated at desks monitoring blurred trading screens, late afternoon light",
+  "takeaway": "Laporan ini condong positif karena buyback didanai penuh dari laba ditahan tanpa menambah utang atau menekan pendapatan, dan proforma menunjukkan laba per saham justru naik 7,99 persen ketika jumlah saham beredar menyusut 7,40 persen. Pos yang tersentuh di sini adalah jumlah saham beredar dan laba per saham, karena laba bersih yang sama kini dibagi ke saham yang lebih sedikit, itulah sebabnya pelaku pasar biasa memantau rasio ini setiap ada aksi buyback. Perlu dicatat juga bahwa aturan yang dipakai khusus berlaku untuk kondisi pasar yang sedang bergejolak, sehingga langkah ini turut berfungsi sebagai penyangga di tengah volatilitas, bukan semata aksi korporasi rutin. Yang perlu dipantau berikutnya adalah realisasi pembelian saham sampai periode berakhir pada 8 Februari 2027, serta rencana perseroan mengalihkan saham treasuri setelah 30 hari dari akhir periode itu, sekitar awal Maret 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cash-sajikan-ulang-lk-2023-ekuitas-susut-50-jadi-rp77-6-m-koreksi",
+  "category": "Aksi Korporasi",
+  "title": "CASH Sajikan Ulang LK 2023, Ekuitas Susut 50% jadi Rp77,6 M [Koreksi]",
+  "deck": "Cashlez mengoreksi penyajian aset takberwujud sesuai PSAK 238, memangkas ekuitas 2023 dari Rp154,9 miliar jadi Rp77,6 miliar, koreksi ketiga dalam sepekan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T17:09:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5dae374888_293438a1e8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "restatement",
+   "laporan keuangan",
+   "PSAK 238"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan kembali laporan keuangan konsolidasian auditan per 31 Desember 2023 yang telah dikoreksi. Perubahan ini tercantum dalam Catatan 39 atas laporan keuangan dan dipicu oleh koreksi cara manajemen menyajikan aset takberwujud agar sesuai dengan standar akuntansi PSAK 238. Surat keterbukaan ditandatangani Presiden Direktur Willy Chandry pada 9 November 2026 dan disampaikan ke bursa sehari setelahnya.",
+   "Dampak terbesar ada di sisi aset dan ekuitas. Aset takberwujud per akhir 2023 turun dari Rp91,5 miliar menjadi hanya Rp14,2 miliar, anjlok Rp77,3 miliar atau 84 persen. Akibatnya, saldo surplus revaluasi dalam ekuitas yang sebelumnya mencakup revaluasi aset tetap maupun aset takberwujud kini hanya memuat revaluasi aset tetap, turun dari Rp72,4 miliar menjadi Rp538 juta. Kepentingan non-pengendali ikut tergerus dari Rp21,9 miliar menjadi Rp7,5 miliar. Secara total, jumlah ekuitas Cashlez per 31 Desember 2023 terpangkas dari Rp154,9 miliar menjadi Rp77,6 miliar, turun 50 persen atau Rp77,3 miliar.",
+   "Di sisi laba rugi, koreksi ini justru membuat kinerja terlihat lebih baik dari laporan sebelumnya. Beban pokok pendapatan 2023 turun dari Rp178,7 miliar menjadi Rp167,7 miliar karena beban terkait aset takberwujud ikut berkurang, sehingga laba bruto naik dari Rp16,1 miliar menjadi Rp27,2 miliar. Rugi tahun berjalan mengecil dari Rp30,4 miliar menjadi Rp19,3 miliar, dengan rugi per saham membaik dari Rp19,78 menjadi Rp13,49. Rugi komprehensif total juga turun dari Rp29,6 miliar menjadi Rp18,6 miliar, sementara bagian kepentingan non-pengendali berubah dari rugi komprehensif Rp1,9 miliar menjadi laba komprehensif Rp147 juta. Auditor independen menyatakan opininya tidak berubah atas koreksi ini, dan laporan audit baru ini merupakan penerbitan ulang dari laporan audit sebelumnya tertanggal 28 Maret 2024."
+  ],
+  "fotoAdegan": "A cashier at a small Jakarta retail counter holding a handheld card payment terminal, screen angled away, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi Cashlez, bukan karena rugi 2023 yang justru mengecil, melainkan karena ini adalah koreksi ketiga dalam waktu kurang dari sepekan, setelah laporan 2022 dan 2024 juga direstatement akibat masalah akuntansi yang sama, dan kali ini ekuitas perusahaan terpangkas separuh dari Rp154,9 miliar menjadi Rp77,6 miliar. Ekuitas penting dipantau karena mencerminkan kekayaan bersih perusahaan setelah dikurangi utang, dan aset takberwujud yang susut 84 persen menunjukkan nilai software atau hak tak berwujud yang dulu dilaporkan ternyata jauh lebih kecil dari kenyataan selama ini. Rugi per saham yang membaik dari Rp19,78 menjadi Rp13,49 tidak serta merta menenangkan, karena perbaikan itu datang dari penyesuaian akuntansi, bukan dari kinerja operasional yang sebenarnya berubah. Yang perlu dipantau berikutnya adalah apakah Otoritas Jasa Keuangan atau Bursa Efek Indonesia meminta penjelasan tambahan menyusul tiga kali restatement berturut-turut untuk tahun buku 2022 sampai 2024, serta apakah laporan keuangan periode selanjutnya ikut terkena dampak penyesuaian yang sama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "jeli-suntik-modal-rp130-miliar-ke-anak-usaha-nps",
+  "category": "Aksi Korporasi",
+  "title": "JELI Suntik [Modal] Rp130 Miliar ke Anak Usaha NPS",
+  "deck": "PT Niramas Utama Tbk menyuntik modal Rp130 miliar ke anak usaha NPS untuk menambah modal kerja, sesuai rencana penggunaan dana IPO di prospektus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T17:08:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/232bb00aeb_da18f1bcbc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JELI",
+  "tags": [
+   "JELI",
+   "transaksi afiliasi",
+   "IPO",
+   "Niramas Utama"
+  ],
+  "body": [
+   "PT Niramas Utama Tbk (JELI) melaporkan telah melakukan transaksi afiliasi berupa penyertaan modal kepada PT Niramas Pandaan Sejahtera (NPS) senilai Rp130 miliar pada 8 Juli 2026. NPS merupakan entitas anak yang 99,99 persen sahamnya dimiliki oleh JELI, sehingga transaksi ini tergolong transaksi afiliasi sesuai Peraturan OJK Nomor 42/POJK.04/2020.",
+   "Dalam suratnya kepada Otoritas Jasa Keuangan, Perseroan menjelaskan bahwa dana tersebut digunakan untuk menambah modal kerja NPS, sejalan dengan rencana penggunaan dana hasil Penawaran Umum Perdana Saham (IPO) yang sebelumnya sudah diungkapkan dalam prospektus JELI. Karena transaksi ini berlangsung antara Perseroan dan anak usaha yang dikendalikannya, JELI menyatakan transaksi tersebut memenuhi kriteria pengecualian dalam Pasal 6 ayat (1) huruf b POJK 42/2020, artinya tidak memerlukan penilai independen maupun persetujuan rapat pemegang saham.",
+   "Laporan ditandatangani Direktur JELI, Adhi Siswaya Lukman, dan dikirim ke OJK pada 10 November 2026, sekitar empat bulan setelah transaksi berlangsung."
+  ],
+  "fotoAdegan": "Factory workers monitoring a conveyor line of sealed jelly dessert cups moving toward packaging, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi fundamental JELI, karena dana yang disuntikkan berasal dari kas Perseroan sendiri dan dipakai sesuai rencana yang sudah diumumkan sejak IPO, bukan keputusan baru yang mengubah arah bisnis. Yang tersentuh adalah posisi kas, sebab Rp130 miliar berpindah dari kas induk menjadi modal kerja di anak usaha NPS, sehingga secara konsolidasi tidak mengurangi aset grup tapi mengurangi kas bebas yang dipegang induk perusahaan. Pemegang saham perlu memantau laporan realisasi dana IPO berikutnya untuk melihat berapa sisa dana penawaran umum yang belum digunakan, serta kinerja NPS setelah mendapat tambahan modal kerja ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bcic-jadwalkan-rupslb-pada-17-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "BCIC Jadwalkan [RUPSLB] pada 17 Desember 2026",
+  "deck": "Bank JTrust Indonesia (BCIC) akan menggelar RUPSLB pada 17 Desember 2026, dengan pemegang saham tercatat per 24 November 2026 yang berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:38:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/52a89d5b02_90da1aaf05.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BCIC",
+  "tags": [
+   "BCIC",
+   "RUPSLB",
+   "Bank JTrust Indonesia",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Bank JTrust Indonesia Tbk (BCIC) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 17 Desember 2026, pukul 14.00 WIB, bertempat di Sahid Sudirman Center Lantai 35, Main Hall, Jalan Jenderal Sudirman No. 86, Jakarta. Pemegang saham yang berhak hadir atau diwakili adalah yang tercatat dalam Daftar Pemegang Saham (DPS) per 24 November 2026, termasuk pemilik saham dalam sub rekening efek di KSEI pada tanggal yang sama hingga penutupan perdagangan di bursa. Panggilan resmi RUPSLB, yang biasanya baru memuat mata acara rapat secara rinci, akan diumumkan pada Rabu, 25 November 2026 melalui situs web Bursa Efek Indonesia, eASY.KSEI, dan situs web perseroan.",
+   "Sesuai POJK No. 15/POJK.04/2020 dan Anggaran Dasar Perseroan, pemegang saham yang ingin mengusulkan mata acara rapat harus mewakili sedikitnya 1/20 dari total saham berhak suara, dan usulan tertulis itu wajib disampaikan ke direksi paling lambat 7 hari sebelum tanggal panggilan, yakni sebelum 18 November 2026. Perseroan juga menyediakan fasilitas kuasa elektronik lewat eASY.KSEI atau formulir surat kuasa manual bagi pemegang saham yang tidak bisa hadir langsung, yang bisa dipakai sejak tanggal panggilan 25 November 2026 hingga 16 Desember 2026 pukul 12.00 WIB, sehari sebelum rapat berlangsung.",
+   "Pengumuman ini terbit di tengah rangkaian pergantian pucuk pimpinan BCIC. Dalam sepekan terakhir, Direktur Utama Ritsuo Fukadai dan seorang komisaris independen masing-masing menyatakan mundur, dan keduanya masih menunggu proses persetujuan RUPS serta restu Otoritas Jasa Keuangan. Dokumen pemberitahuan RUPSLB ini sendiri belum mencantumkan mata acara rapat, sehingga belum bisa dipastikan apakah persetujuan atas pergantian direksi dan komisaris tersebut akan dibahas dalam RUPSLB 17 Desember ini."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged for a corporate shareholders meeting in a large conference hall, soft morning light through tall windows",
+  "takeaway": "Laporan ini netral karena isinya sebatas jadwal dan mekanisme RUPSLB, tanpa mata acara yang bisa langsung dinilai berdampak ke kinerja keuangan BCIC. Pemberitahuan ini tidak menyentuh pos seperti ekuitas atau laba per saham, tapi penting dari sisi tata kelola karena RUPSLB adalah forum resmi tempat pemegang saham memberi suara, termasuk kalau nanti diminta menyetujui pergantian direksi atau komisaris yang sedang berproses di BCIC. Yang perlu dipantau adalah panggilan resmi RUPSLB pada 25 November 2026, karena di situlah mata acara rapat baru akan diumumkan secara rinci. Tenggat pengajuan usul mata acara oleh pemegang saham jatuh pada 18 November 2026, sementara RUPSLB sendiri digelar 17 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bike-koreksi-lagi-ekuitas-berbalik-ke-positif-rp8-98-m",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Koreksi Lagi, [Ekuitas] Berbalik ke Positif Rp8,98 M",
+  "deck": "Koreksi kedua BIKE membalik ekuitas interim per 30 September 2026 dari negatif Rp87,59 miliar jadi positif Rp8,98 miliar, setelah dana pinjaman PMJ dicatat ulang sebagai investasi, bukan beban.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:38:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/13c44ad196_224de7c258.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "laporan keuangan",
+   "suspensi saham",
+   "PMJ"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mengirim surat koreksi bernomor 2026/291R1/XI/BIKE/MK pada 10 November 2026, menggantikan surat sehari sebelumnya yang menjawab permintaan penjelasan lanjutan kedua dari Bursa Efek Indonesia (surat nomor S-13916/BEI.PP3/11-2026 tanggal 6 November 2026). Inti soal yang dipersoalkan Bursa adalah pinjaman pemegang saham pengendali, PT Penajam Makmur Jaya (PMJ), senilai Rp125 miliar yang efektif masuk ke rekening BIKE pada 10 September 2026, tapi tidak tercermin konsisten di laporan keuangan interim per 30 September 2026.",
+   "Dalam surat sebelumnya, BIKE mencatat Rp96,562 miliar dari dana PMJ itu sebagai beban operasional dan administrasi, yang membuat akumulasi defisit membengkak dan ekuitas perusahaan jatuh ke angka negatif Rp87,59 miliar. Dalam koreksi terbaru ini, perlakuan itu diubah total: dana yang sama sekarang dicatat sebagai pengeluaran investasi, menambah piutang usaha menjadi Rp46,41 miliar dan beban dibayar di muka menjadi Rp2,615 miliar, sehingga total aset BIKE naik menjadi Rp134,99 miliar. Utang ke PMJ sebesar Rp125 miliar juga dipindah dari liabilitas jangka pendek ke liabilitas jangka panjang. Hasil akhirnya, ekuitas BIKE per 30 September 2026 kembali positif Rp8,98 miliar, sama dengan angka sebelum seluruh proses revisi ini dimulai.",
+   "Surat ini juga menegaskan kembali bahwa akuisisi tidak langsung atas PT Mega Teknologi Investama beserta PT Ratu Karya, dan PT Fahreza Bumi Megah beserta PT Prambanan Nusantara Energi, dilakukan dengan harga beli saham Rp0, jauh dari estimasi awal Rp10,89 miliar untuk masing-masing 99 persen saham. Sebagai gantinya, BIKE menanggung seluruh utang dan biaya operasional kedua perusahaan target itu. Untuk saham FBM yang dibeli dari Nadila Syafira, salah satu direktur BIKE, perseroan menyatakan transaksi itu tidak dimaksudkan sebagai transaksi afiliasi, dan Nadila akan dikeluarkan dari jajaran direksi dan komisaris pada RUPS mendatang. Di penutup surat, BIKE memohon kepada Bursa untuk membuka kembali suspensi perdagangan sahamnya."
+  ],
+  "fotoAdegan": "Technicians inspecting rows of solar panel arrays at a renewable energy plant under an overcast Indonesian sky",
+  "takeaway": "Laporan ini condong negatif bagi BIKE, karena koreksi dalam waktu kurang dari 24 jam yang mengubah angka ekuitas dari negatif Rp87,59 miliar jadi positif Rp8,98 miliar menunjukkan perlakuan akuntansi perusahaan atas dana pinjaman PMJ masih berubah-ubah, bukan sekadar salah ketik kecil. Yang bergeser adalah ekuitas, yaitu selisih antara total aset dan total utang yang jadi ukuran kekayaan bersih pemegang saham, serta klasifikasi utang dari jangka pendek ke jangka panjang yang menentukan seberapa cepat BIKE wajib melunasi kewajiban itu. Pelaku pasar mencermati ekuitas karena angka negatif biasanya jadi sinyal perusahaan kehabisan modal sendiri dan makin bergantung pada utang pihak berelasi. Yang perlu dipantau berikutnya adalah apakah Bursa menerima penjelasan ini dan mencabut suspensi saham seperti yang dimohonkan BIKE, serta apakah Nadila Syafira benar dicopot dari jajaran direksi dan komisaris pada RUPS yang dijadwalkan 11 Desember 2026.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ibc-gandeng-avesta-belgia-garap-baterai-solid-state",
   "category": "Industri",
   "title": "IBC Gandeng [Avesta] Belgia, Garap Baterai Solid-State",
@@ -113,6 +374,113 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah secara konkret adalah tambahan satu tahap administrasi: mulai 1 Januari 2027, kontrak dan dokumen ekspor batu bara, kelapa sawit, dan ferro alloy harus juga diperiksa oleh PT Danantara Sumberdaya Indonesia lewat portal NADI, setelah izin dari Kementerian Perdagangan selesai. Yang terkena dampak adalah pelaku usaha pemegang status Eksportir Terdaftar di tiga komoditas itu, karena status itu akan disesuaikan ulang tergantung kapan mereka mengajukannya, sebelum atau sesudah 1 Juni 2026. Pola ini sejalan dengan kebijakan sebelumnya yang mewajibkan sebagian devisa hasil ekspor SDA disimpan di dalam negeri, jadi arahnya mengarah ke makin banyak lapisan pengawasan negara atas jalur ekspor komoditas strategis, bukan sekadar urusan devisa. Yang akan memastikan arah ini adalah terbitnya revisi Permendag Nomor 15, 16, dan 17 Tahun 2026 yang menurut Kemendag sedang disesuaikan, serta bagaimana proses pemeriksaan lewat DSI benar-benar berjalan begitu aturan ini mulai berlaku awal 2027.",
   "imageV": "mwai857x"
+ },
+ {
+  "slug": "heli-rencanakan-akuisisi-60-saham-pear-rp14-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "HELI Rencanakan [Akuisisi] 60% Saham PEAR Rp14,4 Miliar",
+  "deck": "HELI akan membeli 60 persen saham PT Putra Elang Angkasaraya senilai Rp14,4 miliar dari PT Multi Angkasa Indonesia, menunggu persetujuan RUPSLB 17 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:28:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/77776d7983_697a004e35.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HELI",
+  "tags": [
+   "HELI",
+   "akuisisi",
+   "transaksi material",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Jaya Trishindo Tbk (HELI) menandatangani Perjanjian Pokok pada 3 November 2026 untuk membeli 12.960 saham PT Putra Elang Angkasaraya (PEAR) milik PT Multi Angkasa Indonesia (MAI). Saham yang dialihkan itu bernilai nominal Rp500.000 per lembar dan mewakili 60 persen dari modal ditempatkan dan disetor PEAR, dengan harga pembelian seluruhnya Rp14,4 miliar. Karena pendapatan PEAR setara 64,49 persen dari pendapatan HELI, jauh di atas ambang 50 persen, transaksi ini wajib mendapat persetujuan pemegang saham dalam RUPSLB yang dijadwalkan 17 Desember 2026.",
+   "PEAR adalah perusahaan perawatan dan perbaikan pesawat udara serta pemasok suku cadang yang beroperasi sejak 1995 di Tangerang Selatan, dengan Komisaris Teguh Handoko dan Direktur Mohammad Amin Usman. HELI menjalankan usaha angkutan udara niaga tidak berjadwal dan penyewaan helikopter lewat entitas anaknya, PT Komala Indonesia, yang selama ini bergantung pada jasa perawatan dan pasokan suku cadang pesawat. Manajemen HELI menyebut akuisisi ini sebagai langkah untuk memperkuat rantai perawatan armada sekaligus membuka sumber pendapatan baru dari jasa perawatan dan suku cadang ke pihak ketiga.",
+   "Setelah transaksi rampung, PEAR menjadi entitas anak HELI dengan kepemilikan 60 persen dan laporan keuangannya dikonsolidasikan, sementara 40 persen sisanya tercatat sebagai kepentingan nonpengendali. Berdasarkan hitungan proforma yang juga memperhitungkan penambahan modal baru tanpa hak memesan efek terlebih dahulu, total aset konsolidasi HELI diproyeksikan naik dari Rp191,29 miliar menjadi Rp229,84 miliar, dan total ekuitas naik dari Rp91,73 miliar menjadi Rp117,96 miliar, termasuk kepentingan nonpengendali atas PEAR sebesar Rp9,85 miliar. Dana pembayaran Rp14,4 miliar ke MAI berasal dari hasil penerbitan saham baru tersebut, bukan dari kas operasional atau utang baru.",
+   "KJPP Syarif, Endang & Rekan selaku penilai independen menyatakan harga transaksi wajar dan memproyeksikan akuisisi ini akan meningkatkan laba bersih serta rasio likuiditas HELI, sekaligus menurunkan rasio utang terhadap ekuitas dan terhadap aset ke depan. Namun laporan keuangan PEAR per Juni 2026 menunjukkan laba bersihnya hanya Rp193,7 juta untuk semester pertama tahun ini, turun tajam dari Rp4,05 miliar pada periode yang sama tahun lalu."
+  ],
+  "fotoAdegan": "Technicians inspecting a small aircraft engine inside an open hangar, tools and spare parts laid out on a workbench, daylight streaming in",
+  "takeaway": "Laporan ini netral bagi HELI: ekspansi ke bisnis perawatan pesawat lewat dana nonutang punya alasan bisnis yang jelas, tetapi laba bersih PEAR yang anjlok hampir 95 persen pada semester pertama 2026 adalah sinyal kewaspadaan yang tidak boleh diabaikan begitu saja. Pos yang tersentuh adalah ekuitas, yang naik di atas kertas karena konsolidasi aset PEAR tapi sebagian porsinya jadi milik pemegang saham minoritas PEAR, bukan milik pemegang saham HELI; jumlah saham beredar HELI juga akan bertambah banyak dari penerbitan saham baru yang mendanai akuisisi ini, sehingga laba per saham bisa terdilusi meski laba konsolidasi naik di atas kertas. Arus kas HELI tidak langsung terbebani karena pembayaran Rp14,4 miliar diambil dari dana setoran modal baru, bukan dari kas operasional. Yang perlu dipantau adalah hasil RUPSLB 17 Desember 2026, karena persetujuan pemegang saham independen untuk transaksi ini dan untuk penerbitan saham barunya diputuskan dalam agenda yang terpisah, serta penandatanganan Akta Pengambilalihan yang baru bisa dilakukan paling lambat tiga hari kerja setelah seluruh syarat dalam Perjanjian Pokok terpenuhi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cash-koreksi-lk-2023-ketiga-kali-liabilitas-melonjak-83",
+  "category": "Aksi Korporasi",
+  "title": "CASH Koreksi LK 2023 Ketiga Kali, Liabilitas [Melonjak] 83%",
+  "deck": "Cashlez merevisi laporan keuangan 2023 untuk ketiga kalinya dalam sepekan, dengan total liabilitas melonjak 83 persen jadi Rp74,9 miliar akibat pinjaman baru dan utang pembelian barang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:23:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202311/20261110163457-65775-0/FinancialStatement-2023-Tahunan-CASH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "laporan keuangan",
+   "restatement",
+   "liabilitas"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) kembali menyampaikan koreksi atas laporan keuangan tahunan 2023. Laporan yang diperbarui ini mencatat total aset Rp152,55 miliar per 31 Desember 2023, naik dari Rp137,11 miliar pada akhir 2022. Namun total liabilitas atau utang perusahaan melonjak jauh lebih tajam, dari Rp40,94 miliar menjadi Rp74,94 miliar, setara kenaikan 83 persen, sehingga ekuitas atau modal bersih milik pemegang saham ikut tergerus menjadi sekitar Rp77,6 miliar.",
+   "Dalam surat resmi kepada Bursa Efek Indonesia tertanggal 10 November 2026 yang ditandatangani Presiden Direktur Willy Chandry, perseroan menjelaskan kenaikan liabilitas tersebut wajib diumumkan karena melampaui ambang 20 persen sesuai Peraturan Bursa No. I.E. Perseroan menyebut kenaikan utang terutama berasal dari pinjaman baru dari PT Bara Alam Utama, serta biaya yang masih harus dibayar atas pembelian barang sepanjang 2023. Di pos-pos detail laporan posisi keuangan, utang kepada pihak ketiga lainnya melonjak dari Rp5,95 miliar menjadi Rp25,93 miliar, dan beban akrual jangka pendek naik dari Rp1,13 miliar menjadi Rp10,88 miliar.",
+   "Auditor independen, Kantor Akuntan Publik Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan Rekan dengan partner penandatangan Heri Setianto, memberikan opini wajar tanpa modifikasian atas laporan ini. Namun auditor menyertakan paragraf penekanan suatu hal karena laporan keuangan 2023 ini disajikan ulang secara retrospektif untuk mengoreksi penyajian aset tak berwujud pada periode sebelumnya, sesuai Catatan 39. Auditor juga menyoroti dua hal audit utama, yaitu revaluasi aset tetap senilai Rp14,88 miliar yang setara 10 persen dari total aset, serta cadangan kerugian penurunan nilai piutang usaha sebesar Rp2,33 miliar dari total piutang usaha Rp24,49 miliar."
+  ],
+  "fotoAdegan": "Technician servicing a handheld card payment terminal at a retail checkout counter, close-up on cables and device, indoor lighting",
+  "takeaway": "Koreksi ini condong negatif bagi Cashlez, karena laporan ini sudah menjadi koreksi ketiga dalam waktu kurang dari sepekan setelah laporan keuangan 2022 dan 2024 juga direvisi, sementara liabilitas tahun 2023 justru melonjak 83 persen akibat utang baru. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang yang mencerminkan kekayaan bersih milik pemegang saham, dan membesarnya porsi utang dibanding aset berarti risiko keuangan perusahaan ikut naik karena beban membayar utang jadi lebih berat dibanding modal sendiri. Pelaku pasar biasanya mencermati rasio utang seperti ini karena perusahaan dengan utang besar lebih rentan kalau pendapatan melambat atau kreditor menagih lebih cepat. Yang perlu dipantau selanjutnya adalah apakah Cashlez akan mengoreksi lagi laporan keuangan periode lain menyusul tiga koreksi berturut-turut dalam sepekan ini, dan apakah OJK yang menerima tembusan surat ini meminta klarifikasi tambahan soal keandalan pencatatan keuangan perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "amag-free-float-11-12-kejar-syarat-15-sampai-2029",
+  "category": "Aksi Korporasi",
+  "title": "AMAG: [free float] 11,12%, kejar syarat 15% sampai 2029",
+  "deck": "Public expose AMAG mengungkap porsi saham publik baru 11,12%, masih di bawah syarat baru 15%, dan menegaskan tidak akan melanjutkan buyback saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:20:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f95535e904_de930bf61b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMAG",
+  "tags": [
+   "AMAG",
+   "free float",
+   "public expose",
+   "asuransi"
+  ],
+  "body": [
+   "Asuransi Multi Artha Guna Tbk (AMAG) menggelar public expose tahunan secara daring lewat Zoom pada Jumat, 6 November 2026, dipimpin Presiden Direktur Pankaj Oberoi bersama jajaran direksi dan komisaris, termasuk Wakil Presiden Direktur Karel Fitrijanto, Arun Nanwani, dan Thomas Paitimusa, Direktur Peggy Wystan, Direktur Keuangan Dinesh Ramu, serta Corporate Secretary Israeni Miradani S. Acara dihadiri 12 peserta eksternal dari kalangan investor, analis, media, dan masyarakat umum. Laporan hasil acara ini disampaikan ke Bursa Efek Indonesia oleh Direktur Peggy Wystan pada 10 November 2026.",
+   "Poin paling signifikan dalam sesi tanya jawab adalah status free float atau porsi saham yang beredar di tangan publik. Dua investor, Timothy Tanamal dan Dwi RDP, menanyakan langkah AMAG memenuhi ketentuan baru OJK dan Bursa yang mewajibkan minimal 15 persen saham beredar di publik, sementara posisi AMAG per Oktober 2026 baru di kisaran 11,12 persen. Dwi RDP secara spesifik mengingatkan bahwa kegagalan memenuhi syarat ini bisa berujung suspensi perdagangan atau bahkan delisting. Manajemen menjawab bahwa tenggat waktu kepatuhan ditetapkan Maret 2029, dan perusahaan sudah melibatkan konsultan hukum untuk menyusun strategi pemenuhannya, dengan target bisa selesai lebih cepat dari tenggat tersebut.",
+   "Terkait hal ini, investor Eva Setyorini menyinggung bahwa AMAG memegang treasury shares atau saham hasil pembelian kembali sebesar 1,12 persen dari total saham, dan menanyakan apakah buyback akan dilanjutkan pada 2027. Manajemen menegaskan tidak akan melakukan pembelian kembali saham dalam waktu dekat, karena langkah itu justru memperkecil porsi saham publik yang sedang harus mereka tambah, dan perusahaan sedang menyusun rencana rinci beserta jadwalnya sesuai batas waktu regulator.",
+   "Dalam sesi lain, manajemen memaparkan rencana bisnis 2027 yang mencakup fokus pada risiko berkualitas tinggi di lini komersial (properti, kargo, lambung kapal, tanggung gugat, dan rekayasa), pertumbuhan asuransi kendaraan bermotor baik segmen tradisional maupun kendaraan listrik, pengembangan produk kesehatan berdenominasi rupiah dan dolar, serta produk terstruktur yang dijual secara paket maupun terpisah. Manajemen juga menyebut OJK sedang mengkaji metode baru penghitungan rasio kesehatan modal perusahaan asuransi (RBC) yang rencananya rilis resmi pada kuartal pertama 2027, namun arah dampaknya terhadap rasio AMAG maupun apakah batas minimum 120 persen akan berubah masih belum dapat dipastikan karena pembahasan dengan industri masih berjalan."
+  ],
+  "fotoAdegan": "Insurance claims assessor examining a dented car fender in an outdoor vehicle inspection yard under overcast skies, clipboard in hand",
+  "takeaway": "Laporan ini netral bagi fundamental AMAG, karena isinya rekap tanya jawab dan rencana strategis, bukan perubahan kinerja keuangan yang sudah terjadi. Yang tersentuh adalah porsi saham beredar di publik, yaitu persentase saham AMAG yang dipegang investor umum di luar pemegang saham pengendali, yang memengaruhi likuiditas perdagangan saham dan kini jadi alasan AMAG memilih tidak membeli balik sahamnya sendiri meski punya kapasitas untuk itu. Pelaku pasar perlu mencermati pos ini karena porsi publik yang masih di 11,12 persen, di bawah syarat minimum 15 persen, menyimpan risiko administratif berupa suspensi atau delisting jika tidak terpenuhi, meski bukan ancaman mendesak. Yang perlu dipantau berikutnya adalah langkah konkret AMAG sebelum tenggat Maret 2029 untuk menambah porsi saham publik, serta terbitnya aturan baru metode perhitungan modal minimum asuransi dari OJK yang dijadwalkan kuartal pertama 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jaya-laba-bersih-melonjak-296-persen-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "JAYA: Laba Bersih [Melonjak] 296 Persen di Semester I 2026",
+  "deck": "Laba bersih JAYA naik hampir empat kali lipat pada semester I 2026 seiring pendapatan yang melonjak, tapi utang sewa pembiayaan juga naik tajam untuk perluasan armada.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:12:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110162401-65784-0/FinancialStatement-2026-II-JAYA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JAYA",
+  "tags": [
+   "JAYA",
+   "laporan keuangan",
+   "transportasi dan logistik",
+   "sewa pembiayaan"
+  ],
+  "body": [
+   "PT Armada Berjaya Trans Tbk (JAYA) menyampaikan koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir pada 30 Juni 2026, melalui surat bernomor 003/ABT/XI/2026 pada 10 November 2026. Dalam laporan yang tidak diaudit ini, pendapatan perusahaan tercatat Rp61,46 miliar pada semester I 2026, naik dari Rp32,90 miliar pada periode yang sama tahun sebelumnya, atau tumbuh sekitar 87 persen. Laba usaha melonjak dari Rp2,55 miliar menjadi Rp13,60 miliar, sementara laba bersih naik dari Rp2,07 miliar menjadi Rp8,21 miliar. Kenaikan laba bersih ini mengangkat laba per saham dari Rp2,59 menjadi Rp10,28, dengan jumlah saham beredar tetap di 798.499.394 lembar.",
+   "Dari sisi posisi keuangan, jumlah aset perusahaan naik dari Rp378,16 miliar pada akhir 2025 menjadi Rp429,86 miliar pada akhir Juni 2026. Jumlah liabilitas juga naik, dari Rp253,88 miliar menjadi Rp297,36 miliar, sementara ekuitas naik lebih kecil, dari Rp124,29 miliar menjadi Rp132,50 miliar. Kenaikan liabilitas ini banyak disumbang oleh liabilitas sewa pembiayaan jangka panjang yang melompat dari Rp32,60 miliar menjadi Rp127,61 miliar, sementara bagian yang jatuh tempo dalam satu tahun naik dari Rp32,32 miliar menjadi Rp63,73 miliar. Di sisi lain, utang lain-lain pihak ketiga turun tajam dari Rp137,88 miliar menjadi Rp44,51 miliar, menunjukkan sebagian liabilitas ini sudah dilunasi. Rasio lancar, yaitu perbandingan aset lancar terhadap liabilitas jangka pendek, membaik dari 28,07 persen menjadi 44,07 persen, tetapi itu berarti aset lancar perusahaan masih belum cukup menutupi seluruh liabilitas jangka pendeknya yang mencapai Rp165,81 miliar.",
+   "Laporan arus kas menunjukkan kas dari aktivitas operasi tetap positif Rp11,93 miliar pada semester I 2026, hampir sama dengan Rp11,05 miliar pada periode yang sama tahun sebelumnya. Aktivitas investasi menghasilkan kas masuk bersih Rp4,45 miliar pada 2026, berbeda dari posisi 2025 yang mencatat kas keluar bersih Rp39,12 miliar karena saat itu perusahaan banyak membeli aset tetap senilai Rp62,35 miliar. Pada aktivitas pendanaan, perusahaan menarik dana baru dari liabilitas sewa pembiayaan sebesar Rp81,44 miliar yang kemungkinan dipakai menambah unit armada angkutan, meski secara neto kas dari aktivitas pendanaan tetap negatif Rp14,38 miliar karena pembayaran utang lain-lain sebesar Rp93,37 miliar. Posisi kas dan setara kas perusahaan naik dari Rp2,61 miliar pada akhir 2025 menjadi Rp4,61 miliar pada akhir Juni 2026.",
+   "Surat pernyataan direksi dalam laporan ini ditandatangani oleh Darmawan Suryadi SM selaku Direktur Utama pada 9 November 2026. Laporan ini juga mencantumkan tujuh entitas anak yang dimiliki JAYA dengan porsi kepemilikan 99,99 persen di masing-masing perusahaan, mencakup enam perusahaan di bidang real estat di Bali dan Jakarta serta satu perusahaan perdagangan eceran mobil bekas di Jakarta, dengan total aset masing-masing entitas berkisar dari Rp2,02 miliar hingga Rp80,31 miliar."
+  ],
+  "fotoAdegan": "Rows of cargo trucks parked in an open logistics yard at early morning, workers checking tie-down straps on trailers",
+  "takeaway": "Laporan ini condong positif bagi JAYA karena laba bersih melonjak hampir empat kali lipat dan pendapatan tumbuh signifikan dalam setahun, walau pergeseran struktur utang ke arah sewa pembiayaan tetap perlu dicermati karena menambah beban bunga ke depan. Pos yang paling tersentuh adalah laba per saham, yakni bagian laba yang dihitung untuk setiap lembar saham beredar, yang naik dari Rp2,59 menjadi Rp10,28 karena laba bersih melonjak sementara jumlah saham tidak bertambah. Beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjaman dan sewa pembiayaannya, naik dari Rp2,55 miliar menjadi Rp6,22 miliar, sejalan dengan liabilitas sewa pembiayaan jangka panjang yang melonjak dari Rp32,60 miliar menjadi Rp127,61 miliar untuk membiayai penambahan armada. Perusahaan memang melunasi utang lain-lain pihak ketiga dari Rp137,88 miliar menjadi Rp44,51 miliar, tetapi penggantinya adalah utang sewa pembiayaan baru, jadi total liabilitas perusahaan tetap naik. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026 dan laporan tahunan auditan, karena rasio lancar yang baru mencapai 44,07 persen menunjukkan aset lancar perusahaan belum sepenuhnya menutup liabilitas jangka pendek senilai Rp165,81 miliar, termasuk Rp63,73 miliar liabilitas sewa pembiayaan yang jatuh tempo dalam setahun ke depan.",
+  "sentimen": "positif"
  },
  {
   "slug": "heli-terbitkan-83-3-juta-saham-baru-tanpa-hmetd-danai-pear",

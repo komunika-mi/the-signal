@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "skbm-jadwalkan-pembayaran-dividen-interim-30-november",
+  "category": "Aksi Korporasi",
+  "title": "SKBM Jadwalkan Pembayaran [Dividen] Interim 30 November",
+  "deck": "Sekar Bumi akan membayar dividen interim Rp17,5 per saham pada 30 November 2026, dengan pemegang saham per 20 November sebagai penerima.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SKBM",
+   "dividen interim",
+   "Sekar Bumi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fc8593cdd1_27e906c64d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-alihkan-sisa-dana-rp424-8-m-ke-anak-usaha-lewat-pinjaman",
+  "category": "Aksi Korporasi",
+  "title": "PACK Alihkan Sisa Dana Rp424,8 M ke [Anak Usaha] Lewat Pinjaman",
+  "deck": "PACK mengubah rencana penggunaan sisa dana rights issue Rp424,8 miliar, dari biaya operasional sendiri menjadi pinjaman tanpa bunga ke anak usaha di bisnis logam.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "rights issue",
+   "penggunaan dana",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/877f48cbd7_59df85c375.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-rhb-tak-sesuaikan-waran-medc-meski-ada-dividen",
+  "category": "Aksi Korporasi",
+  "title": "DR: RHB Tak Sesuaikan Waran [MEDC] Meski Ada Dividen",
+  "deck": "RHB Sekuritas menegaskan tidak ada penyesuaian pada waran terstruktur MEDCDRCZ6A dan MEDCDRCH7A meski saham acuannya, MEDC, membagikan dividen tunai.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "MEDC",
+   "waran terstruktur",
+   "RHB Sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b7e27bc214_ef52f24505.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-kdtn-direksi-lama-diangkat-ulang-komisaris-asing-batal",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB KDTN: Direksi Lama Diangkat Ulang, Komisaris Asing [Batal]",
+  "deck": "RUPSLB KDTN mempertahankan direksi dan komisaris utama yang sama, sementara rencana komisaris dan dua direktur baru dari luar negeri batal karena belum lolos uji kelayakan OJK.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "RUPSLB",
+   "Direksi Komisaris",
+   "Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/994ef21617_f3c8ad0f76.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-sajikan-ulang-lk-2024-ekuitas-susut-55-jadi-rp54-9-m",
+  "category": "Aksi Korporasi",
+  "title": "CASH Sajikan Ulang LK 2024, Ekuitas [Susut] 55% jadi Rp54,9 M",
+  "deck": "Cashlez menerbitkan ulang laporan keuangan 2024 karena koreksi penyajian aset takberwujud, membuat total aset turun 28% dan ekuitas turun 55% dibanding versi sebelumnya.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "Cashlez",
+   "restatement laporan keuangan",
+   "emiten teknologi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261110173130-65765-0/FinancialStatement-2024-Tahunan-CASH.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nfcx-revisi-buyback-incar-49-juta-saham-hingga-februari-2027",
+  "category": "Aksi Korporasi",
+  "title": "NFCX Revisi Buyback, Incar [49 Juta] Saham hingga Februari 2027",
+  "deck": "PT NFC Indonesia Tbk mengoreksi pengumuman buyback 6 November, menegaskan rencana membeli kembali hingga 49 juta saham atau 7,35 persen modal disetor dalam tiga bulan mulai 9 November 2026.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NFCX",
+   "buyback saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec83db80fc_9d8a9e09ad.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-sajikan-ulang-lk-2023-ekuitas-susut-50-jadi-rp77-6-m-koreksi",
+  "category": "Aksi Korporasi",
+  "title": "CASH Sajikan Ulang LK 2023, Ekuitas Susut 50% jadi Rp77,6 M [Koreksi]",
+  "deck": "Cashlez mengoreksi penyajian aset takberwujud sesuai PSAK 238, memangkas ekuitas 2023 dari Rp154,9 miliar jadi Rp77,6 miliar, koreksi ketiga dalam sepekan.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "restatement",
+   "laporan keuangan",
+   "PSAK 238"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5dae374888_293438a1e8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jeli-suntik-modal-rp130-miliar-ke-anak-usaha-nps",
+  "category": "Aksi Korporasi",
+  "title": "JELI Suntik [Modal] Rp130 Miliar ke Anak Usaha NPS",
+  "deck": "PT Niramas Utama Tbk menyuntik modal Rp130 miliar ke anak usaha NPS untuk menambah modal kerja, sesuai rencana penggunaan dana IPO di prospektus.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JELI",
+   "transaksi afiliasi",
+   "IPO",
+   "Niramas Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/232bb00aeb_da18f1bcbc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bcic-jadwalkan-rupslb-pada-17-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "BCIC Jadwalkan [RUPSLB] pada 17 Desember 2026",
+  "deck": "Bank JTrust Indonesia (BCIC) akan menggelar RUPSLB pada 17 Desember 2026, dengan pemegang saham tercatat per 24 November 2026 yang berhak hadir.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BCIC",
+   "RUPSLB",
+   "Bank JTrust Indonesia",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/52a89d5b02_90da1aaf05.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-koreksi-lagi-ekuitas-berbalik-ke-positif-rp8-98-m",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Koreksi Lagi, [Ekuitas] Berbalik ke Positif Rp8,98 M",
+  "deck": "Koreksi kedua BIKE membalik ekuitas interim per 30 September 2026 dari negatif Rp87,59 miliar jadi positif Rp8,98 miliar, setelah dana pinjaman PMJ dicatat ulang sebagai investasi, bukan beban.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "laporan keuangan",
+   "suspensi saham",
+   "PMJ"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/13c44ad196_224de7c258.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ibc-gandeng-avesta-belgia-garap-baterai-solid-state",
   "category": "Industri",
   "title": "IBC Gandeng [Avesta] Belgia, Garap Baterai Solid-State",
@@ -73,6 +233,70 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kebijakan-tata-kelola-ekspor-sda-akan-berlaku-mendag-busan-tekankan-aktivitas-ekspor-tetap-sama",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "heli-rencanakan-akuisisi-60-saham-pear-rp14-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "HELI Rencanakan [Akuisisi] 60% Saham PEAR Rp14,4 Miliar",
+  "deck": "HELI akan membeli 60 persen saham PT Putra Elang Angkasaraya senilai Rp14,4 miliar dari PT Multi Angkasa Indonesia, menunggu persetujuan RUPSLB 17 Desember 2026.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HELI",
+   "akuisisi",
+   "transaksi material",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/77776d7983_697a004e35.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-koreksi-lk-2023-ketiga-kali-liabilitas-melonjak-83",
+  "category": "Aksi Korporasi",
+  "title": "CASH Koreksi LK 2023 Ketiga Kali, Liabilitas [Melonjak] 83%",
+  "deck": "Cashlez merevisi laporan keuangan 2023 untuk ketiga kalinya dalam sepekan, dengan total liabilitas melonjak 83 persen jadi Rp74,9 miliar akibat pinjaman baru dan utang pembelian barang.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "laporan keuangan",
+   "restatement",
+   "liabilitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202311/20261110163457-65775-0/FinancialStatement-2023-Tahunan-CASH.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amag-free-float-11-12-kejar-syarat-15-sampai-2029",
+  "category": "Aksi Korporasi",
+  "title": "AMAG: [free float] 11,12%, kejar syarat 15% sampai 2029",
+  "deck": "Public expose AMAG mengungkap porsi saham publik baru 11,12%, masih di bawah syarat baru 15%, dan menegaskan tidak akan melanjutkan buyback saham.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMAG",
+   "free float",
+   "public expose",
+   "asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f95535e904_de930bf61b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jaya-laba-bersih-melonjak-296-persen-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "JAYA: Laba Bersih [Melonjak] 296 Persen di Semester I 2026",
+  "deck": "Laba bersih JAYA naik hampir empat kali lipat pada semester I 2026 seiring pendapatan yang melonjak, tapi utang sewa pembiayaan juga naik tajam untuk perluasan armada.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JAYA",
+   "laporan keuangan",
+   "transportasi dan logistik",
+   "sewa pembiayaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110162401-65784-0/FinancialStatement-2026-II-JAYA.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "heli-terbitkan-83-3-juta-saham-baru-tanpa-hmetd-danai-pear",
@@ -6233,235 +6457,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c839e2aec_34633bfe1b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-jadi-rp2-537-000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Jadi Rp2.537.000 per Gram",
-  "deck": "Harga emas batangan Antam hari ini turun Rp4.000 menjadi Rp2.537.000 per gram, sementara harga buyback ikut turun ke Rp2.307.000 per gram.",
-  "date": "4 November 2026",
-  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-537-000-per-gram.jpg",
-  "imageV": "mw1kkqwh",
-  "tags": [
-   "emas antam",
-   "harga emas",
-   "logam mulia",
-   "emas batangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476541-harga-emas-antam-hari-ini-4-november-2026-turun-jadi-rp2537000-per-gram-saatnya-beli"
- },
- {
-  "slug": "pkpk-gelar-rupslb-dan-rups-independen-11-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "PKPK Gelar [RUPSLB] dan RUPS Independen 11 Desember 2026",
-  "deck": "Paragon Karya Perkasa menjadwalkan RUPSLB dan RUPS Independen pada 11 Desember 2026. Pemegang saham yang tercatat per 18 November 2026 berhak hadir dan memberi suara.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PKPK",
-   "RUPSLB",
-   "RUPS Independen",
-   "Paragon Karya Perkasa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/24551d67e7_0c60ddcfb7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kmds-panggil-rupslb-26-november-ubah-anggaran-dasar",
-  "category": "Aksi Korporasi",
-  "title": "KMDS Panggil RUPSLB 26 November, Ubah [Anggaran Dasar]",
-  "deck": "RUPSLB KMDS pada 26 November 2026 akan membahas penambahan klasifikasi KBLI ke anggaran dasar agar sesuai bidang usaha perseroan.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KMDS",
-   "RUPSLB",
-   "Anggaran Dasar",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/55375643ff_0fc8bf38eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "idea-teken-pjbs-nawasena-ambil-alih-66-58-saham",
-  "category": "Aksi Korporasi",
-  "title": "IDEA Teken PJBS, Nawasena Ambil Alih [66,58%] Saham",
-  "deck": "Nawasena Nugra Investama menandatangani perjanjian bersyarat untuk mengambil alih 707,3 juta saham IDEA, setara 66,58% kepemilikan, dari Eko Desriyanto dan PT Idea Asia Investama.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IDEA",
-   "akuisisi",
-   "Nawasena Nugra Investama",
-   "pengendali baru"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7b3c9810ad_8bbc6bc43e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "suspensi-bei-lanjutkan-setop-saham-menn-dan-soul",
-  "category": "Aksi Korporasi",
-  "title": "[Suspensi] BEI Lanjutkan Setop Saham MENN dan SOUL",
-  "deck": "BEI memperpanjang penghentian perdagangan saham MENN dan SOUL karena keduanya belum menyampaikan laporan keuangan interim 2026 dan/atau melunasi denda terkait.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MENN",
-   "SOUL",
-   "suspensi saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ac3d8e6f5a_036de73c31.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekspor-sda-lewat-singapura-diperketat-bisa-tambah-penerimaan-negara",
-  "category": "Energi",
-  "title": "Ekspor SDA Lewat Singapura Diperketat, Bisa [Tambah] Penerimaan Negara",
-  "deck": "Ekonom CORE Indonesia menilai larangan ekspor SDA lewat negara perantara seperti Singapura bisa menambah penerimaan negara hingga Rp3 triliun per tahun dari pajak dan royalti batu bara.",
-  "date": "4 November 2026",
-  "image": "assets/img/ekspor-sda-lewat-singapura-diperketat-bisa-tambah-penerimaan-negara.jpg",
-  "imageV": "mw17rsy2",
-  "tags": [
-   "Bahlil Lahadalia",
-   "ekspor batu bara",
-   "Singapura",
-   "penerimaan negara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476496-soal-kebijakan-menteri-bahlil-tertibkan-ekspor-sda-berpotensi-tambah-penerimaan-negara-hingga-triliun-rupiah"
- },
- {
-  "slug": "surplus-perdagangan-ri-september-menyusut-ke-us-3-36-miliar",
-  "category": "Makroekonomi",
-  "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
-  "deck": "Surplus dagang Indonesia September 2026 menyusut tipis ke US$3,36 miliar akibat defisit migas melebar, sementara ekspor dan impor sama-sama tumbuh dua digit secara tahunan.",
-  "date": "3 November 2026",
-  "image": "assets/img/timbangan-pasar.jpg",
-  "tags": [
-   "neraca dagang",
-   "ekspor impor",
-   "Kemendag",
-   "PMI manufaktur"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tren-positif-perdagangan-luar-negeri-hingga-september-2026-tunjukkan-ketahanan-eksternal-indonesia",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "dari-patin-ke-gula-sawit-sumatera-unjuk-inovasi-iga-2026",
-  "category": "UMKM",
-  "title": "Dari Patin ke Gula Sawit, Sumatera [Unjuk] Inovasi IGA 2026",
-  "deck": "Sepuluh pemerintah daerah di Sumatera masuk nominasi Innovative Government Award 2026, dari budidaya ikan patin di Sumatera Selatan hingga pengolahan batang sawit jadi gula merah di Sumatera Barat.",
-  "date": "3 November 2026",
-  "image": "assets/img/dari-patin-ke-gula-sawit-sumatera-unjuk-inovasi-iga-2026.jpg",
-  "imageV": "mw0w3hm2",
-  "tags": [
-   "IGA 2026",
-   "Kemendagri",
-   "Sumatera Selatan",
-   "Sumatera Barat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476471-gebrakan-inovasi-daerah-di-iga-2026-dari-patin-jadi-lumbung-pangan-hingga-batang-sawit-jadi-gula"
- },
- {
-  "slug": "mypertamina-fair-2026-digelar-poin-direset-awal-2027",
-  "category": "BUMN",
-  "title": "MyPertamina Fair 2026 Digelar, Poin [Direset] Awal 2027",
-  "deck": "Pertamina membuka program penukaran poin MyPertamina Fair 2026 selama dua bulan, sebelum seluruh saldo poin direset ke nol pada 1 Januari 2027.",
-  "date": "3 November 2026",
-  "image": "assets/img/mypertamina-fair-2026-digelar-poin-direset-awal-2027.jpg",
-  "imageV": "mw0w3i3w",
-  "tags": [
-   "pertamina",
-   "mypertamina",
-   "konsumen",
-   "poin loyalitas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476465-mypertamina-fair-2026-dimulai-pertamina-beri-apresiasi-bagi-konsumen-setia"
- },
- {
-  "slug": "arus-peti-kemas-tumbuh-5-8-persen-ke-10-31-juta-teus",
-  "category": "BUMN",
-  "title": "Arus Peti Kemas [Tumbuh] 5,8 Persen ke 10,31 Juta TEUs",
-  "deck": "Arus peti kemas Pelindo Terminal Petikemas tembus 10,31 juta TEUs sepanjang Januari-September 2026, tumbuh 5,8 persen didorong kenaikan perdagangan internasional.",
-  "date": "3 November 2026",
-  "image": "assets/img/arus-peti-kemas-tumbuh-5-8-persen-ke-10-31-juta-teus.jpg",
-  "imageV": "mw1sy64q",
-  "tags": [
-   "pelindo",
-   "peti kemas",
-   "pelabuhan",
-   "perdagangan internasional"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476458-perdagangan-meningkat-pesat-arus-peti-kemas-pelindo-tembus-103-juta-teus"
- },
- {
-  "slug": "arus-peti-kemas-pelindo-tembus-10-3-juta-teus",
-  "category": "BUMN",
-  "title": "Arus Peti Kemas Pelindo [Tembus] 10,3 Juta TEUs",
-  "deck": "Volume peti kemas Pelindo naik 5,80 persen jadi 10,31 juta TEUs dalam sembilan bulan 2026, didorong lonjakan arus perdagangan internasional.",
-  "date": "3 November 2026",
-  "image": "assets/img/arus-peti-kemas-pelindo-tembus-10-3-juta-teus.jpg",
-  "imageV": "mw0w3jap",
-  "tags": [
-   "pelindo",
-   "peti kemas",
-   "pelabuhan",
-   "logistik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476458-perdagangan-internasional-tumbuh-pesat-arus-peti-kemas-pelindo-tembus-103-juta-teus"
- },
- {
-  "slug": "sqmi-kendali-tak-langsung-bisa-berubah-usai-induk-raih-us-70-juta",
-  "category": "Aksi Korporasi",
-  "title": "SQMI: Kendali Tak Langsung Bisa Berubah Usai Induk Raih [US$70 Juta]",
-  "deck": "Induk usaha SQMI menjual saham dan obligasi konversi senilai sekitar US$70 juta ke Maxglory Capital, transaksi yang bisa mengubah kendali tidak langsung emiten ini.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SQMI",
-   "Wilton Makmur Indonesia",
-   "Ciemas Gold Project",
-   "perubahan kendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9abb7c3fc7_9f6533ce27.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gpso-jelaskan-lonjakan-aset-62-76-ke-bursa-imbas-suntikan-modal",
-  "category": "Aksi Korporasi",
-  "title": "GPSO Jelaskan Lonjakan [Aset] 62,76% ke Bursa, Imbas Suntikan Modal",
-  "deck": "GPSO melaporkan ke BEI, aset naik 62,76% dan liabilitas naik 63,59% per September 2026, didorong penerbitan 66,67 juta saham baru dan pembelian mesin secara kredit.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GPSO",
-   "laporan keuangan",
-   "penambahan modal",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103211339-65725-0/FinancialStatement-2026-III-GPSO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wamenko-ajak-investor-cermati-data-tak-ikut-indeks-asing",
-  "category": "Pasar Modal",
-  "title": "Wamenko Ajak Investor [Cermati] Data, Tak Ikut Indeks Asing",
-  "deck": "Wamenko Dradjad Hari Wibowo meminta investor tidak sekadar mengikuti penilaian lembaga indeks asing seperti MSCI, melainkan menganalisis sendiri data emiten dan ekonomi nasional.",
-  "date": "3 November 2026",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
-  "tags": [
-   "pasar modal",
-   "investor",
-   "MSCI",
-   "pertumbuhan ekonomi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7196/jaga-kepercayaan-di-tengah-dinamika-pasar-modal-wamenko-dradjad-ajak-investor-utamakan-data-dan-analisis",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

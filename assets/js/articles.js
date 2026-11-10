@@ -369,7 +369,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah baru tahap awal, pemerintah memulai penyusunan dokumen induk pariwisata baru, RIPPARNAS 2027-2045, yang nantinya akan menggantikan kerangka yang sejak 2011 diatur lewat Peraturan Pemerintah No 50, dengan target kontribusi pariwisata ke PDB naik menjadi 4,9 sampai 5 persen dan devisa US$39,4 miliar pada 2029. Yang kena dampak langsung adalah pemerintah daerah yang mengelola 10 destinasi prioritas dan 3 destinasi regeneratif dalam RPJMN 2025-2029, karena arah penyusunan ini mengaitkan penetapan kawasan wisata dengan kedekatannya pada kawasan ekonomi khusus, kawasan industri, dan simpul transportasi seperti bandara dan pelabuhan. Yang masih kurang untuk menilai ke mana ini benar-benar bergerak adalah kejelasan bentuk hukum RIPPARNAS nanti, apakah akan menjadi revisi peraturan pemerintah yang mengikat kementerian dan daerah, atau sekadar dokumen pedoman tanpa konsekuensi kalau tidak dipatuhi. Pemerintah juga belum mengumumkan target waktu penyelesaian draf, sehingga penanda paling dekat yang bisa dipantau adalah kapan draf ini masuk ke tahap pembahasan antar-kementerian atau disahkan sebagai peraturan baru.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "lapd-resmi-ubah-nama-ke-jsi-sinergi-internasional-dan-alamat",

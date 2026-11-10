@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "heli-terbitkan-83-3-juta-saham-baru-tanpa-hmetd-danai-pear",
+  "category": "Aksi Korporasi",
+  "title": "HELI Terbitkan [83,3 Juta] Saham Baru Tanpa HMETD, Danai PEAR",
+  "deck": "HELI berencana menerbitkan hingga 83,3 juta saham baru tanpa HMETD untuk mendanai akuisisi PT Putra Elang Angkasaraya, menanti RUPSLB 17 Desember 2026.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HELI",
+   "Penambahan Modal",
+   "PMTHMETD",
+   "Akuisisi PEAR"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e7aa32543b_399c068955.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nayz-bentuk-anak-usaha-isd-rencana-inbreng-bt-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Bentuk Anak Usaha ISD, Rencana [Inbreng] BT Berlanjut",
+  "deck": "NAYZ menjelaskan ke Bursa bahwa anak usaha baru ISD belum punya studi kelayakan dan izin usaha, sementara rencana suntik aset BT lewat rights issue masih menunggu RUPSLB.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NAYZ",
+   "Hassana Boga Sejahtera",
+   "rights issue",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/618465354f_48df098b5b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adro-asi-alihkan-48-77-saham-ke-empat-investor",
+  "category": "Aksi Korporasi",
+  "title": "ADRO: ASI Alihkan [48,77%] Saham ke Empat Investor",
+  "deck": "PT Adaro Strategic Investments mengalihkan seluruh 48,77 persen sahamnya di Alamtri Resources ke empat pihak lewat pasar negosiasi BEI, tanpa mengubah pengendalian perusahaan.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADRO",
+   "Alamtri Resources",
+   "pengalihan saham",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1ef3bf66ee_d84b5ee50a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "skyb-resmi-delisting-dari-bei-gabung-17-emiten-lain",
+  "category": "Aksi Korporasi",
+  "title": "SKYB Resmi [Delisting] dari BEI, Gabung 17 Emiten Lain",
+  "deck": "Bursa Efek Indonesia resmi mencabut status SKYB sebagai perusahaan tercatat per 10 November 2026 akibat forced delisting dan go private, bersama 17 emiten lain termasuk Sri Rejeki Isman (SRIL).",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SKYB",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aa7966b762_3840ec07e5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "psdn-bukukan-laba-rp46-2-miliar-liabilitas-turun-29",
+  "category": "Aksi Korporasi",
+  "title": "PSDN Bukukan Laba Rp46,2 Miliar, [Liabilitas] Turun 29%",
+  "deck": "Laporan kuartal III Prasidha Aneka Niaga menunjukkan laba Rp46,2 miliar setelah penjualan aset di Lampung, sementara total liabilitas turun 29,3 persen menjadi Rp84,2 miliar.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSDN",
+   "Prasidha Aneka Niaga",
+   "Laporan Keuangan",
+   "Liabilitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110150901-65782-0/FinancialStatement-2026-III-PSDN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sugi-resmi-kena-delisting-dari-bei-efektif-10-november",
+  "category": "Aksi Korporasi",
+  "title": "SUGI Resmi Kena [Delisting] dari BEI, Efektif 10 November",
+  "deck": "Bursa Efek Indonesia mencabut status perusahaan tercatat Sugih Energy Tbk (SUGI) mulai 10 November 2026, bersama 17 emiten lain, setelah sahamnya lama disuspensi.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUGI",
+   "delisting",
+   "BEI",
+   "Sugih Energy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/564ff5d881_94ede5a14c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wsbp-terbitkan-54-3-juta-saham-baru-dari-konversi-utang",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Terbitkan [54,3 Juta] Saham Baru dari Konversi Utang",
+  "deck": "WSBP akan menerbitkan 54,3 juta saham baru pada 18 November 2026 sebagai konversi utang tahap VII, dengan harga konversi Rp50,81 per saham.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "PMTHMETD",
+   "konversi utang",
+   "Waskita Beton Precast"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0156544c51_ba78cc487b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "auto-vto-astra-international-pangkas-free-float-ke-15-05",
+  "category": "Aksi Korporasi",
+  "title": "AUTO: [VTO] Astra International Pangkas Free Float ke 15,05%",
+  "deck": "Public expose AUTO membahas laba 9M 2026 naik 14,7% dan tender offer Astra International yang menekan saham publik ke 15,05%, pas di atas syarat minimum bursa.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AUTO",
+   "VTO",
+   "Astra Otoparts",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b22aab9a62_1685846a01.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ssms-laba-naik-71-jadi-rp1-75-t-aset-melonjak-37-7",
+  "category": "Aksi Korporasi",
+  "title": "SSMS: Laba Naik 71% jadi Rp1,75 T, [Aset] Melonjak 37,7%",
+  "deck": "Sawit Sumbermas Sarana (SSMS) membukukan laba Rp1,75 triliun pada sembilan bulan 2026, naik 71 persen, didorong kenaikan pendapatan dan lonjakan aset akibat aturan penahanan devisa ekspor.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SSMS",
+   "laporan keuangan",
+   "sawit",
+   "devisa hasil ekspor"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110141414-65779-0/FinancialStatement-2026-III-SSMS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "heli-gelar-rupslb-17-desember-agenda-perlu-suara-independen",
+  "category": "Aksi Korporasi",
+  "title": "HELI Gelar RUPSLB 17 Desember, Agenda Perlu Suara [Independen]",
+  "deck": "PT Jaya Trishindo Tbk (HELI) akan menggelar RUPSLB pada 17 Desember 2026, dengan satu agenda yang membutuhkan persetujuan Pemegang Saham Independen.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HELI",
+   "RUPSLB",
+   "Jaya Trishindo",
+   "pemegang saham independen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ef88b7938b_90b04380fd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kkp-salurkan-1-5-juta-benih-ikan-dan-udang-ke-pembudidaya",
   "category": "UMKM",
   "title": "KKP Salurkan [1,5 Juta] Benih Ikan dan Udang ke Pembudidaya",
@@ -294,6 +454,22 @@ var ARTICLES = [
    "dividen tunai"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/080c0abf91_388159d44f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "idea-resmi-dikuasai-nawasena-tender-wajib-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Resmi Dikuasai [Nawasena], Tender Wajib Menyusul",
+  "deck": "Nawasena Nugra Investama rampung mengambil alih 66,58% saham IDEA senilai Rp38 miliar dari pemegang saham lama, memicu kewajiban tender offer.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IDEA",
+   "Nawasena Nugra Investama",
+   "pengambilalihan",
+   "tender offer"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/718ecfb4bc_79c284b96b.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6283,183 +6459,6 @@ var ARTICLES = [
    "akuisisi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103202859-65427-0/FinancialStatement-2026-III-FOLK.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tgra-rugi-rp25-3-miliar-auditor-soroti-kelangsungan-usaha",
-  "category": "Aksi Korporasi",
-  "title": "TGRA Rugi Rp25,3 Miliar, Auditor Soroti [Kelangsungan] Usaha",
-  "deck": "TGRA mencatat rugi Rp25,29 miliar pada kuartal III 2026, saldo defisit tembus Rp293 miliar, dan auditor menyoroti ketidakpastian soal kelangsungan usaha perusahaan.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "going concern",
-   "PLTMH",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103201859-64823-0/FinancialStatement-2026-III-TGRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btek-ganti-pencatatan-ubo-pengendali-golden-harvest-tetap",
-  "category": "Aksi Korporasi",
-  "title": "BTEK Ganti Pencatatan [UBO], Pengendali Golden Harvest Tetap",
-  "deck": "BTEK memperbarui nama pemilik manfaat akhir di sistem Kemenkumham dari Lee Chi Kuen ke Komisaris Utama Anne Patricia Sutanto, tanpa mengubah pemegang saham pengendali.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTEK",
-   "UBO",
-   "Golden Harvest",
-   "Tata Kelola Perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fce08b39a0_f000ecee70.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-siapkan-transisi-bbm-e20-ke-e50",
-  "category": "Energi",
-  "title": "Pemerintah Siapkan Transisi BBM E20 ke [E50]",
-  "deck": "Presiden Prabowo Subianto minta ESDM dan Kementan siapkan peta jalan transisi bahan bakar etanol dari E20 ke E50, sembari mempertahankan biodiesel B50.",
-  "date": "3 November 2026",
-  "image": "assets/img/pemerintah-siapkan-transisi-bbm-e20-ke-e50.jpg",
-  "imageV": "mw0qppum",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476431-perkuat-ketahanan-energi-pemerintah-bersiap-implementasikan-bahan-bakar-e20-hingga-e50"
- },
- {
-  "slug": "arko-naikkan-pinjaman-ke-anak-usaha-jadi-rp110-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Naikkan [Pinjaman] ke Anak Usaha Jadi Rp110 Miliar",
-  "deck": "Arkora Hydro menambah plafon pinjaman ke anak usahanya, PT Arkora Hydro Malili, dari Rp75 miliar menjadi Rp110 miliar, senilai 21 persen ekuitas perseroan.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "transaksi afiliasi",
-   "pinjaman pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eff4975a1e_dabb826858.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-tanam-5-850-bibit-pohon-di-tujuh-wilayah",
-  "category": "BUMN",
-  "title": "PNM [Tanam] 5.850 Bibit Pohon di Tujuh Wilayah",
-  "deck": "PNM Peduli menanam 5.850 bibit pohon endemik di tujuh wilayah lewat program Green Impact, memadukan penghijauan dengan pemberdayaan UMKM lokal.",
-  "date": "3 November 2026",
-  "image": "assets/img/pnm-tanam-5-850-bibit-pohon-di-tujuh-wilayah.jpg",
-  "imageV": "mw0qpqgh",
-  "tags": [
-   "PNM",
-   "Green Impact",
-   "penghijauan",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476436-perluas-penghijauan-di-tujuh-wilayah-pnm-tanam-5850-bibit-pohon-endemik"
- },
- {
-  "slug": "yelo-panggil-rupslb-kedua-modal-dasar-naik-ke-rp765-miliar",
-  "category": "Aksi Korporasi",
-  "title": "YELO Panggil RUPSLB Kedua, [Modal Dasar] Naik ke Rp765 Miliar",
-  "deck": "RUPSLB pertama gagal kuorum, YELO panggil rapat kedua pada 10 November 2026 untuk menyetujui kenaikan modal dasar dari Rp275,2 miliar menjadi Rp765,1 miliar.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YELO",
-   "RUPSLB",
-   "modal dasar",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/31a22283e0_1228f1eb67.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "foru-tanggapi-bursa-ungkap-rencana-transaksi-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "FORU Tanggapi Bursa, Ungkap Rencana [Transaksi Afiliasi]",
-  "deck": "Fortune Indonesia menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, dan mengonfirmasi rencana transaksi afiliasi dan/atau material dalam waktu dekat.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "volatilitas transaksi",
-   "transaksi afiliasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/98c517121b_00442ad4f7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-jadi-ketua-d-8-bidik-optimalkan-pakta-dagang-preferensial",
-  "category": "Global",
-  "title": "RI Jadi Ketua D-8, Bidik Optimalkan Pakta Dagang [Preferensial]",
-  "deck": "Sebagai Ketua Developing-8 2026-2027, Indonesia mendorong pemanfaatan pakta dagang preferensial D-8 yang baru menopang ekspor US$40,26 juta dari total dagang US$40,95 miliar pada 2025.",
-  "date": "3 November 2026",
-  "image": "assets/img/ri-jadi-ketua-d-8-bidik-optimalkan-pakta-dagang-preferensial.jpg",
-  "imageV": "mw0kttsa",
-  "tags": [
-   "D-8",
-   "Pakta Dagang",
-   "Ekonomi Halal",
-   "Ekspor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-dorong-optimalisasi-kerja-sama-perdagangan-intra-d-8",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "nilai-dagang-ri-yaman-naik-5-6-persen-jadi-us-150-juta",
-  "category": "Global",
-  "title": "Nilai Dagang RI-Yaman [Naik] 5,6 Persen Jadi US$150 Juta",
-  "deck": "Wamendag Roro dan Wakil Menteri Perdagangan Yaman bertemu di Istanbul membahas penguatan kemitraan dagang, saat nilai perdagangan kedua negara capai US$150,1 juta pada 2025.",
-  "date": "3 November 2026",
-  "image": "assets/img/nilai-dagang-ri-yaman-naik-5-6-persen-jadi-us-150-juta.jpg",
-  "imageV": "mw0ktvws",
-  "tags": [
-   "Yaman",
-   "Kementerian Perdagangan",
-   "Perdagangan Bilateral",
-   "Produk Halal"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-dorong-kemitraan-dunia-usaha-untuk-perkuat-perdagangan-indonesia-yaman",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "boga-akuisisi-distributor-chery-senilai-rp4-85-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BOGA Akuisisi Distributor [Chery] Senilai Rp4,85 Miliar",
-  "deck": "Dua entitas anak BOGA membeli seluruh saham PT Pradipta Cakra Buana, pemegang kontrak distributor resmi Chery, senilai total Rp4,85 miliar.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOGA",
-   "akuisisi",
-   "otomotif",
-   "Chery"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4e55151c4d_2a9ca7ee6f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pipa-pangkas-liabilitas-23-tapi-kas-tergerus-jadi-rp501-juta",
-  "category": "Aksi Korporasi",
-  "title": "PIPA pangkas liabilitas 23%, tapi kas [tergerus] jadi Rp501 juta",
-  "deck": "Oxala Energy International (PIPA) menjelaskan ke OJK dan BEI penurunan liabilitas 22,99%, tapi kas perusahaan anjlok dari Rp12,6 miliar jadi hanya Rp501 juta.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIPA",
-   "Oxala Energy International",
-   "liabilitas",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103173347-65723-0/FinancialStatement-2026-III-PIPA.pdf",
   "sourceLabel": "IDX"
  }
 ];

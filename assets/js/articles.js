@@ -3,6 +3,270 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "heli-terbitkan-83-3-juta-saham-baru-tanpa-hmetd-danai-pear",
+  "category": "Aksi Korporasi",
+  "title": "HELI Terbitkan [83,3 Juta] Saham Baru Tanpa HMETD, Danai PEAR",
+  "deck": "HELI berencana menerbitkan hingga 83,3 juta saham baru tanpa HMETD untuk mendanai akuisisi PT Putra Elang Angkasaraya, menanti RUPSLB 17 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T15:22:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e7aa32543b_399c068955.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HELI",
+  "tags": [
+   "HELI",
+   "Penambahan Modal",
+   "PMTHMETD",
+   "Akuisisi PEAR"
+  ],
+  "body": [
+   "PT Jaya Trishindo Tbk (HELI) menyampaikan keterbukaan informasi mengenai rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD). Perseroan berencana menerbitkan sebanyak-banyaknya 83.286.238 saham baru dengan nilai nominal Rp100 per saham, atau setara maksimal 10 persen dari 832.862.387 saham yang saat ini telah ditempatkan dan disetor penuh. Jika seluruh saham baru terserap, jumlah saham beredar HELI akan naik menjadi maksimal 916.148.625 saham. Harga pelaksanaan belum ditetapkan dan baru akan diumumkan kemudian, dengan mengikuti aturan Bursa Efek Indonesia bahwa harganya paling rendah 90 persen dari rata-rata harga penutupan saham selama 25 hari bursa berturut-turut sebelum permohonan pencatatan saham baru diajukan.",
+   "Direktur Utama Edwin Widjaja menyebut dana hasil penambahan modal ini akan digunakan untuk membiayai rencana pengambilalihan saham PT Putra Elang Angkasaraya (PEAR) serta sisanya untuk modal kerja perseroan dan entitas anaknya, PT Komala Indonesia, yang menjalankan usaha jasa angkutan udara niaga tidak berjadwal dan penyewaan helikopter. Siapa pihak yang akan menyetor modal pada penerbitan saham baru ini belum diungkapkan perseroan, termasuk apakah ada hubungan afiliasi dengan pemegang saham utama HELI. Berdasarkan simulasi proforma yang disertakan, jika seluruh saham baru terserap, porsi kepemilikan pemegang saham utama akan tergerus: PT Startel Communication dari 35,05 persen menjadi 31,86 persen, PT Komala Tri Varia dari 25,87 persen menjadi 23,52 persen, PT Alta Internasional Indonesia dari 14,90 persen menjadi 13,54 persen, dan PT Avia Nusantara Khatulistiwa dari 8,40 persen menjadi 7,64 persen, sementara saham baru akan memegang porsi 9,09 persen dari total saham beredar setelah penambahan modal.",
+   "Rencana ini harus mendapat persetujuan pemegang saham independen dalam RUPSLB yang dijadwalkan pada Kamis, 17 Desember 2026. Dalam rapat yang sama, perseroan juga akan meminta persetujuan atas rencana pengambilalihan saham PEAR sebagai transaksi material, yang keterbukaan informasinya disampaikan terpisah. Setelah RUPSLB menyetujui, pelaksanaan PMTHMETD harus dilakukan paling lambat dalam dua tahun, yakni sebelum 17 Desember 2028, dan perseroan wajib mengumumkan rencana pelaksanaannya kepada publik serta OJK paling lambat lima hari kerja sebelum pelaksanaan, lalu melaporkan hasilnya, termasuk pihak penyetor dan harga saham, paling lambat dua hari kerja setelahnya."
+  ],
+  "fotoAdegan": "A civilian helicopter parked on an airport apron at dusk, ground crew in reflective vests inspecting the rotor, hangar lights glowing",
+  "takeaway": "Laporan ini netral bagi HELI, karena suntikan modal tanpa utang yang akan mendanai akuisisi PEAR dan memperkuat modal kerja berimbang dengan dilusi kepemilikan hingga 9,09 persen bagi pemegang saham yang tidak ikut menyetor, sementara harga pelaksanaan dan identitas pemodal barunya belum diketahui. Penambahan saham baru ini langsung menambah ekuitas perseroan tanpa menambah beban bunga sehingga rasio utang terhadap modal diperkirakan membaik, tetapi jumlah saham beredar yang naik dari 832,86 juta menjadi maksimal 916,15 juta membuat laba yang dibagi per lembar saham berpotensi mengecil jika laba perseroan tidak tumbuh sebanding. Yang perlu dipantau pemegang saham adalah hasil RUPSLB pada Kamis, 17 Desember 2026, yang sekaligus memutuskan rencana akuisisi PT Putra Elang Angkasaraya, serta pengumuman harga pelaksanaan dan identitas pemodal baru yang wajib disampaikan perseroan paling lambat lima hari kerja sebelum pelaksanaan, dengan batas akhir pelaksanaan keseluruhan pada 17 Desember 2028.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nayz-bentuk-anak-usaha-isd-rencana-inbreng-bt-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Bentuk Anak Usaha ISD, Rencana [Inbreng] BT Berlanjut",
+  "deck": "NAYZ menjelaskan ke Bursa bahwa anak usaha baru ISD belum punya studi kelayakan dan izin usaha, sementara rencana suntik aset BT lewat rights issue masih menunggu RUPSLB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T15:14:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/618465354f_48df098b5b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "Hassana Boga Sejahtera",
+   "rights issue",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Hassana Boga Sejahtera Tbk (NAYZ) menjawab permintaan penjelasan Bursa Efek Indonesia tertanggal 6 November 2026 terkait pendirian anak usaha baru, PT Integrasi Sistem Digital (ISD). Dalam surat tertanggal 10 November 2026 yang ditandatangani Direktur Utama Dody Arifianto, perseroan menjelaskan ISD didirikan pada 30 Oktober 2026 berdasarkan akta notaris Panji Kresna dan telah disahkan Menteri Hukum RI pada 31 Oktober 2026. ISD memiliki modal dasar Rp10 miliar yang terbagi atas 10.000 lembar saham dengan nilai nominal Rp1 juta per lembar, sementara modal yang sudah disetor baru Rp2,5 miliar atau 2.500 lembar saham. Dari jumlah itu, NAYZ menggenggam 2.490 lembar saham atau 99,60 persen senilai Rp2,49 miliar, sedangkan sisanya 10 lembar saham atau 0,40 persen senilai Rp10 juta dipegang oleh Sawin Laosethakul.",
+   "Perseroan mengakui ISD belum memiliki studi kelayakan independen atas lini bisnis barunya, yakni perdagangan peralatan listrik dan jasa pencucian tekstil, serta belum mengurus izin usaha, sertifikasi, dan perizinan teknis maupun lingkungan yang diperlukan. NAYZ juga belum menetapkan target waktu ISD mulai beroperasi secara komersial, sehingga belum ada target kontribusi pendapatan maupun laba bersih ISD terhadap laporan keuangan konsolidasi perseroan untuk tiga tahun ke depan. Karena kepemilikan saham NAYZ di ISD mencapai 99,60 persen, laporan keuangan ISD akan tetap dikonsolidasikan ke laporan keuangan NAYZ begitu ISD mulai mencatatkan transaksi, meski belum ada kepastian kapan itu terjadi.",
+   "Soal kaitan dengan rencana sebelumnya, NAYZ menegaskan pendirian ISD tidak mengubah rencana pemegang saham pengendali, Saiko, untuk menyuntikkan kepemilikannya di Bangkok Tellink Co Ltd (BT) langsung ke dalam NAYZ melalui Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD), semacam penerbitan saham baru yang ditawarkan dulu ke pemegang saham lama. Perseroan menyebut tidak ada kendala material dalam rencana inbreng BT setelah penawaran tender wajib atas saham NAYZ oleh Saiko selesai dilaksanakan, dan proses inbreng BT masih berada pada tahap persiapan. ISD sendiri berencana menjalin kerja sama dengan mitra lokal, termasuk PT Samsung Electronics Indonesia, untuk mengembangkan proyek laundry otomatis. Dalam 12 bulan ke depan, NAYZ berencana menggelar Rapat Umum Pemegang Saham Luar Biasa untuk meminta persetujuan pemegang saham atas rencana PMHMETD tersebut."
+  ],
+  "fotoAdegan": "Stacks of commercial washing machines inside a warehouse loading dock in an industrial park, soft overcast daylight",
+  "takeaway": "Laporan ini condong netral, tapi membawa bendera kuning: anak usaha baru ISD sudah resmi berdiri sejak 30 Oktober 2026, namun belum punya studi kelayakan, belum punya izin usaha, dan belum punya target waktu mulai beroperasi. Yang perlu diperhatikan pemegang saham adalah rencana penambahan modal dengan hak memesan efek terlebih dahulu, yaitu penerbitan saham baru yang ditawarkan dulu ke pemegang saham lama, untuk memasukkan aset Bangkok Tellink Co Ltd ke dalam NAYZ. Jika rencana itu terlaksana, jumlah saham beredar NAYZ akan bertambah sehingga laba per saham pemegang lama bisa terdilusi, sementara ISD akan tetap masuk ke laporan keuangan konsolidasi perseroan begitu mulai beroperasi meski belum menghasilkan pendapatan apa pun saat ini. Yang perlu dipantau berikutnya adalah RUPSLB yang direncanakan dalam 12 bulan ke depan untuk meminta restu pemegang saham atas rencana PMHMETD tersebut, karena di situlah kejelasan soal dilusi dan jadwal baru akan terungkap.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adro-asi-alihkan-48-77-saham-ke-empat-investor",
+  "category": "Aksi Korporasi",
+  "title": "ADRO: ASI Alihkan [48,77%] Saham ke Empat Investor",
+  "deck": "PT Adaro Strategic Investments mengalihkan seluruh 48,77 persen sahamnya di Alamtri Resources ke empat pihak lewat pasar negosiasi BEI, tanpa mengubah pengendalian perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T14:57:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1ef3bf66ee_d84b5ee50a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADRO",
+  "tags": [
+   "ADRO",
+   "Alamtri Resources",
+   "pengalihan saham",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Alamtri Resources Indonesia Tbk (ADRO) melaporkan bahwa pemegang saham utamanya, PT Adaro Strategic Investments (ASI), telah mengalihkan seluruh kepemilikan sahamnya di perusahaan sebesar 48,7680 persen kepada empat pihak pada 10 November 2026. Rinciannya, PT Trinugraha Thohir menerima 9,1358 persen, PT Saratoga Investama Sedaya Tbk menerima 12,7776 persen, PT Persada Capital Investama menerima 12,2255 persen, dan PT Triputra Investindo Arya menerima 14,6291 persen. Transaksi dilakukan melalui Pasar Negosiasi di Bursa Efek Indonesia.",
+   "Dalam surat keterbukaan informasi yang ditandatangani Corporate Secretary Maharani Cindy Opssedha, perusahaan menegaskan bahwa pengalihan saham ini tidak mengakibatkan perubahan pengendalian atas Alamtri Resources. Perusahaan juga menyatakan tidak ada dampak dari transaksi ini terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan disampaikan ke Otoritas Jasa Keuangan sesuai ketentuan POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi atau Fakta Material."
+  ],
+  "fotoAdegan": "Wide shot of a coal export terminal with conveyor belts and stacked coal piles, heavy machinery in the distance, overcast sky",
+  "takeaway": "Laporan ini netral bagi fundamental Alamtri Resources, karena transaksinya hanya memindahkan kepemilikan dari satu pemegang saham ke empat pemegang saham lain lewat pasar sekunder, bukan penerbitan saham baru atau suntikan dana ke kas perusahaan. Tidak ada pos keuangan perseroan yang tersentuh, ekuitas, kas, dan jumlah saham beredar ADRO tidak berubah sama sekali, yang bergeser hanyalah hak suara, dari yang sebelumnya terkonsentrasi di satu entitas pemilik 48,77 persen menjadi terbagi ke empat entitas dengan porsi masing-masing 9 sampai 14,6 persen. Yang perlu dipantau berikutnya adalah apakah pembagian kepemilikan ke empat pihak ini nantinya diikuti perubahan susunan direksi atau komisaris lewat rapat umum pemegang saham, atau ada keterbukaan lanjutan soal siapa yang bertindak sebagai pengendali bersama, mengingat perusahaan sendiri menegaskan transaksi 10 November 2026 ini tidak mengubah status pengendalian.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "skyb-resmi-delisting-dari-bei-gabung-17-emiten-lain",
+  "category": "Aksi Korporasi",
+  "title": "SKYB Resmi [Delisting] dari BEI, Gabung 17 Emiten Lain",
+  "deck": "Bursa Efek Indonesia resmi mencabut status SKYB sebagai perusahaan tercatat per 10 November 2026 akibat forced delisting dan go private, bersama 17 emiten lain termasuk Sri Rejeki Isman (SRIL).",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T14:54:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aa7966b762_3840ec07e5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SKYB",
+  "tags": [
+   "SKYB",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Northcliff Citranusa Indonesia Tbk (SKYB) dari papan Pencatatan Pengembangan, efektif 10 November 2026. Alasan yang dicatat bursa dalam pengumuman nomor Peng-DEL-00005/BEI.PP2/11-2026-SKYB adalah 'Forced Delisting dan Go Private'. Keputusan ini merujuk pada pengumuman awal bursa tanggal 10 April 2026 serta Peraturan Bursa Nomor I-N tentang Pembatalan Pencatatan (Delisting) dan Pencatatan Kembali (Relisting).",
+   "Peraturan I-N yang dirujuk bursa memuat tiga kemungkinan sebab sebuah saham dipaksa delisting: perusahaan mengalami kondisi yang berdampak negatif signifikan pada kelangsungan usahanya secara finansial atau hukum tanpa indikasi pemulihan yang memadai, perusahaan tidak lagi memenuhi syarat pencatatan di bursa, atau sahamnya telah disuspensi perdagangan di Pasar Reguler dan Pasar Tunai, maupun di seluruh pasar, selama sedikitnya 24 bulan terakhir. Pengumuman yang diterima redaksi tidak merinci kriteria spesifik mana yang akhirnya dikenakan ke SKYB.",
+   "Delisting ini dilakukan serentak untuk 18 perusahaan tercatat, dengan tanggal efektif yang sama, 10 November 2026. Daftar lengkapnya: COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), SUGI (Sugih Energy), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora).",
+   "Bursa menegaskan bahwa setelah delisting, SKYB tidak lagi memiliki kewajiban sebagai perusahaan tercatat dan namanya dihapus dari daftar emiten BEI, meski proses mencatatkan kembali saham tetap terbuka di kemudian hari sesuai aturan yang berlaku. Delisting ini juga mencakup penghapusan pencatatan efek utang atau sukuk milik perseroan jika ada, tetapi kewajiban membayar bunga dan pokok kepada pemegang efek tersebut tetap berlaku sesuai perjanjian perwaliamanatan. Selama SKYB masih berstatus perusahaan publik, bursa mewajibkan perseroan tetap memperhatikan kepentingan pemegang saham publik serta mematuhi aturan keterbukaan informasi dan pelaporan ke Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Wide shot of a quiet Jakarta office tower at dusk with lights switching off floor by floor, empty plaza below",
+  "takeaway": "Ini kabar negatif bagi pemegang saham publik SKYB, karena BEI mencabut penuh hak sahamnya untuk diperdagangkan di bursa, bukan sekadar penurunan performa biasa. Yang langsung tersentuh adalah likuiditas saham, kemampuan pemegang saham untuk menjual kepemilikannya lewat mekanisme pasar modal hilang begitu status tercatat dicabut, sementara kewajiban utang atau sukuk perseroan, jika ada, tetap harus dibayar ke krediturnya meski suratnya tak lagi tercatat di bursa. Yang perlu dipantau pemegang saham SKYB selanjutnya adalah apakah perseroan menjalankan kewajibannya memperhatikan kepentingan pemegang saham publik, misalnya lewat skema pembelian kembali saham atau penawaran dari pengendali, karena dokumen ini menegaskan kewajiban itu tetap berlaku selama SKYB masih berstatus perusahaan publik meski sudah tidak tercatat di bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "psdn-bukukan-laba-rp46-2-miliar-liabilitas-turun-29",
+  "category": "Aksi Korporasi",
+  "title": "PSDN Bukukan Laba Rp46,2 Miliar, [Liabilitas] Turun 29%",
+  "deck": "Laporan kuartal III Prasidha Aneka Niaga menunjukkan laba Rp46,2 miliar setelah penjualan aset di Lampung, sementara total liabilitas turun 29,3 persen menjadi Rp84,2 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T14:54:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110150901-65782-0/FinancialStatement-2026-III-PSDN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSDN",
+  "tags": [
+   "PSDN",
+   "Prasidha Aneka Niaga",
+   "Laporan Keuangan",
+   "Liabilitas"
+  ],
+  "body": [
+   "PT Prasidha Aneka Niaga Tbk (PSDN) menyampaikan laporan keuangan konsolidasian interim untuk sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia. Penjualan neto emiten pengolah kopi ini melonjak menjadi Rp29,17 miliar, naik lebih dari lima kali lipat dari Rp5,47 miliar pada periode yang sama tahun lalu. Setelah merugi pada periode sebelumnya, Prasidha mencetak laba bersih Rp46,25 miliar untuk sembilan bulan pertama 2026, berbalik dari rugi Rp13,73 miliar pada periode yang sama 2025. Laba per saham ikut berbalik positif menjadi Rp32,12, dari sebelumnya rugi Rp9,53 per saham.",
+   "Namun sebagian besar kenaikan laba ini berasal dari pos pendapatan operasi lainnya yang melonjak menjadi Rp63,13 miliar, jauh di atas laba kotor dari penjualan yang hanya Rp2,43 miliar. Laporan arus kas menunjukkan hasil penjualan aset tetap senilai Rp74,55 miliar selama sembilan bulan ini, dibandingkan hanya Rp663,5 juta pada periode yang sama tahun lalu, sejalan dengan nilai aset tetap yang turun dari Rp120,08 miliar menjadi Rp85,88 miliar.",
+   "Dalam surat tersendiri bertanggal 10 November 2026 kepada Direktur Penilaian Perusahaan BEI, Presiden Direktur Jeffry Sanusi Soedargo menjelaskan perubahan material pada pos liabilitas sesuai aturan Bursa yang mewajibkan penjelasan bila perubahan melebihi 20 persen. Total liabilitas Prasidha turun 29,3 persen, dari Rp119,15 miliar pada akhir 2025 menjadi Rp84,22 miliar per 30 September 2026, atau berkurang Rp34,94 miliar. Perseroan menyebut penurunan ini terutama karena penjualan aset milik perusahaan di Lampung, yang hasilnya dipakai untuk melunasi utang kepada pemegang saham dan utang gaji karyawan yang sempat menunggak, serta sebagian untuk modal kerja. Utang usaha kepada pihak ketiga juga nyaris lunas, turun dari Rp9,03 miliar menjadi Rp124,2 juta, setelah Prasidha menerima penghasilan dari penjualan kopi biji sebagai komoditas utamanya.",
+   "Ekuitas Prasidha naik lebih dari dua kali lipat, dari Rp20,33 miliar menjadi Rp48,70 miliar, sementara kas dan setara kas bertambah dari Rp6,52 miliar menjadi Rp20,23 miliar. Akumulasi kerugian perseroan juga menyusut dari Rp295,95 miliar menjadi Rp267,58 miliar."
+  ],
+  "fotoAdegan": "Workers sorting raw coffee beans in a processing warehouse, sacks stacked nearby, soft morning light through open doors",
+  "takeaway": "Laporan ini condong positif untuk kesehatan keuangan Prasidha, karena beban utang berkurang hampir sepertiga, kas bertambah tiga kali lipat, dan ekuitas naik dua kali lipat, meski perlu dicermati bahwa lonjakan laba lebih banyak didorong oleh pendapatan dari penjualan aset di Lampung ketimbang perbaikan penjualan inti yang hasilnya sejauh ini baru menghasilkan laba kotor Rp2,43 miliar. Pos yang tersentuh di sini adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan yang jadi cadangan terakhir pemegang saham, yang naik karena akumulasi kerugian berkurang, serta arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kas perusahaan, yang membesar karena dana hasil penjualan aset dipakai melunasi utang alih-alih sekadar tercatat sebagai keuntungan di atas kertas. Laba per saham, yaitu bagian laba yang secara teoritis jadi milik setiap lembar saham yang beredar, ikut berbalik dari negatif menjadi Rp32,12, tanda perusahaan tidak lagi membakar modal pemegang saham seperti sebelumnya. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan untuk tahun buku 2026, yang biasanya terbit sekitar akhir Maret 2027, karena itu akan menunjukkan apakah kinerja inti Prasidha memang membaik atau laba sembilan bulan ini sebagian besar cuma efek sekali waktu dari penjualan aset yang tidak akan terulang.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "sugi-resmi-kena-delisting-dari-bei-efektif-10-november",
+  "category": "Aksi Korporasi",
+  "title": "SUGI Resmi Kena [Delisting] dari BEI, Efektif 10 November",
+  "deck": "Bursa Efek Indonesia mencabut status perusahaan tercatat Sugih Energy Tbk (SUGI) mulai 10 November 2026, bersama 17 emiten lain, setelah sahamnya lama disuspensi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T14:49:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/564ff5d881_94ede5a14c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUGI",
+  "tags": [
+   "SUGI",
+   "delisting",
+   "BEI",
+   "Sugih Energy"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi mencabut status PT Sugih Energy Tbk (SUGI) sebagai perusahaan tercatat, efektif 10 November 2026. Dalam pengumuman bernomor Peng-DEL-00005/BEI.PP2/11-2026, BEI mencantumkan alasan delisting SUGI sebagai forced delisting dan go private, yang berarti penghapusan pencatatan ini diputuskan sepihak oleh bursa, bukan atas permohonan perusahaan.",
+   "SUGI tidak sendirian. Pada tanggal yang sama, BEI juga mencabut pencatatan 17 perusahaan tercatat lain mengacu pada Peraturan Bursa Nomor I-N tentang Pembatalan Pencatatan dan Pencatatan Kembali, serta menindaklanjuti pengumuman peringatan bursa tertanggal 10 April 2026. Daftar lengkap emiten yang ikut didelisting hari itu: COWL (Cowell Development), DUCK (Jaya Bersama Indo), ENVY (Envy Technologies Indonesia), GOLL (Golden Plantation), LCGP (Eureka Prima Jakarta), LMAS (Limas Indonesia Makmur), MABA (Marga Abhinaya Abadi), MTRA (Mitra Pemuda), PLAS (Polaris Investama), SBAT (Sejahtera Bintang Abadi Textile), SKYB (Northcliff Citranusa Indonesia), SRIL (Sri Rejeki Isman), TDPM (Tianrong Chemicals Industry), TELE (Omni Inovasi Indonesia), TOYS (Sunindo Adipersada), TRIL (Triwira Insanlestari), dan UNIT (Nusantara Inti Corpora).",
+   "Menurut aturan bursa, penghapusan pencatatan bisa dijatuhkan kalau perusahaan tercatat mengalami kondisi yang berdampak negatif signifikan pada kelangsungan usahanya tanpa indikasi pemulihan yang memadai, tidak lagi memenuhi syarat pencatatan di bursa, atau sahamnya disuspensi perdagangan di pasar reguler dan pasar tunai, atau di seluruh pasar, selama sedikitnya 24 bulan terakhir. Dengan dicabutnya status ini, SUGI tidak lagi memiliki kewajiban sebagai perusahaan tercatat dan namanya dihapus dari daftar emiten BEI. Delisting ini juga mencakup penghapusan pencatatan efek bersifat utang dan sukuk yang diterbitkan perusahaan, namun kewajiban membayar bunga dan pokok kepada pemegang efek utang tersebut tetap berlaku sesuai perjanjian perwaliamanatan.",
+   "Selama SUGI masih berstatus perusahaan publik, BEI menegaskan perusahaan tetap wajib memperhatikan kepentingan pemegang saham publik dan mematuhi aturan keterbukaan informasi serta pelaporan ke Otoritas Jasa Keuangan. Jika suatu saat SUGI ingin mencatatkan kembali sahamnya di bursa, proses relisting bisa dilakukan dengan mengikuti ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "A quiet offshore oil platform silhouette on a calm sea at dusk, a support vessel idling nearby, soft orange light",
+  "takeaway": "Laporan ini negatif bagi pemegang saham SUGI, sebab delisting paksa berarti bursa menilai masalah keberlangsungan usaha perusahaan tidak kunjung membaik meski sudah diberi waktu, termasuk lewat suspensi perdagangan yang menurut aturan bursa harus berjalan minimal 24 bulan sebelum delisting bisa dipaksakan. Dampak paling langsung ada pada likuiditas saham, bukan pada pos laporan keuangan tertentu, karena begitu keluar dari bursa pemegang saham publik tidak lagi punya pasar resmi untuk menjual sahamnya, dan harga terakhir yang tercatat di bursa bisa jadi tidak lagi mencerminkan nilai wajar. Yang perlu dipantau berikutnya adalah apakah SUGI, yang tetap berstatus perusahaan publik, terus memenuhi kewajiban keterbukaan informasi ke OJK, serta apakah perusahaan tetap membayar bunga dan pokok efek utang atau sukuknya sesuai perjanjian perwaliamanatan, karena delisting saham tidak menghapus kewajiban itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wsbp-terbitkan-54-3-juta-saham-baru-dari-konversi-utang",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Terbitkan [54,3 Juta] Saham Baru dari Konversi Utang",
+  "deck": "WSBP akan menerbitkan 54,3 juta saham baru pada 18 November 2026 sebagai konversi utang tahap VII, dengan harga konversi Rp50,81 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T14:35:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0156544c51_ba78cc487b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "PMTHMETD",
+   "konversi utang",
+   "Waskita Beton Precast"
+  ],
+  "body": [
+   "PT Waskita Beton Precast Tbk (WSBP) akan melaksanakan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) Tahap VII pada 18 November 2026, dengan menerbitkan 54.295.065 saham baru bernilai nominal Rp50 per saham. Penerbitan ini merupakan konversi utang kepada para kreditur sebagai pelaksanaan Perjanjian Perdamaian yang disahkan Pengadilan Niaga Jakarta Pusat pada 28 Juni 2022 dan dikuatkan putusan Mahkamah Agung pada 20 September 2022, menyusul proses penundaan kewajiban pembayaran utang (PKPU) yang dialami perseroan. Rencana ini sebelumnya disetujui dalam RUPS Luar Biasa 30 Juni 2023, RUPS Tahunan 22 Mei 2025, dan RUPS Luar Biasa Kedua pada 23 Oktober 2026.",
+   "Harga konversi ditetapkan Rp50,81 per saham, dihitung berdasarkan rata-rata harga tertimbang volume perdagangan (VWAP) sesuai aturan pencatatan saham Bursa Efek Indonesia. Setelah penerbitan ini, tanggal efektif pencatatan saham ditetapkan 19 November 2026 dan pemberitahuan pelaksanaannya disampaikan 20 November 2026. Jumlah saham ditempatkan dan disetor WSBP akan bertambah dari 56.959.163.746 saham menjadi 57.013.458.811 saham.",
+   "Tahap VII ini merupakan kelanjutan dari enam tahap konversi sebelumnya, yang masing-masing menerbitkan 28.194.563.791 saham (Tahap I), 350.781.751 saham (Tahap II), 178.545.623 saham (Tahap III), 751.468.422 saham (Tahap IV), 943.961.365 saham (Tahap V), dan 178.685.260 saham (Tahap VI). Dengan Tahap VII, total saham yang telah atau akan diterbitkan dari program ini mencapai sekitar 30,65 miliar lembar, dari target keseluruhan 33.831.589.017 saham yang disepakati dalam perjanjian perdamaian."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting rows of large precast concrete beams stacked in an industrial manufacturing yard under overcast daylight",
+  "takeaway": "Laporan ini netral bagi WSBP karena saham baru yang diterbitkan, 54,3 juta lembar, hanya menambah sekitar 0,1 persen dari total saham yang sudah beredar, sehingga dampaknya ke pemegang saham lama sangat kecil. Di sisi lain, konversi ini mengurangi utang perusahaan kepada krediturnya sesuai perjanjian perdamaian dari proses PKPU, yang justru meringankan beban keuangan WSBP ke depan. Yang perlu diperhatikan adalah jumlah saham beredar, yaitu total lembar saham yang dipegang publik dan pemegang saham lain, karena setiap penambahan saham baru berpotensi menekan laba per saham, yakni keuntungan perusahaan yang dibagi rata ke setiap lembar sahamnya. Dari target total konversi 33,8 miliar saham sepanjang program PMTHMETD ini, baru sekitar 30,65 miliar lembar yang telah atau akan diterbitkan sampai Tahap VII, sehingga masih ada sisa sekitar 3,18 miliar saham yang menunggu tahap konversi berikutnya. Yang perlu dipantau adalah efektifnya pencatatan saham baru ini di Bursa Efek Indonesia pada 19 November 2026 serta jadwal tahap konversi selanjutnya untuk menuntaskan sisa target tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "auto-vto-astra-international-pangkas-free-float-ke-15-05",
+  "category": "Aksi Korporasi",
+  "title": "AUTO: [VTO] Astra International Pangkas Free Float ke 15,05%",
+  "deck": "Public expose AUTO membahas laba 9M 2026 naik 14,7% dan tender offer Astra International yang menekan saham publik ke 15,05%, pas di atas syarat minimum bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T14:15:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b22aab9a62_1685846a01.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AUTO",
+  "tags": [
+   "AUTO",
+   "VTO",
+   "Astra Otoparts",
+   "free float"
+  ],
+  "body": [
+   "Astra Otoparts Tbk (AUTO) menggelar public expose tahunan secara daring melalui Zoom pada Kamis, 5 November 2026, pukul 10.02 hingga 10.54 WIB. Acara ini dihadiri 58 peserta dari luar manajemen dan karyawan perusahaan, terdiri dari media, analis sekuritas, dan investor individu. Presiden Direktur Yusak Kristian Solaeman memaparkan struktur bisnis dan strategi perusahaan, sementara Direktur Sophie Handili menjelaskan kinerja keuangan hingga kuartal III 2026, dan Direktur Tujuh Martogi Siahaan menguraikan perkembangan segmen perdagangan.",
+   "Dalam sesi tanya jawab, manajemen menyebut pendapatan bersih AUTO sepanjang Januari hingga September 2026 mencapai Rp17,02 triliun, tumbuh 15 persen dibandingkan periode yang sama tahun lalu. Laba bersih tercatat Rp1,80 triliun, naik 14,7 persen, dengan laba per saham Rp373. Segmen manufaktur menyumbang pendapatan Rp9,18 triliun, tumbuh 17,6 persen, didorong permintaan komponen dari pelanggan OEM untuk kendaraan roda dua, roda empat, dan komersial. Segmen perdagangan mencatatkan pendapatan Rp7,84 triliun, tumbuh 12 persen, ditopang penguatan jaringan distribusi dan ritel serta permintaan ekspor.",
+   "Soal tender offer sukarela (VTO) yang dilakukan Astra International, Direktur Sophie Handili menjelaskan porsi saham yang ditawarkan dibatasi maksimal sekitar 4,95 persen dari total saham AUTO. Jika seluruh saham yang ditawarkan terserap, kepemilikan Astra International naik menjadi sekitar 84,95 persen, sementara porsi saham publik turun menjadi sekitar 15,05 persen, tepat di atas syarat minimum saham beredar publik (free float) milik Bursa Efek Indonesia sebesar 15 persen. Manajemen menegaskan kebijakan dividen tidak berubah pasca-VTO, dengan rasio pembagian dividen tahun buku 2025 sekitar 50 persen, dan dividen interim yang sudah dibagikan pada Oktober 2026 sebesar Rp72,52 per saham.",
+   "Di luar kinerja keuangan, manajemen juga memaparkan perluasan bisnis kendaraan listrik, dengan pemasokan komponen baru kepada VinFast, BYD, dan Jaecoo, menyusul Wuling yang sudah menjadi pelanggan sebelumnya. Melalui Astra Otopower, perusahaan telah mengoperasikan 71 stasiun pengisian daya di 61 lokasi per September 2026, termasuk kerja sama dengan PLN untuk pengisian daya berbasis tiang listrik di Jawa Barat dan Sumatra Barat. Untuk tahun 2027, AUTO menargetkan penambahan sekitar 30 toko modern retail baru."
+  ],
+  "fotoAdegan": "Technician inspecting rows of automotive spare parts on metal shelves inside a distribution warehouse, fluorescent lighting overhead",
+  "takeaway": "Laporan ini netral bagi pemegang saham: pertumbuhan pendapatan dan laba AUTO memang berlanjut, tapi inti informasi barunya, yakni tender offer Astra International, justru menyusutkan porsi saham publik mendekati batas minimum, bukan memberi sinyal baru soal kesehatan bisnisnya. Yang tersentuh di sini adalah jumlah saham beredar di tangan publik, yang menentukan seberapa mudah saham AUTO diperjualbelikan di bursa; kalau porsi publik makin tipis, transaksi bisa makin sepi meski bisnis perusahaan baik-baik saja. Laba per saham tercatat Rp373, naik sejalan dengan laba bersih, jadi dari sisi itu belum ada tanda pengenceran kepemilikan pemegang saham lama. Yang perlu dipantau berikutnya adalah hasil akhir partisipasi VTO Astra International serta realisasi kinerja AUTO hingga penutupan tahun buku 2026, karena manajemen sendiri menyebut pencapaian akhir tahun masih bergantung pada kondisi pasar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ssms-laba-naik-71-jadi-rp1-75-t-aset-melonjak-37-7",
+  "category": "Aksi Korporasi",
+  "title": "SSMS: Laba Naik 71% jadi Rp1,75 T, [Aset] Melonjak 37,7%",
+  "deck": "Sawit Sumbermas Sarana (SSMS) membukukan laba Rp1,75 triliun pada sembilan bulan 2026, naik 71 persen, didorong kenaikan pendapatan dan lonjakan aset akibat aturan penahanan devisa ekspor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T14:01:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110141414-65779-0/FinancialStatement-2026-III-SSMS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SSMS",
+  "tags": [
+   "SSMS",
+   "laporan keuangan",
+   "sawit",
+   "devisa hasil ekspor"
+  ],
+  "body": [
+   "PT Sawit Sumbermas Sarana Tbk (SSMS) mencatat pendapatan Rp14,83 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik dari Rp10,99 triliun pada periode yang sama tahun lalu. Laba periode berjalan melonjak ke Rp1,75 triliun dari Rp1,02 triliun, dengan laba per saham naik dari Rp105,13 menjadi Rp166,55. Dari laba tersebut, Rp1,59 triliun menjadi bagian pemilik entitas induk dan sisanya menjadi bagian pemegang saham non pengendali di anak usaha.",
+   "Total aset perseroan melonjak 37,72 persen, dari Rp13,58 triliun pada akhir Desember 2025 menjadi Rp18,71 triliun pada akhir September 2026, melewati ambang 20 persen yang mewajibkan perseroan memberi penjelasan ke Bursa Efek Indonesia. Perseroan menyebut penyebab utamanya adalah penempatan dana sebesar Rp3,30 triliun di rekening bank yang dibatasi penggunaannya. Dana ini wajib ditempatkan oleh anak usaha PT Citra Borneo Utama Tbk, yang 78,2 persennya dimiliki SSMS, menyusul berlakunya Peraturan Pemerintah No. 21 Tahun 2026 yang mewajibkan eksportir menempatkan 100 persen devisa hasil ekspor (DHE) dalam mata uang asing di rekening khusus selama 12 bulan.",
+   "Di sisi liabilitas, total utang perseroan naik 41,85 persen dari Rp10,64 triliun menjadi Rp15,10 triliun, terutama karena utang bank jangka pendek bertambah Rp4,22 triliun menjadi Rp5,92 triliun. Sebagian besar kenaikan ini, yakni Rp3,33 triliun, berasal dari fasilitas Kredit Agunan Tunai Devisa Hasil Ekspor yang diperoleh PT Citra Borneo Utama Tbk berdasarkan perjanjian kredit tanggal 10 Juni 2026, dengan jaminan berupa penempatan devisa hasil ekspor yang sama. Manajemen menyatakan kenaikan aset dan liabilitas ini saling terkait dan terjadi bersamaan, sehingga tidak berdampak negatif terhadap kinerja keuangan maupun likuiditas perseroan untuk membiayai modal kerja.",
+   "Dari sisi ekuitas, total modal perseroan naik dari Rp2,94 triliun menjadi Rp3,61 triliun, didorong penambahan laba ditahan. Pada tahun 2026, perseroan juga membagikan dividen kas Rp800 miliar, naik dari Rp450 miliar pada tahun sebelumnya."
+  ],
+  "fotoAdegan": "Oil palm fresh fruit bunches piled on a plantation truck bed, workers in boots nearby, overcast tropical sky",
+  "takeaway": "Laporan ini condong positif bagi SSMS, karena laba periode berjalan naik 71 persen dan pendapatan naik hampir 35 persen dalam sembilan bulan, sementara lonjakan aset dan utang yang memicu surat penjelasan ke bursa ternyata berpasangan, dana ekspor yang wajib ditahan dijadikan jaminan pinjaman baru, bukan tanda perusahaan kekurangan modal. Yang perlu dicermati adalah beban bunga, sebab utang bank jangka pendek melonjak lebih dari tiga kali lipat menjadi Rp5,92 triliun dan pinjaman baru ini berpotensi menambah beban bunga yang bisa menggerus laba ke depan. Ekuitas perseroan juga menebal ke Rp3,61 triliun seiring bertambahnya laba ditahan, dan laba per saham naik dari Rp105 menjadi Rp166, artinya setiap lembar saham mewakili bagian keuntungan yang lebih besar dibanding tahun lalu. Yang perlu dipantau selanjutnya adalah berakhirnya masa wajib penempatan devisa hasil ekspor senilai Rp3,3 triliun dalam 12 bulan, karena dana itu akan dibebaskan dan bisa dipakai lagi untuk operasional, serta bagaimana pinjaman berjaminan devisa ini akhirnya tercermin dalam laporan keuangan audit tahun buku 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "heli-gelar-rupslb-17-desember-agenda-perlu-suara-independen",
+  "category": "Aksi Korporasi",
+  "title": "HELI Gelar RUPSLB 17 Desember, Agenda Perlu Suara [Independen]",
+  "deck": "PT Jaya Trishindo Tbk (HELI) akan menggelar RUPSLB pada 17 Desember 2026, dengan satu agenda yang membutuhkan persetujuan Pemegang Saham Independen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T13:57:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ef88b7938b_90b04380fd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HELI",
+  "tags": [
+   "HELI",
+   "RUPSLB",
+   "Jaya Trishindo",
+   "pemegang saham independen"
+  ],
+  "body": [
+   "PT Jaya Trishindo Tbk (HELI) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 17 Desember 2026, pukul 10.00 WIB, di Rukan Grand Aries Niaga, Jalan Taman Aries Blok E1 No. 1A, Kelurahan Meruya Utara, Kecamatan Kembangan, Jakarta Barat. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan atau pemilik saham di rekening efek KSEI per Selasa, 24 November 2026, sampai penutupan perdagangan saham HELI di Bursa Efek Indonesia pada hari itu. Surat pemberitahuan ini ditandatangani Direktur Utama HELI, Edwin Widjaja, pada 10 November 2026.",
+   "Perseroan menyebut salah satu mata acara rapat memerlukan persetujuan dari Pemegang Saham Independen, yakni pemegang saham yang tidak punya kepentingan ekonomis pribadi atas transaksi yang dibahas dan bukan bagian dari direksi, komisaris, pemegang saham utama, atau pengendali maupun pihak yang berafiliasi dengan mereka. Agenda tersebut baru sah dibahas jika dihadiri pemegang saham independen yang mewakili lebih dari separuh total saham berhak suara milik kelompok itu, dan keputusan baru sah jika disetujui oleh lebih dari separuh suara yang hadir. Jika kuorum itu tidak tercapai pada rapat pertama, Perseroan dapat menggelar rapat kedua dan ketiga dengan syarat kuorum yang berangsur lebih longgar sesuai aturan Otoritas Jasa Keuangan.",
+   "Perseroan akan mengirimkan pemanggilan resmi RUPSLB pada Rabu, 25 November 2026, melalui situs web Bursa Efek Indonesia, situs web Perseroan, dan situs web KSEI. Usulan mata acara tambahan dari pemegang saham harus diterima Direksi paling lambat 18 November 2026, dengan syarat diajukan dengan itikad baik serta menyertakan alasan dan bahan usulan. Pemegang saham yang tidak bisa hadir langsung tetap bisa memberikan kuasa lewat formulir di situs Perseroan atau memberikan suara secara elektronik melalui sistem eASY.KSEI milik KSEI."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged for a corporate meeting in a modern conference hall, soft morning light, Jakarta office interior.",
+  "takeaway": "Laporan ini netral bagi HELI karena isinya baru soal jadwal dan tata cara rapat, belum ada keputusan atau angka finansial yang terungkap. Yang patut dicermati adalah syarat persetujuan dari Pemegang Saham Independen untuk salah satu agenda, mekanisme yang membuat suara direksi, komisaris, pemegang saham utama, dan pengendali tidak dihitung, biasanya dipakai ketika agenda menyangkut transaksi dengan pihak yang punya hubungan khusus dengan perseroan, supaya keputusan tidak dipengaruhi konflik kepentingan. Pekan ini HELI juga baru melaporkan rencana penerbitan 83,3 juta saham baru tanpa hak memesan efek terlebih dahulu untuk mendanai akuisisi PEAR, sehingga ada kemungkinan RUPSLB inilah forum yang akan memintakan restu pemegang saham untuk transaksi itu, meski pengumuman ini sendiri belum menyebut agenda secara spesifik. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPSLB pada 25 November 2026, yang baru akan memuat mata acara rapat secara rinci, serta hasil rapat pada 17 Desember 2026 yang menentukan apakah agenda tersebut disetujui.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kkp-salurkan-1-5-juta-benih-ikan-dan-udang-ke-pembudidaya",
   "category": "UMKM",
   "title": "KKP Salurkan [1,5 Juta] Benih Ikan dan Udang ke Pembudidaya",
@@ -473,6 +737,32 @@ var ARTICLES = [
   "fotoAdegan": "Warehouse workers loading boxes of packaged consumer goods onto a delivery truck, forklift nearby, daylight industrial setting",
   "takeaway": "Laporan ini condong positif bagi pemegang saham TGKA, karena perusahaan tetap sanggup membagikan Rp91,85 miliar tunai sebagai dividen interim meski baru mengantongi laba bersih Rp286,48 miliar dalam sembilan bulan pertama tahun ini, dan saldo laba ditahan yang belum dibagikan masih tersisa Rp2,3 triliun. Pos yang langsung tersentuh adalah arus kas dan ekuitas: begitu dividen ini dibayarkan pada 30 November 2026, kas perusahaan berkurang sebesar nilai dividen tersebut dan ekuitas ikut menyusut sedikit, karena dividen pada dasarnya adalah bagian kekayaan bersih perusahaan yang dipindahkan ke rekening pemegang saham. Yang perlu dipantau pemegang saham adalah tanggal pencatatan pada 20 November 2026 pukul 16.00 WIB, karena hanya yang memegang saham sebelum tanggal ex dividen 19 November 2026 di pasar reguler yang berhak menerima dividen ini, serta tanggal pembayaran 30 November 2026 sebagai konfirmasi dana benar cair ke rekening investor.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "idea-resmi-dikuasai-nawasena-tender-wajib-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "IDEA Resmi Dikuasai [Nawasena], Tender Wajib Menyusul",
+  "deck": "Nawasena Nugra Investama rampung mengambil alih 66,58% saham IDEA senilai Rp38 miliar dari pemegang saham lama, memicu kewajiban tender offer.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T08:29:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/718ecfb4bc_79c284b96b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IDEA",
+  "tags": [
+   "IDEA",
+   "Nawasena Nugra Investama",
+   "pengambilalihan",
+   "tender offer"
+  ],
+  "body": [
+   "PT Idea Indonesia Akademi Tbk (IDEA) mengumumkan bahwa pengambilalihan sahamnya oleh PT Nawasena Nugra Investama telah selesai pada 9 November 2026. Nawasena membeli 707.322.700 saham IDEA, setara 66,58 persen dari total modal ditempatkan dan disetor, dari Eko Desriyanto dan PT Idea Asia Investama selaku pemegang saham pengendali lama. Harga transaksi disepakati Rp53,73 per saham, dengan total nilai Rp38.004.448.671. Rangkaian ini telah melalui dua pengumuman sebelumnya, yakni pengumuman negosiasi pada 16 September 2026 dan pengumuman perkembangan negosiasi pada 4 November 2026, sebelum akhirnya tuntas pekan ini.",
+   "Sebagai pengendali baru, Nawasena merupakan perusahaan holding yang bergerak di bidang konsultasi manajemen. Susunan pengurusnya terdiri dari Yukki Nugrahawan Hanafi sebagai Komisaris Utama dan Achmad Gamaludin M sebagai Komisaris, sementara jajaran direksi dipegang oleh Mochamad Riandri Prasetya sebagai Direktur Utama dan Saskia Ayu Ajeng Aditya Putri sebagai Direktur. Pemegang saham Nawasena sendiri terdiri dari PT Nawasena Nugra Jaya (35 persen), PT Andalan Gemilang Makmur (25 persen), PT Indogama Cipta Daya Capital (20 persen), PT Artha Bersama Adiperkasa Dinamika (10 persen), dan Mochamad Riandri Prasetya (10 persen). Perseroan menegaskan bahwa sebelum transaksi ini, Nawasena tidak memiliki hubungan afiliasi dengan IDEA maupun dengan pemegang sahamnya.",
+   "Dalam dokumen keterbukaan informasi, disebutkan bahwa pengambilalihan ini ditujukan untuk mendukung rencana Nawasena melakukan ekspansi dan mengembangkan kegiatan usaha melalui IDEA. Karena transaksi ini mengakibatkan perubahan pengendali sebagaimana diatur dalam POJK No. 9/2018 tentang Pengambilalihan Perusahaan Terbuka, Nawasena sebagai pengendali baru wajib melaksanakan penawaran tender wajib kepada pemegang saham publik sesuai ketentuan aturan tersebut."
+  ],
+  "fotoAdegan": "Students in white chef uniforms practicing plating techniques in a culinary training kitchen, stainless steel counters, soft midday light",
+  "takeaway": "Perubahan pengendali ini kami nilai netral bagi fundamental IDEA, karena transaksinya murni perpindahan saham dari pemegang lama ke Nawasena tanpa ada dana segar yang masuk ke kas perusahaan. Yang berubah adalah siapa yang memegang hak suara mayoritas dan arah strategi perusahaan, bukan jumlah saham beredar atau struktur modal IDEA, sehingga ekuitas dan laba per saham perusahaan tidak otomatis terpengaruh oleh transaksi ini. Yang perlu dicermati pemegang saham publik adalah kewajiban Nawasena melakukan penawaran tender, yaitu kewajiban membeli saham dari pemegang saham publik lain dengan acuan harga tidak lebih rendah dari Rp53,73 per saham yang dibayarkan kepada pemegang saham lama. Pantau pengumuman resmi penawaran tender wajib tersebut beserta periode dan tata caranya, serta rencana bisnis konkret yang akan dijalankan Nawasena melalui IDEA setelah pengambilalihan ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "mbto-jadwalkan-rupslb-agendakan-pergantian-direksi-komisaris",

@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jelang-nataru-harga-bapok-di-solo-stabil-cabai-masih-mahal",
+  "category": "Bisnis",
+  "title": "Jelang Nataru, Harga Bapok di Solo [Stabil], Cabai Masih Mahal",
+  "deck": "Pemantauan Kementerian Perdagangan di Pasar Gede Surakarta menunjukkan sebagian bapok di bawah harga acuan, tapi cabai dan gula pasir masih di atas batas yang ditetapkan.",
+  "image": "assets/img/jelang-nataru-harga-bapok-di-solo-stabil-cabai-masih-mahal.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T12:08:04.603Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pastikan-stabilitas-harga-bapok-jelang-nataru-mendag-busan-pantau-pasar-gede",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Nataru",
+   "Harga Pangan",
+   "Surakarta",
+   "Kementerian Perdagangan"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso meninjau Pasar Gede Hardjonagoro di Surakarta, Selasa (10/11), untuk memeriksa harga bahan pokok menjelang Natal 2026 dan Tahun Baru 2027. Hasil pemantauan Kementerian Perdagangan menunjukkan harga sejumlah komoditas, seperti bawang merah dan telur ayam ras, berada di bawah harga acuan pemerintah, sementara cabai dan gula pasir justru masih di atas batas yang ditetapkan. Pergerakan harga di pasar tradisional ini penting dicermati karena dua bulan ke depan biasanya menjadi periode permintaan pangan melonjak menjelang akhir tahun.",
+   "Berdasarkan catatan Kementerian Perdagangan, bawang merah di Pasar Gede dijual Rp34.000-Rp35.000 per kilogram, di bawah harga acuan. Telur ayam ras dijual Rp24.000-Rp25.000 per kilogram, jauh di bawah harga acuan Rp30.000 per kilogram. Bawang putih kating juga di bawah harga acuan, yakni Rp35.000 per kilogram dari acuan Rp38.000. Sementara itu, daging ayam Rp40.000 per kilogram, beras program Stabilisasi Pasokan dan Harga Pangan (SPHP) Rp12.500 per kilogram, MINYAKITA Rp15.700 per liter, dan daging sapi Rp140.000 per kilogram tercatat sesuai harga eceran tertinggi atau harga acuan pemerintah.",
+   "Di sisi lain, sejumlah komoditas masih dijual di atas batas harga pemerintah. Beras premium dan gula pasir masing-masing Rp18.000 per kilogram, sedangkan cabai merah keriting dan cabai rawit merah sama-sama mencapai Rp60.000 per kilogram. Mendag Busan menyebut faktor musim yang menekan produksi sebagai salah satu penyebab tingginya harga cabai, selain perbedaan kualitas produk yang membuat harga di tingkat pedagang bervariasi, seperti terlihat pada bawang putih yang dijual Rp28.000 hingga Rp35.000 per kilogram tergantung kualitas.",
+   "Pada hari yang sama, Mendag Busan juga mengunjungi Gerakan Pasar Murah di Pendopo Kelurahan Kerten, Surakarta, yang menjual beras SPHP, beras premium, minyak goreng, gula pasir, telur ayam, tepung terigu, elpiji, hingga makanan beku dengan harga terjangkau. Salah satu pedagang Pasar Gede, Prianti, menyatakan stok beras SPHP dan MINYAKITA di kiosnya aman dengan harga sesuai harga eceran tertinggi, dengan pasokan beras SPHP yang diterimanya rutin setiap pekan dari Perum Bulog."
+  ],
+  "fotoAdegan": "Vendors arranging baskets of shallots, red chilies, and eggs at a busy traditional market stall, morning crowd browsing",
+  "fotoSumber": "https://www.kemendag.go.id/albums/riq60E0ITTZTLp9L23LPWyxuiqkPr7eY7v7U2o2P.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Pemantauan ini menunjukkan sebagian besar bahan pokok di Surakarta, seperti bawang merah dan telur ayam, dijual di bawah batas harga yang ditetapkan pemerintah, sementara cabai merah keriting dan cabai rawit merah menembus Rp60.000 per kilogram, jauh melampaui batas itu. Yang terdampak langsung adalah konsumen di Surakarta yang mulai berbelanja menjelang Natal dan Tahun Baru, serta pedagang pasar yang harus menyesuaikan harga jual dengan pasokan yang mereka terima. Karena data ini hanya diambil dari satu pasar dan satu acara pasar murah dalam sehari, polanya belum bisa dibaca sebagai tren nasional, melainkan baru gambaran sesaat di satu kota. Arah yang terlihat sejauh ini adalah pemerintah mengandalkan pasar murah sebagai cara cepat menahan harga, bukan memperbaiki pasokan cabai yang menurut Kementerian Perdagangan masih tertekan faktor musim. Yang akan menunjukkan apakah harga bapok benar-benar terkendali adalah hasil pemantauan serupa di kota lain serta data harga nasional mendekati akhir Desember, saat permintaan Nataru biasanya memuncak.",
+  "imageV": "mwani7vm"
+ },
+ {
   "slug": "skbm-jadwalkan-pembayaran-dividen-interim-30-november",
   "category": "Aksi Korporasi",
   "title": "SKBM Jadwalkan Pembayaran [Dividen] Interim 30 November",
@@ -238,6 +266,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "arab-saudi-percepat-tenggat-kontrak-dan-visa-haji-2027",
+  "category": "Global",
+  "title": "Arab Saudi [Percepat] Tenggat Kontrak dan Visa Haji 2027",
+  "deck": "Arab Saudi meminta kantor urusan haji dari 76 negara menyelesaikan kontrak layanan dan visa Haji 2027 sebelum 1 Syawal, termasuk kesiapan medis jemaah.",
+  "image": "assets/img/arab-saudi-percepat-tenggat-kontrak-dan-visa-haji-2027.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:38:25+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477595-arab-saudi-percepat-persiapan-haji-2027-kontrak-dan-visa-jemaah-diminta-rampung-sebelum-1-syawal",
+  "tags": [
+   "haji 2027",
+   "arab saudi",
+   "visa haji",
+   "1 syawal"
+  ],
+  "body": [
+   "Pemerintah Arab Saudi mulai menata persiapan ibadah Haji 1448 Hijriah atau Haji 2027 lebih awal dari biasanya. Negara-negara pengirim jemaah, termasuk Indonesia, diminta menuntaskan seluruh urusan administrasi, kontrak layanan, hingga penerbitan visa sebelum batas waktu 1 Syawal. Ketentuan ini penting bagi calon jemaah karena menentukan seberapa cepat kepastian keberangkatan bisa diperoleh.",
+   "Permintaan ini disampaikan Menteri Haji dan Umrah Arab Saudi, Tawfig Al-Rabiah, dalam pertemuan dengan perwakilan kantor urusan haji dari 76 negara. Pertemuan tersebut digelar di sela Konferensi dan Pameran Haji keenam di Jeddah Superdome pada 8 hingga 11 November 2026. Selain mempercepat kontrak dan visa, negara pengirim jemaah juga diminta segera mengikat kesepakatan awal dengan maskapai penerbangan, dan seluruh kontrak wajib dicatat melalui satu platform elektronik resmi.",
+   "Aspek kesehatan dan keselamatan jemaah ditegaskan sebagai prioritas yang tidak bisa ditawar. Setiap negara wajib memastikan calon jemaahnya menjalani pemeriksaan medis menyeluruh serta mendapat vaksinasi yang dipersyaratkan sebelum berangkat ke Arab Saudi. Ketentuan ini mengantisipasi risiko selama rangkaian ibadah yang melibatkan mobilitas tinggi dan kerumunan jemaah dalam jumlah besar dari berbagai negara.",
+   "Arab Saudi juga menekankan pentingnya data jemaah yang lengkap dan akurat sebagai dasar perencanaan operasional, mulai dari pengaturan perjalanan, akomodasi, transportasi, hingga pengelolaan kepadatan di lokasi-lokasi ibadah."
+  ],
+  "fotoAdegan": "Pilgrims in white ihram clothing walking with luggage toward departure gates at a busy airport terminal, early morning",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/01/22/697224592ed7c-ilustrasi-haji_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah tenggat administrasi: Arab Saudi memajukan batas penyelesaian kontrak layanan dan visa haji 2027 ke 1 Syawal, lebih cepat dari kebiasaan, dan mewajibkan semua kontrak tercatat lewat satu platform elektronik resmi. Pihak yang langsung kena dampak adalah kantor urusan haji tiap negara, termasuk Kementerian Agama RI, biro travel, dan maskapai penerbangan yang harus mengunci kontrak jauh di muka, karena itu ikut menentukan kapan calon jemaah Indonesia mendapat kepastian keberangkatan. Berita ini belum menyebut angka kuota haji Indonesia 2027 atau estimasi biayanya, sehingga belum bisa dipastikan apakah tenggat yang lebih cepat ini bakal ikut memajukan pengumuman Biaya Penyelenggaraan Ibadah Haji oleh Kemenag. Yang perlu dipantau adalah respons resmi Kemenag terhadap hasil Konferensi dan Pameran Haji di Jeddah ini, karena dari situ baru terlihat apakah persiapan di sisi Indonesia benar-benar dimajukan atau berjalan seperti musim-musim sebelumnya.",
+  "imageV": "mwani8dq"
+ },
+ {
   "slug": "bike-koreksi-lagi-ekuitas-berbalik-ke-positif-rp8-98-m",
   "category": "Aksi Korporasi",
   "title": "BIKE Koreksi Lagi, [Ekuitas] Berbalik ke Positif Rp8,98 M",
@@ -317,7 +372,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar pembukaan satu kantor di Medan, melainkan BKPM mempercepat penyebaran model desk investasi daerah ini ke beberapa kota baru dalam hitungan hari, Semarang pada 11 November, Makassar pada 13 November, dan Balikpapan pada 16 November, setelah uji coba di Batam dan Bali. Yang terdampak langsung adalah investor dengan proyek senilai minimal Rp100 miliar di Sumatera, kecuali di Lampung, Bangka Belitung, dan Kepulauan Riau yang sudah punya desk sendiri, serta pemerintah daerah dan pengelola kawasan industri yang ikut diwajibkan menyelesaikan hambatan izin dan lahan. Arahnya, BKPM tampak menjadikan desk investasi bukan proyek sekali jalan, melainkan struktur permanen untuk mengawal realisasi investasi di banyak provinsi sekaligus. Klaim bahwa realisasi di Batam dan Bali naik dua sampai tiga kali lipat setelah ada desk masih berasal dari pernyataan Wakil Menteri sendiri, bukan angka yang sudah diverifikasi secara terpisah, jadi yang perlu dicermati adalah laporan realisasi investasi triwulanan BKPM berikutnya untuk melihat apakah Sumatera benar mendekati target Rp13 triliun dan apakah pola serupa muncul di Semarang, Makassar, dan Balikpapan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "esdm-libatkan-pemda-dalam-lelang-panas-bumi-dan-listrik-desa",
@@ -1004,7 +1059,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah tahapannya sendiri, peninjauan teknis sudah berjalan di 24 dari 25 bidang sejak September 2025, dengan target seluruh proses aksesi tuntas pada 2028. Pihak yang kena dampak langsung adalah kementerian dan lembaga yang harus menyesuaikan aturan dengan standar OECD, DPR yang diminta ikut mengharmonisasi kebijakan, serta pelaku usaha, akademisi, dan organisasi masyarakat sipil yang diajak berpartisipasi dalam prosesnya. Dengan tinggal satu bidang yang belum dibahas dan dukungan dari tujuh negara anggota OECD, arah proses ini terlihat menuju penyelesaian bertahap per bidang menjelang tenggat 2028, bukan keanggotaan yang diputuskan sekali waktu. Penanda kemajuan berikutnya yang perlu dicermati adalah hasil kunjungan Sekretaris Jenderal OECD ke Indonesia yang sedang dipersiapkan, serta isi Chair's Letter untuk bidang-bidang yang masih dalam pembahasan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "pemerintah-tawarkan-empat-blok-migas-baru-di-papua-hingga-ntt",
@@ -1060,7 +1115,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah arah penjualan eceran yang diprakirakan kembali naik, dari pertumbuhan 0,6 persen pada September menjadi 1 persen pada Oktober, dengan bahan bakar kendaraan bermotor sebagai pendorong utama. Itu berarti peritel bahan bakar dan toko kebutuhan sehari-hari yang paling terdampak langsung, sementara kenaikan belanja untuk barang lain masih tipis. Hal yang lebih perlu dicermati adalah Indeks Ekspektasi Harga untuk Desember 2026 dan Maret 2027 yang justru naik, pertanda pelaku pasar memperkirakan harga barang naik lebih cepat menjelang libur akhir tahun dan musim Lebaran tahun depan. Pola ini lebih mengarah ke lonjakan musiman biasa ketimbang perubahan daya beli yang mendasar, dan itu baru bisa dipastikan lewat data realisasi penjualan eceran Oktober yang akan dirilis Bank Indonesia bulan depan, karena angka yang dibahas di sini masih berupa prakiraan survei.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "avia-panggil-rupslb-bahas-penghapusan-saham-treasuri",

@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jelang-nataru-harga-bapok-di-solo-stabil-cabai-masih-mahal",
+  "category": "Bisnis",
+  "title": "Jelang Nataru, Harga Bapok di Solo [Stabil], Cabai Masih Mahal",
+  "deck": "Pemantauan Kementerian Perdagangan di Pasar Gede Surakarta menunjukkan sebagian bapok di bawah harga acuan, tapi cabai dan gula pasir masih di atas batas yang ditetapkan.",
+  "date": "10 November 2026",
+  "image": "assets/img/jelang-nataru-harga-bapok-di-solo-stabil-cabai-masih-mahal.jpg",
+  "imageV": "mwani7vm",
+  "tags": [
+   "Nataru",
+   "Harga Pangan",
+   "Surakarta",
+   "Kementerian Perdagangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pastikan-stabilitas-harga-bapok-jelang-nataru-mendag-busan-pantau-pasar-gede",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "skbm-jadwalkan-pembayaran-dividen-interim-30-november",
   "category": "Aksi Korporasi",
   "title": "SKBM Jadwalkan Pembayaran [Dividen] Interim 30 November",
@@ -147,6 +165,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/52a89d5b02_90da1aaf05.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arab-saudi-percepat-tenggat-kontrak-dan-visa-haji-2027",
+  "category": "Global",
+  "title": "Arab Saudi [Percepat] Tenggat Kontrak dan Visa Haji 2027",
+  "deck": "Arab Saudi meminta kantor urusan haji dari 76 negara menyelesaikan kontrak layanan dan visa Haji 2027 sebelum 1 Syawal, termasuk kesiapan medis jemaah.",
+  "date": "10 November 2026",
+  "image": "assets/img/arab-saudi-percepat-tenggat-kontrak-dan-visa-haji-2027.jpg",
+  "imageV": "mwani8dq",
+  "tags": [
+   "haji 2027",
+   "arab saudi",
+   "visa haji",
+   "1 syawal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477595-arab-saudi-percepat-persiapan-haji-2027-kontrak-dan-visa-jemaah-diminta-rampung-sebelum-1-syawal"
  },
  {
   "slug": "bike-koreksi-lagi-ekuitas-berbalik-ke-positif-rp8-98-m",
@@ -6424,38 +6459,6 @@ var ARTICLES = [
    "emiten"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f2d5e59edb_eae722853e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dgik-gdk-teken-cspa-tokyu-construction-bakal-pegang-25",
-  "category": "Aksi Korporasi",
-  "title": "DGIK: GDK Teken CSPA, Tokyu Construction Bakal Pegang [25%]",
-  "deck": "GDK, pemegang saham utama DGIK, menandatangani perjanjian bersyarat untuk mengalihkan sebagian sahamnya ke Tokyu Construction Co. Ltd. yang berpotensi menguasai 25 persen saham DGIK.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGIK",
-   "Tokyu Construction",
-   "CSPA",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c972abe159_a388f4d304.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pkpk-beli-sisa-saham-dpal-rp722-miliar-ekuitas-turun-tajam",
-  "category": "Aksi Korporasi",
-  "title": "PKPK Beli Sisa Saham [DPAL] Rp722 Miliar, Ekuitas Turun Tajam",
-  "deck": "Paragon Karya Perkasa (PKPK) akan membeli 50,99% sisa saham anak usahanya, DPAL, senilai Rp722,2 miliar dari pihak terafiliasi untuk menuntaskan akuisisi 99,99%.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PKPK",
-   "Transaksi Material",
-   "Akuisisi",
-   "DPAL"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c839e2aec_34633bfe1b.pdf",
   "sourceLabel": "IDX"
  }
 ];

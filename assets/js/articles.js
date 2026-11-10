@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kkp-salurkan-1-5-juta-benih-ikan-dan-udang-ke-pembudidaya",
+  "category": "UMKM",
+  "title": "KKP Salurkan [1,5 Juta] Benih Ikan dan Udang ke Pembudidaya",
+  "deck": "KKP membagikan benih ikan dan udang ke kelompok pembudidaya di 27 lokasi, sebagian dilepas ke alam untuk menambah stok ikan lokal.",
+  "image": "assets/img/kkp-salurkan-1-5-juta-benih-ikan-dan-udang-ke-pembudidaya.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T06:38:16.147Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-salurkan-benih-ikan-dan-udang-untuk-pembudidaya-dan-restocking-selama-bulan-bakti-kelautan-dan-perikanan-BPDJ.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "KKP",
+   "budidaya perikanan",
+   "benih ikan",
+   "restocking"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) membagikan lebih dari 1,5 juta ekor benih ikan dan udang kepada kelompok pembudidaya di 27 lokasi di Indonesia selama program tahunan Bulan Bakti Kelautan dan Perikanan 2026, yang memasuki puncaknya pada 4 November. Sebagian kecil dari benih itu tidak diserahkan ke pembudidaya, melainkan dilepas langsung ke sungai dan perairan umum untuk menambah populasi ikan lokal. Bagi pembudidaya skala kecil, bantuan benih seperti ini berarti modal awal usaha yang tidak perlu dibeli sendiri, sementara bagi ekosistem perairan, pelepasan benih menjadi upaya menjaga stok ikan asli yang populasinya cenderung tergerus aktivitas manusia.",
+   "Di Sukabumi, Jawa Barat, misalnya, pemerintah menyalurkan sekitar 400 ribu ekor benih, terdiri dari 300 ribu ekor nila dan lele yang dibagikan ke sejumlah kelompok pembudidaya, serta 100 ribu ekor wader, tawes, dan nilem yang dilepas ke alam untuk menambah stok ikan di perairan umum. Salah satu penerima, Kelompok Pembudidaya Ikan Sudarma Patriot Mandiri yang beranggotakan 12 orang, mendapat 100 ribu ekor benih nila untuk dikembangkan sebagai usaha bersama.",
+   "Selain Jawa Barat, bantuan serupa juga mengalir ke kelompok pembudidaya di Lampung, Sulawesi Selatan, Nusa Tenggara Barat, Jawa Tengah, dan Jawa Timur. Jenis benih yang dibagikan bervariasi sesuai kondisi daerah masing-masing, mulai dari lele, nila, kakap putih, bandeng, hingga udang windu, sementara benih untuk pelepasan ke alam tetap berfokus pada ikan lokal seperti wader, tawes, dan nilem. KKP meminta penerima bantuan menerapkan Cara Budi Daya Ikan yang Baik atau CBIB, yakni standar teknis budidaya yang bertujuan menjaga kualitas dan keamanan hasil ikan agar lebih mudah diterima pasar.",
+   "Di tingkat lapangan, kelompok pengawas masyarakat yang menangani lokasi pelepasan benih di Sukabumi, Pokmaswas Mandrajaya Nusantara, menyatakan akan menjaga ikan yang ditebar dan melaporkan pihak yang menangkapnya secara melanggar aturan, dengan alasan manfaatnya perlu dirasakan masyarakat sekitar."
+  ],
+  "fotoAdegan": "Workers transferring young fish fry from plastic bags into a muddy rural aquaculture pond under overcast morning light",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-salurkan-benih-ikan-dan-udang-untuk-pembudidaya-dan-restocking-selama-bulan-bakti-kelautan-dan-perikanan-BPDJ.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah di sini hanya volume bantuan benih tahunan, bukan aturan atau kebijakan baru: KKP membagikan 1,5 juta ekor benih ke 27 lokasi, dengan rincian paling detail di Sukabumi yakni 300 ribu ekor untuk pembudidaya dan 100 ribu ekor untuk dilepas ke alam. Yang terdampak jelas kelompok pembudidaya kecil di enam provinsi yang disebut, biasanya beranggotakan belasan orang seperti kelompok di Sukabumi, serta ekosistem perairan umum yang menerima tambahan ikan lokal. Siaran pers ini tidak menyebut berapa total anggaran program, berapa volume bantuan tahun lalu sebagai pembanding, atau target produksi yang diharapkan tercapai, sehingga belum bisa disimpulkan apakah bantuan ini bertambah, menyusut, atau sekadar rutin dari tahun ke tahun. Yang perlu ditunggu adalah laporan hasil panen dari kelompok pembudidaya penerima bantuan pada musim berikutnya, karena itu yang akan menunjukkan apakah bantuan benih ini benar menambah hasil tangkapan atau sekadar seremoni tahunan yang berulang.",
+  "imageV": "mwaboi7e"
+ },
+ {
+  "slug": "300-umkm-jatim-dibekali-standar-mutu-demi-tembus-ekspor",
+  "category": "UMKM",
+  "title": "300 UMKM Jatim Dibekali [Standar] Mutu demi Tembus Ekspor",
+  "deck": "Kemendag melatih sekitar 300 pelaku UMKM di Banyuwangi, Bondowoso, dan Situbondo soal standar mutu agar produknya siap menembus pasar ekspor.",
+  "image": "assets/img/300-umkm-jatim-dibekali-standar-mutu-demi-tembus-ekspor.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T06:36:27.683Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-umkm-jawa-timur-tembus-pasar-global-kemendag-perkuat-mutu-dan-standardisasi-produk",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Jawa Timur",
+   "Standardisasi"
+  ],
+  "body": [
+   "Kementerian Perdagangan menggelar sosialisasi standar mutu bagi sekitar 300 pelaku usaha mikro, kecil, dan menengah di tiga kabupaten Jawa Timur, yaitu Banyuwangi, Bondowoso, dan Situbondo, pada 6 sampai 8 November 2026. Kegiatan ini bertujuan membekali pelaku UMKM agar produknya memenuhi syarat mutu, termasuk syarat yang diminta pembeli di luar negeri, sebelum mencoba menembus pasar ekspor. Bagi pelaku usaha kecil, pemahaman soal standar ini penting karena produk yang tidak memenuhi ketentuan negara tujuan bisa ditolak meski kualitasnya sebenarnya baik.",
+   "Direktur Jenderal Perlindungan Konsumen dan Tertib Niaga Kemendag, Moga Simatupang, menyebut produk unggulan di tiga daerah itu punya potensi besar, namun pelaku usaha perlu menjaga konsistensi mutu agar kepercayaan pembeli terjaga. Untuk membantu proses itu, Kemendag menyediakan portal Layanan Mandiri Informasi Mutu atau LAMANSITU, yang bisa diakses lewat lamansitu.kemendag.go.id. Melalui portal ini, pelaku usaha dapat mengecek sendiri persyaratan teknis dan standar mutu yang berlaku di negara tujuan ekspor, tanpa harus menunggu informasi dari pihak lain.",
+   "Gambaran potensi ekspor daerah disampaikan perwakilan Dinas Koperasi, Usaha Mikro, dan Perdagangan Banyuwangi, Yuswan Bakhtiar, yang menyebut daerahnya sudah memiliki 68 eksportir aktif yang menjangkau 54 negara, dengan komoditas perikanan, pertanian, perkebunan, dan kerajinan. Di Situbondo dan Bondowoso, pejabat dinas setempat menekankan bahwa kendala yang masih dihadapi UMKM adalah akses pembiayaan, kemitraan usaha, dan pemasaran, sehingga perbaikan mutu produk diposisikan sebagai salah satu cara mengatasi kendala tersebut. Dalam sosialisasi ini, peserta juga diajarkan hal praktis seperti menetapkan spesifikasi bahan baku, menjaga kebersihan proses produksi, serta menyesuaikan label dan kemasan sesuai karakteristik produk.",
+   "Pelaku usaha yang hadir, seperti Ketua Asosiasi UMKM Makanan dan Minuman Banyuwangi, Heru Prayitno, menyebut kebutuhan pendampingan bertahap untuk mempersiapkan ekspor, sementara pemilik PT Ienda Nusantara Indonesia, Indah Anggraeni, menekankan pentingnya informasi label yang lengkap dan akurat sejak pemilihan bahan baku. Kemendag menyatakan pelaku usaha juga memperoleh informasi soal layanan pengujian, kalibrasi, dan sertifikasi yang tersedia di lingkungan kementerian untuk mendukung proses tersebut."
+  ],
+  "fotoAdegan": "Workers packaging dried fish and agricultural products into crates at a small coastal workshop in East Java, overcast morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/U16Pfx7E3Jw2EUgpvJZSm86043OD8JBrYlO3JoR1.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari kegiatan ini sebenarnya kecil, yakni Kemendag kembali menjalankan sosialisasi standar mutu, kali ini menyasar sekitar 300 UMKM di tiga kabupaten Jawa Timur selama tiga hari. Yang kena dampak langsung adalah pelaku UMKM makanan, perikanan, pertanian, dan kerajinan di Banyuwangi, Bondowoso, dan Situbondo, termasuk 68 eksportir yang sudah aktif mengirim barang dari Banyuwangi ke 54 negara. Siaran pers ini tidak menyebut target baru, tenggat, atau aturan yang mengikat, sehingga belum bisa dipastikan apakah pembekalan semacam ini benar menambah jumlah UMKM yang berhasil ekspor atau sekadar kegiatan rutin yang berulang setiap tahun. Yang perlu dicermati adalah apakah dinas perdagangan di tiga kabupaten itu nanti merilis data baru soal jumlah eksportir UMKM setelah sosialisasi ini, karena data itulah yang bisa menunjukkan apakah program semacam ini benar berdampak atau tidak.",
+  "imageV": "mwabokdx"
+ },
+ {
   "slug": "pdpp-panggil-rupslb-ubah-susunan-dewan-komisaris",
   "category": "Aksi Korporasi",
   "title": "PDPP Panggil RUPSLB Ubah Susunan [Dewan Komisaris]",
@@ -204,7 +260,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah tahapannya sendiri, peninjauan teknis sudah berjalan di 24 dari 25 bidang sejak September 2025, dengan target seluruh proses aksesi tuntas pada 2028. Pihak yang kena dampak langsung adalah kementerian dan lembaga yang harus menyesuaikan aturan dengan standar OECD, DPR yang diminta ikut mengharmonisasi kebijakan, serta pelaku usaha, akademisi, dan organisasi masyarakat sipil yang diajak berpartisipasi dalam prosesnya. Dengan tinggal satu bidang yang belum dibahas dan dukungan dari tujuh negara anggota OECD, arah proses ini terlihat menuju penyelesaian bertahap per bidang menjelang tenggat 2028, bukan keanggotaan yang diputuskan sekali waktu. Penanda kemajuan berikutnya yang perlu dicermati adalah hasil kunjungan Sekretaris Jenderal OECD ke Indonesia yang sedang dipersiapkan, serta isi Chair's Letter untuk bidang-bidang yang masih dalam pembahasan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pemerintah-tawarkan-empat-blok-migas-baru-di-papua-hingga-ntt",
@@ -260,7 +316,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah arah penjualan eceran yang diprakirakan kembali naik, dari pertumbuhan 0,6 persen pada September menjadi 1 persen pada Oktober, dengan bahan bakar kendaraan bermotor sebagai pendorong utama. Itu berarti peritel bahan bakar dan toko kebutuhan sehari-hari yang paling terdampak langsung, sementara kenaikan belanja untuk barang lain masih tipis. Hal yang lebih perlu dicermati adalah Indeks Ekspektasi Harga untuk Desember 2026 dan Maret 2027 yang justru naik, pertanda pelaku pasar memperkirakan harga barang naik lebih cepat menjelang libur akhir tahun dan musim Lebaran tahun depan. Pola ini lebih mengarah ke lonjakan musiman biasa ketimbang perubahan daya beli yang mendasar, dan itu baru bisa dipastikan lewat data realisasi penjualan eceran Oktober yang akan dirilis Bank Indonesia bulan depan, karena angka yang dibahas di sini masih berupa prakiraan survei.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "avia-panggil-rupslb-bahas-penghapusan-saham-treasuri",

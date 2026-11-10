@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-salurkan-1-5-juta-benih-ikan-dan-udang-ke-pembudidaya",
+  "category": "UMKM",
+  "title": "KKP Salurkan [1,5 Juta] Benih Ikan dan Udang ke Pembudidaya",
+  "deck": "KKP membagikan benih ikan dan udang ke kelompok pembudidaya di 27 lokasi, sebagian dilepas ke alam untuk menambah stok ikan lokal.",
+  "date": "10 November 2026",
+  "image": "assets/img/kkp-salurkan-1-5-juta-benih-ikan-dan-udang-ke-pembudidaya.jpg",
+  "imageV": "mwaboi7e",
+  "tags": [
+   "KKP",
+   "budidaya perikanan",
+   "benih ikan",
+   "restocking"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-salurkan-benih-ikan-dan-udang-untuk-pembudidaya-dan-restocking-selama-bulan-bakti-kelautan-dan-perikanan-BPDJ.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "300-umkm-jatim-dibekali-standar-mutu-demi-tembus-ekspor",
+  "category": "UMKM",
+  "title": "300 UMKM Jatim Dibekali [Standar] Mutu demi Tembus Ekspor",
+  "deck": "Kemendag melatih sekitar 300 pelaku UMKM di Banyuwangi, Bondowoso, dan Situbondo soal standar mutu agar produknya siap menembus pasar ekspor.",
+  "date": "10 November 2026",
+  "image": "assets/img/300-umkm-jatim-dibekali-standar-mutu-demi-tembus-ekspor.jpg",
+  "imageV": "mwabokdx",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Jawa Timur",
+   "Standardisasi"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-umkm-jawa-timur-tembus-pasar-global-kemendag-perkuat-mutu-dan-standardisasi-produk",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "pdpp-panggil-rupslb-ubah-susunan-dewan-komisaris",
   "category": "Aksi Korporasi",
   "title": "PDPP Panggil RUPSLB Ubah Susunan [Dewan Komisaris]",
@@ -6424,38 +6460,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103173347-65723-0/FinancialStatement-2026-III-PIPA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bcic-dirut-ritsuo-fukadai-mundur-tunggu-restu-ojk-rups",
-  "category": "Aksi Korporasi",
-  "title": "BCIC: Dirut Ritsuo Fukadai [Mundur], Tunggu Restu OJK-RUPS",
-  "deck": "Direktur Utama Bank JTrust Indonesia, Ritsuo Fukadai, mengajukan surat pengunduran diri pada 30 Oktober 2026, efektif setelah mendapat persetujuan OJK dan RUPS.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BCIC",
-   "Bank JTrust Indonesia",
-   "pergantian direksi",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/898a11532f_b1e96cce19.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-koreksi-jawaban-bursa-rp21-85-m-akuisisi-belum-dibayar",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Koreksi Jawaban Bursa, Rp21,85 M Akuisisi Belum [Dibayar]",
-  "deck": "BIKE merinci jawaban ke BEI soal tiga akuisisi, MTI, FBM, dan BUM senilai total sekitar Rp21,85 miliar, yang pembayarannya masih menunggu pinjaman dari pengendali PMJ.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4f59af71f6_17cba0183c.pdf",
   "sourceLabel": "IDX"
  }
 ];

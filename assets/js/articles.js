@@ -159,6 +159,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "telkom-sabet-dua-penghargaan-transformasi-bisnis-dari-swa",
+  "category": "BUMN",
+  "title": "Telkom Sabet [Dua] Penghargaan Transformasi Bisnis dari SWA",
+  "deck": "Telkom Indonesia meraih dua penghargaan dari Majalah SWA atas konsistensi transformasi bisnis lewat kerangka TLKM 30 yang berlaku hingga 2030.",
+  "image": "assets/img/telkom-sabet-dua-penghargaan-transformasi-bisnis-dari-swa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T20:42:02+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477642-sabet-dua-penghargaan-bergengsi-telkom-perkuat-strategi-transformasi-bisnis-hingga-2030",
+  "tags": [
+   "Telkom Indonesia",
+   "BUMN",
+   "TLKM 30",
+   "Transformasi Bisnis"
+  ],
+  "body": [
+   "Telkom Indonesia mencatat capaian baru dalam ajang penghargaan yang digelar Majalah SWA, dengan membawa pulang dua gelar sekaligus, Best Business Transformation 2026 dan Indonesia Corporate Maturity Leadership Champions 2026. Penghargaan ini penting dicermati karena mengonfirmasi bahwa program restrukturisasi bisnis BUMN telekomunikasi terbesar di Indonesia ini, termasuk pemisahan unit bisnis enterprise, dinilai pihak luar sejalan dengan rencana besar perusahaan hingga 2030.",
+   "Gelar Best Business Transformation 2026 diserahkan kepada Kepala Program Enterprise Business Carve-Out Telkom, Anang Supriadi, sementara penghargaan Indonesia Corporate Maturity Leadership Champions 2026 diterima langsung oleh Direktur Strategic Business Development & Portfolio Telkom, Seno Soemadji. Selain dua gelar tersebut, akumulasi nilai dari dewan juri juga menempatkan Telkom di posisi tiga besar sehingga perusahaan turut menyandang predikat Outstanding Corporate Maturity Champion 2026.",
+   "Pengakuan ini berkaitan dengan TLKM 30, kerangka transformasi yang menjadi pedoman Telkom hingga tahun 2030. Program ini berjalan di atas empat pilar, yaitu Operational & Service Excellence, Streamlining, Unlock Value, dan Modus-Operandi Shift, yang menyasar perubahan model bisnis, penataan portofolio, serta peningkatan efisiensi dan kemampuan organisasi di tengah pergeseran permintaan pelanggan ke layanan berbasis data dan platform digital.",
+   "Direktur Strategic Business Development & Portfolio Telkom, Seno Soemadji, menyebut penghargaan tersebut sebagai bentuk dorongan untuk tetap konsisten menjalankan agenda perubahan, sembari menjaga performa dan tata kelola perusahaan. Ia menambahkan bahwa setiap langkah transformasi diarahkan untuk menciptakan nilai tambah jangka panjang bagi perusahaan dan seluruh pemangku kepentingan."
+  ],
+  "fotoAdegan": "Technicians checking fiber optic cable racks inside a telecommunications data center, rows of blinking indicator lights, dim blue lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/10/6af31ac16f19d-telkom-raih-dua-penghargaan-transformasi-bisnis-perkuat-peran-strategic-holding_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di balik penghargaan ini adalah pengakuan eksternal atas program restrukturisasi internal Telkom, termasuk proses pemisahan atau carve-out unit bisnis enterprise, yang menjadi bagian dari kerangka TLKM 30 dengan empat pilar transformasi hingga 2030. Pihak yang paling terkait dengan perubahan ini adalah karyawan dan mitra bisnis di unit enterprise yang sedang dipisahkan, serta pemegang saham Telkom, termasuk negara sebagai pemegang saham mayoritas BUMN ini. Rilis ini belum menjelaskan skema akhir carve-out tersebut, apakah unit enterprise akan menjadi anak usaha tersendiri, dijual sebagian, atau digabung dengan mitra strategis, maupun target waktu penyelesaiannya. Belum ada pula angka kinerja keuangan yang menunjukkan hasil konkret dari pilar Streamlining dan Unlock Value dalam TLKM 30. Yang perlu ditunggu adalah laporan keuangan Telkom berikutnya serta pengumuman resmi soal kelanjutan carve-out unit enterprise, karena dari situ progres transformasi ini baru bisa terlihat lebih jelas.",
+  "imageV": "mwaw19bk"
+ },
+ {
   "slug": "bei-delisting-obligasi-tdpm-dan-tele-usai-saham-dicabut",
   "category": "Aksi Korporasi",
   "title": "BEI Delisting Obligasi [TDPM] dan TELE Usai Saham Dicabut",
@@ -210,7 +237,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah baru tahap awal, pemerintah memulai penyusunan dokumen induk pariwisata baru, RIPPARNAS 2027-2045, yang nantinya akan menggantikan kerangka yang sejak 2011 diatur lewat Peraturan Pemerintah No 50, dengan target kontribusi pariwisata ke PDB naik menjadi 4,9 sampai 5 persen dan devisa US$39,4 miliar pada 2029. Yang kena dampak langsung adalah pemerintah daerah yang mengelola 10 destinasi prioritas dan 3 destinasi regeneratif dalam RPJMN 2025-2029, karena arah penyusunan ini mengaitkan penetapan kawasan wisata dengan kedekatannya pada kawasan ekonomi khusus, kawasan industri, dan simpul transportasi seperti bandara dan pelabuhan. Yang masih kurang untuk menilai ke mana ini benar-benar bergerak adalah kejelasan bentuk hukum RIPPARNAS nanti, apakah akan menjadi revisi peraturan pemerintah yang mengikat kementerian dan daerah, atau sekadar dokumen pedoman tanpa konsekuensi kalau tidak dipatuhi. Pemerintah juga belum mengumumkan target waktu penyelesaian draf, sehingga penanda paling dekat yang bisa dipantau adalah kapan draf ini masuk ke tahap pembahasan antar-kementerian atau disahkan sebagai peraturan baru.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "lapd-resmi-ubah-nama-ke-jsi-sinergi-internasional-dan-alamat",
@@ -766,7 +793,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar pembukaan satu kantor di Medan, melainkan BKPM mempercepat penyebaran model desk investasi daerah ini ke beberapa kota baru dalam hitungan hari, Semarang pada 11 November, Makassar pada 13 November, dan Balikpapan pada 16 November, setelah uji coba di Batam dan Bali. Yang terdampak langsung adalah investor dengan proyek senilai minimal Rp100 miliar di Sumatera, kecuali di Lampung, Bangka Belitung, dan Kepulauan Riau yang sudah punya desk sendiri, serta pemerintah daerah dan pengelola kawasan industri yang ikut diwajibkan menyelesaikan hambatan izin dan lahan. Arahnya, BKPM tampak menjadikan desk investasi bukan proyek sekali jalan, melainkan struktur permanen untuk mengawal realisasi investasi di banyak provinsi sekaligus. Klaim bahwa realisasi di Batam dan Bali naik dua sampai tiga kali lipat setelah ada desk masih berasal dari pernyataan Wakil Menteri sendiri, bukan angka yang sudah diverifikasi secara terpisah, jadi yang perlu dicermati adalah laporan realisasi investasi triwulanan BKPM berikutnya untuk melihat apakah Sumatera benar mendekati target Rp13 triliun dan apakah pola serupa muncul di Semarang, Makassar, dan Balikpapan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "esdm-libatkan-pemda-dalam-lelang-panas-bumi-dan-listrik-desa",

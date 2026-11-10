@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "TdfYhS_30B4",
+  "title": "KDMP Desa Ciwaru Sukabumi Dorong Penguatan Ekonomi Nelayan",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Pembentukan dan optimalisasi Koperasi Desa/Masyarakat Pesisir di Desa Ciwaru, Kecamatan Ciemas, Kabupaten Sukabumi, menjadi langkah strategis memperkuat kemandirian ekonomi nelayan setempat.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti penguatan koperasi sebagai penggerak ekonomi di sektor perikanan dan wilayah pesisir."
+ },
+ {
   "id": "GMW_tPJ6Jh8",
   "title": "Mendag RI Perluas Ekspor Produk Makanan ke Australia",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Ketua Dewan Penasihat Kadin Indonesia, Hashim Djojohadikusumo, memaparkan tantangan dan potensi ekonomi nasional sekaligus meluruskan narasi soal utang negara.",
   "takeaway": "Penting bagi pembaca yang ingin memahami perspektif pelaku usaha mengenai isu fiskal utang negara."
- },
- {
-  "id": "-auQXZyJNik",
-  "title": "Lanskap Investasi Indonesia Terungkap dalam Data Terkini",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Data statistik dan fakta lapangan terbaru menyoroti stabilitas makroekonomi, kebijakan hilirisasi komoditas, dan pembangunan infrastruktur sebagai penopang investasi Indonesia.",
-  "takeaway": "Memberi gambaran data terkini yang relevan bagi pembaca yang mengikuti tren investasi dan kebijakan hilirisasi di Indonesia."
  }
 ];

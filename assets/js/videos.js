@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "TdfYhS_30B4",
+  "title": "KDMP Desa Ciwaru Sukabumi Dorong Penguatan Ekonomi Nelayan",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Pembentukan dan optimalisasi Koperasi Desa/Masyarakat Pesisir di Desa Ciwaru, Kecamatan Ciemas, Kabupaten Sukabumi, menjadi langkah strategis memperkuat kemandirian ekonomi nelayan setempat.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti penguatan koperasi sebagai penggerak ekonomi di sektor perikanan dan wilayah pesisir.",
+  "terbit": "2026-11-10T15:56:05+00:00"
+ },
+ {
   "id": "GMW_tPJ6Jh8",
   "title": "Mendag RI Perluas Ekspor Produk Makanan ke Australia",
   "category": "Bisnis",

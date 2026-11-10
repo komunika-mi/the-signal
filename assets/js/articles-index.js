@@ -101,6 +101,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "telkom-sabet-dua-penghargaan-transformasi-bisnis-dari-swa",
+  "category": "BUMN",
+  "title": "Telkom Sabet [Dua] Penghargaan Transformasi Bisnis dari SWA",
+  "deck": "Telkom Indonesia meraih dua penghargaan dari Majalah SWA atas konsistensi transformasi bisnis lewat kerangka TLKM 30 yang berlaku hingga 2030.",
+  "date": "10 November 2026",
+  "image": "assets/img/telkom-sabet-dua-penghargaan-transformasi-bisnis-dari-swa.jpg",
+  "imageV": "mwaw19bk",
+  "tags": [
+   "Telkom Indonesia",
+   "BUMN",
+   "TLKM 30",
+   "Transformasi Bisnis"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477642-sabet-dua-penghargaan-bergengsi-telkom-perkuat-strategi-transformasi-bisnis-hingga-2030"
+ },
+ {
   "slug": "bei-delisting-obligasi-tdpm-dan-tele-usai-saham-dicabut",
   "category": "Aksi Korporasi",
   "title": "BEI Delisting Obligasi [TDPM] dan TELE Usai Saham Dicabut",
@@ -6440,22 +6457,6 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/60a89dbfce_957ea9d35d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tfco-harga-saham-naik-tanpa-diketahui-dividen-masih-ditahan",
-  "category": "Aksi Korporasi",
-  "title": "TFCO: Harga Saham Naik Tanpa Diketahui, [Dividen] Masih Ditahan",
-  "deck": "Dalam public expose insidentil, manajemen TFCO mengaku tidak tahu penyebab lonjakan harga saham dan menjelaskan dividen belum bisa dibagikan karena cadangan wajib belum terpenuhi.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TFCO",
-   "Public Expose",
-   "Dividen",
-   "Tifico Fiber Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/94e82800f1_d33611c190.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,73 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-bahas-24-dari-25-bidang-aksesi-oecd",
+  "category": "Makroekonomi",
+  "title": "Indonesia Bahas [24] dari 25 Bidang Aksesi OECD",
+  "deck": "Rapat koordinasi tim nasional digelar menjelang kunjungan Sekjen OECD, dengan pembahasan teknis sudah berjalan di 24 dari 25 bidang menuju target rampung 2028.",
+  "date": "10 November 2026",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "tags": [
+   "OECD",
+   "Airlangga Hartarto",
+   "aksesi OECD",
+   "reformasi regulasi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7208/menko-airlangga-ajak-menteri-dan-kepala-lembaga-perkuat-komitmen-indonesia-untuk-percepat-proses-aksesi-oecd",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pemerintah-tawarkan-empat-blok-migas-baru-di-papua-hingga-ntt",
+  "category": "Energi",
+  "title": "Pemerintah [Tawarkan] Empat Blok Migas Baru di Papua hingga NTT",
+  "deck": "ESDM menetapkan empat wilayah kerja migas di Papua, Papua Barat Daya, Laut Arafuru, dan NTT sebagai status Available, terbuka bagi investor lewat penawaran langsung.",
+  "date": "10 November 2026",
+  "image": "assets/img/pemerintah-tawarkan-empat-blok-migas-baru-di-papua-hingga-ntt.jpg",
+  "imageV": "mwa5az6h",
+  "tags": [
+   "migas",
+   "ESDM",
+   "investasi hulu migas",
+   "wilayah kerja"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tingkatkan-investasi-dan-eksplorasi-hulu-migas-pemerintah-tawarkan-empat-wilayah-kerja-available",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "penjualan-eceran-oktober-diprakirakan-naik-1-persen",
+  "category": "Makroekonomi",
+  "title": "Penjualan Eceran Oktober Diprakirakan [Naik] 1 Persen",
+  "deck": "Bank Indonesia memperkirakan penjualan eceran Oktober 2026 tumbuh 1 persen dibanding tahun sebelumnya, ditopang penjualan bahan bakar kendaraan serta makanan dan minuman.",
+  "date": "10 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "penjualan eceran",
+   "Bank Indonesia",
+   "inflasi",
+   "konsumsi rumah tangga"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824626.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "harga-emas-antam-naik-jadi-rp2-560-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Jadi Rp2.560.000 per Gram",
+  "deck": "Harga emas batangan Antam naik Rp15.000 menjadi Rp2.560.000 per gram pada 10 November 2026, sementara harga buyback ikut naik ke Rp2.375.000 per gram.",
+  "date": "10 November 2026",
+  "image": "assets/img/harga-emas-antam-naik-jadi-rp2-560-000-per-gram.jpg",
+  "imageV": "mwa5azny",
+  "tags": [
+   "antam",
+   "harga emas",
+   "buyback emas",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477514-harga-emas-antam-hari-ini-10-november-2026-terpantau-naik-jadi-rp2560000-per-gram-buyback-ikut-melonjak"
+ },
+ {
   "slug": "masb-direksi-fely-retnowati-tambah-saham-jadi-298-300-lembar",
   "category": "Aksi Korporasi",
   "title": "MASB: Direksi Fely Retnowati [tambah] saham jadi 298.300 lembar",
@@ -1572,7 +1639,7 @@ var ARTICLES = [
   "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
   "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 119,9 pada Oktober 2026, dari 118,1 bulan sebelumnya, ditopang penilaian kondisi ekonomi saat ini dan ekspektasi ke depan yang menguat.",
   "date": "9 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
   "sourceLabel": "Bank Indonesia"
@@ -1990,7 +2057,7 @@ var ARTICLES = [
   "title": "Pemerintah Buka Diskon Tiket Transportasi [Nataru] 2026/2027",
   "deck": "Diskon tarif kereta api, kapal laut, penyeberangan, dan pesawat untuk libur Nataru 2026/2027 resmi berjalan, berdasarkan SKB tiga menteri dan aturan PPN ditanggung pemerintah untuk tiket pesawat.",
   "date": "8 November 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/jalan-raya-padat.jpg",
   "tags": [
    "Diskon Transportasi",
    "Nataru 2026",
@@ -3302,7 +3369,7 @@ var ARTICLES = [
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
   "deck": "Tingkat pengangguran terbuka naik tipis dari Februari 2026, tapi masih lebih rendah dibanding Agustus tahun lalu",
   "date": "6 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "bps",
    "ketenagakerjaan",
@@ -3345,7 +3412,7 @@ var ARTICLES = [
   "title": "Pertumbuhan Harga Rumah Primer [Melambat] di Triwulan III",
   "deck": "Pertumbuhan harga rumah baru melambat ke 0,58 persen dibanding setahun lalu pada triwulan III 2026, sementara penjualan turun 8,43 persen di seluruh tipe rumah.",
   "date": "6 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "properti residensial",
    "harga rumah",
@@ -3941,7 +4008,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47] Persen pada Triwulan III 2026",
   "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada triwulan III 2026, naik dari 5,29 persen pada triwulan sebelumnya, didorong lonjakan belanja pemerintah dan konsumsi rumah tangga.",
   "date": "5 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "Pertumbuhan Ekonomi",
    "PDB Triwulan III",
@@ -4443,7 +4510,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
   "deck": "BPS catat pertumbuhan ekonomi naik 0,18 poin dari triwulan sebelumnya dan jadi yang tertinggi kedua dalam setahun terakhir.",
   "date": "5 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "ekonomi",
    "bps",
@@ -4653,7 +4720,7 @@ var ARTICLES = [
   "title": "Ekonomi Indonesia Tumbuh [5,47%] di Triwulan III-2026",
   "deck": "BPS mencatat produk domestik bruto RI naik 5,47 persen secara tahunan pada triwulan III-2026, ditopang belanja pemerintah dan ekspor.",
   "date": "5 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "PDB",
    "BPS",
@@ -5848,7 +5915,7 @@ var ARTICLES = [
   "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
   "deck": "Surplus dagang Indonesia September 2026 menyusut tipis ke US$3,36 miliar akibat defisit migas melebar, sementara ekspor dan impor sama-sama tumbuh dua digit secara tahunan.",
   "date": "3 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -6397,70 +6464,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasokan-nikel-berlebih-bahlil-siapkan-pengetatan-rkab-untuk-jaga-harga",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "zp-sesuaikan-waran-itmg-usai-dividen-tunai-us-74-2-juta",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan [Waran] ITMG usai Dividen Tunai US$74,2 Juta",
-  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi dua waran terstruktur ITMG, menyusul dividen tunai ITMG senilai US$74,2 juta.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "ITMG",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4f91843363_999286f54b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-sesuaikan-waran-medc-usai-dividen-interim-us-30-juta",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan [Waran] MEDC usai Dividen Interim US$30 Juta",
-  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran MEDCZPCF7A dan MEDCZPCN7A menyusul dividen interim MEDC senilai US$30 juta, efektif 11 November 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "MEDC",
-   "waran terstruktur",
-   "dividen interim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dc733e3ea5_8e3c05510e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-targetkan-produksi-listrik-naik-49-5-di-2027",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Targetkan Produksi Listrik Naik [49,5%] di 2027",
-  "deck": "Dalam public expose insidentil, manajemen ARKO memaparkan produksi listrik yang tetap tumbuh di tengah El Nino dan proyeksi lonjakan produksi pada 2027.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "public expose",
-   "energi terbarukan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/46ecccf054_8f944823b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-cabai-melonjak-ke-rp124-ribu-mendag-sebut-faktor-cuaca",
-  "category": "Makroekonomi",
-  "title": "Harga Cabai [Melonjak] ke Rp124 Ribu, Mendag Sebut Faktor Cuaca",
-  "deck": "Harga cabai rawit merah tembus Rp124.400 per kg akibat kemarau panjang, pemerintah kirim stok antar daerah untuk menambal kekurangan pasokan.",
-  "date": "3 November 2026",
-  "image": "assets/img/harga-cabai-melonjak-ke-rp124-ribu-mendag-sebut-faktor-cuaca.jpg",
-  "imageV": "mw0h135r",
-  "tags": [
-   "harga cabai",
-   "cuaca ekstrem",
-   "Kemendag",
-   "pasokan pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476392-harga-cabai-merah-melonjak-tembus-rp124-ribu-mendag-faktor-cuaca"
  }
 ];

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ptdu-rinci-proses-pkpu-ekuitas-negatif-rp7-75-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PTDU Rinci Proses [PKPU], Ekuitas Negatif Rp7,75 Miliar",
+  "deck": "PTDU menjawab 14 pertanyaan Bursa soal PKPU dari CV Titan senilai Rp1 miliar, sementara total klaim kreditur mencapai Rp132,9 miliar dari 122 pihak.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTDU",
+   "PKPU",
+   "ekuitas negatif",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bc4019f310_ffe9c4ae04.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nfcx-lapor-eksekusi-buyback-pertama-120-000-saham-di-rp1-800",
+  "category": "Aksi Korporasi",
+  "title": "NFCX Lapor Eksekusi [Buyback] Pertama, 120.000 Saham di Rp1.800",
+  "deck": "PT NFC Indonesia Tbk melaporkan ke OJK bahwa pada 10 November 2026 perseroan membeli kembali 120.000 saham di harga Rp1.800 per saham, hari pertama eksekusi setelah rencana buyback direvisi.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NFCX",
+   "buyback",
+   "saham treasuri",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3467abd790_c2ac03458c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jelang-nataru-harga-bapok-di-solo-stabil-cabai-masih-mahal",
   "category": "Bisnis",
   "title": "Jelang Nataru, Harga Bapok di Solo [Stabil], Cabai Masih Mahal",
@@ -21,6 +53,54 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pastikan-stabilitas-harga-bapok-jelang-nataru-mendag-busan-pantau-pasar-gede",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "kios-panggil-rupslb-kedua-usai-rapat-pertama-gagal-kuorum",
+  "category": "Aksi Korporasi",
+  "title": "KIOS Panggil [RUPSLB] Kedua usai Rapat Pertama Gagal Kuorum",
+  "deck": "Setelah RUPSLB 27 Oktober gagal kuorum, Kioson memanggil rapat kedua 17 November untuk membahas perubahan direksi/komisaris dan penyesuaian KBLI.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KIOS",
+   "RUPSLB",
+   "tata kelola perusahaan",
+   "perubahan direksi komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6ea96c0098_44b6a100b4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmhs-jadwalkan-rupslb-pada-17-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "BMHS Jadwalkan [RUPSLB] pada 17 Desember 2026",
+  "deck": "Bundamedik (BMHS) mengumumkan rencana RUPSLB 17 Desember 2026, dengan batas pencatatan pemegang saham pada 24 November.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMHS",
+   "RUPSLB",
+   "Bundamedik",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f6e8fce8f_06a974b786.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iiff-catatkan-obligasi-rp1-7-triliun-di-bei-mulai-11-november",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Catatkan [Obligasi] Rp1,7 Triliun di BEI Mulai 11 November",
+  "deck": "Tiga seri obligasi IIFF senilai total Rp1,7 triliun resmi dicatatkan di BEI pada 11 November 2026, berbunga 7,2 hingga 7,6 persen per tahun dengan peringkat AAA dari Fitch.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IIFF",
+   "obligasi",
+   "BEI",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0dbbb98241_0ec4e236c5.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "skbm-jadwalkan-pembayaran-dividen-interim-30-november",
@@ -334,6 +414,51 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bike-koreksi-lagi-akuisisi-tambang-batu-bara-86-juta-ton",
+  "category": "Aksi Korporasi",
+  "title": "BIKE [Koreksi] Lagi, Akuisisi Tambang Batu Bara 86 Juta Ton",
+  "deck": "Anak usaha BIKE, PT Prambanan Nusantara Energi, akuisisi 45% saham tambang batu bara PT Sumber Bara Abadi seluas 4.909 hektare, lewat koreksi laporan ketiga BIKE dalam sebulan.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi tambang",
+   "koreksi laporan",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5f8916bedc_444122f051.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "raja-catatkan-obligasi-dan-sukuk-rp1-2-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Catatkan [Obligasi] dan Sukuk Rp1,2 Triliun di BEI",
+  "deck": "Rukun Raharja mencatatkan obligasi dan sukuk wakalah tahap I senilai total Rp1,2 triliun di BEI mulai 11 November 2026, dengan kupon 8,5-9 persen dan tenor tiga sampai lima tahun.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAJA",
+   "obligasi korporasi",
+   "sukuk wakalah",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c4a51afa6c_4bcd947a80.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtfn-bidik-rampungkan-divestasi-3-anak-usaha-awal-2027",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Bidik Rampungkan [Divestasi] 3 Anak Usaha Awal 2027",
+  "deck": "Dalam public expose tahunan, manajemen MTFN memaparkan rencana divestasi tiga anak usaha rampung kuartal I 2027 di tengah ekuitas negatif Rp538,7 miliar, sambil mengklaim margin usaha membaik.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTFN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bef433d300_b724233ec2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "heli-terbitkan-83-3-juta-saham-baru-tanpa-hmetd-danai-pear",
   "category": "Aksi Korporasi",
   "title": "HELI Terbitkan [83,3 Juta] Saham Baru Tanpa HMETD, Danai PEAR",
@@ -379,6 +504,22 @@ var ARTICLES = [
    "pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1ef3bf66ee_d84b5ee50a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aadi-asi-alihkan-41-1-saham-ke-empat-pihak-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "AADI: ASI Alihkan 41,1% Saham ke Empat Pihak [Afiliasi]",
+  "deck": "PT Adaro Strategic Investments mengalihkan seluruh 41,0965% sahamnya di AADI ke empat perusahaan lewat pasar negosiasi BEI, tanpa mengubah pengendalian perseroan.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AADI",
+   "Adaro Andalan Indonesia",
+   "pengalihan saham",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d65008db0_e32df9f752.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -850,6 +991,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "boss-panggil-rups-kedua-16-november-agenda-3-tahun-buku",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Panggil RUPS [Kedua] 16 November, Agenda 3 Tahun Buku",
+  "deck": "Setelah rapat pertama gagal kuorum, BOSS memanggil RUPST dan RUPSLB kedua pada 16 November 2026 untuk meratifikasi laporan tiga tahun buku sekaligus dan menyesuaikan anggaran dasar.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "Tata Kelola",
+   "Batu Bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c206fdd991_4b34d9d1db.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bei-resmi-delisting-saham-sril-mulai-10-november-2026",
   "category": "Aksi Korporasi",
   "title": "BEI Resmi [Delisting] Saham SRIL Mulai 10 November 2026",
@@ -1139,6 +1296,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "indy-tanggapi-permintaan-bursa-soal-sengketa-lahan-masmindo",
+  "category": "Aksi Korporasi",
+  "title": "INDY Tanggapi Permintaan Bursa soal Sengketa Lahan [Masmindo]",
+  "deck": "Indika Energy menjawab permintaan penjelasan BEI soal pemberitaan sengketa lahan anak usahanya, PT Masmindo Dwi Area, di Luwu, namun belum memberi penjelasan substantif dan masih menghimpun data.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDY",
+   "Indika Energy",
+   "Masmindo Dwi Area",
+   "sengketa lahan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/143f104478_cb7b54aa6b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wbsa-catat-laba-9m26-turun-55-meski-pendapatan-naik-31",
   "category": "Aksi Korporasi",
   "title": "WBSA Catat [Laba] 9M26 Turun 55% Meski Pendapatan Naik 31%",
@@ -1234,6 +1407,38 @@ var ARTICLES = [
    "OKI Pulp Paper Mills"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f07fbf832b_934e281453.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-jadwalkan-rupsu-sukuk-buntut-gagal-bayar-kupon",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan RUPSU Sukuk Buntut [Gagal Bayar] Kupon",
+  "deck": "WIKA akan menggelar rapat pemegang Sukuk Mudharabah Berkelanjutan II Tahap I 2021 pada 7 Desember 2026, menyusul suspensi saham dan penurunan rating ke status default.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ee64b41969_b7e3d88639.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-terbitkan-panggilan-resmi-rupsu-sukuk-ke-pemegang",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Terbitkan Panggilan Resmi [RUPSU] Sukuk ke Pemegang",
+  "deck": "Bank Mega sebagai wali amanat akan memuat panggilan RUPSU sukuk WIKA di koran nasional pada 23 November, menjelang rapat pemegang sukuk pada 9 Desember terkait gagal bayar kupon.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c1c81fb8c1_f12c929322.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6250,215 +6455,6 @@ var ARTICLES = [
    "dividen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cf464eef1f_933a7bacaa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bq-sesuaikan-waran-tapgbqcz6a-usai-dividen-tapg",
-  "category": "Aksi Korporasi",
-  "title": "BQ Sesuaikan [Waran] TAPGBQCZ6A Usai Dividen TAPG",
-  "deck": "Korea Investment Sekuritas Indonesia (BQ) menyesuaikan rasio dan harga pelaksanaan waran terstruktur TAPGBQCZ6A menyusul dividen tunai Rp70 per saham TAPG yang efektif 11 November 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BQ",
-   "TAPG",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/62340a6bd8_898774b88a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "skbm-laba-bersih-melonjak-120-ke-rp120-2-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SKBM: Laba Bersih [Melonjak] 120% ke Rp120,2 Miliar",
-  "deck": "Penjualan Sekar Bumi (SKBM) naik 29,7 persen dan laba bersih melonjak 120,8 persen pada sembilan bulan pertama 2026, didukung arus kas operasi yang berbalik positif.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SKBM",
-   "Sekar Bumi",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104140415-65731-0/FinancialStatement-2026-III-SKBM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msci-ancam-turunkan-status-ri-pemerintah-genjot-transparansi-saham",
-  "category": "Pasar Modal",
-  "title": "MSCI Ancam Turunkan Status RI, Pemerintah Genjot [Transparansi] Saham",
-  "deck": "Pemerintah mendorong keterbukaan pemilik saham di atas 1 persen menyusul ancaman penurunan status pasar modal Indonesia oleh penyedia indeks MSCI.",
-  "date": "4 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
-  "tags": [
-   "MSCI",
-   "pasar modal",
-   "rupiah",
-   "OJK"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7197/hadapi-dinamika-pasar-modal-dan-rupiah-wamenko-dradjad-tekankan-pentingnya-mencermati-fundamental-ekonomi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "assa-bagi-dividen-interim-rp20-per-saham-dibayar-20-november",
-  "category": "Aksi Korporasi",
-  "title": "ASSA Bagi [Dividen] Interim Rp20 per Saham, Dibayar 20 November",
-  "deck": "ASSA menetapkan dividen interim tahun buku 2026 sebesar Rp20 per saham, total Rp73,82 miliar, dengan pembayaran dijadwalkan 20 November 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASSA",
-   "dividen interim",
-   "dividen tunai",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e566145cd_b96c5d5ee8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bina-himpun-rp50-miliar-lewat-penerbitan-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "BINA Himpun [Rp50 Miliar] Lewat Penerbitan Saham Baru",
-  "deck": "Bank Ina Perdana menerbitkan 13,8 juta saham baru senilai Rp50 miliar kepada PT Indoperkasa Suksesjaya Reasuransi untuk memperkuat modal inti bank.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BINA",
-   "PMTHMETD",
-   "Bank Ina Perdana",
-   "modal inti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f7106c8e1d_41dc4a9f96.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bina-jadwalkan-rupslb-dan-rups-independen-11-desember",
-  "category": "Aksi Korporasi",
-  "title": "BINA Jadwalkan RUPSLB dan RUPS [Independen] 11 Desember",
-  "deck": "Bank Ina mengumumkan rencana RUPSLB sekaligus RUPS Independen pada 11 Desember 2026, tanda ada transaksi yang perlu restu pemegang saham non-afiliasi.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BINA",
-   "RUPSLB",
-   "RUPS Independen",
-   "Bank Ina Perdana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6be09f686e_6cafb91ba1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sdra-panggil-rupslb-agendakan-pergantian-direksi-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "SDRA Panggil RUPSLB, Agendakan [Pergantian] Direksi-Komisaris",
-  "deck": "Bank Woori Saudara (SDRA) memanggil RUPSLB pada 26 November 2026 di Jakarta untuk membahas perubahan susunan direksi dan komisaris perseroan.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SDRA",
-   "RUPSLB",
-   "Bank Woori Saudara",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1b0751531f_285da0d420.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pelindo-luncurkan-dashboard-acs-untuk-transparansi-bayar",
-  "category": "BUMN",
-  "title": "Pelindo Luncurkan Dashboard [ACS] untuk Transparansi Bayar",
-  "deck": "Pelindo menghadirkan Dashboard ACS agar pengguna jasa pelabuhan bisa memantau status pembayaran kepelabuhanan secara langsung dan lebih transparan.",
-  "date": "4 November 2026",
-  "image": "assets/img/pelindo-luncurkan-dashboard-acs-untuk-transparansi-bayar.jpg",
-  "imageV": "mw1r3f6v",
-  "tags": [
-   "Pelindo",
-   "Dashboard ACS",
-   "Transaksi Pelabuhan",
-   "Digitalisasi BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476554-pelindo-hadirkan-dashboard-acs-transaksi-kepelabuhanan-kini-lebih-transparan-dan-mudah"
- },
- {
-  "slug": "wmpp-catat-laba-bersih-rp92-9-miliar-naik-154-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "WMPP Catat Laba Bersih [Rp92,9 Miliar], Naik 154% di Kuartal III",
-  "deck": "Pendapatan WMPP naik 40 persen menjadi Rp961,9 miliar di kuartal III 2026, didorong penjualan karkas ayam yang melonjak 70 persen YoY.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WMPP",
-   "laba bersih",
-   "kinerja keuangan",
-   "industri pangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/790bd62824_56f7fb6530.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kblv-jadwalkan-rupslb-pada-11-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "KBLV Jadwalkan [RUPSLB] pada 11 Desember 2026",
-  "deck": "First Media (KBLV) akan menggelar RUPSLB pada 11 Desember 2026, dengan pemegang saham berhak hadir dicatat per 18 November 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KBLV",
-   "First Media",
-   "RUPSLB",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c18432f60a_61eed8df61.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pkpk-lakukan-stock-split-1-10-saham-jadi-12-miliar-lembar",
-  "category": "Aksi Korporasi",
-  "title": "PKPK Lakukan [Stock Split] 1:10, Saham Jadi 12 Miliar Lembar",
-  "deck": "Paragon Karya Perkasa akan memecah saham dengan rasio 1:10, menambah jumlah saham beredar dari 1,2 miliar menjadi 12 miliar lembar, menunggu persetujuan RUPSLB pada 11 Desember 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PKPK",
-   "stock split",
-   "RUPSLB",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7edad59dde_f48ab96fe6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pans-umumkan-rupslb-pemegang-saham-tercatat-18-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "PANS Umumkan RUPSLB, Pemegang Saham [Tercatat] 18 November 2026",
-  "deck": "Panin Sekuritas akan menggelar RUPSLB pada 11 Desember 2026. Pemegang saham yang tercatat pada 18 November 2026 berhak hadir dan memberi suara dalam rapat.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PANS",
-   "RUPSLB",
-   "Panin Sekuritas",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aba0c64050_c0978a5404.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mark-bagikan-dividen-interim-kedua-rp20-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "MARK Bagikan [Dividen] Interim Kedua Rp20 per Saham",
-  "deck": "Mark Dynamics Indonesia membagikan dividen tunai interim kedua tahun buku 2026 senilai Rp76 miliar atau Rp20 per saham, dibayar 4 Desember 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MARK",
-   "dividen",
-   "pasar modal",
-   "emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f2d5e59edb_eae722853e.pdf",
   "sourceLabel": "IDX"
  }
 ];

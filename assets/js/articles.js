@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ptdu-rinci-proses-pkpu-ekuitas-negatif-rp7-75-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PTDU Rinci Proses [PKPU], Ekuitas Negatif Rp7,75 Miliar",
+  "deck": "PTDU menjawab 14 pertanyaan Bursa soal PKPU dari CV Titan senilai Rp1 miliar, sementara total klaim kreditur mencapai Rp132,9 miliar dari 122 pihak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T19:17:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bc4019f310_ffe9c4ae04.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTDU",
+  "tags": [
+   "PTDU",
+   "PKPU",
+   "ekuitas negatif",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Djasa Ubersakti Tbk (PTDU) menjawab permintaan penjelasan Bursa Efek Indonesia melalui surat tanggal 10 November 2026, menanggapi 14 pertanyaan terkait permohonan penundaan kewajiban pembayaran utang (PKPU) yang diajukan CV Titan. Perseroan menjelaskan CV Titan adalah salah satu pihak ketiga pendukung pekerjaannya, dengan kewajiban sebesar Rp1 miliar yang jatuh tempo pada 2 Desember 2025 dan tidak terbayar karena arus kas Perseroan tidak mencukupi. Pengadilan Niaga Jakarta Pusat memutus Perseroan berada dalam PKPU Sementara melalui Putusan Nomor 269/Pdt.Sus-PKPU/2026/PN.Niaga.Jkt.Pst pada 28 Oktober 2026, berlaku 45 hari, dengan Dr. Sriti Hesti Astiti, S.H., M.H. sebagai Hakim Pengawas, serta Muhammad Rizky Maulana, S.H. dan Saghara Luthfillah Fazari, S.H., M.H. sebagai Tim Pengurus.",
+   "Perseroan menegaskan permohonan PKPU bukan transaksi material menurut POJK 17/2020 karena bukan transaksi yang dilakukan Perseroan sendiri, namun tetap mengukurnya untuk kehati-hatian. Berdasarkan laporan keuangan interim per 30 September 2025, ekuitas Perseroan negatif Rp7,75 miliar alias defisiensi modal, dengan total aset Rp121,99 miliar dan total liabilitas Rp129,75 miliar. Karena ekuitas negatif, ambang batas transaksi material dihitung dari 10 persen total aset, yakni Rp12,19 miliar, sehingga utang ke CV Titan sebesar Rp1 miliar atau 0,82 persen dari total aset berada di bawah ambang itu. Perseroan sendiri mengakui bahwa yang berdampak material bukan nilai utang itu, melainkan akibat hukum putusan PKPU yang menjangkau seluruh kewajiban Perseroan.",
+   "Total tagihan yang tercatat untuk keperluan PKPU mencapai Rp132,91 miliar dari 122 kreditur, terdiri dari kreditur preferen Rp8,96 miliar dari 4 kreditur, kreditur separatis Rp70,05 miliar dari 1 kreditur, dan kreditur konkuren Rp53,9 miliar dari 117 kreditur. Selain CV Titan, permohonan PKPU juga mencantumkan kewajiban kepada PT The Master Steel Manufactory sebesar Rp281 juta dan PT Bhirawa Steel sebesar Rp1,396 miliar, yang dicantumkan untuk memenuhi syarat lebih dari satu kreditur dalam pengajuan PKPU. Rapat kreditur pertama telah berlangsung 6 November 2026, batas akhir pengajuan tagihan kreditur adalah 12 November 2026, rapat pencocokan piutang dijadwalkan 26 November 2026, dan rencana perdamaian akan dimintakan persetujuan kreditur pada 8 Desember 2026 sebelum sidang permusyawaratan hakim pada 14 Desember 2026.",
+   "Perseroan juga mengungkapkan bahwa permohonan PKPU sebelumnya, perkara Nomor 169/Pdt.Sus-PKPU/2026/PN.Niaga.Jkt.Pst yang diajukan Mei 2026, telah ditolak pengadilan. Selain itu, Perseroan sedang menjalani proses banding atas perkara perdata Nomor 794/Pdt.G/2025/PN Jkt.Pst dengan PT KA Properti Manajemen sebagai penggugat terkait dugaan wanprestasi, setelah Perseroan dinyatakan kalah di tingkat pertama dan kini perkara berada di Pengadilan Tinggi DKI Jakarta."
+  ],
+  "fotoAdegan": "Stacked steel rebar bundles in an outdoor construction storage yard, overcast sky, a forklift parked in the background",
+  "takeaway": "Laporan ini condong negatif bagi PTDU, karena meski utang pemicu PKPU hanya Rp1 miliar, putusan pengadilan membuat seluruh kewajiban Perseroan senilai Rp132,91 miliar dari 122 kreditur ikut tertahan dan harus diselesaikan lewat rencana perdamaian, sementara ekuitas Perseroan sudah negatif Rp7,75 miliar sejak sebelum kasus ini muncul. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang jadi penyangga kalau bisnis merugi, serta arus kas, yaitu uang tunai yang benar-benar keluar masuk kas perusahaan; kedua pos ini sudah tipis sebelum PKPU dan kini pembayaran ke sebagian besar kreditur ditangguhkan sampai ada kesepakatan damai. Yang perlu dipantau berikutnya adalah batas akhir pengajuan tagihan kreditur pada 12 November 2026, rapat pencocokan piutang pada 26 November 2026, dan yang paling menentukan adalah pemungutan suara kreditur atas rencana perdamaian pada 8 Desember 2026 serta sidang pengesahannya pada 14 Desember 2026, karena hasil itu menentukan apakah Perseroan bisa melanjutkan usaha atau berlanjut ke proses pailit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nfcx-lapor-eksekusi-buyback-pertama-120-000-saham-di-rp1-800",
+  "category": "Aksi Korporasi",
+  "title": "NFCX Lapor Eksekusi [Buyback] Pertama, 120.000 Saham di Rp1.800",
+  "deck": "PT NFC Indonesia Tbk melaporkan ke OJK bahwa pada 10 November 2026 perseroan membeli kembali 120.000 saham di harga Rp1.800 per saham, hari pertama eksekusi setelah rencana buyback direvisi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T19:13:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3467abd790_c2ac03458c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NFCX",
+  "tags": [
+   "NFCX",
+   "buyback",
+   "saham treasuri",
+   "OJK"
+  ],
+  "body": [
+   "PT NFC Indonesia Tbk (NFCX) menyampaikan laporan hasil pelaksanaan pembelian kembali saham (buyback) untuk periode 10 November 2026 kepada Otoritas Jasa Keuangan. Dalam laporan yang diteken Corporate Secretary Inda Ayu Susanty itu, perseroan tercatat membeli 120.000 lembar saham pada harga Rp1.800 per saham, sehingga dana yang keluar pada hari itu sekitar Rp216 juta.",
+   "Laporan ini merujuk pada POJK No. 13/2023 tentang kebijakan menjaga stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan, POJK No. 29/2023 tentang pembelian kembali saham perusahaan terbuka, serta surat perpanjangan kebijakan buyback dari OJK bernomor S-137/D.04/2026. Dasar hukum yang sama memang memberi keleluasaan bagi emiten untuk melakukan buyback tanpa melalui mekanisme RUPS saat pasar sedang bergejolak.",
+   "Transaksi ini terjadi tepat di hari yang sama saat NFCX merevisi rencana buyback-nya menjadi target 49 juta saham hingga Februari 2027, seperti telah diberitakan sebelumnya. Dengan demikian, laporan ini menjadi konfirmasi pertama bahwa eksekusi pembelian di pasar sudah berjalan, meski baru mencakup sebagian kecil dari target tersebut."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district photographed from a busy street at golden hour",
+  "takeaway": "Transaksi ini dibaca netral karena ukurannya kecil, 120.000 saham atau sekitar Rp216 juta, hanya sekitar seperempat persen dari target revisi 49 juta saham hingga Februari 2027, jadi belum bisa jadi sinyal kuat ke arah mana pun. Yang tersentuh adalah jumlah saham beredar dan kas perseroan, karena setiap saham yang dibeli balik akan mengurangi jumlah saham yang diperdagangkan di pasar sekaligus mengurangi uang tunai perusahaan, dan pelaku pasar memperhatikan rasio ini karena semakin sedikit saham beredar, semakin besar porsi laba yang jatuh ke setiap lembar saham yang tersisa. Yang perlu dipantau selanjutnya adalah apakah laju pembelian dipercepat pada laporan-laporan harian berikutnya, mengingat tenggat program ini sampai Februari 2027 dan baru satu hari eksekusi yang dilaporkan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "jelang-nataru-harga-bapok-di-solo-stabil-cabai-masih-mahal",
   "category": "Bisnis",
   "title": "Jelang Nataru, Harga Bapok di Solo [Stabil], Cabai Masih Mahal",
@@ -29,6 +82,84 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Pemantauan ini menunjukkan sebagian besar bahan pokok di Surakarta, seperti bawang merah dan telur ayam, dijual di bawah batas harga yang ditetapkan pemerintah, sementara cabai merah keriting dan cabai rawit merah menembus Rp60.000 per kilogram, jauh melampaui batas itu. Yang terdampak langsung adalah konsumen di Surakarta yang mulai berbelanja menjelang Natal dan Tahun Baru, serta pedagang pasar yang harus menyesuaikan harga jual dengan pasokan yang mereka terima. Karena data ini hanya diambil dari satu pasar dan satu acara pasar murah dalam sehari, polanya belum bisa dibaca sebagai tren nasional, melainkan baru gambaran sesaat di satu kota. Arah yang terlihat sejauh ini adalah pemerintah mengandalkan pasar murah sebagai cara cepat menahan harga, bukan memperbaiki pasokan cabai yang menurut Kementerian Perdagangan masih tertekan faktor musim. Yang akan menunjukkan apakah harga bapok benar-benar terkendali adalah hasil pemantauan serupa di kota lain serta data harga nasional mendekati akhir Desember, saat permintaan Nataru biasanya memuncak.",
   "imageV": "mwani7vm"
+ },
+ {
+  "slug": "kios-panggil-rupslb-kedua-usai-rapat-pertama-gagal-kuorum",
+  "category": "Aksi Korporasi",
+  "title": "KIOS Panggil [RUPSLB] Kedua usai Rapat Pertama Gagal Kuorum",
+  "deck": "Setelah RUPSLB 27 Oktober gagal kuorum, Kioson memanggil rapat kedua 17 November untuk membahas perubahan direksi/komisaris dan penyesuaian KBLI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T18:59:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6ea96c0098_44b6a100b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KIOS",
+  "tags": [
+   "KIOS",
+   "RUPSLB",
+   "tata kelola perusahaan",
+   "perubahan direksi komisaris"
+  ],
+  "body": [
+   "PT Kioson Komersial Indonesia Tbk (KIOS) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua, setelah RUPSLB pertama yang digelar 27 Oktober 2026 gagal mengambil keputusan karena tidak memenuhi syarat kuorum kehadiran sesuai Peraturan OJK Nomor 15/POJK.04/2020. RUPSLB kedua ini akan berlangsung Selasa, 17 November 2026 pukul 14.00 WIB di Axa Tower Lantai 42, Jalan Prof DR Satrio, Kuningan, Jakarta Selatan.",
+   "Dua agenda akan dibawa ke rapat. Pertama, persetujuan perubahan susunan direksi dan/atau dewan komisaris perseroan, namun dokumen pemanggilan ini belum merinci siapa yang akan masuk atau keluar dari jajaran tersebut. Kedua, persetujuan perubahan Pasal 3 Anggaran Dasar Kioson untuk menyesuaikan klasifikasi bidang usaha perseroan dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia (KBLI).",
+   "Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam daftar pemegang saham pada penutupan perdagangan bursa, Senin 16 November 2026. Bagi yang ingin memberikan suara lewat aplikasi eASY.KSEI, batas waktu menyampaikan deklarasi kehadiran, kuasa, atau pilihan suara adalah pukul 12.00 WIB pada 16 November 2026, satu hari kerja sebelum rapat. Perseroan tidak mengirimkan undangan khusus dan tidak menyediakan materi rapat dalam bentuk cetak, seluruh dokumen hanya bisa diunduh lewat situs web Kioson."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a corporate conference hall inside a Jakarta office tower, soft morning light through tall windows",
+  "takeaway": "Laporan ini netral bagi Kioson karena agenda perubahan direksi dan komisaris belum menyebut nama atau arah perubahannya, sementara penyesuaian Pasal 3 Anggaran Dasar soal KBLI hanya mengikuti aturan klasifikasi usaha baru dari BPS, bukan perubahan lini bisnis. Yang tersentuh di sini adalah tata kelola perusahaan, yakni siapa yang nanti duduk di kursi pengambil keputusan strategis, bukan pos keuangan seperti ekuitas atau laba per saham, tapi pasar tetap mencermatinya karena pergantian pengurus bisa mengubah arah kebijakan perusahaan ke depan. Gagalnya kuorum pada RUPSLB pertama juga menunjukkan rendahnya partisipasi pemegang saham publik dalam rapat sebelumnya. Yang perlu dipantau adalah apakah RUPSLB kedua pada 17 November 2026 ini berhasil mencapai kuorum dan menghasilkan keputusan sah, termasuk nama-nama direksi atau komisaris baru yang akan diumumkan dalam hasil rapat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bmhs-jadwalkan-rupslb-pada-17-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "BMHS Jadwalkan [RUPSLB] pada 17 Desember 2026",
+  "deck": "Bundamedik (BMHS) mengumumkan rencana RUPSLB 17 Desember 2026, dengan batas pencatatan pemegang saham pada 24 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T18:18:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f6e8fce8f_06a974b786.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMHS",
+  "tags": [
+   "BMHS",
+   "RUPSLB",
+   "Bundamedik",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bundamedik Tbk (BMHS) mengumumkan rencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 17 Desember 2026 pukul 10.00 WIB di Auditorium BMHS-Diagnos Tower. Agenda lengkap rapat belum diumumkan dalam surat ini. Perseroan menyebut pemanggilan resmi yang memuat mata acara rapat baru akan diterbitkan pada 25 November 2026 melalui situs Bursa Efek Indonesia, situs perseroan sendiri, dan situs Kustodian Sentral Efek Indonesia (KSEI) atau aplikasi eASY.KSEI.",
+   "Pemegang saham yang berhak hadir dan memberi suara dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan atau pemegang saham dalam penitipan kolektif di KSEI sampai dengan 24 November 2026 pukul 16.00 WIB. Bagi pemegang saham yang ingin mengusulkan mata acara rapat, usulan tertulis harus disampaikan kepada Direksi paling lambat tujuh hari sebelum tanggal pemanggilan, yakni sekitar 18 November 2026, dan harus memenuhi syarat kepemilikan yang diatur dalam Anggaran Dasar Perseroan serta POJK No. 15/2020.",
+   "Rapat akan digelar secara fisik dengan kapasitas terbatas sekaligus secara elektronik. Perseroan menganjurkan pemegang saham hadir dan memberi suara lewat Electronic General Meeting System atau eASY.KSEI, atau memberikan kuasa elektronik (e-proxy) melalui eASY.KSEI kepada PT Datindo Entrycom selaku Biro Administrasi Efek yang juga ditunjuk sebagai penerima kuasa independen. Surat pemberitahuan ini ditandatangani oleh Corporate Secretary BMHS, Josephine Tobing, pada 10 November 2026."
+  ],
+  "fotoAdegan": "Exterior view of a modern multi-story hospital building in Jakarta, parked cars in the foreground, soft midday sunlight.",
+  "takeaway": "Laporan ini netral bagi BMHS karena isinya baru pemberitahuan rencana RUPSLB, sementara mata acara yang sebenarnya akan dibahas belum diumumkan sehingga belum ada dasar untuk menilai arahnya. Karena agenda resmi belum terbuka, pasar juga belum bisa menilai pos kinerja mana yang akan tersentuh, misalnya jumlah saham beredar kalau nanti agendanya soal penerbitan saham baru, atau arus kas kalau agendanya soal dividen atau pendanaan, semua itu baru terlihat setelah pemanggilan resmi keluar. Yang perlu dipantau pemegang saham adalah pemanggilan resmi pada 25 November 2026 yang akan memuat agenda lengkap, tenggat pengajuan usul mata acara oleh pemegang saham sekitar 18 November 2026, dan batas pencatatan pemegang saham pada 24 November 2026 pukul 16.00 WIB bagi yang ingin punya hak suara di rapat 17 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "iiff-catatkan-obligasi-rp1-7-triliun-di-bei-mulai-11-november",
+  "category": "Aksi Korporasi",
+  "title": "IIFF Catatkan [Obligasi] Rp1,7 Triliun di BEI Mulai 11 November",
+  "deck": "Tiga seri obligasi IIFF senilai total Rp1,7 triliun resmi dicatatkan di BEI pada 11 November 2026, berbunga 7,2 hingga 7,6 persen per tahun dengan peringkat AAA dari Fitch.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T18:08:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0dbbb98241_0ec4e236c5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IIFF",
+  "tags": [
+   "IIFF",
+   "obligasi",
+   "BEI",
+   "pasar modal"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan awal Obligasi Berkelanjutan III Indonesia Infrastructure Finance Tahap II Tahun 2026 milik emiten berkode IIFF, efektif mulai 11 November 2026. Obligasi ini terdiri dari tiga seri dengan total pokok Rp1,7 triliun, wali amanat PT Bank CIMB Niaga Tbk, dan peringkat AAA(idn) dari Fitch Ratings Indonesia, peringkat tertinggi yang menandakan risiko gagal bayar dinilai sangat rendah oleh lembaga pemeringkat.",
+   "Rinciannya, Seri A senilai Rp1,18 triliun berbunga tetap 7,20 persen per tahun dengan jangka waktu 370 hari sejak tanggal emisi dan jatuh tempo 20 November 2027. Seri B senilai Rp157,105 miliar berbunga 7,40 persen per tahun, bertenor tiga tahun hingga jatuh tempo 10 November 2029. Seri C senilai Rp361,93 miliar berbunga 7,60 persen per tahun, bertenor lima tahun hingga jatuh tempo 10 November 2031. Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama dijadwalkan 10 Februari 2027, sementara pelunasan pokok dilakukan sekaligus penuh pada masing-masing tanggal jatuh tempo.",
+   "Obligasi ini tidak memiliki jaminan khusus, tetapi dijamin dengan seluruh harta kekayaan perseroan tanpa hak istimewa dibanding kreditur lain. Perseroan baru bisa membeli kembali sebagian atau seluruh obligasi setelah satu tahun dari tanggal penjatahan. Penerbitan ini merupakan tahap kedua dari rencana penawaran umum berkelanjutan senilai total Rp6 triliun, setelah tahap pertama senilai Rp432,585 miliar diterbitkan lebih dulu pada 2026."
+  ],
+  "fotoAdegan": "Elevated toll road construction with cranes against a hazy skyline, workers in safety vests inspecting rebar at dawn",
+  "takeaway": "Laporan ini netral bagi IIFF, karena pencatatan di bursa hanyalah tahap administratif terakhir dari penerbitan obligasi yang jumlah dan bunganya sudah diumumkan lebih dulu, tidak ada informasi baru yang mengubah gambaran keuangan perusahaan. Yang tersentuh adalah pos surat utang yang diterbitkan, sebab pokok Rp1,7 triliun ini menambah kewajiban IIFF yang harus dibayar bunganya setiap tiga bulan dan dilunasi penuh saat jatuh tempo, mulai seri A pada akhir 2027 hingga seri C pada 2031, sehingga menambah beban bunga sekaligus dana segar yang bisa disalurkan lagi sebagai pembiayaan proyek infrastruktur, bisnis utama perusahaan. Yang perlu dipantau berikutnya adalah pembayaran bunga pertama pada 10 Februari 2027 sebagai bukti awal kemampuan perusahaan memenuhi jadwal, serta kelanjutan tahap berikutnya dari program obligasi berkelanjutan senilai Rp6 triliun ini, mengingat baru sekitar Rp2,13 triliun yang sudah dicairkan lewat tahap I dan II.",
+  "sentimen": "netral"
  },
  {
   "slug": "skbm-jadwalkan-pembayaran-dividen-interim-30-november",
@@ -538,6 +669,82 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "bike-koreksi-lagi-akuisisi-tambang-batu-bara-86-juta-ton",
+  "category": "Aksi Korporasi",
+  "title": "BIKE [Koreksi] Lagi, Akuisisi Tambang Batu Bara 86 Juta Ton",
+  "deck": "Anak usaha BIKE, PT Prambanan Nusantara Energi, akuisisi 45% saham tambang batu bara PT Sumber Bara Abadi seluas 4.909 hektare, lewat koreksi laporan ketiga BIKE dalam sebulan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:00:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5f8916bedc_444122f051.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi tambang",
+   "koreksi laporan",
+   "batu bara"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) kembali mengoreksi laporan keterbukaan informasinya terkait akuisisi tambang batu bara. Surat terbaru bernomor 2026/276R1/X/BIKE/MK yang diteken Corporate Secretary Winston Mulyadi pada 10 November 2026 pukul 16.00 ini mengoreksi surat sebelumnya bernomor 2026/276R/X/BIKE/MK tanggal 12 Oktober 2026. Isinya menegaskan bahwa PT Prambanan Nusantara Energi (PNE) telah mengakuisisi 45 persen saham PT Sumber Bara Abadi (SBA) pada 8 Oktober 2026.",
+   "Lampiran pendukung yang disertakan mengungkap rincian yang sebelumnya belum lengkap. Pertama, soal struktur kepemilikan: PNE bukan anak usaha langsung BIKE, melainkan anak usaha PT Fahreza Duta Perkasa (FDP), yang merupakan anak usaha PT Fahreza Bumi Mega (FBM), dan FBM baru merupakan anak usaha BIKE. Artinya PNE berada tiga lapis di bawah BIKE. Kedua, soal aset yang dibeli: SBA memegang Izin Usaha Pertambangan (IUP) Operasi Produksi dengan nomor SK 64/1/IUP/PMA/2017, mencakup wilayah tambang seluas 4.909 hektare di Kecamatan Sebulu dan Muara Kaman, Kabupaten Kutai Kartanegara, Kalimantan Timur, dengan salah satu lokasi aktivitas di Desa Manunggal Daya, Sebulu.",
+   "BIKE memproyeksikan cadangan batu bara di tambang itu sekitar 86 juta metrik ton, dengan target produksi rata-rata 2 juta metrik ton per tahun pada 2027 dan naik menjadi 4 juta metrik ton per tahun mulai 2029. Perseroan memperkirakan pendapatan dari tambang ini mencapai US$84 juta. Akuisisi 45 persen saham ini juga mencakup fasilitas pelabuhan, inventaris conveyor belt, kantor, dan peralatan operasional lainnya. Surat penjelasan rinci ini sendiri bertanggal 28 Oktober 2026, diteken Direktur I Muhamad Kuswandi, dengan tembusan kepada Komisaris Utama BIKE, Sendi."
+  ],
+  "fotoAdegan": "Coal conveyor belt running from an open-pit mine stockpile toward a river barge dock in East Kalimantan, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi BIKE, bukan karena akuisisinya, tapi karena ini sudah koreksi ketiga dalam waktu kurang dari sebulan untuk kelompok transaksi akuisisi yang sama, dan kali ini baru terungkap bahwa PNE ternyata bukan anak usaha langsung BIKE melainkan cucu-cicit perusahaan lewat FBM dan FDP. Pos yang tersentuh adalah kualitas laporan keuangan konsolidasi, karena struktur anak usaha berjenjang seperti ini membuat kontribusi aset dan utang tambang ke laporan keuangan BIKE lebih sulit dilacak publik, apalagi ekuitas BIKE belakangan sudah bolak-balik positif-negatif akibat revisi berturutan. Investor juga perlu mencermati proyeksi pendapatan US$84 juta dari tambang ini, sebab itu baru target, bukan hasil aktual. Yang perlu dipantau berikutnya adalah RUPSI dan RUPSLB BIKE yang dijadwalkan 11 Desember 2026, serta apakah laporan keuangan periode mendatang benar-benar mengonsolidasikan kontribusi PT Sumber Bara Abadi sesuai jadwal produksi 2027 yang disebutkan di surat ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "raja-catatkan-obligasi-dan-sukuk-rp1-2-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Catatkan [Obligasi] dan Sukuk Rp1,2 Triliun di BEI",
+  "deck": "Rukun Raharja mencatatkan obligasi dan sukuk wakalah tahap I senilai total Rp1,2 triliun di BEI mulai 11 November 2026, dengan kupon 8,5-9 persen dan tenor tiga sampai lima tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T15:56:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c4a51afa6c_4bcd947a80.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAJA",
+  "tags": [
+   "RAJA",
+   "obligasi korporasi",
+   "sukuk wakalah",
+   "BEI"
+  ],
+  "body": [
+   "PT Rukun Raharja Tbk (RAJA) mulai mencatatkan Obligasi Berkelanjutan I Tahap I Tahun 2026 dan Sukuk Wakalah Berkelanjutan I Tahap I Tahun 2026 di Bursa Efek Indonesia pada 11 November 2026, berdasarkan pengumuman BEI bernomor Peng-P-01222/BEI.PP2/11-2026. Obligasi ini memiliki pokok Rp1,0072 triliun dan sukuk wakalah Rp192,8 miliar, sehingga total dana yang diserap pada tahap ini sekitar Rp1,2 triliun. PT Bank Rakyat Indonesia (Persero) Tbk bertindak sebagai wali amanat, dan Pefindo memberi rating idA+ untuk obligasi serta idA+(sy) untuk sukuk wakalah.",
+   "Obligasi terbagi dua seri. Seri A senilai Rp829,515 miliar berbunga tetap 8,50 persen per tahun dengan tenor tiga tahun, jatuh tempo 10 November 2029. Seri B senilai Rp177,685 miliar berbunga 9,00 persen per tahun dengan tenor lima tahun, jatuh tempo 10 November 2031. Sukuk wakalah juga dua seri dengan skema sejenis, yakni Seri A Rp182,78 miliar dengan target imbal hasil 8,50 persen jatuh tempo 2029, dan Seri B Rp10,02 miliar dengan target imbal hasil 9,00 persen jatuh tempo 2031. Bunga dan imbal hasil dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 10 Februari 2027, sedangkan pelunasan pokok dilakukan sekaligus secara penuh pada tanggal jatuh tempo masing-masing seri.",
+   "Penerbitan ini adalah tahap pertama dari program penawaran umum berkelanjutan yang lebih besar, dengan target total obligasi Rp1,5 triliun dan sukuk wakalah Rp1,3 triliun dalam beberapa tahap. Pada tahap I ini, dana obligasi yang terserap sebesar 80,6 persen dari pagu maksimum Rp1,25 triliun, sementara sukuk wakalah baru terserap 64,3 persen dari pagu maksimum Rp300 miliar. Penjamin pelaksana emisi obligasi adalah PT Henan Putihrai Sekuritas, PT Indo Premier Sekuritas, PT KB Valbury Sekuritas, PT Sucor Sekuritas, dan PT Trimegah Sekuritas Indonesia Tbk, sedangkan penjaminan sukuk wakalah melibatkan empat perusahaan yang sama tanpa KB Valbury. Surat utang dan sukuk ini tidak memiliki jaminan khusus, melainkan dijamin dengan seluruh harta kekayaan perseroan, dan perseroan berhak membeli kembali sebagian atau seluruh obligasi maupun sukuk mulai satu tahun setelah tanggal penjatahan, yaitu 6 November 2027. Dokumen prospektus menyebut risiko utama perseroan adalah ketergantungan terhadap perusahaan anak."
+  ],
+  "fotoAdegan": "Rows of industrial gas pipelines and valves at a distribution terminal, technician in hard hat checking equipment, overcast afternoon light",
+  "takeaway": "Kami menilai laporan ini netral bagi RAJA karena penerbitan surat utang ini sudah terjadwal sejak pendaftaran ke OJK pada Juli 2026 dan bukan keputusan mendadak, sementara penyerapan dana tidak sampai memenuhi pagu maksimum, terutama sukuk wakalah yang baru terisi 64 persen dari jatah tahap ini. Yang tersentuh adalah arus kas, karena dana segar sekitar Rp1,2 triliun masuk ke kas perusahaan, tetapi di sisi lain beban bunga tahunan perseroan bertambah sekitar Rp103 miliar karena harus membayar kupon 8,5 sampai 9 persen setiap tiga bulan sampai obligasi dan sukuk ini lunas pada 2029 dan 2031. Utang perseroan juga bertambah sebesar nilai pokok yang diterbitkan, sehingga rasio utang terhadap modal perlu dicermati pada laporan keuangan berikutnya. Yang perlu dipantau selanjutnya adalah pembayaran bunga dan imbal hasil pertama pada 10 Februari 2027, laporan realisasi penggunaan dana hasil penawaran umum yang wajib disampaikan perseroan, serta kemungkinan penerbitan tahap II dari program yang sama yang menurut prospektus akan ditentukan kemudian.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtfn-bidik-rampungkan-divestasi-3-anak-usaha-awal-2027",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Bidik Rampungkan [Divestasi] 3 Anak Usaha Awal 2027",
+  "deck": "Dalam public expose tahunan, manajemen MTFN memaparkan rencana divestasi tiga anak usaha rampung kuartal I 2027 di tengah ekuitas negatif Rp538,7 miliar, sambil mengklaim margin usaha membaik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T15:38:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bef433d300_b724233ec2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTFN",
+  "tags": [
+   "MTFN"
+  ],
+  "body": [
+   "Capitalinc Investment Tbk (MTFN) menggelar Public Expose Tahunan pada Jumat, 6 November 2026, pukul 11.00 hingga 11.40 WIB, di Kantor Taman E3.3, Kuningan, Jakarta Selatan. Acara ini dihadiri oleh Presiden Komisaris Nicholas J. Whittle, Presiden Direktur Rizal Fadjar Bamahry, Direktur Khaerudin, dan Corporate Secretary Gideon Tampubolon, dengan 17 peserta publik dan media di luar jajaran manajemen dan karyawan perusahaan.",
+   "Dalam sesi tanya jawab, manajemen membuka data defisiensi modal yang terus membesar setiap tahun, yaitu Rp404,9 miliar pada akhir 2023, Rp499,1 miliar pada akhir 2024, dan Rp538,7 miliar pada akhir 2025. Per akhir 2025, total liabilitas perusahaan tercatat Rp921,7 miliar, jauh melampaui total asetnya yang hanya Rp382,9 miliar. Manajemen menyebut sebagian liabilitas itu melekat pada entitas anak yang sudah lama tidak beroperasi secara komersial dan telah diklasifikasikan sebagai aset yang dimiliki untuk dijual. Di sisi lain, rugi bersih tahunan tercatat menyempit dari Rp87,6 miliar menjadi Rp31,8 miliar pada 2025, dengan marjin laba kotor naik dari 2,4% menjadi 5,6% serta beban pemasaran turun dari Rp22,6 miliar menjadi Rp7,7 miliar, hasil dari restrukturisasi jaringan logistik gas pada anak usaha IKD.",
+   "Manajemen menjelaskan tiga langkah paralel untuk memulihkan ekuitas: menghentikan sumber kerugian lewat efisiensi operasional IKD, membereskan struktur neraca lewat divestasi tiga entitas anak nonoperasional, Greenstar Assets Limited, PT Cahaya Batu Raja Blok, dan PT Kutai Etam Petroleum, yang pada 2025 hanya menyumbang rugi Rp0,7 miliar, serta memperkuat permodalan lewat percepatan penagihan piutang, penjajakan fasilitas kredit tambahan, dan penjajakan kemitraan ekuitas strategis yang disebut masih dalam tahap diskusi awal. Presiden Komisaris Nicholas J. Whittle menyatakan keyakinan di atas 95% bahwa proses divestasi dapat dituntaskan pada kuartal I 2027, dengan tetap memperhatikan ketentuan dan prosedur yang berlaku termasuk peraturan Otoritas Jasa Keuangan. Manajemen juga menegaskan belum bisa memproyeksikan titik impas (break even point) pada kuartal III 2026 karena kerugian saat ini masih merupakan akumulasi dari tahun-tahun sebelumnya.",
+   "Soal operasional, Corporate Secretary Gideon Tampubolon menjelaskan IKD saat ini beroperasi di Jawa Timur dengan pasokan gas dari Kagean sebesar 12 MSCF yang disalurkan ke konsumen di Rembang, Pasuruan, dan Wunut. Sekitar 50% penjualan gas IKD saat ini disalurkan lewat perusahaan CNG yang menjual kembali ke konsumen akhir, skema yang membuat pembayaran ke IKD kerap tertunda karena bergantung pada arus kas konsumen akhir. Untuk memperbaiki arus kas, IKD akan mengalihkan fokus penjualan ke konsumen industri seperti pabrik melalui skema penjualan langsung."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Paparan publik ini saya nilai netral bagi penilaian fundamental MTFN, karena dua sinyal yang bertolak belakang muncul bersamaan: defisit ekuitas malah terus membesar menjadi Rp538,7 miliar pada akhir 2025, tapi laju kerugian tahunan justru mengecil dan margin usaha membaik. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, dan di sini ekuitas negatif berarti utang MTFN (Rp921,7 miliar) jauh lebih besar dari asetnya (Rp382,9 miliar) sehingga secara teknis kewajiban perusahaan melebihi kekayaannya. Marjin laba kotor yang naik dari 2,4% menjadi 5,6% menunjukkan setiap rupiah penjualan menyisakan lebih banyak laba sebelum biaya lain, dan ini salah satu alasan rugi bersih ikut turun dari Rp87,6 miliar menjadi Rp31,8 miliar. Yang perlu dipantau berikutnya adalah penuntasan divestasi tiga anak usaha nonoperasional, Greenstar Assets Limited, PT Cahaya Batu Raja Blok, dan PT Kutai Etam Petroleum, yang ditargetkan manajemen rampung pada kuartal I 2027 dengan tingkat keyakinan di atas 95%, karena hasilnya akan menentukan apakah struktur neraca perusahaan bisa membaik dan suspensi saham MTFN berpotensi dicabut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "heli-terbitkan-83-3-juta-saham-baru-tanpa-hmetd-danai-pear",
   "category": "Aksi Korporasi",
   "title": "HELI Terbitkan [83,3 Juta] Saham Baru Tanpa HMETD, Danai PEAR",
@@ -612,6 +819,31 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Wide shot of a coal export terminal with conveyor belts and stacked coal piles, heavy machinery in the distance, overcast sky",
   "takeaway": "Laporan ini netral bagi fundamental Alamtri Resources, karena transaksinya hanya memindahkan kepemilikan dari satu pemegang saham ke empat pemegang saham lain lewat pasar sekunder, bukan penerbitan saham baru atau suntikan dana ke kas perusahaan. Tidak ada pos keuangan perseroan yang tersentuh, ekuitas, kas, dan jumlah saham beredar ADRO tidak berubah sama sekali, yang bergeser hanyalah hak suara, dari yang sebelumnya terkonsentrasi di satu entitas pemilik 48,77 persen menjadi terbagi ke empat entitas dengan porsi masing-masing 9 sampai 14,6 persen. Yang perlu dipantau berikutnya adalah apakah pembagian kepemilikan ke empat pihak ini nantinya diikuti perubahan susunan direksi atau komisaris lewat rapat umum pemegang saham, atau ada keterbukaan lanjutan soal siapa yang bertindak sebagai pengendali bersama, mengingat perusahaan sendiri menegaskan transaksi 10 November 2026 ini tidak mengubah status pengendalian.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aadi-asi-alihkan-41-1-saham-ke-empat-pihak-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "AADI: ASI Alihkan 41,1% Saham ke Empat Pihak [Afiliasi]",
+  "deck": "PT Adaro Strategic Investments mengalihkan seluruh 41,0965% sahamnya di AADI ke empat perusahaan lewat pasar negosiasi BEI, tanpa mengubah pengendalian perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T14:57:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d65008db0_e32df9f752.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AADI",
+  "tags": [
+   "AADI",
+   "Adaro Andalan Indonesia",
+   "pengalihan saham",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Adaro Andalan Indonesia Tbk (AADI) menyampaikan bahwa pemegang sahamnya, PT Adaro Strategic Investments (ASI), telah mengalihkan seluruh kepemilikan sahamnya di perseroan sebesar 41,0965% kepada empat pihak pada 10 November 2026 melalui Pasar Negosiasi di Bursa Efek Indonesia. Keempat penerima saham itu adalah PT Trinugraha Thohir yang menerima 7,6987%, PT Saratoga Investama Sedaya Tbk yang menerima 10,7676%, PT Persada Capital Investama yang menerima 10,3023%, dan PT Triputra Investindo Arya yang menerima 12,3279%.",
+   "Dalam keterbukaan yang ditandatangani Corporate Secretary AADI, Ray Aryaputra, perseroan menegaskan bahwa pengalihan saham tersebut tidak mengakibatkan perubahan pengendalian atas AADI. Perseroan juga menyatakan tidak ada dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha akibat transaksi ini."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise office tower in Jakarta's business district, street traffic passing by at dusk",
+  "takeaway": "Kami menilai transaksi ini netral bagi AADI, karena sifatnya memindahkan saham yang sama dari satu entitas ke empat entitas lain tanpa ada dana segar yang masuk ke kas perusahaan dan tanpa mengubah siapa pengendali perseroan. Yang bergeser di sini hanya struktur hak suara di belakang 41 persen saham itu, dari satu pemegang menjadi empat pemegang terpisah, dan pelaku pasar mencermati hal ini karena menentukan siapa punya suara besar di rapat pemegang saham serta seberapa terkonsentrasi kendali perusahaan, bukan karena ada perubahan aset atau kinerja keuangan. Yang perlu dipantau berikutnya adalah apakah keempat penerima saham ini akan menyampaikan laporan kepemilikan saham masing-masing secara terbuka, sebab dokumen ini sendiri tidak mencantumkan agenda RUPS atau tenggat lanjutan terkait transaksi tersebut.",
   "sentimen": "netral"
  },
  {
@@ -1378,6 +1610,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "boss-panggil-rups-kedua-16-november-agenda-3-tahun-buku",
+  "category": "Aksi Korporasi",
+  "title": "BOSS Panggil RUPS [Kedua] 16 November, Agenda 3 Tahun Buku",
+  "deck": "Setelah rapat pertama gagal kuorum, BOSS memanggil RUPST dan RUPSLB kedua pada 16 November 2026 untuk meratifikasi laporan tiga tahun buku sekaligus dan menyesuaikan anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T05:05:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c206fdd991_4b34d9d1db.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOSS",
+  "tags": [
+   "BOSS",
+   "RUPS",
+   "Tata Kelola",
+   "Batu Bara"
+  ],
+  "body": [
+   "PT Borneo Olah Sarana Sukses Tbk (BOSS) resmi memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku 2023, 2024, dan 2025 sekaligus Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua, setelah rapat pertama pada 4 November 2026 gagal mencapai kuorum. Rapat kedua ini akan digelar pada Senin, 16 November 2026, pukul 10.00 WIB di Wisma 77 Tower 1, Jalan Letjen S. Parman, Slipi, Jakarta Barat. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 6 November 2026 pukul 16.00 WIB.",
+   "Dalam RUPST, Direksi BOSS mengajukan lima agenda sekaligus: ratifikasi keterlambatan pelaksanaan RUPS Tahunan untuk tahun buku 2023, 2024, dan 2025, pengesahan laporan tahunan dan laporan keuangan untuk ketiga tahun buku tersebut disertai pembebasan tanggung jawab bagi Dewan Komisaris dan Direksi, penetapan penggunaan laba perusahaan untuk ketiga tahun buku itu, penunjukan akuntan publik dan kantor akuntan publik untuk mengaudit tahun buku 2026, serta penetapan honorarium dan tunjangan bagi Dewan Komisaris dan Direksi. Sementara dalam RUPSLB, agenda tunggal yang diajukan adalah persetujuan penyesuaian anggaran dasar perusahaan mengikuti Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025.",
+   "Perseroan menyebutkan bahwa pemegang saham yang ingin mengusulkan mata acara tambahan harus mewakili minimal sepertiga saham berhak suara untuk RUPST dan tiga per lima untuk RUPSLB, dan pengajuan tersebut semestinya disampaikan secara tertulis kepada Direksi paling lambat 6 November 2026, tujuh hari sebelum tanggal panggilan rapat. Panggilan kedua ini menyusul kegagalan rapat pertama, yang menurut laporan sebelumnya hanya dihadiri 33,33 persen pemegang saham untuk RUPST dan 35,95 persen untuk RUPSLB, jauh dari ambang kuorum yang disyaratkan."
+  ],
+  "fotoAdegan": "An idle open-pit coal mining site with parked heavy equipment under an overcast sky in Kalimantan",
+  "takeaway": "Laporan ini condong negatif bagi BOSS, karena perusahaan harus meratifikasi keterlambatan RUPS Tahunan untuk tiga tahun buku sekaligus, yakni 2023, 2024, dan 2025, pertanda tata kelola dan pelaporan keuangan perusahaan tersendat cukup lama. Pos yang tersentuh adalah ekuitas pemegang saham, karena laporan keuangan tiga tahun yang baru akan disahkan sekaligus itu, berdasarkan pemberitaan kami sebelumnya, memperlihatkan defisit modal yang terus melebar, artinya utang perusahaan sudah melampaui nilai asetnya. Pengesahan laporan itu juga disertai pembebasan tanggung jawab bagi Direksi dan Komisaris atas kinerja selama periode tersebut, sehingga pemegang saham perlu mencermati apakah persetujuan itu diberikan tanpa keberatan. Yang perlu dipantau berikutnya adalah apakah rapat kedua pada 16 November 2026 ini akhirnya mencapai kuorum, mengingat rapat pertama pada 4 November hanya dihadiri sekitar sepertiga pemegang saham, jauh dari syarat yang ditentukan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bei-resmi-delisting-saham-sril-mulai-10-november-2026",
   "category": "Aksi Korporasi",
   "title": "BEI Resmi [Delisting] Saham SRIL Mulai 10 November 2026",
@@ -1849,6 +2107,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "indy-tanggapi-permintaan-bursa-soal-sengketa-lahan-masmindo",
+  "category": "Aksi Korporasi",
+  "title": "INDY Tanggapi Permintaan Bursa soal Sengketa Lahan [Masmindo]",
+  "deck": "Indika Energy menjawab permintaan penjelasan BEI soal pemberitaan sengketa lahan anak usahanya, PT Masmindo Dwi Area, di Luwu, namun belum memberi penjelasan substantif dan masih menghimpun data.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T21:42:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/143f104478_cb7b54aa6b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDY",
+  "tags": [
+   "INDY",
+   "Indika Energy",
+   "Masmindo Dwi Area",
+   "sengketa lahan"
+  ],
+  "body": [
+   "PT Indika Energy Tbk (INDY) merespons surat Bursa Efek Indonesia No. S-13918/BEI.PP1/11-2026 tertanggal 6 November 2026 yang meminta penjelasan terkait pemberitaan media online Simpul Indonesia pada 31 Oktober 2026 berjudul 'Polda Sulsel Terbitkan SP2HP Aduan Lahan PT Masmindo Dwi Area di Luwu, Pelapor Minta Penanganan Transparan'. Dalam surat tanggapan bernomor 091/IE/SEC/LET/XI/2026 yang diteken Corporate Secretary Adi Pramono pada 9 November 2026, INDY menyatakan telah menerima surat permintaan Bursa tersebut.",
+   "Namun, INDY belum memberikan penjelasan substantif atas isi pemberitaan itu. Perusahaan hanya menyampaikan bahwa pihaknya saat ini sedang berkoordinasi dengan entitas anak usahanya, PT Masmindo Dwi Area, untuk menghimpun informasi yang lengkap dan akurat, dan berjanji akan menyampaikan penjelasan atas permintaan Bursa dalam waktu dekat tanpa menyebut tanggal pasti. Pemberitaan yang dirujuk Bursa sendiri menyangkut penerbitan Surat Pemberitahuan Perkembangan Hasil Penyidikan (SP2HP) oleh Kepolisian Daerah Sulawesi Selatan atas aduan lahan yang melibatkan Masmindo Dwi Area di Luwu, dengan pelapor meminta penanganan yang transparan.",
+   "Surat tanggapan ini ditembuskan kepada Kepala Eksekutif Pengawas Pasar Modal Otoritas Jasa Keuangan dan jajaran Direksi PT Indika Energy Tbk, menandakan isu ini turut dipantau oleh regulator pasar modal."
+  ],
+  "fotoAdegan": "Wide shot of a tropical hillside mining area in South Sulawesi with heavy equipment and cleared earth tracks, overcast sky, no visible signage",
+  "takeaway": "Laporan ini cenderung negatif bagi INDY karena mengonfirmasi adanya sengketa hukum atas lahan di anak usaha tambangnya, Masmindo Dwi Area, yang sampai melibatkan proses kepolisian, sementara perusahaan sendiri belum bisa menjelaskan duduk perkaranya meski sudah diminta resmi oleh Bursa. Sengketa lahan yang berkepanjangan di lokasi tambang berpotensi mengganggu operasional dan arus kas anak usaha, yaitu uang kas yang benar-benar masuk dan keluar dari kegiatan usaha, karena kegiatan pertambangan bisa tersendat jika status lahan belum jelas secara hukum. Yang perlu dipantau selanjutnya adalah penjelasan lengkap yang dijanjikan INDY kepada Bursa, termasuk kapan penjelasan itu benar-benar disampaikan dan apakah berisi rincian soal status aduan serta langkah penyelesaiannya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "wbsa-catat-laba-9m26-turun-55-meski-pendapatan-naik-31",
   "category": "Aksi Korporasi",
   "title": "WBSA Catat [Laba] 9M26 Turun 55% Meski Pendapatan Naik 31%",
@@ -2006,6 +2290,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers monitoring large rolls of brown kraft paper stacked inside an industrial pulp mill warehouse, cranes overhead, dim morning light",
   "takeaway": "Laporan ini kami nilai negatif bagi OPPM karena obligasi yang akhirnya terserap jauh lebih kecil dari rencana: hanya sekitar 34 persen dari target rupiah dan 13 persen dari target dolar, yang mengindikasikan minat investor terhadap surat utang ini lebih rendah dari perkiraan awal perusahaan. Yang tersentuh adalah beban bunga dan arus kas pendanaan: dengan bunga tetap 10 hingga 10,5 persen untuk obligasi rupiah dan 6,75 hingga 7,25 persen untuk obligasi dolar, OPPM akan menanggung kewajiban bunga setiap tiga bulan sampai obligasi lunas, sementara dana yang masuk dari penerbitan ini tercatat sebagai arus kas dari aktivitas pendanaan yang menambah utang perusahaan meski dalam jumlah lebih kecil dari target semula. Yang perlu dipantau selanjutnya adalah pembayaran bunga pertama pada 12 Februari 2027, serta jatuh tempo pelunasan pokok pada 12 November 2029 untuk Seri A dan 12 November 2031 untuk Seri B, baik untuk obligasi rupiah maupun dolar.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-jadwalkan-rupsu-sukuk-buntut-gagal-bayar-kupon",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jadwalkan RUPSU Sukuk Buntut [Gagal Bayar] Kupon",
+  "deck": "WIKA akan menggelar rapat pemegang Sukuk Mudharabah Berkelanjutan II Tahap I 2021 pada 7 Desember 2026, menyusul suspensi saham dan penurunan rating ke status default.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T20:04:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ee64b41969_b7e3d88639.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk mengumumkan rencana menggelar Rapat Umum Pemegang Sukuk (RUPSU) untuk Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap I Tahun 2021. Rapat dijadwalkan Senin, 7 Desember 2026, pukul 14.00 WIB, bertempat di WIKA Tower 2, Jakarta. Pengumuman ini diterbitkan dan ditandatangani oleh Corporate Secretary WIKA, Ngatemin, pada 9 November 2026.",
+   "PT Bank Mega Tbk, yang bertindak sebagai wali amanat sukuk berdasarkan Akta Perjanjian Perwaliamanatan tanggal 2 Juli 2021, menyatakan bahwa panggilan resmi RUPSU beserta agenda rapatnya akan dimuat di satu surat kabar harian nasional pada Senin, 23 November 2026. Ini mengikuti ketentuan Peraturan OJK No. 20/POJK.04/2020 tentang Kontrak Perwaliamanatan Efek Bersifat Utang dan/atau Sukuk. Dalam dokumen pemberitahuan awal ini, agenda rapat belum dicantumkan dan masih ditulis kosong.",
+   "Rencana RUPSU ini muncul tak lama setelah rangkaian masalah kredit WIKA mencuat. Bursa Efek Indonesia menyuspensi perdagangan saham WIKA sejak 3 November 2026 karena perseroan gagal membayar kupon obligasi, lembaga pemeringkat PEFINDO menurunkan peringkat obligasi WIKA ke level idD atau gagal bayar pada 6 November 2026, dan anak usaha konstruksinya, WIKON, digugat permohonan pailit sementara (PKPU) oleh salah satu kreditur pada 5 November 2026."
+  ],
+  "fotoAdegan": "Exterior of a grey high-rise office tower with construction cranes in the background under an overcast Jakarta sky",
+  "takeaway": "Laporan ini condong negatif bagi WIKA karena digelarnya RUPSU untuk instrumen sukuk ini bukan kebetulan, melainkan langkah lanjutan dari rangkaian gagal bayar kupon obligasi dan penurunan peringkat ke status default yang terjadi awal November ini. Yang tersentuh adalah arus kas perseroan, yaitu kemampuan WIKA menyediakan uang tunai untuk membayar kewajiban jatuh tempo ke pemegang surat utang, yang menjadi perhatian utama pasar ketika sebuah emiten mulai gagal bayar berulang. Yang perlu dipantau berikutnya adalah isi panggilan resmi RUPSU yang akan dimuat di media nasional pada 23 November 2026, karena dokumen itu baru akan mengungkap agenda sebenarnya, apakah soal restrukturisasi jadwal bayar atau opsi lain bagi pemegang sukuk, sebelum keputusan diambil dalam rapat pada 7 Desember 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-terbitkan-panggilan-resmi-rupsu-sukuk-ke-pemegang",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Terbitkan Panggilan Resmi [RUPSU] Sukuk ke Pemegang",
+  "deck": "Bank Mega sebagai wali amanat akan memuat panggilan RUPSU sukuk WIKA di koran nasional pada 23 November, menjelang rapat pemegang sukuk pada 9 Desember terkait gagal bayar kupon.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T20:02:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c1c81fb8c1_f12c929322.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk, melalui Corporate Secretary Ngatemin, menyampaikan pemberitahuan rencana penyelenggaraan Rapat Umum Pemegang Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 (RUPSU). Rapat ini dijadwalkan pada Rabu, 9 Desember 2026, pukul 14.00 WIB, di WIKA Tower 2, Jakarta. Dokumen pemberitahuan ini belum merinci agenda spesifik yang akan dibahas dalam rapat.",
+   "PT Bank Mega Tbk, yang bertindak selaku wali amanat berdasarkan Perjanjian Perwaliamanatan Akta Nomor 47 tanggal 20 Juli 2022 yang dibuat di hadapan Notaris Ir. Nanette Cahyanie Handari Adi Warsito, S.H., mengumumkan bahwa panggilan resmi untuk RUPSU tersebut akan dimuat di satu surat kabar harian berperedaran nasional pada Senin, 23 November 2026. Pemuatan panggilan ini dilakukan sesuai ketentuan Perjanjian Perwaliamanatan dan Peraturan Otoritas Jasa Keuangan Nomor 20/POJK.04/2020 tentang Kontrak Perwaliamanatan Efek Bersifat Utang dan/atau Sukuk.",
+   "Penyelenggaraan RUPSU ini merupakan kelanjutan dari rangkaian masalah gagal bayar kupon sukuk WIKA yang sebelumnya membuat sahamnya disuspensi bursa, peringkat obligasinya diturunkan PEFINDO menjadi idD, dan memicu gugatan penundaan kewajiban pembayaran utang terhadap anak usahanya, WIKON."
+  ],
+  "fotoAdegan": "Construction cranes and steel beams at a high-rise building site in Jakarta, overcast sky, workers in hard hats below",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena digelarnya RUPSU ini merupakan konsekuensi langsung dari gagal bayar kupon sukuk yang sebelumnya memicu suspensi saham dan penurunan peringkat utang ke level default oleh PEFINDO. Pos yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar dari kas perusahaan, karena RUPSU semacam ini biasanya dipakai untuk merundingkan ulang skema pembayaran kupon atau pokok utang kepada pemegang sukuk setelah perusahaan gagal membayar sesuai jadwal awal. Yang perlu dipantau selanjutnya adalah pemuatan panggilan resmi di koran nasional pada 23 November 2026, dan RUPSU itu sendiri pada 9 Desember 2026, karena hasil rapat itu akan menentukan apakah pemegang sukuk menyetujui restrukturisasi atau justru menuntut pelunasan segera yang bisa menambah tekanan keuangan WIKA.",
   "sentimen": "negatif"
  },
  {

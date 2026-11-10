@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bwpt-laba-9-bulan-naik-31-kuasi-reorganisasi-hapus-defisit",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Laba 9 Bulan Naik 31%, [Kuasi Reorganisasi] Hapus Defisit",
+  "deck": "Laporan keuangan interim BWPT per September 2026 menunjukkan pendapatan naik 28 persen dan laba bersih naik 31 persen, sementara reorganisasi akuntansi menghapus defisit Rp3,7 triliun.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "Eagle High Plantations",
+   "kelapa sawit",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110091630-65778-0/FinancialStatement-2026-III-BWPT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "skbm-bagikan-dividen-interim-rp17-5-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "SKBM Bagikan [Dividen] Interim Rp17,5 per Saham",
+  "deck": "Sekar Bumi menetapkan dividen interim Rp17,5 per saham atau total Rp30,3 miliar untuk tahun buku 2026, menyusul kinerja laba yang membaik.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SKBM",
+   "dividen interim",
+   "Sekar Bumi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0c358f46b0_cfcf231cfb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgka-bagikan-dividen-interim-rp100-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "TGKA Bagikan Dividen [Interim] Rp100 per Saham",
+  "deck": "Tigaraksa Satria menjadwalkan dividen interim Rp91,85 miliar atau Rp100 per saham, dibayar 30 November 2026.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGKA",
+   "dividen interim",
+   "Tigaraksa Satria",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/080c0abf91_388159d44f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbto-jadwalkan-rupslb-agendakan-pergantian-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "MBTO Jadwalkan RUPSLB, Agendakan [Pergantian] Direksi-Komisaris",
+  "deck": "Martina Berto (MBTO) akan menggelar RUPSLB pada 17 Desember 2026 untuk menyetujui perubahan susunan Direksi dan Dewan Komisaris Perseroan.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBTO",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ff67615a62_bc56cf72b8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-tdpm-resmi-di-delisting-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Saham TDPM Resmi Di-[Delisting] BEI per 10 November 2026",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan saham TDPM bersama 17 emiten lain, efektif 10 November 2026, akibat forced delisting dan go private.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TDPM",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/923d0b1a96_27fabec0a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tele-delisting-saham-resmi-dicabut-dari-bei-10-november",
+  "category": "Aksi Korporasi",
+  "title": "TELE [Delisting]: Saham Resmi Dicabut dari BEI 10 November",
+  "deck": "Bursa menghapus pencatatan saham TELE mulai 10 November 2026 akibat forced delisting dan proses go private, bersama 17 emiten lain yang dicabut serentak.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TELE",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4dd734a609_9c10a38892.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bei-resmi-delisting-saham-sril-mulai-10-november-2026",
   "category": "Aksi Korporasi",
   "title": "BEI Resmi [Delisting] Saham SRIL Mulai 10 November 2026",
@@ -616,6 +712,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "fast-ekuitas-susut-40-pendapatan-tumbuh-16-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "FAST: Ekuitas Susut [40%], Pendapatan Tumbuh 16% di Kuartal III",
+  "deck": "Laporan interim kuartal III 2026 menunjukkan pendapatan FAST naik 16% menjadi Rp4,13 triliun, namun ekuitas susut hampir 40% menjadi Rp261,79 miliar akibat rugi berjalan tanpa suntikan modal baru.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FAST",
+   "Fast Food Indonesia",
+   "laporan keuangan kuartal III",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109182556-65146-0/FinancialStatement-2026-III-FAST.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bris-kantongi-restu-rupslb-untuk-rights-issue-ii",
   "category": "Aksi Korporasi",
   "title": "BRIS Kantongi Restu RUPSLB untuk [Rights Issue] II",
@@ -647,6 +759,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477410-kuota-pertalite-bakal-ditambah-menko-airlangga-anggaran-masih-ada"
+ },
+ {
+  "slug": "myor-laba-naik-31-utang-bank-turun-tajam-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MYOR: Laba Naik 31%, [Utang] Bank Turun Tajam di Kuartal III 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih Mayora Indah naik 31 persen dan total utang turun 23 persen dibanding akhir 2025, didorong pelunasan pinjaman bank.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MYOR",
+   "Mayora Indah",
+   "Laporan Keuangan",
+   "Kuartal III 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109181804-65776-0/FinancialStatement-2026-III-MYOR.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "nsss-direksi-perkuat-hak-suara-ke-42-16-via-repo",
@@ -730,6 +858,22 @@ var ARTICLES = [
    "Ultrajaya"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de48692ef4_3a956faf42.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asbi-terangkan-lonjakan-liabilitas-pinjam-ke-pemegang-saham",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Terangkan [Lonjakan] Liabilitas, Pinjam ke Pemegang Saham",
+  "deck": "ASBI menjelaskan ke BEI bahwa total liabilitasnya melonjak lebih dari 20 persen, didorong pinjaman dari pemegang saham pengendali dan uang muka penjualan aset di Surabaya.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASBI",
+   "Asuransi Bintang",
+   "liabilitas",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109171332-65769-0/FinancialStatement-2026-III-ASBI.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -942,6 +1086,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bssr-catat-laba-bersih-naik-81-jadi-us-111-7-juta-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "BSSR Catat [Laba] Bersih Naik 81% Jadi US$111,7 Juta di 9M26",
+  "deck": "Laba bersih BSSR naik 81 persen jadi US$111,7 juta pada sembilan bulan 2026, sementara liabilitas naik 64 persen karena utang dividen interim yang sudah dibagikan Oktober lalu.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSSR",
+   "Baramulti Suksessarana",
+   "laba bersih",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109162154-65771-0/FinancialStatement-2026-III-BSSR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "abmm-cipta-kridatama-raih-kontrak-tambang-batu-bara-5-tahun",
   "category": "Aksi Korporasi",
   "title": "ABMM: Cipta Kridatama Raih [Kontrak] Tambang Batu Bara 5 Tahun",
@@ -1036,6 +1196,22 @@ var ARTICLES = [
    "Steel Pipe Industry"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-4792-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "auto-laba-naik-tapi-utang-usaha-melonjak-29",
+  "category": "Aksi Korporasi",
+  "title": "AUTO: Laba Naik, tapi Utang Usaha [Melonjak] 29%",
+  "deck": "Laba bersih AUTO naik 11,6 persen jadi Rp1,85 triliun dalam sembilan bulan 2026, tapi utang usahanya melonjak 29 persen karena harga bahan baku dan persediaan naik.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AUTO",
+   "laporan keuangan",
+   "utang usaha",
+   "Astra Otoparts"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109145152-65768-0/FinancialStatement-2026-III-AUTO.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1199,6 +1375,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "indx-kas-tanah-laut-tinggal-rp22-juta-ekuitas-susut-20",
+  "category": "Aksi Korporasi",
+  "title": "INDX: [Kas] Tanah Laut Tinggal Rp22 Juta, Ekuitas Susut 20%",
+  "deck": "Laporan keuangan kuartal III 2025 Tanah Laut Tbk menunjukkan kas perusahaan menyusut hingga 98 persen sementara utang jangka panjang justru melonjak.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDX",
+   "Tanah Laut",
+   "laporan keuangan",
+   "emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/20261109140205-65764-0/FinancialStatement-2025-III-INDX.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bsde-lunasi-utang-bank-rp1-24-triliun-lebih-awal-dari-dana-obligasi",
   "category": "Aksi Korporasi",
   "title": "BSDE Lunasi Utang Bank Rp1,24 Triliun [Lebih Awal] dari Dana Obligasi",
@@ -1212,6 +1404,22 @@ var ARTICLES = [
    "BSD City"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d92293b02c_5792d007c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bino-balik-untung-rp6-57-miliar-di-semester-i-koreksi-laporan",
+  "category": "Aksi Korporasi",
+  "title": "BINO Balik [Untung] Rp6,57 Miliar di Semester I, Koreksi Laporan",
+  "deck": "PT Perma Plasindo Tbk (BINO) menyampaikan koreksi laporan keuangan interim Juni 2026: pendapatan naik 51,8 persen dan laba bersih Rp6,57 miliar, berbalik dari rugi semester sebelumnya.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BINO",
+   "laporan keuangan",
+   "emiten alat tulis",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109132045-65767-0/FinancialStatement-2026-II-BINO.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6253,214 +6461,6 @@ var ARTICLES = [
    "perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a42a6017ed_82a24a8f07.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpix-ganti-komisaris-independen-sepakati-laba-rp7-9-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MPIX Ganti Komisaris [Independen], Sepakati Laba Rp7,9 Miliar",
-  "deck": "RUPST dan RUPSLB MPIX menetapkan Dr. Nurfaizi sebagai komisaris independen baru dan membagi laba bersih Rp7,92 miliar tahun 2025.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPIX",
-   "RUPST",
-   "komisaris independen",
-   "waran seri I"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f6c9e49b76_ac75d8bb64.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ssia-catat-laba-bersih-rp344-4-miliar-properti-jadi-pendorong",
-  "category": "Aksi Korporasi",
-  "title": "SSIA Catat Laba Bersih Rp344,4 Miliar, [Properti] Jadi Pendorong",
-  "deck": "Pendapatan sembilan bulan SSIA naik 44,7 persen menjadi Rp4,8 triliun, didorong lonjakan segmen properti dan perhotelan, sementara konstruksi melambat dan kas menyusut akibat ekspansi lahan Subang.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SSIA",
-   "kinerja keuangan",
-   "properti",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f907d058a_c02509e2eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apia-alihkan-seluruh-saham-gmf-rp5-66-triliun-ke-induk-injourney",
-  "category": "Aksi Korporasi",
-  "title": "APIA Alihkan Seluruh Saham GMF Rp5,66 Triliun ke Induk [InJourney]",
-  "deck": "APIA mengalihkan seluruh 82,1 miliar lembar sahamnya di GMF Aero Asia, senilai Rp5,66 triliun, ke induk usaha PT Aviasi Pariwisata Indonesia (Persero) lewat skema dividen in specie.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APIA",
-   "GMF",
-   "InJourney",
-   "dividen in specie"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a6ff82e788_2af2e6e5a4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "omed-bukukan-laba-rp336-miliar-target-pendapatan-2026-direvisi",
-  "category": "Aksi Korporasi",
-  "title": "OMED Bukukan Laba Rp336 Miliar, Target Pendapatan 2026 [Direvisi]",
-  "deck": "Pendapatan OMED naik 26,1 persen menjadi Rp1,85 triliun pada sembilan bulan pertama 2026, dan perseroan menaikkan target pendapatan setahun penuh menjadi sekitar Rp2,5 triliun.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OMED",
-   "Jayamas Medica Industri",
-   "kinerja kuartal III 2026",
-   "alat kesehatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e2b9a53219_36e42e3038.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-disuspensi-bursa-usai-gagal-bayar-kupon-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Disuspensi] Bursa Usai Gagal Bayar Kupon Obligasi",
-  "deck": "Bursa Efek Indonesia melanjutkan penghentian perdagangan saham WIKA di seluruh pasar sejak 3 November 2026 setelah perseroan gagal membayar bunga obligasi dan bagi hasil sukuk yang jatuh tempo hari itu.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "suspensi saham",
-   "obligasi korporasi",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7c70c4483e_86677c0685.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtfn-rugi-rp31-8-m-di-2025-marjin-kotor-naik-ke-5-6",
-  "category": "Aksi Korporasi",
-  "title": "MTFN Rugi Rp31,8 M di 2025, [Marjin] Kotor Naik ke 5,6%",
-  "deck": "Capitalinc Investment (MTFN) membukukan rugi bersih Rp31,8 miliar pada 2025 dengan pendapatan Rp519,4 miliar, meski marjin kotor naik dari 2,4 menjadi 5,6 persen.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTFN",
-   "Capitalinc Investment",
-   "public expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dbb065d28f_334acb28dc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baik-panggil-rupslb-susunan-komisaris-berpotensi-berubah",
-  "category": "Aksi Korporasi",
-  "title": "BAIK Panggil RUPSLB, Susunan [Komisaris] Berpotensi Berubah",
-  "deck": "RUPSLB PT Bersama Mencapai Puncak Tbk (BAIK) digelar 25 November 2026 di Malang, agendanya persetujuan perubahan susunan Dewan Komisaris Perseroan.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAIK",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Tata Kelola Perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2e0d554f47_7d537d33f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-lapor-lk-triwulan-iii-2024-defisit-modal-melebar",
-  "category": "Aksi Korporasi",
-  "title": "[BOSS] Lapor LK Triwulan III/2024, Defisit Modal Melebar",
-  "deck": "Laporan kuartal III 2024 yang baru disampaikan ke BEI awal November 2026 ini menunjukkan penjualan nihil dan defisiensi modal membesar jadi Rp215,22 miliar.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "defisit modal",
-   "laporan keuangan",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261103142547-65715-0/FinancialStatement-2024-III-BOSS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unsp-konversi-utang-jadi-saham-ekuitas-berbalik-positif",
-  "category": "Aksi Korporasi",
-  "title": "UNSP Konversi Utang Jadi Saham, [Ekuitas] Berbalik Positif",
-  "deck": "Bakrie Sumatera Plantations (UNSP) mencatat aset naik 114,72% dan liabilitas turun 46,14% per September 2026, setelah mengonversi utang senilai Rp4,04 triliun menjadi saham baru.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNSP",
-   "Bakrie Sumatera Plantations",
-   "restrukturisasi utang",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/42385f9285_3221d7537e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbto-catat-laba-rp19-41-miliar-balik-dari-rugi-9-bulan-2026",
-  "category": "Aksi Korporasi",
-  "title": "MBTO Catat [Laba] Rp19,41 Miliar, Balik dari Rugi 9 Bulan 2026",
-  "deck": "Penjualan neto Martina Berto naik 29 persen jadi Rp379,99 miliar pada sembilan bulan 2026, membawa laba neto Rp19,41 miliar setelah rugi Rp18,82 miliar pada periode sama tahun lalu.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBTO",
-   "Martina Berto",
-   "laporan keuangan",
-   "kosmetik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103135822-65717-0/FinancialStatement-2026-III-MBTO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-ungkap-akuisisi-tambang-lewat-rights-issue-ii",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Ungkap Akuisisi Tambang Lewat [Rights Issue] II",
-  "deck": "Dalam public expose tahunan, manajemen Leyand International mengakui ekuitas negatif dan pendapatan merosot, sekaligus memastikan akuisisi BSS lewat rights issue kedua berjalan bertahap hingga 2027.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "Leyand International",
-   "Public Expose",
-   "akuisisi tambang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2c4f0d70cc_eed683064b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iotf-laba-bersih-turun-57-kas-menyusut-91-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "IOTF: Laba Bersih Turun 57%, [Kas] Menyusut 91% di Kuartal III",
-  "deck": "Laporan keuangan interim Sumber Sinergi Makmur per September 2026 menunjukkan laba bersih turun separuh dan arus kas operasi berbalik negatif, meski utang bank jangka pendek sudah lunas.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IOTF",
-   "laporan keuangan",
-   "arus kas",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103125732-65694-0/FinancialStatement-2026-III-IOTF.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-kantongi-kontrak-epc-rp400-miliar-dari-pupuk-kaltim",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Kantongi Kontrak EPC [Rp400 Miliar] dari Pupuk Kaltim",
-  "deck": "PTPP meraih kontrak EPC Dermaga 11 senilai Rp400 miliar dari Pupuk Kaltim di Bontang, proyek berdurasi 570 hari untuk mendukung distribusi material industri pupuk.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "kontrak konstruksi",
-   "Pupuk Kaltim",
-   "EPC"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/528cda06ab_56623820a7.pdf",
   "sourceLabel": "IDX"
  }
 ];

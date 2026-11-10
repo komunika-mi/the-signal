@@ -3,6 +3,162 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bwpt-laba-9-bulan-naik-31-kuasi-reorganisasi-hapus-defisit",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Laba 9 Bulan Naik 31%, [Kuasi Reorganisasi] Hapus Defisit",
+  "deck": "Laporan keuangan interim BWPT per September 2026 menunjukkan pendapatan naik 28 persen dan laba bersih naik 31 persen, sementara reorganisasi akuntansi menghapus defisit Rp3,7 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T09:02:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110091630-65778-0/FinancialStatement-2026-III-BWPT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BWPT",
+  "tags": [
+   "BWPT",
+   "Eagle High Plantations",
+   "kelapa sawit",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Eagle High Plantations Tbk (BWPT) menyampaikan versi koreksi dari laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan usaha tercatat Rp5,39 triliun, naik 28 persen dari Rp4,20 triliun pada periode yang sama tahun 2025. Laba kotor naik dari Rp1,15 triliun menjadi Rp1,38 triliun, dan laba usaha naik dari Rp870 miliar menjadi Rp1,02 triliun. Laba periode berjalan yang dapat diatribusikan ke pemilik entitas induk mencapai Rp363,4 miliar, sementara total laba periode berjalan termasuk kepentingan nonpengendali Rp375,5 miliar, naik 31 persen dari Rp285,7 miliar. Laba per saham dasar naik dari Rp8,72 menjadi Rp11,68.",
+   "Dari sisi posisi keuangan, total aset BWPT per 30 September 2026 tercatat Rp10,34 triliun, naik dari Rp10,18 triliun pada akhir 2025. Total liabilitas justru turun dari Rp7,35 triliun menjadi Rp7,13 triliun, sementara total ekuitas naik dari Rp2,83 triliun menjadi Rp3,20 triliun. Kas dan setara kas perusahaan berkurang dari Rp139,8 miliar menjadi Rp120,8 miliar.",
+   "Dokumen ini juga mengungkap bahwa sejak 1 Januari 2026 perusahaan melakukan kuasi reorganisasi yang menghapus akumulasi defisit sebesar Rp3,71 triliun dengan cara menggeser nilai tersebut dari pos tambahan modal disetor, yang turun dari Rp4,02 triliun menjadi Rp307,1 miliar. Akibatnya, saldo laba (defisit) perusahaan yang sebelumnya negatif kini kembali dari nol, dan laba Rp363,4 miliar yang dibukukan sembilan bulan ini langsung masuk ke pos saldo laba. Di laporan arus kas, kas bersih dari aktivitas operasi justru turun dari Rp1,00 triliun menjadi Rp663,5 miliar meski laba naik. Perusahaan juga mencatat penerimaan bersih Rp296,8 miliar dari divestasi sebuah entitas anak dengan keuntungan penjualan Rp19,7 miliar, serta melunasi sebagian utang pemegang saham senilai Rp603 miliar."
+  ],
+  "fotoAdegan": "Rows of oil palm trees on a plantation with workers loading harvested fruit bunches onto a truck, humid tropical morning",
+  "takeaway": "Laporan ini condong positif bagi BWPT karena pendapatan dan laba bersih sembilan bulan sama-sama naik di atas 28 persen, utang total berkurang, dan ekuitas membesar. Yang tersentuh adalah ekuitas, arus kas operasi, dan laba per saham: ekuitas naik karena kuasi reorganisasi menghapus defisit lama lewat pengurangan pos tambahan modal disetor, bukan karena ada uang baru masuk, sementara arus kas dari kegiatan usaha justru turun dari Rp1 triliun menjadi Rp663,5 miliar meski labanya naik, pertanda sebagian laba belum berubah jadi uang tunai di kas perusahaan. Laba per saham yang naik dari Rp8,72 menjadi Rp11,68 penting dipantau karena itu acuan yang dipakai pasar untuk membandingkan harga saham dengan laba perusahaan. Laporan ini sendiri adalah versi koreksi dari laporan sebelumnya, sehingga pembaca perlu menunggu penjelasan resmi BWPT ke bursa soal bagian mana yang diperbaiki, dan laporan tahunan auditan 2026 nanti akan menjadi konfirmasi apakah kenaikan laba dan pengetatan arus kas operasi ini berlanjut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "skbm-bagikan-dividen-interim-rp17-5-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "SKBM Bagikan [Dividen] Interim Rp17,5 per Saham",
+  "deck": "Sekar Bumi menetapkan dividen interim Rp17,5 per saham atau total Rp30,3 miliar untuk tahun buku 2026, menyusul kinerja laba yang membaik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T08:59:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0c358f46b0_cfcf231cfb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SKBM",
+  "tags": [
+   "SKBM",
+   "dividen interim",
+   "Sekar Bumi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Sekar Bumi Tbk (SKBM) memutuskan membagikan dividen interim untuk tahun buku 2026. Keputusan ini diambil Direksi dan disetujui Dewan Komisaris pada 9 November 2026, dengan mengacu pada laporan keuangan interim perseroan untuk periode yang berakhir 30 September 2026.",
+   "Dividen interim ditetapkan sebesar Rp17,5 per lembar saham, atau total Rp30.276.806.297,5. Jumlah ini dihitung berdasarkan total saham beredar perseroan saat ini sebanyak 1.730.103.217 lembar.",
+   "Perseroan menyatakan jadwal pelaksanaan pembagian dividen, termasuk tanggal pencatatan pemegang saham yang berhak dan tanggal pembayaran, akan diumumkan secara terpisah. Jadwal itu akan mengikuti aturan Bursa Efek Indonesia No. Kep-00077/012021 tentang pelaksanaan pembagian dividen saham, pembagian saham bonus, dan pembagian dividen interim. Perseroan juga menyatakan keputusan ini tidak berdampak pada kegiatan operasional, hukum, maupun kondisi keuangan dan keberlangsungan usahanya."
+  ],
+  "fotoAdegan": "Workers processing frozen shrimp on a stainless steel line in a seafood processing plant, cold mist visible",
+  "takeaway": "Laporan ini positif bagi SKBM karena perusahaan memilih membagikan sebagian labanya ke pemegang saham, sejalan dengan kinerja yang baru-baru ini membaik tajam, laba bersih melonjak 120 persen jadi Rp120,2 miliar. Pembagian dividen interim senilai Rp30,3 miliar ini akan mengurangi kas perusahaan dan mengurangi laba ditahan dalam ekuitas, yaitu bagian kekayaan perusahaan yang berasal dari akumulasi laba, tapi langkah ini biasanya diambil kalau manajemen yakin arus kas operasionalnya cukup kuat untuk menanggungnya tanpa mengganggu kegiatan usaha. Yang perlu dipantau pemegang saham selanjutnya adalah pengumuman jadwal resmi pembagian dividen, termasuk tanggal pencatatan pemegang saham yang berhak dan tanggal pembayaran, yang menurut keterbukaan ini akan disampaikan terpisah oleh perseroan sesuai aturan BEI No. Kep-00077/012021.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tgka-bagikan-dividen-interim-rp100-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "TGKA Bagikan Dividen [Interim] Rp100 per Saham",
+  "deck": "Tigaraksa Satria menjadwalkan dividen interim Rp91,85 miliar atau Rp100 per saham, dibayar 30 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T08:57:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/080c0abf91_388159d44f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGKA",
+  "tags": [
+   "TGKA",
+   "dividen interim",
+   "Tigaraksa Satria",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Tigaraksa Satria Tbk (TGKA) akan membagikan dividen interim tunai untuk tahun buku 2026 sebesar Rp100 per saham, dengan total nilai Rp91,85 miliar. Keputusan ini diambil oleh Direksi dan disetujui Dewan Komisaris Perseroan pada 6 November 2026, sebagaimana disampaikan Corporate Secretary TGKA, Nelly, dalam keterbukaan informasi ke Bursa Efek Indonesia pada 10 November 2026.",
+   "Investor yang ingin mendapat hak atas dividen ini harus memiliki saham TGKA paling lambat pada tanggal cum dividen di pasar reguler dan negosiasi, yaitu 18 November 2026, karena mulai 19 November 2026 saham sudah diperdagangkan tanpa hak dividen. Untuk transaksi di pasar tunai, batas cum dividen adalah 20 November 2026 dan ex dividen mulai 23 November 2026. Daftar pemegang saham yang berhak menerima dividen dicatat pada 20 November 2026 pukul 16.00 WIB, dan pembayaran dilakukan paling lambat 30 November 2026.",
+   "Pembagian dividen ini didasarkan pada data keuangan Perseroan per 30 September 2026, yang mencatat laba bersih yang bisa diatribusikan ke pemegang saham induk sebesar Rp286,48 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp2,3 triliun, dan total ekuitas Rp2,44 triliun. Perseroan juga mengingatkan pemegang saham korporasi dalam negeri yang belum melaporkan NPWP, serta pemegang saham asing yang ingin memakai tarif pajak berdasarkan perjanjian penghindaran pajak berganda, untuk menyerahkan dokumen yang diperlukan ke KSEI paling lambat 20 November 2026 pukul 16.00 WIB. Tanpa dokumen itu, dividen bagi pemegang saham asing akan dipotong PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Warehouse workers loading boxes of packaged consumer goods onto a delivery truck, forklift nearby, daylight industrial setting",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham TGKA, karena perusahaan tetap sanggup membagikan Rp91,85 miliar tunai sebagai dividen interim meski baru mengantongi laba bersih Rp286,48 miliar dalam sembilan bulan pertama tahun ini, dan saldo laba ditahan yang belum dibagikan masih tersisa Rp2,3 triliun. Pos yang langsung tersentuh adalah arus kas dan ekuitas: begitu dividen ini dibayarkan pada 30 November 2026, kas perusahaan berkurang sebesar nilai dividen tersebut dan ekuitas ikut menyusut sedikit, karena dividen pada dasarnya adalah bagian kekayaan bersih perusahaan yang dipindahkan ke rekening pemegang saham. Yang perlu dipantau pemegang saham adalah tanggal pencatatan pada 20 November 2026 pukul 16.00 WIB, karena hanya yang memegang saham sebelum tanggal ex dividen 19 November 2026 di pasar reguler yang berhak menerima dividen ini, serta tanggal pembayaran 30 November 2026 sebagai konfirmasi dana benar cair ke rekening investor.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mbto-jadwalkan-rupslb-agendakan-pergantian-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "MBTO Jadwalkan RUPSLB, Agendakan [Pergantian] Direksi-Komisaris",
+  "deck": "Martina Berto (MBTO) akan menggelar RUPSLB pada 17 Desember 2026 untuk menyetujui perubahan susunan Direksi dan Dewan Komisaris Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T08:12:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ff67615a62_bc56cf72b8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBTO",
+  "tags": [
+   "MBTO",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "Martina Berto Tbk (MBTO) mengumumkan rencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 17 Desember 2026 pukul 10.00 WIB, di Griya Cipta Wanita, kantor perusahaan di Jalan Pulo Kambing II No. 1, Kawasan Industri JIEP, Pulogadung, Jakarta Timur. Agenda yang diusulkan adalah persetujuan perubahan susunan anggota Direksi dan Dewan Komisaris Perseroan. Pengumuman ini diteken Direktur Utama Bryan David Emil pada 10 November 2026, namun belum menyebut nama calon pengurus yang akan masuk atau keluar.",
+   "Perseroan menetapkan 24 November 2026, saat penutupan perdagangan di Bursa Efek Indonesia, sebagai tanggal pencatatan pemegang saham yang berhak hadir di RUPSLB. Panggilan resmi rapat baru akan diterbitkan pada Rabu, 25 November 2026, melalui situs e-RUPS, situs BEI, dan situs perusahaan. Pemegang saham yang sendirian atau bersama-sama menguasai minimal 1/20 atau 5 persen dari total saham berhak suara dapat mengusulkan agenda tambahan secara tertulis sesuai Pasal 16 POJK Nomor 15/POJK.04/2020, dengan syarat usulan itu diterima perusahaan paling lambat 18 November 2026.",
+   "Rapat direncanakan berlangsung secara fisik sekaligus elektronik melalui fasilitas eASY.KSEI. Tata cara kehadiran, pemberian kuasa, dan pelaksanaan rapat akan dijelaskan lebih rinci dalam panggilan resmi yang terbit 25 November 2026."
+  ],
+  "fotoAdegan": "Empty formal meeting hall with rows of chairs facing a podium, soft morning light through large windows in an office building",
+  "takeaway": "Pengumuman ini netral bagi fundamental Martina Berto karena sejauh ini hanya berupa rencana rapat, belum ada nama calon direksi atau komisaris yang disebut, sehingga pasar belum punya dasar untuk menilai apakah pergantian ini menguntungkan atau merugikan. Yang tersentuh adalah struktur kepengurusan perusahaan, bukan angka keuangan seperti ekuitas atau laba per saham secara langsung, tetapi pelaku pasar tetap mencermatinya karena pergantian direksi dan komisaris bisa mengubah arah strategi bisnis yang pada akhirnya memengaruhi kinerja perusahaan. Yang perlu dipantau berikutnya adalah panggilan resmi RUPSLB pada 25 November 2026, yang biasanya baru memuat nama-nama calon pengurus yang diusulkan, serta batas waktu 18 November 2026 bagi pemegang saham dengan 5 persen suara untuk mengusulkan agenda tambahan sebelum rapat berlangsung pada 17 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "saham-tdpm-resmi-di-delisting-bei-per-10-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Saham TDPM Resmi Di-[Delisting] BEI per 10 November 2026",
+  "deck": "Bursa Efek Indonesia menghapus pencatatan saham TDPM bersama 17 emiten lain, efektif 10 November 2026, akibat forced delisting dan go private.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T08:08:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/923d0b1a96_27fabec0a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TDPM",
+  "tags": [
+   "TDPM",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi menghapus pencatatan saham PT Tianrong Chemicals Industry Tbk (TDPM) dari papan perdagangan, berlaku efektif 10 November 2026. Dalam pengumuman yang diteken Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryanto, penyebab penghapusan ini ditulis sebagai forced delisting dan go private.",
+   "TDPM tidak dihapus sendirian. Keputusan ini merupakan bagian dari penghapusan pencatatan 18 saham sekaligus pada tanggal yang sama, mengacu pada pengumuman BEI tertanggal 10 April 2026 dan Peraturan Bursa Nomor I-N tentang Pembatalan Pencatatan (Delisting) dan Pencatatan Kembali (Relisting). Bursa menjelaskan, delisting paksa semacam ini dijatuhkan jika emiten mengalami kondisi yang berdampak negatif signifikan terhadap kelangsungan usaha tanpa indikasi pemulihan, tidak lagi memenuhi persyaratan pencatatan di bursa, atau sahamnya disuspensi di Pasar Reguler dan Pasar Tunai sedikitnya 24 bulan terakhir. Ke-18 saham yang dihapus pencatatannya bersama TDPM adalah COWL, DUCK, ENVY, GOLL, LCGP, LMAS, MABA, MTRA, PLAS, SBAT, SKYB, SRIL, SUGI, TELE, TOYS, TRIL, dan UNIT.",
+   "BEI menegaskan, setelah status Perusahaan Tercatat dicabut, TDPM tidak lagi punya kewajiban sebagai perusahaan tercatat dan namanya dihapus dari daftar emiten bursa. Jika suatu saat ingin mencatatkan sahamnya kembali, prosesnya harus mengikuti aturan pencatatan yang berlaku layaknya perusahaan baru. Delisting ini juga mencakup penghapusan pencatatan efek bersifat utang dan/atau sukuk milik perseroan jika ada, namun kewajiban membayar bunga dan pokok kepada pemegang efek utang tersebut tetap berlaku sesuai perjanjian perwaliamanatan. Selama TDPM masih berstatus perusahaan publik, perseroan tetap wajib memperhatikan kepentingan pemegang saham publik dan memenuhi ketentuan keterbukaan informasi kepada Otoritas Jasa Keuangan (OJK)."
+  ],
+  "fotoAdegan": "Quiet industrial chemical plant with large metal storage tanks and pipework under an overcast grey sky",
+  "takeaway": "Laporan ini negatif bagi TDPM karena forced delisting dan go private berarti bursa sendiri yang mencabut status perusahaan tercatat, bukan keputusan sukarela yang mulus, dan biasanya dipicu masalah keuangan atau operasional berkepanjangan atau suspensi panjang. Dampak paling nyata ada di likuiditas saham, yakni kemampuan pemegang saham publik untuk menjual sahamnya, karena begitu delisting berlaku saham TDPM tidak lagi bisa diperjualbelikan lewat mekanisme bursa sehingga nilai investasi publik jadi jauh lebih sulit dicairkan. Yang perlu dipantau selanjutnya adalah apakah TDPM, yang tetap berstatus perusahaan publik meski tidak lagi tercatat di bursa, benar benar memenuhi kewajiban keterbukaan informasi ke OJK, serta bagaimana nasib pembayaran bunga dan pokok kepada pemegang efek utang atau sukuk perseroan jika BEI memastikan ada EBUS yang diterbitkan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tele-delisting-saham-resmi-dicabut-dari-bei-10-november",
+  "category": "Aksi Korporasi",
+  "title": "TELE [Delisting]: Saham Resmi Dicabut dari BEI 10 November",
+  "deck": "Bursa menghapus pencatatan saham TELE mulai 10 November 2026 akibat forced delisting dan proses go private, bersama 17 emiten lain yang dicabut serentak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T08:05:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4dd734a609_9c10a38892.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TELE",
+  "tags": [
+   "TELE",
+   "delisting",
+   "BEI",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia resmi menghapus pencatatan saham PT Omni Inovasi Indonesia Tbk (TELE) dari Papan Pemantauan Khusus, efektif 10 November 2026. Dalam pengumuman bernomor Peng-DEL-00005/BEI.PP2/11-2026 yang diteken Kepala Divisi Penilaian Perusahaan 2 Adi Pratomo Aryanto, penyebab delisting dicatat sebagai forced delisting dan go private.",
+   "Keputusan ini merujuk pada pengumuman awal BEI tanggal 10 April 2026 dan Peraturan Bursa Nomor I-N tentang Pembatalan Pencatatan dan Pencatatan Kembali. Berdasarkan aturan itu, bursa dapat mencabut pencatatan jika emiten mengalami kondisi yang berdampak negatif signifikan pada kelangsungan usaha tanpa indikasi pemulihan, tidak memenuhi syarat pencatatan, atau sahamnya disuspensi di seluruh pasar sekurang-kurangnya 24 bulan berturut-turut. TELE dicabut pencatatannya bersamaan dengan 17 emiten lain, yaitu COWL, DUCK, ENVY, GOLL, LCGP, LMAS, MABA, MTRA, PLAS, SBAT, SKYB, SRIL, SUGI, TDPM, TOYS, TRIL, dan UNIT.",
+   "Delisting ini juga mencakup penghapusan pencatatan Efek Bersifat Utang dan/atau Sukuk (EBUS) yang diterbitkan TELE. Bursa menegaskan penghapusan EBUS tidak menghilangkan kewajiban perseroan untuk membayar bunga dan/atau pokok utang kepada para pemegang EBUS sesuai Perjanjian Perwaliamanatan. Selama TELE masih berstatus Perusahaan Publik, perseroan tetap wajib memperhatikan kepentingan pemegang saham publik dan mematuhi ketentuan keterbukaan informasi serta pelaporan kepada Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Shuttered electronics retail storefront with metal roller shutters down, quiet city street, dusk lighting, no visible text",
+  "takeaway": "Penilaian kami negatif bagi pemegang saham publik TELE, karena delisting ini bersifat paksaan dari bursa, bukan pilihan sukarela perseroan, yang menegaskan perusahaan memang gagal memenuhi syarat pencatatan atau sahamnya sudah lama tidak diperdagangkan. Yang paling langsung tersentuh adalah likuiditas saham, yakni kemudahan pemegang saham menjual kepemilikannya; begitu delisting efektif, saham TELE tidak lagi bisa diperjualbelikan lewat mekanisme bursa resmi sehingga nilainya sulit dicairkan ke uang tunai. Kewajiban membayar bunga dan pokok EBUS kepada pemegang obligasi tetap berjalan meski pencatatan EBUS juga dihapus, sehingga kreditor obligasi tidak kehilangan haknya. Yang perlu dipantau selanjutnya adalah kelanjutan proses go private TELE, termasuk kemungkinan penawaran pembelian saham dari pemegang saham publik dan kepastian status perseroan sebagai Perusahaan Publik di OJK, karena dokumen ini menegaskan kewajiban keterbukaan informasi masih berlaku selama status itu belum dicabut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bei-resmi-delisting-saham-sril-mulai-10-november-2026",
   "category": "Aksi Korporasi",
   "title": "BEI Resmi [Delisting] Saham SRIL Mulai 10 November 2026",
@@ -995,6 +1151,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "fast-ekuitas-susut-40-pendapatan-tumbuh-16-di-kuartal-iii",
+  "category": "Aksi Korporasi",
+  "title": "FAST: Ekuitas Susut [40%], Pendapatan Tumbuh 16% di Kuartal III",
+  "deck": "Laporan interim kuartal III 2026 menunjukkan pendapatan FAST naik 16% menjadi Rp4,13 triliun, namun ekuitas susut hampir 40% menjadi Rp261,79 miliar akibat rugi berjalan tanpa suntikan modal baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T18:14:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109182556-65146-0/FinancialStatement-2026-III-FAST.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FAST",
+  "tags": [
+   "FAST",
+   "Fast Food Indonesia",
+   "laporan keuangan kuartal III",
+   "ekuitas"
+  ],
+  "body": [
+   "PT Fast Food Indonesia Tbk (FAST), operator waralaba KFC di Indonesia, menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia pada 9 November 2026. Pendapatan perusahaan naik 16 persen menjadi Rp4,13 triliun, dari Rp3,56 triliun pada periode yang sama tahun lalu. Meski begitu, FAST masih mencatat rugi periode berjalan Rp217,43 miliar, lebih kecil dibanding rugi Rp243,95 miliar pada sembilan bulan pertama 2025. Rugi per saham dasar membaik menjadi Rp47, dari Rp53 pada periode sebelumnya.",
+   "Di sisi permodalan, total ekuitas FAST turun hampir 40 persen, dari Rp435,86 miliar pada akhir 2025 menjadi Rp261,79 miliar pada akhir September 2026. Penurunan ini terjadi karena akumulasi rugi membengkak menjadi Rp676,72 miliar, sementara pada periode yang sama tahun lalu perusahaan masih mendapat suntikan modal baru berupa penerbitan saham biasa Rp80 miliar dan kontribusi modal pemegang saham nonpengendali di anak usaha senilai Rp38,05 miliar yang menahan penurunan ekuitas. Pada periode kali ini tidak ada suntikan modal serupa. Total liabilitas naik 8,9 persen menjadi Rp4,92 triliun, dengan utang bank jangka panjang bertambah dari Rp1,83 triliun menjadi Rp2,11 triliun, sementara kas dan setara kas berkurang dari Rp147,22 miliar menjadi Rp85,84 miliar.",
+   "Margin laba kotor FAST turun dari 59,8 persen menjadi 56,2 persen karena beban pokok penjualan naik 26,4 persen, lebih cepat dibanding kenaikan pendapatan, yang mengindikasikan tekanan biaya bahan baku. Namun arus kas dari aktivitas operasi berbalik menjadi positif Rp216,05 miliar, dari sebelumnya minus Rp50,16 miliar, sementara belanja modal untuk aset tetap dipangkas hampir separuh menjadi Rp329,93 miliar dari Rp633,34 miliar tahun lalu, menandakan perlambatan ekspansi gerai baru. Laporan ini juga mengungkap kepemilikan FAST sebesar 55 persen di PT Jagonya Ayam Indonesia, anak usaha peternakan ayam terpadu di Banyuwangi, Jawa Timur, dengan total aset Rp1,96 triliun yang hingga 2026 belum memulai operasi komersial."
+  ],
+  "fotoAdegan": "Kitchen staff in a fast food restaurant plating fried chicken orders on a stainless counter during evening rush, Indonesia",
+  "takeaway": "Laporan ini condong negatif karena bantalan modal FAST menipis cepat, sementara beban utangnya justru membesar, sehingga kemampuan perusahaan menyerap kerugian lanjutan makin terbatas. Yang tersentuh adalah ekuitas, yakni selisih antara seluruh aset perusahaan dan utangnya yang jadi hak pemegang saham, yang kini hanya sekitar seperdelapan belas dari total utang FAST, jauh menyusut dari porsi yang lebih sehat di akhir tahun lalu, dan inilah yang membuat pelaku pasar mencermati rasio utang terhadap ekuitas sebuah perusahaan. Margin laba kotor yang turun juga perlu dicermati karena menunjukkan biaya bahan baku ayam dan pendukungnya naik lebih cepat dari harga jual. Sisi positifnya, arus kas dari operasional sudah kembali positif, artinya uang tunai dari penjualan harian sudah lebih dari cukup menutup biaya operasional, berbeda dari periode yang sama tahun lalu ketika kondisinya masih minus. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan yang biasanya terbit sekitar akhir Maret 2027, untuk melihat apakah tren pembengkakan rugi akumulasi ini berlanjut atau pemegang saham kembali menyuntik modal seperti yang terjadi pada September 2025.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bris-kantongi-restu-rupslb-untuk-rights-issue-ii",
   "category": "Aksi Korporasi",
   "title": "BRIS Kantongi Restu RUPSLB untuk [Rights Issue] II",
@@ -1046,6 +1228,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan sekadar menambah kuota, tapi pemicunya jelas, yakni sejak harga Pertamax naik dari Rp12.300 jadi Rp16.250 per liter pada Juni, banyak pengendara pindah ke Pertalite yang lebih murah karena disubsidi, sehingga konsumsinya melonjak 12,92 persen pada Juli. Yang terdampak langsung adalah konsumen yang beralih BBM, Pertamina yang harus menyalurkan lebih banyak Pertalite, dan anggaran negara yang menanggung subsidi tambahan itu. Pola ini menunjukkan pemerintah memilih menambah pasokan Pertalite ketimbang menaikkan harganya atau memperketat siapa yang boleh membeli, jadi arahnya adalah menyerap lonjakan permintaan lewat kuota, bukan lewat penyesuaian harga. Yang akan memastikan seberapa besar beban ini adalah angka pasti volume tambahan dan nilai anggarannya, yang sampai sekarang belum diumumkan oleh Airlangga.",
   "imageV": "mw9bbe2f"
+ },
+ {
+  "slug": "myor-laba-naik-31-utang-bank-turun-tajam-di-kuartal-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "MYOR: Laba Naik 31%, [Utang] Bank Turun Tajam di Kuartal III 2026",
+  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih Mayora Indah naik 31 persen dan total utang turun 23 persen dibanding akhir 2025, didorong pelunasan pinjaman bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T17:55:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109181804-65776-0/FinancialStatement-2026-III-MYOR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MYOR",
+  "tags": [
+   "MYOR",
+   "Mayora Indah",
+   "Laporan Keuangan",
+   "Kuartal III 2026"
+  ],
+  "body": [
+   "Mayora Indah Tbk (MYOR) menyampaikan koreksi atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026, tidak diaudit. Bersamaan dengan itu, perusahaan juga mengirim surat penjelasan ke Bursa Efek Indonesia tertanggal 6 November 2026 yang menguraikan sebab turunnya total liabilitas dalam laporan tersebut.",
+   "Penjualan bersih perusahaan tercatat Rp28,13 triliun dalam sembilan bulan 2026, naik dari Rp27,16 triliun pada periode yang sama tahun sebelumnya. Laba kotor melonjak dari Rp5,76 triliun menjadi Rp7,06 triliun, dan laba bersih tahun berjalan naik 31 persen dari Rp1,88 triliun menjadi Rp2,47 triliun. Laba per saham ikut naik dari 83 rupiah menjadi 109 rupiah untuk setiap saham.",
+   "Total liabilitas turun 23,07 persen, dari Rp13,02 triliun pada akhir 2025 menjadi Rp10,01 triliun pada akhir September 2026, seperti dijelaskan perusahaan dalam suratnya ke bursa. Penurunan utama berasal dari pelunasan utang bank jangka pendek, yang susut dari Rp1,735 triliun menjadi Rp235 miliar, dan porsi utang bank jangka panjang yang turun dari Rp1,67 triliun menjadi Rp554,9 miliar. Di sisi lain, porsi obligasi yang akan jatuh tempo dalam satu tahun ke depan naik dari nol menjadi Rp1,24 triliun, berarti ada tranche obligasi yang harus dilunasi dalam 12 bulan mendatang.",
+   "Ekuitas perusahaan naik dari Rp18,36 triliun menjadi Rp19,17 triliun seiring bertambahnya laba ditahan. Namun kas dan setara kas turun dari Rp5,85 triliun menjadi Rp4,26 triliun, karena perusahaan membayar dividen tunai Rp1,34 triliun, membeli kembali saham senilai Rp323,47 miliar sehingga saldo treasury stock membengkak menjadi Rp673,36 miliar, serta melunasi sejumlah utang bank di atas."
+  ],
+  "fotoAdegan": "Workers monitoring packaged snack food moving along a conveyor belt in a bright Indonesian food processing plant",
+  "takeaway": "Laporan ini condong positif bagi MYOR karena pertumbuhan laba bersih 31 persen dan perbaikan margin terjadi bersamaan dengan pelunasan utang bank yang besar, meski kas perusahaan menipis karena sebagian dipakai membayar dividen dan membeli kembali saham sendiri. Yang paling terasa bagi pemegang saham adalah laba per saham yang naik dari 83 rupiah menjadi 109 rupiah untuk setiap saham yang dipegang, dan ekuitas yang tumbuh karena laba ditahan bertambah, dua pos yang dipantau investor karena menunjukkan besar kue perusahaan yang jadi hak mereka. Arus kas dari operasi, yaitu uang tunai yang benar benar masuk dari kegiatan bisnis sehari hari, naik hampir 3,5 kali lipat menjadi Rp3,93 triliun, yang menjelaskan kenapa MYOR mampu melunasi utang bank jangka pendek sekaligus membagikan dividen dan membeli kembali sahamnya sendiri dalam periode yang sama. Yang perlu dipantau berikutnya adalah pembayaran tranche obligasi senilai Rp1,24 triliun yang kini harus dilunasi dalam satu tahun ke depan, serta laporan keuangan penuh tahun 2026 yang akan menunjukkan apakah tren perbaikan margin dan pengurangan utang ini berlanjut.",
+  "sentimen": "positif"
  },
  {
   "slug": "nsss-direksi-perkuat-hak-suara-ke-42-16-via-repo",
@@ -1180,6 +1389,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers inspecting rows of sealed milk cartons moving along a packaging line conveyor inside a dairy factory",
   "takeaway": "Laporan ini condong positif bagi pemegang saham ULTJ, karena perusahaan benar benar mengembalikan uang tunai ke pemegang saham, Rp100 per saham atau total Rp1,04 triliun, dengan laba bersih Rp1,35 triliun dan saldo laba ditahan yang masih tersisa besar sehingga pembayaran ini tidak menggerus kesehatan keuangan perusahaan. Pos yang tersentuh adalah saldo laba ditahan, yaitu akumulasi keuntungan tahun-tahun sebelumnya yang belum dibagi, yang berkurang sejumlah nilai dividen, serta arus kas perusahaan yang akan keluar sebesar itu pada saat pembayaran; dividen tunai seperti ini tidak menambah jumlah saham beredar, jadi tidak ada dilusi laba per saham dari langkah ini sendiri. Yang perlu dipantau justru bukan dividen ini, melainkan proses penambahan modal lewat hak memesan efek terlebih dahulu yang disetujui dalam RUPSLB yang sama, yang bisa menerbitkan saham baru dalam jumlah besar untuk membiayai akuisisi Frisian Flag Indonesia, karena itu yang berpotensi mengubah jumlah saham beredar dan laba per saham ke depan. Tanggal pembayaran dividen sendiri sudah pasti, 9 Desember 2026.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "asbi-terangkan-lonjakan-liabilitas-pinjam-ke-pemegang-saham",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Terangkan [Lonjakan] Liabilitas, Pinjam ke Pemegang Saham",
+  "deck": "ASBI menjelaskan ke BEI bahwa total liabilitasnya melonjak lebih dari 20 persen, didorong pinjaman dari pemegang saham pengendali dan uang muka penjualan aset di Surabaya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T17:10:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109171332-65769-0/FinancialStatement-2026-III-ASBI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASBI",
+  "tags": [
+   "ASBI",
+   "Asuransi Bintang",
+   "liabilitas",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Asuransi Bintang Tbk (ASBI) menyampaikan surat penjelasan kepada Divisi Pemantauan Emiten Bursa Efek Indonesia, ditujukan kepada Direktur Penilaian Perusahaan I Gede Nyoman Yetna, menanggapi permintaan klarifikasi atas kenaikan pos Total Liabilitas lebih dari 20 persen. Surat bertanggal 9 November 2026 yang ditandatangani Direktur Zafar Dinesh Idham itu menyebut penyebab utamanya adalah penambahan Rp46.586.025.930 pada akun Utang Pemegang Saham selama Agustus hingga September 2026, yang terdiri dari pinjaman subordinasi (bridging loan) dan utang uang muka penjualan aset tetap.",
+   "Rincian bridging loan senilai Rp21.586.025.930 berasal dari empat pencairan pihak berelasi: Rp844.661.894 dari PT Srihana Utama pada 14 Agustus 2026, Rp558.356.613 dari PT Warisan Kasih Bunda pada 18 Agustus 2026, Rp11.825.266.522 dari PT Srihana Utama lagi pada 28 Agustus 2026, dan Rp8.357.740.901 dari PT Ngrumat Bondo Utomo pada 3 September 2026. PT Srihana Utama sendiri tercatat dalam catatan laporan keuangan sebagai pemegang saham akhir (pengendali) Grup ASBI.",
+   "Sisa kenaikan liabilitas berasal dari uang muka penjualan tanah dan bangunan di Surabaya senilai Rp25 miliar yang diterima pada September 2026. Dari jumlah itu, Rp2,5 miliar sudah disetorkan ke 12 pemegang sertifikat lain, sehingga utang uang muka penjualan aset yang masih tercatat per 30 September 2026 sebesar Rp22,5 miliar. Dengan tambahan ini, total liabilitas ASBI naik menjadi Rp590,9 miliar dari Rp368,9 miliar pada akhir 2025, sementara jumlah ekuitas turun dari Rp460,6 miliar menjadi Rp360,1 miliar seiring rugi bersih Rp26,9 miliar yang dibukukan perusahaan sepanjang sembilan bulan pertama 2026."
+  ],
+  "fotoAdegan": "Exterior facade of a mid-rise office building in a busy Jakarta financial district, pedestrians walking past at midday, overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi ASBI, karena kebutuhan dana talangan dari pemegang saham sendiri dan uang muka penjualan aset menunjukkan perusahaan butuh topangan likuiditas segar di tengah rugi bersih yang sudah dibukukan, bukan sekadar transaksi rutin antar-pihak berelasi. Pos yang tersentuh adalah ekuitas dan arus kas, ekuitas yaitu selisih antara aset dan utang perusahaan yang jadi penyangga kalau terjadi kerugian, dan di sini penyangga itu menyusut sekitar seperlima dalam sembilan bulan, sementara kas memang bertambah tapi sumbernya adalah utang baru, bukan hasil usaha. Pelaku pasar biasanya mencermati rasio utang terhadap ekuitas seperti ini karena menunjukkan seberapa besar perusahaan bergantung pada suntikan pihak luar untuk menjaga operasionalnya tetap berjalan. Yang perlu dipantau selanjutnya adalah apakah pinjaman talangan ini bersifat sementara dan akan dilunasi, atau justru akan dikonversi jadi modal permanen, serta bagaimana posisi kas dan liabilitas ASBI pada laporan keuangan tahun penuh 2026 yang akan terbit awal tahun depan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "srtg-jadwalkan-rupslb-virtual-pada-16-desember-2026",
@@ -1523,6 +1758,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "bssr-catat-laba-bersih-naik-81-jadi-us-111-7-juta-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "BSSR Catat [Laba] Bersih Naik 81% Jadi US$111,7 Juta di 9M26",
+  "deck": "Laba bersih BSSR naik 81 persen jadi US$111,7 juta pada sembilan bulan 2026, sementara liabilitas naik 64 persen karena utang dividen interim yang sudah dibagikan Oktober lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T16:00:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109162154-65771-0/FinancialStatement-2026-III-BSSR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSSR",
+  "tags": [
+   "BSSR",
+   "Baramulti Suksessarana",
+   "laba bersih",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Baramulti Suksessarana Tbk (BSSR) menyampaikan koreksi laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026, disertai surat penjelasan resmi ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia soal kenaikan total liabilitas yang melampaui ambang 20 persen sesuai aturan keterbukaan informasi bursa. Total liabilitas BSSR dan entitas anak naik dari US$97,19 juta per 31 Desember 2025 menjadi US$159,02 juta per 30 September 2026, atau bertambah US$61,82 juta, setara 64 persen.",
+   "Dalam surat bertanggal 9 November 2026, Corporate Secretary BSSR Bueno Jurnalis menjelaskan lonjakan liabilitas itu terutama didorong oleh pengakuan utang dividen sebesar US$59,29 juta untuk Dividen Interim Pertama Tahun Buku 2026, yang sudah dibagikan pada 9 Oktober 2026, setelah dikurangi pelunasan utang dividen interim 2025 sebesar US$19,90 juta pada 15 Januari 2026. Penyebab lain adalah kenaikan utang pajak US$10,08 juta akibat pencatatan PPh 29 periode berjalan, serta kenaikan utang usaha US$6,82 juta. Di sisi lain, pinjaman bank jangka panjang dan jangka pendek masing-masing berkurang US$218.267 dan US$1,07 juta karena pelunasan penuh.",
+   "Dari sisi kinerja, penjualan BSSR naik dari US$514,99 juta menjadi US$547,25 juta pada sembilan bulan 2026, sementara laba bruto melonjak dari US$151,88 juta menjadi US$219,41 juta. Laba usaha hampir dua kali lipat, dari US$73,02 juta menjadi US$141,55 juta, dan laba bersih periode berjalan naik 81 persen dari US$61,58 juta menjadi US$111,73 juta. Laba per saham dasar ikut naik dari US$0,0235 menjadi US$0,0427. Kenaikan laba ini terjadi meski perusahaan membagikan dividen tunai total US$130 juta selama periode tersebut, yang membuat ekuitas turun dari US$273,03 juta menjadi US$255,09 juta."
+  ],
+  "fotoAdegan": "Large haul trucks loading coal at an open-pit mine in Kalimantan, dust rising under overcast tropical sky, wide shot",
+  "takeaway": "Laporan ini condong positif bagi BSSR, karena pertumbuhan laba yang tajam jauh lebih mencolok dibanding kenaikan utangnya, dan lonjakan liabilitas 64 persen itu hampir seluruhnya berasal dari pengakuan utang dividen yang memang sudah dibagikan ke pemegang saham awal Oktober, bukan utang usaha baru. Yang patut dicermati adalah ekuitas, yaitu selisih antara total aset dan total utang yang mencerminkan kekayaan bersih pemegang saham, yang turun dari US$273,03 juta menjadi US$255,09 juta semata karena BSSR membagikan dividen tunai US$130 juta, bukan karena kinerja memburuk. Laba per saham, yakni bagian laba yang secara hitungan menjadi hak tiap lembar saham, naik hampir dua kali lipat dari US$0,0235 menjadi US$0,0427, sejalan dengan laba bersih yang melonjak 81 persen. Pemegang saham bisa memantau laporan keuangan tahun penuh 2026 nanti untuk melihat apakah pertumbuhan laba sembilan bulan ini bertahan sampai akhir tahun, sekaligus mencermati kemungkinan dividen interim lanjutan mengingat saldo laba ditahan BSSR masih tersisa US$178,87 juta.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "abmm-cipta-kridatama-raih-kontrak-tambang-batu-bara-5-tahun",
   "category": "Aksi Korporasi",
   "title": "ABMM: Cipta Kridatama Raih [Kontrak] Tambang Batu Bara 5 Tahun",
@@ -1678,6 +1939,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Stacks of steel pipes in an industrial yard, a worker in a hard hat inspecting welds under overcast morning light",
   "takeaway": "Laporan ini netral bagi ISSP karena penambahan 1.822.500 saham hanya setara 0,04 persen dari kepemilikan Cakra Bhakti Para Putra sebelumnya, terlalu kecil untuk dibaca sebagai sinyal keyakinan baru meski arahnya pembelian, bukan pelepasan. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, sebab pelaku pasar memantau apakah pemegang mayoritas menambah atau mengurangi kendalinya, dan di laporan ini hak suara Cakra Bhakti Para Putra hanya bergerak dari 57,77% menjadi 57,80%, sehingga tidak ada perubahan berarti pada kendali perusahaan. Yang perlu dipantau berikutnya adalah apakah pembelian serupa berlanjut di laporan-laporan mendatang, serta bagaimana ini berjalan beriringan dengan program buyback saham ISSP senilai Rp150 miliar dengan batas harga Rp600 yang baru diumumkan pekan ini, mengingat harga pembelian Cakra Bhakti Para Putra di kisaran Rp378 sampai Rp415 jauh di bawah batas tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "auto-laba-naik-tapi-utang-usaha-melonjak-29",
+  "category": "Aksi Korporasi",
+  "title": "AUTO: Laba Naik, tapi Utang Usaha [Melonjak] 29%",
+  "deck": "Laba bersih AUTO naik 11,6 persen jadi Rp1,85 triliun dalam sembilan bulan 2026, tapi utang usahanya melonjak 29 persen karena harga bahan baku dan persediaan naik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T14:39:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109145152-65768-0/FinancialStatement-2026-III-AUTO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AUTO",
+  "tags": [
+   "AUTO",
+   "laporan keuangan",
+   "utang usaha",
+   "Astra Otoparts"
+  ],
+  "body": [
+   "PT Astra Otoparts Tbk (AUTO) menyampaikan koreksi atas laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan bersih perusahaan tercatat Rp17,02 triliun, naik dari Rp14,81 triliun pada periode yang sama tahun 2025, sementara laba bersih periode berjalan naik 11,6 persen menjadi Rp1,85 triliun dari Rp1,66 triliun. Laba yang dapat diatribusikan kepada pemilik entitas induk sebesar Rp1,8 triliun, mengangkat laba per saham dasar dan dilusian menjadi Rp373, dari Rp325 pada periode sebelumnya.",
+   "Di sisi lain, total liabilitas konsolidasian AUTO melonjak 28,9 persen menjadi Rp7,29 triliun per 30 September 2026, dari Rp5,65 triliun pada akhir Desember 2025. Kenaikan ini melewati ambang 20 persen yang mewajibkan perusahaan menyampaikan surat keterbukaan khusus ke Bursa Efek Indonesia sesuai Peraturan Bursa Nomor I-E. Dalam surat bernomor 097/ACC/AOP/XI/2026 tertanggal 9 November 2026 yang ditandatangani Direktur/Corporate Secretary Sophie Handili, perusahaan menjelaskan kenaikan liabilitas terutama berasal dari utang usaha yang membesar akibat harga perolehan bahan baku yang lebih tinggi dan peningkatan pembelian persediaan untuk mendukung operasional dan produksi. Utang usaha kepada pihak ketiga naik dari Rp1,68 triliun menjadi Rp2,33 triliun, sementara persediaan naik dari Rp2,53 triliun menjadi Rp3,3 triliun.",
+   "Dari sisi kas, arus kas bersih dari aktivitas operasi justru turun menjadi Rp1,23 triliun dari Rp1,42 triliun pada periode yang sama tahun lalu, meski laba bersih tumbuh. Kas dan setara kas pada akhir periode tetap naik menjadi Rp5,09 triliun dari Rp4,53 triliun, didukung antara lain oleh penerimaan dividen tunai dari entitas asosiasi dan ventura bersama senilai Rp784,56 miliar. Selama sembilan bulan ini, perusahaan juga membayarkan dividen tunai Rp819,36 miliar kepada pemegang saham pemilik entitas induk, naik dari Rp641,02 miliar pada periode sebelumnya."
+  ],
+  "fotoAdegan": "Workers assembling small metal automotive components on a factory production line, stacked parts bins, industrial warehouse lighting",
+  "takeaway": "Laporan ini netral: pendapatan dan laba AUTO tumbuh dua digit, tapi uang tunai yang benar-benar diterima dari aktivitas operasi malah turun 13 persen dan utang usahanya melonjak di atas ambang 20 persen yang memicu keterbukaan khusus ke bursa, jadi pertumbuhan laba di atas kertas belum tentu sejalan dengan kondisi kas perusahaan. Yang tersentuh di sini adalah arus kas operasi, yakni uang tunai yang betul-betul masuk dari jualan sehari-hari sebelum dipakai untuk investasi atau bayar utang, dan ini penting karena kalau laba naik namun kasnya seret, biasanya berarti uang perusahaan banyak tertahan di persediaan dan utang usaha yang belum dibayar, bukan berarti bisnisnya melemah. Pelaku pasar juga mencermati utang usaha dan persediaan yang naik lebih dari 30 persen, karena kalau harga bahan baku terus mahal, margin laba bisa makin tertekan ke depan. Yang perlu dipantau berikutnya adalah apakah kenaikan utang usaha dan persediaan ini mereda atau terus membesar di laporan tahunan 2026, mengingat manajemen sendiri baru mengakui ke bursa pada 9 November 2026 bahwa pemicunya adalah harga bahan baku yang lebih tinggi dan pembelian persediaan yang lebih besar untuk produksi.",
   "sentimen": "netral"
  },
  {
@@ -1940,6 +2227,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "indx-kas-tanah-laut-tinggal-rp22-juta-ekuitas-susut-20",
+  "category": "Aksi Korporasi",
+  "title": "INDX: [Kas] Tanah Laut Tinggal Rp22 Juta, Ekuitas Susut 20%",
+  "deck": "Laporan keuangan kuartal III 2025 Tanah Laut Tbk menunjukkan kas perusahaan menyusut hingga 98 persen sementara utang jangka panjang justru melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T13:51:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/20261109140205-65764-0/FinancialStatement-2025-III-INDX.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDX",
+  "tags": [
+   "INDX",
+   "Tanah Laut",
+   "laporan keuangan",
+   "emiten"
+  ],
+  "body": [
+   "PT Tanah Laut Tbk (INDX), dulu bernama PT Indoexchange Tbk, menyampaikan koreksi laporan keuangan interim untuk sembilan bulan yang berakhir 30 September 2025. Kas dan setara kas perusahaan tercatat hanya Rp21,98 juta per akhir September 2025, turun drastis dari Rp1,42 miliar pada akhir Desember 2024, atau susut sekitar 98 persen. Total aset ikut turun dari Rp48,38 miliar menjadi Rp46,09 miliar, sementara total liabilitas justru naik dari Rp19,39 miliar menjadi Rp23,02 miliar, didorong utang lain-lain jangka panjang yang melonjak dari Rp8,33 miliar menjadi Rp11,92 miliar. Akibatnya, ekuitas atau modal bersih pemegang saham turun dari Rp28,99 miliar menjadi Rp23,07 miliar, seiring akumulasi rugi yang bertambah dari Rp74,20 miliar menjadi Rp80,12 miliar.",
+   "Dari sisi usaha, pendapatan perusahaan turun dari Rp312,13 juta pada sembilan bulan 2024 menjadi Rp191,77 juta pada periode yang sama tahun ini, atau turun sekitar 38,5 persen. Meski begitu, rugi bersih periode berjalan justru menyempit dari Rp8,83 miliar menjadi Rp5,93 miliar, sehingga rugi per saham membaik dari Rp20,17 menjadi Rp13,53 per saham. Arus kas dari aktivitas operasi masih minus Rp4,92 miliar dalam sembilan bulan ini, dan kekurangan itu ditutup dengan penambahan utang lain-lain senilai Rp3,53 miliar lewat aktivitas pendanaan, bukan dari hasil operasi.",
+   "Laporan ini juga mencantumkan susunan entitas anak Tanah Laut per 30 September 2025, yaitu PT Pelabuhan Laut Sriwijaya dengan kepemilikan 99,96 persen yang mengelola terminal dan fasilitas pelabuhan, PT Iona Laut Logistik dengan kepemilikan 99,90 persen di bidang perdagangan dan logistik, serta PT Surya Energi Abadi dengan kepemilikan 99,00 persen di bidang perkebunan kelapa dan pengolahan minyak kelapa, yang baru masuk daftar entitas anak pada 2025 setelah sebelumnya tidak tercatat kepemilikannya di 2024. Ketiga entitas anak itu tercatat dengan status operasi 'Belum Aktif'. Susunan pengurus per tanggal laporan terdiri dari Ch'ng Chin Hon sebagai Presiden Komisaris, Mohamad Hekal sebagai Komisaris Independen, Harun Bin Halim Rasip sebagai Presiden Direktur, dan Mohd Sofian Bin Jaafar sebagai Direktur Independen, dengan jumlah karyawan grup tetap 8 orang seperti akhir 2024."
+  ],
+  "fotoAdegan": "Quiet cargo port terminal with idle gantry cranes and stacked shipping containers under an overcast sky, no workers in sight",
+  "takeaway": "Laporan ini condong negatif bagi Tanah Laut karena kas perusahaan nyaris terkuras sementara utangnya justru membesar, kombinasi yang biasanya jadi tanda peringatan soal kemampuan bayar jangka pendek. Yang tersentuh di sini adalah kas dan setara kas, yakni uang tunai yang bisa langsung dipakai untuk operasional sehari-hari, serta ekuitas, modal bersih pemegang saham yang terus tergerus karena perusahaan belum mencetak untung sejak tahun-tahun sebelumnya. Rugi bersihnya memang mengecil dibanding periode yang sama tahun lalu dan rugi per sahamnya membaik, tapi itu belum cukup menutup kebutuhan kas operasional yang masih minus Rp4,92 miliar dalam sembilan bulan, sehingga kekurangannya ditambal dengan menambah utang, bukan dengan menghasilkan uang dari kegiatan usaha. Laporan ini juga belum diaudit, sehingga angka final beserta opini auditor baru akan terlihat pada laporan keuangan tahunan perusahaan untuk tahun buku 2025 yang akan terbit setelah periode ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bsde-lunasi-utang-bank-rp1-24-triliun-lebih-awal-dari-dana-obligasi",
   "category": "Aksi Korporasi",
   "title": "BSDE Lunasi Utang Bank Rp1,24 Triliun [Lebih Awal] dari Dana Obligasi",
@@ -1963,6 +2276,33 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Construction crew paving a wide boulevard inside a large suburban township development, cranes and unfinished buildings in the background, late afternoon light",
   "takeaway": "Laporan ini condong positif bagi BSDE karena dana obligasi dan sukuk senilai total Rp2,73 triliun telah habis terpakai sesuai rencana, termasuk untuk melunasi lebih awal pinjaman bank ke BTN dan Bank Permata senilai gabungan Rp1,24 triliun. Pos yang tersentuh di sini adalah utang berbunga atau pinjaman bank perseroan, karena pelunasan lebih cepat ini biasanya mengurangi beban bunga yang harus dibayar BSDE ke depan dan memperbaiki rasio utang terhadap modalnya. Dokumen ini sendiri hanya mengoreksi laporan sebelumnya yang terbit 15 Juli 2026 tanpa menjelaskan rincian apa yang diperbaiki, jadi publik belum bisa menilai seberapa besar revisinya. Yang perlu dipantau selanjutnya adalah laporan realisasi penggunaan dana untuk periode berikutnya, yang wajib disampaikan BSDE kepada OJK sesuai Peraturan OJK Nomor 40 Tahun 2025, untuk memastikan tidak ada koreksi berulang pada data yang sama.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bino-balik-untung-rp6-57-miliar-di-semester-i-koreksi-laporan",
+  "category": "Aksi Korporasi",
+  "title": "BINO Balik [Untung] Rp6,57 Miliar di Semester I, Koreksi Laporan",
+  "deck": "PT Perma Plasindo Tbk (BINO) menyampaikan koreksi laporan keuangan interim Juni 2026: pendapatan naik 51,8 persen dan laba bersih Rp6,57 miliar, berbalik dari rugi semester sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T13:04:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109132045-65767-0/FinancialStatement-2026-II-BINO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BINO",
+  "tags": [
+   "BINO",
+   "laporan keuangan",
+   "emiten alat tulis",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Perma Plasindo Tbk (BINO) menyampaikan koreksi atas laporan keuangan interim yang tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2026. Surat koreksi bernomor 409/CORSEC/BINO/XI/2026 ini disampaikan ke Bursa Efek Indonesia dan Otoritas Jasa Keuangan pada 9 November 2026, ditandatangani oleh Lie Fonda selaku Direktur dan Corporate Secretary. Direktur Utama Hong Zhishan dan Direktur Lie Fonda sebelumnya telah menandatangani surat pernyataan tanggung jawab direksi atas laporan keuangan konsolidasian tersebut pada 29 Juli 2026.",
+   "Dari sisi kinerja, pendapatan neto BINO pada semester I 2026 tercatat Rp245,19 miliar, naik 51,8 persen dari Rp161,56 miliar pada periode yang sama tahun 2025. Laba usaha berbalik menjadi Rp6,99 miliar, dari sebelumnya rugi usaha Rp3,23 miliar. Laba bersih yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp6,57 miliar, berbalik dari rugi bersih Rp4,14 miliar pada semester I 2025, dengan laba per saham dasar Rp3,03 dibandingkan rugi per saham Rp1,72 setahun sebelumnya.",
+   "Di sisi posisi keuangan, total aset BINO per 30 Juni 2026 mencapai Rp613,89 miliar, naik 10,3 persen dari Rp556,64 miliar pada akhir 2025. Total liabilitas melonjak 33,63 persen menjadi Rp203,00 miliar dari Rp151,91 miliar, yang menurut surat penjelasan Perseroan ke OJK dan BEI tertanggal 29 Juli 2026 terutama disebabkan kenaikan utang usaha kepada pihak ketiga dari Rp51,21 miliar menjadi Rp100,84 miliar. Total ekuitas naik tipis menjadi Rp410,88 miliar dari Rp404,73 miliar, dengan akumulasi defisit yang belum ditentukan penggunaannya menyusut menjadi Rp29,49 miliar dari Rp36,09 miliar.",
+   "Perseroan mengonsolidasikan sejumlah entitas anak, antara lain PT Batara Indah yang bergerak di industri alat tulis di Bogor sejak 1979 dengan total aset Rp239,29 miliar, dan PT Bino Mitra Sejati yang berdagang alat tulis di Bogor sejak 2014 dengan aset Rp180,87 miliar. Kepemilikan BINO di kedua entitas tersebut serta di PT Solumitra Mandiri Abadi dan PT Batara Indah Mulia tercatat 99,9 persen, sementara entitas anak termuda, PT Bino Digital Solusi yang bergerak di perdagangan komputer, belum beroperasi secara komersial."
+  ],
+  "fotoAdegan": "Factory workers packing boxes of stationery products onto a conveyor belt inside a busy warehouse",
+  "takeaway": "Catatan redaksi condong positif untuk BINO karena laporan ini menunjukkan pembalikan dari rugi usaha dan rugi bersih pada semester I 2025 menjadi laba, didorong pendapatan yang melonjak 51,8 persen menjadi Rp245,19 miliar. Pos yang paling tersentuh adalah utang usaha kepada pihak ketiga, yang naik hampir dua kali lipat menjadi Rp100,84 miliar sehingga total liabilitas melonjak 33,63 persen, sementara rasio lancar, yaitu ukuran seberapa jauh aset yang mudah dicairkan menutupi utang jangka pendek, turun dari 304,85 persen jadi 218,03 persen meski masih jauh di atas batas aman 100 persen. Laba per saham ikut berbalik positif menjadi Rp3,03 dari rugi Rp1,72 pada periode yang sama tahun lalu, menandakan perbaikan hasil yang diterima pemegang saham per lembar sahamnya. Yang perlu dipantau selanjutnya adalah apakah kenaikan utang usaha ini berlanjut di laporan kuartal III dan laporan tahunan 2026, mengingat laporan yang beredar saat ini adalah versi koreksi yang disampaikan BINO pada 9 November 2026 atas laporan untuk periode yang sama.",
   "sentimen": "positif"
  },
  {

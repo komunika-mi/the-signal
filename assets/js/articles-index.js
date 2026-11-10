@@ -5,6 +5,115 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pdpp-panggil-rupslb-ubah-susunan-dewan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "PDPP Panggil RUPSLB Ubah Susunan [Dewan Komisaris]",
+  "deck": "RUPSLB PT Primadaya Plastisindo digelar 2 Desember 2026 untuk mengganti susunan Dewan Komisaris, pemegang saham per 9 November berhak hadir.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PDPP",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Primadaya Plastisindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6876b2d7c4_45fb6c0ddc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "atla-komisaris-rudi-sutantra-lepas-10-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Komisaris Rudi Sutantra [Lepas] 10 Juta Saham Lewat Repo",
+  "deck": "Komisaris ATLA Rudi R Sutantra melepas 10 juta saham lewat mekanisme repurchase agreement pada Rp17 per saham, hak suaranya turun dari 40,49% menjadi 40,33%.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATLA",
+   "komisaris",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-2691-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "doss-klarifikasi-lonjakan-saham-pemegang-utama-tanpa-rencana-jual",
+  "category": "Aksi Korporasi",
+  "title": "DOSS Klarifikasi Lonjakan Saham, Pemegang Utama Tanpa [Rencana] Jual",
+  "deck": "Menjawab permintaan Bursa Efek Indonesia soal volatilitas transaksi, DOSS menyatakan tak mengetahui informasi material dan pemegang saham utama memastikan tak berniat mengubah kepemilikan sahamnya.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOSS",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e441e7c609_8fa9818f56.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "halo-direksi-beli-saham-hak-suara-naik-ke-1-158",
+  "category": "Aksi Korporasi",
+  "title": "HALO: Direksi [Beli] Saham, Hak Suara Naik ke 1,158%",
+  "deck": "Direksi PT Haloni Jane Tbk, Juliana, menambah kepemilikan saham perseroan sebanyak 394.900 lembar lewat tiga transaksi pembelian pada 5-6 November 2026, senilai sekitar Rp18,4 juta.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HALO",
+   "Haloni Jane",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-6239-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "koka-jadwalkan-rupslb-18-desember-dps-tutup-25-november",
+  "category": "Aksi Korporasi",
+  "title": "KOKA Jadwalkan [RUPSLB] 18 Desember, DPS Tutup 25 November",
+  "deck": "Koka Indonesia akan menggelar RUPSLB pada 18 Desember 2026, dengan pemegang saham yang tercatat hingga 25 November 2026 berhak hadir dan memberi suara.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOKA",
+   "RUPSLB",
+   "pemegang saham",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f2c8bf8c5_adaaefe10f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suri-direksi-imelda-lin-tambah-saham-jadi-490-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "SURI: Direksi Imelda Lin [Tambah] Saham, Jadi 490.000 Lembar",
+  "deck": "Direksi PT Maja Agung Latexindo Tbk, Imelda Lin, membeli 290.000 saham SURI dalam tiga transaksi awal November 2026, menggandakan kepemilikannya meski porsinya tetap kecil.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SURI",
+   "Maja Agung Latexindo",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-6963-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "halo-komisaris-beli-250-000-saham-hak-suara-ke-0-08",
+  "category": "Aksi Korporasi",
+  "title": "HALO: [Komisaris] Beli 250.000 Saham, Hak Suara ke 0,08%",
+  "deck": "Dewan Komisaris HALO, Imelda Lin, membeli 250.000 saham perusahaan secara tidak langsung dalam empat transaksi pada 2-4 November 2026, menaikkan hak suaranya ke 0,08 persen.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HALO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-4641-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-bahas-24-dari-25-bidang-aksesi-oecd",
   "category": "Makroekonomi",
   "title": "Indonesia Bahas [24] dari 25 Bidang Aksesi OECD",
@@ -53,6 +162,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824626.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "avia-panggil-rupslb-bahas-penghapusan-saham-treasuri",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Panggil RUPSLB, Bahas Penghapusan Saham [Treasuri]",
+  "deck": "AVIA memanggil RUPSLB 2 Desember 2026 untuk menyetujui penghapusan seluruh saham treasuri lewat pengurangan modal disetor.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "RUPSLB",
+   "saham treasuri",
+   "pengurangan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f8b8f2c6d_2efbc5ccdb.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-emas-antam-naik-jadi-rp2-560-000-per-gram",
@@ -438,6 +563,22 @@ var ARTICLES = [
    "go private"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/269b59ba05_4f2bed2560.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbma-terbitkan-obligasi-tahap-vi-rp2-5-triliun-bunga-9-10-75",
+  "category": "Aksi Korporasi",
+  "title": "MBMA Terbitkan Obligasi [Tahap VI] Rp2,5 Triliun, Bunga 9-10,75%",
+  "deck": "MBMA menawarkan obligasi Tahap VI senilai hingga Rp2,5 triliun, tiga seri berbunga 9-10,75 persen, bagian dari program obligasi berkelanjutan Rp16 triliun.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBMA",
+   "obligasi korporasi",
+   "pasar modal",
+   "nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c033db52a8_80d2f125f4.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6316,153 +6457,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4f59af71f6_17cba0183c.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "rhb-sesuaikan-waran-terstruktur-itmg-ikuti-dividen-us-74-2-juta",
-  "category": "Aksi Korporasi",
-  "title": "RHB Sesuaikan Waran Terstruktur [ITMG] Ikuti Dividen US$74,2 Juta",
-  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan Waran Terstruktur ITMG mengikuti dividen tunai US$74,2 juta dari PT Indo Tambangraya Megah, dibayarkan 18 November 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "ITMG",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a3c1716e9_66b3e94ce8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inco-laba-melonjak-3-kali-lipat-jadi-us-147-juta-di-9m26",
-  "category": "Aksi Korporasi",
-  "title": "INCO: Laba [Melonjak] 3 Kali Lipat jadi US$147 Juta di 9M26",
-  "deck": "Vale Indonesia mencatat laba bersih US$147 juta pada 9 bulan 2026, naik hampir tiga kali lipat, sementara total liabilitas melonjak 36 persen akibat pinjaman bank baru US$175 juta.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INCO",
-   "Vale Indonesia",
-   "laba bersih",
-   "nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103164905-65722-0/FinancialStatement-2026-III-INCO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-tambah-kriteria-di-papan-pemantauan-khusus-bei",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Tambah Kriteria di Papan [Pemantauan Khusus] BEI",
-  "deck": "BEI menambahkan kriteria tidak ada pendapatan ke daftar masalah saham BOSS yang sudah berstatus pemantauan khusus akibat ekuitas negatif dan anak usaha bermasalah, efektif 4 November 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "Pemantauan Khusus",
-   "BEI",
-   "saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/21b5fc18db_3e4c5c3238.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kgi-hd-sesuaikan-waran-terstruktur-medc-usai-dividen-tunai",
-  "category": "Aksi Korporasi",
-  "title": "KGI (HD) Sesuaikan Waran [Terstruktur] MEDC usai Dividen Tunai",
-  "deck": "Harga dan rasio pelaksanaan waran MEDCHDCX6A serta MEDCHDCH7A disesuaikan menyusul dividen tunai MEDC, efektif 11 November 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HD",
-   "MEDC",
-   "waran terstruktur",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/807b3211ee_f6667efeb8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asdf-lunasi-obligasi-seri-a-rp300-miliar-lepas-dari-bei-4-november",
-  "category": "Aksi Korporasi",
-  "title": "ASDF Lunasi Obligasi [Seri A] Rp300 Miliar, Lepas dari BEI 4 November",
-  "deck": "Obligasi Berkelanjutan VII Astra Sedaya Finance Tahap II Seri A senilai Rp300 miliar jatuh tempo dan dihapus dari pencatatan BEI mulai 4 November 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASDF",
-   "obligasi",
-   "pasar modal",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e023079799_ef2059214f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-rugi-rp9-01-miliar-kuartal-iii-2025-defisit-modal-melebar",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Rugi Rp9,01 Miliar Kuartal III/2025, [Defisit] Modal Melebar",
-  "deck": "Laporan interim kuartal III 2025 BOSS mencatat rugi bersih Rp9,01 miliar dan defisiensi modal melebar jadi Rp232,66 miliar, sementara penjualan tetap nihil dan kas menyusut tajam.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "laporan keuangan",
-   "defisit modal",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/20261103163544-65720-0/FinancialStatement-2025-III-BOSS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-dan-cbre-masuk-pemantauan-khusus-bei-ekuitas-negatif",
-  "category": "Aksi Korporasi",
-  "title": "LAPD dan CBRE Masuk [Pemantauan] Khusus BEI, Ekuitas Negatif",
-  "deck": "BEI menetapkan saham LAPD dan CBRE masuk daftar pemantauan khusus efektif 4 November 2026 karena ekuitas keduanya negatif di laporan keuangan terakhir.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "CBRE",
-   "pemantauan khusus",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e587e5a483_e10ff8d515.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smelter-menjamur-esdm-kaji-pembatasan-produk-setengah-jadi",
-  "category": "Industri",
-  "title": "Smelter Menjamur, ESDM Kaji [Pembatasan] Produk Setengah Jadi",
-  "deck": "Pemerintah mengkaji apakah smelter yang baru menghasilkan produk setengah jadi masih bisa terus dibangun bebas, atau wajib diarahkan sampai produk akhir.",
-  "date": "3 November 2026",
-  "image": "assets/img/smelter-menjamur-esdm-kaji-pembatasan-produk-setengah-jadi.jpg",
-  "imageV": "mw0h115x",
-  "tags": [
-   "smelter",
-   "hilirisasi",
-   "nikel",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/smelter-membludak-produknya-masih-setengah-jadi-pemerintah-siapkan-kajian",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "harga-nikel-melorot-pemerintah-perketat-izin-produksi",
-  "category": "Energi",
-  "title": "Harga Nikel Melorot, Pemerintah [Perketat] Izin Produksi",
-  "deck": "Kelebihan pasokan nikel hampir 800 ribu ton membuat harga turun ke bawah US$16.000 per ton; pemerintah akan mengetatkan RKAB untuk menahan produksi.",
-  "date": "3 November 2026",
-  "image": "assets/img/harga-nikel-melorot-pemerintah-perketat-izin-produksi.jpg",
-  "imageV": "mw0h12pr",
-  "tags": [
-   "nikel",
-   "RKAB",
-   "ESDM",
-   "Bahlil Lahadalia"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasokan-nikel-berlebih-bahlil-siapkan-pengetatan-rkab-untuk-jaga-harga",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

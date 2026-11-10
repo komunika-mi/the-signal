@@ -3,6 +3,182 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pdpp-panggil-rupslb-ubah-susunan-dewan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "PDPP Panggil RUPSLB Ubah Susunan [Dewan Komisaris]",
+  "deck": "RUPSLB PT Primadaya Plastisindo digelar 2 Desember 2026 untuk mengganti susunan Dewan Komisaris, pemegang saham per 9 November berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T12:27:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6876b2d7c4_45fb6c0ddc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PDPP",
+  "tags": [
+   "PDPP",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Primadaya Plastisindo"
+  ],
+  "body": [
+   "PT Primadaya Plastisindo Tbk (PDPP) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 2 Desember 2026, pukul 10.00 WIB di Ruang Rapat Gedung B, Jl. Raya Pasar Kemis No. 84, Sindang Jaya, Tangerang. Agenda rapat hanya satu, yaitu perubahan susunan anggota Dewan Komisaris Perseroan. Perseroan merujuk agenda ini pada Pasal 17 ayat 6 juncto Pasal 20 ayat 8 Anggaran Dasar, yang menyatakan bahwa anggota direksi dan dewan komisaris diangkat serta diberhentikan melalui RUPS. Dokumen pemanggilan ini belum menyebut nama calon yang akan masuk atau komisaris mana yang akan diganti.",
+   "Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Senin, 9 November 2026 pukul 16.00 WIB untuk saham di luar penitipan kolektif, atau yang tercatat di pemegang rekening maupun bank kustodian KSEI pada tanggal dan jam yang sama untuk saham dalam penitipan kolektif. Rapat digelar secara hybrid: kehadiran fisik dibatasi maksimal lima pemegang saham atau kuasanya berdasarkan prinsip siapa cepat dia dapat, sedangkan kehadiran elektronik dilayani lewat fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia.",
+   "Ada sejumlah tenggat yang perlu diperhatikan pemegang saham. Pemberitahuan kehadiran fisik harus dikirim lewat email paling lambat Senin, 23 November 2026 pukul 17.00 WIB. Surat kuasa tertulis di luar sistem eASY.KSEI, lengkap dengan dokumen pendukung, harus disampaikan ke email Perseroan dan dokumen aslinya tiba di kantor Perseroan di alamat yang sama, ditujukan kepada Corporate Secretary, paling lambat Jumat, 27 November 2026. Sementara deklarasi kehadiran atau pemberian suara lewat eASY.KSEI ditutup Senin, 30 November 2026 pukul 12.00 WIB. Perseroan juga menganjurkan pemegang saham memberi kuasa kepada Biro Administrasi Efek, PT Sinartama Gunita, dengan memilih tipe kuasa independent representative dan menentukan sendiri pilihan suara untuk agenda rapat."
+  ],
+  "fotoAdegan": "Empty modern corporate meeting room with a long table and rows of chairs arranged for a formal shareholder gathering, soft daylight",
+  "takeaway": "Laporan ini netral bagi emiten karena isinya sebatas prosedur formal pemanggilan rapat, belum ada nama calon komisaris atau alasan penggantian yang bisa dinilai baik atau buruk bagi Perseroan. Pergantian anggota Dewan Komisaris tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau laba per saham, tapi tetap dipantau pasar karena komisaris bertugas mengawasi kinerja direksi dan ikut menyetujui keputusan penting seperti pembagian dividen atau rencana ekspansi, jadi siapa yang mengisi kursi itu memengaruhi arah pengawasan perusahaan ke depan. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 2 Desember 2026, termasuk nama dan susunan lengkap Dewan Komisaris yang baru setelah rapat selesai, serta kemungkinan keterbukaan informasi lanjutan dari Perseroan begitu keputusan diambil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "atla-komisaris-rudi-sutantra-lepas-10-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Komisaris Rudi Sutantra [Lepas] 10 Juta Saham Lewat Repo",
+  "deck": "Komisaris ATLA Rudi R Sutantra melepas 10 juta saham lewat mekanisme repurchase agreement pada Rp17 per saham, hak suaranya turun dari 40,49% menjadi 40,33%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T11:57:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-2691-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATLA",
+  "tags": [
+   "ATLA",
+   "komisaris",
+   "kepemilikan saham",
+   "repurchase agreement"
+  ],
+  "body": [
+   "PT Atlantis Subsea Indonesia Tbk (ATLA) melaporkan ke Otoritas Jasa Keuangan bahwa anggota Dewan Komisarisnya, Rudi R Sutantra, melepas 10.000.000 saham biasa perusahaan pada 6 November 2026 dengan harga Rp17 per saham. Transaksi ini tercatat sebagai penjualan tidak langsung yang dilakukan melalui mekanisme repurchase agreement, yakni perjanjian jual saham yang disertai kesepakatan untuk membeli kembali di kemudian hari, dengan batas akhir periode pelaksanaan pada 10 November 2026.",
+   "Akibat transaksi ini, jumlah saham yang dikuasai Rudi berkurang dari 2.510.254.200 lembar menjadi 2.500.254.200 lembar. Hak suaranya di ATLA pun turun dari 40,49 persen menjadi 40,33 persen. Meski begitu, saham yang dilepas hanya sekitar 0,4 persen dari total kepemilikannya, sehingga Rudi tetap menjadi pemegang saham dengan hak suara terbesar di perusahaan."
+  ],
+  "fotoAdegan": "An offshore support vessel with crane equipment anchored near a subsea cable-laying operation at dusk in Indonesian waters",
+  "takeaway": "Penilaian redaksi netral, karena saham yang dilepas komisaris ini hanya sekitar 0,4 persen dari total kepemilikannya dan tidak mengubah posisinya sebagai pemegang saham dengan hak suara terbesar di ATLA. Pos yang tersentuh di sini adalah hak suara dan struktur kepemilikan saham, yaitu ukuran kendali seorang pemegang saham atas keputusan perusahaan lewat rapat umum pemegang saham, dan pelaku pasar memperhatikannya karena perubahan hak suara pemegang saham utama bisa jadi sinyal soal arah kendali perusahaan meski dalam kasus ini perubahannya tipis. Yang perlu dipantau selanjutnya adalah nasib saham tersebut setelah 10 November 2026, batas akhir periode pelaksanaan perjanjian repurchase agreement, karena mekanisme ini membuka kemungkinan saham itu dibeli kembali oleh Rudi sesuai perjanjian, bukan berpindah tangan secara permanen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "doss-klarifikasi-lonjakan-saham-pemegang-utama-tanpa-rencana-jual",
+  "category": "Aksi Korporasi",
+  "title": "DOSS Klarifikasi Lonjakan Saham, Pemegang Utama Tanpa [Rencana] Jual",
+  "deck": "Menjawab permintaan Bursa Efek Indonesia soal volatilitas transaksi, DOSS menyatakan tak mengetahui informasi material dan pemegang saham utama memastikan tak berniat mengubah kepemilikan sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T11:42:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e441e7c609_8fa9818f56.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOSS",
+  "tags": [
+   "DOSS",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Global Sukses Digital Tbk (DOSS) memberikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan klarifikasi bernomor S-13958/BEI.PP3/11-2026 terkait volatilitas transaksi saham perseroan. Jawaban disampaikan melalui surat nomor 053/GSD-CORSEC/XI/2026 tertanggal 10 November 2026 yang ditandatangani Direktur Eddy Yulianto.",
+   "Dalam surat itu, DOSS menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga sahamnya, baik sesuai Peraturan OJK Nomor 31/POJK.04/2015 maupun Peraturan BEI Nomor I-E. Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, serta tidak memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa. Tidak ada pula informasi material lain terkait kelangsungan usaha perseroan yang belum diungkapkan ke publik.",
+   "Soal kemungkinan pemegang saham utama melepas kepemilikannya, Corporate Secretary DOSS menyebut telah mengonfirmasi langsung kepada pemegang saham utama tersebut. Hasilnya, hingga saat ini tidak ada rencana perubahan kepemilikan saham, dan komposisi kepemilikan yang ada dinilai perseroan masih mencerminkan komitmen jangka panjang. DOSS berjanji akan mengungkapkan secara terbuka apabila ke depan muncul informasi atau kejadian material terkait kepemilikan saham tersebut."
+  ],
+  "fotoAdegan": "Pedestrians crossing a busy street beneath glass office towers on Jalan Sudirman in Jakarta's business district at dusk",
+  "takeaway": "Dokumen ini condong netral karena isinya hanya rangkaian penyangkalan standar atas permintaan klarifikasi bursa, tanpa fakta baru yang mengubah hitungan fundamental DOSS, kecuali satu kabar yang cukup menenangkan yaitu pemegang saham utama memastikan tidak berniat mengubah porsi kepemilikannya. Yang disentuh di sini bukan laporan keuangan, melainkan kepercayaan pasar atas stabilitas komposisi pemegang saham dan hak suara, sebab itulah sebabnya bursa meminta penjelasan setiap kali harga atau volume transaksi saham suatu emiten bergerak tidak wajar dalam waktu singkat. Yang perlu dipantau berikutnya adalah apakah pergerakan harga dan volume transaksi DOSS tetap tidak biasa dalam hari-hari mendatang, karena jika berlanjut bursa bisa meminta klarifikasi ulang atau menghentikan sementara perdagangan sahamnya. Perseroan sendiri sudah menegaskan tidak ada rencana aksi korporasi apa pun dalam tiga bulan terhitung sejak surat ini terbit pada 10 November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "halo-direksi-beli-saham-hak-suara-naik-ke-1-158",
+  "category": "Aksi Korporasi",
+  "title": "HALO: Direksi [Beli] Saham, Hak Suara Naik ke 1,158%",
+  "deck": "Direksi PT Haloni Jane Tbk, Juliana, menambah kepemilikan saham perseroan sebanyak 394.900 lembar lewat tiga transaksi pembelian pada 5-6 November 2026, senilai sekitar Rp18,4 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T11:33:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-6239-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HALO",
+  "tags": [
+   "HALO",
+   "Haloni Jane",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Haloni Jane Tbk (HALO), Juliana, melaporkan penambahan kepemilikan saham perseroan melalui tiga transaksi pembelian pada 5 dan 6 November 2026. Berdasarkan laporan kepemilikan saham yang disampaikan ke Otoritas Jasa Keuangan pada 10 November 2026, jumlah saham Juliana bertambah dari 70.000.000 lembar menjadi 70.394.900 lembar, atau naik 394.900 lembar. Hak suaranya di perseroan pun naik tipis dari 1,15 persen menjadi 1,158 persen.",
+   "Pembelian dilakukan dalam tiga transaksi terpisah secara tidak langsung. Pada 5 November 2026, Juliana membeli 266.900 saham dengan harga Rp47 per saham. Sehari kemudian, ia membeli lagi 300 saham pada harga yang sama, Rp47 per saham, serta 127.700 saham dengan harga Rp46 per saham. Seluruh transaksi tercatat dengan tujuan pembelian saham, dengan total nilai ketiga transaksi tersebut sekitar Rp18,4 juta.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 1 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap anggota direksi, komisaris, atau pemegang saham utama melaporkan setiap perubahan kepemilikan sahamnya kepada OJK."
+  ],
+  "fotoAdegan": "Workers in blue uniforms inspecting rolls of latex gloves on a production line inside a rubber glove factory, bright industrial lighting",
+  "takeaway": "Penilaian saya netral, karena penambahan 394.900 saham ini hanya sekitar 0,56 persen dari kepemilikan awal Juliana dan nilai transaksinya cuma sekitar Rp18,4 juta, terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan. Yang berubah di sini cuma hak suara pribadi Juliana di perseroan, dari 1,15 persen menjadi 1,158 persen, bukan jumlah total saham HALO yang beredar di pasar, sehingga tidak mengubah struktur kendali perusahaan. Pasar biasanya memperhatikan transaksi pembelian saham oleh direksi karena bisa menunjukkan optimisme orang dalam, tapi ukuran transaksi ini terlalu remah untuk ditafsirkan sekuat itu. Yang perlu dipantau berikutnya adalah Rapat Umum Pemegang Saham Luar Biasa HALO yang dijadwalkan pada 10 Desember 2026, karena di sanalah agenda strategis perusahaan baru akan diungkap.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "koka-jadwalkan-rupslb-18-desember-dps-tutup-25-november",
+  "category": "Aksi Korporasi",
+  "title": "KOKA Jadwalkan [RUPSLB] 18 Desember, DPS Tutup 25 November",
+  "deck": "Koka Indonesia akan menggelar RUPSLB pada 18 Desember 2026, dengan pemegang saham yang tercatat hingga 25 November 2026 berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T11:26:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f2c8bf8c5_adaaefe10f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOKA",
+  "tags": [
+   "KOKA",
+   "RUPSLB",
+   "pemegang saham",
+   "IDX"
+  ],
+  "body": [
+   "PT Koka Indonesia Tbk (KOKA) menyampaikan keterbukaan informasi perihal rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), melalui surat bernomor 007.004/BOD/KOKA-IND/2026 tertanggal 10 November 2026 yang ditandatangani Direktur Utama Gao Jing. RUPSLB dijadwalkan berlangsung Jumat, 18 Desember 2026 pukul 14.00 WIB di Kantor Perseroan, Jl. Sultan Iskandar Muda No. 7, Kebayoran Lama, Jakarta Selatan.",
+   "Yang berhak hadir atau diwakili dalam rapat hanyalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) Perseroan pada 25 November 2026 sampai dengan pukul 16.00 WIB. Pemanggilan resmi yang memuat agenda rapat akan diumumkan pada 26 November 2026 melalui situs penyedia eRUPS milik KSEI, situs Bursa Efek Indonesia, dan situs resmi perusahaan di www.koka.co.id. Untuk pemberian kuasa, Perseroan akan menggunakan mekanisme elektronik melalui aplikasi Easy.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia.",
+   "Dokumen ini juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat usulan memenuhi Pasal 21.8a dan 21.8b Anggaran Dasar Perseroan serta sudah diterima Direksi paling lambat 7 hari sebelum tanggal Pemanggilan Rapat, atau sekitar 19 November 2026. Agenda lengkap RUPSLB sendiri belum diungkapkan dalam pemberitahuan ini dan baru akan tercantum dalam Pemanggilan Rapat resmi."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a corporate meeting hall in Jakarta, morning light through tall windows, no people yet.",
+  "takeaway": "Pengumuman ini netral bagi KOKA karena isinya baru sebatas jadwal dan syarat administratif rapat, belum memuat agenda atau keputusan apa pun yang menyentuh kondisi keuangan perseroan. Yang patut dicermati adalah tanggal pencatatan pemegang saham (DPS) pada 25 November 2026 pukul 16.00 WIB, yaitu batas kepemilikan saham yang menentukan siapa yang berhak hadir dan memberi suara di RUPSLB, sehingga pembelian saham setelah tanggal itu tidak otomatis memberi hak suara pada rapat ini. Pemegang saham yang ingin mengusulkan agenda juga harus mengirim usulannya ke Direksi paling lambat sekitar 19 November 2026. Yang perlu dipantau selanjutnya adalah Pemanggilan Rapat resmi pada 26 November 2026, karena di situlah agenda RUPSLB baru akan terungkap dan menentukan apakah rapat ini membawa dampak bagi pemegang saham, sebelum RUPSLB digelar pada 18 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "suri-direksi-imelda-lin-tambah-saham-jadi-490-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "SURI: Direksi Imelda Lin [Tambah] Saham, Jadi 490.000 Lembar",
+  "deck": "Direksi PT Maja Agung Latexindo Tbk, Imelda Lin, membeli 290.000 saham SURI dalam tiga transaksi awal November 2026, menggandakan kepemilikannya meski porsinya tetap kecil.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T11:08:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-6963-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SURI",
+  "tags": [
+   "SURI",
+   "Maja Agung Latexindo",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Maja Agung Latexindo Tbk (SURI), Imelda Lin, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menambah kepemilikan saham perusahaan melalui tiga transaksi pembelian tidak langsung. Pembelian pertama sebanyak 55.800 lembar pada 2 November 2026 di harga Rp60 per saham, disusul 60.000 lembar pada 4 November 2026 di harga Rp62, dan 174.200 lembar pada tanggal yang sama di harga Rp61. Total saham yang dibeli mencapai 290.000 lembar dengan nilai transaksi sekitar Rp17,7 juta, seluruhnya dengan tujuan yang tertulis sebagai pembelian saham.",
+   "Sebelum rangkaian transaksi ini, Imelda Lin tercatat memegang 200.000 lembar saham SURI dengan hak suara 0,003 persen dari total saham beredar perusahaan. Setelah pembelian, kepemilikannya naik menjadi 490.000 lembar dengan hak suara 0,0074 persen, atau bertambah 145 persen dibandingkan posisi sebelumnya. Laporan ini disampaikan sesuai ketentuan POJK Nomor 4/2024 yang mewajibkan direksi dan komisaris perusahaan terbuka melaporkan setiap perubahan kepemilikan saham mereka."
+  ],
+  "fotoAdegan": "Workers stacking raw rubber sheets at a small latex processing facility under a corrugated roof, humid tropical light",
+  "takeaway": "Laporan ini netral bagi fundamental SURI, karena meski arahnya pembelian bukan penjualan, nilainya hanya sekitar Rp17,7 juta dan hanya menggeser hak suara Imelda Lin dari 0,003 persen menjadi 0,0074 persen dari seluruh saham beredar, terlalu kecil untuk dibaca sebagai sinyal kuat soal arah perusahaan. Transaksi semacam ini juga tidak menyentuh pos kinerja perusahaan seperti ekuitas, arus kas, atau laba per saham, sebab sahamnya dibeli di pasar dari pemegang lain, bukan saham baru yang diterbitkan perusahaan, sehingga yang berubah hanya siapa pemegang sahamnya. Yang perlu dipantau berikutnya adalah apakah Imelda Lin atau direksi dan komisaris SURI lainnya melanjutkan pola pembelian ini di laporan-laporan susulan, sebab satu transaksi kecil belum menunjukkan tren, sementara volume yang terus membesar baru pantas dibaca sebagai sinyal keyakinan manajemen terhadap perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "halo-komisaris-beli-250-000-saham-hak-suara-ke-0-08",
+  "category": "Aksi Korporasi",
+  "title": "HALO: [Komisaris] Beli 250.000 Saham, Hak Suara ke 0,08%",
+  "deck": "Dewan Komisaris HALO, Imelda Lin, membeli 250.000 saham perusahaan secara tidak langsung dalam empat transaksi pada 2-4 November 2026, menaikkan hak suaranya ke 0,08 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T10:59:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-4641-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HALO",
+  "tags": [
+   "HALO"
+  ],
+  "body": [
+   "Imelda Lin, anggota Dewan Komisaris PT Haloni Jane Tbk (HALO), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan sebanyak 250.000 lembar melalui empat transaksi yang seluruhnya dilakukan secara tidak langsung. Transaksi pertama sebanyak 50.000 lembar saham biasa dibeli pada 2 November 2026 di harga Rp51 per lembar. Pada 4 November 2026, ia menambah lagi dengan tiga transaksi sekaligus: 100.000 lembar di harga Rp49, 50.000 lembar di harga Rp47, dan 50.000 lembar di harga Rp48. Seluruh pembelian itu dicatat dengan tujuan pembelian saham, dengan total nilai sekitar Rp12,2 juta.",
+   "Dengan tambahan ini, kepemilikan saham Imelda Lin di HALO naik dari 4.618.000 lembar menjadi 4.868.000 lembar, atau bertambah 250.000 lembar. Hak suaranya di perusahaan ikut naik, meski tipis, dari 0,075 persen menjadi 0,08 persen dari total saham beredar."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Penilaian saya netral, karena meski kenaikan 250.000 lembar ini setara sekitar 5,4 persen dari kepemilikan pribadi Imelda Lin sebelumnya, nilai uangnya hanya sekitar Rp12,2 juta dan hak suaranya di perusahaan tetap nyaris nol, dari 0,075 persen ke 0,08 persen. Yang tersentuh di sini adalah hak suara pelapor, yaitu porsi kekuatan suara seorang pemegang saham saat voting di rapat pemegang saham, bukan jumlah saham beredar perusahaan secara keseluruhan karena transaksi ini cuma memindahkan saham yang sudah ada, bukan menerbitkan saham baru. Pelaku pasar biasanya memperhatikan pembelian oleh komisaris atau direksi sebagai sinyal kepercayaan pada perusahaan, tapi dalam skala sekecil ini sinyalnya terlalu lemah untuk dibaca sebagai pernyataan sikap. Yang perlu dipantau berikutnya adalah RUPSLB HALO yang dijadwalkan 10 Desember 2026, karena agenda rapat itu belum diungkap dan bisa jadi lebih relevan bagi arah perusahaan dibanding transaksi kecil semacam ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "indonesia-bahas-24-dari-25-bidang-aksesi-oecd",
   "category": "Makroekonomi",
   "title": "Indonesia Bahas [24] dari 25 Bidang Aksesi OECD",
@@ -85,6 +261,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah arah penjualan eceran yang diprakirakan kembali naik, dari pertumbuhan 0,6 persen pada September menjadi 1 persen pada Oktober, dengan bahan bakar kendaraan bermotor sebagai pendorong utama. Itu berarti peritel bahan bakar dan toko kebutuhan sehari-hari yang paling terdampak langsung, sementara kenaikan belanja untuk barang lain masih tipis. Hal yang lebih perlu dicermati adalah Indeks Ekspektasi Harga untuk Desember 2026 dan Maret 2027 yang justru naik, pertanda pelaku pasar memperkirakan harga barang naik lebih cepat menjelang libur akhir tahun dan musim Lebaran tahun depan. Pola ini lebih mengarah ke lonjakan musiman biasa ketimbang perubahan daya beli yang mendasar, dan itu baru bisa dipastikan lewat data realisasi penjualan eceran Oktober yang akan dirilis Bank Indonesia bulan depan, karena angka yang dibahas di sini masih berupa prakiraan survei.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "avia-panggil-rupslb-bahas-penghapusan-saham-treasuri",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Panggil RUPSLB, Bahas Penghapusan Saham [Treasuri]",
+  "deck": "AVIA memanggil RUPSLB 2 Desember 2026 untuk menyetujui penghapusan seluruh saham treasuri lewat pengurangan modal disetor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T10:16:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f8b8f2c6d_2efbc5ccdb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "RUPSLB",
+   "saham treasuri",
+   "pengurangan modal"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan berlangsung pada Rabu, 2 Desember 2026, pukul 09.30 WIB, di Gedung Avian Brands, Jalan Ahmad Yani No. 317, Surabaya. Rapat ini digelar secara fisik dan elektronik melalui sistem eASY.KSEI, dengan agenda tunggal: persetujuan atas pengalihan atau penarikan kembali seluruh saham hasil pembelian kembali (saham treasuri) melalui pengurangan modal ditempatkan dan disetor Perseroan, yang akan mengubah Anggaran Dasar perusahaan.",
+   "Rencana ini mengacu pada Peraturan OJK No. 29/2023 tentang pembelian kembali saham perusahaan terbuka, Undang-Undang No. 40/2007 tentang Perseroan Terbatas, Anggaran Dasar Perseroan, serta dua keputusan RUPSLB sebelumnya tanggal 7 Desember 2023 dan 10 April 2025 yang menjadi dasar program pembelian kembali saham AVIA selama ini. Dengan rencana ini, saham yang sebelumnya dibeli kembali oleh perusahaan dan disimpan sebagai saham treasuri akan dihapus secara permanen dari jumlah saham beredar, bukan sekadar disimpan untuk dijual kembali di kemudian hari.",
+   "Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 9 November 2026 pukul 16.00 WIB. Bagi yang ingin hadir fisik, pendaftaran lewat Sekretaris Perusahaan wajib dilakukan paling lambat Jumat, 27 November 2026 pukul 16.00 WIB. Pemegang saham yang memberi kuasa tertulis kepada Penerima Kuasa Independen, PT Raya Saham Registra, harus menyerahkan dokumennya paling lambat Senin, 30 November 2026 pukul 16.00 WIB, sementara kuasa elektronik melalui eASY.KSEI dibuka sampai Selasa, 1 Desember 2026 pukul 12.00 WIB."
+  ],
+  "fotoAdegan": "Warehouse workers stacking rows of paint cans on wooden pallets, forklift idling nearby, soft morning light through high windows",
+  "takeaway": "Rencana ini condong positif bagi pemegang saham AVIA, karena saham yang sudah dibeli kembali perusahaan akan dihapus permanen lewat pengurangan modal, bukan disimpan sebagai treasuri yang suatu saat bisa dilepas lagi ke pasar dan menambah jumlah saham beredar. Yang tersentuh adalah jumlah saham beredar dan modal disetor Perseroan: begitu saham treasuri dihapus, jumlah saham yang membagi laba bersih perusahaan ikut berkurang, sehingga laba per saham, yaitu porsi keuntungan yang jadi milik setiap lembar saham, berpotensi naik untuk pemegang saham yang tersisa. Pelaku pasar memperhatikan laba per saham karena itu salah satu ukuran paling umum untuk menilai mahal atau murahnya harga saham dibandingkan keuntungan perusahaan. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPSLB pada 2 Desember 2026, serta pengumuman resmi berapa lembar saham yang akhirnya dihapus dan berapa besar pengurangan modal disetor yang disetujui.",
+  "sentimen": "positif"
  },
  {
   "slug": "harga-emas-antam-naik-jadi-rp2-560-000-per-gram",
@@ -711,6 +913,33 @@ var ARTICLES = [
   "fotoAdegan": "Rows of idle textile looms covered in dust inside a dim, quiet factory hall, afternoon light through high windows",
   "takeaway": "Delisting paksa ini negatif bagi pemegang saham publik SBAT, karena ini menjadi penutup dari rangkaian masalah yang sudah terlihat sejak perusahaan dinyatakan pailit dengan opini disclaimer dari auditor dan tender wajib di harga rendah Rp2 per saham. Pos yang tersentuh di sini adalah arus kas, yakni kemampuan perusahaan membayar kewajiban secara tunai, sebab meski sahamnya dihapus dari bursa, SBAT tetap wajib membayar bunga dan pokok efek utang atau sukuk yang pernah diterbitkannya sesuai perjanjian perwaliamanatan, padahal kondisi keuangannya sendiri sudah dinyatakan tidak sehat oleh auditor. Pelaku pasar memperhatikan pos ini karena setelah delisting, perusahaan kehilangan akses mudah ke pendanaan publik lewat pasar modal, sehingga kemampuannya menutup kewajiban utang makin bergantung pada kas internal yang terbatas. Yang perlu dipantau selanjutnya adalah bagaimana proses go private dijalankan setelah tanggal efektif 10 November 2026, termasuk apakah ada mekanisme lanjutan bagi pemegang saham publik yang tersisa untuk melepas kepemilikannya.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "mbma-terbitkan-obligasi-tahap-vi-rp2-5-triliun-bunga-9-10-75",
+  "category": "Aksi Korporasi",
+  "title": "MBMA Terbitkan Obligasi [Tahap VI] Rp2,5 Triliun, Bunga 9-10,75%",
+  "deck": "MBMA menawarkan obligasi Tahap VI senilai hingga Rp2,5 triliun, tiga seri berbunga 9-10,75 persen, bagian dari program obligasi berkelanjutan Rp16 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T22:16:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c033db52a8_80d2f125f4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBMA",
+  "tags": [
+   "MBMA",
+   "obligasi korporasi",
+   "pasar modal",
+   "nikel"
+  ],
+  "body": [
+   "PT Merdeka Battery Materials Tbk (MBMA) menawarkan Obligasi Berkelanjutan I Tahap VI Tahun 2026 dengan jumlah pokok sebanyak-banyaknya Rp2,5 triliun, tepatnya Rp2.499.781.000.000. Penerbitan ini merupakan tahap keenam dari program Penawaran Umum Berkelanjutan Obligasi Berkelanjutan I MBMA yang bertarget total Rp16 triliun. Sejauh ini perusahaan sudah menerbitkan dan menawarkan obligasi senilai Rp13,5 triliun, tepatnya Rp13.500.219.000.000, pada tahap-tahap sebelumnya dari program yang sama.",
+   "Obligasi tahap VI ini dibagi dalam tiga seri dengan bunga tetap berbeda. Seri A senilai Rp217,94 miliar berbunga 9 persen per tahun dengan jangka waktu 367 hari kalender sejak tanggal emisi. Seri B senilai Rp272,38 miliar berbunga 10,25 persen per tahun untuk tenor tiga tahun, dan Seri C senilai Rp17,95 miliar berbunga 10,75 persen per tahun untuk tenor lima tahun. Dari seluruh pokok yang ditawarkan, Rp508,26 miliar dijamin penuh oleh para penjamin emisi dengan skema kesanggupan penuh, sedangkan sisanya sebesar Rp1,99 triliun hanya dijamin dengan skema kesanggupan terbaik, yang berarti jika sebagian atau seluruh porsi itu tidak terjual, MBMA tidak wajib menerbitkan sisa obligasi tersebut.",
+   "Masa penawaran umum berlangsung 19 sampai 20 November 2026, dengan tanggal penjatahan pada 23 November, distribusi elektronik pada 25 November, dan pencatatan di Bursa Efek Indonesia pada 26 November 2026. Bunga dibayarkan setiap tiga bulan, dimulai 25 Februari 2027, sementara pelunasan pokok masing-masing seri dilakukan sekaligus saat jatuh tempo, yaitu 2 Desember 2027 untuk Seri A, 25 November 2029 untuk Seri B, dan 25 November 2031 untuk Seri C. Lembaga pemeringkat Pefindo memberikan peringkat idA atau Single A untuk obligasi ini. Obligasi tidak memiliki jaminan khusus, tetapi dijamin dengan seluruh harta kekayaan perusahaan sesuai aturan umum KUHPerdata, dan kedudukan pemegang obligasi setara dengan kreditur lain tanpa hak didahulukan. MBMA juga menyatakan tidak menyiapkan dana penyisihan pelunasan atau sinking fund, dengan alasan ingin memakai seluruh dana hasil emisi untuk kebutuhan yang sudah direncanakan.",
+   "Penjamin pelaksana emisi obligasi ini adalah PT Indo Premier Sekuritas, PT Trimegah Sekuritas Indonesia Tbk, PT Sucor Sekuritas, PT Aldiracita Sekuritas Indonesia, PT Bahana Sekuritas, PT CIMB Niaga Sekuritas, PT Mandiri Sekuritas, dan PT Sinarmas Sekuritas, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat. Dokumen ini juga mencantumkan risiko utama MBMA sebagai perusahaan induk yang bergantung pada pembayaran dividen dari anak usahanya untuk memenuhi kewajiban pembayaran bunga dan pokok obligasi ini."
+  ],
+  "fotoAdegan": "Industrial nickel processing plant with workers in hard hats monitoring glowing molten metal flow, steam rising under grey sky",
+  "takeaway": "Laporan ini netral bagi MBMA karena hanya memperpanjang program obligasi berkelanjutan yang sudah efektif sejak Juni 2025, bukan langkah finansial baru yang mengubah arah keuangan perusahaan secara mendadak. Yang tersentuh adalah beban bunga, yakni biaya pinjaman yang harus dibayar setiap tiga bulan dengan bunga tetap 9 sampai 10,75 persen per tahun dan akan mengurangi laba bersih MBMA selama obligasi ini berjalan, serta arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena dana segar dari penjualan obligasi menambah kas tapi diikuti kewajiban membayar kembali dalam beberapa tahun ke depan. Investor pasar modal perlu mencermati bahwa Rp1,99 triliun dari total penawaran ini hanya dijamin dengan basis upaya terbaik, bukan kepastian penuh, sehingga dana yang benar-benar terkumpul bisa lebih kecil dari target jika permintaan pasar lemah. Yang perlu dipantau berikutnya adalah hasil masa penawaran umum pada 19 sampai 20 November 2026 dan tanggal penjatahan pada 23 November 2026, karena dari situ baru terlihat berapa dana riil yang berhasil dihimpun MBMA sebelum obligasi resmi tercatat di Bursa Efek Indonesia pada 26 November 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "bata-rombak-direksi-raymond-chew-jadi-presiden-direktur",

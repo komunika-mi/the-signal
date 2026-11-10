@@ -5,6 +5,76 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ibc-gandeng-avesta-belgia-garap-baterai-solid-state",
+  "category": "Industri",
+  "title": "IBC Gandeng [Avesta] Belgia, Garap Baterai Solid-State",
+  "deck": "IBC dan Avesta Holding dari Belgia menjajaki teknologi baterai solid-state, bagian dari upaya pemerintah menarik investasi Uni Eropa lewat IEU-CEPA.",
+  "date": "10 November 2026",
+  "image": "assets/img/ibc-gandeng-avesta-belgia-garap-baterai-solid-state.jpg",
+  "imageV": "mwai7v11",
+  "tags": [
+   "IBC",
+   "Avesta",
+   "Baterai Solid-State",
+   "Investasi Uni Eropa"
+  ],
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/menteri-rosan-dorong-investasi-uni-eropa-ibc-avesta-sepakati-kerja-sama-baterai",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "bkpm-buka-desk-investasi-di-medan-kejar-rp13-triliun",
+  "category": "Makroekonomi",
+  "title": "BKPM Buka Desk Investasi di Medan, Kejar [Rp13 Triliun]",
+  "deck": "Kementerian Investasi/BKPM meluncurkan Desk Investasi Regional di Medan untuk mengawal realisasi investasi Rp13 triliun di Sumatera, menyusul proyek serupa di Batam dan Bali.",
+  "date": "10 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "BKPM",
+   "Desk Investasi",
+   "Sumatera",
+   "Realisasi Investasi"
+  ],
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-desk-investasi-regional-targetkan-realisasi-rp100-triliun",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "esdm-libatkan-pemda-dalam-lelang-panas-bumi-dan-listrik-desa",
+  "category": "Energi",
+  "title": "ESDM Libatkan Pemda dalam Lelang [Panas Bumi] dan Listrik Desa",
+  "deck": "Wamen ESDM Yuliot menyepakati pemda ikut jadi panitia lelang panas bumi, sembari memacu elektrifikasi 100 persen pada 2029 dan menuntaskan proyek PLTA di Kalimantan Utara.",
+  "date": "10 November 2026",
+  "image": "assets/img/esdm-libatkan-pemda-dalam-lelang-panas-bumi-dan-listrik-desa.jpg",
+  "imageV": "mwai7xmq",
+  "tags": [
+   "ESDM",
+   "Energi Terbarukan",
+   "Panas Bumi",
+   "Elektrifikasi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/bahas-ketahanan-energi-dengan-dpd-ri-wamen-esdm-perkuat-peran-daerah-dalam-percepatan-ebt",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "ekspor-batu-bara-sawit-ferro-alloy-wajib-lewat-dsi-2027",
+  "category": "Industri",
+  "title": "Ekspor Batu Bara, Sawit, Ferro Alloy Wajib Lewat [DSI] 2027",
+  "deck": "Mulai 1 Januari 2027, ekspor batu bara, sawit, dan ferro alloy wajib melalui Danantara Sumberdaya Indonesia sebagai perantara tunggal, meski eksportir tetap bisa bernegosiasi langsung dengan buyer.",
+  "date": "10 November 2026",
+  "image": "assets/img/ekspor-batu-bara-sawit-ferro-alloy-wajib-lewat-dsi-2027.jpg",
+  "imageV": "mwai857x",
+  "tags": [
+   "ekspor SDA strategis",
+   "Danantara Sumberdaya Indonesia",
+   "Kementerian Perdagangan",
+   "Eksportir Terdaftar"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kebijakan-tata-kelola-ekspor-sda-akan-berlaku-mendag-busan-tekankan-aktivitas-ekspor-tetap-sama",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "heli-terbitkan-83-3-juta-saham-baru-tanpa-hmetd-danai-pear",
   "category": "Aksi Korporasi",
   "title": "HELI Terbitkan [83,3 Juta] Saham Baru Tanpa HMETD, Danai PEAR",
@@ -349,7 +419,7 @@ var ARTICLES = [
   "title": "Penjualan Eceran Oktober Diprakirakan [Naik] 1 Persen",
   "deck": "Bank Indonesia memperkirakan penjualan eceran Oktober 2026 tumbuh 1 persen dibanding tahun sebelumnya, ditopang penjualan bahan bakar kendaraan serta makanan dan minuman.",
   "date": "10 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "penjualan eceran",
    "Bank Indonesia",
@@ -1992,7 +2062,7 @@ var ARTICLES = [
   "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
   "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 119,9 pada Oktober 2026, dari 118,1 bulan sebelumnya, ditopang penilaian kondisi ekonomi saat ini dan ekspektasi ke depan yang menguat.",
   "date": "9 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
   "sourceLabel": "Bank Indonesia"
@@ -3722,7 +3792,7 @@ var ARTICLES = [
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
   "deck": "Tingkat pengangguran terbuka naik tipis dari Februari 2026, tapi masih lebih rendah dibanding Agustus tahun lalu",
   "date": "6 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "bps",
    "ketenagakerjaan",
@@ -3765,7 +3835,7 @@ var ARTICLES = [
   "title": "Pertumbuhan Harga Rumah Primer [Melambat] di Triwulan III",
   "deck": "Pertumbuhan harga rumah baru melambat ke 0,58 persen dibanding setahun lalu pada triwulan III 2026, sementara penjualan turun 8,43 persen di seluruh tipe rumah.",
   "date": "6 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "properti residensial",
    "harga rumah",
@@ -4361,7 +4431,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47] Persen pada Triwulan III 2026",
   "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada triwulan III 2026, naik dari 5,29 persen pada triwulan sebelumnya, didorong lonjakan belanja pemerintah dan konsumsi rumah tangga.",
   "date": "5 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "Pertumbuhan Ekonomi",
    "PDB Triwulan III",
@@ -4863,7 +4933,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
   "deck": "BPS catat pertumbuhan ekonomi naik 0,18 poin dari triwulan sebelumnya dan jadi yang tertinggi kedua dalam setahun terakhir.",
   "date": "5 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "ekonomi",
    "bps",
@@ -5073,7 +5143,7 @@ var ARTICLES = [
   "title": "Ekonomi Indonesia Tumbuh [5,47%] di Triwulan III-2026",
   "deck": "BPS mencatat produk domestik bruto RI naik 5,47 persen secara tahunan pada triwulan III-2026, ditopang belanja pemerintah dan ekspor.",
   "date": "5 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "PDB",
    "BPS",
@@ -6268,7 +6338,7 @@ var ARTICLES = [
   "title": "Surplus Perdagangan RI September [Menyusut] ke US$3,36 Miliar",
   "deck": "Surplus dagang Indonesia September 2026 menyusut tipis ke US$3,36 miliar akibat defisit migas melebar, sementara ekspor dan impor sama-sama tumbuh dua digit secara tahunan.",
   "date": "3 November 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
+  "image": "assets/img/timbangan-pasar.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -6393,72 +6463,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7196/jaga-kepercayaan-di-tengah-dinamika-pasar-modal-wamenko-dradjad-ajak-investor-utamakan-data-dan-analisis",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "harga-acuan-batu-bara-turun-tipis-kalori-rendah-naik",
-  "category": "Energi",
-  "title": "Harga Acuan Batu Bara [Turun] Tipis, Kalori Rendah Naik",
-  "deck": "Harga acuan batu bara kalori tinggi turun tipis ke US$125,60 per ton untuk pertengahan November, sementara batu bara kalori menengah dan rendah naik 2,4 sampai 4,8 persen.",
-  "date": "3 November 2026",
-  "image": "assets/img/harga-acuan-batu-bara-turun-tipis-kalori-rendah-naik.jpg",
-  "imageV": "mw0qpo1k",
-  "tags": [
-   "Batu Bara",
-   "HBA",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hba-november-turun-tipis-harga-batu-bara-kalori-rendah-justru-naik",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "pemerintah-siapkan-storage-minyak-impor-60-hari",
-  "category": "Energi",
-  "title": "Pemerintah Siapkan [Storage] Minyak Impor 60 Hari",
-  "deck": "Pemerintah membangun storage minyak impor di Sumatra untuk stok 60 hari, sambil melanjutkan mandatori B50 dan menyiapkan peta jalan bioetanol E20-E50.",
-  "date": "3 November 2026",
-  "image": "assets/img/pemerintah-siapkan-storage-minyak-impor-60-hari.jpg",
-  "imageV": "mw0qppaz",
-  "tags": [
-   "Energi",
-   "ESDM",
-   "Storage Minyak",
-   "Bioetanol"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/perkuat-ketahanan-energi-pemerintah-siapkan-storage-minyak-hingga-60-hari-dan-bioetanol-e20",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "fire-balik-untung-rp2-4-miliar-utang-bank-naik-12-kali",
-  "category": "Aksi Korporasi",
-  "title": "FIRE Balik Untung Rp2,4 Miliar, [Utang] Bank Naik 12 Kali",
-  "deck": "Laporan kuartal III 2026 FIRE menunjukkan laba bersih Rp2,4 miliar, berbalik dari rugi, tapi ditopang utang bank baru Rp35 miliar sementara kas menyusut tajam.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FIRE",
-   "laporan keuangan",
-   "batu bara",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103203142-65727-0/FinancialStatement-2026-III-FIRE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "folk-catat-laba-rp17-3-m-usai-rights-issue-dan-akuisisi",
-  "category": "Aksi Korporasi",
-  "title": "FOLK Catat [Laba] Rp17,3 M Usai Rights Issue dan Akuisisi",
-  "deck": "Multi Garam Utama (FOLK) membalik rugi jadi laba Rp17,3 miliar pada kuartal III 2026, ditopang rights issue dan akuisisi PT Traya Multi Investama.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FOLK",
-   "laporan keuangan",
-   "rights issue",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261103202859-65427-0/FinancialStatement-2026-III-FOLK.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,51 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "GMW_tPJ6Jh8",
+  "title": "Mendag RI Perluas Ekspor Produk Makanan ke Australia",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Perdagangan Budi Santoso mendorong pelaku usaha domestik memanfaatkan perjanjian dagang internasional untuk memperluas ekspor produk makanan ke Australia.",
+  "takeaway": "Perluasan akses pasar ekspor ini relevan bagi pelaku usaha yang ingin menjajaki pasar Australia di tengah upaya diversifikasi tujuan ekspor nasional.",
+  "terbit": "2026-11-10T09:19:55+00:00"
+ },
+ {
+  "id": "HL8fqBw8HmM",
+  "title": "Pemerintah Finalisasi Subsidi Upah Pekerja Rp300.000 per Bulan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah sedang memfinalisasi penyaluran bantuan subsidi upah atau BSU senilai Rp300.000 per bulan bagi para pekerja.",
+  "takeaway": "Kebijakan ini langsung berdampak pada daya beli pekerja dan menjadi penanda arah stimulus ekonomi pemerintah.",
+  "terbit": "2026-11-10T09:19:29+00:00"
+ },
+ {
+  "id": "Nhrf-VRVfxQ",
+  "title": "Kemenparekraf Dorong Pengembangan Industri Gim di Batam",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Pariwisata dan Ekonomi Kreatif menggelar seminar industri gim di Batam untuk mendorong keterampilan digital, termasuk pemanfaatan kecerdasan buatan dalam pemasaran produk.",
+  "takeaway": "Penguatan ekosistem ekonomi kreatif digital berpotensi membuka peluang usaha dan lapangan kerja baru di sektor industri gim.",
+  "terbit": "2026-11-10T09:18:28+00:00"
+ },
+ {
+  "id": "V8SVau0KD8M",
+  "title": "RI Pangkas Jatah Ekspor Gas ke Singapura",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Kementerian ESDM mengalihkan sebagian alokasi ekspor gas bumi dari Singapura untuk memenuhi kebutuhan dalam negeri.",
+  "takeaway": "Kebijakan ini mencerminkan prioritas pemerintah terhadap ketahanan pasokan energi domestik di tengah kebutuhan gas yang terus bertambah.",
+  "terbit": "2026-11-10T09:15:06+00:00"
+ },
+ {
+  "id": "vLMgBt9vyQI",
+  "title": "Menko Airlangga Ingatkan Perbankan Perkuat Keamanan Siber",
+  "category": "Perbankan",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto mengingatkan seluruh sektor perbankan untuk segera memperkuat sistem keamanan siber.",
+  "takeaway": "Ketahanan siber perbankan menjadi isu penting bagi stabilitas sistem keuangan dan kepercayaan nasabah.",
+  "terbit": "2026-11-10T09:12:04+00:00"
+ },
+ {
   "id": "6nBnM8ZBx4s",
   "title": "Gentengisasi Dorong UMKM dan Ekonomi Bergerak",
   "category": "UMKM",

@@ -4,6 +4,46 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "GMW_tPJ6Jh8",
+  "title": "Mendag RI Perluas Ekspor Produk Makanan ke Australia",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Perdagangan Budi Santoso mendorong pelaku usaha domestik memanfaatkan perjanjian dagang internasional untuk memperluas ekspor produk makanan ke Australia.",
+  "takeaway": "Perluasan akses pasar ekspor ini relevan bagi pelaku usaha yang ingin menjajaki pasar Australia di tengah upaya diversifikasi tujuan ekspor nasional."
+ },
+ {
+  "id": "HL8fqBw8HmM",
+  "title": "Pemerintah Finalisasi Subsidi Upah Pekerja Rp300.000 per Bulan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah sedang memfinalisasi penyaluran bantuan subsidi upah atau BSU senilai Rp300.000 per bulan bagi para pekerja.",
+  "takeaway": "Kebijakan ini langsung berdampak pada daya beli pekerja dan menjadi penanda arah stimulus ekonomi pemerintah."
+ },
+ {
+  "id": "Nhrf-VRVfxQ",
+  "title": "Kemenparekraf Dorong Pengembangan Industri Gim di Batam",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Pariwisata dan Ekonomi Kreatif menggelar seminar industri gim di Batam untuk mendorong keterampilan digital, termasuk pemanfaatan kecerdasan buatan dalam pemasaran produk.",
+  "takeaway": "Penguatan ekosistem ekonomi kreatif digital berpotensi membuka peluang usaha dan lapangan kerja baru di sektor industri gim."
+ },
+ {
+  "id": "V8SVau0KD8M",
+  "title": "RI Pangkas Jatah Ekspor Gas ke Singapura",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Kementerian ESDM mengalihkan sebagian alokasi ekspor gas bumi dari Singapura untuk memenuhi kebutuhan dalam negeri.",
+  "takeaway": "Kebijakan ini mencerminkan prioritas pemerintah terhadap ketahanan pasokan energi domestik di tengah kebutuhan gas yang terus bertambah."
+ },
+ {
+  "id": "vLMgBt9vyQI",
+  "title": "Menko Airlangga Ingatkan Perbankan Perkuat Keamanan Siber",
+  "category": "Perbankan",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto mengingatkan seluruh sektor perbankan untuk segera memperkuat sistem keamanan siber.",
+  "takeaway": "Ketahanan siber perbankan menjadi isu penting bagi stabilitas sistem keuangan dan kepercayaan nasabah."
+ },
+ {
   "id": "6nBnM8ZBx4s",
   "title": "Gentengisasi Dorong UMKM dan Ekonomi Bergerak",
   "category": "UMKM",
@@ -442,45 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Data statistik dan fakta lapangan terbaru menyoroti stabilitas makroekonomi, kebijakan hilirisasi komoditas, dan pembangunan infrastruktur sebagai penopang investasi Indonesia.",
   "takeaway": "Memberi gambaran data terkini yang relevan bagi pembaca yang mengikuti tren investasi dan kebijakan hilirisasi di Indonesia."
- },
- {
-  "id": "RUTA-G9PZS0",
-  "title": "Anindya Bakrie: Kedaulatan Pangan-Energi Kunci Indonesia",
-  "category": "Energi",
-  "program": "tvOneNews",
-  "summary": "Ketua Umum Kadin Indonesia, Anindya Bakrie, menegaskan pentingnya kedaulatan pangan dan energi di tengah ketidakpastian global dalam Rapimnas Kadin 2026.",
-  "takeaway": "Relevan karena mengangkat isu ketahanan pangan dan energi sebagai agenda strategis dunia usaha nasional."
- },
- {
-  "id": "Eo7fDZoPUS4",
-  "title": "Kadin Siapkan Strategi Baru Perkuat Ekonomi Nasional",
-  "category": "Bisnis",
-  "program": "tvOneNews",
-  "summary": "Kamar Dagang dan Industri Indonesia menyiapkan langkah strategis untuk memperkuat ekosistem dunia usaha dan mendorong pertumbuhan ekonomi nasional ke depan.",
-  "takeaway": "Menggambarkan arah kebijakan dunia usaha yang berpengaruh terhadap prospek pertumbuhan ekonomi nasional."
- },
- {
-  "id": "JLZ0X1B1Hhg",
-  "title": "Skinsol Raih Penghargaan Inovasi Skincare Berbasis RnD",
-  "category": "Industri",
-  "program": "Inovasi Membangun Negeri",
-  "summary": "Skinsol meraih penghargaan Inovasi Membangun Negeri 2026 atas formulasi skincare berbasis riset dan pengembangan dengan bahan aktif premium berkelanjutan.",
-  "takeaway": "Penghargaan ini mencerminkan arah investasi riset dan inovasi produk di industri kosmetik dalam negeri yang relevan bagi pelaku usaha consumer goods."
- },
- {
-  "id": "0bVTTmF6ZsI",
-  "title": "Hilirisasi Nikel hingga Kelapa Jadi Andalan Ekspor Indonesia",
-  "category": "Industri",
-  "program": "tvOneNews",
-  "summary": "Rapimnas Kadin 2026 menyoroti hilirisasi nikel dan kelapa sebagai andalan ekspor Indonesia, dalam forum konsolidasi pemerintah dan dunia usaha merumuskan arah kebijakan ekonomi.",
-  "takeaway": "Menggambarkan arah kebijakan hilirisasi yang memengaruhi struktur ekspor nasional."
- },
- {
-  "id": "NSivV11wBvo",
-  "title": "Ekspor Industri Pengolahan Tembus US$159,55 Miliar",
-  "category": "Industri",
-  "program": "tvOneNews",
-  "summary": "Industri pengolahan tercatat menyumbang ekspor senilai US$159,55 miliar, dibahas dalam Rapimnas Kadin sebagai bagian perumusan arah kebijakan ekonomi bersama pemerintah.",
-  "takeaway": "Angka ini menunjukkan peran sektor manufaktur sebagai andalan devisa ekspor."
  }
 ];

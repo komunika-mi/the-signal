@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "masb-direksi-fely-retnowati-tambah-saham-jadi-298-300-lembar",
+  "category": "Aksi Korporasi",
+  "title": "MASB: Direksi Fely Retnowati [tambah] saham jadi 298.300 lembar",
+  "deck": "Direksi MASB membeli 800 lembar saham secara tidak langsung pada 9 November, kepemilikannya naik jadi 298.300 lembar, hak suara tetap 0,02 persen.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MASB",
+   "Bank Multiarta Sentosa",
+   "Fely Retnowati",
+   "kepemilikan saham direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-5142-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bwpt-laba-9-bulan-naik-31-kuasi-reorganisasi-hapus-defisit",
   "category": "Aksi Korporasi",
   "title": "BWPT Laba 9 Bulan Naik 31%, [Kuasi Reorganisasi] Hapus Defisit",
@@ -1804,6 +1820,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "jast-laba-pemilik-induk-berbalik-rugi-utang-naik-21",
+  "category": "Aksi Korporasi",
+  "title": "JAST: Laba Pemilik Induk [Berbalik Rugi], Utang Naik 21%",
+  "deck": "Laba bersih JAST turun 42 persen dan bagian untuk pemegang saham induk berbalik rugi, sementara liabilitas melonjak 21,49 persen akibat utang usaha anak usaha CCX Platform Pte Ltd.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JAST",
+   "laporan keuangan",
+   "liabilitas",
+   "CCX Platform"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109080723-65766-0/FinancialStatement-2026-III-JAST.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bcap-direktur-mundur-henry-suparman-gantikan-aan-setiawandi",
   "category": "Aksi Korporasi",
   "title": "BCAP: Direktur Mundur, [Henry Suparman] Gantikan Aan Setiawandi",
@@ -1918,6 +1950,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477236-lewat-klasterku-hidupku-bri-dorong-peningkatan-ekonomi-petani-alpukat-di-sumberejo"
+ },
+ {
+  "slug": "hkmu-bukukan-ekuitas-negatif-rp38-7-miliar-dalam-laporan-interim",
+  "category": "Aksi Korporasi",
+  "title": "HKMU Bukukan [Ekuitas Negatif] Rp38,7 Miliar dalam Laporan Interim",
+  "deck": "Laporan keuangan interim per Juni 2023 yang baru disampaikan HKMU pada November 2026 menunjukkan ekuitas negatif Rp38,7 miliar dan penjualan yang anjlok 87 persen.",
+  "date": "8 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HKMU",
+   "ekuitas negatif",
+   "laporan keuangan",
+   "aluminium"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202311/20261108141335-65735-0/FinancialStatement-2023-II-HKMU.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bayan-pastikan-penjualan-saham-ke-haji-isam-bersih",
@@ -6414,53 +6462,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476392-harga-cabai-merah-melonjak-tembus-rp124-ribu-mendag-faktor-cuaca"
- },
- {
-  "slug": "meta-bagi-dividen-interim-rp3-50-per-saham-bayar-3-desember",
-  "category": "Aksi Korporasi",
-  "title": "META Bagi [Dividen Interim] Rp3,50 per Saham, Bayar 3 Desember",
-  "deck": "Nusantara Infrastructure (META) membagikan dividen interim Rp60,6 miliar atau Rp3,50 per saham untuk tahun buku 2026, dengan pembayaran dijadwalkan 3 Desember 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "META",
-   "dividen interim",
-   "Nusantara Infrastructure",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/67f29e3b9c_436c0fa8d2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meta-tetapkan-jadwal-dividen-interim-rp3-50-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "META Tetapkan [Jadwal] Dividen Interim Rp3,50 per Saham",
-  "deck": "Nusantara Infrastructure menetapkan recording date 11 November dan tanggal pembayaran dividen interim Rp3,50 per saham pada 3 Desember 2026.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "META",
-   "dividen interim",
-   "Nusantara Infrastructure",
-   "KSEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf13f672dc_6918e3d24d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbhi-sewa-ruang-kantor-dari-bank-mega-rp3-18-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BBHI Sewa Ruang Kantor dari [Bank Mega] Rp3,18 Miliar",
-  "deck": "Allo Bank menyewa ruang lantai 5 dan 6 Menara Bank Mega senilai Rp3,18 miliar untuk enam bulan, transaksi afiliasi dengan sesama anak usaha kelompok Bank Mega.",
-  "date": "3 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBHI",
-   "transaksi afiliasi",
-   "Bank Mega",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a42a6017ed_82a24a8f07.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "masb-direksi-fely-retnowati-tambah-saham-jadi-298-300-lembar",
+  "category": "Aksi Korporasi",
+  "title": "MASB: Direksi Fely Retnowati [tambah] saham jadi 298.300 lembar",
+  "deck": "Direksi MASB membeli 800 lembar saham secara tidak langsung pada 9 November, kepemilikannya naik jadi 298.300 lembar, hak suara tetap 0,02 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T09:36:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-5142-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MASB",
+  "tags": [
+   "MASB",
+   "Bank Multiarta Sentosa",
+   "Fely Retnowati",
+   "kepemilikan saham direksi"
+  ],
+  "body": [
+   "Direksi PT Bank Multiarta Sentosa Tbk (MASB), Fely Retnowati, melaporkan penambahan kepemilikan sahamnya kepada Otoritas Jasa Keuangan pada 10 November 2026. Jumlah saham yang dipegangnya naik dari 297.500 lembar menjadi 298.300 lembar, bertambah 800 lembar.",
+   "Berdasarkan dokumen laporan, penambahan ini berasal dari pembelian saham biasa yang dicatat sebagai kepemilikan tidak langsung, dengan harga Rp2.200 per lembar pada 9 November 2026. Tujuan transaksi disebutkan untuk investasi. Meski jumlah sahamnya bertambah, hak suara Fely Retnowati di MASB tetap di angka 0,02 persen, sama seperti sebelum transaksi.",
+   "Transaksi ini melanjutkan rangkaian pembelian saham oleh Fely Retnowati dalam sepekan terakhir. Pada 6 November ia tercatat membeli 7.200 lembar sehingga kepemilikannya naik menjadi 294.400 lembar, lalu pada 9 November bertambah lagi 3.100 lembar menjadi 297.500 lembar. Dengan transaksi terbaru ini, total saham yang ia tambah sejak 6 November mencapai 11.100 lembar."
+  ],
+  "fotoAdegan": "Exterior of a modern bank branch building in a Jakarta business district, glass facade, pedestrians walking past in morning light",
+  "takeaway": "Laporan ini netral bagi fundamental MASB, karena pembelian 800 lembar hanya setara 0,27 persen dari kepemilikan Fely Retnowati sendiri dan hak suaranya tetap di 0,02 persen, terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi terhadap sahamnya. Transaksi semacam ini tidak menyentuh pos kinerja perusahaan seperti ekuitas, arus kas, atau jumlah saham beredar MASB, sebab ini hanya perpindahan kepemilikan saham yang sudah ada di pasar, bukan aksi korporasi yang menambah modal perusahaan. Yang perlu dipantau adalah apakah pola pembelian kecil berulang ini terus berlanjut, karena akumulasi tiga laporan dalam sepekan terakhir sudah mencapai 11.100 lembar meski belum mengubah persentase hak suaranya dari 0,02 persen.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bwpt-laba-9-bulan-naik-31-kuasi-reorganisasi-hapus-defisit",
   "category": "Aksi Korporasi",
   "title": "BWPT Laba 9 Bulan Naik 31%, [Kuasi Reorganisasi] Hapus Defisit",
@@ -2924,6 +2950,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "jast-laba-pemilik-induk-berbalik-rugi-utang-naik-21",
+  "category": "Aksi Korporasi",
+  "title": "JAST: Laba Pemilik Induk [Berbalik Rugi], Utang Naik 21%",
+  "deck": "Laba bersih JAST turun 42 persen dan bagian untuk pemegang saham induk berbalik rugi, sementara liabilitas melonjak 21,49 persen akibat utang usaha anak usaha CCX Platform Pte Ltd.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T07:59:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109080723-65766-0/FinancialStatement-2026-III-JAST.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JAST",
+  "tags": [
+   "JAST",
+   "laporan keuangan",
+   "liabilitas",
+   "CCX Platform"
+  ],
+  "body": [
+   "PT Jasnita Telekomindo Tbk (JAST) menyampaikan koreksi laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Bersamaan dengan itu, Direktur Utama Yentoro mengirim surat penjelasan ke Bursa Efek Indonesia karena total liabilitas perusahaan naik lebih dari 20 persen dibandingkan akhir 2025, sesuai kewajiban dalam Peraturan Bursa Nomor I-E. Perusahaan menyebut kenaikan ini terutama didorong oleh membengkaknya utang usaha dan beban akrual yang terkait aktivitas bisnis anak usahanya, CCX Platform Pte Ltd.",
+   "Pendapatan JAST naik 16,6 persen menjadi Rp183,60 miliar untuk sembilan bulan pertama 2026, dari Rp157,44 miliar pada periode yang sama tahun lalu, dan laba kotor ikut naik menjadi Rp53,83 miliar. Namun laba usaha justru turun 36,3 persen menjadi Rp2,99 miliar dari Rp4,70 miliar, karena beban umum dan administrasi melonjak jadi Rp49,89 miliar dari Rp39,88 miliar. Secara konsolidasi, laba bersih turun 42,3 persen menjadi Rp7,03 miliar dari Rp12,19 miliar setahun sebelumnya. Dari laba itu, porsi yang menjadi hak pemegang saham induk, yaitu pemegang saham JAST sendiri, justru berbalik rugi Rp398,8 juta dari sebelumnya untung Rp3,18 miliar, karena sebagian besar laba, yakni Rp7,43 miliar, diserap oleh pemegang saham minoritas di anak usaha.",
+   "Total aset JAST naik menjadi Rp202,13 miliar dari Rp178,74 miliar pada akhir 2025. Tapi total liabilitas naik lebih cepat, dari Rp81,96 miliar menjadi Rp99,57 miliar, persis seperti yang dijelaskan dalam surat ke bursa. Kenaikan itu terutama berasal dari utang usaha ke pihak ketiga yang melonjak jadi Rp27,79 miliar dari Rp12,44 miliar, dan beban akrual yang naik jadi Rp11,28 miliar dari Rp7,89 miliar. Sementara itu, kas dan setara kas perusahaan menyusut jadi Rp18,18 miliar dari Rp25,17 miliar, setelah arus kas keluar untuk investasi melonjak jadi Rp22,01 miliar, jauh lebih besar dari Rp5,54 miliar setahun sebelumnya."
+  ],
+  "fotoAdegan": "Technician inspecting rows of server racks and cabling in a dim telecommunications data center, blinking status lights, late evening in Jakarta",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham JAST, karena yang membengkak bukan cuma aset, tapi juga utang usaha dan beban akrual, sementara porsi laba yang benar-benar jadi hak pemegang saham Jasnita sendiri berbalik rugi meski laba konsolidasi masih positif. Yang perlu dicermati adalah ekuitas dan arus kas: ekuitas total memang naik tipis jadi Rp102,56 miliar, tapi kenaikan itu ditopang kepentingan non-pengendali, yaitu bagian kepemilikan pemegang saham minoritas di anak usaha, bukan oleh induk usaha yang sahamnya diperdagangkan di bursa. Arus kas dari operasi sehari-hari sebenarnya membaik jadi Rp16,56 miliar, tapi uang itu lalu terpakai habis untuk belanja investasi senilai Rp22,01 miliar sehingga kas di perusahaan justru menyusut Rp5,75 miliar selama sembilan bulan. Yang perlu dipantau selanjutnya adalah apakah kenaikan utang usaha dan beban akrual yang terkait bisnis CCX Platform Pte Ltd ini mereda atau terus membesar pada laporan kuartal berikutnya, karena surat penjelasan ke bursa ini baru menjawab kondisi per akhir September 2026 dan belum memastikan arah pos tersebut ke depan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bcap-direktur-mundur-henry-suparman-gantikan-aan-setiawandi",
   "category": "Aksi Korporasi",
   "title": "BCAP: Direktur Mundur, [Henry Suparman] Gantikan Aan Setiawandi",
@@ -3106,6 +3158,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah cara petani alpukat Sumberejo menjual hasil panen, dari masing-masing sendiri menjadi dikumpulkan bersama lalu didistribusikan ke pasar induk, dengan BRI masuk lewat program pembinaan klaster bernama Klasterku Hidupku. Yang terdampak jelas petani alpukat di kecamatan itu, terutama yang kesulitan menjual hasil panen saat musim panen raya karena pasokan menumpuk bersamaan. Berita ini belum menyebut berapa petani yang tergabung dalam klaster, berapa besar dukungan pembiayaan atau dana yang dikucurkan BRI, atau berapa pertumbuhan penjualan yang dicapai setelah program berjalan, padahal ringkasan awal berita menyinggung ada pertumbuhan penjualan. Tanpa angka-angka itu, belum bisa dipastikan apakah dampaknya sudah terasa luas atau masih terbatas pada satu kelompok tani. Yang perlu ditunggu adalah data resmi BRI soal jumlah klaster UMKM binaan dan hasil usahanya, biasanya dirilis lewat laporan kinerja pemberdayaan UMKM perseroan.",
   "imageV": "mw7oc0jw"
+ },
+ {
+  "slug": "hkmu-bukukan-ekuitas-negatif-rp38-7-miliar-dalam-laporan-interim",
+  "category": "Aksi Korporasi",
+  "title": "HKMU Bukukan [Ekuitas Negatif] Rp38,7 Miliar dalam Laporan Interim",
+  "deck": "Laporan keuangan interim per Juni 2023 yang baru disampaikan HKMU pada November 2026 menunjukkan ekuitas negatif Rp38,7 miliar dan penjualan yang anjlok 87 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 November 2026",
+  "isoDate": "2026-11-08T14:05:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202311/20261108141335-65735-0/FinancialStatement-2023-II-HKMU.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HKMU",
+  "tags": [
+   "HKMU",
+   "ekuitas negatif",
+   "laporan keuangan",
+   "aluminium"
+  ],
+  "body": [
+   "PT HK Metals Utama Tbk (HKMU) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2023. Surat pernyataan direksi atas laporan ini baru diteken pada 2 November 2026, yang berarti laporan periode pertengahan 2023 ini baru disampaikan ke publik lebih dari tiga tahun setelah periode tersebut berakhir. Saham HKMU sendiri saat ini berstatus di papan pemantauan khusus (watchlist) Bursa Efek Indonesia.",
+   "Dari sisi kinerja, penjualan HKMU pada semester I 2023 tercatat Rp23,20 miliar, anjlok 86,7 persen dibandingkan Rp173,92 miliar pada periode yang sama tahun 2022. Perusahaan membukukan rugi tahun berjalan Rp64,40 miliar, melebar dari rugi Rp41,99 miliar setahun sebelumnya, dengan rugi per saham dasar membesar dari Rp12,59 menjadi Rp19,27. Total aset perusahaan juga menyusut hampir separuh, dari Rp676,40 miliar per 30 Juni 2022 menjadi Rp354,92 miliar per 30 Juni 2023, sementara akumulasi defisit, yaitu kerugian yang menumpuk dari tahun-tahun sebelumnya, membesar menjadi Rp538,65 miliar.",
+   "Yang paling mencolok, ekuitas perusahaan berbalik menjadi negatif Rp38,71 miliar per 30 Juni 2023, dari posisi positif Rp183,20 miliar pada periode yang sama tahun sebelumnya, akibat tergerusnya saldo laba dan nilai aset. Laporan ini juga merinci tiga anak usaha HKMU yang seluruhnya bergerak di manufaktur aluminium: PT Handal Aluminium Sukses di Kabupaten Cirebon dengan aset Rp334,99 miliar dan kepemilikan 95 persen, PT Karya Bumimas Persada di Kabupaten Bogor dengan aset Rp85,61 miliar dan kepemilikan 96 persen, serta PT Rasa Langgeng Wira di Kabupaten Bogor dengan aset Rp87,29 miliar dan kepemilikan 96 persen."
+  ],
+  "fotoAdegan": "Stacks of aluminum extrusion bars in a factory warehouse, workers in uniforms operating a forklift, dim industrial lighting overhead.",
+  "takeaway": "Laporan ini jelas negatif bagi HKMU: penjualan ambruk 87 persen, rugi melebar, dan ekuitas perusahaan sudah berbalik jadi negatif, tanda tekanan keuangan yang serius, bukan sekadar administrasi rutin. Yang paling perlu dicermati adalah ekuitas, yaitu selisih antara total harta dan total utang perusahaan, karena ekuitas negatif berarti utang HKMU sudah lebih besar dari asetnya, sehingga seandainya perusahaan dibubarkan hari ini, pemegang saham tidak akan mendapat apa-apa setelah semua utang dilunasi. Beban pendanaan, yaitu bunga dan biaya pinjaman yang harus dibayar, justru naik hampir dua kali lipat meski penjualan merosot tajam, sehingga rugi per saham, yakni kerugian yang dibagi rata ke setiap lembar saham beredar, melebar dari Rp12,59 menjadi Rp19,27. Yang perlu dipantau berikutnya ada dua hal: apakah HKMU segera menyusulkan laporan-laporan periode berikutnya karena laporan Juni 2023 ini baru disampaikan pada November 2026, jauh melewati tenggat normal, dan bagaimana nasib status pemantauan khusus di BEI yang sudah disandang perusahaan, karena kombinasi ekuitas negatif dan keterlambatan laporan biasanya memperbesar risiko sanksi atau suspensi lebih lanjut dari bursa.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bayan-pastikan-penjualan-saham-ke-haji-isam-bersih",

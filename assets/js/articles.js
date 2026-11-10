@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "giaa-luncurkan-rights-issue-rp6-2-triliun-dilusi-37-9",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Luncurkan Rights Issue Rp6,2 Triliun, [Dilusi] 37,9%",
+  "deck": "Garuda menawarkan hingga 248,7 miliar saham baru seri E seharga Rp58-Rp68 per saham, dengan Danantara membayar mayoritas haknya pakai saham GMFI, bukan kas segar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T23:57:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/461692c59d_0fca098a2b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "rights issue",
+   "Danantara",
+   "GMFI"
+  ],
+  "body": [
+   "Garuda Indonesia (GIAA) menawarkan sebanyak-banyaknya 248.705.613.200 saham baru Seri E bernilai nominal Rp25 per saham lewat penambahan modal dengan hak memesan efek terlebih dahulu ketiga (PMHMETD III). Harga pelaksanaannya dipatok dalam kisaran Rp58 sampai Rp68 per saham, sehingga total nilai penawaran bisa mencapai Rp6,22 triliun. Jumlah saham baru ini mewakili sebanyak-banyaknya 37,92 persen dari modal disetor perseroan setelah rights issue selesai. Setiap pemegang saham lama yang namanya tercatat dalam daftar pemegang saham per 23 Desember 2026 pukul 16.15 WIB mendapat hak memesan efek terlebih dahulu (HMETD), sementara rasio pastinya baru akan diumumkan setelah harga pelaksanaan final ditetapkan.",
+   "Danantara Asset Management (DAM), pemegang saham utama Garuda dengan 370.902.553.959 saham atau 91,11 persen dari modal disetor, sudah menyatakan akan melaksanakan seluruh haknya. Sebagian besar pembayarannya bukan uang tunai, melainkan penyetoran aset berupa 82.100.173.900 saham Seri B milik DAM di PT Garuda Maintenance Facility Aero Asia Tbk (GMFI), setara 65,77 persen dari modal disetor GMFI. DAM menyatakan punya dana tunai yang cukup untuk melunasi sisa haknya yang tidak dibayar lewat saham GMFI tersebut.",
+   "Dalam skenario seluruh pemegang saham berpartisipasi dengan harga pelaksanaan di batas bawah Rp58, jumlah saham Garuda yang beredar akan naik dari 407.091.703.837 menjadi 514.292.399.190 saham, dengan 107.200.695.353 di antaranya saham baru Seri E atau 20,84 persen dari total. Dari porsi Seri E itu, jatah yang jatuh ke pemegang saham publik di bawah 5 persen hanya 1,66 persen, menandakan sebagian besar saham baru memang diarahkan untuk diserap DAM. Pemegang saham yang tidak ikut melaksanakan haknya bisa terdilusi sampai 37,92 persen.",
+   "Perseroan menjadwalkan HMETD diperdagangkan pada 29 Desember 2026 sampai 7 Januari 2027, dengan pencatatan saham baru di Bursa Efek Indonesia pada 29 Desember 2026 dan tanggal terakhir pelaksanaan HMETD pada 7 Januari 2027. Rencana ini sudah disetujui dalam RUPSLB pada 6 November 2026. Dalam prospektus, Garuda menyebut risiko utama yang masih dihadapi perseroan adalah keterbatasan likuiditas, sementara investor juga dihadapkan pada risiko harga dan likuiditas saham yang dipengaruhi kondisi pasar modal Indonesia."
+  ],
+  "fotoAdegan": "Ground crew inspecting a wide-body jet engine on an airport apron at dawn, a fuel truck parked nearby",
+  "takeaway": "Rights issue ini condong netral bagi fundamental Garuda, karena menambah modal lewat suntikan aset dari Danantara, bukan menguras kas pemegang saham publik, tapi juga tidak langsung mengisi kas perusahaan dengan uang tunai segar. Yang tersentuh adalah ekuitas dan jumlah saham beredar: modal disetor yang lebih besar bisa memperbaiki rasio utang terhadap modal, tapi tambahan saham hingga 37,92 persen juga berarti laba yang sama nantinya dibagi ke lebih banyak lembar saham, sehingga laba per saham berpotensi terdilusi. Perseroan sendiri masih mengakui risiko keterbatasan likuiditas sebagai risiko utama, jadi suntikan saham GMFI ini belum tentu menambah uang kas yang bisa langsung dipakai membayar kewajiban jangka pendek. Yang perlu dipantau berikutnya adalah tanggal efektif pernyataan pendaftaran dari OJK pada 11 Desember 2026, serta penetapan harga pelaksanaan dan rasio HMETD final sebelum periode perdagangan dimulai 29 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "raja-teken-pinjaman-afiliasi-rp16-5-m-ke-anak-usaha-mui",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Teken Pinjaman [Afiliasi] Rp16,5 M ke Anak Usaha MUI",
+  "deck": "EHK memberi pinjaman Rp16,5 miliar berbunga 7,5 persen per tahun kepada MUI, dua anak usaha yang sama-sama dikendalikan RAJA, untuk mendanai operasional bisnis pipa gas MUI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T22:42:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7ca16b61b0_4bd2010bd1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAJA",
+  "tags": [
+   "RAJA",
+   "Transaksi Afiliasi",
+   "Pinjaman Antar Perusahaan",
+   "Energasindo Heksa Karya"
+  ],
+  "body": [
+   "PT Rukun Raharja Tbk (RAJA) mengumumkan transaksi afiliasi berupa pinjaman antar perusahaan yang dilakukan pada 30 Oktober 2026. Dalam transaksi ini, PT Energasindo Heksa Karya (EHK) memberikan fasilitas pinjaman senilai Rp16.547.802.039, setara sekitar US$955.195,22, kepada PT Majuko Utama Indonesia (MUI) dengan bunga 7,5 persen per tahun. Dana tersebut digunakan untuk mendukung kebutuhan pendanaan dan kegiatan operasional MUI di bidang pengangkutan gas bumi melalui jaringan pipa.",
+   "EHK dan MUI tercatat sebagai pihak terafiliasi karena sama-sama berada dalam pengendalian RAJA, meski jalurnya tidak langsung. RAJA memiliki 67 persen saham di PT Panji Raya Alamindo (PRA), PRA kemudian menguasai 99,99 persen saham EHK, dan EHK menguasai 99,99 persen saham MUI. Dengan rantai kepemilikan itu, uang yang dipinjamkan sebenarnya tetap berputar di dalam kelompok usaha yang sama, hanya berpindah dari satu anak usaha ke anak usaha lain di bawahnya.",
+   "Sebagai syarat transaksi afiliasi sesuai POJK 42/2020, RAJA menunjuk Kantor Jasa Penilai Publik (KJPP) Putri Anugrah dan Rekan untuk menilai kewajaran transaksi ini. Dalam laporan bertanggal 29 Oktober 2026 dengan tanggal pendapat kewajaran 30 April 2026, penilai menyatakan tidak ada kejadian penting setelah tanggal pendapat kewajaran yang mengubah hasil penilaian hingga laporan diterbitkan, yang berarti suku bunga dan syarat pinjaman tersebut dinilai wajar bagi kedua belah pihak."
+  ],
+  "fotoAdegan": "Technicians in hard hats inspecting a long elevated gas pipeline at an industrial facility, overcast morning light",
+  "takeaway": "Transaksi ini kami nilai netral bagi RAJA, karena uangnya tidak keluar dari grup usaha, hanya pindah dari EHK ke MUI yang keduanya tetap anak usaha RAJA, dan nilainya, Rp16,5 miliar, tergolong kecil untuk skala konsolidasi RAJA. Yang tersentuh di sini adalah arus kas antar entitas anak usaha dan beban bunga MUI yang harus membayar 7,5 persen per tahun ke EHK, tapi karena keduanya dikonsolidasikan ke laporan keuangan RAJA, bunga dan utang ini akan saling meniadakan saat dilihat dari level induk usaha, jadi tidak menambah atau mengurangi kas RAJA secara riil. Sejak awal November 2026, RAJA memang cukup sering melaporkan pinjaman serupa antar anak usahanya dengan nilai bervariasi, menandakan pola pendanaan internal yang rutin, bukan kejadian luar biasa. Yang perlu dipantau selanjutnya adalah apakah dana ini benar terserap untuk memperkuat operasional bisnis pipa gas MUI seperti yang disebutkan, dan apakah muncul dampak pada laporan keuangan konsolidasi RAJA pada periode berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hrme-dua-pemegang-saham-teken-ppjbs-jual-saham",
+  "category": "Aksi Korporasi",
+  "title": "HRME: Dua Pemegang Saham Teken [PPJBS] Jual Saham",
+  "deck": "PT Wijaya Wisesa Realty dan PT Twin Investment menjual saham HRME ke PT Properti International Development, transaksi masih menunggu uji tuntas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T22:38:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43d4aa45bf_ebd3f7978d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRME",
+  "tags": [
+   "HRME",
+   "pemegang saham",
+   "PPJBS",
+   "due diligence"
+  ],
+  "body": [
+   "PT Menteng Heritage Realty Tbk (HRME) melaporkan bahwa pada Senin, 9 November 2026, dua pemegang sahamnya, PT Wijaya Wisesa Realty dan PT Twin Investment, menandatangani Perjanjian Pengikatan Jual Beli Saham (PPJBS) dengan PT Properti International Development selaku calon pembeli. Perjanjian ini menyangkut rencana pengalihan saham milik kedua penjual tersebut di HRME kepada pembeli baru itu.",
+   "Dokumen keterbukaan informasi tidak mencantumkan jumlah saham yang akan dialihkan, harga, maupun persentase kepemilikan yang terdampak. Perusahaan menyebutkan bahwa pelaksanaan dan penyelesaian pengalihan saham ini masih bergantung pada pemenuhan sejumlah persyaratan pendahuluan dalam PPJBS, termasuk uji tuntas atau due diligence atas kegiatan usaha, kondisi keuangan, aspek hukum, serta aset yang dimiliki atau dikuasai HRME.",
+   "Dalam laporan yang ditandatangani Direktur Utama Budi Kurniawan ini, perseroan menyatakan bahwa penandatanganan PPJBS tidak memiliki dampak langsung terhadap kondisi keuangan maupun kelangsungan usaha HRME. Surat pemberitahuan resmi kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia juga ditandatangani oleh Corporate Secretary Lira Christina Ratulangi."
+  ],
+  "fotoAdegan": "Exterior of a quiet colonial-style boutique hotel building in Jakarta with a tree-lined driveway, soft afternoon light",
+  "takeaway": "Penilaian saya netral, karena ini baru pengikatan awal yang sifatnya bersyarat, belum ada harga atau jumlah saham yang diungkap, dan hasilnya masih bergantung pada due diligence yang belum selesai. Yang tersentuh di sini adalah struktur pemegang saham dan potensi perubahan pengendali perusahaan, bukan arus kas atau laba, dan pelaku pasar memperhatikan ini karena siapa yang mengendalikan perusahaan bisa mengubah arah bisnis dan strategi ke depan. Due diligence sendiri artinya proses pemeriksaan menyeluruh oleh calon pembeli terhadap kondisi bisnis, keuangan, hukum, dan aset target, semacam cek kesehatan sebelum transaksi benar-benar dilanjutkan. Yang perlu dipantau selanjutnya adalah hasil uji tuntas dan pemenuhan persyaratan pendahuluan dalam PPJBS, karena baru setelah itu akan jelas apakah transaksi berlanjut, berapa jumlah saham yang berpindah tangan, dan pada harga berapa. Dokumen ini belum mencantumkan tenggat waktu spesifik untuk penyelesaian transaksi tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "raja-salurkan-pinjaman-rp101-8-m-ke-anak-usaha-afiliasi",
   "category": "Aksi Korporasi",
   "title": "RAJA Salurkan Pinjaman Rp101,8 M ke Anak Usaha [Afiliasi]",

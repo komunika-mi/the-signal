@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "giaa-luncurkan-rights-issue-rp6-2-triliun-dilusi-37-9",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Luncurkan Rights Issue Rp6,2 Triliun, [Dilusi] 37,9%",
+  "deck": "Garuda menawarkan hingga 248,7 miliar saham baru seri E seharga Rp58-Rp68 per saham, dengan Danantara membayar mayoritas haknya pakai saham GMFI, bukan kas segar.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GIAA",
+   "rights issue",
+   "Danantara",
+   "GMFI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/461692c59d_0fca098a2b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "raja-teken-pinjaman-afiliasi-rp16-5-m-ke-anak-usaha-mui",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Teken Pinjaman [Afiliasi] Rp16,5 M ke Anak Usaha MUI",
+  "deck": "EHK memberi pinjaman Rp16,5 miliar berbunga 7,5 persen per tahun kepada MUI, dua anak usaha yang sama-sama dikendalikan RAJA, untuk mendanai operasional bisnis pipa gas MUI.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAJA",
+   "Transaksi Afiliasi",
+   "Pinjaman Antar Perusahaan",
+   "Energasindo Heksa Karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7ca16b61b0_4bd2010bd1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hrme-dua-pemegang-saham-teken-ppjbs-jual-saham",
+  "category": "Aksi Korporasi",
+  "title": "HRME: Dua Pemegang Saham Teken [PPJBS] Jual Saham",
+  "deck": "PT Wijaya Wisesa Realty dan PT Twin Investment menjual saham HRME ke PT Properti International Development, transaksi masih menunggu uji tuntas.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRME",
+   "pemegang saham",
+   "PPJBS",
+   "due diligence"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43d4aa45bf_ebd3f7978d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "raja-salurkan-pinjaman-rp101-8-m-ke-anak-usaha-afiliasi",
   "category": "Aksi Korporasi",
   "title": "RAJA Salurkan Pinjaman Rp101,8 M ke Anak Usaha [Afiliasi]",
@@ -6409,54 +6457,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b8337b658_da43bfbeb5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "true-gelar-public-expose-tahunan-18-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "TRUE Gelar [Public Expose] Tahunan 18 November 2026",
-  "deck": "Triniti Dinamik Tbk menjadwalkan Public Expose Tahunan tahun buku 2025 secara daring pada 18 November 2026, pendaftaran ditutup sehari sebelumnya.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUE",
-   "Triniti Dinamik",
-   "Public Expose",
-   "Properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f208274417_80427e241f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "army-gelar-rupslb-kedua-audit-keuangan-2021-2022-masih-tertunda",
-  "category": "Aksi Korporasi",
-  "title": "ARMY Gelar RUPSLB Kedua, Audit Keuangan 2021-2022 Masih [Tertunda]",
-  "deck": "RUPSLB pertama Armidian Karyatama gagal kuorum, RUPSLB kedua digelar 13 November 2026 membahas pergantian direksi dan keterlambatan audit laporan keuangan 2021-2022.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARMY",
-   "RUPSLB",
-   "Armidian Karyatama",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c0f4fb49ea_880f76a384.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-gigp-kuasai-88-32-lewat-penempatan-terbatas-rp125-m",
-  "category": "Aksi Korporasi",
-  "title": "INPS: GIGP Kuasai [88,32%] Lewat Penempatan Terbatas Rp125 M",
-  "deck": "RUPSLB 6 November akan memutuskan penerbitan hingga 1,25 miliar saham baru INPS tanpa hak memesan efek terlebih dahulu, seluruhnya diambil pengendali GIGP.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "private placement",
-   "PMTHMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/60a89dbfce_957ea9d35d.pdf",
   "sourceLabel": "IDX"
  }
 ];

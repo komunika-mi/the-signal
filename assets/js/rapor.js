@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-10T06:35:40.136+07:00",
+ "diperbarui": "2026-11-11T04:02:01.522+07:00",
  "entri": [
+  {
+   "id": "2026-11-10-3",
+   "edisi": "2026-11-10",
+   "benang": "Laba Kuartal III Melebar, Arus Kas Jadi Pembeda",
+   "klaim": "Arah besar laba emiten kuartal III dan sembilan bulan 2026 tetap melebar di berbagai sektor, namun apakah ini kualitas laba yang solid atau sekadar di atas kertas (seperti terlihat pada arus kas operasi ITMG yang menyusut) baru akan teruji oleh laporan arus kas kuartal IV emiten-emiten ini.",
+   "penanda": "Laporan arus kas kuartal IV emiten-emiten ini",
+   "tenggat": "2027-01-31",
+   "tenggatLabel": "awal tahun depan",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-10-2",
+   "edisi": "2026-11-10",
+   "benang": "Koreksi Laporan Keuangan Berulang di Dua Emiten",
+   "klaim": "Koreksi berulang laporan keuangan Cashlez (tiga kali dalam sepekan) dan BIKE (tiga kali dalam sebulan) menunjukkan lemahnya pengendalian pencatatan akuntansi di kedua emiten, bukan sekadar insiden sekali terjadi.",
+   "penanda": "Kemunculan koreksi keempat dari salah satu emiten ini",
+   "tenggat": "2026-11-17",
+   "tenggatLabel": "dalam beberapa hari ke depan",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-10-1",
+   "edisi": "2026-11-10",
+   "benang": "Bursa Tuntaskan Pembersihan 18 Emiten Bermasalah",
+   "klaim": "Pencabutan serentak 18 emiten (termasuk saham SKYB, SUGI, serta saham dan obligasi TDPM dan TELE) menegaskan bahwa arah pembersihan emiten bermasalah oleh BEI benar-benar tuntas dan akan berlanjut, bukan berhenti setelah edisi delisting sebelumnya.",
+   "penanda": "Daftar suspensi BEI berikutnya yang mendekati ambang 24 bulan sesuai aturan delisting paksa",
+   "tenggat": null,
+   "tenggatLabel": "daftar suspensi BEI berikutnya yang mendekati ambang 24 bulan sesuai aturan delisting paksa",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-09-3",
    "edisi": "2026-11-09",
@@ -146,8 +179,13 @@ var RAPOR = {
    "penanda": "Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 6 November 2026, termasuk rincian jumlah dan harga saham baru yang biasanya baru diumumkan setelah rapat menyetujui rencana ini, serta batas akhir pemegang saham menyampaikan…",
    "tenggat": "2026-11-06",
    "tenggatLabel": "6 November 2026",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "giaa-luncurkan-rights-issue-rp6-2-triliun-dilusi-37-9",
+    "judul": "GIAA Luncurkan Rights Issue Rp6,2 Triliun, Dilusi 37,9%",
+    "tanggal": "10 November 2026",
+    "alasan": "Artikel ini melaporkan rights issue Garuda senilai Rp6,2 triliun dengan dilusi 37,9% lewat suntikan aset dari Danantara, menunjukkan proses penambahan modal memang berjalan dan rinciannya sudah terungkap sesuai arah klaim."
+   }
   },
   {
    "id": "2026-11-03-3",
@@ -462,8 +500,13 @@ var RAPOR = {
    "penanda": "Yang perlu dipantau berikutnya adalah batas akhir partisipasi pada 21 Oktober 2026 pukul 16.00 WIB, pembayaran kepada peserta yang paling lambat dilakukan 2 November 2026, serta kelanjutan proses persetujuan OJK dan Bursa Efek Indonesia…",
    "tenggat": "2026-11-02",
    "tenggatLabel": "2 November 2026",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "skyb-resmi-delisting-dari-bei-gabung-17-emiten-lain",
+    "judul": "SKYB Resmi Delisting dari BEI, Gabung 17 Emiten Lain",
+    "tanggal": "10 November 2026",
+    "alasan": "Artikel ini menunjukkan SKYB resmi delisting dan bergabung dengan 17 emiten lain yang sudah tersingkir dari bursa, diperkuat juga oleh delisting SUGI dan pencabutan obligasi TDPM/TELE pada tanggal yang sama, membuktikan gelombang keluar dari BEI memang masih berlanjut dan bertambah."
+   }
   },
   {
    "id": "2026-10-21-3",
@@ -2047,7 +2090,7 @@ var RAPOR = {
    "penanda": "Keputusan pemegang saham independen pada RUPSLB BIPP",
    "tenggat": "2026-09-25",
    "tenggatLabel": "RUPSLB BIPP tanggal 25 September mendatang",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {

@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-mulai-susun-ripparnas-2027-2045-target-devisa-us-39-4-m",
+  "category": "Makroekonomi",
+  "title": "RI Mulai Susun [RIPPARNAS] 2027-2045, Target Devisa US$39,4 M",
+  "deck": "Pemerintah memulai penyusunan RIPPARNAS 2027-2045 untuk mendorong investasi pariwisata, menargetkan kontribusi PDB 5 persen dan devisa US$39,4 miliar pada 2029.",
+  "date": "10 November 2026",
+  "image": "assets/img/terminal-bus.jpg",
+  "tags": [
+   "pariwisata",
+   "RIPPARNAS",
+   "investasi",
+   "devisa"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7209/pemerintah-perkuat-investasi-dan-integrasi-ekosistem-pariwisata-melalui-ripparnas-20272045",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "telkom-gabungkan-telkominfra-dan-nsi-perampingan-lanjut",
+  "category": "BUMN",
+  "title": "Telkom [Gabungkan] Telkominfra dan NSI, Perampingan Lanjut",
+  "deck": "Telkom menggabungkan Telkominfra ke Telkom Akses dan NSI ke GSD, bagian dari rencana merampingkan puluhan anak usaha menuju status strategic holding sebelum akhir 2026.",
+  "date": "10 November 2026",
+  "image": "assets/img/telkom-gabungkan-telkominfra-dan-nsi-perampingan-lanjut.jpg",
+  "imageV": "mwaqforn",
+  "tags": [
+   "Telkom",
+   "Telkominfra",
+   "Streamlining BUMN",
+   "Danantara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477629-percepat-streamlining-telkom-rampingkan-anak-usaha-lewat-dua-merger-sekaligus"
+ },
+ {
   "slug": "ptdu-rinci-proses-pkpu-ekuitas-negatif-rp7-75-miliar",
   "category": "Aksi Korporasi",
   "title": "PTDU Rinci Proses [PKPU], Ekuitas Negatif Rp7,75 Miliar",
@@ -3774,7 +3807,7 @@ var ARTICLES = [
   "title": "Realisasi [Investasi] Rp3.923,2 Triliun Topang Pergeseran Kerja",
   "deck": "Pemerintah mencatat investasi dua tahun terakhir tembus Rp3.923,2 triliun dan menyerap 5,49 juta pekerja, di tengah pergeseran pola kerja akibat transformasi ekonomi.",
   "date": "6 November 2026",
-  "image": "assets/img/terminal-bus.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "transformasi ekonomi",
    "investasi",
@@ -4256,7 +4289,7 @@ var ARTICLES = [
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
   "deck": "Tingkat pengangguran terbuka naik tipis dari Februari 2026, tapi masih lebih rendah dibanding Agustus tahun lalu",
   "date": "6 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "bps",
    "ketenagakerjaan",
@@ -4299,7 +4332,7 @@ var ARTICLES = [
   "title": "Pertumbuhan Harga Rumah Primer [Melambat] di Triwulan III",
   "deck": "Pertumbuhan harga rumah baru melambat ke 0,58 persen dibanding setahun lalu pada triwulan III 2026, sementara penjualan turun 8,43 persen di seluruh tipe rumah.",
   "date": "6 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "properti residensial",
    "harga rumah",
@@ -4895,7 +4928,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47] Persen pada Triwulan III 2026",
   "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada triwulan III 2026, naik dari 5,29 persen pada triwulan sebelumnya, didorong lonjakan belanja pemerintah dan konsumsi rumah tangga.",
   "date": "5 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "Pertumbuhan Ekonomi",
    "PDB Triwulan III",
@@ -5397,7 +5430,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
   "deck": "BPS catat pertumbuhan ekonomi naik 0,18 poin dari triwulan sebelumnya dan jadi yang tertinggi kedua dalam setahun terakhir.",
   "date": "5 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "ekonomi",
    "bps",
@@ -5607,7 +5640,7 @@ var ARTICLES = [
   "title": "Ekonomi Indonesia Tumbuh [5,47%] di Triwulan III-2026",
   "deck": "BPS mencatat produk domestik bruto RI naik 5,47 persen secara tahunan pada triwulan III-2026, ditopang belanja pemerintah dan ekspor.",
   "date": "5 November 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
+  "image": "assets/img/timbangan-pasar.jpg",
   "tags": [
    "PDB",
    "BPS",
@@ -6423,38 +6456,6 @@ var ARTICLES = [
    "pemantauan khusus"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104144918-65701-0/FinancialStatement-2026-III-MTPS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oasa-rombak-rencana-pakai-dana-rights-issue-rp469-5-miliar",
-  "category": "Aksi Korporasi",
-  "title": "OASA [Rombak] Rencana Pakai Dana Rights Issue Rp469,5 Miliar",
-  "deck": "RUPSLB 11 Desember 2026 akan memutuskan realokasi dana rights issue OASA senilai sekitar Rp469,5 miliar dari proyek IKN dan PSEL Semarang menjadi modal kerja grup.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OASA",
-   "RUPSLB",
-   "rights issue",
-   "Maharaksa Biru Energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0c960d91b3_d382f81c71.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bq-sesuaikan-rasio-waran-terstruktur-medcbqcz6a-usai-dividen-medc",
-  "category": "Aksi Korporasi",
-  "title": "BQ Sesuaikan Rasio [Waran Terstruktur] MEDCBQCZ6A Usai Dividen MEDC",
-  "deck": "Penerbit waran terstruktur MEDCBQCZ6A menyesuaikan rasio dan harga pelaksanaan setelah MEDC membagikan dividen tunai US$30 juta, dengan pembayaran dijadwalkan 2 Desember 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BQ",
-   "MEDC",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cf464eef1f_933a7bacaa.pdf",
   "sourceLabel": "IDX"
  }
 ];

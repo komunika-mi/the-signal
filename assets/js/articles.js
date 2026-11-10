@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "resign-kerja-begini-cara-cairkan-jht-bpjs-ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "title": "Resign Kerja, Begini Cara [Cairkan] JHT BPJS Ketenagakerjaan",
+  "deck": "Pekerja yang resign tetap bisa mencairkan saldo JHT BPJS Ketenagakerjaan, asal melewati masa tunggu satu bulan dan melengkapi syarat dokumen sesuai jumlah saldo.",
+  "image": "assets/img/resign-kerja-begini-cara-cairkan-jht-bpjs-ketenagakerjaan.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T01:03:44+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477683-baru-resign-mau-langsung-cairkan-bpjs-ketenagakerjaan-memang-bisa-ini-syarat-dan-caranya",
+  "tags": [
+   "BPJS Ketenagakerjaan",
+   "JHT",
+   "resign",
+   "JMO"
+  ],
+  "body": [
+   "Banyak orang yang baru resign bertanya-tanya apakah dana Jaminan Hari Tua (JHT) di BPJS Ketenagakerjaan bisa langsung dicairkan begitu berhenti kerja. Pertanyaan ini masuk akal karena dana JHT sering jadi andalan buat menyambung hidup selama belum punya penghasilan baru. Jawabannya bisa, tapi tidak instan, ada masa tunggu yang harus dilewati dulu sebelum klaim bisa diajukan.",
+   "Berdasarkan ketentuan resmi BPJS Ketenagakerjaan, klaim JHT baru bisa diajukan setelah satu bulan sejak tanggal resmi berhenti kerja. Sepanjang masa tunggu itu, pekerja harus benar-benar berstatus tidak bekerja, dan kalau ternyata sudah mendapat pekerjaan baru sebelum masa tunggu selesai, saldo JHT tidak dicairkan melainkan digabungkan dengan kepesertaan di perusahaan yang baru.",
+   "Untuk mengajukan klaim, ada sejumlah dokumen yang perlu disiapkan, antara lain buku tabungan dan Kartu Keluarga (KK) sebagai syarat administrasi. Nomor Pokok Wajib Pajak (NPWP) juga wajib disertakan khusus bagi peserta dengan saldo JHT di atas Rp50 juta, atau bagi yang sebelumnya sudah pernah mencairkan sebagian saldo.",
+   "Setelah semua syarat lengkap, pengajuan bisa dilakukan secara daring maupun langsung ke kantor cabang BPJS Ketenagakerjaan. Khusus peserta WNI dengan saldo JHT maksimal Rp10 juta, klaim bisa diproses lebih sederhana lewat aplikasi Jamsostek Mobile (JMO) tanpa perlu datang ke kantor cabang, sepanjang memenuhi ketentuan layanan yang berlaku."
+  ],
+  "fotoAdegan": "Young job seeker filling out paperwork at a public service counter in a government office, other visitors waiting on plastic chairs nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/11/6af351f8287ee-ilustrasi-tumpukan-uang-rp100-ribu_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Aturan yang dibahas di sini bukan kebijakan baru, melainkan mekanisme klaim JHT yang sudah lama berlaku di BPJS Ketenagakerjaan. Yang konkret: pekerja yang resign wajib menunggu satu bulan sejak berhenti kerja sebelum bisa mengajukan klaim, dan kalau selama masa tunggu itu sudah dapat kerja baru, saldonya otomatis digabung dengan kepesertaan di tempat baru, bukan dicairkan. Ada juga dua ambang yang menentukan jalur pencairan, saldo sampai Rp10 juta bisa lewat aplikasi JMO tanpa ke kantor cabang, sementara saldo di atas Rp50 juta atau yang pernah dicairkan sebagian wajib menyertakan NPWP. Yang paling terdampak adalah pekerja yang baru berhenti dan mengandalkan dana ini untuk bertahan selama mencari pekerjaan baru, karena masa tunggu satu bulan berarti dana tidak bisa langsung cair begitu resign. Karena ini murni penjelasan prosedur yang sudah berjalan, belum ada tanda arah perubahan, yang perlu dipantau adalah kalau BPJS Ketenagakerjaan merevisi ambang Rp10 juta atau masa tunggu satu bulan tersebut.",
+  "imageV": "mwb1euak"
+ },
+ {
   "slug": "giaa-luncurkan-rights-issue-rp6-2-triliun-dilusi-37-9",
   "category": "Aksi Korporasi",
   "title": "GIAA Luncurkan Rights Issue Rp6,2 Triliun, [Dilusi] 37,9%",
@@ -28,6 +55,32 @@ var ARTICLES = [
   "fotoAdegan": "Ground crew inspecting a wide-body jet engine on an airport apron at dawn, a fuel truck parked nearby",
   "takeaway": "Rights issue ini condong netral bagi fundamental Garuda, karena menambah modal lewat suntikan aset dari Danantara, bukan menguras kas pemegang saham publik, tapi juga tidak langsung mengisi kas perusahaan dengan uang tunai segar. Yang tersentuh adalah ekuitas dan jumlah saham beredar: modal disetor yang lebih besar bisa memperbaiki rasio utang terhadap modal, tapi tambahan saham hingga 37,92 persen juga berarti laba yang sama nantinya dibagi ke lebih banyak lembar saham, sehingga laba per saham berpotensi terdilusi. Perseroan sendiri masih mengakui risiko keterbatasan likuiditas sebagai risiko utama, jadi suntikan saham GMFI ini belum tentu menambah uang kas yang bisa langsung dipakai membayar kewajiban jangka pendek. Yang perlu dipantau berikutnya adalah tanggal efektif pernyataan pendaftaran dari OJK pada 11 Desember 2026, serta penetapan harga pelaksanaan dan rasio HMETD final sebelum periode perdagangan dimulai 29 Desember 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bpdp-dorong-pasar-sawit-dan-umkm-di-pameran-ifbc-2026",
+  "category": "UMKM",
+  "title": "BPDP Dorong Pasar Sawit dan UMKM di Pameran [IFBC] 2026",
+  "deck": "BPDP membuka booth promosi di pameran IFBC 2026 untuk mengenalkan potensi sawit, kelapa, dan kakao serta mendorong perluasan pasar UMKM berbasis komoditas tersebut.",
+  "image": "assets/img/bpdp-dorong-pasar-sawit-dan-umkm-di-pameran-ifbc-2026.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T23:53:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477678-bpdp-genjot-perluasan-pasar-kelapa-sawit-dan-umkm-lewat-ifbc-2026",
+  "tags": [
+   "BPDP",
+   "kelapa sawit",
+   "UMKM",
+   "IFBC 2026"
+  ],
+  "body": [
+   "Badan Pengelola Dana Perkebunan (BPDP) kembali turun langsung ke ajang pameran usaha, kali ini di Pameran Info Franchise & Business Concept (IFBC) 2026 di Jakarta. Lewat booth promosi yang mereka dirikan, BPDP mengenalkan potensi tiga komoditas perkebunan, yaitu kelapa sawit, kelapa, dan kakao, sekaligus mendorong agar produk UMKM berbasis ketiganya bisa menjangkau pasar yang lebih luas.",
+   "Kepala Divisi Kerja Sama Kemasyarakatan dan UMKM BPDP, Helmi Muhansyah, menjelaskan bahwa booth tersebut dibuat untuk menunjukkan rangkaian peluang usaha dari hulu sampai hilir pada tiga komoditas itu. Menurutnya, sawit, kelapa, dan kakao punya potensi besar diolah menjadi beragam produk bernilai tambah, dan masyarakat perlu lebih mengenal program-program pendanaan BPDP yang selama ini menopang pengembangan UMKM di sektor ini.",
+   "Helmi menambahkan bahwa harapannya masyarakat semakin memahami peran industri perkebunan, khususnya tiga komoditas tersebut, bagi perekonomian nasional dan pembangunan yang berkelanjutan. Ia menilai dukungan hilirisasi dan UMKM ini berpotensi membuka lebih banyak lapangan usaha serta menambah nilai dari hasil perkebunan rakyat."
+  ],
+  "fotoAdegan": "Small vendors arranging palm oil, coconut, and cacao based snack products on a modest exhibition stall table, visitors browsing closely",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/10/6af34b753b616-bpdp-genjot-perluasan-pasar-kelapa-sawit-dan-umkm-lewat-ifbc-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan cara BPDP, badan yang mengelola dana pungutan dari ekspor kelapa sawit, memperluas jangkauan dana itu dari sekadar subsidi biodiesel dan peremajaan sawit rakyat ke arah dukungan usaha kecil berbasis sawit, kelapa, dan kakao. Yang kena dampaknya adalah pelaku UMKM pengolah ketiga komoditas itu menjadi produk bernilai tambah, karena merekalah target pameran dan program BPDP yang disebutkan. Berita ini belum menyebut angka konkret, baik soal besaran dana yang dialokasikan untuk UMKM, jumlah pelaku usaha yang disasar, maupun target nilai pasar yang ingin dicapai, sehingga belum jelas seberapa besar dorongan ini akan terasa di lapangan. Yang perlu ditunggu adalah rincian program pendanaan UMKM BPDP selanjutnya atau laporan hasil dari pameran IFBC 2026 ini, karena itu yang akan menunjukkan apakah keikutsertaan ini berbuah kerja sama nyata atau sekadar promosi.",
+  "imageV": "mwb1eurk"
  },
  {
   "slug": "raja-teken-pinjaman-afiliasi-rp16-5-m-ke-anak-usaha-mui",
@@ -316,7 +369,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah baru tahap awal, pemerintah memulai penyusunan dokumen induk pariwisata baru, RIPPARNAS 2027-2045, yang nantinya akan menggantikan kerangka yang sejak 2011 diatur lewat Peraturan Pemerintah No 50, dengan target kontribusi pariwisata ke PDB naik menjadi 4,9 sampai 5 persen dan devisa US$39,4 miliar pada 2029. Yang kena dampak langsung adalah pemerintah daerah yang mengelola 10 destinasi prioritas dan 3 destinasi regeneratif dalam RPJMN 2025-2029, karena arah penyusunan ini mengaitkan penetapan kawasan wisata dengan kedekatannya pada kawasan ekonomi khusus, kawasan industri, dan simpul transportasi seperti bandara dan pelabuhan. Yang masih kurang untuk menilai ke mana ini benar-benar bergerak adalah kejelasan bentuk hukum RIPPARNAS nanti, apakah akan menjadi revisi peraturan pemerintah yang mengikat kementerian dan daerah, atau sekadar dokumen pedoman tanpa konsekuensi kalau tidak dipatuhi. Pemerintah juga belum mengumumkan target waktu penyelesaian draf, sehingga penanda paling dekat yang bisa dipantau adalah kapan draf ini masuk ke tahap pembahasan antar-kementerian atau disahkan sebagai peraturan baru.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "lapd-resmi-ubah-nama-ke-jsi-sinergi-internasional-dan-alamat",
@@ -872,7 +925,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar pembukaan satu kantor di Medan, melainkan BKPM mempercepat penyebaran model desk investasi daerah ini ke beberapa kota baru dalam hitungan hari, Semarang pada 11 November, Makassar pada 13 November, dan Balikpapan pada 16 November, setelah uji coba di Batam dan Bali. Yang terdampak langsung adalah investor dengan proyek senilai minimal Rp100 miliar di Sumatera, kecuali di Lampung, Bangka Belitung, dan Kepulauan Riau yang sudah punya desk sendiri, serta pemerintah daerah dan pengelola kawasan industri yang ikut diwajibkan menyelesaikan hambatan izin dan lahan. Arahnya, BKPM tampak menjadikan desk investasi bukan proyek sekali jalan, melainkan struktur permanen untuk mengawal realisasi investasi di banyak provinsi sekaligus. Klaim bahwa realisasi di Batam dan Bali naik dua sampai tiga kali lipat setelah ada desk masih berasal dari pernyataan Wakil Menteri sendiri, bukan angka yang sudah diverifikasi secara terpisah, jadi yang perlu dicermati adalah laporan realisasi investasi triwulanan BKPM berikutnya untuk melihat apakah Sumatera benar mendekati target Rp13 triliun dan apakah pola serupa muncul di Semarang, Makassar, dan Balikpapan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "esdm-libatkan-pemda-dalam-lelang-panas-bumi-dan-listrik-desa",

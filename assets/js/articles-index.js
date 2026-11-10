@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "resign-kerja-begini-cara-cairkan-jht-bpjs-ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "title": "Resign Kerja, Begini Cara [Cairkan] JHT BPJS Ketenagakerjaan",
+  "deck": "Pekerja yang resign tetap bisa mencairkan saldo JHT BPJS Ketenagakerjaan, asal melewati masa tunggu satu bulan dan melengkapi syarat dokumen sesuai jumlah saldo.",
+  "date": "11 November 2026",
+  "image": "assets/img/resign-kerja-begini-cara-cairkan-jht-bpjs-ketenagakerjaan.jpg",
+  "imageV": "mwb1euak",
+  "tags": [
+   "BPJS Ketenagakerjaan",
+   "JHT",
+   "resign",
+   "JMO"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477683-baru-resign-mau-langsung-cairkan-bpjs-ketenagakerjaan-memang-bisa-ini-syarat-dan-caranya"
+ },
+ {
   "slug": "giaa-luncurkan-rights-issue-rp6-2-triliun-dilusi-37-9",
   "category": "Aksi Korporasi",
   "title": "GIAA Luncurkan Rights Issue Rp6,2 Triliun, [Dilusi] 37,9%",
@@ -19,6 +36,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/461692c59d_0fca098a2b.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bpdp-dorong-pasar-sawit-dan-umkm-di-pameran-ifbc-2026",
+  "category": "UMKM",
+  "title": "BPDP Dorong Pasar Sawit dan UMKM di Pameran [IFBC] 2026",
+  "deck": "BPDP membuka booth promosi di pameran IFBC 2026 untuk mengenalkan potensi sawit, kelapa, dan kakao serta mendorong perluasan pasar UMKM berbasis komoditas tersebut.",
+  "date": "10 November 2026",
+  "image": "assets/img/bpdp-dorong-pasar-sawit-dan-umkm-di-pameran-ifbc-2026.jpg",
+  "imageV": "mwb1eurk",
+  "tags": [
+   "BPDP",
+   "kelapa sawit",
+   "UMKM",
+   "IFBC 2026"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477678-bpdp-genjot-perluasan-pasar-kelapa-sawit-dan-umkm-lewat-ifbc-2026"
  },
  {
   "slug": "raja-teken-pinjaman-afiliasi-rp16-5-m-ke-anak-usaha-mui",
@@ -6425,38 +6459,6 @@ var ARTICLES = [
    "utang bank"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104164732-65586-0/FinancialStatement-2026-III-ICON.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "city-laba-bersih-naik-49-6-jelang-public-expose-tahunan",
-  "category": "Aksi Korporasi",
-  "title": "CITY: laba bersih [naik] 49,6% jelang public expose tahunan",
-  "deck": "Materi public expose tahunan CITY menunjukkan pendapatan naik ke Rp125,3 miliar dan laba bersih ke Rp17,8 miliar pada sembilan bulan 2026, tanpa penambahan saham baru.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CITY",
-   "public expose",
-   "properti",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fa05aa1fbf_684f68ab80.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tguk-akui-belum-ada-sinergi-konkret-dengan-pengendali-baru-vcg",
-  "category": "Aksi Korporasi",
-  "title": "TGUK Akui Belum Ada [Sinergi] Konkret dengan Pengendali Baru VCG",
-  "deck": "TGUK menjelaskan ke BEI strategi usaha pasca pengambilalihan oleh Visionary Capital Global, namun sinergi operasional dengan pengendali baru itu belum terwujud secara konkret.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGUK",
-   "akuisisi",
-   "Visionary Capital Global",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b8337b658_da43bfbeb5.pdf",
   "sourceLabel": "IDX"
  }
 ];

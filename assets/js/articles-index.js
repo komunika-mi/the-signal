@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "raja-salurkan-pinjaman-rp101-8-m-ke-anak-usaha-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Salurkan Pinjaman Rp101,8 M ke Anak Usaha [Afiliasi]",
+  "deck": "EHK, anak usaha RAJA, meminjamkan USD5,87 juta ke APE untuk mendanai operasional pengangkutan gas, berbunga 7,5 persen per tahun hingga akhir 2028.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAJA",
+   "transaksi afiliasi",
+   "EHK",
+   "APE"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a76b81475d_3b15f3a34f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "raja-kucurkan-pinjaman-rp10-m-ke-anak-usaha-kmj",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Kucurkan [Pinjaman] Rp10 M ke Anak Usaha KMJ",
+  "deck": "RAJA menyalurkan pinjaman afiliasi Rp10 miliar ke anak usaha KMJ untuk danai bisnis gas pipa, bunga naik ke 8,6% begitu KMJ mulai berpendapatan.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAJA",
+   "transaksi afiliasi",
+   "KMJ",
+   "pinjaman"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/574716cdb5_5b64fcec8b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-jelaskan-ke-bursa-rugi-9-bulan-rp75-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jelaskan ke Bursa, [Rugi] 9 Bulan Rp75,7 Miliar",
+  "deck": "Penjelasan resmi BIKE ke BEI soal anjloknya total aset dan liabilitas lebih dari 20%, disertai laporan rugi Rp75,7 miliar untuk sembilan bulan pertama 2026.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "laporan keuangan",
+   "rugi",
+   "koreksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110221828-65785-0/FinancialStatement-2026-III-BIKE.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-jelaskan-lonjakan-arus-kas-operasi-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Jelaskan Lonjakan [Arus Kas] Operasi ke Bursa",
+  "deck": "Arkora Hydro merespons permintaan penjelasan BEI soal arus kas operasi yang membengkak dan proyek PLTM Tomoni yang ditargetkan beroperasi kuartal I 2027.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "arus kas",
+   "PLTM Tomoni"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3b6170406_3006ba58e3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sqmi-pinjaman-rp36-miliar-dari-pihak-ketiga-terungkap",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: Pinjaman [Rp36 Miliar] dari Pihak Ketiga Terungkap",
+  "deck": "Public expose tahunan SQMI mengungkap pinjaman Rp36 miliar dari Fandy Hartanto dan proses pengalihan kendali ke Maxglory Capital Limited yang masih menunggu restu pemegang saham.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SQMI",
+   "Wilton Makmur Indonesia",
+   "Public Expose",
+   "Maxglory Capital Limited"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9277afb1de_ed73ab83a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "itmg-catat-laba-us-167-5-juta-liabilitas-melonjak-24-6",
+  "category": "Aksi Korporasi",
+  "title": "ITMG Catat Laba US$167,5 Juta, Liabilitas [Melonjak] 24,6%",
+  "deck": "Laba bersih sembilan bulan ITMG naik hampir 25 persen jadi US$167,5 juta, tapi arus kas operasi menyusut tajam dan ada utang bank jangka pendek baru untuk modal kerja anak usaha.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ITMG",
+   "laporan keuangan",
+   "batu bara",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110211144-65708-0/FinancialStatement-2026-III-ITMG.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-delisting-obligasi-tdpm-dan-tele-usai-saham-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "BEI Delisting Obligasi [TDPM] dan TELE Usai Saham Dicabut",
+  "deck": "Bursa mencabut pencatatan lima obligasi TDPM dan TELE menyusul delisting saham kedua emiten pada 10 November 2026, tapi kewajiban bayar bunga dan pokok ke pemegang obligasi tetap berlaku.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TDPM",
+   "TELE",
+   "Delisting",
+   "Obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3fdf526963_02fd9fdf86.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-mulai-susun-ripparnas-2027-2045-target-devisa-us-39-4-m",
   "category": "Makroekonomi",
   "title": "RI Mulai Susun [RIPPARNAS] 2027-2045, Target Devisa US$39,4 M",
@@ -19,6 +131,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7209/pemerintah-perkuat-investasi-dan-integrasi-ekosistem-pariwisata-melalui-ripparnas-20272045",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "lapd-resmi-ubah-nama-ke-jsi-sinergi-internasional-dan-alamat",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Resmi Ubah Nama ke [JSI Sinergi Internasional] dan Alamat",
+  "deck": "Leyand International resmi berganti nama menjadi JSI Sinergi Internasional efektif 7 November 2026, disertai pindah domisili ke Jakarta Selatan.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "RUPSLB",
+   "ganti nama",
+   "JSI Sinergi Internasional"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/184fb24521_70b86001f3.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "telkom-gabungkan-telkominfra-dan-nsi-perampingan-lanjut",
@@ -1488,6 +1616,22 @@ var ARTICLES = [
    "konser musik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/365dad443c_5a414a455f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "scma-jelaskan-volatilitas-saham-emtk-pastikan-investasi-panjang",
+  "category": "Aksi Korporasi",
+  "title": "SCMA Jelaskan [Volatilitas] Saham, EMTK Pastikan Investasi Panjang",
+  "deck": "SCMA menjawab permintaan BEI soal volatilitas saham: tak ada info baru selain dividen interim yang telah diumumkan, dan EMTK menegaskan kepemilikannya untuk investasi jangka panjang.",
+  "date": "9 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SCMA",
+   "volatilitas saham",
+   "EMTK",
+   "dividen interim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d6e21f8c91_0878163dc8.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6312,150 +6456,6 @@ var ARTICLES = [
    "Tifico Fiber Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/94e82800f1_d33611c190.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dgik-alihkan-400-2-juta-saham-treasuri-ke-pengendali-gdk",
-  "category": "Aksi Korporasi",
-  "title": "DGIK Alihkan 400,2 Juta Saham Treasuri ke [Pengendali] GDK",
-  "deck": "Nusa Konstruksi Enjiniring (DGIK) akan menjual seluruh 400,2 juta saham treasurinya ke pengendali, PT Global Dinamika Kencana, mulai 11 November 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGIK",
-   "saham treasuri",
-   "buyback",
-   "GDK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43d93146f0_7a537fe88d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-jadwalkan-rupsi-dan-rupslb-11-desember",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Jadwalkan [RUPSI] dan RUPSLB 11 Desember",
-  "deck": "BIKE akan menggelar RUPSLB dan RUPSI pada 11 Desember 2026, dengan pemegang saham tercatat per 18 November 2026 yang berhak hadir.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "RUPSLB",
-   "RUPSI",
-   "KSEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2302cd2bd5_1cbab9708a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meta-panggil-rupslb-26-november-bahas-susunan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "META Panggil RUPSLB 26 November, Bahas Susunan [Direksi]",
-  "deck": "Nusantara Infrastructure menggelar RUPSLB pada 26 November 2026 dengan agenda tunggal persetujuan perubahan susunan direksi perseroan.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "META",
-   "RUPSLB",
-   "Direksi",
-   "Nusantara Infrastructure"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f16bd84ce_eb964f5858.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kgi-hd-sesuaikan-itmghdcz6a-usai-dividen-tunai-itmg",
-  "category": "Aksi Korporasi",
-  "title": "KGI (HD) Sesuaikan [ITMGHDCZ6A] usai Dividen Tunai ITMG",
-  "deck": "KGI Sekuritas menyesuaikan harga pelaksanaan dan rasio waran terstruktur ITMGHDCZ6A menyusul dividen tunai ITMG, efektif 11 November 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HD",
-   "ITMG",
-   "waran terstruktur",
-   "KGI Sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ad7d84fd1c_45fdf6e3b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iiff-tawarkan-obligasi-rp1-7-triliun-bunga-7-2-7-6-persen",
-  "category": "Aksi Korporasi",
-  "title": "IIFF Tawarkan [Obligasi] Rp1,7 Triliun, Bunga 7,2-7,6 Persen",
-  "deck": "IIFF merilis Obligasi Berkelanjutan III Tahap II senilai Rp1,7 triliun dalam tiga seri, ditawarkan 4-5 November dan tercatat di BEI pada 11 November 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IIFF",
-   "obligasi",
-   "pasar modal",
-   "infrastruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f177628a8_061eddb6bc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "ENRG Tegaskan Tak Ada Info [Material] di Balik Volatilitas Saham",
-  "deck": "Merespons permintaan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, Energi Mega Persada menyatakan tidak ada info material tersembunyi atau rencana aksi korporasi dalam waktu dekat.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "Energi Mega Persada",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e126e2f00b_3b5fd654d8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unvr-laba-bersih-naik-26-jadi-rp4-2-triliun-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "UNVR: Laba Bersih [Naik] 26% jadi Rp4,2 Triliun Kuartal III",
-  "deck": "Laba bersih Unilever Indonesia naik 26 persen jadi Rp4,2 triliun di kuartal III 2026, didorong penjualan tumbuh dan untung penjualan unit usaha yang dihentikan.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNVR",
-   "Unilever Indonesia",
-   "laporan keuangan",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104152117-65732-0/FinancialStatement-2026-III-UNVR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dsfi-laba-bersih-naik-51-ke-rp20-miliar-per-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "DSFI: [Laba] Bersih Naik 51% ke Rp20 Miliar per September 2026",
-  "deck": "Laba bersih DSFI naik 51 persen menjadi Rp20,04 miliar pada sembilan bulan pertama 2026, didorong kenaikan penjualan, meski utang bank jangka pendek juga melonjak.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DSFI",
-   "laporan keuangan",
-   "kuartal III 2026",
-   "industri perikanan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104144928-65734-0/FinancialStatement-2026-III-DSFI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtps-nihil-pendapatan-rugi-melebar-ke-rp6-77-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MTPS Nihil Pendapatan, [Rugi] Melebar ke Rp6,77 Miliar",
-  "deck": "Emiten konstruksi berstatus pemantauan khusus ini tak mencatat pendapatan selama sembilan bulan berturut-turut, sementara kerugian membesar dan ekuitas terus menyusut.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTPS",
-   "laporan keuangan interim",
-   "konstruksi",
-   "pemantauan khusus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104144918-65701-0/FinancialStatement-2026-III-MTPS.pdf",
   "sourceLabel": "IDX"
  }
 ];

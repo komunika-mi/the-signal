@@ -3,6 +3,188 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "raja-salurkan-pinjaman-rp101-8-m-ke-anak-usaha-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Salurkan Pinjaman Rp101,8 M ke Anak Usaha [Afiliasi]",
+  "deck": "EHK, anak usaha RAJA, meminjamkan USD5,87 juta ke APE untuk mendanai operasional pengangkutan gas, berbunga 7,5 persen per tahun hingga akhir 2028.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T22:22:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a76b81475d_3b15f3a34f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAJA",
+  "tags": [
+   "RAJA",
+   "transaksi afiliasi",
+   "EHK",
+   "APE"
+  ],
+  "body": [
+   "PT Rukun Raharja Tbk (RAJA) melaporkan transaksi afiliasi berupa pinjaman antar anak usaha yang diteken pada 30 Oktober 2026. PT Energasindo Heksa Karya (EHK) memberikan fasilitas pinjaman sebesar US$5.877.297,79, setara sekitar Rp101,8 miliar menggunakan kurs tengah Bank Indonesia Rp17.324, kepada PT Artha Prima Energy (APE). Pinjaman ini berbunga 7,5 persen per tahun dan berjangka waktu sampai dengan 31 Desember 2028. Transaksi digolongkan sebagai transaksi afiliasi karena EHK dan APE sama-sama dikendalikan secara tidak langsung oleh RAJA, yang memiliki 67 persen saham PT Panji Raya Alamindo (PRA). PRA sendiri menguasai 99,99 persen EHK, dan EHK menguasai 99,99 persen APE.",
+   "Dana pinjaman ditujukan untuk mendukung kebutuhan pendanaan dan kegiatan operasional APE di bidang pengangkutan gas bumi melalui jaringan pipa. Karena tergolong transaksi dengan pihak terafiliasi, RAJA menunjuk Kantor Jasa Penilai Publik (KJPP) Putri Anugrah dan Rekan sebagai penilai independen untuk menilai kewajaran transaksi ini. Dalam laporan bertanggal 29 Oktober 2026, dengan tanggal pendapat kewajaran 30 April 2026, KJPP menyimpulkan bahwa rencana pemberian pinjaman tersebut wajar.",
+   "Berdasarkan daftar pemegang saham per 30 Agustus 2026, pemegang saham utama RAJA adalah PT Sentosa Bersama Mitra dengan 35,732 persen saham, disusul Hapsoro dengan 27,519 persen, dan PT Tirta Orisa Yasa dengan 12,377 persen. Secara konsolidasi, total ekuitas RAJA tercatat naik dari US$125,1 juta pada 2021 menjadi US$265,4 juta per April 2026, sejalan dengan total aset yang bertambah dari US$245,6 juta menjadi US$511,5 juta pada periode yang sama."
+  ],
+  "fotoAdegan": "Industrial gas pipeline valves and a metering station in an open field, technician in safety gear checking pressure gauges, overcast sky",
+  "takeaway": "Kami menilai laporan ini netral bagi RAJA, karena pinjaman ini hanya berpindah dari satu anak usaha ke anak usaha lain yang sama-sama dikendalikan RAJA, sehingga saat dikonsolidasikan ke laporan keuangan grup, piutang dan utangnya akan saling menghapus dan tidak menambah utang bersih RAJA kepada pihak luar. Pos yang tersentuh adalah arus kas internal grup dan modal kerja APE, bukan ekuitas atau laba per saham RAJA, karena tidak ada penerbitan saham baru maupun dana segar dari luar grup yang masuk. Yang perlu dipantau selanjutnya adalah realisasi penggunaan dana oleh APE untuk operasional pengangkutan gas melalui pipa, serta kemampuannya membayar bunga 7,5 persen per tahun hingga jatuh tempo pinjaman pada 31 Desember 2028.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "raja-kucurkan-pinjaman-rp10-m-ke-anak-usaha-kmj",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Kucurkan [Pinjaman] Rp10 M ke Anak Usaha KMJ",
+  "deck": "RAJA menyalurkan pinjaman afiliasi Rp10 miliar ke anak usaha KMJ untuk danai bisnis gas pipa, bunga naik ke 8,6% begitu KMJ mulai berpendapatan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T22:13:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/574716cdb5_5b64fcec8b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAJA",
+  "tags": [
+   "RAJA",
+   "transaksi afiliasi",
+   "KMJ",
+   "pinjaman"
+  ],
+  "body": [
+   "Rukun Raharja Tbk (RAJA) menyalurkan pinjaman antar perusahaan senilai Rp10.000.000.000 atau setara US$577.234 kepada anak usahanya, PT Karya Mineral Jaya (KMJ), pada 31 Oktober 2026. Pinjaman ini ditujukan untuk mendukung kebutuhan pendanaan dan kegiatan operasional KMJ di bisnis pengangkutan gas bumi melalui jaringan pipa.",
+   "Bunga pinjaman ditetapkan 0 persen per tahun selama KMJ belum memperoleh pendapatan dari kegiatan usahanya, dan baru naik menjadi 8,6 persen per tahun begitu KMJ pertama kali mencatat pendapatan usaha. RAJA mengendalikan KMJ melalui kepemilikan saham sebesar 55 persen, sehingga transaksi ini tergolong transaksi afiliasi berdasarkan Peraturan OJK Nomor 42/POJK.04/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan.",
+   "Untuk memenuhi ketentuan itu, RAJA menunjuk KJPP Putri Anugrah dan Rekan sebagai penilai independen guna memberikan pendapat kewajaran atas rencana pinjaman ini. Dalam laporan bernomor 00283/2.0172-00/BS/10/0557/1/X/2026 yang diterbitkan 30 Oktober 2026, penilai menyimpulkan bahwa rencana pemberian pinjaman tersebut wajar."
+  ],
+  "fotoAdegan": "Industrial gas pipeline valves and steel piping at an onshore distribution facility, overcast afternoon light, Indonesia",
+  "takeaway": "Transaksi ini kami nilai netral bagi RAJA, karena dana yang dipinjamkan tetap berada dalam kelompok usaha yang sama dan nilainya, Rp10 miliar, relatif kecil dibanding skala bisnis RAJA secara keseluruhan. Pos yang tersentuh adalah arus kas, yakni aliran uang masuk dan keluar dari kas perusahaan, karena RAJA mengeluarkan dana tunai ke KMJ meski secara konsolidasi laporan keuangan grup tidak berubah sebab KMJ adalah anak usaha yang sahamnya 55 persen dimiliki RAJA. Bunga pinjaman ditetapkan 0 persen dulu dan baru naik ke 8,6 persen per tahun begitu KMJ mulai mencatat pendapatan usaha, sehingga untuk saat ini RAJA belum mendapat pendapatan bunga dari dana yang dikeluarkannya. Pendapat kewajaran dari KJPP Putri Anugrah dan Rekan yang menyimpulkan transaksi ini wajar merupakan dokumen standar yang disyaratkan OJK untuk transaksi antar perusahaan terafiliasi, bukan penilaian atas untung ruginya bagi pemegang saham. Yang perlu dipantau berikutnya adalah kapan KMJ mulai mencatat pendapatan usaha dari bisnis pengangkutan gas pipanya, karena itu titik ketika bunga pinjaman 8,6 persen mulai berjalan dan menjadi pendapatan bagi RAJA.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bike-jelaskan-ke-bursa-rugi-9-bulan-rp75-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jelaskan ke Bursa, [Rugi] 9 Bulan Rp75,7 Miliar",
+  "deck": "Penjelasan resmi BIKE ke BEI soal anjloknya total aset dan liabilitas lebih dari 20%, disertai laporan rugi Rp75,7 miliar untuk sembilan bulan pertama 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T22:10:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110221828-65785-0/FinancialStatement-2026-III-BIKE.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "laporan keuangan",
+   "rugi",
+   "koreksi"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE), dahulu bernama PT Sepeda Bersama Indonesia Tbk, menyampaikan koreksi laporan keuangan interim periode sembilan bulan yang berakhir 30 September 2026, disertai surat penjelasan resmi kepada Bursa Efek Indonesia karena perubahan total aset dan total liabilitas melebihi 20 persen dibandingkan laporan tahunan auditan terakhir. Surat bernomor 293/BIKE/MK/XI/2026 itu ditandatangani Direktur I Muhamad Kuswandi pada 10 November 2026. Total aset tercatat Rp134,99 miliar per 30 September 2026, turun 55,7 persen dari Rp304,99 miliar pada 31 Desember 2025, sementara total liabilitas turun 42,8 persen dari Rp220,30 miliar menjadi Rp126,01 miliar. Manajemen menyebut penurunan itu disebabkan turunnya piutang dan persediaan di sisi aset, serta turunnya utang usaha di sisi liabilitas.",
+   "Dari sisi laba rugi, penjualan neto BIKE anjlok dari Rp278,42 miliar pada sembilan bulan pertama 2025 menjadi Rp139,32 miliar pada periode yang sama tahun ini, hampir separuhnya hilang. Perusahaan membukukan rugi bruto Rp14,04 miliar, berbalik dari laba bruto Rp39,11 miliar setahun sebelumnya, akibat beban pokok penjualan yang tidak turun secepat penjualan. Setelah ditambah beban penjualan, beban umum dan administrasi yang melonjak ke Rp42,61 miliar, serta beban keuangan, BIKE mencatat rugi periode berjalan Rp75,71 miliar, berbanding laba Rp7,93 miliar pada sembilan bulan pertama 2025. Rugi per saham dasar tercatat Rp58,51, dari sebelumnya untung Rp5,71 per saham.",
+   "Ekuitas perusahaan tergerus dari Rp84,70 miliar pada akhir 2025 menjadi Rp8,98 miliar pada 30 September 2026, hampir seluruhnya akibat rugi tersebut. Di sisi liabilitas jangka panjang, muncul utang baru kepada pihak berelasi senilai Rp125 miliar, yang menurut laporan arus kas berasal dari pinjaman pemegang saham PT Penajam Makmur Jaya, pengendali BIKE. Dana itu antara lain dipakai untuk penempatan bank garansi Rp50 miliar dan uang muka investasi kepada pihak berelasi Rp43,99 miliar pada aktivitas investasi. Aset takberwujud melonjak dari Rp26,13 juta menjadi Rp50 miliar, sementara posisi kas dan bank naik dari Rp2,3 miliar menjadi Rp28,45 miliar."
+  ],
+  "fotoAdegan": "Rows of shared bicycles parked in a public bike-sharing dock on an overcast afternoon in a Jakarta residential street.",
+  "takeaway": "Laporan ini condong negatif bagi BIKE, karena di balik drama koreksi berulang yang sudah terjadi beberapa kali dalam sebulan terakhir, angka fundamentalnya sendiri memburuk tajam: penjualan nyaris separuh hilang dan perusahaan berbalik dari untung jadi rugi besar. Pos yang paling tersentuh adalah ekuitas, yaitu selisih antara total harta dan total utang perusahaan yang jadi milik pemegang saham, yang susut dari Rp84,70 miliar menjadi Rp8,98 miliar akibat rugi Rp75,71 miliar, sementara laba per saham yang jadi ukuran keuntungan tiap lembar saham berubah jadi rugi Rp58,51. Pelaku pasar juga akan memperhatikan arus kas pendanaan yang baru positif karena pinjaman Rp125 miliar dari pengendali, bukan dari hasil bisnis sendiri, menandakan perusahaan sedang mengandalkan dana dari pemilik untuk menutup kebutuhan modalnya. Yang perlu dipantau berikutnya adalah RUPSI dan RUPSLB yang sudah dijadwalkan 11 Desember 2026, yang akan menentukan arah rencana akuisisi dan penggunaan pinjaman tersebut, serta apakah bursa akan meminta klarifikasi tambahan mengingat laporan keuangan perusahaan ini sudah direvisi berkali-kali dalam waktu singkat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "arko-jelaskan-lonjakan-arus-kas-operasi-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Jelaskan Lonjakan [Arus Kas] Operasi ke Bursa",
+  "deck": "Arkora Hydro merespons permintaan penjelasan BEI soal arus kas operasi yang membengkak dan proyek PLTM Tomoni yang ditargetkan beroperasi kuartal I 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T21:55:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3b6170406_3006ba58e3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "arus kas",
+   "PLTM Tomoni"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) menjawab surat permintaan penjelasan Bursa Efek Indonesia tertanggal 9 November 2026 lewat surat yang ditandatangani Presiden Direktur Aldo Artoko. Salah satu yang ditanyakan bursa adalah detail transaksi material yang diungkapkan ARKO pada 3 November 2026 tanpa persetujuan RUPS. Perseroan menjelaskan bahwa proyek yang dimaksud adalah Pembangkit Listrik Tenaga Minihidro (PLTM) Tomoni di Sulawesi Selatan, yang dikelola anak usaha PT Arkora Hydro Malili dengan kapasitas terpasang 2 x 5 MW atau 10 MW. Proyek ini masih dalam tahap konstruksi dan ditargetkan mulai beroperasi komersial pada kuartal I 2027, dengan estimasi produksi 56.940 MWh per tahun dan potensi pendapatan sekitar Rp55,97 miliar setahun dari penjualan listrik ke PT PLN (Persero) lewat kontrak jual beli listrik berjangka 25 tahun sejak tanggal operasi komersial.",
+   "Bursa juga meminta penjelasan soal kondisi keuangan ARKO per 30 September 2026. Arus kas keluar dari aktivitas operasional tercatat Rp157,4 miliar, naik dari Rp101,2 miliar pada periode yang sama tahun sebelumnya. Perseroan merincinya per proyek: konstruksi PLTM Tomoni oleh Arkora Hydro Malili Rp87,13 miliar (naik dari Rp78,64 miliar), konstruksi PLTA Pongbembe oleh Nosu Hydro Rp47,16 miliar (tahun lalu nihil), serta pembayaran akuisisi 100 persen PT Endorshine Energy Solutions senilai Rp70,93 miliar. Sebaliknya, pengeluaran untuk proyek PLTM Kukusan 2 turun jadi Rp3,72 miliar dari Rp75,08 miliar karena proyek itu sudah mencapai tanggal operasi komersial pada Februari 2026. Saldo Rp10,6 miliar pada akun ekuitas disebut sebagai laba ditahan dari Endorshine, anak usaha yang diakuisisi pada kuartal III 2026, sementara lonjakan akun aset lain-lain dari Rp3,1 juta menjadi Rp70,93 miliar juga berasal dari pembayaran akuisisi yang sama, yang dicatat sebagai arus kas operasi, bukan arus kas investasi.",
+   "Soal utang usaha, ARKO menyebut saldonya Rp17,3 miliar per 30 September 2026 dengan jatuh tempo paling lama 60 hari sejak tanggal pelaporan, dan akan dilunasi bertahap dari kas internal hasil penjualan listrik Grup Perseroan. Manajemen menegaskan tidak ada kontrak atau sumber pendapatan baru yang belum diungkapkan sejak laporan keuangan terakhir pada 29 Oktober 2026, serta tidak ada perkara hukum material yang membebani perseroan, anak usaha, direksi, atau komisaris. Perseroan menyatakan prospek usahanya tetap positif, didukung kontrak jual beli listrik jangka panjang serta rencana diversifikasi ke pembangkit listrik tenaga surya (PLTS) dan sistem penyimpanan energi baterai (BESS)."
+  ],
+  "fotoAdegan": "Construction workers in hard hats working on pipework at a small hydroelectric plant site in a forested Sulawesi valley, overcast daylight",
+  "takeaway": "Laporan ini netral bagi ARKO karena isinya klarifikasi angka ke bursa, bukan kabar baru soal aksi korporasi, dan kenaikan arus kas keluar yang dipertanyakan bursa sebagian besar berasal dari belanja konstruksi dua proyek pembangkit yang masih berjalan plus akuisisi satu anak usaha, bukan tanda bisnis inti memburuk. Pos yang tersentuh adalah arus kas dari aktivitas operasional, yaitu uang yang keluar masuk dari kegiatan usaha sehari-hari, yang membesar jadi Rp157,4 miliar dari Rp101,2 miliar setahun sebelumnya, serta akun aset lain-lain yang melonjak karena perusahaan baru membayar untuk mengambil seluruh saham anak usahanya; pelaku pasar memantau arus kas operasional karena itu menunjukkan apakah bisnis utama menghasilkan uang tunai yang cukup, bukan sekadar untung di atas kertas. Yang perlu dipantau berikutnya adalah apakah PLTM Tomoni benar rampung sesuai target operasi komersial pada kuartal I 2027, dan apakah ARKO bisa melunasi utang usaha Rp17,3 miliar yang jatuh tempo paling lama 60 hari dari akhir September 2026 tanpa membebani arus kasnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sqmi-pinjaman-rp36-miliar-dari-pihak-ketiga-terungkap",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: Pinjaman [Rp36 Miliar] dari Pihak Ketiga Terungkap",
+  "deck": "Public expose tahunan SQMI mengungkap pinjaman Rp36 miliar dari Fandy Hartanto dan proses pengalihan kendali ke Maxglory Capital Limited yang masih menunggu restu pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T21:05:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9277afb1de_ed73ab83a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SQMI",
+  "tags": [
+   "SQMI",
+   "Wilton Makmur Indonesia",
+   "Public Expose",
+   "Maxglory Capital Limited"
+  ],
+  "body": [
+   "PT Wilton Makmur Indonesia Tbk (SQMI) menggelar public expose tahunan secara daring lewat Zoom pada Jumat, 6 November 2026, pukul 15.00 hingga 15.35 WIB, dengan 24 peserta di luar jajaran manajemen dan karyawan. Acara dipimpin Direktur Utama Oktavia Budi Raharjo, didampingi Direktur Chia Wei Yang (Ethan), dengan agenda pemaparan tahunan dan sesi tanya jawab.",
+   "Dalam sesi tanya jawab, manajemen menjawab pertanyaan investor individu bernama Daniel. Soal Fasilitas Pengolahan yang masih tidak beroperasi, perusahaan mengaku hanya menjalankan pemeliharaan sambil menunggu arahan dari Entitas Induk Utama di Singapura untuk memulai kembali operasi. Terkait rencana penyaluran dana S$77 juta dari Maxglory/Maxglory Capital Limited (MCL), manajemen mengatakan masih menunggu informasi dan konfirmasi dari entitas induk tersebut sebelum dana dipakai sesuai rencana yang sudah ditetapkan. Kenaikan liabilitas dijelaskan berasal dari beban operasional yang terus berjalan, bunga dari Pinjaman Modal Kerja, serta tambahan pendanaan dari pihak berelasi. Manajemen juga menyebut aset tetap disusutkan dengan metode garis lurus untuk sebagian kelas aset, kecuali fasilitas produksi dan infrastruktur pendukung yang tidak disusutkan, sementara lisensi dan izin usaha diklaim masih sesuai aturan yang berlaku.",
+   "Investor individu lain, Evan, menanyakan soal perubahan kendali tidak langsung ke Maxglory Capital Limited lewat transaksi yang melibatkan Wilton Resources Corporation Limited (WRC), entitas yang tercatat di bursa saham Singapura. Manajemen menyatakan perjanjian kontraktual sudah ditandatangani, namun transaksi masih menjalani proses regulasi dan menunggu persetujuan pemegang saham sebelum berlaku efektif, serta belum ada jadwal pasti Rapat Umum Pemegang Saham Luar Biasa. Perusahaan juga mengonfirmasi bahwa Fandy Hartanto, pihak ketiga yang disebut dalam perjanjian pinjaman modal kerja, telah setuju menyediakan fasilitas pinjaman hingga Rp36,0 miliar yang digunakan untuk memenuhi kebutuhan keuangan mendesak perusahaan."
+  ],
+  "fotoAdegan": "Idle gold ore processing plant with rusted conveyor belts and quiet machinery under an overcast sky at a remote Indonesian mining site",
+  "takeaway": "Catatan ini condong negatif bagi pemegang saham SQMI. Jawaban manajemen mengonfirmasi tekanan keuangan yang berlanjut, sampai perusahaan perlu mengambil pinjaman pihak ketiga senilai Rp36 miliar dari Fandy Hartanto hanya untuk menutup kebutuhan keuangan mendesak, sementara liabilitas, yaitu total utang yang wajib dibayar perusahaan, ikut naik karena bunga pinjaman modal kerja dan tambahan dana dari pihak berelasi, yaitu pihak yang punya hubungan kepemilikan atau pengurus dengan perusahaan. Pos ini penting dicermati karena utang yang makin besar berarti makin banyak kas perusahaan yang terpakai untuk bayar bunga, bukan untuk menghidupkan kembali operasi. Yang perlu dipantau selanjutnya adalah persetujuan pemegang saham atas pengalihan kendali tidak langsung ke Maxglory Capital Limited lewat transaksi WRC, karena perjanjian kontraktualnya sudah ditandatangani tapi tanggal RUPS belum diumumkan, serta kejelasan dari entitas induk di Singapura soal kapan dana S$77 juta dipakai dan kapan Fasilitas Pengolahan yang sudah lama mati akan kembali beroperasi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "itmg-catat-laba-us-167-5-juta-liabilitas-melonjak-24-6",
+  "category": "Aksi Korporasi",
+  "title": "ITMG Catat Laba US$167,5 Juta, Liabilitas [Melonjak] 24,6%",
+  "deck": "Laba bersih sembilan bulan ITMG naik hampir 25 persen jadi US$167,5 juta, tapi arus kas operasi menyusut tajam dan ada utang bank jangka pendek baru untuk modal kerja anak usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T20:58:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110211144-65708-0/FinancialStatement-2026-III-ITMG.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ITMG",
+  "tags": [
+   "ITMG",
+   "laporan keuangan",
+   "batu bara",
+   "arus kas"
+  ],
+  "body": [
+   "PT Indo Tambangraya Megah Tbk (ITMG) menyampaikan laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026, yang sudah ditelaah secara terbatas oleh Kantor Akuntan Publik Rintis, Jumadi, Rianto & Rekan dengan opini wajar tanpa modifikasian. Partner penandatangan, Toto Harsono, sudah menangani audit ITMG selama lima tahun berturut turut. Dalam periode ini, pendapatan bersih perusahaan naik dari US$1,37 miliar menjadi US$1,60 miliar, sementara laba bersih melonjak dari US$134,2 juta menjadi US$167,5 juta, membuat laba per saham naik dari US$0,12 menjadi US$0,15.",
+   "Di sisi neraca, total aset ITMG naik tipis dari US$2,41 miliar menjadi US$2,53 miliar, sedangkan total liabilitas melonjak 24,6 persen dari US$497,7 juta menjadi US$620,1 juta. Dalam surat terpisah ke Bursa Efek Indonesia, Direktur ITMG Junius Prakasa Darmawan menjelaskan bahwa kenaikan liabilitas itu terutama berasal dari pinjaman bank jangka pendek baru senilai US$38,7 juta yang diambil untuk memenuhi kebutuhan modal kerja entitas anak perusahaan. Sementara itu, ekuitas pemegang saham nyaris tidak bergerak dari US$1,908 miliar menjadi US$1,909 miliar, karena laba yang masuk terpakai untuk dividen kas sekitar US$68 juta dan pembelian kembali saham senilai US$73,9 juta, sehingga saldo saham treasuri naik dari US$7,8 juta menjadi US$81,7 juta.",
+   "Dari sisi arus kas, uang tunai bersih yang dihasilkan dari kegiatan operasi turun tajam dari US$268,6 juta pada sembilan bulan 2025 menjadi US$107,1 juta pada periode yang sama tahun ini. Penyebabnya antara lain piutang usaha pihak ketiga yang naik dari US$155,2 juta menjadi US$185,5 juta, munculnya piutang baru dari pihak berelasi senilai US$11,0 juta, serta persediaan yang membesar dari US$112,5 juta menjadi US$151,9 juta. Kas dan setara kas perusahaan per akhir September 2026 tercatat US$798,7 juta, sedikit lebih rendah dibanding US$807,9 juta pada akhir 2025."
+  ],
+  "fotoAdegan": "Wide shot of an open-pit coal mine with haul trucks moving along terraced slopes under hazy daylight in Kalimantan",
+  "takeaway": "Laporan ini netral bagi ITMG: laba bersih sembilan bulan naik hampir 25 persen dan pendapatan tumbuh dua digit, tetapi kenaikan itu justru dibarengi utang bank jangka pendek baru karena uang tunai dari kegiatan usaha menyusut tajam, sehingga sisi baik dan buruknya saling menetralkan. Arus kas dari kegiatan usaha, yaitu uang yang benar benar masuk dan keluar dari jualan dan belanja sehari hari, turun dari US$268,6 juta menjadi US$107,1 juta karena piutang dan stok batu bara menumpuk sementara ongkos ke pemasok dan royalti tetap harus dibayar. Selisihnya ditutup dengan pinjaman bank jangka pendek US$38,7 juta yang sebelumnya tidak ada, dan inilah yang membuat total liabilitas naik 24,6 persen. Ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham, nyaris tidak bertambah karena laba yang masuk nyaris sama besar dengan dividen kas dan buyback saham yang keluar di periode yang sama. Yang perlu dipantau berikutnya adalah laporan kinerja penuh tahun 2026 yang baru terbit awal tahun depan, untuk melihat apakah arus kas operasi kembali membesar dan apakah pinjaman jangka pendek ini sudah dilunasi atau malah bertambah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-delisting-obligasi-tdpm-dan-tele-usai-saham-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "BEI Delisting Obligasi [TDPM] dan TELE Usai Saham Dicabut",
+  "deck": "Bursa mencabut pencatatan lima obligasi TDPM dan TELE menyusul delisting saham kedua emiten pada 10 November 2026, tapi kewajiban bayar bunga dan pokok ke pemegang obligasi tetap berlaku.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T20:39:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3fdf526963_02fd9fdf86.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "TDPM",
+   "TELE",
+   "Delisting",
+   "Obligasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi mencabut pencatatan Efek Bersifat Utang dan Sukuk (EBUS) milik PT Tianrong Chemicals Industry Tbk (TDPM) dan PT Omni Inovasi Indonesia Tbk (TELE), efektif 10 November 2026. Langkah ini merupakan buntut dari pencabutan pencatatan (delisting) saham 18 perusahaan tercatat yang diumumkan BEI sehari sebelumnya, 9 November 2026. Dari 18 perusahaan tersebut, hanya TDPM dan TELE yang juga memiliki obligasi aktif di bursa, sehingga keduanya terkena dampak ganda, saham dan obligasinya sama-sama dicabut dari pencatatan.",
+   "Ada lima seri obligasi yang terdampak. Dari TDPM, yang dicabut adalah Obligasi I Tridomain Performance Materials Tahun 2018 (kode TDPM01) dan Obligasi II Tridomain Performance Materials Tahun 2019 (TDPM02). Dari TELE, tiga serinya adalah Obligasi Berkelanjutan I Tiphone Tahap II Tahun 2016 Seri C (TELE01CCN2), Obligasi Berkelanjutan I Tiphone Tahap III Tahun 2017 Seri B (TELE01BCN3), dan Obligasi Berkelanjutan II Tiphone Tahap II Tahun 2019 (TELE02CN2).",
+   "BEI menegaskan bahwa pencabutan pencatatan obligasi ini tidak menghilangkan kewajiban TDPM dan TELE untuk membayar bunga dan pokok utang kepada pemegang obligasi, sesuai perjanjian perwaliamanatan yang mengatur hubungan antara emiten, wali amanat, dan pemegang obligasi. Pengumuman ditandatangani oleh Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryanto, dan Kepala Divisi Pengaturan dan Operasional, Pande Made Kusuma Ari A."
+  ],
+  "fotoAdegan": "Exterior view of Jakarta's financial district skyscrapers reflecting sunset light, wide street-level angle, no readable signage visible",
+  "takeaway": "Penilaian redaksi atas kabar ini negatif bagi kedua emiten, karena bukan cuma saham yang tersingkir dari bursa, obligasinya pun ikut dicabut sehingga pemegang obligasi kehilangan pasar resmi untuk memperjualbelikan surat utang itu. Yang tersentuh di sini adalah arus kas dan likuiditas instrumen utang, obligasi adalah surat utang yang diterbitkan perusahaan dengan janji bayar bunga berkala dan pokok saat jatuh tempo, dan perjanjian perwaliamanatan adalah kontrak yang mengikat emiten untuk tetap menunaikan janji itu meski suratnya tidak lagi diperdagangkan di bursa. Artinya kewajiban bayar tetap ada secara hukum, tapi pemegang obligasi ke depan harus bertransaksi di luar bursa kalau ingin menjual sebelum jatuh tempo, yang biasanya lebih sulit dan kurang transparan harganya. Yang perlu dipantau selanjutnya adalah jadwal pembayaran kupon dan pokok terdekat dari masing-masing seri, TDPM01, TDPM02, TELE01CCN2, TELE01BCN3, dan TELE02CN2, serta apakah TDPM dan TELE tetap disiplin membayar sesuai jatuh temponya setelah status tercatatnya hilang.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ri-mulai-susun-ripparnas-2027-2045-target-devisa-us-39-4-m",
   "category": "Makroekonomi",
   "title": "RI Mulai Susun [RIPPARNAS] 2027-2045, Target Devisa US$39,4 M",
@@ -29,6 +211,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah baru tahap awal, pemerintah memulai penyusunan dokumen induk pariwisata baru, RIPPARNAS 2027-2045, yang nantinya akan menggantikan kerangka yang sejak 2011 diatur lewat Peraturan Pemerintah No 50, dengan target kontribusi pariwisata ke PDB naik menjadi 4,9 sampai 5 persen dan devisa US$39,4 miliar pada 2029. Yang kena dampak langsung adalah pemerintah daerah yang mengelola 10 destinasi prioritas dan 3 destinasi regeneratif dalam RPJMN 2025-2029, karena arah penyusunan ini mengaitkan penetapan kawasan wisata dengan kedekatannya pada kawasan ekonomi khusus, kawasan industri, dan simpul transportasi seperti bandara dan pelabuhan. Yang masih kurang untuk menilai ke mana ini benar-benar bergerak adalah kejelasan bentuk hukum RIPPARNAS nanti, apakah akan menjadi revisi peraturan pemerintah yang mengikat kementerian dan daerah, atau sekadar dokumen pedoman tanpa konsekuensi kalau tidak dipatuhi. Pemerintah juga belum mengumumkan target waktu penyelesaian draf, sehingga penanda paling dekat yang bisa dipantau adalah kapan draf ini masuk ke tahap pembahasan antar-kementerian atau disahkan sebagai peraturan baru.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "lapd-resmi-ubah-nama-ke-jsi-sinergi-internasional-dan-alamat",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Resmi Ubah Nama ke [JSI Sinergi Internasional] dan Alamat",
+  "deck": "Leyand International resmi berganti nama menjadi JSI Sinergi Internasional efektif 7 November 2026, disertai pindah domisili ke Jakarta Selatan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T20:12:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/184fb24521_70b86001f3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "RUPSLB",
+   "ganti nama",
+   "JSI Sinergi Internasional"
+  ],
+  "body": [
+   "Leyand International Tbk (LAPD) resmi mengubah namanya menjadi PT JSI Sinergi Internasional Tbk, menyusul keputusan rapat umum pemegang saham luar biasa (RUPSLB) pada 29 Oktober 2026. Keputusan itu tertuang dalam akta notaris Nomor 114 yang dibuat di hadapan notaris Dr. Sugih Haryati di Jakarta Selatan, dan sudah mendapat persetujuan resmi dari Menteri Hukum RI sehingga mulai berlaku efektif 7 November 2026.",
+   "Selain nama, RUPSLB juga menyetujui perubahan domisili perusahaan dari Jakarta Pusat ke Jakarta Selatan. Kantor perseroan yang sebelumnya berada di Panin Tower, Senayan City, Jalan Asia Afrika, kini pindah ke Gedung Recapital Lantai 3, Jalan Adityawarman Nomor 55, Kebayoran Baru, Jakarta Selatan. Perseroan juga menyesuaikan kode klasifikasi usahanya mengikuti aturan baru Badan Pusat Statistik tahun 2025, yakni semacam kode kategori bisnis yang wajib dicantumkan dalam anggaran dasar setiap perusahaan. Kode usaha baru itu adalah aktivitas perusahaan induk (KBLI 64210) dan aktivitas konsultasi manajemen lainnya (KBLI 70209).",
+   "Perseroan menegaskan perubahan nama, domisili, dan alamat ini murni soal identitas dan administrasi, bukan perubahan atas kegiatan usaha utama sebagaimana diatur dalam aturan Otoritas Jasa Keuangan tentang transaksi material. Status perusahaan sebagai perusahaan terbuka yang sahamnya tercatat di Bursa Efek Indonesia juga tidak berubah. Seluruh kontrak dan korespondensi yang masih menggunakan nama lama, PT Leyand International Tbk, dinyatakan tetap berlaku sampai masa berlakunya berakhir, sementara penggantian atribut fisik dan digital ke nama baru akan dilakukan secara bertahap. Perseroan menyebut proses penyesuaian izin usaha dan dokumen identitas lainnya masih berjalan."
+  ],
+  "fotoAdegan": "A modern office tower lobby entrance in Jakarta's business district, people walking in and out, soft afternoon light, no visible signage.",
+  "takeaway": "Laporan ini condong netral bagi fondasi keuangan Leyand, sebab yang berubah hanya identitas hukum, nama, domisili, dan alamat kantor, tanpa ada angka baru yang menyentuh neraca atau kewajiban perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang disebut dalam laporan ini, dan perseroan sendiri menegaskan penyesuaian kode usaha ke aktivitas perusahaan induk dan konsultasi manajemen bukan perubahan kegiatan usaha utama. Namun pergeseran kode usaha menjadi aktivitas perusahaan induk, yakni kode yang biasanya dipakai perusahaan yang menaungi anak usaha, patut dicermati karena muncul tak lama setelah suntikan bisnis jasa tambang lewat rights issue awal November yang sempat membalik posisi ekuitas perseroan. Yang perlu dipantau selanjutnya adalah bagaimana nama baru PT JSI Sinergi Internasional Tbk ini tercermin dalam laporan keuangan konsolidasi berikutnya, serta kelanjutan proses administratif perizinan dan penggantian atribut fisik maupun digital yang menurut perseroan masih berjalan bertahap.",
+  "sentimen": "netral"
  },
  {
   "slug": "telkom-gabungkan-telkominfra-dan-nsi-perampingan-lanjut",
@@ -2426,6 +2634,32 @@ var ARTICLES = [
   "fotoAdegan": "Empty outdoor concert stage with lighting rigs and scaffolding being dismantled, technicians coiling cables, overcast afternoon light",
   "takeaway": "Laporan ini condong negatif bagi RANS, bukan karena pembatalan konsernya itu sendiri, melainkan karena jarak tiga hari antara bantahan ke bursa pada 6 November dan konfirmasi pembatalan pada 9 November menunjukkan komunikasi Perseroan ke publik dan investor belum konsisten. Yang tersentuh di sini adalah realisasi dana hasil penawaran umum saham, yaitu uang yang dikumpulkan RANS saat mencatatkan saham dan sudah dijanjikan ke investor lewat prospektus untuk dipakai menggelar konser musik; pasar memperhatikan ini karena kegagalan merealisasikan rencana sesuai prospektus biasanya dibaca sebagai sinyal rencana bisnis yang belum matang, meskipun RANS menegaskan dananya tetap dipakai untuk konser lain, bukan dikembalikan. Yang perlu dipantau selanjutnya adalah laporan realisasi penggunaan dana IPO berikutnya dan apakah RANS mengumumkan pengganti konkret untuk D'MASIV Asia Home Run Tour, karena tanpa pengganti yang jelas, dana yang sudah dialokasikan itu berisiko mengendap tanpa kepastian jadwal.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "scma-jelaskan-volatilitas-saham-emtk-pastikan-investasi-panjang",
+  "category": "Aksi Korporasi",
+  "title": "SCMA Jelaskan [Volatilitas] Saham, EMTK Pastikan Investasi Panjang",
+  "deck": "SCMA menjawab permintaan BEI soal volatilitas saham: tak ada info baru selain dividen interim yang telah diumumkan, dan EMTK menegaskan kepemilikannya untuk investasi jangka panjang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 November 2026",
+  "isoDate": "2026-11-09T19:53:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d6e21f8c91_0878163dc8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SCMA",
+  "tags": [
+   "SCMA",
+   "volatilitas saham",
+   "EMTK",
+   "dividen interim"
+  ],
+  "body": [
+   "Surya Citra Media Tbk (SCMA) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi bernomor S-13845/BEI.PP2/11-2026 tertanggal 5 November 2026. Surat itu meminta SCMA menjelaskan gerakan harga atau volume transaksi sahamnya yang dinilai tidak biasa oleh bursa. Jawaban SCMA dikirim melalui surat nomor 061/CORSEC/SCMA/XI/2026 tertanggal 9 November 2026, ditandatangani oleh Corporate Secretary Gilang Iskandar.",
+   "Dalam jawabannya, SCMA menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi harga sahamnya, selain rencana pembagian dividen interim yang sudah diumumkan ke publik pada 19 Oktober 2026. Perusahaan juga menegaskan belum memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang berdampak signifikan terhadap status pencatatan sahamnya di bursa, dan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sesuai aturan OJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan dan penjaminan saham.",
+   "Terkait pertanyaan bursa soal rencana pemegang saham utama, Corporate Secretary SCMA mengonfirmasi telah menanyakan langsung kepada PT Elang Mahkota Teknologi Tbk (EMTK), pemegang saham utama perseroan. EMTK menjawab bahwa tujuan utama kepemilikan sahamnya di SCMA adalah investasi jangka panjang, dan sampai saat ini belum ada rencana lain terkait kepemilikan tersebut."
+  ],
+  "fotoAdegan": "Television broadcast tower rising above a Jakarta office tower skyline at dusk, city lights beginning to glow",
+  "takeaway": "Laporan ini cenderung netral bagi SCMA, sebab isinya murni konfirmasi rutin yang diwajibkan bursa setiap kali ada lonjakan harga atau volume transaksi yang tidak biasa, bukan informasi baru yang mengubah kondisi keuangan perusahaan. Tidak ada pos kinerja seperti modal pemilik, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang berubah di sini, nilainya justru pada menenangkan pasar bahwa tidak ada transaksi besar pemegang saham utama yang sedang berjalan secara tersembunyi. Satu-satunya pemicu yang diakui perusahaan sendiri tetap rencana dividen interim yang sudah diumumkan sejak 19 Oktober 2026, jadi itu yang perlu ditunggu realisasinya. Yang perlu dipantau pemegang saham selanjutnya adalah apakah dalam tiga bulan ke depan muncul keterbukaan informasi baru soal tindakan korporasi, karena SCMA sendiri menyebut belum ada rencana semacam itu sampai saat laporan ini dikirim.",
+  "sentimen": "netral"
  },
  {
   "slug": "bwpt-tawarkan-obligasi-dan-sukuk-baru-rp550-miliar",

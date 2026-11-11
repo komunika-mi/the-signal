@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "dFlqBH8Ngds",
+  "title": "Kemenekraf Gelar Seminar Industri Gim di Batam",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Ekonomi Kreatif menggelar tiga workshop industri gim di Politeknik Negeri Batam, menyasar mahasiswa, pemuda, dan pelaku ekonomi kreatif setempat.",
+  "takeaway": "Menggambarkan upaya pemerintah mendorong ekonomi kreatif sektor gim sebagai salah satu sumber pertumbuhan industri baru.",
+  "terbit": "2026-11-11T09:20:26+00:00"
+ },
+ {
+  "id": "kA9Pgfx-E8g",
+  "title": "KPI Dorong Pengawasan Ketat terhadap Platform Digital",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "KPI mendorong regulasi yang lebih adil agar lembaga penyiaran konvensional dan platform media digital bersaing secara setara di industri media.",
+  "takeaway": "Menyentuh isu persaingan usaha yang berdampak pada iklim bisnis industri penyiaran dan platform digital nasional.",
+  "terbit": "2026-11-11T09:12:52+00:00"
+ },
+ {
+  "id": "ZsYNkE-W1Zw",
+  "title": "Injourney Airports dan BP2MI Perkuat Dukungan Pekerja Migran",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "InJourney Airports menjalin kerja sama dengan Kementerian Pelindungan Pekerja Migran Indonesia untuk mendukung layanan bagi pekerja migran, bertepatan dengan Hari Pahlawan 2026.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut tata kelola ketenagakerjaan pekerja migran yang digarap BUMN pengelola bandara.",
+  "terbit": "2026-11-11T09:00:10+00:00"
+ },
+ {
   "id": "TdfYhS_30B4",
   "title": "KDMP Desa Ciwaru Sukabumi Dorong Penguatan Ekonomi Nelayan",
   "category": "UMKM",

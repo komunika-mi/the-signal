@@ -5,6 +5,74 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-perluas-insentif-pajak-karyawan-ke-semua-sektor-2027",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Perluas Insentif Pajak Karyawan ke Semua Sektor [2027]",
+  "deck": "Kemenko Perekonomian memaparkan rencana perluasan insentif pajak gaji ke seluruh sektor pada 2027, di tengah sejumlah indikator konsumsi dan manufaktur yang menguat jelang akhir tahun.",
+  "date": "11 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "PPh 21 DTP",
+   "ritel",
+   "daya beli",
+   "QRIS"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7211/pemerintah-perkuat-daya-saing-ritel-dan-produk-lokal-untuk-dorong-pertumbuhan-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "delapan-perusahaan-ri-jajaki-pasar-haji-umrah-arab-saudi",
+  "category": "Bisnis",
+  "title": "Delapan Perusahaan RI [Jajaki] Pasar Haji-Umrah Arab Saudi",
+  "deck": "Kemendag memfasilitasi delapan perusahaan Indonesia di Hajj Conference & Expo 2026 Jeddah, salah satunya menjajaki MoU senilai US$3,39 juta di sektor makanan siap saji.",
+  "date": "11 November 2026",
+  "image": "assets/img/delapan-perusahaan-ri-jajaki-pasar-haji-umrah-arab-saudi.jpg",
+  "imageV": "mwbxrv4q",
+  "tags": [
+   "Kemendag",
+   "Arab Saudi",
+   "Haji dan Umrah",
+   "Ekspor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-fasilitasi-delapan-perusahaan-indonesia-di-hajj-conference-expo-2026-jeddah",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "geopark-meratus-didorong-jadi-penggerak-ekonomi-kalsel",
+  "category": "Makroekonomi",
+  "title": "Geopark Meratus Didorong Jadi [Penggerak] Ekonomi Kalsel",
+  "deck": "Pemprov Kalsel ingin status UNESCO Geopark Meratus bukan sekadar daya tarik wisatawan, tapi benar-benar menggerakkan UMKM dan lapangan kerja daerah.",
+  "date": "11 November 2026",
+  "image": "assets/img/geopark-meratus-didorong-jadi-penggerak-ekonomi-kalsel.jpg",
+  "imageV": "mwbxrvl7",
+  "tags": [
+   "Kalimantan Selatan",
+   "Geopark Meratus",
+   "Pariwisata",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477823-transformasi-pariwisata-kalsel-geopark-meratus-jadi-penggerak-ekonomi-banua"
+ },
+ {
+  "slug": "surplus-beras-kalsel-tembus-1-2-juta-ton-teratas-nasional",
+  "category": "Industri",
+  "title": "Surplus Beras Kalsel [Tembus] 1,2 Juta Ton, Teratas Nasional",
+  "deck": "Surplus beras 1,2 juta ton mengantar Kalimantan Selatan ke peringkat pertama nasional pada Indeks Ketahanan Pangan 2025 dengan skor 81,98.",
+  "date": "11 November 2026",
+  "image": "assets/img/surplus-beras-kalsel-tembus-1-2-juta-ton-teratas-nasional.jpg",
+  "imageV": "mwbxrw0m",
+  "tags": [
+   "kalimantan selatan",
+   "kalsel",
+   "muhidin",
+   "ketahanan pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477818-surplus-beras-tembus-12-juta-ton-kalsel-kokoh-jadi-salah-satu-lumbung-pangan-nasional"
+ },
+ {
   "slug": "intp-panggil-rupslb-direktur-utama-dan-komisaris-mundur",
   "category": "Aksi Korporasi",
   "title": "INTP Panggil RUPSLB, [Direktur Utama] dan Komisaris Mundur",
@@ -51,6 +119,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e04958cfd5_cdd606fa42.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "danantara-telkom-ubah-padi-umkm-jadi-marketplace-nasional",
+  "category": "UMKM",
+  "title": "Danantara-Telkom [Ubah] PaDi UMKM Jadi Marketplace Nasional",
+  "deck": "Danantara dan Telkom mengembangkan Padisera, transformasi platform PaDi UMKM dari layanan B2B khusus BUMN menjadi marketplace nasional yang juga menyasar konsumen ritel.",
+  "date": "11 November 2026",
+  "image": "assets/img/danantara-telkom-ubah-padi-umkm-jadi-marketplace-nasional.jpg",
+  "imageV": "mwbxrwlf",
+  "tags": [
+   "Padisera",
+   "PaDi UMKM",
+   "Danantara",
+   "Telkom"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477789-danantara-dan-telkom-hadirkan-padisera-untuk-perkuat-ekosistem-perdagangan-digital-umkm"
+ },
+ {
+  "slug": "iapi-gelar-sertifikasi-auditor-syariah-perdana",
+  "category": "Perbankan",
+  "title": "IAPI Gelar Sertifikasi [Auditor Syariah] Perdana",
+  "deck": "IAPI menggelar pendidikan dan sertifikasi Certified Sharia Auditor pertama bagi 53 akuntan publik untuk memperkuat pemeriksaan kepatuhan dan tata kelola syariah.",
+  "date": "11 November 2026",
+  "image": "assets/img/iapi-gelar-sertifikasi-auditor-syariah-perdana.jpg",
+  "imageV": "mwbxrx1k",
+  "tags": [
+   "syariah",
+   "iapi",
+   "akuntan publik",
+   "sertifikasi auditor"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477781-cara-dorong-tata-kelola-syariah-yang-efektif-lewat-pendidikan-dan-sertifikasi-auditor"
  },
  {
   "slug": "pemerintah-tetapkan-empat-agenda-digitalisasi-ekonomi-dan-keuangan",
@@ -743,7 +845,7 @@ var ARTICLES = [
   "title": "BKPM Buka Desk Investasi di Medan, Kejar [Rp13 Triliun]",
   "deck": "Kementerian Investasi/BKPM meluncurkan Desk Investasi Regional di Medan untuk mengawal realisasi investasi Rp13 triliun di Sumatera, menyusul proyek serupa di Batam dan Bali.",
   "date": "10 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "BKPM",
    "Desk Investasi",
@@ -1259,7 +1361,7 @@ var ARTICLES = [
   "title": "Penjualan Eceran Oktober Diprakirakan [Naik] 1 Persen",
   "deck": "Bank Indonesia memperkirakan penjualan eceran Oktober 2026 tumbuh 1 persen dibanding tahun sebelumnya, ditopang penjualan bahan bakar kendaraan serta makanan dan minuman.",
   "date": "10 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "penjualan eceran",
    "Bank Indonesia",
@@ -2982,7 +3084,7 @@ var ARTICLES = [
   "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
   "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 119,9 pada Oktober 2026, dari 118,1 bulan sebelumnya, ditopang penilaian kondisi ekonomi saat ini dan ekspektasi ke depan yang menguat.",
   "date": "9 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
   "sourceLabel": "Bank Indonesia"
@@ -4230,7 +4332,7 @@ var ARTICLES = [
   "title": "Realisasi [Investasi] Rp3.923,2 Triliun Topang Pergeseran Kerja",
   "deck": "Pemerintah mencatat investasi dua tahun terakhir tembus Rp3.923,2 triliun dan menyerap 5,49 juta pekerja, di tengah pergeseran pola kerja akibat transformasi ekonomi.",
   "date": "6 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "transformasi ekonomi",
    "investasi",
@@ -4712,7 +4814,7 @@ var ARTICLES = [
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
   "deck": "Tingkat pengangguran terbuka naik tipis dari Februari 2026, tapi masih lebih rendah dibanding Agustus tahun lalu",
   "date": "6 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "bps",
    "ketenagakerjaan",
@@ -4755,7 +4857,7 @@ var ARTICLES = [
   "title": "Pertumbuhan Harga Rumah Primer [Melambat] di Triwulan III",
   "deck": "Pertumbuhan harga rumah baru melambat ke 0,58 persen dibanding setahun lalu pada triwulan III 2026, sementara penjualan turun 8,43 persen di seluruh tipe rumah.",
   "date": "6 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "properti residensial",
    "harga rumah",
@@ -5351,7 +5453,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47] Persen pada Triwulan III 2026",
   "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada triwulan III 2026, naik dari 5,29 persen pada triwulan sebelumnya, didorong lonjakan belanja pemerintah dan konsumsi rumah tangga.",
   "date": "5 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "Pertumbuhan Ekonomi",
    "PDB Triwulan III",
@@ -5853,7 +5955,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
   "deck": "BPS catat pertumbuhan ekonomi naik 0,18 poin dari triwulan sebelumnya dan jadi yang tertinggi kedua dalam setahun terakhir.",
   "date": "5 November 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
+  "image": "assets/img/timbangan-pasar.jpg",
   "tags": [
    "ekonomi",
    "bps",
@@ -6063,7 +6165,7 @@ var ARTICLES = [
   "title": "Ekonomi Indonesia Tumbuh [5,47%] di Triwulan III-2026",
   "deck": "BPS mencatat produk domestik bruto RI naik 5,47 persen secara tahunan pada triwulan III-2026, ditopang belanja pemerintah dan ekspor.",
   "date": "5 November 2026",
-  "image": "assets/img/timbangan-pasar.jpg",
+  "image": "assets/img/bongkar-muat-truk.jpg",
   "tags": [
    "PDB",
    "BPS",
@@ -6366,101 +6468,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476638-kementerian-umkm-dan-pnm-siap-salurkan-kredit-perempuan-prasejahtera-bunga-flat-8-persen-per-tahun"
- },
- {
-  "slug": "bina-ajukan-pmthmetd-ii-rencana-tambah-350-juta-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "BINA Ajukan [PMTHMETD] II, Rencana Tambah 350 Juta Saham Baru",
-  "deck": "Bank Ina berencana menerbitkan hingga 350 juta saham baru tanpa hak memesan terlebih dahulu untuk memperkuat modal, menunggu persetujuan RUPS Independen 11 Desember 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BINA",
-   "Bank Ina Perdana",
-   "PMTHMETD",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/55cd553953_ddd26d6ed2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "true-akui-human-error-berulang-di-laporan-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "TRUE Akui [Human Error] Berulang di Laporan Kuartal III 2026",
-  "deck": "Menjawab permintaan penjelasan BEI, Triniti Dinamik mengakui laporan kuartal III 2026 keliru di banyak pos dan masih menunggak ke Bank Panin.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUE",
-   "Triniti Dinamik",
-   "BEI",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1684a6945d_11b5ee85cd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mmlp-laba-inti-melonjak-114-5-saham-masih-anjlok-60",
-  "category": "Aksi Korporasi",
-  "title": "MMLP: Laba Inti [Melonjak] 114,5%, Saham Masih Anjlok 60%",
-  "deck": "Dalam public expose tahunan, manajemen MMLP mengungkap laba inti naik 114,5% menjadi Rp108,1 miliar, pelepasan anak usaha yang berujung rugi, dan tenggat free float baru di 2029.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MMLP",
-   "public expose",
-   "free float",
-   "laba inti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/924acc625e_bd1fe96aee.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-jelaskan-ke-bursa-soal-pendanaan-us-429-juta-ke-sbth",
-  "category": "Aksi Korporasi",
-  "title": "TOBA Jelaskan ke Bursa Soal Pendanaan [US$429 Juta] ke SBTH",
-  "deck": "TOBA menjelaskan ke BEI soal reorganisasi bisnis limbah dan investasi hingga US$429 juta ke anak usaha SBTH, yang perlu persetujuan RUPSLB 27 November 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "transaksi material",
-   "RUPSLB",
-   "pengelolaan limbah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/be1b6765c1_0c7b577669.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-hero-26-nov-calon-presdir-berafiliasi-pemegang-saham-utama",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB HERO 26 Nov, Calon Presdir [Berafiliasi] Pemegang Saham Utama",
-  "deck": "HERO memanggil RUPSLB pada 26 November 2026 untuk menyetujui perubahan susunan direksi, termasuk calon presiden direktur baru yang berafiliasi dengan pemegang saham utama.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HERO",
-   "RUPSLB",
-   "Direksi",
-   "Tata Kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d440aca953_a8bf96c659.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-resmi-delisting-etf-xnve-efektif-5-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "BEI Resmi [Delisting] ETF XNVE Efektif 5 November 2026",
-  "deck": "Bursa Efek Indonesia menghapus pencatatan ETF XNVE, Reksa Dana Indeks Nusadana IDX Value30, efektif 5 November 2026 setelah OJK mencabut pernyataan efektifnya akibat likuidasi.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XNVE",
-   "delisting",
-   "reksa dana",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/581dec033a_2857aac0c3.pdf",
-  "sourceLabel": "IDX"
  }
 ];

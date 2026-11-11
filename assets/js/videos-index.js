@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "dFlqBH8Ngds",
+  "title": "Kemenekraf Gelar Seminar Industri Gim di Batam",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Ekonomi Kreatif menggelar tiga workshop industri gim di Politeknik Negeri Batam, menyasar mahasiswa, pemuda, dan pelaku ekonomi kreatif setempat.",
+  "takeaway": "Menggambarkan upaya pemerintah mendorong ekonomi kreatif sektor gim sebagai salah satu sumber pertumbuhan industri baru."
+ },
+ {
+  "id": "kA9Pgfx-E8g",
+  "title": "KPI Dorong Pengawasan Ketat terhadap Platform Digital",
+  "category": "Bisnis",
+  "program": "Kabar Merah Putih",
+  "summary": "KPI mendorong regulasi yang lebih adil agar lembaga penyiaran konvensional dan platform media digital bersaing secara setara di industri media.",
+  "takeaway": "Menyentuh isu persaingan usaha yang berdampak pada iklim bisnis industri penyiaran dan platform digital nasional."
+ },
+ {
+  "id": "ZsYNkE-W1Zw",
+  "title": "Injourney Airports dan BP2MI Perkuat Dukungan Pekerja Migran",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "InJourney Airports menjalin kerja sama dengan Kementerian Pelindungan Pekerja Migran Indonesia untuk mendukung layanan bagi pekerja migran, bertepatan dengan Hari Pahlawan 2026.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut tata kelola ketenagakerjaan pekerja migran yang digarap BUMN pengelola bandara."
+ },
+ {
   "id": "TdfYhS_30B4",
   "title": "KDMP Desa Ciwaru Sukabumi Dorong Penguatan Ekonomi Nelayan",
   "category": "UMKM",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Khusus",
   "summary": "Menteri Perdagangan Budi Santoso memaparkan strategi mendorong UMKM menembus pasar global, dengan nilai transaksi program UMKM Bisa Ekspor mencapai US$360 juta sejak Januari.",
   "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan capaian konkret program ekspor UMKM sekaligus arah kebijakan perlindungan industri dalam negeri."
- },
- {
-  "id": "XM9WuiAX7HU",
-  "title": "UMKM Naik Kelas, Kunci Ekonomi Kerakyatan Mendunia",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Rapimnas Kadin menegaskan bahwa UMKM naik kelas menjadi syarat penting bagi ekonomi kerakyatan Indonesia untuk bisa mendunia, sebagai forum konsolidasi kebijakan pemerintah dan dunia usaha.",
-  "takeaway": "Menyoroti arah kebijakan Kadin dalam mendorong UMKM sebagai pilar pertumbuhan ekonomi nasional."
- },
- {
-  "id": "whW9C0xwdP4",
-  "title": "Investasi Berkualitas dan SDM Dorong Ekonomi Indonesia",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Strategi penguatan ekonomi Indonesia menyoroti pergeseran ke investasi berkualitas tinggi yang didukung peningkatan sumber daya manusia, bukan sekadar pertumbuhan modal.",
-  "takeaway": "Relevan karena membahas arah kebijakan investasi yang berdampak pada kualitas pertumbuhan ekonomi jangka panjang."
- },
- {
-  "id": "SYYUOhF6i74",
-  "title": "Hashim Djojohadikusumo Luruskan Narasi Utang Negara",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Ketua Dewan Penasihat Kadin Indonesia, Hashim Djojohadikusumo, memaparkan tantangan dan potensi ekonomi nasional sekaligus meluruskan narasi soal utang negara.",
-  "takeaway": "Penting bagi pembaca yang ingin memahami perspektif pelaku usaha mengenai isu fiskal utang negara."
  }
 ];

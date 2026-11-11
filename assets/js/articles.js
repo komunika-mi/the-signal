@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "intp-panggil-rupslb-direktur-utama-dan-komisaris-mundur",
+  "category": "Aksi Korporasi",
+  "title": "INTP Panggil RUPSLB, [Direktur Utama] dan Komisaris Mundur",
+  "deck": "INTP memanggil RUPSLB pada 3 Desember 2026 untuk menetapkan pengganti Direktur Utama dan Komisaris yang telah mengundurkan diri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T15:25:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/03f4c8ba8d_982f43842b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INTP",
+  "tags": [
+   "INTP",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris"
+  ],
+  "body": [
+   "Indocement Tunggal Prakarsa (INTP) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 3 Desember 2026 pukul 09.30 WIB di Ruang Melati, Wisma Indocement, Jalan Jenderal Sudirman Kavling 70-71 Jakarta. Rapat ini hanya membawa satu agenda, yaitu perubahan susunan pengurus perseroan, mencakup jajaran Direksi dan Dewan Komisaris. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 10 November 2026 pukul 16.00 WIB, dan bisa hadir secara fisik atau elektronik lewat sistem eASY.KSEI milik Kustodian Sentral Efek Indonesia.",
+   "Dasar pemanggilan rapat ini adalah pengunduran diri Christian Kartawijaya dari jabatan Direktur Utama dan Juan Francisco Defalgue dari jabatan Komisaris, yang sudah diumumkan perseroan lewat keterbukaan informasi pada 19 Oktober 2026. Usulan penggantian susunan Direksi dan Dewan Komisaris ini diajukan oleh pemegang saham perseroan, bukan oleh manajemen. Riwayat hidup calon pengurus baru dapat dilihat pemegang saham di laman resmi indocement.co.id sebelum rapat berlangsung.",
+   "Bagi pemegang saham yang tidak bisa hadir langsung, perseroan menyiapkan dua jalur kuasa. Surat kuasa konvensional harus sudah diterima Corporate Secretary INTP, Dani Handajani, paling lambat Kamis, 26 November 2026, sementara e-Proxy lewat platform eASY.KSEI bisa disampaikan hingga Rabu, 2 Desember 2026 pukul 12.00 WIB. Pencabutan atau perubahan kuasa konvensional dibatasi hingga Senin, 30 November 2026, sedangkan registrasi peserta pada hari rapat dibuka pukul 08.00 WIB dan ditutup pukul 09.00 WIB."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a large corporate meeting hall, Jakarta office towers visible through tall windows, soft morning light",
+  "takeaway": "Laporan ini condong netral karena RUPSLB cuma memformalkan pergantian pengurus yang sudah diumumkan sejak 19 Oktober 2026, bukan kabar baru soal kondisi keuangan perusahaan. Pergantian Direktur Utama dan seorang Komisaris tidak langsung mengubah pos seperti modal pemegang saham atau arus kas perusahaan, tapi pelaku pasar tetap mencermatinya karena arah strategi dan keputusan bisnis perusahaan ke depan biasanya mengikuti siapa yang memimpinnya. Yang perlu dipantau adalah hasil RUPSLB pada 3 Desember 2026, yaitu siapa yang ditetapkan menggantikan Christian Kartawijaya sebagai Direktur Utama dan Juan Francisco Defalgue sebagai Komisaris, serta tenggat pemberian kuasa elektronik bagi pemegang saham yang berakhir 2 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cpri-batalkan-rupst-yang-dijadwalkan-26-november",
+  "category": "Aksi Korporasi",
+  "title": "CPRI [Batalkan] RUPST yang Dijadwalkan 26 November",
+  "deck": "Capri Nusa Satu Properti membatalkan RUPST yang sedianya digelar 26 November 2026, hanya lima hari setelah pemanggilan resmi dikirim, tanpa jadwal pengganti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T14:52:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cf94d83413_b7ed022cc0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CPRI",
+  "tags": [
+   "CPRI",
+   "RUPST",
+   "pembatalan rapat",
+   "properti"
+  ],
+  "body": [
+   "PT Capri Nusa Satu Properti Tbk (CPRI) mengumumkan pembatalan Rapat Umum Pemegang Saham Tahunan (RUPST) yang sebelumnya dijadwalkan pada Kamis, 26 November 2026 pukul 09.00 WIB di Vasaka Hotel, Jakarta. Pembatalan disampaikan lewat surat Direksi Nomor 1022/S/DIR/CNSP/XI/2026 tertanggal 11 November 2026 yang ditandatangani Direktur Utama Jansen Surbakti, merujuk pada surat pemanggilan resmi Nomor 1018/S/IDX/XI/2026 yang baru dikirim lima hari sebelumnya, pada 6 November 2026.",
+   "Akibat pembatalan ini, enam agenda yang seharusnya diputuskan dalam rapat tersebut ikut tertunda, yaitu persetujuan laporan tahunan dan laporan keuangan tahunan, persetujuan penggunaan laba bersih, penunjukan akuntan publik atau kantor akuntan publik, persetujuan laporan realisasi penggunaan dana hasil penawaran umum, serta pengangkatan kembali atau perubahan susunan Direksi dan Dewan Komisaris.",
+   "Dalam suratnya, Direksi hanya menyebut pembatalan dilakukan dalam rangka penyesuaian teknis-operasional dan pemenuhan prosedur administratif formal agar pelaksanaan RUPST sesuai tata kelola perusahaan yang baik dan regulasi pasar modal. Perusahaan belum mengumumkan tanggal pengganti, dan menyatakan pemanggilan atau pemberitahuan baru akan disampaikan kemudian sesuai Anggaran Dasar dan peraturan pasar modal yang berlaku."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of chairs facing a podium, chandeliers overhead, soft morning light, no one present",
+  "takeaway": "Laporan ini condong negatif bagi CPRI karena menunda sejumlah keputusan yang langsung menyangkut kepentingan pemegang saham, sementara alasan yang diberikan perusahaan, yaitu penyesuaian teknis-operasional dan administratif, tidak menjelaskan apa yang sebenarnya terjadi, apalagi pembatalan ini muncul hanya lima hari setelah pemanggilan resmi dikirim. Pos yang tersentuh antara lain keputusan pembagian laba bersih, yang menentukan apakah dan berapa dividen yang akan diterima pemegang saham, serta persetujuan laporan realisasi dana hasil penawaran umum, yaitu laporan yang menunjukkan ke mana saja dana dari penjualan saham ke publik sejak 2019 benar-benar dipakai, dan perubahan susunan Direksi serta Dewan Komisaris yang menentukan siapa yang mengendalikan perusahaan ke depan. Semua keputusan itu kini mundur tanpa kejelasan waktu baru. Yang perlu dipantau adalah kapan CPRI mengirim pemanggilan ulang RUPST beserta tanggal pastinya, karena aturan pasar modal mengharuskan perusahaan menjadwalkan ulang dan mengumumkannya secara resmi, dan sejauh ini belum ada tanggal tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rgas-pinjamkan-rp25-miliar-ke-anak-usaha-pt-kian-santang",
+  "category": "Aksi Korporasi",
+  "title": "RGAS Pinjamkan [Rp25 Miliar] ke Anak Usaha PT Kian Santang",
+  "deck": "Perseroan menyalurkan pinjaman modal kerja senilai Rp25 miliar ke anak usaha PT Kian Santang, setara 24,06 persen dari ekuitasnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T14:07:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e04958cfd5_cdd606fa42.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RGAS",
+  "tags": [
+   "RGAS",
+   "transaksi material",
+   "transaksi afiliasi",
+   "pinjaman anak usaha"
+  ],
+  "body": [
+   "PT Kian Santang Muliatama Tbk (RGAS) memberikan pinjaman dana kepada anak usahanya, PT Kian Santang (PT KS), yang 99,37 persen sahamnya dikuasai perseroan. Pinjaman dikucurkan dalam dua tahap: Rp5 miliar pada 13 Juli 2026, lalu ditambah Rp20 miliar pada 10 November 2026, sehingga total mencapai Rp25 miliar. Karena kedua pinjaman dianggap satu rangkaian transaksi untuk tujuan yang sama, nilainya digabung dan setara 24,06 persen dari ekuitas perseroan per 31 Desember 2025 yang tercatat Rp103,9 miliar. Nilai ini melampaui ambang 20 persen sehingga dikategorikan transaksi material, tetapi masih di bawah ambang 50 persen ekuitas atau Rp51,95 miliar, sehingga tidak memerlukan persetujuan RUPS.",
+   "Pinjaman ini dikenakan bunga 9,5 persen efektif per tahun, setara biaya dana yang ditanggung perseroan untuk fasilitas pembiayaan bank, dengan jangka waktu 9 bulan dan jatuh tempo pada 31 Maret 2027. Pembayaran pokok dan bunga dilakukan sesuai mekanisme yang disepakati, tanpa jaminan apa pun, dan PT KS memotong Pajak Penghasilan Pasal 23 sebesar 15 persen dari bunga yang dibayarkan ke perseroan. Dana pinjaman berasal dari kas internal hasil kegiatan usaha perseroan, dituangkan dalam perjanjian bernomor 085/PPA/KSM-KS/XI/2026, dan telah mendapat persetujuan Dewan Komisaris pada 9 November 2026.",
+   "Sisa 0,63 persen saham PT KS yang tidak dimiliki perseroan dipegang oleh Muhamad Hanafi sebagai pihak independen yang tidak berafiliasi. Karena kepemilikan perseroan di PT KS sudah di atas 99 persen, transaksi ini dikecualikan dari kewajiban memakai jasa penilai independen dan dari ketentuan transaksi afiliasi dalam POJK 42/2020, namun tetap wajib dilaporkan ke OJK paling lambat akhir hari kerja kedua setelah tanggal transaksi. Berdasarkan laporan keuangan audit per 31 Desember 2025, PT KS memiliki total aset Rp24,6 miliar, total liabilitas Rp15,14 miliar, ekuitas Rp9,47 miliar, pendapatan usaha Rp25,46 miliar, dan laba periode berjalan Rp1,77 miliar."
+  ],
+  "fotoAdegan": "Workers inspecting industrial gas pipeline spare parts in a warehouse at an Indonesian industrial estate, overcast afternoon light",
+  "takeaway": "Transaksi ini tergolong netral bagi RGAS karena pinjaman diberikan ke anak usaha yang sudah dikonsolidasi penuh, sehingga saldo dan bunga pinjaman ini saling meniadakan dalam laporan keuangan konsolidasian dan tidak mengubah posisi keuangan gabungan perseroan. Yang sebenarnya tersentuh adalah arus kas internal perseroan, yakni uang tunai senilai Rp25 miliar, hampir seperempat dari ekuitasnya, berpindah dari kas menjadi piutang kepada PT KS, sehingga dana itu untuk sementara tidak bisa dipakai perseroan untuk keperluan lain sampai dikembalikan. Yang perlu dipantau selanjutnya adalah tanggal jatuh tempo pinjaman pada 31 Maret 2027, saat PT KS harus melunasi pokok Rp25 miliar beserta bunganya, dengan modal untuk membayar itu bergantung pada kemampuan PT KS menjaga pendapatan usaha dan laba seperti tercatat di akhir 2025.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pemerintah-tetapkan-empat-agenda-digitalisasi-ekonomi-dan-keuangan",
   "category": "Teknologi",
   "title": "Pemerintah Tetapkan Empat Agenda [Digitalisasi] Ekonomi dan Keuangan",
@@ -29,6 +107,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Dari empat agenda yang disebut, yang paling konkret justru soal belanja negara: penggunaan Kartu Kredit Indonesia dengan pembayaran daring di e-katalog sudah berjalan sejak Oktober 2026, dan kini diperluas ke transaksi dengan marketplace serta UMKM. Artinya proses pembelian barang dan jasa oleh instansi pemerintah makin banyak berpindah ke sistem digital yang bisa dilacak, bukan sekadar wacana seminar. Pihak yang paling terdampak adalah pelaku UMKM yang berjualan di marketplace rekanan pemerintah, karena mereka berpotensi mendapat akses baru ke belanja negara kalau sistem ini benar-benar tersambung luas. Arah besarnya, pemerintah mendorong digitalisasi tidak hanya di sisi konsumen seperti QRIS, tapi juga di sisi belanja pemerintah sendiri, sejalan dengan arahan efisiensi anggaran yang disampaikan Presiden Prabowo Subianto pada rapat paripurna DPR Agustus 2026. Yang akan menunjukkan apakah ini meluas atau sekadar uji coba terbatas adalah data jumlah instansi dan UMKM yang benar-benar bertransaksi lewat KKI di e-katalog pada laporan berikutnya.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "ptpp-pemegang-sukuk-tolak-usulan-penundaan-bagi-hasil",
+  "category": "Aksi Korporasi",
+  "title": "PTPP: Pemegang Sukuk [Tolak] Usulan Penundaan Bagi Hasil",
+  "deck": "RUPSu sukuk PTPP menolak seluruh usulan restrukturisasi bagi hasil ke-18 yang telat dibayar, dengan suara menolak hingga 98,26 persen pada salah satu usulan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T12:45:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/360c301962_2636363437.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "sukuk",
+   "RUPSu",
+   "gagal bayar"
+  ],
+  "body": [
+   "PP (Persero) Tbk gagal membayar bagi hasil ke-18 atas Sukuk Mudharabah Berkelanjutan I PTPP Tahap II Tahun 2022 Seri B, yang nilai pokoknya Rp295 miliar. Untuk mengatasi itu, perseroan mengajukan Rapat Umum Pemegang Sukuk (RUPSu) ke-4 pada 10 November 2026 di Park Hotel Jakarta, meminta pemegang sukuk menyetujui pelepasan sanksi (waiver) atas keterlambatan tersebut, sekaligus memilih salah satu dari dua opsi: menunda seluruh pembayaran bagi hasil tanpa denda sampai jatuh tempo pokok tahun 2027, atau membayar bagi hasil hanya 1 persen per tahun untuk periode ke-19 dan ke-20 sampai 2027, dengan selisihnya ditangguhkan dan dibayar sekaligus saat jatuh tempo tanpa denda.",
+   "Rapat dihadiri pemegang sukuk yang mewakili Rp287 miliar atau 97,29 persen dari total sukuk yang masih beredar, cukup untuk memenuhi kuorum. PTPP diwakili Direktur Keuangan Faizal Rahmad dan Direktur Manajemen Risiko dan Legal Tommy Wiranata Anwar, dengan PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk selaku wali amanat. Hasil pemungutan suara tertulis menunjukkan seluruh empat usulan ditolak mayoritas pemegang sukuk: usulan penundaan penuh ditolak 85,71 persen suara (Rp246 miliar), usulan pembayaran 1 persen ditolak 98,26 persen suara (Rp282 miliar), usulan pemberian kuasa kepada wali amanat ditolak 84,67 persen suara (Rp243 miliar), dan usulan pembebasan wali amanat dari tuntutan di kemudian hari ditolak 83,97 persen suara (Rp241 miliar).",
+   "Karena semua usulan ditolak, status gagal bayar atas bagi hasil ke-18 belum mendapat persetujuan resmi dari pemegang sukuk untuk ditunda atau direstrukturisasi. Risalah rapat ini dicatat oleh notaris Rosida Rajagukguk-Siregar dan disampaikan PTPP kepada Otoritas Jasa Keuangan pada 11 November 2026."
+  ],
+  "fotoAdegan": "Elevated toll road construction site with concrete pillars and tower cranes, workers in safety vests, overcast afternoon light",
+  "takeaway": "Hasil RUPSu ini negatif bagi PTPP, karena perusahaan sudah terlambat membayar bagi hasil ke-18 atas sukuknya dan permintaan keringanan atau penundaan malah ditolak mentah-mentah, dengan suara menolak mencapai 98,26 persen pada opsi pembayaran minimal. Yang tersentuh adalah arus kas perusahaan, yaitu uang tunai yang tersedia untuk membayar kewajiban rutin, karena gagal bayar ke pemegang sukuk biasanya menandakan kas yang ketat, dan dengan permintaan keringanan ditolak, kewajiban yang tertunggak itu kini tidak punya payung hukum baru untuk ditunda. Pelaku pasar mencermati ini karena gagal bayar tanpa persetujuan pemegang sukuk bisa membuka jalan bagi wali amanat mengambil langkah lain sesuai perjanjian perwaliamanatan, termasuk opsi hukum. Yang perlu dipantau berikutnya adalah langkah lanjutan PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk selaku wali amanat dan PTPP untuk mencari jalan penyelesaian baru atas bagi hasil ke-18 yang belum terbayar, mengingat jatuh tempo pokok sukuk ini sendiri baru tiba pada tahun 2027.",
+  "sentimen": "negatif"
  },
  {
   "slug": "mtfn-panggil-rupst-kedua-usai-kuorum-pertama-gagal",

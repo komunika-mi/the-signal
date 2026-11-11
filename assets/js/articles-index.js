@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "intp-panggil-rupslb-direktur-utama-dan-komisaris-mundur",
+  "category": "Aksi Korporasi",
+  "title": "INTP Panggil RUPSLB, [Direktur Utama] dan Komisaris Mundur",
+  "deck": "INTP memanggil RUPSLB pada 3 Desember 2026 untuk menetapkan pengganti Direktur Utama dan Komisaris yang telah mengundurkan diri.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INTP",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/03f4c8ba8d_982f43842b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cpri-batalkan-rupst-yang-dijadwalkan-26-november",
+  "category": "Aksi Korporasi",
+  "title": "CPRI [Batalkan] RUPST yang Dijadwalkan 26 November",
+  "deck": "Capri Nusa Satu Properti membatalkan RUPST yang sedianya digelar 26 November 2026, hanya lima hari setelah pemanggilan resmi dikirim, tanpa jadwal pengganti.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CPRI",
+   "RUPST",
+   "pembatalan rapat",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cf94d83413_b7ed022cc0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rgas-pinjamkan-rp25-miliar-ke-anak-usaha-pt-kian-santang",
+  "category": "Aksi Korporasi",
+  "title": "RGAS Pinjamkan [Rp25 Miliar] ke Anak Usaha PT Kian Santang",
+  "deck": "Perseroan menyalurkan pinjaman modal kerja senilai Rp25 miliar ke anak usaha PT Kian Santang, setara 24,06 persen dari ekuitasnya.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RGAS",
+   "transaksi material",
+   "transaksi afiliasi",
+   "pinjaman anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e04958cfd5_cdd606fa42.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-tetapkan-empat-agenda-digitalisasi-ekonomi-dan-keuangan",
   "category": "Teknologi",
   "title": "Pemerintah Tetapkan Empat Agenda [Digitalisasi] Ekonomi dan Keuangan",
@@ -19,6 +67,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7210/wamenko-dradjad-transformasi-digital-harus-lebih-tepat-sasaran-efisien-dan-memiliki-akses-luas",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ptpp-pemegang-sukuk-tolak-usulan-penundaan-bagi-hasil",
+  "category": "Aksi Korporasi",
+  "title": "PTPP: Pemegang Sukuk [Tolak] Usulan Penundaan Bagi Hasil",
+  "deck": "RUPSu sukuk PTPP menolak seluruh usulan restrukturisasi bagi hasil ke-18 yang telat dibayar, dengan suara menolak hingga 98,26 persen pada salah satu usulan.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "sukuk",
+   "RUPSu",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/360c301962_2636363437.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "mtfn-panggil-rupst-kedua-usai-kuorum-pertama-gagal",
@@ -6397,70 +6461,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/581dec033a_2857aac0c3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-tender-wajib-berakhir-nihil-saham-terjual",
-  "category": "Aksi Korporasi",
-  "title": "DOOH: Tender Wajib Berakhir, [Nihil] Saham Terjual",
-  "deck": "Tender wajib PT Sinergi Internasional Investama atas saham DOOH berakhir tanpa satu pun pemegang saham publik yang menjual sahamnya.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "tender wajib",
-   "pengendali baru",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/299ce6c3ed_69f15070cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "itmg-siapkan-buyback-saham-senilai-rp2-31-triliun",
-  "category": "Aksi Korporasi",
-  "title": "ITMG Siapkan [Buyback] Saham Senilai Rp2,31 Triliun",
-  "deck": "Indo Tambangraya Megah akan membeli kembali saham senilai maksimal Rp2,31 triliun dari kas internal, berlaku 5 November 2026 hingga 4 Februari 2027, sesuai aturan OJK untuk pasar bergejolak.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ITMG",
-   "buyback",
-   "pasar modal",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d10c605d0b_5464cccc88.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "flmc-siapkan-anak-usaha-distribusi-ekuitas-jadi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "FLMC Siapkan Anak Usaha [Distribusi], Ekuitas Jadi Negatif",
-  "deck": "FLMC berencana menambah KBLI Aktivitas Perusahaan Induk untuk membentuk anak usaha distribusi, sementara laporan yang sama menunjukkan ekuitas perseroan berbalik negatif per Juni 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FLMC",
-   "KBLI",
-   "ekuitas negatif",
-   "anak usaha distribusi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a1ff78252e_5f200904e2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-rilis-8-waran-terstruktur-baru-mulai-tercatat-9-november",
-  "category": "Aksi Korporasi",
-  "title": "ZP Rilis 8 Waran [Terstruktur] Baru, Mulai Tercatat 9 November",
-  "deck": "Maybank Sekuritas (ZP) menawarkan 8 call waran baru bersandar saham INCO, MAPA, PTBA, PWON, RATU, SMGR, SMRA, dan TLKM, mulai dicatatkan di BEI 9 November 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "waran terstruktur",
-   "call warrant",
-   "Maybank Sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bb6f47d434_b543a45941.pdf",
   "sourceLabel": "IDX"
  }
 ];

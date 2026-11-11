@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mtfn-panggil-rupst-kedua-usai-kuorum-pertama-gagal",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Panggil RUPST Kedua usai [Kuorum] Pertama Gagal",
+  "deck": "Rapat pertama Capitalinc Investment pada 6 November gagal kuorum, sehingga pemegang saham dipanggil lagi 18 November untuk membahas laporan tahunan, keputusan tanpa dividen, dan perpanjangan masa jabatan direksi-komisaris.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTFN",
+   "RUPST",
+   "Capitalinc Investment",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/701ea495ce_ec2560b5f6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-turun-rp30-ribu-jadi-rp2-53-juta",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp30 Ribu Jadi Rp2,53 Juta",
@@ -6444,22 +6460,6 @@ var ARTICLES = [
    "kinerja keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/50fde83d7c_b444487cbc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wico-review-keuangan-kuartal-iii-untuk-rencana-jual-aset",
-  "category": "Aksi Korporasi",
-  "title": "WICO Review Keuangan Kuartal III untuk Rencana [Jual] Aset",
-  "deck": "WICO memberitahu BEI rencana penelaahan terbatas laporan keuangan interim Kuartal III 2026 guna mendukung rencana penjualan salah satu asetnya.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WICO",
-   "limited review",
-   "penjualan aset",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1b385c81ec_38a0be20a9.pdf",
   "sourceLabel": "IDX"
  }
 ];

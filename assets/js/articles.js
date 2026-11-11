@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mtfn-panggil-rupst-kedua-usai-kuorum-pertama-gagal",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Panggil RUPST Kedua usai [Kuorum] Pertama Gagal",
+  "deck": "Rapat pertama Capitalinc Investment pada 6 November gagal kuorum, sehingga pemegang saham dipanggil lagi 18 November untuk membahas laporan tahunan, keputusan tanpa dividen, dan perpanjangan masa jabatan direksi-komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T12:22:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/701ea495ce_ec2560b5f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTFN",
+  "tags": [
+   "MTFN",
+   "RUPST",
+   "Capitalinc Investment",
+   "dividen"
+  ],
+  "body": [
+   "Capitalinc Investment Tbk (MTFN) mengeluarkan panggilan kedua Rapat Umum Pemegang Saham Tahunan (RUPST) setelah rapat pertama yang digelar Jumat, 6 November 2026, tidak memenuhi syarat kuorum kehadiran pemegang saham. RUPST kedua dijadwalkan Rabu, 18 November 2026 pukul 10.00 WIB di Kantor Taman E3.3 Unit D3A Lantai 5, Jalan DR. Ide Anak Agung Gde Agung, Kuningan, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per penutupan perdagangan BEI pada Selasa, 10 November 2026 pukul 16.00 WIB.",
+   "Enam agenda akan dibahas. Pertama, persetujuan atas laporan Direksi dan laporan keuangan konsolidasian tahun buku 2025 beserta Laporan Tahunan 2025. Kedua, pembebasan tanggung jawab (acquit et de charge) bagi seluruh anggota Direksi dan Dewan Komisaris atas pengurusan tahun buku 2025, kecuali untuk tindakan penggelapan, penipuan, atau tindak pidana lain. Ketiga, persetujuan untuk tidak membagikan dividen dari laba tahun buku 2025. Keempat, pemberian kewenangan kepada Dewan Komisaris untuk menunjuk kantor akuntan publik yang akan mengaudit laporan keuangan tahun buku 2026. Kelima, kewenangan kepada Dewan Komisaris untuk menetapkan besaran remunerasi dan tunjangan Direksi serta Dewan Komisaris untuk tahun 2026. Keenam, persetujuan pengangkatan kembali anggota Direksi dan Dewan Komisaris Perseroan.",
+   "Perseroan menetapkan bahwa surat kuasa bagi pemegang saham yang berhalangan hadir harus diterima dalam bentuk dokumen asli paling lambat tiga hari kerja sebelum rapat, yaitu 12 November 2026, di kantor biro administrasi efek PT Ficomindo Buana Registrar, atau dapat dikirim lebih dulu melalui email ke helpdesk@ficomindo.com. Pemegang saham juga dapat menggunakan hak suaranya secara elektronik melalui aplikasi eASY.KSEI untuk konfirmasi kehadiran, penunjukan kuasa, atau pemberian suara."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a modern corporate meeting room, soft morning light through tall glass windows, Jakarta office building.",
+  "takeaway": "Saya menilai panggilan ini netral bagi fundamental MTFN. Gagalnya kuorum pada rapat pertama adalah hal prosedural yang diatur dalam aturan RUPS, karena rapat kedua memang punya ambang kuorum yang lebih longgar, jadi bukan indikasi kuat soal krisis tata kelola, meski tetap menunjukkan rendahnya kehadiran pemegang saham pada percobaan pertama. Agenda yang paling menyentuh kepentingan pemegang saham adalah keputusan tidak membagikan dividen dari laba tahun buku 2025, yang berarti arus kas ke kantong pemegang saham tahun ini nihil, serta rencana memperpanjang masa jabatan direksi dan komisaris yang sama. Yang perlu dipantau adalah apakah RUPST kedua pada 18 November 2026 akhirnya mencapai kuorum dan menyetujui seluruh agenda tersebut, termasuk siapa kantor akuntan publik yang nantinya ditunjuk Dewan Komisaris untuk mengaudit buku 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "harga-emas-antam-turun-rp30-ribu-jadi-rp2-53-juta",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp30 Ribu Jadi Rp2,53 Juta",

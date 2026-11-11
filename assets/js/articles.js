@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "penjelasan-bursa-brrc-laba-bruto-kuartal-iii-rugi-kas-rp70-juta",
+  "category": "Aksi Korporasi",
+  "title": "Penjelasan Bursa BRRC: Laba Bruto Kuartal III [Rugi], Kas Rp70 Juta",
+  "deck": "BRRC menjelaskan ke BEI bahwa rugi bruto kuartal III 2026 dipicu lonjakan harga tepung terigu, sementara kas tergerus hingga tersisa Rp70,54 juta meski ada dana IPO dan waran.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T23:35:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d4d8f2cba0_d807705e77.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRRC",
+  "tags": [
+   "BRRC",
+   "Permintaan Penjelasan Bursa",
+   "Laporan Keuangan",
+   "Likuiditas"
+  ],
+  "body": [
+   "PT Raja Roti Cemerlang Tbk (BRRC) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI nomor S-13938/BEI.PP1/11-2026 tanggal 9 November 2026. Surat tanggapan yang diteken Direktur Nurjihan Khairunisa pada 11 November 2026 ini menjelaskan sejumlah pos keuangan yang memburuk pada sembilan bulan 2026, yakni penjualan turun 4,19 persen menjadi Rp80,20 miliar sementara beban pokok penjualan naik 9,03 persen menjadi Rp73,43 miliar, membuat laba bruto ambrol 58,61 persen dan laba bersih turun 57,90 persen. Perseroan menyebut kenaikan beban pokok dipicu lonjakan harga tepung terigu akibat fenomena El Nino dan gangguan pasokan global, bahkan mencatat rugi bruto pada kuartal III 2026. Perusahaan menargetkan margin laba bruto kembali positif pada akhir 2026 atau kuartal I 2027, antara lain lewat penyesuaian harga jual bertahap dan otomatisasi produksi yang membuat tenaga kerja langsung turun 31,46 persen.",
+   "Perseroan juga mengungkap bahwa penjualan kendaraan dan mesin produksi senilai Rp12,95 miliar menghasilkan keuntungan Rp6,74 miliar, setara 95,7 persen dari penghasilan lain-lain neto. Tanpa keuntungan non-recurring itu, BRRC sebenarnya mencatat rugi usaha sekitar Rp4,25 miliar. Di sisi kas, saldo kas dan bank merosot dari Rp7,90 miliar menjadi hanya Rp70,54 juta, padahal perusahaan baru menerima dana IPO Rp61,22 miliar dan dana pelaksanaan waran Rp4,84 miliar yang menurut Perseroan telah digunakan seluruhnya untuk modal kerja dan pembelian bahan baku sesuai prospektus.",
+   "Uang muka pembelian operasional melonjak dari Rp452,16 juta menjadi Rp13,15 miliar, terutama uang muka tepung terigu ke CV Bumbu Asik Nusantara Rp9,39 miliar, PT Jaya Fermex Rp3,13 miliar, dan pemasok lain Rp635,15 juta, dengan realisasi barang dijadwalkan Oktober 2026 hingga 2027. Ada pula uang muka aset tetap Rp3,74 miliar untuk mesin dari PT Nusa Perkasa International yang dijadwalkan diserahkan akhir 2026, sementara aset dalam penyelesaian senilai Rp13,54 miliar baru rampung 65 persen, meleset dari target awal September 2026. Persediaan bahan baku turun dari Rp15,35 miliar menjadi Rp3,72 miliar, berbalik dengan persediaan barang jadi dan barang dalam proses yang naik dari Rp3,60 miliar menjadi Rp14,70 miliar.",
+   "Utang usaha yang telah lewat jatuh tempo lebih dari 90 hari melonjak dari Rp130,47 juta menjadi Rp5,42 miliar, dan masih ada utang PPh Pasal 29 tahun 2025 sebesar Rp591,42 juta yang akan dilunasi bertahap paling lambat 30 Desember 2026. Fasilitas kredit modal kerja BRI senilai Rp7,46 miliar yang jatuh tempo 26 Oktober 2026 sudah diperpanjang, namun di tengah larangan pinjaman baru dari lembaga keuangan lain dalam perjanjian kredit itu, Perseroan menerima pembiayaan sale and leaseback Rp3,88 miliar dari PT Dana Unico Finance dengan bunga 16 persen, dan persetujuan tertulis dari BRI untuk pembiayaan ini masih dalam proses. Perseroan juga mengungkap konsentrasi piutang ke CV Golden Food Lestari sebesar Rp26,19 miliar atau 85,48 persen dari piutang bruto, serta transaksi penjualan Rp6,01 miliar atau 7,50 persen dari penjualan neto kepada PT Rejo Mulya Rejeki, pemegang saham yang memegang 69.089.408 lembar saham, jumlah yang sama dengan penurunan kepemilikan saham Ari Sudarsono."
+  ],
+  "fotoAdegan": "Stacks of flour sacks on wooden pallets inside a dim bakery ingredient warehouse, a forklift parked nearby, industrial shelving in the background",
+  "takeaway": "Laporan ini condong NEGATIF bagi BRRC, karena hampir semua pos yang ditanyakan BEI menunjukkan tekanan keuangan: laba bruto ambrol, kas nyaris habis, utang usaha yang menunggak membesar, dan perusahaan mengambil pembiayaan berbunga tinggi meski perjanjian kreditnya melarang pinjaman baru. Yang paling kentara adalah arus kas, uang tunai perusahaan susut dari Rp7,90 miliar menjadi hanya Rp70,54 juta padahal baru menerima dana segar dari IPO dan pelaksanaan waran, tanda dana itu sudah terpakai habis untuk modal kerja dan belum tergantikan oleh penerimaan penjualan. Beban bunga juga perlu dicermati karena pembiayaan sale and leaseback baru dari PT Dana Unico Finance dikenai bunga 16 persen, jauh di atas bunga kredit bank biasa, menambah beban keuangan di tengah laba yang sedang menyusut. Yang perlu dipantau berikutnya adalah persetujuan tertulis dari BRI atas pembiayaan baru tersebut, tenggat pelunasan utang pajak PPh Pasal 29 2025 senilai Rp591,42 juta paling lambat 30 Desember 2026, serta apakah target Perseroan mengembalikan margin laba bruto ke posisi positif pada akhir 2026 atau kuartal I 2027 benar-benar tercapai.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
   "slug": "cnaf-direktur-iris-savitri-mundur-dari-jajaran-direksi",
   "category": "Aksi Korporasi",
   "title": "CNAF: Direktur Iris Savitri [Mundur] dari Jajaran Direksi",
@@ -565,6 +593,48 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of a hydroelectric dam spillway releasing water through a forested river valley in Indonesia, misty morning light",
   "takeaway": "Laporan ini condong positif bagi KEEN karena dua kontrak jual beli listrik dengan PLN ini menambah portofolio proyek perseroan dengan nilai gabungan sekitar US$1,2 miliar dan masa kontrak 30 tahun, jauh melampaui skala proyek yang sudah berjalan selama ini. Yang perlu dicermati investor adalah dampaknya pada arus kas dan utang perseroan ke depan, sebab membangun dua pembangkit listrik tenaga air dengan kapasitas gabungan 140 MW butuh dana besar yang biasanya ditutup lewat pinjaman sebelum pendapatan dari penjualan listriknya benar-benar mengalir. Pendapatan baru dari kontrak ini juga belum masuk ke laporan keuangan perseroan saat ini, karena uangnya baru benar-benar diterima setelah pembangkit beroperasi komersial. Yang perlu dipantau selanjutnya adalah progres pendanaan dan konstruksi kedua proyek, dengan target PLTA Pakkat 2 beroperasi komersial pada kuartal IV 2030 dan PLTA Salu Uro pada kuartal IV 2031.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "rupslb-tamu-18-desember-2026-jadwal-dps-per-25-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB TAMU 18 Desember 2026: [Jadwal] DPS per 25 November",
+  "deck": "PT Pelayaran Tamarin Samudra Tbk (TAMU) akan menggelar RUPST dan RUPSLB pada 18 Desember 2026. Pemegang saham yang tercatat per 25 November 2026 berhak hadir dan bersuara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T16:51:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/974caea39f_429e1dd408.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAMU",
+  "tags": [
+   "TAMU",
+   "RUPSLB",
+   "RUPST",
+   "Pelayaran Tamarin Samudra"
+  ],
+  "body": [
+   "PT Pelayaran Tamarin Samudra Tbk (TAMU) menginformasikan rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) sekaligus Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 18 Desember 2026 pukul 10.00 WIB, bertempat di Jalan Balikpapan I Nomor 5D, Petojo Utara, Gambir, Jakarta Pusat. Pemberitahuan ini disampaikan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 11 November 2026, ditandatangani oleh Corporate Secretary Edi Purwanto. Dokumen ini baru memuat jadwal, agenda resmi rapat belum diumumkan.",
+   "Perseroan menetapkan tanggal daftar pemegang saham (DPS) pada 25 November 2026 pukul 16.00 WIB sebagai batas pencatatan. Hanya pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada tanggal tersebut, atau pemilik saham yang tercatat di sub rekening efek PT Kustodian Sentral Efek Indonesia (KSEI) pada penutupan perdagangan di Bursa Efek Indonesia pada tanggal yang sama, yang berhak hadir dan memberikan suara dalam rapat.",
+   "Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan pada 26 November 2026, melalui situs e-RUPS KSEI, situs Bursa Efek Indonesia, dan situs web perseroan. Pemegang saham yang ingin mengusulkan mata acara rapat harus mewakili sekurang-kurangnya satu per dua puluh dari total saham dengan hak suara sah, mengajukan usulan tertulis berikut alasan dan bahan pendukung kepada Direksi, paling lambat tujuh hari sebelum tanggal pemanggilan. Perseroan juga akan menerapkan mekanisme pemberian kuasa secara elektronik melalui sistem eASY.KSEI, dengan penjelasan teknisnya disampaikan bersamaan pemanggilan rapat."
+  ],
+  "fotoAdegan": "Cargo ship docked at a busy Indonesian port, workers checking mooring lines under overcast morning light.",
+  "takeaway": "Pengumuman ini netral bagi fundamental TAMU karena sifatnya baru memberi tahu jadwal rapat, belum memuat agenda atau keputusan apa pun yang bisa dinilai arahnya. Dampaknya ke pos kinerja seperti ekuitas, arus kas, atau laba per saham masih belum bisa diukur karena mata acara belum diumumkan, padahal RUPST biasanya membahas laporan tahunan dan rencana dividen yang bisa mengubah dua pos itu begitu agendanya terbuka. Yang perlu dipantau pemegang saham adalah batas pencatatan pada 25 November 2026 agar namanya tercatat dan berhak bersuara, lalu pemanggilan resmi pada 26 November 2026 yang baru akan memuat agenda sebenarnya, dan rapat itu sendiri pada 18 Desember 2026.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Batas pencatatan pemegang saham (DPS) yang berhak hadir RUPS"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Pemanggilan resmi RUPS memuat agenda diumumkan"
+   },
+   {
+    "tanggal": "2026-12-18",
+    "acara": "Pelaksanaan RUPST dan RUPSLB"
+   }
+  ]
  },
  {
   "slug": "pemerintah-perluas-insentif-pajak-karyawan-ke-semua-sektor-2027",
@@ -1456,6 +1526,67 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "rights-issue-ultj-rp2-150-saham-kendali-ke-frieslandcampina",
+  "category": "Aksi Korporasi",
+  "title": "Rights Issue ULTJ Rp2.150/Saham: [Kendali] ke FrieslandCampina",
+  "deck": "ULTJ mematok harga rights issue Rp2.150/saham, rasio 15.200:11.517, dana hingga Rp16,94 triliun, dan kendali beralih ke FrieslandCampina.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T22:07:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/834499b59b_bcb15b994d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ULTJ",
+  "tags": [
+   "ULTJ",
+   "rights issue",
+   "Frisian Flag",
+   "FrieslandCampina"
+  ],
+  "body": [
+   "PT Ultrajaya Milk Industry & Trading Company Tbk (ULTJ) menyampaikan prospektus ringkas Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu IV (PMHMETD IV atau rights issue keempat) kepada OJK. Perseroan akan menerbitkan sebanyak-banyaknya 7.878.669.985 saham baru bernilai nominal Rp50 per saham, atau maksimal 43,11 persen dari modal yang ditempatkan dan disetor setelah rights issue ini. Setiap pemegang 15.200 saham lama berhak atas 11.517 HMETD, dan setiap satu HMETD bisa ditukar satu saham baru dengan harga pelaksanaan Rp2.150 per saham. Total dana yang akan diterima perseroan mencapai Rp16,94 triliun, terdiri dari Rp14,57 triliun dalam bentuk penyetoran aset (inbreng) dan maksimal Rp2,37 triliun dalam bentuk uang tunai dari publik.",
+   "Seluruh pemegang saham utama ULTJ memilih tidak melaksanakan haknya sendiri dan mengalihkannya ke pihak lain. Sabana Prawira Widjaja, pemegang saham pengendali dengan 53,17 persen saham, mengalihkan 4.188.717.215 HMETD-nya ke FrieslandCampina International Holding B.V. (FCIH). PT Prawirawidjaja Prakarsa, pemilik 23,78 persen saham, membagi 1.873.258.431 HMETD-nya ke tiga pihak: 1.146.278.726 ke Blue Waves Group Ventures Pte. Ltd. (BWG), 388.142.597 ke FCIH, dan 338.837.108 ke PT Bahtera Wiraniaga Internusa (BWI). Empat pemegang saham lain, yakni Samudera Prawirawidjaja, Suhendra Prawirawidjaja, Nila S, dan Lili Melati, juga mengalihkan total 714.766.507 HMETD mereka ke FCIH. Ketiga penerima ini akan membayar seluruh HMETD yang mereka terima bukan dengan uang tunai, melainkan dengan menyetorkan saham PT Frisian Flag Indonesia (FFI): FCIH menyetor 19.084 lembar (78,09 persen saham FFI), BWG menyetor 4.134 lembar (16,91 persen), dan BWI menyetor 1.222 lembar (5 persen), yang bersama-sama menggenapi seluruh saham FFI. Setelah transaksi ini rampung, FCIH akan menjadi pemegang saham pengendali baru ULTJ, sesuai surat pernyataan bersama tertanggal 28 Oktober 2026 yang ditandatangani SPW, PPP, dan FCIH.",
+   "Dokumen ini juga menegaskan tidak ada pembeli siaga dalam rights issue ini, sehingga jika ada saham yang tidak terserap, sisanya tetap tersimpan sebagai saham portepel dan tidak dikeluarkan lagi. Pemegang saham lama yang tidak ikut melaksanakan haknya berisiko terdilusi kepemilikannya hingga maksimal 43,11 persen. Perseroan menyebut risiko pasokan bahan baku sebagai risiko utama yang dihadapi. Jadwal menunjukkan RUPSLB penyetuju transaksi sudah digelar 6 November 2026, dengan target efektif dari OJK pada 28 Desember 2026, dan periode perdagangan serta pelaksanaan HMETD berlangsung 14 sampai 20 Januari 2027."
+  ],
+  "fotoAdegan": "Workers inspecting cartons of milk moving along a conveyor belt inside a dairy processing plant, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi ULTJ karena dua kekuatan besar saling mengimbangi: perusahaan mendapat suntikan aset lewat 100 persen saham Frisian Flag Indonesia senilai Rp14,57 triliun, tapi pemegang saham lama yang tidak ikut rights issue ini bisa tergerus kepemilikannya hingga 43,11 persen. Yang tersentuh adalah jumlah saham beredar, yang bisa melonjak signifikan sehingga laba yang dibagi per lembar saham jadi lebih kecil, dan juga struktur pemegang saham pengendali, yang berpindah dari keluarga Prawirawidjaja ke FrieslandCampina International Holding setelah transaksi ini selesai. Yang perlu dipantau berikutnya adalah tanggal efektif dari OJK pada 28 Desember 2026 dan periode pelaksanaan HMETD pada 14 sampai 20 Januari 2027, karena tanpa pembeli siaga, saham yang tidak diserap pemegang hak tidak otomatis menambah dana masuk ke perusahaan.",
+  "sentimen": "netral",
+  "judulIdx": "Penyampaian Prospektus",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-28",
+    "acara": "Target tanggal efektif dari OJK"
+   },
+   {
+    "tanggal": "2027-01-08",
+    "acara": "Cum-right terakhir di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2027-01-11",
+    "acara": "Mulai perdagangan tanpa HMETD (ex-right) pasar reguler"
+   },
+   {
+    "tanggal": "2027-01-12",
+    "acara": "Recording date pemegang saham berhak HMETD"
+   },
+   {
+    "tanggal": "2027-01-14",
+    "acara": "Pencatatan HMETD di BEI, mulai periode pelaksanaan"
+   },
+   {
+    "tanggal": "2027-01-20",
+    "acara": "Batas akhir pelaksanaan HMETD"
+   },
+   {
+    "tanggal": "2027-01-22",
+    "acara": "Batas akhir pembayaran pemesanan saham tambahan"
+   },
+   {
+    "tanggal": "2027-01-25",
+    "acara": "Penjatahan pemesanan saham tambahan"
+   }
+  ]
+ },
+ {
   "slug": "arko-jelaskan-lonjakan-arus-kas-operasi-ke-bursa",
   "category": "Aksi Korporasi",
   "title": "ARKO Jelaskan Lonjakan [Arus Kas] Operasi ke Bursa",
@@ -1480,6 +1611,33 @@ var ARTICLES = [
   "fotoAdegan": "Construction workers in hard hats working on pipework at a small hydroelectric plant site in a forested Sulawesi valley, overcast daylight",
   "takeaway": "Laporan ini netral bagi ARKO karena isinya klarifikasi angka ke bursa, bukan kabar baru soal aksi korporasi, dan kenaikan arus kas keluar yang dipertanyakan bursa sebagian besar berasal dari belanja konstruksi dua proyek pembangkit yang masih berjalan plus akuisisi satu anak usaha, bukan tanda bisnis inti memburuk. Pos yang tersentuh adalah arus kas dari aktivitas operasional, yaitu uang yang keluar masuk dari kegiatan usaha sehari-hari, yang membesar jadi Rp157,4 miliar dari Rp101,2 miliar setahun sebelumnya, serta akun aset lain-lain yang melonjak karena perusahaan baru membayar untuk mengambil seluruh saham anak usahanya; pelaku pasar memantau arus kas operasional karena itu menunjukkan apakah bisnis utama menghasilkan uang tunai yang cukup, bukan sekadar untung di atas kertas. Yang perlu dipantau berikutnya adalah apakah PLTM Tomoni benar rampung sesuai target operasi komersial pada kuartal I 2027, dan apakah ARKO bisa melunasi utang usaha Rp17,3 miliar yang jatuh tempo paling lama 60 hari dari akhir September 2026 tanpa membebani arus kasnya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "rans-bantah-konflik-kepentingan-kontrak-kementerian-klarifikasi",
+  "category": "Aksi Korporasi",
+  "title": "RANS Bantah Konflik Kepentingan Kontrak Kementerian [Klarifikasi]",
+  "deck": "RANS merinci kontrak jasa influencer Rp14,7 miliar dengan Kemenbud dan KKP, serta membantah ada konflik kepentingan terkait posisi Raffi Ahmad sebagai Utusan Khusus Presiden.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T21:17:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a5c9d536a8_3fe792df5c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RANS",
+  "tags": [
+   "RANS",
+   "konflik kepentingan",
+   "ICW",
+   "jasa influencer"
+  ],
+  "body": [
+   "PT Rans Entertainmen Indonesia Tbk (RANS) merespons temuan Indonesia Corruption Watch (ICW) soal pengadaan jasa influencer oleh Kementerian Kebudayaan (dulu Kemendikbud) dan Kementerian Kelautan dan Perikanan (KKP), yang melibatkan anak usahanya PT Rans Animasi Indonesia (RAI) dan RANS sendiri. Dalam penjelasan resminya, RANS menyebut total nilai kerja sama kedua kementerian itu Rp14.696.955.002, terdiri dari kampanye bersama Kemenbud senilai Rp3.900.000.002 dan tiga kampanye bersama KKP senilai Rp10.796.955.000. Perusahaan menyatakan harga itu mengacu pada rate card komersial yang juga dipakai untuk klien lain, dengan mempertimbangkan ruang lingkup pekerjaan, jumlah konten, lokasi kegiatan, dan tingkat kompleksitas pelaksanaan.",
+   "RANS merinci bahwa keempat kampanye tersebut menghasilkan lebih dari 150 output berupa produksi konten, kehadiran dalam acara, dan berbagai benefit digital, dengan lebih dari 120 output berasal dari tiga kampanye KKP dan lebih dari 25 output dari kampanye Kemenbud. Secara kumulatif, seluruh konten itu disebut telah mencatat lebih dari 52,6 juta views. Untuk Kemenbud, RANS mempromosikan museum-museum di Indonesia, sementara untuk KKP, lewat unit kontennya The Dudas-1, RANS memproduksi konten edukasi tentang budidaya ikan nila di Karawang, pengembangan kampung nelayan dan Salt Industry Centre di Rote Ndao, serta fasilitas pendukung nelayan seperti cold storage dan pabrik es di Cemaga Utara, Natuna.",
+   "Soal potensi konflik kepentingan antara Raffi Ahmad sebagai pemegang saham mayoritas RANS dan jabatannya sebagai Utusan Khusus Presiden, perusahaan menyatakan The Dudas-1 sudah dibentuk sejak pertengahan 2024, yakni sebelum Raffi Ahmad dilantik sebagai Utusan Khusus Presiden pada Oktober 2024 dan sebelum RANS mendapat penugasan dari Kemenbud maupun KKP. RANS menyebut The Dudas-1 telah memproduksi sekitar 90 konten sebelum penunjukan KKP, lebih banyak dibanding konten yang dibuat khusus untuk kampanye bersama KKP. Perusahaan juga menegaskan seluruh proses pengadaan dilakukan melalui platform terbuka seperti Inaproc.id dan e-catalogue, serta mengikuti persyaratan administratif, teknis, dan komersial yang ditetapkan instansi terkait."
+  ],
+  "fotoAdegan": "A video production crew filming at a tilapia fish pond in a rural coastal village, tropical midday light",
+  "takeaway": "Saya menilai laporan ini netral bagi RANS: isinya adalah pembelaan diri atas sorotan ICW, bukan transaksi atau perubahan keuangan baru, dan argumennya soal urutan waktu masuk akal tapi tetap klaim sepihak tanpa verifikasi pihak ketiga. Pos yang tersentuh adalah arus kas dari operasional, karena nilai kontrak Rp14,7 miliar itu adalah pendapatan RANS dan RAI dari jasa produksi konten, sehingga pelaku pasar ingin tahu seberapa besar RANS bergantung pada proyek pemerintah untuk pendapatannya. Yang perlu dipantau berikutnya adalah apakah ICW atau otoritas terkait menindaklanjuti temuan ini secara formal, dan apakah RANS masih mendapat proyek sejenis dari kementerian lain ke depan, karena dokumen ini sendiri tidak menyebut tenggat atau agenda lanjutan apa pun.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan PT Rans Entertainmen Indonesia Tbk atas Penyediaan Jasa Influencer"
  },
  {
   "slug": "sqmi-pinjaman-rp36-miliar-dari-pihak-ketiga-terungkap",
@@ -1532,6 +1690,34 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of an open-pit coal mine with haul trucks moving along terraced slopes under hazy daylight in Kalimantan",
   "takeaway": "Laporan ini netral bagi ITMG: laba bersih sembilan bulan naik hampir 25 persen dan pendapatan tumbuh dua digit, tetapi kenaikan itu justru dibarengi utang bank jangka pendek baru karena uang tunai dari kegiatan usaha menyusut tajam, sehingga sisi baik dan buruknya saling menetralkan. Arus kas dari kegiatan usaha, yaitu uang yang benar benar masuk dan keluar dari jualan dan belanja sehari hari, turun dari US$268,6 juta menjadi US$107,1 juta karena piutang dan stok batu bara menumpuk sementara ongkos ke pemasok dan royalti tetap harus dibayar. Selisihnya ditutup dengan pinjaman bank jangka pendek US$38,7 juta yang sebelumnya tidak ada, dan inilah yang membuat total liabilitas naik 24,6 persen. Ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham, nyaris tidak bertambah karena laba yang masuk nyaris sama besar dengan dividen kas dan buyback saham yang keluar di periode yang sama. Yang perlu dipantau berikutnya adalah laporan kinerja penuh tahun 2026 yang baru terbit awal tahun depan, untuk melihat apakah arus kas operasi kembali membesar dan apakah pinjaman jangka pendek ini sudah dilunasi atau malah bertambah.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bipi-indotambang-perkasa-tambah-1-juta-saham-jadi-20-7",
+  "category": "Aksi Korporasi",
+  "title": "BIPI: Indotambang Perkasa [Tambah] 1 Juta Saham, Jadi 20,7%",
+  "deck": "Afiliasi pengendali PT Indotambang Perkasa menambah 1 juta saham BIPI pada Oktober 2026, sementara saham publik berkurang setara jumlah itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T20:52:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f19582841_33547b1658.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPI",
+  "tags": [
+   "BIPI",
+   "Astrindo Nusantara Infrastruktur",
+   "pemegang saham",
+   "free float"
+  ],
+  "body": [
+   "PT Ficomindo Buana Registrar, selaku biro administrasi efek PT Astrindo Nusantara Infrastruktur Tbk (BIPI), melaporkan perubahan struktur pemegang saham BIPI untuk periode yang berakhir 31 Oktober 2026. Dalam laporan itu, kepemilikan PT Indotambang Perkasa, yang tercatat sebagai afiliasi dari pengendali BIPI, naik dari 13.185.555.813 saham menjadi 13.186.555.813 saham. Kenaikannya sebesar 1.000.000 saham, namun porsinya terhadap total 63.710.196.917 saham BIPI yang beredar tetap tercatat 20,7 persen karena jumlahnya kecil.",
+   "Dua pemegang saham lain yang memegang di atas 5 persen saham BIPI tidak berubah jumlahnya bulan ini. CGS International Securities Mauritius Ltd tetap memegang 6.319.000.000 saham, setara 9,92 persen. PT Bakrie Capital Indonesia tetap memegang 4.500.000.000 saham, setara 7,1 persen. Di sisi lain, saham milik publik dalam bentuk non warkat atau saham elektronik tanpa sertifikat fisik turun dari 39.704.071.104 saham menjadi 39.703.071.104 saham, berkurang 1.000.000 saham, persis sebesar kenaikan di saham Indotambang Perkasa.",
+   "Laporan itu juga mencatat jumlah saham free float, yakni saham yang tidak dipegang pengendali, afiliasinya, direksi, atau komisaris perusahaan, naik dari 20.990.441.906 saham menjadi 23.148.706.506 saham. Porsinya terhadap total saham beredar naik dari 32,95 persen menjadi 36,33 persen dalam sebulan. Di jajaran direksi dan komisaris, hanya Direktur Wong Michael yang tercatat memiliki saham BIPI, yakni 1.570.000 saham atau 0 persen, tidak berubah dari bulan sebelumnya. Jumlah pemegang saham dengan nomor identitas tunggal investor (SID) turun dari 83.315 menjadi 83.146 pemegang, berkurang 169 pemegang dalam sebulan."
+  ],
+  "fotoAdegan": "A loaded coal barge gliding along a wide brown river beside a conveyor loading dock under an overcast sky",
+  "takeaway": "Perubahan ini kami nilai netral bagi BIPI. Pergeseran 1 juta saham dari publik ke PT Indotambang Perkasa, afiliasi pengendali perusahaan, hanya setara kurang dari 0,01 persen dari total 63,7 miliar saham BIPI yang beredar, sehingga porsi kepemilikannya tetap di 20,7 persen dan kendali perusahaan tidak berubah. Yang bergerak lebih berarti justru persentase saham bebas atau free float, yaitu bagian saham yang tidak dipegang pengendali, afiliasinya, direksi, atau komisaris dan bebas diperjualbelikan investor publik, yang naik dari 32,95 persen jadi 36,33 persen dalam sebulan. Free float ini dipantau pasar karena memengaruhi seberapa likuid saham itu diperdagangkan dan menjadi salah satu syarat emiten memenuhi aturan porsi saham publik minimum di BEI. Yang perlu dipantau berikutnya adalah laporan registrasi bulan November 2026, untuk melihat apakah kenaikan free float ini berlanjut atau sekadar fluktuasi sesaat.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "Perubahan Struktur Pemegang Saham"
  },
  {
   "slug": "telkom-sabet-dua-penghargaan-transformasi-bisnis-dari-swa",
@@ -2037,6 +2223,59 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "bnga-suntik-modal-slcapital-rp365-miliar-via-inbreng-npl",
+  "category": "Aksi Korporasi",
+  "title": "BNGA Suntik Modal SLCapital Rp365 Miliar via [Inbreng] NPL",
+  "deck": "BNGA meningkatkan modal di anak usaha SLCapital dengan memindahkan portofolio kredit bermasalah Rp325,778 miliar dan aset kantor Rp39,5 miliar, sehingga kepemilikannya naik menjadi 99,9998%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:58:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b992a55f4f_f5dd13cc7f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNGA",
+  "tags": [
+   "BNGA",
+   "CIMB Niaga",
+   "SLCapital",
+   "kredit macet"
+  ],
+  "body": [
+   "PT Bank CIMB Niaga Tbk (BNGA) meningkatkan penyertaan modalnya di anak usaha, PT Satyaguna Langgeng Capital (SLCapital), melalui suntikan modal non-tunai berupa portofolio kredit bermasalah senilai Rp325,778 miliar dan aset tidak bergerak berupa ruang kantor di Menara Sudirman Lantai 2 dan 3, Jalan Jenderal Sudirman Kaveling 60, Jakarta Selatan, senilai Rp39,5 miliar. Total suntikan modal mencapai Rp365,278 miliar. Ini merupakan tahap kedua (Batch 2) dari program penyertaan modal non-tunai BNGA ke SLCapital, sebagaimana disampaikan dalam surat perseroan ke Bursa Efek Indonesia dan Otoritas Jasa Keuangan tertanggal 9 November 2026.",
+   "Dengan tambahan modal ini, kepemilikan BNGA di SLCapital naik dari Rp395.797.000.000 (99,99962 persen) menjadi Rp761.075.000.000 (99,99980 persen) dari total modal ditempatkan dan disetor SLCapital yang kini menjadi Rp761.076.500.000. Pemegang saham lain, PT Commerce Kapital, tetap memegang Rp1.500.000 tanpa penambahan, sehingga porsinya otomatis mengecil dari 0,00038 persen menjadi 0,00020 persen akibat pembesaran modal SLCapital secara keseluruhan.",
+   "Penyertaan modal non-tunai batch kedua ini telah mendapat persetujuan OJK melalui surat No. SR-119/PB.33/2026 tanggal 6 Agustus 2026, serta disetujui pemegang saham SLCapital lewat tiga akta pernyataan keputusan di luar RUPS yang diteken pada 26 Agustus, 28 Agustus, dan 27 Oktober 2026. Perubahan anggaran dasar SLCapital akibat transaksi ini diakui Kementerian Hukum RI lewat surat tertanggal 25 September 2026 dan 9 November 2026. Manajemen menyebut transaksi ini bukan Transaksi Material menurut POJK Nomor 17/2020, melainkan Transaksi Afiliasi yang dikecualikan dari potensi benturan kepentingan karena berkaitan dengan kegiatan usaha penghasil pendapatan Perseroan. Surat ke bursa dan OJK ditandatangani Direktur BNGA Henky Sulistyo, sementara laporan keterbukaan informasi disampaikan oleh Corporate Secretary Office Head Dwi Dewo S."
+  ],
+  "fotoAdegan": "Rows of archived paper loan files on metal shelves in a dim bank records room, shelves receding into shadow",
+  "takeaway": "Transaksi ini kami nilai netral bagi fundamental BNGA, sebab sifatnya internal, memindahkan aset dari buku bank ke anak usaha tanpa menambah modal dari luar atau mengubah kendali, dan nilainya, Rp365,278 miliar, relatif kecil dibandingkan skala aset bank yang mencapai ratusan triliun rupiah. Yang tersentuh adalah kualitas aset, bukan laba per saham atau jumlah saham beredar BNGA: dengan memindahkan portofolio kredit bermasalah ke SLCapital, bank bisa melaporkan rasio kredit bermasalah yang lebih bersih di laporan individual, meski secara konsolidasi aset itu tetap berada dalam grup yang sama. Kenaikan porsi kepemilikan BNGA di SLCapital menjadi 99,9998 persen juga berarti ekuitas anak usaha itu membesar, sehingga nilainya di laporan konsolidasi BNGA ikut terangkat, tapi ini bukan suntikan dana segar yang menambah kas perseroan. Yang perlu dipantau selanjutnya adalah laporan keuangan BNGA pada kuartal berikutnya untuk melihat apakah pemindahan portofolio ini benar-benar memperbaiki rasio kredit bermasalah di tingkat bank, serta apakah masih ada tahap atau batch lanjutan dari program penyertaan modal non-tunai ini ke SLCapital.",
+  "sentimen": "netral",
+  "judulIdx": "Peningkatan modal dan penyertaan modal non-tunai oleh Perseroan kepada PT Satyaguna Langgeng Capital (SLCapital)."
+ },
+ {
+  "slug": "jecx-liabilitas-turun-39-9-usai-lunasi-utang-bca-rp175-m",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Liabilitas Turun 39,9% usai [Lunasi] Utang BCA Rp175 M",
+  "deck": "Total liabilitas JECX turun 39,9% menjadi Rp384,98 miliar per September 2026, didorong pelunasan dipercepat utang bank ke BCA senilai Rp175 miliar dari dana IPO.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:43:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/686262772e_f2281f544d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JECX",
+  "tags": [
+   "JECX",
+   "liabilitas",
+   "pelunasan utang",
+   "IPO"
+  ],
+  "body": [
+   "PT Nitrasanata Dharma Tbk (JECX), operator rumah sakit dan klinik mata, melaporkan total liabilitas konsolidasiannya turun 39,9 persen atau setara Rp255,36 miliar, dari Rp640,33 miliar pada 31 Desember 2025 menjadi Rp384,98 miliar pada 30 September 2026. Laporan ini disampaikan karena aturan bursa mewajibkan emiten menjelaskan setiap perubahan liabilitas yang melebihi 20 persen.",
+   "Perseroan menyebut penurunan tersebut terutama berasal dari percepatan pembayaran utang bank kepada PT Bank Central Asia Tbk senilai Rp175 miliar. Pelunasan dipercepat ini dibiayai dari dana hasil penawaran umum saham perdana (IPO) JECX, bukan dari pinjaman baru atau pengalihan utang. Peristiwa ini tercatat terjadi pada 27 Oktober 2026, dan suratnya ditandatangani Presiden Direktur Johan A.M.M Hutauruk pada 9 November 2026 sebelum disampaikan ke bursa oleh Corporate Secretary Muharyanto pada 10 November 2026."
+  ],
+  "fotoAdegan": "Nurses and staff walking through a bright, modern eye hospital corridor in Jakarta during morning hours.",
+  "takeaway": "Laporan ini condong positif karena penurunan liabilitas bukan berasal dari tekanan keuangan, melainkan dari pelunasan utang yang dipercepat menggunakan dana hasil IPO sendiri. Pos yang tersentuh adalah beban bunga dan arus kas: dengan utang bank ke BCA senilai Rp175 miliar lunas lebih cepat, Perseroan akan menanggung beban bunga yang lebih kecil ke depan dan punya kas operasional yang lebih longgar karena tidak lagi membayar cicilan atas utang itu. Leverage Perseroan, yaitu perbandingan utang terhadap modal sendiri, juga membaik karena liabilitas turun hampir 40 persen hanya dalam sembilan bulan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal setelahnya, untuk melihat apakah penghematan bunga ini benar-benar terlihat pada laba bersih, sebab dokumen ini sendiri tidak menyebut tenggat atau agenda lanjutan apa pun.",
+  "sentimen": "positif",
+  "judulIdx": "Penjelasan atas Perubahan Lebih dari 20% dari Total Liabilitas Perseroan"
+ },
+ {
   "slug": "bcic-jadwalkan-rupslb-pada-17-desember-2026",
   "category": "Aksi Korporasi",
   "title": "BCIC Jadwalkan [RUPSLB] pada 17 Desember 2026",
@@ -2334,6 +2573,34 @@ var ARTICLES = [
   "fotoAdegan": "Rows of cargo trucks parked in an open logistics yard at early morning, workers checking tie-down straps on trailers",
   "takeaway": "Laporan ini condong positif bagi JAYA karena laba bersih melonjak hampir empat kali lipat dan pendapatan tumbuh signifikan dalam setahun, walau pergeseran struktur utang ke arah sewa pembiayaan tetap perlu dicermati karena menambah beban bunga ke depan. Pos yang paling tersentuh adalah laba per saham, yakni bagian laba yang dihitung untuk setiap lembar saham beredar, yang naik dari Rp2,59 menjadi Rp10,28 karena laba bersih melonjak sementara jumlah saham tidak bertambah. Beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjaman dan sewa pembiayaannya, naik dari Rp2,55 miliar menjadi Rp6,22 miliar, sejalan dengan liabilitas sewa pembiayaan jangka panjang yang melonjak dari Rp32,60 miliar menjadi Rp127,61 miliar untuk membiayai penambahan armada. Perusahaan memang melunasi utang lain-lain pihak ketiga dari Rp137,88 miliar menjadi Rp44,51 miliar, tetapi penggantinya adalah utang sewa pembiayaan baru, jadi total liabilitas perusahaan tetap naik. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026 dan laporan tahunan auditan, karena rasio lancar yang baru mencapai 44,07 persen menunjukkan aset lancar perusahaan belum sepenuhnya menutup liabilitas jangka pendek senilai Rp165,81 miliar, termasuk Rp63,73 miliar liabilitas sewa pembiayaan yang jatuh tempo dalam setahun ke depan.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "srtg-rp17-5-triliun-beli-saham-aadi-adro-dari-asi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "SRTG Rp17,5 Triliun: Beli Saham AADI-ADRO dari ASI [Afiliasi]",
+  "deck": "SRTG membeli 838,46 juta saham AADI dan 3,68 miliar saham ADRO milik ASI senilai total Rp17,5 triliun, transaksi afiliasi penyederhanaan struktur kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T16:10:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf0ba7b34c_06993673d1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "AADI",
+   "ADRO",
+   "transaksi afiliasi"
+  ],
+  "body": [
+   "PT Saratoga Investama Sedaya Tbk (SRTG) pada 10 November 2026 membeli 838.459.869 saham PT Adaro Andalan Indonesia Tbk (AADI), setara 10,7676 persen dari total saham AADI, dengan harga Rp10.286 per saham. Di hari yang sama, SRTG juga membeli 3.680.000.000 saham PT Alamtri Resources Indonesia Tbk (ADRO), setara 12,7776 persen dari total saham ADRO, dengan harga Rp2.413 per saham. Kedua saham itu sebelumnya dimiliki oleh PT Adaro Strategic Investments (ASI) dan dijual berdasarkan Perjanjian Jual Beli Saham tertanggal 9 November 2026. Total nilai kedua transaksi mencapai Rp17.504.238.212.534, yakni Rp8.624.398.212.534 untuk saham AADI dan Rp8.879.840.000.000 untuk saham ADRO.",
+   "Perseroan menyebut transaksi ini sebagai bagian dari penyederhanaan struktur kepemilikan. Sebelum transaksi, SRTG memiliki kepentingan tidak langsung di AADI dan ADRO melalui struktur kepemilikan berjenjang lewat ASI. Setelah tanggal penyelesaian pada 10 November 2026, SRTG memiliki saham AADI dan ADRO secara langsung. Perseroan menegaskan transaksi ini tidak mengubah pengendalian maupun susunan pengendali di tingkat individu AADI dan ADRO.",
+   "Transaksi ini tercatat sebagai transaksi afiliasi karena Edwin Soeryadjaya, Presiden Komisaris SRTG, juga menjabat Komisaris Utama ASI, dan Michael W.P. Soeryadjaya, Presiden Direktur SRTG, juga menjabat Direktur ASI. SRTG sendiri merupakan salah satu pemegang saham tidak langsung signifikan di ASI, meski perseroan menyatakan transaksi ini bukan transaksi benturan kepentingan menurut POJK 42/2020. Karena nilai transaksi melebihi 20 persen namun kurang dari 50 persen ekuitas SRTG, transaksi ini tergolong transaksi material berdasarkan POJK 17/2020. Namun karena harga pembelian AADI dan ADRO berada di bawah batas maksimum yang dihitung dari rata-rata harga tertinggi perdagangan 90 hari terakhir, yaitu Rp11.301 untuk AADI dan Rp2.580 untuk ADRO, SRTG tidak diwajibkan menunjuk penilai independen, tetapi tetap wajib menyampaikan keterbukaan informasi ini ke OJK beserta dokumen pendukung dan melaporkan pelaksanaannya dalam laporan tahunan."
+  ],
+  "fotoAdegan": "A loaded coal barge moving down a wide brown river in Kalimantan, tugboat alongside, under an overcast grey sky",
+  "takeaway": "Transaksi ini condong netral bagi SRTG karena pada dasarnya mengubah kepemilikan tidak langsung menjadi langsung di AADI dan ADRO, tanpa menambah eksposur ekonomi baru maupun mengubah pengendalian di kedua perusahaan itu. Pos yang tersentuh adalah ekuitas, sebab nilai transaksi Rp17,5 triliun ini mencapai lebih dari 20 persen modal SRTG, sehingga porsi besar kekayaan perusahaan berpindah bentuk dari kepentingan tidak langsung menjadi saham langsung; arus kas juga perlu dicermati karena dokumen tidak menjelaskan dari mana dana pembelian berasal, apakah kas internal atau pembiayaan baru. Transaksi ini melibatkan pihak terafiliasi, yakni Presiden Komisaris SRTG Edwin Soeryadjaya dan Presiden Direktur SRTG Michael W.P. Soeryadjaya yang keduanya juga menjabat di ASI, meski perseroan menegaskan ini bukan transaksi benturan kepentingan. Yang perlu dipantau berikutnya adalah laporan SRTG ke OJK beserta dokumen pendukungnya serta realisasi transaksi ini dalam laporan tahunan perseroan, yang akan menunjukkan apakah penyederhanaan struktur ini benar memberi manfaat langsung seperti yang diklaim.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Pembelian atau penjualan saham perusahaan yang nilainya material"
  },
  {
   "slug": "bike-koreksi-lagi-akuisisi-tambang-batu-bara-86-juta-ton",
@@ -42281,8 +42548,8 @@ var ARTICLES = [
  {
   "slug": "dooh-koreksi-panggilan-rupslb-agenda-pinjaman-rp5-triliun",
   "category": "Aksi Korporasi",
-  "title": "DOOH Koreksi Panggilan RUPSLB, Agenda [Pinjaman] Rp5 Triliun",
-  "deck": "Era Media Sejahtera mengoreksi panggilan RUPSLB 9 November 2026 yang mengagendakan ganti nama, rights issue, pinjaman Rp5 triliun dari pengendali, dan akuisisi INET.",
+  "title": "RUPSLB DOOH 9 November: Ganti Nama Nexora, Utang Rp5 T [Disetujui]",
+  "deck": "RUPSLB DOOH 9 November menyetujui ganti nama jadi PT Nexora Energy Infrastructure, pinjaman Rp5 triliun dari pengendali, rights issue hingga 154,78 miliar saham, dan akuisisi INET.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 Oktober 2026",
   "isoDate": "2026-10-16T18:22:19",
@@ -42292,17 +42559,29 @@ var ARTICLES = [
   "tags": [
    "DOOH",
    "RUPSLB",
-   "rights issue",
-   "akuisisi INET"
+   "Rights Issue",
+   "Pinjaman Afiliasi"
   ],
   "body": [
-   "PT Era Media Sejahtera Tbk (DOOH) mengoreksi surat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya terbit pada tanggal yang sama, 16 Oktober 2026. Lewat surat koreksi bernomor 046A/CORSEC/EMS/RUPSLB/X/2026 yang ditandatangani Direktur Utama Vicktor Aritonang, perseroan menegaskan RUPSLB akan digelar Senin, 9 November 2026 pukul 14.00 WIB di Ruang Meeting Slipi, Hotel Mercure Batavia Jakarta, dengan opsi hadir elektronik lewat aplikasi eASY.KSEI. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan bursa 15 Oktober 2026.",
-   "Rapat ini membawa sembilan agenda. Pertama, persetujuan perubahan nama perseroan. Kedua, perubahan tempat kedudukan dan/atau alamat perseroan. Ketiga, perubahan susunan anggota Direksi dan/atau Dewan Komisaris. Keempat, perubahan penggunaan dana hasil penawaran umum perdana saham (IPO). Kelima, perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha perseroan, termasuk pembahasan studi kelayakan atas rencana penambahan kegiatan usaha untuk memenuhi POJK 17/2020 tentang Transaksi Material dan penyesuaian dengan aturan klasifikasi usaha baru (KBLI 2025). Keenam, peningkatan modal dasar perseroan. Ketujuh, persetujuan rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I alias rights issue) bersamaan dengan penerbitan Waran Seri II, lengkap dengan kuasa bagi direksi untuk menentukan jumlah saham dan waran yang ditawarkan serta harga pelaksanaannya. Kedelapan, persetujuan pencairan pinjaman dari PT Sinergi Internasional Investama, pemegang saham pengendali perseroan, dengan nilai maksimal Rp5 triliun, sebagai transaksi material dan transaksi afiliasi sesuai POJK 17/2020 dan POJK 42/2020. Kesembilan, persetujuan rencana akuisisi saham PT Sinergi Inti Andalan Prima Tbk (INET) oleh PT Cakrawala Nexus Investama (CNI), yang merupakan perusahaan terkendali DOOH.",
-   "Perseroan mengingatkan bahwa batas waktu pemberian deklarasi kehadiran, kuasa elektronik (e-proxy), atau suara elektronik lewat eASY.KSEI adalah pukul 12.00 WIB, satu hari kerja sebelum tanggal rapat. Bahan-bahan rapat tersedia di situs resmi perseroan sejak 16 Oktober 2026 hingga hari pelaksanaan RUPSLB pada 9 November 2026."
+   "PT Era Media Sejahtera Tbk (DOOH) resmi mengumumkan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Senin, 9 November 2026. Rapat dihadiri pemegang saham yang mewakili 5.892.419.313 saham atau 76,14% dari seluruh saham perseroan, dan seluruh sembilan agenda disetujui. Yang paling mencolok, pemegang saham menyetujui perubahan nama perseroan menjadi PT Nexora Energy Infrastructure Tbk beserta logo baru, sekaligus pemindahan domisili dan alamat ke Jl. Tiang Bendera 5 No.20, Jakarta Barat. Susunan pengurus juga berubah, Hendrik Tee menggantikan Muhammad Fakhri Azhari sebagai Komisaris Utama, sementara jajaran Direksi tetap dipegang Vicktor Aritonang sebagai Direktur Utama dan Devi Nisa Suhartono sebagai Direktur, dengan Mohamad Ihsan tetap menjabat Komisaris Independen.",
+   "Untuk menopang rencana penambahan modal, RUPSLB menyetujui kenaikan modal dasar perseroan dari Rp245 miliar menjadi Rp3 triliun. Di atas modal dasar baru itu, pemegang saham juga menyetujui rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu I (PMHMETD I alias rights issue) sebanyak-banyaknya 154.777.820.720 saham baru bernilai nominal Rp10 per saham, disertai penerbitan Waran Seri II. Jumlah pasti saham dan waran yang ditawarkan, serta harga pelaksanaannya, masih akan ditetapkan kemudian oleh Direksi.",
+   "Agenda pencairan pinjaman hingga Rp5 triliun dari PT Sinergi Internasional Investama, pemegang saham pengendali DOOH, juga disetujui. Karena tergolong transaksi afiliasi, suara yang dihitung untuk agenda ini khusus dari pemegang saham independen, yakni sebanyak 1.945.584.313 saham atau 51,63% dari seluruh saham independen yang berhak suara. Dari jumlah yang hadir itu, 99,999% memberikan suara setuju. Dana pinjaman ini dipakai untuk mendukung investasi lewat anak usaha PT Cakrawala Nexus Investama (CNI) dalam rencana pengambilalihan saham PT Sinergi Inti Andalan Prima Tbk (INET).",
+   "Rencana akuisisi itu sendiri juga disetujui RUPSLB, yaitu pembelian 6.685.000.000 saham INET atau 29,88% dari modal ditempatkan dan disetor INET, oleh CNI dari PT Abadi Kreasi Unggul Nusantara (AKUN) dengan harga Rp300 per saham. Sebagian dana untuk transaksi ini, Rp120 miliar, berasal dari realokasi dana hasil IPO perseroan sebagai setoran modal ke CNI. Transaksi ini memakai pendapat kewajaran revisi dari KJPP Toha, Okky, Heru & Rekan bertanggal 29 Oktober 2026. RUPSLB turut menyetujui perubahan Pasal 3 Anggaran Dasar untuk menambah kegiatan usaha Aktivitas Perusahaan Induk (KBLI 64210), sejalan dengan aturan transaksi material OJK dan klasifikasi usaha baru KBLI 2025.",
+   "Rapat ini merupakan kelanjutan dari surat koreksi panggilan RUPSLB yang diterbitkan DOOH pada 16 Oktober 2026, yang saat itu memastikan rapat akan digelar 9 November 2026 dengan sembilan agenda yang sama. Dengan hasil ini, seluruh rencana besar yang sebelumnya baru berupa agenda rapat kini resmi menjadi keputusan perseroan yang mengikat."
   ],
   "fotoAdegan": "Wide city avenue at dusk lined with blank digital billboard screens mounted on building facades, traffic passing below",
-  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik DOOH, karena agendanya mengunci rencana utang jumbo dari pemegang saham pengendali sekaligus penerbitan saham baru, dua hal yang sama-sama membebani pemegang saham minoritas. Pinjaman hingga Rp5 triliun dari PT Sinergi Internasional Investama akan menambah utang dan beban bunga di buku DOOH, sementara penerbitan saham baru lewat rights issue plus Waran Seri II menambah jumlah saham beredar sehingga laba per saham, yaitu keuntungan perusahaan yang dibagi rata ke setiap lembar saham, berisiko makin terdilusi setelah dilusi besar dari rights issue sebelumnya. Perubahan nama dan lini usaha lewat revisi anggaran dasar juga menandakan DOOH bergeser dari model bisnis periklanan luar ruang digital yang selama ini dikenal, menambah ketidakpastian arah bisnis ke depan. Yang perlu dipantau adalah hasil pemungutan suara di RUPSLB pada 9 November 2026 pukul 14.00 WIB, khususnya apakah pemegang saham menyetujui pinjaman raksasa dan akuisisi INET tersebut, serta batas waktu pemberian suara elektronik lewat eASY.KSEI yang ditutup pukul 12.00 WIB sehari sebelum rapat.",
-  "sentimen": "negatif"
+  "takeaway": "Hasil RUPSLB ini condong negatif bagi pemegang saham publik DOOH, karena seluruh rencana yang sebelumnya baru berupa agenda, ganti nama total, utang jumbo dari pengendali, dan penerbitan saham raksasa, kini resmi disetujui dan tinggal menunggu eksekusi. Yang paling perlu dicermati adalah rights issue PMHMETD I sebanyak-banyaknya 154,78 miliar saham, hampir 20 kali lipat dari 7,74 miliar saham yang beredar saat ini, sehingga kalau direksi merealisasikan jumlah maksimal itu, laba per saham, yaitu keuntungan perusahaan dibagi jumlah saham yang beredar, berisiko tergerus sangat dalam. Modal dasar perseroan juga dinaikkan dua belas kali lipat menjadi Rp3 triliun untuk menampung saham baru itu, sementara pinjaman afiliasi hingga Rp5 triliun dari pengendali akan menambah utang dan beban bunga di buku perseroan, meski disetujui 99,999% suara independen yang hadir, partisipasi pemegang saham independen pada agenda ini hanya 51,63% dari total saham independen yang berhak suara. Yang perlu dipantau selanjutnya adalah penetapan harga pelaksanaan rights issue dan Waran Seri II oleh Direksi, realisasi pencairan pinjaman Rp5 triliun untuk mendanai akuisisi 29,88% saham INET lewat CNI, serta proses persetujuan Menteri Hukum dan HAM atas perubahan nama menjadi PT Nexora Energy Infrastructure Tbk.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-10T20:07:24",
+    "ringkas": "RUPSLB DOOH 9 November 2026 resmi menyetujui ganti nama jadi PT Nexora Energy Infrastructure, pinjaman Rp5 triliun, rights issue, dan akuisisi INET.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bc3a7c9165_0f20b037ad.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-10T20:07:24",
+  "peristiwa": "rups"
  },
  {
   "slug": "gtbo-mulai-tambang-batu-bara-16-oktober-rupst-molor-ke-november",
@@ -43014,8 +43293,8 @@ var ARTICLES = [
  {
   "slug": "untr-panggil-rupslb-tarik-saham-treasuri-dan-ganti-komisaris",
   "category": "Aksi Korporasi",
-  "title": "UNTR Panggil RUPSLB, Tarik Saham [Treasuri] dan Ganti Komisaris",
-  "deck": "UNTR memanggil RUPSLB pada 9 November 2026 untuk menyetujui penghapusan saham hasil pembelian kembali dan perubahan susunan komisaris.",
+  "title": "RUPSLB UNTR 9 November: [Setuju] Tarik Saham Treasuri, Ganti Komisaris",
+  "deck": "RUPSLB UNTR pada 9 November 2026 menyetujui penghapusan 238,79 juta saham treasuri (6,40% modal) dan mengangkat Irwandy Arif serta Christopher Suprayogie Ganis sebagai komisaris baru.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 Oktober 2026",
   "isoDate": "2026-10-16T10:48:57",
@@ -43025,17 +43304,27 @@ var ARTICLES = [
   "tags": [
    "UNTR",
    "RUPSLB",
-   "buyback saham",
-   "komisaris"
+   "Buyback Saham",
+   "Komisaris"
   ],
   "body": [
-   "PT United Tractors Tbk (UNTR) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan diselenggarakan Senin, 9 November 2026 pukul 09.00 WIB di United Tractors Grand Ballroom, Jl Raya Bekasi Km 22, Cakung Barat, Jakarta Timur. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 15 Oktober 2026 pada penutupan perdagangan berhak hadir atau mengirim kuasa dalam rapat ini. Rapat membawa tiga agenda, yaitu perubahan susunan anggota Dewan Komisaris, persetujuan pengurangan modal dengan menarik kembali saham hasil pembelian kembali perusahaan, dan perubahan Pasal 4 ayat (2) Anggaran Dasar terkait modal ditempatkan dan disetor.",
-   "Soal agenda penarikan saham, perusahaan menjelaskan bahwa buyback dilakukan dalam dua periode, yaitu Juli 2022 sampai Januari 2023, dan Oktober 2025 sampai Juni 2026. Setelah masa pengalihan saham treasuri tersebut berakhir, UNTR berniat menghapus saham-saham itu secara permanen lewat mekanisme pengurangan modal ditempatkan dan disetor perusahaan, sesuai Pasal 21 huruf b juncto Pasal 22 ayat (1) POJK 29/2023 tentang Pembelian Kembali Saham. Konsekuensinya, Pasal 4 ayat (2) Anggaran Dasar yang mencantumkan besaran modal ditempatkan dan disetor juga harus diubah, dan perubahan Anggaran Dasar menurut UU Perseroan Terbatas memang wajib disetujui RUPS. Dokumen tidak menyebut berapa lembar saham yang akan dihapus maupun siapa kandidat komisaris baru, karena rincian itu disebut tersedia dalam bahan rapat dan riwayat hidup calon komisaris di situs resmi perusahaan.",
-   "Bagi pemegang saham yang ingin memberi kuasa, dokumen pemanggilan mencantumkan tenggat penyerahan surat kuasa asli ke Biro Administrasi Efek, PT Raya Saham Registra, paling lambat 6 November 2026 pukul 16.00 WIB, satu hari kerja sebelum rapat. Pemegang saham yang ingin hadir secara elektronik lewat sistem eASY.KSEI juga harus mendaftar paling lambat 6 November 2026 pukul 12.00 WIB. Kapasitas kehadiran fisik di lokasi rapat dibatasi maksimal 300 orang berdasarkan prinsip siapa cepat dia dapat."
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) PT United Tractors Tbk (UNTR) yang digelar Senin, 9 November 2026, resmi menyetujui tiga agenda sekaligus. Rapat dihadiri pemegang saham yang mewakili 2.860.926.704 saham, atau 83,39 persen dari seluruh saham dengan hak suara yang sah, sehingga kuorum atau syarat jumlah kehadiran minimal untuk rapat ini terpenuhi. Pemegang saham menyetujui penghapusan permanen 238.791.200 lembar saham hasil pembelian kembali (buyback), setara 6,40 persen dari modal ditempatkan dan disetor perusahaan, lewat mekanisme pengurangan modal. Rapat juga menyetujui perubahan Pasal 4 ayat (2) Anggaran Dasar sehingga modal ditempatkan dan disetor UNTR kini tercatat 3.491.343.936 saham dengan nilai nominal Rp872.835.984.000, yang dimiliki oleh PT Astra International Tbk sebanyak 2.219.317.358 saham dan publik sebanyak 1.272.026.578 saham.",
+   "Pada agenda perubahan susunan komisaris, rapat menerima pengunduran diri Ignasius Jonan sebagai Komisaris Independen, berlaku efektif sejak 6 Agustus 2026, dan mengangkat Irwandy Arif sebagai Komisaris Independen baru serta Christopher Suprayogie Ganis sebagai Komisaris baru. Keputusan ini disetujui 99,74 persen suara yang hadir. Dengan perubahan ini, Dewan Komisaris UNTR kini berisi sembilan orang, yaitu Presiden Komisaris Frans Kesuma, Komisaris Independen Paulus Bambang Widjanarko, Bruce Malcolm Cox, dan Irwandy Arif, serta Komisaris Djoko Pranoto Santoso, Rudy, Gita Tiffani Boer, Lincoln Lin Feng Pan, dan Christopher Suprayogie Ganis, dengan masa jabatan berlaku sampai RUPS Tahunan 2027. Susunan Direksi tidak berubah.",
+   "Rapat ini merupakan kelanjutan dari pemanggilan RUPSLB yang diumumkan UNTR pada 16 Oktober 2026. Saham yang dihapus berasal dari dua periode pembelian kembali, yaitu Juli 2022 sampai Januari 2023, dan Oktober 2025 sampai Juni 2026. Setelah masa pengalihan saham treasuri tersebut berakhir tanpa dipakai untuk keperluan lain, UNTR memilih menghapusnya secara permanen lewat pengurangan modal, sesuai Pasal 21 huruf b juncto Pasal 22 ayat (1) POJK 29/2023 tentang Pembelian Kembali Saham."
   ],
   "fotoAdegan": "Rows of large yellow heavy equipment machines parked in an industrial storage yard, overcast afternoon light, wide angle",
-  "takeaway": "Laporan ini condong positif bagi pemegang saham, karena menghapus permanen saham hasil pembelian kembali berarti saham itu tidak akan pernah dilepas lagi ke pasar di kemudian hari, sehingga jumlah saham yang beredar justru menyusut tanpa ada uang kas baru yang keluar dari perusahaan. Yang tersentuh di sini adalah jumlah saham beredar dan laba per saham, karena begitu saham yang beredar lebih sedikit, laba bersih perusahaan yang sama akan terbagi untuk saham yang lebih sedikit sehingga porsi laba tiap saham cenderung naik, sementara ekuitas tidak banyak bergeser karena dana pembelian kembali sudah keluar dari kas sejak proses buyback berlangsung. Yang perlu dipantau berikutnya adalah hasil pemungutan suara pada RUPSLB 9 November 2026, termasuk angka pasti saham yang akhirnya ditarik dan nama-nama komisaris baru yang akan disahkan, serta tenggat penyerahan kuasa pada 6 November 2026 pukul 16.00 WIB bagi pemegang saham yang tidak bisa hadir langsung.",
-  "sentimen": "positif"
+  "takeaway": "Hasil RUPSLB ini condong positif bagi pemegang saham, karena memastikan 238,79 juta saham hasil buyback benar-benar hilang dari pasar, bukan sekadar rencana seperti pada pengumuman pemanggilan sebelumnya, sementara pergantian komisaris berjalan mulus tanpa gejolak suara. Yang tersentuh adalah jumlah saham beredar dan laba per saham: modal disetor UNTR berkurang 238,79 juta saham, atau 6,40 persen, menjadi 3.491.343.936 saham, sehingga laba bersih yang sama ke depannya akan terbagi untuk saham yang lebih sedikit dan berpotensi mendongkrak laba per saham, sementara ekuitas tidak banyak berubah karena uang kas untuk buyback sudah keluar sejak proses pembelian berlangsung dulu. Masuknya Irwandy Arif dan Christopher Suprayogie Ganis menggantikan posisi yang ditinggalkan Ignasius Jonan sejak Agustus 2026 juga tidak mengubah arah kebijakan karena disetujui lebih dari 99 persen suara yang hadir. Yang perlu dipantau berikutnya adalah proses notarisasi dan pemberitahuan resmi perubahan Anggaran Dasar ini ke Menteri Hukum, yang menjadi penanda sahnya pengurangan modal tersebut secara hukum.",
+  "sentimen": "positif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-10T17:00:18",
+    "ringkas": "RUPSLB UNTR menyetujui penarikan 238,79 juta saham treasuri (6,40% modal) dan pengangkatan dua komisaris baru pada 9 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1442fe7ac5_f18967cdbd.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-10T17:00:18",
+  "peristiwa": "rups"
  },
  {
   "slug": "harga-emas-antam-naik-ke-rp2-565-000-per-gram",

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penjelasan-bursa-brrc-laba-bruto-kuartal-iii-rugi-kas-rp70-juta",
+  "category": "Aksi Korporasi",
+  "title": "Penjelasan Bursa BRRC: Laba Bruto Kuartal III [Rugi], Kas Rp70 Juta",
+  "deck": "BRRC menjelaskan ke BEI bahwa rugi bruto kuartal III 2026 dipicu lonjakan harga tepung terigu, sementara kas tergerus hingga tersisa Rp70,54 juta meski ada dana IPO dan waran.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRRC",
+   "Permintaan Penjelasan Bursa",
+   "Laporan Keuangan",
+   "Likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d4d8f2cba0_d807705e77.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cnaf-direktur-iris-savitri-mundur-dari-jajaran-direksi",
   "category": "Aksi Korporasi",
   "title": "CNAF: Direktur Iris Savitri [Mundur] dari Jajaran Direksi",
@@ -343,6 +359,22 @@ var ARTICLES = [
    "pembangkit listrik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/93f810f0b4_7156c51994.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-tamu-18-desember-2026-jadwal-dps-per-25-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB TAMU 18 Desember 2026: [Jadwal] DPS per 25 November",
+  "deck": "PT Pelayaran Tamarin Samudra Tbk (TAMU) akan menggelar RUPST dan RUPSLB pada 18 Desember 2026. Pemegang saham yang tercatat per 25 November 2026 berhak hadir dan bersuara.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAMU",
+   "RUPSLB",
+   "RUPST",
+   "Pelayaran Tamarin Samudra"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/974caea39f_429e1dd408.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -886,6 +918,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rights-issue-ultj-rp2-150-saham-kendali-ke-frieslandcampina",
+  "category": "Aksi Korporasi",
+  "title": "Rights Issue ULTJ Rp2.150/Saham: [Kendali] ke FrieslandCampina",
+  "deck": "ULTJ mematok harga rights issue Rp2.150/saham, rasio 15.200:11.517, dana hingga Rp16,94 triliun, dan kendali beralih ke FrieslandCampina.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ULTJ",
+   "rights issue",
+   "Frisian Flag",
+   "FrieslandCampina"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/834499b59b_bcb15b994d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "arko-jelaskan-lonjakan-arus-kas-operasi-ke-bursa",
   "category": "Aksi Korporasi",
   "title": "ARKO Jelaskan Lonjakan [Arus Kas] Operasi ke Bursa",
@@ -899,6 +947,22 @@ var ARTICLES = [
    "PLTM Tomoni"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3b6170406_3006ba58e3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rans-bantah-konflik-kepentingan-kontrak-kementerian-klarifikasi",
+  "category": "Aksi Korporasi",
+  "title": "RANS Bantah Konflik Kepentingan Kontrak Kementerian [Klarifikasi]",
+  "deck": "RANS merinci kontrak jasa influencer Rp14,7 miliar dengan Kemenbud dan KKP, serta membantah ada konflik kepentingan terkait posisi Raffi Ahmad sebagai Utusan Khusus Presiden.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RANS",
+   "konflik kepentingan",
+   "ICW",
+   "jasa influencer"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a5c9d536a8_3fe792df5c.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -931,6 +995,22 @@ var ARTICLES = [
    "arus kas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110211144-65708-0/FinancialStatement-2026-III-ITMG.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bipi-indotambang-perkasa-tambah-1-juta-saham-jadi-20-7",
+  "category": "Aksi Korporasi",
+  "title": "BIPI: Indotambang Perkasa [Tambah] 1 Juta Saham, Jadi 20,7%",
+  "deck": "Afiliasi pengendali PT Indotambang Perkasa menambah 1 juta saham BIPI pada Oktober 2026, sementara saham publik berkurang setara jumlah itu.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPI",
+   "Astrindo Nusantara Infrastruktur",
+   "pemegang saham",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f19582841_33547b1658.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1242,6 +1322,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bnga-suntik-modal-slcapital-rp365-miliar-via-inbreng-npl",
+  "category": "Aksi Korporasi",
+  "title": "BNGA Suntik Modal SLCapital Rp365 Miliar via [Inbreng] NPL",
+  "deck": "BNGA meningkatkan modal di anak usaha SLCapital dengan memindahkan portofolio kredit bermasalah Rp325,778 miliar dan aset kantor Rp39,5 miliar, sehingga kepemilikannya naik menjadi 99,9998%.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNGA",
+   "CIMB Niaga",
+   "SLCapital",
+   "kredit macet"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b992a55f4f_f5dd13cc7f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jecx-liabilitas-turun-39-9-usai-lunasi-utang-bca-rp175-m",
+  "category": "Aksi Korporasi",
+  "title": "JECX: Liabilitas Turun 39,9% usai [Lunasi] Utang BCA Rp175 M",
+  "deck": "Total liabilitas JECX turun 39,9% menjadi Rp384,98 miliar per September 2026, didorong pelunasan dipercepat utang bank ke BCA senilai Rp175 miliar dari dana IPO.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JECX",
+   "liabilitas",
+   "pelunasan utang",
+   "IPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/686262772e_f2281f544d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bcic-jadwalkan-rupslb-pada-17-desember-2026",
   "category": "Aksi Korporasi",
   "title": "BCIC Jadwalkan [RUPSLB] pada 17 Desember 2026",
@@ -1422,6 +1534,22 @@ var ARTICLES = [
    "sewa pembiayaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110162401-65784-0/FinancialStatement-2026-II-JAYA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "srtg-rp17-5-triliun-beli-saham-aadi-adro-dari-asi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "SRTG Rp17,5 Triliun: Beli Saham AADI-ADRO dari ASI [Afiliasi]",
+  "deck": "SRTG membeli 838,46 juta saham AADI dan 3,68 miliar saham ADRO milik ASI senilai total Rp17,5 triliun, transaksi afiliasi penyederhanaan struktur kepemilikan.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "AADI",
+   "ADRO",
+   "transaksi afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf0ba7b34c_06993673d1.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6336,134 +6464,6 @@ var ARTICLES = [
    "dividen tunai"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d4975bdc9_d3fe23dc27.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rony-balik-untung-kuartal-iii-arus-kas-operasi-justru-negatif",
-  "category": "Aksi Korporasi",
-  "title": "RONY Balik Untung Kuartal III, Arus Kas Operasi Justru [Negatif]",
-  "deck": "Laba bersih RONY tembus Rp1,85 miliar pada sembilan bulan 2026 berkat lonjakan jasa truk listrik dan gasifikasi batu bara, tapi kas dari operasi minus dan utang ke induk usaha di luar negeri melonjak.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RONY",
-   "laporan keuangan",
-   "arus kas",
-   "pinjaman pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105153429-65742-0/FinancialStatement-2026-III-RONY.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kren-liabilitas-naik-26-ekuitas-induk-negatif",
-  "category": "Aksi Korporasi",
-  "title": "KREN: Liabilitas Naik 26%, Ekuitas Induk [Negatif]",
-  "deck": "Total liabilitas KREN naik 26,14 persen menjadi Rp956,2 miliar pada September 2026, sementara ekuitas yang jadi hak pemegang saham induk berbalik negatif Rp1,03 miliar.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KREN",
-   "laporan keuangan interim",
-   "liabilitas",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105152615-64918-0/FinancialStatement-2026-III-KREN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmas-terima-pinjaman-us-10-juta-dari-pemegang-saham-kbank",
-  "category": "Aksi Korporasi",
-  "title": "BMAS Terima [Pinjaman] US$10 Juta dari Pemegang Saham KBank",
-  "deck": "Bank Kasikorn Indonesia memperoleh fasilitas pinjaman bilateral US$10 juta dari induk usahanya di Thailand untuk menopang likuiditas jangka pendek dan penyaluran kredit.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "Bank Kasikorn Indonesia",
-   "pinjaman afiliasi",
-   "KBank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b5a4c6b64_1e00ea4c98.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-rights-issue-rp59-5-m-lewat-inbreng-saham-tambang",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Rights Issue Rp59,5 M Lewat [Inbreng] Saham Tambang",
-  "deck": "Leyand International menawarkan saham baru lewat hak memesan efek terlebih dahulu senilai maksimal Rp59,5 miliar, dibayar lewat suntikan 87,5% saham tambang BSS oleh pemegang saham pengendali JSI Sinergi Mas.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "rights issue",
-   "akuisisi tambang",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/280315e5a8_684037eb76.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gjtl-jelaskan-lonjakan-liabilitas-21-9-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "GJTL Jelaskan Lonjakan [Liabilitas] 21,9% ke Bursa",
-  "deck": "Liabilitas Gajah Tunggal naik Rp2,45 triliun dalam sembilan bulan, didorong kenaikan utang usaha dan utang bank jangka pendek akibat harga bahan baku dan pelemahan rupiah.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GJTL",
-   "Gajah Tunggal",
-   "laporan keuangan",
-   "utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105135932-65738-0/FinancialStatement-2026-III-GJTL.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekonomi-ri-tumbuh-5-47-di-triwulan-iii-2026",
-  "category": "Makroekonomi",
-  "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
-  "deck": "BPS catat pertumbuhan ekonomi naik 0,18 poin dari triwulan sebelumnya dan jadi yang tertinggi kedua dalam setahun terakhir.",
-  "date": "5 November 2026",
-  "image": "assets/img/pasar-ikan.jpg",
-  "tags": [
-   "ekonomi",
-   "bps",
-   "pertumbuhan ekonomi",
-   "pdb"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "truk-pukul-rata-kanan-tender-saham-incar-jadi-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "TRUK: Pukul Rata Kanan Tender Saham, Incar Jadi [Pengendali]",
-  "deck": "PT Pukul Rata Kanan menawar beli maksimal 65,25 juta saham TRUK atau 15 persen senilai Rp740 per saham, untuk menambah kepemilikannya menjadi 30 persen dan menjadi pengendali baru.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUK",
-   "tender offer",
-   "pengendali saham",
-   "Pukul Rata Kanan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b5e477962e_6f37f7874f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bima-dirut-dan-wadirut-primarindo-mundur-bersamaan",
-  "category": "Aksi Korporasi",
-  "title": "BIMA: Dirut dan Wadirut Primarindo [Mundur] Bersamaan",
-  "deck": "Direktur Utama Bambang Setiyono dan Wakil Direktur Utama David Jahja mengajukan pengunduran diri efektif 1 Januari 2027, menunggu keputusan RUPS.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIMA",
-   "Primarindo Asia Infrastructure",
-   "pergantian direksi",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e25cead8b0_6120a8e135.pdf",
   "sourceLabel": "IDX"
  }
 ];

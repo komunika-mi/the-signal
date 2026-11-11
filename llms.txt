@@ -40,6 +40,7 @@ Aturan redaksi yang relevan kalau Anda mengutip situs ini:
 - [Agenda](https://the-signal.id/agenda.html): kalender maju berisi tanggal penentu yang disebut dokumen resmi, misalnya RUPS, tenggat obligasi, dan jadwal rilis data.
 - [Rapor Sinyal](https://the-signal.id/rapor.html): rekam jejak pembacaan arah kami sendiri, termasuk yang meleset.
 - [Sinyal per emiten](https://the-signal.id/emiten.html): riwayat aksi korporasi per kode saham.
+- [Peristiwa korporasi](https://the-signal.id/peristiwa.html): rangkuman per RUPS, right issue, buyback, dan dividen, dengan jadwal dan dokumen resminya.
 - [Tema bersambung](https://the-signal.id/tema.html): kumpulan artikel yang menyambung dalam satu isu.
 
 ## Mesin baca

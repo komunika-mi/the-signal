@@ -44,7 +44,7 @@ on:
         description: "Berapa laporan diperiksa"
         default: "25"
       mirror_cadangan:
-        description: "Paksa apt memakai mirror cadangan archive.ubuntu.com (untuk menguji jalur cadangan)"
+        description: "Paksa apt memakai mirror cadangan kernel.org dan MIT (untuk menguji jalur cadangan)"
         type: boolean
         default: false
 
@@ -133,14 +133,23 @@ jobs:
       # tapi tiap kali terjadi, satu putaran hilang utuh dan pemilik dapat
       # email gagal.
       #
-      # Jadi mirror bawaan diuji dulu dengan pagar 10 detik. Kalau diam, sumber
-      # paket dialihkan ke archive.ubuntu.com milik Canonical SEBELUM memasang
-      # apa pun, supaya jatah 10 menit tidak habis menunggu mirror yang mati.
-      # Pengalihan itu butuh apt-get update (daftar paket disimpan per host),
-      # dan update hanya terjadi di jalur cadangan ini; jalur biasa tetap
-      # seperti dicatat di atas. Update yang tidak bersih (misalnya repo pihak
-      # ketiga di runner rewel) tidak menghentikan langkah, pemasangannya yang
-      # jadi penentu.
+      # Runner membaca daftar mirror dari /etc/apt/apt-mirrors.txt (sumbernya
+      # mirror+file:), isinya azure.archive, archive, dan security, SEMUANYA
+      # di bawah ubuntu.com. 11 November ketiganya diam bersamaan dari runner,
+      # padahal packages.microsoft.com di runner yang sama lancar dan dari
+      # luar ketiga server itu menjawab 200. Jadi yang putus jalur runner ke
+      # ubuntu.com, dan cadangan yang masih di ubuntu.com tidak menolong
+      # (percobaan pertama perbaikan ini membuktikannya).
+      #
+      # Jalur cadangan: mirror bawaan diuji dulu dengan pagar 10 detik. Kalau
+      # diam, daftar mirror ditulis ulang dengan mirror resmi DI LUAR
+      # ubuntu.com di depan (kernel.org lalu MIT; keduanya diperiksa memuat
+      # noble, -updates, -security, dan versi paket yang persis sama),
+      # archive.ubuntu.com di belakang, SEBELUM memasang apa pun. Itu butuh
+      # apt-get update, dan update hanya terjadi di jalur ini; jalur biasa
+      # tetap seperti dicatat di atas. Update yang tidak bersih (misalnya repo
+      # pihak ketiga di runner rewel) tidak menghentikan langkah, pemasangannya
+      # yang jadi penentu.
       #
       # Jalur cadangan bisa dipaksa dari tombol Run workflow (mirror_cadangan)
       # untuk mengujinya tanpa menunggu mirror bawaan mati sungguhan.
@@ -153,9 +162,13 @@ jobs:
           PAKET="poppler-utils tesseract-ocr tesseract-ocr-ind"
           KODE=$(. /etc/os-release && echo "$VERSION_CODENAME")
           if [ "$PAKSA_CADANGAN" = "true" ] || ! curl -fsS -o /dev/null --max-time 10 "http://azure.archive.ubuntu.com/ubuntu/dists/$KODE/Release"; then
-            echo "::warning::Mirror azure.archive.ubuntu.com dilewati (tidak menjawab atau dipaksa); paket diambil dari archive.ubuntu.com"
+            echo "::warning::Mirror ubuntu.com dilewati (tidak menjawab atau dipaksa); paket diambil dari mirrors.edge.kernel.org / mirrors.mit.edu"
+            printf '%s\tpriority:1\n%s\tpriority:2\n%s\tpriority:3\n' \
+              https://mirrors.edge.kernel.org/ubuntu/ https://mirrors.mit.edu/ubuntu/ https://archive.ubuntu.com/ubuntu/ \
+              | sudo tee /etc/apt/apt-mirrors.txt > /dev/null
+            # Image yang menulis host langsung di berkas sumber diarahkan ke daftar yang sama.
             for f in /etc/apt/sources.list /etc/apt/sources.list.d/*; do
-              if [ -f "$f" ]; then sudo sed -i 's#azure\.archive\.ubuntu\.com#archive.ubuntu.com#g' "$f"; fi
+              if [ -f "$f" ]; then sudo sed -i -E 's#https?://(azure\.archive|archive|security)\.ubuntu\.com/ubuntu/?#mirror+file:/etc/apt/apt-mirrors.txt#g' "$f"; fi
             done
             sudo apt-get update -q $OPS || echo "::warning::apt-get update tidak bersih, tetap mencoba memasang"
           fi

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-tetapkan-empat-agenda-digitalisasi-ekonomi-dan-keuangan",
+  "category": "Teknologi",
+  "title": "Pemerintah Tetapkan Empat Agenda [Digitalisasi] Ekonomi dan Keuangan",
+  "deck": "Pemerintah menetapkan empat agenda digitalisasi ekonomi, dari efisiensi belanja negara lewat e-katalog hingga adopsi AI di sektor keuangan, saat ekonomi digital mendekati US$100 miliar.",
+  "date": "11 November 2026",
+  "image": "assets/img/server-data.jpg",
+  "tags": [
+   "transformasi digital",
+   "AI",
+   "e-katalog",
+   "QRIS"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7210/wamenko-dradjad-transformasi-digital-harus-lebih-tepat-sasaran-efisien-dan-memiliki-akses-luas",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "mtfn-panggil-rupst-kedua-usai-kuorum-pertama-gagal",
   "category": "Aksi Korporasi",
   "title": "MTFN Panggil RUPST Kedua usai [Kuorum] Pertama Gagal",
@@ -19,6 +35,57 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/701ea495ce_ec2560b5f6.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "trading-vs-investasi-beda-waktu-biaya-dan-risiko",
+  "category": "Pasar Modal",
+  "title": "Trading vs Investasi: Beda Waktu, Biaya, dan [Risiko]",
+  "deck": "Trading dan investasi sering dikira sama, padahal beda horizon waktu, biaya, dan risiko, penting diketahui investor baru saat IHSG anjlok 34,74 persen pada semester satu 2026.",
+  "date": "11 November 2026",
+  "image": "assets/img/trading-vs-investasi-beda-waktu-biaya-dan-risiko.jpg",
+  "imageV": "mwbq4k92",
+  "tags": [
+   "trading",
+   "investasi",
+   "IHSG",
+   "OJK"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477763-apa-itu-trading-dan-apa-bedanya-dengan-investasi-ini-perbedaan-horizon-waktu-biaya-dan-risiko"
+ },
+ {
+  "slug": "peserta-jkn-tembus-285-7-juta-klaim-rp1-279-triliun",
+  "category": "Bisnis",
+  "title": "Peserta JKN Tembus [285,7] Juta, Klaim Rp1.279 Triliun",
+  "deck": "BPJS Kesehatan mencatat lebih dari 285,7 juta peserta JKN per awal November 2026, dengan total klaim ke rumah sakit tembus Rp1.279 triliun sejak 2014 lewat iuran gotong royong peserta.",
+  "date": "11 November 2026",
+  "image": "assets/img/peserta-jkn-tembus-285-7-juta-klaim-rp1-279-triliun.jpg",
+  "imageV": "mwbq4kq9",
+  "tags": [
+   "JKN",
+   "BPJS Kesehatan",
+   "gotong royong",
+   "layanan kesehatan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477746-program-jaminan-kesehatan-nasional-jadi-pahlawan-bagi-sesama"
+ },
+ {
+  "slug": "pnm-luncurkan-kredit-perempuan-prasejahtera-8-di-batam",
+  "category": "UMKM",
+  "title": "PNM Luncurkan Kredit Perempuan Prasejahtera [8%] di Batam",
+  "deck": "PNM meluncurkan kredit berbunga 8 persen bagi nasabah Mekaar di Batam untuk memperluas akses modal usaha ultra mikro perempuan prasejahtera.",
+  "date": "11 November 2026",
+  "image": "assets/img/pnm-luncurkan-kredit-perempuan-prasejahtera-8-di-batam.jpg",
+  "imageV": "mwbq4l5w",
+  "tags": [
+   "PNM",
+   "KPPS",
+   "Mekaar",
+   "Batam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477742-pnm-siapkan-kredit-perempuan-prasejahtera-8-perluas-peluang-usaha-perempuan-di-batam"
  },
  {
   "slug": "harga-emas-antam-turun-rp30-ribu-jadi-rp2-53-juta",
@@ -6394,72 +6461,6 @@ var ARTICLES = [
    "Maybank Sekuritas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bb6f47d434_b543a45941.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-rilis-10-waran-terstruktur-baru-tercatat-9-november",
-  "category": "Aksi Korporasi",
-  "title": "ZP Rilis 10 Waran [Terstruktur] Baru, Tercatat 9 November",
-  "deck": "Maybank Sekuritas menerbitkan 10 waran terstruktur call baru berbasis ACES, ADMR, ANTM, BBNI, BBTN, BFIN, BMRI, ERAA, ESSA, dan HEAL, mulai tercatat di BEI 9 November 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "waran terstruktur",
-   "Maybank Sekuritas",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f4c4ea1dc_b4e1591e69.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smar-bagikan-dividen-interim-rp490-saham-total-rp1-41-triliun",
-  "category": "Aksi Korporasi",
-  "title": "SMAR Bagikan Dividen Interim [Rp490]/Saham, Total Rp1,41 Triliun",
-  "deck": "Direksi SMAR menetapkan dividen interim tahun buku 2026 sebesar Rp490 per saham, total Rp1,41 triliun, dibayarkan 26 November 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMAR",
-   "dividen interim",
-   "agribisnis",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aebb8de4b7_ed6a22dca6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "djp-tawarkan-potongan-sanksi-pajak-100-hingga-akhir-2026",
-  "category": "Makroekonomi",
-  "title": "DJP Tawarkan Potongan Sanksi Pajak [100]% hingga Akhir 2026",
-  "deck": "Pemerintah membuka keringanan sanksi administratif pajak hingga 100 persen bagi wajib pajak yang menuntaskan kewajibannya sampai akhir 2026, sebelum besarannya turun bertahap pada 2027.",
-  "date": "4 November 2026",
-  "image": "assets/img/djp-tawarkan-potongan-sanksi-pajak-100-hingga-akhir-2026.jpg",
-  "imageV": "mw1yldw3",
-  "tags": [
-   "pajak",
-   "sanksi pajak",
-   "DJP",
-   "Papua"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/sanksi-pajak-bisa-dikurangi-hingga-100-djp-papabrama-ajak-wajib-pajak-manfaatkan",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "ptsp-realisasi-17-gerai-baru-laba-tumbuh-12-ke-rp15-48-m",
-  "category": "Aksi Korporasi",
-  "title": "PTSP Realisasi 17 Gerai Baru, [Laba] Tumbuh 12% ke Rp15,48 M",
-  "deck": "Dalam public expose insidentil, manajemen CFC melaporkan laba bersih kuartal III 2026 naik 12 persen menjadi Rp15,48 miliar, dengan realisasi 17 dari target 20 gerai baru.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTSP",
-   "CFC",
-   "public expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/50fde83d7c_b444487cbc.pdf",
   "sourceLabel": "IDX"
  }
 ];

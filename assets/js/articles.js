@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-tetapkan-empat-agenda-digitalisasi-ekonomi-dan-keuangan",
+  "category": "Teknologi",
+  "title": "Pemerintah Tetapkan Empat Agenda [Digitalisasi] Ekonomi dan Keuangan",
+  "deck": "Pemerintah menetapkan empat agenda digitalisasi ekonomi, dari efisiensi belanja negara lewat e-katalog hingga adopsi AI di sektor keuangan, saat ekonomi digital mendekati US$100 miliar.",
+  "image": "assets/img/server-data.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T06:09:56.040Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7210/wamenko-dradjad-transformasi-digital-harus-lebih-tepat-sasaran-efisien-dan-memiliki-akses-luas",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "transformasi digital",
+   "AI",
+   "e-katalog",
+   "QRIS"
+  ],
+  "body": [
+   "Pemerintah menetapkan empat agenda kebijakan untuk mempercepat transformasi digital nasional, mulai dari digitalisasi keuangan daerah, efisiensi belanja negara, pemanfaatan kecerdasan artifisial (AI) di sektor keuangan, hingga pengembangan talenta digital. Wakil Menteri Koordinator Bidang Perekonomian Dradjad Hari Wibowo menyampaikan hal ini dalam seminar daring Perbanas Institute, Selasa (10/11). Agenda ini penting karena menyangkut bagaimana belanja pemerintah, layanan publik, dan sektor keuangan beradaptasi dengan penggunaan data dan AI yang terus meningkat.",
+   "Pemerintah mencatat ekonomi Indonesia tumbuh 5,47 persen pada kuartal III 2026, disebut sebagai salah satu yang tertinggi di antara negara G20. Nilai transaksi ekonomi digital diperkirakan mendekati US$100 miliar pada 2025, didorong oleh e-commerce, layanan keuangan digital, dan transaksi video commerce yang disebut terbesar di Asia Tenggara. Dari sisi adopsi, sistem pembayaran QRIS sudah dipakai sekitar 66 juta pengguna dan hampir 45 juta pedagang per Juni 2026, sementara 518 dari 546 pemerintah daerah atau sekitar 95 persen sudah memiliki ekosistem digital. Survei Otoritas Jasa Keuangan (OJK) juga mencatat indeks inklusi keuangan mencapai 93,61 persen dan tingkat literasi keuangan masyarakat 69,57 persen.",
+   "Dari empat agenda yang ditetapkan, salah satu yang paling konkret adalah efisiensi belanja negara melalui Kartu Kredit Indonesia (KKI) dengan fitur pembayaran daring di sistem e-katalog, yang sudah berjalan sejak Oktober 2026 dan kini diperluas agar terhubung dengan marketplace dan pelaku UMKM. Agenda lain mencakup optimalisasi AI di bank digital serta pengembangan talenta digital lewat program Digital Talent Scholarship. Di tingkat internasional, Indonesia memosisikan diri sebagai salah satu pendiri World Artificial Intelligence Cooperation Organization (WAICO) dan aktif dalam ASEAN Digital Economy Framework Agreement (DEFA).",
+   "Dradjad menyebut manfaat transformasi digital perlu bekerja pada tiga lapis, yakni perlindungan dasar untuk menjaga daya beli, perluasan akses keuangan masyarakat, serta dukungan permodalan agar UMKM bisa naik kelas dan meningkatkan pendapatan."
+  ],
+  "fotoAdegan": "A small vendor accepting a digital payment via smartphone at a crowded traditional market in Indonesia, morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Dari empat agenda yang disebut, yang paling konkret justru soal belanja negara: penggunaan Kartu Kredit Indonesia dengan pembayaran daring di e-katalog sudah berjalan sejak Oktober 2026, dan kini diperluas ke transaksi dengan marketplace serta UMKM. Artinya proses pembelian barang dan jasa oleh instansi pemerintah makin banyak berpindah ke sistem digital yang bisa dilacak, bukan sekadar wacana seminar. Pihak yang paling terdampak adalah pelaku UMKM yang berjualan di marketplace rekanan pemerintah, karena mereka berpotensi mendapat akses baru ke belanja negara kalau sistem ini benar-benar tersambung luas. Arah besarnya, pemerintah mendorong digitalisasi tidak hanya di sisi konsumen seperti QRIS, tapi juga di sisi belanja pemerintah sendiri, sejalan dengan arahan efisiensi anggaran yang disampaikan Presiden Prabowo Subianto pada rapat paripurna DPR Agustus 2026. Yang akan menunjukkan apakah ini meluas atau sekadar uji coba terbatas adalah data jumlah instansi dan UMKM yang benar-benar bertransaksi lewat KKI di e-katalog pada laporan berikutnya.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "mtfn-panggil-rupst-kedua-usai-kuorum-pertama-gagal",
   "category": "Aksi Korporasi",
   "title": "MTFN Panggil RUPST Kedua usai [Kuorum] Pertama Gagal",
@@ -27,6 +55,85 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty chairs facing a podium in a modern corporate meeting room, soft morning light through tall glass windows, Jakarta office building.",
   "takeaway": "Saya menilai panggilan ini netral bagi fundamental MTFN. Gagalnya kuorum pada rapat pertama adalah hal prosedural yang diatur dalam aturan RUPS, karena rapat kedua memang punya ambang kuorum yang lebih longgar, jadi bukan indikasi kuat soal krisis tata kelola, meski tetap menunjukkan rendahnya kehadiran pemegang saham pada percobaan pertama. Agenda yang paling menyentuh kepentingan pemegang saham adalah keputusan tidak membagikan dividen dari laba tahun buku 2025, yang berarti arus kas ke kantong pemegang saham tahun ini nihil, serta rencana memperpanjang masa jabatan direksi dan komisaris yang sama. Yang perlu dipantau adalah apakah RUPST kedua pada 18 November 2026 akhirnya mencapai kuorum dan menyetujui seluruh agenda tersebut, termasuk siapa kantor akuntan publik yang nantinya ditunjuk Dewan Komisaris untuk mengaudit buku 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "trading-vs-investasi-beda-waktu-biaya-dan-risiko",
+  "category": "Pasar Modal",
+  "title": "Trading vs Investasi: Beda Waktu, Biaya, dan [Risiko]",
+  "deck": "Trading dan investasi sering dikira sama, padahal beda horizon waktu, biaya, dan risiko, penting diketahui investor baru saat IHSG anjlok 34,74 persen pada semester satu 2026.",
+  "image": "assets/img/trading-vs-investasi-beda-waktu-biaya-dan-risiko.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T12:09:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477763-apa-itu-trading-dan-apa-bedanya-dengan-investasi-ini-perbedaan-horizon-waktu-biaya-dan-risiko",
+  "tags": [
+   "trading",
+   "investasi",
+   "IHSG",
+   "OJK"
+  ],
+  "body": [
+   "Pasar modal Indonesia mengalami tekanan berat pada semester pertama 2026. Indeks Harga Saham Gabungan (IHSG) tercatat turun 34,74 persen sepanjang Januari hingga akhir Juni 2026, salah satu koreksi terdalam dalam beberapa tahun terakhir. Namun koreksi tajam ini tidak membuat masyarakat menjauh dari pasar keuangan, karena data Otoritas Jasa Keuangan (OJK) justru mencatat jumlah investor pasar modal naik menjadi 28,96 juta orang pada periode yang sama.",
+   "Fenomena ini penting karena menunjukkan makin banyak orang, termasuk pemula, yang masuk ke pasar keuangan justru di tengah situasi yang berisiko. Banyak dari mereka belum memahami perbedaan mendasar antara trading dan investasi, dua aktivitas yang sama-sama bertujuan mencari untung dari jual beli aset tapi berjalan dengan cara berbeda. Trading adalah membeli dan menjual aset dalam waktu singkat untuk memanfaatkan perubahan harga, sementara investasi adalah menempatkan dana dalam jangka panjang dengan harapan nilai asetnya tumbuh.",
+   "Perbedaan paling terasa ada pada jangka waktu memegang aset. Dalam trading valuta asing misalnya, seorang trader bisa membuka dan menutup posisi pada pasangan rupiah terhadap dolar Amerika Serikat hanya dalam hitungan menit, atau menahannya beberapa hari sambil menunggu keputusan suku bunga Bank Indonesia. Fokus trader ada pada selisih harga jual dan beli dalam waktu dekat, bukan pada kinerja perusahaan atau prospek ekonomi lima tahun mendatang seperti yang biasa dipertimbangkan investor jangka panjang."
+  ],
+  "fotoAdegan": "Office worker sitting at a desk with blurred multiple monitors in the background, city skyline through a window, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/01/07/695e3b8cda0a5-ilustrasi-trading_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data OJK yang dikutip menunjukkan jumlah investor pasar modal naik ke 28,96 juta orang pada semester pertama 2026, justru saat IHSG anjlok 34,74 persen dalam periode yang sama. Pola ini terutama menyasar investor baru, termasuk yang baru belajar trading valuta asing, yang berisiko salah menilai horizon waktu dan tingkat risiko instrumen yang mereka pegang. Berita ini belum menjelaskan apakah lonjakan jumlah investor itu berbarengan dengan kerugian riil atau justru pembelian saat harga rendah, jadi arah sebenarnya dari minat investor ini belum bisa dibaca dari data yang ada. Yang masih dibutuhkan adalah statistik pasar modal OJK untuk semester kedua 2026, untuk melihat apakah pertumbuhan jumlah investor berlanjut seiring pergerakan IHSG atau justru melambat.",
+  "imageV": "mwbq4k92"
+ },
+ {
+  "slug": "peserta-jkn-tembus-285-7-juta-klaim-rp1-279-triliun",
+  "category": "Bisnis",
+  "title": "Peserta JKN Tembus [285,7] Juta, Klaim Rp1.279 Triliun",
+  "deck": "BPJS Kesehatan mencatat lebih dari 285,7 juta peserta JKN per awal November 2026, dengan total klaim ke rumah sakit tembus Rp1.279 triliun sejak 2014 lewat iuran gotong royong peserta.",
+  "image": "assets/img/peserta-jkn-tembus-285-7-juta-klaim-rp1-279-triliun.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T10:20:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477746-program-jaminan-kesehatan-nasional-jadi-pahlawan-bagi-sesama",
+  "tags": [
+   "JKN",
+   "BPJS Kesehatan",
+   "gotong royong",
+   "layanan kesehatan"
+  ],
+  "body": [
+   "BPJS Kesehatan menegaskan bahwa prinsip gotong royong dalam Program Jaminan Kesehatan Nasional (JKN) menjadi bentuk kepedulian sosial yang nyata, di mana iuran rutin peserta dipakai bersama untuk membiayai pengobatan peserta lain yang sedang membutuhkan. Kepala Humas BPJS Kesehatan, Rizzky Anugerah, menyebut setiap peserta berperan dalam ekosistem saling bantu ini, karena iuran yang dibayarkan sesuai aturan ikut menanggung biaya layanan kesehatan orang lain. Hal ini penting bagi pembaca karena menyangkut langsung uang yang disetor setiap bulan oleh peserta JKN dan ke mana uang itu benar-benar mengalir.",
+   "Per 1 November 2026, jumlah peserta JKN yang terdaftar sudah melampaui 285,7 juta orang. Sepanjang 2025 saja, program ini mencatat lebih dari 725,3 juta pemanfaatan layanan kesehatan, atau rata-rata lebih dari 1,9 juta pemanfaatan setiap hari. Sejak 2014 hingga 2025, BPJS Kesehatan telah membayarkan lebih dari Rp1.279 triliun kepada rumah sakit, angka yang menggambarkan besarnya ketergantungan masyarakat pada skema ini sekaligus skala dana yang dikelola lembaga tersebut.",
+   "Rizzky menambahkan bahwa gotong royong dalam JKN tidak berhenti pada pembiayaan pengobatan saat peserta sakit. Dana yang terkumpul juga dipakai untuk kegiatan promotif dan preventif, seperti pemeriksaan rutin dan skrining riwayat kesehatan, agar peserta bisa mendeteksi risiko sejak dini sebelum jatuh sakit. Dengan begitu, menurutnya, JKN diharapkan tidak hanya menjadi jaring pengaman saat sakit, tetapi juga pendorong masyarakat untuk lebih sadar menjaga kesehatan sehari-hari."
+  ],
+  "fotoAdegan": "A quiet hospital waiting area in Indonesia with patients seated in rows of chairs, a nurse walking past with a folder, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/11/6af3dbea2bf0d-pahlawan-bagi-sesama-gotong-royong-iuran-jkn_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pernyataan ini tidak membawa perubahan kebijakan, besaran iuran, atau skema pembiayaan JKN, melainkan sekadar pembaruan angka kepesertaan dan klaim yang disampaikan bertepatan dengan peringatan Hari Pahlawan. Yang terdampak langsung adalah seluruh 285,7 juta peserta JKN, sebab iuran merekalah yang menjadi sumber dana di balik klaim Rp1.279 triliun yang sudah dibayarkan ke rumah sakit sejak 2014. Yang belum terlihat dari rilis ini adalah kondisi keuangan program secara keseluruhan, misalnya apakah iuran yang terkumpul saat ini masih cukup menutup klaim yang terus bertambah setiap tahun atau justru menyisakan selisih yang harus ditambal dari sumber lain. Untuk membaca ke arah mana keberlanjutan JKN sebenarnya bergerak, publik perlu menunggu laporan keuangan tahunan BPJS Kesehatan atau keputusan resmi soal penyesuaian iuran, yang biasanya baru diumumkan lewat aturan turunan tersendiri, bukan lewat pesan sosialisasi seperti ini.",
+  "imageV": "mwbq4kq9"
+ },
+ {
+  "slug": "pnm-luncurkan-kredit-perempuan-prasejahtera-8-di-batam",
+  "category": "UMKM",
+  "title": "PNM Luncurkan Kredit Perempuan Prasejahtera [8%] di Batam",
+  "deck": "PNM meluncurkan kredit berbunga 8 persen bagi nasabah Mekaar di Batam untuk memperluas akses modal usaha ultra mikro perempuan prasejahtera.",
+  "image": "assets/img/pnm-luncurkan-kredit-perempuan-prasejahtera-8-di-batam.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T10:11:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477742-pnm-siapkan-kredit-perempuan-prasejahtera-8-perluas-peluang-usaha-perempuan-di-batam",
+  "tags": [
+   "PNM",
+   "KPPS",
+   "Mekaar",
+   "Batam"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) meresmikan skema pembiayaan baru bernama Kredit Perempuan Prasejahtera (KPPS) dengan bunga 8 persen di Batam, Selasa (10/11/2026). Program ini menyasar nasabah PNM Mekaar, kelompok perempuan pelaku usaha ultra mikro yang selama ini mengandalkan usaha kecil sebagai sumber pendapatan keluarga. Lewat skema ini, PNM ingin memberi akses modal yang lebih murah sekaligus memperluas kesempatan usaha bagi perempuan prasejahtera.",
+   "Batam dipilih sebagai lokasi peluncuran karena posisinya yang berbatasan langsung dengan Singapura, sehingga dianggap punya nilai strategis bagi aktivitas ekonomi di wilayah perbatasan. Wakil Menteri Koordinator Bidang Perekonomian Dradjad Hari Wibowo turut hadir meninjau langsung warga yang menjadi calon penerima manfaat KPPS. Ia mengatakan penguatan ekonomi di wilayah perbatasan menjadi bagian penting menjaga ketahanan ekonomi nasional, sehingga akses pembiayaan bagi perempuan pengusaha ultra mikro perlu terus diperluas.",
+   "Dradjad juga menyebut penyaluran pembiayaan KPPS akan ditopang sistem informasi terintegrasi, agar proses identifikasi dan verifikasi calon penerima manfaat berjalan lebih akurat dan tepat sasaran. Selain bunga yang lebih ringan, PNM menyiapkan dukungan lain berupa pendampingan usaha agar nasabah bisa mengelola keuangan bisnis dan meningkatkan pendapatan keluarga.",
+   "PNM juga mendorong pendekatan link and match, yakni menghubungkan produk nasabah KPPS dengan calon pembeli atau offtaker, sehingga akses pemasaran tidak berhenti pada penyediaan modal saja. Dengan kombinasi bunga rendah, pendampingan, dan akses pasar, PNM berharap perempuan prasejahtera di Batam bisa naik kelas dari usaha subsisten menjadi usaha yang lebih berkembang."
+  ],
+  "fotoAdegan": "A woman vendor arranging woven handicrafts at a small roadside stall in a busy Batam market, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/11/6af3dbd7847fe-pnm-siapkan-kredit-perempuan-prasejahtera_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini, PNM membuka skema kredit baru bernama KPPS dengan bunga 8 persen, lebih ringan dibanding pembiayaan ultra mikro pada umumnya, dan menyasarkannya ke nasabah program Mekaar, yaitu kelompok ibu-ibu peminjam modal usaha kecil binaan PNM yang berstatus perempuan prasejahtera. Yang kena dampak jelas pelaku usaha ultra mikro perempuan di Batam, kota yang berbatasan langsung dengan Singapura dan jadi alasan pemerintah ingin memperkuat ekonominya. Soal ke mana arahnya, data yang ada belum cukup untuk memastikan satu arah: bisa saja KPPS ini jadi program percontohan yang nantinya diperluas ke kota-kota lain tempat PNM Mekaar beroperasi, atau tetap jadi skema khusus wilayah perbatasan sesuai alasan ketahanan ekonomi nasional yang disebut Wamenko Dradjad. Yang akan menjawabnya adalah apakah PNM mengumumkan perluasan wilayah program KPPS ke kota lain dalam waktu dekat, atau program ini berhenti sebagai inisiatif khusus Batam tanpa rencana replikasi.",
+  "imageV": "mwbq4l5w"
  },
  {
   "slug": "harga-emas-antam-turun-rp30-ribu-jadi-rp2-53-juta",
@@ -30660,7 +30767,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "Ekonomi Digital RI Tembus [US$100] Miliar, Terbesar di Asia Tenggara",
   "deck": "Ekonomi digital Indonesia disebut mendekati US$100 miliar dan tumbuh 14 persen, seiring pemerintah menyiapkan infrastruktur pusat data dan energi hingga 2030.",
-  "image": "assets/img/server-data.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "date": "23 Oktober 2026",
   "isoDate": "2026-10-23T11:09:03.868Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7180/perkuat-pertumbuhan-ekonomi-digital-pemerintah-dorong-media-lokal-jadi-penggerak-ekonomi-daerah",
@@ -34557,7 +34664,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "Pemerintah Patok Target [AI] lewat Listrik dan SDM Digital",
   "deck": "Pemerintah merinci empat prioritas kedaulatan AI, dari penambahan listrik 70 gigawatt hingga target 9 juta talenta digital pada 2030.",
-  "image": "assets/img/kantor-startup.jpg",
+  "image": "assets/img/menara-bts.jpg",
   "date": "21 Oktober 2026",
   "isoDate": "2026-10-21T11:36:55.162Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7169/tegaskan-empat-prioritas-strategis-pemerintah-bersiap-wujudkan-kedaulatan-ai-dan-transformasi-digital",
@@ -42336,7 +42443,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "RI Bahas Ancaman Komputasi [Kuantum] ke Keamanan Data Digital",
   "deck": "Pemerintah dan BSSN membahas kesiapan Indonesia menghadapi risiko komputasi kuantum terhadap keamanan data digital, di tengah pertumbuhan ekonomi digital yang pesat.",
-  "image": "assets/img/menara-bts.jpg",
+  "image": "assets/img/rapat-tim-teknologi.jpg",
   "date": "15 Oktober 2026",
   "isoDate": "2026-10-15T15:09:16.694Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7160/perkuat-keamanan-ekonomi-digital-pemerintah-dorong-kesiapan-indonesia-hadapi-era-komputasi-kuantum",
@@ -73938,7 +74045,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "Transaksi Nontunai Pemda Rp165 Triliun, KKI Meluas ke [E-Katalog]",
   "deck": "Kartu Kredit Indonesia bisa dipakai di e-katalog nasional mulai Oktober 2026, seiring transaksi nontunai pemerintah daerah tembus Rp165 triliun pada semester I 2026.",
-  "image": "assets/img/rapat-tim-teknologi.jpg",
+  "image": "assets/img/kabel-jaringan.jpg",
   "date": "24 September 2026",
   "isoDate": "2026-09-24T13:37:49.764Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7113/perkuat-sinergi-dan-inovasi-pemerintah-dorong-akselerasi-ekonomi-keuangan-digital-untuk-dukung-pertumbuhan-ekonomi-nasional",

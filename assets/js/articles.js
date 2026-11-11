@@ -57,7 +57,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret: plafon KUR tahun ini dinaikkan dari Rp295 triliun jadi Rp325 triliun, dan untuk debitur KUR di NTT yang terdampak gempa, bunga atau marjin kreditnya diringankan jadi 0 persen pada 2027 dan 3 persen pada 2028, selain diberi masa tenggang dan perpanjangan tenor cicilan. Yang kena dampak ada dua kelompok berbeda, pelaku usaha kecil peminjam KUR secara umum yang kuotanya makin lega, dan debitur di NTT yang usahanya terganggu bencana sehingga dapat keringanan cicilan plus bunga yang nyaris nol selama dua tahun. Pola yang terlihat, pemerintah kini punya kerangka baku relaksasi kredit untuk wilayah bencana lewat restrukturisasi yang didukung aturan OJK dan bunga berjenjang, yang berpotensi jadi acuan kalau bencana serupa terjadi di daerah lain. Yang akan memastikan arah ini adalah Peraturan Menteri Koordinator dan Peraturan Menteri Keuangan yang disebut akan mengatur detail pelaksanaannya, serta hasil evaluasi triwulanan atas realisasi kredit program 2027.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "harga-minyak-acuan-ri-naik-ke-us-117-24-per-barel-di-oktober",
@@ -360,7 +360,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan sinyal bahwa pemerintah pusat mulai menyoroti kebocoran di pintu masuk Batam, yaitu praktik melaporkan nilai impor lebih rendah dari harga sebenarnya dan masuknya barang bekas serta impor ilegal, sembari ekonomi kawasan ini tumbuh 7,28 persen pada kuartal kedua 2026 dan investasi sudah mencapai 85,33 persen dari target Rp70 triliun tahun ini. Yang terdampak langsung adalah pelaku usaha dan importir di Batam yang akan menghadapi pengawasan lebih ketat di pelabuhan, perempuan pelaku usaha mikro yang jadi sasaran kredit Mekaar bersubsidi bunga 8 persen per tahun dengan plafon Rp15 juta, serta calon investor pusat data yang butuh kepastian pasokan listrik dan air baku di Nongsa Digital Park. Arahnya terlihat menuju kombinasi dua hal sekaligus, yakni memperketat pengawasan barang masuk tanpa mencabut status bebas bea Batam, sambil tetap mengejar investasi besar seperti pusat data. Yang akan membuktikan arah ini adalah efektivitas PP Nomor 25 dan 28 Tahun 2025 begitu benar-benar diterapkan di lapangan, serta apakah realisasi investasi Batam bisa menembus target Rp70 triliun sebelum akhir 2026.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "ekspor-ri-naik-5-58-persen-tei-2026-lampaui-target",

@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "boga-rempah-perikanan-ri-catat-potensi-rp450-miliar-di-shanghai",
+  "category": "Bisnis",
+  "title": "Boga, Rempah, Perikanan RI Catat Potensi [Rp450 Miliar] di Shanghai",
+  "deck": "Produk boga, rempah, dan perikanan Indonesia mencatat potensi transaksi Rp450 miliar di pameran CIIE Shanghai, termasuk satu MoU UMKM dengan mitra Tiongkok.",
+  "date": "11 November 2026",
+  "image": "assets/img/boga-rempah-perikanan-ri-catat-potensi-rp450-miliar-di-shanghai.jpg",
+  "imageV": "mwc0gw6x",
+  "tags": [
+   "CIIE",
+   "ekspor",
+   "Tiongkok",
+   "UMKM"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/produk-boga-rempah-dan-perikanan-indonesia-catat-potensi-transaksi-rp450-miliar-di-pameran-shanghai",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "pemerintah-perluas-insentif-pajak-karyawan-ke-semua-sektor-2027",
   "category": "Makroekonomi",
   "title": "Pemerintah Perluas Insentif Pajak Karyawan ke Semua Sektor [2027]",
@@ -6449,22 +6467,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476661-bri-salurkan-tunjangan-profesi-guru-non-asn-seniliai-rp9216-miliar-kepada-lebih-dari-507-ribu-penerima"
- },
- {
-  "slug": "tbi-entikong-didorong-jadi-pintu-ekspor-impor-perbatasan",
-  "category": "Bisnis",
-  "title": "TBI Entikong Didorong Jadi Pintu [Ekspor-Impor] Perbatasan",
-  "deck": "BNPPDT menggelar forum lintas kementerian untuk membenahi kendala regulasi dan infrastruktur agar Terminal Barang Internasional Entikong bisa dipakai penuh untuk perdagangan lintas negara.",
-  "date": "4 November 2026",
-  "image": "assets/img/tbi-entikong-didorong-jadi-pintu-ekspor-impor-perbatasan.jpg",
-  "imageV": "mw29dleq",
-  "tags": [
-   "TBI Entikong",
-   "BNPPDT",
-   "perdagangan perbatasan",
-   "Kalimantan Barat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476651-tbi-entikong-jadi-pintu-perdagangan-lintas-negara-bnppdt-genjot-percepatan-operasional"
  }
 ];

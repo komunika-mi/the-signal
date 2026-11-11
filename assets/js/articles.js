@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "boga-rempah-perikanan-ri-catat-potensi-rp450-miliar-di-shanghai",
+  "category": "Bisnis",
+  "title": "Boga, Rempah, Perikanan RI Catat Potensi [Rp450 Miliar] di Shanghai",
+  "deck": "Produk boga, rempah, dan perikanan Indonesia mencatat potensi transaksi Rp450 miliar di pameran CIIE Shanghai, termasuk satu MoU UMKM dengan mitra Tiongkok.",
+  "image": "assets/img/boga-rempah-perikanan-ri-catat-potensi-rp450-miliar-di-shanghai.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T10:58:41.074Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/produk-boga-rempah-dan-perikanan-indonesia-catat-potensi-transaksi-rp450-miliar-di-pameran-shanghai",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "CIIE",
+   "ekspor",
+   "Tiongkok",
+   "UMKM"
+  ],
+  "body": [
+   "Indonesia mencatatkan potensi transaksi sebesar US$25,38 juta, setara Rp450 miliar, dari produk boga, rempah, dan hasil perikanan dalam ajang China International Import Expo (CIIE) ke-9 di Shanghai, Tiongkok. Angka tersebut, menurut Kementerian Perdagangan, berasal dari penjajakan bisnis serta pertemuan business-to-business dan business-to-consumer yang berlangsung di dua paviliun Indonesia selama pameran pada 5-10 November 2026. Capaian ini menjadi indikasi minat pasar Tiongkok terhadap produk pangan Indonesia, meski sebagian besar nilai itu masih berupa potensi yang perlu ditindaklanjuti menjadi kontrak nyata.",
+   "Partisipasi Indonesia dikoordinasikan oleh Kemendag melalui Indonesia Trade Promotion Center (ITPC) Shanghai bersama Perwakilan RI di Tiongkok. Di Paviliun Bisnis Indonesia, Hall 8.1, perusahaan nasional dan UMKM menampilkan rempah-rempah, kudapan sehat, permen, ekstrak bahan alami, produk perikanan, biskuit, kerupuk udang, kopi, dan mi instan. Di Paviliun Negara Indonesia, Hall 5.2, tampil sejumlah pelaku usaha dan lembaga yakni Food Station, Kapal Api, La Moringa, Minies Q, United Family Food, Great Giant Food, PT Marcverse Makmur Abadi, ATTEC, dan IIPC Beijing, dengan produk mulai dari beras dan mi berbahan konjak, granola, kue kering bebas gluten, kopi, makanan dan minuman herbal, produk perikanan, hingga wafer cokelat.",
+   "Dari seluruh penjajakan bisnis itu, satu kesepakatan konkret yang disebutkan secara jelas adalah nota kesepahaman antara UMKM camilan berbahan kelor La Moringa dengan mitra bisnisnya di Tiongkok. Sejumlah perusahaan peserta lain disebut juga menandatangani nota kesepahaman dengan mitra masing-masing, tanpa rincian nilai dan pihak yang terlibat.",
+   "CIIE adalah pameran tahunan yang digelar Pemerintah Tiongkok dan berfokus pada produk impor, kali ini memasuki penyelenggaraan ke-9. Pameran berlangsung di National Exhibition and Convention Center, Shanghai, pada 5-10 November 2026, dan menjadi salah satu kanal promosi ekspor yang rutin diikuti Indonesia untuk memperluas akses pasar di Tiongkok."
+  ],
+  "fotoAdegan": "Wooden crates of dried spices and small packets of coffee and shrimp crackers displayed on an exhibition booth table, visitors browsing nearby",
+  "fotoSumber": "https://www.kemendag.go.id/albums/POHtAtlwDQOcvmQ3Zv9ftR9P75z5n9xjXJdNdBS9.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari pameran ini adalah catatan potensi transaksi Rp450 miliar, tapi itu angka penjajakan dari pertemuan bisnis, bukan kontrak yang sudah pasti terjadi. Dari semua pertemuan itu, baru satu kesepakatan konkret yang disebut jelas, yaitu nota kesepahaman UMKM camilan kelor La Moringa dengan mitra Tiongkoknya, sementara nilai dan pihak kesepakatan lain tidak dirinci. Yang terdampak langsung adalah eksportir boga, rempah, dan perikanan skala UMKM maupun perusahaan besar yang ikut pameran, karena merekalah yang harus menindaklanjuti penjajakan ini menjadi pesanan nyata. Pola umum pameran dagang semacam ini adalah angka potensi besar diumumkan di awal, sementara realisasinya jarang dilaporkan terbuka belakangan, sehingga yang akan menunjukkan apakah Rp450 miliar ini benar terwujud adalah data ekspor Kemendag ke Tiongkok untuk komoditas pangan dan perikanan pada periode berikutnya.",
+  "imageV": "mwc0gw6x"
+ },
+ {
   "slug": "pemerintah-perluas-insentif-pajak-karyawan-ke-semua-sektor-2027",
   "category": "Makroekonomi",
   "title": "Pemerintah Perluas Insentif Pajak Karyawan ke Semua Sektor [2027]",
@@ -28,7 +56,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah insentif PPh 21 yang ditanggung pemerintah, yang mulai 2027 tidak lagi terbatas pada sektor tertentu tapi berlaku untuk seluruh sektor usaha bagi pekerja bergaji di atas batas tidak kena pajak hingga Rp10 juta per bulan. Yang terdampak adalah pekerja di rentang gaji itu, yang gajinya tidak lagi dipotong pajak karena ditanggung negara, serta pelaku usaha ritel dan UMKM yang menjadi sasaran penguatan rantai pasok dan digitalisasi pembayaran. Kalau dilihat bersamaan dengan bantuan beras untuk 33,2 juta keluarga, subsidi upah untuk 13,3 juta pekerja, dan diskon transportasi liburan akhir tahun, arahnya adalah penjagaan daya beli masyarakat secara berlapis menjelang dan sesudah pergantian tahun, bukan sekadar bantuan satu kali. Yang akan menentukan seberapa luas dampaknya adalah aturan turunan dari Kementerian Keuangan yang menetapkan detail sektor dan mekanisme PPh 21 DTP 2027, yang belum disebutkan tanggal terbitnya dalam siaran ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "delapan-perusahaan-ri-jajaki-pasar-haji-umrah-arab-saudi",
@@ -375,7 +403,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Dari empat agenda yang disebut, yang paling konkret justru soal belanja negara: penggunaan Kartu Kredit Indonesia dengan pembayaran daring di e-katalog sudah berjalan sejak Oktober 2026, dan kini diperluas ke transaksi dengan marketplace serta UMKM. Artinya proses pembelian barang dan jasa oleh instansi pemerintah makin banyak berpindah ke sistem digital yang bisa dilacak, bukan sekadar wacana seminar. Pihak yang paling terdampak adalah pelaku UMKM yang berjualan di marketplace rekanan pemerintah, karena mereka berpotensi mendapat akses baru ke belanja negara kalau sistem ini benar-benar tersambung luas. Arah besarnya, pemerintah mendorong digitalisasi tidak hanya di sisi konsumen seperti QRIS, tapi juga di sisi belanja pemerintah sendiri, sejalan dengan arahan efisiensi anggaran yang disampaikan Presiden Prabowo Subianto pada rapat paripurna DPR Agustus 2026. Yang akan menunjukkan apakah ini meluas atau sekadar uji coba terbatas adalah data jumlah instansi dan UMKM yang benar-benar bertransaksi lewat KKI di e-katalog pada laporan berikutnya.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "ptpp-pemegang-sukuk-tolak-usulan-penundaan-bagi-hasil",

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-rp30-ribu-jadi-rp2-53-juta",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Rp30 Ribu Jadi Rp2,53 Juta",
+  "deck": "Harga emas batangan Antam hari ini turun Rp30.000 menjadi Rp2.530.000 per gram, sementara harga buyback ikut melemah ke Rp2.338.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-rp30-ribu-jadi-rp2-53-juta.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T09:25:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477734-saatnya-beli-harga-emas-antam-hari-ini-11-november-2026-turun-jadi-rp2530000-per-gram",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "investasi emas"
+  ],
+  "body": [
+   "Harga emas batangan Antam pada 11 November 2026 turun Rp30.000 per gram, dari Rp2.560.000 menjadi Rp2.530.000 per gram, menurut data yang dipantau dari laman Logam Mulia. Pergerakan ini penting diikuti karena harga emas Antam biasa dipakai sebagai patokan oleh masyarakat yang menyimpan emas batangan sebagai aset, baik untuk investasi jangka panjang maupun tabungan harian.",
+   "Selain harga jual, harga buyback atau harga beli kembali, yaitu harga yang dibayar Antam kepada pemilik emas yang ingin menjualnya kembali, juga turun pada hari yang sama menjadi Rp2.338.000 per gram. Artinya, siapa pun yang berencana mencairkan emas batangannya hari ini akan menerima nilai lebih kecil dibandingkan kalau menjualnya kemarin.",
+   "Penurunan ini membuat harga beli emas batangan lebih murah dibanding hari sebelumnya, sesuatu yang biasa disambut positif oleh calon pembeli baru, sementara bagi pemegang emas yang sedang butuh uang tunai, selisih harga buyback yang menyusut berarti hasil penjualannya sedikit berkurang."
+  ],
+  "fotoAdegan": "Gold bullion bars stacked on a velvet tray inside a jewelry store display case, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/03/20/67dbcd5e179d5-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini cuma satu titik data, harga jual dan harga beli kembali emas Antam sama-sama turun Rp30.000 dibanding hari sebelumnya. Yang langsung kena dampaknya adalah dua kelompok berlawanan, orang yang mau beli emas diuntungkan karena lebih murah, sementara yang mau menjual balik emasnya kini dapat uang lebih sedikit. Untuk membaca apakah ini awal tren turun atau cuma koreksi sehari, datanya belum cukup, perlu dilihat pergerakan harga emas dunia dalam dolar dan kurs rupiah selama beberapa hari ke depan, karena dua faktor itu yang biasanya menggerakkan harga emas Antam. Patokan paling dekat adalah harga Logam Mulia besok dan akhir pekan ini, apakah lanjut turun atau berbalik naik.",
+  "imageV": "mwbik2o8"
+ },
+ {
   "slug": "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-saham",
   "category": "Aksi Korporasi",
   "title": "PRTL Bagikan [Dividen] Interim Rp200 Miliar, Rp3,43/Saham",

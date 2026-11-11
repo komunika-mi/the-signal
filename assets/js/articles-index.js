@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-rp30-ribu-jadi-rp2-53-juta",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Rp30 Ribu Jadi Rp2,53 Juta",
+  "deck": "Harga emas batangan Antam hari ini turun Rp30.000 menjadi Rp2.530.000 per gram, sementara harga buyback ikut melemah ke Rp2.338.000 per gram.",
+  "date": "11 November 2026",
+  "image": "assets/img/harga-emas-antam-turun-rp30-ribu-jadi-rp2-53-juta.jpg",
+  "imageV": "mwbik2o8",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "investasi emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477734-saatnya-beli-harga-emas-antam-hari-ini-11-november-2026-turun-jadi-rp2530000-per-gram"
+ },
+ {
   "slug": "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-saham",
   "category": "Aksi Korporasi",
   "title": "PRTL Bagikan [Dividen] Interim Rp200 Miliar, Rp3,43/Saham",
@@ -6443,22 +6460,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1b385c81ec_38a0be20a9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-rampungkan-pmthmetd-saham-baru-ke-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "BIPP Rampungkan PMTHMETD, Saham Baru ke [Afiliasi]",
-  "deck": "BIPP merampungkan penambahan modal tanpa HMETD senilai Rp100,57 miliar, seluruh 502,8 juta saham baru diserap dua pihak terafiliasi dengan harga Rp200 per saham.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "PMTHMETD",
-   "dilusi saham",
-   "pihak terafiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f5b435a51d_2a0f01a604.pdf",
   "sourceLabel": "IDX"
  }
 ];

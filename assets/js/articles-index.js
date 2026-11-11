@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-saham",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Bagikan [Dividen] Interim Rp200 Miliar, Rp3,43/Saham",
+  "deck": "Protelindo (PRTL) membagikan dividen interim Rp3,43 per saham atau total Rp200 miliar untuk tahun buku 2026, sesuai otorisasi RUPST kepada direksi.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRTL",
+   "dividen interim",
+   "Protelindo",
+   "RUPST"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7c59321b48_e5b7cbd6a9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "resign-kerja-begini-cara-cairkan-jht-bpjs-ketenagakerjaan",
   "category": "Ketenagakerjaan",
   "title": "Resign Kerja, Begini Cara [Cairkan] JHT BPJS Ketenagakerjaan",
@@ -6443,22 +6459,6 @@ var ARTICLES = [
    "pihak terafiliasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f5b435a51d_2a0f01a604.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "icon-laba-bersih-9m26-ambruk-82-jadi-rp367-juta",
-  "category": "Aksi Korporasi",
-  "title": "ICON: Laba Bersih 9M26 [Ambruk] 82% Jadi Rp367 Juta",
-  "deck": "Laba bersih ICON sembilan bulan 2026 turun 82 persen jadi Rp367 juta, sementara perusahaan menarik utang bank baru Rp21,9 miliar.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ICON",
-   "laporan keuangan",
-   "laba bersih",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261104164732-65586-0/FinancialStatement-2026-III-ICON.pdf",
   "sourceLabel": "IDX"
  }
 ];

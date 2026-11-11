@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-saham",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Bagikan [Dividen] Interim Rp200 Miliar, Rp3,43/Saham",
+  "deck": "Protelindo (PRTL) membagikan dividen interim Rp3,43 per saham atau total Rp200 miliar untuk tahun buku 2026, sesuai otorisasi RUPST kepada direksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T07:08:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7c59321b48_e5b7cbd6a9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRTL",
+  "tags": [
+   "PRTL",
+   "dividen interim",
+   "Protelindo",
+   "RUPST"
+  ],
+  "body": [
+   "PT Profesional Telekomunikasi Indonesia (PRTL), perusahaan menara telekomunikasi yang dikenal dengan nama Protelindo, mengumumkan pembagian dividen interim untuk tahun buku 2026 sebesar Rp3,43 per saham, atau total Rp200 miliar. Keputusan ini tercatat pada 10 November 2026 dan merujuk pada Pasal 72 ayat (1) dan ayat (4) Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, serta Pasal 18 anggaran dasar perusahaan. Perseroan menyatakan pembagian ini tidak menimbulkan dampak negatif material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya.",
+   "Pembagian dividen ini merupakan realisasi dari kewenangan yang sudah diberikan pemegang saham kepada direksi melalui Keputusan Pemegang Saham sebagai Pengganti Rapat Umum Pemegang Saham Tahunan, yang memberi direksi kuasa untuk menentukan dan membagikan dividen interim tahun buku 2026, dengan persetujuan Dewan Komisaris dan sepanjang kondisi keuangan perusahaan memungkinkan. Struktur pemegang saham PRTL sangat terkonsentrasi: PT Sarana Menara Nusantara Tbk memegang 58.322.620.186 lembar saham atau 99,999999998 persen dari total saham beredar, sementara Ferdinandus Aming Santoso hanya memegang 1 lembar saham atau 0,000000002 persen. Artinya, hampir seluruh dana dividen interim ini akan mengalir ke pemegang saham pengendali tersebut.",
+   "Dokumen keputusan pemegang saham yang menjadi lampiran laporan ini juga menyebutkan bahwa laba bersih konsolidasian perusahaan untuk tahun buku 2025 tercatat sekitar Rp3,69 triliun, dan sepanjang periode September 2025 hingga Januari 2026 perusahaan sudah beberapa kali membagikan dividen interim dari laba tahun 2025 tersebut sebelum sisanya dirampungkan sebagai dividen final. Angka rinci dari dokumen hasil pindaian ini sebagian berasal dari proses OCR sehingga perlu dibaca dengan kehati-hatian. Laporan ditandatangani oleh Corporate Secretary Protelindo, dengan nama yang tercantum pada dokumen berbeda-beda, yakni Maya Marcella dan Monalisa Irawan."
+  ],
+  "fotoAdegan": "Technicians in hard hats inspecting cables on a tall telecommunications tower against a wide rural Indonesian sky",
+  "takeaway": "Dividen interim ini condong positif bagi pemegang saham karena berarti ada arus kas tunai riil yang dibagikan, dan manajemen menegaskan langkah ini tidak mengganggu kondisi keuangan atau operasional perusahaan. Pembagian ini menyentuh pos ekuitas dan arus kas: begitu dividen dibayarkan, kas perusahaan berkurang sebesar Rp200 miliar dan laba ditahan yang menjadi bagian dari ekuitas ikut menyusut, sehingga pelaku pasar biasanya membandingkan penyusutan itu dengan laba bersih tahun sebelumnya yang sekitar Rp3,69 triliun untuk menilai kewajaran porsinya. Perlu digarisbawahi juga bahwa 99,99 persen saham PRTL dikuasai PT Sarana Menara Nusantara Tbk, sehingga hampir seluruh dana dividen ini mengalir ke pemegang saham pengendali, bukan ke publik dalam porsi berarti. Yang perlu dipantau berikutnya adalah tanggal pembayaran resmi dan tanggal pencatatan (recording date) dividen ini, karena laporan tertanggal 10 November 2026 ini baru mengumumkan keputusan jumlahnya, belum jadwal pencairan dananya ke rekening pemegang saham.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "resign-kerja-begini-cara-cairkan-jht-bpjs-ketenagakerjaan",
   "category": "Ketenagakerjaan",
   "title": "Resign Kerja, Begini Cara [Cairkan] JHT BPJS Ketenagakerjaan",

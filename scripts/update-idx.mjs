@@ -6,10 +6,11 @@ import fs from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { ROOT, log, readData, writeData, keWaktu, punyaAlat, alatLuar } from './lib.mjs';
 import { ambilKeterbukaan, ambilIsiLampiran, ambilIsiSemuaLampiran, bacaAngkaKepemilikan } from './fetch-idx.mjs';
-import { rangkumKeterbukaan, MODEL } from './rewrite.mjs';
+import { rangkumKeterbukaan, perbaruiKeterbukaan, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
 import { pastikanFotoArtikel } from './foto-artikel.mjs';
 import { muatTolakan } from './tolakan.mjs';
+import { jenisDariIDX, cariSasaranGabung, sumberArtikel, terapkanPembaruan } from './peristiwa.mjs';
 
 // TARGET SEKARANG MENGIKUTI TUNGGAKAN, tidak lagi dipaku di 8.
 //
@@ -108,7 +109,10 @@ async function main() {
 
   // Sudah pernah diberitakan? Cocokkan lewat tautan sumber DAN kombinasi
   // emiten + judul, karena satu emiten bisa mengirim laporan sejenis berkali-kali.
-  const sumberAda = new Set(artikelLama.map(a => a.sourceUrl));
+  // Sumber mencakup dokumen yang sudah DILEBURKAN ke artikel lama sebagai
+  // pembaruan, bukan cuma sumber pertamanya; tanpa itu dokumen lanjutan
+  // diproses ulang tiap dua jam.
+  const sumberAda = new Set(artikelLama.flatMap(sumberArtikel));
   const sidikAda = new Set(artikelLama
     .filter(a => a.emiten)
     .map(a => a.emiten + '|' + String(a.title).replace(/[\[\]]/g, '').toLowerCase()));
@@ -164,7 +168,20 @@ async function main() {
   // berada dalam jendela HARI ke belakang. Alasan lengkap di tolakan.mjs.
   const tolakan = muatTolakan();
   const kunciTolak = (k) => k.lampiran || (k.id ? 'idx:' + k.id : '');
-  const belumTerbit = (await ambilKeterbukaan({ maks: MAKS_KANDIDAT * 4, hariKeBelakang: HARI }))
+  // HANYA YANG MATERIAL, sejak 11 November 2026 (keputusan pemilik).
+  //
+  // Sebelumnya laporan yang tidak cocok daftar MATERIAL tetap terbit, cuma
+  // diantrekan paling belakang. Karena jatah putaran jarang habis, hampir
+  // semuanya terbit juga: pencatatan saham tambahan, laporan bulanan
+  // waran, pelunasan kupon. Laporan Oktober menemukan Google berhenti
+  // mengirim pembaca sejak 23 September, bertepatan dengan spam update yang
+  // menyasar konten massal; 78% artikel Oktober adalah tulisan ulang IDX.
+  // Mengurangi yang tipis lebih murah daripada menunggu penilaian ulang.
+  const semuaKandidat = await ambilKeterbukaan({ maks: MAKS_KANDIDAT * 4, hariKeBelakang: HARI });
+  const nonMaterial = semuaKandidat.filter(k => !k.dugaanMaterial).length;
+  if (nonMaterial) log('dilewati ' + nonMaterial + ' laporan non-material (tidak diterbitkan sejak 11 Nov 2026)');
+  const belumTerbit = semuaKandidat
+    .filter(k => k.dugaanMaterial)
     .filter(k => !k.lampiran || !sumberAda.has(k.lampiran));
   const kandidat = belumTerbit
     .filter(k => !tolakan.ditolak(kunciTolak(k)))
@@ -184,11 +201,15 @@ async function main() {
   }
 
   const baru = [];
+  // Artikel lama yang diperbarui dokumen lanjutan di putaran ini. Dihitung ke
+  // sasaran yang sama dengan artikel baru: biaya model dan waktunya sama.
+  const diperbarui = [];
   let gagalError = 0, ditolak = 0, dilewatiDokumen = 0, errorTerakhir = '';
+  let remah = 0, tanpaInfoBaru = 0;
   let dipotongWaktu = false;
 
   for (const k of kandidat) {
-    if (baru.length >= sasaran) break;
+    if (baru.length + diperbarui.length >= sasaran) break;
     // Diperiksa SEBELUM laporan berikutnya dibaca, bukan sesudah: satu
     // laporan bisa makan beberapa menit (unduh PDF, OCR, panggil Claude),
     // dan memulainya saat waktu hampir habis berarti membuangnya percuma.
@@ -245,6 +266,60 @@ async function main() {
             Math.abs(k.angka.selisih).toLocaleString('id-ID') + ' lembar' + p : ''));
       }
 
+      // REMAH TIDAK DITERBITKAN, sejak 11 November 2026.
+      //
+      // Aturan editorialnya sudah lama ada di prompt: transaksi di bawah
+      // sekitar 1% kepemilikan pelapor dengan hak suara tetap adalah remah,
+      // bukan sinyal, dan dinilai NETRAL. Akibatnya remah tetap terbit, cuma
+      // sebagai artikel netral yang isinya "ukurannya terlalu kecil untuk
+      // dibaca". Itu persis jenis halaman tipis yang dihitung laporan Oktober.
+      // Kini angkanya diputuskan di sini, dari hasil parsing yang sama yang
+      // diserahkan ke model sebagai ANGKA TERVERIFIKASI, dan tidak memanggil
+      // model sama sekali. Ambangnya sama dengan aturan prompt, tidak dilonggarkan.
+      if (k.formulirLK && k.angka && k.angka.persenDariKepemilikan !== null &&
+          k.angka.persenDariKepemilikan < 1 && !k.angka.hakSuaraBerubah) {
+        remah++;
+        tolakan.catat(kunciTolak(k), 'remah: ' + k.angka.persenDariKepemilikan.toFixed(3) + '% kepemilikan, hak suara tetap');
+        log('  remah, tidak diterbitkan: ' + (k.emiten || '----') + ' ' + k.angka.arah + ' ' +
+          k.angka.persenDariKepemilikan.toFixed(3) + '% kepemilikan pelapor');
+        continue;
+      }
+
+      // DOKUMEN LANJUTAN MEMPERBARUI ARTIKEL YANG SUDAH ADA, sejak 11 November
+      // 2026. Alasan dan angkanya di scripts/peristiwa.mjs. Calon sasarannya
+      // dipilih kode (emiten + golongan peristiwa + jendela waktu); model yang
+      // memastikan peristiwanya benar-benar sama, dan kalau bukan, laporan ini
+      // jatuh kembali ke jalur artikel baru di bawah.
+      k.peristiwa = jenisDariIDX(k.judulAsli, k.perihal);
+      const sasaranGabung = k.peristiwa ? cariSasaranGabung(k, k.peristiwa, [...baru, ...artikelLama]) : null;
+      if (sasaranGabung) {
+        const h = await perbaruiKeterbukaan(sasaranGabung, k);
+        if (!h) {
+          // Jawaban tak terbaca bukan penolakan editorial: TIDAK dicatat,
+          // supaya putaran berikutnya mencoba lagi.
+          gagalError++;
+          errorTerakhir = 'jawaban pembaruan tidak terbaca';
+          log('  GAGAL perbarui ' + sasaranGabung.slug.slice(0, 50) + ', dicoba lagi putaran depan');
+          continue;
+        }
+        if (h.sama && !h.baru) {
+          tanpaInfoBaru++;
+          tolakan.catat(kunciTolak(k), 'lanjutan tanpa info baru: ' + sasaranGabung.slug);
+          log('  lanjutan tanpa info baru, dilewati: ' + (k.emiten || '----') + ' ' + k.judulAsli.slice(0, 48));
+          continue;
+        }
+        if (h.sama) {
+          terapkanPembaruan(sasaranGabung, h, k);
+          if (k.lampiran) sumberAda.add(k.lampiran);
+          sidikAda.add(sasaranGabung.emiten + '|' + String(sasaranGabung.title).replace(/[\[\]]/g, '').toLowerCase());
+          if (!diperbarui.includes(sasaranGabung) && !baru.includes(sasaranGabung)) diperbarui.push(sasaranGabung);
+          log('  ~ ' + (sasaranGabung.emiten || '----').padEnd(5) + ' diperbarui: ' +
+            String(sasaranGabung.title).replace(/[\[\]]/g, '').slice(0, 52));
+          continue;
+        }
+        log('  bukan peristiwa yang sama dengan ' + sasaranGabung.slug.slice(0, 50) + ', jadi artikel baru');
+      }
+
       // Riwayat emiten: artikel kami tentang emiten yang sama, 7 hari
       // terakhir, dari arsip DAN dari artikel yang baru ditulis di putaran
       // ini juga. Yang kedua penting: lima laporan SUPA yang terbit dalam
@@ -259,10 +334,12 @@ async function main() {
       // RIWAYAT EMITEN di prompt sempat jadi kode mati, dan yang menangkapnya
       // verifikator independen, bukan penulisnya. Kalau mengubah kontrak
       // antara dua berkas, periksa KEDUA sisinya terpasang.
+      // Artikel yang diperbarui dihitung dari tanggal pembaruannya: isinya
+      // sudah memuat dokumen terbaru, walau tanggal terbit pertamanya lama.
       k.riwayat = [...baru, ...artikelLama]
         .filter(x => x.emiten && k.emiten && x.emiten === k.emiten)
         .filter(x => {
-          const t = new Date(x.isoDate || 0).getTime();
+          const t = new Date(x.diperbarui || x.isoDate || 0).getTime();
           return t && (Date.now() - t) < 7 * 86400000;
         })
         .slice(0, 6)
@@ -317,8 +394,13 @@ async function main() {
   // baru dicatat akan hilang kalau penyimpanannya ditaruh sesudahnya.
   tolakan.simpan();
 
+  if (remah || tanpaInfoBaru || diperbarui.length) {
+    log('peristiwa: ' + diperbarui.length + ' artikel diperbarui dokumen lanjutan, ' +
+      tanpaInfoBaru + ' lanjutan tanpa info baru, ' + remah + ' transaksi remah tidak diterbitkan');
+  }
+
   // Jangan biarkan kegagalan teknis lolos jadi "sukses" (lihat catatan di update-all.mjs)
-  if (kandidat.length && !baru.length && gagalError) {
+  if (kandidat.length && !baru.length && !diperbarui.length && gagalError) {
     log('');
     log('FATAL: ' + gagalError + ' dari ' + kandidat.length + ' kandidat gagal karena error teknis.');
     log('       Error terakhir: ' + errorTerakhir);
@@ -328,7 +410,7 @@ async function main() {
     process.exit(1);
   }
 
-  if (!baru.length) {
+  if (!baru.length && !diperbarui.length) {
     log('tidak ada aksi korporasi baru yang layak diberitakan putaran ini');
     log('=== selesai (tanpa perubahan) ===');
     return;
@@ -352,7 +434,8 @@ async function main() {
     '// Dibuat otomatis - jangan diedit manual.');
 
   if (dilewatiDokumen) log('CATATAN: ' + dilewatiDokumen + ' laporan dilewati karena lampirannya tidak terbaca; akan dicoba lagi putaran berikutnya');
-  log('arsip baru: ' + semua.length + ' artikel (+' + baru.length + ' aksi korporasi)');
+  log('arsip baru: ' + semua.length + ' artikel (+' + baru.length + ' aksi korporasi' +
+    (diperbarui.length ? ', ' + diperbarui.length + ' diperbarui' : '') + ')');
   execFileSync(process.execPath, [ROOT + '/scripts/build-pages.mjs'], { stdio: 'inherit' });
   log('=== selesai ===');
 }

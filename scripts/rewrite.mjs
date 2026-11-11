@@ -4,6 +4,7 @@
 // Autentikasi otomatis dari env: CLAUDE_CODE_OAUTH_TOKEN (langganan) atau ANTHROPIC_API_KEY.
 import { query } from '@anthropic-ai/claude-agent-sdk';
 import { log, slugify, fmtTanggal } from './lib.mjs';
+import { saringJadwal } from './peristiwa.mjs';
 
 const MODEL = process.env.SIGNAL_MODEL || 'claude-sonnet-5';
 
@@ -672,6 +673,130 @@ export async function saringVideo(kandidat) {
     }));
 }
 
+// ---------- aturan bersama berita IDX ----------
+// Dipakai berita baru (rangkumKeterbukaan) DAN pembaruannya
+// (perbaruiKeterbukaan). Satu sumber, supaya dua jalur itu tidak pernah
+// menilai dengan aturan yang berbeda. Teks tiga blok pertama dipindah apa
+// adanya dari prompt rangkumKeterbukaan, tidak diubah.
+const CATATAN_IDX = [
+  '   Isinya TIGA hal, dan URUTANNYA DIBALIK dari kebiasaan: penilaian dulu,',
+  '   penjelasan istilah belakangan.',
+  '   (a) PENILAIAN kamu di kalimat PERTAMA: laporan ini condong POSITIF,',
+  '       NEGATIF, atau NETRAL bagi emiten, dan alasannya. Terus terang.',
+  '   (b) pos kinerja mana yang tersentuh (ekuitas, arus kas, beban bunga,',
+  '       jumlah saham beredar, laba per saham), dan kenapa pelaku pasar',
+  '       memperhatikannya. Istilah dijelaskan DI SINI, seperlunya, bukan',
+  '       sebagai pembuka.',
+  '   (c) YANG DIPANTAU BERIKUTNYA: sebut peristiwa konkret dari dokumen ini',
+  '       yang akan menentukan kelanjutannya, lengkap dengan tanggalnya kalau',
+  '       ada. RUPSLB, tanggal efektif, tenggat pembayaran, batas waktu',
+  '       penjelasan ke bursa. Dokumen keterbukaan hampir selalu memuat satu.',
+  '',
+  '   DILARANG membuka catatan dengan pola kamus "X adalah ..." atau',
+  '   "X merupakan ...". Terukur 14 Agustus 2026: 48 dari 57 catatan IDX',
+  '   dibuka definisi istilah, dan penilaian arah baru muncul di kalimat',
+  '   terakhir kalau muncul sama sekali. Pembaca datang untuk penilaiannya;',
+  '   kamus bisa menunggu.',
+].join('\n');
+
+const CARA_MENILAI_IDX = [
+  'CARA MENILAI POSITIF/NEGATIF/NETRAL, ini bagian yang paling sering salah:',
+  '- UKURAN LEBIH PENTING DARIPADA JENIS TRANSAKSI. Wajib pakai angka di blok',
+  '  ANGKA TERVERIFIKASI. Direksi atau komisaris menjual saham TIDAK otomatis',
+  '  sinyal negatif. Kalau yang dilepas cuma pecahan kecil dari kepemilikannya',
+  '  (di bawah sekitar 1%) dan hak suaranya tidak berubah, itu REMAH, bukan',
+  '  sinyal. Sebut apa adanya bahwa ukurannya terlalu kecil untuk dibaca sebagai',
+  '  pernyataan sikap, lalu nilai NETRAL. Menakut-nakuti pembaca dengan',
+  '  "komisaris melepas saham" untuk transaksi ratusan ribu rupiah adalah',
+  '  kesalahan editorial yang serius.',
+  '- Sebaliknya, pelepasan dalam porsi besar, hilangnya status pengendali, atau',
+  '  hak suara yang turun tajam memang layak disebut sinyal negatif.',
+  '- Timbang juga sisi baiknya kalau ada: dana masuk, utang berkurang, kontrak',
+  '  baru, kapasitas bertambah.',
+].join('\n');
+
+const BATASAN_IDX = [
+  'BATASAN KERAS (wajib dipatuhi):',
+  '- Penilaian positif/negatif/netral itu SOAL FUNDAMENTAL EMITEN, bukan ajakan',
+  '  bertransaksi. DILARANG memberi rekomendasi beli, jual, tahan, akumulasi,',
+  '  "layak koleksi", atau menyebut target harga dan level support/resistance.',
+  '- DILARANG memprediksi arah harga saham. Boleh menjelaskan mekanisme dan',
+  '  bagaimana pasar biasanya membaca hal semacam ini, tidak boleh memastikan',
+  '  hasilnya. Tulis "menambah saham beredar sehingga laba per saham bisa',
+  '  terdilusi", bukan "sahamnya akan turun".',
+  '- DILARANG mengarang angka, nilai transaksi, nama orang, atau nama perusahaan',
+  '  yang tidak tertulis di DATA. Kalau hanya ada kode emiten, sebut kode itu saja.',
+  '- DILARANG menyebut alamat rumah, nomor telepon, atau email siapa pun,',
+  '  sekalipun muncul di dokumen. Nama dan jabatan boleh, karena itu memang',
+  '  bagian yang wajib diumumkan.',
+  '- Angka di blok ANGKA TERVERIFIKASI adalah yang benar. Kalau bacaanmu atas',
+  '  tabel PDF berbeda dari blok itu, IKUTI BLOK ITU.',
+  '- DILARANG menerbitkan berita yang isinya mengaku dokumennya tidak terbaca.',
+  '  Kalau ISI DOKUMEN tidak tersedia, set "layak": false dan berhenti.',
+  '  Berita yang bilang "rinciannya belum diketahui" tidak berguna bagi',
+  '  pembaca dan merusak kredibilitas. Lebih baik tidak terbit sama sekali.',
+].join('\n');
+
+// Rumus judul, dari laporan Oktober 2026. Judul lama banyak berbentuk
+// "ABCD Jadwalkan RUPSLB" tanpa agenda, hasil, atau tanggal, padahal orang
+// datang dari mesin pencari dengan pertanyaan spesifik: kapan RUPSLB-nya,
+// apa hasilnya, berapa dividennya, kapan cair. Judul yang tidak memuat
+// jawabannya tidak diklik walaupun tampil.
+const RUMUS_JUDUL_IDX = [
+  'RUMUS JUDUL (wajib):',
+  '- Aksi korporasi (RUPST, RUPSLB, right issue, private placement, buyback,',
+  '  dividen, tender offer, stock split, akuisisi, suspensi) memakai pola:',
+  '  [Peristiwa] [KODE] [tanggal atau angka kunci]: [hasil atau keputusan].',
+  '  Contoh BENTUK (kode dan angkanya karangan, JANGAN disalin):',
+  '  "RUPSLB ABCD 20 November: [Right Issue] 2 Miliar Saham Disetujui"',
+  '  "Dividen Interim ABCD Rp25 per Saham, [Cair] 5 Desember"',
+  '  "Buyback ABCD Rp500 Miliar: [Pembelian] Mulai 1 Desember"',
+  '- Laporan kepemilikan: "[KODE]: [pelapor] [tambah/jual] [jumlah] saham,',
+  '  hak suara jadi [x]%".',
+  '- Nama peristiwanya istilah yang dicari orang (RUPSLB, right issue, buyback,',
+  '  dividen interim), bukan parafrase.',
+  '- Hasil atau keputusan WAJIB masuk judul kalau dokumennya memuatnya. Judul',
+  '  "ABCD Jadwalkan RUPSLB" tanpa agenda utamanya tidak menjawab apa pun.',
+  '- Tetap berlaku: maks 70 karakter, kode emiten wajib, SATU kata kunci dalam',
+  '  kurung siku.',
+  '- Deck dan paragraf PERTAMA langsung memuat jawabannya: apa yang diputuskan',
+  '  atau dijadwalkan, berapa, dan kapan. Latar belakang di paragraf berikutnya.',
+].join('\n');
+
+// Tabel "Jadwal penting" di halaman artikel. Tanggalnya disaring lagi oleh
+// saringJadwal(): yang tidak tertulis di dokumen resmi dibuang, karena tabel
+// tanggal yang keliru lebih berbahaya daripada tidak ada tabel.
+const ATURAN_JADWAL_IDX = [
+  'JADWAL PENTING:',
+  '- Isi "jadwal" dengan tanggal yang TERTULIS di ISI DOKUMEN dan menentukan',
+  '  kelanjutan peristiwa: tanggal RUPS, recording date, cum dan ex dividen,',
+  '  tanggal pembayaran, periode perdagangan HMETD, periode pelaksanaan',
+  '  buyback, batas akhir tender offer, tanggal efektif.',
+  '- Format tanggal "YYYY-MM-DD". "acara" maks 80 karakter, misalnya',
+  '  "Cum dividen di pasar reguler".',
+  '- JANGAN menghitung atau menebak tanggal. Tanggal yang tidak tertulis di',
+  '  dokumen akan dibuang. Kalau tidak ada, isi [].',
+  '- Maks 8 baris, urut dari yang paling awal.',
+].join('\n');
+
+// Angka hasil parsing regex ditaruh SETELAH teks dokumen dan ditandai
+// otoritatif. Kalau model salah membaca tabel PDF, blok ini yang menang.
+function blokAngkaKepemilikan(a) {
+  return a ? [
+    '',
+    'ANGKA TERVERIFIKASI (hasil hitung otomatis dari dokumen, WAJIB pakai angka ini,',
+    'jangan hitung ulang sendiri, jangan pakai angka lain):',
+    '- Pelapor: ' + (a.nama || '(tidak tercantum)') + (a.jabatan ? ', ' + a.jabatan : ''),
+    '- Saham sebelum transaksi: ' + a.sebelum.toLocaleString('id-ID') + ' lembar',
+    '- Saham setelah transaksi: ' + a.sesudah.toLocaleString('id-ID') + ' lembar',
+    '- Selisih: ' + a.selisih.toLocaleString('id-ID') + ' lembar (' + a.arah + ')',
+    '- Besarnya transaksi terhadap kepemilikan pelapor: ' +
+      (a.persenDariKepemilikan === null ? '(tidak terhitung)' : a.persenDariKepemilikan.toFixed(4) + '%'),
+    '- Hak suara: ' + (a.hakSuaraSebelum || '?') + ' menjadi ' + (a.hakSuaraSesudah || '?') +
+      (a.hakSuaraBerubah ? ' (BERUBAH)' : ' (TIDAK BERUBAH)'),
+  ].join('\n') : '';
+}
+
 // ---------- 3. Berita dari keterbukaan informasi IDX ----------
 // sudahTerbit: artikelnya SUDAH tayang dan sedang ditulis ulang karena dulu
 // dibuat tanpa isi dokumen. Untuk kasus itu "layak" tidak relevan lagi;
@@ -710,24 +835,7 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     '   pihak yang terlibat, tenggat, atau syarat yang disebut. Pembaca harus',
     '   tahu isi dokumennya tanpa perlu membuka PDF-nya.',
     '3. Tulis "catatan" redaksi. Ini rubrik analisis, bukan ringkasan ulang.',
-    '   Isinya TIGA hal, dan URUTANNYA DIBALIK dari kebiasaan: penilaian dulu,',
-    '   penjelasan istilah belakangan.',
-    '   (a) PENILAIAN kamu di kalimat PERTAMA: laporan ini condong POSITIF,',
-    '       NEGATIF, atau NETRAL bagi emiten, dan alasannya. Terus terang.',
-    '   (b) pos kinerja mana yang tersentuh (ekuitas, arus kas, beban bunga,',
-    '       jumlah saham beredar, laba per saham), dan kenapa pelaku pasar',
-    '       memperhatikannya. Istilah dijelaskan DI SINI, seperlunya, bukan',
-    '       sebagai pembuka.',
-    '   (c) YANG DIPANTAU BERIKUTNYA: sebut peristiwa konkret dari dokumen ini',
-    '       yang akan menentukan kelanjutannya, lengkap dengan tanggalnya kalau',
-    '       ada. RUPSLB, tanggal efektif, tenggat pembayaran, batas waktu',
-    '       penjelasan ke bursa. Dokumen keterbukaan hampir selalu memuat satu.',
-    '',
-    '   DILARANG membuka catatan dengan pola kamus "X adalah ..." atau',
-    '   "X merupakan ...". Terukur 14 Agustus 2026: 48 dari 57 catatan IDX',
-    '   dibuka definisi istilah, dan penilaian arah baru muncul di kalimat',
-    '   terakhir kalau muncul sama sekali. Pembaca datang untuk penilaiannya;',
-    '   kamus bisa menunggu.',
+    CATATAN_IDX,
     '',
     'KALAU ADA BLOK RIWAYAT EMITEN di DATA, laporan ini TIDAK berdiri sendiri.',
     'Nilai RANGKAIANNYA, bukan dokumen ini saja. Lima laporan direksi menerima',
@@ -738,39 +846,13 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     'pernah disebut di mana pun. Kalau laporan ini cuma mengulang yang sudah',
     'diberitakan tanpa angka baru, set "layak": false.',
     '',
-    'CARA MENILAI POSITIF/NEGATIF/NETRAL, ini bagian yang paling sering salah:',
-    '- UKURAN LEBIH PENTING DARIPADA JENIS TRANSAKSI. Wajib pakai angka di blok',
-    '  ANGKA TERVERIFIKASI. Direksi atau komisaris menjual saham TIDAK otomatis',
-    '  sinyal negatif. Kalau yang dilepas cuma pecahan kecil dari kepemilikannya',
-    '  (di bawah sekitar 1%) dan hak suaranya tidak berubah, itu REMAH, bukan',
-    '  sinyal. Sebut apa adanya bahwa ukurannya terlalu kecil untuk dibaca sebagai',
-    '  pernyataan sikap, lalu nilai NETRAL. Menakut-nakuti pembaca dengan',
-    '  "komisaris melepas saham" untuk transaksi ratusan ribu rupiah adalah',
-    '  kesalahan editorial yang serius.',
-    '- Sebaliknya, pelepasan dalam porsi besar, hilangnya status pengendali, atau',
-    '  hak suara yang turun tajam memang layak disebut sinyal negatif.',
-    '- Timbang juga sisi baiknya kalau ada: dana masuk, utang berkurang, kontrak',
-    '  baru, kapasitas bertambah.',
+    CARA_MENILAI_IDX,
     '',
-    'BATASAN KERAS (wajib dipatuhi):',
-    '- Penilaian positif/negatif/netral itu SOAL FUNDAMENTAL EMITEN, bukan ajakan',
-    '  bertransaksi. DILARANG memberi rekomendasi beli, jual, tahan, akumulasi,',
-    '  "layak koleksi", atau menyebut target harga dan level support/resistance.',
-    '- DILARANG memprediksi arah harga saham. Boleh menjelaskan mekanisme dan',
-    '  bagaimana pasar biasanya membaca hal semacam ini, tidak boleh memastikan',
-    '  hasilnya. Tulis "menambah saham beredar sehingga laba per saham bisa',
-    '  terdilusi", bukan "sahamnya akan turun".',
-    '- DILARANG mengarang angka, nilai transaksi, nama orang, atau nama perusahaan',
-    '  yang tidak tertulis di DATA. Kalau hanya ada kode emiten, sebut kode itu saja.',
-    '- DILARANG menyebut alamat rumah, nomor telepon, atau email siapa pun,',
-    '  sekalipun muncul di dokumen. Nama dan jabatan boleh, karena itu memang',
-    '  bagian yang wajib diumumkan.',
-    '- Angka di blok ANGKA TERVERIFIKASI adalah yang benar. Kalau bacaanmu atas',
-    '  tabel PDF berbeda dari blok itu, IKUTI BLOK ITU.',
-    '- DILARANG menerbitkan berita yang isinya mengaku dokumennya tidak terbaca.',
-    '  Kalau ISI DOKUMEN tidak tersedia, set "layak": false dan berhenti.',
-    '  Berita yang bilang "rinciannya belum diketahui" tidak berguna bagi',
-    '  pembaca dan merusak kredibilitas. Lebih baik tidak terbit sama sekali.',
+    BATASAN_IDX,
+    '',
+    RUMUS_JUDUL_IDX,
+    '',
+    ATURAN_JADWAL_IDX,
     '',
     BAHASA_AWAM,
     '',
@@ -781,34 +863,20 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     'FORMAT KELUARAN: HANYA JSON valid, tanpa penjelasan, tanpa pagar kode.',
     '{',
     '  "layak": boolean,',
-    '  "judul": string,      // maks 70 karakter, sebut kode emiten, tandai SATU kata kunci dengan kurung siku',
-    '  "deck": string,       // ringkasan 1-2 kalimat, maks 200 karakter',
+    '  "judul": string,      // ikuti RUMUS JUDUL: maks 70 karakter, sebut kode emiten, tandai SATU kata kunci dengan kurung siku',
+    '  "deck": string,       // ringkasan 1-2 kalimat, maks 200 karakter, langsung memuat jawabannya',
     '  "paragraf": string[], // 2-4 paragraf teks biasa, uraikan isi dokumen',
     '  "catatan": string,    // catatan redaksi, 3-5 kalimat, sesuai poin (a), (b), (c)',
     '  "sentimen": string,   // persis salah satu: "positif" | "negatif" | "netral"',
     '  "tag": string[],      // 2-4 tag, sertakan kode emiten',
+    '  "jadwal": [{"tanggal": "YYYY-MM-DD", "acara": string}], // lihat JADWAL PENTING, boleh []',
     '  "foto": string        // adegan foto, lihat aturan di bawah',
     '}',
     '',
     ATURAN_FOTO,
   ].join('\n');
 
-  // Angka hasil parsing regex ditaruh SETELAH teks dokumen dan ditandai
-  // otoritatif. Kalau model salah membaca tabel PDF, blok ini yang menang.
-  const a = bahan.angka;
-  const blokAngka = a ? [
-    '',
-    'ANGKA TERVERIFIKASI (hasil hitung otomatis dari dokumen, WAJIB pakai angka ini,',
-    'jangan hitung ulang sendiri, jangan pakai angka lain):',
-    '- Pelapor: ' + (a.nama || '(tidak tercantum)') + (a.jabatan ? ', ' + a.jabatan : ''),
-    '- Saham sebelum transaksi: ' + a.sebelum.toLocaleString('id-ID') + ' lembar',
-    '- Saham setelah transaksi: ' + a.sesudah.toLocaleString('id-ID') + ' lembar',
-    '- Selisih: ' + a.selisih.toLocaleString('id-ID') + ' lembar (' + a.arah + ')',
-    '- Besarnya transaksi terhadap kepemilikan pelapor: ' +
-      (a.persenDariKepemilikan === null ? '(tidak terhitung)' : a.persenDariKepemilikan.toFixed(4) + '%'),
-    '- Hak suara: ' + (a.hakSuaraSebelum || '?') + ' menjadi ' + (a.hakSuaraSesudah || '?') +
-      (a.hakSuaraBerubah ? ' (BERUBAH)' : ' (TIDAK BERUBAH)'),
-  ].join('\n') : '';
+  const blokAngka = blokAngkaKepemilikan(bahan.angka);
 
   const user = [
     '<<<DATA>>>',
@@ -855,6 +923,151 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     takeaway: hasil.catatan || '',
     sentimen: ['positif', 'negatif', 'netral'].includes(String(hasil.sentimen).toLowerCase())
       ? String(hasil.sentimen).toLowerCase() : 'netral',
+    // Golongan peristiwa dari judul resmi IDX (update-idx), supaya dokumen
+    // lanjutan bisa menemukan artikel ini dan halaman rangkuman tahu
+    // kelompoknya tanpa menebak dari judul tulisan kita.
+    ...(bahan.peristiwa ? { peristiwa: bahan.peristiwa } : {}),
+    // Judul resmi dokumennya, untuk daftar "Dokumen resmi" di halaman
+    // rangkuman peristiwa.
+    ...(bahan.judulAsli ? { judulIdx: String(bahan.judulAsli).slice(0, 200) } : {}),
+    ...(function () {
+      const jadwal = saringJadwal(hasil.jadwal, bahan.isiDokumen);
+      return jadwal.length ? { jadwal } : {};
+    })(),
+  };
+}
+
+// ---------- 3b. Pembaruan artikel IDX oleh dokumen lanjutan ----------
+//
+// Satu peristiwa korporasi melahirkan beberapa dokumen resmi: RUPS punya
+// pemberitahuan rencana, panggilan, lalu ringkasan risalah; right issue punya
+// rencana, prospektus, lalu hasil. Sampai 11 November 2026 tiap dokumen jadi
+// artikel baru. Laporan Oktober menghitung akibatnya: 25% artikel IDX di
+// arsip adalah dokumen lanjutan peristiwa yang sudah diberitakan, tercecer
+// di URL berbeda (right issue FORU sembilan artikel).
+//
+// Fungsi ini MEMPERBARUI artikel yang sudah ada. Model memeriksa dulu apakah
+// dokumennya benar-benar kelanjutan peristiwa yang sama, karena calon
+// sasarannya dipilih kode (emiten + golongan + jendela waktu) dan kode bisa
+// keliru menyamakan dua RUPS atau dua pinjaman yang berbeda.
+//
+// Keluaran:
+//   null                        jawaban tidak terbaca; JANGAN dicatat tolakan,
+//                               coba lagi putaran depan
+//   { sama: false }             bukan peristiwa yang sama; terbitkan biasa
+//   { sama: true, baru: false } peristiwa sama tanpa fakta baru
+//   { sama: true, baru: true, title, deck, body, takeaway, sentimen, tags,
+//     jadwal, ringkas }         isi baru artikel (slug dan tanggal terbit TETAP)
+export async function perbaruiKeterbukaan(lama, bahan) {
+  const system = [
+    'Kamu redaktur pasar modal untuk The Signal, portal berita ekonomi Indonesia.',
+    '',
+    PENGAMAN,
+    '',
+    'KONTEKS: kamu menerima ARTIKEL KAMI YANG SUDAH TERBIT tentang satu peristiwa',
+    'korporasi, dan SATU DOKUMEN BARU keterbukaan informasi IDX dari emiten yang',
+    'sama, lengkap dengan ISI DOKUMEN resminya.',
+    '',
+    'TUGAS:',
+    '1. Putuskan apakah dokumen baru ini KELANJUTAN PERISTIWA YANG SAMA.',
+    '   Sama: pemberitahuan rencana RUPSLB, lalu panggilannya, lalu ringkasan',
+    '   risalahnya; rencana buyback lalu laporan pelaksanaannya; jadwal dividen',
+    '   lalu koreksinya; rencana right issue lalu prospektus dan hasilnya;',
+    '   laporan kepemilikan berikutnya dari pelapor yang sama.',
+    '   BUKAN: RUPS lain dengan agenda berbeda, pinjaman atau transaksi lain,',
+    '   obligasi seri lain, transaksi saham pelapor lain yang tidak terkait.',
+    '   Kalau bukan, jawab persis {"sama": false} dan berhenti.',
+    '2. Kalau sama tetapi dokumen ini tidak menambah fakta apa pun bagi',
+    '   pemegang saham (pengulangan, bukti iklan, koreksi salah ketik), jawab',
+    '   persis {"sama": true, "baru": false} dan berhenti.',
+    '3. Kalau sama dan ada fakta baru, TULIS ULANG artikelnya UTUH, supaya',
+    '   pembaca yang baru datang mendapat cerita lengkap sampai hari ini:',
+    '   - judul baru sesuai RUMUS JUDUL yang mencerminkan perkembangan TERAKHIR;',
+    '   - deck dan paragraf PERTAMA memuat perkembangan terbaru;',
+    '   - fakta lama yang masih berlaku tetap ada di paragraf berikutnya; fakta',
+    '     yang sudah digantikan dokumen baru DIGANTI, jangan dibiarkan bertentangan;',
+    '   - catatan redaksi baru yang menilai RANGKAIANNYA sampai dokumen terbaru;',
+    '   - "ringkas": SATU kalimat, maks 160 karakter, tentang apa yang BARU dari',
+    '     dokumen ini. Kalimat ini tampil di riwayat pembaruan artikel;',
+    '   - "jadwal": jadwal lama yang masih berlaku ditambah jadwal dari dokumen baru.',
+    '',
+    'CATATAN REDAKSI. Ini rubrik analisis, bukan ringkasan ulang.',
+    CATATAN_IDX,
+    '',
+    CARA_MENILAI_IDX,
+    '',
+    BATASAN_IDX,
+    '',
+    RUMUS_JUDUL_IDX,
+    '',
+    ATURAN_JADWAL_IDX,
+    '',
+    BAHASA_AWAM,
+    '',
+    KELENGKAPAN,
+    '',
+    GAYA,
+    '',
+    'FORMAT KELUARAN: HANYA JSON valid, tanpa penjelasan, tanpa pagar kode.',
+    '{',
+    '  "sama": boolean,',
+    '  "baru": boolean,',
+    '  "judul": string,      // ikuti RUMUS JUDUL',
+    '  "deck": string,       // maks 200 karakter, perkembangan terbaru',
+    '  "paragraf": string[], // 2-5 paragraf, yang terbaru di depan',
+    '  "catatan": string,    // catatan redaksi, 3-5 kalimat, sesuai poin (a), (b), (c)',
+    '  "sentimen": string,   // persis salah satu: "positif" | "negatif" | "netral"',
+    '  "tag": string[],      // 2-4 tag, sertakan kode emiten',
+    '  "jadwal": [{"tanggal": "YYYY-MM-DD", "acara": string}],',
+    '  "ringkas": string     // satu kalimat apa yang baru',
+    '}',
+  ].join('\n');
+
+  const riwayat = (lama.pembaruan || [])
+    .map(p => '- [' + String(p.tanggal || '').slice(0, 10) + '] ' + (p.ringkas || '')).join('\n');
+  const user = [
+    '<<<DATA>>>',
+    'ARTIKEL YANG SUDAH TERBIT (pertama terbit ' + String(lama.isoDate || '').slice(0, 10) + '):',
+    'Judul: ' + String(lama.title || '').replace(/[\[\]]/g, ''),
+    'Deck: ' + (lama.deck || ''),
+    'Isi:\n' + (lama.body || []).join('\n\n'),
+    'Catatan redaksi: ' + (lama.takeaway || ''),
+    'Penilaian: ' + (lama.sentimen || 'netral'),
+    lama.jadwal && lama.jadwal.length
+      ? 'Jadwal: ' + lama.jadwal.map(j => j.tanggal + ' ' + j.acara).join('; ') : '',
+    riwayat ? 'Riwayat pembaruan:\n' + riwayat : '',
+    '',
+    'DOKUMEN BARU:',
+    'Kode emiten: ' + (bahan.emiten || '(tidak tercantum)'),
+    bahan.namaEmiten ? 'Nama resmi emiten: ' + bahan.namaEmiten : 'Nama perusahaan: TIDAK DIKETAHUI - sebut kode emiten saja, jangan menebak nama',
+    'Judul laporan: ' + bahan.judulAsli,
+    bahan.perihal ? 'Perihal: ' + bahan.perihal : '',
+    'Tanggal: ' + bahan.terbit,
+    bahan.isiDokumen ? '\nISI DOKUMEN RESMI:\n' + bahan.isiDokumen : '\n(Isi dokumen tidak berhasil dibaca, hanya judul yang tersedia.)',
+    blokAngkaKepemilikan(bahan.angka),
+    '<<<AKHIR_DATA>>>',
+  ].filter(Boolean).join('\n');
+
+  const h = ambilJSON(await tanya(system, user));
+  if (!h || typeof h.sama !== 'boolean') return null;
+  if (!h.sama) return { sama: false };
+  if (h.baru === false) return { sama: true, baru: false };
+  if (!h.judul || !Array.isArray(h.paragraf) || !h.paragraf.length) return null;
+
+  const emiten = (bahan.emiten || lama.emiten || '').toUpperCase();
+  const sentimen = String(h.sentimen || '').toLowerCase();
+  return {
+    sama: true, baru: true,
+    title: h.judul,
+    deck: h.deck || lama.deck,
+    body: h.paragraf.slice(0, 6),
+    takeaway: h.catatan || lama.takeaway || '',
+    sentimen: ['positif', 'negatif', 'netral'].includes(sentimen) ? sentimen : (lama.sentimen || 'netral'),
+    tags: Array.from(new Set([...(h.tag || []), emiten].filter(Boolean))).slice(0, 4),
+    // Jadwal lama sudah lolos pemeriksaan terhadap dokumen lamanya; jadwal
+    // baru wajib tertulis di dokumen baru.
+    jadwal: saringJadwal(h.jadwal, bahan.isiDokumen, (lama.jadwal || []).map(j => j.tanggal)),
+    ringkas: String(h.ringkas || '').trim().slice(0, 200),
   };
 }
 

@@ -111,6 +111,13 @@ const RUTIN = new RegExp([
   'perubahan alamat', 'pindah alamat', 'perubahan domisili',
   'perubahan e-?mail', 'perubahan situs', 'perubahan logo',
   'perubahan nama perseroan(?! terbatas)',
+  // Pengumuman bursa yang terbit puluhan kali sepekan tanpa satu pun
+  // keputusan emiten di dalamnya. Diukur dari 1.200 pengumuman 4-11 November
+  // 2026: pencatatan tambahan ETF 19x, jumlah dan penyesuaian structured
+  // warrant 23x, dematerialisasi 6x, saham hilang 3x. Semuanya dulu ikut jadi
+  // kandidat karena tidak cocok RUTIN maupun MATERIAL.
+  'pencatatan tambahan (saham )?etf', 'structured warrant', 'waran terstruktur',
+  'dematerialisasi', 'saham hilang',
 ].join('|'), 'i');
 
 // Kategori yang secara fundamental bisa menggerakkan harga saham.
@@ -128,9 +135,24 @@ const RUTIN = new RegExp([
 // material menurut POJK: transaksi afiliasi, gugatan hukum, perjanjian
 // kredit dan penjaminan, jawaban emiten atas volatilitas / permintaan
 // penjelasan bursa, dan papan pemantauan khusus.
+//
+// Ditambal lagi 11 November 2026, juga dari bukti. Sejak hari itu HANYA
+// yang cocok daftar ini yang diterbitkan (keputusan pemilik setelah laporan
+// Oktober menemukan situs ini hilang dari Google), jadi bolos di sini kini
+// berarti laporan itu tidak terbit sama sekali. Bolos di sampel 4-11
+// November: "Ringkasan Risalah Rapat Umum PARA Pemegang Saham" 12x,
+// "Perubahan ANGGOTA Direksi", "Penjelasan atas Pemberitaan Media Massa" 4x,
+// rapat pemegang obligasi/sukuk (RUPO/RUPSU) 7x, "Pembelian atau Penjualan
+// Saham yang Nilainya Material", penyampaian prospektus, pendirian anak
+// usaha, pinjaman dan penyertaan modal ke entitas anak, serta jawaban emiten
+// atas perubahan liabilitas lebih dari 20%.
 const MATERIAL = new RegExp([
   'laporan keuangan', 'kinerja', 'dividen', 'rups', 'rupslb',
-  'rapat umum pemegang saham',
+  'rapat umum (para )?pemegang saham', '\\brupo\\b', '\\brupsu\\b',
+  'perubahan struktur pemegang saham', 'pemberitaan media',
+  'transaksi material', 'nilainya material', 'prospektus', '^penjelasan',
+  'lebih dari 20%', 'pendirian (anak|entitas|perusahaan)', 'pemberian pinjaman',
+  'penyertaan modal', 'peningkatan modal',
   'akuisisi', 'merger', 'penggabungan', 'pengambilalihan', 'divestasi',
   'penambahan modal', 'hmetd', 'right issue', 'private placement',
   'buyback', 'pembelian kembali saham', 'stock split', 'reverse stock',
@@ -144,7 +166,7 @@ const MATERIAL = new RegExp([
   'perjanjian kredit', 'penanggungan', 'penjaminan', 'gugatan',
   'volatilitas transaksi', 'permintaan penjelasan bursa',
   'informasi material', 'fakta material', 'keterbukaan informasi', 'kejadian penting',
-  'perubahan direksi', 'perubahan komisaris', 'perubahan pengurus',
+  'perubahan (anggota )?direksi', 'perubahan (anggota )?(dewan )?komisaris', 'perubahan pengurus',
   'pengunduran diri', 'pemeringkatan', 'public expose',
 ].join('|'), 'i');
 

@@ -1250,3 +1250,76 @@ a.article-tag:hover { border-color: var(--ink-soft); color: var(--ink); }
 .hub-silang { display: flex; align-items: center; flex-wrap: wrap; gap: .4rem;
   margin: 0 0 1.4rem; font-family: var(--sans); }
 .hub-silang-judul { font-size: 12px; font-weight: 700; color: var(--ink-soft); margin-right: .2rem; }
+
+/* ---------- Peristiwa korporasi (11 November 2026) ----------
+   Artikel IDX yang diperbarui dokumen lanjutan, tabel jadwal, dan halaman
+   rangkuman /peristiwa/. Sengaja garis rambut, bukan kotak beraksen merah:
+   aksen kiri merah milik .arah-blok, penanda penilaian redaksi. Jadwal dan
+   riwayat adalah data pendukung, jadi tidak boleh tampak sepenting itu. */
+.label-diperbarui { font-weight: 600; color: var(--red-deep); }
+
+.jadwal-judul, .riwayat-judul, .peristiwa-sub {
+  font-family: var(--sans); font-size: .68rem; font-weight: 700;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft);
+  margin: 0 0 .55rem;
+}
+.jadwal-penting { max-width: var(--kolom-baca); margin: 0 0 1.6rem; }
+.jadwal-tabel {
+  width: 100%; border-collapse: collapse;
+  font-family: var(--sans); font-size: .86rem; line-height: 1.5;
+}
+.jadwal-tabel td { padding: .55rem 0; border-top: 1px solid var(--line); vertical-align: top; }
+.jadwal-tabel tr:last-child td { border-bottom: 1px solid var(--line); }
+.jadwal-tabel .jadwal-tgl {
+  width: 14rem; padding-right: 1rem; white-space: nowrap;
+  font-weight: 600; color: var(--ink);
+}
+.jadwal-lewat td, .jadwal-tabel .jadwal-lewat .jadwal-tgl { color: var(--ink-soft); font-weight: 400; }
+.jadwal-catatan { margin-top: .45rem; font-family: var(--sans); font-size: .74rem; color: var(--ink-soft); }
+
+.peristiwa-tautan {
+  display: flex; flex-direction: column; gap: .2rem;
+  max-width: var(--kolom-baca); margin: 0 0 1.6rem; padding: .75rem 0;
+  border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+  font-family: var(--sans);
+}
+.peristiwa-tautan-label {
+  font-size: .68rem; font-weight: 700; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--red-deep);
+}
+.peristiwa-tautan-isi { font-size: .9rem; line-height: 1.45; color: var(--ink); }
+.peristiwa-tautan:hover .peristiwa-tautan-isi { color: var(--red-deep); }
+
+.riwayat-pembaruan { max-width: var(--kolom-baca); margin: 2rem 0 0; }
+.riwayat-daftar, .peristiwa-dokumen {
+  list-style: none; margin: 0; padding: 0;
+  font-family: var(--sans); font-size: .84rem; line-height: 1.55;
+}
+.riwayat-daftar li, .peristiwa-dokumen li {
+  display: grid; grid-template-columns: 9.5rem 1fr; gap: 1rem;
+  padding: .55rem 0; border-top: 1px solid var(--line);
+}
+.riwayat-daftar li:last-child, .peristiwa-dokumen li:last-child { border-bottom: 1px solid var(--line); }
+.riwayat-tgl, .peristiwa-dokumen .num { color: var(--ink-soft); }
+.riwayat-isi a {
+  color: var(--red-deep); white-space: nowrap;
+  text-decoration: underline; text-underline-offset: 2px;
+}
+.peristiwa-dokumen a:hover { color: var(--red-deep); }
+
+.peristiwa-badan { max-width: var(--kolom-baca); margin-top: .4rem; }
+.peristiwa-sub { margin: 2.2rem 0 .2rem; }
+.peristiwa-badan .linimasa { margin-top: 1rem; }
+.peristiwa-badan .peristiwa-dokumen { margin-top: .8rem; }
+.peristiwa-lanjut { margin: .65rem 0 0; font-family: var(--sans); font-size: .84rem; line-height: 1.5; }
+.peristiwa-lanjut a { color: var(--red-deep); }
+
+#saran-404 { margin: 0 0 2rem; }
+
+@media (max-width: 560px) {
+  .jadwal-tabel td { display: block; }
+  .jadwal-tabel .jadwal-tgl { width: auto; padding: .55rem 0 0; white-space: normal; }
+  .jadwal-tabel td + td { border-top: 0; padding-top: .1rem; }
+  .jadwal-tabel tr:last-child td.jadwal-tgl { border-bottom: 0; }
+  .riwayat-daftar li, .peristiwa-dokumen li { grid-template-columns: 1fr; gap: .1rem; }
+}

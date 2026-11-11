@@ -110,9 +110,57 @@ const ARSIP_PEKANAN = muatArsipPekanan();
 // ulang data yang tersimpan.
 import { agendaGabungan } from './agenda-sinyal.mjs';
 import { kelompokTema, temaDariArtikel } from './tema.mjs';
+import { kelompokPeristiwa, sumberArtikel, judulIdxArtikel } from './peristiwa.mjs';
 const AGENDA = agendaGabungan(ARTICLES);
 const KELOMPOK_TEMA = kelompokTema(ARTICLES);
 const TEMA_TAYANG = new Set(KELOMPOK_TEMA.map(t => t.slug));
+
+// Rangkuman per peristiwa korporasi (/peristiwa/). Satu RUPS, right issue,
+// atau buyback yang dulu terbit sebagai beberapa artikel terpisah disatukan
+// di satu halaman: arah terbaru, jadwal, garis waktu, dokumen resmi. Alasan
+// dan cara penggolongannya di scripts/peristiwa.mjs.
+//
+// AMBANG INDEKS 3, bukan 2, dan itu keputusan redaksi (11 November 2026),
+// bukan angka dari pengukuran. Halaman dua artikel tetap dibuat dan
+// ditautkan dari kedua artikelnya, tapi ber-noindex dan tidak masuk sitemap,
+// dengan alasan yang sama seperti halaman emiten satu-laporan: situs yang
+// baru dinilai ulang Google tidak perlu menambah halaman yang isinya nyaris
+// cuma dua tautan. Begitu kelompok itu bertambah anggota, ia masuk indeks
+// sendiri pada build berikutnya.
+const PERISTIWA = kelompokPeristiwa(ARTICLES);
+const AMBANG_INDEKS_PERISTIWA = 3;
+const PERISTIWA_PER_SLUG = new Map();
+const PERISTIWA_PER_EMITEN = new Map();
+for (const p of PERISTIWA) {
+  for (const a of p.anggota) PERISTIWA_PER_SLUG.set(a.slug, p);
+  if (!PERISTIWA_PER_EMITEN.has(p.emiten)) PERISTIWA_PER_EMITEN.set(p.emiten, []);
+  PERISTIWA_PER_EMITEN.get(p.emiten).push(p);
+}
+function urlPeristiwa(p) { return '/peristiwa/' + p.id + '.html'; }
+// Nama peristiwanya memakai istilah yang dicari orang, dan sespesifik yang
+// bisa dibuktikan dari isi anggotanya: "RUPSLB" hanya kalau semua anggotanya
+// memang menyebut rapat luar biasa, bukan tebakan dari satu artikel.
+function namaPeristiwa(p) {
+  const teks = p.anggota.map(a => plain(a.title) + ' ' + (a.deck || '')).map(t => t.toLowerCase());
+  const semua = (rx) => teks.every(t => rx.test(t));
+  switch (p.kunci) {
+    case 'rups':
+      return semua(/rupslb|luar biasa/) ? 'RUPSLB' : semua(/rupst|tahunan/) ? 'RUPST' : 'RUPS';
+    case 'right-issue':
+      return semua(/private placement|pmthmetd|tanpa hmetd|penempatan terbatas/) ? 'Private placement'
+        : semua(/rights? issue|hmetd|pmhmetd/) ? 'Right issue' : 'Penambahan modal';
+    case 'dividen': return semua(/interim/) ? 'Dividen interim' : 'Dividen';
+    case 'buyback': return 'Buyback saham';
+    case 'tender-offer': return semua(/go private|go-private/) ? 'Go private' : 'Tender offer';
+    case 'stock-split': return semua(/reverse/) ? 'Reverse stock split' : 'Stock split';
+    case 'akuisisi': return 'Akuisisi';
+    default: return p.label;
+  }
+}
+function bulanPeristiwa(p) {
+  const [y, m] = String(p.bulan).split('-').map(Number);
+  return (y && m) ? BULAN[m - 1] + ' ' + y : '';
+}
 function muatRapor() {
   const p = path.join(ROOT, 'assets/js/rapor.js');
   if (!fs.existsSync(p)) return null;
@@ -396,6 +444,56 @@ function blokRalat(r) {
   return '<aside class="ralat"><b class="ralat-label">Ralat' +
     (r.label || r.tanggal ? ', ' + esc(r.label || tglRingkas(r.tanggal)) : '') + '</b>' +
     '<p>' + esc(r.teks) + '</p></aside>';
+}
+
+// ---------- artikel yang diperbarui dokumen lanjutan ----------
+// Sejak 11 November 2026 dokumen IDX lanjutan (panggilan RUPS, risalah,
+// hasil right issue) memperbarui artikel yang sudah ada alih-alih terbit
+// sebagai artikel baru. Pembaruan itu WAJIB terlihat: label di kepala
+// artikel, dateModified untuk mesin pencari, dan riwayat yang menyebut apa
+// yang berubah beserta dokumennya. Mengubah isi tanpa jejak bertentangan
+// dengan pedoman media siber situs ini sendiri.
+function tglWIBArtikel(iso) { return tglRingkas(waktuISO(iso).slice(0, 10)); }
+function waktuUbahArtikel(a) {
+  return [a.isoDate, a.diperbarui, a.ralat && (a.ralat.waktu || a.ralat.tanggal)]
+    .filter(Boolean)
+    .sort((x, y) => (new Date(waktuISO(y)).getTime() || 0) - (new Date(waktuISO(x)).getTime() || 0))[0];
+}
+// Tabel jadwal. Tanggalnya sudah disaring terhadap dokumen resmi saat
+// artikel ditulis (saringJadwal di peristiwa.mjs). Tanggal yang sudah lewat
+// tetap ditampilkan, diredupkan, karena urutannya bagian dari cerita.
+function blokJadwal(a) {
+  if (!Array.isArray(a.jadwal) || !a.jadwal.length) return '';
+  const hariIni = new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0, 10);
+  const baris = a.jadwal.map(j =>
+    '<tr' + (j.tanggal < hariIni ? ' class="jadwal-lewat"' : '') + '>' +
+    '<td class="jadwal-tgl num">' + esc(labelHari(j.tanggal)) + '</td>' +
+    '<td>' + esc(j.acara) + '</td></tr>').join('');
+  return '<section class="jadwal-penting" aria-label="Jadwal penting">' +
+    '<h2 class="jadwal-judul">Jadwal penting</h2>' +
+    '<table class="jadwal-tabel"><tbody>' + baris + '</tbody></table>' +
+    '<p class="jadwal-catatan">Tanggal sesuai dokumen resmi emiten di IDX.</p></section>';
+}
+function blokPembaruan(a) {
+  if (!Array.isArray(a.pembaruan) || !a.pembaruan.length) return '';
+  const tautanDok = (u) => u
+    ? ' <a href="' + esc(u) + '" target="_blank" rel="noopener">Dokumen</a>' : '';
+  const butir = [...a.pembaruan].reverse().map(p =>
+    '<li><span class="riwayat-tgl num">' + esc(tglWIBArtikel(p.tanggal)) + '</span>' +
+    '<span class="riwayat-isi">' + esc(p.ringkas || 'Diperbarui dari dokumen lanjutan.') + tautanDok(p.sumber) + '</span></li>');
+  butir.push('<li><span class="riwayat-tgl num">' + esc(a.date) + '</span>' +
+    '<span class="riwayat-isi">Pertama terbit.' + tautanDok(a.sourceUrl) + '</span></li>');
+  return '<section class="riwayat-pembaruan" aria-label="Riwayat pembaruan">' +
+    '<h2 class="riwayat-judul">Riwayat pembaruan</h2>' +
+    '<ol class="riwayat-daftar">' + butir.join('') + '</ol></section>';
+}
+function tautanPeristiwa(a) {
+  const p = PERISTIWA_PER_SLUG.get(a.slug);
+  if (!p) return '';
+  return '<a class="peristiwa-tautan" href="' + urlPeristiwa(p) + '">' +
+    '<span class="peristiwa-tautan-label">Ikuti perkembangannya</span>' +
+    '<span class="peristiwa-tautan-isi">' + esc(namaPeristiwa(p) + ' ' + p.emiten) + ': ' +
+    p.anggota.length + ' laporan sejak ' + esc(p.anggota[0].date) + ' &rarr;</span></a>';
 }
 
 const NAMA_HARI = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
@@ -707,6 +805,7 @@ const FOOT = `
           <li><a href="/rapor.html">Rapor Sinyal</a></li>
           <li><a href="/tema.html">Tema Berjalan</a></li>
           <li><a href="/emiten.html">Sinyal per Emiten</a></li>
+          <li><a href="/peristiwa.html">Peristiwa Korporasi</a></li>
           <li><a href="/video.html">Video</a></li>
           <li><a href="/tentang.html">Tentang The Signal</a></li>
           <li><a href="/kontak.html">Kontak &amp; Koreksi</a></li>
@@ -805,7 +904,7 @@ ARTICLES.forEach(function (a) {
     // sebagian crawler AI sebagai sinyal kebaruan di luar JSON-LD.
     artikelMeta: {
       published: waktuISO(a.isoDate),
-      modified: waktuISO((a.ralat && (a.ralat.waktu || a.ralat.tanggal)) || a.isoDate),
+      modified: waktuISO(waktuUbahArtikel(a)),
       section: a.category,
     },
     jsonld: {
@@ -825,8 +924,9 @@ ARTICLES.forEach(function (a) {
       // diperbaiki setelah tayang. Menyamakannya dengan datePublished, seperti
       // sebelumnya, berarti memberi tahu mesin pencari bahwa isi yang sudah
       // berubah tidak pernah berubah, dan itu justru pada artikel yang paling
-      // perlu dibaca ulang.
-      dateModified: waktuISO((a.ralat && (a.ralat.waktu || a.ralat.tanggal)) || a.isoDate),
+      // perlu dibaca ulang. Sejak 11 November 2026 juga mengikuti tanggal
+      // PEMBARUAN dari dokumen IDX lanjutan; yang terbaru di antara keduanya.
+      dateModified: waktuISO(waktuUbahArtikel(a)),
       author: [{ '@type': 'Organization', name: 'The Signal', url: BASE }],
       mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + articleUrl(a) },
       articleSection: a.category, inLanguage: 'id-ID',
@@ -847,7 +947,7 @@ ARTICLES.forEach(function (a) {
       // dan keempat kebijakan redaksi, jadi menyalinnya lagi di sini cuma
       // membuat dua sumber kebenaran yang bisa berselisih.
       publisher: RUJUK_ORGANISASI,
-      isBasedOn: a.sourceUrl,
+      isBasedOn: a.pembaruan && a.pembaruan.length ? sumberArtikel(a) : a.sourceUrl,
     },
     // Remah roti versi terbaca mesin. Markup teksnya sudah lama ada di bawah,
     // tapi tanpa pasangan JSON-LD ini mesin pencari cuma melihat tiga tautan
@@ -870,7 +970,9 @@ ARTICLES.forEach(function (a) {
     `<h1 class="article-title">${hl(a.title)}</h1>` +
     `<p class="article-deck">${esc(a.deck)}</p>` +
     `<div class="hero-meta" style="border-top:none;padding-top:0;margin-top:1rem;">` +
-    `<span class="num">${esc(a.date)}</span><span>${
+    `<span class="num">${esc(a.date)}</span>` +
+    (a.diperbarui ? `<span class="label-diperbarui">Diperbarui <span class="num">${esc(tglWIBArtikel(a.diperbarui))}</span></span>` : '') +
+    `<span>${
       jenisSumber(a) === 'idx' ? 'Sumber: <strong>Keterbukaan Informasi IDX</strong>'
       : jenisSumber(a) === 'gov' ? 'Sumber: <strong>Siaran pers ' + esc(a.sourceLabel) + '</strong>'
       : 'Dirangkum dari <strong>tvOneNews</strong>'}</span></div>` +
@@ -910,7 +1012,10 @@ ARTICLES.forEach(function (a) {
       `<p class="arah-isi">${esc(a.takeaway)}</p>` +
       `</aside>` : '') +
     blokRalat(a.ralat) +
+    blokJadwal(a) +
+    tautanPeristiwa(a) +
     `<div class="article-body">${badanDenganBps(a)}</div>` +
+    blokPembaruan(a) +
     (a.category === 'Pasar Modal' || a.category === 'Moneter'
       ? `<p class="disclaimer-investasi">Artikel ini informasi, bukan ajakan atau rekomendasi membeli maupun menjual instrumen investasi apa pun. Keputusan investasi beserta risikonya sepenuhnya tanggung jawab pembaca.</p>`
       : '') +
@@ -1113,6 +1218,51 @@ if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
 
 // ---------- Halaman 404 ----------
 //
+// TEBAKAN ARTIKEL TERDEKAT, sejak 11 November 2026. Laporan Oktober
+// menemukan /berita/vtny-be, tautan yang terpotong saat dibagikan, mendapat
+// 25 kunjungan dalam sebulan, dan semuanya berakhir di halaman ini tanpa
+// petunjuk ke artikel yang dicari. Potongan alamatnya dicocokkan ke daftar
+// slug: awalan dulu, lalu kode emiten di depannya, lalu kata yang sama.
+// Ditulis tanpa garis miring terbalik supaya aman di dalam template literal.
+const SKRIP_SARAN_404 = `<script>
+(function () {
+  var bagian = location.pathname.split('/');
+  if (bagian[1] !== 'berita' || !bagian[2]) return;
+  var frag;
+  try { frag = decodeURIComponent(bagian[2]); } catch (e) { frag = bagian[2]; }
+  frag = frag.toLowerCase().replace(/[.]html?$/, '').replace(/[^a-z0-9-]+/g, '-').replace(/^-+|-+$/g, '');
+  if (frag.length < 3) return;
+  fetch('/assets/data/slug-artikel.json').then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+    if (!d || !d.s) return;
+    var s = d.s;
+    var hasil = s.filter(function (x) { return x.indexOf(frag) === 0; });
+    if (!hasil.length) {
+      var depan = frag.split('-')[0];
+      if (depan.length >= 3) hasil = s.filter(function (x) { return x.split('-')[0] === depan; });
+    }
+    if (!hasil.length) {
+      var kata = frag.split('-').filter(function (k) { return k.length >= 4; });
+      if (kata.length >= 2) hasil = s.map(function (x) {
+        var n = 0; kata.forEach(function (k) { if (x.indexOf(k) !== -1) n++; }); return [n, x];
+      }).filter(function (p) { return p[0] >= 2; })
+        .sort(function (a, b) { return b[0] - a[0]; }).map(function (p) { return p[1]; });
+    }
+    if (!hasil.length) return;
+    var daftar = document.getElementById('saran-404-daftar');
+    hasil.slice(0, 6).forEach(function (x) {
+      var a = document.createElement('a');
+      a.className = 'compact-row';
+      a.href = '/berita/' + x + '.html';
+      var b = document.createElement('span'); b.className = 'compact-body';
+      var t = document.createElement('span'); t.className = 'compact-title';
+      t.textContent = x.replace(/-/g, ' ').replace(/^([a-z]{4}) /, function (_, k) { return k.toUpperCase() + ' '; });
+      b.appendChild(t); a.appendChild(b); daftar.appendChild(a);
+    });
+    document.getElementById('saran-404').hidden = false;
+  }).catch(function () {});
+})();
+</script>`;
+//
 // Vercel menyajikan 404.html di root secara otomatis untuk alamat yang tidak
 // ada. Tanpa berkas ini pengunjung mendapat teks polos berbahasa Inggris tanpa
 // satu pun jalan kembali, padahal salah ketik dan tautan terpangkas itu lumrah,
@@ -1146,10 +1296,17 @@ if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
     `<p style="color:var(--ink-soft);line-height:1.6;">Alamatnya mungkin salah ketik, atau tautannya ` +
     `terpotong saat disalin. Yang jelas tidak ada halaman di alamat ini.</p>` +
     `<p style="margin:1rem 0 2rem;"><a class="btn-modal-submit" href="/">Ke halaman depan</a></p>` +
+    `<div id="saran-404" hidden><h4>Mungkin maksud Anda</h4><div class="compact-list" id="saran-404-daftar"></div></div>` +
     `<h4>Atau baca yang terbaru</h4>` +
     `<div class="compact-list">${terbaru}</div>` +
-    `</section>` + FOOT, 'utf8');
-  console.log('halaman 404: ok');
+    `</section>` + SKRIP_SARAN_404 + FOOT, 'utf8');
+
+  // Daftar slug untuk tebakan di atas. Berkas terpisah, diunduh HANYA saat
+  // pengunjung tersasar ke 404, jadi tidak membebani halaman lain.
+  fs.mkdirSync(path.join(ROOT, 'assets/data'), { recursive: true });
+  fs.writeFileSync(path.join(ROOT, 'assets/data/slug-artikel.json'),
+    JSON.stringify({ s: ARTICLES.map(a => a.slug) }), 'utf8');
+  console.log('halaman 404: ok (' + ARTICLES.length + ' slug untuk tebakan)');
 }
 
 // ---------- halaman identitas media ----------
@@ -1235,6 +1392,9 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
     pantauEmiten(kode, esc) +
     barisSilang('Topik terkait', topikDariEmiten(arts).map(t => ({
       url: '/topik/' + t.slug + '.html', teks: t.nama,
+    }))) +
+    barisSilang('Rangkuman peristiwa', (PERISTIWA_PER_EMITEN.get(kode) || []).map(p => ({
+      url: urlPeristiwa(p), teks: namaPeristiwa(p) + ' ' + bulanPeristiwa(p),
     }))) +
     `<div class="linimasa">${arts.map(a => itemLinimasa(a)).join('')}</div>` +
     DISCLAIMER_SINYAL +
@@ -1346,6 +1506,160 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
     DISCLAIMER_SINYAL +
     `</section>` + FOOT, 'utf8');
   console.log('sinyal per emiten:', DAFTAR_EMITEN.length, 'halaman + indeks');
+}
+
+// ---------- Rangkuman peristiwa korporasi ----------
+//
+// Satu halaman per peristiwa (RUPS, right issue, buyback, dividen, tender
+// offer, akuisisi, stock split) yang terbit sebagai dua artikel atau lebih.
+// Isinya disusun dari artikel yang sudah ada, tanpa memanggil model: arah
+// terbaru, jadwal gabungan, garis waktu, dan daftar dokumen resminya.
+// Pengelompokan dan alasannya di scripts/peristiwa.mjs; ambang indeksnya di
+// AMBANG_INDEKS_PERISTIWA di atas.
+fs.mkdirSync(ROOT + '/peristiwa', { recursive: true });
+const waktuPeristiwa = (a) => new Date(waktuISO(a.diperbarui || a.isoDate)).getTime() || 0;
+function jadwalGabungan(arts) {
+  const peta = new Map();
+  for (const a of arts) for (const j of (a.jadwal || [])) {
+    const k = j.tanggal + '|' + String(j.acara).toLowerCase();
+    if (!peta.has(k)) peta.set(k, j);
+  }
+  return [...peta.values()].sort((x, y) => x.tanggal.localeCompare(y.tanggal)).slice(0, 12);
+}
+// Teks tautan dokumen memakai JUDUL RESMI IDX-nya, bukan judul tulisan kita:
+// daftar ini untuk pembaca yang ingin memeriksa sumber primernya, dan judul
+// kita sudah ada di garis waktu tepat di atasnya.
+function dokumenPeristiwa(arts) {
+  const dok = [];
+  for (const a of arts) {
+    if (a.sourceUrl) dok.push({ tgl: a.date, url: a.sourceUrl, teks: judulIdxArtikel(a) || plain(a.title) });
+    for (const u of (a.pembaruan || [])) {
+      if (u.sumber) dok.push({ tgl: tglWIBArtikel(u.tanggal), url: u.sumber, teks: u.judulIdx || u.ringkas || plain(a.title) });
+    }
+  }
+  return dok;
+}
+
+for (const p of PERISTIWA) {
+  const nama = namaPeristiwa(p);
+  const bulan = bulanPeristiwa(p);
+  const nmEmiten = namaEmiten(p.emiten);
+  const urut = [...p.anggota].sort((x, y) => waktuPeristiwa(y) - waktuPeristiwa(x));
+  const terbaru = urut[0];
+  const jadwal = jadwalGabungan(p.anggota);
+  const dok = dokumenPeristiwa(p.anggota);
+  const lain = (PERISTIWA_PER_EMITEN.get(p.emiten) || []).filter(x => x.id !== p.id);
+  const judulHalaman = nama + ' ' + p.emiten + ' ' + bulan + ': Rangkuman ' + p.anggota.length + ' Laporan';
+  const isi =
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Rangkuman peristiwa</span>` +
+    `<h1 class="harian-judul">${esc(nama + ' ' + p.emiten)}</h1>` +
+    (nmEmiten ? `<p class="emiten-nama">${esc(nmEmiten)}</p>` : '') +
+    `<p class="harian-tanggal num">${p.anggota.length} laporan keterbukaan &middot; ${esc(p.anggota[0].date)}` +
+    (function () {
+      const akhir = terbaru.diperbarui ? tglWIBArtikel(terbaru.diperbarui) : terbaru.date;
+      return akhir !== p.anggota[0].date ? ' sampai ' + esc(akhir) : '';
+    })() + `</p>` +
+    `</div>` +
+    barisSilang('Lihat juga', [{ url: '/emiten/' + p.emiten + '.html', teks: 'Semua laporan ' + p.emiten }]
+      .concat(lain.map(x => ({ url: urlPeristiwa(x), teks: namaPeristiwa(x) + ' ' + bulanPeristiwa(x) })))) +
+    `<div class="peristiwa-badan">` +
+    (terbaru.takeaway ? `<aside class="arah-blok" role="note" aria-label="Pembacaan redaksi">` +
+      `<b class="arah-label">Arah terbaru${terbaru.sentimen ? ' ' + chipSentimen(terbaru.sentimen) : ''}</b>` +
+      `<p class="arah-sumber">Pembacaan redaksi The Signal atas laporan terakhir, bukan pernyataan dari sumber.</p>` +
+      `<p class="arah-isi">${esc(terbaru.takeaway)}</p>` +
+      `<p class="peristiwa-lanjut"><a href="${articleUrl(terbaru)}">${esc(plain(terbaru.title))} &rarr;</a></p>` +
+      `</aside>` : '') +
+    blokJadwal({ jadwal }) +
+    `<h2 class="peristiwa-sub">Garis waktu</h2>` +
+    `<div class="linimasa">${urut.map(a => itemLinimasa(a)).join('')}</div>` +
+    (dok.length ? `<h2 class="peristiwa-sub">Dokumen resmi di IDX</h2>` +
+      `<ul class="peristiwa-dokumen">${dok.map(d =>
+        `<li><span class="num">${esc(d.tgl)}</span><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.teks)}</a></li>`).join('')}</ul>` : '') +
+    `</div>` +
+    DISCLAIMER_SINYAL +
+    `</section>`;
+  fs.writeFileSync(path.join(ROOT, 'peristiwa', p.id + '.html'),
+    head({
+      title: judulHalaman,
+      desc: (nama + ' ' + p.emiten + (nmEmiten ? ' (' + nmEmiten + ')' : '') + ': ' + p.anggota.length +
+        ' laporan keterbukaan informasi sejak ' + p.anggota[0].date + '. Terbaru: ' + plain(terbaru.title) + '.').slice(0, 300),
+      url: urlPeristiwa(p),
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+      noindex: p.anggota.length < AMBANG_INDEKS_PERISTIWA,
+      jsonld: {
+        '@context': 'https://schema.org', '@type': 'CollectionPage',
+        name: judulHalaman,
+        description: 'Rangkuman laporan keterbukaan informasi ' + nama + ' ' + p.emiten + ' yang dibaca The Signal.',
+        ...(nmEmiten ? { about: { '@type': 'Corporation', name: nmEmiten, tickerSymbol: p.emiten } } : {}),
+        url: BASE + urlPeristiwa(p),
+        inLanguage: 'id-ID',
+        isPartOf: RUJUK_SITUS,
+        publisher: RUJUK_ORGANISASI,
+        dateModified: waktuISO(terbaru.diperbarui || terbaru.isoDate),
+        mainEntity: {
+          '@type': 'ItemList',
+          numberOfItems: urut.length,
+          itemListElement: urut.map((a, i) => ({
+            '@type': 'ListItem', position: i + 1, url: BASE + articleUrl(a), name: plain(a.title),
+          })),
+        },
+      },
+    }) + isi + FOOT, 'utf8');
+}
+
+{
+  // Peristiwa yang sedang berjalan: artikel yang diperbarui dokumen
+  // lanjutan dalam 90 hari terakhir. Sejak aturan gabung berlaku, peristiwa
+  // baru tidak lagi tercecer jadi banyak artikel, jadi di sinilah ia terlihat.
+  const BATAS_BERJALAN = Date.now() - 90 * 86400000;
+  const berjalan = ARTICLES
+    .filter(a => a.diperbarui && (new Date(waktuISO(a.diperbarui)).getTime() || 0) > BATAS_BERJALAN)
+    .sort((x, y) => waktuPeristiwa(y) - waktuPeristiwa(x))
+    .slice(0, 40);
+  const barisBerjalan = berjalan.map(a =>
+    `<a class="compact-row" href="${articleUrl(a)}"><span class="compact-body">` +
+    `<span class="compact-title">${esc(plain(a.title))}</span>` +
+    `<span class="compact-meta">${esc(a.emiten || '')} &middot; diperbarui ${esc(tglWIBArtikel(a.diperbarui))} &middot; ` +
+    `${(a.pembaruan || []).length + 1} dokumen</span></span></a>`).join('');
+  const kartu = PERISTIWA.map(p =>
+    `<a class="emiten-kartu" href="${urlPeristiwa(p)}">` +
+    `<span class="emiten-kode">${esc(p.emiten)}</span>` +
+    `<span class="emiten-nama-kartu">${esc(namaPeristiwa(p) + ', ' + bulanPeristiwa(p))}</span>` +
+    `<span class="emiten-info">${p.anggota.length} laporan &middot; <span class="num">${esc(p.terakhir.date)}</span></span>` +
+    chipSentimen(p.terakhir.sentimen) + `</a>`).join('');
+  fs.writeFileSync(path.join(ROOT, 'peristiwa.html'),
+    head({
+      title: 'Peristiwa Korporasi',
+      desc: 'Rangkuman RUPS, right issue, buyback, dividen, dan aksi korporasi lain yang dibaca The Signal: ' +
+        PERISTIWA.length + ' peristiwa, masing-masing dengan arah terbaru, jadwal, dan dokumen resminya.',
+      url: '/peristiwa.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+      jsonld: halamanKoleksi({
+        nama: 'Peristiwa Korporasi', url: '/peristiwa.html',
+        deskripsi: 'Rangkuman aksi korporasi emiten Bursa Efek Indonesia per peristiwa.',
+        item: PERISTIWA.map(p => ({ nama: namaPeristiwa(p) + ' ' + p.emiten + ' ' + bulanPeristiwa(p), url: urlPeristiwa(p) })),
+      }),
+    }) +
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Peristiwa Korporasi</span>` +
+    `<h1 class="harian-judul">Satu peristiwa, satu halaman</h1>` +
+    `<p class="harian-ringkas">RUPS, right issue, buyback, dan dividen biasanya datang sebagai beberapa dokumen ` +
+    `resmi: rencana, panggilan, lalu hasil. Di sini dokumen-dokumen itu disatukan per peristiwa, ` +
+    `lengkap dengan arah terbaru dan jadwalnya.</p>` +
+    `</div>` +
+    (barisBerjalan ? `<h2 class="peristiwa-sub">Sedang berjalan</h2><div class="compact-list">${barisBerjalan}</div>` : '') +
+    `<h2 class="peristiwa-sub">Rangkuman peristiwa</h2>` +
+    `<div class="emiten-grid">${kartu}</div>` +
+    DISCLAIMER_SINYAL +
+    `</section>` + FOOT, 'utf8');
+  console.log('rangkuman peristiwa:', PERISTIWA.length, 'halaman (' +
+    PERISTIWA.filter(p => p.anggota.length >= AMBANG_INDEKS_PERISTIWA).length + ' diindeks) + indeks, ' +
+    berjalan.length + ' sedang berjalan');
 }
 
 // ---------- Agenda Sinyal ----------
@@ -1964,9 +2278,12 @@ const yatimVideo = bersihkanYatim("tayangan", new Set(VIDEOS.map(v => v.id + ".h
 // menyisakan halaman beku yang masih bisa diakses publik.
 const yatimEmiten = bersihkanYatim("emiten", new Set(DAFTAR_EMITEN.map(([k]) => k + ".html")));
 const yatimTema = bersihkanYatim("tema", new Set(KELOMPOK_TEMA.map(t => t.slug + ".html")));
-if (yatimBerita || yatimVideo || yatimEmiten || yatimTema) {
+// Rangkuman peristiwa yang kelompoknya bubar (mis. anggotanya digolongkan
+// ulang) tidak boleh meninggalkan halaman beku.
+const yatimPeristiwa = bersihkanYatim("peristiwa", new Set(PERISTIWA.map(p => p.id + ".html")));
+if (yatimBerita || yatimVideo || yatimEmiten || yatimTema || yatimPeristiwa) {
   console.log("halaman lama dihapus: " + yatimBerita + " berita, " + yatimVideo + " video, " +
-    yatimEmiten + " emiten, " + yatimTema + " tema");
+    yatimEmiten + " emiten, " + yatimTema + " tema, " + yatimPeristiwa + " peristiwa");
 }
 
 // ---------- pasang versi aset di halaman root ----------
@@ -2381,16 +2698,26 @@ const prioArtikel = (a) => (a.isoDate && new Date(waktuISO(a.isoDate)).getTime()
 
 const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-ekonomi.html',
   ...(PEKANAN ? ['/signal-mingguan.html'] : []),
-  '/agenda.html', '/rapor.html', '/tema.html', '/emiten.html',
+  '/agenda.html', '/rapor.html', '/tema.html', '/emiten.html', '/peristiwa.html',
   '/tentang.html', '/kontak.html', '/privasi.html', '/pedoman-media-siber.html']
   .map(u => ({ loc: u, lastmod: hariIniWIB, prio: prioStatis(u) }))
   // Artikel yang diralat BERUBAH, jadi lastmod-nya ikut tanggal ralat, bukan
-  // tanggal terbit awal. Artikel baru (<=7 hari) prioritasnya lebih tinggi.
-  // Duplikat ber-canonical tidak ikut sitemap: sitemap berisi URL kanonik.
+  // tanggal terbit awal. Begitu juga artikel yang diperbarui dokumen IDX
+  // lanjutan (sejak 11 November 2026). Artikel baru (<=7 hari) prioritasnya
+  // lebih tinggi. Duplikat ber-canonical tidak ikut sitemap: sitemap berisi
+  // URL kanonik.
   .concat(ARTICLES.filter(a => !KANONIK_GANDA[a.slug]).map(a => ({
     loc: articleUrl(a),
-    lastmod: [tglWIB(a.isoDate), (a.ralat && a.ralat.tanggal) || ''].filter(Boolean).sort().pop(),
+    lastmod: [tglWIB(a.isoDate), (a.ralat && a.ralat.tanggal) || '', a.diperbarui ? tglWIB(a.diperbarui) : '']
+      .filter(Boolean).sort().pop(),
     prio: prioArtikel(a),
+  })))
+  // Rangkuman peristiwa: hanya yang diindeks (ambang yang SAMA dengan
+  // noindex-nya, alasannya sama dengan halaman emiten di bawah).
+  .concat(PERISTIWA.filter(p => p.anggota.length >= AMBANG_INDEKS_PERISTIWA).map(p => ({
+    loc: urlPeristiwa(p),
+    lastmod: p.anggota.map(a => tglWIB(a.diperbarui || a.isoDate)).sort().pop(),
+    prio: '0.6',
   })))
   .concat(VIDEOS.map(v => ({ loc: videoUrl(v), lastmod: tglWIB(v.terbit) || undefined, prio: '0.4' })))
   // Emiten HUB (>=3 laporan) 0.6; tipis (2) 0.3. Inti konsentrasinya.
@@ -2528,6 +2855,7 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
     '- [Agenda](' + BASE + '/agenda.html): kalender maju berisi tanggal penentu yang disebut dokumen resmi, misalnya RUPS, tenggat obligasi, dan jadwal rilis data.',
     '- [Rapor Sinyal](' + BASE + '/rapor.html): rekam jejak pembacaan arah kami sendiri, termasuk yang meleset.',
     '- [Sinyal per emiten](' + BASE + '/emiten.html): riwayat aksi korporasi per kode saham.',
+    '- [Peristiwa korporasi](' + BASE + '/peristiwa.html): rangkuman per RUPS, right issue, buyback, dan dividen, dengan jadwal dan dokumen resminya.',
     '- [Tema bersambung](' + BASE + '/tema.html): kumpulan artikel yang menyambung dalam satu isu.',
     '',
     '## Mesin baca',

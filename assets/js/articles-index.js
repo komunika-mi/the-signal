@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "39-umkm-dapat-fasilitasi-104-barcode-untuk-masuk-ritel-modern",
+  "category": "UMKM",
+  "title": "39 UMKM Dapat Fasilitasi [104] Barcode untuk Masuk Ritel Modern",
+  "deck": "Kemendag dan APRINDO memfasilitasi pembuatan 104 barcode GS1 untuk 39 UMKM peserta program kurasi PPPB di acara puncak Hari Ritel Nasional 2026, Bandung.",
+  "date": "12 November 2026",
+  "image": "assets/img/39-umkm-dapat-fasilitasi-104-barcode-untuk-masuk-ritel-modern.jpg",
+  "imageV": "mwchjlwt",
+  "tags": [
+   "UMKM",
+   "Kemendag",
+   "APRINDO",
+   "barcode GS1"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-peningkatan-daya-saing-produk-umkm-kemendag-fasilitasi-pembuatan-104-barcode",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "plafon-kur-2026-naik-jadi-rp325-triliun-ntt-dapat-keringanan",
   "category": "Perbankan",
   "title": "Plafon KUR 2026 [Naik] Jadi Rp325 Triliun, NTT Dapat Keringanan",
@@ -6451,22 +6469,6 @@ var ARTICLES = [
    "RUPS"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/49cd74d7ef_c70c7233b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asbi-catat-rugi-rp26-9-miliar-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "ASBI Catat [Rugi] Rp26,9 Miliar di Kuartal III 2026",
-  "deck": "Asuransi Bintang membalik laba jadi rugi Rp26,9 miliar pada sembilan bulan 2026, seiring ekuitas turun 21,8 persen menjadi Rp360,1 miliar.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASBI",
-   "asuransi",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105170710-65692-0/FinancialStatement-2026-III-ASBI.pdf",
   "sourceLabel": "IDX"
  }
 ];

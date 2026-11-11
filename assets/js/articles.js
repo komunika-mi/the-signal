@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "39-umkm-dapat-fasilitasi-104-barcode-untuk-masuk-ritel-modern",
+  "category": "UMKM",
+  "title": "39 UMKM Dapat Fasilitasi [104] Barcode untuk Masuk Ritel Modern",
+  "deck": "Kemendag dan APRINDO memfasilitasi pembuatan 104 barcode GS1 untuk 39 UMKM peserta program kurasi PPPB di acara puncak Hari Ritel Nasional 2026, Bandung.",
+  "image": "assets/img/39-umkm-dapat-fasilitasi-104-barcode-untuk-masuk-ritel-modern.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-11T18:57:23.008Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-peningkatan-daya-saing-produk-umkm-kemendag-fasilitasi-pembuatan-104-barcode",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Kemendag",
+   "APRINDO",
+   "barcode GS1"
+  ],
+  "body": [
+   "Kementerian Perdagangan bersama Asosiasi Pengusaha Ritel Indonesia (APRINDO) membiayai pembuatan 104 kode batang atau barcode GS1 untuk 39 pelaku usaha mikro, kecil, dan menengah yang tergabung dalam Program Product Placement Pilihan Busan (PPPB). Barcode ini penting karena menjadi syarat teknis agar produk UMKM bisa tercatat dalam sistem manajemen stok ritel modern, sekaligus membuka jalan untuk menembus pasar ekspor karena kode GS1 berlaku internasional. Fasilitasi diserahkan dalam acara National Summit Hari Ritel Nasional (HRN) dan Bulan Mutu Nasional 2026 di Bandung, Rabu (11/11).",
+   "PPPB sendiri merupakan program kurasi yang digagas Kemendag sejak 2025 dan kini sudah berjalan lima periode. Produk UMKM yang terpilih dipajang di ruang tamu Menteri Perdagangan Budi Santoso untuk diperkenalkan kepada calon pembeli dari luar negeri, pengusaha besar, hingga perwakilan negara mitra, lalu mendapat pendampingan pemasaran dan peningkatan kapasitas, termasuk fasilitasi barcode seperti kali ini.",
+   "Di acara yang sama, Kemendag juga menyerahkan Sertifikat Produk Penggunaan Tanda Standar Nasional Indonesia (SPPT SNI) kepada 14 UMKM, serta memfasilitasi penandatanganan nota kesepahaman antara Badan Standardisasi Nasional (BSN) dan APRINDO soal penguatan standardisasi di ekosistem ritel. Secara keseluruhan, rangkaian HRN 2026 yang digelar 2-11 November mencatat capaian dari Festival Produk Lokal Bermutu pada 5-8 November, yaitu partisipasi 28 UMKM, penjualan langsung Rp94,6 juta, serta penjajakan bisnis (business matching) antara 40 UMKM dan 11 peritel anggota APRINDO dengan potensi transaksi Rp513,73 juta.",
+   "Pemilik usaha Salaku, Shelly, dan pemilik Kain Ibu, Butet Rita Triana, yang merupakan peserta PPPB, menyampaikan bahwa fasilitasi barcode membantu usaha mereka memenuhi standar untuk masuk ritel modern dan memperluas pengenalan produk ke pasar luar negeri."
+  ],
+  "fotoAdegan": "Rows of small packaged local snack and craft products with tiny barcode labels on a retail display shelf, bright store aisle",
+  "fotoSumber": "https://www.kemendag.go.id/albums/dR4qhOVRP7IDUHouJ9GeRKqtyMQ8xO3RRVtwISjX.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah bukan sekadar seremoni, Kemendag kali ini membiayai langsung pembuatan 104 barcode GS1 untuk 39 UMKM, instrumen teknis yang jadi syarat masuk sistem stok ritel modern dan pasar ekspor. Yang terdampak jelas pelaku UMKM kecil peserta PPPB, program kurasi yang sudah berjalan lima periode sejak 2025, dengan bonus sertifikasi SNI untuk 14 UMKM lain dan kesepakatan standardisasi baru antara BSN dan APRINDO. Pola ini mengarah ke strategi bertahap: mendorong UMKM naik kelas lewat pembakuan administratif dan mutu, bukan sekadar suntikan dana atau pelatihan sesaat. Yang akan menentukan apakah pendekatan ini benar-benar berdampak adalah apakah potensi transaksi business matching Rp513,73 juta dari festival 5-8 November itu terealisasi menjadi penjualan nyata, dan apakah periode PPPB berikutnya memperluas jumlah UMKM yang difasilitasi dibanding 39 UMKM kali ini.",
+  "imageV": "mwchjlwt"
+ },
+ {
   "slug": "plafon-kur-2026-naik-jadi-rp325-triliun-ntt-dapat-keringanan",
   "category": "Perbankan",
   "title": "Plafon KUR 2026 [Naik] Jadi Rp325 Triliun, NTT Dapat Keringanan",
@@ -29,7 +57,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret: plafon KUR tahun ini dinaikkan dari Rp295 triliun jadi Rp325 triliun, dan untuk debitur KUR di NTT yang terdampak gempa, bunga atau marjin kreditnya diringankan jadi 0 persen pada 2027 dan 3 persen pada 2028, selain diberi masa tenggang dan perpanjangan tenor cicilan. Yang kena dampak ada dua kelompok berbeda, pelaku usaha kecil peminjam KUR secara umum yang kuotanya makin lega, dan debitur di NTT yang usahanya terganggu bencana sehingga dapat keringanan cicilan plus bunga yang nyaris nol selama dua tahun. Pola yang terlihat, pemerintah kini punya kerangka baku relaksasi kredit untuk wilayah bencana lewat restrukturisasi yang didukung aturan OJK dan bunga berjenjang, yang berpotensi jadi acuan kalau bencana serupa terjadi di daerah lain. Yang akan memastikan arah ini adalah Peraturan Menteri Koordinator dan Peraturan Menteri Keuangan yang disebut akan mengatur detail pelaksanaannya, serta hasil evaluasi triwulanan atas realisasi kredit program 2027.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "harga-minyak-acuan-ri-naik-ke-us-117-24-per-barel-di-oktober",
@@ -332,7 +360,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan sinyal bahwa pemerintah pusat mulai menyoroti kebocoran di pintu masuk Batam, yaitu praktik melaporkan nilai impor lebih rendah dari harga sebenarnya dan masuknya barang bekas serta impor ilegal, sembari ekonomi kawasan ini tumbuh 7,28 persen pada kuartal kedua 2026 dan investasi sudah mencapai 85,33 persen dari target Rp70 triliun tahun ini. Yang terdampak langsung adalah pelaku usaha dan importir di Batam yang akan menghadapi pengawasan lebih ketat di pelabuhan, perempuan pelaku usaha mikro yang jadi sasaran kredit Mekaar bersubsidi bunga 8 persen per tahun dengan plafon Rp15 juta, serta calon investor pusat data yang butuh kepastian pasokan listrik dan air baku di Nongsa Digital Park. Arahnya terlihat menuju kombinasi dua hal sekaligus, yakni memperketat pengawasan barang masuk tanpa mencabut status bebas bea Batam, sambil tetap mengejar investasi besar seperti pusat data. Yang akan membuktikan arah ini adalah efektivitas PP Nomor 25 dan 28 Tahun 2025 begitu benar-benar diterapkan di lapangan, serta apakah realisasi investasi Batam bisa menembus target Rp70 triliun sebelum akhir 2026.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "ekspor-ri-naik-5-58-persen-tei-2026-lampaui-target",
@@ -881,7 +909,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah insentif PPh 21 yang ditanggung pemerintah, yang mulai 2027 tidak lagi terbatas pada sektor tertentu tapi berlaku untuk seluruh sektor usaha bagi pekerja bergaji di atas batas tidak kena pajak hingga Rp10 juta per bulan. Yang terdampak adalah pekerja di rentang gaji itu, yang gajinya tidak lagi dipotong pajak karena ditanggung negara, serta pelaku usaha ritel dan UMKM yang menjadi sasaran penguatan rantai pasok dan digitalisasi pembayaran. Kalau dilihat bersamaan dengan bantuan beras untuk 33,2 juta keluarga, subsidi upah untuk 13,3 juta pekerja, dan diskon transportasi liburan akhir tahun, arahnya adalah penjagaan daya beli masyarakat secara berlapis menjelang dan sesudah pergantian tahun, bukan sekadar bantuan satu kali. Yang akan menentukan seberapa luas dampaknya adalah aturan turunan dari Kementerian Keuangan yang menetapkan detail sektor dan mekanisme PPh 21 DTP 2027, yang belum disebutkan tanggal terbitnya dalam siaran ini.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "delapan-perusahaan-ri-jajaki-pasar-haji-umrah-arab-saudi",

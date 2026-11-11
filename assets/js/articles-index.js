@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cnaf-direktur-iris-savitri-mundur-dari-jajaran-direksi",
+  "category": "Aksi Korporasi",
+  "title": "CNAF: Direktur Iris Savitri [Mundur] dari Jajaran Direksi",
+  "deck": "PT CIMB Niaga Auto Finance (CNAF) melaporkan pengunduran diri Iris Savitri dari kursi direksi, menunggu persetujuan pemegang saham lewat keputusan sirkuler.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CNAF",
+   "direksi",
+   "pengunduran diri",
+   "CIMB Niaga Auto Finance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6890e81186_b65dba298f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sanksi-pajak-bisa-dihapus-100-persen-lewat-pmk-71-sampai-2028",
   "category": "Makroekonomi",
   "title": "Sanksi Pajak Bisa [Dihapus] 100 Persen Lewat PMK-71 Sampai 2028",
@@ -53,6 +69,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-tegaskan-peran-pameran-sebagai-jembatan-produk-indonesia-ke-pasar-global",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "oils-dirikan-anak-usaha-ignp-komisaris-direktur-ikut-setor-modal",
+  "category": "Aksi Korporasi",
+  "title": "OILS Dirikan Anak Usaha IGNP: [Komisaris] & Direktur Ikut Setor Modal",
+  "deck": "Komisaris Johan Widakdo Liem dan Direktur Yonathan Widakdo Sutanto ikut memegang saham pribadi di anak usaha baru OILS, PT Indo Global Niaga Perkasa.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OILS",
+   "anak usaha",
+   "tata kelola perusahaan",
+   "minyak kelapa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2f4d56f6e6_1e43e3c9f8.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ppgd-catatkan-obligasi-sukuk-baru-rp1-5-triliun-di-bei",
@@ -136,6 +168,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rans-ke-bei-kontrak-rai-kementerian-rp14-7-m-dibenarkan",
+  "category": "Aksi Korporasi",
+  "title": "RANS ke BEI: Kontrak RAI-Kementerian Rp14,7 M [Dibenarkan]",
+  "deck": "RANS membenarkan kontrak jasa kreatif Rp14,7 miliar dari dua kementerian ke anak usahanya, RAI, menyusul sorotan ICW atas kontrak tersebut.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RANS",
+   "Rans Animasi Indonesia",
+   "ICW",
+   "pengadaan pemerintah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/89fde0c7a4_ea88605a29.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "boga-rempah-perikanan-ri-catat-potensi-rp450-miliar-di-shanghai",
   "category": "Bisnis",
   "title": "Boga, Rempah, Perikanan RI Catat Potensi [Rp450 Miliar] di Shanghai",
@@ -167,6 +215,22 @@ var ARTICLES = [
    "rugi bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261111180017-65760-0/FinancialStatement-2026-II-ADHI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "soci-dirikan-dua-anak-usaha-pelayaran-modal-total-us-1-juta",
+  "category": "Aksi Korporasi",
+  "title": "SOCI [Dirikan] Dua Anak Usaha Pelayaran, Modal Total US$1 Juta",
+  "deck": "Soechi Lines mendirikan dua anak usaha baru di bidang pelayaran, Victory Ocean Maritime dan Wave Maritime Lines, di Marshall Islands dengan modal masing-masing US$500.000.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOCI",
+   "entitas anak",
+   "pelayaran",
+   "ekspansi usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9dd6cd7533_95332223e0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -231,6 +295,22 @@ var ARTICLES = [
    "Suspensi Saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/932293aa16_3da4492d7d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pinjaman-afiliasi-pack-aki-rp424-8-m-bebas-bunga-tenor-2-tahun",
+  "category": "Aksi Korporasi",
+  "title": "Pinjaman Afiliasi PACK-AKI Rp424,8 M [Bebas Bunga], Tenor 2 Tahun",
+  "deck": "PACK meminjamkan Rp424,8 miliar ke anak usaha AKI tanpa bunga dan tanpa jaminan, tenor dua tahun sejak penarikan dan bisa diperpanjang.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "transaksi afiliasi",
+   "pinjaman intercompany",
+   "AKI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0da329d3d8_e51eeacacf.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -366,6 +446,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupo-obligasi-bold-9-desember-agenda-menyusul-25-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPO Obligasi BOLD 9 Desember, [Agenda] Menyusul 25 November",
+  "deck": "BOLD minta wali amanat BRI gelar RUPO Obligasi II BUMA 2024 pada 9 Desember 2026, agenda baru diumumkan lewat pemanggilan 25 November.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "BUMA",
+   "RUPO",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ef48af942e_9f4e709aff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "admf-rampungkan-realisasi-dana-obligasi-rp1-65-triliun",
   "category": "Aksi Korporasi",
   "title": "ADMF Rampungkan Realisasi Dana Obligasi [Rp1,65 Triliun]",
@@ -411,6 +507,22 @@ var ARTICLES = [
    "Komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/03f4c8ba8d_982f43842b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "trgu-komisaris-independen-mundur-efektif-usai-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "TRGU: [Komisaris Independen] Mundur, Efektif Usai RUPSLB",
+  "deck": "PT Cerestar Indonesia Tbk (TRGU) menerima surat pengunduran diri Antonius selaku Komisaris Independen pada 9 November 2026, efektif setelah keputusan RUPSLB.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRGU",
+   "Komisaris Independen",
+   "Pengunduran Diri",
+   "Cerestar Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7bfb3e2636_d6cc8404f0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -496,6 +608,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "rupo-ptpp-10-november-obligasi-restrukturisasi-bunga-ditolak",
+  "category": "Aksi Korporasi",
+  "title": "RUPO PTPP 10 November: [Obligasi] Restrukturisasi Bunga Ditolak",
+  "deck": "Pemegang obligasi PTPP Seri B menolak dua opsi restrukturisasi bunga, termasuk penundaan pembayaran hingga 2027, dalam RUPO 10 November 2026.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "obligasi",
+   "RUPO",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5095b56510_49f21af8ea.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ptpp-pemegang-sukuk-tolak-usulan-penundaan-bagi-hasil",
   "category": "Aksi Korporasi",
   "title": "PTPP: Pemegang Sukuk [Tolak] Usulan Penundaan Bagi Hasil",
@@ -543,6 +671,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477763-apa-itu-trading-dan-apa-bedanya-dengan-investasi-ini-perbedaan-horizon-waktu-biaya-dan-risiko"
+ },
+ {
+  "slug": "rupslb-giaa-6-november-rombak-direksi-komisaris-dikonfirmasi",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB GIAA 6 November: [Rombak] Direksi-Komisaris Dikonfirmasi",
+  "deck": "Garuda Indonesia membenarkan RUPSLB 6 November 2026 mengubah susunan Direksi dan Komisaris, usulan pemegang Saham Seri A Dwiwarna yang mewakili negara.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GIAA",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a39a87629_67c95896a7.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "peserta-jkn-tembus-285-7-juta-klaim-rp1-279-triliun",
@@ -6321,151 +6465,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e25cead8b0_6120a8e135.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ultj-koreksi-jadwal-rupslb-agenda-rights-issue-frisian-flag",
-  "category": "Aksi Korporasi",
-  "title": "ULTJ Koreksi Jadwal RUPSLB, Agenda [Rights Issue] Frisian Flag",
-  "deck": "RUPSLB ULTJ digelar Jumat, 6 November 2026, membahas rights issue, akuisisi penuh Frisian Flag Indonesia, pergantian direksi, dan dividen tambahan.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "RUPSLB",
-   "Frisian Flag",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/89c6af697e_aa9771dbeb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fwct-rugi-rp45-8-miliar-penjualan-anjlok-47-persen",
-  "category": "Aksi Korporasi",
-  "title": "FWCT Rugi Rp45,8 Miliar, Penjualan [Anjlok] 47 Persen",
-  "deck": "Laporan interim kuartal III 2026 FWCT menunjukkan penjualan turun hampir separuh, perusahaan berbalik rugi, arus kas operasional negatif, dan ekuitas menyusut.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FWCT",
-   "Wijaya Cahaya Timber",
-   "laporan keuangan",
-   "rugi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105114229-65561-0/FinancialStatement-2026-III-FWCT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tama-rugi-rp97-2-miliar-ekuitas-tergerus-jadi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "TAMA rugi Rp97,2 miliar, ekuitas tergerus jadi [negatif]",
-  "deck": "Laporan keuangan interim TAMA per September 2026 menunjukkan rugi bersih melonjak dan ekuitas berbalik negatif akibat penurunan nilai properti investasi.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAMA",
-   "laporan keuangan",
-   "properti",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105104206-65736-0/FinancialStatement-2026-III-TAMA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tujuh-produk-indonesia-menang-g-mark-2026-di-jepang",
-  "category": "Industri",
-  "title": "Tujuh Produk Indonesia [Menang] G-Mark 2026 di Jepang",
-  "deck": "Tujuh produk manufaktur Indonesia, dari motor listrik hingga kursi kayu, meraih penghargaan desain G-Mark 2026 di Jepang, menambah total jadi 67 produk sejak 2017.",
-  "date": "5 November 2026",
-  "image": "assets/img/tujuh-produk-indonesia-menang-g-mark-2026-di-jepang.jpg",
-  "imageV": "mw2zynzh",
-  "tags": [
-   "G-Mark",
-   "Desain Produk",
-   "Manufaktur",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tujuh-produk-indonesia-raih-g-mark-2026-bukti-kreativitas-manufaktur-indonesia-makin-diakui",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "smcb-panggil-rupslb-bahas-aktivasi-bisnis-dagang-bahan-bangunan",
-  "category": "Aksi Korporasi",
-  "title": "SMCB Panggil RUPSLB, Bahas [Aktivasi] Bisnis Dagang Bahan Bangunan",
-  "deck": "RUPSLB SMCB digelar 27 November 2026, membahas aktivasi lini usaha dagang bahan konstruksi dan pendelegasian persetujuan RKAP 2027 ke komisaris.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMCB",
-   "RUPSLB",
-   "Solusi Bangun Indonesia",
-   "RKAP"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6ebb4764e5_908f0dcd2f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbkp-tuntaskan-divestasi-85-saham-kb-bukopin-finance-rp340-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BBKP Tuntaskan [Divestasi] 85% Saham KB Bukopin Finance Rp340 Miliar",
-  "deck": "KB Bank merampungkan penjualan 85% saham PT KB Bukopin Finance senilai Rp339,97 miliar kepada JB Woori Capital asal Korea Selatan, dan kini hanya menyisakan 14,24% kepemilikan.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBKP",
-   "divestasi",
-   "KB Bukopin Finance",
-   "JB Woori Capital"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8548bc5d61_8ca32cf227.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "issp-siapkan-buyback-rp150-miliar-batasi-harga-rp600",
-  "category": "Aksi Korporasi",
-  "title": "ISSP Siapkan Buyback [Rp150 Miliar], Batasi Harga Rp600",
-  "deck": "ISSP mengalokasikan Rp150 miliar kas internal untuk membeli kembali hingga 250 juta saham atau 3,48 persen saham beredar, harga maksimal Rp600 per saham, berlangsung hingga awal Februari 2027.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ISSP",
-   "buyback saham",
-   "pasar modal",
-   "aksi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/39a305aca5_c65ff71b46.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untd-laba-kotor-ambrol-jadi-rp1-2-miliar-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "UNTD: Laba Kotor [Ambrol] jadi Rp1,2 Miliar di Kuartal III",
-  "deck": "Laba kotor UNTD ambrol ke Rp1,2 miliar pada sembilan bulan 2026, dari Rp82,9 miliar setahun sebelumnya, seiring rugi usaha melebar jadi Rp42 miliar.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTD",
-   "Terang Dunia Internusa",
-   "kinerja keuangan",
-   "motor listrik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/38fe2a8da5_b05e134367.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ipm-indonesia-2026-naik-jadi-76-59-didorong-semua-indikator",
-  "category": "Makroekonomi",
-  "title": "IPM Indonesia 2026 [Naik] jadi 76,59, Didorong Semua Indikator",
-  "deck": "Indeks Pembangunan Manusia Indonesia 2026 mencapai 76,59, naik 0,69 poin dari tahun sebelumnya, ditopang kenaikan di seluruh komponen penyusunnya.",
-  "date": "5 November 2026",
-  "image": "assets/img/jembatan-desa.jpg",
-  "tags": [
-   "IPM",
-   "BPS",
-   "Kesejahteraan",
-   "Pendidikan"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/171255",
-  "sourceLabel": "Badan Pusat Statistik"
  }
 ];

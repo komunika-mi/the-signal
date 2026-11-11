@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cnaf-direktur-iris-savitri-mundur-dari-jajaran-direksi",
+  "category": "Aksi Korporasi",
+  "title": "CNAF: Direktur Iris Savitri [Mundur] dari Jajaran Direksi",
+  "deck": "PT CIMB Niaga Auto Finance (CNAF) melaporkan pengunduran diri Iris Savitri dari kursi direksi, menunggu persetujuan pemegang saham lewat keputusan sirkuler.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T21:06:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6890e81186_b65dba298f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CNAF",
+  "tags": [
+   "CNAF",
+   "direksi",
+   "pengunduran diri",
+   "CIMB Niaga Auto Finance"
+  ],
+  "body": [
+   "PT CIMB Niaga Auto Finance (CNAF) menyampaikan laporan informasi atau fakta material kepada Otoritas Jasa Keuangan pada 11 November 2026 pukul 21.06 WIB. Isinya, perusahaan menerima surat permohonan pengunduran diri dari Iris Savitri dari jabatannya selaku anggota Direksi Perseroan. Peristiwa ini tercatat terjadi pada 10 November 2026.",
+   "Dalam laporan itu, manajemen CNAF menegaskan bahwa pengunduran diri tersebut tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan. Perusahaan juga menyebutkan bahwa permohonan pengunduran diri Iris Savitri akan dimintakan persetujuan pemegang saham melalui Keputusan Sirkuler Pemegang Saham, mekanisme pengambilan keputusan tertulis tanpa rapat tatap muka, sesuai Anggaran Dasar Perseroan dan ketentuan peraturan perundang-undangan yang berlaku.",
+   "Laporan ditandatangani oleh M Imron Rosyadi Nur selaku Direktur PT CIMB Niaga Auto Finance. Dokumen tidak menyebutkan tanggal pelaksanaan Keputusan Sirkuler Pemegang Saham maupun nama calon pengganti di jajaran direksi."
+  ],
+  "fotoAdegan": "A row of new cars parked at a vehicle dealership showroom, a staff member checking paperwork on a clipboard, bright indoor lighting",
+  "takeaway": "Laporan ini netral bagi CNAF. Pengunduran diri satu direktur dari perusahaan pembiayaan yang memiliki beberapa direktur bukan kejadian besar, apalagi perusahaan sendiri menyatakan tidak ada dampak ke operasional, hukum, atau keuangan. Perubahan ini tidak menyentuh modal perusahaan (ekuitas), aliran uang kas, atau pembagian laba ke pemegang saham, karena yang berubah hanya susunan orang di jajaran direksi, bukan struktur keuangannya. Meski begitu, pemegang saham tetap perlu mencermati siapa pengganti Iris Savitri nanti, karena pergantian direksi ikut mempengaruhi arah pengambilan keputusan perusahaan. Yang perlu dipantau berikutnya adalah hasil Keputusan Sirkuler Pemegang Saham yang akan mengesahkan atau menolak pengunduran diri ini, namun dokumen belum menyebutkan tanggal pelaksanaannya.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Pengunduran diri anggota Direksi"
+ },
+ {
   "slug": "sanksi-pajak-bisa-dihapus-100-persen-lewat-pmk-71-sampai-2028",
   "category": "Makroekonomi",
   "title": "Sanksi Pajak Bisa [Dihapus] 100 Persen Lewat PMK-71 Sampai 2028",
@@ -85,6 +113,33 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Di balik acara pembukaan forum ini, angka yang benar-benar konkret sebenarnya data lama: ekspor Indonesia Januari-September 2026 tumbuh 5,58 persen, dan pameran dagang Trade Expo Indonesia bulan Oktober lalu mengumpulkan potensi transaksi US$22,94 miliar, lebih tinggi dari target yang dipatok. Yang kena dampak langsung adalah pelaku usaha, terutama eksportir dan UMKM yang mengandalkan pameran untuk bertemu pembeli luar negeri, serta industri penyelenggara pameran yang jumlahnya mencapai 150 sampai 160 acara per tahun. Pidato pembukaan ini sendiri tidak membawa angka atau aturan baru, hanya mengulang capaian yang sudah diketahui sebelumnya. Yang masih kurang untuk menilai apakah ini tren nyata atau sekadar klaim sesaat adalah apakah 'potensi transaksi' TEI itu benar terealisasi jadi ekspor, dan hal itu baru akan terlihat dari laporan ekspor bulanan BPS pada periode-periode mendatang."
+ },
+ {
+  "slug": "oils-dirikan-anak-usaha-ignp-komisaris-direktur-ikut-setor-modal",
+  "category": "Aksi Korporasi",
+  "title": "OILS Dirikan Anak Usaha IGNP: [Komisaris] & Direktur Ikut Setor Modal",
+  "deck": "Komisaris Johan Widakdo Liem dan Direktur Yonathan Widakdo Sutanto ikut memegang saham pribadi di anak usaha baru OILS, PT Indo Global Niaga Perkasa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T19:12:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2f4d56f6e6_1e43e3c9f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OILS",
+  "tags": [
+   "OILS",
+   "anak usaha",
+   "tata kelola perusahaan",
+   "minyak kelapa"
+  ],
+  "body": [
+   "PT Indo Oil Perkasa Tbk (OILS) mendirikan anak perusahaan baru bernama PT Indo Global Niaga Perkasa (IGNP) pada 5 November 2026. Pendirian ini dituangkan dalam Akta Pendirian No. 06 yang dibuat di hadapan notaris Melyana Trisnawati di Jember, dan telah mendapat pengesahan badan hukum dari Menteri Hukum dan Hak Asasi Manusia melalui Surat Keputusan Nomor AHU-0089620.AH.01.01.TAHUN 2026 tertanggal 9 November 2026.",
+   "Modal IGNP ditetapkan sebesar Rp250 juta, dengan OILS sebagai pemegang saham mayoritas sebesar Rp200 juta atau 80 persen. Sisanya dipegang oleh tiga individu: Komisaris OILS Johan Widakdo Liem sebesar Rp25 juta atau 10 persen, Direktur OILS Yonathan Widakdo Sutanto sebesar Rp12,5 juta atau 5 persen, dan Albert Widakdo Sutanto sebesar Rp12,5 juta atau 5 persen, yang jabatannya di Perseroan tidak disebutkan dalam dokumen.",
+   "Dalam dokumen keterbukaan informasi ini, manajemen menyebut pendirian IGNP sebagai langkah untuk mengembangkan potensi pasar dan meningkatkan pendapatan Perseroan. Dokumen tidak merinci bidang usaha spesifik IGNP maupun rencana operasional lanjutan."
+  ],
+  "fotoAdegan": "Workers sorting dried coconut copra into burlap sacks inside a small tropical processing warehouse, humid afternoon light",
+  "takeaway": "Laporan ini netral bagi kinerja OILS karena skalanya kecil, modal pendirian anak usaha ini hanya Rp250 juta, jauh di bawah ukuran yang bisa mengubah kondisi keuangan perusahaan secara berarti. Yang patut dicatat adalah komisaris dan direktur OILS ikut memegang saham pribadi di perusahaan yang sama dengan OILS, sehingga membuka kemungkinan transaksi antara IGNP dan OILS di masa depan yang melibatkan pihak dalam perusahaan sendiri. Pos yang tersentuh di laporan keuangan OILS adalah penyertaan modal, yakni uang yang dikeluarkan untuk membeli saham di entitas baru, yang nantinya tercatat sebagai aset investasi dan kinerja IGNP ikut digabungkan ke laporan keuangan konsolidasi OILS karena kepemilikannya mayoritas. Dokumen ini tidak menyebutkan tanggal operasional atau rencana bisnis IGNP selanjutnya, sehingga yang perlu dipantau adalah pengumuman berikutnya soal aktivitas usaha IGNP dan ada atau tidaknya transaksi dengan OILS yang melibatkan komisaris dan direkturnya sendiri.",
+  "sentimen": "netral",
+  "judulIdx": "Pendirian Anak Perusahaan"
  },
  {
   "slug": "ppgd-catatkan-obligasi-sukuk-baru-rp1-5-triliun-di-bei",
@@ -218,6 +273,33 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "rans-ke-bei-kontrak-rai-kementerian-rp14-7-m-dibenarkan",
+  "category": "Aksi Korporasi",
+  "title": "RANS ke BEI: Kontrak RAI-Kementerian Rp14,7 M [Dibenarkan]",
+  "deck": "RANS membenarkan kontrak jasa kreatif Rp14,7 miliar dari dua kementerian ke anak usahanya, RAI, menyusul sorotan ICW atas kontrak tersebut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T18:14:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/89fde0c7a4_ea88605a29.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RANS",
+  "tags": [
+   "RANS",
+   "Rans Animasi Indonesia",
+   "ICW",
+   "pengadaan pemerintah"
+  ],
+  "body": [
+   "PT Rans Entertainmen Indonesia Tbk (RANS) memberikan klarifikasi resmi kepada Bursa Efek Indonesia (BEI) setelah bursa meminta penjelasan lewat surat nomor S-13992/BEI.PP2/11-2026 tanggal 10 November 2026, terkait pemberitaan Kompas.tv yang mengutip sorotan Indonesia Corruption Watch (ICW) atas belanja jasa senilai Rp14,6 miliar dari dua kementerian ke perusahaan milik Raffi Ahmad. Dalam surat tanggapan tertanggal 11 November 2026, RANS membenarkan adanya kerja sama tersebut dan menyebut nilainya secara rinci sebesar Rp14.696.955.002, sekitar Rp14,7 miliar, yang disusun berdasarkan standar harga komersial atau commercial rate card dan dilaksanakan melalui prosedur pengadaan yang sesuai aturan.",
+   "Kerja sama ini melibatkan anak usaha RANS, PT Rans Animasi Indonesia (RAI), dengan Kementerian Pendidikan dan Kebudayaan (sekarang Kementerian Kebudayaan) untuk promosi museum, serta dengan Kementerian Kelautan dan Perikanan untuk produksi konten edukasi program perikanan. Lingkup pekerjaannya mencakup produksi konten, kehadiran influencer dalam acara, program off-air, serta aktivitas promosi dan publikasi, dengan hasil lebih dari 150 kreatif konten dan aktivitas campaign dari empat pekerjaan. RANS menegaskan kerja sama dengan lembaga pemerintah dan mitra swasta sudah berjalan sejak sebelum Raffi Ahmad menjabat sebagai Utusan Khusus Presiden pada Oktober 2024.",
+   "Yang menarik dari jawaban RANS adalah data kontribusi pendapatan: kontrak dari dua kementerian ini menyumbang 18 persen pendapatan RAI pada 2024, naik menjadi 42 persen pada 2025, dan melonjak ke 59 persen untuk periode Januari-September 2026. Namun di level RANS secara konsolidasi, kontribusinya jauh lebih kecil, hanya 1 persen pada 2024, 2 persen pada 2025, dan 1 persen pada Januari-September 2026. RANS mengakui pemberitaan ini berpotensi memengaruhi persepsi publik, dan menyatakan akan terus memantau perkembangan serta mengedepankan transparansi dan kepatuhan. Perseroan menyebut tidak ada informasi material lain yang dapat mempengaruhi kelangsungan usaha atau harga sahamnya."
+  ],
+  "fotoAdegan": "Camera crew filming a promotional video segment in a small studio, lights and tripods, Jakarta production house interior",
+  "takeaway": "Laporan ini condong negatif bagi RANS, bukan karena keabsahan kontraknya yang diakui sendiri sesuai prosedur, melainkan karena ketergantungan anak usaha RAI pada dua kontrak kementerian ini melonjak tajam dari 18 persen pendapatan pada 2024 menjadi 59 persen pada Januari-September 2026, jauh di atas porsinya ke pendapatan gabungan RANS yang cuma 1-2 persen. Yang perlu dicermati investor adalah risiko konsentrasi pendapatan ini: kalau kontrak pemerintah serupa berhenti atau tidak diperpanjang akibat sorotan publik, RAI bisa kehilangan lebih dari separuh pemasukannya, meski dampaknya ke laporan keuangan RANS secara keseluruhan masih tipis untuk saat ini. RANS sendiri mengakui pemberitaan ini berpotensi memengaruhi persepsi publik terhadap perusahaan. Yang perlu dipantau selanjutnya adalah apakah sorotan ICW ini berkembang menjadi pemeriksaan resmi oleh kementerian terkait atau aparat, dan apakah BEI akan meminta klarifikasi tambahan jika muncul perkembangan baru dari pemberitaan ini.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Pemberitaan Media Massa"
+ },
+ {
   "slug": "boga-rempah-perikanan-ri-catat-potensi-rp450-miliar-di-shanghai",
   "category": "Bisnis",
   "title": "Boga, Rempah, Perikanan RI Catat Potensi [Rp450 Miliar] di Shanghai",
@@ -270,6 +352,32 @@ var ARTICLES = [
   "fotoAdegan": "Construction workers and cranes at a large infrastructure building site, concrete pillars and rebar frameworks, overcast afternoon light",
   "takeaway": "Laporan ini negatif bagi ADHI karena perseroan berbalik dari laba ke rugi bersih Rp19,18 miliar dan kasnya menyusut lebih dari separuh menjadi Rp813 miliar dalam enam bulan, meski laba operasional sebenarnya membaik. Pos yang paling tersentuh adalah laba per saham, yaitu bagian rugi perusahaan yang dibagi rata ke setiap saham beredar, yang berbalik dari untung jadi rugi Rp2,28 per saham, dan posisi kas perusahaan yang menyusut tajam padahal kas inilah yang dipakai membayar utang jatuh tempo dan membiayai proyek berjalan tanpa harus menambah utang baru. Yang perlu dipantau berikutnya adalah apakah rugi dari entitas asosiasi dan pos pendapatan lain-lain ini bersifat sekali saja atau akan berulang di laporan kuartal III 2026, serta apakah pergeseran utang bank dari jangka pendek ke jangka panjang benar-benar meringankan tekanan kas ADHI pada semester berikutnya.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "soci-dirikan-dua-anak-usaha-pelayaran-modal-total-us-1-juta",
+  "category": "Aksi Korporasi",
+  "title": "SOCI [Dirikan] Dua Anak Usaha Pelayaran, Modal Total US$1 Juta",
+  "deck": "Soechi Lines mendirikan dua anak usaha baru di bidang pelayaran, Victory Ocean Maritime dan Wave Maritime Lines, di Marshall Islands dengan modal masing-masing US$500.000.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T17:43:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9dd6cd7533_95332223e0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOCI",
+  "tags": [
+   "SOCI",
+   "entitas anak",
+   "pelayaran",
+   "ekspansi usaha"
+  ],
+  "body": [
+   "PT Soechi Lines Tbk (SOCI) mendirikan dua entitas anak baru pada 10 November 2026, yaitu Victory Ocean Maritime Ltd (VOM) dan Wave Maritime Lines Ltd (WML), yang keduanya berkedudukan di Marshall Islands dan bergerak di bidang usaha pelayaran. Perseroan memegang 100 persen saham di masing-masing entitas, dengan modal ditempatkan dan disetor penuh sebesar US$500.000 untuk VOM dan US$500.000 untuk WML, sehingga total modal yang disetor Soechi Lines ke dua anak usaha ini mencapai US$1 juta.",
+   "Menurut keterbukaan informasi yang ditandatangani Corporate Secretary Paula Marlina, tujuan pendirian kedua entitas anak ini adalah untuk mendukung kegiatan usaha perseroan di bidang pelayaran. Perseroan menyatakan tidak ada dampak hukum maupun dampak material terhadap kondisi keuangan akibat pendirian ini, dan transaksi tersebut tidak masuk kategori Transaksi Material sesuai POJK Nomor 17/POJK.04/2020 karena nilainya di bawah 20 persen dari ekuitas konsolidasian perseroan per 30 Juni 2026."
+  ],
+  "fotoAdegan": "A commercial cargo ship anchored near a busy Indonesian port, tugboats maneuvering nearby, workers on the dock at dusk.",
+  "takeaway": "Laporan ini condong netral bagi Soechi Lines, karena pendirian dua anak usaha ini murni ekspansi organik dengan nilai kecil dan tidak melibatkan penerbitan saham baru atau utang pihak ketiga. Yang tersentuh di sini adalah arus kas investasi dan ekuitas perusahaan, yakni kas sebesar US$1 juta yang keluar sebagai modal disetor ke dua anak usaha baru, namun perseroan sendiri menyebut nilainya di bawah 20 persen ekuitas konsolidasiannya sehingga belum masuk kategori transaksi yang wajib mendapat persetujuan pemegang saham. Karena kepemilikan penuh 100 persen tanpa ada penerbitan saham baru, tidak ada risiko pengenceran kepemilikan atau hak suara bagi pemegang saham lama. Yang perlu dipantau selanjutnya adalah bagaimana Victory Ocean Maritime dan Wave Maritime Lines mulai dioperasikan dan jenis kapal atau rute yang akan dijalankan, karena dokumen ini belum merinci armada atau kontrak operasional yang akan dijalankan kedua entitas tersebut.",
+  "sentimen": "netral",
+  "judulIdx": "Pendirian Entitas Anak"
  },
  {
   "slug": "ltls-siapkan-dana-lunasi-obligasi-rp135-miliar",
@@ -377,6 +485,33 @@ var ARTICLES = [
   "fotoAdegan": "Technicians checking server racks and tangled network cables inside a dim data center room, Jakarta office building, early evening",
   "takeaway": "Laporan ini condong negatif bagi MENN, karena Perseroan tetap mengalirkan dana Rp19,76 miliar ke tiga bisnis baru yang belum menghasilkan pendapatan, persis saat penjualannya anjlok sekitar 91 persen dan perusahaan merugi Rp17,15 miliar tahun lalu, sementara sahamnya masih tertahan oleh bursa. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang keluar dan masuk perusahaan, karena dana sebesar itu dipakai membangun sistem untuk anak usaha yang sama sekali baru, bukan menyuntik modal kerja ke bisnis yang sudah menghasilkan uang. Pelaku pasar mencermati pola arus kas seperti ini karena menunjukkan seberapa kuat kas perusahaan bertahan sebelum bisnis baru itu benar-benar berbuah hasil. Yang perlu dipantau berikutnya adalah penyelesaian laporan keuangan auditan 2025 sebagai syarat pengajuan pencabutan suspensi, serta RUPS yang akan memutuskan perubahan arah strategi dan susunan direksi Perseroan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "pinjaman-afiliasi-pack-aki-rp424-8-m-bebas-bunga-tenor-2-tahun",
+  "category": "Aksi Korporasi",
+  "title": "Pinjaman Afiliasi PACK-AKI Rp424,8 M [Bebas Bunga], Tenor 2 Tahun",
+  "deck": "PACK meminjamkan Rp424,8 miliar ke anak usaha AKI tanpa bunga dan tanpa jaminan, tenor dua tahun sejak penarikan dan bisa diperpanjang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T17:07:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0da329d3d8_e51eeacacf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "transaksi afiliasi",
+   "pinjaman intercompany",
+   "AKI"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) memberikan pinjaman senilai Rp424.835.666.197 kepada entitas anaknya, PT Awal Kemuliaan Indonesia (AKI), berdasarkan perjanjian pinjaman tertanggal 9 November 2026. Dana ini merupakan realokasi sisa dana hasil penawaran saham baru (rights issue) PACK yang sebelumnya sudah diumumkan pada 10 November 2026. Pinjaman ini tidak dikenakan bunga, tidak memerlukan jaminan, dan tidak memuat syarat pembatasan apa pun bagi AKI. Tenornya dua tahun sejak tanggal penarikan dana, dan bisa diperpanjang jika kedua pihak sepakat.",
+   "Dana pinjaman akan dipakai AKI untuk pengembangan usaha, perluasan kapasitas, serta melunasi kewajiban pembayaran kepada para pemasoknya agar pasokan dan operasional tetap lancar. AKI dimiliki 99 persen oleh PACK dan 1 persen oleh PT Eco Energi Perkasa, pemegang saham utama PACK yang menguasai 38,51 persen saham perusahaan induk. Direksi AKI dijabat Lin Yunhui dan komisarisnya Fiona Odelia Kartawinata, sementara dokumen di sisi PACK ditandatangani oleh Direktur Donnie Holman Partogi Manurung.",
+   "Karena AKI dimiliki langsung oleh PACK sedikitnya 99 persen, transaksi ini masuk kategori transaksi afiliasi yang dikecualikan menurut POJK 42/2020 maupun POJK 17/2020, sehingga PACK tidak perlu memakai jasa penilai independen maupun meminta persetujuan RUPS. Nilai pinjaman juga tidak melewati 20 persen dari ekuitas PACK berdasarkan laporan keuangan konsolidasian per 31 Agustus 2026 yang diaudit oleh Kantor Akuntan Publik Tanubrata Sutanto Fahmi Bambang dan Rekan, sehingga tidak tergolong transaksi material."
+  ],
+  "fotoAdegan": "Workers loading pallets of goods onto trucks at a warehouse loading dock, forklifts moving crates, overcast morning light",
+  "takeaway": "Kami menilai laporan ini netral dengan catatan perlu diawasi: pinjaman Rp424,8 miliar ini bebas bunga dan tanpa jaminan, artinya PACK melepas dana besar ke anak usahanya selama dua tahun tanpa mendapat imbal hasil apa pun, meski dananya memang sudah dialokasikan sejak rights issue sehingga bukan kas baru yang mendadak keluar. Yang tersentuh di sini adalah arus kas PACK, yaitu uang tunai yang pindah dari kas perusahaan induk ke rekening AKI, dan potensi pendapatan bunga yang hilang karena pinjaman ini gratis, bukan laba per saham atau jumlah saham beredar yang biasanya jadi sorotan pada transaksi afiliasi lain. Yang perlu dipantau berikutnya adalah kemampuan AKI membayar kembali pinjaman saat jatuh tempo, dua tahun sejak penarikan pada 9 November 2026, serta kelanjutan RUPSLB yang sudah dipanggil PACK soal rencana akuisisi nikel, karena arah strategis holding ini akan lebih jelas begitu agenda itu diputuskan.",
+  "sentimen": "netral",
+  "judulIdx": "Pemberian Pinjaman kepada entitas anak PT Awal Kemuliaan Indonesia"
  },
  {
   "slug": "futr-koreksi-laporan-realisasi-dana-ipo-rp10-5-m-mengendap",
@@ -594,6 +729,44 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "rupo-obligasi-bold-9-desember-agenda-menyusul-25-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPO Obligasi BOLD 9 Desember, [Agenda] Menyusul 25 November",
+  "deck": "BOLD minta wali amanat BRI gelar RUPO Obligasi II BUMA 2024 pada 9 Desember 2026, agenda baru diumumkan lewat pemanggilan 25 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T16:01:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ef48af942e_9f4e709aff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "BUMA",
+   "RUPO",
+   "obligasi"
+  ],
+  "body": [
+   "PT Bukit Makmur Mandiri Utama (BOLD) melalui corporate secretary Riska Aurisna Febriane mengumumkan rencana Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi II BUMA Tahun 2024. Rapat itu dijadwalkan Rabu, 9 Desember 2026, di Financial Hall, Lantai 2, Graha CIMB Niaga, Jalan Jenderal Sudirman Kavling 58, Jakarta Selatan. Berdasarkan pengumuman dari wali amanat, PT Bank Rakyat Indonesia (Persero) Tbk, RUPO ini digelar atas permintaan BUMA sendiri yang disampaikan lewat surat tertanggal 10 November 2026.",
+   "Agenda resmi rapat belum diumumkan dalam pemberitahuan ini, dokumen hanya menyebut agenda 'akan dilampirkan saat pemanggilan'. Pemanggilan resmi, termasuk rincian agenda, baru akan dimuat di satu surat kabar harian berperedaran nasional pada Rabu, 25 November 2026. Pemegang obligasi yang berhak hadir atau diwakili adalah yang memegang konfirmasi tertulis dan namanya tercatat dalam Daftar Pemegang Rekening yang diterbitkan PT Kustodian Sentral Efek Indonesia (KSEI) empat hari kerja sebelum tanggal RUPO.",
+   "Hubungan wali amanat dan BUMA untuk obligasi ini diatur dalam Perjanjian Perwaliamanatan Obligasi Nomor 13 tanggal 5 Juli 2024, yang telah diubah beberapa kali lewat Addendum tanggal 23 Juli 2024, Addendum II tanggal 16 Agustus 2024, Addendum III tanggal 28 Agustus 2024, serta Addendum IV dan Pernyataan Kembali tanggal 26 September 2024. Permintaan RUPO ini muncul tak lama setelah laporan keterbukaan BOLD pekan lalu yang menyebut perusahaan terlambat melaporkan kesiapan dana untuk obligasi, sorotan yang saat itu dinilai mencerminkan tekanan likuiditas."
+  ],
+  "fotoAdegan": "Heavy haul trucks loading coal at an open-pit mine, dust rising under morning light, highland backdrop.",
+  "takeaway": "Permintaan RUPO ini condong negatif bagi BUMA, karena diajukan sendiri oleh perusahaan tak lama setelah laporan sebelumnya menyoroti keterlambatan BUMA melaporkan kesiapan dana pembayaran obligasi ini, sehingga rapat dengan pemegang obligasi ini kemungkinan terkait upaya menangani tekanan likuiditas tersebut, bukan sekadar agenda rutin tahunan. Pos kinerja yang tersentuh adalah arus kas dan kemampuan bayar utang perusahaan, karena RUPO lazim dipakai emiten untuk meminta persetujuan pemegang obligasi atas perubahan jadwal pembayaran, jaminan, atau syarat pelunasan ketika kewajiban sesuai perjanjian awal sulit dipenuhi, dan itulah sebabnya pelaku pasar memperhatikan rapat semacam ini sebagai indikator kesehatan keuangan penerbit obligasi. Yang perlu dipantau selanjutnya adalah pemanggilan resmi RUPO pada 25 November 2026, yang akan membuka agenda sebenarnya, serta pelaksanaan RUPO itu sendiri pada 9 Desember 2026 di Jakarta.",
+  "sentimen": "negatif",
+  "peristiwa": "rupo",
+  "judulIdx": "Pemberitahuan Rencana RUPO PT Bukit Makmur Mandiri Utama",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Pemanggilan resmi RUPO dimuat di koran nasional"
+   },
+   {
+    "tanggal": "2026-12-09",
+    "acara": "Pelaksanaan RUPO Obligasi II BUMA Tahun 2024"
+   }
+  ]
+ },
+ {
   "slug": "admf-rampungkan-realisasi-dana-obligasi-rp1-65-triliun",
   "category": "Aksi Korporasi",
   "title": "ADMF Rampungkan Realisasi Dana Obligasi [Rp1,65 Triliun]",
@@ -671,6 +844,34 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty chairs facing a podium in a large corporate meeting hall, Jakarta office towers visible through tall windows, soft morning light",
   "takeaway": "Laporan ini condong netral karena RUPSLB cuma memformalkan pergantian pengurus yang sudah diumumkan sejak 19 Oktober 2026, bukan kabar baru soal kondisi keuangan perusahaan. Pergantian Direktur Utama dan seorang Komisaris tidak langsung mengubah pos seperti modal pemegang saham atau arus kas perusahaan, tapi pelaku pasar tetap mencermatinya karena arah strategi dan keputusan bisnis perusahaan ke depan biasanya mengikuti siapa yang memimpinnya. Yang perlu dipantau adalah hasil RUPSLB pada 3 Desember 2026, yaitu siapa yang ditetapkan menggantikan Christian Kartawijaya sebagai Direktur Utama dan Juan Francisco Defalgue sebagai Komisaris, serta tenggat pemberian kuasa elektronik bagi pemegang saham yang berakhir 2 Desember 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "trgu-komisaris-independen-mundur-efektif-usai-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "TRGU: [Komisaris Independen] Mundur, Efektif Usai RUPSLB",
+  "deck": "PT Cerestar Indonesia Tbk (TRGU) menerima surat pengunduran diri Antonius selaku Komisaris Independen pada 9 November 2026, efektif setelah keputusan RUPSLB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T15:16:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7bfb3e2636_d6cc8404f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRGU",
+  "tags": [
+   "TRGU",
+   "Komisaris Independen",
+   "Pengunduran Diri",
+   "Cerestar Indonesia"
+  ],
+  "body": [
+   "PT Cerestar Indonesia Tbk (TRGU) mengumumkan bahwa Komisaris Independen perseroan, Antonius, mengajukan pengunduran diri melalui surat tertanggal 9 November 2026. Sesuai keterbukaan informasi yang disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 11 November 2026, pengunduran diri itu baru berlaku efektif setelah mendapat keputusan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) perseroan.",
+   "Dalam surat yang ditandatangani Direktur Utama Indra Irawan, perseroan menegaskan bahwa kegiatan usaha dan operasional tetap berjalan normal meski kehilangan satu anggota Dewan Komisaris. Laporan tidak menyebutkan alasan pengunduran diri Antonius, calon pengganti yang akan diusulkan, maupun tanggal RUPSLB akan digelar. Laporan material ini dikirim oleh Chief Financial Officer Mulyadi Chandra selaku pihak yang bertanggung jawab atas keterbukaan informasi perseroan.",
+   "PT Cerestar Indonesia Tbk bergerak di industri tepung terigu dan perdagangan serealia atau biji-bijian, dijalankan melalui perusahaan anak serta jasa konsultasi manajemen."
+  ],
+  "fotoAdegan": "Workers checking stacked flour sacks on pallets inside a large wheat milling warehouse, overcast morning light filtering through windows.",
+  "takeaway": "Laporan ini netral bagi TRGU karena yang mundur hanya satu dari anggota Dewan Komisaris, tanpa alasan yang mengindikasikan masalah tata kelola atau konflik, dan perseroan menyatakan operasional tetap berjalan normal. Perubahan ini menyentuh struktur pengawasan internal, bukan kinerja keuangan secara langsung. Komisaris independen bertugas mengawasi kinerja direksi dan menjaga kepentingan pemegang saham minoritas, sehingga berkurangnya satu komisaris independen untuk sementara bisa melemahkan fungsi pengawasan itu sampai ada pengganti, meski tidak berpengaruh pada arus kas atau laba perseroan. Yang perlu dipantau selanjutnya adalah jadwal RUPSLB yang belum diumumkan dalam dokumen ini, karena pengunduran diri Antonius baru resmi berlaku setelah keputusan rapat tersebut, termasuk siapa yang akan ditunjuk sebagai Komisaris Independen pengganti.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Perubahan anggota Direksi dan/atau anggota Dewan Komisaris"
  },
  {
   "slug": "cpri-batalkan-rupst-yang-dijadwalkan-26-november",
@@ -807,6 +1008,34 @@ var ARTICLES = [
   "fotoGagal": 4
  },
  {
+  "slug": "rupo-ptpp-10-november-obligasi-restrukturisasi-bunga-ditolak",
+  "category": "Aksi Korporasi",
+  "title": "RUPO PTPP 10 November: [Obligasi] Restrukturisasi Bunga Ditolak",
+  "deck": "Pemegang obligasi PTPP Seri B menolak dua opsi restrukturisasi bunga, termasuk penundaan pembayaran hingga 2027, dalam RUPO 10 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T12:46:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5095b56510_49f21af8ea.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "obligasi",
+   "RUPO",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Obligasi (RUPO) ketiga atas Obligasi Berkelanjutan III PTPP Tahap II Tahun 2022 Seri B digelar di Park Hotel Jakarta pada 10 November 2026. Rapat dihadiri pemegang obligasi yang mewakili Rp373,5 miliar suara, atau 92,34 persen dari total obligasi seri ini yang belum dilunasi sebesar Rp404,5 miliar, sehingga kuorum terpenuhi. PTPP diwakili oleh Direktur Keuangan Faizal Rahmad dan Direktur Manajemen Risiko dan Legal Tommy Wiranata Anwar, dengan PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk sebagai Wali Amanat.",
+   "Perusahaan mengajukan pembebasan atas tidak terbayarnya bunga ke-18, disertai dua opsi penyelesaian: menunda seluruh pembayaran bunga tanpa denda sampai jatuh tempo pokok pada 2027, atau membayar bunga sebesar 1 persen per tahun untuk bunga ke-19 dan ke-20 sampai 2027 dengan selisihnya ditangguhkan dan dibayar saat jatuh tempo. Hasil pemungutan suara tertulis menunjukkan opsi pertama ditolak telak, dengan 95,98 persen suara (Rp358,5 miliar) menyatakan tidak setuju dan hanya 4,02 persen (Rp15 miliar) setuju. Opsi kedua sebenarnya didukung mayoritas, 60,37 persen suara atau Rp225,5 miliar, namun tetap gagal karena Perjanjian Perwaliamanatan mensyaratkan persetujuan minimal 75 persen dari suara yang hadir. Usulan ketiga, pemberian kuasa kepada Wali Amanat untuk menandatangani perubahan perjanjian, juga tidak lolos dengan 59,84 persen dukungan.",
+   "Satu-satunya usulan yang disetujui, yaitu pembebasan Wali Amanat dari tuntutan hukum di kemudian hari dengan dukungan 86,61 persen suara, otomatis batal berlaku karena keberlakuannya bergantung pada disetujuinya opsi pertama atau kedua. Dengan seluruh opsi restrukturisasi utama ditolak, tidak ada perubahan resmi atas jadwal maupun besaran kewajiban bunga obligasi seri ini."
+  ],
+  "fotoAdegan": "Construction workers in hard hats checking scaffolding on a high-rise building site at dusk, cranes overhead.",
+  "takeaway": "Hasil RUPO ini negatif bagi PTPP, karena pemegang obligasi seri B menolak kedua opsi restrukturisasi bunga yang diajukan perusahaan, sehingga bunga ke-18 yang sudah terlambat dibayar tetap tanpa penyelesaian resmi. Yang tersentuh adalah arus kas, yaitu aliran dana masuk dan keluar dari kas perusahaan, karena tanpa penangguhan yang disetujui pemegang obligasi, PTPP tetap terikat jadwal pembayaran bunga semula, sementara beban bunga yang menumpuk sejak bunga ke-18 belum terbayar akan membesar dan membebani laporan keuangan mendatang. Dokumen ini tidak menyebut tenggat baru selain jatuh tempo pokok obligasi pada tahun 2027, sehingga yang perlu dipantau berikutnya adalah langkah lanjutan PTPP dan Wali Amanat menyusul penolakan ini, termasuk kemungkinan rapat pemegang obligasi susulan atau pernyataan status gagal bayar secara resmi. Pola ini sejalan dengan hasil RUPO pemegang sukuk PTPP yang juga menolak usulan serupa pada tanggal yang sama, menunjukkan tekanan likuiditas yang meluas ke beberapa instrumen utang perusahaan.",
+  "sentimen": "negatif",
+  "peristiwa": "rupo",
+  "judulIdx": "Pemberitahuan Hasil RUPO PP (Persero) Tbk"
+ },
+ {
   "slug": "ptpp-pemegang-sukuk-tolak-usulan-penundaan-bagi-hasil",
   "category": "Aksi Korporasi",
   "title": "PTPP: Pemegang Sukuk [Tolak] Usulan Penundaan Bagi Hasil",
@@ -883,6 +1112,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Data OJK yang dikutip menunjukkan jumlah investor pasar modal naik ke 28,96 juta orang pada semester pertama 2026, justru saat IHSG anjlok 34,74 persen dalam periode yang sama. Pola ini terutama menyasar investor baru, termasuk yang baru belajar trading valuta asing, yang berisiko salah menilai horizon waktu dan tingkat risiko instrumen yang mereka pegang. Berita ini belum menjelaskan apakah lonjakan jumlah investor itu berbarengan dengan kerugian riil atau justru pembelian saat harga rendah, jadi arah sebenarnya dari minat investor ini belum bisa dibaca dari data yang ada. Yang masih dibutuhkan adalah statistik pasar modal OJK untuk semester kedua 2026, untuk melihat apakah pertumbuhan jumlah investor berlanjut seiring pergerakan IHSG atau justru melambat.",
   "imageV": "mwbq4k92"
+ },
+ {
+  "slug": "rupslb-giaa-6-november-rombak-direksi-komisaris-dikonfirmasi",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB GIAA 6 November: [Rombak] Direksi-Komisaris Dikonfirmasi",
+  "deck": "Garuda Indonesia membenarkan RUPSLB 6 November 2026 mengubah susunan Direksi dan Komisaris, usulan pemegang Saham Seri A Dwiwarna yang mewakili negara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T11:16:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a39a87629_67c95896a7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris"
+  ],
+  "body": [
+   "Garuda Indonesia (Persero) Tbk (GIAA) menyampaikan tanggapan ke Bursa Efek Indonesia menyusul permintaan penjelasan BEI melalui surat Nomor S-13976/BEI.PP2/11-2026 tertanggal 10 November 2026, terkait pemberitaan iNews pada 9 November 2026 berjudul 'Garuda Indonesia Rombak Direksi dan Komisaris, Sophia Wattimena Jadi Direktur Keuangan'. Dalam surat balasan bernomor GARUDA/JKTDS/E/20138/2026 yang ditandatangani Andreas Tumpal H. Hutapea selaku VP Corporate Secretary, Communications & Subsidiaries, perseroan membenarkan telah menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 6 November 2026, dengan salah satu agenda rapat yakni perubahan susunan Direksi dan Dewan Komisaris. Ringkasan risalah RUPSLB itu, menurut perseroan, telah dipublikasikan melalui situs web perusahaan, situs BEI, dan sistem eASY.KSEI pada 9 November 2026.",
+   "Garuda menjelaskan latar belakang perombakan tersebut mengacu pada Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas dan Anggaran Dasar perusahaan, yang menyatakan pengangkatan serta pemberhentian anggota Direksi dan Komisaris merupakan kewenangan RUPS. Pemegang Saham Seri A Dwiwarna, yang merupakan saham khusus milik negara, memiliki hak mengusulkan agenda RUPS maupun calon anggota Direksi dan Komisaris. Badan Pengelola BUMN melalui surat Nomor SR-513/BP/09/2026 mengusulkan agenda perubahan pengurus tersebut, dan dalam RUPSLB 6 November 2026 juga mengajukan nama-nama calon pengurus baru. Perseroan menegaskan penyelenggaraan RUPSLB tersebut sudah sesuai dengan aturan pasar modal dan Anggaran Dasar yang berlaku.",
+   "Soal dampaknya, Garuda menyatakan perubahan susunan pengurus ini diharapkan mendukung agenda transformasi yang sedang berjalan untuk memperkuat kinerja perusahaan. Perseroan juga menegaskan tidak ada informasi atau fakta material lain di luar penjelasan ini yang dapat memengaruhi kelangsungan usaha maupun harga sahamnya, dan berkomitmen mematuhi aturan pasar modal yang berlaku."
+  ],
+  "fotoAdegan": "Wide shot of a commercial airliner being serviced on an airport tarmac at dusk, ground crew working near the fuselage",
+  "takeaway": "Laporan ini netral bagi fundamental Garuda, karena isinya hanya mengonfirmasi proses formal pergantian pengurus yang sudah diputuskan RUPSLB, bukan perubahan jumlah saham beredar, ekuitas, atau laba per saham perusahaan. Yang bergeser di sini adalah tata kelola, yakni siapa yang memimpin perusahaan, bukan pos keuangan, meski pelaku pasar tetap memperhatikan pergantian direksi dan komisaris karena merekalah yang akan mengeksekusi strategi perusahaan ke depan, termasuk proses rights issue senilai Rp6,2 triliun yang baru diumumkan sehari sebelum surat ini. Pergantian ini diusulkan oleh pemegang Saham Seri A Dwiwarna yang mewakili negara, sehingga arah kebijakan besar perusahaan kemungkinan tetap sejalan dengan rencana restrukturisasi yang sudah berjalan. Yang perlu dipantau selanjutnya adalah bagaimana susunan direksi dan komisaris baru ini menjalankan proses rights issue dan transformasi yang sedang berjalan, serta apakah detail lengkap nama-nama pengurus baru pada risalah RUPSLB yang sudah dipublikasikan di eASY.KSEI dan situs BEI sejak 9 November 2026 sesuai dengan pemberitaan media.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Pemberitaan Media Massa"
  },
  {
   "slug": "peserta-jkn-tembus-285-7-juta-klaim-rp1-279-triliun",
@@ -37687,8 +37943,8 @@ var ARTICLES = [
  {
   "slug": "bmbl-panggil-rupslb-november-agenda-perubahan-susunan-direksi",
   "category": "Aksi Korporasi",
-  "title": "BMBL Panggil RUPSLB November, Agenda [Perubahan] Susunan Direksi",
-  "deck": "BMBL memanggil RUPSLB pada 11 November 2026 di Depok untuk membahas perubahan susunan direksi, dengan recording date 19 Oktober 2026.",
+  "title": "RUPSLB BMBL 11 November: [Kuorum] Tak Terpenuhi, Agenda Direksi Batal",
+  "deck": "RUPSLB BMBL pada 11 November 2026 tidak memenuhi kuorum, hanya dihadiri 43,82% pemegang saham, sehingga agenda perubahan susunan direksi gagal diputuskan dan rapat ditutup dalam 23 menit.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "20 Oktober 2026",
   "isoDate": "2026-10-20T13:35:30",
@@ -37699,16 +37955,26 @@ var ARTICLES = [
    "BMBL",
    "RUPSLB",
    "Direksi",
-   "Lavender Bina Cendikia"
+   "Kuorum"
   ],
   "body": [
-   "PT Lavender Bina Cendikia Tbk (BMBL) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 11 November 2026, pukul 09.00 WIB di Depok, Jawa Barat. Rapat ini diselenggarakan secara fisik maupun elektronik melalui platform eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, dengan agenda tunggal berupa persetujuan perubahan susunan direksi perseroan. Perseroan menyebut perubahan itu dilakukan dengan memperhatikan kebutuhan dan kepentingan perusahaan, mengacu pada anggaran dasar serta Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, tanpa merinci nama direktur yang akan diganti atau diangkat.",
-   "Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam daftar pemegang saham per 19 Oktober 2026 sebagai recording date. Bagi yang ingin hadir secara elektronik atau memberi kuasa lewat sistem eASY.KSEI, konfirmasi kehadiran, kuasa elektronik (e-proxy), maupun suara elektronik (e-voting) harus disampaikan paling lambat 10 November 2026 pukul 12.00 WIB. Pemegang saham yang tidak memiliki akses ke sistem itu dapat mengirim surat kuasa fisik ke PT Adimitra Jasa Korpora di Jakarta paling lambat Jumat, 6 November 2026. Perseroan juga menunjuk PT Sharestar Indonesia sebagai penerima kuasa independen bagi pemegang saham yang berhalangan hadir.",
-   "Materi rapat dapat diunduh di situs web resmi perseroan sejak tanggal pemanggilan ini hingga hari pelaksanaan rapat. Surat pemanggilan ditandatangani oleh Direktur Utama Galih Pandekar di Depok pada 20 Oktober 2026."
+   "PT Lavender Bina Cendikia Tbk (BMBL) membatalkan agenda perubahan susunan direksi setelah Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Rabu, 11 November 2026, di Depok tidak memenuhi syarat kuorum. Rapat hanya dihadiri pemegang saham yang mewakili 451.410.900 saham atau 43,82% dari seluruh saham dengan hak suara yang sah, di bawah batas minimum yang disyaratkan anggaran dasar perseroan dan Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas. Karena itu, rapat dinyatakan tidak sah dan tidak bisa mengambil keputusan apa pun, lalu dibuka dan langsung ditutup pukul 09.23 WIB.",
+   "Rapat ini sebelumnya dipanggil melalui surat tanggal 20 Oktober 2026, dengan agenda tunggal persetujuan perubahan susunan direksi perseroan, tanpa merinci nama direktur yang akan diganti atau diangkat. Pemegang saham yang berhak hadir dalam rapat adalah yang tercatat dalam daftar pemegang saham per 19 Oktober 2026 sebagai recording date.",
+   "Karena rapat tidak sah, susunan direksi dan dewan komisaris BMBL tidak berubah. Direktur Utama tetap dijabat Galih Pandekar, didampingi Direktur Dewi Ariyanti, Muhammad Arif Saadilah, dan Elita Swasti Nandiko. Dewan komisaris tetap diisi Komisaris Utama Sri Harjanto, Komisaris Wildan Fauzan, dan Komisaris Independen Tini Ismiyani."
   ],
   "fotoAdegan": "Empty hotel ballroom set with rows of chairs facing a stage, soft morning light, prepared for a formal shareholders meeting in Depok, Indonesia.",
-  "takeaway": "Laporan ini netral bagi BMBL karena baru berupa pemanggilan rapat, belum ada nama direktur yang masuk atau keluar sehingga dampaknya terhadap arah perusahaan belum bisa dinilai. Perubahan susunan direksi tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau laba per saham, tapi pasar tetap memantaunya karena pergantian pucuk pimpinan bisa mengubah kebijakan operasional dan strategi bisnis ke depan. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 11 November 2026, termasuk siapa yang akhirnya diangkat atau diberhentikan dari jajaran direksi, serta tenggat konfirmasi kehadiran elektronik pada 10 November 2026 pukul 12.00 WIB bagi pemegang saham yang ingin memberi suara.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini negatif bagi BMBL karena rencana perubahan susunan direksi yang sudah dipanggil sejak 20 Oktober 2026 gagal diputuskan akibat kuorum rapat yang hanya terisi 43,82%, jauh dari batas minimum yang disyaratkan anggaran dasar dan Undang-Undang Perseroan Terbatas. Perubahan direksi sendiri tidak langsung mengubah angka di laporan keuangan seperti ekuitas, arus kas, atau laba per saham, tapi pasar tetap memperhatikannya karena kepastian susunan pimpinan memengaruhi keputusan strategis perseroan ke depan, dan kegagalan kuorum ini menunjukkan rendahnya partisipasi pemegang saham dalam menentukan arah kepemimpinan. Yang perlu dipantau selanjutnya adalah apakah dan kapan BMBL memanggil RUPSLB kedua untuk mengagendakan ulang perubahan direksi tersebut, karena dokumen ini tidak menyebutkan jadwal rapat lanjutan.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-11T16:03:56",
+    "ringkas": "RUPSLB BMBL 11 November gagal kuorum (43,82%), agenda perubahan susunan direksi batal diputuskan.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6ce6df18ad_e1e66e42a3.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-11T16:03:56",
+  "peristiwa": "rups"
  },
  {
   "slug": "ihsg-melonjak-4-16-persen-bei-rombak-komposisi-indeks",
@@ -42577,8 +42843,8 @@ var ARTICLES = [
  {
   "slug": "rupslb-itic-bahas-rencana-jaminkan-aset-ke-bank",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB ITIC Bahas Rencana [Jaminkan] Aset ke Bank",
-  "deck": "PT Indonesian Tobacco Tbk mengundang pemegang saham ke RUPSLB 9 November 2026 untuk menyetujui rencana menjaminkan sebagian besar atau seluruh asetnya guna memperoleh fasilitas pinjaman.",
+  "title": "RUPSLB ITIC 9 November: [Jaminan Aset] ke BCA Disetujui",
+  "deck": "Pemegang saham ITIC dalam RUPSLB 9 November 2026 menyetujui rencana menjaminkan aset Perseroan untuk memperoleh fasilitas pinjaman dari PT Bank BCA Tbk, dengan 99,999% suara setuju.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 Oktober 2026",
   "isoDate": "2026-10-16T14:04:44",
@@ -42588,17 +42854,28 @@ var ARTICLES = [
   "tags": [
    "ITIC",
    "RUPSLB",
-   "penjaminan aset",
-   "pembiayaan"
+   "Jaminan Aset",
+   "BCA"
   ],
   "body": [
-   "PT Indonesian Tobacco Tbk (ITIC) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 9 November 2026 pukul 11.00 WIB di Teak Room, lantai 9 Hotel Mercure Jakarta Pantai Indah Kapuk. Rapat ini hanya membawa satu agenda, yaitu persetujuan rencana Perseroan untuk menjaminkan sebagian besar atau seluruh aset atau harta kekayaannya guna memperoleh fasilitas pinjaman dari lembaga keuangan, baik bank maupun bukan bank. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 15 Oktober 2026 pukul 16.00 WIB.",
-   "Dalam penjelasan resminya, Direksi ITIC menyebut rencana ini muncul karena Perseroan sedang mengupayakan fasilitas pembiayaan yang mensyaratkan jaminan. Berdasarkan Anggaran Dasar Perseroan, setiap tindakan hukum untuk mengalihkan, melepaskan hak, atau menjadikan jaminan utang atas aset yang nilainya lebih dari 50 persen kekayaan bersih Perseroan dalam satu tahun buku, baik melalui satu transaksi maupun beberapa transaksi yang saling terkait, wajib mendapat persetujuan RUPS lebih dulu. Dokumen pemanggilan ini tidak mencantumkan nilai pinjaman, nama lembaga pemberi pinjaman, suku bunga, maupun aset spesifik yang akan dijaminkan.",
-   "Rapat akan digelar secara hibrida, yaitu kehadiran fisik terbatas untuk Dewan Komisaris, Direksi, Pimpinan Rapat, Sekretaris Perusahaan, dan lembaga penunjang pasar modal, sementara pemegang saham lain mengikuti secara elektronik lewat platform eASY.KSEI sesuai aturan OJK. Sesuai Anggaran Dasar, keputusan atas agenda ini sah jika RUPS dihadiri pemegang saham yang mewakili paling sedikit tiga per empat dari seluruh saham berhak suara, dan disetujui oleh lebih dari tiga per empat suara yang hadir."
+   "Pemegang saham PT Indonesian Tobacco Tbk (ITIC) dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 9 November 2026 menyetujui rencana Perseroan untuk menjaminkan sebagian besar atau seluruh aset atau harta kekayaannya, guna memperoleh fasilitas pinjaman dari PT Bank BCA Tbk. Keputusan ini tertuang dalam ringkasan risalah rapat yang disampaikan Perseroan kepada Otoritas Jasa Keuangan (OJK) pada 11 November 2026.",
+   "Rapat dihadiri pemegang saham yang mewakili 710.344.500 saham, atau 75,51% dari total 940.720.000 saham dengan hak suara yang beredar, sehingga kuorum tiga per empat yang disyaratkan Anggaran Dasar Perseroan terpenuhi. Dari jumlah saham yang hadir, 710.339.500 saham atau 99,999% memberikan suara setuju, sementara 5.000 saham menyatakan tidak setuju dan tidak ada suara abstain. Rapat juga memberi kuasa kepada Direksi untuk melakukan segala tindakan yang diperlukan guna merealisasikan penjaminan aset tersebut.",
+   "Rencana ini pertama kali diumumkan Perseroan dalam pemanggilan RUPSLB tanggal 16 Oktober 2026. Saat itu, Direksi ITIC menyebut rencana penjaminan aset muncul karena Perseroan sedang mengupayakan fasilitas pembiayaan yang mensyaratkan jaminan, namun belum menyebut nama lembaga pemberi pinjaman. Berdasarkan Anggaran Dasar Perseroan, setiap tindakan menjadikan jaminan utang atas aset senilai lebih dari 50 persen kekayaan bersih Perseroan dalam satu tahun buku wajib mendapat persetujuan RUPS lebih dulu.",
+   "Dokumen yang disampaikan Perseroan belum mencantumkan nilai fasilitas pinjaman, suku bunga, maupun aset spesifik yang akan dijaminkan kepada PT Bank BCA Tbk. Risalah rapat ini dibuat berdasarkan akta Notaris Rini Yulianti, S.H. tertanggal 9 November 2026 Nomor 13, sebagai pemenuhan ketentuan Pasal 49 ayat (1) POJK Nomor 15/POJK.04/2020."
   ],
   "fotoAdegan": "Workers moving stacked cardboard boxes of packaged goods inside a large industrial warehouse, forklift nearby, overhead lighting",
-  "takeaway": "Laporan ini netral bagi ITIC untuk saat ini, karena yang diajukan baru izin prinsip dari pemegang saham, belum ada nilai pinjaman, suku bunga, atau aset spesifik yang disebut, sehingga belum bisa dinilai menguntungkan atau membebani. Yang tersentuh di sini adalah sisi aset dan beban bunga perusahaan: begitu Perseroan resmi menjaminkan sebagian besar hartanya untuk mendapat pinjaman, aset itu jadi tidak bebas digunakan untuk keperluan lain selama utang belum lunas, dan jika pinjamannya benar dicairkan, akan ada beban bunga baru yang mengurangi laba, sementara kreditur punya klaim lebih dulu atas aset itu dibanding pemegang saham kalau terjadi masalah keuangan. Besaran dampaknya baru akan jelas setelah Perseroan mengumumkan nilai dan ketentuan fasilitas pinjamannya. Yang perlu dipantau pemegang saham adalah hasil RUPSLB pada 9 November 2026, termasuk apakah kuorum tiga per empat suara tercapai dan agenda ini disetujui, serta pengumuman lanjutan soal jumlah pinjaman dan lembaga pemberinya begitu transaksi berjalan.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini tetap netral bagi ITIC karena pemegang saham baru memberi izin formal dan lembaga pemberi pinjamannya sudah dipastikan PT Bank BCA Tbk, tetapi nilai pinjaman, suku bunga, dan aset spesifik yang dijaminkan masih belum diumumkan. Pos yang tersentuh adalah aset perusahaan, yang begitu dijaminkan tidak bisa dialihkan atau dijual bebas selama utang berjalan, serta beban bunga yang akan muncul begitu pinjaman itu cair dan mengurangi laba bersih ke depan. Kuorum rapat mencapai 75,51% dari total saham dan 99,999% suara yang hadir setuju, jauh di atas ambang tiga per empat yang disyaratkan Anggaran Dasar, sehingga keputusan ini sah dan final secara korporasi. Yang perlu dipantau pemegang saham selanjutnya adalah pengumuman resmi soal nilai fasilitas pinjaman dari BCA, suku bunga, dan aset mana saja yang benar dijaminkan, karena detail itu yang akan menentukan seberapa besar dampaknya terhadap keuangan Perseroan.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-11T12:09:52",
+    "ringkas": "RUPSLB ITIC resmi menyetujui penjaminan aset ke PT Bank BCA Tbk untuk fasilitas pinjaman, dengan kuorum 75,51% dan suara setuju 99,999%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cfda774722_54e34a2cee.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-11T12:09:52",
+  "peristiwa": "rups"
  },
  {
   "slug": "pegadaian-raih-dua-penghargaan-in-house-counsel-2026",
@@ -42816,8 +43093,8 @@ var ARTICLES = [
  {
   "slug": "untd-gelar-rupslb-9-november-agendakan-pergantian-direksi",
   "category": "Aksi Korporasi",
-  "title": "UNTD Gelar RUPSLB 9 November, Agendakan [Pergantian] Direksi",
-  "deck": "RUPSLB PT Terang Dunia Internusa pada 9 November 2026 membahas perubahan anggaran dasar, kemungkinan pergantian direksi-komisaris, gaji 2026, dan laporan realisasi dana IPO.",
+  "title": "RUPSLB UNTD 9 November: Direksi-Komisaris [Dipertahankan]",
+  "deck": "RUPSLB PT Terang Dunia Internusa Tbk pada 9 November 2026 menyetujui kelima agendanya, termasuk mempertahankan susunan Direksi dan Dewan Komisaris lama untuk periode lima tahun ke depan.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 Oktober 2026",
   "isoDate": "2026-10-16T08:53:56",
@@ -42827,17 +43104,28 @@ var ARTICLES = [
   "tags": [
    "UNTD",
    "RUPSLB",
-   "Direksi",
-   "Anggaran Dasar"
+   "Direksi dan Komisaris",
+   "Terang Dunia Internusa"
   ],
   "body": [
-   "PT Terang Dunia Internusa Tbk (UNTD) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 9 November 2026, pukul 10.00 WIB, di United Building Grand Hall Lantai 2, Jalan Boulevard Alam Sutera No. 12A, Serpong Utara, Tangerang Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Rabu, 15 Oktober 2026 pukul 16.00 WIB. Rapat bisa diikuti secara fisik atau elektronik lewat aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia.",
-   "Ada lima agenda yang diajukan direksi. Pertama, mengubah Pasal 3 Anggaran Dasar soal maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan klasifikasi usaha baru dari Badan Pusat Statistik (KBLI 2025). Kedua dan ketiga, persetujuan pengangkatan kembali atau perubahan susunan Direksi dan Dewan Komisaris, namun dokumen ini belum menyebut nama calon pengganti. Keempat, penetapan gaji, honorarium, dan tunjangan Direksi serta Dewan Komisaris untuk tahun buku 2026. Kelima, persetujuan laporan realisasi penggunaan dana hasil penawaran umum perseroan, sesuai aturan Otoritas Jasa Keuangan No. 30/POJK.04/2015, meski dokumen pemanggilan ini belum merinci angka realisasi dananya.",
-   "Bagi pemegang saham yang ingin memberi kuasa secara tertulis, formulir harus disampaikan ke Biro Administrasi Efek, PT Adimitra Jasa Korpora, paling lambat Jumat, 3 November 2026 pukul 16.00 WIB. Sementara deklarasi kehadiran atau pemberian kuasa elektronik melalui eASY.KSEI dibuka sejak tanggal pemanggilan ini sampai 8 November 2026 pukul 12.00 WIB. Pendaftaran bagi yang hadir fisik ditutup pukul 09.30 WIB pada hari rapat, dan yang datang setelah itu dianggap tidak hadir sehingga tidak bisa mengajukan usul atau memberi suara."
+   "PT Terang Dunia Internusa Tbk (UNTD) menuntaskan Rapat Umum Pemegang Saham Luar Biasa pada Senin, 9 November 2026, dengan menyetujui seluruh lima agenda yang diajukan. Rapat dihadiri pemegang saham yang mewakili 4.875.047.900 saham, atau 73,13 persen dari seluruh saham dengan hak suara sah, sehingga kuorum terpenuhi.",
+   "Keputusan yang paling dinanti, soal susunan pengurus, berakhir dengan status quo. Pemegang saham mempertahankan seluruh jajaran Direksi dan Dewan Komisaris untuk satu periode baru selama lima tahun, terhitung sejak penutupan rapat ini sampai RUPS Tahunan untuk tahun buku 2030 yang akan digelar pada 2031. Susunan Direksi tetap Stephen Mulyadi sebagai Direktur Utama, dengan Andrew Mulyadi dan Henry Mulyadi sebagai Direktur. Dewan Komisaris tetap diisi Tan Eric Raharjo Prayitno sebagai Komisaris Utama, serta Poltak Sihotang dan Gatot Eddy Pramono sebagai Komisaris Independen.",
+   "Rapat juga menyetujui perubahan Pasal 3 Anggaran Dasar soal maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025), sekaligus memberi kuasa kepada Direksi untuk menuangkan perubahan itu dalam akta notaris dan mengurus persetujuannya ke Kementerian Hukum. Besaran gaji dan tunjangan Direksi serta Dewan Komisaris untuk tahun buku 2026 juga disetujui, tetapi penentuan angkanya didelegasikan masing-masing kepada Dewan Komisaris dan Komite Nominasi dan Remunerasi, sehingga nilainya belum diumumkan ke publik. Agenda kelima, laporan pertanggungjawaban realisasi penggunaan dana hasil penawaran umum perdana, juga disetujui pemegang saham, meski dokumen ini tidak merinci angka realisasinya.",
+   "Rapat ini adalah realisasi dari pemanggilan RUPSLB yang diumumkan perseroan pada 16 Oktober 2026, digelar di United Building, Jalan Boulevard Alam Sutera, Tangerang Selatan. Saat pemanggilan, perseroan belum merinci nama calon direksi-komisaris pengganti maupun angka realisasi dana IPO, dan hasil rapat ini menjawab bahwa tidak ada pergantian nama dalam jajaran pengurus."
   ],
   "fotoAdegan": "Rows of empty chairs arranged in a modern conference hall before a corporate meeting, soft morning light through tall windows",
-  "takeaway": "Pemanggilan ini condong netral bagi UNTD, sebab isinya seputar administrasi tata kelola, yakni penyesuaian klasifikasi usaha dan kemungkinan rotasi pengurus, tanpa indikasi perubahan permodalan atau transaksi besar yang mengubah fundamental perusahaan. Pos yang tersentuh ada di sisi tata kelola dan beban operasional, karena pergantian direksi-komisaris bisa mengubah arah strategi, sementara penetapan gaji tahun 2026 berpengaruh ke beban perseroan, bukan ke arus kas atau jumlah saham beredar karena RUPSLB ini hanya mengesahkan ulang laporan dana lama, tidak menghimpun dana segar. Yang perlu dipantau adalah hasil rapat pada 9 November 2026, terutama apakah ada nama baru yang masuk ke Direksi atau Dewan Komisaris dan isi laporan realisasi dana IPO yang baru akan terungkap detailnya setelah disetujui pemegang saham. Pemegang saham yang ingin ikut menentukan hasil itu harus mendaftar lewat eASY.KSEI paling lambat 8 November 2026 pukul 12.00 WIB atau mengirim surat kuasa tertulis ke BAE sebelum 3 November 2026.",
-  "sentimen": "netral"
+  "takeaway": "Hasil RUPSLB ini netral bagi UNTD, karena keputusan utamanya adalah mempertahankan status quo, bukan mengubah fundamental perusahaan: tidak ada direksi atau komisaris baru, dan tidak ada aksi korporasi yang menambah atau mengurangi modal. Pos yang tersentuh hanya di sisi tata kelola dan beban operasional, sebab kontinuitas pengurus berarti arah strategi tidak berubah, sementara persetujuan gaji dan tunjangan Direksi dan Dewan Komisaris untuk tahun 2026 akan menambah beban biaya perseroan meski besarannya belum diketahui karena didelegasikan ke komisaris dan komite remunerasi. Ekuitas, arus kas, jumlah saham beredar, dan laba per saham perseroan tidak tersentuh langsung oleh keputusan-keputusan ini, karena RUPSLB ini bersifat administratif, bukan permodalan. Yang perlu dipantau berikutnya adalah proses notaris dan persetujuan Kementerian Hukum atas perubahan Anggaran Dasar yang baru disahkan, serta rincian angka dalam laporan realisasi dana IPO yang disetujui rapat ini tetapi belum diumumkan ke publik.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-11T09:36:46",
+    "ringkas": "RUPSLB UNTD 9 November menyetujui lima agenda; Direksi dan Komisaris lama dipertahankan untuk periode lima tahun ke depan.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dad8b95837_3011a8b7ca.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-11T09:36:46",
+  "peristiwa": "rups"
  },
  {
   "slug": "eraa-rampungkan-opsi-mesop-tahap-2-total-51-54-juta-lembar",
@@ -52189,8 +52477,8 @@ var ARTICLES = [
  {
   "slug": "viva-konversi-utang-rp1-72-triliun-jadi-saham-baru",
   "category": "Aksi Korporasi",
-  "title": "VIVA Konversi Utang Rp1,72 Triliun Jadi [Saham] Baru",
-  "deck": "VIVA akan menerbitkan sebanyak-banyaknya 43,09 miliar saham baru tanpa hak memesan efek terlebih dahulu untuk melunasi utang PKPU senilai Rp1,72 triliun kepada dua kreditur, MSP dan BAM.",
+  "title": "VIVA Revisi Konversi Utang: Saham Baru [Naik] ke 86,17 Miliar",
+  "deck": "VIVA merevisi rencana konversi utang Rp1,72 triliun: jumlah saham baru naik jadi maksimal 86,17 miliar lembar, nilai nominal turun ke Rp20 dari Rp40.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 Oktober 2026",
   "isoDate": "2026-10-09T21:10:18",
@@ -52199,19 +52487,29 @@ var ARTICLES = [
   "emiten": "VIVA",
   "tags": [
    "VIVA",
+   "konversi utang",
    "PMTHMETD",
-   "restrukturisasi utang",
-   "konversi utang"
+   "dilusi saham"
   ],
   "body": [
-   "PT Visi Media Asia Tbk (VIVA) menyampaikan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) untuk melunasi utang lewat konversi menjadi saham. Berdasarkan keterbukaan informasi tertanggal 9 Oktober 2026, Perseroan akan menerbitkan saham baru seri C sebanyak-banyaknya 43.087.334.600 lembar dengan nilai nominal Rp40 per saham, untuk melunasi Utang PKPU sebesar Rp1.723.493.387.881 kepada dua kreditur, yaitu PT Mandara Sentra Perdana (MSP) dan PT Bina Aksara Muliatama (BAM). Skema ini mengacu pada Perjanjian Konversi Utang VIVA-BAM dan VIVA-MSP yang diteken 15 Desember 2025, dan menurut Perseroan tujuannya adalah memperbaiki posisi keuangan.",
-   "Utang tersebut berasal dari Senior Facility yang diterima entitas anak VIVA, PT Cakrawala Andalas Televisi (CAT) dan PT Lativi Mediakarya (LM), dengan VIVA sebagai penjamin sejak 2017. Setelah proses penundaan kewajiban pembayaran utang (PKPU) yang dihomologasi Pengadilan Niaga Jakarta Pusat pada 8 November 2024, sisa utang Senior Facility sebesar US$125,43 juta dikonversi ke rupiah menjadi Rp2,07 triliun. Dari jumlah itu, Rp1,94 triliun dialihkan menjadi utang langsung Perseroan kepada MSP dan BAM lewat perjanjian novasi tertanggal 2 Desember 2025 dan 15 Juni 2026, dan Rp1,72 triliun di antaranya yang kini akan dilunasi lewat konversi menjadi saham baru.",
-   "Saham baru tersebut akan diambil dari portepel, yaitu saham simpanan yang belum pernah diterbitkan, melalui konversi sebagian saham seri A dan seluruh saham seri B yang masih tersisa di portepel sebanyak 23,89 miliar lembar. Sebagai pembanding, total saham VIVA yang beredar per 30 Juni 2026 baru 16,46 miliar lembar, sehingga penerbitan maksimal 43,09 miliar saham baru ini setara lebih dari 2,6 kali jumlah saham yang beredar saat ini. Pemegang saham pengendali, PT Bakrie Global Ventura, saat ini menggenggam 5,42 miliar saham seri A atau 32,94 persen dari kelas saham tersebut.",
+   "PT Visi Media Asia Tbk (VIVA) merevisi rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) untuk melunasi utang PKPU Rp1,72 triliun lewat konversi menjadi saham. Dalam dokumen tambahan informasi tertanggal 11 November 2026, Perseroan menaikkan jumlah maksimal saham baru seri C yang akan diterbitkan dari semula 43.087.334.600 lembar menjadi 86.174.669.300 lembar, sembari menurunkan nilai nominal saham seri C itu dari Rp40 menjadi Rp20 per saham. Nilai total utang yang dilunasi tetap sama, yaitu Rp1.723.493.387.881 kepada dua kreditur, PT Mandara Sentra Perdana (MSP) dan PT Bina Aksara Muliatama (BAM).",
+   "Utang tersebut berasal dari Senior Facility yang diterima entitas anak VIVA, PT Cakrawala Andalas Televisi (CAT) dan PT Lativi Mediakarya (LM), dengan VIVA sebagai penjamin sejak 2017. Setelah proses penundaan kewajiban pembayaran utang (PKPU) yang dihomologasi Pengadilan Niaga Jakarta Pusat pada 8 November 2024, sisa utang Senior Facility sebesar US$125,43 juta dikonversi ke rupiah menjadi Rp2,07 triliun. Dari jumlah itu, Rp1,94 triliun dialihkan menjadi utang langsung Perseroan kepada MSP dan BAM lewat perjanjian novasi tertanggal 2 Desember 2025 dan 15 Juni 2026, dan Rp1,72 triliun di antaranya yang akan dilunasi lewat konversi menjadi saham baru ini.",
+   "Saham baru tersebut akan diambil dari portepel, yaitu simpanan saham yang belum pernah diterbitkan, lewat konversi sebagian saham seri A dan seluruh saham seri B yang masih tersisa di portepel. Total saham VIVA yang beredar per 30 Juni 2026 baru 16,46 miliar lembar, sehingga penerbitan maksimal 86,17 miliar saham baru versi revisi ini setara lebih dari 5,2 kali jumlah saham beredar saat ini, naik dari 2,6 kali pada rencana awal. Jika seluruh saham maksimal ini benar diterbitkan, porsi kepemilikan pemegang saham lama atas Perseroan bisa tergerus dari sekitar 27,6 persen pada rencana awal menjadi sekitar 16 persen saja. Pemegang saham pengendali, PT Bakrie Global Ventura, yang kini menggenggam 5,42 miliar saham atau 32,94 persen dari total saham beredar, berpotensi ikut tergerus menjadi sekitar 5,3 persen dalam skenario itu, karena saham baru ini mengalir ke MSP dan BAM, bukan ke BGV.",
    "Dari sisi kinerja, ekuitas Perseroan per 30 Juni 2026 tercatat Rp496,1 miliar, naik dari Rp361,6 miliar pada akhir 2025, sementara total liabilitas mencapai Rp5,84 triliun. Laba bersih semester I 2026 turun tajam menjadi Rp65,58 miliar dari Rp1,19 triliun pada periode sama tahun lalu, sehingga laba bersih per saham dilusian ikut anjlok dari Rp72,46 menjadi Rp3,98. Arus kas dari aktivitas operasi masih positif Rp46,53 miliar, naik dari Rp33,16 miliar pada semester I 2025."
   ],
   "fotoAdegan": "Satellite dishes and broadcast antenna towers on a television station rooftop against an overcast Jakarta skyline, late afternoon light.",
-  "takeaway": "Konversi utang menjadi saham ini condong negatif bagi pemegang saham publik VIVA, karena skala penerbitan saham barunya sangat besar, bisa mencapai 2,6 kali jumlah saham yang beredar saat ini, sehingga porsi kepemilikan dan hak suara pemegang saham lama otomatis menyusut tajam begitu saham baru ini terbit. Yang tersentuh adalah jumlah saham beredar dan laba per saham: makin banyak saham baru yang terbit, makin kecil porsi kue perusahaan yang dimiliki tiap lembar saham lama, dan laba yang sama besar pun jadi terbagi ke lebih banyak lembar saham. Di sisi lain, langkah ini mengurangi beban utang Perseroan sebesar Rp1,72 triliun dan memperkuat ekuitas, yang penting karena total liabilitas VIVA masih jauh lebih besar dari ekuitasnya. Yang perlu dipantau berikutnya adalah RUPSLB yang akan digelar untuk meminta restu pemegang saham atas rencana ini, serta jumlah final saham yang benar-benar diterbitkan kepada MSP dan BAM, karena itu akan menentukan seberapa besar dilusi yang sesungguhnya terjadi dan apakah peta pengendali Perseroan ikut berubah.",
-  "sentimen": "negatif"
+  "takeaway": "Revisi ini condong negatif bagi pemegang saham publik VIVA, karena jumlah saham baru yang akan diterbitkan untuk melunasi utang kini digandakan menjadi maksimal 86,17 miliar lembar dari sebelumnya 43,09 miliar lembar, sementara nilai nominalnya dipotong separuh menjadi Rp20 per saham sehingga total nilai utang yang dilunasi tetap sama. Yang tersentuh adalah jumlah saham beredar dan laba per saham: dengan jumlah saham baru yang lebih banyak, porsi kepemilikan tiap pemegang saham lama menyusut lebih tajam dibanding rencana awal, dari sekitar 27,6 persen menjadi sekitar 16 persen saja jika seluruh saham maksimal diterbitkan, dan laba yang sama besar terbagi ke jauh lebih banyak lembar saham. Perubahan ini juga membuat porsi kepemilikan pemegang saham pengendali, PT Bakrie Global Ventura, yang kini 32,94 persen, berpotensi tergerus tajam menjadi sekitar 5,3 persen, karena saham baru ini mengalir ke dua kreditur, MSP dan BAM, bukan ke BGV. Yang perlu dipantau berikutnya adalah RUPSLB yang masih akan diselenggarakan untuk meminta restu pemegang saham atas revisi rencana ini, serta jumlah final saham yang benar-benar diterbitkan, karena itu akan menentukan seberapa besar dilusi yang sesungguhnya terjadi dan apakah peta pengendali Perseroan ikut bergeser.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-11T20:39:08",
+    "ringkas": "VIVA menggandakan jumlah saham baru untuk pelunasan utang jadi 86,17 miliar lembar dan memangkas nilai nominalnya jadi Rp20 per saham.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/822d87ab2c_90b0ce698a.pdf",
+    "judulIdx": "Penambahan modal tanpa HMETD - Pelunasan Utang dan / atau Konversi Utang Menjadi Saham"
+   }
+  ],
+  "diperbarui": "2026-11-11T20:39:08",
+  "peristiwa": "right-issue"
  },
  {
   "slug": "mgia01-bni-am-bri-mi-pnm-gabung-ke-danareksa-im",

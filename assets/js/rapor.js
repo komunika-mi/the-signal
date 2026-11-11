@@ -12,8 +12,36 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-11T04:02:01.522+07:00",
+ "diperbarui": "2026-11-11T21:24:25.148+07:00",
  "entri": [
+  {
+   "id": "arah-danantara-2026-12-11",
+   "edisi": null,
+   "isu": "danantara",
+   "isuNama": "Langkah Danantara",
+   "benang": "Apakah penambahan modal yang diumumkan untuk BUMN benar-benar disetujui dan cair, bukan berhenti di rencana?",
+   "cabang": "Disetujui dan cair",
+   "klaim": "Penambahan modal Garuda Indonesia lewat rights issue senilai Rp6,2 triliun yang disokong suntikan saham GMF AeroAsia dari Danantara disetujui RUPSLB dan dieksekusi sesuai jadwal yang diumumkan pada awal November 2026.",
+   "penanda": "Yang perlu dipantau berikutnya adalah tanggal efektif pernyataan pendaftaran dari OJK pada 11 Desember 2026, serta penetapan harga pelaksanaan dan rasio HMETD final sebelum periode perdagangan dimulai 29 Desember 2026.",
+   "tenggat": "2026-12-11",
+   "tenggatLabel": "11 Desember 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "arah-go-private-emiten-2026-11-12",
+   "edisi": null,
+   "isu": "go-private-emiten",
+   "isuNama": "Gelombang Go Private",
+   "benang": "Apakah gelombang emiten keluar dari bursa berlanjut?",
+   "cabang": "Berlanjut dan bertambah",
+   "klaim": "Gelombang keluarnya emiten dari Bursa Efek Indonesia berlanjut dan bertambah, dengan papan pencatatan kehilangan lebih banyak emiten lewat delisting dan tender wajib baru dibanding penambahan pencatatan saham baru pada periode setelah 12 November 2026.",
+   "penanda": "Yang perlu dipantau adalah hasil RUPSLB pada 12 November 2026, terutama siapa yang dikonfirmasi sebagai pengendali baru dan siapa susunan direksi-komisaris yang disetujui, karena dokumen pemanggilan ini belum mengungkap nama-namanya.",
+   "tenggat": "2026-11-12",
+   "tenggatLabel": "12 November 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-10-3",
    "edisi": "2026-11-10",

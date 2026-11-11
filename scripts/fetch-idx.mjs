@@ -111,11 +111,11 @@ const RUTIN = new RegExp([
   'perubahan alamat', 'pindah alamat', 'perubahan domisili',
   'perubahan e-?mail', 'perubahan situs', 'perubahan logo',
   'perubahan nama perseroan(?! terbatas)',
-  // Pengumuman bursa yang terbit puluhan kali sepekan tanpa satu pun
-  // keputusan emiten di dalamnya. Diukur dari 1.200 pengumuman 4-11 November
-  // 2026: pencatatan tambahan ETF 19x, jumlah dan penyesuaian structured
-  // warrant 23x, dematerialisasi 6x, saham hilang 3x. Semuanya dulu ikut jadi
-  // kandidat karena tidak cocok RUTIN maupun MATERIAL.
+  // Pengumuman bursa yang terbit ratusan kali sebulan tanpa satu pun
+  // keputusan emiten di dalamnya. Diukur pada seluruh 6.044 pengumuman
+  // Oktober 2026: structured warrant 147x, pencatatan tambahan ETF 119x,
+  // dematerialisasi 14x, saham hilang 11x. Semuanya dulu ikut jadi kandidat
+  // karena tidak cocok RUTIN maupun MATERIAL.
   'pencatatan tambahan (saham )?etf', 'structured warrant', 'waran terstruktur',
   'dematerialisasi', 'saham hilang',
 ].join('|'), 'i');
@@ -139,13 +139,13 @@ const RUTIN = new RegExp([
 // Ditambal lagi 11 November 2026, juga dari bukti. Sejak hari itu HANYA
 // yang cocok daftar ini yang diterbitkan (keputusan pemilik setelah laporan
 // Oktober menemukan situs ini hilang dari Google), jadi bolos di sini kini
-// berarti laporan itu tidak terbit sama sekali. Bolos di sampel 4-11
-// November: "Ringkasan Risalah Rapat Umum PARA Pemegang Saham" 12x,
-// "Perubahan ANGGOTA Direksi", "Penjelasan atas Pemberitaan Media Massa" 4x,
-// rapat pemegang obligasi/sukuk (RUPO/RUPSU) 7x, "Pembelian atau Penjualan
-// Saham yang Nilainya Material", penyampaian prospektus, pendirian anak
-// usaha, pinjaman dan penyertaan modal ke entitas anak, serta jawaban emiten
-// atas perubahan liabilitas lebih dari 20%.
+// berarti laporan itu tidak terbit sama sekali. Bolos yang ditemukan,
+// dihitung pada seluruh pengumuman Oktober 2026: "Rapat Umum PARA Pemegang
+// Saham" 51x, rapat pemegang obligasi (RUPO) 29x, jawaban "Penjelasan ..."
+// ke bursa 15x, "Pemberitaan Media Massa" 15x, perubahan ANGGOTA direksi
+// 12x, penyampaian prospektus 11x, pendirian anak usaha 9x, ditambah yang
+// lebih jarang: saham yang nilainya material, transaksi material, penyertaan
+// dan peningkatan modal, perubahan liabilitas lebih dari 20%.
 const MATERIAL = new RegExp([
   'laporan keuangan', 'kinerja', 'dividen', 'rups', 'rupslb',
   'rapat umum (para )?pemegang saham', '\\brupo\\b', '\\brupsu\\b',

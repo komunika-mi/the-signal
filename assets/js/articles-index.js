@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppgd-catatkan-obligasi-sukuk-baru-rp1-5-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "PPGD catatkan [obligasi-sukuk] baru Rp1,5 triliun di BEI",
+  "deck": "Pegadaian (PPGD) mencatatkan empat seri obligasi dan sukuk senilai total Rp1,5 triliun di BEI mulai 12 November 2026, bagian dari program penawaran berkelanjutan senilai puluhan triliun rupiah.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGD",
+   "obligasi korporasi",
+   "sukuk",
+   "Pegadaian"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c28565f4f7_58994dc448.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bris-catatkan-sukuk-rp2-triliun-genapkan-rp10-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Catatkan Sukuk Rp2 Triliun, Genapkan [Rp10 Triliun]",
+  "deck": "Sukuk mudharabah tahap III senilai Rp2 triliun resmi tercatat di BEI pada 12 November 2026, melengkapi target Rp10 triliun program yang berjalan sejak 2024.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIS",
+   "Sukuk Mudharabah",
+   "BEI",
+   "Obligasi Syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c3d7939419_baac6c09fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-evaluasi-saham-terkonsentrasi-bobot-ihsg-berubah",
+  "category": "Aksi Korporasi",
+  "title": "BEI Evaluasi Saham Terkonsentrasi, Bobot [IHSG] Berubah",
+  "deck": "Komite BEI mengevaluasi kepemilikan saham 10 pemegang saham terbesar di seluruh perusahaan tercatat per 30 Oktober 2026, memengaruhi penyesuaian bobot IHSG dua hari bursa mendatang.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IHSG",
+   "BEI",
+   "kepemilikan saham",
+   "indeks"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/07864ea30d_bd4f07848a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inps-batalkan-rupslb-pmthmetd-tertunda-imbas-ojk",
+  "category": "Aksi Korporasi",
+  "title": "INPS Batalkan RUPSLB, [PMTHMETD] Tertunda Imbas OJK",
+  "deck": "RUPSLB INPS yang semula digelar 6 November 2026 dibatalkan karena OJK masih memproses revisi keterbukaan informasi rencana penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "RUPSLB",
+   "PMTHMETD",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d901e668bd_a7949c5935.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "boga-rempah-perikanan-ri-catat-potensi-rp450-miliar-di-shanghai",
   "category": "Bisnis",
   "title": "Boga, Rempah, Perikanan RI Catat Potensi [Rp450 Miliar] di Shanghai",
@@ -21,6 +85,118 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/produk-boga-rempah-dan-perikanan-indonesia-catat-potensi-transaksi-rp450-miliar-di-pameran-shanghai",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "adhi-koreksi-laporan-keuangan-catat-rugi-rp19-18-miliar-di-h1-2026",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Koreksi Laporan Keuangan, Catat [Rugi] Rp19,18 Miliar di H1 2026",
+  "deck": "Laporan keuangan interim koreksi ADHI untuk semester I 2026 menunjukkan rugi bersih Rp19,18 miliar, berbalik dari laba Rp7,54 miliar tahun sebelumnya, meski pendapatan usaha turun 18,4 persen.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "laporan keuangan",
+   "BUMN karya",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261111180017-65760-0/FinancialStatement-2026-II-ADHI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ltls-siapkan-dana-lunasi-obligasi-rp135-miliar",
+  "category": "Aksi Korporasi",
+  "title": "LTLS Siapkan Dana Lunasi [Obligasi] Rp135 Miliar",
+  "deck": "Obligasi Seri B senilai Rp135 miliar jatuh tempo 12 November 2026 dan delisting dari BEI; LTLS menyatakan telah menyiapkan dana penuh untuk pelunasan.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LTLS",
+   "obligasi korporasi",
+   "jatuh tempo obligasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/81f86e8265_637531c79f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-panggil-rupslb-agendakan-pergantian-direksi",
+  "category": "Aksi Korporasi",
+  "title": "RLCO Panggil RUPSLB, Agendakan [Pergantian] Direksi",
+  "deck": "RLCO mengundang pemegang saham ke RUPSLB 3 Desember 2026 untuk membahas perubahan Anggaran Dasar dan pergantian susunan Direksi.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1099b0a170_6966b3c744.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-city-laba-naik-49-6-okupansi-disorot-media",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose CITY: laba naik 49,6%, [okupansi] disorot media",
+  "deck": "Dalam public expose tahunan, CITY melaporkan laba bersih naik 49,6% dan ekuitas naik 2,02%, sementara dari 1.780 unit terjual baru 800 unit berpenghuni.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CITY",
+   "public expose",
+   "properti",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bbb15fe1f7_5cbc6b6676.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "menn-ubah-haluan-jadi-holding-teknologi-capex-rp19-76-m",
+  "category": "Aksi Korporasi",
+  "title": "MENN Ubah Haluan Jadi [Holding] Teknologi, Capex Rp19,76 M",
+  "deck": "PT Menn Teknologi Indonesia Tbk memaparkan rencana berubah jadi perusahaan induk investasi teknologi dengan tiga anak usaha baru, saat sahamnya masih disuspensi.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MENN",
+   "Public Expose",
+   "Technology Investment Holding",
+   "Suspensi Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/932293aa16_3da4492d7d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "futr-koreksi-laporan-realisasi-dana-ipo-rp10-5-m-mengendap",
+  "category": "Aksi Korporasi",
+  "title": "FUTR Koreksi Laporan Realisasi Dana IPO Rp10,5 M [Mengendap]",
+  "deck": "Futura Energi Global (FUTR) mengoreksi laporan realisasi dana IPO dan waran, dengan total Rp39,4 miliar dana belum terserap per 30 Juni 2026.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FUTR",
+   "penggunaan dana IPO",
+   "waran",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0b65846e79_6b509cd627.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "keen-teken-ppa-plta-140-mw-senilai-us-1-2-miliar-dengan-pln",
+  "category": "Aksi Korporasi",
+  "title": "KEEN Teken [PPA] PLTA 140 MW Senilai US$1,2 Miliar dengan PLN",
+  "deck": "KEEN melalui dua anak usahanya meneken perjanjian jual beli listrik dengan PLN untuk PLTA Salu Uro 95 MW dan PLTA Pakkat 2 45 MW, dengan total nilai kontrak sekitar US$1,2 miliar selama 30 tahun.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KEEN",
+   "PLTA",
+   "PLN",
+   "pembangkit listrik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/93f810f0b4_7156c51994.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pemerintah-perluas-insentif-pajak-karyawan-ke-semua-sektor-2027",
@@ -6289,183 +6465,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476671-indonesia-dinilai-perlu-terus-perkuat-ketahanan-energi-belajar-strategi-cadangan-minyak-dari-jepang"
- },
- {
-  "slug": "ultj-ambil-alih-frisian-flag-kendali-ke-frieslandcampina",
-  "category": "Aksi Korporasi",
-  "title": "ULTJ Ambil Alih [Frisian Flag], Kendali ke FrieslandCampina",
-  "deck": "ULTJ akan mengambil alih 100 persen saham Frisian Flag Indonesia lewat tukar saham non-tunai, sehingga pengendali perusahaan beralih dari keluarga Prawirawidjaja ke FrieslandCampina.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "Frisian Flag Indonesia",
-   "FrieslandCampina",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/999581bae2_58adf38a1c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unvr-panggil-rupslb-tarik-168-8-juta-saham-treasuri",
-  "category": "Aksi Korporasi",
-  "title": "UNVR Panggil RUPSLB, Tarik [168,8 Juta] Saham Treasuri",
-  "deck": "Unilever Indonesia memanggil RUPSLB 26 November 2026 untuk meminta persetujuan menarik seluruh 168,8 juta saham treasuri hasil buyback 2025, setara 0,44% modal disetor.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNVR",
-   "RUPSLB",
-   "saham treasuri",
-   "pengurangan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6da8ff3383_dcb938ef74.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "giaa-rampungkan-alih-saham-gmfi-ke-danantara-jelang-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Rampungkan Alih Saham GMFI ke Danantara Jelang [Rights Issue]",
-  "deck": "Garuda Indonesia merampungkan peralihan 82,1 miliar saham GMFI dari Angkasa Pura ke Danantara Asset Management, yang akan disetor Danantara sebagai pengganti uang tunai dalam rights issue Garuda.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "rights issue",
-   "Danantara",
-   "GMFI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/56b51c5d6a_923f532942.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bukan-cuma-sertifikat-lppom-dorong-umkm-naik-kelas",
-  "category": "UMKM",
-  "title": "Bukan Cuma Sertifikat, LPPOM Dorong UMKM [Naik Kelas]",
-  "deck": "LPPOM gelar Halal Connect 2026 di Jakarta, kumpulkan sekitar 100 pelaku usaha untuk membangun jejaring bisnis halal, bukan sekadar urus sertifikat.",
-  "date": "4 November 2026",
-  "image": "assets/img/bukan-cuma-sertifikat-lppom-dorong-umkm-naik-kelas.jpg",
-  "imageV": "mw2dxhvp",
-  "tags": [
-   "umkm",
-   "halal",
-   "lppom",
-   "jakarta"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476666-bukan-cuma-label-halal-begini-cara-pelaku-umkm-dapat-naik-kelas"
- },
- {
-  "slug": "bold-akui-telat-lapor-kesiapan-dana-obligasi-soroti-likuiditas",
-  "category": "Aksi Korporasi",
-  "title": "BOLD Akui Telat Lapor Kesiapan Dana Obligasi, Soroti [Likuiditas]",
-  "deck": "BUMA (BOLD) menjelaskan ke Bursa keterlambatan lapor kesiapan dana Obligasi III Rp503,15 miliar, di tengah tekanan likuiditas dan obligasi lain yang jatuh tempo Desember 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLD",
-   "BUMA",
-   "obligasi",
-   "likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/68a1a66ba8_dfea5cdbed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-ajukan-pinjaman-rp1-1-triliun-dari-pengendali-pmj",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Ajukan Pinjaman [Rp1,1 Triliun] dari Pengendali PMJ",
-  "deck": "BIKE mengajukan pinjaman Standby Loan hingga Rp1,1 triliun dari pengendali PMJ, sekaligus menambah tujuh KBLI baru, untuk disetujui RUPSLB 11 Desember 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "transaksi afiliasi",
-   "standby loan",
-   "diversifikasi usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d797142f88_b04c5d1d0f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-lanjutkan-suspensi-saham-menn-dan-soul-akibat-telat-lapor-lk",
-  "category": "Aksi Korporasi",
-  "title": "BEI Lanjutkan [Suspensi] Saham MENN dan SOUL Akibat Telat Lapor LK",
-  "deck": "BEI mengoreksi pengumuman sebelumnya dan menegaskan perdagangan saham MENN serta SOUL masih dihentikan karena belum menyampaikan laporan keuangan interim per Juni 2026 dan/atau belum membayar denda.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MENN",
-   "SOUL",
-   "suspensi saham",
-   "Papan Akselerasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/07c61d5d45_2b726dfb08.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-lanjutkan-suspensi-saham-menn-dan-soul",
-  "category": "Aksi Korporasi",
-  "title": "BEI Lanjutkan [Suspensi] Saham MENN dan SOUL",
-  "deck": "BEI menegaskan dua emiten Papan Akselerasi, MENN dan SOUL, tetap disuspensi karena belum menyampaikan laporan keuangan interim Juni 2026 dan/atau belum membayar denda.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MENN",
-   "SOUL",
-   "Suspensi Saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ebe915b202_06bcb9fbc6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-lanjutkan-suspensi-62-saham-akibat-telat-laporan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "BEI Lanjutkan [Suspensi] 62 Saham Akibat Telat Laporan Keuangan",
-  "deck": "Bursa Efek Indonesia mempertahankan suspensi perdagangan 62 saham karena belum menyerahkan laporan keuangan interim Juni 2026 dan/atau belum membayar denda Rp150 juta sejak 30 Oktober 2026.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "suspensi saham",
-   "BEI",
-   "SRIL",
-   "BTEL"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/19083cc232_96785c4af2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "emas-panggil-rups-independen-soal-pmthmetd-10",
-  "category": "Aksi Korporasi",
-  "title": "EMAS Panggil RUPS Independen soal [PMTHMETD] 10%",
-  "deck": "RUPS pemegang saham independen EMAS pada 26 November 2026 akan memutuskan rencana penambahan modal tanpa hak memesan efek terlebih dahulu sebanyak-banyaknya 10 persen saham baru.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "RUPS",
-   "PMTHMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6030cd0056_db96ad1d67.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bri-salurkan-tunjangan-guru-non-asn-rp921-6-miliar",
-  "category": "Perbankan",
-  "title": "BRI Salurkan [Tunjangan] Guru Non-ASN Rp921,6 Miliar",
-  "deck": "BRI menyalurkan Rp921,6 miliar tunjangan profesi guru non-ASN triwulan III 2026 kepada sekitar 507 ribu guru honorer, masing-masing menerima Rp6 juta untuk periode Juli-September.",
-  "date": "4 November 2026",
-  "image": "assets/img/bri-salurkan-tunjangan-guru-non-asn-rp921-6-miliar.jpg",
-  "imageV": "mw2dxidu",
-  "tags": [
-   "BRI",
-   "Tunjangan Guru",
-   "Guru Non-ASN",
-   "Kemendikdasmen"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476661-bri-salurkan-tunjangan-profesi-guru-non-asn-seniliai-rp9216-miliar-kepada-lebih-dari-507-ribu-penerima"
  }
 ];

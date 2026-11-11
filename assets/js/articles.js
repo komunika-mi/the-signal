@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ppgd-catatkan-obligasi-sukuk-baru-rp1-5-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "PPGD catatkan [obligasi-sukuk] baru Rp1,5 triliun di BEI",
+  "deck": "Pegadaian (PPGD) mencatatkan empat seri obligasi dan sukuk senilai total Rp1,5 triliun di BEI mulai 12 November 2026, bagian dari program penawaran berkelanjutan senilai puluhan triliun rupiah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T19:11:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c28565f4f7_58994dc448.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGD",
+  "tags": [
+   "PPGD",
+   "obligasi korporasi",
+   "sukuk",
+   "Pegadaian"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan pencatatan awal empat instrumen utang baru milik PT Pegadaian (Persero) dengan kode emiten PPGD, mulai 12 November 2026. Keempatnya adalah Obligasi Berkelanjutan VII Tahap III senilai Rp477,675 miliar, Sukuk Mudharabah Berkelanjutan IV Tahap III senilai Rp356,17 miliar, Obligasi Berwawasan Sosial Berkelanjutan II Tahap III senilai Rp366,125 miliar, dan Sukuk Mudharabah Berwawasan Sosial Berkelanjutan II Tahap II senilai Rp300,03 miliar. Totalnya mencapai Rp1,5 triliun dana yang dihimpun Pegadaian dari pasar modal pada tahap ini.",
+   "Obligasi dan Obligasi Berwawasan Sosial memberi bunga tetap 7,25 persen per tahun, sementara dua sukuk memberi nisbah bagi hasil 16,8605 persen yang setara dengan imbal hasil 7,25 persen per tahun. Semua instrumen terbit 11 November 2026 dan jatuh tempo 21 November 2027, dengan tenor 370 hari kalender. Bunga atau bagi hasil dibayar setiap tiga bulan, pembayaran pertama pada 11 Februari 2027, sedangkan pembayaran terakhir sekaligus pelunasan pokok penuh terjadi pada tanggal jatuh tempo. Keempat instrumen tidak dijamin dengan aset khusus, melainkan dengan seluruh harta kekayaan Pegadaian sesuai pasal 1131 dan 1132 KUH Perdata, dengan PT Bank Mega Tbk sebagai wali amanat. Pefindo memberi rating idAAA untuk obligasi dan idAAA(sy) untuk sukuk, sementara Fitch Ratings Indonesia memberi AAA(idn) untuk keduanya. Pegadaian hanya boleh membeli kembali obligasi atau sukuk ini paling cepat satu tahun setelah tanggal penjatahan.",
+   "Penerbitan ini adalah tahap ketiga dari program payung bernilai besar yang sudah disetujui OJK efektif sejak 30 Juni 2026, yakni Penawaran Umum Berkelanjutan VII Obligasi dengan target Rp25 triliun, Sukuk Mudharabah Berkelanjutan IV dengan target Rp5 triliun, Obligasi Berwawasan Sosial Berkelanjutan II dengan target Rp7 triliun, dan Sukuk Mudharabah Berwawasan Sosial Berkelanjutan II dengan target Rp3 triliun. Sebelumnya Pegadaian sudah menerbitkan Tahap I dan Tahap II dari keempat program itu dengan nilai yang lebih besar, termasuk Obligasi VII Tahap II senilai Rp1,912 triliun dan Sukuk Mudharabah IV Tahap II senilai Rp2,305 triliun. Penjaminan emisi tahap ini dijamin kesanggupan penuh oleh sepuluh perusahaan sekuritas, termasuk Bahana Sekuritas, BNI Sekuritas, BRI Danareksa Sekuritas, dan Mandiri Sekuritas yang berafiliasi dengan Pegadaian sebagai sesama BUMN."
+  ],
+  "fotoAdegan": "Customers waiting at a bustling pawnshop counter while a teller appraises gold jewelry on a scale, warm indoor lighting",
+  "takeaway": "Laporan ini netral bagi Pegadaian, karena penerbitan tahap III ini sudah direncanakan sejak program payungnya disetujui OJK pada Juni 2026 dan tidak mengubah profil risiko perusahaan, yang terlihat dari rating tertinggi AAA yang dipertahankan. Pos yang tersentuh adalah beban bunga, karena Pegadaian kini menanggung bunga tetap 7,25 persen per tahun atas tambahan utang Rp1,5 triliun, serta arus kas, karena dana segar masuk sekarang tapi harus dilunasi sekaligus penuh saat jatuh tempo. Yang perlu dipantau adalah pembayaran bunga atau bagi hasil pertama pada 11 Februari 2027, dan terutama tanggal 21 November 2027, saat keempat instrumen ini jatuh tempo bersamaan dan Pegadaian harus melunasi pokoknya secara penuh dalam satu waktu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bris-catatkan-sukuk-rp2-triliun-genapkan-rp10-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BRIS Catatkan Sukuk Rp2 Triliun, Genapkan [Rp10 Triliun]",
+  "deck": "Sukuk mudharabah tahap III senilai Rp2 triliun resmi tercatat di BEI pada 12 November 2026, melengkapi target Rp10 triliun program yang berjalan sejak 2024.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T19:10:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c3d7939419_baac6c09fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "Sukuk Mudharabah",
+   "BEI",
+   "Obligasi Syariah"
+  ],
+  "body": [
+   "PT Bank Syariah Indonesia (Persero) Tbk (BRIS) resmi mencatatkan Sukuk Mudharabah Berkelanjutan I Tahap III Tahun 2026 senilai Rp2 triliun di Bursa Efek Indonesia mulai 12 November 2026. Penawaran umum berlangsung 6 November, penjatahan 9 November, dan dana telah didistribusikan secara elektronik pada 11 November 2026. Sukuk ini terbagi tiga seri: Seri A senilai Rp900 miliar dengan imbal hasil ekuivalen 7 persen per tahun dan jatuh tempo 21 November 2027, Seri B senilai Rp230 miliar dengan imbal hasil 7,05 persen jatuh tempo 11 November 2028, dan Seri C senilai Rp870 miliar dengan imbal hasil 7,2 persen jatuh tempo 11 November 2029. Wali amanat yang mengawasi hak pemegang sukuk adalah PT Bank Tabungan Negara (Persero) Tbk, dan Pefindo memberi peringkat idAAA(sy), peringkat tertinggi untuk instrumen syariah.",
+   "Penerbitan ini merupakan tahap terakhir dari program Sukuk Mudharabah Berkelanjutan I Bank BSI yang ditargetkan menghimpun Rp10 triliun sejak 2024. Rinciannya, tahap I pada 2024 senilai Rp3 triliun, tahap II pada 2025 senilai Rp5 triliun, dan tahap III ini Rp2 triliun, sehingga total dana yang terkumpul dari program ini kini mencapai Rp10 triliun secara penuh. Sukuk ini tidak dijaminkan dengan aset tertentu, melainkan dengan seluruh kekayaan perseroan, dan kedudukan pemegang sukuk sejajar dengan kreditor BSI lainnya. BSI berhak membeli kembali sebagian atau seluruh sukuk ini, tetapi baru boleh dilakukan paling cepat satu tahun setelah tanggal penjatahan, yakni setelah 9 November 2027, dan tidak boleh dilakukan jika itu membuat perseroan gagal memenuhi perjanjian dengan wali amanat.",
+   "Imbal hasil atau bagi hasil sukuk ini dibayarkan setiap tiga bulan, dengan pembayaran pertama dijadwalkan pada 11 Februari 2027. Pembayaran terakhir untuk masing masing seri jatuh bersamaan dengan tanggal jatuh temponya. Penjamin pelaksana emisi yang menjamin penuh penerbitan ini adalah PT BNI Sekuritas, PT BRI Danareksa Sekuritas, PT Mandiri Sekuritas, dan PT Mega Capital Sekuritas."
+  ],
+  "fotoAdegan": "Interior of a modern Islamic bank branch lobby with staff assisting customers at teller counters, soft morning daylight",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental BSI, karena merupakan kelanjutan program pendanaan yang sudah direncanakan sejak 2024, bukan kebutuhan dana mendadak, dan sejalan dengan penilaian kami atas laporan penerbitannya pekan lalu. Yang tersentuh adalah sisi utang dan arus kas: sukuk ini menambah liabilitas BSI dan menimbulkan beban bagi hasil rutin setiap kuartal, semacam bunga pada obligasi syariah, yang akan mengurangi laba bersih ke depan, sementara dana yang masuk menambah amunisi bank untuk menyalurkan pembiayaan syariah. Transaksi ini tidak melibatkan saham baru sehingga tidak berdampak pada jumlah saham beredar atau laba per saham. Yang perlu dipantau adalah pembayaran bagi hasil pertama pada 11 Februari 2027 sebagai penanda awal beban ini mulai berjalan, serta jatuh tempo Seri A pada 21 November 2027 sebagai tenggat pelunasan pertama yang harus dipenuhi BSI.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-evaluasi-saham-terkonsentrasi-bobot-ihsg-berubah",
+  "category": "Aksi Korporasi",
+  "title": "BEI Evaluasi Saham Terkonsentrasi, Bobot [IHSG] Berubah",
+  "deck": "Komite BEI mengevaluasi kepemilikan saham 10 pemegang saham terbesar di seluruh perusahaan tercatat per 30 Oktober 2026, memengaruhi penyesuaian bobot IHSG dua hari bursa mendatang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T18:41:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/07864ea30d_bd4f07848a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "IHSG",
+   "BEI",
+   "kepemilikan saham",
+   "indeks"
+  ],
+  "body": [
+   "Komite Kepemilikan Saham Terkonsentrasi Bursa Efek Indonesia mengumumkan hasil evaluasi struktur kepemilikan saham, baik dalam bentuk warkat (scrip) maupun tanpa warkat (scripless), atas seluruh perusahaan tercatat per 30 Oktober 2026. Kriteria yang dipakai adalah jumlah kepemilikan kumulatif 10 pemegang saham terbesar ditambah saham warkat yang mencapai 92,5 persen atau lebih dari total saham beredar. Pengumuman ini tercatat dengan nomor Peng-HSC-00088/BEI.WAS/11-2026 dari BEI dan Peng-00032/PWS/KSEI/1126 dari PT Kustodian Sentral Efek Indonesia, ditandatangani Karina Putrianty selaku Pejabat Pengganti Kepala Divisi Pengawasan Transaksi BEI dan Fitriyanto, Kepala Divisi Pengawasan KSEI, tertanggal 11 November 2026.",
+   "Dari dokumen yang diterima, sedikitnya 297 perusahaan tercatat masuk dalam daftar kepemilikan saham terkonsentrasi tinggi, dengan keterangan 'Baru/New' untuk perusahaan yang baru kali ini memenuhi kriteria tersebut dan tanda '-' untuk yang statusnya sudah sama pada evaluasi sebelumnya. Beberapa contoh dengan konsentrasi kepemilikan sangat tinggi antara lain PT Asuransi Bina Dana Arta (ABDA) 99,948 persen, PT Bank Syariah Indonesia (BRIS) 93,024 persen, PT Garuda Indonesia (GIAA) 96,049 persen, PT HM Sampoerna (HMSP) 94,865 persen, PT Bank Danamon Indonesia (BDMN) 96,113 persen, PT Mitra Adiperkasa (MAPI) 96,758 persen, dan PT Bayan Resources (BYAN) 96,5 persen. Daftar lengkap dalam dokumen jauh lebih panjang dari contoh ini dan mencakup emiten dari berbagai sektor, mulai dari perbankan, consumer goods, hingga logistik dan pertambangan.",
+   "Evaluasi ini merujuk pada Pengumuman Bursa No. Peng-00201/BEI.POP/10-2026 tentang penyesuaian kriteria evaluasi Indeks Harga Saham Gabungan (IHSG). Sebagai konsekuensinya, penyesuaian konstituen dalam perhitungan IHSG berlaku efektif pada hari bursa kedua setelah tanggal pengumuman ini, yakni sekitar dua hari kerja bursa setelah 11 November 2026. BEI menegaskan bahwa masuknya sebuah perusahaan ke dalam daftar ini tidak serta merta menunjukkan adanya pelanggaran peraturan pasar modal, dan bursa mengimbau investor untuk tetap memperhatikan keterbukaan informasi dari masing-masing perusahaan tercatat sebelum mengambil keputusan investasi."
+  ],
+  "fotoAdegan": "Wide view of Jakarta's Sudirman business district skyscrapers in soft morning light, light traffic on the avenue below",
+  "takeaway": "Pengumuman ini netral bagi pasar secara umum, karena sifatnya adalah penerapan rutin atas kriteria indeks yang memang sudah diumumkan BEI sebulan sebelumnya, bukan sinyal soal kinerja satu emiten tertentu. Yang tersentuh bukan laba atau arus kas perusahaan, melainkan porsi saham yang benar-benar beredar bebas di pasar alias free float, karena semakin terpusat kepemilikan di 10 pemegang saham teratas, semakin kecil porsi saham yang dianggap aktif diperdagangkan publik, dan itu memengaruhi bobot saham tersebut dalam penghitungan IHSG. Perubahan bobot ini penting bagi reksa dana indeks atau ETF yang mengikuti komposisi IHSG, sebab porsi dana yang dialokasikan ke saham-saham dalam daftar ini bisa bergeser begitu bobotnya disesuaikan. Yang perlu dipantau selanjutnya adalah pemberlakuan penyesuaian konstituen IHSG pada hari bursa kedua setelah 11 November 2026, saat perubahan bobot ini benar-benar diterapkan di pasar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inps-batalkan-rupslb-pmthmetd-tertunda-imbas-ojk",
+  "category": "Aksi Korporasi",
+  "title": "INPS Batalkan RUPSLB, [PMTHMETD] Tertunda Imbas OJK",
+  "deck": "RUPSLB INPS yang semula digelar 6 November 2026 dibatalkan karena OJK masih memproses revisi keterbukaan informasi rencana penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T18:38:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d901e668bd_a7949c5935.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "RUPSLB",
+   "PMTHMETD",
+   "OJK"
+  ],
+  "body": [
+   "PT Indah Prakasa Sentosa Tbk (INPS) membatalkan seluruh agenda Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula dijadwalkan Jumat, 6 November 2026, pukul 14.00 WIB di Gedung Inprase, Sunter Agung, Tanjung Priok, Jakarta Utara. Perseroan menyebut pembatalan ini dilakukan karena masih dalam proses memenuhi permintaan Otoritas Jasa Keuangan (OJK) untuk menyempurnakan dokumen Keterbukaan Informasi atas rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) beserta dokumen pendukungnya.",
+   "RUPSLB ini sedianya membahas dua agenda, yaitu persetujuan rencana PMTHMETD dan persetujuan perubahan Pasal 4 Anggaran Dasar perseroan. Karena agenda perubahan anggaran dasar merupakan tindak lanjut dari agenda PMTHMETD, perseroan memutuskan membatalkan RUPSLB secara keseluruhan, bukan hanya salah satu agenda saja. Perseroan menegaskan tetap melanjutkan rencana PMTHMETD tersebut dengan tujuan memperbaiki posisi keuangannya.",
+   "Tanggal penyelenggaraan RUPSLB yang baru, termasuk tanggal pencatatan pemegang saham (recording date) baru, akan ditetapkan dan diumumkan kembali setelah OJK menyatakan tidak ada lagi tanggapan atas revisi Keterbukaan Informasi tersebut, sesuai Peraturan OJK Nomor 15/POJK.04/2020. Recording date RUPSLB yang dibatalkan ini sebelumnya ditetapkan 9 Oktober 2026. Dengan pembatalan ini, seluruh kuasa yang telah diberikan pemegang saham, baik melalui sistem elektronik eASY.KSEI maupun surat kuasa, untuk RUPSLB tanggal 6 November 2026 dinyatakan tidak berlaku lagi. Pengumuman pembatalan ditandatangani Direktur Utama INPS, Muhammad Reagy Sukmana, dan telah disampaikan ke publik melalui eASY.KSEI serta situs web perseroan pada 6 November 2026."
+  ],
+  "fotoAdegan": "Empty corporate meeting room with rows of vacant chairs around a long table, soft afternoon light through tall windows in a Jakarta office tower",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham INPS, karena RUPSLB yang seharusnya mengesahkan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) kembali molor akibat OJK belum puas dengan kelengkapan keterbukaan informasinya. Yang tersentuh adalah pos ekuitas dan jumlah saham beredar, sebab begitu PMTHMETD ini nanti disetujui dan dieksekusi, perseroan akan menerbitkan saham baru tanpa menawarkannya dulu ke pemegang saham lama, sehingga persentase kepemilikan investor publik mengecil dan laba yang sama harus dibagi ke lebih banyak lembar saham. Molornya proses ini juga berarti dana segar yang disebut perseroan sendiri untuk memperbaiki posisi keuangannya tertunda masuk, sinyal bahwa kondisi arus kas perusahaan memang masih membutuhkan suntikan itu. Yang perlu dipantau selanjutnya adalah kapan OJK menyatakan tidak ada lagi tanggapan atas revisi dokumen keterbukaan informasi itu, sebab baru setelah itu perseroan bisa menjadwalkan ulang RUPSLB beserta recording date barunya sesuai Peraturan OJK Nomor 15/POJK.04/2020.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "boga-rempah-perikanan-ri-catat-potensi-rp450-miliar-di-shanghai",
   "category": "Bisnis",
   "title": "Boga, Rempah, Perikanan RI Catat Potensi [Rp450 Miliar] di Shanghai",
@@ -29,6 +133,192 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah dari pameran ini adalah catatan potensi transaksi Rp450 miliar, tapi itu angka penjajakan dari pertemuan bisnis, bukan kontrak yang sudah pasti terjadi. Dari semua pertemuan itu, baru satu kesepakatan konkret yang disebut jelas, yaitu nota kesepahaman UMKM camilan kelor La Moringa dengan mitra Tiongkoknya, sementara nilai dan pihak kesepakatan lain tidak dirinci. Yang terdampak langsung adalah eksportir boga, rempah, dan perikanan skala UMKM maupun perusahaan besar yang ikut pameran, karena merekalah yang harus menindaklanjuti penjajakan ini menjadi pesanan nyata. Pola umum pameran dagang semacam ini adalah angka potensi besar diumumkan di awal, sementara realisasinya jarang dilaporkan terbuka belakangan, sehingga yang akan menunjukkan apakah Rp450 miliar ini benar terwujud adalah data ekspor Kemendag ke Tiongkok untuk komoditas pangan dan perikanan pada periode berikutnya.",
   "imageV": "mwc0gw6x"
+ },
+ {
+  "slug": "adhi-koreksi-laporan-keuangan-catat-rugi-rp19-18-miliar-di-h1-2026",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Koreksi Laporan Keuangan, Catat [Rugi] Rp19,18 Miliar di H1 2026",
+  "deck": "Laporan keuangan interim koreksi ADHI untuk semester I 2026 menunjukkan rugi bersih Rp19,18 miliar, berbalik dari laba Rp7,54 miliar tahun sebelumnya, meski pendapatan usaha turun 18,4 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T17:48:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261111180017-65760-0/FinancialStatement-2026-II-ADHI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "laporan keuangan",
+   "BUMN karya",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) menyampaikan koreksi atas laporan keuangan konsolidasian interim untuk periode enam bulan yang berakhir pada 30 Juni 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia melalui surat bernomor SD-016/COR/XI/2026-1. Laporan yang telah ditelaah secara terbatas oleh Kantor Akuntan Publik Djoko, Sidik dan Indra dengan partner penandatangan Yansyafrin ini mencatat pendapatan usaha Rp3,11 triliun pada semester I 2026, turun 18,4 persen dari Rp3,81 triliun pada periode yang sama tahun 2025. Meski pendapatan menyusut, perseroan justru membukukan rugi bersih yang dapat diatribusikan kepada pemilik entitas induk sebesar Rp19,18 miliar, berbalik dari laba Rp7,54 miliar pada semester I 2025. Rugi per saham dasar tercatat Rp2,28, dibandingkan laba per saham Rp0,90 setahun sebelumnya.",
+   "Penyebab utama berbaliknya laba menjadi rugi bukan datang dari kinerja operasional. Laba usaha ADHI justru naik menjadi Rp316,17 miliar dari Rp188,85 miliar, dan laba bruto naik menjadi Rp700,42 miliar dari Rp572,87 miliar, menandakan efisiensi biaya proyek yang lebih baik. Yang menekan laba bersih adalah bagian rugi dari entitas asosiasi yang melebar menjadi Rp51,60 miliar dari sebelumnya Rp3,36 miliar, serta pos pendapatan dan beban lain-lain yang berbalik dari pendapatan bersih Rp75,24 miliar menjadi beban bersih Rp35,83 miliar. Beban keuangan atau bunga pinjaman juga naik tipis menjadi Rp349,17 miliar dari Rp339,81 miliar. Akumulasi faktor ini membuat laba sebelum pajak berbalik menjadi rugi Rp7,12 miliar dari sebelumnya laba Rp24,80 miliar.",
+   "Di sisi posisi keuangan, kas dan setara kas ADHI turun lebih dari separuh, dari Rp1,71 triliun pada akhir Desember 2025 menjadi Rp813,10 miliar pada akhir Juni 2026. Jumlah aset turun dari Rp28,79 triliun menjadi Rp27,50 triliun, seiring jumlah liabilitas yang juga turun dari Rp25,50 triliun menjadi Rp24,21 triliun. Perseroan terlihat memindahkan sebagian utang bank jangka pendek ke jangka panjang: utang bank jangka pendek turun dari Rp3,01 triliun menjadi Rp1,97 triliun, sementara utang bank jangka panjang naik dari Rp1,38 triliun menjadi Rp2,51 triliun. Jumlah ekuitas relatif stabil di Rp3,29 triliun, hanya turun tipis dari Rp3,30 triliun pada akhir 2025."
+  ],
+  "fotoAdegan": "Construction workers and cranes at a large infrastructure building site, concrete pillars and rebar frameworks, overcast afternoon light",
+  "takeaway": "Laporan ini negatif bagi ADHI karena perseroan berbalik dari laba ke rugi bersih Rp19,18 miliar dan kasnya menyusut lebih dari separuh menjadi Rp813 miliar dalam enam bulan, meski laba operasional sebenarnya membaik. Pos yang paling tersentuh adalah laba per saham, yaitu bagian rugi perusahaan yang dibagi rata ke setiap saham beredar, yang berbalik dari untung jadi rugi Rp2,28 per saham, dan posisi kas perusahaan yang menyusut tajam padahal kas inilah yang dipakai membayar utang jatuh tempo dan membiayai proyek berjalan tanpa harus menambah utang baru. Yang perlu dipantau berikutnya adalah apakah rugi dari entitas asosiasi dan pos pendapatan lain-lain ini bersifat sekali saja atau akan berulang di laporan kuartal III 2026, serta apakah pergeseran utang bank dari jangka pendek ke jangka panjang benar-benar meringankan tekanan kas ADHI pada semester berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ltls-siapkan-dana-lunasi-obligasi-rp135-miliar",
+  "category": "Aksi Korporasi",
+  "title": "LTLS Siapkan Dana Lunasi [Obligasi] Rp135 Miliar",
+  "deck": "Obligasi Seri B senilai Rp135 miliar jatuh tempo 12 November 2026 dan delisting dari BEI; LTLS menyatakan telah menyiapkan dana penuh untuk pelunasan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T17:32:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/81f86e8265_637531c79f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LTLS",
+  "tags": [
+   "LTLS",
+   "obligasi korporasi",
+   "jatuh tempo obligasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Lautan Luas Tbk (LTLS) mengumumkan jatuh temponya Obligasi Berkelanjutan III Lautan Luas Tahap II Tahun 2021 Seri B dengan nilai pokok Rp135 miliar. Bursa Efek Indonesia menyatakan bahwa mulai 12 November 2026, obligasi ini tidak lagi tercatat dan tidak bisa diperdagangkan di bursa.",
+   "Obligasi Seri B ini diterbitkan pada 12 November 2021 dengan bunga 9,75 persen per tahun dan jangka waktu lima tahun, sehingga jatuh tempo pada 12 November 2026. Pelunasan dilakukan sekaligus secara penuh atau bullet payment, bukan bertahap. Dalam surat bernomor 135/LTL-LCS/X/2026 tertanggal 8 Oktober 2026, LTLS menyatakan kepada bursa bahwa perusahaan telah menyiapkan dana yang cukup untuk melunasi seluruh pokok obligasi tersebut, sesuai aturan bursa yang mewajibkan pernyataan kesiapan dana disampaikan paling lambat 15 hari bursa sebelum tanggal jatuh tempo.",
+   "Obligasi Seri B ini merupakan bagian dari Obligasi Berkelanjutan III Lautan Luas Tahap II Tahun 2021, yang diterbitkan bersama Seri A senilai Rp315 miliar dengan bunga 9 persen per tahun dan tenor tiga tahun. Seri A sudah jatuh tempo lebih dulu pada 12 November 2024. Obligasi ini mendapat peringkat idA- dari Pefindo, dengan PT Bank Mega Tbk sebagai wali amanat, serta PT BCA Sekuritas dan PT Sucor Sekuritas sebagai penjamin pelaksana emisi."
+  ],
+  "fotoAdegan": "Workers checking rows of chemical storage drums in a warehouse, a forklift moving pallets under industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi LTLS, karena perusahaan memastikan sudah menyiapkan dana penuh Rp135 miliar untuk melunasi obligasinya tepat waktu, tanpa tanda-tanda kesulitan dana atau rencana menerbitkan utang baru untuk menutup utang lama. Pelunasan ini akan menghapus beban bunga 9,75 persen per tahun dari obligasi Seri B ke depan, sementara arus kas perusahaan akan berkurang sekaligus sebesar Rp135 miliar pada tanggal pembayaran. Di sisi lain, total utang dan rasio utang terhadap modal LTLS akan turun begitu obligasi ini lunas, yang biasanya dibaca pelaku pasar sebagai perbaikan profil keuangan. Yang perlu dipantau selanjutnya adalah konfirmasi pelunasan aktual pada 12 November 2026, sehari setelah laporan ini terbit, serta apakah LTLS akan menerbitkan obligasi tahap lanjutan dari program Obligasi Berkelanjutan III yang targetnya masih jauh dari Rp1 triliun.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "rlco-panggil-rupslb-agendakan-pergantian-direksi",
+  "category": "Aksi Korporasi",
+  "title": "RLCO Panggil RUPSLB, Agendakan [Pergantian] Direksi",
+  "deck": "RLCO mengundang pemegang saham ke RUPSLB 3 Desember 2026 untuk membahas perubahan Anggaran Dasar dan pergantian susunan Direksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T17:29:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1099b0a170_6966b3c744.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Abadi Lestari Indonesia Tbk (RLCO) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 3 Desember 2026, pukul 10.00 WIB, di Palmerah, Jakarta Barat. Rapat digelar secara elektronik melalui sistem eASY.KSEI, dengan pimpinan rapat, direksi dan/atau komisaris, serta notaris hadir fisik di lokasi. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per penutupan perdagangan Selasa, 10 November 2026.",
+   "Agenda pertama adalah persetujuan perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha perseroan, untuk menyesuaikan kode Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) dari versi 2020 ke versi 2025. Perubahan ini mengacu pada Undang-Undang Perseroan Terbatas dan Anggaran Dasar perseroan, serta tetap memerlukan persetujuan Menteri Hukum dan Hak Asasi Manusia. Sesuai Peraturan OJK Nomor 15/POJK.04/2020, agenda ini sah jika dihadiri minimal dua pertiga pemegang saham dengan hak suara, dan disetujui oleh lebih dari dua pertiga suara yang hadir.",
+   "Agenda kedua adalah perubahan susunan anggota Direksi perseroan, yang diajukan sesuai Undang-Undang Perseroan Terbatas dan Peraturan OJK Nomor 33/POJK.04/2014, dengan mempertimbangkan rekomendasi Komite Nominasi dan Remunerasi. Daftar riwayat hidup calon anggota Direksi disediakan di situs resmi perseroan sejak tanggal pemanggilan ini hingga hari rapat, namun nama dan posisi yang berubah belum disebutkan dalam dokumen pemanggilan. Agenda ini sah jika dihadiri lebih dari separuh pemegang saham dengan hak suara, dan disetujui oleh lebih dari separuh suara yang hadir dalam rapat.",
+   "Bagi pemegang saham yang tidak dapat hadir langsung, pemberian kuasa dapat dilakukan secara elektronik melalui eASY.KSEI atau surat kuasa fisik yang disediakan di situs perseroan, dengan batas waktu deklarasi kehadiran, kuasa elektronik, dan pemungutan suara paling lambat pukul 12.00 WIB pada Rabu, 2 Desember 2026. Bahan rapat, termasuk rancangan perubahan Anggaran Dasar dan riwayat hidup calon Direksi, dapat diakses melalui situs https://realco-ali.com/investor/ dan eASY.KSEI, dengan salinan fisik tersedia cuma-cuma atas permintaan tertulis."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a modern corporate meeting hall, soft morning light through large windows",
+  "takeaway": "Kami nilai laporan ini netral bagi RLCO. Perubahan Pasal 3 Anggaran Dasar hanya menyesuaikan kode klasifikasi usaha dari KBLI 2020 ke KBLI 2025, kewajiban administratif akibat perubahan aturan pemerintah, bukan perubahan lini bisnis perseroan. Rencana pergantian susunan Direksi pun belum menyebut nama atau posisi yang berubah dalam pemanggilan ini, sehingga dampaknya terhadap arah perusahaan belum bisa dinilai sampai nama kandidat diumumkan di situs resmi. Yang tersentuh di sini adalah tata kelola perusahaan, khususnya syarat kuorum, yakni jumlah minimal pemegang saham yang harus hadir agar keputusan rapat sah: agenda Anggaran Dasar butuh kehadiran dua pertiga pemegang saham, sementara agenda Direksi hanya butuh lebih dari separuh. Pembaca perlu memantau pengumuman nama calon anggota Direksi di situs perusahaan sebelum RUPSLB berlangsung pada 3 Desember 2026, serta tenggat pemberian kuasa elektronik pada 2 Desember 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "public-expose-city-laba-naik-49-6-okupansi-disorot-media",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose CITY: laba naik 49,6%, [okupansi] disorot media",
+  "deck": "Dalam public expose tahunan, CITY melaporkan laba bersih naik 49,6% dan ekuitas naik 2,02%, sementara dari 1.780 unit terjual baru 800 unit berpenghuni.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T17:25:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bbb15fe1f7_5cbc6b6676.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CITY",
+  "tags": [
+   "CITY",
+   "public expose",
+   "properti",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Natura City Developments Tbk (CITY) melaporkan hasil penyelenggaraan public expose tahunan 2026 kepada Bursa Efek Indonesia. Acara digelar Senin, 9 November 2026, pukul 14.00 hingga 15.30 WIB di Hotel Nawana, Sentul City, Kabupaten Bogor, dan diikuti oleh 45 peserta di luar jajaran manajemen dan karyawan Perseroan. Manajemen yang hadir mewakili Perseroan adalah Komisaris Yuli Dwi Kusmadi, Komisaris Independen Bambang Sumanto, Direktur Utama Elfi Darlis, Direktur Jose Francis Berces Acantilado, dan Direktur sekaligus Corporate Secretary Rio Tinto Sirait. Agenda mencakup paparan profil perusahaan, perkembangan proyek Serpong Natura City, kinerja keuangan, dan sesi tanya jawab.",
+   "Dalam resumenya, Perseroan menyebut sepanjang 2026 tidak ada aksi korporasi maupun perubahan komposisi saham, sehingga jumlah saham tercatat tetap 5.405.188.966 lembar. Dari sisi keuangan, pendapatan Perseroan pada kuartal III 2026 tercatat Rp125,26 miliar, naik 19,57% dari posisi akhir 2025 sebesar Rp104,76 miliar, sementara laba bersih naik 49,6% dari Rp11,92 miliar menjadi Rp17,84 miliar. Total aset naik 1,90% menjadi Rp1.142,35 miliar dan ekuitas naik 2,02% menjadi Rp902,78 miliar. Di sisi lain, total liabilitas juga naik 1,46% menjadi Rp239,56 miliar, dengan kenaikan terutama berasal dari liabilitas jangka pendek.",
+   "Perseroan menyebut belanja modal tahun ini sudah melebihi Rp100 miliar hingga kuartal III, digunakan antara lain untuk melanjutkan pembangunan Cluster Botanica serta perluasan area komersial Natura Square dengan tenant baru seperti Resto Alam Kapau, Es Teler 77, Teh Tarik Aceh, dan Resto KFC yang ditargetkan beroperasi Desember 2026. Jumlah unit yang dibangun per September 2026 tercatat 331 unit, naik dari 192 unit sepanjang 2025, sementara jumlah unit berpenghuni naik dari 818 unit per Desember 2025 menjadi 949 unit per September 2026. Perseroan menegaskan belum berencana mengembangkan proyek properti baru di luar kawasan Serpong Natura City, Gunung Sindur, Kabupaten Bogor.",
+   "Dalam sesi tanya jawab, media mempertanyakan kesenjangan antara unit yang sudah terjual sebanyak 1.780 unit dengan unit yang baru berpenghuni sebanyak 800 unit. Manajemen menjelaskan bahwa sebagian unit yang terjual dihuni secara harian atau akhir pekan, dan ada pula unit yang dibeli investor untuk dijual kembali, sehingga tidak semua unit terjual langsung ditempati sebagai hunian tetap. Perseroan juga menambah layanan shuttle menuju stasiun kereta terdekat untuk mendukung penghuni yang bekerja di Jakarta."
+  ],
+  "fotoAdegan": "Wide shot of newly built suburban houses in a landscaped housing estate, workers finishing roofs, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi CITY karena laba bersih melonjak 49,6% dan pendapatan naik hampir 20% dalam sembilan bulan, didukung ekuitas yang juga bertambah tanpa penerbitan saham baru atau penambahan utang besar. Pos yang tersentuh adalah ekuitas, yaitu modal bersih milik pemegang saham setelah dikurangi utang, yang naik 2,02% menjadi Rp902,78 miliar, sementara total utang Perseroan hanya naik tipis 1,46% sehingga porsi utang terhadap modal relatif terjaga. Pelaku pasar biasanya mencermati ekuitas dan laba bersih seperti ini karena menunjukkan apakah pertumbuhan penjualan benar-benar berubah menjadi kekayaan bersih bagi pemegang saham, bukan sekadar catatan di atas kertas. Yang perlu dipantau berikutnya adalah kesenjangan antara 1.780 unit yang sudah terjual dengan baru 800 unit yang berpenghuni, serta apakah tenant baru Natura Square yang ditargetkan beroperasi Desember 2026 benar-benar terealisasi sesuai rencana.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "menn-ubah-haluan-jadi-holding-teknologi-capex-rp19-76-m",
+  "category": "Aksi Korporasi",
+  "title": "MENN Ubah Haluan Jadi [Holding] Teknologi, Capex Rp19,76 M",
+  "deck": "PT Menn Teknologi Indonesia Tbk memaparkan rencana berubah jadi perusahaan induk investasi teknologi dengan tiga anak usaha baru, saat sahamnya masih disuspensi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T17:10:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/932293aa16_3da4492d7d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MENN",
+  "tags": [
+   "MENN",
+   "Public Expose",
+   "Technology Investment Holding",
+   "Suspensi Saham"
+  ],
+  "body": [
+   "PT Menn Teknologi Indonesia Tbk (MENN) menggelar public expose tahunan secara daring pada Selasa, 10 November 2026 pukul 15.00. Acara dihadiri 15 peserta dari luar manajemen, terdiri dari satu analis dan 14 investor, dengan Direktur Utama Cahyadi dan Direktur Rena Hikmawan hadir mewakili Perseroan. Agenda yang dibahas adalah kinerja keuangan dan kondisi bisnis terkini, serta rencana bisnis ke depan.",
+   "Dalam sesi tanya jawab, manajemen menjelaskan bahwa Perseroan mengubah haluan dari penyedia sistem IT, CCTV, GPS tracking, monitoring armada, server dan storage, menjadi perusahaan induk investasi teknologi. Di bawah model baru ini, MENN membangun portofolio tiga anak usaha: PT TPDI untuk infrastruktur pembayaran digital dan payment gateway, PT TMPI untuk ekosistem token, ekonomi digital dan program loyalitas, serta PT SPKD untuk solusi digitalisasi kesehatan, sistem informasi rumah sakit dan Hospital ERP. Bisnis lama di bidang CCTV, GPS dan layanan digital tetap dipertahankan sebagai sumber pendapatan dasar Perseroan.",
+   "Manajemen juga membuka angka belanja modal. Realisasi capex Perseroan hingga semester satu 2026 tercatat Rp19,76 miliar, dengan Rp19,37 miliar untuk pengembangan perangkat lunak guna menyatukan sistem ekosistem anak usaha baru, dan Rp395 juta untuk aset tetap berupa inventaris kantor yang mendukung operasional transisi menjadi holding.",
+   "Soal status suspensi saham, manajemen menyebut fokus 2025 adalah menuntaskan transisi pasca perubahan pengendali dan menyelesaikan laporan keuangan auditan 2025, yang menjadi syarat utama pengajuan pencabutan suspensi. Untuk 2026, Perseroan menjalankan empat strategi: restrukturisasi korporasi melalui RUPS untuk menyetujui perubahan arah bisnis dan susunan pengurus, transformasi menjadi technology investment holding, perbaikan efisiensi lewat Shared Services Center, serta penerapan tata kelola yang disiplin agar status suspensi bisa ditinjau kembali untuk dicabut."
+  ],
+  "fotoAdegan": "Technicians checking server racks and tangled network cables inside a dim data center room, Jakarta office building, early evening",
+  "takeaway": "Laporan ini condong negatif bagi MENN, karena Perseroan tetap mengalirkan dana Rp19,76 miliar ke tiga bisnis baru yang belum menghasilkan pendapatan, persis saat penjualannya anjlok sekitar 91 persen dan perusahaan merugi Rp17,15 miliar tahun lalu, sementara sahamnya masih tertahan oleh bursa. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang keluar dan masuk perusahaan, karena dana sebesar itu dipakai membangun sistem untuk anak usaha yang sama sekali baru, bukan menyuntik modal kerja ke bisnis yang sudah menghasilkan uang. Pelaku pasar mencermati pola arus kas seperti ini karena menunjukkan seberapa kuat kas perusahaan bertahan sebelum bisnis baru itu benar-benar berbuah hasil. Yang perlu dipantau berikutnya adalah penyelesaian laporan keuangan auditan 2025 sebagai syarat pengajuan pencabutan suspensi, serta RUPS yang akan memutuskan perubahan arah strategi dan susunan direksi Perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "futr-koreksi-laporan-realisasi-dana-ipo-rp10-5-m-mengendap",
+  "category": "Aksi Korporasi",
+  "title": "FUTR Koreksi Laporan Realisasi Dana IPO Rp10,5 M [Mengendap]",
+  "deck": "Futura Energi Global (FUTR) mengoreksi laporan realisasi dana IPO dan waran, dengan total Rp39,4 miliar dana belum terserap per 30 Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T17:02:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0b65846e79_6b509cd627.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FUTR",
+  "tags": [
+   "FUTR",
+   "penggunaan dana IPO",
+   "waran",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Futura Energi Global Tbk (FUTR) menyampaikan koreksi atas Laporan Penggunaan Dana Hasil Penawaran Umum yang sebelumnya dilaporkan pada 15 Juli 2026. Surat koreksi bernomor 100/FUTR-OJK/LRPD/XI/2026 ini ditandatangani Direktur Utama Anggara Suryawan pada 11 November 2026, untuk periode yang berakhir 30 Juni 2026.",
+   "Dari penawaran umum saham perdana yang efektif 17 Februari 2023, FUTR mengantongi dana Rp127,8 miliar, dengan biaya emisi Rp2,19 miliar sehingga dana bersih yang diterima Rp125,61 miliar. Sesuai rencana di prospektus, dana itu dialokasikan Rp10,56 miliar untuk belanja modal atau 8,41 persen, dan Rp115,05 miliar untuk modal kerja perusahaan atau 91,59 persen. Realisasinya berbeda dari rencana, belanja modal terpakai sesuai jumlah yang direncanakan, tetapi modal kerja yang benar-benar terserap hanya Rp104,55 miliar atau 83,24 persen. Sisa Rp10,5 miliar dari dana IPO ini masih mengendap di rekening giro berbunga 1,25 persen per bulan dengan skema rollover pokok dan bunga, disimpan di pihak ketiga.",
+   "Selain dana IPO, perseroan juga melaporkan dana dari konversi Waran Seri I berkode FUTR-W yang diterbitkan 28 Agustus 2023 sejumlah 1.022.400.000 lembar dengan harga pelaksanaan Rp135 per saham. Hingga 30 Juni 2026, sebanyak 776.848.041 waran masih belum dikonversi, sementara konversi yang sudah terjadi menghasilkan dana Rp33,15 miliar. Dari jumlah itu, baru Rp4,21 miliar yang direalisasikan untuk modal kerja perusahaan, sehingga masih tersisa Rp28,94 miliar yang belum digunakan.",
+   "Rincian biaya penawaran umum sebesar Rp2,19 miliar itu terdiri dari biaya penjaminan emisi Rp589,4 juta, biaya jasa penyelenggaraan dan biaya jasa penjualan masing-masing Rp308,18 juta, biaya jasa profesi penunjang pasar modal Rp688,27 juta, biaya jasa lembaga penunjang pasar modal Rp214,44 juta, serta biaya lain-lain yang bisa diatribusikan langsung sebagai biaya emisi senilai Rp80,9 juta."
+  ],
+  "fotoAdegan": "Technicians inspecting cables near a small rural power substation under an overcast sky, hard hats and work vests visible",
+  "takeaway": "Laporan ini netral bagi FUTR, karena sifatnya administratif sebagai koreksi atas laporan wajib, bukan transaksi atau aksi korporasi baru yang langsung mengubah fundamental perusahaan. Pos yang tersentuh adalah arus kas dan modal kerja, yakni dana tunai yang semestinya sudah dipakai untuk kegiatan operasional sehari-hari seperti membeli bahan baku atau membayar biaya produksi, dan di sini realisasinya masih di bawah rencana, dengan total Rp10,5 miliar dari dana IPO dan Rp28,94 miliar dari konversi waran yang masih mengendap di rekening berbunga rendah alih-alih dipakai menggerakkan bisnis. Yang perlu dipantau adalah seberapa cepat FUTR menyerap sisa dana itu pada laporan periode berikutnya, serta RUPSLB yang sudah dijadwalkan 14 Desember 2026 meski agendanya belum diumumkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "keen-teken-ppa-plta-140-mw-senilai-us-1-2-miliar-dengan-pln",
+  "category": "Aksi Korporasi",
+  "title": "KEEN Teken [PPA] PLTA 140 MW Senilai US$1,2 Miliar dengan PLN",
+  "deck": "KEEN melalui dua anak usahanya meneken perjanjian jual beli listrik dengan PLN untuk PLTA Salu Uro 95 MW dan PLTA Pakkat 2 45 MW, dengan total nilai kontrak sekitar US$1,2 miliar selama 30 tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T16:57:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/93f810f0b4_7156c51994.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KEEN",
+  "tags": [
+   "KEEN",
+   "PLTA",
+   "PLN",
+   "pembangkit listrik"
+  ],
+  "body": [
+   "PT Kencana Energi Lestari Tbk (KEEN) menandatangani dua Perjanjian Jual Beli Tenaga Listrik dengan PT Perusahaan Listrik Negara (Persero). Kontrak pertama diteken melalui anak usaha PT Tirta Energi Cemerlang untuk pengembangan PLTA Salu Uro berkapasitas 95 MW di Desa Beroppa dan Desa Malimongan, Kecamatan Seko, Kabupaten Luwu Utara, Sulawesi Selatan. Kontrak kedua diteken melalui anak usaha PT Bangun Energi Sentosa untuk PLTA Pakkat 2 berkapasitas 45 MW di Desa Sijungkang, Kecamatan Andam Dewi, Kabupaten Tapanuli Tengah, Sumatera Utara. Laporan ditandatangani Direktur Utama KEEN, Wilson Maknawi, dengan tanggal kejadian 11 November 2026.",
+   "Nilai kontrak PLTA Salu Uro tercatat sekitar US$819 juta, sementara PLTA Pakkat 2 sekitar US$384 juta, sehingga total nilai kedua kontrak sekitar US$1,2 miliar. Masing-masing perjanjian berlaku selama 30 tahun, dihitung sejak pembangkit listrik tersebut mulai beroperasi secara komersial. Perseroan menyatakan tidak ada hubungan afiliasi antara KEEN dan PLN dalam transaksi ini.",
+   "Perseroan menargetkan PLTA Pakkat 2 mulai beroperasi komersial pada kuartal IV 2030, sedangkan PLTA Salu Uro pada kuartal IV 2031. KEEN menyebut kedua kontrak ini akan menambah pendapatan dari jasa konstruksi selama masa pembangunan dan dari penjualan listrik setelah pembangkit beroperasi, sekaligus memperluas portofolio proyek perseroan. Dalam laporannya, perseroan menyatakan tidak ada dampak hukum dari penandatanganan kedua kontrak tersebut."
+  ],
+  "fotoAdegan": "Wide shot of a hydroelectric dam spillway releasing water through a forested river valley in Indonesia, misty morning light",
+  "takeaway": "Laporan ini condong positif bagi KEEN karena dua kontrak jual beli listrik dengan PLN ini menambah portofolio proyek perseroan dengan nilai gabungan sekitar US$1,2 miliar dan masa kontrak 30 tahun, jauh melampaui skala proyek yang sudah berjalan selama ini. Yang perlu dicermati investor adalah dampaknya pada arus kas dan utang perseroan ke depan, sebab membangun dua pembangkit listrik tenaga air dengan kapasitas gabungan 140 MW butuh dana besar yang biasanya ditutup lewat pinjaman sebelum pendapatan dari penjualan listriknya benar-benar mengalir. Pendapatan baru dari kontrak ini juga belum masuk ke laporan keuangan perseroan saat ini, karena uangnya baru benar-benar diterima setelah pembangkit beroperasi komersial. Yang perlu dipantau selanjutnya adalah progres pendanaan dan konstruksi kedua proyek, dengan target PLTA Pakkat 2 beroperasi komersial pada kuartal IV 2030 dan PLTA Salu Uro pada kuartal IV 2031.",
+  "sentimen": "positif"
  },
  {
   "slug": "pemerintah-perluas-insentif-pajak-karyawan-ke-semua-sektor-2027",

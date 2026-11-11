@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-11T21:24:25.148+07:00",
+ "diperbarui": "2026-11-12T04:36:18.509+07:00",
  "entri": [
+  {
+   "id": "2026-11-11-3",
+   "edisi": "2026-11-11",
+   "benang": "Pameran Dagang: Potensi Besar, Kontrak Tipis",
+   "klaim": "Klaim potensi besar dari ajang-ajang dagang seperti Trade Expo Indonesia, CIIE Shanghai, dan Hajj Conference Jeddah cenderung menjadi angka pipeline jangka panjang, bukan penambah langsung angka ekspor bulanan.",
+   "penanda": "Data realisasi kontrak dari Kementerian Perdagangan dalam beberapa bulan mendatang, khususnya untuk MoU Shanghai dan Jeddah",
+   "tenggat": "2027-02-11",
+   "tenggatLabel": "dalam beberapa bulan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-11-2",
+   "edisi": "2026-11-11",
+   "benang": "Arus Kas Jadi Garis Pemisah di Bursa",
+   "klaim": "Celah antara emiten dengan arus kas kuat dan arus kas lemah di bursa makin melebar.",
+   "penanda": "Apakah PTPP akhirnya membayar bunga ke-18 setelah dua kali permintaan keringanannya ditolak",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-11-1",
+   "edisi": "2026-11-11",
+   "benang": "Kredit Murah Mengalir ke Lapisan Bawah",
+   "klaim": "Biaya dana akan terus makin murah baik bagi bank maupun bagi peminjam mikro, sejalan dengan kenaikan plafon KUR, naiknya porsi dana murah BRI, dan bunga rendah PNM untuk nasabah Mekaar.",
+   "penanda": "Realisasi penyaluran KUR sampai akhir tahun dibandingkan dengan plafon baru Rp325 triliun",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "sampai akhir tahun",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "arah-danantara-2026-12-11",
    "edisi": null,
@@ -355,8 +388,13 @@ var RAPOR = {
    "penanda": "Hasil RUPS pemegang sukuk PTPP",
    "tenggat": "2026-11-10",
    "tenggatLabel": "hasil RUPS pemegang sukuk PTPP pada 10 November mendatang",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "ptpp-pemegang-sukuk-tolak-usulan-penundaan-bagi-hasil",
+    "judul": "PTPP: Pemegang Sukuk Tolak Usulan Penundaan Bagi Hasil",
+    "tanggal": "11 November 2026",
+    "alasan": "Artikel ini menunjukkan PTPP sudah terlambat membayar bagi hasil sukuk ke-18 dan pemegang sukuk menolak usulan penundaan, yang merupakan insiden gagal bayar konkret, bukan sekadar pembiayaan utang biasa."
+   }
   },
   {
    "id": "2026-10-27-2",
@@ -777,8 +815,13 @@ var RAPOR = {
    "penanda": "Hasil rapat umum pemegang sukuk (RUPSU) PTPP untuk dua seri sukuk",
    "tenggat": "2026-11-11",
    "tenggatLabel": "RUPSU PTPP pada 11 November",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "ptpp-pemegang-sukuk-tolak-usulan-penundaan-bagi-hasil",
+    "judul": "PTPP: Pemegang Sukuk Tolak Usulan Penundaan Bagi Hasil",
+    "tanggal": "11 November 2026",
+    "alasan": "RUPSu PTPP menolak permintaan penundaan bagi hasil sukuk padahal bagi hasil ke-18 sudah terlambat dibayar, menunjukkan tekanan utang masih memberat tanpa pembalikan."
+   }
   },
   {
    "id": "2026-10-14-1",
@@ -821,8 +864,13 @@ var RAPOR = {
    "penanda": "Hasil RUPSU WIKA 28 Oktober dan RUPSU PTPP 10 November soal persetujuan pemegang sukuk, serta apakah suspensi PTPP bisa dicabut",
    "tenggat": "2026-11-10",
    "tenggatLabel": "RUPSU WIKA 28 Oktober dan PTPP 10 November",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "ptpp-pemegang-sukuk-tolak-usulan-penundaan-bagi-hasil",
+    "judul": "PTPP: Pemegang Sukuk Tolak Usulan Penundaan Bagi Hasil",
+    "tanggal": "11 November 2026",
+    "alasan": "RUPSu PTPP 10 November menunjukkan pemegang sukuk menolak mentah-mentah usulan penundaan bagi hasil setelah PTPP terlambat bayar bagi hasil ke-18, membuktikan tekanan kas memang berlanjut di PTPP seperti diklaim, meski arsip tidak memuat hasil RUPSU WIKA 28 Oktober untuk memastikan arah yang sama di WIKA."
+   }
   },
   {
    "id": "2026-10-12-3",

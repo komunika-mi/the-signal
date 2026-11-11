@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sanksi-pajak-bisa-dihapus-100-persen-lewat-pmk-71-sampai-2028",
+  "category": "Makroekonomi",
+  "title": "Sanksi Pajak Bisa [Dihapus] 100 Persen Lewat PMK-71 Sampai 2028",
+  "deck": "Kanwil DJP Jawa Barat II mensosialisasikan PMK-71 di Cirebon: sanksi pajak bisa dihapus hingga 100 persen bagi Wajib Pajak yang melunasi utang pokoknya, berlaku sampai 1 Oktober 2028.",
+  "date": "11 November 2026",
+  "image": "assets/img/sanksi-pajak-bisa-dihapus-100-persen-lewat-pmk-71-sampai-2028.jpg",
+  "imageV": "mwc6ak7z",
+  "tags": [
+   "pajak",
+   "DJP",
+   "PMK-71",
+   "Cirebon"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/sosialisasi-pmk-71-di-cirebon-kanwil-djp-jawa-barat-ii-ajak-wajib-pajak-wilayah",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "batam-tumbuh-7-28-persen-pemerintah-awasi-impor-ilegal",
+  "category": "Makroekonomi",
+  "title": "Batam Tumbuh 7,28 Persen, Pemerintah Awasi [Impor Ilegal]",
+  "deck": "Ekonomi dan investasi Batam melesat, tapi pemerintah pusat menyoroti praktik underinvoicing dan impor barang bekas ilegal yang dinilai bisa mengganggu iklim usaha di kawasan ini.",
+  "date": "11 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "Batam",
+   "Investasi",
+   "KPBPB",
+   "Mekaar"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7212/perkuat-pertumbuhan-ekonomi-dan-kepastian-berusaha-pemerintah-dorong-daya-saing-investasi-kawasan-strategis-batam",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ekspor-ri-naik-5-58-persen-tei-2026-lampaui-target",
+  "category": "Makroekonomi",
+  "title": "Ekspor RI [Naik] 5,58 Persen, TEI 2026 Lampaui Target",
+  "deck": "Dalam pembukaan forum pameran IBEF 2026, pemerintah menyoroti ekspor Indonesia yang naik 5,58 persen pada Januari-September 2026, serta capaian Trade Expo Indonesia yang lampaui target transaksi.",
+  "date": "11 November 2026",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "tags": [
+   "ekspor",
+   "pameran dagang",
+   "Kementerian Perdagangan",
+   "Trade Expo Indonesia"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-tegaskan-peran-pameran-sebagai-jembatan-produk-indonesia-ke-pasar-global",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "ppgd-catatkan-obligasi-sukuk-baru-rp1-5-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "PPGD catatkan [obligasi-sukuk] baru Rp1,5 triliun di BEI",
@@ -35,6 +85,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c3d7939419_baac6c09fc.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "telkom-hadirkan-asisten-ai-tara-untuk-cari-informasi",
+  "category": "Teknologi",
+  "title": "Telkom Hadirkan Asisten AI [TARA] untuk Cari Informasi",
+  "deck": "TARA, asisten AI Telkom yang diluncurkan Oktober 2026, sudah menjawab 14.072 pertanyaan publik seputar produk, investor, hingga lowongan kerja.",
+  "date": "11 November 2026",
+  "image": "assets/img/telkom-hadirkan-asisten-ai-tara-untuk-cari-informasi.jpg",
+  "imageV": "mwc6al2s",
+  "tags": [
+   "AI",
+   "Telkom",
+   "TARA",
+   "layanan digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477849-telkom-hadirkan-asisten-ai-tara-bantu-masyarakat-cari-informasi-lebih-cepat"
  },
  {
   "slug": "bei-evaluasi-saham-terkonsentrasi-bobot-ihsg-berubah",
@@ -204,7 +271,7 @@ var ARTICLES = [
   "title": "Pemerintah Perluas Insentif Pajak Karyawan ke Semua Sektor [2027]",
   "deck": "Kemenko Perekonomian memaparkan rencana perluasan insentif pajak gaji ke seluruh sektor pada 2027, di tengah sejumlah indikator konsumsi dan manufaktur yang menguat jelang akhir tahun.",
   "date": "11 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "PPh 21 DTP",
    "ritel",
@@ -1103,7 +1170,7 @@ var ARTICLES = [
   "title": "BKPM Buka Desk Investasi di Medan, Kejar [Rp13 Triliun]",
   "deck": "Kementerian Investasi/BKPM meluncurkan Desk Investasi Regional di Medan untuk mengawal realisasi investasi Rp13 triliun di Sumatera, menyusul proyek serupa di Batam dan Bali.",
   "date": "10 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "BKPM",
    "Desk Investasi",
@@ -1619,7 +1686,7 @@ var ARTICLES = [
   "title": "Penjualan Eceran Oktober Diprakirakan [Naik] 1 Persen",
   "deck": "Bank Indonesia memperkirakan penjualan eceran Oktober 2026 tumbuh 1 persen dibanding tahun sebelumnya, ditopang penjualan bahan bakar kendaraan serta makanan dan minuman.",
   "date": "10 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "penjualan eceran",
    "Bank Indonesia",
@@ -3342,7 +3409,7 @@ var ARTICLES = [
   "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
   "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 119,9 pada Oktober 2026, dari 118,1 bulan sebelumnya, ditopang penilaian kondisi ekonomi saat ini dan ekspektasi ke depan yang menguat.",
   "date": "9 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
   "sourceLabel": "Bank Indonesia"
@@ -4590,7 +4657,7 @@ var ARTICLES = [
   "title": "Realisasi [Investasi] Rp3.923,2 Triliun Topang Pergeseran Kerja",
   "deck": "Pemerintah mencatat investasi dua tahun terakhir tembus Rp3.923,2 triliun dan menyerap 5,49 juta pekerja, di tengah pergeseran pola kerja akibat transformasi ekonomi.",
   "date": "6 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "transformasi ekonomi",
    "investasi",
@@ -5072,7 +5139,7 @@ var ARTICLES = [
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
   "deck": "Tingkat pengangguran terbuka naik tipis dari Februari 2026, tapi masih lebih rendah dibanding Agustus tahun lalu",
   "date": "6 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "bps",
    "ketenagakerjaan",
@@ -5115,7 +5182,7 @@ var ARTICLES = [
   "title": "Pertumbuhan Harga Rumah Primer [Melambat] di Triwulan III",
   "deck": "Pertumbuhan harga rumah baru melambat ke 0,58 persen dibanding setahun lalu pada triwulan III 2026, sementara penjualan turun 8,43 persen di seluruh tipe rumah.",
   "date": "6 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/timbangan-pasar.jpg",
   "tags": [
    "properti residensial",
    "harga rumah",
@@ -5711,7 +5778,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47] Persen pada Triwulan III 2026",
   "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada triwulan III 2026, naik dari 5,29 persen pada triwulan sebelumnya, didorong lonjakan belanja pemerintah dan konsumsi rumah tangga.",
   "date": "5 November 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
+  "image": "assets/img/bongkar-muat-truk.jpg",
   "tags": [
    "Pertumbuhan Ekonomi",
    "PDB Triwulan III",
@@ -6213,7 +6280,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh [5,47%] di Triwulan III 2026",
   "deck": "BPS catat pertumbuhan ekonomi naik 0,18 poin dari triwulan sebelumnya dan jadi yang tertinggi kedua dalam setahun terakhir.",
   "date": "5 November 2026",
-  "image": "assets/img/timbangan-pasar.jpg",
+  "image": "assets/img/pasar-ikan.jpg",
   "tags": [
    "ekonomi",
    "bps",
@@ -6391,7 +6458,7 @@ var ARTICLES = [
   "title": "IPM Indonesia 2026 [Naik] jadi 76,59, Didorong Semua Indikator",
   "deck": "Indeks Pembangunan Manusia Indonesia 2026 mencapai 76,59, naik 0,69 poin dari tahun sebelumnya, ditopang kenaikan di seluruh komponen penyusunnya.",
   "date": "5 November 2026",
-  "image": "assets/img/pasar-ikan.jpg",
+  "image": "assets/img/jembatan-desa.jpg",
   "tags": [
    "IPM",
    "BPS",
@@ -6400,70 +6467,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/171255",
   "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "indeks-bisnis-manufaktur-ekspansi-di-triwulan-iii-2026",
-  "category": "Industri",
-  "title": "Indeks Bisnis Manufaktur [Ekspansi] di Triwulan III 2026",
-  "deck": "IKBM triwulan III 2026 mencapai 52,75, tanda ekspansi industri manufaktur didorong pesanan, produksi, tenaga kerja, dan stok, meski waktu kirim melambat.",
-  "date": "5 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
-  "tags": [
-   "IKBM",
-   "Industri Manufaktur",
-   "BPS",
-   "Triwulan III 2026"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/181143",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "ekonomi-indonesia-tumbuh-5-47-di-triwulan-iii-2026",
-  "category": "Makroekonomi",
-  "title": "Ekonomi Indonesia Tumbuh [5,47%] di Triwulan III-2026",
-  "deck": "BPS mencatat produk domestik bruto RI naik 5,47 persen secara tahunan pada triwulan III-2026, ditopang belanja pemerintah dan ekspor.",
-  "date": "5 November 2026",
-  "image": "assets/img/bongkar-muat-truk.jpg",
-  "tags": [
-   "PDB",
-   "BPS",
-   "Pertumbuhan Ekonomi",
-   "Triwulan III 2026"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/169700",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "pyfa-terbitkan-obligasi-rp650-miliar-di-tengah-rugi-besar",
-  "category": "Aksi Korporasi",
-  "title": "PYFA Terbitkan [Obligasi] Rp650 Miliar di Tengah Rugi Besar",
-  "deck": "PYFA melanjutkan program obligasi Rp1,5 triliun lewat tahap II senilai hingga Rp650 miliar berbunga 10-10,5 persen per tahun, menambah utang saat perusahaan baru melaporkan rugi besar.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PYFA",
-   "obligasi korporasi",
-   "pasar modal",
-   "utang korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ced0d1a968_22c6011ff4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pakar-ri-perlu-perkuat-cadangan-energi-ala-jepang",
-  "category": "Energi",
-  "title": "Pakar: RI Perlu Perkuat [Cadangan] Energi ala Jepang",
-  "deck": "Pakar kebijakan energi Jun Arima menyarankan Indonesia membangun cadangan energi strategis dan menggarap mineral kritis seperti yang dilakukan Jepang sejak 1970-an.",
-  "date": "4 November 2026",
-  "image": "assets/img/pakar-ri-perlu-perkuat-cadangan-energi-ala-jepang.jpg",
-  "imageV": "mw2dxhgj",
-  "tags": [
-   "energi",
-   "cadangan minyak",
-   "Jepang",
-   "mineral kritis"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476671-indonesia-dinilai-perlu-terus-perkuat-ketahanan-energi-belajar-strategi-cadangan-minyak-dari-jepang"
  }
 ];

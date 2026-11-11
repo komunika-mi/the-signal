@@ -43,6 +43,10 @@ on:
       kandidat:
         description: "Berapa laporan diperiksa"
         default: "25"
+      mirror_cadangan:
+        description: "Paksa apt memakai mirror cadangan archive.ubuntu.com (untuk menguji jalur cadangan)"
+        type: boolean
+        default: false
 
 concurrency:
   group: the-signal-tulis      # tidak boleh bentrok dengan pembaruan harian
@@ -119,10 +123,43 @@ jobs:
           git fetch --quiet origin master
           git reset --hard origin/master
           echo "basis build: $(git rev-parse --short HEAD)"
+      # MIRROR CADANGAN, sejak 11 November 2026.
+      #
+      # Paket diambil dari azure.archive.ubuntu.com, mirror bawaan runner.
+      # Hari itu mirror tersebut tidak menjawab sama sekali: log hanya berisi
+      # "Ign:" untuk tiap paket, 20 detik sekali, dua putaran beruntun habis
+      # 10 menit di langkah ini, dan pipeline tidak sempat jalan. Pernah juga
+      # 19 Agustus 2026. Jarang (3 dari sekitar 1.000 putaran sejak Agustus),
+      # tapi tiap kali terjadi, satu putaran hilang utuh dan pemilik dapat
+      # email gagal.
+      #
+      # Jadi mirror bawaan diuji dulu dengan pagar 10 detik. Kalau diam, sumber
+      # paket dialihkan ke archive.ubuntu.com milik Canonical SEBELUM memasang
+      # apa pun, supaya jatah 10 menit tidak habis menunggu mirror yang mati.
+      # Pengalihan itu butuh apt-get update (daftar paket disimpan per host),
+      # dan update hanya terjadi di jalur cadangan ini; jalur biasa tetap
+      # seperti dicatat di atas. Update yang tidak bersih (misalnya repo pihak
+      # ketiga di runner rewel) tidak menghentikan langkah, pemasangannya yang
+      # jadi penentu.
+      #
+      # Jalur cadangan bisa dipaksa dari tombol Run workflow (mirror_cadangan)
+      # untuk mengujinya tanpa menunggu mirror bawaan mati sungguhan.
       - name: Pasang alat baca dokumen
         timeout-minutes: 10
+        env:
+          PAKSA_CADANGAN: ${{ inputs.mirror_cadangan }}
         run: |
-          sudo apt-get install -y -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 poppler-utils tesseract-ocr tesseract-ocr-ind || { sudo apt-get update -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 && sudo apt-get install -y -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 poppler-utils tesseract-ocr tesseract-ocr-ind; }
+          OPS="-o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25"
+          PAKET="poppler-utils tesseract-ocr tesseract-ocr-ind"
+          KODE=$(. /etc/os-release && echo "$VERSION_CODENAME")
+          if [ "$PAKSA_CADANGAN" = "true" ] || ! curl -fsS -o /dev/null --max-time 10 "http://azure.archive.ubuntu.com/ubuntu/dists/$KODE/Release"; then
+            echo "::warning::Mirror azure.archive.ubuntu.com dilewati (tidak menjawab atau dipaksa); paket diambil dari archive.ubuntu.com"
+            for f in /etc/apt/sources.list /etc/apt/sources.list.d/*; do
+              if [ -f "$f" ]; then sudo sed -i 's#azure\.archive\.ubuntu\.com#archive.ubuntu.com#g' "$f"; fi
+            done
+            sudo apt-get update -q $OPS || echo "::warning::apt-get update tidak bersih, tetap mencoba memasang"
+          fi
+          sudo apt-get install -y -q $OPS $PAKET || { sudo apt-get update -q $OPS && sudo apt-get install -y -q $OPS $PAKET; }
           pdftotext -v
           tesseract --version | head -1
           ls /usr/share/tesseract-ocr/*/tessdata/ind.traineddata

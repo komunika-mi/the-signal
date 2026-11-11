@@ -3,6 +3,117 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "plafon-kur-2026-naik-jadi-rp325-triliun-ntt-dapat-keringanan",
+  "category": "Perbankan",
+  "title": "Plafon KUR 2026 [Naik] Jadi Rp325 Triliun, NTT Dapat Keringanan",
+  "deck": "Pemerintah menaikkan plafon KUR 2026 menjadi Rp325 triliun, menetapkan target kredit program 2027 Rp386,9 triliun, dan meringankan bunga debitur KUR korban gempa NTT.",
+  "image": "assets/img/kartu-debit.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-11T18:43:11.406Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7213/pemerintah-tingkatkan-plafon-kur-2026-menjadi-rp325-triliun-siapkan-kredit-program-rp3869-triliun-pada-2027-dan-relaksasi-bagi-debitur-terdampak-gempa-ntt",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "KUR",
+   "UMKM",
+   "Kredit Program",
+   "Gempa NTT"
+  ],
+  "body": [
+   "Pemerintah menaikkan plafon Kredit Usaha Rakyat (KUR) tahun 2026 dari Rp295 triliun menjadi Rp325 triliun, menyesuaikan dengan permintaan pembiayaan pelaku usaha kecil yang terus bertambah. Keputusan ini muncul dari rapat Komite Kebijakan Pembiayaan bagi UMKM yang dipimpin Menteri Koordinator Bidang Perekonomian Airlangga Hartarto di Jakarta, Rabu (11/11). Dalam forum yang sama, pemerintah juga menyepakati keringanan bagi debitur KUR di Nusa Tenggara Timur yang usahanya terdampak gempa, berupa restrukturisasi kredit dan pemotongan bunga menjadi 0 persen pada 2027 serta 3 persen pada 2028.",
+   "Hingga akhir Oktober 2026, total penyaluran kredit program pemerintah sudah mencapai Rp300,8 triliun, atau 89,2 persen dari plafon Rp337,4 triliun yang dialokasikan tahun ini. Sebagian besar, 68,1 persen, mengalir ke sektor produksi di luar perdagangan. Kualitas kreditnya masih terjaga, tercermin dari rasio kredit bermasalah, yaitu persentase pinjaman yang macet atau telat dibayar, sebesar 2,14 persen per akhir September 2026. KUR sendiri, sebagai program terbesar, sudah menyalurkan Rp271,3 triliun kepada 4,2 juta debitur, termasuk lewat jalur KUR Syariah dan KUR bagi calon pekerja migran Indonesia.",
+   "Program pembiayaan lain turut berjalan. Kredit Program Perumahan sudah mengalirkan Rp29,2 triliun kepada hampir 120 ribu debitur untuk mendukung target pembangunan tiga juta rumah. Kredit untuk alat dan mesin pertanian baru menjangkau 285 debitur dengan nilai Rp197,8 miliar, sementara Kredit Industri Padat Karya senilai Rp146 miliar dimanfaatkan oleh 63 debitur untuk menjaga kelangsungan usaha dan lapangan kerja.",
+   "Untuk tahun 2027, Komite Kebijakan menetapkan target total penyaluran kredit program sebesar Rp386,9 triliun, dengan KUR tetap menjadi porsi terbesar yaitu Rp325 triliun, sama dengan target 2026 yang baru direvisi. Pemerintah juga menyiapkan skema baru bernama Kredit Usaha Pertanian senilai Rp1,3 triliun, terbagi untuk alat pertanian Rp300 miliar dan peternakan Rp1 triliun. Target lain meliputi Kredit Industri Padat Karya Rp600 miliar, Kredit Program Perumahan Rp30 triliun, dan Kredit Perempuan Prasejahtera Rp30 triliun. Seluruh target ini akan dievaluasi setiap tiga bulan dan bisa disesuaikan sesuai realisasi di lapangan.",
+   "Khusus debitur KUR di NTT yang terdampak gempa, pemerintah memberi masa tenggang dan perpanjangan tenor pembayaran, yang bisa langsung berlaku tahun ini karena Otoritas Jasa Keuangan sudah membuka ruang restrukturisasi hingga tiga tahun di wilayah bencana. Bunga atau marjin kredit mereka juga dipangkas jadi 0 persen pada 2027 dan 3 persen pada 2028, dengan rincian teknis akan diatur lewat peraturan Menteri Koordinator dan Menteri Keuangan. Di sisi anggaran, pemerintah juga menyiapkan penyesuaian pagu subsidi untuk membayar klaim imbal jasa penjaminan KUR generasi pertama yang sudah selesai diverifikasi Badan Pengawasan Keuangan dan Pembangunan, sementara klaim yang masih dalam proses verifikasi akan dianggarkan pada 2027."
+  ],
+  "fotoAdegan": "A woman weaving traditional ikat cloth on a wooden handloom inside a simple village workshop, natural daylight, colorful thread spools nearby",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah konkret: plafon KUR tahun ini dinaikkan dari Rp295 triliun jadi Rp325 triliun, dan untuk debitur KUR di NTT yang terdampak gempa, bunga atau marjin kreditnya diringankan jadi 0 persen pada 2027 dan 3 persen pada 2028, selain diberi masa tenggang dan perpanjangan tenor cicilan. Yang kena dampak ada dua kelompok berbeda, pelaku usaha kecil peminjam KUR secara umum yang kuotanya makin lega, dan debitur di NTT yang usahanya terganggu bencana sehingga dapat keringanan cicilan plus bunga yang nyaris nol selama dua tahun. Pola yang terlihat, pemerintah kini punya kerangka baku relaksasi kredit untuk wilayah bencana lewat restrukturisasi yang didukung aturan OJK dan bunga berjenjang, yang berpotensi jadi acuan kalau bencana serupa terjadi di daerah lain. Yang akan memastikan arah ini adalah Peraturan Menteri Koordinator dan Peraturan Menteri Keuangan yang disebut akan mengatur detail pelaksanaannya, serta hasil evaluasi triwulanan atas realisasi kredit program 2027.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "harga-minyak-acuan-ri-naik-ke-us-117-24-per-barel-di-oktober",
+  "category": "Energi",
+  "title": "Harga Minyak Acuan RI Naik ke [US$117,24] per Barel di Oktober",
+  "deck": "ICP Oktober 2026 naik jadi US$117,24 per barel akibat ketegangan geopolitik global, namun pemerintah memproyeksikan November melandai ke US$103,94-108,94 per barel.",
+  "image": "assets/img/harga-minyak-acuan-ri-naik-ke-us-117-24-per-barel-di-oktober.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-11T18:43:03.804Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pemerintah-tetapkan-icp-oktober-us11724-per-barel-harga-november-diproyeksi-melandai",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ICP",
+   "Harga Minyak",
+   "ESDM",
+   "Migas"
+  ],
+  "body": [
+   "Pemerintah menetapkan Harga Minyak Mentah Indonesia atau ICP periode Oktober 2026 sebesar US$117,24 per barel, naik US$4,43 dibandingkan ICP September 2026 yang tercatat US$112,81 per barel. ICP adalah harga rata-rata minyak mentah Indonesia yang jadi acuan untuk menghitung penerimaan negara dari sektor migas serta biaya operasi perusahaan yang mengelola blok minyak di dalam negeri. Penetapan ini tertuang dalam Keputusan Menteri ESDM Nomor 416.K/MG.03/MEM.M/2026.",
+   "Direktur Jenderal Minyak dan Gas Bumi Kementerian ESDM, Laode Sulaeman, menyebut kenaikan ini mengikuti penguatan harga di seluruh acuan minyak dunia, didorong oleh meningkatnya kekhawatiran pasar atas risiko perang akibat eskalasi ketegangan geopolitik. Pasar global mencermati keamanan jalur distribusi minyak di Selat Hormuz dan Bab al-Mandab, dua rute penting pengangkutan minyak dunia. Menurut Laode, lalu lintas kapal tanker di Selat Hormuz bahkan sempat menyentuh titik terendah.",
+   "Persediaan minyak dunia yang menipis turut menahan harga di level tinggi. Badan Informasi Energi Amerika Serikat (EIA) mencatat stok minyak mentah komersial berada 3,8 persen di bawah rata-rata lima tahun terakhir, sementara pasokan solar yang ketat memaksa kilang-kilang di berbagai negara mengolah minyak mentah dalam jumlah lebih besar dari biasanya.",
+   "Untuk November 2026, Kementerian ESDM memproyeksikan ICP bergerak melandai ke kisaran US$103,94 hingga US$108,94 per barel. Laode menyebut sejumlah faktor penyeimbang berpotensi menahan harga, seperti pulihnya produksi minyak di Teluk Meksiko Amerika Serikat setelah terdampak Badai Isaias, serta kemungkinan turunnya premi risiko jika upaya diplomasi global membawa hasil."
+  ],
+  "fotoAdegan": "A crude oil tanker anchored off an Indonesian refinery terminal at dusk, tugboats idling nearby, hazy sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailGlobal/arsip-berita-tingkatkan-investasi-dan-eksplorasi-hulu-migas-pemerintah-tawarkan-empat-wilayah-kerja-available-o8lm1rc.png",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Kenaikan ICP ini bukan harga BBM di pompa bensin, melainkan harga acuan yang menentukan besar penerimaan negara dari migas dan biaya produksi yang ditanggung kontraktor hulu migas, sehingga yang paling langsung terdampak adalah penerimaan negara dan perusahaan pengelola blok minyak, bukan konsumen harian. Kementerian ESDM sendiri memproyeksikan harga akan melandai di November ke US$103,94-108,94 per barel, jadi lonjakan Oktober tampak bersifat sementara, terkait ketegangan di Selat Hormuz dan Bab al-Mandab yang disebut berpotensi mereda. Yang akan memastikan arah ini adalah angka ICP November yang biasanya diumumkan awal bulan berikutnya, serta perkembangan diplomasi global yang menurut Kementerian ESDM jadi faktor penentu turun atau tidaknya premi risiko perang.",
+  "imageV": "mwch5cns"
+ },
+ {
+  "slug": "kek-batang-jajaki-teknologi-cip-hemat-energi",
+  "category": "Industri",
+  "title": "KEK Batang Jajaki [Teknologi] Cip Hemat Energi",
+  "deck": "KEK Industropolis Batang menjajaki kerja sama dengan Axelera, perusahaan cip asal Eropa, untuk teknologi komputasi hemat energi senilai indikatif EUR20-50 juta pada 2027-2030.",
+  "image": "assets/img/kek-batang-jajaki-teknologi-cip-hemat-energi.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T23:57:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477904-kek-industropolis-batang-jajaki-teknologi-cip-hemat-energi-dengan-perusahaan-eropa",
+  "tags": [
+   "KEK Batang",
+   "Axelera",
+   "semikonduktor",
+   "investasi Eropa"
+  ],
+  "body": [
+   "KEK Industropolis Batang, kawasan ekonomi khusus industri di Jawa Tengah, menandatangani nota kesepahaman dengan Axelera, perusahaan perancang cip asal Eropa, di London pada Kamis, 5 November. Kerja sama yang difasilitasi oleh Atase Perdagangan KBRI Den Haag ini membuka penjajakan pemanfaatan teknologi cip hemat energi untuk mendukung efisiensi operasional industri di Indonesia. Langkah ini penting karena menyasar kebutuhan besar industri saat ini, yaitu infrastruktur digital yang tidak membebani konsumsi listrik secara berlebihan.",
+   "Teknologi yang dijajaki disebut akselerator komputasi tepi, yaitu cip yang mengolah data langsung di lokasi perangkat, bukan mengirimkannya dulu ke server yang jauh. Dengan cara ini, respons sistem menjadi lebih cepat dan beban pengiriman data berkurang, yang pada akhirnya menekan konsumsi energi. Kedua pihak memperkirakan nilai kerja sama ini secara indikatif berkisar EUR20 juta hingga EUR50 juta untuk periode 2027 sampai 2030, mencakup pembangunan infrastruktur pendukung, integrasi sistem, serta kemungkinan keterlibatan di industri semikonduktor.",
+   "KEK Industropolis Batang selama ini dikenal sebagai kawasan yang menerapkan standar industri global, dengan nilai investasi yang telah mencapai Rp56 triliun hingga kuartal ketiga 2026. Direktur Utama KEK Industropolis Batang, Marfan Trihartiko, mengatakan penjajakan ini adalah bagian dari komitmen kawasan membangun ekosistem industri masa depan yang tetap memperhatikan kelestarian lingkungan. \"Perkembangan teknologi adalah keniscayaan, dan Indonesia perlu menyiapkan diri sejak sekarang. Namun, kesiapan itu tidak boleh dibayar dengan mengorbankan lingkungan,\" ujarnya, dikutip Rabu, 11 November.",
+   "Marfan menambahkan bahwa nota kesepahaman ini baru langkah awal, dan setiap tahap kerja sama berikutnya akan dijalankan secara bertahap serta mengikuti aturan yang berlaku. Dari sisi Axelera, perusahaan ini menyambut baik kemitraan tersebut dengan melihat Indonesia sebagai salah satu pasar teknologi paling dinamis di kawasan, sekaligus peluang untuk mengembangkan talenta lokal di ekosistem digital."
+  ],
+  "fotoAdegan": "Workers in protective gear assembling electronic components on a production line inside a bright modern factory hall in Central Java",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/11/6af49d44d1cd4-kek-industropolis-batang-secara-resmi-menandatangani-nota-kesepahaman-mou-dengan-perusahaan-perancang-cip-asal-eropa-axelera-di-london-pada-kamis-511_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang diteken di London baru nota kesepahaman, bukan kontrak yang mengikat, sehingga rentang nilai EUR20 juta hingga EUR50 juta untuk periode 2027-2030 itu sifatnya indikatif dan masih bisa berubah. Pihak yang berpotensi terdampak adalah KEK Industropolis Batang sebagai pengelola kawasan, calon tenant industri di dalamnya, dan Axelera sebagai mitra teknologi, sementara manfaat bagi pekerja lokal baru disebut sebagai peluang pengembangan talenta, belum program yang konkret. Yang masih kurang untuk membaca ke mana rencana ini bergerak adalah jadwal kontrak definitif atau kelanjutan studi kerja sama, karena jarak tiga tahun sebelum periode kerja sama dimulai memberi banyak ruang bagi rencana ini berubah atau batal seperti yang sering terjadi pada MoU investasi lain. Yang perlu dipantau adalah apakah penjajakan ini berlanjut jadi perjanjian kerja sama yang lebih mengikat sebelum 2027, atau berhenti sebagai wacana.",
+  "imageV": "mwch5d5o"
+ },
+ {
+  "slug": "smexpo-2026-transaksi-umkm-binaan-pertamina-tembus-rp33-miliar",
+  "category": "UMKM",
+  "title": "SMEXPO 2026: Transaksi UMKM Binaan Pertamina Tembus [Rp33 Miliar]",
+  "deck": "Pertamina mencatat potensi transaksi lebih dari Rp33 miliar dari 52 UMKM binaan di ajang SMEXPO 2026 Jakarta, bagian dari pembinaan lebih dari 2.000 UMKM sepanjang tahun.",
+  "image": "assets/img/smexpo-2026-transaksi-umkm-binaan-pertamina-tembus-rp33-miliar.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T23:40:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477899-pertamina-smexpo-2026-strategi-pertamina-kembangkan-umkm-dan-perluas-akses-pasar",
+  "tags": [
+   "pertamina",
+   "umkm",
+   "smexpo",
+   "jakarta"
+  ],
+  "body": [
+   "PT Pertamina (Persero) merampungkan puncak acara Pertamina Small and Medium Enterprise Expo (SMEXPO) 2026 di Jakarta, forum tahunan yang dirancang untuk membantu pelaku usaha mikro, kecil, dan menengah memperluas pasar dan membangun kemitraan bisnis. Mengangkat tema 'Lokal Jadi Vokal', acara ini bukan sekadar pameran, melainkan juga menyertakan sesi temu bisnis antar pelaku usaha yang membuahkan hasil konkret berupa potensi kesepakatan dagang.",
+   "Sepanjang 2026, Pertamina tercatat membina lebih dari 2.000 UMKM, namun hanya 52 di antaranya yang lolos proses kurasi untuk ikut tampil di pameran nasional ini. Corporate Secretary Pertamina, Arya Dwi Paramita, menyebut sesi temu bisnis tersebut menghasilkan potensi kesepakatan senilai lebih dari Rp33 miliar. Ia menambahkan bahwa setiap UMKM yang berkembang pada dasarnya turut membuka lapangan kerja baru di sekitarnya.",
+   "Dari sisi pemerintah, Deputi Bidang Usaha Kecil Kementerian UMKM, Temmy Satya Permana, mendorong pelaku UMKM membidik pasar domestik yang selama ini kurang disasar, seperti kalangan aparatur sipil negara dan karyawan BUMN. Sementara itu, Director of The Board Office Danantara Indonesia, Tony Andrianto, menekankan pentingnya penguatan rantai pasok dan kualitas produk agar UMKM Indonesia mampu masuk ke pasar global, bukan hanya pasar domestik.",
+   "Di luar transaksi dagang, SMEXPO 2026 juga menyediakan rangkaian workshop dan talkshow bagi peserta dan pengunjung, mulai dari pengelolaan keuangan usaha, strategi branding di media digital, hingga cara kurasi produk agar layak jual. Pertamina menyebut format ini sebagai bagian dari ekosistem pembinaan berkelanjutan yang memadukan unsur bisnis, kreativitas, dan edukasi bagi UMKM binaannya."
+  ],
+  "fotoAdegan": "Rows of small vendor booths displaying handmade crafts and packaged food products, visitors browsing closely in a convention hall",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/11/6af499dabba33-pt-pertamina-persero-sukses-menggelar-puncak-acara-pertamina-small-and-medium-enterprise-expo-smexpo-2026-di-jakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari SMEXPO 2026 bukan sekadar jumlah UMKM yang ikut pameran, tapi penambahan sesi temu bisnis, yaitu pertemuan langsung antara UMKM dan calon pembeli korporat, yang menghasilkan potensi kesepakatan lebih dari Rp33 miliar. Perlu dicatat ini masih berupa 'potensi', jadi belum tentu seluruhnya berubah jadi transaksi yang benar-benar dibayar. Yang langsung terdampak adalah 52 UMKM yang lolos kurasi ketat dari lebih dari 2.000 UMKM binaan Pertamina sepanjang tahun, rasio yang menunjukkan hanya sebagian kecil yang naik ke pameran berskala nasional. Arahnya terlihat menuju pembinaan UMKM yang makin diarahkan ke pasar institusional, seperti belanja pegawai negeri dan karyawan BUMN yang disinggung Kementerian UMKM, serta ke rantai pasok korporasi yang disebut Danantara, ketimbang sekadar penjualan ritel ke konsumen umum. Yang akan memastikan apakah arah ini benar-benar berjalan adalah data realisasi transaksi dari potensi Rp33 miliar tersebut, yang belum diungkap kapan akan dilaporkan ke publik.",
+  "imageV": "mwch5dl1"
+ },
+ {
   "slug": "penjelasan-bursa-brrc-laba-bruto-kuartal-iii-rugi-kas-rp70-juta",
   "category": "Aksi Korporasi",
   "title": "Penjelasan Bursa BRRC: Laba Bruto Kuartal III [Rugi], Kas Rp70 Juta",
@@ -29,6 +140,114 @@ var ARTICLES = [
   "takeaway": "Laporan ini condong NEGATIF bagi BRRC, karena hampir semua pos yang ditanyakan BEI menunjukkan tekanan keuangan: laba bruto ambrol, kas nyaris habis, utang usaha yang menunggak membesar, dan perusahaan mengambil pembiayaan berbunga tinggi meski perjanjian kreditnya melarang pinjaman baru. Yang paling kentara adalah arus kas, uang tunai perusahaan susut dari Rp7,90 miliar menjadi hanya Rp70,54 juta padahal baru menerima dana segar dari IPO dan pelaksanaan waran, tanda dana itu sudah terpakai habis untuk modal kerja dan belum tergantikan oleh penerimaan penjualan. Beban bunga juga perlu dicermati karena pembiayaan sale and leaseback baru dari PT Dana Unico Finance dikenai bunga 16 persen, jauh di atas bunga kredit bank biasa, menambah beban keuangan di tengah laba yang sedang menyusut. Yang perlu dipantau berikutnya adalah persetujuan tertulis dari BRI atas pembiayaan baru tersebut, tenggat pelunasan utang pajak PPh Pasal 29 2025 senilai Rp591,42 juta paling lambat 30 Desember 2026, serta apakah target Perseroan mengembalikan margin laba bruto ke posisi positif pada akhir 2026 atau kuartal I 2027 benar-benar tercapai.",
   "sentimen": "negatif",
   "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "stok-beras-nasional-aman-hadapi-nataru-2026",
+  "category": "Makroekonomi",
+  "title": "Stok Beras Nasional [Aman] Hadapi Nataru 2026",
+  "deck": "Mentan Amran Sulaiman klaim stok beras 4,5 juta ton jadi tertinggi sepanjang sejarah merdeka, sembari ungkap penindakan 13 tersangka pengoplosan dan pemalsuan harga beras.",
+  "image": "assets/img/stok-beras-nasional-aman-hadapi-nataru-2026.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T23:25:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477893-antisipasi-ketahanan-pangan-mentan-pastikan-ketersediaan-beras-nasional-aman-untuk-hadapi-nataru",
+  "tags": [
+   "beras",
+   "ketahanan pangan",
+   "Kementan",
+   "nataru"
+  ],
+  "body": [
+   "Menteri Pertanian Andi Amran Sulaiman memastikan ketersediaan beras nasional aman untuk menghadapi libur Natal 2026 dan Tahun Baru 2027. Ia menyebut stok beras saat ini mencapai 4,5 juta ton, cukup untuk kebutuhan lebih dari satu bulan ke depan, dan menyebutnya sebagai stok akhir tahun tertinggi sepanjang sejarah Indonesia merdeka.",
+   "Klaim ini disampaikan di tengah tren global di mana 33 negara memilih menahan pasokan beras mereka untuk kebutuhan dalam negeri masing-masing. Amran menegaskan pemerintah serius menjaga stabilitas pangan domestik meski tren tersebut berpotensi memperketat pasar beras dunia. Pernyataan itu disampaikan usai rapat koordinasi terbatas soal kebijakan pupuk bersubsidi di Kantor Kementerian Koordinator Bidang Pangan, Rabu, 11 November.",
+   "Meski stok secara nasional melimpah, Amran mengakui masih ada anomali harga akibat ulah pihak tidak bertanggung jawab di lapangan. Ia membeberkan temuan beras yang diperkaya gizi tambahan dijual seharga Rp50 ribu per kilogram, jauh di atas harga seharusnya sekitar Rp13 ribu, serta praktik membongkar kemasan beras subsidi pemerintah untuk dijual ulang sebagai beras premium.",
+   "Atas temuan itu, aparat telah menetapkan 13 orang sebagai tersangka dan masih mengembangkan penyidikan untuk membongkar jaringan distribusi ilegal tersebut secara lebih luas."
+  ],
+  "fotoAdegan": "Workers stacking rice sacks inside a government warehouse, forklift moving pallets, bright industrial lighting, Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/11/6af495b9ac4e3-menteri-pertanian-andi-amran-sulaiman_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan soal jumlah pasokan, karena stok 4,5 juta ton justru diklaim sebagai stok akhir tahun tertinggi sejak merdeka, melainkan soal pengawasan di jalur distribusi: pemerintah membongkar praktik beras subsidi yang dibongkar kemasannya lalu dijual ulang sebagai beras premium, serta beras berisi gizi tambahan yang dijual Rp50 ribu per kilogram padahal seharusnya sekitar Rp13 ribu. Yang terdampak langsung adalah konsumen yang selama ini membayar jauh lebih mahal tanpa tahu barangnya bukan yang sebenarnya, sementara 13 orang yang sudah ditetapkan tersangka menunjukkan sasaran penindakan ada di level pengecer atau distributor, bukan di level produksi. Arahnya terlihat menuju penguatan pengawasan rantai distribusi beras, bukan kebijakan soal volume stok, sebab pemerintah sendiri mengaku pasokan aman tapi harga di pasar masih bisa dipermainkan pihak tertentu. Yang akan menentukan apakah ini jadi operasi besar membongkar jaringan mafia pangan atau sekadar penindakan kasus per kasus adalah hasil pengembangan penyidikan lanjutan yang disebut Kementan masih berjalan.",
+  "imageV": "mwch5e0e"
+ },
+ {
+  "slug": "kek-industropolis-batang-sertifikasi-80-talenta-kreatif",
+  "category": "Ketenagakerjaan",
+  "title": "KEK Industropolis Batang Sertifikasi 80 Talenta [Kreatif]",
+  "deck": "KEK Industropolis Batang dan Kemenekraf menyertifikasi 80 talenta kreatif lokal, 50 penari dan 30 pengelola acara, dalam program yang digelar 5-7 November 2026.",
+  "image": "assets/img/kek-industropolis-batang-sertifikasi-80-talenta-kreatif.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T23:09:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477889-kemenekraf-dan-kek-industropolis-batang-tingkatkan-kompetensi-sdm-kreatif-lokal",
+  "tags": [
+   "Batang",
+   "Industri Kreatif",
+   "Kemenekraf",
+   "KEK"
+  ],
+  "body": [
+   "Kawasan Ekonomi Khusus (KEK) Industropolis Batang bersama Kementerian Ekonomi Kreatif (Kemenekraf) menggelar program sertifikasi bagi puluhan talenta kreatif lokal pada 5-7 November 2026. Langkah ini penting karena menunjukkan kawasan industri besar di Batang mulai membangun jalur kerja baru di luar manufaktur, yaitu di bidang seni pertunjukan dan pengelolaan acara, bagi warga sekitar.",
+   "Program bernama Flagship Aktivasi Creative Hub 2026 ini memberi sertifikat kompetensi nasional kepada 80 orang, terdiri dari 50 seniman tari lokal serta 30 tenaga profesional di bidang pengelolaan panggung (stage manager) dan perencanaan acara (event planner). Rangkaian kegiatan ditutup dengan showcase, tempat para peserta langsung mempraktikkan keterampilan mengelola produksi acara yang baru mereka pelajari.",
+   "Untuk menopang program ini, KEK Industropolis Batang telah menyiapkan ruang kreatif terintegrasi di kawasan Bukit Srawung, lengkap dengan taman tematik, amphitheater, dan helipad, yang dirancang sebagai lokasi utama pertunjukan seni dan budaya. Ketua Kelompok Fraksi Komisi VII DPR RI, Yoyok Riyo Sudibyo, menyebut kolaborasi ini sebagai contoh bagaimana kawasan industri berskala besar bisa tumbuh berdampingan dengan ekosistem kreatif warga sekitar, dan menilainya layak diadaptasi di kawasan industri lain.",
+   "Kepala Divisi Human Capital Management KEK Industropolis Batang, Bayuaji Darus Setiobudi, mengatakan sertifikasi ini hanya langkah awal. Perusahaan berharap para talenta yang telah tersertifikasi bisa langsung terlibat mengelola acara berskala profesional di kawasan tersebut, sehingga peningkatan kompetensi SDM lokal juga berbuah peluang ekonomi baru bagi masyarakat Kabupaten Batang."
+  ],
+  "fotoAdegan": "Local dancers rehearsing on an outdoor amphitheater stage surrounded by landscaped gardens, industrial estate visible in the distance",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/11/6af4928eb8624-kek-industropolis-batang-berkolaborasi-dengan-kementerian-ekonomi-kreatif-kemenekraf-ri-menyelenggarakan-program-flagship-aktivasi-creative-hub-2026-pada-5-7-november-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret dari program ini adalah sertifikasi untuk 80 orang, yaitu 50 penari dan 30 pengelola acara (stage manager dan event planner), ditambah fasilitas fisik yang sudah berdiri di Bukit Srawung berupa taman tematik, amphitheater, dan helipad. Yang jelas terdampak adalah warga Kabupaten Batang yang mengikuti pelatihan ini, dan KEK Industropolis Batang sendiri yang tampak ingin memperluas citra dari sekadar kawasan manufaktur menjadi kawasan yang juga punya kegiatan seni dan wisata. Yang belum bisa dipastikan dari berita ini adalah apakah 80 talenta tersebut akan benar-benar dipekerjakan rutin mengelola acara di kawasan itu, atau sertifikasi ini cuma pelatihan sekali jalan tanpa kelanjutan proyek nyata. Yang perlu dipantau adalah apakah KEK Industropolis Batang mengumumkan kalender acara atau target jumlah event di Bukit Srawung dalam waktu dekat, karena itu yang akan menunjukkan apakah fasilitas dan SDM baru ini benar-benar terpakai atau sekadar simbolis.",
+  "imageV": "mwch5ei9"
+ },
+ {
+  "slug": "tabungan-bri-rekor-tertinggi-dana-murah-tembus-70",
+  "category": "Perbankan",
+  "title": "Tabungan BRI [Rekor] Tertinggi, Dana Murah Tembus 70%",
+  "deck": "Tabungan BRI mencapai Rp637,7 triliun hingga September 2026, level tertinggi sepanjang sejarah perusahaan, seiring porsi dana murah yang naik ke 70 persen dari total dana pihak ketiga.",
+  "image": "assets/img/tabungan-bri-rekor-tertinggi-dana-murah-tembus-70.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T22:34:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477885-penghimpunan-tabungan-cetak-rekor-tertinggi-sepanjang-sejarah-bukti-nyata-keberhasilan-transformasi-bri",
+  "tags": [
+   "BRI",
+   "BBRI",
+   "CASA",
+   "BRImo"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk mencatatkan nilai tabungan tertinggi sepanjang sejarah perusahaan hingga akhir September 2026. Direktur Network dan Retail Funding BRI, Aquarius Rudianto, menyampaikan pencapaian itu dalam konferensi pers kinerja keuangan Triwulan III 2026 di Jakarta, Senin (9/11). Pencapaian ini penting karena tabungan dan giro adalah sumber dana yang paling murah bagi bank, sehingga pertumbuhannya memengaruhi seberapa besar ruang BRI untuk menyalurkan kredit tanpa harus menanggung biaya dana yang mahal.",
+   "Hingga akhir September 2026, dana pihak ketiga BRI tercatat Rp1.651,3 triliun, tumbuh 12,0 persen dibanding Rp1.475,8 triliun pada September 2025. Dari jumlah itu, tabungan nasabah tumbuh 13,4 persen menjadi Rp637,7 triliun, sementara giro, yaitu rekening transaksi harian yang banyak dipakai pelaku usaha, tumbuh 19,2 persen menjadi Rp518,7 triliun. Gabungan tabungan dan giro yang disebut dana murah ini naik 15,9 persen menjadi Rp1.156,4 triliun, sehingga porsinya terhadap total dana pihak ketiga naik dari 67,6 persen pada Triwulan III 2025 menjadi 70,0 persen pada Triwulan III 2026.",
+   "Pertumbuhan ini ditopang oleh aktivitas transaksi di aplikasi BRImo, yang penggunanya mencapai 26 juta akun aktif bulanan atau naik 13,0 persen dalam setahun. Volume transaksi lewat BRImo melonjak 27,6 persen menjadi Rp6.439,2 triliun, dan kontribusinya ke pendapatan jasa BRI mencapai Rp3,1 triliun, naik 12,1 persen.",
+   "Jaringan agen BRILink turut menyumbang, dengan lebih dari 1 juta agen yang menjangkau lebih dari 60 ribu desa, atau sekitar 80 persen desa di Indonesia. Dari jaringan ini, BRI memperoleh pendapatan jasa Rp1,6 triliun yang tumbuh 26,0 persen, sekaligus menghimpun tabungan senilai hampir Rp33 triliun yang melonjak 45,1 persen dalam setahun."
+  ],
+  "fotoAdegan": "A village banking agent assisting a customer with a cash transaction at a small kiosk counter, modest rural storefront",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/11/6af489586d476-bri-cetak-rekor-tertinggi-penghimpunan-tabungan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya ada di komposisi sumber dana BRI: porsi dana murah, yakni tabungan dan giro yang bunganya jauh lebih rendah dibanding deposito, naik dari 67,6 persen menjadi 70,0 persen dari total dana pihak ketiga dalam setahun, dengan nilainya tumbuh 15,9 persen jadi Rp1.156,4 triliun. Yang kena dampak langsung adalah BRI sendiri dari sisi biaya dana, dan tidak tertutup kemungkinan meluas ke nasabah peminjam kalau dana murah ini memberi bank ruang untuk menurunkan bunga kredit. Jaringan agen BRILink yang menjangkau sekitar 80 persen desa di Indonesia juga jadi bagian dari mesin penghimpunan ini, dengan kontribusi tabungan hampir Rp33 triliun yang melonjak 45,1 persen, sehingga pelaku di desa yang menjadi agen ikut kebagian pendapatan jasa dari situ. Arahnya mengarah ke penguatan struktur dana murah lewat ekosistem digital dan agen, bukan sekadar lonjakan musiman, dan yang akan menegaskan apakah tren ini berlanjut adalah laporan keuangan penuh BRI untuk tahun 2026 yang biasanya terbit awal tahun berikutnya.",
+  "imageV": "mwch5ext"
+ },
+ {
+  "slug": "danareksa-investment-resmi-lahir-kelola-aum-rp172-5-t",
+  "category": "Pasar Modal",
+  "title": "Danareksa Investment [Resmi] Lahir, Kelola AUM Rp172,5 T",
+  "deck": "Empat manajer investasi BUMN merger jadi Danareksa Investment Management Indonesia, mengelola dana Rp172,5 triliun dan menyasar posisi kedua terbesar nasional.",
+  "image": "assets/img/danareksa-investment-resmi-lahir-kelola-aum-rp172-5-t.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T22:05:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477880-danareksa-investments-resmi-diluncurkan-dari-merger-4-mi-bumn-aum-capai-rp1725-triliun",
+  "tags": [
+   "Danareksa Investment",
+   "Danantara",
+   "merger BUMN",
+   "manajer investasi"
+  ],
+  "body": [
+   "PT Danareksa Investment Management Indonesia resmi berdiri pada Rabu, 11 November 2026, hasil penggabungan empat perusahaan manajer investasi milik negara, yaitu PT Mandiri Manajemen Investasi, PT BRI Manajemen Investasi, PT BNI Asset Management, dan PT PNM Investment Management. Kelahiran entitas baru ini menyatukan bisnis pengelolaan dana yang sebelumnya terpisah di empat perusahaan BUMN menjadi satu pemain besar, yang diklaim bakal menempati posisi kedua terbesar di industri manajer investasi Indonesia.",
+   "CEO Danantara Rosan Roeslani, yang juga menjabat Menteri Investasi dan Hilirisasi, menjelaskan bahwa rencana penggabungan semula melibatkan lima perusahaan manajer investasi BUMN, namun baru empat yang resmi disahkan sejauh ini. Ia menyebut total dana yang dikelola oleh entitas baru ini mencapai Rp172,5 triliun. Menurut Rosan, skala besar sengaja dibentuk karena ukuran perusahaan ikut menentukan daya saingnya di industri pengelolaan investasi.",
+   "Rosan menyampaikan bahwa pembiayaan di Indonesia masih sangat bertumpu pada perbankan, dengan porsi sekitar 80 persen dari total pembiayaan yang ada. Ia berharap kehadiran Danareksa Investment bisa menjadi alternatif sumber pendanaan di luar kredit bank, sekaligus memberi masyarakat lebih banyak pilihan instrumen investasi selain menabung di bank.",
+   "Peresmian digelar di Hotel St. Regis, Jakarta Selatan. Manajemen menyatakan akan langsung melakukan sosialisasi untuk memperkenalkan Danareksa Investment sebagai entitas baru yang disiapkan menjadi bagian dari industri investasi terbesar di Indonesia."
+  ],
+  "fotoAdegan": "Analysts at trading desks with multiple monitors angled away, dim ambient lighting, Jakarta skyline through tall windows at dusk",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/11/6af4814063c71-chief-executive-officer-ceo-of-danantara-rosan-roeslani-dan-coo-of-bpi-danantara-dony-oskaria-dalam-peluncuran-pt-danareksa-investment-management-indonesia-danareksa-investments-rabu-11112026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan intinya, empat perusahaan manajer investasi milik bank-bank BUMN, yaitu Mandiri, BRI, BNI, dan PNM, melebur menjadi satu perusahaan bernama Danareksa Investment Management Indonesia, dengan total dana kelolaan Rp172,5 triliun. Yang langsung terdampak adalah nasabah reksa dana dari empat perusahaan lama itu, karena dana mereka kini berpindah pengelolaan ke entitas baru, serta industri manajer investasi sendiri yang kedatangan pemain besar baru. Rencana awal sebenarnya melibatkan lima perusahaan, tapi baru empat yang resmi disahkan, sehingga langkah ini terlihat sebagai konsolidasi BUMN sektor keuangan yang berjalan bertahap, bukan sekali rampung. Yang akan menentukan arah selanjutnya adalah apakah perusahaan kelima itu akhirnya menyusul bergabung, dan seberapa lancar proses pengalihan dana nasabah lama ke entitas baru ini berjalan.",
+  "imageV": "mwch5fe3"
  },
  {
   "slug": "cnaf-direktur-iris-savitri-mundur-dari-jajaran-direksi",
@@ -113,7 +332,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan sinyal bahwa pemerintah pusat mulai menyoroti kebocoran di pintu masuk Batam, yaitu praktik melaporkan nilai impor lebih rendah dari harga sebenarnya dan masuknya barang bekas serta impor ilegal, sembari ekonomi kawasan ini tumbuh 7,28 persen pada kuartal kedua 2026 dan investasi sudah mencapai 85,33 persen dari target Rp70 triliun tahun ini. Yang terdampak langsung adalah pelaku usaha dan importir di Batam yang akan menghadapi pengawasan lebih ketat di pelabuhan, perempuan pelaku usaha mikro yang jadi sasaran kredit Mekaar bersubsidi bunga 8 persen per tahun dengan plafon Rp15 juta, serta calon investor pusat data yang butuh kepastian pasokan listrik dan air baku di Nongsa Digital Park. Arahnya terlihat menuju kombinasi dua hal sekaligus, yakni memperketat pengawasan barang masuk tanpa mencabut status bebas bea Batam, sambil tetap mengejar investasi besar seperti pusat data. Yang akan membuktikan arah ini adalah efektivitas PP Nomor 25 dan 28 Tahun 2025 begitu benar-benar diterapkan di lapangan, serta apakah realisasi investasi Batam bisa menembus target Rp70 triliun sebelum akhir 2026.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ekspor-ri-naik-5-58-persen-tei-2026-lampaui-target",
@@ -662,7 +881,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah insentif PPh 21 yang ditanggung pemerintah, yang mulai 2027 tidak lagi terbatas pada sektor tertentu tapi berlaku untuk seluruh sektor usaha bagi pekerja bergaji di atas batas tidak kena pajak hingga Rp10 juta per bulan. Yang terdampak adalah pekerja di rentang gaji itu, yang gajinya tidak lagi dipotong pajak karena ditanggung negara, serta pelaku usaha ritel dan UMKM yang menjadi sasaran penguatan rantai pasok dan digitalisasi pembayaran. Kalau dilihat bersamaan dengan bantuan beras untuk 33,2 juta keluarga, subsidi upah untuk 13,3 juta pekerja, dan diskon transportasi liburan akhir tahun, arahnya adalah penjagaan daya beli masyarakat secara berlapis menjelang dan sesudah pergantian tahun, bukan sekadar bantuan satu kali. Yang akan menentukan seberapa luas dampaknya adalah aturan turunan dari Kementerian Keuangan yang menetapkan detail sektor dan mekanisme PPh 21 DTP 2027, yang belum disebutkan tanggal terbitnya dalam siaran ini.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "delapan-perusahaan-ri-jajaki-pasar-haji-umrah-arab-saudi",
@@ -1075,7 +1294,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Dari empat agenda yang disebut, yang paling konkret justru soal belanja negara: penggunaan Kartu Kredit Indonesia dengan pembayaran daring di e-katalog sudah berjalan sejak Oktober 2026, dan kini diperluas ke transaksi dengan marketplace serta UMKM. Artinya proses pembelian barang dan jasa oleh instansi pemerintah makin banyak berpindah ke sistem digital yang bisa dilacak, bukan sekadar wacana seminar. Pihak yang paling terdampak adalah pelaku UMKM yang berjualan di marketplace rekanan pemerintah, karena mereka berpotensi mendapat akses baru ke belanja negara kalau sistem ini benar-benar tersambung luas. Arah besarnya, pemerintah mendorong digitalisasi tidak hanya di sisi konsumen seperti QRIS, tapi juga di sisi belanja pemerintah sendiri, sejalan dengan arahan efisiensi anggaran yang disampaikan Presiden Prabowo Subianto pada rapat paripurna DPR Agustus 2026. Yang akan menunjukkan apakah ini meluas atau sekadar uji coba terbatas adalah data jumlah instansi dan UMKM yang benar-benar bertransaksi lewat KKI di e-katalog pada laporan berikutnya.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "rupo-ptpp-10-november-obligasi-restrukturisasi-bunga-ditolak",

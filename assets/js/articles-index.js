@@ -5,6 +5,74 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "plafon-kur-2026-naik-jadi-rp325-triliun-ntt-dapat-keringanan",
+  "category": "Perbankan",
+  "title": "Plafon KUR 2026 [Naik] Jadi Rp325 Triliun, NTT Dapat Keringanan",
+  "deck": "Pemerintah menaikkan plafon KUR 2026 menjadi Rp325 triliun, menetapkan target kredit program 2027 Rp386,9 triliun, dan meringankan bunga debitur KUR korban gempa NTT.",
+  "date": "12 November 2026",
+  "image": "assets/img/kartu-debit.jpg",
+  "tags": [
+   "KUR",
+   "UMKM",
+   "Kredit Program",
+   "Gempa NTT"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7213/pemerintah-tingkatkan-plafon-kur-2026-menjadi-rp325-triliun-siapkan-kredit-program-rp3869-triliun-pada-2027-dan-relaksasi-bagi-debitur-terdampak-gempa-ntt",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "harga-minyak-acuan-ri-naik-ke-us-117-24-per-barel-di-oktober",
+  "category": "Energi",
+  "title": "Harga Minyak Acuan RI Naik ke [US$117,24] per Barel di Oktober",
+  "deck": "ICP Oktober 2026 naik jadi US$117,24 per barel akibat ketegangan geopolitik global, namun pemerintah memproyeksikan November melandai ke US$103,94-108,94 per barel.",
+  "date": "12 November 2026",
+  "image": "assets/img/harga-minyak-acuan-ri-naik-ke-us-117-24-per-barel-di-oktober.jpg",
+  "imageV": "mwch5cns",
+  "tags": [
+   "ICP",
+   "Harga Minyak",
+   "ESDM",
+   "Migas"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pemerintah-tetapkan-icp-oktober-us11724-per-barel-harga-november-diproyeksi-melandai",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "kek-batang-jajaki-teknologi-cip-hemat-energi",
+  "category": "Industri",
+  "title": "KEK Batang Jajaki [Teknologi] Cip Hemat Energi",
+  "deck": "KEK Industropolis Batang menjajaki kerja sama dengan Axelera, perusahaan cip asal Eropa, untuk teknologi komputasi hemat energi senilai indikatif EUR20-50 juta pada 2027-2030.",
+  "date": "11 November 2026",
+  "image": "assets/img/kek-batang-jajaki-teknologi-cip-hemat-energi.jpg",
+  "imageV": "mwch5d5o",
+  "tags": [
+   "KEK Batang",
+   "Axelera",
+   "semikonduktor",
+   "investasi Eropa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477904-kek-industropolis-batang-jajaki-teknologi-cip-hemat-energi-dengan-perusahaan-eropa"
+ },
+ {
+  "slug": "smexpo-2026-transaksi-umkm-binaan-pertamina-tembus-rp33-miliar",
+  "category": "UMKM",
+  "title": "SMEXPO 2026: Transaksi UMKM Binaan Pertamina Tembus [Rp33 Miliar]",
+  "deck": "Pertamina mencatat potensi transaksi lebih dari Rp33 miliar dari 52 UMKM binaan di ajang SMEXPO 2026 Jakarta, bagian dari pembinaan lebih dari 2.000 UMKM sepanjang tahun.",
+  "date": "11 November 2026",
+  "image": "assets/img/smexpo-2026-transaksi-umkm-binaan-pertamina-tembus-rp33-miliar.jpg",
+  "imageV": "mwch5dl1",
+  "tags": [
+   "pertamina",
+   "umkm",
+   "smexpo",
+   "jakarta"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477899-pertamina-smexpo-2026-strategi-pertamina-kembangkan-umkm-dan-perluas-akses-pasar"
+ },
+ {
   "slug": "penjelasan-bursa-brrc-laba-bruto-kuartal-iii-rugi-kas-rp70-juta",
   "category": "Aksi Korporasi",
   "title": "Penjelasan Bursa BRRC: Laba Bruto Kuartal III [Rugi], Kas Rp70 Juta",
@@ -19,6 +87,74 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d4d8f2cba0_d807705e77.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "stok-beras-nasional-aman-hadapi-nataru-2026",
+  "category": "Makroekonomi",
+  "title": "Stok Beras Nasional [Aman] Hadapi Nataru 2026",
+  "deck": "Mentan Amran Sulaiman klaim stok beras 4,5 juta ton jadi tertinggi sepanjang sejarah merdeka, sembari ungkap penindakan 13 tersangka pengoplosan dan pemalsuan harga beras.",
+  "date": "11 November 2026",
+  "image": "assets/img/stok-beras-nasional-aman-hadapi-nataru-2026.jpg",
+  "imageV": "mwch5e0e",
+  "tags": [
+   "beras",
+   "ketahanan pangan",
+   "Kementan",
+   "nataru"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477893-antisipasi-ketahanan-pangan-mentan-pastikan-ketersediaan-beras-nasional-aman-untuk-hadapi-nataru"
+ },
+ {
+  "slug": "kek-industropolis-batang-sertifikasi-80-talenta-kreatif",
+  "category": "Ketenagakerjaan",
+  "title": "KEK Industropolis Batang Sertifikasi 80 Talenta [Kreatif]",
+  "deck": "KEK Industropolis Batang dan Kemenekraf menyertifikasi 80 talenta kreatif lokal, 50 penari dan 30 pengelola acara, dalam program yang digelar 5-7 November 2026.",
+  "date": "11 November 2026",
+  "image": "assets/img/kek-industropolis-batang-sertifikasi-80-talenta-kreatif.jpg",
+  "imageV": "mwch5ei9",
+  "tags": [
+   "Batang",
+   "Industri Kreatif",
+   "Kemenekraf",
+   "KEK"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477889-kemenekraf-dan-kek-industropolis-batang-tingkatkan-kompetensi-sdm-kreatif-lokal"
+ },
+ {
+  "slug": "tabungan-bri-rekor-tertinggi-dana-murah-tembus-70",
+  "category": "Perbankan",
+  "title": "Tabungan BRI [Rekor] Tertinggi, Dana Murah Tembus 70%",
+  "deck": "Tabungan BRI mencapai Rp637,7 triliun hingga September 2026, level tertinggi sepanjang sejarah perusahaan, seiring porsi dana murah yang naik ke 70 persen dari total dana pihak ketiga.",
+  "date": "11 November 2026",
+  "image": "assets/img/tabungan-bri-rekor-tertinggi-dana-murah-tembus-70.jpg",
+  "imageV": "mwch5ext",
+  "tags": [
+   "BRI",
+   "BBRI",
+   "CASA",
+   "BRImo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477885-penghimpunan-tabungan-cetak-rekor-tertinggi-sepanjang-sejarah-bukti-nyata-keberhasilan-transformasi-bri"
+ },
+ {
+  "slug": "danareksa-investment-resmi-lahir-kelola-aum-rp172-5-t",
+  "category": "Pasar Modal",
+  "title": "Danareksa Investment [Resmi] Lahir, Kelola AUM Rp172,5 T",
+  "deck": "Empat manajer investasi BUMN merger jadi Danareksa Investment Management Indonesia, mengelola dana Rp172,5 triliun dan menyasar posisi kedua terbesar nasional.",
+  "date": "11 November 2026",
+  "image": "assets/img/danareksa-investment-resmi-lahir-kelola-aum-rp172-5-t.jpg",
+  "imageV": "mwch5fe3",
+  "tags": [
+   "Danareksa Investment",
+   "Danantara",
+   "merger BUMN",
+   "manajer investasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477880-danareksa-investments-resmi-diluncurkan-dari-merger-4-mi-bumn-aum-capai-rp1725-triliun"
  },
  {
   "slug": "cnaf-direktur-iris-savitri-mundur-dari-jajaran-direksi",
@@ -6332,138 +6468,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261105170710-65692-0/FinancialStatement-2026-III-ASBI.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pssi-bagikan-saham-treasuri-172-juta-lembar-bukan-bonus-laba",
-  "category": "Aksi Korporasi",
-  "title": "PSSI Bagikan [Saham Treasuri] 172 Juta Lembar, Bukan Bonus Laba",
-  "deck": "IMC Pelita Logistik (PSSI) membagikan 172 juta saham treasuri ke pemegang saham dengan rasio 1:30, senilai Rp17,2 miliar, efektif 27 November 2026.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "saham treasuri",
-   "aksi korporasi",
-   "IMC Pelita Logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3180369e5_21fbca31e8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemuda-lampung-unjuk-karya-umkm-dapat-modal",
-  "category": "UMKM",
-  "title": "Pemuda Lampung Unjuk Karya, UMKM Dapat [Modal]",
-  "deck": "Ribuan pemuda Lampung berkumpul di Nusantara Youth Expo 2026, acara yang juga menyalurkan bantuan modal ke pelaku UMKM sambil membahas kesiapan ekonomi generasi muda menuju 2045.",
-  "date": "5 November 2026",
-  "image": "assets/img/pemuda-lampung-unjuk-karya-umkm-dapat-modal.jpg",
-  "imageV": "mw3ji53g",
-  "tags": [
-   "UMKM",
-   "Pemuda",
-   "Lampung",
-   "Indonesia Emas 2045"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476806-menjemput-indonesia-emas-2045-ribuan-pemuda-unjuk-kreativitas-dan-inovasi"
- },
- {
-  "slug": "meta-koreksi-tanggal-cum-ex-dividen-interim-bayar-3-desember",
-  "category": "Aksi Korporasi",
-  "title": "META [Koreksi] Tanggal Cum-Ex Dividen Interim, Bayar 3 Desember",
-  "deck": "Nusantara Infrastructure mengoreksi tanggal cum dan ex dividen interim Rp3,50 per saham di tiga pasar, tanggal pembayaran tetap 3 Desember 2026.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "META",
-   "dividen interim",
-   "corporate action",
-   "KSEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b365a48dc4_cee8d0302e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-dan-abpednas-dorong-literasi-keuangan-desa",
-  "category": "UMKM",
-  "title": "PNM dan ABPEDNAS Dorong [Literasi Keuangan] Desa",
-  "deck": "PNM dan ABPEDNAS teken MoU memperluas literasi keuangan dan pendampingan usaha desa, menyasar jaringan tiga asosiasi dengan 1,2 juta anggota.",
-  "date": "5 November 2026",
-  "image": "assets/img/pnm-dan-abpednas-dorong-literasi-keuangan-desa.jpg",
-  "imageV": "mw3ji5i5",
-  "tags": [
-   "PNM",
-   "ABPEDNAS",
-   "literasi keuangan",
-   "pemberdayaan desa"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476805-literasi-keuangan-jadi-tantangan-ekonomi-desa-pnm-dan-abpednas-dorong-pendampingan"
- },
- {
-  "slug": "kejaksaan-ikut-awasi-penyaluran-pupuk-subsidi-di-karo",
-  "category": "BUMN",
-  "title": "Kejaksaan Ikut [Awasi] Penyaluran Pupuk Subsidi di Karo",
-  "deck": "Kejaksaan Negeri Karo akan memantau langsung penyaluran pupuk bersubsidi sampai ke kios usai Pupuk Indonesia mensosialisasikan aturan teknis baru yang berlaku sejak September 2026.",
-  "date": "5 November 2026",
-  "image": "assets/img/kejaksaan-ikut-awasi-penyaluran-pupuk-subsidi-di-karo.jpg",
-  "imageV": "mw3d2ym0",
-  "tags": [
-   "Pupuk Indonesia",
-   "Pupuk Subsidi",
-   "Kejaksaan",
-   "Karo"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/901/pupuk-indonesia-bersama-kajari-sinergi-perbaiki-tata-kelola-penyaluran-pupuk-bersubsidi-di-karo",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "alokasi-npk-kakao-mamuju-bertambah-500-ton-jadi-5-670-ton",
-  "category": "BUMN",
-  "title": "Alokasi NPK Kakao Mamuju [Bertambah] 500 Ton Jadi 5.670 Ton",
-  "deck": "Pemda Mamuju menambah alokasi pupuk subsidi NPK Kakao 500 ton jadi 5.670 ton lewat realokasi kedua berlaku sejak 30 Oktober 2026; realisasi penyaluran sudah 82,4 persen.",
-  "date": "5 November 2026",
-  "image": "assets/img/alokasi-npk-kakao-mamuju-bertambah-500-ton-jadi-5-670-ton.jpg",
-  "imageV": "mw3d30tg",
-  "tags": [
-   "Pupuk Indonesia",
-   "NPK Kakao",
-   "Mamuju",
-   "pupuk subsidi"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/902/alokasi-bertambah-pupuk-indonesia-amankan-ketersediaan-dan-penyaluran-npk-kakao-di-mamuju",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "cabai-dan-telur-surplus-di-mataram-kemendag-pantau-jelang-nataru",
-  "category": "Makroekonomi",
-  "title": "Cabai dan Telur [Surplus] di Mataram, Kemendag Pantau Jelang Nataru",
-  "deck": "Menteri Perdagangan Budi Santoso mendapati harga cabai dan telur di Pasar Kebon Roek Mataram di bawah harga acuan, dengan surplus pasokan dialihkan ke daerah lain yang kekurangan jelang Nataru.",
-  "date": "5 November 2026",
-  "image": "assets/img/cabai-dan-telur-surplus-di-mataram-kemendag-pantau-jelang-nataru.jpg",
-  "imageV": "mw3d3adn",
-  "tags": [
-   "Kemendag",
-   "Harga Pangan",
-   "Nataru",
-   "Cabai"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-pantau-pasar-kebon-roek-mataram-cabai-dan-telur-ayam-surplus-jelang-nataru",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "pasar-murah-di-mataram-beras-sphp-rp11-600-per-kg",
-  "category": "Bisnis",
-  "title": "Pasar Murah di Mataram, Beras SPHP [Rp11.600] per Kg",
-  "deck": "Kementerian Perdagangan menggelar pasar murah di Mataram, NTB, menjual beras, minyak goreng, gula, dan bumbu dapur di bawah harga eceran tertinggi.",
-  "date": "5 November 2026",
-  "image": "assets/img/pasar-murah-di-mataram-beras-sphp-rp11-600-per-kg.jpg",
-  "imageV": "mw3d3f3e",
-  "tags": [],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-sinergi-mendag-busan-buka-pasar-murah-di-mataram-jaga-harga-bapok",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

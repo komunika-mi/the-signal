@@ -1662,6 +1662,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tcpi-entitas-anak-galangan-kapal-modal-disetor-rp25-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TCPI [Entitas Anak] Galangan Kapal, Modal Disetor Rp25 Miliar",
+  "deck": "Transcoal Pacific mendirikan anak usaha galangan kapal dengan modal disetor Rp25 miliar, menguasai 99% saham bersama PT Trans Energi Logistik.",
+  "date": "10 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TCPI",
+   "entitas anak",
+   "galangan kapal",
+   "pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b97b8aa29_a3f0a778f1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "skyb-resmi-delisting-dari-bei-gabung-17-emiten-lain",
   "category": "Aksi Korporasi",
   "title": "SKYB Resmi [Delisting] dari BEI, Gabung 17 Emiten Lain",
@@ -6449,21 +6465,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-sinergi-mendag-busan-buka-pasar-murah-di-mataram-jaga-harga-bapok",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "zp-waran-untr-tak-alami-penyesuaian-usai-dividen-tunai",
-  "category": "Aksi Korporasi",
-  "title": "ZP: Waran UNTR Tak Alami [Penyesuaian] usai Dividen Tunai",
-  "deck": "Maybank Sekuritas (ZP) menegaskan dua waran terstruktur UNTRZPCZ6A dan UNTRZPCM7A tidak disesuaikan meski UNTR membagikan dividen tunai pada 28 Oktober 2026.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "UNTR",
-   "waran terstruktur",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d4975bdc9_d3fe23dc27.pdf",
-  "sourceLabel": "IDX"
  }
 ];

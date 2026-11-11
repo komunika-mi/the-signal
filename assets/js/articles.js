@@ -2781,6 +2781,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "tcpi-entitas-anak-galangan-kapal-modal-disetor-rp25-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TCPI [Entitas Anak] Galangan Kapal, Modal Disetor Rp25 Miliar",
+  "deck": "Transcoal Pacific mendirikan anak usaha galangan kapal dengan modal disetor Rp25 miliar, menguasai 99% saham bersama PT Trans Energi Logistik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 November 2026",
+  "isoDate": "2026-11-10T14:56:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b97b8aa29_a3f0a778f1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TCPI",
+  "tags": [
+   "TCPI",
+   "entitas anak",
+   "galangan kapal",
+   "pelayaran"
+  ],
+  "body": [
+   "PT Transcoal Pacific Tbk (TCPI) mendirikan entitas anak baru yang akan bergerak di bidang galangan kapal, khususnya jasa perawatan dan perbaikan kapal, dengan tanggal kejadian 9 November 2026. Kepemilikan saham di entitas anak ini terbagi antara TCPI sebesar 99 persen dan PT Trans Energi Logistik, perusahaan berkedudukan di Jakarta Selatan, sebesar 1 persen. Modal dasar entitas anak ini ditetapkan Rp50 miliar, sementara modal yang ditempatkan dan disetor sejauh ini Rp25 miliar.",
+   "Dalam laporannya ke Bursa Efek Indonesia, TCPI menyebut pendirian unit usaha ini bertujuan meningkatkan efisiensi operasional lewat optimalisasi proses perawatan dan perbaikan kapal, pengendalian biaya pemeliharaan, serta menjaga kesiapan dan ketersediaan armada kapal milik perseroan dan entitas anaknya. Dari sisi hukum, pendirian ini mewajibkan TCPI dan PT Trans Energi Logistik menyetor modal sesuai porsi kepemilikan masing-masing, sebagaimana diatur dalam akta pendirian entitas anak baru tersebut. Laporan ditandatangani oleh Direktur TCPI, Anton Ramada Saragih.",
+   "TCPI menyatakan langkah ini diharapkan berdampak positif terhadap kondisi keuangan serta mendukung kelangsungan usaha perseroan dan entitas anaknya, meski dokumen tidak merinci target pendapatan atau proyeksi penghematan biaya dari unit perawatan kapal yang baru ini."
+  ],
+  "fotoAdegan": "Workers repairing a cargo ship hull in an Indonesian shipyard dry dock, scaffolding around steel hull, overcast morning light",
+  "takeaway": "Laporan ini condong netral bagi TCPI: mendirikan unit galangan kapal sendiri memang menambah kemandirian perseroan dalam merawat armadanya, tapi modal disetor Rp25 miliar relatif kecil dan belum disertai angka target pendapatan atau penghematan biaya, jadi dampaknya ke keuangan belum bisa dipastikan sebesar klaim perseroan. Yang tersentuh di sini adalah arus kas, karena penyetoran modal 99 persen porsi TCPI dari Rp25 miliar itu akan keluar sebagai investasi di entitas anak, bukan beban yang langsung menggerus laba, tapi tetap mengurangi kas yang bisa dipakai perseroan untuk kebutuhan lain. Yang perlu dipantau berikutnya adalah mulai beroperasinya galangan kapal baru ini dan apakah penghematan biaya perawatan armada yang dijanjikan benar terealisasi, karena dokumen ini tidak menyebut tanggal operasional atau target waktu lain selain tanggal pendirian itu sendiri.",
+  "sentimen": "netral",
+  "judulIdx": "Pendirian Entitas Anak Baru"
+ },
+ {
   "slug": "skyb-resmi-delisting-dari-bei-gabung-17-emiten-lain",
   "category": "Aksi Korporasi",
   "title": "SKYB Resmi [Delisting] dari BEI, Gabung 17 Emiten Lain",

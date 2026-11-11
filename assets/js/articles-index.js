@@ -56,6 +56,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477823-transformasi-pariwisata-kalsel-geopark-meratus-jadi-penggerak-ekonomi-banua"
  },
  {
+  "slug": "kota-harga-saham-anjlok-23-klaim-tak-ada-info-baru",
+  "category": "Aksi Korporasi",
+  "title": "KOTA: Harga Saham [Anjlok] 23%, Klaim Tak Ada Info Baru",
+  "deck": "Bursa meminta penjelasan setelah saham DMS Propertindo turun 23,29% dalam sepekan ke Rp56, disertai volume transaksi yang justru ikut menyusut.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "DMS Propertindo",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/68c9c82e50_06cce0b26d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "surplus-beras-kalsel-tembus-1-2-juta-ton-teratas-nasional",
   "category": "Industri",
   "title": "Surplus Beras Kalsel [Tembus] 1,2 Juta Ton, Teratas Nasional",
@@ -71,6 +87,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477818-surplus-beras-tembus-12-juta-ton-kalsel-kokoh-jadi-salah-satu-lumbung-pangan-nasional"
+ },
+ {
+  "slug": "admf-laporkan-realisasi-100-dana-sukuk-rp498-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ADMF Laporkan Realisasi 100% [Dana] Sukuk Rp498 Miliar",
+  "deck": "ADMF melaporkan ke OJK bahwa seluruh dana hasil Sukuk Mudharabah Berkelanjutan VI Tahap IV, Rp498,3 miliar, sudah terpakai 100 persen sesuai rencana, tanpa sisa dana.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMF",
+   "sukuk mudharabah",
+   "pembiayaan konsumen",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0e12591dca_69166be619.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "admf-rampungkan-realisasi-dana-obligasi-rp1-65-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ADMF Rampungkan Realisasi Dana Obligasi [Rp1,65 Triliun]",
+  "deck": "ADMF melaporkan seluruh dana Rp1,65 triliun dari Obligasi Berkelanjutan VII Tahap IV sudah terpakai 100 persen sesuai rencana, tanpa sisa dana.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMF",
+   "obligasi",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b79a035df1_a038849c09.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "andi-konfirmasi-pengambilalihan-33-saham-oleh-pjs",
+  "category": "Aksi Korporasi",
+  "title": "ANDI Konfirmasi [Pengambilalihan] 33% Saham oleh PJS",
+  "deck": "ANDI menjelaskan ke Bursa bahwa PT Puncak Jaya Sejahtera membeli 33 persen saham senilai Rp92,57 miliar dari APS dan CEP, menjadi pengendali baru tanpa penilaian independen atas harga transaksi.",
+  "date": "11 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANDI",
+   "pengambilalihan",
+   "kelapa sawit",
+   "tender offer"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2117e8719c_9ed5abbab1.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "intp-panggil-rupslb-direktur-utama-dan-komisaris-mundur",
@@ -6402,71 +6466,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476651-tbi-entikong-jadi-pintu-perdagangan-lintas-negara-bnppdt-genjot-percepatan-operasional"
- },
- {
-  "slug": "kija-pendapatan-9m26-naik-16-laba-bersih-turun-38",
-  "category": "Aksi Korporasi",
-  "title": "KIJA: Pendapatan 9M26 [Naik] 16%, Laba Bersih Turun 38%",
-  "deck": "Jababeka membukukan pendapatan Rp4,25 triliun pada 9M26, naik 16 persen, tapi laba bersih turun 38 persen akibat biaya refinancing obligasi dolar.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KIJA",
-   "Jababeka",
-   "kinerja keuangan",
-   "kawasan industri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a3c6bb392_c89012585d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-prabowo-buka-akses-kredit-bagi-14-juta-ibu",
-  "category": "UMKM",
-  "title": "Presiden Prabowo Buka Akses Kredit bagi [14 Juta] Ibu",
-  "deck": "PNM dan Kementerian UMKM menandatangani kerja sama Kredit Perempuan Prasejahtera, mulai berjalan 9 November 2026 dengan target 1,7 juta nasabah hingga akhir tahun.",
-  "date": "4 November 2026",
-  "image": "assets/img/presiden-prabowo-buka-akses-kredit-bagi-14-juta-ibu.jpg",
-  "imageV": "mw29dlwg",
-  "tags": [
-   "UMKM",
-   "PNM",
-   "KPPS",
-   "Kredit Perempuan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476647-presiden-prabowo-bakal-buka-akses-modal-bagi-14-juta-ibu-ibu-di-seluruh-indonesia"
- },
- {
-  "slug": "bike-koreksi-kedua-ke-bursa-rincian-akuisisi-bum",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Koreksi Kedua ke Bursa, Rincian Akuisisi [BUM]",
-  "deck": "Koreksi kedua jawaban BIKE ke Bursa mengungkap akuisisi 72% saham BUM senilai Rp72 juta, menambah daftar transaksi yang pembayarannya masih tertunda menanti pinjaman pengendali.",
-  "date": "4 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43841d172b_aef1884f84.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kredit-perempuan-prasejahtera-resmi-bunga-8-persen",
-  "category": "UMKM",
-  "title": "Kredit Perempuan Prasejahtera Resmi Bunga [8 Persen]",
-  "deck": "Kementerian UMKM dan PNM menyalurkan Kredit Perempuan Prasejahtera dengan bunga flat 8 persen per tahun, disubsidi pemerintah senilai Rp2,62 triliun.",
-  "date": "4 November 2026",
-  "image": "assets/img/kredit-perempuan-prasejahtera-resmi-bunga-8-persen.jpg",
-  "imageV": "mw29dmcn",
-  "tags": [
-   "UMKM",
-   "PNM",
-   "Kredit Perempuan Prasejahtera",
-   "Subsidi Bunga"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476638-kementerian-umkm-dan-pnm-siap-salurkan-kredit-perempuan-prasejahtera-bunga-flat-8-persen-per-tahun"
  }
 ];

@@ -86,6 +86,32 @@ var ARTICLES = [
   "imageV": "mwbxrvl7"
  },
  {
+  "slug": "kota-harga-saham-anjlok-23-klaim-tak-ada-info-baru",
+  "category": "Aksi Korporasi",
+  "title": "KOTA: Harga Saham [Anjlok] 23%, Klaim Tak Ada Info Baru",
+  "deck": "Bursa meminta penjelasan setelah saham DMS Propertindo turun 23,29% dalam sepekan ke Rp56, disertai volume transaksi yang justru ikut menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T16:23:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/68c9c82e50_06cce0b26d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "DMS Propertindo",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) meminta penjelasan tertulis dari PT DMS Propertindo Tbk (KOTA) melalui surat nomor S-13959/BEI.PP3/11-2026 tertanggal 9 November 2026, setelah memantau penurunan harga dan aktivitas transaksi saham perseroan. Dalam periode 29 Oktober sampai 6 November 2026, harga saham KOTA ditutup turun kumulatif Rp17 atau 23,29 persen, dari Rp73 pada penutupan 2 November 2026 menjadi Rp56. Rata-rata volume transaksi pada periode itu juga menyusut menjadi 240.028.325 saham dengan frekuensi 5.781 kali transaksi, dibandingkan 495.835.100 saham dengan frekuensi 9.371 kali pada 2 November 2026.",
+   "Menjawab permintaan tersebut melalui surat nomor 351/DMSP/XI/2026, DMS Propertindo menyatakan seluruh informasi material terkait kegiatan usaha, kondisi keuangan, kinerja operasional, dan pengembangan usaha, termasuk kerja sama yang dilakukan entitas anak, telah disampaikan ke publik sesuai aturan keterbukaan informasi. Perseroan juga menegaskan belum ada rencana tindakan korporasi yang akan terjadi dalam tiga bulan mendatang. Perseroan menyebut hanya memiliki wacana pengembangan usaha yang bersifat strategis dan indikatif, namun masih memerlukan kajian lebih lanjut sebelum diputuskan menjadi tindakan korporasi resmi.",
+   "Soal pemegang saham utama, Corporate Secretary perseroan menyatakan belum mendapat konfirmasi resmi mengenai rencana kepemilikan saham pemegang saham utama tersebut. Perseroan hanya menyebut tidak menutup kemungkinan pemegang saham utama menambah kepemilikannya, dengan mempertimbangkan kondisi pasar dan kinerja perseroan, tanpa kepastian waktu atau jumlah. DMS Propertindo juga memastikan tidak ada laporan aktivitas pemegang saham tertentu berdasarkan POJK Nomor 4 Tahun 2024 yang belum disampaikan ke OJK maupun BEI."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a mid-rise residential building site in Jakarta, overcast afternoon light, crane visible in distance",
+  "takeaway": "Laporan ini netral bagi fundamental KOTA karena intinya hanya penegasan bahwa tidak ada informasi material baru yang disembunyikan, sementara anjloknya harga saham sendiri sudah terjadi di pasar sebelum surat ini terbit. Yang menarik dicermati adalah volume transaksi justru ikut turun saat harga jatuh, bukan melonjak seperti pada aksi jual panik, artinya sahamnya memang tipis diperdagangkan sehingga harga lebih mudah bergerak tajam meski jumlah transaksinya kecil, ini soal likuiditas, yakni seberapa mudah saham itu diperjualbelikan tanpa mengubah harga secara drastis. Perlu diingat pula perseroan baru memanggil ulang RUPSLB pada 5 November 2026 untuk membahas rights issue dan akuisisi, yang kalau terlaksana akan menambah jumlah saham beredar dan bisa mengecilkan porsi kepemilikan investor lama. Yang perlu dipantau selanjutnya adalah kapan perseroan merinci harga dan rasio rights issue serta nilai akuisisi yang dibahas dalam RUPSLB tersebut, dan apakah Corporate Secretary akhirnya mendapat konfirmasi resmi dari pemegang saham utama soal rencana kepemilikannya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "surplus-beras-kalsel-tembus-1-2-juta-ton-teratas-nasional",
   "category": "Industri",
   "title": "Surplus Beras Kalsel [Tembus] 1,2 Juta Ton, Teratas Nasional",
@@ -111,6 +137,85 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Angka paling konkret di sini adalah surplus beras 1,2 juta ton dan skor Indeks Ketahanan Pangan 81,98 yang membuat Kalsel menempati peringkat pertama nasional, didukung Nilai Tukar Petani yang naik tiga bulan berturut-turut hingga Maret 2026. Yang terdampak langsung adalah petani Kalsel, karena NTP yang naik berarti harga jual hasil panen mereka tumbuh lebih cepat dibanding biaya hidup, sementara konsumen di provinsi itu diuntungkan lewat inflasi pangan yang relatif terjaga. Tapi surplus besar saja tidak otomatis menaikkan pendapatan petani kalau hasilnya cuma dijual mentah, dan itu sebabnya pemprov mulai mendorong hilirisasi lewat beras khusus dan beras analog dari ubi kayu, meski proyek itu baru berjalan di level kelompok tani di satu kabupaten. Arah yang terlihat adalah pergeseran dari sekadar mengejar volume produksi menuju nilai tambah, dan yang akan membuktikan apakah pergeseran ini nyata adalah apakah proyek beras analog dan beras khusus tersebut naik skala dari percontohan menjadi produksi massal, serta apakah Kalsel masih bertahan di peringkat atas saat skor IKP 2026 dirilis.",
   "imageV": "mwbxrw0m"
+ },
+ {
+  "slug": "admf-laporkan-realisasi-100-dana-sukuk-rp498-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ADMF Laporkan Realisasi 100% [Dana] Sukuk Rp498 Miliar",
+  "deck": "ADMF melaporkan ke OJK bahwa seluruh dana hasil Sukuk Mudharabah Berkelanjutan VI Tahap IV, Rp498,3 miliar, sudah terpakai 100 persen sesuai rencana, tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T16:02:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0e12591dca_69166be619.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADMF",
+  "tags": [
+   "ADMF",
+   "sukuk mudharabah",
+   "pembiayaan konsumen",
+   "penggunaan dana"
+  ],
+  "body": [
+   "Adira Dinamika Multi Finance Tbk (ADMF) menyampaikan laporan realisasi penggunaan dana hasil penawaran umum kepada Otoritas Jasa Keuangan pada 11 November 2026, ditandatangani oleh Sylvanus Gani Kukuh Mendrofa selaku Corporate Secretary sekaligus Direktur perusahaan. Laporan ini membahas Sukuk Mudharabah Berkelanjutan VI Adira Finance Tahap IV Tahun 2026, yang efektif pada 26 Juni 2025. Total dana yang diperoleh dari penerbitan sukuk ini sebesar Rp500 miliar, dengan biaya penawaran umum sebesar Rp1.664.102.093, sehingga hasil bersih yang diterima ADMF adalah Rp498.335.897.907.",
+   "Sesuai rencana yang tertulis dalam prospektus, seluruh hasil bersih sebesar Rp498.335.897.907 tersebut memang dialokasikan 100 persen untuk digunakan sesuai tujuan penerbitan, dan laporan ini mengonfirmasi bahwa realisasinya kini sudah sama persis dengan rencana tersebut. Sisa dana yang belum terpakai tercatat nol, artinya tidak ada dana yang masih ditempatkan di instrumen simpanan atau menunggu penyaluran.",
+   "Rincian biaya penawaran umum yang dilaporkan meliputi biaya jasa penjaminan emisi Rp138.750.000, biaya jasa penyelenggaraan Rp832.500.000, biaya jasa penjualan Rp138.750.000, biaya jasa profesi penunjang pasar modal Rp143.525.581, biaya jasa lembaga penunjang pasar modal Rp288.600.000, biaya jasa konsultasi keuangan nol, dan biaya lain-lain Rp121.976.512. Lampiran terpisah yang memuat rincian lebih detail menyebut total biaya tersebut setara 0,333 persen dari nilai pokok sukuk, dengan catatan bahwa realisasi biaya ini berbeda dari angka di prospektus karena ada faktor perpajakan yang belum dimasukkan saat prospektus disusun."
+  ],
+  "fotoAdegan": "Rows of parked motorcycles outside a busy multifinance branch office on a Jakarta street, midday light, no signage visible.",
+  "takeaway": "Laporan ini netral bagi ADMF karena hanya mengonfirmasi bahwa dana Rp498,3 miliar dari penerbitan sukuk sudah terpakai seluruhnya sesuai rencana, tanpa penyimpangan atau sisa dana yang mencurigakan. Pos yang tersentuh di sini adalah sisi pendanaan dan arus kas perusahaan pembiayaan ini: sukuk menambah dana segar untuk disalurkan ke nasabah pembiayaan konsumen, sementara ADMF nantinya wajib membayar bagi hasil, semacam bunga tapi berbasis prinsip syariah, kepada pemegang sukuk, bukan dividen ke pemegang saham, sehingga tidak langsung memengaruhi laba per saham. Yang perlu dipantau selanjutnya adalah apakah ADMF akan menerbitkan tahap lanjutan dari program Sukuk Mudharabah Berkelanjutan VI ini dengan realisasi dana yang tetap konsisten seperti Tahap IV ini, sebab dokumen yang beredar hari ini tidak menyebut tanggal jatuh tempo pembayaran sukuk kepada investor.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "admf-rampungkan-realisasi-dana-obligasi-rp1-65-triliun",
+  "category": "Aksi Korporasi",
+  "title": "ADMF Rampungkan Realisasi Dana Obligasi [Rp1,65 Triliun]",
+  "deck": "ADMF melaporkan seluruh dana Rp1,65 triliun dari Obligasi Berkelanjutan VII Tahap IV sudah terpakai 100 persen sesuai rencana, tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T16:00:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b79a035df1_a038849c09.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADMF",
+  "tags": [
+   "ADMF",
+   "obligasi",
+   "penggunaan dana",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Adira Dinamika Multi Finance Tbk (ADMF) melaporkan realisasi penggunaan dana hasil Obligasi Berkelanjutan VII Adira Finance Tahap IV Tahun 2026 yang efektif sejak 26 Juni 2025. Dari total dana yang terkumpul sebesar Rp1,65 triliun, perusahaan mengeluarkan biaya penawaran umum Rp4,87 miliar, sehingga hasil bersih yang bisa dipakai adalah Rp1.645.125.813.093. Menurut laporan ini, seluruh dana bersih tersebut sudah terpakai 100 persen sesuai rencana yang tertulis di prospektus, dengan sisa dana nol rupiah.",
+   "Rincian biaya penerbitan obligasi ini antara lain biaya jasa penjaminan emisi Rp457,875 juta, biaya jasa penyelenggaraan (management fee) Rp2,747 miliar, biaya jasa penjualan Rp457,875 juta, biaya jasa profesi penunjang pasar modal Rp294,92 juta, biaya jasa lembaga penunjang pasar modal Rp799,2 juta, dan biaya lain-lain seperti biaya pencatatan di BEI serta jasa audit sebesar Rp117,06 juta. Berdasarkan lampiran terpisah, total biaya penawaran umum ini setara 0,295 persen dari nilai pokok obligasi. Perusahaan juga menyebutkan bahwa realisasi biaya ini sedikit berbeda dari yang diungkapkan dalam prospektus karena ada faktor perpajakan yang belum dimasukkan saat prospektus disusun.",
+   "Laporan ditandatangani oleh Sylvanus Gani Kukuh Mendrofa selaku Corporate Secretary ADMF dan disampaikan ke Otoritas Jasa Keuangan pada 11 November 2026 untuk memenuhi ketentuan Peraturan OJK Nomor 30/POJK.04/2015 tentang Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum. Surat ini juga ditembuskan ke Bursa Efek Indonesia dan PT Bank Negara Indonesia selaku wali amanat obligasi tersebut."
+  ],
+  "fotoAdegan": "Motorcycles and cars parked outside a busy consumer financing office in a Jakarta commercial district, late afternoon light",
+  "takeaway": "Laporan ini netral bagi ADMF karena isinya hanya mengonfirmasi bahwa dana obligasi Rp1,65 triliun sudah habis terpakai sesuai rencana di prospektus, tanpa sisa dana atau penyimpangan yang mengubah pandangan terhadap kinerja perusahaan. Pos yang tersentuh adalah struktur utang dan beban bunga ADMF, karena dana dari penerbitan surat utang ini menambah kewajiban perusahaan yang harus dibayar kembali ke pemegang obligasi, sementara ongkos penerbitannya, totalnya sekitar 0,295 persen dari nilai obligasi, ikut menjadi beban keuangan yang sudah dikeluarkan di muka. Laporan ini juga menutup kewajiban pelaporan ADMF ke OJK untuk obligasi tahap ini, sehingga yang perlu dipantau selanjutnya adalah bagaimana dana yang sudah disalurkan ini tercermin dalam pertumbuhan portofolio pembiayaan ADMF pada laporan keuangan berikutnya, karena dokumen ini tidak merinci jatuh tempo pembayaran pokok obligasi kepada investor.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "andi-konfirmasi-pengambilalihan-33-saham-oleh-pjs",
+  "category": "Aksi Korporasi",
+  "title": "ANDI Konfirmasi [Pengambilalihan] 33% Saham oleh PJS",
+  "deck": "ANDI menjelaskan ke Bursa bahwa PT Puncak Jaya Sejahtera membeli 33 persen saham senilai Rp92,57 miliar dari APS dan CEP, menjadi pengendali baru tanpa penilaian independen atas harga transaksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 November 2026",
+  "isoDate": "2026-11-11T15:41:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2117e8719c_9ed5abbab1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANDI",
+  "tags": [
+   "ANDI",
+   "pengambilalihan",
+   "kelapa sawit",
+   "tender offer"
+  ],
+  "body": [
+   "PT Andira Agro Tbk (ANDI) menjawab permintaan penjelasan Bursa Efek Indonesia terkait pengambilalihan sahamnya oleh PT Puncak Jaya Sejahtera (PJS). Dalam surat tertanggal 10 November 2026, manajemen ANDI menjelaskan bahwa PJS membeli seluruh 699.970.000 saham milik PT Anugerah Perkasa Semesta (APS) dan 2.385.530.000 saham milik PT Central Energi Pratama (CEP), dengan harga Rp30 per saham atau total Rp92.565.000.000. Setelah transaksi ini, kepemilikan PJS menjadi 3.085.500.000 saham atau 33 persen dari total saham ANDI. APS kini tidak lagi memegang saham ANDI, sementara CEP masih memegang 24,22 persen dan menyatakan belum punya rencana melepas sisa sahamnya. Pemegang saham lain, termasuk Direktur Utama Francis Indarto dengan 1,77 persen dan publik dengan 41,01 persen, tidak berubah.",
+   "Karena kepemilikan PJS hanya 33 persen, di bawah ambang 50 persen, ANDI menjelaskan dasar status PJS sebagai pengendali baru berasal dari Surat Pernyataan Bersama antara PJS dan CEP tertanggal 23 Oktober 2026. Perjanjian itu memberi PJS hak nominasi dan dukungan suara yang memungkinkannya menentukan mayoritas komposisi direksi dan komisaris. ANDI juga menyatakan tidak ada penilaian kewajaran atau laporan penilai independen yang dipakai untuk menetapkan harga Rp30 per saham. Harga itu disebut murni hasil kesepakatan para pihak dengan mempertimbangkan kondisi pasar, laporan keuangan per 30 Juni 2026, dan harga perdagangan saham ANDI di bursa. Sumber dana pembelian berasal dari dana internal PJS, bukan pinjaman.",
+   "Terkait kewajiban Penawaran Tender Wajib (Mandatory Tender Offer), PJS sudah mengajukan dokumen ke Otoritas Jasa Keuangan pada 28 Oktober 2026 dan masih dalam proses review, sehingga jadwal pengumuman penawaran belum ditentukan. Harga tender nantinya akan memakai angka yang lebih tinggi antara Rp30 per saham atau rata-rata harga tertinggi perdagangan 90 hari sebelum pengumuman pengambilalihan pada 27 Oktober 2026. Pihak yang ditunjuk untuk proses ini adalah PT Indo Premier Securities sebagai perusahaan efek, NKN Legal sebagai konsultan hukum, PT Kustodian Sentral Efek Indonesia, dan PT Datindo Entrycom sebagai biro administrasi efek.",
+   "PJS sendiri baru berdiri pada 10 September 2017 dengan kegiatan usaha di bidang perdagangan dan konsultasi manajemen agribisnis, dan sahamnya dikuasai 99 persen oleh PT Daya Semesta Agro Persada yang disebut sudah berpengalaman di agribisnis sejak 1997. Pemilik manfaat akhir PJS adalah Erik Setiawan, yang juga menjabat direktur PJS. ANDI menyampaikan rencana perubahan susunan direksi dan komisaris akan diajukan lewat Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang jadwalnya belum ditetapkan, serta rencana awal perbaikan kebun kelapa sawit pada November 2026 hingga Desember 2028 dan peningkatan efisiensi pabrik pada Januari 2027 hingga Desember 2028, yang dibiayai dari dana internal dan pemegang saham. PJS menegaskan tidak ada rencana melepas kepemilikannya dalam waktu dekat maupun rencana delisting dan go private."
+  ],
+  "fotoAdegan": "Rows of oil palm trees on a plantation with workers collecting fresh fruit bunches onto a cart, tropical morning haze",
+  "takeaway": "Kami menilai perubahan pengendali ini netral bagi fundamental ANDI, karena masuknya pemodal strategis dengan rencana investasi di kebun dan pabrik memang positif, tetapi penetapan harga Rp30 per saham tanpa penilaian kewajaran dari pihak independen membuat kewajaran transaksi ini sulit diuji dari luar. Transaksi jual beli saham ini sendiri tidak menambah jumlah saham beredar ANDI maupun mengubah ekuitasnya, karena yang berpindah tangan adalah saham lama, bukan saham baru, meski rencana perbaikan kebun dan pabrik yang disebut dibiayai dari 'dana internal dan pemegang saham' bisa saja berarti ada suntikan modal baru ke ANDI di kemudian hari yang akan menambah ekuitas perusahaan. Yang perlu dipantau berikutnya adalah pengumuman izin Penawaran Tender Wajib dari OJK, karena itu akan menentukan kapan pemegang saham publik ANDI bisa menjual sahamnya ke PJS dengan harga Rp30 per saham atau rata-rata harga tertinggi 90 hari sebelum 27 Oktober 2026, mana yang lebih besar. Jadwal RUPSLB yang akan menentukan susunan direksi dan komisaris baru Perseroan juga belum diumumkan dan patut ditunggu.",
+  "sentimen": "netral"
  },
  {
   "slug": "intp-panggil-rupslb-direktur-utama-dan-komisaris-mundur",

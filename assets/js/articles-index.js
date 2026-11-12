@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekonomi-ri-tumbuh-5-47-persen-harga-minyak-melandai",
+  "category": "Makroekonomi",
+  "title": "Ekonomi RI Tumbuh 5,47 Persen, Harga Minyak [Melandai]",
+  "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada kuartal III 2026, ditopang harapan pelandaian harga minyak dunia di tengah suku bunga global yang masih tinggi.",
+  "date": "12 November 2026",
+  "image": "assets/img/ekonomi-ri-tumbuh-5-47-persen-harga-minyak-melandai.jpg",
+  "imageV": "mwd29m2n",
+  "tags": [
+   "harga minyak",
+   "pertumbuhan ekonomi",
+   "KSSK",
+   "ekonomi global"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477961-ekonomi-indonesia-tumbuh-547-persen-penurunan-harga-minyak-jadi-harapan-di-tengah-tekanan-global"
+ },
+ {
   "slug": "rupo-medp-17-november-alih-dana-rp427-m-ke-ekspansi-deb",
   "category": "Aksi Korporasi",
   "title": "RUPO MEDP 17 November: [Alih] Dana Rp427 M ke Ekspansi DEB",
@@ -6453,22 +6470,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d03d0b2c4_7e0bd418c8.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "tarif-listrik-tidak-naik-lonjakan-tagihan-karena-cuaca-panas",
-  "category": "Energi",
-  "title": "Tarif Listrik [Tidak] Naik, Lonjakan Tagihan karena Cuaca Panas",
-  "deck": "FKBI menegaskan tarif listrik Triwulan IV 2026 tidak naik. Tagihan yang terasa membesar dipicu cuaca panas yang mendorong pemakaian AC lebih banyak.",
-  "date": "5 November 2026",
-  "image": "assets/img/tarif-listrik-tidak-naik-lonjakan-tagihan-karena-cuaca-panas.jpg",
-  "imageV": "mw3ji4o1",
-  "tags": [
-   "tarif listrik",
-   "PLN",
-   "cuaca panas",
-   "konsumen"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476820-tarif-listrik-tidak-naik-masyarakat-diminta-bijak-kelola-pemakaian"
  }
 ];

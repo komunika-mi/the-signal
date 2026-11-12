@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekonomi-ri-tumbuh-5-47-persen-harga-minyak-melandai",
+  "category": "Makroekonomi",
+  "title": "Ekonomi RI Tumbuh 5,47 Persen, Harga Minyak [Melandai]",
+  "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada kuartal III 2026, ditopang harapan pelandaian harga minyak dunia di tengah suku bunga global yang masih tinggi.",
+  "image": "assets/img/ekonomi-ri-tumbuh-5-47-persen-harga-minyak-melandai.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T11:03:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477961-ekonomi-indonesia-tumbuh-547-persen-penurunan-harga-minyak-jadi-harapan-di-tengah-tekanan-global",
+  "tags": [
+   "harga minyak",
+   "pertumbuhan ekonomi",
+   "KSSK",
+   "ekonomi global"
+  ],
+  "body": [
+   "Perekonomian Indonesia tumbuh 5,47 persen pada kuartal III 2026, di tengah gejolak ekonomi global yang meliputi tekanan inflasi dan lonjakan harga energi akibat konflik di Timur Tengah. Kinerja ini penting karena menunjukkan daya tahan ekonomi dalam negeri kendati tekanan dari luar belum sepenuhnya mereda.",
+   "Salah satu kabar baik datang dari harga minyak dunia yang mulai melandai, dari sempat menembus US$100 per barel menjadi berkisar US$92 per barel. Sekretaris Komite Stabilitas Sistem Keuangan (KSSK) Herman Saheruddin menyampaikan hal ini dalam Media Briefing Jawa Timur Triwulan IV 2026 di Surabaya, Rabu (11/11/2026), sembari berharap tren penurunan ini berlanjut agar ekonomi Indonesia bisa tumbuh lebih baik lagi.",
+   "Herman menjelaskan, tekanan ekonomi global bukan hanya berasal dari konflik geopolitik, tapi juga dari kebijakan bank sentral di berbagai negara yang masih menahan suku bunga tinggi dalam waktu lebih lama dari biasanya, demi menekan inflasi yang masih membayangi banyak negara. Terganggunya pasokan minyak mentah dari Timur Tengah akibat konflik geopolitik menjadi salah satu pemicu utama kenaikan harga energi global tersebut.",
+   "Herman menilai perkembangan geopolitik global masih perlu dicermati, termasuk hasil pemilu sela Amerika Serikat pada 3 November 2026 yang dinilai memberi secercah harapan meredanya ketegangan geopolitik pada 2027. Meski begitu, ia menegaskan risiko dari kondisi global tetap perlu diantisipasi karena perubahan situasi internasional bisa berdampak pada stabilitas ekonomi dalam negeri."
+  ],
+  "fotoAdegan": "Oil tanker anchored at a busy Indonesian port, cargo cranes unloading containers nearby, hazy tropical afternoon light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/12/6af53980c4176-ekonomi-indonesia-tumbuh-547-persen-penurunan-harga-minyak-jadi-harapan-di-tengah-tekanan-global_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah harga minyak dunia yang turun dari sempat di atas US$100 ke sekitar US$92 per barel, bersamaan dengan pertumbuhan ekonomi Indonesia yang tetap kuat di 5,47 persen pada kuartal III 2026. Pihak yang paling terdampak adalah pelaku usaha yang biaya produksinya bergantung pada energi impor, serta otoritas yang memantau stabilitas keuangan, karena minyak yang lebih murah mengurangi tekanan ongkos dan inflasi dalam negeri. Tapi arah ke depan masih terbelah: di satu sisi harga minyak melandai, di sisi lain bank sentral negara-negara besar masih menahan suku bunga tinggi lebih lama dari biasanya, yang bisa menahan laju ekonomi dunia. Skenario pertama, pelandaian minyak berlanjut dan meringankan tekanan impor energi Indonesia; skenario kedua, konflik Timur Tengah kembali memanas dan mendorong harga naik seperti sebelumnya. KSSK mengaitkan harapan meredanya tekanan geopolitik dengan hasil pemilu sela Amerika Serikat awal November 2026, sehingga arah kebijakan luar negeri AS dan pergerakan harga minyak dalam beberapa bulan mendatang akan jadi penentu skenario mana yang benar terjadi.",
+  "imageV": "mwd29m2n"
+ },
+ {
   "slug": "rupo-medp-17-november-alih-dana-rp427-m-ke-ekspansi-deb",
   "category": "Aksi Korporasi",
   "title": "RUPO MEDP 17 November: [Alih] Dana Rp427 M ke Ekspansi DEB",

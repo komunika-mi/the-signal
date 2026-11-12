@@ -57,7 +57,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret: plafon KUR tahun ini dinaikkan dari Rp295 triliun jadi Rp325 triliun, dan untuk debitur KUR di NTT yang terdampak gempa, bunga atau marjin kreditnya diringankan jadi 0 persen pada 2027 dan 3 persen pada 2028, selain diberi masa tenggang dan perpanjangan tenor cicilan. Yang kena dampak ada dua kelompok berbeda, pelaku usaha kecil peminjam KUR secara umum yang kuotanya makin lega, dan debitur di NTT yang usahanya terganggu bencana sehingga dapat keringanan cicilan plus bunga yang nyaris nol selama dua tahun. Pola yang terlihat, pemerintah kini punya kerangka baku relaksasi kredit untuk wilayah bencana lewat restrukturisasi yang didukung aturan OJK dan bunga berjenjang, yang berpotensi jadi acuan kalau bencana serupa terjadi di daerah lain. Yang akan memastikan arah ini adalah Peraturan Menteri Koordinator dan Peraturan Menteri Keuangan yang disebut akan mengatur detail pelaksanaannya, serta hasil evaluasi triwulanan atas realisasi kredit program 2027.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "harga-minyak-acuan-ri-naik-ke-us-117-24-per-barel-di-oktober",

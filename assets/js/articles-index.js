@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemenko-perekonomian-temui-bei-dan-ojk-soal-reformasi-pasar-modal",
+  "category": "Pasar Modal",
+  "title": "Kemenko Perekonomian Temui BEI dan OJK soal [Reformasi] Pasar Modal",
+  "deck": "Pemerintah menggelar pertemuan dengan BEI, KPEI, KSEI, OJK, dan asosiasi emiten untuk menyusun langkah penguatan tata kelola, penegakan aturan, dan edukasi investor di pasar modal.",
+  "date": "12 November 2026",
+  "image": "assets/img/pasar-modal.jpg",
+  "tags": [
+   "pasar modal",
+   "OJK",
+   "BEI",
+   "tata kelola emiten"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7214/jaga-kepercayaan-investor-dan-lindungi-aset-masyarakat-pemerintah-perkuat-reformasi-pasar-modal",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "bi-resmikan-bank-kliring-yuan-untuk-dagang-ri-tiongkok",
+  "category": "Moneter",
+  "title": "BI Resmikan Bank Kliring [Yuan] untuk Dagang RI-Tiongkok",
+  "deck": "Bank Indonesia meluncurkan bank kliring Renminbi yang dikelola Bank of China Jakarta, didukung 12 bank nasional untuk mempermudah transaksi dagang Indonesia-Tiongkok memakai mata uang lokal.",
+  "date": "12 November 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "Bank Indonesia",
+   "Renminbi",
+   "LCT",
+   "Tiongkok"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824726.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "kadi-selidiki-ulang-impor-baja-hrc-dari-belarus-dan-kazakstan",
   "category": "Industri",
   "title": "KADI Selidiki Ulang Impor Baja HRC dari [Belarus] dan Kazakstan",
@@ -5066,7 +5098,7 @@ var ARTICLES = [
   "title": "Fasilitas Devisa Ekspor SDA [Diperluas], Portal DSI Siap 2027",
   "deck": "Pemerintah memperluas fasilitas penempatan devisa hasil ekspor SDA ke tujuh negara dan 16 bank, sekaligus menyiapkan Portal DSI yang wajib dipakai eksportir batu bara, sawit, dan feroaloi mulai 2027.",
   "date": "6 November 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/koridor-bank-sentral.jpg",
   "tags": [
    "DHE SDA",
    "Portal DSI",
@@ -6436,37 +6468,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476860-realisasi-investasi-kota-bekasi-capai-rp97-triliun-sektor-properti-terus-tumbuh"
- },
- {
-  "slug": "dooh-rombak-jadi-holding-bisnis-iklan-pindah-ke-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Rombak Jadi [Holding], Bisnis Iklan Pindah ke Anak Usaha",
-  "deck": "DOOH menambah KBLI Aktivitas Perusahaan Induk untuk jadi holding company, mengalihkan bisnis iklan ke anak usaha MSS, dan butuh restu RUPSLB pemegang saham.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "RUPSLB",
-   "holding company",
-   "akuisisi INET"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/443dfe22eb_32f1bbc930.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-rencanakan-rights-issue-154-7-miliar-saham-rasio-20-1",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Rencanakan [Rights Issue] 154,7 Miliar Saham, Rasio 20:1",
-  "deck": "DOOH akan menerbitkan saham baru sebanyak-banyaknya 154,7 miliar lembar untuk melunasi utang Rp2 triliun ke pengendali SII dan membiayai ekspansi infrastruktur AI, dengan dilusi hingga 95,24 persen.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "rights issue",
-   "PMHMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e3e0f5adbc_f402220840.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-umkm-binaan-kemendag-tembus-us-360-juta-pada-2026",
+  "category": "UMKM",
+  "title": "Ekspor UMKM Binaan Kemendag [Tembus] US$360 Juta pada 2026",
+  "deck": "Nilai transaksi ekspor UMKM binaan Kemendag naik dari US$134,8 juta sepanjang 2025 menjadi US$360 juta hanya dalam sembilan bulan 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/ekspor-umkm-binaan-kemendag-tembus-us-360-juta-pada-2026.jpg",
+  "imageV": "mwdwc8un",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Kemendag",
+   "Keterbukaan Informasi"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-pastikan-keterbukaan-informasi-publik-dalam-tiga-program-kemendag",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "airlangga-subsidi-bbm-aman-hingga-akhir-2026",
+  "category": "Energi",
+  "title": "Airlangga: Subsidi BBM [Aman] hingga Akhir 2026",
+  "deck": "Menko Airlangga Hartarto memastikan subsidi BBM tetap terjaga hingga akhir 2026, kendati rupiah melemah ke Rp18.239 per dolar AS dan harga minyak dunia di US$92-93 per barel.",
+  "date": "13 November 2026",
+  "image": "assets/img/airlangga-subsidi-bbm-aman-hingga-akhir-2026.jpg",
+  "imageV": "mwdwc9aw",
+  "tags": [
+   "BBM subsidi",
+   "rupiah",
+   "Airlangga Hartarto",
+   "APBN 2026"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478097-menko-airlangga-pastikan-subsidi-bbm-tetap-aman-hingga-akhir-2026"
+ },
+ {
   "slug": "mmix-pt-pukul-rata-kanan-tambah-11-4-juta-saham-jadi-4-57",
   "category": "Aksi Korporasi",
   "title": "MMIX: PT Pukul Rata Kanan [Tambah] 11,4 Juta Saham, Jadi 4,57%",
@@ -19,6 +54,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/acba39552f_547417999c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fsppb-desak-ruu-migas-rampung-pertamina-jadi-noc",
+  "category": "Energi",
+  "title": "FSPPB Desak RUU Migas Rampung, Pertamina Jadi [NOC]",
+  "deck": "FSPPB dan PIPBB-MIGAS mendesak pemerintah dan DPR mempercepat revisi UU Migas agar Pertamina ditetapkan sebagai NOC terintegrasi hulu-hilir demi kedaulatan energi nasional.",
+  "date": "12 November 2026",
+  "image": "assets/img/fsppb-desak-ruu-migas-rampung-pertamina-jadi-noc.jpg",
+  "imageV": "mwdwc9rz",
+  "tags": [
+   "migas",
+   "Pertamina",
+   "RUU Migas",
+   "kedaulatan energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478087-sinergi-serikat-pekerja-dan-pemantau-migas-dorong-penguatan-kedaulatan-energi-melalui-penataan-regulasi"
+ },
+ {
+  "slug": "jasa-marga-jaga-skor-keterbukaan-informasi-di-kip-2026",
+  "category": "BUMN",
+  "title": "Jasa Marga Jaga Skor [Keterbukaan] Informasi di KIP 2026",
+  "deck": "Jasa Marga mengikuti uji publik evaluasi keterbukaan informasi 2026 oleh Komisi Informasi Pusat, menyusul skor 98,92 dan status Informatif yang diraih tahun lalu.",
+  "date": "12 November 2026",
+  "image": "assets/img/jasa-marga-jaga-skor-keterbukaan-informasi-di-kip-2026.jpg",
+  "imageV": "mwdwca89",
+  "tags": [
+   "jasa marga",
+   "informasi publik",
+   "monev kip",
+   "tol"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478082-jasa-marga-perkuat-transparansi-publik-melalui-uji-publik-monev-kip-2026"
  },
  {
   "slug": "menperin-dorong-kedaulatan-industri-telekomunikasi-nasional",
@@ -6402,73 +6471,6 @@ var ARTICLES = [
    "LPPI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b94791b0eb_e9173d36e3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bri-peduli-kenalkan-urban-farming-lewat-brinita",
-  "category": "BUMN",
-  "title": "BRI Peduli Kenalkan Urban Farming Lewat [BRInita]",
-  "deck": "BRI Peduli memperkenalkan program urban farming berbasis komunitas BRInita di Bandung, mengajak 35 jurnalis menanam dan memanen langsung di lahan warga.",
-  "date": "6 November 2026",
-  "image": "assets/img/bri-peduli-kenalkan-urban-farming-lewat-brinita.jpg",
-  "imageV": "mw4hp8gb",
-  "tags": [
-   "BRI Peduli",
-   "BRInita",
-   "urban farming",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476910-bri-peduli-kenalkan-urban-farming-berbasis-komunitas-lewat-brinita-ajak-jurnalis-turun-langsung-bertani-di-kota"
- },
- {
-  "slug": "gcc-gresik-beroperasi-umkm-lokal-incar-pasar-baru",
-  "category": "UMKM",
-  "title": "GCC Gresik [Beroperasi], UMKM Lokal Incar Pasar Baru",
-  "deck": "Gresik Convention Center resmi beroperasi sejak 4 November 2026, membuka peluang bisnis bagi UMKM katering, dekorasi, dan event organizer di sekitar kawasan industri Gresik.",
-  "date": "6 November 2026",
-  "image": "assets/img/gcc-gresik-beroperasi-umkm-lokal-incar-pasar-baru.jpg",
-  "imageV": "mw4hp8ul",
-  "tags": [
-   "GCC",
-   "Gresik",
-   "UMKM",
-   "ekonomi lokal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476908-gresik-convention-center-mulai-beroperasi-umkm-lokal-berpeluang-dapat-pasar-baru"
- },
- {
-  "slug": "harga-emas-antam-naik-jadi-rp2-565-000-per-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Naik] Jadi Rp2.565.000 per Gram",
-  "deck": "Harga emas batangan Antam naik Rp8 ribu per gram pada 6 November 2026, sementara harga buyback juga ikut terkerek naik.",
-  "date": "6 November 2026",
-  "image": "assets/img/harga-emas-antam-naik-jadi-rp2-565-000-per-gram.jpg",
-  "imageV": "mw4hp9gz",
-  "tags": [
-   "emas antam",
-   "harga emas",
-   "buyback emas",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476903-harga-emas-antam-hari-ini-6-november-2026-naik-jadi-rp2565000-per-gram-buyback-ikut-melonjak"
- },
- {
-  "slug": "mknt-pastikan-tak-ada-info-baru-pengendali-tetap-kunci-saham-uma",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Pastikan Tak Ada Info Baru, Pengendali Tetap Kunci Saham [UMA]",
-  "deck": "MKNT, kini bernama PT Remitra Global International, menegaskan tidak ada info material baru menyusul surat permintaan penjelasan BEI atas volatilitas transaksi sahamnya.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "volatilitas saham",
-   "Remitra Global International",
-   "Headwell Bintang Energi Hijau"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f95f1659e_5db40b0f2c.pdf",
   "sourceLabel": "IDX"
  }
 ];

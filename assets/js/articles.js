@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekspor-umkm-binaan-kemendag-tembus-us-360-juta-pada-2026",
+  "category": "UMKM",
+  "title": "Ekspor UMKM Binaan Kemendag [Tembus] US$360 Juta pada 2026",
+  "deck": "Nilai transaksi ekspor UMKM binaan Kemendag naik dari US$134,8 juta sepanjang 2025 menjadi US$360 juta hanya dalam sembilan bulan 2026.",
+  "image": "assets/img/ekspor-umkm-binaan-kemendag-tembus-us-360-juta-pada-2026.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-12T18:38:57.035Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-pastikan-keterbukaan-informasi-publik-dalam-tiga-program-kemendag",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Kemendag",
+   "Keterbukaan Informasi"
+  ],
+  "body": [
+   "Kementerian Perdagangan memaparkan capaian tiga program andalannya, yaitu pengamanan pasar dalam negeri, perluasan pasar ekspor, dan Dari Lokal untuk Global, dalam acara uji publik keterbukaan informasi yang digelar Komisi Informasi Pusat di Jakarta, Rabu (12/11). Menteri Perdagangan Budi Santoso menyampaikan bahwa program pendampingan ekspor bagi usaha mikro, kecil, dan menengah (UMKM) mencatat kenaikan transaksi yang signifikan dalam setahun terakhir.",
+   "Program bernama UMKM BISA Ekspor memberi pendampingan berupa identifikasi produk, penjajakan dengan calon pembeli luar negeri, pelatihan presentasi bisnis, hingga bantuan penerjemahan. Menurut Kemendag, nilai transaksi dari program ini sebesar US$134,8 juta sepanjang 2025, dan sudah mencapai US$360 juta hanya dalam periode Januari hingga September 2026. Program lain, Campuspreneur, melibatkan 27 perguruan tinggi, dengan 20 di antaranya ikut serta dalam Trade Expo Indonesia 2026 dan mencatatkan potensi transaksi US$24,5 juta.",
+   "Di sisi pelayanan informasi publik, jumlah permohonan informasi yang diterima Kemendag tercatat menurun dari 52.631 pada 2024, menjadi 38.248 pada 2025, dan 25.607 pada Januari-Oktober 2026. Kemendag juga mengoperasikan aplikasi pusat bantuan HERO yang telah menyelesaikan 82.582 tiket layanan dengan skor kepuasan pengguna 4,9. Untuk pengguna penyandang disabilitas, Kemendag menerbitkan Surat Edaran Sekretaris Jenderal Nomor 16 Tahun 2026 serta menyediakan juru bahasa isyarat dan fitur aksesibilitas pada kanal digitalnya.",
+   "Salah satu fasilitas yang disebut Kemendag untuk mendukung ekspor adalah penerapan Surat Keterangan Asal otomatis, dokumen yang membuktikan asal barang agar pelaku usaha bisa memakai tarif bea masuk lebih rendah di negara mitra dagang tanpa harus menghitung sendiri besaran potongannya."
+  ],
+  "fotoAdegan": "Small business workers packing folded textile products into cardboard boxes inside a modest workshop, daylight from open windows",
+  "fotoSumber": "https://www.kemendag.go.id/albums/ut6ACnhigV0IuldimVC67GqGBS1Vpmwzr6qd0yBQ.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Angka paling konkret dari siaran ini bukan soal keterbukaan informasi, melainkan lonjakan transaksi ekspor UMKM binaan Kemendag: dari US$134,8 juta sepanjang 2025 menjadi US$360 juta hanya dalam sembilan bulan 2026, nyaris tiga kali lipat. Yang terdampak langsung adalah pelaku UMKM yang ikut program pendampingan, termasuk mahasiswa lewat Campuspreneur di 27 kampus, karena pertumbuhan ini bergantung pada sesi pendampingan dan ajang temu bisnis seperti Trade Expo Indonesia, bukan insentif anggaran langsung. Arahnya terlihat ke pola ekspor UMKM yang didorong lewat fasilitasi dan pencocokan dengan pembeli luar negeri ketimbang subsidi tunai. Yang akan memastikan apakah lonjakan ini bertahan atau sekadar efek musiman dari ajang pameran tahun ini adalah angka transaksi penuh 2026 yang baru bisa dibandingkan setelah tutup tahun.",
+  "imageV": "mwdwc8un"
+ },
+ {
+  "slug": "airlangga-subsidi-bbm-aman-hingga-akhir-2026",
+  "category": "Energi",
+  "title": "Airlangga: Subsidi BBM [Aman] hingga Akhir 2026",
+  "deck": "Menko Airlangga Hartarto memastikan subsidi BBM tetap terjaga hingga akhir 2026, kendati rupiah melemah ke Rp18.239 per dolar AS dan harga minyak dunia di US$92-93 per barel.",
+  "image": "assets/img/airlangga-subsidi-bbm-aman-hingga-akhir-2026.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T01:25:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478097-menko-airlangga-pastikan-subsidi-bbm-tetap-aman-hingga-akhir-2026",
+  "tags": [
+   "BBM subsidi",
+   "rupiah",
+   "Airlangga Hartarto",
+   "APBN 2026"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto memastikan anggaran subsidi bahan bakar minyak masih dalam kondisi aman sampai penutupan tahun 2026. Pernyataan ini disampaikan di tengah pelemahan rupiah yang terjadi pada perdagangan Kamis, 12 November 2026, sehingga penting bagi masyarakat yang masih bergantung pada harga BBM bersubsidi untuk kebutuhan sehari-hari.",
+   "Pada penutupan perdagangan hari itu, rupiah melemah 90 poin atau 0,50 persen, dari Rp18.149 menjadi Rp18.239 per dolar AS. Airlangga menyebut harga minyak mentah dunia saat ini berada di kisaran US$92 sampai US$93 per barel, dan selama rupiah serta harga minyak bertahan di kisaran itu, anggaran subsidi BBM masih mencukupi setidaknya hingga Desember. Pemerintah sendiri sudah menetapkan bahwa harga BBM bersubsidi tidak akan dinaikkan setidaknya sampai 31 Desember 2026.",
+   "Airlangga menambahkan bahwa Anggaran Pendapatan dan Belanja Negara (APBN) 2026 sudah disusun dengan memperhitungkan kemungkinan harga minyak dunia naik hingga rata-rata US$100 per barel, sebagai antisipasi dampak konflik geopolitik Amerika Serikat dan Iran. Catatannya, asumsi dasar APBN 2026 sebenarnya mematok harga minyak acuan Indonesia di US$70 per barel dengan kurs Rp16.500 per dolar AS, jadi kondisi riil saat ini sudah berada di atas kedua asumsi tersebut.",
+   "Menanggapi gejolak rupiah, Airlangga mengatakan pemerintah terus memantau berbagai sentimen yang mempengaruhi nilai tukar, baik yang berasal dari dinamika politik dalam negeri maupun ketidakpastian geopolitik global. Ia menilai pelemahan dolar terhadap rupiah bersifat kumulatif, bukan sekadar pergerakan satu hari, dan berharap fondasi ekonomi domestik tetap mampu menahan tekanan tersebut."
+  ],
+  "fotoAdegan": "A fuel station worker filling a motorbike tank at a pump nozzle, overcast afternoon, modest neighborhood street in Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/13/6af5fff72a47a-menteri-koordinator-bidang-perekonomian-airlangga-hartarto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang perlu digarisbawahi, klaim aman ini bersyarat dan berjangka pendek, bukan kepastian sampai akhir tahun tanpa catatan. Anggaran subsidi BBM dihitung berdasarkan harga minyak dalam dolar yang dikonversi ke rupiah, jadi harga minyak yang tinggi dan rupiah yang lemah sama-sama menambah beban, bukan saling menutupi. Saat ini kedua variabel itu sudah melampaui asumsi dasar APBN 2026, yaitu harga minyak US$70 per barel dan kurs Rp16.500, sehingga pemerintah mengandalkan bantalan anggaran yang disiapkan untuk skenario harga minyak sampai US$100 per barel. Pihak yang paling terdampak adalah konsumen BBM bersubsidi dan anggaran negara itu sendiri, karena keduanya bergantung pada seberapa jauh rupiah dan harga minyak bergerak dari titik sekarang. Yang akan menentukan apakah bantalan ini cukup adalah pergerakan rupiah dan harga minyak dunia dalam sisa waktu sampai akhir Desember 2026.",
+  "imageV": "mwdwc9aw"
+ },
+ {
   "slug": "mmix-pt-pukul-rata-kanan-tambah-11-4-juta-saham-jadi-4-57",
   "category": "Aksi Korporasi",
   "title": "MMIX: PT Pukul Rata Kanan [Tambah] 11,4 Juta Saham, Jadi 4,57%",
@@ -29,6 +84,60 @@ var ARTICLES = [
   "sentimen": "netral",
   "peristiwa": "kepemilikan",
   "judulIdx": "Laporan Keterbukaan Informasi Terkait Perubahan Struktur Kepemilikan Saham dan Transaksi Pembelian Saham"
+ },
+ {
+  "slug": "fsppb-desak-ruu-migas-rampung-pertamina-jadi-noc",
+  "category": "Energi",
+  "title": "FSPPB Desak RUU Migas Rampung, Pertamina Jadi [NOC]",
+  "deck": "FSPPB dan PIPBB-MIGAS mendesak pemerintah dan DPR mempercepat revisi UU Migas agar Pertamina ditetapkan sebagai NOC terintegrasi hulu-hilir demi kedaulatan energi nasional.",
+  "image": "assets/img/fsppb-desak-ruu-migas-rampung-pertamina-jadi-noc.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T23:56:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478087-sinergi-serikat-pekerja-dan-pemantau-migas-dorong-penguatan-kedaulatan-energi-melalui-penataan-regulasi",
+  "tags": [
+   "migas",
+   "Pertamina",
+   "RUU Migas",
+   "kedaulatan energi"
+  ],
+  "body": [
+   "Federasi Serikat Pekerja Pertamina Bersatu (FSPPB) dan Perkumpulan Independen Pemantau Bahan Bakar Minyak dan Gas (PIPBB-MIGAS) menggelar diskusi bersama pada Kamis, 12 November 2026, membahas kedaulatan energi nasional. Kedua pihak sepakat bahwa kedaulatan energi mesti menjadi dasar utama saat menyusun aturan dan mengelola industri migas, agar hasilnya benar-benar dirasakan rakyat.",
+   "Presiden FSPPB Arie Gumilar menjelaskan perbedaan antara ketahanan, kemandirian, dan kedaulatan energi. Menurutnya, kedaulatan energi berarti kewenangan penuh negara untuk menentukan arah kebijakan energi demi kepentingan masyarakat. Ia menegaskan tugas serikat pekerja tidak berhenti pada memperjuangkan hak normatif pekerja, tapi juga menjaga agar pengelolaan energi nasional berjalan berkelanjutan dan berpihak pada publik.",
+   "Dalam diskusi itu muncul usulan agar operasional Pertamina dari hulu sampai hilir disatukan kembali. FSPPB mendesak pemerintah dan DPR segera menuntaskan revisi Undang-Undang Migas agar Pertamina dapat ditetapkan sebagai National Oil Company yang mengemban fungsi Badan Usaha Khusus Migas secara terintegrasi. FSPPB menilai pembahasan yang berlarut-larut berisiko memperpanjang ketidakpastian kelembagaan dan menghambat penguatan pengelolaan energi nasional.",
+   "Ketua Umum PIPBB-MIGAS Ishak Robinson menambahkan bahwa Indonesia perlu mandiri menentukan kebijakan energinya sendiri tanpa terlalu dipengaruhi kepentingan pihak luar. Menurutnya, memperkuat Pertamina sebagai perusahaan migas yang terintegrasi menjadi langkah strategis untuk menjaga stabilitas pasokan energi di dalam negeri, dengan prioritas pada kebutuhan domestik."
+  ],
+  "fotoAdegan": "Workers in safety gear inspecting pipelines at an onshore oil refinery complex under a hazy tropical sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/12/6af5eeec18b74-ilustrasi-penguatan-kedaulatan-energi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang terjadi di sini bukan perubahan kebijakan, melainkan desakan dari serikat pekerja Pertamina dan lembaga pemantau migas agar pemerintah dan DPR mempercepat revisi Undang-Undang Migas yang menurut mereka sudah berlarut-larut dibahas. Kalau revisi itu rampung sesuai harapan mereka, Pertamina akan ditetapkan sebagai National Oil Company yang mengurus seluruh tahap bisnis migas dari eksplorasi sampai penjualan ke konsumen, bukan cuma sebagian seperti sekarang. Pihak yang terdampak langsung adalah Pertamina dan pekerjanya yang diwakili FSPPB, serta DPR dan pemerintah yang memegang kendali atas revisi undang-undang tersebut. Yang masih kurang untuk membaca ke mana arah RUU Migas ini adalah jadwal pasti pembahasannya di DPR, sebab berita ini sendiri tidak menyebut target waktu penyelesaian, sehingga belum bisa dipastikan apakah desakan ini akan direspons dalam waktu dekat atau kembali tertunda.",
+  "imageV": "mwdwc9rz"
+ },
+ {
+  "slug": "jasa-marga-jaga-skor-keterbukaan-informasi-di-kip-2026",
+  "category": "BUMN",
+  "title": "Jasa Marga Jaga Skor [Keterbukaan] Informasi di KIP 2026",
+  "deck": "Jasa Marga mengikuti uji publik evaluasi keterbukaan informasi 2026 oleh Komisi Informasi Pusat, menyusul skor 98,92 dan status Informatif yang diraih tahun lalu.",
+  "image": "assets/img/jasa-marga-jaga-skor-keterbukaan-informasi-di-kip-2026.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T23:26:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478082-jasa-marga-perkuat-transparansi-publik-melalui-uji-publik-monev-kip-2026",
+  "tags": [
+   "jasa marga",
+   "informasi publik",
+   "monev kip",
+   "tol"
+  ],
+  "body": [
+   "PT Jasa Marga (Persero) Tbk mengikuti sesi presentasi uji publik dalam proses Monitoring dan Evaluasi Keterbukaan Informasi Publik (Monev KIP) 2026 yang digelar Komisi Informasi Pusat di Jakarta, Kamis (12/11/2026). Ajang tahunan ini menilai sejauh mana badan publik, termasuk perusahaan pelat merah, membuka akses informasi kepada masyarakat. Bagi pengguna jalan tol, keikutsertaan ini jadi penanda apakah pengelola jaringan tol milik negara ini tetap menjaga keterbukaan data layanannya tahun ini.",
+   "Direktur Utama Jasa Marga Rivan A. Purwantono menyebut keterbukaan informasi sebagai bagian dari perbaikan tata kelola perusahaan, bukan sekadar memenuhi kewajiban aturan. Ia menyinggung skala operasi perusahaan yang mengelola 36 ruas tol dengan panjang jalan yang sudah beroperasi 1.318 kilometer dari total konsesi 1.736 kilometer. Untuk memantau jaringan sebesar itu, Jasa Marga mengandalkan Jasa Marga Tollroad Command Center (JMTC), pusat pemantauan lalu lintas yang terhubung dengan lebih dari 3.500 kamera CCTV serta sistem transportasi pintar atau Intelligent Transportation System.",
+   "Pada evaluasi tahun 2025, Jasa Marga mencatat skor 98,92 dan mendapat predikat Informatif, status tertinggi dalam penilaian KIP. Skor itu membuat perusahaan menempati peringkat pertama di klaster BUMN berstatus perusahaan terbuka atau Tbk, dan peringkat ketiga dari 39 BUMN yang meraih predikat Informatif pada tahun yang sama. Uji publik yang berlangsung kemarin merupakan salah satu tahap untuk menentukan apakah capaian setinggi itu bisa dipertahankan pada evaluasi 2026.",
+   "Rivan menegaskan bahwa keterbukaan informasi tidak berhenti pada penyediaan data, tetapi juga membuka ruang bagi masyarakat untuk mengawasi dan ikut terlibat. Ia menyebut fokus perusahaan adalah memastikan keterbukaan itu berdampak nyata pada perbaikan pelayanan, bukan sekadar formalitas administratif."
+  ],
+  "fotoAdegan": "Highway CCTV camera mounted on a tall gantry overlooking multiple lanes of toll road traffic at dusk",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/12/6af5e7fa5c72c-pt-jasa-marga-persero-tbk-turut-berpartisipasi-dalam-kegiatan-tersebut-sebagai-upaya-memperkuat-dan-meningkatkan-keterbukaan-informasi-publik_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang baru di sini bukan skornya, karena angka 98,92 dan status Informatif itu hasil penilaian tahun 2025 yang sudah diumumkan lebih dulu. Yang terjadi hari ini baru salah satu tahap dari proses penilaian 2026, yaitu sesi presentasi di depan Komisi Informasi Pusat, jadi belum menentukan hasil akhir. Dampaknya untuk sekarang terbatas ke reputasi tata kelola Jasa Marga sendiri, karena pengguna jalan tol belum merasakan perubahan konkret dari tahap ini. Yang masih kurang untuk melihat ke mana arah keterbukaan Jasa Marga tahun ini adalah hasil akhir Monev KIP 2026, yang biasanya baru diumumkan Komisi Informasi Pusat lewat acara penganugerahan menjelang akhir tahun, dari situ baru bisa dilihat apakah peringkat pertama di klaster BUMN Tbk itu bertahan atau berubah.",
+  "imageV": "mwdwca89"
  },
  {
   "slug": "menperin-dorong-kedaulatan-industri-telekomunikasi-nasional",
@@ -311,7 +420,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Pertemuan ini masih berupa penghimpunan masukan, belum ada aturan baru atau tenggat yang disebutkan secara konkret. Arah yang disampaikan adalah meniru program Jepang dan Korea Selatan agar perusahaan terbuka memperbaiki tata kelola dan efisiensi modal supaya harga sahamnya lebih menarik, dibarengi rencana mempercepat penindakan pelanggaran di bursa. Pihak yang berpotensi terdampak adalah pemegang saham publik dan investor, termasuk investor asing yang diminta menyampaikan kendala mereka berinvestasi di Indonesia, karena kebijakan ini menyangkut cara emiten dan regulator menjaga nilai aset yang mereka titipkan di bursa. Yang masih ditunggu untuk melihat apakah arah ini benar-benar berjalan adalah bentuk konkretnya, misalnya aturan OJK atau BEI soal percepatan penegakan aturan, serta hasil koordinasi soal pajak, bea masuk, dan energi hijau yang dijanjikan akan dibahas dengan kementerian lain.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "bi-resmikan-bank-kliring-yuan-untuk-dagang-ri-tiongkok",
@@ -339,7 +448,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah Indonesia kini memiliki bank kliring sendiri untuk yuan, dikelola Bank of China Jakarta dan didukung 12 bank nasional, sehingga transaksi dagang dengan Tiongkok bisa langsung pakai yuan tanpa singgah ke dolar Amerika Serikat. Pihak yang paling terdampak adalah bank-bank yang ditunjuk sebagai mitra serta eksportir dan importir yang berdagang dengan Tiongkok, karena mereka bisa menghemat biaya tukar mata uang dan mengurangi risiko kalau kurs dolar bergerak tajam. Lonjakan transaksi dari US$13,19 miliar sepanjang 2025 menjadi US$43,89 miliar hanya dalam sembilan bulan pertama 2026, ditambah penerbitan obligasi berdenominasi yuan yang naik dari CNY 7 miliar ke CNY 10 miliar, menunjukkan arah yang konsisten: penggunaan yuan dalam perdagangan Indonesia-Tiongkok makin dalam, bukan sekadar simbolis. Yang akan menentukan apakah tren ini benar-benar membantu memperbaiki defisit dagang Indonesia dengan Tiongkok, bukan sekadar memudahkan transaksi, adalah data ekspor Indonesia ke Tiongkok pada akhir 2026, karena angka yang dipublikasikan sejauh ini baru soal volume transaksi, belum soal arah neraca dagangnya.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "public-expose-cfin-18-november-laba-9m26-naik-13-3-ke-rp154-m",

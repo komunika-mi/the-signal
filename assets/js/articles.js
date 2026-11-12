@@ -19950,8 +19950,8 @@ var ARTICLES = [
  {
   "slug": "true-rugi-melebar-ke-rp28-2-miliar-di-kuartal-iii-2026",
   "category": "Aksi Korporasi",
-  "title": "TRUE: Rugi [Melebar] ke Rp28,2 Miliar di Kuartal III 2026",
-  "deck": "Rugi bersih Triniti Dinamik (TRUE) melebar 64 persen jadi Rp28,2 miliar dalam sembilan bulan 2026, sementara penjualan turun 42 persen.",
+  "title": "Laporan Kuartal III TRUE [Koreksi]: Rugi Jadi Rp33,5 Miliar",
+  "deck": "TRUE koreksi laporan kuartal III 2026: rugi bersih sembilan bulan jadi Rp33,54 miliar, bukan Rp28,21 miliar seperti sebelumnya, meski penjualan naik 22 persen.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "2 November 2026",
   "isoDate": "2026-11-02T07:53:49",
@@ -19960,18 +19960,29 @@ var ARTICLES = [
   "emiten": "TRUE",
   "tags": [
    "TRUE",
-   "Properti",
-   "laporan keuangan",
-   "rugi bersih"
+   "Triniti Dinamik",
+   "Laporan Keuangan Kuartal III",
+   "Koreksi Laporan"
   ],
   "body": [
-   "PT Triniti Dinamik Tbk (TRUE) mencatat rugi bersih konsolidasian Rp28,21 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, melebar 64 persen dibanding rugi Rp17,22 miliar pada periode yang sama tahun sebelumnya. Pelebaran rugi ini terjadi di tengah penjualan yang turun tajam, dari Rp35,81 miliar menjadi Rp20,75 miliar, sementara beban penjualan dan pemasaran justru melonjak dari Rp5,45 miliar menjadi Rp14,24 miliar.",
-   "Akibat rugi yang terus berlanjut, saldo laba perusahaan yang belum ditentukan penggunaannya kian dalam negatif, dari defisit Rp77,17 miliar pada akhir 2025 menjadi defisit Rp105,13 miliar pada September 2026. Total ekuitas perusahaan ikut tergerus dari Rp223,90 miliar menjadi Rp195,98 miliar, sementara total liabilitas justru naik dari Rp469,96 miliar menjadi Rp536,35 miliar, terutama karena utang usaha kepada pihak ketiga yang bertambah dari Rp56,13 miliar menjadi Rp81,40 miliar dan utang kepada pihak berelasi jangka panjang yang naik dari Rp49,96 miliar menjadi Rp67,60 miliar. Rugi per saham dasar yang dapat diatribusikan kepada pemilik entitas induk melebar dari Rp1 menjadi Rp3,73 per lembar.",
-   "Di sisi lain, uang muka penjualan dari pembeli properti naik dari Rp112,99 miliar menjadi Rp159,57 miliar, menunjukkan ada transaksi penjualan unit yang sudah menerima pembayaran muka meski pendapatannya belum sepenuhnya diakui dalam laporan laba rugi. Kas dan setara kas perusahaan juga naik tipis dari Rp8,73 miliar menjadi Rp9,14 miliar. Laporan keuangan interim kuartal ketiga 2026 ini belum diaudit dan disampaikan Triniti Dinamik kepada Bursa Efek Indonesia melalui surat bernomor 175/TD/X/2026."
+   "PT Triniti Dinamik Tbk (TRUE) mengoreksi laporan keuangan interim kuartal III 2026 yang sebelumnya disampaikan ke Bursa Efek Indonesia. Dalam surat bernomor 185/TD/XI/2026 tertanggal 12 November 2026, perusahaan menyatakan rugi bersih konsolidasian untuk sembilan bulan yang berakhir 30 September 2026 adalah Rp33,54 miliar, jauh lebih besar dari angka Rp28,21 miliar yang dilaporkan pada awal November. Rugi ini naik hampir dua kali lipat, sekitar 95 persen, dibanding rugi Rp17,22 miliar pada periode yang sama tahun 2025.",
+   "Koreksi ini juga membalik gambaran soal penjualan. Laporan awal menyebut penjualan Triniti Dinamik merosot 42 persen menjadi Rp20,75 miliar, tetapi versi koreksi menunjukkan penjualan sembilan bulan 2026 justru naik 22 persen menjadi Rp43,75 miliar, dari Rp35,81 miliar pada periode yang sama tahun lalu. Beban penjualan dan pemasaran, yang sebelumnya disebut melonjak ke Rp14,24 miliar, dalam versi koreksi tercatat Rp12,13 miliar, naik 123 persen dari Rp5,45 miliar. Beban umum dan administrasi, yang tidak disebutkan dalam laporan awal, ternyata melonjak 75 persen menjadi Rp34,95 miliar.",
+   "Beberapa pos lain juga berubah signifikan dari versi awal. Ekuitas yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp190,44 miliar per 30 September 2026, turun 15 persen dari Rp223,99 miliar pada akhir 2025, lebih dalam dibanding penurunan yang disebut laporan awal. Utang kepada pihak berelasi jangka panjang melonjak 75 persen menjadi Rp87,62 miliar dari Rp49,96 miliar, jauh lebih besar dari kenaikan 35 persen yang disebut sebelumnya. Sebaliknya, uang muka dari pembeli properti ternyata turun 28 persen menjadi Rp65,39 miliar dari Rp90,38 miliar, berbanding terbalik dengan klaim kenaikan ke Rp159,57 miliar pada laporan awal. Total liabilitas hanya naik 3 persen menjadi Rp470,58 miliar, jauh lebih kecil dari kenaikan 14 persen yang dilaporkan sebelumnya. Rugi per saham dasar yang dapat diatribusikan kepada pemilik entitas induk kini tercatat Rp4,43, dibanding Rp2,27 pada periode yang sama tahun lalu.",
+   "Di sisi arus kas, kegiatan operasi Triniti Dinamik mencatat kas keluar neto Rp30,35 miliar pada sembilan bulan 2026, berbalik dari kas masuk neto Rp16,68 miliar pada periode yang sama tahun lalu. Kas dan setara kas perusahaan per 30 September 2026 tercatat Rp10,17 miliar, naik dari Rp7,84 miliar pada akhir 2025, antara lain tertopang oleh penerimaan pinjaman dari pihak berelasi senilai Rp37,66 miliar. Laporan keuangan interim ini masih berstatus tidak diaudit."
   ],
   "fotoAdegan": "Rows of half-finished townhouses on a suburban Indonesian housing development site, construction workers in hard hats in the distance, overcast afternoon light",
-  "takeaway": "Laporan ini condong negatif bagi Triniti Dinamik, karena rugi bersihnya melebar 64 persen sementara pendapatan penjualan menyusut hampir separuh, pertanda bisnis propertinya belum membaik meski beban pemasaran dinaikkan. Pos yang paling tersentuh adalah ekuitas, yaitu bagian modal milik pemegang saham setelah dikurangi semua utang perusahaan, yang terus menipis karena rugi tahun ini langsung mengurangi saldo laba. Rugi per saham, yakni porsi kerugian yang ditanggung oleh setiap lembar saham yang beredar, juga melonjak dari Rp1 menjadi Rp3,73, sehingga makin besar kerugian yang mewakili tiap lembar saham publik. Karena laporan ini masih berstatus tidak diaudit, yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan setelah tutup tahun 2026, untuk melihat apakah pelebaran rugi ini berlanjut atau justru tertahan oleh uang muka penjualan yang sudah terkumpul Rp159,57 miliar dari pembeli.",
-  "sentimen": "negatif"
+  "takeaway": "Koreksi ini condong negatif bagi Triniti Dinamik, karena pos utama yang disorot pasar, rugi bersih, justru dikoreksi naik dari Rp28,21 miliar menjadi Rp33,54 miliar, dan utang kepada pihak berelasi jangka panjang melonjak lebih tajam dari klaim semula, meski ada kabar baik bahwa penjualan ternyata tumbuh 22 persen, bukan menyusut seperti disangka sebelumnya. Pos yang paling tersentuh adalah ekuitas, yakni bagian modal pemegang saham setelah dikurangi semua utang perusahaan, yang kini tercatat lebih tipis di Rp190,44 miliar, serta utang pihak berelasi jangka panjang, yaitu pinjaman dari pemegang saham atau perusahaan afiliasi, yang naik 75 persen menjadi Rp87,62 miliar sehingga perusahaan makin bergantung pada dana dari pihak terafiliasi. Rugi per saham, porsi kerugian yang ditanggung setiap lembar saham publik, juga dikoreksi naik dari Rp3,73 menjadi Rp4,43. Karena laporan ini tetap berstatus tidak diaudit, yang perlu dipantau berikutnya adalah laporan keuangan tahunan auditan setelah tutup tahun 2026, untuk memastikan apakah angka-angka yang baru dikoreksi ini sudah final.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-12T15:33:29",
+    "ringkas": "Triniti Dinamik mengoreksi rugi kuartal III 2026 jadi Rp33,54 miliar dari Rp28,21 miliar, sementara penjualan ternyata naik bukan turun.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261112224309-65795-0/FinancialStatement-2026-III-TRUE.pdf",
+    "judulIdx": "Penyampaian Laporan Keuangan Interim (KOREKSI)"
+   }
+  ],
+  "diperbarui": "2026-11-12T15:33:29",
+  "peristiwa": "lapkeu"
  },
  {
   "slug": "cybr-laba-bersih-naik-tapi-laba-usaha-minus-di-kuartal-iii",

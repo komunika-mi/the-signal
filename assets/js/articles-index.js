@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupo-medp-17-november-alih-dana-rp427-m-ke-ekspansi-deb",
+  "category": "Aksi Korporasi",
+  "title": "RUPO MEDP 17 November: [Alih] Dana Rp427 M ke Ekspansi DEB",
+  "deck": "MEDP mengajukan perubahan penggunaan sisa dana obligasi Rp427,21 miliar dari proyek panas bumi Bonjol ke ekspansi PLTGU Batam, menunggu persetujuan RUPO 17 November 2026.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDP",
+   "Obligasi",
+   "RUPO",
+   "Medco Power Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ed9f4f36db_5b08e86767.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-obligasi-ptpp-11-november-restrukturisasi-ditolak",
+  "category": "Aksi Korporasi",
+  "title": "RUPO Obligasi PTPP 11 November: [Restrukturisasi] Ditolak",
+  "deck": "Pemegang Obligasi Berkelanjutan III PTPP Tahap I Seri B menolak keempat usulan restrukturisasi bunga, termasuk penundaan bunga ke-18 yang sudah telat dibayar.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "RUPO",
+   "obligasi",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b9f6eaba4b_d2602b0803.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupsu-ptpp-11-november-restrukturisasi-sukuk-ditolak-setuju-68",
+  "category": "Aksi Korporasi",
+  "title": "RUPSu PTPP 11 November: [Restrukturisasi] Sukuk Ditolak, Setuju 68%",
+  "deck": "RUPSu pemegang Sukuk Mudharabah PTPP Seri B menolak dua opsi keringanan bagi hasil, opsi pertama disetujui 68,09% suara tapi kurang dari ambang 75% yang disyaratkan.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "RUPSu",
+   "Sukuk",
+   "Restrukturisasi Utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/075862d83b_bbd7e60b2d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupsu-sukuk-ptpp-tahap-iii-restrukturisasi-ditolak-setuju-71",
+  "category": "Aksi Korporasi",
+  "title": "RUPSu Sukuk PTPP Tahap III: [Restrukturisasi] Ditolak, Setuju 71%",
+  "deck": "Empat usulan restrukturisasi bagi hasil Sukuk Mudharabah Tahap III PTPP kandas karena tak mencapai syarat 75% suara setuju, walau tiga di antaranya didukung mayoritas pemegang sukuk.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "Sukuk",
+   "RUPSu",
+   "Restrukturisasi Utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fc89a4b789_fe2e4d4b16.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "peringkat-sukuk-post-turun-ke-d-idn-gagal-bayar-ijarah",
+  "category": "Aksi Korporasi",
+  "title": "Peringkat Sukuk POST Turun ke D(idn): [Gagal Bayar] Ijarah",
+  "deck": "Fitch menurunkan peringkat Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap I milik emiten POST ke D(idn) dari C(idn) setelah gagal bayar imbalan ijarah jatuh tempo 8 Oktober 2026.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "Sukuk Ijarah",
+   "Fitch Ratings",
+   "Gagal Bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/87588d8eed_8840c8e4af.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "39-umkm-dapat-fasilitasi-104-barcode-untuk-masuk-ritel-modern",
   "category": "UMKM",
   "title": "39 UMKM Dapat Fasilitasi [104] Barcode untuk Masuk Ritel Modern",
@@ -6390,85 +6470,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476820-tarif-listrik-tidak-naik-masyarakat-diminta-bijak-kelola-pemakaian"
- },
- {
-  "slug": "vico-ganti-dirut-dan-komisaris-utama-tunggu-restu-ojk",
-  "category": "Aksi Korporasi",
-  "title": "VICO Ganti [Dirut] dan Komisaris Utama, Tunggu Restu OJK",
-  "deck": "Direksi dan komisaris utama VICO berganti efektif 27 Oktober 2026 setelah OJK meloloskan uji kelayakan Untung Woenardi dan Sari Idayanti.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICO",
-   "pergantian direksi",
-   "OJK",
-   "konglomerasi keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c961aebd8_ea52a100fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jmas-laba-bersih-anjlok-86-jadi-rp398-juta-di-2025",
-  "category": "Aksi Korporasi",
-  "title": "JMAS: Laba Bersih [Anjlok] 86% Jadi Rp398 Juta di 2025",
-  "deck": "Laba bersih JMAS turun drastis dari Rp2,83 miliar menjadi Rp398 juta pada 2025, sementara liabilitas ke pemegang polis melonjak 160 persen.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JMAS",
-   "asuransi syariah",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/08a7c80688_033c92fe41.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-rencana-pengambilalihan-ruby-mining-dibatalkan",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Rencana Pengambilalihan Ruby Mining [Dibatalkan]",
-  "deck": "Rencana Ruby Mining Hongkong Limited mengambil alih 86 persen saham KDTN dari tiga pemegang saham lama resmi dibatalkan pada 5 November 2026.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "pengambilalihan",
-   "akuisisi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/37ea5a8fa2_7ab1db80af.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-gelar-rupslb-27-november-putuskan-transaksi-sbth",
-  "category": "Aksi Korporasi",
-  "title": "TOBA Gelar RUPSLB 27 November, Putuskan Transaksi [SBTH]",
-  "deck": "RUPSLB TOBA digelar 27 November 2026 untuk menyetujui rencana investasi ke SBTH Asia Holdings, transaksi yang nilainya di atas separuh ekuitas perusahaan.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "RUPSLB",
-   "Transaksi Material",
-   "SBTH"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e0f7b8b69_72e8d0101a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pssi-koreksi-pengumuman-bagikan-saham-treasuri-ke-pemegang-saham",
-  "category": "Aksi Korporasi",
-  "title": "PSSI Koreksi Pengumuman, Bagikan [Saham Treasuri] ke Pemegang Saham",
-  "deck": "Perseroan mengoreksi keterbukaan informasi sebelumnya: aksi korporasi ini bukan bonus saham dari laba, tapi distribusi saham treasuri ke pemegang saham dengan rasio 30:1.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "saham treasuri",
-   "aksi korporasi",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/49cd74d7ef_c70c7233b1.pdf",
-  "sourceLabel": "IDX"
  }
 ];

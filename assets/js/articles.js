@@ -3,6 +3,168 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupo-medp-17-november-alih-dana-rp427-m-ke-ekspansi-deb",
+  "category": "Aksi Korporasi",
+  "title": "RUPO MEDP 17 November: [Alih] Dana Rp427 M ke Ekspansi DEB",
+  "deck": "MEDP mengajukan perubahan penggunaan sisa dana obligasi Rp427,21 miliar dari proyek panas bumi Bonjol ke ekspansi PLTGU Batam, menunggu persetujuan RUPO 17 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T09:56:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ed9f4f36db_5b08e86767.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDP",
+  "tags": [
+   "MEDP",
+   "Obligasi",
+   "RUPO",
+   "Medco Power Indonesia"
+  ],
+  "body": [
+   "Corporate Secretary dan Head of Corporate Communication MEDP, Fajrah Lestari Akili, menyampaikan kepada Otoritas Jasa Keuangan rencana mengubah penggunaan sisa dana hasil Obligasi Berkelanjutan I Medco Power Indonesia Tahap I Tahun 2025 Seri A dan Seri B. Dana obligasi itu semula seluruhnya dialokasikan untuk anak usaha PT Medco Geothermal Sumatera (MGSU), terdiri dari USD5.065.000 untuk survei dan pengeboran sumur eksplorasi Proyek Bonjol di Pasaman, Sumatera Barat (PSPE Bonjol), serta USD35.000.000 untuk pengusahaan panas bumi di Wilayah Kerja Panas Bumi Bonjol (WKP Bonjol), dengan total kebutuhan sekitar Rp652,9 miliar memakai kurs Rp16.296 per dolar AS. Berdasarkan laporan realisasi per 30 Juni 2026, perusahaan baru memakai Rp66,20 miliar untuk PSPE Bonjol, sehingga sisa Rp427,21 miliar kini diusulkan dialihkan ke proyek lain.",
+   "Sisa dana itu akan dipakai untuk membiayai ekspansi PLTGU Batam-3 dan Batam-4 berkapasitas 2 x 150 MW yang dikerjakan anak usaha lain, PT Dalle Energy Batam (DEB), sebagai tambahan kapasitas dari PLTGU Panaran 2 yang sudah beroperasi 76 MW. Proyek ini berjalan berdasarkan Perjanjian Jual Beli Tenaga Listrik antara DEB dan PT Pelayanan Listrik Nasional Batam (PLNB) tertanggal 9 September 2026 untuk masa 25 tahun. Pembiayaan dari MEDP ke DEB akan berbentuk pinjaman dan/atau penambahan modal, dan dana itu rencananya dicairkan pada November hingga Desember 2026.",
+   "Perseroan beralasan hasil evaluasi awal pengeboran sumur eksplorasi di Bonjol menemukan potensi sumber daya panas bumi yang masih perlu survei tambahan, kajian teknis, dan pengurusan izin lingkungan serta kehutanan, yang diperkirakan memakan waktu 12 hingga 18 bulan ke depan. Karena proyek Bonjol mundur sementara kebutuhan dana untuk ekspansi DEB mendesak, perubahan penggunaan dana ini baru bisa berlaku jika disetujui pemegang obligasi dalam Rapat Umum Pemegang Obligasi (RUPO) yang dijadwalkan Selasa, 17 November 2026 pukul 14.00 WIB di Gedung The Energy, SCBD, Jakarta, dengan Bank Mega Tbk sebagai wali amanat."
+  ],
+  "fotoAdegan": "Large gas-fired power plant turbines and steel pipework beside a tropical coastline, technicians in hard hats inspecting equipment at a distance.",
+  "takeaway": "Laporan ini netral bagi pemegang obligasi MEDP: dana tidak hilang, hanya dipindahkan dari proyek panas bumi Bonjol yang molor ke proyek ekspansi PLTGU Batam yang sudah mengikat kontrak jual listrik 25 tahun dengan PLN Batam, jadi ada sisi positif berupa kepastian pendapatan jangka panjang yang diimbangi sinyal negatif berupa tertundanya proyek geotermal 12 hingga 18 bulan. Perubahan ini menyentuh arus kas perusahaan, karena dana hasil obligasi yang tadinya mengalir ke anak usaha MGSU kini dialihkan ke anak usaha lain, DEB, dalam bentuk pinjaman atau tambahan modal yang akan menambah utang antar-perusahaan di dalam grup. Yang menentukan kelanjutannya adalah Rapat Umum Pemegang Obligasi pada 17 November 2026 di Jakarta, karena perubahan penggunaan dana ini baru sah jika disetujui pemegang obligasi, dan hasilnya wajib dilaporkan ke OJK paling lambat dua hari kerja setelahnya.",
+  "sentimen": "netral",
+  "judulIdx": "Penvampaian Rencana Perubahan Penqqunaan Dana Hasil Penawaran Umum Obliqasi dan Rencana Penvelenqqaraan Rapat Umum Pemeqanq Obliqasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "RUPO persetujuan perubahan penggunaan dana obligasi"
+   }
+  ]
+ },
+ {
+  "slug": "rupo-obligasi-ptpp-11-november-restrukturisasi-ditolak",
+  "category": "Aksi Korporasi",
+  "title": "RUPO Obligasi PTPP 11 November: [Restrukturisasi] Ditolak",
+  "deck": "Pemegang Obligasi Berkelanjutan III PTPP Tahap I Seri B menolak keempat usulan restrukturisasi bunga, termasuk penundaan bunga ke-18 yang sudah telat dibayar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T09:20:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b9f6eaba4b_d2602b0803.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "RUPO",
+   "obligasi",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk menggelar Rapat Umum Pemegang Obligasi (RUPO) ketiga untuk Obligasi Berkelanjutan III PTPP Tahap I Tahun 2021 Seri B pada Selasa, 11 November 2026, pukul 15.43 hingga 17.05 WIB di Park Hotel Jakarta. Hasilnya, keempat usulan yang diajukan perseroan untuk meringankan pembayaran bunga semuanya ditolak oleh pemegang obligasi, termasuk permintaan penundaan pembayaran bunga ke-18 yang sudah terlambat dibayar sejak sebelumnya.",
+   "Rapat dihadiri pemegang obligasi dan kuasanya yang mewakili Rp572,3 miliar suara, atau 88,73 persen dari total obligasi seri ini yang belum dilunasi sebesar Rp645 miliar, sehingga syarat kuorum kehadiran terpenuhi. PTPP diwakili Direktur Keuangan Faizal Rahmad, sementara wali amanat dijabat PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk. Empat pemegang obligasi menyampaikan pertanyaan atau pendapat sebelum pemungutan suara tertulis dilakukan. Untuk usulan pertama, yakni waiver atas bunga ke-18 yang telat dibayar sekaligus penundaan bunga tanpa denda sampai jatuh tempo 2027, sebanyak 97,59 persen suara menolak dan hanya 2,41 persen yang setuju. Usulan kedua, yaitu opsi membayar bunga 1 persen per tahun untuk bunga ke-19 dan ke-20 dengan sisanya ditangguhkan sampai jatuh tempo 2027, ditolak lebih tipis dengan 50,03 persen suara menolak berbanding 49,97 persen setuju. Usulan ketiga soal pemberian kuasa kepada wali amanat untuk menandatangani perubahan perjanjian juga ditolak tipis, 50,90 persen berbanding 49,10 persen.",
+   "Usulan keempat, yaitu pembebasan wali amanat dari segala tuntutan di kemudian hari, sebenarnya memperoleh suara setuju mayoritas sebesar 61,33 persen. Namun karena Perjanjian Perwaliamanatan mensyaratkan persetujuan minimal tiga per empat atau 75 persen dari suara yang hadir agar keputusan sah, usulan ini pun tetap dinyatakan tidak disetujui. Dengan ditolaknya seluruh usulan, tidak ada keringanan yang diperoleh PTPP untuk kewajiban bunga ke-18 yang sudah telat maupun bunga ke-19 dan ke-20 mendatang."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a tall building site in Jakarta, cranes against an overcast sky.",
+  "takeaway": "Hasil RUPO ini negatif bagi PTPP, karena keempat usulan keringanan bunga ditolak, bahkan dua usulan nyaris ditolak telak dengan selisih suara setuju-menolak yang sangat sempit, tanda pemegang obligasi tidak percaya pada proposal restrukturisasi yang ditawarkan. Yang tersentuh di sini adalah arus kas dan beban bunga perseroan, karena tanpa keringanan, PTPP tetap harus menanggung kewajiban bunga ke-18 yang sudah terlambat dibayar sesuai ketentuan awal perjanjian, tanpa penangguhan, yang berarti tekanan likuiditas jangka pendek tidak berkurang. Perlu dicermati bagaimana PTPP akhirnya menyelesaikan kewajiban bunga ke-18 yang tertunggak itu dan apakah akan ada RUPO lanjutan atau langkah lain dari wali amanat bank bjb, mengingat pokok obligasi ini jatuh tempo pada 2027. Hasil ini sejalan dengan penolakan serupa pada RUPSu sukuk PTPP yang sudah diberitakan sebelumnya, menegaskan pola yang sama di beberapa instrumen utang perseroan.",
+  "sentimen": "negatif",
+  "peristiwa": "rupo",
+  "judulIdx": "Pemberitahuan Hasil RUPO PP (Persero) Tbk"
+ },
+ {
+  "slug": "rupsu-ptpp-11-november-restrukturisasi-sukuk-ditolak-setuju-68",
+  "category": "Aksi Korporasi",
+  "title": "RUPSu PTPP 11 November: [Restrukturisasi] Sukuk Ditolak, Setuju 68%",
+  "deck": "RUPSu pemegang Sukuk Mudharabah PTPP Seri B menolak dua opsi keringanan bagi hasil, opsi pertama disetujui 68,09% suara tapi kurang dari ambang 75% yang disyaratkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T09:20:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/075862d83b_bbd7e60b2d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "RUPSu",
+   "Sukuk",
+   "Restrukturisasi Utang"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk menggelar Rapat Umum Pemegang Sukuk (RUPSu) ketiga untuk Sukuk Mudharabah Berkelanjutan I PTPP Tahap I Tahun 2021 Seri B pada 11 November 2026 di Park Hotel Jakarta. Pemegang sukuk menolak kedua opsi keringanan yang diajukan perusahaan. Opsi pertama, penundaan pembayaran bagi hasil tanpa denda sampai jatuh tempo 2027, hanya disetujui 68,09% suara atau senilai Rp64 miliar dari total sukuk yang hadir, masih di bawah syarat minimal 75% suara setuju yang diatur dalam Perjanjian Perwaliamanatan. Opsi kedua, pembayaran bagi hasil 1% per tahun sampai jatuh tempo 2027 dengan sisa kewajiban ditangguhkan ke tahun yang sama, mendapat dukungan lebih rendah lagi, yaitu 38,30% atau Rp36 miliar, sehingga juga ditolak.",
+   "Karena kedua opsi gagal mendapat suara cukup, dua agenda ikutan yaitu pemberian kuasa kepada wali amanat untuk menandatangani perubahan perjanjian dan pembebasan wali amanat dari tuntutan di kemudian hari, juga ikut ditolak dengan proporsi suara yang sama. RUPSu ini dihadiri pemegang sukuk yang mewakili Rp94 miliar atau 94% dari total sukuk Seri B yang masih beredar senilai Rp100 miliar, sehingga syarat kuorum terpenuhi. Perseroan diwakili Direktur Keuangan Faizal Rahmad, wali amanat dijabat PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk, dan notaris Rosida Rajagukguk-Siregar mencatat jalannya rapat. Tidak ada pemegang sukuk yang mengajukan pertanyaan atau pendapat selama pertemuan berlangsung.",
+   "Kedua opsi ini sejak awal diajukan karena PTPP belum membayar bagi hasil ke-18 sukuk tersebut. Dengan penolakan ini, status keterlambatan pembayaran bagi hasil ke-18 tetap tanpa kesepakatan baru antara perusahaan dan pemegang sukuk."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs facing a lectern in a hotel ballroom, soft morning light through curtains",
+  "takeaway": "Hasil RUPSu ini negatif bagi PTPP, karena opsi yang sebenarnya didukung mayoritas pemegang sukuk, 68,09% suara setuju, tetap gagal lolos lantaran aturan mensyaratkan persetujuan minimal 75 persen, sementara opsi kedua bahkan hanya didukung 38,30%. Ini menyentuh arus kas perusahaan, yaitu ketersediaan uang tunai untuk membayar kewajiban, karena tanpa kelonggaran waktu yang disepakati, PTPP tetap harus menyediakan dana untuk melunasi bagi hasil ke-18 yang sudah menunggak, berbeda dari pola restrukturisasi utang yang biasanya disetujui pemegang surat utang ketika emiten kesulitan membayar. Perlu dipantau apakah PTPP akan mengajukan RUPSu lanjutan dengan syarat yang direvisi atau menyelesaikan kewajiban yang tertunggak sebelum jatuh tempo pokok sukuk pada 2027, mengingat dokumen ini belum mencantumkan tanggal rapat lanjutan.",
+  "sentimen": "negatif",
+  "peristiwa": "rupo",
+  "judulIdx": "Pemberitahuan Hasil RUPSU PP (Persero) Tbk"
+ },
+ {
+  "slug": "rupsu-sukuk-ptpp-tahap-iii-restrukturisasi-ditolak-setuju-71",
+  "category": "Aksi Korporasi",
+  "title": "RUPSu Sukuk PTPP Tahap III: [Restrukturisasi] Ditolak, Setuju 71%",
+  "deck": "Empat usulan restrukturisasi bagi hasil Sukuk Mudharabah Tahap III PTPP kandas karena tak mencapai syarat 75% suara setuju, walau tiga di antaranya didukung mayoritas pemegang sukuk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T09:20:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fc89a4b789_fe2e4d4b16.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "Sukuk",
+   "RUPSu",
+   "Restrukturisasi Utang"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk menggelar Rapat Umum Pemegang Sukuk (RUPSu) ketiga untuk Sukuk Mudharabah Berkelanjutan I PTPP Tahap III Tahun 2023 pada Rabu, 11 November 2026, di Park Hotel Jakarta. Rapat dihadiri pemegang sukuk yang mewakili Rp105 miliar dari total sukuk yang belum dilunasi sebesar Rp108,754 miliar, atau 96,55 persen, sehingga kuorum sesuai perjanjian perwaliamanatan terpenuhi. Perseroan diwakili Direktur Keuangan Faizal Rahmad, sementara PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk hadir selaku wali amanat.",
+   "Emiten mengajukan empat usulan keputusan: pertama, penundaan pembayaran bagi hasil sampai jatuh tempo 2027 tanpa denda; kedua, pembayaran bagi hasil hanya 1 persen per tahun untuk bagi hasil ke-19 dan ke-20 dengan selisihnya ditangguhkan dan dibayar saat jatuh tempo 2027, sementara bagi hasil ke-18 yang sudah terlambat dibayar penuh bersamaan jatuh tempo pokok; ketiga, kuasa bagi wali amanat untuk menandatangani perubahan perjanjian perwaliamanatan; dan keempat, pembebasan wali amanat dari tuntutan di kemudian hari. Karena aturan mensyaratkan persetujuan minimal 75 persen dari suara yang hadir, keempat usulan gagal lolos meski perolehan suara setujunya cukup tinggi: usulan pertama disetujui 71,43 persen (Rp75 miliar), usulan kedua dan ketiga masing-masing 61,90 persen (Rp65 miliar), sedangkan usulan keempat hanya disetujui 45,71 persen dan justru ditolak mayoritas 54,29 persen suara (Rp57 miliar).",
+   "Dengan ditolaknya seluruh usulan, PTPP tetap terikat pada ketentuan pembayaran bagi hasil sukuk yang semula, termasuk kewajiban bagi hasil ke-18 yang sudah terlambat dibayar. Tidak ada pemegang sukuk yang mengajukan pertanyaan atau pendapat dalam rapat tersebut, dan keputusan diambil melalui pemungutan suara tertulis sesuai Pasal 10 Perjanjian Perwaliamanatan."
+  ],
+  "fotoAdegan": "Construction site with tower cranes and rebar frames under an overcast sky, workers in hard hats below",
+  "takeaway": "Hasil RUPSu ini negatif bagi PTPP, karena keempat usulan keringanan tetap ditolak meski tiga di antaranya sebenarnya didukung mayoritas pemegang sukuk dengan 61 sampai 71 persen suara setuju, hanya karena perjanjian mensyaratkan ambang persetujuan minimal 75 persen. Pos yang tersentuh adalah arus kas dan beban bagi hasil, sebab tanpa keringanan ini PTPP tetap wajib membayar penuh sesuai jadwal awal, termasuk bagi hasil ke-18 yang sudah menunggak, di tengah rangkaian penolakan serupa pada obligasi dan sukuk lain perusahaan pekan ini. Yang perlu dipantau selanjutnya adalah langkah PTPP untuk menutupi kewajiban bagi hasil ke-18 yang masih menunggak dan jatuh tempo pokok sukuk pada 2027, karena dokumen ini tidak menyebut jadwal rapat lanjutan atau opsi penyelesaian baru.",
+  "sentimen": "negatif",
+  "peristiwa": "rupo",
+  "judulIdx": "Pemberitahuan Hasil RUPSU PP (Persero) Tbk"
+ },
+ {
+  "slug": "peringkat-sukuk-post-turun-ke-d-idn-gagal-bayar-ijarah",
+  "category": "Aksi Korporasi",
+  "title": "Peringkat Sukuk POST Turun ke D(idn): [Gagal Bayar] Ijarah",
+  "deck": "Fitch menurunkan peringkat Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap I milik emiten POST ke D(idn) dari C(idn) setelah gagal bayar imbalan ijarah jatuh tempo 8 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T09:20:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/87588d8eed_8840c8e4af.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "Sukuk Ijarah",
+   "Fitch Ratings",
+   "Gagal Bayar"
+  ],
+  "body": [
+   "PT Fitch Ratings Indonesia menurunkan Peringkat Nasional Jangka Panjang untuk Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap I, surat utang syariah yang diterbitkan emiten berkode POST, menjadi 'D(idn)' dari sebelumnya 'C(idn)'. Peringkat D menandakan status gagal bayar. Menurut surat Fitch bernomor 210/DIR/RATLTR/XI/2026 tertanggal 3 November 2026, penurunan ini dipicu oleh kegagalan POST membayar cicilan imbalan ijarah atas sukuk tahap pertama yang jatuh tempo pada 8 Oktober 2026, setelah masa tenggang kontraktual 14 hari kerja yang diberikan juga tidak dipenuhi.",
+   "Penurunan peringkat ini berlaku untuk tiga seri sukuk dalam program Tahap I Tahun 2024. Seri A dengan jumlah pokok Rp100 miliar yang jatuh tempo 8 Januari 2028, Seri B dengan pokok Rp750 miliar jatuh tempo 8 Januari 2030, dan Seri C dengan pokok Rp150 miliar jatuh tempo 8 Januari 2032. Total pokok ketiga seri yang terdampak mencapai Rp1 triliun, dengan outlook dicatat sebagai 'lain-lain' dan periode rating berlaku dari 3 November 2026 hingga 3 November 2027.",
+   "Hasil pemeringkatan ini diterima POST pada 4 November 2026 dan dipublikasikan pada tanggal yang sama. Laporan keterbukaan informasi ke Bursa Efek Indonesia disampaikan pada 12 November 2026 pukul 09.20 oleh Iwan Gunawan selaku Corporate Secretary. Surat dari Fitch sendiri ditandatangani oleh Olly Prayudi, Direktur PT Fitch Ratings Indonesia."
+  ],
+  "fotoAdegan": "Workers loading parcels onto a delivery van at a logistics depot yard, overcast morning light in Indonesia",
+  "takeaway": "Laporan ini jelas NEGATIF bagi emiten, karena peringkat D adalah level terburuk dalam skala rating dan secara eksplisit berarti gagal bayar, bukan sekadar penurunan biasa. Pos yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena ketidakmampuan membayar imbalan ijarah yang jatuh tempo menunjukkan kas yang tersedia tidak cukup menutupi kewajiban ke pemegang sukuk, dan pelaku pasar memakai indikator ini untuk menilai kemampuan bayar utang ke depan. Yang perlu dipantau berikutnya adalah apakah POST akhirnya melunasi tunggakan kepada pemegang sukuk senilai total Rp1 triliun sebelum masa berlaku peringkat ini usai pada 3 November 2027, serta apakah kegagalan bayar ini merembet ke seri-seri sukuk lain yang baru jatuh tempo pada 2028 hingga 2032.",
+  "sentimen": "negatif",
+  "judulIdx": "Laporan Hasil Pemeringkatan Pemeringkatan Karena Terdapat Fakta Material",
+  "jadwal": [
+   {
+    "tanggal": "2026-10-08",
+    "acara": "Jatuh tempo cicilan imbalan ijarah yang gagal dibayar POST"
+   },
+   {
+    "tanggal": "2026-11-03",
+    "acara": "Fitch menerbitkan hasil pemeringkatan baru D(idn)"
+   },
+   {
+    "tanggal": "2026-11-04",
+    "acara": "Publikasi hasil pemeringkatan ke publik"
+   },
+   {
+    "tanggal": "2027-11-03",
+    "acara": "Akhir periode berlaku peringkat saat ini"
+   }
+  ]
+ },
+ {
   "slug": "39-umkm-dapat-fasilitasi-104-barcode-untuk-masuk-ritel-modern",
   "category": "UMKM",
   "title": "39 UMKM Dapat Fasilitasi [104] Barcode untuk Masuk Ritel Modern",

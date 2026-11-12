@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupo-adhi-11-desember-2026-obligasi-tahap-iii-2022-dibahas",
+  "category": "Aksi Korporasi",
+  "title": "[RUPO] ADHI 11 Desember 2026: Obligasi Tahap III 2022 Dibahas",
+  "deck": "ADHI mengumumkan rencana RUPO untuk Obligasi Berkelanjutan III Tahap III 2022 pada 11 Desember 2026, panggilan resmi terbit 27 November 2026.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "RUPO",
+   "Obligasi",
+   "Bank Mega"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/011b74a80a_0937bea065.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-mdia-rugi-bersih-melebar-ke-rp32-3-miliar-di-6m2026",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose MDIA: Rugi Bersih [Melebar] ke Rp32,3 Miliar di 6M2026",
+  "deck": "Materi public expose tahunan MDIA menunjukkan pendapatan turun 8,6 persen dan rugi bersih melebar ke Rp32,30 miliar pada semester I 2026, meski liabilitas turun 17,1 persen.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDIA",
+   "ANTV",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/be1959a4d6_d10ee1712e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-viva-6m2026-laba-bersih-anjlok-95-jadi-rp60-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose VIVA 6M2026: Laba Bersih [Anjlok] 95% jadi Rp60 Miliar",
+  "deck": "Materi Public Expose VIVA menunjukkan pendapatan dan EBITDA semester I 2026 turun, laba bersih merosot dari Rp1.191,87 miliar menjadi Rp60,02 miliar.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VIVA",
+   "Public Expose",
+   "Kinerja Keuangan",
+   "Visi Media Asia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/28325c7881_cb859e3b43.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akuisisi-visi-rampung-kuasai-72-91-saham-hmbc-per-30-okt",
+  "category": "Aksi Korporasi",
+  "title": "Akuisisi VISI Rampung: [Kuasai] 72,91% Saham HMBC per 30 Okt",
+  "deck": "VISI menuntaskan akuisisi 72,91% saham PT Hasna Medika Bakti Cirebon pada 30 Oktober 2026, lewat pembelian saham lama dan penyetoran modal saham baru.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "akuisisi",
+   "HMBC",
+   "Satu Visi Putra"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cd55282834_e50e16ad2b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "nice-tanggapi-bursa-permintaan-penjelasan-kredit-citibank-rp100-m",
   "category": "Aksi Korporasi",
   "title": "NICE Tanggapi Bursa [Permintaan Penjelasan]: Kredit Citibank Rp100 M",
@@ -119,15 +183,15 @@ var ARTICLES = [
  {
   "slug": "dividen-interim-msti-rp48-per-saham-cair-10-desember-2026",
   "category": "Aksi Korporasi",
-  "title": "Dividen Interim MSTI Rp48 per Saham: [Cair] 10 Desember 2026",
-  "deck": "MSTI membagikan dividen interim tunai Rp150,69 miliar atau Rp48 per saham, dibayarkan 10 Desember 2026.",
+  "title": "Dividen Interim MSTI Rp48 per Saham: Cair 10 Desember 2026",
+  "deck": "MSTI menegaskan dividen interim Rp48 per saham cair 10 Desember 2026, sekaligus membuka data laba bersih Rp298,35 miliar dan ekuitas Rp2,26 triliun yang mendasarinya.",
   "date": "12 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "MSTI",
    "dividen interim",
-   "Mastersystem Infotama",
-   "pasar modal"
+   "dividen tunai",
+   "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d094ae280_b8edfcbf82.pdf",
   "sourceLabel": "IDX"
@@ -336,6 +400,22 @@ var ARTICLES = [
    "Rig Tenders"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf59a78268_e1bd6820d0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupst-wirg-10-november-dividen-nihil-komisaris-independen-lengser",
+  "category": "Aksi Korporasi",
+  "title": "RUPST WIRG 10 November: [Dividen] Nihil, Komisaris Independen Lengser",
+  "deck": "RUPST WIR ASIA menahan seluruh laba 2025 sebagai laba ditahan tanpa dividen, sekaligus memberhentikan Ferdinand Bennyanto dari kursi Komisaris Independen.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIRG",
+   "RUPST",
+   "Komisaris Independen",
+   "Laba Ditahan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75d5ab9f7f_f752ad64fe.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6386,86 +6466,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de65d60bd2_eeee44fb2c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-dan-us-25-juta",
-  "category": "Aksi Korporasi",
-  "title": "OPPM Tawarkan [Obligasi] Rp3,33 Triliun dan US$25 Juta",
-  "deck": "OPPM menawarkan obligasi rupiah hingga Rp3,33 triliun dan obligasi dolar hingga US$25 juta pada 6-9 November 2026, melengkapi program utang Rp12 triliun yang hampir rampung.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OPPM",
-   "obligasi korporasi",
-   "pulp dan kertas",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/410bd1d4a4_f8d1ec664b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cpri-panggil-rupst-26-november-bahas-realisasi-dana-ipo-2019",
-  "category": "Aksi Korporasi",
-  "title": "CPRI Panggil RUPST 26 November, Bahas [Realisasi] Dana IPO 2019",
-  "deck": "RUPS Tahunan CPRI digelar 26 November 2026 di Jakarta, membahas laporan keuangan 2025, penggunaan laba, auditor baru, realisasi dana IPO 2019, dan susunan direksi-komisaris.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CPRI",
-   "RUPS Tahunan",
-   "properti",
-   "dana IPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/16a2c2021c_5b35522326.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smii-dana-obligasi-tahap-ii-baru-terealisasi-36-29",
-  "category": "Aksi Korporasi",
-  "title": "SMII: Dana Obligasi Tahap II Baru Terealisasi [36,29%]",
-  "deck": "PT Sarana Multi Infrastruktur (SMII) melaporkan realisasi dana dua obligasi senilai Rp5,3 triliun ke OJK. Tahap I terpakai penuh, tahap II baru 36,29 persen, sisanya mengendap di deposito.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMII",
-   "obligasi korporasi",
-   "realisasi dana",
-   "pembiayaan infrastruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f7e8d01373_8f5b0e81b5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tcid-jadwalkan-rupslb-15-desember-agenda-menyusul",
-  "category": "Aksi Korporasi",
-  "title": "TCID Jadwalkan [RUPSLB] 15 Desember, Agenda Menyusul",
-  "deck": "Mandom Indonesia (TCID) akan menggelar RUPS Luar Biasa pada 15 Desember 2026. Pemegang saham per 20 November 2026 yang berhak hadir dan memberi suara.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TCID",
-   "Mandom Indonesia",
-   "RUPSLB",
-   "korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d136cc2dfc_b1beafd2c4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bexi-siapkan-dana-rp22-5-miliar-untuk-pelunasan-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "BEXI Siapkan Dana Rp22,5 Miliar untuk [Pelunasan] Obligasi",
-  "deck": "Indonesia Eximbank menyatakan telah menyiapkan dana Rp22,5 miliar untuk membayar pokok Obligasi Berkelanjutan IV Tahap VIII Seri C yang jatuh tempo 6 Desember 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEXI",
-   "obligasi",
-   "LPEI",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9686603b8_140f2309ea.pdf",
   "sourceLabel": "IDX"
  }
 ];

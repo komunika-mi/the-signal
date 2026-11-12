@@ -3,6 +3,127 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupo-adhi-11-desember-2026-obligasi-tahap-iii-2022-dibahas",
+  "category": "Aksi Korporasi",
+  "title": "[RUPO] ADHI 11 Desember 2026: Obligasi Tahap III 2022 Dibahas",
+  "deck": "ADHI mengumumkan rencana RUPO untuk Obligasi Berkelanjutan III Tahap III 2022 pada 11 Desember 2026, panggilan resmi terbit 27 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T21:16:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/011b74a80a_0937bea065.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "RUPO",
+   "Obligasi",
+   "Bank Mega"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk melalui Corporate Secretary Siswanto mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi Berkelanjutan III Adhi Karya Tahap III Tahun 2022. Rapat dijadwalkan pada Jumat, 11 Desember 2026, pukul 10.00 WIB, bertempat di ADHI Tower Lantai 16, Jalan MT Haryono Kavling 27, Cawang, Jakarta Timur. Dokumen keterbukaan yang diterbitkan perseroan belum mencantumkan agenda rapat secara spesifik.",
+   "Wali amanat obligasi ini adalah PT Bank Mega Tbk, yang bertindak berdasarkan Perjanjian Perwaliamanatan Akta Nomor 53 tanggal 22 April 2022 di hadapan notaris Ashoya Ratam, S.H., M.Kn., berikut perubahannya. Mengacu pada Peraturan OJK Nomor 20/POJK.04/2020 tentang Kontrak Perwaliamanatan Efek Bersifat Utang dan/atau Sukuk, panggilan resmi untuk RUPO tersebut baru akan dimuat di satu surat kabar harian berperedaran nasional pada Jumat, 27 November 2026. Artinya, rincian agenda rapat kemungkinan baru terbuka ke publik lewat panggilan itu, bukan dari pengumuman rencana ini.",
+   "Pengumuman ini terbit sehari setelah ADHI mengoreksi laporan keuangannya dan mencatat rugi bersih Rp19,18 miliar pada semester pertama 2026, dengan kas perusahaan yang menyusut lebih dari separuh menjadi Rp813 miliar dalam enam bulan. Dokumen RUPO ini sendiri tidak menyebut kaitan langsung dengan koreksi laporan keuangan tersebut."
+  ],
+  "fotoAdegan": "Exterior view of a tall modern office tower in a Jakarta business district, construction cranes faintly visible, late afternoon light",
+  "takeaway": "Penilaian saya netral untuk saat ini, karena dokumen resmi ini belum membuka agenda RUPO sehingga publik belum bisa memastikan apakah pertemuan ini membahas permintaan keringanan dari pemegang obligasi atau sekadar agenda rutin wali amanat. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang benar-benar keluar masuk kas perusahaan, dan beban bunga, yaitu biaya yang wajib dibayar emiten ke pemegang obligasi setiap periode. Pelaku pasar memperhatikan RUPO karena rapat semacam ini biasanya baru dipanggil kalau ada isu terkait kemampuan bayar emiten ke krediturnya, dan kebetulan ADHI baru saja melaporkan rugi bersih serta kas yang menyusut lebih dari separuh menjadi Rp813 miliar. Yang perlu dipantau selanjutnya adalah publikasi panggilan resmi RUPO di surat kabar nasional pada 27 November 2026 yang akan memuat agenda lengkapnya, lalu RUPO itu sendiri pada 11 Desember 2026 yang akan menentukan apakah ada perubahan syarat atas Obligasi Berkelanjutan III Tahap III 2022.",
+  "sentimen": "netral",
+  "peristiwa": "rupo",
+  "judulIdx": "Pemberitahuan Rencana RUPO PT Adhi Karya (Persero) Tbk.",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Panggilan resmi RUPO dimuat di surat kabar nasional"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "RUPO Obligasi Berkelanjutan III Tahap III 2022 digelar"
+   }
+  ]
+ },
+ {
+  "slug": "public-expose-mdia-rugi-bersih-melebar-ke-rp32-3-miliar-di-6m2026",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose MDIA: Rugi Bersih [Melebar] ke Rp32,3 Miliar di 6M2026",
+  "deck": "Materi public expose tahunan MDIA menunjukkan pendapatan turun 8,6 persen dan rugi bersih melebar ke Rp32,30 miliar pada semester I 2026, meski liabilitas turun 17,1 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T21:14:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/be1959a4d6_d10ee1712e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDIA",
+  "tags": [
+   "MDIA",
+   "ANTV",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Intermedia Capital Tbk (MDIA), induk usaha stasiun televisi ANTV, menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia pada 12 November 2026, merujuk pada pengumuman sebelumnya tertanggal 30 Oktober 2026. Dalam materi tersebut, perseroan mengungkapkan pendapatan semester I 2026 turun 8,6 persen menjadi Rp281,82 miliar, dari Rp308,17 miliar pada periode yang sama tahun sebelumnya. Laba sebelum bunga, pajak, depresiasi dan amortisasi (EBITDA) ikut turun 30,1 persen menjadi Rp59,71 miliar, membuat marjin EBITDA menyusut dari 27,7 persen menjadi 21,2 persen. Rugi bersih perseroan melebar signifikan, dari Rp11,44 miliar pada semester I 2025 menjadi Rp32,30 miliar pada semester I 2026, atau naik 182,3 persen.",
+   "Di sisi neraca, total aset perseroan turun 13,1 persen, dari Rp3.337,53 miliar pada akhir 2025 menjadi Rp2.901,72 miliar per akhir semester I 2026, terutama akibat penyusutan aset tidak lancar sebesar 16,0 persen menjadi Rp2.322 miliar. Total liabilitas turun lebih tajam, 17,1 persen, dari Rp2.393,72 miliar menjadi Rp1.985,57 miliar, dengan liabilitas jangka panjang turun 19,2 persen dan liabilitas jangka pendek turun 13,0 persen. Ekuitas perseroan relatif stabil, turun tipis 2,9 persen menjadi Rp916,15 miliar.",
+   "Berdasarkan data Biro Administrasi Efek per 31 Oktober 2026, PT Visi Media Asia Tbk tetap menjadi pemegang saham pengendali dengan 80,7 persen atau 31,66 miliar saham, diikuti PT DMS Investama dengan 6,7 persen atau 2,64 miliar saham, dan publik dengan 12,6 persen atau 4,92 miliar saham. Susunan direksi saat ini dipimpin Ahmad R. Widarmana sebagai Direktur Utama, dengan Anindra Ardiansyah Bakrie sebagai Komisaris Utama. Dari sisi digital, perseroan mencatat pendapatan digital Rp4,2 miliar pada Oktober 2026, dengan jumlah tayangan YouTube 564 juta dan jangkauan media sosial 217 juta."
+  ],
+  "fotoAdegan": "Television studio crew adjusting camera rigs and bright stage lighting on an entertainment program set",
+  "takeaway": "Laporan ini condong negatif bagi performa dasar ANTV: pendapatan dan EBITDA sama-sama turun dua digit, dan rugi bersih malah melebar hampir tiga kali lipat dalam setahun, meski perseroan berhasil memangkas utang 17,1 persen yang sedikit menahan tekanan di sisi neraca. Yang tersentuh adalah EBITDA, yakni laba operasional sebelum bunga, pajak dan penyusutan yang jadi ukuran dasar apakah bisnis inti stasiun TV ini masih menghasilkan kas dari operasionalnya, dan penurunan marjinnya dari 27,7 persen ke 21,2 persen berarti setiap rupiah pendapatan kini menyisakan laba operasional yang lebih tipis. Ekuitas pemegang saham juga tergerus tipis akibat akumulasi rugi, meski penurunan utang membuat posisi keuangan perseroan tidak memburuk secara keseluruhan. Yang perlu dipantau berikutnya adalah apakah efisiensi biaya dan kerja sama konten dengan platform OTT yang disebut dalam materi ini bisa menahan laju rugi pada laporan keuangan semester berikutnya, karena dokumen ini sendiri tidak menyebut target maupun tenggat pemulihan kinerja.",
+  "sentimen": "negatif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+ },
+ {
+  "slug": "public-expose-viva-6m2026-laba-bersih-anjlok-95-jadi-rp60-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose VIVA 6M2026: Laba Bersih [Anjlok] 95% jadi Rp60 Miliar",
+  "deck": "Materi Public Expose VIVA menunjukkan pendapatan dan EBITDA semester I 2026 turun, laba bersih merosot dari Rp1.191,87 miliar menjadi Rp60,02 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T21:10:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/28325c7881_cb859e3b43.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VIVA",
+  "tags": [
+   "VIVA",
+   "Public Expose",
+   "Kinerja Keuangan",
+   "Visi Media Asia"
+  ],
+  "body": [
+   "PT Visi Media Asia Tbk (VIVA) menyampaikan materi Public Expose Tahunan 2026 ke Bursa Efek Indonesia pada 12 November 2026, menyusul pengumuman rencana acara yang sebelumnya disampaikan pada 30 Oktober 2026. Materi tersebut memuat kinerja keuangan semester I 2026, di mana VIVA mencatat pendapatan Rp441,44 miliar, turun dari Rp477,94 miliar pada semester I 2025. EBITDA ikut turun dari Rp32,78 miliar menjadi Rp30,68 miliar, meski margin EBITDA tetap stabil di 6,9 persen pada kedua periode. Laba bersih merosot tajam dari Rp1.191,87 miliar pada semester I 2025 menjadi Rp60,02 miliar pada semester I 2026, turun sekitar 95 persen.",
+   "Dari sisi neraca, total liabilitas Perseroan turun dari Rp6.022,35 miliar pada akhir 2025 menjadi Rp5.842,84 miliar per Juni 2026. Sementara itu, ekuitas melonjak 37,2 persen dari Rp361,61 miliar menjadi Rp496,10 miliar pada periode yang sama, sedangkan total aset sedikit menyusut dari Rp6.383,96 miliar menjadi Rp6.338,94 miliar. Lonjakan ekuitas ini berkaitan dengan proses konversi utang menjadi saham baru yang sebelumnya diumumkan VIVA, di mana jumlah saham baru untuk melunasi utang direvisi naik menjadi maksimal 86,17 miliar lembar.",
+   "Materi Public Expose juga memaparkan posisi bisnis unit Perseroan. Saluran berita tvOne berada di peringkat pertama kategori berita untuk segmen pemirsa dewasa kelas atas dengan pangsa pemirsa 4,7 persen, sementara ANTV berada di peringkat keenam kategori hiburan dengan pangsa 6,4 persen pada seluruh kelompok umur. Di platform digital, viva.co.id tercatat sebagai situs berita peringkat ke-12 menurut Simweb, dengan rata-rata trafik lebih dari 216 juta kunjungan per bulan."
+  ],
+  "fotoAdegan": "A television news camera crew filming an outdoor segment at dusk, lighting rig and microphone boom visible, Jakarta skyline",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham VIVA, karena pendapatan dan EBITDA sama-sama turun, dan laba bersih anjlok 95 persen yang menunjukkan hilangnya keuntungan satu kali yang mendongkrak laba tahun lalu. Pos yang tersentuh di sini adalah ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi utang, yang naik 37,2 persen bukan karena laba ditahan melainkan karena konversi utang menjadi saham baru, sehingga jumlah saham beredar bertambah dan bisa menggerus laba per saham ke depan. Pemegang saham perlu memantau kelanjutan proses konversi utang menjadi saham, yang sebelumnya direvisi menjadi maksimal 86,17 miliar lembar saham baru, karena itu akan menentukan seberapa besar dilusi kepemilikan publik VIVA nantinya.",
+  "sentimen": "negatif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+ },
+ {
+  "slug": "akuisisi-visi-rampung-kuasai-72-91-saham-hmbc-per-30-okt",
+  "category": "Aksi Korporasi",
+  "title": "Akuisisi VISI Rampung: [Kuasai] 72,91% Saham HMBC per 30 Okt",
+  "deck": "VISI menuntaskan akuisisi 72,91% saham PT Hasna Medika Bakti Cirebon pada 30 Oktober 2026, lewat pembelian saham lama dan penyetoran modal saham baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T21:05:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cd55282834_e50e16ad2b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "akuisisi",
+   "HMBC",
+   "Satu Visi Putra"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk. (VISI) melaporkan bahwa pada 30 Oktober 2026 pihaknya telah menyelesaikan transaksi pengambilalihan saham PT Hasna Medika Bakti Cirebon (HMBC). Penyelesaian ini terdiri dari dua langkah: VISI membayar lunas kepada PT Hasna Medika Utama Group selaku penjual untuk 17.325 saham HMBC yang dimilikinya, dan secara bersamaan menyetorkan modal baru ke HMBC untuk mengambil bagian atas 142.393 saham baru yang diterbitkan perseroan tersebut. Dengan kedua transaksi ini, saham yang kini dipegang VISI di HMBC setara 72,91 persen dari modal ditempatkan dan disetor HMBC setelah penerbitan saham baru itu, yang berarti VISI kini menjadi pemegang saham pengendali HMBC.",
+   "Rencana transaksi ini sebenarnya sudah diumumkan lebih dulu lewat dua keterbukaan informasi, yaitu perjanjian pemesanan saham bersyarat dengan HMBC pada 24 Agustus 2026 dan perjanjian jual beli saham bersyarat dengan penjual pada 28 September 2026. Laporan kali ini adalah konfirmasi bahwa kedua perjanjian itu sudah efektif dieksekusi, bukan sekadar rencana. VISI menyebut seluruh informasi lain dalam keterbukaan sebelumnya tidak berubah, dan menyatakan transaksi ini tidak berdampak signifikan terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya.",
+   "Nilai rupiah dari transaksi pembelian saham maupun penyetoran modal tidak disebutkan dalam dokumen ini. Akuisisi ini sejalan dengan salah satu bidang usaha VISI yang tercatat mencakup aktivitas perusahaan induk (holding), di samping lini usaha utamanya sebagai pedagang besar bahan advertising dan printing seperti banner, display, tinta, dan PVC board."
+  ],
+  "fotoAdegan": "Warehouse workers stacking rolled blank vinyl banners and printing supplies on tall shelves, forklift nearby, daylight through skylights",
+  "takeaway": "Laporan ini netral bagi VISI: perusahaan resmi mengendalikan HMBC dengan kepemilikan 72,91 persen, tapi tanpa nilai rupiah transaksi yang diungkap, publik belum bisa menilai apakah akuisisi ini murah, mahal, atau membebani kas perusahaan. Yang tersentuh adalah pos kas dan ekuitas VISI, karena uang yang dipakai untuk membayar penjual saham dan menyetor modal baru ke HMBC keluar dari kas perusahaan dan berubah menjadi aset investasi atau penyertaan saham, bukan uang tunai lagi. Pelaku pasar biasanya mencermati pos ini karena menunjukkan seberapa besar sumber daya perusahaan yang terpakai untuk ekspansi dan seberapa kuat posisi kas yang tersisa. Yang perlu dipantau berikutnya adalah laporan keuangan VISI mendatang, untuk melihat apakah HMBC mulai dikonsolidasikan ke dalam laporan keuangan perseroan dan berapa sebenarnya nilai investasi yang tercatat, mengingat dokumen ini sendiri tidak menyebutkan angka transaksinya.",
+  "sentimen": "netral",
+  "judulIdx": "Laporan Informasi atau Fakta Material"
+ },
+ {
   "slug": "nice-tanggapi-bursa-permintaan-penjelasan-kredit-citibank-rp100-m",
   "category": "Aksi Korporasi",
   "title": "NICE Tanggapi Bursa [Permintaan Penjelasan]: Kredit Citibank Rp100 M",
@@ -211,8 +332,8 @@ var ARTICLES = [
  {
   "slug": "dividen-interim-msti-rp48-per-saham-cair-10-desember-2026",
   "category": "Aksi Korporasi",
-  "title": "Dividen Interim MSTI Rp48 per Saham: [Cair] 10 Desember 2026",
-  "deck": "MSTI membagikan dividen interim tunai Rp150,69 miliar atau Rp48 per saham, dibayarkan 10 Desember 2026.",
+  "title": "Dividen Interim MSTI Rp48 per Saham: Cair 10 Desember 2026",
+  "deck": "MSTI menegaskan dividen interim Rp48 per saham cair 10 Desember 2026, sekaligus membuka data laba bersih Rp298,35 miliar dan ekuitas Rp2,26 triliun yang mendasarinya.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T17:27:38",
@@ -222,16 +343,17 @@ var ARTICLES = [
   "tags": [
    "MSTI",
    "dividen interim",
-   "Mastersystem Infotama",
-   "pasar modal"
+   "dividen tunai",
+   "laporan keuangan"
   ],
   "body": [
-   "PT Mastersystem Infotama Tbk (MSTI) memutuskan membagikan dividen interim tunai senilai total Rp150.691.977.600, atau setara Rp48 per saham. Keputusan ini diambil oleh direksi pada 11 November 2026 dan disetujui efektif oleh Dewan Komisaris pada tanggal yang sama. Dividen ini dibayarkan di tengah tahun buku, tanpa menunggu persetujuan RUPS Tahunan.",
-   "Perseroan menetapkan jadwal lengkap pembagian. Periode terakhir saham diperdagangkan dengan hak dividen (cum dividen) di pasar reguler dan negosiasi berakhir 20 November 2026, sedangkan di pasar tunai berakhir 24 November 2026. Setelah itu, saham mulai diperdagangkan tanpa hak dividen (ex dividen), yaitu mulai 23 November 2026 untuk pasar reguler dan negosiasi, dan mulai 25 November 2026 untuk pasar tunai. Tanggal pencatatan pemegang saham yang berhak menerima dividen (recording date) ditetapkan 24 November 2026, dan dana dividen baru dicairkan ke rekening pemegang saham pada 10 Desember 2026.",
+   "PT Mastersystem Infotama Tbk (MSTI) mengonfirmasi melalui surat resmi ke Bursa Efek Indonesia bahwa dividen interim tunai Rp48 per saham, senilai total Rp150,69 miliar, akan dibayarkan 10 Desember 2026. Dokumen terbaru ini juga membuka data keuangan yang mendasari keputusan tersebut: per 30 September 2026, MSTI mencatat laba bersih yang diatribusikan ke pemegang saham induk sebesar Rp298,35 miliar untuk sembilan bulan pertama tahun ini, saldo laba ditahan yang tidak dibatasi penggunaannya Rp1,56 triliun, dan total ekuitas Rp2,26 triliun.",
+   "Jadwal pembagian tetap seperti yang telah diumumkan sebelumnya. Periode terakhir saham diperdagangkan dengan hak dividen (cum dividen) di pasar reguler dan negosiasi berakhir 20 November 2026, sedangkan di pasar tunai berakhir 24 November 2026. Saham mulai diperdagangkan tanpa hak dividen (ex dividen) mulai 23 November 2026 untuk pasar reguler dan negosiasi, dan mulai 25 November 2026 untuk pasar tunai. Tanggal pencatatan pemegang saham yang berhak menerima dividen (recording date) ditetapkan 24 November 2026, dan dana dividen dicairkan ke rekening pemegang saham pada 10 Desember 2026.",
+   "Keputusan ini diambil oleh direksi pada 11 November 2026 dan disetujui efektif oleh Dewan Komisaris pada tanggal yang sama, dibayarkan di tengah tahun buku tanpa menunggu persetujuan RUPS Tahunan. Bagi pemegang saham yang sahamnya berada dalam penitipan kolektif KSEI, dana akan masuk ke Rekening Dana Nasabah melalui perusahaan efek atau bank kustodian pada tanggal pembayaran. Dividen ini dikecualikan dari pajak bagi wajib pajak badan dalam negeri, sementara wajib pajak orang pribadi dalam negeri yang menginvestasikan kembali dividennya di Indonesia juga bebas pajak.",
    "Dalam laporannya kepada Otoritas Jasa Keuangan, MSTI yang bergerak di bidang solusi, integrasi, dan pemeliharaan sistem teknologi informasi menyatakan bahwa aksi ini tidak berdampak signifikan terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ditandatangani secara elektronik oleh Jeo Halim selaku Direktur dan Corporate Secretary perusahaan."
   ],
   "fotoAdegan": "Technician checking server racks in a dim modern data center, rows of blue indicator lights glowing",
-  "takeaway": "Laporan ini condong positif bagi pemegang saham: perusahaan mampu membagikan dividen tunai Rp150,69 miliar di tengah tahun tanpa menunggu RUPS Tahunan, yang biasanya jadi sinyal bahwa kas perusahaan cukup longgar untuk membayar pemegang saham lebih cepat. Dua pos yang tersentuh adalah kas perusahaan, yang akan berkurang sebesar nilai dividen begitu dibayarkan, dan ekuitas, yaitu modal dan laba yang tercatat sebagai milik perusahaan, karena dividen diambil dari laba ditahan sehingga mengurangi pos ini di laporan keuangan berikutnya. Yang perlu dipantau pemegang saham adalah tenggat administratif: siapa yang membeli saham MSTI setelah 20 November 2026 di pasar reguler tidak lagi kebagian dividen ini, recording date jatuh 24 November 2026, dan pencairan dana baru terjadi 10 Desember 2026, jadi ada jeda sekitar dua minggu antara penentuan penerima dan uang benar-benar masuk rekening.",
+  "takeaway": "Laporan ini condong positif: perusahaan menunjukkan laba bersih sembilan bulan Rp298,35 miliar dan ekuitas Rp2,26 triliun, jauh lebih besar dari dividen Rp150,69 miliar yang dibagikan, sehingga pembayaran ini tidak menggerus kesehatan keuangan secara berarti. Dua pos yang tersentuh adalah kas, yang berkurang begitu dividen dicairkan 10 Desember 2026, dan ekuitas, karena dividen diambil dari saldo laba ditahan sehingga mengurangi pos modal perusahaan di laporan keuangan berikutnya. Yang perlu dipantau pemegang saham tetap tenggat administratif: siapa yang membeli saham MSTI setelah 20 November 2026 di pasar reguler tidak lagi kebagian dividen ini, recording date jatuh 24 November 2026, dan dana baru cair ke rekening pada 10 Desember 2026.",
   "sentimen": "positif",
   "peristiwa": "dividen",
   "judulIdx": "Pembagian dividen interim",
@@ -256,7 +378,16 @@ var ARTICLES = [
     "tanggal": "2026-12-10",
     "acara": "Pembayaran dividen tunai"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-12T11:05:45",
+    "ringkas": "Surat resmi ke BEI merinci data keuangan di balik dividen: laba bersih sembilan bulan Rp298,35 miliar dan ekuitas Rp2,26 triliun, jadwal tetap sama.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/059e4def0d_3c011064cd.pdf",
+    "judulIdx": "Jadwal Dividen Tunai Interim"
+   }
+  ],
+  "diperbarui": "2026-11-12T11:05:45"
  },
  {
   "slug": "kadi-selidiki-ulang-impor-baja-hrc-dari-belarus-dan-kazakstan",
@@ -671,6 +802,34 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Offshore support vessel anchored near a drilling platform at sea, cargo containers on deck, overcast tropical sky",
   "takeaway": "Hasil RUPST ini condong netral bagi RIGS: tidak ada dividen, tapi itu karena labanya dipakai menutup kerugian lama, bukan sinyal bahwa kinerjanya memburuk, sementara susunan direksi dan komisaris yang dipertahankan utuh menunjukkan tidak ada perombakan strategi. Keputusan ini menyentuh pos ekuitas, yaitu selisih antara total aset dan utang perusahaan yang tercatat di buku: laba yang dipakai menutup akumulasi kerugian berarti saldo negatif di ekuitas berkurang, sehingga modal perusahaan di atas kertas sedikit menguat meski tidak ada uang tunai yang mengalir ke kantong pemegang saham. Yang perlu dipantau selanjutnya adalah proses perubahan Anggaran Dasar soal klasifikasi usaha yang masih menunggu persetujuan Kementerian Hukum, OJK, dan Bursa Efek Indonesia, serta siapa akuntan publik baru yang akan ditunjuk Dewan Komisaris untuk mengaudit tahun buku 1 Juli 2026 hingga 30 Juni 2027.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Tahunan"
+ },
+ {
+  "slug": "rupst-wirg-10-november-dividen-nihil-komisaris-independen-lengser",
+  "category": "Aksi Korporasi",
+  "title": "RUPST WIRG 10 November: [Dividen] Nihil, Komisaris Independen Lengser",
+  "deck": "RUPST WIR ASIA menahan seluruh laba 2025 sebagai laba ditahan tanpa dividen, sekaligus memberhentikan Ferdinand Bennyanto dari kursi Komisaris Independen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T12:07:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75d5ab9f7f_f752ad64fe.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIRG",
+  "tags": [
+   "WIRG",
+   "RUPST",
+   "Komisaris Independen",
+   "Laba Ditahan"
+  ],
+  "body": [
+   "PT WIR ASIA Tbk (WIRG) menggelar Rapat Umum Pemegang Saham Tahunan Ketiga pada Selasa, 10 November 2026, di Wang Plaza, Kebon Jeruk, Jakarta Barat, yang dihadiri pemegang saham mewakili 1.922.910.449 saham atau 16,107% dari total saham dengan hak suara sah, melampaui syarat kuorum minimal 15,60%. Rapat menyetujui laporan tahunan dan laporan keuangan konsolidasian tahun buku 2025 yang diaudit Kantor Akuntan Publik Mirawati Sensi Idris dengan persetujuan 99,954% suara dan abstain 880.000 saham (0,046%). Untuk penggunaan laba bersih 2025, pemegang saham sepakat tidak membagikan dividen dan seluruh keuntungan dibukukan sebagai laba ditahan untuk pengembangan usaha, dengan suara setuju 99,619% dan abstain 7.320.600 saham (0,381%).",
+   "Perubahan paling konkret terjadi pada susunan pengurus. RUPST memberhentikan dengan hormat Ferdinand Bennyanto dari jabatan Komisaris Independen, efektif sejak penutupan rapat. Sebagai gantinya, susunan Dewan Komisaris kini terdiri dari Daniel Surya Wirjatmo sebagai Komisaris Utama, Michel Budi Wirjatmo, Philip Cahyono, dan Andreyanto Toemali sebagai Komisaris, serta M. Agus Imam Santoso dan Marco Iswara sebagai Komisaris Independen. Jajaran Direksi tetap dipimpin Stephen Budiman sebagai Direktur Utama, bersama Jeffrey Budiman, Stanislaus Aries Baju Nugroho, dan Senja Lazuardy sebagai Direktur, dengan masa jabatan berlaku sampai penutupan RUPST kelima setelah tanggal pengangkatan. Keputusan ini disetujui 99,954% suara. Rapat juga menyetujui penyesuaian Pasal 3 Anggaran Dasar mengenai kegiatan usaha agar sesuai Klasifikasi Baku Lapangan Usaha Indonesia 2025, dengan kegiatan usaha utama ditetapkan sebagai Konsultasi Manajemen dan Bisnis Lainnya serta Aktivitas Periklanan.",
+   "Agenda lain yang disetujui meliputi pendelegasian kewenangan kepada Dewan Komisaris untuk menunjuk akuntan publik yang akan mengaudit laporan keuangan tahun buku 2026, serta penetapan honorarium dan tunjangan bagi anggota Dewan Komisaris maksimum Rp1,8 miliar bersih untuk tahun 2026, dengan gaji Direksi didelegasikan kepada Dewan Komisaris melalui surat keputusan tersendiri. Rapat juga menerima penyampaian laporan realisasi penggunaan dana hasil Penawaran Umum Perdana, namun karena agenda ini bersifat laporan saja, tidak ada keputusan yang diambil dan ringkasan risalah ini tidak memuat rincian angka realisasi dana tersebut."
+  ],
+  "fotoAdegan": "Empty rows of chairs facing a podium in a modern conference hall after a shareholder meeting, soft daylight through tall windows",
+  "takeaway": "Laporan ini netral bagi pemegang saham: seluruh tujuh agenda disetujui dengan suara mayoritas di atas 99%, dan keputusan menahan seluruh laba tanpa dividen lebih terlihat sebagai kebijakan rutin perusahaan untuk mendanai ekspansi ketimbang sinyal tekanan keuangan, sementara pergantian satu komisaris independen adalah hal wajar dalam siklus RUPST dan tidak mengubah kendali pemegang saham utama. Laba yang ditahan menambah ekuitas, yaitu kekayaan bersih perusahaan di atas kertas, karena uangnya tidak keluar sebagai dividen tapi dipakai membiayai operasional atau ekspansi usaha, sementara jumlah saham beredar dan laba per saham tidak berubah dari keputusan RUPST ini. Yang perlu dipantau berikutnya adalah rincian realisasi dana hasil IPO yang baru disampaikan sebagai laporan tanpa angka dalam ringkasan ini, serta kinerja Dewan Komisaris baru di bawah pimpinan Daniel Surya Wirjatmo pada tahun buku 2026 yang akan diaudit oleh akuntan publik yang masih harus ditentukan.",
   "sentimen": "netral",
   "peristiwa": "rups",
   "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Tahunan"
@@ -26070,8 +26229,8 @@ var ARTICLES = [
  {
   "slug": "cbmf-gelar-rupst-4-desember-akui-telat-laporan-tahunan",
   "category": "Aksi Korporasi",
-  "title": "RUPST CBMF 4 Desember: [Agenda Baru] Laporan Dana IPO Ditambah",
-  "deck": "CBMF merevisi lagi pemanggilan RUPST tahun buku 2023: menambah agenda laporan realisasi dana IPO, menghapus klausul pembebasan tanggung jawab, agenda ganti direksi-komisaris tetap berlaku.",
+  "title": "RUPST CBMF 4 Desember: Klausul [Acquit et de Charge] Dihapus",
+  "deck": "Pemanggilan ulang RUPST CBMF tahun buku 2025 hanya mencabut klausul acquit et de charge, tanpa agenda laporan dana IPO yang sempat diberitakan; agenda final tujuh pos, RUPST tetap 4 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "28 Oktober 2026",
   "isoDate": "2026-10-28T20:02:47",
@@ -26081,17 +26240,17 @@ var ARTICLES = [
   "tags": [
    "CBMF",
    "RUPST",
-   "Pemanggilan Ulang",
-   "Laporan Tahunan"
+   "Cahaya Bintang Medan",
+   "Tata Kelola Perusahaan"
   ],
   "body": [
-   "PT Cahaya Bintang Medan Tbk (CBMF) menerbitkan pemanggilan ulang kedua untuk Rapat Umum Pemegang Saham Tahunan (RUPST) tahun buku yang berakhir 31 Desember 2023, pada Kamis, 12 November 2026. Dua perubahan utama ditambahkan ke mata acara: agenda baru berupa laporan realisasi penggunaan dana hasil penawaran umum saham perdana (IPO), dan penghapusan klausul pembebasan tanggung jawab penuh (acquit et de charge) bagi direksi dan dewan komisaris dari agenda pengesahan laporan tahunan. Dengan tambahan ini, mata acara RUPST menjadi delapan pos, termasuk agenda persetujuan pengangkatan kembali direksi dan dewan komisaris yang tetap dipertahankan tanpa perubahan.",
-   "Jadwal dan tempat penyelenggaraan RUPST tidak berubah. Rapat tetap digelar Jumat, 4 Desember 2026, pukul 09.00 sampai 10.00 WIB, di Antasari Place, Jalan Pangeran Antasari No. 45, Cilandak Barat, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per Rabu, 11 November 2026, pukul 16.00 WIB, sesuai jadwal yang sudah ditetapkan sebelumnya.",
-   "Secara lengkap, delapan mata acara RUPST kali ini adalah: (1) persetujuan atas keterlambatan penyampaian laporan tahunan 2023 sesuai Pasal 7 ayat (1) POJK Nomor 29/POJK.04/2016; (2) persetujuan dan pengesahan laporan tahunan serta laporan keuangan 2023, tanpa klausul pembebasan tanggung jawab; (3) penetapan penggunaan laba bersih 2023; (4) penunjukan Kantor Akuntan Publik Jonnardi, Jamaludin, Sukimto dan Rekan dengan akuntan publik Rizki Damir Mustika untuk mengaudit laporan keuangan tahun buku 2024; (5) penetapan remunerasi direksi dan dewan komisaris; (6) laporan realisasi penggunaan dana hasil penawaran umum perdana saham, agenda yang baru ditambahkan; (7) persetujuan pengangkatan kembali direksi; dan (8) persetujuan pengangkatan kembali dewan komisaris.",
+   "PT Cahaya Bintang Medan Tbk (CBMF) menerbitkan pemanggilan ulang Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku yang berakhir 31 Desember 2025, pada Kamis, 12 November 2026. Pemanggilan ulang ini merujuk pada pemanggilan awal bernomor 27/CBM-Corsec/X/2026 tertanggal 28 Oktober 2026, dan menurut tabel perbandingan resmi yang dilampirkan perusahaan, hanya ada satu perubahan dari pemanggilan awal: penghapusan klausul pembebasan tanggung jawab penuh (acquit et de charge) bagi direksi dan dewan komisaris dari agenda pengesahan laporan tahunan. Tidak ada agenda laporan realisasi dana hasil penawaran umum perdana (IPO) yang ditambahkan ke mata acara. Dengan begitu, RUPST ini tetap memuat tujuh mata acara, bukan delapan seperti sempat diberitakan sebelumnya.",
+   "Jadwal dan tempat penyelenggaraan tidak berubah. RUPST tetap digelar Jumat, 4 Desember 2026, pukul 09.00 sampai 10.00 WIB, di Antasari Place, Jalan Pangeran Antasari No. 45, Cilandak Barat, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per Rabu, 11 November 2026, pukul 16.00 WIB.",
+   "Tujuh mata acara RUPST yang final adalah: (1) persetujuan atas keterlambatan penyampaian laporan tahunan untuk tahun buku 2025 sesuai Pasal 7 ayat (1) POJK Nomor 29/POJK.04/2016; (2) persetujuan dan pengesahan laporan tahunan serta laporan keuangan 2025, tanpa klausul pembebasan tanggung jawab; (3) penetapan penggunaan laba bersih 2025; (4) penunjukan Kantor Akuntan Publik Jonnardi, Jamaludin, Sukimto dan Rekan dengan akuntan publik Rizki Damir Mustika untuk mengaudit laporan keuangan tahun buku 2026; (5) penetapan remunerasi direksi dan dewan komisaris; (6) persetujuan perubahan susunan direksi; dan (7) persetujuan perubahan susunan dewan komisaris.",
    "Mekanisme kehadiran tidak berubah. Perseroan mengimbau pemegang saham memberi suara elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, atau memberi kuasa elektronik (e-proxy) kepada PT Adimitra Jasa Korpora. Pemegang saham yang hadir fisik wajib membawa fotokopi KTP, badan hukum wajib membawa anggaran dasar dan susunan pengurus terakhir, pemegang saham di penitipan kolektif KSEI wajib menyerahkan Konfirmasi Tertulis Untuk Rapat (KTUR), dan kehadiran dimohon paling lambat pukul 08.30 WIB. Pemanggilan ulang ini ditandatangani Direktur Utama CBMF, Andre William, di Medan pada 12 November 2026."
   ],
   "fotoAdegan": "Workers sanding wooden furniture frames inside a sunlit workshop in North Sumatra, sawdust drifting in the air",
-  "takeaway": "Pemanggilan ulang kedua ini tergolong netral bagi fundamental CBMF, karena isinya murni administratif, menambah satu agenda pelaporan dan mencabut satu klausul hukum, tanpa angka keuangan baru yang diumumkan. Agenda yang paling dekat dengan kinerja adalah laporan realisasi dana IPO, karena menyangkut apakah dana publik yang terkumpul dari penawaran umum perdana dulu sudah dibelanjakan sesuai rencana, yang berpengaruh pada arus kas dan kapasitas usaha perusahaan. Hilangnya klausul pembebasan tanggung jawab (acquit et de charge) juga berarti direksi dan komisaris tidak otomatis bebas dari tuntutan atas pengurusan tahun 2023 begitu laporan tahunannya disahkan. Yang perlu dipantau adalah hasil RUPST pada Jumat, 4 Desember 2026, termasuk apakah pemegang saham menyetujui pengangkatan kembali direksi dan dewan komisaris yang agendanya dipastikan tetap ada, serta isi laporan realisasi dana IPO yang akan dipaparkan saat itu.",
+  "takeaway": "Pemanggilan ulang ini netral bagi fundamental CBMF, karena isinya murni koreksi administratif satu klausul hukum, bukan angka keuangan baru, dan justru mengoreksi kabar sebelumnya bahwa ada agenda tambahan laporan dana IPO yang ternyata tidak masuk mata acara final. Pos yang tersentuh adalah tata kelola, bukan arus kas atau laba: dengan klausul acquit et de charge dicabut, direksi dan dewan komisaris tidak otomatis bebas dari tuntutan atas pengurusan tahun buku 2025 begitu laporan tahunannya disahkan, sehingga tanggung jawab mereka tetap bisa dipersoalkan di kemudian hari. Penunjukan kembali KAP Jonnardi, Jamaludin, Sukimto dan Rekan untuk mengaudit tahun buku 2026 juga relevan dipantau karena menentukan siapa yang akan memverifikasi laporan keuangan Perseroan berikutnya. Yang perlu dipantau berikutnya adalah hasil RUPST pada Jumat, 4 Desember 2026, terutama keputusan soal perubahan susunan direksi dan dewan komisaris yang agendanya tetap ada namun hasilnya belum diketahui.",
   "sentimen": "netral",
   "pembaruan": [
    {
@@ -26105,9 +26264,15 @@ var ARTICLES = [
     "ringkas": "CBMF menambah agenda laporan realisasi dana IPO di RUPST 4 Desember dan memastikan agenda pergantian direksi-komisaris tidak dihapus.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf38dae4c4_0d2a9def95.pdf",
     "judulIdx": "Perubahan Jadwal Rapat Umum Pemegang Saham Tahunan"
+   },
+   {
+    "tanggal": "2026-11-12T19:30:17",
+    "ringkas": "Pemanggilan ulang RUPST CBMF hanya mencabut klausul acquit et de charge, tanpa agenda laporan dana IPO, agenda final tetap tujuh pos.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/34cb179e48_254b358eb1.pdf",
+    "judulIdx": "Perubahan Jadwal Rapat Umum Pemegang Saham Tahunan"
    }
   ],
-  "diperbarui": "2026-11-12T19:29:28",
+  "diperbarui": "2026-11-12T19:30:17",
   "jadwal": [
    {
     "tanggal": "2026-11-11",
@@ -26115,7 +26280,7 @@ var ARTICLES = [
    },
    {
     "tanggal": "2026-12-04",
-    "acara": "RUPST CBMF, agenda bertambah jadi delapan pos"
+    "acara": "RUPST CBMF tahun buku 2025 di Antasari Place, Jakarta Selatan"
    }
   ],
   "peristiwa": "rups"

@@ -420,7 +420,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Pertemuan ini masih berupa penghimpunan masukan, belum ada aturan baru atau tenggat yang disebutkan secara konkret. Arah yang disampaikan adalah meniru program Jepang dan Korea Selatan agar perusahaan terbuka memperbaiki tata kelola dan efisiensi modal supaya harga sahamnya lebih menarik, dibarengi rencana mempercepat penindakan pelanggaran di bursa. Pihak yang berpotensi terdampak adalah pemegang saham publik dan investor, termasuk investor asing yang diminta menyampaikan kendala mereka berinvestasi di Indonesia, karena kebijakan ini menyangkut cara emiten dan regulator menjaga nilai aset yang mereka titipkan di bursa. Yang masih ditunggu untuk melihat apakah arah ini benar-benar berjalan adalah bentuk konkretnya, misalnya aturan OJK atau BEI soal percepatan penegakan aturan, serta hasil koordinasi soal pajak, bea masuk, dan energi hijau yang dijanjikan akan dibahas dengan kementerian lain.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "bi-resmikan-bank-kliring-yuan-untuk-dagang-ri-tiongkok",
@@ -448,7 +449,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah Indonesia kini memiliki bank kliring sendiri untuk yuan, dikelola Bank of China Jakarta dan didukung 12 bank nasional, sehingga transaksi dagang dengan Tiongkok bisa langsung pakai yuan tanpa singgah ke dolar Amerika Serikat. Pihak yang paling terdampak adalah bank-bank yang ditunjuk sebagai mitra serta eksportir dan importir yang berdagang dengan Tiongkok, karena mereka bisa menghemat biaya tukar mata uang dan mengurangi risiko kalau kurs dolar bergerak tajam. Lonjakan transaksi dari US$13,19 miliar sepanjang 2025 menjadi US$43,89 miliar hanya dalam sembilan bulan pertama 2026, ditambah penerbitan obligasi berdenominasi yuan yang naik dari CNY 7 miliar ke CNY 10 miliar, menunjukkan arah yang konsisten: penggunaan yuan dalam perdagangan Indonesia-Tiongkok makin dalam, bukan sekadar simbolis. Yang akan menentukan apakah tren ini benar-benar membantu memperbaiki defisit dagang Indonesia dengan Tiongkok, bukan sekadar memudahkan transaksi, adalah data ekspor Indonesia ke Tiongkok pada akhir 2026, karena angka yang dipublikasikan sejauh ini baru soal volume transaksi, belum soal arah neraca dagangnya.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "public-expose-cfin-18-november-laba-9m26-naik-13-3-ke-rp154-m",

@@ -3,6 +3,164 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupslb-rock-dijadwalkan-21-desember-dps-cut-off-26-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ROCK Dijadwalkan 21 Desember: [DPS] Cut Off 26 November",
+  "deck": "Rockfields Properti Indonesia (ROCK) akan menggelar RUPSLB pada 21 Desember 2026, pemegang saham tercatat hingga 26 November 2026 berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T13:16:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/14d5d5753e_e0d8928b87.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ROCK",
+  "tags": [
+   "ROCK",
+   "RUPSLB",
+   "Rockfields Properti Indonesia",
+   "RUPS"
+  ],
+  "body": [
+   "PT Rockfields Properti Indonesia Tbk (ROCK) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 21 Desember 2026 pukul 14.00 WIB. Lokasi rapat belum diumumkan secara pasti dan masih menunggu iklan resmi. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan paling lambat 26 November 2026 pukul 16.00 WIB, termasuk pemilik saham dalam sub rekening efek di PT Kustodian Sentral Efek Indonesia (KSEI) pada penutupan perdagangan di hari yang sama.",
+   "Surat pemberitahuan ini belum memuat agenda RUPSLB. Perseroan menyebutkan bahwa pemanggilan resmi, yang biasanya memuat mata acara rapat secara rinci, baru akan diterbitkan pada 27 November 2026 sesuai Pasal 17 ayat (1) POJK Nomor 15/2020. Dokumen ini juga mengingatkan bahwa pemegang saham atau kelompok pemegang saham yang mewakili minimal 1/20 dari seluruh saham berhak suara dapat mengusulkan mata acara rapat, dengan syarat usulan diajukan tertulis ke Direksi paling lambat 7 hari sebelum tanggal pemanggilan, disertai alasan dan bahan usulan, serta tidak bertentangan dengan anggaran dasar maupun aturan yang berlaku.",
+   "Untuk mempermudah partisipasi, Perseroan menghimbau pemegang saham memberikan kuasa secara elektronik lewat fasilitas e-Proxy di sistem Electronic General Meeting System pada aplikasi eASY.KSEI milik KSEI. Fasilitas ini tersedia sejak tanggal pemanggilan rapat pada 27 November 2026 sampai satu hari kerja sebelum RUPSLB digelar."
+  ],
+  "fotoAdegan": "Modern residential apartment towers under construction with cranes, afternoon light over a Jakarta suburb",
+  "takeaway": "Laporan ini netral bagi ROCK, karena isinya masih sebatas pemberitahuan prosedural soal jadwal dan tata cara RUPSLB, belum memuat agenda atau keputusan apa pun yang bisa dinilai menguntungkan atau merugikan pemegang saham. RUPSLB sendiri adalah forum di mana pemegang saham memberikan suara untuk keputusan besar perusahaan, misalnya perubahan modal, penerbitan saham baru, atau pergantian direksi, sehingga agenda yang nanti diumumkan baru menentukan apakah ada dampak ke pos-pos seperti jumlah saham beredar atau laba per saham. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 27 November 2026, karena dokumen itu akan mengungkap agenda sebenarnya dari rapat ini, sementara batas pencatatan pemegang saham yang berhak hadir jatuh pada 26 November 2026 dan rapatnya sendiri digelar 21 Desember 2026.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Batas akhir pencatatan pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Pemanggilan resmi RUPSLB diterbitkan"
+   },
+   {
+    "tanggal": "2026-12-21",
+    "acara": "RUPSLB digelar pukul 14.00 WIB"
+   }
+  ]
+ },
+ {
+  "slug": "dividen-interim-powr-rp31-28-per-saham-cair-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim POWR Rp31,28 per Saham, [Cair] 11 Desember 2026",
+  "deck": "Cikarang Listrindo (POWR) membagikan dividen interim Rp502,93 miliar atau Rp31,27592 per saham, dibayar 11 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T13:00:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3c9e7e9b43_34112b3ae5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POWR",
+  "tags": [
+   "POWR",
+   "dividen interim",
+   "Cikarang Listrindo",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Cikarang Listrindo Tbk (POWR) menetapkan pembagian dividen interim untuk tahun buku 2026 senilai US$27,85 juta, setara Rp502,93 miliar (tepatnya Rp502.928.142.971), berdasarkan keputusan rapat bersama Dewan Komisaris dan Direksi pada 11 November 2026. Dividen per saham ditetapkan Rp31,27592, dengan sumber dana berasal dari saldo laba ditahan perusahaan.",
+   "Jadwalnya, saham POWR akan diperdagangkan dengan hak dividen (cum dividen) di pasar reguler dan negosiasi hingga 20 November 2026, lalu berstatus tanpa hak dividen (ex dividen) mulai 23 November 2026. Di pasar tunai, cum dividen berlaku hingga 24 November 2026 dan ex dividen mulai 25 November 2026. Pemegang saham yang namanya tercatat di Daftar Pemegang Saham pada recording date 24 November 2026 pukul 16.15 WIB berhak menerima dividen ini, yang akan dibayarkan pada 11 Desember 2026 melalui KSEI ke rekening dana nasabah masing-masing pemegang saham.",
+   "Dasar pembagian dividen mengacu pada data keuangan per 30 September 2026: laba bersih yang diatribusikan ke entitas induk sebesar US$70,92 juta, saldo laba ditahan yang tidak dibatasi penggunaannya US$328,47 juta, dan total ekuitas US$749,89 juta. Konversi dividen ke rupiah menggunakan kurs tengah Bank Indonesia pada tanggal rapat, yaitu US$1 setara Rp18.059. Dividen ini dikecualikan dari pajak bagi pemegang saham badan dalam negeri, sementara pemegang saham perorangan dalam negeri bebas pajak sepanjang dividen diinvestasikan kembali di Indonesia; jika syarat itu tidak dipenuhi, dividen akan dikenai pajak penghasilan sesuai aturan yang berlaku."
+  ],
+  "fotoAdegan": "Steam rises from gas turbine power plant pipes at an industrial estate in West Java at dusk, distant factory lights",
+  "takeaway": "Laporan ini condong positif bagi Cikarang Listrindo: dividen Rp502,93 miliar yang dibagikan hanya sekitar 8 persen dari saldo laba ditahan perusahaan dan sekitar 4 persen dari total ekuitasnya, jadi pembagian ini tidak menggerus modal perusahaan dan menunjukkan kas internal yang masih tebal dibanding kewajiban membayar ke pemegang saham. Pos yang tersentuh adalah ekuitas dan saldo laba ditahan, dua angka yang mencerminkan kekayaan bersih perusahaan setelah dikurangi utang; keduanya tetap besar setelah dividen dibayarkan, jadi daya tahan keuangan perusahaan tidak terganggu. Yang perlu dipantau pemegang saham adalah recording date pada 24 November 2026, yaitu batas kepemilikan saham untuk berhak atas dividen ini, serta tanggal pembayaran pada 11 Desember 2026 ketika dana benar-benar masuk ke rekening.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Cum dividen di pasar tunai dan recording date pemegang saham"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
+ },
+ {
+  "slug": "rupst-rigs-10-november-dividen-nihil-direksi-lama-dipilih-lagi",
+  "category": "Aksi Korporasi",
+  "title": "RUPST RIGS 10 November: [Dividen] Nihil, Direksi Lama Dipilih Lagi",
+  "deck": "RUPST RIGS menetapkan laba bersih tahun buku 2025/2026 dipakai menutup kerugian, tanpa dividen, dan menunjuk ulang seluruh direksi serta komisaris hingga 2031.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T12:11:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf59a78268_e1bd6820d0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RIGS",
+  "tags": [
+   "RIGS",
+   "RUPST",
+   "Dividen",
+   "Rig Tenders"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham Tahunan (RUPST) PT Rig Tenders Indonesia Tbk (RIGS) yang digelar pada 10 November 2026 di Jakarta Selatan dihadiri pemegang saham yang mewakili 502.837.433 saham, atau 82,55 persen dari total 609.130.000 saham perusahaan. Keenam agenda rapat disetujui dengan suara setuju 502.482.933 saham atau 99,93 persen, dan suara menolak 354.500 saham atau 0,07 persen, tanpa ada suara abstain.",
+   "Pemegang saham menetapkan laba bersih tahun buku yang berakhir 30 Juni 2026 digunakan untuk menutup saldo akumulasi kerugian perusahaan, bukan untuk dana cadangan maupun dividen. Dengan keputusan itu, RIGS tidak membagikan dividen kepada pemegang saham untuk tahun buku tersebut. Rapat juga melimpahkan wewenang kepada Dewan Komisaris untuk menunjuk akuntan publik yang akan mengaudit laporan keuangan tahun buku 1 Juli 2026 hingga 30 Juni 2027, serta menetapkan honorarium dan tunjangan direksi dan komisaris untuk periode yang sama.",
+   "Rapat juga menyetujui perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha perusahaan agar sesuai dengan klasifikasi baku lapangan usaha terbaru dari Badan Pusat Statistik, sebagai syarat sistem perizinan berusaha elektronik yang berlaku di Indonesia. Direksi diberi kuasa menuangkan perubahan itu ke akta notaris dan mengajukan persetujuannya ke Kementerian Hukum, OJK, dan Bursa Efek Indonesia. Pada agenda keenam, seluruh anggota Direksi dan Dewan Komisaris diberhentikan dengan hormat lalu diangkat kembali untuk masa jabatan baru hingga penutupan RUPST tahun 2031: Hadi Sunarto sebagai Presiden Komisaris, Ratna Sari Suhartono sebagai Komisaris, dan Mikrowa Kirana sebagai Komisaris Independen, didampingi Kartika Hadi sebagai Presiden Direktur serta Stefano Katianda, Iriawan Hartana, dan Henrie Christian Wijaya Lauw sebagai Direktur.",
+   "Dalam sesi tanya jawab pada agenda pertama, kuasa pemegang saham Michael Winaryo, yang mewakili Stanley Winaryo Ng (pemilik 4.769.500 saham) dan Guandra Winaryo Ng (pemilik 5.729.900 saham), mengajukan pertanyaan terkait pengesahan Laporan Tahunan sebelum keputusan diambil."
+  ],
+  "fotoAdegan": "Offshore support vessel anchored near a drilling platform at sea, cargo containers on deck, overcast tropical sky",
+  "takeaway": "Hasil RUPST ini condong netral bagi RIGS: tidak ada dividen, tapi itu karena labanya dipakai menutup kerugian lama, bukan sinyal bahwa kinerjanya memburuk, sementara susunan direksi dan komisaris yang dipertahankan utuh menunjukkan tidak ada perombakan strategi. Keputusan ini menyentuh pos ekuitas, yaitu selisih antara total aset dan utang perusahaan yang tercatat di buku: laba yang dipakai menutup akumulasi kerugian berarti saldo negatif di ekuitas berkurang, sehingga modal perusahaan di atas kertas sedikit menguat meski tidak ada uang tunai yang mengalir ke kantong pemegang saham. Yang perlu dipantau selanjutnya adalah proses perubahan Anggaran Dasar soal klasifikasi usaha yang masih menunggu persetujuan Kementerian Hukum, OJK, dan Bursa Efek Indonesia, serta siapa akuntan publik baru yang akan ditunjuk Dewan Komisaris untuk mengaudit tahun buku 1 Juli 2026 hingga 30 Juni 2027.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Tahunan"
+ },
+ {
+  "slug": "blog-anak-usaha-ssa-tambah-fasilitas-kredit-bca-rp100-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BLOG: Anak Usaha SSA Tambah Fasilitas Kredit [BCA] Rp100 Miliar",
+  "deck": "Anak usaha BLOG, PT Simpan Sini Aja, menambah fasilitas kredit investasi Rp100 miliar dari BCA untuk membiayai gudang dan cold storage, total pinjaman naik jadi Rp210 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T11:25:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bbe62e5395_464314d0f3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLOG",
+  "tags": [
+   "BLOG",
+   "Trimitra Trans Persada",
+   "kredit bank",
+   "Simpan Sini Aja"
+  ],
+  "body": [
+   "PT Simpan Sini Aja (SSA), perusahaan terkendali PT Trimitra Trans Persada Tbk (BLOG), menandatangani Perubahan Kedua atas Perjanjian Fasilitas Kredit No. 10 dengan PT Bank Central Asia Tbk pada 10 November 2026, di hadapan notaris Nathania Mulyawati Nugroho di Kota Tangerang Selatan. Sebelumnya SSA memegang Kredit Lokal Rp10 miliar dan Kredit Investasi Rp100 miliar dengan sublimit Rp15 miliar untuk pembelian atau pembiayaan kembali unit forklift. Melalui perubahan ini, Kredit Investasi dipecah menjadi dua yaitu Kredit Investasi 1 senilai Rp100 miliar yang melanjutkan fasilitas lama, dan Kredit Investasi 2 senilai Rp100 miliar yang baru ditambahkan, masing-masing dengan sublimit maksimal Rp15 miliar untuk forklift. Dengan tambahan ini, total plafon kredit SSA naik dari Rp110 miliar menjadi Rp210 miliar.",
+   "Dana dari fasilitas kredit investasi ini dipakai untuk membeli atau membiayai kembali tanah, membangun gudang, membeli mesin dan peralatan cold storage, serta membeli atau membiayai kembali unit forklift. Fasilitas Kredit Lokal berjalan sejak tanggal penandatanganan perubahan ini dan berakhir pada 13 Agustus 2027, sedangkan Kredit Investasi 1 berjalan sejak 23 Oktober 2024 hingga 31 Oktober 2027. Kredit Investasi 2 mulai berjalan sejak tanggal penandatanganan perubahan ini untuk jangka waktu 12 bulan.",
+   "Fasilitas ini dijamin dengan kendaraan bermotor, unit forklift, serta sejumlah bidang tanah berstatus Hak Guna Bangunan. Tanah di Cipeundeuy, Padalarang, Kabupaten Bandung Barat, Jawa Barat tercatat atas nama PT Trimitra Trans Persada, sementara beberapa bidang tanah lain di Winong, Boyolali, Jawa Tengah dan di Desa Durian, Sungai Ambawang, Kabupaten Kubu Raya, Kalimantan Barat, tercatat atas nama PT Simpan Sini Aja. Manajemen BLOG menyatakan tidak ada dampak material terhadap kondisi keuangan, aspek hukum, maupun kelangsungan usaha perseroan, selain kewajiban membayar bunga dan pokok pinjaman sesuai perjanjian kredit tersebut."
+  ],
+  "fotoAdegan": "Forklifts moving pallets inside a large warehouse with cold storage units, workers in uniform, industrial lighting",
+  "takeaway": "Laporan ini netral bagi BLOG, karena yang terjadi adalah penambahan plafon pinjaman untuk anak usaha, bukan dana yang sudah pasti terpakai atau pendapatan baru yang masuk. Pos yang tersentuh adalah beban bunga dan arus kas SSA, sebab setiap penambahan fasilitas kredit berarti ada kewajiban bunga dan cicilan pokok baru yang harus dibayar dari kas operasional, meski di sisi lain dana ini juga bisa menambah kapasitas gudang dan cold storage SSA kalau benar dipakai. Yang perlu dipantau adalah penggunaan aktual fasilitas Kredit Investasi 2 senilai Rp100 miliar itu, apakah benar dicairkan dan dipakai untuk membangun gudang serta cold storage seperti tujuan yang disebutkan, serta jatuh tempo Fasilitas Kredit Lokal pada 13 Agustus 2027 dan Kredit Investasi 1 pada 31 Oktober 2027 yang akan menentukan beban pembayaran SSA ke depan.",
+  "sentimen": "netral",
+  "judulIdx": "Laporan informasi atau fakta material terkait Penandatanganan Penambahan Fasilitas Kredit PT Simpan Sini Aja selaku Perusahaan Terkendali dari PT Trimitra Trans Persada Tbk (BLOG)",
+  "jadwal": [
+   {
+    "tanggal": "2027-08-13",
+    "acara": "Jatuh tempo Fasilitas Kredit Lokal SSA"
+   },
+   {
+    "tanggal": "2027-10-31",
+    "acara": "Jatuh tempo Fasilitas Kredit Investasi 1 SSA"
+   }
+  ]
+ },
+ {
   "slug": "ekonomi-ri-tumbuh-5-47-persen-harga-minyak-melandai",
   "category": "Makroekonomi",
   "title": "Ekonomi RI Tumbuh 5,47 Persen, Harga Minyak [Melandai]",
@@ -190,6 +348,60 @@ var ARTICLES = [
     "acara": "Akhir periode berlaku peringkat saat ini"
    }
   ]
+ },
+ {
+  "slug": "fuji-pemeriksaan-bursa-ungkap-pemegang-saham-baru-5-61",
+  "category": "Aksi Korporasi",
+  "title": "FUJI: [Pemeriksaan] Bursa Ungkap Pemegang Saham Baru 5,61%",
+  "deck": "FUJI menjawab permintaan penjelasan Bursa terkait pemeriksaan transaksi saham, data menunjukkan pemegang saham baru muncul dengan porsi 5,61% per akhir Maret 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T04:30:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8c923afa02_7e3cb399bb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FUJI",
+  "tags": [
+   "FUJI",
+   "pemeriksaan bursa",
+   "pemegang saham",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "PT Fuji Finance Indonesia Tbk (FUJI) menyampaikan jawaban resmi kepada Bursa Efek Indonesia melalui surat Nomor 130/FFI/XI/2026 tanggal 12 November 2026, menanggapi permintaan penjelasan bursa Nomor S-14011/BEI.PP3/11-2026 tanggal 10 November 2026 terkait pemeriksaan transaksi saham perseroan. Bursa meminta data susunan pemegang saham dan manajemen perseroan, pemegang saham dari pemegang saham utama (ultimate shareholder), serta anak usaha, masing-masing per 2 Maret 2026, untuk mendukung proses pemeriksaan tersebut.",
+   "Karena tidak memiliki data pemegang saham harian, Fuji Finance melampirkan data per 28 Februari dan 31 Maret 2026 dari biro administrasi efek PT Sinartama Gunita. Per 28 Februari 2026, Indovalue Capital Asset Management Ltd memegang 715.000.000 saham (55%), Agustin Widyawati 97.676.600 saham (7,51%), dan sisanya 487.323.400 saham (37,49%) dipegang publik, dari total 1,3 miliar saham FUJI. Pada 31 Maret 2026, porsi Indovalue tidak berubah di 55%, saham Agustin Widyawati turun tipis menjadi 96.462.300 lembar (7,42%), muncul pemegang saham baru bernama Batara Bayu Soedarwanto dengan 72.928.400 saham (5,61%), sementara porsi publik menyusut menjadi 415.609.300 saham (31,97%). Jumlah saham yang berpindah dari kelompok publik dan dari Agustin Widyawati nyaris sama persis dengan jumlah saham baru yang dipegang Batara Bayu Soedarwanto.",
+   "Susunan manajemen perseroan per 2 Maret 2026 terdiri dari Komisaris Utama Anton Santoso, Komisaris Ir Freddy Santoso, Komisaris Independen Anastasia Christinawati Jaya Saputra, Direktur Utama Anita Marta, dan Direktur Dian Ariyanti Wijaya. Fuji Finance juga mengungkap bahwa seluruh saham pemegang saham mayoritasnya, Indovalue Capital Asset Management Ltd, yakni 50.000.000 saham (100%), dimiliki oleh Ong Kee Hua yang juga menjabat direktur dan chairman di perusahaan tersebut. Untuk poin ketiga permintaan bursa, perseroan menyatakan tidak memiliki anak usaha."
+  ],
+  "fotoAdegan": "Pedestrians crossing a busy street beneath glass office towers in a Jakarta financial district at midday",
+  "takeaway": "Laporan ini condong negatif bagi FUJI karena mengonfirmasi bahwa bursa sedang memeriksa transaksi sahamnya, dan data yang diserahkan sendiri menunjukkan munculnya pemegang saham baru dengan porsi 5,61% yang nyaris seluruhnya berasal dari saham yang sebelumnya beredar di publik, berpindah tangan dalam waktu kurang dari sebulan. Yang tersentuh adalah komposisi pemegang saham dan jumlah saham yang benar-benar beredar bebas di pasar, karena pelaku pasar memperhatikan siapa sebenarnya menguasai suatu saham dan apakah ada akumulasi yang tidak transparan, yang bisa memengaruhi likuiditas perdagangan saham itu ke depannya. Kepemilikan Indovalue yang tetap di 55% berarti status pengendali tidak berubah, tapi munculnya pemegang baru sebesar itu dalam waktu sesingkat sebulan tetap wajar menjadi alasan bursa memeriksa transaksinya. Yang perlu dipantau selanjutnya adalah hasil akhir pemeriksaan Bursa Efek Indonesia ini dan apakah ada permintaan data tambahan atau tindak lanjut, sebab surat ini tidak menyebut jadwal kelanjutan selain tenggat lima hari bursa untuk menjawab yang sudah dipenuhi perseroan hari ini.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "ppre-raih-kontrak-flyover-rp68-miliar-di-maluku-utara-kontrak",
+  "category": "Aksi Korporasi",
+  "title": "PPRE Raih Kontrak Flyover Rp68 Miliar di Maluku Utara [Kontrak]",
+  "deck": "PPRE menggarap pembangunan flyover jalan produksi tambang di Moronopo, Maluku Utara, senilai Rp68 miliar untuk klien PT Nusa Karya Arindo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T04:27:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a628a06d34_4e04ce7ab4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRE",
+  "tags": [
+   "PPRE",
+   "kontrak baru",
+   "konstruksi",
+   "Maluku Utara"
+  ],
+  "body": [
+   "PT PP Presisi Tbk (PPRE) mendapat kontrak baru senilai Rp68 miliar untuk membangun Flyover Jalan Produksi Tambang di Moronopo, Provinsi Maluku Utara. Proyek ini milik PT Nusa Karya Arindo, dan groundbreaking-nya telah dilaksanakan pada 27 Oktober 2026, dihadiri oleh Direktur Utama PPRE, Rizki Dianugrah.",
+   "PPRE dipercaya menangani proyek ini mulai dari tahap persiapan hingga penyelesaian konstruksi. Pekerjaan yang tercakup meliputi penggalian, penimbunan, pemadatan tanah, pembangunan dinding penahan (retaining wall), pekerjaan struktur bawah dan atas flyover, pemasangan girder beton pracetak (PCI girder), serta pengaspalan badan flyover dan jalan oprit menuju jetty. Perseroan juga menerapkan standar keselamatan, kesehatan kerja, dan lingkungan, serta manajemen proyek sepanjang masa pengerjaan.",
+   "Direktur Utama PPRE, Rizki Dianugrah, mengatakan Perseroan berkomitmen menyelesaikan proyek sesuai standar mutu, keselamatan, dan target waktu yang ditetapkan, sekaligus mendukung kesiapan infrastruktur dan kelancaran operasional pertambangan di Moronopo. Sementara itu, Vice President Corporate Secretary PPRE, Mei Elsa Kembaren, menyebut perolehan kontrak ini sejalan dengan portofolio bisnis Perseroan yang mencakup jasa operasional penambangan, konstruksi sipil, dan pengelolaan alat berat, serta disebut memperkuat strategi pertumbuhan usaha PPRE di sektor jasa pertambangan."
+  ],
+  "fotoAdegan": "Heavy construction machinery building bridge pillars on an unpaved mining access road through tropical hills, overcast daylight.",
+  "takeaway": "Laporan ini condong positif bagi PPRE karena menambah portofolio proyek infrastruktur pendukung tambang lewat kontrak baru senilai Rp68 miliar dari klien PT Nusa Karya Arindo, tanpa ada sinyal beban atau risiko tambahan yang disebutkan. Pos kinerja yang tersentuh adalah arus kas, yakni uang yang masuk dan keluar dari kas perusahaan, karena proyek konstruksi bertahap seperti ini biasanya dibayar sesuai termin penyelesaian pekerjaan mulai dari penggalian hingga pengaspalan, dan pelaku pasar memperhatikan pencairan pembayaran itu karena langsung menambah kas Perseroan. Dokumen ini tidak menyebut skema pembayaran atau target tanggal penyelesaian proyek, sehingga belum bisa dipastikan kapan dampak kas itu akan terlihat di laporan keuangan PPRE. Yang perlu dipantau selanjutnya adalah progres pembangunan flyover yang groundbreaking-nya sudah berlangsung sejak 27 Oktober 2026, serta apakah PPRE memperoleh kontrak serupa lain di sektor jasa pertambangan sebagai bagian dari strategi pertumbuhannya.",
+  "sentimen": "positif",
+  "judulIdx": "Perkuat Portofolio Jasa Pertambangan, PPRE Raih Kontrak Baru Pembangunan Flyover di Maluku Utara"
  },
  {
   "slug": "39-umkm-dapat-fasilitasi-104-barcode-untuk-masuk-ritel-modern",
@@ -13928,8 +14140,8 @@ var ARTICLES = [
  {
   "slug": "yelo-panggil-rupslb-kedua-modal-dasar-naik-ke-rp765-miliar",
   "category": "Aksi Korporasi",
-  "title": "YELO Panggil RUPSLB Kedua, [Modal Dasar] Naik ke Rp765 Miliar",
-  "deck": "RUPSLB pertama gagal kuorum, YELO panggil rapat kedua pada 10 November 2026 untuk menyetujui kenaikan modal dasar dari Rp275,2 miliar menjadi Rp765,1 miliar.",
+  "title": "RUPSLB Kedua YELO [Gagal Kuorum], RUPSLB Ketiga Tunggu OJK",
+  "deck": "RUPSLB kedua YELO pada 10 November 2026 kembali gagal kuorum, hanya dihadiri 36,943 persen saham berhak suara. RUPSLB ketiga menanti penetapan kuorum oleh OJK.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "3 November 2026",
   "isoDate": "2026-11-03T19:14:47",
@@ -13939,17 +14151,28 @@ var ARTICLES = [
   "tags": [
    "YELO",
    "RUPSLB",
-   "modal dasar",
-   "pasar modal"
+   "Modal Dasar",
+   "OJK"
   ],
   "body": [
-   "PT Yelooo Integra Datanet Tbk (YELO) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua setelah RUPSLB pertama pada 26 Oktober 2026 gagal mengambil keputusan karena kehadiran pemegang saham tidak memenuhi kuorum sesuai Anggaran Dasar Perseroan dan POJK Nomor 15/POJK.04/2020. Rapat kedua dijadwalkan Selasa, 10 November 2026 pukul 14.00 WIB di Ruang Jawa Axa Tower Lantai 42, Jalan Prof Dr Satrio Kav. 18, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan Bursa pada Senin, 2 November 2026.",
-   "Agenda tunggal rapat ini adalah persetujuan perubahan Pasal 4 Anggaran Dasar terkait peningkatan modal dasar Perseroan, dari semula Rp275.200.000.000 yang terbagi atas 2.752.000.000 saham, menjadi Rp765.109.762.000 yang terbagi atas 7.651.097.620 saham. Dengan kata lain, pagar maksimum saham yang boleh diterbitkan Perseroan naik hampir tiga kali lipat dari posisi sekarang.",
-   "Pemanggilan ditandatangani Corporate Secretary YELO, Rosi Diani, pada 3 November 2026. Pemegang saham dapat hadir secara fisik atau elektronik melalui aplikasi eASY.KSEI, dengan batas waktu pemberian kuasa dan suara elektronik pukul 12.00 WIB satu hari kerja sebelum rapat. Bagi yang memberi kuasa manual, pertanyaan atas agenda rapat bisa disampaikan lewat email ke corsec@passpod.com dengan tembusan ke ficomindo_br@yahoo.com, dan jawabannya akan dikirim paling lambat tiga hari kerja setelah rapat."
+   "RUPSLB kedua PT Yelooo Integra Datanet Tbk (YELO) yang digelar Selasa, 10 November 2026, kembali gagal mengambil keputusan karena tidak memenuhi kuorum. Rapat hanya dihadiri pemegang saham yang mewakili 706.647.374 saham, atau 36,943 persen dari total 1.912.774.405 saham berhak suara yang diterbitkan Perseroan, jauh dari ambang kuorum yang disyaratkan Pasal 22 ayat 3 huruf c Anggaran Dasar dan Pasal 42 huruf c POJK Nomor 15/POJK.04/2020.",
+   "Dengan kegagalan ini, Perseroan akan menggelar RUPSLB ketiga. Berbeda dari rapat kedua, syarat kuorum kehadiran dan kuorum pengambilan keputusan untuk RUPSLB ketiga ini tidak lagi mengikuti Anggaran Dasar, melainkan ditetapkan oleh Otoritas Jasa Keuangan (OJK) atas permohonan Perseroan. YELO wajib mengajukan permohonan itu ke OJK paling lambat 14 hari setelah RUPSLB kedua dilangsungkan, dan pemanggilan serta pelaksanaan RUPSLB ketiga baru akan dilakukan setelah ada penetapan dari OJK.",
+   "Agenda RUPSLB kedua ini sama dengan RUPSLB pertama yang juga gagal kuorum pada 26 Oktober 2026, yakni persetujuan perubahan Pasal 4 Anggaran Dasar untuk menaikkan modal dasar Perseroan dari Rp275,2 miliar yang terbagi atas 2.752.000.000 saham, menjadi Rp765,1 miliar yang terbagi atas 7.651.097.620 saham. Karena RUPSLB kedua juga tidak mengambil keputusan, pagar maksimum saham yang boleh diterbitkan Perseroan ini belum berubah dan masih menunggu RUPSLB ketiga.",
+   "Rencana penambahan pagar modal dasar ini muncul di tengah kinerja YELO yang tertekan, dengan rugi Rp643 juta dan pendapatan yang turun 41 persen pada kuartal III 2026, sehingga ruang modal yang lebih besar ini diperkirakan disiapkan untuk mencari dana segar lewat penerbitan saham baru di kemudian hari."
   ],
   "fotoAdegan": "Modern glass office high-rise exterior in Jakarta's business district, street-level view, midday light reflecting off windows",
-  "takeaway": "Kami menilai rencana ini netral untuk saat ini, sebab menaikkan modal dasar hanya membuka pagar maksimum saham yang boleh diterbitkan, belum berarti saham baru benar-benar dicetak dan dijual ke publik. Yang perlu diwaspadai adalah jumlah saham beredar: pagar modal dasar naik dari 2,75 miliar menjadi 7,65 miliar lembar, hampir tiga kali lipat, sehingga kalau Perseroan benar-benar menerbitkan saham baru sampai batas itu nanti, laba per saham bagi pemegang saham lama bisa tergerus karena keuntungan dibagi ke lebih banyak lembar. Sinyal ini perlu dibaca bersama kinerja YELO yang sedang tertekan, yakni rugi Rp643 juta dan pendapatan turun 41 persen di kuartal III 2026, sehingga ruang modal yang lebih besar ini kemungkinan disiapkan untuk mencari dana segar. Yang perlu dipantau berikutnya adalah hasil RUPSLB kedua pada 10 November 2026, karena RUPSLB pertama pada 26 Oktober 2026 batal mengambil keputusan akibat kuorum tidak tercapai, dan bila rapat kedua ini kembali menemui kendala kehadiran, agenda peningkatan modal dasar bisa tertunda lagi.",
-  "sentimen": "netral"
+  "takeaway": "Kami menilai hasil RUPSLB kedua ini netral bagi YELO, sebab yang gagal hanyalah syarat kehadiran rapat, bukan keputusan bisnis yang langsung merugikan atau menguntungkan pemegang saham. Yang tersentuh tetap pos jumlah saham beredar, karena agenda menaikkan pagar modal dasar dari 2,75 miliar menjadi 7,65 miliar lembar saham belum juga disahkan, dan kalau nanti disahkan lalu dipakai untuk menerbitkan saham baru, keuntungan perusahaan akan dibagi ke lebih banyak lembar sehingga laba per saham pemegang saham lama bisa mengecil. Dua kali gagal kuorum, pada 26 Oktober dan 10 November 2026, dengan kehadiran yang sama rendahnya di angka 36,9 persen, menunjukkan minat pemegang saham untuk datang atau memberi kuasa masih tipis. Yang perlu dipantau berikutnya adalah permohonan YELO ke OJK agar OJK menetapkan sendiri syarat kuorum RUPSLB ketiga, yang menurut dokumen ini harus diajukan paling lambat 14 hari setelah 10 November 2026, serta pemanggilan RUPSLB ketiga begitu OJK memberi penetapannya.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-12T13:12:32",
+    "ringkas": "RUPSLB kedua YELO 10 November 2026 kembali gagal kuorum (36,943% kehadiran), RUPSLB ketiga menanti penetapan kuorum oleh OJK.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bcaed11cc5_1290be61a5.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-12T13:12:32",
+  "peristiwa": "rups"
  },
  {
   "slug": "foru-tanggapi-bursa-ungkap-rencana-transaksi-afiliasi",

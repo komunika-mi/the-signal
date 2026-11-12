@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupslb-rock-dijadwalkan-21-desember-dps-cut-off-26-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ROCK Dijadwalkan 21 Desember: [DPS] Cut Off 26 November",
+  "deck": "Rockfields Properti Indonesia (ROCK) akan menggelar RUPSLB pada 21 Desember 2026, pemegang saham tercatat hingga 26 November 2026 berhak hadir.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ROCK",
+   "RUPSLB",
+   "Rockfields Properti Indonesia",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/14d5d5753e_e0d8928b87.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-interim-powr-rp31-28-per-saham-cair-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim POWR Rp31,28 per Saham, [Cair] 11 Desember 2026",
+  "deck": "Cikarang Listrindo (POWR) membagikan dividen interim Rp502,93 miliar atau Rp31,27592 per saham, dibayar 11 Desember 2026.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POWR",
+   "dividen interim",
+   "Cikarang Listrindo",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3c9e7e9b43_34112b3ae5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupst-rigs-10-november-dividen-nihil-direksi-lama-dipilih-lagi",
+  "category": "Aksi Korporasi",
+  "title": "RUPST RIGS 10 November: [Dividen] Nihil, Direksi Lama Dipilih Lagi",
+  "deck": "RUPST RIGS menetapkan laba bersih tahun buku 2025/2026 dipakai menutup kerugian, tanpa dividen, dan menunjuk ulang seluruh direksi serta komisaris hingga 2031.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RIGS",
+   "RUPST",
+   "Dividen",
+   "Rig Tenders"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf59a78268_e1bd6820d0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "blog-anak-usaha-ssa-tambah-fasilitas-kredit-bca-rp100-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BLOG: Anak Usaha SSA Tambah Fasilitas Kredit [BCA] Rp100 Miliar",
+  "deck": "Anak usaha BLOG, PT Simpan Sini Aja, menambah fasilitas kredit investasi Rp100 miliar dari BCA untuk membiayai gudang dan cold storage, total pinjaman naik jadi Rp210 miliar.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLOG",
+   "Trimitra Trans Persada",
+   "kredit bank",
+   "Simpan Sini Aja"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bbe62e5395_464314d0f3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekonomi-ri-tumbuh-5-47-persen-harga-minyak-melandai",
   "category": "Makroekonomi",
   "title": "Ekonomi RI Tumbuh 5,47 Persen, Harga Minyak [Melandai]",
@@ -99,6 +163,38 @@ var ARTICLES = [
    "Gagal Bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/87588d8eed_8840c8e4af.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fuji-pemeriksaan-bursa-ungkap-pemegang-saham-baru-5-61",
+  "category": "Aksi Korporasi",
+  "title": "FUJI: [Pemeriksaan] Bursa Ungkap Pemegang Saham Baru 5,61%",
+  "deck": "FUJI menjawab permintaan penjelasan Bursa terkait pemeriksaan transaksi saham, data menunjukkan pemegang saham baru muncul dengan porsi 5,61% per akhir Maret 2026.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FUJI",
+   "pemeriksaan bursa",
+   "pemegang saham",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8c923afa02_7e3cb399bb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppre-raih-kontrak-flyover-rp68-miliar-di-maluku-utara-kontrak",
+  "category": "Aksi Korporasi",
+  "title": "PPRE Raih Kontrak Flyover Rp68 Miliar di Maluku Utara [Kontrak]",
+  "deck": "PPRE menggarap pembangunan flyover jalan produksi tambang di Moronopo, Maluku Utara, senilai Rp68 miliar untuk klien PT Nusa Karya Arindo.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRE",
+   "kontrak baru",
+   "konstruksi",
+   "Maluku Utara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a628a06d34_4e04ce7ab4.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6373,102 +6469,6 @@ var ARTICLES = [
    "Singapura"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/52c13be528_cb03cffcbb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-ungkap-risiko-msci-dan-target-free-float-15-di-pubex",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Ungkap Risiko [MSCI] dan Target Free Float 15% di Pubex",
-  "deck": "Dalam public expose 3 November 2026, manajemen PGEO membahas risiko penurunan klasifikasi pasar modal Indonesia oleh MSCI, rencana menaikkan free float ke 15%, serta progres proyek dan pembiayaan panas bumi.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "public expose",
-   "MSCI",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/74d6d65924_a8e5a542c1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "giaa-siapkan-rights-issue-danantara-bayar-pakai-saham-gmfi",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Siapkan Rights Issue, Danantara Bayar Pakai Saham [GMFI]",
-  "deck": "Garuda mengoreksi keterbukaan rights issue dan menegaskan Danantara akan membayar haknya dengan menyetor saham GMFI, bukan tunai, menyusul rampungnya pengalihan saham tersebut ke Danantara.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "GMFI",
-   "Danantara",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/050ad1ebf8_62f8eb6572.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-alihkan-rp46-39-miliar-dana-obligasi-minta-restu-rupo",
-  "category": "Aksi Korporasi",
-  "title": "TOBA Alihkan Rp46,39 Miliar Dana Obligasi, Minta Restu [RUPO]",
-  "deck": "TOBA mengusulkan mengalihkan Rp46,39 miliar dana obligasi, yang semula untuk setoran modal ke anak usaha TMU, menjadi modal kerja perseroan. Keputusan diambil dalam RUPO 19 November 2026.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "obligasi",
-   "RUPO",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a37c161719_602a6e4dcb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-alihkan-rp89-miliar-dana-obligasi-ke-modal-kerja",
-  "category": "Aksi Korporasi",
-  "title": "TOBA Alihkan Rp89 Miliar Dana Obligasi ke [Modal Kerja]",
-  "deck": "TBS Energi Utama (TOBA) mengalihkan Rp89 miliar dana obligasi dari rencana setoran modal ke anak usaha limbah AMES menjadi modal kerja, menunggu persetujuan RUPO 19 November 2026.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "obligasi",
-   "RUPO",
-   "TBS Energi Utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e502d09a24_10d3135235.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbtn-bayar-mandiri-sekuritas-rp16-miliar-untuk-rombak-bancassurance",
-  "category": "Aksi Korporasi",
-  "title": "BBTN Bayar Mandiri Sekuritas [Rp16 Miliar] untuk Rombak Bancassurance",
-  "deck": "BBTN menunjuk Mandiri Sekuritas sebagai lead advisor penyusunan ulang kemitraan bancassurance senilai Rp16 miliar, tergolong transaksi afiliasi karena sama-sama dikendalikan negara.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBTN",
-   "transaksi afiliasi",
-   "Mandiri Sekuritas",
-   "bancassurance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec35d6f6b4_eecd4f5d05.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kota-panggil-ulang-rupslb-bahas-rights-issue-dan-akuisisi",
-  "category": "Aksi Korporasi",
-  "title": "KOTA Panggil Ulang RUPSLB, Bahas [Rights Issue] dan Akuisisi",
-  "deck": "PT DMS Propertindo Tbk (KOTA) menjadwal ulang RUPSLB ke 27 November 2026, membahas rights issue, saham seri baru, dan akuisisi dua perusahaan.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOTA",
-   "RUPSLB",
-   "rights issue",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7d03d0b2c4_7e0bd418c8.pdf",
   "sourceLabel": "IDX"
  }
 ];
